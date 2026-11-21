@@ -1,0 +1,84 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://toptravellist.example/schemas/scoring.schema.json",
+  "title": "Destination scores",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "impact",
+    "uniqueness",
+    "significance",
+    "experience",
+    "depth",
+    "categories"
+  ],
+  "properties": {
+    "impact": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "minimum": 0,
+      "maximum": 10
+    },
+    "uniqueness": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "minimum": 0,
+      "maximum": 10
+    },
+    "significance": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "minimum": 0,
+      "maximum": 10
+    },
+    "experience": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "minimum": 0,
+      "maximum": 10
+    },
+    "depth": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "minimum": 0,
+      "maximum": 10
+    },
+    "categories": {
+      "type": "object",
+      "propertyNames": {
+        "enum": [
+          "nature",
+          "architecture",
+          "history",
+          "culture",
+          "food",
+          "beaches",
+          "wildlife",
+          "adventure",
+          "nightlife",
+          "photography",
+          "family",
+          "relaxation"
+        ]
+      },
+      "additionalProperties": {
+        "type": [
+          "number",
+          "null"
+        ],
+        "minimum": 0,
+        "maximum": 10
+      }
+    }
+  }
+}

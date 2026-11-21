@@ -1,0 +1,30 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://toptravellist.example/schemas/city.schema.json",
+  "title": "TopTravelList city",
+  "description": "Location must contain only latitude, longitude, country_code.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "name",
+    "location",
+    "scores"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^city-[a-z]{2}-[a-z0-9]+(?:-[a-z0-9]+)*$"
+    },
+    "name": {
+      "type": "string",
+      "minLength": 1
+    },
+    "location": {
+      "$ref": "https://toptravellist.example/schemas/location.schema.json"
+    },
+    "scores": {
+      "$ref": "https://toptravellist.example/schemas/scoring.schema.json"
+    }
+  }
+}

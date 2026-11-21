@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://toptravellist.example/schemas/location.schema.json",
+  "title": "Destination location",
+  "description": "Exactly three location fields; coordinates use WGS84 decimal degrees.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "country_code",
+    "latitude",
+    "longitude"
+  ],
+  "properties": {
+    "country_code": {
+      "type": "string",
+      "pattern": "^[A-Z]{2}$"
+    },
+    "latitude": {
+      "type": "number",
+      "minimum": -90,
+      "maximum": 90
+    },
+    "longitude": {
+      "type": "number",
+      "minimum": -180,
+      "maximum": 180
+    }
+  }
+}

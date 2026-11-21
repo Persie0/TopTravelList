@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "scale": {
+    "min": 0,
+    "max": 10
+  },
+  "dimensions": {
+    "impact": 0.3,
+    "uniqueness": 0.25,
+    "significance": 0.2,
+    "experience": 0.15,
+    "depth": 0.1
+  },
+  "categories": [
+    "nature",
+    "architecture",
+    "history",
+    "culture",
+    "food",
+    "beaches",
+    "wildlife",
+    "adventure",
+    "nightlife",
+    "photography",
+    "family",
+    "relaxation"
+  ]
+}
