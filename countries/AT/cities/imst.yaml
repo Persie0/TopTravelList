@@ -1,0 +1,15 @@
+id: city-at-imst
+name: "Imst"
+location:
+  country_code: AT
+  latitude: 47.245
+  longitude: 10.7397
+scores:
+  impact: 7.2
+  uniqueness: 7.4
+  significance: 6.9
+  experience: 8
+  depth: 7.6
+  categories:
+    nature: 8.7
+    adventure: 8.7

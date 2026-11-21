@@ -1,0 +1,18 @@
+id: city-at-krems-an-der-donau
+name: "Krems an der Donau"
+location:
+  country_code: AT
+  latitude: 48.41
+  longitude: 15.602
+scores:
+  impact: 8
+  uniqueness: 8
+  significance: 8.2
+  experience: 8.3
+  depth: 8.2
+  categories:
+    history: 8.3
+    architecture: 8.4
+    culture: 8.2
+    food: 8.2
+    photography: 8.2

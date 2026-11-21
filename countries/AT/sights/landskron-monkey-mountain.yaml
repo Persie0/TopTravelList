@@ -1,0 +1,16 @@
+id: sight-at-landskron-monkey-mountain
+name: "Monkey Mountain Landskron"
+location:
+  country_code: AT
+  latitude: 46.642
+  longitude: 13.9
+scores:
+  impact: 7.5
+  uniqueness: 8.3
+  significance: 7
+  experience: 8.7
+  depth: 7.8
+  categories:
+    wildlife: 8.9
+    family: 9.2
+    nature: 8.1

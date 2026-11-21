@@ -1,0 +1,17 @@
+id: sight-at-southern-styria-wine-road
+name: "Southern Styria Wine Road"
+location:
+  country_code: AT
+  latitude: 46.679
+  longitude: 15.535
+scores:
+  impact: 8.4
+  uniqueness: 8.6
+  significance: 7.7
+  experience: 9
+  depth: 8.9
+  categories:
+    nature: 9
+    food: 9.5
+    photography: 9.3
+    relaxation: 9.4

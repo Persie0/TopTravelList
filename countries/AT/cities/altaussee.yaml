@@ -1,0 +1,16 @@
+id: city-at-altaussee
+name: "Altaussee"
+location:
+  country_code: AT
+  latitude: 47.6391
+  longitude: 13.7656
+scores:
+  impact: 8.3
+  uniqueness: 8
+  significance: 7
+  experience: 8.6
+  depth: 7.3
+  categories:
+    nature: 9.5
+    photography: 9.5
+    relaxation: 9

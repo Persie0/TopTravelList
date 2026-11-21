@@ -1,0 +1,16 @@
+id: sight-at-silvretta-high-alpine-road
+name: "Silvretta High Alpine Road"
+location:
+  country_code: AT
+  latitude: 46.918
+  longitude: 10.063
+scores:
+  impact: 9.2
+  uniqueness: 9.1
+  significance: 8
+  experience: 9.4
+  depth: 9.2
+  categories:
+    nature: 9.9
+    adventure: 9.2
+    photography: 9.9

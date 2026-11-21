@@ -1,0 +1,16 @@
+id: sight-at-rax-mountain
+name: "Rax Mountain"
+location:
+  country_code: AT
+  latitude: 47.7191
+  longitude: 15.726
+scores:
+  impact: 8.8
+  uniqueness: 8.3
+  significance: 7.4
+  experience: 9.2
+  depth: 8.8
+  categories:
+    nature: 9.3
+    adventure: 9.5
+    photography: 9.3

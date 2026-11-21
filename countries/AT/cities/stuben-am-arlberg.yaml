@@ -1,0 +1,16 @@
+id: city-at-stuben-am-arlberg
+name: "Stuben am Arlberg"
+location:
+  country_code: AT
+  latitude: 47.1389
+  longitude: 10.1606
+scores:
+  impact: 7.5
+  uniqueness: 7.9
+  significance: 6.5
+  experience: 8.4
+  depth: 7.5
+  categories:
+    nature: 8.8
+    adventure: 9.1
+    relaxation: 8.4

@@ -1,0 +1,16 @@
+id: sight-at-grafenegg-castle
+name: "Grafenegg Castle"
+location:
+  country_code: AT
+  latitude: 48.4304
+  longitude: 15.7488
+scores:
+  impact: 8.1
+  uniqueness: 8.5
+  significance: 8.2
+  experience: 8.4
+  depth: 8
+  categories:
+    architecture: 9.1
+    culture: 9
+    history: 8.6

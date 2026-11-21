@@ -1,0 +1,16 @@
+id: sight-at-kaunertal-glacier-road
+name: "Kaunertal Glacier Road"
+location:
+  country_code: AT
+  latitude: 46.876
+  longitude: 10.708
+scores:
+  impact: 9.2
+  uniqueness: 9.2
+  significance: 7.7
+  experience: 9.4
+  depth: 8.9
+  categories:
+    nature: 9.8
+    photography: 9.8
+    adventure: 9.3

@@ -1,0 +1,16 @@
+id: sight-at-untersberg
+name: "Untersberg"
+location:
+  country_code: AT
+  latitude: 47.7187
+  longitude: 12.9849
+scores:
+  impact: 8.8
+  uniqueness: 8.5
+  significance: 8.1
+  experience: 9.2
+  depth: 8.7
+  categories:
+    nature: 9.5
+    adventure: 9.3
+    photography: 9.6

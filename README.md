@@ -21,6 +21,7 @@ schemas/
 scripts/
   generate_countries.py
   validate.py
+  rank.py
 rules.md
 requirements.txt
 ```
@@ -33,11 +34,20 @@ Every destination is stored as an individual YAML file in its country's `cities/
 python -m pip install -r requirements.txt
 python scripts/generate_countries.py
 python scripts/validate.py
+python scripts/rank.py --country AT --kind cities --limit 20
+python scripts/rank.py --country AT --kind sights --limit 20
+python scripts/rank.py --country AT --kind sights --category nature --limit 20
 ```
 
 The registry covers **197 travel-country entries**: the 193 United Nations member states, the Holy See and Palestine (UN observer states), plus Taiwan and Kosovo as separately listed travel destinations. Kosovo uses the commonly used, user-assigned code `XK`, not an official ISO 3166-1 code. This is a geographic organization convention, not a statement on political recognition. Territories are not included.
 
 See [rules.md](rules.md) for the universal scoring rubric and [methodology/scoring.json](methodology/scoring.json) for the machine-readable weights and categories.
+
+## Austria — first populated country
+
+Austria (`AT`) currently has **45 city/town/village destinations** and **133 sights**, each with an initial five-dimension rating and category ratings. The scores are **provisional editorial assessments**, not objective facts or definitive worldwide standings. Coordinates identify approximate representative points and should not be used as precise navigation destinations.
+
+Use `scripts/rank.py` for sorted comparisons; it computes the overall score and category rankings directly from source YAML without generating additional files. Each category is independently rated on the 0–10 scale, as described in `rules.md`.
 
 ## Destination file examples
 
@@ -51,12 +61,18 @@ location:
   latitude: 48.2082
   longitude: 16.3738
 scores:
-  impact: null
-  uniqueness: null
-  significance: null
-  experience: null
-  depth: null
-  categories: {}
+  impact: 9.6
+  uniqueness: 9.1
+  significance: 9.8
+  experience: 9.4
+  depth: 9.7
+  categories:
+    architecture: 9.8
+    history: 9.7
+    culture: 9.9
+    food: 9.1
+    nightlife: 8.5
+    photography: 9.1
 ```
 
 `countries/AT/sights/schoenbrunn-palace.yaml`:
@@ -69,15 +85,19 @@ location:
   latitude: 48.1845
   longitude: 16.3122
 scores:
-  impact: null
-  uniqueness: null
-  significance: null
-  experience: null
-  depth: null
-  categories: {}
+  impact: 9.3
+  uniqueness: 8.9
+  significance: 9.5
+  experience: 9.3
+  depth: 9.2
+  categories:
+    architecture: 9.8
+    history: 9.6
+    culture: 9.5
+    photography: 9.5
 ```
 
-Coordinates above are approximate illustrative center points, not verified entrance locations. Null means *not assessed*, not zero. Do not assign rankings to incomplete assessments.
+Coordinates are approximate representative points, not verified entrance locations. Null means *not assessed*, not zero. Do not assign rankings to incomplete assessments.
 
 ## Notes
 

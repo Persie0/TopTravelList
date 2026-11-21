@@ -1,0 +1,16 @@
+id: sight-at-bregenz-floating-stage
+name: "Bregenz Floating Stage"
+location:
+  country_code: AT
+  latitude: 47.5044
+  longitude: 9.7412
+scores:
+  impact: 9.1
+  uniqueness: 9.6
+  significance: 9
+  experience: 9.3
+  depth: 8.1
+  categories:
+    culture: 9.8
+    architecture: 9.1
+    photography: 9.6

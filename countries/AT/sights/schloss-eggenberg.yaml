@@ -1,0 +1,16 @@
+id: sight-at-schloss-eggenberg
+name: "Schloss Eggenberg"
+location:
+  country_code: AT
+  latitude: 47.0739
+  longitude: 15.3906
+scores:
+  impact: 9
+  uniqueness: 9.1
+  significance: 9.4
+  experience: 9
+  depth: 8.7
+  categories:
+    architecture: 9.8
+    history: 9.6
+    culture: 9.1

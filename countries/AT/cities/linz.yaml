@@ -1,0 +1,17 @@
+id: city-at-linz
+name: "Linz"
+location:
+  country_code: AT
+  latitude: 48.3069
+  longitude: 14.2858
+scores:
+  impact: 7.9
+  uniqueness: 7.9
+  significance: 7.9
+  experience: 8.4
+  depth: 8.4
+  categories:
+    culture: 9
+    architecture: 8
+    history: 7.9
+    food: 8

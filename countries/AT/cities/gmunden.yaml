@@ -1,0 +1,17 @@
+id: city-at-gmunden
+name: "Gmunden"
+location:
+  country_code: AT
+  latitude: 47.9184
+  longitude: 13.7993
+scores:
+  impact: 8.7
+  uniqueness: 8.2
+  significance: 7.1
+  experience: 8.8
+  depth: 7.9
+  categories:
+    nature: 9.2
+    architecture: 8
+    photography: 9.3
+    relaxation: 8.8

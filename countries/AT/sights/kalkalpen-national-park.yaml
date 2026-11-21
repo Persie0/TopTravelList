@@ -1,0 +1,16 @@
+id: sight-at-kalkalpen-national-park
+name: "Kalkalpen National Park"
+location:
+  country_code: AT
+  latitude: 47.77
+  longitude: 14.43
+scores:
+  impact: 9
+  uniqueness: 9
+  significance: 8.8
+  experience: 9.3
+  depth: 9.2
+  categories:
+    nature: 9.8
+    wildlife: 9.6
+    adventure: 9.4

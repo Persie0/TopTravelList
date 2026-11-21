@@ -1,0 +1,16 @@
+id: sight-at-nordkette-hafelekar
+name: "Nordkette / Hafelekar"
+location:
+  country_code: AT
+  latitude: 47.3121
+  longitude: 11.3837
+scores:
+  impact: 9.4
+  uniqueness: 9.4
+  significance: 8
+  experience: 9.5
+  depth: 9
+  categories:
+    nature: 9.9
+    adventure: 9.6
+    photography: 9.9

@@ -4,7 +4,7 @@ This document defines the **same quality-scoring system for every country, city 
 
 ## What is rated?
 
-- A **city** is a destination visited as a city (its broader city experience, including its attractions).
+- A **city** is a settlement visited as a destination (including towns and villages); rate its broader visitor experience, including its attractions. The folder name is an editorial grouping, not a claim about legal city status.
 - A **sight** is an individual point of interest, natural attraction, landmark, or visitable area.
 - All destinations use the same five core dimensions and score scale.
 - Compare cities with cities and sights with sights by default. Mixed comparisons are possible but should be explicitly labeled, because a city and a single attraction are different units of experience.
@@ -19,6 +19,8 @@ This document defines the **same quality-scoring system for every country, city 
 | **Significance** | **20%** | How important is it historically, culturally, scientifically or naturally? |
 | **Experience** | **15%** | How rewarding and engaging is an actual visit, independently of price or distance? |
 | **Depth** | **10%** | How much meaningful exploration or discovery does the destination offer relative to its type? |
+
+These ratings are **editorial judgments**, not objective measurements. Early country scores are provisional first-pass assessments and may be recalibrated against worldwide benchmarks as the database grows.
 
 Each dimension is rated from **0 to 10**; decimal values are allowed. Apply the same anchors regardless of country, popularity, or local alternatives:
 

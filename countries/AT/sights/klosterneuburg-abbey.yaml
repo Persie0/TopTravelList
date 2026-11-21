@@ -1,0 +1,16 @@
+id: sight-at-klosterneuburg-abbey
+name: "Klosterneuburg Abbey"
+location:
+  country_code: AT
+  latitude: 48.3083
+  longitude: 16.3247
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 9.2
+  experience: 8.7
+  depth: 8.4
+  categories:
+    architecture: 9.3
+    history: 9.5
+    culture: 9

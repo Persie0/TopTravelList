@@ -1,0 +1,16 @@
+id: sight-at-hintertux-glacier
+name: "Hintertux Glacier"
+location:
+  country_code: AT
+  latitude: 47.073
+  longitude: 11.678
+scores:
+  impact: 9
+  uniqueness: 9
+  significance: 7.5
+  experience: 9.4
+  depth: 9.2
+  categories:
+    nature: 9.7
+    adventure: 9.9
+    photography: 9.6

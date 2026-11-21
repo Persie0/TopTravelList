@@ -1,0 +1,17 @@
+id: sight-at-gesaeuse-national-park
+name: "Gesäuse National Park"
+location:
+  country_code: AT
+  latitude: 47.581
+  longitude: 14.689
+scores:
+  impact: 9.2
+  uniqueness: 9.3
+  significance: 8.3
+  experience: 9.6
+  depth: 9.5
+  categories:
+    nature: 9.9
+    adventure: 9.8
+    wildlife: 9.3
+    photography: 9.8

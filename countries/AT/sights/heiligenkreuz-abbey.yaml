@@ -1,0 +1,16 @@
+id: sight-at-heiligenkreuz-abbey
+name: "Heiligenkreuz Abbey"
+location:
+  country_code: AT
+  latitude: 48.055
+  longitude: 16.1304
+scores:
+  impact: 8.3
+  uniqueness: 8.9
+  significance: 9.2
+  experience: 8.4
+  depth: 7.9
+  categories:
+    history: 9.6
+    architecture: 9.2
+    culture: 9

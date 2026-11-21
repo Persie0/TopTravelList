@@ -1,0 +1,17 @@
+id: sight-at-hohe-wand-nature-park
+name: "Hohe Wand Nature Park"
+location:
+  country_code: AT
+  latitude: 47.8264
+  longitude: 16.0584
+scores:
+  impact: 8.3
+  uniqueness: 7.9
+  significance: 6.8
+  experience: 9
+  depth: 8.4
+  categories:
+    nature: 9.1
+    adventure: 9.3
+    photography: 9
+    family: 8.8

@@ -1,0 +1,16 @@
+id: sight-at-carnuntum-archaeological-park
+name: "Carnuntum Archaeological Park"
+location:
+  country_code: AT
+  latitude: 48.1128
+  longitude: 16.8572
+scores:
+  impact: 8.5
+  uniqueness: 9.3
+  significance: 9.4
+  experience: 9
+  depth: 8.7
+  categories:
+    history: 9.9
+    culture: 9.3
+    family: 9

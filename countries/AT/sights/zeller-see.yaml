@@ -1,0 +1,17 @@
+id: sight-at-zeller-see
+name: "Lake Zell"
+location:
+  country_code: AT
+  latitude: 47.325
+  longitude: 12.802
+scores:
+  impact: 8.8
+  uniqueness: 8.4
+  significance: 7.2
+  experience: 9.1
+  depth: 8.8
+  categories:
+    nature: 9.5
+    photography: 9.6
+    relaxation: 9.2
+    beaches: 8.2

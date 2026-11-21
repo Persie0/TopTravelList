@@ -1,0 +1,19 @@
+id: city-at-vienna
+name: "Vienna"
+location:
+  country_code: AT
+  latitude: 48.2082
+  longitude: 16.3738
+scores:
+  impact: 9.6
+  uniqueness: 9.1
+  significance: 9.8
+  experience: 9.4
+  depth: 9.7
+  categories:
+    architecture: 9.8
+    history: 9.7
+    culture: 9.9
+    food: 9.1
+    nightlife: 8.5
+    photography: 9.1

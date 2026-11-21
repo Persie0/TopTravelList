@@ -1,0 +1,17 @@
+id: city-at-alpbach
+name: "Alpbach"
+location:
+  country_code: AT
+  latitude: 47.397
+  longitude: 11.9422
+scores:
+  impact: 8.6
+  uniqueness: 8.6
+  significance: 7.2
+  experience: 8.7
+  depth: 7.4
+  categories:
+    architecture: 8.7
+    nature: 9.4
+    photography: 9.4
+    relaxation: 8.9

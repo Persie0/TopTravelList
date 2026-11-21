@@ -1,0 +1,17 @@
+id: sight-at-attersee
+name: "Attersee"
+location:
+  country_code: AT
+  latitude: 47.899
+  longitude: 13.563
+scores:
+  impact: 8.8
+  uniqueness: 8.6
+  significance: 7.6
+  experience: 9
+  depth: 8.9
+  categories:
+    nature: 9.4
+    relaxation: 9.2
+    photography: 9.4
+    beaches: 8.3

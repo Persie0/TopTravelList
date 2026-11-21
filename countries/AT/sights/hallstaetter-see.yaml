@@ -1,0 +1,16 @@
+id: sight-at-hallstaetter-see
+name: "Lake Hallstatt"
+location:
+  country_code: AT
+  latitude: 47.5636
+  longitude: 13.643
+scores:
+  impact: 9.3
+  uniqueness: 9.2
+  significance: 8.6
+  experience: 9.4
+  depth: 9.1
+  categories:
+    nature: 9.8
+    photography: 10
+    relaxation: 9.2

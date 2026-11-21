@@ -1,0 +1,16 @@
+id: sight-at-moenchsberg-viewpoints
+name: "Mönchsberg Viewpoints"
+location:
+  country_code: AT
+  latitude: 47.798
+  longitude: 13.036
+scores:
+  impact: 8.8
+  uniqueness: 8.2
+  significance: 7.2
+  experience: 9.1
+  depth: 8.2
+  categories:
+    photography: 9.8
+    nature: 8.7
+    adventure: 8.2

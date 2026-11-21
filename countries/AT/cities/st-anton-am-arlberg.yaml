@@ -1,0 +1,17 @@
+id: city-at-st-anton-am-arlberg
+name: "St. Anton am Arlberg"
+location:
+  country_code: AT
+  latitude: 47.1278
+  longitude: 10.2637
+scores:
+  impact: 8.4
+  uniqueness: 8.4
+  significance: 7
+  experience: 9
+  depth: 8.3
+  categories:
+    nature: 9.3
+    adventure: 9.7
+    nightlife: 8.3
+    photography: 9

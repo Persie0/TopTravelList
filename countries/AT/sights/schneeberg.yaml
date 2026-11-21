@@ -1,0 +1,16 @@
+id: sight-at-schneeberg
+name: "Schneeberg"
+location:
+  country_code: AT
+  latitude: 47.7651
+  longitude: 15.805
+scores:
+  impact: 8.7
+  uniqueness: 8.2
+  significance: 7.5
+  experience: 9.1
+  depth: 8.7
+  categories:
+    nature: 9.3
+    adventure: 9
+    photography: 9.5

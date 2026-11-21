@@ -1,0 +1,16 @@
+id: city-at-feldkirch
+name: "Feldkirch"
+location:
+  country_code: AT
+  latitude: 47.237
+  longitude: 9.5983
+scores:
+  impact: 7.9
+  uniqueness: 8
+  significance: 8
+  experience: 8.1
+  depth: 7.6
+  categories:
+    architecture: 8.7
+    history: 8.2
+    photography: 8.4

@@ -1,0 +1,16 @@
+id: sight-at-villach-alpine-road
+name: "Villach Alpine Road"
+location:
+  country_code: AT
+  latitude: 46.611
+  longitude: 13.726
+scores:
+  impact: 8.5
+  uniqueness: 8.4
+  significance: 7.2
+  experience: 9
+  depth: 8.5
+  categories:
+    nature: 9.4
+    photography: 9.5
+    adventure: 9

@@ -1,0 +1,16 @@
+id: sight-at-vienna-city-hall
+name: "Vienna City Hall"
+location:
+  country_code: AT
+  latitude: 48.2108
+  longitude: 16.3578
+scores:
+  impact: 8.5
+  uniqueness: 8.3
+  significance: 8.3
+  experience: 8.1
+  depth: 7
+  categories:
+    architecture: 9.3
+    history: 8.3
+    photography: 9

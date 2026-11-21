@@ -1,0 +1,16 @@
+id: sight-at-krimml-waterfalls
+name: "Krimml Waterfalls"
+location:
+  country_code: AT
+  latitude: 47.2071
+  longitude: 12.1696
+scores:
+  impact: 9.5
+  uniqueness: 9.3
+  significance: 8.5
+  experience: 9.4
+  depth: 8.7
+  categories:
+    nature: 9.9
+    adventure: 9.1
+    photography: 9.7

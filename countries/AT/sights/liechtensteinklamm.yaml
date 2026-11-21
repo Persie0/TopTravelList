@@ -1,0 +1,16 @@
+id: sight-at-liechtensteinklamm
+name: "Liechtensteinklamm Gorge"
+location:
+  country_code: AT
+  latitude: 47.3005
+  longitude: 13.1916
+scores:
+  impact: 9
+  uniqueness: 9.2
+  significance: 7.8
+  experience: 9.1
+  depth: 8
+  categories:
+    nature: 9.8
+    adventure: 9.2
+    photography: 9.5

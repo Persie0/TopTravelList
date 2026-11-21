@@ -1,0 +1,16 @@
+id: sight-at-schaerading-old-town
+name: "Schärding Old Town"
+location:
+  country_code: AT
+  latitude: 48.4576
+  longitude: 13.4325
+scores:
+  impact: 7.8
+  uniqueness: 8.2
+  significance: 8.1
+  experience: 8.2
+  depth: 7.3
+  categories:
+    architecture: 8.9
+    history: 8.2
+    photography: 8.8

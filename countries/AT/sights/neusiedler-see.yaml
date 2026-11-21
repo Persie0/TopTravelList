@@ -1,0 +1,18 @@
+id: sight-at-neusiedler-see
+name: "Lake Neusiedl"
+location:
+  country_code: AT
+  latitude: 47.837
+  longitude: 16.762
+scores:
+  impact: 8.7
+  uniqueness: 9
+  significance: 8.8
+  experience: 9.1
+  depth: 9.4
+  categories:
+    nature: 9.2
+    wildlife: 9.6
+    photography: 9.1
+    relaxation: 9.3
+    beaches: 8.4

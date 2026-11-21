@@ -1,0 +1,16 @@
+id: sight-at-prater-giant-ferris-wheel
+name: "Vienna Giant Ferris Wheel"
+location:
+  country_code: AT
+  latitude: 48.2168
+  longitude: 16.3966
+scores:
+  impact: 8.5
+  uniqueness: 9.1
+  significance: 8.8
+  experience: 8.7
+  depth: 6.9
+  categories:
+    history: 9
+    photography: 9.3
+    family: 8.8

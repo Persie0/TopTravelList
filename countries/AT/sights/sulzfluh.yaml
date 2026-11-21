@@ -1,0 +1,16 @@
+id: sight-at-sulzfluh
+name: "Sulzfluh"
+location:
+  country_code: AT
+  latitude: 47.0202
+  longitude: 9.8506
+scores:
+  impact: 9
+  uniqueness: 9
+  significance: 7.2
+  experience: 9.2
+  depth: 8.7
+  categories:
+    nature: 9.8
+    adventure: 9.7
+    photography: 9.7

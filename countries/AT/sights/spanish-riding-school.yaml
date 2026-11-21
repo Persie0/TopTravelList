@@ -1,0 +1,16 @@
+id: sight-at-spanish-riding-school
+name: "Spanish Riding School"
+location:
+  country_code: AT
+  latitude: 48.2071
+  longitude: 16.3666
+scores:
+  impact: 8.8
+  uniqueness: 9.5
+  significance: 9.4
+  experience: 8.6
+  depth: 8
+  categories:
+    culture: 9.6
+    history: 9.5
+    family: 8.4

@@ -1,0 +1,17 @@
+id: sight-at-riegersburg-castle
+name: "Riegersburg Castle"
+location:
+  country_code: AT
+  latitude: 47.0004
+  longitude: 15.9323
+scores:
+  impact: 8.8
+  uniqueness: 9
+  significance: 8.7
+  experience: 9.1
+  depth: 8.5
+  categories:
+    architecture: 9.6
+    history: 9.3
+    photography: 9.5
+    family: 9

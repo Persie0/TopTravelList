@@ -1,0 +1,17 @@
+id: city-at-heiligenblut-am-grossglockner
+name: "Heiligenblut am Großglockner"
+location:
+  country_code: AT
+  latitude: 47.0397
+  longitude: 12.8435
+scores:
+  impact: 9
+  uniqueness: 8.9
+  significance: 7.6
+  experience: 8.8
+  depth: 7.7
+  categories:
+    nature: 9.8
+    architecture: 8.2
+    photography: 9.8
+    adventure: 9.2

@@ -1,0 +1,16 @@
+id: sight-at-schloss-ort
+name: "Schloss Ort"
+location:
+  country_code: AT
+  latitude: 47.918
+  longitude: 13.8016
+scores:
+  impact: 8.6
+  uniqueness: 9
+  significance: 8.5
+  experience: 8.7
+  depth: 7.2
+  categories:
+    architecture: 9.3
+    history: 8.8
+    photography: 9.8

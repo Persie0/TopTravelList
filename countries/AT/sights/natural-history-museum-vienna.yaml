@@ -1,0 +1,16 @@
+id: sight-at-natural-history-museum-vienna
+name: "Natural History Museum Vienna"
+location:
+  country_code: AT
+  latitude: 48.2051
+  longitude: 16.3597
+scores:
+  impact: 8.8
+  uniqueness: 8.4
+  significance: 9.2
+  experience: 9.1
+  depth: 9.2
+  categories:
+    culture: 9.4
+    history: 9
+    family: 9.3

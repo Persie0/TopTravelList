@@ -1,0 +1,16 @@
+id: sight-at-golden-roof-innsbruck
+name: "Golden Roof"
+location:
+  country_code: AT
+  latitude: 47.2687
+  longitude: 11.3947
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 9.1
+  experience: 8.4
+  depth: 7.1
+  categories:
+    architecture: 9.3
+    history: 9.4
+    photography: 9.1

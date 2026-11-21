@@ -1,0 +1,16 @@
+id: sight-at-saalbach-hinterglemm-mountains
+name: "Saalbach-Hinterglemm Mountains"
+location:
+  country_code: AT
+  latitude: 47.375
+  longitude: 12.625
+scores:
+  impact: 8.8
+  uniqueness: 8.4
+  significance: 7.2
+  experience: 9.2
+  depth: 9.1
+  categories:
+    nature: 9.6
+    adventure: 9.7
+    photography: 9.2

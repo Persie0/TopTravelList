@@ -1,0 +1,16 @@
+id: sight-at-brandnertal
+name: "Brandnertal"
+location:
+  country_code: AT
+  latitude: 47.103
+  longitude: 9.738
+scores:
+  impact: 8.6
+  uniqueness: 8.2
+  significance: 7.3
+  experience: 9.2
+  depth: 9
+  categories:
+    nature: 9.6
+    adventure: 9.5
+    photography: 9.5

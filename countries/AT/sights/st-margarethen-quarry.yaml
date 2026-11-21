@@ -1,0 +1,16 @@
+id: sight-at-st-margarethen-quarry
+name: "St. Margarethen Quarry"
+location:
+  country_code: AT
+  latitude: 47.8024
+  longitude: 16.6357
+scores:
+  impact: 8.4
+  uniqueness: 9
+  significance: 8.2
+  experience: 8.8
+  depth: 8.5
+  categories:
+    culture: 9.5
+    history: 8.4
+    photography: 9

@@ -1,0 +1,16 @@
+id: sight-at-aqua-dome-laengenfeld
+name: "Aqua Dome Längenfeld"
+location:
+  country_code: AT
+  latitude: 47.071
+  longitude: 10.9688
+scores:
+  impact: 8.2
+  uniqueness: 8.5
+  significance: 7.4
+  experience: 9.3
+  depth: 8.5
+  categories:
+    relaxation: 9.7
+    architecture: 8.7
+    nature: 8.3

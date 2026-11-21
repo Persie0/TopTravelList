@@ -1,0 +1,18 @@
+id: city-at-salzburg
+name: "Salzburg"
+location:
+  country_code: AT
+  latitude: 47.8007
+  longitude: 13.0453
+scores:
+  impact: 9.4
+  uniqueness: 9.1
+  significance: 9.3
+  experience: 9.4
+  depth: 8.8
+  categories:
+    architecture: 9.5
+    history: 9.2
+    culture: 9.5
+    nature: 8.3
+    photography: 9.5

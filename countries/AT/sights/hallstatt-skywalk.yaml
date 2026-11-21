@@ -1,0 +1,16 @@
+id: sight-at-hallstatt-skywalk
+name: "Hallstatt Skywalk"
+location:
+  country_code: AT
+  latitude: 47.562
+  longitude: 13.651
+scores:
+  impact: 9.1
+  uniqueness: 9.2
+  significance: 7.4
+  experience: 9.1
+  depth: 7.2
+  categories:
+    photography: 10
+    nature: 9.6
+    adventure: 8.2

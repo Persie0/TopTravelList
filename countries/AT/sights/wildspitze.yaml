@@ -1,0 +1,16 @@
+id: sight-at-wildspitze
+name: "Wildspitze"
+location:
+  country_code: AT
+  latitude: 46.8853
+  longitude: 10.8672
+scores:
+  impact: 9.6
+  uniqueness: 9.4
+  significance: 8
+  experience: 9.6
+  depth: 8.7
+  categories:
+    nature: 9.9
+    adventure: 10
+    photography: 9.9

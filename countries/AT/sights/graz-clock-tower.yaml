@@ -1,0 +1,16 @@
+id: sight-at-graz-clock-tower
+name: "Graz Clock Tower"
+location:
+  country_code: AT
+  latitude: 47.0752
+  longitude: 15.4376
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 9
+  depth: 7.9
+  categories:
+    architecture: 9.4
+    history: 9
+    photography: 9.6

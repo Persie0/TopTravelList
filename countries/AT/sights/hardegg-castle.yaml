@@ -1,0 +1,16 @@
+id: sight-at-hardegg-castle
+name: "Hardegg Castle"
+location:
+  country_code: AT
+  latitude: 48.8542
+  longitude: 15.8599
+scores:
+  impact: 8.5
+  uniqueness: 8.7
+  significance: 8.6
+  experience: 8.5
+  depth: 7.6
+  categories:
+    architecture: 9.2
+    history: 9
+    photography: 9.4

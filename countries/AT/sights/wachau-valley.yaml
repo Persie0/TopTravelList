@@ -1,0 +1,18 @@
+id: sight-at-wachau-valley
+name: "Wachau Valley"
+location:
+  country_code: AT
+  latitude: 48.3897
+  longitude: 15.5011
+scores:
+  impact: 9.1
+  uniqueness: 9.2
+  significance: 9
+  experience: 9.4
+  depth: 9.5
+  categories:
+    nature: 9.1
+    history: 9.2
+    photography: 9.7
+    food: 9
+    relaxation: 9.2

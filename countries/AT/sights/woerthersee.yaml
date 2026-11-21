@@ -1,0 +1,17 @@
+id: sight-at-woerthersee
+name: "Wörthersee"
+location:
+  country_code: AT
+  latitude: 46.624
+  longitude: 14.144
+scores:
+  impact: 8.8
+  uniqueness: 8.3
+  significance: 7.2
+  experience: 9.3
+  depth: 9
+  categories:
+    nature: 9.4
+    relaxation: 9.6
+    photography: 9.2
+    beaches: 8.6

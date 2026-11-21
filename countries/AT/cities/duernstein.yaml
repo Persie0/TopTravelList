@@ -1,0 +1,17 @@
+id: city-at-duernstein
+name: "Dürnstein"
+location:
+  country_code: AT
+  latitude: 48.3952
+  longitude: 15.5195
+scores:
+  impact: 8.7
+  uniqueness: 8.7
+  significance: 8.3
+  experience: 8.6
+  depth: 7.1
+  categories:
+    architecture: 8.8
+    history: 8.6
+    photography: 9.5
+    relaxation: 8.2

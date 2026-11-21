@@ -1,0 +1,16 @@
+id: city-at-seefeld-in-tirol
+name: "Seefeld in Tirol"
+location:
+  country_code: AT
+  latitude: 47.3296
+  longitude: 11.1895
+scores:
+  impact: 8
+  uniqueness: 7.8
+  significance: 6.8
+  experience: 8.6
+  depth: 7.9
+  categories:
+    nature: 9
+    adventure: 9.1
+    relaxation: 8.6

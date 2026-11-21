@@ -1,0 +1,16 @@
+id: sight-at-poestlingberg
+name: "Pöstlingberg"
+location:
+  country_code: AT
+  latitude: 48.3233
+  longitude: 14.2602
+scores:
+  impact: 8.1
+  uniqueness: 8.3
+  significance: 7.5
+  experience: 8.7
+  depth: 7.5
+  categories:
+    photography: 9
+    family: 9
+    history: 7.7

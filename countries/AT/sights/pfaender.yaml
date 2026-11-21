@@ -1,0 +1,16 @@
+id: sight-at-pfaender
+name: "Pfänder"
+location:
+  country_code: AT
+  latitude: 47.5205
+  longitude: 9.7802
+scores:
+  impact: 8.7
+  uniqueness: 8.3
+  significance: 7.5
+  experience: 9.1
+  depth: 8.4
+  categories:
+    nature: 9.2
+    photography: 9.8
+    family: 8.8

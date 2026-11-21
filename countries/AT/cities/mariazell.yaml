@@ -1,0 +1,17 @@
+id: city-at-mariazell
+name: "Mariazell"
+location:
+  country_code: AT
+  latitude: 47.7732
+  longitude: 15.3184
+scores:
+  impact: 8
+  uniqueness: 8.3
+  significance: 8.4
+  experience: 8
+  depth: 7.1
+  categories:
+    architecture: 8.6
+    history: 8.7
+    culture: 8.8
+    nature: 8.2

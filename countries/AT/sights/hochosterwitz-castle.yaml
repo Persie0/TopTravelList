@@ -1,0 +1,16 @@
+id: sight-at-hochosterwitz-castle
+name: "Hochosterwitz Castle"
+location:
+  country_code: AT
+  latitude: 46.7561
+  longitude: 14.4535
+scores:
+  impact: 9.1
+  uniqueness: 9.4
+  significance: 9.1
+  experience: 9.2
+  depth: 8.7
+  categories:
+    architecture: 9.9
+    history: 9.5
+    photography: 9.8

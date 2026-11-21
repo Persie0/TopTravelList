@@ -1,0 +1,17 @@
+id: sight-at-mirabell-palace-gardens
+name: "Mirabell Palace and Gardens"
+location:
+  country_code: AT
+  latitude: 47.8061
+  longitude: 13.0419
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 8.7
+  experience: 9
+  depth: 8
+  categories:
+    architecture: 9.2
+    history: 8.6
+    photography: 9.5
+    relaxation: 8.8

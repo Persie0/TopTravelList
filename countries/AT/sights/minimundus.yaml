@@ -1,0 +1,16 @@
+id: sight-at-minimundus
+name: "Minimundus"
+location:
+  country_code: AT
+  latitude: 46.6191
+  longitude: 14.2647
+scores:
+  impact: 7.9
+  uniqueness: 8.3
+  significance: 7.5
+  experience: 8.8
+  depth: 8.7
+  categories:
+    family: 9.4
+    culture: 8.1
+    architecture: 8.3

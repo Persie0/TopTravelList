@@ -1,0 +1,18 @@
+id: sight-at-weissensee
+name: "Weissensee"
+location:
+  country_code: AT
+  latitude: 46.719
+  longitude: 13.338
+scores:
+  impact: 9.2
+  uniqueness: 9.1
+  significance: 7.5
+  experience: 9.5
+  depth: 9.2
+  categories:
+    nature: 9.9
+    photography: 9.8
+    relaxation: 9.7
+    adventure: 9
+    beaches: 8.6

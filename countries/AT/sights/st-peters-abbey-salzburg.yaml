@@ -1,0 +1,16 @@
+id: sight-at-st-peters-abbey-salzburg
+name: "St. Peter's Abbey Salzburg"
+location:
+  country_code: AT
+  latitude: 47.7964
+  longitude: 13.0439
+scores:
+  impact: 8.4
+  uniqueness: 8.7
+  significance: 9.3
+  experience: 8.7
+  depth: 8
+  categories:
+    history: 9.7
+    architecture: 9.1
+    culture: 9

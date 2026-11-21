@@ -1,0 +1,16 @@
+id: sight-at-forchtenstein-castle
+name: "Forchtenstein Castle"
+location:
+  country_code: AT
+  latitude: 47.7101
+  longitude: 16.3297
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 8.9
+  experience: 8.6
+  depth: 8.1
+  categories:
+    architecture: 9.3
+    history: 9.1
+    photography: 9.2

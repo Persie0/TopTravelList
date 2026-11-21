@@ -1,0 +1,16 @@
+id: city-at-lienz
+name: "Lienz"
+location:
+  country_code: AT
+  latitude: 46.8277
+  longitude: 12.769
+scores:
+  impact: 8
+  uniqueness: 7.8
+  significance: 7.1
+  experience: 8.5
+  depth: 8
+  categories:
+    nature: 9
+    adventure: 9.2
+    photography: 9

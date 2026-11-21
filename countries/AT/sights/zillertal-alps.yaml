@@ -1,0 +1,16 @@
+id: sight-at-zillertal-alps
+name: "Zillertal Alps"
+location:
+  country_code: AT
+  latitude: 47.061
+  longitude: 11.988
+scores:
+  impact: 9.4
+  uniqueness: 9.2
+  significance: 8.1
+  experience: 9.6
+  depth: 9.7
+  categories:
+    nature: 9.9
+    adventure: 9.9
+    photography: 9.9

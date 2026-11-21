@@ -1,0 +1,16 @@
+id: sight-at-kitzbueheler-horn
+name: "Kitzbüheler Horn"
+location:
+  country_code: AT
+  latitude: 47.466
+  longitude: 12.43
+scores:
+  impact: 8.7
+  uniqueness: 8.3
+  significance: 7.3
+  experience: 9
+  depth: 8.5
+  categories:
+    nature: 9.3
+    adventure: 9.2
+    photography: 9.4

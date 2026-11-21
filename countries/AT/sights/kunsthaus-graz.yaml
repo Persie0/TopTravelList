@@ -1,0 +1,16 @@
+id: sight-at-kunsthaus-graz
+name: "Kunsthaus Graz"
+location:
+  country_code: AT
+  latitude: 47.0712
+  longitude: 15.4332
+scores:
+  impact: 8.7
+  uniqueness: 9.4
+  significance: 8.6
+  experience: 8.8
+  depth: 8.4
+  categories:
+    architecture: 9.6
+    culture: 9.2
+    photography: 9.1

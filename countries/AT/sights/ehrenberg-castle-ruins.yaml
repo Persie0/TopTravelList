@@ -1,0 +1,16 @@
+id: sight-at-ehrenberg-castle-ruins
+name: "Ehrenberg Castle Ruins"
+location:
+  country_code: AT
+  latitude: 47.4632
+  longitude: 10.7227
+scores:
+  impact: 8.6
+  uniqueness: 8.5
+  significance: 8.7
+  experience: 8.7
+  depth: 7.9
+  categories:
+    history: 9.1
+    architecture: 8.6
+    photography: 9.2

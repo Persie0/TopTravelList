@@ -1,0 +1,16 @@
+id: sight-at-oetschergraben
+name: "Ötschergräben"
+location:
+  country_code: AT
+  latitude: 47.821
+  longitude: 15.2955
+scores:
+  impact: 8.9
+  uniqueness: 9
+  significance: 7.5
+  experience: 9
+  depth: 8.1
+  categories:
+    nature: 9.6
+    adventure: 9.2
+    photography: 9.4

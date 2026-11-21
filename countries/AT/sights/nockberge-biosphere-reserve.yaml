@@ -1,0 +1,17 @@
+id: sight-at-nockberge-biosphere-reserve
+name: "Nockberge Biosphere Reserve"
+location:
+  country_code: AT
+  latitude: 46.967
+  longitude: 13.788
+scores:
+  impact: 9
+  uniqueness: 9
+  significance: 8.1
+  experience: 9.3
+  depth: 9.5
+  categories:
+    nature: 9.8
+    adventure: 9.5
+    wildlife: 9.3
+    photography: 9.4

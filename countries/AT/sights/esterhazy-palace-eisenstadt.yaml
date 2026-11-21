@@ -1,0 +1,16 @@
+id: sight-at-esterhazy-palace-eisenstadt
+name: "Esterházy Palace Eisenstadt"
+location:
+  country_code: AT
+  latitude: 47.8478
+  longitude: 16.5224
+scores:
+  impact: 8.4
+  uniqueness: 8.6
+  significance: 8.9
+  experience: 8.5
+  depth: 8.2
+  categories:
+    architecture: 9.4
+    history: 9.2
+    culture: 9.1

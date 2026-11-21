@@ -1,0 +1,16 @@
+id: city-at-villach
+name: "Villach"
+location:
+  country_code: AT
+  latitude: 46.6111
+  longitude: 13.8558
+scores:
+  impact: 7.7
+  uniqueness: 7.4
+  significance: 7
+  experience: 8.1
+  depth: 7.6
+  categories:
+    nature: 8.5
+    relaxation: 8.3
+    adventure: 8.4

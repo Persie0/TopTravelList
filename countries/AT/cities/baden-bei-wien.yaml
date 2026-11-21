@@ -1,0 +1,17 @@
+id: city-at-baden-bei-wien
+name: "Baden bei Wien"
+location:
+  country_code: AT
+  latitude: 48.0065
+  longitude: 16.2309
+scores:
+  impact: 8
+  uniqueness: 8
+  significance: 8.2
+  experience: 8.4
+  depth: 7.9
+  categories:
+    architecture: 8.8
+    history: 8.4
+    relaxation: 9
+    culture: 8

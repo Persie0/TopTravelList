@@ -1,0 +1,17 @@
+id: sight-at-central-cemetery-vienna
+name: "Vienna Central Cemetery"
+location:
+  country_code: AT
+  latitude: 48.15
+  longitude: 16.4427
+scores:
+  impact: 7.7
+  uniqueness: 8.4
+  significance: 9
+  experience: 8.1
+  depth: 8.5
+  categories:
+    history: 9.3
+    culture: 8.6
+    architecture: 8.5
+    relaxation: 8

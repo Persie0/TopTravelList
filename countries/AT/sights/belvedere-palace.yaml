@@ -1,0 +1,17 @@
+id: sight-at-belvedere-palace
+name: "Belvedere Palace"
+location:
+  country_code: AT
+  latitude: 48.1916
+  longitude: 16.3809
+scores:
+  impact: 9.1
+  uniqueness: 8.9
+  significance: 9
+  experience: 9.1
+  depth: 9
+  categories:
+    architecture: 9.7
+    history: 9.1
+    culture: 9.7
+    photography: 9.3

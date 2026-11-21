@@ -1,0 +1,16 @@
+id: sight-at-grundlsee
+name: "Grundlsee"
+location:
+  country_code: AT
+  latitude: 47.6288
+  longitude: 13.8415
+scores:
+  impact: 8.8
+  uniqueness: 8.6
+  significance: 7
+  experience: 9
+  depth: 8.2
+  categories:
+    nature: 9.6
+    photography: 9.7
+    relaxation: 9.5

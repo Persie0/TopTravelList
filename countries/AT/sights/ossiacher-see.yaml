@@ -1,0 +1,17 @@
+id: sight-at-ossiacher-see
+name: "Ossiacher See"
+location:
+  country_code: AT
+  latitude: 46.673
+  longitude: 13.95
+scores:
+  impact: 8.5
+  uniqueness: 8.1
+  significance: 7
+  experience: 9
+  depth: 8.5
+  categories:
+    nature: 9.2
+    relaxation: 9.3
+    photography: 9.1
+    beaches: 8.1

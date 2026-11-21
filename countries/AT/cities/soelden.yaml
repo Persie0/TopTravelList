@@ -1,0 +1,17 @@
+id: city-at-soelden
+name: "Sölden"
+location:
+  country_code: AT
+  latitude: 46.969
+  longitude: 11.0101
+scores:
+  impact: 8.1
+  uniqueness: 8
+  significance: 6.9
+  experience: 8.9
+  depth: 8.4
+  categories:
+    nature: 9.4
+    adventure: 9.6
+    nightlife: 8.2
+    photography: 9.1

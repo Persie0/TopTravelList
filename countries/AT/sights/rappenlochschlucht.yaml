@@ -1,0 +1,16 @@
+id: sight-at-rappenlochschlucht
+name: "Rappenloch Gorge"
+location:
+  country_code: AT
+  latitude: 47.4035
+  longitude: 9.7706
+scores:
+  impact: 8.4
+  uniqueness: 8.4
+  significance: 7.3
+  experience: 8.9
+  depth: 7.8
+  categories:
+    nature: 9.3
+    adventure: 9.1
+    photography: 9.1

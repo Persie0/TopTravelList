@@ -1,0 +1,16 @@
+id: city-at-obertraun
+name: "Obertraun"
+location:
+  country_code: AT
+  latitude: 47.5564
+  longitude: 13.686
+scores:
+  impact: 8.5
+  uniqueness: 8
+  significance: 7
+  experience: 8.6
+  depth: 7.7
+  categories:
+    nature: 9.7
+    adventure: 9.2
+    photography: 9.4

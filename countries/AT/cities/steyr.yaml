@@ -1,0 +1,16 @@
+id: city-at-steyr
+name: "Steyr"
+location:
+  country_code: AT
+  latitude: 48.0427
+  longitude: 14.4213
+scores:
+  impact: 8.2
+  uniqueness: 8
+  significance: 8.2
+  experience: 8
+  depth: 7.4
+  categories:
+    architecture: 8.9
+    history: 8.6
+    photography: 8.9

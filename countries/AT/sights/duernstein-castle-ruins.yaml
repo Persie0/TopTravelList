@@ -1,0 +1,16 @@
+id: sight-at-duernstein-castle-ruins
+name: "Dürnstein Castle Ruins"
+location:
+  country_code: AT
+  latitude: 48.3957
+  longitude: 15.5168
+scores:
+  impact: 8.4
+  uniqueness: 8.7
+  significance: 8.7
+  experience: 8.8
+  depth: 7.5
+  categories:
+    history: 9
+    photography: 9.4
+    adventure: 8
