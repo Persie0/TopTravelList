@@ -86,11 +86,14 @@ def main() -> int:
                 expected_id = f"{'city' if kind == 'cities' else 'sight'}-{code.lower()}-{file.stem}"
                 if data.get("id") != expected_id:
                     errors.append(f"{file.relative_to(ROOT)}: expected id {expected_id}")
-                if data.get("location", {}).get("country_code") != code:
+                location = data.get("location")
+                if isinstance(location, dict) and location.get("country_code") != code:
                     errors.append(f"{file.relative_to(ROOT)}: location.country_code must be {code}")
-                if data.get("id") in used_ids:
-                    errors.append(f"{file.relative_to(ROOT)}: duplicate destination id")
-                used_ids.add(data.get("id"))
+                destination_id = data.get("id")
+                if isinstance(destination_id, str):
+                    if destination_id in used_ids:
+                        errors.append(f"{file.relative_to(ROOT)}: duplicate destination id")
+                    used_ids.add(destination_id)
 
     if errors:
         for error in errors:
