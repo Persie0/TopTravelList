@@ -5,11 +5,11 @@ location:
   latitude: 35.1532
   longitude: 129.1187
 scores:
-  impact: 8.2
-  uniqueness: 8.4
-  significance: 7.2
-  experience: 8.7
-  depth: 8.7
+  impact: 8.3
+  uniqueness: 7.9
+  significance: 7.3
+  experience: 9.1
+  depth: 8.5
   categories:
     beaches: 8.2
     nightlife: 8.8
