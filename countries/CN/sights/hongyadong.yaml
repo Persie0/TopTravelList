@@ -6,11 +6,11 @@ location:
   longitude: 106.5791
 scores:
   impact: 8.3
-  uniqueness: 8.7
-  significance: 8.2
-  experience: 9.0
-  depth: 8.5
+  uniqueness: 8.1
+  significance: 7.2
+  experience: 8.8
+  depth: 8.0
   categories:
-    architecture: 9.0
-    photography: 9.3
+    architecture: 8.9
+    photography: 9.1
     nightlife: 8.4
