@@ -43,18 +43,18 @@
       "total": 180
     },
     "VN": {
-      "changed": 70,
-      "high90_after": 27,
+      "changed": 356,
+      "high90_after": 34,
       "high90_before": 41,
-      "reviewed": 74,
+      "reviewed": 360,
       "total": 360
     }
   },
-  "changed": 1172,
-  "flagged": 440,
+  "changed": 1458,
+  "flagged": 443,
   "records": 1913,
   "remaining_high90": 0,
-  "screened_only": 693,
-  "source_referenced": 556,
-  "targeted": 1220
+  "screened_only": 407,
+  "source_referenced": 571,
+  "targeted": 1506
 }
