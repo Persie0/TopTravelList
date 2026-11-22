@@ -1,10 +1,10 @@
 {
   "by_country": {
     "AT": {
-      "changed": 41,
+      "changed": 126,
       "high90_after": 13,
       "high90_before": 21,
-      "reviewed": 47,
+      "reviewed": 133,
       "total": 133
     },
     "CN": {
@@ -50,11 +50,11 @@
       "total": 360
     }
   },
-  "changed": 377,
+  "changed": 462,
   "flagged": 413,
   "records": 1913,
   "remaining_high90": 0,
-  "screened_only": 1498,
-  "source_referenced": 266,
-  "targeted": 415
+  "screened_only": 1412,
+  "source_referenced": 313,
+  "targeted": 501
 }
