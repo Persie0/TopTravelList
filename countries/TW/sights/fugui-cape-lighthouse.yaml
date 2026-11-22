@@ -1,0 +1,15 @@
+id: sight-tw-fugui-cape-lighthouse
+name: "Fugui Cape Lighthouse"
+location:
+  country_code: TW
+  latitude: 25.2975
+  longitude: 121.5375
+scores:
+  impact: 7.6
+  uniqueness: 7.8
+  significance: 7.9
+  experience: 7.8
+  depth: 6.6
+  categories:
+    photography: 8.3
+    history: 7.6

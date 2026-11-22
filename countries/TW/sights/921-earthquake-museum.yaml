@@ -1,0 +1,15 @@
+id: sight-tw-921-earthquake-museum
+name: "921 Earthquake Museum"
+location:
+  country_code: TW
+  latitude: 24.0436
+  longitude: 120.7001
+scores:
+  impact: 8.5
+  uniqueness: 8.7
+  significance: 9.0
+  experience: 8.5
+  depth: 8.3
+  categories:
+    history: 9.2
+    culture: 8.5

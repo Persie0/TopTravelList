@@ -1,0 +1,17 @@
+id: sight-tw-xiaoliuqiu-island
+name: "Xiaoliuqiu Island"
+location:
+  country_code: TW
+  latitude: 22.3437
+  longitude: 120.3714
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 8.0
+  experience: 9.1
+  depth: 8.5
+  categories:
+    nature: 8.9
+    wildlife: 9.3
+    adventure: 9.0
+    beaches: 8.6

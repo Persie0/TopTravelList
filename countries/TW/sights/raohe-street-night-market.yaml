@@ -1,0 +1,16 @@
+id: sight-tw-raohe-street-night-market
+name: "Raohe Street Night Market"
+location:
+  country_code: TW
+  latitude: 25.0502
+  longitude: 121.5777
+scores:
+  impact: 8.2
+  uniqueness: 8.3
+  significance: 7.8
+  experience: 8.9
+  depth: 7.9
+  categories:
+    food: 9.2
+    culture: 8.7
+    nightlife: 8.2

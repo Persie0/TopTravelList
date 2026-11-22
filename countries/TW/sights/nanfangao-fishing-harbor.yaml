@@ -1,0 +1,16 @@
+id: sight-tw-nanfangao-fishing-harbor
+name: "Nanfangao Fishing Harbor"
+location:
+  country_code: TW
+  latitude: 24.5789
+  longitude: 121.8682
+scores:
+  impact: 7.8
+  uniqueness: 8.0
+  significance: 7.6
+  experience: 8.4
+  depth: 7.5
+  categories:
+    food: 8.7
+    photography: 8.3
+    culture: 7.8

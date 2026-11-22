@@ -1,0 +1,15 @@
+id: sight-tw-wulai-waterfall
+name: "Wulai Waterfall"
+location:
+  country_code: TW
+  latitude: 24.8451
+  longitude: 121.555
+scores:
+  impact: 8.5
+  uniqueness: 8.4
+  significance: 7.6
+  experience: 8.6
+  depth: 7.4
+  categories:
+    nature: 8.9
+    photography: 8.9

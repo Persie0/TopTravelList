@@ -1,0 +1,15 @@
+id: city-tw-douliu
+name: "Douliu"
+location:
+  country_code: TW
+  latitude: 23.7092
+  longitude: 120.5414
+scores:
+  impact: 6.8
+  uniqueness: 6.7
+  significance: 6.8
+  experience: 7.2
+  depth: 7.1
+  categories:
+    food: 7.5
+    culture: 7.0

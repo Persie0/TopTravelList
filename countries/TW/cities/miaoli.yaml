@@ -1,0 +1,15 @@
+id: city-tw-miaoli
+name: "Miaoli"
+location:
+  country_code: TW
+  latitude: 24.5602
+  longitude: 120.8214
+scores:
+  impact: 7.1
+  uniqueness: 7.2
+  significance: 7.3
+  experience: 7.5
+  depth: 7.2
+  categories:
+    culture: 7.7
+    food: 7.7

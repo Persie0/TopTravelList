@@ -1,0 +1,15 @@
+id: city-tw-suao
+name: "Su'ao"
+location:
+  country_code: TW
+  latitude: 24.5952
+  longitude: 121.8521
+scores:
+  impact: 7.2
+  uniqueness: 7.1
+  significance: 7.0
+  experience: 7.6
+  depth: 7.1
+  categories:
+    food: 8.0
+    nature: 7.6

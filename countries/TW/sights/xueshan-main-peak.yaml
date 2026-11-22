@@ -1,0 +1,16 @@
+id: sight-tw-xueshan-main-peak
+name: "Xueshan Main Peak"
+location:
+  country_code: TW
+  latitude: 24.3832
+  longitude: 121.232
+scores:
+  impact: 9.1
+  uniqueness: 9.0
+  significance: 8.7
+  experience: 9.0
+  depth: 8.6
+  categories:
+    nature: 9.3
+    adventure: 9.3
+    photography: 9.2

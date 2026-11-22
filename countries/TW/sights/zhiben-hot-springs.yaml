@@ -1,0 +1,15 @@
+id: sight-tw-zhiben-hot-springs
+name: "Zhiben Hot Springs"
+location:
+  country_code: TW
+  latitude: 22.6923
+  longitude: 121.0237
+scores:
+  impact: 8.0
+  uniqueness: 8.1
+  significance: 7.3
+  experience: 8.6
+  depth: 7.5
+  categories:
+    relaxation: 9.0
+    nature: 8.3

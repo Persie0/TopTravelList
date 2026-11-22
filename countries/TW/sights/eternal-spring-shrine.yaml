@@ -1,0 +1,16 @@
+id: sight-tw-eternal-spring-shrine
+name: "Eternal Spring Shrine"
+location:
+  country_code: TW
+  latitude: 24.1605
+  longitude: 121.6022
+scores:
+  impact: 8.4
+  uniqueness: 8.6
+  significance: 8.2
+  experience: 8.4
+  depth: 7.3
+  categories:
+    nature: 8.8
+    architecture: 8.3
+    photography: 9.2

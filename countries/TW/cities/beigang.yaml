@@ -1,0 +1,17 @@
+id: city-tw-beigang
+name: "Beigang"
+location:
+  country_code: TW
+  latitude: 23.5679
+  longitude: 120.3032
+scores:
+  impact: 8.0
+  uniqueness: 8.2
+  significance: 8.4
+  experience: 8.0
+  depth: 7.2
+  categories:
+    history: 8.7
+    culture: 9.0
+    food: 8.2
+    architecture: 8.3

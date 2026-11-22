@@ -1,0 +1,16 @@
+id: city-tw-shifen
+name: "Shifen"
+location:
+  country_code: TW
+  latitude: 25.0427
+  longitude: 121.7768
+scores:
+  impact: 7.8
+  uniqueness: 7.7
+  significance: 7.1
+  experience: 8.0
+  depth: 6.8
+  categories:
+    photography: 8.7
+    nature: 7.8
+    culture: 8.0

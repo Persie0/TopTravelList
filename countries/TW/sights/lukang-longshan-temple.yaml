@@ -1,0 +1,16 @@
+id: sight-tw-lukang-longshan-temple
+name: "Lukang Longshan Temple"
+location:
+  country_code: TW
+  latitude: 24.0504
+  longitude: 120.4345
+scores:
+  impact: 8.6
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.7
+  depth: 8.2
+  categories:
+    history: 9.3
+    architecture: 9.2
+    culture: 9.2

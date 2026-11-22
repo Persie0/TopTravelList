@@ -1,0 +1,15 @@
+id: sight-tw-qingshui-cliffs
+name: "Qingshui Cliffs"
+location:
+  country_code: TW
+  latitude: 24.2274
+  longitude: 121.6797
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 8.3
+  experience: 9.0
+  depth: 8.0
+  categories:
+    nature: 9.5
+    photography: 9.6

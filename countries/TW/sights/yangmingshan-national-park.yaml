@@ -1,0 +1,17 @@
+id: sight-tw-yangmingshan-national-park
+name: "Yangmingshan National Park"
+location:
+  country_code: TW
+  latitude: 25.1661
+  longitude: 121.5609
+scores:
+  impact: 9.1
+  uniqueness: 9.0
+  significance: 8.3
+  experience: 9.0
+  depth: 9.0
+  categories:
+    nature: 9.3
+    adventure: 8.8
+    photography: 9.2
+    relaxation: 8.8

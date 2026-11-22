@@ -1,0 +1,16 @@
+id: city-tw-yuchi
+name: "Yuchi"
+location:
+  country_code: TW
+  latitude: 23.8609
+  longitude: 120.926
+scores:
+  impact: 7.3
+  uniqueness: 7.1
+  significance: 6.7
+  experience: 7.8
+  depth: 6.8
+  categories:
+    nature: 8.0
+    food: 7.6
+    relaxation: 8.0

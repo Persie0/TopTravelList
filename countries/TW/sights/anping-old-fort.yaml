@@ -1,0 +1,16 @@
+id: sight-tw-anping-old-fort
+name: "Anping Old Fort"
+location:
+  country_code: TW
+  latitude: 23.0011
+  longitude: 120.1606
+scores:
+  impact: 8.4
+  uniqueness: 8.8
+  significance: 9.2
+  experience: 8.7
+  depth: 8.4
+  categories:
+    history: 9.5
+    architecture: 8.7
+    culture: 9.0

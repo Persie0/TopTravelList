@@ -1,0 +1,16 @@
+id: sight-tw-waiao-beach
+name: "Waiao Beach"
+location:
+  country_code: TW
+  latitude: 24.8799
+  longitude: 121.8469
+scores:
+  impact: 7.9
+  uniqueness: 7.7
+  significance: 6.8
+  experience: 8.3
+  depth: 7.7
+  categories:
+    beaches: 8.3
+    adventure: 8.5
+    relaxation: 8.1

@@ -1,0 +1,16 @@
+id: sight-tw-turtle-island
+name: "Turtle Island"
+location:
+  country_code: TW
+  latitude: 24.8446
+  longitude: 121.9524
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 8.0
+  experience: 8.7
+  depth: 8.2
+  categories:
+    nature: 9.2
+    wildlife: 8.3
+    photography: 9.2

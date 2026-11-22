@@ -1,0 +1,15 @@
+id: city-tw-xincheng
+name: "Xincheng"
+location:
+  country_code: TW
+  latitude: 24.1274
+  longitude: 121.6532
+scores:
+  impact: 7.1
+  uniqueness: 7.2
+  significance: 7.0
+  experience: 7.4
+  depth: 7.0
+  categories:
+    history: 7.5
+    nature: 7.8

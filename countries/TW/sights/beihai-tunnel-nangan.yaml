@@ -1,0 +1,15 @@
+id: sight-tw-beihai-tunnel-nangan
+name: "Beihai Tunnel Nangan"
+location:
+  country_code: TW
+  latitude: 26.1484
+  longitude: 119.9313
+scores:
+  impact: 8.1
+  uniqueness: 8.6
+  significance: 8.5
+  experience: 8.4
+  depth: 7.4
+  categories:
+    history: 8.8
+    architecture: 8.2

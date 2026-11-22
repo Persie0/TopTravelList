@@ -1,0 +1,16 @@
+id: sight-tw-taipei-zoo
+name: "Taipei Zoo"
+location:
+  country_code: TW
+  latitude: 24.9985
+  longitude: 121.5811
+scores:
+  impact: 8.2
+  uniqueness: 7.8
+  significance: 8.0
+  experience: 8.7
+  depth: 9.0
+  categories:
+    wildlife: 8.8
+    family: 9.0
+    culture: 8.3

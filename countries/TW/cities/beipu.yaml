@@ -1,0 +1,16 @@
+id: city-tw-beipu
+name: "Beipu"
+location:
+  country_code: TW
+  latitude: 24.6992
+  longitude: 121.0565
+scores:
+  impact: 7.7
+  uniqueness: 8.1
+  significance: 7.8
+  experience: 7.8
+  depth: 7.0
+  categories:
+    culture: 8.5
+    food: 8.2
+    history: 8.0

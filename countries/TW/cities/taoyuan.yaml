@@ -1,0 +1,16 @@
+id: city-tw-taoyuan
+name: "Taoyuan"
+location:
+  country_code: TW
+  latitude: 24.9936
+  longitude: 121.301
+scores:
+  impact: 7.2
+  uniqueness: 7.0
+  significance: 7.2
+  experience: 7.8
+  depth: 7.8
+  categories:
+    food: 8.1
+    culture: 7.4
+    nightlife: 7.3

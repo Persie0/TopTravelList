@@ -1,0 +1,16 @@
+id: sight-tw-shoushan-mountain
+name: "Shoushan Mountain"
+location:
+  country_code: TW
+  latitude: 22.6508
+  longitude: 120.2734
+scores:
+  impact: 8.1
+  uniqueness: 8.1
+  significance: 7.5
+  experience: 8.4
+  depth: 7.7
+  categories:
+    nature: 8.6
+    wildlife: 8.4
+    photography: 8.7

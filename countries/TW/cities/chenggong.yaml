@@ -1,0 +1,15 @@
+id: city-tw-chenggong
+name: "Chenggong"
+location:
+  country_code: TW
+  latitude: 23.1007
+  longitude: 121.3798
+scores:
+  impact: 7.2
+  uniqueness: 7.4
+  significance: 7.1
+  experience: 7.8
+  depth: 7.0
+  categories:
+    food: 8.1
+    nature: 7.9

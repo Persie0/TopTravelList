@@ -1,0 +1,16 @@
+id: sight-tw-national-taichung-theater
+name: "National Taichung Theater"
+location:
+  country_code: TW
+  latitude: 24.1632
+  longitude: 120.6405
+scores:
+  impact: 8.8
+  uniqueness: 9.1
+  significance: 8.4
+  experience: 9.1
+  depth: 8.4
+  categories:
+    architecture: 9.5
+    culture: 8.8
+    photography: 9.3

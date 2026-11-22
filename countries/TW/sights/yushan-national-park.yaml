@@ -1,0 +1,17 @@
+id: sight-tw-yushan-national-park
+name: "Yushan National Park"
+location:
+  country_code: TW
+  latitude: 23.4686
+  longitude: 120.9555
+scores:
+  impact: 9.3
+  uniqueness: 9.4
+  significance: 9.2
+  experience: 9.1
+  depth: 9.4
+  categories:
+    nature: 9.6
+    adventure: 9.4
+    photography: 9.4
+    wildlife: 9.0

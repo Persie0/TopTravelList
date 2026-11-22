@@ -1,0 +1,16 @@
+id: sight-tw-fort-san-domingo
+name: "Fort San Domingo"
+location:
+  country_code: TW
+  latitude: 25.1755
+  longitude: 121.4334
+scores:
+  impact: 8.0
+  uniqueness: 8.3
+  significance: 8.8
+  experience: 8.2
+  depth: 7.5
+  categories:
+    history: 9.0
+    architecture: 8.4
+    culture: 8.2

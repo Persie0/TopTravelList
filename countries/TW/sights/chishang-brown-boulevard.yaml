@@ -1,0 +1,16 @@
+id: sight-tw-chishang-brown-boulevard
+name: "Chishang Brown Boulevard"
+location:
+  country_code: TW
+  latitude: 23.0996
+  longitude: 121.219
+scores:
+  impact: 8.1
+  uniqueness: 8.2
+  significance: 7.1
+  experience: 8.5
+  depth: 7.2
+  categories:
+    nature: 8.8
+    photography: 9.0
+    relaxation: 8.8

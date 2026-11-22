@@ -1,0 +1,16 @@
+id: sight-tw-national-palace-museum-southern-branch
+name: "National Palace Museum Southern Branch"
+location:
+  country_code: TW
+  latitude: 23.4688
+  longitude: 120.2919
+scores:
+  impact: 8.3
+  uniqueness: 8.5
+  significance: 8.7
+  experience: 8.6
+  depth: 8.4
+  categories:
+    culture: 8.9
+    architecture: 8.7
+    history: 8.8

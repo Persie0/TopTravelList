@@ -1,0 +1,16 @@
+id: city-tw-puli
+name: "Puli"
+location:
+  country_code: TW
+  latitude: 23.9678
+  longitude: 120.9655
+scores:
+  impact: 7.6
+  uniqueness: 7.7
+  significance: 7.5
+  experience: 8.1
+  depth: 7.7
+  categories:
+    nature: 8.1
+    culture: 8.0
+    food: 7.9

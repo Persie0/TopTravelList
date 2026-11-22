@@ -1,0 +1,16 @@
+id: sight-tw-xitou-nature-education-area
+name: "Xitou Nature Education Area"
+location:
+  country_code: TW
+  latitude: 23.6722
+  longitude: 120.7963
+scores:
+  impact: 8.4
+  uniqueness: 8.4
+  significance: 8.3
+  experience: 8.8
+  depth: 8.4
+  categories:
+    nature: 8.9
+    family: 8.6
+    photography: 8.7

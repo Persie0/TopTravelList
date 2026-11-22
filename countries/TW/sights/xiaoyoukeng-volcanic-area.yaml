@@ -1,0 +1,15 @@
+id: sight-tw-xiaoyoukeng-volcanic-area
+name: "Xiaoyoukeng Volcanic Area"
+location:
+  country_code: TW
+  latitude: 25.1782
+  longitude: 121.5469
+scores:
+  impact: 8.4
+  uniqueness: 8.8
+  significance: 8.1
+  experience: 8.6
+  depth: 7.8
+  categories:
+    nature: 9.0
+    photography: 8.9

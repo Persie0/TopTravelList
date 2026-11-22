@@ -1,0 +1,15 @@
+id: sight-tw-penghu-basalt-columns
+name: "Penghu Basalt Columns"
+location:
+  country_code: TW
+  latitude: 23.61
+  longitude: 119.5415
+scores:
+  impact: 8.6
+  uniqueness: 9.0
+  significance: 8.4
+  experience: 8.5
+  depth: 7.8
+  categories:
+    nature: 9.2
+    photography: 9.2

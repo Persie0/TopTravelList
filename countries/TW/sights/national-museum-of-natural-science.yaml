@@ -1,0 +1,16 @@
+id: sight-tw-national-museum-of-natural-science
+name: "National Museum of Natural Science"
+location:
+  country_code: TW
+  latitude: 24.157
+  longitude: 120.6667
+scores:
+  impact: 8.3
+  uniqueness: 8.2
+  significance: 8.7
+  experience: 8.8
+  depth: 9.0
+  categories:
+    culture: 8.8
+    family: 9.1
+    wildlife: 8.3

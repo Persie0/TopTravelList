@@ -1,0 +1,16 @@
+id: city-tw-alishan-village
+name: "Alishan Village"
+location:
+  country_code: TW
+  latitude: 23.5105
+  longitude: 120.8001
+scores:
+  impact: 7.9
+  uniqueness: 7.8
+  significance: 7.2
+  experience: 8.0
+  depth: 6.9
+  categories:
+    nature: 8.1
+    culture: 7.6
+    photography: 8.5

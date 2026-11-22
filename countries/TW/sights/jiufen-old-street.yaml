@@ -1,0 +1,17 @@
+id: sight-tw-jiufen-old-street
+name: "Jiufen Old Street"
+location:
+  country_code: TW
+  latitude: 25.1092
+  longitude: 121.8443
+scores:
+  impact: 8.6
+  uniqueness: 8.6
+  significance: 8.1
+  experience: 8.8
+  depth: 7.5
+  categories:
+    history: 8.3
+    culture: 8.9
+    food: 8.7
+    photography: 9.2

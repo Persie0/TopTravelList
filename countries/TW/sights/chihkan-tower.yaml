@@ -1,0 +1,16 @@
+id: sight-tw-chihkan-tower
+name: "Chihkan Tower"
+location:
+  country_code: TW
+  latitude: 22.9974
+  longitude: 120.2028
+scores:
+  impact: 8.5
+  uniqueness: 8.6
+  significance: 9.1
+  experience: 8.6
+  depth: 8.2
+  categories:
+    history: 9.4
+    architecture: 9.0
+    culture: 8.9

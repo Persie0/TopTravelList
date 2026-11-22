@@ -1,0 +1,16 @@
+id: sight-tw-alishan-national-forest-recreation-area
+name: "Alishan National Forest Recreation Area"
+location:
+  country_code: TW
+  latitude: 23.5116
+  longitude: 120.8011
+scores:
+  impact: 9.4
+  uniqueness: 9.4
+  significance: 8.8
+  experience: 9.2
+  depth: 9.3
+  categories:
+    nature: 9.6
+    photography: 9.6
+    adventure: 8.6

@@ -1,0 +1,16 @@
+id: sight-tw-chimei-museum
+name: "Chimei Museum"
+location:
+  country_code: TW
+  latitude: 22.9328
+  longitude: 120.2261
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 8.5
+  experience: 9.0
+  depth: 9.0
+  categories:
+    culture: 9.2
+    architecture: 9.2
+    photography: 9.1

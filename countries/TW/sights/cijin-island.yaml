@@ -1,0 +1,16 @@
+id: sight-tw-cijin-island
+name: "Cijin Island"
+location:
+  country_code: TW
+  latitude: 22.6127
+  longitude: 120.2657
+scores:
+  impact: 8.0
+  uniqueness: 8.0
+  significance: 7.7
+  experience: 8.5
+  depth: 8.1
+  categories:
+    beaches: 8.1
+    food: 8.6
+    photography: 8.5

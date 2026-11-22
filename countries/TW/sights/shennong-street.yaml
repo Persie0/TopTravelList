@@ -1,0 +1,16 @@
+id: sight-tw-shennong-street
+name: "Shennong Street"
+location:
+  country_code: TW
+  latitude: 22.9977
+  longitude: 120.1979
+scores:
+  impact: 8.1
+  uniqueness: 8.1
+  significance: 7.9
+  experience: 8.6
+  depth: 7.5
+  categories:
+    history: 8.3
+    culture: 8.7
+    photography: 8.9

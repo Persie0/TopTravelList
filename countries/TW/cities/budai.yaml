@@ -1,0 +1,15 @@
+id: city-tw-budai
+name: "Budai"
+location:
+  country_code: TW
+  latitude: 23.3789
+  longitude: 120.1642
+scores:
+  impact: 6.9
+  uniqueness: 6.9
+  significance: 6.7
+  experience: 7.2
+  depth: 6.7
+  categories:
+    food: 7.7
+    photography: 7.3

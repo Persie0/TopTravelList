@@ -1,0 +1,16 @@
+id: sight-tw-baisha-beach-kenting
+name: "Baisha Beach Kenting"
+location:
+  country_code: TW
+  latitude: 21.9383
+  longitude: 120.7172
+scores:
+  impact: 8.3
+  uniqueness: 8.2
+  significance: 7.0
+  experience: 8.6
+  depth: 7.4
+  categories:
+    beaches: 8.9
+    nature: 8.4
+    relaxation: 8.8

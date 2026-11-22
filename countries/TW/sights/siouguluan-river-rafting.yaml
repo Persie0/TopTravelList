@@ -1,0 +1,15 @@
+id: sight-tw-siouguluan-river-rafting
+name: "Siouguluan River Rafting"
+location:
+  country_code: TW
+  latitude: 23.4998
+  longitude: 121.444
+scores:
+  impact: 8.5
+  uniqueness: 8.5
+  significance: 7.6
+  experience: 8.8
+  depth: 7.4
+  categories:
+    adventure: 9.1
+    nature: 8.7

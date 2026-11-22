@@ -1,0 +1,15 @@
+id: city-tw-ruisui
+name: "Ruisui"
+location:
+  country_code: TW
+  latitude: 23.4953
+  longitude: 121.3764
+scores:
+  impact: 7.5
+  uniqueness: 7.7
+  significance: 7.0
+  experience: 8.0
+  depth: 7.2
+  categories:
+    relaxation: 8.5
+    nature: 8.0
