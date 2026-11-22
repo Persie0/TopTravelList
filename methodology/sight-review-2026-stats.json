@@ -9,7 +9,7 @@
     },
     "CN": {
       "changed": 476,
-      "high90_after": 228,
+      "high90_after": 179,
       "high90_before": 35,
       "reviewed": 490,
       "total": 490
@@ -51,7 +51,7 @@
     }
   },
   "changed": 1865,
-  "flagged": 615,
+  "flagged": 568,
   "records": 1913,
   "remaining_high90": 0,
   "screened_only": 0,
