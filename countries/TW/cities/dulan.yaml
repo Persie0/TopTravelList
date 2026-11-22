@@ -1,0 +1,16 @@
+id: city-tw-dulan
+name: "Dulan"
+location:
+  country_code: TW
+  latitude: 22.8724
+  longitude: 121.2305
+scores:
+  impact: 7.6
+  uniqueness: 8.0
+  significance: 7.1
+  experience: 8.1
+  depth: 7.0
+  categories:
+    culture: 8.4
+    relaxation: 8.4
+    nature: 8.1

@@ -1,0 +1,17 @@
+id: city-tw-jinguashi
+name: "Jinguashi"
+location:
+  country_code: TW
+  latitude: 25.1094
+  longitude: 121.8586
+scores:
+  impact: 8.3
+  uniqueness: 8.6
+  significance: 8.5
+  experience: 8.0
+  depth: 7.4
+  categories:
+    history: 8.8
+    culture: 8.3
+    photography: 9.0
+    nature: 7.9

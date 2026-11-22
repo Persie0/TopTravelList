@@ -1,0 +1,16 @@
+id: city-tw-yingge
+name: "Yingge"
+location:
+  country_code: TW
+  latitude: 24.9542
+  longitude: 121.3524
+scores:
+  impact: 7.7
+  uniqueness: 8.0
+  significance: 7.9
+  experience: 8.2
+  depth: 7.6
+  categories:
+    culture: 8.8
+    history: 7.7
+    food: 7.5

@@ -1,0 +1,16 @@
+id: city-tw-yeyou-orchid-island
+name: "Yeyou (Orchid Island)"
+location:
+  country_code: TW
+  latitude: 22.0568
+  longitude: 121.5102
+scores:
+  impact: 7.4
+  uniqueness: 8.2
+  significance: 7.4
+  experience: 7.8
+  depth: 6.7
+  categories:
+    culture: 8.5
+    nature: 8.1
+    photography: 8.0

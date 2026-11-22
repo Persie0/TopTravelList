@@ -1,0 +1,18 @@
+id: city-tw-taichung
+name: "Taichung"
+location:
+  country_code: TW
+  latitude: 24.1477
+  longitude: 120.6736
+scores:
+  impact: 8.2
+  uniqueness: 7.9
+  significance: 8.0
+  experience: 8.7
+  depth: 8.7
+  categories:
+    food: 8.9
+    culture: 8.3
+    architecture: 8.1
+    nightlife: 8.5
+    photography: 8.2

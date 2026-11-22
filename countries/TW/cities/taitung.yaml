@@ -1,0 +1,16 @@
+id: city-tw-taitung
+name: "Taitung"
+location:
+  country_code: TW
+  latitude: 22.7583
+  longitude: 121.1444
+scores:
+  impact: 7.9
+  uniqueness: 8.0
+  significance: 7.6
+  experience: 8.4
+  depth: 8.0
+  categories:
+    culture: 8.5
+    nature: 8.0
+    food: 8.1

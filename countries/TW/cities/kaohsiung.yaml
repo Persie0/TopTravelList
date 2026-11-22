@@ -1,0 +1,18 @@
+id: city-tw-kaohsiung
+name: "Kaohsiung"
+location:
+  country_code: TW
+  latitude: 22.6273
+  longitude: 120.3014
+scores:
+  impact: 8.5
+  uniqueness: 8.2
+  significance: 8.2
+  experience: 8.8
+  depth: 8.9
+  categories:
+    architecture: 8.3
+    culture: 8.4
+    food: 8.7
+    nightlife: 8.5
+    photography: 8.5

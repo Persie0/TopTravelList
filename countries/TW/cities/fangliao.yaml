@@ -1,0 +1,15 @@
+id: city-tw-fangliao
+name: "Fangliao"
+location:
+  country_code: TW
+  latitude: 22.3688
+  longitude: 120.593
+scores:
+  impact: 6.8
+  uniqueness: 6.6
+  significance: 6.4
+  experience: 7.1
+  depth: 6.6
+  categories:
+    food: 7.2
+    relaxation: 7.2

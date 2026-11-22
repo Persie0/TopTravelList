@@ -1,0 +1,16 @@
+id: city-tw-jincheng
+name: "Jincheng"
+location:
+  country_code: TW
+  latitude: 24.4327
+  longitude: 118.3174
+scores:
+  impact: 7.8
+  uniqueness: 8.1
+  significance: 8.2
+  experience: 8.0
+  depth: 7.5
+  categories:
+    history: 8.5
+    architecture: 8.0
+    culture: 8.1

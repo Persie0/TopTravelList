@@ -1,0 +1,15 @@
+id: city-tw-yuli
+name: "Yuli"
+location:
+  country_code: TW
+  latitude: 23.3356
+  longitude: 121.3144
+scores:
+  impact: 7.0
+  uniqueness: 7.1
+  significance: 7.0
+  experience: 7.5
+  depth: 7.1
+  categories:
+    food: 7.6
+    relaxation: 7.5

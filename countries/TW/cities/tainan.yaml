@@ -1,0 +1,18 @@
+id: city-tw-tainan
+name: "Tainan"
+location:
+  country_code: TW
+  latitude: 22.997
+  longitude: 120.212
+scores:
+  impact: 9.0
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.9
+  depth: 8.8
+  categories:
+    history: 9.3
+    culture: 9.2
+    food: 9.3
+    architecture: 9.0
+    photography: 8.8

@@ -1,0 +1,17 @@
+id: city-tw-fenqihu
+name: "Fenqihu"
+location:
+  country_code: TW
+  latitude: 23.5052
+  longitude: 120.6952
+scores:
+  impact: 8.0
+  uniqueness: 8.3
+  significance: 7.8
+  experience: 8.1
+  depth: 7.3
+  categories:
+    history: 8.3
+    nature: 8.4
+    culture: 8.0
+    photography: 8.6

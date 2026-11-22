@@ -1,0 +1,16 @@
+id: city-tw-hsinchu
+name: "Hsinchu"
+location:
+  country_code: TW
+  latitude: 24.8039
+  longitude: 120.9686
+scores:
+  impact: 7.9
+  uniqueness: 7.7
+  significance: 8.1
+  experience: 8.0
+  depth: 8.1
+  categories:
+    history: 8.2
+    culture: 8.1
+    food: 8.3

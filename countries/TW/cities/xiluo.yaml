@@ -1,0 +1,15 @@
+id: city-tw-xiluo
+name: "Xiluo"
+location:
+  country_code: TW
+  latitude: 23.7969
+  longitude: 120.46
+scores:
+  impact: 7.0
+  uniqueness: 7.3
+  significance: 7.5
+  experience: 7.4
+  depth: 6.7
+  categories:
+    history: 7.8
+    food: 7.8

@@ -1,0 +1,17 @@
+id: city-tw-hengchun
+name: "Hengchun"
+location:
+  country_code: TW
+  latitude: 22.004
+  longitude: 120.744
+scores:
+  impact: 8.0
+  uniqueness: 8.1
+  significance: 8.0
+  experience: 8.1
+  depth: 7.8
+  categories:
+    history: 8.3
+    nature: 8.1
+    food: 8.0
+    photography: 8.3

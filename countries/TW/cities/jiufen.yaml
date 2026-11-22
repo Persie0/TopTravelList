@@ -1,0 +1,18 @@
+id: city-tw-jiufen
+name: "Jiufen"
+location:
+  country_code: TW
+  latitude: 25.1092
+  longitude: 121.8443
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 8.4
+  experience: 8.5
+  depth: 7.6
+  categories:
+    history: 8.7
+    architecture: 8.6
+    culture: 8.7
+    photography: 9.3
+    food: 8.3

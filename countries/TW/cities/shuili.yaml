@@ -1,0 +1,15 @@
+id: city-tw-shuili
+name: "Shuili"
+location:
+  country_code: TW
+  latitude: 23.8166
+  longitude: 120.8546
+scores:
+  impact: 7.1
+  uniqueness: 7.1
+  significance: 7.0
+  experience: 7.6
+  depth: 7.0
+  categories:
+    nature: 7.7
+    relaxation: 7.8

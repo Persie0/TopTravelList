@@ -1,0 +1,15 @@
+id: city-tw-pingtung
+name: "Pingtung"
+location:
+  country_code: TW
+  latitude: 22.6721
+  longitude: 120.4879
+scores:
+  impact: 7.1
+  uniqueness: 6.9
+  significance: 7.1
+  experience: 7.6
+  depth: 7.3
+  categories:
+    food: 8.0
+    culture: 7.3
