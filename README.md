@@ -38,6 +38,7 @@ python -m pip install -r requirements.txt
 python scripts/generate_countries.py
 python scripts/validate.py
 python scripts/check_city_benchmarks.py
+python scripts/check_sight_benchmarks.py
 python scripts/generate_rankings.py
 python scripts/generate_rankings.py --check
 python scripts/rank.py --country AT --kind cities --limit 20
@@ -170,7 +171,7 @@ Use `scripts/rank.py` for ad-hoc sorted comparisons across countries and categor
 
 ## Consistent worldwide city ranking — 2026 review
 
-The **639 cities, towns and villages across all six populated countries** were rebenchmarked on the same worldwide scale, including a direct comparison of **Salzburg vs Phnom Penh**. The 1,733 sight entries retain their existing ratings. All 639 city scores and applicable categories were revisited through a conservative historical calibration; **104 cities** received explicit, individual benchmark profiles. This is a **provisional editorial dataset**, not a site-by-site research or on-the-ground verification.
+The **639 cities, towns and villages across all six populated countries** were rebenchmarked on the same worldwide scale, including a direct comparison of **Salzburg vs Phnom Penh**. The 1,733 sight records were subsequently recalibrated in a separate worldwide sight review (details below). All 639 city scores and applicable categories were revisited through a conservative historical calibration; **104 cities** received explicit, individual benchmark profiles. This is a **provisional editorial dataset**, not a site-by-site research or on-the-ground verification.
 
 For **every future country**, first use:
 - [City scoring guide](methodology/city-scoring-guide.md) — dimension definitions, international scoring bands, what counts as the city vs a nearby sight, how to assign a score, and the mandatory future-country checklist.
@@ -188,6 +189,31 @@ python scripts/check_city_benchmarks.py
 python scripts/generate_rankings.py --country XX
 python scripts/generate_rankings.py --check
 python scripts/rank.py --kind cities --limit 60
+```
+
+## Worldwide sight ranking — 1,733-attraction calibration (2026)
+
+**All 1,733 previously added sight YAML records across AT, TH, KR, CN, VN and KH have been recalibrated** under the same worldwide v2 five-dimension weights. This one-time review corrects inconsistent historical scoring batches without changing any of the 639 city records, original attraction identities or GPS coordinates. **189 important sights** have explicit, individually reviewed world-peer benchmark profiles; the other **1,544** received a deterministic, conservative first-pass correction. Scores remain provisional editorial judgments, not 1,733 independently researched on-site evaluations.
+
+Before adding **any future country or sight**, read and apply:
+
+- [Mandatory sight-scoring guide](methodology/sight-scoring-guide.md) — five core fields, worldwide thresholds, exact attraction-vs-park scope, category consistency, 9.5+/10 rules, new-country checklist.
+- [Cross-country sight benchmarks](methodology/sight-comparison-benchmarks.md) — global landmark, temple, nature, museum, beach, market and garden comparison ladder.
+- [189 frozen sight benchmark profiles](methodology/sight-benchmark-profiles.txt) — individually reviewed five-dimensional and category reference values.
+- [Complete 1,733-sight calibration audit](methodology/sight-calibration-audit.md) — every sight's old/new total, country diagnostics and direct YAML link.
+- [Future sight comparison checker](scripts/check_sight_benchmarks.py) — verifies named global comparisons and reports distribution warnings (not country quotas).
+
+The existing [worldwide 10/10 registry](methodology/scoring.json) remains unchanged: no new 10/10 scores were approved during this sight recalibration. New sights must be rated **directly** against global peers. Do **not** rerun the [archived one-time sight correction script](scripts/recalibrate_sights_2026.py); its guard prevents a second application.
+
+After adding or updating attractions:
+
+```bash
+python scripts/validate.py
+python scripts/check_city_benchmarks.py
+python scripts/check_sight_benchmarks.py
+python scripts/generate_rankings.py --country XX
+python scripts/generate_rankings.py --check
+python scripts/rank.py --kind sights --limit 60
 ```
 
 ## Absolute worldwide calibration (v2)
