@@ -64,6 +64,12 @@ All destination records contain the same five core scoring dimensions and applic
 
 Use `scripts/rank.py` for sorted comparisons; it computes the overall score and category rankings directly from source YAML without generating additional files. Each category is independently rated on the 0–10 scale, as described in `rules.md`.
 
+## Absolute worldwide calibration (v2)
+
+All **1,540 previously added destinations** (Austria, Thailand, South Korea and China) use a conservative globally calibrated 0–10 rubric. Local or national excellence is not sufficient for a 10: only the globally defining examples for that exact scoring dimension can attain 10. Each such approval is listed in `methodology/scoring.json` under `global_ten_anchors`; `scripts/validate.py` enforces it.
+
+**For new countries:** score directly against the worldwide comparators in [rules.md](rules.md). The legacy `scripts/calibrate_worldwide.py` is a one-time v1→v2 migration, *not* a script for converting newly authored ratings. A global 10 requires reviewing worldwide peers and explicitly adding the destination ID to the approved benchmark list. Smaller countries can still earn 10 where they genuinely represent the world's best in a given category. Do not rescale scores separately by country.
+
 ## Destination file examples
 
 `countries/AT/cities/vienna.yaml`:
@@ -76,18 +82,18 @@ location:
   latitude: 48.2082
   longitude: 16.3738
 scores:
-  impact: 9.6
-  uniqueness: 9.1
-  significance: 9.8
-  experience: 9.4
-  depth: 9.7
+  impact: 9.0
+  uniqueness: 8.8
+  significance: 9.4
+  experience: 9.2
+  depth: 9.2
   categories:
-    architecture: 9.8
-    history: 9.7
-    culture: 9.9
-    food: 9.1
-    nightlife: 8.5
-    photography: 9.1
+    architecture: 9.3
+    history: 9.5
+    culture: 9.5
+    food: 8.1
+    nightlife: 7.5
+    photography: 8.1
 ```
 
 `countries/AT/sights/schoenbrunn-palace.yaml`:
@@ -100,16 +106,16 @@ location:
   latitude: 48.1845
   longitude: 16.3122
 scores:
-  impact: 9.3
-  uniqueness: 8.9
-  significance: 9.5
-  experience: 9.3
-  depth: 9.2
+  impact: 9.0
+  uniqueness: 8.8
+  significance: 9.4
+  experience: 9.2
+  depth: 8.9
   categories:
-    architecture: 9.8
-    history: 9.6
-    culture: 9.5
-    photography: 9.5
+    architecture: 9.4
+    history: 9.3
+    culture: 8.5
+    photography: 8.5
 ```
 
 Coordinates are approximate representative points, not verified entrance locations. Null means *not assessed*, not zero. Do not assign rankings to incomplete assessments.
@@ -119,4 +125,5 @@ Coordinates are approximate representative points, not verified entrance locatio
 - Valid location fields: `country_code`, `latitude`, `longitude` only.
 - Only the two requested destination kinds are stored: cities and sights.
 - Overall scores are computed from assessed core dimensions; do not store redundant, manually edited totals.
+- Give 10 only to a worldwide benchmark that is explicitly listed in `methodology/scoring.json`, and run `python scripts/validate.py` after editing scores.
 - The country folders are created once by the generator, with `.gitkeep` files to keep empty directories in Git.

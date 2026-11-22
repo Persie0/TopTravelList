@@ -56,6 +56,26 @@ def main() -> int:
         "cities": Draft202012Validator(schemas["city.schema.json"], registry=reference_registry),
         "sights": Draft202012Validator(schemas["sight.schema.json"], registry=reference_registry),
     }
+    # v2: top worldwide score (10) must be explicitly approved for each
+    # destination AND rating dimension. The absence of an anchor means no 10.
+    version = scoring.get("version")
+    if version not in (1, 2):
+        errors.append("Unknown scoring version (expected 1 or 2)")
+    approved_tens = scoring.get("global_ten_anchors", {}) if version == 2 else {}
+    seen_tens: dict[str, set[str]] = {}
+    if version == 2:
+        if not isinstance(approved_tens, dict):
+            errors.append("global_ten_anchors must be an object")
+            approved_tens = {}
+        allowed = set(weights) | set(scoring["categories"])
+        for key, ids in approved_tens.items():
+            if key not in allowed:
+                errors.append(f"Unknown global 10 benchmark dimension: {key}")
+            if not isinstance(ids, list) or any(not isinstance(v, str) for v in ids):
+                errors.append(f"global_ten_anchors.{key} must be a list of IDs")
+                continue
+            if ids != sorted(set(ids)):
+                errors.append(f"global_ten_anchors.{key} must be sorted and unique")
     used_ids: set[str] = set()
     file_count = 0
     for code in codes:
@@ -94,6 +114,37 @@ def main() -> int:
                     if destination_id in used_ids:
                         errors.append(f"{file.relative_to(ROOT)}: duplicate destination id")
                     used_ids.add(destination_id)
+
+                if version == 2 and isinstance(destination_id, str):
+                    scores = data.get("scores")
+                    if not isinstance(scores, dict):
+                        continue
+                    categories = scores.get("categories")
+                    ratings = {k: scores.get(k) for k in weights}
+                    if isinstance(categories, dict):
+                        ratings.update(categories)
+                    for field, value in ratings.items():
+                        if isinstance(value, bool) or not isinstance(value, (float, int)):
+                            continue
+                        if abs(value * 10 - round(value * 10)) > 1e-6:
+                            errors.append(f"{file.relative_to(ROOT)}: {field} must have at most one decimal place")
+                        if value == 10:
+                            seen_tens.setdefault(field, set()).add(destination_id)
+                            if destination_id not in approved_tens.get(field, []):
+                                errors.append(
+                                    f"{file.relative_to(ROOT)}: {field}=10 requires worldwide benchmark approval "
+                                    "in methodology/scoring.json:global_ten_anchors"
+                                )
+
+    if version == 2:
+        for field, ids in approved_tens.items():
+            if isinstance(ids, list) and all(isinstance(value, str) for value in ids):
+                missing = set(ids) - seen_tens.get(field, set())
+                if missing:
+                    errors.append(
+                        f"global_ten_anchors.{field} refers to IDs without that exact 10 score: "
+                        + ", ".join(sorted(missing))
+                    )
 
     if errors:
         for error in errors:
