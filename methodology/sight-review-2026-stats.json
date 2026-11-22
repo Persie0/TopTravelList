@@ -29,10 +29,10 @@
       "total": 284
     },
     "TH": {
-      "changed": 41,
-      "high90_after": 15,
+      "changed": 203,
+      "high90_after": 16,
       "high90_before": 22,
-      "reviewed": 44,
+      "reviewed": 206,
       "total": 206
     },
     "TW": {
@@ -50,11 +50,11 @@
       "total": 360
     }
   },
-  "changed": 602,
-  "flagged": 416,
+  "changed": 764,
+  "flagged": 421,
   "records": 1913,
   "remaining_high90": 0,
-  "screened_only": 1272,
-  "source_referenced": 379,
-  "targeted": 641
+  "screened_only": 1110,
+  "source_referenced": 452,
+  "targeted": 803
 }
