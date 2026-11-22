@@ -8,7 +8,7 @@ and [machine-readable weights](scoring.json).
 
 **Follow-on review:** See the [2026 item-by-item reassessment summary](sight-review-2026-summary.md) and the [full per-sight decision/diagnostic register](sight-review-2026-full-audit.md). This review distinguishes site-specific judgments from provisional records that received automated screening only. Its decisions supersede frozen 2026 benchmark profiles for revised YAML files; the historical profiles must not be reapplied.
 
-The [incremental evidence-referenced review](sight-review-2026-summary.md) adds 109 individually sourced decisions to the original 149 explicit site corrections. The [full individual register](sight-review-2026-full-audit.md) makes the **1,655 still-unresearched sights** visible; those records retain provisional scores until independently reassessed. Category-specific excellence and historical significance must remain distinct from actual visitor impact, on-site experience and depth.
+The [incremental evidence-referenced review](sight-review-2026-summary.md) adds 154 individually sourced decisions to the original 149 explicit site corrections. The [full individual register](sight-review-2026-full-audit.md) makes the **1,610 still-unresearched sights** visible; those records retain provisional scores until independently reassessed. Category-specific excellence and historical significance must remain distinct from actual visitor impact, on-site experience and depth.
 
 ## Define the attraction and its true scale
 
