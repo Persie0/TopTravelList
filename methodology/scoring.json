@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "scale": {
     "min": 0,
     "max": 10
@@ -24,5 +24,46 @@
     "photography",
     "family",
     "relaxation"
-  ]
+  ],
+  "global_ten_anchors": {
+    "impact": [
+      "sight-cn-great-wall-jinshanling"
+    ],
+    "uniqueness": [
+      "sight-cn-great-wall-jinshanling",
+      "sight-cn-terracotta-army"
+    ],
+    "significance": [
+      "sight-cn-forbidden-city",
+      "sight-cn-great-wall-jinshanling",
+      "sight-cn-terracotta-army"
+    ],
+    "depth": [
+      "city-cn-beijing"
+    ],
+    "nature": [
+      "sight-cn-jiuzhaigou-valley",
+      "sight-cn-mount-huangshan"
+    ],
+    "architecture": [
+      "sight-cn-forbidden-city",
+      "sight-cn-great-wall-jinshanling"
+    ],
+    "history": [
+      "sight-cn-forbidden-city",
+      "sight-cn-great-wall-jinshanling",
+      "sight-cn-terracotta-army"
+    ],
+    "culture": [
+      "sight-cn-forbidden-city"
+    ],
+    "food": [
+      "city-cn-guangzhou",
+      "city-th-bangkok"
+    ],
+    "photography": [
+      "sight-cn-great-wall-jinshanling",
+      "sight-cn-mount-huangshan"
+    ]
+  }
 }

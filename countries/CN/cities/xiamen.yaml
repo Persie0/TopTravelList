@@ -5,14 +5,14 @@ location:
   latitude: 24.4798
   longitude: 118.0894
 scores:
-  impact: 9.2
-  uniqueness: 9.2
-  significance: 8.9
-  experience: 9.5
-  depth: 9.4
+  impact: 8.2
+  uniqueness: 8.2
+  significance: 7.9
+  experience: 8.5
+  depth: 8.4
   categories:
-    beaches: 8.6
-    architecture: 9.4
-    history: 9.1
-    food: 9.3
-    photography: 9.7
+    beaches: 7.6
+    architecture: 8.4
+    history: 8.1
+    food: 8.3
+    photography: 8.7
