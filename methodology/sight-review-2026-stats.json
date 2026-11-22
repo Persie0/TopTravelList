@@ -1,0 +1,59 @@
+{
+  "by_country": {
+    "AT": {
+      "changed": 18,
+      "high90_after": 13,
+      "high90_before": 21,
+      "reviewed": 18,
+      "total": 133
+    },
+    "CN": {
+      "changed": 17,
+      "high90_after": 35,
+      "high90_before": 35,
+      "reviewed": 17,
+      "total": 490
+    },
+    "KH": {
+      "changed": 29,
+      "high90_after": 32,
+      "high90_before": 40,
+      "reviewed": 29,
+      "total": 260
+    },
+    "KR": {
+      "changed": 23,
+      "high90_after": 17,
+      "high90_before": 25,
+      "reviewed": 23,
+      "total": 284
+    },
+    "TH": {
+      "changed": 19,
+      "high90_after": 17,
+      "high90_before": 22,
+      "reviewed": 19,
+      "total": 206
+    },
+    "TW": {
+      "changed": 16,
+      "high90_after": 7,
+      "high90_before": 11,
+      "reviewed": 16,
+      "total": 180
+    },
+    "VN": {
+      "changed": 27,
+      "high90_after": 32,
+      "high90_before": 41,
+      "reviewed": 27,
+      "total": 360
+    }
+  },
+  "changed": 149,
+  "flagged": 402,
+  "records": 1913,
+  "remaining_high90": 61,
+  "screened_only": 1764,
+  "targeted": 149
+}
