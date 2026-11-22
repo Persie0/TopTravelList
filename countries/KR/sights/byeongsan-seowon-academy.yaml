@@ -5,13 +5,13 @@ location:
   latitude: 36.5354
   longitude: 128.512
 scores:
-  impact: 9.3
-  uniqueness: 9.8
-  significance: 10
-  experience: 9.4
-  depth: 8.9
+  impact: 8.3
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 8.4
+  depth: 7.9
   categories:
-    history: 10
-    architecture: 9.8
-    culture: 9.8
-    photography: 9.5
+    history: 9.0
+    architecture: 8.8
+    culture: 8.8
+    photography: 8.5

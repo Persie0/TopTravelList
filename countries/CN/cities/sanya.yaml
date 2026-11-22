@@ -5,13 +5,13 @@ location:
   latitude: 18.2528
   longitude: 109.5119
 scores:
-  impact: 9.1
-  uniqueness: 9.1
-  significance: 8.2
-  experience: 9.5
-  depth: 9.6
+  impact: 8.1
+  uniqueness: 8.1
+  significance: 7.2
+  experience: 8.5
+  depth: 8.6
   categories:
-    beaches: 9.7
-    nature: 9.3
-    relaxation: 9.6
-    food: 9.0
+    beaches: 8.7
+    nature: 8.3
+    relaxation: 8.6
+    food: 8.0
