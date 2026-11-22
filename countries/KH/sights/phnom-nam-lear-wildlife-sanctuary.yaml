@@ -1,0 +1,15 @@
+id: sight-kh-phnom-nam-lear-wildlife-sanctuary
+name: "Phnom Nam Lear Wildlife Sanctuary"
+location:
+  country_code: KH
+  latitude: 12.44
+  longitude: 107.33
+scores:
+  impact: 9.3
+  uniqueness: 9.6
+  significance: 9.1
+  experience: 9.4
+  depth: 9.7
+  categories:
+    nature: 9.8
+    wildlife: 9.6

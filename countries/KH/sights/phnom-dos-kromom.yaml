@@ -1,0 +1,15 @@
+id: sight-kh-phnom-dos-kromom
+name: "Phnom Dos Kromom Viewpoint"
+location:
+  country_code: KH
+  latitude: 12.445
+  longitude: 107.182
+scores:
+  impact: 9
+  uniqueness: 9.4
+  significance: 8.7
+  experience: 9.5
+  depth: 8.7
+  categories:
+    nature: 9.6
+    photography: 9.7

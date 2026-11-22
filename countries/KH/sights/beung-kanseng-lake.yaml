@@ -1,0 +1,15 @@
+id: sight-kh-beung-kanseng-lake
+name: "Beung Kanseng Lake Banlung"
+location:
+  country_code: KH
+  latitude: 13.735
+  longitude: 106.975
+scores:
+  impact: 8.6
+  uniqueness: 9
+  significance: 8.4
+  experience: 9.4
+  depth: 9
+  categories:
+    nature: 9.1
+    relaxation: 9.3

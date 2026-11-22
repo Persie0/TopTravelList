@@ -1,0 +1,16 @@
+id: sight-kh-prey-lang-wildlife-sanctuary
+name: "Prey Lang Wildlife Sanctuary"
+location:
+  country_code: KH
+  latitude: 13.01
+  longitude: 105.42
+scores:
+  impact: 9.7
+  uniqueness: 9.9
+  significance: 9.6
+  experience: 9.4
+  depth: 9.9
+  categories:
+    nature: 9.9
+    wildlife: 9.9
+    adventure: 9.5

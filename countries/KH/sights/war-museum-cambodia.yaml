@@ -1,0 +1,15 @@
+id: sight-kh-war-museum-cambodia
+name: "War Museum Cambodia"
+location:
+  country_code: KH
+  latitude: 13.388
+  longitude: 103.823
+scores:
+  impact: 8.7
+  uniqueness: 9.2
+  significance: 9.4
+  experience: 9.1
+  depth: 8.7
+  categories:
+    history: 9.6
+    culture: 8.9

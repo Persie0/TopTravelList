@@ -1,0 +1,15 @@
+id: sight-kh-sokha-beach
+name: "Sokha Beach"
+location:
+  country_code: KH
+  latitude: 10.614
+  longitude: 103.514
+scores:
+  impact: 8.6
+  uniqueness: 8.9
+  significance: 7.8
+  experience: 9.2
+  depth: 8.8
+  categories:
+    beaches: 9.2
+    relaxation: 9.2

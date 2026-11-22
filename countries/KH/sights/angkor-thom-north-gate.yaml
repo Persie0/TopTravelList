@@ -1,0 +1,16 @@
+id: sight-kh-angkor-thom-north-gate
+name: "North Gate of Angkor Thom"
+location:
+  country_code: KH
+  latitude: 13.4603
+  longitude: 103.8588
+scores:
+  impact: 9.3
+  uniqueness: 9.7
+  significance: 9.6
+  experience: 9.6
+  depth: 8.3
+  categories:
+    architecture: 9.8
+    history: 9.8
+    photography: 9.8

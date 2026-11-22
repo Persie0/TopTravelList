@@ -1,0 +1,15 @@
+id: city-kh-otres
+name: "Otres"
+location:
+  country_code: KH
+  latitude: 10.578
+  longitude: 103.554
+scores:
+  impact: 8.1
+  uniqueness: 8.5
+  significance: 7.7
+  experience: 9
+  depth: 8.5
+  categories:
+    beaches: 9.1
+    food: 8.5

@@ -1,0 +1,17 @@
+id: sight-kh-cardamom-mountains
+name: "Cardamom Mountains"
+location:
+  country_code: KH
+  latitude: 11.89
+  longitude: 103.38
+scores:
+  impact: 9.8
+  uniqueness: 9.9
+  significance: 9.7
+  experience: 9.6
+  depth: 9.9
+  categories:
+    nature: 9.9
+    wildlife: 9.9
+    adventure: 9.7
+    photography: 9.8

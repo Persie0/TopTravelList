@@ -1,0 +1,15 @@
+id: sight-kh-village-voen-sai
+name: "Voen Sai River Village"
+location:
+  country_code: KH
+  latitude: 13.95
+  longitude: 107.31
+scores:
+  impact: 8.6
+  uniqueness: 9.3
+  significance: 8.8
+  experience: 9.1
+  depth: 8.7
+  categories:
+    culture: 9.4
+    nature: 9.3

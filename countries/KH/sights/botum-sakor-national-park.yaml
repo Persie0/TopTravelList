@@ -1,0 +1,15 @@
+id: sight-kh-botum-sakor-national-park
+name: "Botum Sakor National Park"
+location:
+  country_code: KH
+  latitude: 11.183
+  longitude: 103.451
+scores:
+  impact: 9.1
+  uniqueness: 9.5
+  significance: 9.2
+  experience: 9
+  depth: 9.4
+  categories:
+    nature: 9.6
+    wildlife: 9.0

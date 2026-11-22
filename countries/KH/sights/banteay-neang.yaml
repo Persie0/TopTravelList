@@ -1,0 +1,15 @@
+id: sight-kh-banteay-neang
+name: "Banteay Neang Temple"
+location:
+  country_code: KH
+  latitude: 13.585
+  longitude: 102.971
+scores:
+  impact: 8.9
+  uniqueness: 9.6
+  significance: 9.5
+  experience: 9.2
+  depth: 8.3
+  categories:
+    architecture: 9.6
+    history: 9.7

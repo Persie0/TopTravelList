@@ -1,0 +1,16 @@
+id: sight-kh-koh-pen-island
+name: "Koh Pen Island"
+location:
+  country_code: KH
+  latitude: 11.98
+  longitude: 105.491
+scores:
+  impact: 8.6
+  uniqueness: 9.1
+  significance: 8.6
+  experience: 9.3
+  depth: 8.8
+  categories:
+    nature: 9.2
+    culture: 9.3
+    relaxation: 9.2

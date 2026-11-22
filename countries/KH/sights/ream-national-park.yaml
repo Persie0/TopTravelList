@@ -1,0 +1,16 @@
+id: sight-kh-ream-national-park
+name: "Ream National Park"
+location:
+  country_code: KH
+  latitude: 10.532
+  longitude: 103.677
+scores:
+  impact: 9.5
+  uniqueness: 9.8
+  significance: 9.3
+  experience: 9.6
+  depth: 9.7
+  categories:
+    nature: 9.9
+    wildlife: 9.7
+    beaches: 9.2

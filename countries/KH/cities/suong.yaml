@@ -1,0 +1,14 @@
+id: city-kh-suong
+name: "Suong"
+location:
+  country_code: KH
+  latitude: 11.911
+  longitude: 105.661
+scores:
+  impact: 7.5
+  uniqueness: 7.9
+  significance: 8.1
+  experience: 8.4
+  depth: 8.3
+  categories:
+    culture: 8.6

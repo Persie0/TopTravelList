@@ -1,0 +1,17 @@
+id: sight-kh-ta-prohm-temple
+name: "Ta Prohm Temple"
+location:
+  country_code: KH
+  latitude: 13.435
+  longitude: 103.8895
+scores:
+  impact: 9.9
+  uniqueness: 9.9
+  significance: 9.8
+  experience: 9.9
+  depth: 9
+  categories:
+    architecture: 9.9
+    history: 9.9
+    nature: 9.7
+    photography: 9.9

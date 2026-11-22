@@ -1,0 +1,17 @@
+id: sight-kh-royal-palace-phnom-penh
+name: "Royal Palace of Cambodia"
+location:
+  country_code: KH
+  latitude: 11.5635
+  longitude: 104.9316
+scores:
+  impact: 9.7
+  uniqueness: 9.8
+  significance: 9.9
+  experience: 9.7
+  depth: 9.6
+  categories:
+    architecture: 9.9
+    history: 9.9
+    culture: 9.9
+    photography: 9.8

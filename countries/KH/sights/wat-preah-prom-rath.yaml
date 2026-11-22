@@ -1,0 +1,16 @@
+id: sight-kh-wat-preah-prom-rath
+name: "Wat Preah Prom Rath"
+location:
+  country_code: KH
+  latitude: 13.3547
+  longitude: 103.8581
+scores:
+  impact: 8.8
+  uniqueness: 9.2
+  significance: 9.3
+  experience: 9.2
+  depth: 8.4
+  categories:
+    architecture: 9.2
+    culture: 9.5
+    history: 9.3

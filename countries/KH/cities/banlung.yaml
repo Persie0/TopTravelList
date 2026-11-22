@@ -1,0 +1,17 @@
+id: city-kh-banlung
+name: "Banlung"
+location:
+  country_code: KH
+  latitude: 13.7394
+  longitude: 106.9873
+scores:
+  impact: 8.8
+  uniqueness: 9.2
+  significance: 8.6
+  experience: 9.2
+  depth: 9.1
+  categories:
+    nature: 9.7
+    wildlife: 9.3
+    adventure: 9.4
+    culture: 9.2

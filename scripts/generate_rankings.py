@@ -198,6 +198,17 @@ def render_country(code, folder, weights, version):
         f"## Complete ranked list ({len(ranked)})",
         "",
     ]
+    if code == "KH":
+        # The ranked dataset includes culturally important frontier heritage
+        # regardless of whether visitor access is currently permitted.
+        lines[-2:-2] = [
+            "**Access advisory (checked 22 November 2026):** Cambodian–Thai border "
+            "heritage sites such as Preah Vihear are reported closed; this ranking "
+            "is not a safety or admission status indicator. "
+            "Consult [current government travel advice]"
+            "(https://www.gov.uk/foreign-travel-advice/cambodia) before visiting.",
+            "",
+        ]
     if ranked:
         lines.append(TABLE_HEADER)
         previous, rank = None, 0

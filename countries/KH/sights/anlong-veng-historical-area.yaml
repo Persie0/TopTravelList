@@ -1,0 +1,15 @@
+id: sight-kh-anlong-veng-historical-area
+name: "Anlong Veng Historical Area"
+location:
+  country_code: KH
+  latitude: 14.24
+  longitude: 104.087
+scores:
+  impact: 8.9
+  uniqueness: 9.4
+  significance: 9.7
+  experience: 9.2
+  depth: 8.9
+  categories:
+    history: 9.9
+    culture: 9.5

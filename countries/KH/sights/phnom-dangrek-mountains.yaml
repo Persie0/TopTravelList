@@ -1,0 +1,15 @@
+id: sight-kh-phnom-dangrek-mountains
+name: "Dangrek Mountain Escarpment"
+location:
+  country_code: KH
+  latitude: 14.351
+  longitude: 104.178
+scores:
+  impact: 9.4
+  uniqueness: 9.6
+  significance: 9.1
+  experience: 9.3
+  depth: 9.7
+  categories:
+    nature: 9.7
+    photography: 9.6

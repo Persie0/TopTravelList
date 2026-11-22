@@ -1,0 +1,17 @@
+id: city-kh-kampong-cham
+name: "Kampong Cham"
+location:
+  country_code: KH
+  latitude: 11.9924
+  longitude: 105.4623
+scores:
+  impact: 8.6
+  uniqueness: 8.9
+  significance: 9
+  experience: 9.2
+  depth: 8.9
+  categories:
+    history: 9.2
+    architecture: 9.0
+    food: 9.0
+    photography: 9.1

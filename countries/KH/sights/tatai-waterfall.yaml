@@ -1,0 +1,15 @@
+id: sight-kh-tatai-waterfall
+name: "Tatai Waterfall"
+location:
+  country_code: KH
+  latitude: 11.599
+  longitude: 103.085
+scores:
+  impact: 9.3
+  uniqueness: 9.7
+  significance: 8.6
+  experience: 9.7
+  depth: 9
+  categories:
+    nature: 9.8
+    photography: 9.8

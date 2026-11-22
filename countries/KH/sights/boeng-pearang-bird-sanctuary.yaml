@@ -1,0 +1,15 @@
+id: sight-kh-boeng-pearang-bird-sanctuary
+name: "Boeng Pearang Bird Sanctuary"
+location:
+  country_code: KH
+  latitude: 13.332
+  longitude: 103.926
+scores:
+  impact: 9.1
+  uniqueness: 9.5
+  significance: 9
+  experience: 9.4
+  depth: 8.8
+  categories:
+    wildlife: 9.6
+    nature: 9.5

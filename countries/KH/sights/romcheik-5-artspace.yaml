@@ -1,0 +1,15 @@
+id: sight-kh-romcheik-5-artspace
+name: "Romcheik 5 Artspace"
+location:
+  country_code: KH
+  latitude: 13.105
+  longitude: 103.196
+scores:
+  impact: 8.6
+  uniqueness: 9.3
+  significance: 9.1
+  experience: 9.4
+  depth: 9
+  categories:
+    culture: 9.5
+    architecture: 8.8

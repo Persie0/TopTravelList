@@ -1,0 +1,14 @@
+id: city-kh-memot
+name: "Memot"
+location:
+  country_code: KH
+  latitude: 11.814
+  longitude: 106.174
+scores:
+  impact: 7.6
+  uniqueness: 8.1
+  significance: 8.4
+  experience: 8.5
+  depth: 8.1
+  categories:
+    history: 8.8

@@ -1,0 +1,14 @@
+id: city-kh-peam-chi-kang
+name: "Peam Chi Kang"
+location:
+  country_code: KH
+  latitude: 12.256
+  longitude: 105.493
+scores:
+  impact: 7.5
+  uniqueness: 8.2
+  significance: 8.4
+  experience: 8.5
+  depth: 8
+  categories:
+    culture: 8.5

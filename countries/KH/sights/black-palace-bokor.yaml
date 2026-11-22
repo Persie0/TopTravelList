@@ -1,0 +1,15 @@
+id: sight-kh-black-palace-bokor
+name: "Black Palace Bokor"
+location:
+  country_code: KH
+  latitude: 10.617
+  longitude: 104.019
+scores:
+  impact: 8.8
+  uniqueness: 9.5
+  significance: 9.4
+  experience: 9.1
+  depth: 8.2
+  categories:
+    architecture: 9.4
+    history: 9.5

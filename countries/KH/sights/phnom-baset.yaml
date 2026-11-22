@@ -1,0 +1,15 @@
+id: sight-kh-phnom-baset
+name: "Phnom Baset Hill and Temple"
+location:
+  country_code: KH
+  latitude: 11.716
+  longitude: 104.791
+scores:
+  impact: 8.9
+  uniqueness: 9.5
+  significance: 9.6
+  experience: 9.3
+  depth: 8.6
+  categories:
+    architecture: 9.5
+    history: 9.7

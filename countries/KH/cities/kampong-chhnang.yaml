@@ -1,0 +1,16 @@
+id: city-kh-kampong-chhnang
+name: "Kampong Chhnang"
+location:
+  country_code: KH
+  latitude: 12.25
+  longitude: 104.6656
+scores:
+  impact: 8.5
+  uniqueness: 9
+  significance: 8.9
+  experience: 9.1
+  depth: 8.7
+  categories:
+    culture: 9.4
+    photography: 9.1
+    history: 8.9

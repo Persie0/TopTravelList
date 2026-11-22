@@ -1,0 +1,16 @@
+id: city-kh-sihanoukville
+name: "Sihanoukville"
+location:
+  country_code: KH
+  latitude: 10.6253
+  longitude: 103.5234
+scores:
+  impact: 8.3
+  uniqueness: 8.5
+  significance: 8
+  experience: 8.8
+  depth: 9.1
+  categories:
+    beaches: 9.0
+    food: 8.8
+    nightlife: 8.8

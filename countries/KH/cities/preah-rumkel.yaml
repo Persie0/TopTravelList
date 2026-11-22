@@ -1,0 +1,16 @@
+id: city-kh-preah-rumkel
+name: "Preah Rumkel Village"
+location:
+  country_code: KH
+  latitude: 13.953
+  longitude: 105.914
+scores:
+  impact: 8.6
+  uniqueness: 9.3
+  significance: 8.4
+  experience: 9.1
+  depth: 8.5
+  categories:
+    nature: 9.8
+    wildlife: 9.4
+    photography: 9.4

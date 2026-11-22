@@ -1,0 +1,15 @@
+id: sight-kh-rahal-baray-koh-ker
+name: "Rahal Baray Koh Ker"
+location:
+  country_code: KH
+  latitude: 13.788
+  longitude: 104.561
+scores:
+  impact: 9
+  uniqueness: 9.5
+  significance: 9.8
+  experience: 9.2
+  depth: 8.8
+  categories:
+    architecture: 9.4
+    history: 9.8

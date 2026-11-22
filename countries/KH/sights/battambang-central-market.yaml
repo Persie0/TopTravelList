@@ -1,0 +1,16 @@
+id: sight-kh-battambang-central-market
+name: "Psar Nat Market Battambang"
+location:
+  country_code: KH
+  latitude: 13.106
+  longitude: 103.201
+scores:
+  impact: 8.7
+  uniqueness: 9
+  significance: 9.1
+  experience: 9.5
+  depth: 9
+  categories:
+    architecture: 9.3
+    food: 9.4
+    culture: 9.3

@@ -1,0 +1,16 @@
+id: sight-kh-angkor-thom-south-gate
+name: "South Gate of Angkor Thom"
+location:
+  country_code: KH
+  latitude: 13.4313
+  longitude: 103.8584
+scores:
+  impact: 9.7
+  uniqueness: 9.9
+  significance: 9.8
+  experience: 9.8
+  depth: 8.4
+  categories:
+    architecture: 9.9
+    history: 9.9
+    photography: 9.9

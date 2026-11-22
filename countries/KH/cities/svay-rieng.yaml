@@ -1,0 +1,15 @@
+id: city-kh-svay-rieng
+name: "Svay Rieng"
+location:
+  country_code: KH
+  latitude: 11.0879
+  longitude: 105.7994
+scores:
+  impact: 7.4
+  uniqueness: 7.9
+  significance: 8
+  experience: 8.5
+  depth: 8.1
+  categories:
+    history: 8.5
+    culture: 8.4

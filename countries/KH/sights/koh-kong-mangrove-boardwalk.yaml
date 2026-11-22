@@ -1,0 +1,16 @@
+id: sight-kh-koh-kong-mangrove-boardwalk
+name: "Koh Kong Mangrove Boardwalk"
+location:
+  country_code: KH
+  latitude: 11.568
+  longitude: 102.989
+scores:
+  impact: 9.1
+  uniqueness: 9.5
+  significance: 8.7
+  experience: 9.5
+  depth: 8.7
+  categories:
+    nature: 9.7
+    wildlife: 9.3
+    photography: 9.6

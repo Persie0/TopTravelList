@@ -1,0 +1,18 @@
+id: city-kh-kampot
+name: "Kampot"
+location:
+  country_code: KH
+  latitude: 10.6104
+  longitude: 104.1815
+scores:
+  impact: 9
+  uniqueness: 9.2
+  significance: 8.9
+  experience: 9.5
+  depth: 9.2
+  categories:
+    nature: 9.4
+    food: 9.4
+    culture: 9.1
+    relaxation: 9.4
+    photography: 9.3

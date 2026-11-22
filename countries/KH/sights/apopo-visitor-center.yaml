@@ -1,0 +1,16 @@
+id: sight-kh-apopo-visitor-center
+name: "APOPO Visitor Center Siem Reap"
+location:
+  country_code: KH
+  latitude: 13.364
+  longitude: 103.849
+scores:
+  impact: 8.7
+  uniqueness: 9.5
+  significance: 9
+  experience: 9.5
+  depth: 8.7
+  categories:
+    culture: 9.2
+    history: 9.0
+    family: 9.1

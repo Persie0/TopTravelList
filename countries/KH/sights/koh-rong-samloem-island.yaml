@@ -1,0 +1,16 @@
+id: sight-kh-koh-rong-samloem-island
+name: "Koh Rong Samloem Island"
+location:
+  country_code: KH
+  latitude: 10.59
+  longitude: 103.305
+scores:
+  impact: 9.6
+  uniqueness: 9.8
+  significance: 9
+  experience: 9.8
+  depth: 9.6
+  categories:
+    beaches: 9.9
+    nature: 9.8
+    relaxation: 9.9

@@ -1,0 +1,16 @@
+id: sight-kh-tatai-river
+name: "Tatai River"
+location:
+  country_code: KH
+  latitude: 11.601
+  longitude: 103.115
+scores:
+  impact: 9.4
+  uniqueness: 9.7
+  significance: 8.8
+  experience: 9.7
+  depth: 9.5
+  categories:
+    nature: 9.8
+    wildlife: 9.5
+    relaxation: 9.6

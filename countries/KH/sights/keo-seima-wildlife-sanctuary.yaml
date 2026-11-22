@@ -1,0 +1,16 @@
+id: sight-kh-keo-seima-wildlife-sanctuary
+name: "Keo Seima Wildlife Sanctuary"
+location:
+  country_code: KH
+  latitude: 12.239
+  longitude: 106.96
+scores:
+  impact: 9.7
+  uniqueness: 9.9
+  significance: 9.7
+  experience: 9.6
+  depth: 9.9
+  categories:
+    nature: 9.9
+    wildlife: 9.9
+    adventure: 9.4

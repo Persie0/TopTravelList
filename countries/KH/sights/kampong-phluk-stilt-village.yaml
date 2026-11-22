@@ -1,0 +1,16 @@
+id: sight-kh-kampong-phluk-stilt-village
+name: "Kampong Phluk Stilt Village"
+location:
+  country_code: KH
+  latitude: 13.206
+  longitude: 103.976
+scores:
+  impact: 9.1
+  uniqueness: 9.6
+  significance: 9.2
+  experience: 9.6
+  depth: 9
+  categories:
+    architecture: 9.6
+    culture: 9.8
+    photography: 9.7

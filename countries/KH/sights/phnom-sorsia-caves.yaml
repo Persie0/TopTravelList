@@ -1,0 +1,15 @@
+id: sight-kh-phnom-sorsia-caves
+name: "Phnom Sorsia Caves"
+location:
+  country_code: KH
+  latitude: 10.569
+  longitude: 104.299
+scores:
+  impact: 9.1
+  uniqueness: 9.6
+  significance: 8.9
+  experience: 9.4
+  depth: 8.6
+  categories:
+    nature: 9.6
+    history: 9.0

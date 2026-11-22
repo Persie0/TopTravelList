@@ -1,0 +1,16 @@
+id: sight-kh-koh-ta-kiev-island
+name: "Koh Ta Kiev Island"
+location:
+  country_code: KH
+  latitude: 10.55
+  longitude: 103.64
+scores:
+  impact: 9.3
+  uniqueness: 9.6
+  significance: 8.7
+  experience: 9.6
+  depth: 9.3
+  categories:
+    beaches: 9.7
+    nature: 9.6
+    relaxation: 9.5

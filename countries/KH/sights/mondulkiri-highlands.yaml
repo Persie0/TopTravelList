@@ -1,0 +1,17 @@
+id: sight-kh-mondulkiri-highlands
+name: "Mondulkiri Highlands"
+location:
+  country_code: KH
+  latitude: 12.55
+  longitude: 107.26
+scores:
+  impact: 9.5
+  uniqueness: 9.8
+  significance: 9.3
+  experience: 9.6
+  depth: 9.9
+  categories:
+    nature: 9.9
+    wildlife: 9.8
+    adventure: 9.5
+    photography: 9.8

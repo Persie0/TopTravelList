@@ -1,0 +1,16 @@
+id: sight-kh-phnom-banan
+name: "Phnom Banan Temple"
+location:
+  country_code: KH
+  latitude: 12.969
+  longitude: 103.191
+scores:
+  impact: 9.4
+  uniqueness: 9.8
+  significance: 9.8
+  experience: 9.6
+  depth: 8.9
+  categories:
+    architecture: 9.9
+    history: 9.9
+    photography: 9.8

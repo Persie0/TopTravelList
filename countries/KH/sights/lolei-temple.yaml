@@ -1,0 +1,15 @@
+id: sight-kh-lolei-temple
+name: "Lolei Temple"
+location:
+  country_code: KH
+  latitude: 13.3534
+  longitude: 103.974
+scores:
+  impact: 9.2
+  uniqueness: 9.6
+  significance: 9.7
+  experience: 9.3
+  depth: 8.3
+  categories:
+    architecture: 9.8
+    history: 9.8

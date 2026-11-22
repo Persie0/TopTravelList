@@ -1,0 +1,16 @@
+id: sight-kh-phnom-ta-mao-wildlife-rescue
+name: "Phnom Tamao Wildlife Rescue Center"
+location:
+  country_code: KH
+  latitude: 11.291
+  longitude: 104.812
+scores:
+  impact: 9.3
+  uniqueness: 9.7
+  significance: 9.4
+  experience: 9.7
+  depth: 9.5
+  categories:
+    wildlife: 9.9
+    nature: 9.5
+    family: 9.3

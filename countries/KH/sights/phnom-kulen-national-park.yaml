@@ -1,0 +1,17 @@
+id: sight-kh-phnom-kulen-national-park
+name: "Phnom Kulen National Park"
+location:
+  country_code: KH
+  latitude: 13.5735
+  longitude: 104.0882
+scores:
+  impact: 9.6
+  uniqueness: 9.8
+  significance: 9.8
+  experience: 9.7
+  depth: 9.8
+  categories:
+    nature: 9.8
+    history: 9.9
+    culture: 9.7
+    photography: 9.8

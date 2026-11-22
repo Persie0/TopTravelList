@@ -1,0 +1,16 @@
+id: sight-kh-kep-butterfly-garden
+name: "Kep Butterfly Garden"
+location:
+  country_code: KH
+  latitude: 10.495
+  longitude: 104.295
+scores:
+  impact: 8.5
+  uniqueness: 9
+  significance: 8.1
+  experience: 9.1
+  depth: 8.8
+  categories:
+    wildlife: 9.2
+    nature: 9.1
+    family: 9.1

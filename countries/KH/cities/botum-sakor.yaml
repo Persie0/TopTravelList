@@ -1,0 +1,14 @@
+id: city-kh-botum-sakor
+name: "Botum Sakor Village"
+location:
+  country_code: KH
+  latitude: 11.18
+  longitude: 103.435
+scores:
+  impact: 8
+  uniqueness: 8.8
+  significance: 8.2
+  experience: 8.7
+  depth: 8.5
+  categories:
+    nature: 9.2

@@ -1,0 +1,15 @@
+id: sight-kh-angkul-beach
+name: "Angkul Beach"
+location:
+  country_code: KH
+  latitude: 10.427
+  longitude: 104.366
+scores:
+  impact: 8.8
+  uniqueness: 9.4
+  significance: 8
+  experience: 9.4
+  depth: 8.8
+  categories:
+    beaches: 9.3
+    relaxation: 9.4

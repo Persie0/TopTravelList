@@ -1,0 +1,14 @@
+id: city-kh-preah-netr-preah
+name: "Preah Netr Preah"
+location:
+  country_code: KH
+  latitude: 13.632
+  longitude: 103.173
+scores:
+  impact: 7.4
+  uniqueness: 8.1
+  significance: 8.1
+  experience: 8.3
+  depth: 8
+  categories:
+    history: 8.4

@@ -1,0 +1,15 @@
+id: sight-kh-siem-reap-pub-street
+name: "Pub Street Siem Reap"
+location:
+  country_code: KH
+  latitude: 13.353
+  longitude: 103.855
+scores:
+  impact: 8.6
+  uniqueness: 8.9
+  significance: 8.5
+  experience: 9.5
+  depth: 9.1
+  categories:
+    nightlife: 9.4
+    food: 9.2

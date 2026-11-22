@@ -1,0 +1,16 @@
+id: sight-kh-phnom-sampeau-bat-cave
+name: "Phnom Sampeau Bat Caves"
+location:
+  country_code: KH
+  latitude: 13.021
+  longitude: 103.132
+scores:
+  impact: 9.4
+  uniqueness: 9.8
+  significance: 8.8
+  experience: 9.8
+  depth: 9
+  categories:
+    wildlife: 9.9
+    nature: 9.6
+    photography: 9.8

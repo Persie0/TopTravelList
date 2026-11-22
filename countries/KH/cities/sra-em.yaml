@@ -1,0 +1,15 @@
+id: city-kh-sra-em
+name: "Sra Em"
+location:
+  country_code: KH
+  latitude: 14.1757
+  longitude: 104.5377
+scores:
+  impact: 8.2
+  uniqueness: 8.9
+  significance: 8.9
+  experience: 8.8
+  depth: 8.3
+  categories:
+    history: 9.2
+    nature: 9.0

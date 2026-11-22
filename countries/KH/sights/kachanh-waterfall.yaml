@@ -1,0 +1,15 @@
+id: sight-kh-kachanh-waterfall
+name: "Kachanh Waterfall"
+location:
+  country_code: KH
+  latitude: 13.739
+  longitude: 106.928
+scores:
+  impact: 9
+  uniqueness: 9.5
+  significance: 8.6
+  experience: 9.4
+  depth: 8.5
+  categories:
+    nature: 9.6
+    photography: 9.6

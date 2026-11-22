@@ -1,0 +1,16 @@
+id: sight-kh-angkor-wat-west-gate
+name: "Angkor Wat West Gate"
+location:
+  country_code: KH
+  latitude: 13.4101
+  longitude: 103.8596
+scores:
+  impact: 9.5
+  uniqueness: 9.8
+  significance: 9.7
+  experience: 9.6
+  depth: 8.6
+  categories:
+    architecture: 9.9
+    history: 9.8
+    photography: 9.8

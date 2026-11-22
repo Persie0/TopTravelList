@@ -1,0 +1,16 @@
+id: city-kh-kampi
+name: "Kampi"
+location:
+  country_code: KH
+  latitude: 12.617
+  longitude: 106.039
+scores:
+  impact: 8.7
+  uniqueness: 9.4
+  significance: 8.8
+  experience: 9.3
+  depth: 8.4
+  categories:
+    wildlife: 9.8
+    nature: 9.5
+    photography: 9.3

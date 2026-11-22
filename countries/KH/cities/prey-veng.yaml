@@ -1,0 +1,15 @@
+id: city-kh-prey-veng
+name: "Prey Veng"
+location:
+  country_code: KH
+  latitude: 11.4868
+  longitude: 105.3276
+scores:
+  impact: 7.8
+  uniqueness: 8.1
+  significance: 8.2
+  experience: 8.7
+  depth: 8.4
+  categories:
+    culture: 8.6
+    food: 8.6

@@ -1,0 +1,16 @@
+id: sight-kh-banteay-srei-butterfly-centre
+name: "Banteay Srey Butterfly Centre"
+location:
+  country_code: KH
+  latitude: 13.593
+  longitude: 103.976
+scores:
+  impact: 8.4
+  uniqueness: 9
+  significance: 8.3
+  experience: 9
+  depth: 8.7
+  categories:
+    wildlife: 9.2
+    family: 9.0
+    nature: 9.2

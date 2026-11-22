@@ -1,0 +1,16 @@
+id: city-kh-stung-treng
+name: "Stung Treng"
+location:
+  country_code: KH
+  latitude: 13.5259
+  longitude: 105.9683
+scores:
+  impact: 8.5
+  uniqueness: 9
+  significance: 8.6
+  experience: 9
+  depth: 9.1
+  categories:
+    nature: 9.7
+    wildlife: 9.4
+    adventure: 9.1

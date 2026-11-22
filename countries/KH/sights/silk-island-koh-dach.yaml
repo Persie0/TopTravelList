@@ -1,0 +1,16 @@
+id: sight-kh-silk-island-koh-dach
+name: "Silk Island (Koh Dach)"
+location:
+  country_code: KH
+  latitude: 11.665
+  longitude: 104.96
+scores:
+  impact: 8.9
+  uniqueness: 9.4
+  significance: 9.1
+  experience: 9.5
+  depth: 9
+  categories:
+    culture: 9.7
+    food: 9.0
+    relaxation: 9.2

@@ -1,0 +1,16 @@
+id: sight-kh-kbal-spean-waterfall
+name: "Kbal Spean Forest Waterfall"
+location:
+  country_code: KH
+  latitude: 13.681
+  longitude: 104.026
+scores:
+  impact: 9
+  uniqueness: 9.4
+  significance: 8.6
+  experience: 9.5
+  depth: 8.6
+  categories:
+    nature: 9.6
+    adventure: 9.1
+    photography: 9.4

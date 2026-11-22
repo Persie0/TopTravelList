@@ -1,0 +1,17 @@
+id: sight-kh-koh-rong-island
+name: "Koh Rong Island"
+location:
+  country_code: KH
+  latitude: 10.705
+  longitude: 103.26
+scores:
+  impact: 9.7
+  uniqueness: 9.8
+  significance: 9.3
+  experience: 9.8
+  depth: 9.9
+  categories:
+    beaches: 9.9
+    nature: 9.9
+    photography: 9.8
+    relaxation: 9.8

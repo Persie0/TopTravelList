@@ -1,0 +1,15 @@
+id: sight-kh-artisans-angkor
+name: "Artisans Angkor Craft Center"
+location:
+  country_code: KH
+  latitude: 13.352
+  longitude: 103.845
+scores:
+  impact: 8.7
+  uniqueness: 9.2
+  significance: 9.2
+  experience: 9.3
+  depth: 9
+  categories:
+    culture: 9.5
+    architecture: 8.6

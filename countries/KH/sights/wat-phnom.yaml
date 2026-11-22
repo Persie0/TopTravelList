@@ -1,0 +1,16 @@
+id: sight-kh-wat-phnom
+name: "Wat Phnom"
+location:
+  country_code: KH
+  latitude: 11.5762
+  longitude: 104.9232
+scores:
+  impact: 9.2
+  uniqueness: 9.6
+  significance: 9.7
+  experience: 9.5
+  depth: 8.8
+  categories:
+    architecture: 9.7
+    history: 9.8
+    culture: 9.8

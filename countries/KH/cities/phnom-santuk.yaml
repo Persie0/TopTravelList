@@ -1,0 +1,15 @@
+id: city-kh-phnom-santuk
+name: "Phnom Santuk Village"
+location:
+  country_code: KH
+  latitude: 12.549
+  longitude: 105.075
+scores:
+  impact: 8.3
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 8.8
+  depth: 8.3
+  categories:
+    nature: 9.0
+    culture: 9.1

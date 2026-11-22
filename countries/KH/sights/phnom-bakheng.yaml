@@ -1,0 +1,16 @@
+id: sight-kh-phnom-bakheng
+name: "Phnom Bakheng Temple"
+location:
+  country_code: KH
+  latitude: 13.4252
+  longitude: 103.8553
+scores:
+  impact: 9.6
+  uniqueness: 9.8
+  significance: 9.9
+  experience: 9.6
+  depth: 8.8
+  categories:
+    architecture: 9.9
+    history: 9.9
+    photography: 9.9

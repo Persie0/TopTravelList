@@ -1,0 +1,16 @@
+id: sight-kh-kampot-old-town
+name: "Kampot Old Town"
+location:
+  country_code: KH
+  latitude: 10.606
+  longitude: 104.182
+scores:
+  impact: 9.1
+  uniqueness: 9.4
+  significance: 9.3
+  experience: 9.6
+  depth: 9.4
+  categories:
+    architecture: 9.5
+    history: 9.5
+    food: 9.4

@@ -1,0 +1,15 @@
+id: sight-kh-old-market-psar-chaa
+name: "Psar Chaa Old Market Siem Reap"
+location:
+  country_code: KH
+  latitude: 13.3523
+  longitude: 103.8543
+scores:
+  impact: 8.5
+  uniqueness: 8.9
+  significance: 8.9
+  experience: 9.3
+  depth: 9
+  categories:
+    food: 9.3
+    culture: 9.4

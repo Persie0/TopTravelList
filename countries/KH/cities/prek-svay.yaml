@@ -1,0 +1,15 @@
+id: city-kh-prek-svay
+name: "Prek Svay Village (Koh Rong)"
+location:
+  country_code: KH
+  latitude: 10.745
+  longitude: 103.238
+scores:
+  impact: 8.4
+  uniqueness: 9.1
+  significance: 8
+  experience: 9.2
+  depth: 8.4
+  categories:
+    nature: 9.3
+    beaches: 9.4

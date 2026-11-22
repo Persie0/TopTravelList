@@ -1,0 +1,14 @@
+id: city-kh-chbar-mon
+name: "Chbar Mon"
+location:
+  country_code: KH
+  latitude: 11.4673
+  longitude: 104.506
+scores:
+  impact: 7.7
+  uniqueness: 8.1
+  significance: 8.5
+  experience: 8.5
+  depth: 8.6
+  categories:
+    history: 8.8

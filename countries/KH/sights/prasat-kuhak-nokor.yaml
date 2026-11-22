@@ -1,0 +1,15 @@
+id: sight-kh-prasat-kuhak-nokor
+name: "Kuhak Nokor Temple"
+location:
+  country_code: KH
+  latitude: 12.672
+  longitude: 105.173
+scores:
+  impact: 9.1
+  uniqueness: 9.7
+  significance: 9.6
+  experience: 9.4
+  depth: 8.6
+  categories:
+    architecture: 9.8
+    history: 9.8

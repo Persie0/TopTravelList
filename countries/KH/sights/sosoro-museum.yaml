@@ -1,0 +1,15 @@
+id: sight-kh-sosoro-museum
+name: "Sosoro Museum of Economy and Money"
+location:
+  country_code: KH
+  latitude: 11.5705
+  longitude: 104.928
+scores:
+  impact: 8.8
+  uniqueness: 9.4
+  significance: 9.3
+  experience: 9.6
+  depth: 9.4
+  categories:
+    history: 9.5
+    culture: 9.5

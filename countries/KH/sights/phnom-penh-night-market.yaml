@@ -1,0 +1,16 @@
+id: sight-kh-phnom-penh-night-market
+name: "Phnom Penh Night Market"
+location:
+  country_code: KH
+  latitude: 11.5728
+  longitude: 104.9305
+scores:
+  impact: 8.6
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 9.5
+  depth: 9.1
+  categories:
+    food: 9.4
+    culture: 9.3
+    nightlife: 9.1

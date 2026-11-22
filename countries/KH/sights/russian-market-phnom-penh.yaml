@@ -1,0 +1,15 @@
+id: sight-kh-russian-market-phnom-penh
+name: "Russian Market (Tuol Tompoung)"
+location:
+  country_code: KH
+  latitude: 11.5372
+  longitude: 104.9163
+scores:
+  impact: 8.8
+  uniqueness: 9.1
+  significance: 8.8
+  experience: 9.5
+  depth: 9.4
+  categories:
+    food: 9.5
+    culture: 9.6

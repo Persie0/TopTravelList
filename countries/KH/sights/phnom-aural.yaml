@@ -1,0 +1,16 @@
+id: sight-kh-phnom-aural
+name: "Phnom Aural (Cambodia's Highest Mountain)"
+location:
+  country_code: KH
+  latitude: 12.053
+  longitude: 104.11
+scores:
+  impact: 9.7
+  uniqueness: 9.8
+  significance: 9.6
+  experience: 9.5
+  depth: 9.8
+  categories:
+    nature: 9.9
+    adventure: 9.9
+    photography: 9.6

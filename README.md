@@ -56,11 +56,19 @@ python scripts/rank.py --country VN --kind cities --limit 30
 python scripts/rank.py --country VN --kind sights --limit 40
 python scripts/rank.py --country VN --kind sights --category nature --limit 30
 python scripts/rank.py --country VN --kind sights --category history --limit 30
+python scripts/rank.py --country KH --kind cities --limit 25
+python scripts/rank.py --country KH --kind sights --limit 40
+python scripts/rank.py --country KH --kind sights --category history --limit 30
+python scripts/rank.py --country KH --kind sights --category nature --limit 30
 ```
 
 The registry covers **197 travel-country entries**: the 193 United Nations member states, the Holy See and Palestine (UN observer states), plus Taiwan and Kosovo as separately listed travel destinations. Kosovo uses the commonly used, user-assigned code `XK`, not an official ISO 3166-1 code. This is a geographic organization convention, not a statement on political recognition. Territories are not included.
 
 See [rules.md](rules.md) for the universal scoring rubric and [methodology/scoring.json](methodology/scoring.json) for the machine-readable weights and categories.
+
+## Current destination-access advisories
+
+Cambodia: As of **22 November 2026**, border-area attractions including the UNESCO-listed **Temple of Preah Vihear** are **reported closed** due to Cambodia–Thailand border tensions. Scores represent long-term heritage and experience potential, **not a guarantee of current access or safety**. Consult the [UK Foreign Office Cambodia travel advice](https://www.gov.uk/foreign-travel-advice/cambodia) and other current government advisories before planning travel; border-area restrictions may change.
 
 ## Country directory
 
@@ -68,21 +76,22 @@ Every registered country has a linked folder below. The status is determined fro
 
 <!-- COUNTRY_DIRECTORY_START -->
 
-**5 done · 192 not done · 197 countries total.**
+**6 done · 191 not done · 197 countries total.**
 
 **Done** means both the city and sight folders contain destination YAML records. It does not mean that every possible destination has been cataloged.
 
-### Done (5)
+### Done (6)
 
 | Country | Cities | Sights |
 | --- | ---: | ---: |
 | [Austria](countries/AT/) (`AT`) | 45 | 133 |
+| [Cambodia](countries/KH/) (`KH`) | 72 | 260 |
 | [China](countries/CN/) (`CN`) | 231 | 490 |
 | [South Korea](countries/KR/) (`KR`) | 82 | 284 |
 | [Thailand](countries/TH/) (`TH`) | 69 | 206 |
 | [Vietnam](countries/VN/) (`VN`) | 140 | 360 |
 
-### Not done (192)
+### Not done (191)
 
 These countries have no entries in one or both destination folders yet. Their country folders already exist; follow the links to populate them.
 
@@ -95,47 +104,47 @@ These countries have no entries in one or both destination folders yet. Their co
 | [Belize](countries/BZ/) (`BZ`) | [Benin](countries/BJ/) (`BJ`) | [Bhutan](countries/BT/) (`BT`) | [Bolivia](countries/BO/) (`BO`) |
 | [Bosnia and Herzegovina](countries/BA/) (`BA`) | [Botswana](countries/BW/) (`BW`) | [Brazil](countries/BR/) (`BR`) | [Brunei](countries/BN/) (`BN`) |
 | [Bulgaria](countries/BG/) (`BG`) | [Burkina Faso](countries/BF/) (`BF`) | [Burundi](countries/BI/) (`BI`) | [Cabo Verde](countries/CV/) (`CV`) |
-| [Cambodia](countries/KH/) (`KH`) | [Cameroon](countries/CM/) (`CM`) | [Canada](countries/CA/) (`CA`) | [Central African Republic](countries/CF/) (`CF`) |
-| [Chad](countries/TD/) (`TD`) | [Chile](countries/CL/) (`CL`) | [Colombia](countries/CO/) (`CO`) | [Comoros](countries/KM/) (`KM`) |
-| [Congo](countries/CG/) (`CG`) | [Costa Rica](countries/CR/) (`CR`) | [Croatia](countries/HR/) (`HR`) | [Cuba](countries/CU/) (`CU`) |
-| [Cyprus](countries/CY/) (`CY`) | [Czechia](countries/CZ/) (`CZ`) | [Côte d'Ivoire](countries/CI/) (`CI`) | [Denmark](countries/DK/) (`DK`) |
-| [Djibouti](countries/DJ/) (`DJ`) | [Dominica](countries/DM/) (`DM`) | [Dominican Republic](countries/DO/) (`DO`) | [DR Congo](countries/CD/) (`CD`) |
-| [Ecuador](countries/EC/) (`EC`) | [Egypt](countries/EG/) (`EG`) | [El Salvador](countries/SV/) (`SV`) | [Equatorial Guinea](countries/GQ/) (`GQ`) |
-| [Eritrea](countries/ER/) (`ER`) | [Estonia](countries/EE/) (`EE`) | [Eswatini](countries/SZ/) (`SZ`) | [Ethiopia](countries/ET/) (`ET`) |
-| [Fiji](countries/FJ/) (`FJ`) | [Finland](countries/FI/) (`FI`) | [France](countries/FR/) (`FR`) | [Gabon](countries/GA/) (`GA`) |
-| [Gambia](countries/GM/) (`GM`) | [Georgia](countries/GE/) (`GE`) | [Germany](countries/DE/) (`DE`) | [Ghana](countries/GH/) (`GH`) |
-| [Greece](countries/GR/) (`GR`) | [Grenada](countries/GD/) (`GD`) | [Guatemala](countries/GT/) (`GT`) | [Guinea](countries/GN/) (`GN`) |
-| [Guinea-Bissau](countries/GW/) (`GW`) | [Guyana](countries/GY/) (`GY`) | [Haiti](countries/HT/) (`HT`) | [Honduras](countries/HN/) (`HN`) |
-| [Hungary](countries/HU/) (`HU`) | [Iceland](countries/IS/) (`IS`) | [India](countries/IN/) (`IN`) | [Indonesia](countries/ID/) (`ID`) |
-| [Iran](countries/IR/) (`IR`) | [Iraq](countries/IQ/) (`IQ`) | [Ireland](countries/IE/) (`IE`) | [Israel](countries/IL/) (`IL`) |
-| [Italy](countries/IT/) (`IT`) | [Jamaica](countries/JM/) (`JM`) | [Japan](countries/JP/) (`JP`) | [Jordan](countries/JO/) (`JO`) |
-| [Kazakhstan](countries/KZ/) (`KZ`) | [Kenya](countries/KE/) (`KE`) | [Kiribati](countries/KI/) (`KI`) | [Kosovo](countries/XK/) (`XK`) |
-| [Kuwait](countries/KW/) (`KW`) | [Kyrgyzstan](countries/KG/) (`KG`) | [Laos](countries/LA/) (`LA`) | [Latvia](countries/LV/) (`LV`) |
-| [Lebanon](countries/LB/) (`LB`) | [Lesotho](countries/LS/) (`LS`) | [Liberia](countries/LR/) (`LR`) | [Libya](countries/LY/) (`LY`) |
-| [Liechtenstein](countries/LI/) (`LI`) | [Lithuania](countries/LT/) (`LT`) | [Luxembourg](countries/LU/) (`LU`) | [Madagascar](countries/MG/) (`MG`) |
-| [Malawi](countries/MW/) (`MW`) | [Malaysia](countries/MY/) (`MY`) | [Maldives](countries/MV/) (`MV`) | [Mali](countries/ML/) (`ML`) |
-| [Malta](countries/MT/) (`MT`) | [Marshall Islands](countries/MH/) (`MH`) | [Mauritania](countries/MR/) (`MR`) | [Mauritius](countries/MU/) (`MU`) |
-| [Mexico](countries/MX/) (`MX`) | [Micronesia, Federated States of](countries/FM/) (`FM`) | [Moldova](countries/MD/) (`MD`) | [Monaco](countries/MC/) (`MC`) |
-| [Mongolia](countries/MN/) (`MN`) | [Montenegro](countries/ME/) (`ME`) | [Morocco](countries/MA/) (`MA`) | [Mozambique](countries/MZ/) (`MZ`) |
-| [Myanmar](countries/MM/) (`MM`) | [Namibia](countries/NA/) (`NA`) | [Nauru](countries/NR/) (`NR`) | [Nepal](countries/NP/) (`NP`) |
-| [Netherlands](countries/NL/) (`NL`) | [New Zealand](countries/NZ/) (`NZ`) | [Nicaragua](countries/NI/) (`NI`) | [Niger](countries/NE/) (`NE`) |
-| [Nigeria](countries/NG/) (`NG`) | [North Korea](countries/KP/) (`KP`) | [North Macedonia](countries/MK/) (`MK`) | [Norway](countries/NO/) (`NO`) |
-| [Oman](countries/OM/) (`OM`) | [Pakistan](countries/PK/) (`PK`) | [Palau](countries/PW/) (`PW`) | [Palestine](countries/PS/) (`PS`) |
-| [Panama](countries/PA/) (`PA`) | [Papua New Guinea](countries/PG/) (`PG`) | [Paraguay](countries/PY/) (`PY`) | [Peru](countries/PE/) (`PE`) |
-| [Philippines](countries/PH/) (`PH`) | [Poland](countries/PL/) (`PL`) | [Portugal](countries/PT/) (`PT`) | [Qatar](countries/QA/) (`QA`) |
-| [Romania](countries/RO/) (`RO`) | [Russia](countries/RU/) (`RU`) | [Rwanda](countries/RW/) (`RW`) | [Saint Kitts and Nevis](countries/KN/) (`KN`) |
-| [Saint Lucia](countries/LC/) (`LC`) | [Saint Vincent and the Grenadines](countries/VC/) (`VC`) | [Samoa](countries/WS/) (`WS`) | [San Marino](countries/SM/) (`SM`) |
-| [Sao Tome and Principe](countries/ST/) (`ST`) | [Saudi Arabia](countries/SA/) (`SA`) | [Senegal](countries/SN/) (`SN`) | [Serbia](countries/RS/) (`RS`) |
-| [Seychelles](countries/SC/) (`SC`) | [Sierra Leone](countries/SL/) (`SL`) | [Singapore](countries/SG/) (`SG`) | [Slovakia](countries/SK/) (`SK`) |
-| [Slovenia](countries/SI/) (`SI`) | [Solomon Islands](countries/SB/) (`SB`) | [Somalia](countries/SO/) (`SO`) | [South Africa](countries/ZA/) (`ZA`) |
-| [South Sudan](countries/SS/) (`SS`) | [Spain](countries/ES/) (`ES`) | [Sri Lanka](countries/LK/) (`LK`) | [Sudan](countries/SD/) (`SD`) |
-| [Suriname](countries/SR/) (`SR`) | [Sweden](countries/SE/) (`SE`) | [Switzerland](countries/CH/) (`CH`) | [Syria](countries/SY/) (`SY`) |
-| [Taiwan](countries/TW/) (`TW`) | [Tajikistan](countries/TJ/) (`TJ`) | [Tanzania](countries/TZ/) (`TZ`) | [Timor-Leste](countries/TL/) (`TL`) |
-| [Togo](countries/TG/) (`TG`) | [Tonga](countries/TO/) (`TO`) | [Trinidad and Tobago](countries/TT/) (`TT`) | [Tunisia](countries/TN/) (`TN`) |
-| [Turkmenistan](countries/TM/) (`TM`) | [Tuvalu](countries/TV/) (`TV`) | [Türkiye](countries/TR/) (`TR`) | [Uganda](countries/UG/) (`UG`) |
-| [Ukraine](countries/UA/) (`UA`) | [United Arab Emirates](countries/AE/) (`AE`) | [United Kingdom](countries/GB/) (`GB`) | [United States](countries/US/) (`US`) |
-| [Uruguay](countries/UY/) (`UY`) | [Uzbekistan](countries/UZ/) (`UZ`) | [Vanuatu](countries/VU/) (`VU`) | [Vatican City](countries/VA/) (`VA`) |
-| [Venezuela](countries/VE/) (`VE`) | [Yemen](countries/YE/) (`YE`) | [Zambia](countries/ZM/) (`ZM`) | [Zimbabwe](countries/ZW/) (`ZW`) |
+| [Cameroon](countries/CM/) (`CM`) | [Canada](countries/CA/) (`CA`) | [Central African Republic](countries/CF/) (`CF`) | [Chad](countries/TD/) (`TD`) |
+| [Chile](countries/CL/) (`CL`) | [Colombia](countries/CO/) (`CO`) | [Comoros](countries/KM/) (`KM`) | [Congo](countries/CG/) (`CG`) |
+| [Costa Rica](countries/CR/) (`CR`) | [Croatia](countries/HR/) (`HR`) | [Cuba](countries/CU/) (`CU`) | [Cyprus](countries/CY/) (`CY`) |
+| [Czechia](countries/CZ/) (`CZ`) | [Côte d'Ivoire](countries/CI/) (`CI`) | [Denmark](countries/DK/) (`DK`) | [Djibouti](countries/DJ/) (`DJ`) |
+| [Dominica](countries/DM/) (`DM`) | [Dominican Republic](countries/DO/) (`DO`) | [DR Congo](countries/CD/) (`CD`) | [Ecuador](countries/EC/) (`EC`) |
+| [Egypt](countries/EG/) (`EG`) | [El Salvador](countries/SV/) (`SV`) | [Equatorial Guinea](countries/GQ/) (`GQ`) | [Eritrea](countries/ER/) (`ER`) |
+| [Estonia](countries/EE/) (`EE`) | [Eswatini](countries/SZ/) (`SZ`) | [Ethiopia](countries/ET/) (`ET`) | [Fiji](countries/FJ/) (`FJ`) |
+| [Finland](countries/FI/) (`FI`) | [France](countries/FR/) (`FR`) | [Gabon](countries/GA/) (`GA`) | [Gambia](countries/GM/) (`GM`) |
+| [Georgia](countries/GE/) (`GE`) | [Germany](countries/DE/) (`DE`) | [Ghana](countries/GH/) (`GH`) | [Greece](countries/GR/) (`GR`) |
+| [Grenada](countries/GD/) (`GD`) | [Guatemala](countries/GT/) (`GT`) | [Guinea](countries/GN/) (`GN`) | [Guinea-Bissau](countries/GW/) (`GW`) |
+| [Guyana](countries/GY/) (`GY`) | [Haiti](countries/HT/) (`HT`) | [Honduras](countries/HN/) (`HN`) | [Hungary](countries/HU/) (`HU`) |
+| [Iceland](countries/IS/) (`IS`) | [India](countries/IN/) (`IN`) | [Indonesia](countries/ID/) (`ID`) | [Iran](countries/IR/) (`IR`) |
+| [Iraq](countries/IQ/) (`IQ`) | [Ireland](countries/IE/) (`IE`) | [Israel](countries/IL/) (`IL`) | [Italy](countries/IT/) (`IT`) |
+| [Jamaica](countries/JM/) (`JM`) | [Japan](countries/JP/) (`JP`) | [Jordan](countries/JO/) (`JO`) | [Kazakhstan](countries/KZ/) (`KZ`) |
+| [Kenya](countries/KE/) (`KE`) | [Kiribati](countries/KI/) (`KI`) | [Kosovo](countries/XK/) (`XK`) | [Kuwait](countries/KW/) (`KW`) |
+| [Kyrgyzstan](countries/KG/) (`KG`) | [Laos](countries/LA/) (`LA`) | [Latvia](countries/LV/) (`LV`) | [Lebanon](countries/LB/) (`LB`) |
+| [Lesotho](countries/LS/) (`LS`) | [Liberia](countries/LR/) (`LR`) | [Libya](countries/LY/) (`LY`) | [Liechtenstein](countries/LI/) (`LI`) |
+| [Lithuania](countries/LT/) (`LT`) | [Luxembourg](countries/LU/) (`LU`) | [Madagascar](countries/MG/) (`MG`) | [Malawi](countries/MW/) (`MW`) |
+| [Malaysia](countries/MY/) (`MY`) | [Maldives](countries/MV/) (`MV`) | [Mali](countries/ML/) (`ML`) | [Malta](countries/MT/) (`MT`) |
+| [Marshall Islands](countries/MH/) (`MH`) | [Mauritania](countries/MR/) (`MR`) | [Mauritius](countries/MU/) (`MU`) | [Mexico](countries/MX/) (`MX`) |
+| [Micronesia, Federated States of](countries/FM/) (`FM`) | [Moldova](countries/MD/) (`MD`) | [Monaco](countries/MC/) (`MC`) | [Mongolia](countries/MN/) (`MN`) |
+| [Montenegro](countries/ME/) (`ME`) | [Morocco](countries/MA/) (`MA`) | [Mozambique](countries/MZ/) (`MZ`) | [Myanmar](countries/MM/) (`MM`) |
+| [Namibia](countries/NA/) (`NA`) | [Nauru](countries/NR/) (`NR`) | [Nepal](countries/NP/) (`NP`) | [Netherlands](countries/NL/) (`NL`) |
+| [New Zealand](countries/NZ/) (`NZ`) | [Nicaragua](countries/NI/) (`NI`) | [Niger](countries/NE/) (`NE`) | [Nigeria](countries/NG/) (`NG`) |
+| [North Korea](countries/KP/) (`KP`) | [North Macedonia](countries/MK/) (`MK`) | [Norway](countries/NO/) (`NO`) | [Oman](countries/OM/) (`OM`) |
+| [Pakistan](countries/PK/) (`PK`) | [Palau](countries/PW/) (`PW`) | [Palestine](countries/PS/) (`PS`) | [Panama](countries/PA/) (`PA`) |
+| [Papua New Guinea](countries/PG/) (`PG`) | [Paraguay](countries/PY/) (`PY`) | [Peru](countries/PE/) (`PE`) | [Philippines](countries/PH/) (`PH`) |
+| [Poland](countries/PL/) (`PL`) | [Portugal](countries/PT/) (`PT`) | [Qatar](countries/QA/) (`QA`) | [Romania](countries/RO/) (`RO`) |
+| [Russia](countries/RU/) (`RU`) | [Rwanda](countries/RW/) (`RW`) | [Saint Kitts and Nevis](countries/KN/) (`KN`) | [Saint Lucia](countries/LC/) (`LC`) |
+| [Saint Vincent and the Grenadines](countries/VC/) (`VC`) | [Samoa](countries/WS/) (`WS`) | [San Marino](countries/SM/) (`SM`) | [Sao Tome and Principe](countries/ST/) (`ST`) |
+| [Saudi Arabia](countries/SA/) (`SA`) | [Senegal](countries/SN/) (`SN`) | [Serbia](countries/RS/) (`RS`) | [Seychelles](countries/SC/) (`SC`) |
+| [Sierra Leone](countries/SL/) (`SL`) | [Singapore](countries/SG/) (`SG`) | [Slovakia](countries/SK/) (`SK`) | [Slovenia](countries/SI/) (`SI`) |
+| [Solomon Islands](countries/SB/) (`SB`) | [Somalia](countries/SO/) (`SO`) | [South Africa](countries/ZA/) (`ZA`) | [South Sudan](countries/SS/) (`SS`) |
+| [Spain](countries/ES/) (`ES`) | [Sri Lanka](countries/LK/) (`LK`) | [Sudan](countries/SD/) (`SD`) | [Suriname](countries/SR/) (`SR`) |
+| [Sweden](countries/SE/) (`SE`) | [Switzerland](countries/CH/) (`CH`) | [Syria](countries/SY/) (`SY`) | [Taiwan](countries/TW/) (`TW`) |
+| [Tajikistan](countries/TJ/) (`TJ`) | [Tanzania](countries/TZ/) (`TZ`) | [Timor-Leste](countries/TL/) (`TL`) | [Togo](countries/TG/) (`TG`) |
+| [Tonga](countries/TO/) (`TO`) | [Trinidad and Tobago](countries/TT/) (`TT`) | [Tunisia](countries/TN/) (`TN`) | [Turkmenistan](countries/TM/) (`TM`) |
+| [Tuvalu](countries/TV/) (`TV`) | [Türkiye](countries/TR/) (`TR`) | [Uganda](countries/UG/) (`UG`) | [Ukraine](countries/UA/) (`UA`) |
+| [United Arab Emirates](countries/AE/) (`AE`) | [United Kingdom](countries/GB/) (`GB`) | [United States](countries/US/) (`US`) | [Uruguay](countries/UY/) (`UY`) |
+| [Uzbekistan](countries/UZ/) (`UZ`) | [Vanuatu](countries/VU/) (`VU`) | [Vatican City](countries/VA/) (`VA`) | [Venezuela](countries/VE/) (`VE`) |
+| [Yemen](countries/YE/) (`YE`) | [Zambia](countries/ZM/) (`ZM`) | [Zimbabwe](countries/ZW/) (`ZW`) |  |
 
 <!-- COUNTRY_DIRECTORY_END -->
 
@@ -160,7 +169,7 @@ Use `scripts/rank.py` for ad-hoc sorted comparisons across countries and categor
 
 ## Absolute worldwide calibration (v2)
 
-The 1,540 legacy destinations (Austria, Thailand, South Korea and China) were conservatively recalibrated to worldwide v2; Vietnam's 500 destinations were rated directly using v2. All populated destinations follow the same globally calibrated 0–10 rubric. Local or national excellence is not sufficient for a 10: only the globally defining examples for that exact scoring dimension can attain 10. Each such approval is listed in `methodology/scoring.json` under `global_ten_anchors`; `scripts/validate.py` enforces it.
+The 1,540 legacy destinations (Austria, Thailand, South Korea and China) were conservatively recalibrated to worldwide v2; Vietnam's 500 and Cambodia's 332 destinations were rated directly using v2. All populated destinations follow the same globally calibrated 0–10 rubric. Local or national excellence is not sufficient for a 10: only the globally defining examples for that exact scoring dimension can attain 10. Each such approval is listed in `methodology/scoring.json` under `global_ten_anchors`; `scripts/validate.py` enforces it.
 
 **For new countries:** score directly against the worldwide comparators in [rules.md](rules.md). The legacy `scripts/calibrate_worldwide.py` is a one-time v1→v2 migration, *not* a script for converting newly authored ratings. A global 10 requires reviewing worldwide peers and explicitly adding the destination ID to the approved benchmark list. Smaller countries can still earn 10 where they genuinely represent the world's best in a given category. Do not rescale scores separately by country.
 

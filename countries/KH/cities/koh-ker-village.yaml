@@ -1,0 +1,16 @@
+id: city-kh-koh-ker-village
+name: "Koh Ker Village"
+location:
+  country_code: KH
+  latitude: 13.783
+  longitude: 104.542
+scores:
+  impact: 8.8
+  uniqueness: 9.5
+  significance: 9.5
+  experience: 9
+  depth: 8.2
+  categories:
+    history: 9.9
+    architecture: 9.7
+    photography: 9.4

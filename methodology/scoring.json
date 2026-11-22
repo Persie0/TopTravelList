@@ -27,19 +27,26 @@
   ],
   "global_ten_anchors": {
     "impact": [
-      "sight-cn-great-wall-jinshanling"
+      "sight-cn-great-wall-jinshanling",
+      "sight-kh-angkor-archaeological-park",
+      "sight-kh-angkor-wat"
     ],
     "uniqueness": [
       "sight-cn-great-wall-jinshanling",
-      "sight-cn-terracotta-army"
+      "sight-cn-terracotta-army",
+      "sight-kh-angkor-archaeological-park",
+      "sight-kh-angkor-wat"
     ],
     "significance": [
       "sight-cn-forbidden-city",
       "sight-cn-great-wall-jinshanling",
-      "sight-cn-terracotta-army"
+      "sight-cn-terracotta-army",
+      "sight-kh-angkor-archaeological-park",
+      "sight-kh-angkor-wat"
     ],
     "depth": [
-      "city-cn-beijing"
+      "city-cn-beijing",
+      "sight-kh-angkor-archaeological-park"
     ],
     "nature": [
       "sight-cn-jiuzhaigou-valley",
@@ -47,12 +54,16 @@
     ],
     "architecture": [
       "sight-cn-forbidden-city",
-      "sight-cn-great-wall-jinshanling"
+      "sight-cn-great-wall-jinshanling",
+      "sight-kh-angkor-archaeological-park",
+      "sight-kh-angkor-wat"
     ],
     "history": [
       "sight-cn-forbidden-city",
       "sight-cn-great-wall-jinshanling",
-      "sight-cn-terracotta-army"
+      "sight-cn-terracotta-army",
+      "sight-kh-angkor-archaeological-park",
+      "sight-kh-angkor-wat"
     ],
     "culture": [
       "sight-cn-forbidden-city"

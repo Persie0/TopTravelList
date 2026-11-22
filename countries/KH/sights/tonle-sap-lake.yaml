@@ -1,0 +1,17 @@
+id: sight-kh-tonle-sap-lake
+name: "Tonle Sap Lake"
+location:
+  country_code: KH
+  latitude: 12.882
+  longitude: 104.024
+scores:
+  impact: 9.6
+  uniqueness: 9.8
+  significance: 9.8
+  experience: 9.6
+  depth: 9.9
+  categories:
+    nature: 9.9
+    wildlife: 9.9
+    culture: 9.7
+    photography: 9.6

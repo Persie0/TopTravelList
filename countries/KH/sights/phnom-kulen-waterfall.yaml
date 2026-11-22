@@ -1,0 +1,15 @@
+id: sight-kh-phnom-kulen-waterfall
+name: "Phnom Kulen Waterfall"
+location:
+  country_code: KH
+  latitude: 13.582
+  longitude: 104.0935
+scores:
+  impact: 9.4
+  uniqueness: 9.7
+  significance: 9.3
+  experience: 9.7
+  depth: 8.6
+  categories:
+    nature: 9.8
+    photography: 9.7
