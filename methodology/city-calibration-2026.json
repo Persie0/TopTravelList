@@ -1,0 +1,17 @@
+{
+  "review_date": "2026-11-22",
+  "scoring_version": 2,
+  "cities_reviewed": 639,
+  "manually_compared_benchmarks": 104,
+  "original_counts": {
+    "AT": 45,
+    "TH": 69,
+    "KR": 82,
+    "CN": 231,
+    "VN": 140,
+    "KH": 72
+  },
+  "type": "irreversible historic one-time calibration; do not run for future data",
+  "guide": "methodology/city-scoring-guide.md",
+  "audit": "methodology/city-calibration-audit.md"
+}

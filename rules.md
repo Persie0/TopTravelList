@@ -10,6 +10,27 @@ This document defines the **same quality-scoring system for every country, city 
 - Compare cities with cities and sights with sights by default. Mixed comparisons are possible but should be explicitly labeled, because a city and a single attraction are different units of experience.
 - A sight can exist within a city and be scored individually. This does not prevent the city itself from being scored for the overall city experience.
 
+## Additional mandatory instructions for city rankings
+
+The universal core dimensions below apply to both cities and individual sights,
+but a city must be rated for the **city itself**, not given the score of a
+nearby world-famous temple, island, mountain, park, waterfall or excursion.
+Use the detailed [city scoring guide](methodology/city-scoring-guide.md),
+[cross-country benchmark ladder](methodology/city-comparison-benchmarks.md),
+and [frozen city reference profiles](methodology/city-benchmark-profiles.txt)
+before adding cities in any future country.
+
+In November 2026, the 639 populated city records across AT, TH, KR, CN, VN,
+and KH were jointly reviewed to correct mixed historical scoring standards;
+104 named destinations received individually reviewed benchmark profiles.
+The [complete audit](methodology/city-calibration-audit.md) records all changes.
+This historic one-time migration does **not** modify the universal v2 weight
+system or any individual sight, and does **not** establish a geography-based
+future scoring multiplier. Future countries must be rated directly using
+cross-country comparisons. After editing, run both
+`python scripts/validate.py` and
+`python scripts/check_city_benchmarks.py` and regenerate the Markdown rankings.
+
 ## Core dimensions and weights
 
 | Dimension | Weight | Question |

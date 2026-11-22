@@ -6,14 +6,14 @@ location:
   longitude: 98.9853
 scores:
   impact: 8.9
-  uniqueness: 8.8
-  significance: 8.9
-  experience: 9.2
-  depth: 9.2
+  uniqueness: 9.0
+  significance: 8.8
+  experience: 9.1
+  depth: 9.0
   categories:
-    architecture: 8.1
-    history: 8.3
+    architecture: 8.0
+    history: 8.2
     culture: 9.3
-    food: 8.5
-    nature: 7.9
-    adventure: 8.0
+    food: 9.2
+    nature: 7.8
+    adventure: 7.9

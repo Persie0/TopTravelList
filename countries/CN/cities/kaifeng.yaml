@@ -5,12 +5,12 @@ location:
   latitude: 34.7973
   longitude: 114.3076
 scores:
-  impact: 8.1
-  uniqueness: 8.4
-  significance: 8.9
-  experience: 8.3
-  depth: 8.3
+  impact: 8.0
+  uniqueness: 8.3
+  significance: 8.8
+  experience: 8.2
+  depth: 8.2
   categories:
-    history: 9.0
-    architecture: 8.6
-    culture: 8.5
+    history: 8.9
+    architecture: 8.5
+    culture: 8.4
