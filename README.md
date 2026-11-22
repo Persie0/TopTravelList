@@ -68,11 +68,11 @@ Every registered country has a linked folder below. The status is determined fro
 
 <!-- COUNTRY_DIRECTORY_START -->
 
-**4 done · 193 not done · 197 countries total.**
+**5 done · 192 not done · 197 countries total.**
 
 **Done** means both the city and sight folders contain destination YAML records. It does not mean that every possible destination has been cataloged.
 
-### Done (4)
+### Done (5)
 
 | Country | Cities | Sights |
 | --- | ---: | ---: |
@@ -80,8 +80,9 @@ Every registered country has a linked folder below. The status is determined fro
 | [China](countries/CN/) (`CN`) | 231 | 490 |
 | [South Korea](countries/KR/) (`KR`) | 82 | 284 |
 | [Thailand](countries/TH/) (`TH`) | 69 | 206 |
+| [Vietnam](countries/VN/) (`VN`) | 140 | 360 |
 
-### Not done (193)
+### Not done (192)
 
 These countries have no entries in one or both destination folders yet. Their country folders already exist; follow the links to populate them.
 
@@ -134,8 +135,7 @@ These countries have no entries in one or both destination folders yet. Their co
 | [Turkmenistan](countries/TM/) (`TM`) | [Tuvalu](countries/TV/) (`TV`) | [Türkiye](countries/TR/) (`TR`) | [Uganda](countries/UG/) (`UG`) |
 | [Ukraine](countries/UA/) (`UA`) | [United Arab Emirates](countries/AE/) (`AE`) | [United Kingdom](countries/GB/) (`GB`) | [United States](countries/US/) (`US`) |
 | [Uruguay](countries/UY/) (`UY`) | [Uzbekistan](countries/UZ/) (`UZ`) | [Vanuatu](countries/VU/) (`VU`) | [Vatican City](countries/VA/) (`VA`) |
-| [Venezuela](countries/VE/) (`VE`) | [Vietnam](countries/VN/) (`VN`) | [Yemen](countries/YE/) (`YE`) | [Zambia](countries/ZM/) (`ZM`) |
-| [Zimbabwe](countries/ZW/) (`ZW`) |  |  |  |
+| [Venezuela](countries/VE/) (`VE`) | [Yemen](countries/YE/) (`YE`) | [Zambia](countries/ZM/) (`ZM`) | [Zimbabwe](countries/ZW/) (`ZW`) |
 
 <!-- COUNTRY_DIRECTORY_END -->
 
