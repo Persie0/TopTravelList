@@ -1,0 +1,16 @@
+id: sight-kr-daecheongbong-peak
+name: "Daecheongbong Peak"
+location:
+  country_code: KR
+  latitude: 38.119
+  longitude: 128.466
+scores:
+  impact: 9.6
+  uniqueness: 9.7
+  significance: 8.4
+  experience: 9.7
+  depth: 9.2
+  categories:
+    nature: 10
+    adventure: 10
+    photography: 9.8

@@ -1,0 +1,15 @@
+id: city-kr-goyang
+name: "Goyang"
+location:
+  country_code: KR
+  latitude: 37.6584
+  longitude: 126.832
+scores:
+  impact: 7.3
+  uniqueness: 7.4
+  significance: 7
+  experience: 8
+  depth: 8.1
+  categories:
+    culture: 8.2
+    family: 8.5

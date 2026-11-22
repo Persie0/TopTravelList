@@ -1,0 +1,16 @@
+id: sight-kr-ullimsanbang-house
+name: "Ullimsanbang House"
+location:
+  country_code: KR
+  latitude: 34.435
+  longitude: 126.306
+scores:
+  impact: 8.4
+  uniqueness: 9.1
+  significance: 9
+  experience: 8.9
+  depth: 8.1
+  categories:
+    history: 9.3
+    culture: 9.1
+    architecture: 9

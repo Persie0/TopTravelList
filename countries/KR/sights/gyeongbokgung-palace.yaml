@@ -1,0 +1,17 @@
+id: sight-kr-gyeongbokgung-palace
+name: "Gyeongbokgung Palace"
+location:
+  country_code: KR
+  latitude: 37.5796
+  longitude: 126.977
+scores:
+  impact: 9.6
+  uniqueness: 9.5
+  significance: 9.9
+  experience: 9.6
+  depth: 9.4
+  categories:
+    architecture: 9.9
+    history: 10
+    culture: 10
+    photography: 9.7

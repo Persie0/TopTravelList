@@ -1,0 +1,16 @@
+id: sight-kr-cheongnamdae-presidential-villa
+name: "Cheongnamdae Presidential Villa"
+location:
+  country_code: KR
+  latitude: 36.463
+  longitude: 127.489
+scores:
+  impact: 8.6
+  uniqueness: 9
+  significance: 9.1
+  experience: 9
+  depth: 9.3
+  categories:
+    history: 9.4
+    architecture: 8.8
+    relaxation: 9.1

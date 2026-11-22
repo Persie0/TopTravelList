@@ -1,0 +1,17 @@
+id: sight-kr-baegyangsa-temple
+name: "Baegyangsa Temple"
+location:
+  country_code: KR
+  latitude: 35.448
+  longitude: 126.885
+scores:
+  impact: 9
+  uniqueness: 9.4
+  significance: 9.3
+  experience: 9.5
+  depth: 9
+  categories:
+    history: 9.5
+    architecture: 9.4
+    nature: 9.5
+    photography: 9.9

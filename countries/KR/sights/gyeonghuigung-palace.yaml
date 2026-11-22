@@ -1,0 +1,15 @@
+id: sight-kr-gyeonghuigung-palace
+name: "Gyeonghuigung Palace"
+location:
+  country_code: KR
+  latitude: 37.5729
+  longitude: 126.9683
+scores:
+  impact: 8.2
+  uniqueness: 8.5
+  significance: 8.9
+  experience: 8.6
+  depth: 7.9
+  categories:
+    architecture: 8.6
+    history: 9

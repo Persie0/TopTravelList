@@ -1,0 +1,16 @@
+id: city-kr-boseong
+name: "Boseong"
+location:
+  country_code: KR
+  latitude: 34.7715
+  longitude: 127.0799
+scores:
+  impact: 8.5
+  uniqueness: 9.1
+  significance: 8.5
+  experience: 9.1
+  depth: 8.5
+  categories:
+    nature: 9.6
+    photography: 9.8
+    relaxation: 9.3

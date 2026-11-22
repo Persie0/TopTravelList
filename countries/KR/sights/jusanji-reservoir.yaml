@@ -1,0 +1,16 @@
+id: sight-kr-jusanji-reservoir
+name: "Jusanji Reservoir"
+location:
+  country_code: KR
+  latitude: 36.377
+  longitude: 129.089
+scores:
+  impact: 9.2
+  uniqueness: 9.6
+  significance: 8.6
+  experience: 9.4
+  depth: 8.3
+  categories:
+    nature: 9.8
+    photography: 10
+    relaxation: 9.3

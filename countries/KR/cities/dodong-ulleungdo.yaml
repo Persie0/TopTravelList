@@ -1,0 +1,16 @@
+id: city-kr-dodong-ulleungdo
+name: "Dodong (Ulleungdo)"
+location:
+  country_code: KR
+  latitude: 37.486
+  longitude: 130.9
+scores:
+  impact: 8.8
+  uniqueness: 9.1
+  significance: 8
+  experience: 9.1
+  depth: 8.4
+  categories:
+    nature: 9.7
+    photography: 9.6
+    adventure: 9

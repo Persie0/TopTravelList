@@ -1,0 +1,17 @@
+id: sight-kr-gwangalli-beach
+name: "Gwangalli Beach"
+location:
+  country_code: KR
+  latitude: 35.1532
+  longitude: 129.1187
+scores:
+  impact: 9.1
+  uniqueness: 9.3
+  significance: 8.1
+  experience: 9.6
+  depth: 9.6
+  categories:
+    beaches: 9.1
+    nightlife: 9.7
+    photography: 10
+    food: 9.3

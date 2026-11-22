@@ -1,0 +1,17 @@
+id: sight-kr-incheon-chinatown
+name: "Incheon Chinatown"
+location:
+  country_code: KR
+  latitude: 37.4739
+  longitude: 126.6197
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 8.8
+  experience: 9.1
+  depth: 8.9
+  categories:
+    history: 9.1
+    culture: 9.3
+    food: 9.2
+    photography: 9

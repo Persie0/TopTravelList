@@ -1,0 +1,15 @@
+id: sight-kr-jeju-national-museum
+name: "Jeju National Museum"
+location:
+  country_code: KR
+  latitude: 33.5187
+  longitude: 126.5498
+scores:
+  impact: 8.7
+  uniqueness: 9
+  significance: 9.5
+  experience: 9.1
+  depth: 9
+  categories:
+    history: 9.8
+    culture: 9.6

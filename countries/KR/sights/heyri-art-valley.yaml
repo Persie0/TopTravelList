@@ -1,0 +1,16 @@
+id: sight-kr-heyri-art-valley
+name: "Heyri Art Valley"
+location:
+  country_code: KR
+  latitude: 37.7877
+  longitude: 126.696
+scores:
+  impact: 8.4
+  uniqueness: 9
+  significance: 8.2
+  experience: 9.2
+  depth: 9.2
+  categories:
+    culture: 9.5
+    architecture: 9
+    photography: 9.1

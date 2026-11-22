@@ -1,0 +1,17 @@
+id: sight-kr-mungyeong-saejae-provincial-park
+name: "Mungyeong Saejae Provincial Park"
+location:
+  country_code: KR
+  latitude: 36.758
+  longitude: 128.076
+scores:
+  impact: 9.1
+  uniqueness: 9.3
+  significance: 9.2
+  experience: 9.4
+  depth: 9.5
+  categories:
+    nature: 9.4
+    history: 9.6
+    adventure: 9.1
+    photography: 9.6

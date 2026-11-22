@@ -1,0 +1,16 @@
+id: sight-kr-bangudae-petroglyphs
+name: "Bangudae Petroglyphs"
+location:
+  country_code: KR
+  latitude: 35.6065
+  longitude: 129.181
+scores:
+  impact: 9.5
+  uniqueness: 10
+  significance: 10
+  experience: 9.2
+  depth: 8.8
+  categories:
+    history: 10
+    culture: 10
+    photography: 9.3

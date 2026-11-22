@@ -1,0 +1,16 @@
+id: sight-kr-oeam-folk-village
+name: "Oeam Folk Village"
+location:
+  country_code: KR
+  latitude: 36.7304
+  longitude: 127.0306
+scores:
+  impact: 8.7
+  uniqueness: 9.1
+  significance: 9.5
+  experience: 9.3
+  depth: 9
+  categories:
+    history: 9.6
+    culture: 9.6
+    architecture: 9.2

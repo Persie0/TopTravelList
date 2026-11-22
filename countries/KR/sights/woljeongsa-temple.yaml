@@ -1,0 +1,17 @@
+id: sight-kr-woljeongsa-temple
+name: "Woljeongsa Temple"
+location:
+  country_code: KR
+  latitude: 37.73
+  longitude: 128.592
+scores:
+  impact: 9.2
+  uniqueness: 9.5
+  significance: 9.7
+  experience: 9.6
+  depth: 9.4
+  categories:
+    history: 9.9
+    architecture: 9.5
+    culture: 9.5
+    relaxation: 9.5

@@ -1,0 +1,16 @@
+id: sight-kr-sungnyemun-gate
+name: "Sungnyemun (Namdaemun Gate)"
+location:
+  country_code: KR
+  latitude: 37.5599
+  longitude: 126.9753
+scores:
+  impact: 8.9
+  uniqueness: 9.3
+  significance: 9.9
+  experience: 8.7
+  depth: 7.4
+  categories:
+    architecture: 9.6
+    history: 10
+    photography: 8.9

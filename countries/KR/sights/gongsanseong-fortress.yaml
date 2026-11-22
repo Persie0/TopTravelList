@@ -1,0 +1,16 @@
+id: sight-kr-gongsanseong-fortress
+name: "Gongsanseong Fortress"
+location:
+  country_code: KR
+  latitude: 36.4633
+  longitude: 127.1223
+scores:
+  impact: 9.3
+  uniqueness: 9.6
+  significance: 9.9
+  experience: 9.6
+  depth: 9
+  categories:
+    history: 10
+    architecture: 9.6
+    photography: 9.7

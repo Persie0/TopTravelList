@@ -1,0 +1,17 @@
+id: sight-kr-seoraksan-national-park
+name: "Seoraksan National Park"
+location:
+  country_code: KR
+  latitude: 38.145
+  longitude: 128.46
+scores:
+  impact: 9.8
+  uniqueness: 9.8
+  significance: 9.2
+  experience: 9.8
+  depth: 9.9
+  categories:
+    nature: 10
+    adventure: 10
+    photography: 10
+    wildlife: 9.3

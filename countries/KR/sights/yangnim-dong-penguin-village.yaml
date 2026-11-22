@@ -1,0 +1,16 @@
+id: sight-kr-yangnim-dong-penguin-village
+name: "Yangnim-dong Penguin Village"
+location:
+  country_code: KR
+  latitude: 35.134
+  longitude: 126.909
+scores:
+  impact: 8.2
+  uniqueness: 8.8
+  significance: 8.4
+  experience: 9
+  depth: 8.5
+  categories:
+    culture: 9.1
+    history: 8.7
+    photography: 9

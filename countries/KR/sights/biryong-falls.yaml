@@ -1,0 +1,16 @@
+id: sight-kr-biryong-falls
+name: "Biryong Falls"
+location:
+  country_code: KR
+  latitude: 38.1669
+  longitude: 128.492
+scores:
+  impact: 8.7
+  uniqueness: 8.5
+  significance: 7.3
+  experience: 9
+  depth: 8.1
+  categories:
+    nature: 9.4
+    photography: 9
+    adventure: 8.8

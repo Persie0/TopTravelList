@@ -1,0 +1,15 @@
+id: sight-kr-dora-observatory
+name: "Dora Observatory"
+location:
+  country_code: KR
+  latitude: 37.9164
+  longitude: 126.7
+scores:
+  impact: 9
+  uniqueness: 9.8
+  significance: 9.8
+  experience: 9.2
+  depth: 8.4
+  categories:
+    history: 10
+    photography: 9

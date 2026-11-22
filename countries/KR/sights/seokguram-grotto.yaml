@@ -1,0 +1,16 @@
+id: sight-kr-seokguram-grotto
+name: "Seokguram Grotto"
+location:
+  country_code: KR
+  latitude: 35.7949
+  longitude: 129.349
+scores:
+  impact: 9.7
+  uniqueness: 10
+  significance: 10
+  experience: 9.6
+  depth: 8.6
+  categories:
+    history: 10
+    architecture: 10
+    culture: 10

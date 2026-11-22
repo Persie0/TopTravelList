@@ -1,0 +1,16 @@
+id: city-kr-yongin
+name: "Yongin"
+location:
+  country_code: KR
+  latitude: 37.2411
+  longitude: 127.1776
+scores:
+  impact: 7.9
+  uniqueness: 8.1
+  significance: 7.9
+  experience: 8.6
+  depth: 8.8
+  categories:
+    family: 9.3
+    culture: 8.7
+    history: 8.1

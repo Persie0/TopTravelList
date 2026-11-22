@@ -1,0 +1,16 @@
+id: sight-kr-wanggung-ri-archaeological-site
+name: "Wanggung-ri Archaeological Site"
+location:
+  country_code: KR
+  latitude: 35.9682
+  longitude: 127.0747
+scores:
+  impact: 9.1
+  uniqueness: 9.8
+  significance: 9.9
+  experience: 9.2
+  depth: 8.9
+  categories:
+    history: 10
+    architecture: 9.5
+    culture: 9.2

@@ -1,0 +1,16 @@
+id: sight-kr-cheomseongdae-observatory
+name: "Cheomseongdae Observatory"
+location:
+  country_code: KR
+  latitude: 35.8347
+  longitude: 129.2187
+scores:
+  impact: 9.1
+  uniqueness: 9.9
+  significance: 10
+  experience: 9.1
+  depth: 8
+  categories:
+    history: 10
+    architecture: 9.7
+    photography: 9.5

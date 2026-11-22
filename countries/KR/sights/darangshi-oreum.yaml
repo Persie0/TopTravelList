@@ -1,0 +1,16 @@
+id: sight-kr-darangshi-oreum
+name: "Darangshi Oreum"
+location:
+  country_code: KR
+  latitude: 33.4783
+  longitude: 126.8218
+scores:
+  impact: 9.2
+  uniqueness: 9.5
+  significance: 8.4
+  experience: 9.6
+  depth: 9.2
+  categories:
+    nature: 9.9
+    photography: 10
+    adventure: 9.3

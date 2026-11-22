@@ -1,0 +1,17 @@
+id: sight-kr-suwon-hwaseong-fortress
+name: "Suwon Hwaseong Fortress"
+location:
+  country_code: KR
+  latitude: 37.2856
+  longitude: 127.0097
+scores:
+  impact: 9.6
+  uniqueness: 9.8
+  significance: 10
+  experience: 9.6
+  depth: 9.5
+  categories:
+    architecture: 10
+    history: 10
+    culture: 9.6
+    photography: 9.8

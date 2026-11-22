@@ -1,0 +1,16 @@
+id: sight-kr-odongdo-island
+name: "Odongdo Island"
+location:
+  country_code: KR
+  latitude: 34.7446
+  longitude: 127.7682
+scores:
+  impact: 9.1
+  uniqueness: 9.1
+  significance: 8
+  experience: 9.5
+  depth: 9.3
+  categories:
+    nature: 9.5
+    photography: 9.8
+    relaxation: 9.4

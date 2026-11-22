@@ -1,0 +1,16 @@
+id: sight-kr-sobaeksan-national-park
+name: "Sobaeksan National Park"
+location:
+  country_code: KR
+  latitude: 36.943
+  longitude: 128.46
+scores:
+  impact: 9.1
+  uniqueness: 9.3
+  significance: 8.8
+  experience: 9.5
+  depth: 9.6
+  categories:
+    nature: 9.8
+    adventure: 9.4
+    wildlife: 9.3

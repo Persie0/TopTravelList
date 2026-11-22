@@ -1,0 +1,16 @@
+id: sight-kr-cheonjiyeon-waterfall
+name: "Cheonjiyeon Waterfall"
+location:
+  country_code: KR
+  latitude: 33.246
+  longitude: 126.554
+scores:
+  impact: 9.1
+  uniqueness: 9.3
+  significance: 8
+  experience: 9.5
+  depth: 8.8
+  categories:
+    nature: 9.7
+    photography: 9.7
+    relaxation: 9

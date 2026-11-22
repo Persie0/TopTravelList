@@ -1,0 +1,16 @@
+id: sight-kr-daegwallyeong-sheep-farm
+name: "Daegwallyeong Sheep Farm"
+location:
+  country_code: KR
+  latitude: 37.6881
+  longitude: 128.742
+scores:
+  impact: 8.6
+  uniqueness: 8.9
+  significance: 7.4
+  experience: 9.3
+  depth: 8.8
+  categories:
+    nature: 9.2
+    photography: 9.5
+    family: 9.3

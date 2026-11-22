@@ -1,0 +1,17 @@
+id: sight-kr-petite-france-gapyeong
+name: "Petite France Gapyeong"
+location:
+  country_code: KR
+  latitude: 37.7171
+  longitude: 127.4894
+scores:
+  impact: 8.2
+  uniqueness: 9
+  significance: 7.8
+  experience: 8.9
+  depth: 8.5
+  categories:
+    architecture: 8.8
+    culture: 8.2
+    family: 9.1
+    photography: 9

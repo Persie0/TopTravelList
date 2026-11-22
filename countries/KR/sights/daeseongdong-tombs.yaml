@@ -1,0 +1,15 @@
+id: sight-kr-daeseongdong-tombs
+name: "Daeseong-dong Tombs Gimhae"
+location:
+  country_code: KR
+  latitude: 35.234
+  longitude: 128.883
+scores:
+  impact: 9.2
+  uniqueness: 9.8
+  significance: 10
+  experience: 9.3
+  depth: 8.8
+  categories:
+    history: 10
+    culture: 9.6

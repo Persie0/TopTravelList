@@ -1,0 +1,17 @@
+id: city-kr-suwon
+name: "Suwon"
+location:
+  country_code: KR
+  latitude: 37.2636
+  longitude: 127.0286
+scores:
+  impact: 9
+  uniqueness: 9.1
+  significance: 9.5
+  experience: 9.1
+  depth: 8.8
+  categories:
+    architecture: 9.4
+    history: 9.8
+    culture: 9
+    food: 8.8

@@ -1,0 +1,17 @@
+id: sight-kr-jeju-stone-park
+name: "Jeju Stone Park"
+location:
+  country_code: KR
+  latitude: 33.4476
+  longitude: 126.658
+scores:
+  impact: 9
+  uniqueness: 9.5
+  significance: 9.4
+  experience: 9.5
+  depth: 9.4
+  categories:
+    history: 9.6
+    culture: 9.7
+    nature: 9.2
+    photography: 9.4

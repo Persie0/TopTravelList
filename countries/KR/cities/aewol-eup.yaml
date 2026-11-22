@@ -1,0 +1,17 @@
+id: city-kr-aewol-eup
+name: "Aewol-eup"
+location:
+  country_code: KR
+  latitude: 33.4627
+  longitude: 126.3293
+scores:
+  impact: 8.1
+  uniqueness: 8.4
+  significance: 7.4
+  experience: 8.9
+  depth: 8.7
+  categories:
+    nature: 9.2
+    food: 8.9
+    photography: 9.2
+    relaxation: 8.9

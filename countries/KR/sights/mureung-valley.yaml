@@ -1,0 +1,16 @@
+id: sight-kr-mureung-valley
+name: "Mureung Valley"
+location:
+  country_code: KR
+  latitude: 37.463
+  longitude: 129.01
+scores:
+  impact: 9
+  uniqueness: 9.3
+  significance: 8.2
+  experience: 9.4
+  depth: 9.2
+  categories:
+    nature: 9.7
+    adventure: 9.3
+    photography: 9.6

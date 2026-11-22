@@ -1,0 +1,16 @@
+id: sight-kr-anbandegi-highland
+name: "Anbandegi Highland"
+location:
+  country_code: KR
+  latitude: 37.6084
+  longitude: 128.7638
+scores:
+  impact: 9
+  uniqueness: 9.3
+  significance: 7.5
+  experience: 9.3
+  depth: 8.6
+  categories:
+    nature: 9.7
+    photography: 9.9
+    relaxation: 8.9

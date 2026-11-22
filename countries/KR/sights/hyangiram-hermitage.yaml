@@ -1,0 +1,17 @@
+id: sight-kr-hyangiram-hermitage
+name: "Hyangiram Hermitage"
+location:
+  country_code: KR
+  latitude: 34.598
+  longitude: 127.802
+scores:
+  impact: 9.4
+  uniqueness: 9.7
+  significance: 9.2
+  experience: 9.6
+  depth: 9
+  categories:
+    architecture: 9.3
+    history: 9.4
+    culture: 9.6
+    photography: 10

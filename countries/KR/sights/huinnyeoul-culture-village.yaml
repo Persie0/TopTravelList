@@ -1,0 +1,16 @@
+id: sight-kr-huinnyeoul-culture-village
+name: "Huinnyeoul Culture Village"
+location:
+  country_code: KR
+  latitude: 35.0775
+  longitude: 129.046
+scores:
+  impact: 9.1
+  uniqueness: 9.5
+  significance: 8.2
+  experience: 9.5
+  depth: 9.1
+  categories:
+    architecture: 9
+    culture: 9.3
+    photography: 10

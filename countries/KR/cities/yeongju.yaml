@@ -1,0 +1,15 @@
+id: city-kr-yeongju
+name: "Yeongju"
+location:
+  country_code: KR
+  latitude: 36.8057
+  longitude: 128.6241
+scores:
+  impact: 8.2
+  uniqueness: 8.8
+  significance: 9.1
+  experience: 8.8
+  depth: 8.7
+  categories:
+    history: 9.6
+    nature: 9

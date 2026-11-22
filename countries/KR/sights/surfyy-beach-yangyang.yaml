@@ -1,0 +1,16 @@
+id: sight-kr-surfyy-beach-yangyang
+name: "Surfyy Beach Yangyang"
+location:
+  country_code: KR
+  latitude: 38.0665
+  longitude: 128.691
+scores:
+  impact: 8.2
+  uniqueness: 8.6
+  significance: 7.1
+  experience: 9
+  depth: 8.6
+  categories:
+    beaches: 8.8
+    adventure: 9.1
+    nightlife: 8.4

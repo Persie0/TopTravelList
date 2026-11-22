@@ -1,0 +1,15 @@
+id: sight-kr-un-memorial-cemetery-busan
+name: "UN Memorial Cemetery Busan"
+location:
+  country_code: KR
+  latitude: 35.127
+  longitude: 129.096
+scores:
+  impact: 9.1
+  uniqueness: 9.6
+  significance: 10
+  experience: 9.2
+  depth: 9.2
+  categories:
+    history: 10
+    culture: 9.5

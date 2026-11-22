@@ -1,0 +1,16 @@
+id: sight-kr-gimnyeong-beach
+name: "Gimnyeong Beach"
+location:
+  country_code: KR
+  latitude: 33.558
+  longitude: 126.759
+scores:
+  impact: 8.8
+  uniqueness: 9.1
+  significance: 7
+  experience: 9.3
+  depth: 8.7
+  categories:
+    beaches: 9.5
+    photography: 9.6
+    relaxation: 9.5

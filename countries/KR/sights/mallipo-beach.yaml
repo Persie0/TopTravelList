@@ -1,0 +1,16 @@
+id: sight-kr-mallipo-beach
+name: "Mallipo Beach"
+location:
+  country_code: KR
+  latitude: 36.786
+  longitude: 126.137
+scores:
+  impact: 8.5
+  uniqueness: 8.6
+  significance: 7.2
+  experience: 9.1
+  depth: 8.7
+  categories:
+    beaches: 9
+    photography: 9.2
+    relaxation: 9.1

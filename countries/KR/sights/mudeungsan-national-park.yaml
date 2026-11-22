@@ -1,0 +1,16 @@
+id: sight-kr-mudeungsan-national-park
+name: "Mudeungsan National Park"
+location:
+  country_code: KR
+  latitude: 35.127
+  longitude: 126.999
+scores:
+  impact: 9.2
+  uniqueness: 9.4
+  significance: 8.7
+  experience: 9.5
+  depth: 9.3
+  categories:
+    nature: 9.8
+    adventure: 9.4
+    photography: 9.6

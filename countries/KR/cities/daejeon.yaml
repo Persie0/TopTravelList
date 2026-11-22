@@ -1,0 +1,16 @@
+id: city-kr-daejeon
+name: "Daejeon"
+location:
+  country_code: KR
+  latitude: 36.3504
+  longitude: 127.3845
+scores:
+  impact: 7.5
+  uniqueness: 7.3
+  significance: 7.7
+  experience: 8
+  depth: 8.6
+  categories:
+    culture: 8.2
+    family: 8.5
+    food: 8.1

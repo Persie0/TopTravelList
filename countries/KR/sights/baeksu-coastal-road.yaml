@@ -1,0 +1,16 @@
+id: sight-kr-baeksu-coastal-road
+name: "Baeksu Coastal Road"
+location:
+  country_code: KR
+  latitude: 35.276
+  longitude: 126.235
+scores:
+  impact: 8.4
+  uniqueness: 8.6
+  significance: 7.3
+  experience: 9.1
+  depth: 8.9
+  categories:
+    nature: 9.1
+    photography: 9.6
+    relaxation: 9.3

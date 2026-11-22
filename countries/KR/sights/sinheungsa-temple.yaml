@@ -1,0 +1,17 @@
+id: sight-kr-sinheungsa-temple
+name: "Sinheungsa Temple"
+location:
+  country_code: KR
+  latitude: 38.173
+  longitude: 128.488
+scores:
+  impact: 8.8
+  uniqueness: 9.1
+  significance: 9
+  experience: 9.1
+  depth: 8.5
+  categories:
+    architecture: 9.4
+    history: 9.2
+    culture: 9.3
+    photography: 9.1

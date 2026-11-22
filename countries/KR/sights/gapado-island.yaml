@@ -1,0 +1,16 @@
+id: sight-kr-gapado-island
+name: "Gapado Island"
+location:
+  country_code: KR
+  latitude: 33.171
+  longitude: 126.269
+scores:
+  impact: 8.7
+  uniqueness: 9.2
+  significance: 8.1
+  experience: 9.4
+  depth: 9
+  categories:
+    nature: 9.4
+    photography: 9.6
+    relaxation: 9.6

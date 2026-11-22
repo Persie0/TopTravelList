@@ -1,0 +1,16 @@
+id: sight-kr-lotte-world-tower-seoul-sky
+name: "Lotte World Tower Seoul Sky"
+location:
+  country_code: KR
+  latitude: 37.5126
+  longitude: 127.1026
+scores:
+  impact: 9.3
+  uniqueness: 9.5
+  significance: 8.7
+  experience: 9.5
+  depth: 8.6
+  categories:
+    architecture: 9.8
+    photography: 10
+    family: 9

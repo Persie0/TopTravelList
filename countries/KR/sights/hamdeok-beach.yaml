@@ -1,0 +1,16 @@
+id: sight-kr-hamdeok-beach
+name: "Hamdeok Beach"
+location:
+  country_code: KR
+  latitude: 33.5435
+  longitude: 126.669
+scores:
+  impact: 9.2
+  uniqueness: 9.4
+  significance: 7.5
+  experience: 9.6
+  depth: 9.3
+  categories:
+    beaches: 9.8
+    photography: 9.8
+    relaxation: 9.6

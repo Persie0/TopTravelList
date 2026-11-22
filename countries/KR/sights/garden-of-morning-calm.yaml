@@ -1,0 +1,16 @@
+id: sight-kr-garden-of-morning-calm
+name: "Garden of Morning Calm"
+location:
+  country_code: KR
+  latitude: 37.7439
+  longitude: 127.352
+scores:
+  impact: 9
+  uniqueness: 9.4
+  significance: 8.2
+  experience: 9.6
+  depth: 9.3
+  categories:
+    nature: 9.6
+    photography: 9.9
+    relaxation: 9.5

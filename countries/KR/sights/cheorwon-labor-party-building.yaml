@@ -1,0 +1,16 @@
+id: sight-kr-cheorwon-labor-party-building
+name: "Cheorwon Labor Party Building"
+location:
+  country_code: KR
+  latitude: 38.2408
+  longitude: 127.2148
+scores:
+  impact: 8.7
+  uniqueness: 9.6
+  significance: 9.8
+  experience: 8.8
+  depth: 7.9
+  categories:
+    history: 10
+    architecture: 8.7
+    photography: 9

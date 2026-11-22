@@ -1,0 +1,17 @@
+id: sight-kr-dosan-seowon-academy
+name: "Dosan Seowon Confucian Academy"
+location:
+  country_code: KR
+  latitude: 36.728
+  longitude: 128.842
+scores:
+  impact: 9.2
+  uniqueness: 9.7
+  significance: 10
+  experience: 9.4
+  depth: 9.2
+  categories:
+    history: 10
+    architecture: 9.8
+    culture: 9.9
+    photography: 9.6

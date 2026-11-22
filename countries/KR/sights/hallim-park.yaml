@@ -1,0 +1,16 @@
+id: sight-kr-hallim-park
+name: "Hallim Park"
+location:
+  country_code: KR
+  latitude: 33.3905
+  longitude: 126.2395
+scores:
+  impact: 8.7
+  uniqueness: 9
+  significance: 8.2
+  experience: 9.5
+  depth: 9.6
+  categories:
+    nature: 9.5
+    family: 9.6
+    photography: 9.4

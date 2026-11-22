@@ -1,0 +1,15 @@
+id: city-kr-gwacheon
+name: "Gwacheon"
+location:
+  country_code: KR
+  latitude: 37.4292
+  longitude: 126.9877
+scores:
+  impact: 7.3
+  uniqueness: 7.4
+  significance: 7.2
+  experience: 8.2
+  depth: 8
+  categories:
+    nature: 8.4
+    family: 8.6

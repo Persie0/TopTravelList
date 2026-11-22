@@ -1,0 +1,16 @@
+id: sight-kr-omokdae-pavilion
+name: "Omokdae Pavilion"
+location:
+  country_code: KR
+  latitude: 35.8139
+  longitude: 127.157
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 9
+  experience: 8.9
+  depth: 8
+  categories:
+    history: 9.3
+    photography: 9.5
+    relaxation: 8.8

@@ -1,0 +1,16 @@
+id: sight-kr-osulloc-tea-museum
+name: "O'Sulloc Tea Museum"
+location:
+  country_code: KR
+  latitude: 33.3059
+  longitude: 126.289
+scores:
+  impact: 8.6
+  uniqueness: 9.1
+  significance: 8.6
+  experience: 9.4
+  depth: 9.1
+  categories:
+    culture: 9.2
+    food: 9.1
+    photography: 9.5

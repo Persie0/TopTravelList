@@ -1,0 +1,16 @@
+id: sight-kr-everland-theme-park
+name: "Everland Theme Park"
+location:
+  country_code: KR
+  latitude: 37.2939
+  longitude: 127.202
+scores:
+  impact: 8.9
+  uniqueness: 9.1
+  significance: 8.1
+  experience: 9.6
+  depth: 9.5
+  categories:
+    family: 10
+    adventure: 8.8
+    photography: 8.7

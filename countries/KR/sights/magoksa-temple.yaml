@@ -1,0 +1,16 @@
+id: sight-kr-magoksa-temple
+name: "Magoksa Temple"
+location:
+  country_code: KR
+  latitude: 36.557
+  longitude: 127.019
+scores:
+  impact: 9
+  uniqueness: 9.6
+  significance: 9.9
+  experience: 9.3
+  depth: 9
+  categories:
+    history: 10
+    architecture: 9.8
+    culture: 9.7

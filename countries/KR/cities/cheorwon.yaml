@@ -1,0 +1,16 @@
+id: city-kr-cheorwon
+name: "Cheorwon"
+location:
+  country_code: KR
+  latitude: 38.1467
+  longitude: 127.3133
+scores:
+  impact: 8.4
+  uniqueness: 8.8
+  significance: 9.2
+  experience: 8.8
+  depth: 8.9
+  categories:
+    history: 9.5
+    nature: 9.1
+    photography: 9

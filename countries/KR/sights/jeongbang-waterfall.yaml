@@ -1,0 +1,15 @@
+id: sight-kr-jeongbang-waterfall
+name: "Jeongbang Waterfall"
+location:
+  country_code: KR
+  latitude: 33.245
+  longitude: 126.572
+scores:
+  impact: 9.5
+  uniqueness: 9.9
+  significance: 8.4
+  experience: 9.7
+  depth: 8.2
+  categories:
+    nature: 10
+    photography: 10

@@ -1,0 +1,16 @@
+id: city-kr-hapcheon
+name: "Hapcheon"
+location:
+  country_code: KR
+  latitude: 35.5665
+  longitude: 128.1658
+scores:
+  impact: 8.6
+  uniqueness: 9
+  significance: 9.2
+  experience: 9
+  depth: 8.8
+  categories:
+    history: 9.6
+    nature: 9.4
+    architecture: 9.3

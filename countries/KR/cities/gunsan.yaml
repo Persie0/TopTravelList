@@ -1,0 +1,17 @@
+id: city-kr-gunsan
+name: "Gunsan"
+location:
+  country_code: KR
+  latitude: 35.9677
+  longitude: 126.7366
+scores:
+  impact: 8.3
+  uniqueness: 8.6
+  significance: 8.7
+  experience: 8.7
+  depth: 8.6
+  categories:
+    history: 9.1
+    architecture: 8.8
+    food: 8.8
+    photography: 8.6

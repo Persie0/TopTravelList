@@ -1,0 +1,15 @@
+id: city-kr-jecheon
+name: "Jecheon"
+location:
+  country_code: KR
+  latitude: 37.1326
+  longitude: 128.1909
+scores:
+  impact: 7.9
+  uniqueness: 8
+  significance: 7.7
+  experience: 8.5
+  depth: 8.6
+  categories:
+    nature: 9
+    relaxation: 8.7

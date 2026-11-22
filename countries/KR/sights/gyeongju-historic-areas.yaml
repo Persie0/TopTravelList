@@ -1,0 +1,17 @@
+id: sight-kr-gyeongju-historic-areas
+name: "Gyeongju Historic Areas"
+location:
+  country_code: KR
+  latitude: 35.835
+  longitude: 129.221
+scores:
+  impact: 9.9
+  uniqueness: 9.9
+  significance: 10
+  experience: 9.8
+  depth: 10
+  categories:
+    history: 10
+    architecture: 10
+    culture: 10
+    photography: 9.9

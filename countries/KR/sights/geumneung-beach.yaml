@@ -1,0 +1,16 @@
+id: sight-kr-geumneung-beach
+name: "Geumneung Beach"
+location:
+  country_code: KR
+  latitude: 33.39
+  longitude: 126.236
+scores:
+  impact: 9
+  uniqueness: 9.2
+  significance: 7.2
+  experience: 9.4
+  depth: 8.9
+  categories:
+    beaches: 9.8
+    photography: 9.8
+    relaxation: 9.7

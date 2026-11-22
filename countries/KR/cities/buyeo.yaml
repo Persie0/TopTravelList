@@ -1,0 +1,16 @@
+id: city-kr-buyeo
+name: "Buyeo"
+location:
+  country_code: KR
+  latitude: 36.2746
+  longitude: 126.9103
+scores:
+  impact: 8.8
+  uniqueness: 9.4
+  significance: 9.8
+  experience: 9.1
+  depth: 8.4
+  categories:
+    history: 10
+    architecture: 9
+    culture: 9.3

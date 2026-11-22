@@ -1,0 +1,17 @@
+id: city-kr-jeju-city
+name: "Jeju City"
+location:
+  country_code: KR
+  latitude: 33.4996
+  longitude: 126.5312
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 8
+  experience: 9
+  depth: 9.4
+  categories:
+    nature: 9.2
+    food: 9.3
+    history: 8.6
+    photography: 9.2

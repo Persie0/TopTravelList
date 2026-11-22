@@ -1,0 +1,17 @@
+id: sight-kr-hallasan-national-park
+name: "Hallasan National Park"
+location:
+  country_code: KR
+  latitude: 33.362
+  longitude: 126.533
+scores:
+  impact: 9.8
+  uniqueness: 9.9
+  significance: 9.5
+  experience: 9.9
+  depth: 9.8
+  categories:
+    nature: 10
+    adventure: 10
+    photography: 10
+    wildlife: 9.5

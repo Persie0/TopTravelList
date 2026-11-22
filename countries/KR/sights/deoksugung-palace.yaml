@@ -1,0 +1,17 @@
+id: sight-kr-deoksugung-palace
+name: "Deoksugung Palace"
+location:
+  country_code: KR
+  latitude: 37.5658
+  longitude: 126.9751
+scores:
+  impact: 8.8
+  uniqueness: 9
+  significance: 9.2
+  experience: 9
+  depth: 8.5
+  categories:
+    architecture: 9.3
+    history: 9.5
+    culture: 9.2
+    photography: 9.2

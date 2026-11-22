@@ -1,0 +1,16 @@
+id: sight-kr-cheonggyecheon-stream
+name: "Cheonggyecheon Stream"
+location:
+  country_code: KR
+  latitude: 37.568
+  longitude: 126.9885
+scores:
+  impact: 8.8
+  uniqueness: 9
+  significance: 8.3
+  experience: 9.5
+  depth: 9.4
+  categories:
+    architecture: 9
+    relaxation: 9
+    photography: 9

@@ -1,0 +1,16 @@
+id: sight-kr-songnisan-national-park
+name: "Songnisan National Park"
+location:
+  country_code: KR
+  latitude: 36.546
+  longitude: 127.855
+scores:
+  impact: 9.1
+  uniqueness: 9.4
+  significance: 9.1
+  experience: 9.5
+  depth: 9.3
+  categories:
+    nature: 9.7
+    adventure: 9.3
+    photography: 9.5

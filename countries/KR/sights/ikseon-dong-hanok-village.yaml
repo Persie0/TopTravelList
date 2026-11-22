@@ -1,0 +1,17 @@
+id: sight-kr-ikseon-dong-hanok-village
+name: "Ikseon-dong Hanok Village"
+location:
+  country_code: KR
+  latitude: 37.5733
+  longitude: 126.9905
+scores:
+  impact: 8.6
+  uniqueness: 9
+  significance: 8.4
+  experience: 9.1
+  depth: 8.6
+  categories:
+    architecture: 9.2
+    culture: 9.1
+    food: 9
+    photography: 9.1

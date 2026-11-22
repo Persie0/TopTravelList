@@ -1,0 +1,16 @@
+id: city-kr-jindo
+name: "Jindo"
+location:
+  country_code: KR
+  latitude: 34.483
+  longitude: 126.263
+scores:
+  impact: 8.3
+  uniqueness: 8.9
+  significance: 8.4
+  experience: 8.8
+  depth: 8.9
+  categories:
+    nature: 9
+    culture: 9
+    photography: 9

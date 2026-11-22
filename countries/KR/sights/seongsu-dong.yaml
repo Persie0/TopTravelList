@@ -1,0 +1,16 @@
+id: sight-kr-seongsu-dong
+name: "Seongsu-dong"
+location:
+  country_code: KR
+  latitude: 37.5459
+  longitude: 127.0561
+scores:
+  impact: 8.2
+  uniqueness: 8.5
+  significance: 7.8
+  experience: 9.2
+  depth: 9
+  categories:
+    culture: 9.3
+    food: 9.1
+    nightlife: 8.8

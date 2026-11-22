@@ -1,0 +1,16 @@
+id: sight-kr-danyang-dodamsambong-peaks
+name: "Dodamsambong Peaks"
+location:
+  country_code: KR
+  latitude: 37.0065
+  longitude: 128.335
+scores:
+  impact: 9.3
+  uniqueness: 9.5
+  significance: 8.9
+  experience: 9.6
+  depth: 8.5
+  categories:
+    nature: 9.8
+    photography: 9.9
+    history: 9

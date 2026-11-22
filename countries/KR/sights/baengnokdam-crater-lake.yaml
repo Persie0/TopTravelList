@@ -1,0 +1,16 @@
+id: sight-kr-baengnokdam-crater-lake
+name: "Baengnokdam Crater Lake (Hallasan Summit)"
+location:
+  country_code: KR
+  latitude: 33.3618
+  longitude: 126.5295
+scores:
+  impact: 9.7
+  uniqueness: 9.9
+  significance: 9
+  experience: 9.7
+  depth: 8.7
+  categories:
+    nature: 10
+    adventure: 9.9
+    photography: 10

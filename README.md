@@ -40,6 +40,9 @@ python scripts/rank.py --country AT --kind sights --category nature --limit 20
 python scripts/rank.py --country TH --kind cities --limit 20
 python scripts/rank.py --country TH --kind sights --limit 20
 python scripts/rank.py --country TH --kind sights --category beaches --limit 20
+python scripts/rank.py --country KR --kind cities --limit 20
+python scripts/rank.py --country KR --kind sights --limit 20
+python scripts/rank.py --country KR --kind sights --category history --limit 20
 ```
 
 The registry covers **197 travel-country entries**: the 193 United Nations member states, the Holy See and Palestine (UN observer states), plus Taiwan and Kosovo as separately listed travel destinations. Kosovo uses the commonly used, user-assigned code `XK`, not an official ISO 3166-1 code. This is a geographic organization convention, not a statement on political recognition. Territories are not included.
@@ -50,6 +53,7 @@ See [rules.md](rules.md) for the universal scoring rubric and [methodology/scori
 
 - **Austria (`AT`)**: 45 city/town/village destinations and 133 sights.
 - **Thailand (`TH`)**: 69 city/town/village destinations and 206 sights, including islands, historic parks, temples, waterfalls, and national parks.
+- **South Korea (`KR`)**: 82 city/town/village destinations and 284 sights, including palaces, royal heritage, Buddhist temples, national parks, islands, Jeju volcanic sites, and beaches.
 
 All destination records contain the same five core scoring dimensions and applicable category ratings. The scores are **provisional editorial assessments**, not objective facts or definitive worldwide standings. Coordinates identify approximate representative points and should not be used as precise navigation destinations.
 

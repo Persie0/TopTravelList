@@ -1,0 +1,16 @@
+id: sight-kr-yongnuni-oreum
+name: "Yongnuni Oreum"
+location:
+  country_code: KR
+  latitude: 33.477
+  longitude: 126.833
+scores:
+  impact: 9.1
+  uniqueness: 9.4
+  significance: 8.2
+  experience: 9.5
+  depth: 9
+  categories:
+    nature: 9.8
+    photography: 9.9
+    adventure: 9

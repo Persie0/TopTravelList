@@ -1,0 +1,16 @@
+id: sight-kr-mancheonha-skywalk
+name: "Mancheonha Skywalk"
+location:
+  country_code: KR
+  latitude: 36.981
+  longitude: 128.3708
+scores:
+  impact: 8.9
+  uniqueness: 9
+  significance: 7.4
+  experience: 9.5
+  depth: 8.2
+  categories:
+    nature: 9.4
+    photography: 9.8
+    adventure: 9.2

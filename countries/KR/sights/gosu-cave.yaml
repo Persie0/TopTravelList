@@ -1,0 +1,16 @@
+id: sight-kr-gosu-cave
+name: "Gosu Cave"
+location:
+  country_code: KR
+  latitude: 36.9919
+  longitude: 128.3836
+scores:
+  impact: 9.1
+  uniqueness: 9.7
+  significance: 8.3
+  experience: 9.3
+  depth: 8.1
+  categories:
+    nature: 9.8
+    adventure: 9.2
+    photography: 9.1

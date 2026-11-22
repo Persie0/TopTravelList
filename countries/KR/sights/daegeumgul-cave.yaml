@@ -1,0 +1,16 @@
+id: sight-kr-daegeumgul-cave
+name: "Daegeumgul Cave"
+location:
+  country_code: KR
+  latitude: 37.323
+  longitude: 129.027
+scores:
+  impact: 9.3
+  uniqueness: 9.8
+  significance: 8.3
+  experience: 9.4
+  depth: 8.2
+  categories:
+    nature: 9.8
+    adventure: 9.3
+    photography: 9

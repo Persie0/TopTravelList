@@ -1,0 +1,15 @@
+id: city-kr-gurye
+name: "Gurye"
+location:
+  country_code: KR
+  latitude: 35.2025
+  longitude: 127.4626
+scores:
+  impact: 8.2
+  uniqueness: 8.5
+  significance: 8.2
+  experience: 8.8
+  depth: 8.7
+  categories:
+    nature: 9.5
+    photography: 9

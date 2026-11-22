@@ -1,0 +1,15 @@
+id: city-kr-cheongju
+name: "Cheongju"
+location:
+  country_code: KR
+  latitude: 36.6424
+  longitude: 127.489
+scores:
+  impact: 7.8
+  uniqueness: 8.1
+  significance: 8.9
+  experience: 8.4
+  depth: 8.3
+  categories:
+    history: 9.2
+    culture: 8.6

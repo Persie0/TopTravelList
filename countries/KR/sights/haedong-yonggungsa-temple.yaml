@@ -1,0 +1,17 @@
+id: sight-kr-haedong-yonggungsa-temple
+name: "Haedong Yonggungsa Temple"
+location:
+  country_code: KR
+  latitude: 35.1888
+  longitude: 129.2236
+scores:
+  impact: 9.4
+  uniqueness: 9.6
+  significance: 9.1
+  experience: 9.5
+  depth: 8.8
+  categories:
+    architecture: 9.9
+    history: 9.2
+    culture: 9.5
+    photography: 10

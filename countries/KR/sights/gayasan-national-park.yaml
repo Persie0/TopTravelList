@@ -1,0 +1,16 @@
+id: sight-kr-gayasan-national-park
+name: "Gayasan National Park"
+location:
+  country_code: KR
+  latitude: 35.806
+  longitude: 128.102
+scores:
+  impact: 9.1
+  uniqueness: 9.4
+  significance: 9
+  experience: 9.5
+  depth: 9.6
+  categories:
+    nature: 9.7
+    adventure: 9.5
+    photography: 9.3

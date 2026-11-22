@@ -1,0 +1,17 @@
+id: sight-kr-ssanggyesa-temple
+name: "Ssanggyesa Temple"
+location:
+  country_code: KR
+  latitude: 35.231
+  longitude: 127.653
+scores:
+  impact: 9
+  uniqueness: 9.4
+  significance: 9.7
+  experience: 9.4
+  depth: 9
+  categories:
+    architecture: 9.5
+    history: 9.8
+    culture: 9.6
+    nature: 9.3

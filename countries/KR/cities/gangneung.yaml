@@ -1,0 +1,17 @@
+id: city-kr-gangneung
+name: "Gangneung"
+location:
+  country_code: KR
+  latitude: 37.7519
+  longitude: 128.8761
+scores:
+  impact: 8.6
+  uniqueness: 8.5
+  significance: 8.7
+  experience: 9.1
+  depth: 9.2
+  categories:
+    beaches: 8.9
+    history: 9.1
+    food: 9.1
+    photography: 9.2

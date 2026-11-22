@@ -1,0 +1,16 @@
+id: sight-kr-banpo-hangang-park
+name: "Banpo Hangang Park"
+location:
+  country_code: KR
+  latitude: 37.508
+  longitude: 126.9967
+scores:
+  impact: 8.6
+  uniqueness: 8.9
+  significance: 8.2
+  experience: 9.2
+  depth: 8.7
+  categories:
+    relaxation: 9.2
+    photography: 9.3
+    nightlife: 8.5

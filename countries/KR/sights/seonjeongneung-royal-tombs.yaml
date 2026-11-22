@@ -1,0 +1,16 @@
+id: sight-kr-seonjeongneung-royal-tombs
+name: "Seonjeongneung Royal Tombs"
+location:
+  country_code: KR
+  latitude: 37.5086
+  longitude: 127.0494
+scores:
+  impact: 9
+  uniqueness: 9.5
+  significance: 9.8
+  experience: 9.2
+  depth: 8.9
+  categories:
+    history: 10
+    architecture: 9
+    nature: 8.8

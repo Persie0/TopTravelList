@@ -1,0 +1,16 @@
+id: sight-kr-nogodan-peak
+name: "Nogodan Peak"
+location:
+  country_code: KR
+  latitude: 35.29
+  longitude: 127.535
+scores:
+  impact: 9
+  uniqueness: 9.1
+  significance: 8.1
+  experience: 9.4
+  depth: 8.9
+  categories:
+    nature: 9.8
+    adventure: 9.3
+    photography: 9.8

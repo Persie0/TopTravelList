@@ -1,0 +1,17 @@
+id: sight-kr-hahoe-folk-village
+name: "Andong Hahoe Folk Village"
+location:
+  country_code: KR
+  latitude: 36.5377
+  longitude: 128.518
+scores:
+  impact: 9.6
+  uniqueness: 9.9
+  significance: 10
+  experience: 9.7
+  depth: 9.6
+  categories:
+    history: 10
+    architecture: 9.9
+    culture: 10
+    photography: 9.8

@@ -1,0 +1,16 @@
+id: sight-kr-jeondeungsa-temple
+name: "Jeondeungsa Temple"
+location:
+  country_code: KR
+  latitude: 37.6335
+  longitude: 126.4866
+scores:
+  impact: 9
+  uniqueness: 9.4
+  significance: 9.6
+  experience: 9.1
+  depth: 8.8
+  categories:
+    architecture: 9.6
+    history: 9.8
+    culture: 9.5

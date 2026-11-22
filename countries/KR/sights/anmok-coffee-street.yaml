@@ -1,0 +1,16 @@
+id: sight-kr-anmok-coffee-street
+name: "Anmok Coffee Street"
+location:
+  country_code: KR
+  latitude: 37.7723
+  longitude: 128.9485
+scores:
+  impact: 8.3
+  uniqueness: 8.7
+  significance: 7.8
+  experience: 9.2
+  depth: 8.7
+  categories:
+    food: 9
+    beaches: 8.3
+    photography: 9

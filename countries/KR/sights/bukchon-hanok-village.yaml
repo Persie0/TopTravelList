@@ -1,0 +1,17 @@
+id: sight-kr-bukchon-hanok-village
+name: "Bukchon Hanok Village"
+location:
+  country_code: KR
+  latitude: 37.5827
+  longitude: 126.9837
+scores:
+  impact: 9.1
+  uniqueness: 9.4
+  significance: 9.3
+  experience: 9
+  depth: 9.2
+  categories:
+    architecture: 9.7
+    history: 9.5
+    culture: 9.7
+    photography: 9.4

@@ -1,0 +1,15 @@
+id: sight-kr-camp-greaves-dmz
+name: "Camp Greaves DMZ"
+location:
+  country_code: KR
+  latitude: 37.895
+  longitude: 126.729
+scores:
+  impact: 8.3
+  uniqueness: 9.1
+  significance: 9.6
+  experience: 8.7
+  depth: 8.5
+  categories:
+    history: 9.8
+    culture: 9.1

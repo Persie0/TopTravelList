@@ -1,0 +1,17 @@
+id: city-kr-mokpo
+name: "Mokpo"
+location:
+  country_code: KR
+  latitude: 34.8118
+  longitude: 126.3922
+scores:
+  impact: 8.3
+  uniqueness: 8.6
+  significance: 8.7
+  experience: 8.8
+  depth: 8.9
+  categories:
+    history: 9
+    food: 9.2
+    photography: 9.1
+    architecture: 8.6

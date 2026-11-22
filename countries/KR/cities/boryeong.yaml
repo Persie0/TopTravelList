@@ -1,0 +1,16 @@
+id: city-kr-boryeong
+name: "Boryeong"
+location:
+  country_code: KR
+  latitude: 36.3335
+  longitude: 126.6128
+scores:
+  impact: 8.2
+  uniqueness: 8.1
+  significance: 7.8
+  experience: 8.9
+  depth: 8.7
+  categories:
+    beaches: 8.9
+    culture: 8.6
+    nightlife: 8.1

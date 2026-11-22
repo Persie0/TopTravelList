@@ -1,0 +1,16 @@
+id: sight-kr-jeongdongjin-beach
+name: "Jeongdongjin Beach"
+location:
+  country_code: KR
+  latitude: 37.6916
+  longitude: 129.033
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 7.5
+  experience: 9.1
+  depth: 8.5
+  categories:
+    beaches: 9
+    photography: 9.7
+    relaxation: 8.9

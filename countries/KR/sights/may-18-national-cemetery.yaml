@@ -1,0 +1,15 @@
+id: sight-kr-may-18-national-cemetery
+name: "May 18 National Cemetery"
+location:
+  country_code: KR
+  latitude: 35.235
+  longitude: 126.947
+scores:
+  impact: 9
+  uniqueness: 9.6
+  significance: 10
+  experience: 9.2
+  depth: 9.1
+  categories:
+    history: 10
+    culture: 9.8

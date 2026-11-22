@@ -1,0 +1,16 @@
+id: sight-kr-hwanseongul-cave
+name: "Hwanseongul Cave"
+location:
+  country_code: KR
+  latitude: 37.326
+  longitude: 129.017
+scores:
+  impact: 9.4
+  uniqueness: 9.8
+  significance: 8.8
+  experience: 9.5
+  depth: 8.6
+  categories:
+    nature: 9.9
+    adventure: 9.5
+    photography: 9.3

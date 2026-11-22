@@ -1,0 +1,17 @@
+id: sight-kr-namhansanseong-fortress
+name: "Namhansanseong Fortress"
+location:
+  country_code: KR
+  latitude: 37.478
+  longitude: 127.181
+scores:
+  impact: 9.2
+  uniqueness: 9.7
+  significance: 9.9
+  experience: 9.3
+  depth: 9.4
+  categories:
+    history: 10
+    architecture: 9.6
+    nature: 8.9
+    photography: 9.4

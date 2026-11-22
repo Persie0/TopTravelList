@@ -1,0 +1,16 @@
+id: sight-kr-saseongam-hermitage
+name: "Saseongam Hermitage"
+location:
+  country_code: KR
+  latitude: 35.198
+  longitude: 127.464
+scores:
+  impact: 8.9
+  uniqueness: 9.5
+  significance: 9
+  experience: 9.3
+  depth: 8
+  categories:
+    architecture: 9.3
+    culture: 9.5
+    photography: 9.7

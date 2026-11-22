@@ -1,0 +1,17 @@
+id: sight-kr-korean-folk-village
+name: "Korean Folk Village"
+location:
+  country_code: KR
+  latitude: 37.2593
+  longitude: 127.1195
+scores:
+  impact: 9
+  uniqueness: 9.4
+  significance: 9.3
+  experience: 9.5
+  depth: 9.4
+  categories:
+    history: 9.5
+    culture: 9.8
+    architecture: 9.2
+    family: 9.7

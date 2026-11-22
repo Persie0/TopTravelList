@@ -1,0 +1,18 @@
+id: sight-kr-changdeokgung-palace
+name: "Changdeokgung Palace"
+location:
+  country_code: KR
+  latitude: 37.5794
+  longitude: 126.991
+scores:
+  impact: 9.7
+  uniqueness: 9.8
+  significance: 10
+  experience: 9.7
+  depth: 9.7
+  categories:
+    architecture: 10
+    history: 10
+    culture: 10
+    photography: 9.9
+    nature: 8.8

@@ -1,0 +1,16 @@
+id: sight-kr-chiaksan-national-park
+name: "Chiaksan National Park"
+location:
+  country_code: KR
+  latitude: 37.366
+  longitude: 128.05
+scores:
+  impact: 9
+  uniqueness: 9.1
+  significance: 8.4
+  experience: 9.4
+  depth: 9
+  categories:
+    nature: 9.6
+    adventure: 9.5
+    photography: 9.2

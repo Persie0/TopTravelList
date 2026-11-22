@@ -1,0 +1,15 @@
+id: sight-kr-marisan-tumuli-haman
+name: "Marisan Tumuli Haman"
+location:
+  country_code: KR
+  latitude: 35.273
+  longitude: 128.405
+scores:
+  impact: 9.1
+  uniqueness: 9.9
+  significance: 10
+  experience: 9.2
+  depth: 8.7
+  categories:
+    history: 10
+    culture: 9.5

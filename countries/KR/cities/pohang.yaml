@@ -1,0 +1,17 @@
+id: city-kr-pohang
+name: "Pohang"
+location:
+  country_code: KR
+  latitude: 36.019
+  longitude: 129.3435
+scores:
+  impact: 8.3
+  uniqueness: 8.2
+  significance: 8
+  experience: 8.8
+  depth: 9.1
+  categories:
+    nature: 8.8
+    beaches: 8.4
+    photography: 9
+    food: 8.6

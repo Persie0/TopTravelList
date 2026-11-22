@@ -1,0 +1,16 @@
+id: sight-kr-juwangsan-national-park
+name: "Juwangsan National Park"
+location:
+  country_code: KR
+  latitude: 36.395
+  longitude: 129.133
+scores:
+  impact: 9.4
+  uniqueness: 9.8
+  significance: 8.9
+  experience: 9.6
+  depth: 9.6
+  categories:
+    nature: 10
+    photography: 9.9
+    adventure: 9.5

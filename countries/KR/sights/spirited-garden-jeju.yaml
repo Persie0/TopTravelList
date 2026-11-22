@@ -1,0 +1,17 @@
+id: sight-kr-spirited-garden-jeju
+name: "Spirited Garden Jeju"
+location:
+  country_code: KR
+  latitude: 33.3224
+  longitude: 126.254
+scores:
+  impact: 8.8
+  uniqueness: 9.5
+  significance: 9
+  experience: 9.4
+  depth: 9.2
+  categories:
+    nature: 9.5
+    culture: 9.2
+    photography: 9.5
+    relaxation: 9.5

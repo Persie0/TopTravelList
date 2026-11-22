@@ -1,0 +1,16 @@
+id: sight-kr-camellia-hill
+name: "Camellia Hill"
+location:
+  country_code: KR
+  latitude: 33.2904
+  longitude: 126.368
+scores:
+  impact: 8.6
+  uniqueness: 9.1
+  significance: 7.7
+  experience: 9.4
+  depth: 9.2
+  categories:
+    nature: 9.4
+    photography: 9.6
+    relaxation: 9.4

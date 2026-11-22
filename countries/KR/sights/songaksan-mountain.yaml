@@ -1,0 +1,16 @@
+id: sight-kr-songaksan-mountain
+name: "Songaksan Mountain"
+location:
+  country_code: KR
+  latitude: 33.2067
+  longitude: 126.2893
+scores:
+  impact: 9
+  uniqueness: 9.3
+  significance: 8.1
+  experience: 9.4
+  depth: 8.7
+  categories:
+    nature: 9.8
+    photography: 9.9
+    adventure: 9

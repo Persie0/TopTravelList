@@ -1,0 +1,17 @@
+id: sight-kr-bulguksa-temple
+name: "Bulguksa Temple"
+location:
+  country_code: KR
+  latitude: 35.79
+  longitude: 129.332
+scores:
+  impact: 9.8
+  uniqueness: 9.9
+  significance: 10
+  experience: 9.8
+  depth: 9.6
+  categories:
+    history: 10
+    architecture: 10
+    culture: 10
+    photography: 9.9

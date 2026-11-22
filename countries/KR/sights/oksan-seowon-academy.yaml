@@ -1,0 +1,16 @@
+id: sight-kr-oksan-seowon-academy
+name: "Oksan Seowon Confucian Academy"
+location:
+  country_code: KR
+  latitude: 35.999
+  longitude: 129.163
+scores:
+  impact: 9.1
+  uniqueness: 9.6
+  significance: 10
+  experience: 9.4
+  depth: 9.1
+  categories:
+    history: 10
+    architecture: 9.5
+    culture: 9.6

@@ -1,0 +1,16 @@
+id: sight-kr-tomb-of-king-muryeong
+name: "Tomb of King Muryeong"
+location:
+  country_code: KR
+  latitude: 36.4595
+  longitude: 127.1008
+scores:
+  impact: 9.2
+  uniqueness: 9.8
+  significance: 10
+  experience: 9.3
+  depth: 8.7
+  categories:
+    history: 10
+    architecture: 9.2
+    culture: 9.4

@@ -1,0 +1,15 @@
+id: city-kr-naju
+name: "Naju"
+location:
+  country_code: KR
+  latitude: 35.0159
+  longitude: 126.7108
+scores:
+  impact: 7.7
+  uniqueness: 8
+  significance: 8.5
+  experience: 8.3
+  depth: 8.1
+  categories:
+    history: 8.8
+    culture: 8.5

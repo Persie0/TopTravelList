@@ -1,0 +1,17 @@
+id: sight-kr-baekje-cultural-land
+name: "Baekje Cultural Land"
+location:
+  country_code: KR
+  latitude: 36.3081
+  longitude: 126.9274
+scores:
+  impact: 9
+  uniqueness: 9.4
+  significance: 9.4
+  experience: 9.5
+  depth: 9.7
+  categories:
+    history: 9.7
+    architecture: 9.8
+    culture: 9.5
+    family: 9.2

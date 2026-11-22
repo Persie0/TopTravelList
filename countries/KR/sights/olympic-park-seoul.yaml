@@ -1,0 +1,16 @@
+id: sight-kr-olympic-park-seoul
+name: "Olympic Park Seoul"
+location:
+  country_code: KR
+  latitude: 37.5205
+  longitude: 127.121
+scores:
+  impact: 8.4
+  uniqueness: 8.7
+  significance: 8.8
+  experience: 9
+  depth: 9.1
+  categories:
+    nature: 8.6
+    history: 8.9
+    family: 9

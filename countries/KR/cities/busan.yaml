@@ -1,0 +1,19 @@
+id: city-kr-busan
+name: "Busan"
+location:
+  country_code: KR
+  latitude: 35.1796
+  longitude: 129.0756
+scores:
+  impact: 9.4
+  uniqueness: 9.1
+  significance: 8.7
+  experience: 9.5
+  depth: 9.6
+  categories:
+    beaches: 9.2
+    nature: 9.1
+    architecture: 8.9
+    food: 9.8
+    nightlife: 9.3
+    photography: 9.5

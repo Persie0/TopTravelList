@@ -1,0 +1,16 @@
+id: sight-kr-daecheon-beach
+name: "Daecheon Beach"
+location:
+  country_code: KR
+  latitude: 36.3096
+  longitude: 126.5168
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 8.1
+  experience: 9.2
+  depth: 9.3
+  categories:
+    beaches: 9.1
+    culture: 9.1
+    family: 9.2

@@ -1,0 +1,17 @@
+id: sight-kr-cheongsando-island
+name: "Cheongsando Island"
+location:
+  country_code: KR
+  latitude: 34.193
+  longitude: 126.858
+scores:
+  impact: 9.1
+  uniqueness: 9.5
+  significance: 8.5
+  experience: 9.5
+  depth: 9.5
+  categories:
+    nature: 9.8
+    relaxation: 9.7
+    photography: 9.8
+    adventure: 8.8

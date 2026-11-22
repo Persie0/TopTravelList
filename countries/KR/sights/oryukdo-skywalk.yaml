@@ -1,0 +1,16 @@
+id: sight-kr-oryukdo-skywalk
+name: "Oryukdo Skywalk"
+location:
+  country_code: KR
+  latitude: 35.099
+  longitude: 129.125
+scores:
+  impact: 9
+  uniqueness: 9.4
+  significance: 7.6
+  experience: 9.4
+  depth: 8
+  categories:
+    nature: 9.6
+    photography: 10
+    adventure: 9

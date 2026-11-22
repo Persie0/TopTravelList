@@ -1,0 +1,16 @@
+id: sight-kr-eurwangni-beach
+name: "Eurwangni Beach"
+location:
+  country_code: KR
+  latitude: 37.447
+  longitude: 126.372
+scores:
+  impact: 7.9
+  uniqueness: 8
+  significance: 7.2
+  experience: 8.7
+  depth: 8.1
+  categories:
+    beaches: 8.6
+    photography: 8.6
+    relaxation: 8.7

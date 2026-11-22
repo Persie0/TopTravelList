@@ -1,0 +1,15 @@
+id: sight-kr-third-infiltration-tunnel
+name: "Third Infiltration Tunnel"
+location:
+  country_code: KR
+  latitude: 37.916
+  longitude: 126.696
+scores:
+  impact: 8.9
+  uniqueness: 9.9
+  significance: 9.9
+  experience: 9.1
+  depth: 8.5
+  categories:
+    history: 10
+    adventure: 9

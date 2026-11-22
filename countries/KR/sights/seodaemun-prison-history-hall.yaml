@@ -1,0 +1,15 @@
+id: sight-kr-seodaemun-prison-history-hall
+name: "Seodaemun Prison History Hall"
+location:
+  country_code: KR
+  latitude: 37.5724
+  longitude: 126.9599
+scores:
+  impact: 8.8
+  uniqueness: 9.3
+  significance: 9.9
+  experience: 9.1
+  depth: 8.8
+  categories:
+    history: 10
+    culture: 9.3

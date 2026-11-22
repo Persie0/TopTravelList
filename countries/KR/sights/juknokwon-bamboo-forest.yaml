@@ -1,0 +1,16 @@
+id: sight-kr-juknokwon-bamboo-forest
+name: "Juknokwon Bamboo Forest"
+location:
+  country_code: KR
+  latitude: 35.327
+  longitude: 126.985
+scores:
+  impact: 8.9
+  uniqueness: 9.4
+  significance: 8.3
+  experience: 9.5
+  depth: 9.2
+  categories:
+    nature: 9.6
+    photography: 9.7
+    relaxation: 9.7

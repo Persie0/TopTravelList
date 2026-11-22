@@ -1,0 +1,16 @@
+id: sight-kr-war-memorial-of-korea
+name: "War Memorial of Korea"
+location:
+  country_code: KR
+  latitude: 37.5367
+  longitude: 126.977
+scores:
+  impact: 9
+  uniqueness: 9.2
+  significance: 9.9
+  experience: 9.4
+  depth: 9.4
+  categories:
+    history: 10
+    culture: 9.5
+    family: 9.1

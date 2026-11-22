@@ -1,0 +1,17 @@
+id: sight-kr-jirisan-national-park
+name: "Jirisan National Park"
+location:
+  country_code: KR
+  latitude: 35.351
+  longitude: 127.678
+scores:
+  impact: 9.7
+  uniqueness: 9.7
+  significance: 9.1
+  experience: 9.8
+  depth: 9.9
+  categories:
+    nature: 10
+    adventure: 10
+    wildlife: 9.6
+    photography: 9.7

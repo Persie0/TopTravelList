@@ -1,0 +1,17 @@
+id: sight-kr-gwangjang-market
+name: "Gwangjang Market"
+location:
+  country_code: KR
+  latitude: 37.57
+  longitude: 126.9995
+scores:
+  impact: 9.3
+  uniqueness: 9.4
+  significance: 9.2
+  experience: 9.6
+  depth: 9.3
+  categories:
+    food: 10
+    culture: 9.7
+    history: 9.2
+    photography: 9.2

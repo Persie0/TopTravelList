@@ -1,0 +1,17 @@
+id: sight-kr-odaesan-national-park
+name: "Odaesan National Park"
+location:
+  country_code: KR
+  latitude: 37.75
+  longitude: 128.57
+scores:
+  impact: 9.1
+  uniqueness: 9.3
+  significance: 9
+  experience: 9.6
+  depth: 9.7
+  categories:
+    nature: 9.8
+    adventure: 9.5
+    relaxation: 9.4
+    photography: 9.5

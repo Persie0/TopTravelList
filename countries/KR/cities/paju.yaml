@@ -1,0 +1,16 @@
+id: city-kr-paju
+name: "Paju"
+location:
+  country_code: KR
+  latitude: 37.7599
+  longitude: 126.7801
+scores:
+  impact: 8.4
+  uniqueness: 8.8
+  significance: 9
+  experience: 8.7
+  depth: 8.6
+  categories:
+    history: 9.5
+    culture: 8.6
+    photography: 8.5

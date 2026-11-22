@@ -1,0 +1,16 @@
+id: city-kr-donghae
+name: "Donghae"
+location:
+  country_code: KR
+  latitude: 37.5247
+  longitude: 129.1143
+scores:
+  impact: 8.1
+  uniqueness: 8.4
+  significance: 7.9
+  experience: 8.8
+  depth: 8.5
+  categories:
+    nature: 9
+    beaches: 8.8
+    photography: 9.3

@@ -1,0 +1,15 @@
+id: sight-kr-gongju-national-museum
+name: "Gongju National Museum"
+location:
+  country_code: KR
+  latitude: 36.4625
+  longitude: 127.112
+scores:
+  impact: 8.6
+  uniqueness: 9
+  significance: 9.8
+  experience: 9.3
+  depth: 9.2
+  categories:
+    history: 10
+    culture: 9.7

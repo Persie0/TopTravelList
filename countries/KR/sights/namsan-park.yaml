@@ -1,0 +1,16 @@
+id: sight-kr-namsan-park
+name: "Namsan Park"
+location:
+  country_code: KR
+  latitude: 37.551
+  longitude: 126.991
+scores:
+  impact: 8.8
+  uniqueness: 8.6
+  significance: 8.7
+  experience: 9.2
+  depth: 9
+  categories:
+    nature: 8.8
+    photography: 9.7
+    relaxation: 8.8

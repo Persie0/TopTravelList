@@ -1,0 +1,16 @@
+id: sight-kr-cheollipo-arboretum
+name: "Cheollipo Arboretum"
+location:
+  country_code: KR
+  latitude: 36.802
+  longitude: 126.148
+scores:
+  impact: 8.8
+  uniqueness: 9.4
+  significance: 8.6
+  experience: 9.4
+  depth: 9.3
+  categories:
+    nature: 9.5
+    photography: 9.5
+    relaxation: 9.5

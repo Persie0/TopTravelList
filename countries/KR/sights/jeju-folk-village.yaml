@@ -1,0 +1,17 @@
+id: sight-kr-jeju-folk-village
+name: "Jeju Folk Village"
+location:
+  country_code: KR
+  latitude: 33.322
+  longitude: 126.842
+scores:
+  impact: 9
+  uniqueness: 9.3
+  significance: 9.7
+  experience: 9.4
+  depth: 9.5
+  categories:
+    history: 9.7
+    architecture: 9.2
+    culture: 9.9
+    family: 9.3

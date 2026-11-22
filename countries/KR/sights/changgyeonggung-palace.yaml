@@ -1,0 +1,16 @@
+id: sight-kr-changgyeonggung-palace
+name: "Changgyeonggung Palace"
+location:
+  country_code: KR
+  latitude: 37.5786
+  longitude: 126.9957
+scores:
+  impact: 8.8
+  uniqueness: 9
+  significance: 9.3
+  experience: 9
+  depth: 8.9
+  categories:
+    architecture: 9.4
+    history: 9.5
+    culture: 9.2

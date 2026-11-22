@@ -1,0 +1,16 @@
+id: sight-kr-sokcho-central-market
+name: "Sokcho Tourist and Fish Market"
+location:
+  country_code: KR
+  latitude: 38.204
+  longitude: 128.59
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 8.2
+  experience: 9.4
+  depth: 9.2
+  categories:
+    food: 9.7
+    culture: 9.1
+    photography: 8.8

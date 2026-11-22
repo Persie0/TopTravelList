@@ -1,0 +1,17 @@
+id: sight-kr-saryeoni-forest-path
+name: "Saryeoni Forest Path"
+location:
+  country_code: KR
+  latitude: 33.434
+  longitude: 126.644
+scores:
+  impact: 9.1
+  uniqueness: 9.3
+  significance: 8.3
+  experience: 9.6
+  depth: 9.5
+  categories:
+    nature: 9.8
+    adventure: 9.4
+    photography: 9.6
+    relaxation: 9.5

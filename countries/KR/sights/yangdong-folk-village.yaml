@@ -1,0 +1,17 @@
+id: sight-kr-yangdong-folk-village
+name: "Yangdong Folk Village"
+location:
+  country_code: KR
+  latitude: 36.0011
+  longitude: 129.2538
+scores:
+  impact: 9.5
+  uniqueness: 9.8
+  significance: 10
+  experience: 9.6
+  depth: 9.6
+  categories:
+    history: 10
+    architecture: 9.9
+    culture: 10
+    photography: 9.6

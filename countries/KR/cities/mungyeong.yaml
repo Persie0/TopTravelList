@@ -1,0 +1,16 @@
+id: city-kr-mungyeong
+name: "Mungyeong"
+location:
+  country_code: KR
+  latitude: 36.5866
+  longitude: 128.1867
+scores:
+  impact: 8.3
+  uniqueness: 8.7
+  significance: 8.9
+  experience: 8.8
+  depth: 8.7
+  categories:
+    nature: 9
+    history: 9.2
+    adventure: 8.7

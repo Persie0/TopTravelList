@@ -1,0 +1,15 @@
+id: city-kr-gwangyang
+name: "Gwangyang"
+location:
+  country_code: KR
+  latitude: 34.9407
+  longitude: 127.6959
+scores:
+  impact: 7.5
+  uniqueness: 7.8
+  significance: 7.6
+  experience: 8.3
+  depth: 8.5
+  categories:
+    nature: 8.5
+    food: 8.4

@@ -1,0 +1,16 @@
+id: sight-kr-seokchon-lake
+name: "Seokchon Lake"
+location:
+  country_code: KR
+  latitude: 37.5104
+  longitude: 127.1034
+scores:
+  impact: 8.5
+  uniqueness: 8.6
+  significance: 7.8
+  experience: 9
+  depth: 8.5
+  categories:
+    nature: 8.5
+    photography: 9.3
+    relaxation: 9.2

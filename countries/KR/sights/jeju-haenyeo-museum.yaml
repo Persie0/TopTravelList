@@ -1,0 +1,15 @@
+id: sight-kr-jeju-haenyeo-museum
+name: "Jeju Haenyeo Museum"
+location:
+  country_code: KR
+  latitude: 33.524
+  longitude: 126.862
+scores:
+  impact: 9.2
+  uniqueness: 9.8
+  significance: 10
+  experience: 9.4
+  depth: 8.9
+  categories:
+    history: 10
+    culture: 10

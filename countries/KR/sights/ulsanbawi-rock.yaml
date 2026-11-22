@@ -1,0 +1,16 @@
+id: sight-kr-ulsanbawi-rock
+name: "Ulsanbawi Rock"
+location:
+  country_code: KR
+  latitude: 38.176
+  longitude: 128.47
+scores:
+  impact: 9.7
+  uniqueness: 9.9
+  significance: 8.6
+  experience: 9.7
+  depth: 8.9
+  categories:
+    nature: 10
+    adventure: 9.8
+    photography: 10

@@ -1,0 +1,17 @@
+id: sight-kr-byeongsan-seowon-academy
+name: "Byeongsan Seowon Confucian Academy"
+location:
+  country_code: KR
+  latitude: 36.5354
+  longitude: 128.512
+scores:
+  impact: 9.3
+  uniqueness: 9.8
+  significance: 10
+  experience: 9.4
+  depth: 8.9
+  categories:
+    history: 10
+    architecture: 9.8
+    culture: 9.8
+    photography: 9.5

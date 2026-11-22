@@ -1,0 +1,16 @@
+id: sight-kr-gochang-dolmen-site
+name: "Gochang Dolmen Site"
+location:
+  country_code: KR
+  latitude: 35.442
+  longitude: 126.634
+scores:
+  impact: 9.2
+  uniqueness: 9.8
+  significance: 10
+  experience: 9.1
+  depth: 9
+  categories:
+    history: 10
+    culture: 9.7
+    photography: 9.2

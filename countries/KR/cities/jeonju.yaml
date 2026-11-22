@@ -1,0 +1,18 @@
+id: city-kr-jeonju
+name: "Jeonju"
+location:
+  country_code: KR
+  latitude: 35.8242
+  longitude: 127.148
+scores:
+  impact: 9.4
+  uniqueness: 9.2
+  significance: 9.4
+  experience: 9.6
+  depth: 9.5
+  categories:
+    history: 9.6
+    architecture: 9.5
+    culture: 9.7
+    food: 9.8
+    photography: 9.4

@@ -1,0 +1,16 @@
+id: sight-kr-sorae-ecological-park
+name: "Sorae Ecology Park"
+location:
+  country_code: KR
+  latitude: 37.4034
+  longitude: 126.7448
+scores:
+  impact: 8
+  uniqueness: 8.2
+  significance: 7.8
+  experience: 8.9
+  depth: 8.5
+  categories:
+    nature: 8.9
+    wildlife: 8.7
+    photography: 9.2

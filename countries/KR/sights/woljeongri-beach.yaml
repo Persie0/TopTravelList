@@ -1,0 +1,16 @@
+id: sight-kr-woljeongri-beach
+name: "Woljeongri Beach"
+location:
+  country_code: KR
+  latitude: 33.558
+  longitude: 126.798
+scores:
+  impact: 9
+  uniqueness: 9.3
+  significance: 7.1
+  experience: 9.5
+  depth: 9.3
+  categories:
+    beaches: 9.5
+    photography: 9.8
+    relaxation: 9.5

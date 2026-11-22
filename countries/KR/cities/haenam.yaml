@@ -1,0 +1,16 @@
+id: city-kr-haenam
+name: "Haenam"
+location:
+  country_code: KR
+  latitude: 34.5736
+  longitude: 126.5989
+scores:
+  impact: 8.1
+  uniqueness: 8.7
+  significance: 8.6
+  experience: 8.8
+  depth: 8.8
+  categories:
+    nature: 9.1
+    history: 9
+    photography: 9.2

@@ -1,0 +1,15 @@
+id: city-kr-taebaek
+name: "Taebaek"
+location:
+  country_code: KR
+  latitude: 37.1641
+  longitude: 128.9856
+scores:
+  impact: 7.8
+  uniqueness: 8.2
+  significance: 7.6
+  experience: 8.4
+  depth: 8.3
+  categories:
+    nature: 9
+    adventure: 8.6

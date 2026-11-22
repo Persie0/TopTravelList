@@ -1,0 +1,16 @@
+id: sight-kr-jeongnimsa-temple-site
+name: "Jeongnimsa Temple Site"
+location:
+  country_code: KR
+  latitude: 36.2765
+  longitude: 126.9114
+scores:
+  impact: 9
+  uniqueness: 9.8
+  significance: 10
+  experience: 9.2
+  depth: 8.8
+  categories:
+    history: 10
+    architecture: 9.6
+    culture: 9.5

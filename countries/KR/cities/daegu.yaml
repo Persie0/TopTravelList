@@ -1,0 +1,17 @@
+id: city-kr-daegu
+name: "Daegu"
+location:
+  country_code: KR
+  latitude: 35.8714
+  longitude: 128.6014
+scores:
+  impact: 8.2
+  uniqueness: 8
+  significance: 8.2
+  experience: 8.6
+  depth: 8.8
+  categories:
+    history: 8.5
+    culture: 8.7
+    food: 9.1
+    architecture: 8.1

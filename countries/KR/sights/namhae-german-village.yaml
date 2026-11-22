@@ -1,0 +1,16 @@
+id: sight-kr-namhae-german-village
+name: "Namhae German Village"
+location:
+  country_code: KR
+  latitude: 34.8
+  longitude: 128.04
+scores:
+  impact: 8.8
+  uniqueness: 9.4
+  significance: 8.7
+  experience: 9.2
+  depth: 8.8
+  categories:
+    culture: 9.1
+    architecture: 9.1
+    photography: 9.7

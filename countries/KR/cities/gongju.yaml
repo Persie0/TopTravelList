@@ -1,0 +1,16 @@
+id: city-kr-gongju
+name: "Gongju"
+location:
+  country_code: KR
+  latitude: 36.4465
+  longitude: 127.119
+scores:
+  impact: 8.8
+  uniqueness: 9.2
+  significance: 9.7
+  experience: 9.1
+  depth: 8.6
+  categories:
+    history: 10
+    architecture: 9.2
+    culture: 9.1

@@ -1,0 +1,17 @@
+id: sight-kr-seoul-city-wall
+name: "Seoul City Wall (Hanyangdoseong)"
+location:
+  country_code: KR
+  latitude: 37.5843
+  longitude: 126.9585
+scores:
+  impact: 9.1
+  uniqueness: 9.5
+  significance: 9.7
+  experience: 9.5
+  depth: 9.6
+  categories:
+    history: 9.9
+    architecture: 9.3
+    adventure: 8.9
+    photography: 9.5

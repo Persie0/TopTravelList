@@ -1,0 +1,16 @@
+id: sight-kr-bongeunsa-temple
+name: "Bongeunsa Temple"
+location:
+  country_code: KR
+  latitude: 37.515
+  longitude: 127.0575
+scores:
+  impact: 8.6
+  uniqueness: 9.1
+  significance: 9.1
+  experience: 8.9
+  depth: 8.7
+  categories:
+    architecture: 9.4
+    culture: 9.4
+    photography: 9.1

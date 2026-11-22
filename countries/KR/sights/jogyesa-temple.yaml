@@ -1,0 +1,16 @@
+id: sight-kr-jogyesa-temple
+name: "Jogyesa Temple"
+location:
+  country_code: KR
+  latitude: 37.5739
+  longitude: 126.982
+scores:
+  impact: 8.8
+  uniqueness: 9
+  significance: 9.2
+  experience: 8.9
+  depth: 8.4
+  categories:
+    architecture: 9.3
+    culture: 9.5
+    history: 9.1

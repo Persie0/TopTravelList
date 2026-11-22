@@ -1,0 +1,15 @@
+id: sight-kr-paju-book-city
+name: "Paju Book City"
+location:
+  country_code: KR
+  latitude: 37.7106
+  longitude: 126.6873
+scores:
+  impact: 8.4
+  uniqueness: 9.2
+  significance: 8.8
+  experience: 9
+  depth: 8.9
+  categories:
+    architecture: 9.4
+    culture: 9.6

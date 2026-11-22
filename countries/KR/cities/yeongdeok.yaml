@@ -1,0 +1,16 @@
+id: city-kr-yeongdeok
+name: "Yeongdeok"
+location:
+  country_code: KR
+  latitude: 36.4153
+  longitude: 129.3656
+scores:
+  impact: 8
+  uniqueness: 8.2
+  significance: 7.9
+  experience: 8.7
+  depth: 8.8
+  categories:
+    nature: 8.9
+    food: 8.9
+    photography: 9

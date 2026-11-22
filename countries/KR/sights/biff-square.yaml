@@ -1,0 +1,16 @@
+id: sight-kr-biff-square
+name: "BIFF Square"
+location:
+  country_code: KR
+  latitude: 35.0989
+  longitude: 129.0302
+scores:
+  impact: 8.4
+  uniqueness: 9.1
+  significance: 8.8
+  experience: 9.3
+  depth: 8.9
+  categories:
+    culture: 9.4
+    food: 9.6
+    nightlife: 8.8

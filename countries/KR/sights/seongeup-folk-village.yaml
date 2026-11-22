@@ -1,0 +1,16 @@
+id: sight-kr-seongeup-folk-village
+name: "Seongeup Folk Village"
+location:
+  country_code: KR
+  latitude: 33.385
+  longitude: 126.801
+scores:
+  impact: 9.1
+  uniqueness: 9.6
+  significance: 9.8
+  experience: 9.4
+  depth: 9.4
+  categories:
+    history: 9.9
+    culture: 9.9
+    architecture: 9.4

@@ -1,0 +1,17 @@
+id: city-kr-suncheon
+name: "Suncheon"
+location:
+  country_code: KR
+  latitude: 34.9506
+  longitude: 127.4872
+scores:
+  impact: 9.1
+  uniqueness: 9.4
+  significance: 8.8
+  experience: 9.5
+  depth: 9.4
+  categories:
+    nature: 9.9
+    wildlife: 9.4
+    photography: 9.7
+    relaxation: 9.2

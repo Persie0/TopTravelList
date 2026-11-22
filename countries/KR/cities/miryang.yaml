@@ -1,0 +1,15 @@
+id: city-kr-miryang
+name: "Miryang"
+location:
+  country_code: KR
+  latitude: 35.5038
+  longitude: 128.7466
+scores:
+  impact: 8
+  uniqueness: 8.4
+  significance: 8.6
+  experience: 8.6
+  depth: 8.4
+  categories:
+    history: 8.9
+    nature: 8.8

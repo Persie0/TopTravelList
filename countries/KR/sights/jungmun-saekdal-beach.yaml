@@ -1,0 +1,16 @@
+id: sight-kr-jungmun-saekdal-beach
+name: "Jungmun Saekdal Beach"
+location:
+  country_code: KR
+  latitude: 33.245
+  longitude: 126.414
+scores:
+  impact: 9
+  uniqueness: 9.2
+  significance: 7.2
+  experience: 9.6
+  depth: 9
+  categories:
+    beaches: 9.7
+    nature: 9.3
+    adventure: 9.1

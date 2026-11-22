@@ -1,0 +1,16 @@
+id: sight-kr-taehwagang-national-garden
+name: "Taehwagang National Garden"
+location:
+  country_code: KR
+  latitude: 35.552
+  longitude: 129.302
+scores:
+  impact: 8.8
+  uniqueness: 9.3
+  significance: 8.2
+  experience: 9.6
+  depth: 9.3
+  categories:
+    nature: 9.5
+    photography: 9.6
+    relaxation: 9.6

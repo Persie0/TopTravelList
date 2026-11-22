@@ -1,0 +1,17 @@
+id: sight-kr-geumjeongsanseong-fortress
+name: "Geumjeongsanseong Fortress"
+location:
+  country_code: KR
+  latitude: 35.275
+  longitude: 129.052
+scores:
+  impact: 9
+  uniqueness: 9.4
+  significance: 9.5
+  experience: 9.5
+  depth: 9.5
+  categories:
+    history: 9.8
+    nature: 9.3
+    adventure: 9.2
+    photography: 9.5

@@ -1,0 +1,18 @@
+id: city-kr-yeosu
+name: "Yeosu"
+location:
+  country_code: KR
+  latitude: 34.7604
+  longitude: 127.6622
+scores:
+  impact: 9.1
+  uniqueness: 9
+  significance: 8.3
+  experience: 9.4
+  depth: 9.4
+  categories:
+    nature: 9.4
+    beaches: 8.6
+    food: 9.3
+    photography: 9.7
+    nightlife: 8.6

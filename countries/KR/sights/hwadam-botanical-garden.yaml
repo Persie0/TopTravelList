@@ -1,0 +1,16 @@
+id: sight-kr-hwadam-botanical-garden
+name: "Hwadam Botanic Garden"
+location:
+  country_code: KR
+  latitude: 37.3425
+  longitude: 127.281
+scores:
+  impact: 9
+  uniqueness: 9.2
+  significance: 8.1
+  experience: 9.5
+  depth: 9.1
+  categories:
+    nature: 9.7
+    photography: 9.8
+    relaxation: 9.4

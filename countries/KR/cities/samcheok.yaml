@@ -1,0 +1,17 @@
+id: city-kr-samcheok
+name: "Samcheok"
+location:
+  country_code: KR
+  latitude: 37.4499
+  longitude: 129.1653
+scores:
+  impact: 8.3
+  uniqueness: 8.7
+  significance: 7.7
+  experience: 8.9
+  depth: 9
+  categories:
+    nature: 9.3
+    beaches: 8.8
+    photography: 9.3
+    adventure: 8.9

@@ -1,0 +1,15 @@
+id: sight-kr-busan-x-the-sky
+name: "BUSAN X the SKY"
+location:
+  country_code: KR
+  latitude: 35.1603
+  longitude: 129.1694
+scores:
+  impact: 9.2
+  uniqueness: 9.4
+  significance: 7.5
+  experience: 9.4
+  depth: 8.6
+  categories:
+    architecture: 9.5
+    photography: 10

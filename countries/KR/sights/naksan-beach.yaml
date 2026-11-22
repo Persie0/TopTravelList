@@ -1,0 +1,16 @@
+id: sight-kr-naksan-beach
+name: "Naksan Beach"
+location:
+  country_code: KR
+  latitude: 38.117
+  longitude: 128.632
+scores:
+  impact: 8.4
+  uniqueness: 8.5
+  significance: 7.1
+  experience: 9
+  depth: 8.4
+  categories:
+    beaches: 9
+    photography: 9
+    relaxation: 9.1

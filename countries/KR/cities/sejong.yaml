@@ -1,0 +1,15 @@
+id: city-kr-sejong
+name: "Sejong"
+location:
+  country_code: KR
+  latitude: 36.48
+  longitude: 127.289
+scores:
+  impact: 6.7
+  uniqueness: 6.7
+  significance: 7.4
+  experience: 7.5
+  depth: 7.3
+  categories:
+    architecture: 7.9
+    culture: 7.5

@@ -1,0 +1,17 @@
+id: sight-kr-taeanhaean-national-park
+name: "Taeanhaean National Park"
+location:
+  country_code: KR
+  latitude: 36.73
+  longitude: 126.24
+scores:
+  impact: 9
+  uniqueness: 9.1
+  significance: 8.3
+  experience: 9.5
+  depth: 9.6
+  categories:
+    nature: 9.7
+    beaches: 9.3
+    wildlife: 9.1
+    photography: 9.6

@@ -1,0 +1,17 @@
+id: city-kr-tongyeong
+name: "Tongyeong"
+location:
+  country_code: KR
+  latitude: 34.8544
+  longitude: 128.4332
+scores:
+  impact: 9.1
+  uniqueness: 9
+  significance: 8.5
+  experience: 9.4
+  depth: 9.4
+  categories:
+    nature: 9.6
+    food: 9.4
+    photography: 9.8
+    culture: 9
