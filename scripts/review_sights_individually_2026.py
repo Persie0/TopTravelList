@@ -120,6 +120,7 @@ def fmt(v) -> str:
 
 def read_decisions() -> dict:
     decisions = {}
+    approvals = json.loads((ROOT / "methodology/scoring.json").read_text(encoding="utf-8"))["global_ten_anchors"]
     for code in COUNTRY_CODES:
         src = DECISIONS / f"{code}.tsv"
         if not src.exists():
@@ -135,8 +136,12 @@ def read_decisions() -> dict:
             if key in decisions:
                 raise ValueError(f"Duplicate decision {key}")
             numbers = [Decimal(s) for s in scores_csv.split(",")]
-            if len(numbers) != 5 or any(v < 0 or v > Decimal("9.9") or v.as_tuple().exponent < -1 for v in numbers):
+            if len(numbers) != 5 or any(v < 0 or v > Decimal("10.0") or v.as_tuple().exponent < -1 for v in numbers):
                 raise ValueError(f"Invalid dimension scores for {key}")
+            identifier = f"sight-{code.lower()}-{slug}"
+            for dim, val in zip(FIELDS, numbers):
+                if val == 10 and identifier not in approvals.get(dim, []):
+                    raise ValueError(f"Unapproved exact global ten in {key}/{dim}")
             categories = {}
             if cats_csv != "-":
                 for assignment in cats_csv.split(","):
@@ -147,6 +152,8 @@ def read_decisions() -> dict:
                     categories[cat] = v
             if len(reason) < 60 or "\n" in reason:
                 raise ValueError(f"Site-specific review reason missing: {key}")
+            if "Source:" in reason and "Source: https://" not in reason:
+                raise ValueError(f"Malformed evidence URL: {key}")
             decisions[key] = (numbers, categories, reason)
     return decisions
 
@@ -243,7 +250,8 @@ def make_reports(records, baseline, decisions):
         cls = peer_class(rec["name"], rec["scores"]["categories"])
         diagnostic = flags(rec, cls)
         targeted = key in decisions
-        label = "Explicit desk-based reassessment" if targeted else "Automated screening only"
+        label = ("Evidence-referenced individual desk review" if targeted and "Source: https://" in decisions[key][2]
+                 else "Explicit desk-based reassessment" if targeted else "Automated screening only")
         reason = decisions[key][2] if targeted else (
             "No new site-specific evidence adjudicated; current score retained pending independent research."
         )
@@ -251,7 +259,8 @@ def make_reports(records, baseline, decisions):
         by_country[code].append((old, new, targeted, bool(diagnostic)))
 
     total = len(details)
-    targeted_count = sum(x[5] == "Explicit desk-based reassessment" for x in details)
+    targeted_count = sum(x[0] in decisions for x in details)
+    supported_count = sum(x[0] in decisions and "Source: https://" in decisions[x[0]][2] for x in details)
     changed = sum(x[2] != x[3] for x in details)
     flags_count = sum(bool(x[7]) for x in details)
     high_unchanged = sum(x[3] >= 90 and x[5] == "Automated screening only" for x in details)
@@ -263,7 +272,8 @@ def make_reports(records, baseline, decisions):
         "historical records, not current instructions to overwrite the newly revised YAML.",
         "",
         f"**{total} records individually enumerated and diagnostically screened**, including "
-        f"**{targeted_count} sight-specific desk-based editorial reassessments**, "
+        f"**{targeted_count} sight-specific desk-based editorial decisions** "
+        f"(including **{supported_count} newly evidence-referenced reviews**), "
         f"**{changed} numeric score changes**, and "
         f"**{total-targeted_count} automatically screened, unchanged records**.",
         "",
@@ -348,6 +358,7 @@ def make_reports(records, baseline, decisions):
     return summary, full, {
         "records": total,
         "targeted": targeted_count,
+        "source_referenced": supported_count,
         "changed": changed,
         "screened_only": total-targeted_count,
         "flagged": flags_count,
@@ -417,8 +428,9 @@ def main():
     write_checked(AUDIT, full, args.check)
     stats_file = ROOT / "methodology" / "sight-review-2026-stats.json"
     write_checked(stats_file, json.dumps(stats, indent=2, sort_keys=True) + "\n", args.check)
-    assert stats["targeted"] == len(decisions) == 149
-    assert stats["screened_only"] == 1764
+    assert stats["targeted"] == len(decisions) == 210
+    assert stats["screened_only"] == 1703
+    assert stats["source_referenced"] == 61
     if args.check:
         assert modified == 0
     print(
