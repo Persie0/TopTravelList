@@ -2,7 +2,7 @@
 
 # Cambodia (KH) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**72 ranked** · **0 unassessed** · **72 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,84 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, or click its GPS coordinates to open **Google Maps**. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+**Access advisory (checked 22 November 2026):** Cambodian–Thai border heritage sites such as Preah Vihear are reported closed; this ranking is not a safety or admission status indicator. Consult [current government travel advice](https://www.gov.uk/foreign-travel-advice/cambodia) before visiting.
 
-No cities, towns & villages have been assessed for **Cambodia** yet.
+## Complete ranked list (72)
 
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps |
+| ---: | --- | --- | ---: | --- | --- | --- |
+| 1 | [Siem Reap](cities/siem-reap.yaml) | City / town | **96.65** | **Architecture 9.9**, **History 9.9**, **Culture 9.8**, Photography 9.8, Food 9.5 | 9.6 / 9.7 / 9.8 / 9.6 / 9.6 | [13.3671, 103.8448](https://www.google.com/maps/search/?api=1&query=13.3671,103.8448) |
+| 2 | [Phnom Penh](cities/phnom-penh.yaml) | City / town | **93.80** | **Culture 9.7**, **History 9.7**, **Food 9.6**, Architecture 9.4, Nightlife 9.2, Photography 9.1 | 9.3 / 9.2 / 9.6 / 9.4 / 9.6 | [11.5564, 104.9282](https://www.google.com/maps/search/?api=1&query=11.5564,104.9282) |
+| 3 | [Angkor Borei](cities/angkor-borei.yaml) | City / town | **92.55** | **History 9.9**, **Culture 9.6**, **Architecture 9.5** | 8.9 / 9.5 / 9.7 / 9.2 / 8.9 | [10.989, 104.986](https://www.google.com/maps/search/?api=1&query=10.989,104.986) |
+| 4 | [Banteay Chhmar Village](cities/banteay-chhmar.yaml) | Village | **92.30** | **Architecture 9.8**, **History 9.8**, **Photography 9.7**, Culture 9.4 | 9.0 / 9.6 / 9.5 / 9.2 / 8.5 | [13.7537, 103.0998](https://www.google.com/maps/search/?api=1&query=13.7537,103.0998) |
+| 5 | [Oudong](cities/oudong.yaml) | City / town | **91.65** | **History 9.7**, **Architecture 9.5**, **Culture 9.5** | 8.8 / 9.3 / 9.6 / 9.2 / 9.0 | [11.816, 104.754](https://www.google.com/maps/search/?api=1&query=11.816,104.754) |
+| 6 | [Sambor Prei Kuk Village](cities/sambor-prei-kuk.yaml) | Village | **91.55** | **History 9.9**, **Architecture 9.6** | 8.8 / 9.5 / 9.7 / 9.2 / 8.2 | [12.857, 105.036](https://www.google.com/maps/search/?api=1&query=12.857,105.036) |
+| 7 | [Kampong Khleang](cities/kampong-khleang.yaml) | City / town | **91.35** | **Culture 9.7**, **Photography 9.5**, **Architecture 9.3** | 8.9 / 9.5 / 9.0 / 9.4 / 8.8 | [13.17, 104.052](https://www.google.com/maps/search/?api=1&query=13.17,104.052) |
+| 8 | [Kampot](cities/kampot.yaml) | City / town | **91.25** | **Food 9.4**, **Nature 9.4**, **Relaxation 9.4**, Photography 9.3, Culture 9.1 | 9.0 / 9.2 / 8.9 / 9.5 / 9.2 | [10.6104, 104.1815](https://www.google.com/maps/search/?api=1&query=10.6104,104.1815) |
+| 9 | [Kampong Phluk](cities/kampong-phluk.yaml) | City / town | **91.05** | **Culture 9.6**, **Photography 9.5**, **Architecture 9.3**, Nature 9.0 | 8.9 / 9.4 / 9.1 / 9.3 / 8.7 | [13.207, 103.973](https://www.google.com/maps/search/?api=1&query=13.207,103.973) |
+| 10 | [Sen Monorom](cities/sen-monorom.yaml) | City / town | **90.90** | **Nature 9.8**, **Wildlife 9.7**, **Adventure 9.2**, Culture 9.1 | 8.9 / 9.4 / 8.8 / 9.4 / 9.0 | [12.4558, 107.1872](https://www.google.com/maps/search/?api=1&query=12.4558,107.1872) |
+| 11 | [Koh Ker Village](cities/koh-ker-village.yaml) | Village | **90.85** | **History 9.9**, **Architecture 9.7**, **Photography 9.4** | 8.8 / 9.5 / 9.5 / 9.0 / 8.2 | [13.783, 104.542](https://www.google.com/maps/search/?api=1&query=13.783,104.542) |
+| 12 | [Battambang](cities/battambang.yaml) | City / town | **90.80** | **Culture 9.5**, **Architecture 9.3**, **History 9.3**, Food 9.0 | 8.9 / 9.0 / 9.2 / 9.4 / 9.1 | [13.1027, 103.1982](https://www.google.com/maps/search/?api=1&query=13.1027,103.1982) |
+| 13 | [Koh Rong Village (Koh Touch)](cities/koh-rong.yaml) | Village | **90.25** | **Beaches 9.7**, **Nature 9.5**, **Photography 9.5**, Nightlife 9.1 | 9.0 / 9.2 / 8.4 / 9.5 / 9.2 | [10.6705, 103.2725](https://www.google.com/maps/search/?api=1&query=10.6705,103.2725) |
+| 13 | [Saracen Bay](cities/saracen-bay.yaml) | City / town | **90.25** | **Beaches 9.8**, **Relaxation 9.7**, **Nature 9.4** | 8.9 / 9.5 / 8.3 / 9.6 / 8.8 | [10.579, 103.308](https://www.google.com/maps/search/?api=1&query=10.579,103.308) |
+| 15 | [Banteay Srei Village](cities/banteay-srei-village.yaml) | Village | **90.10** | **Architecture 9.8**, **History 9.6** | 8.8 / 9.3 / 9.1 / 9.1 / 8.6 | [13.57, 103.969](https://www.google.com/maps/search/?api=1&query=13.57,103.969) |
+| 16 | [Tatai Village](cities/tatai.yaml) | Village | **89.95** | **Nature 9.7**, **Photography 9.6**, **Relaxation 9.5** | 8.9 / 9.4 / 8.5 / 9.3 / 8.8 | [11.6, 103.105](https://www.google.com/maps/search/?api=1&query=11.6,103.105) |
+| 17 | [Chi Phat Village](cities/chi-phat.yaml) | Village | **89.80** | **Nature 9.7**, **Adventure 9.5**, **Wildlife 9.4** | 8.7 / 9.3 / 8.8 / 9.3 / 8.9 | [11.534, 103.191](https://www.google.com/maps/search/?api=1&query=11.534,103.191) |
+| 18 | [Phnom Kulen Village](cities/phnom-kulen-village.yaml) | Village | **89.75** | **Nature 9.7**, **History 9.5** | 8.7 / 9.3 / 9.0 / 9.2 / 8.6 | [13.571, 104.107](https://www.google.com/maps/search/?api=1&query=13.571,104.107) |
+| 19 | [Kampong Thom](cities/kampong-thom.yaml) | City / town | **89.70** | **History 9.5**, **Architecture 9.1**, **Culture 9.0** | 8.7 / 9.1 / 9.4 / 8.9 / 8.7 | [12.7112, 104.8887](https://www.google.com/maps/search/?api=1&query=12.7112,104.8887) |
+| 20 | [Kampi](cities/kampi.yaml) | City / town | **89.55** | **Wildlife 9.8**, **Nature 9.5**, **Photography 9.3** | 8.7 / 9.4 / 8.8 / 9.3 / 8.4 | [12.617, 106.039](https://www.google.com/maps/search/?api=1&query=12.617,106.039) |
+| 21 | [Banlung](cities/banlung.yaml) | City / town | **89.50** | **Nature 9.7**, **Adventure 9.4**, **Wildlife 9.3**, Culture 9.2 | 8.8 / 9.2 / 8.6 / 9.2 / 9.1 | [13.7394, 106.9873](https://www.google.com/maps/search/?api=1&query=13.7394,106.9873) |
+| 22 | [Prek Toal Village](cities/prek-toal.yaml) | Village | **89.45** | **Wildlife 9.7**, **Nature 9.6**, **Culture 9.2** | 8.7 / 9.3 / 8.8 / 9.2 / 8.7 | [13.26, 103.657](https://www.google.com/maps/search/?api=1&query=13.26,103.657) |
+| 22 | [Roluos](cities/roluos.yaml) | City / town | **89.45** | **History 9.8**, **Architecture 9.5** | 8.6 / 9.1 / 9.5 / 9.0 / 8.4 | [13.339, 103.965](https://www.google.com/maps/search/?api=1&query=13.339,103.965) |
+| 24 | [Kratie](cities/kratie.yaml) | City / town | **89.30** | **Wildlife 9.7**, **Nature 9.4**, **Photography 9.3**, Culture 9.0 | 8.7 / 9.2 / 8.7 / 9.2 / 9.0 | [12.487, 106.0188](https://www.google.com/maps/search/?api=1&query=12.487,106.0188) |
+| 25 | [Kampong Cham](cities/kampong-cham.yaml) | City / town | **88.75** | **History 9.2**, **Photography 9.1**, **Architecture 9.0**, Food 9.0 | 8.6 / 8.9 / 9.0 / 9.2 / 8.9 | [11.9924, 105.4623](https://www.google.com/maps/search/?api=1&query=11.9924,105.4623) |
+| 25 | [M'Pai Bay Village](cities/mpai-bay.yaml) | Village | **88.75** | **Beaches 9.4**, **Relaxation 9.4**, **Culture 9.0** | 8.7 / 9.3 / 8.3 / 9.4 / 8.7 | [10.627, 103.298](https://www.google.com/maps/search/?api=1&query=10.627,103.298) |
+| 27 | [Kep](cities/kep.yaml) | City / town | **88.50** | **Food 9.5**, **Relaxation 9.5**, **Nature 9.2**, Beaches 8.9 | 8.7 / 9.0 / 8.5 / 9.4 / 8.8 | [10.482, 104.2958](https://www.google.com/maps/search/?api=1&query=10.482,104.2958) |
+| 28 | [Koh Trong Village](cities/koh-trong.yaml) | Village | **88.35** | **Culture 9.4**, **Nature 9.3**, **Relaxation 9.2** | 8.6 / 9.1 / 8.7 / 9.2 / 8.6 | [12.485, 106.036](https://www.google.com/maps/search/?api=1&query=12.485,106.036) |
+| 29 | [Kampong Chhnang](cities/kampong-chhnang.yaml) | City / town | **88.15** | **Culture 9.4**, **Photography 9.1**, **History 8.9** | 8.5 / 9.0 / 8.9 / 9.1 / 8.7 | [12.25, 104.6656](https://www.google.com/maps/search/?api=1&query=12.25,104.6656) |
+| 30 | [Koh Kong Town (Khemara Phoumin)](cities/koh-kong-town.yaml) | Town | **88.10** | **Nature 9.5**, **Wildlife 9.2**, **Adventure 9.1** | 8.6 / 9.1 / 8.4 / 9.1 / 9.1 | [11.615, 102.9838](https://www.google.com/maps/search/?api=1&query=11.615,102.9838) |
+| 31 | [Preah Rumkel Village](cities/preah-rumkel.yaml) | Village | **88.00** | **Nature 9.8**, **Photography 9.4**, **Wildlife 9.4** | 8.6 / 9.3 / 8.4 / 9.1 / 8.5 | [13.953, 105.914](https://www.google.com/maps/search/?api=1&query=13.953,105.914) |
+| 32 | [Sok San Village (Koh Rong)](cities/sok-san.yaml) | Village | **87.90** | **Beaches 9.7**, **Relaxation 9.5** | 8.6 / 9.2 / 8.1 / 9.4 / 8.8 | [10.708, 103.253](https://www.google.com/maps/search/?api=1&query=10.708,103.253) |
+| 33 | [Stung Treng](cities/stung-treng.yaml) | City / town | **87.80** | **Nature 9.7**, **Wildlife 9.4**, **Adventure 9.1** | 8.5 / 9.0 / 8.6 / 9.0 / 9.1 | [13.5259, 105.9683](https://www.google.com/maps/search/?api=1&query=13.5259,105.9683) |
+| 34 | [Thma Bang](cities/thma-bang.yaml) | City / town | **87.70** | **Nature 9.8**, **Adventure 9.4** | 8.5 / 9.2 / 8.5 / 9.0 / 8.7 | [11.665, 103.36](https://www.google.com/maps/search/?api=1&query=11.665,103.36) |
+| 35 | [Koh Ta Kiev Island Village](cities/koh-ta-kiev.yaml) | Village | **87.45** | **Beaches 9.6**, **Nature 9.5**, **Relaxation 9.3** | 8.6 / 9.3 / 8.0 / 9.2 / 8.6 | [10.556, 103.63](https://www.google.com/maps/search/?api=1&query=10.556,103.63) |
+| 35 | [Mechrey Floating Village](cities/mechrey.yaml) | Village | **87.45** | **Culture 9.3**, **Photography 9.1** | 8.5 / 9.1 / 8.7 / 9.0 / 8.3 | [13.332, 103.773](https://www.google.com/maps/search/?api=1&query=13.332,103.773) |
+| 37 | [Chhlong](cities/chhlong.yaml) | City / town | **87.05** | **Architecture 9.1**, **History 9.1** | 8.3 / 9.0 / 8.9 / 8.9 / 8.5 | [12.258, 106.17](https://www.google.com/maps/search/?api=1&query=12.258,106.17) |
+| 38 | [Kampong Trach](cities/kampong-trach.yaml) | City / town | **87.00** | **Nature 9.3**, **History 9.0** | 8.3 / 9.0 / 8.8 / 9.0 / 8.5 | [10.553, 104.471](https://www.google.com/maps/search/?api=1&query=10.553,104.471) |
+| 39 | [Koh Sdach Village](cities/koh-sdach.yaml) | Village | **86.95** | **Nature 9.5**, **Beaches 9.4**, **Food 8.9** | 8.5 / 9.1 / 8.2 / 9.2 / 8.5 | [11.107, 103.132](https://www.google.com/maps/search/?api=1&query=11.107,103.132) |
+| 40 | [Longvek](cities/longvek.yaml) | City / town | **86.85** | **History 9.6**, **Culture 9.0** | 8.2 / 8.9 / 9.2 / 8.8 / 8.4 | [11.866, 104.711](https://www.google.com/maps/search/?api=1&query=11.866,104.711) |
+| 41 | [Doun Kaev (Takeo)](cities/doun-kaev.yaml) | City / town | **86.40** | **History 9.3**, **Culture 9.0** | 8.2 / 8.7 / 9.0 / 8.9 / 8.7 | [10.9908, 104.784](https://www.google.com/maps/search/?api=1&query=10.9908,104.784) |
+| 42 | [Tbeng Meanchey](cities/tbeng-meanchey.yaml) | City / town | **86.30** | **History 9.0**, **Nature 9.0** | 8.3 / 8.8 / 8.7 / 8.8 / 8.8 | [13.8075, 104.9781](https://www.google.com/maps/search/?api=1&query=13.8075,104.9781) |
+| 43 | [Phnom Santuk Village](cities/phnom-santuk.yaml) | Village | **86.25** | **Culture 9.1**, **Nature 9.0** | 8.3 / 8.9 / 8.8 / 8.8 / 8.3 | [12.549, 105.075](https://www.google.com/maps/search/?api=1&query=12.549,105.075) |
+| 44 | [Prek Svay Village (Koh Rong)](cities/prek-svay.yaml) | Village | **86.15** | **Beaches 9.4**, **Nature 9.3** | 8.4 / 9.1 / 8.0 / 9.2 / 8.4 | [10.745, 103.238](https://www.google.com/maps/search/?api=1&query=10.745,103.238) |
+| 44 | [Sra Em](cities/sra-em.yaml) | City / town | **86.15** | **History 9.2**, **Nature 9.0** | 8.2 / 8.9 / 8.9 / 8.8 / 8.3 | [14.1757, 104.5377](https://www.google.com/maps/search/?api=1&query=14.1757,104.5377) |
+| 46 | [Anlong Veng](cities/anlong-veng.yaml) | City / town | **85.70** | **History 9.4**, **Nature 8.9** | 8.1 / 8.7 / 9.1 / 8.7 / 8.4 | [14.232, 104.0815](https://www.google.com/maps/search/?api=1&query=14.232,104.0815) |
+| 47 | [Ream](cities/ream.yaml) | City / town | **85.25** | **Nature 9.3**, **Wildlife 9.0** | 8.3 / 8.8 / 8.2 / 8.9 / 8.6 | [10.54, 103.71](https://www.google.com/maps/search/?api=1&query=10.54,103.71) |
+| 48 | [Trapeang Sangkae Village](cities/trapeang-sangkae.yaml) | Village | **85.20** | **Nature 9.3**, **Wildlife 9.0** | 8.1 / 8.8 / 8.5 / 9.0 / 8.4 | [10.545, 104.235](https://www.google.com/maps/search/?api=1&query=10.545,104.235) |
+| 49 | [Siem Pang](cities/siem-pang.yaml) | City / town | **84.75** | **Wildlife 9.6**, **Nature 9.4** | 8.1 / 8.9 / 8.2 / 8.8 / 8.6 | [14.1158, 106.385](https://www.google.com/maps/search/?api=1&query=14.1158,106.385) |
+| 50 | [Sihanoukville](cities/sihanoukville.yaml) | City / town | **84.45** | **Beaches 9.0**, **Food 8.8**, **Nightlife 8.8** | 8.3 / 8.5 / 8.0 / 8.8 / 9.1 | [10.6253, 103.5234](https://www.google.com/maps/search/?api=1&query=10.6253,103.5234) |
+| 51 | [Sambor (Kratie)](cities/sambor-kratie.yaml) | City / town | **84.05** | **History 9.2**, **Nature 9.0** | 8.0 / 8.6 / 8.9 / 8.5 / 8.0 | [12.782, 106.004](https://www.google.com/maps/search/?api=1&query=12.782,106.004) |
+| 52 | [Botum Sakor Village](cities/botum-sakor.yaml) | Village | **83.95** | **Nature 9.2** | 8.0 / 8.8 / 8.2 / 8.7 / 8.5 | [11.18, 103.435](https://www.google.com/maps/search/?api=1&query=11.18,103.435) |
+| 53 | [Pailin](cities/pailin.yaml) | City / town | **83.40** | **Nature 8.9**, **History 8.8** | 7.9 / 8.6 / 8.4 / 8.6 / 8.5 | [12.8489, 102.6093](https://www.google.com/maps/search/?api=1&query=12.8489,102.6093) |
+| 54 | [Pursat](cities/pursat.yaml) | City / town | **83.10** | **Nature 9.0**, **Culture 8.6** | 7.9 / 8.5 / 8.3 / 8.7 / 8.5 | [12.5388, 103.9192](https://www.google.com/maps/search/?api=1&query=12.5388,103.9192) |
+| 55 | [Kampong Tralach](cities/kampong-tralach.yaml) | City / town | **83.00** | **History 8.9**, **Culture 8.8** | 7.8 / 8.4 / 8.6 / 8.8 / 8.2 | [11.947, 104.793](https://www.google.com/maps/search/?api=1&query=11.947,104.793) |
+| 55 | [Ta Khmau](cities/ta-khmau.yaml) | City / town | **83.00** | **Food 8.7**, **Culture 8.6** | 7.9 / 8.2 / 8.4 / 8.8 / 8.8 | [11.483, 104.949](https://www.google.com/maps/search/?api=1&query=11.483,104.949) |
+| 57 | [Otres](cities/otres.yaml) | City / town | **82.95** | **Beaches 9.1**, **Food 8.5** | 8.1 / 8.5 / 7.7 / 9.0 / 8.5 | [10.578, 103.554](https://www.google.com/maps/search/?api=1&query=10.578,103.554) |
+| 57 | [Serei Saophoan (Sisophon)](cities/serei-saophoan.yaml) | City / town | **82.95** | **Culture 8.8**, **History 8.8** | 7.9 / 8.3 / 8.5 / 8.6 / 8.6 | [13.5897, 102.9738](https://www.google.com/maps/search/?api=1&query=13.5897,102.9738) |
+| 59 | [Srayang](cities/srayang.yaml) | City / town | **82.90** | **History 8.9** | 7.8 / 8.6 / 8.7 / 8.4 / 8.0 | [13.803, 104.579](https://www.google.com/maps/search/?api=1&query=13.803,104.579) |
+| 60 | [Khvav Village](cities/khvav.yaml) | Village | **82.25** | **History 8.8**, **Nature 8.8** | 7.8 / 8.4 / 8.5 / 8.5 / 8.1 | [13.605, 104.048](https://www.google.com/maps/search/?api=1&query=13.605,104.048) |
+| 61 | [Rovieng](cities/rovieng.yaml) | City / town | **82.05** | **History 8.9**, **Nature 8.7** | 7.8 / 8.3 / 8.5 / 8.4 / 8.3 | [13.61, 104.75](https://www.google.com/maps/search/?api=1&query=13.61,104.75) |
+| 62 | [Chbar Mon](cities/chbar-mon.yaml) | City / town | **81.70** | **History 8.8** | 7.7 / 8.1 / 8.5 / 8.5 / 8.6 | [11.4673, 104.506](https://www.google.com/maps/search/?api=1&query=11.4673,104.506) |
+| 63 | [Prey Veng](cities/prey-veng.yaml) | City / town | **81.50** | **Culture 8.6**, **Food 8.6** | 7.8 / 8.1 / 8.2 / 8.7 / 8.4 | [11.4868, 105.3276](https://www.google.com/maps/search/?api=1&query=11.4868,105.3276) |
+| 64 | [Memot](cities/memot.yaml) | City / town | **80.70** | **History 8.8** | 7.6 / 8.1 / 8.4 / 8.5 / 8.1 | [11.814, 106.174](https://www.google.com/maps/search/?api=1&query=11.814,106.174) |
+| 64 | [Skun](cities/skun.yaml) | City / town | **80.70** | **Food 8.8**, **Culture 8.6** | 7.7 / 8.2 / 8.0 / 8.6 / 8.2 | [12.03, 105.006](https://www.google.com/maps/search/?api=1&query=12.03,105.006) |
+| 66 | [Peam Chi Kang](cities/peam-chi-kang.yaml) | City / town | **80.55** | **Culture 8.5** | 7.5 / 8.2 / 8.4 / 8.5 / 8.0 | [12.256, 105.493](https://www.google.com/maps/search/?api=1&query=12.256,105.493) |
+| 67 | [Suong](cities/suong.yaml) | City / town | **79.35** | **Culture 8.6** | 7.5 / 7.9 / 8.1 / 8.4 / 8.3 | [11.911, 105.661](https://www.google.com/maps/search/?api=1&query=11.911,105.661) |
+| 68 | [Preah Netr Preah](cities/preah-netr-preah.yaml) | City / town | **79.10** | **History 8.4** | 7.4 / 8.1 / 8.1 / 8.3 / 8.0 | [13.632, 103.173](https://www.google.com/maps/search/?api=1&query=13.632,103.173) |
+| 69 | [Samraong](cities/samraong.yaml) | City / town | **79.05** | **Culture 8.4** | 7.5 / 8.0 / 8.0 / 8.3 / 8.1 | [14.181, 103.517](https://www.google.com/maps/search/?api=1&query=14.181,103.517) |
+| 70 | [Svay Rieng](cities/svay-rieng.yaml) | City / town | **78.80** | **History 8.5**, **Culture 8.4** | 7.4 / 7.9 / 8.0 / 8.5 / 8.1 | [11.0879, 105.7994](https://www.google.com/maps/search/?api=1&query=11.0879,105.7994) |
+| 71 | [Chrey Thom](cities/chrey-thom.yaml) | City / town | **77.90** | **Culture 8.3** | 7.4 / 7.8 / 7.9 / 8.2 / 8.1 | [11.034, 105.149](https://www.google.com/maps/search/?api=1&query=11.034,105.149) |
+| 72 | [Poipet](cities/poipet.yaml) | City / town | **77.00** | **Culture 8.2**, **Food 8.0** | 7.2 / 7.8 / 7.8 / 8.0 / 8.3 | [13.6561, 102.5629](https://www.google.com/maps/search/?api=1&query=13.6561,102.5629) |
 
 ---
 
