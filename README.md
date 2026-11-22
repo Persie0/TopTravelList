@@ -8,6 +8,8 @@ A consistent, worldwide ranking dataset for **cities** and **sights**.
 countries/
   _registry.json
   AT/
+    cities.md  # full computed city ranking + GPS Google Maps links
+    sights.md  # full computed sights ranking + GPS Google Maps links
     cities/
     sights/
   ...
@@ -22,6 +24,7 @@ scripts/
   generate_countries.py
   validate.py
   rank.py
+  generate_rankings.py
 rules.md
 requirements.txt
 ```
@@ -34,6 +37,8 @@ Every destination is stored as an individual YAML file in its country's `cities/
 python -m pip install -r requirements.txt
 python scripts/generate_countries.py
 python scripts/validate.py
+python scripts/generate_rankings.py
+python scripts/generate_rankings.py --check
 python scripts/rank.py --country AT --kind cities --limit 20
 python scripts/rank.py --country AT --kind sights --limit 20
 python scripts/rank.py --country AT --kind sights --category nature --limit 20
@@ -62,7 +67,22 @@ See [rules.md](rules.md) for the universal scoring rubric and [methodology/scori
 
 All destination records contain the same five core scoring dimensions and applicable category ratings. The scores are **provisional editorial assessments**, not objective facts or definitive worldwide standings. Since the current rubric allows multiple top scores, exceptional destinations can tie. Coordinates identify approximate representative points and should not be used as precise navigation destinations; large parks, rivers, lakes, and regions are not represented by entrance coordinates.
 
-Use `scripts/rank.py` for sorted comparisons; it computes the overall score and category rankings directly from source YAML without generating additional files. Each category is independently rated on the 0–10 scale, as described in `rules.md`.
+### Per-country rankings, with Google Maps links
+
+Run `python scripts/generate_rankings.py` to create **exactly two Markdown overview files in each registered country folder**: `countries/XX/cities.md` and `countries/XX/sights.md` (197 countries, 394 files). These are generated views; edit only the original YAML data.
+
+Each overview lists **every destination**, ordered by its globally calibrated total (out of 100), with equal scores sharing a rank. It also shows the type (inferred from its name), the complete set of rated categories (highest first), all five core dimension scores, a source-YAML link, and a **Google Maps link using that record's exact GPS latitude and longitude**. Missing or incomplete scores are shown unranked, not treated as zero. Countries without destinations have two explanatory overview files.
+
+```bash
+python scripts/generate_rankings.py                   # write/update all 394 overviews
+python scripts/generate_rankings.py --country AT      # refresh only Austria
+python scripts/generate_rankings.py --country CN      # refresh only China
+python scripts/generate_rankings.py --check           # fail on missing/stale overviews
+```
+
+**Whenever you add or change destinations, regenerate the affected country's overviews, and run --check before committing.** The Markdown rankings are fully deterministic, use the same weighted formula as `scripts/rank.py`, and contain no independently maintained scores.
+
+Use `scripts/rank.py` for ad-hoc sorted comparisons across countries and category-specific rankings. Each category is independently rated on the 0–10 scale, as described in `rules.md`.
 
 ## Absolute worldwide calibration (v2)
 
