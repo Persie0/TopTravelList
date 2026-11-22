@@ -5,10 +5,10 @@ location:
   latitude: 25.1298
   longitude: 121.7432
 scores:
-  impact: 8.0
-  uniqueness: 8.1
-  significance: 7.7
-  experience: 8.8
+  impact: 8.2
+  uniqueness: 8.0
+  significance: 7.9
+  experience: 9.0
   depth: 7.9
   categories:
     food: 9.0

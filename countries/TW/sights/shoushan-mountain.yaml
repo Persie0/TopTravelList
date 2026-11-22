@@ -6,10 +6,10 @@ location:
   longitude: 120.2734
 scores:
   impact: 8.1
-  uniqueness: 8.1
+  uniqueness: 8.0
   significance: 7.5
-  experience: 8.4
-  depth: 7.7
+  experience: 8.7
+  depth: 8.1
   categories:
     nature: 8.6
     wildlife: 8.4

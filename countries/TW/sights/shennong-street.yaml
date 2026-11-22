@@ -5,11 +5,11 @@ location:
   latitude: 22.9977
   longitude: 120.1979
 scores:
-  impact: 8.1
-  uniqueness: 8.1
-  significance: 7.9
-  experience: 8.6
-  depth: 7.5
+  impact: 8.2
+  uniqueness: 8.4
+  significance: 8.2
+  experience: 8.9
+  depth: 7.8
   categories:
     history: 8.3
     culture: 8.7
