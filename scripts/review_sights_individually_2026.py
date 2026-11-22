@@ -343,7 +343,6 @@ def make_reports(records, baseline, decisions):
             f"| {code} | [{name}](../countries/{code}/sights/{slug}.yaml) | "
             f"{old:.2f} | **{new:.2f}** | {delta:+.2f} | {label} | {cls} | {note} |"
         )
-    footer.append("")
     summary = "\n".join(header) + "\n"
     full = "\n".join(header + footer) + "\n"
     return summary, full, {
