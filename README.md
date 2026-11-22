@@ -217,6 +217,12 @@ python scripts/generate_rankings.py --check
 python scripts/rank.py --kind sights --limit 60
 ```
 
+## Follow-on per-sight review (22 November 2026)
+
+[New worldwide 1,913-sight reassessment summary](methodology/sight-review-2026-summary.md) · [Complete per-item change and diagnostic register](methodology/sight-review-2026-full-audit.md) · [149 site-specific decisions](methodology/sight-review-decisions-2026/).
+
+The follow-on review explicitly separates individual desk-based score revisions from **automated screening only**. The latter is not a claim of independent research into each site. It corrects conspicuous inflated experience/depth and nested heritage comparisons without reopening the frozen one-time 2026 calibration scripts. Site-specific YAML remains canonical.
+
 ## Absolute worldwide calibration (v2)
 
 The 1,540 legacy destinations (Austria, Thailand, South Korea and China) were conservatively recalibrated to worldwide v2; Vietnam's 500 and Cambodia's 332 destinations were rated directly using v2. All populated destinations follow the same globally calibrated 0–10 rubric. Local or national excellence is not sufficient for a 10: only the globally defining examples for that exact scoring dimension can attain 10. Each such approval is listed in `methodology/scoring.json` under `global_ten_anchors`; `scripts/validate.py` enforces it.
