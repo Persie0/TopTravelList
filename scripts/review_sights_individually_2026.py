@@ -186,7 +186,7 @@ def update_record(path: Path, rec: dict, nums: list[Decimal], cats: dict):
         original = rec["scores"][dim]
         if Decimal(str(original)) == num:
             continue
-        pattern = rf"(?m)^(  {re.escape(dim)}:\\s*)[-+]?[0-9]+(?:\\.[0-9]+)?\\s*$"
+        pattern = rf"(?m)^(  {re.escape(dim)}:\s*)[-+]?[0-9]+(?:\.[0-9]+)?\s*$"
         new_txt, n = re.subn(pattern, lambda m: m.group(1) + fmt(num), new_txt)
         if n != 1:
             raise AssertionError(f"Cannot replace {dim} in {path}")
@@ -195,7 +195,7 @@ def update_record(path: Path, rec: dict, nums: list[Decimal], cats: dict):
             raise ValueError(f"Category {cat} absent in {path}")
         if Decimal(str(rec["scores"]["categories"][cat])) == num:
             continue
-        pattern = rf"(?m)^(    {re.escape(cat)}:\\s*)[-+]?[0-9]+(?:\\.[0-9]+)?\\s*$"
+        pattern = rf"(?m)^(    {re.escape(cat)}:\s*)[-+]?[0-9]+(?:\.[0-9]+)?\s*$"
         new_txt, n = re.subn(pattern, lambda m: m.group(1) + fmt(num), new_txt)
         if n != 1:
             raise AssertionError(f"Cannot replace category {cat} in {path}")
