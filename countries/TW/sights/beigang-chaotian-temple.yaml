@@ -1,0 +1,16 @@
+id: sight-tw-beigang-chaotian-temple
+name: "Beigang Chaotian Temple"
+location:
+  country_code: TW
+  latitude: 23.5684
+  longitude: 120.3031
+scores:
+  impact: 8.8
+  uniqueness: 9.1
+  significance: 9.2
+  experience: 8.9
+  depth: 8.5
+  categories:
+    history: 9.5
+    culture: 9.4
+    architecture: 9.2

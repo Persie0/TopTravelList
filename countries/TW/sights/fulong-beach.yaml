@@ -1,0 +1,16 @@
+id: sight-tw-fulong-beach
+name: "Fulong Beach"
+location:
+  country_code: TW
+  latitude: 25.021
+  longitude: 121.9445
+scores:
+  impact: 8.3
+  uniqueness: 8.1
+  significance: 7.1
+  experience: 8.6
+  depth: 7.8
+  categories:
+    beaches: 8.9
+    nature: 8.2
+    relaxation: 8.5

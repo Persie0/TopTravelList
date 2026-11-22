@@ -1,0 +1,15 @@
+id: sight-tw-hengchun-old-town-walls
+name: "Hengchun Old Town Walls"
+location:
+  country_code: TW
+  latitude: 22.0066
+  longitude: 120.7447
+scores:
+  impact: 8.0
+  uniqueness: 8.2
+  significance: 8.5
+  experience: 8.1
+  depth: 7.5
+  categories:
+    history: 8.9
+    architecture: 8.5

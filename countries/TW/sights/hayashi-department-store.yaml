@@ -1,0 +1,16 @@
+id: sight-tw-hayashi-department-store
+name: "Hayashi Department Store"
+location:
+  country_code: TW
+  latitude: 22.9915
+  longitude: 120.2031
+scores:
+  impact: 7.8
+  uniqueness: 8.2
+  significance: 8.3
+  experience: 8.6
+  depth: 7.4
+  categories:
+    architecture: 8.5
+    history: 8.6
+    culture: 8.2

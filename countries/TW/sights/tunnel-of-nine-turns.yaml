@@ -1,0 +1,15 @@
+id: sight-tw-tunnel-of-nine-turns
+name: "Tunnel of Nine Turns"
+location:
+  country_code: TW
+  latitude: 24.1805
+  longitude: 121.5325
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 8.0
+  experience: 8.7
+  depth: 7.3
+  categories:
+    nature: 9.2
+    photography: 9.3

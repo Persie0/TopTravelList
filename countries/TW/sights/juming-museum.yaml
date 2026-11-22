@@ -1,0 +1,15 @@
+id: sight-tw-juming-museum
+name: "Juming Museum"
+location:
+  country_code: TW
+  latitude: 25.2497
+  longitude: 121.6171
+scores:
+  impact: 8.0
+  uniqueness: 8.4
+  significance: 8.1
+  experience: 8.5
+  depth: 8.4
+  categories:
+    culture: 8.8
+    photography: 8.4

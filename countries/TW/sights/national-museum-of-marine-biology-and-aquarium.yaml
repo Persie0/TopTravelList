@@ -1,0 +1,16 @@
+id: sight-tw-national-museum-of-marine-biology-and-aquarium
+name: "National Museum of Marine Biology and Aquarium"
+location:
+  country_code: TW
+  latitude: 22.0469
+  longitude: 120.6988
+scores:
+  impact: 8.4
+  uniqueness: 8.3
+  significance: 8.6
+  experience: 9.0
+  depth: 9.1
+  categories:
+    wildlife: 9.0
+    family: 9.3
+    culture: 8.7

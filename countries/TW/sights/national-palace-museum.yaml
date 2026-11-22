@@ -1,0 +1,17 @@
+id: sight-tw-national-palace-museum
+name: "National Palace Museum"
+location:
+  country_code: TW
+  latitude: 25.1024
+  longitude: 121.5485
+scores:
+  impact: 9.5
+  uniqueness: 9.8
+  significance: 9.9
+  experience: 9.3
+  depth: 9.4
+  categories:
+    culture: 9.9
+    history: 9.8
+    architecture: 8.8
+    family: 8.8

@@ -1,0 +1,15 @@
+id: sight-tw-liyu-lake
+name: "Liyu Lake"
+location:
+  country_code: TW
+  latitude: 23.928
+  longitude: 121.5104
+scores:
+  impact: 7.7
+  uniqueness: 7.6
+  significance: 7.1
+  experience: 8.3
+  depth: 7.4
+  categories:
+    nature: 8.3
+    relaxation: 8.6

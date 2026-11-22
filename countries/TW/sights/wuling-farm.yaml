@@ -1,0 +1,16 @@
+id: sight-tw-wuling-farm
+name: "Wuling Farm"
+location:
+  country_code: TW
+  latitude: 24.3579
+  longitude: 121.3055
+scores:
+  impact: 8.4
+  uniqueness: 8.3
+  significance: 7.9
+  experience: 8.7
+  depth: 8.2
+  categories:
+    nature: 8.9
+    photography: 9.0
+    relaxation: 8.4

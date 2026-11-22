@@ -1,0 +1,15 @@
+id: sight-tw-laomei-green-reef
+name: "Laomei Green Reef"
+location:
+  country_code: TW
+  latitude: 25.2886
+  longitude: 121.542
+scores:
+  impact: 8.4
+  uniqueness: 8.5
+  significance: 7.6
+  experience: 8.2
+  depth: 6.9
+  categories:
+    nature: 8.9
+    photography: 9.0

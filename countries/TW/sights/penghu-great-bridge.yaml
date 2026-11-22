@@ -1,0 +1,15 @@
+id: sight-tw-penghu-great-bridge
+name: "Penghu Great Bridge"
+location:
+  country_code: TW
+  latitude: 23.6494
+  longitude: 119.5553
+scores:
+  impact: 7.7
+  uniqueness: 8.0
+  significance: 7.7
+  experience: 8.1
+  depth: 6.8
+  categories:
+    photography: 8.4
+    architecture: 7.9

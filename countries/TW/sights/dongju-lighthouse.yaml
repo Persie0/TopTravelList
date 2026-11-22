@@ -1,0 +1,15 @@
+id: sight-tw-dongju-lighthouse
+name: "Dongju Lighthouse"
+location:
+  country_code: TW
+  latitude: 25.9522
+  longitude: 119.9735
+scores:
+  impact: 8.0
+  uniqueness: 8.4
+  significance: 8.6
+  experience: 8.3
+  depth: 7.0
+  categories:
+    history: 8.9
+    photography: 8.9

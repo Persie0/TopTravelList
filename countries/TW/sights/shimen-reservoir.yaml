@@ -1,0 +1,15 @@
+id: sight-tw-shimen-reservoir
+name: "Shimen Reservoir"
+location:
+  country_code: TW
+  latitude: 24.814
+  longitude: 121.2481
+scores:
+  impact: 7.7
+  uniqueness: 7.5
+  significance: 7.1
+  experience: 8.0
+  depth: 7.5
+  categories:
+    nature: 8.1
+    relaxation: 8.1

@@ -1,0 +1,16 @@
+id: sight-tw-qimei-island
+name: "Qimei Island"
+location:
+  country_code: TW
+  latitude: 23.205
+  longitude: 119.427
+scores:
+  impact: 8.7
+  uniqueness: 9.0
+  significance: 8.0
+  experience: 8.7
+  depth: 8.1
+  categories:
+    nature: 9.0
+    photography: 9.2
+    beaches: 8.3

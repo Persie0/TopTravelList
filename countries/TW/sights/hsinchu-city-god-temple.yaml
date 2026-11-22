@@ -1,0 +1,16 @@
+id: sight-tw-hsinchu-city-god-temple
+name: "Hsinchu City God Temple"
+location:
+  country_code: TW
+  latitude: 24.8047
+  longitude: 120.9655
+scores:
+  impact: 8.1
+  uniqueness: 8.3
+  significance: 8.7
+  experience: 8.4
+  depth: 7.7
+  categories:
+    history: 9.0
+    architecture: 8.5
+    culture: 8.8

@@ -1,0 +1,16 @@
+id: sight-tw-jibei-sand-tail
+name: "Jibei Sand Tail"
+location:
+  country_code: TW
+  latitude: 23.7335
+  longitude: 119.6112
+scores:
+  impact: 8.3
+  uniqueness: 8.5
+  significance: 7.0
+  experience: 8.6
+  depth: 7.2
+  categories:
+    beaches: 8.9
+    nature: 8.6
+    photography: 9.0

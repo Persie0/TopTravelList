@@ -1,0 +1,16 @@
+id: sight-tw-yehliu-geopark
+name: "Yehliu Geopark"
+location:
+  country_code: TW
+  latitude: 25.2054
+  longitude: 121.6904
+scores:
+  impact: 9.0
+  uniqueness: 9.3
+  significance: 8.8
+  experience: 9.0
+  depth: 8.4
+  categories:
+    nature: 9.4
+    photography: 9.4
+    family: 8.3

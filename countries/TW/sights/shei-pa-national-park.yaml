@@ -1,0 +1,17 @@
+id: sight-tw-shei-pa-national-park
+name: "Shei-Pa National Park"
+location:
+  country_code: TW
+  latitude: 24.4805
+  longitude: 121.0905
+scores:
+  impact: 9.2
+  uniqueness: 9.3
+  significance: 8.9
+  experience: 9.0
+  depth: 9.2
+  categories:
+    nature: 9.5
+    adventure: 9.2
+    photography: 9.4
+    wildlife: 8.7

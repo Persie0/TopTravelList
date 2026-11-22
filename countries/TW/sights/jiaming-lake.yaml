@@ -1,0 +1,16 @@
+id: sight-tw-jiaming-lake
+name: "Jiaming Lake"
+location:
+  country_code: TW
+  latitude: 23.2912
+  longitude: 121.0381
+scores:
+  impact: 8.9
+  uniqueness: 9.1
+  significance: 8.6
+  experience: 8.8
+  depth: 8.1
+  categories:
+    nature: 9.4
+    adventure: 9.2
+    photography: 9.4

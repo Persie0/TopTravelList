@@ -1,0 +1,17 @@
+id: sight-tw-taroko-national-park
+name: "Taroko National Park"
+location:
+  country_code: TW
+  latitude: 24.1882
+  longitude: 121.494
+scores:
+  impact: 9.6
+  uniqueness: 9.6
+  significance: 9.2
+  experience: 9.4
+  depth: 9.6
+  categories:
+    nature: 9.9
+    adventure: 9.4
+    photography: 9.8
+    wildlife: 9.1

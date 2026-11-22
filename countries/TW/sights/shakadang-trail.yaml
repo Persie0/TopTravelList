@@ -1,0 +1,16 @@
+id: sight-tw-shakadang-trail
+name: "Shakadang Trail"
+location:
+  country_code: TW
+  latitude: 24.166
+  longitude: 121.6221
+scores:
+  impact: 8.7
+  uniqueness: 8.7
+  significance: 7.7
+  experience: 8.8
+  depth: 7.6
+  categories:
+    nature: 9.1
+    adventure: 8.7
+    photography: 9.2

@@ -1,0 +1,17 @@
+id: sight-tw-green-island
+name: "Green Island"
+location:
+  country_code: TW
+  latitude: 22.6613
+  longitude: 121.4929
+scores:
+  impact: 8.9
+  uniqueness: 9.1
+  significance: 8.5
+  experience: 9.0
+  depth: 8.8
+  categories:
+    nature: 9.1
+    wildlife: 9.1
+    beaches: 8.8
+    adventure: 8.9

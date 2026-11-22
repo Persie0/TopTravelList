@@ -1,0 +1,15 @@
+id: sight-tw-zhaori-hot-springs-green-island
+name: "Zhaori Hot Springs Green Island"
+location:
+  country_code: TW
+  latitude: 22.6408
+  longitude: 121.5023
+scores:
+  impact: 8.7
+  uniqueness: 9.1
+  significance: 8.0
+  experience: 8.8
+  depth: 7.4
+  categories:
+    nature: 8.9
+    relaxation: 9.2

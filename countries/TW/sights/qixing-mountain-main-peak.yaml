@@ -1,0 +1,16 @@
+id: sight-tw-qixing-mountain-main-peak
+name: "Qixing Mountain Main Peak"
+location:
+  country_code: TW
+  latitude: 25.1708
+  longitude: 121.5532
+scores:
+  impact: 8.6
+  uniqueness: 8.4
+  significance: 8.1
+  experience: 8.6
+  depth: 7.6
+  categories:
+    nature: 9.0
+    adventure: 8.8
+    photography: 8.9

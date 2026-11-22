@@ -1,0 +1,16 @@
+id: sight-tw-hehuanshan-mountain-area
+name: "Hehuanshan Mountain Area"
+location:
+  country_code: TW
+  latitude: 24.1398
+  longitude: 121.2856
+scores:
+  impact: 9.1
+  uniqueness: 9.0
+  significance: 8.5
+  experience: 9.1
+  depth: 8.6
+  categories:
+    nature: 9.4
+    adventure: 9.3
+    photography: 9.5

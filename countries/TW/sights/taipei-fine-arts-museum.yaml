@@ -1,0 +1,15 @@
+id: sight-tw-taipei-fine-arts-museum
+name: "Taipei Fine Arts Museum"
+location:
+  country_code: TW
+  latitude: 25.0726
+  longitude: 121.5247
+scores:
+  impact: 8.0
+  uniqueness: 8.2
+  significance: 8.3
+  experience: 8.5
+  depth: 8.0
+  categories:
+    culture: 8.7
+    architecture: 8.4

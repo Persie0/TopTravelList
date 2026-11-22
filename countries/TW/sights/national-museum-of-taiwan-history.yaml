@@ -1,0 +1,15 @@
+id: sight-tw-national-museum-of-taiwan-history
+name: "National Museum of Taiwan History"
+location:
+  country_code: TW
+  latitude: 23.0601
+  longitude: 120.2355
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 9.0
+  experience: 8.8
+  depth: 9.0
+  categories:
+    history: 9.5
+    culture: 9.1
