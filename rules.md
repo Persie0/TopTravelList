@@ -64,7 +64,7 @@ benchmark checkers, regenerate the relevant Markdown overviews and run
 the --check mode for all registered countries. The root README describes
 the exact commands.
 
-The [ongoing evidence-referenced sight review](methodology/sight-review-2026-summary.md) now distinguishes **415 individual desk-based editorial decisions**, including **266 newly source-referenced entries**, from **1,498 records screened only by diagnostics**. This distinction is required in future summaries: citing a comparator or recording a numeric warning does not by itself qualify as independent site research. Source URLs in the individual review records are supporting references, not official score endorsements.
+The [ongoing evidence-referenced sight review](methodology/sight-review-2026-summary.md) now distinguishes **501 individual desk-based editorial decisions**, including **313 newly source-referenced entries**, from **1,412 records screened only by diagnostics**. This distinction is required in future summaries: citing a comparator or recording a numeric warning does not by itself qualify as independent site research. Source URLs in the individual review records are supporting references, not official score endorsements.
 
 ### New site-specific sight reassessment (22 November 2026)
 
