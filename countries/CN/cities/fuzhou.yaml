@@ -1,0 +1,16 @@
+id: city-cn-fuzhou
+name: "Fuzhou"
+location:
+  country_code: CN
+  latitude: 26.0745
+  longitude: 119.2965
+scores:
+  impact: 8.7
+  uniqueness: 9
+  significance: 9.3
+  experience: 9.2
+  depth: 9.3
+  categories:
+    history: 9.6
+    architecture: 9.0
+    food: 9.3

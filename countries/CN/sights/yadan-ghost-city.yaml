@@ -1,0 +1,15 @@
+id: sight-cn-yadan-ghost-city
+name: "Yadan National Geological Park"
+location:
+  country_code: CN
+  latitude: 40.493
+  longitude: 93.057
+scores:
+  impact: 10
+  uniqueness: 10
+  significance: 9.2
+  experience: 10
+  depth: 9.5
+  categories:
+    nature: 10
+    photography: 10

@@ -1,0 +1,16 @@
+id: sight-cn-shuanglin-temple
+name: "Shuanglin Temple"
+location:
+  country_code: CN
+  latitude: 37.158
+  longitude: 112.18
+scores:
+  impact: 9.3
+  uniqueness: 10
+  significance: 10
+  experience: 9.6
+  depth: 8.9
+  categories:
+    history: 10
+    architecture: 10
+    culture: 10

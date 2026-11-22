@@ -1,0 +1,15 @@
+id: city-cn-tongren
+name: "Tongren"
+location:
+  country_code: CN
+  latitude: 27.731
+  longitude: 109.191
+scores:
+  impact: 8.7
+  uniqueness: 9.1
+  significance: 9
+  experience: 9.1
+  depth: 8.9
+  categories:
+    nature: 9.8
+    culture: 9.2

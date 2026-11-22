@@ -1,0 +1,15 @@
+id: sight-cn-kaifeng-iron-pagoda
+name: "Iron Pagoda Kaifeng"
+location:
+  country_code: CN
+  latitude: 34.818
+  longitude: 114.367
+scores:
+  impact: 9.4
+  uniqueness: 10
+  significance: 10
+  experience: 9.7
+  depth: 9
+  categories:
+    architecture: 10
+    history: 10

@@ -1,0 +1,15 @@
+id: city-cn-xiangyang
+name: "Xiangyang"
+location:
+  country_code: CN
+  latitude: 32.0091
+  longitude: 112.1226
+scores:
+  impact: 8.5
+  uniqueness: 9
+  significance: 9.6
+  experience: 9
+  depth: 8.8
+  categories:
+    history: 9.9
+    architecture: 9.3

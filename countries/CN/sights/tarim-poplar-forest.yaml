@@ -1,0 +1,16 @@
+id: sight-cn-tarim-poplar-forest
+name: "Tarim Poplar Forest"
+location:
+  country_code: CN
+  latitude: 41.02
+  longitude: 84.26
+scores:
+  impact: 10
+  uniqueness: 10
+  significance: 9.4
+  experience: 10
+  depth: 10
+  categories:
+    nature: 10
+    photography: 10
+    wildlife: 9.1

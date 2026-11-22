@@ -1,0 +1,17 @@
+id: city-cn-foshan
+name: "Foshan"
+location:
+  country_code: CN
+  latitude: 23.0215
+  longitude: 113.1214
+scores:
+  impact: 8.7
+  uniqueness: 9.1
+  significance: 9.5
+  experience: 9.2
+  depth: 9.2
+  categories:
+    culture: 9.8
+    history: 9.8
+    food: 9.6
+    architecture: 8.9

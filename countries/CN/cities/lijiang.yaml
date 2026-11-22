@@ -1,0 +1,18 @@
+id: city-cn-lijiang
+name: "Lijiang"
+location:
+  country_code: CN
+  latitude: 26.8721
+  longitude: 100.2296
+scores:
+  impact: 9.5
+  uniqueness: 9.8
+  significance: 9.7
+  experience: 9.5
+  depth: 9.6
+  categories:
+    architecture: 9.8
+    history: 9.7
+    culture: 9.9
+    nature: 9.6
+    photography: 10

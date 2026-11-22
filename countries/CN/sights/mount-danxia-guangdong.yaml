@@ -1,0 +1,16 @@
+id: sight-cn-mount-danxia-guangdong
+name: "Mount Danxia"
+location:
+  country_code: CN
+  latitude: 25.032
+  longitude: 113.747
+scores:
+  impact: 10
+  uniqueness: 10
+  significance: 9.7
+  experience: 10
+  depth: 10
+  categories:
+    nature: 10
+    photography: 10
+    adventure: 9.7

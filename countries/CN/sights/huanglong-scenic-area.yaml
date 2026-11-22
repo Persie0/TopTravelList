@@ -1,0 +1,16 @@
+id: sight-cn-huanglong-scenic-area
+name: "Huanglong Scenic Area"
+location:
+  country_code: CN
+  latitude: 32.74
+  longitude: 103.832
+scores:
+  impact: 10
+  uniqueness: 10
+  significance: 10
+  experience: 10
+  depth: 10
+  categories:
+    nature: 10
+    photography: 10
+    adventure: 9.2

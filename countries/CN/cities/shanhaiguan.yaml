@@ -1,0 +1,16 @@
+id: city-cn-shanhaiguan
+name: "Shanhaiguan"
+location:
+  country_code: CN
+  latitude: 40.009
+  longitude: 119.7518
+scores:
+  impact: 9
+  uniqueness: 9.6
+  significance: 9.9
+  experience: 9.2
+  depth: 8.4
+  categories:
+    history: 10
+    architecture: 9.8
+    photography: 9.4

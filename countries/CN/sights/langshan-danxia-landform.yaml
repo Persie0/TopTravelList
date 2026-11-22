@@ -1,0 +1,15 @@
+id: sight-cn-langshan-danxia-landform
+name: "Langshan Danxia Landform"
+location:
+  country_code: CN
+  latitude: 26.377
+  longitude: 110.786
+scores:
+  impact: 9.9
+  uniqueness: 10
+  significance: 9.6
+  experience: 9.9
+  depth: 9.7
+  categories:
+    nature: 10
+    photography: 10

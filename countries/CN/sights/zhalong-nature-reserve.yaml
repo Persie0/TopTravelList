@@ -1,0 +1,16 @@
+id: sight-cn-zhalong-nature-reserve
+name: "Zhalong Nature Reserve"
+location:
+  country_code: CN
+  latitude: 47.204
+  longitude: 124.193
+scores:
+  impact: 9.8
+  uniqueness: 10
+  significance: 9.7
+  experience: 10
+  depth: 10
+  categories:
+    nature: 10
+    wildlife: 10
+    photography: 10

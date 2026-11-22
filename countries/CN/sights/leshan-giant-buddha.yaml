@@ -1,0 +1,17 @@
+id: sight-cn-leshan-giant-buddha
+name: "Leshan Giant Buddha"
+location:
+  country_code: CN
+  latitude: 29.545
+  longitude: 103.773
+scores:
+  impact: 10
+  uniqueness: 10
+  significance: 10
+  experience: 10
+  depth: 10
+  categories:
+    architecture: 10
+    history: 10
+    culture: 10
+    photography: 10

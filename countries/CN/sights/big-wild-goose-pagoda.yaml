@@ -1,0 +1,16 @@
+id: sight-cn-big-wild-goose-pagoda
+name: "Giant Wild Goose Pagoda"
+location:
+  country_code: CN
+  latitude: 34.219
+  longitude: 108.965
+scores:
+  impact: 10
+  uniqueness: 10
+  significance: 10
+  experience: 10
+  depth: 9.4
+  categories:
+    architecture: 10
+    history: 10
+    culture: 10

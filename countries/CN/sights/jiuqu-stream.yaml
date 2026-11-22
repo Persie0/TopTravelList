@@ -1,0 +1,16 @@
+id: sight-cn-jiuqu-stream
+name: "Nine-Bend Stream Wuyishan"
+location:
+  country_code: CN
+  latitude: 27.65
+  longitude: 117.956
+scores:
+  impact: 9.7
+  uniqueness: 9.9
+  significance: 9.3
+  experience: 9.9
+  depth: 9.3
+  categories:
+    nature: 10
+    photography: 10
+    relaxation: 9.8

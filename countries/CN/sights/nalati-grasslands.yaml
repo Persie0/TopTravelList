@@ -1,0 +1,16 @@
+id: sight-cn-nalati-grasslands
+name: "Nalati Grasslands"
+location:
+  country_code: CN
+  latitude: 43.31
+  longitude: 84.1
+scores:
+  impact: 10
+  uniqueness: 10
+  significance: 9.6
+  experience: 10
+  depth: 10
+  categories:
+    nature: 10
+    adventure: 9.7
+    photography: 10

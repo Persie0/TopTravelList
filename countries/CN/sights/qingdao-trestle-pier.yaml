@@ -1,0 +1,15 @@
+id: sight-cn-qingdao-trestle-pier
+name: "Zhanqiao Pier Qingdao"
+location:
+  country_code: CN
+  latitude: 36.0603
+  longitude: 120.3192
+scores:
+  impact: 8.8
+  uniqueness: 9.1
+  significance: 9.2
+  experience: 9.2
+  depth: 8.2
+  categories:
+    history: 9.5
+    photography: 9.6

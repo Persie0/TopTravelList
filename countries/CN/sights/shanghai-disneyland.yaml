@@ -1,0 +1,15 @@
+id: sight-cn-shanghai-disneyland
+name: "Shanghai Disneyland"
+location:
+  country_code: CN
+  latitude: 31.1433
+  longitude: 121.657
+scores:
+  impact: 9.1
+  uniqueness: 9.6
+  significance: 8.2
+  experience: 9.8
+  depth: 9.9
+  categories:
+    family: 10
+    adventure: 9.3

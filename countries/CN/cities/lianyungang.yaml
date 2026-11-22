@@ -1,0 +1,15 @@
+id: city-cn-lianyungang
+name: "Lianyungang"
+location:
+  country_code: CN
+  latitude: 34.5967
+  longitude: 119.2216
+scores:
+  impact: 8.2
+  uniqueness: 8.5
+  significance: 8.5
+  experience: 8.8
+  depth: 8.9
+  categories:
+    nature: 9.0
+    history: 8.7

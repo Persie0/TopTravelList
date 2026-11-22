@@ -1,0 +1,15 @@
+id: sight-cn-yarlung-tsangpo-grand-canyon
+name: "Yarlung Tsangpo Grand Canyon"
+location:
+  country_code: CN
+  latitude: 29.57
+  longitude: 95.15
+scores:
+  impact: 10
+  uniqueness: 10
+  significance: 9.8
+  experience: 10
+  depth: 10
+  categories:
+    nature: 10
+    adventure: 10

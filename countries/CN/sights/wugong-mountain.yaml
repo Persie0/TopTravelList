@@ -1,0 +1,16 @@
+id: sight-cn-wugong-mountain
+name: "Wugong Mountain"
+location:
+  country_code: CN
+  latitude: 27.485
+  longitude: 114.175
+scores:
+  impact: 9.7
+  uniqueness: 10
+  significance: 9.4
+  experience: 9.8
+  depth: 9.6
+  categories:
+    nature: 10
+    photography: 10
+    adventure: 9.8

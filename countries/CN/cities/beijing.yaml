@@ -1,0 +1,19 @@
+id: city-cn-beijing
+name: "Beijing"
+location:
+  country_code: CN
+  latitude: 39.9042
+  longitude: 116.4074
+scores:
+  impact: 9.9
+  uniqueness: 9.9
+  significance: 10
+  experience: 9.7
+  depth: 10
+  categories:
+    architecture: 10
+    history: 10
+    culture: 10
+    food: 9.5
+    nightlife: 9.2
+    photography: 9.7

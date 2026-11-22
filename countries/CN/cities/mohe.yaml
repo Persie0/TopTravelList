@@ -1,0 +1,16 @@
+id: city-cn-mohe
+name: "Mohe"
+location:
+  country_code: CN
+  latitude: 52.972
+  longitude: 122.537
+scores:
+  impact: 8.6
+  uniqueness: 9.4
+  significance: 8.3
+  experience: 9
+  depth: 8.3
+  categories:
+    nature: 9.2
+    photography: 9.2
+    adventure: 8.7

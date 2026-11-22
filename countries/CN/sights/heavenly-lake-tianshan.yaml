@@ -1,0 +1,15 @@
+id: sight-cn-heavenly-lake-tianshan
+name: "Heavenly Lake of Tianshan"
+location:
+  country_code: CN
+  latitude: 43.889
+  longitude: 88.129
+scores:
+  impact: 10
+  uniqueness: 10
+  significance: 10
+  experience: 10
+  depth: 10
+  categories:
+    nature: 10
+    photography: 10

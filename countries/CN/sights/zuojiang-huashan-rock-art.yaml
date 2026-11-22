@@ -1,0 +1,16 @@
+id: sight-cn-zuojiang-huashan-rock-art
+name: "Zuojiang Huashan Rock Art"
+location:
+  country_code: CN
+  latitude: 22.405
+  longitude: 107.021
+scores:
+  impact: 9.9
+  uniqueness: 10
+  significance: 10
+  experience: 9.9
+  depth: 9.8
+  categories:
+    history: 10
+    culture: 10
+    nature: 9.7

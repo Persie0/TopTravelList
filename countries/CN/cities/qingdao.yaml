@@ -1,0 +1,18 @@
+id: city-cn-qingdao
+name: "Qingdao"
+location:
+  country_code: CN
+  latitude: 36.0671
+  longitude: 120.3826
+scores:
+  impact: 9.1
+  uniqueness: 9.2
+  significance: 8.8
+  experience: 9.5
+  depth: 9.4
+  categories:
+    architecture: 9.4
+    beaches: 8.7
+    history: 9
+    food: 9.4
+    photography: 9.4

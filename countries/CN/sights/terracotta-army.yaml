@@ -1,0 +1,16 @@
+id: sight-cn-terracotta-army
+name: "Terracotta Army of Qin Shi Huang"
+location:
+  country_code: CN
+  latitude: 34.385
+  longitude: 109.273
+scores:
+  impact: 10
+  uniqueness: 10
+  significance: 10
+  experience: 10
+  depth: 10
+  categories:
+    history: 10
+    architecture: 10
+    culture: 10

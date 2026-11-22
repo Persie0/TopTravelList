@@ -1,0 +1,15 @@
+id: sight-cn-rongbuk-monastery
+name: "Rongbuk Monastery"
+location:
+  country_code: CN
+  latitude: 28.197
+  longitude: 86.826
+scores:
+  impact: 10
+  uniqueness: 10
+  significance: 9.9
+  experience: 10
+  depth: 9.2
+  categories:
+    architecture: 9.8
+    history: 10

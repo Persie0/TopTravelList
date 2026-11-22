@@ -1,0 +1,15 @@
+id: sight-cn-benxi-water-cave
+name: "Benxi Water Cave"
+location:
+  country_code: CN
+  latitude: 41.3
+  longitude: 124.112
+scores:
+  impact: 9.9
+  uniqueness: 10
+  significance: 9.5
+  experience: 10
+  depth: 9.7
+  categories:
+    nature: 10
+    photography: 9.8

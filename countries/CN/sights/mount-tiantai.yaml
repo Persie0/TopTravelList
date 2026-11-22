@@ -1,0 +1,16 @@
+id: sight-cn-mount-tiantai
+name: "Mount Tiantai"
+location:
+  country_code: CN
+  latitude: 29.158
+  longitude: 121.042
+scores:
+  impact: 9.3
+  uniqueness: 9.6
+  significance: 9.8
+  experience: 9.6
+  depth: 9.6
+  categories:
+    nature: 9.9
+    history: 10
+    culture: 9.6

@@ -1,0 +1,16 @@
+id: sight-cn-leifeng-pagoda
+name: "Leifeng Pagoda"
+location:
+  country_code: CN
+  latitude: 30.2308
+  longitude: 120.1484
+scores:
+  impact: 9.2
+  uniqueness: 9.6
+  significance: 9.6
+  experience: 9.6
+  depth: 9.1
+  categories:
+    architecture: 9.7
+    history: 9.8
+    photography: 9.8

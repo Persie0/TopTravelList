@@ -1,0 +1,16 @@
+id: sight-cn-national-museum-of-china
+name: "National Museum of China"
+location:
+  country_code: CN
+  latitude: 39.9032
+  longitude: 116.4014
+scores:
+  impact: 9.5
+  uniqueness: 9.6
+  significance: 10
+  experience: 9.6
+  depth: 10
+  categories:
+    history: 10
+    culture: 10
+    architecture: 9.5

@@ -1,0 +1,16 @@
+id: sight-cn-three-gorges-dam
+name: "Three Gorges Dam"
+location:
+  country_code: CN
+  latitude: 30.826
+  longitude: 111.005
+scores:
+  impact: 9.7
+  uniqueness: 10
+  significance: 10
+  experience: 9.5
+  depth: 9.7
+  categories:
+    architecture: 10
+    history: 10
+    photography: 9.6

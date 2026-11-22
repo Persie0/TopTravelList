@@ -1,0 +1,16 @@
+id: sight-cn-changbai-mountain
+name: "Changbai Mountain"
+location:
+  country_code: CN
+  latitude: 42.006
+  longitude: 128.057
+scores:
+  impact: 10
+  uniqueness: 10
+  significance: 10
+  experience: 10
+  depth: 10
+  categories:
+    nature: 10
+    wildlife: 10
+    photography: 10

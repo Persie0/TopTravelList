@@ -1,0 +1,15 @@
+id: sight-cn-dian-lake
+name: "Dian Lake Kunming"
+location:
+  country_code: CN
+  latitude: 24.833
+  longitude: 102.71
+scores:
+  impact: 9.2
+  uniqueness: 9.5
+  significance: 9.2
+  experience: 9.7
+  depth: 9.9
+  categories:
+    nature: 9.5
+    wildlife: 9

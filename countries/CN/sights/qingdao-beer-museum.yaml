@@ -1,0 +1,16 @@
+id: sight-cn-qingdao-beer-museum
+name: "Tsingtao Brewery Museum"
+location:
+  country_code: CN
+  latitude: 36.074
+  longitude: 120.354
+scores:
+  impact: 8.7
+  uniqueness: 9.5
+  significance: 9.4
+  experience: 9.4
+  depth: 9
+  categories:
+    culture: 9.8
+    history: 9.6
+    food: 9.4

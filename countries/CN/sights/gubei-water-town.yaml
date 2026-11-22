@@ -1,0 +1,16 @@
+id: sight-cn-gubei-water-town
+name: "Gubei Water Town"
+location:
+  country_code: CN
+  latitude: 40.6515
+  longitude: 117.2669
+scores:
+  impact: 9.1
+  uniqueness: 9.5
+  significance: 8.7
+  experience: 9.6
+  depth: 9.6
+  categories:
+    architecture: 9.5
+    photography: 9.9
+    culture: 9.1

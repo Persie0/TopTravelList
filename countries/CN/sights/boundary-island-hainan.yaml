@@ -1,0 +1,16 @@
+id: sight-cn-boundary-island-hainan
+name: "Boundary Island Hainan"
+location:
+  country_code: CN
+  latitude: 18.572
+  longitude: 110.196
+scores:
+  impact: 9.4
+  uniqueness: 9.9
+  significance: 8.4
+  experience: 9.8
+  depth: 9.2
+  categories:
+    beaches: 9.9
+    nature: 9.9
+    photography: 10

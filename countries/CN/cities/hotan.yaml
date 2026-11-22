@@ -1,0 +1,16 @@
+id: city-cn-hotan
+name: "Hotan (Hetian)"
+location:
+  country_code: CN
+  latitude: 37.114
+  longitude: 79.922
+scores:
+  impact: 8.7
+  uniqueness: 9.5
+  significance: 9.3
+  experience: 9.2
+  depth: 9
+  categories:
+    history: 9.6
+    culture: 9.8
+    food: 9.3

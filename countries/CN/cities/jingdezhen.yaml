@@ -1,0 +1,16 @@
+id: city-cn-jingdezhen
+name: "Jingdezhen"
+location:
+  country_code: CN
+  latitude: 29.2687
+  longitude: 117.1784
+scores:
+  impact: 9.3
+  uniqueness: 9.8
+  significance: 10
+  experience: 9.5
+  depth: 9.3
+  categories:
+    history: 10
+    culture: 10
+    architecture: 9.4

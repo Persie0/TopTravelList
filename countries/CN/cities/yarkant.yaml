@@ -1,0 +1,16 @@
+id: city-cn-yarkant
+name: "Yarkant"
+location:
+  country_code: CN
+  latitude: 38.414
+  longitude: 77.243
+scores:
+  impact: 8.7
+  uniqueness: 9.7
+  significance: 9.8
+  experience: 9.1
+  depth: 8.4
+  categories:
+    history: 10
+    culture: 9.9
+    architecture: 9.6

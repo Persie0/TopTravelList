@@ -1,0 +1,17 @@
+id: sight-cn-yellow-crane-tower
+name: "Yellow Crane Tower Wuhan"
+location:
+  country_code: CN
+  latitude: 30.5444
+  longitude: 114.3021
+scores:
+  impact: 9.5
+  uniqueness: 9.9
+  significance: 10
+  experience: 9.6
+  depth: 9.4
+  categories:
+    architecture: 10
+    history: 10
+    culture: 10
+    photography: 10

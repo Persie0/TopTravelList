@@ -1,0 +1,16 @@
+id: sight-cn-hongyadong
+name: "Hongyadong Chongqing"
+location:
+  country_code: CN
+  latitude: 29.5627
+  longitude: 106.5791
+scores:
+  impact: 9.9
+  uniqueness: 10
+  significance: 9.2
+  experience: 10
+  depth: 9.7
+  categories:
+    architecture: 10
+    photography: 10
+    nightlife: 9.9

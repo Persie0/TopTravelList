@@ -1,0 +1,14 @@
+id: city-cn-panzhihua
+name: "Panzhihua"
+location:
+  country_code: CN
+  latitude: 26.5824
+  longitude: 101.7186
+scores:
+  impact: 7.9
+  uniqueness: 8.3
+  significance: 7.8
+  experience: 8.6
+  depth: 8.8
+  categories:
+    nature: 8.9

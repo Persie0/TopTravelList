@@ -1,0 +1,16 @@
+id: city-cn-chongzuo
+name: "Chongzuo"
+location:
+  country_code: CN
+  latitude: 22.4041
+  longitude: 107.3647
+scores:
+  impact: 8.9
+  uniqueness: 9.4
+  significance: 8.8
+  experience: 9.4
+  depth: 9.1
+  categories:
+    nature: 10
+    photography: 9.9
+    culture: 8.8

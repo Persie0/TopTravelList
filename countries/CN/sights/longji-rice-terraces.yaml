@@ -1,0 +1,16 @@
+id: sight-cn-longji-rice-terraces
+name: "Longji Rice Terraces"
+location:
+  country_code: CN
+  latitude: 25.761
+  longitude: 110.104
+scores:
+  impact: 10
+  uniqueness: 10
+  significance: 10
+  experience: 10
+  depth: 9.9
+  categories:
+    nature: 10
+    culture: 10
+    photography: 10

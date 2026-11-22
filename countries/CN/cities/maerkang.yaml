@@ -1,0 +1,15 @@
+id: city-cn-maerkang
+name: "Maerkang"
+location:
+  country_code: CN
+  latitude: 31.9
+  longitude: 102.221
+scores:
+  impact: 8.1
+  uniqueness: 9
+  significance: 8.8
+  experience: 8.7
+  depth: 8.5
+  categories:
+    culture: 9.3
+    nature: 9.0

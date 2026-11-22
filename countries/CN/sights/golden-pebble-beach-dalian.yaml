@@ -1,0 +1,16 @@
+id: sight-cn-golden-pebble-beach-dalian
+name: "Golden Pebble Beach Dalian"
+location:
+  country_code: CN
+  latitude: 39.092
+  longitude: 122.04
+scores:
+  impact: 9.4
+  uniqueness: 9.8
+  significance: 9.3
+  experience: 9.9
+  depth: 9.8
+  categories:
+    nature: 10
+    beaches: 9.5
+    photography: 10

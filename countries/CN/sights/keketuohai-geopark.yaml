@@ -1,0 +1,15 @@
+id: sight-cn-keketuohai-geopark
+name: "Keketuohai National Geopark"
+location:
+  country_code: CN
+  latitude: 47.21
+  longitude: 89.812
+scores:
+  impact: 10
+  uniqueness: 10
+  significance: 9.7
+  experience: 10
+  depth: 10
+  categories:
+    nature: 10
+    photography: 10

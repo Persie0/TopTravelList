@@ -1,0 +1,14 @@
+id: city-cn-hegang
+name: "Hegang"
+location:
+  country_code: CN
+  latitude: 47.35
+  longitude: 130.3
+scores:
+  impact: 7
+  uniqueness: 7.6
+  significance: 7.1
+  experience: 7.8
+  depth: 7.5
+  categories:
+    nature: 8.3

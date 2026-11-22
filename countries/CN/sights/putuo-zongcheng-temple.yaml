@@ -1,0 +1,17 @@
+id: sight-cn-putuo-zongcheng-temple
+name: "Putuo Zongcheng Temple"
+location:
+  country_code: CN
+  latitude: 40.995
+  longitude: 117.952
+scores:
+  impact: 9.7
+  uniqueness: 9.9
+  significance: 10
+  experience: 9.6
+  depth: 9.1
+  categories:
+    architecture: 10
+    history: 10
+    culture: 9.9
+    photography: 10

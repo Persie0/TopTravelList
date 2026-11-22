@@ -1,0 +1,17 @@
+id: sight-cn-mount-huashan
+name: "Mount Hua (Huashan)"
+location:
+  country_code: CN
+  latitude: 34.477
+  longitude: 110.083
+scores:
+  impact: 10
+  uniqueness: 10
+  significance: 10
+  experience: 10
+  depth: 10
+  categories:
+    nature: 10
+    history: 10
+    adventure: 10
+    photography: 10

@@ -1,0 +1,18 @@
+id: sight-cn-great-wall-mutianyu
+name: "Great Wall at Mutianyu"
+location:
+  country_code: CN
+  latitude: 40.4319
+  longitude: 116.5681
+scores:
+  impact: 9.9
+  uniqueness: 9.9
+  significance: 10
+  experience: 9.9
+  depth: 9.3
+  categories:
+    architecture: 10
+    history: 10
+    nature: 9.8
+    photography: 10
+    adventure: 9.3

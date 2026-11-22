@@ -1,0 +1,15 @@
+id: sight-cn-kumbum-stupa-gyantse
+name: "Kumbum Stupa Gyantse"
+location:
+  country_code: CN
+  latitude: 28.91
+  longitude: 89.6
+scores:
+  impact: 9.9
+  uniqueness: 10
+  significance: 10
+  experience: 10
+  depth: 9.2
+  categories:
+    architecture: 10
+    history: 10

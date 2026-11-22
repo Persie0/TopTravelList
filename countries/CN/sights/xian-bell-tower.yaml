@@ -1,0 +1,16 @@
+id: sight-cn-xian-bell-tower
+name: "Xi'an Bell Tower"
+location:
+  country_code: CN
+  latitude: 34.2606
+  longitude: 108.948
+scores:
+  impact: 9.5
+  uniqueness: 9.9
+  significance: 9.9
+  experience: 9.7
+  depth: 8.8
+  categories:
+    architecture: 10
+    history: 10
+    photography: 10

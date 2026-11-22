@@ -1,0 +1,16 @@
+id: sight-cn-kizil-caves
+name: "Kizil Thousand Buddha Caves"
+location:
+  country_code: CN
+  latitude: 41.786
+  longitude: 82.499
+scores:
+  impact: 10
+  uniqueness: 10
+  significance: 10
+  experience: 10
+  depth: 10
+  categories:
+    history: 10
+    architecture: 10
+    culture: 10

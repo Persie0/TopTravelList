@@ -1,0 +1,15 @@
+id: sight-cn-chaohu-lake
+name: "Chaohu Lake"
+location:
+  country_code: CN
+  latitude: 31.6
+  longitude: 117.86
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 8.6
+  experience: 9
+  depth: 9.5
+  categories:
+    nature: 9.2
+    relaxation: 9.2

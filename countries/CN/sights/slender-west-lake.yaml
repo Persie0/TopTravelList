@@ -1,0 +1,16 @@
+id: sight-cn-slender-west-lake
+name: "Slender West Lake Yangzhou"
+location:
+  country_code: CN
+  latitude: 32.414
+  longitude: 119.424
+scores:
+  impact: 9.7
+  uniqueness: 9.9
+  significance: 9.8
+  experience: 9.9
+  depth: 9.7
+  categories:
+    nature: 9.7
+    architecture: 9.8
+    photography: 10

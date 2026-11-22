@@ -1,0 +1,16 @@
+id: sight-cn-mohe-arctic-village
+name: "Arctic Village Mohe"
+location:
+  country_code: CN
+  latitude: 53.47
+  longitude: 122.35
+scores:
+  impact: 9.5
+  uniqueness: 9.9
+  significance: 9.3
+  experience: 9.8
+  depth: 9.6
+  categories:
+    nature: 10
+    culture: 9.5
+    photography: 10

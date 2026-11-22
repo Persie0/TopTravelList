@@ -1,0 +1,17 @@
+id: sight-cn-wuyi-mountains
+name: "Wuyi Mountains"
+location:
+  country_code: CN
+  latitude: 27.66
+  longitude: 117.96
+scores:
+  impact: 10
+  uniqueness: 10
+  significance: 10
+  experience: 10
+  depth: 10
+  categories:
+    nature: 10
+    history: 10
+    culture: 10
+    photography: 10

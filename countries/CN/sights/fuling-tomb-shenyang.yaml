@@ -1,0 +1,15 @@
+id: sight-cn-fuling-tomb-shenyang
+name: "Fuling Tomb"
+location:
+  country_code: CN
+  latitude: 41.842
+  longitude: 123.593
+scores:
+  impact: 9.8
+  uniqueness: 10
+  significance: 10
+  experience: 9.9
+  depth: 9.4
+  categories:
+    history: 10
+    architecture: 10

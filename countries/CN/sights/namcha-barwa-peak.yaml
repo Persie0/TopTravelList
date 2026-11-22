@@ -1,0 +1,15 @@
+id: sight-cn-namcha-barwa-peak
+name: "Namcha Barwa Peak"
+location:
+  country_code: CN
+  latitude: 29.63
+  longitude: 95.06
+scores:
+  impact: 10
+  uniqueness: 10
+  significance: 9.5
+  experience: 10
+  depth: 10
+  categories:
+    nature: 10
+    adventure: 10

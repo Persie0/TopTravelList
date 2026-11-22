@@ -1,0 +1,15 @@
+id: sight-cn-yangguan-pass
+name: "Yangguan Pass"
+location:
+  country_code: CN
+  latitude: 39.933
+  longitude: 94.027
+scores:
+  impact: 9.4
+  uniqueness: 10
+  significance: 10
+  experience: 9.6
+  depth: 8.7
+  categories:
+    history: 10
+    architecture: 9.2

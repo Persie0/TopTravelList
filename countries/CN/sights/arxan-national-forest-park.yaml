@@ -1,0 +1,16 @@
+id: sight-cn-arxan-national-forest-park
+name: "Arxan National Forest Park"
+location:
+  country_code: CN
+  latitude: 47.28
+  longitude: 120.24
+scores:
+  impact: 10
+  uniqueness: 10
+  significance: 9.5
+  experience: 10
+  depth: 10
+  categories:
+    nature: 10
+    wildlife: 9.9
+    photography: 10

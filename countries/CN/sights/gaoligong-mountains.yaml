@@ -1,0 +1,15 @@
+id: sight-cn-gaoligong-mountains
+name: "Gaoligong Mountains"
+location:
+  country_code: CN
+  latitude: 25.678
+  longitude: 98.738
+scores:
+  impact: 10
+  uniqueness: 10
+  significance: 9.6
+  experience: 10
+  depth: 10
+  categories:
+    nature: 10
+    wildlife: 10

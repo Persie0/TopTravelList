@@ -1,0 +1,16 @@
+id: sight-cn-pamir-highway-china
+name: "Karakoram Highway (China Section)"
+location:
+  country_code: CN
+  latitude: 38.29
+  longitude: 75.33
+scores:
+  impact: 10
+  uniqueness: 10
+  significance: 10
+  experience: 10
+  depth: 10
+  categories:
+    nature: 10
+    history: 10
+    adventure: 10

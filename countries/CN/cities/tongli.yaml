@@ -1,0 +1,16 @@
+id: city-cn-tongli
+name: "Tongli"
+location:
+  country_code: CN
+  latitude: 31.1581
+  longitude: 120.7229
+scores:
+  impact: 9
+  uniqueness: 9.5
+  significance: 9.4
+  experience: 9.3
+  depth: 8.7
+  categories:
+    architecture: 9.7
+    history: 9.5
+    photography: 9.8

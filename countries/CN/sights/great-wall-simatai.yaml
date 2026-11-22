@@ -1,0 +1,17 @@
+id: sight-cn-great-wall-simatai
+name: "Great Wall at Simatai"
+location:
+  country_code: CN
+  latitude: 40.6596
+  longitude: 117.278
+scores:
+  impact: 9.8
+  uniqueness: 10
+  significance: 10
+  experience: 9.8
+  depth: 9.2
+  categories:
+    architecture: 10
+    history: 10
+    adventure: 9.8
+    photography: 10

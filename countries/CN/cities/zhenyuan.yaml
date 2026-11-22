@@ -1,0 +1,16 @@
+id: city-cn-zhenyuan
+name: "Zhenyuan"
+location:
+  country_code: CN
+  latitude: 27.052
+  longitude: 108.428
+scores:
+  impact: 9.2
+  uniqueness: 9.6
+  significance: 9.6
+  experience: 9.5
+  depth: 9
+  categories:
+    history: 9.8
+    architecture: 9.8
+    photography: 9.9

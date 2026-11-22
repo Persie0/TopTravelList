@@ -1,0 +1,15 @@
+id: sight-cn-puzhehei-scenic-area
+name: "Puzhehei Scenic Area"
+location:
+  country_code: CN
+  latitude: 24.125
+  longitude: 104.109
+scores:
+  impact: 9.8
+  uniqueness: 10
+  significance: 9.2
+  experience: 10
+  depth: 9.9
+  categories:
+    nature: 10
+    photography: 10

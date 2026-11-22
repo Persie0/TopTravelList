@@ -1,0 +1,16 @@
+id: city-cn-weihai
+name: "Weihai"
+location:
+  country_code: CN
+  latitude: 37.5131
+  longitude: 122.1204
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 8.6
+  experience: 9.2
+  depth: 9
+  categories:
+    beaches: 8.9
+    nature: 9.0
+    photography: 9.3

@@ -1,0 +1,15 @@
+id: city-cn-xuzhou
+name: "Xuzhou"
+location:
+  country_code: CN
+  latitude: 34.2044
+  longitude: 117.2857
+scores:
+  impact: 8.5
+  uniqueness: 9
+  significance: 9.5
+  experience: 8.9
+  depth: 9
+  categories:
+    history: 9.7
+    culture: 9.0

@@ -1,0 +1,16 @@
+id: city-cn-wuyishan-city
+name: "Wuyishan"
+location:
+  country_code: CN
+  latitude: 27.7567
+  longitude: 118.035
+scores:
+  impact: 9
+  uniqueness: 9.2
+  significance: 9
+  experience: 9.3
+  depth: 9.2
+  categories:
+    nature: 9.8
+    photography: 9.7
+    culture: 9.2

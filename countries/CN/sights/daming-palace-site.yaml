@@ -1,0 +1,15 @@
+id: sight-cn-daming-palace-site
+name: "Daming Palace National Heritage Park"
+location:
+  country_code: CN
+  latitude: 34.293
+  longitude: 108.973
+scores:
+  impact: 9.6
+  uniqueness: 9.9
+  significance: 10
+  experience: 9.6
+  depth: 9.6
+  categories:
+    history: 10
+    architecture: 9.6

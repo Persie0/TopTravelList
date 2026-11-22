@@ -1,0 +1,16 @@
+id: city-cn-meizhou
+name: "Meizhou"
+location:
+  country_code: CN
+  latitude: 24.2886
+  longitude: 116.1226
+scores:
+  impact: 8.4
+  uniqueness: 8.8
+  significance: 9.1
+  experience: 8.9
+  depth: 9
+  categories:
+    culture: 9.4
+    history: 9.3
+    architecture: 9.0

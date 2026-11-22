@@ -1,0 +1,15 @@
+id: sight-cn-turpan-karez-system
+name: "Turpan Karez Irrigation System"
+location:
+  country_code: CN
+  latitude: 42.934
+  longitude: 89.206
+scores:
+  impact: 9.9
+  uniqueness: 10
+  significance: 10
+  experience: 10
+  depth: 10
+  categories:
+    history: 10
+    architecture: 10

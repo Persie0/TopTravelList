@@ -1,0 +1,16 @@
+id: sight-cn-tongli-water-town
+name: "Tongli Water Town"
+location:
+  country_code: CN
+  latitude: 31.159
+  longitude: 120.722
+scores:
+  impact: 9.3
+  uniqueness: 9.8
+  significance: 9.6
+  experience: 9.6
+  depth: 9.2
+  categories:
+    architecture: 9.9
+    history: 9.8
+    photography: 10

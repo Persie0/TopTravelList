@@ -1,0 +1,17 @@
+id: sight-cn-chengdu-panda-base
+name: "Chengdu Research Base of Giant Panda Breeding"
+location:
+  country_code: CN
+  latitude: 30.7349
+  longitude: 104.141
+scores:
+  impact: 9.8
+  uniqueness: 10
+  significance: 9.8
+  experience: 9.9
+  depth: 9.6
+  categories:
+    wildlife: 10
+    nature: 9.6
+    culture: 9.5
+    family: 9.9

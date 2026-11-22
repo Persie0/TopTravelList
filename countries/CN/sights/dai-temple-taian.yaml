@@ -1,0 +1,16 @@
+id: sight-cn-dai-temple-taian
+name: "Dai Temple"
+location:
+  country_code: CN
+  latitude: 36.195
+  longitude: 117.118
+scores:
+  impact: 9.5
+  uniqueness: 9.9
+  significance: 10
+  experience: 9.6
+  depth: 9.2
+  categories:
+    architecture: 10
+    history: 10
+    culture: 10

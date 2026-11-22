@@ -1,0 +1,16 @@
+id: sight-cn-dandong-broken-bridge
+name: "Yalu River Broken Bridge"
+location:
+  country_code: CN
+  latitude: 40.126
+  longitude: 124.395
+scores:
+  impact: 9.5
+  uniqueness: 10
+  significance: 10
+  experience: 9.8
+  depth: 9.3
+  categories:
+    history: 10
+    architecture: 9.4
+    photography: 9.8

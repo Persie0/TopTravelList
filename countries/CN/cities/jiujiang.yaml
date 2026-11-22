@@ -1,0 +1,15 @@
+id: city-cn-jiujiang
+name: "Jiujiang"
+location:
+  country_code: CN
+  latitude: 29.7051
+  longitude: 116.0018
+scores:
+  impact: 8.7
+  uniqueness: 9
+  significance: 9.1
+  experience: 9.1
+  depth: 9.2
+  categories:
+    nature: 9.5
+    history: 9.3

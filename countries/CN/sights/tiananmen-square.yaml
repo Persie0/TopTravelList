@@ -1,0 +1,16 @@
+id: sight-cn-tiananmen-square
+name: "Tiananmen Square"
+location:
+  country_code: CN
+  latitude: 39.9055
+  longitude: 116.3976
+scores:
+  impact: 9.1
+  uniqueness: 9.7
+  significance: 10
+  experience: 9.1
+  depth: 9.2
+  categories:
+    history: 10
+    architecture: 9.1
+    photography: 9.2

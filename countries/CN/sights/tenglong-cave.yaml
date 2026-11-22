@@ -1,0 +1,16 @@
+id: sight-cn-tenglong-cave
+name: "Tenglong Cave"
+location:
+  country_code: CN
+  latitude: 30.358
+  longitude: 108.881
+scores:
+  impact: 9.7
+  uniqueness: 10
+  significance: 9.1
+  experience: 9.7
+  depth: 9.2
+  categories:
+    nature: 10
+    adventure: 9.5
+    photography: 9.7

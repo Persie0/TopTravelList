@@ -1,0 +1,16 @@
+id: sight-cn-mausoleum-qin-shi-huang
+name: "Mausoleum of the First Qin Emperor"
+location:
+  country_code: CN
+  latitude: 34.385
+  longitude: 109.273
+scores:
+  impact: 10
+  uniqueness: 10
+  significance: 10
+  experience: 10
+  depth: 10
+  categories:
+    history: 10
+    culture: 10
+    architecture: 10

@@ -1,0 +1,16 @@
+id: sight-cn-dongting-lake
+name: "Dongting Lake"
+location:
+  country_code: CN
+  latitude: 29.315
+  longitude: 112.95
+scores:
+  impact: 9.4
+  uniqueness: 9.8
+  significance: 9.5
+  experience: 9.6
+  depth: 10
+  categories:
+    nature: 10
+    wildlife: 9.7
+    photography: 9.7

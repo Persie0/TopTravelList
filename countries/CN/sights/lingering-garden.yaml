@@ -1,0 +1,16 @@
+id: sight-cn-lingering-garden
+name: "Lingering Garden Suzhou"
+location:
+  country_code: CN
+  latitude: 31.315
+  longitude: 120.596
+scores:
+  impact: 9.8
+  uniqueness: 10
+  significance: 10
+  experience: 9.8
+  depth: 9.4
+  categories:
+    architecture: 10
+    history: 10
+    photography: 10

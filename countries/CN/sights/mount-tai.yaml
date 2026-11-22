@@ -1,0 +1,18 @@
+id: sight-cn-mount-tai
+name: "Mount Tai (Taishan)"
+location:
+  country_code: CN
+  latitude: 36.255
+  longitude: 117.104
+scores:
+  impact: 10
+  uniqueness: 10
+  significance: 10
+  experience: 9.9
+  depth: 10
+  categories:
+    nature: 10
+    history: 10
+    culture: 10
+    adventure: 9.8
+    photography: 10

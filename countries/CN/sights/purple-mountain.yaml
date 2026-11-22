@@ -1,0 +1,16 @@
+id: sight-cn-purple-mountain
+name: "Purple Mountain (Zijin Shan)"
+location:
+  country_code: CN
+  latitude: 32.07
+  longitude: 118.849
+scores:
+  impact: 9.5
+  uniqueness: 9.7
+  significance: 10
+  experience: 9.8
+  depth: 10
+  categories:
+    nature: 9.4
+    history: 10
+    photography: 9.6

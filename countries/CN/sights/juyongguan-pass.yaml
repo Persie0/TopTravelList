@@ -1,0 +1,16 @@
+id: sight-cn-juyongguan-pass
+name: "Juyongguan Pass"
+location:
+  country_code: CN
+  latitude: 40.2896
+  longitude: 116.0703
+scores:
+  impact: 9.3
+  uniqueness: 9.8
+  significance: 10
+  experience: 9.5
+  depth: 8.9
+  categories:
+    architecture: 10
+    history: 10
+    photography: 9.7

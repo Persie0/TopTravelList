@@ -1,0 +1,15 @@
+id: sight-cn-emin-minaret
+name: "Emin Minaret Turpan"
+location:
+  country_code: CN
+  latitude: 42.928
+  longitude: 89.198
+scores:
+  impact: 9.8
+  uniqueness: 10
+  significance: 10
+  experience: 9.9
+  depth: 9
+  categories:
+    architecture: 10
+    history: 10

@@ -1,0 +1,16 @@
+id: city-cn-huayin
+name: "Huayin"
+location:
+  country_code: CN
+  latitude: 34.566
+  longitude: 110.089
+scores:
+  impact: 9
+  uniqueness: 9.4
+  significance: 9.5
+  experience: 9.3
+  depth: 8.8
+  categories:
+    nature: 10
+    history: 9.6
+    photography: 9.8

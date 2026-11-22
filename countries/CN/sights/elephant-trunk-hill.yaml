@@ -1,0 +1,15 @@
+id: sight-cn-elephant-trunk-hill
+name: "Elephant Trunk Hill"
+location:
+  country_code: CN
+  latitude: 25.2734
+  longitude: 110.2918
+scores:
+  impact: 9.3
+  uniqueness: 9.8
+  significance: 9.1
+  experience: 9.6
+  depth: 8.9
+  categories:
+    nature: 9.8
+    photography: 10

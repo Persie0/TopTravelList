@@ -1,0 +1,17 @@
+id: city-cn-shenzhen
+name: "Shenzhen"
+location:
+  country_code: CN
+  latitude: 22.5431
+  longitude: 114.0579
+scores:
+  impact: 9.1
+  uniqueness: 9.3
+  significance: 8.6
+  experience: 9.5
+  depth: 9.7
+  categories:
+    architecture: 9.9
+    culture: 9.1
+    food: 9.3
+    nightlife: 9.4

@@ -1,0 +1,16 @@
+id: sight-cn-gongga-mountain
+name: "Mount Gongga (Minya Konka)"
+location:
+  country_code: CN
+  latitude: 29.598
+  longitude: 101.878
+scores:
+  impact: 10
+  uniqueness: 10
+  significance: 10
+  experience: 9.9
+  depth: 10
+  categories:
+    nature: 10
+    photography: 10
+    adventure: 10

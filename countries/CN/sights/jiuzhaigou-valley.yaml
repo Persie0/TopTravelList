@@ -1,0 +1,16 @@
+id: sight-cn-jiuzhaigou-valley
+name: "Jiuzhaigou Valley"
+location:
+  country_code: CN
+  latitude: 33.267
+  longitude: 103.918
+scores:
+  impact: 10
+  uniqueness: 10
+  significance: 10
+  experience: 10
+  depth: 10
+  categories:
+    nature: 10
+    photography: 10
+    wildlife: 9.7

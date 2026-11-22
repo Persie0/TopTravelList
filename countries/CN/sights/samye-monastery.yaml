@@ -1,0 +1,15 @@
+id: sight-cn-samye-monastery
+name: "Samye Monastery"
+location:
+  country_code: CN
+  latitude: 29.323
+  longitude: 91.502
+scores:
+  impact: 10
+  uniqueness: 10
+  significance: 10
+  experience: 10
+  depth: 9.9
+  categories:
+    architecture: 10
+    history: 10

@@ -1,0 +1,16 @@
+id: city-cn-taizhou-zhejiang
+name: "Taizhou (Zhejiang)"
+location:
+  country_code: CN
+  latitude: 28.6564
+  longitude: 121.4208
+scores:
+  impact: 8.4
+  uniqueness: 8.8
+  significance: 9
+  experience: 9.1
+  depth: 9.1
+  categories:
+    history: 9.3
+    nature: 9.2
+    architecture: 9.1

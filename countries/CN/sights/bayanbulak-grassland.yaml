@@ -1,0 +1,16 @@
+id: sight-cn-bayanbulak-grassland
+name: "Bayanbulak Grassland"
+location:
+  country_code: CN
+  latitude: 43.039
+  longitude: 84.149
+scores:
+  impact: 10
+  uniqueness: 10
+  significance: 9.6
+  experience: 10
+  depth: 10
+  categories:
+    nature: 10
+    wildlife: 9.9
+    photography: 10

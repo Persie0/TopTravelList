@@ -1,0 +1,15 @@
+id: sight-cn-wudalianchi-geopark
+name: "Wudalianchi Global Geopark"
+location:
+  country_code: CN
+  latitude: 48.72
+  longitude: 126.1
+scores:
+  impact: 10
+  uniqueness: 10
+  significance: 9.8
+  experience: 10
+  depth: 10
+  categories:
+    nature: 10
+    photography: 10

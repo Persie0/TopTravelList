@@ -1,0 +1,15 @@
+id: sight-cn-changbai-waterfall
+name: "Changbai Waterfall"
+location:
+  country_code: CN
+  latitude: 42.036
+  longitude: 128.058
+scores:
+  impact: 9.8
+  uniqueness: 10
+  significance: 9.3
+  experience: 10
+  depth: 9.6
+  categories:
+    nature: 10
+    photography: 10

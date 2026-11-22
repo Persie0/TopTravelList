@@ -1,0 +1,16 @@
+id: sight-cn-three-gorges-qutang
+name: "Qutang Gorge"
+location:
+  country_code: CN
+  latitude: 31.047
+  longitude: 109.534
+scores:
+  impact: 9.9
+  uniqueness: 10
+  significance: 9.7
+  experience: 10
+  depth: 9.6
+  categories:
+    nature: 10
+    history: 10
+    photography: 10

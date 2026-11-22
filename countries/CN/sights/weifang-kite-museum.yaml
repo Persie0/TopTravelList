@@ -1,0 +1,16 @@
+id: sight-cn-weifang-kite-museum
+name: "Weifang World Kite Museum"
+location:
+  country_code: CN
+  latitude: 36.71
+  longitude: 119.108
+scores:
+  impact: 8.4
+  uniqueness: 9.3
+  significance: 9.4
+  experience: 9.2
+  depth: 8.5
+  categories:
+    culture: 9.9
+    history: 9.4
+    family: 9.1

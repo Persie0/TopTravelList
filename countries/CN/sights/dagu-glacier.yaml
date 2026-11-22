@@ -1,0 +1,15 @@
+id: sight-cn-dagu-glacier
+name: "Dagu Glacier"
+location:
+  country_code: CN
+  latitude: 32.024
+  longitude: 102.955
+scores:
+  impact: 9.8
+  uniqueness: 10
+  significance: 9
+  experience: 9.9
+  depth: 9.5
+  categories:
+    nature: 10
+    photography: 10

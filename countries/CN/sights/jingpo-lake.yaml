@@ -1,0 +1,15 @@
+id: sight-cn-jingpo-lake
+name: "Jingpo Lake"
+location:
+  country_code: CN
+  latitude: 43.879
+  longitude: 128.966
+scores:
+  impact: 9.8
+  uniqueness: 10
+  significance: 9.5
+  experience: 10
+  depth: 10
+  categories:
+    nature: 10
+    photography: 10

@@ -1,0 +1,16 @@
+id: sight-cn-crescent-lake-dunhuang
+name: "Crescent Lake Dunhuang"
+location:
+  country_code: CN
+  latitude: 40.087
+  longitude: 94.665
+scores:
+  impact: 10
+  uniqueness: 10
+  significance: 9.7
+  experience: 10
+  depth: 9.5
+  categories:
+    nature: 10
+    history: 9.8
+    photography: 10

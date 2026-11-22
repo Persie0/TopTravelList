@@ -1,0 +1,17 @@
+id: city-cn-shenyang
+name: "Shenyang"
+location:
+  country_code: CN
+  latitude: 41.8057
+  longitude: 123.4315
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 9.6
+  experience: 9.1
+  depth: 9.3
+  categories:
+    architecture: 9.5
+    history: 9.9
+    culture: 9.1
+    food: 8.9

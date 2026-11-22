@@ -1,0 +1,15 @@
+id: sight-cn-hukou-waterfall
+name: "Hukou Waterfall"
+location:
+  country_code: CN
+  latitude: 36.146
+  longitude: 110.442
+scores:
+  impact: 9.6
+  uniqueness: 9.9
+  significance: 9.1
+  experience: 9.6
+  depth: 8.8
+  categories:
+    nature: 10
+    photography: 10

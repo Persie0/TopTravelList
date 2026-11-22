@@ -1,0 +1,15 @@
+id: sight-cn-baiyun-mountain
+name: "Baiyun Mountain Guangzhou"
+location:
+  country_code: CN
+  latitude: 23.178
+  longitude: 113.301
+scores:
+  impact: 9.2
+  uniqueness: 9.5
+  significance: 9.3
+  experience: 9.6
+  depth: 9.7
+  categories:
+    nature: 9.6
+    photography: 9.7

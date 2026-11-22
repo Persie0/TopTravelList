@@ -1,0 +1,15 @@
+id: city-cn-xinzhou
+name: "Xinzhou"
+location:
+  country_code: CN
+  latitude: 38.4167
+  longitude: 112.7342
+scores:
+  impact: 8.1
+  uniqueness: 8.6
+  significance: 8.9
+  experience: 8.7
+  depth: 8.6
+  categories:
+    history: 9.2
+    nature: 8.9

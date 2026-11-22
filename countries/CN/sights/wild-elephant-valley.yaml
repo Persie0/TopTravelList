@@ -1,0 +1,15 @@
+id: sight-cn-wild-elephant-valley
+name: "Wild Elephant Valley Xishuangbanna"
+location:
+  country_code: CN
+  latitude: 22.171
+  longitude: 100.868
+scores:
+  impact: 9.7
+  uniqueness: 9.9
+  significance: 9.2
+  experience: 9.9
+  depth: 9.6
+  categories:
+    nature: 10
+    wildlife: 10

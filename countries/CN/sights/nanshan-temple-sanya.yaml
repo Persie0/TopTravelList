@@ -1,0 +1,16 @@
+id: sight-cn-nanshan-temple-sanya
+name: "Nanshan Temple Sanya"
+location:
+  country_code: CN
+  latitude: 18.298
+  longitude: 109.211
+scores:
+  impact: 9.6
+  uniqueness: 9.9
+  significance: 9.5
+  experience: 9.8
+  depth: 9.4
+  categories:
+    architecture: 10
+    culture: 10
+    photography: 9.9

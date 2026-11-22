@@ -1,0 +1,16 @@
+id: sight-cn-mount-siguniang
+name: "Mount Siguniang"
+location:
+  country_code: CN
+  latitude: 31.115
+  longitude: 102.902
+scores:
+  impact: 10
+  uniqueness: 10
+  significance: 9.9
+  experience: 10
+  depth: 10
+  categories:
+    nature: 10
+    adventure: 10
+    photography: 10

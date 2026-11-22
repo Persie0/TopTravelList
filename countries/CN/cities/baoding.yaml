@@ -1,0 +1,15 @@
+id: city-cn-baoding
+name: "Baoding"
+location:
+  country_code: CN
+  latitude: 38.8744
+  longitude: 115.4646
+scores:
+  impact: 7.9
+  uniqueness: 8.2
+  significance: 8.8
+  experience: 8.5
+  depth: 8.6
+  categories:
+    history: 9.1
+    architecture: 8.5

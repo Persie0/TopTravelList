@@ -1,0 +1,15 @@
+id: sight-cn-midui-glacier
+name: "Midui Glacier"
+location:
+  country_code: CN
+  latitude: 29.464
+  longitude: 96.841
+scores:
+  impact: 9.8
+  uniqueness: 10
+  significance: 9.2
+  experience: 9.9
+  depth: 9.7
+  categories:
+    nature: 10
+    photography: 10

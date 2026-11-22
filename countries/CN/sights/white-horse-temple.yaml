@@ -1,0 +1,16 @@
+id: sight-cn-white-horse-temple
+name: "White Horse Temple Luoyang"
+location:
+  country_code: CN
+  latitude: 34.721
+  longitude: 112.593
+scores:
+  impact: 9.7
+  uniqueness: 10
+  significance: 10
+  experience: 9.8
+  depth: 9.3
+  categories:
+    architecture: 10
+    history: 10
+    culture: 10

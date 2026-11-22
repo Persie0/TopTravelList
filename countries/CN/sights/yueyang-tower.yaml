@@ -1,0 +1,17 @@
+id: sight-cn-yueyang-tower
+name: "Yueyang Tower"
+location:
+  country_code: CN
+  latitude: 29.385
+  longitude: 113.088
+scores:
+  impact: 9.7
+  uniqueness: 10
+  significance: 10
+  experience: 9.8
+  depth: 9.2
+  categories:
+    architecture: 10
+    history: 10
+    culture: 10
+    photography: 10

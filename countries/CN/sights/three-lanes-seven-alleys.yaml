@@ -1,0 +1,16 @@
+id: sight-cn-three-lanes-seven-alleys
+name: "Three Lanes and Seven Alleys Fuzhou"
+location:
+  country_code: CN
+  latitude: 26.087
+  longitude: 119.295
+scores:
+  impact: 9.5
+  uniqueness: 9.8
+  significance: 9.9
+  experience: 9.8
+  depth: 9.7
+  categories:
+    architecture: 10
+    history: 10
+    culture: 10

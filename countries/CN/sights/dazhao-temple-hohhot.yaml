@@ -1,0 +1,16 @@
+id: sight-cn-dazhao-temple-hohhot
+name: "Dazhao Temple Hohhot"
+location:
+  country_code: CN
+  latitude: 40.803
+  longitude: 111.655
+scores:
+  impact: 9.7
+  uniqueness: 10
+  significance: 10
+  experience: 9.9
+  depth: 9.1
+  categories:
+    history: 10
+    architecture: 10
+    culture: 10

@@ -1,0 +1,15 @@
+id: sight-cn-zhangye-danxia
+name: "Zhangye Danxia National Geopark"
+location:
+  country_code: CN
+  latitude: 38.96
+  longitude: 100.123
+scores:
+  impact: 10
+  uniqueness: 10
+  significance: 10
+  experience: 10
+  depth: 10
+  categories:
+    nature: 10
+    photography: 10

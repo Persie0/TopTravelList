@@ -1,0 +1,16 @@
+id: sight-cn-cangyan-mountain
+name: "Cangyan Mountain"
+location:
+  country_code: CN
+  latitude: 37.87
+  longitude: 114.074
+scores:
+  impact: 9.2
+  uniqueness: 9.8
+  significance: 9.4
+  experience: 9.4
+  depth: 8.8
+  categories:
+    nature: 9.7
+    architecture: 9.8
+    photography: 10

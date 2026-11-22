@@ -1,0 +1,16 @@
+id: sight-cn-798-art-district
+name: "798 Art District"
+location:
+  country_code: CN
+  latitude: 39.9847
+  longitude: 116.4946
+scores:
+  impact: 9
+  uniqueness: 9.5
+  significance: 9.1
+  experience: 9.6
+  depth: 9.6
+  categories:
+    culture: 9.8
+    architecture: 9.4
+    photography: 9.4

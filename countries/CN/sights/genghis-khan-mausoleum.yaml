@@ -1,0 +1,16 @@
+id: sight-cn-genghis-khan-mausoleum
+name: "Genghis Khan Mausoleum"
+location:
+  country_code: CN
+  latitude: 39.363
+  longitude: 109.786
+scores:
+  impact: 9.9
+  uniqueness: 10
+  significance: 10
+  experience: 9.9
+  depth: 9.6
+  categories:
+    history: 10
+    architecture: 10
+    culture: 10

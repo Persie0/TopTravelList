@@ -1,0 +1,15 @@
+id: sight-cn-gaochang-ruins
+name: "Gaochang Ancient City Ruins"
+location:
+  country_code: CN
+  latitude: 42.86
+  longitude: 89.536
+scores:
+  impact: 9.9
+  uniqueness: 10
+  significance: 10
+  experience: 9.9
+  depth: 9.7
+  categories:
+    history: 10
+    architecture: 10

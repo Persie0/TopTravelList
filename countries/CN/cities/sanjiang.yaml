@@ -1,0 +1,16 @@
+id: city-cn-sanjiang
+name: "Sanjiang"
+location:
+  country_code: CN
+  latitude: 25.7847
+  longitude: 109.606
+scores:
+  impact: 8.8
+  uniqueness: 9.3
+  significance: 9.3
+  experience: 9.2
+  depth: 9.1
+  categories:
+    architecture: 9.7
+    culture: 9.8
+    history: 9.4

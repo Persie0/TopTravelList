@@ -1,0 +1,16 @@
+id: sight-cn-tianluokeng-tulou-cluster
+name: "Tianluokeng Tulou Cluster"
+location:
+  country_code: CN
+  latitude: 24.588
+  longitude: 117.056
+scores:
+  impact: 9.9
+  uniqueness: 10
+  significance: 10
+  experience: 9.9
+  depth: 9.7
+  categories:
+    architecture: 10
+    history: 10
+    photography: 10

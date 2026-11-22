@@ -1,0 +1,15 @@
+id: sight-cn-fairy-mountain-wulong
+name: "Fairy Mountain Wulong"
+location:
+  country_code: CN
+  latitude: 29.46
+  longitude: 107.915
+scores:
+  impact: 9.6
+  uniqueness: 9.9
+  significance: 9
+  experience: 9.8
+  depth: 9.9
+  categories:
+    nature: 10
+    photography: 10

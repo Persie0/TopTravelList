@@ -1,0 +1,16 @@
+id: sight-cn-wuzhen-water-town
+name: "Wuzhen Water Town"
+location:
+  country_code: CN
+  latitude: 30.746
+  longitude: 120.489
+scores:
+  impact: 9.6
+  uniqueness: 9.9
+  significance: 9.8
+  experience: 9.8
+  depth: 9.7
+  categories:
+    architecture: 10
+    history: 9.9
+    photography: 10

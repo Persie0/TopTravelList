@@ -1,0 +1,16 @@
+id: sight-cn-muztagh-ata
+name: "Muztagh Ata"
+location:
+  country_code: CN
+  latitude: 38.274
+  longitude: 75.121
+scores:
+  impact: 10
+  uniqueness: 10
+  significance: 9.4
+  experience: 10
+  depth: 10
+  categories:
+    nature: 10
+    adventure: 10
+    photography: 10

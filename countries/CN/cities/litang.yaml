@@ -1,0 +1,16 @@
+id: city-cn-litang
+name: "Litang"
+location:
+  country_code: CN
+  latitude: 29.995
+  longitude: 100.269
+scores:
+  impact: 9.2
+  uniqueness: 9.8
+  significance: 9.2
+  experience: 9.4
+  depth: 9.1
+  categories:
+    nature: 10
+    culture: 9.8
+    photography: 10

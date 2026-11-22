@@ -1,0 +1,15 @@
+id: city-cn-baise
+name: "Baise"
+location:
+  country_code: CN
+  latitude: 23.9026
+  longitude: 106.6182
+scores:
+  impact: 8.3
+  uniqueness: 8.9
+  significance: 9
+  experience: 8.8
+  depth: 8.8
+  categories:
+    nature: 9.4
+    history: 9.1

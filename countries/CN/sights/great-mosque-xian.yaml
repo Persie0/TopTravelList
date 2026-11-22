@@ -1,0 +1,16 @@
+id: sight-cn-great-mosque-xian
+name: "Great Mosque of Xi'an"
+location:
+  country_code: CN
+  latitude: 34.263
+  longitude: 108.941
+scores:
+  impact: 9.9
+  uniqueness: 10
+  significance: 10
+  experience: 10
+  depth: 9.4
+  categories:
+    architecture: 10
+    history: 10
+    culture: 10

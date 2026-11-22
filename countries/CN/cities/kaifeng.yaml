@@ -1,0 +1,16 @@
+id: city-cn-kaifeng
+name: "Kaifeng"
+location:
+  country_code: CN
+  latitude: 34.7973
+  longitude: 114.3076
+scores:
+  impact: 9.1
+  uniqueness: 9.4
+  significance: 9.9
+  experience: 9.3
+  depth: 9.3
+  categories:
+    history: 10
+    architecture: 9.6
+    culture: 9.5

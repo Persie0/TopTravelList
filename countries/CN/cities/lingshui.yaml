@@ -1,0 +1,15 @@
+id: city-cn-lingshui
+name: "Lingshui"
+location:
+  country_code: CN
+  latitude: 18.506
+  longitude: 110.04
+scores:
+  impact: 8.4
+  uniqueness: 8.6
+  significance: 8
+  experience: 9.1
+  depth: 8.9
+  categories:
+    beaches: 9.5
+    nature: 9.2

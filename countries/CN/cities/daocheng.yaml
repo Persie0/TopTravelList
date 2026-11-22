@@ -1,0 +1,16 @@
+id: city-cn-daocheng
+name: "Daocheng"
+location:
+  country_code: CN
+  latitude: 29.037
+  longitude: 100.298
+scores:
+  impact: 9.1
+  uniqueness: 9.8
+  significance: 8.5
+  experience: 9.4
+  depth: 9
+  categories:
+    nature: 10
+    adventure: 9.7
+    photography: 9.9

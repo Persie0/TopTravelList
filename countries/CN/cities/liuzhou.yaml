@@ -1,0 +1,15 @@
+id: city-cn-liuzhou
+name: "Liuzhou"
+location:
+  country_code: CN
+  latitude: 24.3264
+  longitude: 109.4281
+scores:
+  impact: 8.6
+  uniqueness: 9
+  significance: 8.8
+  experience: 9.2
+  depth: 9.3
+  categories:
+    nature: 9.1
+    food: 9.6

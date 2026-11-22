@@ -1,0 +1,15 @@
+id: city-cn-hengyang
+name: "Hengyang"
+location:
+  country_code: CN
+  latitude: 26.8932
+  longitude: 112.5719
+scores:
+  impact: 8.2
+  uniqueness: 8.7
+  significance: 9
+  experience: 8.8
+  depth: 8.7
+  categories:
+    nature: 9.1
+    history: 9.2

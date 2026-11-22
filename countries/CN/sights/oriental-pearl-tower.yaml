@@ -1,0 +1,16 @@
+id: sight-cn-oriental-pearl-tower
+name: "Oriental Pearl Tower"
+location:
+  country_code: CN
+  latitude: 31.2397
+  longitude: 121.4998
+scores:
+  impact: 9.4
+  uniqueness: 9.9
+  significance: 9.5
+  experience: 9.6
+  depth: 9
+  categories:
+    architecture: 10
+    photography: 10
+    history: 9.1

@@ -1,0 +1,15 @@
+id: sight-cn-dali-old-town
+name: "Dali Ancient Town"
+location:
+  country_code: CN
+  latitude: 25.694
+  longitude: 100.166
+scores:
+  impact: 9.7
+  uniqueness: 10
+  significance: 9.9
+  experience: 9.9
+  depth: 9.7
+  categories:
+    architecture: 10
+    history: 10

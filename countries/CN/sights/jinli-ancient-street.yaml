@@ -1,0 +1,15 @@
+id: sight-cn-jinli-ancient-street
+name: "Jinli Ancient Street"
+location:
+  country_code: CN
+  latitude: 30.645
+  longitude: 104.047
+scores:
+  impact: 9.2
+  uniqueness: 9.6
+  significance: 9.2
+  experience: 9.7
+  depth: 9.6
+  categories:
+    architecture: 9.7
+    food: 9.8

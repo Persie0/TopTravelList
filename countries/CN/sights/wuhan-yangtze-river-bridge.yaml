@@ -1,0 +1,16 @@
+id: sight-cn-wuhan-yangtze-river-bridge
+name: "Wuhan Yangtze River Bridge"
+location:
+  country_code: CN
+  latitude: 30.5489
+  longitude: 114.284
+scores:
+  impact: 9
+  uniqueness: 9.6
+  significance: 9.8
+  experience: 9.4
+  depth: 8.6
+  categories:
+    architecture: 9.8
+    history: 10
+    photography: 9.6

@@ -1,0 +1,17 @@
+id: city-cn-tianjin
+name: "Tianjin"
+location:
+  country_code: CN
+  latitude: 39.0842
+  longitude: 117.2
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 8.8
+  experience: 8.9
+  depth: 9.2
+  categories:
+    architecture: 9.1
+    history: 8.9
+    culture: 8.7
+    food: 9.1

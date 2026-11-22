@@ -1,0 +1,20 @@
+id: city-cn-hong-kong
+name: "Hong Kong"
+location:
+  country_code: CN
+  latitude: 22.3193
+  longitude: 114.1694
+scores:
+  impact: 9.8
+  uniqueness: 9.7
+  significance: 9.6
+  experience: 9.8
+  depth: 10
+  categories:
+    architecture: 10
+    history: 9.4
+    culture: 9.9
+    food: 9.9
+    nightlife: 9.9
+    photography: 10
+    nature: 9.1

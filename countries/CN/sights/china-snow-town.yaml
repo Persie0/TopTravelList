@@ -1,0 +1,15 @@
+id: sight-cn-china-snow-town
+name: "China Snow Town (Shuangfeng Forest Farm)"
+location:
+  country_code: CN
+  latitude: 44.427
+  longitude: 128.899
+scores:
+  impact: 9.7
+  uniqueness: 10
+  significance: 9.2
+  experience: 10
+  depth: 9.6
+  categories:
+    nature: 10
+    photography: 10

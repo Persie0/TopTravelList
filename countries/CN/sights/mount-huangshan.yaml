@@ -1,0 +1,17 @@
+id: sight-cn-mount-huangshan
+name: "Mount Huangshan (Yellow Mountain)"
+location:
+  country_code: CN
+  latitude: 30.133
+  longitude: 118.166
+scores:
+  impact: 10
+  uniqueness: 10
+  significance: 10
+  experience: 10
+  depth: 10
+  categories:
+    nature: 10
+    photography: 10
+    adventure: 10
+    history: 10

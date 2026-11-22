@@ -1,0 +1,15 @@
+id: sight-cn-tengchong-hot-sea
+name: "Tengchong Hot Sea Geothermal Park"
+location:
+  country_code: CN
+  latitude: 24.947
+  longitude: 98.43
+scores:
+  impact: 9.7
+  uniqueness: 10
+  significance: 9.1
+  experience: 9.9
+  depth: 9.7
+  categories:
+    nature: 10
+    relaxation: 9.5

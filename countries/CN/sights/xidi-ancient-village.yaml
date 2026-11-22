@@ -1,0 +1,17 @@
+id: sight-cn-xidi-ancient-village
+name: "Xidi Ancient Village"
+location:
+  country_code: CN
+  latitude: 29.904
+  longitude: 117.995
+scores:
+  impact: 9.8
+  uniqueness: 10
+  significance: 10
+  experience: 9.7
+  depth: 9.3
+  categories:
+    architecture: 10
+    history: 10
+    culture: 10
+    photography: 9.9

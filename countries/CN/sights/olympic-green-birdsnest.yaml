@@ -1,0 +1,16 @@
+id: sight-cn-olympic-green-birdsnest
+name: "Beijing National Stadium (Bird's Nest)"
+location:
+  country_code: CN
+  latitude: 39.9929
+  longitude: 116.3965
+scores:
+  impact: 9.2
+  uniqueness: 9.7
+  significance: 9
+  experience: 9.3
+  depth: 9
+  categories:
+    architecture: 10
+    photography: 9.8
+    history: 9.0

@@ -1,0 +1,17 @@
+id: sight-cn-meizhou-island
+name: "Meizhou Island"
+location:
+  country_code: CN
+  latitude: 25.08
+  longitude: 119.11
+scores:
+  impact: 9.4
+  uniqueness: 9.8
+  significance: 9.7
+  experience: 9.7
+  depth: 9.6
+  categories:
+    culture: 10
+    history: 9.9
+    beaches: 9.3
+    photography: 9.8

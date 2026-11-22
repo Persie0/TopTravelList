@@ -1,0 +1,16 @@
+id: city-cn-nanchang
+name: "Nanchang"
+location:
+  country_code: CN
+  latitude: 28.6829
+  longitude: 115.8582
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 9.1
+  experience: 9
+  depth: 9.1
+  categories:
+    history: 9.3
+    architecture: 9.0
+    food: 8.7

@@ -1,0 +1,16 @@
+id: sight-cn-nanluoguxiang
+name: "Nanluoguxiang Historic Lane"
+location:
+  country_code: CN
+  latitude: 39.9371
+  longitude: 116.4032
+scores:
+  impact: 9.1
+  uniqueness: 9.4
+  significance: 9.5
+  experience: 9.6
+  depth: 9.4
+  categories:
+    history: 9.7
+    culture: 9.6
+    food: 9.4

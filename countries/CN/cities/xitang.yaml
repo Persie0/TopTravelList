@@ -1,0 +1,16 @@
+id: city-cn-xitang
+name: "Xitang"
+location:
+  country_code: CN
+  latitude: 30.9469
+  longitude: 120.8853
+scores:
+  impact: 9
+  uniqueness: 9.4
+  significance: 9.3
+  experience: 9.3
+  depth: 8.7
+  categories:
+    architecture: 9.6
+    history: 9.5
+    photography: 9.8

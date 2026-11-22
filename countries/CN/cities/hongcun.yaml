@@ -1,0 +1,16 @@
+id: city-cn-hongcun
+name: "Hongcun"
+location:
+  country_code: CN
+  latitude: 30.004
+  longitude: 117.9875
+scores:
+  impact: 9.3
+  uniqueness: 9.8
+  significance: 9.9
+  experience: 9.4
+  depth: 8.9
+  categories:
+    architecture: 10
+    history: 10
+    photography: 10

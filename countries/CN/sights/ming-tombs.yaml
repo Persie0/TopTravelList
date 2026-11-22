@@ -1,0 +1,17 @@
+id: sight-cn-ming-tombs
+name: "Ming Tombs"
+location:
+  country_code: CN
+  latitude: 40.25
+  longitude: 116.225
+scores:
+  impact: 9.6
+  uniqueness: 9.9
+  significance: 10
+  experience: 9.6
+  depth: 9.9
+  categories:
+    history: 10
+    architecture: 10
+    culture: 9.8
+    photography: 9.5

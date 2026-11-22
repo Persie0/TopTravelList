@@ -1,0 +1,16 @@
+id: sight-cn-labrang-monastery
+name: "Labrang Monastery"
+location:
+  country_code: CN
+  latitude: 35.197
+  longitude: 102.521
+scores:
+  impact: 10
+  uniqueness: 10
+  significance: 10
+  experience: 10
+  depth: 10
+  categories:
+    architecture: 10
+    history: 10
+    culture: 10

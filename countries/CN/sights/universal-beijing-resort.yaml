@@ -1,0 +1,15 @@
+id: sight-cn-universal-beijing-resort
+name: "Universal Beijing Resort"
+location:
+  country_code: CN
+  latitude: 39.854
+  longitude: 116.671
+scores:
+  impact: 8.8
+  uniqueness: 9.1
+  significance: 7.7
+  experience: 9.7
+  depth: 9.7
+  categories:
+    family: 10
+    adventure: 9.2

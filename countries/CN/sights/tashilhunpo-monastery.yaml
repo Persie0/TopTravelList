@@ -1,0 +1,15 @@
+id: sight-cn-tashilhunpo-monastery
+name: "Tashilhunpo Monastery"
+location:
+  country_code: CN
+  latitude: 29.263
+  longitude: 88.881
+scores:
+  impact: 10
+  uniqueness: 10
+  significance: 10
+  experience: 10
+  depth: 9.8
+  categories:
+    architecture: 10
+    history: 10

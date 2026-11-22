@@ -1,0 +1,15 @@
+id: city-cn-xichang
+name: "Xichang"
+location:
+  country_code: CN
+  latitude: 27.8945
+  longitude: 102.2644
+scores:
+  impact: 8.5
+  uniqueness: 9
+  significance: 8.7
+  experience: 9
+  depth: 8.8
+  categories:
+    culture: 9.3
+    nature: 9.1

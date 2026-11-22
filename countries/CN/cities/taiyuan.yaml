@@ -1,0 +1,16 @@
+id: city-cn-taiyuan
+name: "Taiyuan"
+location:
+  country_code: CN
+  latitude: 37.8706
+  longitude: 112.5489
+scores:
+  impact: 8.3
+  uniqueness: 8.6
+  significance: 9.2
+  experience: 8.8
+  depth: 9.1
+  categories:
+    history: 9.4
+    architecture: 9.1
+    culture: 8.8

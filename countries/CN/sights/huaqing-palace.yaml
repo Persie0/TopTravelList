@@ -1,0 +1,15 @@
+id: sight-cn-huaqing-palace
+name: "Huaqing Palace"
+location:
+  country_code: CN
+  latitude: 34.365
+  longitude: 109.215
+scores:
+  impact: 9.6
+  uniqueness: 10
+  significance: 10
+  experience: 9.8
+  depth: 9.4
+  categories:
+    architecture: 10
+    history: 10

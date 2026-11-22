@@ -1,0 +1,15 @@
+id: city-cn-congjiang
+name: "Congjiang"
+location:
+  country_code: CN
+  latitude: 25.747
+  longitude: 108.905
+scores:
+  impact: 8.5
+  uniqueness: 9.2
+  significance: 9
+  experience: 9.1
+  depth: 9
+  categories:
+    culture: 9.6
+    nature: 9.2

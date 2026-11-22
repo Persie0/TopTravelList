@@ -1,0 +1,15 @@
+id: sight-cn-tianjin-eye
+name: "Tianjin Eye"
+location:
+  country_code: CN
+  latitude: 39.1536
+  longitude: 117.1847
+scores:
+  impact: 9
+  uniqueness: 9.4
+  significance: 8.9
+  experience: 9.5
+  depth: 8.2
+  categories:
+    architecture: 9.4
+    photography: 9.8

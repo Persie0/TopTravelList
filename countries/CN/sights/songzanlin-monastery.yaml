@@ -1,0 +1,15 @@
+id: sight-cn-songzanlin-monastery
+name: "Songzanlin Monastery"
+location:
+  country_code: CN
+  latitude: 27.868
+  longitude: 99.704
+scores:
+  impact: 10
+  uniqueness: 10
+  significance: 10
+  experience: 10
+  depth: 9.5
+  categories:
+    architecture: 10
+    history: 10

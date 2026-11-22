@@ -1,0 +1,16 @@
+id: sight-cn-shanhaiguan-great-wall
+name: "Shanhaiguan Great Wall Pass"
+location:
+  country_code: CN
+  latitude: 40.0125
+  longitude: 119.755
+scores:
+  impact: 9.7
+  uniqueness: 9.9
+  significance: 10
+  experience: 9.6
+  depth: 9.3
+  categories:
+    architecture: 10
+    history: 10
+    photography: 9.9

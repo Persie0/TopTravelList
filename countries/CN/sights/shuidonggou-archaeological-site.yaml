@@ -1,0 +1,15 @@
+id: sight-cn-shuidonggou-archaeological-site
+name: "Shuidonggou Archaeological Site"
+location:
+  country_code: CN
+  latitude: 38.254
+  longitude: 106.522
+scores:
+  impact: 9.7
+  uniqueness: 10
+  significance: 10
+  experience: 9.8
+  depth: 9.5
+  categories:
+    history: 10
+    culture: 10

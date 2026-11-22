@@ -1,0 +1,15 @@
+id: sight-cn-shanghai-tower
+name: "Shanghai Tower"
+location:
+  country_code: CN
+  latitude: 31.2335
+  longitude: 121.5056
+scores:
+  impact: 9.5
+  uniqueness: 10
+  significance: 9.2
+  experience: 9.8
+  depth: 8.8
+  categories:
+    architecture: 10
+    photography: 10

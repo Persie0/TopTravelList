@@ -1,0 +1,16 @@
+id: city-cn-songpan
+name: "Songpan"
+location:
+  country_code: CN
+  latitude: 32.65
+  longitude: 103.599
+scores:
+  impact: 8.8
+  uniqueness: 9.3
+  significance: 9.5
+  experience: 9.2
+  depth: 8.8
+  categories:
+    history: 9.7
+    culture: 9.5
+    nature: 9.5

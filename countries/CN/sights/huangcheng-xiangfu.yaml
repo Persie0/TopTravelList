@@ -1,0 +1,16 @@
+id: sight-cn-huangcheng-xiangfu
+name: "Huangcheng Xiangfu"
+location:
+  country_code: CN
+  latitude: 35.5
+  longitude: 112.59
+scores:
+  impact: 9.3
+  uniqueness: 9.8
+  significance: 9.9
+  experience: 9.6
+  depth: 9.6
+  categories:
+    architecture: 10
+    history: 10
+    photography: 9.8

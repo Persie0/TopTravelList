@@ -1,0 +1,16 @@
+id: city-cn-wenchang
+name: "Wenchang"
+location:
+  country_code: CN
+  latitude: 19.613
+  longitude: 110.753
+scores:
+  impact: 8.4
+  uniqueness: 8.8
+  significance: 8.6
+  experience: 9.1
+  depth: 8.9
+  categories:
+    beaches: 9.2
+    history: 8.9
+    photography: 9.4

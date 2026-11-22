@@ -1,0 +1,15 @@
+id: sight-cn-maolan-karst-forest
+name: "Maolan Karst Forest"
+location:
+  country_code: CN
+  latitude: 25.291
+  longitude: 107.989
+scores:
+  impact: 9.8
+  uniqueness: 10
+  significance: 9.5
+  experience: 9.9
+  depth: 10
+  categories:
+    nature: 10
+    wildlife: 9.8

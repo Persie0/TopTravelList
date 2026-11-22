@@ -1,0 +1,16 @@
+id: sight-cn-lama-temple
+name: "Yonghe Temple (Lama Temple)"
+location:
+  country_code: CN
+  latitude: 39.9478
+  longitude: 116.4173
+scores:
+  impact: 9.3
+  uniqueness: 9.5
+  significance: 9.8
+  experience: 9.5
+  depth: 9.1
+  categories:
+    architecture: 9.8
+    history: 9.8
+    culture: 9.9

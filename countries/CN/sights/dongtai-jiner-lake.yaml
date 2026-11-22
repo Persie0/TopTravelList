@@ -1,0 +1,15 @@
+id: sight-cn-dongtai-jiner-lake
+name: "Dongtai Jiner Lake"
+location:
+  country_code: CN
+  latitude: 37.564
+  longitude: 93.99
+scores:
+  impact: 9.9
+  uniqueness: 10
+  significance: 9.4
+  experience: 10
+  depth: 9.5
+  categories:
+    nature: 10
+    photography: 10

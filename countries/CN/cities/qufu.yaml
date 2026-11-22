@@ -1,0 +1,16 @@
+id: city-cn-qufu
+name: "Qufu"
+location:
+  country_code: CN
+  latitude: 35.5967
+  longitude: 116.9919
+scores:
+  impact: 9.3
+  uniqueness: 9.7
+  significance: 10
+  experience: 9.4
+  depth: 9.2
+  categories:
+    history: 10
+    architecture: 9.9
+    culture: 10

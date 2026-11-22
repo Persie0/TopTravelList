@@ -1,0 +1,16 @@
+id: city-cn-jilin-city
+name: "Jilin City"
+location:
+  country_code: CN
+  latitude: 43.8378
+  longitude: 126.5494
+scores:
+  impact: 8.5
+  uniqueness: 9
+  significance: 8.5
+  experience: 9
+  depth: 8.8
+  categories:
+    nature: 9.2
+    photography: 9.6
+    history: 8.6

@@ -1,0 +1,15 @@
+id: city-cn-linxia
+name: "Linxia"
+location:
+  country_code: CN
+  latitude: 35.6012
+  longitude: 103.2109
+scores:
+  impact: 8.6
+  uniqueness: 9.1
+  significance: 9.1
+  experience: 9.1
+  depth: 8.9
+  categories:
+    culture: 9.4
+    history: 9.3

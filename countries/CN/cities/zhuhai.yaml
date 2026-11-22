@@ -1,0 +1,16 @@
+id: city-cn-zhuhai
+name: "Zhuhai"
+location:
+  country_code: CN
+  latitude: 22.2707
+  longitude: 113.5767
+scores:
+  impact: 8.4
+  uniqueness: 8.6
+  significance: 8.2
+  experience: 9
+  depth: 9.2
+  categories:
+    beaches: 8.3
+    architecture: 8.7
+    photography: 9.2

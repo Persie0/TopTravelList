@@ -1,0 +1,16 @@
+id: sight-cn-leye-tiankeng
+name: "Leye Dashiwei Tiankeng"
+location:
+  country_code: CN
+  latitude: 24.848
+  longitude: 106.614
+scores:
+  impact: 9.8
+  uniqueness: 10
+  significance: 9.1
+  experience: 9.9
+  depth: 9.5
+  categories:
+    nature: 10
+    adventure: 10
+    photography: 10

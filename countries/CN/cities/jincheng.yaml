@@ -1,0 +1,15 @@
+id: city-cn-jincheng
+name: "Jincheng"
+location:
+  country_code: CN
+  latitude: 35.4907
+  longitude: 112.851
+scores:
+  impact: 8
+  uniqueness: 8.7
+  significance: 8.9
+  experience: 8.7
+  depth: 8.6
+  categories:
+    history: 9.3
+    architecture: 9.0

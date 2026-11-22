@@ -1,0 +1,15 @@
+id: sight-cn-qingbuliang-rainforest
+name: "Qixianling Rainforest Hot Springs"
+location:
+  country_code: CN
+  latitude: 18.695
+  longitude: 109.696
+scores:
+  impact: 9
+  uniqueness: 9.6
+  significance: 8.5
+  experience: 9.7
+  depth: 9.3
+  categories:
+    nature: 9.7
+    relaxation: 10

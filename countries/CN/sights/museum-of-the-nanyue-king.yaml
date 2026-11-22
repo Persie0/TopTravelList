@@ -1,0 +1,15 @@
+id: sight-cn-museum-of-the-nanyue-king
+name: "Museum of the Nanyue King"
+location:
+  country_code: CN
+  latitude: 23.143
+  longitude: 113.261
+scores:
+  impact: 9.5
+  uniqueness: 10
+  significance: 10
+  experience: 9.6
+  depth: 9.5
+  categories:
+    history: 10
+    culture: 10

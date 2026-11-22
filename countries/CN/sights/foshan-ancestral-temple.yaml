@@ -1,0 +1,16 @@
+id: sight-cn-foshan-ancestral-temple
+name: "Foshan Ancestral Temple"
+location:
+  country_code: CN
+  latitude: 23.031
+  longitude: 113.107
+scores:
+  impact: 9.5
+  uniqueness: 10
+  significance: 10
+  experience: 9.8
+  depth: 9.5
+  categories:
+    history: 10
+    culture: 10
+    architecture: 10

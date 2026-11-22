@@ -1,0 +1,17 @@
+id: city-cn-hohhot
+name: "Hohhot"
+location:
+  country_code: CN
+  latitude: 40.8426
+  longitude: 111.7492
+scores:
+  impact: 8.3
+  uniqueness: 8.8
+  significance: 9
+  experience: 8.9
+  depth: 8.9
+  categories:
+    history: 9.2
+    culture: 9.6
+    food: 9.0
+    architecture: 8.9

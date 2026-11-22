@@ -1,0 +1,16 @@
+id: sight-cn-nan-ao-island
+name: "Nan'ao Island"
+location:
+  country_code: CN
+  latitude: 23.43
+  longitude: 117.05
+scores:
+  impact: 9.2
+  uniqueness: 9.6
+  significance: 8.7
+  experience: 9.6
+  depth: 9.7
+  categories:
+    nature: 9.8
+    beaches: 9.4
+    photography: 9.8

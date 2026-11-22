@@ -1,0 +1,14 @@
+id: city-cn-xinxiang
+name: "Xinxiang"
+location:
+  country_code: CN
+  latitude: 35.3032
+  longitude: 113.9268
+scores:
+  impact: 7.7
+  uniqueness: 8.1
+  significance: 8.2
+  experience: 8.4
+  depth: 8.4
+  categories:
+    nature: 8.6

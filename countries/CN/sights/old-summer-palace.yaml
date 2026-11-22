@@ -1,0 +1,16 @@
+id: sight-cn-old-summer-palace
+name: "Old Summer Palace (Yuanmingyuan)"
+location:
+  country_code: CN
+  latitude: 40.0091
+  longitude: 116.3001
+scores:
+  impact: 9.3
+  uniqueness: 9.8
+  significance: 10
+  experience: 9.5
+  depth: 9.4
+  categories:
+    history: 10
+    architecture: 9.3
+    photography: 9.2

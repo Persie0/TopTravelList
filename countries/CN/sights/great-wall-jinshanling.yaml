@@ -1,0 +1,17 @@
+id: sight-cn-great-wall-jinshanling
+name: "Great Wall at Jinshanling"
+location:
+  country_code: CN
+  latitude: 40.668
+  longitude: 117.2445
+scores:
+  impact: 10
+  uniqueness: 10
+  significance: 10
+  experience: 9.9
+  depth: 9.4
+  categories:
+    architecture: 10
+    history: 10
+    adventure: 9.8
+    photography: 10

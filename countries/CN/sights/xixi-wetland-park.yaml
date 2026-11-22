@@ -1,0 +1,16 @@
+id: sight-cn-xixi-wetland-park
+name: "Xixi National Wetland Park"
+location:
+  country_code: CN
+  latitude: 30.273
+  longitude: 120.076
+scores:
+  impact: 9
+  uniqueness: 9.4
+  significance: 9
+  experience: 9.6
+  depth: 9.7
+  categories:
+    nature: 9.6
+    wildlife: 9.1
+    relaxation: 9.7

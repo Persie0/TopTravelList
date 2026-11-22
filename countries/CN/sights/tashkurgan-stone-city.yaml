@@ -1,0 +1,16 @@
+id: sight-cn-tashkurgan-stone-city
+name: "Tashkurgan Stone City"
+location:
+  country_code: CN
+  latitude: 37.775
+  longitude: 75.229
+scores:
+  impact: 10
+  uniqueness: 10
+  significance: 10
+  experience: 10
+  depth: 9.6
+  categories:
+    history: 10
+    architecture: 10
+    photography: 10

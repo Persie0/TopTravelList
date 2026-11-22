@@ -1,0 +1,16 @@
+id: sight-cn-kumbum-monastery
+name: "Kumbum Monastery (Ta'er Temple)"
+location:
+  country_code: CN
+  latitude: 36.484
+  longitude: 101.571
+scores:
+  impact: 10
+  uniqueness: 10
+  significance: 10
+  experience: 10
+  depth: 9.6
+  categories:
+    architecture: 10
+    history: 10
+    culture: 10

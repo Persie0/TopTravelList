@@ -1,0 +1,16 @@
+id: sight-cn-qinghai-lake
+name: "Qinghai Lake (Kokonor)"
+location:
+  country_code: CN
+  latitude: 36.874
+  longitude: 100.203
+scores:
+  impact: 10
+  uniqueness: 10
+  significance: 10
+  experience: 10
+  depth: 10
+  categories:
+    nature: 10
+    photography: 10
+    wildlife: 10

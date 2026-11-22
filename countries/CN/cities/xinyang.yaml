@@ -1,0 +1,15 @@
+id: city-cn-xinyang
+name: "Xinyang"
+location:
+  country_code: CN
+  latitude: 32.1264
+  longitude: 114.0913
+scores:
+  impact: 7.8
+  uniqueness: 8.2
+  significance: 8
+  experience: 8.6
+  depth: 8.6
+  categories:
+    nature: 8.7
+    food: 8.8

@@ -1,0 +1,16 @@
+id: city-cn-yanji
+name: "Yanji"
+location:
+  country_code: CN
+  latitude: 42.8913
+  longitude: 129.5089
+scores:
+  impact: 8.2
+  uniqueness: 8.8
+  significance: 8.7
+  experience: 9.1
+  depth: 8.7
+  categories:
+    culture: 9.3
+    food: 9.4
+    history: 8.7

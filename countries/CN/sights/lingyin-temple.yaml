@@ -1,0 +1,16 @@
+id: sight-cn-lingyin-temple
+name: "Lingyin Temple"
+location:
+  country_code: CN
+  latitude: 30.2448
+  longitude: 120.1011
+scores:
+  impact: 9.7
+  uniqueness: 9.9
+  significance: 10
+  experience: 9.8
+  depth: 9.8
+  categories:
+    architecture: 10
+    history: 10
+    culture: 10

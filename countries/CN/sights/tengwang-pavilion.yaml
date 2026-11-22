@@ -1,0 +1,17 @@
+id: sight-cn-tengwang-pavilion
+name: "Tengwang Pavilion"
+location:
+  country_code: CN
+  latitude: 28.682
+  longitude: 115.877
+scores:
+  impact: 9.5
+  uniqueness: 9.9
+  significance: 10
+  experience: 9.7
+  depth: 9.3
+  categories:
+    architecture: 10
+    history: 10
+    culture: 10
+    photography: 10

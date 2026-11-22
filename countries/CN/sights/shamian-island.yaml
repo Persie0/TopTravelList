@@ -1,0 +1,16 @@
+id: sight-cn-shamian-island
+name: "Shamian Island Guangzhou"
+location:
+  country_code: CN
+  latitude: 23.104
+  longitude: 113.238
+scores:
+  impact: 9.3
+  uniqueness: 9.7
+  significance: 9.6
+  experience: 9.7
+  depth: 9.4
+  categories:
+    architecture: 9.9
+    history: 9.8
+    photography: 9.7

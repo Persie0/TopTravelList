@@ -1,0 +1,16 @@
+id: sight-cn-sanqingshan-mountain
+name: "Mount Sanqingshan"
+location:
+  country_code: CN
+  latitude: 28.919
+  longitude: 118.064
+scores:
+  impact: 10
+  uniqueness: 10
+  significance: 10
+  experience: 10
+  depth: 9.8
+  categories:
+    nature: 10
+    photography: 10
+    adventure: 9.9

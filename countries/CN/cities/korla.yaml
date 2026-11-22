@@ -1,0 +1,15 @@
+id: city-cn-korla
+name: "Korla"
+location:
+  country_code: CN
+  latitude: 41.7259
+  longitude: 86.1746
+scores:
+  impact: 8.1
+  uniqueness: 8.8
+  significance: 8.6
+  experience: 8.8
+  depth: 8.8
+  categories:
+    nature: 9.2
+    culture: 8.9

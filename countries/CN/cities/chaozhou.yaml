@@ -1,0 +1,17 @@
+id: city-cn-chaozhou
+name: "Chaozhou"
+location:
+  country_code: CN
+  latitude: 23.6567
+  longitude: 116.6226
+scores:
+  impact: 9
+  uniqueness: 9.5
+  significance: 9.8
+  experience: 9.3
+  depth: 9.2
+  categories:
+    history: 10
+    culture: 9.9
+    food: 10
+    architecture: 9.6

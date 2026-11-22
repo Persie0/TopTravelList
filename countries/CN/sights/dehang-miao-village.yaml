@@ -1,0 +1,16 @@
+id: sight-cn-dehang-miao-village
+name: "Dehang Miao Village"
+location:
+  country_code: CN
+  latitude: 28.33
+  longitude: 109.597
+scores:
+  impact: 9.2
+  uniqueness: 9.8
+  significance: 9.6
+  experience: 9.5
+  depth: 9.2
+  categories:
+    architecture: 9.7
+    culture: 10
+    nature: 9.4

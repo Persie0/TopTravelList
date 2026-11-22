@@ -1,0 +1,16 @@
+id: sight-cn-confucius-cemetery
+name: "Cemetery of Confucius"
+location:
+  country_code: CN
+  latitude: 35.612
+  longitude: 116.981
+scores:
+  impact: 9.7
+  uniqueness: 10
+  significance: 10
+  experience: 9.7
+  depth: 9.6
+  categories:
+    history: 10
+    culture: 10
+    nature: 9.1

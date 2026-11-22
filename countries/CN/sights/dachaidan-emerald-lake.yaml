@@ -1,0 +1,15 @@
+id: sight-cn-dachaidan-emerald-lake
+name: "Dachaidan Emerald Lake"
+location:
+  country_code: CN
+  latitude: 37.87
+  longitude: 95.17
+scores:
+  impact: 9.9
+  uniqueness: 10
+  significance: 9.3
+  experience: 10
+  depth: 9.6
+  categories:
+    nature: 10
+    photography: 10

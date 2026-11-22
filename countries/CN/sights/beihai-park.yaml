@@ -1,0 +1,17 @@
+id: sight-cn-beihai-park
+name: "Beihai Park"
+location:
+  country_code: CN
+  latitude: 39.9245
+  longitude: 116.389
+scores:
+  impact: 9.1
+  uniqueness: 9.4
+  significance: 9.7
+  experience: 9.6
+  depth: 9.2
+  categories:
+    nature: 9.2
+    architecture: 9.5
+    history: 9.8
+    relaxation: 9.6

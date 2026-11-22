@@ -1,0 +1,15 @@
+id: city-cn-xishuangbanna-mengla
+name: "Mengla"
+location:
+  country_code: CN
+  latitude: 21.483
+  longitude: 101.566
+scores:
+  impact: 8.4
+  uniqueness: 9.2
+  significance: 8.7
+  experience: 8.9
+  depth: 8.9
+  categories:
+    nature: 9.8
+    culture: 9.1

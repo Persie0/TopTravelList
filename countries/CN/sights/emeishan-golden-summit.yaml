@@ -1,0 +1,16 @@
+id: sight-cn-emeishan-golden-summit
+name: "Golden Summit of Mount Emei"
+location:
+  country_code: CN
+  latitude: 29.52
+  longitude: 103.33
+scores:
+  impact: 9.9
+  uniqueness: 10
+  significance: 9.9
+  experience: 10
+  depth: 9.5
+  categories:
+    nature: 10
+    architecture: 10
+    photography: 10

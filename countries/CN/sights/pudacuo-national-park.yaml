@@ -1,0 +1,15 @@
+id: sight-cn-pudacuo-national-park
+name: "Pudacuo National Park"
+location:
+  country_code: CN
+  latitude: 27.81
+  longitude: 99.935
+scores:
+  impact: 10
+  uniqueness: 10
+  significance: 9.4
+  experience: 10
+  depth: 10
+  categories:
+    nature: 10
+    wildlife: 9.8

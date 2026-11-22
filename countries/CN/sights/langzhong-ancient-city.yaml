@@ -1,0 +1,15 @@
+id: sight-cn-langzhong-ancient-city
+name: "Langzhong Ancient City"
+location:
+  country_code: CN
+  latitude: 31.558
+  longitude: 105.969
+scores:
+  impact: 9.7
+  uniqueness: 9.9
+  significance: 10
+  experience: 9.8
+  depth: 9.9
+  categories:
+    architecture: 10
+    history: 10

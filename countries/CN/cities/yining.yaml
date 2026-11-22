@@ -1,0 +1,16 @@
+id: city-cn-yining
+name: "Yining"
+location:
+  country_code: CN
+  latitude: 43.908
+  longitude: 81.277
+scores:
+  impact: 8.8
+  uniqueness: 9.5
+  significance: 8.8
+  experience: 9.3
+  depth: 9.3
+  categories:
+    nature: 9.7
+    culture: 9.7
+    food: 9.2

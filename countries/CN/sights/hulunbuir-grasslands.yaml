@@ -1,0 +1,16 @@
+id: sight-cn-hulunbuir-grasslands
+name: "Hulunbuir Grasslands"
+location:
+  country_code: CN
+  latitude: 48.9
+  longitude: 119.7
+scores:
+  impact: 10
+  uniqueness: 10
+  significance: 9.6
+  experience: 10
+  depth: 10
+  categories:
+    nature: 10
+    wildlife: 10
+    photography: 10

@@ -1,0 +1,16 @@
+id: sight-cn-orange-isle
+name: "Orange Isle Changsha"
+location:
+  country_code: CN
+  latitude: 28.195
+  longitude: 112.97
+scores:
+  impact: 9.1
+  uniqueness: 9.6
+  significance: 9.5
+  experience: 9.8
+  depth: 9.6
+  categories:
+    nature: 9.3
+    history: 9.7
+    photography: 9.4

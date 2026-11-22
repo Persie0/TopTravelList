@@ -1,0 +1,18 @@
+id: city-cn-guilin
+name: "Guilin"
+location:
+  country_code: CN
+  latitude: 25.2736
+  longitude: 110.29
+scores:
+  impact: 9.5
+  uniqueness: 9.6
+  significance: 8.9
+  experience: 9.6
+  depth: 9.6
+  categories:
+    nature: 10
+    photography: 10
+    history: 8.8
+    food: 8.9
+    adventure: 9.1

@@ -1,0 +1,16 @@
+id: city-cn-kuqa
+name: "Kuqa"
+location:
+  country_code: CN
+  latitude: 41.717
+  longitude: 82.963
+scores:
+  impact: 9.1
+  uniqueness: 9.7
+  significance: 9.8
+  experience: 9.4
+  depth: 9.1
+  categories:
+    history: 10
+    architecture: 9.5
+    nature: 9.6

@@ -1,0 +1,16 @@
+id: sight-cn-jiayuguan-fort
+name: "Jiayuguan Fortress"
+location:
+  country_code: CN
+  latitude: 39.799
+  longitude: 98.218
+scores:
+  impact: 10
+  uniqueness: 10
+  significance: 10
+  experience: 10
+  depth: 9.7
+  categories:
+    architecture: 10
+    history: 10
+    photography: 10

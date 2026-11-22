@@ -1,0 +1,16 @@
+id: sight-cn-master-of-nets-garden
+name: "Master of Nets Garden"
+location:
+  country_code: CN
+  latitude: 31.3
+  longitude: 120.624
+scores:
+  impact: 9.5
+  uniqueness: 10
+  significance: 10
+  experience: 9.7
+  depth: 8.9
+  categories:
+    architecture: 10
+    history: 10
+    photography: 9.8

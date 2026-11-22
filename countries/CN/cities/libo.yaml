@@ -1,0 +1,15 @@
+id: city-cn-libo
+name: "Libo"
+location:
+  country_code: CN
+  latitude: 25.41
+  longitude: 107.882
+scores:
+  impact: 9
+  uniqueness: 9.5
+  significance: 8.7
+  experience: 9.4
+  depth: 8.8
+  categories:
+    nature: 10
+    photography: 10

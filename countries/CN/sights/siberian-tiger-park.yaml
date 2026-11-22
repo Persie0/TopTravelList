@@ -1,0 +1,15 @@
+id: sight-cn-siberian-tiger-park
+name: "Siberian Tiger Park Harbin"
+location:
+  country_code: CN
+  latitude: 45.829
+  longitude: 126.59
+scores:
+  impact: 9.5
+  uniqueness: 9.8
+  significance: 9.3
+  experience: 9.8
+  depth: 9.6
+  categories:
+    wildlife: 10
+    nature: 9.5

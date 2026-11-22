@@ -1,0 +1,17 @@
+id: city-cn-shaoxing
+name: "Shaoxing"
+location:
+  country_code: CN
+  latitude: 30.0298
+  longitude: 120.5802
+scores:
+  impact: 9
+  uniqueness: 9.3
+  significance: 9.5
+  experience: 9.2
+  depth: 9.2
+  categories:
+    history: 9.8
+    architecture: 9.4
+    culture: 9.5
+    photography: 9.3

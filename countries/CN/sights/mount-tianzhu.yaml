@@ -1,0 +1,16 @@
+id: sight-cn-mount-tianzhu
+name: "Mount Tianzhu"
+location:
+  country_code: CN
+  latitude: 30.724
+  longitude: 116.456
+scores:
+  impact: 9.5
+  uniqueness: 9.8
+  significance: 9.4
+  experience: 9.7
+  depth: 9.6
+  categories:
+    nature: 10
+    photography: 10
+    adventure: 9.7

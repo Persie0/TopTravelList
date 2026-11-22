@@ -1,0 +1,15 @@
+id: city-cn-baoshan
+name: "Baoshan"
+location:
+  country_code: CN
+  latitude: 25.112
+  longitude: 99.161
+scores:
+  impact: 8
+  uniqueness: 8.6
+  significance: 8.4
+  experience: 8.7
+  depth: 8.8
+  categories:
+    nature: 9.1
+    history: 8.6

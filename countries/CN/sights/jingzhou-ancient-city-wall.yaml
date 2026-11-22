@@ -1,0 +1,15 @@
+id: sight-cn-jingzhou-ancient-city-wall
+name: "Jingzhou Ancient City Wall"
+location:
+  country_code: CN
+  latitude: 30.354
+  longitude: 112.19
+scores:
+  impact: 9.4
+  uniqueness: 9.9
+  significance: 10
+  experience: 9.6
+  depth: 9.5
+  categories:
+    architecture: 10
+    history: 10

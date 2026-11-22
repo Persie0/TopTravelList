@@ -1,0 +1,15 @@
+id: sight-cn-baili-dujuan
+name: "Baili Azalea Scenic Area"
+location:
+  country_code: CN
+  latitude: 27.186
+  longitude: 105.995
+scores:
+  impact: 9.6
+  uniqueness: 9.9
+  significance: 9
+  experience: 9.9
+  depth: 9.5
+  categories:
+    nature: 10
+    photography: 10

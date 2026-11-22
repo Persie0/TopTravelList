@@ -1,0 +1,15 @@
+id: city-cn-zhangzhou
+name: "Zhangzhou"
+location:
+  country_code: CN
+  latitude: 24.5133
+  longitude: 117.6471
+scores:
+  impact: 8.2
+  uniqueness: 8.7
+  significance: 9
+  experience: 8.9
+  depth: 9
+  categories:
+    history: 9.2
+    food: 9.2

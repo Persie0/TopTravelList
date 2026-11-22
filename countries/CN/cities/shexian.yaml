@@ -1,0 +1,15 @@
+id: city-cn-shexian
+name: "Shexian"
+location:
+  country_code: CN
+  latitude: 29.8667
+  longitude: 118.4336
+scores:
+  impact: 8.8
+  uniqueness: 9.3
+  significance: 9.6
+  experience: 9.1
+  depth: 8.9
+  categories:
+    history: 9.8
+    architecture: 9.5

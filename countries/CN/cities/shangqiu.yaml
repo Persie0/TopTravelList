@@ -1,0 +1,14 @@
+id: city-cn-shangqiu
+name: "Shangqiu"
+location:
+  country_code: CN
+  latitude: 34.4141
+  longitude: 115.6564
+scores:
+  impact: 7.7
+  uniqueness: 8.3
+  significance: 9
+  experience: 8.3
+  depth: 8.4
+  categories:
+    history: 9.2

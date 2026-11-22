@@ -1,0 +1,16 @@
+id: city-cn-tagong
+name: "Tagong"
+location:
+  country_code: CN
+  latitude: 30.321
+  longitude: 101.531
+scores:
+  impact: 8.9
+  uniqueness: 9.6
+  significance: 9.2
+  experience: 9.3
+  depth: 8.7
+  categories:
+    nature: 9.9
+    culture: 9.7
+    photography: 9.9

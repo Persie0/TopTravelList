@@ -1,0 +1,16 @@
+id: sight-cn-laolongtou-great-wall
+name: "Old Dragon's Head (Laolongtou)"
+location:
+  country_code: CN
+  latitude: 39.9697
+  longitude: 119.798
+scores:
+  impact: 9.6
+  uniqueness: 9.9
+  significance: 10
+  experience: 9.6
+  depth: 8.7
+  categories:
+    architecture: 10
+    history: 10
+    photography: 10

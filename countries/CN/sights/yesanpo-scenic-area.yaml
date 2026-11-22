@@ -1,0 +1,16 @@
+id: sight-cn-yesanpo-scenic-area
+name: "Yesanpo Scenic Area"
+location:
+  country_code: CN
+  latitude: 39.651
+  longitude: 115.367
+scores:
+  impact: 8.9
+  uniqueness: 9.3
+  significance: 8.2
+  experience: 9.4
+  depth: 9.5
+  categories:
+    nature: 9.8
+    adventure: 9.3
+    photography: 9.6

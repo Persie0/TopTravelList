@@ -1,0 +1,16 @@
+id: sight-cn-baihaba-village
+name: "Baihaba Village"
+location:
+  country_code: CN
+  latitude: 48.685
+  longitude: 86.788
+scores:
+  impact: 9.8
+  uniqueness: 10
+  significance: 9.5
+  experience: 10
+  depth: 9.7
+  categories:
+    nature: 10
+    culture: 9.8
+    photography: 10

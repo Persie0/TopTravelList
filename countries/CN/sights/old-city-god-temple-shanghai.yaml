@@ -1,0 +1,16 @@
+id: sight-cn-old-city-god-temple-shanghai
+name: "Shanghai City God Temple"
+location:
+  country_code: CN
+  latitude: 31.227
+  longitude: 121.491
+scores:
+  impact: 9.1
+  uniqueness: 9.5
+  significance: 9.5
+  experience: 9.6
+  depth: 9.2
+  categories:
+    architecture: 9.8
+    history: 9.7
+    culture: 9.8

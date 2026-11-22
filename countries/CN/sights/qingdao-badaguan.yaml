@@ -1,0 +1,16 @@
+id: sight-cn-qingdao-badaguan
+name: "Badaguan Scenic Area Qingdao"
+location:
+  country_code: CN
+  latitude: 36.054
+  longitude: 120.346
+scores:
+  impact: 9.1
+  uniqueness: 9.5
+  significance: 9.3
+  experience: 9.5
+  depth: 9.4
+  categories:
+    architecture: 9.7
+    history: 9.5
+    photography: 9.8

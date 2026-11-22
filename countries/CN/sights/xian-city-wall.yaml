@@ -1,0 +1,16 @@
+id: sight-cn-xian-city-wall
+name: "Xi'an Ancient City Wall"
+location:
+  country_code: CN
+  latitude: 34.27
+  longitude: 108.948
+scores:
+  impact: 10
+  uniqueness: 10
+  significance: 10
+  experience: 10
+  depth: 10
+  categories:
+    history: 10
+    architecture: 10
+    photography: 10

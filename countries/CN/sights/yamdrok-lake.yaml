@@ -1,0 +1,15 @@
+id: sight-cn-yamdrok-lake
+name: "Yamdrok Lake"
+location:
+  country_code: CN
+  latitude: 28.909
+  longitude: 90.694
+scores:
+  impact: 10
+  uniqueness: 10
+  significance: 9.7
+  experience: 10
+  depth: 10
+  categories:
+    nature: 10
+    photography: 10

@@ -1,0 +1,15 @@
+id: sight-cn-zhaoxing-dong-village
+name: "Zhaoxing Dong Village"
+location:
+  country_code: CN
+  latitude: 25.905
+  longitude: 109.13
+scores:
+  impact: 9.8
+  uniqueness: 10
+  significance: 10
+  experience: 9.9
+  depth: 9.8
+  categories:
+    architecture: 10
+    culture: 10

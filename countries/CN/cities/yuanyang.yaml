@@ -1,0 +1,16 @@
+id: city-cn-yuanyang
+name: "Yuanyang"
+location:
+  country_code: CN
+  latitude: 23.153
+  longitude: 102.747
+scores:
+  impact: 9.3
+  uniqueness: 9.8
+  significance: 9.6
+  experience: 9.5
+  depth: 9.2
+  categories:
+    nature: 10
+    photography: 10
+    culture: 9.6

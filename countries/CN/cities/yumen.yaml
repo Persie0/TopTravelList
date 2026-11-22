@@ -1,0 +1,15 @@
+id: city-cn-yumen
+name: "Yumen"
+location:
+  country_code: CN
+  latitude: 40.291
+  longitude: 97.045
+scores:
+  impact: 7.7
+  uniqueness: 8.7
+  significance: 8.6
+  experience: 8.6
+  depth: 8.4
+  categories:
+    history: 9.0
+    nature: 8.9

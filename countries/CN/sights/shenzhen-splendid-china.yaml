@@ -1,0 +1,16 @@
+id: sight-cn-shenzhen-splendid-china
+name: "Splendid China Folk Village"
+location:
+  country_code: CN
+  latitude: 22.533
+  longitude: 113.991
+scores:
+  impact: 9
+  uniqueness: 9.6
+  significance: 9.1
+  experience: 9.7
+  depth: 10
+  categories:
+    culture: 9.8
+    architecture: 9.5
+    family: 9.5

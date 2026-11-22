@@ -1,0 +1,15 @@
+id: sight-cn-shaxi-ancient-town
+name: "Shaxi Ancient Town"
+location:
+  country_code: CN
+  latitude: 26.318
+  longitude: 99.852
+scores:
+  impact: 9.6
+  uniqueness: 10
+  significance: 10
+  experience: 9.8
+  depth: 9.6
+  categories:
+    architecture: 10
+    history: 10

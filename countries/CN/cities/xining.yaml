@@ -1,0 +1,16 @@
+id: city-cn-xining
+name: "Xining"
+location:
+  country_code: CN
+  latitude: 36.6171
+  longitude: 101.7782
+scores:
+  impact: 8.8
+  uniqueness: 9.2
+  significance: 9.3
+  experience: 9.2
+  depth: 9.2
+  categories:
+    history: 9.6
+    culture: 9.8
+    nature: 9.1

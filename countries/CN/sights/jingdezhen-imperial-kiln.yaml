@@ -1,0 +1,16 @@
+id: sight-cn-jingdezhen-imperial-kiln
+name: "Jingdezhen Imperial Kiln Site"
+location:
+  country_code: CN
+  latitude: 29.294
+  longitude: 117.202
+scores:
+  impact: 9.7
+  uniqueness: 10
+  significance: 10
+  experience: 9.8
+  depth: 9.5
+  categories:
+    history: 10
+    culture: 10
+    architecture: 9.8

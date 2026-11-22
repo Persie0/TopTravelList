@@ -1,0 +1,15 @@
+id: sight-cn-puppet-emperor-palace
+name: "Museum of the Imperial Palace of Manchukuo"
+location:
+  country_code: CN
+  latitude: 43.897
+  longitude: 125.358
+scores:
+  impact: 9.8
+  uniqueness: 10
+  significance: 10
+  experience: 9.9
+  depth: 9.5
+  categories:
+    history: 10
+    architecture: 10

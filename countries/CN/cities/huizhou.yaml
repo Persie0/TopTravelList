@@ -1,0 +1,15 @@
+id: city-cn-huizhou
+name: "Huizhou"
+location:
+  country_code: CN
+  latitude: 23.1106
+  longitude: 114.4168
+scores:
+  impact: 8.1
+  uniqueness: 8.4
+  significance: 8.6
+  experience: 8.9
+  depth: 9
+  categories:
+    nature: 9.0
+    history: 8.7

@@ -1,0 +1,16 @@
+id: city-cn-tianshui
+name: "Tianshui"
+location:
+  country_code: CN
+  latitude: 34.5809
+  longitude: 105.7249
+scores:
+  impact: 9
+  uniqueness: 9.5
+  significance: 9.8
+  experience: 9.4
+  depth: 9
+  categories:
+    history: 10
+    architecture: 9.6
+    photography: 9.5

@@ -1,0 +1,15 @@
+id: sight-cn-bipenggou-valley
+name: "Bipenggou Valley"
+location:
+  country_code: CN
+  latitude: 31.221
+  longitude: 102.994
+scores:
+  impact: 9.7
+  uniqueness: 9.9
+  significance: 9
+  experience: 9.9
+  depth: 9.8
+  categories:
+    nature: 10
+    photography: 10

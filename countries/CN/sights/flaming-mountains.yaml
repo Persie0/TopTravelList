@@ -1,0 +1,16 @@
+id: sight-cn-flaming-mountains
+name: "Flaming Mountains Turpan"
+location:
+  country_code: CN
+  latitude: 42.87
+  longitude: 89.59
+scores:
+  impact: 9.8
+  uniqueness: 10
+  significance: 9.5
+  experience: 10
+  depth: 9.7
+  categories:
+    nature: 10
+    history: 9.7
+    photography: 10

@@ -1,0 +1,16 @@
+id: sight-cn-lion-grove-garden
+name: "Lion Grove Garden"
+location:
+  country_code: CN
+  latitude: 31.3246
+  longitude: 120.6241
+scores:
+  impact: 9.6
+  uniqueness: 9.9
+  significance: 9.9
+  experience: 9.7
+  depth: 9
+  categories:
+    architecture: 10
+    history: 10
+    photography: 9.9

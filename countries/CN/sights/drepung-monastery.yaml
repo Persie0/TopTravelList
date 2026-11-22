@@ -1,0 +1,15 @@
+id: sight-cn-drepung-monastery
+name: "Drepung Monastery"
+location:
+  country_code: CN
+  latitude: 29.676
+  longitude: 91.057
+scores:
+  impact: 9.9
+  uniqueness: 10
+  significance: 10
+  experience: 10
+  depth: 9.8
+  categories:
+    architecture: 10
+    history: 10

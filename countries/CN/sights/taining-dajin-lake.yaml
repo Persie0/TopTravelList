@@ -1,0 +1,16 @@
+id: sight-cn-taining-dajin-lake
+name: "Dajin Lake Taining"
+location:
+  country_code: CN
+  latitude: 26.86
+  longitude: 117.03
+scores:
+  impact: 9.6
+  uniqueness: 10
+  significance: 9.1
+  experience: 9.8
+  depth: 9.5
+  categories:
+    nature: 10
+    photography: 10
+    adventure: 9.3

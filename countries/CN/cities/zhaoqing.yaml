@@ -1,0 +1,15 @@
+id: city-cn-zhaoqing
+name: "Zhaoqing"
+location:
+  country_code: CN
+  latitude: 23.0471
+  longitude: 112.4651
+scores:
+  impact: 8.4
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 9.1
+  depth: 9
+  categories:
+    nature: 9.4
+    photography: 9.4

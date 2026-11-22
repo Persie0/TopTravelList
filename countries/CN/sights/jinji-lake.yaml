@@ -1,0 +1,16 @@
+id: sight-cn-jinji-lake
+name: "Jinji Lake"
+location:
+  country_code: CN
+  latitude: 31.316
+  longitude: 120.677
+scores:
+  impact: 8.7
+  uniqueness: 9.2
+  significance: 8.2
+  experience: 9.4
+  depth: 9.2
+  categories:
+    architecture: 9.5
+    nightlife: 9.0
+    photography: 9.7

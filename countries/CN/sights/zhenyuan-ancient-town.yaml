@@ -1,0 +1,15 @@
+id: sight-cn-zhenyuan-ancient-town
+name: "Zhenyuan Ancient Town"
+location:
+  country_code: CN
+  latitude: 27.054
+  longitude: 108.427
+scores:
+  impact: 9.6
+  uniqueness: 10
+  significance: 9.9
+  experience: 9.8
+  depth: 9.6
+  categories:
+    architecture: 10
+    history: 10

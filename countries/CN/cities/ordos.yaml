@@ -1,0 +1,16 @@
+id: city-cn-ordos
+name: "Ordos"
+location:
+  country_code: CN
+  latitude: 39.6086
+  longitude: 109.7811
+scores:
+  impact: 8.1
+  uniqueness: 8.8
+  significance: 8.9
+  experience: 8.7
+  depth: 8.9
+  categories:
+    culture: 9.2
+    history: 9.0
+    architecture: 8.8

@@ -1,0 +1,15 @@
+id: city-cn-xilinhot
+name: "Xilinhot"
+location:
+  country_code: CN
+  latitude: 43.9334
+  longitude: 116.087
+scores:
+  impact: 8.2
+  uniqueness: 8.9
+  significance: 8.2
+  experience: 8.8
+  depth: 8.5
+  categories:
+    nature: 9.4
+    culture: 9.1

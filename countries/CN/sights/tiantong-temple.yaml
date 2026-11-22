@@ -1,0 +1,16 @@
+id: sight-cn-tiantong-temple
+name: "Tiantong Temple"
+location:
+  country_code: CN
+  latitude: 29.798
+  longitude: 121.795
+scores:
+  impact: 9
+  uniqueness: 9.6
+  significance: 9.8
+  experience: 9.4
+  depth: 9.3
+  categories:
+    history: 10
+    architecture: 9.8
+    culture: 9.7

@@ -1,0 +1,16 @@
+id: sight-cn-nanjing-massacre-memorial
+name: "Memorial Hall of Nanjing Massacre Victims"
+location:
+  country_code: CN
+  latitude: 32.038
+  longitude: 118.744
+scores:
+  impact: 9.4
+  uniqueness: 9.9
+  significance: 10
+  experience: 9.5
+  depth: 9.4
+  categories:
+    history: 10
+    culture: 10
+    architecture: 9.5

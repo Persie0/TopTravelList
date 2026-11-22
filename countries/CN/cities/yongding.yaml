@@ -1,0 +1,16 @@
+id: city-cn-yongding
+name: "Yongding"
+location:
+  country_code: CN
+  latitude: 24.7246
+  longitude: 116.7327
+scores:
+  impact: 9.1
+  uniqueness: 9.6
+  significance: 9.7
+  experience: 9.3
+  depth: 8.9
+  categories:
+    architecture: 9.9
+    history: 9.8
+    culture: 9.5

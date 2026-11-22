@@ -1,0 +1,15 @@
+id: city-cn-yuncheng
+name: "Yuncheng"
+location:
+  country_code: CN
+  latitude: 35.0263
+  longitude: 111.0069
+scores:
+  impact: 8.1
+  uniqueness: 8.8
+  significance: 9.4
+  experience: 8.6
+  depth: 8.8
+  categories:
+    history: 9.6
+    architecture: 9.0

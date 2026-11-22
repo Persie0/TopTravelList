@@ -1,0 +1,16 @@
+id: sight-cn-tongling-grand-canyon
+name: "Tongling Grand Canyon"
+location:
+  country_code: CN
+  latitude: 22.968
+  longitude: 106.692
+scores:
+  impact: 9.6
+  uniqueness: 10
+  significance: 8.9
+  experience: 9.8
+  depth: 9.3
+  categories:
+    nature: 10
+    adventure: 9.7
+    photography: 10

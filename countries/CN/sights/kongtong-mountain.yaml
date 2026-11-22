@@ -1,0 +1,16 @@
+id: sight-cn-kongtong-mountain
+name: "Kongtong Mountain"
+location:
+  country_code: CN
+  latitude: 35.541
+  longitude: 106.566
+scores:
+  impact: 9.7
+  uniqueness: 10
+  significance: 10
+  experience: 9.9
+  depth: 9.7
+  categories:
+    nature: 10
+    history: 10
+    culture: 9.9

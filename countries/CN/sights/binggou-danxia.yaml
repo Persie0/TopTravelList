@@ -1,0 +1,15 @@
+id: sight-cn-binggou-danxia
+name: "Binggou Danxia"
+location:
+  country_code: CN
+  latitude: 39.079
+  longitude: 100.079
+scores:
+  impact: 9.9
+  uniqueness: 10
+  significance: 9.1
+  experience: 10
+  depth: 9.5
+  categories:
+    nature: 10
+    photography: 10

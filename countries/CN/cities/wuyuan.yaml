@@ -1,0 +1,16 @@
+id: city-cn-wuyuan
+name: "Wuyuan"
+location:
+  country_code: CN
+  latitude: 29.2472
+  longitude: 117.861
+scores:
+  impact: 9.1
+  uniqueness: 9.6
+  significance: 9.5
+  experience: 9.3
+  depth: 9.2
+  categories:
+    nature: 9.5
+    architecture: 9.7
+    photography: 9.9

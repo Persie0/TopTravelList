@@ -1,0 +1,15 @@
+id: sight-cn-sun-island-harbin
+name: "Sun Island Scenic Area"
+location:
+  country_code: CN
+  latitude: 45.798
+  longitude: 126.607
+scores:
+  impact: 9.4
+  uniqueness: 9.8
+  significance: 9.3
+  experience: 9.8
+  depth: 9.8
+  categories:
+    nature: 9.6
+    photography: 10

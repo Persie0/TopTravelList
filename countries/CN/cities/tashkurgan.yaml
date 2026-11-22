@@ -1,0 +1,17 @@
+id: city-cn-tashkurgan
+name: "Tashkurgan"
+location:
+  country_code: CN
+  latitude: 37.771
+  longitude: 75.228
+scores:
+  impact: 9.3
+  uniqueness: 9.9
+  significance: 9.5
+  experience: 9.5
+  depth: 9
+  categories:
+    nature: 10
+    history: 9.6
+    culture: 9.9
+    photography: 10

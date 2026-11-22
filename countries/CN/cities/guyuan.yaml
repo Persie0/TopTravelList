@@ -1,0 +1,15 @@
+id: city-cn-guyuan
+name: "Guyuan"
+location:
+  country_code: CN
+  latitude: 36.0159
+  longitude: 106.285
+scores:
+  impact: 8.1
+  uniqueness: 8.9
+  significance: 9.3
+  experience: 8.8
+  depth: 8.7
+  categories:
+    history: 9.5
+    architecture: 9.0

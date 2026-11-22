@@ -1,0 +1,16 @@
+id: sight-cn-aizhai-bridge
+name: "Aizhai Bridge"
+location:
+  country_code: CN
+  latitude: 28.327
+  longitude: 109.588
+scores:
+  impact: 9.4
+  uniqueness: 10
+  significance: 9.2
+  experience: 9.7
+  depth: 8.7
+  categories:
+    architecture: 10
+    nature: 9.9
+    photography: 10

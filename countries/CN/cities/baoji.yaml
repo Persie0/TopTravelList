@@ -1,0 +1,15 @@
+id: city-cn-baoji
+name: "Baoji"
+location:
+  country_code: CN
+  latitude: 34.3619
+  longitude: 107.2373
+scores:
+  impact: 8
+  uniqueness: 8.5
+  significance: 9
+  experience: 8.7
+  depth: 8.7
+  categories:
+    history: 9.4
+    architecture: 8.8

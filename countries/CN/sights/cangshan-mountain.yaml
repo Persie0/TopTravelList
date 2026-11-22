@@ -1,0 +1,15 @@
+id: sight-cn-cangshan-mountain
+name: "Cangshan Mountain"
+location:
+  country_code: CN
+  latitude: 25.72
+  longitude: 100.108
+scores:
+  impact: 9.9
+  uniqueness: 10
+  significance: 9.7
+  experience: 10
+  depth: 10
+  categories:
+    nature: 10
+    adventure: 9.9

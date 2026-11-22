@@ -1,0 +1,15 @@
+id: sight-cn-xuzhou-han-terracotta-warriors
+name: "Xuzhou Han Terracotta Warriors"
+location:
+  country_code: CN
+  latitude: 34.275
+  longitude: 117.306
+scores:
+  impact: 9.3
+  uniqueness: 9.9
+  significance: 10
+  experience: 9.3
+  depth: 8.9
+  categories:
+    history: 10
+    culture: 10

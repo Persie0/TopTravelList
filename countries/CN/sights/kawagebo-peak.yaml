@@ -1,0 +1,15 @@
+id: sight-cn-kawagebo-peak
+name: "Kawagebo Peak"
+location:
+  country_code: CN
+  latitude: 28.439
+  longitude: 98.682
+scores:
+  impact: 10
+  uniqueness: 10
+  significance: 9.8
+  experience: 10
+  depth: 9.9
+  categories:
+    nature: 10
+    photography: 10

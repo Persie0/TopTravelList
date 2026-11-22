@@ -1,0 +1,15 @@
+id: city-cn-aksu
+name: "Aksu"
+location:
+  country_code: CN
+  latitude: 41.168
+  longitude: 80.26
+scores:
+  impact: 8
+  uniqueness: 8.6
+  significance: 8.5
+  experience: 8.8
+  depth: 8.8
+  categories:
+    history: 8.9
+    nature: 8.9

@@ -1,0 +1,15 @@
+id: city-cn-lishui
+name: "Lishui"
+location:
+  country_code: CN
+  latitude: 28.4672
+  longitude: 119.9229
+scores:
+  impact: 8.7
+  uniqueness: 9
+  significance: 8.4
+  experience: 9.3
+  depth: 9.1
+  categories:
+    nature: 9.7
+    photography: 9.5

@@ -1,0 +1,15 @@
+id: sight-cn-luoping-rapeseed-fields
+name: "Luoping Rapeseed Fields"
+location:
+  country_code: CN
+  latitude: 24.885
+  longitude: 104.307
+scores:
+  impact: 9.7
+  uniqueness: 10
+  significance: 9.3
+  experience: 10
+  depth: 9.6
+  categories:
+    nature: 10
+    photography: 10

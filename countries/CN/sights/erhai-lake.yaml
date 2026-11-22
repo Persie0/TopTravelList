@@ -1,0 +1,15 @@
+id: sight-cn-erhai-lake
+name: "Erhai Lake"
+location:
+  country_code: CN
+  latitude: 25.785
+  longitude: 100.191
+scores:
+  impact: 9.7
+  uniqueness: 10
+  significance: 9.7
+  experience: 10
+  depth: 10
+  categories:
+    nature: 10
+    photography: 10

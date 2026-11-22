@@ -1,0 +1,15 @@
+id: sight-cn-reed-flute-cave
+name: "Reed Flute Cave"
+location:
+  country_code: CN
+  latitude: 25.304
+  longitude: 110.26
+scores:
+  impact: 9.7
+  uniqueness: 10
+  significance: 9.3
+  experience: 9.8
+  depth: 8.9
+  categories:
+    nature: 10
+    photography: 10

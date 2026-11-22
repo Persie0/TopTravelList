@@ -1,0 +1,16 @@
+id: sight-cn-hemu-village
+name: "Hemu Village"
+location:
+  country_code: CN
+  latitude: 48.575
+  longitude: 87.448
+scores:
+  impact: 10
+  uniqueness: 10
+  significance: 9.6
+  experience: 10
+  depth: 9.7
+  categories:
+    nature: 10
+    culture: 9.9
+    photography: 10

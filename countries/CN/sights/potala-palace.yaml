@@ -1,0 +1,15 @@
+id: sight-cn-potala-palace
+name: "Potala Palace"
+location:
+  country_code: CN
+  latitude: 29.6576
+  longitude: 91.1174
+scores:
+  impact: 10
+  uniqueness: 10
+  significance: 10
+  experience: 10
+  depth: 10
+  categories:
+    architecture: 10
+    history: 10

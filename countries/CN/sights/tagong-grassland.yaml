@@ -1,0 +1,15 @@
+id: sight-cn-tagong-grassland
+name: "Tagong Grassland"
+location:
+  country_code: CN
+  latitude: 30.32
+  longitude: 101.533
+scores:
+  impact: 9.8
+  uniqueness: 10
+  significance: 9.3
+  experience: 9.9
+  depth: 9.7
+  categories:
+    nature: 10
+    culture: 9.8

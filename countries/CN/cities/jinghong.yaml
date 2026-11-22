@@ -1,0 +1,16 @@
+id: city-cn-jinghong
+name: "Jinghong"
+location:
+  country_code: CN
+  latitude: 22.0058
+  longitude: 100.794
+scores:
+  impact: 9
+  uniqueness: 9.5
+  significance: 9.1
+  experience: 9.4
+  depth: 9.4
+  categories:
+    nature: 9.6
+    culture: 9.9
+    food: 9.3

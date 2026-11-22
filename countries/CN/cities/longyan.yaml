@@ -1,0 +1,15 @@
+id: city-cn-longyan
+name: "Longyan"
+location:
+  country_code: CN
+  latitude: 25.075
+  longitude: 117.0171
+scores:
+  impact: 8.4
+  uniqueness: 8.9
+  significance: 9.2
+  experience: 8.9
+  depth: 9.1
+  categories:
+    history: 9.5
+    architecture: 9.4

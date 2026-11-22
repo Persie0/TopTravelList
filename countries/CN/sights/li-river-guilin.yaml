@@ -1,0 +1,16 @@
+id: sight-cn-li-river-guilin
+name: "Li River Scenic Area"
+location:
+  country_code: CN
+  latitude: 24.95
+  longitude: 110.513
+scores:
+  impact: 10
+  uniqueness: 10
+  significance: 10
+  experience: 10
+  depth: 10
+  categories:
+    nature: 10
+    photography: 10
+    relaxation: 10

@@ -1,0 +1,16 @@
+id: city-cn-tengchong
+name: "Tengchong"
+location:
+  country_code: CN
+  latitude: 25.0204
+  longitude: 98.497
+scores:
+  impact: 8.8
+  uniqueness: 9.3
+  significance: 9.1
+  experience: 9.2
+  depth: 9.2
+  categories:
+    history: 9.2
+    nature: 9.8
+    relaxation: 9.0

@@ -1,0 +1,16 @@
+id: sight-cn-haikou-qilou-old-street
+name: "Haikou Qilou Old Street"
+location:
+  country_code: CN
+  latitude: 20.041
+  longitude: 110.348
+scores:
+  impact: 9.2
+  uniqueness: 9.8
+  significance: 9.6
+  experience: 9.8
+  depth: 9.6
+  categories:
+    architecture: 9.9
+    history: 9.8
+    food: 9.8

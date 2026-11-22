@@ -1,0 +1,16 @@
+id: sight-cn-longwu-monastery
+name: "Longwu Monastery Tongren"
+location:
+  country_code: CN
+  latitude: 35.511
+  longitude: 102.019
+scores:
+  impact: 9.8
+  uniqueness: 10
+  significance: 10
+  experience: 9.9
+  depth: 9.5
+  categories:
+    architecture: 10
+    history: 10
+    culture: 10

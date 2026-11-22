@@ -1,0 +1,15 @@
+id: city-cn-shijiazhuang
+name: "Shijiazhuang"
+location:
+  country_code: CN
+  latitude: 38.0428
+  longitude: 114.5149
+scores:
+  impact: 7.5
+  uniqueness: 7.7
+  significance: 8.2
+  experience: 8.2
+  depth: 8.9
+  categories:
+    history: 8.5
+    culture: 8.1

@@ -1,0 +1,15 @@
+id: sight-cn-khara-khoto-ruins
+name: "Khara-Khoto (Black City) Ruins"
+location:
+  country_code: CN
+  latitude: 41.766
+  longitude: 101.143
+scores:
+  impact: 10
+  uniqueness: 10
+  significance: 10
+  experience: 9.9
+  depth: 9.5
+  categories:
+    history: 10
+    architecture: 10

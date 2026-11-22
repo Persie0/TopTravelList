@@ -1,0 +1,16 @@
+id: sight-cn-beihai-silver-beach
+name: "Beihai Silver Beach"
+location:
+  country_code: CN
+  latitude: 21.414
+  longitude: 109.13
+scores:
+  impact: 9
+  uniqueness: 9.4
+  significance: 8.3
+  experience: 9.7
+  depth: 9.4
+  categories:
+    beaches: 9.7
+    relaxation: 9.5
+    photography: 9.4

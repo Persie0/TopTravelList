@@ -1,0 +1,15 @@
+id: sight-cn-baishui-terraces
+name: "Baishui Terrace"
+location:
+  country_code: CN
+  latitude: 27.497
+  longitude: 100.049
+scores:
+  impact: 9.8
+  uniqueness: 10
+  significance: 9.7
+  experience: 10
+  depth: 9.4
+  categories:
+    nature: 10
+    photography: 10

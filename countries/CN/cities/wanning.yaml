@@ -1,0 +1,16 @@
+id: city-cn-wanning
+name: "Wanning"
+location:
+  country_code: CN
+  latitude: 18.7952
+  longitude: 110.388
+scores:
+  impact: 8.6
+  uniqueness: 9
+  significance: 8
+  experience: 9.3
+  depth: 9.1
+  categories:
+    beaches: 9.5
+    nature: 9.2
+    adventure: 9.3

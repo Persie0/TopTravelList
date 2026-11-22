@@ -1,0 +1,15 @@
+id: sight-cn-ulan-butong-grassland
+name: "Ulan Butong Grassland"
+location:
+  country_code: CN
+  latitude: 42.544
+  longitude: 117.467
+scores:
+  impact: 9.8
+  uniqueness: 9.9
+  significance: 9.1
+  experience: 10
+  depth: 10
+  categories:
+    nature: 10
+    photography: 10

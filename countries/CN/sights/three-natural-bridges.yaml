@@ -1,0 +1,15 @@
+id: sight-cn-three-natural-bridges
+name: "Three Natural Bridges Wulong"
+location:
+  country_code: CN
+  latitude: 29.422
+  longitude: 107.784
+scores:
+  impact: 10
+  uniqueness: 10
+  significance: 9.7
+  experience: 10
+  depth: 9.8
+  categories:
+    nature: 10
+    photography: 10

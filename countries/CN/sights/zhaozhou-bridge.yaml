@@ -1,0 +1,15 @@
+id: sight-cn-zhaozhou-bridge
+name: "Zhaozhou Bridge"
+location:
+  country_code: CN
+  latitude: 37.723
+  longitude: 114.761
+scores:
+  impact: 9.2
+  uniqueness: 10
+  significance: 10
+  experience: 9.2
+  depth: 8.2
+  categories:
+    architecture: 10
+    history: 10

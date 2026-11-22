@@ -1,0 +1,16 @@
+id: sight-cn-tengger-desert
+name: "Tengger Desert"
+location:
+  country_code: CN
+  latitude: 38.4
+  longitude: 104.5
+scores:
+  impact: 10
+  uniqueness: 10
+  significance: 9.6
+  experience: 10
+  depth: 10
+  categories:
+    nature: 10
+    adventure: 10
+    photography: 10

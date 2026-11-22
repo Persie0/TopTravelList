@@ -1,0 +1,16 @@
+id: sight-cn-maijishan-grottoes
+name: "Maijishan Grottoes"
+location:
+  country_code: CN
+  latitude: 34.346
+  longitude: 106.013
+scores:
+  impact: 10
+  uniqueness: 10
+  significance: 10
+  experience: 10
+  depth: 10
+  categories:
+    architecture: 10
+    history: 10
+    culture: 10

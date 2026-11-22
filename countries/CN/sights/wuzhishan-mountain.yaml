@@ -1,0 +1,16 @@
+id: sight-cn-wuzhishan-mountain
+name: "Wuzhishan Mountain"
+location:
+  country_code: CN
+  latitude: 18.891
+  longitude: 109.7
+scores:
+  impact: 9.7
+  uniqueness: 9.9
+  significance: 9.4
+  experience: 9.9
+  depth: 9.7
+  categories:
+    nature: 10
+    adventure: 10
+    photography: 9.8

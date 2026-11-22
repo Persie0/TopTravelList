@@ -1,0 +1,16 @@
+id: sight-cn-kashgar-old-city
+name: "Kashgar Old City"
+location:
+  country_code: CN
+  latitude: 39.468
+  longitude: 75.99
+scores:
+  impact: 10
+  uniqueness: 10
+  significance: 10
+  experience: 10
+  depth: 10
+  categories:
+    architecture: 10
+    history: 10
+    culture: 10

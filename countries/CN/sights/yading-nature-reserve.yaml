@@ -1,0 +1,16 @@
+id: sight-cn-yading-nature-reserve
+name: "Yading Nature Reserve"
+location:
+  country_code: CN
+  latitude: 28.42
+  longitude: 100.347
+scores:
+  impact: 10
+  uniqueness: 10
+  significance: 9.9
+  experience: 10
+  depth: 10
+  categories:
+    nature: 10
+    photography: 10
+    adventure: 10

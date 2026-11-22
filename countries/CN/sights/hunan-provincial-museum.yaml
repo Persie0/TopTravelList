@@ -1,0 +1,15 @@
+id: sight-cn-hunan-provincial-museum
+name: "Hunan Museum"
+location:
+  country_code: CN
+  latitude: 28.217
+  longitude: 112.992
+scores:
+  impact: 9.5
+  uniqueness: 9.9
+  significance: 10
+  experience: 9.8
+  depth: 9.6
+  categories:
+    history: 10
+    culture: 10

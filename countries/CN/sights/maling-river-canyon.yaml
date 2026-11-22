@@ -1,0 +1,15 @@
+id: sight-cn-maling-river-canyon
+name: "Maling River Canyon"
+location:
+  country_code: CN
+  latitude: 25.136
+  longitude: 104.981
+scores:
+  impact: 9.8
+  uniqueness: 10
+  significance: 9.2
+  experience: 9.9
+  depth: 9.6
+  categories:
+    nature: 10
+    adventure: 10

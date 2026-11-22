@@ -1,0 +1,16 @@
+id: sight-cn-hainan-tropical-rainforest-national-park
+name: "Hainan Tropical Rainforest National Park"
+location:
+  country_code: CN
+  latitude: 18.91
+  longitude: 109.68
+scores:
+  impact: 9.9
+  uniqueness: 10
+  significance: 9.7
+  experience: 9.9
+  depth: 10
+  categories:
+    nature: 10
+    wildlife: 10
+    adventure: 9.8

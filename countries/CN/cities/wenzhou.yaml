@@ -1,0 +1,16 @@
+id: city-cn-wenzhou
+name: "Wenzhou"
+location:
+  country_code: CN
+  latitude: 27.9949
+  longitude: 120.6994
+scores:
+  impact: 8.3
+  uniqueness: 8.6
+  significance: 8.5
+  experience: 9
+  depth: 9.1
+  categories:
+    nature: 9.0
+    food: 8.8
+    culture: 8.9

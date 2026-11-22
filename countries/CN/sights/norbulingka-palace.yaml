@@ -1,0 +1,15 @@
+id: sight-cn-norbulingka-palace
+name: "Norbulingka Palace"
+location:
+  country_code: CN
+  latitude: 29.652
+  longitude: 91.093
+scores:
+  impact: 9.8
+  uniqueness: 10
+  significance: 10
+  experience: 9.9
+  depth: 9.9
+  categories:
+    architecture: 10
+    history: 10

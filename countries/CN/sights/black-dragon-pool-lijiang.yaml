@@ -1,0 +1,15 @@
+id: sight-cn-black-dragon-pool-lijiang
+name: "Black Dragon Pool Lijiang"
+location:
+  country_code: CN
+  latitude: 26.886
+  longitude: 100.237
+scores:
+  impact: 9.5
+  uniqueness: 9.9
+  significance: 9.5
+  experience: 9.8
+  depth: 9.4
+  categories:
+    nature: 9.7
+    photography: 10

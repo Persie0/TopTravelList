@@ -1,0 +1,15 @@
+id: sight-cn-seven-star-crags
+name: "Seven Star Crags Zhaoqing"
+location:
+  country_code: CN
+  latitude: 23.081
+  longitude: 112.48
+scores:
+  impact: 9.5
+  uniqueness: 9.8
+  significance: 9.4
+  experience: 9.8
+  depth: 9.7
+  categories:
+    nature: 10
+    photography: 10

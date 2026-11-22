@@ -1,0 +1,15 @@
+id: sight-cn-red-cloud-golden-summit
+name: "Red Cloud Golden Summit"
+location:
+  country_code: CN
+  latitude: 27.894
+  longitude: 108.701
+scores:
+  impact: 10
+  uniqueness: 10
+  significance: 9.5
+  experience: 9.9
+  depth: 9
+  categories:
+    nature: 10
+    photography: 10

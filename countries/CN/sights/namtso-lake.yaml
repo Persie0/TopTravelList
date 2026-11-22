@@ -1,0 +1,15 @@
+id: sight-cn-namtso-lake
+name: "Namtso Lake"
+location:
+  country_code: CN
+  latitude: 30.727
+  longitude: 90.789
+scores:
+  impact: 10
+  uniqueness: 10
+  significance: 9.8
+  experience: 10
+  depth: 10
+  categories:
+    nature: 10
+    photography: 10

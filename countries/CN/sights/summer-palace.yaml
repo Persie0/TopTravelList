@@ -1,0 +1,17 @@
+id: sight-cn-summer-palace
+name: "Summer Palace Beijing"
+location:
+  country_code: CN
+  latitude: 39.9995
+  longitude: 116.2755
+scores:
+  impact: 9.9
+  uniqueness: 9.9
+  significance: 10
+  experience: 9.8
+  depth: 10
+  categories:
+    architecture: 10
+    history: 10
+    nature: 9.3
+    photography: 10

@@ -1,0 +1,16 @@
+id: sight-cn-longhua-temple
+name: "Longhua Temple Shanghai"
+location:
+  country_code: CN
+  latitude: 31.173
+  longitude: 121.452
+scores:
+  impact: 9
+  uniqueness: 9.6
+  significance: 9.7
+  experience: 9.5
+  depth: 8.7
+  categories:
+    architecture: 9.7
+    history: 9.9
+    culture: 9.7

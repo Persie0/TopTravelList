@@ -1,0 +1,15 @@
+id: sight-cn-wolong-panda-reserve
+name: "Wolong National Nature Reserve"
+location:
+  country_code: CN
+  latitude: 31.019
+  longitude: 103.152
+scores:
+  impact: 9.8
+  uniqueness: 10
+  significance: 9.7
+  experience: 10
+  depth: 10
+  categories:
+    nature: 10
+    wildlife: 10

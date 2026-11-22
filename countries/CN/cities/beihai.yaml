@@ -1,0 +1,16 @@
+id: city-cn-beihai
+name: "Beihai"
+location:
+  country_code: CN
+  latitude: 21.4812
+  longitude: 109.12
+scores:
+  impact: 8.5
+  uniqueness: 8.7
+  significance: 8.2
+  experience: 9.1
+  depth: 9
+  categories:
+    beaches: 9.2
+    history: 8.5
+    food: 9.1

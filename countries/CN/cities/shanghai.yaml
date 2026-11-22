@@ -1,0 +1,19 @@
+id: city-cn-shanghai
+name: "Shanghai"
+location:
+  country_code: CN
+  latitude: 31.2304
+  longitude: 121.4737
+scores:
+  impact: 9.7
+  uniqueness: 9.6
+  significance: 9.4
+  experience: 9.8
+  depth: 10
+  categories:
+    architecture: 9.8
+    history: 9
+    culture: 9.8
+    food: 9.8
+    nightlife: 9.8
+    photography: 9.8

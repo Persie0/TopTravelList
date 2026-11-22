@@ -1,0 +1,15 @@
+id: sight-cn-ciqikou-ancient-town
+name: "Ciqikou Ancient Town"
+location:
+  country_code: CN
+  latitude: 29.5827
+  longitude: 106.448
+scores:
+  impact: 9.4
+  uniqueness: 9.8
+  significance: 9.6
+  experience: 9.8
+  depth: 9.6
+  categories:
+    architecture: 9.8
+    history: 9.8

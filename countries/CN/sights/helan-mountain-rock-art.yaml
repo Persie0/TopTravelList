@@ -1,0 +1,16 @@
+id: sight-cn-helan-mountain-rock-art
+name: "Helan Mountain Rock Paintings"
+location:
+  country_code: CN
+  latitude: 38.824
+  longitude: 105.939
+scores:
+  impact: 10
+  uniqueness: 10
+  significance: 10
+  experience: 9.9
+  depth: 9.7
+  categories:
+    history: 10
+    culture: 10
+    photography: 9.8

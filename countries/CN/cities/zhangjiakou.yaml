@@ -1,0 +1,16 @@
+id: city-cn-zhangjiakou
+name: "Zhangjiakou"
+location:
+  country_code: CN
+  latitude: 40.7686
+  longitude: 114.8863
+scores:
+  impact: 8
+  uniqueness: 8.4
+  significance: 8.7
+  experience: 8.7
+  depth: 8.7
+  categories:
+    history: 8.9
+    nature: 9.0
+    adventure: 8.9

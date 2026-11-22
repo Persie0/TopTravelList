@@ -1,0 +1,15 @@
+id: sight-cn-stone-forest-shilin
+name: "Stone Forest Shilin"
+location:
+  country_code: CN
+  latitude: 24.813
+  longitude: 103.328
+scores:
+  impact: 10
+  uniqueness: 10
+  significance: 10
+  experience: 10
+  depth: 10
+  categories:
+    nature: 10
+    history: 10

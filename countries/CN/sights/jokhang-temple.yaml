@@ -1,0 +1,15 @@
+id: sight-cn-jokhang-temple
+name: "Jokhang Temple"
+location:
+  country_code: CN
+  latitude: 29.65
+  longitude: 91.132
+scores:
+  impact: 10
+  uniqueness: 10
+  significance: 10
+  experience: 10
+  depth: 10
+  categories:
+    architecture: 10
+    history: 10

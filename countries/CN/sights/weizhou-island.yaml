@@ -1,0 +1,16 @@
+id: sight-cn-weizhou-island
+name: "Weizhou Island"
+location:
+  country_code: CN
+  latitude: 21.036
+  longitude: 109.12
+scores:
+  impact: 9.7
+  uniqueness: 10
+  significance: 9.3
+  experience: 9.9
+  depth: 9.9
+  categories:
+    nature: 10
+    beaches: 9.8
+    photography: 10

@@ -1,0 +1,16 @@
+id: sight-cn-daming-lake
+name: "Daming Lake"
+location:
+  country_code: CN
+  latitude: 36.677
+  longitude: 117.024
+scores:
+  impact: 9
+  uniqueness: 9.4
+  significance: 9.3
+  experience: 9.5
+  depth: 9.3
+  categories:
+    nature: 9.1
+    history: 9.3
+    relaxation: 9.4

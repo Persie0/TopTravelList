@@ -1,0 +1,16 @@
+id: city-cn-penglai
+name: "Penglai"
+location:
+  country_code: CN
+  latitude: 37.8255
+  longitude: 120.7583
+scores:
+  impact: 8.8
+  uniqueness: 9.4
+  significance: 9.3
+  experience: 9.2
+  depth: 8.8
+  categories:
+    history: 9.5
+    architecture: 9.4
+    photography: 9.6

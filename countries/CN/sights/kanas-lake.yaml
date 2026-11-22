@@ -1,0 +1,16 @@
+id: sight-cn-kanas-lake
+name: "Kanas Lake"
+location:
+  country_code: CN
+  latitude: 48.709
+  longitude: 87.022
+scores:
+  impact: 10
+  uniqueness: 10
+  significance: 10
+  experience: 10
+  depth: 10
+  categories:
+    nature: 10
+    wildlife: 10
+    photography: 10

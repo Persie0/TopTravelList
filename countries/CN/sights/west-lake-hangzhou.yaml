@@ -1,0 +1,18 @@
+id: sight-cn-west-lake-hangzhou
+name: "West Lake Hangzhou"
+location:
+  country_code: CN
+  latitude: 30.2501
+  longitude: 120.1495
+scores:
+  impact: 9.9
+  uniqueness: 10
+  significance: 10
+  experience: 9.9
+  depth: 10
+  categories:
+    nature: 9.8
+    history: 10
+    culture: 10
+    photography: 10
+    relaxation: 9.8

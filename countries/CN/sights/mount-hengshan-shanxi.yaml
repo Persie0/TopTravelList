@@ -1,0 +1,16 @@
+id: sight-cn-mount-hengshan-shanxi
+name: "Mount Hengshan (Shanxi)"
+location:
+  country_code: CN
+  latitude: 39.675
+  longitude: 113.747
+scores:
+  impact: 9.3
+  uniqueness: 9.7
+  significance: 9.6
+  experience: 9.6
+  depth: 9.1
+  categories:
+    nature: 9.8
+    history: 9.8
+    adventure: 9.3

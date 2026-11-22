@@ -1,0 +1,16 @@
+id: sight-cn-yuelu-academy
+name: "Yuelu Academy"
+location:
+  country_code: CN
+  latitude: 28.186
+  longitude: 112.943
+scores:
+  impact: 9.7
+  uniqueness: 10
+  significance: 10
+  experience: 9.8
+  depth: 9.6
+  categories:
+    history: 10
+    architecture: 10
+    culture: 10

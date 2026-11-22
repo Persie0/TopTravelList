@@ -1,0 +1,17 @@
+id: sight-cn-mount-putuo
+name: "Mount Putuo"
+location:
+  country_code: CN
+  latitude: 29.9867
+  longitude: 122.3857
+scores:
+  impact: 9.7
+  uniqueness: 9.9
+  significance: 10
+  experience: 9.8
+  depth: 9.8
+  categories:
+    history: 10
+    culture: 10
+    nature: 9.7
+    photography: 9.9

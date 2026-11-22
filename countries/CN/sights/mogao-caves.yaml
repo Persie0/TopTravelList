@@ -1,0 +1,16 @@
+id: sight-cn-mogao-caves
+name: "Mogao Caves Dunhuang"
+location:
+  country_code: CN
+  latitude: 40.037
+  longitude: 94.803
+scores:
+  impact: 10
+  uniqueness: 10
+  significance: 10
+  experience: 10
+  depth: 10
+  categories:
+    architecture: 10
+    history: 10
+    culture: 10

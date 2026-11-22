@@ -1,0 +1,15 @@
+id: sight-cn-yabuli-ski-resort
+name: "Yabuli Ski Resort"
+location:
+  country_code: CN
+  latitude: 44.931
+  longitude: 128.59
+scores:
+  impact: 9.5
+  uniqueness: 9.8
+  significance: 9.2
+  experience: 10
+  depth: 10
+  categories:
+    adventure: 10
+    nature: 10

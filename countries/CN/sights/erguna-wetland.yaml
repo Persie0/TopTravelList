@@ -1,0 +1,16 @@
+id: sight-cn-erguna-wetland
+name: "Erguna Wetland"
+location:
+  country_code: CN
+  latitude: 50.231
+  longitude: 120.173
+scores:
+  impact: 9.8
+  uniqueness: 10
+  significance: 9.4
+  experience: 10
+  depth: 9.7
+  categories:
+    nature: 10
+    wildlife: 9.8
+    photography: 10

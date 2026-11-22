@@ -1,0 +1,15 @@
+id: city-cn-anqing
+name: "Anqing"
+location:
+  country_code: CN
+  latitude: 30.5088
+  longitude: 117.0636
+scores:
+  impact: 8
+  uniqueness: 8.4
+  significance: 8.8
+  experience: 8.7
+  depth: 8.7
+  categories:
+    history: 9.0
+    nature: 8.6

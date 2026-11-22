@@ -1,0 +1,16 @@
+id: sight-cn-kekexili-honoh-xil
+name: "Hoh Xil (Kekexili)"
+location:
+  country_code: CN
+  latitude: 35.35
+  longitude: 93
+scores:
+  impact: 10
+  uniqueness: 10
+  significance: 10
+  experience: 10
+  depth: 10
+  categories:
+    nature: 10
+    wildlife: 10
+    adventure: 10

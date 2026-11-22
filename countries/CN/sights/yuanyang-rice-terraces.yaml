@@ -1,0 +1,15 @@
+id: sight-cn-yuanyang-rice-terraces
+name: "Honghe Hani Rice Terraces"
+location:
+  country_code: CN
+  latitude: 23.097
+  longitude: 102.738
+scores:
+  impact: 10
+  uniqueness: 10
+  significance: 10
+  experience: 10
+  depth: 10
+  categories:
+    nature: 10
+    history: 10

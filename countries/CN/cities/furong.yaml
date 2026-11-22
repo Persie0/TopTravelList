@@ -1,0 +1,16 @@
+id: city-cn-furong
+name: "Furong Ancient Town"
+location:
+  country_code: CN
+  latitude: 28.691
+  longitude: 109.957
+scores:
+  impact: 9.4
+  uniqueness: 9.9
+  significance: 9.5
+  experience: 9.5
+  depth: 8.7
+  categories:
+    architecture: 9.8
+    history: 9.5
+    photography: 10

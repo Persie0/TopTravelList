@@ -1,0 +1,15 @@
+id: sight-cn-zhijin-cave
+name: "Zhijin Cave"
+location:
+  country_code: CN
+  latitude: 26.756
+  longitude: 105.913
+scores:
+  impact: 10
+  uniqueness: 10
+  significance: 9.4
+  experience: 10
+  depth: 9.5
+  categories:
+    nature: 10
+    adventure: 9.7

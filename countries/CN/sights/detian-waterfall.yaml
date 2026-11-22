@@ -1,0 +1,15 @@
+id: sight-cn-detian-waterfall
+name: "Detian Waterfall"
+location:
+  country_code: CN
+  latitude: 22.857
+  longitude: 106.723
+scores:
+  impact: 10
+  uniqueness: 10
+  significance: 9.5
+  experience: 10
+  depth: 9.4
+  categories:
+    nature: 10
+    photography: 10

@@ -1,0 +1,16 @@
+id: sight-cn-famen-temple
+name: "Famen Temple"
+location:
+  country_code: CN
+  latitude: 34.435
+  longitude: 107.901
+scores:
+  impact: 9.9
+  uniqueness: 10
+  significance: 10
+  experience: 9.9
+  depth: 9.4
+  categories:
+    architecture: 10
+    history: 10
+    culture: 10

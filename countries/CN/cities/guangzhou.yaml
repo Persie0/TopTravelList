@@ -1,0 +1,18 @@
+id: city-cn-guangzhou
+name: "Guangzhou"
+location:
+  country_code: CN
+  latitude: 23.1291
+  longitude: 113.2644
+scores:
+  impact: 9.3
+  uniqueness: 9.3
+  significance: 9.7
+  experience: 9.6
+  depth: 9.8
+  categories:
+    history: 9.6
+    culture: 9.7
+    food: 10
+    architecture: 9.4
+    nightlife: 9.2

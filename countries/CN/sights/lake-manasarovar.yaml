@@ -1,0 +1,15 @@
+id: sight-cn-lake-manasarovar
+name: "Lake Manasarovar"
+location:
+  country_code: CN
+  latitude: 30.658
+  longitude: 81.471
+scores:
+  impact: 10
+  uniqueness: 10
+  significance: 10
+  experience: 10
+  depth: 10
+  categories:
+    nature: 10
+    culture: 10

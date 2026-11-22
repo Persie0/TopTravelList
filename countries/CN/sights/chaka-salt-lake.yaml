@@ -1,0 +1,15 @@
+id: sight-cn-chaka-salt-lake
+name: "Chaka Salt Lake"
+location:
+  country_code: CN
+  latitude: 36.793
+  longitude: 99.079
+scores:
+  impact: 9.9
+  uniqueness: 10
+  significance: 9.6
+  experience: 10
+  depth: 9.7
+  categories:
+    nature: 10
+    photography: 10

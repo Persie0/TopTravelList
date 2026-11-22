@@ -1,0 +1,15 @@
+id: sight-cn-water-yadan-qinghai
+name: "Water Yadan Geological Park"
+location:
+  country_code: CN
+  latitude: 37.332
+  longitude: 93.825
+scores:
+  impact: 9.9
+  uniqueness: 10
+  significance: 9.2
+  experience: 10
+  depth: 9.9
+  categories:
+    nature: 10
+    photography: 10

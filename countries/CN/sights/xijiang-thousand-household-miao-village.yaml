@@ -1,0 +1,15 @@
+id: sight-cn-xijiang-thousand-household-miao-village
+name: "Xijiang Thousand Household Miao Village"
+location:
+  country_code: CN
+  latitude: 26.492
+  longitude: 108.175
+scores:
+  impact: 9.9
+  uniqueness: 10
+  significance: 10
+  experience: 10
+  depth: 9.9
+  categories:
+    architecture: 10
+    culture: 10

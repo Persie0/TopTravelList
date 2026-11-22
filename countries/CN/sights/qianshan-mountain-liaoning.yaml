@@ -1,0 +1,16 @@
+id: sight-cn-qianshan-mountain-liaoning
+name: "Qianshan Mountain Liaoning"
+location:
+  country_code: CN
+  latitude: 41.028
+  longitude: 123.136
+scores:
+  impact: 9.6
+  uniqueness: 10
+  significance: 9.7
+  experience: 9.9
+  depth: 9.7
+  categories:
+    nature: 10
+    history: 9.8
+    adventure: 9.8

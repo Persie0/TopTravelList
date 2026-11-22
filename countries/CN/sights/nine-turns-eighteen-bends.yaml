@@ -1,0 +1,15 @@
+id: sight-cn-nine-turns-eighteen-bends
+name: "Nine Turns and Eighteen Bends"
+location:
+  country_code: CN
+  latitude: 42.941
+  longitude: 84.166
+scores:
+  impact: 9.9
+  uniqueness: 10
+  significance: 9.2
+  experience: 10
+  depth: 9.5
+  categories:
+    nature: 10
+    photography: 10

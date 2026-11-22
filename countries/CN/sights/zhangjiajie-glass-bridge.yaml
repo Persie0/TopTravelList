@@ -1,0 +1,16 @@
+id: sight-cn-zhangjiajie-glass-bridge
+name: "Zhangjiajie Grand Canyon Glass Bridge"
+location:
+  country_code: CN
+  latitude: 29.386
+  longitude: 110.703
+scores:
+  impact: 9.7
+  uniqueness: 10
+  significance: 8.7
+  experience: 10
+  depth: 9
+  categories:
+    architecture: 10
+    adventure: 10
+    photography: 10

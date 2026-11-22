@@ -1,0 +1,15 @@
+id: city-cn-jinhua
+name: "Jinhua"
+location:
+  country_code: CN
+  latitude: 29.079
+  longitude: 119.6474
+scores:
+  impact: 8
+  uniqueness: 8.3
+  significance: 8.6
+  experience: 8.8
+  depth: 9
+  categories:
+    history: 8.8
+    culture: 8.6

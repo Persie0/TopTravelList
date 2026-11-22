@@ -1,0 +1,15 @@
+id: sight-cn-ejina-poplar-forest
+name: "Ejina Poplar Forest"
+location:
+  country_code: CN
+  latitude: 41.954
+  longitude: 101.066
+scores:
+  impact: 10
+  uniqueness: 10
+  significance: 9.2
+  experience: 10
+  depth: 9.5
+  categories:
+    nature: 10
+    photography: 10

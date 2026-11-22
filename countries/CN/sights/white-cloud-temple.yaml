@@ -1,0 +1,16 @@
+id: sight-cn-white-cloud-temple
+name: "White Cloud Temple Beijing"
+location:
+  country_code: CN
+  latitude: 39.8983
+  longitude: 116.3415
+scores:
+  impact: 8.8
+  uniqueness: 9.4
+  significance: 9.5
+  experience: 9.1
+  depth: 8.9
+  categories:
+    history: 9.7
+    culture: 9.6
+    architecture: 9.3

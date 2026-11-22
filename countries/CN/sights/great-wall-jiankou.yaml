@@ -1,0 +1,18 @@
+id: sight-cn-great-wall-jiankou
+name: "Great Wall at Jiankou"
+location:
+  country_code: CN
+  latitude: 40.4551
+  longitude: 116.475
+scores:
+  impact: 9.9
+  uniqueness: 10
+  significance: 9.9
+  experience: 9.5
+  depth: 9
+  categories:
+    architecture: 10
+    history: 10
+    nature: 10
+    adventure: 10
+    photography: 10

@@ -1,0 +1,15 @@
+id: sight-cn-baodingshan-carvings
+name: "Baodingshan Rock Carvings"
+location:
+  country_code: CN
+  latitude: 29.758
+  longitude: 105.777
+scores:
+  impact: 10
+  uniqueness: 10
+  significance: 10
+  experience: 10
+  depth: 9.6
+  categories:
+    history: 10
+    architecture: 10

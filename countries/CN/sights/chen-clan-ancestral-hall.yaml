@@ -1,0 +1,16 @@
+id: sight-cn-chen-clan-ancestral-hall
+name: "Chen Clan Ancestral Hall"
+location:
+  country_code: CN
+  latitude: 23.125
+  longitude: 113.239
+scores:
+  impact: 9.6
+  uniqueness: 10
+  significance: 10
+  experience: 9.8
+  depth: 9.6
+  categories:
+    architecture: 10
+    history: 10
+    culture: 10

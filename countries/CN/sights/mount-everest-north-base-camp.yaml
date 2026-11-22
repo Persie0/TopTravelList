@@ -1,0 +1,15 @@
+id: sight-cn-mount-everest-north-base-camp
+name: "Mount Everest North Base Camp"
+location:
+  country_code: CN
+  latitude: 28.14
+  longitude: 86.86
+scores:
+  impact: 10
+  uniqueness: 10
+  significance: 10
+  experience: 10
+  depth: 10
+  categories:
+    nature: 10
+    adventure: 10

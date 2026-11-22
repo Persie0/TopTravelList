@@ -1,0 +1,16 @@
+id: sight-cn-grand-canal-hangzhou
+name: "Grand Canal at Hangzhou"
+location:
+  country_code: CN
+  latitude: 30.306
+  longitude: 120.146
+scores:
+  impact: 9.3
+  uniqueness: 9.8
+  significance: 10
+  experience: 9.6
+  depth: 9.7
+  categories:
+    history: 10
+    culture: 9.8
+    architecture: 9.5

@@ -1,0 +1,16 @@
+id: city-cn-qinhuangdao
+name: "Qinhuangdao"
+location:
+  country_code: CN
+  latitude: 39.9354
+  longitude: 119.6005
+scores:
+  impact: 8.3
+  uniqueness: 8.6
+  significance: 9
+  experience: 8.9
+  depth: 8.6
+  categories:
+    history: 9.3
+    beaches: 8.2
+    photography: 9.0

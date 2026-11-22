@@ -1,0 +1,16 @@
+id: sight-cn-panshan-scenic-area
+name: "Panshan Mountain"
+location:
+  country_code: CN
+  latitude: 40.077
+  longitude: 117.277
+scores:
+  impact: 9
+  uniqueness: 9.3
+  significance: 9
+  experience: 9.4
+  depth: 9.4
+  categories:
+    nature: 9.7
+    history: 9.3
+    photography: 9.7

@@ -1,0 +1,19 @@
+id: city-cn-chongqing
+name: "Chongqing"
+location:
+  country_code: CN
+  latitude: 29.563
+  longitude: 106.5516
+scores:
+  impact: 9.6
+  uniqueness: 9.8
+  significance: 9.1
+  experience: 9.6
+  depth: 9.9
+  categories:
+    architecture: 9.7
+    history: 8.8
+    food: 10
+    nightlife: 9.5
+    photography: 10
+    nature: 9
