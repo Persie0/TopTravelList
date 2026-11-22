@@ -219,7 +219,7 @@ python scripts/rank.py --kind sights --limit 60
 
 ## Additional evidence-referenced per-sight research (22 November 2026)
 
-An additional **196 named sights** have received individual desk research and explicit source-linked comparison notes, bringing the total to **345 site-specific editorial decisions** across the seven populated countries. **1,568** other sight records remain flagged as **automatically screened only**; this is a partial, documented research pass, not a claim that all 1,913 sights have been independently investigated. Every score modification is traceable in the [current per-item worldwide register](methodology/sight-review-2026-full-audit.md), with [supporting rationale](methodology/sight-review-2026-summary.md). No historical correction curves, country quotas, city-score edits or new 10/10 approvals were applied.
+An additional **266 named sights** have received individual desk research and explicit source-linked comparison notes, bringing the total to **415 site-specific editorial decisions** across the seven populated countries. **1,498** other sight records remain flagged as **automatically screened only**; this is a partial, documented research pass, not a claim that all 1,913 sights have been independently investigated. Every score modification is traceable in the [current per-item worldwide register](methodology/sight-review-2026-full-audit.md), with [supporting rationale](methodology/sight-review-2026-summary.md). No historical correction curves, country quotas, city-score edits or new 10/10 approvals were applied.
 
 ## Follow-on per-sight review (22 November 2026)
 
