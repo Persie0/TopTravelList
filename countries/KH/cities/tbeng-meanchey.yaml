@@ -1,0 +1,15 @@
+id: city-kh-tbeng-meanchey
+name: "Tbeng Meanchey"
+location:
+  country_code: KH
+  latitude: 13.8075
+  longitude: 104.9781
+scores:
+  impact: 8.3
+  uniqueness: 8.8
+  significance: 8.7
+  experience: 8.8
+  depth: 8.8
+  categories:
+    history: 9.0
+    nature: 9.0

@@ -1,0 +1,15 @@
+id: city-kh-rovieng
+name: "Rovieng"
+location:
+  country_code: KH
+  latitude: 13.61
+  longitude: 104.75
+scores:
+  impact: 7.8
+  uniqueness: 8.3
+  significance: 8.5
+  experience: 8.4
+  depth: 8.3
+  categories:
+    nature: 8.7
+    history: 8.9

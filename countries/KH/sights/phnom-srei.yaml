@@ -1,0 +1,15 @@
+id: sight-kh-phnom-srei
+name: "Phnom Srei Hill and Temple"
+location:
+  country_code: KH
+  latitude: 12.051
+  longitude: 105.472
+scores:
+  impact: 8.8
+  uniqueness: 9.2
+  significance: 9.3
+  experience: 9.1
+  depth: 8.6
+  categories:
+    nature: 9.1
+    culture: 9.4

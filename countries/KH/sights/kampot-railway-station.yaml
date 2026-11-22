@@ -1,0 +1,15 @@
+id: sight-kh-kampot-railway-station
+name: "Kampot Railway Station"
+location:
+  country_code: KH
+  latitude: 10.613
+  longitude: 104.183
+scores:
+  impact: 8.6
+  uniqueness: 9.2
+  significance: 9.3
+  experience: 9
+  depth: 8.3
+  categories:
+    architecture: 9.4
+    history: 9.5

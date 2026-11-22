@@ -1,0 +1,15 @@
+id: city-kh-pailin
+name: "Pailin"
+location:
+  country_code: KH
+  latitude: 12.8489
+  longitude: 102.6093
+scores:
+  impact: 7.9
+  uniqueness: 8.6
+  significance: 8.4
+  experience: 8.6
+  depth: 8.5
+  categories:
+    history: 8.8
+    nature: 8.9

@@ -1,0 +1,16 @@
+id: sight-kh-koh-pich-diamond-island
+name: "Koh Pich (Diamond Island)"
+location:
+  country_code: KH
+  latitude: 11.537
+  longitude: 104.943
+scores:
+  impact: 8.5
+  uniqueness: 8.9
+  significance: 8.3
+  experience: 9.3
+  depth: 9.5
+  categories:
+    architecture: 9.3
+    nightlife: 9.1
+    relaxation: 9.2

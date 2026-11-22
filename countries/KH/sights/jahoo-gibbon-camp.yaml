@@ -1,0 +1,16 @@
+id: sight-kh-jahoo-gibbon-camp
+name: "Jahoo Gibbon Camp"
+location:
+  country_code: KH
+  latitude: 12.238
+  longitude: 106.946
+scores:
+  impact: 9.4
+  uniqueness: 9.9
+  significance: 9.4
+  experience: 9.7
+  depth: 9.2
+  categories:
+    wildlife: 9.9
+    nature: 9.9
+    adventure: 9.3

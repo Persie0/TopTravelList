@@ -1,0 +1,15 @@
+id: sight-kh-prasat-sambor
+name: "Prasat Sambor (Northern Group)"
+location:
+  country_code: KH
+  latitude: 12.862
+  longitude: 105.031
+scores:
+  impact: 9.5
+  uniqueness: 9.8
+  significance: 9.8
+  experience: 9.6
+  depth: 8.9
+  categories:
+    architecture: 9.9
+    history: 9.9

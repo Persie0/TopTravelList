@@ -1,0 +1,15 @@
+id: city-kh-mechrey
+name: "Mechrey Floating Village"
+location:
+  country_code: KH
+  latitude: 13.332
+  longitude: 103.773
+scores:
+  impact: 8.5
+  uniqueness: 9.1
+  significance: 8.7
+  experience: 9
+  depth: 8.3
+  categories:
+    culture: 9.3
+    photography: 9.1

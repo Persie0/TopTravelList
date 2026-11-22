@@ -1,0 +1,15 @@
+id: sight-kh-phnom-bok
+name: "Phnom Bok Temple"
+location:
+  country_code: KH
+  latitude: 13.439
+  longitude: 104.009
+scores:
+  impact: 9.2
+  uniqueness: 9.6
+  significance: 9.7
+  experience: 9.4
+  depth: 8.6
+  categories:
+    architecture: 9.8
+    history: 9.8

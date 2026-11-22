@@ -1,0 +1,15 @@
+id: sight-kh-former-m13-prison-site
+name: "Former M-13 Prison Site"
+location:
+  country_code: KH
+  latitude: 11.770161
+  longitude: 104.384814
+scores:
+  impact: 9.4
+  uniqueness: 9.9
+  significance: 9.9
+  experience: 8.8
+  depth: 8.9
+  categories:
+    history: 9.9
+    culture: 9.8

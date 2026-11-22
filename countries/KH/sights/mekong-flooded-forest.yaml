@@ -1,0 +1,16 @@
+id: sight-kh-mekong-flooded-forest
+name: "Mekong Flooded Forest"
+location:
+  country_code: KH
+  latitude: 13.81
+  longitude: 105.934
+scores:
+  impact: 9.6
+  uniqueness: 9.9
+  significance: 9.5
+  experience: 9.7
+  depth: 9.8
+  categories:
+    nature: 9.9
+    wildlife: 9.9
+    adventure: 9.5

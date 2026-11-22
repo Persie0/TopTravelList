@@ -1,0 +1,15 @@
+id: sight-kh-roluos-temples
+name: "Roluos Group Temples"
+location:
+  country_code: KH
+  latitude: 13.345
+  longitude: 103.973
+scores:
+  impact: 9.5
+  uniqueness: 9.8
+  significance: 9.9
+  experience: 9.6
+  depth: 9.6
+  categories:
+    architecture: 9.9
+    history: 9.9

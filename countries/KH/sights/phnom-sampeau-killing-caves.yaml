@@ -1,0 +1,15 @@
+id: sight-kh-phnom-sampeau-killing-caves
+name: "Phnom Sampeau Killing Caves"
+location:
+  country_code: KH
+  latitude: 13.025
+  longitude: 103.128
+scores:
+  impact: 9.1
+  uniqueness: 9.7
+  significance: 9.8
+  experience: 9.3
+  depth: 8.3
+  categories:
+    history: 9.9
+    culture: 9.5

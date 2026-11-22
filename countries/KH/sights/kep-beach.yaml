@@ -1,0 +1,16 @@
+id: sight-kh-kep-beach
+name: "Kep Beach"
+location:
+  country_code: KH
+  latitude: 10.48
+  longitude: 104.287
+scores:
+  impact: 8.8
+  uniqueness: 9.1
+  significance: 8.3
+  experience: 9.4
+  depth: 9.3
+  categories:
+    beaches: 9.2
+    food: 9.0
+    relaxation: 9.6

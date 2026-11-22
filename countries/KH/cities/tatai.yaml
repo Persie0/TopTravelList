@@ -1,0 +1,16 @@
+id: city-kh-tatai
+name: "Tatai Village"
+location:
+  country_code: KH
+  latitude: 11.6
+  longitude: 103.105
+scores:
+  impact: 8.9
+  uniqueness: 9.4
+  significance: 8.5
+  experience: 9.3
+  depth: 8.8
+  categories:
+    nature: 9.7
+    relaxation: 9.5
+    photography: 9.6

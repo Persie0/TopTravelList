@@ -1,0 +1,17 @@
+id: sight-kh-sisowath-quay
+name: "Sisowath Quay Riverside"
+location:
+  country_code: KH
+  latitude: 11.5678
+  longitude: 104.9318
+scores:
+  impact: 9
+  uniqueness: 9.2
+  significance: 9.3
+  experience: 9.7
+  depth: 9.6
+  categories:
+    photography: 9.4
+    culture: 9.5
+    food: 9.3
+    nightlife: 9.2

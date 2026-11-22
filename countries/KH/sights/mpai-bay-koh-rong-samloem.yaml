@@ -1,0 +1,16 @@
+id: sight-kh-mpai-bay-koh-rong-samloem
+name: "M'Pai Bay Koh Rong Samloem"
+location:
+  country_code: KH
+  latitude: 10.627
+  longitude: 103.298
+scores:
+  impact: 8.9
+  uniqueness: 9.4
+  significance: 8.6
+  experience: 9.5
+  depth: 9.2
+  categories:
+    beaches: 9.4
+    food: 9.2
+    relaxation: 9.4

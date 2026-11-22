@@ -1,0 +1,15 @@
+id: sight-kh-southern-khleang
+name: "South Khleang"
+location:
+  country_code: KH
+  latitude: 13.4453
+  longitude: 103.8665
+scores:
+  impact: 8.9
+  uniqueness: 9.5
+  significance: 9.6
+  experience: 9.2
+  depth: 8.2
+  categories:
+    architecture: 9.6
+    history: 9.7

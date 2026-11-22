@@ -1,0 +1,15 @@
+id: sight-kh-banteay-top
+name: "Banteay Top Temple"
+location:
+  country_code: KH
+  latitude: 13.66
+  longitude: 103.173
+scores:
+  impact: 9.2
+  uniqueness: 9.8
+  significance: 9.6
+  experience: 9.4
+  depth: 8.6
+  categories:
+    architecture: 9.9
+    history: 9.8

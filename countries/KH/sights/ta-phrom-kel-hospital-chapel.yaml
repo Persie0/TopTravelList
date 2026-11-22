@@ -1,0 +1,15 @@
+id: sight-kh-ta-phrom-kel-hospital-chapel
+name: "Ta Prohm Kel Hospital Chapel"
+location:
+  country_code: KH
+  latitude: 13.406
+  longitude: 103.857
+scores:
+  impact: 8.8
+  uniqueness: 9.4
+  significance: 9.6
+  experience: 9
+  depth: 7.9
+  categories:
+    history: 9.7
+    architecture: 9.4

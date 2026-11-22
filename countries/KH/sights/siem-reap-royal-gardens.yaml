@@ -1,0 +1,15 @@
+id: sight-kh-siem-reap-royal-gardens
+name: "Royal Gardens Siem Reap"
+location:
+  country_code: KH
+  latitude: 13.366
+  longitude: 103.862
+scores:
+  impact: 8
+  uniqueness: 8.3
+  significance: 8.2
+  experience: 8.9
+  depth: 8.8
+  categories:
+    relaxation: 8.8
+    nature: 8.5

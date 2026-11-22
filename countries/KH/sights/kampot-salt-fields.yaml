@@ -1,0 +1,15 @@
+id: sight-kh-kampot-salt-fields
+name: "Kampot Salt Fields"
+location:
+  country_code: KH
+  latitude: 10.586
+  longitude: 104.23
+scores:
+  impact: 9
+  uniqueness: 9.6
+  significance: 9
+  experience: 9.5
+  depth: 9
+  categories:
+    culture: 9.4
+    photography: 9.8

@@ -1,0 +1,17 @@
+id: city-kh-banteay-chhmar
+name: "Banteay Chhmar Village"
+location:
+  country_code: KH
+  latitude: 13.7537
+  longitude: 103.0998
+scores:
+  impact: 9
+  uniqueness: 9.6
+  significance: 9.5
+  experience: 9.2
+  depth: 8.5
+  categories:
+    history: 9.8
+    architecture: 9.8
+    culture: 9.4
+    photography: 9.7

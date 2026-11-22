@@ -1,0 +1,16 @@
+id: sight-kh-kampi-irrawaddy-dolphin-pool
+name: "Kampi Irrawaddy Dolphin Pool"
+location:
+  country_code: KH
+  latitude: 12.612
+  longitude: 106.018
+scores:
+  impact: 9.6
+  uniqueness: 9.9
+  significance: 9.6
+  experience: 9.8
+  depth: 9.2
+  categories:
+    wildlife: 9.9
+    nature: 9.9
+    photography: 9.6

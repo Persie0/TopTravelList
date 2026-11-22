@@ -1,0 +1,16 @@
+id: sight-kh-areng-valley
+name: "Areng Valley"
+location:
+  country_code: KH
+  latitude: 11.765
+  longitude: 103.394
+scores:
+  impact: 9.6
+  uniqueness: 9.8
+  significance: 9.3
+  experience: 9.5
+  depth: 9.5
+  categories:
+    nature: 9.9
+    wildlife: 9.8
+    adventure: 9.7

@@ -1,0 +1,15 @@
+id: sight-kh-veaeng-valley
+name: "Veal Veng Cardamom Highlands"
+location:
+  country_code: KH
+  latitude: 12.225
+  longitude: 103.163
+scores:
+  impact: 9.1
+  uniqueness: 9.6
+  significance: 9
+  experience: 9.2
+  depth: 9.4
+  categories:
+    nature: 9.8
+    adventure: 9.4

@@ -1,0 +1,15 @@
+id: sight-kh-battambang-museum
+name: "Battambang Provincial Museum"
+location:
+  country_code: KH
+  latitude: 13.101
+  longitude: 103.195
+scores:
+  impact: 8.8
+  uniqueness: 9.4
+  significance: 9.6
+  experience: 9.4
+  depth: 9.2
+  categories:
+    history: 9.8
+    culture: 9.6

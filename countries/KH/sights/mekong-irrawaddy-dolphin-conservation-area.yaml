@@ -1,0 +1,16 @@
+id: sight-kh-mekong-irrawaddy-dolphin-conservation-area
+name: "Mekong Irrawaddy Dolphin Conservation Area"
+location:
+  country_code: KH
+  latitude: 12.63
+  longitude: 106.011
+scores:
+  impact: 9.7
+  uniqueness: 9.9
+  significance: 9.7
+  experience: 9.6
+  depth: 9.6
+  categories:
+    wildlife: 9.9
+    nature: 9.9
+    history: 9.3

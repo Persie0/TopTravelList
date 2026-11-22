@@ -1,0 +1,16 @@
+id: sight-kh-prek-toal-bird-sanctuary
+name: "Prek Toal Bird Sanctuary"
+location:
+  country_code: KH
+  latitude: 13.245
+  longitude: 103.655
+scores:
+  impact: 9.6
+  uniqueness: 9.9
+  significance: 9.6
+  experience: 9.6
+  depth: 9.6
+  categories:
+    wildlife: 9.9
+    nature: 9.9
+    photography: 9.7

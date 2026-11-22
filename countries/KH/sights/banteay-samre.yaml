@@ -1,0 +1,16 @@
+id: sight-kh-banteay-samre
+name: "Banteay Samre Temple"
+location:
+  country_code: KH
+  latitude: 13.4634
+  longitude: 103.9739
+scores:
+  impact: 9.5
+  uniqueness: 9.9
+  significance: 9.8
+  experience: 9.7
+  depth: 8.9
+  categories:
+    architecture: 9.9
+    history: 9.9
+    photography: 9.7

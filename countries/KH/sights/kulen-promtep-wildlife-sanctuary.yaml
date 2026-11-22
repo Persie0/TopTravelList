@@ -1,0 +1,15 @@
+id: sight-kh-kulen-promtep-wildlife-sanctuary
+name: "Kulen Promtep Wildlife Sanctuary"
+location:
+  country_code: KH
+  latitude: 13.932
+  longitude: 104.23
+scores:
+  impact: 9.6
+  uniqueness: 9.8
+  significance: 9.4
+  experience: 9.5
+  depth: 9.7
+  categories:
+    nature: 9.9
+    wildlife: 9.9

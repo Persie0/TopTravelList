@@ -1,0 +1,16 @@
+id: sight-kh-kampong-trach-cave-temple
+name: "Kampong Trach Cave Temple"
+location:
+  country_code: KH
+  latitude: 10.527
+  longitude: 104.471
+scores:
+  impact: 9.4
+  uniqueness: 9.8
+  significance: 9.5
+  experience: 9.6
+  depth: 9
+  categories:
+    nature: 9.8
+    architecture: 9.6
+    history: 9.6

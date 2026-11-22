@@ -1,0 +1,16 @@
+id: city-kh-saracen-bay
+name: "Saracen Bay"
+location:
+  country_code: KH
+  latitude: 10.579
+  longitude: 103.308
+scores:
+  impact: 8.9
+  uniqueness: 9.5
+  significance: 8.3
+  experience: 9.6
+  depth: 8.8
+  categories:
+    beaches: 9.8
+    nature: 9.4
+    relaxation: 9.7

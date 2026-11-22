@@ -1,0 +1,16 @@
+id: sight-kh-angkor-thom-victory-gate
+name: "Victory Gate of Angkor Thom"
+location:
+  country_code: KH
+  latitude: 13.442
+  longitude: 103.8726
+scores:
+  impact: 9.3
+  uniqueness: 9.6
+  significance: 9.6
+  experience: 9.5
+  depth: 8.4
+  categories:
+    architecture: 9.7
+    history: 9.7
+    photography: 9.7

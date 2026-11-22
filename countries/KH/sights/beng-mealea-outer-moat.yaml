@@ -1,0 +1,15 @@
+id: sight-kh-beng-mealea-outer-moat
+name: "Beng Mealea Outer Temple Ruins"
+location:
+  country_code: KH
+  latitude: 13.4714
+  longitude: 104.23
+scores:
+  impact: 9
+  uniqueness: 9.5
+  significance: 9.3
+  experience: 9.4
+  depth: 8.4
+  categories:
+    architecture: 9.5
+    history: 9.4

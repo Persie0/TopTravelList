@@ -1,0 +1,17 @@
+id: city-kh-koh-rong
+name: "Koh Rong Village (Koh Touch)"
+location:
+  country_code: KH
+  latitude: 10.6705
+  longitude: 103.2725
+scores:
+  impact: 9
+  uniqueness: 9.2
+  significance: 8.4
+  experience: 9.5
+  depth: 9.2
+  categories:
+    beaches: 9.7
+    nature: 9.5
+    nightlife: 9.1
+    photography: 9.5

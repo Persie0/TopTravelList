@@ -1,0 +1,15 @@
+id: city-kh-sok-san
+name: "Sok San Village (Koh Rong)"
+location:
+  country_code: KH
+  latitude: 10.708
+  longitude: 103.253
+scores:
+  impact: 8.6
+  uniqueness: 9.2
+  significance: 8.1
+  experience: 9.4
+  depth: 8.8
+  categories:
+    beaches: 9.7
+    relaxation: 9.5

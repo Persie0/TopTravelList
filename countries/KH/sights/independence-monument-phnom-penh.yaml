@@ -1,0 +1,16 @@
+id: sight-kh-independence-monument-phnom-penh
+name: "Independence Monument Phnom Penh"
+location:
+  country_code: KH
+  latitude: 11.5563
+  longitude: 104.9227
+scores:
+  impact: 9
+  uniqueness: 9.5
+  significance: 9.6
+  experience: 9.4
+  depth: 8.5
+  categories:
+    architecture: 9.7
+    history: 9.8
+    photography: 9.6

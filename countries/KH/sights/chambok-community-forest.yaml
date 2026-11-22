@@ -1,0 +1,16 @@
+id: sight-kh-chambok-community-forest
+name: "Chambok Community Ecotourism Area"
+location:
+  country_code: KH
+  latitude: 11.412
+  longitude: 104.028
+scores:
+  impact: 9
+  uniqueness: 9.5
+  significance: 8.8
+  experience: 9.4
+  depth: 9.2
+  categories:
+    nature: 9.6
+    adventure: 9.3
+    wildlife: 9.2

@@ -1,0 +1,15 @@
+id: sight-kh-cha-ong-waterfall
+name: "Cha Ong Waterfall"
+location:
+  country_code: KH
+  latitude: 13.762
+  longitude: 106.96
+scores:
+  impact: 9
+  uniqueness: 9.5
+  significance: 8.7
+  experience: 9.4
+  depth: 8.6
+  categories:
+    nature: 9.7
+    photography: 9.6

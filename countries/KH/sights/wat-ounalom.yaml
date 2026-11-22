@@ -1,0 +1,16 @@
+id: sight-kh-wat-ounalom
+name: "Wat Ounalom"
+location:
+  country_code: KH
+  latitude: 11.5655
+  longitude: 104.9302
+scores:
+  impact: 9.1
+  uniqueness: 9.6
+  significance: 9.7
+  experience: 9.4
+  depth: 8.7
+  categories:
+    architecture: 9.7
+    history: 9.8
+    culture: 9.9

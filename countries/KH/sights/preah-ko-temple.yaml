@@ -1,0 +1,15 @@
+id: sight-kh-preah-ko-temple
+name: "Preah Ko Temple"
+location:
+  country_code: KH
+  latitude: 13.3433
+  longitude: 103.9722
+scores:
+  impact: 9.4
+  uniqueness: 9.8
+  significance: 9.8
+  experience: 9.5
+  depth: 8.6
+  categories:
+    architecture: 9.9
+    history: 9.9

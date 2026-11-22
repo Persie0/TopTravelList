@@ -1,0 +1,15 @@
+id: sight-kh-thommanon
+name: "Thommanon Temple"
+location:
+  country_code: KH
+  latitude: 13.444
+  longitude: 103.877
+scores:
+  impact: 9.3
+  uniqueness: 9.8
+  significance: 9.8
+  experience: 9.6
+  depth: 8.5
+  categories:
+    architecture: 9.9
+    history: 9.9

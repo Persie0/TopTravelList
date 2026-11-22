@@ -1,0 +1,16 @@
+id: sight-kh-ta-keo
+name: "Ta Keo Temple"
+location:
+  country_code: KH
+  latitude: 13.445
+  longitude: 103.8822
+scores:
+  impact: 9.5
+  uniqueness: 9.8
+  significance: 9.8
+  experience: 9.6
+  depth: 8.8
+  categories:
+    architecture: 9.9
+    history: 9.9
+    photography: 9.8

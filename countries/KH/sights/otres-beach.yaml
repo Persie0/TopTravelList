@@ -1,0 +1,15 @@
+id: sight-kh-otres-beach
+name: "Otres Beach"
+location:
+  country_code: KH
+  latitude: 10.58
+  longitude: 103.552
+scores:
+  impact: 8.8
+  uniqueness: 9.2
+  significance: 8
+  experience: 9.4
+  depth: 9.1
+  categories:
+    beaches: 9.4
+    relaxation: 9.3

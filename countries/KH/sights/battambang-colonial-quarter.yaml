@@ -1,0 +1,17 @@
+id: sight-kh-battambang-colonial-quarter
+name: "Battambang Colonial Quarter"
+location:
+  country_code: KH
+  latitude: 13.1037
+  longitude: 103.1986
+scores:
+  impact: 9.1
+  uniqueness: 9.4
+  significance: 9.3
+  experience: 9.6
+  depth: 9.5
+  categories:
+    architecture: 9.6
+    history: 9.5
+    culture: 9.4
+    photography: 9.6

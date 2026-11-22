@@ -1,0 +1,16 @@
+id: sight-kh-kampong-chhnang-pottery-village
+name: "Kampong Chhnang Pottery Village"
+location:
+  country_code: KH
+  latitude: 12.241
+  longitude: 104.679
+scores:
+  impact: 9.1
+  uniqueness: 9.6
+  significance: 9.3
+  experience: 9.5
+  depth: 8.9
+  categories:
+    culture: 9.8
+    history: 9.4
+    architecture: 9.1

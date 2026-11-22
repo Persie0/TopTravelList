@@ -1,0 +1,16 @@
+id: sight-kh-bokor-hill-station
+name: "Bokor Hill Station"
+location:
+  country_code: KH
+  latitude: 10.624
+  longitude: 104.028
+scores:
+  impact: 9.4
+  uniqueness: 9.8
+  significance: 9.7
+  experience: 9.6
+  depth: 9.4
+  categories:
+    architecture: 9.7
+    history: 9.8
+    photography: 9.8

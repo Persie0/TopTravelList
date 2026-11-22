@@ -1,0 +1,15 @@
+id: sight-kh-chambok-waterfall
+name: "Chambok Waterfall"
+location:
+  country_code: KH
+  latitude: 11.427
+  longitude: 104.025
+scores:
+  impact: 9.1
+  uniqueness: 9.5
+  significance: 8.6
+  experience: 9.4
+  depth: 8.4
+  categories:
+    nature: 9.7
+    photography: 9.5

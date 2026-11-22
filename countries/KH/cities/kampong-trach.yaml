@@ -1,0 +1,15 @@
+id: city-kh-kampong-trach
+name: "Kampong Trach"
+location:
+  country_code: KH
+  latitude: 10.553
+  longitude: 104.471
+scores:
+  impact: 8.3
+  uniqueness: 9
+  significance: 8.8
+  experience: 9
+  depth: 8.5
+  categories:
+    nature: 9.3
+    history: 9.0

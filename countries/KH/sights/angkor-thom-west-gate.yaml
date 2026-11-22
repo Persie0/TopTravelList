@@ -1,0 +1,15 @@
+id: sight-kh-angkor-thom-west-gate
+name: "West Gate of Angkor Thom"
+location:
+  country_code: KH
+  latitude: 13.441
+  longitude: 103.846
+scores:
+  impact: 9
+  uniqueness: 9.6
+  significance: 9.5
+  experience: 9.4
+  depth: 8.1
+  categories:
+    architecture: 9.6
+    history: 9.6

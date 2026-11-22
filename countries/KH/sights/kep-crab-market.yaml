@@ -1,0 +1,15 @@
+id: sight-kh-kep-crab-market
+name: "Kep Crab Market"
+location:
+  country_code: KH
+  latitude: 10.4776
+  longitude: 104.2992
+scores:
+  impact: 9
+  uniqueness: 9.6
+  significance: 9.3
+  experience: 9.7
+  depth: 9.2
+  categories:
+    food: 9.8
+    culture: 9.6

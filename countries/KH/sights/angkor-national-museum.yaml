@@ -1,0 +1,16 @@
+id: sight-kh-angkor-national-museum
+name: "Angkor National Museum"
+location:
+  country_code: KH
+  latitude: 13.3706
+  longitude: 103.8592
+scores:
+  impact: 9.2
+  uniqueness: 9.5
+  significance: 9.7
+  experience: 9.6
+  depth: 9.5
+  categories:
+    history: 9.8
+    culture: 9.7
+    architecture: 9.2

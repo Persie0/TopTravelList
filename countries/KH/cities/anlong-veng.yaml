@@ -1,0 +1,15 @@
+id: city-kh-anlong-veng
+name: "Anlong Veng"
+location:
+  country_code: KH
+  latitude: 14.232
+  longitude: 104.0815
+scores:
+  impact: 8.1
+  uniqueness: 8.7
+  significance: 9.1
+  experience: 8.7
+  depth: 8.4
+  categories:
+    history: 9.4
+    nature: 8.9

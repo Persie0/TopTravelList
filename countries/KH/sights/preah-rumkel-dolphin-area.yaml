@@ -1,0 +1,15 @@
+id: sight-kh-preah-rumkel-dolphin-area
+name: "Preah Rumkel Dolphin Observation Area"
+location:
+  country_code: KH
+  latitude: 13.925
+  longitude: 105.94
+scores:
+  impact: 9.3
+  uniqueness: 9.8
+  significance: 9.1
+  experience: 9.6
+  depth: 8.9
+  categories:
+    wildlife: 9.8
+    nature: 9.7

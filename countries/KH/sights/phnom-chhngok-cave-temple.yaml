@@ -1,0 +1,16 @@
+id: sight-kh-phnom-chhngok-cave-temple
+name: "Phnom Chhngok Cave Temple"
+location:
+  country_code: KH
+  latitude: 10.568
+  longitude: 104.316
+scores:
+  impact: 9.5
+  uniqueness: 9.8
+  significance: 9.7
+  experience: 9.6
+  depth: 8.8
+  categories:
+    nature: 9.8
+    history: 9.8
+    architecture: 9.6

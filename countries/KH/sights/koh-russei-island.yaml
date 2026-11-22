@@ -1,0 +1,15 @@
+id: sight-kh-koh-russei-island
+name: "Koh Russei (Bamboo Island)"
+location:
+  country_code: KH
+  latitude: 10.564
+  longitude: 103.606
+scores:
+  impact: 9
+  uniqueness: 9.4
+  significance: 8.3
+  experience: 9.4
+  depth: 8.9
+  categories:
+    beaches: 9.5
+    nature: 9.4
