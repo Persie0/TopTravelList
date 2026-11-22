@@ -8,10 +8,10 @@
       "total": 133
     },
     "CN": {
-      "changed": 69,
-      "high90_after": 75,
+      "changed": 476,
+      "high90_after": 179,
       "high90_before": 35,
-      "reviewed": 83,
+      "reviewed": 490,
       "total": 490
     },
     "KH": {
@@ -50,11 +50,11 @@
       "total": 360
     }
   },
-  "changed": 1458,
-  "flagged": 443,
+  "changed": 1865,
+  "flagged": 568,
   "records": 1913,
   "remaining_high90": 0,
-  "screened_only": 407,
-  "source_referenced": 571,
-  "targeted": 1506
+  "screened_only": 0,
+  "source_referenced": 632,
+  "targeted": 1913
 }
