@@ -5,12 +5,12 @@ location:
   latitude: 23.251
   longitude: 105.469
 scores:
-  impact: 9.7
-  uniqueness: 9.9
-  significance: 8.9
-  experience: 9.8
-  depth: 9
+  impact: 9.0
+  uniqueness: 9.5
+  significance: 7.8
+  experience: 9.2
+  depth: 7.9
   categories:
-    nature: 9.9
-    photography: 9.9
-    adventure: 9.6
+    nature: 9.5
+    photography: 9.5
+    adventure: 8.8

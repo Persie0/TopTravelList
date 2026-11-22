@@ -24,12 +24,45 @@ In November 2026, the 639 populated city records across AT, TH, KR, CN, VN,
 and KH were jointly reviewed to correct mixed historical scoring standards;
 104 named destinations received individually reviewed benchmark profiles.
 The [complete audit](methodology/city-calibration-audit.md) records all changes.
-This historic one-time migration does **not** modify the universal v2 weight
-system or any individual sight, and does **not** establish a geography-based
-future scoring multiplier. Future countries must be rated directly using
+The city-only migration did **not** modify universal v2 weights, and
+did not change sight records at the time. A separate 2026 worldwide
+sight audit subsequently recalibrated all 1,733 sights. Neither migration
+establishes a geography-based future scoring multiplier. Future countries must be rated directly using
 cross-country comparisons. After editing, run both
 `python scripts/validate.py` and
 `python scripts/check_city_benchmarks.py` and regenerate the Markdown rankings.
+
+## Additional mandatory instructions for sight rankings
+
+**Before scoring any new sight**, use the
+[worldwide sight-scoring guide](methodology/sight-scoring-guide.md),
+[cross-country sight benchmarks](methodology/sight-comparison-benchmarks.md)
+and the [189 frozen worldwide sight profiles](methodology/sight-benchmark-profiles.txt).
+Use the same global five dimensions, regardless of country or attraction
+type. Rank a specific **sight itself**, not a gateway city, neighboring
+national park or parent heritage area. A temple gate or local market does
+not automatically inherit a near-100 score from its UNESCO-listed parent.
+
+The one-time November 2026 audit of **all 1,733 previously populated
+sights** corrected inconsistent prior scoring, preserving every existing
+officially approved field-specific 10/10 and all site identities and GPS.
+[Complete per-sight change log](methodology/sight-calibration-audit.md).
+Of 1,733 sights, 189 have individually benchmarked cross-country
+profiles; the remainder received a conservative numeric historical correction.
+These are provisional editorial assessments, **not 1,733 individual field
+visits or research-based audits**. Historical country-cohort correction
+curves are **NOT** authorized for future country authoring.
+
+For every new country, benchmark at least four international peers
+(including world-best and ordinary examples), inspect every proposed 9.5+
+field and compare nested attractions individually. A perfect 10 requires
+a field-specific ID approval in methodology/scoring.json. No national
+quotas, fixed distribution targets or percentage caps are allowed.
+
+After sight edits run the global validator, the **city AND sight**
+benchmark checkers, regenerate the relevant Markdown overviews and run
+the --check mode for all registered countries. The root README describes
+the exact commands.
 
 ## Core dimensions and weights
 

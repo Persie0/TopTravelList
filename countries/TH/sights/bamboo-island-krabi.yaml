@@ -5,13 +5,13 @@ location:
   latitude: 7.8166
   longitude: 98.7972
 scores:
-  impact: 8.1
-  uniqueness: 8.3
+  impact: 8.2
+  uniqueness: 8.4
   significance: 6.2
-  experience: 8.5
-  depth: 7.0
+  experience: 8.6
+  depth: 7.1
   categories:
-    beaches: 8.9
-    nature: 8.8
-    photography: 8.9
-    relaxation: 8.4
+    beaches: 9.0
+    nature: 8.9
+    photography: 9.0
+    relaxation: 8.5
