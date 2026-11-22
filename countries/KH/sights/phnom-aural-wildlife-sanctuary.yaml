@@ -6,11 +6,11 @@ location:
   longitude: 104.1
 scores:
   impact: 8.8
-  uniqueness: 9.2
-  significance: 8.6
-  experience: 8.6
-  depth: 9.2
+  uniqueness: 9.0
+  significance: 8.7
+  experience: 8.3
+  depth: 8.6
   categories:
-    nature: 9.5
+    nature: 9.2
     wildlife: 9.2
     adventure: 9.0
