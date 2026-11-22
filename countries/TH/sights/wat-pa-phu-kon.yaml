@@ -1,0 +1,16 @@
+id: sight-th-wat-pa-phu-kon
+name: "Wat Pa Phu Kon"
+location:
+  country_code: TH
+  latitude: 17.958
+  longitude: 102.1692
+scores:
+  impact: 8.9
+  uniqueness: 9.4
+  significance: 8.4
+  experience: 9
+  depth: 7.9
+  categories:
+    architecture: 9.7
+    culture: 9.1
+    photography: 9.2

@@ -1,0 +1,16 @@
+id: city-th-damnoen-saduak
+name: "Damnoen Saduak"
+location:
+  country_code: TH
+  latitude: 13.5175
+  longitude: 99.9557
+scores:
+  impact: 7.7
+  uniqueness: 8.5
+  significance: 8
+  experience: 7.9
+  depth: 6.9
+  categories:
+    culture: 8.4
+    food: 8.2
+    photography: 8.3

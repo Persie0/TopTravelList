@@ -1,0 +1,16 @@
+id: city-th-bang-saen
+name: "Bang Saen"
+location:
+  country_code: TH
+  latitude: 13.2833
+  longitude: 100.933
+scores:
+  impact: 7.2
+  uniqueness: 7.2
+  significance: 6.6
+  experience: 8
+  depth: 7.3
+  categories:
+    beaches: 7.4
+    food: 8.2
+    relaxation: 8

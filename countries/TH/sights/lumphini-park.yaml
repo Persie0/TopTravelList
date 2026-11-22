@@ -1,0 +1,16 @@
+id: sight-th-lumphini-park
+name: "Lumphini Park"
+location:
+  country_code: TH
+  latitude: 13.7317
+  longitude: 100.5417
+scores:
+  impact: 8
+  uniqueness: 7.7
+  significance: 7.5
+  experience: 8.9
+  depth: 8.6
+  categories:
+    nature: 8
+    relaxation: 8.9
+    wildlife: 8

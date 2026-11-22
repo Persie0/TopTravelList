@@ -1,0 +1,17 @@
+id: sight-th-wat-pho
+name: "Wat Pho"
+location:
+  country_code: TH
+  latitude: 13.7465
+  longitude: 100.493
+scores:
+  impact: 9.4
+  uniqueness: 9.4
+  significance: 9.6
+  experience: 9.4
+  depth: 9.1
+  categories:
+    architecture: 9.8
+    history: 9.8
+    culture: 9.8
+    photography: 9.2

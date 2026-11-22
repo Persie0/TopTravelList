@@ -1,0 +1,16 @@
+id: sight-th-nai-yang-beach
+name: "Nai Yang Beach"
+location:
+  country_code: TH
+  latitude: 8.092
+  longitude: 98.296
+scores:
+  impact: 8.1
+  uniqueness: 8.4
+  significance: 6.6
+  experience: 9
+  depth: 8
+  categories:
+    beaches: 9
+    nature: 8.7
+    relaxation: 9.1

@@ -1,0 +1,16 @@
+id: sight-th-wat-phumin
+name: "Wat Phumin"
+location:
+  country_code: TH
+  latitude: 18.7752
+  longitude: 100.773
+scores:
+  impact: 9.1
+  uniqueness: 9.4
+  significance: 9.3
+  experience: 9.1
+  depth: 8.4
+  categories:
+    architecture: 9.6
+    history: 9.7
+    culture: 9.8

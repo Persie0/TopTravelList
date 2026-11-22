@@ -1,0 +1,16 @@
+id: sight-th-doi-chiang-dao
+name: "Doi Chiang Dao"
+location:
+  country_code: TH
+  latitude: 19.404
+  longitude: 98.891
+scores:
+  impact: 9.5
+  uniqueness: 9.5
+  significance: 8
+  experience: 9.6
+  depth: 9.1
+  categories:
+    nature: 10
+    adventure: 9.9
+    photography: 9.9

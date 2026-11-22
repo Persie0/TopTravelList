@@ -1,0 +1,17 @@
+id: sight-th-ancient-city-muang-boran
+name: "Ancient City (Muang Boran)"
+location:
+  country_code: TH
+  latitude: 13.5394
+  longitude: 100.6231
+scores:
+  impact: 9
+  uniqueness: 9.5
+  significance: 8.7
+  experience: 9.4
+  depth: 9.7
+  categories:
+    architecture: 9.5
+    culture: 9.3
+    history: 9
+    family: 9.3

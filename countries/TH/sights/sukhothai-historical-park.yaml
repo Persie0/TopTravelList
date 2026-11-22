@@ -1,0 +1,17 @@
+id: sight-th-sukhothai-historical-park
+name: "Sukhothai Historical Park"
+location:
+  country_code: TH
+  latitude: 17.0197
+  longitude: 99.7037
+scores:
+  impact: 9.6
+  uniqueness: 9.8
+  significance: 10
+  experience: 9.7
+  depth: 9.6
+  categories:
+    history: 10
+    architecture: 9.8
+    culture: 9.7
+    photography: 10

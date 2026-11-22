@@ -1,0 +1,16 @@
+id: sight-th-phra-pathom-chedi
+name: "Phra Pathom Chedi"
+location:
+  country_code: TH
+  latitude: 13.8199
+  longitude: 100.0608
+scores:
+  impact: 8.9
+  uniqueness: 9.3
+  significance: 9.4
+  experience: 9
+  depth: 7.9
+  categories:
+    architecture: 9.7
+    history: 9.7
+    culture: 9.2

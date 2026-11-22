@@ -1,0 +1,16 @@
+id: sight-th-wat-nong-wang
+name: "Wat Nong Wang"
+location:
+  country_code: TH
+  latitude: 16.4222
+  longitude: 102.8318
+scores:
+  impact: 8.2
+  uniqueness: 8.6
+  significance: 8.8
+  experience: 8.5
+  depth: 7.6
+  categories:
+    architecture: 9.1
+    culture: 9.1
+    photography: 8.8

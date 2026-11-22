@@ -1,0 +1,17 @@
+id: sight-th-nong-nooch-tropical-garden
+name: "Nong Nooch Tropical Garden"
+location:
+  country_code: TH
+  latitude: 12.7688
+  longitude: 100.9328
+scores:
+  impact: 9
+  uniqueness: 9.1
+  significance: 8.2
+  experience: 9.2
+  depth: 9.6
+  categories:
+    nature: 9.3
+    architecture: 9
+    family: 9.5
+    photography: 9.4

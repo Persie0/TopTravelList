@@ -1,0 +1,15 @@
+id: city-th-nonthaburi
+name: "Nonthaburi"
+location:
+  country_code: TH
+  latitude: 13.8611
+  longitude: 100.5144
+scores:
+  impact: 7.4
+  uniqueness: 7
+  significance: 7.4
+  experience: 8
+  depth: 8.1
+  categories:
+    culture: 8
+    food: 8.7

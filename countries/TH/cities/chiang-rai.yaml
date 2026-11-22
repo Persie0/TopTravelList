@@ -1,0 +1,17 @@
+id: city-th-chiang-rai
+name: "Chiang Rai"
+location:
+  country_code: TH
+  latitude: 19.9105
+  longitude: 99.8406
+scores:
+  impact: 8.8
+  uniqueness: 8.6
+  significance: 8.6
+  experience: 9
+  depth: 8.9
+  categories:
+    architecture: 9.1
+    culture: 9
+    nature: 8.8
+    photography: 9.1

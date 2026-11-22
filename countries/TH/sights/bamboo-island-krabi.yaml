@@ -1,0 +1,17 @@
+id: sight-th-bamboo-island-krabi
+name: "Bamboo Island (Ko Mai Phai)"
+location:
+  country_code: TH
+  latitude: 7.8166
+  longitude: 98.7972
+scores:
+  impact: 9.1
+  uniqueness: 9.3
+  significance: 7.1
+  experience: 9.5
+  depth: 8
+  categories:
+    beaches: 9.9
+    nature: 9.8
+    photography: 9.9
+    relaxation: 9.4

@@ -1,0 +1,16 @@
+id: sight-th-wat-traimit
+name: "Wat Traimit"
+location:
+  country_code: TH
+  latitude: 13.737
+  longitude: 100.5137
+scores:
+  impact: 8.7
+  uniqueness: 9.2
+  significance: 9.5
+  experience: 8.7
+  depth: 7.3
+  categories:
+    history: 9.5
+    architecture: 9
+    culture: 9.3

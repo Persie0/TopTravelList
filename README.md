@@ -37,15 +37,21 @@ python scripts/validate.py
 python scripts/rank.py --country AT --kind cities --limit 20
 python scripts/rank.py --country AT --kind sights --limit 20
 python scripts/rank.py --country AT --kind sights --category nature --limit 20
+python scripts/rank.py --country TH --kind cities --limit 20
+python scripts/rank.py --country TH --kind sights --limit 20
+python scripts/rank.py --country TH --kind sights --category beaches --limit 20
 ```
 
 The registry covers **197 travel-country entries**: the 193 United Nations member states, the Holy See and Palestine (UN observer states), plus Taiwan and Kosovo as separately listed travel destinations. Kosovo uses the commonly used, user-assigned code `XK`, not an official ISO 3166-1 code. This is a geographic organization convention, not a statement on political recognition. Territories are not included.
 
 See [rules.md](rules.md) for the universal scoring rubric and [methodology/scoring.json](methodology/scoring.json) for the machine-readable weights and categories.
 
-## Austria — first populated country
+## Populated countries
 
-Austria (`AT`) currently has **45 city/town/village destinations** and **133 sights**, each with an initial five-dimension rating and category ratings. The scores are **provisional editorial assessments**, not objective facts or definitive worldwide standings. Coordinates identify approximate representative points and should not be used as precise navigation destinations.
+- **Austria (`AT`)**: 45 city/town/village destinations and 133 sights.
+- **Thailand (`TH`)**: 69 city/town/village destinations and 206 sights, including islands, historic parks, temples, waterfalls, and national parks.
+
+All destination records contain the same five core scoring dimensions and applicable category ratings. The scores are **provisional editorial assessments**, not objective facts or definitive worldwide standings. Coordinates identify approximate representative points and should not be used as precise navigation destinations.
 
 Use `scripts/rank.py` for sorted comparisons; it computes the overall score and category rankings directly from source YAML without generating additional files. Each category is independently rated on the 0–10 scale, as described in `rules.md`.
 

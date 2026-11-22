@@ -1,0 +1,17 @@
+id: city-th-ayutthaya
+name: "Ayutthaya"
+location:
+  country_code: TH
+  latitude: 14.3532
+  longitude: 100.5689
+scores:
+  impact: 9.3
+  uniqueness: 9.6
+  significance: 10
+  experience: 9.3
+  depth: 9
+  categories:
+    history: 10
+    architecture: 9.7
+    culture: 9.3
+    photography: 9.7

@@ -1,0 +1,16 @@
+id: sight-th-thale-waek-sandbar
+name: "Thale Waek Sandbar (Separated Sea)"
+location:
+  country_code: TH
+  latitude: 7.9885
+  longitude: 98.8165
+scores:
+  impact: 9.2
+  uniqueness: 9.8
+  significance: 7.3
+  experience: 9.3
+  depth: 7.1
+  categories:
+    nature: 9.9
+    photography: 10
+    beaches: 9.7

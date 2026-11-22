@@ -1,0 +1,16 @@
+id: sight-th-erawan-waterfalls
+name: "Erawan Waterfalls"
+location:
+  country_code: TH
+  latitude: 14.3721
+  longitude: 99.1431
+scores:
+  impact: 9.4
+  uniqueness: 9.2
+  significance: 8.1
+  experience: 9.5
+  depth: 8.7
+  categories:
+    nature: 9.9
+    photography: 9.8
+    adventure: 9.1

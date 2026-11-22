@@ -1,0 +1,17 @@
+id: sight-th-mu-ko-lanta-national-park
+name: "Mu Ko Lanta National Park"
+location:
+  country_code: TH
+  latitude: 7.466
+  longitude: 99.087
+scores:
+  impact: 9
+  uniqueness: 9.1
+  significance: 8
+  experience: 9.3
+  depth: 8.8
+  categories:
+    nature: 9.7
+    beaches: 9.4
+    photography: 9.7
+    adventure: 9.2

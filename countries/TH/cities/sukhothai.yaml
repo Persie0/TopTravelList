@@ -1,0 +1,17 @@
+id: city-th-sukhothai
+name: "Sukhothai"
+location:
+  country_code: TH
+  latitude: 17.0056
+  longitude: 99.8264
+scores:
+  impact: 9
+  uniqueness: 9.3
+  significance: 9.8
+  experience: 9
+  depth: 8.7
+  categories:
+    history: 9.9
+    architecture: 9.2
+    culture: 9.2
+    photography: 9.5

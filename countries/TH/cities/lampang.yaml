@@ -1,0 +1,17 @@
+id: city-th-lampang
+name: "Lampang"
+location:
+  country_code: TH
+  latitude: 18.2888
+  longitude: 99.4908
+scores:
+  impact: 8.1
+  uniqueness: 8.6
+  significance: 8.8
+  experience: 8.5
+  depth: 8.1
+  categories:
+    history: 9
+    architecture: 8.9
+    culture: 8.6
+    photography: 8.7

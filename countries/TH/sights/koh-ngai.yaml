@@ -1,0 +1,17 @@
+id: sight-th-koh-ngai
+name: "Ko Ngai Island"
+location:
+  country_code: TH
+  latitude: 7.415
+  longitude: 99.2
+scores:
+  impact: 9.1
+  uniqueness: 9.1
+  significance: 7.1
+  experience: 9.5
+  depth: 8.2
+  categories:
+    beaches: 9.8
+    nature: 9.7
+    relaxation: 9.8
+    photography: 9.8

@@ -1,0 +1,16 @@
+id: city-th-fang
+name: "Fang"
+location:
+  country_code: TH
+  latitude: 19.9169
+  longitude: 99.2144
+scores:
+  impact: 7.2
+  uniqueness: 7.6
+  significance: 7
+  experience: 7.8
+  depth: 7.2
+  categories:
+    nature: 8.8
+    culture: 7.6
+    relaxation: 8

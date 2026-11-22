@@ -1,0 +1,16 @@
+id: sight-th-wat-phra-prang-sam-yot
+name: "Phra Prang Sam Yot"
+location:
+  country_code: TH
+  latitude: 14.7992
+  longitude: 100.6539
+scores:
+  impact: 8.7
+  uniqueness: 9.3
+  significance: 9.6
+  experience: 8.9
+  depth: 7.7
+  categories:
+    architecture: 9.4
+    history: 9.8
+    wildlife: 8.3

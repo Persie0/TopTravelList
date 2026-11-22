@@ -1,0 +1,17 @@
+id: sight-th-benjakitti-forest-park
+name: "Benjakitti Forest Park"
+location:
+  country_code: TH
+  latitude: 13.727
+  longitude: 100.557
+scores:
+  impact: 8.5
+  uniqueness: 8.6
+  significance: 7.5
+  experience: 9.1
+  depth: 8.8
+  categories:
+    nature: 8.7
+    architecture: 8.6
+    photography: 9.1
+    relaxation: 8.9

@@ -1,0 +1,16 @@
+id: sight-th-haad-rin-beach
+name: "Haad Rin Beach"
+location:
+  country_code: TH
+  latitude: 9.673
+  longitude: 100.065
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 7.4
+  experience: 9
+  depth: 8.9
+  categories:
+    beaches: 9.1
+    nightlife: 9.9
+    food: 8.7

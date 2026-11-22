@@ -1,0 +1,16 @@
+id: sight-th-wat-huay-pla-kang
+name: "Wat Huay Pla Kang"
+location:
+  country_code: TH
+  latitude: 19.9547
+  longitude: 99.8109
+scores:
+  impact: 9
+  uniqueness: 9.4
+  significance: 8.2
+  experience: 9.1
+  depth: 8.2
+  categories:
+    architecture: 9.5
+    culture: 9.2
+    photography: 9.6

@@ -1,0 +1,17 @@
+id: sight-th-phu-phrabat-historical-park
+name: "Phu Phrabat Historical Park"
+location:
+  country_code: TH
+  latitude: 17.7311
+  longitude: 102.3625
+scores:
+  impact: 9.3
+  uniqueness: 9.8
+  significance: 10
+  experience: 9.2
+  depth: 9.1
+  categories:
+    history: 10
+    culture: 9.7
+    nature: 9.2
+    photography: 9.2

@@ -1,0 +1,16 @@
+id: sight-th-doi-samer-dao
+name: "Doi Samer Dao"
+location:
+  country_code: TH
+  latitude: 18.3795
+  longitude: 100.8423
+scores:
+  impact: 9
+  uniqueness: 9
+  significance: 7.5
+  experience: 9.2
+  depth: 8.4
+  categories:
+    nature: 9.8
+    photography: 9.8
+    relaxation: 9

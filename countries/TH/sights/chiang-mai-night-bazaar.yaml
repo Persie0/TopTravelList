@@ -1,0 +1,16 @@
+id: sight-th-chiang-mai-night-bazaar
+name: "Chiang Mai Night Bazaar"
+location:
+  country_code: TH
+  latitude: 18.7858
+  longitude: 99.0002
+scores:
+  impact: 8.4
+  uniqueness: 8.7
+  significance: 8.3
+  experience: 9.1
+  depth: 8.9
+  categories:
+    food: 9.1
+    culture: 9.3
+    nightlife: 8.5

@@ -1,0 +1,16 @@
+id: sight-th-maeklong-railway-market
+name: "Maeklong Railway Market"
+location:
+  country_code: TH
+  latitude: 13.407
+  longitude: 99.9985
+scores:
+  impact: 8.5
+  uniqueness: 9.4
+  significance: 8.1
+  experience: 8.9
+  depth: 7.6
+  categories:
+    culture: 9.4
+    food: 8.7
+    photography: 9.4

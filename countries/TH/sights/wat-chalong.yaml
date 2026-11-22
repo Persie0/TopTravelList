@@ -1,0 +1,17 @@
+id: sight-th-wat-chalong
+name: "Wat Chalong"
+location:
+  country_code: TH
+  latitude: 7.8476
+  longitude: 98.3372
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 9.1
+  experience: 9
+  depth: 8.3
+  categories:
+    architecture: 9.5
+    history: 9.3
+    culture: 9.5
+    photography: 9

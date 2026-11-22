@@ -1,0 +1,16 @@
+id: sight-th-phu-lang-ka-viewpoint
+name: "Phu Langka Viewpoint"
+location:
+  country_code: TH
+  latitude: 19.0875
+  longitude: 100.329
+scores:
+  impact: 9
+  uniqueness: 9
+  significance: 7.6
+  experience: 9.3
+  depth: 8
+  categories:
+    nature: 9.8
+    photography: 9.8
+    adventure: 8.7

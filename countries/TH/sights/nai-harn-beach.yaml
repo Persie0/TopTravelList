@@ -1,0 +1,16 @@
+id: sight-th-nai-harn-beach
+name: "Nai Harn Beach"
+location:
+  country_code: TH
+  latitude: 7.7757
+  longitude: 98.306
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 7
+  experience: 9.1
+  depth: 8.2
+  categories:
+    beaches: 9.5
+    relaxation: 9.2
+    photography: 9.3

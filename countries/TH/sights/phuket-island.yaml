@@ -1,0 +1,19 @@
+id: sight-th-phuket-island
+name: "Phuket Island"
+location:
+  country_code: TH
+  latitude: 7.93
+  longitude: 98.34
+scores:
+  impact: 9
+  uniqueness: 8.9
+  significance: 8
+  experience: 9.5
+  depth: 9.8
+  categories:
+    beaches: 9.4
+    nature: 9
+    food: 9.2
+    nightlife: 9.5
+    photography: 9.4
+    adventure: 9.2

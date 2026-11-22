@@ -1,0 +1,16 @@
+id: sight-th-si-thep-historical-park
+name: "Si Thep Historical Park"
+location:
+  country_code: TH
+  latitude: 15.4645
+  longitude: 101.1235
+scores:
+  impact: 9.2
+  uniqueness: 9.8
+  significance: 9.9
+  experience: 9.3
+  depth: 8.9
+  categories:
+    history: 10
+    architecture: 9.5
+    culture: 9.5

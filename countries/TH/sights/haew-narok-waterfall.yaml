@@ -1,0 +1,16 @@
+id: sight-th-haew-narok-waterfall
+name: "Haew Narok Waterfall"
+location:
+  country_code: TH
+  latitude: 14.286
+  longitude: 101.3855
+scores:
+  impact: 9
+  uniqueness: 9.1
+  significance: 7.6
+  experience: 9.1
+  depth: 8.1
+  categories:
+    nature: 9.7
+    adventure: 9
+    photography: 9.5

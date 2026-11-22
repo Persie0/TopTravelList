@@ -1,0 +1,17 @@
+id: sight-th-koh-kradan
+name: "Ko Kradan Island"
+location:
+  country_code: TH
+  latitude: 7.316
+  longitude: 99.252
+scores:
+  impact: 9.5
+  uniqueness: 9.5
+  significance: 7.3
+  experience: 9.7
+  depth: 8.3
+  categories:
+    beaches: 10
+    nature: 9.9
+    photography: 10
+    relaxation: 9.9

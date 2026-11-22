@@ -1,0 +1,16 @@
+id: city-th-nakhon-phanom
+name: "Nakhon Phanom"
+location:
+  country_code: TH
+  latitude: 17.406
+  longitude: 104.7797
+scores:
+  impact: 8.2
+  uniqueness: 8.6
+  significance: 8.2
+  experience: 8.5
+  depth: 8
+  categories:
+    culture: 8.7
+    photography: 8.9
+    history: 8.3

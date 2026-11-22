@@ -1,0 +1,19 @@
+id: city-th-bangkok
+name: "Bangkok"
+location:
+  country_code: TH
+  latitude: 13.7563
+  longitude: 100.5018
+scores:
+  impact: 9.7
+  uniqueness: 9.1
+  significance: 9.6
+  experience: 9.6
+  depth: 9.9
+  categories:
+    architecture: 9.4
+    history: 9.2
+    culture: 9.8
+    food: 9.9
+    nightlife: 9.8
+    photography: 9.2

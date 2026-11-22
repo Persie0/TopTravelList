@@ -1,0 +1,16 @@
+id: sight-th-surin-beach-phuket
+name: "Surin Beach Phuket"
+location:
+  country_code: TH
+  latitude: 7.976
+  longitude: 98.28
+scores:
+  impact: 8.2
+  uniqueness: 8.3
+  significance: 6.7
+  experience: 9
+  depth: 7.9
+  categories:
+    beaches: 9.2
+    relaxation: 9.2
+    photography: 9.1

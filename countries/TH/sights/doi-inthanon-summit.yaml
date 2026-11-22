@@ -1,0 +1,16 @@
+id: sight-th-doi-inthanon-summit
+name: "Doi Inthanon Summit"
+location:
+  country_code: TH
+  latitude: 18.588
+  longitude: 98.4863
+scores:
+  impact: 9
+  uniqueness: 9.2
+  significance: 8.4
+  experience: 9.3
+  depth: 7.7
+  categories:
+    nature: 9.7
+    photography: 9.3
+    adventure: 9

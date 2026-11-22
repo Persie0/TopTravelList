@@ -1,0 +1,18 @@
+id: city-th-hua-hin
+name: "Hua Hin"
+location:
+  country_code: TH
+  latitude: 12.5684
+  longitude: 99.9577
+scores:
+  impact: 8.3
+  uniqueness: 8.1
+  significance: 8
+  experience: 8.8
+  depth: 8.7
+  categories:
+    beaches: 8.2
+    food: 9
+    relaxation: 9
+    nightlife: 8
+    history: 8.1

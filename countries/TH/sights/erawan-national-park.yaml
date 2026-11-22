@@ -1,0 +1,16 @@
+id: sight-th-erawan-national-park
+name: "Erawan National Park"
+location:
+  country_code: TH
+  latitude: 14.37
+  longitude: 99.143
+scores:
+  impact: 9.3
+  uniqueness: 9.2
+  significance: 8.4
+  experience: 9.4
+  depth: 9.1
+  categories:
+    nature: 9.8
+    adventure: 9.5
+    photography: 9.6

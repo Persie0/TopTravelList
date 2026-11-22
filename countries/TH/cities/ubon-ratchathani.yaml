@@ -1,0 +1,16 @@
+id: city-th-ubon-ratchathani
+name: "Ubon Ratchathani"
+location:
+  country_code: TH
+  latitude: 15.2447
+  longitude: 104.847
+scores:
+  impact: 8.1
+  uniqueness: 8.3
+  significance: 8.6
+  experience: 8.6
+  depth: 8.3
+  categories:
+    culture: 8.9
+    history: 8.7
+    food: 8.7

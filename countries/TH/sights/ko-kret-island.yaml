@@ -1,0 +1,17 @@
+id: sight-th-ko-kret-island
+name: "Ko Kret Island"
+location:
+  country_code: TH
+  latitude: 13.9147
+  longitude: 100.4767
+scores:
+  impact: 8.1
+  uniqueness: 8.8
+  significance: 8.5
+  experience: 8.9
+  depth: 8.5
+  categories:
+    culture: 9
+    food: 9
+    photography: 8.6
+    relaxation: 8.7

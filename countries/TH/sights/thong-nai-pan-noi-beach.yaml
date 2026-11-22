@@ -1,0 +1,16 @@
+id: sight-th-thong-nai-pan-noi-beach
+name: "Thong Nai Pan Noi Beach"
+location:
+  country_code: TH
+  latitude: 9.765
+  longitude: 100.058
+scores:
+  impact: 8.8
+  uniqueness: 9
+  significance: 6.9
+  experience: 9.4
+  depth: 8.7
+  categories:
+    beaches: 9.6
+    relaxation: 9.7
+    photography: 9.4

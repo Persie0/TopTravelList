@@ -1,0 +1,16 @@
+id: city-th-phitsanulok
+name: "Phitsanulok"
+location:
+  country_code: TH
+  latitude: 16.8211
+  longitude: 100.2659
+scores:
+  impact: 7.9
+  uniqueness: 8.2
+  significance: 8.8
+  experience: 8.3
+  depth: 8.1
+  categories:
+    history: 9
+    architecture: 8.7
+    culture: 8.3

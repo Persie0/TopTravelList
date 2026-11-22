@@ -1,0 +1,17 @@
+id: sight-th-doi-mae-salong
+name: "Doi Mae Salong"
+location:
+  country_code: TH
+  latitude: 20.169
+  longitude: 99.619
+scores:
+  impact: 8.9
+  uniqueness: 9.3
+  significance: 8.5
+  experience: 9.1
+  depth: 8.6
+  categories:
+    nature: 9.4
+    culture: 9.1
+    food: 9.1
+    photography: 9.7

@@ -1,0 +1,16 @@
+id: sight-th-wat-umong
+name: "Wat Umong"
+location:
+  country_code: TH
+  latitude: 18.783
+  longitude: 98.9549
+scores:
+  impact: 8.6
+  uniqueness: 9.1
+  significance: 8.7
+  experience: 8.9
+  depth: 8.4
+  categories:
+    architecture: 8.8
+    history: 9
+    relaxation: 9.2

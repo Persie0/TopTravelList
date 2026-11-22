@@ -1,0 +1,17 @@
+id: city-th-amphawa
+name: "Amphawa"
+location:
+  country_code: TH
+  latitude: 13.4244
+  longitude: 99.956
+scores:
+  impact: 8.4
+  uniqueness: 9
+  significance: 8.2
+  experience: 8.8
+  depth: 8
+  categories:
+    culture: 9
+    food: 9
+    photography: 9
+    relaxation: 8.4

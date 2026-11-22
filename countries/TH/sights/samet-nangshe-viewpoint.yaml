@@ -1,0 +1,16 @@
+id: sight-th-samet-nangshe-viewpoint
+name: "Samet Nangshe Viewpoint"
+location:
+  country_code: TH
+  latitude: 8.2295
+  longitude: 98.449
+scores:
+  impact: 9.5
+  uniqueness: 9.5
+  significance: 7.7
+  experience: 9.6
+  depth: 8.6
+  categories:
+    nature: 9.9
+    photography: 10
+    relaxation: 9

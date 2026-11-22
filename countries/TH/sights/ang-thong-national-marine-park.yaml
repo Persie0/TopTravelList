@@ -1,0 +1,18 @@
+id: sight-th-ang-thong-national-marine-park
+name: "Ang Thong National Marine Park"
+location:
+  country_code: TH
+  latitude: 9.632
+  longitude: 99.676
+scores:
+  impact: 9.8
+  uniqueness: 9.9
+  significance: 9
+  experience: 9.8
+  depth: 9.6
+  categories:
+    nature: 10
+    beaches: 9.8
+    wildlife: 9.5
+    adventure: 9.6
+    photography: 10

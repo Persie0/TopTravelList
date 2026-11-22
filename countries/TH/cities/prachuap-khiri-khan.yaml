@@ -1,0 +1,17 @@
+id: city-th-prachuap-khiri-khan
+name: "Prachuap Khiri Khan"
+location:
+  country_code: TH
+  latitude: 11.8109
+  longitude: 99.7957
+scores:
+  impact: 8.1
+  uniqueness: 8.5
+  significance: 7.5
+  experience: 8.7
+  depth: 8.1
+  categories:
+    nature: 8.8
+    beaches: 8.6
+    relaxation: 9
+    photography: 9.1

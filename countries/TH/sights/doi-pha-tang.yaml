@@ -1,0 +1,16 @@
+id: sight-th-doi-pha-tang
+name: "Doi Pha Tang"
+location:
+  country_code: TH
+  latitude: 19.936
+  longitude: 100.493
+scores:
+  impact: 9
+  uniqueness: 9.1
+  significance: 7.4
+  experience: 9.3
+  depth: 8.6
+  categories:
+    nature: 9.8
+    photography: 9.9
+    adventure: 9.1

@@ -1,0 +1,16 @@
+id: sight-th-sanctuary-of-truth
+name: "Sanctuary of Truth Pattaya"
+location:
+  country_code: TH
+  latitude: 12.9745
+  longitude: 100.8893
+scores:
+  impact: 9.3
+  uniqueness: 9.9
+  significance: 9.2
+  experience: 9.3
+  depth: 9.2
+  categories:
+    architecture: 10
+    culture: 9.7
+    photography: 9.9

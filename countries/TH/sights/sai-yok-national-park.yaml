@@ -1,0 +1,16 @@
+id: sight-th-sai-yok-national-park
+name: "Sai Yok National Park"
+location:
+  country_code: TH
+  latitude: 14.437
+  longitude: 98.863
+scores:
+  impact: 9
+  uniqueness: 9.1
+  significance: 8.2
+  experience: 9.2
+  depth: 9.1
+  categories:
+    nature: 9.6
+    adventure: 9.4
+    wildlife: 9

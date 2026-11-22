@@ -1,0 +1,16 @@
+id: sight-th-mon-jam-viewpoint
+name: "Mon Jam Viewpoint"
+location:
+  country_code: TH
+  latitude: 18.9391
+  longitude: 98.8198
+scores:
+  impact: 8.7
+  uniqueness: 8.7
+  significance: 7.1
+  experience: 9.1
+  depth: 7.8
+  categories:
+    nature: 9.5
+    photography: 9.5
+    relaxation: 8.8

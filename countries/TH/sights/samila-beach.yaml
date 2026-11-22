@@ -1,0 +1,16 @@
+id: sight-th-samila-beach
+name: "Samila Beach"
+location:
+  country_code: TH
+  latitude: 7.2155
+  longitude: 100.602
+scores:
+  impact: 8.1
+  uniqueness: 8.2
+  significance: 7.5
+  experience: 8.8
+  depth: 8.5
+  categories:
+    beaches: 8.8
+    photography: 9
+    relaxation: 8.9

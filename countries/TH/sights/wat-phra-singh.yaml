@@ -1,0 +1,16 @@
+id: sight-th-wat-phra-singh
+name: "Wat Phra Singh"
+location:
+  country_code: TH
+  latitude: 18.7886
+  longitude: 98.9818
+scores:
+  impact: 9.1
+  uniqueness: 9.1
+  significance: 9.4
+  experience: 9.1
+  depth: 8.6
+  categories:
+    architecture: 9.7
+    history: 9.5
+    culture: 9.7

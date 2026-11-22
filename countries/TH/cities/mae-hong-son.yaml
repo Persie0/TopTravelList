@@ -1,0 +1,17 @@
+id: city-th-mae-hong-son
+name: "Mae Hong Son"
+location:
+  country_code: TH
+  latitude: 19.3007
+  longitude: 97.9654
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 8.1
+  experience: 8.7
+  depth: 8.5
+  categories:
+    nature: 9.2
+    culture: 8.8
+    photography: 9.2
+    relaxation: 9

@@ -1,0 +1,16 @@
+id: sight-th-wat-si-chum
+name: "Wat Si Chum"
+location:
+  country_code: TH
+  latitude: 17.0347
+  longitude: 99.6936
+scores:
+  impact: 9.3
+  uniqueness: 9.8
+  significance: 9.7
+  experience: 9.5
+  depth: 8.4
+  categories:
+    architecture: 9.9
+    history: 9.9
+    photography: 10

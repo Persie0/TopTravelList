@@ -1,0 +1,17 @@
+id: sight-th-ko-kut-island
+name: "Ko Kut (Koh Kood)"
+location:
+  country_code: TH
+  latitude: 11.661
+  longitude: 102.563
+scores:
+  impact: 9.5
+  uniqueness: 9.5
+  significance: 7.6
+  experience: 9.7
+  depth: 9.1
+  categories:
+    nature: 9.8
+    beaches: 9.9
+    relaxation: 10
+    photography: 9.8

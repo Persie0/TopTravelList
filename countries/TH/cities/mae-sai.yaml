@@ -1,0 +1,16 @@
+id: city-th-mae-sai
+name: "Mae Sai"
+location:
+  country_code: TH
+  latitude: 20.4335
+  longitude: 99.884
+scores:
+  impact: 7.8
+  uniqueness: 8.3
+  significance: 7.4
+  experience: 8.1
+  depth: 7.5
+  categories:
+    culture: 8.1
+    food: 8
+    history: 7.6

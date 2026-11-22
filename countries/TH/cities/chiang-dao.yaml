@@ -1,0 +1,16 @@
+id: city-th-chiang-dao
+name: "Chiang Dao"
+location:
+  country_code: TH
+  latitude: 19.3655
+  longitude: 98.9646
+scores:
+  impact: 8.4
+  uniqueness: 8.8
+  significance: 7.5
+  experience: 8.9
+  depth: 8.1
+  categories:
+    nature: 9.6
+    adventure: 9.3
+    photography: 9.4

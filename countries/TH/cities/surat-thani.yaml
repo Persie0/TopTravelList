@@ -1,0 +1,15 @@
+id: city-th-surat-thani
+name: "Surat Thani"
+location:
+  country_code: TH
+  latitude: 9.1401
+  longitude: 99.3331
+scores:
+  impact: 7.5
+  uniqueness: 7.6
+  significance: 7.5
+  experience: 8.1
+  depth: 8.3
+  categories:
+    culture: 8.1
+    food: 8.7

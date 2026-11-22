@@ -1,0 +1,16 @@
+id: city-th-si-satchanalai
+name: "Si Satchanalai"
+location:
+  country_code: TH
+  latitude: 17.5176
+  longitude: 99.7593
+scores:
+  impact: 8.4
+  uniqueness: 9.1
+  significance: 9.1
+  experience: 8.8
+  depth: 8.1
+  categories:
+    history: 9.5
+    architecture: 9.2
+    photography: 9.1

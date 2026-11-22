@@ -1,0 +1,15 @@
+id: city-th-surin
+name: "Surin"
+location:
+  country_code: TH
+  latitude: 14.8818
+  longitude: 103.4936
+scores:
+  impact: 7.8
+  uniqueness: 8
+  significance: 8.3
+  experience: 8.2
+  depth: 7.7
+  categories:
+    culture: 8.8
+    history: 8.1

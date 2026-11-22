@@ -1,0 +1,17 @@
+id: city-th-ao-nang
+name: "Ao Nang"
+location:
+  country_code: TH
+  latitude: 8.0324
+  longitude: 98.8225
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 7.4
+  experience: 9.1
+  depth: 9
+  categories:
+    nature: 9.5
+    beaches: 8.8
+    adventure: 9.3
+    photography: 9.7

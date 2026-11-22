@@ -1,0 +1,17 @@
+id: city-th-chiang-khan
+name: "Chiang Khan"
+location:
+  country_code: TH
+  latitude: 17.8939
+  longitude: 101.6599
+scores:
+  impact: 8.4
+  uniqueness: 8.9
+  significance: 7.9
+  experience: 9
+  depth: 8.1
+  categories:
+    culture: 9.1
+    history: 8.2
+    relaxation: 9.2
+    photography: 9.2

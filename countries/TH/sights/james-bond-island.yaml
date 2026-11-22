@@ -1,0 +1,16 @@
+id: sight-th-james-bond-island
+name: "James Bond Island (Ko Tapu)"
+location:
+  country_code: TH
+  latitude: 8.275
+  longitude: 98.5015
+scores:
+  impact: 9.1
+  uniqueness: 9.8
+  significance: 8.4
+  experience: 9
+  depth: 7.4
+  categories:
+    nature: 9.8
+    photography: 10
+    adventure: 8.5

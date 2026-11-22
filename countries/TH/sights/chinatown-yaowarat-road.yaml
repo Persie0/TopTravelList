@@ -1,0 +1,17 @@
+id: sight-th-chinatown-yaowarat-road
+name: "Bangkok Chinatown (Yaowarat Road)"
+location:
+  country_code: TH
+  latitude: 13.739
+  longitude: 100.5119
+scores:
+  impact: 9.1
+  uniqueness: 9.1
+  significance: 9
+  experience: 9.4
+  depth: 9.3
+  categories:
+    food: 10
+    culture: 9.5
+    nightlife: 9.4
+    photography: 9.1

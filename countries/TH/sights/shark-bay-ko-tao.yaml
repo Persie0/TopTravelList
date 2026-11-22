@@ -1,0 +1,17 @@
+id: sight-th-shark-bay-ko-tao
+name: "Shark Bay Ko Tao"
+location:
+  country_code: TH
+  latitude: 10.069
+  longitude: 99.832
+scores:
+  impact: 9.1
+  uniqueness: 9.2
+  significance: 7.2
+  experience: 9.5
+  depth: 8.5
+  categories:
+    nature: 9.5
+    wildlife: 9.8
+    beaches: 9.2
+    adventure: 9.6

@@ -1,0 +1,17 @@
+id: sight-th-phanom-rung-historical-park
+name: "Phanom Rung Historical Park"
+location:
+  country_code: TH
+  latitude: 14.5318
+  longitude: 102.9448
+scores:
+  impact: 9.5
+  uniqueness: 9.8
+  significance: 9.9
+  experience: 9.5
+  depth: 9.2
+  categories:
+    history: 10
+    architecture: 10
+    culture: 9.4
+    photography: 9.9

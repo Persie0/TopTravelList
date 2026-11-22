@@ -1,0 +1,16 @@
+id: city-th-trat
+name: "Trat"
+location:
+  country_code: TH
+  latitude: 12.2436
+  longitude: 102.5175
+scores:
+  impact: 7.6
+  uniqueness: 7.8
+  significance: 7.4
+  experience: 8.1
+  depth: 7.8
+  categories:
+    nature: 8.3
+    food: 8
+    relaxation: 8.2

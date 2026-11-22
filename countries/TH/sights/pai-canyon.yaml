@@ -1,0 +1,16 @@
+id: sight-th-pai-canyon
+name: "Pai Canyon"
+location:
+  country_code: TH
+  latitude: 19.3287
+  longitude: 98.4459
+scores:
+  impact: 8.9
+  uniqueness: 9.2
+  significance: 7.1
+  experience: 9
+  depth: 8
+  categories:
+    nature: 9.3
+    adventure: 8.9
+    photography: 9.7

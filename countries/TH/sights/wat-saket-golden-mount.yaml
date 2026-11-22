@@ -1,0 +1,16 @@
+id: sight-th-wat-saket-golden-mount
+name: "Wat Saket (Golden Mount)"
+location:
+  country_code: TH
+  latitude: 13.7538
+  longitude: 100.5069
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 9.1
+  depth: 8
+  categories:
+    architecture: 9
+    history: 9
+    photography: 9.6

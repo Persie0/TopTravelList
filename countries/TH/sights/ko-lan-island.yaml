@@ -1,0 +1,16 @@
+id: sight-th-ko-lan-island
+name: "Ko Lan Island"
+location:
+  country_code: TH
+  latitude: 12.9207
+  longitude: 100.782
+scores:
+  impact: 8.5
+  uniqueness: 8
+  significance: 6.9
+  experience: 8.9
+  depth: 8.4
+  categories:
+    beaches: 8.8
+    relaxation: 8.8
+    photography: 9

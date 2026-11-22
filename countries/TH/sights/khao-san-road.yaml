@@ -1,0 +1,16 @@
+id: sight-th-khao-san-road
+name: "Khao San Road"
+location:
+  country_code: TH
+  latitude: 13.7589
+  longitude: 100.4972
+scores:
+  impact: 8
+  uniqueness: 8.8
+  significance: 7.7
+  experience: 8.8
+  depth: 8.6
+  categories:
+    nightlife: 9.3
+    food: 8.4
+    culture: 8.5

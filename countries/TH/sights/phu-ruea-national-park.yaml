@@ -1,0 +1,16 @@
+id: sight-th-phu-ruea-national-park
+name: "Phu Ruea National Park"
+location:
+  country_code: TH
+  latitude: 17.5005
+  longitude: 101.344
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 7.7
+  experience: 9
+  depth: 8.6
+  categories:
+    nature: 9.4
+    adventure: 9.1
+    photography: 9.5

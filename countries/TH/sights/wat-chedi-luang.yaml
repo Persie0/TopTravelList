@@ -1,0 +1,16 @@
+id: sight-th-wat-chedi-luang
+name: "Wat Chedi Luang"
+location:
+  country_code: TH
+  latitude: 18.7867
+  longitude: 98.9867
+scores:
+  impact: 9.1
+  uniqueness: 9.3
+  significance: 9.4
+  experience: 9.3
+  depth: 8.7
+  categories:
+    architecture: 9.7
+    history: 9.6
+    culture: 9.6

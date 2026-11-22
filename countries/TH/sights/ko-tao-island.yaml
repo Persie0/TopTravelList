@@ -1,0 +1,18 @@
+id: sight-th-ko-tao-island
+name: "Ko Tao Island"
+location:
+  country_code: TH
+  latitude: 10.093
+  longitude: 99.839
+scores:
+  impact: 9.5
+  uniqueness: 9.5
+  significance: 8
+  experience: 9.8
+  depth: 9.6
+  categories:
+    nature: 9.8
+    beaches: 9.5
+    wildlife: 9.8
+    adventure: 10
+    photography: 9.8

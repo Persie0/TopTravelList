@@ -1,0 +1,16 @@
+id: sight-th-srinakarin-dam-reservoir
+name: "Srinakarin Dam Reservoir"
+location:
+  country_code: TH
+  latitude: 14.409
+  longitude: 99.141
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 8.3
+  experience: 9
+  depth: 8.8
+  categories:
+    nature: 9.1
+    adventure: 8.6
+    photography: 9.1

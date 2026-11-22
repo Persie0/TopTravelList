@@ -1,0 +1,16 @@
+id: city-th-mae-sariang
+name: "Mae Sariang"
+location:
+  country_code: TH
+  latitude: 18.1641
+  longitude: 97.9332
+scores:
+  impact: 7.7
+  uniqueness: 8
+  significance: 7.4
+  experience: 8.1
+  depth: 7.4
+  categories:
+    nature: 8.5
+    culture: 8.1
+    relaxation: 8.6

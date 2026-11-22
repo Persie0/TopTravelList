@@ -1,0 +1,17 @@
+id: sight-th-ko-nang-yuan
+name: "Ko Nang Yuan"
+location:
+  country_code: TH
+  latitude: 10.118
+  longitude: 99.816
+scores:
+  impact: 9.6
+  uniqueness: 9.9
+  significance: 7.6
+  experience: 9.7
+  depth: 8.4
+  categories:
+    nature: 10
+    beaches: 9.9
+    photography: 10
+    adventure: 9.5

@@ -1,0 +1,16 @@
+id: sight-th-bangkok-national-museum
+name: "Bangkok National Museum"
+location:
+  country_code: TH
+  latitude: 13.7579
+  longitude: 100.4923
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 9.7
+  experience: 9
+  depth: 9.3
+  categories:
+    history: 9.9
+    culture: 9.7
+    architecture: 8.9

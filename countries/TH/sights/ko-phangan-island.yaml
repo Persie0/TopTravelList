@@ -1,0 +1,18 @@
+id: sight-th-ko-phangan-island
+name: "Ko Phangan Island"
+location:
+  country_code: TH
+  latitude: 9.731
+  longitude: 100.016
+scores:
+  impact: 9.2
+  uniqueness: 9.3
+  significance: 7.8
+  experience: 9.5
+  depth: 9.6
+  categories:
+    nature: 9.5
+    beaches: 9.6
+    nightlife: 9.7
+    relaxation: 9.3
+    adventure: 9.1

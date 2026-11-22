@@ -1,0 +1,15 @@
+id: city-th-mukdahan
+name: "Mukdahan"
+location:
+  country_code: TH
+  latitude: 16.5453
+  longitude: 104.7235
+scores:
+  impact: 7.5
+  uniqueness: 7.7
+  significance: 7.5
+  experience: 8.1
+  depth: 7.5
+  categories:
+    culture: 8.3
+    photography: 8.1

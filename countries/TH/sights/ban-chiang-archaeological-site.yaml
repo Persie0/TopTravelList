@@ -1,0 +1,16 @@
+id: sight-th-ban-chiang-archaeological-site
+name: "Ban Chiang Archaeological Site"
+location:
+  country_code: TH
+  latitude: 17.4075
+  longitude: 103.2376
+scores:
+  impact: 9
+  uniqueness: 9.8
+  significance: 10
+  experience: 8.9
+  depth: 8.9
+  categories:
+    history: 10
+    culture: 9.7
+    architecture: 8.5

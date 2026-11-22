@@ -1,0 +1,16 @@
+id: sight-th-wat-phra-si-sanphet
+name: "Wat Phra Si Sanphet"
+location:
+  country_code: TH
+  latitude: 14.355
+  longitude: 100.5577
+scores:
+  impact: 9.3
+  uniqueness: 9.7
+  significance: 10
+  experience: 9.4
+  depth: 8.8
+  categories:
+    architecture: 9.9
+    history: 10
+    photography: 9.8

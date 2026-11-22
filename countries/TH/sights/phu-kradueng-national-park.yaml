@@ -1,0 +1,16 @@
+id: sight-th-phu-kradueng-national-park
+name: "Phu Kradueng National Park"
+location:
+  country_code: TH
+  latitude: 16.881
+  longitude: 101.886
+scores:
+  impact: 9.3
+  uniqueness: 9.5
+  significance: 8.2
+  experience: 9.5
+  depth: 9.2
+  categories:
+    nature: 9.8
+    adventure: 9.8
+    photography: 9.7

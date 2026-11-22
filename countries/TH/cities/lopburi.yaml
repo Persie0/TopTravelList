@@ -1,0 +1,16 @@
+id: city-th-lopburi
+name: "Lopburi"
+location:
+  country_code: TH
+  latitude: 14.7995
+  longitude: 100.6534
+scores:
+  impact: 8.1
+  uniqueness: 8.9
+  significance: 9.1
+  experience: 8.5
+  depth: 8
+  categories:
+    history: 9.5
+    architecture: 8.9
+    wildlife: 8.3

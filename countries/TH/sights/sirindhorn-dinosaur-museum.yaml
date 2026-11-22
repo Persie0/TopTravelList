@@ -1,0 +1,16 @@
+id: sight-th-sirindhorn-dinosaur-museum
+name: "Sirindhorn Dinosaur Museum"
+location:
+  country_code: TH
+  latitude: 16.6975
+  longitude: 103.525
+scores:
+  impact: 8.3
+  uniqueness: 9
+  significance: 8.9
+  experience: 8.9
+  depth: 8.8
+  categories:
+    history: 9
+    culture: 9
+    family: 9.5

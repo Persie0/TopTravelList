@@ -1,0 +1,16 @@
+id: sight-th-bridge-over-river-kwai
+name: "Bridge over the River Kwai"
+location:
+  country_code: TH
+  latitude: 14.04
+  longitude: 99.5036
+scores:
+  impact: 9
+  uniqueness: 9.5
+  significance: 9.9
+  experience: 8.8
+  depth: 7.7
+  categories:
+    history: 10
+    architecture: 8.7
+    photography: 9.2

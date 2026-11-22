@@ -1,0 +1,16 @@
+id: sight-th-tham-khao-luang-cave
+name: "Tham Khao Luang Cave"
+location:
+  country_code: TH
+  latitude: 13.1244
+  longitude: 99.9312
+scores:
+  impact: 8.9
+  uniqueness: 9.4
+  significance: 8.8
+  experience: 9.1
+  depth: 8.2
+  categories:
+    nature: 9.2
+    culture: 9.1
+    photography: 9.8

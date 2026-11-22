@@ -1,0 +1,17 @@
+id: sight-th-khao-sam-roi-yot-national-park
+name: "Khao Sam Roi Yot National Park"
+location:
+  country_code: TH
+  latitude: 12.204
+  longitude: 99.961
+scores:
+  impact: 9.3
+  uniqueness: 9.6
+  significance: 8.6
+  experience: 9.5
+  depth: 9.6
+  categories:
+    nature: 9.9
+    wildlife: 9.2
+    photography: 9.8
+    adventure: 9.3

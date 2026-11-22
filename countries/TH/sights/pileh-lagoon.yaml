@@ -1,0 +1,16 @@
+id: sight-th-pileh-lagoon
+name: "Pileh Lagoon"
+location:
+  country_code: TH
+  latitude: 7.675
+  longitude: 98.766
+scores:
+  impact: 9.6
+  uniqueness: 9.9
+  significance: 7.6
+  experience: 9.7
+  depth: 8
+  categories:
+    nature: 10
+    photography: 10
+    adventure: 9.4

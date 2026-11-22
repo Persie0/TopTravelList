@@ -1,0 +1,16 @@
+id: sight-th-wat-plai-laem
+name: "Wat Plai Laem"
+location:
+  country_code: TH
+  latitude: 9.5706
+  longitude: 100.07
+scores:
+  impact: 8.6
+  uniqueness: 9.3
+  significance: 8.4
+  experience: 9
+  depth: 8.5
+  categories:
+    architecture: 9.6
+    culture: 9.3
+    photography: 9.4

@@ -1,0 +1,16 @@
+id: sight-th-kaeng-krachan-national-park
+name: "Kaeng Krachan National Park"
+location:
+  country_code: TH
+  latitude: 12.85
+  longitude: 99.5
+scores:
+  impact: 9.4
+  uniqueness: 9.7
+  significance: 9.4
+  experience: 9.6
+  depth: 9.8
+  categories:
+    nature: 10
+    wildlife: 9.9
+    adventure: 9.4

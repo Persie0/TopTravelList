@@ -1,0 +1,18 @@
+id: sight-th-ko-chang-island
+name: "Ko Chang Island"
+location:
+  country_code: TH
+  latitude: 12.0495
+  longitude: 102.329
+scores:
+  impact: 9.1
+  uniqueness: 9.2
+  significance: 8.2
+  experience: 9.5
+  depth: 9.7
+  categories:
+    nature: 9.7
+    beaches: 9.2
+    adventure: 9.3
+    photography: 9.5
+    relaxation: 9.3

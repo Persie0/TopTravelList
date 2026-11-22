@@ -1,0 +1,15 @@
+id: city-th-tak
+name: "Tak"
+location:
+  country_code: TH
+  latitude: 16.884
+  longitude: 99.1255
+scores:
+  impact: 7.2
+  uniqueness: 7.5
+  significance: 7.5
+  experience: 7.9
+  depth: 7.2
+  categories:
+    nature: 8.2
+    history: 7.7

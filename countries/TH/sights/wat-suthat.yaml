@@ -1,0 +1,16 @@
+id: sight-th-wat-suthat
+name: "Wat Suthat"
+location:
+  country_code: TH
+  latitude: 13.7517
+  longitude: 100.5014
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 9.3
+  experience: 8.8
+  depth: 7.9
+  categories:
+    architecture: 9.4
+    history: 9.5
+    culture: 9.3

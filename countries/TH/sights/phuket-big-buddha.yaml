@@ -1,0 +1,16 @@
+id: sight-th-phuket-big-buddha
+name: "Phuket Big Buddha"
+location:
+  country_code: TH
+  latitude: 7.8276
+  longitude: 98.3123
+scores:
+  impact: 8.8
+  uniqueness: 9.1
+  significance: 8.5
+  experience: 8.9
+  depth: 7.9
+  categories:
+    architecture: 9.2
+    culture: 9
+    photography: 9.6

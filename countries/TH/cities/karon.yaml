@@ -1,0 +1,16 @@
+id: city-th-karon
+name: "Karon"
+location:
+  country_code: TH
+  latitude: 7.8439
+  longitude: 98.294
+scores:
+  impact: 7.8
+  uniqueness: 7.5
+  significance: 6.8
+  experience: 8.5
+  depth: 7.9
+  categories:
+    beaches: 8.8
+    relaxation: 8.7
+    food: 8.1

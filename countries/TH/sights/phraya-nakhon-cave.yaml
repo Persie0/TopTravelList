@@ -1,0 +1,17 @@
+id: sight-th-phraya-nakhon-cave
+name: "Phraya Nakhon Cave"
+location:
+  country_code: TH
+  latitude: 12.1989
+  longitude: 99.981
+scores:
+  impact: 9.5
+  uniqueness: 9.8
+  significance: 8.8
+  experience: 9.5
+  depth: 8.4
+  categories:
+    nature: 9.8
+    architecture: 9.1
+    photography: 10
+    adventure: 9.2

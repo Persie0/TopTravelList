@@ -1,0 +1,16 @@
+id: city-th-trang
+name: "Trang"
+location:
+  country_code: TH
+  latitude: 7.5563
+  longitude: 99.6114
+scores:
+  impact: 7.9
+  uniqueness: 8.2
+  significance: 7.7
+  experience: 8.5
+  depth: 8.5
+  categories:
+    food: 9
+    nature: 8.8
+    relaxation: 8.3

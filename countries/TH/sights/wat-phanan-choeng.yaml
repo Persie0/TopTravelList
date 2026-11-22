@@ -1,0 +1,16 @@
+id: sight-th-wat-phanan-choeng
+name: "Wat Phanan Choeng"
+location:
+  country_code: TH
+  latitude: 14.3368
+  longitude: 100.5771
+scores:
+  impact: 8.7
+  uniqueness: 9.1
+  significance: 9.5
+  experience: 9
+  depth: 7.7
+  categories:
+    history: 9.6
+    culture: 9.4
+    architecture: 9.2

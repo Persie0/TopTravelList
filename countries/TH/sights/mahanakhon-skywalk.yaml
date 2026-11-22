@@ -1,0 +1,16 @@
+id: sight-th-mahanakhon-skywalk
+name: "King Power Mahanakhon SkyWalk"
+location:
+  country_code: TH
+  latitude: 13.7231
+  longitude: 100.5284
+scores:
+  impact: 9.1
+  uniqueness: 9.1
+  significance: 7.7
+  experience: 9.2
+  depth: 7.3
+  categories:
+    architecture: 9.1
+    photography: 9.9
+    adventure: 8.8

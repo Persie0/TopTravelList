@@ -1,0 +1,16 @@
+id: sight-th-phu-pha-thoep-national-park
+name: "Phu Pha Thoep National Park"
+location:
+  country_code: TH
+  latitude: 16.591
+  longitude: 104.646
+scores:
+  impact: 8.5
+  uniqueness: 9.1
+  significance: 7.3
+  experience: 9
+  depth: 8.4
+  categories:
+    nature: 9.4
+    photography: 9.3
+    adventure: 8.9

@@ -1,0 +1,17 @@
+id: sight-th-ko-mak-island
+name: "Ko Mak Island"
+location:
+  country_code: TH
+  latitude: 11.8225
+  longitude: 102.4825
+scores:
+  impact: 8.8
+  uniqueness: 9
+  significance: 7.2
+  experience: 9.4
+  depth: 8.5
+  categories:
+    nature: 9.3
+    beaches: 9.5
+    relaxation: 9.8
+    photography: 9.5

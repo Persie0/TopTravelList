@@ -1,0 +1,18 @@
+id: sight-th-ko-lipe-island
+name: "Ko Lipe Island"
+location:
+  country_code: TH
+  latitude: 6.49
+  longitude: 99.301
+scores:
+  impact: 9.5
+  uniqueness: 9.5
+  significance: 7.7
+  experience: 9.8
+  depth: 9.6
+  categories:
+    beaches: 10
+    nature: 9.8
+    photography: 10
+    relaxation: 9.6
+    adventure: 9.5

@@ -1,0 +1,16 @@
+id: sight-th-khao-takiab-temple
+name: "Khao Takiab Temple"
+location:
+  country_code: TH
+  latitude: 12.5144
+  longitude: 99.9808
+scores:
+  impact: 8.1
+  uniqueness: 8.3
+  significance: 8.1
+  experience: 8.7
+  depth: 7.6
+  categories:
+    culture: 8.6
+    photography: 9.1
+    history: 8.3

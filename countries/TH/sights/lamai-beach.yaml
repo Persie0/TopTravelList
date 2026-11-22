@@ -1,0 +1,16 @@
+id: sight-th-lamai-beach
+name: "Lamai Beach"
+location:
+  country_code: TH
+  latitude: 9.468
+  longitude: 100.048
+scores:
+  impact: 8.6
+  uniqueness: 8.6
+  significance: 7.1
+  experience: 9.2
+  depth: 8.9
+  categories:
+    beaches: 9.3
+    relaxation: 9.1
+    food: 8.8

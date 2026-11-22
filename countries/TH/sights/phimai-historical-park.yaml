@@ -1,0 +1,17 @@
+id: sight-th-phimai-historical-park
+name: "Phimai Historical Park"
+location:
+  country_code: TH
+  latitude: 15.2203
+  longitude: 102.493
+scores:
+  impact: 9.2
+  uniqueness: 9.6
+  significance: 9.8
+  experience: 9.3
+  depth: 8.8
+  categories:
+    history: 10
+    architecture: 9.9
+    culture: 9.4
+    photography: 9.5

@@ -1,0 +1,16 @@
+id: sight-th-wat-mahathat-sukhothai
+name: "Wat Mahathat Sukhothai"
+location:
+  country_code: TH
+  latitude: 17.017
+  longitude: 99.7042
+scores:
+  impact: 9.5
+  uniqueness: 9.6
+  significance: 9.9
+  experience: 9.5
+  depth: 8.7
+  categories:
+    history: 10
+    architecture: 9.9
+    photography: 10

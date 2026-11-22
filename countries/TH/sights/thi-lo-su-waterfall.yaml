@@ -1,0 +1,16 @@
+id: sight-th-thi-lo-su-waterfall
+name: "Thi Lo Su Waterfall"
+location:
+  country_code: TH
+  latitude: 15.9243
+  longitude: 98.7532
+scores:
+  impact: 9.6
+  uniqueness: 9.9
+  significance: 8.4
+  experience: 9.6
+  depth: 8.8
+  categories:
+    nature: 10
+    adventure: 9.7
+    photography: 9.9

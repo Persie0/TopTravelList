@@ -1,0 +1,16 @@
+id: sight-th-si-satchanalai-historical-park
+name: "Si Satchanalai Historical Park"
+location:
+  country_code: TH
+  latitude: 17.4305
+  longitude: 99.7892
+scores:
+  impact: 9.2
+  uniqueness: 9.7
+  significance: 9.9
+  experience: 9.4
+  depth: 9.1
+  categories:
+    history: 10
+    architecture: 9.7
+    photography: 9.6

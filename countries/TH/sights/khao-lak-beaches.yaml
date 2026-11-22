@@ -1,0 +1,17 @@
+id: sight-th-khao-lak-beaches
+name: "Khao Lak Beaches"
+location:
+  country_code: TH
+  latitude: 8.647
+  longitude: 98.246
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 7.4
+  experience: 9.4
+  depth: 9.4
+  categories:
+    beaches: 9.6
+    nature: 9.3
+    relaxation: 9.7
+    photography: 9.3

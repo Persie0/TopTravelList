@@ -1,0 +1,16 @@
+id: sight-th-wat-sa-si
+name: "Wat Sa Si"
+location:
+  country_code: TH
+  latitude: 17.0188
+  longitude: 99.7065
+scores:
+  impact: 8.9
+  uniqueness: 9
+  significance: 9.1
+  experience: 9.2
+  depth: 8.1
+  categories:
+    history: 9.5
+    architecture: 9.2
+    photography: 9.7

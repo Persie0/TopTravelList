@@ -1,0 +1,16 @@
+id: sight-th-tat-ton-national-park
+name: "Tat Ton National Park"
+location:
+  country_code: TH
+  latitude: 15.988
+  longitude: 102.036
+scores:
+  impact: 8.2
+  uniqueness: 8.2
+  significance: 7.2
+  experience: 8.7
+  depth: 8.3
+  categories:
+    nature: 9
+    photography: 8.7
+    relaxation: 8.8

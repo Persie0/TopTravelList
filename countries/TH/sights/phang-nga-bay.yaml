@@ -1,0 +1,17 @@
+id: sight-th-phang-nga-bay
+name: "Phang Nga Bay"
+location:
+  country_code: TH
+  latitude: 8.265
+  longitude: 98.52
+scores:
+  impact: 9.8
+  uniqueness: 9.9
+  significance: 9.1
+  experience: 9.8
+  depth: 9.9
+  categories:
+    nature: 10
+    photography: 10
+    adventure: 9.5
+    wildlife: 9

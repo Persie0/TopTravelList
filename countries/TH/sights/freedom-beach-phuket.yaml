@@ -1,0 +1,16 @@
+id: sight-th-freedom-beach-phuket
+name: "Freedom Beach Phuket"
+location:
+  country_code: TH
+  latitude: 7.8763
+  longitude: 98.2675
+scores:
+  impact: 8.9
+  uniqueness: 9
+  significance: 6.7
+  experience: 9.3
+  depth: 8
+  categories:
+    beaches: 9.6
+    relaxation: 9.3
+    photography: 9.5

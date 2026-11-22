@@ -1,0 +1,16 @@
+id: sight-th-khao-ok-thalu
+name: "Khao Ok Thalu"
+location:
+  country_code: TH
+  latitude: 7.626
+  longitude: 100.074
+scores:
+  impact: 8.5
+  uniqueness: 9
+  significance: 7.6
+  experience: 9
+  depth: 8
+  categories:
+    nature: 9.3
+    adventure: 9
+    photography: 9.3

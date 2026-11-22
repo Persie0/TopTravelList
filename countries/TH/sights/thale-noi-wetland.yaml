@@ -1,0 +1,16 @@
+id: sight-th-thale-noi-wetland
+name: "Thale Noi Wetland"
+location:
+  country_code: TH
+  latitude: 7.792
+  longitude: 100.153
+scores:
+  impact: 9.1
+  uniqueness: 9.4
+  significance: 8.4
+  experience: 9.5
+  depth: 9.4
+  categories:
+    nature: 9.7
+    wildlife: 9.9
+    photography: 9.9

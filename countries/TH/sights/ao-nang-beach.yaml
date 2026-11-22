@@ -1,0 +1,17 @@
+id: sight-th-ao-nang-beach
+name: "Ao Nang Beach"
+location:
+  country_code: TH
+  latitude: 8.0342
+  longitude: 98.8234
+scores:
+  impact: 8.4
+  uniqueness: 8.3
+  significance: 7.1
+  experience: 9
+  depth: 9.2
+  categories:
+    beaches: 8.6
+    food: 8.8
+    adventure: 9.1
+    photography: 9.2

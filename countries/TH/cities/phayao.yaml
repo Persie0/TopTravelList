@@ -1,0 +1,16 @@
+id: city-th-phayao
+name: "Phayao"
+location:
+  country_code: TH
+  latitude: 19.1666
+  longitude: 99.9018
+scores:
+  impact: 7.7
+  uniqueness: 7.9
+  significance: 7.9
+  experience: 8.3
+  depth: 7.6
+  categories:
+    nature: 8.6
+    relaxation: 8.5
+    culture: 8

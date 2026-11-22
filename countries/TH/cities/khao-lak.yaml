@@ -1,0 +1,17 @@
+id: city-th-khao-lak
+name: "Khao Lak"
+location:
+  country_code: TH
+  latitude: 8.642
+  longitude: 98.246
+scores:
+  impact: 8.5
+  uniqueness: 8.4
+  significance: 7.1
+  experience: 9.1
+  depth: 8.7
+  categories:
+    beaches: 9
+    nature: 9.1
+    relaxation: 9.3
+    adventure: 8.8

@@ -1,0 +1,16 @@
+id: city-th-lamphun
+name: "Lamphun"
+location:
+  country_code: TH
+  latitude: 18.5776
+  longitude: 99.0088
+scores:
+  impact: 7.9
+  uniqueness: 8.3
+  significance: 8.8
+  experience: 8.4
+  depth: 7.4
+  categories:
+    history: 9.1
+    architecture: 8.7
+    culture: 8.5
