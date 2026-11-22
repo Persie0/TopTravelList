@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate two complete Markdown rankings in every registered country folder.
+"""Generate two complete Markdown rankings in every country and a root README country directory.
 
 Source YAML records remain authoritative. Rerun after any destination edit.
 Use --check to detect missing/stale Markdown without writing changes.
@@ -225,6 +225,76 @@ def render_country(code, folder, weights, version):
     return "\n".join(lines), len(ranked) + len(unranked)
 
 
+
+COUNTRY_INDEX_START = "<!-- COUNTRY_DIRECTORY_START -->"
+COUNTRY_INDEX_END = "<!-- COUNTRY_DIRECTORY_END -->"
+
+
+def generate_country_directory(codes):
+    """Build an alphabetical, linked README index from existing YAML files."""
+    if len(codes) != len(set(codes)):
+        raise ValueError("Duplicate country code in registry")
+    done, not_done = [], []
+    for code in codes:
+        cities = sum(1 for _ in (COUNTRIES / code / "cities").glob("*.yaml"))
+        sights = sum(1 for _ in (COUNTRIES / code / "sights").glob("*.yaml"))
+        item = (get_country_name(code), code, cities, sights)
+        (done if cities and sights else not_done).append(item)
+    done.sort(key=lambda row: (row[0].casefold(), row[1]))
+    not_done.sort(key=lambda row: (row[0].casefold(), row[1]))
+
+    lines = [
+        f"**{len(done)} done · {len(not_done)} not done · {len(codes)} countries total.**",
+        "",
+        "**Done** means both the city and sight folders contain destination YAML records. "
+        "It does not mean that every possible destination has been cataloged.",
+        "",
+        f"### Done ({len(done)})",
+        "",
+        "| Country | Cities | Sights |",
+        "| --- | ---: | ---: |",
+    ]
+    for name, code, cities, sights in done:
+        lines.append(
+            f"| [{cell(name)}](countries/{code}/) (`{code}`) | "
+            f"{cities} | {sights} |"
+        )
+    lines.extend([
+        "",
+        f"### Not done ({len(not_done)})",
+        "",
+        "These countries have no entries in one or both destination folders yet. "
+        "Their country folders already exist; follow the links to populate them.",
+        "",
+        "| Country | Country | Country | Country |",
+        "| --- | --- | --- | --- |",
+    ])
+    for i in range(0, len(not_done), 4):
+        group = not_done[i:i + 4]
+        cells = []
+        for name, code, cities, sights in group:
+            status = f" ({cities} cities, {sights} sights)" if cities or sights else ""
+            cells.append(f"[{cell(name)}](countries/{code}/) (`{code}`){status}")
+        lines.append("| " + " | ".join(cells + [""] * (4 - len(cells))) + " |")
+    return "\n".join(lines)
+
+
+def sync_readme_directory(codes, check, changed):
+    """Update/read-only check the generated country index in root README."""
+    target = ROOT / "README.md"
+    original = target.read_text(encoding="utf-8")
+    if original.count(COUNTRY_INDEX_START) != 1 or original.count(COUNTRY_INDEX_END) != 1:
+        raise ValueError("README must contain exactly one pair of country directory markers")
+    prefix, remainder = original.split(COUNTRY_INDEX_START, 1)
+    _, suffix = remainder.split(COUNTRY_INDEX_END, 1)
+    updated = (prefix + COUNTRY_INDEX_START + "\n\n" +
+               generate_country_directory(codes) + "\n\n" + COUNTRY_INDEX_END + suffix)
+    if original != updated:
+        changed.append("README.md")
+        if not check:
+            target.write_text(updated, encoding="utf-8", newline="\n")
+
+
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--country", type=str.upper, help="One two-letter registered country (default: all)")
@@ -250,6 +320,7 @@ def main():
                 changed.append(str(target.relative_to(ROOT)))
                 if not args.check:
                     target.write_text(output, encoding="utf-8", newline="\n")
+    sync_readme_directory(codes, args.check, changed)
     if args.check and changed:
         print(f"{len(changed)} missing/stale ranking file(s):", file=sys.stderr)
         for path in changed:

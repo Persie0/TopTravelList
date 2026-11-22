@@ -58,12 +58,82 @@ The registry covers **197 travel-country entries**: the 193 United Nations membe
 
 See [rules.md](rules.md) for the universal scoring rubric and [methodology/scoring.json](methodology/scoring.json) for the machine-readable weights and categories.
 
-## Populated countries
+## Country directory
 
-- **Austria (`AT`)**: 45 city/town/village destinations and 133 sights.
-- **Thailand (`TH`)**: 69 city/town/village destinations and 206 sights, including islands, historic parks, temples, waterfalls, and national parks.
-- **South Korea (`KR`)**: 82 city/town/village destinations and 284 sights, including palaces, royal heritage, Buddhist temples, national parks, islands, Jeju volcanic sites, and beaches.
-- **China (`CN`)**: 231 cities, towns and villages and 490 sights, including historic capitals, ancient towns, UNESCO heritage sites, major mountain and river landscapes, and important destinations across China's regions. For this country grouping, Hong Kong and Macau are included under `CN`; Taiwan remains in the separately registered `TW` folder.
+Every registered country has a linked folder below. The status is determined from the YAML destinations and updated whenever rankings are regenerated.
+
+<!-- COUNTRY_DIRECTORY_START -->
+
+**4 done · 193 not done · 197 countries total.**
+
+**Done** means both the city and sight folders contain destination YAML records. It does not mean that every possible destination has been cataloged.
+
+### Done (4)
+
+| Country | Cities | Sights |
+| --- | ---: | ---: |
+| [Austria](countries/AT/) (`AT`) | 45 | 133 |
+| [China](countries/CN/) (`CN`) | 231 | 490 |
+| [South Korea](countries/KR/) (`KR`) | 82 | 284 |
+| [Thailand](countries/TH/) (`TH`) | 69 | 206 |
+
+### Not done (193)
+
+These countries have no entries in one or both destination folders yet. Their country folders already exist; follow the links to populate them.
+
+| Country | Country | Country | Country |
+| --- | --- | --- | --- |
+| [Afghanistan](countries/AF/) (`AF`) | [Albania](countries/AL/) (`AL`) | [Algeria](countries/DZ/) (`DZ`) | [Andorra](countries/AD/) (`AD`) |
+| [Angola](countries/AO/) (`AO`) | [Antigua and Barbuda](countries/AG/) (`AG`) | [Argentina](countries/AR/) (`AR`) | [Armenia](countries/AM/) (`AM`) |
+| [Australia](countries/AU/) (`AU`) | [Azerbaijan](countries/AZ/) (`AZ`) | [Bahamas](countries/BS/) (`BS`) | [Bahrain](countries/BH/) (`BH`) |
+| [Bangladesh](countries/BD/) (`BD`) | [Barbados](countries/BB/) (`BB`) | [Belarus](countries/BY/) (`BY`) | [Belgium](countries/BE/) (`BE`) |
+| [Belize](countries/BZ/) (`BZ`) | [Benin](countries/BJ/) (`BJ`) | [Bhutan](countries/BT/) (`BT`) | [Bolivia](countries/BO/) (`BO`) |
+| [Bosnia and Herzegovina](countries/BA/) (`BA`) | [Botswana](countries/BW/) (`BW`) | [Brazil](countries/BR/) (`BR`) | [Brunei](countries/BN/) (`BN`) |
+| [Bulgaria](countries/BG/) (`BG`) | [Burkina Faso](countries/BF/) (`BF`) | [Burundi](countries/BI/) (`BI`) | [Cabo Verde](countries/CV/) (`CV`) |
+| [Cambodia](countries/KH/) (`KH`) | [Cameroon](countries/CM/) (`CM`) | [Canada](countries/CA/) (`CA`) | [Central African Republic](countries/CF/) (`CF`) |
+| [Chad](countries/TD/) (`TD`) | [Chile](countries/CL/) (`CL`) | [Colombia](countries/CO/) (`CO`) | [Comoros](countries/KM/) (`KM`) |
+| [Congo](countries/CG/) (`CG`) | [Costa Rica](countries/CR/) (`CR`) | [Croatia](countries/HR/) (`HR`) | [Cuba](countries/CU/) (`CU`) |
+| [Cyprus](countries/CY/) (`CY`) | [Czechia](countries/CZ/) (`CZ`) | [Côte d'Ivoire](countries/CI/) (`CI`) | [Denmark](countries/DK/) (`DK`) |
+| [Djibouti](countries/DJ/) (`DJ`) | [Dominica](countries/DM/) (`DM`) | [Dominican Republic](countries/DO/) (`DO`) | [DR Congo](countries/CD/) (`CD`) |
+| [Ecuador](countries/EC/) (`EC`) | [Egypt](countries/EG/) (`EG`) | [El Salvador](countries/SV/) (`SV`) | [Equatorial Guinea](countries/GQ/) (`GQ`) |
+| [Eritrea](countries/ER/) (`ER`) | [Estonia](countries/EE/) (`EE`) | [Eswatini](countries/SZ/) (`SZ`) | [Ethiopia](countries/ET/) (`ET`) |
+| [Fiji](countries/FJ/) (`FJ`) | [Finland](countries/FI/) (`FI`) | [France](countries/FR/) (`FR`) | [Gabon](countries/GA/) (`GA`) |
+| [Gambia](countries/GM/) (`GM`) | [Georgia](countries/GE/) (`GE`) | [Germany](countries/DE/) (`DE`) | [Ghana](countries/GH/) (`GH`) |
+| [Greece](countries/GR/) (`GR`) | [Grenada](countries/GD/) (`GD`) | [Guatemala](countries/GT/) (`GT`) | [Guinea](countries/GN/) (`GN`) |
+| [Guinea-Bissau](countries/GW/) (`GW`) | [Guyana](countries/GY/) (`GY`) | [Haiti](countries/HT/) (`HT`) | [Honduras](countries/HN/) (`HN`) |
+| [Hungary](countries/HU/) (`HU`) | [Iceland](countries/IS/) (`IS`) | [India](countries/IN/) (`IN`) | [Indonesia](countries/ID/) (`ID`) |
+| [Iran](countries/IR/) (`IR`) | [Iraq](countries/IQ/) (`IQ`) | [Ireland](countries/IE/) (`IE`) | [Israel](countries/IL/) (`IL`) |
+| [Italy](countries/IT/) (`IT`) | [Jamaica](countries/JM/) (`JM`) | [Japan](countries/JP/) (`JP`) | [Jordan](countries/JO/) (`JO`) |
+| [Kazakhstan](countries/KZ/) (`KZ`) | [Kenya](countries/KE/) (`KE`) | [Kiribati](countries/KI/) (`KI`) | [Kosovo](countries/XK/) (`XK`) |
+| [Kuwait](countries/KW/) (`KW`) | [Kyrgyzstan](countries/KG/) (`KG`) | [Laos](countries/LA/) (`LA`) | [Latvia](countries/LV/) (`LV`) |
+| [Lebanon](countries/LB/) (`LB`) | [Lesotho](countries/LS/) (`LS`) | [Liberia](countries/LR/) (`LR`) | [Libya](countries/LY/) (`LY`) |
+| [Liechtenstein](countries/LI/) (`LI`) | [Lithuania](countries/LT/) (`LT`) | [Luxembourg](countries/LU/) (`LU`) | [Madagascar](countries/MG/) (`MG`) |
+| [Malawi](countries/MW/) (`MW`) | [Malaysia](countries/MY/) (`MY`) | [Maldives](countries/MV/) (`MV`) | [Mali](countries/ML/) (`ML`) |
+| [Malta](countries/MT/) (`MT`) | [Marshall Islands](countries/MH/) (`MH`) | [Mauritania](countries/MR/) (`MR`) | [Mauritius](countries/MU/) (`MU`) |
+| [Mexico](countries/MX/) (`MX`) | [Micronesia, Federated States of](countries/FM/) (`FM`) | [Moldova](countries/MD/) (`MD`) | [Monaco](countries/MC/) (`MC`) |
+| [Mongolia](countries/MN/) (`MN`) | [Montenegro](countries/ME/) (`ME`) | [Morocco](countries/MA/) (`MA`) | [Mozambique](countries/MZ/) (`MZ`) |
+| [Myanmar](countries/MM/) (`MM`) | [Namibia](countries/NA/) (`NA`) | [Nauru](countries/NR/) (`NR`) | [Nepal](countries/NP/) (`NP`) |
+| [Netherlands](countries/NL/) (`NL`) | [New Zealand](countries/NZ/) (`NZ`) | [Nicaragua](countries/NI/) (`NI`) | [Niger](countries/NE/) (`NE`) |
+| [Nigeria](countries/NG/) (`NG`) | [North Korea](countries/KP/) (`KP`) | [North Macedonia](countries/MK/) (`MK`) | [Norway](countries/NO/) (`NO`) |
+| [Oman](countries/OM/) (`OM`) | [Pakistan](countries/PK/) (`PK`) | [Palau](countries/PW/) (`PW`) | [Palestine](countries/PS/) (`PS`) |
+| [Panama](countries/PA/) (`PA`) | [Papua New Guinea](countries/PG/) (`PG`) | [Paraguay](countries/PY/) (`PY`) | [Peru](countries/PE/) (`PE`) |
+| [Philippines](countries/PH/) (`PH`) | [Poland](countries/PL/) (`PL`) | [Portugal](countries/PT/) (`PT`) | [Qatar](countries/QA/) (`QA`) |
+| [Romania](countries/RO/) (`RO`) | [Russia](countries/RU/) (`RU`) | [Rwanda](countries/RW/) (`RW`) | [Saint Kitts and Nevis](countries/KN/) (`KN`) |
+| [Saint Lucia](countries/LC/) (`LC`) | [Saint Vincent and the Grenadines](countries/VC/) (`VC`) | [Samoa](countries/WS/) (`WS`) | [San Marino](countries/SM/) (`SM`) |
+| [Sao Tome and Principe](countries/ST/) (`ST`) | [Saudi Arabia](countries/SA/) (`SA`) | [Senegal](countries/SN/) (`SN`) | [Serbia](countries/RS/) (`RS`) |
+| [Seychelles](countries/SC/) (`SC`) | [Sierra Leone](countries/SL/) (`SL`) | [Singapore](countries/SG/) (`SG`) | [Slovakia](countries/SK/) (`SK`) |
+| [Slovenia](countries/SI/) (`SI`) | [Solomon Islands](countries/SB/) (`SB`) | [Somalia](countries/SO/) (`SO`) | [South Africa](countries/ZA/) (`ZA`) |
+| [South Sudan](countries/SS/) (`SS`) | [Spain](countries/ES/) (`ES`) | [Sri Lanka](countries/LK/) (`LK`) | [Sudan](countries/SD/) (`SD`) |
+| [Suriname](countries/SR/) (`SR`) | [Sweden](countries/SE/) (`SE`) | [Switzerland](countries/CH/) (`CH`) | [Syria](countries/SY/) (`SY`) |
+| [Taiwan](countries/TW/) (`TW`) | [Tajikistan](countries/TJ/) (`TJ`) | [Tanzania](countries/TZ/) (`TZ`) | [Timor-Leste](countries/TL/) (`TL`) |
+| [Togo](countries/TG/) (`TG`) | [Tonga](countries/TO/) (`TO`) | [Trinidad and Tobago](countries/TT/) (`TT`) | [Tunisia](countries/TN/) (`TN`) |
+| [Turkmenistan](countries/TM/) (`TM`) | [Tuvalu](countries/TV/) (`TV`) | [Türkiye](countries/TR/) (`TR`) | [Uganda](countries/UG/) (`UG`) |
+| [Ukraine](countries/UA/) (`UA`) | [United Arab Emirates](countries/AE/) (`AE`) | [United Kingdom](countries/GB/) (`GB`) | [United States](countries/US/) (`US`) |
+| [Uruguay](countries/UY/) (`UY`) | [Uzbekistan](countries/UZ/) (`UZ`) | [Vanuatu](countries/VU/) (`VU`) | [Vatican City](countries/VA/) (`VA`) |
+| [Venezuela](countries/VE/) (`VE`) | [Vietnam](countries/VN/) (`VN`) | [Yemen](countries/YE/) (`YE`) | [Zambia](countries/ZM/) (`ZM`) |
+| [Zimbabwe](countries/ZW/) (`ZW`) |  |  |  |
+
+<!-- COUNTRY_DIRECTORY_END -->
 
 All destination records contain the same five core scoring dimensions and applicable category ratings. The scores are **provisional editorial assessments**, not objective facts or definitive worldwide standings. Since the current rubric allows multiple top scores, exceptional destinations can tie. Coordinates identify approximate representative points and should not be used as precise navigation destinations; large parks, rivers, lakes, and regions are not represented by entrance coordinates.
 
@@ -77,10 +147,10 @@ Each overview lists **every destination**, ordered by its globally calibrated to
 python scripts/generate_rankings.py                   # write/update all 394 overviews
 python scripts/generate_rankings.py --country AT      # refresh only Austria
 python scripts/generate_rankings.py --country CN      # refresh only China
-python scripts/generate_rankings.py --check           # fail on missing/stale overviews
+python scripts/generate_rankings.py --check           # fail on stale overviews or country directory
 ```
 
-**Whenever you add or change destinations, regenerate the affected country's overviews, and run --check before committing.** The Markdown rankings are fully deterministic, use the same weighted formula as `scripts/rank.py`, and contain no independently maintained scores.
+**Whenever you add or change destinations, regenerate the affected country's overviews and the root README country directory, and run --check before committing.** The Markdown rankings are fully deterministic, use the same weighted formula as `scripts/rank.py`, and contain no independently maintained scores.
 
 Use `scripts/rank.py` for ad-hoc sorted comparisons across countries and category-specific rankings. Each category is independently rated on the 0–10 scale, as described in `rules.md`.
 

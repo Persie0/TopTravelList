@@ -137,6 +137,8 @@ Use a representative center point for a city or sight. Do not add addresses, nea
 
 Each registered country's folder must contain **two generated Markdown overview files**: `cities.md` and `sights.md` (not inside the subfolders). They display the **full actual ranking** from the source YAML, not a curated top 10 and not country-relative scores. Every ranked entry shows its position, overall score /100, rating breakdown, assessed category scores, destination type derived from its name, and a clickable **Google Maps link built from the exact latitude/longitude**. The destination name links to the corresponding YAML. Empty countries still get two overview files explaining that no destinations have been rated. Missing core scores appear in a separate unranked section.
 
+The root `README.md` also contains an automatically maintained **Done / Not done** index, linking to every registered country folder. A country is Done when both `cities/` and `sights/` contain at least one destination YAML; this is a population-status indicator, not a guarantee of exhaustive sightseeing coverage. Regenerating the rankings also refreshes this root directory, and `--check` detects stale README index entries.
+
 The only canonical editable sources remain `countries/XX/cities/*.yaml` and `countries/XX/sights/*.yaml`. Generated Markdown files are **not** the source of truth and must not be manually scored.
 
 After **every** new country, destination, location change, or score change:
