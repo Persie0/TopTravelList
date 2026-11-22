@@ -428,9 +428,9 @@ def main():
     write_checked(AUDIT, full, args.check)
     stats_file = ROOT / "methodology" / "sight-review-2026-stats.json"
     write_checked(stats_file, json.dumps(stats, indent=2, sort_keys=True) + "\n", args.check)
-    assert stats["targeted"] == len(decisions) == 641
-    assert stats["screened_only"] == 1272
-    assert stats["source_referenced"] == 379
+    assert stats["targeted"] == len(decisions) == 803
+    assert stats["screened_only"] == 1110
+    assert stats["source_referenced"] == 452
     if args.check:
         assert modified == 0
     print(
