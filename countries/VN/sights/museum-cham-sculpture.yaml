@@ -1,0 +1,16 @@
+id: sight-vn-museum-cham-sculpture
+name: "Da Nang Museum of Cham Sculpture"
+location:
+  country_code: VN
+  latitude: 16.0607
+  longitude: 108.2227
+scores:
+  impact: 9.5
+  uniqueness: 9.9
+  significance: 9.9
+  experience: 9.7
+  depth: 9.4
+  categories:
+    history: 9.9
+    culture: 9.9
+    architecture: 9.3

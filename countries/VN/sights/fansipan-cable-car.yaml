@@ -1,0 +1,16 @@
+id: sight-vn-fansipan-cable-car
+name: "Fansipan Cable Car"
+location:
+  country_code: VN
+  latitude: 22.314
+  longitude: 103.778
+scores:
+  impact: 9.1
+  uniqueness: 9.6
+  significance: 8.3
+  experience: 9.7
+  depth: 8.9
+  categories:
+    adventure: 9.3
+    nature: 9.6
+    photography: 9.8

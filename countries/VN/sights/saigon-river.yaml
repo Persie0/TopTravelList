@@ -1,0 +1,16 @@
+id: sight-vn-saigon-river
+name: "Saigon River Waterfront"
+location:
+  country_code: VN
+  latitude: 10.775
+  longitude: 106.706
+scores:
+  impact: 9
+  uniqueness: 9.2
+  significance: 9
+  experience: 9.5
+  depth: 9.5
+  categories:
+    nature: 9.0
+    photography: 9.5
+    nightlife: 9.2

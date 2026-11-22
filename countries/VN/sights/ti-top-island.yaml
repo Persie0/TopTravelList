@@ -1,0 +1,16 @@
+id: sight-vn-ti-top-island
+name: "Ti Top Island"
+location:
+  country_code: VN
+  latitude: 20.86
+  longitude: 107.078
+scores:
+  impact: 9.3
+  uniqueness: 9.5
+  significance: 8.6
+  experience: 9.6
+  depth: 8.8
+  categories:
+    nature: 9.7
+    beaches: 9.2
+    photography: 9.9

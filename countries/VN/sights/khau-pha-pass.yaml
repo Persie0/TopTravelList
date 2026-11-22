@@ -1,0 +1,16 @@
+id: sight-vn-khau-pha-pass
+name: "Khau Pha Pass"
+location:
+  country_code: VN
+  latitude: 21.772
+  longitude: 104.196
+scores:
+  impact: 9.5
+  uniqueness: 9.8
+  significance: 8.9
+  experience: 9.7
+  depth: 8.7
+  categories:
+    nature: 9.9
+    adventure: 9.8
+    photography: 9.9

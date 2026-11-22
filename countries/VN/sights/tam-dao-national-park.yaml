@@ -1,0 +1,16 @@
+id: sight-vn-tam-dao-national-park
+name: "Tam Dao National Park"
+location:
+  country_code: VN
+  latitude: 21.482
+  longitude: 105.625
+scores:
+  impact: 9.2
+  uniqueness: 9.5
+  significance: 9.1
+  experience: 9.6
+  depth: 9.5
+  categories:
+    nature: 9.7
+    wildlife: 9.4
+    adventure: 9.2

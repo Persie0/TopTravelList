@@ -1,0 +1,15 @@
+id: city-vn-son-la
+name: "Son La"
+location:
+  country_code: VN
+  latitude: 21.327
+  longitude: 103.9132
+scores:
+  impact: 7.9
+  uniqueness: 8.3
+  significance: 8.2
+  experience: 8.7
+  depth: 8.6
+  categories:
+    nature: 8.9
+    culture: 8.8

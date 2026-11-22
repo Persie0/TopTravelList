@@ -1,0 +1,16 @@
+id: sight-vn-ca-mau-cape-national-park
+name: "Ca Mau Cape National Park"
+location:
+  country_code: VN
+  latitude: 8.635
+  longitude: 104.737
+scores:
+  impact: 9.5
+  uniqueness: 9.9
+  significance: 9.4
+  experience: 9.6
+  depth: 9.7
+  categories:
+    nature: 9.9
+    wildlife: 9.7
+    photography: 9.6

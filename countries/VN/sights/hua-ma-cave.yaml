@@ -1,0 +1,15 @@
+id: sight-vn-hua-ma-cave
+name: "Hua Ma Cave"
+location:
+  country_code: VN
+  latitude: 22.366
+  longitude: 105.602
+scores:
+  impact: 9
+  uniqueness: 9.5
+  significance: 8.8
+  experience: 9.5
+  depth: 8.5
+  categories:
+    nature: 9.6
+    adventure: 9.3

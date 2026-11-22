@@ -1,0 +1,17 @@
+id: sight-vn-west-lake-hanoi
+name: "West Lake Hanoi"
+location:
+  country_code: VN
+  latitude: 21.0558
+  longitude: 105.8273
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 8.7
+  experience: 9.4
+  depth: 9.4
+  categories:
+    nature: 9.0
+    food: 9.1
+    photography: 9.2
+    relaxation: 9.3

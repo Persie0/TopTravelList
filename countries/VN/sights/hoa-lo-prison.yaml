@@ -1,0 +1,15 @@
+id: sight-vn-hoa-lo-prison
+name: "Hoa Lo Prison Relic"
+location:
+  country_code: VN
+  latitude: 21.0253
+  longitude: 105.8463
+scores:
+  impact: 9
+  uniqueness: 9.5
+  significance: 9.8
+  experience: 9.4
+  depth: 8.9
+  categories:
+    history: 9.9
+    culture: 9.4

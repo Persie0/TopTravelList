@@ -1,0 +1,16 @@
+id: city-vn-an-vinh-ly-son
+name: "An Vinh (Ly Son)"
+location:
+  country_code: VN
+  latitude: 15.38
+  longitude: 109.109
+scores:
+  impact: 8.8
+  uniqueness: 9.3
+  significance: 8.8
+  experience: 9.1
+  depth: 8.6
+  categories:
+    nature: 9.7
+    beaches: 9.3
+    history: 9.0

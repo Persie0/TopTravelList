@@ -1,0 +1,16 @@
+id: sight-vn-endangered-primate-rescue-center
+name: "Endangered Primate Rescue Center Cuc Phuong"
+location:
+  country_code: VN
+  latitude: 20.254
+  longitude: 105.709
+scores:
+  impact: 9.2
+  uniqueness: 9.8
+  significance: 9.4
+  experience: 9.3
+  depth: 8.7
+  categories:
+    wildlife: 9.9
+    culture: 9.1
+    family: 9.2

@@ -1,0 +1,17 @@
+id: sight-vn-perfume-pagoda
+name: "Perfume Pagoda Complex"
+location:
+  country_code: VN
+  latitude: 20.6187
+  longitude: 105.7449
+scores:
+  impact: 9.3
+  uniqueness: 9.6
+  significance: 9.7
+  experience: 9.6
+  depth: 9.5
+  categories:
+    architecture: 9.6
+    history: 9.8
+    culture: 9.8
+    nature: 9.4

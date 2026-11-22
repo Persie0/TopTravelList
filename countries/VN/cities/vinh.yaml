@@ -1,0 +1,15 @@
+id: city-vn-vinh
+name: "Vinh"
+location:
+  country_code: VN
+  latitude: 18.6796
+  longitude: 105.6813
+scores:
+  impact: 8
+  uniqueness: 8.3
+  significance: 8.7
+  experience: 8.7
+  depth: 8.8
+  categories:
+    history: 9.0
+    culture: 8.7

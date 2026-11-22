@@ -1,0 +1,16 @@
+id: city-vn-bao-lac
+name: "Bao Lac"
+location:
+  country_code: VN
+  latitude: 22.9483
+  longitude: 105.6797
+scores:
+  impact: 8.5
+  uniqueness: 9.1
+  significance: 8.2
+  experience: 8.9
+  depth: 8.2
+  categories:
+    nature: 9.6
+    culture: 9.2
+    adventure: 9.3

@@ -1,0 +1,16 @@
+id: sight-vn-saigon-notre-dame-cathedral
+name: "Notre Dame Cathedral Basilica of Saigon"
+location:
+  country_code: VN
+  latitude: 10.7799
+  longitude: 106.699
+scores:
+  impact: 9.2
+  uniqueness: 9.6
+  significance: 9.5
+  experience: 9.4
+  depth: 8.7
+  categories:
+    architecture: 9.8
+    history: 9.7
+    photography: 9.5

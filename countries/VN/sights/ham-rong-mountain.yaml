@@ -1,0 +1,15 @@
+id: sight-vn-ham-rong-mountain
+name: "Ham Rong Mountain Sa Pa"
+location:
+  country_code: VN
+  latitude: 22.337
+  longitude: 103.844
+scores:
+  impact: 8.9
+  uniqueness: 9.3
+  significance: 8.2
+  experience: 9.4
+  depth: 8.6
+  categories:
+    nature: 9.4
+    photography: 9.5

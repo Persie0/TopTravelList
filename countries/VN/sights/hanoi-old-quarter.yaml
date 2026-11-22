@@ -1,0 +1,18 @@
+id: sight-vn-hanoi-old-quarter
+name: "Hanoi Old Quarter"
+location:
+  country_code: VN
+  latitude: 21.0355
+  longitude: 105.851
+scores:
+  impact: 9.4
+  uniqueness: 9.5
+  significance: 9.5
+  experience: 9.7
+  depth: 9.6
+  categories:
+    architecture: 9.5
+    history: 9.7
+    culture: 9.9
+    food: 9.8
+    photography: 9.7

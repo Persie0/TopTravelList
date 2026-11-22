@@ -1,0 +1,17 @@
+id: sight-vn-bat-trang-pottery-village
+name: "Bat Trang Pottery Village"
+location:
+  country_code: VN
+  latitude: 20.9753
+  longitude: 105.913
+scores:
+  impact: 9
+  uniqueness: 9.6
+  significance: 9.6
+  experience: 9.4
+  depth: 9.3
+  categories:
+    culture: 9.8
+    history: 9.8
+    architecture: 9.1
+    family: 9.0

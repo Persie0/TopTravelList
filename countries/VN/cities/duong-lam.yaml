@@ -1,0 +1,16 @@
+id: city-vn-duong-lam
+name: "Duong Lam Village"
+location:
+  country_code: VN
+  latitude: 21.154
+  longitude: 105.473
+scores:
+  impact: 8.7
+  uniqueness: 9.3
+  significance: 9.3
+  experience: 9.1
+  depth: 8.4
+  categories:
+    architecture: 9.5
+    history: 9.5
+    culture: 9.3

@@ -1,0 +1,17 @@
+id: sight-vn-ngoc-son-temple
+name: "Ngoc Son Temple"
+location:
+  country_code: VN
+  latitude: 21.0308
+  longitude: 105.8524
+scores:
+  impact: 8.9
+  uniqueness: 9.2
+  significance: 9.4
+  experience: 9.3
+  depth: 8.5
+  categories:
+    architecture: 9.4
+    history: 9.6
+    culture: 9.4
+    photography: 9.4

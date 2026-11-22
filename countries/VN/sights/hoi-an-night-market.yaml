@@ -1,0 +1,17 @@
+id: sight-vn-hoi-an-night-market
+name: "Hoi An Night Market"
+location:
+  country_code: VN
+  latitude: 15.8779
+  longitude: 108.324
+scores:
+  impact: 8.9
+  uniqueness: 9.3
+  significance: 8.8
+  experience: 9.7
+  depth: 9.3
+  categories:
+    food: 9.7
+    culture: 9.7
+    nightlife: 9.3
+    photography: 9.8

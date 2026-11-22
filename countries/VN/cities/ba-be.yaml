@@ -1,0 +1,16 @@
+id: city-vn-ba-be
+name: "Ba Be"
+location:
+  country_code: VN
+  latitude: 22.397
+  longitude: 105.615
+scores:
+  impact: 8.8
+  uniqueness: 9.4
+  significance: 8.6
+  experience: 9.2
+  depth: 8.9
+  categories:
+    nature: 9.9
+    adventure: 9.0
+    photography: 9.7

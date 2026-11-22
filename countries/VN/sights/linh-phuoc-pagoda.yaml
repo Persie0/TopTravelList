@@ -1,0 +1,16 @@
+id: sight-vn-linh-phuoc-pagoda
+name: "Linh Phuoc Pagoda (Broken Glass Pagoda)"
+location:
+  country_code: VN
+  latitude: 11.9445
+  longitude: 108.496
+scores:
+  impact: 9.4
+  uniqueness: 9.9
+  significance: 9.5
+  experience: 9.7
+  depth: 9
+  categories:
+    architecture: 9.9
+    culture: 9.7
+    photography: 9.8

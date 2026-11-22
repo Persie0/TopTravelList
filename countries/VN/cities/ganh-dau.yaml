@@ -1,0 +1,15 @@
+id: city-vn-ganh-dau
+name: "Ganh Dau (Phu Quoc)"
+location:
+  country_code: VN
+  latitude: 10.355
+  longitude: 103.886
+scores:
+  impact: 8.3
+  uniqueness: 8.8
+  significance: 7.7
+  experience: 9
+  depth: 8.4
+  categories:
+    beaches: 9.4
+    relaxation: 9.1

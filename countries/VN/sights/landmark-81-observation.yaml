@@ -1,0 +1,15 @@
+id: sight-vn-landmark-81-observation
+name: "Landmark 81 SkyView"
+location:
+  country_code: VN
+  latitude: 10.794
+  longitude: 106.722
+scores:
+  impact: 9
+  uniqueness: 9.6
+  significance: 8.8
+  experience: 9.5
+  depth: 8.8
+  categories:
+    architecture: 9.8
+    photography: 9.8

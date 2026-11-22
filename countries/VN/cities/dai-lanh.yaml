@@ -1,0 +1,16 @@
+id: city-vn-dai-lanh
+name: "Dai Lanh"
+location:
+  country_code: VN
+  latitude: 12.828
+  longitude: 109.378
+scores:
+  impact: 8.6
+  uniqueness: 9
+  significance: 8
+  experience: 9.3
+  depth: 8.5
+  categories:
+    beaches: 9.5
+    photography: 9.6
+    relaxation: 9.3

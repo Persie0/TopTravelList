@@ -1,0 +1,16 @@
+id: city-vn-du-gia
+name: "Du Gia"
+location:
+  country_code: VN
+  latitude: 22.8837
+  longitude: 105.2374
+scores:
+  impact: 8.5
+  uniqueness: 9.2
+  significance: 8
+  experience: 9.2
+  depth: 8.1
+  categories:
+    nature: 9.7
+    relaxation: 9.2
+    adventure: 9.2

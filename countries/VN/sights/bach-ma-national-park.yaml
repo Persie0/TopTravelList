@@ -1,0 +1,17 @@
+id: sight-vn-bach-ma-national-park
+name: "Bach Ma National Park"
+location:
+  country_code: VN
+  latitude: 16.197
+  longitude: 107.864
+scores:
+  impact: 9.5
+  uniqueness: 9.8
+  significance: 9.4
+  experience: 9.8
+  depth: 9.7
+  categories:
+    nature: 9.9
+    wildlife: 9.6
+    adventure: 9.8
+    photography: 9.9

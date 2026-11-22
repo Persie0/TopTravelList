@@ -1,0 +1,15 @@
+id: sight-vn-pac-bo-cave
+name: "Pac Bo Cave"
+location:
+  country_code: VN
+  latitude: 22.955
+  longitude: 106.058
+scores:
+  impact: 9
+  uniqueness: 9.5
+  significance: 9.9
+  experience: 9.3
+  depth: 8.6
+  categories:
+    history: 9.9
+    nature: 9.5

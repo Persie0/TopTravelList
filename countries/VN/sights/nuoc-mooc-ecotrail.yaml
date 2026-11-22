@@ -1,0 +1,16 @@
+id: sight-vn-nuoc-mooc-ecotrail
+name: "Nuoc Mooc Ecotrail"
+location:
+  country_code: VN
+  latitude: 17.54
+  longitude: 106.252
+scores:
+  impact: 8.9
+  uniqueness: 9.4
+  significance: 8.7
+  experience: 9.6
+  depth: 8.9
+  categories:
+    nature: 9.7
+    adventure: 9.2
+    relaxation: 9.2

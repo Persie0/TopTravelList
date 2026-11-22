@@ -1,0 +1,15 @@
+id: sight-vn-datanla-waterfall
+name: "Datanla Waterfall"
+location:
+  country_code: VN
+  latitude: 11.9
+  longitude: 108.448
+scores:
+  impact: 9.1
+  uniqueness: 9.4
+  significance: 8.5
+  experience: 9.6
+  depth: 9
+  categories:
+    nature: 9.6
+    adventure: 9.4

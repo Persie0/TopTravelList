@@ -1,0 +1,17 @@
+id: city-vn-mai-chau
+name: "Mai Chau"
+location:
+  country_code: VN
+  latitude: 20.6606
+  longitude: 105.0479
+scores:
+  impact: 8.9
+  uniqueness: 9.4
+  significance: 8.7
+  experience: 9.5
+  depth: 8.9
+  categories:
+    nature: 9.7
+    culture: 9.6
+    photography: 9.7
+    relaxation: 9.6

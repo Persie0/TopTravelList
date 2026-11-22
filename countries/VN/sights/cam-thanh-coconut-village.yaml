@@ -1,0 +1,17 @@
+id: sight-vn-cam-thanh-coconut-village
+name: "Cam Thanh Coconut Village"
+location:
+  country_code: VN
+  latitude: 15.867
+  longitude: 108.366
+scores:
+  impact: 9
+  uniqueness: 9.6
+  significance: 9
+  experience: 9.7
+  depth: 9.1
+  categories:
+    nature: 9.6
+    culture: 9.4
+    adventure: 9.2
+    photography: 9.5

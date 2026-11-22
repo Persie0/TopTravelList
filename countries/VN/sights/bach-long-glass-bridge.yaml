@@ -1,0 +1,16 @@
+id: sight-vn-bach-long-glass-bridge
+name: "Bach Long Glass Bridge"
+location:
+  country_code: VN
+  latitude: 20.859
+  longitude: 104.731
+scores:
+  impact: 8.9
+  uniqueness: 9.6
+  significance: 8.2
+  experience: 9.5
+  depth: 8.5
+  categories:
+    adventure: 9.7
+    nature: 9.3
+    photography: 9.6

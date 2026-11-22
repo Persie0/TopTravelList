@@ -1,0 +1,16 @@
+id: city-vn-sa-dec
+name: "Sa Dec"
+location:
+  country_code: VN
+  latitude: 10.29
+  longitude: 105.7561
+scores:
+  impact: 8.5
+  uniqueness: 9.2
+  significance: 9.1
+  experience: 9.1
+  depth: 8.8
+  categories:
+    culture: 9.5
+    architecture: 9.0
+    food: 9.3

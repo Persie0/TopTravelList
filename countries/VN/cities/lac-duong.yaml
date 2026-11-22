@@ -1,0 +1,16 @@
+id: city-vn-lac-duong
+name: "Lac Duong"
+location:
+  country_code: VN
+  latitude: 12.12
+  longitude: 108.445
+scores:
+  impact: 8.5
+  uniqueness: 9.1
+  significance: 8.4
+  experience: 9
+  depth: 8.6
+  categories:
+    nature: 9.5
+    culture: 9.2
+    adventure: 9.1

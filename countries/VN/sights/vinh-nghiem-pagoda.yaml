@@ -1,0 +1,16 @@
+id: sight-vn-vinh-nghiem-pagoda
+name: "Vinh Nghiem Pagoda"
+location:
+  country_code: VN
+  latitude: 21.292
+  longitude: 106.417
+scores:
+  impact: 9.2
+  uniqueness: 9.8
+  significance: 9.9
+  experience: 9.4
+  depth: 9.2
+  categories:
+    architecture: 9.7
+    history: 9.9
+    culture: 9.9

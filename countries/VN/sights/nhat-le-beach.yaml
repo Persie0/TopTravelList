@@ -1,0 +1,15 @@
+id: sight-vn-nhat-le-beach
+name: "Nhat Le Beach"
+location:
+  country_code: VN
+  latitude: 17.477
+  longitude: 106.625
+scores:
+  impact: 8.5
+  uniqueness: 8.7
+  significance: 7.9
+  experience: 9.2
+  depth: 8.8
+  categories:
+    beaches: 9.2
+    relaxation: 9.1

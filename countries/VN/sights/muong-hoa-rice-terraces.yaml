@@ -1,0 +1,16 @@
+id: sight-vn-muong-hoa-rice-terraces
+name: "Muong Hoa Rice Terraces"
+location:
+  country_code: VN
+  latitude: 22.298
+  longitude: 103.896
+scores:
+  impact: 9.6
+  uniqueness: 9.8
+  significance: 9.6
+  experience: 9.7
+  depth: 9.1
+  categories:
+    nature: 9.9
+    history: 9.5
+    photography: 9.9

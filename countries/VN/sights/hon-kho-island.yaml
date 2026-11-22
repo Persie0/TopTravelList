@@ -1,0 +1,16 @@
+id: sight-vn-hon-kho-island
+name: "Hon Kho Island"
+location:
+  country_code: VN
+  latitude: 13.828
+  longitude: 109.292
+scores:
+  impact: 9
+  uniqueness: 9.5
+  significance: 8
+  experience: 9.5
+  depth: 8.6
+  categories:
+    beaches: 9.5
+    nature: 9.6
+    adventure: 9.2

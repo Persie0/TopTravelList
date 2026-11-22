@@ -52,6 +52,10 @@ python scripts/rank.py --country CN --kind cities --limit 30
 python scripts/rank.py --country CN --kind sights --limit 30
 python scripts/rank.py --country CN --kind sights --category nature --limit 30
 python scripts/rank.py --country CN --kind sights --category history --limit 30
+python scripts/rank.py --country VN --kind cities --limit 30
+python scripts/rank.py --country VN --kind sights --limit 40
+python scripts/rank.py --country VN --kind sights --category nature --limit 30
+python scripts/rank.py --country VN --kind sights --category history --limit 30
 ```
 
 The registry covers **197 travel-country entries**: the 193 United Nations member states, the Holy See and Palestine (UN observer states), plus Taiwan and Kosovo as separately listed travel destinations. Kosovo uses the commonly used, user-assigned code `XK`, not an official ISO 3166-1 code. This is a geographic organization convention, not a statement on political recognition. Territories are not included.
@@ -64,11 +68,11 @@ Every registered country has a linked folder below. The status is determined fro
 
 <!-- COUNTRY_DIRECTORY_START -->
 
-**4 done · 193 not done · 197 countries total.**
+**5 done · 192 not done · 197 countries total.**
 
 **Done** means both the city and sight folders contain destination YAML records. It does not mean that every possible destination has been cataloged.
 
-### Done (4)
+### Done (5)
 
 | Country | Cities | Sights |
 | --- | ---: | ---: |
@@ -76,8 +80,9 @@ Every registered country has a linked folder below. The status is determined fro
 | [China](countries/CN/) (`CN`) | 231 | 490 |
 | [South Korea](countries/KR/) (`KR`) | 82 | 284 |
 | [Thailand](countries/TH/) (`TH`) | 69 | 206 |
+| [Vietnam](countries/VN/) (`VN`) | 140 | 360 |
 
-### Not done (193)
+### Not done (192)
 
 These countries have no entries in one or both destination folders yet. Their country folders already exist; follow the links to populate them.
 
@@ -130,8 +135,7 @@ These countries have no entries in one or both destination folders yet. Their co
 | [Turkmenistan](countries/TM/) (`TM`) | [Tuvalu](countries/TV/) (`TV`) | [Türkiye](countries/TR/) (`TR`) | [Uganda](countries/UG/) (`UG`) |
 | [Ukraine](countries/UA/) (`UA`) | [United Arab Emirates](countries/AE/) (`AE`) | [United Kingdom](countries/GB/) (`GB`) | [United States](countries/US/) (`US`) |
 | [Uruguay](countries/UY/) (`UY`) | [Uzbekistan](countries/UZ/) (`UZ`) | [Vanuatu](countries/VU/) (`VU`) | [Vatican City](countries/VA/) (`VA`) |
-| [Venezuela](countries/VE/) (`VE`) | [Vietnam](countries/VN/) (`VN`) | [Yemen](countries/YE/) (`YE`) | [Zambia](countries/ZM/) (`ZM`) |
-| [Zimbabwe](countries/ZW/) (`ZW`) |  |  |  |
+| [Venezuela](countries/VE/) (`VE`) | [Yemen](countries/YE/) (`YE`) | [Zambia](countries/ZM/) (`ZM`) | [Zimbabwe](countries/ZW/) (`ZW`) |
 
 <!-- COUNTRY_DIRECTORY_END -->
 
@@ -156,7 +160,7 @@ Use `scripts/rank.py` for ad-hoc sorted comparisons across countries and categor
 
 ## Absolute worldwide calibration (v2)
 
-All **1,540 previously added destinations** (Austria, Thailand, South Korea and China) use a conservative globally calibrated 0–10 rubric. Local or national excellence is not sufficient for a 10: only the globally defining examples for that exact scoring dimension can attain 10. Each such approval is listed in `methodology/scoring.json` under `global_ten_anchors`; `scripts/validate.py` enforces it.
+The 1,540 legacy destinations (Austria, Thailand, South Korea and China) were conservatively recalibrated to worldwide v2; Vietnam's 500 destinations were rated directly using v2. All populated destinations follow the same globally calibrated 0–10 rubric. Local or national excellence is not sufficient for a 10: only the globally defining examples for that exact scoring dimension can attain 10. Each such approval is listed in `methodology/scoring.json` under `global_ten_anchors`; `scripts/validate.py` enforces it.
 
 **For new countries:** score directly against the worldwide comparators in [rules.md](rules.md). The legacy `scripts/calibrate_worldwide.py` is a one-time v1→v2 migration, *not* a script for converting newly authored ratings. A global 10 requires reviewing worldwide peers and explicitly adding the destination ID to the approved benchmark list. Smaller countries can still earn 10 where they genuinely represent the world's best in a given category. Do not rescale scores separately by country.
 

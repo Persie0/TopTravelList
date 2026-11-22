@@ -1,0 +1,16 @@
+id: sight-vn-son-doong-cave
+name: "Son Doong Cave"
+location:
+  country_code: VN
+  latitude: 17.455
+  longitude: 106.287
+scores:
+  impact: 9.9
+  uniqueness: 9.9
+  significance: 9.7
+  experience: 8.8
+  depth: 9
+  categories:
+    nature: 9.9
+    adventure: 9.9
+    photography: 9.8

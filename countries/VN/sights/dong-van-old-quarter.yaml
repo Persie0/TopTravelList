@@ -1,0 +1,16 @@
+id: sight-vn-dong-van-old-quarter
+name: "Dong Van Old Quarter"
+location:
+  country_code: VN
+  latitude: 23.278
+  longitude: 105.362
+scores:
+  impact: 9
+  uniqueness: 9.4
+  significance: 9.3
+  experience: 9.4
+  depth: 8.9
+  categories:
+    architecture: 9.5
+    history: 9.4
+    culture: 9.6

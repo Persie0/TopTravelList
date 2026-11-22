@@ -1,0 +1,15 @@
+id: sight-vn-khau-vai-love-market
+name: "Khau Vai Love Market"
+location:
+  country_code: VN
+  latitude: 23.05
+  longitude: 105.41
+scores:
+  impact: 8.9
+  uniqueness: 9.7
+  significance: 9.2
+  experience: 9.1
+  depth: 8.2
+  categories:
+    culture: 9.9
+    history: 9.1

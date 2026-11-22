@@ -1,0 +1,16 @@
+id: sight-vn-huynh-thuy-le-ancient-house
+name: "Huynh Thuy Le Ancient House"
+location:
+  country_code: VN
+  latitude: 10.291
+  longitude: 105.756
+scores:
+  impact: 9
+  uniqueness: 9.8
+  significance: 9.5
+  experience: 9.4
+  depth: 8.5
+  categories:
+    architecture: 9.9
+    history: 9.5
+    culture: 9.5

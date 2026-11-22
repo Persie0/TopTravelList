@@ -1,0 +1,16 @@
+id: sight-vn-kenh-ga-floating-village
+name: "Kenh Ga Floating Village"
+location:
+  country_code: VN
+  latitude: 20.366
+  longitude: 105.899
+scores:
+  impact: 8.7
+  uniqueness: 9.3
+  significance: 8.5
+  experience: 9.2
+  depth: 8.8
+  categories:
+    culture: 9.4
+    nature: 9.4
+    photography: 9.4

@@ -1,0 +1,18 @@
+id: city-vn-da-lat
+name: "Da Lat"
+location:
+  country_code: VN
+  latitude: 11.9404
+  longitude: 108.4583
+scores:
+  impact: 9.2
+  uniqueness: 9.2
+  significance: 8.8
+  experience: 9.5
+  depth: 9.6
+  categories:
+    nature: 9.7
+    culture: 9.4
+    food: 9.1
+    relaxation: 9.4
+    photography: 9.7

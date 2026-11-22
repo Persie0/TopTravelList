@@ -1,0 +1,16 @@
+id: sight-vn-xuan-huong-lake
+name: "Xuan Huong Lake"
+location:
+  country_code: VN
+  latitude: 11.944
+  longitude: 108.446
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 8.4
+  experience: 9.5
+  depth: 9.3
+  categories:
+    nature: 9.2
+    relaxation: 9.6
+    photography: 9.4

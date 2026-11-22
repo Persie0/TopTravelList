@@ -1,0 +1,15 @@
+id: sight-vn-ghenh-rang-coast
+name: "Ghenh Rang Scenic Area"
+location:
+  country_code: VN
+  latitude: 13.757
+  longitude: 109.224
+scores:
+  impact: 9
+  uniqueness: 9.3
+  significance: 8.5
+  experience: 9.5
+  depth: 9
+  categories:
+    nature: 9.6
+    photography: 9.8

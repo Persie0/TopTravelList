@@ -1,0 +1,18 @@
+id: city-vn-hoi-an
+name: "Hoi An"
+location:
+  country_code: VN
+  latitude: 15.8801
+  longitude: 108.338
+scores:
+  impact: 9.5
+  uniqueness: 9.6
+  significance: 9.8
+  experience: 9.7
+  depth: 9.4
+  categories:
+    architecture: 9.9
+    history: 9.9
+    culture: 9.9
+    food: 9.6
+    photography: 9.9

@@ -1,0 +1,16 @@
+id: sight-vn-binh-lap-peninsula
+name: "Binh Lap Peninsula"
+location:
+  country_code: VN
+  latitude: 11.855
+  longitude: 109.215
+scores:
+  impact: 9
+  uniqueness: 9.6
+  significance: 8
+  experience: 9.6
+  depth: 9.2
+  categories:
+    nature: 9.7
+    beaches: 9.7
+    photography: 9.7

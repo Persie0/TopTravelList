@@ -1,0 +1,17 @@
+id: sight-vn-thien-mu-pagoda
+name: "Thien Mu Pagoda"
+location:
+  country_code: VN
+  latitude: 16.4537
+  longitude: 107.545
+scores:
+  impact: 9.4
+  uniqueness: 9.8
+  significance: 9.8
+  experience: 9.6
+  depth: 8.9
+  categories:
+    architecture: 9.9
+    history: 9.8
+    culture: 9.9
+    photography: 9.8

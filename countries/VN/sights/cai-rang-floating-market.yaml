@@ -1,0 +1,16 @@
+id: sight-vn-cai-rang-floating-market
+name: "Cai Rang Floating Market"
+location:
+  country_code: VN
+  latitude: 10.002
+  longitude: 105.769
+scores:
+  impact: 9.5
+  uniqueness: 9.9
+  significance: 9.7
+  experience: 9.6
+  depth: 9
+  categories:
+    culture: 9.9
+    food: 9.8
+    photography: 9.8

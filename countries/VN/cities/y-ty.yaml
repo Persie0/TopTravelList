@@ -1,0 +1,16 @@
+id: city-vn-y-ty
+name: "Y Ty"
+location:
+  country_code: VN
+  latitude: 22.5989
+  longitude: 103.61
+scores:
+  impact: 9
+  uniqueness: 9.5
+  significance: 8.4
+  experience: 9.1
+  depth: 8.7
+  categories:
+    nature: 9.9
+    photography: 9.9
+    adventure: 9.5

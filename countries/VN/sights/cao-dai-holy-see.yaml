@@ -1,0 +1,16 @@
+id: sight-vn-cao-dai-holy-see
+name: "Cao Dai Holy See Tay Ninh"
+location:
+  country_code: VN
+  latitude: 11.3
+  longitude: 106.134
+scores:
+  impact: 9.7
+  uniqueness: 9.9
+  significance: 9.9
+  experience: 9.8
+  depth: 9.3
+  categories:
+    architecture: 9.9
+    history: 9.9
+    culture: 9.9

@@ -1,0 +1,15 @@
+id: sight-vn-hcmc-fine-arts-museum
+name: "Ho Chi Minh City Museum of Fine Arts"
+location:
+  country_code: VN
+  latitude: 10.7699
+  longitude: 106.6991
+scores:
+  impact: 9.1
+  uniqueness: 9.5
+  significance: 9.6
+  experience: 9.5
+  depth: 9.4
+  categories:
+    architecture: 9.4
+    culture: 9.7

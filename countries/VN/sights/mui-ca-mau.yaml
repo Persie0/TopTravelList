@@ -1,0 +1,15 @@
+id: sight-vn-mui-ca-mau
+name: "Mui Ca Mau (Cape Ca Mau)"
+location:
+  country_code: VN
+  latitude: 8.603
+  longitude: 104.731
+scores:
+  impact: 9.2
+  uniqueness: 9.6
+  significance: 9
+  experience: 9.5
+  depth: 8.6
+  categories:
+    nature: 9.7
+    photography: 9.6

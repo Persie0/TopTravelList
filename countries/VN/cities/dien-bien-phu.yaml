@@ -1,0 +1,16 @@
+id: city-vn-dien-bien-phu
+name: "Dien Bien Phu"
+location:
+  country_code: VN
+  latitude: 21.3862
+  longitude: 103.023
+scores:
+  impact: 8.8
+  uniqueness: 9.3
+  significance: 9.7
+  experience: 9
+  depth: 8.8
+  categories:
+    history: 9.9
+    culture: 9.2
+    nature: 8.7

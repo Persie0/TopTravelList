@@ -1,0 +1,15 @@
+id: sight-vn-gao-giong-ecotourism
+name: "Gao Giong Wetland Reserve"
+location:
+  country_code: VN
+  latitude: 10.547
+  longitude: 105.572
+scores:
+  impact: 9.1
+  uniqueness: 9.6
+  significance: 8.9
+  experience: 9.4
+  depth: 9.3
+  categories:
+    nature: 9.7
+    wildlife: 9.5

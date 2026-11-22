@@ -1,0 +1,16 @@
+id: sight-vn-cat-tien-national-park
+name: "Cat Tien National Park"
+location:
+  country_code: VN
+  latitude: 11.43
+  longitude: 107.43
+scores:
+  impact: 9.7
+  uniqueness: 9.9
+  significance: 9.7
+  experience: 9.8
+  depth: 9.9
+  categories:
+    nature: 9.9
+    wildlife: 9.9
+    adventure: 9.7

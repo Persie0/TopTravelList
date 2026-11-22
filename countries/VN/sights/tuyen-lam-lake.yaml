@@ -1,0 +1,16 @@
+id: sight-vn-tuyen-lam-lake
+name: "Tuyen Lam Lake"
+location:
+  country_code: VN
+  latitude: 11.893
+  longitude: 108.423
+scores:
+  impact: 9.2
+  uniqueness: 9.5
+  significance: 8.7
+  experience: 9.7
+  depth: 9.7
+  categories:
+    nature: 9.7
+    photography: 9.8
+    relaxation: 9.8

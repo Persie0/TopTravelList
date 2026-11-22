@@ -1,0 +1,14 @@
+id: city-vn-bac-kan
+name: "Bac Kan"
+location:
+  country_code: VN
+  latitude: 22.147
+  longitude: 105.8348
+scores:
+  impact: 7.6
+  uniqueness: 8.1
+  significance: 7.9
+  experience: 8.4
+  depth: 8.4
+  categories:
+    nature: 8.7

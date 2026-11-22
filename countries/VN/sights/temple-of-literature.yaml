@@ -1,0 +1,17 @@
+id: sight-vn-temple-of-literature
+name: "Temple of Literature Hanoi"
+location:
+  country_code: VN
+  latitude: 21.0293
+  longitude: 105.8358
+scores:
+  impact: 9.6
+  uniqueness: 9.8
+  significance: 9.9
+  experience: 9.6
+  depth: 9.2
+  categories:
+    architecture: 9.8
+    history: 9.9
+    culture: 9.9
+    photography: 9.6

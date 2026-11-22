@@ -1,0 +1,16 @@
+id: city-vn-lung-cu
+name: "Lung Cu"
+location:
+  country_code: VN
+  latitude: 23.3648
+  longitude: 105.3158
+scores:
+  impact: 8.8
+  uniqueness: 9.5
+  significance: 8.9
+  experience: 8.8
+  depth: 7.9
+  categories:
+    nature: 9.4
+    history: 9.1
+    photography: 9.6

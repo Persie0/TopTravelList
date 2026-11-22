@@ -1,0 +1,17 @@
+id: city-vn-ninh-binh
+name: "Ninh Binh"
+location:
+  country_code: VN
+  latitude: 20.2539
+  longitude: 105.975
+scores:
+  impact: 9
+  uniqueness: 9.2
+  significance: 9.1
+  experience: 9.5
+  depth: 9.3
+  categories:
+    nature: 9.9
+    history: 9.5
+    culture: 9.2
+    photography: 9.9

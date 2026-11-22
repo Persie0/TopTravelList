@@ -1,0 +1,15 @@
+id: sight-vn-hon-tam-island
+name: "Hon Tam Island"
+location:
+  country_code: VN
+  latitude: 12.165
+  longitude: 109.239
+scores:
+  impact: 9
+  uniqueness: 9.4
+  significance: 8
+  experience: 9.6
+  depth: 9.2
+  categories:
+    beaches: 9.5
+    relaxation: 9.5

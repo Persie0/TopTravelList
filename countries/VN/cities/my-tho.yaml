@@ -1,0 +1,16 @@
+id: city-vn-my-tho
+name: "My Tho"
+location:
+  country_code: VN
+  latitude: 10.361
+  longitude: 106.359
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 8.6
+  experience: 9.1
+  depth: 9.2
+  categories:
+    nature: 9.2
+    culture: 9.1
+    food: 9.1

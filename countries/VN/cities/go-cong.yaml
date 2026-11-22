@@ -1,0 +1,15 @@
+id: city-vn-go-cong
+name: "Go Cong"
+location:
+  country_code: VN
+  latitude: 10.36
+  longitude: 106.672
+scores:
+  impact: 7.9
+  uniqueness: 8.4
+  significance: 8.6
+  experience: 8.6
+  depth: 8.4
+  categories:
+    history: 8.9
+    food: 8.7

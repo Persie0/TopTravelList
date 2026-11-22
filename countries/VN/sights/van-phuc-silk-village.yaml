@@ -1,0 +1,15 @@
+id: sight-vn-van-phuc-silk-village
+name: "Van Phuc Silk Village"
+location:
+  country_code: VN
+  latitude: 20.977
+  longitude: 105.762
+scores:
+  impact: 8.6
+  uniqueness: 9
+  significance: 9.2
+  experience: 9.1
+  depth: 9
+  categories:
+    culture: 9.6
+    history: 9.2

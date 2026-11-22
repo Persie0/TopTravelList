@@ -1,0 +1,17 @@
+id: city-vn-ha-giang
+name: "Ha Giang"
+location:
+  country_code: VN
+  latitude: 22.8233
+  longitude: 104.9836
+scores:
+  impact: 8.7
+  uniqueness: 9.1
+  significance: 8.7
+  experience: 9.1
+  depth: 8.8
+  categories:
+    nature: 9.8
+    culture: 9.3
+    adventure: 9.7
+    photography: 9.8

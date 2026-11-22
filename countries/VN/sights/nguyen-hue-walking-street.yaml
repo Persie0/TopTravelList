@@ -1,0 +1,16 @@
+id: sight-vn-nguyen-hue-walking-street
+name: "Nguyen Hue Walking Street"
+location:
+  country_code: VN
+  latitude: 10.7749
+  longitude: 106.7035
+scores:
+  impact: 9
+  uniqueness: 9.2
+  significance: 8.9
+  experience: 9.6
+  depth: 9.5
+  categories:
+    architecture: 9.2
+    photography: 9.6
+    nightlife: 9.4

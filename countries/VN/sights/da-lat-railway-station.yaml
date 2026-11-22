@@ -1,0 +1,16 @@
+id: sight-vn-da-lat-railway-station
+name: "Da Lat Railway Station"
+location:
+  country_code: VN
+  latitude: 11.94
+  longitude: 108.455
+scores:
+  impact: 9
+  uniqueness: 9.6
+  significance: 9.4
+  experience: 9.5
+  depth: 8.8
+  categories:
+    architecture: 9.7
+    history: 9.6
+    photography: 9.6

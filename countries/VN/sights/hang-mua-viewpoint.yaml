@@ -1,0 +1,16 @@
+id: sight-vn-hang-mua-viewpoint
+name: "Hang Mua Viewpoint"
+location:
+  country_code: VN
+  latitude: 20.229
+  longitude: 105.9403
+scores:
+  impact: 9.6
+  uniqueness: 9.8
+  significance: 9.2
+  experience: 9.8
+  depth: 8.7
+  categories:
+    nature: 9.9
+    photography: 9.9
+    adventure: 9.1

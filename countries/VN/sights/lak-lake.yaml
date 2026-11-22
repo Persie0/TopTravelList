@@ -1,0 +1,16 @@
+id: sight-vn-lak-lake
+name: "Lak Lake"
+location:
+  country_code: VN
+  latitude: 12.408
+  longitude: 108.174
+scores:
+  impact: 9.4
+  uniqueness: 9.7
+  significance: 9
+  experience: 9.6
+  depth: 9.5
+  categories:
+    nature: 9.8
+    culture: 9.3
+    photography: 9.7

@@ -1,0 +1,17 @@
+id: city-vn-quy-nhon
+name: "Quy Nhon"
+location:
+  country_code: VN
+  latitude: 13.782
+  longitude: 109.2197
+scores:
+  impact: 9
+  uniqueness: 9.1
+  significance: 8.8
+  experience: 9.4
+  depth: 9.2
+  categories:
+    beaches: 9.5
+    history: 9.0
+    food: 9.4
+    photography: 9.5

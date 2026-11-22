@@ -1,0 +1,14 @@
+id: city-vn-hong-ngu
+name: "Hong Ngu"
+location:
+  country_code: VN
+  latitude: 10.804
+  longitude: 105.338
+scores:
+  impact: 7.6
+  uniqueness: 8
+  significance: 7.9
+  experience: 8.5
+  depth: 8.2
+  categories:
+    culture: 8.7

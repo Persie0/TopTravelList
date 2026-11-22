@@ -1,0 +1,16 @@
+id: sight-vn-vinh-hy-bay
+name: "Vinh Hy Bay"
+location:
+  country_code: VN
+  latitude: 11.71
+  longitude: 109.19
+scores:
+  impact: 9.6
+  uniqueness: 9.8
+  significance: 8.9
+  experience: 9.8
+  depth: 9.5
+  categories:
+    nature: 9.9
+    photography: 9.9
+    beaches: 9.5

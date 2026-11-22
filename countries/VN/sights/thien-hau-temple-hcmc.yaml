@@ -1,0 +1,16 @@
+id: sight-vn-thien-hau-temple-hcmc
+name: "Thien Hau Temple Cholon"
+location:
+  country_code: VN
+  latitude: 10.752
+  longitude: 106.661
+scores:
+  impact: 9.2
+  uniqueness: 9.7
+  significance: 9.6
+  experience: 9.4
+  depth: 8.8
+  categories:
+    architecture: 9.8
+    history: 9.7
+    culture: 9.8

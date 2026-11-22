@@ -1,0 +1,17 @@
+id: sight-vn-duong-lam-ancient-village
+name: "Duong Lam Ancient Village"
+location:
+  country_code: VN
+  latitude: 21.151
+  longitude: 105.472
+scores:
+  impact: 9.1
+  uniqueness: 9.7
+  significance: 9.8
+  experience: 9.5
+  depth: 9.2
+  categories:
+    architecture: 9.8
+    history: 9.8
+    culture: 9.8
+    photography: 9.4

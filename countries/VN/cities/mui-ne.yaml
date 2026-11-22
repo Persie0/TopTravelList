@@ -1,0 +1,17 @@
+id: city-vn-mui-ne
+name: "Mui Ne"
+location:
+  country_code: VN
+  latitude: 10.933
+  longitude: 108.283
+scores:
+  impact: 9
+  uniqueness: 9.5
+  significance: 8.4
+  experience: 9.4
+  depth: 8.9
+  categories:
+    beaches: 9.3
+    nature: 9.7
+    adventure: 9.5
+    photography: 9.8

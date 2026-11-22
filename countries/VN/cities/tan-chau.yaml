@@ -1,0 +1,14 @@
+id: city-vn-tan-chau
+name: "Tan Chau"
+location:
+  country_code: VN
+  latitude: 10.803
+  longitude: 105.244
+scores:
+  impact: 7.8
+  uniqueness: 8.4
+  significance: 8.5
+  experience: 8.7
+  depth: 8.5
+  categories:
+    culture: 8.9

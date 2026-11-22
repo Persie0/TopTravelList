@@ -1,0 +1,17 @@
+id: city-vn-ben-tre
+name: "Ben Tre"
+location:
+  country_code: VN
+  latitude: 10.2415
+  longitude: 106.3767
+scores:
+  impact: 8.8
+  uniqueness: 9.1
+  significance: 8.7
+  experience: 9.2
+  depth: 9.1
+  categories:
+    nature: 9.3
+    culture: 9.4
+    food: 9.2
+    relaxation: 9.0

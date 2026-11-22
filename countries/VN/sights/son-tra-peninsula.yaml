@@ -1,0 +1,17 @@
+id: sight-vn-son-tra-peninsula
+name: "Son Tra Peninsula"
+location:
+  country_code: VN
+  latitude: 16.118
+  longitude: 108.286
+scores:
+  impact: 9.5
+  uniqueness: 9.8
+  significance: 9.4
+  experience: 9.8
+  depth: 9.8
+  categories:
+    nature: 9.9
+    wildlife: 9.7
+    adventure: 9.1
+    photography: 9.9

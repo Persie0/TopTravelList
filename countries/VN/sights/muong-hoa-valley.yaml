@@ -1,0 +1,16 @@
+id: sight-vn-muong-hoa-valley
+name: "Muong Hoa Valley"
+location:
+  country_code: VN
+  latitude: 22.307
+  longitude: 103.883
+scores:
+  impact: 9.5
+  uniqueness: 9.8
+  significance: 9.3
+  experience: 9.7
+  depth: 9.6
+  categories:
+    nature: 9.9
+    culture: 9.6
+    photography: 9.9

@@ -1,0 +1,16 @@
+id: sight-vn-dau-pagoda
+name: "Dau Pagoda Bac Ninh"
+location:
+  country_code: VN
+  latitude: 21.0539
+  longitude: 106.0062
+scores:
+  impact: 9
+  uniqueness: 9.5
+  significance: 9.7
+  experience: 9.2
+  depth: 8.9
+  categories:
+    architecture: 9.6
+    history: 9.9
+    culture: 9.8

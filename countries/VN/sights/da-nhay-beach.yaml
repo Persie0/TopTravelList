@@ -1,0 +1,16 @@
+id: sight-vn-da-nhay-beach
+name: "Da Nhay Beach"
+location:
+  country_code: VN
+  latitude: 17.675
+  longitude: 106.494
+scores:
+  impact: 8.6
+  uniqueness: 9.1
+  significance: 8
+  experience: 9.1
+  depth: 8.7
+  categories:
+    nature: 9.2
+    beaches: 9.2
+    photography: 9.5

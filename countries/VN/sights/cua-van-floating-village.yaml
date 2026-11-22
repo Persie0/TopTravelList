@@ -1,0 +1,16 @@
+id: sight-vn-cua-van-floating-village
+name: "Cua Van Floating Village"
+location:
+  country_code: VN
+  latitude: 20.8144
+  longitude: 107.1418
+scores:
+  impact: 9.3
+  uniqueness: 9.8
+  significance: 9.4
+  experience: 9.5
+  depth: 8.9
+  categories:
+    culture: 9.7
+    nature: 9.5
+    photography: 9.8

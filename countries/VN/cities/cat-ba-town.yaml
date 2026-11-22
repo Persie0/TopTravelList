@@ -1,0 +1,17 @@
+id: city-vn-cat-ba-town
+name: "Cat Ba Town"
+location:
+  country_code: VN
+  latitude: 20.7275
+  longitude: 107.0476
+scores:
+  impact: 9
+  uniqueness: 9.1
+  significance: 8.5
+  experience: 9.4
+  depth: 9.2
+  categories:
+    nature: 9.8
+    adventure: 9.2
+    photography: 9.5
+    food: 8.6

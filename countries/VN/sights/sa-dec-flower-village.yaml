@@ -1,0 +1,16 @@
+id: sight-vn-sa-dec-flower-village
+name: "Sa Dec Flower Village"
+location:
+  country_code: VN
+  latitude: 10.294
+  longitude: 105.759
+scores:
+  impact: 9.1
+  uniqueness: 9.6
+  significance: 9.3
+  experience: 9.6
+  depth: 9
+  categories:
+    culture: 9.6
+    nature: 9.4
+    photography: 9.8

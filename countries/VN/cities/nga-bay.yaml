@@ -1,0 +1,15 @@
+id: city-vn-nga-bay
+name: "Nga Bay"
+location:
+  country_code: VN
+  latitude: 9.808
+  longitude: 105.818
+scores:
+  impact: 8
+  uniqueness: 8.5
+  significance: 8.3
+  experience: 8.9
+  depth: 8.6
+  categories:
+    culture: 8.9
+    food: 8.9

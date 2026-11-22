@@ -1,0 +1,17 @@
+id: sight-vn-marble-mountains-da-nang
+name: "Marble Mountains Da Nang"
+location:
+  country_code: VN
+  latitude: 15.9963
+  longitude: 108.263
+scores:
+  impact: 9.5
+  uniqueness: 9.8
+  significance: 9.6
+  experience: 9.7
+  depth: 9.4
+  categories:
+    nature: 9.7
+    architecture: 9.6
+    history: 9.7
+    photography: 9.9

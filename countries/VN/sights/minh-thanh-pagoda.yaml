@@ -1,0 +1,16 @@
+id: sight-vn-minh-thanh-pagoda
+name: "Minh Thanh Pagoda Pleiku"
+location:
+  country_code: VN
+  latitude: 13.982
+  longitude: 107.985
+scores:
+  impact: 9.1
+  uniqueness: 9.7
+  significance: 9.2
+  experience: 9.5
+  depth: 8.7
+  categories:
+    architecture: 9.8
+    culture: 9.5
+    photography: 9.5

@@ -1,0 +1,16 @@
+id: sight-vn-long-bien-bridge
+name: "Long Bien Bridge"
+location:
+  country_code: VN
+  latitude: 21.0436
+  longitude: 105.8601
+scores:
+  impact: 8.9
+  uniqueness: 9.2
+  significance: 9.5
+  experience: 9.1
+  depth: 8.2
+  categories:
+    architecture: 9.3
+    history: 9.7
+    photography: 9.5

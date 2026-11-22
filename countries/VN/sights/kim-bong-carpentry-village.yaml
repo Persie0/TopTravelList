@@ -1,0 +1,16 @@
+id: sight-vn-kim-bong-carpentry-village
+name: "Kim Bong Carpentry Village"
+location:
+  country_code: VN
+  latitude: 15.869
+  longitude: 108.318
+scores:
+  impact: 8.8
+  uniqueness: 9.6
+  significance: 9.5
+  experience: 9.4
+  depth: 8.9
+  categories:
+    culture: 9.7
+    history: 9.5
+    architecture: 9.0

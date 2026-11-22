@@ -1,0 +1,16 @@
+id: city-vn-van-ninh
+name: "Van Ninh"
+location:
+  country_code: VN
+  latitude: 12.723
+  longitude: 109.234
+scores:
+  impact: 8.6
+  uniqueness: 8.9
+  significance: 8.2
+  experience: 9.1
+  depth: 8.6
+  categories:
+    beaches: 9.4
+    nature: 9.1
+    photography: 9.4

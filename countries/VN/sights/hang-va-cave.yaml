@@ -1,0 +1,15 @@
+id: sight-vn-hang-va-cave
+name: "Hang Va Cave"
+location:
+  country_code: VN
+  latitude: 17.459
+  longitude: 106.292
+scores:
+  impact: 9.4
+  uniqueness: 9.9
+  significance: 8.7
+  experience: 9.5
+  depth: 8.6
+  categories:
+    nature: 9.9
+    adventure: 9.9

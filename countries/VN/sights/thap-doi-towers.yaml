@@ -1,0 +1,15 @@
+id: sight-vn-thap-doi-towers
+name: "Thap Doi Cham Towers"
+location:
+  country_code: VN
+  latitude: 13.79
+  longitude: 109.191
+scores:
+  impact: 9
+  uniqueness: 9.7
+  significance: 9.6
+  experience: 9.3
+  depth: 8.2
+  categories:
+    architecture: 9.8
+    history: 9.7

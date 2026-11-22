@@ -1,0 +1,17 @@
+id: city-vn-con-son-town
+name: "Con Son Town (Con Dao)"
+location:
+  country_code: VN
+  latitude: 8.683
+  longitude: 106.607
+scores:
+  impact: 9
+  uniqueness: 9.6
+  significance: 9.1
+  experience: 9.4
+  depth: 8.7
+  categories:
+    nature: 9.9
+    history: 9.5
+    beaches: 9.5
+    photography: 9.7

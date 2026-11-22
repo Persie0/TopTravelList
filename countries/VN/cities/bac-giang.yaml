@@ -1,0 +1,15 @@
+id: city-vn-bac-giang
+name: "Bac Giang"
+location:
+  country_code: VN
+  latitude: 21.274
+  longitude: 106.1946
+scores:
+  impact: 7.7
+  uniqueness: 8.2
+  significance: 8.7
+  experience: 8.5
+  depth: 8.4
+  categories:
+    culture: 9.0
+    history: 8.9

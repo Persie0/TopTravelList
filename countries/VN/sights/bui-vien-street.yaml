@@ -1,0 +1,15 @@
+id: sight-vn-bui-vien-street
+name: "Bui Vien Walking Street"
+location:
+  country_code: VN
+  latitude: 10.7676
+  longitude: 106.693
+scores:
+  impact: 8.8
+  uniqueness: 9.2
+  significance: 8.6
+  experience: 9.6
+  depth: 9.4
+  categories:
+    nightlife: 9.8
+    food: 9.3

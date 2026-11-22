@@ -1,0 +1,15 @@
+id: sight-vn-bach-long-vi-island
+name: "Bach Long Vi Island"
+location:
+  country_code: VN
+  latitude: 20.129
+  longitude: 107.726
+scores:
+  impact: 8.7
+  uniqueness: 9.4
+  significance: 8.4
+  experience: 8.8
+  depth: 8.5
+  categories:
+    nature: 9.5
+    adventure: 9.0

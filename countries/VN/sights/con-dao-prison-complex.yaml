@@ -1,0 +1,15 @@
+id: sight-vn-con-dao-prison-complex
+name: "Con Dao Prison Historical Site"
+location:
+  country_code: VN
+  latitude: 8.688
+  longitude: 106.609
+scores:
+  impact: 9.4
+  uniqueness: 9.8
+  significance: 9.9
+  experience: 9.4
+  depth: 9.7
+  categories:
+    history: 9.9
+    culture: 9.7

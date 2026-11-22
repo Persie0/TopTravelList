@@ -1,0 +1,15 @@
+id: sight-vn-thoi-loi-volcano
+name: "Thoi Loi Volcano"
+location:
+  country_code: VN
+  latitude: 15.396
+  longitude: 109.117
+scores:
+  impact: 9.2
+  uniqueness: 9.7
+  significance: 8.5
+  experience: 9.7
+  depth: 8.9
+  categories:
+    nature: 9.9
+    photography: 9.9

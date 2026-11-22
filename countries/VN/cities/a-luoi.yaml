@@ -1,0 +1,15 @@
+id: city-vn-a-luoi
+name: "A Luoi"
+location:
+  country_code: VN
+  latitude: 16.235
+  longitude: 107.279
+scores:
+  impact: 8
+  uniqueness: 8.8
+  significance: 8.8
+  experience: 8.7
+  depth: 8.5
+  categories:
+    nature: 9.0
+    culture: 9.0

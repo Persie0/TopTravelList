@@ -1,0 +1,16 @@
+id: city-vn-soc-trang
+name: "Soc Trang"
+location:
+  country_code: VN
+  latitude: 9.6028
+  longitude: 105.9737
+scores:
+  impact: 8.6
+  uniqueness: 9.2
+  significance: 9
+  experience: 9.1
+  depth: 8.9
+  categories:
+    culture: 9.6
+    architecture: 9.5
+    food: 9.3

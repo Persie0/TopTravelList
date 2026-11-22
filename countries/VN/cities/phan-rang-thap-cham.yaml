@@ -1,0 +1,16 @@
+id: city-vn-phan-rang-thap-cham
+name: "Phan Rang–Thap Cham"
+location:
+  country_code: VN
+  latitude: 11.5643
+  longitude: 108.9886
+scores:
+  impact: 8.6
+  uniqueness: 9.1
+  significance: 9.2
+  experience: 9.2
+  depth: 8.7
+  categories:
+    history: 9.5
+    beaches: 9.3
+    culture: 9.3

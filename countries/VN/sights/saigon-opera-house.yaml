@@ -1,0 +1,16 @@
+id: sight-vn-saigon-opera-house
+name: "Saigon Opera House"
+location:
+  country_code: VN
+  latitude: 10.7767
+  longitude: 106.703
+scores:
+  impact: 9.1
+  uniqueness: 9.5
+  significance: 9.5
+  experience: 9.4
+  depth: 8.7
+  categories:
+    architecture: 9.7
+    history: 9.6
+    photography: 9.6

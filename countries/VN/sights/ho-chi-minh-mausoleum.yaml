@@ -1,0 +1,16 @@
+id: sight-vn-ho-chi-minh-mausoleum
+name: "Ho Chi Minh Mausoleum"
+location:
+  country_code: VN
+  latitude: 21.0367
+  longitude: 105.8347
+scores:
+  impact: 9.2
+  uniqueness: 9.5
+  significance: 9.9
+  experience: 9.2
+  depth: 8.7
+  categories:
+    architecture: 9.3
+    history: 9.9
+    culture: 9.6

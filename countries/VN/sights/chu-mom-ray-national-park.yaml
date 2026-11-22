@@ -1,0 +1,16 @@
+id: sight-vn-chu-mom-ray-national-park
+name: "Chu Mom Ray National Park"
+location:
+  country_code: VN
+  latitude: 14.425
+  longitude: 107.659
+scores:
+  impact: 9.5
+  uniqueness: 9.9
+  significance: 9.1
+  experience: 9.5
+  depth: 9.9
+  categories:
+    nature: 9.9
+    wildlife: 9.9
+    adventure: 9.5

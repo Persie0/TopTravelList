@@ -1,0 +1,16 @@
+id: city-vn-bac-ninh
+name: "Bac Ninh"
+location:
+  country_code: VN
+  latitude: 21.1861
+  longitude: 106.0763
+scores:
+  impact: 8.2
+  uniqueness: 8.8
+  significance: 9.2
+  experience: 8.9
+  depth: 8.8
+  categories:
+    culture: 9.6
+    history: 9.4
+    architecture: 9.1

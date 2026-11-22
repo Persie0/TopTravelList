@@ -1,0 +1,19 @@
+id: city-vn-hanoi
+name: "Hanoi"
+location:
+  country_code: VN
+  latitude: 21.0278
+  longitude: 105.8342
+scores:
+  impact: 9.4
+  uniqueness: 9.4
+  significance: 9.5
+  experience: 9.5
+  depth: 9.7
+  categories:
+    history: 9.7
+    culture: 9.9
+    food: 9.7
+    architecture: 9.2
+    nightlife: 9.2
+    photography: 9.5

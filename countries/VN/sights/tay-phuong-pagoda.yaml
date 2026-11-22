@@ -1,0 +1,16 @@
+id: sight-vn-tay-phuong-pagoda
+name: "Tay Phuong Pagoda"
+location:
+  country_code: VN
+  latitude: 21.0258
+  longitude: 105.5807
+scores:
+  impact: 8.9
+  uniqueness: 9.6
+  significance: 9.7
+  experience: 9.1
+  depth: 8.5
+  categories:
+    architecture: 9.7
+    history: 9.8
+    culture: 9.8

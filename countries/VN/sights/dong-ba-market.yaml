@@ -1,0 +1,16 @@
+id: sight-vn-dong-ba-market
+name: "Dong Ba Market Hue"
+location:
+  country_code: VN
+  latitude: 16.4733
+  longitude: 107.5923
+scores:
+  impact: 8.7
+  uniqueness: 9
+  significance: 9.2
+  experience: 9.5
+  depth: 9.3
+  categories:
+    food: 9.7
+    culture: 9.4
+    photography: 9.1

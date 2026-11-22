@@ -1,0 +1,17 @@
+id: city-vn-nha-trang
+name: "Nha Trang"
+location:
+  country_code: VN
+  latitude: 12.2388
+  longitude: 109.1967
+scores:
+  impact: 9
+  uniqueness: 9
+  significance: 8.6
+  experience: 9.5
+  depth: 9.6
+  categories:
+    beaches: 9.6
+    food: 9.4
+    nightlife: 9.3
+    adventure: 9.1

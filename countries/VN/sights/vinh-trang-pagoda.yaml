@@ -1,0 +1,16 @@
+id: sight-vn-vinh-trang-pagoda
+name: "Vinh Trang Pagoda"
+location:
+  country_code: VN
+  latitude: 10.352
+  longitude: 106.342
+scores:
+  impact: 9.2
+  uniqueness: 9.8
+  significance: 9.6
+  experience: 9.4
+  depth: 8.8
+  categories:
+    architecture: 9.9
+    culture: 9.7
+    history: 9.6

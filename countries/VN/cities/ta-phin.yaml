@@ -1,0 +1,16 @@
+id: city-vn-ta-phin
+name: "Ta Phin Village"
+location:
+  country_code: VN
+  latitude: 22.3935
+  longitude: 103.8766
+scores:
+  impact: 8.4
+  uniqueness: 9
+  significance: 8.4
+  experience: 9
+  depth: 8
+  categories:
+    culture: 9.5
+    nature: 9.2
+    photography: 9.4

@@ -1,0 +1,16 @@
+id: sight-vn-hon-dau-island
+name: "Hon Dau Island"
+location:
+  country_code: VN
+  latitude: 20.687
+  longitude: 106.808
+scores:
+  impact: 8.7
+  uniqueness: 9.1
+  significance: 8.2
+  experience: 9.1
+  depth: 8.9
+  categories:
+    nature: 9.5
+    photography: 9.4
+    relaxation: 9.0

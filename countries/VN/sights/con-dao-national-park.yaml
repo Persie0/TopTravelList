@@ -1,0 +1,16 @@
+id: sight-vn-con-dao-national-park
+name: "Con Dao National Park"
+location:
+  country_code: VN
+  latitude: 8.72
+  longitude: 106.608
+scores:
+  impact: 9.8
+  uniqueness: 9.9
+  significance: 9.7
+  experience: 9.8
+  depth: 9.9
+  categories:
+    nature: 9.9
+    wildlife: 9.9
+    adventure: 9.8

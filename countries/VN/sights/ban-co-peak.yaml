@@ -1,0 +1,15 @@
+id: sight-vn-ban-co-peak
+name: "Ban Co Peak Son Tra"
+location:
+  country_code: VN
+  latitude: 16.134
+  longitude: 108.263
+scores:
+  impact: 9.2
+  uniqueness: 9.5
+  significance: 8.3
+  experience: 9.6
+  depth: 8.6
+  categories:
+    nature: 9.7
+    photography: 9.9

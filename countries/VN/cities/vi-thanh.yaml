@@ -1,0 +1,14 @@
+id: city-vn-vi-thanh
+name: "Vi Thanh"
+location:
+  country_code: VN
+  latitude: 9.784
+  longitude: 105.47
+scores:
+  impact: 7.8
+  uniqueness: 8.2
+  significance: 8.2
+  experience: 8.6
+  depth: 8.7
+  categories:
+    culture: 8.6

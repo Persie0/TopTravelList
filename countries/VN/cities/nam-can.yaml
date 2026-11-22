@@ -1,0 +1,15 @@
+id: city-vn-nam-can
+name: "Nam Can"
+location:
+  country_code: VN
+  latitude: 8.752
+  longitude: 104.996
+scores:
+  impact: 8
+  uniqueness: 8.8
+  significance: 8
+  experience: 8.8
+  depth: 8.4
+  categories:
+    nature: 9.5
+    wildlife: 9.1

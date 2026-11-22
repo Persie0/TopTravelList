@@ -1,0 +1,16 @@
+id: city-vn-lang-son
+name: "Lang Son"
+location:
+  country_code: VN
+  latitude: 21.8478
+  longitude: 106.761
+scores:
+  impact: 8.4
+  uniqueness: 8.9
+  significance: 8.9
+  experience: 9
+  depth: 8.7
+  categories:
+    history: 9.1
+    nature: 9.1
+    culture: 9.0

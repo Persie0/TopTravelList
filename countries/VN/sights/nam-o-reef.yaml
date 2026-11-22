@@ -1,0 +1,15 @@
+id: sight-vn-nam-o-reef
+name: "Nam O Reef"
+location:
+  country_code: VN
+  latitude: 16.133
+  longitude: 108.124
+scores:
+  impact: 8.8
+  uniqueness: 9.3
+  significance: 8
+  experience: 9.5
+  depth: 8.7
+  categories:
+    nature: 9.6
+    photography: 9.8

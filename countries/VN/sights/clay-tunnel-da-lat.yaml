@@ -1,0 +1,15 @@
+id: sight-vn-clay-tunnel-da-lat
+name: "Da Lat Clay Tunnel"
+location:
+  country_code: VN
+  latitude: 11.873
+  longitude: 108.433
+scores:
+  impact: 8.6
+  uniqueness: 9.4
+  significance: 8.1
+  experience: 9.3
+  depth: 8.8
+  categories:
+    architecture: 9.3
+    photography: 9.4

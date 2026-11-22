@@ -1,0 +1,15 @@
+id: city-vn-thu-dau-mot
+name: "Thu Dau Mot"
+location:
+  country_code: VN
+  latitude: 10.981
+  longitude: 106.653
+scores:
+  impact: 7.6
+  uniqueness: 7.9
+  significance: 8
+  experience: 8.6
+  depth: 8.7
+  categories:
+    culture: 8.6
+    food: 8.6

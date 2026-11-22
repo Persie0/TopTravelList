@@ -1,0 +1,17 @@
+id: city-vn-dong-van
+name: "Dong Van"
+location:
+  country_code: VN
+  latitude: 23.2772
+  longitude: 105.3614
+scores:
+  impact: 9.1
+  uniqueness: 9.6
+  significance: 8.9
+  experience: 9.4
+  depth: 8.6
+  categories:
+    nature: 9.9
+    culture: 9.7
+    adventure: 9.8
+    photography: 9.9

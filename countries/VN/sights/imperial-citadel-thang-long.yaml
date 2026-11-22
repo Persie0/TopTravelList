@@ -1,0 +1,16 @@
+id: sight-vn-imperial-citadel-thang-long
+name: "Imperial Citadel of Thang Long"
+location:
+  country_code: VN
+  latitude: 21.039
+  longitude: 105.84
+scores:
+  impact: 9.6
+  uniqueness: 9.8
+  significance: 9.9
+  experience: 9.6
+  depth: 9.6
+  categories:
+    architecture: 9.7
+    history: 9.9
+    culture: 9.7

@@ -1,0 +1,16 @@
+id: sight-vn-nha-trang-beach
+name: "Nha Trang Beach"
+location:
+  country_code: VN
+  latitude: 12.236
+  longitude: 109.201
+scores:
+  impact: 9.1
+  uniqueness: 9.2
+  significance: 8.2
+  experience: 9.6
+  depth: 9.5
+  categories:
+    beaches: 9.5
+    photography: 9.5
+    nightlife: 9.3

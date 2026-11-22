@@ -1,0 +1,16 @@
+id: sight-vn-nho-que-river
+name: "Nho Que River"
+location:
+  country_code: VN
+  latitude: 23.251
+  longitude: 105.469
+scores:
+  impact: 9.7
+  uniqueness: 9.9
+  significance: 8.9
+  experience: 9.8
+  depth: 9
+  categories:
+    nature: 9.9
+    photography: 9.9
+    adventure: 9.6

@@ -1,0 +1,15 @@
+id: sight-vn-dai-yem-waterfall
+name: "Dai Yem Waterfall"
+location:
+  country_code: VN
+  latitude: 20.825
+  longitude: 104.64
+scores:
+  impact: 8.8
+  uniqueness: 9.2
+  significance: 8.3
+  experience: 9.3
+  depth: 8.3
+  categories:
+    nature: 9.5
+    photography: 9.5

@@ -1,0 +1,16 @@
+id: sight-vn-nguom-ngao-cave
+name: "Nguom Ngao Cave"
+location:
+  country_code: VN
+  latitude: 22.831
+  longitude: 106.71
+scores:
+  impact: 9.3
+  uniqueness: 9.8
+  significance: 9.1
+  experience: 9.6
+  depth: 9
+  categories:
+    nature: 9.8
+    adventure: 9.4
+    photography: 9.5

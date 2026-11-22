@@ -1,0 +1,15 @@
+id: sight-vn-quang-tri-ancient-citadel
+name: "Quang Tri Ancient Citadel"
+location:
+  country_code: VN
+  latitude: 16.7527
+  longitude: 107.1855
+scores:
+  impact: 9
+  uniqueness: 9.6
+  significance: 9.8
+  experience: 9.4
+  depth: 9.1
+  categories:
+    history: 9.9
+    architecture: 9.1

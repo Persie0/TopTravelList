@@ -1,0 +1,16 @@
+id: sight-vn-ham-ninh-fishing-village
+name: "Ham Ninh Fishing Village"
+location:
+  country_code: VN
+  latitude: 10.186
+  longitude: 104.066
+scores:
+  impact: 8.9
+  uniqueness: 9.5
+  significance: 9.2
+  experience: 9.4
+  depth: 8.6
+  categories:
+    culture: 9.7
+    food: 9.3
+    photography: 9.4

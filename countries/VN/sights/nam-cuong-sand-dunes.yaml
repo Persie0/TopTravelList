@@ -1,0 +1,16 @@
+id: sight-vn-nam-cuong-sand-dunes
+name: "Nam Cuong Sand Dunes"
+location:
+  country_code: VN
+  latitude: 11.501
+  longitude: 109.028
+scores:
+  impact: 9
+  uniqueness: 9.5
+  significance: 8.2
+  experience: 9.6
+  depth: 8.9
+  categories:
+    nature: 9.6
+    photography: 9.9
+    adventure: 9.1

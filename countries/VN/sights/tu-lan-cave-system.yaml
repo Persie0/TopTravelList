@@ -1,0 +1,16 @@
+id: sight-vn-tu-lan-cave-system
+name: "Tu Lan Cave System"
+location:
+  country_code: VN
+  latitude: 17.686
+  longitude: 106.125
+scores:
+  impact: 9.6
+  uniqueness: 9.9
+  significance: 9.1
+  experience: 9.6
+  depth: 9.5
+  categories:
+    nature: 9.9
+    adventure: 9.9
+    photography: 9.8

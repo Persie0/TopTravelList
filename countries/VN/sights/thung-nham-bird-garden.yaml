@@ -1,0 +1,16 @@
+id: sight-vn-thung-nham-bird-garden
+name: "Thung Nham Bird Garden"
+location:
+  country_code: VN
+  latitude: 20.207
+  longitude: 105.889
+scores:
+  impact: 8.9
+  uniqueness: 9.3
+  significance: 8.8
+  experience: 9.5
+  depth: 9
+  categories:
+    nature: 9.6
+    wildlife: 9.6
+    photography: 9.4

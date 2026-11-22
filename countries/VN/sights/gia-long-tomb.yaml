@@ -1,0 +1,15 @@
+id: sight-vn-gia-long-tomb
+name: "Tomb of Gia Long"
+location:
+  country_code: VN
+  latitude: 16.372
+  longitude: 107.496
+scores:
+  impact: 9.1
+  uniqueness: 9.6
+  significance: 9.7
+  experience: 9.3
+  depth: 8.8
+  categories:
+    architecture: 9.5
+    history: 9.8

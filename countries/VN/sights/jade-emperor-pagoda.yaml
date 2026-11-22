@@ -1,0 +1,16 @@
+id: sight-vn-jade-emperor-pagoda
+name: "Jade Emperor Pagoda Saigon"
+location:
+  country_code: VN
+  latitude: 10.79
+  longitude: 106.698
+scores:
+  impact: 9.3
+  uniqueness: 9.8
+  significance: 9.6
+  experience: 9.5
+  depth: 8.8
+  categories:
+    architecture: 9.8
+    history: 9.6
+    culture: 9.8

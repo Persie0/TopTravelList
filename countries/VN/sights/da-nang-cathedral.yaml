@@ -1,0 +1,15 @@
+id: sight-vn-da-nang-cathedral
+name: "Da Nang Cathedral"
+location:
+  country_code: VN
+  latitude: 16.0675
+  longitude: 108.2221
+scores:
+  impact: 8.5
+  uniqueness: 9
+  significance: 8.9
+  experience: 9.1
+  depth: 8.4
+  categories:
+    architecture: 9.3
+    history: 9.0

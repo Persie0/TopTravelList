@@ -1,0 +1,15 @@
+id: city-vn-di-linh
+name: "Di Linh"
+location:
+  country_code: VN
+  latitude: 11.5837
+  longitude: 108.0746
+scores:
+  impact: 8.1
+  uniqueness: 8.6
+  significance: 8
+  experience: 8.8
+  depth: 8.6
+  categories:
+    nature: 9.1
+    relaxation: 8.9

@@ -1,0 +1,16 @@
+id: sight-vn-luon-cave-ha-long
+name: "Luon Cave Ha Long"
+location:
+  country_code: VN
+  latitude: 20.8665
+  longitude: 107.127
+scores:
+  impact: 9.2
+  uniqueness: 9.4
+  significance: 8.7
+  experience: 9.6
+  depth: 8.6
+  categories:
+    nature: 9.7
+    adventure: 9.3
+    photography: 9.8

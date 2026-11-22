@@ -1,0 +1,16 @@
+id: sight-vn-moc-chau-tea-hills
+name: "Moc Chau Tea Hills"
+location:
+  country_code: VN
+  latitude: 20.854
+  longitude: 104.656
+scores:
+  impact: 9.3
+  uniqueness: 9.6
+  significance: 9
+  experience: 9.7
+  depth: 9.2
+  categories:
+    nature: 9.7
+    photography: 9.9
+    relaxation: 9.6

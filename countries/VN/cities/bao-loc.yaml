@@ -1,0 +1,16 @@
+id: city-vn-bao-loc
+name: "Bao Loc"
+location:
+  country_code: VN
+  latitude: 11.548
+  longitude: 107.8083
+scores:
+  impact: 8.4
+  uniqueness: 8.8
+  significance: 8.3
+  experience: 9
+  depth: 8.9
+  categories:
+    nature: 9.4
+    relaxation: 9.1
+    photography: 9.2

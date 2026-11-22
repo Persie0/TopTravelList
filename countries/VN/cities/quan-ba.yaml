@@ -1,0 +1,16 @@
+id: city-vn-quan-ba
+name: "Quan Ba"
+location:
+  country_code: VN
+  latitude: 23.0595
+  longitude: 104.9888
+scores:
+  impact: 8.7
+  uniqueness: 9.2
+  significance: 8.4
+  experience: 9
+  depth: 8.3
+  categories:
+    nature: 9.8
+    photography: 9.8
+    adventure: 9.5

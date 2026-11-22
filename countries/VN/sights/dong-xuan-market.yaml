@@ -1,0 +1,16 @@
+id: sight-vn-dong-xuan-market
+name: "Dong Xuan Market"
+location:
+  country_code: VN
+  latitude: 21.0386
+  longitude: 105.8492
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 9.1
+  experience: 9.4
+  depth: 9.3
+  categories:
+    food: 9.5
+    culture: 9.5
+    history: 9.1
