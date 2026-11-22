@@ -133,6 +133,20 @@ Each destination has exactly one `location` object with **only**:
 
 Use a representative center point for a city or sight. Do not add addresses, nearest cities, regions, entrance locations, time zones, polygons, or map links. A country folder uses the same code as the destination's location. Kosovo uses the practical, unofficial `XK` code.
 
+## Country ranking overview files (mandatory after any data changes)
+
+Each registered country's folder must contain **two generated Markdown overview files**: `cities.md` and `sights.md` (not inside the subfolders). They display the **full actual ranking** from the source YAML, not a curated top 10 and not country-relative scores. Every ranked entry shows its position, overall score /100, rating breakdown, assessed category scores, destination type derived from its name, and a clickable **Google Maps link built from the exact latitude/longitude**. The destination name links to the corresponding YAML. Empty countries still get two overview files explaining that no destinations have been rated. Missing core scores appear in a separate unranked section.
+
+The only canonical editable sources remain `countries/XX/cities/*.yaml` and `countries/XX/sights/*.yaml`. Generated Markdown files are **not** the source of truth and must not be manually scored.
+
+After **every** new country, destination, location change, or score change:
+
+1. Run `python scripts/validate.py` for the worldwide scoring/structure rules.
+2. Run `python scripts/generate_rankings.py --country XX` for each affected country, or omit the flag to refresh all 197 countries.
+3. Run `python scripts/generate_rankings.py --check` and commit the source YAML **and** refreshed Markdown rankings together.
+
+The generator uses the exact worldwide v2 weighting in `methodology/scoring.json`, stable sorting, and tied ranks. It does **not** recalibrate scores, add source fields, or assign a 10/10 to any destination. Google Maps search links use numeric WGS84 coordinates; they are for locating representative points, not necessarily navigation to a park entrance.
+
 ## Global comparability and quality control
 
 1. Benchmark against exceptional and average destinations **worldwide**, not merely within the country.
