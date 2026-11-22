@@ -64,6 +64,10 @@ benchmark checkers, regenerate the relevant Markdown overviews and run
 the --check mode for all registered countries. The root README describes
 the exact commands.
 
+### New site-specific sight reassessment (22 November 2026)
+
+The [follow-on sight review](methodology/sight-review-2026-summary.md) records explicit changes to named site profiles and an [exhaustive one-row-per-sight screening register](methodology/sight-review-2026-full-audit.md). Automatically screened records **have not** received independently researched re-evaluations. The 189 frozen calibration profiles remain historical evidence, not active authoritative scores; updated YAML is authoritative. Do not rerun any archival correction curve.
+
 ## Core dimensions and weights
 
 | Dimension | Weight | Question |

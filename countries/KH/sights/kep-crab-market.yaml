@@ -6,10 +6,10 @@ location:
   longitude: 104.2992
 scores:
   impact: 7.8
-  uniqueness: 8.2
-  significance: 8.0
-  experience: 8.9
-  depth: 8.3
+  uniqueness: 7.9
+  significance: 7.3
+  experience: 8.6
+  depth: 7.2
   categories:
     food: 9.3
     culture: 8.8

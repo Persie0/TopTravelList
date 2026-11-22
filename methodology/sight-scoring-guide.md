@@ -6,6 +6,8 @@
 [189 reviewed reference profiles](sight-benchmark-profiles.txt)
 and [machine-readable weights](scoring.json).
 
+**Follow-on review:** See the [2026 item-by-item reassessment summary](sight-review-2026-summary.md) and the [full per-sight decision/diagnostic register](sight-review-2026-full-audit.md). This review distinguishes site-specific judgments from provisional records that received automated screening only. Its decisions supersede frozen 2026 benchmark profiles for revised YAML files; the historical profiles must not be reapplied.
+
 ## Define the attraction and its true scale
 
 A sight is a specific monument, museum, memorial, market, palace, temple,

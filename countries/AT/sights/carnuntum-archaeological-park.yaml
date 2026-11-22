@@ -6,10 +6,10 @@ location:
   longitude: 16.8572
 scores:
   impact: 8.7
-  uniqueness: 9.0
-  significance: 9.2
-  experience: 8.9
-  depth: 8.7
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.8
+  depth: 8.4
   categories:
     history: 9.4
     culture: 8.4

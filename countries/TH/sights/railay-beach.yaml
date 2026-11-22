@@ -6,10 +6,10 @@ location:
   longitude: 98.8383
 scores:
   impact: 8.9
-  uniqueness: 9.3
-  significance: 8.1
-  experience: 9.5
-  depth: 8.9
+  uniqueness: 9.0
+  significance: 7.5
+  experience: 9.2
+  depth: 8.3
   categories:
     nature: 9.2
     beaches: 9.6
