@@ -6,10 +6,10 @@ location:
   longitude: 16.3368
 scores:
   impact: 7.2
-  uniqueness: 6.3
-  significance: 6.2
-  experience: 7.5
-  depth: 6.6
+  uniqueness: 6.9
+  significance: 6.6
+  experience: 7.9
+  depth: 6.9
   categories:
     nature: 7.1
     photography: 8.3
