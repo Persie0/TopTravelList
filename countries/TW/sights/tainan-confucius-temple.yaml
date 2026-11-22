@@ -6,11 +6,11 @@ location:
   longitude: 120.2055
 scores:
   impact: 8.7
-  uniqueness: 9.0
-  significance: 9.3
+  uniqueness: 8.9
+  significance: 9.1
   experience: 8.8
-  depth: 8.3
+  depth: 8.0
   categories:
-    history: 9.5
+    history: 9.1
     architecture: 9.2
     culture: 9.2
