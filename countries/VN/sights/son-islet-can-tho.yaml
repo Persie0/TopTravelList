@@ -1,0 +1,16 @@
+id: sight-vn-son-islet-can-tho
+name: "Son Islet Can Tho"
+location:
+  country_code: VN
+  latitude: 10.064
+  longitude: 105.784
+scores:
+  impact: 8.9
+  uniqueness: 9.3
+  significance: 8.6
+  experience: 9.4
+  depth: 9.1
+  categories:
+    culture: 9.5
+    food: 9.4
+    nature: 9.2

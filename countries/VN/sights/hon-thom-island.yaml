@@ -1,0 +1,16 @@
+id: sight-vn-hon-thom-island
+name: "Hon Thom Island"
+location:
+  country_code: VN
+  latitude: 9.986
+  longitude: 104.018
+scores:
+  impact: 9.4
+  uniqueness: 9.6
+  significance: 8.4
+  experience: 9.8
+  depth: 9.4
+  categories:
+    nature: 9.7
+    beaches: 9.7
+    photography: 9.8

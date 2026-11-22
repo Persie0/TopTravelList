@@ -1,0 +1,17 @@
+id: sight-vn-perfume-river-hue
+name: "Perfume River Hue"
+location:
+  country_code: VN
+  latitude: 16.464
+  longitude: 107.588
+scores:
+  impact: 9
+  uniqueness: 9.2
+  significance: 9.3
+  experience: 9.6
+  depth: 9.7
+  categories:
+    nature: 9.2
+    history: 9.5
+    photography: 9.5
+    relaxation: 9.4

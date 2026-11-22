@@ -1,0 +1,16 @@
+id: city-vn-sa-huynh
+name: "Sa Huynh"
+location:
+  country_code: VN
+  latitude: 14.6717
+  longitude: 109.0714
+scores:
+  impact: 8.3
+  uniqueness: 8.7
+  significance: 8.3
+  experience: 9.1
+  depth: 8.3
+  categories:
+    beaches: 9.2
+    history: 8.5
+    food: 8.8

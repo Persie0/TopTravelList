@@ -1,0 +1,16 @@
+id: sight-vn-my-khe-beach
+name: "My Khe Beach"
+location:
+  country_code: VN
+  latitude: 16.0559
+  longitude: 108.2471
+scores:
+  impact: 9.1
+  uniqueness: 9.2
+  significance: 8.1
+  experience: 9.6
+  depth: 9.5
+  categories:
+    beaches: 9.6
+    food: 9.1
+    relaxation: 9.5

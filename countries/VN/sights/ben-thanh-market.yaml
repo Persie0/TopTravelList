@@ -1,0 +1,16 @@
+id: sight-vn-ben-thanh-market
+name: "Ben Thanh Market"
+location:
+  country_code: VN
+  latitude: 10.7726
+  longitude: 106.698
+scores:
+  impact: 9.2
+  uniqueness: 9.4
+  significance: 9.2
+  experience: 9.6
+  depth: 9.4
+  categories:
+    food: 9.8
+    culture: 9.8
+    history: 9.3

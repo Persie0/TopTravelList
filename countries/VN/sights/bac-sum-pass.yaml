@@ -1,0 +1,16 @@
+id: sight-vn-bac-sum-pass
+name: "Bac Sum Pass"
+location:
+  country_code: VN
+  latitude: 23.014
+  longitude: 104.969
+scores:
+  impact: 9
+  uniqueness: 9.4
+  significance: 8.4
+  experience: 9.5
+  depth: 8.5
+  categories:
+    nature: 9.7
+    photography: 9.9
+    adventure: 9.4

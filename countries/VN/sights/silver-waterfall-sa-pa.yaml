@@ -1,0 +1,15 @@
+id: sight-vn-silver-waterfall-sa-pa
+name: "Silver Waterfall Sa Pa"
+location:
+  country_code: VN
+  latitude: 22.385
+  longitude: 103.776
+scores:
+  impact: 9
+  uniqueness: 9.4
+  significance: 8.4
+  experience: 9.4
+  depth: 8.5
+  categories:
+    nature: 9.6
+    photography: 9.6

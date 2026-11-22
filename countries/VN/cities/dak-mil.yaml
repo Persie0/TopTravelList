@@ -1,0 +1,14 @@
+id: city-vn-dak-mil
+name: "Dak Mil"
+location:
+  country_code: VN
+  latitude: 12.458
+  longitude: 107.62
+scores:
+  impact: 7.9
+  uniqueness: 8.6
+  significance: 8.2
+  experience: 8.7
+  depth: 8.5
+  categories:
+    nature: 9.0

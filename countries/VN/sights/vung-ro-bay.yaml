@@ -1,0 +1,16 @@
+id: sight-vn-vung-ro-bay
+name: "Vung Ro Bay"
+location:
+  country_code: VN
+  latitude: 12.871
+  longitude: 109.417
+scores:
+  impact: 9
+  uniqueness: 9.5
+  significance: 8.9
+  experience: 9.6
+  depth: 9.2
+  categories:
+    nature: 9.7
+    history: 9.0
+    photography: 9.9

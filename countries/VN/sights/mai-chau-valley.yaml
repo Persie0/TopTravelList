@@ -1,0 +1,17 @@
+id: sight-vn-mai-chau-valley
+name: "Mai Chau Valley"
+location:
+  country_code: VN
+  latitude: 20.66
+  longitude: 105.052
+scores:
+  impact: 9.4
+  uniqueness: 9.6
+  significance: 9
+  experience: 9.7
+  depth: 9.5
+  categories:
+    nature: 9.8
+    culture: 9.7
+    photography: 9.8
+    relaxation: 9.8

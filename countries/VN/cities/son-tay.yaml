@@ -1,0 +1,15 @@
+id: city-vn-son-tay
+name: "Son Tay"
+location:
+  country_code: VN
+  latitude: 21.1378
+  longitude: 105.5053
+scores:
+  impact: 8.4
+  uniqueness: 8.9
+  significance: 9
+  experience: 8.9
+  depth: 8.6
+  categories:
+    history: 9.4
+    architecture: 9.1

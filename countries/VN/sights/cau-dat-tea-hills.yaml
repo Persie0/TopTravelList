@@ -1,0 +1,15 @@
+id: sight-vn-cau-dat-tea-hills
+name: "Cau Dat Tea Hills"
+location:
+  country_code: VN
+  latitude: 11.851
+  longitude: 108.568
+scores:
+  impact: 9.2
+  uniqueness: 9.6
+  significance: 8.8
+  experience: 9.7
+  depth: 9.1
+  categories:
+    nature: 9.8
+    photography: 9.9

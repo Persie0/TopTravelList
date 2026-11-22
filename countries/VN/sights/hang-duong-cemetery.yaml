@@ -1,0 +1,15 @@
+id: sight-vn-hang-duong-cemetery
+name: "Hang Duong Cemetery"
+location:
+  country_code: VN
+  latitude: 8.69
+  longitude: 106.612
+scores:
+  impact: 9.1
+  uniqueness: 9.6
+  significance: 9.9
+  experience: 9.2
+  depth: 8.7
+  categories:
+    history: 9.9
+    culture: 9.6

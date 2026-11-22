@@ -1,0 +1,16 @@
+id: sight-vn-linh-ung-pagoda-son-tra
+name: "Linh Ung Pagoda Son Tra"
+location:
+  country_code: VN
+  latitude: 16.101
+  longitude: 108.273
+scores:
+  impact: 9.1
+  uniqueness: 9.5
+  significance: 9.4
+  experience: 9.6
+  depth: 8.9
+  categories:
+    architecture: 9.6
+    culture: 9.6
+    photography: 9.8

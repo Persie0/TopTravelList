@@ -1,0 +1,16 @@
+id: city-vn-moc-chau
+name: "Moc Chau"
+location:
+  country_code: VN
+  latitude: 20.8419
+  longitude: 104.6552
+scores:
+  impact: 8.8
+  uniqueness: 9.1
+  significance: 8.5
+  experience: 9.2
+  depth: 8.9
+  categories:
+    nature: 9.7
+    photography: 9.7
+    relaxation: 9.2

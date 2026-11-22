@@ -1,0 +1,16 @@
+id: city-vn-pleiku
+name: "Pleiku"
+location:
+  country_code: VN
+  latitude: 13.9833
+  longitude: 108
+scores:
+  impact: 8.6
+  uniqueness: 9
+  significance: 8.6
+  experience: 9.1
+  depth: 8.9
+  categories:
+    nature: 9.5
+    culture: 9.1
+    food: 9.1

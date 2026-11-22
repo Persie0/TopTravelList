@@ -1,0 +1,15 @@
+id: sight-vn-elephant-waterfall-da-lat
+name: "Elephant Waterfall"
+location:
+  country_code: VN
+  latitude: 11.825
+  longitude: 108.336
+scores:
+  impact: 9
+  uniqueness: 9.4
+  significance: 8.5
+  experience: 9.3
+  depth: 8.7
+  categories:
+    nature: 9.7
+    photography: 9.5

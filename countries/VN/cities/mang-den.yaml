@@ -1,0 +1,16 @@
+id: city-vn-mang-den
+name: "Mang Den"
+location:
+  country_code: VN
+  latitude: 14.5967
+  longitude: 108.248
+scores:
+  impact: 8.9
+  uniqueness: 9.4
+  significance: 8.5
+  experience: 9.3
+  depth: 8.9
+  categories:
+    nature: 9.8
+    relaxation: 9.5
+    photography: 9.7

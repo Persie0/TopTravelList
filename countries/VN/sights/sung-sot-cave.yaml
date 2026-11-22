@@ -1,0 +1,16 @@
+id: sight-vn-sung-sot-cave
+name: "Sung Sot (Surprise) Cave"
+location:
+  country_code: VN
+  latitude: 20.8444
+  longitude: 107.1052
+scores:
+  impact: 9.4
+  uniqueness: 9.6
+  significance: 9.2
+  experience: 9.6
+  depth: 8.7
+  categories:
+    nature: 9.8
+    photography: 9.6
+    adventure: 9.1

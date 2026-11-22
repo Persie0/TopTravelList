@@ -1,0 +1,16 @@
+id: sight-vn-ta-cu-mountain
+name: "Ta Cu Mountain"
+location:
+  country_code: VN
+  latitude: 10.819
+  longitude: 107.877
+scores:
+  impact: 9.1
+  uniqueness: 9.6
+  significance: 9.3
+  experience: 9.5
+  depth: 8.9
+  categories:
+    nature: 9.6
+    architecture: 9.4
+    photography: 9.5

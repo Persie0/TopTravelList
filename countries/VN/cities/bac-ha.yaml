@@ -1,0 +1,16 @@
+id: city-vn-bac-ha
+name: "Bac Ha"
+location:
+  country_code: VN
+  latitude: 22.5362
+  longitude: 104.2881
+scores:
+  impact: 8.8
+  uniqueness: 9.3
+  significance: 8.8
+  experience: 9.3
+  depth: 8.6
+  categories:
+    culture: 9.8
+    food: 9.2
+    photography: 9.4

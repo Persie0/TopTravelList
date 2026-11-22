@@ -1,0 +1,16 @@
+id: sight-vn-tram-chim-national-park
+name: "Tram Chim National Park"
+location:
+  country_code: VN
+  latitude: 10.725
+  longitude: 105.49
+scores:
+  impact: 9.6
+  uniqueness: 9.9
+  significance: 9.5
+  experience: 9.7
+  depth: 9.8
+  categories:
+    nature: 9.9
+    wildlife: 9.9
+    photography: 9.6

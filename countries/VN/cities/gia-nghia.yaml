@@ -1,0 +1,14 @@
+id: city-vn-gia-nghia
+name: "Gia Nghia"
+location:
+  country_code: VN
+  latitude: 11.9985
+  longitude: 107.69
+scores:
+  impact: 7.9
+  uniqueness: 8.5
+  significance: 8.3
+  experience: 8.7
+  depth: 8.7
+  categories:
+    nature: 9.2

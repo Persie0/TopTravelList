@@ -1,0 +1,17 @@
+id: city-vn-sa-pa
+name: "Sa Pa"
+location:
+  country_code: VN
+  latitude: 22.3364
+  longitude: 103.8438
+scores:
+  impact: 9
+  uniqueness: 9.2
+  significance: 8.9
+  experience: 9.3
+  depth: 9.4
+  categories:
+    nature: 9.8
+    culture: 9.6
+    adventure: 9.4
+    photography: 9.9

@@ -1,0 +1,16 @@
+id: sight-vn-tan-ky-old-house
+name: "Tan Ky Old House Hoi An"
+location:
+  country_code: VN
+  latitude: 15.8773
+  longitude: 108.3297
+scores:
+  impact: 9
+  uniqueness: 9.6
+  significance: 9.6
+  experience: 9.4
+  depth: 8.6
+  categories:
+    architecture: 9.8
+    history: 9.7
+    culture: 9.5

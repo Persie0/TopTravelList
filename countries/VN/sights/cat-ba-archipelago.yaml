@@ -1,0 +1,17 @@
+id: sight-vn-cat-ba-archipelago
+name: "Cat Ba Archipelago"
+location:
+  country_code: VN
+  latitude: 20.755
+  longitude: 107.052
+scores:
+  impact: 9.7
+  uniqueness: 9.8
+  significance: 9.7
+  experience: 9.8
+  depth: 9.9
+  categories:
+    nature: 9.9
+    wildlife: 9.5
+    adventure: 9.6
+    photography: 9.9

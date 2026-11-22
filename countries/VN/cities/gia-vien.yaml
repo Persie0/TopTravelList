@@ -1,0 +1,15 @@
+id: city-vn-gia-vien
+name: "Gia Vien"
+location:
+  country_code: VN
+  latitude: 20.3304
+  longitude: 105.865
+scores:
+  impact: 7.6
+  uniqueness: 8.3
+  significance: 8.1
+  experience: 8.4
+  depth: 8.2
+  categories:
+    nature: 8.8
+    history: 8.5

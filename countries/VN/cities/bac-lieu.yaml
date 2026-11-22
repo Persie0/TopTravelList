@@ -1,0 +1,15 @@
+id: city-vn-bac-lieu
+name: "Bac Lieu"
+location:
+  country_code: VN
+  latitude: 9.2864
+  longitude: 105.724
+scores:
+  impact: 8.1
+  uniqueness: 8.6
+  significance: 8.8
+  experience: 8.9
+  depth: 8.7
+  categories:
+    history: 9.0
+    culture: 9.1

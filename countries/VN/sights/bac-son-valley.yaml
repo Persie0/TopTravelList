@@ -1,0 +1,15 @@
+id: sight-vn-bac-son-valley
+name: "Bac Son Valley"
+location:
+  country_code: VN
+  latitude: 21.915
+  longitude: 106.311
+scores:
+  impact: 9.4
+  uniqueness: 9.6
+  significance: 9
+  experience: 9.7
+  depth: 9.4
+  categories:
+    nature: 9.9
+    photography: 9.9

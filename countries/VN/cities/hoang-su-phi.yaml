@@ -1,0 +1,16 @@
+id: city-vn-hoang-su-phi
+name: "Hoang Su Phi"
+location:
+  country_code: VN
+  latitude: 22.7412
+  longitude: 104.6549
+scores:
+  impact: 9
+  uniqueness: 9.5
+  significance: 8.8
+  experience: 9.3
+  depth: 8.7
+  categories:
+    nature: 9.9
+    photography: 9.9
+    culture: 9.3

@@ -1,0 +1,16 @@
+id: sight-vn-thac-ba-lake
+name: "Thac Ba Lake"
+location:
+  country_code: VN
+  latitude: 21.721
+  longitude: 105.04
+scores:
+  impact: 9
+  uniqueness: 9.4
+  significance: 8.7
+  experience: 9.5
+  depth: 9.6
+  categories:
+    nature: 9.6
+    photography: 9.6
+    relaxation: 9.3

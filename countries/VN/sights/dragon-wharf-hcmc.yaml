@@ -1,0 +1,15 @@
+id: sight-vn-dragon-wharf-hcmc
+name: "Dragon Wharf Ho Chi Minh Museum"
+location:
+  country_code: VN
+  latitude: 10.7672
+  longitude: 106.707
+scores:
+  impact: 8.8
+  uniqueness: 9.4
+  significance: 9.7
+  experience: 9.1
+  depth: 8.7
+  categories:
+    history: 9.8
+    culture: 9.4

@@ -1,0 +1,16 @@
+id: sight-vn-crazy-house-da-lat
+name: "Crazy House Da Lat"
+location:
+  country_code: VN
+  latitude: 11.9335
+  longitude: 108.4325
+scores:
+  impact: 9.4
+  uniqueness: 9.9
+  significance: 9.1
+  experience: 9.6
+  depth: 9
+  categories:
+    architecture: 9.9
+    photography: 9.8
+    culture: 9.4

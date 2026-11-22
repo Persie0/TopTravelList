@@ -1,0 +1,16 @@
+id: sight-vn-cat-cat-village
+name: "Cat Cat Village"
+location:
+  country_code: VN
+  latitude: 22.327
+  longitude: 103.827
+scores:
+  impact: 8.9
+  uniqueness: 9.3
+  significance: 8.7
+  experience: 9.3
+  depth: 9
+  categories:
+    culture: 9.6
+    architecture: 9.1
+    photography: 9.4

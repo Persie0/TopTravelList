@@ -1,0 +1,15 @@
+id: sight-vn-vinpearl-safari-phu-quoc
+name: "Vinpearl Safari Phu Quoc"
+location:
+  country_code: VN
+  latitude: 10.344
+  longitude: 103.882
+scores:
+  impact: 8.9
+  uniqueness: 9.3
+  significance: 8.4
+  experience: 9.5
+  depth: 9.5
+  categories:
+    wildlife: 9.3
+    family: 9.6

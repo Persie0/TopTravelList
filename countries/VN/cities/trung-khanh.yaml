@@ -1,0 +1,15 @@
+id: city-vn-trung-khanh
+name: "Trung Khanh"
+location:
+  country_code: VN
+  latitude: 22.8317
+  longitude: 106.526
+scores:
+  impact: 8.7
+  uniqueness: 9.4
+  significance: 8.6
+  experience: 8.9
+  depth: 8.1
+  categories:
+    nature: 9.8
+    photography: 9.7

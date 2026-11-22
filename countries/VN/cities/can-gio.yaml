@@ -1,0 +1,16 @@
+id: city-vn-can-gio
+name: "Can Gio"
+location:
+  country_code: VN
+  latitude: 10.411
+  longitude: 106.964
+scores:
+  impact: 8.7
+  uniqueness: 9.2
+  significance: 8.5
+  experience: 9.2
+  depth: 8.6
+  categories:
+    nature: 9.8
+    wildlife: 9.5
+    food: 9.0

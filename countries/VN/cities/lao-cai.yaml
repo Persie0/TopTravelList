@@ -1,0 +1,15 @@
+id: city-vn-lao-cai
+name: "Lao Cai"
+location:
+  country_code: VN
+  latitude: 22.4856
+  longitude: 103.9707
+scores:
+  impact: 7.8
+  uniqueness: 8.1
+  significance: 8
+  experience: 8.5
+  depth: 8.5
+  categories:
+    culture: 8.5
+    food: 8.5

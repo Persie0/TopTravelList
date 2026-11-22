@@ -1,0 +1,15 @@
+id: sight-vn-sa-huynh-beach
+name: "Sa Huynh Beach"
+location:
+  country_code: VN
+  latitude: 14.67
+  longitude: 109.072
+scores:
+  impact: 8.7
+  uniqueness: 9
+  significance: 8.1
+  experience: 9.3
+  depth: 8.9
+  categories:
+    beaches: 9.5
+    photography: 9.5

@@ -1,0 +1,15 @@
+id: sight-vn-tan-phong-islet
+name: "Tan Phong Islet"
+location:
+  country_code: VN
+  latitude: 10.33
+  longitude: 105.942
+scores:
+  impact: 9
+  uniqueness: 9.4
+  significance: 8.7
+  experience: 9.5
+  depth: 9.1
+  categories:
+    nature: 9.4
+    culture: 9.5

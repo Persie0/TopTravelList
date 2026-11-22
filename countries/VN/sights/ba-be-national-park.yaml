@@ -1,0 +1,16 @@
+id: sight-vn-ba-be-national-park
+name: "Ba Be National Park"
+location:
+  country_code: VN
+  latitude: 22.409
+  longitude: 105.604
+scores:
+  impact: 9.5
+  uniqueness: 9.8
+  significance: 9.5
+  experience: 9.8
+  depth: 9.9
+  categories:
+    nature: 9.9
+    wildlife: 9.8
+    adventure: 9.4

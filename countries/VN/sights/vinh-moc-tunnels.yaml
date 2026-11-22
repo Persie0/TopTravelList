@@ -1,0 +1,16 @@
+id: sight-vn-vinh-moc-tunnels
+name: "Vinh Moc Tunnels"
+location:
+  country_code: VN
+  latitude: 17.0755
+  longitude: 107.1047
+scores:
+  impact: 9.3
+  uniqueness: 9.9
+  significance: 9.8
+  experience: 9.4
+  depth: 8.5
+  categories:
+    history: 9.9
+    architecture: 9.4
+    culture: 9.6

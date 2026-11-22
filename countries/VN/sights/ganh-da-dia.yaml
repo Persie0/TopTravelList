@@ -1,0 +1,15 @@
+id: sight-vn-ganh-da-dia
+name: "Ganh Da Dia (Da Dia Reef)"
+location:
+  country_code: VN
+  latitude: 13.349
+  longitude: 109.292
+scores:
+  impact: 9.5
+  uniqueness: 9.9
+  significance: 9
+  experience: 9.8
+  depth: 8.8
+  categories:
+    nature: 9.9
+    photography: 9.9

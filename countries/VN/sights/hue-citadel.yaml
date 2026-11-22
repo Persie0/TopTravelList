@@ -1,0 +1,16 @@
+id: sight-vn-hue-citadel
+name: "Hue Citadel"
+location:
+  country_code: VN
+  latitude: 16.4694
+  longitude: 107.5782
+scores:
+  impact: 9.7
+  uniqueness: 9.8
+  significance: 9.9
+  experience: 9.8
+  depth: 9.8
+  categories:
+    architecture: 9.9
+    history: 9.9
+    culture: 9.9

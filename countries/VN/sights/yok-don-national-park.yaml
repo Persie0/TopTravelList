@@ -1,0 +1,16 @@
+id: sight-vn-yok-don-national-park
+name: "Yok Don National Park"
+location:
+  country_code: VN
+  latitude: 12.871
+  longitude: 107.68
+scores:
+  impact: 9.6
+  uniqueness: 9.9
+  significance: 9.6
+  experience: 9.7
+  depth: 9.9
+  categories:
+    nature: 9.9
+    wildlife: 9.9
+    adventure: 9.6

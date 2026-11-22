@@ -1,0 +1,16 @@
+id: city-vn-lai-chau
+name: "Lai Chau"
+location:
+  country_code: VN
+  latitude: 22.3864
+  longitude: 103.4707
+scores:
+  impact: 8.5
+  uniqueness: 9
+  significance: 8.2
+  experience: 8.8
+  depth: 8.7
+  categories:
+    nature: 9.5
+    adventure: 9.2
+    photography: 9.4

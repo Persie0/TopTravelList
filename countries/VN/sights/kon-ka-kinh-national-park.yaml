@@ -1,0 +1,16 @@
+id: sight-vn-kon-ka-kinh-national-park
+name: "Kon Ka Kinh National Park"
+location:
+  country_code: VN
+  latitude: 14.239
+  longitude: 108.339
+scores:
+  impact: 9.6
+  uniqueness: 9.9
+  significance: 9.4
+  experience: 9.6
+  depth: 9.9
+  categories:
+    nature: 9.9
+    wildlife: 9.8
+    adventure: 9.7

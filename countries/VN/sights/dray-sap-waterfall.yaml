@@ -1,0 +1,15 @@
+id: sight-vn-dray-sap-waterfall
+name: "Dray Sap Waterfall"
+location:
+  country_code: VN
+  latitude: 12.535
+  longitude: 107.868
+scores:
+  impact: 9.1
+  uniqueness: 9.5
+  significance: 8.7
+  experience: 9.5
+  depth: 8.8
+  categories:
+    nature: 9.7
+    photography: 9.6

@@ -1,0 +1,15 @@
+id: sight-vn-quan-cong-temple-hoi-an
+name: "Quan Cong Temple Hoi An"
+location:
+  country_code: VN
+  latitude: 15.8754
+  longitude: 108.332
+scores:
+  impact: 8.8
+  uniqueness: 9.5
+  significance: 9.6
+  experience: 9.3
+  depth: 8.1
+  categories:
+    architecture: 9.7
+    history: 9.7

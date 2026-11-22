@@ -1,0 +1,16 @@
+id: city-vn-bai-chay
+name: "Bai Chay"
+location:
+  country_code: VN
+  latitude: 20.9536
+  longitude: 107.0373
+scores:
+  impact: 7.7
+  uniqueness: 8.1
+  significance: 7.2
+  experience: 8.6
+  depth: 8.4
+  categories:
+    beaches: 8.1
+    food: 8.6
+    nightlife: 8.2

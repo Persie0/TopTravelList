@@ -1,0 +1,15 @@
+id: sight-vn-bien-ho-lake
+name: "Bien Ho (Sea Lake) Pleiku"
+location:
+  country_code: VN
+  latitude: 14.074
+  longitude: 108.006
+scores:
+  impact: 9.2
+  uniqueness: 9.7
+  significance: 8.8
+  experience: 9.6
+  depth: 9.2
+  categories:
+    nature: 9.8
+    photography: 9.8

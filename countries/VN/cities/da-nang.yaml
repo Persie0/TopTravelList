@@ -1,0 +1,18 @@
+id: city-vn-da-nang
+name: "Da Nang"
+location:
+  country_code: VN
+  latitude: 16.0544
+  longitude: 108.2022
+scores:
+  impact: 9.2
+  uniqueness: 9.2
+  significance: 8.9
+  experience: 9.7
+  depth: 9.7
+  categories:
+    beaches: 9.6
+    food: 9.4
+    nightlife: 9.2
+    architecture: 9.2
+    nature: 9.5

@@ -1,0 +1,15 @@
+id: sight-vn-thuan-an-beach-hue
+name: "Thuan An Beach Hue"
+location:
+  country_code: VN
+  latitude: 16.578
+  longitude: 107.658
+scores:
+  impact: 8.4
+  uniqueness: 8.7
+  significance: 7.8
+  experience: 9.1
+  depth: 8.7
+  categories:
+    beaches: 9.1
+    photography: 9.1

@@ -1,0 +1,15 @@
+id: sight-vn-dau-dang-waterfall
+name: "Dau Dang Waterfall"
+location:
+  country_code: VN
+  latitude: 22.402
+  longitude: 105.628
+scores:
+  impact: 8.8
+  uniqueness: 9.2
+  significance: 8.1
+  experience: 9.4
+  depth: 8.2
+  categories:
+    nature: 9.6
+    photography: 9.5

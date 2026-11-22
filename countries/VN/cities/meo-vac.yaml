@@ -1,0 +1,17 @@
+id: city-vn-meo-vac
+name: "Meo Vac"
+location:
+  country_code: VN
+  latitude: 23.1632
+  longitude: 105.4051
+scores:
+  impact: 8.9
+  uniqueness: 9.5
+  significance: 8.7
+  experience: 9.2
+  depth: 8.7
+  categories:
+    nature: 9.9
+    adventure: 9.8
+    culture: 9.4
+    photography: 9.8

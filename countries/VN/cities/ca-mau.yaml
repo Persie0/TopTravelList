@@ -1,0 +1,16 @@
+id: city-vn-ca-mau
+name: "Ca Mau"
+location:
+  country_code: VN
+  latitude: 9.1769
+  longitude: 105.1524
+scores:
+  impact: 8.4
+  uniqueness: 8.8
+  significance: 8.5
+  experience: 8.9
+  depth: 8.9
+  categories:
+    nature: 9.6
+    wildlife: 9.1
+    food: 8.9

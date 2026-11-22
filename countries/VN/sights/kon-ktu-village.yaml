@@ -1,0 +1,15 @@
+id: sight-vn-kon-ktu-village
+name: "Kon Ktu Traditional Village"
+location:
+  country_code: VN
+  latitude: 14.332
+  longitude: 108.031
+scores:
+  impact: 9
+  uniqueness: 9.6
+  significance: 9.3
+  experience: 9.4
+  depth: 8.8
+  categories:
+    culture: 9.8
+    architecture: 9.5

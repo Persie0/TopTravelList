@@ -1,0 +1,16 @@
+id: sight-vn-hon-tre-island
+name: "Hon Tre Island"
+location:
+  country_code: VN
+  latitude: 12.201
+  longitude: 109.292
+scores:
+  impact: 9.1
+  uniqueness: 9.4
+  significance: 8.2
+  experience: 9.6
+  depth: 9.6
+  categories:
+    nature: 9.5
+    beaches: 9.4
+    family: 9.6

@@ -1,0 +1,15 @@
+id: sight-vn-lung-cu-flag-tower
+name: "Lung Cu Flag Tower"
+location:
+  country_code: VN
+  latitude: 23.3637
+  longitude: 105.3156
+scores:
+  impact: 8.9
+  uniqueness: 9.4
+  significance: 9.4
+  experience: 9.4
+  depth: 8.2
+  categories:
+    history: 9.6
+    photography: 9.6

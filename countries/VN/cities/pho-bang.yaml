@@ -1,0 +1,16 @@
+id: city-vn-pho-bang
+name: "Pho Bang"
+location:
+  country_code: VN
+  latitude: 23.2455
+  longitude: 105.214
+scores:
+  impact: 8.2
+  uniqueness: 9.3
+  significance: 8.6
+  experience: 8.7
+  depth: 7.7
+  categories:
+    architecture: 9.2
+    culture: 9.3
+    photography: 9.1

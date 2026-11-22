@@ -1,0 +1,15 @@
+id: sight-vn-thang-hen-lake
+name: "Thang Hen Lake"
+location:
+  country_code: VN
+  latitude: 22.686
+  longitude: 106.293
+scores:
+  impact: 9
+  uniqueness: 9.4
+  significance: 8.6
+  experience: 9.4
+  depth: 8.7
+  categories:
+    nature: 9.6
+    photography: 9.7

@@ -1,0 +1,15 @@
+id: sight-vn-dau-tieng-lake
+name: "Dau Tieng Lake"
+location:
+  country_code: VN
+  latitude: 11.33
+  longitude: 106.34
+scores:
+  impact: 9
+  uniqueness: 9.4
+  significance: 8.6
+  experience: 9.3
+  depth: 9.3
+  categories:
+    nature: 9.4
+    photography: 9.7

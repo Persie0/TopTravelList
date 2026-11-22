@@ -1,0 +1,16 @@
+id: city-vn-yen-minh
+name: "Yen Minh"
+location:
+  country_code: VN
+  latitude: 23.123
+  longitude: 105.143
+scores:
+  impact: 8.4
+  uniqueness: 8.9
+  significance: 7.9
+  experience: 8.9
+  depth: 8.4
+  categories:
+    nature: 9.5
+    adventure: 9.2
+    photography: 9.3

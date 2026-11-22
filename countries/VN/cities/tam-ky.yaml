@@ -1,0 +1,15 @@
+id: city-vn-tam-ky
+name: "Tam Ky"
+location:
+  country_code: VN
+  latitude: 15.5736
+  longitude: 108.474
+scores:
+  impact: 7.8
+  uniqueness: 8.2
+  significance: 8.5
+  experience: 8.7
+  depth: 8.7
+  categories:
+    history: 8.8
+    food: 8.8

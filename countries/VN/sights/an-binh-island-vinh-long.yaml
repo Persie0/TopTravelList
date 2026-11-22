@@ -1,0 +1,15 @@
+id: sight-vn-an-binh-island-vinh-long
+name: "An Binh Island Vinh Long"
+location:
+  country_code: VN
+  latitude: 10.268
+  longitude: 105.963
+scores:
+  impact: 9
+  uniqueness: 9.4
+  significance: 8.7
+  experience: 9.5
+  depth: 9
+  categories:
+    nature: 9.4
+    culture: 9.4

@@ -1,0 +1,15 @@
+id: sight-vn-ben-duoc-tunnels
+name: "Ben Duoc Tunnels Cu Chi"
+location:
+  country_code: VN
+  latitude: 11.147
+  longitude: 106.462
+scores:
+  impact: 9.4
+  uniqueness: 9.8
+  significance: 9.9
+  experience: 9.5
+  depth: 8.9
+  categories:
+    history: 9.9
+    adventure: 9.5

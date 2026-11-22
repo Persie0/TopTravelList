@@ -1,0 +1,15 @@
+id: sight-vn-yang-bay-waterfall
+name: "Yang Bay Waterfall"
+location:
+  country_code: VN
+  latitude: 12.211
+  longitude: 108.987
+scores:
+  impact: 8.9
+  uniqueness: 9.3
+  significance: 8.7
+  experience: 9.4
+  depth: 9
+  categories:
+    nature: 9.6
+    photography: 9.4

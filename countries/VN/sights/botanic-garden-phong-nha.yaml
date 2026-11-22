@@ -1,0 +1,15 @@
+id: sight-vn-botanic-garden-phong-nha
+name: "Phong Nha Botanic Garden"
+location:
+  country_code: VN
+  latitude: 17.573
+  longitude: 106.277
+scores:
+  impact: 8.9
+  uniqueness: 9.3
+  significance: 8.8
+  experience: 9.4
+  depth: 9.1
+  categories:
+    nature: 9.7
+    wildlife: 9.2

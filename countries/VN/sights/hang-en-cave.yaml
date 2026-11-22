@@ -1,0 +1,16 @@
+id: sight-vn-hang-en-cave
+name: "Hang En Cave"
+location:
+  country_code: VN
+  latitude: 17.443
+  longitude: 106.264
+scores:
+  impact: 9.7
+  uniqueness: 9.9
+  significance: 9.3
+  experience: 9.6
+  depth: 8.9
+  categories:
+    nature: 9.9
+    adventure: 9.9
+    photography: 9.8

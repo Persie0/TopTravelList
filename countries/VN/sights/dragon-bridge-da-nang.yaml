@@ -1,0 +1,16 @@
+id: sight-vn-dragon-bridge-da-nang
+name: "Dragon Bridge Da Nang"
+location:
+  country_code: VN
+  latitude: 16.061
+  longitude: 108.226
+scores:
+  impact: 8.8
+  uniqueness: 9.4
+  significance: 8.7
+  experience: 9.5
+  depth: 8.4
+  categories:
+    architecture: 9.6
+    nightlife: 9.2
+    photography: 9.8

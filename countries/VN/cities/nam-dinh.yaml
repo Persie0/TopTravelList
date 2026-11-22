@@ -1,0 +1,16 @@
+id: city-vn-nam-dinh
+name: "Nam Dinh"
+location:
+  country_code: VN
+  latitude: 20.42
+  longitude: 106.1684
+scores:
+  impact: 8.1
+  uniqueness: 8.7
+  significance: 8.9
+  experience: 8.8
+  depth: 8.8
+  categories:
+    history: 9.2
+    culture: 9.1
+    architecture: 8.9

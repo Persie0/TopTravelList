@@ -1,0 +1,16 @@
+id: city-vn-vinh-hy
+name: "Vinh Hy"
+location:
+  country_code: VN
+  latitude: 11.721
+  longitude: 109.188
+scores:
+  impact: 8.8
+  uniqueness: 9.4
+  significance: 8.3
+  experience: 9.3
+  depth: 8.5
+  categories:
+    nature: 9.8
+    beaches: 9.6
+    photography: 9.8

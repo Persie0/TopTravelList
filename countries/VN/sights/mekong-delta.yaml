@@ -1,0 +1,17 @@
+id: sight-vn-mekong-delta
+name: "Mekong Delta"
+location:
+  country_code: VN
+  latitude: 10.17
+  longitude: 105.9
+scores:
+  impact: 9.7
+  uniqueness: 9.8
+  significance: 9.7
+  experience: 9.8
+  depth: 9.9
+  categories:
+    nature: 9.8
+    culture: 9.9
+    food: 9.8
+    wildlife: 9.6

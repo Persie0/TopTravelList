@@ -1,0 +1,15 @@
+id: sight-vn-nam-nung-nature-reserve
+name: "Nam Nung Nature Reserve"
+location:
+  country_code: VN
+  latitude: 12.205
+  longitude: 107.85
+scores:
+  impact: 9.4
+  uniqueness: 9.8
+  significance: 9
+  experience: 9.4
+  depth: 9.6
+  categories:
+    nature: 9.9
+    wildlife: 9.6

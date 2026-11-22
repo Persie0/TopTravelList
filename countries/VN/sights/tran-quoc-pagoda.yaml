@@ -1,0 +1,16 @@
+id: sight-vn-tran-quoc-pagoda
+name: "Tran Quoc Pagoda"
+location:
+  country_code: VN
+  latitude: 21.0476
+  longitude: 105.8369
+scores:
+  impact: 9
+  uniqueness: 9.4
+  significance: 9.6
+  experience: 9.4
+  depth: 8.6
+  categories:
+    architecture: 9.5
+    history: 9.8
+    photography: 9.5

@@ -1,0 +1,17 @@
+id: sight-vn-ly-son-island
+name: "Ly Son Island"
+location:
+  country_code: VN
+  latitude: 15.383
+  longitude: 109.121
+scores:
+  impact: 9.5
+  uniqueness: 9.8
+  significance: 9
+  experience: 9.8
+  depth: 9.7
+  categories:
+    nature: 9.9
+    beaches: 9.6
+    photography: 9.9
+    culture: 9.0

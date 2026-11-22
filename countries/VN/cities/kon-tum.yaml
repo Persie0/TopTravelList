@@ -1,0 +1,16 @@
+id: city-vn-kon-tum
+name: "Kon Tum"
+location:
+  country_code: VN
+  latitude: 14.3545
+  longitude: 108.0076
+scores:
+  impact: 8.4
+  uniqueness: 9
+  significance: 8.9
+  experience: 9.1
+  depth: 9
+  categories:
+    culture: 9.4
+    architecture: 9.1
+    nature: 9.2

@@ -1,0 +1,16 @@
+id: sight-vn-phong-nha-cave
+name: "Phong Nha Cave"
+location:
+  country_code: VN
+  latitude: 17.582
+  longitude: 106.288
+scores:
+  impact: 9.7
+  uniqueness: 9.9
+  significance: 9.6
+  experience: 9.8
+  depth: 9.1
+  categories:
+    nature: 9.9
+    adventure: 9.5
+    photography: 9.9

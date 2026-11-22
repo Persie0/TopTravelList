@@ -1,0 +1,15 @@
+id: sight-vn-ninh-kieu-wharf
+name: "Ninh Kieu Wharf Can Tho"
+location:
+  country_code: VN
+  latitude: 10.033
+  longitude: 105.788
+scores:
+  impact: 8.8
+  uniqueness: 9.1
+  significance: 8.9
+  experience: 9.5
+  depth: 9.4
+  categories:
+    culture: 9.3
+    photography: 9.5

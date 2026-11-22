@@ -1,0 +1,16 @@
+id: sight-vn-lang-co-beach
+name: "Lang Co Beach"
+location:
+  country_code: VN
+  latitude: 16.219
+  longitude: 108.012
+scores:
+  impact: 9
+  uniqueness: 9.4
+  significance: 8.3
+  experience: 9.6
+  depth: 9.2
+  categories:
+    beaches: 9.6
+    nature: 9.4
+    photography: 9.9

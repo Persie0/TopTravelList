@@ -1,0 +1,15 @@
+id: city-vn-vinh-long
+name: "Vinh Long"
+location:
+  country_code: VN
+  latitude: 10.2537
+  longitude: 105.9722
+scores:
+  impact: 8.1
+  uniqueness: 8.5
+  significance: 8.5
+  experience: 8.8
+  depth: 9
+  categories:
+    culture: 9.0
+    food: 9.0

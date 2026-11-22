@@ -1,0 +1,16 @@
+id: sight-vn-lao-chai-village
+name: "Lao Chai Village Sa Pa"
+location:
+  country_code: VN
+  latitude: 22.318
+  longitude: 103.875
+scores:
+  impact: 8.9
+  uniqueness: 9.3
+  significance: 8.8
+  experience: 9.3
+  depth: 8.7
+  categories:
+    nature: 9.6
+    culture: 9.5
+    photography: 9.7

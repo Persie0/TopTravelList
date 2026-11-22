@@ -1,0 +1,15 @@
+id: city-vn-viet-tri
+name: "Viet Tri"
+location:
+  country_code: VN
+  latitude: 21.3228
+  longitude: 105.402
+scores:
+  impact: 8
+  uniqueness: 8.6
+  significance: 9
+  experience: 8.6
+  depth: 8.2
+  categories:
+    history: 9.4
+    culture: 9.2

@@ -1,0 +1,15 @@
+id: sight-vn-hieu-waterfall
+name: "Hieu Waterfall Pu Luong"
+location:
+  country_code: VN
+  latitude: 20.488
+  longitude: 105.069
+scores:
+  impact: 9.1
+  uniqueness: 9.4
+  significance: 8.4
+  experience: 9.6
+  depth: 8.8
+  categories:
+    nature: 9.7
+    photography: 9.6

@@ -1,0 +1,16 @@
+id: sight-vn-truc-lam-monastery-da-lat
+name: "Truc Lam Monastery Da Lat"
+location:
+  country_code: VN
+  latitude: 11.901
+  longitude: 108.43
+scores:
+  impact: 9.1
+  uniqueness: 9.5
+  significance: 9.4
+  experience: 9.6
+  depth: 8.8
+  categories:
+    architecture: 9.6
+    culture: 9.6
+    nature: 9.3

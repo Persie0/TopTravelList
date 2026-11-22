@@ -1,0 +1,15 @@
+id: city-vn-mong-cai
+name: "Mong Cai"
+location:
+  country_code: VN
+  latitude: 21.5261
+  longitude: 107.9668
+scores:
+  impact: 7.7
+  uniqueness: 8.2
+  significance: 8.1
+  experience: 8.3
+  depth: 8.3
+  categories:
+    culture: 8.5
+    food: 8.7

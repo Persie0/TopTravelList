@@ -1,0 +1,16 @@
+id: sight-vn-viet-hai-village
+name: "Viet Hai Village Cat Ba"
+location:
+  country_code: VN
+  latitude: 20.7952
+  longitude: 107.077
+scores:
+  impact: 8.8
+  uniqueness: 9.3
+  significance: 8.5
+  experience: 9.4
+  depth: 8.7
+  categories:
+    nature: 9.4
+    culture: 9.3
+    photography: 9.5

@@ -1,0 +1,16 @@
+id: sight-vn-tra-que-vegetable-village
+name: "Tra Que Vegetable Village"
+location:
+  country_code: VN
+  latitude: 15.904
+  longitude: 108.333
+scores:
+  impact: 8.8
+  uniqueness: 9.4
+  significance: 8.9
+  experience: 9.6
+  depth: 9
+  categories:
+    culture: 9.5
+    food: 9.5
+    nature: 9.1

@@ -1,0 +1,15 @@
+id: city-vn-cao-lanh
+name: "Cao Lanh"
+location:
+  country_code: VN
+  latitude: 10.459
+  longitude: 105.632
+scores:
+  impact: 8.1
+  uniqueness: 8.7
+  significance: 8.8
+  experience: 8.9
+  depth: 8.8
+  categories:
+    nature: 9.1
+    history: 9.0

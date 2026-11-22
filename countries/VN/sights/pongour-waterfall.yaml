@@ -1,0 +1,15 @@
+id: sight-vn-pongour-waterfall
+name: "Pongour Waterfall"
+location:
+  country_code: VN
+  latitude: 11.678
+  longitude: 108.268
+scores:
+  impact: 9.5
+  uniqueness: 9.8
+  significance: 8.8
+  experience: 9.8
+  depth: 9.1
+  categories:
+    nature: 9.9
+    photography: 9.9

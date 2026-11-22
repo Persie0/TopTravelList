@@ -1,0 +1,15 @@
+id: city-vn-quang-tri
+name: "Quang Tri Town"
+location:
+  country_code: VN
+  latitude: 16.75
+  longitude: 107.189
+scores:
+  impact: 8.1
+  uniqueness: 8.8
+  significance: 9.5
+  experience: 8.6
+  depth: 8.2
+  categories:
+    history: 9.7
+    culture: 8.8

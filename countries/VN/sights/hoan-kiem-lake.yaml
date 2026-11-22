@@ -1,0 +1,18 @@
+id: sight-vn-hoan-kiem-lake
+name: "Hoan Kiem Lake"
+location:
+  country_code: VN
+  latitude: 21.0287
+  longitude: 105.8522
+scores:
+  impact: 9.1
+  uniqueness: 9.3
+  significance: 9.3
+  experience: 9.6
+  depth: 9.2
+  categories:
+    nature: 9.0
+    history: 9.5
+    culture: 9.6
+    photography: 9.5
+    relaxation: 9.4

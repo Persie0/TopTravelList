@@ -1,0 +1,16 @@
+id: sight-vn-ke-ga-lighthouse
+name: "Ke Ga Lighthouse"
+location:
+  country_code: VN
+  latitude: 10.698
+  longitude: 107.99
+scores:
+  impact: 9
+  uniqueness: 9.8
+  significance: 9.2
+  experience: 9.4
+  depth: 8.4
+  categories:
+    architecture: 9.6
+    history: 9.4
+    photography: 9.8

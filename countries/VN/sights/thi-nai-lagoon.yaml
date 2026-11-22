@@ -1,0 +1,16 @@
+id: sight-vn-thi-nai-lagoon
+name: "Thi Nai Lagoon"
+location:
+  country_code: VN
+  latitude: 13.856
+  longitude: 109.227
+scores:
+  impact: 9.1
+  uniqueness: 9.5
+  significance: 8.6
+  experience: 9.6
+  depth: 9.1
+  categories:
+    nature: 9.5
+    wildlife: 9.1
+    photography: 9.9

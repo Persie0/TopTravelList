@@ -1,0 +1,15 @@
+id: sight-vn-trung-trang-cave
+name: "Trung Trang Cave"
+location:
+  country_code: VN
+  latitude: 20.7852
+  longitude: 107.0264
+scores:
+  impact: 8.8
+  uniqueness: 9.1
+  significance: 8.7
+  experience: 9.2
+  depth: 8.2
+  categories:
+    nature: 9.3
+    adventure: 9.1

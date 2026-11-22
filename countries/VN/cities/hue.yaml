@@ -1,0 +1,18 @@
+id: city-vn-hue
+name: "Hue"
+location:
+  country_code: VN
+  latitude: 16.4637
+  longitude: 107.5909
+scores:
+  impact: 9.4
+  uniqueness: 9.6
+  significance: 9.8
+  experience: 9.5
+  depth: 9.3
+  categories:
+    history: 9.9
+    architecture: 9.8
+    culture: 9.8
+    food: 9.7
+    photography: 9.5

@@ -1,0 +1,15 @@
+id: sight-vn-vinwonders-nha-trang
+name: "VinWonders Nha Trang"
+location:
+  country_code: VN
+  latitude: 12.198
+  longitude: 109.285
+scores:
+  impact: 8.8
+  uniqueness: 9.2
+  significance: 7.9
+  experience: 9.6
+  depth: 9.7
+  categories:
+    family: 9.8
+    adventure: 9.2

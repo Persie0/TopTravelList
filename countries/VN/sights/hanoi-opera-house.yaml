@@ -1,0 +1,16 @@
+id: sight-vn-hanoi-opera-house
+name: "Hanoi Opera House"
+location:
+  country_code: VN
+  latitude: 21.0248
+  longitude: 105.8574
+scores:
+  impact: 8.9
+  uniqueness: 9.4
+  significance: 9.4
+  experience: 9.1
+  depth: 8.6
+  categories:
+    architecture: 9.6
+    history: 9.5
+    photography: 9.3

@@ -1,0 +1,16 @@
+id: sight-vn-mau-son-mountain
+name: "Mau Son Mountain"
+location:
+  country_code: VN
+  latitude: 21.833
+  longitude: 106.958
+scores:
+  impact: 9
+  uniqueness: 9.3
+  significance: 8.7
+  experience: 9.3
+  depth: 9
+  categories:
+    nature: 9.7
+    adventure: 9.1
+    photography: 9.4

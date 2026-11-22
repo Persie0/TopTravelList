@@ -1,0 +1,16 @@
+id: city-vn-tuy-hoa
+name: "Tuy Hoa"
+location:
+  country_code: VN
+  latitude: 13.0955
+  longitude: 109.3209
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 8.5
+  experience: 9.3
+  depth: 9
+  categories:
+    beaches: 9.4
+    nature: 9.3
+    food: 9.2

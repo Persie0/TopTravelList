@@ -1,0 +1,14 @@
+id: city-vn-dong-xoai
+name: "Dong Xoai"
+location:
+  country_code: VN
+  latitude: 11.533
+  longitude: 106.883
+scores:
+  impact: 7.4
+  uniqueness: 7.8
+  significance: 7.8
+  experience: 8.3
+  depth: 8.3
+  categories:
+    history: 8.2

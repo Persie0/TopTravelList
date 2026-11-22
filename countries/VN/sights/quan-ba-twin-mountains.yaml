@@ -1,0 +1,15 @@
+id: sight-vn-quan-ba-twin-mountains
+name: "Quan Ba Twin Mountains"
+location:
+  country_code: VN
+  latitude: 23.073
+  longitude: 104.993
+scores:
+  impact: 9
+  uniqueness: 9.5
+  significance: 8.4
+  experience: 9.4
+  depth: 8.3
+  categories:
+    nature: 9.8
+    photography: 9.9

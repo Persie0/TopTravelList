@@ -1,0 +1,16 @@
+id: sight-vn-ang-pagoda
+name: "Ang Pagoda Tra Vinh"
+location:
+  country_code: VN
+  latitude: 9.923
+  longitude: 106.334
+scores:
+  impact: 9
+  uniqueness: 9.6
+  significance: 9.7
+  experience: 9.4
+  depth: 8.5
+  categories:
+    architecture: 9.8
+    history: 9.8
+    culture: 9.8

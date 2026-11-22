@@ -1,0 +1,16 @@
+id: sight-vn-rach-vem-starfish-beach
+name: "Rach Vem Starfish Beach"
+location:
+  country_code: VN
+  latitude: 10.337
+  longitude: 103.975
+scores:
+  impact: 9.3
+  uniqueness: 9.8
+  significance: 8.3
+  experience: 9.7
+  depth: 8.8
+  categories:
+    beaches: 9.8
+    wildlife: 9.4
+    photography: 9.8

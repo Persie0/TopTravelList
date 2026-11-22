@@ -1,0 +1,16 @@
+id: sight-vn-du-gia-waterfall
+name: "Du Gia Waterfall"
+location:
+  country_code: VN
+  latitude: 22.887
+  longitude: 105.241
+scores:
+  impact: 8.9
+  uniqueness: 9.2
+  significance: 8.1
+  experience: 9.4
+  depth: 8.4
+  categories:
+    nature: 9.5
+    photography: 9.6
+    relaxation: 9.3

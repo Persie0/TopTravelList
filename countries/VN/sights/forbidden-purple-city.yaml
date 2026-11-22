@@ -1,0 +1,15 @@
+id: sight-vn-forbidden-purple-city
+name: "Forbidden Purple City Hue"
+location:
+  country_code: VN
+  latitude: 16.4709
+  longitude: 107.5804
+scores:
+  impact: 9.4
+  uniqueness: 9.7
+  significance: 9.9
+  experience: 9.5
+  depth: 9.2
+  categories:
+    architecture: 9.7
+    history: 9.9

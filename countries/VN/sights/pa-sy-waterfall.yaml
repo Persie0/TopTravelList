@@ -1,0 +1,15 @@
+id: sight-vn-pa-sy-waterfall
+name: "Pa Sy Waterfall Mang Den"
+location:
+  country_code: VN
+  latitude: 14.579
+  longitude: 108.254
+scores:
+  impact: 9.2
+  uniqueness: 9.6
+  significance: 8.5
+  experience: 9.6
+  depth: 9
+  categories:
+    nature: 9.8
+    photography: 9.8

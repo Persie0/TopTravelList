@@ -1,0 +1,15 @@
+id: city-vn-tra-kieu
+name: "Tra Kieu"
+location:
+  country_code: VN
+  latitude: 15.8205
+  longitude: 108.234
+scores:
+  impact: 8.3
+  uniqueness: 8.9
+  significance: 9.3
+  experience: 8.6
+  depth: 8.1
+  categories:
+    history: 9.5
+    architecture: 9.0

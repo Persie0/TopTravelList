@@ -1,0 +1,16 @@
+id: sight-vn-tham-ma-pass
+name: "Tham Ma Pass"
+location:
+  country_code: VN
+  latitude: 23.206
+  longitude: 105.141
+scores:
+  impact: 9.1
+  uniqueness: 9.5
+  significance: 8.5
+  experience: 9.5
+  depth: 8.4
+  categories:
+    nature: 9.8
+    photography: 9.9
+    adventure: 9.4

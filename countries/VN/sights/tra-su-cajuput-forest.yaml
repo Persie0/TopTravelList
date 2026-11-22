@@ -1,0 +1,16 @@
+id: sight-vn-tra-su-cajuput-forest
+name: "Tra Su Cajuput Forest"
+location:
+  country_code: VN
+  latitude: 10.583
+  longitude: 105.064
+scores:
+  impact: 9.7
+  uniqueness: 9.9
+  significance: 9.3
+  experience: 9.8
+  depth: 9.5
+  categories:
+    nature: 9.9
+    wildlife: 9.9
+    photography: 9.9

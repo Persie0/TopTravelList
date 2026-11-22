@@ -1,0 +1,15 @@
+id: sight-vn-ong-lang-beach
+name: "Ong Lang Beach"
+location:
+  country_code: VN
+  latitude: 10.285
+  longitude: 103.919
+scores:
+  impact: 9.1
+  uniqueness: 9.5
+  significance: 8
+  experience: 9.7
+  depth: 8.9
+  categories:
+    beaches: 9.7
+    relaxation: 9.8

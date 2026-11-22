@@ -1,0 +1,16 @@
+id: city-vn-dong-hoi
+name: "Dong Hoi"
+location:
+  country_code: VN
+  latitude: 17.4689
+  longitude: 106.6223
+scores:
+  impact: 8.4
+  uniqueness: 8.7
+  significance: 8.7
+  experience: 8.9
+  depth: 8.9
+  categories:
+    history: 9.0
+    beaches: 8.9
+    food: 8.8

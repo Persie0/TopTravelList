@@ -1,0 +1,15 @@
+id: sight-vn-ban-gioc-waterfall
+name: "Ban Gioc Detian Waterfall (Vietnam Side)"
+location:
+  country_code: VN
+  latitude: 22.8536
+  longitude: 106.7231
+scores:
+  impact: 9.8
+  uniqueness: 9.9
+  significance: 9.5
+  experience: 9.9
+  depth: 9.3
+  categories:
+    nature: 9.9
+    photography: 9.9

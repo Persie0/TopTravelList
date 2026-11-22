@@ -1,0 +1,16 @@
+id: sight-vn-trang-an-boat-route
+name: "Trang An Boat Route"
+location:
+  country_code: VN
+  latitude: 20.2534
+  longitude: 105.9158
+scores:
+  impact: 9.6
+  uniqueness: 9.8
+  significance: 9.4
+  experience: 9.9
+  depth: 9.3
+  categories:
+    nature: 9.9
+    photography: 9.9
+    relaxation: 9.8

@@ -1,0 +1,16 @@
+id: sight-vn-diep-son-sandbar
+name: "Diep Son Island Sandbar"
+location:
+  country_code: VN
+  latitude: 12.655
+  longitude: 109.27
+scores:
+  impact: 9.3
+  uniqueness: 9.8
+  significance: 8.4
+  experience: 9.7
+  depth: 8.9
+  categories:
+    nature: 9.8
+    photography: 9.9
+    beaches: 9.7

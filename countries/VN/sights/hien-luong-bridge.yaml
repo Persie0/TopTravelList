@@ -1,0 +1,15 @@
+id: sight-vn-hien-luong-bridge
+name: "Hien Luong Bridge and Ben Hai River"
+location:
+  country_code: VN
+  latitude: 17.0006
+  longitude: 107.054
+scores:
+  impact: 9
+  uniqueness: 9.6
+  significance: 9.9
+  experience: 9.1
+  depth: 8.6
+  categories:
+    history: 9.9
+    architecture: 9.0

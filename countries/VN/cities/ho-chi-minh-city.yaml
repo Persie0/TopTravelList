@@ -1,0 +1,18 @@
+id: city-vn-ho-chi-minh-city
+name: "Ho Chi Minh City"
+location:
+  country_code: VN
+  latitude: 10.8231
+  longitude: 106.6297
+scores:
+  impact: 9.4
+  uniqueness: 9.3
+  significance: 9.3
+  experience: 9.7
+  depth: 9.9
+  categories:
+    history: 9.5
+    culture: 9.8
+    food: 9.8
+    nightlife: 9.8
+    architecture: 9.3

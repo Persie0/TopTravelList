@@ -1,0 +1,15 @@
+id: sight-vn-bau-sau-crocodile-lake
+name: "Bau Sau Crocodile Lake"
+location:
+  country_code: VN
+  latitude: 11.468
+  longitude: 107.346
+scores:
+  impact: 9.4
+  uniqueness: 9.8
+  significance: 9.1
+  experience: 9.5
+  depth: 9.2
+  categories:
+    nature: 9.9
+    wildlife: 9.9

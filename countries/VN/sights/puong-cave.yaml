@@ -1,0 +1,15 @@
+id: sight-vn-puong-cave
+name: "Puong Cave Ba Be"
+location:
+  country_code: VN
+  latitude: 22.446
+  longitude: 105.63
+scores:
+  impact: 9
+  uniqueness: 9.4
+  significance: 8.7
+  experience: 9.5
+  depth: 8.7
+  categories:
+    nature: 9.7
+    adventure: 9.2

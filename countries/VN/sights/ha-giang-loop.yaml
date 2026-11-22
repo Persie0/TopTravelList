@@ -1,0 +1,17 @@
+id: sight-vn-ha-giang-loop
+name: "Ha Giang Loop"
+location:
+  country_code: VN
+  latitude: 23.126
+  longitude: 105.17
+scores:
+  impact: 9.8
+  uniqueness: 9.9
+  significance: 9.3
+  experience: 9.8
+  depth: 9.6
+  categories:
+    nature: 9.9
+    adventure: 9.9
+    photography: 9.9
+    culture: 9.5

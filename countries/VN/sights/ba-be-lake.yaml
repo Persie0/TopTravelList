@@ -1,0 +1,17 @@
+id: sight-vn-ba-be-lake
+name: "Ba Be Lake"
+location:
+  country_code: VN
+  latitude: 22.422
+  longitude: 105.612
+scores:
+  impact: 9.6
+  uniqueness: 9.8
+  significance: 9.3
+  experience: 9.8
+  depth: 9.6
+  categories:
+    nature: 9.9
+    wildlife: 9.7
+    photography: 9.9
+    relaxation: 9.6

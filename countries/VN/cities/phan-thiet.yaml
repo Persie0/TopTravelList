@@ -1,0 +1,16 @@
+id: city-vn-phan-thiet
+name: "Phan Thiet"
+location:
+  country_code: VN
+  latitude: 10.9289
+  longitude: 108.102
+scores:
+  impact: 8.5
+  uniqueness: 8.7
+  significance: 8.5
+  experience: 9.2
+  depth: 9.2
+  categories:
+    beaches: 9.1
+    food: 9.3
+    history: 8.6

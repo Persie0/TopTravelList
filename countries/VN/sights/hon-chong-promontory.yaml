@@ -1,0 +1,15 @@
+id: sight-vn-hon-chong-promontory
+name: "Hon Chong Promontory"
+location:
+  country_code: VN
+  latitude: 12.278
+  longitude: 109.202
+scores:
+  impact: 8.9
+  uniqueness: 9.3
+  significance: 8.5
+  experience: 9.5
+  depth: 8.6
+  categories:
+    nature: 9.5
+    photography: 9.7

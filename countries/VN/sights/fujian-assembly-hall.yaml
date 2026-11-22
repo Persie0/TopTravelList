@@ -1,0 +1,16 @@
+id: sight-vn-fujian-assembly-hall
+name: "Fujian Assembly Hall Hoi An"
+location:
+  country_code: VN
+  latitude: 15.8756
+  longitude: 108.3317
+scores:
+  impact: 9.2
+  uniqueness: 9.8
+  significance: 9.8
+  experience: 9.6
+  depth: 8.7
+  categories:
+    architecture: 9.9
+    history: 9.8
+    culture: 9.8

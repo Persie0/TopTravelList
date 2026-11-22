@@ -1,0 +1,16 @@
+id: city-vn-do-son
+name: "Do Son"
+location:
+  country_code: VN
+  latitude: 20.7128
+  longitude: 106.7892
+scores:
+  impact: 7.9
+  uniqueness: 8.1
+  significance: 7.5
+  experience: 8.6
+  depth: 8.2
+  categories:
+    beaches: 8.5
+    food: 8.6
+    relaxation: 8.3

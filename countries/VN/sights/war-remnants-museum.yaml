@@ -1,0 +1,15 @@
+id: sight-vn-war-remnants-museum
+name: "War Remnants Museum"
+location:
+  country_code: VN
+  latitude: 10.7795
+  longitude: 106.692
+scores:
+  impact: 9.5
+  uniqueness: 9.8
+  significance: 9.9
+  experience: 9.6
+  depth: 9.7
+  categories:
+    history: 9.9
+    culture: 9.8
