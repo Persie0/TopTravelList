@@ -200,7 +200,8 @@ def site_records():
                 "core": {s: item["scores"][s] for s in ("impact", "uniqueness", "significance", "experience", "depth")},
                 "categories": item["scores"]["categories"],
             })
-    assert len(all_records) == 1568, f"Expected exactly 1568 remaining sights, got {len(all_records)}"
+    # The evidence table captures a dated snapshot. Subsequent individual score
+    # reviews shrink the live backlog, so do not freeze it to one historic count.
     return all_records
 
 
@@ -272,7 +273,7 @@ def collect(limit, workers):
         "source": "English Wikipedia via live MediaWiki API, 22 November 2026",
         "license": "Wikipedia text CC BY-SA 4.0; article links and Wikimedia attribution included",
         "method": "Title and identity comparison with independent lat/lon plus country context; auto-matched identities are not human score judgments",
-        "expected_missing_prior_editorial_decisions": 1568,
+        "expected_missing_prior_editorial_decisions": len(records),
         "records": {key: results[key] for key in sorted(results)},
     }
     EVIDENCE.write_text(json.dumps(obj, ensure_ascii=False, indent=2) + "\n",
@@ -330,7 +331,8 @@ def verify():
     all_expected = {r["key"] for r in site_records()}
     obj = json.loads(EVIDENCE.read_text(encoding="utf-8"))
     rows = obj["records"]
-    assert set(rows) == all_expected, f"Missing evidence rows: {len(all_expected - set(rows))}"
+    # An older saved snapshot may include sites already reviewed later.
+    assert all_expected <= set(rows), f"Missing CURRENTLY unreviewed sites: {len(all_expected - set(rows))}"
     for key, x in rows.items():
         assert x["country"] == key[:2]
         if x["status"].startswith("verified_"):
@@ -340,7 +342,7 @@ def verify():
             if x["status"] == "verified_geo":
                 assert x["coord_distance_km"] is not None
     report(obj, check=True)
-    print(f"PASS: 1568 individual records have source-match assessment; "
+    print(f"PASS: {len(rows)} snapshot records with source-match assessment; "
           f"{sum(x['status'].startswith('verified_') for x in rows.values())} "
           f"verified article identities. No source rating changes made.", flush=True)
 
