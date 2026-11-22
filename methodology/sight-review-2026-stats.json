@@ -1,60 +1,60 @@
 {
   "by_country": {
     "AT": {
-      "changed": 33,
+      "changed": 41,
       "high90_after": 13,
       "high90_before": 21,
-      "reviewed": 39,
+      "reviewed": 47,
       "total": 133
     },
     "CN": {
-      "changed": 50,
-      "high90_after": 61,
+      "changed": 69,
+      "high90_after": 75,
       "high90_before": 35,
-      "reviewed": 64,
+      "reviewed": 83,
       "total": 490
     },
     "KH": {
-      "changed": 70,
+      "changed": 76,
       "high90_after": 27,
       "high90_before": 40,
-      "reviewed": 77,
+      "reviewed": 83,
       "total": 260
     },
     "KR": {
-      "changed": 36,
-      "high90_after": 18,
+      "changed": 43,
+      "high90_after": 22,
       "high90_before": 25,
-      "reviewed": 37,
+      "reviewed": 44,
       "total": 284
     },
     "TH": {
-      "changed": 31,
-      "high90_after": 14,
+      "changed": 41,
+      "high90_after": 15,
       "high90_before": 22,
-      "reviewed": 34,
+      "reviewed": 44,
       "total": 206
     },
     "TW": {
-      "changed": 25,
-      "high90_after": 7,
+      "changed": 37,
+      "high90_after": 10,
       "high90_before": 11,
-      "reviewed": 28,
+      "reviewed": 40,
       "total": 180
     },
     "VN": {
-      "changed": 62,
-      "high90_after": 23,
+      "changed": 70,
+      "high90_after": 27,
       "high90_before": 41,
-      "reviewed": 66,
+      "reviewed": 74,
       "total": 360
     }
   },
-  "changed": 307,
-  "flagged": 385,
+  "changed": 377,
+  "flagged": 413,
   "records": 1913,
   "remaining_high90": 0,
-  "screened_only": 1568,
-  "source_referenced": 196,
-  "targeted": 345
+  "screened_only": 1498,
+  "source_referenced": 266,
+  "targeted": 415
 }
