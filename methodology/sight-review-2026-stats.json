@@ -22,39 +22,39 @@
       "total": 260
     },
     "KR": {
-      "changed": 24,
-      "high90_after": 17,
+      "changed": 36,
+      "high90_after": 18,
       "high90_before": 25,
-      "reviewed": 25,
+      "reviewed": 37,
       "total": 284
     },
     "TH": {
-      "changed": 22,
+      "changed": 31,
       "high90_after": 14,
       "high90_before": 22,
-      "reviewed": 25,
+      "reviewed": 34,
       "total": 206
     },
     "TW": {
-      "changed": 22,
+      "changed": 25,
       "high90_after": 7,
       "high90_before": 11,
-      "reviewed": 25,
+      "reviewed": 28,
       "total": 180
     },
     "VN": {
-      "changed": 58,
+      "changed": 62,
       "high90_after": 23,
       "high90_before": 41,
-      "reviewed": 62,
+      "reviewed": 66,
       "total": 360
     }
   },
-  "changed": 265,
-  "flagged": 374,
+  "changed": 293,
+  "flagged": 384,
   "records": 1913,
   "remaining_high90": 0,
-  "screened_only": 1610,
-  "source_referenced": 154,
-  "targeted": 303
+  "screened_only": 1582,
+  "source_referenced": 182,
+  "targeted": 331
 }
