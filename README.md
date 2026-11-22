@@ -37,6 +37,7 @@ Every destination is stored as an individual YAML file in its country's `cities/
 python -m pip install -r requirements.txt
 python scripts/generate_countries.py
 python scripts/validate.py
+python scripts/check_city_benchmarks.py
 python scripts/generate_rankings.py
 python scripts/generate_rankings.py --check
 python scripts/rank.py --country AT --kind cities --limit 20
@@ -166,6 +167,28 @@ python scripts/generate_rankings.py --check           # fail on stale overviews 
 **Whenever you add or change destinations, regenerate the affected country's overviews and the root README country directory, and run --check before committing.** The Markdown rankings are fully deterministic, use the same weighted formula as `scripts/rank.py`, and contain no independently maintained scores.
 
 Use `scripts/rank.py` for ad-hoc sorted comparisons across countries and category-specific rankings. Each category is independently rated on the 0–10 scale, as described in `rules.md`.
+
+## Consistent worldwide city ranking — 2026 review
+
+The **639 cities, towns and villages across all six populated countries** were rebenchmarked on the same worldwide scale, including a direct comparison of **Salzburg vs Phnom Penh**. The 1,733 sight entries retain their existing ratings. All 639 city scores and applicable categories were revisited through a conservative historical calibration; **104 cities** received explicit, individual benchmark profiles. This is a **provisional editorial dataset**, not a site-by-site research or on-the-ground verification.
+
+For **every future country**, first use:
+- [City scoring guide](methodology/city-scoring-guide.md) — dimension definitions, international scoring bands, what counts as the city vs a nearby sight, how to assign a score, and the mandatory future-country checklist.
+- [Cross-country city benchmarks](methodology/city-comparison-benchmarks.md) — named reference cities from six countries, city-versus-sight safeguards, and required cross-country comparisons.
+- [Frozen 104 reference profiles](methodology/city-benchmark-profiles.txt) — explicit five-dimension and selected category profiles reviewed in 2026.
+- [Complete 639-city calibration audit](methodology/city-calibration-audit.md) — every old/new score, source YAML link and diagnostics.
+
+New cities **must be scored directly** against world-class and ordinary counterparts across borders. Do **not** apply the archived [one-time conversion script](scripts/recalibrate_cities_2026.py) to future countries; it refuses to rerun. The review is not a national multiplier and does not impose a country quota or median target.
+
+After creating or editing city YAML records, run:
+
+```bash
+python scripts/validate.py
+python scripts/check_city_benchmarks.py
+python scripts/generate_rankings.py --country XX
+python scripts/generate_rankings.py --check
+python scripts/rank.py --kind cities --limit 60
+```
 
 ## Absolute worldwide calibration (v2)
 
