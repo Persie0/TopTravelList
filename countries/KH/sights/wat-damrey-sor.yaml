@@ -6,10 +6,10 @@ location:
   longitude: 103.194
 scores:
   impact: 7.6
-  uniqueness: 8.0
-  significance: 8.2
+  uniqueness: 7.9
+  significance: 8.1
   experience: 8.2
-  depth: 7.5
+  depth: 7.2
   categories:
     architecture: 8.3
     culture: 8.5

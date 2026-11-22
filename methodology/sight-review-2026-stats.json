@@ -15,10 +15,10 @@
       "total": 490
     },
     "KH": {
-      "changed": 76,
+      "changed": 247,
       "high90_after": 27,
       "high90_before": 40,
-      "reviewed": 83,
+      "reviewed": 260,
       "total": 260
     },
     "KR": {
@@ -50,11 +50,11 @@
       "total": 360
     }
   },
-  "changed": 764,
+  "changed": 935,
   "flagged": 421,
   "records": 1913,
   "remaining_high90": 0,
-  "screened_only": 1110,
-  "source_referenced": 452,
-  "targeted": 803
+  "screened_only": 933,
+  "source_referenced": 490,
+  "targeted": 980
 }
