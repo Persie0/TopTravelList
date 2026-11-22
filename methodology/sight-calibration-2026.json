@@ -1,0 +1,17 @@
+{
+  "review_date": "2026-11-22",
+  "scoring_version": 2,
+  "sights_recalibrated": 1733,
+  "individually_benchmarked": 189,
+  "original_country_counts": {
+    "AT": 133,
+    "TH": 206,
+    "KR": 284,
+    "CN": 490,
+    "VN": 360,
+    "KH": 260
+  },
+  "historic_only": true,
+  "guide": "methodology/sight-scoring-guide.md",
+  "audit": "methodology/sight-calibration-audit.md"
+}

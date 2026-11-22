@@ -5,13 +5,13 @@ location:
   latitude: 13.739
   longitude: 100.5119
 scores:
-  impact: 8.1
-  uniqueness: 8.1
-  significance: 8.0
-  experience: 8.4
-  depth: 8.3
+  impact: 8.2
+  uniqueness: 8.2
+  significance: 8.1
+  experience: 8.5
+  depth: 8.4
   categories:
-    food: 9.0
-    culture: 8.5
-    nightlife: 8.4
-    photography: 8.1
+    food: 9.1
+    culture: 8.6
+    nightlife: 8.5
+    photography: 8.2

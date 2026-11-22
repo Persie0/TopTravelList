@@ -5,12 +5,12 @@ location:
   latitude: 8.3345
   longitude: 98.502
 scores:
-  impact: 7.7
-  uniqueness: 8.7
-  significance: 7.5
-  experience: 8.1
-  depth: 7.8
+  impact: 7.8
+  uniqueness: 8.8
+  significance: 7.6
+  experience: 8.2
+  depth: 7.9
   categories:
-    culture: 8.5
-    food: 7.8
-    photography: 8.7
+    culture: 8.6
+    food: 7.9
+    photography: 8.8

@@ -5,12 +5,12 @@ location:
   latitude: 16.4331
   longitude: 107.5571
 scores:
-  impact: 9.5
-  uniqueness: 9.9
-  significance: 9.8
-  experience: 9.7
-  depth: 9.3
+  impact: 8.6
+  uniqueness: 9.5
+  significance: 9.2
+  experience: 9.0
+  depth: 8.3
   categories:
-    architecture: 9.9
-    history: 9.9
-    photography: 9.8
+    architecture: 9.5
+    history: 9.5
+    photography: 9.2
