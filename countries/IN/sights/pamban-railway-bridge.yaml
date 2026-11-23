@@ -1,0 +1,16 @@
+id: sight-in-pamban-railway-bridge
+name: "Pamban Railway Bridge"
+location:
+  country_code: IN
+  latitude: 9.2805
+  longitude: 79.2027
+scores:
+  impact: 8.7
+  uniqueness: 9.0
+  significance: 8.9
+  experience: 8.7
+  depth: 6.7
+  categories:
+    history: 9.0
+    photography: 9.1
+    architecture: 8.8

@@ -1,0 +1,16 @@
+id: sight-in-araku-valley
+name: "Araku Valley"
+location:
+  country_code: IN
+  latitude: 18.3273
+  longitude: 82.8775
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 7.6
+  experience: 9.1
+  depth: 9.2
+  categories:
+    nature: 9.3
+    photography: 9.1
+    culture: 8.4

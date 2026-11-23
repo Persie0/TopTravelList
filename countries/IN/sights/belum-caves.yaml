@@ -1,0 +1,16 @@
+id: sight-in-belum-caves
+name: "Belum Caves"
+location:
+  country_code: IN
+  latitude: 15.1045
+  longitude: 78.1110
+scores:
+  impact: 8.9
+  uniqueness: 9.3
+  significance: 8.7
+  experience: 9.1
+  depth: 9.2
+  categories:
+    nature: 9.3
+    adventure: 8.9
+    photography: 8.8
