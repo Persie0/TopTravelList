@@ -1,0 +1,16 @@
+id: city-in-pushkar
+name: "Pushkar"
+location:
+  country_code: IN
+  latitude: 26.4902
+  longitude: 74.5529
+scores:
+  impact: 8.0
+  uniqueness: 8.6
+  significance: 8.4
+  experience: 8.4
+  depth: 7.7
+  categories:
+    culture: 8.9
+    history: 8.2
+    photography: 8.3

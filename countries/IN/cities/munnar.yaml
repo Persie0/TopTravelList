@@ -1,0 +1,16 @@
+id: city-in-munnar
+name: "Munnar"
+location:
+  country_code: IN
+  latitude: 10.0889
+  longitude: 77.0595
+scores:
+  impact: 8.3
+  uniqueness: 8.3
+  significance: 7.4
+  experience: 8.7
+  depth: 7.9
+  categories:
+    nature: 9.0
+    photography: 9.0
+    relaxation: 8.8

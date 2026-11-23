@@ -1,0 +1,15 @@
+id: city-in-raipur
+name: "Raipur"
+location:
+  country_code: IN
+  latitude: 21.2514
+  longitude: 81.6296
+scores:
+  impact: 6.8
+  uniqueness: 6.8
+  significance: 6.9
+  experience: 7.5
+  depth: 7.5
+  categories:
+    food: 7.5
+    culture: 7.0

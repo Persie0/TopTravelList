@@ -1,0 +1,16 @@
+id: city-in-jodhpur
+name: "Jodhpur"
+location:
+  country_code: IN
+  latitude: 26.2389
+  longitude: 73.0243
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 8.8
+  experience: 8.7
+  depth: 8.6
+  categories:
+    architecture: 9.0
+    history: 8.8
+    photography: 9.1

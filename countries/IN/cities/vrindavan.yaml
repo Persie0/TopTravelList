@@ -1,0 +1,15 @@
+id: city-in-vrindavan
+name: "Vrindavan"
+location:
+  country_code: IN
+  latitude: 27.5650
+  longitude: 77.6593
+scores:
+  impact: 8.1
+  uniqueness: 8.7
+  significance: 8.6
+  experience: 8.5
+  depth: 8.0
+  categories:
+    culture: 9.2
+    architecture: 8.3

@@ -1,0 +1,15 @@
+id: city-in-gwalior
+name: "Gwalior"
+location:
+  country_code: IN
+  latitude: 26.2183
+  longitude: 78.1828
+scores:
+  impact: 8.2
+  uniqueness: 8.3
+  significance: 8.5
+  experience: 8.2
+  depth: 8.2
+  categories:
+    architecture: 8.7
+    history: 8.8

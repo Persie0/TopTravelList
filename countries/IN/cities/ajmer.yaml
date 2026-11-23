@@ -1,0 +1,15 @@
+id: city-in-ajmer
+name: "Ajmer"
+location:
+  country_code: IN
+  latitude: 26.4499
+  longitude: 74.6399
+scores:
+  impact: 7.7
+  uniqueness: 7.8
+  significance: 8.4
+  experience: 8.1
+  depth: 7.8
+  categories:
+    culture: 8.5
+    history: 8.2

@@ -1,0 +1,16 @@
+id: city-in-shillong
+name: "Shillong"
+location:
+  country_code: IN
+  latitude: 25.5788
+  longitude: 91.8933
+scores:
+  impact: 8.1
+  uniqueness: 8.2
+  significance: 8.0
+  experience: 8.5
+  depth: 8.2
+  categories:
+    culture: 8.6
+    nature: 8.5
+    food: 8.3

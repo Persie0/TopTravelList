@@ -1,0 +1,16 @@
+id: city-in-bikaner
+name: "Bikaner"
+location:
+  country_code: IN
+  latitude: 28.0229
+  longitude: 73.3119
+scores:
+  impact: 8.0
+  uniqueness: 8.1
+  significance: 8.3
+  experience: 8.1
+  depth: 8.2
+  categories:
+    architecture: 8.6
+    history: 8.3
+    food: 8.0

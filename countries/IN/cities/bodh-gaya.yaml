@@ -1,0 +1,15 @@
+id: city-in-bodh-gaya
+name: "Bodh Gaya"
+location:
+  country_code: IN
+  latitude: 24.6959
+  longitude: 84.9913
+scores:
+  impact: 8.3
+  uniqueness: 9.0
+  significance: 9.3
+  experience: 8.7
+  depth: 8.2
+  categories:
+    culture: 9.5
+    history: 9.2

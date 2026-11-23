@@ -1,0 +1,15 @@
+id: city-in-tiruchirappalli
+name: "Tiruchirappalli"
+location:
+  country_code: IN
+  latitude: 10.7905
+  longitude: 78.7047
+scores:
+  impact: 8.1
+  uniqueness: 8.2
+  significance: 8.4
+  experience: 8.3
+  depth: 8.1
+  categories:
+    culture: 8.7
+    history: 8.5

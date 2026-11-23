@@ -1,0 +1,16 @@
+id: city-in-kochi
+name: "Kochi"
+location:
+  country_code: IN
+  latitude: 9.9312
+  longitude: 76.2673
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 9.1
+  experience: 9.0
+  depth: 8.9
+  categories:
+    architecture: 9.0
+    culture: 9.3
+    food: 9.0

@@ -1,0 +1,16 @@
+id: city-in-bundi
+name: "Bundi"
+location:
+  country_code: IN
+  latitude: 25.4305
+  longitude: 75.6499
+scores:
+  impact: 8.5
+  uniqueness: 8.6
+  significance: 8.3
+  experience: 8.4
+  depth: 7.8
+  categories:
+    architecture: 8.7
+    photography: 8.9
+    history: 8.3

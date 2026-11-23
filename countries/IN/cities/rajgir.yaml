@@ -1,0 +1,15 @@
+id: city-in-rajgir
+name: "Rajgir"
+location:
+  country_code: IN
+  latitude: 25.0260
+  longitude: 85.4170
+scores:
+  impact: 7.8
+  uniqueness: 8.3
+  significance: 8.7
+  experience: 8.2
+  depth: 7.8
+  categories:
+    history: 8.9
+    culture: 8.6

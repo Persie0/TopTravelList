@@ -1,0 +1,15 @@
+id: city-in-mathura
+name: "Mathura"
+location:
+  country_code: IN
+  latitude: 27.4924
+  longitude: 77.6737
+scores:
+  impact: 7.9
+  uniqueness: 8.3
+  significance: 8.5
+  experience: 8.2
+  depth: 8.0
+  categories:
+    culture: 9.0
+    history: 8.3

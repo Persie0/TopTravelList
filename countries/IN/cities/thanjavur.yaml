@@ -1,0 +1,16 @@
+id: city-in-thanjavur
+name: "Thanjavur"
+location:
+  country_code: IN
+  latitude: 10.7870
+  longitude: 79.1378
+scores:
+  impact: 8.5
+  uniqueness: 8.7
+  significance: 9.1
+  experience: 8.5
+  depth: 8.3
+  categories:
+    architecture: 9.0
+    history: 9.2
+    culture: 9.1

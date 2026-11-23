@@ -1,0 +1,16 @@
+id: city-in-rishikesh
+name: "Rishikesh"
+location:
+  country_code: IN
+  latitude: 30.0869
+  longitude: 78.2676
+scores:
+  impact: 8.6
+  uniqueness: 8.6
+  significance: 8.5
+  experience: 9.0
+  depth: 8.6
+  categories:
+    culture: 9.0
+    adventure: 9.0
+    nature: 8.8

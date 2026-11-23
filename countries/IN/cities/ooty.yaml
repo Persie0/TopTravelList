@@ -1,0 +1,15 @@
+id: city-in-ooty
+name: "Ooty"
+location:
+  country_code: IN
+  latitude: 11.4064
+  longitude: 76.6932
+scores:
+  impact: 8.2
+  uniqueness: 7.9
+  significance: 7.8
+  experience: 8.6
+  depth: 8.2
+  categories:
+    nature: 8.8
+    relaxation: 8.6

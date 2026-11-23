@@ -1,0 +1,15 @@
+id: city-in-pahalgam
+name: "Pahalgam"
+location:
+  country_code: IN
+  latitude: 34.0161
+  longitude: 75.3150
+scores:
+  impact: 8.2
+  uniqueness: 8.1
+  significance: 7.1
+  experience: 8.6
+  depth: 7.6
+  categories:
+    nature: 8.8
+    relaxation: 8.7

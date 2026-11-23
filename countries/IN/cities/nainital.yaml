@@ -1,0 +1,16 @@
+id: city-in-nainital
+name: "Nainital"
+location:
+  country_code: IN
+  latitude: 29.3919
+  longitude: 79.4542
+scores:
+  impact: 8.2
+  uniqueness: 8.0
+  significance: 7.5
+  experience: 8.5
+  depth: 7.9
+  categories:
+    nature: 8.7
+    relaxation: 8.5
+    photography: 8.6

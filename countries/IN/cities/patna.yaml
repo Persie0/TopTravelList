@@ -1,0 +1,15 @@
+id: city-in-patna
+name: "Patna"
+location:
+  country_code: IN
+  latitude: 25.5941
+  longitude: 85.1376
+scores:
+  impact: 7.7
+  uniqueness: 8.1
+  significance: 8.6
+  experience: 7.9
+  depth: 8.1
+  categories:
+    history: 8.8
+    culture: 8.0

@@ -1,0 +1,16 @@
+id: city-in-leh
+name: "Leh"
+location:
+  country_code: IN
+  latitude: 34.1526
+  longitude: 77.5771
+scores:
+  impact: 8.8
+  uniqueness: 9.1
+  significance: 8.6
+  experience: 8.7
+  depth: 8.7
+  categories:
+    culture: 9.0
+    architecture: 8.8
+    photography: 9.0

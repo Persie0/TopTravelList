@@ -1,0 +1,15 @@
+id: city-in-patan
+name: "Patan"
+location:
+  country_code: IN
+  latitude: 23.8493
+  longitude: 72.1266
+scores:
+  impact: 7.9
+  uniqueness: 8.3
+  significance: 8.8
+  experience: 8.0
+  depth: 7.6
+  categories:
+    history: 8.9
+    architecture: 8.7

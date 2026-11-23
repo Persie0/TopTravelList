@@ -1,0 +1,15 @@
+id: city-in-gangtok
+name: "Gangtok"
+location:
+  country_code: IN
+  latitude: 27.3389
+  longitude: 88.6065
+scores:
+  impact: 8.3
+  uniqueness: 8.5
+  significance: 8.2
+  experience: 8.6
+  depth: 8.2
+  categories:
+    nature: 8.8
+    culture: 8.7

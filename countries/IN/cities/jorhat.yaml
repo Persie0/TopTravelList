@@ -1,0 +1,15 @@
+id: city-in-jorhat
+name: "Jorhat"
+location:
+  country_code: IN
+  latitude: 26.7509
+  longitude: 94.2037
+scores:
+  impact: 7.0
+  uniqueness: 7.4
+  significance: 7.1
+  experience: 7.7
+  depth: 7.5
+  categories:
+    culture: 7.8
+    food: 7.6

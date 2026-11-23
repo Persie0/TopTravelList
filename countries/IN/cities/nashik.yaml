@@ -1,0 +1,15 @@
+id: city-in-nashik
+name: "Nashik"
+location:
+  country_code: IN
+  latitude: 19.9975
+  longitude: 73.7898
+scores:
+  impact: 7.8
+  uniqueness: 7.8
+  significance: 8.0
+  experience: 8.2
+  depth: 8.1
+  categories:
+    culture: 8.5
+    food: 8.0

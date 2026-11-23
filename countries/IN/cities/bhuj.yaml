@@ -1,0 +1,15 @@
+id: city-in-bhuj
+name: "Bhuj"
+location:
+  country_code: IN
+  latitude: 23.2419
+  longitude: 69.6669
+scores:
+  impact: 7.7
+  uniqueness: 8.1
+  significance: 8.1
+  experience: 8.2
+  depth: 7.8
+  categories:
+    culture: 8.5
+    architecture: 8.2

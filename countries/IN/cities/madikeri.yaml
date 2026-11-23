@@ -1,0 +1,15 @@
+id: city-in-madikeri
+name: "Madikeri"
+location:
+  country_code: IN
+  latitude: 12.4244
+  longitude: 75.7382
+scores:
+  impact: 7.7
+  uniqueness: 7.8
+  significance: 7.3
+  experience: 8.2
+  depth: 7.6
+  categories:
+    nature: 8.5
+    food: 8.0
