@@ -2,6 +2,10 @@
 
 This document defines the **same quality-scoring system for every country, city and sight**. It is version 2. All 1,540 destinations previously assessed under v1 are recalibrated to a worldwide reference scale. Future changes to score meanings require another version bump and a full comparison of affected records.
 
+## Reusable process for new countries and subsequent reviews
+
+Follow the [future-country workflow](methodology/future-country-workflow.md), [individual review template](methodology/review-record-template.md), and [evidence and quality standard](methodology/evidence-and-quality-standard.md) for **each new or revised record**. Contributor and AI-agent instructions live in [AGENTS.md](AGENTS.md). Review rationales, actual checked source links, named worldwide peers, and verification statuses belong in separate Markdown files under `methodology/reviews/XX/` — not in the destination YAML schema. Historical 2026 audits remain immutable snapshots; new-country decisions must not be backdated into them.
+
 ## What is rated?
 
 - A **city** is a settlement visited as a destination (including towns and villages); rate its broader visitor experience, including its attractions. The folder name is an editorial grouping, not a claim about legal city status.
