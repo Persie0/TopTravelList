@@ -1,0 +1,15 @@
+id: city-in-konark
+name: "Konark"
+location:
+  country_code: IN
+  latitude: 19.8876
+  longitude: 86.0945
+scores:
+  impact: 7.5
+  uniqueness: 8.0
+  significance: 8.3
+  experience: 7.8
+  depth: 6.9
+  categories:
+    history: 8.6
+    architecture: 8.3

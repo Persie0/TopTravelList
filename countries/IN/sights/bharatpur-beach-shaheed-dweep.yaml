@@ -1,0 +1,15 @@
+id: sight-in-bharatpur-beach-shaheed-dweep
+name: "Bharatpur Beach Shaheed Dweep"
+location:
+  country_code: IN
+  latitude: 11.8268
+  longitude: 93.0460
+scores:
+  impact: 8.5
+  uniqueness: 8.6
+  significance: 7.2
+  experience: 9.0
+  depth: 7.8
+  categories:
+    beaches: 9.1
+    relaxation: 9.0

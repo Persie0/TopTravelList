@@ -1,0 +1,15 @@
+id: sight-in-manas-national-park
+name: "Manas National Park"
+location:
+  country_code: IN
+  latitude: 26.7289
+  longitude: 90.9531
+scores:
+  impact: 9.2
+  uniqueness: 9.5
+  significance: 9.6
+  experience: 9.2
+  depth: 9.3
+  categories:
+    wildlife: 9.7
+    nature: 9.4

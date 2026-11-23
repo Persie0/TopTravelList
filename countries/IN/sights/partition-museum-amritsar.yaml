@@ -1,0 +1,15 @@
+id: sight-in-partition-museum-amritsar
+name: "Partition Museum Amritsar"
+location:
+  country_code: IN
+  latitude: 31.6242
+  longitude: 74.8767
+scores:
+  impact: 8.7
+  uniqueness: 9.2
+  significance: 9.5
+  experience: 9.0
+  depth: 8.4
+  categories:
+    history: 9.7
+    culture: 9.1

@@ -1,0 +1,15 @@
+id: sight-in-cherai-beach
+name: "Cherai Beach"
+location:
+  country_code: IN
+  latitude: 10.1431
+  longitude: 76.1776
+scores:
+  impact: 8.1
+  uniqueness: 8.0
+  significance: 7.0
+  experience: 8.6
+  depth: 7.8
+  categories:
+    beaches: 8.7
+    relaxation: 8.9

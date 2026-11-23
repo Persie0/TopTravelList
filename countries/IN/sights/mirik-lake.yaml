@@ -1,0 +1,15 @@
+id: sight-in-mirik-lake
+name: "Mirik Lake"
+location:
+  country_code: IN
+  latitude: 26.8880
+  longitude: 88.1880
+scores:
+  impact: 7.7
+  uniqueness: 7.6
+  significance: 6.8
+  experience: 8.3
+  depth: 7.8
+  categories:
+    nature: 8.3
+    relaxation: 8.6

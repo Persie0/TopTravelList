@@ -1,0 +1,16 @@
+id: sight-in-key-monastery
+name: "Key Monastery"
+location:
+  country_code: IN
+  latitude: 32.2964
+  longitude: 78.0121
+scores:
+  impact: 9.1
+  uniqueness: 9.3
+  significance: 9.1
+  experience: 9.1
+  depth: 8.4
+  categories:
+    architecture: 9.5
+    culture: 9.4
+    photography: 9.7

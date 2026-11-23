@@ -1,0 +1,15 @@
+id: city-in-sohra
+name: "Sohra"
+location:
+  country_code: IN
+  latitude: 25.2840
+  longitude: 91.7212
+scores:
+  impact: 7.8
+  uniqueness: 8.0
+  significance: 7.5
+  experience: 8.1
+  depth: 7.0
+  categories:
+    nature: 8.9
+    photography: 8.6

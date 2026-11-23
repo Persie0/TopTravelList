@@ -1,6 +1,6 @@
 # Template — one review entry per new or revised destination
 
-Copy the appropriate heading below into **`methodology/reviews/XX/cities.md`** or **`methodology/reviews/XX/sights.md`**. Replace placeholders for each record; never publish a placeholder as an assessment. Keep reviews separate from the strict YAML schema.
+Copy the appropriate heading below into **`methodology/reviews/XX/cities.md`** or **`methodology/reviews/XX/sights.md`** (or regional `sights-*.md` files indexed there). Replace placeholders for each record; never publish a placeholder as an assessment. Keep reviews separate from the strict YAML schema.
 
 The 2026 `sight-review-decisions-2026/*.tsv` and `sight-review-2026-*.md` files are historical and must not be repurposed for future countries.
 

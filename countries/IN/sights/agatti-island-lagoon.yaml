@@ -1,0 +1,16 @@
+id: sight-in-agatti-island-lagoon
+name: "Agatti Island Lagoon"
+location:
+  country_code: IN
+  latitude: 10.8488
+  longitude: 72.1897
+scores:
+  impact: 9.3
+  uniqueness: 9.4
+  significance: 8.3
+  experience: 9.6
+  depth: 8.8
+  categories:
+    beaches: 9.7
+    nature: 9.6
+    adventure: 9.2

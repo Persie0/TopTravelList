@@ -1,0 +1,16 @@
+id: sight-in-silent-valley-national-park
+name: "Silent Valley National Park"
+location:
+  country_code: IN
+  latitude: 11.1326
+  longitude: 76.4290
+scores:
+  impact: 9.2
+  uniqueness: 9.5
+  significance: 9.3
+  experience: 8.9
+  depth: 9.3
+  categories:
+    nature: 9.7
+    wildlife: 9.4
+    adventure: 8.7

@@ -1,0 +1,16 @@
+id: sight-in-somnath-temple
+name: "Somnath Temple"
+location:
+  country_code: IN
+  latitude: 20.8880
+  longitude: 70.4012
+scores:
+  impact: 9.0
+  uniqueness: 9.4
+  significance: 9.7
+  experience: 9.3
+  depth: 7.9
+  categories:
+    culture: 9.8
+    history: 9.4
+    architecture: 9.2

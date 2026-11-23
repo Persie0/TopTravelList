@@ -1,0 +1,16 @@
+id: sight-in-jag-mandir-palace
+name: "Jag Mandir Palace"
+location:
+  country_code: IN
+  latitude: 24.5681
+  longitude: 73.6785
+scores:
+  impact: 8.6
+  uniqueness: 8.9
+  significance: 8.5
+  experience: 8.8
+  depth: 7.7
+  categories:
+    architecture: 8.9
+    photography: 9.1
+    history: 8.5

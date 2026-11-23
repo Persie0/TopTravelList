@@ -1,0 +1,16 @@
+id: sight-in-tirumala-venkateswara-temple
+name: "Tirumala Venkateswara Temple"
+location:
+  country_code: IN
+  latitude: 13.6833
+  longitude: 79.3474
+scores:
+  impact: 9.4
+  uniqueness: 9.7
+  significance: 9.9
+  experience: 9.4
+  depth: 9.1
+  categories:
+    culture: 9.9
+    history: 9.6
+    architecture: 9.2

@@ -1,0 +1,16 @@
+id: city-in-manali
+name: "Manali"
+location:
+  country_code: IN
+  latitude: 32.2432
+  longitude: 77.1892
+scores:
+  impact: 8.1
+  uniqueness: 8.1
+  significance: 7.4
+  experience: 8.8
+  depth: 8.3
+  categories:
+    adventure: 8.9
+    nature: 8.8
+    relaxation: 8.3

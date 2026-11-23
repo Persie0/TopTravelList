@@ -1,0 +1,15 @@
+id: city-in-mangaluru
+name: "Mangaluru"
+location:
+  country_code: IN
+  latitude: 12.9141
+  longitude: 74.8560
+scores:
+  impact: 7.7
+  uniqueness: 7.6
+  significance: 7.7
+  experience: 8.1
+  depth: 8.1
+  categories:
+    food: 8.5
+    beaches: 7.6

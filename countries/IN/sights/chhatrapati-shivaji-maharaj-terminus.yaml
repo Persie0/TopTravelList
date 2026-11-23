@@ -1,0 +1,16 @@
+id: sight-in-chhatrapati-shivaji-maharaj-terminus
+name: "Chhatrapati Shivaji Maharaj Terminus"
+location:
+  country_code: IN
+  latitude: 18.9398
+  longitude: 72.8355
+scores:
+  impact: 9.1
+  uniqueness: 9.4
+  significance: 9.4
+  experience: 8.9
+  depth: 7.9
+  categories:
+    architecture: 9.7
+    history: 9.4
+    photography: 9.4

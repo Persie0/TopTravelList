@@ -1,0 +1,16 @@
+id: sight-in-jog-falls
+name: "Jog Falls"
+location:
+  country_code: IN
+  latitude: 14.2288
+  longitude: 74.8124
+scores:
+  impact: 9.4
+  uniqueness: 9.2
+  significance: 8.1
+  experience: 9.5
+  depth: 8.4
+  categories:
+    nature: 9.7
+    photography: 9.7
+    adventure: 8.8

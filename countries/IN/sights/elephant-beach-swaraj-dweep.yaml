@@ -1,0 +1,16 @@
+id: sight-in-elephant-beach-swaraj-dweep
+name: "Elephant Beach Swaraj Dweep"
+location:
+  country_code: IN
+  latitude: 12.0487
+  longitude: 92.9800
+scores:
+  impact: 9.0
+  uniqueness: 9.1
+  significance: 7.8
+  experience: 9.3
+  depth: 8.1
+  categories:
+    beaches: 9.3
+    adventure: 9.2
+    nature: 9.0

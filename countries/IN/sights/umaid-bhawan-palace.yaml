@@ -1,0 +1,16 @@
+id: sight-in-umaid-bhawan-palace
+name: "Umaid Bhawan Palace"
+location:
+  country_code: IN
+  latitude: 26.2823
+  longitude: 73.0473
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 8.4
+  experience: 8.3
+  depth: 7.8
+  categories:
+    architecture: 9.1
+    photography: 9.0
+    history: 8.2

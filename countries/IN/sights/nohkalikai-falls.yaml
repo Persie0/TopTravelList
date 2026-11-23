@@ -1,0 +1,15 @@
+id: sight-in-nohkalikai-falls
+name: "Nohkalikai Falls"
+location:
+  country_code: IN
+  latitude: 25.2753
+  longitude: 91.6845
+scores:
+  impact: 9.2
+  uniqueness: 9.4
+  significance: 8.6
+  experience: 9.2
+  depth: 7.7
+  categories:
+    nature: 9.7
+    photography: 9.7

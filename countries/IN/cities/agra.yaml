@@ -1,0 +1,16 @@
+id: city-in-agra
+name: "Agra"
+location:
+  country_code: IN
+  latitude: 27.1767
+  longitude: 78.0081
+scores:
+  impact: 8.6
+  uniqueness: 8.4
+  significance: 8.9
+  experience: 8.0
+  depth: 8.2
+  categories:
+    history: 9.0
+    architecture: 8.9
+    photography: 8.6

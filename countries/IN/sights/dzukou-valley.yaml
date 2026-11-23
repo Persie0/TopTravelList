@@ -1,0 +1,16 @@
+id: sight-in-dzukou-valley
+name: "Dzukou Valley"
+location:
+  country_code: IN
+  latitude: 25.5944
+  longitude: 94.0455
+scores:
+  impact: 9.1
+  uniqueness: 9.1
+  significance: 8.3
+  experience: 9.3
+  depth: 9.0
+  categories:
+    nature: 9.6
+    adventure: 9.3
+    photography: 9.5

@@ -1,0 +1,16 @@
+id: sight-in-kanha-national-park
+name: "Kanha National Park"
+location:
+  country_code: IN
+  latitude: 22.3333
+  longitude: 80.6333
+scores:
+  impact: 9.4
+  uniqueness: 9.3
+  significance: 9.3
+  experience: 9.4
+  depth: 9.5
+  categories:
+    wildlife: 9.7
+    nature: 9.4
+    photography: 9.3

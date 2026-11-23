@@ -1,0 +1,16 @@
+id: sight-in-victoria-memorial-kolkata
+name: "Victoria Memorial Kolkata"
+location:
+  country_code: IN
+  latitude: 22.5448
+  longitude: 88.3426
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 9.0
+  experience: 9.0
+  depth: 8.7
+  categories:
+    architecture: 9.7
+    history: 9.3
+    culture: 9.2

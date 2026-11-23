@@ -1,0 +1,16 @@
+id: sight-in-kavaratti-lagoon
+name: "Kavaratti Lagoon"
+location:
+  country_code: IN
+  latitude: 10.5669
+  longitude: 72.6393
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 8.1
+  experience: 9.3
+  depth: 8.5
+  categories:
+    beaches: 9.4
+    nature: 9.3
+    relaxation: 9.2

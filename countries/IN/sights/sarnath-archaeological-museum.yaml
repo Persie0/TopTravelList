@@ -1,0 +1,15 @@
+id: sight-in-sarnath-archaeological-museum
+name: "Sarnath Archaeological Museum"
+location:
+  country_code: IN
+  latitude: 25.3795
+  longitude: 83.0219
+scores:
+  impact: 8.9
+  uniqueness: 9.2
+  significance: 9.5
+  experience: 9.0
+  depth: 8.3
+  categories:
+    history: 9.7
+    culture: 9.5

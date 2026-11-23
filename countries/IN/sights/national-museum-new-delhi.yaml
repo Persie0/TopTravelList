@@ -1,0 +1,16 @@
+id: sight-in-national-museum-new-delhi
+name: "National Museum New Delhi"
+location:
+  country_code: IN
+  latitude: 28.6117
+  longitude: 77.2191
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 9.1
+  experience: 8.7
+  depth: 9.3
+  categories:
+    history: 9.4
+    culture: 9.0
+    family: 8.0

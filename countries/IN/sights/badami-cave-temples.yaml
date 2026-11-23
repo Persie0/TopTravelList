@@ -1,0 +1,16 @@
+id: sight-in-badami-cave-temples
+name: "Badami Cave Temples"
+location:
+  country_code: IN
+  latitude: 15.9149
+  longitude: 75.6865
+scores:
+  impact: 9.4
+  uniqueness: 9.6
+  significance: 9.5
+  experience: 9.4
+  depth: 9.1
+  categories:
+    architecture: 9.8
+    history: 9.6
+    photography: 9.5

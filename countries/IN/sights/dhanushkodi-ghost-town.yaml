@@ -1,0 +1,16 @@
+id: sight-in-dhanushkodi-ghost-town
+name: "Dhanushkodi Ghost Town"
+location:
+  country_code: IN
+  latitude: 9.1520
+  longitude: 79.4465
+scores:
+  impact: 8.7
+  uniqueness: 9.3
+  significance: 8.3
+  experience: 8.9
+  depth: 8.0
+  categories:
+    history: 8.6
+    photography: 9.3
+    nature: 8.7

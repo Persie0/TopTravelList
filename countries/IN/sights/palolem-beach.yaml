@@ -1,0 +1,16 @@
+id: sight-in-palolem-beach
+name: "Palolem Beach"
+location:
+  country_code: IN
+  latitude: 15.0106
+  longitude: 74.0231
+scores:
+  impact: 8.8
+  uniqueness: 8.6
+  significance: 7.3
+  experience: 9.2
+  depth: 8.4
+  categories:
+    beaches: 9.3
+    relaxation: 9.0
+    photography: 9.1

@@ -1,0 +1,16 @@
+id: sight-in-hampi-group-of-monuments
+name: "Hampi Group of Monuments"
+location:
+  country_code: IN
+  latitude: 15.3350
+  longitude: 76.4600
+scores:
+  impact: 9.8
+  uniqueness: 9.9
+  significance: 9.9
+  experience: 9.8
+  depth: 9.9
+  categories:
+    history: 9.9
+    architecture: 9.9
+    photography: 9.9

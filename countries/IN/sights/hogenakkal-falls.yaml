@@ -1,0 +1,16 @@
+id: sight-in-hogenakkal-falls
+name: "Hogenakkal Falls"
+location:
+  country_code: IN
+  latitude: 12.1178
+  longitude: 77.7751
+scores:
+  impact: 9.0
+  uniqueness: 8.8
+  significance: 8.0
+  experience: 9.2
+  depth: 8.0
+  categories:
+    nature: 9.4
+    photography: 9.4
+    adventure: 8.8

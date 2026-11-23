@@ -1,0 +1,16 @@
+id: sight-in-great-rann-of-kutch
+name: "Great Rann of Kutch"
+location:
+  country_code: IN
+  latitude: 23.8353
+  longitude: 69.5200
+scores:
+  impact: 9.2
+  uniqueness: 9.3
+  significance: 8.4
+  experience: 9.3
+  depth: 9.4
+  categories:
+    nature: 9.5
+    photography: 9.7
+    adventure: 9.0

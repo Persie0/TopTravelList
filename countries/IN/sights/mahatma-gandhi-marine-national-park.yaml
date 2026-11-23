@@ -1,0 +1,16 @@
+id: sight-in-mahatma-gandhi-marine-national-park
+name: "Mahatma Gandhi Marine National Park"
+location:
+  country_code: IN
+  latitude: 11.6120
+  longitude: 92.6100
+scores:
+  impact: 9.2
+  uniqueness: 9.4
+  significance: 8.8
+  experience: 9.3
+  depth: 9.2
+  categories:
+    nature: 9.5
+    wildlife: 9.4
+    adventure: 9.0

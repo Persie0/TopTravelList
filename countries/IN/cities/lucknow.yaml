@@ -1,0 +1,16 @@
+id: city-in-lucknow
+name: "Lucknow"
+location:
+  country_code: IN
+  latitude: 26.8467
+  longitude: 80.9462
+scores:
+  impact: 8.4
+  uniqueness: 8.6
+  significance: 8.9
+  experience: 8.6
+  depth: 8.7
+  categories:
+    architecture: 8.9
+    food: 9.2
+    history: 8.9

@@ -1,0 +1,16 @@
+id: sight-in-anjuna-beach
+name: "Anjuna Beach"
+location:
+  country_code: IN
+  latitude: 15.5736
+  longitude: 73.7408
+scores:
+  impact: 8.3
+  uniqueness: 8.4
+  significance: 7.7
+  experience: 8.7
+  depth: 8.2
+  categories:
+    beaches: 8.4
+    nightlife: 9.0
+    photography: 8.2

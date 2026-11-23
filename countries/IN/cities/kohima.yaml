@@ -1,0 +1,15 @@
+id: city-in-kohima
+name: "Kohima"
+location:
+  country_code: IN
+  latitude: 25.6751
+  longitude: 94.1086
+scores:
+  impact: 7.7
+  uniqueness: 8.1
+  significance: 8.3
+  experience: 8.1
+  depth: 7.6
+  categories:
+    culture: 8.7
+    history: 8.5

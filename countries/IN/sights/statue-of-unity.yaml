@@ -1,0 +1,16 @@
+id: sight-in-statue-of-unity
+name: "Statue of Unity"
+location:
+  country_code: IN
+  latitude: 21.8380
+  longitude: 73.7191
+scores:
+  impact: 9.1
+  uniqueness: 9.5
+  significance: 8.2
+  experience: 9.0
+  depth: 9.1
+  categories:
+    architecture: 9.6
+    photography: 9.3
+    culture: 8.0

@@ -1,0 +1,16 @@
+id: sight-in-jaswant-thada
+name: "Jaswant Thada"
+location:
+  country_code: IN
+  latitude: 26.3030
+  longitude: 73.0244
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 8.4
+  experience: 8.8
+  depth: 7.2
+  categories:
+    architecture: 9.0
+    photography: 9.0
+    history: 8.3

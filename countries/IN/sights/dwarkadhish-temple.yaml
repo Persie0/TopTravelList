@@ -1,0 +1,16 @@
+id: sight-in-dwarkadhish-temple
+name: "Dwarkadhish Temple"
+location:
+  country_code: IN
+  latitude: 22.2376
+  longitude: 68.9674
+scores:
+  impact: 8.9
+  uniqueness: 9.3
+  significance: 9.4
+  experience: 9.2
+  depth: 8.0
+  categories:
+    culture: 9.7
+    history: 9.3
+    architecture: 9.1

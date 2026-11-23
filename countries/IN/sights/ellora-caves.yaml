@@ -1,0 +1,16 @@
+id: sight-in-ellora-caves
+name: "Ellora Caves"
+location:
+  country_code: IN
+  latitude: 20.0258
+  longitude: 75.1778
+scores:
+  impact: 9.8
+  uniqueness: 9.9
+  significance: 9.9
+  experience: 9.8
+  depth: 9.8
+  categories:
+    architecture: 9.9
+    history: 9.9
+    culture: 9.9

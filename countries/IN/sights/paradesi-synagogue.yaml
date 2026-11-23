@@ -1,0 +1,16 @@
+id: sight-in-paradesi-synagogue
+name: "Paradesi Synagogue"
+location:
+  country_code: IN
+  latitude: 9.9576
+  longitude: 76.2597
+scores:
+  impact: 8.7
+  uniqueness: 9.2
+  significance: 9.1
+  experience: 8.8
+  depth: 7.2
+  categories:
+    culture: 9.4
+    history: 9.2
+    architecture: 8.8

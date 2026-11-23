@@ -1,0 +1,16 @@
+id: sight-in-patwon-ki-haveli
+name: "Patwon ki Haveli"
+location:
+  country_code: IN
+  latitude: 26.9179
+  longitude: 70.9120
+scores:
+  impact: 8.8
+  uniqueness: 9.1
+  significance: 8.8
+  experience: 8.9
+  depth: 8.1
+  categories:
+    architecture: 9.5
+    history: 8.9
+    photography: 9.2

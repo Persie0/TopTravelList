@@ -1,0 +1,16 @@
+id: sight-in-minicoy-island
+name: "Minicoy Island"
+location:
+  country_code: IN
+  latitude: 8.2835
+  longitude: 73.0489
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 8.3
+  experience: 9.4
+  depth: 9.0
+  categories:
+    beaches: 9.5
+    nature: 9.3
+    culture: 8.8

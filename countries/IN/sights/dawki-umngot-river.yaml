@@ -1,0 +1,16 @@
+id: sight-in-dawki-umngot-river
+name: "Dawki Umngot River"
+location:
+  country_code: IN
+  latitude: 25.1885
+  longitude: 92.0201
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 7.4
+  experience: 9.0
+  depth: 7.9
+  categories:
+    nature: 9.2
+    photography: 9.4
+    relaxation: 8.7

@@ -1,0 +1,16 @@
+id: sight-in-loktak-lake
+name: "Loktak Lake"
+location:
+  country_code: IN
+  latitude: 24.5498
+  longitude: 93.7695
+scores:
+  impact: 9.1
+  uniqueness: 9.6
+  significance: 9.1
+  experience: 9.1
+  depth: 8.5
+  categories:
+    nature: 9.5
+    wildlife: 9.2
+    photography: 9.2

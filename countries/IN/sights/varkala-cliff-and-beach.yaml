@@ -1,0 +1,16 @@
+id: sight-in-varkala-cliff-and-beach
+name: "Varkala Cliff and Beach"
+location:
+  country_code: IN
+  latitude: 8.7369
+  longitude: 76.7039
+scores:
+  impact: 9.0
+  uniqueness: 9.1
+  significance: 8.1
+  experience: 9.4
+  depth: 8.5
+  categories:
+    beaches: 9.3
+    relaxation: 9.4
+    photography: 9.4

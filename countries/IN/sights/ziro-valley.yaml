@@ -1,0 +1,16 @@
+id: sight-in-ziro-valley
+name: "Ziro Valley"
+location:
+  country_code: IN
+  latitude: 27.5650
+  longitude: 93.8100
+scores:
+  impact: 8.7
+  uniqueness: 9.0
+  significance: 8.5
+  experience: 9.0
+  depth: 9.0
+  categories:
+    nature: 9.2
+    culture: 9.3
+    photography: 9.1

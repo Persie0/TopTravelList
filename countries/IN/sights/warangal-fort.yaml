@@ -1,0 +1,16 @@
+id: sight-in-warangal-fort
+name: "Warangal Fort"
+location:
+  country_code: IN
+  latitude: 17.9575
+  longitude: 79.6179
+scores:
+  impact: 8.9
+  uniqueness: 9.1
+  significance: 9.1
+  experience: 8.9
+  depth: 9.0
+  categories:
+    architecture: 9.3
+    history: 9.2
+    photography: 9.2

@@ -1,0 +1,15 @@
+id: sight-in-baratang-limestone-caves
+name: "Baratang Limestone Caves"
+location:
+  country_code: IN
+  latitude: 12.1754
+  longitude: 92.8010
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 7.9
+  experience: 8.8
+  depth: 7.8
+  categories:
+    nature: 9.0
+    adventure: 8.8

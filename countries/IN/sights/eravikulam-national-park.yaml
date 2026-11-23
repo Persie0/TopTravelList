@@ -1,0 +1,16 @@
+id: sight-in-eravikulam-national-park
+name: "Eravikulam National Park"
+location:
+  country_code: IN
+  latitude: 10.1706
+  longitude: 77.0612
+scores:
+  impact: 9.3
+  uniqueness: 9.5
+  significance: 9.2
+  experience: 9.4
+  depth: 9.0
+  categories:
+    nature: 9.6
+    wildlife: 9.5
+    adventure: 9.0

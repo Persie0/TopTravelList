@@ -1,0 +1,16 @@
+id: sight-in-fort-st-george-chennai
+name: "Fort St George Chennai"
+location:
+  country_code: IN
+  latitude: 13.0796
+  longitude: 80.2874
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 8.7
+  depth: 8.0
+  categories:
+    history: 9.2
+    architecture: 8.6
+    culture: 8.3

@@ -1,0 +1,16 @@
+id: sight-in-aga-khan-palace
+name: "Aga Khan Palace"
+location:
+  country_code: IN
+  latitude: 18.5525
+  longitude: 73.9022
+scores:
+  impact: 8.6
+  uniqueness: 8.6
+  significance: 9.2
+  experience: 8.8
+  depth: 8.1
+  categories:
+    history: 9.4
+    architecture: 8.7
+    culture: 8.7

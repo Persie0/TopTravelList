@@ -1,0 +1,16 @@
+id: sight-in-sanchi-stupa
+name: "Sanchi Stupa"
+location:
+  country_code: IN
+  latitude: 23.4793
+  longitude: 77.7399
+scores:
+  impact: 9.3
+  uniqueness: 9.5
+  significance: 9.7
+  experience: 9.3
+  depth: 9.0
+  categories:
+    history: 9.8
+    culture: 9.6
+    architecture: 9.4

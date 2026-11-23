@@ -1,0 +1,16 @@
+id: sight-in-vaishno-devi-shrine
+name: "Vaishno Devi Shrine"
+location:
+  country_code: IN
+  latitude: 33.0308
+  longitude: 74.9495
+scores:
+  impact: 8.7
+  uniqueness: 9.2
+  significance: 9.6
+  experience: 9.1
+  depth: 8.5
+  categories:
+    culture: 9.7
+    history: 9.1
+    adventure: 8.4

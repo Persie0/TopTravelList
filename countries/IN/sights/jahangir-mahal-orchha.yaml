@@ -1,0 +1,16 @@
+id: sight-in-jahangir-mahal-orchha
+name: "Jahangir Mahal Orchha"
+location:
+  country_code: IN
+  latitude: 25.3530
+  longitude: 78.6397
+scores:
+  impact: 9.1
+  uniqueness: 9.3
+  significance: 9.2
+  experience: 9.1
+  depth: 8.4
+  categories:
+    architecture: 9.5
+    photography: 9.5
+    history: 9.1

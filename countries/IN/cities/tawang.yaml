@@ -1,0 +1,15 @@
+id: city-in-tawang
+name: "Tawang"
+location:
+  country_code: IN
+  latitude: 27.5860
+  longitude: 91.8594
+scores:
+  impact: 8.1
+  uniqueness: 8.7
+  significance: 8.6
+  experience: 8.3
+  depth: 7.4
+  categories:
+    culture: 9.0
+    architecture: 8.7

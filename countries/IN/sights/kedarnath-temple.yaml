@@ -1,0 +1,16 @@
+id: sight-in-kedarnath-temple
+name: "Kedarnath Temple"
+location:
+  country_code: IN
+  latitude: 30.7352
+  longitude: 79.0669
+scores:
+  impact: 9.4
+  uniqueness: 9.7
+  significance: 9.8
+  experience: 9.4
+  depth: 8.4
+  categories:
+    culture: 9.9
+    history: 9.7
+    nature: 9.5

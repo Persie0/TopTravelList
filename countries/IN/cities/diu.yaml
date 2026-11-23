@@ -1,0 +1,16 @@
+id: city-in-diu
+name: "Diu"
+location:
+  country_code: IN
+  latitude: 20.7144
+  longitude: 70.9874
+scores:
+  impact: 7.8
+  uniqueness: 7.9
+  significance: 7.7
+  experience: 8.3
+  depth: 7.6
+  categories:
+    architecture: 8.0
+    beaches: 8.3
+    relaxation: 8.3

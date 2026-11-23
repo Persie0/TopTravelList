@@ -1,0 +1,16 @@
+id: city-in-darjeeling
+name: "Darjeeling"
+location:
+  country_code: IN
+  latitude: 27.0360
+  longitude: 88.2627
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 8.5
+  experience: 8.7
+  depth: 8.4
+  categories:
+    nature: 9.0
+    photography: 9.0
+    history: 8.5

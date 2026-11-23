@@ -1,0 +1,15 @@
+id: sight-in-keibul-lamjao-national-park
+name: "Keibul Lamjao National Park"
+location:
+  country_code: IN
+  latitude: 24.4795
+  longitude: 93.8386
+scores:
+  impact: 9.0
+  uniqueness: 9.8
+  significance: 9.3
+  experience: 8.6
+  depth: 8.1
+  categories:
+    wildlife: 9.5
+    nature: 9.6

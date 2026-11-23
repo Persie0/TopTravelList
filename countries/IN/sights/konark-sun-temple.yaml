@@ -1,0 +1,16 @@
+id: sight-in-konark-sun-temple
+name: "Konark Sun Temple"
+location:
+  country_code: IN
+  latitude: 19.8876
+  longitude: 86.0945
+scores:
+  impact: 9.8
+  uniqueness: 9.9
+  significance: 9.9
+  experience: 9.6
+  depth: 9.2
+  categories:
+    architecture: 9.9
+    history: 9.9
+    photography: 9.8

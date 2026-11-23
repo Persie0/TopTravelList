@@ -2,7 +2,7 @@
 
 # India (IN) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**97 ranked** · **0 unassessed** · **97 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,107 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, or click its GPS coordinates to open **Google Maps**. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (97)
 
-No cities, towns & villages have been assessed for **India** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps |
+| ---: | --- | --- | ---: | --- | --- | --- |
+| 1 | [Varanasi](cities/varanasi.yaml) | City / town | **93.50** | **Culture 9.8**, **History 9.5**, **Photography 9.3** | 9.3 / 9.6 / 9.5 / 9.0 / 9.1 | [25.3176, 82.9739](https://www.google.com/maps/search/?api=1&query=25.3176,82.9739) |
+| 2 | [Delhi](cities/delhi.yaml) | City / town | **93.25** | **History 9.6**, **Culture 9.3**, **Architecture 9.2**, Food 9.2 | 9.4 / 9.2 / 9.6 / 8.9 / 9.5 | [28.6139, 77.209](https://www.google.com/maps/search/?api=1&query=28.6139,77.209) |
+| 3 | [Jaipur](cities/jaipur.yaml) | City / town | **91.35** | **Architecture 9.5**, **History 9.2**, **Culture 9.0**, Food 8.6 | 9.2 / 9.1 / 9.2 / 9.0 / 9.1 | [26.9124, 75.7873](https://www.google.com/maps/search/?api=1&query=26.9124,75.7873) |
+| 4 | [Udaipur](cities/udaipur.yaml) | City / town | **90.15** | **Photography 9.4**, **Architecture 9.1**, **History 8.9** | 9.0 / 9.2 / 8.8 / 9.1 / 8.9 | [24.5854, 73.7125](https://www.google.com/maps/search/?api=1&query=24.5854,73.7125) |
+| 5 | [Madurai](cities/madurai.yaml) | City / town | **90.05** | **Culture 9.5**, **Architecture 9.2**, **History 9.2** | 8.9 / 9.2 / 9.2 / 8.9 / 8.6 | [9.9252, 78.1198](https://www.google.com/maps/search/?api=1&query=9.9252,78.1198) |
+| 6 | [Srinagar](cities/srinagar.yaml) | City / town | **89.90** | **Nature 9.2**, **Photography 9.2**, **Culture 8.8** | 9.0 / 9.2 / 8.8 / 9.0 / 8.8 | [34.0837, 74.7973](https://www.google.com/maps/search/?api=1&query=34.0837,74.7973) |
+| 7 | [Kolkata](cities/kolkata.yaml) | City / town | **89.80** | **Culture 9.3**, **History 9.0**, **Food 8.9** | 8.9 / 9.0 / 9.1 / 8.8 / 9.2 | [22.5726, 88.3639](https://www.google.com/maps/search/?api=1&query=22.5726,88.3639) |
+| 8 | [Mumbai](cities/mumbai.yaml) | City / town | **89.75** | **Food 9.3**, **Nightlife 9.2**, **Culture 9.1**, Architecture 9.0 | 9.0 / 8.9 / 9.0 / 8.8 / 9.3 | [19.076, 72.8777](https://www.google.com/maps/search/?api=1&query=19.076,72.8777) |
+| 9 | [Jaisalmer](cities/jaisalmer.yaml) | City / town | **89.55** | **Photography 9.4**, **Architecture 9.1**, **History 8.7** | 9.0 / 9.3 / 8.8 / 8.8 / 8.5 | [26.9157, 70.9083](https://www.google.com/maps/search/?api=1&query=26.9157,70.9083) |
+| 10 | [Kochi](cities/kochi.yaml) | City / town | **89.50** | **Culture 9.3**, **Architecture 9.0**, **Food 9.0** | 8.8 / 9.0 / 9.1 / 9.0 / 8.9 | [9.9312, 76.2673](https://www.google.com/maps/search/?api=1&query=9.9312,76.2673) |
+| 11 | [Amritsar](cities/amritsar.yaml) | City / town | **88.90** | **Culture 9.4**, **History 9.2**, **Food 8.7** | 8.9 / 8.9 / 9.1 / 8.9 / 8.4 | [31.634, 74.8723](https://www.google.com/maps/search/?api=1&query=31.634,74.8723) |
+| 12 | [Hyderabad](cities/hyderabad.yaml) | City / town | **88.45** | **Food 9.4**, **History 9.2**, **Architecture 9.0** | 8.8 / 8.8 / 9.0 / 8.7 / 9.0 | [17.385, 78.4867](https://www.google.com/maps/search/?api=1&query=17.385,78.4867) |
+| 13 | [Mysuru](cities/mysuru.yaml) | City / town | **88.40** | **Architecture 9.2**, **Culture 9.0**, **Food 8.6** | 8.7 / 8.9 / 8.9 / 8.9 / 8.9 | [12.2958, 76.6394](https://www.google.com/maps/search/?api=1&query=12.2958,76.6394) |
+| 14 | [Leh](cities/leh.yaml) | City / town | **88.10** | **Culture 9.0**, **Photography 9.0**, **Architecture 8.8** | 8.8 / 9.1 / 8.6 / 8.7 / 8.7 | [34.1526, 77.5771](https://www.google.com/maps/search/?api=1&query=34.1526,77.5771) |
+| 15 | [Orchha](cities/orchha.yaml) | City / town | **88.00** | **Architecture 9.2**, **Photography 9.2**, **History 9.0** | 8.8 / 9.0 / 8.8 / 8.8 / 8.3 | [25.3519, 78.6405](https://www.google.com/maps/search/?api=1&query=25.3519,78.6405) |
+| 16 | [Ahmedabad](cities/ahmedabad.yaml) | City / town | **87.70** | **Architecture 9.0**, **History 8.9**, **Food 8.7** | 8.7 / 8.8 / 8.9 / 8.6 / 8.9 | [23.0225, 72.5714](https://www.google.com/maps/search/?api=1&query=23.0225,72.5714) |
+| 17 | [Jodhpur](cities/jodhpur.yaml) | City / town | **87.40** | **Photography 9.1**, **Architecture 9.0**, **History 8.8** | 8.8 / 8.7 / 8.8 / 8.7 / 8.6 | [26.2389, 73.0243](https://www.google.com/maps/search/?api=1&query=26.2389,73.0243) |
+| 18 | [Bodh Gaya](cities/bodh-gaya.yaml) | City / town | **87.25** | **Culture 9.5**, **History 9.2** | 8.3 / 9.0 / 9.3 / 8.7 / 8.2 | [24.6959, 84.9913](https://www.google.com/maps/search/?api=1&query=24.6959,84.9913) |
+| 19 | [Thanjavur](cities/thanjavur.yaml) | City / town | **86.50** | **History 9.2**, **Culture 9.1**, **Architecture 9.0** | 8.5 / 8.7 / 9.1 / 8.5 / 8.3 | [10.787, 79.1378](https://www.google.com/maps/search/?api=1&query=10.787,79.1378) |
+| 20 | [Rishikesh](cities/rishikesh.yaml) | City / town | **86.40** | **Adventure 9.0**, **Culture 9.0**, **Nature 8.8** | 8.6 / 8.6 / 8.5 / 9.0 / 8.6 | [30.0869, 78.2676](https://www.google.com/maps/search/?api=1&query=30.0869,78.2676) |
+| 21 | [Darjeeling](cities/darjeeling.yaml) | City / town | **86.25** | **Nature 9.0**, **Photography 9.0**, **History 8.5** | 8.6 / 8.8 / 8.5 / 8.7 / 8.4 | [27.036, 88.2627](https://www.google.com/maps/search/?api=1&query=27.036,88.2627) |
+| 22 | [Lucknow](cities/lucknow.yaml) | City / town | **86.10** | **Food 9.2**, **Architecture 8.9**, **History 8.9** | 8.4 / 8.6 / 8.9 / 8.6 / 8.7 | [26.8467, 80.9462](https://www.google.com/maps/search/?api=1&query=26.8467,80.9462) |
+| 23 | [Chandigarh](cities/chandigarh.yaml) | City / town | **85.90** | **Architecture 9.6**, **Photography 8.6**, **Culture 8.1** | 8.2 / 9.0 / 8.9 / 8.4 / 8.4 | [30.7333, 76.7794](https://www.google.com/maps/search/?api=1&query=30.7333,76.7794) |
+| 24 | [Puri](cities/puri.yaml) | City / town | **85.55** | **Culture 9.2**, **History 8.8**, **Beaches 8.2** | 8.3 / 8.7 / 8.9 / 8.6 / 8.2 | [19.8135, 85.8312](https://www.google.com/maps/search/?api=1&query=19.8135,85.8312) |
+| 25 | [Agra](cities/agra.yaml) | City / town | **84.80** | **History 9.0**, **Architecture 8.9**, **Photography 8.6** | 8.6 / 8.4 / 8.9 / 8.0 / 8.2 | [27.1767, 78.0081](https://www.google.com/maps/search/?api=1&query=27.1767,78.0081) |
+| 25 | [Shimla](cities/shimla.yaml) | City / town | **84.80** | **Architecture 8.7**, **History 8.6**, **Photography 8.6** | 8.5 / 8.4 / 8.5 / 8.6 / 8.4 | [31.1048, 77.1734](https://www.google.com/maps/search/?api=1&query=31.1048,77.1734) |
+| 27 | [Bhubaneswar](cities/bhubaneswar.yaml) | City / town | **84.65** | **Architecture 9.0**, **History 8.8**, **Culture 8.7** | 8.2 / 8.5 / 8.8 / 8.4 / 8.6 | [20.2961, 85.8245](https://www.google.com/maps/search/?api=1&query=20.2961,85.8245) |
+| 28 | [Puducherry](cities/puducherry.yaml) | City / town | **84.60** | **Culture 8.8**, **Architecture 8.7**, **Food 8.6** | 8.4 / 8.6 / 8.2 / 8.8 / 8.3 | [11.9416, 79.8083](https://www.google.com/maps/search/?api=1&query=11.9416,79.8083) |
+| 29 | [Mahabalipuram](cities/mahabalipuram.yaml) | City / town | **84.30** | **Architecture 9.0**, **History 8.9** | 8.2 / 8.7 / 8.7 / 8.5 / 7.8 | [12.6208, 80.1945](https://www.google.com/maps/search/?api=1&query=12.6208,80.1945) |
+| 30 | [Dharamshala](cities/dharamshala.yaml) | City / town | **84.25** | **Culture 9.0**, **Nature 8.2** | 8.1 / 8.6 / 8.7 / 8.5 / 8.3 | [32.219, 76.3234](https://www.google.com/maps/search/?api=1&query=32.219,76.3234) |
+| 31 | [Prayagraj](cities/prayagraj.yaml) | City / town | **84.10** | **Culture 9.1**, **History 8.7** | 8.1 / 8.5 / 8.9 / 8.3 / 8.3 | [25.4358, 81.8463](https://www.google.com/maps/search/?api=1&query=25.4358,81.8463) |
+| 32 | [Bundi](cities/bundi.yaml) | City / town | **84.00** | **Photography 8.9**, **Architecture 8.7**, **History 8.3** | 8.5 / 8.6 / 8.3 / 8.4 / 7.8 | [25.4305, 75.6499](https://www.google.com/maps/search/?api=1&query=25.4305,75.6499) |
+| 32 | [Vrindavan](cities/vrindavan.yaml) | City / town | **84.00** | **Culture 9.2**, **Architecture 8.3** | 8.1 / 8.7 / 8.6 / 8.5 / 8.0 | [27.565, 77.6593](https://www.google.com/maps/search/?api=1&query=27.565,77.6593) |
+| 34 | [Chennai](cities/chennai.yaml) | City / town | **83.95** | **Culture 9.1**, **Food 8.9**, **History 8.2** | 8.2 / 8.2 / 8.7 / 8.5 / 8.7 | [13.0827, 80.2707](https://www.google.com/maps/search/?api=1&query=13.0827,80.2707) |
+| 35 | [Haridwar](cities/haridwar.yaml) | City / town | **83.70** | **Culture 9.0**, **History 8.3** | 8.1 / 8.5 / 8.7 / 8.5 / 8.0 | [29.9457, 78.1642](https://www.google.com/maps/search/?api=1&query=29.9457,78.1642) |
+| 36 | [Ayodhya](cities/ayodhya.yaml) | City / town | **83.65** | **Culture 9.3**, **History 8.6** | 8.0 / 8.6 / 8.9 / 8.3 / 7.9 | [26.7922, 82.1998](https://www.google.com/maps/search/?api=1&query=26.7922,82.1998) |
+| 36 | [Gangtok](cities/gangtok.yaml) | City / town | **83.65** | **Nature 8.8**, **Culture 8.7** | 8.3 / 8.5 / 8.2 / 8.6 / 8.2 | [27.3389, 88.6065](https://www.google.com/maps/search/?api=1&query=27.3389,88.6065) |
+| 38 | [Rameswaram](cities/rameswaram.yaml) | City / town | **83.60** | **Culture 9.2**, **Architecture 8.8** | 8.1 / 8.6 / 8.7 / 8.4 / 7.8 | [9.2876, 79.3129](https://www.google.com/maps/search/?api=1&query=9.2876,79.3129) |
+| 39 | [Khajuraho](cities/khajuraho.yaml) | City / town | **83.55** | **Architecture 8.8**, **History 8.7** | 8.2 / 8.5 / 8.8 / 8.2 / 7.8 | [24.8318, 79.9199](https://www.google.com/maps/search/?api=1&query=24.8318,79.9199) |
+| 40 | [Tawang](cities/tawang.yaml) | City / town | **83.10** | **Culture 9.0**, **Architecture 8.7** | 8.1 / 8.7 / 8.6 / 8.3 / 7.4 | [27.586, 91.8594](https://www.google.com/maps/search/?api=1&query=27.586,91.8594) |
+| 41 | [Hampi](cities/hampi.yaml) | City / town | **82.95** | **History 8.9**, **Photography 8.7** | 8.1 / 8.5 / 8.5 / 8.4 / 7.8 | [15.335, 76.46](https://www.google.com/maps/search/?api=1&query=15.335,76.46) |
+| 42 | [Gwalior](cities/gwalior.yaml) | City / town | **82.85** | **History 8.8**, **Architecture 8.7** | 8.2 / 8.3 / 8.5 / 8.2 / 8.2 | [26.2183, 78.1828](https://www.google.com/maps/search/?api=1&query=26.2183,78.1828) |
+| 43 | [Ujjain](cities/ujjain.yaml) | City / town | **82.80** | **Culture 9.1**, **History 8.5** | 7.9 / 8.5 / 8.8 / 8.3 / 7.8 | [23.1765, 75.7885](https://www.google.com/maps/search/?api=1&query=23.1765,75.7885) |
+| 44 | [Thiruvananthapuram](cities/thiruvananthapuram.yaml) | City / town | **82.75** | **Culture 8.7**, **Architecture 8.6** | 8.1 / 8.1 / 8.6 / 8.4 / 8.4 | [8.5241, 76.9366](https://www.google.com/maps/search/?api=1&query=8.5241,76.9366) |
+| 45 | [Pushkar](cities/pushkar.yaml) | City / town | **82.60** | **Culture 8.9**, **Photography 8.3**, **History 8.2** | 8.0 / 8.6 / 8.4 / 8.4 / 7.7 | [26.4902, 74.5529](https://www.google.com/maps/search/?api=1&query=26.4902,74.5529) |
+| 46 | [Bengaluru](cities/bengaluru.yaml) | City / town | **82.25** | **Food 8.8**, **Nightlife 8.8**, **Culture 8.3** | 8.2 / 8.0 / 8.1 / 8.5 / 8.7 | [12.9716, 77.5946](https://www.google.com/maps/search/?api=1&query=12.9716,77.5946) |
+| 47 | [Tiruchirappalli](cities/tiruchirappalli.yaml) | City / town | **82.15** | **Culture 8.7**, **History 8.5** | 8.1 / 8.2 / 8.4 / 8.3 / 8.1 | [10.7905, 78.7047](https://www.google.com/maps/search/?api=1&query=10.7905,78.7047) |
+| 48 | [Alappuzha](cities/alappuzha.yaml) | City / town | **82.10** | **Nature 8.9**, **Relaxation 8.7** | 8.2 / 8.4 / 7.8 / 8.6 / 8.0 | [9.4981, 76.3388](https://www.google.com/maps/search/?api=1&query=9.4981,76.3388) |
+| 49 | [Gulmarg](cities/gulmarg.yaml) | City / town | **81.75** | **Nature 9.1**, **Adventure 9.0**, **Photography 9.0** | 8.4 / 8.5 / 7.3 / 8.8 / 7.5 | [34.0484, 74.3805](https://www.google.com/maps/search/?api=1&query=34.0484,74.3805) |
+| 49 | [Mathura](cities/mathura.yaml) | City / town | **81.75** | **Culture 9.0**, **History 8.3** | 7.9 / 8.3 / 8.5 / 8.2 / 8.0 | [27.4924, 77.6737](https://www.google.com/maps/search/?api=1&query=27.4924,77.6737) |
+| 49 | [Shillong](cities/shillong.yaml) | City / town | **81.75** | **Culture 8.6**, **Nature 8.5**, **Food 8.3** | 8.1 / 8.2 / 8.0 / 8.5 / 8.2 | [25.5788, 91.8933](https://www.google.com/maps/search/?api=1&query=25.5788,91.8933) |
+| 52 | [Patan](cities/patan.yaml) | City / town | **81.65** | **History 8.9**, **Architecture 8.7** | 7.9 / 8.3 / 8.8 / 8.0 / 7.6 | [23.8493, 72.1266](https://www.google.com/maps/search/?api=1&query=23.8493,72.1266) |
+| 52 | [Rajgir](cities/rajgir.yaml) | City / town | **81.65** | **History 8.9**, **Culture 8.6** | 7.8 / 8.3 / 8.7 / 8.2 / 7.8 | [25.026, 85.417](https://www.google.com/maps/search/?api=1&query=25.026,85.417) |
+| 54 | [Gokarna](cities/gokarna.yaml) | City / town | **81.60** | **Beaches 8.8**, **Relaxation 8.7**, **Culture 8.1** | 8.2 / 8.3 / 7.8 / 8.7 / 7.6 | [14.5479, 74.3188](https://www.google.com/maps/search/?api=1&query=14.5479,74.3188) |
+| 55 | [Munnar](cities/munnar.yaml) | City / town | **81.40** | **Nature 9.0**, **Photography 9.0**, **Relaxation 8.8** | 8.3 / 8.3 / 7.4 / 8.7 / 7.9 | [10.0889, 77.0595](https://www.google.com/maps/search/?api=1&query=10.0889,77.0595) |
+| 56 | [Badami](cities/badami.yaml) | City / town | **81.30** | **Photography 8.5**, **Architecture 8.4** | 8.0 / 8.3 / 8.2 / 8.3 / 7.7 | [15.9149, 75.6768](https://www.google.com/maps/search/?api=1&query=15.9149,75.6768) |
+| 56 | [Guwahati](cities/guwahati.yaml) | City / town | **81.30** | **Culture 8.6**, **Food 8.3** | 7.9 / 8.1 / 8.2 / 8.3 / 8.5 | [26.1445, 91.7362](https://www.google.com/maps/search/?api=1&query=26.1445,91.7362) |
+| 58 | [Bikaner](cities/bikaner.yaml) | City / town | **81.20** | **Architecture 8.6**, **History 8.3**, **Food 8.0** | 8.0 / 8.1 / 8.3 / 8.1 / 8.2 | [28.0229, 73.3119](https://www.google.com/maps/search/?api=1&query=28.0229,73.3119) |
+| 59 | [Ooty](cities/ooty.yaml) | City / town | **81.05** | **Nature 8.8**, **Relaxation 8.6** | 8.2 / 7.9 / 7.8 / 8.6 / 8.2 | [11.4064, 76.6932](https://www.google.com/maps/search/?api=1&query=11.4064,76.6932) |
+| 59 | [Panaji](cities/panaji.yaml) | City / town | **81.05** | **Architecture 8.6**, **Culture 8.6**, **Food 8.5** | 8.0 / 8.0 / 8.0 / 8.5 / 8.3 | [15.4909, 73.8278](https://www.google.com/maps/search/?api=1&query=15.4909,73.8278) |
+| 61 | [Manali](cities/manali.yaml) | City / town | **80.85** | **Adventure 8.9**, **Nature 8.8**, **Relaxation 8.3** | 8.1 / 8.1 / 7.4 / 8.8 / 8.3 | [32.2432, 77.1892](https://www.google.com/maps/search/?api=1&query=32.2432,77.1892) |
+| 62 | [Bhopal](cities/bhopal.yaml) | City / town | **80.70** | **Culture 8.4**, **Nature 8.1**, **History 7.9** | 7.9 / 8.0 / 8.1 / 8.2 / 8.5 | [23.2599, 77.4126](https://www.google.com/maps/search/?api=1&query=23.2599,77.4126) |
+| 63 | [Patna](cities/patna.yaml) | City / town | **80.50** | **History 8.8**, **Culture 8.0** | 7.7 / 8.1 / 8.6 / 7.9 / 8.1 | [25.5941, 85.1376](https://www.google.com/maps/search/?api=1&query=25.5941,85.1376) |
+| 64 | [Nainital](cities/nainital.yaml) | City / town | **80.25** | **Nature 8.7**, **Photography 8.6**, **Relaxation 8.5** | 8.2 / 8.0 / 7.5 / 8.5 / 7.9 | [29.3919, 79.4542](https://www.google.com/maps/search/?api=1&query=29.3919,79.4542) |
+| 64 | [Pune](cities/pune.yaml) | City / town | **80.25** | **Food 8.3**, **Culture 8.2**, **History 8.0** | 7.9 / 7.8 / 8.0 / 8.3 / 8.6 | [18.5204, 73.8567](https://www.google.com/maps/search/?api=1&query=18.5204,73.8567) |
+| 66 | [Kanyakumari](cities/kanyakumari.yaml) | City / town | **80.20** | **Photography 8.6**, **Culture 8.1** | 8.0 / 8.2 / 7.8 / 8.4 / 7.5 | [8.0883, 77.5385](https://www.google.com/maps/search/?api=1&query=8.0883,77.5385) |
+| 66 | [Varkala](cities/varkala.yaml) | City / town | **80.20** | **Beaches 8.8**, **Relaxation 8.8**, **Photography 8.5** | 8.0 / 8.4 / 7.4 / 8.6 / 7.5 | [8.7379, 76.7163](https://www.google.com/maps/search/?api=1&query=8.7379,76.7163) |
+| 68 | [Kalimpong](cities/kalimpong.yaml) | City / town | **79.70** | **Nature 8.4**, **Culture 8.1** | 7.9 / 8.2 / 7.7 / 8.2 / 7.8 | [27.0667, 88.4667](https://www.google.com/maps/search/?api=1&query=27.0667,88.4667) |
+| 68 | [Kohima](cities/kohima.yaml) | City / town | **79.70** | **Culture 8.7**, **History 8.5** | 7.7 / 8.1 / 8.3 / 8.1 / 7.6 | [25.6751, 94.1086](https://www.google.com/maps/search/?api=1&query=25.6751,94.1086) |
+| 70 | [Bhuj](cities/bhuj.yaml) | City / town | **79.65** | **Culture 8.5**, **Architecture 8.2** | 7.7 / 8.1 / 8.1 / 8.2 / 7.8 | [23.2419, 69.6669](https://www.google.com/maps/search/?api=1&query=23.2419,69.6669) |
+| 71 | [Pahalgam](cities/pahalgam.yaml) | City / town | **79.55** | **Nature 8.8**, **Relaxation 8.7** | 8.2 / 8.1 / 7.1 / 8.6 / 7.6 | [34.0161, 75.315](https://www.google.com/maps/search/?api=1&query=34.0161,75.315) |
+| 72 | [Ajmer](cities/ajmer.yaml) | City / town | **79.35** | **Culture 8.5**, **History 8.2** | 7.7 / 7.8 / 8.4 / 8.1 / 7.8 | [26.4499, 74.6399](https://www.google.com/maps/search/?api=1&query=26.4499,74.6399) |
+| 73 | [Nashik](cities/nashik.yaml) | City / town | **79.30** | **Culture 8.5**, **Food 8.0** | 7.8 / 7.8 / 8.0 / 8.2 / 8.1 | [19.9975, 73.7898](https://www.google.com/maps/search/?api=1&query=19.9975,73.7898) |
+| 74 | [Chhatrapati Sambhajinagar](cities/chhatrapati-sambhajinagar.yaml) | City / town | **79.05** | **History 8.2**, **Architecture 8.0** | 7.8 / 7.7 / 8.0 / 8.2 / 8.1 | [19.8762, 75.3433](https://www.google.com/maps/search/?api=1&query=19.8762,75.3433) |
+| 75 | [Diu](cities/diu.yaml) | City / town | **78.60** | **Beaches 8.3**, **Relaxation 8.3**, **Architecture 8.0** | 7.8 / 7.9 / 7.7 / 8.3 / 7.6 | [20.7144, 70.9874](https://www.google.com/maps/search/?api=1&query=20.7144,70.9874) |
+| 76 | [Pelling](cities/pelling.yaml) | City / town | **78.45** | **Nature 8.8**, **Photography 8.7** | 7.8 / 8.1 / 7.5 / 8.2 / 7.5 | [27.3032, 88.2345](https://www.google.com/maps/search/?api=1&query=27.3032,88.2345) |
+| 77 | [Ziro](cities/ziro.yaml) | City / town | **78.35** | **Culture 8.6**, **Nature 8.4** | 7.7 / 8.2 / 7.6 / 8.1 / 7.4 | [27.59, 93.8298](https://www.google.com/maps/search/?api=1&query=27.59,93.8298) |
+| 78 | [Kodaikanal](cities/kodaikanal.yaml) | City / town | **78.30** | **Nature 8.7**, **Relaxation 8.7** | 8.0 / 7.7 / 7.2 / 8.5 / 7.9 | [10.2381, 77.4892](https://www.google.com/maps/search/?api=1&query=10.2381,77.4892) |
+| 79 | [Imphal](cities/imphal.yaml) | City / town | **78.15** | **Culture 8.3**, **History 8.1** | 7.5 / 8.0 / 8.1 / 7.9 / 7.6 | [24.817, 93.9368](https://www.google.com/maps/search/?api=1&query=24.817,93.9368) |
+| 80 | [Port Blair](cities/port-blair.yaml) | City / town | **78.10** | **History 8.2**, **Nature 8.0** | 7.6 / 7.8 / 8.0 / 8.0 / 7.8 | [11.6234, 92.7265](https://www.google.com/maps/search/?api=1&query=11.6234,92.7265) |
+| 81 | [Mussoorie](cities/mussoorie.yaml) | City / town | **78.05** | **Nature 8.4**, **Photography 8.3**, **Relaxation 8.1** | 8.0 / 7.8 / 7.2 / 8.3 / 7.7 | [30.4599, 78.0644](https://www.google.com/maps/search/?api=1&query=30.4599,78.0644) |
+| 82 | [Mangaluru](cities/mangaluru.yaml) | City / town | **77.75** | **Food 8.5**, **Beaches 7.6** | 7.7 / 7.6 / 7.7 / 8.1 / 8.1 | [12.9141, 74.856](https://www.google.com/maps/search/?api=1&query=12.9141,74.856) |
+| 83 | [Konark](cities/konark.yaml) | City / town | **77.70** | **History 8.6**, **Architecture 8.3** | 7.5 / 8.0 / 8.3 / 7.8 / 6.9 | [19.8876, 86.0945](https://www.google.com/maps/search/?api=1&query=19.8876,86.0945) |
+| 84 | [Kumarakom](cities/kumarakom.yaml) | City / town | **77.60** | **Relaxation 9.0**, **Nature 8.8** | 7.9 / 7.9 / 7.1 / 8.5 / 7.2 | [9.6175, 76.429](https://www.google.com/maps/search/?api=1&query=9.6175,76.429) |
+| 85 | [Sohra](cities/sohra.yaml) | City / town | **77.55** | **Nature 8.9**, **Photography 8.6** | 7.8 / 8.0 / 7.5 / 8.1 / 7.0 | [25.284, 91.7212](https://www.google.com/maps/search/?api=1&query=25.284,91.7212) |
+| 86 | [Aizawl](cities/aizawl.yaml) | City / town | **77.35** | **Culture 8.2**, **Photography 8.1** | 7.6 / 8.1 / 7.4 / 8.0 / 7.5 | [23.7271, 92.7176](https://www.google.com/maps/search/?api=1&query=23.7271,92.7176) |
+| 87 | [Madikeri](cities/madikeri.yaml) | City / town | **77.10** | **Nature 8.5**, **Food 8.0** | 7.7 / 7.8 / 7.3 / 8.2 / 7.6 | [12.4244, 75.7382](https://www.google.com/maps/search/?api=1&query=12.4244,75.7382) |
+| 88 | [Almora](cities/almora.yaml) | City / town | **76.55** | **Culture 7.9**, **Photography 7.8** | 7.5 / 7.8 / 7.5 / 7.9 / 7.7 | [29.5971, 79.6591](https://www.google.com/maps/search/?api=1&query=29.5971,79.6591) |
+| 89 | [Indore](cities/indore.yaml) | City / town | **75.95** | **Food 8.9**, **Culture 7.5** | 7.6 / 7.3 / 7.3 / 8.2 / 8.0 | [22.7196, 75.8577](https://www.google.com/maps/search/?api=1&query=22.7196,75.8577) |
+| 90 | [Dehradun](cities/dehradun.yaml) | City / town | **75.45** | **Food 7.7**, **Nature 7.7** | 7.5 / 7.4 / 7.3 / 7.9 / 8.0 | [30.3165, 78.0322](https://www.google.com/maps/search/?api=1&query=30.3165,78.0322) |
+| 91 | [Thekkady](cities/thekkady.yaml) | City / town | **74.75** | **Nature 8.5**, **Wildlife 8.4** | 7.5 / 7.5 / 6.9 / 8.2 / 7.4 | [9.6031, 77.162](https://www.google.com/maps/search/?api=1&query=9.6031,77.162) |
+| 92 | [Margao](cities/margao.yaml) | City / town | **74.15** | **Food 8.0**, **Culture 7.8** | 7.3 / 7.2 / 7.3 / 7.9 / 7.8 | [15.2832, 73.9862](https://www.google.com/maps/search/?api=1&query=15.2832,73.9862) |
+| 93 | [Kargil](cities/kargil.yaml) | City / town | **73.25** | **History 7.8**, **Photography 7.5** | 7.1 / 7.5 / 7.5 / 7.4 / 7.1 | [34.5539, 76.1349](https://www.google.com/maps/search/?api=1&query=34.5539,76.1349) |
+| 94 | [Ranchi](cities/ranchi.yaml) | City / town | **72.80** | **Nature 7.6**, **Food 7.3** | 7.1 / 7.2 / 7.1 / 7.8 / 7.6 | [23.3441, 85.3096](https://www.google.com/maps/search/?api=1&query=23.3441,85.3096) |
+| 95 | [Jorhat](cities/jorhat.yaml) | City / town | **72.75** | **Culture 7.8**, **Food 7.6** | 7.0 / 7.4 / 7.1 / 7.7 / 7.5 | [26.7509, 94.2037](https://www.google.com/maps/search/?api=1&query=26.7509,94.2037) |
+| 96 | [Sawai Madhopur](cities/sawai-madhopur.yaml) | City / town | **71.30** | **Wildlife 7.3**, **Food 7.2** | 7.2 / 6.8 / 7.0 / 7.8 / 7.0 | [26.0173, 76.5026](https://www.google.com/maps/search/?api=1&query=26.0173,76.5026) |
+| 97 | [Raipur](cities/raipur.yaml) | City / town | **69.95** | **Food 7.5**, **Culture 7.0** | 6.8 / 6.8 / 6.9 / 7.5 / 7.5 | [21.2514, 81.6296](https://www.google.com/maps/search/?api=1&query=21.2514,81.6296) |
 
 ---
 

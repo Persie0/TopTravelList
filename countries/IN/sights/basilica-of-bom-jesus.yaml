@@ -1,0 +1,16 @@
+id: sight-in-basilica-of-bom-jesus
+name: "Basilica of Bom Jesus"
+location:
+  country_code: IN
+  latitude: 15.5009
+  longitude: 73.9115
+scores:
+  impact: 9.0
+  uniqueness: 9.3
+  significance: 9.3
+  experience: 9.1
+  depth: 8.2
+  categories:
+    architecture: 9.3
+    history: 9.5
+    culture: 9.2

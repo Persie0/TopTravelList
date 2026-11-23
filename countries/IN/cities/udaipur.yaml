@@ -1,0 +1,16 @@
+id: city-in-udaipur
+name: "Udaipur"
+location:
+  country_code: IN
+  latitude: 24.5854
+  longitude: 73.7125
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 8.8
+  experience: 9.1
+  depth: 8.9
+  categories:
+    architecture: 9.1
+    photography: 9.4
+    history: 8.9

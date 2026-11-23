@@ -1,0 +1,16 @@
+id: sight-in-belur-math
+name: "Belur Math"
+location:
+  country_code: IN
+  latitude: 22.6323
+  longitude: 88.3554
+scores:
+  impact: 9.1
+  uniqueness: 9.4
+  significance: 9.3
+  experience: 9.2
+  depth: 8.7
+  categories:
+    architecture: 9.2
+    culture: 9.6
+    history: 9.2

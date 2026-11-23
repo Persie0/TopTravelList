@@ -1,0 +1,16 @@
+id: city-in-amritsar
+name: "Amritsar"
+location:
+  country_code: IN
+  latitude: 31.6340
+  longitude: 74.8723
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 9.1
+  experience: 8.9
+  depth: 8.4
+  categories:
+    culture: 9.4
+    history: 9.2
+    food: 8.7

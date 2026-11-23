@@ -1,0 +1,16 @@
+id: sight-in-akbar-s-tomb-sikandra
+name: "Akbar's Tomb Sikandra"
+location:
+  country_code: IN
+  latitude: 27.2206
+  longitude: 77.9509
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.8
+  depth: 8.1
+  categories:
+    architecture: 9.1
+    history: 9.2
+    photography: 8.6

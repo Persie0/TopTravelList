@@ -1,0 +1,16 @@
+id: sight-in-adalaj-stepwell
+name: "Adalaj Stepwell"
+location:
+  country_code: IN
+  latitude: 23.1664
+  longitude: 72.5800
+scores:
+  impact: 8.8
+  uniqueness: 9.2
+  significance: 8.9
+  experience: 9.0
+  depth: 7.8
+  categories:
+    architecture: 9.5
+    history: 8.9
+    photography: 9.3

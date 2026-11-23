@@ -1,0 +1,16 @@
+id: sight-in-elephant-stables-hampi
+name: "Elephant Stables Hampi"
+location:
+  country_code: IN
+  latitude: 15.3236
+  longitude: 76.4635
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 8.8
+  depth: 7.4
+  categories:
+    architecture: 9.2
+    photography: 9.1
+    history: 8.9

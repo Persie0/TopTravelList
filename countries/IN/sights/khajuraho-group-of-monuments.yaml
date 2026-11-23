@@ -1,0 +1,16 @@
+id: sight-in-khajuraho-group-of-monuments
+name: "Khajuraho Group of Monuments"
+location:
+  country_code: IN
+  latitude: 24.8318
+  longitude: 79.9199
+scores:
+  impact: 9.7
+  uniqueness: 9.8
+  significance: 9.8
+  experience: 9.6
+  depth: 9.5
+  categories:
+    architecture: 9.9
+    history: 9.7
+    culture: 9.6

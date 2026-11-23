@@ -1,0 +1,16 @@
+id: sight-in-gir-national-park
+name: "Gir National Park"
+location:
+  country_code: IN
+  latitude: 21.1250
+  longitude: 70.8242
+scores:
+  impact: 9.4
+  uniqueness: 9.7
+  significance: 9.6
+  experience: 9.3
+  depth: 9.2
+  categories:
+    wildlife: 9.8
+    nature: 9.0
+    photography: 9.3

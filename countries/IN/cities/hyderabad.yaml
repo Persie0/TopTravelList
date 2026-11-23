@@ -1,0 +1,16 @@
+id: city-in-hyderabad
+name: "Hyderabad"
+location:
+  country_code: IN
+  latitude: 17.3850
+  longitude: 78.4867
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 8.7
+  depth: 9.0
+  categories:
+    history: 9.2
+    architecture: 9.0
+    food: 9.4

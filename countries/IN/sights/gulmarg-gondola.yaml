@@ -1,0 +1,16 @@
+id: sight-in-gulmarg-gondola
+name: "Gulmarg Gondola"
+location:
+  country_code: IN
+  latitude: 34.0551
+  longitude: 74.3822
+scores:
+  impact: 9.1
+  uniqueness: 9.2
+  significance: 7.8
+  experience: 9.3
+  depth: 8.4
+  categories:
+    nature: 9.5
+    adventure: 9.3
+    photography: 9.4

@@ -1,0 +1,16 @@
+id: sight-in-marina-beach-chennai
+name: "Marina Beach Chennai"
+location:
+  country_code: IN
+  latitude: 13.0501
+  longitude: 80.2824
+scores:
+  impact: 8.4
+  uniqueness: 8.4
+  significance: 8.0
+  experience: 8.4
+  depth: 8.1
+  categories:
+    beaches: 8.1
+    culture: 8.5
+    photography: 8.2

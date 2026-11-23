@@ -1,0 +1,16 @@
+id: city-in-gulmarg
+name: "Gulmarg"
+location:
+  country_code: IN
+  latitude: 34.0484
+  longitude: 74.3805
+scores:
+  impact: 8.4
+  uniqueness: 8.5
+  significance: 7.3
+  experience: 8.8
+  depth: 7.5
+  categories:
+    nature: 9.1
+    adventure: 9.0
+    photography: 9.0

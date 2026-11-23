@@ -1,0 +1,15 @@
+id: city-in-pelling
+name: "Pelling"
+location:
+  country_code: IN
+  latitude: 27.3032
+  longitude: 88.2345
+scores:
+  impact: 7.8
+  uniqueness: 8.1
+  significance: 7.5
+  experience: 8.2
+  depth: 7.5
+  categories:
+    nature: 8.8
+    photography: 8.7

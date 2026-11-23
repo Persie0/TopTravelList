@@ -1,0 +1,16 @@
+id: sight-in-champaner-pavagadh-archaeological-park
+name: "Champaner Pavagadh Archaeological Park"
+location:
+  country_code: IN
+  latitude: 22.4835
+  longitude: 73.5330
+scores:
+  impact: 9.3
+  uniqueness: 9.4
+  significance: 9.5
+  experience: 9.1
+  depth: 9.4
+  categories:
+    history: 9.6
+    architecture: 9.4
+    culture: 9.1

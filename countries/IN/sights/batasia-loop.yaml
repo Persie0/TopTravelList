@@ -1,0 +1,16 @@
+id: sight-in-batasia-loop
+name: "Batasia Loop"
+location:
+  country_code: IN
+  latitude: 27.0240
+  longitude: 88.2686
+scores:
+  impact: 8.7
+  uniqueness: 9.2
+  significance: 8.5
+  experience: 8.9
+  depth: 7.2
+  categories:
+    photography: 9.2
+    history: 8.7
+    architecture: 8.5

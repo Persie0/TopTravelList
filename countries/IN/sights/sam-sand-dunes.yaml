@@ -1,0 +1,16 @@
+id: sight-in-sam-sand-dunes
+name: "Sam Sand Dunes"
+location:
+  country_code: IN
+  latitude: 26.8350
+  longitude: 70.5300
+scores:
+  impact: 8.5
+  uniqueness: 8.0
+  significance: 6.7
+  experience: 8.6
+  depth: 8.0
+  categories:
+    nature: 8.7
+    photography: 9.0
+    adventure: 8.3

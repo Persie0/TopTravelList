@@ -1,0 +1,16 @@
+id: sight-in-pichavaram-mangrove-forest
+name: "Pichavaram Mangrove Forest"
+location:
+  country_code: IN
+  latitude: 11.4241
+  longitude: 79.7910
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 8.5
+  experience: 9.3
+  depth: 8.9
+  categories:
+    nature: 9.5
+    wildlife: 9.1
+    relaxation: 9.1

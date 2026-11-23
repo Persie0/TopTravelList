@@ -1,0 +1,16 @@
+id: sight-in-laxmi-vilas-palace-vadodara
+name: "Laxmi Vilas Palace Vadodara"
+location:
+  country_code: IN
+  latitude: 22.2937
+  longitude: 73.1910
+scores:
+  impact: 9.0
+  uniqueness: 9.1
+  significance: 8.8
+  experience: 9.1
+  depth: 8.6
+  categories:
+    architecture: 9.4
+    history: 8.8
+    culture: 8.8

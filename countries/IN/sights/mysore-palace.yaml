@@ -1,0 +1,16 @@
+id: sight-in-mysore-palace
+name: "Mysore Palace"
+location:
+  country_code: IN
+  latitude: 12.3052
+  longitude: 76.6552
+scores:
+  impact: 9.5
+  uniqueness: 9.4
+  significance: 9.3
+  experience: 9.6
+  depth: 9.0
+  categories:
+    architecture: 9.8
+    culture: 9.4
+    photography: 9.6

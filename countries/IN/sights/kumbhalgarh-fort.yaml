@@ -1,0 +1,16 @@
+id: sight-in-kumbhalgarh-fort
+name: "Kumbhalgarh Fort"
+location:
+  country_code: IN
+  latitude: 25.1479
+  longitude: 73.5872
+scores:
+  impact: 9.3
+  uniqueness: 9.4
+  significance: 9.4
+  experience: 9.1
+  depth: 9.5
+  categories:
+    architecture: 9.5
+    history: 9.4
+    photography: 9.5

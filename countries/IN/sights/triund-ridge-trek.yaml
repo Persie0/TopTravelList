@@ -1,0 +1,16 @@
+id: sight-in-triund-ridge-trek
+name: "Triund Ridge Trek"
+location:
+  country_code: IN
+  latitude: 32.2820
+  longitude: 76.3230
+scores:
+  impact: 8.7
+  uniqueness: 8.1
+  significance: 7.3
+  experience: 9.0
+  depth: 8.1
+  categories:
+    nature: 9.2
+    adventure: 9.1
+    photography: 9.0

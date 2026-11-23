@@ -1,0 +1,16 @@
+id: sight-in-ramappa-temple
+name: "Ramappa Temple"
+location:
+  country_code: IN
+  latitude: 18.2593
+  longitude: 79.9435
+scores:
+  impact: 9.3
+  uniqueness: 9.7
+  significance: 9.5
+  experience: 9.4
+  depth: 8.9
+  categories:
+    architecture: 9.8
+    history: 9.5
+    culture: 9.3

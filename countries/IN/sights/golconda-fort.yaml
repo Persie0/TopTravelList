@@ -1,0 +1,16 @@
+id: sight-in-golconda-fort
+name: "Golconda Fort"
+location:
+  country_code: IN
+  latitude: 17.3833
+  longitude: 78.4011
+scores:
+  impact: 9.4
+  uniqueness: 9.5
+  significance: 9.4
+  experience: 9.4
+  depth: 9.5
+  categories:
+    architecture: 9.6
+    history: 9.5
+    photography: 9.6

@@ -1,0 +1,16 @@
+id: sight-in-city-palace-udaipur
+name: "City Palace Udaipur"
+location:
+  country_code: IN
+  latitude: 24.5762
+  longitude: 73.6838
+scores:
+  impact: 9.3
+  uniqueness: 9.3
+  significance: 9.2
+  experience: 9.4
+  depth: 9.2
+  categories:
+    architecture: 9.5
+    history: 9.2
+    photography: 9.7

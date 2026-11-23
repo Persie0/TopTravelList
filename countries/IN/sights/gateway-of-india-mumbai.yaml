@@ -1,0 +1,16 @@
+id: sight-in-gateway-of-india-mumbai
+name: "Gateway of India Mumbai"
+location:
+  country_code: IN
+  latitude: 18.9220
+  longitude: 72.8347
+scores:
+  impact: 8.5
+  uniqueness: 8.6
+  significance: 8.9
+  experience: 8.8
+  depth: 7.0
+  categories:
+    architecture: 8.8
+    history: 9.0
+    photography: 9.0

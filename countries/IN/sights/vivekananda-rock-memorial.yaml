@@ -1,0 +1,16 @@
+id: sight-in-vivekananda-rock-memorial
+name: "Vivekananda Rock Memorial"
+location:
+  country_code: IN
+  latitude: 8.0776
+  longitude: 77.5556
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 9.0
+  experience: 8.9
+  depth: 7.5
+  categories:
+    culture: 9.0
+    photography: 9.3
+    architecture: 8.8

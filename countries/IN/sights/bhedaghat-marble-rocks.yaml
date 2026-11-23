@@ -1,0 +1,16 @@
+id: sight-in-bhedaghat-marble-rocks
+name: "Bhedaghat Marble Rocks"
+location:
+  country_code: IN
+  latitude: 23.1296
+  longitude: 79.8001
+scores:
+  impact: 9.1
+  uniqueness: 9.2
+  significance: 8.5
+  experience: 9.2
+  depth: 8.5
+  categories:
+    nature: 9.4
+    photography: 9.4
+    relaxation: 8.4

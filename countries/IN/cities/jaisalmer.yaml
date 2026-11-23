@@ -1,0 +1,16 @@
+id: city-in-jaisalmer
+name: "Jaisalmer"
+location:
+  country_code: IN
+  latitude: 26.9157
+  longitude: 70.9083
+scores:
+  impact: 9.0
+  uniqueness: 9.3
+  significance: 8.8
+  experience: 8.8
+  depth: 8.5
+  categories:
+    architecture: 9.1
+    history: 8.7
+    photography: 9.4

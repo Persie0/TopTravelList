@@ -1,0 +1,16 @@
+id: sight-in-tabo-monastery
+name: "Tabo Monastery"
+location:
+  country_code: IN
+  latitude: 32.0911
+  longitude: 78.3874
+scores:
+  impact: 9.0
+  uniqueness: 9.5
+  significance: 9.4
+  experience: 9.1
+  depth: 8.4
+  categories:
+    history: 9.5
+    culture: 9.5
+    architecture: 9.4

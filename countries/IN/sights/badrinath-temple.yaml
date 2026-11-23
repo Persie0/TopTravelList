@@ -1,0 +1,16 @@
+id: sight-in-badrinath-temple
+name: "Badrinath Temple"
+location:
+  country_code: IN
+  latitude: 30.7446
+  longitude: 79.4910
+scores:
+  impact: 8.9
+  uniqueness: 9.3
+  significance: 9.6
+  experience: 9.1
+  depth: 8.1
+  categories:
+    culture: 9.7
+    history: 9.2
+    nature: 9.0

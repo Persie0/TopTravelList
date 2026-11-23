@@ -1,0 +1,17 @@
+id: city-in-mumbai
+name: "Mumbai"
+location:
+  country_code: IN
+  latitude: 19.0760
+  longitude: 72.8777
+scores:
+  impact: 9.0
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.8
+  depth: 9.3
+  categories:
+    architecture: 9.0
+    culture: 9.1
+    food: 9.3
+    nightlife: 9.2

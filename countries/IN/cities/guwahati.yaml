@@ -1,0 +1,15 @@
+id: city-in-guwahati
+name: "Guwahati"
+location:
+  country_code: IN
+  latitude: 26.1445
+  longitude: 91.7362
+scores:
+  impact: 7.9
+  uniqueness: 8.1
+  significance: 8.2
+  experience: 8.3
+  depth: 8.5
+  categories:
+    culture: 8.6
+    food: 8.3

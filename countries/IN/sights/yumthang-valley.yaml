@@ -1,0 +1,16 @@
+id: sight-in-yumthang-valley
+name: "Yumthang Valley"
+location:
+  country_code: IN
+  latitude: 27.8157
+  longitude: 88.7034
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 8.2
+  experience: 9.3
+  depth: 8.8
+  categories:
+    nature: 9.5
+    photography: 9.6
+    relaxation: 9.0

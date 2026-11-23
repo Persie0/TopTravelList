@@ -1,0 +1,16 @@
+id: sight-in-chittorgarh-fort
+name: "Chittorgarh Fort"
+location:
+  country_code: IN
+  latitude: 24.8895
+  longitude: 74.6469
+scores:
+  impact: 9.3
+  uniqueness: 9.5
+  significance: 9.6
+  experience: 9.2
+  depth: 9.7
+  categories:
+    architecture: 9.5
+    history: 9.7
+    photography: 9.4

@@ -1,0 +1,15 @@
+id: city-in-ziro
+name: "Ziro"
+location:
+  country_code: IN
+  latitude: 27.5900
+  longitude: 93.8298
+scores:
+  impact: 7.7
+  uniqueness: 8.2
+  significance: 7.6
+  experience: 8.1
+  depth: 7.4
+  categories:
+    culture: 8.6
+    nature: 8.4

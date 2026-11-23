@@ -1,0 +1,15 @@
+id: sight-in-wayanad-wildlife-sanctuary
+name: "Wayanad Wildlife Sanctuary"
+location:
+  country_code: IN
+  latitude: 11.6500
+  longitude: 76.1800
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 8.7
+  experience: 9.0
+  depth: 9.0
+  categories:
+    wildlife: 9.2
+    nature: 9.1

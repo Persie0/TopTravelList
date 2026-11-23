@@ -1,0 +1,15 @@
+id: city-in-thiruvananthapuram
+name: "Thiruvananthapuram"
+location:
+  country_code: IN
+  latitude: 8.5241
+  longitude: 76.9366
+scores:
+  impact: 8.1
+  uniqueness: 8.1
+  significance: 8.6
+  experience: 8.4
+  depth: 8.4
+  categories:
+    architecture: 8.6
+    culture: 8.7

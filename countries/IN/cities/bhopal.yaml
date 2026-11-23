@@ -1,0 +1,16 @@
+id: city-in-bhopal
+name: "Bhopal"
+location:
+  country_code: IN
+  latitude: 23.2599
+  longitude: 77.4126
+scores:
+  impact: 7.9
+  uniqueness: 8.0
+  significance: 8.1
+  experience: 8.2
+  depth: 8.5
+  categories:
+    culture: 8.4
+    nature: 8.1
+    history: 7.9

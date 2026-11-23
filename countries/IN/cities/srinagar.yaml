@@ -1,0 +1,16 @@
+id: city-in-srinagar
+name: "Srinagar"
+location:
+  country_code: IN
+  latitude: 34.0837
+  longitude: 74.7973
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 8.8
+  experience: 9.0
+  depth: 8.8
+  categories:
+    nature: 9.2
+    photography: 9.2
+    culture: 8.8

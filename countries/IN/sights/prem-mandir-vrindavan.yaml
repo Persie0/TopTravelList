@@ -1,0 +1,16 @@
+id: sight-in-prem-mandir-vrindavan
+name: "Prem Mandir Vrindavan"
+location:
+  country_code: IN
+  latitude: 27.5751
+  longitude: 77.6715
+scores:
+  impact: 8.7
+  uniqueness: 8.7
+  significance: 7.2
+  experience: 9.0
+  depth: 8.3
+  categories:
+    architecture: 8.9
+    photography: 9.0
+    family: 8.8

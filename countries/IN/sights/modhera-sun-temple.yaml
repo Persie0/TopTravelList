@@ -1,0 +1,16 @@
+id: sight-in-modhera-sun-temple
+name: "Modhera Sun Temple"
+location:
+  country_code: IN
+  latitude: 23.5835
+  longitude: 72.1339
+scores:
+  impact: 9.2
+  uniqueness: 9.6
+  significance: 9.3
+  experience: 9.3
+  depth: 8.6
+  categories:
+    architecture: 9.8
+    history: 9.4
+    photography: 9.4

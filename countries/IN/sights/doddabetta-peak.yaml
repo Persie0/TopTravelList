@@ -1,0 +1,15 @@
+id: sight-in-doddabetta-peak
+name: "Doddabetta Peak"
+location:
+  country_code: IN
+  latitude: 11.4035
+  longitude: 76.7359
+scores:
+  impact: 8.5
+  uniqueness: 8.1
+  significance: 7.6
+  experience: 8.7
+  depth: 7.3
+  categories:
+    nature: 9.0
+    photography: 9.0

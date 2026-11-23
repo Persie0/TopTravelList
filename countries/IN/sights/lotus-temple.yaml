@@ -1,0 +1,16 @@
+id: sight-in-lotus-temple
+name: "Lotus Temple"
+location:
+  country_code: IN
+  latitude: 28.5535
+  longitude: 77.2588
+scores:
+  impact: 8.9
+  uniqueness: 9.5
+  significance: 8.5
+  experience: 8.8
+  depth: 7.7
+  categories:
+    architecture: 9.6
+    photography: 9.0
+    culture: 8.2

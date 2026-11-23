@@ -1,0 +1,16 @@
+id: sight-in-gurudwara-bangla-sahib
+name: "Gurudwara Bangla Sahib"
+location:
+  country_code: IN
+  latitude: 28.6264
+  longitude: 77.2091
+scores:
+  impact: 8.6
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 9.0
+  depth: 8.1
+  categories:
+    culture: 9.1
+    architecture: 8.9
+    history: 8.6

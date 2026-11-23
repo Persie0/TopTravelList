@@ -1,0 +1,16 @@
+id: sight-in-munnar-tea-plantations
+name: "Munnar Tea Plantations"
+location:
+  country_code: IN
+  latitude: 10.1050
+  longitude: 77.0650
+scores:
+  impact: 9.0
+  uniqueness: 8.9
+  significance: 8.2
+  experience: 9.4
+  depth: 9.2
+  categories:
+    nature: 9.4
+    photography: 9.6
+    relaxation: 9.2

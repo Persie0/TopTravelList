@@ -1,0 +1,15 @@
+id: sight-in-banke-bihari-temple
+name: "Banke Bihari Temple"
+location:
+  country_code: IN
+  latitude: 27.5798
+  longitude: 77.6956
+scores:
+  impact: 8.7
+  uniqueness: 9.0
+  significance: 9.1
+  experience: 9.1
+  depth: 7.4
+  categories:
+    culture: 9.4
+    history: 8.9

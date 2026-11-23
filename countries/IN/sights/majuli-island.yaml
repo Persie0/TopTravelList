@@ -1,0 +1,16 @@
+id: sight-in-majuli-island
+name: "Majuli Island"
+location:
+  country_code: IN
+  latitude: 26.9493
+  longitude: 94.1628
+scores:
+  impact: 9.0
+  uniqueness: 9.4
+  significance: 9.2
+  experience: 9.2
+  depth: 9.5
+  categories:
+    culture: 9.5
+    nature: 9.1
+    photography: 9.0

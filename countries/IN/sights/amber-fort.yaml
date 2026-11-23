@@ -1,0 +1,16 @@
+id: sight-in-amber-fort
+name: "Amber Fort"
+location:
+  country_code: IN
+  latitude: 26.9855
+  longitude: 75.8513
+scores:
+  impact: 9.6
+  uniqueness: 9.6
+  significance: 9.5
+  experience: 9.5
+  depth: 9.4
+  categories:
+    architecture: 9.7
+    history: 9.5
+    photography: 9.6

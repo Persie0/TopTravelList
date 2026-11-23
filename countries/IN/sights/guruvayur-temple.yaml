@@ -1,0 +1,15 @@
+id: sight-in-guruvayur-temple
+name: "Guruvayur Temple"
+location:
+  country_code: IN
+  latitude: 10.5944
+  longitude: 76.0419
+scores:
+  impact: 8.9
+  uniqueness: 9.4
+  significance: 9.3
+  experience: 9.0
+  depth: 7.4
+  categories:
+    culture: 9.7
+    history: 9.2
