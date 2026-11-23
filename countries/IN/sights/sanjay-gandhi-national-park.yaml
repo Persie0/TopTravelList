@@ -1,0 +1,16 @@
+id: sight-in-sanjay-gandhi-national-park
+name: "Sanjay Gandhi National Park"
+location:
+  country_code: IN
+  latitude: 19.2150
+  longitude: 72.9150
+scores:
+  impact: 8.5
+  uniqueness: 8.6
+  significance: 8.0
+  experience: 8.8
+  depth: 8.9
+  categories:
+    nature: 9.0
+    wildlife: 8.6
+    adventure: 8.5

@@ -1,0 +1,16 @@
+id: sight-in-fort-aguada
+name: "Fort Aguada"
+location:
+  country_code: IN
+  latitude: 15.4929
+  longitude: 73.7739
+scores:
+  impact: 8.5
+  uniqueness: 8.7
+  significance: 8.7
+  experience: 8.7
+  depth: 8.4
+  categories:
+    architecture: 8.7
+    history: 8.9
+    photography: 9.0

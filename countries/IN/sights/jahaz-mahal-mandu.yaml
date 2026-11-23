@@ -1,0 +1,16 @@
+id: sight-in-jahaz-mahal-mandu
+name: "Jahaz Mahal Mandu"
+location:
+  country_code: IN
+  latitude: 22.3598
+  longitude: 75.3942
+scores:
+  impact: 8.8
+  uniqueness: 9.1
+  significance: 8.8
+  experience: 8.9
+  depth: 8.1
+  categories:
+    architecture: 9.1
+    history: 8.9
+    photography: 9.1

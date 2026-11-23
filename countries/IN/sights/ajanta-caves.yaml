@@ -1,0 +1,16 @@
+id: sight-in-ajanta-caves
+name: "Ajanta Caves"
+location:
+  country_code: IN
+  latitude: 20.5520
+  longitude: 75.7033
+scores:
+  impact: 9.8
+  uniqueness: 9.9
+  significance: 9.9
+  experience: 9.6
+  depth: 9.7
+  categories:
+    history: 9.9
+    architecture: 9.8
+    culture: 9.9

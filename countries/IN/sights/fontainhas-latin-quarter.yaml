@@ -1,0 +1,16 @@
+id: sight-in-fontainhas-latin-quarter
+name: "Fontainhas Latin Quarter"
+location:
+  country_code: IN
+  latitude: 15.4928
+  longitude: 73.8282
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 8.4
+  experience: 8.9
+  depth: 8.4
+  categories:
+    architecture: 9.0
+    culture: 8.9
+    photography: 9.0

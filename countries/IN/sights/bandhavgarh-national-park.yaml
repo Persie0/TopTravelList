@@ -1,0 +1,16 @@
+id: sight-in-bandhavgarh-national-park
+name: "Bandhavgarh National Park"
+location:
+  country_code: IN
+  latitude: 23.6907
+  longitude: 81.0246
+scores:
+  impact: 9.3
+  uniqueness: 9.2
+  significance: 9.1
+  experience: 9.3
+  depth: 9.1
+  categories:
+    wildlife: 9.6
+    nature: 9.1
+    photography: 9.4

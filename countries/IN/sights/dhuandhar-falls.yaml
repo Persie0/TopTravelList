@@ -1,0 +1,15 @@
+id: sight-in-dhuandhar-falls
+name: "Dhuandhar Falls"
+location:
+  country_code: IN
+  latitude: 23.1233
+  longitude: 79.8068
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 8.0
+  experience: 9.0
+  depth: 7.2
+  categories:
+    nature: 9.2
+    photography: 9.2

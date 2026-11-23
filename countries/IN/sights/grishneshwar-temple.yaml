@@ -1,0 +1,16 @@
+id: sight-in-grishneshwar-temple
+name: "Grishneshwar Temple"
+location:
+  country_code: IN
+  latitude: 20.0248
+  longitude: 75.1696
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 8.9
+  depth: 7.5
+  categories:
+    culture: 9.2
+    history: 8.8
+    architecture: 8.4

@@ -1,0 +1,16 @@
+id: sight-in-bibi-ka-maqbara
+name: "Bibi ka Maqbara"
+location:
+  country_code: IN
+  latitude: 19.9012
+  longitude: 75.3201
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 8.5
+  experience: 8.8
+  depth: 7.8
+  categories:
+    architecture: 9.0
+    photography: 9.1
+    history: 8.5

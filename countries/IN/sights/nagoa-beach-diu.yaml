@@ -1,0 +1,15 @@
+id: sight-in-nagoa-beach-diu
+name: "Nagoa Beach Diu"
+location:
+  country_code: IN
+  latitude: 20.7131
+  longitude: 70.9315
+scores:
+  impact: 7.8
+  uniqueness: 7.7
+  significance: 6.5
+  experience: 8.4
+  depth: 7.4
+  categories:
+    beaches: 8.4
+    relaxation: 8.7

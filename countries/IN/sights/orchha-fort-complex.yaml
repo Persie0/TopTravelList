@@ -1,0 +1,16 @@
+id: sight-in-orchha-fort-complex
+name: "Orchha Fort Complex"
+location:
+  country_code: IN
+  latitude: 25.3509
+  longitude: 78.6408
+scores:
+  impact: 9.3
+  uniqueness: 9.5
+  significance: 9.3
+  experience: 9.4
+  depth: 9.3
+  categories:
+    architecture: 9.6
+    history: 9.4
+    photography: 9.6

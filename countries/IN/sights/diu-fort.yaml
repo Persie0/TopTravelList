@@ -1,0 +1,16 @@
+id: sight-in-diu-fort
+name: "Diu Fort"
+location:
+  country_code: IN
+  latitude: 20.7146
+  longitude: 70.9900
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 8.6
+  experience: 8.8
+  depth: 8.6
+  categories:
+    architecture: 8.9
+    history: 8.9
+    photography: 9.1

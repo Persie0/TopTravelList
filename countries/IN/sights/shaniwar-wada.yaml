@@ -1,0 +1,15 @@
+id: sight-in-shaniwar-wada
+name: "Shaniwar Wada"
+location:
+  country_code: IN
+  latitude: 18.5196
+  longitude: 73.8553
+scores:
+  impact: 8.4
+  uniqueness: 8.6
+  significance: 8.8
+  experience: 8.6
+  depth: 8.0
+  categories:
+    history: 9.0
+    architecture: 8.4
