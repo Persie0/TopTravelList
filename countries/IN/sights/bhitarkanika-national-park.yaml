@@ -1,0 +1,16 @@
+id: sight-in-bhitarkanika-national-park
+name: "Bhitarkanika National Park"
+location:
+  country_code: IN
+  latitude: 20.7300
+  longitude: 86.8800
+scores:
+  impact: 9.2
+  uniqueness: 9.3
+  significance: 9.0
+  experience: 9.1
+  depth: 9.1
+  categories:
+    nature: 9.5
+    wildlife: 9.5
+    photography: 9.0

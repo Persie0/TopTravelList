@@ -1,0 +1,16 @@
+id: sight-in-barabar-caves
+name: "Barabar Caves"
+location:
+  country_code: IN
+  latitude: 25.0059
+  longitude: 85.0633
+scores:
+  impact: 9.0
+  uniqueness: 9.8
+  significance: 9.6
+  experience: 8.9
+  depth: 8.1
+  categories:
+    history: 9.8
+    architecture: 9.4
+    culture: 9.3

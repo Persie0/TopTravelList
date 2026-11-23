@@ -1,0 +1,16 @@
+id: sight-in-bangaram-island
+name: "Bangaram Island"
+location:
+  country_code: IN
+  latitude: 10.9414
+  longitude: 72.2865
+scores:
+  impact: 9.4
+  uniqueness: 9.5
+  significance: 8.1
+  experience: 9.5
+  depth: 8.6
+  categories:
+    beaches: 9.8
+    relaxation: 9.6
+    nature: 9.6

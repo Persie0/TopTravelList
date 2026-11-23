@@ -1,0 +1,16 @@
+id: sight-in-parasnath-hill-shikharji
+name: "Parasnath Hill Shikharji"
+location:
+  country_code: IN
+  latitude: 23.9635
+  longitude: 86.1360
+scores:
+  impact: 9.0
+  uniqueness: 9.4
+  significance: 9.4
+  experience: 9.1
+  depth: 9.0
+  categories:
+    culture: 9.7
+    nature: 9.1
+    adventure: 9.0

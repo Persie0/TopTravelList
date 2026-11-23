@@ -1,0 +1,15 @@
+id: sight-in-tiger-hill-darjeeling
+name: "Tiger Hill Darjeeling"
+location:
+  country_code: IN
+  latitude: 26.9987
+  longitude: 88.2921
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 7.9
+  experience: 9.1
+  depth: 7.4
+  categories:
+    nature: 9.4
+    photography: 9.6

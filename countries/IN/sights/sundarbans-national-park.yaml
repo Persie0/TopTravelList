@@ -1,0 +1,16 @@
+id: sight-in-sundarbans-national-park
+name: "Sundarbans National Park"
+location:
+  country_code: IN
+  latitude: 21.9497
+  longitude: 88.9010
+scores:
+  impact: 9.6
+  uniqueness: 9.8
+  significance: 9.8
+  experience: 9.2
+  depth: 9.6
+  categories:
+    nature: 9.9
+    wildlife: 9.7
+    adventure: 9.2

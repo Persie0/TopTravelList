@@ -1,0 +1,16 @@
+id: sight-in-cellular-jail-port-blair
+name: "Cellular Jail Port Blair"
+location:
+  country_code: IN
+  latitude: 11.6731
+  longitude: 92.7470
+scores:
+  impact: 9.0
+  uniqueness: 9.6
+  significance: 9.8
+  experience: 9.4
+  depth: 9.1
+  categories:
+    history: 9.9
+    culture: 9.3
+    architecture: 8.8

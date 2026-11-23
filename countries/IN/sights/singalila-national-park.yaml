@@ -1,0 +1,16 @@
+id: sight-in-singalila-national-park
+name: "Singalila National Park"
+location:
+  country_code: IN
+  latitude: 27.0980
+  longitude: 88.0060
+scores:
+  impact: 9.2
+  uniqueness: 9.3
+  significance: 8.8
+  experience: 9.4
+  depth: 9.4
+  categories:
+    nature: 9.6
+    adventure: 9.5
+    photography: 9.6

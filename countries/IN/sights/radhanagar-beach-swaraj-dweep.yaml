@@ -1,0 +1,16 @@
+id: sight-in-radhanagar-beach-swaraj-dweep
+name: "Radhanagar Beach Swaraj Dweep"
+location:
+  country_code: IN
+  latitude: 12.0063
+  longitude: 92.9594
+scores:
+  impact: 9.4
+  uniqueness: 9.3
+  significance: 8.0
+  experience: 9.6
+  depth: 8.5
+  categories:
+    beaches: 9.8
+    relaxation: 9.5
+    photography: 9.6

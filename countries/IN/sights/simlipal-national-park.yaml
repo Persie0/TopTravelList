@@ -1,0 +1,16 @@
+id: sight-in-simlipal-national-park
+name: "Simlipal National Park"
+location:
+  country_code: IN
+  latitude: 21.9450
+  longitude: 86.3690
+scores:
+  impact: 9.1
+  uniqueness: 9.3
+  significance: 9.0
+  experience: 8.9
+  depth: 9.2
+  categories:
+    nature: 9.5
+    wildlife: 9.4
+    adventure: 8.9

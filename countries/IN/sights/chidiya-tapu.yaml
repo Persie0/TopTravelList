@@ -1,0 +1,16 @@
+id: sight-in-chidiya-tapu
+name: "Chidiya Tapu"
+location:
+  country_code: IN
+  latitude: 11.4906
+  longitude: 92.7079
+scores:
+  impact: 8.4
+  uniqueness: 8.5
+  significance: 7.6
+  experience: 8.9
+  depth: 8.1
+  categories:
+    nature: 9.0
+    photography: 9.2
+    relaxation: 8.7
