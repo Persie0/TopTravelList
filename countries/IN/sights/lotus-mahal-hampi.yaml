@@ -1,0 +1,16 @@
+id: sight-in-lotus-mahal-hampi
+name: "Lotus Mahal Hampi"
+location:
+  country_code: IN
+  latitude: 15.3244
+  longitude: 76.4605
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 8.8
+  experience: 8.9
+  depth: 7.4
+  categories:
+    architecture: 9.4
+    photography: 9.3
+    history: 8.7

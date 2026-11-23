@@ -1,0 +1,16 @@
+id: sight-in-edakkal-caves
+name: "Edakkal Caves"
+location:
+  country_code: IN
+  latitude: 11.6254
+  longitude: 76.2347
+scores:
+  impact: 9.0
+  uniqueness: 9.4
+  significance: 9.4
+  experience: 9.0
+  depth: 8.2
+  categories:
+    history: 9.5
+    culture: 9.2
+    adventure: 8.8

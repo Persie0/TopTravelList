@@ -1,0 +1,16 @@
+id: sight-in-kudremukh-national-park
+name: "Kudremukh National Park"
+location:
+  country_code: IN
+  latitude: 13.2300
+  longitude: 75.1600
+scores:
+  impact: 9.1
+  uniqueness: 9.2
+  significance: 8.7
+  experience: 9.2
+  depth: 9.3
+  categories:
+    nature: 9.6
+    adventure: 9.2
+    wildlife: 8.8

@@ -1,0 +1,16 @@
+id: sight-in-kovalam-lighthouse-beach
+name: "Kovalam Lighthouse Beach"
+location:
+  country_code: IN
+  latitude: 8.3852
+  longitude: 76.9807
+scores:
+  impact: 8.6
+  uniqueness: 8.6
+  significance: 7.4
+  experience: 9.1
+  depth: 8.1
+  categories:
+    beaches: 9.1
+    relaxation: 9.1
+    photography: 9.0

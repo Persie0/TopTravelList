@@ -1,0 +1,16 @@
+id: sight-in-namdroling-monastery
+name: "Namdroling Monastery"
+location:
+  country_code: IN
+  latitude: 12.4298
+  longitude: 75.9634
+scores:
+  impact: 8.9
+  uniqueness: 9.1
+  significance: 8.8
+  experience: 9.2
+  depth: 8.4
+  categories:
+    culture: 9.4
+    architecture: 9.2
+    photography: 9.1

@@ -1,0 +1,16 @@
+id: sight-in-periyar-tiger-reserve
+name: "Periyar Tiger Reserve"
+location:
+  country_code: IN
+  latitude: 9.4650
+  longitude: 77.1810
+scores:
+  impact: 9.2
+  uniqueness: 9.1
+  significance: 9.1
+  experience: 9.3
+  depth: 9.3
+  categories:
+    wildlife: 9.5
+    nature: 9.3
+    adventure: 9.1

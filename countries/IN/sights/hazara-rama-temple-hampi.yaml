@@ -1,0 +1,16 @@
+id: sight-in-hazara-rama-temple-hampi
+name: "Hazara Rama Temple Hampi"
+location:
+  country_code: IN
+  latitude: 15.3222
+  longitude: 76.4616
+scores:
+  impact: 8.9
+  uniqueness: 9.1
+  significance: 9.0
+  experience: 8.9
+  depth: 7.8
+  categories:
+    architecture: 9.4
+    history: 9.1
+    culture: 9.0

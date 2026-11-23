@@ -1,0 +1,16 @@
+id: sight-in-kumarakom-bird-sanctuary
+name: "Kumarakom Bird Sanctuary"
+location:
+  country_code: IN
+  latitude: 9.6170
+  longitude: 76.4288
+scores:
+  impact: 8.6
+  uniqueness: 8.9
+  significance: 8.6
+  experience: 8.9
+  depth: 8.6
+  categories:
+    wildlife: 9.0
+    nature: 9.0
+    relaxation: 9.0

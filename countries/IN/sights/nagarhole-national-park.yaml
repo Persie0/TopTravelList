@@ -1,0 +1,16 @@
+id: sight-in-nagarhole-national-park
+name: "Nagarhole National Park"
+location:
+  country_code: IN
+  latitude: 12.0210
+  longitude: 76.1180
+scores:
+  impact: 9.2
+  uniqueness: 9.1
+  significance: 9.0
+  experience: 9.2
+  depth: 9.1
+  categories:
+    wildlife: 9.5
+    nature: 9.3
+    photography: 9.1
