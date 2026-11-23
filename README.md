@@ -217,6 +217,12 @@ python scripts/generate_rankings.py --check
 python scripts/rank.py --kind sights --limit 60
 ```
 
+## How to assess future countries and new destinations
+
+**Every future city and sight needs its own worldwide comparison and review note, not just a generated numerical score.** Start with [agent/contributor instructions](AGENTS.md), the [step-by-step new-country workflow](methodology/future-country-workflow.md), [one-record review template](methodology/review-record-template.md), and [source-verification / quality standard](methodology/evidence-and-quality-standard.md). These supplement, rather than replace, the city/sight scoring guides above.
+
+New decisions and later re-reviews belong under `methodology/reviews/XX/cities.md` or `methodology/reviews/XX/sights.md`. Keep source YAML as the authority, derive overall scores from the unchanged worldwide v2 weights, link at least four meaningful international peers per record, and verify factual claims separately from subjective scoring. Historical 2026 migration and audit files are retained as archival evidence, not reused for new countries. Source-linked or editorial-only decisions must not be presented as independently fact-checked.
+
 ## Additional evidence-referenced per-sight research (22 November 2026)
 
 All **1,913 sights have distinct, individually authored editorial scoring decisions** across the seven populated countries, with five core dimensions and site-specific rationales. **632** decision rationales contain explicit external source links; the other **1,281** are desk-based judgments that still require independent source verification. **0** sights remain marked automatically screened only. The [complete per-item worldwide audit](methodology/sight-review-2026-full-audit.md) and [decision rationale summary](methodology/sight-review-2026-summary.md) preserve every review. This completes editorial scoring coverage, **not independent factual verification of all 1,913 scores**. No historical correction curves, country quotas, city-score edits or new 10/10 approvals were applied.
