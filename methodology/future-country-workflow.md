@@ -20,7 +20,7 @@ For **each ID separately**:
 4. Identify uncertainty: closed sites, seasonal or restricted access, disputed claims, incomplete evidence, inconsistent official descriptions. Intrinsic scores do not become current-access promises.
 5. Mark the review status according to [evidence and quality standard](evidence-and-quality-standard.md). An encyclopedia search hit by itself is not full verification.
 
-Use the [per-record template](review-record-template.md). Store prose and URLs in `methodology/reviews/XX/{cities,sights}.md`, **never** in destination YAML. A new country can start with editorial-only entries, but those must not be counted as independently fact-checked.
+Use the [per-record template](review-record-template.md). Store prose and URLs in `methodology/reviews/XX/{cities,sights}.md` (or regional `sights-*.md` files indexed from `sights.md`), **never** in destination YAML. A new country can start with editorial-only entries, but those must not be counted as independently fact-checked.
 
 ## Step 3 — Compare worldwide **before** choosing numbers
 
