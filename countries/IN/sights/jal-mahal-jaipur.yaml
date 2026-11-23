@@ -1,0 +1,15 @@
+id: sight-in-jal-mahal-jaipur
+name: "Jal Mahal Jaipur"
+location:
+  country_code: IN
+  latitude: 26.9534
+  longitude: 75.8460
+scores:
+  impact: 8.1
+  uniqueness: 8.8
+  significance: 7.7
+  experience: 7.8
+  depth: 5.7
+  categories:
+    photography: 9.1
+    architecture: 8.8

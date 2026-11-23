@@ -1,0 +1,16 @@
+id: sight-in-akshardham-delhi
+name: "Akshardham Delhi"
+location:
+  country_code: IN
+  latitude: 28.6127
+  longitude: 77.2773
+scores:
+  impact: 9.0
+  uniqueness: 9.1
+  significance: 8.4
+  experience: 9.1
+  depth: 8.8
+  categories:
+    architecture: 9.2
+    culture: 8.9
+    family: 8.8

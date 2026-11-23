@@ -1,0 +1,16 @@
+id: sight-in-sangam-prayagraj
+name: "Sangam Prayagraj"
+location:
+  country_code: IN
+  latitude: 25.4290
+  longitude: 81.8790
+scores:
+  impact: 8.7
+  uniqueness: 9.0
+  significance: 9.2
+  experience: 8.9
+  depth: 7.5
+  categories:
+    culture: 9.6
+    photography: 8.2
+    history: 8.9

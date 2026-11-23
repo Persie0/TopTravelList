@@ -1,0 +1,15 @@
+id: sight-in-attari-border-ceremony-area
+name: "Attari Border Ceremony Area"
+location:
+  country_code: IN
+  latitude: 31.6048
+  longitude: 74.5737
+scores:
+  impact: 8.0
+  uniqueness: 8.7
+  significance: 8.2
+  experience: 8.3
+  depth: 7.0
+  categories:
+    culture: 8.5
+    history: 8.2

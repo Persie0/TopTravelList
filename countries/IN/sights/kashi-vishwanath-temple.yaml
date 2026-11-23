@@ -1,0 +1,16 @@
+id: sight-in-kashi-vishwanath-temple
+name: "Kashi Vishwanath Temple"
+location:
+  country_code: IN
+  latitude: 25.3109
+  longitude: 83.0107
+scores:
+  impact: 9.2
+  uniqueness: 9.5
+  significance: 9.8
+  experience: 9.3
+  depth: 8.0
+  categories:
+    culture: 9.9
+    history: 9.6
+    architecture: 9.0

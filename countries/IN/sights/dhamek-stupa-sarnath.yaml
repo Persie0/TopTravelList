@@ -1,0 +1,16 @@
+id: sight-in-dhamek-stupa-sarnath
+name: "Dhamek Stupa Sarnath"
+location:
+  country_code: IN
+  latitude: 25.3800
+  longitude: 83.0243
+scores:
+  impact: 9.0
+  uniqueness: 9.5
+  significance: 9.7
+  experience: 9.0
+  depth: 8.0
+  categories:
+    history: 9.8
+    culture: 9.7
+    architecture: 8.9

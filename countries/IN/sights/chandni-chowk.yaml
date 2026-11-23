@@ -1,0 +1,16 @@
+id: sight-in-chandni-chowk
+name: "Chandni Chowk"
+location:
+  country_code: IN
+  latitude: 28.6568
+  longitude: 77.2308
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 8.6
+  experience: 8.8
+  depth: 8.4
+  categories:
+    food: 9.0
+    culture: 9.2
+    photography: 8.6

@@ -1,0 +1,16 @@
+id: sight-in-jaisalmer-fort
+name: "Jaisalmer Fort"
+location:
+  country_code: IN
+  latitude: 26.9124
+  longitude: 70.9120
+scores:
+  impact: 9.5
+  uniqueness: 9.7
+  significance: 9.4
+  experience: 9.5
+  depth: 9.6
+  categories:
+    architecture: 9.7
+    history: 9.5
+    photography: 9.7

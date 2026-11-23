@@ -1,0 +1,16 @@
+id: sight-in-jantar-mantar-jaipur
+name: "Jantar Mantar Jaipur"
+location:
+  country_code: IN
+  latitude: 26.9248
+  longitude: 75.8246
+scores:
+  impact: 9.0
+  uniqueness: 9.8
+  significance: 9.5
+  experience: 9.0
+  depth: 8.7
+  categories:
+    architecture: 9.2
+    history: 9.5
+    culture: 9.2

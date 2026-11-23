@@ -1,0 +1,16 @@
+id: sight-in-keoladeo-national-park
+name: "Keoladeo National Park"
+location:
+  country_code: IN
+  latitude: 27.1594
+  longitude: 77.5238
+scores:
+  impact: 9.0
+  uniqueness: 9.1
+  significance: 9.3
+  experience: 9.3
+  depth: 8.9
+  categories:
+    wildlife: 9.5
+    nature: 9.0
+    photography: 9.0

@@ -1,0 +1,16 @@
+id: sight-in-jama-masjid-delhi
+name: "Jama Masjid Delhi"
+location:
+  country_code: IN
+  latitude: 28.6507
+  longitude: 77.2334
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 9.2
+  experience: 8.8
+  depth: 7.8
+  categories:
+    architecture: 9.5
+    history: 9.3
+    culture: 9.1

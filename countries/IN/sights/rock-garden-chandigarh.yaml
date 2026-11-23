@@ -1,0 +1,16 @@
+id: sight-in-rock-garden-chandigarh
+name: "Rock Garden Chandigarh"
+location:
+  country_code: IN
+  latitude: 30.7525
+  longitude: 76.8085
+scores:
+  impact: 8.8
+  uniqueness: 9.5
+  significance: 8.6
+  experience: 9.1
+  depth: 8.8
+  categories:
+    architecture: 9.2
+    culture: 9.0
+    photography: 9.2
