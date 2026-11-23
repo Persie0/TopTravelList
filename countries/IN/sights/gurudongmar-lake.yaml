@@ -1,0 +1,16 @@
+id: sight-in-gurudongmar-lake
+name: "Gurudongmar Lake"
+location:
+  country_code: IN
+  latitude: 28.0221
+  longitude: 88.7110
+scores:
+  impact: 9.4
+  uniqueness: 9.4
+  significance: 8.1
+  experience: 9.0
+  depth: 7.3
+  categories:
+    nature: 9.7
+    photography: 9.8
+    adventure: 8.7

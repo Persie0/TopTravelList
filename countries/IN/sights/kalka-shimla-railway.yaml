@@ -1,0 +1,16 @@
+id: sight-in-kalka-shimla-railway
+name: "Kalka Shimla Railway"
+location:
+  country_code: IN
+  latitude: 31.1028
+  longitude: 77.1734
+scores:
+  impact: 9.0
+  uniqueness: 9.4
+  significance: 9.3
+  experience: 9.4
+  depth: 9.3
+  categories:
+    history: 9.5
+    photography: 9.3
+    adventure: 8.8

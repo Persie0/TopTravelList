@@ -1,0 +1,16 @@
+id: sight-in-sonamarg-valley
+name: "Sonamarg Valley"
+location:
+  country_code: IN
+  latitude: 34.3062
+  longitude: 75.2930
+scores:
+  impact: 9.1
+  uniqueness: 9.0
+  significance: 8.0
+  experience: 9.2
+  depth: 8.9
+  categories:
+    nature: 9.5
+    photography: 9.6
+    adventure: 8.9

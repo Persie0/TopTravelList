@@ -1,0 +1,16 @@
+id: sight-in-tungnath-temple
+name: "Tungnath Temple"
+location:
+  country_code: IN
+  latitude: 30.4907
+  longitude: 79.2170
+scores:
+  impact: 8.9
+  uniqueness: 9.3
+  significance: 9.1
+  experience: 9.0
+  depth: 7.8
+  categories:
+    culture: 9.3
+    nature: 9.4
+    adventure: 9.2

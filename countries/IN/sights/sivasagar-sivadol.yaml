@@ -1,0 +1,16 @@
+id: sight-in-sivasagar-sivadol
+name: "Sivasagar Sivadol"
+location:
+  country_code: IN
+  latitude: 26.9812
+  longitude: 94.6415
+scores:
+  impact: 8.4
+  uniqueness: 8.8
+  significance: 8.9
+  experience: 8.5
+  depth: 7.6
+  categories:
+    architecture: 8.9
+    history: 8.9
+    culture: 8.8

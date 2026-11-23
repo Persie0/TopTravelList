@@ -1,0 +1,15 @@
+id: sight-in-betaab-valley
+name: "Betaab Valley"
+location:
+  country_code: IN
+  latitude: 34.0591
+  longitude: 75.3327
+scores:
+  impact: 8.3
+  uniqueness: 8.2
+  significance: 7.3
+  experience: 8.6
+  depth: 7.4
+  categories:
+    nature: 8.9
+    photography: 9.1

@@ -1,0 +1,16 @@
+id: sight-in-auli-ski-slopes
+name: "Auli Ski Slopes"
+location:
+  country_code: IN
+  latitude: 30.5333
+  longitude: 79.5667
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 7.2
+  experience: 9.0
+  depth: 8.5
+  categories:
+    nature: 9.3
+    adventure: 9.0
+    photography: 9.2

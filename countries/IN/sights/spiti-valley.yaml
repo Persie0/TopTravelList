@@ -1,0 +1,16 @@
+id: sight-in-spiti-valley
+name: "Spiti Valley"
+location:
+  country_code: IN
+  latitude: 32.2460
+  longitude: 78.0340
+scores:
+  impact: 9.5
+  uniqueness: 9.6
+  significance: 9.1
+  experience: 9.5
+  depth: 9.6
+  categories:
+    nature: 9.8
+    adventure: 9.6
+    photography: 9.8

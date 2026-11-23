@@ -1,0 +1,16 @@
+id: sight-in-pangong-tso
+name: "Pangong Tso"
+location:
+  country_code: IN
+  latitude: 33.7310
+  longitude: 78.9053
+scores:
+  impact: 9.7
+  uniqueness: 9.7
+  significance: 8.8
+  experience: 9.6
+  depth: 8.9
+  categories:
+    nature: 9.8
+    photography: 9.9
+    relaxation: 9.1

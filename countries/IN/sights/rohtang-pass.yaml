@@ -1,0 +1,16 @@
+id: sight-in-rohtang-pass
+name: "Rohtang Pass"
+location:
+  country_code: IN
+  latitude: 32.3710
+  longitude: 77.2461
+scores:
+  impact: 8.8
+  uniqueness: 8.4
+  significance: 7.8
+  experience: 8.9
+  depth: 7.5
+  categories:
+    nature: 9.2
+    photography: 9.0
+    adventure: 8.7

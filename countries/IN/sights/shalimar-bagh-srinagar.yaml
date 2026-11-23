@@ -1,0 +1,16 @@
+id: sight-in-shalimar-bagh-srinagar
+name: "Shalimar Bagh Srinagar"
+location:
+  country_code: IN
+  latitude: 34.1495
+  longitude: 74.8716
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 9.2
+  experience: 9.0
+  depth: 8.2
+  categories:
+    architecture: 9.4
+    history: 9.2
+    photography: 9.2

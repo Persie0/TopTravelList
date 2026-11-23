@@ -1,0 +1,16 @@
+id: sight-in-nanda-devi-national-park
+name: "Nanda Devi National Park"
+location:
+  country_code: IN
+  latitude: 30.3753
+  longitude: 79.9713
+scores:
+  impact: 9.7
+  uniqueness: 9.8
+  significance: 9.6
+  experience: 8.6
+  depth: 9.5
+  categories:
+    nature: 9.9
+    adventure: 9.4
+    photography: 9.7

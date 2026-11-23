@@ -1,0 +1,16 @@
+id: sight-in-hemkund-sahib
+name: "Hemkund Sahib"
+location:
+  country_code: IN
+  latitude: 30.7004
+  longitude: 79.6157
+scores:
+  impact: 9.0
+  uniqueness: 9.5
+  significance: 9.2
+  experience: 9.3
+  depth: 8.0
+  categories:
+    culture: 9.5
+    nature: 9.4
+    adventure: 9.0

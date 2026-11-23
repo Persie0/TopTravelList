@@ -1,0 +1,16 @@
+id: sight-in-khangchendzonga-national-park
+name: "Khangchendzonga National Park"
+location:
+  country_code: IN
+  latitude: 27.7063
+  longitude: 88.1478
+scores:
+  impact: 9.8
+  uniqueness: 9.8
+  significance: 9.8
+  experience: 8.7
+  depth: 9.7
+  categories:
+    nature: 9.9
+    adventure: 9.5
+    culture: 9.2
