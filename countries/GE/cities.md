@@ -2,7 +2,7 @@
 
 # Georgia (GE) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**14 ranked** · **0 unassessed** · **14 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,24 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (14)
 
-No cities, towns & villages have been assessed for **Georgia** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Tbilisi](cities/tbilisi.yaml) | City / town | **89.40** | **Food 9.2**, **Architecture 9.1**, **Culture 9.1**, History 8.9, Nightlife 8.5 | 8.9 / 9.0 / 8.8 / 9.0 / 9.1 | [41.7151, 44.8271](https://www.google.com/maps/search/?api=1&query=41.7151,44.8271) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tbilisi%2C%20Georgia) |
+| 2 | [Ushguli](cities/ushguli.yaml) | City / town | **86.55** | **Photography 9.2**, **Architecture 9.0**, **Culture 8.7**, Nature 8.7 | 8.9 / 9.1 / 8.5 / 8.4 / 7.5 | [42.916, 43.015](https://www.google.com/maps/search/?api=1&query=42.916,43.015) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ushguli%2C%20Georgia) |
+| 3 | [Mestia](cities/mestia.yaml) | City / town | **82.95** | **Photography 8.8**, **Architecture 8.7**, **Culture 8.5**, Nature 8.2 | 8.4 / 8.7 / 8.0 / 8.2 / 7.7 | [43.045, 42.7297](https://www.google.com/maps/search/?api=1&query=43.045,42.7297) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mestia%2C%20Georgia) |
+| 4 | [Mtskheta](cities/mtskheta.yaml) | City / town | **82.35** | **History 9.0**, **Architecture 8.8**, **Culture 8.6** | 8.1 / 8.3 / 9.0 / 8.0 / 7.3 | [41.845, 44.719](https://www.google.com/maps/search/?api=1&query=41.845,44.719) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mtskheta%2C%20Georgia) |
+| 5 | [Shatili](cities/shatili.yaml) | City / town | **82.25** | **Photography 8.9**, **Architecture 8.8**, **History 8.4** | 8.5 / 8.8 / 8.0 / 7.9 / 6.9 | [42.658, 45.161](https://www.google.com/maps/search/?api=1&query=42.658,45.161) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Shatili%2C%20Georgia) |
+| 6 | [Sighnaghi](cities/sighnaghi.yaml) | City / town | **79.20** | **Photography 8.8**, **Architecture 8.2**, **Food 8.1**, History 7.7 | 8.3 / 8.0 / 7.4 / 8.2 / 7.2 | [41.6205, 45.9219](https://www.google.com/maps/search/?api=1&query=41.6205,45.9219) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sighnaghi%2C%20Georgia) |
+| 7 | [Kutaisi](cities/kutaisi.yaml) | City / town | **78.85** | **History 8.5**, **Architecture 8.0**, **Food 8.0**, Culture 7.9 | 7.7 / 7.8 / 8.4 / 7.9 / 7.6 | [42.2679, 42.6946](https://www.google.com/maps/search/?api=1&query=42.2679,42.6946) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kutaisi%2C%20Georgia) |
+| 8 | [Batumi](cities/batumi.yaml) | City / town | **78.70** | **Nightlife 8.5**, **Architecture 8.1**, **Relaxation 8.1**, Food 8.0, Beaches 7.4 | 8.1 / 7.7 / 7.1 / 8.5 / 8.2 | [41.6168, 41.6367](https://www.google.com/maps/search/?api=1&query=41.6168,41.6367) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Batumi%2C%20Georgia) |
+| 9 | [Omalo](cities/omalo.yaml) | City / town | **75.75** | **Photography 8.3**, **Nature 8.0**, **Architecture 7.9** | 7.8 / 8.0 / 7.1 / 7.7 / 6.6 | [42.37, 45.63](https://www.google.com/maps/search/?api=1&query=42.37,45.63) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Omalo%2C%20Georgia) |
+| 10 | [Telavi](cities/telavi.yaml) | City / town | **75.10** | **Food 8.0**, **History 8.0**, **Culture 7.7** | 7.3 / 7.4 / 7.8 / 7.8 / 7.4 | [41.9198, 45.4731](https://www.google.com/maps/search/?api=1&query=41.9198,45.4731) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Telavi%2C%20Georgia) |
+| 11 | [Borjomi](cities/borjomi.yaml) | City / town | **74.85** | **Relaxation 8.3**, **Nature 7.9**, **History 7.4** | 7.4 / 7.5 / 7.3 / 8.0 / 7.3 | [41.842, 43.412](https://www.google.com/maps/search/?api=1&query=41.842,43.412) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Borjomi%2C%20Georgia) |
+| 12 | [Akhaltsikhe](cities/akhaltsikhe.yaml) | City / town | **74.50** | **History 8.0**, **Architecture 7.7** | 7.4 / 7.4 / 7.7 / 7.6 / 7.0 | [41.6389, 42.9826](https://www.google.com/maps/search/?api=1&query=41.6389,42.9826) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Akhaltsikhe%2C%20Georgia) |
+| 13 | [Stepantsminda](cities/stepantsminda.yaml) | City / town | **74.00** | **Nature 8.5**, **Photography 8.5**, **Relaxation 7.6** | 7.9 / 7.7 / 6.5 / 7.7 / 6.5 | [42.6575, 44.643](https://www.google.com/maps/search/?api=1&query=42.6575,44.643) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Stepantsminda%2C%20Georgia) |
+| 14 | [Gori](cities/gori.yaml) | City / town | **71.30** | **History 8.0**, **Culture 7.2** | 6.8 / 7.0 / 7.8 / 7.2 / 7.0 | [41.9842, 44.1158](https://www.google.com/maps/search/?api=1&query=41.9842,44.1158) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Gori%2C%20Georgia) |
 
 ---
 
