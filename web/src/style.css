@@ -40,3 +40,5 @@ button.analyticrow:hover{background:var(--soft)}.analyticrow b{text-align:right;
 .detailcontext{display:grid;gap:6px}.detailcontext>div{display:flex;justify-content:space-between;gap:8px;align-items:center;padding:7px 0;border-bottom:1px solid var(--line);font-size:12px}.detailcontext b{white-space:nowrap;font-variant-numeric:tabular-nums}
 @media(max-width:800px){.analytics{padding:14px 10px}.analyticgrid{grid-template-columns:1fr}.analyticstats{grid-template-columns:repeat(2,minmax(0,1fr))}.analyticstat{padding:10px}.analyticstat strong{font-size:21px}.analyticshead label{width:100%}.analyticshead select{width:100%}}
 @media(max-width:380px){.analyticpanel{padding:10px}.analyticrow{gap:5px}.analyticrow.profile{grid-template-columns:minmax(75px,1fr) minmax(30px,1fr) 28px minmax(50px,auto)}.largehist{gap:2px}.largehist b{font-size:9px}}
+
+.analytic-sample{display:block;font-size:10px;font-weight:400;color:var(--muted)}
