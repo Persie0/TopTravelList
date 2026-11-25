@@ -1,0 +1,15 @@
+id: sight-my-cameron-bharat-tea-estate
+name: "Cameron Bharat Tea Estate"
+location:
+  country_code: MY
+  latitude: 4.4450
+  longitude: 101.3760
+scores:
+  impact: 8.0
+  uniqueness: 7.8
+  significance: 7.0
+  experience: 8.4
+  depth: 7.6
+  categories:
+    photography: 8.7
+    relaxation: 8.6

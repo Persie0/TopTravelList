@@ -1,0 +1,15 @@
+id: sight-my-a-famosa-porta-de-santiago
+name: "A Famosa Porta de Santiago"
+location:
+  country_code: MY
+  latitude: 2.1918
+  longitude: 102.2502
+scores:
+  impact: 7.7
+  uniqueness: 8.2
+  significance: 8.8
+  experience: 7.8
+  depth: 6.5
+  categories:
+    history: 9.1
+    architecture: 8.5

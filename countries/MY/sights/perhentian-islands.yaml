@@ -1,0 +1,16 @@
+id: sight-my-perhentian-islands
+name: "Perhentian Islands"
+location:
+  country_code: MY
+  latitude: 5.9140
+  longitude: 102.7300
+scores:
+  impact: 9.0
+  uniqueness: 8.8
+  significance: 7.7
+  experience: 9.2
+  depth: 8.9
+  categories:
+    beaches: 9.4
+    nature: 9.2
+    adventure: 9.2

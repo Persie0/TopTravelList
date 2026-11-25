@@ -1,0 +1,15 @@
+id: sight-my-pantai-cahaya-bulan
+name: "Pantai Cahaya Bulan"
+location:
+  country_code: MY
+  latitude: 6.1840
+  longitude: 102.2820
+scores:
+  impact: 7.4
+  uniqueness: 7.2
+  significance: 6.4
+  experience: 7.9
+  depth: 7.2
+  categories:
+    beaches: 8.0
+    relaxation: 8.1

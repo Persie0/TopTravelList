@@ -1,0 +1,16 @@
+id: sight-my-jonker-street
+name: "Jonker Street"
+location:
+  country_code: MY
+  latitude: 2.1963
+  longitude: 102.2470
+scores:
+  impact: 8.0
+  uniqueness: 8.1
+  significance: 7.8
+  experience: 8.7
+  depth: 8.0
+  categories:
+    food: 8.9
+    culture: 8.6
+    nightlife: 8.5

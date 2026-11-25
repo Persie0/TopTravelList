@@ -1,0 +1,16 @@
+id: sight-my-kapas-island
+name: "Kapas Island"
+location:
+  country_code: MY
+  latitude: 5.2190
+  longitude: 103.2650
+scores:
+  impact: 8.6
+  uniqueness: 8.5
+  significance: 7.0
+  experience: 9.0
+  depth: 8.3
+  categories:
+    beaches: 9.2
+    relaxation: 9.2
+    nature: 8.9

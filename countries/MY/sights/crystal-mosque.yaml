@@ -1,0 +1,15 @@
+id: sight-my-crystal-mosque
+name: "Crystal Mosque"
+location:
+  country_code: MY
+  latitude: 5.3220
+  longitude: 103.1190
+scores:
+  impact: 8.4
+  uniqueness: 8.7
+  significance: 7.2
+  experience: 8.4
+  depth: 7.4
+  categories:
+    architecture: 8.9
+    photography: 9.0

@@ -1,0 +1,15 @@
+id: sight-my-zahir-mosque
+name: "Zahir Mosque"
+location:
+  country_code: MY
+  latitude: 6.1190
+  longitude: 100.3650
+scores:
+  impact: 8.4
+  uniqueness: 8.6
+  significance: 8.4
+  experience: 8.4
+  depth: 7.5
+  categories:
+    architecture: 9.0
+    history: 8.7

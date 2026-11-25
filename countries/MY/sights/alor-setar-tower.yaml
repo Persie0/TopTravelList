@@ -1,0 +1,14 @@
+id: sight-my-alor-setar-tower
+name: "Alor Setar Tower"
+location:
+  country_code: MY
+  latitude: 6.1250
+  longitude: 100.3680
+scores:
+  impact: 7.5
+  uniqueness: 7.4
+  significance: 6.8
+  experience: 8.0
+  depth: 6.9
+  categories:
+    photography: 8.3

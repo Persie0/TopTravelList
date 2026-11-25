@@ -1,0 +1,16 @@
+id: sight-my-terengganu-state-museum
+name: "Terengganu State Museum"
+location:
+  country_code: MY
+  latitude: 5.3200
+  longitude: 103.0980
+scores:
+  impact: 8.2
+  uniqueness: 8.3
+  significance: 8.6
+  experience: 8.5
+  depth: 8.7
+  categories:
+    culture: 9.0
+    history: 8.9
+    architecture: 8.7

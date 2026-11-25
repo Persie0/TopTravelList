@@ -1,0 +1,15 @@
+id: sight-my-kapitan-keling-mosque
+name: "Kapitan Keling Mosque"
+location:
+  country_code: MY
+  latitude: 5.4164
+  longitude: 100.3371
+scores:
+  impact: 8.0
+  uniqueness: 8.3
+  significance: 8.4
+  experience: 8.3
+  depth: 7.6
+  categories:
+    architecture: 8.7
+    culture: 8.9

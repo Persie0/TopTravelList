@@ -1,0 +1,16 @@
+id: sight-my-merdeka-square
+name: "Merdeka Square"
+location:
+  country_code: MY
+  latitude: 3.1486
+  longitude: 101.6936
+scores:
+  impact: 8.0
+  uniqueness: 7.9
+  significance: 8.6
+  experience: 8.2
+  depth: 7.5
+  categories:
+    history: 8.9
+    architecture: 8.6
+    photography: 8.5

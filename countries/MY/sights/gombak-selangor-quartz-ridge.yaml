@@ -1,0 +1,15 @@
+id: sight-my-gombak-selangor-quartz-ridge
+name: "Gombak Selangor Quartz Ridge"
+location:
+  country_code: MY
+  latitude: 3.2890
+  longitude: 101.7390
+scores:
+  impact: 8.6
+  uniqueness: 9.1
+  significance: 8.6
+  experience: 8.0
+  depth: 8.0
+  categories:
+    nature: 9.2
+    photography: 9.0

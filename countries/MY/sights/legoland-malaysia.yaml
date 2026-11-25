@@ -1,0 +1,14 @@
+id: sight-my-legoland-malaysia
+name: "Legoland Malaysia"
+location:
+  country_code: MY
+  latitude: 1.4260
+  longitude: 103.6280
+scores:
+  impact: 7.9
+  uniqueness: 7.7
+  significance: 6.2
+  experience: 8.7
+  depth: 8.6
+  categories:
+    family: 9.1

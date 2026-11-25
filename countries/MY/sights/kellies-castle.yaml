@@ -1,0 +1,15 @@
+id: sight-my-kellies-castle
+name: "Kellie's Castle"
+location:
+  country_code: MY
+  latitude: 4.4740
+  longitude: 101.0870
+scores:
+  impact: 8.1
+  uniqueness: 8.4
+  significance: 7.9
+  experience: 8.3
+  depth: 7.5
+  categories:
+    architecture: 8.8
+    photography: 8.7

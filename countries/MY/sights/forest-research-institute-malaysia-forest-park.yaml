@@ -1,0 +1,15 @@
+id: sight-my-forest-research-institute-malaysia-forest-park
+name: "Forest Research Institute Malaysia Forest Park"
+location:
+  country_code: MY
+  latitude: 3.2370
+  longitude: 101.6340
+scores:
+  impact: 8.4
+  uniqueness: 9.0
+  significance: 9.3
+  experience: 8.6
+  depth: 8.8
+  categories:
+    nature: 9.2
+    history: 9.3

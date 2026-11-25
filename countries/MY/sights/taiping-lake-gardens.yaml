@@ -1,0 +1,15 @@
+id: sight-my-taiping-lake-gardens
+name: "Taiping Lake Gardens"
+location:
+  country_code: MY
+  latitude: 4.8520
+  longitude: 100.7470
+scores:
+  impact: 8.2
+  uniqueness: 8.0
+  significance: 7.7
+  experience: 8.7
+  depth: 8.4
+  categories:
+    relaxation: 9.0
+    photography: 8.8

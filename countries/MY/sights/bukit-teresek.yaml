@@ -1,0 +1,15 @@
+id: sight-my-bukit-teresek
+name: "Bukit Teresek"
+location:
+  country_code: MY
+  latitude: 4.3980
+  longitude: 102.4190
+scores:
+  impact: 7.9
+  uniqueness: 7.7
+  significance: 6.9
+  experience: 8.3
+  depth: 7.5
+  categories:
+    nature: 8.5
+    photography: 8.4

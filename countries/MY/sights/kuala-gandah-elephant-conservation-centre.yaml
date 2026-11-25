@@ -1,0 +1,15 @@
+id: sight-my-kuala-gandah-elephant-conservation-centre
+name: "Kuala Gandah Elephant Conservation Centre"
+location:
+  country_code: MY
+  latitude: 3.5960
+  longitude: 102.1430
+scores:
+  impact: 7.7
+  uniqueness: 8.1
+  significance: 7.6
+  experience: 8.0
+  depth: 7.4
+  categories:
+    wildlife: 8.5
+    family: 8.3

@@ -1,0 +1,15 @@
+id: sight-my-kuala-selangor-firefly-sanctuary
+name: "Kuala Selangor Firefly Sanctuary"
+location:
+  country_code: MY
+  latitude: 3.3650
+  longitude: 101.3000
+scores:
+  impact: 8.1
+  uniqueness: 8.7
+  significance: 7.7
+  experience: 8.5
+  depth: 7.4
+  categories:
+    wildlife: 8.9
+    nature: 8.7

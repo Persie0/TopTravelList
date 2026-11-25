@@ -1,0 +1,16 @@
+id: sight-my-penang-hill
+name: "Penang Hill"
+location:
+  country_code: MY
+  latitude: 5.4240
+  longitude: 100.2680
+scores:
+  impact: 8.5
+  uniqueness: 8.3
+  significance: 7.8
+  experience: 8.7
+  depth: 8.7
+  categories:
+    nature: 8.8
+    photography: 9.0
+    relaxation: 8.8

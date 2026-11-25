@@ -1,0 +1,14 @@
+id: sight-my-putrajaya-iron-mosque
+name: "Putrajaya Iron Mosque"
+location:
+  country_code: MY
+  latitude: 2.9220
+  longitude: 101.6860
+scores:
+  impact: 8.1
+  uniqueness: 8.4
+  significance: 7.3
+  experience: 8.2
+  depth: 7.5
+  categories:
+    architecture: 8.8

@@ -1,0 +1,16 @@
+id: sight-my-kek-lok-si-temple
+name: "Kek Lok Si Temple"
+location:
+  country_code: MY
+  latitude: 5.3995
+  longitude: 100.2738
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 8.5
+  experience: 8.8
+  depth: 8.7
+  categories:
+    architecture: 9.2
+    culture: 9.2
+    photography: 9.2

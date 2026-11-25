@@ -1,0 +1,15 @@
+id: sight-my-mount-tahan
+name: "Mount Tahan"
+location:
+  country_code: MY
+  latitude: 4.6310
+  longitude: 102.2340
+scores:
+  impact: 8.5
+  uniqueness: 8.6
+  significance: 8.0
+  experience: 8.7
+  depth: 8.8
+  categories:
+    adventure: 9.2
+    nature: 9.1

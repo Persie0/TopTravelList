@@ -1,0 +1,16 @@
+id: sight-my-taman-negara-national-park
+name: "Taman Negara National Park"
+location:
+  country_code: MY
+  latitude: 4.7000
+  longitude: 102.4500
+scores:
+  impact: 9.0
+  uniqueness: 9.1
+  significance: 9.0
+  experience: 8.9
+  depth: 9.2
+  categories:
+    nature: 9.4
+    wildlife: 9.2
+    adventure: 9.3

@@ -1,0 +1,15 @@
+id: sight-my-national-mosque-malaysia
+name: "National Mosque Malaysia"
+location:
+  country_code: MY
+  latitude: 3.1419
+  longitude: 101.6918
+scores:
+  impact: 8.2
+  uniqueness: 8.4
+  significance: 8.3
+  experience: 8.4
+  depth: 7.7
+  categories:
+    architecture: 8.9
+    culture: 8.7

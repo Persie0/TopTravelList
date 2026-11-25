@@ -1,0 +1,16 @@
+id: sight-my-redang-island
+name: "Redang Island"
+location:
+  country_code: MY
+  latitude: 5.7750
+  longitude: 103.0100
+scores:
+  impact: 8.9
+  uniqueness: 8.6
+  significance: 7.7
+  experience: 9.1
+  depth: 8.6
+  categories:
+    beaches: 9.4
+    nature: 9.1
+    adventure: 9.1

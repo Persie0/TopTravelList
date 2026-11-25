@@ -1,0 +1,14 @@
+id: sight-my-aquaria-klcc
+name: "Aquaria KLCC"
+location:
+  country_code: MY
+  latitude: 3.1533
+  longitude: 101.7132
+scores:
+  impact: 7.7
+  uniqueness: 7.4
+  significance: 6.6
+  experience: 8.3
+  depth: 7.7
+  categories:
+    family: 8.7

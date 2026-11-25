@@ -1,0 +1,15 @@
+id: sight-my-maritime-museum-melaka
+name: "Maritime Museum Melaka"
+location:
+  country_code: MY
+  latitude: 2.1918
+  longitude: 102.2470
+scores:
+  impact: 7.6
+  uniqueness: 8.0
+  significance: 7.9
+  experience: 8.1
+  depth: 7.6
+  categories:
+    history: 8.4
+    family: 8.3

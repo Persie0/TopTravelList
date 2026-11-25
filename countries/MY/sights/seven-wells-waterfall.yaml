@@ -1,0 +1,15 @@
+id: sight-my-seven-wells-waterfall
+name: "Seven Wells Waterfall"
+location:
+  country_code: MY
+  latitude: 6.3800
+  longitude: 99.6710
+scores:
+  impact: 8.2
+  uniqueness: 8.1
+  significance: 6.8
+  experience: 8.5
+  depth: 7.8
+  categories:
+    nature: 8.7
+    photography: 8.6

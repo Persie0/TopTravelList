@@ -1,0 +1,16 @@
+id: sight-my-endau-rompin-national-park
+name: "Endau Rompin National Park"
+location:
+  country_code: MY
+  latitude: 2.5500
+  longitude: 103.3000
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 8.7
+  experience: 8.6
+  depth: 8.9
+  categories:
+    nature: 9.3
+    wildlife: 9.0
+    adventure: 9.1

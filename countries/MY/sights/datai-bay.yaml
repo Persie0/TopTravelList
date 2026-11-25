@@ -1,0 +1,16 @@
+id: sight-my-datai-bay
+name: "Datai Bay"
+location:
+  country_code: MY
+  latitude: 6.4260
+  longitude: 99.6700
+scores:
+  impact: 8.5
+  uniqueness: 8.3
+  significance: 7.0
+  experience: 8.7
+  depth: 8.0
+  categories:
+    beaches: 9.0
+    nature: 8.8
+    relaxation: 9.0

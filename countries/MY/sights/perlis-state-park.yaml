@@ -1,0 +1,16 @@
+id: sight-my-perlis-state-park
+name: "Perlis State Park"
+location:
+  country_code: MY
+  latitude: 6.6910
+  longitude: 100.1950
+scores:
+  impact: 8.2
+  uniqueness: 8.4
+  significance: 8.0
+  experience: 8.3
+  depth: 8.5
+  categories:
+    nature: 8.9
+    wildlife: 8.6
+    adventure: 8.6

@@ -1,0 +1,15 @@
+id: sight-my-istana-kenangan
+name: "Istana Kenangan"
+location:
+  country_code: MY
+  latitude: 4.7620
+  longitude: 100.9520
+scores:
+  impact: 7.9
+  uniqueness: 8.6
+  significance: 8.3
+  experience: 8.0
+  depth: 7.4
+  categories:
+    architecture: 9.0
+    history: 8.7

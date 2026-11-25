@@ -1,0 +1,15 @@
+id: sight-my-coral-bay-pangkor
+name: "Coral Bay Pangkor"
+location:
+  country_code: MY
+  latitude: 4.2320
+  longitude: 100.5470
+scores:
+  impact: 7.8
+  uniqueness: 7.6
+  significance: 6.3
+  experience: 8.4
+  depth: 7.5
+  categories:
+    beaches: 8.5
+    relaxation: 8.7

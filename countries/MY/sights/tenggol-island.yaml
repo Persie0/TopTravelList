@@ -1,0 +1,16 @@
+id: sight-my-tenggol-island
+name: "Tenggol Island"
+location:
+  country_code: MY
+  latitude: 4.8000
+  longitude: 103.6750
+scores:
+  impact: 8.7
+  uniqueness: 8.7
+  significance: 7.6
+  experience: 9.0
+  depth: 8.5
+  categories:
+    adventure: 9.3
+    nature: 9.2
+    wildlife: 9.0

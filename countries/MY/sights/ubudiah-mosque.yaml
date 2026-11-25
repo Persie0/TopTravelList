@@ -1,0 +1,15 @@
+id: sight-my-ubudiah-mosque
+name: "Ubudiah Mosque"
+location:
+  country_code: MY
+  latitude: 4.7635
+  longitude: 100.9500
+scores:
+  impact: 8.4
+  uniqueness: 8.6
+  significance: 8.4
+  experience: 8.4
+  depth: 7.5
+  categories:
+    architecture: 9.0
+    photography: 8.9
