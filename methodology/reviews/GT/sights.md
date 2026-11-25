@@ -533,10 +533,11 @@ Initial inventory, not exhaustive. [UNESCO country list](https://whc.unesco.org/
 
 - YAML: [source](../../../countries/GT/sights/naranjo-saaal.yaml)
 - Action: new
-- Precise subject: Tentative royal Maya city; UNESCO reference coordinate, ordinary access not confirmed.
+- Precise subject: Tentative royal Maya city; UNESCO reference coordinate. Government reporting of June 18, 2026 confirms visits are possible, but ordinary route and visible scope need separate verification.
 - Location check: 17.133636, -89.260917; approximate representative point, not surveyed entrance; independent verification outstanding. Do not navigate to restricted sites using this point.
 - Evidence status: **unassessed**
 - Evidence: [UNESCO World Heritage Centre](https://whc.unesco.org/en/tentativelists/6623/) — search excerpts or page text consulted 2026-11-25 for identity/context; precise factual claims and GPS not fully verified.
+- Additional evidence: [Guatemala Ministry of Culture and Sports, June 18, 2026](https://guatemala.gob.gt/autoridades-del-mcd-realizan-visita-tecnica-al-parque-nacional-yaxha-nakum-naranjo/) confirms that Naranjo can be visited, but does not establish the extent of the normal visitor route. Unranked pending scope and condition evidence, not a claim of closure.
 - Missing or uncertain facts: Ordinary permitted visitor access, visible condition and precise geography.
 
 ### Worldwide peers
@@ -553,7 +554,7 @@ Initial inventory, not exhaustive. [UNESCO country list](https://whc.unesco.org/
 | Impact | null | visible monument condition unresolved |
 | Uniqueness | null | triadic acropolises documented |
 | Significance | null | major regional dynastic history |
-| Experience | null | ordinary access unconfirmed |
+| Experience | null | ordinary route scope not yet verified |
 | Depth | null | interpreted circuit unknown |
 
 - Applicable categories: unassessed.
@@ -669,3 +670,318 @@ Initial inventory, not exhaustive. [UNESCO country list](https://whc.unesco.org/
 - Earlier decision: none.
 - Verification still needed: Permitted access and condition.
 
+
+## sight-gt-yaxha — Yaxhá Archaeological Park — 2026-11-25
+
+- YAML: [source](../../../countries/GT/sights/yaxha.yaml)
+- Action: new
+- Precise subject: Ancient city and permitted temple routes, not all Yaxhá-Nakum-Naranjo park.
+- Location check: 17.074, -89.401; approximate representative point, independent check required.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Visit Guatemala](https://visitguatemala.gt/en/archaeological-sites/yaxha/) — search excerpts reviewed 2026-11-25; subject identity and context, not all claims or GPS verified.
+- Missing or uncertain facts: Independent claim-level corroboration and exact coordinates; current permitted access.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Angkor Wat (KH)](../../../countries/KH/sights/angkor-wat.yaml) | less monumental breadth than Angkor Wat |
+| [Caracol (BZ)](../../../countries/BZ/sights/caracol-archaeological-reserve.yaml) | comparable forest-city scope to Caracol |
+| [Pigeon Island (LC)](../../../countries/LC/sights/pigeon-island-national-landmark.yaml) | much older archaeology than Pigeon Island |
+| [Layou Petroglyph Park (VC)](../../../countries/VC/sights/layou-petroglyph-park.yaml) | far greater built depth than Layou |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.9 | temple views over lagoons |
+| Uniqueness | 8.8 | Maya ceremonial city in forest and lake setting |
+| Significance | 8.8 | major Classic Maya urban heritage |
+| Experience | 8.7 | plazas and causeways |
+| Depth | 8.7 | many interconnected structures |
+
+- Applicable categories: history:9.1,architecture:9.0,photography:9.2.
+- Overall: 88.05/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial assessment of named scope.
+- Earlier decision: none.
+- Verification still needed: Independent source and geographic verification.
+
+## sight-gt-iximche — Iximché Archaeological Park — 2026-11-25
+
+- YAML: [source](../../../countries/GT/sights/iximche.yaml)
+- Action: new
+- Precise subject: Former Kaqchikel capital, archaeological grounds and respectful public visit.
+- Location check: 14.738, -90.996; approximate representative point, independent check required.
+- Evidence status: **source-linked-unverified**
+- Evidence: [CONAP](https://turismo-sigap.conap.gob.gt/rutas-turisticas/ruta-de-volcanes-paisaje-y-cultura-altiplano/parque-nacional-iximche/) — search excerpts reviewed 2026-11-25; subject identity and context, not all claims or GPS verified.
+- Missing or uncertain facts: Independent claim-level corroboration and exact coordinates; current permitted access.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Angkor Wat (KH)](../../../countries/KH/sights/angkor-wat.yaml) | less monumental than Angkor Wat |
+| [Caracol (BZ)](../../../countries/BZ/sights/caracol-archaeological-reserve.yaml) | smaller than Caracol |
+| [Pigeon Island (LC)](../../../countries/LC/sights/pigeon-island-national-landmark.yaml) | different contact-era history from Pigeon Island |
+| [Layou Petroglyph Park (VC)](../../../countries/VC/sights/layou-petroglyph-park.yaml) | greater urban archaeology than Layou |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 7.9 | plazas and low stone remains |
+| Uniqueness | 8.4 | late Maya capital with continuing spiritual meaning |
+| Significance | 8.8 | contact-era political history |
+| Experience | 8.1 | interpreted compact walk |
+| Depth | 7.7 | several plazas |
+
+- Applicable categories: history:9.1,culture:8.8,architecture:8.3.
+- Overall: 82.15/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial assessment of named scope.
+- Earlier decision: none.
+- Verification still needed: Independent source and geographic verification.
+
+## sight-gt-el-mirador — El Mirador Archaeological Site — 2026-11-25
+
+- YAML: [source](../../../countries/GT/sights/el-mirador.yaml)
+- Action: new
+- Precise subject: Ancient city itself and permitted expedition, not entire basin.
+- Location check: 17.755, -89.921; approximate representative point, independent check required.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Visit Guatemala](https://visitguatemala.gt/sitios-arqueologicos/) — search excerpts reviewed 2026-11-25; subject identity and context, not all claims or GPS verified.
+- Missing or uncertain facts: Independent claim-level corroboration and exact coordinates; current permitted access.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Angkor Wat (KH)](../../../countries/KH/sights/angkor-wat.yaml) | less exposed architectural detail than Angkor Wat |
+| [Caracol (BZ)](../../../countries/BZ/sights/caracol-archaeological-reserve.yaml) | larger preclassic platform scale than Caracol |
+| [Pigeon Island (LC)](../../../countries/LC/sights/pigeon-island-national-landmark.yaml) | much greater archaeological significance than Pigeon Island |
+| [Layou Petroglyph Park (VC)](../../../countries/VC/sights/layou-petroglyph-park.yaml) | greater built breadth than Layou |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 9.0 | huge pyramid platforms and forest |
+| Uniqueness | 9.1 | exceptional early Maya city scale |
+| Significance | 9.2 | major preclassic urban archaeology |
+| Experience | 8.5 | guided expedition and temple viewing |
+| Depth | 8.8 | multiple major complexes |
+
+- Applicable categories: history:9.3,architecture:9.2,adventure:9.3.
+- Overall: 89.70/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial assessment of named scope.
+- Earlier decision: none.
+- Verification still needed: Independent source and geographic verification.
+
+## sight-gt-zaculeu — Zaculeu Archaeological Park — 2026-11-25
+
+- YAML: [source](../../../countries/GT/sights/zaculeu.yaml)
+- Action: new
+- Precise subject: Mam capital ruins, restoration character distinguished from original fabric.
+- Location check: 15.318, -91.507; approximate representative point, independent check required.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Visit Guatemala](https://visitguatemala.gt/sitios-arqueologicos/) — search excerpts reviewed 2026-11-25; subject identity and context, not all claims or GPS verified.
+- Missing or uncertain facts: Independent claim-level corroboration and exact coordinates; current permitted access.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Angkor Wat (KH)](../../../countries/KH/sights/angkor-wat.yaml) | less original monumental fabric than Angkor Wat |
+| [Caracol (BZ)](../../../countries/BZ/sights/caracol-archaeological-reserve.yaml) | smaller than Caracol |
+| [Pigeon Island (LC)](../../../countries/LC/sights/pigeon-island-national-landmark.yaml) | different indigenous history from Pigeon Island |
+| [Layou Petroglyph Park (VC)](../../../countries/VC/sights/layou-petroglyph-park.yaml) | greater built scope than Layou |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 7.8 | white restored pyramids |
+| Uniqueness | 8.0 | highland Mam urban tradition |
+| Significance | 8.4 | regional late Maya history |
+| Experience | 7.9 | compact archaeological visit |
+| Depth | 7.5 | multiple structures |
+
+- Applicable categories: history:8.9,architecture:8.4.
+- Overall: 79.55/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial assessment of named scope.
+- Earlier decision: none.
+- Verification still needed: Independent source and geographic verification.
+
+## sight-gt-kaminaljuyu — Kaminaljuyú Archaeological Park — 2026-11-25
+
+- YAML: [source](../../../countries/GT/sights/kaminaljuyu.yaml)
+- Action: new
+- Precise subject: Surviving urban archaeological park, not the ancient city extent.
+- Location check: 14.633, -90.552; approximate representative point, independent check required.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Government of Guatemala](https://guatemala.gob.gt/el-ministerio-de-cultura-y-deportes-promueve-la-practica-espiritual-en-sitios-arqueologicos-protegidos/) — search excerpts reviewed 2026-11-25; subject identity and context, not all claims or GPS verified.
+- Missing or uncertain facts: Independent claim-level corroboration and exact coordinates; current permitted access.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Angkor Wat (KH)](../../../countries/KH/sights/angkor-wat.yaml) | far less visible monumentality than Angkor Wat |
+| [Caracol (BZ)](../../../countries/BZ/sights/caracol-archaeological-reserve.yaml) | less preserved urban breadth than Caracol |
+| [Pigeon Island (LC)](../../../countries/LC/sights/pigeon-island-national-landmark.yaml) | older heritage than Pigeon Island |
+| [Layou Petroglyph Park (VC)](../../../countries/VC/sights/layou-petroglyph-park.yaml) | more archaeological scope than Layou |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 7.1 | low protected mounds and excavations |
+| Uniqueness | 8.1 | early Maya highland center within modern city |
+| Significance | 8.7 | important archaeological and spiritual context |
+| Experience | 7.6 | respectful site walk |
+| Depth | 7.2 | limited surviving public area |
+
+- Applicable categories: history:9.0,culture:8.5.
+- Overall: 77.55/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial assessment of named scope.
+- Earlier decision: none.
+- Verification still needed: Independent source and geographic verification.
+
+## sight-gt-la-merced-antigua — La Merced Church and Convent — 2026-11-25
+
+- YAML: [source](../../../countries/GT/sights/la-merced-antigua.yaml)
+- Action: new
+- Precise subject: Church and accessible convent ruins, not entire historic city.
+- Location check: 14.561, -90.734; approximate representative point, independent check required.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Visit Guatemala](https://visitantiguaguatemala.com/things-to-do/) — search excerpts reviewed 2026-11-25; subject identity and context, not all claims or GPS verified.
+- Missing or uncertain facts: Independent claim-level corroboration and exact coordinates; current permitted access.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Hohensalzburg (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) | less monumental than Hohensalzburg |
+| [Bridgetown Garrison (BB)](../../../countries/BB/sights/historic-bridgetown-and-its-garrison.yaml) | smaller than Garrison |
+| [Pigeon Island (LC)](../../../countries/LC/sights/pigeon-island-national-landmark.yaml) | more religious architecture than Pigeon Island |
+| [Fort Hamilton (VC)](../../../countries/VC/sights/fort-hamilton-bequia.yaml) | more ornament than Fort Hamilton |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.0 | ornate yellow facade |
+| Uniqueness | 8.0 | regional Baroque design |
+| Significance | 8.4 | colonial religious heritage |
+| Experience | 8.0 | church and permitted grounds |
+| Depth | 7.3 | one architectural complex |
+
+- Applicable categories: architecture:8.9,history:8.7,photography:8.8.
+- Overall: 80.10/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial assessment of named scope.
+- Earlier decision: none.
+- Verification still needed: Independent source and geographic verification.
+
+## sight-gt-santa-clara-convent — Santa Clara Convent Ruins — 2026-11-25
+
+- YAML: [source](../../../countries/GT/sights/santa-clara-convent.yaml)
+- Action: new
+- Precise subject: Ruined convent complex and courtyard only.
+- Location check: 14.555, -90.731; approximate representative point, independent check required.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Visit Guatemala](https://visitguatemala.gt/ciudades/antigua-guatemala/) — search excerpts reviewed 2026-11-25; subject identity and context, not all claims or GPS verified.
+- Missing or uncertain facts: Independent claim-level corroboration and exact coordinates; current permitted access.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Hohensalzburg (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) | less monumental than Hohensalzburg |
+| [Bridgetown Garrison (BB)](../../../countries/BB/sights/historic-bridgetown-and-its-garrison.yaml) | less extensive than Garrison |
+| [Pigeon Island (LC)](../../../countries/LC/sights/pigeon-island-national-landmark.yaml) | more architectural ruins than Pigeon Island |
+| [Fort Hamilton (VC)](../../../countries/VC/sights/fort-hamilton-bequia.yaml) | greater interior scope than Fort Hamilton |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 7.9 | arches and ruined cloisters |
+| Uniqueness | 8.0 | colonial convent setting |
+| Significance | 8.2 | religious and earthquake heritage |
+| Experience | 8.0 | ruin exploration |
+| Depth | 7.3 | compact architectural complex |
+
+- Applicable categories: architecture:8.8,history:8.6,photography:8.8.
+- Overall: 79.40/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial assessment of named scope.
+- Earlier decision: none.
+- Verification still needed: Independent source and geographic verification.
+
+## sight-gt-biotopo-del-quetzal — Biotopo del Quetzal — 2026-11-25
+
+- YAML: [source](../../../countries/GT/sights/biotopo-del-quetzal.yaml)
+- Action: new
+- Precise subject: Protected cloud forest and permitted interpreted trails, no guaranteed bird sighting.
+- Location check: 15.214, -90.219; approximate representative point, independent check required.
+- Evidence status: **source-linked-unverified**
+- Evidence: [CONAP](https://turismo-sigap.conap.gob.gt/rutas-turisticas/ruta-aventura-dentro-de-la-selva-verapaces/biotopo-protegido-del-quetzal-mario-dary-rivera/) — search excerpts reviewed 2026-11-25; subject identity and context, not all claims or GPS verified.
+- Missing or uncertain facts: Independent claim-level corroboration and exact coordinates; current permitted access.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Cockscomb Basin (BZ)](../../../countries/BZ/sights/cockscomb-basin-wildlife-sanctuary.yaml) | smaller habitat than Cockscomb |
+| [Tobago Main Ridge (TT)](../../../countries/TT/sights/tobago-main-ridge-forest-reserve.yaml) | different highland species from Main Ridge |
+| [Des Cartiers (LC)](../../../countries/LC/sights/des-cartiers-rainforest-trail.yaml) | more targeted bird habitat than Des Cartiers |
+| [Barbados Wildlife Reserve (BB)](../../../countries/BB/sights/barbados-wildlife-reserve.yaml) | natural habitat rather than managed reserve |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.0 | dense cloud forest and streams |
+| Uniqueness | 8.5 | quetzal habitat |
+| Significance | 8.5 | important national bird conservation |
+| Experience | 8.2 | forest hiking and birdwatching |
+| Depth | 7.9 | multiple trails |
+
+- Applicable categories: nature:9.0,wildlife:9.1,photography:8.8.
+- Overall: 82.45/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial assessment of named scope.
+- Earlier decision: none.
+- Verification still needed: Independent source and geographic verification.
+
+## sight-gt-laguna-lachua — Laguna Lachuá National Park — 2026-11-25
+
+- YAML: [source](../../../countries/GT/sights/laguna-lachua.yaml)
+- Action: new
+- Precise subject: Protected lake and surrounding permitted forest trail.
+- Location check: 15.926, -90.674; approximate representative point, independent check required.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Visit Guatemala](https://visitguatemala.gt/en/natural-wonders/) — search excerpts reviewed 2026-11-25; subject identity and context, not all claims or GPS verified.
+- Missing or uncertain facts: Independent claim-level corroboration and exact coordinates; current permitted access.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Cockscomb Basin (BZ)](../../../countries/BZ/sights/cockscomb-basin-wildlife-sanctuary.yaml) | less wildlife breadth than Cockscomb |
+| [Tobago Main Ridge (TT)](../../../countries/TT/sights/tobago-main-ridge-forest-reserve.yaml) | different lake habitat from Main Ridge |
+| [Des Cartiers (LC)](../../../countries/LC/sights/des-cartiers-rainforest-trail.yaml) | more varied water landscape than Des Cartiers |
+| [Barbados Wildlife Reserve (BB)](../../../countries/BB/sights/barbados-wildlife-reserve.yaml) | greater natural scope than Barbados reserve |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.6 | clear circular lake and forest |
+| Uniqueness | 8.5 | distinct tropical karst lake |
+| Significance | 8.5 | important protected ecosystem |
+| Experience | 8.3 | forest hike and permitted shore visit |
+| Depth | 8.0 | several linked habitats |
+
+- Applicable categories: nature:9.1,photography:9.0,wildlife:8.8.
+- Overall: 84.50/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial assessment of named scope.
+- Earlier decision: none.
+- Verification still needed: Independent source and geographic verification.
