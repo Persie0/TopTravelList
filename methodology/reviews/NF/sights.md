@@ -18,6 +18,15 @@ Kingston is the Norfolk component of the Australian Convict Sites serial propert
 - Grytviken (GS): related remote maritime heritage but different history
 - St George's historic town (BM): broader fortified urban fabric
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from territory branch YAML; editorial comparisons, not independent factual verification.
+
+- [grytviken (GS)](../../../countries/GS/sights/grytviken.yaml) — 8.9/9.3/9.4/8.9/8.8; Comparable remote maritime heritage precinct, more industrial emphasis and less penal architecture.
+- [national museum (BM)](../../../countries/BM/sights/national-museum.yaml) — 8.6/8.8/9.0/8.7/8.8; Fortified heritage precinct with established museum interpretation, different historical function.
+- [longwood house (SH)](../../../countries/SH/sights/longwood-house.yaml) — 8.5/9.2/9.3/8.5/8.2; Focused internationally significant historic residence, less precinct breadth.
+- [oura church (JP)](../../../countries/JP/sights/oura-church.yaml) — 8.5/8.8/9.1/8.7/7.7; Comparable preserved nineteenth-century religious and cultural heritage with narrower building scope.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -50,6 +59,15 @@ Kingston is the Norfolk component of the Australian Convict Sites serial propert
 - Historic Dockyard Museum (FK): comparable island history focus
 - National Museum of Bermuda (BM): larger maritime and fort scope
 - Longwood House (SH): stronger singular international historic association
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from territory branch YAML; editorial comparisons, not independent factual verification.
+
+- [pitcairn museum (PN)](../../../countries/PN/sights/pitcairn-museum.yaml) — 7.4/8.8/8.8/8.0/7.4; Related Pacific settlement heritage and smaller collection scope.
+- [historic dockyard museum (FK)](../../../countries/FK/sights/historic-dockyard-museum.yaml) — 8.0/8.6/8.8/8.5/8.6; Broader maritime museum and interpreted precinct.
+- [national museum (BM)](../../../countries/BM/sights/national-museum.yaml) — 8.6/8.8/9.0/8.7/8.8; More extensive fortified maritime and museum heritage.
+- [museum st helena (SH)](../../../countries/SH/sights/museum-st-helena.yaml) — 7.5/8.3/8.6/8.0/7.5; Similar remote island history collection and public interpretation.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -84,6 +102,15 @@ Kingston is the Norfolk component of the Australian Convict Sites serial propert
 - Anse Source d'Argent (SC): stronger distinctive geology
 - St Paul's Pool (PN): smaller specialized pool
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from territory branch YAML; editorial comparisons, not independent factual verification.
+
+- [mullet bay (SX)](../../../countries/SX/sights/mullet-bay.yaml) — 8.7/8.0/7.0/8.5/7.4; Close beach recreation comparator with different reef conditions.
+- [anse source d argent (SC)](../../../countries/SC/sights/anse-source-d-argent.yaml) — 9.8/9.7/7.8/9.2/7.6; Much more distinctive granite setting and concentrated visual impact.
+- [matira beach (PF)](../../../countries/PF/sights/matira-beach.yaml) — 8.6/7.8/6.4/8.7/6.8; Comparable shallow tropical lagoon beach experience.
+- [direction island (CC)](../../../countries/CC/sights/direction-island.yaml) — 9.1/8.6/8.0/8.7/8.1; Broader atoll beach and heritage trail scope.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -116,6 +143,15 @@ Kingston is the Norfolk component of the Australian Convict Sites serial propert
 - Green Mountain (SH): more introduced forest
 - Madeira Laurisilva (PT): much larger native forest
 - Mount Scenery (BQ): comparable compact island summit hike
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from territory branch YAML; editorial comparisons, not independent factual verification.
+
+- [peaks national park (SH)](../../../countries/SH/sights/peaks-national-park.yaml) — 9.0/9.2/9.0/8.8/8.6; Close compact protected endemic island forest and trails.
+- [laurisilva (PT)](../../../countries/PT/sights/laurisilva.yaml) — 9.2/9.4/9.5/9.1/9.3; Much larger native forest heritage and trail network.
+- [black river gorges national park (MU)](../../../countries/MU/sights/black-river-gorges-national-park.yaml) — 9.0/8.9/8.8/8.9/9.0; Greater native island forest extent and visitor depth.
+- [green mountain (SH)](../../../countries/SH/sights/green-mountain.yaml) — 8.7/8.8/8.4/8.5/8.2; Comparable island upland walking experience, substantially different introduced forest context.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -150,6 +186,15 @@ Kingston is the Norfolk component of the Australian Convict Sites serial propert
 - Sandy Bay (SH): comparable volcanic coast
 - Anson Bay (NF): smaller beach viewpoint
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from territory branch YAML; editorial comparisons, not independent factual verification.
+
+- [ponta sao lourenco (PT)](../../../countries/PT/sights/ponta-sao-lourenco.yaml) — 9.1/9.0/8.5/9.0/8.5; Longer and more varied coastal ridge walk.
+- [cliffs of moher (IE)](../../../countries/IE/sights/cliffs-of-moher.yaml) — 9.5/9.1/8.7/9.0/8.2; More monumental cliff panorama and developed visitor scope.
+- [tojinbo cliffs (JP)](../../../countries/JP/sights/tojinbo-cliffs.yaml) — 8.7/8.9/8.1/8.8/8.0; Similar concentrated coastal rock viewing experience.
+- [sandy bay (SH)](../../../countries/SH/sights/sandy-bay.yaml) — 8.6/8.3/7.7/7.9/7.5; Comparable island cliff and coastal panorama, different geology.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -182,6 +227,15 @@ Kingston is the Norfolk component of the Australian Convict Sites serial propert
 - Jardin de Balata (MQ): comparable compact tropical garden
 - Andromeda Botanic Gardens (BB): related garden-scale experience
 - Peaks National Park (SH): larger wild forest habitat
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from territory branch YAML; editorial comparisons, not independent factual verification.
+
+- [singapore botanic gardens (SG)](../../../countries/SG/sights/singapore-botanic-gardens.yaml) — 9.1/9.2/9.4/9.2/9.3; Much greater historic collection and botanical interpretation.
+- [jardin de balata (MQ)](../../../countries/MQ/sights/jardin-de-balata.yaml) — 8.6/8.2/7.7/8.8/8.3; Comparable managed tropical garden experience and designed planting.
+- [seychelles national botanical garden (SC)](../../../countries/SC/sights/seychelles-national-botanical-garden.yaml) — 7.8/7.9/7.9/8.3/7.7; Similar compact island garden scope.
+- [sir seewoosagur ramgoolam botanical garden (MU)](../../../countries/MU/sights/sir-seewoosagur-ramgoolam-botanical-garden.yaml) — 8.3/8.7/8.7/8.6/8.3; Broader historic botanical collection and plant diversity.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -216,6 +270,15 @@ Kingston is the Norfolk component of the Australian Convict Sites serial propert
 - Church of the Holy Sepulchre (IL): far greater international significance
 - Fletcher's Mutiny Cyclorama (NF): different contemporary interpretation
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from territory branch YAML; editorial comparisons, not independent factual verification.
+
+- [christ church cathedral (FK)](../../../countries/FK/sights/christ-church-cathedral.yaml) — 7.9/8.5/8.2/8.0/7.0; Close island church with local architectural and historical significance.
+- [oura church (JP)](../../../countries/JP/sights/oura-church.yaml) — 8.5/8.8/9.1/8.7/7.7; Greater internationally recognized religious and architectural history.
+- [hvalsey church (GL)](../../../countries/GL/sights/hvalsey-church.yaml) — 8.3/8.9/9.1/8.2/7.8; Comparable isolated church heritage, different ruined rather than working building.
+- [longwood house (SH)](../../../countries/SH/sights/longwood-house.yaml) — 8.5/9.2/9.3/8.5/8.2; Historic building with greater singular international association, different function.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -248,6 +311,15 @@ Kingston is the Norfolk component of the Australian Convict Sites serial propert
 - Anse Cocos (SC): similar secluded beach hike
 - Emily Bay (NF): more established water recreation
 - Praia da Marinha (PT): stronger distinctive rock formations
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from territory branch YAML; editorial comparisons, not independent factual verification.
+
+- [sandy bay (SH)](../../../countries/SH/sights/sandy-bay.yaml) — 8.6/8.3/7.7/7.9/7.5; Comparable cliff-framed island coastal landscape with limited beach access.
+- [anse major nature trail (SC)](../../../countries/SC/sights/anse-major-nature-trail.yaml) — 8.7/8.4/6.7/8.7/7.5; Comparable coastal walking and beach viewpoint, more developed route.
+- [jogasaki coast (JP)](../../../countries/JP/sights/jogasaki-coast.yaml) — 8.6/8.5/7.8/8.8/8.5; Longer established coastal trail and cliff experience.
+- [ponta sao lourenco (PT)](../../../countries/PT/sights/ponta-sao-lourenco.yaml) — 9.1/9.0/8.5/9.0/8.5; More extensive dramatic coastal ridge walk and scenic breadth.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -282,6 +354,15 @@ Kingston is the Norfolk component of the Australian Convict Sites serial propert
 - Green Mountain (SH): larger upland trail network
 - Black River Gorges (MU): much greater native forest extent
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from territory branch YAML; editorial comparisons, not independent factual verification.
+
+- [anse major nature trail (SC)](../../../countries/SC/sights/anse-major-nature-trail.yaml) — 8.7/8.4/6.7/8.7/7.5; Comparable coastal nature trail with more dramatic shore views.
+- [jogasaki coast (JP)](../../../countries/JP/sights/jogasaki-coast.yaml) — 8.6/8.5/7.8/8.8/8.5; Greater coastal trail and viewpoint breadth.
+- [green mountain (SH)](../../../countries/SH/sights/green-mountain.yaml) — 8.7/8.8/8.4/8.5/8.2; Larger upland forest trail network, different landscape.
+- [black river gorges national park (MU)](../../../countries/MU/sights/black-river-gorges-national-park.yaml) — 9.0/8.9/8.8/8.9/9.0; Much greater forest extent and exploration depth.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -315,6 +396,17 @@ Kingston is the Norfolk component of the Australian Convict Sites serial propert
 - Pitcairn Island Museum (PN): stronger original artifacts
 - Norfolk Island Museum (NF): wider collection breadth
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from territory branch YAML; editorial comparisons, not independent factual verification.
+
+- [pitcairn museum (PN)](../../../countries/PN/sights/pitcairn-museum.yaml) — 7.4/8.8/8.8/8.0/7.4; Related Bounty-era heritage with original collection rather than contemporary panoramic art.
+- [museum st helena (SH)](../../../countries/SH/sights/museum-st-helena.yaml) — 7.5/8.3/8.6/8.0/7.5; Comparable compact island historical interpretation.
+- [ghibli museum (JP)](../../../countries/JP/sights/ghibli-museum.yaml) — 8.5/9.1/7.8/9.0/8.0; Distinct immersive designed art and narrative exhibition, different subject.
+- [asian civilisations museum (SG)](../../../countries/SG/sights/asian-civilisations-museum.yaml) — 8.7/8.9/8.9/8.9/8.8; Greater authentic historical collections and interpretation breadth.
+
+The peers constrain historical interpretation and experience rather than panoramic artwork scale; no original artifact credit.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -347,6 +439,17 @@ Kingston is the Norfolk component of the Australian Convict Sites serial propert
 - Henderson Island (PN): stronger global natural heritage
 - Mykines (FO): established managed visitor trail
 - Gough and Inaccessible Islands (SH): comparable restricted conservation scope
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from territory branch YAML; editorial comparisons, not independent factual verification.
+
+- [nightingale island (SH)](../../../countries/SH/sights/nightingale-island.yaml) — 8.8/9.0/9.0/8.2/7.8; Comparable remote island ecology with documented conditional guided visits.
+- [mykines (FO)](../../../countries/FO/sights/mykines.yaml) — 9.1/9.0/8.6/8.7/8.4; Managed seabird island trail and more established visitor scope.
+- [ogasawara islands (JP)](../../../countries/JP/sights/ogasawara-islands.yaml) — 9.5/9.7/9.5/9.2/9.4; Broader documented island ecosystem and established visitor experiences.
+- [aldabra atoll (SC)](../../../countries/SC/sights/aldabra-atoll.yaml) — 9.5/9.8/9.8/8.0/7.6; Exceptional regulated island conservation and different remote ecology.
+
+Retain null visitor fields: authorized visits on other remote islands cannot establish current tours here.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
