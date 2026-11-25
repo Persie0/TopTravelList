@@ -5,13 +5,14 @@
 ## sight-cd-garamba-national-park — Garamba National Park — 2026-11-25
 
 - YAML: [source](../../../countries/CD/sights/garamba-national-park.yaml)
-- Action: new
+- Action: category reassessment; original decision preserved in [verification history](verification-2026-11-25.md)
 - Precise subject: Inscribed park, official UNESCO point; 2026 buffer modification not independently rated. African Parks publishes seasonal game drives, lodging and closure during flooding; old rhino claims not assumed.
 - Location check: 4.166667, 29.499722; representative point; precise entrance not verified.
 - Evidence status: **source-linked-unverified**
 - Sources (2026-11-25; identity, scope, location and/or historical visitor context; incomplete independent triangulation):
   - https://whc.unesco.org/en/list/136/
   - https://www.africanparks.org/the-parks/garamba/visit-garamba
+  - https://www.africanparks.org/the-parks/garamba/visit-garamba — manager's visitor page checked 2026-11-25: seasonal game drives, birding, varied habitats, but many animals are secretive.
 - Missing facts: Current access, site condition and claim-level verification.
 
 ### Worldwide peer comparisons
@@ -26,9 +27,9 @@
 - Significance: 9.5 — International conservation importance for threatened giraffes, elephants and other species.
 - Experience: 8.7 — Published seasonal visitor program, encounters variable.
 - Depth: 9.0 — Several habitat types and drives, below Okavango's breadth.
-- Applicable categories: nature 9.5, wildlife 9.5.
+- Applicable categories: nature 9.5, wildlife 9.1.
 - Overall: 90.50/100.
-- High-score challenge: Significance, nature and wildlife 9.5 recognize rare continuous forest-savanna mosaic and threatened-species conservation; not a claim of northern white rhino sightings or guaranteed encounters.
+- High-score challenge: Significance/nature 9.5 recognize conservation importance. Wildlife 9.1 credits documented seasonal safari and birding, below Okavango 9.9 and Khao Yai 9.5 because encounter diversity and reliability are not established.
 - Approved 10 registry: none.
 - Final decision: Provisional editorial rating; not independently fact-checked.
 - Verification still needed: current access, exact locations where provisional, remaining peer scores and claim-level evidence.
@@ -36,7 +37,7 @@
 ## sight-cd-virunga-national-park — Virunga National Park — 2026-11-25
 
 - YAML: [source](../../../countries/CD/sights/virunga-national-park.yaml)
-- Action: new
+- Action: second-pass evidence review; score retained
 - Precise subject: Inscribed park ensemble; official UNESCO representative point. Historical gorilla and volcano visitor programs explicitly documented, currently closed until further notice; no current booking assumed.
 - Location check: -0.050006, 29.514297; representative point; precise entrance not verified.
 - Evidence status: **source-linked-unverified**
@@ -44,9 +45,11 @@
   - https://whc.unesco.org/en/list/63/
   - https://visit.virunga.org/
   - https://visit.virunga.org/treks/nyiragongo-volcano-trek/
+  - https://visit.virunga.org/treks/mountain-gorilla-trek/ — park's historical trek program documents ten monitored habituated gorilla groups and guided encounters; checked 2026-11-25.
 - Missing facts: Current access, site condition and claim-level verification.
 
 ### Worldwide peer comparisons
+- [Volcanoes National Park (RW)](../../../countries/RW/sights/volcanoes-national-park.yaml): 9.6/9.7/9.4/9.4/9.1; direct historical gorilla trekking comparison, wildlife 9.9.
 - [Okavango Delta (BW)](../../../countries/BW/sights/okavango-delta.yaml): 9.8/9.9/9.8/9.5/9.8; exceptional open wildlife observation and habitat breadth.
 - [Khao Yai (TH)](../../../countries/TH/sights/khao-yai-national-park.yaml): 9.0/9.1/9.0/9.0/9.2; established forest trails and wildlife.
 - [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml): 8.9/9.0/9.0/9.1/8.6; managed nature observation.
@@ -60,7 +63,7 @@
 - Depth: 9.2 — Multiple historical visitor experiences, no whole wilderness access assumed.
 - Applicable categories: nature 9.7, wildlife 9.7, adventure 9.4.
 - Overall: 94.90/100.
-- High-score challenge: Impact 9.5, uniqueness 9.6, significance/nature/wildlife 9.7 reflect rare juxtaposition of volcanic habitats and threatened gorillas. Historical visitor scope rated, not current operations; no guaranteed lava lake or gorilla encounter.
+- High-score challenge: Impact 9.5, uniqueness 9.6, significance and nature 9.7 reflect rare volcanic and gorilla landscapes. Wildlife 9.7 specifically credits documented habituated mountain gorilla trekking, not biodiversity alone; below Rwanda's Volcanoes National Park wildlife 9.9, not a guarantee of encounters or current access.
 - Approved 10 registry: none.
 - Final decision: Provisional editorial rating; not independently fact-checked.
 - Verification still needed: current access, exact locations where provisional, remaining peer scores and claim-level evidence.
@@ -68,7 +71,7 @@
 ## sight-cd-kahuzi-biega-national-park — Kahuzi-Biega National Park — 2026-11-25
 
 - YAML: [source](../../../countries/CD/sights/kahuzi-biega-national-park.yaml)
-- Action: new
+- Action: second-pass evidence review; score retained
 - Precise subject: Inscribed park; historical lowland gorilla trekking and hiking; current access requires park confirmation, independent source reports closure.
 - Location check: -2.334053, 28.180743; representative point; precise entrance not verified.
 - Evidence status: **source-linked-unverified**
@@ -76,9 +79,11 @@
   - https://whc.unesco.org/en/list/137/
   - https://www.kahuzibiega.com/en-us/RESOURCES/Faq
   - https://www.heritage.world/sites/kahuzi-biega-national-park/
+  - https://www.kahuzibiega.com/en-us/WILDLIFE/Gorillas and https://www.kahuzibiega.com/en-us/VISIT/MEET-THE-GORILLAS — park's official program describes two fully habituated Grauer's gorilla groups in the highland sector and a rare opportunity to observe this subspecies; checked 2026-11-25.
 - Missing facts: Current access, site condition and claim-level verification.
 
 ### Worldwide peer comparisons
+- [Volcanoes National Park (RW)](../../../countries/RW/sights/volcanoes-national-park.yaml): 9.6/9.7/9.4/9.4/9.1; direct historical gorilla trekking comparison, wildlife 9.9.
 - [Okavango Delta (BW)](../../../countries/BW/sights/okavango-delta.yaml): 9.8/9.9/9.8/9.5/9.8; exceptional open wildlife observation and habitat breadth.
 - [Khao Yai (TH)](../../../countries/TH/sights/khao-yai-national-park.yaml): 9.0/9.1/9.0/9.0/9.2; established forest trails and wildlife.
 - [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml): 8.9/9.0/9.0/9.1/8.6; managed nature observation.
@@ -92,7 +97,7 @@
 - Depth: 8.6 — Forest routes and wildlife, more limited than broad savanna safari.
 - Applicable categories: nature 9.6, wildlife 9.7.
 - Overall: 92.10/100.
-- High-score challenge: Significance/nature 9.6 and wildlife 9.7 reflect important habitat for endangered Grauer's gorillas and other forest fauna, not guarantee of sightings. Historical experience provisional.
+- High-score challenge: Significance/nature 9.6 reflect endangered Grauer's gorilla habitat. Wildlife 9.7 is supported by the historically distinctive habituated wild Grauer's gorilla encounter (not a claim of broad reliable safari sightings); below Rwanda's Volcanoes National Park 9.9. Current operations are not asserted.
 - Approved 10 registry: none.
 - Final decision: Provisional editorial rating; not independently fact-checked.
 - Verification still needed: current access, exact locations where provisional, remaining peer scores and claim-level evidence.
@@ -100,12 +105,13 @@
 ## sight-cd-okapi-wildlife-reserve — Okapi Wildlife Reserve — 2026-11-25
 
 - YAML: [source](../../../countries/CD/sights/okapi-wildlife-reserve.yaml)
-- Action: new
+- Action: category reassessment; original decision preserved in [verification history](verification-2026-11-25.md)
 - Precise subject: Inscribed Ituri forest reserve, UNESCO representative point; no verified normal permitted visitor circuit.
 - Location check: 2, 28.5; representative point; precise entrance not verified.
 - Evidence status: **unassessed**
 - Sources (2026-11-25; identity, scope, location and/or historical visitor context; incomplete independent triangulation):
   - https://whc.unesco.org/en/list/718/
+  - https://world-heritage-datasheets.unep-wcmc.org/datasheet/output/site/okapi-wildlife-reserve/ — historical Epulu breeding station drew visitors, but reserve-wide tourism remained poorly developed. https://news.mongabay.com/2025/05/13-years-after-deadly-attack-an-okapi-returns-to-epulu-in-drc-reserve/ — 2025 report establishes changes to historic station's animal population; no confirmed visitor offer. Checked 2026-11-25.
 - Missing facts: Ordinary permitted visitor experience or accessible scope insufficiently documented.
 
 ### Worldwide peer comparisons
@@ -120,9 +126,9 @@
 - Significance: 9.7 — Globally important endemic and threatened fauna.
 - Experience: null — Ordinary visitor operation unverified.
 - Depth: null — Accessible habitat scope unknown.
-- Applicable categories: nature 9.7, wildlife 9.7.
+- Applicable categories: nature 9.7, wildlife null.
 - Overall: unranked.
-- High-score challenge: Uniqueness 9.6, significance/nature/wildlife 9.7 reflect okapi conservation and intact rainforest ecology, not viewing reliability; no overall score.
+- High-score challenge: Uniqueness 9.6, significance/nature 9.7 reflect endemic okapi and forest ecology. Historical station visits do not establish an ordinary reserve-wide circuit or present observation scope; wildlife remains null, as do experience and depth.
 - Approved 10 registry: none.
 - Final decision: Partial assessment retained, no overall score.
 - Verification still needed: current access, exact locations where provisional, remaining peer scores and claim-level evidence.
@@ -130,7 +136,7 @@
 ## sight-cd-salonga-national-park — Salonga National Park — 2026-11-25
 
 - YAML: [source](../../../countries/CD/sights/salonga-national-park.yaml)
-- Action: new
+- Action: category reassessment; original decision preserved in [verification history](verification-2026-11-25.md)
 - Precise subject: Serial forest park, broad published bounds midpoint not entrance; northern and southern sectors not separately reviewed.
 - Location check: -2.166667, 21.25; representative point; precise entrance not verified.
 - Evidence status: **unassessed**
@@ -138,6 +144,7 @@
   - https://whc.unesco.org/en/list/280/
   - https://whc.unesco.org/en/list/280/maps/
   - https://whc.unesco.org/document/104482
+  - https://www.worldwildlife.org/news/stories/tracking-bonobos-in-the-wild/ — WWF report accessed 2026-11-25: habituation research prepares potential future ecotourism, not evidence of ordinary visitor trips.
 - Missing facts: Ordinary permitted visitor experience or accessible scope insufficiently documented.
 
 ### Worldwide peer comparisons
@@ -152,9 +159,9 @@
 - Significance: 9.7 — Global bonobo and forest conservation importance.
 - Experience: null — Normal permitted visitor circuit unverified.
 - Depth: null — Accessible habitat breadth unclear.
-- Applicable categories: nature 9.8, wildlife 9.7.
+- Applicable categories: nature 9.8, wildlife null.
 - Overall: unranked.
-- High-score challenge: Uniqueness 9.5, significance/wildlife 9.7 and nature 9.8 reflect extraordinary forest extent and endemic fauna; not a claim about observable species or whole-park visitor depth.
+- High-score challenge: Uniqueness 9.5, significance 9.7 and nature 9.8 reflect the extent and endemic biodiversity of the forest. Research habituation does not establish responsible visitor observation; wildlife remains null and no overall score.
 - Approved 10 registry: none.
 - Final decision: Partial assessment retained, no overall score.
 - Verification still needed: current access, exact locations where provisional, remaining peer scores and claim-level evidence.
@@ -194,12 +201,13 @@
 ## sight-cd-lomami-national-park — Lomami National Park — 2026-11-25
 
 - YAML: [source](../../../countries/CD/sights/lomami-national-park.yaml)
-- Action: new
+- Action: category reassessment; original decision preserved in [verification history](verification-2026-11-25.md)
 - Precise subject: 2024 tentative park, nomination bounds midpoint; no permitted normal visitor circuit established.
 - Location check: -2, 25; representative point; precise entrance not verified.
 - Evidence status: **unassessed**
 - Sources (2026-11-25; identity, scope, location and/or historical visitor context; incomplete independent triangulation):
   - https://whc.unesco.org/en/tentativelists/6699/
+  - https://www.keybiodiversityareas.org/en/site/factsheet/200502 — KBA profile, checked 2026-11-25, supports habitat and restricted-range primate significance; does not establish ordinary tourism. https://visitrdc.org/sites lists Lomami, but does not substantiate a normal wildlife encounter circuit.
 - Missing facts: Ordinary permitted visitor experience or accessible scope insufficiently documented.
 
 ### Worldwide peer comparisons
@@ -214,9 +222,9 @@
 - Significance: 9.6 — Important newly documented primate diversity.
 - Experience: null — Normal visitor operation unverified.
 - Depth: null — Accessible habitat scope unclear.
-- Applicable categories: nature 9.5, wildlife 9.6.
+- Applicable categories: nature 9.5, wildlife null.
 - Overall: unranked.
-- High-score challenge: Uniqueness/nature 9.5 and significance/wildlife 9.6 reflect restricted-range primates and conservation importance documented by nomination; no guaranteed sightings.
+- High-score challenge: Uniqueness/nature 9.5 and significance 9.6 reflect the distinct forest ecosystem and threatened primates. Wildlife remains unassessed because visitor encounters are not documented; no overall score.
 - Approved 10 registry: none.
 - Final decision: Partial assessment retained, no overall score.
 - Verification still needed: current access, exact locations where provisional, remaining peer scores and claim-level evidence.
@@ -507,7 +515,41 @@
 - Final decision: Provisional editorial rating; not independently fact-checked.
 - Verification still needed: current access, exact locations where provisional, remaining peer scores and claim-level evidence.
 
+## sight-cd-lwiro-primate-rehabilitation-centre — Lwiro Primate Rehabilitation Centre — 2026-11-25
+
+- YAML: [source](../../../countries/CD/sights/lwiro-primate-rehabilitation-centre.yaml)
+- Action: new
+- Precise subject: Accredited rescue centre near Kahuzi-Biega, historically permitted educational visits to chimpanzees and monkeys; not wild gorilla trekking or the national park.
+- Location check: -2.239, 28.807; secondary sanctuary directory coordinate; official centre confirms village of Lwiro, South Kivu. Representative point, precise entrance unverified.
+- Evidence status: **source-linked-unverified**
+- Sources (accessed 2026-11-25):
+  - https://www.lwiroprimates.org/whatwedo — centre's own conservation education account describes historical visits.
+  - https://collaborations.wcs.org/visitkahuzibiega/en-us/VISIT/ACTIVITIES-NEAR-THE-PARK — documented historical centre visit as a separate outing.
+  - https://www.lwirofund.org/our-sanctuary — partner confirms historical educational visitors and suspension of visits due to insecurity; do not imply current admission.
+  - https://sanctuaryfederation.org/2023/09/07/lwiro-primates-rehabilitation-center-in-democratic-republic-of-congo-is-accredited-by-the-global-federation-of-animal-sanctuaries/ — independent welfare accreditation and rescue purpose.
+  - https://wallacesline.com/centres/lwiro-primates-rehabilitation-center/ and https://www.lwiroprimates.org/whereweare — approximate location.
+- Missing facts: precise entrance, exact visitor-visible enclosure scope, current operation and independent claim-level triangulation.
+
+### Worldwide peer comparisons
+- [Lola ya Bonobo (CD)](../../../countries/CD/sights/lola-ya-bonobo.yaml): 8.8/9.3/8.9/9.1/8.0; more distinctive dedicated bonobo sanctuary.
+- [Mefou Primate Sanctuary (CM)](../../../countries/CM/sights/mefou-primate-sanctuary.yaml): 8.3/8.7/8.4/8.8/8.0; comparable forest primate rehabilitation and visitor education.
+- [Limbe Wildlife Centre (CM)](../../../countries/CM/sights/limbe-wildlife-centre.yaml): 8.0/8.4/8.3/8.6/7.6; compact rescue centre and education.
+- [Taï National Park (CI)](../../../countries/CI/sights/tai-national-park.yaml): 9.3/9.5/9.6/9.0/9.1; different and much broader wild forest experience, not a captive encounter.
+
+### Scoring decisions
+- Impact: 8.3 — memorable primate observation in a rescue setting.
+- Uniqueness: 8.6 — distinctive eastern Congo rehabilitation and education context, but comparable to other accredited sanctuaries.
+- Significance: 8.5 — documented wildlife rescue and conservation education.
+- Experience: 8.5 — historically documented educational visits; no guarantee of current admission.
+- Depth: 7.9 — focused sanctuary interpretation and observation, not all rehabilitation activities.
+- Applicable categories: wildlife 8.7, family 8.3.
+- Overall: 84.05/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional historical intrinsic assessment, separate from Kahuzi-Biega; not a travel recommendation.
+- Verification still needed: exact location and ordinary visitor scope.
+
 ## Inventory coverage and backlog
 
-[UNESCO country inventory](https://whc.unesco.org/en/statesparties/cd) lists five inscribed and four tentative properties, all represented; Dimba and Ngovo separately assessed, Salonga serial sectors not separately assessed. Garamba 2026 boundary modification noted. Additional regional attractions, Lwiro, Kongo Central heritage, Yangambi, Upemba National Park, Maiko, Kundelungu, and further cities remain backlog. No exhaustive national inventory claimed.
+[UNESCO country inventory](https://whc.unesco.org/en/statesparties/cd) lists five inscribed and four tentative properties, all represented; Dimba and Ngovo separately assessed, Salonga serial sectors not separately assessed. Garamba 2026 boundary modification noted. Additional regional attractions, Kongo Central heritage, Yangambi, Upemba National Park, Maiko, Kundelungu, and further cities remain backlog. No exhaustive national inventory claimed.
 
