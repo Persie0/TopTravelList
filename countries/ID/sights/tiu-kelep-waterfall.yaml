@@ -1,0 +1,16 @@
+id: sight-id-tiu-kelep-waterfall
+name: "Tiu Kelep Waterfall"
+location:
+  country_code: ID
+  latitude: -8.3110
+  longitude: 116.4010
+scores:
+  impact: 9.0
+  uniqueness: 8.8
+  significance: 7.0
+  experience: 9.1
+  depth: 8.0
+  categories:
+    nature: 9.4
+    photography: 9.5
+    adventure: 8.8

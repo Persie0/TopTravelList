@@ -1,0 +1,16 @@
+id: sight-id-iboih-beach
+name: "Iboih Beach"
+location:
+  country_code: ID
+  latitude: 5.8760
+  longitude: 95.2550
+scores:
+  impact: 8.7
+  uniqueness: 8.5
+  significance: 7.0
+  experience: 9.0
+  depth: 8.2
+  categories:
+    beaches: 9.0
+    adventure: 9.2
+    nature: 9.1

@@ -1,0 +1,15 @@
+id: sight-id-lapopu-waterfall
+name: "Lapopu Waterfall"
+location:
+  country_code: ID
+  latitude: -9.7040
+  longitude: 119.5150
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 7.1
+  experience: 9.0
+  depth: 8.1
+  categories:
+    nature: 9.3
+    photography: 9.3

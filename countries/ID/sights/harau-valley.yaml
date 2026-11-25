@@ -1,0 +1,16 @@
+id: sight-id-harau-valley
+name: "Harau Valley"
+location:
+  country_code: ID
+  latitude: -0.0990
+  longitude: 100.6760
+scores:
+  impact: 9.0
+  uniqueness: 8.9
+  significance: 7.7
+  experience: 9.0
+  depth: 8.8
+  categories:
+    nature: 9.4
+    photography: 9.4
+    adventure: 8.9

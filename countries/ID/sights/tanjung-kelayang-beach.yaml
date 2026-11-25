@@ -1,0 +1,15 @@
+id: sight-id-tanjung-kelayang-beach
+name: "Tanjung Kelayang Beach"
+location:
+  country_code: ID
+  latitude: -2.5580
+  longitude: 107.6670
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 7.1
+  experience: 9.0
+  depth: 8.4
+  categories:
+    beaches: 9.3
+    photography: 9.2

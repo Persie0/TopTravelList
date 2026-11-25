@@ -1,0 +1,15 @@
+id: sight-id-benang-stokel-waterfall
+name: "Benang Stokel Waterfall"
+location:
+  country_code: ID
+  latitude: -8.5500
+  longitude: 116.3290
+scores:
+  impact: 8.4
+  uniqueness: 8.2
+  significance: 6.9
+  experience: 8.7
+  depth: 7.8
+  categories:
+    nature: 8.9
+    photography: 9.0

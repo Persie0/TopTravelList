@@ -1,0 +1,16 @@
+id: sight-id-lake-maninjau
+name: "Lake Maninjau"
+location:
+  country_code: ID
+  latitude: -0.3130
+  longitude: 100.1950
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 7.6
+  experience: 8.9
+  depth: 8.7
+  categories:
+    nature: 9.1
+    photography: 9.2
+    relaxation: 9.0

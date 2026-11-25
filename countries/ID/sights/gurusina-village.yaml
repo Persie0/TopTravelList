@@ -1,0 +1,15 @@
+id: sight-id-gurusina-village
+name: "Gurusina Village"
+location:
+  country_code: ID
+  latitude: -8.9000
+  longitude: 120.9970
+scores:
+  impact: 8.2
+  uniqueness: 8.8
+  significance: 8.4
+  experience: 8.4
+  depth: 7.6
+  categories:
+    culture: 9.1
+    architecture: 8.9

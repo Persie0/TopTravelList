@@ -1,0 +1,16 @@
+id: sight-id-kanawa-island
+name: "Kanawa Island"
+location:
+  country_code: ID
+  latitude: -8.5090
+  longitude: 119.7680
+scores:
+  impact: 8.6
+  uniqueness: 8.5
+  significance: 6.8
+  experience: 8.9
+  depth: 7.9
+  categories:
+    beaches: 9.0
+    nature: 9.0
+    relaxation: 9.0

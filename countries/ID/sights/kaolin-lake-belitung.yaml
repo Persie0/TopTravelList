@@ -1,0 +1,15 @@
+id: sight-id-kaolin-lake-belitung
+name: "Kaolin Lake Belitung"
+location:
+  country_code: ID
+  latitude: -2.7900
+  longitude: 107.6820
+scores:
+  impact: 8.1
+  uniqueness: 8.4
+  significance: 6.6
+  experience: 8.1
+  depth: 6.8
+  categories:
+    photography: 8.9
+    nature: 8.0

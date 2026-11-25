@@ -1,0 +1,16 @@
+id: sight-id-gili-air
+name: "Gili Air"
+location:
+  country_code: ID
+  latitude: -8.3600
+  longitude: 116.0800
+scores:
+  impact: 8.6
+  uniqueness: 8.4
+  significance: 6.9
+  experience: 9.0
+  depth: 8.4
+  categories:
+    beaches: 9.1
+    relaxation: 9.2
+    adventure: 9.0

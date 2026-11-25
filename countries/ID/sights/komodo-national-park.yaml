@@ -1,0 +1,17 @@
+id: sight-id-komodo-national-park
+name: "Komodo National Park"
+location:
+  country_code: ID
+  latitude: -8.5500
+  longitude: 119.5000
+scores:
+  impact: 9.8
+  uniqueness: 9.9
+  significance: 9.7
+  experience: 9.6
+  depth: 9.6
+  categories:
+    nature: 9.9
+    wildlife: 9.9
+    adventure: 9.7
+    photography: 9.9

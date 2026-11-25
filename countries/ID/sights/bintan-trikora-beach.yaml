@@ -1,0 +1,15 @@
+id: sight-id-bintan-trikora-beach
+name: "Bintan Trikora Beach"
+location:
+  country_code: ID
+  latitude: 1.1290
+  longitude: 104.5880
+scores:
+  impact: 8.1
+  uniqueness: 7.9
+  significance: 6.5
+  experience: 8.6
+  depth: 8.0
+  categories:
+    beaches: 8.7
+    relaxation: 8.8

@@ -1,0 +1,16 @@
+id: sight-id-lake-gunung-tujuh
+name: "Lake Gunung Tujuh"
+location:
+  country_code: ID
+  latitude: -1.7040
+  longitude: 101.4070
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 7.9
+  experience: 8.9
+  depth: 8.3
+  categories:
+    nature: 9.4
+    photography: 9.3
+    adventure: 9.0

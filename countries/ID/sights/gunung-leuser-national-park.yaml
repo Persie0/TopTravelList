@@ -1,0 +1,16 @@
+id: sight-id-gunung-leuser-national-park
+name: "Gunung Leuser National Park"
+location:
+  country_code: ID
+  latitude: 3.7700
+  longitude: 97.2000
+scores:
+  impact: 9.4
+  uniqueness: 9.5
+  significance: 9.6
+  experience: 9.0
+  depth: 9.5
+  categories:
+    nature: 9.8
+    wildlife: 9.8
+    adventure: 9.4

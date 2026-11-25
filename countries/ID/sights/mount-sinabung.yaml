@@ -1,0 +1,15 @@
+id: sight-id-mount-sinabung
+name: "Mount Sinabung"
+location:
+  country_code: ID
+  latitude: 3.1700
+  longitude: 98.3920
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 8.1
+  experience: 7.5
+  depth: 7.8
+  categories:
+    nature: 9.3
+    photography: 9.2

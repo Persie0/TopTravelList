@@ -1,0 +1,15 @@
+id: sight-id-fort-marlborough
+name: "Fort Marlborough"
+location:
+  country_code: ID
+  latitude: -3.7870
+  longitude: 102.2510
+scores:
+  impact: 8.3
+  uniqueness: 8.6
+  significance: 8.8
+  experience: 8.4
+  depth: 8.1
+  categories:
+    history: 9.1
+    architecture: 8.7

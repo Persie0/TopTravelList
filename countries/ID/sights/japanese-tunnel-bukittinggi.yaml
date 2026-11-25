@@ -1,0 +1,14 @@
+id: sight-id-japanese-tunnel-bukittinggi
+name: "Japanese Tunnel Bukittinggi"
+location:
+  country_code: ID
+  latitude: -0.3090
+  longitude: 100.3580
+scores:
+  impact: 8.0
+  uniqueness: 8.4
+  significance: 8.7
+  experience: 8.3
+  depth: 7.8
+  categories:
+    history: 9.0

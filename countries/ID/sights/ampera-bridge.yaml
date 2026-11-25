@@ -1,0 +1,15 @@
+id: sight-id-ampera-bridge
+name: "Ampera Bridge"
+location:
+  country_code: ID
+  latitude: -2.9910
+  longitude: 104.7630
+scores:
+  impact: 8.0
+  uniqueness: 8.1
+  significance: 8.2
+  experience: 8.3
+  depth: 6.8
+  categories:
+    photography: 8.7
+    history: 8.4
