@@ -29,7 +29,7 @@ Named permitted scope only. Parent park and components independently scored, not
 
 - Applicable categories: nature: 9.2, adventure: 9.1, history: 8.8, beaches: 9.2.
 - Overall: 89.80/100.
-- High-score challenge: Overall 90+ supported by the documented multi-site park landscape and varied terrestrial visitor scope, not an assumption of pristine coral. No 9.5+ fields.
+- High-score challenge: Near-90 overall supported by the documented multi-site park landscape and varied terrestrial visitor scope, not an assumption of pristine coral. No 9.5+ fields or 90+ overall.
 - Approved 10 registry: none.
 - Final decision: provisional worldwide V2 assessment of specified visitor scope.
 - Earlier decision: none.
