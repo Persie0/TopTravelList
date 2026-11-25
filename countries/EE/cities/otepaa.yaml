@@ -1,0 +1,15 @@
+id: city-ee-otepaa
+name: "Otepää"
+location:
+  country_code: EE
+  latitude: 58.058
+  longitude: 26.497
+scores:
+  impact: 7.3
+  uniqueness: 7.5
+  significance: 7.2
+  experience: 8.0
+  depth: 7.1
+  categories:
+    relaxation: 8
+    adventure: 8.2
