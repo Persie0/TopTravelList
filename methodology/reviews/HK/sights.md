@@ -659,3 +659,36 @@
 - Final decision: provisional worldwide V2 score.
 - Earlier decision: none.
 - Verification still needed: full-page source checks and independent coordinate review.
+
+## sight-hk-po-lin-monastery — Po Lin Monastery — 2026-11-25
+
+- YAML: [source](../../../countries/HK/sights/po-lin-monastery.yaml)
+- Action: fact-check-only (geographic migration; scores retained)
+- Precise subject: Monastery buildings and worship precinct, excluding separately ranked Tian Tan Buddha.
+- Location check: representative YAML point; independent coordinate confirmation pending.
+- Evidence status: source-linked-unverified
+- Evidence: [official source](https://www.discoverhongkong.com/eng/place-to-go/travel.guide-po-lin-monastery.html), search excerpt inspected 2026-11-25. Hong Kong Tourism Board identifies the Buddhist monastery and its halls on Lantau. Full claim-level corroboration remains outstanding.
+- Missing or uncertain facts: exact representative point and independent visitor-scope evidence.
+
+### Worldwide peer comparisons
+- Bulguksa (KR): far greater ancient heritage significance
+- Longshan Temple (TW): comparable active religious visitor experience
+- Wong Tai Sin Temple (HK): urban worship counterpart
+- Po Lin's Tian Tan Buddha (HK): distinct monument with narrower scope
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Temple halls and mountain setting provide strong visual interest. |
+| Uniqueness | 8.9 | Large active Buddhist complex in the island setting is distinctive. |
+| Significance | 8.6 | Regional religious and architectural significance without world-defining ancient heritage. |
+| Experience | 9.0 | Multiple halls and permitted worship observation offer a rewarding visit. |
+| Depth | 8.2 | Several buildings provide depth, without incorporating the separate statue. |
+
+- Applicable categories: see source YAML.
+- Overall: 87.55/100.
+- High-score challenge: No new 9.5+ field or 90+ overall; provisional editorial rating.
+- Approved 10 registry: none.
+- Final decision: provisional worldwide V2 profile; migration does not constitute a numeric reassessment.
+- Earlier decision: Original sight-cn-po-lin-monastery retained in Git history and historical audits.
+- Verification still needed: full source and independent coordinate checks.

@@ -65,3 +65,21 @@ The historic benchmark profiles and 2026 audits retain their original CN IDs as 
 | sight-cn-temple-street-night-market | sight-hk-temple-street-night-market |
 
 Parent ranking names and representative points screened; broader reference audit still needed. Five additional sights included: M+, Tai Kwun, Chi Lin/Nan Lian, Cheung Chau, Wetland Park. All initial assessments source-linked-unverified.
+
+### Macau and Hong Kong follow-up migration — 2026-11-25
+
+Preserve historical CN IDs in archival benchmark profiles; these active records move without numeric score changes. Mainland Zhuhai and Jiangmen remain in CN.
+
+| Old ID | New ID |
+| --- | --- |
+| city-cn-macau | city-mo-macau |
+| sight-cn-historic-centre-macau | sight-mo-historic-centre-macau |
+| sight-cn-a-ma-temple | sight-mo-a-ma-temple |
+| sight-cn-senado-square | sight-mo-senado-square |
+| sight-cn-monte-fort-macau | sight-mo-monte-fort-macau |
+| sight-cn-ruins-of-st-pauls | sight-mo-ruins-of-st-pauls |
+| sight-cn-taipa-village | sight-mo-taipa-village |
+| sight-cn-macau-tower | sight-mo-macau-tower |
+| sight-cn-po-lin-monastery | sight-hk-po-lin-monastery |
+
+Po Lin Monastery was caught by the subsequent longitude screen; moved to HK. Five additional Macau sights included. Remaining cross-registry geographic and reference audit outstanding.
