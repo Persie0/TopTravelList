@@ -2,6 +2,9 @@
 
 [Worldwide rules](../../../rules.md) · [Future-country workflow](../../future-country-workflow.md). 2026-11-25. [UNESCO country inventory](https://whc.unesco.org/en/statesparties/gn/) identifies one inscribed property and eight tentative entries; all represented. The latest Fouta Djallon tentative submission is dated 31 August 2026 ([reference](https://whc.unesco.org/en/tentativelists/7040/)). Mount Nimba is represented by the Guinean sector, not the Ivorian or Liberian sectors. It is a strict reserve on the List of World Heritage in Danger; normal authorized visit not established. Parent property and visitor-circuit scores are not additive. Published DMS points for Gberedou, Bassari and slave route used; some submissions have ambiguous projected coordinates or inconsistent geographic ranges. Other points approximate unless specifically noted. Shared peer ladders require further calibration. Scores are editorial, not access or safety guarantees.
 
+
+Follow-up 2026-11-25: five formerly editorial-only settlements supplemented; published locality reference points substituted for approximate estimates. No claim-level verification of all visitor dimensions.
+
 ## city-gn-conakry — Conakry — 2026-11-25
 
 - [YAML](../../../countries/GN/cities/conakry.yaml) · Action: new · **source-linked-unverified**.
@@ -118,8 +121,8 @@
 
 ## city-gn-kankan — Kankan — 2026-11-25
 
-- [YAML](../../../countries/GN/cities/kankan.yaml) · Action: new · **editorial-only**.
-- Scope: Settlement itself, excluding separate sights. GPS 10.385, -9.305: approximate editorial point; verify before use.
+- [YAML](../../../countries/GN/cities/kankan.yaml) · Action: new · **source-linked-unverified**.
+- Scope: Settlement itself, excluding separate sights. GPS 10.3833, -9.3: [Kuma Science locality table](https://kumascience.com/en/donnees/jeux/localites/tableau/); representative locality reference, not surveyed town center.
 - Worldwide peers (I/U/S/E/D):
   - [Beijing (CN)](../../../countries/CN/cities/beijing.yaml) — 9.7 / 9.7 / 9.9 / 9.5 / 10.0 (97.40/100); upper anchor; lower impact (river-region urban streets); lower uniqueness (Manding trading center); lower significance (regional historical commerce); lower experience (markets and local meals); lower depth (dispersed sacred landscape excluded).
   - [Vienna (AT)](../../../countries/AT/cities/vienna.yaml) — 9.2 / 9.0 / 9.5 / 9.2 / 9.4 (92.30/100); related comparison; lower impact (river-region urban streets); lower uniqueness (Manding trading center); lower significance (regional historical commerce); lower experience (markets and local meals); lower depth (dispersed sacred landscape excluded).
@@ -132,13 +135,13 @@
 - Depth 7.0: dispersed sacred landscape excluded.
 - Categories: culture:8.5, history:8.4, food:7.9. Overall: 73.45/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked destination-specific source.
+- Evidence: [Embassy tourism guide](https://be.ambaguinee.org/?page_id=5840) identifies Kankan as a cultural crossroads with historical remains. Checked 2026-11-25. Food, market and other visitor-quality claims remain provisional; originally editorial-only.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access and individual peer/category calibration.
 
 ## city-gn-nzerekore — Nzérékoré — 2026-11-25
 
-- [YAML](../../../countries/GN/cities/nzerekore.yaml) · Action: new · **editorial-only**.
-- Scope: Settlement itself, excluding separate sights. GPS 7.756, -8.818: approximate editorial point; verify before use.
+- [YAML](../../../countries/GN/cities/nzerekore.yaml) · Action: new · **source-linked-unverified**.
+- Scope: Settlement itself, excluding separate sights. GPS 7.7522, -8.8217: [Kuma Science locality table](https://kumascience.com/en/donnees/jeux/localites/tableau/); representative locality reference, not surveyed town center.
 - Worldwide peers (I/U/S/E/D):
   - [Beijing (CN)](../../../countries/CN/cities/beijing.yaml) — 9.7 / 9.7 / 9.9 / 9.5 / 10.0 (97.40/100); upper anchor; lower impact (forest-region city streets); lower uniqueness (regional commercial and cultural center); lower significance (regional civic history); lower experience (markets and meals); lower depth (Nimba excluded).
   - [Vienna (AT)](../../../countries/AT/cities/vienna.yaml) — 9.2 / 9.0 / 9.5 / 9.2 / 9.4 (92.30/100); related comparison; lower impact (forest-region city streets); lower uniqueness (regional commercial and cultural center); lower significance (regional civic history); lower experience (markets and meals); lower depth (Nimba excluded).
@@ -151,13 +154,13 @@
 - Depth 6.6: Nimba excluded.
 - Categories: culture:7.9, food:7.7. Overall: 69.40/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked destination-specific source.
+- Evidence: [Regional visitor guide](https://ville-nzerekore.com/sites-touristiques) identifies regional culture and urban markets; remote forest sites excluded. Checked 2026-11-25. Food, market and other visitor-quality claims remain provisional; originally editorial-only.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access and individual peer/category calibration.
 
 ## city-gn-boke — Boké — 2026-11-25
 
-- [YAML](../../../countries/GN/cities/boke.yaml) · Action: new · **editorial-only**.
-- Scope: Settlement itself, excluding separate sights. GPS 10.94, -14.296: approximate editorial point; verify before use.
+- [YAML](../../../countries/GN/cities/boke.yaml) · Action: new · **source-linked-unverified**.
+- Scope: Settlement itself, excluding separate sights. GPS 10.9314, -14.2892: [Kuma Science locality table](https://kumascience.com/en/donnees/jeux/localites/tableau/); representative locality reference, not surveyed town center.
 - Worldwide peers (I/U/S/E/D):
   - [Siem Reap (KH)](../../../countries/KH/cities/siem-reap.yaml) — 8.8 / 9.0 / 9.3 / 9.0 / 9.2 (90.20/100); upper anchor; lower impact (river town streets); lower uniqueness (coastal hinterland trading heritage); lower significance (regional commerce and colonial history); lower experience (local walks); lower depth (historic fort separately rated).
   - [Luang Prabang (LA)](../../../countries/LA/cities/luang-prabang.yaml) — 9.2 / 9.4 / 9.3 / 9.2 / 9.0 (92.50/100); related comparison; lower impact (river town streets); lower uniqueness (coastal hinterland trading heritage); lower significance (regional commerce and colonial history); lower experience (local walks); lower depth (historic fort separately rated).
@@ -170,7 +173,7 @@
 - Depth 6.4: historic fort separately rated.
 - Categories: history:8.1, culture:7.9. Overall: 69.70/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked destination-specific source.
+- Evidence: [Culture ministry](https://mcta.gov.gn/rehabilitation-des-sites-negriers-mission-conjointe-du-mcta-et-de-la-smb-a-boke/) confirms Fortin de Boké historic site and planned rehabilitation; do not assume completed restoration. Checked 2026-11-25. Food, market and other visitor-quality claims remain provisional; originally editorial-only.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access and individual peer/category calibration.
 
 ## city-gn-boffa — Boffa — 2026-11-25
@@ -213,8 +216,8 @@
 
 ## city-gn-lola — Lola — 2026-11-25
 
-- [YAML](../../../countries/GN/cities/lola.yaml) · Action: new · **editorial-only**.
-- Scope: Settlement itself, excluding separate sights. GPS 7.80, -8.53: approximate editorial point; verify before use.
+- [YAML](../../../countries/GN/cities/lola.yaml) · Action: new · **source-linked-unverified**.
+- Scope: Settlement itself, excluding separate sights. GPS 7.7997, -8.5286: [Kuma Science locality table](https://kumascience.com/en/donnees/jeux/localites/tableau/); representative locality reference, not surveyed town center.
 - Worldwide peers (I/U/S/E/D):
   - [Siem Reap (KH)](../../../countries/KH/cities/siem-reap.yaml) — 8.8 / 9.0 / 9.3 / 9.0 / 9.2 (90.20/100); upper anchor; lower impact (small forest-region town); lower uniqueness (regional settlement identity); lower significance (local trade role); lower experience (markets and meals); lower depth (Nimba excluded).
   - [Luang Prabang (LA)](../../../countries/LA/cities/luang-prabang.yaml) — 9.2 / 9.4 / 9.3 / 9.2 / 9.0 (92.50/100); related comparison; lower impact (small forest-region town); lower uniqueness (regional settlement identity); lower significance (local trade role); lower experience (markets and meals); lower depth (Nimba excluded).
@@ -227,13 +230,13 @@
 - Depth 5.9: Nimba excluded.
 - Categories: culture:7.5. Overall: 64.75/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked destination-specific source.
+- Evidence: [Regional profile](https://playguinea.com/regions/nzerekore/) identifies Lola as a gateway; Mount Nimba and Bossou excluded from town score. Checked 2026-11-25. Food, market and other visitor-quality claims remain provisional; originally editorial-only.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access and individual peer/category calibration.
 
 ## city-gn-faranah — Faranah — 2026-11-25
 
-- [YAML](../../../countries/GN/cities/faranah.yaml) · Action: new · **editorial-only**.
-- Scope: Settlement itself, excluding separate sights. GPS 10.04, -10.74: approximate editorial point; verify before use.
+- [YAML](../../../countries/GN/cities/faranah.yaml) · Action: new · **source-linked-unverified**.
+- Scope: Settlement itself, excluding separate sights. GPS 10.0333, -10.7333: [Kuma Science locality table](https://kumascience.com/en/donnees/jeux/localites/tableau/); representative locality reference, not surveyed town center.
 - Worldwide peers (I/U/S/E/D):
   - [Siem Reap (KH)](../../../countries/KH/cities/siem-reap.yaml) — 8.8 / 9.0 / 9.3 / 9.0 / 9.2 (90.20/100); upper anchor; lower impact (river-region town streets); lower uniqueness (upper Niger settlement); lower significance (regional political history); lower experience (market and food); lower depth (park excluded).
   - [Luang Prabang (LA)](../../../countries/LA/cities/luang-prabang.yaml) — 9.2 / 9.4 / 9.3 / 9.2 / 9.0 (92.50/100); related comparison; lower impact (river-region town streets); lower uniqueness (upper Niger settlement); lower significance (regional political history); lower experience (market and food); lower depth (park excluded).
@@ -246,7 +249,7 @@
 - Depth 6.0: park excluded.
 - Categories: history:7.8, culture:7.6. Overall: 65.70/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked destination-specific source.
+- Evidence: [Embassy guide](https://be.ambaguinee.org/?page_id=5840) identifies regional heritage and Haut Niger park context; do not include distant park or river source in city score. Checked 2026-11-25. Food, market and other visitor-quality claims remain provisional; originally editorial-only.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access and individual peer/category calibration.
 
 ## city-gn-timbo — Timbo — 2026-11-25
