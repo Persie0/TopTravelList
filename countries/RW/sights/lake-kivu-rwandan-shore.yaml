@@ -1,0 +1,17 @@
+id: sight-rw-lake-kivu-rwandan-shore
+name: "Lake Kivu (Rwandan shore)"
+location:
+  country_code: RW
+  latitude: -2.0200
+  longitude: 29.2000
+scores:
+  impact: 8.9
+  uniqueness: 8.6
+  significance: 8.3
+  experience: 8.8
+  depth: 8.9
+  categories:
+    nature: 9.1
+    photography: 9.2
+    relaxation: 9.0
+    adventure: 8.6

@@ -1,0 +1,15 @@
+id: city-bo-tupiza
+name: "Tupiza"
+location:
+  country_code: BO
+  latitude: -21.4430
+  longitude: -65.7180
+scores:
+  impact: 7.3
+  uniqueness: 7.6
+  significance: 7.0
+  experience: 7.8
+  depth: 6.9
+  categories:
+    photography: 8.2
+    culture: 7.6

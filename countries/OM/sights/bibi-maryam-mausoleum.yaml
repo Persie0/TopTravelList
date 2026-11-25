@@ -1,0 +1,15 @@
+id: sight-om-bibi-maryam-mausoleum
+name: "Bibi Maryam Mausoleum"
+location:
+  country_code: OM
+  latitude: 22.695
+  longitude: 59.371
+scores:
+  impact: 7.3
+  uniqueness: 7.9
+  significance: 8.6
+  experience: 7.3
+  depth: 6.3
+  categories:
+    history: 8.9
+    architecture: 8.2

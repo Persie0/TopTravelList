@@ -1,0 +1,16 @@
+id: sight-ec-tulcan-cemetery
+name: "Tulcán Cemetery"
+location:
+  country_code: EC
+  latitude: 0.8150
+  longitude: -77.7200
+scores:
+  impact: 8.0
+  uniqueness: 8.6
+  significance: 7.4
+  experience: 8.2
+  depth: 7.3
+  categories:
+    architecture: 8.5
+    photography: 8.9
+    culture: 8.3

@@ -1,0 +1,16 @@
+id: sight-ec-espanola-island-visitor-sites
+name: "Española Island Visitor Sites"
+location:
+  country_code: EC
+  latitude: -1.3750
+  longitude: -89.6800
+scores:
+  impact: 9.2
+  uniqueness: 9.3
+  significance: 9.3
+  experience: 8.9
+  depth: 8.3
+  categories:
+    wildlife: 9.7
+    nature: 9.5
+    photography: 9.4

@@ -1,0 +1,15 @@
+id: sight-tg-kamina-historic-site
+name: "Kamina Historic Site"
+location:
+  country_code: TG
+  latitude: 7.4830
+  longitude: 1.1440
+scores:
+  impact: 7.3
+  uniqueness: 8.2
+  significance: 8.7
+  experience: 7.6
+  depth: 6.9
+  categories:
+    history: 9.1
+    culture: 8.4

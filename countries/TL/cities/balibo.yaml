@@ -1,0 +1,15 @@
+id: city-tl-balibo
+name: "Balibo"
+location:
+  country_code: TL
+  latitude: -8.9685
+  longitude: 125.041
+scores:
+  impact: 7.5
+  uniqueness: 8.0
+  significance: 8.4
+  experience: 7.6
+  depth: 6.7
+  categories:
+    history: 8.8
+    culture: 8.0

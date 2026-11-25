@@ -1,0 +1,15 @@
+id: sight-cl-ventisquero-colgante-queulat
+name: "Ventisquero Colgante (Queulat)"
+location:
+  country_code: CL
+  latitude: -44.4700
+  longitude: -72.5400
+scores:
+  impact: 9.3
+  uniqueness: 9.1
+  significance: 8.0
+  experience: 8.6
+  depth: 7.4
+  categories:
+    nature: 9.4
+    photography: 9.7

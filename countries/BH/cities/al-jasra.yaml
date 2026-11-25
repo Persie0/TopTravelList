@@ -1,0 +1,15 @@
+id: city-bh-al-jasra
+name: "Al Jasra"
+location:
+  country_code: BH
+  latitude: 26.1710
+  longitude: 50.4570
+scores:
+  impact: 7.2
+  uniqueness: 7.6
+  significance: 7.5
+  experience: 7.6
+  depth: 6.4
+  categories:
+    culture: 8.4
+    architecture: 7.7

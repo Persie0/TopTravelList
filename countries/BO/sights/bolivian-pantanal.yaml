@@ -1,0 +1,16 @@
+id: sight-bo-bolivian-pantanal
+name: "Bolivian Pantanal"
+location:
+  country_code: BO
+  latitude: -18.3000
+  longitude: -58.0000
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 9.1
+  experience: 8.4
+  depth: 8.8
+  categories:
+    wildlife: 9.4
+    nature: 9.3
+    photography: 9.0

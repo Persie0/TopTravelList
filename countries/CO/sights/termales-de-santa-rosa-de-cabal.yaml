@@ -1,0 +1,16 @@
+id: sight-co-termales-de-santa-rosa-de-cabal
+name: "Termales de Santa Rosa de Cabal"
+location:
+  country_code: CO
+  latitude: 4.8340
+  longitude: -75.5350
+scores:
+  impact: 8.3
+  uniqueness: 8.0
+  significance: 6.5
+  experience: 9.0
+  depth: 7.5
+  categories:
+    relaxation: 9.4
+    nature: 8.4
+    photography: 8.6

@@ -1,0 +1,15 @@
+id: city-tg-notse
+name: "Notsè"
+location:
+  country_code: TG
+  latitude: 6.9500
+  longitude: 1.1667
+scores:
+  impact: 6.3
+  uniqueness: 8.0
+  significance: 8.4
+  experience: 7.3
+  depth: 6.2
+  categories:
+    history: 8.9
+    culture: 8.8

@@ -1,0 +1,15 @@
+id: sight-cl-cabo-de-hornos-national-park
+name: "Cabo de Hornos National Park"
+location:
+  country_code: CL
+  latitude: -55.9800
+  longitude: -67.2900
+scores:
+  impact: 9.1
+  uniqueness: 9.1
+  significance: 8.8
+  experience: 7.5
+  depth: 7.3
+  categories:
+    nature: 9.4
+    photography: 9.4

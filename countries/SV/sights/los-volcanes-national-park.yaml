@@ -1,0 +1,16 @@
+id: sight-sv-los-volcanes-national-park
+name: "Los Volcanes National Park"
+location:
+  country_code: SV
+  latitude: 13.8390
+  longitude: -89.6370
+scores:
+  impact: 9.0
+  uniqueness: 8.9
+  significance: 8.6
+  experience: 9.0
+  depth: 9.0
+  categories:
+    nature: 9.3
+    adventure: 9.3
+    photography: 9.2

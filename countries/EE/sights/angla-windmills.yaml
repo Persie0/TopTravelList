@@ -1,0 +1,16 @@
+id: sight-ee-angla-windmills
+name: "Angla Windmill Park"
+location:
+  country_code: EE
+  latitude: 58.526
+  longitude: 22.703
+scores:
+  impact: 7.8
+  uniqueness: 8.2
+  significance: 8.1
+  experience: 8.1
+  depth: 7.4
+  categories:
+    architecture: 8.6
+    culture: 8.6
+    photography: 8.6

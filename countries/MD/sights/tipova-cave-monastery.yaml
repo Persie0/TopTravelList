@@ -1,0 +1,16 @@
+id: sight-md-tipova-cave-monastery
+name: "Țîpova Cave Monastery"
+location:
+  country_code: MD
+  latitude: 47.6034
+  longitude: 28.9870
+scores:
+  impact: 8.5
+  uniqueness: 8.7
+  significance: 8.5
+  experience: 8.3
+  depth: 7.6
+  categories:
+    architecture: 9.0
+    history: 9.0
+    photography: 9.1

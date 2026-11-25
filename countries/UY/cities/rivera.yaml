@@ -1,0 +1,15 @@
+id: city-uy-rivera
+name: "Rivera"
+location:
+  country_code: UY
+  latitude: -30.9053
+  longitude: -55.5508
+scores:
+  impact: 6.8
+  uniqueness: 8.0
+  significance: 6.9
+  experience: 7.5
+  depth: 7.0
+  categories:
+    culture: 8.3
+    food: 7.6

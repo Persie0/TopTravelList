@@ -1,0 +1,16 @@
+id: sight-hn-maya-sculpture-museum-copan
+name: "Maya Sculpture Museum (Copán)"
+location:
+  country_code: HN
+  latitude: 14.8390
+  longitude: -89.1440
+scores:
+  impact: 8.8
+  uniqueness: 9.2
+  significance: 9.3
+  experience: 8.8
+  depth: 8.4
+  categories:
+    architecture: 9.2
+    history: 9.4
+    culture: 9.2

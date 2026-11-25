@@ -1,0 +1,16 @@
+id: sight-ar-la-boca-and-caminito
+name: "La Boca and Caminito"
+location:
+  country_code: AR
+  latitude: -34.6390
+  longitude: -58.3620
+scores:
+  impact: 8.1
+  uniqueness: 8.5
+  significance: 7.9
+  experience: 8.0
+  depth: 7.3
+  categories:
+    culture: 9.0
+    photography: 9.0
+    architecture: 8.6

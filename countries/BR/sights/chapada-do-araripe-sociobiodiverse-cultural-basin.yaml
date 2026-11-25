@@ -1,0 +1,16 @@
+id: sight-br-chapada-do-araripe-sociobiodiverse-cultural-basin
+name: "Chapada do Araripe Sociobiodiverse Cultural Basin"
+location:
+  country_code: BR
+  latitude: -7.4000
+  longitude: -39.5000
+scores:
+  impact: null
+  uniqueness: 9.0
+  significance: 9.4
+  experience: null
+  depth: null
+  categories:
+    history: 9.5
+    culture: 9.4
+    nature: 9.1

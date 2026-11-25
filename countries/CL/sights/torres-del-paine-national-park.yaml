@@ -1,0 +1,17 @@
+id: sight-cl-torres-del-paine-national-park
+name: "Torres del Paine National Park"
+location:
+  country_code: CL
+  latitude: -51.0000
+  longitude: -73.0000
+scores:
+  impact: 9.9
+  uniqueness: 9.7
+  significance: 9.3
+  experience: 9.4
+  depth: 9.6
+  categories:
+    nature: 9.8
+    photography: 9.9
+    adventure: 9.7
+    wildlife: 9.0

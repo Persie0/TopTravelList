@@ -1,0 +1,16 @@
+id: sight-bj-bouche-du-roy
+name: "Bouche du Roy"
+location:
+  country_code: BJ
+  latitude: 6.2940
+  longitude: 1.9550
+scores:
+  impact: 8.5
+  uniqueness: 8.5
+  significance: 7.6
+  experience: 8.4
+  depth: 7.6
+  categories:
+    nature: 9.0
+    photography: 9.1
+    adventure: 8.3

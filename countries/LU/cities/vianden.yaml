@@ -1,0 +1,16 @@
+id: city-lu-vianden
+name: "Vianden"
+location:
+  country_code: LU
+  latitude: 49.9350
+  longitude: 6.2080
+scores:
+  impact: 8.3
+  uniqueness: 8.5
+  significance: 8.2
+  experience: 8.4
+  depth: 7.8
+  categories:
+    architecture: 8.9
+    photography: 9.0
+    history: 8.7

@@ -1,0 +1,16 @@
+id: city-am-dilijan
+name: "Dilijan"
+location:
+  country_code: AM
+  latitude: 40.741
+  longitude: 44.863
+scores:
+  impact: 7.9
+  uniqueness: 8.0
+  significance: 7.3
+  experience: 8.4
+  depth: 7.6
+  categories:
+    architecture: 8.2
+    relaxation: 8.6
+    culture: 8.1

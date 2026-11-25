@@ -1,0 +1,16 @@
+id: sight-mk-lake-ohrid-north-macedonian-shore
+name: "Lake Ohrid North Macedonian Shore"
+location:
+  country_code: MK
+  latitude: 41.0550
+  longitude: 20.7850
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 9.4
+  experience: 8.9
+  depth: 9.0
+  categories:
+    nature: 9.4
+    photography: 9.4
+    relaxation: 9.1

@@ -1,0 +1,17 @@
+id: sight-om-daymaniyat-islands-nature-reserve
+name: "Daymaniyat Islands Nature Reserve"
+location:
+  country_code: OM
+  latitude: 23.853
+  longitude: 58.098
+scores:
+  impact: 9.0
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 9.1
+  depth: 8.6
+  categories:
+    nature: 9.2
+    wildlife: 9.3
+    adventure: 9.3
+    photography: 9.1

@@ -1,0 +1,16 @@
+id: sight-ee-vilsandi-national-park
+name: "Vilsandi National Park"
+location:
+  country_code: EE
+  latitude: 58.37
+  longitude: 21.86
+scores:
+  impact: 8.2
+  uniqueness: 8.5
+  significance: 8.3
+  experience: 8.4
+  depth: 8.4
+  categories:
+    nature: 8.9
+    wildlife: 8.9
+    photography: 8.7

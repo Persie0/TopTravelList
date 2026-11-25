@@ -1,0 +1,15 @@
+id: city-ve-puerto-ayacucho
+name: "Puerto Ayacucho"
+location:
+  country_code: VE
+  latitude: 5.6639
+  longitude: -67.6236
+scores:
+  impact: 6.7
+  uniqueness: 7.5
+  significance: 6.9
+  experience: 7.0
+  depth: 6.4
+  categories:
+    culture: 8.3
+    photography: 7.7

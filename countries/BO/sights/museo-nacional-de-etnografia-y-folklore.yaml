@@ -1,0 +1,15 @@
+id: sight-bo-museo-nacional-de-etnografia-y-folklore
+name: "Museo Nacional de Etnografía y Folklore"
+location:
+  country_code: BO
+  latitude: -16.4950
+  longitude: -68.1340
+scores:
+  impact: 8.2
+  uniqueness: 8.7
+  significance: 8.8
+  experience: 8.4
+  depth: 8.1
+  categories:
+    culture: 9.4
+    history: 9.0

@@ -1,0 +1,15 @@
+id: sight-bz-thousand-foot-falls
+name: "Thousand Foot Falls"
+location:
+  country_code: BZ
+  latitude: 17.032
+  longitude: -88.806
+scores:
+  impact: 8.6
+  uniqueness: 8.4
+  significance: 7.6
+  experience: 7.8
+  depth: 6.9
+  categories:
+    nature: 8.8
+    photography: 9.1

@@ -1,0 +1,14 @@
+id: sight-tl-boneca-de-atauro-craft-centre
+name: "Boneca de Atauro Craft Centre"
+location:
+  country_code: TL
+  latitude: -8.258
+  longitude: 125.6
+scores:
+  impact: 7.0
+  uniqueness: 7.9
+  significance: 7.3
+  experience: 7.9
+  depth: 6.5
+  categories:
+    culture: 8.4

@@ -2,19 +2,36 @@
 
 # Andorra (AD) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**18 ranked** · **0 unassessed** · **18 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
 This is the **complete ranking for this country's available dataset**, using absolute worldwide scores, **not country-relative scores**. Overall scores are out of 100; category scores are out of 10 and shown highest first (the top three are bold). Types are inferred from names, not separately verified.
 
-**Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, or click its GPS coordinates to open **Google Maps**. Locations are approximate representative points, not necessarily entrance coordinates.
+**Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (18)
 
-No cities, towns & villages have been assessed for **Andorra** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Andorra la Vella](cities/andorra-la-vella.yaml) | City / town | **78.90** | **Culture 8.4**, **History 8.4**, **Architecture 8.0**, Food 8.0 | 7.6 / 8.0 / 8.1 / 8.0 / 7.9 | [42.5063, 1.5218](https://www.google.com/maps/search/?api=1&query=42.5063,1.5218) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Andorra%20la%20Vella%2C%20Andorra) |
+| 2 | [Ordino](cities/ordino.yaml) | City / town | **78.15** | **Architecture 8.6**, **Photography 8.6**, **Culture 8.4** | 7.8 / 8.0 / 7.7 / 8.1 / 7.2 | [42.5562, 1.533](https://www.google.com/maps/search/?api=1&query=42.5562,1.533) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ordino%2C%20Andorra) |
+| 3 | [Les Bons](cities/les-bons.yaml) | City / town | **76.30** | **History 8.5**, **Architecture 8.4**, **Photography 8.4** | 7.6 / 8.0 / 7.9 / 7.6 / 6.3 | [42.5398, 1.5857](https://www.google.com/maps/search/?api=1&query=42.5398,1.5857) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Les%20Bons%2C%20Andorra) |
+| 4 | [Pal](cities/pal.yaml) | City / town | **76.15** | **Architecture 8.6**, **Photography 8.6**, **Culture 8.1** | 7.7 / 8.0 / 7.4 / 7.9 / 6.4 | [42.5458, 1.475](https://www.google.com/maps/search/?api=1&query=42.5458,1.475) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Pal%2C%20Andorra) |
+| 5 | [La Cortinada](cities/la-cortinada.yaml) | City / town | **74.95** | **Architecture 8.4**, **Photography 8.3**, **History 8.2** | 7.5 / 7.8 / 7.5 / 7.7 / 6.4 | [42.575, 1.5174](https://www.google.com/maps/search/?api=1&query=42.575,1.5174) | [Google Maps](https://www.google.com/maps/search/?api=1&query=La%20Cortinada%2C%20Andorra) |
+| 6 | [Escaldes-Engordany](cities/escaldes-engordany.yaml) | City / town | **74.50** | **Relaxation 8.6**, **Culture 7.9**, **Architecture 7.8** | 7.3 / 7.6 / 6.9 / 8.2 / 7.5 | [42.5097, 1.5383](https://www.google.com/maps/search/?api=1&query=42.5097,1.5383) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Escaldes-Engordany%2C%20Andorra) |
+| 7 | [Canillo](cities/canillo.yaml) | City / town | **73.50** | **Photography 8.2**, **Architecture 8.0**, **Culture 7.9** | 7.3 / 7.4 / 7.3 / 7.8 / 6.8 | [42.5676, 1.5976](https://www.google.com/maps/search/?api=1&query=42.5676,1.5976) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Canillo%2C%20Andorra) |
+| 8 | [Santa Coloma](cities/santa-coloma.yaml) | City / town | **72.55** | **History 8.4**, **Architecture 8.2**, **Culture 7.8** | 7.0 / 7.5 / 7.6 / 7.4 / 6.5 | [42.494, 1.4967](https://www.google.com/maps/search/?api=1&query=42.494,1.4967) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Santa%20Coloma%2C%20Andorra) |
+| 9 | [Encamp](cities/encamp.yaml) | City / town | **72.25** | **Culture 8.1**, **History 8.0**, **Photography 7.8** | 7.0 / 7.2 / 7.2 / 7.7 / 7.3 | [42.536, 1.583](https://www.google.com/maps/search/?api=1&query=42.536,1.583) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Encamp%2C%20Andorra) |
+| 10 | [Soldeu](cities/soldeu.yaml) | City / town | **72.00** | **Relaxation 8.4**, **Photography 8.3**, **Architecture 7.7** | 7.5 / 7.2 / 6.1 / 8.2 / 7.0 | [42.5767, 1.6675](https://www.google.com/maps/search/?api=1&query=42.5767,1.6675) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Soldeu%2C%20Andorra) |
+| 11 | [Arinsal](cities/arinsal.yaml) | City / town | **71.95** | **Relaxation 8.3**, **Photography 8.2** | 7.4 / 7.3 / 6.3 / 8.0 / 6.9 | [42.5721, 1.4847](https://www.google.com/maps/search/?api=1&query=42.5721,1.4847) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Arinsal%2C%20Andorra) |
+| 12 | [Sant Julià de Lòria](cities/sant-julia-de-loria.yaml) | City / town | **71.65** | **History 8.1**, **Culture 7.9**, **Architecture 7.7** | 6.9 / 7.2 / 7.4 / 7.5 / 6.9 | [42.4637, 1.4913](https://www.google.com/maps/search/?api=1&query=42.4637,1.4913) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sant%20Juli%C3%A0%20de%20L%C3%B2ria%2C%20Andorra) |
+| 13 | [Anyós](cities/anyos.yaml) | City / town | **71.60** | **Photography 8.3**, **Architecture 8.0** | 7.2 / 7.5 / 7.0 / 7.5 / 6.0 | [42.5353, 1.524](https://www.google.com/maps/search/?api=1&query=42.5353,1.524) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Any%C3%B3s%2C%20Andorra) |
+| 14 | [Auvinyà](cities/auvinya.yaml) | City / town | **70.60** | **Architecture 8.2**, **Photography 8.2**, **Relaxation 7.8** | 7.2 / 7.6 / 6.3 / 7.6 / 6.0 | [42.4524, 1.4998](https://www.google.com/maps/search/?api=1&query=42.4524,1.4998) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Auviny%C3%A0%2C%20Andorra) |
+| 15 | [Meritxell](cities/meritxell.yaml) | City / town | **70.50** | **Culture 8.1**, **Photography 8.0** | 6.9 / 7.3 / 7.3 / 7.3 / 6.0 | [42.5541, 1.5899](https://www.google.com/maps/search/?api=1&query=42.5541,1.5899) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Meritxell%2C%20Andorra) |
+| 16 | [La Massana](cities/la-massana.yaml) | City / town | **70.00** | **Relaxation 8.0**, **Photography 7.8**, **Culture 7.6** | 6.9 / 7.0 / 6.5 / 7.8 / 7.1 | [42.5456, 1.5148](https://www.google.com/maps/search/?api=1&query=42.5456,1.5148) | [Google Maps](https://www.google.com/maps/search/?api=1&query=La%20Massana%2C%20Andorra) |
+| 17 | [Pas de la Casa](cities/pas-de-la-casa.yaml) | City / town | **68.70** | **Nightlife 7.8**, **Food 7.7**, **Relaxation 7.6** | 6.6 / 7.1 / 6.2 / 7.7 / 7.2 | [42.5428, 1.7331](https://www.google.com/maps/search/?api=1&query=42.5428,1.7331) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Pas%20de%20la%20Casa%2C%20Andorra) |
+| 18 | [El Tarter](cities/el-tarter.yaml) | City / town | **67.90** | **Relaxation 8.0**, **Photography 7.9** | 6.8 / 6.9 / 5.9 / 7.9 / 6.6 | [42.5795, 1.651](https://www.google.com/maps/search/?api=1&query=42.5795,1.651) | [Google Maps](https://www.google.com/maps/search/?api=1&query=El%20Tarter%2C%20Andorra) |
 
 ---
 

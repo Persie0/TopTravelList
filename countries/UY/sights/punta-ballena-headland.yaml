@@ -1,0 +1,16 @@
+id: sight-uy-punta-ballena-headland
+name: "Punta Ballena Headland"
+location:
+  country_code: UY
+  latitude: -34.9104
+  longitude: -55.0450
+scores:
+  impact: 8.2
+  uniqueness: 7.6
+  significance: 6.6
+  experience: 8.2
+  depth: 6.8
+  categories:
+    photography: 8.8
+    nature: 8.1
+    relaxation: 7.8

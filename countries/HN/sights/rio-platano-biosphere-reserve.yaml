@@ -1,0 +1,15 @@
+id: sight-hn-rio-platano-biosphere-reserve
+name: "Río Plátano Biosphere Reserve"
+location:
+  country_code: HN
+  latitude: 15.744444
+  longitude: -84.675
+scores:
+  impact: null
+  uniqueness: 9.2
+  significance: 9.5
+  experience: null
+  depth: null
+  categories:
+    nature: 9.4
+    wildlife: 9.4

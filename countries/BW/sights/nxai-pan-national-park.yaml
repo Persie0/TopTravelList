@@ -1,0 +1,16 @@
+id: sight-bw-nxai-pan-national-park
+name: "Nxai Pan National Park"
+location:
+  country_code: BW
+  latitude: -19.9250
+  longitude: 24.7660
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 8.0
+  experience: 8.8
+  depth: 8.2
+  categories:
+    nature: 9.1
+    wildlife: 9.1
+    photography: 9.0

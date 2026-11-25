@@ -1,0 +1,17 @@
+id: sight-sc-ile-cocos-marine-national-park
+name: "Ile Cocos Marine National Park"
+location:
+  country_code: SC
+  latitude: -4.3210
+  longitude: 55.8710
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 8.1
+  experience: 8.9
+  depth: 7.4
+  categories:
+    nature: 8.9
+    adventure: 9.1
+    wildlife: 8.8
+    photography: 9.0

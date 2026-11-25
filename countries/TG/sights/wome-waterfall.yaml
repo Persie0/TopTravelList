@@ -1,0 +1,15 @@
+id: sight-tg-wome-waterfall
+name: "Womé Waterfall"
+location:
+  country_code: TG
+  latitude: 6.8930
+  longitude: 0.5630
+scores:
+  impact: 8.5
+  uniqueness: 8.1
+  significance: 6.5
+  experience: 8.4
+  depth: 6.7
+  categories:
+    nature: 8.8
+    photography: 9.0

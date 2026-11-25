@@ -1,0 +1,15 @@
+id: sight-br-gruta-do-lago-azul-bonito
+name: "Gruta do Lago Azul (Bonito)"
+location:
+  country_code: BR
+  latitude: -21.1400
+  longitude: -56.5900
+scores:
+  impact: 9.1
+  uniqueness: 9.2
+  significance: 8.0
+  experience: 8.5
+  depth: 6.7
+  categories:
+    nature: 9.4
+    photography: 9.6

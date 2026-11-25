@@ -1,0 +1,16 @@
+id: sight-bw-kubu-island
+name: "Kubu Island"
+location:
+  country_code: BW
+  latitude: -20.9000
+  longitude: 25.8300
+scores:
+  impact: 9.0
+  uniqueness: 8.9
+  significance: 7.8
+  experience: 8.3
+  depth: 7.1
+  categories:
+    nature: 9.2
+    photography: 9.4
+    culture: 8.2

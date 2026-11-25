@@ -1,0 +1,15 @@
+id: sight-hn-nombre-de-dios-national-park
+name: "Nombre de Dios National Park"
+location:
+  country_code: HN
+  latitude: 15.7390
+  longitude: -86.6150
+scores:
+  impact: 8.2
+  uniqueness: 8.3
+  significance: 8.5
+  experience: 8.3
+  depth: 8.3
+  categories:
+    nature: 8.9
+    wildlife: 8.8

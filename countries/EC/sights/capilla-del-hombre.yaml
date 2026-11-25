@@ -1,0 +1,15 @@
+id: sight-ec-capilla-del-hombre
+name: "Capilla del Hombre"
+location:
+  country_code: EC
+  latitude: -0.1905
+  longitude: -78.4690
+scores:
+  impact: 8.2
+  uniqueness: 8.6
+  significance: 8.6
+  experience: 8.3
+  depth: 7.7
+  categories:
+    culture: 9.2
+    architecture: 8.5
