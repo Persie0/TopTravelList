@@ -28,6 +28,15 @@
 | [Carnuntum Archaeological Park](../../../countries/AT/sights/carnuntum-archaeological-park.yaml) (Austria) | Archaeology and visitor interpretation | 8.7/8.9/9.0/8.8/8.4; much more tangible reconstructions and visitor interpretation |
 | [Rock Art of Alta](../../../countries/NO/sights/alta-rock-art.yaml) (Norway) | In-situ ancient evidence | 8.5/9.1/9.3/8.6/8.5; readily visible art, unlike buried agricultural archaeology |
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D; original qualitative comparisons retained. Editorial comparisons, not factual verification.
+
+- [ban chiang archaeological site (TH)](../../../countries/TH/sights/ban-chiang-archaeological-site.yaml) — 8.4/9.2/9.6/8.2/8.1; More visible early settlement archaeology.
+- [lenggong valley archaeological heritage (MY)](../../../countries/MY/sights/lenggong-valley-archaeological-heritage.yaml) — 8.0/9.0/9.5/8.0/8.4; Broader documented early human archaeology.
+- [carnuntum archaeological park (AT)](../../../countries/AT/sights/carnuntum-archaeological-park.yaml) — 8.7/8.9/9.0/8.8/8.4; Greater tangible reconstructions and interpretation.
+- [alta rock art (NO)](../../../countries/NO/sights/alta-rock-art.yaml) — 8.5/9.1/9.3/8.6/8.5; Visible in-situ evidence rather than buried agricultural remains.
+
 ### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
@@ -64,6 +73,15 @@
 - Camino de Santiago (Spain): broader pilgrimage network
 - Annapurna Circuit (Nepal): greater high-mountain landscape variety
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D; original qualitative comparisons retained. Editorial comparisons, not factual verification.
+
+- [inca trail to machu picchu (PE)](../../../countries/PE/sights/inca-trail-to-machu-picchu.yaml) — 9.4/9.3/9.4/9.1/9.2; More monumental archaeological endpoints and scenic breadth.
+- [annapurna circuit trek (NP)](../../../countries/NP/sights/annapurna-circuit-trek.yaml) — 9.6/9.5/8.9/9.5/9.6; Exceptional high mountain diversity and trekking depth.
+- [nakasendo magome tsumago trail (JP)](../../../countries/JP/sights/nakasendo-magome-tsumago-trail.yaml) — 8.6/8.7/8.8/9.0/8.7; Historic trail with more visible built heritage but less demanding terrain.
+- [langtang valley trek (NP)](../../../countries/NP/sights/langtang-valley-trek.yaml) — 9.1/9.2/8.4/9.2/9.0; Comparable sustained guided trek, different alpine and cultural setting.
+
 ### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
@@ -98,6 +116,15 @@
 - Mount Kinabalu (Malaysia): more distinctive granite summit and ecology
 - Mount Fuji (Japan): far greater cultural significance
 - Mount Bromo (Indonesia): stronger volcanic caldera scenery
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D; original qualitative comparisons retained. Editorial comparisons, not factual verification.
+
+- [kilimanjaro national park (TZ)](../../../countries/TZ/sights/kilimanjaro-national-park.yaml) — 9.7/9.6/9.4/9.4/9.5; Broader park and iconic summit, not exact peak scope.
+- [mount kinabalu (MY)](../../../countries/MY/sights/mount-kinabalu.yaml) — 9.4/9.3/8.7/9.1/8.7; Closer individual summit with distinctive granite and developed ascent.
+- [mount fuji (JP)](../../../countries/JP/sights/mount-fuji.yaml) — 9.8/9.7/9.5/9.2/9.3; Greater iconic form and cultural significance.
+- [mount bromo (ID)](../../../countries/ID/sights/mount-bromo.yaml) — 9.5/9.4/8.5/9.3/8.5; More striking volcanic caldera view, different ascent.
 
 ### Scoring decisions
 | Field | Rating | Rationale |
@@ -135,6 +162,15 @@
 - Stromboli (Italy): distinctive ongoing explosive activity
 - Mount Bromo (Indonesia): more extensive caldera scenery
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D; original qualitative comparisons retained. Editorial comparisons, not factual verification.
+
+- [mount yasur (VU)](../../../countries/VU/sights/mount-yasur.yaml) — 9.5/9.3/8.8/9.0/8.0; More distinctive recurrent active crater spectacle.
+- [etna (IT)](../../../countries/IT/sights/etna.yaml) — 9.5/9.4/9.4/9.0/9.3; Much broader volcanic landscape.
+- [mount bromo (ID)](../../../countries/ID/sights/mount-bromo.yaml) — 9.5/9.4/8.5/9.3/8.5; Greater caldera views and visitor breadth.
+- [hawaii volcanoes national park (US)](../../../countries/US/sights/hawaii-volcanoes-national-park.yaml) — 9.2/9.5/9.5/8.9/9.0; Greater geological diversity and recognized significance.
+
 ### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
@@ -169,6 +205,15 @@
 - Khao Sok National Park (Thailand): developed karst and rainforest visitor activities
 - Kinabalu Park (Malaysia): exceptional montane biodiversity
 - Lorentz National Park (Indonesia): comparable broad New Guinea ecological landscape
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D; original qualitative comparisons retained. Editorial comparisons, not factual verification.
+
+- [taman negara national park (MY)](../../../countries/MY/sights/taman-negara-national-park.yaml) — 9.0/9.1/9.0/8.9/9.2; Broader tropical forest and trail experiences.
+- [khao sok national park (TH)](../../../countries/TH/sights/khao-sok-national-park.yaml) — 9.4/9.4/9.1/9.4/9.3; More dramatic karst and river scenery.
+- [kinabalu park (MY)](../../../countries/MY/sights/kinabalu-park.yaml) — 9.4/9.5/9.5/9.2/9.3; Greater altitudinal range and endemic biota.
+- [lorentz national park (ID)](../../../countries/ID/sights/lorentz-national-park.yaml) — 9.4/9.7/9.8/7.6/9.3; Vast New Guinea habitat breadth, not equivalent to focused park visit.
 
 ### Scoring decisions
 | Field | Rating | Rationale |
@@ -206,6 +251,15 @@
 - National Museum of Cambodia (Cambodia): broader archaeological sculpture
 - Fiji Museum (Fiji): comparable national Pacific collection
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D; original qualitative comparisons retained. Editorial comparisons, not factual verification.
+
+- [national museum of korea (KR)](../../../countries/KR/sights/national-museum-of-korea.yaml) — 9.1/9.3/9.4/9.3/9.6; Much broader national collection and interpretation.
+- [kunsthistorisches museum (AT)](../../../countries/AT/sights/kunsthistorisches-museum.yaml) — 9.2/9.4/9.6/9.4/9.5; World-leading art and architectural scope.
+- [national museum cambodia (KH)](../../../countries/KH/sights/national-museum-cambodia.yaml) — 8.8/9.1/9.3/9.1/8.8; Greater archaeological sculpture collection.
+- [national museum vanuatu (VU)](../../../countries/VU/sights/national-museum-vanuatu.yaml) — 7.0/8.1/8.3/8.0/7.5; Closer Pacific national museum, smaller collection depth.
+
 ### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
@@ -241,6 +295,15 @@
 - San Diego Zoo (United States): far larger collections
 - Currumbin Wildlife Sanctuary (Australia): similar regional fauna focus
 - Belau National Museum (Palau): different compact educational experience
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D; original qualitative comparisons retained. Editorial comparisons, not factual verification.
+
+- [singapore zoo (SG)](../../../countries/SG/sights/singapore-zoo.yaml) — 9.0/8.9/8.1/9.2/9.2; Far broader managed wildlife exhibits and interpretation.
+- [lok kawi wildlife park (MY)](../../../countries/MY/sights/lok-kawi-wildlife-park.yaml) — 7.6/7.6/6.8/8.1/7.8; Close regional managed fauna park, different native species.
+- [taiping zoo (MY)](../../../countries/MY/sights/taiping-zoo.yaml) — 7.6/7.4/6.7/8.2/8.0; Comparable compact zoo experience, different collection.
+- [kui buri national park (TH)](../../../countries/TH/sights/kui-buri-national-park.yaml) — 8.7/8.9/8.5/9.1/8.5; Wild observation contrast, no wilderness credit for managed exhibits.
 
 ### Scoring decisions
 | Field | Rating | Rationale |
@@ -278,6 +341,15 @@
 - Kinabalu Park (Malaysia): exceptional montane biodiversity
 - Lorentz National Park (Indonesia): comparable broad New Guinea ecological landscape
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D; original qualitative comparisons retained. Editorial comparisons, not factual verification.
+
+- [lorentz national park (ID)](../../../countries/ID/sights/lorentz-national-park.yaml) — 9.4/9.7/9.8/7.6/9.3; Comparable broad New Guinea ecological landscape, greater altitude range.
+- [taman negara national park (MY)](../../../countries/MY/sights/taman-negara-national-park.yaml) — 9.0/9.1/9.0/8.9/9.2; More established river and forest visitation.
+- [khao sok national park (TH)](../../../countries/TH/sights/khao-sok-national-park.yaml) — 9.4/9.4/9.1/9.4/9.3; More documented karst and lake experiences.
+- [kinabatangan wildlife sanctuary (MY)](../../../countries/MY/sights/kinabatangan-wildlife-sanctuary.yaml) — 9.2/9.4/9.2/9.2/9.0; Focused river wildlife visit, not evidence of whole Kikori access.
+
 ### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
@@ -311,6 +383,15 @@
 - Khao Sok National Park (Thailand): developed karst and rainforest visitor activities
 - Kinabalu Park (Malaysia): exceptional montane biodiversity
 - Lorentz National Park (Indonesia): comparable broad New Guinea ecological landscape
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D; original qualitative comparisons retained. Editorial comparisons, not factual verification.
+
+- [lorentz national park (ID)](../../../countries/ID/sights/lorentz-national-park.yaml) — 9.4/9.7/9.8/7.6/9.3; Comparable large montane ecosystem and broader altitudinal range.
+- [kinabalu park (MY)](../../../countries/MY/sights/kinabalu-park.yaml) — 9.4/9.5/9.5/9.2/9.3; Exceptional montane biodiversity and developed visitor routes.
+- [annapurna circuit trek (NP)](../../../countries/NP/sights/annapurna-circuit-trek.yaml) — 9.6/9.5/8.9/9.5/9.6; Documented long trek, narrower than proposed landscape.
+- [khao sok national park (TH)](../../../countries/TH/sights/khao-sok-national-park.yaml) — 9.4/9.4/9.1/9.4/9.3; More established forest recreation, distinct habitat.
 
 ### Scoring decisions
 | Field | Rating | Rationale |
@@ -347,6 +428,15 @@
 - [Tonle Sap Lake](../../../countries/KH/sights/tonle-sap-lake.yaml) (Cambodia): distinct freshwater processes
 - Taman Negara (Malaysia): different tropical habitat
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D; original qualitative comparisons retained. Editorial comparisons, not factual verification.
+
+- [pantanal brazilian wildlife routes (BR)](../../../countries/BR/sights/pantanal-brazilian-wildlife-routes.yaml) — 9.3/9.4/9.2/9.1/9.3; Stronger documented wetland wildlife visit.
+- [neusiedler see seewinkel national park (AT)](../../../countries/AT/sights/neusiedler-see-seewinkel-national-park.yaml) — 8.5/8.8/9.2/8.7/8.8; Comparable important migratory bird habitat with established routes.
+- [tonle sap lake (KH)](../../../countries/KH/sights/tonle-sap-lake.yaml) — 9.0/9.2/9.5/8.8/9.2; Broader documented lake ecology and living water culture.
+- [kinabatangan wildlife sanctuary (MY)](../../../countries/MY/sights/kinabatangan-wildlife-sanctuary.yaml) — 9.2/9.4/9.2/9.2/9.0; More established river wildlife experience, different habitat.
+
 ### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
@@ -382,6 +472,15 @@
 - Marovo Lagoon (Solomon Islands): comparable reef-water landscape
 - Tubbataha Reefs (Philippines): major reef conservation reference
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D; original qualitative comparisons retained. Editorial comparisons, not factual verification.
+
+- [misool marine reserve (ID)](../../../countries/ID/sights/misool-marine-reserve.yaml) — 9.6/9.6/9.1/9.5/9.4; Exceptional documented reef biodiversity and experience.
+- [sipadan island reefs (MY)](../../../countries/MY/sights/sipadan-island-reefs.yaml) — 9.5/9.6/9.1/9.5/8.9; Stronger concentrated underwater encounters.
+- [apo reef (PH)](../../../countries/PH/sights/apo-reef.yaml) — 9.0/8.8/8.9/8.8/8.5; Comparable marine conservation, narrower reef scope.
+- [rock islands southern lagoon (PW)](../../../countries/PW/sights/rock-islands-southern-lagoon.yaml) — 9.5/9.5/9.3/9.4/9.3; Broader visible island landscape, not proof of aggregate Milne Bay access.
+
 ### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
@@ -416,6 +515,15 @@
 - Gunung Mulu National Park (Malaysia): major documented cave systems
 - Son Doong Cave (Vietnam): narrower but extraordinary accessible cave
 - Tsingy de Bemaraha (Madagascar): distinctive karst landforms
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D; original qualitative comparisons retained. Editorial comparisons, not factual verification.
+
+- [phong nha ke bang national park (VN)](../../../countries/VN/sights/phong-nha-ke-bang-national-park.yaml) — 9.8/9.9/9.7/9.7/9.8; Exceptional karst extent with established cave visits.
+- [gunung mulu national park (MY)](../../../countries/MY/sights/gunung-mulu-national-park.yaml) — 9.7/9.8/9.6/9.5/9.6; Major interpreted cave systems and forest trails.
+- [son doong cave (VN)](../../../countries/VN/sights/son-doong-cave.yaml) — 9.9/9.9/9.6/9.0/9.2; Exceptional individual cave, narrower than serial landscape.
+- [khao sok national park (TH)](../../../countries/TH/sights/khao-sok-national-park.yaml) — 9.4/9.4/9.1/9.4/9.3; More accessible developed karst visitor scope.
 
 ### Scoring decisions
 | Field | Rating | Rationale |
@@ -456,6 +564,15 @@
 | [Kinabatangan Wildlife Sanctuary](../../../countries/MY/sights/kinabatangan-wildlife-sanctuary.yaml) (Malaysia) | River excursions and biodiversity | 9.2/9.4/9.2/9.2/9.0; more wildlife-focused, Sepik has distinctive cultural depth |
 | [Taman Negara National Park](../../../countries/MY/sights/taman-negara-national-park.yaml) (Malaysia) | Rainforest and river-based exploration | 9.0/9.1/9.0/8.9/9.2; more established forest trail experiences |
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D; original qualitative comparisons retained. Editorial comparisons, not factual verification.
+
+- [tonle sap lake (KH)](../../../countries/KH/sights/tonle-sap-lake.yaml) — 9.0/9.2/9.5/8.8/9.2; Broader lake ecology and water settlements.
+- [mekong delta (VN)](../../../countries/VN/sights/mekong-delta.yaml) — 9.2/9.3/9.3/9.1/9.5; Greater documented riverine community and route variety.
+- [kinabatangan wildlife sanctuary (MY)](../../../countries/MY/sights/kinabatangan-wildlife-sanctuary.yaml) — 9.2/9.4/9.2/9.2/9.0; Stronger wildlife-focused river encounters, different cultural breadth.
+- [taman negara national park (MY)](../../../countries/MY/sights/taman-negara-national-park.yaml) — 9.0/9.1/9.0/8.9/9.2; More established forest trails and river exploration.
+
 ### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
@@ -489,6 +606,15 @@
 - Dorset and East Devon Coast (United Kingdom): major interpreted geological sequence
 - Tsingy de Bemaraha (Madagascar): different dramatic limestone landscape
 - Bungle Bungle Range (Australia): distinct geological landforms
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D; original qualitative comparisons retained. Editorial comparisons, not factual verification.
+
+- [giants causeway (GB)](../../../countries/GB/sights/giants-causeway.yaml) — 9.4/9.5/9.1/9.1/8.7; More striking individual coastal geological formation.
+- [jurassic coast (GB)](../../../countries/GB/sights/jurassic-coast.yaml) — 9.2/9.3/9.4/9.1/9.3; Major interpreted geological sequence and coastal trails.
+- [dune pilat (FR)](../../../countries/FR/sights/dune-pilat.yaml) — 9.3/9.2/8.6/9.0/8.1; Focused coastal landform with stronger documented visit.
+- [krakatau volcanic islands (ID)](../../../countries/ID/sights/krakatau-volcanic-islands.yaml) — 9.2/9.5/9.4/8.6/8.6; Different geological process, comparable landscape significance rather than terrace-specific evidence.
 
 ### Scoring decisions
 | Field | Rating | Rationale |
