@@ -1,0 +1,15 @@
+id: city-sk-nitra
+name: "Nitra"
+location:
+  country_code: SK
+  latitude: 48.307
+  longitude: 18.084
+scores:
+  impact: 8.1
+  uniqueness: 8.2
+  significance: 8.7
+  experience: 8.4
+  depth: 8.3
+  categories:
+    history: 9.1
+    architecture: 8.7

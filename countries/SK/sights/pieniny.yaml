@@ -1,0 +1,16 @@
+id: sight-sk-pieniny
+name: "Pieniny National Park (Slovak section)"
+location:
+  country_code: SK
+  latitude: 49.4
+  longitude: 20.42
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 8.6
+  experience: 9.0
+  depth: 8.6
+  categories:
+    nature: 9.2
+    photography: 9.2
+    adventure: 9.0

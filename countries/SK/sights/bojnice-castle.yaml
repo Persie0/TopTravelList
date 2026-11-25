@@ -1,0 +1,16 @@
+id: sight-sk-bojnice-castle
+name: "Bojnice Castle"
+location:
+  country_code: SK
+  latitude: 48.78
+  longitude: 18.578
+scores:
+  impact: 9.1
+  uniqueness: 8.8
+  significance: 8.7
+  experience: 9.0
+  depth: 8.7
+  categories:
+    architecture: 9.4
+    photography: 9.3
+    history: 9.0

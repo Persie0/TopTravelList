@@ -1,0 +1,15 @@
+id: sight-sk-komarno-forts
+name: "Komárno fortification system (Slovak section)"
+location:
+  country_code: SK
+  latitude: 47.759
+  longitude: 18.132
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 8.5
+  depth: 8.5
+  categories:
+    architecture: 9.0
+    history: 9.2

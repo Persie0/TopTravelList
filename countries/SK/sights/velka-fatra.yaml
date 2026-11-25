@@ -1,0 +1,15 @@
+id: sight-sk-velka-fatra
+name: "Veľká Fatra National Park"
+location:
+  country_code: SK
+  latitude: 48.92
+  longitude: 19.13
+scores:
+  impact: 8.8
+  uniqueness: 8.6
+  significance: 8.6
+  experience: 8.9
+  depth: 9.0
+  categories:
+    nature: 9.2
+    adventure: 9.1

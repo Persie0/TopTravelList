@@ -1,0 +1,15 @@
+id: sight-sk-muranska-planina
+name: "Muránska Planina National Park"
+location:
+  country_code: SK
+  latitude: 48.76
+  longitude: 20.06
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 8.6
+  experience: 8.7
+  depth: 8.9
+  categories:
+    nature: 9.2
+    adventure: 9.0

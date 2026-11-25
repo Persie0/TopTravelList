@@ -1,0 +1,16 @@
+id: city-sk-banska-bystrica
+name: "Banská Bystrica"
+location:
+  country_code: SK
+  latitude: 48.736
+  longitude: 19.146
+scores:
+  impact: 8.3
+  uniqueness: 8.3
+  significance: 8.6
+  experience: 8.6
+  depth: 8.4
+  categories:
+    history: 9.0
+    architecture: 8.9
+    culture: 8.7

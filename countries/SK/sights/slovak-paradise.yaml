@@ -1,0 +1,16 @@
+id: sight-sk-slovak-paradise
+name: "Slovak Paradise National Park"
+location:
+  country_code: SK
+  latitude: 48.94
+  longitude: 20.37
+scores:
+  impact: 9.2
+  uniqueness: 9.2
+  significance: 8.8
+  experience: 9.3
+  depth: 9.1
+  categories:
+    nature: 9.4
+    adventure: 9.5
+    photography: 9.3

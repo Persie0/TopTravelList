@@ -1,0 +1,15 @@
+id: city-sk-piestany
+name: "Piešťany"
+location:
+  country_code: SK
+  latitude: 48.59
+  longitude: 17.83
+scores:
+  impact: 7.9
+  uniqueness: 8.3
+  significance: 8.1
+  experience: 8.6
+  depth: 8.1
+  categories:
+    relaxation: 9.0
+    architecture: 8.5

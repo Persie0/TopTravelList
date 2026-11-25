@@ -1,0 +1,16 @@
+id: sight-sk-stiavnica-heritage
+name: "Historic Banská Štiavnica and mining landscape"
+location:
+  country_code: SK
+  latitude: 48.46
+  longitude: 18.89
+scores:
+  impact: 9.0
+  uniqueness: 9.3
+  significance: 9.3
+  experience: 8.8
+  depth: 9.1
+  categories:
+    architecture: 9.3
+    history: 9.4
+    culture: 9.2

@@ -1,0 +1,16 @@
+id: city-sk-bratislava
+name: "Bratislava"
+location:
+  country_code: SK
+  latitude: 48.1486
+  longitude: 17.1077
+scores:
+  impact: 8.6
+  uniqueness: 8.5
+  significance: 8.7
+  experience: 8.9
+  depth: 8.8
+  categories:
+    architecture: 8.9
+    history: 9.0
+    culture: 8.9
