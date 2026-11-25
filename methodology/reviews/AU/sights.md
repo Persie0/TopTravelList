@@ -943,6 +943,15 @@ Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons reta
 - Stonehenge (UK): more concentrated iconic monument
 - [Budj Bim](../../../countries/AU/sights/budj-bim-cultural-landscape.yaml) (Australia): different Indigenous landscape
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons retained. Editorial calibration, not independent factual verification.
+
+- [sossusvlei (NA)](../../../countries/NA/sights/sossusvlei.yaml) — 9.8/9.7/9.2/9.5/9.1; Much greater concentrated dune spectacle, different arid landform processes.
+- [tsodilo hills (BW)](../../../countries/BW/sights/tsodilo-hills.yaml) — 8.5/9.3/9.6/8.2/8.2; Stronger focused rock-art and continuing sacred heritage, different archaeological record.
+- [ban chiang archaeological site (TH)](../../../countries/TH/sights/ban-chiang-archaeological-site.yaml) — 8.4/9.2/9.6/8.2/8.1; Exceptional early material-cultural evidence with established interpretation.
+- [lenggong valley archaeological heritage (MY)](../../../countries/MY/sights/lenggong-valley-archaeological-heritage.yaml) — 8.0/9.0/9.5/8.0/8.4; Comparable early human archaeological landscape with greater scientific chronology and focused visits.
+
 ### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
@@ -980,6 +989,15 @@ Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons reta
 - Wadden Sea (Germany/Netherlands/Denmark): extensive marine wetland systems and different tidal processes
 - Abel Tasman National Park (New Zealand): more focused coastal walking and kayaking landscape
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons retained. Editorial calibration, not independent factual verification.
+
+- [wadden sea (DE)](../../../countries/DE/sights/wadden-sea.yaml) — 8.8/9.4/9.5/8.9/9.3; Greater tidal wetland extent and scientific significance, different landforms.
+- [tottori sand dunes (JP)](../../../countries/JP/sights/tottori-sand-dunes.yaml) — 8.8/8.7/7.7/8.9/8.4; Comparable coastal dune forms, much narrower ecosystem.
+- [sossusvlei (NA)](../../../countries/NA/sights/sossusvlei.yaml) — 9.8/9.7/9.2/9.5/9.1; Much greater desert dune spectacle, different coastal ecology.
+- [pembrokeshire coast (GB)](../../../countries/GB/sights/pembrokeshire-coast.yaml) — 9.1/8.9/8.7/9.1/9.2; Comparable long coastal visitor landscape with diverse trails, distinct geology.
+
 ### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
@@ -1015,6 +1033,17 @@ Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons reta
 - Te Wāhipounamu (New Zealand): broader combined alpine and forest landscape
 - [Kinabalu Park](../../../countries/MY/sights/kinabalu-park.yaml) (Malaysia): exceptional montane biodiversity and well-documented visitor scope
 - [Bunya Mountains](../../../countries/AU/sights/bunya-mountains-national-park.yaml) (Australia): confirmed proposed component, narrower than aggregate extension
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons retained. Editorial calibration, not independent factual verification.
+
+- [kalkalpen national park (AT)](../../../countries/AT/sights/kalkalpen-national-park.yaml) — 8.7/9.0/9.1/8.6/9.0; Comparable temperate forest protection and established visitor routes.
+- [kinabalu park (MY)](../../../countries/MY/sights/kinabalu-park.yaml) — 9.4/9.5/9.5/9.2/9.3; Exceptional montane and endemic biodiversity with established visitor breadth.
+- [khao yai national park (TH)](../../../countries/TH/sights/khao-yai-national-park.yaml) — 9.0/9.1/9.0/9.0/9.2; Greater documented forest and wildlife recreation.
+- [shiretoko national park (JP)](../../../countries/JP/sights/shiretoko-national-park.yaml) — 9.5/9.5/9.4/9.1/9.4; Broad protected coastal forest landscape with documented visits, not proof of access to proposed additions.
+
+Visitor experience and depth remain null: documented trails in one named addition do not establish aggregate visitation.
 
 ### Scoring decisions
 | Field | Before | New rating | Individual justification |
@@ -1052,6 +1081,15 @@ Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons reta
 - Chengjiang Fossil Site (China): complementary early-life fossil significance
 - Wadi Rum (Jordan): stronger concentrated sandstone landscape but different geology
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons retained. Editorial calibration, not independent factual verification.
+
+- [grand canyon national park (US)](../../../countries/US/sights/grand-canyon-national-park.yaml) — 9.9/9.7/9.6/9.4/9.6; Far stronger monumental geological relief and established visitor routes.
+- [dinosaur provincial park (CA)](../../../countries/CA/sights/dinosaur-provincial-park.yaml) — 8.8/9.1/9.4/8.8/8.6; Different fossil era and geological landforms with interpreted routes.
+- [messel pit (DE)](../../../countries/DE/sights/messel-pit.yaml) — 8.2/9.3/9.5/8.5/8.0; More focused exceptional evolutionary fossil record.
+- [jurassic coast (GB)](../../../countries/GB/sights/jurassic-coast.yaml) — 9.2/9.3/9.4/9.1/9.3; Comparable long interpreted geological sequence, different geological periods and coastal morphology.
+
 ### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
@@ -1086,6 +1124,15 @@ Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons reta
 - Robben Island (South Africa): different prison and political history with stronger interpretation
 - Hyde Park Barracks (Australia): more developed museum experience
 - Kilmainham Gaol (Ireland): stronger established interior tour
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons retained. Editorial calibration, not independent factual verification.
+
+- [kilmainham gaol (IE)](../../../countries/IE/sights/kilmainham-gaol.yaml) — 8.6/8.8/9.2/8.7/8.3; More established interior prison and political heritage interpretation.
+- [hoa lo prison (VN)](../../../countries/VN/sights/hoa-lo-prison.yaml) — 8.8/9.0/9.5/9.0/8.8; Stronger documented historical interpretation and museum breadth.
+- [abashiri prison museum (JP)](../../../countries/JP/sights/abashiri-prison-museum.yaml) — 8.2/8.6/8.4/8.6/8.5; Comparable institutional and forced labor history with more accessible reconstructed buildings.
+- [con dao prison complex (VN)](../../../countries/VN/sights/con-dao-prison-complex.yaml) — 8.7/9.1/9.5/8.6/8.8; Broader prison landscape, different colonial and political history.
 
 ### Scoring decisions
 | Field | Before | New rating | Individual justification |
@@ -1124,6 +1171,15 @@ Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons reta
 - Zollverein Coal Mine (Germany): far larger industrial ensemble; labour history is a distinct subject
 - Hyde Park Barracks (Australia): more focused interpreted social-history museum with a different institutional history
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons retained. Editorial calibration, not independent factual verification.
+
+- [workers museum (DK)](../../../countries/DK/sights/workers-museum.yaml) — 8.0/8.6/8.8/8.5/8.2; Close historic workers institution with stronger museum interpretation.
+- [zollverein (DE)](../../../countries/DE/sights/zollverein.yaml) — 9.0/9.2/9.3/9.0/9.1; Much larger interpreted industrial ensemble, distinct organized labor focus.
+- [nord mining (FR)](../../../countries/FR/sights/nord-mining.yaml) — 8.6/9.0/9.2/8.6/9.0; Broader mining and working-community heritage landscape.
+- [roros heritage (NO)](../../../countries/NO/sights/roros-heritage.yaml) — 8.8/9.1/9.2/8.7/9.0; More extensive surviving historic working-town fabric, different institutional purpose.
+
 ### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
@@ -1159,6 +1215,17 @@ Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons reta
 - Tsodilo (Botswana): distinctive rock-art landscape with more concentrated site scope
 - Twyfelfontein (Namibia): more focused rock-art visitor experience
 - [Budj Bim](../../../countries/AU/sights/budj-bim-cultural-landscape.yaml) (Australia): different living Indigenous landscape and aquaculture heritage
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons retained. Editorial calibration, not independent factual verification.
+
+- [tsodilo hills (BW)](../../../countries/BW/sights/tsodilo-hills.yaml) — 8.5/9.3/9.6/8.2/8.2; Closer living sacred rock-art landscape with clearer bounded visitor scope.
+- [twyfelfontein (NA)](../../../countries/NA/sights/twyfelfontein.yaml) — 9.0/9.4/9.5/8.8/8.5; Focused established rock-art interpretation and tours.
+- [zuojiang huashan rock art (CN)](../../../countries/CN/sights/zuojiang-huashan-rock-art.yaml) — 9.1/9.6/9.4/8.6/8.4; Exceptional distributed river-cliff rock-art landscape.
+- [pha taem national park (TH)](../../../countries/TH/sights/pha-taem-national-park.yaml) — 8.7/9.0/9.1/8.8/9.0; Mixed scenic escarpments and interpreted art, no proof of permission across Cape York.
+
+Retain null experience and depth: no established proposal-wide permitted route or boundary.
 
 ### Scoring decisions
 | Field | Before | New rating | Individual justification |
@@ -1197,6 +1264,15 @@ Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons reta
 - Zollverein Coal Mine (Germany): different major industrial architecture
 - Wieliczka Salt Mine (Poland): more extraordinary underground visitor experience
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons retained. Editorial calibration, not independent factual verification.
+
+- [cornwall mining (GB)](../../../countries/GB/sights/cornwall-mining.yaml) — 8.6/9.0/9.2/8.7/9.1; Larger original mining technology and landscape system.
+- [roros heritage (NO)](../../../countries/NO/sights/roros-heritage.yaml) — 8.8/9.1/9.2/8.7/9.0; More coherent historic industrial town fabric.
+- [zollverein (DE)](../../../countries/DE/sights/zollverein.yaml) — 9.0/9.2/9.3/9.0/9.1; Greater interpreted industrial architecture and visitor breadth.
+- [manda coal mine (JP)](../../../countries/JP/sights/manda-coal-mine.yaml) — 7.9/8.6/8.7/8.2/7.7; Closer compact industrial technology site, less geographic breadth.
+
 ### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
@@ -1234,6 +1310,15 @@ Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons reta
 - Tr’ondëk–Klondike (Canada): comparable gold rush and Indigenous colonial history but different surviving mining technology and settlement patterns
 - Burra and Moonta (Australia): smaller two-component copper mining ensemble with comparable industrial interpretation
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons retained. Editorial calibration, not independent factual verification.
+
+- [trondek klondike (CA)](../../../countries/CA/sights/trondek-klondike.yaml) — 8.1/8.9/9.2/8.3/8.5; Close gold-rush and Indigenous colonial heritage comparator, different technology and settlement landscape.
+- [cornwall mining (GB)](../../../countries/GB/sights/cornwall-mining.yaml) — 8.6/9.0/9.2/8.7/9.1; More extensive original Cornish mining landscape and technology.
+- [roros heritage (NO)](../../../countries/NO/sights/roros-heritage.yaml) — 8.8/9.1/9.2/8.7/9.0; More coherent concentrated historic mining town.
+- [nord mining (FR)](../../../countries/FR/sights/nord-mining.yaml) — 8.6/9.0/9.2/8.6/9.0; Broader industrial and worker community landscape, different extractive industry.
+
 ### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
@@ -1269,6 +1354,15 @@ Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons reta
 - Monument Valley (United States): comparable dramatic isolated sandstone formations
 - Cappadocia (Turkey): more complex eroded geological landscape
 - Petra (Jordan): greater built archaeological spectacle
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons retained. Editorial calibration, not independent factual verification.
+
+- [cliffs of moher (IE)](../../../countries/IE/sights/cliffs-of-moher.yaml) — 9.5/9.1/8.7/9.0/8.2; Greater sheer coastal cliff scale and visitor breadth.
+- [tojinbo cliffs (JP)](../../../countries/JP/sights/tojinbo-cliffs.yaml) — 8.7/8.9/8.1/8.8/8.0; Comparable focused coastal erosion and rock formation viewing.
+- [durdle door (GB)](../../../countries/GB/sights/durdle-door.yaml) — 9.0/8.9/8.4/8.7/7.6; Comparable iconic coastal limestone form with different arch morphology.
+- [mulu pinnacles (MY)](../../../countries/MY/sights/mulu-pinnacles.yaml) — 9.4/9.3/8.3/9.0/8.7; Comparable dramatic pointed limestone formations, inland and much more involved trek.
 
 ### Scoring decisions
 | Field | Rating | Rationale |
@@ -1306,6 +1400,15 @@ Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons reta
 - Cappadocia (Turkey): more complex eroded geological landscape
 - Petra (Jordan): greater built archaeological spectacle
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons retained. Editorial calibration, not independent factual verification.
+
+- [atlantic road (NO)](../../../countries/NO/sights/atlantic-road.yaml) — 8.8/8.9/8.2/8.9/7.8; Close coastal scenic driving route, narrower landscape breadth.
+- [icefields parkway (CA)](../../../countries/CA/sights/icefields-parkway.yaml) — 9.4/9.2/8.6/9.3/9.0; More dramatic extended mountain drive and scenic variation.
+- [shimanami kaido cycling route (JP)](../../../countries/JP/sights/shimanami-kaido-cycling-route.yaml) — 9.1/9.0/7.8/9.4/9.5; Comparable multi-stop coastal route, different active travel mode.
+- [pembrokeshire coast (GB)](../../../countries/GB/sights/pembrokeshire-coast.yaml) — 9.1/8.9/8.7/9.1/9.2; Comparable coastal landscape and long-route exploration, not specifically a road.
+
 ### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
@@ -1341,6 +1444,15 @@ Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons reta
 - Copacabana (Brazil): comparable iconic urban beach
 - Waikiki (United States): comparable urban surf culture
 - Natadola Beach (Fiji): less urban tropical beach
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons retained. Editorial calibration, not independent factual verification.
+
+- [copacabana beach (BR)](../../../countries/BR/sights/copacabana-beach.yaml) — 8.8/8.5/7.6/8.9/8.3; Close iconic urban beach and social culture, wider shore breadth.
+- [nha trang beach (VN)](../../../countries/VN/sights/nha-trang-beach.yaml) — 8.5/8.0/7.3/9.0/8.7; Comparable urban beach with developed recreation and broad shoreline.
+- [white beach boracay (PH)](../../../countries/PH/sights/white-beach-boracay.yaml) — 9.1/8.4/6.8/9.0/7.5; More extensive tropical shoreline leisure, different urban role.
+- [railay beach (TH)](../../../countries/TH/sights/railay-beach.yaml) — 8.9/9.0/7.5/9.2/8.3; More distinctive karst and coastal activity range, less urban surf identity.
 
 ### Scoring decisions
 | Field | Rating | Rationale |
@@ -1378,6 +1490,15 @@ Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons reta
 - Ponte Vecchio (Italy): different historic urban bridge
 - [Sydney Opera House](../../../countries/AU/sights/sydney-opera-house.yaml) (Australia): stronger architectural originality
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons retained. Editorial calibration, not independent factual verification.
+
+- [brooklyn bridge (US)](../../../countries/US/sights/brooklyn-bridge.yaml) — 8.6/8.7/9.0/8.6/7.3; Comparable iconic urban bridge and pedestrian viewing experience.
+- [forth bridge (GB)](../../../countries/GB/sights/forth-bridge.yaml) — 8.9/9.2/9.2/8.3/7.4; Greater distinctive engineering heritage, narrower visitor access.
+- [vizcaya bridge (ES)](../../../countries/ES/sights/vizcaya-bridge.yaml) — 8.6/9.1/9.2/8.7/7.9; Distinct historic engineering and stronger heritage significance.
+- [ironbridge (GB)](../../../countries/GB/sights/ironbridge.yaml) — 8.5/8.9/9.2/8.8/8.7; More extensive historic industrial context, less monumental modern span.
+
 ### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
@@ -1413,6 +1534,15 @@ Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons reta
 - Te Wāhipounamu (New Zealand): more concentrated glacial mountains and fjords
 - [Taman Negara](../../../countries/MY/sights/taman-negara-national-park.yaml) (Malaysia): extensive tropical forest
 - [Kinabalu Park](../../../countries/MY/sights/kinabalu-park.yaml) (Malaysia): outstanding montane biodiversity
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons retained. Editorial calibration, not independent factual verification.
+
+- [taman negara national park (MY)](../../../countries/MY/sights/taman-negara-national-park.yaml) — 9.0/9.1/9.0/8.9/9.2; Comparable rainforest and river recreation, greater overall exploration breadth.
+- [kinabalu park (MY)](../../../countries/MY/sights/kinabalu-park.yaml) — 9.4/9.5/9.5/9.2/9.3; Greater altitudinal and endemic diversity.
+- [khao yai national park (TH)](../../../countries/TH/sights/khao-yai-national-park.yaml) — 9.0/9.1/9.0/9.0/9.2; Comparable established forest visitor routes, different evolutionary context.
+- [lorentz national park (ID)](../../../countries/ID/sights/lorentz-national-park.yaml) — 9.4/9.7/9.8/7.6/9.3; Much larger ecological range and conservation significance, less established ordinary visitor experience.
 
 ### Scoring decisions
 | Field | Rating | Rationale |
@@ -1450,6 +1580,15 @@ Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons reta
 - [Taman Negara](../../../countries/MY/sights/taman-negara-national-park.yaml) (Malaysia): extensive tropical forest
 - [Kinabalu Park](../../../countries/MY/sights/kinabalu-park.yaml) (Malaysia): outstanding montane biodiversity
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons retained. Editorial calibration, not independent factual verification.
+
+- [mount kinabalu (MY)](../../../countries/MY/sights/mount-kinabalu.yaml) — 9.4/9.3/8.7/9.1/8.7; More dramatic individual mountain and granite summit, greater ascent scope.
+- [pico mountain (PT)](../../../countries/PT/sights/pico-mountain.yaml) — 9.2/9.0/8.8/8.8/8.7; Comparable individual mountain and varied hike with different volcanic form.
+- [sokehs rock (FM)](../../../countries/FM/sights/sokehs-rock.yaml) — 8.2/7.5/6.6/7.9/7.0; Smaller focused mountain viewpoint, narrower trail breadth.
+- [hohe tauern national park (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) — 9.4/9.1/9.0/9.5/9.4; Much broader alpine terrain, not comparable in whole-park depth.
+
 ### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
@@ -1486,6 +1625,17 @@ Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons reta
 - Cappadocia (Turkey): more complex eroded geological landscape
 - Petra (Jordan): greater built archaeological spectacle
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons retained. Editorial calibration, not independent factual verification.
+
+- [sigiriya ancient city and rock fortress (LK)](../../../countries/LK/sights/sigiriya-ancient-city-and-rock-fortress.yaml) — 9.8/9.8/9.5/9.6/9.2; Comparable iconic isolated rock with strong cultural association, built archaeological experience rather than sacred base walks.
+- [wadi rum protected area (JO)](../../../countries/JO/sights/wadi-rum-protected-area.yaml) — 9.8/9.7/9.4/9.6/9.5; Far broader monumental sandstone landscape with different living cultural context.
+- [arches national park (US)](../../../countries/US/sights/arches-national-park.yaml) — 9.3/9.4/8.7/9.0/8.8; More varied sandstone forms, less distinctive individual monolith and sacred significance.
+- [cappadocia (TR)](../../../countries/TR/sights/cappadocia.yaml) — 9.4/9.4/9.4/9.3/9.4; More diverse erosional and built landscapes, less focused single monolith.
+
+High-score check: Sigiriya impact/uniqueness both 9.8 and photography 9.7; Wadi Rum impact 9.8, uniqueness 9.7, nature/photography 9.8; Arches nature and photography 9.4. Uluru's impact 9.6, uniqueness/nature 9.5 and photography 9.6 are consistent with its concentrated monolith and sacred context; no climbing or transfer of whole-park depth. 92.80 remains provisional.
+
 ### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
@@ -1521,6 +1671,17 @@ Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons reta
 - Monument Valley (United States): comparable dramatic isolated sandstone formations
 - Cappadocia (Turkey): more complex eroded geological landscape
 - Petra (Jordan): greater built archaeological spectacle
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons retained. Editorial calibration, not independent factual verification.
+
+- [wadi rum protected area (JO)](../../../countries/JO/sights/wadi-rum-protected-area.yaml) — 9.8/9.7/9.4/9.6/9.5; More extensive sandstone relief and desert exploration.
+- [cappadocia (TR)](../../../countries/TR/sights/cappadocia.yaml) — 9.4/9.4/9.4/9.3/9.4; More varied clustered erosional formations and cultural landscapes.
+- [arches national park (US)](../../../countries/US/sights/arches-national-park.yaml) — 9.3/9.4/8.7/9.0/8.8; Comparable varied sandstone forms, different arch morphology.
+- [mulu pinnacles (MY)](../../../countries/MY/sights/mulu-pinnacles.yaml) — 9.4/9.3/8.3/9.0/8.7; Comparable clustered distinctive rock forms, different limestone and tropical terrain.
+
+90+ check: 90.30 reflects exceptional coherent clustered sandstone domes and distinct Anangu context, below Wadi Rum and Cappadocia's broader landscapes. Retain lower visitor scope than whole park.
 
 ### Scoring decisions
 | Field | Rating | Rationale |
@@ -1561,6 +1722,15 @@ Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons reta
 | [Kalkalpen National Park](../../../countries/AT/sights/kalkalpen-national-park.yaml) (Austria) | Forest wilderness and hiking | 8.7/9.0/9.1/8.6/9.0; more extensive wild mountain terrain |
 | Vienna Woods Biosphere Reserve (Austria) | Accessible regional woodland recreation | 7.5/7.4/8.2/8.2/8.8; broader network but less distinctive flagship tree stands |
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons retained. Editorial calibration, not independent factual verification.
+
+- [kinabalu park (MY)](../../../countries/MY/sights/kinabalu-park.yaml) — 9.4/9.5/9.5/9.2/9.3; Greater montane and endemic botanical diversity.
+- [khao yai national park (TH)](../../../countries/TH/sights/khao-yai-national-park.yaml) — 9.0/9.1/9.0/9.0/9.2; Larger tropical forest landscape and wildlife scope.
+- [kalkalpen national park (AT)](../../../countries/AT/sights/kalkalpen-national-park.yaml) — 8.7/9.0/9.1/8.6/9.0; Comparable temperate forest walks and conservation, different ecology.
+- [shiretoko national park (JP)](../../../countries/JP/sights/shiretoko-national-park.yaml) — 9.5/9.5/9.4/9.1/9.4; Greater coastal forest and mountain wilderness, different plant communities.
+
 ### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
@@ -1598,6 +1768,15 @@ Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons reta
 | Pha Taem National Park (Thailand) | Cliff paintings and natural scenery | 8.7/9.0/9.1/8.8/9.0; broader park and exploration opportunities |
 | Budj Bim Cultural Landscape (Australia) | Living Indigenous heritage | 8.0/9.0/9.3/8.1/8.0; broader cultural landscape and different archaeological significance |
 | Rock Art of the Mediterranean Basin (Spain) | Large serial rock-art property | Unranked; uniqueness 9.3, significance 9.5; substantially wider scope, not an equivalent single gallery |
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons retained. Editorial calibration, not independent factual verification.
+
+- [alta rock art (NO)](../../../countries/NO/sights/alta-rock-art.yaml) — 8.5/9.1/9.3/8.6/8.5; More extensive interpreted public rock-art ensemble.
+- [pha taem national park (TH)](../../../countries/TH/sights/pha-taem-national-park.yaml) — 8.7/9.0/9.1/8.8/9.0; Broader public scenic cliff paintings and park activities.
+- [tsodilo hills (BW)](../../../countries/BW/sights/tsodilo-hills.yaml) — 8.5/9.3/9.6/8.2/8.2; Much more extensive living sacred rock-art landscape.
+- [twyfelfontein (NA)](../../../countries/NA/sights/twyfelfontein.yaml) — 9.0/9.4/9.5/8.8/8.5; Larger interpreted petroglyph landscape, different rock-art traditions.
 
 ### Scoring decisions
 | Field | Before | New rating | Individual justification |
