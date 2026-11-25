@@ -1,0 +1,15 @@
+id: city-gy-charity
+name: "Charity"
+location:
+  country_code: GY
+  latitude: 7.4000
+  longitude: -58.6000
+scores:
+  impact: 6.4
+  uniqueness: 6.9
+  significance: 6.5
+  experience: 7.0
+  depth: 6.2
+  categories:
+    culture: 7.3
+    food: 7.3

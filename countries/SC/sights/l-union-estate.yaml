@@ -1,0 +1,16 @@
+id: sight-sc-l-union-estate
+name: "L'Union Estate"
+location:
+  country_code: SC
+  latitude: -4.3650
+  longitude: 55.8280
+scores:
+  impact: 7.9
+  uniqueness: 8.1
+  significance: 8.0
+  experience: 8.3
+  depth: 7.7
+  categories:
+    history: 8.4
+    culture: 8.4
+    photography: 8.3

@@ -1,0 +1,16 @@
+id: sight-uy-montes-del-queguay
+name: "Montes del Queguay"
+location:
+  country_code: UY
+  latitude: -32.1040
+  longitude: -57.3040
+scores:
+  impact: 7.6
+  uniqueness: 8.0
+  significance: 8.2
+  experience: 7.9
+  depth: 7.7
+  categories:
+    nature: 8.4
+    wildlife: 8.5
+    adventure: 7.9

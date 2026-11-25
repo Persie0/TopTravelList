@@ -1,0 +1,15 @@
+id: city-ve-tucupita
+name: "Tucupita"
+location:
+  country_code: VE
+  latitude: 9.0600
+  longitude: -62.0600
+scores:
+  impact: 6.5
+  uniqueness: 7.3
+  significance: 6.6
+  experience: 7.0
+  depth: 6.1
+  categories:
+    culture: 7.9
+    photography: 7.6

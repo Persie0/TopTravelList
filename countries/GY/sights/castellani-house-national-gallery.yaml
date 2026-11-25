@@ -1,0 +1,15 @@
+id: sight-gy-castellani-house-national-gallery
+name: "Castellani House National Gallery"
+location:
+  country_code: GY
+  latitude: 6.8050
+  longitude: -58.1490
+scores:
+  impact: 7.4
+  uniqueness: 7.6
+  significance: 7.8
+  experience: 7.8
+  depth: 7.2
+  categories:
+    culture: 8.5
+    architecture: 8.0

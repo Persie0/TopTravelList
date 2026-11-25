@@ -1,0 +1,16 @@
+id: city-va-vatican-city
+name: "Vatican City"
+location:
+  country_code: VA
+  latitude: 41.90216
+  longitude: 12.45736
+scores:
+  impact: 9.3
+  uniqueness: 9.7
+  significance: 9.9
+  experience: 8.9
+  depth: 8.5
+  categories:
+    architecture: 9.6
+    history: 9.8
+    culture: 9.8

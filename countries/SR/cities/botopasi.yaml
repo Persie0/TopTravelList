@@ -1,0 +1,15 @@
+id: city-sr-botopasi
+name: "Botopasi"
+location:
+  country_code: SR
+  latitude: 4.2000
+  longitude: -55.4500
+scores:
+  impact: 6.9
+  uniqueness: 7.8
+  significance: 7.2
+  experience: 7.4
+  depth: 6.0
+  categories:
+    culture: 8.2
+    photography: 7.5

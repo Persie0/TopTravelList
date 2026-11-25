@@ -1,0 +1,15 @@
+id: city-gy-anna-regina
+name: "Anna Regina"
+location:
+  country_code: GY
+  latitude: 7.2630
+  longitude: -58.4800
+scores:
+  impact: 6.3
+  uniqueness: 6.6
+  significance: 6.7
+  experience: 6.8
+  depth: 6.3
+  categories:
+    culture: 7.2
+    food: 7.1

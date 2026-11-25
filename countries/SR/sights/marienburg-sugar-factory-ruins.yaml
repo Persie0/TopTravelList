@@ -1,0 +1,15 @@
+id: sight-sr-marienburg-sugar-factory-ruins
+name: "Mariënburg Sugar Factory Ruins"
+location:
+  country_code: SR
+  latitude: 5.8690
+  longitude: -55.0460
+scores:
+  impact: 7.5
+  uniqueness: 8.3
+  significance: 8.5
+  experience: 7.5
+  depth: 7.2
+  categories:
+    history: 8.9
+    architecture: 7.9

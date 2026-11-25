@@ -1,0 +1,15 @@
+id: city-rw-nyamagabe-gikongoro
+name: "Nyamagabe (Gikongoro)"
+location:
+  country_code: RW
+  latitude: -2.4830
+  longitude: 29.5730
+scores:
+  impact: 6.6
+  uniqueness: 6.9
+  significance: 6.9
+  experience: 7.0
+  depth: 6.4
+  categories:
+    culture: 7.3
+    photography: 7.4

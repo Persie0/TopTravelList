@@ -1,0 +1,15 @@
+id: city-sr-brokopondo
+name: "Brokopondo"
+location:
+  country_code: SR
+  latitude: 5.0667
+  longitude: -54.9667
+scores:
+  impact: 6.3
+  uniqueness: 6.8
+  significance: 6.5
+  experience: 6.7
+  depth: 5.9
+  categories:
+    culture: 7.1
+    photography: 7.2

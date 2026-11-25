@@ -1,0 +1,16 @@
+id: sight-uy-playa-brava-and-la-mano
+name: "Playa Brava and La Mano"
+location:
+  country_code: UY
+  latitude: -34.9583
+  longitude: -54.9381
+scores:
+  impact: 8.0
+  uniqueness: 8.0
+  significance: 6.5
+  experience: 8.3
+  depth: 7.4
+  categories:
+    beaches: 8.6
+    photography: 8.7
+    relaxation: 8.1

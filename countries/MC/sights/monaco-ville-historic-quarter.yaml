@@ -1,0 +1,16 @@
+id: sight-mc-monaco-ville-historic-quarter
+name: "Monaco-Ville Historic Quarter"
+location:
+  country_code: MC
+  latitude: 43.7312
+  longitude: 7.4232
+scores:
+  impact: 8.5
+  uniqueness: 8.4
+  significance: 8.5
+  experience: 8.7
+  depth: 8.0
+  categories:
+    architecture: 8.9
+    history: 8.9
+    photography: 9.2

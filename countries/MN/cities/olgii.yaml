@@ -1,0 +1,15 @@
+id: city-mn-olgii
+name: "Olgii"
+location:
+  country_code: MN
+  latitude: 48.968
+  longitude: 89.962
+scores:
+  impact: 7.5
+  uniqueness: 8.5
+  significance: 7.5
+  experience: 7.9
+  depth: 7.3
+  categories:
+    culture: 8.8
+    food: 8.1

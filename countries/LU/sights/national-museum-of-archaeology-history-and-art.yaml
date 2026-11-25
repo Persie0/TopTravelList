@@ -1,0 +1,15 @@
+id: sight-lu-national-museum-of-archaeology-history-and-art
+name: "National Museum of Archaeology History and Art"
+location:
+  country_code: LU
+  latitude: 49.6115
+  longitude: 6.1329
+scores:
+  impact: 8.0
+  uniqueness: 8.2
+  significance: 8.6
+  experience: 8.3
+  depth: 8.4
+  categories:
+    history: 8.9
+    culture: 8.8

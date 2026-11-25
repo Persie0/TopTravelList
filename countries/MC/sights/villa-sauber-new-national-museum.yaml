@@ -1,0 +1,15 @@
+id: sight-mc-villa-sauber-new-national-museum
+name: "Villa Sauber (New National Museum)"
+location:
+  country_code: MC
+  latitude: 43.7424
+  longitude: 7.4315
+scores:
+  impact: 7.3
+  uniqueness: 7.8
+  significance: 7.6
+  experience: null
+  depth: null
+  categories:
+    architecture: 8.2
+    culture: 8.6

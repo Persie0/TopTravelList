@@ -1,0 +1,15 @@
+id: city-xk-rahovec
+name: "Rahovec"
+location:
+  country_code: XK
+  latitude: 42.3991
+  longitude: 20.6547
+scores:
+  impact: 6.8
+  uniqueness: 7.4
+  significance: 7.0
+  experience: 7.6
+  depth: 6.8
+  categories:
+    food: 8.4
+    culture: 7.9

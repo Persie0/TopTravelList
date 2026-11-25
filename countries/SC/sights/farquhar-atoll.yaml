@@ -1,0 +1,15 @@
+id: sight-sc-farquhar-atoll
+name: "Farquhar Atoll"
+location:
+  country_code: SC
+  latitude: -10.1580
+  longitude: 51.1260
+scores:
+  impact: null
+  uniqueness: null
+  significance: 8.5
+  experience: null
+  depth: null
+  categories:
+    nature: 8.9
+    wildlife: 8.9

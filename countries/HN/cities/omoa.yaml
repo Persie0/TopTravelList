@@ -1,0 +1,15 @@
+id: city-hn-omoa
+name: "Omoa"
+location:
+  country_code: HN
+  latitude: 15.7780
+  longitude: -88.0320
+scores:
+  impact: 7.3
+  uniqueness: 7.6
+  significance: 7.9
+  experience: 7.7
+  depth: 6.6
+  categories:
+    history: 8.4
+    relaxation: 8.0

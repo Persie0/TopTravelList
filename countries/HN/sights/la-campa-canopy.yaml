@@ -1,0 +1,15 @@
+id: sight-hn-la-campa-canopy
+name: "La Campa Canopy"
+location:
+  country_code: HN
+  latitude: 14.4730
+  longitude: -88.5920
+scores:
+  impact: 8.0
+  uniqueness: 7.9
+  significance: 5.9
+  experience: 8.7
+  depth: 6.8
+  categories:
+    adventure: 8.9
+    photography: 8.3

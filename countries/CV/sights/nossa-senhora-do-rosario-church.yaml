@@ -1,0 +1,16 @@
+id: sight-cv-nossa-senhora-do-rosario-church
+name: "Nossa Senhora do Rosario Church"
+location:
+  country_code: CV
+  latitude: 14.9160
+  longitude: -23.6053
+scores:
+  impact: 6.9
+  uniqueness: 8.0
+  significance: 8.8
+  experience: 7.5
+  depth: 5.8
+  categories:
+    history: 9.2
+    architecture: 8.3
+    culture: 8.5

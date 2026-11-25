@@ -1,0 +1,15 @@
+id: city-mn-chinggis-ondorkhaan
+name: "Chinggis (Ondorkhaan)"
+location:
+  country_code: MN
+  latitude: 47.32
+  longitude: 110.655
+scores:
+  impact: 6.4
+  uniqueness: 6.9
+  significance: 7.3
+  experience: 7.0
+  depth: 6.4
+  categories:
+    culture: 7.5
+    history: 7.7

@@ -1,0 +1,15 @@
+id: sight-cr-carara-national-park
+name: "Carara National Park"
+location:
+  country_code: CR
+  latitude: 9.779
+  longitude: -84.603
+scores:
+  impact: 8.2
+  uniqueness: 8.4
+  significance: 8.7
+  experience: 8.6
+  depth: 8.1
+  categories:
+    wildlife: 9.2
+    nature: 8.9

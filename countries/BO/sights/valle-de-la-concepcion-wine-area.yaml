@@ -1,0 +1,16 @@
+id: sight-bo-valle-de-la-concepcion-wine-area
+name: "Valle de la Concepción Wine Area"
+location:
+  country_code: BO
+  latitude: -21.6800
+  longitude: -64.6500
+scores:
+  impact: 7.7
+  uniqueness: 7.8
+  significance: 7.2
+  experience: 8.5
+  depth: 7.8
+  categories:
+    food: 8.8
+    relaxation: 8.5
+    culture: 8.2

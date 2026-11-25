@@ -1,0 +1,16 @@
+id: sight-cr-santa-rosa-national-park
+name: "Santa Rosa National Park"
+location:
+  country_code: CR
+  latitude: 10.840
+  longitude: -85.625
+scores:
+  impact: 8.4
+  uniqueness: 8.7
+  significance: 9.1
+  experience: 8.5
+  depth: 8.6
+  categories:
+    nature: 9.1
+    wildlife: 9.0
+    history: 8.8

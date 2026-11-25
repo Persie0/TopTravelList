@@ -1,3 +1,11 @@
+// Accept either decimal separator independently of the browser's locale.
+export function parseMinimumScore(input,metric='overall'){
+ const text=String(input??'').trim();
+ if(!text)return 0;
+ if(!/^(?:\d+(?:[.,]\d*)?|[.,]\d+)$/.test(text))return null;
+ const n=Number(text.replace(',','.'));
+ return Number.isFinite(n)&&n>=0&&n<=(metric==='overall'?100:10)?n:null;
+}
 export const value = (row, metric) => metric === 'overall' ? row.overall : (row.scores[metric] ?? row.scores.categories?.[metric] ?? null);
 export function ranked(rows, metric='overall') {
   const sorted = [...rows].sort((a,b) => (value(b,metric) ?? -Infinity)-(value(a,metric) ?? -Infinity) || a.name.localeCompare(b.name,'en') || a.id.localeCompare(b.id));

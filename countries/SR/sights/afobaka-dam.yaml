@@ -1,0 +1,15 @@
+id: sight-sr-afobaka-dam
+name: "Afobaka Dam"
+location:
+  country_code: SR
+  latitude: 4.9860
+  longitude: -54.9920
+scores:
+  impact: 7.2
+  uniqueness: 7.4
+  significance: 7.8
+  experience: 6.8
+  depth: 6.0
+  categories:
+    history: 8.0
+    architecture: 7.6

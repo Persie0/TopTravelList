@@ -1,0 +1,16 @@
+id: sight-hn-cangrejal-river
+name: "Cangrejal River"
+location:
+  country_code: HN
+  latitude: 15.7110
+  longitude: -86.7350
+scores:
+  impact: 8.6
+  uniqueness: 8.4
+  significance: 7.5
+  experience: 8.9
+  depth: 8.2
+  categories:
+    adventure: 9.2
+    nature: 8.8
+    photography: 8.5
