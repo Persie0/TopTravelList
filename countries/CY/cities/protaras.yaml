@@ -1,0 +1,16 @@
+id: city-cy-protaras
+name: "Protaras"
+location:
+  country_code: CY
+  latitude: 35.015
+  longitude: 34.052
+scores:
+  impact: 7.3
+  uniqueness: 6.8
+  significance: 6.1
+  experience: 8.2
+  depth: 7.0
+  categories:
+    beaches: 8.5
+    relaxation: 8.3
+    family: 8.1
