@@ -1,0 +1,15 @@
+id: sight-ly-ptolemais
+name: "Ptolemais Archaeological Site"
+location:
+  country_code: LY
+  latitude: 32.707886
+  longitude: 20.951731
+scores:
+  impact: 8.6
+  uniqueness: 8.9
+  significance: 9.2
+  experience: 8.3
+  depth: 8.5
+  categories:
+    history: 9.3
+    architecture: 9.0

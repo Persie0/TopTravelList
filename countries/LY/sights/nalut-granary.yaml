@@ -1,0 +1,15 @@
+id: sight-ly-nalut-granary
+name: "Ksar Nalut"
+location:
+  country_code: LY
+  latitude: 31.868
+  longitude: 10.984
+scores:
+  impact: 8.6
+  uniqueness: 9.0
+  significance: 8.5
+  experience: 8.3
+  depth: 7.4
+  categories:
+    architecture: 9.1
+    culture: 8.8

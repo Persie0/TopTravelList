@@ -1,0 +1,16 @@
+id: sight-ci-assinie-beach
+name: "Assinie Beach"
+location:
+  country_code: CI
+  latitude: 5.126
+  longitude: -3.282
+scores:
+  impact: 8.3
+  uniqueness: 8.0
+  significance: 6.9
+  experience: 8.6
+  depth: 7.7
+  categories:
+    beaches: 8.9
+    relaxation: 8.9
+    photography: 8.5
