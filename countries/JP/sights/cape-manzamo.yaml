@@ -1,0 +1,15 @@
+id: sight-jp-cape-manzamo
+name: "Cape Manzamo"
+location:
+  country_code: JP
+  latitude: 26.5040
+  longitude: 127.8510
+scores:
+  impact: 8.5
+  uniqueness: 8.4
+  significance: 6.8
+  experience: 8.7
+  depth: 7.2
+  categories:
+    nature: 8.9
+    photography: 9.2

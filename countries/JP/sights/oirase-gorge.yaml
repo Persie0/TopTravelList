@@ -1,0 +1,16 @@
+id: sight-jp-oirase-gorge
+name: "Oirase Gorge"
+location:
+  country_code: JP
+  latitude: 40.5370
+  longitude: 140.9510
+scores:
+  impact: 9.1
+  uniqueness: 8.9
+  significance: 7.9
+  experience: 9.3
+  depth: 9.0
+  categories:
+    nature: 9.4
+    photography: 9.4
+    adventure: 8.9

@@ -1,0 +1,16 @@
+id: sight-jp-mount-tsurumi
+name: "Mount Tsurumi"
+location:
+  country_code: JP
+  latitude: 33.2860
+  longitude: 131.4300
+scores:
+  impact: 8.5
+  uniqueness: 8.2
+  significance: 7.1
+  experience: 8.8
+  depth: 8.2
+  categories:
+    nature: 8.9
+    photography: 9.0
+    adventure: 8.6

@@ -1,0 +1,16 @@
+id: sight-jp-shimanami-kaido-cycling-route
+name: "Shimanami Kaido Cycling Route"
+location:
+  country_code: JP
+  latitude: 34.2800
+  longitude: 133.1200
+scores:
+  impact: 9.1
+  uniqueness: 9.0
+  significance: 7.8
+  experience: 9.4
+  depth: 9.5
+  categories:
+    adventure: 9.6
+    photography: 9.3
+    nature: 9.1

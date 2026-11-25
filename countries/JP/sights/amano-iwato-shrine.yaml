@@ -1,0 +1,16 @@
+id: sight-jp-amano-iwato-shrine
+name: "Amano Iwato Shrine"
+location:
+  country_code: JP
+  latitude: 32.7340
+  longitude: 131.3500
+scores:
+  impact: 8.5
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 8.7
+  depth: 8.0
+  categories:
+    culture: 9.3
+    history: 8.8
+    nature: 8.6

@@ -1,0 +1,15 @@
+id: sight-jp-ohara-museum-of-art
+name: "Ohara Museum of Art"
+location:
+  country_code: JP
+  latitude: 34.5961
+  longitude: 133.7707
+scores:
+  impact: 8.3
+  uniqueness: 8.5
+  significance: 8.6
+  experience: 8.6
+  depth: 8.5
+  categories:
+    culture: 8.9
+    history: 8.7

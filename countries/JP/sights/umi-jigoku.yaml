@@ -1,0 +1,15 @@
+id: sight-jp-umi-jigoku
+name: "Umi Jigoku"
+location:
+  country_code: JP
+  latitude: 33.3160
+  longitude: 131.4690
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 7.3
+  experience: 8.7
+  depth: 7.3
+  categories:
+    nature: 9.0
+    photography: 9.2

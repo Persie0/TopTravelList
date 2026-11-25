@@ -1,0 +1,16 @@
+id: sight-jp-nyuto-onsen
+name: "Nyuto Onsen"
+location:
+  country_code: JP
+  latitude: 39.8030
+  longitude: 140.8000
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 7.6
+  experience: 9.0
+  depth: 8.1
+  categories:
+    relaxation: 9.4
+    nature: 8.9
+    culture: 8.6

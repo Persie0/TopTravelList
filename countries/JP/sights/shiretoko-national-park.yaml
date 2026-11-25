@@ -1,0 +1,16 @@
+id: sight-jp-shiretoko-national-park
+name: "Shiretoko National Park"
+location:
+  country_code: JP
+  latitude: 44.1040
+  longitude: 145.1840
+scores:
+  impact: 9.5
+  uniqueness: 9.5
+  significance: 9.4
+  experience: 9.1
+  depth: 9.4
+  categories:
+    nature: 9.7
+    wildlife: 9.6
+    adventure: 9.3

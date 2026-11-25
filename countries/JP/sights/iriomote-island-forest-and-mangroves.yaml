@@ -1,0 +1,16 @@
+id: sight-jp-iriomote-island-forest-and-mangroves
+name: "Iriomote Island Forest and Mangroves"
+location:
+  country_code: JP
+  latitude: 24.3290
+  longitude: 123.8180
+scores:
+  impact: 9.3
+  uniqueness: 9.4
+  significance: 9.3
+  experience: 9.1
+  depth: 9.4
+  categories:
+    nature: 9.7
+    wildlife: 9.5
+    adventure: 9.4

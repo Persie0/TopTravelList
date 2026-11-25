@@ -1,0 +1,16 @@
+id: sight-jp-dejima
+name: "Dejima"
+location:
+  country_code: JP
+  latitude: 32.7435
+  longitude: 129.8737
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 9.2
+  experience: 8.7
+  depth: 8.6
+  categories:
+    history: 9.4
+    culture: 9.0
+    architecture: 8.8

@@ -1,0 +1,16 @@
+id: sight-jp-dazaifu-tenmangu
+name: "Dazaifu Tenmangu"
+location:
+  country_code: JP
+  latitude: 33.5214
+  longitude: 130.5349
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 9.0
+  depth: 8.4
+  categories:
+    culture: 9.3
+    history: 9.2
+    architecture: 9.0

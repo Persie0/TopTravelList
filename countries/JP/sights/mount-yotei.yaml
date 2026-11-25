@@ -1,0 +1,16 @@
+id: sight-jp-mount-yotei
+name: "Mount Yotei"
+location:
+  country_code: JP
+  latitude: 42.8267
+  longitude: 140.8114
+scores:
+  impact: 8.9
+  uniqueness: 8.6
+  significance: 7.5
+  experience: 8.8
+  depth: 8.7
+  categories:
+    nature: 9.2
+    adventure: 9.1
+    photography: 9.4

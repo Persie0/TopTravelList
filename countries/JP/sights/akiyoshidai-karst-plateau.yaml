@@ -1,0 +1,16 @@
+id: sight-jp-akiyoshidai-karst-plateau
+name: "Akiyoshidai Karst Plateau"
+location:
+  country_code: JP
+  latitude: 34.2470
+  longitude: 131.3070
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 8.2
+  experience: 8.9
+  depth: 8.9
+  categories:
+    nature: 9.2
+    adventure: 8.9
+    photography: 9.1

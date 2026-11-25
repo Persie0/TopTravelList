@@ -1,0 +1,16 @@
+id: sight-jp-shimanto-river
+name: "Shimanto River"
+location:
+  country_code: JP
+  latitude: 33.2000
+  longitude: 132.9000
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 7.7
+  experience: 9.0
+  depth: 9.0
+  categories:
+    nature: 9.1
+    adventure: 8.9
+    relaxation: 9.0

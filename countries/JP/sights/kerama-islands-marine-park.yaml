@@ -1,0 +1,17 @@
+id: sight-jp-kerama-islands-marine-park
+name: "Kerama Islands Marine Park"
+location:
+  country_code: JP
+  latitude: 26.2000
+  longitude: 127.3000
+scores:
+  impact: 9.4
+  uniqueness: 9.2
+  significance: 8.7
+  experience: 9.5
+  depth: 9.3
+  categories:
+    nature: 9.6
+    wildlife: 9.3
+    adventure: 9.5
+    beaches: 9.4

@@ -1,0 +1,16 @@
+id: sight-jp-senganen-garden
+name: "Senganen Garden"
+location:
+  country_code: JP
+  latitude: 31.6181
+  longitude: 130.5779
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 8.9
+  experience: 9.0
+  depth: 8.7
+  categories:
+    history: 9.1
+    architecture: 9.0
+    photography: 9.4

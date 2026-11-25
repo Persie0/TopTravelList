@@ -1,0 +1,15 @@
+id: sight-jp-chichu-art-museum
+name: "Chichu Art Museum"
+location:
+  country_code: JP
+  latitude: 34.4525
+  longitude: 133.9868
+scores:
+  impact: 9.0
+  uniqueness: 9.5
+  significance: 8.0
+  experience: 9.2
+  depth: 8.2
+  categories:
+    architecture: 9.7
+    culture: 9.4

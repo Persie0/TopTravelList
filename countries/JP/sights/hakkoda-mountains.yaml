@@ -1,0 +1,15 @@
+id: sight-jp-hakkoda-mountains
+name: "Hakkoda Mountains"
+location:
+  country_code: JP
+  latitude: 40.6580
+  longitude: 140.8770
+scores:
+  impact: 8.8
+  uniqueness: 8.6
+  significance: 7.7
+  experience: 9.0
+  depth: 9.0
+  categories:
+    nature: 9.2
+    adventure: 9.3

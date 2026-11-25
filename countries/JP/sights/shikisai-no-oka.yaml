@@ -1,0 +1,15 @@
+id: sight-jp-shikisai-no-oka
+name: "Shikisai no Oka"
+location:
+  country_code: JP
+  latitude: 43.5410
+  longitude: 142.4655
+scores:
+  impact: 8.3
+  uniqueness: 8.0
+  significance: 6.4
+  experience: 8.7
+  depth: 7.7
+  categories:
+    photography: 9.1
+    relaxation: 8.8

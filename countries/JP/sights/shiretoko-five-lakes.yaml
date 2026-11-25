@@ -1,0 +1,16 @@
+id: sight-jp-shiretoko-five-lakes
+name: "Shiretoko Five Lakes"
+location:
+  country_code: JP
+  latitude: 44.1249
+  longitude: 145.0863
+scores:
+  impact: 9.0
+  uniqueness: 8.8
+  significance: 8.4
+  experience: 9.0
+  depth: 8.5
+  categories:
+    nature: 9.3
+    photography: 9.3
+    wildlife: 8.7

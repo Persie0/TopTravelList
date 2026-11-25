@@ -1,0 +1,16 @@
+id: sight-jp-jodogahama-beach
+name: "Jodogahama Beach"
+location:
+  country_code: JP
+  latitude: 39.6485
+  longitude: 141.9730
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 7.7
+  experience: 8.9
+  depth: 8.2
+  categories:
+    nature: 9.2
+    photography: 9.4
+    beaches: 8.5

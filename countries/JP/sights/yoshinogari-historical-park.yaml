@@ -1,0 +1,16 @@
+id: sight-jp-yoshinogari-historical-park
+name: "Yoshinogari Historical Park"
+location:
+  country_code: JP
+  latitude: 33.3240
+  longitude: 130.3880
+scores:
+  impact: 8.3
+  uniqueness: 8.8
+  significance: 9.1
+  experience: 8.7
+  depth: 9.0
+  categories:
+    history: 9.3
+    culture: 8.9
+    family: 8.6

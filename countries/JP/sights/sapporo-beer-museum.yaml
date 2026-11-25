@@ -1,0 +1,15 @@
+id: sight-jp-sapporo-beer-museum
+name: "Sapporo Beer Museum"
+location:
+  country_code: JP
+  latitude: 43.0716
+  longitude: 141.3683
+scores:
+  impact: 7.8
+  uniqueness: 8.1
+  significance: 7.8
+  experience: 8.3
+  depth: 7.5
+  categories:
+    history: 8.2
+    food: 8.5

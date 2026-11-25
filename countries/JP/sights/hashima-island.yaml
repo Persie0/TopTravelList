@@ -1,0 +1,15 @@
+id: sight-jp-hashima-island
+name: "Hashima Island"
+location:
+  country_code: JP
+  latitude: 32.6278
+  longitude: 129.7384
+scores:
+  impact: 8.9
+  uniqueness: 9.3
+  significance: 8.9
+  experience: 8.6
+  depth: 7.6
+  categories:
+    history: 9.1
+    photography: 9.3

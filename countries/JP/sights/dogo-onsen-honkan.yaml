@@ -1,0 +1,16 @@
+id: sight-jp-dogo-onsen-honkan
+name: "Dogo Onsen Honkan"
+location:
+  country_code: JP
+  latitude: 33.8521
+  longitude: 132.7866
+scores:
+  impact: 8.7
+  uniqueness: 9.1
+  significance: 8.7
+  experience: 9.0
+  depth: 7.7
+  categories:
+    architecture: 9.2
+    relaxation: 9.3
+    culture: 9.1

@@ -1,0 +1,15 @@
+id: sight-jp-kochi-castle
+name: "Kochi Castle"
+location:
+  country_code: JP
+  latitude: 33.5606
+  longitude: 133.5314
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.9
+  depth: 8.5
+  categories:
+    history: 9.2
+    architecture: 9.3

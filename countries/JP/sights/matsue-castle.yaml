@@ -1,0 +1,16 @@
+id: sight-jp-matsue-castle
+name: "Matsue Castle"
+location:
+  country_code: JP
+  latitude: 35.4751
+  longitude: 133.0508
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 9.1
+  experience: 8.9
+  depth: 8.5
+  categories:
+    architecture: 9.3
+    history: 9.3
+    photography: 9.0

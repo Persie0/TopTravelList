@@ -1,0 +1,16 @@
+id: sight-jp-kintaikyo-bridge
+name: "Kintaikyo Bridge"
+location:
+  country_code: JP
+  latitude: 34.1674
+  longitude: 132.1783
+scores:
+  impact: 8.8
+  uniqueness: 9.2
+  significance: 8.7
+  experience: 8.9
+  depth: 7.6
+  categories:
+    architecture: 9.4
+    photography: 9.3
+    history: 8.9

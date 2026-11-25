@@ -1,0 +1,15 @@
+id: sight-jp-sado-toki-forest-park
+name: "Sado Toki Forest Park"
+location:
+  country_code: JP
+  latitude: 38.0050
+  longitude: 138.4360
+scores:
+  impact: 7.7
+  uniqueness: 8.5
+  significance: 8.2
+  experience: 8.1
+  depth: 7.4
+  categories:
+    wildlife: 8.9
+    nature: 8.3

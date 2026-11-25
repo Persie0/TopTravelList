@@ -1,0 +1,16 @@
+id: sight-jp-ogasawara-islands
+name: "Ogasawara Islands"
+location:
+  country_code: JP
+  latitude: 27.0700
+  longitude: 142.2100
+scores:
+  impact: 9.5
+  uniqueness: 9.7
+  significance: 9.5
+  experience: 9.2
+  depth: 9.4
+  categories:
+    nature: 9.8
+    wildlife: 9.6
+    adventure: 9.4

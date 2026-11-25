@@ -1,0 +1,15 @@
+id: sight-jp-okayama-castle
+name: "Okayama Castle"
+location:
+  country_code: JP
+  latitude: 34.6650
+  longitude: 133.9363
+scores:
+  impact: 8.2
+  uniqueness: 8.3
+  significance: 8.6
+  experience: 8.5
+  depth: 8.1
+  categories:
+    history: 8.9
+    architecture: 8.6

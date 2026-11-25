@@ -1,0 +1,16 @@
+id: sight-jp-taketomi-village
+name: "Taketomi Village"
+location:
+  country_code: JP
+  latitude: 24.3260
+  longitude: 124.0870
+scores:
+  impact: 8.7
+  uniqueness: 9.0
+  significance: 8.5
+  experience: 8.9
+  depth: 8.1
+  categories:
+    architecture: 9.2
+    culture: 9.2
+    photography: 9.2

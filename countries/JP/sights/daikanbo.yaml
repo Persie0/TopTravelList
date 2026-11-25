@@ -1,0 +1,15 @@
+id: sight-jp-daikanbo
+name: "Daikanbo"
+location:
+  country_code: JP
+  latitude: 32.9930
+  longitude: 131.0650
+scores:
+  impact: 8.8
+  uniqueness: 8.6
+  significance: 7.4
+  experience: 8.8
+  depth: 7.2
+  categories:
+    nature: 9.2
+    photography: 9.4

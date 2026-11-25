@@ -1,0 +1,16 @@
+id: sight-jp-chusonji-temple-hiraizumi
+name: "Chusonji Temple Hiraizumi"
+location:
+  country_code: JP
+  latitude: 39.0017
+  longitude: 141.1007
+scores:
+  impact: 9.1
+  uniqueness: 9.3
+  significance: 9.5
+  experience: 9.0
+  depth: 8.7
+  categories:
+    architecture: 9.5
+    history: 9.6
+    culture: 9.5

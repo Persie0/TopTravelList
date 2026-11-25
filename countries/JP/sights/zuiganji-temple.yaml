@@ -1,0 +1,16 @@
+id: sight-jp-zuiganji-temple
+name: "Zuiganji Temple"
+location:
+  country_code: JP
+  latitude: 38.3733
+  longitude: 141.0597
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.9
+  depth: 8.4
+  categories:
+    architecture: 9.3
+    history: 9.2
+    culture: 9.1

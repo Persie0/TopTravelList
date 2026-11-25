@@ -1,0 +1,16 @@
+id: sight-jp-matsushima-bay
+name: "Matsushima Bay"
+location:
+  country_code: JP
+  latitude: 38.3600
+  longitude: 141.0700
+scores:
+  impact: 9.0
+  uniqueness: 9.1
+  significance: 8.5
+  experience: 9.1
+  depth: 8.9
+  categories:
+    nature: 9.3
+    photography: 9.4
+    culture: 8.8

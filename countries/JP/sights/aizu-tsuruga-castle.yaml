@@ -1,0 +1,16 @@
+id: sight-jp-aizu-tsuruga-castle
+name: "Aizu Tsuruga Castle"
+location:
+  country_code: JP
+  latitude: 37.4879
+  longitude: 139.9297
+scores:
+  impact: 8.5
+  uniqueness: 8.4
+  significance: 8.8
+  experience: 8.7
+  depth: 8.5
+  categories:
+    history: 9.1
+    architecture: 8.7
+    photography: 8.9

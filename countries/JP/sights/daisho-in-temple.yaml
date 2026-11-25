@@ -1,0 +1,16 @@
+id: sight-jp-daisho-in-temple
+name: "Daisho-in Temple"
+location:
+  country_code: JP
+  latitude: 34.2902
+  longitude: 132.3188
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 8.8
+  experience: 9.0
+  depth: 8.6
+  categories:
+    culture: 9.3
+    architecture: 9.0
+    photography: 9.1

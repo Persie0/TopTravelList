@@ -1,0 +1,16 @@
+id: sight-jp-pinaisara-falls
+name: "Pinaisara Falls"
+location:
+  country_code: JP
+  latitude: 24.3900
+  longitude: 123.8300
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 7.9
+  experience: 9.1
+  depth: 8.5
+  categories:
+    nature: 9.4
+    adventure: 9.2
+    photography: 9.2

@@ -1,0 +1,16 @@
+id: sight-jp-kumamoto-castle
+name: "Kumamoto Castle"
+location:
+  country_code: JP
+  latitude: 32.8062
+  longitude: 130.7058
+scores:
+  impact: 9.1
+  uniqueness: 9.1
+  significance: 9.3
+  experience: 9.0
+  depth: 8.8
+  categories:
+    history: 9.4
+    architecture: 9.4
+    photography: 9.2

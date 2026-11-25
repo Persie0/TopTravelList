@@ -1,0 +1,15 @@
+id: sight-jp-hiroshima-peace-memorial-museum
+name: "Hiroshima Peace Memorial Museum"
+location:
+  country_code: JP
+  latitude: 34.3917
+  longitude: 132.4535
+scores:
+  impact: 9.3
+  uniqueness: 9.6
+  significance: 9.8
+  experience: 9.4
+  depth: 9.0
+  categories:
+    history: 9.9
+    culture: 9.5

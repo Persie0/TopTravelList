@@ -1,0 +1,16 @@
+id: sight-jp-tottori-sand-museum
+name: "Tottori Sand Museum"
+location:
+  country_code: JP
+  latitude: 35.5391
+  longitude: 134.2336
+scores:
+  impact: 8.3
+  uniqueness: 8.7
+  significance: 6.8
+  experience: 8.7
+  depth: 7.8
+  categories:
+    culture: 8.8
+    family: 8.6
+    photography: 8.7

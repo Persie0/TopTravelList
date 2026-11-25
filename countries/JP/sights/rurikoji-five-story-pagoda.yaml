@@ -1,0 +1,16 @@
+id: sight-jp-rurikoji-five-story-pagoda
+name: "Rurikoji Five Story Pagoda"
+location:
+  country_code: JP
+  latitude: 34.1901
+  longitude: 131.4775
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 8.9
+  experience: 8.6
+  depth: 7.4
+  categories:
+    architecture: 9.3
+    photography: 9.2
+    history: 9.0

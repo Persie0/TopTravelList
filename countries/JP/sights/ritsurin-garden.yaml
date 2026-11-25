@@ -1,0 +1,16 @@
+id: sight-jp-ritsurin-garden
+name: "Ritsurin Garden"
+location:
+  country_code: JP
+  latitude: 34.3303
+  longitude: 134.0434
+scores:
+  impact: 9.1
+  uniqueness: 9.2
+  significance: 8.8
+  experience: 9.3
+  depth: 9.0
+  categories:
+    relaxation: 9.5
+    photography: 9.4
+    culture: 9.2

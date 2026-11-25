@@ -1,0 +1,15 @@
+id: sight-jp-nagasaki-atomic-bomb-museum
+name: "Nagasaki Atomic Bomb Museum"
+location:
+  country_code: JP
+  latitude: 32.7723
+  longitude: 129.8652
+scores:
+  impact: 9.0
+  uniqueness: 9.3
+  significance: 9.7
+  experience: 9.2
+  depth: 8.6
+  categories:
+    history: 9.8
+    culture: 9.4

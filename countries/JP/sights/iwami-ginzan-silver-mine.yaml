@@ -1,0 +1,15 @@
+id: sight-jp-iwami-ginzan-silver-mine
+name: "Iwami Ginzan Silver Mine"
+location:
+  country_code: JP
+  latitude: 35.1120
+  longitude: 132.4370
+scores:
+  impact: 8.5
+  uniqueness: 9.0
+  significance: 9.3
+  experience: 8.6
+  depth: 9.1
+  categories:
+    history: 9.5
+    culture: 8.9

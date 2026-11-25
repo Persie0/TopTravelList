@@ -1,0 +1,16 @@
+id: sight-jp-shuri-castle
+name: "Shuri Castle"
+location:
+  country_code: JP
+  latitude: 26.2170
+  longitude: 127.7190
+scores:
+  impact: 8.7
+  uniqueness: 9.1
+  significance: 9.4
+  experience: 8.4
+  depth: 8.6
+  categories:
+    history: 9.5
+    architecture: 9.2
+    culture: 9.4
