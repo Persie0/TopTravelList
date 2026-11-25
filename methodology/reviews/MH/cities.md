@@ -453,3 +453,40 @@
 - Final decision: provisional worldwide assessment based on documented local experiences, not complete factual verification.
 - Earlier decision: earlier entry for this ID, originally unranked.
 - Verification still needed: Only the named village and immediately adjacent permitted heritage walks; exclude other villages, remote beaches and the entire atoll. Do not infer access to derelict structures; confirm current local guidance.
+
+
+### city-mh-arno — Arno Village — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/MH/cities/arno.yaml)
+- Action: rescore
+- Precise subject: Settlement itself, local village walks, hosted food and craft experiences; exclude the separate Arno Atoll reef and beaches.
+- Location check: retain previous approximate representative coordinates; independent point verification incomplete.
+- Evidence status: source-linked-unverified
+- Factual references consulted (2026-11-25):
+  - Marshall Islands Pocket Guide documents Arno Village back-road walk, local shops, pier, and locally hosted cooking and weaving activity at Arno Beachcomber — https://marshallislandspocketguide.com/best-things-to-do-on-arno (page inspected).
+  - Pacific Tourism Organisation announcement of OCIT-supported bookable experiences across Arno, Majuro and Wotje — https://southpacificislands.travel/marshall-islands-takes-major-step-forward-in-tourism-accessibility-with-over-20-experiences-now-bookable-online/ (indexed excerpt; atoll-level context only).
+  - RMI national adaptation plan identifies Arno village and its dock, local subsistence and handicraft trade — https://rmi-data.sprep.org/system/files/NAP%20Summary%20Report%20Arno%20May%202023.pdf (indexed excerpt only).
+- Missing or uncertain facts: Primary visitor detail largely from one travel guide; current permissions and precise village coordinate unverified.
+
+#### Worldwide peer comparisons
+- Kampot (Cambodia), 7.6/7.9/7.5/8.3/7.9: much greater built heritage and dining breadth.
+- Rach Gia (Vietnam), 7.2/7.5/7.3/7.8/7.9: larger coastal city with more independent urban attractions.
+- Kuala Perlis (Malaysia), 6.5/6.8/6.5/7.2/6.7: comparable modest waterfront settlement.
+- Laura Village (Marshall Islands), 6.7/7.4/6.2/6.7/5.8: similar village scale with less documented hosted cultural variety.
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | null | 6.8 | Pleasant low coral-island village and waterfront setting, not exceptional architecture. |
+| Uniqueness | null | 7.2 | Distinctive Marshallese village culture and hosted food/craft tradition. |
+| Significance | null | 6.4 | Local settlement and economic role without evidence of globally important specific heritage. |
+| Experience | null | 7.4 | Documented hosted culinary and village walks provide a focused rewarding visit. |
+| Depth | null | 6.5 | Several localized activities, not the entire atoll's excursions. |
+
+- Applicable category scores: culture 7.5, food 7.4, relaxation 7.4; provisional.
+- Computed worldwide overall: 68.80/100
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: complete provisional v2 profile; actual branch YAML peers consulted.
+- Earlier decision: prior incomplete entry for this ID.
+- Verification still needed: Primary visitor detail largely from one travel guide; current permissions and precise village coordinate unverified. Canonical validation outstanding.

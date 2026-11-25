@@ -824,3 +824,159 @@
 - Final decision: provisional worldwide ranking for documented visitor scope, not independent factual verification.
 - Earlier decision: earlier entry for this ID, originally unranked.
 - Verification still needed: Retain 9.6 significance because of rare direct material evidence of the nuclear age and enduring displacement, not because of weapon spectacle. Specialist permitted visits only. No radiological safety or admission guarantee; current local permissions and professional advice essential. No unrestricted land visit credit.
+
+
+### sight-mh-jaluit-atoll-conservation-area — Jaluit Atoll Conservation Area — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/MH/sights/jaluit-atoll-conservation-area.yaml)
+- Action: rescore
+- Precise subject: Whole atoll conservation area as described in original Ramsar submission, rated only for documented consent-based expedition visits, lagoon setting and coastal heritage, not unrestricted protected-zone exploration.
+- Location check: retain previous approximate representative coordinates; independent point verification incomplete.
+- Evidence status: source-linked-unverified
+- Factual references consulted (2026-11-25):
+  - Ramsar information sheet indexed excerpt explicitly describes conservation area as encompassing entire atoll — https://rsis.ramsar.org/RISapp/files/RISrep/MH1389RIS.pdf (excerpt only).
+  - Peer-reviewed mangrove assessment describes inland mangrove habitats and atoll extent — https://pmc.ncbi.nlm.nih.gov/articles/PMC9091136/ (indexed excerpt).
+  - Marshall Islands Pocket Guide describes guided shore excursions, community visits and historical interpretation — https://marshallislandspocketguide.com/the-guide-to-the-ports-of-call-in-the-marshall-islands (page inspected).
+  - Hapag-Lloyd Cruises documents a past guided bicycle and cultural visit on Jaluit — https://www.hl-cruises.de/blog/expedition-im-pazifik-mit-ms-bremen-zu-den-marshallinseln-8594 (indexed excerpt).
+- Missing or uncertain facts: Ramsar online site returned HTTP 502; original submission available as indexed excerpt. Current legal boundary, specific permissions, visitor dates and precise coordinate need corroboration.
+
+#### Worldwide peer comparisons
+- Sipadan Island Reefs (Malaysia), 9.5/9.6/9.1/9.5/8.9: exceptional documented reef encounters, not transferable to closed research sites.
+- Ang Thong National Marine Park (Thailand), 9.0/9.0/8.6/9.1/8.9: more varied limestone scenery and visitor routes.
+- Cham Islands (Vietnam), 8.8/9.0/8.4/9.0/8.7: comparable island ecology and different cultural context.
+- Perhentian Islands (Malaysia), 9.0/8.8/7.7/9.2/8.9: stronger established recreational breadth, different conservation significance.
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | 8.1 | 8.1 | Retain prior scenery rating for lagoon, low coral islets and mangrove setting. |
+| Uniqueness | 8.3 | 8.3 | Retain prior distinctiveness of atoll habitat and historical-cultural context. |
+| Significance | 8.7 | 8.7 | Retain prior ecological significance; Ramsar wetland status is not UNESCO inscription. |
+| Experience | null | 8.0 | Documented expedition-based community and historical interpretation, without assuming reef access everywhere. |
+| Depth | null | 8.0 | Multiple coastal landscapes and heritage contexts support depth, but no unverified dive network or broad access credited. |
+
+- Applicable category scores: prior categories retained; provisional.
+- Computed worldwide overall: 82.45/100
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: complete provisional v2 profile; actual branch YAML peers consulted.
+- Earlier decision: prior incomplete entry for this ID.
+- Verification still needed: Ramsar online site returned HTTP 502; original submission available as indexed excerpt. Current legal boundary, specific permissions, visitor dates and precise coordinate need corroboration. Canonical validation outstanding.
+
+
+### sight-mh-majuro-bridge — Majuro Bridge — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/MH/sights/majuro-bridge.yaml)
+- Action: rescore
+- Precise subject: Bridge and lawful roadside viewpoint only, not surrounding lagoon excursions.
+- Location check: retain previous approximate representative coordinates; independent point verification incomplete.
+- Evidence status: source-linked-unverified
+- Factual references consulted (2026-11-25):
+  - Local travel guide describes bridge crossing and views over both waters — https://marshallislandspocketguide.com/101-best-things-to-do-in-the-marshall-islands-the-ultimate-list (indexed excerpt).
+  - Blue Horizon Travel lists bridge as short sunset-view stop — https://bluehorizonhospitality.com/explore (indexed excerpt).
+  - Historical Honolulu Star-Bulletin travel account independently confirms bridge across a manmade pass — https://archives.starbulletin.com/2001/06/24/travel/story1.html (indexed excerpt).
+- Missing or uncertain facts: Source detail from indexed excerpts, exact bridge point and lawful pedestrian viewing conditions unverified.
+
+#### Worldwide peer comparisons
+- Highline179 Suspension Bridge (Austria), 8.0/8.3/6.5/8.4/5.8: much more dramatic engineered scenic crossing.
+- Kon Klor Suspension Bridge (Vietnam), 8.0/8.5/7.5/8.4/6.8: stronger structure and scenic context.
+- Bridge over the River Kwai (Thailand), 8.5/9.1/9.5/8.6/7.0: vastly greater history and distinctiveness.
+- Koh Pen Seasonal Bamboo Bridge (Cambodia), 8.2/8.8/7.8/8.8/7.2: unusual traditional construction and richer crossing experience.
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | 5.9 | 5.9 | Retain modest visual impact: small utilitarian crossing with water views. |
+| Uniqueness | 6.4 | 6.4 | Retain distinctive low-atoll context, not engineering rarity. |
+| Significance | 6.2 | 6.2 | Retain local transport importance, not major worldwide heritage. |
+| Experience | null | 6.3 | Short documented viewpoint stop, no exceptional activities assumed. |
+| Depth | null | 4.6 | Single brief sight; no unrelated water activities or hazardous bridge jumping credited. |
+
+- Applicable category scores: prior categories retained; provisional.
+- Computed worldwide overall: 60.15/100
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: complete provisional v2 profile; actual branch YAML peers consulted.
+- Earlier decision: prior incomplete entry for this ID.
+- Verification still needed: Source detail from indexed excerpts, exact bridge point and lawful pedestrian viewing conditions unverified. Canonical validation outstanding.
+
+
+### sight-mh-bikar-atoll — Bikar Atoll — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/MH/sights/bikar-atoll.yaml)
+- Action: rescore
+- Precise subject: Bikar atoll only, not the entire joint national marine sanctuary.
+- Location check: retain previous approximate representative coordinates; independent point verification incomplete.
+- Evidence status: unassessed
+- Factual references consulted (2026-11-25):
+  - UNESCO tentative submission describes arid atoll ecology — https://whc.unesco.org/en/tentativelists/2064/ (page inspected).
+  - Government January 2025 sanctuary announcement — https://rmigov.com/?p=1883 (page inspected).
+  - 2026 Friedlander et al. study reports concentrated turtle nesting and intact marine/terrestrial habitat — https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1957660/full (page inspected).
+  - High Level Sustainable Tourism Policy and Development Strategy 2025–2030 p. 41 explicitly lists no authorized visitor access — https://fliphtml5.com/rjssc/onfe/PSDI2503-02b_RMI_SustainableTourism_proof26Jun_(2)/41/ (page inspected).
+- Missing or uncertain facts: Not a visit recommendation. Prior coordinate broadly consistent with study center; exact representative point still approximate.
+
+#### Worldwide peer comparisons
+- Sipadan Island Reefs (Malaysia), 9.5/9.6/9.1/9.5/8.9: exceptional documented reef encounters, not transferable to closed research sites.
+- Ang Thong National Marine Park (Thailand), 9.0/9.0/8.6/9.1/8.9: more varied limestone scenery and visitor routes.
+- Cham Islands (Vietnam), 8.8/9.0/8.4/9.0/8.7: comparable island ecology and different cultural context.
+- Perhentian Islands (Malaysia), 9.0/8.8/7.7/9.2/8.9: stronger established recreational breadth, different conservation significance.
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | null | null | Normal visitor-visible impact cannot be assessed from scientific surveys alone. |
+| Uniqueness | null | 9.3 | Rare arid atoll ecosystem with documented distinctive reef assemblages and nesting habitat. |
+| Significance | null | 9.3 | Exceptional intact conservation reference system and documented turtle nesting significance, without transferring entire sanctuary value. |
+| Experience | null | null | Tourism strategy states no authorized visitor access; no recreational rating. |
+| Depth | null | null | Scientific expedition scope is not normal visitor depth. |
+
+- Applicable category scores: nature 9.3, wildlife 9.3; provisional.
+- Computed worldwide overall: unranked
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: retain incomplete visitor profile; assign supported intrinsic fields only.
+- Earlier decision: prior incomplete entry for this ID.
+- Verification still needed: Not a visit recommendation. Prior coordinate broadly consistent with study center; exact representative point still approximate. Canonical validation outstanding.
+
+
+### sight-mh-bokak-atoll — Bokak Atoll — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/MH/sights/bokak-atoll.yaml)
+- Action: rescore
+- Precise subject: Bokak atoll only, not entire joint sanctuary.
+- Location check: retain previous approximate representative coordinates; independent point verification incomplete.
+- Evidence status: unassessed
+- Factual references consulted (2026-11-25):
+  - UNESCO tentative description identifies rare dry atoll conditions and bird habitats — https://whc.unesco.org/en/tentativelists/2064/ (page inspected).
+  - Government January 2025 sanctuary designation — https://rmigov.com/?p=1883 (page inspected).
+  - 2026 Friedlander et al. study finds coral-dominated reef communities at Bokak and rare intact terrestrial features; no claim that it shares Bikar's turtle nesting abundance — https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1957660/full (page inspected).
+  - 2025–2030 tourism strategy p. 41 explicitly states no authorized visitor access — https://fliphtml5.com/rjssc/onfe/PSDI2503-02b_RMI_SustainableTourism_proof26Jun_(2)/41/ (page inspected).
+- Missing or uncertain facts: Not a visit recommendation. Existing UNESCO representative point differs from approximate scientific study center; retain official tentative point as proxy pending coordinate review.
+
+#### Worldwide peer comparisons
+- Sipadan Island Reefs (Malaysia), 9.5/9.6/9.1/9.5/8.9: exceptional documented reef encounters, not transferable to closed research sites.
+- Ang Thong National Marine Park (Thailand), 9.0/9.0/8.6/9.1/8.9: more varied limestone scenery and visitor routes.
+- Cham Islands (Vietnam), 8.8/9.0/8.4/9.0/8.7: comparable island ecology and different cultural context.
+- Perhentian Islands (Malaysia), 9.0/8.8/7.7/9.2/8.9: stronger established recreational breadth, different conservation significance.
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | null | null | Research imagery cannot establish ordinary visitor impact. |
+| Uniqueness | null | 9.3 | Rare arid coral-atoll conditions and coral-dominated reef reference ecosystem. |
+| Significance | null | 9.3 | Exceptional ecological integrity and regional bird habitat significance. |
+| Experience | null | null | No authorized visitor access according to tourism strategy. |
+| Depth | null | null | Research expeditions cannot establish recreational breadth. |
+
+- Applicable category scores: nature 9.3, wildlife 9.2; provisional.
+- Computed worldwide overall: unranked
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: retain incomplete visitor profile; assign supported intrinsic fields only.
+- Earlier decision: prior incomplete entry for this ID.
+- Verification still needed: Not a visit recommendation. Existing UNESCO representative point differs from approximate scientific study center; retain official tentative point as proxy pending coordinate review. Canonical validation outstanding.
+
+
+## 2026-11-25 — northern atoll aggregate follow-up
+
+The 2025–2030 sustainable tourism strategy (p. 41, https://fliphtml5.com/rjssc/onfe/PSDI2503-02b_RMI_SustainableTourism_proof26Jun_(2)/41/) identifies Bikar and Bokak as closed to authorized visitors and other listed uninhabited atolls without routine services. This supports maintaining the Northern Marshall Islands Atolls aggregate visitor fields as null. UNESCO's tentative submission https://whc.unesco.org/en/tentativelists/2064/ lists seven named coordinate entries but describes seven atolls plus one island; do not invent an eighth name. Individual other components require further assessment. No aggregate YAML changes.

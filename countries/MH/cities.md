@@ -2,7 +2,7 @@
 
 # Marshall Islands (MH) — Cities, towns & villages ranking
 
-**5 ranked** · **6 unassessed** · **11 total** · Worldwide scoring **v2**
+**6 ranked** · **5 unassessed** · **11 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (5)
+## Complete ranked list (6)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -18,15 +18,15 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 2 | [Majuro (Delap-Uliga-Djarrit)](cities/majuro.yaml) | City / town | **71.80** | **Culture 7.8**, **History 7.2** | 6.5 / 7.9 / 7.5 / 7.1 / 6.9 | [7.087, 171.377](https://www.google.com/maps/search/?api=1&query=7.087,171.377) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Majuro%20%28Delap-Uliga-Djarrit%29%2C%20Marshall%20Islands) |
 | 3 | [Wotje Village](cities/wotje.yaml) | Village | **71.55** | — | 6.8 / 7.4 / 7.6 / 7.1 / 6.8 | [9.454, 170.237](https://www.google.com/maps/search/?api=1&query=9.454,170.237) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Wotje%20Village%2C%20Marshall%20Islands) |
 | 4 | [Jabor Village (Jabwor)](cities/jabor.yaml) | Village | **70.25** | — | 6.7 / 7.3 / 7.6 / 6.8 / 6.5 | [5.921, 169.643](https://www.google.com/maps/search/?api=1&query=5.921,169.643) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Jabor%20Village%20%28Jabwor%29%2C%20Marshall%20Islands) |
-| 5 | [Laura Village](cities/laura.yaml) | Village | **66.85** | **Photography 7.1**, **Culture 6.8** | 6.7 / 7.4 / 6.2 / 6.7 / 5.8 | [7.14654, 171.03704](https://www.google.com/maps/search/?api=1&query=7.14654,171.03704) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Laura%20Village%2C%20Marshall%20Islands) |
+| 5 | [Arno Village](cities/arno.yaml) | Village | **68.80** | **Culture 7.5**, **Food 7.4**, **Relaxation 7.4** | 6.8 / 7.2 / 6.4 / 7.4 / 6.5 | [7.067, 171.554](https://www.google.com/maps/search/?api=1&query=7.067,171.554) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Arno%20Village%2C%20Marshall%20Islands) |
+| 6 | [Laura Village](cities/laura.yaml) | Village | **66.85** | **Photography 7.1**, **Culture 6.8** | 6.7 / 7.4 / 6.2 / 6.7 / 5.8 | [7.14654, 171.03704](https://www.google.com/maps/search/?api=1&query=7.14654,171.03704) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Laura%20Village%2C%20Marshall%20Islands) |
 
-## Not yet fully assessed (6)
+## Not yet fully assessed (5)
 
 These destinations have no rank until all five core scores are assessed.
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
-| — | [Arno Village](cities/arno.yaml) | Village | **—** | — | — / — / — / — / — | [7.067, 171.554](https://www.google.com/maps/search/?api=1&query=7.067,171.554) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Arno%20Village%2C%20Marshall%20Islands) |
 | — | [Ebeye](cities/ebeye.yaml) | City / town | **—** | — | — / — / — / — / — | [8.775, 167.739](https://www.google.com/maps/search/?api=1&query=8.775,167.739) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ebeye%2C%20Marshall%20Islands) |
 | — | [Ebon Village](cities/ebon.yaml) | Village | **—** | — | — / — / — / — / — | [4.582, 168.696](https://www.google.com/maps/search/?api=1&query=4.582,168.696) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ebon%20Village%2C%20Marshall%20Islands) |
 | — | [Kili Village](cities/kili.yaml) | Village | **—** | — | — / — / — / — / — | [5.644, 169.121](https://www.google.com/maps/search/?api=1&query=5.644,169.121) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kili%20Village%2C%20Marshall%20Islands) |
