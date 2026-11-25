@@ -16,6 +16,15 @@
 - Longyearbyen (SJ): more extensive visitor facilities
 - Saül (GF): similarly small remote settlement
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from territory branch YAML; editorial comparisons, not independent factual verification.
+
+- [Stanley (FK)](../../../countries/FK/cities/stanley.yaml) — 8.0/8.6/8.4/8.3/8.0; more extensive maritime town and public facilities.
+- [Jamestown (SH)](../../../countries/SH/cities/jamestown.yaml) — 8.5/8.8/8.6/8.3/7.9; stronger historic built fabric and valley townscape.
+- [Burnt Pine (NF)](../../../countries/NF/cities/burnt-pine.yaml) — 6.9/7.7/7.4/7.7/7.0; comparable small Pacific island settlement, less exceptional isolation.
+- [Koh Ker Village (KH)](../../../countries/KH/cities/koh-ker-village.yaml) — 7.2/8.0/8.3/7.8/6.9; comparable village-scale heritage scope, separate monuments excluded.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
