@@ -775,3 +775,37 @@
 - Earlier decision: none.
 - Verification still needed: Tentative not inscribed; check current visitor offering.
 
+### sight-nz-subantarctic-islands — New Zealand Sub-Antarctic Islands — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/NZ/sights/subantarctic-islands.yaml)
+- Action: rescore
+- Precise subject: 9.5 significance and wildlife reflect globally significant isolated ecosystems. Approved landing sites only, no unrestricted access or guaranteed departure.
+- Location check: existing representative point retained; independent corroboration pending.
+- Evidence status: source-linked-unverified
+- Checked factual reference excerpts (2026-11-25):
+  - DOC states tourist landings require permits and operators require concessions — https://www.doc.govt.nz/parks-and-recreation/places-to-go/southland/places/subantarctic-islands/visiting-the-subantarctic-islands/
+  - DOC describes guided day walks at approved sites — https://www.doc.govt.nz/parks-and-recreation/places-to-go/southland/places/subantarctic-islands/
+- Missing or uncertain facts: 9.5 significance and wildlife reflect globally significant isolated ecosystems. Approved landing sites only, no unrestricted access or guaranteed departure.
+
+#### Worldwide peer comparisons
+- Galapagos (Ecuador): greater iconic visitor breadth
+- Macquarie Island (Australia): related more compact subantarctic landscape
+- South Georgia (UK): similarly extraordinary wildlife concentrations
+- Lord Howe Island (Australia): more conventional island tourism
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | 8.8 | 8.8 | Dramatic isolated island coasts |
+| Uniqueness | 9.4 | 9.4 | Unusual endemic biota and island systems |
+| Significance | 9.5 | 9.5 | Globally important seabird habitats and conservation |
+| Experience | null | 8.7 | Regulated expedition walks and offshore views |
+| Depth | null | 8.5 | Multiple island landscapes on permitted routes |
+
+- Applicable category scores: nature: 9.4, wildlife: 9.5 (unchanged).
+- Computed worldwide overall: 90.45/100
+- High-score challenge: 9.5 significance and wildlife reflect globally significant isolated ecosystems. Approved landing sites only, no unrestricted access or guaranteed departure. Existing high ratings retained, not inflated because of access.
+- Approved 10 registry: none.
+- Final decision: provisional worldwide ranking on documented visitor scope; not independently verified.
+- Earlier decision: earlier entry for this ID, unranked.
+- Verification still needed: 9.5 significance and wildlife reflect globally significant isolated ecosystems. Approved landing sites only, no unrestricted access or guaranteed departure.
