@@ -1,0 +1,15 @@
+id: sight-mg-haute-ville-antananarivo
+name: "Haute Ville of Antananarivo"
+location:
+  country_code: MG
+  latitude: -18.922222
+  longitude: 47.532778
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 9.1
+  experience: 8.5
+  depth: 8.7
+  categories:
+    architecture: 9.0
+    history: 9.2

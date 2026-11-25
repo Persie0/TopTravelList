@@ -1,0 +1,15 @@
+id: city-mg-antsirabe
+name: "Antsirabe"
+location:
+  country_code: MG
+  latitude: -19.866
+  longitude: 47.033
+scores:
+  impact: 7.8
+  uniqueness: 8.1
+  significance: 7.8
+  experience: 8.1
+  depth: 7.7
+  categories:
+    architecture: 8.3
+    culture: 8.4

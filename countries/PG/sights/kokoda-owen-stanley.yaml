@@ -1,0 +1,15 @@
+id: sight-pg-kokoda-owen-stanley
+name: "Kokoda Track and Owen Stanley Ranges"
+location:
+  country_code: PG
+  latitude: -9.38
+  longitude: 148.4
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    nature: 9.1
+    history: 9.1
