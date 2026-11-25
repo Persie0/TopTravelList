@@ -1,0 +1,15 @@
+id: sight-rs-lepenski-vir
+name: "Lepenski Vir archaeological site and museum"
+location:
+  country_code: RS
+  latitude: 44.56
+  longitude: 22.027
+scores:
+  impact: 8.5
+  uniqueness: 9.2
+  significance: 9.4
+  experience: 8.7
+  depth: 8.1
+  categories:
+    history: 9.5
+    culture: 9.1

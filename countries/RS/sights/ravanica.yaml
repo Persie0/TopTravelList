@@ -1,0 +1,16 @@
+id: sight-rs-ravanica
+name: "Ravanica Monastery"
+location:
+  country_code: RS
+  latitude: 43.965
+  longitude: 21.496
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 8.6
+  depth: 8.0
+  categories:
+    architecture: 9.2
+    history: 9.2
+    culture: 9.0

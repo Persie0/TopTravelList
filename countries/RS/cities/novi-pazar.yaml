@@ -1,0 +1,16 @@
+id: city-rs-novi-pazar
+name: "Novi Pazar"
+location:
+  country_code: RS
+  latitude: 43.137
+  longitude: 20.514
+scores:
+  impact: 8.1
+  uniqueness: 8.6
+  significance: 8.6
+  experience: 8.4
+  depth: 8.2
+  categories:
+    culture: 9.0
+    history: 8.9
+    food: 8.8

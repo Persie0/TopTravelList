@@ -1,0 +1,16 @@
+id: sight-rs-palic-lake
+name: "Palić Lake and historic resort park"
+location:
+  country_code: RS
+  latitude: 46.094
+  longitude: 19.756
+scores:
+  impact: 8.4
+  uniqueness: 8.4
+  significance: 8.3
+  experience: 8.7
+  depth: 8.5
+  categories:
+    relaxation: 9.0
+    architecture: 8.9
+    nature: 8.8

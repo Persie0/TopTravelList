@@ -1,0 +1,15 @@
+id: sight-rs-stari-ras
+name: "Stari Ras fortress ruins"
+location:
+  country_code: RS
+  latitude: 43.122
+  longitude: 20.403
+scores:
+  impact: 8.2
+  uniqueness: 8.5
+  significance: 9.0
+  experience: 8.1
+  depth: 7.7
+  categories:
+    history: 9.2
+    photography: 8.7

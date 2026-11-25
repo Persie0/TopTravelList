@@ -1,0 +1,15 @@
+id: city-rs-sremska-mitrovica
+name: "Sremska Mitrovica"
+location:
+  country_code: RS
+  latitude: 44.979
+  longitude: 19.612
+scores:
+  impact: 7.9
+  uniqueness: 8.2
+  significance: 8.7
+  experience: 8.2
+  depth: 8.1
+  categories:
+    history: 9.2
+    culture: 8.5

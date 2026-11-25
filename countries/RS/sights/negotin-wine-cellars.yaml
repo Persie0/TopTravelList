@@ -1,0 +1,16 @@
+id: sight-rs-negotin-wine-cellars
+name: "Negotinske Pivnice wine cellar villages"
+location:
+  country_code: RS
+  latitude: 44.06
+  longitude: 22.55
+scores:
+  impact: 8.4
+  uniqueness: 8.9
+  significance: 8.7
+  experience: 8.6
+  depth: 8.5
+  categories:
+    architecture: 9.0
+    culture: 9.1
+    food: 8.9

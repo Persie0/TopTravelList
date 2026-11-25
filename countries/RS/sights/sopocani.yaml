@@ -1,0 +1,16 @@
+id: sight-rs-sopocani
+name: "Sopoćani Monastery"
+location:
+  country_code: RS
+  latitude: 43.118
+  longitude: 20.373
+scores:
+  impact: 8.8
+  uniqueness: 9.1
+  significance: 9.3
+  experience: 8.7
+  depth: 8.0
+  categories:
+    architecture: 9.2
+    culture: 9.4
+    history: 9.3

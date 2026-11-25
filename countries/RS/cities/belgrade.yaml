@@ -1,0 +1,17 @@
+id: city-rs-belgrade
+name: "Belgrade"
+location:
+  country_code: RS
+  latitude: 44.8176
+  longitude: 20.4633
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 9.0
+  experience: 9.1
+  depth: 9.2
+  categories:
+    history: 9.2
+    culture: 9.2
+    nightlife: 9.2
+    architecture: 8.9

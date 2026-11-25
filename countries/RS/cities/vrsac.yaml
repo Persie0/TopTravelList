@@ -1,0 +1,16 @@
+id: city-rs-vrsac
+name: "Vršac"
+location:
+  country_code: RS
+  latitude: 45.117
+  longitude: 21.299
+scores:
+  impact: 8.3
+  uniqueness: 8.3
+  significance: 8.2
+  experience: 8.4
+  depth: 7.9
+  categories:
+    architecture: 8.8
+    history: 8.6
+    food: 8.7

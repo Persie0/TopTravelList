@@ -1,0 +1,16 @@
+id: city-rs-sremski-karlovci
+name: "Sremski Karlovci"
+location:
+  country_code: RS
+  latitude: 45.202
+  longitude: 19.933
+scores:
+  impact: 8.5
+  uniqueness: 8.6
+  significance: 8.7
+  experience: 8.5
+  depth: 7.8
+  categories:
+    architecture: 9.2
+    history: 9.1
+    culture: 8.9

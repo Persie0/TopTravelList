@@ -2,7 +2,7 @@
 
 # Serbia (RS) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**18 ranked** · **0 unassessed** · **18 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,28 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (18)
 
-No cities, towns & villages have been assessed for **Serbia** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Belgrade](cities/belgrade.yaml) | City / town | **89.00** | **Culture 9.2**, **History 9.2**, **Nightlife 9.2**, Architecture 8.9 | 8.8 / 8.7 / 9.0 / 9.1 / 9.2 | [44.8176, 20.4633](https://www.google.com/maps/search/?api=1&query=44.8176,20.4633) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Belgrade%2C%20Serbia) |
+| 2 | [Subotica](cities/subotica.yaml) | City / town | **86.90** | **Architecture 9.4**, **Photography 9.2**, **Culture 8.9** | 8.8 / 8.9 / 8.5 / 8.7 / 8.2 | [46.1005, 19.6676](https://www.google.com/maps/search/?api=1&query=46.1005,19.6676) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Subotica%2C%20Serbia) |
+| 3 | [Novi Sad](cities/novi-sad.yaml) | City / town | **86.55** | **Culture 9.1**, **Architecture 9.0**, **History 8.9** | 8.6 / 8.6 / 8.6 / 8.9 / 8.7 | [45.2671, 19.8335](https://www.google.com/maps/search/?api=1&query=45.2671,19.8335) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Novi%20Sad%2C%20Serbia) |
+| 4 | [Sremski Karlovci](cities/sremski-karlovci.yaml) | City / town | **84.95** | **Architecture 9.2**, **History 9.1**, **Culture 8.9** | 8.5 / 8.6 / 8.7 / 8.5 / 7.8 | [45.202, 19.933](https://www.google.com/maps/search/?api=1&query=45.202,19.933) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sremski%20Karlovci%2C%20Serbia) |
+| 5 | [Niš](cities/nis.yaml) | City / town | **84.60** | **History 9.2**, **Culture 8.8** | 8.2 / 8.3 / 8.8 / 8.7 / 8.6 | [43.3209, 21.8958](https://www.google.com/maps/search/?api=1&query=43.3209,21.8958) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ni%C5%A1%2C%20Serbia) |
+| 6 | [Novi Pazar](cities/novi-pazar.yaml) | City / town | **83.80** | **Culture 9.0**, **History 8.9**, **Food 8.8** | 8.1 / 8.6 / 8.6 / 8.4 / 8.2 | [43.137, 20.514](https://www.google.com/maps/search/?api=1&query=43.137,20.514) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Novi%20Pazar%2C%20Serbia) |
+| 7 | [Sombor](cities/sombor.yaml) | City / town | **82.90** | **Architecture 8.9**, **Culture 8.7** | 8.3 / 8.3 / 8.2 / 8.5 / 8.1 | [45.774, 19.115](https://www.google.com/maps/search/?api=1&query=45.774,19.115) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sombor%2C%20Serbia) |
+| 8 | [Vršac](cities/vrsac.yaml) | City / town | **82.55** | **Architecture 8.8**, **Food 8.7**, **History 8.6** | 8.3 / 8.3 / 8.2 / 8.4 / 7.9 | [45.117, 21.299](https://www.google.com/maps/search/?api=1&query=45.117,21.299) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Vr%C5%A1ac%2C%20Serbia) |
+| 9 | [Vrnjačka Banja](cities/vrnjacka-banja.yaml) | City / town | **82.25** | **Relaxation 9.2**, **Architecture 8.5** | 8.0 / 8.3 / 8.1 / 8.8 / 8.1 | [43.621, 20.896](https://www.google.com/maps/search/?api=1&query=43.621,20.896) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Vrnja%C4%8Dka%20Banja%2C%20Serbia) |
+| 10 | [Sremska Mitrovica](cities/sremska-mitrovica.yaml) | City / town | **82.00** | **History 9.2**, **Culture 8.5** | 7.9 / 8.2 / 8.7 / 8.2 / 8.1 | [44.979, 19.612](https://www.google.com/maps/search/?api=1&query=44.979,19.612) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sremska%20Mitrovica%2C%20Serbia) |
+| 11 | [Smederevo](cities/smederevo.yaml) | City / town | **81.70** | **History 8.9**, **Architecture 8.6** | 8.0 / 8.1 / 8.5 / 8.3 / 8.0 | [44.664, 20.927](https://www.google.com/maps/search/?api=1&query=44.664,20.927) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Smederevo%2C%20Serbia) |
+| 12 | [Kragujevac](cities/kragujevac.yaml) | City / town | **81.65** | **History 9.0**, **Culture 8.6** | 7.9 / 8.0 / 8.6 / 8.3 / 8.3 | [44.012, 20.912](https://www.google.com/maps/search/?api=1&query=44.012,20.912) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kragujevac%2C%20Serbia) |
+| 13 | [Užice](cities/uzice.yaml) | City / town | **81.55** | **History 8.8**, **Photography 8.6** | 8.0 / 8.2 / 8.3 / 8.3 / 8.0 | [43.856, 19.842](https://www.google.com/maps/search/?api=1&query=43.856,19.842) | [Google Maps](https://www.google.com/maps/search/?api=1&query=U%C5%BEice%2C%20Serbia) |
+| 14 | [Valjevo](cities/valjevo.yaml) | City / town | **81.45** | **History 8.8**, **Architecture 8.6** | 8.0 / 8.2 / 8.3 / 8.3 / 7.9 | [44.272, 19.887](https://www.google.com/maps/search/?api=1&query=44.272,19.887) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Valjevo%2C%20Serbia) |
+| 15 | [Zrenjanin](cities/zrenjanin.yaml) | City / town | **81.10** | **Architecture 8.7**, **History 8.5** | 8.0 / 8.1 / 8.2 / 8.3 / 8.0 | [45.381, 20.389](https://www.google.com/maps/search/?api=1&query=45.381,20.389) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Zrenjanin%2C%20Serbia) |
+| 16 | [Bač](cities/bac.yaml) | City / town | **81.05** | **History 8.9**, **Architecture 8.6** | 7.8 / 8.4 / 8.5 / 8.1 / 7.5 | [45.391, 19.236](https://www.google.com/maps/search/?api=1&query=45.391,19.236) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ba%C4%8D%2C%20Serbia) |
+| 17 | [Kraljevo](cities/kraljevo.yaml) | City / town | **78.90** | **History 8.5**, **Culture 8.3** | 7.7 / 7.8 / 8.1 / 8.2 / 7.8 | [43.724, 20.688](https://www.google.com/maps/search/?api=1&query=43.724,20.688) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kraljevo%2C%20Serbia) |
+| 18 | [Golubac](cities/golubac.yaml) | City / town | **77.50** | **Photography 8.5**, **Relaxation 8.4** | 7.7 / 7.8 / 7.7 / 8.2 / 7.2 | [44.654, 21.63](https://www.google.com/maps/search/?api=1&query=44.654,21.63) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Golubac%2C%20Serbia) |
 
 ---
 

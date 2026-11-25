@@ -1,0 +1,15 @@
+id: sight-rs-smederevo-fortress
+name: "Smederevo Fortress"
+location:
+  country_code: RS
+  latitude: 44.672
+  longitude: 20.933
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 9.2
+  experience: 8.7
+  depth: 8.7
+  categories:
+    architecture: 9.2
+    history: 9.4

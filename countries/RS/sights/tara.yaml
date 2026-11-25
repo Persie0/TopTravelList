@@ -1,0 +1,17 @@
+id: sight-rs-tara
+name: "Tara National Park and Drina Canyon"
+location:
+  country_code: RS
+  latitude: 43.94
+  longitude: 19.38
+scores:
+  impact: 9.1
+  uniqueness: 9.0
+  significance: 8.9
+  experience: 9.1
+  depth: 9.2
+  categories:
+    nature: 9.4
+    photography: 9.4
+    wildlife: 9.1
+    adventure: 9.1

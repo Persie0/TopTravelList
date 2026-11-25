@@ -1,0 +1,16 @@
+id: sight-rs-fruska-gora
+name: "Fruška Gora National Park"
+location:
+  country_code: RS
+  latitude: 45.16
+  longitude: 19.72
+scores:
+  impact: 8.4
+  uniqueness: 8.6
+  significance: 8.7
+  experience: 8.8
+  depth: 8.8
+  categories:
+    nature: 9.1
+    history: 9.0
+    culture: 8.9
