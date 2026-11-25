@@ -1,0 +1,16 @@
+id: city-tv-savave
+name: "Savave Village"
+location:
+  country_code: TV
+  latitude: -8.02731
+  longitude: 178.31351
+scores:
+  impact: 6.5
+  uniqueness: 7.6
+  significance: 7.0
+  experience: 6.3
+  depth: 5.8
+  categories:
+    culture: 7.3
+    history: 7.0
+    photography: 6.8

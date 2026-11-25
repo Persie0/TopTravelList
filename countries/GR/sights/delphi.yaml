@@ -1,0 +1,16 @@
+id: sight-gr-delphi
+name: "Archaeological Site of Delphi"
+location:
+  country_code: GR
+  latitude: 38.482
+  longitude: 22.501
+scores:
+  impact: 9.3
+  uniqueness: 9.4
+  significance: 9.6
+  experience: 9.1
+  depth: 9.0
+  categories:
+    history: 9.7
+    architecture: 9.5
+    photography: 9.4

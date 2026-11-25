@@ -1,0 +1,15 @@
+id: sight-gr-ainos
+name: "Mount Ainos National Park"
+location:
+  country_code: GR
+  latitude: 38.14
+  longitude: 20.66
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 8.7
+  experience: 8.7
+  depth: 8.5
+  categories:
+    nature: 9.2
+    photography: 9.0

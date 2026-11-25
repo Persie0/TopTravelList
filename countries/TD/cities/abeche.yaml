@@ -1,0 +1,15 @@
+id: city-td-abeche
+name: "Abéché"
+location:
+  country_code: TD
+  latitude: 13.83
+  longitude: 20.83
+scores:
+  impact: null
+  uniqueness: 8.2
+  significance: 8.5
+  experience: null
+  depth: null
+  categories:
+    history: 8.9
+    culture: 8.6

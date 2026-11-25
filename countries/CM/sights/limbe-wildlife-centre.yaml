@@ -1,0 +1,15 @@
+id: sight-cm-limbe-wildlife-centre
+name: "Limbe Wildlife Centre"
+location:
+  country_code: CM
+  latitude: 4.016233
+  longitude: 9.1974872
+scores:
+  impact: 8.0
+  uniqueness: 8.4
+  significance: 8.3
+  experience: 8.6
+  depth: 7.6
+  categories:
+    wildlife: 8.6
+    family: 8.3

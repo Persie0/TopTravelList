@@ -1,0 +1,14 @@
+id: city-gw-sao-domingos
+name: "São Domingos"
+location:
+  country_code: GW
+  latitude: 12.4055
+  longitude: -16.19671
+scores:
+  impact: 5.5
+  uniqueness: 6.4
+  significance: 6.3
+  experience: 6.5
+  depth: 5.8
+  categories:
+    culture: 7.2

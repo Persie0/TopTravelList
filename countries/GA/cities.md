@@ -2,7 +2,7 @@
 
 # Gabon (GA) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**14 ranked** · **0 unassessed** · **14 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,24 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (14)
 
-No cities, towns & villages have been assessed for **Gabon** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Lambaréné](cities/lambarene.yaml) | City / town | **79.10** | **History 8.6**, **Photography 8.5**, **Culture 8.4** | 7.6 / 8.2 / 8.3 / 8.0 / 7.2 | [-0.7, 10.233](https://www.google.com/maps/search/?api=1&query=-0.7,10.233) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lambar%C3%A9n%C3%A9%2C%20Gabon) |
+| 2 | [Libreville](cities/libreville.yaml) | City / town | **77.20** | **Culture 8.5**, **Food 8.3**, **History 8.2** | 7.4 / 7.7 / 8.0 / 7.9 / 7.9 | [0.4162, 9.4673](https://www.google.com/maps/search/?api=1&query=0.4162,9.4673) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Libreville%2C%20Gabon) |
+| 3 | [Mayumba](cities/mayumba.yaml) | City / town | **72.10** | **Relaxation 8.2**, **Photography 8.0**, **Culture 7.7** | 7.2 / 7.7 / 6.6 / 7.7 / 6.5 | [-3.432, 10.655](https://www.google.com/maps/search/?api=1&query=-3.432,10.655) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mayumba%2C%20Gabon) |
+| 4 | [Lopé Village](cities/lope-village.yaml) | Village | **70.50** | **Photography 8.0**, **Culture 7.8** | 6.8 / 7.7 / 6.8 / 7.5 / 6.0 | [-0.1, 11.6](https://www.google.com/maps/search/?api=1&query=-0.1,11.6) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lop%C3%A9%20Village%2C%20Gabon) |
+| 4 | [Port-Gentil](cities/port-gentil.yaml) | City / town | **70.50** | **Food 8.1**, **Relaxation 7.9**, **Culture 7.8** | 6.7 / 7.2 / 7.0 / 7.6 / 7.0 | [-0.719, 8.781](https://www.google.com/maps/search/?api=1&query=-0.719,8.781) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Port-Gentil%2C%20Gabon) |
+| 6 | [Franceville](cities/franceville.yaml) | City / town | **70.00** | **Culture 7.8**, **History 7.8**, **Food 7.7** | 6.5 / 7.2 / 7.3 / 7.4 / 6.8 | [-1.633, 13.583](https://www.google.com/maps/search/?api=1&query=-1.633,13.583) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Franceville%2C%20Gabon) |
+| 7 | [Lastoursville](cities/lastoursville.yaml) | City / town | **68.45** | **Culture 7.8**, **History 7.8** | 6.3 / 7.3 / 7.3 / 7.0 / 6.2 | [-0.817, 12.717](https://www.google.com/maps/search/?api=1&query=-0.817,12.717) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lastoursville%2C%20Gabon) |
+| 8 | [Gamba](cities/gamba.yaml) | City / town | **68.10** | **Photography 7.8**, **Culture 7.6** | 6.5 / 7.4 / 6.6 / 7.2 / 6.1 | [-2.65, 10.0](https://www.google.com/maps/search/?api=1&query=-2.65,10.0) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Gamba%2C%20Gabon) |
+| 9 | [Makokou](cities/makokou.yaml) | City / town | **67.50** | **Culture 7.6**, **Relaxation 7.3** | 6.4 / 7.2 / 6.8 / 7.0 / 6.2 | [0.574, 12.864](https://www.google.com/maps/search/?api=1&query=0.574,12.864) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Makokou%2C%20Gabon) |
+| 9 | [Mouila](cities/mouila.yaml) | City / town | **67.50** | **Culture 7.6**, **Food 7.6** | 6.4 / 7.0 / 6.9 / 7.2 / 6.2 | [-1.868, 11.055](https://www.google.com/maps/search/?api=1&query=-1.868,11.055) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mouila%2C%20Gabon) |
+| 11 | [Oyem](cities/oyem.yaml) | City / town | **66.40** | **Culture 7.7**, **Food 7.6** | 6.1 / 6.9 / 6.9 / 7.1 / 6.4 | [1.6, 11.58](https://www.google.com/maps/search/?api=1&query=1.6,11.58) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Oyem%2C%20Gabon) |
+| 12 | [Booué](cities/booue.yaml) | City / town | **65.65** | **Culture 7.5**, **History 7.5** | 6.0 / 7.1 / 6.9 / 6.8 / 5.9 | [-0.09, 11.95](https://www.google.com/maps/search/?api=1&query=-0.09,11.95) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Boou%C3%A9%2C%20Gabon) |
+| 13 | [Tchibanga](cities/tchibanga.yaml) | City / town | **64.35** | **Food 7.4**, **Culture 7.3** | 6.0 / 6.8 / 6.5 / 6.9 / 6.0 | [-2.85, 11.03](https://www.google.com/maps/search/?api=1&query=-2.85,11.03) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tchibanga%2C%20Gabon) |
+| 14 | [Koulamoutou](cities/koulamoutou.yaml) | City / town | **63.65** | **Food 7.4**, **Culture 7.3** | 5.9 / 6.7 / 6.5 / 6.8 / 6.0 | [-1.136, 12.463](https://www.google.com/maps/search/?api=1&query=-1.136,12.463) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Koulamoutou%2C%20Gabon) |
 
 ---
 

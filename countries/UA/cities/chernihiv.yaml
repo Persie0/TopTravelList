@@ -1,0 +1,15 @@
+id: city-ua-chernihiv
+name: "Chernihiv"
+location:
+  country_code: UA
+  latitude: 51.4982
+  longitude: 31.2893
+scores:
+  impact: 8.6
+  uniqueness: 8.9
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.3
+    history: 9.4

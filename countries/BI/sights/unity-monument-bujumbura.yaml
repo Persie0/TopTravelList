@@ -1,0 +1,15 @@
+id: sight-bi-unity-monument-bujumbura
+name: "Unity Monument (Bujumbura)"
+location:
+  country_code: BI
+  latitude: -3.389
+  longitude: 29.391
+scores:
+  impact: 6.9
+  uniqueness: 7.3
+  significance: 7.8
+  experience: 7.2
+  depth: 5.9
+  categories:
+    history: 8.2
+    photography: 8.0

@@ -1,0 +1,15 @@
+id: sight-bi-national-museum-of-gitega
+name: "National Museum of Gitega"
+location:
+  country_code: BI
+  latitude: -3.428
+  longitude: 29.925
+scores:
+  impact: 6.9
+  uniqueness: 7.7
+  significance: 8.3
+  experience: 7.6
+  depth: 6.8
+  categories:
+    history: 8.7
+    culture: 8.5

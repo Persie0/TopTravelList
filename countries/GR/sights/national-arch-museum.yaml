@@ -1,0 +1,15 @@
+id: sight-gr-national-arch-museum
+name: "National Archaeological Museum Athens"
+location:
+  country_code: GR
+  latitude: 37.989
+  longitude: 23.732
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 9.6
+  experience: 9.0
+  depth: 9.2
+  categories:
+    history: 9.7
+    culture: 9.6

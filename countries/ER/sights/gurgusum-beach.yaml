@@ -1,0 +1,15 @@
+id: sight-er-gurgusum-beach
+name: "Gurgusum Beach"
+location:
+  country_code: ER
+  latitude: 15.65
+  longitude: 39.47
+scores:
+  impact: 7.8
+  uniqueness: 7.4
+  significance: 6.1
+  experience: 8.1
+  depth: 6.8
+  categories:
+    beaches: 8.5
+    relaxation: 8.4

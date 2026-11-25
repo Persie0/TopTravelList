@@ -1,0 +1,15 @@
+id: sight-cm-ekom-nkam-waterfalls
+name: "Ekom-Nkam Waterfalls"
+location:
+  country_code: CM
+  latitude: 5.06269
+  longitude: 10.02952
+scores:
+  impact: 8.8
+  uniqueness: 8.4
+  significance: 7.6
+  experience: 8.5
+  depth: 7.6
+  categories:
+    nature: 8.9
+    photography: 9.0

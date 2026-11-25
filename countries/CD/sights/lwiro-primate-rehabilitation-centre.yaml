@@ -1,0 +1,15 @@
+id: sight-cd-lwiro-primate-rehabilitation-centre
+name: "Lwiro Primate Rehabilitation Centre"
+location:
+  country_code: CD
+  latitude: -2.239
+  longitude: 28.807
+scores:
+  impact: 8.3
+  uniqueness: 8.6
+  significance: 8.5
+  experience: 8.5
+  depth: 7.9
+  categories:
+    wildlife: 8.7
+    family: 8.3

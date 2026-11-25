@@ -1,0 +1,14 @@
+id: sight-bf-bekuy-metallurgy
+name: "Ancient Iron Metallurgy Site of Békuy"
+location:
+  country_code: BF
+  latitude: 11.622392
+  longitude: -3.891942
+scores:
+  impact: null
+  uniqueness: 8.7
+  significance: 8.6
+  experience: null
+  depth: null
+  categories:
+    history: 8.6

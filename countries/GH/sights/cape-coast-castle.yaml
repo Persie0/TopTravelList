@@ -1,0 +1,16 @@
+id: sight-gh-cape-coast-castle
+name: "Cape Coast Castle"
+location:
+  country_code: GH
+  latitude: 5.103
+  longitude: -1.241
+scores:
+  impact: 9.1
+  uniqueness: 9.3
+  significance: 9.7
+  experience: 9.0
+  depth: 8.5
+  categories:
+    history: 9.7
+    architecture: 9.2
+    culture: 9.4

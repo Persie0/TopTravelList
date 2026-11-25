@@ -1,0 +1,15 @@
+id: sight-gh-fort-san-antonio-axim
+name: "Fort San Antonio (Axim)"
+location:
+  country_code: GH
+  latitude: 4.868
+  longitude: -2.245
+scores:
+  impact: 7.8
+  uniqueness: 8.2
+  significance: 8.8
+  experience: 7.7
+  depth: 7.1
+  categories:
+    history: 9.0
+    architecture: 8.5

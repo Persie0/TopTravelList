@@ -1,0 +1,16 @@
+id: sight-ua-sofiyivka
+name: "Sofiyivka Dendrological Park"
+location:
+  country_code: UA
+  latitude: 48.765
+  longitude: 30.23
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 9.0
+  experience: 8.9
+  depth: 8.8
+  categories:
+    nature: 9.2
+    architecture: 9.1
+    photography: 9.3

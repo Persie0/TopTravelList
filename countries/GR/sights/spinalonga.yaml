@@ -1,0 +1,15 @@
+id: sight-gr-spinalonga
+name: "Fortress of Spinalonga"
+location:
+  country_code: GR
+  latitude: 35.297
+  longitude: 25.738
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 9.0
+  experience: 8.8
+  depth: 8.4
+  categories:
+    history: 9.3
+    architecture: 9.2

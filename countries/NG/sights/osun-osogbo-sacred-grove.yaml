@@ -1,0 +1,16 @@
+id: sight-ng-osun-osogbo-sacred-grove
+name: "Osun-Osogbo Sacred Grove"
+location:
+  country_code: NG
+  latitude: 7.75556
+  longitude: 4.55222
+scores:
+  impact: 9.1
+  uniqueness: 9.5
+  significance: 9.4
+  experience: 8.8
+  depth: 8.7
+  categories:
+    culture: 9.6
+    history: 9.1
+    nature: 9.0

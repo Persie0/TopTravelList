@@ -1,0 +1,16 @@
+id: city-ne-agadez
+name: "Agadez"
+location:
+  country_code: NE
+  latitude: 16.973
+  longitude: 7.991
+scores:
+  impact: 8.7
+  uniqueness: 9.1
+  significance: 9.1
+  experience: 8.1
+  depth: 8.2
+  categories:
+    architecture: 9.2
+    history: 9.3
+    culture: 9.1

@@ -1,0 +1,16 @@
+id: city-gr-monemvasia
+name: "Monemvasia"
+location:
+  country_code: GR
+  latitude: 36.687
+  longitude: 23.055
+scores:
+  impact: 9.1
+  uniqueness: 9.2
+  significance: 8.8
+  experience: 8.7
+  depth: 8.0
+  categories:
+    architecture: 9.4
+    photography: 9.5
+    history: 9.2

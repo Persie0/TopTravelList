@@ -1,0 +1,15 @@
+id: city-er-adi-keyh
+name: "Adi Keyh"
+location:
+  country_code: ER
+  latitude: 14.8444444
+  longitude: 39.3772222
+scores:
+  impact: 6.5
+  uniqueness: 7.4
+  significance: 7.4
+  experience: 7.0
+  depth: 6.1
+  categories:
+    culture: 7.9
+    history: 8.0

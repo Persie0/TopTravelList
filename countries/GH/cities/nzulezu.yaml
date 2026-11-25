@@ -1,0 +1,16 @@
+id: city-gh-nzulezu
+name: "Nzulezu"
+location:
+  country_code: GH
+  latitude: 5.020
+  longitude: -2.600
+scores:
+  impact: 8.3
+  uniqueness: 9.1
+  significance: 7.9
+  experience: 8.3
+  depth: 6.6
+  categories:
+    culture: 9.1
+    architecture: 8.8
+    photography: 8.8

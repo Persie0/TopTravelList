@@ -1,0 +1,15 @@
+id: sight-ng-yankari-game-reserve
+name: "Yankari Game Reserve"
+location:
+  country_code: NG
+  latitude: 9.75
+  longitude: 10.5
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 8.9
+  experience: 8.3
+  depth: 8.5
+  categories:
+    wildlife: 9.0
+    nature: 9.0

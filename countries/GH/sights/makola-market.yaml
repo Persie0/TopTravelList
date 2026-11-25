@@ -1,0 +1,15 @@
+id: sight-gh-makola-market
+name: "Makola Market"
+location:
+  country_code: GH
+  latitude: 5.548
+  longitude: -0.206
+scores:
+  impact: 7.3
+  uniqueness: 8.0
+  significance: 7.2
+  experience: 8.1
+  depth: 7.5
+  categories:
+    food: 8.4
+    culture: 8.5

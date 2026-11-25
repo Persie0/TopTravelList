@@ -1,0 +1,13 @@
+id: city-ao-huambo
+name: "Huambo"
+location:
+  country_code: AO
+  latitude: -12.776111
+  longitude: 15.739167
+scores:
+  impact: null
+  uniqueness: 7.3
+  significance: 7.7
+  experience: null
+  depth: null
+  categories: {}

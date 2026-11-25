@@ -1,0 +1,14 @@
+id: city-bf-banfora
+name: "Banfora"
+location:
+  country_code: BF
+  latitude: 10.64064
+  longitude: -4.75285
+scores:
+  impact: 6.8
+  uniqueness: 7.0
+  significance: 7.0
+  experience: 7.3
+  depth: 6.8
+  categories:
+    culture: 7.4

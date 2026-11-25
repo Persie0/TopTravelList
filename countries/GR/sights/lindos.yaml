@@ -1,0 +1,16 @@
+id: sight-gr-lindos
+name: "Acropolis of Lindos"
+location:
+  country_code: GR
+  latitude: 36.092
+  longitude: 28.088
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 9.1
+  experience: 8.9
+  depth: 8.3
+  categories:
+    architecture: 9.3
+    history: 9.3
+    photography: 9.4

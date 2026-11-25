@@ -1,0 +1,16 @@
+id: sight-gq-ilachi-waterfalls
+name: "Ilachi Waterfalls"
+location:
+  country_code: GQ
+  latitude: 3.36
+  longitude: 8.66
+scores:
+  impact: 8.6
+  uniqueness: 8.4
+  significance: 7.1
+  experience: 8.2
+  depth: 7.4
+  categories:
+    nature: 9.0
+    photography: 9.1
+    adventure: 8.6

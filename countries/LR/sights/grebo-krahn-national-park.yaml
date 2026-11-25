@@ -1,0 +1,15 @@
+id: sight-lr-grebo-krahn-national-park
+name: "Grebo-Krahn National Park"
+location:
+  country_code: LR
+  latitude: 5.83
+  longitude: -7.70
+scores:
+  impact: null
+  uniqueness: 8.7
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    nature: 9.3
+    wildlife: null
