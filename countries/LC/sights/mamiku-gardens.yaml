@@ -1,0 +1,16 @@
+id: sight-lc-mamiku-gardens
+name: "Mamiku Gardens"
+location:
+  country_code: LC
+  latitude: 13.889
+  longitude: -60.908
+scores:
+  impact: 7.7
+  uniqueness: 8.0
+  significance: 7.6
+  experience: 8.3
+  depth: 7.2
+  categories:
+    nature: 8.7
+    history: 8.0
+    wildlife: 8.3

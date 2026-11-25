@@ -2,7 +2,7 @@
 
 # Saint Lucia (LC) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**12 ranked** · **0 unassessed** · **12 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,22 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (12)
 
-No cities, towns & villages have been assessed for **Saint Lucia** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Soufrière](cities/soufriere.yaml) | City / town | **83.50** | **Photography 9.3**, **Culture 8.7**, **History 8.4**, Food 8.2 | 8.6 / 8.8 / 7.8 / 8.4 / 7.5 | [13.856, -61.058](https://www.google.com/maps/search/?api=1&query=13.856,-61.058) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Soufri%C3%A8re%2C%20Saint%20Lucia) |
+| 2 | [Castries](cities/castries.yaml) | City / town | **78.65** | **Culture 8.6**, **History 8.5**, **Food 8.3**, Architecture 8.1 | 7.5 / 7.9 / 8.2 / 8.0 / 8.0 | [14.01, -60.987](https://www.google.com/maps/search/?api=1&query=14.01,-60.987) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Castries%2C%20Saint%20Lucia) |
+| 3 | [Marigot Bay village](cities/marigot-bay-village.yaml) | Village | **75.65** | **Photography 8.8**, **Relaxation 8.4**, **Culture 7.7** | 7.8 / 8.1 / 6.5 / 8.2 / 6.7 | [13.967, -61.023](https://www.google.com/maps/search/?api=1&query=13.967,-61.023) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Marigot%20Bay%20village%2C%20Saint%20Lucia) |
+| 4 | [Gros Islet](cities/gros-islet.yaml) | City / town | **75.60** | **Nightlife 9.0**, **Culture 8.7**, **Food 8.4** | 7.3 / 7.8 / 6.9 / 8.6 / 7.5 | [14.081, -60.954](https://www.google.com/maps/search/?api=1&query=14.081,-60.954) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Gros%20Islet%2C%20Saint%20Lucia) |
+| 5 | [Anse La Raye](cities/anse-la-raye.yaml) | City / town | **75.15** | **Culture 8.5**, **Photography 8.4**, **Food 8.3** | 7.6 / 8.0 / 6.8 / 8.1 / 6.6 | [13.94, -61.042](https://www.google.com/maps/search/?api=1&query=13.94,-61.042) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Anse%20La%20Raye%2C%20Saint%20Lucia) |
+| 6 | [Laborie](cities/laborie.yaml) | City / town | **74.70** | **Photography 8.4**, **Culture 8.3**, **Food 8.1** | 7.5 / 7.9 / 6.8 / 8.1 / 6.7 | [13.752, -60.992](https://www.google.com/maps/search/?api=1&query=13.752,-60.992) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Laborie%2C%20Saint%20Lucia) |
+| 7 | [Choiseul](cities/choiseul.yaml) | City / town | **74.50** | **Culture 8.6**, **Photography 8.3**, **History 7.9** | 7.3 / 8.0 / 7.2 / 7.8 / 6.5 | [13.772, -61.05](https://www.google.com/maps/search/?api=1&query=13.772,-61.05) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Choiseul%2C%20Saint%20Lucia) |
+| 8 | [Canaries](cities/canaries.yaml) | City / town | **72.90** | **Photography 8.5**, **Culture 8.2** | 7.4 / 7.9 / 6.6 / 7.7 / 6.2 | [13.903, -61.065](https://www.google.com/maps/search/?api=1&query=13.903,-61.065) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Canaries%2C%20Saint%20Lucia) |
+| 9 | [Dennery](cities/dennery.yaml) | City / town | **72.35** | **Photography 8.3**, **Culture 8.2** | 7.2 / 7.7 / 6.8 / 7.6 / 6.5 | [13.91, -60.89](https://www.google.com/maps/search/?api=1&query=13.91,-60.89) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Dennery%2C%20Saint%20Lucia) |
+| 10 | [Rodney Bay village](cities/rodney-bay-village.yaml) | Village | **71.85** | **Nightlife 8.8**, **Food 8.5**, **Relaxation 8.5** | 7.2 / 6.9 / 6.0 / 8.6 / 8.1 | [14.07, -60.955](https://www.google.com/maps/search/?api=1&query=14.07,-60.955) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Rodney%20Bay%20village%2C%20Saint%20Lucia) |
+| 11 | [Vieux Fort](cities/vieux-fort.yaml) | City / town | **71.75** | **Culture 8.0**, **Food 7.8** | 6.9 / 7.4 / 7.0 / 7.7 / 7.0 | [13.729, -60.954](https://www.google.com/maps/search/?api=1&query=13.729,-60.954) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Vieux%20Fort%2C%20Saint%20Lucia) |
+| 12 | [Micoud](cities/micoud.yaml) | City / town | **68.50** | **Culture 7.8**, **Photography 7.7** | 6.7 / 7.2 / 6.5 / 7.4 / 6.3 | [13.817, -60.9](https://www.google.com/maps/search/?api=1&query=13.817,-60.9) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Micoud%2C%20Saint%20Lucia) |
 
 ---
 
