@@ -1,0 +1,16 @@
+id: sight-sg-sri-mariamman-temple
+name: "Sri Mariamman Temple"
+location:
+  country_code: SG
+  latitude: 1.2827
+  longitude: 103.8452
+scores:
+  impact: 8.2
+  uniqueness: 8.4
+  significance: 8.5
+  experience: 8.4
+  depth: 7.5
+  categories:
+    architecture: 8.9
+    culture: 9.0
+    history: 8.8

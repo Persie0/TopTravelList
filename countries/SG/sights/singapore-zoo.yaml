@@ -1,0 +1,15 @@
+id: sight-sg-singapore-zoo
+name: "Singapore Zoo"
+location:
+  country_code: SG
+  latitude: 1.4043
+  longitude: 103.7930
+scores:
+  impact: 9.0
+  uniqueness: 8.9
+  significance: 8.1
+  experience: 9.2
+  depth: 9.2
+  categories:
+    family: 9.4
+    wildlife: 9.0

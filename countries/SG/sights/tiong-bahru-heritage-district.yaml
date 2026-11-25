@@ -1,0 +1,15 @@
+id: sight-sg-tiong-bahru-heritage-district
+name: "Tiong Bahru Heritage District"
+location:
+  country_code: SG
+  latitude: 1.2847
+  longitude: 103.8311
+scores:
+  impact: 7.9
+  uniqueness: 8.2
+  significance: 7.9
+  experience: 8.5
+  depth: 7.8
+  categories:
+    architecture: 8.6
+    food: 8.7

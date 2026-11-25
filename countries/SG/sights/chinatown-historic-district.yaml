@@ -1,0 +1,16 @@
+id: sight-sg-chinatown-historic-district
+name: "Chinatown Historic District"
+location:
+  country_code: SG
+  latitude: 1.2833
+  longitude: 103.8438
+scores:
+  impact: 8.7
+  uniqueness: 8.7
+  significance: 8.6
+  experience: 9.0
+  depth: 8.7
+  categories:
+    food: 9.2
+    culture: 9.1
+    architecture: 8.9

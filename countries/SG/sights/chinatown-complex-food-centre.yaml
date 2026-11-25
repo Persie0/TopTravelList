@@ -1,0 +1,15 @@
+id: sight-sg-chinatown-complex-food-centre
+name: "Chinatown Complex Food Centre"
+location:
+  country_code: SG
+  latitude: 1.2823
+  longitude: 103.8432
+scores:
+  impact: 8.0
+  uniqueness: 8.4
+  significance: 7.7
+  experience: 9.0
+  depth: 8.6
+  categories:
+    food: 9.4
+    culture: 8.9

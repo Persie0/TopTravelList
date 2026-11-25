@@ -1,0 +1,16 @@
+id: sight-sg-rainforest-wild-adventure
+name: "Rainforest Wild Adventure"
+location:
+  country_code: SG
+  latitude: 1.3991
+  longitude: 103.7831
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 7.2
+  experience: 8.9
+  depth: 8.5
+  categories:
+    family: 9.1
+    adventure: 8.8
+    wildlife: 8.7

@@ -1,0 +1,15 @@
+id: sight-sg-malay-heritage-centre
+name: "Malay Heritage Centre"
+location:
+  country_code: SG
+  latitude: 1.3024
+  longitude: 103.8601
+scores:
+  impact: 7.8
+  uniqueness: 8.2
+  significance: 8.2
+  experience: 8.2
+  depth: 7.7
+  categories:
+    culture: 8.8
+    history: 8.6

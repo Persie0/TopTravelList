@@ -1,0 +1,15 @@
+id: sight-sg-tekka-centre
+name: "Tekka Centre"
+location:
+  country_code: SG
+  latitude: 1.3060
+  longitude: 103.8505
+scores:
+  impact: 7.9
+  uniqueness: 8.2
+  significance: 7.7
+  experience: 8.7
+  depth: 8.2
+  categories:
+    food: 9.1
+    culture: 8.8

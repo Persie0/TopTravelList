@@ -1,0 +1,15 @@
+id: sight-sg-clarke-quay
+name: "Clarke Quay"
+location:
+  country_code: SG
+  latitude: 1.2897
+  longitude: 103.8468
+scores:
+  impact: 7.9
+  uniqueness: 7.6
+  significance: 7.2
+  experience: 8.5
+  depth: 7.8
+  categories:
+    nightlife: 8.8
+    food: 8.3

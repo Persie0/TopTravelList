@@ -1,0 +1,15 @@
+id: sight-sg-bird-paradise
+name: "Bird Paradise"
+location:
+  country_code: SG
+  latitude: 1.3978
+  longitude: 103.7834
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 7.6
+  experience: 9.0
+  depth: 8.8
+  categories:
+    family: 9.3
+    wildlife: 9.0

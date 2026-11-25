@@ -1,0 +1,16 @@
+id: sight-sg-katong-joo-chiat-heritage-district
+name: "Katong Joo Chiat Heritage District"
+location:
+  country_code: SG
+  latitude: 1.3109
+  longitude: 103.9020
+scores:
+  impact: 8.3
+  uniqueness: 8.5
+  significance: 8.1
+  experience: 8.7
+  depth: 8.2
+  categories:
+    architecture: 8.9
+    food: 9.0
+    culture: 8.8

@@ -1,0 +1,16 @@
+id: sight-sg-gardens-by-the-bay
+name: "Gardens by the Bay"
+location:
+  country_code: SG
+  latitude: 1.2816
+  longitude: 103.8636
+scores:
+  impact: 9.5
+  uniqueness: 9.5
+  significance: 8.4
+  experience: 9.4
+  depth: 9.3
+  categories:
+    architecture: 9.6
+    photography: 9.5
+    family: 9.4

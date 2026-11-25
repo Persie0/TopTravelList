@@ -1,0 +1,15 @@
+id: sight-sg-labrador-nature-reserve
+name: "Labrador Nature Reserve"
+location:
+  country_code: SG
+  latitude: 1.2669
+  longitude: 103.8021
+scores:
+  impact: 8.0
+  uniqueness: 8.1
+  significance: 7.8
+  experience: 8.4
+  depth: 8.0
+  categories:
+    nature: 8.6
+    history: 8.4

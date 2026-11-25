@@ -1,0 +1,15 @@
+id: sight-sg-fort-siloso
+name: "Fort Siloso"
+location:
+  country_code: SG
+  latitude: 1.2570
+  longitude: 103.8089
+scores:
+  impact: 8.0
+  uniqueness: 8.3
+  significance: 8.6
+  experience: 8.4
+  depth: 8.1
+  categories:
+    history: 8.9
+    architecture: 8.4

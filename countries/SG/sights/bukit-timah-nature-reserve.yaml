@@ -1,0 +1,16 @@
+id: sight-sg-bukit-timah-nature-reserve
+name: "Bukit Timah Nature Reserve"
+location:
+  country_code: SG
+  latitude: 1.3544
+  longitude: 103.7764
+scores:
+  impact: 8.1
+  uniqueness: 8.3
+  significance: 8.4
+  experience: 8.4
+  depth: 8.0
+  categories:
+    nature: 9.0
+    wildlife: 8.5
+    adventure: 8.5

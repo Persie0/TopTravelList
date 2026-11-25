@@ -1,0 +1,15 @@
+id: sight-sg-national-orchid-garden
+name: "National Orchid Garden"
+location:
+  country_code: SG
+  latitude: 1.3119
+  longitude: 103.8149
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 8.4
+  experience: 8.9
+  depth: 8.5
+  categories:
+    nature: 9.2
+    photography: 9.3

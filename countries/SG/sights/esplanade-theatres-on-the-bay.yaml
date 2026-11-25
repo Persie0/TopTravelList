@@ -1,0 +1,15 @@
+id: sight-sg-esplanade-theatres-on-the-bay
+name: "Esplanade Theatres on the Bay"
+location:
+  country_code: SG
+  latitude: 1.2897
+  longitude: 103.8559
+scores:
+  impact: 8.5
+  uniqueness: 8.5
+  significance: 8.0
+  experience: 8.7
+  depth: 8.5
+  categories:
+    architecture: 9.0
+    culture: 9.1

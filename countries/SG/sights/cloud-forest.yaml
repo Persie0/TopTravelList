@@ -1,0 +1,16 @@
+id: sight-sg-cloud-forest
+name: "Cloud Forest"
+location:
+  country_code: SG
+  latitude: 1.2838
+  longitude: 103.8643
+scores:
+  impact: 9.2
+  uniqueness: 9.3
+  significance: 7.6
+  experience: 9.1
+  depth: 8.6
+  categories:
+    architecture: 9.3
+    photography: 9.4
+    family: 9.1

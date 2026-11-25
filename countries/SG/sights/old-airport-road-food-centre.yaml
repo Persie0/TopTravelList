@@ -1,0 +1,15 @@
+id: sight-sg-old-airport-road-food-centre
+name: "Old Airport Road Food Centre"
+location:
+  country_code: SG
+  latitude: 1.3083
+  longitude: 103.8858
+scores:
+  impact: 7.9
+  uniqueness: 8.3
+  significance: 7.6
+  experience: 9.0
+  depth: 8.5
+  categories:
+    food: 9.4
+    culture: 8.7

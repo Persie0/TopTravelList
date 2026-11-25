@@ -1,0 +1,15 @@
+id: sight-sg-singapore-oceanarium
+name: "Singapore Oceanarium"
+location:
+  country_code: SG
+  latitude: 1.2583
+  longitude: 103.8202
+scores:
+  impact: 8.9
+  uniqueness: 8.7
+  significance: 7.6
+  experience: 9.1
+  depth: 8.8
+  categories:
+    family: 9.3
+    wildlife: 8.9

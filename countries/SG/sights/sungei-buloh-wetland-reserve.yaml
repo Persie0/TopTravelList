@@ -1,0 +1,15 @@
+id: sight-sg-sungei-buloh-wetland-reserve
+name: "Sungei Buloh Wetland Reserve"
+location:
+  country_code: SG
+  latitude: 1.4459
+  longitude: 103.7294
+scores:
+  impact: 8.4
+  uniqueness: 8.6
+  significance: 8.5
+  experience: 8.7
+  depth: 8.5
+  categories:
+    wildlife: 9.0
+    nature: 9.0

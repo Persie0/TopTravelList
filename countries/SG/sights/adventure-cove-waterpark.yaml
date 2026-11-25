@@ -1,0 +1,14 @@
+id: sight-sg-adventure-cove-waterpark
+name: "Adventure Cove Waterpark"
+location:
+  country_code: SG
+  latitude: 1.2594
+  longitude: 103.8179
+scores:
+  impact: 8.0
+  uniqueness: 7.7
+  significance: 6.1
+  experience: 8.7
+  depth: 8.2
+  categories:
+    family: 8.9

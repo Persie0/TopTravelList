@@ -1,0 +1,18 @@
+id: city-sg-singapore
+name: "Singapore"
+location:
+  country_code: SG
+  latitude: 1.2903
+  longitude: 103.8519
+scores:
+  impact: 9.3
+  uniqueness: 9.1
+  significance: 8.9
+  experience: 9.5
+  depth: 9.5
+  categories:
+    architecture: 9.5
+    food: 9.6
+    culture: 9.2
+    nightlife: 9.0
+    family: 9.4
