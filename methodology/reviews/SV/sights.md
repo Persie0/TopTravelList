@@ -1028,3 +1028,33 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [UNESCO tentative-list property identity](https://whc.unesco.org/en/statesparties/sv), retrieved 2026-11-25 in search or page inspection; supports named destination or broader context, not full claim-level verification.
 - Remaining gaps: Normal visitor access and extent of interpretable routes need evidence before ranking.
+
+## Follow-up: sight-sv-joya-de-ceren-archaeological-site — 2026-11-25 (worldwide review)
+
+- [YAML](../../../countries/SV/sights/joya-de-ceren-archaeological-site.yaml) · Action: fact-check-only · **source-linked-unverified**: limited source claims checked; not comprehensive fact-check. Original decision above retained.
+- Sources inspected 2026-11-25: [https://whc.unesco.org/en/list/675/](https://whc.unesco.org/en/list/675/), [https://www.cultura.gob.sv/parque-arqueologico-joya-de-ceren/](https://www.cultura.gob.sv/parque-arqueologico-joya-de-ceren/)
+- Decision: UNESCO confirms an ash-buried pre-Hispanic farming community with exceptional evidence of daily life. The 9.6 uniqueness, significance and history are justified as editorial judgments; impact and depth remain below monumental ancient cities. No UNESCO bonus or borrowed national heritage.
+- I/U/S/E/D: 8.6 / 9.6 / 9.6 / 8.4 / 8.1 → 8.6 / 9.6 / 9.6 / 8.4 / 8.1; total 89.70/100 → 89.70/100. Categories unchanged. No new 10 or country multiplier. Representative GPS retained.
+
+| Current worldwide peer | I/U/S/E/D | Overall | Scope comparison |
+| --- | --- | --- | --- |
+| [Chan Chan Archaeological Zone](../../../countries/PE/sights/chan-chan-archaeological-zone.yaml) | 8.7 / 9.4 / 9.6 / 8.2 / 8.5 | 89.60/100 | More extensive urban ruins; different exceptional preservation. |
+| [Chavín Archaeological Site](../../../countries/PE/sights/chavin-archaeological-site.yaml) | 8.5 / 9.2 / 9.6 / 8.3 / 8.5 | 88.65/100 | Rare archaeological evidence with broader monument scope. |
+| [Caracol Archaeological Reserve](../../../countries/BZ/sights/caracol-archaeological-reserve.yaml) | 9.1 / 9.1 / 9.4 / 8.9 / 8.9 | 91.10/100 | More imposing architecture and greater route breadth. |
+| [Pella Archaeological Site](../../../countries/JO/sights/pella-archaeological-site.yaml) | 7.9 / 8.4 / 8.9 / 8.0 / 8.3 | 82.80/100 | Regional archaeological ensemble with lower global rarity. |
+
+
+## Follow-up: sight-sv-santa-ana-volcano-ilamatepec — 2026-11-25 (worldwide review)
+
+- [YAML](../../../countries/SV/sights/santa-ana-volcano-ilamatepec.yaml) · Action: fact-check-only · **source-linked-unverified**: limited source claims checked; not comprehensive fact-check. Original decision above retained.
+- Sources inspected 2026-11-25: [https://elsalvador.travel/esp/en/volcan-de-santa-ana-ilamatepec/](https://elsalvador.travel/esp/en/volcan-de-santa-ana-ilamatepec/), [https://elsalvador.travel/esp/en/parque-recreativo-cerro-verde/](https://elsalvador.travel/esp/en/parque-recreativo-cerro-verde/)
+- Decision: Official tourism confirms a challenging permitted hike. The crater route has higher impact than ordinary viewpoints but lower rarity and depth than Mount Fuji, Ijen and Bromo; scores exclude other volcanoes in the national park.
+- I/U/S/E/D: 9.4 / 8.9 / 8.5 / 9.3 / 8.2 → 9.4 / 8.9 / 8.5 / 9.3 / 8.2; total 89.60/100 → 89.60/100. Categories unchanged. No new 10 or country multiplier. Representative GPS retained.
+
+| Current worldwide peer | I/U/S/E/D | Overall | Scope comparison |
+| --- | --- | --- | --- |
+| [Ijen Crater](../../../countries/ID/sights/ijen-crater.yaml) | 9.5 / 9.7 / 8.7 / 9.1 / 8.7 | 92.50/100 | Rarer sulfur-crater landscape. |
+| [Mount Bromo](../../../countries/ID/sights/mount-bromo.yaml) | 9.5 / 9.4 / 8.5 / 9.3 / 8.5 | 91.45/100 | Comparable rewarding ascent with stronger volcanic setting. |
+| [Mount Fuji](../../../countries/JP/sights/mount-fuji.yaml) | 9.8 / 9.7 / 9.5 / 9.2 / 9.3 | 95.75/100 | Greater global cultural and natural significance and depth. |
+| [Bromo Tengger Semeru National Park](../../../countries/ID/sights/bromo-tengger-semeru-national-park.yaml) | 9.6 / 9.7 / 9.0 / 9.3 / 9.5 | 94.50/100 | Multi-volcano park has greater breadth. |
+
