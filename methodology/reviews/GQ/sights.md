@@ -513,4 +513,3 @@ Follow-up 2026-11-25: official [UNESCO country register](https://whc.unesco.org/
 - Evidence: [Reference](https://en.wikipedia.org/wiki/List_of_protected_areas_in_Equatorial_Guinea) — Protected area inventory excerpt; visitor access unresolved; accessed as page or excerpt 2026-11-25. Not complete claim-level verification.
 - Remaining gaps: Normal permitted visitor experience and scope not established.
 - Follow-up: [Protected Planet national inventory](https://www.protectedplanet.net/en/search-areas?filters%5Blocation%5D%5Boptions%5D%5B%5D=Equatorial+Guinea&filters%5Blocation%5D%5Btype%5D=country) corroborates designation and identity. Permitted visitor routes not established; keep overall unranked.
-
