@@ -1,0 +1,16 @@
+id: sight-cx-tai-jin-house
+name: "Tai Jin House Museum"
+location:
+  country_code: CX
+  latitude: -10.42866
+  longitude: 105.66502
+scores:
+  impact: 7.9
+  uniqueness: 8.3
+  significance: 8.5
+  experience: 8.0
+  depth: 7.5
+  categories:
+    history: 8.8
+    culture: 8.5
+    architecture: 7.9

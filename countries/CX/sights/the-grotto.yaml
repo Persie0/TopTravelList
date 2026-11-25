@@ -1,0 +1,15 @@
+id: sight-cx-the-grotto
+name: "The Grotto"
+location:
+  country_code: CX
+  latitude: -10.42317
+  longitude: 105.70229
+scores:
+  impact: 8.3
+  uniqueness: 8.2
+  significance: 7.3
+  experience: 7.8
+  depth: 6.8
+  categories:
+    nature: 8.4
+    photography: 8.6

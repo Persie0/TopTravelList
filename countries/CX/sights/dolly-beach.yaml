@@ -1,0 +1,17 @@
+id: sight-cx-dolly-beach
+name: "Dolly Beach"
+location:
+  country_code: CX
+  latitude: -10.52111
+  longitude: 105.675
+scores:
+  impact: 8.8
+  uniqueness: 8.6
+  significance: 8.5
+  experience: 8.1
+  depth: 7.6
+  categories:
+    beaches: 8.9
+    nature: 8.7
+    wildlife: 8.7
+    photography: 8.9
