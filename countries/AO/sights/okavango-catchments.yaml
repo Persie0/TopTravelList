@@ -1,0 +1,15 @@
+id: sight-ao-okavango-catchments
+name: "Cubango–Okavango–Cuando–Zambezi Catchments (Angola)"
+location:
+  country_code: AO
+  latitude: -15.5
+  longitude: 19.5
+scores:
+  impact: null
+  uniqueness: 9.4
+  significance: 9.6
+  experience: null
+  depth: null
+  categories:
+    nature: 9.6
+    wildlife: 9.5
