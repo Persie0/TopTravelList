@@ -1,0 +1,15 @@
+id: sight-st-sao-nicolau-waterfall
+name: "São Nicolau Waterfall"
+location:
+  country_code: ST
+  latitude: 0.2740
+  longitude: 6.6160
+scores:
+  impact: 8.5
+  uniqueness: 8.1
+  significance: 6.6
+  experience: 8.2
+  depth: 6.5
+  categories:
+    nature: 8.6
+    photography: 9.0

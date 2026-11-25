@@ -1,0 +1,16 @@
+id: sight-ec-iglesia-de-la-compania-de-jesus-quito
+name: "Iglesia de la Compañía de Jesús (Quito)"
+location:
+  country_code: EC
+  latitude: -0.2204
+  longitude: -78.5144
+scores:
+  impact: 9.1
+  uniqueness: 8.9
+  significance: 9.1
+  experience: 8.5
+  depth: 7.7
+  categories:
+    architecture: 9.6
+    history: 9.2
+    culture: 9.0

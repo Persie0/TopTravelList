@@ -1,0 +1,17 @@
+id: sight-st-roca-sao-joao-dos-angolares
+name: "Roça São João dos Angolares"
+location:
+  country_code: ST
+  latitude: 0.140222
+  longitude: 6.646222
+scores:
+  impact: 8.0
+  uniqueness: 8.4
+  significance: 9.1
+  experience: 8.6
+  depth: 7.7
+  categories:
+    history: 9.3
+    culture: 9.0
+    food: 8.9
+    architecture: 8.4

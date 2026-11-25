@@ -1,0 +1,16 @@
+id: sight-br-praia-dos-carneiros
+name: "Praia dos Carneiros"
+location:
+  country_code: BR
+  latitude: -8.6950
+  longitude: -35.0900
+scores:
+  impact: 8.7
+  uniqueness: 8.3
+  significance: 6.3
+  experience: 8.9
+  depth: 7.3
+  categories:
+    beaches: 9.4
+    relaxation: 9.2
+    photography: 9.1

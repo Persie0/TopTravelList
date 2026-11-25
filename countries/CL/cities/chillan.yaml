@@ -1,0 +1,16 @@
+id: city-cl-chillan
+name: "Chillán"
+location:
+  country_code: CL
+  latitude: -36.6066
+  longitude: -72.1034
+scores:
+  impact: 6.7
+  uniqueness: 7.1
+  significance: 7.4
+  experience: 7.5
+  depth: 6.9
+  categories:
+    culture: 8.0
+    history: 8.0
+    food: 7.8

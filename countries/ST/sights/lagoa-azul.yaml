@@ -1,0 +1,16 @@
+id: sight-st-lagoa-azul
+name: "Lagoa Azul"
+location:
+  country_code: ST
+  latitude: 0.4040
+  longitude: 6.6020
+scores:
+  impact: 8.6
+  uniqueness: 8.4
+  significance: 6.6
+  experience: 8.6
+  depth: 7.2
+  categories:
+    nature: 8.8
+    adventure: 8.8
+    photography: 8.9

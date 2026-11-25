@@ -1,0 +1,14 @@
+id: city-am-sisian
+name: "Sisian"
+location:
+  country_code: AM
+  latitude: 39.522
+  longitude: 46.032
+scores:
+  impact: 6.5
+  uniqueness: 6.8
+  significance: 6.9
+  experience: 7.1
+  depth: 6.4
+  categories:
+    culture: 7.4

@@ -1,0 +1,18 @@
+id: city-br-rio-de-janeiro
+name: "Rio de Janeiro"
+location:
+  country_code: BR
+  latitude: -22.9068
+  longitude: -43.1729
+scores:
+  impact: 9.5
+  uniqueness: 9.4
+  significance: 9.2
+  experience: 9.0
+  depth: 9.6
+  categories:
+    culture: 9.5
+    photography: 9.8
+    beaches: 9.5
+    architecture: 9.0
+    food: 9.0

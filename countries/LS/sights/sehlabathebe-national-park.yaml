@@ -1,0 +1,17 @@
+id: sight-ls-sehlabathebe-national-park
+name: "Sehlabathebe National Park"
+location:
+  country_code: LS
+  latitude: -29.915278
+  longitude: 29.123056
+scores:
+  impact: 9.1
+  uniqueness: 9.0
+  significance: 9.3
+  experience: 8.6
+  depth: 8.8
+  categories:
+    nature: 9.4
+    photography: 9.4
+    adventure: 9.0
+    history: 8.7

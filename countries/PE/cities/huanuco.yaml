@@ -1,0 +1,15 @@
+id: city-pe-huanuco
+name: "Huánuco"
+location:
+  country_code: PE
+  latitude: -9.9306
+  longitude: -76.2422
+scores:
+  impact: 6.7
+  uniqueness: 7.0
+  significance: 7.1
+  experience: 7.4
+  depth: 6.8
+  categories:
+    culture: 7.7
+    history: 7.6

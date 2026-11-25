@@ -1,0 +1,16 @@
+id: sight-bw-khutse-game-reserve
+name: "Khutse Game Reserve"
+location:
+  country_code: BW
+  latitude: -23.3000
+  longitude: 24.2000
+scores:
+  impact: 8.4
+  uniqueness: 8.4
+  significance: 7.9
+  experience: 8.1
+  depth: 8.0
+  categories:
+    nature: 8.8
+    wildlife: 8.9
+    adventure: 8.5

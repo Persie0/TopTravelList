@@ -476,3 +476,54 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Identity / context source](https://www.visitsanmarino.com/pub2/VisitSM/en/luogo/ITINERARI-NATURALISTICI/Sentiero-Monte-Cerreto.html) — search result or page inspected 2026-11-25. Official named park trail. Does not verify all claims.
 - Remaining gaps: claim-level corroboration, current opening conditions, exact coordinates except documented map checks, and full category-specific comparisons. Shared ladders may mix scope.
+
+## Reassessment: sight-sm-witches-pass — 2026-11-25 (oldest-PR review)
+
+- [YAML](../../../countries/SM/sights/witches-pass.yaml) · Action: rescore · **source-linked-unverified** (specific scope claim checked; other claims and coordinates not fully checked).
+- Earlier decision: [original entry](#sight-sm-witches-pass-w--2026-11-25) above.
+- Source reviewed 2026-11-25: [https://visitsanmarino.com/pub2/VisitSM/en/luogo/Arte-e-cultura/Seconda-Torre.html](https://visitsanmarino.com/pub2/VisitSM/en/luogo/Arte-e-cultura/Seconda-Torre.html). Visit San Marino identifies the passage as the link between Guaita and Cesta. Rate its own ridge walk and outlook rather than either fortress. Strong scenic impact and photography remain; comparable cliff walks reduce global rarity. Historical importance is contextual, the route is rewarding but short, and exploration is bounded.
+- Core I/U/S/E/D: 8.8 / 8.6 / 7.7 / 8.7 / 7.1 → 8.4 / 8.1 / 7.2 / 8.4 / 6.5. Total: 83.45/100 → 78.95/100.
+- Category changes: {'photography': 9.3, 'nature': 8.8, 'architecture': 8.8} → {'photography': 9.0, 'nature': 8.4, 'architecture': 8.0}.
+- No new 9.5+ or perfect tens. Coordinates retained as approximate.
+
+| Current worldwide peer | I/U/S/E/D | Overall | Comparison |
+| --- | --- | --- | --- |
+| [Hallstatt Skywalk](../../../countries/AT/sights/hallstatt-skywalk.yaml) | 7.9 / 8.0 / 6.4 / 8.5 / 6.3 | 75.55/100 | Bounded scenic overlook |
+| [Gaflei Lookout Tower](../../../countries/LI/sights/gaflei-lookout-tower.yaml) | 7.7 / 7.6 / 6.4 / 8.0 / 6.5 | 73.40/100 | Focused lookout rather than entire landscape |
+| [Srebrenik Fortress](../../../countries/BA/sights/srebrenik-fortress.yaml) | 8.5 / 8.6 / 8.4 / 8.4 / 7.8 | 84.20/100 | Full hilltop fort has greater architectural scope |
+| [Stari Bar Fortress and Ruins](../../../countries/ME/sights/stari-bar-fortress-and-ruins.yaml) | 8.8 / 8.9 / 9.0 / 8.8 / 8.6 | 88.45/100 | Broader fortification ensemble |
+
+
+## Reassessment: sight-sm-montale-third-tower-exterior — 2026-11-25 (oldest-PR review)
+
+- [YAML](../../../countries/SM/sights/montale-third-tower-exterior.yaml) · Action: rescore · **source-linked-unverified** (specific scope claim checked; other claims and coordinates not fully checked).
+- Earlier decision: [original entry](#sight-sm-montale-third-tower-exterior---w--2026-11-25) above.
+- Source reviewed 2026-11-25: [https://www.visitsanmarino.com/pub1/VisitSM/en/luogo/Arte-e-cultura/Terza-Torre-Montale.html](https://www.visitsanmarino.com/pub1/VisitSM/en/luogo/Arte-e-cultura/Terza-Torre-Montale.html). Visit San Marino confirms the isolated pentagonal tower, historical defensive lookout and exterior-only visitor scope. The visual effect and distinctive form deserve strong scores, but not the impact or rarity of entire forts. Historical merit remains substantial locally; no interior prison visit or full fortress circuit is credited.
+- Core I/U/S/E/D: 8.2 / 8.4 / 8.4 / 7.8 / 6.6 → 7.9 / 8.1 / 8.0 / 7.2 / 6.0. Total: 80.70/100 → 76.75/100.
+- Category changes: {'photography': 8.9, 'history': 8.8} → {'photography': 8.7, 'history': 8.4}.
+- No new 9.5+ or perfect tens. Coordinates retained as approximate.
+
+| Current worldwide peer | I/U/S/E/D | Overall | Comparison |
+| --- | --- | --- | --- |
+| [Hohensalzburg Fortress](../../../countries/AT/sights/hohensalzburg-fortress.yaml) | 9.1 / 9.1 / 9.3 / 9.4 / 8.9 | 91.65/100 | Much deeper full fortress |
+| [Srebrenik Fortress](../../../countries/BA/sights/srebrenik-fortress.yaml) | 8.5 / 8.6 / 8.4 / 8.4 / 7.8 | 84.20/100 | Larger defensive ensemble |
+| [St George Island Perast](../../../countries/ME/sights/st-george-island-perast.yaml) | 8.3 / 8.5 / 8.1 / 7.8 / 6.8 | 80.85/100 | Exterior-focused scenic heritage |
+| [Gaflei Lookout Tower](../../../countries/LI/sights/gaflei-lookout-tower.yaml) | 7.7 / 7.6 / 6.4 / 8.0 / 6.5 | 73.40/100 | Focused lookout with less independent historical significance |
+
+
+## Reassessment: sight-sm-monte-cerreto-path — 2026-11-25 (oldest-PR review)
+
+- [YAML](../../../countries/SM/sights/monte-cerreto-path.yaml) · Action: rescore · **source-linked-unverified** (specific scope claim checked; other claims and coordinates not fully checked).
+- Earlier decision: [original entry](#sight-sm-monte-cerreto-path----2026-11-25) above.
+- Source reviewed 2026-11-25: [https://www.visitsanmarino.com/pub2/VisitSM/en/luogo/ITINERARI-NATURALISTICI/Sentiero-Monte-Cerreto.html](https://www.visitsanmarino.com/pub2/VisitSM/en/luogo/ITINERARI-NATURALISTICI/Sentiero-Monte-Cerreto.html). The official trail description specifies approximately 1.91 km, 30 minutes and 71 m elevation change, with historical remains and views. A pleasant short woodland outing has moderate visual and rarity merits, a useful local history component, and rewarding but limited exploration. Do not borrow the adjacent adventure park or larger trail network.
+- Core I/U/S/E/D: 7.1 / 7.2 / 6.6 / 7.7 / 7.2 → 6.7 / 6.6 / 6.7 / 7.3 / 6.5. Total: 71.25/100 → 67.45/100.
+- Category changes: {'nature': 8.1, 'family': 8.0} → {'nature': 7.5, 'family': 7.7}.
+- No new 9.5+ or perfect tens. Coordinates retained as approximate.
+
+| Current worldwide peer | I/U/S/E/D | Overall | Comparison |
+| --- | --- | --- | --- |
+| [Fürstensteig–Drei Schwestern Trail](../../../countries/LI/sights/furstensteig-drei-schwestern-trail.yaml) | 8.8 / 8.6 / 7.4 / 8.7 / 8.4 | 84.15/100 | Much stronger relief and route complexity |
+| [Walser Legend Trail](../../../countries/LI/sights/walser-legend-trail.yaml) | 7.5 / 7.9 / 7.5 / 8.1 / 7.7 | 77.10/100 | More developed themed trail |
+| [Hohe Wand Nature Park](../../../countries/AT/sights/hohe-wand-nature-park.yaml) | 7.6 / 7.2 / 6.3 / 8.2 / 8.0 | 73.70/100 | Broader landscape and exploration |
+| [Al-Hussein Public Parks](../../../countries/JO/sights/al-hussein-public-parks.yaml) | 6.6 / 6.4 / 6.2 / 7.5 / 7.3 | 66.75/100 | Ordinary recreational comparator |
+

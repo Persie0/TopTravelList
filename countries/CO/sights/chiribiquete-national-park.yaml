@@ -1,0 +1,16 @@
+id: sight-co-chiribiquete-national-park
+name: "Chiribiquete National Park"
+location:
+  country_code: CO
+  latitude: 0.0000
+  longitude: -72.7500
+scores:
+  impact: null
+  uniqueness: 9.8
+  significance: 9.8
+  experience: null
+  depth: null
+  categories:
+    nature: 9.8
+    history: 9.7
+    wildlife: 9.5

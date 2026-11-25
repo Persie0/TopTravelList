@@ -1,0 +1,16 @@
+id: sight-cl-laguna-san-rafael-national-park
+name: "Laguna San Rafael National Park"
+location:
+  country_code: CL
+  latitude: -46.6500
+  longitude: -73.8500
+scores:
+  impact: 9.4
+  uniqueness: 9.2
+  significance: 9.1
+  experience: 8.2
+  depth: 8.6
+  categories:
+    nature: 9.6
+    photography: 9.6
+    adventure: 8.9

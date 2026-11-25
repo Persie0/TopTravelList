@@ -1,0 +1,15 @@
+id: city-st-pantufo
+name: "Pantufo"
+location:
+  country_code: ST
+  latitude: 0.3150
+  longitude: 6.7500
+scores:
+  impact: 6.8
+  uniqueness: 7.4
+  significance: 6.4
+  experience: 7.3
+  depth: 6.0
+  categories:
+    culture: 7.8
+    food: 7.7

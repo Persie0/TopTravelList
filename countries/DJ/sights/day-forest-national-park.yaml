@@ -1,0 +1,16 @@
+id: sight-dj-day-forest-national-park
+name: "Day Forest National Park"
+location:
+  country_code: DJ
+  latitude: 11.800000
+  longitude: 42.683333
+scores:
+  impact: 8.3
+  uniqueness: 8.7
+  significance: 8.8
+  experience: 8.1
+  depth: 7.7
+  categories:
+    nature: 9.2
+    wildlife: 9.1
+    adventure: 8.3

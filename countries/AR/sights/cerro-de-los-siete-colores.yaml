@@ -1,0 +1,15 @@
+id: sight-ar-cerro-de-los-siete-colores
+name: "Cerro de los Siete Colores"
+location:
+  country_code: AR
+  latitude: -23.7470
+  longitude: -65.5050
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 7.6
+  experience: 8.5
+  depth: 7.0
+  categories:
+    nature: 9.2
+    photography: 9.5

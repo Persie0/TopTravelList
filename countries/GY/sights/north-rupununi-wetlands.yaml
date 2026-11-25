@@ -1,0 +1,16 @@
+id: sight-gy-north-rupununi-wetlands
+name: "North Rupununi Wetlands"
+location:
+  country_code: GY
+  latitude: 4.1500
+  longitude: -59.0000
+scores:
+  impact: 8.5
+  uniqueness: 8.7
+  significance: 8.8
+  experience: 8.5
+  depth: 8.6
+  categories:
+    wildlife: 9.3
+    nature: 9.0
+    photography: 8.9

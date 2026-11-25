@@ -1,0 +1,15 @@
+id: sight-ec-manglares-churute-ecological-reserve
+name: "Manglares Churute Ecological Reserve"
+location:
+  country_code: EC
+  latitude: -2.4300
+  longitude: -79.6300
+scores:
+  impact: 8.1
+  uniqueness: 8.3
+  significance: 8.5
+  experience: 8.1
+  depth: 7.8
+  categories:
+    wildlife: 8.9
+    nature: 8.9

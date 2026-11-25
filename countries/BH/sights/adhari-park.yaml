@@ -1,0 +1,14 @@
+id: sight-bh-adhari-park
+name: "Adhari Park"
+location:
+  country_code: BH
+  latitude: 26.2050
+  longitude: 50.5440
+scores:
+  impact: 6.9
+  uniqueness: 6.5
+  significance: 5.5
+  experience: 7.9
+  depth: 7.3
+  categories:
+    family: 8.3

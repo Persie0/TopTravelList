@@ -1,0 +1,14 @@
+id: sight-om-falaj-al-jeela
+name: "Falaj Al Jeela"
+location:
+  country_code: OM
+  latitude: 22.879
+  longitude: 59.111
+scores:
+  impact: null
+  uniqueness: 8.4
+  significance: 8.6
+  experience: null
+  depth: null
+  categories:
+    history: 8.8
