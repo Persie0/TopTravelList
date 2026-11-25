@@ -1,0 +1,16 @@
+id: city-bz-hopkins
+name: "Hopkins"
+location:
+  country_code: BZ
+  latitude: 16.8610
+  longitude: -88.2850
+scores:
+  impact: 7.6
+  uniqueness: 8.3
+  significance: 7.8
+  experience: 8.2
+  depth: 6.9
+  categories:
+    culture: 8.7
+    relaxation: 8.4
+    beaches: 8.0

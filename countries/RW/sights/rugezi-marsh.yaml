@@ -1,0 +1,15 @@
+id: sight-rw-rugezi-marsh
+name: "Rugezi Marsh"
+location:
+  country_code: RW
+  latitude: -1.4760
+  longitude: 29.8770
+scores:
+  impact: 7.8
+  uniqueness: 8.5
+  significance: 8.8
+  experience: 7.6
+  depth: 7.1
+  categories:
+    wildlife: 8.9
+    nature: 9.0

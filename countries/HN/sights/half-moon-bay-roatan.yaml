@@ -1,0 +1,15 @@
+id: sight-hn-half-moon-bay-roatan
+name: "Half Moon Bay (Roatán)"
+location:
+  country_code: HN
+  latitude: 16.3070
+  longitude: -86.5960
+scores:
+  impact: 8.1
+  uniqueness: 7.8
+  significance: 6.5
+  experience: 8.5
+  depth: 7.2
+  categories:
+    beaches: 8.5
+    relaxation: 8.7

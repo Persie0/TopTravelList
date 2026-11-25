@@ -1,0 +1,16 @@
+id: sight-br-tijuca-national-park
+name: "Tijuca National Park"
+location:
+  country_code: BR
+  latitude: -22.9550
+  longitude: -43.2800
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 8.8
+  experience: 8.6
+  depth: 8.9
+  categories:
+    nature: 9.4
+    adventure: 8.9
+    photography: 9.1

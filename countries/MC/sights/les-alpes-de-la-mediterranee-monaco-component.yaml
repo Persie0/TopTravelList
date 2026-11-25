@@ -1,0 +1,14 @@
+id: sight-mc-les-alpes-de-la-mediterranee-monaco-component
+name: "Les Alpes de la Méditerranée (Monaco component)"
+location:
+  country_code: MC
+  latitude: 43.7384
+  longitude: 7.4246
+scores:
+  impact: null
+  uniqueness: 8.5
+  significance: 8.6
+  experience: null
+  depth: null
+  categories:
+    nature: 9.0

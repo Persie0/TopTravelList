@@ -1,0 +1,15 @@
+id: sight-bh-bahrain-national-museum
+name: "Bahrain National Museum"
+location:
+  country_code: BH
+  latitude: 26.2415
+  longitude: 50.5980
+scores:
+  impact: 8.3
+  uniqueness: 8.4
+  significance: 8.9
+  experience: 8.6
+  depth: 8.5
+  categories:
+    history: 9.1
+    culture: 8.9

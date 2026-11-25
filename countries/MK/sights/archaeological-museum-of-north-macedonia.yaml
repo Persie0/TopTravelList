@@ -1,0 +1,15 @@
+id: sight-mk-archaeological-museum-of-north-macedonia
+name: "Archaeological Museum of North Macedonia"
+location:
+  country_code: MK
+  latitude: 41.9973
+  longitude: 21.4350
+scores:
+  impact: 8.0
+  uniqueness: 8.1
+  significance: 8.6
+  experience: 8.2
+  depth: 8.3
+  categories:
+    history: 8.9
+    culture: 8.7

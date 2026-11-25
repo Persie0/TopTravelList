@@ -1,0 +1,16 @@
+id: sight-va-braccio-nuovo-new-wing
+name: "Braccio Nuovo (New Wing)"
+location:
+  country_code: VA
+  latitude: 41.90571
+  longitude: 12.45344
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 8.8
+  depth: 8.2
+  categories:
+    architecture: 9.2
+    culture: 9.3
+    history: 9.2

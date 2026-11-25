@@ -1,0 +1,15 @@
+id: city-br-cuiaba
+name: "Cuiabá"
+location:
+  country_code: BR
+  latitude: -15.6014
+  longitude: -56.0979
+scores:
+  impact: 6.7
+  uniqueness: 7.4
+  significance: 7.2
+  experience: 7.4
+  depth: 7.2
+  categories:
+    food: 8.4
+    culture: 8.1

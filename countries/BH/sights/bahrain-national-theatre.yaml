@@ -1,0 +1,15 @@
+id: sight-bh-bahrain-national-theatre
+name: "Bahrain National Theatre"
+location:
+  country_code: BH
+  latitude: 26.2430
+  longitude: 50.5980
+scores:
+  impact: 7.7
+  uniqueness: 7.7
+  significance: 7.5
+  experience: 8.0
+  depth: 7.1
+  categories:
+    architecture: 8.4
+    culture: 8.3

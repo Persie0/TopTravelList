@@ -1,0 +1,16 @@
+id: sight-bz-caracol-archaeological-reserve
+name: "Caracol Archaeological Reserve"
+location:
+  country_code: BZ
+  latitude: 16.763
+  longitude: -89.117
+scores:
+  impact: 9.1
+  uniqueness: 9.1
+  significance: 9.4
+  experience: 8.9
+  depth: 8.9
+  categories:
+    history: 9.4
+    architecture: 9.3
+    photography: 9.0

@@ -1,0 +1,16 @@
+id: sight-br-sao-bento-monastery-rio-de-janeiro
+name: "São Bento Monastery (Rio de Janeiro)"
+location:
+  country_code: BR
+  latitude: -22.8970
+  longitude: -43.1770
+scores:
+  impact: 8.4
+  uniqueness: 8.6
+  significance: 8.7
+  experience: 8.3
+  depth: 6.8
+  categories:
+    architecture: 9.4
+    history: 9.0
+    culture: 8.9

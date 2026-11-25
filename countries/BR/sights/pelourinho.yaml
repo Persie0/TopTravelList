@@ -1,0 +1,16 @@
+id: sight-br-pelourinho
+name: "Pelourinho"
+location:
+  country_code: BR
+  latitude: -12.9730
+  longitude: -38.5090
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 9.1
+  experience: 8.4
+  depth: 7.9
+  categories:
+    architecture: 9.4
+    culture: 9.5
+    history: 9.3

@@ -1,0 +1,16 @@
+id: city-qa-doha
+name: "Doha"
+location:
+  country_code: QA
+  latitude: 25.2854
+  longitude: 51.5310
+scores:
+  impact: 8.5
+  uniqueness: 8.4
+  significance: 8.1
+  experience: 8.9
+  depth: 8.8
+  categories:
+    architecture: 9.0
+    culture: 8.6
+    food: 8.5

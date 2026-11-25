@@ -1,0 +1,16 @@
+id: sight-ve-salto-sapo
+name: "Salto Sapo"
+location:
+  country_code: VE
+  latitude: 6.2400
+  longitude: -62.8650
+scores:
+  impact: 8.5
+  uniqueness: 8.4
+  significance: 7.4
+  experience: 8.4
+  depth: 7.0
+  categories:
+    nature: 8.9
+    photography: 8.8
+    adventure: 8.5

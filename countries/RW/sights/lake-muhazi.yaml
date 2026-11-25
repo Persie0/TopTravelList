@@ -1,0 +1,16 @@
+id: sight-rw-lake-muhazi
+name: "Lake Muhazi"
+location:
+  country_code: RW
+  latitude: -1.8720
+  longitude: 30.4060
+scores:
+  impact: 7.7
+  uniqueness: 7.6
+  significance: 6.6
+  experience: 8.1
+  depth: 7.7
+  categories:
+    nature: 8.1
+    relaxation: 8.4
+    photography: 8.3

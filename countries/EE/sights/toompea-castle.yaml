@@ -1,0 +1,15 @@
+id: sight-ee-toompea-castle
+name: "Toompea Castle"
+location:
+  country_code: EE
+  latitude: 59.436
+  longitude: 24.738
+scores:
+  impact: 7.9
+  uniqueness: 8.1
+  significance: 8.5
+  experience: 7.5
+  depth: 7.2
+  categories:
+    architecture: 8.5
+    history: 8.8

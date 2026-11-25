@@ -2,19 +2,32 @@
 
 # North Macedonia (MK) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**14 ranked** · **0 unassessed** · **14 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
 This is the **complete ranking for this country's available dataset**, using absolute worldwide scores, **not country-relative scores**. Overall scores are out of 100; category scores are out of 10 and shown highest first (the top three are bold). Types are inferred from names, not separately verified.
 
-**Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, or click its GPS coordinates to open **Google Maps**. Locations are approximate representative points, not necessarily entrance coordinates.
+**Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (14)
 
-No cities, towns & villages have been assessed for **North Macedonia** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Ohrid](cities/ohrid.yaml) | City / town | **89.70** | **History 9.4**, **Photography 9.4**, **Architecture 9.2**, Culture 9.2 | 8.9 / 9.1 / 9.1 / 8.9 / 8.7 | [41.1172, 20.8016](https://www.google.com/maps/search/?api=1&query=41.1172,20.8016) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ohrid%2C%20North%20Macedonia) |
+| 2 | [Skopje](cities/skopje.yaml) | City / town | **83.15** | **Culture 8.9**, **History 8.8**, **Food 8.7** | 8.0 / 8.4 / 8.4 / 8.5 / 8.6 | [41.9981, 21.4254](https://www.google.com/maps/search/?api=1&query=41.9981,21.4254) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Skopje%2C%20North%20Macedonia) |
+| 3 | [Bitola](cities/bitola.yaml) | City / town | **82.30** | **History 8.9**, **Architecture 8.8**, **Culture 8.7** | 8.1 / 8.2 / 8.4 / 8.4 / 8.1 | [41.0314, 21.3347](https://www.google.com/maps/search/?api=1&query=41.0314,21.3347) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bitola%2C%20North%20Macedonia) |
+| 4 | [Kruševo](cities/krusevo.yaml) | City / town | **81.50** | **History 9.0**, **Photography 8.8**, **Architecture 8.6** | 8.0 / 8.3 / 8.5 / 8.1 / 7.6 | [41.3689, 21.2481](https://www.google.com/maps/search/?api=1&query=41.3689,21.2481) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kru%C5%A1evo%2C%20North%20Macedonia) |
+| 5 | [Kratovo](cities/kratovo.yaml) | City / town | **79.75** | **Architecture 8.8**, **Photography 8.7**, **History 8.5** | 7.9 / 8.3 / 8.0 / 8.0 / 7.3 | [42.0792, 22.1814](https://www.google.com/maps/search/?api=1&query=42.0792,22.1814) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kratovo%2C%20North%20Macedonia) |
+| 6 | [Struga](cities/struga.yaml) | City / town | **79.10** | **Relaxation 8.7**, **Culture 8.6** | 7.9 / 7.8 / 7.8 / 8.4 / 7.7 | [41.1775, 20.6775](https://www.google.com/maps/search/?api=1&query=41.1775,20.6775) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Struga%2C%20North%20Macedonia) |
+| 7 | [Vevčani](cities/vevcani.yaml) | City / town | **77.40** | **Culture 8.7**, **Photography 8.4** | 7.7 / 8.0 / 7.6 / 8.0 / 7.1 | [41.24, 20.593](https://www.google.com/maps/search/?api=1&query=41.24,20.593) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Vev%C4%8Dani%2C%20North%20Macedonia) |
+| 8 | [Tetovo](cities/tetovo.yaml) | City / town | **77.00** | **Culture 8.6**, **Food 8.3** | 7.4 / 7.7 / 8.0 / 7.9 / 7.7 | [42.0092, 20.9701](https://www.google.com/maps/search/?api=1&query=42.0092,20.9701) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tetovo%2C%20North%20Macedonia) |
+| 9 | [Prilep](cities/prilep.yaml) | City / town | **76.90** | **History 8.5**, **Culture 8.2** | 7.5 / 7.6 / 8.0 / 7.8 / 7.7 | [41.3464, 21.5542](https://www.google.com/maps/search/?api=1&query=41.3464,21.5542) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Prilep%2C%20North%20Macedonia) |
+| 10 | [Mavrovo](cities/mavrovo.yaml) | City / town | **75.70** | **Relaxation 8.6**, **Photography 8.5** | 7.6 / 7.7 / 7.1 / 8.1 / 7.3 | [41.655, 20.733](https://www.google.com/maps/search/?api=1&query=41.655,20.733) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mavrovo%2C%20North%20Macedonia) |
+| 11 | [Veles](cities/veles.yaml) | City / town | **74.90** | **History 8.3**, **Culture 8.1** | 7.2 / 7.5 / 7.8 / 7.7 / 7.4 | [41.7156, 21.775](https://www.google.com/maps/search/?api=1&query=41.7156,21.775) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Veles%2C%20North%20Macedonia) |
+| 12 | [Berovo](cities/berovo.yaml) | City / town | **74.70** | **Relaxation 8.5**, **Culture 8.0** | 7.3 / 7.5 / 7.4 / 7.9 / 7.4 | [41.706, 22.857](https://www.google.com/maps/search/?api=1&query=41.706,22.857) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Berovo%2C%20North%20Macedonia) |
+| 13 | [Štip](cities/stip.yaml) | City / town | **74.05** | **History 8.3**, **Culture 8.0** | 7.1 / 7.4 / 7.7 / 7.7 / 7.3 | [41.7458, 22.1958](https://www.google.com/maps/search/?api=1&query=41.7458,22.1958) | [Google Maps](https://www.google.com/maps/search/?api=1&query=%C5%A0tip%2C%20North%20Macedonia) |
+| 14 | [Kumanovo](cities/kumanovo.yaml) | City / town | **72.20** | **Culture 8.1**, **Food 8.0** | 6.9 / 7.1 / 7.6 / 7.5 / 7.3 | [42.1322, 21.7144](https://www.google.com/maps/search/?api=1&query=42.1322,21.7144) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kumanovo%2C%20North%20Macedonia) |
 
 ---
 

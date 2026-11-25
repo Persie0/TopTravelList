@@ -1,0 +1,16 @@
+id: sight-sc-anse-intendance
+name: "Anse Intendance"
+location:
+  country_code: SC
+  latitude: -4.7830
+  longitude: 55.4920
+scores:
+  impact: 9.1
+  uniqueness: 8.5
+  significance: 6.7
+  experience: 8.2
+  depth: 7.2
+  categories:
+    beaches: 9.0
+    photography: 9.2
+    relaxation: 8.1

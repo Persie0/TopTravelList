@@ -1,0 +1,15 @@
+id: sight-qa-zekreet-fort-and-heritage-mosque
+name: "Zekreet Fort and Heritage Mosque"
+location:
+  country_code: QA
+  latitude: 25.4910
+  longitude: 50.8460
+scores:
+  impact: 6.8
+  uniqueness: 7.5
+  significance: 7.7
+  experience: 7.0
+  depth: 6.4
+  categories:
+    history: 8.0
+    architecture: 7.7

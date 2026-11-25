@@ -1,0 +1,15 @@
+id: city-am-stepanavan
+name: "Stepanavan"
+location:
+  country_code: AM
+  latitude: 41.009
+  longitude: 44.385
+scores:
+  impact: 6.8
+  uniqueness: 7.1
+  significance: 6.5
+  experience: 7.4
+  depth: 6.6
+  categories:
+    relaxation: 7.8
+    culture: 7.3

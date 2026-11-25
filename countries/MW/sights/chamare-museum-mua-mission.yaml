@@ -1,0 +1,15 @@
+id: sight-mw-chamare-museum-mua-mission
+name: "Chamare Museum (Mua Mission)"
+location:
+  country_code: MW
+  latitude: -14.2850
+  longitude: 34.5900
+scores:
+  impact: 7.1
+  uniqueness: 8.5
+  significance: 8.6
+  experience: 8.2
+  depth: 7.7
+  categories:
+    culture: 9.2
+    history: 9.0

@@ -1,0 +1,15 @@
+id: city-hn-punta-gorda-roatan
+name: "Punta Gorda (Roatán)"
+location:
+  country_code: HN
+  latitude: 16.4010
+  longitude: -86.3680
+scores:
+  impact: 7.3
+  uniqueness: 8.3
+  significance: 8.2
+  experience: 7.8
+  depth: 6.5
+  categories:
+    culture: 8.9
+    history: 8.5

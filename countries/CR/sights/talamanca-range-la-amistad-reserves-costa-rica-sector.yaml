@@ -1,0 +1,15 @@
+id: sight-cr-talamanca-range-la-amistad-reserves-costa-rica-sector
+name: "Talamanca Range-La Amistad Reserves (Costa Rica sector)"
+location:
+  country_code: CR
+  latitude: 9.40
+  longitude: -83.12
+scores:
+  impact: null
+  uniqueness: 9.4
+  significance: 9.6
+  experience: null
+  depth: null
+  categories:
+    nature: 9.5
+    wildlife: 9.5

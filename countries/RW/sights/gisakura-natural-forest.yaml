@@ -1,0 +1,14 @@
+id: sight-rw-gisakura-natural-forest
+name: "Gisakura Natural Forest"
+location:
+  country_code: RW
+  latitude: -2.4520
+  longitude: 29.0870
+scores:
+  impact: null
+  uniqueness: null
+  significance: 8.6
+  experience: null
+  depth: null
+  categories:
+    nature: 8.8

@@ -1,0 +1,17 @@
+id: sight-sr-central-suriname-nature-reserve
+name: "Central Suriname Nature Reserve"
+location:
+  country_code: SR
+  latitude: 4
+  longitude: -56.5
+scores:
+  impact: 9.1
+  uniqueness: 9.1
+  significance: 9.6
+  experience: 8.3
+  depth: 8.8
+  categories:
+    nature: 9.6
+    wildlife: 9.4
+    adventure: 9.0
+    photography: 9.1

@@ -1,0 +1,16 @@
+id: sight-ad-pic-de-l-estanyo
+name: "Pic de l’Estanyó"
+location:
+  country_code: AD
+  latitude: 42.6150
+  longitude: 1.5880
+scores:
+  impact: 8.6
+  uniqueness: 8.2
+  significance: 7.3
+  experience: 8.4
+  depth: 7.7
+  categories:
+    nature: 9.1
+    adventure: 9.2
+    photography: 9.1

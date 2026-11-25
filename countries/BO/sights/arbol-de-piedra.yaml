@@ -1,0 +1,15 @@
+id: sight-bo-arbol-de-piedra
+name: "Árbol de Piedra"
+location:
+  country_code: BO
+  latitude: -22.0470
+  longitude: -67.8830
+scores:
+  impact: 8.3
+  uniqueness: 8.6
+  significance: 7.3
+  experience: 8.1
+  depth: 6.2
+  categories:
+    nature: 8.7
+    photography: 9.0

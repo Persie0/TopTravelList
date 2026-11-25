@@ -1,0 +1,15 @@
+id: sight-br-brazilian-fortresses-ensemble
+name: "Brazilian Fortresses Ensemble"
+location:
+  country_code: BR
+  latitude: -22.9000
+  longitude: -43.1600
+scores:
+  impact: null
+  uniqueness: 8.9
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    history: 9.4
+    architecture: 9.2

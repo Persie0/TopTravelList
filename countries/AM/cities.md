@@ -2,19 +2,38 @@
 
 # Armenia (AM) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**20 ranked** · **0 unassessed** · **20 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
 This is the **complete ranking for this country's available dataset**, using absolute worldwide scores, **not country-relative scores**. Overall scores are out of 100; category scores are out of 10 and shown highest first (the top three are bold). Types are inferred from names, not separately verified.
 
-**Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, or click its GPS coordinates to open **Google Maps**. Locations are approximate representative points, not necessarily entrance coordinates.
+**Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (20)
 
-No cities, towns & villages have been assessed for **Armenia** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Yerevan](cities/yerevan.yaml) | City / town | **86.05** | **Culture 9.1**, **Food 8.9**, **Architecture 8.8**, History 8.8 | 8.5 / 8.5 / 8.6 / 8.8 / 8.9 | [40.1792, 44.4991](https://www.google.com/maps/search/?api=1&query=40.1792,44.4991) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Yerevan%2C%20Armenia) |
+| 2 | [Gyumri](cities/gyumri.yaml) | City / town | **82.90** | **Architecture 9.0**, **Culture 8.9**, **History 8.5** | 8.2 / 8.6 / 8.1 / 8.4 / 8.0 | [40.7894, 43.8475](https://www.google.com/maps/search/?api=1&query=40.7894,43.8475) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Gyumri%2C%20Armenia) |
+| 3 | [Vagharshapat (Etchmiadzin)](cities/vagharshapat-etchmiadzin.yaml) | City / town | **81.95** | **History 9.2**, **Culture 9.1**, **Architecture 8.6** | 7.8 / 8.4 / 8.9 / 8.1 / 7.6 | [40.162, 44.292](https://www.google.com/maps/search/?api=1&query=40.162,44.292) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Vagharshapat%20%28Etchmiadzin%29%2C%20Armenia) |
+| 4 | [Goris](cities/goris.yaml) | City / town | **81.55** | **Photography 8.8**, **Architecture 8.7**, **Culture 8.2** | 8.3 / 8.5 / 7.7 / 8.4 / 7.4 | [39.508, 46.338](https://www.google.com/maps/search/?api=1&query=39.508,46.338) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Goris%2C%20Armenia) |
+| 5 | [Dilijan](cities/dilijan.yaml) | City / town | **78.50** | **Relaxation 8.6**, **Architecture 8.2**, **Culture 8.1** | 7.9 / 8.0 / 7.3 / 8.4 / 7.6 | [40.741, 44.863](https://www.google.com/maps/search/?api=1&query=40.741,44.863) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Dilijan%2C%20Armenia) |
+| 6 | [Meghri](cities/meghri.yaml) | City / town | **77.45** | **Food 8.5**, **Culture 8.4**, **Architecture 8.1** | 7.6 / 8.1 / 7.7 / 8.0 / 7.0 | [38.902, 46.244](https://www.google.com/maps/search/?api=1&query=38.902,46.244) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Meghri%2C%20Armenia) |
+| 7 | [Jermuk](cities/jermuk.yaml) | City / town | **76.45** | **Relaxation 8.7**, **Photography 8.2** | 7.7 / 7.9 / 7.0 / 8.2 / 7.3 | [39.841, 45.669](https://www.google.com/maps/search/?api=1&query=39.841,45.669) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Jermuk%2C%20Armenia) |
+| 8 | [Areni](cities/areni.yaml) | City / town | **76.25** | **Food 8.8**, **Culture 8.5** | 7.3 / 8.1 / 7.5 / 8.2 / 6.8 | [39.72, 45.183](https://www.google.com/maps/search/?api=1&query=39.72,45.183) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Areni%2C%20Armenia) |
+| 9 | [Yeghegis](cities/yeghegis.yaml) | City / town | **75.85** | **History 8.6**, **Culture 8.2** | 7.3 / 8.0 / 8.0 / 7.7 / 6.4 | [39.872, 45.354](https://www.google.com/maps/search/?api=1&query=39.872,45.354) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Yeghegis%2C%20Armenia) |
+| 10 | [Dsegh](cities/dsegh.yaml) | City / town | **75.10** | **Culture 8.3**, **Photography 8.3** | 7.4 / 7.9 / 7.4 / 7.9 / 6.5 | [40.963, 44.65](https://www.google.com/maps/search/?api=1&query=40.963,44.65) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Dsegh%2C%20Armenia) |
+| 11 | [Garni](cities/garni.yaml) | City / town | **74.20** | **Culture 8.3**, **Food 8.1** | 7.2 / 7.7 / 7.4 / 7.9 / 6.7 | [40.119, 44.724](https://www.google.com/maps/search/?api=1&query=40.119,44.724) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Garni%2C%20Armenia) |
+| 12 | [Odzun](cities/odzun.yaml) | City / town | **73.75** | **Photography 8.2**, **Culture 8.0** | 7.3 / 7.6 / 7.4 / 7.7 / 6.5 | [41.051, 44.614](https://www.google.com/maps/search/?api=1&query=41.051,44.614) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Odzun%2C%20Armenia) |
+| 13 | [Alaverdi](cities/alaverdi.yaml) | City / town | **73.10** | **Photography 8.0**, **History 7.9** | 7.1 / 7.7 / 7.4 / 7.3 / 6.8 | [41.096, 44.661](https://www.google.com/maps/search/?api=1&query=41.096,44.661) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Alaverdi%2C%20Armenia) |
+| 14 | [Kapan](cities/kapan.yaml) | City / town | **72.55** | **Photography 7.9**, **Culture 7.7** | 7.1 / 7.5 / 7.2 / 7.4 / 7.0 | [39.202, 46.415](https://www.google.com/maps/search/?api=1&query=39.202,46.415) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kapan%2C%20Armenia) |
+| 15 | [Byurakan](cities/byurakan.yaml) | City / town | **71.30** | **Culture 7.8**, **History 7.8** | 6.9 / 7.4 / 7.3 / 7.4 / 6.4 | [40.339, 44.273](https://www.google.com/maps/search/?api=1&query=40.339,44.273) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Byurakan%2C%20Armenia) |
+| 16 | [Tsaghkadzor](cities/tsaghkadzor.yaml) | City / town | **70.35** | **Relaxation 8.0**, **Culture 7.3** | 7.0 / 7.2 / 6.5 / 7.7 / 6.8 | [40.532, 44.72](https://www.google.com/maps/search/?api=1&query=40.532,44.72) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tsaghkadzor%2C%20Armenia) |
+| 17 | [Vanadzor](cities/vanadzor.yaml) | City / town | **69.35** | **Culture 7.6**, **Food 7.6** | 6.6 / 6.9 / 7.0 / 7.4 / 7.2 | [40.812, 44.488](https://www.google.com/maps/search/?api=1&query=40.812,44.488) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Vanadzor%2C%20Armenia) |
+| 18 | [Yenokavan](cities/yenokavan.yaml) | City / town | **69.30** | **Photography 8.1**, **Relaxation 7.9** | 7.1 / 7.4 / 6.0 / 7.6 / 6.1 | [40.899, 45.111](https://www.google.com/maps/search/?api=1&query=40.899,45.111) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Yenokavan%2C%20Armenia) |
+| 19 | [Stepanavan](cities/stepanavan.yaml) | City / town | **68.85** | **Relaxation 7.8**, **Culture 7.3** | 6.8 / 7.1 / 6.5 / 7.4 / 6.6 | [41.009, 44.385](https://www.google.com/maps/search/?api=1&query=41.009,44.385) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Stepanavan%2C%20Armenia) |
+| 20 | [Sisian](cities/sisian.yaml) | City / town | **67.35** | **Culture 7.4** | 6.5 / 6.8 / 6.9 / 7.1 / 6.4 | [39.522, 46.032](https://www.google.com/maps/search/?api=1&query=39.522,46.032) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sisian%2C%20Armenia) |
 
 ---
 

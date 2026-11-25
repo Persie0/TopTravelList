@@ -1,0 +1,15 @@
+id: city-lu-beaufort
+name: "Beaufort"
+location:
+  country_code: LU
+  latitude: 49.8350
+  longitude: 6.2910
+scores:
+  impact: 7.3
+  uniqueness: 7.6
+  significance: 7.6
+  experience: 7.7
+  depth: 7.0
+  categories:
+    history: 8.1
+    relaxation: 8.0

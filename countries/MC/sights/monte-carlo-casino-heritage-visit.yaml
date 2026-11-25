@@ -1,0 +1,16 @@
+id: sight-mc-monte-carlo-casino-heritage-visit
+name: "Monte-Carlo Casino Heritage Visit"
+location:
+  country_code: MC
+  latitude: 43.7392
+  longitude: 7.4274
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 8.6
+  experience: 8.3
+  depth: 7.7
+  categories:
+    architecture: 9.2
+    history: 8.7
+    photography: 8.9

@@ -1,0 +1,16 @@
+id: sight-sr-kasikasima-mountain
+name: "Kasikasima Mountain"
+location:
+  country_code: SR
+  latitude: 2.9833
+  longitude: -55.4000
+scores:
+  impact: 8.9
+  uniqueness: 8.7
+  significance: 7.9
+  experience: 8.8
+  depth: 8.0
+  categories:
+    nature: 9.0
+    adventure: 9.2
+    photography: 9.2

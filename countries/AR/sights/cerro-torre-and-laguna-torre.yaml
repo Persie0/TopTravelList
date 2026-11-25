@@ -1,0 +1,16 @@
+id: sight-ar-cerro-torre-and-laguna-torre
+name: "Cerro Torre and Laguna Torre"
+location:
+  country_code: AR
+  latitude: -49.2920
+  longitude: -73.0980
+scores:
+  impact: 9.4
+  uniqueness: 9.3
+  significance: 8.2
+  experience: 8.8
+  depth: 8.2
+  categories:
+    nature: 9.5
+    photography: 9.7
+    adventure: 9.3

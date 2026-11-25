@@ -1,0 +1,15 @@
+id: city-co-san-jose-del-guaviare
+name: "San José del Guaviare"
+location:
+  country_code: CO
+  latitude: 2.5729
+  longitude: -72.6459
+scores:
+  impact: 6.6
+  uniqueness: 7.3
+  significance: 6.7
+  experience: 7.2
+  depth: 6.4
+  categories:
+    culture: 7.7
+    food: 7.5

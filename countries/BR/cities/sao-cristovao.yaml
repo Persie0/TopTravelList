@@ -1,0 +1,16 @@
+id: city-br-sao-cristovao
+name: "São Cristóvão"
+location:
+  country_code: BR
+  latitude: -11.0147
+  longitude: -37.2064
+scores:
+  impact: 7.3
+  uniqueness: 7.9
+  significance: 8.1
+  experience: 7.6
+  depth: 6.6
+  categories:
+    architecture: 8.6
+    history: 8.7
+    culture: 8.2

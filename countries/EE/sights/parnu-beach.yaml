@@ -1,0 +1,16 @@
+id: sight-ee-parnu-beach
+name: "Pärnu Beach"
+location:
+  country_code: EE
+  latitude: 58.373
+  longitude: 24.498
+scores:
+  impact: 7.7
+  uniqueness: 7.3
+  significance: 6.9
+  experience: 8.6
+  depth: 7.4
+  categories:
+    beaches: 8.5
+    relaxation: 8.8
+    family: 8.5

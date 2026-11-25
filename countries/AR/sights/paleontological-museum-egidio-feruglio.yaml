@@ -1,0 +1,16 @@
+id: sight-ar-paleontological-museum-egidio-feruglio
+name: "Paleontological Museum Egidio Feruglio"
+location:
+  country_code: AR
+  latitude: -43.2520
+  longitude: -65.3090
+scores:
+  impact: 8.4
+  uniqueness: 8.9
+  significance: 9.1
+  experience: 8.6
+  depth: 8.0
+  categories:
+    nature: 9.3
+    history: 9.0
+    culture: 8.5

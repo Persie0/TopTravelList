@@ -1,0 +1,15 @@
+id: sight-md-struve-geodetic-arc-rudi-survey-point
+name: "Struve Geodetic Arc — Rudi survey point"
+location:
+  country_code: MD
+  latitude: 48.318889
+  longitude: 27.876667
+scores:
+  impact: 6.5
+  uniqueness: 8.5
+  significance: 9.2
+  experience: 7.3
+  depth: 5.8
+  categories:
+    history: 9.2
+    culture: 8.3

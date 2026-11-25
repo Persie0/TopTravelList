@@ -1,0 +1,16 @@
+id: sight-am-haghpat-monastery
+name: "Haghpat Monastery"
+location:
+  country_code: AM
+  latitude: 41.093
+  longitude: 44.711
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 9.3
+  experience: 8.8
+  depth: 8.4
+  categories:
+    architecture: 9.4
+    history: 9.4
+    culture: 9.0

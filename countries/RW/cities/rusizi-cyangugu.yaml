@@ -1,0 +1,16 @@
+id: city-rw-rusizi-cyangugu
+name: "Rusizi (Cyangugu)"
+location:
+  country_code: RW
+  latitude: -2.4833
+  longitude: 28.9000
+scores:
+  impact: 7.3
+  uniqueness: 7.4
+  significance: 6.9
+  experience: 7.5
+  depth: 6.6
+  categories:
+    culture: 7.6
+    photography: 7.9
+    food: 7.6

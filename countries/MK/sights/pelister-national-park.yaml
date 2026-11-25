@@ -1,0 +1,16 @@
+id: sight-mk-pelister-national-park
+name: "Pelister National Park"
+location:
+  country_code: MK
+  latitude: 41.0090
+  longitude: 21.1910
+scores:
+  impact: 8.7
+  uniqueness: 8.7
+  significance: 8.6
+  experience: 8.8
+  depth: 8.8
+  categories:
+    nature: 9.3
+    adventure: 9.2
+    photography: 9.2

@@ -1,0 +1,15 @@
+id: city-co-puerto-inirida
+name: "Puerto Inírida"
+location:
+  country_code: CO
+  latitude: 3.8653
+  longitude: -67.9239
+scores:
+  impact: 6.5
+  uniqueness: 7.7
+  significance: 6.6
+  experience: 7.0
+  depth: 6.1
+  categories:
+    culture: 8.1
+    photography: 7.9

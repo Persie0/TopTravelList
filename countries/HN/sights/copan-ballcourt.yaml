@@ -1,0 +1,15 @@
+id: sight-hn-copan-ballcourt
+name: "Copán Ballcourt"
+location:
+  country_code: HN
+  latitude: 14.8378
+  longitude: -89.1415
+scores:
+  impact: 8.4
+  uniqueness: 8.6
+  significance: 8.9
+  experience: 8.3
+  depth: 7.2
+  categories:
+    history: 9.1
+    architecture: 8.8

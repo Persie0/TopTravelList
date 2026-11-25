@@ -1,0 +1,15 @@
+id: sight-tl-mundo-perdido-forest-landscape
+name: "Mundo Perdido Forest Landscape"
+location:
+  country_code: TL
+  latitude: -8.774
+  longitude: 126.393
+scores:
+  impact: null
+  uniqueness: 8.6
+  significance: 8.6
+  experience: null
+  depth: null
+  categories:
+    nature: 9.0
+    wildlife: 8.8

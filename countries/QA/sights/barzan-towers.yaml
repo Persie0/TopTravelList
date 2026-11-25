@@ -1,0 +1,15 @@
+id: sight-qa-barzan-towers
+name: "Barzan Towers"
+location:
+  country_code: QA
+  latitude: 25.4180
+  longitude: 51.4050
+scores:
+  impact: 7.2
+  uniqueness: 7.6
+  significance: 8.0
+  experience: 7.4
+  depth: 6.6
+  categories:
+    architecture: 8.1
+    history: 8.3
