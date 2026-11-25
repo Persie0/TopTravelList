@@ -1010,7 +1010,7 @@ All 20 city and 48 sight core vectors screened. I/U/S, GPS and categories unchan
 - Significance 9.0: longstanding national cultural-history collection, not an original intact medieval settlement.
 - Experience 8.8: indoor exhibitions and outdoor circuit, with seasonal demonstrations.
 - Depth 9.1: 160 historic buildings and centuries of interpreted everyday life, substantial exploration relative to type.
-- Categories: architecture 9.0, culture 9.3, history 9.1, family 8.7. Computed overall: 87.75/100.
+- Categories: architecture 9.0, culture 9.3, history 9.1, family 8.7. Computed overall: 87.80/100.
 - High-score challenge: not applicable; no 9.5+ or 90+ overall. No approved 10.
 - Evidence: [museum operator](https://norskfolkemuseum.no/en/about), [VisitOSLO](https://www.visitoslo.com/attraction/norsk-folkemuseum-norwegian-museum-of-cultural-history), [City of Oslo](https://www.oslo.kommune.no/english/welcome-to-oslo/norwegian-society/norwegian-culture-in-oslo/).
 - Verification still needed: precise representative GPS and current availability of specific indoor rooms and demonstrations.
