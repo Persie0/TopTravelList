@@ -1,0 +1,16 @@
+id: city-ua-odesa
+name: "Odesa"
+location:
+  country_code: UA
+  latitude: 46.4825
+  longitude: 30.7233
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 9.1
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.2
+    history: 9.3
+    culture: 9.2

@@ -1,0 +1,14 @@
+id: sight-gr-lavrion
+name: "Ancient Lavrion mining landscape"
+location:
+  country_code: GR
+  latitude: 37.72
+  longitude: 24.04
+scores:
+  impact: 8.1
+  uniqueness: 8.8
+  significance: 9.1
+  experience: null
+  depth: null
+  categories:
+    history: 9.3

@@ -1,0 +1,15 @@
+id: sight-ua-chernihiv-core
+name: "Historic Centre of Chernihiv (9th–13th centuries)"
+location:
+  country_code: UA
+  latitude: 51.489
+  longitude: 31.302
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 9.3
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.4
+    history: 9.5

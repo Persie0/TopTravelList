@@ -1,0 +1,15 @@
+id: sight-ua-bakhchysarai-palace
+name: "Bakhchysarai Palace of the Crimean Khans"
+location:
+  country_code: UA
+  latitude: 44.749
+  longitude: 33.882
+scores:
+  impact: 8.8
+  uniqueness: 9.2
+  significance: 9.4
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.5
+    history: 9.4

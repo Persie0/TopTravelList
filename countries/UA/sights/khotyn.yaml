@@ -1,0 +1,16 @@
+id: sight-ua-khotyn
+name: "Khotyn Fortress"
+location:
+  country_code: UA
+  latitude: 48.522
+  longitude: 26.498
+scores:
+  impact: 9.1
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.7
+  depth: 8.4
+  categories:
+    architecture: 9.4
+    history: 9.3
+    photography: 9.3

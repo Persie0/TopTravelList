@@ -1,0 +1,15 @@
+id: city-ua-ivano-frankivsk
+name: "Ivano-Frankivsk"
+location:
+  country_code: UA
+  latitude: 48.9226
+  longitude: 24.7111
+scores:
+  impact: 8.3
+  uniqueness: 8.4
+  significance: 8.4
+  experience: 8.6
+  depth: 8.2
+  categories:
+    architecture: 8.9
+    culture: 8.8

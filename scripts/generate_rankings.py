@@ -218,6 +218,11 @@ def render_country(code, folder, weights, version):
             "(https://www.gov.uk/foreign-travel-advice/cambodia) before visiting.",
             "",
         ]
+    if code == "UA":
+        lines[-2:-2] = [
+            "**Access advisory (checked 25 November 2026):** Scores describe normal-condition intrinsic merit, not current safety, accessibility or surviving condition. Active war and serious travel restrictions remain. Consult [current government travel advice](https://www.gov.uk/foreign-travel-advice/ukraine) and [UNESCO conservation reports](https://whc.unesco.org/en/statesparties/ua) before interpreting these rankings.",
+            "",
+        ]
     if ranked:
         lines.append(TABLE_HEADER)
         previous, rank = None, 0

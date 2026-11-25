@@ -1,0 +1,16 @@
+id: city-gr-mykonos-town
+name: "Mykonos Town"
+location:
+  country_code: GR
+  latitude: 37.4467
+  longitude: 25.3289
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 8.1
+  experience: 8.8
+  depth: 8.0
+  categories:
+    architecture: 9.2
+    photography: 9.4
+    nightlife: 9.1

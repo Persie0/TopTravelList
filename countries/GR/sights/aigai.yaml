@@ -1,0 +1,15 @@
+id: sight-gr-aigai
+name: "Archaeological Site of Aigai (Vergina)"
+location:
+  country_code: GR
+  latitude: 40.482
+  longitude: 22.318
+scores:
+  impact: 8.8
+  uniqueness: 9.3
+  significance: 9.5
+  experience: 9.0
+  depth: 8.8
+  categories:
+    history: 9.6
+    culture: 9.4
