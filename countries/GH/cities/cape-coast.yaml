@@ -1,0 +1,16 @@
+id: city-gh-cape-coast
+name: "Cape Coast"
+location:
+  country_code: GH
+  latitude: 5.105
+  longitude: -1.247
+scores:
+  impact: 7.9
+  uniqueness: 8.2
+  significance: 8.8
+  experience: 8.0
+  depth: 7.5
+  categories:
+    history: 9.1
+    culture: 8.5
+    architecture: 8.3

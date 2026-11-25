@@ -1,0 +1,15 @@
+id: sight-gh-manhyia-palace-museum
+name: "Manhyia Palace Museum"
+location:
+  country_code: GH
+  latitude: 6.699
+  longitude: -1.620
+scores:
+  impact: 7.9
+  uniqueness: 8.4
+  significance: 9.0
+  experience: 8.3
+  depth: 7.8
+  categories:
+    history: 9.2
+    culture: 9.1

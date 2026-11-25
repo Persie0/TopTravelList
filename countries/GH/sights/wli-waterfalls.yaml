@@ -1,0 +1,16 @@
+id: sight-gh-wli-waterfalls
+name: "Wli Waterfalls"
+location:
+  country_code: GH
+  latitude: 7.112
+  longitude: 0.585
+scores:
+  impact: 8.7
+  uniqueness: 8.3
+  significance: 7.3
+  experience: 8.6
+  depth: 7.5
+  categories:
+    nature: 8.9
+    photography: 9.1
+    adventure: 8.6
