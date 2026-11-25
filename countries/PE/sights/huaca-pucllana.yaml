@@ -1,0 +1,15 @@
+id: sight-pe-huaca-pucllana
+name: "Huaca Pucllana"
+location:
+  country_code: PE
+  latitude: -12.1110
+  longitude: -77.0330
+scores:
+  impact: 8.0
+  uniqueness: 8.5
+  significance: 8.6
+  experience: 8.5
+  depth: 7.3
+  categories:
+    history: 9.1
+    architecture: 8.7

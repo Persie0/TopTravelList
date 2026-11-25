@@ -1,0 +1,17 @@
+id: sight-pe-inca-trail-to-machu-picchu
+name: "Inca Trail to Machu Picchu"
+location:
+  country_code: PE
+  latitude: -13.2330
+  longitude: -72.4200
+scores:
+  impact: 9.4
+  uniqueness: 9.3
+  significance: 9.4
+  experience: 9.1
+  depth: 9.2
+  categories:
+    adventure: 9.7
+    nature: 9.4
+    history: 9.4
+    photography: 9.6

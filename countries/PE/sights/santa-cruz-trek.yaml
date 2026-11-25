@@ -1,0 +1,16 @@
+id: sight-pe-santa-cruz-trek
+name: "Santa Cruz Trek"
+location:
+  country_code: PE
+  latitude: -8.9000
+  longitude: -77.6500
+scores:
+  impact: 9.3
+  uniqueness: 9.0
+  significance: 7.9
+  experience: 8.9
+  depth: 9.1
+  categories:
+    adventure: 9.6
+    nature: 9.5
+    photography: 9.5
