@@ -1,0 +1,16 @@
+id: sight-rw-dian-fossey-memorial-trail
+name: "Dian Fossey Memorial Trail"
+location:
+  country_code: RW
+  latitude: -1.4850
+  longitude: 29.4700
+scores:
+  impact: 8.3
+  uniqueness: 8.6
+  significance: 8.9
+  experience: 8.4
+  depth: 7.7
+  categories:
+    history: 9.1
+    nature: 8.8
+    adventure: 8.7

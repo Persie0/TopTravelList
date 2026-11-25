@@ -1,0 +1,14 @@
+id: sight-uz-yodgorlik-silk-factory
+name: "Yodgorlik Silk Factory"
+location:
+  country_code: UZ
+  latitude: 40.472
+  longitude: 71.72
+scores:
+  impact: 7.6
+  uniqueness: 8.5
+  significance: 7.6
+  experience: 8.6
+  depth: 7.4
+  categories:
+    culture: 9.1

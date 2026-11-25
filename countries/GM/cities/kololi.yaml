@@ -1,0 +1,16 @@
+id: city-gm-kololi
+name: "Kololi"
+location:
+  country_code: GM
+  latitude: 13.4410
+  longitude: -16.7270
+scores:
+  impact: 6.8
+  uniqueness: 6.5
+  significance: 5.5
+  experience: 8.3
+  depth: 7.2
+  categories:
+    food: 8.1
+    nightlife: 8.3
+    relaxation: 8.0

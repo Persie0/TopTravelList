@@ -1,0 +1,16 @@
+id: sight-xk-visoki-decani-monastery
+name: "Visoki Dečani Monastery"
+location:
+  country_code: XK
+  latitude: 42.533333
+  longitude: 20.266667
+scores:
+  impact: 9.1
+  uniqueness: 9.4
+  significance: 9.5
+  experience: 8.6
+  depth: 8.3
+  categories:
+    history: 9.5
+    architecture: 9.4
+    culture: 9.4

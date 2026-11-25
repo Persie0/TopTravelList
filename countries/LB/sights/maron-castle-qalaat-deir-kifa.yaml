@@ -1,0 +1,15 @@
+id: sight-lb-maron-castle-qalaat-deir-kifa
+name: "Maron Castle (Qalaat Deir Kifa)"
+location:
+  country_code: LB
+  latitude: 33.262389
+  longitude: 35.398833
+scores:
+  impact: null
+  uniqueness: 8.3
+  significance: 8.9
+  experience: null
+  depth: null
+  categories:
+    history: 9.1
+    architecture: 8.7

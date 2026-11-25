@@ -1,0 +1,17 @@
+id: sight-tl-mount-ramelau-tatamailau
+name: "Mount Ramelau (Tatamailau)"
+location:
+  country_code: TL
+  latitude: -8.9103
+  longitude: 125.4978
+scores:
+  impact: 9.0
+  uniqueness: 8.8
+  significance: 8.5
+  experience: 8.9
+  depth: 8.0
+  categories:
+    nature: 9.0
+    adventure: 9.2
+    photography: 9.2
+    culture: 8.5

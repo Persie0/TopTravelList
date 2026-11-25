@@ -1,0 +1,15 @@
+id: city-kg-talas
+name: "Talas"
+location:
+  country_code: KG
+  latitude: 42.523
+  longitude: 72.242
+scores:
+  impact: 6.6
+  uniqueness: 7.2
+  significance: 7.3
+  experience: 7.3
+  depth: 6.6
+  categories:
+    culture: 7.8
+    history: 7.8

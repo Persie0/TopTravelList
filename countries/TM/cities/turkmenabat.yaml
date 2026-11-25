@@ -1,0 +1,15 @@
+id: city-tm-turkmenabat
+name: "Turkmenabat"
+location:
+  country_code: TM
+  latitude: 39.07
+  longitude: 63.58
+scores:
+  impact: 6.4
+  uniqueness: 6.9
+  significance: 7.2
+  experience: 7.0
+  depth: 6.7
+  categories:
+    culture: 7.4
+    history: 7.6

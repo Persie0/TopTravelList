@@ -1,0 +1,16 @@
+id: sight-mk-painted-mosque-tetovo
+name: "Painted Mosque Tetovo"
+location:
+  country_code: MK
+  latitude: 42.0056
+  longitude: 20.9663
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 8.8
+  experience: 8.5
+  depth: 7.6
+  categories:
+    architecture: 9.4
+    culture: 9.2
+    history: 9.1

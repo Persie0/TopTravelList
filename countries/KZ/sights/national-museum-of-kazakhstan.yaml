@@ -1,0 +1,15 @@
+id: sight-kz-national-museum-of-kazakhstan
+name: "National Museum of Kazakhstan"
+location:
+  country_code: KZ
+  latitude: 51.117
+  longitude: 71.47
+scores:
+  impact: 8.0
+  uniqueness: 8.4
+  significance: 8.8
+  experience: 8.3
+  depth: 8.4
+  categories:
+    history: 9.1
+    culture: 8.9

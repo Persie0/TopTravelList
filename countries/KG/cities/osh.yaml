@@ -1,0 +1,16 @@
+id: city-kg-osh
+name: "Osh"
+location:
+  country_code: KG
+  latitude: 40.5283
+  longitude: 72.7985
+scores:
+  impact: 8.1
+  uniqueness: 8.4
+  significance: 8.7
+  experience: 8.3
+  depth: 7.9
+  categories:
+    history: 8.9
+    culture: 8.8
+    food: 8.6

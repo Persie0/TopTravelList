@@ -1,0 +1,14 @@
+id: sight-ae-ed-dur-archaeological-site
+name: "Ed-Dur Archaeological Site"
+location:
+  country_code: AE
+  latitude: 25.54
+  longitude: 55.59
+scores:
+  impact: null
+  uniqueness: 8.6
+  significance: 9.1
+  experience: null
+  depth: null
+  categories:
+    history: 9.3

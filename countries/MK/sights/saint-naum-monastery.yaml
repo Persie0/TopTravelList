@@ -1,0 +1,17 @@
+id: sight-mk-saint-naum-monastery
+name: "Saint Naum Monastery"
+location:
+  country_code: MK
+  latitude: 40.9134
+  longitude: 20.7408
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 9.1
+  experience: 8.8
+  depth: 8.3
+  categories:
+    history: 9.4
+    culture: 9.3
+    architecture: 9.2
+    photography: 9.2

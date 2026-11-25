@@ -1,0 +1,15 @@
+id: city-tl-vila-maumeta-atauro
+name: "Vila Maumeta (Atauro)"
+location:
+  country_code: TL
+  latitude: -8.26
+  longitude: 125.6
+scores:
+  impact: 7.3
+  uniqueness: 7.7
+  significance: 7.0
+  experience: 7.7
+  depth: 6.5
+  categories:
+    culture: 8.0
+    relaxation: 7.9

@@ -1,0 +1,16 @@
+id: sight-lb-beiteddine-palace
+name: "Beiteddine Palace"
+location:
+  country_code: LB
+  latitude: 33.696
+  longitude: 35.58
+scores:
+  impact: 8.7
+  uniqueness: 8.7
+  significance: 8.8
+  experience: 8.7
+  depth: 8.0
+  categories:
+    architecture: 9.3
+    history: 9.0
+    photography: 9.0

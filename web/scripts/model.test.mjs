@@ -40,3 +40,16 @@ test('overlapping cluster labels merge without losing ranked members',()=>{
  const groups=coalesceGroups([{x:0,y:0,rows:[{id:'a',rank:3}]},{x:10,y:0,rows:[{id:'b',rank:1}]},{x:100,y:0,rows:[{id:'c',rank:2}]}],40);
  assert.equal(groups.length,2);assert.deepEqual(groups[0].rows.map(r=>r.id),['b','a']);assert.equal(groups[0].x,10);
 });
+
+import {parseMinimumScore} from './model.mjs';
+test('minimum score supports dot and comma, boundaries and empty input',()=>{
+ for(const [raw,expected] of [['90.75',90.75],['90,75',90.75],['0',0],['100',100],['',0],['.5',.5],[',5',.5],['90.',90]])assert.equal(parseMinimumScore(raw),expected);
+ for(const raw of ['101','-1','90,7.5','NaN','Infinity','1e2','abc'])assert.equal(parseMinimumScore(raw),null);
+ assert.equal(parseMinimumScore('8,7','nature'),8.7);assert.equal(parseMinimumScore('10.01','nature'),null);
+});
+test('decimal threshold is inclusive for overall and category scores',()=>{
+ const rows=[row('below','Below',90.74,8.6),row('equal','Equal',90.75,8.7),row('above','Above',90.76,8.8),row('unknown','Unknown',null,null)];
+ assert.deepEqual(match(rows,{min:parseMinimumScore('90,75')}).map(r=>r.id),['equal','above']);
+ assert.deepEqual(match(rows,{metric:'nature',min:parseMinimumScore('8.7','nature')}).map(r=>r.id),['equal','above']);
+ assert.equal(match(rows,{min:parseMinimumScore('')}).length,4);
+});

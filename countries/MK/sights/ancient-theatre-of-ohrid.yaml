@@ -1,0 +1,15 @@
+id: sight-mk-ancient-theatre-of-ohrid
+name: "Ancient Theatre of Ohrid"
+location:
+  country_code: MK
+  latitude: 41.1140
+  longitude: 20.7930
+scores:
+  impact: 8.0
+  uniqueness: 8.2
+  significance: 8.6
+  experience: 8.2
+  depth: 7.2
+  categories:
+    history: 9.0
+    architecture: 8.6
