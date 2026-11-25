@@ -1,0 +1,13 @@
+id: sight-cu-santiago-historical-settings
+name: "Santiago de Cuba Historical Settings"
+location:
+  country_code: CU
+  latitude: 20.025
+  longitude: -75.821
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}
