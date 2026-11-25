@@ -2,6 +2,9 @@
 
 [Worldwide rules](../../../rules.md) · [Future-country workflow](../../future-country-workflow.md). 2026-11-25. [UNESCO national inventory](https://whc.unesco.org/en/statesparties/ga) confirms two inscribed properties and six tentative properties, all represented. All three Lopé-Okanda components and all 13 national parks are represented. Parent and component scores are not additive. Six published geographic reference points from UNESCO used; others approximate. Batéké submission coordinates appear reversed and are not adopted verbatim. The Lastoursville nine-cave inventory and separate scientific heritage components remain a detailed inventory gap; do not assume permission to enter caves, scientific sites or protected areas. Shared peer ladders require further individual calibration. Sources are excerpts or opened pages as noted, not complete claim-level verification. No current access or wildlife guarantee.
 
+
+Follow-up 2026-11-25: all 15 formerly editorial-only records supplemented with sources, many limited to settlement identity or regional context rather than visitor claims. Official UNESCO register confirms two inscribed and six tentative properties; embassy inventory confirms 13 national parks. Individual Lastoursville cave components, Sainte-Anne mission and Omboué settlement remain inventory gaps. No full factual verification claimed.
+
 ## sight-ga-loango-national-park — Loango National Park — 2026-11-25
 
 - [YAML](../../../countries/GA/sights/loango-national-park.yaml) · Action: new · **source-linked-unverified**.
@@ -20,6 +23,8 @@
 - High-score challenge: Impact/uniqueness and wildlife/nature 9.5+ reflect the rare conjunction of coastal forest, beaches and large mammals described in the state submission; contrast with inland Khao Sok and Corcovado's forest-coast setting without implying guaranteed sightings.. No approved 10.
 - Evidence: [Reference](https://whc.unesco.org/en/tentativelists/6593/) — 2022 state submission, inspected; coastal habitat mosaic and reference point; https://gabonuntouched.org/en/travel-gabon/ operator excerpt describes guided wildlife trips; page or search excerpt inspected 2026-11-25. Full material claim verification remains incomplete.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access and individual peer/category calibration.
+- Follow-up 2026-11-25: [Park tourism programme](https://www.loango-tourism.com/gorilla-s) confirms habituated western lowland gorilla tracking in partnership with Max Planck and ANPN, and [embassy guide](https://amba-usa.ga/en/cooperation-bilaterale/tourisme-et-decouverte/parcs-nationaux/) confirms coastal mammal encounters. Compare Okavango, Corcovado, Bwindi and Galápagos: rare overlap of forest megafauna, beach scenery, aquatic outings and primate visits supports impact 9.5, uniqueness 9.6, nature/wildlife 9.7 and photography 9.5. Significance 9.5 refers to coastal forest conservation, not tourist popularity. Retain provisional 94.75 without guarantees.
+
 
 ## sight-ga-ivindo-national-park — Ivindo National Park — 2026-11-25
 
@@ -35,10 +40,12 @@
 - Significance 9.7: international biodiversity importance.
 - Experience 8.8: guided river and forest expeditions.
 - Depth 9.1: multiple forest and river sectors.
-- Categories: nature:9.7, wildlife:9.6, adventure:9.2, photography:9.4. Overall: 93.40/100.
-- High-score challenge: Significance/nature 9.7 and wildlife 9.6 reflect UNESCO's documented intact forest and endemic aquatic species; access is specialized, so experience is below more broadly accessible world-leading parks.. No approved 10.
+- Categories: nature:9.7, wildlife:9.2, adventure:9.2, photography:9.4. Overall: 93.40/100.
+- High-score challenge: Significance/nature 9.7 reflect UNESCO's intact forest and endemic aquatic species; visitor wildlife reassessed separately. Overall 93.40 provisional. No approved 10.
 - Evidence: [Reference](https://whc.unesco.org/en/list/1653) — UNESCO property page inspected; blackwater rivers, falls, old-growth forests, threatened and endemic species. https://gabonuntouched.org/en/travel-gabon/ operator excerpt identifies Kongou and Langoué routes; no current sighting guarantee; page or search excerpt inspected 2026-11-25. Full material claim verification remains incomplete.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access and individual peer/category calibration.
+- Reassessment 2026-11-25: wildlife 9.6 → 9.2. [WCS](https://gabon.wcs.org/fr-ca/Paysages-Prioritaires/Gabons-Forests/Langou%C3%A9-Bai-fr-CA.aspx) documents forest-clearing fauna and historical pilot tourism, not guaranteed present viewing. [Operator](https://gabonuntouched.org/en/travel-gabon/) offers specialist expeditions. Relative to Kruger, Okavango, Kibale and Kinabatangan, breadth/reliability of ordinary observation less established. Significance and nature 9.7 remain supported by intact forest and aquatic endemism; overall retained.
+
 
 ## sight-ga-ecosystem-and-relict-cultural-landscape-of-lope-okanda-serial-unesco-property — Ecosystem and Relict Cultural Landscape of Lopé-Okanda (serial UNESCO property) — 2026-11-25
 
@@ -54,10 +61,12 @@
 - Significance 9.6: international ecological and human history.
 - Experience null: separate component access unresolved.
 - Depth null: aggregate routes unknown.
-- Categories: nature:9.6, history:9.5, wildlife:9.6. Overall: unranked.
-- High-score challenge: Uniqueness 9.5, significance 9.6, nature and wildlife 9.6 and history 9.5 reflect the uncommon combined archaeological and ecological landscape; not a coherent visitor experience, so no total.. No approved 10.
+- Categories: nature:9.6, history:9.5, wildlife:null. Overall: unranked.
+- High-score challenge: Uniqueness 9.5, significance/nature 9.6 and history 9.5 reflect combined archaeological/ecological landscape; wildlife and overall unassessed. No approved 10.
 - Evidence: [Reference](https://whc.unesco.org/en/list/1147) — UNESCO property page and https://whc.unesco.org/en/list/1147/maps/ component map table inspected; https://gabontravelandtours.com/tours/?lang=en operator excerpt identifies main park trips, not separate component access; page or search excerpt inspected 2026-11-25. Full material claim verification remains incomplete.
 - Remaining gaps: Ordinary permitted visitor experience and scope not established.
+- Reassessment 2026-11-25: wildlife 9.6 → null. [UNESCO](https://whc.unesco.org/en/list/1147) documents the mixed archaeological/ecological property, not a coherent visitor route across all components. Compare Okavango, Kakadu, Bwindi and Tikal; retain uniqueness 9.5, significance/nature 9.6 and history 9.5 provisionally for mixed heritage evidence, not wildlife sightings.
+
 
 ## sight-ga-lope-national-park-and-okanda-visitor-sector — Lopé National Park and Okanda visitor sector — 2026-11-25
 
@@ -77,6 +86,8 @@
 - High-score challenge: Wildlife 9.5 reflects exceptional mandrill gatherings and forest fauna described by tour operators and UNESCO; compared to other parks the savanna forest transition is distinctive, not a sighting guarantee.. No approved 10.
 - Evidence: [Reference](https://whc.unesco.org/en/list/1147) — UNESCO property page and https://whc.unesco.org/en/list/1147/maps/ component map table inspected; https://gabontravelandtours.com/tours/?lang=en operator excerpt identifies main park trips, not separate component access; page or search excerpt inspected 2026-11-25. Full material claim verification remains incomplete.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access and individual peer/category calibration.
+- Follow-up 2026-11-25: [WCS mandrill tourism programme](https://gabon.wcs.org/en-us/Wild-Places/Gabons-Forests/Mandrill-Research-and-Tourism.aspx) and [2024 trip report](https://www.birdingecotours.com/trip-report/complete-gabon-rare-birds-and-apes/) document targeted mandrill viewing. Compare Kibale, Bwindi, Loango and Kinabatangan; exceptional mandrill group size and forest-savanna variety support retaining 9.5 wildlife seasonally, not guaranteed. Overall 90.95 remains provisional.
+
 
 ## sight-ga-elarmekora-lope-okanda-component — Elarmékora (Lopé-Okanda component) — 2026-11-25
 
@@ -130,10 +141,12 @@
 - Significance 9.2: international conservation importance.
 - Experience 8.7: guided forest and wildlife trips.
 - Depth 8.6: several habitats.
-- Categories: nature:9.3, wildlife:9.5, adventure:8.8. Overall: 88.95/100.
-- High-score challenge: Wildlife 9.5 reflects major ape conservation habitat, supported by tentative submission and operator itineraries; no guaranteed encounters and less developed visitor breadth than larger safari networks.. No approved 10.
+- Categories: nature:9.3, wildlife:9.3, adventure:8.8. Overall: 88.95/100.
+- High-score challenge: Not applicable after wildlife reassessment. No approved 10.
 - Evidence: [Reference](https://whc.unesco.org/en/tentativelists/6586/) — State submission inspected; combined protected area. https://gabonuntouched.org/en/travel-gabon/ operator excerpt identifies guided visits; page or search excerpt inspected 2026-11-25. Full material claim verification remains incomplete.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access and individual peer/category calibration.
+- Reassessment 2026-11-25: wildlife 9.5 → 9.3. [Research foundation](https://www.berggorilla.org/en/gorillas/general/behaviour/articles-behaviour/moukalaba-doudou/) documents ape research, and [operator](https://gabonuntouched.org/en/travel-gabon/) offers guided trips. Compared with Loango, Bwindi, Kibale and Odzala, fewer documented regular visitor encounters; keep ecological significance and overall.
+
 
 ## sight-ga-plateaux-bateke-national-park — Plateaux Batéké National Park — 2026-11-25
 
@@ -210,6 +223,8 @@
 - High-score challenge: Uniqueness and significance 9.7 and nature 9.6 refer to rare geological and paleobiological evidence, not spectacle or a tour; no overall and no directions to restricted areas.. No approved 10.
 - Evidence: [Reference](https://whc.unesco.org/en/tentativelists/6590/) — State submission identifies fossil and natural reactor heritage; visitor access not established; provisional broad regional point only; page or search excerpt inspected 2026-11-25. Full material claim verification remains incomplete.
 - Remaining gaps: Ordinary permitted visitor experience and scope not established.
+- Follow-up 2026-11-25: [UNESCO tentative nomination](https://whc.unesco.org/en/tentativelists/6590/) supports unusual scientific significance; compare Burgess Shale, Messel Pit, Joggins Fossil Cliffs and Ediacara Hills for scientific value rather than visitor spectacle. No assumption of visitor access or radiation safety; overall unranked.
+
 
 ## sight-ga-pongara-national-park — Pongara National Park — 2026-11-25
 
@@ -263,10 +278,12 @@
 - Significance 9.4: international marine conservation.
 - Experience 8.3: seasonal observation with guides.
 - Depth 8.0: linear coastal and marine routes.
-- Categories: nature:9.2, wildlife:9.5, beaches:8.9. Overall: 87.00/100.
-- High-score challenge: Wildlife 9.5 reflects internationally important marine turtle habitat, not a routine sighting guarantee; relative to other marine reserves the attraction is seasonally specialized.. No approved 10.
+- Categories: nature:9.2, wildlife:9.3, beaches:8.9. Overall: 87.00/100.
+- High-score challenge: Not applicable after wildlife reassessment. No approved 10.
 - Evidence: [Reference](https://amba-usa.ga/en/cooperation-bilaterale/tourisme-et-decouverte/parcs-nationaux/) — Embassy national park inventory search excerpt, full page unavailable; https://visitgabon.fr/parcs-nationaux.html park inventory excerpt, limited habitat and visitor information; page or search excerpt inspected 2026-11-25. Full material claim verification remains incomplete.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access and individual peer/category calibration.
+- Reassessment 2026-11-25: wildlife 9.5 → 9.3. [Operator](https://gabonuntouched.org/en/travel-gabon/) offers seasonal turtle and whale watching; [park profile](https://national-parks.org/gabon/mayumba-national-park/) confirms leatherback nesting significance. Compared with Tortuguero, Mon Repos, Ras Al Jinz and Galápagos, seasonal scope and reliability warrant a strong but non-exceptional visitor wildlife rating.
+
 
 ## sight-ga-monts-de-cristal-national-park — Monts de Cristal National Park — 2026-11-25
 
@@ -377,10 +394,12 @@
 - Significance 9.2: important wildlife conservation.
 - Experience 8.6: guided observation without guaranteed sightings.
 - Depth 7.6: single clearing and approach.
-- Categories: wildlife:9.5, nature:9.2. Overall: 87.45/100.
-- High-score challenge: Wildlife 9.5 reflects forest elephant and ape habitat in an unusual forest clearing; depth is intentionally bounded compared to entire Ivindo park.. No approved 10.
+- Categories: wildlife:9.2, nature:9.2. Overall: 87.45/100.
+- High-score challenge: Not applicable after wildlife reassessment. No approved 10.
 - Evidence: [Reference](https://whc.unesco.org/en/list/1653) — UNESCO property page inspected; blackwater rivers, falls, old-growth forests, threatened and endemic species. https://gabonuntouched.org/en/travel-gabon/ operator excerpt identifies Kongou and Langoué routes; no current sighting guarantee; page or search excerpt inspected 2026-11-25. Full material claim verification remains incomplete.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access and individual peer/category calibration.
+- Reassessment 2026-11-25: wildlife 9.5 → 9.2. [WCS](https://gabon.wcs.org/fr-ca/Paysages-Prioritaires/Gabons-Forests/Langou%C3%A9-Bai-fr-CA.aspx) describes rich wildlife and a pilot tourism operation ending in 2008; [specialist operator](https://gabontravelandtours.com/tours/gabon-mammal-tour/) advertises a safari while [other guide](https://www.bwindiforestnationalpark.com/gabon-gorilla-trekking.html) reports no regular programme. Compared with Dzanga Bai, Kibale, Kinabatangan and Chobe, conflicting evidence warrants lower provisional wildlife category. Overall describes normal approved specialist expedition only, not assured access.
+
 
 ## sight-ga-pointe-denis-beach — Pointe Denis Beach — 2026-11-25
 
@@ -403,7 +422,7 @@
 
 ## sight-ga-fernan-vaz-lagoon — Fernan Vaz Lagoon — 2026-11-25
 
-- [YAML](../../../countries/GA/sights/fernan-vaz-lagoon.yaml) · Action: new · **editorial-only**.
+- [YAML](../../../countries/GA/sights/fernan-vaz-lagoon.yaml) · Action: new · **source-linked-unverified**.
 - Scope: ordinary authorized lagoon boat routes. GPS -1.55, 9.42: approximate editorial point; verification pending.
 - Worldwide peers (I/U/S/E/D):
   - [Ha Long Bay (VN)](../../../countries/VN/sights/ha-long-bay.yaml) — 9.8 / 9.9 / 9.7 / 9.8 / 9.6 (97.85/100); upper anchor; lower impact (water and forested shores); lower uniqueness (regional coastal lagoon); lower significance (ecological and historical context); lower experience (guided boat excursions); lower depth (several shoreline areas).
@@ -417,7 +436,7 @@
 - Depth 8.1: several shoreline areas.
 - Categories: nature:8.9, wildlife:8.8, photography:8.8. Overall: 83.55/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked destination-specific source; editorial only.
+- Evidence: [Omboué municipal website](https://www.ville-omboue.ga/) and [local visitor guide](https://omboue.com/decouvertes) document lagoon boating and cultural/nature scope; no guaranteed wildlife observations. Reviewed 2026-11-25. Original status editorial-only; other material claims remain unverified.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access and individual peer/category calibration.
 
 ## sight-ga-albert-schweitzer-hospital-museum — Albert Schweitzer Hospital Museum — 2026-11-25
@@ -479,7 +498,7 @@
 
 ## sight-ga-mont-bouet-market — Mont-Bouët Market — 2026-11-25
 
-- [YAML](../../../countries/GA/sights/mont-bouet-market.yaml) · Action: new · **editorial-only**.
+- [YAML](../../../countries/GA/sights/mont-bouet-market.yaml) · Action: new · **source-linked-unverified**.
 - Scope: public market stalls and streets. GPS 0.40, 9.46: approximate editorial point; verification pending.
 - Worldwide peers (I/U/S/E/D):
   - [Ben Thanh Market (VN)](../../../countries/VN/sights/ben-thanh-market.yaml) — 8.2 / 8.0 / 8.1 / 9.0 / 8.8 (83.10/100); upper anchor; lower impact (busy commerce); lower uniqueness (regional food and trading culture); lower significance (local economy); lower experience (market browsing); lower depth (several sections).
@@ -493,7 +512,7 @@
 - Depth 7.2: several sections.
 - Categories: culture:8.2, food:8.2. Overall: 72.75/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked destination-specific source; editorial only.
+- Evidence: [VisitGabon guide](https://visitgabon.com/gabon/things-to-do) documents market and crafts; food quality remains editorial. Reviewed 2026-11-25. Original status editorial-only; other material claims remain unverified.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access and individual peer/category calibration.
 
 ## sight-ga-poubara-vine-bridge — Poubara Vine Bridge — 2026-11-25
@@ -555,7 +574,7 @@
 
 ## sight-ga-lekedi-park — Lékédi Park — 2026-11-25
 
-- [YAML](../../../countries/GA/sights/lekedi-park.yaml) · Action: new · **editorial-only**.
+- [YAML](../../../countries/GA/sights/lekedi-park.yaml) · Action: new · **source-linked-unverified**.
 - Scope: managed wildlife park and approved trails. GPS -1.95, 13.02: approximate editorial point; verification pending.
 - Worldwide peers (I/U/S/E/D):
   - [Mount Huangshan (Yellow Mountain) (CN)](../../../countries/CN/sights/mount-huangshan.yaml) — 9.9 / 9.9 / 9.6 / 9.8 / 9.3 (97.65/100); upper anchor; lower impact (wildlife and forest scenery); lower uniqueness (regional conservation park setting); lower significance (conservation and education); lower experience (guided wildlife visits); lower depth (several habitats).
@@ -569,12 +588,12 @@
 - Depth 8.0: several habitats.
 - Categories: wildlife:9.0, nature:8.7, family:8.3. Overall: 82.10/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked destination-specific source; editorial only.
+- Evidence: [Park foundation](https://lekedi-biodiversite.org/fr/le-parc/) identifies managed park and biodiversity programmes; visitor access and captive versus wild observation need separate verification. Reviewed 2026-11-25. Original status editorial-only; other material claims remain unverified.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access and individual peer/category calibration.
 
 ## sight-ga-lope-ecomuseum — Lopé Ecomuseum — 2026-11-25
 
-- [YAML](../../../countries/GA/sights/lope-ecomuseum.yaml) · Action: new · **editorial-only**.
+- [YAML](../../../countries/GA/sights/lope-ecomuseum.yaml) · Action: new · **source-linked-unverified**.
 - Scope: small interpretation museum. GPS -0.10, 11.60: approximate editorial point; verification pending.
 - Worldwide peers (I/U/S/E/D):
   - [Kunsthistorisches Museum (AT)](../../../countries/AT/sights/kunsthistorisches-museum.yaml) — 9.2 / 9.4 / 9.6 / 9.4 / 9.5 (93.90/100); upper anchor; lower impact (archaeological and ecology exhibits); lower uniqueness (local mixed heritage interpretation); lower significance (regional cultural and conservation importance); lower experience (educational visit); lower depth (bounded exhibition).
@@ -588,12 +607,12 @@
 - Depth 6.6: bounded exhibition.
 - Categories: history:8.7, culture:8.6, nature:8.0. Overall: 74.30/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked destination-specific source; editorial only.
+- Evidence: [UNESCO reopening notice](https://whc.unesco.org/en/news/2250) documents reopening in 2021 and heritage interpretation; current access not independently verified. Reviewed 2026-11-25. Original status editorial-only; other material claims remain unverified.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access and individual peer/category calibration.
 
 ## sight-ga-cap-lopez-beach — Cap Lopez Beach — 2026-11-25
 
-- [YAML](../../../countries/GA/sights/cap-lopez-beach.yaml) · Action: new · **editorial-only**.
+- [YAML](../../../countries/GA/sights/cap-lopez-beach.yaml) · Action: new · **source-linked-unverified**.
 - Scope: specific coastal shore not oil installations. GPS -0.63, 8.70: approximate editorial point; verification pending.
 - Worldwide peers (I/U/S/E/D):
   - [Railay Beach (TH)](../../../countries/TH/sights/railay-beach.yaml) — 8.9 / 9.0 / 7.5 / 9.2 / 8.3 (86.30/100); upper anchor; lower impact (Atlantic sand); lower uniqueness (regional coastal setting); lower significance (local leisure); lower experience (permitted shore walks); lower depth (bounded shoreline).
@@ -607,5 +626,5 @@
 - Depth 6.7: bounded shoreline.
 - Categories: beaches:8.3, photography:8.2. Overall: 72.20/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked destination-specific source; editorial only.
+- Evidence: [Surf spot guide](https://www.surfspots.co/spot/cap-lopez) documents coastal surf and warns of oil-zone restrictions. Score refers only to normal permitted shore experience, not access to industrial installations. Reviewed 2026-11-25. Original status editorial-only; other material claims remain unverified.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access and individual peer/category calibration.
