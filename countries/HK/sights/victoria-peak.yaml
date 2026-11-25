@@ -1,7 +1,7 @@
-id: sight-cn-victoria-peak
+id: sight-hk-victoria-peak
 name: "Victoria Peak Hong Kong"
 location:
-  country_code: CN
+  country_code: HK
   latitude: 22.2759
   longitude: 114.1455
 scores:

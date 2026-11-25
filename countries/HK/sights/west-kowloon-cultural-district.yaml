@@ -1,7 +1,7 @@
-id: sight-cn-west-kowloon-cultural-district
+id: sight-hk-west-kowloon-cultural-district
 name: "West Kowloon Cultural District"
 location:
-  country_code: CN
+  country_code: HK
   latitude: 22.302
   longitude: 114.155
 scores:

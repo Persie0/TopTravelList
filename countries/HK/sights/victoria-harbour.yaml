@@ -1,7 +1,7 @@
-id: sight-cn-victoria-harbour
+id: sight-hk-victoria-harbour
 name: "Victoria Harbour"
 location:
-  country_code: CN
+  country_code: HK
   latitude: 22.293
   longitude: 114.173
 scores:

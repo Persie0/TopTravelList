@@ -1,7 +1,7 @@
-id: sight-cn-hong-kong-palace-museum
+id: sight-hk-hong-kong-palace-museum
 name: "Hong Kong Palace Museum"
 location:
-  country_code: CN
+  country_code: HK
   latitude: 22.302
   longitude: 114.155
 scores:

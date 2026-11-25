@@ -1,7 +1,7 @@
-id: city-cn-hong-kong
+id: city-hk-hong-kong
 name: "Hong Kong"
 location:
-  country_code: CN
+  country_code: HK
   latitude: 22.3193
   longitude: 114.1694
 scores:

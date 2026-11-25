@@ -1,7 +1,7 @@
-id: sight-cn-man-mo-temple-hong-kong
+id: sight-hk-man-mo-temple-hong-kong
 name: "Man Mo Temple"
 location:
-  country_code: CN
+  country_code: HK
   latitude: 22.284
   longitude: 114.151
 scores:

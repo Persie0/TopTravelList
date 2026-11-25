@@ -1,7 +1,7 @@
-id: sight-cn-sai-kung-geopark
+id: sight-hk-sai-kung-geopark
 name: "Hong Kong UNESCO Global Geopark (Sai Kung)"
 location:
-  country_code: CN
+  country_code: HK
   latitude: 22.399
   longitude: 114.358
 scores:

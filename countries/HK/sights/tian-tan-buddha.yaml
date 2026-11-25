@@ -1,7 +1,7 @@
-id: sight-cn-tian-tan-buddha
+id: sight-hk-tian-tan-buddha
 name: "Tian Tan Buddha (Big Buddha)"
 location:
-  country_code: CN
+  country_code: HK
   latitude: 22.254
   longitude: 113.905
 scores:

@@ -1,7 +1,7 @@
-id: sight-cn-lamma-island
+id: sight-hk-lamma-island
 name: "Lamma Island"
 location:
-  country_code: CN
+  country_code: HK
   latitude: 22.206
   longitude: 114.128
 scores:

@@ -1,7 +1,7 @@
-id: sight-cn-temple-street-night-market
+id: sight-hk-temple-street-night-market
 name: "Temple Street Night Market"
 location:
-  country_code: CN
+  country_code: HK
   latitude: 22.307
   longitude: 114.171
 scores:

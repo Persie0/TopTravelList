@@ -40,3 +40,28 @@ Original decisions: [France migration history](reviews/FR/migration-history-PF.m
 ### Antarctica coverage — 2026-11-25
 
 AQ has no permanent civilian settlement records. Initial coverage prioritizes named Antarctic Treaty visitor zones and documented vessel-based scenic sites, not blanket continent, peninsula, or island-wide scores. Protected huts at Cape Evans and Cape Royds remain unranked pending ordinary permitted visitor scope. No sovereignty claims or fictional cities are implied. Full cross-registry coordinate and alias audit remains pending.
+
+### Hong Kong migration — 2026-11-25
+
+The historic benchmark profiles and 2026 audits retain their original CN IDs as immutable provenance. The following new HK IDs are authoritative for current rankings. Shenzhen, Wutong Mountain and Dapeng Fortress remain in CN. No sovereignty inference is intended. Scores and coordinates retained for all migrated records unless a later review explicitly changes them.
+
+| Old ID | New ID |
+| --- | --- |
+| city-cn-hong-kong | city-hk-hong-kong |
+| sight-cn-victoria-harbour | sight-hk-victoria-harbour |
+| sight-cn-sai-kung-geopark | sight-hk-sai-kung-geopark |
+| sight-cn-hong-kong-palace-museum | sight-hk-hong-kong-palace-museum |
+| sight-cn-lantau-island | sight-hk-lantau-island |
+| sight-cn-tian-tan-buddha | sight-hk-tian-tan-buddha |
+| sight-cn-west-kowloon-cultural-district | sight-hk-west-kowloon-cultural-district |
+| sight-cn-victoria-peak | sight-hk-victoria-peak |
+| sight-cn-man-mo-temple-hong-kong | sight-hk-man-mo-temple-hong-kong |
+| sight-cn-star-ferry | sight-hk-star-ferry |
+| sight-cn-tai-o-fishing-village | sight-hk-tai-o-fishing-village |
+| sight-cn-wong-tai-sin-temple | sight-hk-wong-tai-sin-temple |
+| sight-cn-dragons-back-trail | sight-hk-dragons-back-trail |
+| sight-cn-lamma-island | sight-hk-lamma-island |
+| sight-cn-ngong-ping-360 | sight-hk-ngong-ping-360 |
+| sight-cn-temple-street-night-market | sight-hk-temple-street-night-market |
+
+Parent ranking names and representative points screened; broader reference audit still needed. Five additional sights included: M+, Tai Kwun, Chi Lin/Nan Lian, Cheung Chau, Wetland Park. All initial assessments source-linked-unverified.

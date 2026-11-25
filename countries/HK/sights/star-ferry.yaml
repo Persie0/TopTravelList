@@ -1,7 +1,7 @@
-id: sight-cn-star-ferry
+id: sight-hk-star-ferry
 name: "Star Ferry Hong Kong"
 location:
-  country_code: CN
+  country_code: HK
   latitude: 22.2938
   longitude: 114.1688
 scores:

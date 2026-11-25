@@ -1,7 +1,7 @@
-id: sight-cn-ngong-ping-360
+id: sight-hk-ngong-ping-360
 name: "Ngong Ping 360 Cable Car"
 location:
-  country_code: CN
+  country_code: HK
   latitude: 22.254
   longitude: 113.904
 scores:
