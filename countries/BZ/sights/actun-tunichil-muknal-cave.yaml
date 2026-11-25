@@ -1,15 +1,15 @@
 id: sight-bz-actun-tunichil-muknal-cave
-name: "Actun Tunichil Muknal Cave"
+name: Actun Tunichil Muknal Cave
 location:
   country_code: BZ
   latitude: 17.116
-  longitude: -88.860
+  longitude: -88.86
 scores:
   impact: 9.4
   uniqueness: 9.6
   significance: 9.4
   experience: 9.4
-  depth: 8.6
+  depth: 8.2
   categories:
     adventure: 9.5
     history: 9.4

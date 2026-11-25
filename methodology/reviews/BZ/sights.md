@@ -1161,3 +1161,93 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: Editorial assessment; no checked per-record source.
 - Verification still needed: Normal permitted visitor experience and route scope unresolved; do not infer a total.
+
+## Follow-up: sight-bz-actun-tunichil-muknal-cave — 2026-11-25 (worldwide review)
+
+- [YAML](../../../countries/BZ/sights/actun-tunichil-muknal-cave.yaml) · Action: rescore · **source-linked-unverified**: limited source claims checked; not comprehensive fact-check. Original decision above retained.
+- Sources inspected 2026-11-25: [https://www.travelbelize.org/attraction/actun-tunichil-muknal-atm/](https://www.travelbelize.org/attraction/actun-tunichil-muknal-atm/), [https://www.travelbelize.org/activities/caving/](https://www.travelbelize.org/activities/caving/)
+- Decision: Belize Tourism Board confirms a guided swim and hike to an archaeological cave. Rare in-situ ritual archaeology supports uniqueness 9.6, and active caving supports adventure 9.5 and impact 9.4. Depth reduced modestly for one guided route, not the whole cave system; it remains richer than a short stop.
+- I/U/S/E/D: 9.4 / 9.6 / 9.4 / 9.4 / 8.6 → 9.4 / 9.6 / 9.4 / 9.4 / 8.2; total 93.70/100 → 93.30/100. Categories unchanged. No new 10 or country multiplier. Representative GPS retained.
+
+| Current worldwide peer | I/U/S/E/D | Overall | Scope comparison |
+| --- | --- | --- | --- |
+| [Son Doong Cave](../../../countries/VN/sights/son-doong-cave.yaml) | 9.9 / 9.9 / 9.6 / 9.0 / 9.2 | 96.35/100 | Larger cave expedition has greater geological scale and depth. |
+| [Niah Caves Archaeological Complex](../../../countries/MY/sights/niah-caves-archaeological-complex.yaml) | 9.0 / 9.4 / 9.6 / 8.8 / 8.8 | 91.70/100 | Major archaeological cave ensemble has deeper historical record. |
+| [Deer Cave Mulu](../../../countries/MY/sights/deer-cave-mulu.yaml) | 9.4 / 9.5 / 9.0 / 9.3 / 8.6 | 92.50/100 | Huge chamber has comparable visual impact but different ritual scope. |
+| [Eisriesenwelt Ice Cave](../../../countries/AT/sights/eisriesenwelt-werfen.yaml) | 9.0 / 9.4 / 8.8 / 9.0 / 8.4 | 90.00/100 | Guided single cave offers similar bounded exploration. |
+
+
+## Follow-up: sight-bz-blue-hole-natural-monument-great-blue-hole — 2026-11-25 (worldwide review)
+
+- [YAML](../../../countries/BZ/sights/blue-hole-natural-monument-great-blue-hole.yaml) · Action: fact-check-only · **source-linked-unverified**: limited source claims checked; not comprehensive fact-check. Original decision above retained.
+- Sources inspected 2026-11-25: [https://www.travelbelize.org/attraction/blue-hole/](https://www.travelbelize.org/attraction/blue-hole/), [https://whc.unesco.org/en/list/764/](https://whc.unesco.org/en/list/764/)
+- Decision: Tourism Board confirms submerged formations and aerial tours; UNESCO identifies the component. Retain impact 9.6 and photography 9.6 for the iconic circular geometry available from air, uniqueness 9.7 and nature 9.6 for the distinctive flooded karst feature. These scores do not describe every surface excursion. The modest 7.4 depth and 8.7 experience keep total below broader reef expeditions.
+- I/U/S/E/D: 9.6 / 9.7 / 9.3 / 8.7 / 7.4 → 9.6 / 9.7 / 9.3 / 8.7 / 7.4; total 92.10/100 → 92.10/100. Categories unchanged. No new 10 or country multiplier. Representative GPS retained.
+
+| Current worldwide peer | I/U/S/E/D | Overall | Scope comparison |
+| --- | --- | --- | --- |
+| [Sipadan Island Reefs](../../../countries/MY/sights/sipadan-island-reefs.yaml) | 9.5 / 9.6 / 9.1 / 9.5 / 8.9 | 93.85/100 | Broader world-class underwater experience; less singular geometry. |
+| [Aqaba Marine Reserve](../../../countries/JO/sights/aqaba-marine-reserve.yaml) | 8.9 / 9.2 / 9.4 / 9.1 / 8.8 | 90.95/100 | Reef visit offers greater depth and ecological variety. |
+| [Tun Sakaran Marine Park](../../../countries/MY/sights/tun-sakaran-marine-park.yaml) | 9.1 / 9.1 / 8.5 / 9.1 / 9.0 | 89.70/100 | Marine landscape has broader visitable environments. |
+| [Tunku Abdul Rahman Marine Park](../../../countries/MY/sights/tunku-abdul-rahman-marine-park.yaml) | 8.6 / 8.4 / 7.7 / 8.9 / 8.6 | 84.15/100 | Ordinary island park is less globally distinctive. |
+
+
+## Follow-up: sight-bz-glover-s-reef-marine-reserve — 2026-11-25 (worldwide review)
+
+- [YAML](../../../countries/BZ/sights/glover-s-reef-marine-reserve.yaml) · Action: fact-check-only · **source-linked-unverified**: limited source claims checked; not comprehensive fact-check. Original decision above retained.
+- Sources inspected 2026-11-25: [https://whc.unesco.org/en/list/764/](https://whc.unesco.org/en/list/764/), [https://www.travelbelize.org/destinations/belize-reef/glovers-reef-atoll/](https://www.travelbelize.org/destinations/belize-reef/glovers-reef-atoll/)
+- Decision: UNESCO identifies the reserve as a distinct component, while official tourism describes diving, snorkelling, kayaking, shallow coral, channels and pinnacles. Its 91.90 is plausible below Sipadan but above smaller island parks. Retain core fields; no automatic UNESCO bonus.
+- I/U/S/E/D: 9.1 / 9.2 / 9.4 / 9.2 / 9.0 → 9.1 / 9.2 / 9.4 / 9.2 / 9.0; total 91.90/100 → 91.90/100. Categories unchanged. No new 10 or country multiplier. Representative GPS retained.
+
+| Current worldwide peer | I/U/S/E/D | Overall | Scope comparison |
+| --- | --- | --- | --- |
+| [Sipadan Island Reefs](../../../countries/MY/sights/sipadan-island-reefs.yaml) | 9.5 / 9.6 / 9.1 / 9.5 / 8.9 | 93.85/100 | Sipadan has greater underwater impact and rarity. |
+| [Aqaba Marine Reserve](../../../countries/JO/sights/aqaba-marine-reserve.yaml) | 8.9 / 9.2 / 9.4 / 9.1 / 8.8 | 90.95/100 | Comparable reserve has stronger recognized conservation relevance but less atoll variety. |
+| [Tarutao National Marine Park](../../../countries/TH/sights/tarutao-national-marine-park.yaml) | 9.0 / 9.2 / 8.7 / 9.0 / 9.0 | 89.90/100 | Comparable breadth, different habitat and marine focus. |
+| [Tunku Abdul Rahman Marine Park](../../../countries/MY/sights/tunku-abdul-rahman-marine-park.yaml) | 8.6 / 8.4 / 7.7 / 8.9 / 8.6 | 84.15/100 | Smaller conventional marine park has lower uniqueness. |
+
+
+## Follow-up: sight-bz-turneffe-atoll-marine-reserve — 2026-11-25 (worldwide review)
+
+- [YAML](../../../countries/BZ/sights/turneffe-atoll-marine-reserve.yaml) · Action: fact-check-only · **source-linked-unverified**: limited source claims checked; not comprehensive fact-check. Original decision above retained.
+- Sources inspected 2026-11-25: [https://www.travelbelize.org/attraction/turneffe-atoll/](https://www.travelbelize.org/attraction/turneffe-atoll/), [https://www.travelbelize.org/attraction/wit-turneffe-dive-snorkel-site/](https://www.travelbelize.org/attraction/wit-turneffe-dive-snorkel-site/)
+- Decision: Tourism Board confirms both steep drop-offs and gentler snorkelling sites, and a separate reserve dive site. Retain broad experience and depth at 9.0, slightly below Sipadan overall, not treating the reserve as the entirety of Belize's barrier reef.
+- I/U/S/E/D: 9.0 / 9.0 / 9.2 / 9.0 / 9.0 → 9.0 / 9.0 / 9.2 / 9.0 / 9.0; total 90.40/100 → 90.40/100. Categories unchanged. No new 10 or country multiplier. Representative GPS retained.
+
+| Current worldwide peer | I/U/S/E/D | Overall | Scope comparison |
+| --- | --- | --- | --- |
+| [Sipadan Island Reefs](../../../countries/MY/sights/sipadan-island-reefs.yaml) | 9.5 / 9.6 / 9.1 / 9.5 / 8.9 | 93.85/100 | Stronger global diving exemplar. |
+| [Aqaba Marine Reserve](../../../countries/JO/sights/aqaba-marine-reserve.yaml) | 8.9 / 9.2 / 9.4 / 9.1 / 8.8 | 90.95/100 | Similar reef scope and high conservation merit. |
+| [Tarutao National Marine Park](../../../countries/TH/sights/tarutao-national-marine-park.yaml) | 9.0 / 9.2 / 8.7 / 9.0 / 9.0 | 89.90/100 | Similar multi-habitat experience. |
+| [Tunku Abdul Rahman Marine Park](../../../countries/MY/sights/tunku-abdul-rahman-marine-park.yaml) | 8.6 / 8.4 / 7.7 / 8.9 / 8.6 | 84.15/100 | Smaller marine park is more replaceable. |
+
+
+## Follow-up: sight-bz-caracol-archaeological-reserve — 2026-11-25 (worldwide review)
+
+- [YAML](../../../countries/BZ/sights/caracol-archaeological-reserve.yaml) · Action: fact-check-only · **source-linked-unverified**: limited source claims checked; not comprehensive fact-check. Original decision above retained.
+- Sources inspected 2026-11-25: [https://www.travelbelize.org/attraction/caracol/](https://www.travelbelize.org/attraction/caracol/)
+- Decision: Belize Tourism Board confirms the major ancient Maya site and links to Calakmul and Tikal political history. 91.10 is reasonable given monumental remains and political significance, below much larger Angkor; depth and experience stay below global-defining ensembles. No assumption about future Tikal ranking.
+- I/U/S/E/D: 9.1 / 9.1 / 9.4 / 8.9 / 8.9 → 9.1 / 9.1 / 9.4 / 8.9 / 8.9; total 91.10/100 → 91.10/100. Categories unchanged. No new 10 or country multiplier. Representative GPS retained.
+
+| Current worldwide peer | I/U/S/E/D | Overall | Scope comparison |
+| --- | --- | --- | --- |
+| [Angkor Archaeological Park](../../../countries/KH/sights/angkor-archaeological-park.yaml) | 10.0 / 10.0 / 10.0 / 9.8 / 10.0 | 99.70/100 | Larger global-defining ensemble outranks Caracol. |
+| [Ollantaytambo Archaeological Site](../../../countries/PE/sights/ollantaytambo-archaeological-site.yaml) | 9.0 / 9.1 / 9.3 / 8.8 / 8.5 | 90.05/100 | Comparable impressive ancient monumental complex. |
+| [Chan Chan Archaeological Zone](../../../countries/PE/sights/chan-chan-archaeological-zone.yaml) | 8.7 / 9.4 / 9.6 / 8.2 / 8.5 | 89.60/100 | Greater urban archaeological extent, but limited exposed visitor route. |
+| [Abila Archaeological Site](../../../countries/JO/sights/abila-archaeological-site.yaml) | 7.3 / 7.9 / 8.3 / 7.1 / 7.2 | 76.10/100 | Smaller site with lower monument impact and scope. |
+
+
+## Follow-up: sight-bz-belize-barrier-reef-reserve-system — 2026-11-25 (worldwide review)
+
+- [YAML](../../../countries/BZ/sights/belize-barrier-reef-reserve-system.yaml) · Action: fact-check-only · **source-linked-unverified**: limited source claims checked; not comprehensive fact-check. Original decision above retained.
+- Sources inspected 2026-11-25: [https://whc.unesco.org/en/list/764/](https://whc.unesco.org/en/list/764/)
+- Decision: UNESCO confirms seven separate protected areas. Retain the unranked total and existing null visitor fields; do not add together independent trips. Its high uniqueness and significance describe the whole serial ecological system, not every component.
+- I/U/S/E/D: null / 9.6 / 9.7 / null / null → null / 9.6 / 9.7 / null / null; total unranked → unranked. Categories unchanged. No new 10 or country multiplier. Representative GPS retained.
+
+| Current worldwide peer | I/U/S/E/D | Overall | Scope comparison |
+| --- | --- | --- | --- |
+| [Ha Long Bay](../../../countries/VN/sights/ha-long-bay.yaml) | 9.8 / 9.9 / 9.7 / 9.8 / 9.6 | 97.85/100 | Coherent seascape offers a normal visitor scope unlike serial sites. |
+| [Sipadan Island Reefs](../../../countries/MY/sights/sipadan-island-reefs.yaml) | 9.5 / 9.6 / 9.1 / 9.5 / 8.9 | 93.85/100 | Individual reef destination can be rated directly. |
+| [Tarutao National Marine Park](../../../countries/TH/sights/tarutao-national-marine-park.yaml) | 9.0 / 9.2 / 8.7 / 9.0 / 9.0 | 89.90/100 | Multi-island park has a coherent visitable scope. |
+| [Tunku Abdul Rahman Marine Park](../../../countries/MY/sights/tunku-abdul-rahman-marine-park.yaml) | 8.6 / 8.4 / 7.7 / 8.9 / 8.6 | 84.15/100 | Individual marine park is far more bounded. |
+
