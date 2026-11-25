@@ -1,0 +1,16 @@
+id: sight-gt-el-mirador
+name: "El Mirador Archaeological Site"
+location:
+  country_code: GT
+  latitude: 17.755
+  longitude: -89.921
+scores:
+  impact: 9.0
+  uniqueness: 9.1
+  significance: 9.2
+  experience: 8.5
+  depth: 8.8
+  categories:
+    history: 9.3
+    architecture: 9.2
+    adventure: 9.3

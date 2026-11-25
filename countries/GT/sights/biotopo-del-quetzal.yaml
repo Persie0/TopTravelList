@@ -1,0 +1,16 @@
+id: sight-gt-biotopo-del-quetzal
+name: "Biotopo del Quetzal"
+location:
+  country_code: GT
+  latitude: 15.214
+  longitude: -90.219
+scores:
+  impact: 8.0
+  uniqueness: 8.5
+  significance: 8.5
+  experience: 8.2
+  depth: 7.9
+  categories:
+    nature: 9.0
+    wildlife: 9.1
+    photography: 8.8

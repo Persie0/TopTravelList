@@ -1,0 +1,16 @@
+id: city-ca-ottawa
+name: "Ottawa"
+location:
+  country_code: CA
+  latitude: 45.4215
+  longitude: -75.6972
+scores:
+  impact: 8.0
+  uniqueness: 8.1
+  significance: 8.8
+  experience: 8.3
+  depth: 8.6
+  categories:
+    history: 9.0
+    architecture: 8.8
+    culture: 8.7

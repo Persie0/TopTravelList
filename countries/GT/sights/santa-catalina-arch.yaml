@@ -1,0 +1,15 @@
+id: sight-gt-santa-catalina-arch
+name: "Santa Catalina Arch"
+location:
+  country_code: GT
+  latitude: 14.559
+  longitude: -90.733
+scores:
+  impact: 7.8
+  uniqueness: 7.7
+  significance: 7.7
+  experience: 7.6
+  depth: 5.8
+  categories:
+    architecture: 8.4
+    photography: 9.0

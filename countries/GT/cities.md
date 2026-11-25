@@ -2,7 +2,7 @@
 
 # Guatemala (GT) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**12 ranked** · **0 unassessed** · **12 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,22 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (12)
 
-No cities, towns & villages have been assessed for **Guatemala** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Antigua Guatemala](cities/antigua-guatemala.yaml) | City / town | **90.00** | **Photography 9.4**, **Architecture 9.3**, **History 9.2**, Culture 9.1 | 9.0 / 9.0 / 9.1 / 9.0 / 8.8 | [14.557, -90.734](https://www.google.com/maps/search/?api=1&query=14.557,-90.734) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Antigua%20Guatemala%2C%20Guatemala) |
+| 2 | [Chichicastenango](cities/chichicastenango.yaml) | City / town | **84.80** | **Culture 9.3**, **Photography 9.0**, **History 8.8** | 8.2 / 9.0 / 8.5 / 8.6 / 7.8 | [14.943, -91.112](https://www.google.com/maps/search/?api=1&query=14.943,-91.112) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Chichicastenango%2C%20Guatemala) |
+| 3 | [San Juan La Laguna](cities/san-juan-la-laguna.yaml) | City / town | **80.65** | **Culture 9.0**, **Photography 8.8**, **Food 8.2** | 8.0 / 8.4 / 7.8 / 8.5 / 7.3 | [14.695, -91.287](https://www.google.com/maps/search/?api=1&query=14.695,-91.287) | [Google Maps](https://www.google.com/maps/search/?api=1&query=San%20Juan%20La%20Laguna%2C%20Guatemala) |
+| 4 | [Santiago Atitlán](cities/santiago-atitlan.yaml) | City / town | **80.60** | **Culture 9.1**, **History 8.7** | 7.8 / 8.6 / 8.2 / 8.0 / 7.3 | [14.638, -91.229](https://www.google.com/maps/search/?api=1&query=14.638,-91.229) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Santiago%20Atitl%C3%A1n%2C%20Guatemala) |
+| 5 | [Guatemala City](cities/guatemala-city.yaml) | City / town | **80.10** | **Culture 8.8**, **History 8.7**, **Food 8.5** | 7.7 / 8.0 / 8.4 / 7.8 / 8.5 | [14.634, -90.507](https://www.google.com/maps/search/?api=1&query=14.634,-90.507) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Guatemala%20City%2C%20Guatemala) |
+| 6 | [Quetzaltenango](cities/quetzaltenango.yaml) | City / town | **79.50** | **Culture 8.7**, **Architecture 8.5**, **Food 8.2** | 7.8 / 8.1 / 8.0 / 8.1 / 7.7 | [14.834, -91.518](https://www.google.com/maps/search/?api=1&query=14.834,-91.518) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Quetzaltenango%2C%20Guatemala) |
+| 7 | [Livingston](cities/livingston.yaml) | City / town | **79.15** | **Culture 9.1**, **Food 8.8**, **Photography 8.4** | 7.7 / 8.5 / 7.9 / 8.0 / 7.0 | [15.828, -88.75](https://www.google.com/maps/search/?api=1&query=15.828,-88.75) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Livingston%2C%20Guatemala) |
+| 8 | [Flores](cities/flores.yaml) | City / town | **78.90** | **Photography 9.0**, **Culture 8.2**, **Food 8.2** | 8.0 / 8.2 / 7.5 / 8.2 / 7.1 | [16.93, -89.892](https://www.google.com/maps/search/?api=1&query=16.93,-89.892) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Flores%2C%20Guatemala) |
+| 9 | [Panajachel](cities/panajachel.yaml) | City / town | **75.10** | **Photography 8.7**, **Food 8.4**, **Culture 8.2** | 7.7 / 7.6 / 6.8 / 8.2 / 7.1 | [14.744, -91.158](https://www.google.com/maps/search/?api=1&query=14.744,-91.158) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Panajachel%2C%20Guatemala) |
+| 10 | [Coban](cities/coban.yaml) | City / town | **73.05** | **Culture 8.3**, **Food 8.0** | 7.0 / 7.6 / 7.4 / 7.5 / 7.0 | [15.47, -90.373](https://www.google.com/maps/search/?api=1&query=15.47,-90.373) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Coban%2C%20Guatemala) |
+| 11 | [El Paredón](cities/el-paredon.yaml) | City / town | **70.15** | **Relaxation 8.4**, **Food 7.8**, **Culture 7.7** | 7.0 / 7.3 / 6.2 / 8.0 / 6.5 | [13.916, -91.072](https://www.google.com/maps/search/?api=1&query=13.916,-91.072) | [Google Maps](https://www.google.com/maps/search/?api=1&query=El%20Pared%C3%B3n%2C%20Guatemala) |
+| 12 | [Lanquín](cities/lanquin.yaml) | City / town | **69.65** | **Photography 8.2**, **Culture 7.9** | 6.9 / 7.3 / 6.7 / 7.4 / 6.2 | [15.578, -89.98](https://www.google.com/maps/search/?api=1&query=15.578,-89.98) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lanqu%C3%ADn%2C%20Guatemala) |
 
 ---
 

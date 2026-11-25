@@ -1,0 +1,15 @@
+id: sight-ca-icefields-parkway
+name: "Icefields Parkway"
+location:
+  country_code: CA
+  latitude: 52.13
+  longitude: -117.05
+scores:
+  impact: 9.4
+  uniqueness: 9.2
+  significance: 8.6
+  experience: 9.3
+  depth: 9.0
+  categories:
+    nature: 9.4
+    photography: 9.5
