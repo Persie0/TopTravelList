@@ -311,3 +311,225 @@
 - Final decision: inventory only; do not invent a score or imply customary access.
 - Verification still needed: local village-level facts, customary permissions and actual visitor scope.
 
+
+
+### city-tv-kulia — Kulia Village — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/TV/cities/kulia.yaml)
+- Action: rescore
+- Precise subject: named settlement only; exclude other villages, island-wide sights and private sites without permission.
+- Location check: existing approximate representative coordinate retained; independent corroboration outstanding.
+- Evidence status: unassessed
+- Factual references consulted (2026-11-25; UNESCO and 2012 firsthand blog directly inspected; other references indexed excerpts):
+  - https://whc.unesco.org/en/tentativelists/6707/
+  - https://nto.kaupule.gov.tv/falekauple-niutao/
+  - https://niutao-museum.blogspot.com/p/blog-page_88.html
+- Missing or uncertain facts: Local council and community heritage sources identify the settlement; historic features do not establish public entry.
+
+#### Worldwide peer comparisons
+- Kampot (Cambodia), 7.6/7.9/7.5/8.3/7.9: much richer built heritage and food experiences.
+- Rach Gia (Vietnam), 7.2/7.5/7.3/7.8/7.9: much broader urban visitor experiences.
+- Kuala Perlis (Malaysia), 6.5/6.8/6.5/7.2/6.7: comparable modest waterfront settlement with documented food experiences.
+- Asau Village (Tuvalu), 6.4/7.5/7.0/6.4/6.1: similar village scale and living cultural context; no automatic score transfer.
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | null | 6.5 | Historic church, village plaza and communal meetinghouse are documented, with modest village-scale visual impact. |
+| Uniqueness | null | 7.4 | Distinct traditional village layout and historic wells. |
+| Significance | null | 7.1 | Longstanding civic and religious centre of Niutao. |
+| Experience | null | null | No sufficiently specific ordinary visitor account or permission for historic facilities. |
+| Depth | null | null | No confirmed breadth of permitted visitor activities. |
+
+- Applicable category scores: culture 7.6, history 7.4; provisional.
+- Computed worldwide overall: unranked
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: retain incomplete profile; no unsupported visitor ratings.
+- Earlier decision: all core scores null.
+- Verification still needed: Local council and community heritage sources identify the settlement; historic features do not establish public entry. Canonical validation outstanding.
+
+
+### city-tv-lolua — Lolua Village — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/TV/cities/lolua.yaml)
+- Action: rescore
+- Precise subject: named settlement only; exclude other villages, island-wide sights and private sites without permission.
+- Location check: existing approximate representative coordinate retained; independent corroboration outstanding.
+- Evidence status: unassessed
+- Factual references consulted (2026-11-25; UNESCO and 2012 firsthand blog directly inspected; other references indexed excerpts):
+  - https://www.nanumea.net/1973-household-groups-1
+  - https://webapps.ilo.org/surveyLib/index.php/catalog/8234/variable/FA_TUV_CENSUS_2022_FULL/VA3?name=village
+  - https://whc.unesco.org/en/tentativelists/6707/
+- Missing or uncertain facts: Do not transfer the church and heritage of the entire Nanumea settlement to this neighbourhood.
+
+#### Worldwide peer comparisons
+- Kampot (Cambodia), 7.6/7.9/7.5/8.3/7.9: much richer built heritage and food experiences.
+- Rach Gia (Vietnam), 7.2/7.5/7.3/7.8/7.9: much broader urban visitor experiences.
+- Kuala Perlis (Malaysia), 6.5/6.8/6.5/7.2/6.7: comparable modest waterfront settlement with documented food experiences.
+- Asau Village (Tuvalu), 6.4/7.5/7.0/6.4/6.1: similar village scale and living cultural context; no automatic score transfer.
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | null | null | Exact streetscape of this named subdivision unverified. |
+| Uniqueness | null | 7.1 | Documented traditional neighbourhood identity within Nanumea. |
+| Significance | null | 6.6 | Local community organization and settlement history. |
+| Experience | null | null | Visitor accounts of Nanumea as a whole do not identify Lolua's exact activities. |
+| Depth | null | null | Specific public exploration scope unknown. |
+
+- Applicable category scores: culture 7.2; provisional.
+- Computed worldwide overall: unranked
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: retain incomplete profile; no unsupported visitor ratings.
+- Earlier decision: all core scores null.
+- Verification still needed: Do not transfer the church and heritage of the entire Nanumea settlement to this neighbourhood. Canonical validation outstanding.
+
+
+### city-tv-niulakita — Niulakita Village — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/TV/cities/niulakita.yaml)
+- Action: rescore
+- Precise subject: named settlement only; exclude other villages, island-wide sights and private sites without permission.
+- Location check: existing approximate representative coordinate retained; independent corroboration outstanding.
+- Evidence status: unassessed
+- Factual references consulted (2026-11-25; UNESCO and 2012 firsthand blog directly inspected; other references indexed excerpts):
+  - https://whc.unesco.org/en/tentativelists/6707/
+  - https://nto.kaupule.gov.tv/falekauple-niutao/
+- Missing or uncertain facts: Tiny population not a tourism attraction in itself; no guaranteed access or private visits.
+
+#### Worldwide peer comparisons
+- Kampot (Cambodia), 7.6/7.9/7.5/8.3/7.9: much richer built heritage and food experiences.
+- Rach Gia (Vietnam), 7.2/7.5/7.3/7.8/7.9: much broader urban visitor experiences.
+- Kuala Perlis (Malaysia), 6.5/6.8/6.5/7.2/6.7: comparable modest waterfront settlement with documented food experiences.
+- Asau Village (Tuvalu), 6.4/7.5/7.0/6.4/6.1: similar village scale and living cultural context; no automatic score transfer.
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | null | 6.0 | Small church-centred double row of houses, modest visual fabric. |
+| Uniqueness | null | 7.3 | Distinct very small island settlement and twentieth-century resettlement history. |
+| Significance | null | 6.4 | Documented regional settlement history and community adaptation. |
+| Experience | null | null | No verified ordinary authorized visitor activities. |
+| Depth | null | null | No documented visitor breadth. |
+
+- Applicable category scores: culture 7.0; provisional.
+- Computed worldwide overall: unranked
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: retain incomplete profile; no unsupported visitor ratings.
+- Earlier decision: all core scores null.
+- Verification still needed: Tiny population not a tourism attraction in itself; no guaranteed access or private visits. Canonical validation outstanding.
+
+
+### city-tv-pepesala — Pepesala Village — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/TV/cities/pepesala.yaml)
+- Action: rescore
+- Precise subject: named settlement only; exclude other villages, island-wide sights and private sites without permission.
+- Location check: existing approximate representative coordinate retained; independent corroboration outstanding.
+- Evidence status: unassessed
+- Factual references consulted (2026-11-25; UNESCO and 2012 firsthand blog directly inspected; other references indexed excerpts):
+  - https://webapps.ilo.org/surveyLib/index.php/catalog/8234/variable/FA_TUV_CENSUS_2022_FULL/VA3?name=village
+  - https://whc.unesco.org/en/tentativelists/6707/
+  - https://www.takeyourbackpack.com/backpacking-in-tuvalu/visit-fangaua/
+- Missing or uncertain facts: UNESCO describes Fangaua collectively; census distinguishes Pepesala. No transfer of whole-islet heritage.
+
+#### Worldwide peer comparisons
+- Kampot (Cambodia), 7.6/7.9/7.5/8.3/7.9: much richer built heritage and food experiences.
+- Rach Gia (Vietnam), 7.2/7.5/7.3/7.8/7.9: much broader urban visitor experiences.
+- Kuala Perlis (Malaysia), 6.5/6.8/6.5/7.2/6.7: comparable modest waterfront settlement with documented food experiences.
+- Asau Village (Tuvalu), 6.4/7.5/7.0/6.4/6.1: similar village scale and living cultural context; no automatic score transfer.
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | null | null | Specific neighbourhood's public visual fabric unverified. |
+| Uniqueness | null | 6.9 | Named village within a distinctive narrow coral-islet settlement. |
+| Significance | null | 6.3 | Local customary settlement context; not whole atoll sacred heritage. |
+| Experience | null | null | Broad Fangaua visitor guide does not establish Pepesala-specific activities. |
+| Depth | null | null | Exact permitted breadth unresolved. |
+
+- Applicable category scores: culture 7.0; provisional.
+- Computed worldwide overall: unranked
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: retain incomplete profile; no unsupported visitor ratings.
+- Earlier decision: all core scores null.
+- Verification still needed: UNESCO describes Fangaua collectively; census distinguishes Pepesala. No transfer of whole-islet heritage. Canonical validation outstanding.
+
+
+### city-tv-tanrake — Tanrake Village — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/TV/cities/tanrake.yaml)
+- Action: rescore
+- Precise subject: named settlement only; exclude other villages, island-wide sights and private sites without permission.
+- Location check: existing approximate representative coordinate retained; independent corroboration outstanding.
+- Evidence status: source-linked-unverified
+- Factual references consulted (2026-11-25; UNESCO and 2012 firsthand blog directly inspected; other references indexed excerpts):
+  - https://whc.unesco.org/en/tentativelists/6707/
+  - https://tuvalutraveller.blogspot.com/2012/09/
+  - https://www.traveldojo.com/tanrake/
+  - https://www.geonames.org/2110322
+- Missing or uncertain facts: Historic firsthand account names Nui rather than Tanrake; UNESCO identifies its main settlement and guide names Tanrake. Exact neighbourhood boundary, current hosts and permission need corroboration.
+
+#### Worldwide peer comparisons
+- Kampot (Cambodia), 7.6/7.9/7.5/8.3/7.9: much richer built heritage and food experiences.
+- Rach Gia (Vietnam), 7.2/7.5/7.3/7.8/7.9: much broader urban visitor experiences.
+- Kuala Perlis (Malaysia), 6.5/6.8/6.5/7.2/6.7: comparable modest waterfront settlement with documented food experiences.
+- Asau Village (Tuvalu), 6.4/7.5/7.0/6.4/6.1: similar village scale and living cultural context; no automatic score transfer.
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | null | 6.6 | Low-rise traditional village with prominent church, garden and coastal setting. |
+| Uniqueness | null | 7.5 | Distinct Nui community heritage and local customs. |
+| Significance | null | 6.9 | Documented village religious and civic role, not national aggregate heritage. |
+| Experience | null | 6.8 | Firsthand 2012 village walks and invited local meal, corroborated by a contemporary guide describing local homestays; no guaranteed performances or private entry. |
+| Depth | null | 6.1 | Focused walking and hosted cultural experience, narrower than established urban destinations. |
+
+- Applicable category scores: culture 7.7, food 7.2; provisional.
+- Computed worldwide overall: 68.65/100
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: provisional complete profile compared with actual branch YAML peers.
+- Earlier decision: all core scores null.
+- Verification still needed: Historic firsthand account names Nui rather than Tanrake; UNESCO identifies its main settlement and guide names Tanrake. Exact neighbourhood boundary, current hosts and permission need corroboration. Canonical validation outstanding.
+
+
+### city-tv-toga — Toga Village — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/TV/cities/toga.yaml)
+- Action: rescore
+- Precise subject: named settlement only; exclude other villages, island-wide sights and private sites without permission.
+- Location check: existing approximate representative coordinate retained; independent corroboration outstanding.
+- Evidence status: unassessed
+- Factual references consulted (2026-11-25; UNESCO and 2012 firsthand blog directly inspected; other references indexed excerpts):
+  - https://whc.unesco.org/en/tentativelists/6707/
+  - https://www.geonames.org/TV/administrative-division-tuvalu.html
+  - https://webapps.ilo.org/surveyLib/index.php/catalog/8234/variable/FA_TUV_CENSUS_2022_FULL/VA3?name=village
+- Missing or uncertain facts: UNESCO distinguishes Tonga and Tokelau neighbourhoods; do not transfer all Nanumanga heritage to Toga.
+
+#### Worldwide peer comparisons
+- Kampot (Cambodia), 7.6/7.9/7.5/8.3/7.9: much richer built heritage and food experiences.
+- Rach Gia (Vietnam), 7.2/7.5/7.3/7.8/7.9: much broader urban visitor experiences.
+- Kuala Perlis (Malaysia), 6.5/6.8/6.5/7.2/6.7: comparable modest waterfront settlement with documented food experiences.
+- Asau Village (Tuvalu), 6.4/7.5/7.0/6.4/6.1: similar village scale and living cultural context; no automatic score transfer.
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | null | null | Exact public streetscape within Toga/Tonga neighbourhood unverified. |
+| Uniqueness | null | 7.3 | Documented traditional agricultural features and distinct neighbourhood identity. |
+| Significance | null | 6.8 | Local communal land use and longstanding village culture. |
+| Experience | null | null | No specific authorized visitor itinerary; private cultivation pits not assumed accessible. |
+| Depth | null | null | No established visitor breadth. |
+
+- Applicable category scores: culture 7.5; provisional.
+- Computed worldwide overall: unranked
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: retain incomplete profile; no unsupported visitor ratings.
+- Earlier decision: all core scores null.
+- Verification still needed: UNESCO distinguishes Tonga and Tokelau neighbourhoods; do not transfer all Nanumanga heritage to Toga. Canonical validation outstanding.

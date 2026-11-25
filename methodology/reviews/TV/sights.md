@@ -835,3 +835,43 @@
 ## 2026-11-25 — aggregate scope and existing marine-area rating
 
 The UNESCO tentative submission (https://whc.unesco.org/en/tentativelists/6707) covers nine distinct island groups; eight still lack sufficient ordinary visitor evidence. Keep national aggregate impact, experience and depth null. Noonsite (https://www.noonsite.com/place/tuvalu/outer-atolls/, indexed excerpt) describes atoll-specific permissions; transport scarcity is not itself a reason to reduce intrinsic merit. UNESCO specifically identifies the western conservation islets of Funafuti as prohibited for visitation. The local council (https://kaupulefunafuti.tv/conservation-area, directly inspected) confirms protected-area scope, while the official tourism page (https://tourism.gov.tv/funafuti-marine-conservation-2/, directly inspected) describes marine biodiversity but does not establish current visitor permissions. The 2022–2032 tourism policy (https://faolex.fao.org/docs/pdf/tuv219427.pdf, indexed excerpt) proposes promoting protected-area experiences, which does not establish current implementation. Existing Funafuti Conservation Area rating is flagged for further review against the operative order (https://tuvalu-legislation.tv/cms/images/LEGISLATION/SUBORDINATE/1999/1999-0012/1999-0012_2.pdf); no prohibited landings credited in new Funafuti landscape score.
+
+
+### sight-tv-funafuti-conservation-area — legal boundary and visitor scope follow-up — 2026-11-25
+
+- YAML: [source](../../../countries/TV/sights/funafuti-conservation-area.yaml)
+- Action: rescore and correct location
+- Precise subject: legally designated marine conservation area, visitor dimensions refer exclusively to permitted guided marine excursions, not prohibited islet landings.
+- Location check: prior -8.53, 179.09 lies east of the lagoon-side legal boundary near that latitude. Replace with official Schedule 1 boundary point 44 (8°32.6376′ S, 179°2.8302′ E), converted to -8.54396, 179.04717. This is a legally specified representative boundary point, not an entrance, landing site or recommended route.
+- Evidence status: source-linked-unverified
+- Factual references consulted (2026-11-25):
+  - Funafuti Conservation Area Order 2022 revised edition (LN 1/2020), Schedule 1 and Schedule 2 map directly inspected: https://tuvalu-legislation.tv/cms/images/LEGISLATION/SUBORDINATE/1999/1999-0012/1999-0012_2.pdf . Establishes boundaries, not current tourism permission.
+  - UNESCO tentative submission directly inspected: https://whc.unesco.org/en/tentativelists/6707/ ; six western islets described as prohibited for visitation.
+  - Official sustainable tourism policy 2022–2032 indexed excerpt discusses facilitated snorkeling excursions: https://faolex.fao.org/docs/pdf/tuv219427.pdf ; policy proposal not evidence of completed implementation.
+  - Noonsite indexed excerpt describes council-arranged permits and guided snorkeling: https://www.noonsite.com/place/tuvalu/funafuti/view/docking/ (direct fetch HTTP 403).
+  - Independent historical visitor reports describe council-arranged snorkeling at multiple spots: https://www.tripadvisor.ie/Attraction_Review-g294482-d585401-Reviews-Funafuti_Marine_Conservation_Area-Funafuti.html (indexed excerpt).
+  - Local council conservation context: https://kaupulefunafuti.tv/conservation-area (indexed excerpt).
+- Missing or uncertain facts: current authorized excursion conditions, local rules and reef health remain to be directly confirmed. Do not assume islet landings or unrestricted access.
+
+#### Worldwide peer comparisons
+- Perhentian Islands (Malaysia), 9.0/8.8/7.7/9.2/8.9: more extensive permitted beach and reef experiences.
+- Ang Thong National Marine Park (Thailand), 9.0/9.0/8.6/9.1/8.9: much broader permitted marine and terrestrial exploration.
+- Cham Islands (Vietnam), 8.8/9.0/8.4/9.0/8.7: stronger combined cultural and marine visitor breadth.
+- Funafuti Lagoon (Tuvalu), 8.1/8.0/7.5/7.6/7.5: broader lagoon scope; separate conservation area has higher ecological significance and narrower permitted experience.
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | 8.3 | 8.3 | Retain documented marine and reef landscape value. |
+| Uniqueness | 8.4 | 8.4 | Retain distinctive atoll conservation context. |
+| Significance | 8.7 | 8.7 | Retain ecological and conservation importance. |
+| Experience | 7.8 | 7.8 | Documented guided snorkeling supports this provisional rating without landings. |
+| Depth | 7.3 | 7.0 | Explicitly exclude terrestrial exploration of restricted islets; multiple marine stops support focused depth. This is a permitted-experience scope correction, not a transport or permit-cost penalty. |
+
+- Applicable category scores: nature 8.8, wildlife 8.4, photography 8.4 retained.
+- Computed worldwide overall: 82.00/100
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: retain provisional ranked status for documented guided marine experiences; narrow depth and correct boundary point.
+- Earlier decision: 82.30 with imprecise representative point.
+- Verification still needed: current local permission, independent factual corroboration and canonical validation.
