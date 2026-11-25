@@ -1,0 +1,16 @@
+id: sight-il-caesarea
+name: "Caesarea National Park"
+location:
+  country_code: IL
+  latitude: 32.5
+  longitude: 34.891
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 9.1
+  experience: 8.8
+  depth: 8.6
+  categories:
+    history: 9.3
+    architecture: 9.0
+    photography: 8.9

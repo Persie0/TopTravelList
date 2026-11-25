@@ -1,0 +1,16 @@
+id: sight-cu-el-yunque-baracoa
+name: "El Yunque (Baracoa)"
+location:
+  country_code: CU
+  latitude: 20.352
+  longitude: -74.57
+scores:
+  impact: 8.5
+  uniqueness: 8.5
+  significance: 7.9
+  experience: 8.4
+  depth: 7.8
+  categories:
+    nature: 9.0
+    adventure: 8.9
+    photography: 9.0

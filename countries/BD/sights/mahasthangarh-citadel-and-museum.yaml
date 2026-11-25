@@ -1,0 +1,15 @@
+id: sight-bd-mahasthangarh-citadel-and-museum
+name: "Mahasthangarh Citadel and Museum"
+location:
+  country_code: BD
+  latitude: 24.956906
+  longitude: 89.348458
+scores:
+  impact: 7.7
+  uniqueness: 8.6
+  significance: 9.2
+  experience: 8.0
+  depth: 8.0
+  categories:
+    history: 9.4
+    culture: 8.8

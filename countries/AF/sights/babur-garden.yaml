@@ -1,0 +1,15 @@
+id: sight-af-babur-garden
+name: "Bagh-e Babur (Babur's Garden)"
+location:
+  country_code: AF
+  latitude: 34.502
+  longitude: 69.158
+scores:
+  impact: 8.1
+  uniqueness: 8.5
+  significance: 8.9
+  experience: null
+  depth: null
+  categories:
+    history: 9.0
+    architecture: 8.6

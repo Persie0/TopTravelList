@@ -1,0 +1,13 @@
+id: sight-mx-chicxulub-ring-of-cenotes
+name: "Ring of Cenotes of Chicxulub Crater"
+location:
+  country_code: MX
+  latitude: 20.75
+  longitude: -89.65
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}

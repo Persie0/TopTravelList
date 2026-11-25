@@ -1,0 +1,16 @@
+id: sight-do-pico-duarte
+name: "Pico Duarte"
+location:
+  country_code: DO
+  latitude: 19.023
+  longitude: -70.998
+scores:
+  impact: 8.9
+  uniqueness: 8.7
+  significance: 8.4
+  experience: 8.8
+  depth: 8.7
+  categories:
+    adventure: 9.3
+    nature: 9.1
+    photography: 9.1

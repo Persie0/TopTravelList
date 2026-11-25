@@ -1,0 +1,15 @@
+id: sight-ir-shah-cheragh
+name: "Shah Cheragh Shrine"
+location:
+  country_code: IR
+  latitude: 29.61
+  longitude: 52.543
+scores:
+  impact: 9.0
+  uniqueness: 8.9
+  significance: 9.0
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.3
+    culture: 9.2

@@ -1,0 +1,16 @@
+id: sight-gt-laguna-lachua
+name: "Laguna Lachuá National Park"
+location:
+  country_code: GT
+  latitude: 15.926
+  longitude: -90.674
+scores:
+  impact: 8.6
+  uniqueness: 8.5
+  significance: 8.5
+  experience: 8.3
+  depth: 8.0
+  categories:
+    nature: 9.1
+    photography: 9.0
+    wildlife: 8.8

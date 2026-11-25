@@ -1,0 +1,15 @@
+id: sight-ps-palestinian-museum
+name: "Palestinian Museum, Birzeit"
+location:
+  country_code: PS
+  latitude: 31.958
+  longitude: 35.182
+scores:
+  impact: 8.1
+  uniqueness: 8.1
+  significance: 8.4
+  experience: 8.0
+  depth: 7.5
+  categories:
+    architecture: 8.6
+    culture: 8.7

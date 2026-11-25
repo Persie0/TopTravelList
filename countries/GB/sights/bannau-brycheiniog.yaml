@@ -1,0 +1,16 @@
+id: sight-gb-bannau-brycheiniog
+name: "Bannau Brycheiniog (Brecon Beacons) National Park"
+location:
+  country_code: GB
+  latitude: 51.88
+  longitude: -3.44
+scores:
+  impact: 8.8
+  uniqueness: 8.6
+  significance: 8.5
+  experience: 9.0
+  depth: 8.9
+  categories:
+    nature: 9.2
+    adventure: 9.0
+    photography: 9.0

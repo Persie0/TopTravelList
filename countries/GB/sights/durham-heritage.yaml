@@ -1,0 +1,15 @@
+id: sight-gb-durham-heritage
+name: "Durham Castle and Cathedral"
+location:
+  country_code: GB
+  latitude: 54.774
+  longitude: -1.576
+scores:
+  impact: 9.1
+  uniqueness: 9.0
+  significance: 9.2
+  experience: 8.9
+  depth: 8.6
+  categories:
+    architecture: 9.4
+    history: 9.3

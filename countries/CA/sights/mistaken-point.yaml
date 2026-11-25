@@ -1,0 +1,15 @@
+id: sight-ca-mistaken-point
+name: "Mistaken Point"
+location:
+  country_code: CA
+  latitude: 46.63
+  longitude: -53.17
+scores:
+  impact: 8.1
+  uniqueness: 9.2
+  significance: 9.4
+  experience: 8.0
+  depth: 7.6
+  categories:
+    nature: 9.1
+    history: 8.9

@@ -1,0 +1,15 @@
+id: sight-ir-sassanid-fars
+name: "Sassanid Archaeological Landscape of Fars Region"
+location:
+  country_code: IR
+  latitude: 28.85
+  longitude: 52.53
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.2
+    history: 9.3

@@ -1,0 +1,15 @@
+id: city-pk-rawalpindi
+name: "Rawalpindi"
+location:
+  country_code: PK
+  latitude: 33.5651
+  longitude: 73.0169
+scores:
+  impact: 7.0
+  uniqueness: 7.2
+  significance: 7.5
+  experience: 7.5
+  depth: 7.4
+  categories:
+    food: 7.9
+    history: 7.7

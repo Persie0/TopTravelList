@@ -1,0 +1,16 @@
+id: sight-ni-miraflor-nature-reserve
+name: "Miraflor Nature Reserve"
+location:
+  country_code: NI
+  latitude: 13.23
+  longitude: -86.28
+scores:
+  impact: 8.0
+  uniqueness: 8.4
+  significance: 8.1
+  experience: 8.3
+  depth: 8.4
+  categories:
+    nature: 8.9
+    wildlife: 8.8
+    culture: 8.3

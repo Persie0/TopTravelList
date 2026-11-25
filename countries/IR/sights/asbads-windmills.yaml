@@ -1,0 +1,16 @@
+id: sight-ir-asbads-windmills
+name: "Asbads (Windmills) of Iran — Nashtifan representative component"
+location:
+  country_code: IR
+  latitude: 34.431944
+  longitude: 60.175556
+scores:
+  impact: 8.0
+  uniqueness: 8.9
+  significance: 8.7
+  experience: null
+  depth: null
+  categories:
+    history: 8.9
+    architecture: 8.8
+    culture: 8.6

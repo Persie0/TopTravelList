@@ -1,0 +1,16 @@
+id: sight-bb-historic-bridgetown-and-its-garrison
+name: "Historic Bridgetown and its Garrison"
+location:
+  country_code: BB
+  latitude: 13.096667
+  longitude: -59.613889
+scores:
+  impact: 8.6
+  uniqueness: 9.0
+  significance: 9.4
+  experience: 8.5
+  depth: 8.9
+  categories:
+    history: 9.4
+    architecture: 9.3
+    culture: 9.2

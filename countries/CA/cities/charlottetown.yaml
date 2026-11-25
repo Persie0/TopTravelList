@@ -1,0 +1,16 @@
+id: city-ca-charlottetown
+name: "Charlottetown"
+location:
+  country_code: CA
+  latitude: 46.2382
+  longitude: -63.1311
+scores:
+  impact: 7.6
+  uniqueness: 7.7
+  significance: 8.2
+  experience: 8.0
+  depth: 7.4
+  categories:
+    history: 8.7
+    architecture: 8.5
+    culture: 8.3

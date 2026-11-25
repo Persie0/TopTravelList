@@ -1,0 +1,15 @@
+id: sight-cy-kolossi-castle
+name: "Kolossi Castle"
+location:
+  country_code: CY
+  latitude: 34.665
+  longitude: 32.934
+scores:
+  impact: 7.7
+  uniqueness: 7.7
+  significance: 8.0
+  experience: 7.6
+  depth: 6.8
+  categories:
+    architecture: 8.2
+    history: 8.3

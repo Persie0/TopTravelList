@@ -2,7 +2,7 @@
 
 # Eswatini (SZ) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**15 ranked** · **0 unassessed** · **15 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,25 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (15)
 
-No cities, towns & villages have been assessed for **Eswatini** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Lobamba](cities/lobamba.yaml) | City / town | **77.25** | **Culture 8.9**, **History 8.8**, **Architecture 7.6** | 7.2 / 8.1 / 8.5 / 7.6 / 7.0 | [-26.4667, 31.2](https://www.google.com/maps/search/?api=1&query=-26.4667,31.2) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lobamba%2C%20Eswatini) |
+| 2 | [Bulembu](cities/bulembu.yaml) | City / town | **75.30** | **History 8.2**, **Photography 8.2**, **Culture 7.8** | 7.5 / 8.0 / 7.6 / 7.4 / 6.5 | [-25.965, 31.128](https://www.google.com/maps/search/?api=1&query=-25.965,31.128) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bulembu%2C%20Eswatini) |
+| 3 | [Mbabane](cities/mbabane.yaml) | City / town | **74.35** | **Culture 7.8**, **Photography 7.8**, **Food 7.7** | 7.3 / 7.2 / 7.7 / 7.7 / 7.5 | [-26.3167, 31.1333](https://www.google.com/maps/search/?api=1&query=-26.3167,31.1333) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mbabane%2C%20Eswatini) |
+| 4 | [Ezulwini](cities/ezulwini.yaml) | City / town | **73.30** | **Relaxation 8.3**, **Food 8.0**, **Photography 8.0**, Culture 7.8 | 7.4 / 7.5 / 6.6 / 8.1 / 7.0 | [-26.4, 31.183](https://www.google.com/maps/search/?api=1&query=-26.4,31.183) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ezulwini%2C%20Eswatini) |
+| 5 | [Malkerns](cities/malkerns.yaml) | City / town | **72.00** | **Culture 8.3**, **Food 7.9**, **Photography 7.7** | 7.1 / 7.6 / 6.7 / 7.8 / 6.6 | [-26.5667, 31.1833](https://www.google.com/maps/search/?api=1&query=-26.5667,31.1833) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Malkerns%2C%20Eswatini) |
+| 6 | [Piggs Peak](cities/piggs-peak.yaml) | City / town | **69.85** | **Photography 7.7**, **Culture 7.3** | 7.1 / 7.2 / 6.6 / 7.3 / 6.4 | [-25.9667, 31.25](https://www.google.com/maps/search/?api=1&query=-25.9667,31.25) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Piggs%20Peak%2C%20Eswatini) |
+| 7 | [Manzini](cities/manzini.yaml) | City / town | **68.90** | **Food 7.9**, **Culture 7.7** | 6.4 / 6.7 / 7.2 / 7.5 / 7.3 | [-26.495, 31.388](https://www.google.com/maps/search/?api=1&query=-26.495,31.388) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Manzini%2C%20Eswatini) |
+| 8 | [Ngwenya](cities/ngwenya.yaml) | City / town | **68.10** | **Photography 7.5**, **Culture 7.4**, **History 7.2** | 6.7 / 7.1 / 6.8 / 7.1 / 6.0 | [-26.2167, 31.0333](https://www.google.com/maps/search/?api=1&query=-26.2167,31.0333) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ngwenya%2C%20Eswatini) |
+| 9 | [Siteki](cities/siteki.yaml) | City / town | **67.65** | **Photography 7.5**, **Culture 7.3** | 6.7 / 7.0 / 6.6 / 7.1 / 6.2 | [-26.453, 31.948](https://www.google.com/maps/search/?api=1&query=-26.453,31.948) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Siteki%2C%20Eswatini) |
+| 10 | [Nhlangano](cities/nhlangano.yaml) | City / town | **65.90** | **Culture 7.3**, **Food 7.2** | 6.3 / 6.6 / 6.8 / 7.0 / 6.4 | [-27.1167, 31.2](https://www.google.com/maps/search/?api=1&query=-27.1167,31.2) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nhlangano%2C%20Eswatini) |
+| 11 | [Simunye](cities/simunye.yaml) | City / town | **64.20** | **Culture 7.0** | 6.3 / 6.5 / 6.3 / 6.9 / 6.1 | [-26.2, 31.9333](https://www.google.com/maps/search/?api=1&query=-26.2,31.9333) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Simunye%2C%20Eswatini) |
+| 12 | [Big Bend](cities/big-bend.yaml) | City / town | **64.10** | **Culture 7.0**, **Food 7.0** | 6.2 / 6.5 / 6.4 / 6.9 / 6.1 | [-26.8167, 31.9333](https://www.google.com/maps/search/?api=1&query=-26.8167,31.9333) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Big%20Bend%2C%20Eswatini) |
+| 13 | [Mankayane](cities/mankayane.yaml) | City / town | **63.80** | **Culture 7.0**, **Photography 7.0** | 6.2 / 6.6 / 6.3 / 6.8 / 5.9 | [-26.6833, 31.0833](https://www.google.com/maps/search/?api=1&query=-26.6833,31.0833) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mankayane%2C%20Eswatini) |
+| 14 | [Matsapha](cities/matsapha.yaml) | City / town | **62.25** | **Food 7.0**, **Culture 6.9** | 5.8 / 6.1 / 6.6 / 6.6 / 6.5 | [-26.5, 31.3](https://www.google.com/maps/search/?api=1&query=-26.5,31.3) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Matsapha%2C%20Eswatini) |
+| 15 | [Lavumisa](cities/lavumisa.yaml) | City / town | **61.30** | **Culture 6.8** | 5.9 / 6.3 / 6.2 / 6.5 / 5.7 | [-27.3167, 31.9](https://www.google.com/maps/search/?api=1&query=-27.3167,31.9) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lavumisa%2C%20Eswatini) |
 
 ---
 

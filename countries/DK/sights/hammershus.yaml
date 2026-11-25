@@ -1,0 +1,16 @@
+id: sight-dk-hammershus
+name: "Hammershus Castle Ruins"
+location:
+  country_code: DK
+  latitude: 55.271
+  longitude: 14.756
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 8.8
+  experience: 8.7
+  depth: 8.2
+  categories:
+    architecture: 8.9
+    history: 9.1
+    photography: 9

@@ -1,0 +1,15 @@
+id: city-ie-trim
+name: "Trim"
+location:
+  country_code: IE
+  latitude: 53.555
+  longitude: -6.79
+scores:
+  impact: 8.0
+  uniqueness: 8.1
+  significance: 8.3
+  experience: 8.2
+  depth: 7.4
+  categories:
+    history: 8.8
+    architecture: 8.5

@@ -1,0 +1,16 @@
+id: sight-ge-alaverdi-cathedral
+name: "Alaverdi Cathedral"
+location:
+  country_code: GE
+  latitude: 42.032
+  longitude: 45.377
+scores:
+  impact: 8.2
+  uniqueness: 8.2
+  significance: 8.6
+  experience: 7.8
+  depth: 7.3
+  categories:
+    architecture: 8.8
+    history: 8.7
+    culture: 8.4

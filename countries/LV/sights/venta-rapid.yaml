@@ -1,0 +1,15 @@
+id: sight-lv-venta-rapid
+name: "Venta Rapid (Ventas Rumba)"
+location:
+  country_code: LV
+  latitude: 56.967
+  longitude: 21.979
+scores:
+  impact: 8.2
+  uniqueness: 8.6
+  significance: 7.7
+  experience: 8.4
+  depth: 7.2
+  categories:
+    nature: 8.7
+    photography: 8.9

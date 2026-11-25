@@ -1,0 +1,15 @@
+id: sight-gt-national-theater-guatemala
+name: "National Theater of Guatemala"
+location:
+  country_code: GT
+  latitude: 14.629
+  longitude: -90.516
+scores:
+  impact: 8.0
+  uniqueness: 8.6
+  significance: 8.4
+  experience: 8.0
+  depth: 7.5
+  categories:
+    architecture: 9.0
+    culture: 8.8

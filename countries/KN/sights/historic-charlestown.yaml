@@ -1,0 +1,16 @@
+id: sight-kn-historic-charlestown
+name: "Historic Charlestown"
+location:
+  country_code: KN
+  latitude: 17.138
+  longitude: -62.625
+scores:
+  impact: 8.0
+  uniqueness: 8.6
+  significance: 8.7
+  experience: 8.2
+  depth: 7.5
+  categories:
+    architecture: 8.9
+    history: 9.1
+    culture: 8.9

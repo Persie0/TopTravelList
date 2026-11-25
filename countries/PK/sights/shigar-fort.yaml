@@ -1,0 +1,15 @@
+id: sight-pk-shigar-fort
+name: "Shigar Fort"
+location:
+  country_code: PK
+  latitude: 35.425
+  longitude: 75.74
+scores:
+  impact: 8.1
+  uniqueness: 8.3
+  significance: 8.0
+  experience: 8.0
+  depth: 7.3
+  categories:
+    architecture: 8.6
+    history: 8.2

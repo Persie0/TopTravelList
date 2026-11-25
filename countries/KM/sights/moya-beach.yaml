@@ -1,0 +1,16 @@
+id: sight-km-moya-beach
+name: "Moya Beach"
+location:
+  country_code: KM
+  latitude: -12.3110
+  longitude: 44.4340
+scores:
+  impact: 8.8
+  uniqueness: 8.5
+  significance: 6.1
+  experience: 8.6
+  depth: 7.2
+  categories:
+    beaches: 9.2
+    photography: 9.2
+    relaxation: 8.8

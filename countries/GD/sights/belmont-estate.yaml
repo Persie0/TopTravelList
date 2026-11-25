@@ -1,0 +1,16 @@
+id: sight-gd-belmont-estate
+name: "Belmont Estate"
+location:
+  country_code: GD
+  latitude: 12.173
+  longitude: -61.639
+scores:
+  impact: 7.8
+  uniqueness: 8.5
+  significance: 8.1
+  experience: 8.7
+  depth: 8.3
+  categories:
+    culture: 9.0
+    food: 9.1
+    history: 8.5

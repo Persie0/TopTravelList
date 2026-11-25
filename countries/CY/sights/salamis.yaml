@@ -1,0 +1,15 @@
+id: sight-cy-salamis
+name: "Salamis Archaeological Site"
+location:
+  country_code: CY
+  latitude: 35.186
+  longitude: 33.902
+scores:
+  impact: 8.5
+  uniqueness: 8.6
+  significance: 9.0
+  experience: 8.4
+  depth: 8.4
+  categories:
+    history: 9.2
+    architecture: 8.9

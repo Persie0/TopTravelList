@@ -1,0 +1,15 @@
+id: city-bs-matthew-town
+name: "Matthew Town"
+location:
+  country_code: BS
+  latitude: 20.951
+  longitude: -73.673
+scores:
+  impact: 6.3
+  uniqueness: 7.1
+  significance: 7.0
+  experience: 6.8
+  depth: 5.9
+  categories:
+    culture: 7.7
+    history: 7.5

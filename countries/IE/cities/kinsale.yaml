@@ -1,0 +1,16 @@
+id: city-ie-kinsale
+name: "Kinsale"
+location:
+  country_code: IE
+  latitude: 51.706
+  longitude: -8.523
+scores:
+  impact: 8.4
+  uniqueness: 8.4
+  significance: 8.4
+  experience: 8.7
+  depth: 7.8
+  categories:
+    food: 8.9
+    architecture: 8.8
+    history: 8.7

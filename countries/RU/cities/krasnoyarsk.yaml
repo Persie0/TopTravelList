@@ -1,0 +1,15 @@
+id: city-ru-krasnoyarsk
+name: "Krasnoyarsk"
+location:
+  country_code: RU
+  latitude: 56.0153
+  longitude: 92.8932
+scores:
+  impact: 7.7
+  uniqueness: 7.7
+  significance: 7.7
+  experience: 8.0
+  depth: 7.8
+  categories:
+    nature: 8.1
+    culture: 7.9

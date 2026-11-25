@@ -1,0 +1,15 @@
+id: sight-af-salang-pass
+name: "Salang Pass Mountain Landscape"
+location:
+  country_code: AF
+  latitude: 35.31
+  longitude: 69.04
+scores:
+  impact: 8.4
+  uniqueness: 8.0
+  significance: 7.5
+  experience: null
+  depth: null
+  categories:
+    nature: 8.6
+    photography: 8.7

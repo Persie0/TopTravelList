@@ -1,0 +1,14 @@
+id: city-mn-bayankhongor
+name: "Bayankhongor"
+location:
+  country_code: MN
+  latitude: 46.194
+  longitude: 100.718
+scores:
+  impact: 6.2
+  uniqueness: 6.5
+  significance: 6.6
+  experience: 6.9
+  depth: 6.3
+  categories:
+    culture: 7.0

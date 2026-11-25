@@ -1,0 +1,15 @@
+id: sight-il-crusader-fortresses
+name: "Crusader Fortresses (Tentative Serial Property)"
+location:
+  country_code: IL
+  latitude: 33.045
+  longitude: 35.235
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 8.9
+  experience: null
+  depth: null
+  categories:
+    history: 9.1
+    architecture: 9.0

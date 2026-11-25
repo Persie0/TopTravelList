@@ -1,0 +1,15 @@
+id: sight-ie-hill-of-tara
+name: "Hill of Tara"
+location:
+  country_code: IE
+  latitude: 53.578
+  longitude: -6.612
+scores:
+  impact: 7.8
+  uniqueness: 8.6
+  significance: 9.2
+  experience: 8.1
+  depth: 7.8
+  categories:
+    history: 9.3
+    culture: 8.8

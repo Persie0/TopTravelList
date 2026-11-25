@@ -1,0 +1,13 @@
+id: sight-jm-archaeological-ensemble-port-royal
+name: "The Archaeological Ensemble of 17th Century Port Royal"
+location:
+  country_code: JM
+  latitude: 17.935
+  longitude: -76.842
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}

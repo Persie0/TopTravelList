@@ -1,0 +1,15 @@
+id: sight-vc-owia-salt-pond
+name: "Owia Salt Pond"
+location:
+  country_code: VC
+  latitude: 13.377
+  longitude: -61.135
+scores:
+  impact: 8.5
+  uniqueness: 8.5
+  significance: 7.0
+  experience: 8.3
+  depth: 6.6
+  categories:
+    nature: 8.9
+    photography: 9.0

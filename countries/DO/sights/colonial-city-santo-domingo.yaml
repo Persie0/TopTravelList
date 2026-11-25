@@ -1,0 +1,16 @@
+id: sight-do-colonial-city-santo-domingo
+name: "Colonial City of Santo Domingo"
+location:
+  country_code: DO
+  latitude: 18.4724
+  longitude: -69.884
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 9.4
+  experience: 8.9
+  depth: 9.1
+  categories:
+    history: 9.4
+    architecture: 9.3
+    culture: 9.0

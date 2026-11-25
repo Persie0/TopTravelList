@@ -1,0 +1,16 @@
+id: sight-gt-grutas-de-lanquin
+name: "Grutas de Lanquín National Park"
+location:
+  country_code: GT
+  latitude: 15.578
+  longitude: -89.982
+scores:
+  impact: 8.3
+  uniqueness: 8.4
+  significance: 7.9
+  experience: 8.4
+  depth: 7.8
+  categories:
+    nature: 8.9
+    adventure: 8.9
+    culture: 8.6

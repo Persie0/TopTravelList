@@ -1,0 +1,15 @@
+id: sight-pk-hiran-minar
+name: "Hiran Minar and Tank"
+location:
+  country_code: PK
+  latitude: 31.748
+  longitude: 73.956
+scores:
+  impact: 8.2
+  uniqueness: 8.5
+  significance: 8.0
+  experience: 8.0
+  depth: 7.2
+  categories:
+    architecture: 8.6
+    history: 8.3

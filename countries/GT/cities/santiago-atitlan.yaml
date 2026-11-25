@@ -1,0 +1,15 @@
+id: city-gt-santiago-atitlan
+name: "Santiago Atitlán"
+location:
+  country_code: GT
+  latitude: 14.638
+  longitude: -91.229
+scores:
+  impact: 7.8
+  uniqueness: 8.6
+  significance: 8.2
+  experience: 8.0
+  depth: 7.3
+  categories:
+    culture: 9.1
+    history: 8.7

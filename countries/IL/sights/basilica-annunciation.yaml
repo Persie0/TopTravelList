@@ -1,0 +1,16 @@
+id: sight-il-basilica-annunciation
+name: "Basilica of the Annunciation, Nazareth"
+location:
+  country_code: IL
+  latitude: 32.702
+  longitude: 35.298
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 9.2
+  experience: 8.5
+  depth: 7.9
+  categories:
+    architecture: 9.0
+    culture: 9.2
+    history: 9.1

@@ -1,0 +1,16 @@
+id: sight-mx-unam-central-campus
+name: "Central University City Campus of UNAM"
+location:
+  country_code: MX
+  latitude: 19.332
+  longitude: -99.188
+scores:
+  impact: 8.4
+  uniqueness: 8.8
+  significance: 8.9
+  experience: 8.3
+  depth: 8.4
+  categories:
+    architecture: 9.2
+    culture: 9.0
+    history: 8.9

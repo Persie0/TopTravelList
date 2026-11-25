@@ -1,0 +1,16 @@
+id: sight-no-kjerag
+name: "Kjerag and Kjeragbolten hike"
+location:
+  country_code: "NO"
+  latitude: 59.034
+  longitude: 6.593
+scores:
+  impact: 9.3
+  uniqueness: 9.3
+  significance: 8.1
+  experience: 8.8
+  depth: 8.1
+  categories:
+    nature: 9.2
+    photography: 9.5
+    adventure: 9.4

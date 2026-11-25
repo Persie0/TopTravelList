@@ -1,0 +1,16 @@
+id: city-tr-edirne
+name: "Edirne"
+location:
+  country_code: TR
+  latitude: 41.6771
+  longitude: 26.5557
+scores:
+  impact: 8.3
+  uniqueness: 8.4
+  significance: 8.8
+  experience: 8.4
+  depth: 8.1
+  categories:
+    architecture: 9.0
+    history: 9.0
+    food: 8.3

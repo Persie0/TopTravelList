@@ -1,0 +1,15 @@
+id: city-af-istalif
+name: "Istalif"
+location:
+  country_code: AF
+  latitude: 34.83
+  longitude: 69.1
+scores:
+  impact: 7.6
+  uniqueness: 7.8
+  significance: 7.1
+  experience: null
+  depth: null
+  categories:
+    culture: 8.2
+    photography: 8.0

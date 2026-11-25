@@ -1,0 +1,15 @@
+id: sight-mx-el-tajin
+name: "El Tajín"
+location:
+  country_code: MX
+  latitude: 20.448
+  longitude: -97.378
+scores:
+  impact: 8.7
+  uniqueness: 9.0
+  significance: 9.1
+  experience: 8.6
+  depth: 8.5
+  categories:
+    history: 9.3
+    architecture: 9.3

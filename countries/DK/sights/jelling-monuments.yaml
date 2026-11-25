@@ -1,0 +1,15 @@
+id: sight-dk-jelling-monuments
+name: "Jelling Mounds, Runic Stones and Church"
+location:
+  country_code: DK
+  latitude: 55.756
+  longitude: 9.419
+scores:
+  impact: 8.4
+  uniqueness: 9.1
+  significance: 9.4
+  experience: 8.5
+  depth: 8.1
+  categories:
+    history: 9.4
+    culture: 9.1

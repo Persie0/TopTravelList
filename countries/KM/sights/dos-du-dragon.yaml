@@ -1,0 +1,15 @@
+id: sight-km-dos-du-dragon
+name: "Dos du Dragon"
+location:
+  country_code: KM
+  latitude: -11.4100
+  longitude: 43.3800
+scores:
+  impact: 8.7
+  uniqueness: 8.4
+  significance: 6.6
+  experience: 8.2
+  depth: 6.5
+  categories:
+    nature: 8.9
+    photography: 9.2

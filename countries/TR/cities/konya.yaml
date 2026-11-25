@@ -1,0 +1,16 @@
+id: city-tr-konya
+name: "Konya"
+location:
+  country_code: TR
+  latitude: 37.8746
+  longitude: 32.4932
+scores:
+  impact: 8.0
+  uniqueness: 8.7
+  significance: 9.0
+  experience: 8.2
+  depth: 8.0
+  categories:
+    history: 9.1
+    culture: 9.1
+    architecture: 8.8

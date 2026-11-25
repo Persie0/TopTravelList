@@ -1,0 +1,16 @@
+id: sight-is-myvatn-laxa
+name: "Mývatn and Laxá"
+location:
+  country_code: IS
+  latitude: 65.6
+  longitude: -17
+scores:
+  impact: 9.1
+  uniqueness: 9.3
+  significance: 9.2
+  experience: 9.1
+  depth: 9.2
+  categories:
+    nature: 9.5
+    wildlife: 9.3
+    photography: 9.3

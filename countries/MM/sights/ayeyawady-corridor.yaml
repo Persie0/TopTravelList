@@ -1,0 +1,15 @@
+id: sight-mm-ayeyawady-corridor
+name: "Ayeyawady River Corridor"
+location:
+  country_code: MM
+  latitude: 22.22
+  longitude: 96.01
+scores:
+  impact: 8.0
+  uniqueness: 8.7
+  significance: 8.9
+  experience: null
+  depth: null
+  categories:
+    nature: 8.8
+    wildlife: 8.9

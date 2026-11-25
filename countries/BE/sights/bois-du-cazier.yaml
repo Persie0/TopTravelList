@@ -1,0 +1,15 @@
+id: sight-be-bois-du-cazier
+name: "Bois du Cazier mining heritage museum"
+location:
+  country_code: BE
+  latitude: 50.377778
+  longitude: 4.440833
+scores:
+  impact: 8.5
+  uniqueness: 8.7
+  significance: 9.1
+  experience: 8.7
+  depth: 8.6
+  categories:
+    history: 9.3
+    culture: 8.8

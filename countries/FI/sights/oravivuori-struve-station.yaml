@@ -1,0 +1,14 @@
+id: sight-fi-oravivuori-struve-station
+name: "Oravivuori (PUOLAKKA) Struve Geodetic Arc Station"
+location:
+  country_code: FI
+  latitude: 61.926667
+  longitude: 25.533611
+scores:
+  impact: 6.8
+  uniqueness: 8.1
+  significance: 8.6
+  experience: 7.8
+  depth: 6.6
+  categories:
+    history: 8.6

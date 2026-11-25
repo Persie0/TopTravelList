@@ -1,0 +1,16 @@
+id: city-mx-oaxaca
+name: "Oaxaca de Juárez"
+location:
+  country_code: MX
+  latitude: 17.073
+  longitude: -96.726
+scores:
+  impact: 8.8
+  uniqueness: 9.1
+  significance: 9.0
+  experience: 9.1
+  depth: 8.7
+  categories:
+    culture: 9.4
+    food: 9.4
+    architecture: 9.0

@@ -1,0 +1,15 @@
+id: city-is-borgarnes
+name: "Borgarnes"
+location:
+  country_code: IS
+  latitude: 64.538
+  longitude: -21.92
+scores:
+  impact: 7.6
+  uniqueness: 7.8
+  significance: 8.0
+  experience: 8.0
+  depth: 7.3
+  categories:
+    history: 8.5
+    culture: 8.3

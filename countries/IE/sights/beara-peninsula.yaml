@@ -1,0 +1,16 @@
+id: sight-ie-beara-peninsula
+name: "Beara Peninsula"
+location:
+  country_code: IE
+  latitude: 51.7
+  longitude: -9.93
+scores:
+  impact: 9.0
+  uniqueness: 8.8
+  significance: 8.4
+  experience: 8.9
+  depth: 9.0
+  categories:
+    nature: 9.3
+    photography: 9.2
+    adventure: 9.0

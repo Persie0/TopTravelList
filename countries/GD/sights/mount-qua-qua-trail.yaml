@@ -1,0 +1,16 @@
+id: sight-gd-mount-qua-qua-trail
+name: "Mount Qua Qua Trail"
+location:
+  country_code: GD
+  latitude: 12.104
+  longitude: -61.704
+scores:
+  impact: 8.4
+  uniqueness: 8.2
+  significance: 6.9
+  experience: 8.4
+  depth: 7.5
+  categories:
+    adventure: 8.9
+    nature: 8.8
+    photography: 8.9

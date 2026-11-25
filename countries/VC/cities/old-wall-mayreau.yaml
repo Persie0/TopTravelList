@@ -1,0 +1,15 @@
+id: city-vc-old-wall-mayreau
+name: "Old Wall (Mayreau)"
+location:
+  country_code: VC
+  latitude: 12.641
+  longitude: -61.392
+scores:
+  impact: 7.8
+  uniqueness: 8.3
+  significance: 6.9
+  experience: 7.9
+  depth: 6.0
+  categories:
+    culture: 8.6
+    photography: 8.8

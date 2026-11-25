@@ -1,0 +1,15 @@
+id: city-gb-aberystwyth
+name: "Aberystwyth"
+location:
+  country_code: GB
+  latitude: 52.415
+  longitude: -4.082
+scores:
+  impact: 7.9
+  uniqueness: 8.0
+  significance: 8.0
+  experience: 8.4
+  depth: 7.9
+  categories:
+    culture: 8.5
+    relaxation: 8.5

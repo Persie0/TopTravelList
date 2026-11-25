@@ -1,0 +1,16 @@
+id: sight-mx-las-labradas
+name: "Las Labradas Archaeological Site"
+location:
+  country_code: MX
+  latitude: 23.63
+  longitude: -106.79
+scores:
+  impact: 8.1
+  uniqueness: 8.7
+  significance: 8.7
+  experience: 8.1
+  depth: 7.5
+  categories:
+    history: 9.0
+    culture: 8.9
+    photography: 8.8

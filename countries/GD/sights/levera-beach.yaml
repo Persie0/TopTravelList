@@ -1,0 +1,16 @@
+id: sight-gd-levera-beach
+name: "Levera Beach"
+location:
+  country_code: GD
+  latitude: 12.226
+  longitude: -61.603
+scores:
+  impact: 8.8
+  uniqueness: 8.5
+  significance: 7.7
+  experience: 8.0
+  depth: 7.0
+  categories:
+    beaches: 9.1
+    photography: 9.3
+    wildlife: 8.8

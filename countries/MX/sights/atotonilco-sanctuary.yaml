@@ -1,0 +1,16 @@
+id: sight-mx-atotonilco-sanctuary
+name: "Sanctuary of Jesús Nazareno de Atotonilco"
+location:
+  country_code: MX
+  latitude: 21.006
+  longitude: -100.795
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 8.3
+  depth: 7.8
+  categories:
+    architecture: 9.1
+    culture: 9.0
+    history: 9.1

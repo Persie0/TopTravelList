@@ -1,0 +1,16 @@
+id: sight-gb-loch-ness
+name: "Loch Ness"
+location:
+  country_code: GB
+  latitude: 57.3
+  longitude: -4.45
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 8.4
+  experience: 8.8
+  depth: 8.6
+  categories:
+    nature: 9.0
+    photography: 9.0
+    culture: 8.7

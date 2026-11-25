@@ -1,0 +1,15 @@
+id: sight-ps-milk-grotto
+name: "Milk Grotto, Bethlehem"
+location:
+  country_code: PS
+  latitude: 31.703
+  longitude: 35.208
+scores:
+  impact: 7.6
+  uniqueness: 8.0
+  significance: 8.2
+  experience: 7.8
+  depth: 6.5
+  categories:
+    culture: 8.5
+    history: 8.3

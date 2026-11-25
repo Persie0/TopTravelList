@@ -1,0 +1,15 @@
+id: sight-gb-hadrians-wall
+name: "Hadrian's Wall (Frontiers of the Roman Empire)"
+location:
+  country_code: GB
+  latitude: 55.003
+  longitude: -2.33
+scores:
+  impact: 8.9
+  uniqueness: 9.2
+  significance: 9.5
+  experience: 8.9
+  depth: 9.3
+  categories:
+    history: 9.6
+    photography: 9.0

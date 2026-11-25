@@ -1,0 +1,16 @@
+id: city-fi-naantali
+name: "Naantali"
+location:
+  country_code: FI
+  latitude: 60.467
+  longitude: 22.023
+scores:
+  impact: 8.0
+  uniqueness: 8.0
+  significance: 7.9
+  experience: 8.5
+  depth: 7.4
+  categories:
+    architecture: 8.5
+    relaxation: 8.8
+    family: 8.5

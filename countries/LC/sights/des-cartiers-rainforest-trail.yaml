@@ -1,0 +1,16 @@
+id: sight-lc-des-cartiers-rainforest-trail
+name: "Des Cartiers Rainforest Trail"
+location:
+  country_code: LC
+  latitude: 13.839
+  longitude: -60.983
+scores:
+  impact: 8.0
+  uniqueness: 8.5
+  significance: 8.0
+  experience: 8.5
+  depth: 7.6
+  categories:
+    nature: 9.1
+    wildlife: 9.2
+    adventure: 8.5

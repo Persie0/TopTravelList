@@ -1,0 +1,15 @@
+id: city-ru-derbent
+name: "Derbent"
+location:
+  country_code: RU
+  latitude: 42.0589
+  longitude: 48.2908
+scores:
+  impact: 8.4
+  uniqueness: 8.7
+  significance: 9.0
+  experience: 8.1
+  depth: 7.9
+  categories:
+    history: 9.2
+    architecture: 8.9

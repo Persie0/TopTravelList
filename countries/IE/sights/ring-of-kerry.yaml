@@ -1,0 +1,16 @@
+id: sight-ie-ring-of-kerry
+name: "Ring of Kerry scenic route"
+location:
+  country_code: IE
+  latitude: 51.94
+  longitude: -10
+scores:
+  impact: 9.1
+  uniqueness: 8.8
+  significance: 8.6
+  experience: 9.1
+  depth: 9.2
+  categories:
+    nature: 9.3
+    photography: 9.3
+    adventure: 8.8

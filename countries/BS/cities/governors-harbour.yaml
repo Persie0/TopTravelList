@@ -1,0 +1,16 @@
+id: city-bs-governors-harbour
+name: "Governor's Harbour"
+location:
+  country_code: BS
+  latitude: 25.196
+  longitude: -76.243
+scores:
+  impact: 7.4
+  uniqueness: 7.8
+  significance: 7.4
+  experience: 7.7
+  depth: 6.8
+  categories:
+    architecture: 8.0
+    photography: 8.3
+    culture: 8.0

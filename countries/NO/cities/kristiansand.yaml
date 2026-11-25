@@ -1,0 +1,16 @@
+id: city-no-kristiansand
+name: "Kristiansand"
+location:
+  country_code: "NO"
+  latitude: 58.147
+  longitude: 7.995
+scores:
+  impact: 7.9
+  uniqueness: 7.8
+  significance: 7.9
+  experience: 8.5
+  depth: 8.2
+  categories:
+    beaches: 8.5
+    culture: 8.4
+    architecture: 8.4

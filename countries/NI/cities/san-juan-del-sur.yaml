@@ -1,0 +1,16 @@
+id: city-ni-san-juan-del-sur
+name: "San Juan del Sur"
+location:
+  country_code: NI
+  latitude: 11.252
+  longitude: -85.87
+scores:
+  impact: 7.8
+  uniqueness: 7.6
+  significance: 6.8
+  experience: 8.4
+  depth: 7.3
+  categories:
+    food: 8.2
+    nightlife: 8.6
+    photography: 8.5

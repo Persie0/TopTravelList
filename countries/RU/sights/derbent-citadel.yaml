@@ -1,0 +1,15 @@
+id: sight-ru-derbent-citadel
+name: "Citadel, Ancient City and Fortress Buildings of Derbent"
+location:
+  country_code: RU
+  latitude: 42.053
+  longitude: 48.276
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.1
+    history: 9.3

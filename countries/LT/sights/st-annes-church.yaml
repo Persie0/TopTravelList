@@ -1,0 +1,16 @@
+id: sight-lt-st-annes-church
+name: "St Anne's Church (Vilnius)"
+location:
+  country_code: LT
+  latitude: 54.683
+  longitude: 25.293
+scores:
+  impact: 8.6
+  uniqueness: 8.6
+  significance: 8.5
+  experience: 8.0
+  depth: 7.2
+  categories:
+    architecture: 9.2
+    history: 8.7
+    photography: 9
