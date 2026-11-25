@@ -1,0 +1,15 @@
+id: sight-td-manda-national-park
+name: "Manda National Park"
+location:
+  country_code: TD
+  latitude: 9.30
+  longitude: 18.30
+scores:
+  impact: null
+  uniqueness: 7.9
+  significance: 8.5
+  experience: null
+  depth: null
+  categories:
+    nature: 8.8
+    wildlife: 8.8
