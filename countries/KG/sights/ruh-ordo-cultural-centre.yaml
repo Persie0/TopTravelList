@@ -1,0 +1,15 @@
+id: sight-kg-ruh-ordo-cultural-centre
+name: "Ruh Ordo Cultural Centre"
+location:
+  country_code: KG
+  latitude: 42.645
+  longitude: 77.095
+scores:
+  impact: 7.3
+  uniqueness: 7.4
+  significance: 6.9
+  experience: 7.8
+  depth: 7.3
+  categories:
+    culture: 8.1
+    photography: 7.9

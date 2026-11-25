@@ -1,0 +1,15 @@
+id: city-ae-dibba-al-fujairah
+name: "Dibba Al Fujairah"
+location:
+  country_code: AE
+  latitude: 25.59
+  longitude: 56.26
+scores:
+  impact: 7.0
+  uniqueness: 7.2
+  significance: 7.0
+  experience: 7.5
+  depth: 6.7
+  categories:
+    relaxation: 7.7
+    culture: 7.5

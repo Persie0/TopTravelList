@@ -1,0 +1,14 @@
+id: sight-gm-six-gun-battery
+name: "Six-Gun Battery"
+location:
+  country_code: GM
+  latitude: 13.452333
+  longitude: -16.571778
+scores:
+  impact: null
+  uniqueness: null
+  significance: 8.6
+  experience: null
+  depth: null
+  categories:
+    history: 9.0
