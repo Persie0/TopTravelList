@@ -180,3 +180,7 @@ No matching GB parent records identified by generated inventory name and approxi
 ### Cayman Islands coverage — 2026-11-25
 
 No matching GB parent records identified by generated name/coordinate screen. Add 2 settlements and 11 sights across all three islands. Reef condition accounts for DoE documented decline and CCMI mixed recovery; no pristine reef or wildlife encounter guarantee. Stingray Sandbar distinct from Stingray City dive site, no feeding or handling credited. Source excerpts inspected; exact GPS and full independent verification pending. No exact-10 additions.
+
+### Turks and Caicos coverage — 2026-11-26
+
+No matching GB parent records identified in generated name and approximate coordinate screen. Add 3 settlements and 12 sights. Main visitor sites across Providenciales, Grand Turk, North and Middle Caicos, South Caicos and Salt Cay. East Caicos not assumed to have ordinary established visitor routes. Marine ratings account for coral stress, no pristine reef or guaranteed wildlife. Search excerpts inspected; full independent claims, GPS and access verification pending.

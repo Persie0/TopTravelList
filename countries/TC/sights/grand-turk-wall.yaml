@@ -1,0 +1,16 @@
+id: sight-tc-grand-turk-wall
+name: "Grand Turk Wall (permitted dive sites)"
+location:
+  country_code: TC
+  latitude: 21.462
+  longitude: -71.153
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 8.6
+  experience: 8.7
+  depth: 8.7
+  categories:
+    nature: 8.8
+    adventure: 9.1
+    wildlife: 8.7
