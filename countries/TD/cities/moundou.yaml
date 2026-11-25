@@ -2,8 +2,8 @@ id: city-td-moundou
 name: "Moundou"
 location:
   country_code: TD
-  latitude: 8.57
-  longitude: 16.08
+  latitude: 8.574375
+  longitude: 16.077216
 scores:
   impact: null
   uniqueness: 6.6
