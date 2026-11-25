@@ -1,0 +1,15 @@
+id: sight-va-vatican-grottoes
+name: "Vatican Grottoes"
+location:
+  country_code: VA
+  latitude: 41.90215
+  longitude: 12.45395
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 9.2
+  experience: 8.5
+  depth: 8.0
+  categories:
+    history: 9.4
+    culture: 9.2

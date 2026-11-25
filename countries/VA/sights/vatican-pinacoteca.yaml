@@ -1,0 +1,15 @@
+id: sight-va-vatican-pinacoteca
+name: "Vatican Pinacoteca"
+location:
+  country_code: VA
+  latitude: 41.90614
+  longitude: 12.45328
+scores:
+  impact: 9.3
+  uniqueness: 9.3
+  significance: 9.5
+  experience: 9.2
+  depth: 9.2
+  categories:
+    culture: 9.7
+    history: 9.5

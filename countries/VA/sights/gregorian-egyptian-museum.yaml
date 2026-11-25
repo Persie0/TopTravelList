@@ -1,0 +1,15 @@
+id: sight-va-gregorian-egyptian-museum
+name: "Gregorian Egyptian Museum"
+location:
+  country_code: VA
+  latitude: 41.90620
+  longitude: 12.45417
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 8.7
+  depth: 8.7
+  categories:
+    culture: 9.2
+    history: 9.3
