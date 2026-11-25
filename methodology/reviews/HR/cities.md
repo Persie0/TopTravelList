@@ -12,6 +12,7 @@
 - Location check: 42.6507, 18.0944; approximate representative point, independent verification pending.
 - Evidence status: source-linked-unverified
 - Evidence: [Croatian National Tourist Board](https://visitkastela.croatia.hr/en-gb/useful-information/frequently-asked-questions-about-croatia) — consulted 2026-11-25 for tourism identity or regional context; individual facts and access not fully corroborated.
+- Supplemental evidence (2026-11-25): https://tzdubrovnik.hr/lang/en/get/lokalni_prijevoz/2143/going_on_foot.html — City tourism board documents Gruž, Lapad and Pile visitor areas; UNESCO https://whc.unesco.org/en/list/95/ identifies the old city as separate bounded heritage.
 - Missing or uncertain facts: exact representative GPS, site-specific visitor access and claim-level corroboration.
 
 #### Worldwide peer comparisons
@@ -23,6 +24,8 @@
 | [Hoi An (VN)](../../../countries/VN/cities/hoi-an.yaml) (9 / 9.3 / 9.1 / 9 / 8.7) | historic trading settlement | Uniqueness higher: Rare intact fortified Adriatic republic city; depth higher: Several districts but excludes island excursions. Current profile checked. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 9.4 | Dramatic walled maritime city and limestone streets |
@@ -47,6 +50,7 @@
 - Location check: 43.5081, 16.4402; approximate representative point, independent verification pending.
 - Evidence status: source-linked-unverified
 - Evidence: [Croatian National Tourist Board](https://visitkastela.croatia.hr/en-gb/useful-information/frequently-asked-questions-about-croatia) — consulted 2026-11-25 for tourism identity or regional context; individual facts and access not fully corroborated.
+- Supplemental evidence (2026-11-25): https://visitsplit.com/index.php/en/1316/split-in-1-day — City tourism board describes palace, Riva, Matejuška, Varoš and Marjan as distinct urban visitor experiences.
 - Missing or uncertain facts: exact representative GPS, site-specific visitor access and claim-level corroboration.
 
 #### Worldwide peer comparisons
@@ -58,6 +62,8 @@
 | [Hoi An (VN)](../../../countries/VN/cities/hoi-an.yaml) (9 / 9.3 / 9.1 / 9 / 8.7) | historic trading settlement | Uniqueness similar: Rare inhabited imperial palace urban fabric; depth higher: Multiple urban neighborhoods without offshore islands. Current profile checked. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 9.1 | Roman palace embedded in living city and harbor |
@@ -93,6 +99,8 @@
 | [Hoi An (VN)](../../../countries/VN/cities/hoi-an.yaml) (9 / 9.3 / 9.1 / 9 / 8.7) | historic trading settlement | Uniqueness lower: Distinct compact Istrian Venetian townscape; depth lower: Compact town not surrounding archipelago. Current profile checked. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 9.0 | Colorful houses clustered on coastal headland |
@@ -128,6 +136,8 @@
 | [Hoi An (VN)](../../../countries/VN/cities/hoi-an.yaml) (9 / 9.3 / 9.1 / 9 / 8.7) | historic trading settlement | Uniqueness lower: Distinct preserved medieval urban plan; depth lower: Small settlement excludes mainland resorts. Current profile checked. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.9 | Dense stone architecture on historic island |
@@ -163,6 +173,8 @@
 | [Hoi An (VN)](../../../countries/VN/cities/hoi-an.yaml) (9 / 9.3 / 9.1 / 9 / 8.7) | historic trading settlement | Uniqueness lower: Distinct Central European capital with Balkan cultural context; depth higher: Many distinct urban districts excluding Medvednica. Current profile checked. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.5 | Historic upper town and planned lower city parks |
@@ -198,6 +210,8 @@
 | [Hoi An (VN)](../../../countries/VN/cities/hoi-an.yaml) (9 / 9.3 / 9.1 / 9 / 8.7) | historic trading settlement | Uniqueness lower: Distinct historical peninsula with contemporary public art; depth lower: Several city districts excluding islands. Current profile checked. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.8 | Roman remains churches and Adriatic waterfront |
@@ -233,6 +247,8 @@
 | [Hoi An (VN)](../../../countries/VN/cities/hoi-an.yaml) (9 / 9.3 / 9.1 / 9 / 8.7) | historic trading settlement | Uniqueness lower: Distinct Dalmatian urban fabric; depth lower: Exclude Krka and offshore islands. Current profile checked. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.8 | Steep stone lanes cathedral and fortress skyline |
@@ -268,6 +284,8 @@
 | [Hoi An (VN)](../../../countries/VN/cities/hoi-an.yaml) (9 / 9.3 / 9.1 / 9 / 8.7) | historic trading settlement | Uniqueness lower: Distinct planned medieval Adriatic town; depth lower: Town only not island-wide experience. Current profile checked. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.8 | Fortified peninsula with ordered stone lanes |
@@ -303,6 +321,8 @@
 | [Hoi An (VN)](../../../countries/VN/cities/hoi-an.yaml) (9 / 9.3 / 9.1 / 9 / 8.7) | historic trading settlement | Uniqueness lower: Distinct Venetian island port fabric; depth lower: Town only excludes Pakleni islands. Current profile checked. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.8 | Stone harbor square and fortress backdrop |
@@ -338,6 +358,8 @@
 | [Hoi An (VN)](../../../countries/VN/cities/hoi-an.yaml) (9 / 9.3 / 9.1 / 9 / 8.7) | historic trading settlement | Uniqueness lower: Distinct Roman and naval city heritage; depth lower: Several districts not Brijuni. Current profile checked. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.6 | Roman amphitheater and layered port streets |
@@ -373,6 +395,8 @@
 | [Hoi An (VN)](../../../countries/VN/cities/hoi-an.yaml) (9 / 9.3 / 9.1 / 9 / 8.7) | historic trading settlement | Uniqueness lower: Distinct early Christian and Roman urban layers; depth lower: Compact town excludes broader resort coast. Current profile checked. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.5 | Historic stone peninsula and basilica skyline |
@@ -408,6 +432,8 @@
 | [Hoi An (VN)](../../../countries/VN/cities/hoi-an.yaml) (9 / 9.3 / 9.1 / 9 / 8.7) | historic trading settlement | Uniqueness lower: Distinct former capital townscape; depth lower: Several compact districts. Current profile checked. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.5 | Coherent Baroque streets and castle setting |
@@ -443,6 +469,8 @@
 | [Hoi An (VN)](../../../countries/VN/cities/hoi-an.yaml) (9 / 9.3 / 9.1 / 9 / 8.7) | historic trading settlement | Uniqueness lower: Distinct Slavonian Baroque military urban heritage; depth lower: Exclude Kopački Rit. Current profile checked. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.2 | Fortified district and riverfront |
@@ -478,6 +506,8 @@
 | [Hoi An (VN)](../../../countries/VN/cities/hoi-an.yaml) (9 / 9.3 / 9.1 / 9 / 8.7) | historic trading settlement | Uniqueness lower: Distinct multilingual maritime and industrial identity; depth lower: Several urban neighborhoods. Current profile checked. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.1 | Hillside port and historic streets |
@@ -513,6 +543,8 @@
 | [Hoi An (VN)](../../../countries/VN/cities/hoi-an.yaml) (9 / 9.3 / 9.1 / 9 / 8.7) | historic trading settlement | Uniqueness lower: Distinct Istrian medieval hilltop fabric; depth lower: Small settlement not entire Mirna valley. Current profile checked. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.7 | Walled hill town above valley |
@@ -548,6 +580,8 @@
 | [Hoi An (VN)](../../../countries/VN/cities/hoi-an.yaml) (9 / 9.3 / 9.1 / 9 / 8.7) | historic trading settlement | Uniqueness lower: Distinct ancient Greek settlement heritage; depth lower: Exclude separately rated agricultural plain. Current profile checked. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.4 | Stone streets and sheltered harbor |
@@ -583,6 +617,8 @@
 | [Hoi An (VN)](../../../countries/VN/cities/hoi-an.yaml) (9 / 9.3 / 9.1 / 9 / 8.7) | historic trading settlement | Uniqueness lower: Distinct coastal resort setting; depth lower: Exclude Biokovo mountain park. Current profile checked. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.4 | Harbor beneath mountain skyline |
@@ -618,6 +654,8 @@
 | [Hoi An (VN)](../../../countries/VN/cities/hoi-an.yaml) (9 / 9.3 / 9.1 / 9 / 8.7) | historic trading settlement | Uniqueness lower: Distinct small historic Adriatic resort; depth lower: Compact settlement excludes Dubrovnik. Current profile checked. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.5 | Peninsula streets and sheltered bay |
@@ -653,6 +691,8 @@
 | [Hoi An (VN)](../../../countries/VN/cities/hoi-an.yaml) (9 / 9.3 / 9.1 / 9 / 8.7) | historic trading settlement | Uniqueness lower: Distinct historic island administrative center; depth lower: Town not whole Krk island. Current profile checked. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.4 | Medieval walls and harbor streets |
@@ -688,6 +728,8 @@
 | [Hoi An (VN)](../../../countries/VN/cities/hoi-an.yaml) (9 / 9.3 / 9.1 / 9 / 8.7) | historic trading settlement | Uniqueness lower: Distinct compact ecclesiastical town skyline; depth lower: Town excludes island beaches. Current profile checked. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.7 | Four bell towers along coastal ridge |
@@ -723,6 +765,8 @@
 | [Hoi An (VN)](../../../countries/VN/cities/hoi-an.yaml) (9 / 9.3 / 9.1 / 9 / 8.7) | historic trading settlement | Uniqueness lower: Distinct planned salt-trading settlement; depth lower: Exclude full walls and bay landscape. Current profile checked. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.4 | Stone town beneath defensive walls |
@@ -758,6 +802,8 @@
 | [Hoi An (VN)](../../../countries/VN/cities/hoi-an.yaml) (9 / 9.3 / 9.1 / 9 / 8.7) | historic trading settlement | Uniqueness lower: Distinct reconstructed river city; depth lower: City excludes external archaeological sites. Current profile checked. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.0 | Danube town with Baroque architecture and memorial heritage |
