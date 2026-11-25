@@ -1,0 +1,15 @@
+id: sight-hu-heviz-lake
+name: "Lake Hévíz thermal bathing site"
+location:
+  country_code: HU
+  latitude: 46.788
+  longitude: 17.193
+scores:
+  impact: 8.5
+  uniqueness: 9.2
+  significance: 8.5
+  experience: 9.0
+  depth: 8.3
+  categories:
+    relaxation: 9.4
+    nature: 9.0

@@ -1,0 +1,16 @@
+id: sight-hu-esterhazy-palace
+name: "Esterházy Palace, Fertőd"
+location:
+  country_code: HU
+  latitude: 47.62
+  longitude: 16.87
+scores:
+  impact: 9.0
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 8.8
+  depth: 8.6
+  categories:
+    architecture: 9.4
+    history: 9.1
+    culture: 9.0

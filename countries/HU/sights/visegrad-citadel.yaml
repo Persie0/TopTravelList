@@ -1,0 +1,16 @@
+id: sight-hu-visegrad-citadel
+name: "Visegrád Citadel"
+location:
+  country_code: HU
+  latitude: 47.793
+  longitude: 18.97
+scores:
+  impact: 8.9
+  uniqueness: 8.7
+  significance: 9.0
+  experience: 8.8
+  depth: 8.2
+  categories:
+    architecture: 9.0
+    history: 9.2
+    photography: 9.3

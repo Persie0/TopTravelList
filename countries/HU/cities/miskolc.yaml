@@ -1,0 +1,15 @@
+id: city-hu-miskolc
+name: "Miskolc"
+location:
+  country_code: HU
+  latitude: 48.104
+  longitude: 20.791
+scores:
+  impact: 7.8
+  uniqueness: 8.0
+  significance: 8.1
+  experience: 8.3
+  depth: 8.2
+  categories:
+    culture: 8.5
+    history: 8.5

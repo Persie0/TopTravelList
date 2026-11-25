@@ -1,0 +1,15 @@
+id: city-hu-kecskemet
+name: "Kecskemét"
+location:
+  country_code: HU
+  latitude: 46.896
+  longitude: 19.69
+scores:
+  impact: 8.2
+  uniqueness: 8.4
+  significance: 8.3
+  experience: 8.4
+  depth: 8.0
+  categories:
+    architecture: 9.0
+    culture: 8.7

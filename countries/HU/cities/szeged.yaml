@@ -1,0 +1,16 @@
+id: city-hu-szeged
+name: "Szeged"
+location:
+  country_code: HU
+  latitude: 46.253
+  longitude: 20.1414
+scores:
+  impact: 8.5
+  uniqueness: 8.6
+  significance: 8.5
+  experience: 8.8
+  depth: 8.6
+  categories:
+    architecture: 9.1
+    culture: 9.0
+    food: 8.8

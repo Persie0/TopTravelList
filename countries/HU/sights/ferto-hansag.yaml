@@ -1,0 +1,15 @@
+id: sight-hu-ferto-hansag
+name: "Fertő–Hanság National Park"
+location:
+  country_code: HU
+  latitude: 47.68
+  longitude: 17.03
+scores:
+  impact: 8.2
+  uniqueness: 8.7
+  significance: 8.7
+  experience: 8.6
+  depth: 8.8
+  categories:
+    nature: 9.2
+    wildlife: 9.2

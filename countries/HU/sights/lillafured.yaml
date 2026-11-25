@@ -1,0 +1,16 @@
+id: sight-hu-lillafured
+name: "Lillafüred resort landscape"
+location:
+  country_code: HU
+  latitude: 48.103
+  longitude: 20.62
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 8.2
+  experience: 8.8
+  depth: 8.4
+  categories:
+    nature: 9.0
+    photography: 9.2
+    relaxation: 8.8

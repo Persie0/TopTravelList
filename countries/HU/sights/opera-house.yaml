@@ -1,0 +1,15 @@
+id: sight-hu-opera-house
+name: "Hungarian State Opera House"
+location:
+  country_code: HU
+  latitude: 47.503
+  longitude: 19.058
+scores:
+  impact: 8.9
+  uniqueness: 8.7
+  significance: 8.8
+  experience: 8.9
+  depth: 8.2
+  categories:
+    architecture: 9.2
+    culture: 9.2

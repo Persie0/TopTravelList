@@ -1,0 +1,15 @@
+id: city-hu-gyula
+name: "Gyula"
+location:
+  country_code: HU
+  latitude: 46.647
+  longitude: 21.278
+scores:
+  impact: 8.1
+  uniqueness: 8.1
+  significance: 8.2
+  experience: 8.6
+  depth: 7.8
+  categories:
+    history: 8.8
+    relaxation: 8.8

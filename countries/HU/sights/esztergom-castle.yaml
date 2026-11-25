@@ -1,0 +1,15 @@
+id: sight-hu-esztergom-castle
+name: "Medieval Castle of Esztergom"
+location:
+  country_code: HU
+  latitude: 47.799
+  longitude: 18.737
+scores:
+  impact: 8.7
+  uniqueness: 8.7
+  significance: 9.1
+  experience: 8.6
+  depth: 8.3
+  categories:
+    architecture: 9.0
+    history: 9.3

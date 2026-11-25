@@ -1,0 +1,16 @@
+id: sight-hu-parliament
+name: "Hungarian Parliament Building"
+location:
+  country_code: HU
+  latitude: 47.507
+  longitude: 19.045
+scores:
+  impact: 9.5
+  uniqueness: 9.2
+  significance: 9.3
+  experience: 9.1
+  depth: 8.5
+  categories:
+    architecture: 9.6
+    history: 9.4
+    photography: 9.6

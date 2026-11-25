@@ -1,0 +1,17 @@
+id: sight-hu-tokaj-wine-landscape
+name: "Tokaj Wine Region Historic Cultural Landscape"
+location:
+  country_code: HU
+  latitude: 48.23
+  longitude: 21.38
+scores:
+  impact: 8.7
+  uniqueness: 9.0
+  significance: 9.1
+  experience: 8.8
+  depth: 9.0
+  categories:
+    culture: 9.2
+    history: 9.2
+    food: 9.2
+    photography: 9.0

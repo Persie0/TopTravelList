@@ -1,0 +1,16 @@
+id: sight-hu-orseg
+name: "Őrség National Park"
+location:
+  country_code: HU
+  latitude: 46.85
+  longitude: 16.3
+scores:
+  impact: 8.2
+  uniqueness: 8.4
+  significance: 8.3
+  experience: 8.7
+  depth: 8.7
+  categories:
+    nature: 8.9
+    culture: 8.7
+    relaxation: 8.8

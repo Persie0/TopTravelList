@@ -1,0 +1,16 @@
+id: sight-hu-holloko-old-village
+name: "Old Village of Hollókő and its Surroundings"
+location:
+  country_code: HU
+  latitude: 47.998
+  longitude: 19.59
+scores:
+  impact: 8.8
+  uniqueness: 9.1
+  significance: 9.1
+  experience: 8.7
+  depth: 8.3
+  categories:
+    architecture: 9.3
+    culture: 9.2
+    history: 9.1

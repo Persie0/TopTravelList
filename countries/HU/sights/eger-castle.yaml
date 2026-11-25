@@ -1,0 +1,15 @@
+id: sight-hu-eger-castle
+name: "Eger Castle"
+location:
+  country_code: HU
+  latitude: 47.904
+  longitude: 20.379
+scores:
+  impact: 8.6
+  uniqueness: 8.6
+  significance: 9.1
+  experience: 8.7
+  depth: 8.5
+  categories:
+    history: 9.3
+    architecture: 8.9
