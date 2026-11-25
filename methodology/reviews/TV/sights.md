@@ -501,3 +501,337 @@
 - Earlier decision: none.
 - Verification still needed: IUGS representative geosite coordinate; verify exact plaque marker and ordinary current access. Sources disagree on historic drilled depths; no disputed figure is used.
 
+
+
+### sight-tv-funafuti-cultural-landscape — Funafuti Atoll cultural landscape — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/TV/sights/funafuti-cultural-landscape.yaml)
+- Action: rescore
+- Precise subject: named island-group component of tentative cultural landscape, not the whole country; normal authorized visitor scope only.
+- Location check: prior approximate representative UNESCO component point retained; not a visitor entrance.
+- Evidence status: source-linked-unverified
+- Factual references consulted (2026-11-25):
+  - UNESCO State Party tentative submission, component descriptions directly inspected: https://whc.unesco.org/en/tentativelists/6707
+  - Supplemental visitor/heritage reference (indexed excerpt): https://www.timelesstuvalu.com/tour-item/history-and-archaeology/
+  - Supplemental visitor/heritage reference (indexed excerpt): https://www.timelesstuvalu.com/2024/07/16/activities-packages/
+  - Supplemental visitor/heritage reference (indexed excerpt): https://www.timelesstuvalu.com/tour-item/cultural-and-traditional-dance/
+  - Supplemental visitor/heritage reference (indexed excerpt): https://tourism.gov.tv/funafuti-marine-conservation-2/
+- Missing or uncertain facts: UNESCO identifies six western islets as prohibited for visitation; do not credit these landings. Current exact marine access rules and tour permissions require confirmation.
+
+#### Worldwide peer comparisons
+- Perhentian Islands (MY), 9.0/8.8/7.7/9.2/8.9: strong beaches and extensive established recreation; different cultural significance.
+- Ang Thong National Marine Park (TH), 9.0/9.0/8.6/9.1/8.9: greater dramatic landscape and documented marine itineraries.
+- Cham Islands (VN), 8.8/9.0/8.4/9.0/8.7: comparable island settlement and ecosystem context with broader established visits.
+- Funafuti Conservation Area (TV), 8.3/8.4/8.7/7.8/7.3: existing local ecological comparator, restricted islet access requires clarification; not a basis to transfer visitor ratings.
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | null | 8.1 | Low coral islets and large lagoon form a memorable landscape, below the dramatic limestone islands in Ang Thong. |
+| Uniqueness | null | 8.5 | Distinct conjunction of capital settlement, atoll morphology and living cultural traditions. |
+| Significance | null | 8.6 | Documented late nineteenth-century geological research site and continuing atoll cultural traditions. |
+| Experience | null | 8.1 | Government-listed islet excursions, traditional food and craft experiences, and heritage visits support a broad visit limited to permitted places. |
+| Depth | null | 8.3 | Multiple settlement, scientific heritage, cultural and lagoon experiences; protected islets excluded. |
+
+- Applicable category scores: culture 8.7, history 8.6, nature 8.5; provisional.
+- Computed worldwide overall: 83.20/100
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Complete provisional v2 profile for documented authorized visitor scope.
+- Earlier decision: all core scores null.
+- Verification still needed: UNESCO identifies six western islets as prohibited for visitation; do not credit these landings. Current exact marine access rules and tour permissions require confirmation. Canonical validation and independent detailed factual corroboration outstanding.
+
+
+### sight-tv-nanumanga-cultural-landscape — Nanumanga Island cultural landscape — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/TV/sights/nanumanga-cultural-landscape.yaml)
+- Action: rescore
+- Precise subject: named island-group component of tentative cultural landscape, not the whole country; normal authorized visitor scope only.
+- Location check: prior approximate representative UNESCO component point retained; not a visitor entrance.
+- Evidence status: unassessed
+- Factual references consulted (2026-11-25):
+  - UNESCO State Party tentative submission, component descriptions directly inspected: https://whc.unesco.org/en/tentativelists/6707
+
+- Missing or uncertain facts: Exact village and wetland visitor access remains unverified.
+
+#### Worldwide peer comparisons
+- Perhentian Islands (MY), 9.0/8.8/7.7/9.2/8.9: strong beaches and extensive established recreation; different cultural significance.
+- Ang Thong National Marine Park (TH), 9.0/9.0/8.6/9.1/8.9: greater dramatic landscape and documented marine itineraries.
+- Cham Islands (VN), 8.8/9.0/8.4/9.0/8.7: comparable island settlement and ecosystem context with broader established visits.
+- Funafuti Conservation Area (TV), 8.3/8.4/8.7/7.8/7.3: existing local ecological comparator, restricted islet access requires clarification; not a basis to transfer visitor ratings.
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | null | null | Visitor-visible extent and viewpoints not documented. |
+| Uniqueness | null | 8.5 | Former atoll with infilled lagoons, mangrove dye traditions and settlement layout. |
+| Significance | null | 8.5 | Documented longstanding pulaka cultivation and use of mangrove products; distinct living heritage. |
+| Experience | null | null | No sufficiently specific consent-based itinerary across the component. |
+| Depth | null | null | Village features and natural habitats do not establish permitted visitor breadth. |
+
+- Applicable category scores: culture 8.7, nature 8.4; provisional.
+- Computed worldwide overall: unranked
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Retain incomplete profile; no unsupported visitor dimensions.
+- Earlier decision: all core scores null.
+- Verification still needed: Exact village and wetland visitor access remains unverified. Canonical validation and independent detailed factual corroboration outstanding.
+
+
+### sight-tv-nanumea-cultural-landscape — Nanumea Atoll cultural landscape — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/TV/sights/nanumea-cultural-landscape.yaml)
+- Action: rescore
+- Precise subject: named island-group component of tentative cultural landscape, not the whole country; normal authorized visitor scope only.
+- Location check: prior approximate representative UNESCO component point retained; not a visitor entrance.
+- Evidence status: unassessed
+- Factual references consulted (2026-11-25):
+  - UNESCO State Party tentative submission, component descriptions directly inspected: https://whc.unesco.org/en/tentativelists/6707
+  - Supplemental visitor/heritage reference (indexed excerpt): https://www.timelesstuvalu.com/tour-item/history-and-archaeology/
+  - Supplemental visitor/heritage reference (indexed excerpt): https://www.undp.org/pacific/stories/engineering-resilience-protecting-tuvalus-nanumea-island-sea-level-rise
+  - Supplemental visitor/heritage reference (indexed excerpt): https://southpacificislands.travel/a-celebration-of-christianity-on-nanumea-island-tuvalu/
+- Missing or uncertain facts: Historical and community-specific access may be arranged; no assumption of normal access to all sites.
+
+#### Worldwide peer comparisons
+- Perhentian Islands (MY), 9.0/8.8/7.7/9.2/8.9: strong beaches and extensive established recreation; different cultural significance.
+- Ang Thong National Marine Park (TH), 9.0/9.0/8.6/9.1/8.9: greater dramatic landscape and documented marine itineraries.
+- Cham Islands (VN), 8.8/9.0/8.4/9.0/8.7: comparable island settlement and ecosystem context with broader established visits.
+- Funafuti Conservation Area (TV), 8.3/8.4/8.7/7.8/7.3: existing local ecological comparator, restricted islet access requires clarification; not a basis to transfer visitor ratings.
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | null | null | Atoll scenery described but ordinary visitor-visible coverage uncertain. |
+| Uniqueness | null | 8.6 | Double lagoon, traditional settlement, freshwater wells and cultivated refuge islet are distinctive. |
+| Significance | null | 8.7 | Documented wartime and living cultural heritage, including traditional crop cultivation and local church. |
+| Experience | null | null | Historic heritage promotion is not proof of authorized access across the component. |
+| Depth | null | null | Specific permitted routes to former refuge islet and other heritage locations not established. |
+
+- Applicable category scores: culture 8.7, history 8.7, nature 8.5; provisional.
+- Computed worldwide overall: unranked
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Retain incomplete profile; no unsupported visitor dimensions.
+- Earlier decision: all core scores null.
+- Verification still needed: Historical and community-specific access may be arranged; no assumption of normal access to all sites. Canonical validation and independent detailed factual corroboration outstanding.
+
+
+### sight-tv-niulakita-cultural-landscape — Niulakita Island cultural landscape — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/TV/sights/niulakita-cultural-landscape.yaml)
+- Action: rescore
+- Precise subject: named island-group component of tentative cultural landscape, not the whole country; normal authorized visitor scope only.
+- Location check: prior approximate representative UNESCO component point retained; not a visitor entrance.
+- Evidence status: unassessed
+- Factual references consulted (2026-11-25):
+  - UNESCO State Party tentative submission, component descriptions directly inspected: https://whc.unesco.org/en/tentativelists/6707
+
+- Missing or uncertain facts: Official description of the small community does not establish tourist access.
+
+#### Worldwide peer comparisons
+- Perhentian Islands (MY), 9.0/8.8/7.7/9.2/8.9: strong beaches and extensive established recreation; different cultural significance.
+- Ang Thong National Marine Park (TH), 9.0/9.0/8.6/9.1/8.9: greater dramatic landscape and documented marine itineraries.
+- Cham Islands (VN), 8.8/9.0/8.4/9.0/8.7: comparable island settlement and ecosystem context with broader established visits.
+- Funafuti Conservation Area (TV), 8.3/8.4/8.7/7.8/7.3: existing local ecological comparator, restricted islet access requires clarification; not a basis to transfer visitor ratings.
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | null | null | Specific ordinary visitor views unverified. |
+| Uniqueness | null | 7.9 | Small former atoll with infilled wetlands and relatively recent settlement history. |
+| Significance | null | 7.7 | Documented twentieth-century settlement and community adaptation, less extensive historical depth than longer-settled islands. |
+| Experience | null | null | No reliable authorized visitor programme verified. |
+| Depth | null | null | No established permitted exploration breadth. |
+
+- Applicable category scores: culture 8.0, nature 8.0; provisional.
+- Computed worldwide overall: unranked
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Retain incomplete profile; no unsupported visitor dimensions.
+- Earlier decision: all core scores null.
+- Verification still needed: Official description of the small community does not establish tourist access. Canonical validation and independent detailed factual corroboration outstanding.
+
+
+### sight-tv-niutao-cultural-landscape — Niutao Island cultural landscape — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/TV/sights/niutao-cultural-landscape.yaml)
+- Action: rescore
+- Precise subject: named island-group component of tentative cultural landscape, not the whole country; normal authorized visitor scope only.
+- Location check: prior approximate representative UNESCO component point retained; not a visitor entrance.
+- Evidence status: unassessed
+- Factual references consulted (2026-11-25):
+  - UNESCO State Party tentative submission, component descriptions directly inspected: https://whc.unesco.org/en/tentativelists/6707
+
+- Missing or uncertain facts: Do not imply access to customary bathing lagoons or communal sites.
+
+#### Worldwide peer comparisons
+- Perhentian Islands (MY), 9.0/8.8/7.7/9.2/8.9: strong beaches and extensive established recreation; different cultural significance.
+- Ang Thong National Marine Park (TH), 9.0/9.0/8.6/9.1/8.9: greater dramatic landscape and documented marine itineraries.
+- Cham Islands (VN), 8.8/9.0/8.4/9.0/8.7: comparable island settlement and ecosystem context with broader established visits.
+- Funafuti Conservation Area (TV), 8.3/8.4/8.7/7.8/7.3: existing local ecological comparator, restricted islet access requires clarification; not a basis to transfer visitor ratings.
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | null | null | Visitor-visible landscape extent uncertain. |
+| Uniqueness | null | 8.5 | Former atoll with traditional bathing lagoons, wells and distinctive settlement arrangement. |
+| Significance | null | 8.5 | Long-established traditional land use, church and communal facilities document cultural continuity. |
+| Experience | null | null | Customary rules at bathing areas and other sites unresolved. |
+| Depth | null | null | No verified lawful component-wide itinerary. |
+
+- Applicable category scores: culture 8.7, nature 8.3; provisional.
+- Computed worldwide overall: unranked
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Retain incomplete profile; no unsupported visitor dimensions.
+- Earlier decision: all core scores null.
+- Verification still needed: Do not imply access to customary bathing lagoons or communal sites. Canonical validation and independent detailed factual corroboration outstanding.
+
+
+### sight-tv-nui-cultural-landscape — Nui Atoll cultural landscape — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/TV/sights/nui-cultural-landscape.yaml)
+- Action: rescore
+- Precise subject: named island-group component of tentative cultural landscape, not the whole country; normal authorized visitor scope only.
+- Location check: prior approximate representative UNESCO component point retained; not a visitor entrance.
+- Evidence status: unassessed
+- Factual references consulted (2026-11-25):
+  - UNESCO State Party tentative submission, component descriptions directly inspected: https://whc.unesco.org/en/tentativelists/6707
+
+- Missing or uncertain facts: No inference of unrestricted island landings or customary site visits.
+
+#### Worldwide peer comparisons
+- Perhentian Islands (MY), 9.0/8.8/7.7/9.2/8.9: strong beaches and extensive established recreation; different cultural significance.
+- Ang Thong National Marine Park (TH), 9.0/9.0/8.6/9.1/8.9: greater dramatic landscape and documented marine itineraries.
+- Cham Islands (VN), 8.8/9.0/8.4/9.0/8.7: comparable island settlement and ecosystem context with broader established visits.
+- Funafuti Conservation Area (TV), 8.3/8.4/8.7/7.8/7.3: existing local ecological comparator, restricted islet access requires clarification; not a basis to transfer visitor ratings.
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | null | null | Visitor-visible range not independently established. |
+| Uniqueness | null | 8.6 | Distinct settlement history, traditional canoe culture and atoll land-use adaptation. |
+| Significance | null | 8.5 | Documented older settlement sites, wells and continuing communal traditions. |
+| Experience | null | null | Specific ordinary permitted site visits not established. |
+| Depth | null | null | No reliable itinerary covering inhabited and formerly occupied islets. |
+
+- Applicable category scores: culture 8.8, history 8.5, nature 8.4; provisional.
+- Computed worldwide overall: unranked
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Retain incomplete profile; no unsupported visitor dimensions.
+- Earlier decision: all core scores null.
+- Verification still needed: No inference of unrestricted island landings or customary site visits. Canonical validation and independent detailed factual corroboration outstanding.
+
+
+### sight-tv-nukufetau-cultural-landscape — Nukufetau Atoll cultural landscape — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/TV/sights/nukufetau-cultural-landscape.yaml)
+- Action: rescore
+- Precise subject: named island-group component of tentative cultural landscape, not the whole country; normal authorized visitor scope only.
+- Location check: prior approximate representative UNESCO component point retained; not a visitor entrance.
+- Evidence status: unassessed
+- Factual references consulted (2026-11-25):
+  - UNESCO State Party tentative submission, component descriptions directly inspected: https://whc.unesco.org/en/tentativelists/6707
+  - Supplemental visitor/heritage reference (indexed excerpt): https://www.timelesstuvalu.com/tour-item/history-and-archaeology/
+- Missing or uncertain facts: Historical significance is not a guarantee of accessible remains.
+
+#### Worldwide peer comparisons
+- Perhentian Islands (MY), 9.0/8.8/7.7/9.2/8.9: strong beaches and extensive established recreation; different cultural significance.
+- Ang Thong National Marine Park (TH), 9.0/9.0/8.6/9.1/8.9: greater dramatic landscape and documented marine itineraries.
+- Cham Islands (VN), 8.8/9.0/8.4/9.0/8.7: comparable island settlement and ecosystem context with broader established visits.
+- Funafuti Conservation Area (TV), 8.3/8.4/8.7/7.8/7.3: existing local ecological comparator, restricted islet access requires clarification; not a basis to transfer visitor ratings.
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | null | null | Visitor-visible extent of component uncertain. |
+| Uniqueness | null | 8.4 | Traditional settlement patterns and varied atoll islet morphology. |
+| Significance | null | 8.6 | Documented missionary-period settlement, wells and wartime heritage. |
+| Experience | null | null | Tourism authority identifies historical remains, but permitted routes across the component unresolved. |
+| Depth | null | null | No established ordinary access to multiple heritage islets. |
+
+- Applicable category scores: culture 8.6, history 8.7, nature 8.4; provisional.
+- Computed worldwide overall: unranked
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Retain incomplete profile; no unsupported visitor dimensions.
+- Earlier decision: all core scores null.
+- Verification still needed: Historical significance is not a guarantee of accessible remains. Canonical validation and independent detailed factual corroboration outstanding.
+
+
+### sight-tv-nukulaelae-cultural-landscape — Nukulaelae Atoll cultural landscape — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/TV/sights/nukulaelae-cultural-landscape.yaml)
+- Action: rescore
+- Precise subject: named island-group component of tentative cultural landscape, not the whole country; normal authorized visitor scope only.
+- Location check: prior approximate representative UNESCO component point retained; not a visitor entrance.
+- Evidence status: unassessed
+- Factual references consulted (2026-11-25):
+  - UNESCO State Party tentative submission, component descriptions directly inspected: https://whc.unesco.org/en/tentativelists/6707
+
+- Missing or uncertain facts: Respect sacred-site access; no sensitive-site route inferred.
+
+#### Worldwide peer comparisons
+- Perhentian Islands (MY), 9.0/8.8/7.7/9.2/8.9: strong beaches and extensive established recreation; different cultural significance.
+- Ang Thong National Marine Park (TH), 9.0/9.0/8.6/9.1/8.9: greater dramatic landscape and documented marine itineraries.
+- Cham Islands (VN), 8.8/9.0/8.4/9.0/8.7: comparable island settlement and ecosystem context with broader established visits.
+- Funafuti Conservation Area (TV), 8.3/8.4/8.7/7.8/7.3: existing local ecological comparator, restricted islet access requires clarification; not a basis to transfer visitor ratings.
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | null | null | Visitor-visible coverage not verified. |
+| Uniqueness | null | 8.5 | Distinct atoll settlement relocation and customary religious landscape. |
+| Significance | null | 8.6 | Documented historical religious and settlement features, including continuing cultural traditions. |
+| Experience | null | null | Specific custodial permissions for sacred areas not established. |
+| Depth | null | null | No ordinary permitted multi-islet itinerary verified. |
+
+- Applicable category scores: culture 8.8, history 8.6, nature 8.4; provisional.
+- Computed worldwide overall: unranked
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Retain incomplete profile; no unsupported visitor dimensions.
+- Earlier decision: all core scores null.
+- Verification still needed: Respect sacred-site access; no sensitive-site route inferred. Canonical validation and independent detailed factual corroboration outstanding.
+
+
+### sight-tv-vaitupu-cultural-landscape — Vaitupu Island cultural landscape — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/TV/sights/vaitupu-cultural-landscape.yaml)
+- Action: rescore
+- Precise subject: named island-group component of tentative cultural landscape, not the whole country; normal authorized visitor scope only.
+- Location check: prior approximate representative UNESCO component point retained; not a visitor entrance.
+- Evidence status: unassessed
+- Factual references consulted (2026-11-25):
+  - UNESCO State Party tentative submission, component descriptions directly inspected: https://whc.unesco.org/en/tentativelists/6707
+
+- Missing or uncertain facts: Do not assume school or other private-property access.
+
+#### Worldwide peer comparisons
+- Perhentian Islands (MY), 9.0/8.8/7.7/9.2/8.9: strong beaches and extensive established recreation; different cultural significance.
+- Ang Thong National Marine Park (TH), 9.0/9.0/8.6/9.1/8.9: greater dramatic landscape and documented marine itineraries.
+- Cham Islands (VN), 8.8/9.0/8.4/9.0/8.7: comparable island settlement and ecosystem context with broader established visits.
+- Funafuti Conservation Area (TV), 8.3/8.4/8.7/7.8/7.3: existing local ecological comparator, restricted islet access requires clarification; not a basis to transfer visitor ratings.
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | null | null | Visitor-visible component coverage not verified. |
+| Uniqueness | null | 8.4 | Large near-landlocked lagoon, wetlands and established village pattern distinguish island. |
+| Significance | null | 8.5 | Documented early school and church heritage, groundwater use and community land-use traditions. |
+| Experience | null | null | Village and education sites are not automatically visitor venues. |
+| Depth | null | null | No verified permitted breadth across lagoon and village heritage sites. |
+
+- Applicable category scores: culture 8.7, history 8.5, nature 8.4; provisional.
+- Computed worldwide overall: unranked
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Retain incomplete profile; no unsupported visitor dimensions.
+- Earlier decision: all core scores null.
+- Verification still needed: Do not assume school or other private-property access. Canonical validation and independent detailed factual corroboration outstanding.
+
+
+## 2026-11-25 — aggregate scope and existing marine-area rating
+
+The UNESCO tentative submission (https://whc.unesco.org/en/tentativelists/6707) covers nine distinct island groups; eight still lack sufficient ordinary visitor evidence. Keep national aggregate impact, experience and depth null. Noonsite (https://www.noonsite.com/place/tuvalu/outer-atolls/, indexed excerpt) describes atoll-specific permissions; transport scarcity is not itself a reason to reduce intrinsic merit. UNESCO specifically identifies the western conservation islets of Funafuti as prohibited for visitation. The local council (https://kaupulefunafuti.tv/conservation-area, directly inspected) confirms protected-area scope, while the official tourism page (https://tourism.gov.tv/funafuti-marine-conservation-2/, directly inspected) describes marine biodiversity but does not establish current visitor permissions. The 2022–2032 tourism policy (https://faolex.fao.org/docs/pdf/tuv219427.pdf, indexed excerpt) proposes promoting protected-area experiences, which does not establish current implementation. Existing Funafuti Conservation Area rating is flagged for further review against the operative order (https://tuvalu-legislation.tv/cms/images/LEGISLATION/SUBORDINATE/1999/1999-0012/1999-0012_2.pdf); no prohibited landings credited in new Funafuti landscape score.
