@@ -2,7 +2,7 @@
 
 # Mozambique (MZ) — Sights & attractions ranking
 
-**7 ranked** · **4 unassessed** · **11 total** · Worldwide scoring **v2**
+**11 ranked** · **5 unassessed** · **16 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (7)
+## Complete ranked list (11)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -18,11 +18,15 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 2 | [Gorongosa National Park](sights/gorongosa-national-park.yaml) | Park / reserve | **92.20** | **Nature 9.5**, **Wildlife 9.4** | 9.2 / 9.2 / 9.5 / 9.0 / 9.1 | [-18.6903, 34.3136](https://www.google.com/maps/search/?api=1&query=-18.6903,34.3136) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Gorongosa%20National%20Park%2C%20Mozambique) |
 | 3 | [Island of Mozambique Historic Ensemble](sights/island-of-mozambique-heritage.yaml) | Island | **91.65** | **History 9.5**, **Architecture 9.3**, **Culture 9.3** | 9.1 / 9.3 / 9.5 / 8.8 / 8.9 | [-15.034, 40.735](https://www.google.com/maps/search/?api=1&query=-15.034,40.735) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Island%20of%20Mozambique%20Historic%20Ensemble%2C%20Mozambique) |
 | 4 | [Maputo National Park](sights/maputo-national-park.yaml) | Park / reserve | **91.25** | **Nature 9.5**, **Wildlife 9.3** | 9.1 / 9.1 / 9.5 / 8.8 / 9.0 | [-26.436389, 32.870556](https://www.google.com/maps/search/?api=1&query=-26.436389,32.870556) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Maputo%20National%20Park%2C%20Mozambique) |
-| 5 | [Praia do Tofo](sights/tofo-beach.yaml) | Attraction | **86.35** | **Adventure 9.0**, **Beaches 9.0**, **Wildlife 9.0** | 8.8 / 8.7 / 8.1 / 9.0 / 8.5 | [-23.8536, 35.5472](https://www.google.com/maps/search/?api=1&query=-23.8536,35.5472) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Praia%20do%20Tofo%2C%20Mozambique) |
-| 6 | [Fort of São Sebastião](sights/fort-sao-sebastiao.yaml) | Fortification | **85.95** | **History 9.2**, **Architecture 9.0** | 8.6 / 8.7 / 9.0 / 8.4 / 7.8 | [-15.029, 40.741](https://www.google.com/maps/search/?api=1&query=-15.029,40.741) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Fort%20of%20S%C3%A3o%20Sebasti%C3%A3o%2C%20Mozambique) |
-| 7 | [Inhaca Island](sights/inhaca-island.yaml) | Island | **85.25** | **Nature 8.9**, **Beaches 8.8**, **Wildlife 8.7** | 8.6 / 8.6 / 8.5 / 8.5 / 8.2 | [-26, 33](https://www.google.com/maps/search/?api=1&query=-26,33) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Inhaca%20Island%2C%20Mozambique) |
+| 5 | [Chimanimani National Park (Mozambique)](sights/chimanimani-national-park.yaml) | Park / reserve | **89.30** | **Nature 9.3**, **Adventure 9.1**, **Photography 9.1** | 9.1 / 9.0 / 9.0 / 8.6 / 8.6 | [-19.795, 33.08917](https://www.google.com/maps/search/?api=1&query=-19.795,33.08917) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Chimanimani%20National%20Park%20%28Mozambique%29%2C%20Mozambique) |
+| 6 | [Zinave National Park](sights/zinave-national-park.yaml) | Park / reserve | **87.30** | **Nature 9.1**, **Wildlife 9.1**, **Adventure 8.7** | 8.6 / 8.8 / 9.1 / 8.6 / 8.4 | [-21.421944, 33.861944](https://www.google.com/maps/search/?api=1&query=-21.421944,33.861944) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Zinave%20National%20Park%2C%20Mozambique) |
+| 7 | [Praia do Tofo](sights/tofo-beach.yaml) | Attraction | **86.35** | **Adventure 9.0**, **Beaches 9.0**, **Wildlife 9.0** | 8.8 / 8.7 / 8.1 / 9.0 / 8.5 | [-23.8536, 35.5472](https://www.google.com/maps/search/?api=1&query=-23.8536,35.5472) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Praia%20do%20Tofo%2C%20Mozambique) |
+| 8 | [Fort of São Sebastião](sights/fort-sao-sebastiao.yaml) | Fortification | **85.95** | **History 9.2**, **Architecture 9.0** | 8.6 / 8.7 / 9.0 / 8.4 / 7.8 | [-15.02878, 40.74342](https://www.google.com/maps/search/?api=1&query=-15.02878,40.74342) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Fort%20of%20S%C3%A3o%20Sebasti%C3%A3o%2C%20Mozambique) |
+| 9 | [Inhaca Island](sights/inhaca-island.yaml) | Island | **85.25** | **Nature 8.9**, **Beaches 8.8**, **Wildlife 8.7** | 8.6 / 8.6 / 8.5 / 8.5 / 8.2 | [-26.01707, 32.94482](https://www.google.com/maps/search/?api=1&query=-26.01707,32.94482) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Inhaca%20Island%2C%20Mozambique) |
+| 10 | [Maputo Natural History Museum](sights/maputo-natural-history-museum.yaml) | Museum / heritage | **85.15** | **History 8.8**, **Culture 8.7**, **Architecture 8.6**, Family 8.6 | 8.2 / 8.6 / 8.8 / 8.7 / 8.4 | [-25.97717, 32.58716](https://www.google.com/maps/search/?api=1&query=-25.97717,32.58716) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Maputo%20Natural%20History%20Museum%2C%20Mozambique) |
+| 11 | [Ibo Historic Town](sights/ibo-historic-town.yaml) | Attraction | **84.45** | **History 9.2**, **Architecture 8.9**, **Culture 8.8** | 8.2 / 8.7 / 9.0 / 8.0 / 8.1 | [-12.3416, 40.58639](https://www.google.com/maps/search/?api=1&query=-12.3416,40.58639) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ibo%20Historic%20Town%2C%20Mozambique) |
 
-## Not yet fully assessed (4)
+## Not yet fully assessed (5)
 
 These destinations have no rank until all five core scores are assessed.
 
@@ -30,7 +34,8 @@ These destinations have no rank until all five core scores are assessed.
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
 | — | [Chibuene Archaeological Site](sights/chibuene.yaml) | Museum / heritage | **—** | **History 9.3** | — / 8.9 / 9.2 / — / — | [-22.033333, 35.325](https://www.google.com/maps/search/?api=1&query=-22.033333,35.325) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Chibuene%20Archaeological%20Site%2C%20Mozambique) |
 | — | [Manyikeni Archaeological Site](sights/manyikeni.yaml) | Museum / heritage | **—** | **History 9.3** | — / 8.9 / 9.2 / — / — | [-22.233333, 34.808333](https://www.google.com/maps/search/?api=1&query=-22.233333,34.808333) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Manyikeni%20Archaeological%20Site%2C%20Mozambique) |
-| — | [Quirimbas Archipelago](sights/quirimbas-archipelago.yaml) | Attraction | **—** | **Nature 9.5**, **Wildlife 9.3**, **Culture 9.2** | 9.2 / 9.4 / 9.4 / — / — | [-12.686111, 40.716667](https://www.google.com/maps/search/?api=1&query=-12.686111,40.716667) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Quirimbas%20Archipelago%2C%20Mozambique) |
+| — | [Niassa Special Reserve](sights/niassa-special-reserve.yaml) | Attraction | **—** | **Nature 9.4**, Wildlife unassessed | — / 9.2 / 9.4 / — / — | [-11.88043, 37.46811](https://www.google.com/maps/search/?api=1&query=-11.88043,37.46811) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Niassa%20Special%20Reserve%2C%20Mozambique) |
+| — | [Quirimbas Archipelago](sights/quirimbas-archipelago.yaml) | Attraction | **—** | **Nature 9.5**, **Culture 9.2**, Wildlife unassessed | 9.2 / 9.4 / 9.4 / — / — | [-12.686111, 40.716667](https://www.google.com/maps/search/?api=1&query=-12.686111,40.716667) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Quirimbas%20Archipelago%2C%20Mozambique) |
 | — | [Vumba Mountain Range and Chinhamapere Sacred Landscape](sights/vumba-chinhamapere.yaml) | Mountain / peak | **—** | **Culture 9.3**, **History 9.2** | — / 9.2 / 9.2 / — / — | [-18.965, 32.866944](https://www.google.com/maps/search/?api=1&query=-18.965,32.866944) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Vumba%20Mountain%20Range%20and%20Chinhamapere%20Sacred%20Landscape%2C%20Mozambique) |
 
 ---
