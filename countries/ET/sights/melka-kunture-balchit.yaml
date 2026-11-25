@@ -2,12 +2,14 @@ id: sight-et-melka-kunture-balchit
 name: "Melka Kunture and Balchit"
 location:
   country_code: ET
-  latitude: 8.7
-  longitude: 38.61
+  latitude: 8.708
+  longitude: 38.594
 scores:
-  impact: null
-  uniqueness: null
-  significance: null
-  experience: null
-  depth: null
-  categories: {}
+  impact: 8
+  uniqueness: 9.4
+  significance: 9.7
+  experience: 8.5
+  depth: 8.4
+  categories:
+    history: 9.6
+    culture: 8.8

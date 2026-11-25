@@ -40,6 +40,8 @@
 - Evidence: [source context](https://whc.unesco.org/en/statesparties/ET) (consulted 2026-11-25; country listing confirms designation only). Not independent claim-level verification.
 - Remaining gaps: precise GPS, normal visitor access and individual factual support; category and peer calibration.
 
+- 2026-11-26 site-specific corroboration: UNESCO https://whc.unesco.org/en/list/9/ (indexed excerpt) corroborates dramatic escarpments and endemic Walia ibex. Separate tentative extension https://whc.unesco.org/en/tentativelists/6651 confirms proposal; do not assume unrestricted extension access. Existing provisional score retained.
+
 ## sight-et-bale-mountains-national-park — Bale Mountains National Park — 2026-11-25
 
 - [YAML](../../../countries/ET/sights/bale-mountains-national-park.yaml) · Action: new · **source-linked-unverified**.
@@ -58,6 +60,8 @@
 - High-score challenge: Uniqueness 9.5 — rare Afroalpine habitat and Ethiopian wolf; compared with the field references above; Significance 9.5 — global endemic-species conservation; compared with the field references above; nature 9.6 — high-altitude moorlands and forest contrasts; compared with the field references above; wildlife 9.7 — high-altitude moorlands and forest contrasts; compared with the field references above. 90+ overall reflects multiple strong fields, not UNESCO status alone. No approved 10.
 - Evidence: [source context](https://whc.unesco.org/en/statesparties/ET) (consulted 2026-11-25; country listing confirms designation only). Not independent claim-level verification.
 - Remaining gaps: precise GPS, normal visitor access and individual factual support; category and peer calibration.
+
+- 2026-11-26 site-specific corroboration: UNESCO https://whc.unesco.org/en/list/111/ (indexed excerpt) corroborates Harenna forest, endemic mountain nyala, Bale monkey and Ethiopian wolf habitat. No guaranteed encounters. Existing provisional score retained.
 
 ## sight-et-aksum-archaeological-site — Aksum Archaeological Site — 2026-11-25
 
@@ -97,6 +101,8 @@
 - Evidence: [source context](https://whc.unesco.org/en/statesparties/ET) (consulted 2026-11-25; country listing confirms designation only). Not independent claim-level verification.
 - Remaining gaps: precise GPS, normal visitor access and individual factual support; category and peer calibration.
 
+- 2026-11-26 site-specific corroboration: UNESCO https://whc.unesco.org/en/list/19/ (indexed excerpt) identifies serial monuments in and around Gondar; no assumption that every component is accessible. Existing provisional score retained.
+
 ## sight-et-harar-jugol — Harar Jugol, Fortified Historic Town — 2026-11-25
 
 - [YAML](../../../countries/ET/sights/harar-jugol.yaml) · Action: new · **source-linked-unverified**.
@@ -115,6 +121,8 @@
 - High-score challenge: no 9.5+ fields. 90+ overall reflects multiple strong fields, not UNESCO status alone. No approved 10.
 - Evidence: [source context](https://whc.unesco.org/en/statesparties/ET) (consulted 2026-11-25; country listing confirms designation only). Not independent claim-level verification.
 - Remaining gaps: precise GPS, normal visitor access and individual factual support; category and peer calibration.
+
+- 2026-11-26 site-specific corroboration: UNESCO https://whc.unesco.org/en/list/1189/ (indexed excerpt) corroborates fortified town, mosque and shrine heritage and distinctive domestic architecture. Existing provisional score retained.
 
 ## sight-et-konso-cultural-landscape — Konso Cultural Landscape — 2026-11-25
 
@@ -135,6 +143,8 @@
 - Evidence: [source context](https://whc.unesco.org/en/statesparties/ET) (consulted 2026-11-25; country listing confirms designation only). Not independent claim-level verification.
 - Remaining gaps: precise GPS, normal visitor access and individual factual support; category and peer calibration.
 
+- 2026-11-26 site-specific corroboration: UNESCO https://whc.unesco.org/en/list/1333 (indexed excerpt) corroborates stone terraces and fortified settlements; no unrestricted community access assumed. Existing provisional score retained.
+
 ## sight-et-tiya — Tiya Stelae Field — 2026-11-25
 
 - [YAML](../../../countries/ET/sights/tiya.yaml) · Action: new · **source-linked-unverified**.
@@ -154,81 +164,134 @@
 - Evidence: [source context](https://whc.unesco.org/en/statesparties/ET) (consulted 2026-11-25; country listing confirms designation only). Not independent claim-level verification.
 - Remaining gaps: precise GPS, normal visitor access and individual factual support; category and peer calibration.
 
-## sight-et-lower-valley-awash — Lower Valley of the Awash — 2026-11-25
+- 2026-11-26 site-specific corroboration: UNESCO https://whc.unesco.org/en/list/12 (indexed excerpt) documents carved stelae and archaeological importance; symbols remain imperfectly understood. Existing provisional score retained.
 
-- [YAML](../../../countries/ET/sights/lower-valley-awash.yaml) · Action: new · **unassessed**.
-- Scope: palaeoanthropological research landscape; not Awash National Park. GPS 11.1, 40.6: approximate editorial representative point; independent verification pending.
-- Worldwide peers (I/U/S/E/D):
-  - [Petra Archaeological Park (JO)](../../../countries/JO/sights/petra-archaeological-park.yaml) — 9.9 / 9.9 / 9.9 / 9.8 / 9.9; global archaeological ensemble ceiling; comparison for future assessment; visitor scope not verified.
-  - [Jerash Archaeological City (JO)](../../../countries/JO/sights/jerash-archaeological-city.yaml) — 9.5 / 9.3 / 9.5 / 9.4 / 9.3; substantial archaeological remains; comparison for future assessment; visitor scope not verified.
-  - [Geghard Monastery and Upper Azat Valley (AM)](../../../countries/AM/sights/geghard-monastery-and-upper-azat-valley.yaml) — 9.3 / 9.5 / 9.4 / 9.2 / 8.7; historic stone architecture and bounded heritage visit; comparison for future assessment; visitor scope not verified.
-  - [Adulis Archaeological Site (ER)](../../../countries/ER/sights/adulis-archaeological-site.yaml) — 7.5 / 8.6 / 9.4 / 7.8 / 7.4; regional archaeology with less extensive visible remains; comparison for future assessment; visitor scope not verified.
-- Impact null: palaeoanthropological research landscape; not Awash National Park.
-- Uniqueness null: scientific heritage confirmed but permitted visitor scope unresolved.
-- Significance null: inscribed property.
-- Experience null: normal visitor experience not verified.
-- Depth null: accessible interpretation and boundaries unresolved.
-- Categories: none assessed. Overall: unranked.
-- High-score challenge: no 9.5+ fields. No approved 10.
-- Evidence: [source context](https://whc.unesco.org/en/statesparties/ET) (consulted 2026-11-25; country listing confirms designation only). Not independent claim-level verification.
-- Remaining gaps: precise GPS, normal visitor access and individual factual support; complete scope and all five dimensions.
+## sight-et-lower-valley-awash — Lower Valley of the Awash — 2026-11-26
 
-## sight-et-lower-valley-omo — Lower Valley of the Omo — 2026-11-25
+- YAML: [source](../../../countries/ET/sights/lower-valley-awash.yaml)
+- Action: rescore
+- Precise subject: Inscribed research landscape only; excludes Awash National Park and fossil collections displayed elsewhere.
+- Location check: 11.10006, 40.57939; approximate representative point, not entrance.
+- Evidence status: **unassessed**
+- Sources (2026-11-26): UNESCO https://whc.unesco.org/en/list/10/ (opened) documents globally defining human evolutionary evidence including Lucy, unresolved boundaries, fossils held offsite and limited interpretation. Listed representative coordinate N11°6′0.216″ E40°34′45.804″ converted to decimal; not visitor access point.
+- Missing facts: independent claim-level verification and current authorized access.
 
-- [YAML](../../../countries/ET/sights/lower-valley-omo.yaml) · Action: new · **unassessed**.
-- Scope: archaeological and fossil landscape, not general Omo cultural tours. GPS 5, 36.15: approximate editorial representative point; independent verification pending.
-- Worldwide peers (I/U/S/E/D):
-  - [Petra Archaeological Park (JO)](../../../countries/JO/sights/petra-archaeological-park.yaml) — 9.9 / 9.9 / 9.9 / 9.8 / 9.9; global archaeological ensemble ceiling; comparison for future assessment; visitor scope not verified.
-  - [Jerash Archaeological City (JO)](../../../countries/JO/sights/jerash-archaeological-city.yaml) — 9.5 / 9.3 / 9.5 / 9.4 / 9.3; substantial archaeological remains; comparison for future assessment; visitor scope not verified.
-  - [Geghard Monastery and Upper Azat Valley (AM)](../../../countries/AM/sights/geghard-monastery-and-upper-azat-valley.yaml) — 9.3 / 9.5 / 9.4 / 9.2 / 8.7; historic stone architecture and bounded heritage visit; comparison for future assessment; visitor scope not verified.
-  - [Adulis Archaeological Site (ER)](../../../countries/ER/sights/adulis-archaeological-site.yaml) — 7.5 / 8.6 / 9.4 / 7.8 / 7.4; regional archaeology with less extensive visible remains; comparison for future assessment; visitor scope not verified.
-- Impact null: archaeological and fossil landscape, not general Omo cultural tours.
-- Uniqueness null: scientific scope documented but visitor scope uncertain.
-- Significance null: inscribed property.
-- Experience null: public access not established.
-- Depth null: visitor routes unresolved.
-- Categories: none assessed. Overall: unranked.
-- High-score challenge: no 9.5+ fields. No approved 10.
-- Evidence: [source context](https://whc.unesco.org/en/statesparties/ET) (consulted 2026-11-25; country listing confirms designation only). Not independent claim-level verification.
-- Remaining gaps: precise GPS, normal visitor access and individual factual support; complete scope and all five dimensions.
+### Worldwide peer comparisons
+- [olduvai-gorge (TZ)](../../../countries/TZ/sights/olduvai-gorge.yaml): 8.5/9.5/9.8/8.7/8.4; world-defining fossil discoveries and established museum.
+- [kuk-early-agricultural-site (PG)](../../../countries/PG/sights/kuk-early-agricultural-site.yaml): 6.4/9.3/9.4/6.8/6.4; major prehistoric heritage with mostly buried visible evidence.
+- [lenggong-valley-archaeological-heritage (MY)](../../../countries/MY/sights/lenggong-valley-archaeological-heritage.yaml): 8.0/9.0/9.5/8.0/8.4; multi-site prehistoric archaeological landscape.
+- [ban-chiang-archaeological-site (TH)](../../../countries/TH/sights/ban-chiang-archaeological-site.yaml): 8.4/9.2/9.6/8.2/8.1; interpreted settlement archaeology, different prehistoric sequence.
+- [olorgesailie (KE)](../../../countries/KE/sights/olorgesailie.yaml): 8.0/9.0/9.5/8.4/8.2; closely comparable early-human archaeological landscape and museum.
 
-## sight-et-melka-kunture-balchit — Melka Kunture and Balchit — 2026-11-25
+### Scoring decisions
+- Impact: null — Visitor-visible scope unresolved.
+- Uniqueness: 9.7 — Exceptional fossil record and evolutionary discoveries.
+- Significance: 9.8 — World-defining human evolutionary evidence.
+- Experience: null — Ordinary authorized visitor scope not established.
+- Depth: null — Accessible interpretation and boundaries unresolved.
+- Applicable categories: history 9.8.
+- Overall: unranked.
+- High-score challenge: Uniqueness 9.7, significance and history 9.8 reflect UNESCO-documented evolutionary evidence; Olduvai significance 9.8 anchors comparison. No overall score or offsite museum credit.
+- Approved 10 registry: none.
+- Final decision: Partial assessment retained; no overall score.
+- Earlier decision: [previous incomplete assessment](history-review-2026-11-26.md).
+- Verification still needed: full independent factual verification, precise representative points and current permissions.
 
-- [YAML](../../../countries/ET/sights/melka-kunture-balchit.yaml) · Action: new · **unassessed**.
-- Scope: serial archaeological landscape and museum context. GPS 8.7, 38.61: approximate editorial representative point; independent verification pending.
-- Worldwide peers (I/U/S/E/D):
-  - [Petra Archaeological Park (JO)](../../../countries/JO/sights/petra-archaeological-park.yaml) — 9.9 / 9.9 / 9.9 / 9.8 / 9.9; global archaeological ensemble ceiling; comparison for future assessment; visitor scope not verified.
-  - [Jerash Archaeological City (JO)](../../../countries/JO/sights/jerash-archaeological-city.yaml) — 9.5 / 9.3 / 9.5 / 9.4 / 9.3; substantial archaeological remains; comparison for future assessment; visitor scope not verified.
-  - [Geghard Monastery and Upper Azat Valley (AM)](../../../countries/AM/sights/geghard-monastery-and-upper-azat-valley.yaml) — 9.3 / 9.5 / 9.4 / 9.2 / 8.7; historic stone architecture and bounded heritage visit; comparison for future assessment; visitor scope not verified.
-  - [Adulis Archaeological Site (ER)](../../../countries/ER/sights/adulis-archaeological-site.yaml) — 7.5 / 8.6 / 9.4 / 7.8 / 7.4; regional archaeology with less extensive visible remains; comparison for future assessment; visitor scope not verified.
-- Impact null: serial archaeological landscape and museum context.
-- Uniqueness null: exceptional prehistoric sequence but property-wide visitor scope uncertain.
-- Significance null: inscribed property.
-- Experience null: one displayed excavation is not the full serial property.
-- Depth null: component access unresolved.
-- Categories: none assessed. Overall: unranked.
-- High-score challenge: no 9.5+ fields. No approved 10.
-- Evidence: [source context](https://whc.unesco.org/en/list/13) (consulted 2026-11-25; supports identity or regional subject context, not all claims). Not independent claim-level verification.
-- Remaining gaps: precise GPS, normal visitor access and individual factual support; complete scope and all five dimensions.
 
-## sight-et-gedeo-cultural-landscape — Gedeo Cultural Landscape — 2026-11-25
+## sight-et-lower-valley-omo — Lower Valley of the Omo — 2026-11-26
 
-- [YAML](../../../countries/ET/sights/gedeo-cultural-landscape.yaml) · Action: new · **unassessed**.
-- Scope: agroforestry and sacred cultural landscape. GPS 6.35, 38.3: approximate editorial representative point; independent verification pending.
-- Worldwide peers (I/U/S/E/D):
-  - [Petra Archaeological Park (JO)](../../../countries/JO/sights/petra-archaeological-park.yaml) — 9.9 / 9.9 / 9.9 / 9.8 / 9.9; global archaeological ensemble ceiling; comparison for future assessment; visitor scope not verified.
-  - [Jerash Archaeological City (JO)](../../../countries/JO/sights/jerash-archaeological-city.yaml) — 9.5 / 9.3 / 9.5 / 9.4 / 9.3; substantial archaeological remains; comparison for future assessment; visitor scope not verified.
-  - [Geghard Monastery and Upper Azat Valley (AM)](../../../countries/AM/sights/geghard-monastery-and-upper-azat-valley.yaml) — 9.3 / 9.5 / 9.4 / 9.2 / 8.7; historic stone architecture and bounded heritage visit; comparison for future assessment; visitor scope not verified.
-  - [Adulis Archaeological Site (ER)](../../../countries/ER/sights/adulis-archaeological-site.yaml) — 7.5 / 8.6 / 9.4 / 7.8 / 7.4; regional archaeology with less extensive visible remains; comparison for future assessment; visitor scope not verified.
-- Impact null: agroforestry and sacred cultural landscape.
-- Uniqueness null: living landscape documented but visitor scope unresolved.
-- Significance null: inscribed property.
-- Experience null: community permissions not checked.
-- Depth null: component routes unresolved.
-- Categories: none assessed. Overall: unranked.
-- High-score challenge: no 9.5+ fields. No approved 10.
-- Evidence: [source context](https://whc.unesco.org/en/statesparties/ET) (consulted 2026-11-25; country listing confirms designation only). Not independent claim-level verification.
-- Remaining gaps: precise GPS, normal visitor access and individual factual support; complete scope and all five dimensions.
+- YAML: [source](../../../countries/ET/sights/lower-valley-omo.yaml)
+- Action: rescore
+- Precise subject: Inscribed palaeoanthropological research landscape near Lake Turkana; excludes unrelated cultural village tours, Konso cultural landscape and offsite displays.
+- Location check: 4.8, 35.966667; approximate representative point, not entrance.
+- Evidence status: **unassessed**
+- Sources (2026-11-26): UNESCO https://whc.unesco.org/en/list/17/ (opened) documents globally significant hominin fossil and tool record, unresolved property boundaries and preserved scientific research scope. Published coordinate N4°47′60″ E35°58′0″ normalized to N4°48′, E35°58′; representative point only.
+- Missing facts: independent claim-level verification and current authorized access.
+
+### Worldwide peer comparisons
+- [olduvai-gorge (TZ)](../../../countries/TZ/sights/olduvai-gorge.yaml): 8.5/9.5/9.8/8.7/8.4; world-defining fossil discoveries and established museum.
+- [kuk-early-agricultural-site (PG)](../../../countries/PG/sights/kuk-early-agricultural-site.yaml): 6.4/9.3/9.4/6.8/6.4; major prehistoric heritage with mostly buried visible evidence.
+- [lenggong-valley-archaeological-heritage (MY)](../../../countries/MY/sights/lenggong-valley-archaeological-heritage.yaml): 8.0/9.0/9.5/8.0/8.4; multi-site prehistoric archaeological landscape.
+- [ban-chiang-archaeological-site (TH)](../../../countries/TH/sights/ban-chiang-archaeological-site.yaml): 8.4/9.2/9.6/8.2/8.1; interpreted settlement archaeology, different prehistoric sequence.
+- [olorgesailie (KE)](../../../countries/KE/sights/olorgesailie.yaml): 8.0/9.0/9.5/8.4/8.2; closely comparable early-human archaeological landscape and museum.
+
+### Scoring decisions
+- Impact: null — Visitor-visible scope unresolved.
+- Uniqueness: 9.5 — Rare fossil and early technological sequence.
+- Significance: 9.8 — Internationally defining human evolutionary record.
+- Experience: null — Authorized ordinary visitor scope not established.
+- Depth: null — Public interpretation and boundaries unresolved.
+- Applicable categories: history 9.7.
+- Overall: unranked.
+- High-score challenge: Uniqueness 9.5, significance 9.8 and history 9.7 reflect documented prehistoric science, anchored to Olduvai significance 9.8. No visitor score inferred.
+- Approved 10 registry: none.
+- Final decision: Partial assessment retained; no overall score.
+- Earlier decision: [previous incomplete assessment](history-review-2026-11-26.md).
+- Verification still needed: full independent factual verification, precise representative points and current permissions.
+
+
+## sight-et-melka-kunture-balchit — Melka Kunture and Balchit — 2026-11-26
+
+- YAML: [source](../../../countries/ET/sights/melka-kunture-balchit.yaml)
+- Action: rescore
+- Precise subject: Inscribed archaeological landscape evaluated through documented Melka Kunture site museum, open-air museum and permitted excavation viewpoints; no credit for access to every Balchit or active research locality.
+- Location check: 8.708, 38.594; approximate representative point, not entrance.
+- Evidence status: **source-linked-unverified**
+- Sources (2026-11-26): UNESCO https://whc.unesco.org/en/list/13/ (indexed excerpt; direct retrieval 403) documents exceptionally long sequence of four stone-tool traditions; https://whc.unesco.org/en/decisions/8599/ confirms inscription. Archaeological mission https://www.melkakunture.it/museum.html (opened) describes four museum structures linked to two displayed excavations. Visit Ethiopia https://www.visitethiopia.et/space/melka-kunture-and-balchit (opened) documents guided visitor routes. Cambridge University Press https://www.cambridge.org/core/books/abs/african-paleoecology-and-human-evolution/melka-kunture-ethiopia-early-pleistocene-faunas-of-the-ethiopian-highlands/26606F7F856B1ED1F5CEB14EAFAA4254 (indexed excerpt) provides 8.708 N, 38.594 E base-camp representative point; not a gate.
+- Missing facts: independent claim-level verification and current authorized access.
+
+### Worldwide peer comparisons
+- [olduvai-gorge (TZ)](../../../countries/TZ/sights/olduvai-gorge.yaml): 8.5/9.5/9.8/8.7/8.4; world-defining fossil discoveries and established museum.
+- [kuk-early-agricultural-site (PG)](../../../countries/PG/sights/kuk-early-agricultural-site.yaml): 6.4/9.3/9.4/6.8/6.4; major prehistoric heritage with mostly buried visible evidence.
+- [lenggong-valley-archaeological-heritage (MY)](../../../countries/MY/sights/lenggong-valley-archaeological-heritage.yaml): 8.0/9.0/9.5/8.0/8.4; multi-site prehistoric archaeological landscape.
+- [ban-chiang-archaeological-site (TH)](../../../countries/TH/sights/ban-chiang-archaeological-site.yaml): 8.4/9.2/9.6/8.2/8.1; interpreted settlement archaeology, different prehistoric sequence.
+- [olorgesailie (KE)](../../../countries/KE/sights/olorgesailie.yaml): 8.0/9.0/9.5/8.4/8.2; closely comparable early-human archaeological landscape and museum.
+
+### Scoring decisions
+- Impact: 8 — Visible excavations and highland valley, modest visual scale compared with monumental archaeological sites.
+- Uniqueness: 9.4 — Rare long prehistoric cultural sequence and documented stone-tool technologies.
+- Significance: 9.7 — Internationally defining early human archaeological and palaeontological evidence, comparable to Olduvai but slightly lower significance.
+- Experience: 8.5 — Documented museum exhibits and guided open-air excavations, current opening not established.
+- Depth: 8.4 — Several interpreted buildings and excavations; no credit for inaccessible components.
+- Applicable categories: history 9.6, culture 8.8.
+- Overall: 88.05/100.
+- High-score challenge: Significance 9.7 and history 9.6 reflect internationally exceptional documented prehistoric record; no equivalent visual or visitor rating. Olduvai significance 9.8 remains a higher anchor.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide V2 rating for documented visitor scope.
+- Earlier decision: [previous incomplete assessment](history-review-2026-11-26.md).
+- Verification still needed: full independent factual verification, precise representative points and current permissions.
+
+
+## sight-et-gedeo-cultural-landscape — Gedeo Cultural Landscape — 2026-11-26
+
+- YAML: [source](../../../countries/ET/sights/gedeo-cultural-landscape.yaml)
+- Action: rescore
+- Precise subject: Inscribed living agroforestry and sacred cultural landscape; no presumption of access to community or sacred areas.
+- Location check: 6.35, 38.3; approximate representative point, not entrance.
+- Evidence status: **unassessed**
+- Sources (2026-11-26): UNESCO https://whc.unesco.org/en/list/1641 (indexed excerpt, direct retrieval 403) and https://whc.unesco.org/en/decisions/8387/ (indexed decision) document indigenous knowledge, agroforestry, communal institutions and inscription. Existing representative point retained pending coordinate corroboration.
+- Missing facts: independent claim-level verification and current authorized access.
+
+### Worldwide peer comparisons
+- [kaya-kinondo (KE)](../../../countries/KE/sights/kaya-kinondo.yaml): 8.2/9.0/9.0/8.5/7.8; community-managed sacred forest with defined public circuit.
+- [budj-bim-cultural-landscape (AU)](../../../countries/AU/sights/budj-bim-cultural-landscape.yaml): 8.0/9.0/9.3/8.1/8.0; living Indigenous landscape and engineered food system.
+- [kuk-early-agricultural-site (PG)](../../../countries/PG/sights/kuk-early-agricultural-site.yaml): 6.4/9.3/9.4/6.8/6.4; long agricultural sequence, comparatively limited visible remains.
+- [langa-langa-lagoon (SB)](../../../countries/SB/sights/langa-langa-lagoon.yaml): 8.4/9.2/8.8/8.3/8.1; living community heritage and authorized visitor experiences.
+
+### Scoring decisions
+- Impact: null — Visitor-visible landscape scope unresolved.
+- Uniqueness: 9.2 — Distinctive long-standing integrated agroforestry and sacred traditions.
+- Significance: 9.3 — Internationally important living cultural landscape.
+- Experience: null — Community permission and documented visitor routes unresolved.
+- Depth: null — Accessible component breadth unresolved.
+- Applicable categories: culture 9.3.
+- Overall: unranked.
+- High-score challenge: No 9.5+ fields or ranked total.
+- Approved 10 registry: none.
+- Final decision: Partial assessment retained; no overall score.
+- Earlier decision: [previous incomplete assessment](history-review-2026-11-26.md).
+- Verification still needed: full independent factual verification, precise representative points and current permissions.
+
 
 ## sight-et-dirre-sheikh-hussein — Dirre Sheikh Hussein Religious Site — 2026-11-25
 
@@ -363,6 +426,8 @@
 - Evidence: [source context](https://visitethiopia.et/space/danakil-depression) (consulted 2026-11-25; supports identity or regional subject context, not all claims). Not independent claim-level verification.
 - Remaining gaps: precise GPS, normal visitor access and individual factual support; category and peer calibration.
 
+- 2026-11-26 site-specific corroboration: Peer-reviewed https://pubmed.ncbi.nlm.nih.gov/30801049/ and https://pmc.ncbi.nlm.nih.gov/articles/PMC9761782/ (indexed excerpts) corroborate extreme geothermal chemistry and distinctive mineral formations. No claim of safe access to pools or uniform current conditions. Existing provisional score retained.
+
 ## sight-et-erta-ale — Erta Ale Volcano — 2026-11-25
 
 - [YAML](../../../countries/ET/sights/erta-ale.yaml) · Action: new · **source-linked-unverified**.
@@ -438,3 +503,7 @@
 - High-score challenge: no 9.5+ fields. No approved 10.
 - Evidence: [source context](https://visit-afar.com/) (consulted 2026-11-25; supports identity or regional subject context, not all claims). Not independent claim-level verification.
 - Remaining gaps: precise GPS, normal visitor access and individual factual support; category and peer calibration.
+
+## Heritage inventory recheck — 2026-11-26
+
+UNESCO https://whc.unesco.org/en/statesparties/ET (opened) lists 12 inscribed and seven tentative properties; all represented at property/group level. Serial component coverage and current access remain incomplete. Normal-condition scores are not current travel advice.
