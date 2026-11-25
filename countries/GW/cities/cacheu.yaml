@@ -1,0 +1,16 @@
+id: city-gw-cacheu
+name: "Cacheu"
+location:
+  country_code: GW
+  latitude: 12.274444
+  longitude: -16.165278
+scores:
+  impact: 7.2
+  uniqueness: 8.0
+  significance: 8.5
+  experience: 7.6
+  depth: 6.7
+  categories:
+    history: 8.9
+    culture: 8.4
+    photography: 7.8

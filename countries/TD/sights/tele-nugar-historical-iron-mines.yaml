@@ -1,0 +1,15 @@
+id: sight-td-tele-nugar-historical-iron-mines
+name: "Télé-Nugar Historical Iron Mines"
+location:
+  country_code: TD
+  latitude: 10
+  longitude: 18.583333
+scores:
+  impact: null
+  uniqueness: 8.7
+  significance: 8.9
+  experience: null
+  depth: null
+  categories:
+    history: 9.3
+    culture: 8.5

@@ -1,0 +1,16 @@
+id: sight-gw-urok-islands-community-marine-protected-area
+name: "Urok Islands Community Marine Protected Area"
+location:
+  country_code: GW
+  latitude: 11.521944
+  longitude: -15.944167
+scores:
+  impact: null
+  uniqueness: 8.9
+  significance: 9.0
+  experience: null
+  depth: null
+  categories:
+    nature: 9.2
+    wildlife: 9.2
+    culture: 8.6

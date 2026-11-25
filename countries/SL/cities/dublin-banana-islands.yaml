@@ -1,0 +1,15 @@
+id: city-sl-dublin-banana-islands
+name: "Dublin (Banana Islands)"
+location:
+  country_code: SL
+  latitude: 8.132
+  longitude: -13.205
+scores:
+  impact: 7.2
+  uniqueness: 7.9
+  significance: 7.3
+  experience: 7.8
+  depth: 6.3
+  categories:
+    culture: 8.2
+    relaxation: 8.1

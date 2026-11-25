@@ -1,0 +1,15 @@
+id: city-ao-lobito
+name: "Lobito"
+location:
+  country_code: AO
+  latitude: -12.3644
+  longitude: 13.536015
+scores:
+  impact: 7.7
+  uniqueness: 7.8
+  significance: 7.6
+  experience: 8.0
+  depth: 7.5
+  categories:
+    beaches: 8.4
+    architecture: 8.0

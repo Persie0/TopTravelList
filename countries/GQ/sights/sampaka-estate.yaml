@@ -1,0 +1,15 @@
+id: sight-gq-sampaka-estate
+name: "Sampaka Estate"
+location:
+  country_code: GQ
+  latitude: 3.73
+  longitude: 8.79
+scores:
+  impact: 7.1
+  uniqueness: 7.9
+  significance: 7.7
+  experience: 7.6
+  depth: 6.8
+  categories:
+    culture: 8.3
+    history: 8.1

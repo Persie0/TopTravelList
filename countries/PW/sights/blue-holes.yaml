@@ -1,0 +1,16 @@
+id: sight-pw-blue-holes
+name: "Blue Holes"
+location:
+  country_code: PW
+  latitude: 7.1372
+  longitude: 134.22256
+scores:
+  impact: 9.1
+  uniqueness: 8.9
+  significance: 7.9
+  experience: 8.8
+  depth: 8.1
+  categories:
+    nature: 9.0
+    adventure: 9.1
+    photography: 9.1

@@ -1,0 +1,13 @@
+id: city-ml-koulikoro
+name: "Koulikoro"
+location:
+  country_code: ML
+  latitude: 12.8627
+  longitude: -7.5599
+scores:
+  impact: null
+  uniqueness: 7.0
+  significance: 7.1
+  experience: null
+  depth: null
+  categories: {}

@@ -1,0 +1,13 @@
+id: city-ki-poland
+name: "Poland Village"
+location:
+  country_code: KI
+  latitude: 1.8648
+  longitude: -157.55154
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}

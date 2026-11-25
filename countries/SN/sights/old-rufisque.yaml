@@ -1,0 +1,15 @@
+id: sight-sn-old-rufisque
+name: "Old Rufisque"
+location:
+  country_code: SN
+  latitude: 14.684194
+  longitude: -17.186639
+scores:
+  impact: 7.7
+  uniqueness: 8.1
+  significance: 8.5
+  experience: null
+  depth: null
+  categories:
+    architecture: 8.4
+    history: 8.7

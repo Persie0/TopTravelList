@@ -1,0 +1,16 @@
+id: sight-bi-gasumo-southern-nile-source
+name: "Gasumo Southern Nile Source"
+location:
+  country_code: BI
+  latitude: -3.913056
+  longitude: 29.839444
+scores:
+  impact: 7.1
+  uniqueness: 8.4
+  significance: 8.6
+  experience: 7.5
+  depth: 6.4
+  categories:
+    history: 8.4
+    nature: 8.3
+    photography: 7.8

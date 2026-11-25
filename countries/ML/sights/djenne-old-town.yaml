@@ -1,0 +1,16 @@
+id: sight-ml-djenne-old-town
+name: "Djenné Old Town"
+location:
+  country_code: ML
+  latitude: 13.90527
+  longitude: -4.55537
+scores:
+  impact: 9.2
+  uniqueness: 9.5
+  significance: 9.5
+  experience: 8.5
+  depth: 8.8
+  categories:
+    architecture: 9.6
+    history: 9.5
+    culture: 9.4

@@ -1,0 +1,13 @@
+id: city-ci-daloa
+name: "Daloa"
+location:
+  country_code: CI
+  latitude: 6.877
+  longitude: -6.45
+scores:
+  impact: null
+  uniqueness: null
+  significance: 7.1
+  experience: null
+  depth: null
+  categories: {}

@@ -1,0 +1,16 @@
+id: city-cd-kinshasa
+name: "Kinshasa"
+location:
+  country_code: CD
+  latitude: -4.32758
+  longitude: 15.31357
+scores:
+  impact: 8.0
+  uniqueness: 8.5
+  significance: 8.6
+  experience: 8.0
+  depth: 8.6
+  categories:
+    culture: 9.0
+    food: 8.4
+    nightlife: 8.5

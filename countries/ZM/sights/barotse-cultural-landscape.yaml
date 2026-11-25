@@ -1,0 +1,16 @@
+id: sight-zm-barotse-cultural-landscape
+name: "Barotse Cultural Landscape"
+location:
+  country_code: ZM
+  latitude: -15.223333
+  longitude: 23.018889
+scores:
+  impact: 8.5
+  uniqueness: 9.2
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    culture: 9.3
+    history: 9.1
+    nature: 8.8

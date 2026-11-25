@@ -1,0 +1,15 @@
+id: sight-sl-cotton-tree-historic-site
+name: "Cotton Tree Historic Site"
+location:
+  country_code: SL
+  latitude: 8.487
+  longitude: -13.235
+scores:
+  impact: 6.5
+  uniqueness: 7.8
+  significance: 8.8
+  experience: 6.8
+  depth: 5.3
+  categories:
+    history: 9.1
+    culture: 8.5

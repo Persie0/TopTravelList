@@ -1,0 +1,15 @@
+id: sight-ng-niger-delta-mangroves
+name: "Niger Delta Mangroves"
+location:
+  country_code: NG
+  latitude: 4
+  longitude: 5
+scores:
+  impact: null
+  uniqueness: 9.0
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    nature: 9.3
+    wildlife: 9.0
