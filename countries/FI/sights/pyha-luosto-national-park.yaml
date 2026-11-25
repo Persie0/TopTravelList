@@ -1,0 +1,16 @@
+id: sight-fi-pyha-luosto-national-park
+name: "Pyhä-Luosto National Park"
+location:
+  country_code: FI
+  latitude: 67.02
+  longitude: 27.1
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 8.4
+  experience: 8.9
+  depth: 8.7
+  categories:
+    nature: 9
+    adventure: 8.9
+    photography: 9

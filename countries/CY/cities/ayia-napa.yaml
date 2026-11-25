@@ -1,0 +1,16 @@
+id: city-cy-ayia-napa
+name: "Ayia Napa"
+location:
+  country_code: CY
+  latitude: 34.988
+  longitude: 34
+scores:
+  impact: 7.4
+  uniqueness: 7.1
+  significance: 6.5
+  experience: 8.4
+  depth: 7.6
+  categories:
+    nightlife: 8.8
+    beaches: 8.4
+    relaxation: 8.2

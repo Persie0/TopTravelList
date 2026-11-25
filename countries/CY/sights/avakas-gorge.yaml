@@ -1,0 +1,16 @@
+id: sight-cy-avakas-gorge
+name: "Avakas Gorge"
+location:
+  country_code: CY
+  latitude: 34.921
+  longitude: 32.338
+scores:
+  impact: 8.6
+  uniqueness: 8.2
+  significance: 7.5
+  experience: 8.4
+  depth: 7.4
+  categories:
+    nature: 8.7
+    photography: 8.9
+    adventure: 8.4

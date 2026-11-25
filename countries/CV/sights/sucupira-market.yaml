@@ -1,0 +1,15 @@
+id: sight-cv-sucupira-market
+name: "Sucupira Market"
+location:
+  country_code: CV
+  latitude: 14.9250
+  longitude: -23.5120
+scores:
+  impact: 7.2
+  uniqueness: 7.6
+  significance: 6.7
+  experience: 8.2
+  depth: 7.3
+  categories:
+    culture: 8.3
+    food: 8.1

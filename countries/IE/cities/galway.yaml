@@ -1,0 +1,16 @@
+id: city-ie-galway
+name: "Galway"
+location:
+  country_code: IE
+  latitude: 53.2707
+  longitude: -9.0568
+scores:
+  impact: 8.5
+  uniqueness: 8.7
+  significance: 8.5
+  experience: 9.0
+  depth: 8.5
+  categories:
+    culture: 9.2
+    food: 8.8
+    nightlife: 9.0

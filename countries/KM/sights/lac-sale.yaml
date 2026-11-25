@@ -1,0 +1,15 @@
+id: sight-km-lac-sale
+name: "Lac Salé"
+location:
+  country_code: KM
+  latitude: -11.4160
+  longitude: 43.3680
+scores:
+  impact: 8.6
+  uniqueness: 8.6
+  significance: 6.7
+  experience: 8.2
+  depth: 6.2
+  categories:
+    nature: 8.9
+    photography: 9.2

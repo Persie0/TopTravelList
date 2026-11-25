@@ -1,0 +1,16 @@
+id: sight-mn-bayanzag-flaming-cliffs
+name: "Bayanzag (Flaming Cliffs)"
+location:
+  country_code: MN
+  latitude: 44.14
+  longitude: 103.72
+scores:
+  impact: 9.0
+  uniqueness: 9.1
+  significance: 9.3
+  experience: 8.6
+  depth: 7.9
+  categories:
+    nature: 8.8
+    history: 9.4
+    photography: 9.3

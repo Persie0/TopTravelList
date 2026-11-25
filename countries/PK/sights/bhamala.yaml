@@ -1,0 +1,15 @@
+id: sight-pk-bhamala
+name: "Bhamala Buddhist Complex"
+location:
+  country_code: PK
+  latitude: 33.832822
+  longitude: 72.975736
+scores:
+  impact: 8.0
+  uniqueness: 8.5
+  significance: 8.8
+  experience: null
+  depth: null
+  categories:
+    history: 8.9
+    architecture: 8.7

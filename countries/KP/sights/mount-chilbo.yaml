@@ -1,0 +1,15 @@
+id: sight-kp-mount-chilbo
+name: "Mount Chilbo"
+location:
+  country_code: KP
+  latitude: 41.064444
+  longitude: 129.628889
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 8.7
+  experience: null
+  depth: null
+  categories:
+    nature: 9.1
+    photography: 9.1

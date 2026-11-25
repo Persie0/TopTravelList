@@ -1,0 +1,15 @@
+id: city-tt-speyside
+name: "Speyside"
+location:
+  country_code: TT
+  latitude: 11.299
+  longitude: -60.534
+scores:
+  impact: 7.4
+  uniqueness: 7.7
+  significance: 6.8
+  experience: 7.6
+  depth: 6.4
+  categories:
+    photography: 8.5
+    culture: 7.9

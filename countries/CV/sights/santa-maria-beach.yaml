@@ -1,0 +1,17 @@
+id: sight-cv-santa-maria-beach
+name: "Santa Maria Beach"
+location:
+  country_code: CV
+  latitude: 16.5960
+  longitude: -22.9090
+scores:
+  impact: 9.0
+  uniqueness: 8.2
+  significance: 6.3
+  experience: 9.0
+  depth: 8.1
+  categories:
+    beaches: 9.3
+    relaxation: 9.2
+    adventure: 8.8
+    photography: 8.9

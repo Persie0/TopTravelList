@@ -1,0 +1,16 @@
+id: sight-vc-horseshoe-reef
+name: "Horseshoe Reef"
+location:
+  country_code: VC
+  latitude: 12.638
+  longitude: -61.349
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 8.5
+  experience: 8.8
+  depth: 7.9
+  categories:
+    nature: 9.3
+    wildlife: 9.2
+    adventure: 9.3

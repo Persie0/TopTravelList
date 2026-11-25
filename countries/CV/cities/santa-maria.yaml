@@ -1,0 +1,16 @@
+id: city-cv-santa-maria
+name: "Santa Maria"
+location:
+  country_code: CV
+  latitude: 16.5990
+  longitude: -22.9060
+scores:
+  impact: 7.4
+  uniqueness: 7.2
+  significance: 6.2
+  experience: 8.7
+  depth: 7.7
+  categories:
+    food: 8.2
+    nightlife: 8.3
+    relaxation: 8.5

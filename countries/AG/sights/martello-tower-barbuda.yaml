@@ -1,0 +1,15 @@
+id: sight-ag-martello-tower-barbuda
+name: "Martello Tower (Barbuda)"
+location:
+  country_code: AG
+  latitude: 17.585
+  longitude: -61.804
+scores:
+  impact: 7.3
+  uniqueness: 8.0
+  significance: 8.4
+  experience: 7.8
+  depth: 6.2
+  categories:
+    history: 8.9
+    architecture: 8.3

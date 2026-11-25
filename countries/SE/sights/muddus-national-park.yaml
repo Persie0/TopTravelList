@@ -1,0 +1,15 @@
+id: sight-se-muddus-national-park
+name: "Muddus/Muttos National Park"
+location:
+  country_code: SE
+  latitude: 66.94
+  longitude: 20.18
+scores:
+  impact: 8.4
+  uniqueness: 8.8
+  significance: 8.8
+  experience: 8.5
+  depth: 8.8
+  categories:
+    nature: 9.2
+    photography: 8.9

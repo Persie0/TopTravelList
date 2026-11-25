@@ -1,0 +1,15 @@
+id: sight-pk-salt-range-khewra
+name: "Salt Range and Khewra Salt Mine"
+location:
+  country_code: PK
+  latitude: 32.65
+  longitude: 73.01
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 8.7
+  experience: null
+  depth: null
+  categories:
+    nature: 8.8
+    history: 8.7

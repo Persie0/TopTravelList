@@ -1,0 +1,15 @@
+id: sight-tm-darvaza-gas-crater
+name: "Darvaza Gas Crater"
+location:
+  country_code: TM
+  latitude: 40.252
+  longitude: 58.439
+scores:
+  impact: 7.7
+  uniqueness: 9.1
+  significance: 7.0
+  experience: 7.9
+  depth: 5.8
+  categories:
+    photography: 8.4
+    nature: 7.5

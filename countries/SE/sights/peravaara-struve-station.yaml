@@ -1,0 +1,14 @@
+id: sight-se-peravaara-struve-station
+name: "Perävaara (Perra-vaara) Struve Geodetic Arc Station"
+location:
+  country_code: SE
+  latitude: 66.018056
+  longitude: 23.9225
+scores:
+  impact: 6.8
+  uniqueness: 8.1
+  significance: 8.6
+  experience: 7.2
+  depth: 6.1
+  categories:
+    history: 8.6

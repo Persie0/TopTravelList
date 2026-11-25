@@ -1,0 +1,16 @@
+id: sight-gb-victoria-albert
+name: "Victoria and Albert Museum"
+location:
+  country_code: GB
+  latitude: 51.4966
+  longitude: -0.172
+scores:
+  impact: 9.2
+  uniqueness: 9.3
+  significance: 9.3
+  experience: 9.3
+  depth: 9.5
+  categories:
+    culture: 9.5
+    history: 9.3
+    architecture: 9.2

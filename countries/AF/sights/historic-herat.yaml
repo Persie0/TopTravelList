@@ -1,0 +1,15 @@
+id: sight-af-historic-herat
+name: "City of Herat (Historic Heritage Area)"
+location:
+  country_code: AF
+  latitude: 34.348
+  longitude: 62.2
+scores:
+  impact: 8.6
+  uniqueness: 8.9
+  significance: 9.1
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.1
+    history: 9.2

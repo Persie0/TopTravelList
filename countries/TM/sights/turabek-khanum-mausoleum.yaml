@@ -1,0 +1,16 @@
+id: sight-tm-turabek-khanum-mausoleum
+name: "Turabek Khanum Mausoleum"
+location:
+  country_code: TM
+  latitude: 42.306
+  longitude: 59.135
+scores:
+  impact: 8.5
+  uniqueness: 8.9
+  significance: 9.1
+  experience: 8.4
+  depth: 7.0
+  categories:
+    architecture: 9.4
+    history: 9.2
+    photography: 9.1

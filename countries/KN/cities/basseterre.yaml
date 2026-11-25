@@ -1,0 +1,17 @@
+id: city-kn-basseterre
+name: "Basseterre"
+location:
+  country_code: KN
+  latitude: 17.2948
+  longitude: -62.7261
+scores:
+  impact: 7.7
+  uniqueness: 8.1
+  significance: 8.4
+  experience: 8.2
+  depth: 8.1
+  categories:
+    architecture: 8.4
+    history: 8.8
+    culture: 8.7
+    food: 8.3

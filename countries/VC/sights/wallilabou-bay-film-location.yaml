@@ -1,0 +1,15 @@
+id: sight-vc-wallilabou-bay-film-location
+name: "Wallilabou Bay film location"
+location:
+  country_code: VC
+  latitude: 13.249
+  longitude: -61.268
+scores:
+  impact: 7.7
+  uniqueness: 8.3
+  significance: 6.6
+  experience: 8.1
+  depth: 6.6
+  categories:
+    culture: 8.6
+    photography: 8.5

@@ -1,0 +1,16 @@
+id: city-iq-najaf
+name: "Najaf"
+location:
+  country_code: IQ
+  latitude: 32.0003
+  longitude: 44.3359
+scores:
+  impact: 8.6
+  uniqueness: 9.0
+  significance: 9.3
+  experience: 8.4
+  depth: 8.2
+  categories:
+    culture: 9.3
+    history: 9.2
+    architecture: 8.8

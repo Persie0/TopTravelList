@@ -1,0 +1,15 @@
+id: sight-gb-canterbury-heritage
+name: "Canterbury Cathedral, St Augustine's Abbey and St Martin's Church"
+location:
+  country_code: GB
+  latitude: 51.28
+  longitude: 1.084
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 9.4
+  experience: 8.9
+  depth: 8.7
+  categories:
+    architecture: 9.3
+    history: 9.5

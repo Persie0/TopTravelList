@@ -1,0 +1,15 @@
+id: sight-ie-guinness-storehouse
+name: "Guinness Storehouse"
+location:
+  country_code: IE
+  latitude: 53.342
+  longitude: -6.287
+scores:
+  impact: 8.3
+  uniqueness: 8.5
+  significance: 8.1
+  experience: 8.9
+  depth: 8.6
+  categories:
+    culture: 8.7
+    food: 8.5

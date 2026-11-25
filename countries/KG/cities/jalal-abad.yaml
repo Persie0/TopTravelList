@@ -1,0 +1,15 @@
+id: city-kg-jalal-abad
+name: "Jalal-Abad"
+location:
+  country_code: KG
+  latitude: 40.933
+  longitude: 73
+scores:
+  impact: 6.8
+  uniqueness: 7.2
+  significance: 7.4
+  experience: 7.5
+  depth: 7.1
+  categories:
+    culture: 7.9
+    food: 7.9

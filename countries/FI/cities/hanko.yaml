@@ -1,0 +1,16 @@
+id: city-fi-hanko
+name: "Hanko"
+location:
+  country_code: FI
+  latitude: 59.824
+  longitude: 22.969
+scores:
+  impact: 7.8
+  uniqueness: 7.8
+  significance: 7.5
+  experience: 8.4
+  depth: 7.5
+  categories:
+    beaches: 8.6
+    relaxation: 8.7
+    architecture: 8.3

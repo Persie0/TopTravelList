@@ -1,0 +1,16 @@
+id: city-ir-kashan
+name: "Kashan"
+location:
+  country_code: IR
+  latitude: 33.985
+  longitude: 51.41
+scores:
+  impact: 8.4
+  uniqueness: 8.7
+  significance: 8.6
+  experience: 8.5
+  depth: 8.1
+  categories:
+    architecture: 9.0
+    culture: 8.8
+    history: 8.7

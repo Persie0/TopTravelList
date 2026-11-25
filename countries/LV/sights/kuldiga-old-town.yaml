@@ -1,0 +1,16 @@
+id: sight-lv-kuldiga-old-town
+name: "Old town of Kuldīga"
+location:
+  country_code: LV
+  latitude: 56.968
+  longitude: 21.97
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 9.0
+  experience: 8.8
+  depth: 8.2
+  categories:
+    architecture: 9.2
+    history: 9
+    photography: 9.1

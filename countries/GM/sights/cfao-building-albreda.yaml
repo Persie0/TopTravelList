@@ -1,0 +1,15 @@
+id: sight-gm-cfao-building-albreda
+name: "CFAO Building (Albreda)"
+location:
+  country_code: GM
+  latitude: 13.333194
+  longitude: -16.384972
+scores:
+  impact: 6.7
+  uniqueness: 7.7
+  significance: 8.5
+  experience: 7.6
+  depth: 6.2
+  categories:
+    history: 8.9
+    culture: 8.4

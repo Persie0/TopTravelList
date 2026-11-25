@@ -1,0 +1,15 @@
+id: sight-uz-alisher-navoi-theatre
+name: "Alisher Navoi Theatre"
+location:
+  country_code: UZ
+  latitude: 41.308
+  longitude: 69.272
+scores:
+  impact: 7.9
+  uniqueness: 8.0
+  significance: 7.6
+  experience: 8.0
+  depth: 6.9
+  categories:
+    architecture: 8.6
+    culture: 8.3

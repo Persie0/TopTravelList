@@ -1,0 +1,15 @@
+id: sight-mn-highlands-of-mongol-altai
+name: "Highlands of Mongol Altai"
+location:
+  country_code: MN
+  latitude: 48.7
+  longitude: 88.8
+scores:
+  impact: null
+  uniqueness: 9.2
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    nature: 9.4
+    adventure: 9.2

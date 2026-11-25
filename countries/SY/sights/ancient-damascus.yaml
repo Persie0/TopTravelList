@@ -1,0 +1,17 @@
+id: sight-sy-ancient-damascus
+name: "Ancient City of Damascus"
+location:
+  country_code: SY
+  latitude: 33.511
+  longitude: 36.306
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 9.3
+  experience: 8.8
+  depth: 8.9
+  categories:
+    architecture: 9.3
+    history: 9.4
+    culture: 9.3
+    photography: 9.1

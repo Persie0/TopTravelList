@@ -1,0 +1,16 @@
+id: sight-dm-freshwater-lake
+name: "Freshwater Lake"
+location:
+  country_code: DM
+  latitude: 15.336
+  longitude: -61.312
+scores:
+  impact: 8.2
+  uniqueness: 7.9
+  significance: 7.0
+  experience: 8.4
+  depth: 7.3
+  categories:
+    nature: 8.5
+    photography: 8.8
+    adventure: 8.3

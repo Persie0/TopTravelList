@@ -1,0 +1,15 @@
+id: sight-fi-sunila
+name: "Sunila Housing Area, Kotka"
+location:
+  country_code: FI
+  latitude: 60.496214
+  longitude: 26.957513
+scores:
+  impact: 7.8
+  uniqueness: 8.6
+  significance: 8.8
+  experience: 8.0
+  depth: 7.8
+  categories:
+    architecture: 8.8
+    history: 8.8

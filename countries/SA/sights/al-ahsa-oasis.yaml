@@ -1,0 +1,16 @@
+id: sight-sa-al-ahsa-oasis
+name: "Al-Ahsa Oasis"
+location:
+  country_code: SA
+  latitude: 25.426
+  longitude: 49.62
+scores:
+  impact: 8.5
+  uniqueness: 9.2
+  significance: 9.1
+  experience: 8.0
+  depth: 8.6
+  categories:
+    nature: 8.9
+    history: 9.1
+    culture: 8.7

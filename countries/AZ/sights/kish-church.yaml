@@ -1,0 +1,15 @@
+id: sight-az-kish-church
+name: "Kish Church"
+location:
+  country_code: AZ
+  latitude: 41.25
+  longitude: 47.2
+scores:
+  impact: 7.6
+  uniqueness: 8.3
+  significance: 8.8
+  experience: 7.8
+  depth: 6.3
+  categories:
+    history: 9.1
+    architecture: 8.6

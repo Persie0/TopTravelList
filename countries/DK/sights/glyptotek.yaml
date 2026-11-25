@@ -1,0 +1,15 @@
+id: sight-dk-glyptotek
+name: "Ny Carlsberg Glyptotek"
+location:
+  country_code: DK
+  latitude: 55.673
+  longitude: 12.572
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 8.9
+  experience: 8.8
+  depth: 8.9
+  categories:
+    culture: 9.3
+    architecture: 9.1

@@ -1,0 +1,15 @@
+id: sight-af-takht-e-rostam
+name: "Takht-e Rostam, Samangan"
+location:
+  country_code: AF
+  latitude: 36.248
+  longitude: 68.028
+scores:
+  impact: 8.4
+  uniqueness: 9.0
+  significance: 8.8
+  experience: 8.0
+  depth: 7.6
+  categories:
+    history: 9.0
+    architecture: 8.9

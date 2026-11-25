@@ -1,0 +1,17 @@
+id: sight-mn-tuvkhun-monastery
+name: "Tuvkhun Monastery"
+location:
+  country_code: MN
+  latitude: 47.02
+  longitude: 102.25
+scores:
+  impact: 8.5
+  uniqueness: 8.5
+  significance: 8.6
+  experience: 8.5
+  depth: 7.5
+  categories:
+    architecture: 8.5
+    culture: 8.9
+    history: 8.7
+    photography: 8.8

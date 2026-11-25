@@ -1,0 +1,15 @@
+id: sight-mn-uvs-nuur-basin-mongolian-components
+name: "Uvs Nuur Basin (Mongolian components)"
+location:
+  country_code: MN
+  latitude: 50.25
+  longitude: 92.65
+scores:
+  impact: null
+  uniqueness: 9.2
+  significance: 9.4
+  experience: null
+  depth: null
+  categories:
+    nature: 9.4
+    wildlife: 9.2

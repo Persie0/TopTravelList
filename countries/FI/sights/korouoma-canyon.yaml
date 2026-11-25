@@ -1,0 +1,16 @@
+id: sight-fi-korouoma-canyon
+name: "Korouoma Canyon"
+location:
+  country_code: FI
+  latitude: 66.1
+  longitude: 28.0
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 8.2
+  experience: 8.7
+  depth: 8.1
+  categories:
+    nature: 9.1
+    adventure: 9
+    photography: 9.2

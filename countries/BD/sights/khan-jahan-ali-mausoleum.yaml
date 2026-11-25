@@ -1,0 +1,16 @@
+id: sight-bd-khan-jahan-ali-mausoleum
+name: "Khan Jahan Ali Mausoleum"
+location:
+  country_code: BD
+  latitude: 22.658
+  longitude: 89.775
+scores:
+  impact: 7.7
+  uniqueness: 8.4
+  significance: 8.7
+  experience: 8.0
+  depth: 6.7
+  categories:
+    architecture: 8.7
+    history: 9.0
+    culture: 8.9

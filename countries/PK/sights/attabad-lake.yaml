@@ -1,0 +1,15 @@
+id: sight-pk-attabad-lake
+name: "Attabad Lake"
+location:
+  country_code: PK
+  latitude: 36.31
+  longitude: 74.87
+scores:
+  impact: 8.8
+  uniqueness: 8.2
+  significance: 7.3
+  experience: 8.3
+  depth: 7.2
+  categories:
+    nature: 8.6
+    photography: 9.1

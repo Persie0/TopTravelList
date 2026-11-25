@@ -1,0 +1,16 @@
+id: city-no-alesund
+name: "Ålesund"
+location:
+  country_code: "NO"
+  latitude: 62.4722
+  longitude: 6.1495
+scores:
+  impact: 9.0
+  uniqueness: 8.9
+  significance: 8.4
+  experience: 8.8
+  depth: 8.2
+  categories:
+    architecture: 9.3
+    photography: 9.3
+    history: 8.6

@@ -1,0 +1,15 @@
+id: sight-kp-kaesong-monuments
+name: "Historic Monuments and Sites in Kaesong"
+location:
+  country_code: KP
+  latitude: 37.97
+  longitude: 126.55
+scores:
+  impact: 8.5
+  uniqueness: 8.9
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    history: 9.3
+    architecture: 9.0
