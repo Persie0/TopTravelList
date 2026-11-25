@@ -1,0 +1,16 @@
+id: sight-us-big-bend
+name: "Big Bend National Park"
+location:
+  country_code: US
+  latitude: 29.25
+  longitude: -103.25
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 8.8
+  experience: 8.8
+  depth: 9.0
+  categories:
+    nature: 9.2
+    photography: 9.1
+    adventure: 9.1

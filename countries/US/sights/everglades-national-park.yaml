@@ -1,0 +1,15 @@
+id: sight-us-everglades-national-park
+name: "Everglades National Park"
+location:
+  country_code: US
+  latitude: 25.32
+  longitude: -80.90
+scores:
+  impact: 8.7
+  uniqueness: 9.2
+  significance: 9.4
+  experience: 8.8
+  depth: 9.0
+  categories:
+    nature: 9.3
+    wildlife: 9.4
