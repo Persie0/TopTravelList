@@ -1,0 +1,16 @@
+id: sight-ml-kamandjan-arch
+name: "Kamandjan Arch"
+location:
+  country_code: ML
+  latitude: 12.426
+  longitude: -8.355
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 8.3
+  experience: 8.4
+  depth: 7.8
+  categories:
+    nature: 8.7
+    history: 8.5
+    photography: 9.0
