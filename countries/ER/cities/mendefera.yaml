@@ -1,0 +1,15 @@
+id: city-er-mendefera
+name: "Mendefera"
+location:
+  country_code: ER
+  latitude: 14.89
+  longitude: 38.82
+scores:
+  impact: 6.4
+  uniqueness: 7.3
+  significance: 7.2
+  experience: 7.1
+  depth: 6.3
+  categories:
+    culture: 7.9
+    history: 7.8

@@ -1,0 +1,15 @@
+id: sight-ua-bakota
+name: "Bakota Dniester landscape"
+location:
+  country_code: UA
+  latitude: 48.59
+  longitude: 26.98
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 8.6
+  experience: 8.8
+  depth: 8.5
+  categories:
+    nature: 9.3
+    photography: 9.4

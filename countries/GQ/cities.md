@@ -2,7 +2,7 @@
 
 # Equatorial Guinea (GQ) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**13 ranked** · **0 unassessed** · **13 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,23 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (13)
 
-No cities, towns & villages have been assessed for **Equatorial Guinea** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Malabo](cities/malabo.yaml) | City / town | **78.65** | **Architecture 8.5**, **History 8.5**, **Culture 8.3**, Food 8.0 | 7.7 / 8.0 / 8.1 / 7.7 / 7.8 | [3.75, 8.78](https://www.google.com/maps/search/?api=1&query=3.75,8.78) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Malabo%2C%20Equatorial%20Guinea) |
+| 2 | [Moka](cities/moka.yaml) | City / town | **73.70** | **Culture 8.4**, **Photography 8.2**, **Relaxation 7.9** | 7.1 / 7.9 / 7.6 / 7.5 / 6.2 | [3.36, 8.67](https://www.google.com/maps/search/?api=1&query=3.36,8.67) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Moka%2C%20Equatorial%20Guinea) |
+| 2 | [San Antonio de Palé](cities/san-antonio-de-pale.yaml) | City / town | **73.70** | **Culture 8.5**, **Photography 8.2** | 7.2 / 8.2 / 7.3 / 7.2 / 6.2 | [-1.40139, 5.6325](https://www.google.com/maps/search/?api=1&query=-1.40139,5.6325) | [Google Maps](https://www.google.com/maps/search/?api=1&query=San%20Antonio%20de%20Pal%C3%A9%2C%20Equatorial%20Guinea) |
+| 4 | [Cogo](cities/cogo.yaml) | City / town | **72.50** | **History 8.1**, **Photography 8.1**, **Culture 8.0** | 7.0 / 7.7 / 7.5 / 7.3 / 6.3 | [1.08, 9.69](https://www.google.com/maps/search/?api=1&query=1.08,9.69) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cogo%2C%20Equatorial%20Guinea) |
+| 5 | [San Antonio de Ureca](cities/san-antonio-de-ureca.yaml) | City / town | **71.75** | **Culture 8.2**, **Photography 8.0** | 6.9 / 8.0 / 7.1 / 7.3 / 5.9 | [3.25, 8.54](https://www.google.com/maps/search/?api=1&query=3.25,8.54) | [Google Maps](https://www.google.com/maps/search/?api=1&query=San%20Antonio%20de%20Ureca%2C%20Equatorial%20Guinea) |
+| 6 | [Bata](cities/bata.yaml) | City / town | **71.70** | **Culture 7.9**, **Food 7.9**, **Relaxation 7.8** | 6.9 / 7.2 / 7.2 / 7.6 / 7.2 | [1.85, 9.77](https://www.google.com/maps/search/?api=1&query=1.85,9.77) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bata%2C%20Equatorial%20Guinea) |
+| 7 | [Luba](cities/luba.yaml) | City / town | **71.35** | **Photography 7.9**, **Culture 7.8**, **History 7.7** | 6.9 / 7.5 / 7.2 / 7.4 / 6.4 | [3.46, 8.55](https://www.google.com/maps/search/?api=1&query=3.46,8.55) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Luba%2C%20Equatorial%20Guinea) |
+| 8 | [Batete](cities/batete.yaml) | City / town | **71.30** | **History 8.2**, **Culture 8.1** | 6.6 / 7.8 / 7.6 / 7.2 / 6.0 | [3.44596, 8.50563](https://www.google.com/maps/search/?api=1&query=3.44596,8.50563) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Batete%2C%20Equatorial%20Guinea) |
+| 9 | [Ciudad de la Paz](cities/ciudad-de-la-paz.yaml) | City / town | **70.75** | **Architecture 8.1**, **History 7.7** | 6.7 / 7.7 / 7.4 / 6.8 / 6.4 | [1.6, 10.82](https://www.google.com/maps/search/?api=1&query=1.6,10.82) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ciudad%20de%20la%20Paz%2C%20Equatorial%20Guinea) |
+| 10 | [Mbini](cities/mbini.yaml) | City / town | **68.65** | **Relaxation 7.9**, **Culture 7.6** | 6.7 / 7.3 / 6.5 / 7.4 / 6.2 | [1.58, 9.61](https://www.google.com/maps/search/?api=1&query=1.58,9.61) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mbini%2C%20Equatorial%20Guinea) |
+| 11 | [Mongomo](cities/mongomo.yaml) | City / town | **68.50** | **Architecture 7.9**, **Culture 7.5** | 6.5 / 7.2 / 7.1 / 7.0 / 6.3 | [1.63, 11.31](https://www.google.com/maps/search/?api=1&query=1.63,11.31) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mongomo%2C%20Equatorial%20Guinea) |
+| 12 | [Evinayong](cities/evinayong.yaml) | City / town | **65.10** | **Culture 7.5** | 6.1 / 6.9 / 6.6 / 6.9 / 6.0 | [1.43884, 10.55166](https://www.google.com/maps/search/?api=1&query=1.43884,10.55166) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Evinayong%2C%20Equatorial%20Guinea) |
+| 13 | [Ebebiyín](cities/ebebiyin.yaml) | City / town | **64.75** | **Culture 7.5**, **Food 7.5** | 6.0 / 6.8 / 6.7 / 6.9 / 6.0 | [2.15218, 11.33013](https://www.google.com/maps/search/?api=1&query=2.15218,11.33013) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ebebiy%C3%ADn%2C%20Equatorial%20Guinea) |
 
 ---
 

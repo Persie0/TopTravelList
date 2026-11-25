@@ -1,0 +1,15 @@
+id: sight-gh-wechiau-hippopotamus-sanctuary
+name: "Wechiau Hippopotamus Sanctuary"
+location:
+  country_code: GH
+  latitude: 9.84
+  longitude: -2.82
+scores:
+  impact: 8.2
+  uniqueness: 8.6
+  significance: 8.5
+  experience: 8.3
+  depth: 7.8
+  categories:
+    wildlife: 9.1
+    nature: 8.8

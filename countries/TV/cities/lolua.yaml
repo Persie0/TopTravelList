@@ -1,0 +1,13 @@
+id: city-tv-lolua
+name: "Lolua Village"
+location:
+  country_code: TV
+  latitude: -5.67398
+  longitude: 176.11515
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}

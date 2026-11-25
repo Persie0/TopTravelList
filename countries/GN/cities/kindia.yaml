@@ -1,0 +1,15 @@
+id: city-gn-kindia
+name: "Kindia"
+location:
+  country_code: GN
+  latitude: 10.056
+  longitude: -12.865
+scores:
+  impact: 6.6
+  uniqueness: 7.2
+  significance: 6.9
+  experience: 7.5
+  depth: 6.5
+  categories:
+    food: 8.0
+    culture: 7.7

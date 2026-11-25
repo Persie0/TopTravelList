@@ -1,0 +1,15 @@
+id: city-gr-heraklion
+name: "Heraklion"
+location:
+  country_code: GR
+  latitude: 35.3387
+  longitude: 25.1442
+scores:
+  impact: 8.2
+  uniqueness: 8.6
+  significance: 9.0
+  experience: 8.7
+  depth: 8.7
+  categories:
+    history: 9.4
+    culture: 9.1

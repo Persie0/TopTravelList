@@ -1,0 +1,13 @@
+id: city-tv-pepesala
+name: "Pepesala Village"
+location:
+  country_code: TV
+  latitude: -9.37322
+  longitude: 179.80917
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}

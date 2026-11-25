@@ -1,0 +1,16 @@
+id: city-er-keren
+name: "Keren"
+location:
+  country_code: ER
+  latitude: 15.7805
+  longitude: 38.4536
+scores:
+  impact: 7.6
+  uniqueness: 8.1
+  significance: 8.0
+  experience: 8.0
+  depth: 7.2
+  categories:
+    culture: 8.7
+    history: 8.4
+    food: 8.0

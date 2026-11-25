@@ -1,0 +1,16 @@
+id: sight-gr-pindos
+name: "Northern Pindos National Park"
+location:
+  country_code: GR
+  latitude: 39.97
+  longitude: 20.95
+scores:
+  impact: 9.2
+  uniqueness: 9.0
+  significance: 8.9
+  experience: 9.0
+  depth: 9.3
+  categories:
+    nature: 9.5
+    adventure: 9.3
+    photography: 9.4

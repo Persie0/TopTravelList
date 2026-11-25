@@ -1,0 +1,16 @@
+id: sight-td-lake-chad-cultural-landscape-chad-sector
+name: "Lake Chad Cultural Landscape (Chad sector)"
+location:
+  country_code: TD
+  latitude: 13.0
+  longitude: 14.5
+scores:
+  impact: null
+  uniqueness: 8.8
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    nature: 9.3
+    culture: 9.2
+    history: 8.9

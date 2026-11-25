@@ -1,0 +1,15 @@
+id: sight-sl-kangari-hills-forest-reserve
+name: "Kangari Hills Forest Reserve"
+location:
+  country_code: SL
+  latitude: 8.65
+  longitude: -11.6
+scores:
+  impact: null
+  uniqueness: 8.3
+  significance: 8.7
+  experience: null
+  depth: null
+  categories:
+    nature: 8.9
+    wildlife: 8.9

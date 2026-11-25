@@ -1,0 +1,13 @@
+id: sight-mx-villa-ocampo-san-miguel-temple
+name: "Temple of San Miguel, Villa Ocampo"
+location:
+  country_code: MX
+  latitude: 26.44
+  longitude: -105.509442
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}

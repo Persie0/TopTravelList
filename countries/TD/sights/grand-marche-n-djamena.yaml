@@ -1,0 +1,15 @@
+id: sight-td-grand-marche-n-djamena
+name: "Grand Marché (N'Djamena)"
+location:
+  country_code: TD
+  latitude: 12.12
+  longitude: 15.05
+scores:
+  impact: 7.1
+  uniqueness: 7.8
+  significance: 6.8
+  experience: 7.6
+  depth: 7.3
+  categories:
+    culture: 8.4
+    food: 8.0

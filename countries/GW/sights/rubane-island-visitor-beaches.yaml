@@ -1,0 +1,15 @@
+id: sight-gw-rubane-island-visitor-beaches
+name: "Rubane Island (visitor beaches)"
+location:
+  country_code: GW
+  latitude: 11.32
+  longitude: -15.80
+scores:
+  impact: 8.2
+  uniqueness: 8.0
+  significance: 6.2
+  experience: 8.4
+  depth: 7.0
+  categories:
+    beaches: 8.7
+    relaxation: 8.8

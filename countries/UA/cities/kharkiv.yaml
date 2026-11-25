@@ -1,0 +1,16 @@
+id: city-ua-kharkiv
+name: "Kharkiv"
+location:
+  country_code: UA
+  latitude: 49.9935
+  longitude: 36.2304
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 9.0
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.2
+    history: 9.1
+    culture: 9.0

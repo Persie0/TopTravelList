@@ -1,0 +1,14 @@
+id: sight-ne-tenere-tree-monument
+name: "Tree of Ténéré Monument"
+location:
+  country_code: NE
+  latitude: 17.75
+  longitude: 10.07
+scores:
+  impact: 6.8
+  uniqueness: 8.8
+  significance: 7.9
+  experience: null
+  depth: null
+  categories:
+    history: 8.1

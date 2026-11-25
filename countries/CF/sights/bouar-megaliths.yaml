@@ -1,0 +1,15 @@
+id: sight-cf-bouar-megaliths
+name: "Bouar Megaliths"
+location:
+  country_code: CF
+  latitude: 6.041667
+  longitude: 15.383333
+scores:
+  impact: null
+  uniqueness: 8.8
+  significance: 9.1
+  experience: null
+  depth: null
+  categories:
+    history: 9.3
+    culture: 9.1

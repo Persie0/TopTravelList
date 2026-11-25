@@ -1,0 +1,16 @@
+id: sight-gr-prespa
+name: "Prespa Lakes national park and Byzantine monuments"
+location:
+  country_code: GR
+  latitude: 40.78
+  longitude: 21.05
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 9.0
+  experience: 8.8
+  depth: 9.0
+  categories:
+    nature: 9.3
+    wildlife: 9.3
+    history: 9.1

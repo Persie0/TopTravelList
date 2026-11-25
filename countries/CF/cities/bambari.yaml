@@ -1,0 +1,15 @@
+id: city-cf-bambari
+name: "Bambari"
+location:
+  country_code: CF
+  latitude: 5.77
+  longitude: 20.68
+scores:
+  impact: null
+  uniqueness: 7.0
+  significance: 7.1
+  experience: null
+  depth: null
+  categories:
+    history: 7.6
+    culture: 7.6

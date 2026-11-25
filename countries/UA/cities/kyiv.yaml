@@ -1,0 +1,16 @@
+id: city-ua-kyiv
+name: "Kyiv"
+location:
+  country_code: UA
+  latitude: 50.4501
+  longitude: 30.5234
+scores:
+  impact: 9.1
+  uniqueness: 9.2
+  significance: 9.4
+  experience: 8.9
+  depth: 9.2
+  categories:
+    history: 9.5
+    architecture: 9.3
+    culture: 9.3

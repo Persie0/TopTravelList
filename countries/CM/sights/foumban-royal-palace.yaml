@@ -1,0 +1,16 @@
+id: sight-cm-foumban-royal-palace
+name: "Foumban Royal Palace"
+location:
+  country_code: CM
+  latitude: 5.73303
+  longitude: 10.90119
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 8.5
+  depth: 7.9
+  categories:
+    architecture: 9.0
+    history: 9.2
+    culture: 9.1

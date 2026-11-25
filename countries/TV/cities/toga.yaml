@@ -1,0 +1,13 @@
+id: city-tv-toga
+name: "Toga Village"
+location:
+  country_code: TV
+  latitude: -6.28764
+  longitude: 176.31472
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}

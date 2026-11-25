@@ -1,0 +1,15 @@
+id: sight-nr-topside-phosphate-landscape
+name: "Topside Phosphate Landscape"
+location:
+  country_code: NR
+  latitude: -0.533
+  longitude: 166.935
+scores:
+  impact: 7.5
+  uniqueness: 8.4
+  significance: 8.5
+  experience: 6.8
+  depth: 6.7
+  categories:
+    history: 8.6
+    photography: 8.1

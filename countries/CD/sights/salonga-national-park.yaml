@@ -1,0 +1,15 @@
+id: sight-cd-salonga-national-park
+name: "Salonga National Park"
+location:
+  country_code: CD
+  latitude: -2.166667
+  longitude: 21.25
+scores:
+  impact: 9.1
+  uniqueness: 9.5
+  significance: 9.7
+  experience: null
+  depth: null
+  categories:
+    nature: 9.8
+    wildlife: null
