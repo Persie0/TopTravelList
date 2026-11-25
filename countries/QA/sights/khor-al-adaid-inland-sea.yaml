@@ -1,0 +1,16 @@
+id: sight-qa-khor-al-adaid-inland-sea
+name: "Khor Al Adaid (Inland Sea)"
+location:
+  country_code: QA
+  latitude: 24.6200
+  longitude: 51.3200
+scores:
+  impact: 9.2
+  uniqueness: 9.3
+  significance: 8.7
+  experience: 9.1
+  depth: 8.6
+  categories:
+    nature: 9.4
+    adventure: 9.3
+    photography: 9.4

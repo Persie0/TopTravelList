@@ -1,0 +1,15 @@
+id: sight-qa-al-thaqab-fort
+name: "Al Thaqab Fort"
+location:
+  country_code: QA
+  latitude: 26.0540
+  longitude: 51.0770
+scores:
+  impact: 6.6
+  uniqueness: 7.1
+  significance: 7.6
+  experience: 6.8
+  depth: 6.1
+  categories:
+    history: 8.0
+    architecture: 7.5
