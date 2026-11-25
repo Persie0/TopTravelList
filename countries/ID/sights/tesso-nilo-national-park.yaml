@@ -1,0 +1,15 @@
+id: sight-id-tesso-nilo-national-park
+name: "Tesso Nilo National Park"
+location:
+  country_code: ID
+  latitude: -0.1700
+  longitude: 101.8300
+scores:
+  impact: 8.4
+  uniqueness: 8.7
+  significance: 8.8
+  experience: 7.9
+  depth: 8.6
+  categories:
+    wildlife: 9.2
+    nature: 9.0

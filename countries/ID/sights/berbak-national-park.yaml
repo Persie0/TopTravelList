@@ -1,0 +1,15 @@
+id: sight-id-berbak-national-park
+name: "Berbak National Park"
+location:
+  country_code: ID
+  latitude: -1.5300
+  longitude: 104.2000
+scores:
+  impact: 8.7
+  uniqueness: 9.0
+  significance: 9.0
+  experience: 8.3
+  depth: 8.9
+  categories:
+    nature: 9.4
+    wildlife: 9.3

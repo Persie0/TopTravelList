@@ -1,0 +1,16 @@
+id: sight-id-bidadari-island
+name: "Bidadari Island"
+location:
+  country_code: ID
+  latitude: -6.0340
+  longitude: 106.7460
+scores:
+  impact: 8.0
+  uniqueness: 8.0
+  significance: 7.8
+  experience: 8.5
+  depth: 7.8
+  categories:
+    beaches: 8.5
+    history: 8.2
+    relaxation: 8.6

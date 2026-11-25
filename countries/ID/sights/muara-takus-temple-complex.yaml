@@ -1,0 +1,16 @@
+id: sight-id-muara-takus-temple-complex
+name: "Muara Takus Temple Complex"
+location:
+  country_code: ID
+  latitude: 0.3350
+  longitude: 100.6410
+scores:
+  impact: 8.6
+  uniqueness: 9.0
+  significance: 9.2
+  experience: 8.6
+  depth: 8.2
+  categories:
+    history: 9.4
+    architecture: 9.2
+    culture: 9.0
