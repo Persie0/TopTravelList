@@ -1,0 +1,15 @@
+id: city-zm-lusaka
+name: "Lusaka"
+location:
+  country_code: ZM
+  latitude: -15.407
+  longitude: 28.287
+scores:
+  impact: 7.2
+  uniqueness: 7.5
+  significance: 8.0
+  experience: 7.9
+  depth: 8.1
+  categories:
+    culture: 8.3
+    food: 8.1
