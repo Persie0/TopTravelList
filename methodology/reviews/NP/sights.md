@@ -1917,7 +1917,7 @@ Worldwide v2 · 2026-11-25. Numerical peer ladders are current ranking-page snap
 - Experience 9.0: rewarding prepared authorized approach.
 - Depth 8.5: single lake and shore.
 - Categories: nature:9.4,photography:9.4,adventure:9.2. Overall: 90.15/100.
-- High-score challenge: Provisional 90+ total justified by high glacial lake under steep mountain walls, rare high-altitude lake setting and single lake and shore; compare the above four peers rather than parent scores.. No approved 10.
+- High-score challenge: 90+ overall reflects the exceptional glacial lake beneath steep Himalayan walls, compared with Sun Moon Lake (greater relaxation and developed lakeside breadth) and Khoun Kong Leng Lake (much smaller karst setting). Tilicho's significance and depth remain below the entire Annapurna conservation area. No approved 10.
 - Evidence: [NTB Annapurna region and named trek areas](https://trade.ntb.gov.np/tourist-destination/annapurna-region), search excerpt reviewed 2026-11-25; no comprehensive exact-site check.
 - Remaining gaps: independently verify site identity, representative GPS, permitted visitor scope, factual claims, category-specific comparisons and detailed field-by-field peers. Ratings are not route or access advice.
 
