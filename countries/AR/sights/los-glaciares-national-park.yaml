@@ -1,0 +1,16 @@
+id: sight-ar-los-glaciares-national-park
+name: "Los Glaciares National Park"
+location:
+  country_code: AR
+  latitude: -50.0000
+  longitude: -73.0000
+scores:
+  impact: 9.8
+  uniqueness: 9.6
+  significance: 9.6
+  experience: 9.1
+  depth: 9.7
+  categories:
+    nature: 9.8
+    photography: 9.9
+    adventure: 9.7

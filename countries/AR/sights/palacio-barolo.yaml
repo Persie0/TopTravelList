@@ -1,0 +1,16 @@
+id: sight-ar-palacio-barolo
+name: "Palacio Barolo"
+location:
+  country_code: AR
+  latitude: -34.6090
+  longitude: -58.3860
+scores:
+  impact: 8.3
+  uniqueness: 9.0
+  significance: 8.4
+  experience: 8.5
+  depth: 7.2
+  categories:
+    architecture: 9.3
+    photography: 9.1
+    history: 8.8
