@@ -1,6 +1,6 @@
 # FO — Faroe Islands sights: individual worldwide reviews
 
-### sight-fo-mykines — Mykines Island — 2026-11-25
+## sight-fo-mykines — Mykines Island — 2026-11-25
 
 - YAML: [source](../../../countries/FO/sights/mykines.yaml)
 - Action: new
@@ -19,11 +19,11 @@
 #### Scoring decisions
 | Field | New rating | Individual justification |
 | --- | ---: | --- |
-| impact | 9.1 | Seabird cliffs and Atlantic scenery form a powerful landscape. |
-| uniqueness | 9.0 | Puffin and gannet encounters are unusual but comparable colonies exist. |
-| significance | 8.6 | Breeding seabirds support strong ecological interest. |
-| experience | 8.7 | Birdwatching and permitted walking provide a rewarding visit. |
-| depth | 8.4 | Several bird habitats and views, within a small island. |
+| Impact | 9.1 | Seabird cliffs and Atlantic scenery form a powerful landscape. |
+| Uniqueness | 9.0 | Puffin and gannet encounters are unusual but comparable colonies exist. |
+| Significance | 8.6 | Breeding seabirds support strong ecological interest. |
+| Experience | 8.7 | Birdwatching and permitted walking provide a rewarding visit. |
+| Depth | 8.4 | Several bird habitats and views, within a small island. |
 
 - Applicable category scores: nature: 9.2, wildlife: 9.3, photography: 9.2
 - Computed worldwide overall: 88.45/100
@@ -33,7 +33,7 @@
 - Earlier decision: none
 - Verification still needed: independent coordinate and claim-level review and current permitted visitor scope.
 
-### sight-fo-traelanipa-sorvagsvatn — Trælanípa and Sørvágsvatn viewpoint — 2026-11-25
+## sight-fo-traelanipa-sorvagsvatn — Trælanípa and Sørvágsvatn viewpoint — 2026-11-25
 
 - YAML: [source](../../../countries/FO/sights/traelanipa-sorvagsvatn.yaml)
 - Action: new
@@ -52,11 +52,11 @@
 #### Scoring decisions
 | Field | New rating | Individual justification |
 | --- | ---: | --- |
-| impact | 9.2 | Lake above sea perspective is visually exceptional. |
-| uniqueness | 9.1 | Optical juxtaposition is distinctive globally. |
-| significance | 7.7 | Geological interest is real but no world-defining heritage claim established. |
-| experience | 8.7 | Approach walk and viewpoint form a rewarding excursion. |
-| depth | 7.3 | Main attraction is a single visual composition. |
+| Impact | 9.2 | Lake above sea perspective is visually exceptional. |
+| Uniqueness | 9.1 | Optical juxtaposition is distinctive globally. |
+| Significance | 7.7 | Geological interest is real but no world-defining heritage claim established. |
+| Experience | 8.7 | Approach walk and viewpoint form a rewarding excursion. |
+| Depth | 7.3 | Main attraction is a single visual composition. |
 
 - Applicable category scores: nature: 9, photography: 9.3, adventure: 8.5
 - Computed worldwide overall: 86.10/100
@@ -66,7 +66,7 @@
 - Earlier decision: none
 - Verification still needed: independent coordinate and claim-level review and current permitted visitor scope.
 
-### sight-fo-mulafossur — Múlafossur Waterfall — 2026-11-25
+## sight-fo-mulafossur — Múlafossur Waterfall — 2026-11-25
 
 - YAML: [source](../../../countries/FO/sights/mulafossur.yaml)
 - Action: new
@@ -85,11 +85,11 @@
 #### Scoring decisions
 | Field | New rating | Individual justification |
 | --- | ---: | --- |
-| impact | 8.9 | Water falling directly toward the sea makes a powerful scene. |
-| uniqueness | 8.5 | Coastal waterfalls are unusual but not unique. |
-| significance | 7.0 | No major global scientific or historical importance established. |
-| experience | 8.1 | Short viewing experience is rewarding. |
-| depth | 6.6 | Limited independent exploration at the waterfall. |
+| Impact | 8.9 | Water falling directly toward the sea makes a powerful scene. |
+| Uniqueness | 8.5 | Coastal waterfalls are unusual but not unique. |
+| Significance | 7.0 | No major global scientific or historical importance established. |
+| Experience | 8.1 | Short viewing experience is rewarding. |
+| Depth | 6.6 | Limited independent exploration at the waterfall. |
 
 - Applicable category scores: nature: 8.8, photography: 9.2
 - Computed worldwide overall: 80.70/100
@@ -99,7 +99,7 @@
 - Earlier decision: none
 - Verification still needed: independent coordinate and claim-level review and current permitted visitor scope.
 
-### sight-fo-kallur-lighthouse — Kallur Lighthouse and ridge — 2026-11-25
+## sight-fo-kallur-lighthouse — Kallur Lighthouse and ridge — 2026-11-25
 
 - YAML: [source](../../../countries/FO/sights/kallur-lighthouse.yaml)
 - Action: new
@@ -118,11 +118,11 @@
 #### Scoring decisions
 | Field | New rating | Individual justification |
 | --- | ---: | --- |
-| impact | 9.1 | Steep grassy ridge and sea cliffs create an exceptional vista. |
-| uniqueness | 8.6 | Lighthouse on a narrow ocean ridge is distinctive but comparable headlands exist. |
-| significance | 7.2 | Mainly scenic and local maritime value. |
-| experience | 8.8 | Hike and changing panoramas are substantive. |
-| depth | 7.7 | One route and viewpoint system rather than a multi-day landscape. |
+| Impact | 9.1 | Steep grassy ridge and sea cliffs create an exceptional vista. |
+| Uniqueness | 8.6 | Lighthouse on a narrow ocean ridge is distinctive but comparable headlands exist. |
+| Significance | 7.2 | Mainly scenic and local maritime value. |
+| Experience | 8.8 | Hike and changing panoramas are substantive. |
+| Depth | 7.7 | One route and viewpoint system rather than a multi-day landscape. |
 
 - Applicable category scores: nature: 9, photography: 9.2, adventure: 8.8
 - Computed worldwide overall: 84.10/100
@@ -132,7 +132,7 @@
 - Earlier decision: none
 - Verification still needed: independent coordinate and claim-level review and current permitted visitor scope.
 
-### sight-fo-tinganes — Tinganes — 2026-11-25
+## sight-fo-tinganes — Tinganes — 2026-11-25
 
 - YAML: [source](../../../countries/FO/sights/tinganes.yaml)
 - Action: new
@@ -151,11 +151,11 @@
 #### Scoring decisions
 | Field | New rating | Individual justification |
 | --- | ---: | --- |
-| impact | 7.9 | Turf-roofed and red timber buildings produce a coherent small quarter. |
-| uniqueness | 8.5 | Historic parliamentary site and vernacular ensemble distinguish it. |
-| significance | 8.9 | Long parliamentary tradition is notable beyond the islands. |
-| experience | 8.0 | Exterior heritage exploration is engaging. |
-| depth | 7.3 | Compact precinct and limited interiors constrain depth. |
+| Impact | 7.9 | Turf-roofed and red timber buildings produce a coherent small quarter. |
+| Uniqueness | 8.5 | Historic parliamentary site and vernacular ensemble distinguish it. |
+| Significance | 8.9 | Long parliamentary tradition is notable beyond the islands. |
+| Experience | 8.0 | Exterior heritage exploration is engaging. |
+| Depth | 7.3 | Compact precinct and limited interiors constrain depth. |
 
 - Applicable category scores: history: 9, architecture: 8.5, culture: 8.5
 - Computed worldwide overall: 82.05/100
@@ -165,7 +165,7 @@
 - Earlier decision: none
 - Verification still needed: independent coordinate and claim-level review and current permitted visitor scope.
 
-### sight-fo-magnus-cathedral — Magnus Cathedral Ruins — 2026-11-25
+## sight-fo-magnus-cathedral — Magnus Cathedral Ruins — 2026-11-25
 
 - YAML: [source](../../../countries/FO/sights/magnus-cathedral.yaml)
 - Action: new
@@ -184,11 +184,11 @@
 #### Scoring decisions
 | Field | New rating | Individual justification |
 | --- | ---: | --- |
-| impact | 7.7 | Standing stone walls have strong archaeological atmosphere. |
-| uniqueness | 8.1 | Medieval cathedral remains in this island context are distinctive. |
-| significance | 8.5 | Former ecclesiastical centre has notable regional historical significance. |
-| experience | 7.6 | Exterior and interpretation support a meaningful short visit. |
-| depth | 6.9 | Single ruin has less depth than a large cathedral complex. |
+| Impact | 7.7 | Standing stone walls have strong archaeological atmosphere. |
+| Uniqueness | 8.1 | Medieval cathedral remains in this island context are distinctive. |
+| Significance | 8.5 | Former ecclesiastical centre has notable regional historical significance. |
+| Experience | 7.6 | Exterior and interpretation support a meaningful short visit. |
+| Depth | 6.9 | Single ruin has less depth than a large cathedral complex. |
 
 - Applicable category scores: history: 8.7, architecture: 8
 - Computed worldwide overall: 78.65/100
@@ -198,7 +198,7 @@
 - Earlier decision: none
 - Verification still needed: independent coordinate and claim-level review and current permitted visitor scope.
 
-### sight-fo-pollurin — Pollurin tidal lagoon — 2026-11-25
+## sight-fo-pollurin — Pollurin tidal lagoon — 2026-11-25
 
 - YAML: [source](../../../countries/FO/sights/pollurin.yaml)
 - Action: new
@@ -217,11 +217,11 @@
 #### Scoring decisions
 | Field | New rating | Individual justification |
 | --- | ---: | --- |
-| impact | 8.6 | Cliff-enclosed lagoon creates a dramatic sheltered scene. |
-| uniqueness | 8.1 | Tidal inlet configuration is distinctive but has worldwide analogues. |
-| significance | 7.0 | Local natural interest, no special global significance verified. |
-| experience | 8.1 | Shore views and permitted walks are rewarding. |
-| depth | 7.1 | Small natural area offers limited distinct exploration. |
+| Impact | 8.6 | Cliff-enclosed lagoon creates a dramatic sheltered scene. |
+| Uniqueness | 8.1 | Tidal inlet configuration is distinctive but has worldwide analogues. |
+| Significance | 7.0 | Local natural interest, no special global significance verified. |
+| Experience | 8.1 | Shore views and permitted walks are rewarding. |
+| Depth | 7.1 | Small natural area offers limited distinct exploration. |
 
 - Applicable category scores: nature: 8.5, photography: 8.9
 - Computed worldwide overall: 79.30/100
