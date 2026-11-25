@@ -980,3 +980,275 @@
 ## 2026-11-25 — northern atoll aggregate follow-up
 
 The 2025–2030 sustainable tourism strategy (p. 41, https://fliphtml5.com/rjssc/onfe/PSDI2503-02b_RMI_SustainableTourism_proof26Jun_(2)/41/) identifies Bikar and Bokak as closed to authorized visitors and other listed uninhabited atolls without routine services. This supports maintaining the Northern Marshall Islands Atolls aggregate visitor fields as null. UNESCO's tentative submission https://whc.unesco.org/en/tentativelists/2064/ lists seven named coordinate entries but describes seven atolls plus one island; do not invent an eighth name. Individual other components require further assessment. No aggregate YAML changes.
+
+
+### sight-mh-ailinginae-atoll — Ailinginae Atoll — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/MH/sights/ailinginae-atoll.yaml)
+- Action: rescore
+- Precise subject: Named island or atoll component, excluding other serial-property components.
+- Location check: Prior representative coordinates retained; not independently confirmed.
+- Evidence status: unassessed
+- Factual references consulted (2026-11-25; indexed excerpts except UNESCO tentative pages, tourism strategy p. 41 and National Geographic announcement opened directly):
+  - https://whc.unesco.org/en/tentativelists/2064/
+  - https://news.nationalgeographic.org/from-the-deep-sea-to-ancient-reefs-expedition-supports-marshall-islands-reimaanlok-vision-for-community-led-ocean-conservation/
+  - https://pipap.sprep.org/index.php/pa/555583308
+  - https://www.seaaroundus.org/real-mpa-paper-park-ailinginae-atoll/
+- Missing or uncertain facts: No-take is not necessarily no-entry; do not infer a blanket closure.
+
+#### Worldwide peer comparisons
+- Sipadan Island Reefs (Malaysia), 9.5/9.6/9.1/9.5/8.9: high marine biodiversity and documented visitor experience, not transferable to research areas.
+- Ang Thong National Marine Park (Thailand), 9.0/9.0/8.6/9.1/8.9: greater dramatic scenery and established visitor breadth.
+- Cham Islands (Vietnam), 8.8/9.0/8.4/9.0/8.7: comparable marine conservation context with established visits.
+- Arno Atoll (Marshall Islands), 8.2/8.1/7.3/8.0/7.9: regional comparator with documented recreational experience; no automatic transfer of visitor dimensions.
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | null | null | Normal visitor-visible impact unverified. |
+| Uniqueness | null | 8.8 | Relatively intact uninhabited coral-atoll ecosystem and customary reserve. |
+| Significance | null | 9.0 | Major protected marine habitat and conservation reference area. |
+| Experience | null | null | No-take conservation status and scientific access do not establish routine visitor permission. |
+| Depth | null | null | No documented ordinary recreational breadth. |
+
+- Applicable category scores: nature 9.0, wildlife 8.9.
+- Computed worldwide overall: unranked
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: retain incomplete profile; no unsupported visitor ratings.
+- Earlier decision: prior unranked record.
+- Verification still needed: No-take is not necessarily no-entry; do not infer a blanket closure. Canonical validation outstanding.
+
+
+### sight-mh-erikub-atoll — Erikub Atoll — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/MH/sights/erikub-atoll.yaml)
+- Action: rescore
+- Precise subject: Named island or atoll component, excluding other serial-property components.
+- Location check: Prior representative coordinates retained; not independently confirmed.
+- Evidence status: unassessed
+- Factual references consulted (2026-11-25; indexed excerpts except UNESCO tentative pages, tourism strategy p. 41 and National Geographic announcement opened directly):
+  - https://whc.unesco.org/en/tentativelists/2064/
+  - https://news.nationalgeographic.org/from-the-deep-sea-to-ancient-reefs-expedition-supports-marshall-islands-reimaanlok-vision-for-community-led-ocean-conservation/
+  - https://rmi-data.sprep.org/system/files/RMI%20Turtle%20Legislation%20Review_Final.pdf
+  - https://www.academia.edu/76618636/Conservation_considerations_revealed_by_the_movements_of_post_nesting_green_turtles_from_the_Republic_of_the_Marshall_Islands_
+- Missing or uncertain facts: Research findings are not guarantees of sightings or permitted access.
+
+#### Worldwide peer comparisons
+- Sipadan Island Reefs (Malaysia), 9.5/9.6/9.1/9.5/8.9: high marine biodiversity and documented visitor experience, not transferable to research areas.
+- Ang Thong National Marine Park (Thailand), 9.0/9.0/8.6/9.1/8.9: greater dramatic scenery and established visitor breadth.
+- Cham Islands (Vietnam), 8.8/9.0/8.4/9.0/8.7: comparable marine conservation context with established visits.
+- Arno Atoll (Marshall Islands), 8.2/8.1/7.3/8.0/7.9: regional comparator with documented recreational experience; no automatic transfer of visitor dimensions.
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | null | null | Visitor-visible features unverified. |
+| Uniqueness | null | 8.8 | Distinct turtle nesting and seagrass feeding habitat within an intact atoll. |
+| Significance | null | 9.0 | Documented important green turtle nesting and migratory connectivity. |
+| Experience | null | null | Scientific survey permission does not establish normal recreational visits. |
+| Depth | null | null | No verified visitor depth. |
+
+- Applicable category scores: nature 9.0, wildlife 9.1.
+- Computed worldwide overall: unranked
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: retain incomplete profile; no unsupported visitor ratings.
+- Earlier decision: prior unranked record.
+- Verification still needed: Research findings are not guarantees of sightings or permitted access. Canonical validation outstanding.
+
+
+### sight-mh-jemo-island — Jemo Island — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/MH/sights/jemo-island.yaml)
+- Action: rescore
+- Precise subject: Named island or atoll component, excluding other serial-property components.
+- Location check: Prior representative coordinates retained; not independently confirmed.
+- Evidence status: unassessed
+- Factual references consulted (2026-11-25; indexed excerpts except UNESCO tentative pages, tourism strategy p. 41 and National Geographic announcement opened directly):
+  - https://whc.unesco.org/en/tentativelists/2064/
+  - https://news.nationalgeographic.org/from-the-deep-sea-to-ancient-reefs-expedition-supports-marshall-islands-reimaanlok-vision-for-community-led-ocean-conservation/
+  - https://rmi-data.sprep.org/system/files/RMI%20Turtle%20Legislation%20Review_Final.pdf
+  - https://www.jointheiocc.org/iocc-projects/jemo-island-republic-of-marshall-islands
+- Missing or uncertain facts: Traditional reserve is not assumed open to tourists; restoration goals not represented as completed.
+
+#### Worldwide peer comparisons
+- Sipadan Island Reefs (Malaysia), 9.5/9.6/9.1/9.5/8.9: high marine biodiversity and documented visitor experience, not transferable to research areas.
+- Ang Thong National Marine Park (Thailand), 9.0/9.0/8.6/9.1/8.9: greater dramatic scenery and established visitor breadth.
+- Cham Islands (Vietnam), 8.8/9.0/8.4/9.0/8.7: comparable marine conservation context with established visits.
+- Arno Atoll (Marshall Islands), 8.2/8.1/7.3/8.0/7.9: regional comparator with documented recreational experience; no automatic transfer of visitor dimensions.
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | null | null | Ordinary visitor-visible impact unverified. |
+| Uniqueness | null | 8.7 | Distinct small coral island with traditional sanctuary and wildlife role. |
+| Significance | null | 9.0 | Important turtle and seabird habitat and customary conservation. |
+| Experience | null | null | No documented routine authorized visitor experiences. |
+| Depth | null | null | No verified visitor breadth. |
+
+- Applicable category scores: nature 8.9, wildlife 9.1.
+- Computed worldwide overall: unranked
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: retain incomplete profile; no unsupported visitor ratings.
+- Earlier decision: prior unranked record.
+- Verification still needed: Traditional reserve is not assumed open to tourists; restoration goals not represented as completed. Canonical validation outstanding.
+
+
+### sight-mh-rongerik-atoll — Rongerik Atoll — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/MH/sights/rongerik-atoll.yaml)
+- Action: rescore
+- Precise subject: Named island or atoll component, excluding other serial-property components.
+- Location check: Prior representative coordinates retained; not independently confirmed.
+- Evidence status: unassessed
+- Factual references consulted (2026-11-25; indexed excerpts except UNESCO tentative pages, tourism strategy p. 41 and National Geographic announcement opened directly):
+  - https://whc.unesco.org/en/tentativelists/2064/
+  - https://www.pipap.sprep.org/country/mh
+  - https://marshallislands.llnl.gov/affected-areas/bikini-atoll
+  - https://www.americanhistory.si.edu/collections/object/nmah_1303446
+- Missing or uncertain facts: No claim of visible relocation structures or current radiation safety.
+
+#### Worldwide peer comparisons
+- Sipadan Island Reefs (Malaysia), 9.5/9.6/9.1/9.5/8.9: high marine biodiversity and documented visitor experience, not transferable to research areas.
+- Ang Thong National Marine Park (Thailand), 9.0/9.0/8.6/9.1/8.9: greater dramatic scenery and established visitor breadth.
+- Cham Islands (Vietnam), 8.8/9.0/8.4/9.0/8.7: comparable marine conservation context with established visits.
+- Arno Atoll (Marshall Islands), 8.2/8.1/7.3/8.0/7.9: regional comparator with documented recreational experience; no automatic transfer of visitor dimensions.
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | null | null | Visitor-visible landscape and historical remains not independently verified. |
+| Uniqueness | null | 8.7 | Distinct combination of coral reserve and nuclear-era displacement history. |
+| Significance | null | 9.1 | Important documented site of forced relocation and customary ecology. |
+| Experience | null | null | No routine authorized visitor access or interpretation verified. |
+| Depth | null | null | No documented ordinary visitor scope. |
+
+- Applicable category scores: nature 8.7, history 9.1.
+- Computed worldwide overall: unranked
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: retain incomplete profile; no unsupported visitor ratings.
+- Earlier decision: prior unranked record.
+- Verification still needed: No claim of visible relocation structures or current radiation safety. Canonical validation outstanding.
+
+
+### sight-mh-taka-atoll — Taka Atoll — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/MH/sights/taka-atoll.yaml)
+- Action: rescore
+- Precise subject: Named island or atoll component, excluding other serial-property components.
+- Location check: Prior representative coordinates retained; not independently confirmed.
+- Evidence status: unassessed
+- Factual references consulted (2026-11-25; indexed excerpts except UNESCO tentative pages, tourism strategy p. 41 and National Geographic announcement opened directly):
+  - https://whc.unesco.org/en/tentativelists/2064/
+  - https://news.nationalgeographic.org/from-the-deep-sea-to-ancient-reefs-expedition-supports-marshall-islands-reimaanlok-vision-for-community-led-ocean-conservation/
+  - https://www.keybiodiversityareas.org/en/site/factsheet/24511/site
+- Missing or uncertain facts: No claim of current abundance from historical reports; current permission unverified.
+
+#### Worldwide peer comparisons
+- Sipadan Island Reefs (Malaysia), 9.5/9.6/9.1/9.5/8.9: high marine biodiversity and documented visitor experience, not transferable to research areas.
+- Ang Thong National Marine Park (Thailand), 9.0/9.0/8.6/9.1/8.9: greater dramatic scenery and established visitor breadth.
+- Cham Islands (Vietnam), 8.8/9.0/8.4/9.0/8.7: comparable marine conservation context with established visits.
+- Arno Atoll (Marshall Islands), 8.2/8.1/7.3/8.0/7.9: regional comparator with documented recreational experience; no automatic transfer of visitor dimensions.
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | null | null | Visitor-visible impact unverified. |
+| Uniqueness | null | 8.8 | Traditional seabird reserve and documented giant-clam habitat. |
+| Significance | null | 8.9 | Important nesting colonies and customary sanctuary. |
+| Experience | null | null | Research survey and customary resource use do not establish recreational access. |
+| Depth | null | null | No documented visitor breadth. |
+
+- Applicable category scores: nature 9.0, wildlife 9.1.
+- Computed worldwide overall: unranked
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: retain incomplete profile; no unsupported visitor ratings.
+- Earlier decision: prior unranked record.
+- Verification still needed: No claim of current abundance from historical reports; current permission unverified. Canonical validation outstanding.
+
+
+### sight-mh-mili-atoll-nature-conservancy — Mili Atoll Nature Conservancy — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/MH/sights/mili-atoll-nature-conservancy.yaml)
+- Action: rescore
+- Precise subject: Named island or atoll component, excluding other serial-property components.
+- Location check: Prior representative coordinates retained; not independently confirmed.
+- Evidence status: unassessed
+- Factual references consulted (2026-11-25; indexed excerpts except UNESCO tentative pages, tourism strategy p. 41 and National Geographic announcement opened directly):
+  - https://whc.unesco.org/en/tentativelists/2067/
+  - https://pipap.sprep.org/index.php/pa/555583340
+  - https://www.visitmarshallislands.mh/things-to-do
+  - https://www.ocit.mh/post/ocit-and-mili-atoll-local-government-plan-tourism-awareness-and-destination-profiling-initiative-for
+- Missing or uncertain facts: UNESCO ecology partly described jointly with Nadrikdrik; no specific species abundance transferred.
+
+#### Worldwide peer comparisons
+- Sipadan Island Reefs (Malaysia), 9.5/9.6/9.1/9.5/8.9: high marine biodiversity and documented visitor experience, not transferable to research areas.
+- Ang Thong National Marine Park (Thailand), 9.0/9.0/8.6/9.1/8.9: greater dramatic scenery and established visitor breadth.
+- Cham Islands (Vietnam), 8.8/9.0/8.4/9.0/8.7: comparable marine conservation context with established visits.
+- Arno Atoll (Marshall Islands), 8.2/8.1/7.3/8.0/7.9: regional comparator with documented recreational experience; no automatic transfer of visitor dimensions.
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | null | null | Exact protected component visitor-visible landscape not verified. |
+| Uniqueness | null | 8.8 | Distinct reef and coastal habitat described for the paired property; conservative component-specific estimate. |
+| Significance | null | 8.9 | Important proposed conservation area; separate atoll protected-area record corroborates context. |
+| Experience | null | null | General Mili surfing is not proof of authorized use of the uninhabited proposed component. |
+| Depth | null | null | No established visitor coverage of the exact component. |
+
+- Applicable category scores: nature 9.0, wildlife 8.8.
+- Computed worldwide overall: unranked
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: retain incomplete profile; no unsupported visitor ratings.
+- Earlier decision: prior unranked record.
+- Verification still needed: UNESCO ecology partly described jointly with Nadrikdrik; no specific species abundance transferred. Canonical validation outstanding.
+
+
+### sight-mh-nadrikdrik-atoll — Nadrikdrik (Knox Atoll) — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/MH/sights/nadrikdrik-atoll.yaml)
+- Action: rescore
+- Precise subject: Named island or atoll component, excluding other serial-property components.
+- Location check: Prior representative coordinates retained; not independently confirmed.
+- Evidence status: unassessed
+- Factual references consulted (2026-11-25; indexed excerpts except UNESCO tentative pages, tourism strategy p. 41 and National Geographic announcement opened directly):
+  - https://whc.unesco.org/en/tentativelists/2067/
+  - https://pacific-seabirds.sprep.org/colony/knox-atoll
+  - https://www.islandconservation.org/living-and-working-on-a-coral-atoll/
+  - https://fliphtml5.com/rjssc/onfe/PSDI2503-02b_RMI_SustainableTourism_proof26Jun_%282%29/41/
+- Missing or uncertain facts: Joint-property ecological claims not all verified separately; no assumption of unrestricted landing.
+
+#### Worldwide peer comparisons
+- Sipadan Island Reefs (Malaysia), 9.5/9.6/9.1/9.5/8.9: high marine biodiversity and documented visitor experience, not transferable to research areas.
+- Ang Thong National Marine Park (Thailand), 9.0/9.0/8.6/9.1/8.9: greater dramatic scenery and established visitor breadth.
+- Cham Islands (Vietnam), 8.8/9.0/8.4/9.0/8.7: comparable marine conservation context with established visits.
+- Arno Atoll (Marshall Islands), 8.2/8.1/7.3/8.0/7.9: regional comparator with documented recreational experience; no automatic transfer of visitor dimensions.
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | null | null | Visitor-visible impact unverified. |
+| Uniqueness | null | 8.7 | Distinct low coral atoll and seabird habitat, comparable Pacific systems exist. |
+| Significance | null | 8.8 | Documented breeding record and regional conservation importance; tentative joint property not inscription. |
+| Experience | null | null | Conservation work is not recreational access evidence. |
+| Depth | null | null | No verified ordinary visitor breadth. |
+
+- Applicable category scores: nature 8.9, wildlife 8.7.
+- Computed worldwide overall: unranked
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: retain incomplete profile; no unsupported visitor ratings.
+- Earlier decision: prior unranked record.
+- Verification still needed: Joint-property ecological claims not all verified separately; no assumption of unrestricted landing. Canonical validation outstanding.
+
+
+## 2026-11-25 — remaining aggregate and Namdrik follow-up
+
+- **Mili and Nadrikdrik:** UNESCO https://whc.unesco.org/en/tentativelists/2067/ explicitly identifies the proposed area as uninhabited; general Mili visitor promotion https://www.visitmarshallislands.mh/things-to-do and destination-profiling announcement https://www.ocit.mh/post/ocit-and-mili-atoll-local-government-plan-tourism-awareness-and-destination-profiling-initiative-for do not establish routine visitor experience across both components. Retain previous intrinsic scores and null experience/depth.
+- **Namdrik Ramsar site:** Ramsar designation confirmed in indexed excerpt https://www.ramsar.org/news/marshall-islands-lists-near-pristine-atoll (direct fetch 403), SPREP https://pipap.sprep.org/index.php/pa/555592843 and Seacology https://www.seacology.org/project/329-marshall-islands/ support community conservation. Pearl farming and community conservation work do not establish ordinary visitor tours. Retain null experience/depth.
+- **Northern aggregate:** prior access decision retained. UNESCO submission and March 2026 scientific expedition announcement support distinct components, not tourist access. National tourism strategy p.41 distinguishes Bikar/Bokak's explicit closure from other uninhabited sites with no flights; absence of flights is not evidence of a legal prohibition. No changes to Bikar/Bokak from previous review.

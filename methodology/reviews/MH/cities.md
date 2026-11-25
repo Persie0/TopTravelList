@@ -490,3 +490,189 @@
 - Final decision: complete provisional v2 profile; actual branch YAML peers consulted.
 - Earlier decision: prior incomplete entry for this ID.
 - Verification still needed: Primary visitor detail largely from one travel guide; current permissions and precise village coordinate unverified. Canonical validation outstanding.
+
+
+### city-mh-ebeye — Ebeye — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/MH/cities/ebeye.yaml)
+- Action: rescore
+- Precise subject: Named settlement only; excludes separately rated atoll-wide attractions.
+- Location check: Prior representative coordinates retained; not independently confirmed.
+- Evidence status: source-linked-unverified
+- Factual references consulted (2026-11-25; indexed excerpts except UNESCO tentative pages, tourism strategy p. 41 and National Geographic announcement opened directly):
+  - https://marshallislandspocketguide.com/101-best-things-to-do-in-the-marshall-islands-the-ultimate-list
+  - https://en.wikivoyage.org/wiki/Ebeye
+  - https://pulitzercenter.org/stories/island-ebeye-nuclear-past-and-ballistic-present
+  - https://mof.gov.mh/wp-content/uploads/2024/12/D19-ESIA-ESMP_Rev-2-reduced.pdf
+- Missing or uncertain facts: Town-specific public visitor evidence is mostly guide descriptions; no poverty or hardship treated as a spectacle.
+
+#### Worldwide peer comparisons
+- Kampot (Cambodia), 7.6/7.9/7.5/8.3/7.9: stronger documented heritage and culinary visitor breadth.
+- Rach Gia (Vietnam), 7.2/7.5/7.3/7.8/7.9: larger port with varied public urban activities.
+- Kuala Perlis (Malaysia), 6.5/6.8/6.5/7.2/6.7: modest waterfront settlement with established food experiences.
+- Majuro (Marshall Islands), 6.5/7.9/7.5/7.1/6.9: regional urban comparator, more documented activities.
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | null | 5.8 | Compact working town with limited monumental streetscape. |
+| Uniqueness | null | 7.5 | Distinctive dense coral-island urban settlement and Marshallese community identity. |
+| Significance | null | 7.7 | Substantial historical relevance of relocation and urban development, not a transfer of surrounding atoll heritage. |
+| Experience | null | 6.5 | Documented shops, local dining and town walks; no assumption of private or religious-site entry. |
+| Depth | null | 5.8 | Limited separate public attractions; no credit for other Kwajalein islands. |
+
+- Applicable category scores: culture 7.6, history 7.8.
+- Computed worldwide overall: 67.10/100
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: complete provisional v2 profile; actual branch YAML peers consulted.
+- Earlier decision: prior unranked record.
+- Verification still needed: Town-specific public visitor evidence is mostly guide descriptions; no poverty or hardship treated as a spectacle. Canonical validation outstanding.
+
+
+### city-mh-ebon — Ebon Village — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/MH/cities/ebon.yaml)
+- Action: rescore
+- Precise subject: Named settlement only; excludes separately rated atoll-wide attractions.
+- Location check: Prior representative coordinates retained; not independently confirmed.
+- Evidence status: unassessed
+- Factual references consulted (2026-11-25; indexed excerpts except UNESCO tentative pages, tourism strategy p. 41 and National Geographic announcement opened directly):
+  - https://www.academia.edu/14079949/Archaeological_and_Historical_Survey_of_Ebon_Atoll_Republic_of_the_Marshall_Islands
+  - https://www.tandfonline.com/doi/full/10.1080/02757206.2021.1983564
+  - https://fliphtml5.com/rjssc/onfe/PSDI2503-02b_RMI_SustainableTourism_proof26Jun_%282%29/41/
+- Missing or uncertain facts: Church at Rupe and archaeological sites elsewhere on atoll not automatically credited; coordinate identity needs corroboration.
+
+#### Worldwide peer comparisons
+- Kampot (Cambodia), 7.6/7.9/7.5/8.3/7.9: stronger documented heritage and culinary visitor breadth.
+- Rach Gia (Vietnam), 7.2/7.5/7.3/7.8/7.9: larger port with varied public urban activities.
+- Kuala Perlis (Malaysia), 6.5/6.8/6.5/7.2/6.7: modest waterfront settlement with established food experiences.
+- Majuro (Marshall Islands), 6.5/7.9/7.5/7.1/6.9: regional urban comparator, more documented activities.
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | null | null | Village streetscape not verified. |
+| Uniqueness | null | null | Exact village-specific character not sufficiently established. |
+| Significance | null | 7.5 | Early mission history is documented on Ebon Island; score provisional pending confirmation of village boundary and location. |
+| Experience | null | null | No routine permission or exact visitor itinerary established. |
+| Depth | null | null | No verified breadth of settlement-specific visitor activities. |
+
+- Applicable category scores: history 7.8.
+- Computed worldwide overall: unranked
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: retain incomplete profile; no unsupported visitor ratings.
+- Earlier decision: prior unranked record.
+- Verification still needed: Church at Rupe and archaeological sites elsewhere on atoll not automatically credited; coordinate identity needs corroboration. Canonical validation outstanding.
+
+
+### city-mh-kili — Kili Village — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/MH/cities/kili.yaml)
+- Action: rescore
+- Precise subject: Named settlement only; excludes separately rated atoll-wide attractions.
+- Location check: Prior representative coordinates retained; not independently confirmed.
+- Evidence status: unassessed
+- Factual references consulted (2026-11-25; indexed excerpts except UNESCO tentative pages, tourism strategy p. 41 and National Geographic announcement opened directly):
+  - https://marshallislands.llnl.gov/affected-areas/bikini-atoll
+  - https://www.doi.gov/oia/interior-proposes-legislation-expand-bikini-islanders-use-resettlement-fund-beyond-marshall
+  - https://fliphtml5.com/rjssc/onfe/PSDI2503-02b_RMI_SustainableTourism_proof26Jun_%282%29/41/
+- Missing or uncertain facts: No transfer of Bikini test-site rating; community history is not itself a tourist attraction.
+
+#### Worldwide peer comparisons
+- Kampot (Cambodia), 7.6/7.9/7.5/8.3/7.9: stronger documented heritage and culinary visitor breadth.
+- Rach Gia (Vietnam), 7.2/7.5/7.3/7.8/7.9: larger port with varied public urban activities.
+- Kuala Perlis (Malaysia), 6.5/6.8/6.5/7.2/6.7: modest waterfront settlement with established food experiences.
+- Majuro (Marshall Islands), 6.5/7.9/7.5/7.1/6.9: regional urban comparator, more documented activities.
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | null | null | Visitor-visible settlement fabric unverified. |
+| Uniqueness | null | 7.7 | Distinct community history as home of displaced Bikini residents. |
+| Significance | null | 8.3 | Substantial historical significance of nuclear-era displacement and community survival. |
+| Experience | null | null | No documented routine authorized visitor experience. |
+| Depth | null | null | No verified visitor interpretation or independent activities. |
+
+- Applicable category scores: history 8.5.
+- Computed worldwide overall: unranked
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: retain incomplete profile; no unsupported visitor ratings.
+- Earlier decision: prior unranked record.
+- Verification still needed: No transfer of Bikini test-site rating; community history is not itself a tourist attraction. Canonical validation outstanding.
+
+
+### city-mh-mili — Mili Village — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/MH/cities/mili.yaml)
+- Action: review; retain nulls
+- Precise subject: Named settlement only; excludes separately rated atoll-wide attractions.
+- Location check: Prior representative coordinates retained; not independently confirmed.
+- Evidence status: unassessed
+- Factual references consulted (2026-11-25; indexed excerpts except UNESCO tentative pages, tourism strategy p. 41 and National Geographic announcement opened directly):
+  - https://www.ocit.mh/post/ocit-and-mili-atoll-local-government-plan-tourism-awareness-and-destination-profiling-initiative-for
+  - https://www.infomarshallislands.com/atolls-m-w/mili-atoll/
+  - https://fliphtml5.com/rjssc/onfe/PSDI2503-02b_RMI_SustainableTourism_proof26Jun_%282%29/41/
+- Missing or uncertain facts: Keep all fields null: regional heritage and surfing do not establish village-level evidence.
+
+#### Worldwide peer comparisons
+- Kampot (Cambodia), 7.6/7.9/7.5/8.3/7.9: stronger documented heritage and culinary visitor breadth.
+- Rach Gia (Vietnam), 7.2/7.5/7.3/7.8/7.9: larger port with varied public urban activities.
+- Kuala Perlis (Malaysia), 6.5/6.8/6.5/7.2/6.7: modest waterfront settlement with established food experiences.
+- Majuro (Marshall Islands), 6.5/7.9/7.5/7.1/6.9: regional urban comparator, more documented activities.
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | null | null | Townscape not established. |
+| Uniqueness | null | null | Atoll-wide distinctiveness not attributed to village. |
+| Significance | null | null | Exact settlement-specific heritage unverified. |
+| Experience | null | null | Tourism profiling announcement is not an operating village itinerary. |
+| Depth | null | null | No verified settlement-specific visitor breadth. |
+
+- Applicable category scores: none assessed.
+- Computed worldwide overall: unranked
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: retain incomplete profile; no unsupported visitor ratings.
+- Earlier decision: prior unranked record.
+- Verification still needed: Keep all fields null: regional heritage and surfing do not establish village-level evidence. Canonical validation outstanding.
+
+
+### city-mh-namdrik — Namdrik Village — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/MH/cities/namdrik.yaml)
+- Action: review; retain nulls
+- Precise subject: Named settlement only; excludes separately rated atoll-wide attractions.
+- Location check: Prior representative coordinates retained; not independently confirmed.
+- Evidence status: unassessed
+- Factual references consulted (2026-11-25; indexed excerpts except UNESCO tentative pages, tourism strategy p. 41 and National Geographic announcement opened directly):
+  - https://www.seacology.org/project/329-marshall-islands/
+  - https://www.equatorinitiative.org/2017/05/29/namdrik-atoll-local-resources-committee/
+  - https://fliphtml5.com/rjssc/onfe/PSDI2503-02b_RMI_SustainableTourism_proof26Jun_%282%29/41/
+- Missing or uncertain facts: Retain all nulls; do not transfer pearl farming or Ramsar value to village.
+
+#### Worldwide peer comparisons
+- Kampot (Cambodia), 7.6/7.9/7.5/8.3/7.9: stronger documented heritage and culinary visitor breadth.
+- Rach Gia (Vietnam), 7.2/7.5/7.3/7.8/7.9: larger port with varied public urban activities.
+- Kuala Perlis (Malaysia), 6.5/6.8/6.5/7.2/6.7: modest waterfront settlement with established food experiences.
+- Majuro (Marshall Islands), 6.5/7.9/7.5/7.1/6.9: regional urban comparator, more documented activities.
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | null | null | Specific village setting not verified. |
+| Uniqueness | null | null | Atoll-wide projects not proven to be located within this settlement. |
+| Significance | null | null | Conservation and community achievements documented at atoll level only. |
+| Experience | null | null | No demonstrated village visitor programme. |
+| Depth | null | null | No established visitor breadth. |
+
+- Applicable category scores: none assessed.
+- Computed worldwide overall: unranked
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: retain incomplete profile; no unsupported visitor ratings.
+- Earlier decision: prior unranked record.
+- Verification still needed: Retain all nulls; do not transfer pearl farming or Ramsar value to village. Canonical validation outstanding.
