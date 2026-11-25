@@ -1,0 +1,15 @@
+id: sight-us-uva-academical-village
+name: "University of Virginia Academical Village"
+location:
+  country_code: US
+  latitude: 38.035
+  longitude: -78.504
+scores:
+  impact: 8.3
+  uniqueness: 8.5
+  significance: 9.0
+  experience: 8.3
+  depth: 8.1
+  categories:
+    architecture: 9.1
+    history: 9.2

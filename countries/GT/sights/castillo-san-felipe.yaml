@@ -1,0 +1,16 @@
+id: sight-gt-castillo-san-felipe
+name: "Castillo de San Felipe de Lara"
+location:
+  country_code: GT
+  latitude: 15.64
+  longitude: -88.996
+scores:
+  impact: 7.8
+  uniqueness: 8.0
+  significance: 8.4
+  experience: 8.0
+  depth: 7.0
+  categories:
+    history: 8.9
+    architecture: 8.6
+    photography: 8.7

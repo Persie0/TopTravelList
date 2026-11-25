@@ -1,0 +1,16 @@
+id: sight-us-chicago-auditorium-building
+name: "Chicago Auditorium Building"
+location:
+  country_code: US
+  latitude: 41.876
+  longitude: -87.625
+scores:
+  impact: 8.2
+  uniqueness: 8.5
+  significance: 8.8
+  experience: 8.0
+  depth: 7.5
+  categories:
+    architecture: 9.1
+    history: 8.9
+    culture: 8.8

@@ -1,0 +1,16 @@
+id: sight-ca-johnston-canyon
+name: "Johnston Canyon"
+location:
+  country_code: CA
+  latitude: 51.245
+  longitude: -115.839
+scores:
+  impact: 8.6
+  uniqueness: 8.3
+  significance: 7.5
+  experience: 8.9
+  depth: 8.0
+  categories:
+    nature: 9.0
+    photography: 9.0
+    adventure: 8.8

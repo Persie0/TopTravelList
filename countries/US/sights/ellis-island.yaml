@@ -1,0 +1,15 @@
+id: sight-us-ellis-island
+name: "Ellis Island"
+location:
+  country_code: US
+  latitude: 40.6995
+  longitude: -74.0396
+scores:
+  impact: 8.1
+  uniqueness: 8.8
+  significance: 9.3
+  experience: 8.6
+  depth: 8.3
+  categories:
+    history: 9.4
+    culture: 9.0

@@ -1,0 +1,15 @@
+id: city-gt-coban
+name: "Coban"
+location:
+  country_code: GT
+  latitude: 15.47
+  longitude: -90.373
+scores:
+  impact: 7.0
+  uniqueness: 7.6
+  significance: 7.4
+  experience: 7.5
+  depth: 7.0
+  categories:
+    culture: 8.3
+    food: 8.0

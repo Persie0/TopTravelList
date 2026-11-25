@@ -1,0 +1,16 @@
+id: city-ca-quebec-city
+name: "Québec City"
+location:
+  country_code: CA
+  latitude: 46.8139
+  longitude: -71.208
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.8
+  depth: 8.6
+  categories:
+    architecture: 9.2
+    history: 9.3
+    culture: 8.9

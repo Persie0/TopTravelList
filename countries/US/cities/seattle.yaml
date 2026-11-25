@@ -1,0 +1,16 @@
+id: city-us-seattle
+name: "Seattle"
+location:
+  country_code: US
+  latitude: 47.6062
+  longitude: -122.3321
+scores:
+  impact: 8.4
+  uniqueness: 8.3
+  significance: 8.2
+  experience: 8.7
+  depth: 8.6
+  categories:
+    food: 8.8
+    culture: 8.8
+    photography: 8.9

@@ -1,0 +1,15 @@
+id: sight-ca-anticosti
+name: "Anticosti"
+location:
+  country_code: CA
+  latitude: 49.5
+  longitude: -63.0
+scores:
+  impact: 8.5
+  uniqueness: 9.0
+  significance: 9.3
+  experience: 8.1
+  depth: 8.6
+  categories:
+    nature: 9.2
+    photography: 9.0

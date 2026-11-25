@@ -1,0 +1,16 @@
+id: city-us-las-vegas
+name: "Las Vegas"
+location:
+  country_code: US
+  latitude: 36.1699
+  longitude: -115.1398
+scores:
+  impact: 8.7
+  uniqueness: 9.0
+  significance: 7.3
+  experience: 8.9
+  depth: 8.3
+  categories:
+    nightlife: 9.3
+    architecture: 8.4
+    food: 8.7

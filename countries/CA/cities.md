@@ -2,7 +2,7 @@
 
 # Canada (CA) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**16 ranked** · **0 unassessed** · **16 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,26 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (16)
 
-No cities, towns & villages have been assessed for **Canada** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Québec City](cities/quebec-city.yaml) | City / town | **88.75** | **History 9.3**, **Architecture 9.2**, **Culture 8.9** | 8.9 / 8.9 / 9.0 / 8.8 / 8.6 | [46.8139, -71.208](https://www.google.com/maps/search/?api=1&query=46.8139,-71.208) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Qu%C3%A9bec%20City%2C%20Canada) |
+| 2 | [Montréal](cities/montreal.yaml) | City / town | **88.25** | **Culture 9.2**, **Food 9.2**, **Nightlife 9.0**, Architecture 8.8 | 8.7 / 8.8 / 8.7 / 9.1 / 9.1 | [45.5017, -73.5673](https://www.google.com/maps/search/?api=1&query=45.5017,-73.5673) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Montr%C3%A9al%2C%20Canada) |
+| 3 | [Vancouver](cities/vancouver.yaml) | City / town | **86.25** | **Photography 9.2**, **Food 9.1**, **Culture 8.6** | 8.9 / 8.5 / 8.0 / 9.0 / 8.8 | [49.2827, -123.1207](https://www.google.com/maps/search/?api=1&query=49.2827,-123.1207) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Vancouver%2C%20Canada) |
+| 4 | [Toronto](cities/toronto.yaml) | City / town | **84.70** | **Food 9.2**, **Culture 9.1**, **Nightlife 8.8**, Architecture 8.4 | 8.3 / 8.2 / 8.5 / 8.8 / 9.1 | [43.6532, -79.3832](https://www.google.com/maps/search/?api=1&query=43.6532,-79.3832) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Toronto%2C%20Canada) |
+| 5 | [Lunenburg](cities/lunenburg.yaml) | City / town | **83.00** | **Architecture 9.0**, **History 9.0**, **Photography 9.0** | 8.3 / 8.5 / 8.5 / 8.1 / 7.7 | [44.377, -64.309](https://www.google.com/maps/search/?api=1&query=44.377,-64.309) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lunenburg%2C%20Canada) |
+| 6 | [Ottawa](cities/ottawa.yaml) | City / town | **82.90** | **History 9.0**, **Architecture 8.8**, **Culture 8.7** | 8.0 / 8.1 / 8.8 / 8.3 / 8.6 | [45.4215, -75.6972](https://www.google.com/maps/search/?api=1&query=45.4215,-75.6972) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ottawa%2C%20Canada) |
+| 7 | [St. John's](cities/st-johns.yaml) | City / town | **82.75** | **Photography 9.0**, **Culture 8.8**, **History 8.6** | 8.2 / 8.6 / 8.2 / 8.3 / 7.8 | [47.5615, -52.7126](https://www.google.com/maps/search/?api=1&query=47.5615,-52.7126) | [Google Maps](https://www.google.com/maps/search/?api=1&query=St.%20John%27s%2C%20Canada) |
+| 8 | [Halifax](cities/halifax.yaml) | City / town | **82.05** | **History 8.9**, **Food 8.7**, **Culture 8.6** | 8.0 / 8.2 / 8.4 / 8.5 / 8.0 | [44.6488, -63.5752](https://www.google.com/maps/search/?api=1&query=44.6488,-63.5752) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Halifax%2C%20Canada) |
+| 9 | [Victoria](cities/victoria.yaml) | City / town | **81.80** | **Architecture 8.7**, **Relaxation 8.7**, **History 8.5** | 8.2 / 8.1 / 8.0 / 8.5 / 8.2 | [48.4284, -123.3656](https://www.google.com/maps/search/?api=1&query=48.4284,-123.3656) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Victoria%2C%20Canada) |
+| 10 | [Dawson City](cities/dawson-city.yaml) | City / town | **81.15** | **History 9.0**, **Culture 8.7**, **Architecture 8.6** | 7.8 / 8.5 / 8.6 / 7.8 / 7.6 | [64.06, -139.433](https://www.google.com/maps/search/?api=1&query=64.06,-139.433) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Dawson%20City%2C%20Canada) |
+| 11 | [Banff](cities/banff.yaml) | City / town | **79.15** | **Photography 8.9**, **Relaxation 8.6**, **Food 8.2** | 8.2 / 7.8 / 7.4 / 8.5 / 7.5 | [51.1784, -115.5708](https://www.google.com/maps/search/?api=1&query=51.1784,-115.5708) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Banff%2C%20Canada) |
+| 12 | [Calgary](cities/calgary.yaml) | City / town | **78.75** | **Culture 8.4**, **Food 8.3**, **Architecture 8.1** | 7.7 / 7.8 / 7.8 / 8.3 / 8.1 | [51.0447, -114.0719](https://www.google.com/maps/search/?api=1&query=51.0447,-114.0719) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Calgary%2C%20Canada) |
+| 13 | [Winnipeg](cities/winnipeg.yaml) | City / town | **78.60** | **Culture 8.7**, **History 8.7** | 7.4 / 8.0 / 8.2 / 8.0 / 8.0 | [49.8951, -97.1384](https://www.google.com/maps/search/?api=1&query=49.8951,-97.1384) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Winnipeg%2C%20Canada) |
+| 14 | [Charlottetown](cities/charlottetown.yaml) | City / town | **77.85** | **History 8.7**, **Architecture 8.5**, **Culture 8.3** | 7.6 / 7.7 / 8.2 / 8.0 / 7.4 | [46.2382, -63.1311](https://www.google.com/maps/search/?api=1&query=46.2382,-63.1311) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Charlottetown%2C%20Canada) |
+| 15 | [Edmonton](cities/edmonton.yaml) | City / town | **76.05** | **Culture 8.3**, **Food 8.2** | 7.3 / 7.5 / 7.7 / 8.0 / 8.0 | [53.5461, -113.4938](https://www.google.com/maps/search/?api=1&query=53.5461,-113.4938) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Edmonton%2C%20Canada) |
+| 16 | [Jasper](cities/jasper.yaml) | City / town | **75.30** | **Photography 8.5**, **Relaxation 8.3** | 7.7 / 7.6 / 7.1 / 8.0 / 7.0 | [52.8737, -118.0814](https://www.google.com/maps/search/?api=1&query=52.8737,-118.0814) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Jasper%2C%20Canada) |
 
 ---
 

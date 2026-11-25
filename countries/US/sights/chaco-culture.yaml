@@ -1,0 +1,15 @@
+id: sight-us-chaco-culture
+name: "Chaco Culture National Historical Park"
+location:
+  country_code: US
+  latitude: 36.06
+  longitude: -107.96
+scores:
+  impact: 8.5
+  uniqueness: 9.0
+  significance: 9.3
+  experience: 8.3
+  depth: 8.6
+  categories:
+    history: 9.4
+    architecture: 9.0

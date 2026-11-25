@@ -1,0 +1,15 @@
+id: sight-us-monticello
+name: "Monticello"
+location:
+  country_code: US
+  latitude: 38.010
+  longitude: -78.452
+scores:
+  impact: 8.2
+  uniqueness: 8.7
+  significance: 9.0
+  experience: 8.5
+  depth: 8.0
+  categories:
+    architecture: 9.0
+    history: 9.2

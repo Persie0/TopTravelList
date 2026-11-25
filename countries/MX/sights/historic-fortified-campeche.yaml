@@ -1,0 +1,15 @@
+id: sight-mx-historic-fortified-campeche
+name: "Historic Fortified Town of Campeche"
+location:
+  country_code: MX
+  latitude: 19.844
+  longitude: -90.536
+scores:
+  impact: 8.4
+  uniqueness: 8.7
+  significance: 8.9
+  experience: 8.5
+  depth: 8.4
+  categories:
+    architecture: 9.0
+    history: 9.1

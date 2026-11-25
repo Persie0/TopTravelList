@@ -1,0 +1,16 @@
+id: city-us-san-antonio
+name: "San Antonio"
+location:
+  country_code: US
+  latitude: 29.4241
+  longitude: -98.4936
+scores:
+  impact: 8.1
+  uniqueness: 8.5
+  significance: 8.7
+  experience: 8.5
+  depth: 8.2
+  categories:
+    history: 9.0
+    food: 8.9
+    culture: 8.8
