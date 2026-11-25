@@ -1,0 +1,16 @@
+id: sight-tt-caroni-swamp-bird-sanctuary
+name: "Caroni Swamp Bird Sanctuary"
+location:
+  country_code: TT
+  latitude: 10.607
+  longitude: -61.453
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 8.7
+  experience: 8.9
+  depth: 8.2
+  categories:
+    wildlife: 9.4
+    nature: 9.1
+    photography: 9.2

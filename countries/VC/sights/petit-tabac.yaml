@@ -1,0 +1,15 @@
+id: sight-vc-petit-tabac
+name: "Petit Tabac"
+location:
+  country_code: VC
+  latitude: 12.626
+  longitude: -61.342
+scores:
+  impact: 9.0
+  uniqueness: 8.5
+  significance: 6.1
+  experience: 8.2
+  depth: 6.6
+  categories:
+    beaches: 9.2
+    photography: 9.3

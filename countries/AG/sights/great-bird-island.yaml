@@ -1,0 +1,16 @@
+id: sight-ag-great-bird-island
+name: "Great Bird Island"
+location:
+  country_code: AG
+  latitude: 17.147
+  longitude: -61.725
+scores:
+  impact: 8.5
+  uniqueness: 8.4
+  significance: 8.0
+  experience: 8.6
+  depth: 7.3
+  categories:
+    nature: 9.0
+    photography: 9.0
+    wildlife: 8.8

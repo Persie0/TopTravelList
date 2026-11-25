@@ -1,0 +1,15 @@
+id: city-uz-urgench
+name: "Urgench"
+location:
+  country_code: UZ
+  latitude: 41.55
+  longitude: 60.631
+scores:
+  impact: 6.3
+  uniqueness: 6.4
+  significance: 6.5
+  experience: 7.0
+  depth: 6.7
+  categories:
+    food: 7.3
+    culture: 7.0

@@ -1,0 +1,16 @@
+id: sight-pk-wazir-khan-mosque
+name: "Wazir Khan Mosque"
+location:
+  country_code: PK
+  latitude: 31.583
+  longitude: 74.323
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 8.6
+  experience: 8.4
+  depth: 7.6
+  categories:
+    architecture: 9.3
+    history: 8.8
+    photography: 9.0

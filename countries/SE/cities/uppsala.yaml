@@ -1,0 +1,16 @@
+id: city-se-uppsala
+name: "Uppsala"
+location:
+  country_code: SE
+  latitude: 59.858
+  longitude: 17.638
+scores:
+  impact: 8.5
+  uniqueness: 8.6
+  significance: 8.9
+  experience: 8.7
+  depth: 8.6
+  categories:
+    history: 9.1
+    culture: 9
+    architecture: 9

@@ -1,0 +1,15 @@
+id: sight-dm-cold-soufriere
+name: "Cold Soufrière"
+location:
+  country_code: DM
+  latitude: 15.617
+  longitude: -61.424
+scores:
+  impact: 7.9
+  uniqueness: 8.8
+  significance: 7.0
+  experience: 7.9
+  depth: 5.9
+  categories:
+    nature: 8.8
+    photography: 8.5

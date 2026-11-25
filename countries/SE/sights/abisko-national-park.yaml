@@ -1,0 +1,16 @@
+id: sight-se-abisko-national-park
+name: "Abisko National Park"
+location:
+  country_code: SE
+  latitude: 68.32
+  longitude: 18.7
+scores:
+  impact: 9.2
+  uniqueness: 9.1
+  significance: 8.8
+  experience: 9.3
+  depth: 9.1
+  categories:
+    nature: 9.4
+    adventure: 9.3
+    photography: 9.4

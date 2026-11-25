@@ -1,0 +1,15 @@
+id: sight-is-svartifoss
+name: "Svartifoss waterfall"
+location:
+  country_code: IS
+  latitude: 64.027
+  longitude: -16.975
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 8.2
+  experience: 8.7
+  depth: 7.6
+  categories:
+    nature: 9.1
+    photography: 9.2

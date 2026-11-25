@@ -1,0 +1,16 @@
+id: sight-is-dyrholaey
+name: "Dyrhólaey"
+location:
+  country_code: IS
+  latitude: 63.402
+  longitude: -19.126
+scores:
+  impact: 9.0
+  uniqueness: 8.8
+  significance: 8.5
+  experience: 8.6
+  depth: 7.9
+  categories:
+    nature: 9.1
+    wildlife: 8.9
+    photography: 9.3

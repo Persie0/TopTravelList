@@ -1,0 +1,14 @@
+id: sight-ae-julfar-trading-town-archaeological-landscape
+name: "Julfar Trading Town Archaeological Landscape"
+location:
+  country_code: AE
+  latitude: 25.85
+  longitude: 56.02
+scores:
+  impact: null
+  uniqueness: 8.6
+  significance: 9.1
+  experience: null
+  depth: null
+  categories:
+    history: 9.3

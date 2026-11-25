@@ -1,0 +1,16 @@
+id: sight-tt-temple-in-the-sea
+name: "Temple in the Sea"
+location:
+  country_code: TT
+  latitude: 10.478
+  longitude: -61.478
+scores:
+  impact: 8.0
+  uniqueness: 8.7
+  significance: 8.4
+  experience: 8.0
+  depth: 6.9
+  categories:
+    culture: 9.0
+    history: 8.7
+    architecture: 8.6

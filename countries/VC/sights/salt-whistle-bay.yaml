@@ -1,0 +1,16 @@
+id: sight-vc-salt-whistle-bay
+name: "Salt Whistle Bay"
+location:
+  country_code: VC
+  latitude: 12.650
+  longitude: -61.391
+scores:
+  impact: 9.2
+  uniqueness: 8.8
+  significance: 6.5
+  experience: 8.8
+  depth: 7.5
+  categories:
+    beaches: 9.4
+    photography: 9.4
+    relaxation: 9.1

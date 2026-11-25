@@ -1,0 +1,16 @@
+id: sight-ae-heart-of-sharjah
+name: "Heart of Sharjah"
+location:
+  country_code: AE
+  latitude: 25.358
+  longitude: 55.386
+scores:
+  impact: 7.9
+  uniqueness: 8.1
+  significance: 8.3
+  experience: 8.3
+  depth: 8.0
+  categories:
+    architecture: 8.6
+    history: 8.6
+    culture: 8.7

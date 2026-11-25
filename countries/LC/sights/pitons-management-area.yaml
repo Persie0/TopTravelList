@@ -1,0 +1,16 @@
+id: sight-lc-pitons-management-area
+name: "Pitons Management Area"
+location:
+  country_code: LC
+  latitude: 13.807083
+  longitude: -61.070361
+scores:
+  impact: 9.7
+  uniqueness: 9.6
+  significance: 9.4
+  experience: 9.0
+  depth: 9.1
+  categories:
+    nature: 9.6
+    photography: 9.8
+    adventure: 9.4

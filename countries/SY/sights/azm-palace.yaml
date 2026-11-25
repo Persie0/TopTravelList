@@ -1,0 +1,15 @@
+id: sight-sy-azm-palace
+name: "Azm Palace, Damascus"
+location:
+  country_code: SY
+  latitude: 33.51
+  longitude: 36.305
+scores:
+  impact: 8.4
+  uniqueness: 8.5
+  significance: 8.6
+  experience: 8.4
+  depth: 8.1
+  categories:
+    architecture: 8.9
+    history: 8.7

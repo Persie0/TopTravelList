@@ -1,0 +1,16 @@
+id: sight-se-sarek-national-park
+name: "Sarek National Park"
+location:
+  country_code: SE
+  latitude: 67.29
+  longitude: 17.66
+scores:
+  impact: 9.5
+  uniqueness: 9.4
+  significance: 9.1
+  experience: 9.1
+  depth: 9.4
+  categories:
+    nature: 9.5
+    adventure: 9.4
+    photography: 9.5

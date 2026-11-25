@@ -1,0 +1,16 @@
+id: sight-lt-kernave-archaeological-site
+name: "Kernavė Archaeological Site"
+location:
+  country_code: LT
+  latitude: 54.882
+  longitude: 24.851
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 9.2
+  experience: 8.6
+  depth: 8.6
+  categories:
+    history: 9.3
+    nature: 8.7
+    photography: 9

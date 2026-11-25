@@ -1,0 +1,15 @@
+id: city-lb-bsharri
+name: "Bsharri"
+location:
+  country_code: LB
+  latitude: 34.25
+  longitude: 36.01
+scores:
+  impact: 7.9
+  uniqueness: 8.3
+  significance: 7.5
+  experience: 8.2
+  depth: 7.2
+  categories:
+    photography: 8.8
+    culture: 8.4

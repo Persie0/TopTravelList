@@ -1,0 +1,16 @@
+id: city-km-moya
+name: "Moya"
+location:
+  country_code: KM
+  latitude: -12.3090
+  longitude: 44.4370
+scores:
+  impact: 7.6
+  uniqueness: 7.9
+  significance: 6.5
+  experience: 7.8
+  depth: 6.1
+  categories:
+    photography: 8.6
+    culture: 7.9
+    relaxation: 8.0

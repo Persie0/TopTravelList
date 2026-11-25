@@ -1,0 +1,15 @@
+id: sight-lb-roman-quarry-baalbek
+name: "Roman Quarry (Baalbek)"
+location:
+  country_code: LB
+  latitude: 33.999444
+  longitude: 36.2
+scores:
+  impact: 8.5
+  uniqueness: 9.3
+  significance: 9.1
+  experience: null
+  depth: 6.5
+  categories:
+    history: 9.3
+    photography: 9.0

@@ -1,0 +1,16 @@
+id: sight-ie-birr-castle
+name: "Birr Castle Demesne and Great Telescope"
+location:
+  country_code: IE
+  latitude: 53.096823
+  longitude: -7.917399
+scores:
+  impact: 8.5
+  uniqueness: 9.0
+  significance: 9.2
+  experience: 8.7
+  depth: 8.8
+  categories:
+    history: 9.3
+    architecture: 8.8
+    nature: 8.7

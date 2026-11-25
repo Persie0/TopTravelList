@@ -1,0 +1,16 @@
+id: sight-bd-lawachara-national-park
+name: "Lawachara National Park"
+location:
+  country_code: BD
+  latitude: 24.325
+  longitude: 91.785
+scores:
+  impact: 8.2
+  uniqueness: 8.4
+  significance: 8.5
+  experience: 8.3
+  depth: 8.1
+  categories:
+    nature: 8.9
+    wildlife: 9.0
+    adventure: 8.3

@@ -1,0 +1,16 @@
+id: sight-uz-aydarkul-lake
+name: "Aydarkul Lake"
+location:
+  country_code: UZ
+  latitude: 40.95
+  longitude: 66.8
+scores:
+  impact: 8.2
+  uniqueness: 8.2
+  significance: 7.2
+  experience: 8.2
+  depth: 8.0
+  categories:
+    nature: 8.5
+    photography: 8.7
+    relaxation: 8.4

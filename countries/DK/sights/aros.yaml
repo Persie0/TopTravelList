@@ -1,0 +1,16 @@
+id: sight-dk-aros
+name: "ARoS Aarhus Art Museum"
+location:
+  country_code: DK
+  latitude: 56.153
+  longitude: 10.199
+scores:
+  impact: 8.6
+  uniqueness: 8.5
+  significance: 8.4
+  experience: 8.9
+  depth: 8.8
+  categories:
+    culture: 9.1
+    architecture: 9
+    photography: 9

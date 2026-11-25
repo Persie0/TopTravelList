@@ -1,0 +1,15 @@
+id: sight-is-skogafoss
+name: "Skógafoss waterfall"
+location:
+  country_code: IS
+  latitude: 63.532
+  longitude: -19.511
+scores:
+  impact: 9.4
+  uniqueness: 8.8
+  significance: 8.4
+  experience: 9.0
+  depth: 7.9
+  categories:
+    nature: 9.2
+    photography: 9.5

@@ -1,0 +1,16 @@
+id: sight-ps-dwelling-caves
+name: "Dwelling Caves (Al-Maghayir) of Palestine"
+location:
+  country_code: PS
+  latitude: 31.431944
+  longitude: 35.015833
+scores:
+  impact: 8.0
+  uniqueness: 8.7
+  significance: 8.8
+  experience: null
+  depth: null
+  categories:
+    culture: 9.0
+    history: 8.9
+    architecture: 8.8

@@ -1,0 +1,15 @@
+id: city-ye-hadibo
+name: "Hadibo"
+location:
+  country_code: YE
+  latitude: 12.65
+  longitude: 54.03
+scores:
+  impact: 6.8
+  uniqueness: 7.1
+  significance: 6.2
+  experience: 7.1
+  depth: 6.5
+  categories:
+    culture: 7.0
+    food: 6.9

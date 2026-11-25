@@ -1,0 +1,16 @@
+id: sight-ie-wild-nephin
+name: "Wild Nephin National Park"
+location:
+  country_code: IE
+  latitude: 54.04
+  longitude: -9.74
+scores:
+  impact: 8.5
+  uniqueness: 8.7
+  significance: 8.6
+  experience: 8.7
+  depth: 8.8
+  categories:
+    nature: 9.1
+    photography: 9.0
+    adventure: 9.0

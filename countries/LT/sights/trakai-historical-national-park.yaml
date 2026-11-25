@@ -1,0 +1,16 @@
+id: sight-lt-trakai-historical-national-park
+name: "Trakai Historical National Park"
+location:
+  country_code: LT
+  latitude: 54.65
+  longitude: 24.93
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 8.9
+  experience: 8.9
+  depth: 8.8
+  categories:
+    history: 9
+    architecture: 9
+    nature: 8.8

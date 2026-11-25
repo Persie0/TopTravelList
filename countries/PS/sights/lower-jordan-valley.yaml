@@ -1,0 +1,15 @@
+id: sight-ps-lower-jordan-valley
+name: "Lower Jordan River Valley"
+location:
+  country_code: PS
+  latitude: 31.88
+  longitude: 35.52
+scores:
+  impact: 8.2
+  uniqueness: 8.7
+  significance: 9.0
+  experience: null
+  depth: null
+  categories:
+    nature: 8.8
+    history: 9.1

@@ -1,0 +1,16 @@
+id: sight-fi-riisitunturi-national-park
+name: "Riisitunturi National Park"
+location:
+  country_code: FI
+  latitude: 66.22
+  longitude: 28.53
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 8.2
+  experience: 8.9
+  depth: 8.3
+  categories:
+    nature: 9.1
+    photography: 9.3
+    adventure: 8.7

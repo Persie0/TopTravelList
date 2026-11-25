@@ -1,0 +1,16 @@
+id: sight-iq-rawanduz-gorge
+name: "Rawanduz Gorge"
+location:
+  country_code: IQ
+  latitude: 36.61
+  longitude: 44.52
+scores:
+  impact: 8.8
+  uniqueness: 8.3
+  significance: 7.3
+  experience: 8.4
+  depth: 8.0
+  categories:
+    nature: 8.9
+    photography: 9.1
+    adventure: 8.3

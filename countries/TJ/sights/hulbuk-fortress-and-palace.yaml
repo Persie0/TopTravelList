@@ -1,0 +1,15 @@
+id: sight-tj-hulbuk-fortress-and-palace
+name: "Hulbuk Fortress and Palace"
+location:
+  country_code: TJ
+  latitude: 37.777742
+  longitude: 69.556731
+scores:
+  impact: 7.9
+  uniqueness: 8.4
+  significance: 9.0
+  experience: 8.0
+  depth: 7.6
+  categories:
+    history: 9.2
+    architecture: 8.7

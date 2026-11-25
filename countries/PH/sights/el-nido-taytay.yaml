@@ -1,0 +1,17 @@
+id: sight-ph-el-nido-taytay
+name: "El Nido-Taytay Managed Resource Protected Area"
+location:
+  country_code: PH
+  latitude: 11.15
+  longitude: 119.39
+scores:
+  impact: 9.4
+  uniqueness: 9.2
+  significance: 8.8
+  experience: 9.1
+  depth: 9.0
+  categories:
+    nature: 9.4
+    beaches: 9.2
+    photography: 9.4
+    adventure: 9.1

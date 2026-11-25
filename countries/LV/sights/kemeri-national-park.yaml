@@ -1,0 +1,16 @@
+id: sight-lv-kemeri-national-park
+name: "Ķemeri National Park"
+location:
+  country_code: LV
+  latitude: 56.93
+  longitude: 23.47
+scores:
+  impact: 8.5
+  uniqueness: 8.6
+  significance: 8.4
+  experience: 8.8
+  depth: 8.7
+  categories:
+    nature: 9.1
+    wildlife: 8.8
+    photography: 9

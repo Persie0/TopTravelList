@@ -1,0 +1,16 @@
+id: sight-vc-cumberland-trail
+name: "Cumberland Trail"
+location:
+  country_code: VC
+  latitude: 13.245
+  longitude: -61.253
+scores:
+  impact: 8.0
+  uniqueness: 8.0
+  significance: 7.0
+  experience: 8.2
+  depth: 7.5
+  categories:
+    nature: 8.6
+    adventure: 8.5
+    photography: 8.4

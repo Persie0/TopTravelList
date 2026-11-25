@@ -1,0 +1,15 @@
+id: sight-ie-national-museum-archaeology
+name: "National Museum of Ireland – Archaeology"
+location:
+  country_code: IE
+  latitude: 53.34
+  longitude: -6.254
+scores:
+  impact: 8.5
+  uniqueness: 8.7
+  significance: 9.1
+  experience: 8.7
+  depth: 8.8
+  categories:
+    history: 9.4
+    culture: 9.1

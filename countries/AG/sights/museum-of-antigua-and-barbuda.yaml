@@ -1,0 +1,15 @@
+id: sight-ag-museum-of-antigua-and-barbuda
+name: "Museum of Antigua and Barbuda"
+location:
+  country_code: AG
+  latitude: 17.122
+  longitude: -61.844
+scores:
+  impact: 7.0
+  uniqueness: 7.9
+  significance: 8.4
+  experience: 8.1
+  depth: 7.2
+  categories:
+    history: 9.0
+    culture: 8.8

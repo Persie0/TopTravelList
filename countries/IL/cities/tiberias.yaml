@@ -1,0 +1,16 @@
+id: city-il-tiberias
+name: "Tiberias"
+location:
+  country_code: IL
+  latitude: 32.7959
+  longitude: 35.5312
+scores:
+  impact: 7.5
+  uniqueness: 7.9
+  significance: 8.3
+  experience: 7.8
+  depth: 7.3
+  categories:
+    history: 8.5
+    relaxation: 8.2
+    culture: 8.0

@@ -1,0 +1,16 @@
+id: sight-pk-makli
+name: "Historical Monuments at Makli, Thatta"
+location:
+  country_code: PK
+  latitude: 24.753
+  longitude: 67.9
+scores:
+  impact: 8.8
+  uniqueness: 9.1
+  significance: 9.0
+  experience: 8.0
+  depth: 8.6
+  categories:
+    history: 9.2
+    architecture: 9.2
+    photography: 9.0

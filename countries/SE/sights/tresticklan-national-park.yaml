@@ -1,0 +1,15 @@
+id: sight-se-tresticklan-national-park
+name: "Tresticklan National Park"
+location:
+  country_code: SE
+  latitude: 59.0
+  longitude: 11.8
+scores:
+  impact: 8.0
+  uniqueness: 8.2
+  significance: 8.0
+  experience: 8.3
+  depth: 8.2
+  categories:
+    nature: 8.7
+    relaxation: 8.4

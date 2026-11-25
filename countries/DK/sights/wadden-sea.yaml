@@ -1,0 +1,16 @@
+id: sight-dk-wadden-sea
+name: "Wadden Sea National Park (Danish section)"
+location:
+  country_code: DK
+  latitude: 55.28
+  longitude: 8.55
+scores:
+  impact: 8.8
+  uniqueness: 9.3
+  significance: 9.4
+  experience: 8.8
+  depth: 9.1
+  categories:
+    nature: 9.4
+    wildlife: 9.5
+    photography: 9

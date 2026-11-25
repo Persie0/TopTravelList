@@ -1,0 +1,16 @@
+id: sight-no-bryggen
+name: "Bryggen"
+location:
+  country_code: "NO"
+  latitude: 60.397
+  longitude: 5.324
+scores:
+  impact: 9.0
+  uniqueness: 9.3
+  significance: 9.2
+  experience: 8.9
+  depth: 8.3
+  categories:
+    architecture: 9.4
+    history: 9.4
+    photography: 9.2

@@ -1,0 +1,15 @@
+id: sight-bb-gun-hill-signal-station
+name: "Gun Hill Signal Station"
+location:
+  country_code: BB
+  latitude: 13.147
+  longitude: -59.562
+scores:
+  impact: 7.7
+  uniqueness: 8.1
+  significance: 8.3
+  experience: 8.1
+  depth: 6.7
+  categories:
+    history: 8.7
+    photography: 8.8

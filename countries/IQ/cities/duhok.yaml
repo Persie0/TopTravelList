@@ -1,0 +1,15 @@
+id: city-iq-duhok
+name: "Duhok"
+location:
+  country_code: IQ
+  latitude: 36.862
+  longitude: 42.997
+scores:
+  impact: 7.3
+  uniqueness: 7.2
+  significance: 7.0
+  experience: 7.6
+  depth: 7.1
+  categories:
+    nature: 7.8
+    culture: 7.6

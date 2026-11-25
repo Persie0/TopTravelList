@@ -1,0 +1,14 @@
+id: sight-kz-aktobe-archaeological-site
+name: "Aktobe Archaeological Site"
+location:
+  country_code: KZ
+  latitude: 43.226111
+  longitude: 74.033611
+scores:
+  impact: null
+  uniqueness: 8.3
+  significance: 8.8
+  experience: null
+  depth: null
+  categories:
+    history: 9.0

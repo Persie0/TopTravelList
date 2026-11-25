@@ -1,0 +1,15 @@
+id: sight-ps-umm-al-rihan
+name: "Umm Al-Rihan Forest"
+location:
+  country_code: PS
+  latitude: 32.49
+  longitude: 35.12
+scores:
+  impact: 8.0
+  uniqueness: 8.1
+  significance: 8.4
+  experience: null
+  depth: null
+  categories:
+    nature: 8.6
+    wildlife: 8.4

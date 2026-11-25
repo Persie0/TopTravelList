@@ -1,0 +1,15 @@
+id: city-gm-sanyang
+name: "Sanyang"
+location:
+  country_code: GM
+  latitude: 13.2640
+  longitude: -16.7640
+scores:
+  impact: 6.8
+  uniqueness: 7.2
+  significance: 6.2
+  experience: 7.5
+  depth: 6.1
+  categories:
+    culture: 7.6
+    food: 7.6

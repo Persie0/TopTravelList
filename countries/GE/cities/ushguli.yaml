@@ -1,0 +1,17 @@
+id: city-ge-ushguli
+name: "Ushguli"
+location:
+  country_code: GE
+  latitude: 42.916
+  longitude: 43.015
+scores:
+  impact: 8.9
+  uniqueness: 9.1
+  significance: 8.5
+  experience: 8.4
+  depth: 7.5
+  categories:
+    architecture: 9.0
+    nature: 8.7
+    culture: 8.7
+    photography: 9.2

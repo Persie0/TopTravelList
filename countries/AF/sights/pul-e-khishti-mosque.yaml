@@ -1,0 +1,15 @@
+id: sight-af-pul-e-khishti-mosque
+name: "Pul-e Khishti Mosque"
+location:
+  country_code: AF
+  latitude: 34.516
+  longitude: 69.182
+scores:
+  impact: 7.7
+  uniqueness: 7.8
+  significance: 8.0
+  experience: null
+  depth: null
+  categories:
+    architecture: 8.2
+    culture: 8.3

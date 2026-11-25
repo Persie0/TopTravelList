@@ -1,0 +1,16 @@
+id: city-se-ystad
+name: "Ystad"
+location:
+  country_code: SE
+  latitude: 55.429
+  longitude: 13.82
+scores:
+  impact: 8.1
+  uniqueness: 8.2
+  significance: 8.0
+  experience: 8.5
+  depth: 7.6
+  categories:
+    architecture: 8.8
+    photography: 8.6
+    culture: 8.4

@@ -1,0 +1,15 @@
+id: sight-kz-karatau-state-nature-reserve
+name: "Karatau State Nature Reserve"
+location:
+  country_code: KZ
+  latitude: 43.716667
+  longitude: 68.678889
+scores:
+  impact: null
+  uniqueness: 8.7
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    nature: 9.3
+    wildlife: 9.1

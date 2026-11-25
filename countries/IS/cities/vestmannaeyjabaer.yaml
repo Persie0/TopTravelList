@@ -1,0 +1,16 @@
+id: city-is-vestmannaeyjabaer
+name: "Vestmannaeyjabær (Heimaey)"
+location:
+  country_code: IS
+  latitude: 63.441
+  longitude: -20.269
+scores:
+  impact: 8.2
+  uniqueness: 8.7
+  significance: 8.3
+  experience: 8.3
+  depth: 7.9
+  categories:
+    history: 8.8
+    culture: 8.5
+    photography: 8.6

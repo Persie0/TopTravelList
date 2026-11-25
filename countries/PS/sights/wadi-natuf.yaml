@@ -1,0 +1,14 @@
+id: sight-ps-wadi-natuf
+name: "Wadi Natuf and Shuqba Cave"
+location:
+  country_code: PS
+  latitude: 31.98
+  longitude: 35.05
+scores:
+  impact: null
+  uniqueness: 8.9
+  significance: 9.1
+  experience: null
+  depth: null
+  categories:
+    history: 9.2

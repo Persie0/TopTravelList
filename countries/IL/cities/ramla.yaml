@@ -1,0 +1,15 @@
+id: city-il-ramla
+name: "Ramla"
+location:
+  country_code: IL
+  latitude: 31.929
+  longitude: 34.866
+scores:
+  impact: 7.1
+  uniqueness: 7.7
+  significance: 8.2
+  experience: 7.4
+  depth: 7.0
+  categories:
+    history: 8.5
+    architecture: 8.0
