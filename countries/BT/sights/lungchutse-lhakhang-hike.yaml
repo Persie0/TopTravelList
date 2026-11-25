@@ -2,8 +2,8 @@ id: sight-bt-lungchutse-lhakhang-hike
 name: "Lungchutse Lhakhang Hike"
 location:
   country_code: BT
-  latitude: 27.5080
-  longitude: 89.7600
+  latitude: 27.467128
+  longitude: 89.76189
 scores:
   impact: 8.2
   uniqueness: 8.3

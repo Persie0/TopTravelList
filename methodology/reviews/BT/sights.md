@@ -43,7 +43,7 @@ Worldwide v2 · 2026-11-25. All eight UNESCO tentative properties represented by
 ## sight-bt-rinpung-dzong-paro-dzong — Rinpung Dzong (Paro Dzong) — 2026-11-25
 
 - [YAML](../../../countries/BT/sights/rinpung-dzong-paro-dzong.yaml) · Action: new · **source-linked-unverified**.
-- Scope: one fortress not museum above. Representative approximate coordinates 27.4260, 89.4220; not independently verified.
+- Scope: one fortress not museum above. Representative approximate coordinates 27.425699, 89.42533; [location source](https://a.storyblok.com/f/171618/x/462320c2c8/eoi-documents-finall-docx-4.pdf), Department of Tourism row 53, reviewed 2026-11-25.
 - Worldwide peers (I/U/S/E/D; fort comparison ladder):
   - [Hampi Group of Monuments (IN)](../../../countries/IN/sights/hampi-group-of-monuments.yaml) — 9.8 / 9.9 / 9.9 / 9.8 / 9.9 (98.55/100); world-leading or strong upper anchor. Rinpung Dzong (Paro Dzong) has lower provisional uniqueness and lower depth.
   - [Patan Durbar Square (NP)](../../../countries/NP/sights/patan-durbar-square.yaml) — 9.3 / 9.4 / 9.4 / 9.2 / 8.9 (92.90/100); comparison for related landscape or heritage. Rinpung Dzong (Paro Dzong) has lower provisional uniqueness and lower depth.
@@ -81,7 +81,7 @@ Worldwide v2 · 2026-11-25. All eight UNESCO tentative properties represented by
 ## sight-bt-wangdue-phodrang-dzong — Wangdue Phodrang Dzong — 2026-11-25
 
 - [YAML](../../../countries/BT/sights/wangdue-phodrang-dzong.yaml) · Action: new · **source-linked-unverified**.
-- Scope: one complex, present public scope uncertain. Representative approximate coordinates 27.4830, 89.9000; not independently verified.
+- Scope: one complex, present public scope uncertain. Representative approximate coordinates 27.47519, 89.89716; [location source](https://www.geonames.org/11101605/wangdue-phodrang-dzong.html), GeoNames fort point, corroborated by Mapcarta https://mapcarta.com/34490168, reviewed 2026-11-25.
 - Worldwide peers (I/U/S/E/D; fort comparison ladder):
   - [Hampi Group of Monuments (IN)](../../../countries/IN/sights/hampi-group-of-monuments.yaml) — 9.8 / 9.9 / 9.9 / 9.8 / 9.9 (98.55/100); world-leading or strong upper anchor. Wangdue Phodrang Dzong has lower provisional uniqueness and lower depth.
   - [Patan Durbar Square (NP)](../../../countries/NP/sights/patan-durbar-square.yaml) — 9.3 / 9.4 / 9.4 / 9.2 / 8.9 (92.90/100); comparison for related landscape or heritage. Wangdue Phodrang Dzong has lower provisional uniqueness and lower depth.
@@ -252,7 +252,7 @@ Worldwide v2 · 2026-11-25. All eight UNESCO tentative properties represented by
 ## sight-bt-tashichho-dzong — Tashichho Dzong — 2026-11-25
 
 - [YAML](../../../countries/BT/sights/tashichho-dzong.yaml) · Action: new · **source-linked-unverified**.
-- Scope: bounded administrative and religious complex. Representative approximate coordinates 27.4890, 89.6355; not independently verified.
+- Scope: bounded administrative and religious complex. Representative approximate coordinates 27.486346, 89.634537; [location source](https://a.storyblok.com/f/171618/x/462320c2c8/eoi-documents-finall-docx-4.pdf), Department of Tourism row 66, reviewed 2026-11-25.
 - Worldwide peers (I/U/S/E/D; fort comparison ladder):
   - [Hampi Group of Monuments (IN)](../../../countries/IN/sights/hampi-group-of-monuments.yaml) — 9.8 / 9.9 / 9.9 / 9.8 / 9.9 (98.55/100); world-leading or strong upper anchor. Tashichho Dzong has lower provisional uniqueness and lower depth.
   - [Patan Durbar Square (NP)](../../../countries/NP/sights/patan-durbar-square.yaml) — 9.3 / 9.4 / 9.4 / 9.2 / 8.9 (92.90/100); comparison for related landscape or heritage. Tashichho Dzong has lower provisional uniqueness and lower depth.
@@ -537,7 +537,7 @@ Worldwide v2 · 2026-11-25. All eight UNESCO tentative properties represented by
 ## sight-bt-lungchutse-lhakhang-hike — Lungchutse Lhakhang Hike — 2026-11-25
 
 - [YAML](../../../countries/BT/sights/lungchutse-lhakhang-hike.yaml) · Action: new · **source-linked-unverified**.
-- Scope: one route. Representative approximate coordinates 27.5080, 89.7600; not independently verified.
+- Scope: one route. Representative approximate coordinates 27.467128, 89.76189; [location source](https://a.storyblok.com/f/171618/x/462320c2c8/eoi-documents-finall-docx-4.pdf), Department of Tourism row 70, representative shrine endpoint, not trail start, reviewed 2026-11-25.
 - Worldwide peers (I/U/S/E/D; trek comparison ladder):
   - [Annapurna Circuit Trek (NP)](../../../countries/NP/sights/annapurna-circuit-trek.yaml) — 9.6 / 9.5 / 8.9 / 9.5 / 9.6 (94.20/100); world-leading or strong upper anchor. Lungchutse Lhakhang Hike has lower provisional uniqueness and lower depth.
   - [Manaslu Circuit Trek (NP)](../../../countries/NP/sights/manaslu-circuit-trek.yaml) — 9.4 / 9.4 / 8.7 / 9.3 / 9.3 (92.35/100); comparison for related landscape or heritage. Lungchutse Lhakhang Hike has lower provisional uniqueness and lower depth.
@@ -556,7 +556,7 @@ Worldwide v2 · 2026-11-25. All eight UNESCO tentative properties represented by
 ## sight-bt-khamsum-yulley-namgyal-chorten — Khamsum Yulley Namgyal Chorten — 2026-11-25
 
 - [YAML](../../../countries/BT/sights/khamsum-yulley-namgyal-chorten.yaml) · Action: new · **source-linked-unverified**.
-- Scope: one chorten. Representative approximate coordinates 27.6370, 89.8200; not independently verified.
+- Scope: one chorten. Representative approximate coordinates 27.637576, 89.815896; [location source](https://a.storyblok.com/f/171618/x/462320c2c8/eoi-documents-finall-docx-4.pdf), Department of Tourism row 76, reviewed 2026-11-25.
 - Worldwide peers (I/U/S/E/D; temple comparison ladder):
   - [Mahabodhi Temple Bodh Gaya (IN)](../../../countries/IN/sights/mahabodhi-temple-bodh-gaya.yaml) — 9.7 / 9.9 / 9.9 / 9.8 / 9.2 (97.55/100); world-leading or strong upper anchor. Khamsum Yulley Namgyal Chorten has lower provisional uniqueness and lower depth.
   - [Dambulla Cave Temple (LK)](../../../countries/LK/sights/dambulla-cave-temple.yaml) — 9.2 / 9.5 / 9.5 / 9.1 / 8.8 (92.80/100); comparison for related landscape or heritage. Khamsum Yulley Namgyal Chorten has lower provisional uniqueness and lower depth.
@@ -594,7 +594,7 @@ Worldwide v2 · 2026-11-25. All eight UNESCO tentative properties represented by
 ## sight-bt-punakha-suspension-bridge — Punakha Suspension Bridge — 2026-11-25
 
 - [YAML](../../../countries/BT/sights/punakha-suspension-bridge.yaml) · Action: new · **source-linked-unverified**.
-- Scope: one bridge. Representative approximate coordinates 27.5960, 89.8810; not independently verified.
+- Scope: one bridge. Representative approximate coordinates 27.58915, 89.869474; [location source](https://www.atlasobscura.com/places/punakha-suspension-bridge), Atlas Obscura bridge coordinates, corroborated by Windhorse https://www.windhorsetours.com/sights/punakha-suspension-bridge/, reviewed 2026-11-25.
 - Worldwide peers (I/U/S/E/D; view comparison ladder):
   - [Mount Fuji (JP)](../../../countries/JP/sights/mount-fuji.yaml) — 9.8 / 9.7 / 9.5 / 9.2 / 9.3 (95.75/100); world-leading or strong upper anchor. Punakha Suspension Bridge has lower provisional uniqueness and lower depth.
   - [Poon Hill Viewpoint (NP)](../../../countries/NP/sights/poon-hill-viewpoint.yaml) — 9.0 / 8.7 / 7.1 / 9.0 / 7.6 (84.05/100); comparison for related landscape or heritage. Punakha Suspension Bridge has lower provisional uniqueness and lower depth.
@@ -1183,7 +1183,7 @@ Worldwide v2 · 2026-11-25. All eight UNESCO tentative properties represented by
 ## sight-bt-gasa-hot-springs — Gasa Hot Springs — 2026-11-25
 
 - [YAML](../../../countries/BT/sights/gasa-hot-springs.yaml) · Action: new · **editorial-only**.
-- Scope: bounded spring site. Representative approximate coordinates 27.89, 89.73; not independently verified.
+- Scope: bounded spring site. Representative approximate coordinates 27.887301, 89.735932; [location source](https://a.storyblok.com/f/171618/x/462320c2c8/eoi-documents-finall-docx-4.pdf), Department of Tourism row 81, reviewed 2026-11-25.
 - Worldwide peers (I/U/S/E/D; water comparison ladder):
   - [Krimml Waterfalls (AT)](../../../countries/AT/sights/krimml-waterfalls.yaml) — 9.0 / 9.0 / 8.5 / 9.1 / 8.3 (88.45/100); world-leading or strong upper anchor. Gasa Hot Springs has lower provisional uniqueness and lower depth.
   - [Kandy Lake (LK)](../../../countries/LK/sights/kandy-lake.yaml) — 8.1 / 8.0 / 7.8 / 8.6 / 8.0 (80.80/100); comparison for related landscape or heritage. Gasa Hot Springs has higher provisional uniqueness and lower depth.

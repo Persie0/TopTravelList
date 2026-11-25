@@ -2,8 +2,8 @@ id: sight-bt-tashichho-dzong
 name: "Tashichho Dzong"
 location:
   country_code: BT
-  latitude: 27.4890
-  longitude: 89.6355
+  latitude: 27.486346
+  longitude: 89.634537
 scores:
   impact: 9.0
   uniqueness: 9.1

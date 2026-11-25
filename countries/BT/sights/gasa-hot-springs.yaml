@@ -2,8 +2,8 @@ id: sight-bt-gasa-hot-springs
 name: "Gasa Hot Springs"
 location:
   country_code: BT
-  latitude: 27.89
-  longitude: 89.73
+  latitude: 27.887301
+  longitude: 89.735932
 scores:
   impact: 7.7
   uniqueness: 8.1

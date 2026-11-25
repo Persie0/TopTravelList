@@ -2,8 +2,8 @@ id: sight-bt-rinpung-dzong-paro-dzong
 name: "Rinpung Dzong (Paro Dzong)"
 location:
   country_code: BT
-  latitude: 27.4260
-  longitude: 89.4220
+  latitude: 27.425699
+  longitude: 89.42533
 scores:
   impact: 9.0
   uniqueness: 9.1
