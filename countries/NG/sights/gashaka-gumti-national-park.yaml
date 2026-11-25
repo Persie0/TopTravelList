@@ -1,0 +1,15 @@
+id: sight-ng-gashaka-gumti-national-park
+name: "Gashaka Gumti National Park"
+location:
+  country_code: NG
+  latitude: 7.538
+  longitude: 11.611
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 9.3
+  experience: null
+  depth: null
+  categories:
+    nature: 9.4
+    wildlife: 9.4

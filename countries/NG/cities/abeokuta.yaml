@@ -1,0 +1,15 @@
+id: city-ng-abeokuta
+name: "Abeokuta"
+location:
+  country_code: NG
+  latitude: 7.147502
+  longitude: 3.361936
+scores:
+  impact: 8.0
+  uniqueness: 8.4
+  significance: 8.2
+  experience: 8.0
+  depth: 7.8
+  categories:
+    culture: 8.7
+    history: 8.5
