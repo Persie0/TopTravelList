@@ -1,0 +1,15 @@
+id: sight-bf-w-national-park-burkina-faso
+name: "W National Park (Burkina Faso sector)"
+location:
+  country_code: BF
+  latitude: 11.85
+  longitude: 2.15
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    nature: 9.1
+    wildlife: 9.2
