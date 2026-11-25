@@ -1,0 +1,17 @@
+id: sight-cw-historic-willemstad
+name: "Historic Area of Willemstad (UNESCO property)"
+location:
+  country_code: CW
+  latitude: 12.106
+  longitude: -68.935
+scores:
+  impact: 9.1
+  uniqueness: 9.2
+  significance: 9.3
+  experience: 9.0
+  depth: 9.1
+  categories:
+    architecture: 9.4
+    history: 9.3
+    culture: 9.2
+    photography: 9.3

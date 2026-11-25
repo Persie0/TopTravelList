@@ -1,0 +1,15 @@
+id: sight-cw-kura-hulanda
+name: "Museum Kurá Hulanda"
+location:
+  country_code: CW
+  latitude: 12.107
+  longitude: -68.937
+scores:
+  impact: 8.2
+  uniqueness: 8.7
+  significance: 9.1
+  experience: 8.5
+  depth: 8.6
+  categories:
+    history: 9.3
+    culture: 9.1

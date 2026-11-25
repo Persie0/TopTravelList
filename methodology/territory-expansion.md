@@ -160,3 +160,7 @@ No matching FR or NL records identified by generated ranking name/approximate co
 ### Sint Maarten (Dutch part) coverage — 2026-11-25
 
 No matching NL records identified in generated inventory by name or approximate coordinate screening. Add two settlements and ten sights (nine ranked sights, Mullet Pond unranked). French-side sites remain MF. Maho only lawful aircraft observation; marine park rating accounts for documented coral damage, not pristine reef. Emilio Wilson Museum included in Rockland Estate scope. All coordinates and full claim verification outstanding. No exact-10 additions.
+
+### Curaçao coverage — 2026-11-25
+
+NL generated inventory screened by names and approximate coordinates; no matching records identified. Add two settlements and twelve individual sights. Willemstad city and UNESCO property have separate scopes; their scores are never added. Individual marine sites do not assume pristine reefs or guaranteed wildlife. Search excerpts from UNESCO and Curaçao Tourist Board checked; independent exact GPS and claim-level verification remain outstanding.

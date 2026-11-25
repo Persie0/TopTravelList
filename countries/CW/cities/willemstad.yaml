@@ -1,0 +1,17 @@
+id: city-cw-willemstad
+name: "Willemstad"
+location:
+  country_code: CW
+  latitude: 12.107
+  longitude: -68.935
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 9.0
+  experience: 8.9
+  depth: 8.8
+  categories:
+    architecture: 9.2
+    culture: 9.1
+    history: 9.0
+    food: 8.7
