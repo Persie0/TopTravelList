@@ -1,0 +1,16 @@
+id: sight-mn-khorgo-volcano
+name: "Khorgo Volcano"
+location:
+  country_code: MN
+  latitude: 48.18
+  longitude: 99.85
+scores:
+  impact: 8.4
+  uniqueness: 8.3
+  significance: 7.6
+  experience: 8.5
+  depth: 7.6
+  categories:
+    nature: 8.8
+    adventure: 8.4
+    photography: 8.8

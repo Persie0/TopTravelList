@@ -1,0 +1,16 @@
+id: sight-cv-murdeira-bay
+name: "Murdeira Bay"
+location:
+  country_code: CV
+  latitude: 16.6840
+  longitude: -22.9370
+scores:
+  impact: 8.0
+  uniqueness: 7.7
+  significance: 6.7
+  experience: 8.1
+  depth: 7.2
+  categories:
+    nature: 8.4
+    adventure: 8.3
+    photography: 8.4

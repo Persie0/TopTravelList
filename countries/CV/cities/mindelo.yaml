@@ -1,0 +1,17 @@
+id: city-cv-mindelo
+name: "Mindelo"
+location:
+  country_code: CV
+  latitude: 16.8860
+  longitude: -24.9880
+scores:
+  impact: 8.1
+  uniqueness: 8.4
+  significance: 8.2
+  experience: 8.7
+  depth: 8.2
+  categories:
+    culture: 9.1
+    food: 8.5
+    nightlife: 8.8
+    architecture: 8.0
