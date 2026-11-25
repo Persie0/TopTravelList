@@ -1,0 +1,16 @@
+id: sight-pa-coiba-national-park-and-special-zone-of-marine-protection
+name: "Coiba National Park and Special Zone of Marine Protection"
+location:
+  country_code: PA
+  latitude: 7.433000
+  longitude: -81.766000
+scores:
+  impact: 9.4
+  uniqueness: 9.5
+  significance: 9.6
+  experience: 9.2
+  depth: 9.2
+  categories:
+    nature: 9.6
+    wildlife: 9.6
+    adventure: 9.4

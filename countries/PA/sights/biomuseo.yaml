@@ -1,0 +1,16 @@
+id: sight-pa-biomuseo
+name: "Biomuseo"
+location:
+  country_code: PA
+  latitude: 8.932
+  longitude: -79.546
+scores:
+  impact: 8.5
+  uniqueness: 8.9
+  significance: 8.6
+  experience: 8.7
+  depth: 8.4
+  categories:
+    architecture: 9.2
+    culture: 8.7
+    nature: 8.7
