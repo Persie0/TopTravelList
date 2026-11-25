@@ -1,0 +1,16 @@
+id: sight-ca-ivvavik-national-park
+name: "Ivvavik National Park"
+location:
+  country_code: CA
+  latitude: 69.026095
+  longitude: -139.72997
+scores:
+  impact: 8.8
+  uniqueness: 9.1
+  significance: 8.8
+  experience: 8.5
+  depth: 8.5
+  categories:
+    nature: 9.2
+    adventure: 9.1
+    wildlife: 9.0
