@@ -2,7 +2,7 @@
 
 # Paraguay (PY) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**34 ranked** · **0 unassessed** · **34 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,44 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, or click its GPS coordinates to open **Google Maps**. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (34)
 
-No cities, towns & villages have been assessed for **Paraguay** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps |
+| ---: | --- | --- | ---: | --- | --- | --- |
+| 1 | [Asunción](cities/asuncion.yaml) | City / town | **82.50** | **Culture 8.8**, **History 8.7**, **Food 8.5**, Architecture 8.4 | 8.2 / 8.1 / 8.4 / 8.3 / 8.4 | [-25.28646, -57.647](https://www.google.com/maps/search/?api=1&query=-25.28646,-57.647) |
+| 2 | [Areguá](cities/aregua.yaml) | City / town | **76.85** | **Culture 8.5**, **Photography 8.3**, **Architecture 8.2** | 7.6 / 8.0 / 7.6 / 7.9 / 7.0 | [-25.3125, -57.3847](https://www.google.com/maps/search/?api=1&query=-25.3125,-57.3847) |
+| 3 | [Encarnación](cities/encarnacion.yaml) | City / town | **76.75** | **Relaxation 8.6**, **Beaches 8.2**, **Culture 7.8** | 7.8 / 7.4 / 7.3 / 8.3 / 7.8 | [-27.3306, -55.8667](https://www.google.com/maps/search/?api=1&query=-27.3306,-55.8667) |
+| 4 | [Villarrica](cities/villarrica.yaml) | City / town | **73.85** | **History 8.1**, **Architecture 8.0**, **Culture 8.0** | 7.2 / 7.4 / 7.7 / 7.5 / 7.1 | [-25.75, -56.4333](https://www.google.com/maps/search/?api=1&query=-25.75,-56.4333) |
+| 5 | [Caacupé](cities/caacupe.yaml) | City / town | **73.50** | **Culture 8.3**, **History 8.0**, **Architecture 7.7** | 7.0 / 7.4 / 7.8 / 7.6 / 7.0 | [-25.3861, -57.14](https://www.google.com/maps/search/?api=1&query=-25.3861,-57.14) |
+| 6 | [Concepción](cities/concepcion.yaml) | City / town | **73.40** | **History 8.1**, **Architecture 7.9**, **Culture 7.6** | 7.2 / 7.4 / 7.6 / 7.4 / 7.0 | [-23.4064, -57.4344](https://www.google.com/maps/search/?api=1&query=-23.4064,-57.4344) |
+| 6 | [Pilar](cities/pilar.yaml) | City / town | **73.40** | **History 8.0**, **Architecture 7.8**, **Culture 7.7** | 7.1 / 7.5 / 7.6 / 7.5 / 6.9 | [-26.8583, -58.3069](https://www.google.com/maps/search/?api=1&query=-26.8583,-58.3069) |
+| 8 | [Fuerte Olimpo](cities/fuerte-olimpo.yaml) | City / town | **73.25** | **Photography 8.2**, **History 7.9**, **Culture 7.6** | 7.3 / 7.7 / 7.5 / 7.2 / 6.3 | [-21.0389, -57.8736](https://www.google.com/maps/search/?api=1&query=-21.0389,-57.8736) |
+| 9 | [Ciudad del Este](cities/ciudad-del-este.yaml) | City / town | **73.00** | **Culture 7.8**, **Food 7.7** | 7.0 / 7.7 / 7.2 / 7.3 / 7.4 | [-25.5097, -54.6111](https://www.google.com/maps/search/?api=1&query=-25.5097,-54.6111) |
+| 10 | [San Bernardino](cities/san-bernardino.yaml) | City / town | **72.70** | **Relaxation 8.4**, **Photography 7.9**, **Architecture 7.6** | 7.3 / 7.4 / 6.7 / 8.0 / 6.9 | [-25.31, -57.2967](https://www.google.com/maps/search/?api=1&query=-25.31,-57.2967) |
+| 11 | [Filadelfia](cities/filadelfia.yaml) | City / town | **72.35** | **Culture 8.3**, **History 8.0** | 6.6 / 7.9 / 7.6 / 7.2 / 6.8 | [-22.3406, -60.03](https://www.google.com/maps/search/?api=1&query=-22.3406,-60.03) |
+| 12 | [Yaguarón](cities/yaguaron.yaml) | City / town | **72.25** | **History 8.2**, **Architecture 8.1**, **Culture 8.0** | 6.8 / 7.6 / 7.7 / 7.3 / 6.5 | [-25.5625, -57.2833](https://www.google.com/maps/search/?api=1&query=-25.5625,-57.2833) |
+| 13 | [Piribebuy](cities/piribebuy.yaml) | City / town | **72.15** | **History 8.2**, **Culture 7.8**, **Photography 7.7** | 6.9 / 7.4 / 7.7 / 7.3 / 6.6 | [-25.4833, -57.05](https://www.google.com/maps/search/?api=1&query=-25.4833,-57.05) |
+| 14 | [San Cosme y Damián](cities/san-cosme-y-damian.yaml) | City / town | **71.35** | **Photography 7.9**, **Culture 7.8**, **History 7.8** | 6.9 / 7.5 / 7.3 / 7.4 / 6.2 | [-27.3167, -56.3333](https://www.google.com/maps/search/?api=1&query=-27.3167,-56.3333) |
+| 15 | [Paraguarí](cities/paraguari.yaml) | City / town | **71.00** | **Photography 7.9**, **History 7.7**, **Culture 7.4** | 6.9 / 7.3 / 7.3 / 7.3 / 6.5 | [-25.6208, -57.1472](https://www.google.com/maps/search/?api=1&query=-25.6208,-57.1472) |
+| 16 | [Tobatí](cities/tobati.yaml) | City / town | **70.85** | **Culture 8.3**, **Photography 8.0** | 6.8 / 7.6 / 6.9 / 7.5 / 6.4 | [-25.2667, -57.0833](https://www.google.com/maps/search/?api=1&query=-25.2667,-57.0833) |
+| 17 | [Loma Plata](cities/loma-plata.yaml) | City / town | **70.00** | **Culture 8.2**, **History 7.8** | 6.4 / 7.7 / 7.3 / 7.1 / 6.3 | [-22.3833, -59.8333](https://www.google.com/maps/search/?api=1&query=-22.3833,-59.8333) |
+| 18 | [Hohenau](cities/hohenau.yaml) | City / town | **69.70** | **Culture 8.1**, **Food 7.8** | 6.6 / 7.5 / 6.9 / 7.3 / 6.4 | [-27.0833, -55.75](https://www.google.com/maps/search/?api=1&query=-27.0833,-55.75) |
+| 19 | [Luque](cities/luque.yaml) | City / town | **69.00** | **Culture 8.0**, **Food 7.5** | 6.5 / 7.1 / 7.0 / 7.3 / 6.8 | [-25.2667, -57.5667](https://www.google.com/maps/search/?api=1&query=-25.2667,-57.5667) |
+| 20 | [Pedro Juan Caballero](cities/pedro-juan-caballero.yaml) | City / town | **68.65** | **Culture 7.8**, **Food 7.5** | 6.5 / 7.3 / 6.7 / 7.2 / 6.7 | [-22.5472, -55.7333](https://www.google.com/maps/search/?api=1&query=-22.5472,-55.7333) |
+| 21 | [San Juan Bautista](cities/san-juan-bautista.yaml) | City / town | **68.40** | **History 7.8**, **Culture 7.7** | 6.5 / 7.0 / 7.3 / 7.0 / 6.3 | [-26.6694, -57.1458](https://www.google.com/maps/search/?api=1&query=-26.6694,-57.1458) |
+| 22 | [Caazapá](cities/caazapa.yaml) | City / town | **68.25** | **History 7.8**, **Culture 7.5** | 6.5 / 7.1 / 7.3 / 6.8 / 6.2 | [-26.1958, -56.3681](https://www.google.com/maps/search/?api=1&query=-26.1958,-56.3681) |
+| 23 | [Ayolas](cities/ayolas.yaml) | City / town | **67.95** | **Relaxation 7.9**, **Photography 7.7** | 6.7 / 6.9 / 6.5 / 7.4 / 6.5 | [-27.4, -56.85](https://www.google.com/maps/search/?api=1&query=-27.4,-56.85) |
+| 24 | [Neuland](cities/neuland.yaml) | City / town | **67.65** | **Culture 8.0**, **History 7.7** | 6.1 / 7.5 / 7.2 / 6.8 / 6.0 | [-22.6667, -60.1167](https://www.google.com/maps/search/?api=1&query=-22.6667,-60.1167) |
+| 25 | [Hernandarias](cities/hernandarias.yaml) | City / town | **67.55** | **Relaxation 7.7**, **Culture 7.3** | 6.5 / 6.7 / 6.9 / 7.2 / 6.7 | [-25.4, -54.6333](https://www.google.com/maps/search/?api=1&query=-25.4,-54.6333) |
+| 26 | [Ybycuí](cities/ybycui.yaml) | City / town | **67.35** | **History 7.6**, **Culture 7.3** | 6.5 / 6.9 / 7.0 / 7.0 / 6.1 | [-26.0167, -57.0167](https://www.google.com/maps/search/?api=1&query=-26.0167,-57.0167) |
+| 27 | [Trinidad](cities/trinidad.yaml) | City / town | **67.15** | **History 7.6**, **Culture 7.4** | 6.4 / 7.0 / 6.9 / 7.1 / 6.0 | [-27.1167, -55.7833](https://www.google.com/maps/search/?api=1&query=-27.1167,-55.7833) |
+| 28 | [San Lorenzo](cities/san-lorenzo.yaml) | City / town | **66.75** | **Architecture 7.5**, **Culture 7.4** | 6.4 / 6.5 / 7.0 / 7.0 / 6.8 | [-25.3431, -57.5083](https://www.google.com/maps/search/?api=1&query=-25.3431,-57.5083) |
+| 29 | [Villa Hayes](cities/villa-hayes.yaml) | City / town | **66.45** | **History 7.5**, **Culture 7.2** | 6.3 / 6.8 / 7.0 / 6.9 / 6.2 | [-25.0931, -57.5236](https://www.google.com/maps/search/?api=1&query=-25.0931,-57.5236) |
+| 30 | [Jesús de Tavarangue](cities/jesus-de-tavarangue.yaml) | City / town | **65.60** | **History 7.5**, **Culture 7.3** | 6.2 / 6.9 / 6.8 / 6.9 / 5.8 | [-27.05, -55.7333](https://www.google.com/maps/search/?api=1&query=-27.05,-55.7333) |
+| 31 | [Salto del Guairá](cities/salto-del-guaira.yaml) | City / town | **65.20** | **Food 7.3**, **Culture 7.1** | 6.2 / 6.8 / 6.3 / 7.0 / 6.5 | [-24.0625, -54.3069](https://www.google.com/maps/search/?api=1&query=-24.0625,-54.3069) |
+| 32 | [Coronel Oviedo](cities/coronel-oviedo.yaml) | City / town | **65.05** | **Food 7.3**, **Culture 7.2** | 6.2 / 6.5 / 6.6 / 7.0 / 6.5 | [-25.4167, -56.45](https://www.google.com/maps/search/?api=1&query=-25.4167,-56.45) |
+| 33 | [Presidente Franco](cities/presidente-franco.yaml) | City / town | **64.40** | **Culture 7.1**, **Food 7.1** | 6.2 / 6.6 / 6.4 / 6.8 / 6.3 | [-25.5333, -54.6167](https://www.google.com/maps/search/?api=1&query=-25.5333,-54.6167) |
+| 34 | [San Pedro de Ycuamandiyú](cities/san-pedro-de-ycuamandiyu.yaml) | City / town | **64.20** | **Culture 7.2**, **History 7.0** | 6.2 / 6.5 / 6.6 / 6.7 / 6.1 | [-24.09, -57.08](https://www.google.com/maps/search/?api=1&query=-24.09,-57.08) |
 
 ---
 
