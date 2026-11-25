@@ -1,0 +1,16 @@
+id: sight-va-pio-clementino-museum
+name: "Pio Clementino Museum"
+location:
+  country_code: VA
+  latitude: 41.90619
+  longitude: 12.45406
+scores:
+  impact: 9.3
+  uniqueness: 9.4
+  significance: 9.5
+  experience: 9.2
+  depth: 9.1
+  categories:
+    culture: 9.6
+    history: 9.5
+    architecture: 9.1
