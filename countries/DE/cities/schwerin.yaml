@@ -1,0 +1,15 @@
+id: city-de-schwerin
+name: "Schwerin"
+location:
+  country_code: DE
+  latitude: 53.629
+  longitude: 11.414
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 8.6
+  experience: 8.7
+  depth: 8.2
+  categories:
+    architecture: 9.2
+    photography: 9.2

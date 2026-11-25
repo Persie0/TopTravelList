@@ -1,0 +1,15 @@
+id: sight-de-hamburg-miniatur
+name: "Miniatur Wunderland"
+location:
+  country_code: DE
+  latitude: 53.543
+  longitude: 9.989
+scores:
+  impact: 9.1
+  uniqueness: 9.4
+  significance: 8.5
+  experience: 9.3
+  depth: 9.1
+  categories:
+    family: 9.5
+    culture: 8.8

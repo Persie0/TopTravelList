@@ -1,0 +1,15 @@
+id: sight-de-quedlinburg-core
+name: "Collegiate Church Castle and Old Town of Quedlinburg"
+location:
+  country_code: DE
+  latitude: 51.789
+  longitude: 11.137
+scores:
+  impact: 9.2
+  uniqueness: 9.2
+  significance: 9.2
+  experience: 9.0
+  depth: 8.9
+  categories:
+    architecture: 9.5
+    history: 9.4

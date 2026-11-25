@@ -1,0 +1,15 @@
+id: city-de-wismar
+name: "Wismar"
+location:
+  country_code: DE
+  latitude: 53.893
+  longitude: 11.465
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 8.8
+  experience: 8.6
+  depth: 8.1
+  categories:
+    architecture: 9.2
+    history: 9.1

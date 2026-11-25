@@ -1,0 +1,15 @@
+id: sight-de-bruhl-palaces
+name: "Augustusburg and Falkenlust Castles at Brühl"
+location:
+  country_code: DE
+  latitude: 50.829
+  longitude: 6.91
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 9.2
+  experience: 8.9
+  depth: 8.7
+  categories:
+    architecture: 9.5
+    history: 9.3

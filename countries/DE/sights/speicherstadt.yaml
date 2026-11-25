@@ -1,0 +1,16 @@
+id: sight-de-speicherstadt
+name: "Speicherstadt and Kontorhaus District with Chilehaus"
+location:
+  country_code: DE
+  latitude: 53.544
+  longitude: 9.999
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 9.2
+  experience: 9.0
+  depth: 9.0
+  categories:
+    architecture: 9.4
+    history: 9.3
+    photography: 9.4
