@@ -20,6 +20,17 @@ Visitor scope excludes restricted customary land, marine areas and any implied g
 | [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (8.9 / 9 / 9 / 9.1 / 8.6) | protected wetland | Uniqueness higher: Distinct diverse barrier reef ecosystems; depth unassessed: Listed reef sectors only. Provisional scope comparison. |
 | [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional protected landscape | Uniqueness higher: Distinct diverse barrier reef ecosystems; depth unassessed: Listed reef sectors only. Provisional scope comparison. |
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from territory branch YAML; prior comparisons retained. Editorial calibration, not independent factual verification.
+
+- [raja ampat archipelago (ID)](../../../countries/ID/sights/raja-ampat-archipelago.yaml) — 9.8/9.9/9.5/9.7/9.8; World-leading reef biodiversity and established visitor breadth.
+- [tubbataha (PH)](../../../countries/PH/sights/tubbataha.yaml) — 9.3/9.2/9.3/9.1/9.0; Greater documented focused protected reef visit.
+- [sipadan island reefs (MY)](../../../countries/MY/sights/sipadan-island-reefs.yaml) — 9.5/9.6/9.1/9.5/8.9; Exceptional concentrated underwater wildlife encounters, narrower scope.
+- [aldabra atoll (SC)](../../../countries/SC/sights/aldabra-atoll.yaml) — 9.5/9.8/9.8/8.0/7.6; Exceptional protected marine ecology and limited regulated visitor scope.
+
+High-score check: Raja Ampat significance 9.5, nature/wildlife 9.9; Aldabra significance/nature/wildlife 9.8; Sipadan nature/wildlife 9.7. Existing significance 9.5, nature 9.7 and wildlife 9.6 retain provisional status, not an aggregate access or wildlife encounter claim. No new overall.
+
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
@@ -57,6 +68,15 @@ Visitor scope excludes restricted customary land, marine areas and any implied g
 - Kuang Si Falls (LA): distinctive natural pool setting, different geology
 - Matira Beach (PF): comparable tropical water, less enclosed
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from territory branch YAML; prior comparisons retained. Editorial calibration, not independent factual verification.
+
+- [anse source d argent (SC)](../../../countries/SC/sights/anse-source-d-argent.yaml) — 9.8/9.7/7.8/9.2/7.6; More distinctive rock and shore scenery, different pool form.
+- [railay beach (TH)](../../../countries/TH/sights/railay-beach.yaml) — 8.9/9.0/7.5/9.2/8.3; More extensive coastal activity and cliff scenery.
+- [tobago cays marine park (VC)](../../../countries/VC/sights/tobago-cays-marine-park.yaml) — 9.4/9.3/9.1/9.1/8.9; Broader tropical reef and lagoon recreation.
+- [moorea lagoon (PF)](../../../countries/PF/sights/moorea-lagoon.yaml) — 9.1/8.7/8.0/9.1/8.6; Wider marine lagoon excursions, not a focused natural pool.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -89,6 +109,15 @@ Visitor scope excludes restricted customary land, marine areas and any implied g
 - Monteverde (CR): close biodiversity-oriented forest peer
 - Marojejy (MG): strong endemic forest and mountain peer
 - El Yunque (PR): comparable island tropical forest
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from territory branch YAML; prior comparisons retained. Editorial calibration, not independent factual verification.
+
+- [kinabalu park (MY)](../../../countries/MY/sights/kinabalu-park.yaml) — 9.4/9.5/9.5/9.2/9.3; Greater montane and endemic biodiversity with broader visitor routes.
+- [shiretoko national park (JP)](../../../countries/JP/sights/shiretoko-national-park.yaml) — 9.5/9.5/9.4/9.1/9.4; Greater overall protected landscape and wildlife breadth.
+- [khao sok national park (TH)](../../../countries/TH/sights/khao-sok-national-park.yaml) — 9.4/9.4/9.1/9.4/9.3; More dramatic karst and forest scenery with wider lake activities.
+- [lorentz national park (ID)](../../../countries/ID/sights/lorentz-national-park.yaml) — 9.4/9.7/9.8/7.6/9.3; Much broader ecological range but more limited ordinary visitation.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -123,6 +152,15 @@ Visitor scope excludes restricted customary land, marine areas and any implied g
 - Bora Bora Lagoon (PF): stronger mountain composition
 - Great Barrier Reef (AU): far broader marine system
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from territory branch YAML; prior comparisons retained. Editorial calibration, not independent factual verification.
+
+- [tobago cays marine park (VC)](../../../countries/VC/sights/tobago-cays-marine-park.yaml) — 9.4/9.3/9.1/9.1/8.9; Stronger documented reef wildlife and island excursion scope.
+- [ang thong national marine park (TH)](../../../countries/TH/sights/ang-thong-national-marine-park.yaml) — 9.0/9.0/8.6/9.1/8.9; Greater landscape variety and established boat routes.
+- [moorea lagoon (PF)](../../../countries/PF/sights/moorea-lagoon.yaml) — 9.1/8.7/8.0/9.1/8.6; Close Pacific lagoon excursion benchmark.
+- [sipadan island reefs (MY)](../../../countries/MY/sights/sipadan-island-reefs.yaml) — 9.5/9.6/9.1/9.5/8.9; Greater concentrated reef biodiversity and specialist diving.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -155,6 +193,15 @@ Visitor scope excludes restricted customary land, marine areas and any implied g
 - Railay (TH): comparable limestone coast
 - Palau Rock Islands (PW): greater marine geological breadth
 - Lékiny Cliffs (NC): similar coastal cliff and lagoon composition
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from territory branch YAML; prior comparisons retained. Editorial calibration, not independent factual verification.
+
+- [durdle door (GB)](../../../countries/GB/sights/durdle-door.yaml) — 9.0/8.9/8.4/8.7/7.6; Comparable iconic coastal rock form, different morphology.
+- [tojinbo cliffs (JP)](../../../countries/JP/sights/tojinbo-cliffs.yaml) — 8.7/8.9/8.1/8.8/8.0; Comparable coastal rock formation and viewing experience.
+- [broken beach nusa penida (ID)](../../../countries/ID/sights/broken-beach-nusa-penida.yaml) — 8.9/9.1/7.3/8.8/7.5; Distinct coastal rock arch and inlet, similarly concentrated.
+- [railay beach (TH)](../../../countries/TH/sights/railay-beach.yaml) — 8.9/9.0/7.5/9.2/8.3; More extensive dramatic limestone and coastal activities.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -189,6 +236,15 @@ Visitor scope excludes restricted customary land, marine areas and any implied g
 - National Museum of the American Indian (US): comparable indigenous cultural interpretation
 - Polynesian Cultural Center (US): different performance-oriented cultural experience
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from territory branch YAML; prior comparisons retained. Editorial calibration, not independent factual verification.
+
+- [sarawak cultural village (MY)](../../../countries/MY/sights/sarawak-cultural-village.yaml) — 8.4/8.7/8.2/8.8/8.4; Comparable cultural interpretation and traditional architecture, different contemporary design.
+- [national museum of korea (KR)](../../../countries/KR/sights/national-museum-of-korea.yaml) — 9.1/9.3/9.4/9.3/9.6; Much broader national collection and interpretation.
+- [national museum cambodia (KH)](../../../countries/KH/sights/national-museum-cambodia.yaml) — 8.8/9.1/9.3/9.1/8.8; Greater archaeological collection, less contemporary architectural focus.
+- [ghibli museum (JP)](../../../countries/JP/sights/ghibli-museum.yaml) — 8.5/9.1/7.8/9.0/8.0; Focused distinctive designed museum environment, different cultural subject.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -221,6 +277,15 @@ Visitor scope excludes restricted customary land, marine areas and any implied g
 - Los Morrillos (PR): comparable lighthouse and coast
 - Matira Beach (PF): stronger beach focus
 - Tiputa Pass (PF): deeper specialized marine wildlife
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from territory branch YAML; prior comparisons retained. Editorial calibration, not independent factual verification.
+
+- [tobago cays marine park (VC)](../../../countries/VC/sights/tobago-cays-marine-park.yaml) — 9.4/9.3/9.1/9.1/8.9; Greater island-reef scenery and marine excursion scope.
+- [ang thong national marine park (TH)](../../../countries/TH/sights/ang-thong-national-marine-park.yaml) — 9.0/9.0/8.6/9.1/8.9; More extensive island and boat visitor experience.
+- [moorea lagoon (PF)](../../../countries/PF/sights/moorea-lagoon.yaml) — 9.1/8.7/8.0/9.1/8.6; Broader reef excursions, lacks lighthouse landmark.
+- [durdle door (GB)](../../../countries/GB/sights/durdle-door.yaml) — 9.0/8.9/8.4/8.7/7.6; Focused coastal landmark with distinctive natural form, different heritage.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -255,6 +320,15 @@ Visitor scope excludes restricted customary land, marine areas and any implied g
 - Los Morrillos cliffs (PR): comparable coastal viewpoint
 - Hienghène Rocks (NC): broader distinctive rock group
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from territory branch YAML; prior comparisons retained. Editorial calibration, not independent factual verification.
+
+- [cliffs of moher (IE)](../../../countries/IE/sights/cliffs-of-moher.yaml) — 9.5/9.1/8.7/9.0/8.2; More monumental cliff scale and documented visitor breadth.
+- [tojinbo cliffs (JP)](../../../countries/JP/sights/tojinbo-cliffs.yaml) — 8.7/8.9/8.1/8.8/8.0; Comparable focused coastal cliff viewing.
+- [durdle door (GB)](../../../countries/GB/sights/durdle-door.yaml) — 9.0/8.9/8.4/8.7/7.6; More distinctive iconic coastal rock form.
+- [broken beach nusa penida (ID)](../../../countries/ID/sights/broken-beach-nusa-penida.yaml) — 8.9/9.1/7.3/8.8/7.5; Distinct raised coastal rock inlet and arch, different cliff geometry.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -287,6 +361,15 @@ Visitor scope excludes restricted customary land, marine areas and any implied g
 - Flamenco Beach (PR): closely comparable tropical beach
 - Matira Beach (PF): comparable bathing scope
 - Poé Lagoon (NC): wider reef experience
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from territory branch YAML; prior comparisons retained. Editorial calibration, not independent factual verification.
+
+- [anse source d argent (SC)](../../../countries/SC/sights/anse-source-d-argent.yaml) — 9.8/9.7/7.8/9.2/7.6; More distinctive granite shoreline and stronger visual impact.
+- [white beach boracay (PH)](../../../countries/PH/sights/white-beach-boracay.yaml) — 9.1/8.4/6.8/9.0/7.5; Greater beach activity and visitor depth.
+- [railay beach (TH)](../../../countries/TH/sights/railay-beach.yaml) — 8.9/9.0/7.5/9.2/8.3; More dramatic coastal cliffs and visitor activity.
+- [matira beach (PF)](../../../countries/PF/sights/matira-beach.yaml) — 8.6/7.8/6.4/8.7/6.8; Close tropical lagoon beach with narrower visitor depth.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -321,6 +404,15 @@ Visitor scope excludes restricted customary land, marine areas and any implied g
 - Dyrhólaey (IS): different coastal landform and ecology
 - Railay (TH): comparable limestone coast with broader visitor activities
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from territory branch YAML; prior comparisons retained. Editorial calibration, not independent factual verification.
+
+- [cliffs of moher (IE)](../../../countries/IE/sights/cliffs-of-moher.yaml) — 9.5/9.1/8.7/9.0/8.2; Greater sheer coastal cliff scale and established viewpoint breadth.
+- [tojinbo cliffs (JP)](../../../countries/JP/sights/tojinbo-cliffs.yaml) — 8.7/8.9/8.1/8.8/8.0; Comparable concentrated cliff setting and visitor scope.
+- [durdle door (GB)](../../../countries/GB/sights/durdle-door.yaml) — 9.0/8.9/8.4/8.7/7.6; More iconic concentrated arch and coastal scenery.
+- [broken beach nusa penida (ID)](../../../countries/ID/sights/broken-beach-nusa-penida.yaml) — 8.9/9.1/7.3/8.8/7.5; Similar coastal cliff and bay setting, different morphology.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -353,6 +445,15 @@ Visitor scope excludes restricted customary land, marine areas and any implied g
 - Oceanário de Lisboa (PT): larger marine exhibit scope
 - Okinawa Churaumi Aquarium (JP): greater monumental tank scale
 - Tjibaou Cultural Centre (NC): broader cultural rather than marine focus
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from territory branch YAML; prior comparisons retained. Editorial calibration, not independent factual verification.
+
+- [okinawa churaumi aquarium (JP)](../../../countries/JP/sights/okinawa-churaumi-aquarium.yaml) — 9.0/9.0/7.6/9.3/9.0; Closer managed marine exhibit reference with much greater aquarium scale.
+- [national museum of korea (KR)](../../../countries/KR/sights/national-museum-of-korea.yaml) — 9.1/9.3/9.4/9.3/9.6; Much broader interpreted collection and institutional depth, different subject.
+- [national museum cambodia (KH)](../../../countries/KH/sights/national-museum-cambodia.yaml) — 8.8/9.1/9.3/9.1/8.8; Focused collection-based learning with stronger heritage significance, different subject.
+- [tobago cays marine park (VC)](../../../countries/VC/sights/tobago-cays-marine-park.yaml) — 9.4/9.3/9.1/9.1/8.9; Wild marine recreation contrast, not a managed aquarium and no transfer of wild encounters.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
