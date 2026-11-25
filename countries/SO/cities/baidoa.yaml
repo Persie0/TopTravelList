@@ -1,0 +1,13 @@
+id: city-so-baidoa
+name: "Baidoa"
+location:
+  country_code: SO
+  latitude: 3.114
+  longitude: 43.65
+scores:
+  impact: null
+  uniqueness: null
+  significance: 7.0
+  experience: null
+  depth: null
+  categories: {}
