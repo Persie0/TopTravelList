@@ -1123,3 +1123,48 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [UNESCO country/tentative inventory](https://whc.unesco.org/en/statesparties/hn), inspected via search or page excerpt 2026-11-25; identity or broader context only; claims not comprehensively verified.
 - Remaining gaps: Normal permitted visitor scope and route evidence needed before ranking.
+
+## Follow-up: sight-hn-maya-site-of-copan — 2026-11-25 (worldwide review)
+
+- [YAML](../../../countries/HN/sights/maya-site-of-copan.yaml) · Action: fact-check-only · **source-linked-unverified**: limited source claims checked; not comprehensive fact-check. Original decision above retained.
+- Sources inspected 2026-11-25: [https://whc.unesco.org/en/list/129/](https://whc.unesco.org/en/list/129/)
+- Decision: UNESCO confirms the major ensemble of sculpted monuments, plazas and stairway. Exceptional historical and artistic fields remain justified; retain 9.3 depth for the ensemble, not restricted climbing on the stairway. Compare to other Maya and ancient archaeological sites.
+- I/U/S/E/D: 9.5 / 9.7 / 9.7 / 9.3 / 9.3 → 9.5 / 9.7 / 9.7 / 9.3 / 9.3; total 95.40/100 → 95.40/100. Categories unchanged. No new 10 or country multiplier. Representative GPS retained.
+
+| Current worldwide peer | I/U/S/E/D | Overall | Scope comparison |
+| --- | --- | --- | --- |
+| [Caracol Archaeological Reserve](../../../countries/BZ/sights/caracol-archaeological-reserve.yaml) | 9.1 / 9.1 / 9.4 / 8.9 / 8.9 | 91.10/100 | Impressive Maya urban ensemble, lower distinctive sculpture and inscription merits. |
+| [Joya de Cerén Archaeological Site](../../../countries/SV/sights/joya-de-ceren-archaeological-site.yaml) | 8.6 / 9.6 / 9.6 / 8.4 / 8.1 | 89.70/100 | Rare domestic archaeology rather than monumental plazas. |
+| [Jerash Archaeological City](../../../countries/JO/sights/jerash-archaeological-city.yaml) | 9.5 / 9.3 / 9.5 / 9.4 / 9.3 | 94.15/100 | Comparable extensive monumental site. |
+| [Angkor Archaeological Park](../../../countries/KH/sights/angkor-archaeological-park.yaml) | 10.0 / 10.0 / 10.0 / 9.8 / 10.0 | 99.70/100 | Much broader world-defining ensemble. |
+
+
+## Follow-up: sight-hn-hieroglyphic-stairway-copan — 2026-11-25 (worldwide review)
+
+- [YAML](../../../countries/HN/sights/hieroglyphic-stairway-copan.yaml) · Action: rescore · **source-linked-unverified**: limited source claims checked; not comprehensive fact-check. Original decision above retained.
+- Sources inspected 2026-11-25: [https://whc.unesco.org/en/list/129/](https://whc.unesco.org/en/list/129/), [https://whc.unesco.org/en/intassistance/943](https://whc.unesco.org/en/intassistance/943)
+- Decision: UNESCO identifies the stairway as a key attribute of the site and documents its protective canopy; the existing exterior-only scope is correct. Its historic text supports 9.6 rarity, significance and history, but sheltered viewing of one feature is less rewarding than an interpreted whole archaeological site. Retain bounded depth 6.4 and reduce experience slightly. No assumption of permission to climb.
+- I/U/S/E/D: 8.4 / 9.6 / 9.6 / 7.6 / 6.4 → 8.4 / 9.6 / 9.6 / 7.2 / 6.4; total 86.20/100 → 85.60/100. Categories unchanged. No new 10 or country multiplier. Representative GPS retained.
+
+| Current worldwide peer | I/U/S/E/D | Overall | Scope comparison |
+| --- | --- | --- | --- |
+| [Joya de Cerén Archaeological Site](../../../countries/SV/sights/joya-de-ceren-archaeological-site.yaml) | 8.6 / 9.6 / 9.6 / 8.4 / 8.1 | 89.70/100 | Broader sheltered domestic excavations. |
+| [Pella Archaeological Site](../../../countries/JO/sights/pella-archaeological-site.yaml) | 7.9 / 8.4 / 8.9 / 8.0 / 8.3 | 82.80/100 | More extensive ruins and exploration. |
+| [Caracol Archaeological Reserve](../../../countries/BZ/sights/caracol-archaeological-reserve.yaml) | 9.1 / 9.1 / 9.4 / 8.9 / 8.9 | 91.10/100 | Full Maya ensemble; greater experience. |
+| [Qalat al-Bahrain Archaeological Site](../../../countries/BH/sights/qalat-al-bahrain-archaeological-site.yaml) | 8.8 / 9.0 / 9.4 / 8.8 / 8.7 | 89.60/100 | Broader interpreted archaeology. |
+
+
+## Follow-up: sight-hn-rio-platano-biosphere-reserve — 2026-11-25 (worldwide review)
+
+- [YAML](../../../countries/HN/sights/rio-platano-biosphere-reserve.yaml) · Action: fact-check-only · **source-linked-unverified**: limited source claims checked; not comprehensive fact-check. Original decision above retained.
+- Sources inspected 2026-11-25: [https://whc.unesco.org/en/list/196](https://whc.unesco.org/en/list/196), [https://whc.unesco.org/en/statesparties/hn](https://whc.unesco.org/en/statesparties/hn)
+- Decision: UNESCO describes the internationally important large forest reserve and danger-list context. Preserve significance 9.5 and null impact, experience and depth: the source does not establish a normal permitted visit representative of this exact reserve. Do not assign zero or infer access from neighboring trips.
+- I/U/S/E/D: null / 9.2 / 9.5 / null / null → null / 9.2 / 9.5 / null / null; total unranked → unranked. Categories unchanged. No new 10 or country multiplier. Representative GPS retained.
+
+| Current worldwide peer | I/U/S/E/D | Overall | Scope comparison |
+| --- | --- | --- | --- |
+| [Cockscomb Basin Wildlife Sanctuary](../../../countries/BZ/sights/cockscomb-basin-wildlife-sanctuary.yaml) | 8.7 / 8.8 / 9.1 / 8.8 / 9.0 | 88.50/100 | Established specific visitor area. |
+| [Khao Sok National Park](../../../countries/TH/sights/khao-sok-national-park.yaml) | 9.4 / 9.4 / 9.1 / 9.4 / 9.3 | 93.30/100 | Large park with known tourist circuits. |
+| [Dana Biosphere Reserve](../../../countries/JO/sights/dana-biosphere-reserve.yaml) | 9.0 / 8.8 / 8.9 / 9.0 / 9.1 | 89.40/100 | Defined trail system. |
+| [Aldabra Atoll](../../../countries/SC/sights/aldabra-atoll.yaml) | 9.5 / 9.8 / 9.8 / 8.0 / 7.6 | 92.20/100 | Conditional controlled visit; unlike Río Plátano, a documented visitor policy was checked. |
+
