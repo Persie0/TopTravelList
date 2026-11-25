@@ -1,0 +1,15 @@
+id: city-bg-sandanski
+name: "Sandanski"
+location:
+  country_code: BG
+  latitude: 41.567
+  longitude: 23.278
+scores:
+  impact: 7.5
+  uniqueness: 7.6
+  significance: 7.7
+  experience: 8.2
+  depth: 7.7
+  categories:
+    relaxation: 8.7
+    history: 8.1

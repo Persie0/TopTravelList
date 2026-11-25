@@ -1,0 +1,16 @@
+id: city-bg-veliko-tarnovo
+name: "Veliko Tarnovo"
+location:
+  country_code: BG
+  latitude: 43.0757
+  longitude: 25.6172
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 8.7
+  depth: 8.4
+  categories:
+    architecture: 9.1
+    history: 9.2
+    photography: 9.2

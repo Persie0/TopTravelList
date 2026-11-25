@@ -1,0 +1,15 @@
+id: city-bg-vidin
+name: "Vidin"
+location:
+  country_code: BG
+  latitude: 43.996
+  longitude: 22.868
+scores:
+  impact: 7.8
+  uniqueness: 8.0
+  significance: 8.4
+  experience: 8.1
+  depth: 7.8
+  categories:
+    history: 8.8
+    architecture: 8.5

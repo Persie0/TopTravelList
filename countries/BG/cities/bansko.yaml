@@ -1,0 +1,16 @@
+id: city-bg-bansko
+name: "Bansko"
+location:
+  country_code: BG
+  latitude: 41.84
+  longitude: 23.49
+scores:
+  impact: 8.0
+  uniqueness: 8.2
+  significance: 8.0
+  experience: 8.5
+  depth: 7.8
+  categories:
+    architecture: 8.6
+    culture: 8.6
+    relaxation: 8.5

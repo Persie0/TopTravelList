@@ -1,0 +1,15 @@
+id: sight-bg-shumen-plateau
+name: "Shumen Plateau Nature Park"
+location:
+  country_code: BG
+  latitude: 43.26
+  longitude: 26.89
+scores:
+  impact: 8.0
+  uniqueness: 8.1
+  significance: 8.2
+  experience: 8.4
+  depth: 8.3
+  categories:
+    nature: 8.7
+    history: 8.6

@@ -1,0 +1,16 @@
+id: sight-bg-ivanovo-rock-churches
+name: "Rock-Hewn Churches of Ivanovo"
+location:
+  country_code: BG
+  latitude: 43.719
+  longitude: 25.987
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 9.2
+  experience: 8.4
+  depth: 8.0
+  categories:
+    architecture: 9.2
+    history: 9.3
+    culture: 9.1

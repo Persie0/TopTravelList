@@ -1,0 +1,16 @@
+id: sight-bg-alexander-nevsky
+name: "Alexander Nevsky Cathedral, Sofia"
+location:
+  country_code: BG
+  latitude: 42.696
+  longitude: 23.333
+scores:
+  impact: 8.8
+  uniqueness: 8.6
+  significance: 8.8
+  experience: 8.7
+  depth: 8.0
+  categories:
+    architecture: 9.3
+    history: 9.0
+    culture: 8.9

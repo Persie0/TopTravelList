@@ -1,0 +1,16 @@
+id: sight-bg-ancient-plovdiv
+name: "Ancient Plovdiv architectural reserve"
+location:
+  country_code: BG
+  latitude: 42.15
+  longitude: 24.753
+scores:
+  impact: 9.1
+  uniqueness: 9.0
+  significance: 9.2
+  experience: 9.0
+  depth: 8.8
+  categories:
+    architecture: 9.3
+    history: 9.4
+    culture: 9.1

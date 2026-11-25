@@ -1,0 +1,16 @@
+id: city-bg-plovdiv
+name: "Plovdiv"
+location:
+  country_code: BG
+  latitude: 42.1354
+  longitude: 24.7453
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 9.0
+  depth: 8.8
+  categories:
+    architecture: 9.2
+    history: 9.3
+    culture: 9.1

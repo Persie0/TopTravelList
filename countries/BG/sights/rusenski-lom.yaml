@@ -1,0 +1,16 @@
+id: sight-bg-rusenski-lom
+name: "Rusenski Lom Nature Park"
+location:
+  country_code: BG
+  latitude: 43.68
+  longitude: 25.96
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 8.5
+  experience: 8.6
+  depth: 8.7
+  categories:
+    nature: 9.1
+    history: 8.7
+    photography: 9.0
