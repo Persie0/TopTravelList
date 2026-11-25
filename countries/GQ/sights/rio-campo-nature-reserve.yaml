@@ -1,0 +1,15 @@
+id: sight-gq-rio-campo-nature-reserve
+name: "Rio Campo Nature Reserve"
+location:
+  country_code: GQ
+  latitude: 2.30
+  longitude: 9.85
+scores:
+  impact: null
+  uniqueness: 8.0
+  significance: 8.5
+  experience: null
+  depth: null
+  categories:
+    nature: 8.8
+    wildlife: 8.9

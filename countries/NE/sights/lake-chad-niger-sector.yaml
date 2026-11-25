@@ -1,0 +1,15 @@
+id: sight-ne-lake-chad-niger-sector
+name: "Lake Chad (Niger natural sector)"
+location:
+  country_code: NE
+  latitude: 14.25
+  longitude: 13.333333
+scores:
+  impact: null
+  uniqueness: 8.7
+  significance: 9.1
+  experience: null
+  depth: null
+  categories:
+    nature: 9.1
+    wildlife: null

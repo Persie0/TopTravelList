@@ -1,0 +1,15 @@
+id: city-cm-dschang
+name: "Dschang"
+location:
+  country_code: CM
+  latitude: 5.443972
+  longitude: 10.053317
+scores:
+  impact: 7.6
+  uniqueness: 7.8
+  significance: 7.7
+  experience: 7.9
+  depth: 7.6
+  categories:
+    culture: 8.4
+    history: 8.0

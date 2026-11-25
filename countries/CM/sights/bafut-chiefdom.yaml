@@ -1,0 +1,15 @@
+id: sight-cm-bafut-chiefdom
+name: "Bafut Chiefdom"
+location:
+  country_code: CM
+  latitude: 6.089333
+  longitude: 10.113333
+scores:
+  impact: 8.7
+  uniqueness: 9.0
+  significance: 9.0
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.2
+    culture: 9.2

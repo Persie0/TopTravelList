@@ -1,0 +1,15 @@
+id: sight-er-keren-camel-market
+name: "Keren Camel Market"
+location:
+  country_code: ER
+  latitude: 15.78
+  longitude: 38.45
+scores:
+  impact: 7.8
+  uniqueness: 8.5
+  significance: 7.3
+  experience: 8.2
+  depth: 7.2
+  categories:
+    culture: 8.9
+    photography: 8.4

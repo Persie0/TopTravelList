@@ -1,0 +1,14 @@
+id: city-cm-bafoussam
+name: "Bafoussam"
+location:
+  country_code: CM
+  latitude: 5.47775
+  longitude: 10.41759
+scores:
+  impact: 7.0
+  uniqueness: 7.6
+  significance: 7.7
+  experience: 7.5
+  depth: 7.4
+  categories:
+    culture: 8.3

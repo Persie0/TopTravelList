@@ -1,0 +1,16 @@
+id: sight-er-massawa-old-town
+name: "Massawa Old Town"
+location:
+  country_code: ER
+  latitude: 15.608
+  longitude: 39.474
+scores:
+  impact: 8.6
+  uniqueness: 8.9
+  significance: 9.1
+  experience: 8.0
+  depth: 8.0
+  categories:
+    architecture: 9.2
+    history: 9.3
+    culture: 8.7

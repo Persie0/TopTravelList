@@ -1,0 +1,15 @@
+id: sight-sd-wadi-howar
+name: "Wadi Howar National Park and Gala Abu Ahmed Cultural Landscape"
+location:
+  country_code: SD
+  latitude: 18.057222
+  longitude: 30.948611
+scores:
+  impact: null
+  uniqueness: 9.3
+  significance: 9.3
+  experience: null
+  depth: null
+  categories:
+    nature: 9.3
+    history: 9.2

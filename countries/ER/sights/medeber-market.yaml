@@ -1,0 +1,15 @@
+id: sight-er-medeber-market
+name: "Medeber Market"
+location:
+  country_code: ER
+  latitude: 15.345
+  longitude: 38.944
+scores:
+  impact: 7.8
+  uniqueness: 8.8
+  significance: 7.7
+  experience: 8.1
+  depth: 7.2
+  categories:
+    culture: 9.0
+    history: 8.1

@@ -1,0 +1,16 @@
+id: city-ml-djenne
+name: "Djenné"
+location:
+  country_code: ML
+  latitude: 13.90556
+  longitude: -4.555
+scores:
+  impact: 9.0
+  uniqueness: 9.5
+  significance: 9.3
+  experience: 8.5
+  depth: 8.3
+  categories:
+    architecture: 9.6
+    history: 9.3
+    culture: 9.4

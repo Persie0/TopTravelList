@@ -1,0 +1,16 @@
+id: sight-mr-chinguetti-old-ksar
+name: "Chinguetti Old Ksar"
+location:
+  country_code: MR
+  latitude: 20.46333
+  longitude: -12.36667
+scores:
+  impact: 8.8
+  uniqueness: 9.2
+  significance: 9.2
+  experience: 8.2
+  depth: 8.2
+  categories:
+    architecture: 9.0
+    history: 9.3
+    culture: 9.1

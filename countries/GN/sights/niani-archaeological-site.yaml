@@ -1,0 +1,15 @@
+id: sight-gn-niani-archaeological-site
+name: "Niani Archaeological Site"
+location:
+  country_code: GN
+  latitude: 11.37972
+  longitude: -8.38417
+scores:
+  impact: null
+  uniqueness: 8.7
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    history: 9.4
+    culture: 8.9

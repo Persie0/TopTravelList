@@ -1,0 +1,15 @@
+id: sight-ml-medine-fort
+name: "Fort of Médine"
+location:
+  country_code: ML
+  latitude: 14.434
+  longitude: -11.341
+scores:
+  impact: 7.8
+  uniqueness: 8.0
+  significance: 8.6
+  experience: 7.7
+  depth: 7.5
+  categories:
+    history: 8.8
+    architecture: 8.1

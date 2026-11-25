@@ -1,0 +1,15 @@
+id: sight-lr-centennial-pavilion
+name: "Centennial Pavilion"
+location:
+  country_code: LR
+  latitude: 6.313
+  longitude: -10.803
+scores:
+  impact: 7.0
+  uniqueness: 7.7
+  significance: 8.5
+  experience: 7.3
+  depth: 6.3
+  categories:
+    history: 8.9
+    architecture: 8.0

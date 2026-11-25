@@ -1,0 +1,15 @@
+id: sight-sd-meroe-royal-city
+name: "Meroë Royal City"
+location:
+  country_code: SD
+  latitude: 16.93333
+  longitude: 33.71667
+scores:
+  impact: 8.5
+  uniqueness: 9.2
+  significance: 9.6
+  experience: 8.2
+  depth: 8.5
+  categories:
+    history: 9.7
+    architecture: 8.7

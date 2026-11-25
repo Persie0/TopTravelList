@@ -1,0 +1,15 @@
+id: sight-sn-house-of-slaves
+name: "House of Slaves (Maison des Esclaves)"
+location:
+  country_code: SN
+  latitude: 14.66759
+  longitude: -17.39729
+scores:
+  impact: 8.5
+  uniqueness: 8.9
+  significance: 9.3
+  experience: 8.6
+  depth: 7.6
+  categories:
+    history: 9.4
+    culture: 9.2

@@ -2,7 +2,7 @@
 
 # Niger (NE) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**5 ranked** · **5 unassessed** · **10 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,27 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (5)
 
-No cities, towns & villages have been assessed for **Niger** yet.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Agadez](cities/agadez.yaml) | City / town | **87.40** | **History 9.3**, **Architecture 9.2**, **Culture 9.1** | 8.7 / 9.1 / 9.1 / 8.1 / 8.2 | [16.973, 7.991](https://www.google.com/maps/search/?api=1&query=16.973,7.991) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Agadez%2C%20Niger) |
+| 2 | [Zinder](cities/zinder.yaml) | City / town | **79.80** | **History 8.7**, **Architecture 8.5**, **Culture 8.5** | 7.8 / 8.3 / 8.4 / 7.5 / 7.6 | [13.807, 8.988](https://www.google.com/maps/search/?api=1&query=13.807,8.988) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Zinder%2C%20Niger) |
+| 3 | [Bilma](cities/bilma.yaml) | City / town | **78.15** | **Culture 8.4**, **History 8.2** | 7.7 / 8.6 / 7.9 / 7.3 / 6.8 | [18.6853, 12.9164](https://www.google.com/maps/search/?api=1&query=18.6853,12.9164) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bilma%2C%20Niger) |
+| 4 | [Timia](cities/timia.yaml) | City / town | **74.65** | **Photography 8.1**, **Culture 8.0** | 7.4 / 8.0 / 7.2 / 7.5 / 6.8 | [18.1, 8.77](https://www.google.com/maps/search/?api=1&query=18.1,8.77) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Timia%2C%20Niger) |
+| 5 | [Niamey](cities/niamey.yaml) | City / town | **73.80** | **Culture 8.0**, **Food 7.5** | 7.0 / 7.3 / 7.8 / 7.5 / 7.7 | [13.514, 2.11](https://www.google.com/maps/search/?api=1&query=13.514,2.11) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Niamey%2C%20Niger) |
 
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+## Not yet fully assessed (5)
+
+These destinations have no rank until all five core scores are assessed.
+
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| — | [Dosso](cities/dosso.yaml) | City / town | **—** | **History 7.6** | — / 7.3 / 7.3 / — / — | [13.049, 3.193](https://www.google.com/maps/search/?api=1&query=13.049,3.193) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Dosso%2C%20Niger) |
+| — | [Iférouane](cities/iferouane.yaml) | City / town | **—** | — | — / 7.8 / 7.2 / — / — | [19.0625, 8.42](https://www.google.com/maps/search/?api=1&query=19.0625,8.42) | [Google Maps](https://www.google.com/maps/search/?api=1&query=If%C3%A9rouane%2C%20Niger) |
+| — | [In-Gall](cities/in-gall.yaml) | City / town | **—** | **Culture 8.3** | — / 8.0 / 7.8 / — / — | [16.7878, 6.9342](https://www.google.com/maps/search/?api=1&query=16.7878,6.9342) | [Google Maps](https://www.google.com/maps/search/?api=1&query=In-Gall%2C%20Niger) |
+| — | [Maradi](cities/maradi.yaml) | City / town | **—** | — | — / — / 6.8 / — / — | [13.5, 7.102](https://www.google.com/maps/search/?api=1&query=13.5,7.102) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Maradi%2C%20Niger) |
+| — | [Tahoua](cities/tahoua.yaml) | City / town | **—** | — | — / — / 6.8 / — / — | [14.889, 5.269](https://www.google.com/maps/search/?api=1&query=14.889,5.269) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tahoua%2C%20Niger) |
 
 ---
 

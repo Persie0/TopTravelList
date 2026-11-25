@@ -1,0 +1,13 @@
+id: sight-zm-luangwa-karoo-fossil-sites
+name: "Luangwa Basin Karoo Vertebrate Fossil Sites"
+location:
+  country_code: ZM
+  latitude: -12.45
+  longitude: 32.05
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}

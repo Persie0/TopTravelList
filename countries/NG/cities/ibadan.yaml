@@ -1,0 +1,15 @@
+id: city-ng-ibadan
+name: "Ibadan"
+location:
+  country_code: NG
+  latitude: 7.378
+  longitude: 3.906
+scores:
+  impact: 7.4
+  uniqueness: 7.9
+  significance: 8.2
+  experience: 7.7
+  depth: 7.8
+  categories:
+    culture: 8.4
+    history: 8.4

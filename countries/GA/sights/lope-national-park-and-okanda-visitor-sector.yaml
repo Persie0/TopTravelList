@@ -1,0 +1,17 @@
+id: sight-ga-lope-national-park-and-okanda-visitor-sector
+name: "Lopé National Park and Okanda visitor sector"
+location:
+  country_code: GA
+  latitude: -0.5
+  longitude: 11.5
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 9.4
+  experience: 8.9
+  depth: 8.8
+  categories:
+    nature: 9.4
+    wildlife: 9.5
+    history: 9.1
+    adventure: 8.9

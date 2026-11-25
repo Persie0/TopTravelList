@@ -1,0 +1,16 @@
+id: sight-gn-iles-de-los-visitor-islands
+name: "Îles de Los (visitor islands)"
+location:
+  country_code: GN
+  latitude: 9.47
+  longitude: -13.8
+scores:
+  impact: 8.4
+  uniqueness: 8.3
+  significance: 7.6
+  experience: 8.6
+  depth: 8.3
+  categories:
+    beaches: 9.0
+    nature: 8.7
+    relaxation: 8.9
