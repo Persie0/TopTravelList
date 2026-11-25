@@ -1,0 +1,16 @@
+id: city-cc-bantam
+name: "Bantam (Home Island)"
+location:
+  country_code: CC
+  latitude: -12.11764
+  longitude: 96.89642
+scores:
+  impact: 7.5
+  uniqueness: 8.7
+  significance: 8.4
+  experience: 8.0
+  depth: 7.2
+  categories:
+    culture: 8.9
+    history: 8.6
+    food: 8.2

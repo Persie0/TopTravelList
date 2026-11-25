@@ -1,0 +1,16 @@
+id: sight-cc-kite-beach
+name: "Kite Beach (southern West Island lagoon)"
+location:
+  country_code: CC
+  latitude: -12.2
+  longitude: 96.86
+scores:
+  impact: 8.4
+  uniqueness: 8.0
+  significance: 7.5
+  experience: 8.6
+  depth: 7.5
+  categories:
+    adventure: 8.9
+    beaches: 8.3
+    photography: 8.5
