@@ -2,7 +2,7 @@
 
 # Oman (OM) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**24 ranked** · **0 unassessed** · **24 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,34 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, or click its GPS coordinates to open **Google Maps**. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (24)
 
-No cities, towns & villages have been assessed for **Oman** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps |
+| ---: | --- | --- | ---: | --- | --- | --- |
+| 1 | [Muscat](cities/muscat.yaml) | City / town | **87.15** | **Architecture 9.0**, **Culture 8.9**, **Food 8.5** | 8.7 / 8.7 / 8.6 / 8.8 / 8.9 | [23.588, 58.383](https://www.google.com/maps/search/?api=1&query=23.588,58.383) |
+| 2 | [Misfat al Abriyeen](cities/misfat-al-abriyeen.yaml) | City / town | **84.45** | **Photography 9.2**, **Architecture 9.0**, **Culture 8.6** | 8.7 / 8.8 / 7.9 / 8.7 / 7.5 | [23.14, 57.312](https://www.google.com/maps/search/?api=1&query=23.14,57.312) |
+| 3 | [Nizwa](cities/nizwa.yaml) | City / town | **84.30** | **History 9.0**, **Culture 8.9**, **Architecture 8.6** | 8.3 / 8.5 / 8.7 / 8.5 / 8.0 | [22.933, 57.53](https://www.google.com/maps/search/?api=1&query=22.933,57.53) |
+| 4 | [Balad Sayt](cities/balad-sayt.yaml) | City / town | **81.30** | **Photography 9.2**, **Architecture 8.6**, **Culture 8.1** | 8.6 / 8.6 / 7.4 / 8.2 / 6.9 | [23.188, 57.389](https://www.google.com/maps/search/?api=1&query=23.188,57.389) |
+| 5 | [Al Hamra](cities/al-hamra.yaml) | City / town | **80.25** | **Architecture 8.8**, **History 8.6**, **Culture 8.4** | 8.0 / 8.4 / 8.1 / 7.9 / 7.2 | [23.118, 57.283](https://www.google.com/maps/search/?api=1&query=23.118,57.283) |
+| 6 | [Sur](cities/sur.yaml) | City / town | **80.00** | **Culture 8.7**, **History 8.4**, **Photography 8.4** | 7.9 / 8.2 / 8.0 / 8.2 / 7.5 | [22.567, 59.528](https://www.google.com/maps/search/?api=1&query=22.567,59.528) |
+| 7 | [Bahla](cities/bahla.yaml) | City / town | **79.45** | **History 8.8**, **Culture 8.5** | 7.8 / 8.1 / 8.4 / 7.8 / 7.3 | [22.969, 57.299](https://www.google.com/maps/search/?api=1&query=22.969,57.299) |
+| 8 | [Salalah](cities/salalah.yaml) | City / town | **79.05** | **Culture 8.3**, **Relaxation 8.2**, **Food 8.1** | 7.7 / 8.0 / 7.8 / 8.3 / 7.9 | [17.019, 54.089](https://www.google.com/maps/search/?api=1&query=17.019,54.089) |
+| 9 | [Wakan](cities/wakan.yaml) | City / town | **78.55** | **Photography 8.9**, **Culture 8.1** | 8.2 / 8.3 / 7.3 / 8.0 / 6.6 | [23.144, 57.739](https://www.google.com/maps/search/?api=1&query=23.144,57.739) |
+| 10 | [Mirbat](cities/mirbat.yaml) | City / town | **78.05** | **Culture 8.4**, **History 8.4**, **Photography 8.3** | 7.7 / 8.1 / 8.0 / 7.8 / 7.0 | [16.992, 54.692](https://www.google.com/maps/search/?api=1&query=16.992,54.692) |
+| 11 | [Khasab](cities/khasab.yaml) | City / town | **76.25** | **Photography 8.2**, **Culture 8.0** | 7.5 / 7.8 / 7.6 / 7.9 / 7.2 | [26.179, 56.247](https://www.google.com/maps/search/?api=1&query=26.179,56.247) |
+| 12 | [Ibra](cities/ibra.yaml) | City / town | **75.85** | **Culture 8.3**, **History 8.3** | 7.4 / 7.7 / 7.9 / 7.6 / 7.2 | [22.69, 58.535](https://www.google.com/maps/search/?api=1&query=22.69,58.535) |
+| 13 | [Rustaq](cities/rustaq.yaml) | City / town | **75.75** | **History 8.5**, **Culture 8.0** | 7.3 / 7.7 / 8.1 / 7.6 / 7.0 | [23.39, 57.425](https://www.google.com/maps/search/?api=1&query=23.39,57.425) |
+| 14 | [Nakhal](cities/nakhal.yaml) | City / town | **75.00** | **Culture 8.1**, **Photography 8.0** | 7.4 / 7.7 / 7.6 / 7.7 / 6.8 | [23.395, 57.831](https://www.google.com/maps/search/?api=1&query=23.395,57.831) |
+| 15 | [Taqah](cities/taqah.yaml) | City / town | **73.75** | **Culture 8.0**, **History 8.0** | 7.2 / 7.5 / 7.6 / 7.6 / 6.8 | [17.038, 54.4](https://www.google.com/maps/search/?api=1&query=17.038,54.4) |
+| 16 | [Sohar](cities/sohar.yaml) | City / town | **73.30** | **History 8.3**, **Culture 7.8** | 6.9 / 7.3 / 7.9 / 7.5 / 7.3 | [24.347, 56.709](https://www.google.com/maps/search/?api=1&query=24.347,56.709) |
+| 17 | [Bilad Bani Bu Ali](cities/bilad-bani-bu-ali.yaml) | City / town | **71.10** | **History 8.2**, **Culture 7.9** | 6.8 / 7.3 / 7.7 / 7.1 / 6.4 | [22.001, 59.317](https://www.google.com/maps/search/?api=1&query=22.001,59.317) |
+| 18 | [Qurayyat](cities/qurayyat.yaml) | City / town | **70.95** | **Culture 7.7**, **History 7.6** | 6.9 / 7.2 / 7.2 / 7.5 / 6.6 | [23.264, 58.916](https://www.google.com/maps/search/?api=1&query=23.264,58.916) |
+| 19 | [Al Ashkharah](cities/al-ashkharah.yaml) | City / town | **68.65** | **Relaxation 8.0**, **Culture 7.4** | 6.8 / 7.1 / 6.4 / 7.6 / 6.3 | [21.847, 59.578](https://www.google.com/maps/search/?api=1&query=21.847,59.578) |
+| 20 | [Hasik](cities/hasik.yaml) | City / town | **68.45** | **Photography 7.8**, **Relaxation 7.7** | 6.8 / 7.3 / 6.5 / 7.2 / 6.0 | [17.43, 55.283](https://www.google.com/maps/search/?api=1&query=17.43,55.283) |
+| 21 | [Sadah](cities/sadah.yaml) | City / town | **68.05** | **Relaxation 7.5**, **Culture 7.4** | 6.6 / 7.1 / 6.8 / 7.2 / 6.1 | [17.045, 55.081](https://www.google.com/maps/search/?api=1&query=17.045,55.081) |
+| 22 | [Bidiya](cities/bidiya.yaml) | City / town | **67.65** | **Culture 7.4** | 6.6 / 7.0 / 6.6 / 7.3 / 6.2 | [22.45, 58.792](https://www.google.com/maps/search/?api=1&query=22.45,58.792) |
+| 22 | [Ibri](cities/ibri.yaml) | City / town | **67.65** | **History 7.6**, **Culture 7.2** | 6.5 / 6.7 / 7.2 / 7.0 / 6.5 | [23.225, 56.516](https://www.google.com/maps/search/?api=1&query=23.225,56.516) |
+| 24 | [Hilf (Masirah)](cities/hilf-masirah.yaml) | City / town | **66.15** | **Relaxation 7.5**, **Culture 7.2** | 6.5 / 6.9 / 6.2 / 7.2 / 6.2 | [20.679, 58.88](https://www.google.com/maps/search/?api=1&query=20.679,58.88) |
 
 ---
 
