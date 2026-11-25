@@ -23,6 +23,8 @@
 | [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional protected landscape | Distinct compact Julian Alps karst and alpine mosaic; uniqueness similar; Many distinct valleys ridges and lakes; depth higher. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 9.4 | High limestone peaks glacial lakes and river valleys |
@@ -47,17 +49,20 @@
 - Location check: 45.665, 13.989; approximate representative point, exact verification pending.
 - Evidence status: source-linked-unverified
 - Evidence: [UNESCO](https://whc.unesco.org/en/list/390) — consulted 2026-11-25; identity or regional context; material claims and visitor conditions not fully independently checked.
+- Supplemental evidence (2026-11-25): https://www.park-skocjanske-jame.si/en/news/get-ready-for-a-visit-to-the-skocjan-caves — Park operator documents 90–120-minute guided tour, distinct from full protected underground system.
 - Missing or uncertain facts: exact GPS, permitted visitor scope and independent material claim verification.
 
 #### Worldwide peer comparisons
 | Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
 | --- | --- | --- |
-| [Phong Nha Cave (VN)](../../../countries/VN/sights/phong-nha-cave.yaml) (profile pending) | karst cave visitor route | Rare extensive underground canyon landscape; uniqueness not quantified; Substantial cave route and surface interpretation not entire protected system; depth not quantified. Provisional comparison. |
-| [Postojna Cave (SI)](../../../countries/SI/sights/postojna-cave.yaml) (profile pending) | large decorated show cave | Rare extensive underground canyon landscape; uniqueness not quantified; Substantial cave route and surface interpretation not entire protected system; depth not quantified. Provisional comparison. |
+| [Phong Nha Cave (VN)](../../../countries/VN/sights/phong-nha-cave.yaml) (8.8 / 9.2 / 8.5 / 9 / 7.9) | karst cave visitor route | Rare extensive underground canyon landscape; uniqueness higher; Substantial cave route and surface interpretation not entire protected system; depth higher. Provisional comparison. |
+| [Postojna Cave (SI)](../../../countries/SI/sights/postojna-cave.yaml) (9.4 / 9.3 / 9.1 / 9.3 / 9) | large decorated show cave | Rare extensive underground canyon landscape; uniqueness higher; Substantial cave route and surface interpretation not entire protected system; depth lower. Provisional comparison. |
 | [Jiuzhaigou (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) (9.8 / 9.7 / 9.4 / 9.8 / 9.1) | world-class natural landscape | Rare extensive underground canyon landscape; uniqueness lower; Substantial cave route and surface interpretation not entire protected system; depth lower. Provisional comparison. |
 | [Hohe Tauern (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) (9.4 / 9.1 / 9 / 9.5 / 9.4) | breadth of natural visitor landscape | Rare extensive underground canyon landscape; uniqueness higher; Substantial cave route and surface interpretation not entire protected system; depth lower. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 9.4 | Vast subterranean river canyon and chambers |
@@ -82,17 +87,20 @@
 - Location check: 45.782, 14.204; approximate representative point, exact verification pending.
 - Evidence status: source-linked-unverified
 - Evidence: [Slovenian Tourist Board](https://www.slovenia.info/en/places-to-go/attractions/postojna-cave) — consulted 2026-11-25; identity or regional context; material claims and visitor conditions not fully independently checked.
+- Supplemental evidence (2026-11-25): https://www.postojnska-jama.eu/en/postojna-cave/ — Operator confirms 90-minute guided train and walking route; other separately ticketed attractions excluded.
 - Missing or uncertain facts: exact GPS, permitted visitor scope and independent material claim verification.
 
 #### Worldwide peer comparisons
 | Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
 | --- | --- | --- |
-| [Phong Nha Cave (VN)](../../../countries/VN/sights/phong-nha-cave.yaml) (profile pending) | karst cave visitor route | Distinct extensive cave railway and karst formations; uniqueness not quantified; Several public galleries not entire underground network; depth not quantified. Provisional comparison. |
-| [Škocjan Caves (SI)](../../../countries/SI/sights/skocjan-caves.yaml) (profile pending) | large underground canyon | Distinct extensive cave railway and karst formations; uniqueness not quantified; Several public galleries not entire underground network; depth not quantified. Provisional comparison. |
+| [Phong Nha Cave (VN)](../../../countries/VN/sights/phong-nha-cave.yaml) (8.8 / 9.2 / 8.5 / 9 / 7.9) | karst cave visitor route | Distinct extensive cave railway and karst formations; uniqueness higher; Several public galleries not entire underground network; depth higher. Provisional comparison. |
+| [Škocjan Caves (SI)](../../../countries/SI/sights/skocjan-caves.yaml) (9.4 / 9.6 / 9.4 / 9.1 / 8.8) | large underground canyon | Distinct extensive cave railway and karst formations; uniqueness lower; Several public galleries not entire underground network; depth higher. Provisional comparison. |
 | [Jiuzhaigou (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) (9.8 / 9.7 / 9.4 / 9.8 / 9.1) | world-class natural landscape | Distinct extensive cave railway and karst formations; uniqueness lower; Several public galleries not entire underground network; depth lower. Provisional comparison. |
 | [Hohe Tauern (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) (9.4 / 9.1 / 9 / 9.5 / 9.4) | breadth of natural visitor landscape | Distinct extensive cave railway and karst formations; uniqueness higher; Several public galleries not entire underground network; depth lower. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 9.4 | Immense decorated chambers and mineral formations |
@@ -128,6 +136,8 @@
 | [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional protected landscape | Distinct concentrated natural and built composition; uniqueness higher; Lake and island not castle interior or town; depth higher. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 9.4 | Alpine lake with island church and cliff castle skyline |
@@ -163,6 +173,8 @@
 | [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional protected landscape | Distinct largely natural alpine lake setting; uniqueness lower; Lake and immediate shores not whole national park; depth higher. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 9.2 | Large glacial lake surrounded by steep mountains |
@@ -198,6 +210,8 @@
 | [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional protected landscape | Distinct clear mountain river landscape; uniqueness higher; Multiple upper-valley sectors not all Julian Alps; depth higher. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 9.3 | Turquoise river gorges and alpine slopes |
@@ -233,6 +247,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional built heritage | Rare integrated cliff-cave defensive structure; uniqueness higher; One castle not nearby Postojna cave; depth lower. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 9.3 | Castle built into dramatic cave entrance |
@@ -268,6 +284,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional built heritage | Rare coherent human-scale urban interventions by one architect; uniqueness higher; Seven components not entire city; depth higher. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.9 | Designed bridges public axes and distinctive buildings |
@@ -303,6 +321,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional built heritage | Distinct long-lived mercury mining system; uniqueness higher; Slovenian components only not Almadén; depth higher. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.4 | Mine galleries industrial installations and townscape |
@@ -327,6 +347,7 @@
 - Location check: 45.965, 14.52; approximate representative point, exact verification pending.
 - Evidence status: unassessed
 - Evidence: [UNESCO](https://whc.unesco.org/en/statesparties/si) — consulted 2026-11-25; property identity listed; material claims and visitor conditions not fully independently checked.
+- Supplemental evidence (2026-11-25): https://morostig.si/en/pile-dwelling/ — Operator describes reconstructed huts and logboat; https://morostig.si/en/information/opening-hours/ documents exhibition and themed trail. The visitor reconstruction is not original archaeological deposit access; retain unassessed status for named property.
 - Missing or uncertain facts: exact GPS, permitted visitor scope and independent material claim verification.
 
 #### Worldwide peer comparisons
@@ -338,6 +359,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional built heritage | Rare preserved prehistoric lakeside settlement evidence; uniqueness higher; Two listed sites not reconstructed display; depth not quantified. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 7.3 | Subtle wetland archaeological contexts |
@@ -373,6 +396,8 @@
 | [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional protected landscape | Rare intact forest ecological processes; uniqueness similar; No assumed access to core forest; depth not quantified. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.5 | Old-growth beech forests |
@@ -408,6 +433,8 @@
 | [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional protected landscape | Distinct alpine pastoral landscape; uniqueness lower; Defined upland landscape not whole Bohinj; depth higher. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.9 | Mountain pastures and traditional pastoral structures |
@@ -432,6 +459,7 @@
 - Location check: 46.153, 14.028; approximate representative point, exact verification pending.
 - Evidence status: unassessed
 - Evidence: [Franja hospital operator](https://www.pb-franja.si/en/) — consulted 2026-11-25; operator confirms storm-related closure; material claims and visitor conditions not fully independently checked.
+- Supplemental evidence (2026-11-25): https://www.muzej-idrija-cerkno.si/en/lokacija/franja-partisan-hospital/ — Museum operator confirms closure due to storm damage. No ordinary current site access established.
 - Missing or uncertain facts: exact GPS, permitted visitor scope and independent material claim verification.
 
 #### Worldwide peer comparisons
@@ -443,6 +471,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional built heritage | Rare preserved wartime medical site; uniqueness higher; Current ordinary visit unavailable; depth not quantified. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.3 | Hidden gorge hospital buildings historically distinctive |
@@ -478,6 +508,8 @@
 | [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional protected landscape | Distinct region central to karst terminology and study; uniqueness higher; Defined karst landscape not unrestricted caves; depth higher. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.7 | Limestone landscapes caves and sinkholes |
@@ -513,6 +545,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional built heritage | Distinct linked remembrance trail across alpine terrain; uniqueness higher; Slovenian route sections not entire transnational landscape; depth higher. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.8 | Mountain routes and wartime memorial landscapes |
@@ -548,6 +582,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional built heritage | Distinct cliff-top lake setting; uniqueness higher; One castle not whole lake; depth lower. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 9.0 | Fortified complex high above lake |
@@ -583,6 +619,8 @@
 | [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional protected landscape | Distinct accessible suspended walkway landscape; uniqueness lower; Single gorge circuit; depth lower. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 9.0 | Narrow rocky gorge and turquoise pools |
@@ -618,6 +656,8 @@
 | [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional protected landscape | Distinct confluence of narrow gorges; uniqueness lower; Defined gorge circuit; depth lower. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.9 | Deep limestone ravines and clear water |
@@ -653,6 +693,8 @@
 | [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional protected landscape | Distinct coherent alpine valley composition; uniqueness lower; Valley not all Kamnik-Savinja Alps; depth higher. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 9.2 | Broad glacial valley framed by steep peaks |
@@ -688,6 +730,8 @@
 | [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional protected landscape | Rare coherent pastoral settlement landscape; uniqueness similar; Plateau and pastoral landscape; depth higher. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 9.0 | High meadows dotted with distinctive herders' huts |
@@ -723,6 +767,8 @@
 | [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional protected landscape | Distinct historic mountain road setting; uniqueness lower; Pass route not whole mountain range; depth lower. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 9.0 | High alpine road and limestone peak views |
@@ -758,6 +804,8 @@
 | [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional protected landscape | Distinct national symbolic peak and climbing terrain; uniqueness lower; Summit routes only; depth lower. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 9.3 | High rocky summit and alpine panoramas |
@@ -793,6 +841,8 @@
 | [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional protected landscape | Distinct linked high mountain lake landscape; uniqueness lower; Defined valley not full park; depth higher. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 9.3 | Glacial lakes and limestone alpine basins |
@@ -828,6 +878,8 @@
 | [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional protected landscape | Distinct waterfall emerging from rock face; uniqueness lower; Single cascade; depth lower. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.8 | Split cascade above turquoise pool |
@@ -863,6 +915,8 @@
 | [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional protected landscape | Distinct accessible waterfall setting; uniqueness lower; Single waterfall complex; depth lower. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 9.0 | Tall cascade against mountain cliff |
@@ -898,6 +952,8 @@
 | [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional protected landscape | Distinct cave-like pool and waterfall composition; uniqueness lower; Single waterfall; depth lower. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.9 | Cascade into enclosed rocky chamber |
@@ -933,6 +989,8 @@
 | [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional protected landscape | Distinct concentrated karst spring wetland; uniqueness lower; Small reserve; depth lower. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.6 | Clear turquoise spring pools and marshes |
@@ -968,6 +1026,8 @@
 | [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional protected landscape | Rare extensive intermittent lake dynamics; uniqueness higher; Lake basin not entire Notranjska park; depth higher. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.6 | Seasonally flooded broad karst basin |
@@ -990,8 +1050,8 @@
 - Action: new
 - Precise subject: Rakov Škocjan karst valley; Defined valley and bridges.
 - Location check: 45.789, 14.3; approximate representative point, exact verification pending.
-- Evidence status: editorial-only
-- Evidence: No specific source checked; editorial assessment.
+- Evidence status: source-linked-unverified
+- Evidence: https://notranjski-park.si/en/activities/hiking/rakov-skocjan-educational-trail — Park operator documents marked educational route through natural bridges and valley. Reviewed 2026-11-25; partial factual support, not full claim verification.
 - Missing or uncertain facts: exact GPS, permitted visitor scope and independent material claim verification.
 
 #### Worldwide peer comparisons
@@ -1003,6 +1063,8 @@
 | [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional protected landscape | Distinct collapsed cave landscape; uniqueness lower; Defined valley and bridges; depth lower. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.9 | Natural rock bridges and forested karst valley |
@@ -1025,32 +1087,34 @@
 - Action: new
 - Precise subject: Križna Cave; Permitted route not entire cave.
 - Location check: 45.745, 14.467; approximate representative point, exact verification pending.
-- Evidence status: editorial-only
-- Evidence: No specific source checked; editorial assessment.
+- Evidence status: source-linked-unverified
+- Evidence: https://krizna-jama.si/en/krizna-cave-tours/ — Operator documents ordinary 60–75 minute first-lake tour and separately reserved longer routes. Score the regular route; no transfer of entire cave system. Reviewed 2026-11-25; partial factual support, not full claim verification.
 - Missing or uncertain facts: exact GPS, permitted visitor scope and independent material claim verification.
 
 #### Worldwide peer comparisons
 | Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
 | --- | --- | --- |
-| [Phong Nha Cave (VN)](../../../countries/VN/sights/phong-nha-cave.yaml) (profile pending) | karst cave visitor route | Distinct water-filled guided cave landscape; uniqueness not quantified; Permitted route not entire cave; depth not quantified. Provisional comparison. |
-| [Škocjan Caves (SI)](../../../countries/SI/sights/skocjan-caves.yaml) (profile pending) | large underground canyon | Distinct water-filled guided cave landscape; uniqueness not quantified; Permitted route not entire cave; depth not quantified. Provisional comparison. |
+| [Phong Nha Cave (VN)](../../../countries/VN/sights/phong-nha-cave.yaml) (8.8 / 9.2 / 8.5 / 9 / 7.9) | karst cave visitor route | Distinct water-filled guided cave landscape; uniqueness higher; Permitted route not entire cave; depth lower. Provisional comparison. |
+| [Škocjan Caves (SI)](../../../countries/SI/sights/skocjan-caves.yaml) (9.4 / 9.6 / 9.4 / 9.1 / 8.8) | large underground canyon | Distinct water-filled guided cave landscape; uniqueness lower; Permitted route not entire cave; depth lower. Provisional comparison. |
 | [Jiuzhaigou (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) (9.8 / 9.7 / 9.4 / 9.8 / 9.1) | world-class natural landscape | Distinct water-filled guided cave landscape; uniqueness lower; Permitted route not entire cave; depth lower. Provisional comparison. |
 | [Hohe Tauern (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) (9.4 / 9.1 / 9 / 9.5 / 9.4) | breadth of natural visitor landscape | Distinct water-filled guided cave landscape; uniqueness higher; Permitted route not entire cave; depth lower. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 9.1 | Underground lakes and delicate formations |
 | uniqueness | — | 9.3 | Distinct water-filled guided cave landscape |
 | significance | — | 8.8 | Regional cave ecology and geology |
 | experience | — | 8.7 | Limited guided trips respecting conservation rules |
-| depth | — | 8.3 | Permitted route not entire cave |
+| depth | — | 7.8 | Ordinary first-lake boat route is 60–75 minutes; longer restricted tours not presumed |
 
 - Applicable category scores: nature: 9.4, adventure: 9.1.
-- Computed worldwide overall: 89.50/100.
+- Computed worldwide overall: 89.00/100.
 - High-score challenge: Not applicable.
 - Approved 10 registry: none.
-- Final decision: Scope-limited editorial assessment: Distinct water-filled guided cave landscape; Permitted route not entire cave.
+- Final decision: reduced depth to 7.8 after reviewing the ordinary visitor route; overall 89.00.
 - Earlier decision: none.
 - Verification still needed: independent facts, access, GPS and narrower same-type peer comparisons.
 
@@ -1073,6 +1137,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional built heritage | Distinct urban castle setting; uniqueness lower; Defined castle complex; depth lower. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.7 | Hilltop fortress and panoramic city views |
@@ -1108,6 +1174,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional built heritage | Distinct coherent river-oriented urban design; uniqueness higher; Listed water-axis component only; depth higher. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.8 | Designed embankments bridges and riverside spaces |
@@ -1143,6 +1211,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional built heritage | Distinct linked civic design intervention; uniqueness higher; Land-axis component only; depth lower. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.7 | Designed streets library facade and public spaces |
@@ -1178,6 +1248,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional built heritage | Unusual public-space bridge design; uniqueness lower; One component; depth lower. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.0 | Distinct tree-lined bridge and stone details |
@@ -1213,6 +1285,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional built heritage | Distinct modern interpretation of ancient ruins; uniqueness similar; One component; depth lower. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 7.9 | Roman remains integrated with designed landscape |
@@ -1248,6 +1322,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional built heritage | Unusual funerary architecture by Plečnik; uniqueness higher; Listed funerary component not entire cemetery; depth lower. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.6 | Distinct ceremonial gates and chapel ensemble |
@@ -1283,6 +1359,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional built heritage | Distinct Plečnik rural church design; uniqueness higher; One component; depth lower. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.6 | Unusual raised church and crafted interior |
@@ -1318,6 +1396,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional built heritage | Unusual Plečnik suburban religious design; uniqueness higher; One component; depth lower. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.4 | Distinct church proportions and columned interior |
@@ -1353,6 +1433,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional built heritage | Distinct regional castle museum collections; uniqueness similar; Defined castle complex; depth lower. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.7 | Castle above historic city and river |
@@ -1388,6 +1470,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional built heritage | Distinct regional dynastic fortress; uniqueness similar; One castle; depth lower. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.8 | Extensive hilltop ruins and valley views |
@@ -1423,6 +1507,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional built heritage | Distinct coherent Adriatic mercantile townscape; uniqueness higher; Historic peninsula only; depth similar. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 9.0 | Dense Venetian streets and coastal square |
@@ -1445,8 +1531,8 @@
 - Action: new
 - Precise subject: Sečovlje Salina Nature Park; Defined salt-pan areas.
 - Location check: 45.49, 13.61; approximate representative point, exact verification pending.
-- Evidence status: editorial-only
-- Evidence: No specific source checked; editorial assessment.
+- Evidence status: source-linked-unverified
+- Evidence: https://www.portoroz.si/en/what-to-do/natural-landmarks/obj/13831-secovlje-salina-nature-park — Destination authority describes protected wetland and traditional salt production; https://www.portoroz.si/en/what-to-do/cultural-landmarks/museum-and-galleries/obj/13818-museum-of-salt-making confirms salt-making museum. Reviewed 2026-11-25; partial factual support, not full claim verification.
 - Missing or uncertain facts: exact GPS, permitted visitor scope and independent material claim verification.
 
 #### Worldwide peer comparisons
@@ -1458,6 +1544,8 @@
 | [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional protected landscape | Distinct living salt-production landscape; uniqueness lower; Defined salt-pan areas; depth similar. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.5 | Geometric salt fields wetland birds and historic buildings |
@@ -1480,8 +1568,8 @@
 - Action: new
 - Precise subject: Lipica Stud Farm; Defined public stud farm.
 - Location check: 45.667, 13.881; approximate representative point, exact verification pending.
-- Evidence status: editorial-only
-- Evidence: No specific source checked; editorial assessment.
+- Evidence status: source-linked-unverified
+- Evidence: https://www.lipica.org/en/products-category/daily-tickets/ — Operator confirms 60-minute guided stud-farm tour; https://www.lipica.org/en/tickets/ documents self-guided access. Reviewed 2026-11-25; partial factual support, not full claim verification.
 - Missing or uncertain facts: exact GPS, permitted visitor scope and independent material claim verification.
 
 #### Worldwide peer comparisons
@@ -1493,6 +1581,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional built heritage | Distinct origin estate of Lipizzan breeding tradition; uniqueness higher; Defined public stud farm; depth similar. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.4 | Historic equestrian grounds and white horses |
@@ -1515,8 +1605,8 @@
 - Action: new
 - Precise subject: Kobarid Museum; Museum only not entire Walk of Peace.
 - Location check: 46.247, 13.579; approximate representative point, exact verification pending.
-- Evidence status: editorial-only
-- Evidence: No specific source checked; editorial assessment.
+- Evidence status: source-linked-unverified
+- Evidence: https://www.kobariski-muzej.si/en/about-us/the-museum/ — Museum documents Isonzo Front collections; https://www.kobariski-muzej.si/en/visit/tour-reservation/ indicates about 90 minutes for the museum, separate outdoor history trail excluded. Reviewed 2026-11-25; partial factual support, not full claim verification.
 - Missing or uncertain facts: exact GPS, permitted visitor scope and independent material claim verification.
 
 #### Worldwide peer comparisons
@@ -1528,6 +1618,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional built heritage | Distinct regional mountain-front interpretation; uniqueness similar; Museum only not entire Walk of Peace; depth lower. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.2 | Focused wartime exhibits and historical documents |
@@ -1550,8 +1642,8 @@
 - Action: new
 - Precise subject: Otočec Castle exterior and grounds; One estate exterior.
 - Location check: 45.837, 15.235; approximate representative point, exact verification pending.
-- Evidence status: editorial-only
-- Evidence: No specific source checked; editorial assessment.
+- Evidence status: source-linked-unverified
+- Evidence: https://www.slovenia.info/en/things-to-do/culture/castles-and-manors — Tourism board identifies river-island castle and park; https://terme-krka.com/en/inspiration/hiking-and-cycling-trails-in-lower-carniola supports exterior visitor route, no hotel room access assumed. Reviewed 2026-11-25; partial factual support, not full claim verification.
 - Missing or uncertain facts: exact GPS, permitted visitor scope and independent material claim verification.
 
 #### Worldwide peer comparisons
@@ -1563,6 +1655,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional built heritage | Distinct compact river-island castle composition; uniqueness similar; One estate exterior; depth lower. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.5 | Castle on river island amid trees |

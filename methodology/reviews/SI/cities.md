@@ -23,6 +23,8 @@
 | [Graz (AT)](../../../countries/AT/cities/graz.yaml) (8 / 7.9 / 8.2 / 8.2 / 7.9) | regional urban heritage | Distinct Plečnik urban design and compact capital fabric; uniqueness higher; Several independent districts without external excursions; depth higher. Current benchmark profile checked. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.8 | Riverside streets castle skyline and designed public spaces |
@@ -58,6 +60,8 @@
 | [Graz (AT)](../../../countries/AT/cities/graz.yaml) (8 / 7.9 / 8.2 / 8.2 / 7.9) | regional urban heritage | Distinct compact maritime urban composition; uniqueness higher; Small town not entire Slovenian coast; depth higher. Current benchmark profile checked. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.9 | Venetian streets and Adriatic headland |
@@ -93,6 +97,8 @@
 | [Graz (AT)](../../../countries/AT/cities/graz.yaml) (8 / 7.9 / 8.2 / 8.2 / 7.9) | regional urban heritage | Roman and medieval town layers; uniqueness higher; Compact town excludes external spa; depth higher. Current benchmark profile checked. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.6 | Riverfront and historic hilltop streets |
@@ -128,6 +134,8 @@
 | [Graz (AT)](../../../countries/AT/cities/graz.yaml) (8 / 7.9 / 8.2 / 8.2 / 7.9) | regional urban heritage | Distinct compact episcopal market town; uniqueness higher; Small settlement excludes nearby valleys; depth lower. Current benchmark profile checked. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.6 | Preserved medieval streets beneath castle |
@@ -163,6 +171,8 @@
 | [Graz (AT)](../../../countries/AT/cities/graz.yaml) (8 / 7.9 / 8.2 / 8.2 / 7.9) | regional urban heritage | Distinct wine and regional urban culture; uniqueness higher; Several districts excluding Pohorje; depth higher. Current benchmark profile checked. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.2 | Drava waterfront and historic squares |
@@ -198,6 +208,8 @@
 | [Graz (AT)](../../../countries/AT/cities/graz.yaml) (8 / 7.9 / 8.2 / 8.2 / 7.9) | regional urban heritage | Distinct historic port island fabric; uniqueness higher; Exclude nearby salt pans; depth higher. Current benchmark profile checked. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.4 | Venetian civic palaces and compact squares |
@@ -233,6 +245,8 @@
 | [Graz (AT)](../../../countries/AT/cities/graz.yaml) (8 / 7.9 / 8.2 / 8.2 / 7.9) | regional urban heritage | Distinct Counts of Celje civic heritage; uniqueness higher; Exclude hilltop castle interior; depth higher. Current benchmark profile checked. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.0 | Historic streets with castle backdrop |
@@ -268,6 +282,8 @@
 | [Graz (AT)](../../../countries/AT/cities/graz.yaml) (8 / 7.9 / 8.2 / 8.2 / 7.9) | regional urban heritage | Distinct beekeeping and merchant tradition; uniqueness higher; Exclude Bled lake; depth lower. Current benchmark profile checked. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.3 | Preserved market square and painted houses |
@@ -303,6 +319,8 @@
 | [Graz (AT)](../../../countries/AT/cities/graz.yaml) (8 / 7.9 / 8.2 / 8.2 / 7.9) | regional urban heritage | Compact medieval trading settlement; uniqueness higher; Exclude Velika planina; depth lower. Current benchmark profile checked. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.3 | Historic lanes and mountain skyline |
@@ -338,6 +356,8 @@
 | [Graz (AT)](../../../countries/AT/cities/graz.yaml) (8 / 7.9 / 8.2 / 8.2 / 7.9) | regional urban heritage | Distinct mercury-mining and lace tradition; uniqueness higher; Exclude full underground mine circuit; depth higher. Current benchmark profile checked. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.1 | Mining town streets and valley setting |
@@ -373,6 +393,8 @@
 | [Graz (AT)](../../../countries/AT/cities/graz.yaml) (8 / 7.9 / 8.2 / 8.2 / 7.9) | regional urban heritage | Historic alpine resort settlement; uniqueness higher; Exclude separately rated lake island castle and gorge; depth lower. Current benchmark profile checked. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.2 | Lakeside resort architecture and public promenades |
@@ -408,6 +430,8 @@
 | [Graz (AT)](../../../countries/AT/cities/graz.yaml) (8 / 7.9 / 8.2 / 8.2 / 7.9) | regional urban heritage | Regional mountain resort identity; uniqueness higher; Exclude ski terrain and surrounding national park; depth lower. Current benchmark profile checked. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 7.9 | Alpine village streets and mountain backdrop |
@@ -443,6 +467,8 @@
 | [Graz (AT)](../../../countries/AT/cities/graz.yaml) (8 / 7.9 / 8.2 / 8.2 / 7.9) | regional urban heritage | Soča regional gateway identity; uniqueness similar; Exclude river adventure and external waterfalls; depth lower. Current benchmark profile checked. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 7.8 | Compact alpine settlement and mountain backdrop |
@@ -478,6 +504,8 @@
 | [Graz (AT)](../../../countries/AT/cities/graz.yaml) (8 / 7.9 / 8.2 / 8.2 / 7.9) | regional urban heritage | Distinct small Adriatic fishing town; uniqueness higher; Compact settlement; depth lower. Current benchmark profile checked. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.2 | Fishing harbor and narrow historic lanes |
@@ -513,6 +541,8 @@
 | [Graz (AT)](../../../countries/AT/cities/graz.yaml) (8 / 7.9 / 8.2 / 8.2 / 7.9) | regional urban heritage | Distinct ridge-top civic settlement; uniqueness higher; Several town circuits; depth similar. Current benchmark profile checked. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.1 | Old streets above river canyons |
@@ -548,6 +578,8 @@
 | [Graz (AT)](../../../countries/AT/cities/graz.yaml) (8 / 7.9 / 8.2 / 8.2 / 7.9) | regional urban heritage | Distinct regional river-town fabric; uniqueness higher; Compact city excludes countryside; depth lower. Current benchmark profile checked. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.0 | River bend and hilltop historic streets |
@@ -583,6 +615,8 @@
 | [Graz (AT)](../../../countries/AT/cities/graz.yaml) (8 / 7.9 / 8.2 / 8.2 / 7.9) | regional urban heritage | Distinct compact Karst vernacular ensemble; uniqueness higher; Small village excludes wider karst; depth lower. Current benchmark profile checked. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.4 | Stone village and terraces on karst hill |
@@ -618,6 +652,8 @@
 | [Graz (AT)](../../../countries/AT/cities/graz.yaml) (8 / 7.9 / 8.2 / 8.2 / 7.9) | regional urban heritage | Distinct compact island town plan; uniqueness higher; Exclude external monastery galleries; depth lower. Current benchmark profile checked. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.1 | Small river-island settlement |
