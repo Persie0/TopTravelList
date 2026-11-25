@@ -3299,32 +3299,33 @@
 - Action: new
 - Precise subject: Guiana Amazonian National Park; No unrestricted park visit assumed.
 - Location check: 3.3, -53.3; approximate representative point, independent verification pending.
-- Evidence status: **unassessed**
+- Evidence status: **source-linked-unverified**
 - Evidence: [Office français de la biodiversité](https://ofb.gouv.fr/les-parcs-nationaux-de-france) — consulted 2026-11-25 for national park designation; claim-level verification outstanding.
+- Supplemental evidence (2026-11-25): https://parc-amazonien-guyane.fr/activites — Park authority documents marked trails around Saül and other visitor sectors; https://parc-amazonien-guyane.fr/fr/des-decouvertes/partir-la-decouverte/sejourner-dans-le-parc describes responsible tourism. https://parc-amazonien-guyane.fr/reglementation-en-zone-de-coeur establishes authorization and community restrictions for core access. Rating limited to documented ordinary visitor routes.
 - Missing or uncertain facts: precise coordinates, site-specific visitor conditions, material-claim corroboration and narrower peers.
 
 #### Worldwide peer comparisons
 | Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
 | --- | --- | --- |
-| [Jiuzhaigou (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) (9.8 / 9.7 / 9.4 / 9.8 / 9.1) | world-leading scenic landscape | Uniqueness lower: Distinct vast tropical forest ecosystems; depth unassessed: No unrestricted park visit assumed. Provisional scope comparison. |
-| [Hohe Tauern (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) (9.4 / 9.1 / 9 / 9.5 / 9.4) | extensive mountain park | Uniqueness higher: Distinct vast tropical forest ecosystems; depth unassessed: No unrestricted park visit assumed. Provisional scope comparison. |
-| [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (8.9 / 9 / 9 / 9.1 / 8.6) | protected wetland | Uniqueness higher: Distinct vast tropical forest ecosystems; depth unassessed: No unrestricted park visit assumed. Provisional scope comparison. |
-| [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional protected landscape | Uniqueness higher: Distinct vast tropical forest ecosystems; depth unassessed: No unrestricted park visit assumed. Provisional scope comparison. |
+| [Jiuzhaigou (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) (9.8 / 9.7 / 9.4 / 9.8 / 9.1) | world-leading scenic landscape | Uniqueness lower: Distinct vast tropical forest ecosystems; depth limited: No unrestricted park visit assumed. Provisional scope comparison. |
+| [Hohe Tauern (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) (9.4 / 9.1 / 9 / 9.5 / 9.4) | extensive mountain park | Uniqueness higher: Distinct vast tropical forest ecosystems; depth limited: No unrestricted park visit assumed. Provisional scope comparison. |
+| [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (8.9 / 9 / 9 / 9.1 / 8.6) | protected wetland | Uniqueness higher: Distinct vast tropical forest ecosystems; depth limited: No unrestricted park visit assumed. Provisional scope comparison. |
+| [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional protected landscape | Uniqueness higher: Distinct vast tropical forest ecosystems; depth limited: No unrestricted park visit assumed. Provisional scope comparison. |
 
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| Impact | — | null | Ordinary visitor impact across park not established |
+| Impact | — | 8.8 | Documented forest walks, river scenery and waterfall access |
 | Uniqueness | — | 9.2 | Distinct vast tropical forest ecosystems |
 | Significance | — | 9.3 | National and international biodiversity significance |
-| Experience | — | null | Access and Indigenous community permissions unresolved |
-| Depth | — | null | No unrestricted park visit assumed |
+| Experience | — | 8.3 | Designated visitor trails and locally permitted excursions only; core authorizations and community restrictions apply |
+| Depth | — | 8.6 | Several documented visitor sectors, not unrestricted park or Indigenous territories |
 
-- Applicable category scores: nature: 9.5, wildlife: 9.5.
-- Computed worldwide overall: unranked.
-- High-score challenge: nature 9.5: Distinct vast tropical forest ecosystems; wildlife 9.5: Distinct vast tropical forest ecosystems. Compare Jiuzhaigou and Hohe Tauern: the specific landform or ecosystem and visitor scope justify the named field; narrower views and restricted access are separately assessed..
+- Applicable category scores: nature: 9.5, wildlife: 9.2.
+- Computed worldwide overall: 89.05/100.
+- High-score challenge: nature 9.5 reflects vast protected tropical forest and biodiversity; ordinary visitor routes do not establish unrestricted wildlife sightings, so wildlife reduced to 9.2.
 - Approved 10 registry: none.
-- Final decision: Unranked pending ordinary visitor scope.
+- Final decision: provisional 89.05 limited to published permitted visitor sectors; protected core and customary community access restrictions explicitly retained.
 - Earlier decision: none.
 - Verification still needed: independent factual support, access and closer same-type comparisons.
 
@@ -3369,8 +3370,8 @@
 - Action: new
 - Precise subject: Eiffel Tower; Single monument not entire Paris.
 - Location check: 48.8584, 2.2945; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Explore France](https://www.france.fr/en/destination/) — consulted 2026-11-25 for destination identity or broad tourism context; claim-level verification outstanding.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.toureiffel.paris/en/faq/getting-tower/how-long-does-visit-take — Operator recommends 1.5 hours for lower platforms and 2.5 hours for summit visit including movement and queues; one tower, not the entire city. Reviewed 2026-11-25; partial evidence, not full independent material-claim verification.
 - Missing or uncertain facts: precise coordinates, site-specific visitor conditions, material-claim corroboration and narrower peers.
 
 #### Worldwide peer comparisons
@@ -3388,13 +3389,13 @@
 | Uniqueness | — | 9.6 | Rare internationally recognizable engineering silhouette |
 | Significance | — | 9.4 | International industrial and architectural history |
 | Experience | — | 9.2 | Managed tower platforms and views |
-| Depth | — | 8.6 | Single monument not entire Paris |
+| Depth | — | 8.2 | Three managed viewing levels; ordinary visit duration includes queues and lifts, not independent urban attractions |
 
 - Applicable category scores: architecture: 9.6, photography: 9.7, history: 9.3.
-- Computed worldwide overall: 93.70/100.
-- High-score challenge: Impact 9.5: Distinct iron tower and expansive urban views; Uniqueness 9.6: Rare internationally recognizable engineering silhouette; architecture 9.6: Distinct iron tower and expansive urban views; photography 9.7: Distinct iron tower and expansive urban views. 90+ total: Distinct iron tower and expansive urban views; Rare internationally recognizable engineering silhouette; Single monument not entire Paris. Compare Schönbrunn and Hohensalzburg: the specified architecture, historic context and visitor breadth are independently assessed. Closer same-type benchmarks remain necessary..
+- Computed worldwide overall: 93.30/100.
+- High-score challenge: Impact 9.5, uniqueness 9.6, architecture 9.6 and photography 9.7 reflect distinctive iron engineering and internationally recognized city panorama. Compared with large estates, depth is much narrower; ordinary operator visit includes transfers and queues. No citywide breadth inherited.
 - Approved 10 registry: none.
-- Final decision: Provisional editorial rating: Rare internationally recognizable engineering silhouette; Single monument not entire Paris.
+- Final decision: 93.30 after bounded platform visitor-scope review.
 - Earlier decision: none.
 - Verification still needed: independent factual support, access and closer same-type comparisons.
 
@@ -3404,8 +3405,8 @@
 - Action: new
 - Precise subject: Notre-Dame Cathedral Paris; One cathedral.
 - Location check: 48.853, 2.35; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Explore France](https://www.france.fr/en/destination/) — consulted 2026-11-25 for destination identity or broad tourism context; claim-level verification outstanding.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.notredamedeparis.fr/en/qa/?_filtres_faq_boutons_en=visit — Cathedral operator documents reopened ordinary public route and guided interpretation. Reviewed 2026-11-25; partial evidence, not full independent material-claim verification.
 - Missing or uncertain facts: precise coordinates, site-specific visitor conditions, material-claim corroboration and narrower peers.
 
 #### Worldwide peer comparisons
@@ -3439,8 +3440,8 @@
 - Action: new
 - Precise subject: Musée d'Orsay; One museum and its collections.
 - Location check: 48.86, 2.326; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: No destination-specific source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.musee-orsay.fr/en/visit — Operator identifies admission and gallery scope; https://www.musee-orsay.fr/en/collections documents collections. Reviewed 2026-11-25; partial evidence, not full independent material-claim verification.
 - Missing or uncertain facts: precise coordinates, site-specific visitor conditions, material-claim corroboration and narrower peers.
 
 #### Worldwide peer comparisons
@@ -3474,8 +3475,8 @@
 - Action: new
 - Precise subject: Château de Chambord; One estate within Loire landscape.
 - Location check: 47.616, 1.517; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: No destination-specific source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.chambord.org/en/programme/visite-guidee/guided-tour-of-the-castle-discovery-tour-1-hour-30-minutes — Operator documents optional 90-minute tour with normally off-limits areas; no ordinary access to every room assumed. Reviewed 2026-11-25; partial evidence, not full independent material-claim verification.
 - Missing or uncertain facts: precise coordinates, site-specific visitor conditions, material-claim corroboration and narrower peers.
 
 #### Worldwide peer comparisons
@@ -3509,8 +3510,8 @@
 - Action: new
 - Precise subject: Château de Chenonceau; One estate.
 - Location check: 47.325, 1.07; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: No destination-specific source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.chenonceau.com/en/practical-information/opening-times/ — Operator confirms castle and garden admission. Reviewed 2026-11-25; partial evidence, not full independent material-claim verification.
 - Missing or uncertain facts: precise coordinates, site-specific visitor conditions, material-claim corroboration and narrower peers.
 
 #### Worldwide peer comparisons
@@ -3544,8 +3545,8 @@
 - Action: new
 - Precise subject: Gorges du Verdon; Named gorge not unrestricted river access.
 - Location check: 43.77, 6.37; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: No destination-specific source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.navette.parcduverdon.fr/en/ — Park shuttle documents maintained hiking access including Blanc-Martel trail. Reviewed 2026-11-25; partial evidence, not full independent material-claim verification.
 - Missing or uncertain facts: precise coordinates, site-specific visitor conditions, material-claim corroboration and narrower peers.
 
 #### Worldwide peer comparisons
@@ -3579,8 +3580,8 @@
 - Action: new
 - Precise subject: Dune du Pilat; Single dune and immediate viewpoints.
 - Location check: 44.59, -1.214; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: No destination-specific source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://ladunedupilat.com/en/the-dune-is-accessible-to-the-public/ — Site authority confirms public access and nature observation. Reviewed 2026-11-25; partial evidence, not full independent material-claim verification.
 - Missing or uncertain facts: precise coordinates, site-specific visitor conditions, material-claim corroboration and narrower peers.
 
 #### Worldwide peer comparisons
@@ -3614,8 +3615,8 @@
 - Action: new
 - Precise subject: Étretat chalk cliffs; Defined cliff landscape.
 - Location check: 49.71, 0.2; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: No destination-specific source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.lehavre-etretat-tourisme.com/en/discover/the-essentials/discover-etretat/the-cliffs-of-etretat/ — Local tourism authority documents cliff scenery and prohibited tunnels and restricted sections. Reviewed 2026-11-25; partial evidence, not full independent material-claim verification.
 - Missing or uncertain facts: precise coordinates, site-specific visitor conditions, material-claim corroboration and narrower peers.
 
 #### Worldwide peer comparisons
@@ -3649,8 +3650,8 @@
 - Action: new
 - Precise subject: Aiguille du Midi visitor complex; Visitor complex not whole massif.
 - Location check: 45.879, 6.887; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: No destination-specific source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://aiguilledumidi.montblancnaturalresort.com/en/frequently-asked-questions — Operator gives 2–3 hour average visit including transport; https://aiguilledumidi.montblancnaturalresort.com/en/activites-et-restaurants describes platforms and interpretation, not unrestricted glacier travel. Reviewed 2026-11-25; partial evidence, not full independent material-claim verification.
 - Missing or uncertain facts: precise coordinates, site-specific visitor conditions, material-claim corroboration and narrower peers.
 
 #### Worldwide peer comparisons
@@ -3684,8 +3685,8 @@
 - Action: new
 - Precise subject: Cirque de Gavarnie; Named cirque only.
 - Location check: 42.7, -0.007; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: No destination-specific source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.visit-occitanie.com/en/discovering/unesco-classified-sites/cirque-de-gavarnie/ — Regional tourism authority confirms accessible approach to cirque; neighboring cirques not included. Reviewed 2026-11-25; partial evidence, not full independent material-claim verification.
 - Missing or uncertain facts: precise coordinates, site-specific visitor conditions, material-claim corroboration and narrower peers.
 
 #### Worldwide peer comparisons
@@ -3719,8 +3720,8 @@
 - Action: new
 - Precise subject: Grotte Chauvet 2 visitor replica; Replica only not original protected cave.
 - Location check: 44.405, 4.432; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: No destination-specific source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://en.grottechauvet2ardeche.com/discover-the-site/ — Operator identifies replica, learning spaces and wooded grounds; original protected cave excluded. Reviewed 2026-11-25; partial evidence, not full independent material-claim verification.
 - Missing or uncertain facts: precise coordinates, site-specific visitor conditions, material-claim corroboration and narrower peers.
 
 #### Worldwide peer comparisons

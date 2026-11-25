@@ -11,6 +11,7 @@
 - Location check: 48.8566, 2.3522; approximate representative point, independent verification pending.
 - Evidence status: **source-linked-unverified**
 - Evidence: [Explore France](https://www.france.fr/en/destination/) — consulted 2026-11-25 for destination identity or broad tourism context; claim-level verification outstanding.
+- Supplemental evidence (2026-11-25): https://parisjetaime.com/eng/paris-by-district/paris-walks-districts-i123 — Official city tourism authority identifies many independent cultural neighborhoods, museums and public spaces; external municipalities excluded.
 - Missing or uncertain facts: precise coordinates, site-specific visitor conditions, material-claim corroboration and narrower peers.
 
 #### Worldwide peer comparisons
@@ -153,8 +154,8 @@
 - Action: new
 - Precise subject: Nice; Several urban districts not whole Riviera.
 - Location check: 43.7102, 7.262; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Explore France](https://www.france.fr/en/destination/) — consulted 2026-11-25 for destination identity or broad tourism context; claim-level verification outstanding.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.france.fr/en/destination/nice/ — National tourism profile documents Chagall museum, Orthodox cathedral and urban heritage. Reviewed 2026-11-25; partial evidence, not full independent material-claim verification.
 - Missing or uncertain facts: precise coordinates, site-specific visitor conditions, material-claim corroboration and narrower peers.
 
 #### Worldwide peer comparisons
@@ -189,8 +190,8 @@
 - Action: new
 - Precise subject: Marseille; Many independent districts excluding Calanques.
 - Location check: 43.2965, 5.3698; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Explore France](https://www.france.fr/en/destination/) — consulted 2026-11-25 for destination identity or broad tourism context; claim-level verification outstanding.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.france.fr/en/destination/marseille/ — National tourism profile identifies historic city; Calanques and offshore excursions excluded. Reviewed 2026-11-25; partial evidence, not full independent material-claim verification.
 - Missing or uncertain facts: precise coordinates, site-specific visitor conditions, material-claim corroboration and narrower peers.
 
 #### Worldwide peer comparisons
@@ -261,8 +262,8 @@
 - Action: new
 - Precise subject: Annecy; Exclude entire lake and mountain excursions.
 - Location check: 45.899, 6.129; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: No destination-specific source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://en.lac-annecy.com/course-thematic-walk/historical-discovery-of-the-old-town-annecy/ — Local tourism office documents historic town walking route. Reviewed 2026-11-25; partial evidence, not full independent material-claim verification.
 - Missing or uncertain facts: precise coordinates, site-specific visitor conditions, material-claim corroboration and narrower peers.
 
 #### Worldwide peer comparisons
@@ -297,8 +298,8 @@
 - Action: new
 - Precise subject: Colmar; Compact city not wider wine route.
 - Location check: 48.08, 7.36; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: No destination-specific source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.tourisme-colmar.com/en/visit — Local tourism office identifies urban heritage; surrounding wine country excluded. Reviewed 2026-11-25; partial evidence, not full independent material-claim verification.
 - Missing or uncertain facts: precise coordinates, site-specific visitor conditions, material-claim corroboration and narrower peers.
 
 #### Worldwide peer comparisons
@@ -333,8 +334,8 @@
 - Action: new
 - Precise subject: Toulouse; Multiple districts.
 - Location check: 43.6045, 1.444; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: No destination-specific source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.france.fr/en/article/what-to-do-toulouse/ — National tourism authority identifies Saint-Sernin and cultural attractions. Reviewed 2026-11-25; partial evidence, not full independent material-claim verification.
 - Missing or uncertain facts: precise coordinates, site-specific visitor conditions, material-claim corroboration and narrower peers.
 
 #### Worldwide peer comparisons
@@ -369,8 +370,8 @@
 - Action: new
 - Precise subject: Nantes; Several urban districts.
 - Location check: 47.2184, -1.5536; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: No destination-specific source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.france.fr/en/article/nantes-que-faire-que-voir/ — National tourism profile identifies natural history museum and varied visitor attractions. Reviewed 2026-11-25; partial evidence, not full independent material-claim verification.
 - Missing or uncertain facts: precise coordinates, site-specific visitor conditions, material-claim corroboration and narrower peers.
 
 #### Worldwide peer comparisons
@@ -513,8 +514,8 @@
 - Action: new
 - Precise subject: Dijon; Exclude rural vineyards.
 - Location check: 47.322, 5.0415; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: No destination-specific source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.destinationdijon.com/en/destination-dijon-metropole/dijon-capital-of-burgundy/ — Tourism authority identifies historic pedestrian centre and gastronomy institutions. Reviewed 2026-11-25; partial evidence, not full independent material-claim verification.
 - Missing or uncertain facts: precise coordinates, site-specific visitor conditions, material-claim corroboration and narrower peers.
 
 #### Worldwide peer comparisons
@@ -549,8 +550,8 @@
 - Action: new
 - Precise subject: Saint-Malo; Town not surrounding islands.
 - Location check: 48.6493, -2.0257; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: No destination-specific source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.saint-malo-tourisme.co.uk/our-8-preserved-treasures/saint-malo-le-bijou-corsaire/tour-the-ramparts-of-saint-malo/ — Local tourism office documents ramparts walking circuit and beach access. Reviewed 2026-11-25; partial evidence, not full independent material-claim verification.
 - Missing or uncertain facts: precise coordinates, site-specific visitor conditions, material-claim corroboration and narrower peers.
 
 #### Worldwide peer comparisons
@@ -657,8 +658,8 @@
 - Action: new
 - Precise subject: Aix-en-Provence; Exclude Sainte-Victoire.
 - Location check: 43.5297, 5.4474; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: No destination-specific source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.aix.fr/incontournables/ — City guide identifies Cours Mirabeau, historic squares and Saint-Sauveur walking route; independent official-operator confirmation outstanding. Reviewed 2026-11-25; partial evidence, not full independent material-claim verification.
 - Missing or uncertain facts: precise coordinates, site-specific visitor conditions, material-claim corroboration and narrower peers.
 
 #### Worldwide peer comparisons
@@ -765,8 +766,8 @@
 - Action: new
 - Precise subject: Chamonix-Mont-Blanc; Exclude cableways peaks and remote trails.
 - Location check: 45.9237, 6.8694; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: No destination-specific source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.tourisme-haute-savoie.com/en/the-main-cities-of-haute-savoie/chamonix/ — Regional guide documents town church, chalets and mountaineering heritage; independent mountain excursions excluded. Reviewed 2026-11-25; partial evidence, not full independent material-claim verification.
 - Missing or uncertain facts: precise coordinates, site-specific visitor conditions, material-claim corroboration and narrower peers.
 
 #### Worldwide peer comparisons
@@ -801,8 +802,8 @@
 - Action: new
 - Precise subject: Bonifacio; Town not entire strait.
 - Location check: 41.387, 9.16; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: No destination-specific source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://bonifacio.co.uk/discover/bonifacio-town-of-art-and-history/ — Local tourism authority identifies citadel, religious sites and town interpretation. Reviewed 2026-11-25; partial evidence, not full independent material-claim verification.
 - Missing or uncertain facts: precise coordinates, site-specific visitor conditions, material-claim corroboration and narrower peers.
 
 #### Worldwide peer comparisons
@@ -873,8 +874,8 @@
 - Action: new
 - Precise subject: Amiens; Several districts.
 - Location check: 49.894, 2.295; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: No destination-specific source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.amiens-tourisme.com/en/activite/quartier-saint-leu-damiens/ — Local tourism office identifies historic Saint-Leu quarter and cathedral setting. Reviewed 2026-11-25; partial evidence, not full independent material-claim verification.
 - Missing or uncertain facts: precise coordinates, site-specific visitor conditions, material-claim corroboration and narrower peers.
 
 #### Worldwide peer comparisons
