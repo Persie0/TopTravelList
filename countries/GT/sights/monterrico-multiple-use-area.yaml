@@ -1,0 +1,16 @@
+id: sight-gt-monterrico-multiple-use-area
+name: "Monterrico Multiple Use Area"
+location:
+  country_code: GT
+  latitude: 13.902
+  longitude: -90.480
+scores:
+  impact: 8.0
+  uniqueness: 8.3
+  significance: 8.2
+  experience: 8.3
+  depth: 7.8
+  categories:
+    nature: 8.9
+    wildlife: 8.9
+    photography: 8.7

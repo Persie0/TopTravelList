@@ -1,0 +1,17 @@
+id: city-gt-antigua-guatemala
+name: "Antigua Guatemala"
+location:
+  country_code: GT
+  latitude: 14.557
+  longitude: -90.734
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 9.1
+  experience: 9.0
+  depth: 8.8
+  categories:
+    architecture: 9.3
+    history: 9.2
+    culture: 9.1
+    photography: 9.4
