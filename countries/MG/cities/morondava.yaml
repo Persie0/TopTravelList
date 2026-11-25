@@ -1,0 +1,15 @@
+id: city-mg-morondava
+name: "Morondava"
+location:
+  country_code: MG
+  latitude: -20.2833
+  longitude: 44.2833
+scores:
+  impact: 7.7
+  uniqueness: 8.0
+  significance: 7.5
+  experience: 8.2
+  depth: 7.5
+  categories:
+    culture: 8.4
+    beaches: 8.2

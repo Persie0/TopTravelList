@@ -1,0 +1,16 @@
+id: city-mg-fianarantsoa
+name: "Fianarantsoa"
+location:
+  country_code: MG
+  latitude: -21.453
+  longitude: 47.086
+scores:
+  impact: 8.2
+  uniqueness: 8.6
+  significance: 8.4
+  experience: 8.3
+  depth: 8.0
+  categories:
+    architecture: 8.8
+    history: 8.7
+    culture: 8.6
