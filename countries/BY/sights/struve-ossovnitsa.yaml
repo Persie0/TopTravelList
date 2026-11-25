@@ -1,0 +1,14 @@
+id: sight-by-struve-ossovnitsa
+name: "Struve Geodetic Arc – Ossovnitsa"
+location:
+  country_code: BY
+  latitude: 52.289444
+  longitude: 25.649444
+scores:
+  impact: null
+  uniqueness: 8.5
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    history: 9.1

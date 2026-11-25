@@ -1,0 +1,16 @@
+id: sight-ua-kamianets-canyon
+name: "Cultural Landscape of Canyon in Kamianets-Podilskyi"
+location:
+  country_code: UA
+  latitude: 48.674
+  longitude: 26.573
+scores:
+  impact: 9.2
+  uniqueness: 9.2
+  significance: 8.9
+  experience: 8.9
+  depth: 8.8
+  categories:
+    architecture: 9.4
+    photography: 9.5
+    history: 9.2

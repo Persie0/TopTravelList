@@ -1,0 +1,16 @@
+id: sight-pl-wawel
+name: "Wawel Royal Castle and Cathedral"
+location:
+  country_code: PL
+  latitude: 50.054
+  longitude: 19.936
+scores:
+  impact: 9.2
+  uniqueness: 9.1
+  significance: 9.4
+  experience: 9.1
+  depth: 9.2
+  categories:
+    architecture: 9.4
+    history: 9.4
+    culture: 9.3

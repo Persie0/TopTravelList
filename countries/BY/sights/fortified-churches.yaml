@@ -1,0 +1,15 @@
+id: sight-by-fortified-churches
+name: "Fortress-type churches of Belarus (tentative serial property)"
+location:
+  country_code: BY
+  latitude: 53.68
+  longitude: 25.18
+scores:
+  impact: 8.5
+  uniqueness: 8.9
+  significance: 9.0
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.2
+    history: 9.1

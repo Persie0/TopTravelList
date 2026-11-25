@@ -1,0 +1,17 @@
+id: sight-mx-san-miguel-conca-mission
+name: "Mission of San Miguel Concá"
+location:
+  country_code: MX
+  latitude: 21.444694
+  longitude: -99.636944
+scores:
+  impact: 8.0
+  uniqueness: 8.7
+  significance: 8.7
+  experience: 8.0
+  depth: 7.3
+  categories:
+    architecture: 8.9
+    history: 8.9
+    culture: 8.9
+    photography: 8.7

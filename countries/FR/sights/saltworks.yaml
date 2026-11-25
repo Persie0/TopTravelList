@@ -1,0 +1,15 @@
+id: sight-fr-saltworks
+name: "Salins-les-Bains and Arc-et-Senans Saltworks"
+location:
+  country_code: FR
+  latitude: 47.03
+  longitude: 5.78
+scores:
+  impact: 8.7
+  uniqueness: 9.1
+  significance: 9.3
+  experience: 8.8
+  depth: 8.8
+  categories:
+    architecture: 9.3
+    history: 9.4

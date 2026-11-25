@@ -1,0 +1,16 @@
+id: city-fr-sarlat
+name: "Sarlat-la-Canéda"
+location:
+  country_code: FR
+  latitude: 44.89
+  longitude: 1.216
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 8.5
+  experience: 8.8
+  depth: 7.9
+  categories:
+    architecture: 9.3
+    photography: 9.3
+    food: 9.0

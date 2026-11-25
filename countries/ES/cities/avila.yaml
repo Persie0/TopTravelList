@@ -1,0 +1,15 @@
+id: city-es-avila
+name: "Ávila"
+location:
+  country_code: ES
+  latitude: 40.6565
+  longitude: -4.681
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 8.8
+  experience: 8.6
+  depth: 8.0
+  categories:
+    architecture: 9.3
+    history: 9.2

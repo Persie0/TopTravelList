@@ -1,0 +1,15 @@
+id: sight-it-medici-villas
+name: "Medici Villas and Gardens in Tuscany"
+location:
+  country_code: IT
+  latitude: 43.85
+  longitude: 11.15
+scores:
+  impact: 9.0
+  uniqueness: 9.1
+  significance: 9.3
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.5
+    history: 9.4

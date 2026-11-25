@@ -1,0 +1,16 @@
+id: sight-de-black-forest
+name: "Black Forest National Park"
+location:
+  country_code: DE
+  latitude: 48.56
+  longitude: 8.22
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 8.7
+  experience: 8.8
+  depth: 8.9
+  categories:
+    nature: 9.2
+    photography: 9.1
+    adventure: 9.0

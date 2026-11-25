@@ -1,0 +1,15 @@
+id: sight-it-pompeii-ensemble
+name: "Archaeological Areas of Pompeii Herculaneum and Torre Annunziata"
+location:
+  country_code: IT
+  latitude: 40.75
+  longitude: 14.49
+scores:
+  impact: 9.6
+  uniqueness: 9.7
+  significance: 9.7
+  experience: 9.2
+  depth: 9.6
+  categories:
+    history: 9.9
+    architecture: 9.5

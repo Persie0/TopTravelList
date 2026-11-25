@@ -1,0 +1,16 @@
+id: city-pl-warsaw
+name: "Warsaw"
+location:
+  country_code: PL
+  latitude: 52.2297
+  longitude: 21.0122
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 9.3
+  experience: 9.1
+  depth: 9.5
+  categories:
+    history: 9.4
+    culture: 9.3
+    architecture: 9.1

@@ -1,0 +1,15 @@
+id: sight-cf-lengo-rock-engravings
+name: "Lengo Rock Engravings"
+location:
+  country_code: CF
+  latitude: 5.70
+  longitude: 22.85
+scores:
+  impact: null
+  uniqueness: 8.8
+  significance: 9.0
+  experience: null
+  depth: null
+  categories:
+    history: 9.3
+    culture: 8.9

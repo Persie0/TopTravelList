@@ -1,0 +1,16 @@
+id: city-it-milan
+name: "Milan"
+location:
+  country_code: IT
+  latitude: 45.4642
+  longitude: 9.19
+scores:
+  impact: 9.0
+  uniqueness: 8.9
+  significance: 9.2
+  experience: 9.2
+  depth: 9.4
+  categories:
+    architecture: 9.4
+    culture: 9.5
+    food: 9.1

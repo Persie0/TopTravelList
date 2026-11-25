@@ -1,0 +1,15 @@
+id: sight-pl-lazienki
+name: "Royal Łazienki Park and Palace on the Isle"
+location:
+  country_code: PL
+  latitude: 52.215
+  longitude: 21.035
+scores:
+  impact: 8.9
+  uniqueness: 8.7
+  significance: 8.8
+  experience: 9.0
+  depth: 8.9
+  categories:
+    architecture: 9.1
+    relaxation: 9.3

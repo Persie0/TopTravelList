@@ -1,0 +1,17 @@
+id: sight-er-qoahito-cultural-landscape
+name: "Qoahito Cultural Landscape"
+location:
+  country_code: ER
+  latitude: 14.82
+  longitude: 39.40
+scores:
+  impact: 8.7
+  uniqueness: 9.0
+  significance: 9.3
+  experience: 8.2
+  depth: 8.7
+  categories:
+    history: 9.4
+    nature: 9.1
+    culture: 9.0
+    photography: 9.2

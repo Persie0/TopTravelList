@@ -1,0 +1,15 @@
+id: sight-ua-potelych-tserkva
+name: "Descent of the Holy Spirit Tserkva, Potelych"
+location:
+  country_code: UA
+  latitude: 50.208611
+  longitude: 23.550833
+scores:
+  impact: 8.4
+  uniqueness: 9.0
+  significance: 9.1
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.3
+    history: 9.2

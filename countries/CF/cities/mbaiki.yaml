@@ -1,0 +1,14 @@
+id: city-cf-mbaiki
+name: "Mbaïki"
+location:
+  country_code: CF
+  latitude: 3.87
+  longitude: 18.00
+scores:
+  impact: null
+  uniqueness: 7.1
+  significance: 6.9
+  experience: null
+  depth: null
+  categories:
+    culture: 7.7

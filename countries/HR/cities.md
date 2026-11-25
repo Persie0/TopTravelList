@@ -2,7 +2,7 @@
 
 # Croatia (HR) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**22 ranked** · **0 unassessed** · **22 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,32 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (22)
 
-No cities, towns & villages have been assessed for **Croatia** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Dubrovnik](cities/dubrovnik.yaml) | City / town | **92.70** | **Architecture 9.6**, **Photography 9.6**, **History 9.4**, Culture 9.1 | 9.4 / 9.4 / 9.2 / 9.2 / 8.8 | [42.6507, 18.0944](https://www.google.com/maps/search/?api=1&query=42.6507,18.0944) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Dubrovnik%2C%20Croatia) |
+| 2 | [Split](cities/split.yaml) | City / town | **91.85** | **History 9.5**, **Architecture 9.4**, **Culture 9.2** | 9.1 / 9.3 / 9.2 / 9.2 / 9.1 | [43.5081, 16.4402](https://www.google.com/maps/search/?api=1&query=43.5081,16.4402) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Split%2C%20Croatia) |
+| 3 | [Trogir](cities/trogir.yaml) | City / town | **88.50** | **Architecture 9.4**, **History 9.3**, **Photography 9.2** | 8.9 / 9.0 / 9.0 / 8.8 / 8.1 | [43.5164, 16.251](https://www.google.com/maps/search/?api=1&query=43.5164,16.251) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Trogir%2C%20Croatia) |
+| 4 | [Zadar](cities/zadar.yaml) | City / town | **88.20** | **History 9.2**, **Architecture 9.1**, **Photography 9.1** | 8.8 / 8.8 / 8.9 / 9.0 / 8.5 | [44.1194, 15.2314](https://www.google.com/maps/search/?api=1&query=44.1194,15.2314) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Zadar%2C%20Croatia) |
+| 5 | [Rovinj](cities/rovinj.yaml) | City / town | **87.95** | **Photography 9.4**, **Architecture 9.2**, **Relaxation 9.0** | 9.0 / 8.9 / 8.5 / 9.0 / 8.2 | [45.0812, 13.6387](https://www.google.com/maps/search/?api=1&query=45.0812,13.6387) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Rovinj%2C%20Croatia) |
+| 6 | [Šibenik](cities/sibenik.yaml) | City / town | **87.70** | **Architecture 9.3**, **History 9.2**, **Photography 9.1** | 8.8 / 8.8 / 8.9 / 8.8 / 8.3 | [43.735, 15.895](https://www.google.com/maps/search/?api=1&query=43.735,15.895) | [Google Maps](https://www.google.com/maps/search/?api=1&query=%C5%A0ibenik%2C%20Croatia) |
+| 7 | [Korčula](cities/korcula.yaml) | City / town | **86.95** | **Architecture 9.2**, **Photography 9.2**, **History 9.0** | 8.8 / 8.9 / 8.6 / 8.8 / 7.9 | [42.961, 17.135](https://www.google.com/maps/search/?api=1&query=42.961,17.135) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kor%C4%8Dula%2C%20Croatia) |
+| 7 | [Pula](cities/pula.yaml) | City / town | **86.95** | **History 9.4**, **Architecture 9.1**, **Culture 8.9** | 8.6 / 8.6 / 9.0 / 8.7 / 8.6 | [44.8666, 13.8496](https://www.google.com/maps/search/?api=1&query=44.8666,13.8496) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Pula%2C%20Croatia) |
+| 9 | [Hvar](cities/hvar.yaml) | City / town | **86.75** | **Photography 9.2**, **Architecture 9.0**, **Nightlife 9.0** | 8.8 / 8.7 / 8.5 / 9.0 / 8.1 | [43.172, 16.443](https://www.google.com/maps/search/?api=1&query=43.172,16.443) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hvar%2C%20Croatia) |
+| 10 | [Zagreb](cities/zagreb.yaml) | City / town | **86.70** | **Culture 9.2**, **Architecture 9.0**, **History 9.0** | 8.5 / 8.5 / 8.8 / 8.9 / 9.0 | [45.815, 15.9819](https://www.google.com/maps/search/?api=1&query=45.815,15.9819) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Zagreb%2C%20Croatia) |
+| 11 | [Rab town](cities/rab.yaml) | Town | **85.70** | **Architecture 9.2**, **Photography 9.2**, **History 8.9** | 8.7 / 8.7 / 8.5 / 8.7 / 7.8 | [44.756, 14.76](https://www.google.com/maps/search/?api=1&query=44.756,14.76) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Rab%20town%2C%20Croatia) |
+| 12 | [Poreč](cities/porec.yaml) | City / town | **85.65** | **History 9.2**, **Architecture 9.1**, **Relaxation 8.8** | 8.5 / 8.6 / 8.8 / 8.7 / 8.0 | [45.226, 13.595](https://www.google.com/maps/search/?api=1&query=45.226,13.595) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Pore%C4%8D%2C%20Croatia) |
+| 13 | [Varaždin](cities/varazdin.yaml) | City / town | **85.30** | **Architecture 9.2**, **History 8.9**, **Culture 8.8** | 8.5 / 8.6 / 8.6 / 8.6 / 8.2 | [46.306, 16.337](https://www.google.com/maps/search/?api=1&query=46.306,16.337) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Vara%C5%BEdin%2C%20Croatia) |
+| 14 | [Stari Grad](cities/stari-grad.yaml) | City / town | **85.00** | **History 9.2**, **Architecture 8.9**, **Relaxation 8.7** | 8.4 / 8.6 / 8.8 / 8.6 / 7.8 | [43.184, 16.597](https://www.google.com/maps/search/?api=1&query=43.184,16.597) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Stari%20Grad%2C%20Croatia) |
+| 15 | [Motovun](cities/motovun.yaml) | City / town | **84.50** | **Photography 9.2**, **Architecture 9.0**, **Food 8.8** | 8.7 / 8.7 / 8.2 / 8.5 / 7.5 | [45.337, 13.829](https://www.google.com/maps/search/?api=1&query=45.337,13.829) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Motovun%2C%20Croatia) |
+| 16 | [Cavtat](cities/cavtat.yaml) | City / town | **83.95** | **Photography 9.0**, **Relaxation 9.0**, **Architecture 8.8** | 8.5 / 8.4 / 8.3 / 8.7 / 7.8 | [42.582, 18.218](https://www.google.com/maps/search/?api=1&query=42.582,18.218) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cavtat%2C%20Croatia) |
+| 17 | [Krk town](cities/krk.yaml) | Town | **83.90** | **Architecture 8.9**, **History 8.9** | 8.4 / 8.4 / 8.5 / 8.6 / 7.8 | [45.025, 14.575](https://www.google.com/maps/search/?api=1&query=45.025,14.575) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Krk%20town%2C%20Croatia) |
+| 17 | [Rijeka](cities/rijeka.yaml) | City / town | **83.90** | **Culture 8.9**, **History 8.9**, **Architecture 8.7** | 8.1 / 8.3 / 8.6 / 8.7 / 8.6 | [45.327, 14.442](https://www.google.com/maps/search/?api=1&query=45.327,14.442) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Rijeka%2C%20Croatia) |
+| 19 | [Ston](cities/ston.yaml) | City / town | **83.85** | **History 9.0**, **Architecture 8.9**, **Food 8.8** | 8.4 / 8.6 / 8.6 / 8.3 / 7.5 | [42.839, 17.696](https://www.google.com/maps/search/?api=1&query=42.839,17.696) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ston%2C%20Croatia) |
+| 20 | [Osijek](cities/osijek.yaml) | City / town | **83.75** | **Architecture 8.9**, **History 8.9**, **Culture 8.7** | 8.2 / 8.3 / 8.5 / 8.6 / 8.5 | [45.555, 18.695](https://www.google.com/maps/search/?api=1&query=45.555,18.695) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Osijek%2C%20Croatia) |
+| 21 | [Vukovar](cities/vukovar.yaml) | City / town | **82.70** | **History 9.3**, **Culture 8.7** | 8.0 / 8.2 / 8.9 / 8.2 / 8.1 | [45.35, 19.003](https://www.google.com/maps/search/?api=1&query=45.35,19.003) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Vukovar%2C%20Croatia) |
+| 22 | [Makarska](cities/makarska.yaml) | City / town | **82.50** | **Beaches 8.9**, **Photography 8.9**, **Relaxation 8.9** | 8.4 / 8.2 / 7.8 / 8.8 / 8.0 | [43.296, 17.02](https://www.google.com/maps/search/?api=1&query=43.296,17.02) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Makarska%2C%20Croatia) |
 
 ---
 

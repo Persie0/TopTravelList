@@ -1,0 +1,16 @@
+id: sight-hr-zlatni-rat
+name: "Zlatni Rat beach"
+location:
+  country_code: HR
+  latitude: 43.256
+  longitude: 16.634
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 8.0
+  experience: 9.0
+  depth: 7.8
+  categories:
+    beaches: 9.5
+    photography: 9.4
+    relaxation: 9.0

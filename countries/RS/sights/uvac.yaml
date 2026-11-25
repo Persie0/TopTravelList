@@ -1,0 +1,16 @@
+id: sight-rs-uvac
+name: "Uvac River Gorge and reserve"
+location:
+  country_code: RS
+  latitude: 43.42
+  longitude: 19.94
+scores:
+  impact: 9.2
+  uniqueness: 9.2
+  significance: 8.7
+  experience: 9.0
+  depth: 8.8
+  categories:
+    nature: 9.4
+    photography: 9.5
+    wildlife: 9.3

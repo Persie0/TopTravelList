@@ -1,0 +1,15 @@
+id: sight-rs-st-peters-church
+name: "Church of St Peter and Paul near Novi Pazar"
+location:
+  country_code: RS
+  latitude: 43.156
+  longitude: 20.527
+scores:
+  impact: 8.3
+  uniqueness: 8.9
+  significance: 9.1
+  experience: 8.3
+  depth: 7.5
+  categories:
+    architecture: 9.1
+    history: 9.3

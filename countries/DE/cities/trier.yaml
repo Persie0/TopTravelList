@@ -1,0 +1,15 @@
+id: city-de-trier
+name: "Trier"
+location:
+  country_code: DE
+  latitude: 49.756
+  longitude: 6.641
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 9.2
+  experience: 8.7
+  depth: 8.5
+  categories:
+    history: 9.4
+    architecture: 9.2

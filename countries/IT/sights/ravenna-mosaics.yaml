@@ -1,0 +1,16 @@
+id: sight-it-ravenna-mosaics
+name: "Early Christian Monuments of Ravenna"
+location:
+  country_code: IT
+  latitude: 44.42
+  longitude: 12.2
+scores:
+  impact: 9.3
+  uniqueness: 9.5
+  significance: 9.6
+  experience: 9.0
+  depth: 9.2
+  categories:
+    culture: 9.7
+    architecture: 9.6
+    history: 9.6

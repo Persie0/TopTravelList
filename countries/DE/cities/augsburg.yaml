@@ -1,0 +1,15 @@
+id: city-de-augsburg
+name: "Augsburg"
+location:
+  country_code: DE
+  latitude: 48.37
+  longitude: 10.898
+scores:
+  impact: 8.5
+  uniqueness: 8.6
+  significance: 8.9
+  experience: 8.7
+  depth: 8.5
+  categories:
+    architecture: 9.1
+    history: 9.2

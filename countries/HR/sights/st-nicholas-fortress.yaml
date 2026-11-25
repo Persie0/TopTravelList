@@ -1,0 +1,16 @@
+id: sight-hr-st-nicholas-fortress
+name: "St Nicholas Fortress, Šibenik"
+location:
+  country_code: HR
+  latitude: 43.72
+  longitude: 15.856
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 9.1
+  experience: 8.6
+  depth: 7.9
+  categories:
+    architecture: 9.2
+    history: 9.3
+    photography: 9.2

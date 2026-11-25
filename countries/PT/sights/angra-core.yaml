@@ -1,0 +1,15 @@
+id: sight-pt-angra-core
+name: "Central Zone of Angra do Heroísmo"
+location:
+  country_code: PT
+  latitude: 38.655
+  longitude: -27.216
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 9.1
+  experience: 8.8
+  depth: 8.6
+  categories:
+    architecture: 9.3
+    history: 9.3

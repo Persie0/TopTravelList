@@ -1,0 +1,16 @@
+id: sight-hr-korcula-core
+name: "Historic town of Korčula (tentative)"
+location:
+  country_code: HR
+  latitude: 42.961
+  longitude: 17.135
+scores:
+  impact: 9.0
+  uniqueness: 9.1
+  significance: 8.9
+  experience: 8.9
+  depth: 8.4
+  categories:
+    architecture: 9.3
+    history: 9.2
+    photography: 9.4

@@ -1,0 +1,15 @@
+id: sight-pl-narew
+name: "Narew National Park"
+location:
+  country_code: PL
+  latitude: 53.04
+  longitude: 22.85
+scores:
+  impact: 8.4
+  uniqueness: 8.9
+  significance: 8.7
+  experience: 8.6
+  depth: 8.5
+  categories:
+    nature: 9.2
+    wildlife: 9.2

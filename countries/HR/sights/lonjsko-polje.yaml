@@ -1,0 +1,16 @@
+id: sight-hr-lonjsko-polje
+name: "Lonjsko Polje Nature Park (tentative property)"
+location:
+  country_code: HR
+  latitude: 45.35
+  longitude: 16.73
+scores:
+  impact: 8.4
+  uniqueness: 8.9
+  significance: 8.9
+  experience: 8.6
+  depth: 8.8
+  categories:
+    nature: 9.2
+    wildlife: 9.3
+    culture: 9.0

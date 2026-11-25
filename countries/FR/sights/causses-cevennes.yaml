@@ -1,0 +1,16 @@
+id: sight-fr-causses-cevennes
+name: "Causses and Cévennes agro-pastoral landscape"
+location:
+  country_code: FR
+  latitude: 44.2
+  longitude: 3.4
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 9.0
+  experience: 8.9
+  depth: 9.2
+  categories:
+    nature: 9.2
+    culture: 9.2
+    photography: 9.2

@@ -1,0 +1,16 @@
+id: sight-de-dessau-worlitz
+name: "Garden Kingdom of Dessau-Wörlitz"
+location:
+  country_code: DE
+  latitude: 51.846
+  longitude: 12.42
+scores:
+  impact: 8.9
+  uniqueness: 9.1
+  significance: 9.2
+  experience: 8.9
+  depth: 9.2
+  categories:
+    architecture: 9.2
+    nature: 9.1
+    history: 9.2

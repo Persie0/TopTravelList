@@ -1733,3 +1733,78 @@ All seven parks now have individual YAML assessments: Banff, Jasper, Yoho, Koote
 
 ### Follow-up coverage clarification
 Four formerly unranked parks have documented authorized visitor experiences; Ivvavik and Sirmilik individually ranked, their broader serial nominations remain unranked. Hecate Strait sponge reefs still lack ordinary visitor viewing evidence.
+
+## sight-ca-herschel-island-qikiqtaruk — Herschel Island–Qikiqtaruk Territorial Park — 2026-11-25
+
+- YAML: [source](../../../countries/CA/sights/herschel-island-qikiqtaruk.yaml)
+- Action: new
+- Precise subject: Tentative serial property's island component; designated public trails and ranger interpretation only.
+- Location check: 69.569, -138.916; Government of Yukon public campground coordinate and current park guidance, updated 2026-11-13. Weather, transport, permits and community restrictions apply.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Government of Yukon 1](https://yukon.ca/en/outdoor-recreation-and-wildlife/camping/site/herschel-island-qikiqtaruk-territorial-park); [Government of Yukon 2](https://yukon.ca/en/outdoor-recreation-and-wildlife/parks-and-protected-areas/herschel-island-qikiqtaruk-territorial-park?wbdisable=true) — reviewed 2026-11-25. Government of Yukon public campground coordinate and current park guidance, updated 2026-11-13. Weather, transport, permits and community restrictions apply. Not all claims independently verified.
+- Missing or uncertain facts: Independent corroboration and current permitted visitor conditions; exact point where approximate.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Torres del Paine](../../../countries/CL/sights/torres-del-paine-national-park.yaml) | Less mountain drama than Torres del Paine |
+| [Cockscomb Basin](../../../countries/BZ/sights/cockscomb-basin-wildlife-sanctuary.yaml) | different Arctic wildlife than Cockscomb |
+| [Main Ridge](../../../countries/TT/sights/tobago-main-ridge-forest-reserve.yaml) | more coastal culture than Main Ridge |
+| [Des Cartiers](../../../countries/LC/sights/des-cartiers-rainforest-trail.yaml) | more remote landscape than Des Cartiers. |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.4 | Tundra and Arctic shore |
+| Uniqueness | 8.9 | distinct Inuvialuit living landscape and whaling station |
+| Significance | 8.8 | regional cultural and ecological heritage |
+| Experience | 8.0 | seasonal ranger-led and designated visits |
+| Depth | 8.1 | several tundra and heritage features. |
+
+- Applicable categories: nature:9.1,culture:9.1,wildlife:9.0.
+- Overall: 85.15/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial score for documented public scope only.
+- Earlier decision: None.
+- Verification still needed: Independent claim-level verification and current access.
+
+
+## sight-ca-vuntut-national-park — Vuntut National Park — 2026-11-25
+
+- YAML: [source](../../../countries/CA/sights/vuntut-national-park.yaml)
+- Action: new
+- Precise subject: Individual Arctic park component; specialist registered backcountry experience only, no sensitive cultural sites.
+- Location check: 68.39, -139.86; Parks Canada map reference; management plan reports about one visitor annually, and no developed trails or services. Low experience/depth deliberately reflects specialized scope.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Parks Canada 1](https://parks.canada.ca/pn-np/yt/vuntut/visit); [Parks Canada 2](https://parks.canada.ca/pn-np/yt/vuntut/securite-safety); [Parks Canada 3](https://www.parks.canada.ca/pn-np/yt/vuntut/gestion-management/plan-directeur-management-plan-2024?wbdisable=true); [Parks Canada 4](https://parks.canada.ca/pn-np) — reviewed 2026-11-25. Parks Canada map reference; management plan reports about one visitor annually, and no developed trails or services. Low experience/depth deliberately reflects specialized scope. Not all claims independently verified.
+- Missing or uncertain facts: Independent corroboration and current permitted visitor conditions; exact point where approximate.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Torres del Paine](../../../countries/CL/sights/torres-del-paine-national-park.yaml) | Less dramatic scenery than Torres del Paine |
+| [Cockscomb Basin](../../../countries/BZ/sights/cockscomb-basin-wildlife-sanctuary.yaml) | different Arctic habitat from Cockscomb |
+| [Main Ridge](../../../countries/TT/sights/tobago-main-ridge-forest-reserve.yaml) | less developed visitor circuit than Main Ridge |
+| [Des Cartiers](../../../countries/LC/sights/des-cartiers-rainforest-trail.yaml) | much more remote than Des Cartiers. |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.3 | Open northern tundra and wetlands |
+| Uniqueness | 8.8 | rare remote Arctic ecosystem |
+| Significance | 8.7 | important Vuntut Gwitchin conservation context |
+| Experience | 7.2 | demanding undeveloped visitor experience |
+| Depth | 7.7 | multiple wilderness habitats but no established trail network. |
+
+- Applicable categories: nature:9.1,wildlife:9.0,adventure:8.8.
+- Overall: 82.80/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial score for documented public scope only.
+- Earlier decision: None.
+- Verification still needed: Independent claim-level verification and current access.
+
+
+### Further component coverage (2026-11-25)
+All three components of Ivvavik/Vuntut/Herschel now separately rated; the parent serial property remains unranked because there is no coherent ordinary whole-property visit. Forty Mile remains documented as closed in [Yukon government conservation update](https://yukon.ca/en/news/community-engagement-begins-chedahdek-forty-mile-historic-site-conservation-plan); no re-opening evidence checked here.

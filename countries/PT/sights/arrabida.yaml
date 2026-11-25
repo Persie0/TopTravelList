@@ -1,0 +1,16 @@
+id: sight-pt-arrabida
+name: "Arrábida Natural Park"
+location:
+  country_code: PT
+  latitude: 38.48
+  longitude: -8.98
+scores:
+  impact: 8.9
+  uniqueness: 8.7
+  significance: 8.6
+  experience: 8.9
+  depth: 8.8
+  categories:
+    nature: 9.2
+    beaches: 9.1
+    photography: 9.2

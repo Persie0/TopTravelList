@@ -1,0 +1,15 @@
+id: city-pt-tomar
+name: "Tomar"
+location:
+  country_code: PT
+  latitude: 39.604
+  longitude: -8.413
+scores:
+  impact: 8.4
+  uniqueness: 8.6
+  significance: 8.7
+  experience: 8.6
+  depth: 8.0
+  categories:
+    history: 9.1
+    architecture: 8.9

@@ -2,7 +2,7 @@
 
 # Guinea (GN) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**14 ranked** · **0 unassessed** · **14 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,24 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (14)
 
-No cities, towns & villages have been assessed for **Guinea** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Dalaba](cities/dalaba.yaml) | City / town | **77.25** | **Relaxation 8.5**, **Culture 8.3**, **Architecture 8.2** | 7.6 / 8.1 / 7.6 / 8.0 / 7.0 | [10.692, -12.249](https://www.google.com/maps/search/?api=1&query=10.692,-12.249) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Dalaba%2C%20Guinea) |
+| 2 | [Conakry](cities/conakry.yaml) | City / town | **76.55** | **Culture 8.5**, **History 8.3**, **Food 8.1** | 7.3 / 7.7 / 8.1 / 7.6 / 7.8 | [9.641, -13.578](https://www.google.com/maps/search/?api=1&query=9.641,-13.578) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Conakry%2C%20Guinea) |
+| 3 | [Timbo](cities/timbo.yaml) | City / town | **75.65** | **History 9.0**, **Culture 8.6** | 6.9 / 8.2 / 8.6 / 7.3 / 6.3 | [10.71, -11.82](https://www.google.com/maps/search/?api=1&query=10.71,-11.82) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Timbo%2C%20Guinea) |
+| 4 | [Labé](cities/labe.yaml) | City / town | **75.50** | **Culture 8.7**, **History 8.5**, **Food 8.0** | 7.0 / 7.9 / 8.0 / 7.7 / 7.2 | [11.318, -12.287](https://www.google.com/maps/search/?api=1&query=11.318,-12.287) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lab%C3%A9%2C%20Guinea) |
+| 5 | [Kankan](cities/kankan.yaml) | City / town | **73.45** | **Culture 8.5**, **History 8.4**, **Food 7.9** | 6.7 / 7.7 / 8.0 / 7.4 / 7.0 | [10.3833, -9.3](https://www.google.com/maps/search/?api=1&query=10.3833,-9.3) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kankan%2C%20Guinea) |
+| 6 | [Doucki](cities/doucki.yaml) | City / town | **72.20** | **Culture 8.4**, **Relaxation 8.0** | 6.9 / 8.1 / 6.9 / 7.7 / 5.9 | [10.9853, -12.59924](https://www.google.com/maps/search/?api=1&query=10.9853,-12.59924) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Doucki%2C%20Guinea) |
+| 7 | [Boffa](cities/boffa.yaml) | City / town | **71.60** | **History 8.4**, **Culture 8.0** | 6.6 / 7.6 / 7.9 / 7.2 / 6.2 | [10.18, -14.04](https://www.google.com/maps/search/?api=1&query=10.18,-14.04) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Boffa%2C%20Guinea) |
+| 8 | [Boké](cities/boke.yaml) | City / town | **69.70** | **History 8.1**, **Culture 7.9** | 6.4 / 7.3 / 7.6 / 7.1 / 6.4 | [10.9314, -14.2892](https://www.google.com/maps/search/?api=1&query=10.9314,-14.2892) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bok%C3%A9%2C%20Guinea) |
+| 9 | [Nzérékoré](cities/nzerekore.yaml) | City / town | **69.40** | **Culture 7.9**, **Food 7.7** | 6.4 / 7.3 / 7.2 / 7.3 / 6.6 | [7.7522, -8.8217](https://www.google.com/maps/search/?api=1&query=7.7522,-8.8217) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nz%C3%A9r%C3%A9kor%C3%A9%2C%20Guinea) |
+| 10 | [Kindia](cities/kindia.yaml) | City / town | **69.35** | **Food 8.0**, **Culture 7.7** | 6.6 / 7.2 / 6.9 / 7.5 / 6.5 | [10.056, -12.865](https://www.google.com/maps/search/?api=1&query=10.056,-12.865) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kindia%2C%20Guinea) |
+| 11 | [Pita](cities/pita.yaml) | City / town | **68.65** | **Culture 7.9**, **Food 7.6** | 6.5 / 7.4 / 6.7 / 7.3 / 6.3 | [11.059, -12.395](https://www.google.com/maps/search/?api=1&query=11.059,-12.395) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Pita%2C%20Guinea) |
+| 12 | [Mamou](cities/mamou.yaml) | City / town | **67.35** | **Culture 7.7**, **Food 7.6** | 6.2 / 6.9 / 7.1 / 7.2 / 6.5 | [10.375, -12.091](https://www.google.com/maps/search/?api=1&query=10.375,-12.091) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mamou%2C%20Guinea) |
+| 13 | [Faranah](cities/faranah.yaml) | City / town | **65.70** | **History 7.8**, **Culture 7.6** | 5.9 / 6.9 / 7.2 / 6.9 / 6.0 | [10.0333, -10.7333](https://www.google.com/maps/search/?api=1&query=10.0333,-10.7333) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Faranah%2C%20Guinea) |
+| 14 | [Lola](cities/lola.yaml) | City / town | **64.75** | **Culture 7.5** | 6.0 / 7.0 / 6.5 / 6.9 / 5.9 | [7.7997, -8.5286](https://www.google.com/maps/search/?api=1&query=7.7997,-8.5286) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lola%2C%20Guinea) |
 
 ---
 

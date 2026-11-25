@@ -1,0 +1,15 @@
+id: sight-it-ivrea
+name: "Ivrea industrial city of the twentieth century"
+location:
+  country_code: IT
+  latitude: 45.46
+  longitude: 7.87
+scores:
+  impact: 8.3
+  uniqueness: 9.0
+  significance: 9.2
+  experience: 8.4
+  depth: 8.5
+  categories:
+    architecture: 9.3
+    history: 9.2

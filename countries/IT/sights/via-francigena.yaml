@@ -1,0 +1,15 @@
+id: sight-it-via-francigena
+name: "Via Francigena in Italy"
+location:
+  country_code: IT
+  latitude: 43.8
+  longitude: 10.8
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    history: 9.4
+    culture: 9.2

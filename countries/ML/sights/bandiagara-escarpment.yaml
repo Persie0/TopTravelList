@@ -1,0 +1,17 @@
+id: sight-ml-bandiagara-escarpment
+name: "Cliff of Bandiagara (Land of the Dogons)"
+location:
+  country_code: ML
+  latitude: 14.333
+  longitude: -3.583
+scores:
+  impact: 9.5
+  uniqueness: 9.6
+  significance: 9.5
+  experience: 8.9
+  depth: 9.1
+  categories:
+    nature: 9.2
+    architecture: 9.5
+    culture: 9.7
+    photography: 9.5

@@ -1,0 +1,16 @@
+id: sight-rs-stari-ras-sopocani
+name: "Stari Ras and Sopoćani (serial property)"
+location:
+  country_code: RS
+  latitude: 43.118
+  longitude: 20.425
+scores:
+  impact: 8.8
+  uniqueness: 9.1
+  significance: 9.3
+  experience: 8.8
+  depth: 9.0
+  categories:
+    history: 9.4
+    culture: 9.3
+    architecture: 9.2

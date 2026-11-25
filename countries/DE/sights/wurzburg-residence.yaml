@@ -1,0 +1,16 @@
+id: sight-de-wurzburg-residence
+name: "Würzburg Residence and Court Gardens"
+location:
+  country_code: DE
+  latitude: 49.792
+  longitude: 9.938
+scores:
+  impact: 9.3
+  uniqueness: 9.2
+  significance: 9.3
+  experience: 9.0
+  depth: 8.9
+  categories:
+    architecture: 9.6
+    history: 9.4
+    culture: 9.3

@@ -1,0 +1,15 @@
+id: sight-ch-aletsch-glacier
+name: "Great Aletsch Glacier viewpoints and trails"
+location:
+  country_code: CH
+  latitude: 46.55
+  longitude: 8.06
+scores:
+  impact: 9.5
+  uniqueness: 9.3
+  significance: 9.3
+  experience: 9.0
+  depth: 8.8
+  categories:
+    nature: 9.6
+    photography: 9.6

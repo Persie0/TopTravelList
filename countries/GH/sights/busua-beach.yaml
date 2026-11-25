@@ -1,0 +1,16 @@
+id: sight-gh-busua-beach
+name: "Busua Beach"
+location:
+  country_code: GH
+  latitude: 4.802
+  longitude: -1.94
+scores:
+  impact: 8.2
+  uniqueness: 7.7
+  significance: 6.2
+  experience: 8.6
+  depth: 7.4
+  categories:
+    beaches: 8.8
+    adventure: 8.7
+    relaxation: 8.8

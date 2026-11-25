@@ -1,0 +1,15 @@
+id: sight-pl-warsaw-old-town
+name: "Historic Centre of Warsaw"
+location:
+  country_code: PL
+  latitude: 52.249
+  longitude: 21.012
+scores:
+  impact: 9.0
+  uniqueness: 9.1
+  significance: 9.4
+  experience: 9.0
+  depth: 8.8
+  categories:
+    architecture: 9.3
+    history: 9.5

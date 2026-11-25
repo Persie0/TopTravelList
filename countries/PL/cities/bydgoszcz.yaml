@@ -1,0 +1,15 @@
+id: city-pl-bydgoszcz
+name: "Bydgoszcz"
+location:
+  country_code: PL
+  latitude: 53.1235
+  longitude: 18.0084
+scores:
+  impact: 8.0
+  uniqueness: 8.2
+  significance: 8.1
+  experience: 8.5
+  depth: 8.3
+  categories:
+    architecture: 8.7
+    culture: 8.7

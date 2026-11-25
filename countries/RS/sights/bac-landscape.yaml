@@ -1,0 +1,16 @@
+id: sight-rs-bac-landscape
+name: "Bač cultural landscape and surroundings"
+location:
+  country_code: RS
+  latitude: 45.39
+  longitude: 19.23
+scores:
+  impact: 8.3
+  uniqueness: 8.8
+  significance: 8.9
+  experience: 8.4
+  depth: 8.6
+  categories:
+    history: 9.2
+    architecture: 9.0
+    culture: 8.9

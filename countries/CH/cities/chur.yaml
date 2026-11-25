@@ -1,0 +1,15 @@
+id: city-ch-chur
+name: "Chur"
+location:
+  country_code: CH
+  latitude: 46.8508
+  longitude: 9.532
+scores:
+  impact: 8.2
+  uniqueness: 8.4
+  significance: 8.5
+  experience: 8.6
+  depth: 8.2
+  categories:
+    architecture: 8.9
+    history: 8.9

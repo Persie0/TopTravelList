@@ -1,0 +1,15 @@
+id: sight-gr-alonissos-marine
+name: "Alonissos and Northern Sporades National Marine Park"
+location:
+  country_code: GR
+  latitude: 39.19
+  longitude: 24.0
+scores:
+  impact: 8.9
+  uniqueness: 9.1
+  significance: 9.2
+  experience: 8.8
+  depth: 9.0
+  categories:
+    nature: 9.4
+    wildlife: 9.4

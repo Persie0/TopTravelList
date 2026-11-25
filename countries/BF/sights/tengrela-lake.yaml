@@ -1,0 +1,15 @@
+id: sight-bf-tengrela-lake
+name: "Lake Tengréla"
+location:
+  country_code: BF
+  latitude: 10.64626
+  longitude: -4.84066
+scores:
+  impact: 7.7
+  uniqueness: 8.0
+  significance: 7.5
+  experience: 8.0
+  depth: 7.0
+  categories:
+    wildlife: 8.2
+    nature: 8.0

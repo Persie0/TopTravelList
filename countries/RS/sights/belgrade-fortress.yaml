@@ -1,0 +1,16 @@
+id: sight-rs-belgrade-fortress
+name: "Belgrade Fortress and Kalemegdan"
+location:
+  country_code: RS
+  latitude: 44.823
+  longitude: 20.45
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 9.2
+  experience: 9.0
+  depth: 9.0
+  categories:
+    history: 9.4
+    architecture: 9.2
+    photography: 9.2

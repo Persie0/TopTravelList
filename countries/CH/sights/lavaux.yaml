@@ -1,0 +1,17 @@
+id: sight-ch-lavaux
+name: "Lavaux Vineyard Terraces"
+location:
+  country_code: CH
+  latitude: 46.49
+  longitude: 6.75
+scores:
+  impact: 9.0
+  uniqueness: 9.1
+  significance: 9.0
+  experience: 9.1
+  depth: 9.0
+  categories:
+    nature: 9.1
+    photography: 9.4
+    culture: 9.2
+    food: 9.0

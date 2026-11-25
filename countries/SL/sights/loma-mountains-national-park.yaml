@@ -1,0 +1,16 @@
+id: sight-sl-loma-mountains-national-park
+name: "Loma Mountains National Park"
+location:
+  country_code: SL
+  latitude: 9.20
+  longitude: -11.11
+scores:
+  impact: 8.6
+  uniqueness: 8.6
+  significance: 8.7
+  experience: 8.3
+  depth: 8.5
+  categories:
+    nature: 9.1
+    wildlife: 9.0
+    adventure: 9.0

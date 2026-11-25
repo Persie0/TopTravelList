@@ -1,0 +1,16 @@
+id: city-hr-korcula
+name: "Korčula"
+location:
+  country_code: HR
+  latitude: 42.961
+  longitude: 17.135
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 8.6
+  experience: 8.8
+  depth: 7.9
+  categories:
+    architecture: 9.2
+    history: 9.0
+    photography: 9.2

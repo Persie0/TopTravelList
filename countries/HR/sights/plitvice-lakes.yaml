@@ -1,0 +1,16 @@
+id: sight-hr-plitvice-lakes
+name: "Plitvice Lakes National Park"
+location:
+  country_code: HR
+  latitude: 44.88
+  longitude: 15.62
+scores:
+  impact: 9.6
+  uniqueness: 9.6
+  significance: 9.4
+  experience: 9.5
+  depth: 9.0
+  categories:
+    nature: 9.7
+    photography: 9.7
+    adventure: 9.0

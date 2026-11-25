@@ -1,0 +1,16 @@
+id: sight-pl-krakow-historic-centre
+name: "Historic Centre of Kraków"
+location:
+  country_code: PL
+  latitude: 50.0617
+  longitude: 19.9373
+scores:
+  impact: 9.4
+  uniqueness: 9.3
+  significance: 9.4
+  experience: 9.3
+  depth: 9.4
+  categories:
+    architecture: 9.5
+    history: 9.5
+    culture: 9.4

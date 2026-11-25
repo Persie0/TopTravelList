@@ -1,0 +1,16 @@
+id: city-fr-aix-en-provence
+name: "Aix-en-Provence"
+location:
+  country_code: FR
+  latitude: 43.5297
+  longitude: 5.4474
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 8.6
+  experience: 8.9
+  depth: 8.5
+  categories:
+    architecture: 9.1
+    culture: 9.1
+    food: 9.0

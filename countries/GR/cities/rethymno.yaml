@@ -1,0 +1,15 @@
+id: city-gr-rethymno
+name: "Rethymno"
+location:
+  country_code: GR
+  latitude: 35.369
+  longitude: 24.473
+scores:
+  impact: 8.7
+  uniqueness: 8.7
+  significance: 8.7
+  experience: 8.9
+  depth: 8.3
+  categories:
+    architecture: 9.2
+    history: 9.1

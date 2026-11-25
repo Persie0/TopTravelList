@@ -1,0 +1,15 @@
+id: sight-by-polesie-radiation-reserve
+name: "Polesie State Radiation and Ecology Reserve"
+location:
+  country_code: BY
+  latitude: 51.72
+  longitude: 29.93
+scores:
+  impact: null
+  uniqueness: 9.0
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    nature: 9.1
+    history: 9.1

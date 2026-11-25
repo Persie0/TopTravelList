@@ -1,0 +1,16 @@
+id: sight-pt-pico-vineyards
+name: "Landscape of the Pico Island Vineyard Culture"
+location:
+  country_code: PT
+  latitude: 38.52
+  longitude: -28.52
+scores:
+  impact: 8.9
+  uniqueness: 9.3
+  significance: 9.2
+  experience: 8.8
+  depth: 8.8
+  categories:
+    culture: 9.4
+    photography: 9.2
+    food: 9.1

@@ -1,0 +1,15 @@
+id: city-gr-ioannina
+name: "Ioannina"
+location:
+  country_code: GR
+  latitude: 39.665
+  longitude: 20.854
+scores:
+  impact: 8.5
+  uniqueness: 8.6
+  significance: 8.8
+  experience: 8.7
+  depth: 8.5
+  categories:
+    history: 9.2
+    culture: 8.9

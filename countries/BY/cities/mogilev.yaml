@@ -1,0 +1,15 @@
+id: city-by-mogilev
+name: "Mogilev (Mahilioŭ)"
+location:
+  country_code: BY
+  latitude: 53.9
+  longitude: 30.33
+scores:
+  impact: 7.8
+  uniqueness: 7.8
+  significance: 8.2
+  experience: 8.2
+  depth: 8.1
+  categories:
+    architecture: 8.6
+    history: 8.6

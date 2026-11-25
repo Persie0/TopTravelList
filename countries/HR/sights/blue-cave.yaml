@@ -1,0 +1,15 @@
+id: sight-hr-blue-cave
+name: "Blue Cave, Biševo"
+location:
+  country_code: HR
+  latitude: 42.982
+  longitude: 16.021
+scores:
+  impact: 8.9
+  uniqueness: 9.1
+  significance: 8.4
+  experience: 8.6
+  depth: 6.5
+  categories:
+    nature: 9.3
+    photography: 9.3

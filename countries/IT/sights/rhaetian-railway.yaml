@@ -1,0 +1,15 @@
+id: sight-it-rhaetian-railway
+name: "Rhaetian Railway (Italian listed section)"
+location:
+  country_code: IT
+  latitude: 46.22
+  longitude: 10.17
+scores:
+  impact: 8.6
+  uniqueness: 9.0
+  significance: 9.1
+  experience: 9.0
+  depth: 8.1
+  categories:
+    history: 9.2
+    photography: 9.2

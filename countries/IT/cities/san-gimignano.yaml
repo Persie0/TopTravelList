@@ -1,0 +1,15 @@
+id: city-it-san-gimignano
+name: "San Gimignano"
+location:
+  country_code: IT
+  latitude: 43.4677
+  longitude: 11.043
+scores:
+  impact: 9.2
+  uniqueness: 9.2
+  significance: 8.9
+  experience: 8.8
+  depth: 7.9
+  categories:
+    architecture: 9.5
+    photography: 9.5

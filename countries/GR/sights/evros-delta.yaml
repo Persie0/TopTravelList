@@ -1,0 +1,15 @@
+id: sight-gr-evros-delta
+name: "Evros Delta National Park"
+location:
+  country_code: GR
+  latitude: 40.81
+  longitude: 26.02
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 8.9
+  experience: 8.6
+  depth: 8.6
+  categories:
+    nature: 9.2
+    wildlife: 9.3

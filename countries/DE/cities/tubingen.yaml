@@ -1,0 +1,15 @@
+id: city-de-tubingen
+name: "Tübingen"
+location:
+  country_code: DE
+  latitude: 48.522
+  longitude: 9.057
+scores:
+  impact: 8.6
+  uniqueness: 8.5
+  significance: 8.5
+  experience: 8.8
+  depth: 8.2
+  categories:
+    architecture: 9.0
+    photography: 9.1

@@ -1,0 +1,16 @@
+id: sight-it-st-marks
+name: "Saint Mark's Basilica and square"
+location:
+  country_code: IT
+  latitude: 45.434
+  longitude: 12.339
+scores:
+  impact: 9.5
+  uniqueness: 9.5
+  significance: 9.4
+  experience: 9.1
+  depth: 8.8
+  categories:
+    architecture: 9.7
+    culture: 9.5
+    photography: 9.6

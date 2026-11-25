@@ -1,0 +1,15 @@
+id: city-rs-kragujevac
+name: "Kragujevac"
+location:
+  country_code: RS
+  latitude: 44.012
+  longitude: 20.912
+scores:
+  impact: 7.9
+  uniqueness: 8.0
+  significance: 8.6
+  experience: 8.3
+  depth: 8.3
+  categories:
+    history: 9.0
+    culture: 8.6

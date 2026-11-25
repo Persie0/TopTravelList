@@ -1,0 +1,16 @@
+id: sight-pt-furnas
+name: "Furnas volcanic valley and thermal sites"
+location:
+  country_code: PT
+  latitude: 37.77
+  longitude: -25.31
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 8.8
+  experience: 9.2
+  depth: 9.0
+  categories:
+    nature: 9.3
+    relaxation: 9.3
+    food: 9.0

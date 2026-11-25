@@ -1,0 +1,16 @@
+id: sight-ch-lake-lucerne
+name: "Lake Lucerne"
+location:
+  country_code: CH
+  latitude: 46.99
+  longitude: 8.48
+scores:
+  impact: 9.2
+  uniqueness: 9.0
+  significance: 8.7
+  experience: 9.2
+  depth: 9.2
+  categories:
+    nature: 9.4
+    photography: 9.5
+    relaxation: 9.3

@@ -1,0 +1,15 @@
+id: sight-it-gargano
+name: "Gargano National Park"
+location:
+  country_code: IT
+  latitude: 41.82
+  longitude: 15.95
+scores:
+  impact: 9.1
+  uniqueness: 9.0
+  significance: 8.9
+  experience: 9.0
+  depth: 9.2
+  categories:
+    nature: 9.4
+    beaches: 9.2

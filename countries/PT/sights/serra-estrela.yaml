@@ -1,0 +1,16 @@
+id: sight-pt-serra-estrela
+name: "Serra da Estrela Natural Park"
+location:
+  country_code: PT
+  latitude: 40.32
+  longitude: -7.62
+scores:
+  impact: 8.9
+  uniqueness: 8.7
+  significance: 8.6
+  experience: 8.9
+  depth: 9.1
+  categories:
+    nature: 9.2
+    adventure: 9.1
+    photography: 9.1

@@ -1,0 +1,15 @@
+id: sight-ss-zeraf-game-reserve
+name: "Zeraf Game Reserve"
+location:
+  country_code: SS
+  latitude: 8.48
+  longitude: 30.3
+scores:
+  impact: null
+  uniqueness: 8.8
+  significance: 9.1
+  experience: null
+  depth: null
+  categories:
+    nature: 9.1
+    wildlife: null

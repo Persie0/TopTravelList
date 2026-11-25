@@ -1,0 +1,14 @@
+id: city-cf-boali
+name: "Boali"
+location:
+  country_code: CF
+  latitude: 4.80
+  longitude: 18.13
+scores:
+  impact: null
+  uniqueness: 6.7
+  significance: 6.7
+  experience: null
+  depth: null
+  categories:
+    culture: 7.3

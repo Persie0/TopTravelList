@@ -2,7 +2,7 @@
 
 # Belarus (BY) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**14 ranked** · **0 unassessed** · **14 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,24 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (14)
 
-No cities, towns & villages have been assessed for **Belarus** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Grodno (Hrodna)](cities/grodno.yaml) | City / town | **86.00** | **Architecture 9.1**, **History 9.0**, **Culture 8.8** | 8.6 / 8.6 / 8.7 / 8.6 / 8.4 | [53.6694, 23.8131](https://www.google.com/maps/search/?api=1&query=53.6694,23.8131) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Grodno%20%28Hrodna%29%2C%20Belarus) |
+| 2 | [Minsk](cities/minsk.yaml) | City / town | **85.25** | **Architecture 9.0**, **Culture 8.7**, **History 8.7** | 8.3 / 8.6 / 8.6 / 8.5 / 8.9 | [53.9006, 27.559](https://www.google.com/maps/search/?api=1&query=53.9006,27.559) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Minsk%2C%20Belarus) |
+| 3 | [Vitebsk](cities/vitebsk.yaml) | City / town | **84.15** | **Culture 9.1**, **History 8.8**, **Architecture 8.7** | 8.2 / 8.4 / 8.7 / 8.5 / 8.4 | [55.1904, 30.2049](https://www.google.com/maps/search/?api=1&query=55.1904,30.2049) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Vitebsk%2C%20Belarus) |
+| 4 | [Polotsk (Polatsk)](cities/polotsk.yaml) | City / town | **84.10** | **History 9.2**, **Architecture 8.9**, **Culture 8.8** | 8.2 / 8.5 / 8.9 / 8.3 / 8.0 | [55.486, 28.768](https://www.google.com/maps/search/?api=1&query=55.486,28.768) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Polotsk%20%28Polatsk%29%2C%20Belarus) |
+| 5 | [Brest](cities/brest.yaml) | City / town | **83.65** | **History 9.1**, **Culture 8.7**, **Architecture 8.4** | 8.1 / 8.3 / 8.8 / 8.4 / 8.4 | [52.0976, 23.7341](https://www.google.com/maps/search/?api=1&query=52.0976,23.7341) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Brest%2C%20Belarus) |
+| 6 | [Nesvizh (Niasvizh)](cities/nesvizh.yaml) | City / town | **81.90** | **Architecture 8.9**, **History 8.9** | 8.0 / 8.3 / 8.6 / 8.3 / 7.5 | [53.222, 26.674](https://www.google.com/maps/search/?api=1&query=53.222,26.674) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nesvizh%20%28Niasvizh%29%2C%20Belarus) |
+| 7 | [Pinsk](cities/pinsk.yaml) | City / town | **81.40** | **History 8.8**, **Architecture 8.7** | 8.0 / 8.2 / 8.3 / 8.2 / 8.0 | [52.112, 26.103](https://www.google.com/maps/search/?api=1&query=52.112,26.103) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Pinsk%2C%20Belarus) |
+| 8 | [Gomel (Homel)](cities/gomel.yaml) | City / town | **81.30** | **Architecture 8.7**, **Culture 8.5** | 8.0 / 8.0 / 8.2 / 8.4 / 8.3 | [52.4345, 30.9754](https://www.google.com/maps/search/?api=1&query=52.4345,30.9754) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Gomel%20%28Homel%29%2C%20Belarus) |
+| 9 | [Novogrudok (Navahrudak)](cities/novogrudok.yaml) | City / town | **80.35** | **History 8.9**, **Architecture 8.5** | 7.8 / 8.1 / 8.6 / 8.0 / 7.5 | [53.594, 25.824](https://www.google.com/maps/search/?api=1&query=53.594,25.824) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Novogrudok%20%28Navahrudak%29%2C%20Belarus) |
+| 10 | [Mogilev (Mahilioŭ)](cities/mogilev.yaml) | City / town | **79.70** | **Architecture 8.6**, **History 8.6** | 7.8 / 7.8 / 8.2 / 8.2 / 8.1 | [53.9, 30.33](https://www.google.com/maps/search/?api=1&query=53.9,30.33) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mogilev%20%28Mahilio%C5%AD%29%2C%20Belarus) |
+| 11 | [Mir](cities/mir.yaml) | City / town | **78.15** | **History 8.6**, **Architecture 8.5** | 7.6 / 8.0 / 8.2 / 7.9 / 7.1 | [53.453, 26.467](https://www.google.com/maps/search/?api=1&query=53.453,26.467) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mir%2C%20Belarus) |
+| 12 | [Slonim](cities/slonim.yaml) | City / town | **77.55** | **History 8.5**, **Architecture 8.4** | 7.5 / 7.8 / 8.1 / 7.9 / 7.5 | [53.087, 25.318](https://www.google.com/maps/search/?api=1&query=53.087,25.318) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Slonim%2C%20Belarus) |
+| 13 | [Braslav](cities/braslav.yaml) | City / town | **76.85** | **Relaxation 8.6**, **Photography 8.5** | 7.6 / 7.8 / 7.6 / 8.1 / 7.2 | [55.642, 27.041](https://www.google.com/maps/search/?api=1&query=55.642,27.041) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Braslav%2C%20Belarus) |
+| 14 | [Lida](cities/lida.yaml) | City / town | **76.75** | **History 8.5**, **Architecture 8.3** | 7.5 / 7.6 / 8.0 / 7.9 / 7.4 | [53.887, 25.303](https://www.google.com/maps/search/?api=1&query=53.887,25.303) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lida%2C%20Belarus) |
 
 ---
 

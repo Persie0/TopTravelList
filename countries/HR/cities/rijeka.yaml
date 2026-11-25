@@ -1,0 +1,16 @@
+id: city-hr-rijeka
+name: "Rijeka"
+location:
+  country_code: HR
+  latitude: 45.327
+  longitude: 14.442
+scores:
+  impact: 8.1
+  uniqueness: 8.3
+  significance: 8.6
+  experience: 8.7
+  depth: 8.6
+  categories:
+    culture: 8.9
+    history: 8.9
+    architecture: 8.7

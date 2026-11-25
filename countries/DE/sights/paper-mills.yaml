@@ -1,0 +1,14 @@
+id: sight-de-paper-mills
+name: "European Paper Mills (German tentative components)"
+location:
+  country_code: DE
+  latitude: 50.6
+  longitude: 12.4
+scores:
+  impact: null
+  uniqueness: 8.8
+  significance: 9.1
+  experience: null
+  depth: null
+  categories:
+    history: 9.2

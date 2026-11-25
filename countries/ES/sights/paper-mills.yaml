@@ -1,0 +1,14 @@
+id: sight-es-paper-mills
+name: "European Paper Mills (Spanish nominated components)"
+location:
+  country_code: ES
+  latitude: 41.5
+  longitude: 1.7
+scores:
+  impact: null
+  uniqueness: 8.8
+  significance: 9.1
+  experience: null
+  depth: null
+  categories:
+    history: 9.2

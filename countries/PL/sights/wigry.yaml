@@ -1,0 +1,16 @@
+id: sight-pl-wigry
+name: "Wigry National Park"
+location:
+  country_code: PL
+  latitude: 54.01
+  longitude: 23.09
+scores:
+  impact: 8.5
+  uniqueness: 8.7
+  significance: 8.5
+  experience: 8.8
+  depth: 8.7
+  categories:
+    nature: 9.2
+    relaxation: 9.0
+    photography: 9.1

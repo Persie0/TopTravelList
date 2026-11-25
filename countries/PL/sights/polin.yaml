@@ -1,0 +1,15 @@
+id: sight-pl-polin
+name: "POLIN Museum of the History of Polish Jews"
+location:
+  country_code: PL
+  latitude: 52.249
+  longitude: 20.993
+scores:
+  impact: 8.8
+  uniqueness: 9.1
+  significance: 9.4
+  experience: 9.0
+  depth: 9.2
+  categories:
+    history: 9.5
+    culture: 9.4

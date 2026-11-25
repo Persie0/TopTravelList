@@ -2,7 +2,7 @@
 
 # Poland (PL) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**22 ranked** · **0 unassessed** · **22 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,32 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (22)
 
-No cities, towns & villages have been assessed for **Poland** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Kraków](cities/krakow.yaml) | City / town | **92.65** | **Architecture 9.4**, **Culture 9.4**, **History 9.4** | 9.3 / 9.1 / 9.4 / 9.2 / 9.4 | [50.0647, 19.945](https://www.google.com/maps/search/?api=1&query=50.0647,19.945) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Krak%C3%B3w%2C%20Poland) |
+| 2 | [Gdańsk](cities/gdansk.yaml) | City / town | **91.50** | **Architecture 9.4**, **History 9.4**, **Culture 9.1** | 9.2 / 9.1 / 9.2 / 9.1 / 9.1 | [54.352, 18.6466](https://www.google.com/maps/search/?api=1&query=54.352,18.6466) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Gda%C5%84sk%2C%20Poland) |
+| 3 | [Warsaw](cities/warsaw.yaml) | City / town | **90.95** | **History 9.4**, **Culture 9.3**, **Architecture 9.1** | 8.9 / 9.0 / 9.3 / 9.1 / 9.5 | [52.2297, 21.0122](https://www.google.com/maps/search/?api=1&query=52.2297,21.0122) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Warsaw%2C%20Poland) |
+| 4 | [Wrocław](cities/wroclaw.yaml) | City / town | **89.70** | **Architecture 9.3**, **Culture 9.1**, **History 9.0** | 9.0 / 8.9 / 8.9 / 9.1 / 9.0 | [51.1079, 17.0385](https://www.google.com/maps/search/?api=1&query=51.1079,17.0385) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Wroc%C5%82aw%2C%20Poland) |
+| 5 | [Toruń](cities/torun.yaml) | City / town | **88.55** | **Architecture 9.3**, **History 9.3**, **Culture 9.0** | 8.9 / 8.9 / 9.0 / 8.8 / 8.4 | [53.0138, 18.5984](https://www.google.com/maps/search/?api=1&query=53.0138,18.5984) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Toru%C5%84%2C%20Poland) |
+| 6 | [Zamość](cities/zamosc.yaml) | City / town | **87.30** | **Architecture 9.3**, **History 9.1** | 8.7 / 9.0 / 8.9 / 8.6 / 8.0 | [50.721, 23.251](https://www.google.com/maps/search/?api=1&query=50.721,23.251) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Zamo%C5%9B%C4%87%2C%20Poland) |
+| 7 | [Łódź](cities/lodz.yaml) | City / town | **86.85** | **Architecture 9.1**, **Culture 9.0**, **History 9.0** | 8.4 / 8.9 / 8.6 / 8.8 / 9.0 | [51.7592, 19.456](https://www.google.com/maps/search/?api=1&query=51.7592,19.456) | [Google Maps](https://www.google.com/maps/search/?api=1&query=%C5%81%C3%B3d%C5%BA%2C%20Poland) |
+| 8 | [Lublin](cities/lublin.yaml) | City / town | **86.70** | **History 9.2**, **Architecture 9.0**, **Culture 9.0** | 8.6 / 8.7 / 8.8 / 8.7 / 8.5 | [51.2465, 22.5684](https://www.google.com/maps/search/?api=1&query=51.2465,22.5684) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lublin%2C%20Poland) |
+| 9 | [Poznań](cities/poznan.yaml) | City / town | **86.35** | **History 9.1**, **Architecture 9.0**, **Culture 8.9** | 8.5 / 8.5 / 8.8 / 8.8 / 8.8 | [52.4064, 16.9252](https://www.google.com/maps/search/?api=1&query=52.4064,16.9252) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Pozna%C5%84%2C%20Poland) |
+| 10 | [Sandomierz](cities/sandomierz.yaml) | City / town | **84.50** | **Architecture 9.0**, **History 9.0** | 8.5 / 8.5 / 8.6 / 8.5 / 7.8 | [50.68, 21.75](https://www.google.com/maps/search/?api=1&query=50.68,21.75) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sandomierz%2C%20Poland) |
+| 11 | [Gdynia](cities/gdynia.yaml) | City / town | **84.35** | **Architecture 9.0**, **History 8.9** | 8.1 / 8.6 / 8.7 / 8.5 / 8.4 | [54.5189, 18.5305](https://www.google.com/maps/search/?api=1&query=54.5189,18.5305) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Gdynia%2C%20Poland) |
+| 12 | [Kazimierz Dolny](cities/kazimierz-dolny.yaml) | City / town | **83.65** | **Architecture 9.0**, **Photography 9.0** | 8.5 / 8.6 / 8.2 / 8.5 / 7.5 | [51.32, 21.95](https://www.google.com/maps/search/?api=1&query=51.32,21.95) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kazimierz%20Dolny%2C%20Poland) |
+| 13 | [Katowice](cities/katowice.yaml) | City / town | **83.50** | **Culture 8.9**, **Architecture 8.8** | 8.0 / 8.5 / 8.4 / 8.5 / 8.7 | [50.2649, 19.0238](https://www.google.com/maps/search/?api=1&query=50.2649,19.0238) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Katowice%2C%20Poland) |
+| 14 | [Zakopane](cities/zakopane.yaml) | City / town | **83.20** | **Architecture 8.9**, **Culture 8.8**, **Relaxation 8.8** | 8.2 / 8.5 / 8.1 / 8.7 / 8.1 | [49.2992, 19.9496](https://www.google.com/maps/search/?api=1&query=49.2992,19.9496) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Zakopane%2C%20Poland) |
+| 15 | [Przemyśl](cities/przemysl.yaml) | City / town | **82.90** | **History 8.9**, **Architecture 8.8** | 8.2 / 8.4 / 8.5 / 8.2 / 8.0 | [49.783, 22.767](https://www.google.com/maps/search/?api=1&query=49.783,22.767) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Przemy%C5%9Bl%2C%20Poland) |
+| 16 | [Szczecin](cities/szczecin.yaml) | City / town | **82.65** | **Architecture 8.8**, **History 8.7**, **Culture 8.6** | 8.1 / 8.2 / 8.3 / 8.5 / 8.5 | [53.4285, 14.5528](https://www.google.com/maps/search/?api=1&query=53.4285,14.5528) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Szczecin%2C%20Poland) |
+| 17 | [Olsztyn](cities/olsztyn.yaml) | City / town | **81.95** | **History 8.7**, **Relaxation 8.7** | 8.0 / 8.2 / 8.3 / 8.5 / 8.1 | [53.7784, 20.4801](https://www.google.com/maps/search/?api=1&query=53.7784,20.4801) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Olsztyn%2C%20Poland) |
+| 18 | [Bydgoszcz](cities/bydgoszcz.yaml) | City / town | **81.75** | **Architecture 8.7**, **Culture 8.7** | 8.0 / 8.2 / 8.1 / 8.5 / 8.3 | [53.1235, 18.0084](https://www.google.com/maps/search/?api=1&query=53.1235,18.0084) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bydgoszcz%2C%20Poland) |
+| 19 | [Gniezno](cities/gniezno.yaml) | City / town | **81.45** | **History 9.1**, **Architecture 8.7** | 7.9 / 8.2 / 8.7 / 8.1 / 7.7 | [52.535, 17.583](https://www.google.com/maps/search/?api=1&query=52.535,17.583) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Gniezno%2C%20Poland) |
+| 20 | [Sopot](cities/sopot.yaml) | City / town | **81.35** | **Relaxation 9.0**, **Beaches 8.7**, **Architecture 8.6** | 8.2 / 8.2 / 7.7 / 8.7 / 7.8 | [54.4416, 18.5601](https://www.google.com/maps/search/?api=1&query=54.4416,18.5601) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sopot%2C%20Poland) |
+| 21 | [Białystok](cities/bialystok.yaml) | City / town | **80.35** | **Architecture 8.7**, **Culture 8.6** | 7.8 / 8.0 / 8.2 / 8.3 / 8.1 | [53.1325, 23.1688](https://www.google.com/maps/search/?api=1&query=53.1325,23.1688) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bia%C5%82ystok%2C%20Poland) |
+| 22 | [Malbork](cities/malbork.yaml) | City / town | **78.50** | **History 8.6**, **Architecture 8.4** | 7.7 / 7.9 / 8.1 / 8.1 / 7.3 | [54.036, 19.039](https://www.google.com/maps/search/?api=1&query=54.036,19.039) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Malbork%2C%20Poland) |
 
 ---
 

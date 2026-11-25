@@ -1,0 +1,15 @@
+id: city-pl-zamosc
+name: "Zamość"
+location:
+  country_code: PL
+  latitude: 50.721
+  longitude: 23.251
+scores:
+  impact: 8.7
+  uniqueness: 9.0
+  significance: 8.9
+  experience: 8.6
+  depth: 8.0
+  categories:
+    architecture: 9.3
+    history: 9.1

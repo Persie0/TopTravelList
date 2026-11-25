@@ -1,0 +1,14 @@
+id: sight-de-schoningen
+name: "Site of the Schöningen Spears"
+location:
+  country_code: DE
+  latitude: 52.14
+  longitude: 10.99
+scores:
+  impact: null
+  uniqueness: 9.3
+  significance: 9.5
+  experience: null
+  depth: null
+  categories:
+    history: 9.5

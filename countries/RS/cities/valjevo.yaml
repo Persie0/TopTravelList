@@ -1,0 +1,15 @@
+id: city-rs-valjevo
+name: "Valjevo"
+location:
+  country_code: RS
+  latitude: 44.272
+  longitude: 19.887
+scores:
+  impact: 8.0
+  uniqueness: 8.2
+  significance: 8.3
+  experience: 8.3
+  depth: 7.9
+  categories:
+    history: 8.8
+    architecture: 8.6

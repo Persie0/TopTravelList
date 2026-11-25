@@ -1,0 +1,16 @@
+id: city-pt-braga
+name: "Braga"
+location:
+  country_code: PT
+  latitude: 41.5454
+  longitude: -8.4265
+scores:
+  impact: 8.6
+  uniqueness: 8.6
+  significance: 8.8
+  experience: 8.8
+  depth: 8.6
+  categories:
+    architecture: 9.1
+    history: 9.2
+    culture: 8.9

@@ -1,0 +1,15 @@
+id: city-hr-krk
+name: "Krk town"
+location:
+  country_code: HR
+  latitude: 45.025
+  longitude: 14.575
+scores:
+  impact: 8.4
+  uniqueness: 8.4
+  significance: 8.5
+  experience: 8.6
+  depth: 7.8
+  categories:
+    architecture: 8.9
+    history: 8.9

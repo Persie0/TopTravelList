@@ -1,0 +1,16 @@
+id: sight-pl-ksiaz-castle
+name: "Książ Castle"
+location:
+  country_code: PL
+  latitude: 50.842
+  longitude: 16.292
+scores:
+  impact: 9.0
+  uniqueness: 8.8
+  significance: 8.8
+  experience: 8.9
+  depth: 8.8
+  categories:
+    architecture: 9.3
+    history: 9.2
+    photography: 9.2

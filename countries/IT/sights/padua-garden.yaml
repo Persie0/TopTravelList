@@ -1,0 +1,15 @@
+id: sight-it-padua-garden
+name: "Botanical Garden of Padua"
+location:
+  country_code: IT
+  latitude: 45.399
+  longitude: 11.88
+scores:
+  impact: 8.5
+  uniqueness: 9.0
+  significance: 9.3
+  experience: 8.7
+  depth: 8.3
+  categories:
+    nature: 9.2
+    history: 9.3

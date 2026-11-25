@@ -1,0 +1,15 @@
+id: sight-fr-aiguille-du-midi
+name: "Aiguille du Midi visitor complex"
+location:
+  country_code: FR
+  latitude: 45.879
+  longitude: 6.887
+scores:
+  impact: 9.6
+  uniqueness: 9.2
+  significance: 8.9
+  experience: 9.2
+  depth: 8.5
+  categories:
+    nature: 9.6
+    photography: 9.7

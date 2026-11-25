@@ -1,0 +1,16 @@
+id: city-hr-zadar
+name: "Zadar"
+location:
+  country_code: HR
+  latitude: 44.1194
+  longitude: 15.2314
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 8.9
+  experience: 9.0
+  depth: 8.5
+  categories:
+    architecture: 9.1
+    history: 9.2
+    photography: 9.1

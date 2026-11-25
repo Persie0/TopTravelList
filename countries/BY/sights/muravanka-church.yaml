@@ -1,0 +1,15 @@
+id: sight-by-muravanka-church
+name: "Muravanka fortified church"
+location:
+  country_code: BY
+  latitude: 53.68
+  longitude: 25.18
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 8.8
+  experience: 8.2
+  depth: 7.5
+  categories:
+    architecture: 9.2
+    history: 9.1

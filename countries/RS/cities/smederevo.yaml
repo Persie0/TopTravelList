@@ -1,0 +1,15 @@
+id: city-rs-smederevo
+name: "Smederevo"
+location:
+  country_code: RS
+  latitude: 44.664
+  longitude: 20.927
+scores:
+  impact: 8.0
+  uniqueness: 8.1
+  significance: 8.5
+  experience: 8.3
+  depth: 8.0
+  categories:
+    history: 8.9
+    architecture: 8.6

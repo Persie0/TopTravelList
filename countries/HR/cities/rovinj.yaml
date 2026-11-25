@@ -1,0 +1,16 @@
+id: city-hr-rovinj
+name: "Rovinj"
+location:
+  country_code: HR
+  latitude: 45.0812
+  longitude: 13.6387
+scores:
+  impact: 9.0
+  uniqueness: 8.9
+  significance: 8.5
+  experience: 9.0
+  depth: 8.2
+  categories:
+    architecture: 9.2
+    photography: 9.4
+    relaxation: 9.0

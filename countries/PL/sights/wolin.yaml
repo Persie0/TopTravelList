@@ -1,0 +1,16 @@
+id: sight-pl-wolin
+name: "Wolin National Park"
+location:
+  country_code: PL
+  latitude: 53.93
+  longitude: 14.48
+scores:
+  impact: 8.6
+  uniqueness: 8.6
+  significance: 8.4
+  experience: 8.7
+  depth: 8.5
+  categories:
+    nature: 9.1
+    photography: 9.1
+    wildlife: 8.9

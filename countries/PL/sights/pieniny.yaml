@@ -1,0 +1,16 @@
+id: sight-pl-pieniny
+name: "Pieniny National Park (Polish section)"
+location:
+  country_code: PL
+  latitude: 49.42
+  longitude: 20.4
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 8.6
+  experience: 9.0
+  depth: 8.7
+  categories:
+    nature: 9.2
+    photography: 9.2
+    adventure: 9.1

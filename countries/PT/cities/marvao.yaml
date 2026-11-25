@@ -1,0 +1,15 @@
+id: city-pt-marvao
+name: "Marvão"
+location:
+  country_code: PT
+  latitude: 39.394
+  longitude: -7.376
+scores:
+  impact: 8.8
+  uniqueness: 8.6
+  significance: 8.3
+  experience: 8.5
+  depth: 7.3
+  categories:
+    photography: 9.3
+    architecture: 9.0

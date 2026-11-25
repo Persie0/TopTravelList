@@ -1,0 +1,15 @@
+id: city-rs-uzice
+name: "Užice"
+location:
+  country_code: RS
+  latitude: 43.856
+  longitude: 19.842
+scores:
+  impact: 8.0
+  uniqueness: 8.2
+  significance: 8.3
+  experience: 8.3
+  depth: 8.0
+  categories:
+    history: 8.8
+    photography: 8.6

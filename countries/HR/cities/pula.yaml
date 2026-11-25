@@ -1,0 +1,16 @@
+id: city-hr-pula
+name: "Pula"
+location:
+  country_code: HR
+  latitude: 44.8666
+  longitude: 13.8496
+scores:
+  impact: 8.6
+  uniqueness: 8.6
+  significance: 9.0
+  experience: 8.7
+  depth: 8.6
+  categories:
+    history: 9.4
+    architecture: 9.1
+    culture: 8.9

@@ -1,0 +1,15 @@
+id: sight-ch-immeuble-clarte
+name: "Immeuble Clarté, Geneva"
+location:
+  country_code: CH
+  latitude: 46.200158
+  longitude: 6.156408
+scores:
+  impact: 7.8
+  uniqueness: 8.9
+  significance: 9.2
+  experience: 7.3
+  depth: 6.4
+  categories:
+    architecture: 9.3
+    history: 9.1

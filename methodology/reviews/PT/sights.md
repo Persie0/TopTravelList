@@ -1,0 +1,1688 @@
+# PT — Portugal sights: individual worldwide reviews
+
+- [Worldwide v2](../../../rules.md) · [Workflow](../../future-country-workflow.md)
+- Scope: initial mainland, Madeira and Azores inventory. All 17 UNESCO inscriptions and 11 tentative properties represented at property level. Peneda-Gerês is the only national park; nature parks selectively included. GPS approximate, serial components selective. Four city profiles checked against main; sight peer values from earlier repository inspections remain provisional. Source links support identity/context, not all material claims. No new ten-point anchors.
+
+## sight-pt-sintra-landscape — Cultural Landscape of Sintra — 2026-11-25
+
+- YAML: [source](../../../countries/PT/sights/sintra-landscape.yaml)
+- Action: new
+- Precise subject: Cultural Landscape of Sintra; Extensive named landscape not just one palace.
+- Location check: 38.79, -9.4; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO](https://whc.unesco.org/en/statesparties/pt) — consulted 2026-11-25; country inventory confirms property identity and inscription or tentative status; specific visitor conditions and material claims not fully verified.
+- Missing or uncertain facts: exact coordinates, material claims and ordinary permitted visitor scope.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (9.4 / 9.3 / 9.6 / 9.5 / 9.3) | major architectural estate | Uniqueness higher: Rare integrated Romantic cultural landscape; depth higher: Extensive named landscape not just one palace. Broad provisional comparison. |
+| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | historic built ensemble | Uniqueness lower: Rare integrated Romantic cultural landscape; depth higher: Extensive named landscape not just one palace. Broad provisional comparison. |
+| [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | monumental heritage complex | Uniqueness higher: Rare integrated Romantic cultural landscape; depth higher: Extensive named landscape not just one palace. Broad provisional comparison. |
+| [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional historic complex | Uniqueness higher: Rare integrated Romantic cultural landscape; depth higher: Extensive named landscape not just one palace. Broad provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | — | 9.4 | Palaces gardens forested hills and dramatic castle silhouettes |
+| Uniqueness | — | 9.4 | Rare integrated Romantic cultural landscape |
+| Significance | — | 9.3 | International landscape design and architectural heritage |
+| Experience | — | 9.3 | Multiple permitted palace garden and walking experiences |
+| Depth | — | 9.5 | Extensive named landscape not just one palace |
+
+- Applicable category scores: architecture: 9.6, nature: 9.2, photography: 9.5.
+- Computed worldwide overall: 93.75/100.
+- High-score challenge: Depth 9.5: Extensive named landscape not just one palace; architecture 9.6: Palaces gardens forested hills and dramatic castle silhouettes; photography 9.5: Palaces gardens forested hills and dramatic castle silhouettes. 90+ total: Palaces gardens forested hills and dramatic castle silhouettes; Rare integrated Romantic cultural landscape; Extensive named landscape not just one palace. Relative to Schönbrunn, the multiple Romantic estates in forested terrain justify high breadth and architectural variety; significance does not exceed the imperial reference..
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial rating: Rare integrated Romantic cultural landscape; Extensive named landscape not just one palace.
+- Earlier decision: none.
+- Verification still needed: independent claim corroboration, permitted access and closer worldwide peer comparisons.
+
+## sight-pt-pena-palace — Pena Palace and Park — 2026-11-25
+
+- YAML: [source](../../../countries/PT/sights/pena-palace.yaml)
+- Action: new
+- Precise subject: Pena Palace and Park; One palace estate not entire Sintra.
+- Location check: 38.7876, -9.3906; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Turismo de Portugal](https://www.visitportugal.com/en/node/195104) — consulted 2026-11-25; tourism overview supports destination identity or regional context; specific visitor conditions and material claims not fully verified.
+- Missing or uncertain facts: exact coordinates, material claims and ordinary permitted visitor scope.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (9.4 / 9.3 / 9.6 / 9.5 / 9.3) | major architectural estate | Uniqueness similar: Distinct eclectic royal architecture and hilltop setting; depth lower: One palace estate not entire Sintra. Broad provisional comparison. |
+| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | historic built ensemble | Uniqueness lower: Distinct eclectic royal architecture and hilltop setting; depth lower: One palace estate not entire Sintra. Broad provisional comparison. |
+| [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | monumental heritage complex | Uniqueness higher: Distinct eclectic royal architecture and hilltop setting; depth higher: One palace estate not entire Sintra. Broad provisional comparison. |
+| [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional historic complex | Uniqueness higher: Distinct eclectic royal architecture and hilltop setting; depth higher: One palace estate not entire Sintra. Broad provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | — | 9.4 | Colorful Romantic palace above forested slopes |
+| Uniqueness | — | 9.3 | Distinct eclectic royal architecture and hilltop setting |
+| Significance | — | 9.0 | National royal and international Romantic heritage |
+| Experience | — | 9.1 | Managed interiors and extensive garden paths |
+| Depth | — | 9.0 | One palace estate not entire Sintra |
+
+- Applicable category scores: architecture: 9.5, photography: 9.5.
+- Computed worldwide overall: 92.10/100.
+- High-score challenge: architecture 9.5: Colorful Romantic palace above forested slopes; photography 9.5: Colorful Romantic palace above forested slopes. 90+ total: Colorful Romantic palace above forested slopes; Distinct eclectic royal architecture and hilltop setting; One palace estate not entire Sintra. Compare Schönbrunn and Hohensalzburg: the particular architectural or historical merit is independent of visitor breadth; closer monument-type peers still required..
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial rating: Distinct eclectic royal architecture and hilltop setting; One palace estate not entire Sintra.
+- Earlier decision: none.
+- Verification still needed: independent claim corroboration, permitted access and closer worldwide peer comparisons.
+
+## sight-pt-quinta-regaleira — Quinta da Regaleira — 2026-11-25
+
+- YAML: [source](../../../countries/PT/sights/quinta-regaleira.yaml)
+- Action: new
+- Precise subject: Quinta da Regaleira; Defined estate only.
+- Location check: 38.7966, -9.3965; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.regaleira.pt/en/visitas — Estate operator describes permitted visits and timed ticketing; https://www.regaleira.pt/en/destaques/visiting-the-regaleira-palace/ identifies palace visitor scope. Reviewed 2026-11-25; partial evidence, not full independent verification.
+- Missing or uncertain facts: exact coordinates, material claims and ordinary permitted visitor scope.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (9.4 / 9.3 / 9.6 / 9.5 / 9.3) | major architectural estate | Uniqueness similar: Distinct elaborate symbolic garden design; depth lower: Defined estate only. Broad provisional comparison. |
+| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | historic built ensemble | Uniqueness lower: Distinct elaborate symbolic garden design; depth lower: Defined estate only. Broad provisional comparison. |
+| [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | monumental heritage complex | Uniqueness higher: Distinct elaborate symbolic garden design; depth lower: Defined estate only. Broad provisional comparison. |
+| [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional historic complex | Uniqueness higher: Distinct elaborate symbolic garden design; depth higher: Defined estate only. Broad provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | — | 9.1 | Ornate mansion gardens wells and grottoes |
+| Uniqueness | — | 9.3 | Distinct elaborate symbolic garden design |
+| Significance | — | 8.7 | Regional architectural and cultural heritage |
+| Experience | — | 9.1 | Managed paths and historic interiors |
+| Depth | — | 8.8 | Defined estate only |
+
+- Applicable category scores: architecture: 9.4, photography: 9.3.
+- Computed worldwide overall: 90.40/100.
+- High-score challenge: No 9.5+ field. 90+ total: Ornate mansion gardens wells and grottoes; Distinct elaborate symbolic garden design; Defined estate only. Compare Schönbrunn and Hohensalzburg: the particular architectural or historical merit is independent of visitor breadth; closer monument-type peers still required..
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial rating: Distinct elaborate symbolic garden design; Defined estate only.
+- Earlier decision: none.
+- Verification still needed: independent claim corroboration, permitted access and closer worldwide peer comparisons.
+
+## sight-pt-moorish-castle — Castle of the Moors, Sintra — 2026-11-25
+
+- YAML: [source](../../../countries/PT/sights/moorish-castle.yaml)
+- Action: new
+- Precise subject: Castle of the Moors, Sintra; Single fortress not whole landscape.
+- Location check: 38.792, -9.389; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.parquesdesintra.pt/en/parks-monuments/the-moorish-castle/ — Operator identifies hilltop fortifications and history; https://www.parquesdesintra.pt/en/plan-your-visit/guided-visits/moorish-castle/ confirms guided visit. Reviewed 2026-11-25; partial evidence, not full independent verification.
+- Missing or uncertain facts: exact coordinates, material claims and ordinary permitted visitor scope.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (9.4 / 9.3 / 9.6 / 9.5 / 9.3) | major architectural estate | Uniqueness lower: Distinct medieval hilltop defense setting; depth lower: Single fortress not whole landscape. Broad provisional comparison. |
+| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | historic built ensemble | Uniqueness lower: Distinct medieval hilltop defense setting; depth lower: Single fortress not whole landscape. Broad provisional comparison. |
+| [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | monumental heritage complex | Uniqueness lower: Distinct medieval hilltop defense setting; depth lower: Single fortress not whole landscape. Broad provisional comparison. |
+| [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional historic complex | Uniqueness higher: Distinct medieval hilltop defense setting; depth lower: Single fortress not whole landscape. Broad provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | — | 8.9 | Stone walls along rocky mountain ridge |
+| Uniqueness | — | 8.8 | Distinct medieval hilltop defense setting |
+| Significance | — | 8.8 | National and regional military history |
+| Experience | — | 8.9 | Managed wall routes and views |
+| Depth | — | 8.3 | Single fortress not whole landscape |
+
+- Applicable category scores: history: 9.1, photography: 9.3.
+- Computed worldwide overall: 87.95/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial rating: Distinct medieval hilltop defense setting; Single fortress not whole landscape.
+- Earlier decision: none.
+- Verification still needed: independent claim corroboration, permitted access and closer worldwide peer comparisons.
+
+## sight-pt-douro-valley — Alto Douro Wine Region — 2026-11-25
+
+- YAML: [source](../../../countries/PT/sights/douro-valley.yaml)
+- Action: new
+- Precise subject: Alto Douro Wine Region; Multiple river and vineyard sectors.
+- Location check: 41.17, -7.65; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO](https://whc.unesco.org/en/statesparties/pt) — consulted 2026-11-25; country inventory confirms property identity and inscription or tentative status; specific visitor conditions and material claims not fully verified.
+- Missing or uncertain facts: exact coordinates, material claims and ordinary permitted visitor scope.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Jiuzhaigou (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) (9.8 / 9.7 / 9.4 / 9.8 / 9.1) | world-leading scenic landscape | Uniqueness lower: Distinct extensive historic wine-production landscape; depth higher: Multiple river and vineyard sectors. Broad provisional comparison. |
+| [Hohe Tauern (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) (9.4 / 9.1 / 9 / 9.5 / 9.4) | extensive protected mountain landscape | Uniqueness higher: Distinct extensive historic wine-production landscape; depth similar: Multiple river and vineyard sectors. Broad provisional comparison. |
+| [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (8.9 / 9 / 9 / 9.1 / 8.6) | coastal protected habitat | Uniqueness higher: Distinct extensive historic wine-production landscape; depth higher: Multiple river and vineyard sectors. Broad provisional comparison. |
+| [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional protected landscape | Uniqueness higher: Distinct extensive historic wine-production landscape; depth higher: Multiple river and vineyard sectors. Broad provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | — | 9.3 | Terraced vineyards across a deep winding river valley |
+| Uniqueness | — | 9.3 | Distinct extensive historic wine-production landscape |
+| Significance | — | 9.2 | International viticultural and agricultural heritage |
+| Experience | — | 9.2 | Permitted scenic routes and vineyard visits |
+| Depth | — | 9.4 | Multiple river and vineyard sectors |
+
+- Applicable category scores: photography: 9.5, culture: 9.3, food: 9.2, nature: 9.1.
+- Computed worldwide overall: 92.75/100.
+- High-score challenge: photography 9.5: Terraced vineyards across a deep winding river valley. 90+ total: Terraced vineyards across a deep winding river valley; Distinct extensive historic wine-production landscape; Multiple river and vineyard sectors. Compared with Jiuzhaigou and Hohe Tauern, the specific Atlantic, volcanic or river-landscape forms support the named field; scope is limited to the stated visitor area..
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial rating: Distinct extensive historic wine-production landscape; Multiple river and vineyard sectors.
+- Earlier decision: none.
+- Verification still needed: independent claim corroboration, permitted access and closer worldwide peer comparisons.
+
+## sight-pt-porto-historic-centre — Historic Centre of Oporto, Luiz I Bridge and Serra do Pilar Monastery — 2026-11-25
+
+- YAML: [source](../../../countries/PT/sights/porto-historic-centre.yaml)
+- Action: new
+- Precise subject: Historic Centre of Oporto, Luiz I Bridge and Serra do Pilar Monastery; Listed historic precincts not entire city.
+- Location check: 41.14, -8.613; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO](https://whc.unesco.org/en/statesparties/pt) — consulted 2026-11-25; country inventory confirms property identity and inscription or tentative status; specific visitor conditions and material claims not fully verified.
+- Missing or uncertain facts: exact coordinates, material claims and ordinary permitted visitor scope.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (9.4 / 9.3 / 9.6 / 9.5 / 9.3) | major architectural estate | Uniqueness lower: Distinct integrated mercantile river cityscape; depth lower: Listed historic precincts not entire city. Broad provisional comparison. |
+| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | historic built ensemble | Uniqueness lower: Distinct integrated mercantile river cityscape; depth similar: Listed historic precincts not entire city. Broad provisional comparison. |
+| [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | monumental heritage complex | Uniqueness higher: Distinct integrated mercantile river cityscape; depth higher: Listed historic precincts not entire city. Broad provisional comparison. |
+| [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional historic complex | Uniqueness higher: Distinct integrated mercantile river cityscape; depth higher: Listed historic precincts not entire city. Broad provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | — | 9.3 | Steep granite streets iron bridge and riverfront |
+| Uniqueness | — | 9.2 | Distinct integrated mercantile river cityscape |
+| Significance | — | 9.2 | International urban and maritime heritage |
+| Experience | — | 9.3 | Public streets viewpoints and permitted monuments |
+| Depth | — | 9.2 | Listed historic precincts not entire city |
+
+- Applicable category scores: architecture: 9.5, history: 9.3, photography: 9.5.
+- Computed worldwide overall: 92.45/100.
+- High-score challenge: architecture 9.5: Steep granite streets iron bridge and riverfront; photography 9.5: Steep granite streets iron bridge and riverfront. 90+ total: Steep granite streets iron bridge and riverfront; Distinct integrated mercantile river cityscape; Listed historic precincts not entire city. Compare Schönbrunn and Hohensalzburg: the particular architectural or historical merit is independent of visitor breadth; closer monument-type peers still required..
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial rating: Distinct integrated mercantile river cityscape; Listed historic precincts not entire city.
+- Earlier decision: none.
+- Verification still needed: independent claim corroboration, permitted access and closer worldwide peer comparisons.
+
+## sight-pt-jeronimos-belem — Jerónimos Monastery and Belém Tower — 2026-11-25
+
+- YAML: [source](../../../countries/PT/sights/jeronimos-belem.yaml)
+- Action: new
+- Precise subject: Jerónimos Monastery and Belém Tower; Both listed monuments only.
+- Location check: 38.696, -9.208; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO](https://whc.unesco.org/en/statesparties/pt) — consulted 2026-11-25; country inventory confirms property identity and inscription or tentative status; specific visitor conditions and material claims not fully verified.
+- Supplemental evidence (2026-11-25): https://www.museusemonumentos.pt/en/museus-e-monumentos/mosteiro-dos-jeronimos-e-capela-de-sao-jeronimo — Operator confirms cloister and church visits and historic relationship to the tower. Tower reopened May 2026; separate admission required.
+- Missing or uncertain facts: exact coordinates, material claims and ordinary permitted visitor scope.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (9.4 / 9.3 / 9.6 / 9.5 / 9.3) | major architectural estate | Uniqueness similar: Distinct paired maritime-era architectural ensemble; depth lower: Both listed monuments only. Broad provisional comparison. |
+| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | historic built ensemble | Uniqueness lower: Distinct paired maritime-era architectural ensemble; depth lower: Both listed monuments only. Broad provisional comparison. |
+| [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | monumental heritage complex | Uniqueness higher: Distinct paired maritime-era architectural ensemble; depth higher: Both listed monuments only. Broad provisional comparison. |
+| [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional historic complex | Uniqueness higher: Distinct paired maritime-era architectural ensemble; depth higher: Both listed monuments only. Broad provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | — | 9.2 | Elaborate Manueline monuments beside Tagus |
+| Uniqueness | — | 9.3 | Distinct paired maritime-era architectural ensemble |
+| Significance | — | 9.4 | International maritime and architectural heritage |
+| Experience | — | 9.0 | Separate managed monument visits and public grounds |
+| Depth | — | 9.0 | Both listed monuments only |
+
+- Applicable category scores: architecture: 9.5, history: 9.5.
+- Computed worldwide overall: 92.15/100.
+- High-score challenge: architecture 9.5: Elaborate Manueline monuments beside Tagus; history 9.5: International maritime and architectural heritage. 90+ total: Elaborate Manueline monuments beside Tagus; Distinct paired maritime-era architectural ensemble; Both listed monuments only. Compare Schönbrunn and Hohensalzburg: the particular architectural or historical merit is independent of visitor breadth; closer monument-type peers still required..
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial rating: Distinct paired maritime-era architectural ensemble; Both listed monuments only.
+- Earlier decision: none.
+- Verification still needed: independent claim corroboration, permitted access and closer worldwide peer comparisons.
+
+## sight-pt-jeronimos — Jerónimos Monastery — 2026-11-25
+
+- YAML: [source](../../../countries/PT/sights/jeronimos.yaml)
+- Action: new
+- Precise subject: Jerónimos Monastery; Single monastery complex.
+- Location check: 38.697, -9.206; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Turismo de Portugal](https://www.visitportugal.com/en/content/another-lap-in-portugal) — consulted 2026-11-25; tourism overview supports destination identity or regional context; specific visitor conditions and material claims not fully verified.
+- Missing or uncertain facts: exact coordinates, material claims and ordinary permitted visitor scope.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (9.4 / 9.3 / 9.6 / 9.5 / 9.3) | major architectural estate | Uniqueness similar: Distinct monumental Manueline carving and structure; depth lower: Single monastery complex. Broad provisional comparison. |
+| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | historic built ensemble | Uniqueness lower: Distinct monumental Manueline carving and structure; depth lower: Single monastery complex. Broad provisional comparison. |
+| [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | monumental heritage complex | Uniqueness higher: Distinct monumental Manueline carving and structure; depth lower: Single monastery complex. Broad provisional comparison. |
+| [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional historic complex | Uniqueness higher: Distinct monumental Manueline carving and structure; depth higher: Single monastery complex. Broad provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | — | 9.3 | Intricate stone cloisters and vaulted church |
+| Uniqueness | — | 9.3 | Distinct monumental Manueline carving and structure |
+| Significance | — | 9.4 | International architectural and maritime history |
+| Experience | — | 9.0 | Permitted church and cloister visits |
+| Depth | — | 8.8 | Single monastery complex |
+
+- Applicable category scores: architecture: 9.6, history: 9.5.
+- Computed worldwide overall: 92.25/100.
+- High-score challenge: architecture 9.6: Intricate stone cloisters and vaulted church; history 9.5: International architectural and maritime history. 90+ total: Intricate stone cloisters and vaulted church; Distinct monumental Manueline carving and structure; Single monastery complex. Compare Schönbrunn and Hohensalzburg: the particular architectural or historical merit is independent of visitor breadth; closer monument-type peers still required..
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial rating: Distinct monumental Manueline carving and structure; Single monastery complex.
+- Earlier decision: none.
+- Verification still needed: independent claim corroboration, permitted access and closer worldwide peer comparisons.
+
+## sight-pt-belem-tower — Belém Tower — 2026-11-25
+
+- YAML: [source](../../../countries/PT/sights/belem-tower.yaml)
+- Action: new
+- Precise subject: Belém Tower; Ordinary visitor breadth uncertain.
+- Location check: 38.6916, -9.216; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO](https://whc.unesco.org/en/statesparties/pt) — consulted 2026-11-25; country inventory confirms property identity and inscription or tentative status; specific visitor conditions and material claims not fully verified.
+- Supplemental evidence (2026-11-25): https://www.museusemonumentos.pt/en/noticia-com/torre-de-belem-reabre-ao-publico — National monument operator announced public reopening on 27 May 2026 with timed access following restoration; https://www.museusemonumentos.pt/en/pagina/tickets lists tower admission. No unrestricted access to every level assumed.
+- Missing or uncertain facts: exact coordinates, material claims and ordinary permitted visitor scope.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (9.4 / 9.3 / 9.6 / 9.5 / 9.3) | major architectural estate | Uniqueness lower: Distinct Manueline fortification; depth lower: Ordinary visitor breadth uncertain. Broad provisional comparison. |
+| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | historic built ensemble | Uniqueness lower: Distinct Manueline fortification; depth lower: Ordinary visitor breadth uncertain. Broad provisional comparison. |
+| [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | monumental heritage complex | Uniqueness lower: Distinct Manueline fortification; depth lower: Ordinary visitor breadth uncertain. Broad provisional comparison. |
+| [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional historic complex | Uniqueness higher: Distinct Manueline fortification; depth lower: Ordinary visitor breadth uncertain. Broad provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | — | 8.9 | Ornate riverside defensive tower |
+| Uniqueness | — | 9.0 | Distinct Manueline fortification |
+| Significance | — | 9.2 | International maritime and architectural heritage |
+| Experience | — | 8.5 | Timed monument entry restored May 2026; limited interior access rather than guaranteed all levels |
+| Depth | — | 7.8 | One compact fortified tower and interpretation, not the paired UNESCO property |
+
+- Applicable category scores: architecture: 9.3, history: 9.3.
+- Computed worldwide overall: 88.15/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: provisional 88.15 after public reopening; bounded timed monument visitor experience.
+- Earlier decision: none.
+- Verification still needed: independent claim corroboration, permitted access and closer worldwide peer comparisons.
+
+## sight-pt-convent-christ — Convent of Christ, Tomar — 2026-11-25
+
+- YAML: [source](../../../countries/PT/sights/convent-christ.yaml)
+- Action: new
+- Precise subject: Convent of Christ, Tomar; Large defined monastic ensemble.
+- Location check: 39.604, -8.419; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO](https://whc.unesco.org/en/statesparties/pt) — consulted 2026-11-25; country inventory confirms property identity and inscription or tentative status; specific visitor conditions and material claims not fully verified.
+- Missing or uncertain facts: exact coordinates, material claims and ordinary permitted visitor scope.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (9.4 / 9.3 / 9.6 / 9.5 / 9.3) | major architectural estate | Uniqueness similar: Distinct layered Templar and Manueline architecture; depth lower: Large defined monastic ensemble. Broad provisional comparison. |
+| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | historic built ensemble | Uniqueness lower: Distinct layered Templar and Manueline architecture; depth lower: Large defined monastic ensemble. Broad provisional comparison. |
+| [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | monumental heritage complex | Uniqueness higher: Distinct layered Templar and Manueline architecture; depth higher: Large defined monastic ensemble. Broad provisional comparison. |
+| [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional historic complex | Uniqueness higher: Distinct layered Templar and Manueline architecture; depth higher: Large defined monastic ensemble. Broad provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | — | 9.2 | Fortified hilltop monastery round church and carved windows |
+| Uniqueness | — | 9.3 | Distinct layered Templar and Manueline architecture |
+| Significance | — | 9.4 | International religious and architectural heritage |
+| Experience | — | 9.1 | Managed extensive cloisters and church visit |
+| Depth | — | 9.1 | Large defined monastic ensemble |
+
+- Applicable category scores: architecture: 9.5, history: 9.5.
+- Computed worldwide overall: 92.40/100.
+- High-score challenge: architecture 9.5: Fortified hilltop monastery round church and carved windows; history 9.5: International religious and architectural heritage. 90+ total: Fortified hilltop monastery round church and carved windows; Distinct layered Templar and Manueline architecture; Large defined monastic ensemble. Compare Schönbrunn and Hohensalzburg: the particular architectural or historical merit is independent of visitor breadth; closer monument-type peers still required..
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial rating: Distinct layered Templar and Manueline architecture; Large defined monastic ensemble.
+- Earlier decision: none.
+- Verification still needed: independent claim corroboration, permitted access and closer worldwide peer comparisons.
+
+## sight-pt-batalha — Monastery of Batalha — 2026-11-25
+
+- YAML: [source](../../../countries/PT/sights/batalha.yaml)
+- Action: new
+- Precise subject: Monastery of Batalha; One monastery complex.
+- Location check: 39.659, -8.826; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO](https://whc.unesco.org/en/statesparties/pt) — consulted 2026-11-25; country inventory confirms property identity and inscription or tentative status; specific visitor conditions and material claims not fully verified.
+- Missing or uncertain facts: exact coordinates, material claims and ordinary permitted visitor scope.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (9.4 / 9.3 / 9.6 / 9.5 / 9.3) | major architectural estate | Uniqueness lower: Distinct Portuguese late Gothic architectural ensemble; depth lower: One monastery complex. Broad provisional comparison. |
+| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | historic built ensemble | Uniqueness lower: Distinct Portuguese late Gothic architectural ensemble; depth lower: One monastery complex. Broad provisional comparison. |
+| [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | monumental heritage complex | Uniqueness higher: Distinct Portuguese late Gothic architectural ensemble; depth lower: One monastery complex. Broad provisional comparison. |
+| [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional historic complex | Uniqueness higher: Distinct Portuguese late Gothic architectural ensemble; depth higher: One monastery complex. Broad provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | — | 9.2 | Monumental Gothic stonework and unfinished chapels |
+| Uniqueness | — | 9.2 | Distinct Portuguese late Gothic architectural ensemble |
+| Significance | — | 9.3 | International architecture and national royal history |
+| Experience | — | 9.0 | Managed church and cloister visits |
+| Depth | — | 8.7 | One monastery complex |
+
+- Applicable category scores: architecture: 9.5, history: 9.4.
+- Computed worldwide overall: 91.40/100.
+- High-score challenge: architecture 9.5: Monumental Gothic stonework and unfinished chapels. 90+ total: Monumental Gothic stonework and unfinished chapels; Distinct Portuguese late Gothic architectural ensemble; One monastery complex. Compare Schönbrunn and Hohensalzburg: the particular architectural or historical merit is independent of visitor breadth; closer monument-type peers still required..
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial rating: Distinct Portuguese late Gothic architectural ensemble; One monastery complex.
+- Earlier decision: none.
+- Verification still needed: independent claim corroboration, permitted access and closer worldwide peer comparisons.
+
+## sight-pt-alcobaca — Monastery of Alcobaça — 2026-11-25
+
+- YAML: [source](../../../countries/PT/sights/alcobaca.yaml)
+- Action: new
+- Precise subject: Monastery of Alcobaça; One monastery.
+- Location check: 39.548, -8.98; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO](https://whc.unesco.org/en/statesparties/pt) — consulted 2026-11-25; country inventory confirms property identity and inscription or tentative status; specific visitor conditions and material claims not fully verified.
+- Missing or uncertain facts: exact coordinates, material claims and ordinary permitted visitor scope.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (9.4 / 9.3 / 9.6 / 9.5 / 9.3) | major architectural estate | Uniqueness lower: Distinct Cistercian royal monastic architecture; depth lower: One monastery. Broad provisional comparison. |
+| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | historic built ensemble | Uniqueness lower: Distinct Cistercian royal monastic architecture; depth lower: One monastery. Broad provisional comparison. |
+| [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | monumental heritage complex | Uniqueness lower: Distinct Cistercian royal monastic architecture; depth lower: One monastery. Broad provisional comparison. |
+| [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional historic complex | Uniqueness higher: Distinct Cistercian royal monastic architecture; depth higher: One monastery. Broad provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | — | 9.0 | Large austere Gothic church and ornate royal tombs |
+| Uniqueness | — | 9.0 | Distinct Cistercian royal monastic architecture |
+| Significance | — | 9.3 | International medieval religious and architectural heritage |
+| Experience | — | 8.9 | Managed church cloisters and rooms |
+| Depth | — | 8.8 | One monastery |
+
+- Applicable category scores: architecture: 9.4, history: 9.4.
+- Computed worldwide overall: 90.25/100.
+- High-score challenge: No 9.5+ field. 90+ total: Large austere Gothic church and ornate royal tombs; Distinct Cistercian royal monastic architecture; One monastery. Compare Schönbrunn and Hohensalzburg: the particular architectural or historical merit is independent of visitor breadth; closer monument-type peers still required..
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial rating: Distinct Cistercian royal monastic architecture; One monastery.
+- Earlier decision: none.
+- Verification still needed: independent claim corroboration, permitted access and closer worldwide peer comparisons.
+
+## sight-pt-evora-core — Historic Centre of Évora — 2026-11-25
+
+- YAML: [source](../../../countries/PT/sights/evora-core.yaml)
+- Action: new
+- Precise subject: Historic Centre of Évora; Listed core only.
+- Location check: 38.571, -7.909; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO](https://whc.unesco.org/en/statesparties/pt) — consulted 2026-11-25; country inventory confirms property identity and inscription or tentative status; specific visitor conditions and material claims not fully verified.
+- Missing or uncertain facts: exact coordinates, material claims and ordinary permitted visitor scope.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (9.4 / 9.3 / 9.6 / 9.5 / 9.3) | major architectural estate | Uniqueness lower: Distinct preserved Alentejo urban fabric; depth lower: Listed core only. Broad provisional comparison. |
+| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | historic built ensemble | Uniqueness lower: Distinct preserved Alentejo urban fabric; depth lower: Listed core only. Broad provisional comparison. |
+| [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | monumental heritage complex | Uniqueness lower: Distinct preserved Alentejo urban fabric; depth lower: Listed core only. Broad provisional comparison. |
+| [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional historic complex | Uniqueness higher: Distinct preserved Alentejo urban fabric; depth higher: Listed core only. Broad provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | — | 9.0 | Roman temple medieval churches and whitewashed streets |
+| Uniqueness | — | 8.9 | Distinct preserved Alentejo urban fabric |
+| Significance | — | 9.1 | International urban heritage |
+| Experience | — | 8.9 | Public streets museums and monuments |
+| Depth | — | 8.6 | Listed core only |
+
+- Applicable category scores: architecture: 9.3, history: 9.3.
+- Computed worldwide overall: 89.40/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial rating: Distinct preserved Alentejo urban fabric; Listed core only.
+- Earlier decision: none.
+- Verification still needed: independent claim corroboration, permitted access and closer worldwide peer comparisons.
+
+## sight-pt-guimaraes-core — Historic Centre of Guimarães and Couros Zone — 2026-11-25
+
+- YAML: [source](../../../countries/PT/sights/guimaraes-core.yaml)
+- Action: new
+- Precise subject: Historic Centre of Guimarães and Couros Zone; Listed core and Couros area.
+- Location check: 41.443, -8.295; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO](https://whc.unesco.org/en/statesparties/pt) — consulted 2026-11-25; country inventory confirms property identity and inscription or tentative status; specific visitor conditions and material claims not fully verified.
+- Missing or uncertain facts: exact coordinates, material claims and ordinary permitted visitor scope.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (9.4 / 9.3 / 9.6 / 9.5 / 9.3) | major architectural estate | Uniqueness lower: Distinct layered civic and industrial urban fabric; depth lower: Listed core and Couros area. Broad provisional comparison. |
+| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | historic built ensemble | Uniqueness lower: Distinct layered civic and industrial urban fabric; depth lower: Listed core and Couros area. Broad provisional comparison. |
+| [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | monumental heritage complex | Uniqueness lower: Distinct layered civic and industrial urban fabric; depth lower: Listed core and Couros area. Broad provisional comparison. |
+| [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional historic complex | Uniqueness higher: Distinct layered civic and industrial urban fabric; depth higher: Listed core and Couros area. Broad provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | — | 8.9 | Medieval streets and former leather-working district |
+| Uniqueness | — | 8.9 | Distinct layered civic and industrial urban fabric |
+| Significance | — | 9.1 | International urban and national historical heritage |
+| Experience | — | 8.8 | Public streets and permitted museums |
+| Depth | — | 8.8 | Listed core and Couros area |
+
+- Applicable category scores: architecture: 9.3, history: 9.3.
+- Computed worldwide overall: 89.15/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial rating: Distinct layered civic and industrial urban fabric; Listed core and Couros area.
+- Earlier decision: none.
+- Verification still needed: independent claim corroboration, permitted access and closer worldwide peer comparisons.
+
+## sight-pt-elvas-fortifications — Garrison Border Town of Elvas and its Fortifications — 2026-11-25
+
+- YAML: [source](../../../countries/PT/sights/elvas-fortifications.yaml)
+- Action: new
+- Precise subject: Garrison Border Town of Elvas and its Fortifications; Listed garrison landscape.
+- Location check: 38.88, -7.16; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO](https://whc.unesco.org/en/statesparties/pt) — consulted 2026-11-25; country inventory confirms property identity and inscription or tentative status; specific visitor conditions and material claims not fully verified.
+- Missing or uncertain facts: exact coordinates, material claims and ordinary permitted visitor scope.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (9.4 / 9.3 / 9.6 / 9.5 / 9.3) | major architectural estate | Uniqueness lower: Distinct large integrated frontier fortification network; depth lower: Listed garrison landscape. Broad provisional comparison. |
+| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | historic built ensemble | Uniqueness lower: Distinct large integrated frontier fortification network; depth similar: Listed garrison landscape. Broad provisional comparison. |
+| [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | monumental heritage complex | Uniqueness higher: Distinct large integrated frontier fortification network; depth higher: Listed garrison landscape. Broad provisional comparison. |
+| [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional historic complex | Uniqueness higher: Distinct large integrated frontier fortification network; depth higher: Listed garrison landscape. Broad provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | — | 8.9 | Extensive bastions forts and monumental aqueduct |
+| Uniqueness | — | 9.2 | Distinct large integrated frontier fortification network |
+| Significance | — | 9.3 | International military engineering heritage |
+| Experience | — | 8.8 | Separate permitted town and fortress visits |
+| Depth | — | 9.2 | Listed garrison landscape |
+
+- Applicable category scores: architecture: 9.3, history: 9.4.
+- Computed worldwide overall: 90.70/100.
+- High-score challenge: No 9.5+ field. 90+ total: Extensive bastions forts and monumental aqueduct; Distinct large integrated frontier fortification network; Listed garrison landscape. Compare Schönbrunn and Hohensalzburg: the particular architectural or historical merit is independent of visitor breadth; closer monument-type peers still required..
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial rating: Distinct large integrated frontier fortification network; Listed garrison landscape.
+- Earlier decision: none.
+- Verification still needed: independent claim corroboration, permitted access and closer worldwide peer comparisons.
+
+## sight-pt-angra-core — Central Zone of Angra do Heroísmo — 2026-11-25
+
+- YAML: [source](../../../countries/PT/sights/angra-core.yaml)
+- Action: new
+- Precise subject: Central Zone of Angra do Heroísmo; Listed urban zone.
+- Location check: 38.655, -27.216; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO](https://whc.unesco.org/en/statesparties/pt) — consulted 2026-11-25; country inventory confirms property identity and inscription or tentative status; specific visitor conditions and material claims not fully verified.
+- Missing or uncertain facts: exact coordinates, material claims and ordinary permitted visitor scope.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (9.4 / 9.3 / 9.6 / 9.5 / 9.3) | major architectural estate | Uniqueness lower: Distinct early Atlantic port planning; depth lower: Listed urban zone. Broad provisional comparison. |
+| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | historic built ensemble | Uniqueness lower: Distinct early Atlantic port planning; depth lower: Listed urban zone. Broad provisional comparison. |
+| [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | monumental heritage complex | Uniqueness lower: Distinct early Atlantic port planning; depth lower: Listed urban zone. Broad provisional comparison. |
+| [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional historic complex | Uniqueness higher: Distinct early Atlantic port planning; depth higher: Listed urban zone. Broad provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | — | 8.8 | Historic streets and maritime fortifications |
+| Uniqueness | — | 9.0 | Distinct early Atlantic port planning |
+| Significance | — | 9.1 | International maritime navigation heritage |
+| Experience | — | 8.8 | Public historic streets and permitted sites |
+| Depth | — | 8.6 | Listed urban zone |
+
+- Applicable category scores: architecture: 9.3, history: 9.3.
+- Computed worldwide overall: 88.90/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial rating: Distinct early Atlantic port planning; Listed urban zone.
+- Earlier decision: none.
+- Verification still needed: independent claim corroboration, permitted access and closer worldwide peer comparisons.
+
+## sight-pt-pico-vineyards — Landscape of the Pico Island Vineyard Culture — 2026-11-25
+
+- YAML: [source](../../../countries/PT/sights/pico-vineyards.yaml)
+- Action: new
+- Precise subject: Landscape of the Pico Island Vineyard Culture; Listed vineyard zones not mountain summit.
+- Location check: 38.52, -28.52; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Turismo de Portugal](https://www.visitportugal.com/en/content/another-lap-in-portugal) — consulted 2026-11-25; tourism overview supports destination identity or regional context; specific visitor conditions and material claims not fully verified.
+- Missing or uncertain facts: exact coordinates, material claims and ordinary permitted visitor scope.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Jiuzhaigou (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) (9.8 / 9.7 / 9.4 / 9.8 / 9.1) | world-leading scenic landscape | Uniqueness lower: Rare extensive volcanic vineyard landscape; depth lower: Listed vineyard zones not mountain summit. Broad provisional comparison. |
+| [Hohe Tauern (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) (9.4 / 9.1 / 9 / 9.5 / 9.4) | extensive protected mountain landscape | Uniqueness higher: Rare extensive volcanic vineyard landscape; depth lower: Listed vineyard zones not mountain summit. Broad provisional comparison. |
+| [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (8.9 / 9 / 9 / 9.1 / 8.6) | coastal protected habitat | Uniqueness higher: Rare extensive volcanic vineyard landscape; depth higher: Listed vineyard zones not mountain summit. Broad provisional comparison. |
+| [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional protected landscape | Uniqueness higher: Rare extensive volcanic vineyard landscape; depth higher: Listed vineyard zones not mountain summit. Broad provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | — | 8.9 | Black lava stone enclosures against ocean and volcano |
+| Uniqueness | — | 9.3 | Rare extensive volcanic vineyard landscape |
+| Significance | — | 9.2 | International agricultural heritage |
+| Experience | — | 8.8 | Permitted vineyard-area walks and interpretation |
+| Depth | — | 8.8 | Listed vineyard zones not mountain summit |
+
+- Applicable category scores: culture: 9.4, photography: 9.2, food: 9.1.
+- Computed worldwide overall: 90.35/100.
+- High-score challenge: No 9.5+ field. 90+ total: Black lava stone enclosures against ocean and volcano; Rare extensive volcanic vineyard landscape; Listed vineyard zones not mountain summit. Compared with Jiuzhaigou and Hohe Tauern, the specific Atlantic, volcanic or river-landscape forms support the named field; scope is limited to the stated visitor area..
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial rating: Rare extensive volcanic vineyard landscape; Listed vineyard zones not mountain summit.
+- Earlier decision: none.
+- Verification still needed: independent claim corroboration, permitted access and closer worldwide peer comparisons.
+
+## sight-pt-coa-rock-art — Côa Valley prehistoric rock art (Portuguese section) — 2026-11-25
+
+- YAML: [source](../../../countries/PT/sights/coa-rock-art.yaml)
+- Action: new
+- Precise subject: Côa Valley prehistoric rock art (Portuguese section); Portuguese sites not Spanish Siega Verde.
+- Location check: 41.05, -7.11; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO](https://whc.unesco.org/en/statesparties/pt) — consulted 2026-11-25; country inventory confirms property identity and inscription or tentative status; specific visitor conditions and material claims not fully verified.
+- Missing or uncertain facts: exact coordinates, material claims and ordinary permitted visitor scope.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (9.4 / 9.3 / 9.6 / 9.5 / 9.3) | major architectural estate | Uniqueness similar: Rare major prehistoric open-air rock art concentration; depth lower: Portuguese sites not Spanish Siega Verde. Broad provisional comparison. |
+| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | historic built ensemble | Uniqueness lower: Rare major prehistoric open-air rock art concentration; depth lower: Portuguese sites not Spanish Siega Verde. Broad provisional comparison. |
+| [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | monumental heritage complex | Uniqueness higher: Rare major prehistoric open-air rock art concentration; depth lower: Portuguese sites not Spanish Siega Verde. Broad provisional comparison. |
+| [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional historic complex | Uniqueness higher: Rare major prehistoric open-air rock art concentration; depth higher: Portuguese sites not Spanish Siega Verde. Broad provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | — | 8.4 | Open-air engraved rock panels in river valley |
+| Uniqueness | — | 9.3 | Rare major prehistoric open-air rock art concentration |
+| Significance | — | 9.5 | International prehistoric archaeological heritage |
+| Experience | — | 8.7 | Managed guided visits and museum interpretation |
+| Depth | — | 8.8 | Portuguese sites not Spanish Siega Verde |
+
+- Applicable category scores: history: 9.5, culture: 9.2.
+- Computed worldwide overall: 89.30/100.
+- High-score challenge: Significance 9.5: International prehistoric archaeological heritage; history 9.5: International prehistoric archaeological heritage. Compare Schönbrunn and Hohensalzburg: the particular architectural or historical merit is independent of visitor breadth; closer monument-type peers still required..
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial rating: Rare major prehistoric open-air rock art concentration; Portuguese sites not Spanish Siega Verde.
+- Earlier decision: none.
+- Verification still needed: independent claim corroboration, permitted access and closer worldwide peer comparisons.
+
+## sight-pt-mafra — Royal Building of Mafra — 2026-11-25
+
+- YAML: [source](../../../countries/PT/sights/mafra.yaml)
+- Action: new
+- Precise subject: Royal Building of Mafra; Listed estate only.
+- Location check: 38.937, -9.327; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO](https://whc.unesco.org/en/statesparties/pt) — consulted 2026-11-25; country inventory confirms property identity and inscription or tentative status; specific visitor conditions and material claims not fully verified.
+- Missing or uncertain facts: exact coordinates, material claims and ordinary permitted visitor scope.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (9.4 / 9.3 / 9.6 / 9.5 / 9.3) | major architectural estate | Uniqueness lower: Distinct extensive integrated royal and monastic complex; depth lower: Listed estate only. Broad provisional comparison. |
+| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | historic built ensemble | Uniqueness lower: Distinct extensive integrated royal and monastic complex; depth similar: Listed estate only. Broad provisional comparison. |
+| [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | monumental heritage complex | Uniqueness similar: Distinct extensive integrated royal and monastic complex; depth higher: Listed estate only. Broad provisional comparison. |
+| [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional historic complex | Uniqueness higher: Distinct extensive integrated royal and monastic complex; depth higher: Listed estate only. Broad provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | — | 9.1 | Monumental palace basilica library and grounds |
+| Uniqueness | — | 9.1 | Distinct extensive integrated royal and monastic complex |
+| Significance | — | 9.2 | International Baroque architecture and national history |
+| Experience | — | 9.0 | Permitted palace rooms gardens and park visits |
+| Depth | — | 9.2 | Listed estate only |
+
+- Applicable category scores: architecture: 9.4, history: 9.3.
+- Computed worldwide overall: 91.15/100.
+- High-score challenge: No 9.5+ field. 90+ total: Monumental palace basilica library and grounds; Distinct extensive integrated royal and monastic complex; Listed estate only. Compare Schönbrunn and Hohensalzburg: the particular architectural or historical merit is independent of visitor breadth; closer monument-type peers still required..
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial rating: Distinct extensive integrated royal and monastic complex; Listed estate only.
+- Earlier decision: none.
+- Verification still needed: independent claim corroboration, permitted access and closer worldwide peer comparisons.
+
+## sight-pt-bom-jesus — Sanctuary of Bom Jesus do Monte — 2026-11-25
+
+- YAML: [source](../../../countries/PT/sights/bom-jesus.yaml)
+- Action: new
+- Precise subject: Sanctuary of Bom Jesus do Monte; Defined sanctuary grounds.
+- Location check: 41.555, -8.378; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO](https://whc.unesco.org/en/statesparties/pt) — consulted 2026-11-25; country inventory confirms property identity and inscription or tentative status; specific visitor conditions and material claims not fully verified.
+- Missing or uncertain facts: exact coordinates, material claims and ordinary permitted visitor scope.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (9.4 / 9.3 / 9.6 / 9.5 / 9.3) | major architectural estate | Uniqueness lower: Distinct Baroque pilgrimage landscape; depth lower: Defined sanctuary grounds. Broad provisional comparison. |
+| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | historic built ensemble | Uniqueness lower: Distinct Baroque pilgrimage landscape; depth lower: Defined sanctuary grounds. Broad provisional comparison. |
+| [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | monumental heritage complex | Uniqueness similar: Distinct Baroque pilgrimage landscape; depth lower: Defined sanctuary grounds. Broad provisional comparison. |
+| [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional historic complex | Uniqueness higher: Distinct Baroque pilgrimage landscape; depth higher: Defined sanctuary grounds. Broad provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | — | 9.0 | Monumental zigzag staircase and hilltop church |
+| Uniqueness | — | 9.1 | Distinct Baroque pilgrimage landscape |
+| Significance | — | 9.1 | International religious architectural heritage |
+| Experience | — | 9.0 | Public staircase and permitted sanctuary visit |
+| Depth | — | 8.6 | Defined sanctuary grounds |
+
+- Applicable category scores: architecture: 9.4, photography: 9.4, culture: 9.1.
+- Computed worldwide overall: 90.05/100.
+- High-score challenge: No 9.5+ field. 90+ total: Monumental zigzag staircase and hilltop church; Distinct Baroque pilgrimage landscape; Defined sanctuary grounds. Compare Schönbrunn and Hohensalzburg: the particular architectural or historical merit is independent of visitor breadth; closer monument-type peers still required..
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial rating: Distinct Baroque pilgrimage landscape; Defined sanctuary grounds.
+- Earlier decision: none.
+- Verification still needed: independent claim corroboration, permitted access and closer worldwide peer comparisons.
+
+## sight-pt-coimbra-university — University of Coimbra – Alta and Sofia — 2026-11-25
+
+- YAML: [source](../../../countries/PT/sights/coimbra-university.yaml)
+- Action: new
+- Precise subject: University of Coimbra – Alta and Sofia; Listed university precincts.
+- Location check: 40.208, -8.426; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO](https://whc.unesco.org/en/statesparties/pt) — consulted 2026-11-25; country inventory confirms property identity and inscription or tentative status; specific visitor conditions and material claims not fully verified.
+- Missing or uncertain facts: exact coordinates, material claims and ordinary permitted visitor scope.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (9.4 / 9.3 / 9.6 / 9.5 / 9.3) | major architectural estate | Uniqueness lower: Distinct longstanding university urban ensemble; depth lower: Listed university precincts. Broad provisional comparison. |
+| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | historic built ensemble | Uniqueness lower: Distinct longstanding university urban ensemble; depth lower: Listed university precincts. Broad provisional comparison. |
+| [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | monumental heritage complex | Uniqueness similar: Distinct longstanding university urban ensemble; depth higher: Listed university precincts. Broad provisional comparison. |
+| [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional historic complex | Uniqueness higher: Distinct longstanding university urban ensemble; depth higher: Listed university precincts. Broad provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | — | 9.0 | Historic academic courtyards library and colleges |
+| Uniqueness | — | 9.1 | Distinct longstanding university urban ensemble |
+| Significance | — | 9.4 | International educational heritage |
+| Experience | — | 8.9 | Permitted library and academic heritage visits |
+| Depth | — | 9.1 | Listed university precincts |
+
+- Applicable category scores: architecture: 9.4, history: 9.4, culture: 9.3.
+- Computed worldwide overall: 91.00/100.
+- High-score challenge: No 9.5+ field. 90+ total: Historic academic courtyards library and colleges; Distinct longstanding university urban ensemble; Listed university precincts. Compare Schönbrunn and Hohensalzburg: the particular architectural or historical merit is independent of visitor breadth; closer monument-type peers still required..
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial rating: Distinct longstanding university urban ensemble; Listed university precincts.
+- Earlier decision: none.
+- Verification still needed: independent claim corroboration, permitted access and closer worldwide peer comparisons.
+
+## sight-pt-laurisilva — Laurisilva of Madeira — 2026-11-25
+
+- YAML: [source](../../../countries/PT/sights/laurisilva.yaml)
+- Action: new
+- Precise subject: Laurisilva of Madeira; Accessible forest sectors not restricted core.
+- Location check: 32.76, -17.06; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Turismo de Portugal](https://www.visitportugal.com/en/destinos/madeira/410187) — consulted 2026-11-25; tourism overview supports destination identity or regional context; specific visitor conditions and material claims not fully verified.
+- Missing or uncertain facts: exact coordinates, material claims and ordinary permitted visitor scope.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Jiuzhaigou (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) (9.8 / 9.7 / 9.4 / 9.8 / 9.1) | world-leading scenic landscape | Uniqueness lower: Rare extensive surviving Macaronesian laurel ecosystem; depth higher: Accessible forest sectors not restricted core. Broad provisional comparison. |
+| [Hohe Tauern (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) (9.4 / 9.1 / 9 / 9.5 / 9.4) | extensive protected mountain landscape | Uniqueness higher: Rare extensive surviving Macaronesian laurel ecosystem; depth lower: Accessible forest sectors not restricted core. Broad provisional comparison. |
+| [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (8.9 / 9 / 9 / 9.1 / 8.6) | coastal protected habitat | Uniqueness higher: Rare extensive surviving Macaronesian laurel ecosystem; depth higher: Accessible forest sectors not restricted core. Broad provisional comparison. |
+| [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional protected landscape | Uniqueness higher: Rare extensive surviving Macaronesian laurel ecosystem; depth higher: Accessible forest sectors not restricted core. Broad provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | — | 9.2 | Ancient misty laurel forests and steep valleys |
+| Uniqueness | — | 9.4 | Rare extensive surviving Macaronesian laurel ecosystem |
+| Significance | — | 9.5 | International ecological conservation |
+| Experience | — | 9.1 | Permitted forest paths and levada walks |
+| Depth | — | 9.3 | Accessible forest sectors not restricted core |
+
+- Applicable category scores: nature: 9.6, photography: 9.4, adventure: 9.2.
+- Computed worldwide overall: 93.05/100.
+- High-score challenge: Significance 9.5: International ecological conservation; nature 9.6: Rare extensive surviving Macaronesian laurel ecosystem. 90+ total: Ancient misty laurel forests and steep valleys; Rare extensive surviving Macaronesian laurel ecosystem; Accessible forest sectors not restricted core. Relative to Hohe Tauern and Jiuzhaigou, exceptional nature and significance reflect the rare surviving laurel ecosystem, not comparable alpine scale or guaranteed access..
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial rating: Rare extensive surviving Macaronesian laurel ecosystem; Accessible forest sectors not restricted core.
+- Earlier decision: none.
+- Verification still needed: independent claim corroboration, permitted access and closer worldwide peer comparisons.
+
+## sight-pt-peneda-geres — Peneda-Gerês National Park — 2026-11-25
+
+- YAML: [source](../../../countries/PT/sights/peneda-geres.yaml)
+- Action: new
+- Precise subject: Peneda-Gerês National Park; Multiple park valleys and uplands.
+- Location check: 41.8, -8.1; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Turismo de Portugal](https://www.visitportugal.com/en/content/parque-nacional-da-peneda-geres) — consulted 2026-11-25; tourism overview supports destination identity or regional context; specific visitor conditions and material claims not fully verified.
+- Missing or uncertain facts: exact coordinates, material claims and ordinary permitted visitor scope.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Jiuzhaigou (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) (9.8 / 9.7 / 9.4 / 9.8 / 9.1) | world-leading scenic landscape | Uniqueness lower: Distinct northwestern Iberian mountain landscape; depth higher: Multiple park valleys and uplands. Broad provisional comparison. |
+| [Hohe Tauern (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) (9.4 / 9.1 / 9 / 9.5 / 9.4) | extensive protected mountain landscape | Uniqueness lower: Distinct northwestern Iberian mountain landscape; depth lower: Multiple park valleys and uplands. Broad provisional comparison. |
+| [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (8.9 / 9 / 9 / 9.1 / 8.6) | coastal protected habitat | Uniqueness similar: Distinct northwestern Iberian mountain landscape; depth higher: Multiple park valleys and uplands. Broad provisional comparison. |
+| [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional protected landscape | Uniqueness lower: Distinct northwestern Iberian mountain landscape; depth higher: Multiple park valleys and uplands. Broad provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | — | 9.1 | Granite mountains forests waterfalls and villages |
+| Uniqueness | — | 9.0 | Distinct northwestern Iberian mountain landscape |
+| Significance | — | 8.9 | National biodiversity and cultural landscape heritage |
+| Experience | — | 9.1 | Marked trails and permitted village visits |
+| Depth | — | 9.3 | Multiple park valleys and uplands |
+
+- Applicable category scores: nature: 9.4, adventure: 9.2, photography: 9.3.
+- Computed worldwide overall: 90.55/100.
+- High-score challenge: No 9.5+ field. 90+ total: Granite mountains forests waterfalls and villages; Distinct northwestern Iberian mountain landscape; Multiple park valleys and uplands. Compared with Jiuzhaigou and Hohe Tauern, the specific Atlantic, volcanic or river-landscape forms support the named field; scope is limited to the stated visitor area..
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial rating: Distinct northwestern Iberian mountain landscape; Multiple park valleys and uplands.
+- Earlier decision: none.
+- Verification still needed: independent claim corroboration, permitted access and closer worldwide peer comparisons.
+
+## sight-pt-mertola-core — Historic and archaeological ensemble of Mértola (tentative) — 2026-11-25
+
+- YAML: [source](../../../countries/PT/sights/mertola-core.yaml)
+- Action: new
+- Precise subject: Historic and archaeological ensemble of Mértola (tentative); Historic precinct not whole municipality.
+- Location check: 37.638, -7.661; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO](https://whc.unesco.org/en/statesparties/pt) — consulted 2026-11-25; country inventory confirms property identity and inscription or tentative status; specific visitor conditions and material claims not fully verified.
+- Missing or uncertain facts: exact coordinates, material claims and ordinary permitted visitor scope.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (9.4 / 9.3 / 9.6 / 9.5 / 9.3) | major architectural estate | Uniqueness lower: Distinct preserved Islamic and Christian layers; depth lower: Historic precinct not whole municipality. Broad provisional comparison. |
+| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | historic built ensemble | Uniqueness lower: Distinct preserved Islamic and Christian layers; depth lower: Historic precinct not whole municipality. Broad provisional comparison. |
+| [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | monumental heritage complex | Uniqueness lower: Distinct preserved Islamic and Christian layers; depth lower: Historic precinct not whole municipality. Broad provisional comparison. |
+| [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional historic complex | Uniqueness higher: Distinct preserved Islamic and Christian layers; depth higher: Historic precinct not whole municipality. Broad provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | — | 8.5 | Hilltop castle mosque-church and archaeological collections |
+| Uniqueness | — | 8.9 | Distinct preserved Islamic and Christian layers |
+| Significance | — | 9.1 | National and proposed international archaeological heritage |
+| Experience | — | 8.5 | Public streets and permitted museum sites |
+| Depth | — | 8.6 | Historic precinct not whole municipality |
+
+- Applicable category scores: history: 9.3, architecture: 9.1.
+- Computed worldwide overall: 87.30/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial rating: Distinct preserved Islamic and Christian layers; Historic precinct not whole municipality.
+- Earlier decision: none.
+- Verification still needed: independent claim corroboration, permitted access and closer worldwide peer comparisons.
+
+## sight-pt-vila-vicosa — Vila Viçosa Renaissance ducal town (tentative) — 2026-11-25
+
+- YAML: [source](../../../countries/PT/sights/vila-vicosa.yaml)
+- Action: new
+- Precise subject: Vila Viçosa Renaissance ducal town (tentative); Defined ducal town.
+- Location check: 38.779, -7.417; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO](https://whc.unesco.org/en/statesparties/pt) — consulted 2026-11-25; country inventory confirms property identity and inscription or tentative status; specific visitor conditions and material claims not fully verified.
+- Missing or uncertain facts: exact coordinates, material claims and ordinary permitted visitor scope.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (9.4 / 9.3 / 9.6 / 9.5 / 9.3) | major architectural estate | Uniqueness lower: Distinct Renaissance aristocratic townscape; depth lower: Defined ducal town. Broad provisional comparison. |
+| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | historic built ensemble | Uniqueness lower: Distinct Renaissance aristocratic townscape; depth lower: Defined ducal town. Broad provisional comparison. |
+| [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | monumental heritage complex | Uniqueness lower: Distinct Renaissance aristocratic townscape; depth lower: Defined ducal town. Broad provisional comparison. |
+| [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional historic complex | Uniqueness higher: Distinct Renaissance aristocratic townscape; depth higher: Defined ducal town. Broad provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | — | 8.7 | Ducal palace marble streets and historic civic ensemble |
+| Uniqueness | — | 8.8 | Distinct Renaissance aristocratic townscape |
+| Significance | — | 9.0 | National dynastic and architectural heritage |
+| Experience | — | 8.6 | Permitted palace and town visits |
+| Depth | — | 8.6 | Defined ducal town |
+
+- Applicable category scores: architecture: 9.2, history: 9.2.
+- Computed worldwide overall: 87.60/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial rating: Distinct Renaissance aristocratic townscape; Defined ducal town.
+- Earlier decision: none.
+- Verification still needed: independent claim corroboration, permitted access and closer worldwide peer comparisons.
+
+## sight-pt-selvagens — Selvagens Islands (tentative) — 2026-11-25
+
+- YAML: [source](../../../countries/PT/sights/selvagens.yaml)
+- Action: new
+- Precise subject: Selvagens Islands (tentative); No ordinary island circuit assumed.
+- Location check: 30.14, -15.87; approximate representative point, independent verification pending.
+- Evidence status: **unassessed**
+- Evidence: [UNESCO](https://whc.unesco.org/en/statesparties/pt) — consulted 2026-11-25; country inventory confirms property identity and inscription or tentative status; specific visitor conditions and material claims not fully verified.
+- Supplemental evidence (2026-11-25): https://ifcn.madeira.gov.pt/pt/areas-protegidas/ilhas-selvagens/como-visitar?format=html — Conservation authority confirms guided interpretive visits by prior authorization. Visits are possible but not freely accessible; regular visitor itinerary breadth and authorized landing scope remain insufficiently verified for this review.
+- Missing or uncertain facts: exact coordinates, material claims and ordinary permitted visitor scope.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Jiuzhaigou (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) (9.8 / 9.7 / 9.4 / 9.8 / 9.1) | world-leading scenic landscape | Uniqueness lower: Distinct remote oceanic island ecosystem; depth unassessed: No ordinary island circuit assumed. Broad provisional comparison. |
+| [Hohe Tauern (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) (9.4 / 9.1 / 9 / 9.5 / 9.4) | extensive protected mountain landscape | Uniqueness higher: Distinct remote oceanic island ecosystem; depth unassessed: No ordinary island circuit assumed. Broad provisional comparison. |
+| [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (8.9 / 9 / 9 / 9.1 / 8.6) | coastal protected habitat | Uniqueness higher: Distinct remote oceanic island ecosystem; depth unassessed: No ordinary island circuit assumed. Broad provisional comparison. |
+| [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional protected landscape | Uniqueness higher: Distinct remote oceanic island ecosystem; depth unassessed: No ordinary island circuit assumed. Broad provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | — | null | Ordinary visitor impact not established |
+| Uniqueness | — | 9.2 | Distinct remote oceanic island ecosystem |
+| Significance | — | 9.3 | International seabird and marine conservation |
+| Experience | — | null | Restricted access not independently verified |
+| Depth | — | null | No ordinary island circuit assumed |
+
+- Applicable category scores: nature: 9.4, wildlife: 9.4.
+- Computed worldwide overall: unranked.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Unranked pending documented visitor scope.
+- Earlier decision: none.
+- Verification still needed: independent claim corroboration, permitted access and closer worldwide peer comparisons.
+
+## sight-pt-raia-fortifications — Bulwarked Fortifications of the Raia (tentative series) — 2026-11-25
+
+- YAML: [source](../../../countries/PT/sights/raia-fortifications.yaml)
+- Action: new
+- Precise subject: Bulwarked Fortifications of the Raia (tentative series); Dispersed Portuguese components only.
+- Location check: 39.65, -7.49; approximate representative point, independent verification pending.
+- Evidence status: **unassessed**
+- Evidence: [UNESCO](https://whc.unesco.org/en/statesparties/pt) — consulted 2026-11-25; country inventory confirms property identity and inscription or tentative status; specific visitor conditions and material claims not fully verified.
+- Missing or uncertain facts: exact coordinates, material claims and ordinary permitted visitor scope.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (9.4 / 9.3 / 9.6 / 9.5 / 9.3) | major architectural estate | Uniqueness lower: Distinct linked early modern border defense system; depth unassessed: Dispersed Portuguese components only. Broad provisional comparison. |
+| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | historic built ensemble | Uniqueness lower: Distinct linked early modern border defense system; depth unassessed: Dispersed Portuguese components only. Broad provisional comparison. |
+| [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | monumental heritage complex | Uniqueness lower: Distinct linked early modern border defense system; depth unassessed: Dispersed Portuguese components only. Broad provisional comparison. |
+| [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional historic complex | Uniqueness higher: Distinct linked early modern border defense system; depth unassessed: Dispersed Portuguese components only. Broad provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | — | 8.7 | Dispersed frontier fortifications |
+| Uniqueness | — | 8.9 | Distinct linked early modern border defense system |
+| Significance | — | 9.1 | International military engineering heritage |
+| Experience | — | null | Combined visitor scope unresolved |
+| Depth | — | null | Dispersed Portuguese components only |
+
+- Applicable category scores: architecture: 9.2, history: 9.3.
+- Computed worldwide overall: unranked.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Unranked pending documented visitor scope.
+- Earlier decision: none.
+- Verification still needed: independent claim corroboration, permitted access and closer worldwide peer comparisons.
+
+## sight-pt-aguas-livres — Águas Livres Aqueduct — 2026-11-25
+
+- YAML: [source](../../../countries/PT/sights/aguas-livres.yaml)
+- Action: new
+- Precise subject: Águas Livres Aqueduct; Defined public sectors only.
+- Location check: 38.728, -9.167; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO](https://whc.unesco.org/en/statesparties/pt) — consulted 2026-11-25; country inventory confirms property identity and inscription or tentative status; specific visitor conditions and material claims not fully verified.
+- Missing or uncertain facts: exact coordinates, material claims and ordinary permitted visitor scope.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (9.4 / 9.3 / 9.6 / 9.5 / 9.3) | major architectural estate | Uniqueness lower: Distinct large historic hydraulic engineering; depth lower: Defined public sectors only. Broad provisional comparison. |
+| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | historic built ensemble | Uniqueness lower: Distinct large historic hydraulic engineering; depth lower: Defined public sectors only. Broad provisional comparison. |
+| [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | monumental heritage complex | Uniqueness lower: Distinct large historic hydraulic engineering; depth lower: Defined public sectors only. Broad provisional comparison. |
+| [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional historic complex | Uniqueness higher: Distinct large historic hydraulic engineering; depth lower: Defined public sectors only. Broad provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | — | 8.7 | Monumental stone arches and urban water infrastructure |
+| Uniqueness | — | 8.8 | Distinct large historic hydraulic engineering |
+| Significance | — | 9.0 | National and regional engineering heritage |
+| Experience | — | 8.5 | Permitted aqueduct and museum visits |
+| Depth | — | 8.2 | Defined public sectors only |
+
+- Applicable category scores: architecture: 9.2, history: 9.2.
+- Computed worldwide overall: 87.05/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial rating: Distinct large historic hydraulic engineering; Defined public sectors only.
+- Earlier decision: none.
+- Verification still needed: independent claim corroboration, permitted access and closer worldwide peer comparisons.
+
+## sight-pt-siza-works — Álvaro Siza architectural works (tentative series) — 2026-11-25
+
+- YAML: [source](../../../countries/PT/sights/siza-works.yaml)
+- Action: new
+- Precise subject: Álvaro Siza architectural works (tentative series); No combined circuit assumed.
+- Location check: 41.17, -8.68; approximate representative point, independent verification pending.
+- Evidence status: **unassessed**
+- Evidence: [UNESCO](https://whc.unesco.org/en/statesparties/pt) — consulted 2026-11-25; country inventory confirms property identity and inscription or tentative status; specific visitor conditions and material claims not fully verified.
+- Missing or uncertain facts: exact coordinates, material claims and ordinary permitted visitor scope.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (9.4 / 9.3 / 9.6 / 9.5 / 9.3) | major architectural estate | Uniqueness lower: Distinct internationally influential design language; depth unassessed: No combined circuit assumed. Broad provisional comparison. |
+| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | historic built ensemble | Uniqueness lower: Distinct internationally influential design language; depth unassessed: No combined circuit assumed. Broad provisional comparison. |
+| [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | monumental heritage complex | Uniqueness lower: Distinct internationally influential design language; depth unassessed: No combined circuit assumed. Broad provisional comparison. |
+| [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional historic complex | Uniqueness higher: Distinct internationally influential design language; depth unassessed: No combined circuit assumed. Broad provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | — | 8.5 | Dispersed modern architectural buildings |
+| Uniqueness | — | 9.0 | Distinct internationally influential design language |
+| Significance | — | 9.2 | International architectural heritage |
+| Experience | — | null | Component-specific permitted access unresolved |
+| Depth | — | null | No combined circuit assumed |
+
+- Applicable category scores: architecture: 9.4.
+- Computed worldwide overall: unranked.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Unranked pending documented visitor scope.
+- Earlier decision: none.
+- Verification still needed: independent claim corroboration, permitted access and closer worldwide peer comparisons.
+
+## sight-pt-pombaline-lisbon — Pombaline Lisbon (tentative) — 2026-11-25
+
+- YAML: [source](../../../countries/PT/sights/pombaline-lisbon.yaml)
+- Action: new
+- Precise subject: Pombaline Lisbon (tentative); Defined Baixa precinct.
+- Location check: 38.71, -9.139; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO](https://whc.unesco.org/en/statesparties/pt) — consulted 2026-11-25; country inventory confirms property identity and inscription or tentative status; specific visitor conditions and material claims not fully verified.
+- Missing or uncertain facts: exact coordinates, material claims and ordinary permitted visitor scope.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (9.4 / 9.3 / 9.6 / 9.5 / 9.3) | major architectural estate | Uniqueness lower: Distinct planned post-earthquake urban reconstruction; depth lower: Defined Baixa precinct. Broad provisional comparison. |
+| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | historic built ensemble | Uniqueness lower: Distinct planned post-earthquake urban reconstruction; depth lower: Defined Baixa precinct. Broad provisional comparison. |
+| [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | monumental heritage complex | Uniqueness lower: Distinct planned post-earthquake urban reconstruction; depth higher: Defined Baixa precinct. Broad provisional comparison. |
+| [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional historic complex | Uniqueness higher: Distinct planned post-earthquake urban reconstruction; depth higher: Defined Baixa precinct. Broad provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | — | 9.0 | Regular streets monumental squares and river frontage |
+| Uniqueness | — | 9.0 | Distinct planned post-earthquake urban reconstruction |
+| Significance | — | 9.2 | International urban planning and architectural history |
+| Experience | — | 9.1 | Public streets and permitted museums |
+| Depth | — | 9.0 | Defined Baixa precinct |
+
+- Applicable category scores: architecture: 9.4, history: 9.3.
+- Computed worldwide overall: 90.55/100.
+- High-score challenge: No 9.5+ field. 90+ total: Regular streets monumental squares and river frontage; Distinct planned post-earthquake urban reconstruction; Defined Baixa precinct. Compare Schönbrunn and Hohensalzburg: the particular architectural or historical merit is independent of visitor breadth; closer monument-type peers still required..
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial rating: Distinct planned post-earthquake urban reconstruction; Defined Baixa precinct.
+- Earlier decision: none.
+- Verification still needed: independent claim corroboration, permitted access and closer worldwide peer comparisons.
+
+## sight-pt-bussaco — Bussaco forest and Palace-Hotel ensemble (tentative) — 2026-11-25
+
+- YAML: [source](../../../countries/PT/sights/bussaco.yaml)
+- Action: new
+- Precise subject: Bussaco forest and Palace-Hotel ensemble (tentative); No hotel-room access assumed.
+- Location check: 40.376, -8.365; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO](https://whc.unesco.org/en/statesparties/pt) — consulted 2026-11-25; country inventory confirms property identity and inscription or tentative status; specific visitor conditions and material claims not fully verified.
+- Missing or uncertain facts: exact coordinates, material claims and ordinary permitted visitor scope.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (9.4 / 9.3 / 9.6 / 9.5 / 9.3) | major architectural estate | Uniqueness lower: Distinct Carmelite and Romantic landscape ensemble; depth lower: No hotel-room access assumed. Broad provisional comparison. |
+| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | historic built ensemble | Uniqueness lower: Distinct Carmelite and Romantic landscape ensemble; depth lower: No hotel-room access assumed. Broad provisional comparison. |
+| [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | monumental heritage complex | Uniqueness lower: Distinct Carmelite and Romantic landscape ensemble; depth lower: No hotel-room access assumed. Broad provisional comparison. |
+| [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional historic complex | Uniqueness higher: Distinct Carmelite and Romantic landscape ensemble; depth higher: No hotel-room access assumed. Broad provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | — | 8.8 | Wooded religious landscape and ornate historic palace |
+| Uniqueness | — | 8.9 | Distinct Carmelite and Romantic landscape ensemble |
+| Significance | — | 8.8 | Regional religious and architectural heritage |
+| Experience | — | 8.7 | Permitted forest paths and palace exterior |
+| Depth | — | 8.8 | No hotel-room access assumed |
+
+- Applicable category scores: architecture: 9.2, nature: 9.1.
+- Computed worldwide overall: 88.10/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial rating: Distinct Carmelite and Romantic landscape ensemble; No hotel-room access assumed.
+- Earlier decision: none.
+- Verification still needed: independent claim corroboration, permitted access and closer worldwide peer comparisons.
+
+## sight-pt-gulbenkian — Calouste Gulbenkian Foundation buildings and garden — 2026-11-25
+
+- YAML: [source](../../../countries/PT/sights/gulbenkian.yaml)
+- Action: new
+- Precise subject: Calouste Gulbenkian Foundation buildings and garden; Defined foundation complex.
+- Location check: 38.737, -9.154; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO](https://whc.unesco.org/en/statesparties/pt) — consulted 2026-11-25; country inventory confirms property identity and inscription or tentative status; specific visitor conditions and material claims not fully verified.
+- Missing or uncertain facts: exact coordinates, material claims and ordinary permitted visitor scope.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (9.4 / 9.3 / 9.6 / 9.5 / 9.3) | major architectural estate | Uniqueness lower: Distinct integrated cultural and landscape architecture; depth lower: Defined foundation complex. Broad provisional comparison. |
+| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | historic built ensemble | Uniqueness lower: Distinct integrated cultural and landscape architecture; depth lower: Defined foundation complex. Broad provisional comparison. |
+| [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | monumental heritage complex | Uniqueness lower: Distinct integrated cultural and landscape architecture; depth higher: Defined foundation complex. Broad provisional comparison. |
+| [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional historic complex | Uniqueness higher: Distinct integrated cultural and landscape architecture; depth higher: Defined foundation complex. Broad provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | — | 8.9 | Modern museum buildings and designed garden |
+| Uniqueness | — | 8.9 | Distinct integrated cultural and landscape architecture |
+| Significance | — | 9.1 | International art and architectural heritage |
+| Experience | — | 9.0 | Permitted museum and garden visits |
+| Depth | — | 9.0 | Defined foundation complex |
+
+- Applicable category scores: architecture: 9.2, culture: 9.4.
+- Computed worldwide overall: 89.65/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial rating: Distinct integrated cultural and landscape architecture; Defined foundation complex.
+- Earlier decision: none.
+- Verification still needed: independent claim corroboration, permitted access and closer worldwide peer comparisons.
+
+## sight-pt-madeira-levadas — Levadas of Madeira (tentative landscape network) — 2026-11-25
+
+- YAML: [source](../../../countries/PT/sights/madeira-levadas.yaml)
+- Action: new
+- Precise subject: Levadas of Madeira (tentative landscape network); Multiple designated levada routes not closed paths.
+- Location check: 32.76, -17; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Turismo de Portugal](https://www.visitportugal.com/en/content/walking) — consulted 2026-11-25; tourism overview supports destination identity or regional context; specific visitor conditions and material claims not fully verified.
+- Missing or uncertain facts: exact coordinates, material claims and ordinary permitted visitor scope.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Jiuzhaigou (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) (9.8 / 9.7 / 9.4 / 9.8 / 9.1) | world-leading scenic landscape | Uniqueness lower: Distinct historic irrigation network and walking experience; depth higher: Multiple designated levada routes not closed paths. Broad provisional comparison. |
+| [Hohe Tauern (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) (9.4 / 9.1 / 9 / 9.5 / 9.4) | extensive protected mountain landscape | Uniqueness higher: Distinct historic irrigation network and walking experience; depth similar: Multiple designated levada routes not closed paths. Broad provisional comparison. |
+| [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (8.9 / 9 / 9 / 9.1 / 8.6) | coastal protected habitat | Uniqueness higher: Distinct historic irrigation network and walking experience; depth higher: Multiple designated levada routes not closed paths. Broad provisional comparison. |
+| [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional protected landscape | Uniqueness higher: Distinct historic irrigation network and walking experience; depth higher: Multiple designated levada routes not closed paths. Broad provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | — | 9.2 | Water channels through steep forests and mountain slopes |
+| Uniqueness | — | 9.3 | Distinct historic irrigation network and walking experience |
+| Significance | — | 9.0 | Regional engineering and cultural landscape heritage |
+| Experience | — | 9.2 | Authorized open trail segments only |
+| Depth | — | 9.4 | Multiple designated levada routes not closed paths |
+
+- Applicable category scores: nature: 9.4, adventure: 9.3, photography: 9.4.
+- Computed worldwide overall: 92.05/100.
+- High-score challenge: No 9.5+ field. 90+ total: Water channels through steep forests and mountain slopes; Distinct historic irrigation network and walking experience; Multiple designated levada routes not closed paths. Compared with Jiuzhaigou and Hohe Tauern, the specific Atlantic, volcanic or river-landscape forms support the named field; scope is limited to the stated visitor area..
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial rating: Distinct historic irrigation network and walking experience; Multiple designated levada routes not closed paths.
+- Earlier decision: none.
+- Verification still needed: independent claim corroboration, permitted access and closer worldwide peer comparisons.
+
+## sight-pt-mid-atlantic-ridge — Mid-Atlantic Ridge (tentative marine property) — 2026-11-25
+
+- YAML: [source](../../../countries/PT/sights/mid-atlantic-ridge.yaml)
+- Action: new
+- Precise subject: Mid-Atlantic Ridge (tentative marine property); Portuguese nominated marine scope not entire ocean ridge.
+- Location check: 38, -29; approximate representative point, independent verification pending.
+- Evidence status: **unassessed**
+- Evidence: [UNESCO](https://whc.unesco.org/en/statesparties/pt) — consulted 2026-11-25; country inventory confirms property identity and inscription or tentative status; specific visitor conditions and material claims not fully verified.
+- Missing or uncertain facts: exact coordinates, material claims and ordinary permitted visitor scope.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Jiuzhaigou (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) (9.8 / 9.7 / 9.4 / 9.8 / 9.1) | world-leading scenic landscape | Uniqueness lower: Distinct oceanic tectonic spreading system; depth unassessed: Portuguese nominated marine scope not entire ocean ridge. Broad provisional comparison. |
+| [Hohe Tauern (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) (9.4 / 9.1 / 9 / 9.5 / 9.4) | extensive protected mountain landscape | Uniqueness higher: Distinct oceanic tectonic spreading system; depth unassessed: Portuguese nominated marine scope not entire ocean ridge. Broad provisional comparison. |
+| [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (8.9 / 9 / 9 / 9.1 / 8.6) | coastal protected habitat | Uniqueness higher: Distinct oceanic tectonic spreading system; depth unassessed: Portuguese nominated marine scope not entire ocean ridge. Broad provisional comparison. |
+| [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional protected landscape | Uniqueness higher: Distinct oceanic tectonic spreading system; depth unassessed: Portuguese nominated marine scope not entire ocean ridge. Broad provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | — | null | Ordinary visitor impact not established |
+| Uniqueness | — | 9.4 | Distinct oceanic tectonic spreading system |
+| Significance | — | 9.5 | International geological and marine scientific importance |
+| Experience | — | null | No ordinary visitor access established |
+| Depth | — | null | Portuguese nominated marine scope not entire ocean ridge |
+
+- Applicable category scores: nature: 9.5.
+- Computed worldwide overall: unranked.
+- High-score challenge: Significance 9.5: International geological and marine scientific importance; nature 9.5: Distinct oceanic tectonic spreading system. Compared with Jiuzhaigou and Hohe Tauern, the specific Atlantic, volcanic or river-landscape forms support the named field; scope is limited to the stated visitor area..
+- Approved 10 registry: none.
+- Final decision: Unranked pending documented visitor scope.
+- Earlier decision: none.
+- Verification still needed: independent claim corroboration, permitted access and closer worldwide peer comparisons.
+
+## sight-pt-sete-cidades — Sete Cidades volcanic caldera — 2026-11-25
+
+- YAML: [source](../../../countries/PT/sights/sete-cidades.yaml)
+- Action: new
+- Precise subject: Sete Cidades volcanic caldera; Caldera and lakes not entire São Miguel.
+- Location check: 37.86, -25.79; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Turismo de Portugal](https://www.visitportugal.com/en/content/another-lap-in-portugal) — consulted 2026-11-25; tourism overview supports destination identity or regional context; specific visitor conditions and material claims not fully verified.
+- Missing or uncertain facts: exact coordinates, material claims and ordinary permitted visitor scope.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Jiuzhaigou (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) (9.8 / 9.7 / 9.4 / 9.8 / 9.1) | world-leading scenic landscape | Uniqueness lower: Distinct large vegetated Atlantic caldera landscape; depth lower: Caldera and lakes not entire São Miguel. Broad provisional comparison. |
+| [Hohe Tauern (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) (9.4 / 9.1 / 9 / 9.5 / 9.4) | extensive protected mountain landscape | Uniqueness higher: Distinct large vegetated Atlantic caldera landscape; depth lower: Caldera and lakes not entire São Miguel. Broad provisional comparison. |
+| [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (8.9 / 9 / 9 / 9.1 / 8.6) | coastal protected habitat | Uniqueness higher: Distinct large vegetated Atlantic caldera landscape; depth higher: Caldera and lakes not entire São Miguel. Broad provisional comparison. |
+| [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional protected landscape | Uniqueness higher: Distinct large vegetated Atlantic caldera landscape; depth higher: Caldera and lakes not entire São Miguel. Broad provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | — | 9.3 | Twin lake colors within broad volcanic crater |
+| Uniqueness | — | 9.2 | Distinct large vegetated Atlantic caldera landscape |
+| Significance | — | 8.8 | Regional volcanological and ecological heritage |
+| Experience | — | 9.2 | Permitted viewpoints and marked walks |
+| Depth | — | 9.0 | Caldera and lakes not entire São Miguel |
+
+- Applicable category scores: nature: 9.4, photography: 9.5.
+- Computed worldwide overall: 91.30/100.
+- High-score challenge: photography 9.5: Twin lake colors within broad volcanic crater. 90+ total: Twin lake colors within broad volcanic crater; Distinct large vegetated Atlantic caldera landscape; Caldera and lakes not entire São Miguel. Compared with Jiuzhaigou and Hohe Tauern, the specific Atlantic, volcanic or river-landscape forms support the named field; scope is limited to the stated visitor area..
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial rating: Distinct large vegetated Atlantic caldera landscape; Caldera and lakes not entire São Miguel.
+- Earlier decision: none.
+- Verification still needed: independent claim corroboration, permitted access and closer worldwide peer comparisons.
+
+## sight-pt-lagoa-fogo — Lagoa do Fogo — 2026-11-25
+
+- YAML: [source](../../../countries/PT/sights/lagoa-fogo.yaml)
+- Action: new
+- Precise subject: Lagoa do Fogo; Lake and immediate crater.
+- Location check: 37.76, -25.47; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Turismo de Portugal](https://www.visitportugal.com/en/content/another-lap-in-portugal) — consulted 2026-11-25; tourism overview supports destination identity or regional context; specific visitor conditions and material claims not fully verified.
+- Missing or uncertain facts: exact coordinates, material claims and ordinary permitted visitor scope.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Jiuzhaigou (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) (9.8 / 9.7 / 9.4 / 9.8 / 9.1) | world-leading scenic landscape | Uniqueness lower: Distinct protected volcanic lake landscape; depth lower: Lake and immediate crater. Broad provisional comparison. |
+| [Hohe Tauern (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) (9.4 / 9.1 / 9 / 9.5 / 9.4) | extensive protected mountain landscape | Uniqueness lower: Distinct protected volcanic lake landscape; depth lower: Lake and immediate crater. Broad provisional comparison. |
+| [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (8.9 / 9 / 9 / 9.1 / 8.6) | coastal protected habitat | Uniqueness similar: Distinct protected volcanic lake landscape; depth lower: Lake and immediate crater. Broad provisional comparison. |
+| [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional protected landscape | Uniqueness lower: Distinct protected volcanic lake landscape; depth lower: Lake and immediate crater. Broad provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | — | 9.1 | Remote crater lake surrounded by green slopes |
+| Uniqueness | — | 9.0 | Distinct protected volcanic lake landscape |
+| Significance | — | 8.7 | Regional geological and ecological heritage |
+| Experience | — | 8.8 | Permitted viewpoints and controlled trail access |
+| Depth | — | 8.4 | Lake and immediate crater |
+
+- Applicable category scores: nature: 9.4, photography: 9.4.
+- Computed worldwide overall: 88.80/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial rating: Distinct protected volcanic lake landscape; Lake and immediate crater.
+- Earlier decision: none.
+- Verification still needed: independent claim corroboration, permitted access and closer worldwide peer comparisons.
+
+## sight-pt-furnas — Furnas volcanic valley and thermal sites — 2026-11-25
+
+- YAML: [source](../../../countries/PT/sights/furnas.yaml)
+- Action: new
+- Precise subject: Furnas volcanic valley and thermal sites; Defined Furnas valley.
+- Location check: 37.77, -25.31; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Turismo de Portugal](https://www.visitportugal.com/en/content/another-lap-in-portugal) — consulted 2026-11-25; tourism overview supports destination identity or regional context; specific visitor conditions and material claims not fully verified.
+- Missing or uncertain facts: exact coordinates, material claims and ordinary permitted visitor scope.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Jiuzhaigou (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) (9.8 / 9.7 / 9.4 / 9.8 / 9.1) | world-leading scenic landscape | Uniqueness lower: Distinct combined volcanic and thermal cultural landscape; depth lower: Defined Furnas valley. Broad provisional comparison. |
+| [Hohe Tauern (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) (9.4 / 9.1 / 9 / 9.5 / 9.4) | extensive protected mountain landscape | Uniqueness higher: Distinct combined volcanic and thermal cultural landscape; depth lower: Defined Furnas valley. Broad provisional comparison. |
+| [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (8.9 / 9 / 9 / 9.1 / 8.6) | coastal protected habitat | Uniqueness higher: Distinct combined volcanic and thermal cultural landscape; depth higher: Defined Furnas valley. Broad provisional comparison. |
+| [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional protected landscape | Uniqueness higher: Distinct combined volcanic and thermal cultural landscape; depth higher: Defined Furnas valley. Broad provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | — | 9.0 | Geothermal vents lakes and lush gardens |
+| Uniqueness | — | 9.2 | Distinct combined volcanic and thermal cultural landscape |
+| Significance | — | 8.8 | Regional geological and bathing heritage |
+| Experience | — | 9.2 | Permitted thermal sites and landscape walks |
+| Depth | — | 9.0 | Defined Furnas valley |
+
+- Applicable category scores: nature: 9.3, relaxation: 9.3, food: 9.0.
+- Computed worldwide overall: 90.40/100.
+- High-score challenge: No 9.5+ field. 90+ total: Geothermal vents lakes and lush gardens; Distinct combined volcanic and thermal cultural landscape; Defined Furnas valley. Compared with Jiuzhaigou and Hohe Tauern, the specific Atlantic, volcanic or river-landscape forms support the named field; scope is limited to the stated visitor area..
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial rating: Distinct combined volcanic and thermal cultural landscape; Defined Furnas valley.
+- Earlier decision: none.
+- Verification still needed: independent claim corroboration, permitted access and closer worldwide peer comparisons.
+
+## sight-pt-pico-mountain — Mount Pico — 2026-11-25
+
+- YAML: [source](../../../countries/PT/sights/pico-mountain.yaml)
+- Action: new
+- Precise subject: Mount Pico; Summit routes not whole island.
+- Location check: 38.468, -28.399; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Turismo de Portugal](https://www.visitportugal.com/en/destinos/madeira/410187) — consulted 2026-11-25; tourism overview supports destination identity or regional context; specific visitor conditions and material claims not fully verified.
+- Missing or uncertain facts: exact coordinates, material claims and ordinary permitted visitor scope.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Jiuzhaigou (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) (9.8 / 9.7 / 9.4 / 9.8 / 9.1) | world-leading scenic landscape | Uniqueness lower: Distinct isolated oceanic summit; depth lower: Summit routes not whole island. Broad provisional comparison. |
+| [Hohe Tauern (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) (9.4 / 9.1 / 9 / 9.5 / 9.4) | extensive protected mountain landscape | Uniqueness lower: Distinct isolated oceanic summit; depth lower: Summit routes not whole island. Broad provisional comparison. |
+| [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (8.9 / 9 / 9 / 9.1 / 8.6) | coastal protected habitat | Uniqueness similar: Distinct isolated oceanic summit; depth higher: Summit routes not whole island. Broad provisional comparison. |
+| [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional protected landscape | Uniqueness lower: Distinct isolated oceanic summit; depth higher: Summit routes not whole island. Broad provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | — | 9.2 | High volcanic cone above Atlantic clouds |
+| Uniqueness | — | 9.0 | Distinct isolated oceanic summit |
+| Significance | — | 8.8 | National geological and geographical heritage |
+| Experience | — | 8.8 | Authorized demanding mountain routes subject to weather |
+| Depth | — | 8.7 | Summit routes not whole island |
+
+- Applicable category scores: nature: 9.3, adventure: 9.3, photography: 9.4.
+- Computed worldwide overall: 89.60/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial rating: Distinct isolated oceanic summit; Summit routes not whole island.
+- Earlier decision: none.
+- Verification still needed: independent claim corroboration, permitted access and closer worldwide peer comparisons.
+
+## sight-pt-flores-landscape — Flores island waterfalls and crater lakes — 2026-11-25
+
+- YAML: [source](../../../countries/PT/sights/flores-landscape.yaml)
+- Action: new
+- Precise subject: Flores island waterfalls and crater lakes; Multiple named landscape sectors not city amenities.
+- Location check: 39.44, -31.22; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Turismo de Portugal](https://www.visitportugal.com/en/destinos/acores/73821) — consulted 2026-11-25; tourism overview supports destination identity or regional context; specific visitor conditions and material claims not fully verified.
+- Missing or uncertain facts: exact coordinates, material claims and ordinary permitted visitor scope.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Jiuzhaigou (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) (9.8 / 9.7 / 9.4 / 9.8 / 9.1) | world-leading scenic landscape | Uniqueness lower: Distinct compact oceanic waterfall and caldera mosaic; depth higher: Multiple named landscape sectors not city amenities. Broad provisional comparison. |
+| [Hohe Tauern (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) (9.4 / 9.1 / 9 / 9.5 / 9.4) | extensive protected mountain landscape | Uniqueness higher: Distinct compact oceanic waterfall and caldera mosaic; depth lower: Multiple named landscape sectors not city amenities. Broad provisional comparison. |
+| [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (8.9 / 9 / 9 / 9.1 / 8.6) | coastal protected habitat | Uniqueness higher: Distinct compact oceanic waterfall and caldera mosaic; depth higher: Multiple named landscape sectors not city amenities. Broad provisional comparison. |
+| [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional protected landscape | Uniqueness higher: Distinct compact oceanic waterfall and caldera mosaic; depth higher: Multiple named landscape sectors not city amenities. Broad provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | — | 9.3 | Waterfall-covered cliffs volcanic lakes and Atlantic coast |
+| Uniqueness | — | 9.2 | Distinct compact oceanic waterfall and caldera mosaic |
+| Significance | — | 8.7 | Regional ecological and geological heritage |
+| Experience | — | 9.0 | Permitted island trails and viewpoints |
+| Depth | — | 9.2 | Multiple named landscape sectors not city amenities |
+
+- Applicable category scores: nature: 9.5, photography: 9.5, adventure: 9.1.
+- Computed worldwide overall: 91.00/100.
+- High-score challenge: nature 9.5: Distinct compact oceanic waterfall and caldera mosaic; photography 9.5: Waterfall-covered cliffs volcanic lakes and Atlantic coast. 90+ total: Waterfall-covered cliffs volcanic lakes and Atlantic coast; Distinct compact oceanic waterfall and caldera mosaic; Multiple named landscape sectors not city amenities. Compared with Jiuzhaigou and Hohe Tauern, the specific Atlantic, volcanic or river-landscape forms support the named field; scope is limited to the stated visitor area..
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial rating: Distinct compact oceanic waterfall and caldera mosaic; Multiple named landscape sectors not city amenities.
+- Earlier decision: none.
+- Verification still needed: independent claim corroboration, permitted access and closer worldwide peer comparisons.
+
+## sight-pt-madeira-peaks — Madeira central mountain peaks landscape — 2026-11-25
+
+- YAML: [source](../../../countries/PT/sights/madeira-peaks.yaml)
+- Action: new
+- Precise subject: Madeira central mountain peaks landscape; Central peaks not whole island.
+- Location check: 32.75, -16.94; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Turismo de Portugal](https://www.visitportugal.com/en/destinos/madeira/410187) — consulted 2026-11-25; tourism overview supports destination identity or regional context; specific visitor conditions and material claims not fully verified.
+- Missing or uncertain facts: exact coordinates, material claims and ordinary permitted visitor scope.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Jiuzhaigou (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) (9.8 / 9.7 / 9.4 / 9.8 / 9.1) | world-leading scenic landscape | Uniqueness lower: Distinct steep oceanic mountain terrain; depth higher: Central peaks not whole island. Broad provisional comparison. |
+| [Hohe Tauern (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) (9.4 / 9.1 / 9 / 9.5 / 9.4) | extensive protected mountain landscape | Uniqueness higher: Distinct steep oceanic mountain terrain; depth lower: Central peaks not whole island. Broad provisional comparison. |
+| [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (8.9 / 9 / 9 / 9.1 / 8.6) | coastal protected habitat | Uniqueness higher: Distinct steep oceanic mountain terrain; depth higher: Central peaks not whole island. Broad provisional comparison. |
+| [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional protected landscape | Uniqueness higher: Distinct steep oceanic mountain terrain; depth higher: Central peaks not whole island. Broad provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | — | 9.5 | Jagged volcanic ridges and cloud panoramas |
+| Uniqueness | — | 9.2 | Distinct steep oceanic mountain terrain |
+| Significance | — | 8.8 | Regional geological and ecological heritage |
+| Experience | — | 9.0 | Only open authorized trails and viewpoints |
+| Depth | — | 9.2 | Central peaks not whole island |
+
+- Applicable category scores: nature: 9.5, photography: 9.6, adventure: 9.3.
+- Computed worldwide overall: 91.80/100.
+- High-score challenge: Impact 9.5: Jagged volcanic ridges and cloud panoramas; nature 9.5: Distinct steep oceanic mountain terrain; photography 9.6: Jagged volcanic ridges and cloud panoramas. 90+ total: Jagged volcanic ridges and cloud panoramas; Distinct steep oceanic mountain terrain; Central peaks not whole island. Compared with Jiuzhaigou and Hohe Tauern, the specific Atlantic, volcanic or river-landscape forms support the named field; scope is limited to the stated visitor area..
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial rating: Distinct steep oceanic mountain terrain; Central peaks not whole island.
+- Earlier decision: none.
+- Verification still needed: independent claim corroboration, permitted access and closer worldwide peer comparisons.
+
+## sight-pt-ponta-sao-lourenco — Ponta de São Lourenço — 2026-11-25
+
+- YAML: [source](../../../countries/PT/sights/ponta-sao-lourenco.yaml)
+- Action: new
+- Precise subject: Ponta de São Lourenço; Peninsula route only.
+- Location check: 32.75, -16.71; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://visitmadeira.com/en/what-to-do/nature-seekers/activities/hiking/pr-8-vereda-da-ponta-de-sao-lourenco/ — Official Madeira tourism board documents designated PR8 peninsula walk; no unrestricted protected-zone access assumed. Reviewed 2026-11-25; partial evidence, not full independent verification.
+- Missing or uncertain facts: exact coordinates, material claims and ordinary permitted visitor scope.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Jiuzhaigou (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) (9.8 / 9.7 / 9.4 / 9.8 / 9.1) | world-leading scenic landscape | Uniqueness lower: Distinct exposed eastern Madeira peninsula; depth lower: Peninsula route only. Broad provisional comparison. |
+| [Hohe Tauern (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) (9.4 / 9.1 / 9 / 9.5 / 9.4) | extensive protected mountain landscape | Uniqueness lower: Distinct exposed eastern Madeira peninsula; depth lower: Peninsula route only. Broad provisional comparison. |
+| [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (8.9 / 9 / 9 / 9.1 / 8.6) | coastal protected habitat | Uniqueness similar: Distinct exposed eastern Madeira peninsula; depth lower: Peninsula route only. Broad provisional comparison. |
+| [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional protected landscape | Uniqueness lower: Distinct exposed eastern Madeira peninsula; depth lower: Peninsula route only. Broad provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | — | 9.1 | Narrow colorful volcanic ridges and ocean cliffs |
+| Uniqueness | — | 9.0 | Distinct exposed eastern Madeira peninsula |
+| Significance | — | 8.5 | Regional geology and coastal habitat heritage |
+| Experience | — | 9.0 | Permitted trail and viewpoints |
+| Depth | — | 8.5 | Peninsula route only |
+
+- Applicable category scores: nature: 9.3, photography: 9.4, adventure: 9.1.
+- Computed worldwide overall: 88.80/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial rating: Distinct exposed eastern Madeira peninsula; Peninsula route only.
+- Earlier decision: none.
+- Verification still needed: independent claim corroboration, permitted access and closer worldwide peer comparisons.
+
+## sight-pt-ponta-piedade — Ponta da Piedade coastal cliffs — 2026-11-25
+
+- YAML: [source](../../../countries/PT/sights/ponta-piedade.yaml)
+- Action: new
+- Precise subject: Ponta da Piedade coastal cliffs; Defined headland not entire Algarve.
+- Location check: 37.08, -8.67; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.cm-lagos.pt/en/descobrir-lagos/lazer-e-entretenimento/rotas-e-percursos — Municipality identifies boardwalks and viewpoints; https://fototeca.cm-lagos.pt/praias-e-costa/ponta-da-piedade-8 confirms boat-viewed rock formations. Reviewed 2026-11-25; partial evidence, not full independent verification.
+- Missing or uncertain facts: exact coordinates, material claims and ordinary permitted visitor scope.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Jiuzhaigou (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) (9.8 / 9.7 / 9.4 / 9.8 / 9.1) | world-leading scenic landscape | Uniqueness lower: Distinct concentrated Algarve coastal karst scenery; depth lower: Defined headland not entire Algarve. Broad provisional comparison. |
+| [Hohe Tauern (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) (9.4 / 9.1 / 9 / 9.5 / 9.4) | extensive protected mountain landscape | Uniqueness lower: Distinct concentrated Algarve coastal karst scenery; depth lower: Defined headland not entire Algarve. Broad provisional comparison. |
+| [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (8.9 / 9 / 9 / 9.1 / 8.6) | coastal protected habitat | Uniqueness similar: Distinct concentrated Algarve coastal karst scenery; depth lower: Defined headland not entire Algarve. Broad provisional comparison. |
+| [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional protected landscape | Uniqueness lower: Distinct concentrated Algarve coastal karst scenery; depth lower: Defined headland not entire Algarve. Broad provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | — | 9.2 | Golden sea stacks arches and turquoise water |
+| Uniqueness | — | 9.0 | Distinct concentrated Algarve coastal karst scenery |
+| Significance | — | 8.5 | Regional geological heritage |
+| Experience | — | 9.1 | Permitted cliff viewpoints and boat visits |
+| Depth | — | 8.4 | Defined headland not entire Algarve |
+
+- Applicable category scores: nature: 9.3, photography: 9.5.
+- Computed worldwide overall: 89.15/100.
+- High-score challenge: photography 9.5: Golden sea stacks arches and turquoise water. Compared with Jiuzhaigou and Hohe Tauern, the specific Atlantic, volcanic or river-landscape forms support the named field; scope is limited to the stated visitor area..
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial rating: Distinct concentrated Algarve coastal karst scenery; Defined headland not entire Algarve.
+- Earlier decision: none.
+- Verification still needed: independent claim corroboration, permitted access and closer worldwide peer comparisons.
+
+## sight-pt-benagil — Benagil sea cave — 2026-11-25
+
+- YAML: [source](../../../countries/PT/sights/benagil.yaml)
+- Action: new
+- Precise subject: Benagil sea cave; One cave not entire coast.
+- Location check: 37.087, -8.426; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Turismo de Portugal](https://www.visitportugal.com/en/taxonomy/term/578?page=14) — consulted 2026-11-25; tourism overview supports destination identity or regional context; specific visitor conditions and material claims not fully verified.
+- Supplemental evidence (2026-11-25): https://www.amn.pt/DGAM/Capitanias/Portimao/Paginas/Capitania-do-porto-de-Portimao.aspx — Maritime authority lists navigation regulation 019/2024 and 2026 landing restrictions; https://www.amn.pt/DGAM/Capitanias/Portimao/Lists/Documentos_AMN/20240730%20Edital%20019-2024%20-%20Instru%C3%A7%C3%A3o%20Navega%C3%A7%C3%A3o%20Grutas%20de%20Benagil_signed.pdf prohibits landing and bathing on the interior sand. Only regulated vessel viewing scored.
+- Missing or uncertain facts: exact coordinates, material claims and ordinary permitted visitor scope.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Jiuzhaigou (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) (9.8 / 9.7 / 9.4 / 9.8 / 9.1) | world-leading scenic landscape | Uniqueness lower: Distinct coastal cave composition; depth lower: One cave not entire coast. Broad provisional comparison. |
+| [Hohe Tauern (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) (9.4 / 9.1 / 9 / 9.5 / 9.4) | extensive protected mountain landscape | Uniqueness lower: Distinct coastal cave composition; depth lower: One cave not entire coast. Broad provisional comparison. |
+| [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (8.9 / 9 / 9 / 9.1 / 8.6) | coastal protected habitat | Uniqueness similar: Distinct coastal cave composition; depth lower: One cave not entire coast. Broad provisional comparison. |
+| [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional protected landscape | Uniqueness lower: Distinct coastal cave composition; depth lower: One cave not entire coast. Broad provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | — | 9.1 | Dramatic circular roof opening and sea-lit chamber |
+| Uniqueness | — | 9.0 | Distinct coastal cave composition |
+| Significance | — | 8.2 | Regional coastal geology |
+| Experience | — | 8.5 | Authorized boat or kayak viewing subject to current restrictions |
+| Depth | — | 6.8 | Brief regulated viewing from vessel, no landing or bathing on cave beach |
+
+- Applicable category scores: nature: 9.3, photography: 9.4.
+- Computed worldwide overall: 85.75/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: 85.75, depth 7.4→6.8 for limited boat viewing and prohibition on interior landing; no entire coast itinerary inherited.
+- Earlier decision: none.
+- Verification still needed: independent claim corroboration, permitted access and closer worldwide peer comparisons.
+
+## sight-pt-arrabida — Arrábida Natural Park — 2026-11-25
+
+- YAML: [source](../../../countries/PT/sights/arrabida.yaml)
+- Action: new
+- Precise subject: Arrábida Natural Park; Multiple park areas.
+- Location check: 38.48, -8.98; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Turismo de Portugal](https://www.visitportugal.com/en/content/natural-parks-and-reserves) — consulted 2026-11-25; tourism overview supports destination identity or regional context; specific visitor conditions and material claims not fully verified.
+- Missing or uncertain facts: exact coordinates, material claims and ordinary permitted visitor scope.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Jiuzhaigou (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) (9.8 / 9.7 / 9.4 / 9.8 / 9.1) | world-leading scenic landscape | Uniqueness lower: Distinct Mediterranean-like Atlantic coastal landscape; depth lower: Multiple park areas. Broad provisional comparison. |
+| [Hohe Tauern (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) (9.4 / 9.1 / 9 / 9.5 / 9.4) | extensive protected mountain landscape | Uniqueness lower: Distinct Mediterranean-like Atlantic coastal landscape; depth lower: Multiple park areas. Broad provisional comparison. |
+| [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (8.9 / 9 / 9 / 9.1 / 8.6) | coastal protected habitat | Uniqueness lower: Distinct Mediterranean-like Atlantic coastal landscape; depth higher: Multiple park areas. Broad provisional comparison. |
+| [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional protected landscape | Uniqueness lower: Distinct Mediterranean-like Atlantic coastal landscape; depth higher: Multiple park areas. Broad provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | — | 8.9 | Forested limestone slopes and clear coastal waters |
+| Uniqueness | — | 8.7 | Distinct Mediterranean-like Atlantic coastal landscape |
+| Significance | — | 8.6 | Regional biodiversity conservation |
+| Experience | — | 8.9 | Permitted hikes and coastal visits |
+| Depth | — | 8.8 | Multiple park areas |
+
+- Applicable category scores: nature: 9.2, beaches: 9.1, photography: 9.2.
+- Computed worldwide overall: 87.80/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial rating: Distinct Mediterranean-like Atlantic coastal landscape; Multiple park areas.
+- Earlier decision: none.
+- Verification still needed: independent claim corroboration, permitted access and closer worldwide peer comparisons.
+
+## sight-pt-ria-formosa — Ria Formosa Natural Park — 2026-11-25
+
+- YAML: [source](../../../countries/PT/sights/ria-formosa.yaml)
+- Action: new
+- Precise subject: Ria Formosa Natural Park; Multiple lagoon sectors.
+- Location check: 37.01, -7.79; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Turismo de Portugal](https://www.visitportugal.com/en/content/natural-parks-and-reserves) — consulted 2026-11-25; tourism overview supports destination identity or regional context; specific visitor conditions and material claims not fully verified.
+- Missing or uncertain facts: exact coordinates, material claims and ordinary permitted visitor scope.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Jiuzhaigou (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) (9.8 / 9.7 / 9.4 / 9.8 / 9.1) | world-leading scenic landscape | Uniqueness lower: Distinct extensive coastal lagoon network; depth lower: Multiple lagoon sectors. Broad provisional comparison. |
+| [Hohe Tauern (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) (9.4 / 9.1 / 9 / 9.5 / 9.4) | extensive protected mountain landscape | Uniqueness lower: Distinct extensive coastal lagoon network; depth lower: Multiple lagoon sectors. Broad provisional comparison. |
+| [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (8.9 / 9 / 9 / 9.1 / 8.6) | coastal protected habitat | Uniqueness lower: Distinct extensive coastal lagoon network; depth higher: Multiple lagoon sectors. Broad provisional comparison. |
+| [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional protected landscape | Uniqueness lower: Distinct extensive coastal lagoon network; depth higher: Multiple lagoon sectors. Broad provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | — | 8.5 | Barrier islands tidal lagoons and marshes |
+| Uniqueness | — | 8.9 | Distinct extensive coastal lagoon network |
+| Significance | — | 8.8 | International wetland and migratory bird importance |
+| Experience | — | 8.8 | Permitted boat walks and observation |
+| Depth | — | 9.0 | Multiple lagoon sectors |
+
+- Applicable category scores: nature: 9.2, wildlife: 9.3, beaches: 9.0.
+- Computed worldwide overall: 87.55/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial rating: Distinct extensive coastal lagoon network; Multiple lagoon sectors.
+- Earlier decision: none.
+- Verification still needed: independent claim corroboration, permitted access and closer worldwide peer comparisons.
+
+## sight-pt-vicentina — Southwest Alentejo and Vicentine Coast Natural Park — 2026-11-25
+
+- YAML: [source](../../../countries/PT/sights/vicentina.yaml)
+- Action: new
+- Precise subject: Southwest Alentejo and Vicentine Coast Natural Park; Multiple coastal sectors.
+- Location check: 37.5, -8.79; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Turismo de Portugal](https://www.visitportugal.com/en/content/walking) — consulted 2026-11-25; tourism overview supports destination identity or regional context; specific visitor conditions and material claims not fully verified.
+- Missing or uncertain facts: exact coordinates, material claims and ordinary permitted visitor scope.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Jiuzhaigou (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) (9.8 / 9.7 / 9.4 / 9.8 / 9.1) | world-leading scenic landscape | Uniqueness lower: Distinct relatively undeveloped coastal landscape; depth higher: Multiple coastal sectors. Broad provisional comparison. |
+| [Hohe Tauern (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) (9.4 / 9.1 / 9 / 9.5 / 9.4) | extensive protected mountain landscape | Uniqueness lower: Distinct relatively undeveloped coastal landscape; depth lower: Multiple coastal sectors. Broad provisional comparison. |
+| [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (8.9 / 9 / 9 / 9.1 / 8.6) | coastal protected habitat | Uniqueness lower: Distinct relatively undeveloped coastal landscape; depth higher: Multiple coastal sectors. Broad provisional comparison. |
+| [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional protected landscape | Uniqueness lower: Distinct relatively undeveloped coastal landscape; depth higher: Multiple coastal sectors. Broad provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | — | 9.1 | Long exposed Atlantic cliffs and beaches |
+| Uniqueness | — | 8.9 | Distinct relatively undeveloped coastal landscape |
+| Significance | — | 8.6 | Regional coastal habitat heritage |
+| Experience | — | 9.0 | Marked coastal routes and permitted beach visits |
+| Depth | — | 9.2 | Multiple coastal sectors |
+
+- Applicable category scores: nature: 9.3, photography: 9.4, adventure: 9.2.
+- Computed worldwide overall: 89.45/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial rating: Distinct relatively undeveloped coastal landscape; Multiple coastal sectors.
+- Earlier decision: none.
+- Verification still needed: independent claim corroboration, permitted access and closer worldwide peer comparisons.
+
+## sight-pt-serra-estrela — Serra da Estrela Natural Park — 2026-11-25
+
+- YAML: [source](../../../countries/PT/sights/serra-estrela.yaml)
+- Action: new
+- Precise subject: Serra da Estrela Natural Park; Multiple park valleys and ridges.
+- Location check: 40.32, -7.62; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Turismo de Portugal](https://www.visitportugal.com/en/content/natural-parks-and-reserves) — consulted 2026-11-25; tourism overview supports destination identity or regional context; specific visitor conditions and material claims not fully verified.
+- Missing or uncertain facts: exact coordinates, material claims and ordinary permitted visitor scope.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Jiuzhaigou (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) (9.8 / 9.7 / 9.4 / 9.8 / 9.1) | world-leading scenic landscape | Uniqueness lower: Distinct mainland Portuguese mountain landscape; depth similar: Multiple park valleys and ridges. Broad provisional comparison. |
+| [Hohe Tauern (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) (9.4 / 9.1 / 9 / 9.5 / 9.4) | extensive protected mountain landscape | Uniqueness lower: Distinct mainland Portuguese mountain landscape; depth lower: Multiple park valleys and ridges. Broad provisional comparison. |
+| [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (8.9 / 9 / 9 / 9.1 / 8.6) | coastal protected habitat | Uniqueness lower: Distinct mainland Portuguese mountain landscape; depth higher: Multiple park valleys and ridges. Broad provisional comparison. |
+| [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional protected landscape | Uniqueness lower: Distinct mainland Portuguese mountain landscape; depth higher: Multiple park valleys and ridges. Broad provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | — | 8.9 | High granite mountains glacial valleys and upland lakes |
+| Uniqueness | — | 8.7 | Distinct mainland Portuguese mountain landscape |
+| Significance | — | 8.6 | National geological and ecological heritage |
+| Experience | — | 8.9 | Seasonal marked hikes and scenic routes |
+| Depth | — | 9.1 | Multiple park valleys and ridges |
+
+- Applicable category scores: nature: 9.2, adventure: 9.1, photography: 9.1.
+- Computed worldwide overall: 88.10/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial rating: Distinct mainland Portuguese mountain landscape; Multiple park valleys and ridges.
+- Earlier decision: none.
+- Verification still needed: independent claim corroboration, permitted access and closer worldwide peer comparisons.
+
+## sight-pt-alfama — Alfama historic quarter — 2026-11-25
+
+- YAML: [source](../../../countries/PT/sights/alfama.yaml)
+- Action: new
+- Precise subject: Alfama historic quarter; Quarter only not all Lisbon.
+- Location check: 38.711, -9.13; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Turismo de Portugal](https://www.visitportugal.com/en/content/another-lap-in-portugal) — consulted 2026-11-25; tourism overview supports destination identity or regional context; specific visitor conditions and material claims not fully verified.
+- Missing or uncertain facts: exact coordinates, material claims and ordinary permitted visitor scope.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (9.4 / 9.3 / 9.6 / 9.5 / 9.3) | major architectural estate | Uniqueness lower: Distinct layered Lisbon hillside urban fabric; depth lower: Quarter only not all Lisbon. Broad provisional comparison. |
+| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | historic built ensemble | Uniqueness lower: Distinct layered Lisbon hillside urban fabric; depth lower: Quarter only not all Lisbon. Broad provisional comparison. |
+| [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | monumental heritage complex | Uniqueness lower: Distinct layered Lisbon hillside urban fabric; depth lower: Quarter only not all Lisbon. Broad provisional comparison. |
+| [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional historic complex | Uniqueness higher: Distinct layered Lisbon hillside urban fabric; depth higher: Quarter only not all Lisbon. Broad provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | — | 8.9 | Steep tiled streets viewpoints and historic houses |
+| Uniqueness | — | 9.0 | Distinct layered Lisbon hillside urban fabric |
+| Significance | — | 8.8 | National urban and musical heritage |
+| Experience | — | 9.1 | Public lanes and local cultural venues |
+| Depth | — | 8.6 | Quarter only not all Lisbon |
+
+- Applicable category scores: architecture: 9.2, culture: 9.3, photography: 9.2.
+- Computed worldwide overall: 89.05/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial rating: Distinct layered Lisbon hillside urban fabric; Quarter only not all Lisbon.
+- Earlier decision: none.
+- Verification still needed: independent claim corroboration, permitted access and closer worldwide peer comparisons.

@@ -1,0 +1,15 @@
+id: city-rs-zrenjanin
+name: "Zrenjanin"
+location:
+  country_code: RS
+  latitude: 45.381
+  longitude: 20.389
+scores:
+  impact: 8.0
+  uniqueness: 8.1
+  significance: 8.2
+  experience: 8.3
+  depth: 8.0
+  categories:
+    architecture: 8.7
+    history: 8.5
