@@ -1,0 +1,15 @@
+id: city-pg-goroka
+name: "Goroka"
+location:
+  country_code: PG
+  latitude: -6.085
+  longitude: 145.386667
+scores:
+  impact: 7.0
+  uniqueness: 8.0
+  significance: 7.6
+  experience: 7.6
+  depth: 7.0
+  categories:
+    culture: 8.6
+    history: 7.3

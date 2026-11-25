@@ -1,0 +1,14 @@
+id: sight-ke-south-island
+name: "South Island National Park"
+location:
+  country_code: KE
+  latitude: 2.6325
+  longitude: 36.594722
+scores:
+  impact: 8.6
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.1
+  depth: 7.8
+  categories:
+    nature: 9.2

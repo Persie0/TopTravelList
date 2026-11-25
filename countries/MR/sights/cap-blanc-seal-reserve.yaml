@@ -1,0 +1,15 @@
+id: sight-mr-cap-blanc-seal-reserve
+name: "Cap Blanc Seal Reserve"
+location:
+  country_code: MR
+  latitude: 20.77028
+  longitude: -17.07944
+scores:
+  impact: 7.7
+  uniqueness: 8.9
+  significance: 9.1
+  experience: 7.7
+  depth: 7.1
+  categories:
+    wildlife: 9.2
+    nature: 8.5

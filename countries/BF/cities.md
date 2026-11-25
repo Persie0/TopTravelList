@@ -2,7 +2,7 @@
 
 # Burkina Faso (BF) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**3 ranked** · **6 unassessed** · **9 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,26 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (3)
 
-No cities, towns & villages have been assessed for **Burkina Faso** yet.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Bobo-Dioulasso](cities/bobo-dioulasso.yaml) | City / town | **81.55** | **Culture 8.7**, **Architecture 8.5**, **History 8.4** | 8.0 / 8.4 / 8.2 / 8.1 / 8.0 | [11.18064, -4.29489](https://www.google.com/maps/search/?api=1&query=11.18064,-4.29489) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bobo-Dioulasso%2C%20Burkina%20Faso) |
+| 2 | [Ouagadougou](cities/ouagadougou.yaml) | City / town | **76.30** | **Culture 8.5**, **History 7.9**, **Food 7.6** | 7.2 / 7.6 / 8.0 / 7.8 / 8.0 | [12.36566, -1.53388](https://www.google.com/maps/search/?api=1&query=12.36566,-1.53388) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ouagadougou%2C%20Burkina%20Faso) |
+| 3 | [Banfora](cities/banfora.yaml) | City / town | **69.65** | **Culture 7.4** | 6.8 / 7.0 / 7.0 / 7.3 / 6.8 | [10.64064, -4.75285](https://www.google.com/maps/search/?api=1&query=10.64064,-4.75285) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Banfora%2C%20Burkina%20Faso) |
 
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+## Not yet fully assessed (6)
+
+These destinations have no rank until all five core scores are assessed.
+
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| — | [Fada N’Gourma](cities/fada-ngourma.yaml) | City / town | **—** | — | — / 7.3 / 7.4 / — / — | [12.06, 0.36](https://www.google.com/maps/search/?api=1&query=12.06,0.36) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Fada%20N%E2%80%99Gourma%2C%20Burkina%20Faso) |
+| — | [Gaoua](cities/gaoua.yaml) | City / town | **—** | **Culture 8.0** | — / 7.6 / 7.6 / — / — | [10.3, -3.18](https://www.google.com/maps/search/?api=1&query=10.3,-3.18) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Gaoua%2C%20Burkina%20Faso) |
+| — | [Koudougou](cities/koudougou.yaml) | City / town | **—** | — | — / — / 7.0 / — / — | [12.252, -2.362](https://www.google.com/maps/search/?api=1&query=12.252,-2.362) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Koudougou%2C%20Burkina%20Faso) |
+| — | [Ouahigouya](cities/ouahigouya.yaml) | City / town | **—** | — | — / 7.2 / 7.4 / — / — | [13.583, -2.421](https://www.google.com/maps/search/?api=1&query=13.583,-2.421) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ouahigouya%2C%20Burkina%20Faso) |
+| — | [Sindou](cities/sindou.yaml) | City / town | **—** | — | — / 7.1 / 6.7 / — / — | [10.66, -5.16](https://www.google.com/maps/search/?api=1&query=10.66,-5.16) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sindou%2C%20Burkina%20Faso) |
+| — | [Tiébélé](cities/tiebele.yaml) | City / town | **—** | **Architecture 8.8**, **Culture 8.7** | 7.9 / 8.8 / 8.3 / — / — | [11.09, 0.96](https://www.google.com/maps/search/?api=1&query=11.09,0.96) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ti%C3%A9b%C3%A9l%C3%A9%2C%20Burkina%20Faso) |
 
 ---
 

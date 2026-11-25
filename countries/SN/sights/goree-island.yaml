@@ -1,0 +1,16 @@
+id: sight-sn-goree-island
+name: "Island of Gorée"
+location:
+  country_code: SN
+  latitude: 14.66722
+  longitude: -17.40083
+scores:
+  impact: 9.1
+  uniqueness: 9.3
+  significance: 9.6
+  experience: 9.1
+  depth: 8.7
+  categories:
+    history: 9.6
+    culture: 9.4
+    architecture: 9.0

@@ -1,0 +1,13 @@
+id: city-tv-kulia
+name: "Kulia Village"
+location:
+  country_code: TV
+  latitude: -6.10819
+  longitude: 177.33393
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}

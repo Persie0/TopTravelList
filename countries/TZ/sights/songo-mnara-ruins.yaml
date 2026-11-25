@@ -1,0 +1,15 @@
+id: sight-tz-songo-mnara-ruins
+name: "Ruins of Songo Mnara"
+location:
+  country_code: TZ
+  latitude: -9.049444
+  longitude: 39.567222
+scores:
+  impact: 8.5
+  uniqueness: 9.1
+  significance: 9.2
+  experience: 8.3
+  depth: 8.2
+  categories:
+    history: 9.3
+    architecture: 9.0

@@ -1,0 +1,15 @@
+id: city-ke-malindi
+name: "Malindi"
+location:
+  country_code: KE
+  latitude: -3.219186
+  longitude: 40.11689
+scores:
+  impact: 7.9
+  uniqueness: 8.1
+  significance: 8.2
+  experience: 8.2
+  depth: 7.8
+  categories:
+    history: 8.6
+    culture: 8.4

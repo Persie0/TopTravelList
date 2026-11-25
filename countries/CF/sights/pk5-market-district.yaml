@@ -1,0 +1,15 @@
+id: sight-cf-pk5-market-district
+name: "PK5 Market District"
+location:
+  country_code: CF
+  latitude: 4.37
+  longitude: 18.53
+scores:
+  impact: 6.9
+  uniqueness: 7.7
+  significance: 6.7
+  experience: 7.3
+  depth: 7.2
+  categories:
+    culture: 8.2
+    food: 7.9

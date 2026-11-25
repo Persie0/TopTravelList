@@ -1,0 +1,15 @@
+id: sight-er-debre-libanos-monastery-hamm
+name: "Debre Libanos Monastery (Hamm)"
+location:
+  country_code: ER
+  latitude: 14.75
+  longitude: 39.45
+scores:
+  impact: null
+  uniqueness: 8.6
+  significance: 9.0
+  experience: null
+  depth: null
+  categories:
+    history: 9.2
+    culture: 9.1

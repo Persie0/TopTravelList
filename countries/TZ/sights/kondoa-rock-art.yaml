@@ -1,0 +1,15 @@
+id: sight-tz-kondoa-rock-art
+name: "Kondoa Rock-Art Sites"
+location:
+  country_code: TZ
+  latitude: -4.72
+  longitude: 35.83
+scores:
+  impact: 8.5
+  uniqueness: 9.3
+  significance: 9.4
+  experience: 8.3
+  depth: 8.4
+  categories:
+    history: 9.4
+    culture: 9.3

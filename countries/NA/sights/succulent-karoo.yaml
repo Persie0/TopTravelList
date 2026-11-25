@@ -1,0 +1,14 @@
+id: sight-na-succulent-karoo
+name: "Succulent Karoo Protected Areas (Namibia)"
+location:
+  country_code: NA
+  latitude: -27.908333
+  longitude: 17.25
+scores:
+  impact: null
+  uniqueness: 9.3
+  significance: 9.5
+  experience: null
+  depth: null
+  categories:
+    nature: 9.5

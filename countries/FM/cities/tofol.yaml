@@ -1,0 +1,13 @@
+id: city-fm-tofol
+name: "Tofol"
+location:
+  country_code: FM
+  latitude: 5.32479
+  longitude: 163.00781
+scores:
+  impact: 6.2
+  uniqueness: 6.6
+  significance: 6.8
+  experience: 6.4
+  depth: 5.8
+  categories: {}

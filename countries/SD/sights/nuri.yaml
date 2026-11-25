@@ -1,0 +1,16 @@
+id: sight-sd-nuri
+name: "Nuri Pyramids"
+location:
+  country_code: SD
+  latitude: 18.563889
+  longitude: 31.916667
+scores:
+  impact: 9.1
+  uniqueness: 9.3
+  significance: 9.5
+  experience: 8.4
+  depth: 8.0
+  categories:
+    history: 9.6
+    architecture: 9.3
+    photography: 9.2

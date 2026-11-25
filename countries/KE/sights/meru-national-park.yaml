@@ -1,0 +1,15 @@
+id: sight-ke-meru-national-park
+name: "Meru National Park"
+location:
+  country_code: KE
+  latitude: 0.09361
+  longitude: 38.20806
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 8.8
+  depth: 8.9
+  categories:
+    nature: 9.2
+    wildlife: 9.2

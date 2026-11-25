@@ -1,0 +1,16 @@
+id: sight-ke-lamu-old-town
+name: "Lamu Old Town"
+location:
+  country_code: KE
+  latitude: -2.2717
+  longitude: 40.902
+scores:
+  impact: 9.0
+  uniqueness: 9.4
+  significance: 9.5
+  experience: 9.0
+  depth: 8.8
+  categories:
+    architecture: 9.4
+    history: 9.5
+    culture: 9.4

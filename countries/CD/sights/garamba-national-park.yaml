@@ -1,0 +1,15 @@
+id: sight-cd-garamba-national-park
+name: "Garamba National Park"
+location:
+  country_code: CD
+  latitude: 4.166667
+  longitude: 29.499722
+scores:
+  impact: 8.9
+  uniqueness: 9.1
+  significance: 9.5
+  experience: 8.7
+  depth: 9.0
+  categories:
+    nature: 9.5
+    wildlife: 9.1

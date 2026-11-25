@@ -1,0 +1,14 @@
+id: city-cf-bayanga
+name: "Bayanga"
+location:
+  country_code: CF
+  latitude: 2.92
+  longitude: 16.25
+scores:
+  impact: 6.3
+  uniqueness: 7.7
+  significance: 6.9
+  experience: 7.3
+  depth: 5.8
+  categories:
+    culture: 8.0

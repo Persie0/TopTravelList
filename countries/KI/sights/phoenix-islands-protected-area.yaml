@@ -1,0 +1,15 @@
+id: sight-ki-phoenix-islands-protected-area
+name: "Phoenix Islands Protected Area"
+location:
+  country_code: KI
+  latitude: -3.864454
+  longitude: -172.650203
+scores:
+  impact: 9.0
+  uniqueness: 9.4
+  significance: 9.6
+  experience: null
+  depth: null
+  categories:
+    nature: 9.4
+    wildlife: null

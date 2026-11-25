@@ -1,0 +1,17 @@
+id: sight-sb-marovo-lagoon
+name: "Marovo Lagoon"
+location:
+  country_code: SB
+  latitude: -8.53
+  longitude: 158.05
+scores:
+  impact: 9.1
+  uniqueness: 9.3
+  significance: 8.7
+  experience: 9.0
+  depth: 8.8
+  categories:
+    nature: 9.3
+    adventure: 9.1
+    photography: 9.2
+    wildlife: 8.9

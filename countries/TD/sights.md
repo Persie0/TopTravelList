@@ -2,7 +2,7 @@
 
 # Chad (TD) — Sights & attractions ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**14 ranked** · **11 unassessed** · **25 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,11 +10,42 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (14)
 
-No sights & attractions have been assessed for **Chad** yet.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Ennedi Massif Natural and Cultural Landscape](sights/ennedi-massif-natural-and-cultural-landscape.yaml) | Coast | **95.70** | **Nature 9.8**, **Photography 9.8**, **Adventure 9.6**, History 9.5 | 9.7 / 9.7 / 9.6 / 9.1 / 9.5 | [17.041667, 21.862778](https://www.google.com/maps/search/?api=1&query=17.041667,21.862778) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ennedi%20Massif%20Natural%20and%20Cultural%20Landscape%2C%20Chad) |
+| 2 | [Lakes of Ounianga](sights/lakes-of-ounianga.yaml) | Lake | **93.85** | **Nature 9.8**, **Photography 9.7** | 9.5 / 9.8 / 9.5 / 8.7 / 8.8 | [19.055, 20.505556](https://www.google.com/maps/search/?api=1&query=19.055,20.505556) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lakes%20of%20Ounianga%2C%20Chad) |
+| 3 | [Zakouma National Park](sights/zakouma-national-park.yaml) | Park / reserve | **93.05** | **Wildlife 9.7**, **Nature 9.5**, **Adventure 9.0** | 9.4 / 9.2 / 9.4 / 9.3 / 9.1 | [10.808333, 19.675](https://www.google.com/maps/search/?api=1&query=10.808333,19.675) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Zakouma%20National%20Park%2C%20Chad) |
+| 4 | [Guelta d'Archei](sights/guelta-d-archei.yaml) | Attraction | **91.75** | **Photography 9.7**, **Nature 9.6**, **Adventure 8.7** | 9.5 / 9.7 / 9.1 / 8.8 / 7.6 | [16.90405, 21.77377](https://www.google.com/maps/search/?api=1&query=16.90405,21.77377) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Guelta%20d%27Archei%2C%20Chad) |
+| 5 | [Ounianga Sérir Lake Group](sights/ounianga-serir-lake-group.yaml) | Lake | **91.20** | **Nature 9.6**, **Photography 9.5** | 9.4 / 9.5 / 9.1 / 8.5 / 8.3 | [18.95, 20.89](https://www.google.com/maps/search/?api=1&query=18.95,20.89) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ounianga%20S%C3%A9rir%20Lake%20Group%2C%20Chad) |
+| 6 | [Tibesti Massif (documented guided visitor landscapes)](sights/tibesti-massif-documented-guided-visitor-landscapes.yaml) | Coast | **90.20** | **Nature 9.5**, **Adventure 9.4**, **Photography 9.4** | 9.3 / 9.4 / 8.6 / 8.4 / 9.0 | [20.7, 17.8](https://www.google.com/maps/search/?api=1&query=20.7,17.8) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tibesti%20Massif%20%28documented%20guided%20visitor%20landscapes%29%2C%20Chad) |
+| 7 | [Ounianga Kébir Lake Group](sights/ounianga-kebir-lake-group.yaml) | Lake | **89.65** | **Nature 9.4**, **Photography 9.4** | 9.3 / 9.4 / 8.9 / 8.5 / 7.7 | [19.055, 20.505556](https://www.google.com/maps/search/?api=1&query=19.055,20.505556) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ounianga%20K%C3%A9bir%20Lake%20Group%2C%20Chad) |
+| 8 | [Emi Koussi](sights/emi-koussi.yaml) | Attraction | **86.90** | **Adventure 9.4**, **Nature 9.4**, **Photography 9.2** | 9.1 / 9.1 / 8.3 / 8.3 / 7.8 | [19.79, 18.55](https://www.google.com/maps/search/?api=1&query=19.79,18.55) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Emi%20Koussi%2C%20Chad) |
+| 9 | [Aloba Arch](sights/aloba-arch.yaml) | Attraction | **86.75** | **Photography 9.5**, **Nature 9.4** | 9.4 / 9.4 / 7.8 / 8.5 / 6.7 | [16.74184, 22.23905](https://www.google.com/maps/search/?api=1&query=16.74184,22.23905) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Aloba%20Arch%2C%20Chad) |
+| 10 | [Manda Guéli Rock Art Shelter](sights/manda-gueli-rock-art-shelter.yaml) | Attraction | **83.75** | **History 9.3**, **Culture 9.1** | 8.2 / 8.8 / 9.1 / 8.1 / 6.8 | [16.9, 21.83](https://www.google.com/maps/search/?api=1&query=16.9,21.83) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Manda%20Gu%C3%A9li%20Rock%20Art%20Shelter%2C%20Chad) |
+| 11 | [Chad National Museum](sights/chad-national-museum.yaml) | Museum / heritage | **77.30** | **History 9.2**, **Culture 8.8** | 7.0 / 8.1 / 8.9 / 7.5 / 7.0 | [12.11, 15.05](https://www.google.com/maps/search/?api=1&query=12.11,15.05) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Chad%20National%20Museum%2C%20Chad) |
+| 12 | [Grand Marché (N'Djamena)](sights/grand-marche-n-djamena.yaml) | Attraction | **73.10** | **Culture 8.4**, **Food 8.0** | 7.1 / 7.8 / 6.8 / 7.6 / 7.3 | [12.12, 15.05](https://www.google.com/maps/search/?api=1&query=12.12,15.05) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Grand%20March%C3%A9%20%28N%27Djamena%29%2C%20Chad) |
+| 13 | [Our Lady of Peace Cathedral (N'Djamena)](sights/our-lady-of-peace-cathedral-n-djamena.yaml) | Religious site | **69.25** | **History 8.0**, **Architecture 7.9** | 6.5 / 7.2 / 7.6 / 7.1 / 5.9 | [12.11, 15.04](https://www.google.com/maps/search/?api=1&query=12.11,15.04) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Our%20Lady%20of%20Peace%20Cathedral%20%28N%27Djamena%29%2C%20Chad) |
+| 14 | [Chari Riverfront (N'Djamena)](sights/chari-riverfront-n-djamena.yaml) | River / waterway | **69.05** | **Photography 7.9**, **Nature 7.7** | 6.8 / 7.2 / 6.7 / 7.3 / 6.3 | [12.1, 15.03](https://www.google.com/maps/search/?api=1&query=12.1,15.03) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Chari%20Riverfront%20%28N%27Djamena%29%2C%20Chad) |
 
-Add destination YAML files in [sights/](sights/), then regenerate the overview files.
+## Not yet fully assessed (11)
+
+These destinations have no rank until all five core scores are assessed.
+
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| — | [Bahr Salamat Faunal Reserve](sights/bahr-salamat-faunal-reserve.yaml) | Attraction | **—** | **Nature 9.2**, **Wildlife 9.2** | — / 8.3 / 9.0 / — / — | [10.8, 20.0](https://www.google.com/maps/search/?api=1&query=10.8,20.0) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bahr%20Salamat%20Faunal%20Reserve%2C%20Chad) |
+| — | [Begon II Metallurgical Site](sights/begon-ii-metallurgical-site.yaml) | Attraction | **—** | **History 9.2**, **Culture 8.7** | — / 8.4 / 8.8 / — / — | [7.88, 15.96](https://www.google.com/maps/search/?api=1&query=7.88,15.96) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Begon%20II%20Metallurgical%20Site%2C%20Chad) |
+| — | [Djourab Early Hominid Site](sights/djourab-early-hominid-site.yaml) | Attraction | **—** | **Nature 9.6**, **History 9.5** | — / 9.6 / 9.8 / — / — | [16.241667, 17.483333](https://www.google.com/maps/search/?api=1&query=16.241667,17.483333) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Djourab%20Early%20Hominid%20Site%2C%20Chad) |
+| — | [Ennedi and Tibesti Rock Art (tentative property)](sights/ennedi-and-tibesti-rock-art-tentative-property.yaml) | Attraction | **—** | **History 9.6**, **Culture 9.5** | — / 9.4 / 9.5 / — / — | [16.583333, 21.416667](https://www.google.com/maps/search/?api=1&query=16.583333,21.416667) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ennedi%20and%20Tibesti%20Rock%20Art%20%28tentative%20property%29%2C%20Chad) |
+| — | [Lake Chad Cultural Landscape (Chad sector)](sights/lake-chad-cultural-landscape-chad-sector.yaml) | Lake | **—** | **Nature 9.3**, **Culture 9.2**, **History 8.9** | — / 8.8 / 9.2 / — / — | [13.0, 14.5](https://www.google.com/maps/search/?api=1&query=13.0,14.5) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lake%20Chad%20Cultural%20Landscape%20%28Chad%20sector%29%2C%20Chad) |
+| — | [Manda National Park](sights/manda-national-park.yaml) | Park / reserve | **—** | **Nature 8.8**, Wildlife unassessed | — / 7.9 / 8.5 / — / — | [9.4292, 17.998](https://www.google.com/maps/search/?api=1&query=9.4292,17.998) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Manda%20National%20Park%2C%20Chad) |
+| — | [Ouara Ruins](sights/ouara-ruins.yaml) | Museum / heritage | **—** | **History 9.3**, **Architecture 8.7** | — / 8.6 / 9.0 / — / — | [14.183333, 20.7](https://www.google.com/maps/search/?api=1&query=14.183333,20.7) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ouara%20Ruins%2C%20Chad) |
+| — | [Sena Oura National Park](sights/sena-oura-national-park.yaml) | Park / reserve | **—** | **Nature 8.8**, Wildlife unassessed | — / 8.3 / 8.8 / — / — | [8.9504, 14.7413](https://www.google.com/maps/search/?api=1&query=8.9504,14.7413) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sena%20Oura%20National%20Park%2C%20Chad) |
+| — | [Siniaka Minia National Park](sights/siniaka-minia-national-park.yaml) | Park / reserve | **—** | **Nature 9.3**, **Wildlife 9.3** | — / 8.4 / 9.1 / — / — | [10.08, 18.4](https://www.google.com/maps/search/?api=1&query=10.08,18.4) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Siniaka%20Minia%20National%20Park%2C%20Chad) |
+| — | [Télé-Nugar Historical Iron Mines](sights/tele-nugar-historical-iron-mines.yaml) | Attraction | **—** | **History 9.3**, **Culture 8.5** | — / 8.7 / 8.9 / — / — | [10, 18.583333](https://www.google.com/maps/search/?api=1&query=10,18.583333) | [Google Maps](https://www.google.com/maps/search/?api=1&query=T%C3%A9l%C3%A9-Nugar%20Historical%20Iron%20Mines%2C%20Chad) |
+| — | [Zah Soo National Park](sights/zah-soo-national-park.yaml) | Park / reserve | **—** | **Nature 8.9**, Wildlife unassessed | — / 8.4 / 8.9 / — / — | [9.7526, 14.629](https://www.google.com/maps/search/?api=1&query=9.7526,14.629) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Zah%20Soo%20National%20Park%2C%20Chad) |
 
 ---
 

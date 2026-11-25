@@ -1,0 +1,17 @@
+id: sight-ml-djenne-great-mosque
+name: "Great Mosque of Djenné"
+location:
+  country_code: ML
+  latitude: 13.9053
+  longitude: -4.555
+scores:
+  impact: 9.5
+  uniqueness: 9.7
+  significance: 9.4
+  experience: 8.1
+  depth: 7.5
+  categories:
+    architecture: 9.7
+    history: 9.4
+    culture: 9.5
+    photography: 9.4

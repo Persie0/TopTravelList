@@ -1,0 +1,15 @@
+id: city-ke-nakuru
+name: "Nakuru"
+location:
+  country_code: KE
+  latitude: -0.307
+  longitude: 36.072
+scores:
+  impact: 7.1
+  uniqueness: 7.3
+  significance: 7.6
+  experience: 7.6
+  depth: 7.5
+  categories:
+    culture: 8.1
+    food: 7.5

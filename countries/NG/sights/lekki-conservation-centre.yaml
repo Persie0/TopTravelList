@@ -1,0 +1,16 @@
+id: sight-ng-lekki-conservation-centre
+name: "Lekki Conservation Centre"
+location:
+  country_code: NG
+  latitude: 6.4364
+  longitude: 3.5356
+scores:
+  impact: 8.4
+  uniqueness: 8.5
+  significance: 7.9
+  experience: 8.7
+  depth: 8.0
+  categories:
+    nature: 8.7
+    wildlife: 8.1
+    adventure: 8.8

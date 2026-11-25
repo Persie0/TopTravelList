@@ -1,0 +1,16 @@
+id: sight-vu-mount-yasur
+name: "Mount Yasur"
+location:
+  country_code: VU
+  latitude: -19.52833
+  longitude: 169.44833
+scores:
+  impact: 9.5
+  uniqueness: 9.3
+  significance: 8.8
+  experience: 9.0
+  depth: 8.0
+  categories:
+    nature: 9.4
+    adventure: 9.3
+    photography: 9.5

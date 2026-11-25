@@ -1,0 +1,15 @@
+id: sight-pg-kikori-river-basin
+name: "Kikori River Basin / Great Papuan Plateau"
+location:
+  country_code: PG
+  latitude: -6.3929
+  longitude: 143.3246
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    nature: 9.2
+    wildlife: 9.1
