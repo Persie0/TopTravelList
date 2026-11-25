@@ -2,8 +2,8 @@ id: city-er-nakfa
 name: "Nakfa"
 location:
   country_code: ER
-  latitude: 16.67
-  longitude: 38.47
+  latitude: 16.6656
+  longitude: 38.4768
 scores:
   impact: null
   uniqueness: 8.0
