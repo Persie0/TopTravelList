@@ -1,0 +1,17 @@
+id: sight-be-historic-bruges
+name: "Historic Centre of Bruges"
+location:
+  country_code: BE
+  latitude: 51.209
+  longitude: 3.224
+scores:
+  impact: 9.4
+  uniqueness: 9.4
+  significance: 9.3
+  experience: 9.3
+  depth: 9.2
+  categories:
+    architecture: 9.5
+    history: 9.4
+    photography: 9.5
+    culture: 9.2

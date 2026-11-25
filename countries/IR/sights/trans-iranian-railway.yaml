@@ -1,0 +1,16 @@
+id: sight-ir-trans-iranian-railway
+name: "Trans-Iranian Railway"
+location:
+  country_code: IR
+  latitude: 35.9
+  longitude: 52.91
+scores:
+  impact: 8.5
+  uniqueness: 8.9
+  significance: 9.0
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.0
+    history: 9.1
+    photography: 8.9

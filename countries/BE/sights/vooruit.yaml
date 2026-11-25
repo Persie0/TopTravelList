@@ -1,0 +1,16 @@
+id: sight-be-vooruit
+name: "Feestlokaal Vooruit, Ghent (Workers' Assembly Halls tentative component)"
+location:
+  country_code: BE
+  latitude: 51.047556
+  longitude: 3.727883
+scores:
+  impact: 8.3
+  uniqueness: 8.8
+  significance: 8.8
+  experience: 8.5
+  depth: 8.1
+  categories:
+    architecture: 9.0
+    culture: 9.0
+    history: 9.0

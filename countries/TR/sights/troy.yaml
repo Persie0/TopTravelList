@@ -1,0 +1,15 @@
+id: sight-tr-troy
+name: "Archaeological Site of Troy"
+location:
+  country_code: TR
+  latitude: 39.957
+  longitude: 26.239
+scores:
+  impact: 8.0
+  uniqueness: 8.8
+  significance: 9.4
+  experience: 8.2
+  depth: 8.3
+  categories:
+    history: 9.4
+    architecture: 8.5

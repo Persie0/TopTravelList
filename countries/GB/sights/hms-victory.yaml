@@ -1,0 +1,15 @@
+id: sight-gb-hms-victory
+name: "HMS Victory and Portsmouth Historic Dockyard"
+location:
+  country_code: GB
+  latitude: 50.801
+  longitude: -1.11
+scores:
+  impact: 8.9
+  uniqueness: 9.1
+  significance: 9.2
+  experience: 8.9
+  depth: 9.0
+  categories:
+    history: 9.4
+    culture: 9.0

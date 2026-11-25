@@ -1,0 +1,15 @@
+id: sight-ir-pasargadae
+name: "Pasargadae"
+location:
+  country_code: IR
+  latitude: 30.2
+  longitude: 53.179
+scores:
+  impact: 8.5
+  uniqueness: 9.0
+  significance: 9.4
+  experience: 8.4
+  depth: 8.0
+  categories:
+    history: 9.4
+    architecture: 9.0

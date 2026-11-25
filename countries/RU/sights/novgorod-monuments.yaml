@@ -1,0 +1,15 @@
+id: sight-ru-novgorod-monuments
+name: "Historic Monuments of Novgorod and Surroundings"
+location:
+  country_code: RU
+  latitude: 58.52
+  longitude: 31.28
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    history: 9.3
+    architecture: 9.1

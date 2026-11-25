@@ -1,0 +1,16 @@
+id: sight-ht-citadelle-laferriere
+name: "Citadelle Laferrière"
+location:
+  country_code: HT
+  latitude: 19.573
+  longitude: -72.244
+scores:
+  impact: 9.4
+  uniqueness: 9.3
+  significance: 9.5
+  experience: 8.9
+  depth: 8.5
+  categories:
+    history: 9.5
+    architecture: 9.3
+    photography: 9.4

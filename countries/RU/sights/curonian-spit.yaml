@@ -1,0 +1,15 @@
+id: sight-ru-curonian-spit
+name: "Curonian Spit (Russian section)"
+location:
+  country_code: RU
+  latitude: 55.13
+  longitude: 20.79
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 8.7
+  experience: null
+  depth: null
+  categories:
+    nature: 9.0
+    photography: 9.1

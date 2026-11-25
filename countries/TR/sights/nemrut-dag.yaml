@@ -1,0 +1,16 @@
+id: sight-tr-nemrut-dag
+name: "Nemrut Dag"
+location:
+  country_code: TR
+  latitude: 37.981
+  longitude: 38.741
+scores:
+  impact: 9.2
+  uniqueness: 9.2
+  significance: 9.0
+  experience: 8.7
+  depth: 7.9
+  categories:
+    history: 9.2
+    architecture: 9.1
+    photography: 9.4

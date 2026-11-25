@@ -1,0 +1,16 @@
+id: city-ir-mashhad
+name: "Mashhad"
+location:
+  country_code: IR
+  latitude: 36.297
+  longitude: 59.606
+scores:
+  impact: 8.4
+  uniqueness: 8.6
+  significance: 9.0
+  experience: null
+  depth: null
+  categories:
+    culture: 9.3
+    architecture: 8.9
+    history: 9.0

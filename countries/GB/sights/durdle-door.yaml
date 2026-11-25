@@ -1,0 +1,15 @@
+id: sight-gb-durdle-door
+name: "Durdle Door"
+location:
+  country_code: GB
+  latitude: 50.621
+  longitude: -2.276
+scores:
+  impact: 9.0
+  uniqueness: 8.9
+  significance: 8.4
+  experience: 8.7
+  depth: 7.6
+  categories:
+    nature: 9.2
+    photography: 9.4

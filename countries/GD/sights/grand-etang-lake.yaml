@@ -1,0 +1,15 @@
+id: sight-gd-grand-etang-lake
+name: "Grand Etang Lake"
+location:
+  country_code: GD
+  latitude: 12.094
+  longitude: -61.692
+scores:
+  impact: 8.3
+  uniqueness: 8.1
+  significance: 7.0
+  experience: 8.4
+  depth: 6.8
+  categories:
+    nature: 8.7
+    photography: 8.8

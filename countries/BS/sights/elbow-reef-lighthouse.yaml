@@ -1,0 +1,16 @@
+id: sight-bs-elbow-reef-lighthouse
+name: "Elbow Reef Lighthouse"
+location:
+  country_code: BS
+  latitude: 26.533056
+  longitude: -76.961389
+scores:
+  impact: 8.0
+  uniqueness: 8.8
+  significance: 8.7
+  experience: 8.0
+  depth: 7.0
+  categories:
+    history: 9.1
+    architecture: 8.5
+    photography: 9.0

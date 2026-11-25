@@ -1,0 +1,16 @@
+id: sight-tr-blue-mosque
+name: "Sultan Ahmed Mosque (Blue Mosque)"
+location:
+  country_code: TR
+  latitude: 41.0054
+  longitude: 28.9768
+scores:
+  impact: 9.1
+  uniqueness: 8.9
+  significance: 9.1
+  experience: 8.7
+  depth: 8.1
+  categories:
+    architecture: 9.3
+    culture: 9.1
+    history: 9.1

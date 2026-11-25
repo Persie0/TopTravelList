@@ -1,0 +1,15 @@
+id: sight-gd-oyster-bed-mangrove-carriacou
+name: "Oyster Bed Mangrove (Carriacou)"
+location:
+  country_code: GD
+  latitude: 12.453
+  longitude: -61.485
+scores:
+  impact: 7.7
+  uniqueness: 8.2
+  significance: 7.9
+  experience: 8.3
+  depth: 7.0
+  categories:
+    nature: 8.8
+    wildlife: 8.6

@@ -1,0 +1,16 @@
+id: sight-ht-bassin-bleu
+name: "Bassin Bleu"
+location:
+  country_code: HT
+  latitude: 18.239
+  longitude: -72.588
+scores:
+  impact: 8.6
+  uniqueness: 8.5
+  significance: 7.5
+  experience: 8.7
+  depth: 7.7
+  categories:
+    nature: 9.0
+    photography: 9.2
+    adventure: 8.7

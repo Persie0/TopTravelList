@@ -1,0 +1,15 @@
+id: sight-gb-tate-modern
+name: "Tate Modern"
+location:
+  country_code: GB
+  latitude: 51.507778
+  longitude: -0.099444
+scores:
+  impact: 9.1
+  uniqueness: 9.2
+  significance: 9.2
+  experience: 9.2
+  depth: 9.2
+  categories:
+    culture: 9.5
+    architecture: 9.1

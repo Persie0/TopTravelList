@@ -1,0 +1,16 @@
+id: sight-ht-gelee-beach
+name: "Gelée Beach"
+location:
+  country_code: HT
+  latitude: 18.174
+  longitude: -73.735
+scores:
+  impact: 7.5
+  uniqueness: 7.6
+  significance: 7.1
+  experience: 8.0
+  depth: 6.8
+  categories:
+    beaches: 8.5
+    culture: 8.5
+    food: 8.3

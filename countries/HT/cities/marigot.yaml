@@ -1,0 +1,15 @@
+id: city-ht-marigot
+name: "Marigot"
+location:
+  country_code: HT
+  latitude: 18.23
+  longitude: -72.32
+scores:
+  impact: 6.9
+  uniqueness: 7.3
+  significance: 6.8
+  experience: 7.3
+  depth: 6.1
+  categories:
+    culture: 7.8
+    photography: 8.0

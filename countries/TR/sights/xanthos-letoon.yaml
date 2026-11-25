@@ -1,0 +1,15 @@
+id: sight-tr-xanthos-letoon
+name: "Xanthos-Letoon"
+location:
+  country_code: TR
+  latitude: 36.357
+  longitude: 29.319
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 9.2
+  experience: 8.4
+  depth: 8.3
+  categories:
+    history: 9.4
+    architecture: 8.9

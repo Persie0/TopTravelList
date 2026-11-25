@@ -1,0 +1,15 @@
+id: sight-gb-stonehenge
+name: "Stonehenge and Avebury archaeological landscapes"
+location:
+  country_code: GB
+  latitude: 51.179
+  longitude: -1.826
+scores:
+  impact: 9.2
+  uniqueness: 9.6
+  significance: 9.6
+  experience: 8.8
+  depth: 9.1
+  categories:
+    history: 9.7
+    photography: 9.3

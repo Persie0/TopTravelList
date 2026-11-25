@@ -1,0 +1,16 @@
+id: sight-be-bouillon-castle
+name: "Bouillon Castle"
+location:
+  country_code: BE
+  latitude: 49.793
+  longitude: 5.065
+scores:
+  impact: 8.8
+  uniqueness: 8.6
+  significance: 8.8
+  experience: 8.7
+  depth: 8.4
+  categories:
+    architecture: 9.0
+    history: 9.1
+    photography: 9.0

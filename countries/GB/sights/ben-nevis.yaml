@@ -1,0 +1,16 @@
+id: sight-gb-ben-nevis
+name: "Ben Nevis mountain routes"
+location:
+  country_code: GB
+  latitude: 56.797
+  longitude: -5.003
+scores:
+  impact: 9.0
+  uniqueness: 8.7
+  significance: 8.5
+  experience: 8.8
+  depth: 8.5
+  categories:
+    nature: 9.2
+    adventure: 9.3
+    photography: 9.2
