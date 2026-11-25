@@ -24,6 +24,15 @@
 - [Kampot](../../../countries/KH/cities/kampot.yaml) (Cambodia): more diverse small waterfront-town experience
 - [Koh Ker Village](../../../countries/KH/cities/koh-ker-village.yaml) (Cambodia): stronger archaeological context
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D inspected on main; qualitative peers retained. Editorial comparison only.
+
+- [vienna (AT)](../../../countries/AT/cities/vienna.yaml) — 9.2/9.0/9.5/9.2/9.4; Upper civic heritage anchor, much greater architecture and urban depth.
+- [bangkok (TH)](../../../countries/TH/cities/bangkok.yaml) — 9.1/9.0/9.0/9.5/9.8; Far broader food and exploration.
+- [apia (WS)](../../../countries/WS/cities/apia.yaml) — 7.4/8.0/8.0/8.1/7.8; Close Pacific capital with slightly greater cultural identity.
+- [kampot (KH)](../../../countries/KH/cities/kampot.yaml) — 7.6/7.9/7.5/8.3/7.9; More varied waterfront leisure, less national civic significance.
+
 ### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
@@ -59,6 +68,15 @@
 - [Bangkok](../../../countries/TH/cities/bangkok.yaml) (Thailand): broader urban activities
 - [Kampot](../../../countries/KH/cities/kampot.yaml) (Cambodia): more diverse small waterfront-town experience
 - [Koh Ker Village](../../../countries/KH/cities/koh-ker-village.yaml) (Cambodia): stronger archaeological context
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D inspected on main; qualitative peers retained. Editorial comparison only.
+
+- [salelologa (WS)](../../../countries/WS/cities/salelologa.yaml) — 6.2/6.8/6.4/7.0/6.4; Smaller island market center, less town-based leisure.
+- [kampot (KH)](../../../countries/KH/cities/kampot.yaml) — 7.6/7.9/7.5/8.3/7.9; More varied waterfront and architecture.
+- [rach gia (VN)](../../../countries/VN/cities/rach-gia.yaml) — 7.2/7.5/7.3/7.8/7.9; Larger maritime city and broader exploration.
+- [kuala perlis (MY)](../../../countries/MY/cities/kuala-perlis.yaml) — 6.5/6.8/6.5/7.2/6.7; Close modest coastal market and food peer, exclude Gizo offshore diving.
 
 ### Scoring decisions
 | Field | Rating | Rationale |
@@ -96,6 +114,15 @@
 - [Kampot](../../../countries/KH/cities/kampot.yaml) (Cambodia): more diverse small waterfront-town experience
 - [Koh Ker Village](../../../countries/KH/cities/koh-ker-village.yaml) (Cambodia): stronger archaeological context
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D inspected on main; qualitative peers retained. Editorial comparison only.
+
+- [salzburg (AT)](../../../countries/AT/cities/salzburg.yaml) — 9.0/8.9/9.0/8.8/8.5; Upper historic-city reference, not comparable built scope.
+- [salelologa (WS)](../../../countries/WS/cities/salelologa.yaml) — 6.2/6.8/6.4/7.0/6.4; Close small island settlement, Munda stronger wartime context.
+- [kuala perlis (MY)](../../../countries/MY/cities/kuala-perlis.yaml) — 6.5/6.8/6.5/7.2/6.7; Modest port with similar focused visit.
+- [kampot (KH)](../../../countries/KH/cities/kampot.yaml) — 7.6/7.9/7.5/8.3/7.9; More urban leisure and architectural depth.
+
 ### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
@@ -131,6 +158,15 @@
 - [Kampot](../../../countries/KH/cities/kampot.yaml) (Cambodia): more diverse small waterfront-town experience
 - [Koh Ker Village](../../../countries/KH/cities/koh-ker-village.yaml) (Cambodia): stronger archaeological context
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D inspected on main; qualitative peers retained. Editorial comparison only.
+
+- [salzburg (AT)](../../../countries/AT/cities/salzburg.yaml) — 9.0/8.9/9.0/8.8/8.5; Far greater intact historic cityscape.
+- [koh ker village (KH)](../../../countries/KH/cities/koh-ker-village.yaml) — 7.2/8.0/8.3/7.8/6.9; Stronger archaeological context, comparable compact scope.
+- [salelologa (WS)](../../../countries/WS/cities/salelologa.yaml) — 6.2/6.8/6.4/7.0/6.4; Ordinary island center, Tulagi has stronger former-capital significance.
+- [rach gia (VN)](../../../countries/VN/cities/rach-gia.yaml) — 7.2/7.5/7.3/7.8/7.9; More varied coastal urban visit.
+
 ### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
@@ -165,6 +201,15 @@
 - [Bangkok](../../../countries/TH/cities/bangkok.yaml) (Thailand): broader urban activities
 - [Kampot](../../../countries/KH/cities/kampot.yaml) (Cambodia): more diverse small waterfront-town experience
 - [Koh Ker Village](../../../countries/KH/cities/koh-ker-village.yaml) (Cambodia): stronger archaeological context
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D inspected on main; qualitative peers retained. Editorial comparison only.
+
+- [salelologa (WS)](../../../countries/WS/cities/salelologa.yaml) — 6.2/6.8/6.4/7.0/6.4; Close island commercial center.
+- [kuala perlis (MY)](../../../countries/MY/cities/kuala-perlis.yaml) — 6.5/6.8/6.5/7.2/6.7; More developed food experience.
+- [rach gia (VN)](../../../countries/VN/cities/rach-gia.yaml) — 7.2/7.5/7.3/7.8/7.9; Much greater urban breadth.
+- [kampot (KH)](../../../countries/KH/cities/kampot.yaml) — 7.6/7.9/7.5/8.3/7.9; Stronger waterfront and built visitor experience.
 
 ### Scoring decisions
 | Field | Rating | Rationale |
