@@ -2,8 +2,8 @@ id: city-cg-oyo
 name: "Oyo"
 location:
   country_code: CG
-  latitude: -1.16
-  longitude: 15.91
+  latitude: -1.165
+  longitude: 15.97
 scores:
   impact: 6.0
   uniqueness: 6.8
