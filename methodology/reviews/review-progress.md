@@ -13,12 +13,14 @@ Updated: 2026-11-25. This is the independent follow-up review ledger, not the or
 
 All four merged PRs have passed schema, generated Markdown and worldwide benchmark checks on their reviewed heads. The overall workflow runs reported failure after successful per-country validation (merge/PR operation issues); actual merge status verified separately. The entries above mean targeted follow-up review, not comprehensive independent verification of all 267 destinations.
 
-## Targeted review prepared, not yet merged
+## Targeted review merged — not full-country confirmation
 
-- Brazil (BR): Rio de Janeiro, Iguaçu Falls Brazilian viewpoints, Valongo Wharf; score retention with explicit limitations.
-- Benin (BJ): Royal Palaces of Abomey main complex; score retention, visitor access needs further confirmation.
+- [Brazil (BR)](BR/sights.md), [PR #95](https://github.com/Persie0/TopTravelList/pull/95): Rio de Janeiro, Iguaçu Falls Brazilian viewpoints, Valongo Wharf; score retention with explicit limitations.
+- [Benin (BJ)](BJ/sights.md), [PR #95](https://github.com/Persie0/TopTravelList/pull/95): Royal Palaces of Abomey main complex; score retention, visitor access needs further confirmation.
 
 ## Automated screening only
+
+[Detailed screening snapshot](screening-2026-11-25.md).
 
 The [2026-11-25 screening run](https://github.com/Persie0/Playground/actions/runs/45659557116) screened recently merged country additions: JP, ID, MY, SG, BN, CZ, LA, BA, ME, LK, AL, NP, BT, LI, JO, SM, BH, MU, PY, ST, EC, LS, OM, PE, DJ, CL, BW, CO, TG, AR, MW, AM, BR, BJ (only records present at the run's snapshot). It identified 559 exceptional-score/duplicate-name flags; flags are review priorities, not proof of inflation. No bulk adjustments. The list does not imply a complete review of these countries.
 
