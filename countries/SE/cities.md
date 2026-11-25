@@ -2,7 +2,7 @@
 
 # Sweden (SE) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**23 ranked** · **0 unassessed** · **23 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,33 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (23)
 
-No cities, towns & villages have been assessed for **Sweden** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Stockholm](cities/stockholm.yaml) | City / town | **92.90** | **Architecture 9.4**, **Photography 9.4**, **Culture 9.3**, History 9.3, Food 8.9 | 9.3 / 9.2 / 9.2 / 9.4 / 9.5 | [59.3293, 18.0686](https://www.google.com/maps/search/?api=1&query=59.3293,18.0686) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Stockholm%2C%20Sweden) |
+| 2 | [Visby](cities/visby.yaml) | City / town | **89.55** | **Architecture 9.4**, **History 9.3**, **Photography 9.3** | 9.0 / 9.1 / 9.0 / 9.0 / 8.3 | [57.638, 18.294](https://www.google.com/maps/search/?api=1&query=57.638,18.294) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Visby%2C%20Sweden) |
+| 3 | [Uppsala](cities/uppsala.yaml) | City / town | **86.45** | **History 9.1**, **Architecture 9.0**, **Culture 9.0** | 8.5 / 8.6 / 8.9 / 8.7 / 8.6 | [59.858, 17.638](https://www.google.com/maps/search/?api=1&query=59.858,17.638) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Uppsala%2C%20Sweden) |
+| 4 | [Gothenburg (Göteborg)](cities/gothenburg.yaml) | City / town | **86.20** | **Food 9.1**, **Culture 9.0**, **Architecture 8.8** | 8.5 / 8.4 / 8.6 / 9.0 / 9.0 | [57.7089, 11.9746](https://www.google.com/maps/search/?api=1&query=57.7089,11.9746) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Gothenburg%20%28G%C3%B6teborg%29%2C%20Sweden) |
+| 5 | [Karlskrona](cities/karlskrona.yaml) | City / town | **85.00** | **History 9.0**, **Architecture 8.9**, **Culture 8.6** | 8.3 / 8.7 / 8.7 / 8.5 / 8.2 | [56.161, 15.586](https://www.google.com/maps/search/?api=1&query=56.161,15.586) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Karlskrona%2C%20Sweden) |
+| 6 | [Lund](cities/lund.yaml) | City / town | **84.15** | **History 9.0**, **Architecture 8.8**, **Culture 8.8** | 8.3 / 8.4 / 8.7 / 8.5 / 8.1 | [55.705, 13.193](https://www.google.com/maps/search/?api=1&query=55.705,13.193) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lund%2C%20Sweden) |
+| 7 | [Malmö](cities/malmo.yaml) | City / town | **83.75** | **Culture 8.8**, **Food 8.8**, **Architecture 8.7** | 8.2 / 8.3 / 8.3 / 8.8 / 8.6 | [55.605, 13.003](https://www.google.com/maps/search/?api=1&query=55.605,13.003) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Malm%C3%B6%2C%20Sweden) |
+| 8 | [Kalmar](cities/kalmar.yaml) | City / town | **83.60** | **History 8.9**, **Architecture 8.8**, **Photography 8.7** | 8.3 / 8.3 / 8.6 / 8.5 / 8.0 | [56.663, 16.356](https://www.google.com/maps/search/?api=1&query=56.663,16.356) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kalmar%2C%20Sweden) |
+| 9 | [Sigtuna](cities/sigtuna.yaml) | City / town | **82.00** | **History 9.0**, **Architecture 8.4** | 8.0 / 8.4 / 8.7 / 8.2 / 7.3 | [59.617, 17.723](https://www.google.com/maps/search/?api=1&query=59.617,17.723) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sigtuna%2C%20Sweden) |
+| 10 | [Falun](cities/falun.yaml) | City / town | **81.90** | **History 8.8**, **Culture 8.6**, **Architecture 8.5** | 7.9 / 8.4 / 8.5 / 8.2 / 7.9 | [60.607, 15.63](https://www.google.com/maps/search/?api=1&query=60.607,15.63) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Falun%2C%20Sweden) |
+| 11 | [Marstrand](cities/marstrand.yaml) | City / town | **81.80** | **Photography 8.9**, **Relaxation 8.7**, **Architecture 8.6** | 8.2 / 8.4 / 8.1 / 8.4 / 7.4 | [57.886, 11.582](https://www.google.com/maps/search/?api=1&query=57.886,11.582) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Marstrand%2C%20Sweden) |
+| 12 | [Helsingborg](cities/helsingborg.yaml) | City / town | **81.35** | **Architecture 8.6**, **History 8.6**, **Relaxation 8.4** | 8.0 / 8.0 / 8.2 / 8.5 / 8.2 | [56.046, 12.695](https://www.google.com/maps/search/?api=1&query=56.046,12.695) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Helsingborg%2C%20Sweden) |
+| 13 | [Norrköping](cities/norrkoping.yaml) | City / town | **81.20** | **Architecture 8.6**, **Culture 8.5**, **History 8.5** | 7.9 / 8.2 / 8.1 / 8.4 / 8.2 | [58.587, 16.192](https://www.google.com/maps/search/?api=1&query=58.587,16.192) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Norrk%C3%B6ping%2C%20Sweden) |
+| 14 | [Ystad](cities/ystad.yaml) | City / town | **81.15** | **Architecture 8.8**, **Photography 8.6**, **Culture 8.4** | 8.1 / 8.2 / 8.0 / 8.5 / 7.6 | [55.429, 13.82](https://www.google.com/maps/search/?api=1&query=55.429,13.82) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ystad%2C%20Sweden) |
+| 15 | [Örebro](cities/orebro.yaml) | City / town | **80.75** | **Architecture 8.5**, **Culture 8.5**, **History 8.5** | 8.0 / 7.9 / 8.1 / 8.4 / 8.2 | [59.275, 15.213](https://www.google.com/maps/search/?api=1&query=59.275,15.213) | [Google Maps](https://www.google.com/maps/search/?api=1&query=%C3%96rebro%2C%20Sweden) |
+| 16 | [Kiruna](cities/kiruna.yaml) | City / town | **80.60** | **History 8.6**, **Culture 8.3**, **Architecture 8.2** | 7.5 / 8.7 / 8.4 / 7.9 / 7.7 | [67.85, 20.3](https://www.google.com/maps/search/?api=1&query=67.85,20.3) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kiruna%2C%20Sweden) |
+| 17 | [Umeå](cities/umea.yaml) | City / town | **80.45** | **Culture 8.9**, **Architecture 8.2** | 7.8 / 8.0 / 8.0 / 8.5 / 8.3 | [63.825, 20.263](https://www.google.com/maps/search/?api=1&query=63.825,20.263) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ume%C3%A5%2C%20Sweden) |
+| 18 | [Luleå](cities/lulea.yaml) | City / town | **80.20** | **Culture 8.4**, **Relaxation 8.3** | 7.8 / 8.0 / 8.1 / 8.4 / 8.0 | [65.584, 22.154](https://www.google.com/maps/search/?api=1&query=65.584,22.154) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lule%C3%A5%2C%20Sweden) |
+| 19 | [Jönköping](cities/jonkoping.yaml) | City / town | **79.25** | **Relaxation 8.5**, **Culture 8.4** | 7.8 / 7.8 / 7.9 / 8.3 / 8.1 | [57.782, 14.162](https://www.google.com/maps/search/?api=1&query=57.782,14.162) | [Google Maps](https://www.google.com/maps/search/?api=1&query=J%C3%B6nk%C3%B6ping%2C%20Sweden) |
+| 20 | [Linköping](cities/linkoping.yaml) | City / town | **79.15** | **Culture 8.5**, **History 8.3** | 7.7 / 7.8 / 8.0 / 8.3 / 8.1 | [58.41, 15.62](https://www.google.com/maps/search/?api=1&query=58.41,15.62) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Link%C3%B6ping%2C%20Sweden) |
+| 21 | [Gränna](cities/granna.yaml) | City / town | **78.70** | **Photography 8.5**, **Architecture 8.4**, **Food 8.3** | 7.8 / 8.1 / 7.7 / 8.3 / 7.2 | [58.023, 14.467](https://www.google.com/maps/search/?api=1&query=58.023,14.467) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Gr%C3%A4nna%2C%20Sweden) |
+| 22 | [Åre](cities/are.yaml) | City / town | **78.45** | **Adventure 9.0**, **Relaxation 8.6** | 7.9 / 7.8 / 7.2 / 8.7 / 7.8 | [63.399, 13.08](https://www.google.com/maps/search/?api=1&query=63.399,13.08) | [Google Maps](https://www.google.com/maps/search/?api=1&query=%C3%85re%2C%20Sweden) |
+| 23 | [Abisko village](cities/abisko.yaml) | Village | **74.15** | **Adventure 8.3**, **Nature 8.2** | 7.3 / 7.7 / 7.0 / 8.0 / 7.0 | [68.35, 18.83](https://www.google.com/maps/search/?api=1&query=68.35,18.83) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Abisko%20village%2C%20Sweden) |
 
 ---
 

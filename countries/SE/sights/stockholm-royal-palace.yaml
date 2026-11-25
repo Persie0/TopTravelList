@@ -1,0 +1,16 @@
+id: sight-se-stockholm-royal-palace
+name: "Stockholm Royal Palace"
+location:
+  country_code: SE
+  latitude: 59.326
+  longitude: 18.071
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 9.0
+  experience: 8.8
+  depth: 8.8
+  categories:
+    architecture: 9.2
+    history: 9.2
+    culture: 8.9

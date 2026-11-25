@@ -1,0 +1,16 @@
+id: sight-se-high-coast
+name: "High Coast (Swedish World Heritage section)"
+location:
+  country_code: SE
+  latitude: 63.0
+  longitude: 18.3
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 9.2
+  experience: 9.0
+  depth: 9.1
+  categories:
+    nature: 9.3
+    photography: 9.3
+    adventure: 8.9
