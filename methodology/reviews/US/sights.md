@@ -1159,3 +1159,146 @@ Initial inventory, not exhaustive. [UNESCO country list](https://whc.unesco.org/
 - Earlier decision: none.
 - Verification still needed: Independent factual and geographic verification.
 
+
+## sight-us-san-juan-national-historic-site — San Juan National Historic Site (Puerto Rico) — 2026-11-25
+
+- YAML: [source](../../../countries/US/sights/san-juan-national-historic-site.yaml)
+- Action: new
+- Precise subject: Public fortification component in Puerto Rico, excludes official residence access.
+- Location check: 18.471, -66.124; approximate representative public or regional point; not an entrance or surveyed coordinate. Independent verification outstanding.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/266/) — official property reference; heritage identity and scope, not independent verification of ordinary visitor access or GPS. Country list checked 2026-11-25.
+- Missing or uncertain facts: Exact coordinates and independent claim-level visitor evidence.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Hohensalzburg](../../../countries/AT/sights/hohensalzburg-fortress.yaml) | less alpine setting than Hohensalzburg |
+| [Bridgetown Garrison](../../../countries/BB/sights/historic-bridgetown-and-its-garrison.yaml) | greater concentrated fortress scale than Garrison |
+| [Pigeon Island](../../../countries/LC/sights/pigeon-island-national-landmark.yaml) | larger architecture than Pigeon Island |
+| [Fort Hamilton](../../../countries/VC/sights/fort-hamilton-bequia.yaml) | much more built scope than Fort Hamilton |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.9 | massive coastal fortifications |
+| Uniqueness | 8.8 | distinct Caribbean colonial harbor defenses |
+| Significance | 9.1 | major Atlantic defense history |
+| Experience | 8.7 | linked fort visits |
+| Depth | 8.6 | several substantial fortifications |
+
+- Applicable categories: architecture:9.2,history:9.2,photography:9.2.
+- Overall: 88.55/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial assessment only.
+- Earlier decision: none.
+- Verification still needed: Site-specific access and geographical checks.
+
+## sight-us-historic-moravian-bethlehem — Historic Moravian Bethlehem — 2026-11-25
+
+- YAML: [source](../../../countries/US/sights/historic-moravian-bethlehem.yaml)
+- Action: new
+- Precise subject: US component of transnational Moravian Church Settlements; public historic district.
+- Location check: 40.618, -75.382; approximate representative public or regional point; not an entrance or surveyed coordinate. Independent verification outstanding.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1468/) — official property reference; heritage identity and scope, not independent verification of ordinary visitor access or GPS. Country list checked 2026-11-25.
+- Missing or uncertain facts: Exact coordinates and independent claim-level visitor evidence.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Hohensalzburg](../../../countries/AT/sights/hohensalzburg-fortress.yaml) | less monumental than Hohensalzburg |
+| [Bridgetown Garrison](../../../countries/BB/sights/historic-bridgetown-and-its-garrison.yaml) | different religious settlement from Garrison |
+| [Pigeon Island](../../../countries/LC/sights/pigeon-island-national-landmark.yaml) | greater urban fabric than Pigeon Island |
+| [Fort Hamilton](../../../countries/VC/sights/fort-hamilton-bequia.yaml) | broader built scope than Fort Hamilton |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 7.9 | historic buildings and streets |
+| Uniqueness | 8.4 | distinct Moravian settlement planning |
+| Significance | 8.8 | important religious and community heritage |
+| Experience | 8.1 | interpreted walks and buildings |
+| Depth | 7.9 | several linked monuments |
+
+- Applicable categories: history:9.0,architecture:8.7,culture:8.8.
+- Overall: 82.35/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial assessment only.
+- Earlier decision: none.
+- Verification still needed: Site-specific access and geographical checks.
+
+## sight-us-fallingwater — Fallingwater — 2026-11-25
+
+- YAML: [source](../../../countries/US/sights/fallingwater.yaml)
+- Action: new
+- Precise subject: One of eight inscribed Frank Lloyd Wright buildings; house and permitted grounds only.
+- Location check: 39.906, -79.468; approximate representative public or regional point; not an entrance or surveyed coordinate. Independent verification outstanding.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1496/) — official property reference; heritage identity and scope, not independent verification of ordinary visitor access or GPS. Country list checked 2026-11-25.
+- Missing or uncertain facts: Exact coordinates and independent claim-level visitor evidence.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Hohensalzburg](../../../countries/AT/sights/hohensalzburg-fortress.yaml) | less monumental than Hohensalzburg |
+| [Bridgetown Garrison](../../../countries/BB/sights/historic-bridgetown-and-its-garrison.yaml) | more concentrated modern architecture than Garrison |
+| [Pigeon Island](../../../countries/LC/sights/pigeon-island-national-landmark.yaml) | less landscape breadth than Pigeon Island |
+| [Fort Hamilton](../../../countries/VC/sights/fort-hamilton-bequia.yaml) | greater design significance than Fort Hamilton |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 9.0 | cantilevered house above stream |
+| Uniqueness | 9.1 | distinct integration of modern architecture and landscape |
+| Significance | 9.0 | international architectural legacy |
+| Experience | 8.5 | interpreted house visit |
+| Depth | 7.8 | one architectural complex |
+
+- Applicable categories: architecture:9.4,photography:9.2.
+- Overall: 88.30/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial assessment only.
+- Earlier decision: none.
+- Verification still needed: Site-specific access and geographical checks.
+
+## sight-us-uva-academical-village — University of Virginia Academical Village — 2026-11-25
+
+- YAML: [source](../../../countries/US/sights/uva-academical-village.yaml)
+- Action: new
+- Precise subject: University component of Monticello inscription, permitted public campus spaces.
+- Location check: 38.035, -78.504; approximate representative public or regional point; not an entrance or surveyed coordinate. Independent verification outstanding.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/442/) — official property reference; heritage identity and scope, not independent verification of ordinary visitor access or GPS. Country list checked 2026-11-25.
+- Missing or uncertain facts: Exact coordinates and independent claim-level visitor evidence.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Hohensalzburg](../../../countries/AT/sights/hohensalzburg-fortress.yaml) | less monumental than Hohensalzburg |
+| [Bridgetown Garrison](../../../countries/BB/sights/historic-bridgetown-and-its-garrison.yaml) | different educational architecture from Garrison |
+| [Pigeon Island](../../../countries/LC/sights/pigeon-island-national-landmark.yaml) | more building variety than Pigeon Island |
+| [Fort Hamilton](../../../countries/VC/sights/fort-hamilton-bequia.yaml) | broader architectural circuit than Fort Hamilton |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.3 | colonnades lawns and Rotunda |
+| Uniqueness | 8.5 | distinct early university plan |
+| Significance | 9.0 | major educational and slavery history |
+| Experience | 8.3 | campus walks and interpretation |
+| Depth | 8.1 | several linked buildings |
+
+- Applicable categories: architecture:9.1,history:9.2.
+- Overall: 84.70/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial assessment only.
+- Earlier decision: none.
+- Verification still needed: Site-specific access and geographical checks.
+
+### Coverage update (2026-11-25)
+Added public San Juan fortifications (Puerto Rico, US property component), Bethlehem, Fallingwater and the University of Virginia campus. Papahānaumokuākea remains documented without an invented visitor route or coordinate. The Frank Lloyd Wright serial property is represented by Fallingwater, not every component. 26 of 27 inscribed properties now represented in YAML; tentative and other component coverage remains outstanding.
