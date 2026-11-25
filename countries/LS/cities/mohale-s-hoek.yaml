@@ -1,0 +1,15 @@
+id: city-ls-mohale-s-hoek
+name: "Mohale's Hoek"
+location:
+  country_code: LS
+  latitude: -30.1510
+  longitude: 27.4760
+scores:
+  impact: 6.4
+  uniqueness: 6.7
+  significance: 6.7
+  experience: 7.0
+  depth: 6.2
+  categories:
+    culture: 7.3
+    photography: 7.3

@@ -1,0 +1,16 @@
+id: city-ls-semonkong
+name: "Semonkong"
+location:
+  country_code: LS
+  latitude: -29.8430
+  longitude: 28.0560
+scores:
+  impact: 7.6
+  uniqueness: 7.9
+  significance: 6.6
+  experience: 7.9
+  depth: 6.5
+  categories:
+    culture: 8.0
+    photography: 8.3
+    adventure: 7.9

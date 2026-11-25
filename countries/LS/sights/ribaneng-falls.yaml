@@ -1,0 +1,16 @@
+id: sight-ls-ribaneng-falls
+name: "Ribaneng Falls"
+location:
+  country_code: LS
+  latitude: -29.9050
+  longitude: 27.7580
+scores:
+  impact: 8.5
+  uniqueness: 8.2
+  significance: 6.4
+  experience: 8.2
+  depth: 6.9
+  categories:
+    nature: 8.7
+    photography: 9.0
+    adventure: 8.5
