@@ -2,7 +2,7 @@
 
 # Bulgaria (BG) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**18 ranked** · **0 unassessed** · **18 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,28 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (18)
 
-No cities, towns & villages have been assessed for **Bulgaria** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Plovdiv](cities/plovdiv.yaml) | City / town | **89.00** | **History 9.3**, **Architecture 9.2**, **Culture 9.1** | 8.9 / 8.8 / 9.0 / 9.0 / 8.8 | [42.1354, 24.7453](https://www.google.com/maps/search/?api=1&query=42.1354,24.7453) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Plovdiv%2C%20Bulgaria) |
+| 2 | [Veliko Tarnovo](cities/veliko-tarnovo.yaml) | City / town | **88.00** | **History 9.2**, **Photography 9.2**, **Architecture 9.1** | 8.9 / 8.9 / 8.8 / 8.7 / 8.4 | [43.0757, 25.6172](https://www.google.com/maps/search/?api=1&query=43.0757,25.6172) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Veliko%20Tarnovo%2C%20Bulgaria) |
+| 3 | [Nessebar](cities/nessebar.yaml) | City / town | **86.95** | **History 9.2**, **Architecture 9.1**, **Photography 9.0** | 8.7 / 8.8 / 8.9 / 8.7 / 8.0 | [42.659, 27.735](https://www.google.com/maps/search/?api=1&query=42.659,27.735) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nessebar%2C%20Bulgaria) |
+| 4 | [Sofia](cities/sofia.yaml) | City / town | **86.15** | **History 9.0**, **Culture 8.9**, **Architecture 8.8** | 8.4 / 8.5 / 8.8 / 8.8 / 8.9 | [42.6977, 23.3219](https://www.google.com/maps/search/?api=1&query=42.6977,23.3219) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sofia%2C%20Bulgaria) |
+| 5 | [Koprivshtitsa](cities/koprivshtitsa.yaml) | City / town | **85.45** | **Architecture 9.2**, **History 9.0**, **Culture 8.8** | 8.5 / 8.8 / 8.7 / 8.5 / 7.8 | [42.638, 24.36](https://www.google.com/maps/search/?api=1&query=42.638,24.36) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Koprivshtitsa%2C%20Bulgaria) |
+| 6 | [Sozopol](cities/sozopol.yaml) | City / town | **84.60** | **Architecture 8.9**, **History 8.8**, **Beaches 8.7** | 8.5 / 8.5 / 8.4 / 8.7 / 8.0 | [42.42, 27.696](https://www.google.com/maps/search/?api=1&query=42.42,27.696) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sozopol%2C%20Bulgaria) |
+| 7 | [Varna](cities/varna.yaml) | City / town | **84.45** | **Culture 9.0**, **History 9.0**, **Beaches 8.7** | 8.2 / 8.3 / 8.6 / 8.8 / 8.7 | [43.214, 27.914](https://www.google.com/maps/search/?api=1&query=43.214,27.914) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Varna%2C%20Bulgaria) |
+| 8 | [Melnik](cities/melnik.yaml) | City / town | **83.55** | **Photography 9.0**, **Architecture 8.9**, **Food 8.6** | 8.5 / 8.7 / 8.2 / 8.4 / 7.3 | [41.524, 23.391](https://www.google.com/maps/search/?api=1&query=41.524,23.391) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Melnik%2C%20Bulgaria) |
+| 9 | [Ruse](cities/ruse.yaml) | City / town | **82.95** | **Architecture 8.9**, **History 8.7**, **Culture 8.6** | 8.2 / 8.2 / 8.4 / 8.5 / 8.3 | [43.856, 25.965](https://www.google.com/maps/search/?api=1&query=43.856,25.965) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ruse%2C%20Bulgaria) |
+| 10 | [Tryavna](cities/tryavna.yaml) | City / town | **82.40** | **Architecture 8.9**, **Culture 8.7** | 8.3 / 8.4 / 8.2 / 8.4 / 7.5 | [42.868, 25.493](https://www.google.com/maps/search/?api=1&query=42.868,25.493) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tryavna%2C%20Bulgaria) |
+| 11 | [Bansko](cities/bansko.yaml) | City / town | **81.05** | **Architecture 8.6**, **Culture 8.6**, **Relaxation 8.5** | 8.0 / 8.2 / 8.0 / 8.5 / 7.8 | [41.84, 23.49](https://www.google.com/maps/search/?api=1&query=41.84,23.49) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bansko%2C%20Bulgaria) |
+| 12 | [Balchik](cities/balchik.yaml) | City / town | **80.50** | **Photography 8.8**, **Relaxation 8.7**, **Architecture 8.5** | 8.1 / 8.1 / 7.8 / 8.5 / 7.6 | [43.407, 28.164](https://www.google.com/maps/search/?api=1&query=43.407,28.164) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Balchik%2C%20Bulgaria) |
+| 13 | [Vidin](cities/vidin.yaml) | City / town | **80.15** | **History 8.8**, **Architecture 8.5** | 7.8 / 8.0 / 8.4 / 8.1 / 7.8 | [43.996, 22.868](https://www.google.com/maps/search/?api=1&query=43.996,22.868) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Vidin%2C%20Bulgaria) |
+| 14 | [Burgas](cities/burgas.yaml) | City / town | **80.00** | **Relaxation 8.7**, **Beaches 8.5**, **Culture 8.4** | 7.8 / 7.9 / 7.9 / 8.5 / 8.3 | [42.5048, 27.4626](https://www.google.com/maps/search/?api=1&query=42.5048,27.4626) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Burgas%2C%20Bulgaria) |
+| 15 | [Kazanlak](cities/kazanlak.yaml) | City / town | **79.35** | **History 8.8**, **Culture 8.5** | 7.7 / 8.0 / 8.2 / 8.1 / 7.7 | [42.62, 25.39](https://www.google.com/maps/search/?api=1&query=42.62,25.39) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kazanlak%2C%20Bulgaria) |
+| 16 | [Shumen](cities/shumen.yaml) | City / town | **77.85** | **History 8.5**, **Culture 8.2** | 7.6 / 7.7 / 8.0 / 8.0 / 7.8 | [43.27, 26.92](https://www.google.com/maps/search/?api=1&query=43.27,26.92) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Shumen%2C%20Bulgaria) |
+| 17 | [Belogradchik](cities/belogradchik.yaml) | City / town | **76.90** | **Photography 8.5**, **History 8.2** | 7.7 / 7.8 / 7.6 / 8.0 / 7.1 | [43.625, 22.683](https://www.google.com/maps/search/?api=1&query=43.625,22.683) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Belogradchik%2C%20Bulgaria) |
+| 17 | [Sandanski](cities/sandanski.yaml) | City / town | **76.90** | **Relaxation 8.7**, **History 8.1** | 7.5 / 7.6 / 7.7 / 8.2 / 7.7 | [41.567, 23.278](https://www.google.com/maps/search/?api=1&query=41.567,23.278) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sandanski%2C%20Bulgaria) |
 
 ---
 

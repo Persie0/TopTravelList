@@ -1,0 +1,15 @@
+id: city-nl-nijmegen
+name: "Nijmegen"
+location:
+  country_code: NL
+  latitude: 51.842
+  longitude: 5.852
+scores:
+  impact: 8.1
+  uniqueness: 8.2
+  significance: 8.8
+  experience: 8.6
+  depth: 8.4
+  categories:
+    history: 9.0
+    culture: 8.7

@@ -1,0 +1,15 @@
+id: sight-nl-binnenhof
+name: "Binnenhof historic parliamentary complex"
+location:
+  country_code: NL
+  latitude: 52.079
+  longitude: 4.313
+scores:
+  impact: 8.7
+  uniqueness: 8.7
+  significance: 9.2
+  experience: 8.2
+  depth: 8.0
+  categories:
+    architecture: 9.1
+    history: 9.3

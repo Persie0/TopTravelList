@@ -1,0 +1,17 @@
+id: sight-bg-rila-monastery
+name: "Rila Monastery"
+location:
+  country_code: BG
+  latitude: 42.133
+  longitude: 23.34
+scores:
+  impact: 9.3
+  uniqueness: 9.3
+  significance: 9.4
+  experience: 9.1
+  depth: 8.8
+  categories:
+    architecture: 9.5
+    history: 9.4
+    culture: 9.4
+    photography: 9.4

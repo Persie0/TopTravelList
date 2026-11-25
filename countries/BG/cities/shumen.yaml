@@ -1,0 +1,15 @@
+id: city-bg-shumen
+name: "Shumen"
+location:
+  country_code: BG
+  latitude: 43.27
+  longitude: 26.92
+scores:
+  impact: 7.6
+  uniqueness: 7.7
+  significance: 8.0
+  experience: 8.0
+  depth: 7.8
+  categories:
+    history: 8.5
+    culture: 8.2

@@ -1,0 +1,15 @@
+id: sight-nl-utrechtse-heuvelrug
+name: "Utrechtse Heuvelrug National Park"
+location:
+  country_code: NL
+  latitude: 52.04
+  longitude: 5.38
+scores:
+  impact: 8.1
+  uniqueness: 8.2
+  significance: 8.2
+  experience: 8.6
+  depth: 8.6
+  categories:
+    nature: 8.8
+    relaxation: 8.7

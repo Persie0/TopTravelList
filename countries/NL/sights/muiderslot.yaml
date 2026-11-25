@@ -1,0 +1,15 @@
+id: sight-nl-muiderslot
+name: "Muiderslot Castle"
+location:
+  country_code: NL
+  latitude: 52.334
+  longitude: 5.071
+scores:
+  impact: 8.5
+  uniqueness: 8.4
+  significance: 8.7
+  experience: 8.6
+  depth: 8.0
+  categories:
+    architecture: 8.9
+    history: 9.0

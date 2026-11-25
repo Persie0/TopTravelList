@@ -1,0 +1,15 @@
+id: sight-bg-neolithic-dwellings
+name: "Neolithic Dwellings Museum, Stara Zagora"
+location:
+  country_code: BG
+  latitude: 42.425
+  longitude: 25.611
+scores:
+  impact: 7.9
+  uniqueness: 9.0
+  significance: 9.1
+  experience: 8.3
+  depth: 7.7
+  categories:
+    history: 9.3
+    culture: 8.8

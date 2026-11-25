@@ -1,0 +1,16 @@
+id: sight-bg-seven-rila-lakes
+name: "Seven Rila Lakes"
+location:
+  country_code: BG
+  latitude: 42.2
+  longitude: 23.32
+scores:
+  impact: 9.2
+  uniqueness: 9.0
+  significance: 8.5
+  experience: 9.1
+  depth: 8.6
+  categories:
+    nature: 9.4
+    photography: 9.4
+    adventure: 9.2

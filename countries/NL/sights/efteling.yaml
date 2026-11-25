@@ -1,0 +1,15 @@
+id: sight-nl-efteling
+name: "Efteling theme park"
+location:
+  country_code: NL
+  latitude: 51.65
+  longitude: 5.05
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 8.1
+  experience: 9.3
+  depth: 9.2
+  categories:
+    family: 9.4
+    adventure: 9.0

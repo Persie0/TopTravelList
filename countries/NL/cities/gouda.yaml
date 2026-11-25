@@ -1,0 +1,16 @@
+id: city-nl-gouda
+name: "Gouda"
+location:
+  country_code: NL
+  latitude: 52.011
+  longitude: 4.711
+scores:
+  impact: 8.4
+  uniqueness: 8.4
+  significance: 8.3
+  experience: 8.6
+  depth: 7.8
+  categories:
+    architecture: 8.9
+    food: 8.8
+    history: 8.6

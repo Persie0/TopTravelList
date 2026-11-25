@@ -1,0 +1,15 @@
+id: sight-nl-kruller-muller
+name: "Kröller-Müller Museum and sculpture garden"
+location:
+  country_code: NL
+  latitude: 52.095
+  longitude: 5.817
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 9.2
+  experience: 9.1
+  depth: 9.0
+  categories:
+    culture: 9.4
+    nature: 8.8

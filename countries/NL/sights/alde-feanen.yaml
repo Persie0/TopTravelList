@@ -1,0 +1,15 @@
+id: sight-nl-alde-feanen
+name: "De Alde Feanen National Park"
+location:
+  country_code: NL
+  latitude: 53.13
+  longitude: 5.95
+scores:
+  impact: 8.1
+  uniqueness: 8.5
+  significance: 8.4
+  experience: 8.6
+  depth: 8.4
+  categories:
+    nature: 8.9
+    wildlife: 8.9

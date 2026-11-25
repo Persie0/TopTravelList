@@ -1,0 +1,16 @@
+id: city-nl-giethoorn
+name: "Giethoorn"
+location:
+  country_code: NL
+  latitude: 52.74
+  longitude: 6.077
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 7.6
+  experience: 8.5
+  depth: 7.1
+  categories:
+    photography: 9.2
+    architecture: 8.8
+    relaxation: 8.7

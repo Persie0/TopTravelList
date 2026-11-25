@@ -1,0 +1,14 @@
+id: sight-bg-danube-limes
+name: "Frontiers of the Roman Empire – Danube Limes (Bulgarian tentative components)"
+location:
+  country_code: BG
+  latitude: 43.75
+  longitude: 25.5
+scores:
+  impact: 7.9
+  uniqueness: 8.7
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    history: 9.3

@@ -1,0 +1,16 @@
+id: sight-bg-vratsa-balkan
+name: "Vratsa Balkan Nature Park"
+location:
+  country_code: BG
+  latitude: 43.16
+  longitude: 23.55
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 8.5
+  experience: 8.8
+  depth: 8.8
+  categories:
+    nature: 9.2
+    adventure: 9.0
+    photography: 9.1

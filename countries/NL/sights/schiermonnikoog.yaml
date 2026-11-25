@@ -1,0 +1,16 @@
+id: sight-nl-schiermonnikoog
+name: "Schiermonnikoog National Park"
+location:
+  country_code: NL
+  latitude: 53.49
+  longitude: 6.17
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 8.7
+  experience: 8.8
+  depth: 8.8
+  categories:
+    nature: 9.3
+    wildlife: 9.1
+    beaches: 8.9

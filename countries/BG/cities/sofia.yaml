@@ -1,0 +1,16 @@
+id: city-bg-sofia
+name: "Sofia"
+location:
+  country_code: BG
+  latitude: 42.6977
+  longitude: 23.3219
+scores:
+  impact: 8.4
+  uniqueness: 8.5
+  significance: 8.8
+  experience: 8.8
+  depth: 8.9
+  categories:
+    architecture: 8.8
+    history: 9.0
+    culture: 8.9

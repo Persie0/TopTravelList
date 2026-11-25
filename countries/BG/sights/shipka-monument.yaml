@@ -1,0 +1,15 @@
+id: sight-bg-shipka-monument
+name: "Shipka Memorial"
+location:
+  country_code: BG
+  latitude: 42.749
+  longitude: 25.322
+scores:
+  impact: 8.4
+  uniqueness: 8.4
+  significance: 8.9
+  experience: 8.4
+  depth: 7.9
+  categories:
+    history: 9.2
+    photography: 8.8

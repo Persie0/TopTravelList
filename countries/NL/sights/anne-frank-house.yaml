@@ -1,0 +1,15 @@
+id: sight-nl-anne-frank-house
+name: "Anne Frank House"
+location:
+  country_code: NL
+  latitude: 52.375
+  longitude: 4.884
+scores:
+  impact: 9.1
+  uniqueness: 9.4
+  significance: 9.5
+  experience: 8.9
+  depth: 8.2
+  categories:
+    history: 9.6
+    culture: 9.2

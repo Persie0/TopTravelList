@@ -1,0 +1,15 @@
+id: sight-bg-silistra-tomb
+name: "Late Antique Tomb of Silistra"
+location:
+  country_code: BG
+  latitude: 44.11
+  longitude: 27.26
+scores:
+  impact: 7.8
+  uniqueness: 8.7
+  significance: 9.0
+  experience: 7.0
+  depth: 6.4
+  categories:
+    history: 9.2
+    culture: 8.9

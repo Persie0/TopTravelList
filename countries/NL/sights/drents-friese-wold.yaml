@@ -1,0 +1,15 @@
+id: sight-nl-drents-friese-wold
+name: "Drents-Friese Wold National Park"
+location:
+  country_code: NL
+  latitude: 52.91
+  longitude: 6.32
+scores:
+  impact: 8.2
+  uniqueness: 8.3
+  significance: 8.2
+  experience: 8.6
+  depth: 8.7
+  categories:
+    nature: 8.9
+    adventure: 8.6

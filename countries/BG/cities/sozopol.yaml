@@ -1,0 +1,16 @@
+id: city-bg-sozopol
+name: "Sozopol"
+location:
+  country_code: BG
+  latitude: 42.42
+  longitude: 27.696
+scores:
+  impact: 8.5
+  uniqueness: 8.5
+  significance: 8.4
+  experience: 8.7
+  depth: 8.0
+  categories:
+    architecture: 8.9
+    history: 8.8
+    beaches: 8.7

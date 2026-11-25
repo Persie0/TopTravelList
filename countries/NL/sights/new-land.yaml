@@ -1,0 +1,15 @@
+id: sight-nl-new-land
+name: "Nieuw Land National Park"
+location:
+  country_code: NL
+  latitude: 52.48
+  longitude: 5.37
+scores:
+  impact: 8.4
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 8.4
+  depth: 8.7
+  categories:
+    nature: 9.2
+    wildlife: 9.2

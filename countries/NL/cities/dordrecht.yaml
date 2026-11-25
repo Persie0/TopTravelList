@@ -1,0 +1,15 @@
+id: city-nl-dordrecht
+name: "Dordrecht"
+location:
+  country_code: NL
+  latitude: 51.813
+  longitude: 4.69
+scores:
+  impact: 8.3
+  uniqueness: 8.4
+  significance: 8.6
+  experience: 8.5
+  depth: 8.1
+  categories:
+    architecture: 8.8
+    history: 9.0

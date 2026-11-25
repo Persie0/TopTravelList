@@ -1,0 +1,16 @@
+id: sight-nl-oosterschelde
+name: "Oosterschelde National Park"
+location:
+  country_code: NL
+  latitude: 51.57
+  longitude: 3.99
+scores:
+  impact: 8.5
+  uniqueness: 8.7
+  significance: 8.8
+  experience: 8.7
+  depth: 8.8
+  categories:
+    nature: 9.2
+    wildlife: 9.1
+    adventure: 8.7
