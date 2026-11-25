@@ -248,3 +248,11 @@ Original AU record exists only on separate open PR #227 at 18f737d49e0e3ea5e0a6c
 ### Chagos Archipelago (IO) coverage — 2026-11-26
 
 Five atoll-level natural/cultural heritage records, all unranked. Recursive branch filename screen found no obvious parent duplicate. No military facilities or speculative ordinary visitor settlement scores. The 2026 Île du Coin return and forced displacement history documented; ISO indexing does not adjudicate sovereignty. UK parliamentary briefing and Mauritian geography consulted; treaty implementation not assumed complete. Official travel advice excludes ordinary tourism; yacht permits for safe passage only. Peer-reviewed marine research used, no pristine-reef claim. Great Chagos Bank 9.5 uniqueness explicitly challenged; no perfect tens. Full independent GPS and claims, other open-branch duplicate checks and full CI/regeneration remain outstanding.
+
+### Bouvet Island migration — 2026-11-26
+
+| Former ID | Active ID | Decision |
+| --- | --- | --- |
+| sight-no-bouvet | sight-bv-bouvet | Preserve scores and nulls; correct central coordinates to -54.4167, 3.3333 from KBA; remove old active NO YAML. |
+
+[Original Norwegian review](reviews/NO/migration-history-BV.md). One unranked nature reserve, no permanent settlements. UNESCO tentative status distinguished from inscription. General landing/stay permission normally unnecessary, but aircraft landing requires authorization and seasonal restrictions apply; ordinary tourism not established. Full claims, legacy references, CI and regeneration pending.
