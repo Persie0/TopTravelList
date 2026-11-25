@@ -1,0 +1,15 @@
+id: city-cd-lubumbashi
+name: "Lubumbashi"
+location:
+  country_code: CD
+  latitude: -11.66089
+  longitude: 27.47938
+scores:
+  impact: 7.4
+  uniqueness: 7.6
+  significance: 7.9
+  experience: 7.6
+  depth: 7.6
+  categories:
+    culture: 8.1
+    history: 8.2

@@ -1,0 +1,15 @@
+id: sight-zm-livingstone-museum
+name: "Livingstone Museum"
+location:
+  country_code: ZM
+  latitude: -17.8436
+  longitude: 25.8551
+scores:
+  impact: 8.0
+  uniqueness: 8.5
+  significance: 8.9
+  experience: 8.5
+  depth: 8.5
+  categories:
+    history: 9.1
+    culture: 9.0

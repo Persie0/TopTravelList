@@ -1,0 +1,15 @@
+id: sight-ao-mount-moco
+name: "Mount Moco"
+location:
+  country_code: AO
+  latitude: -12.462025
+  longitude: 15.176721
+scores:
+  impact: 8.6
+  uniqueness: 8.4
+  significance: 8.5
+  experience: 8.2
+  depth: 8.0
+  categories:
+    nature: 9.1
+    adventure: 8.7

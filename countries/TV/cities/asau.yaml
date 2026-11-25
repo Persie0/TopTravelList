@@ -1,0 +1,16 @@
+id: city-tv-asau
+name: "Asau Village"
+location:
+  country_code: TV
+  latitude: -7.49026
+  longitude: 178.68016
+scores:
+  impact: 6.4
+  uniqueness: 7.5
+  significance: 7.0
+  experience: 6.4
+  depth: 6.1
+  categories:
+    culture: 7.3
+    history: 7.1
+    photography: 6.8

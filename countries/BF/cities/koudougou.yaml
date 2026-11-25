@@ -1,0 +1,13 @@
+id: city-bf-koudougou
+name: "Koudougou"
+location:
+  country_code: BF
+  latitude: 12.252
+  longitude: -2.362
+scores:
+  impact: null
+  uniqueness: null
+  significance: 7.0
+  experience: null
+  depth: null
+  categories: {}

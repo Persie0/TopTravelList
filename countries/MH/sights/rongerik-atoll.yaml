@@ -1,0 +1,15 @@
+id: sight-mh-rongerik-atoll
+name: "Rongerik Atoll"
+location:
+  country_code: MH
+  latitude: 11.35
+  longitude: 167.433333
+scores:
+  impact: null
+  uniqueness: 8.7
+  significance: 9.1
+  experience: null
+  depth: null
+  categories:
+    nature: 8.7
+    history: 9.1

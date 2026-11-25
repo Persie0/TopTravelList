@@ -1,0 +1,16 @@
+id: sight-ki-tarawa-lagoon
+name: "Tarawa Lagoon"
+location:
+  country_code: KI
+  latitude: 1.419
+  longitude: 172.986
+scores:
+  impact: 7.9
+  uniqueness: 7.8
+  significance: 7.2
+  experience: 7.7
+  depth: 7.4
+  categories:
+    nature: 8.2
+    photography: 8.0
+    relaxation: 7.8

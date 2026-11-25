@@ -1,0 +1,15 @@
+id: city-ga-gamba
+name: "Gamba"
+location:
+  country_code: GA
+  latitude: -2.65
+  longitude: 10.00
+scores:
+  impact: 6.5
+  uniqueness: 7.4
+  significance: 6.6
+  experience: 7.2
+  depth: 6.1
+  categories:
+    culture: 7.6
+    photography: 7.8

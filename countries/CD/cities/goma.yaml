@@ -1,0 +1,14 @@
+id: city-cd-goma
+name: "Goma"
+location:
+  country_code: CD
+  latitude: -1.67409
+  longitude: 29.22845
+scores:
+  impact: 7.8
+  uniqueness: 8.1
+  significance: 7.8
+  experience: null
+  depth: null
+  categories:
+    photography: 8.2

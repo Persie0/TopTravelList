@@ -1,0 +1,13 @@
+id: city-ki-bonriki
+name: "Bonriki Village"
+location:
+  country_code: KI
+  latitude: 1.38081
+  longitude: 173.13887
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}

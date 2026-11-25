@@ -1,0 +1,16 @@
+id: city-lr-edina
+name: "Edina"
+location:
+  country_code: LR
+  latitude: 5.91
+  longitude: -10.07
+scores:
+  impact: 7.1
+  uniqueness: 8.2
+  significance: 8.3
+  experience: 7.6
+  depth: 6.3
+  categories:
+    history: 8.8
+    culture: 8.5
+    architecture: 8.2
