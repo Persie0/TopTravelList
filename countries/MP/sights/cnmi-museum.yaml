@@ -1,0 +1,15 @@
+id: sight-mp-cnmi-museum
+name: "Northern Mariana Islands Museum of History and Culture"
+location:
+  country_code: MP
+  latitude: 15.205
+  longitude: 145.72
+scores:
+  impact: 7.5
+  uniqueness: 8.4
+  significance: 8.8
+  experience: 8.0
+  depth: 7.8
+  categories:
+    history: 9.0
+    culture: 8.9

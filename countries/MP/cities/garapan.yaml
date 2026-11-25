@@ -1,0 +1,16 @@
+id: city-mp-garapan
+name: "Garapan (Saipan)"
+location:
+  country_code: MP
+  latitude: 15.207
+  longitude: 145.72
+scores:
+  impact: 7.7
+  uniqueness: 7.9
+  significance: 8.0
+  experience: 8.4
+  depth: 8.0
+  categories:
+    culture: 8.4
+    food: 8.5
+    nightlife: 8.0

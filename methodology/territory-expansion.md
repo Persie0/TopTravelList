@@ -268,3 +268,7 @@ Seven settlements and twelve sights; Rose Atoll and Swains Island unranked. All 
 ### Guam coverage — 2026-11-26
 
 Five settlements and twelve sights; Cocos Island unranked pending ordinary visitor access. Recursive filename screen found no obvious same-scope US record; Costa Rican Cocos unrelated. Ritidian public unit only, War in the Pacific public memorial circuit, separate capital outdoor trail, museum and market. Guam coastal strategy text reviewed, screenshot failed HTTP 404; historical coral losses and EPA water quality caveats incorporated. All coordinates approximate; independent full claims and numeric benchmark calibration pending. No new 9.5+ or perfect-ten ratings. Full CI/regeneration pending.
+
+### Northern Mariana Islands coverage — 2026-11-26
+
+Four settlements and fifteen sights; Pagan, northern volcanic arc sector and Mariana Trench Marine National Monument unranked. MVA recovery updates, September Managaha reopening, DLNR conservation rules, USFWS, USGS November 2026 volcano notice and DEQ water quality consulted through search excerpts. Long-term visitor quality distinct from Sinlaku/Bavi recovery and current access. Northern islands not assumed to be uninhabited or freely accessible; monument not conflated with entire trench. Recursive branch filename screen found no obvious duplicates. All points approximate; independent GPS, full factual corroboration, numerical peer calibration, other branch audit and CI/regeneration pending. Three 9.5+ partial fields justified, no perfect tens.

@@ -1,0 +1,17 @@
+id: sight-mp-managaha
+name: "Mañagaha Island beach and marine conservation area"
+location:
+  country_code: MP
+  latitude: 15.241
+  longitude: 145.713
+scores:
+  impact: 9.0
+  uniqueness: 8.3
+  significance: 8.5
+  experience: 8.7
+  depth: 8.0
+  categories:
+    beaches: 9.2
+    nature: 8.8
+    photography: 9.0
+    relaxation: 8.8
