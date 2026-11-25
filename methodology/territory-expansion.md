@@ -163,4 +163,4 @@ No matching NL records identified in generated inventory by name or approximate 
 
 ### Curaçao coverage — 2026-11-25
 
-NL generated inventory screened by names and approximate coordinates; no matching records identified. Add two settlements and twelve individual sights. Willemstad city and UNESCO property have separate scopes; their scores are never added. Individual marine sites do not assume pristine reefs or guaranteed wildlife. Search excerpts from UNESCO and Curaçao Tourist Board checked; independent exact GPS and claim-level verification remain outstanding.
+NL generated inventory screened by names and approximate coordinates; no matching records identified. Add two settlements and thirteen individual sights. Willemstad city and UNESCO property have separate scopes; their scores are never added. Individual marine sites do not assume pristine reefs or guaranteed wildlife. Search excerpts from UNESCO and Curaçao Tourist Board checked; independent exact GPS and claim-level verification remain outstanding.
