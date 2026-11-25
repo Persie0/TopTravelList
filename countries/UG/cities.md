@@ -2,7 +2,7 @@
 
 # Uganda (UG) — Cities, towns & villages ranking
 
-**4 ranked** · **2 unassessed** · **6 total** · Worldwide scoring **v2**
+**5 ranked** · **1 unassessed** · **6 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (4)
+## Complete ranked list (5)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -18,15 +18,15 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 2 | [Jinja](cities/jinja.yaml) | City / town | **79.75** | **Architecture 8.1**, **Culture 8.0** | 7.8 / 8.1 / 8.0 / 8.2 / 7.8 | [0.447857, 33.202612](https://www.google.com/maps/search/?api=1&query=0.447857,33.202612) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Jinja%2C%20Uganda) |
 | 3 | [Entebbe](cities/entebbe.yaml) | City / town | **79.20** | **Relaxation 8.5**, **Nature 8.3** | 7.9 / 7.9 / 7.7 / 8.3 / 7.9 | [0.051184, 32.463708](https://www.google.com/maps/search/?api=1&query=0.051184,32.463708) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Entebbe%2C%20Uganda) |
 | 4 | [Fort Portal](cities/fort-portal.yaml) | City / town | **78.30** | **Culture 8.3**, **Photography 8.0** | 7.7 / 8.0 / 7.8 / 8.0 / 7.6 | [0.654626, 30.280117](https://www.google.com/maps/search/?api=1&query=0.654626,30.280117) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Fort%20Portal%2C%20Uganda) |
+| 5 | [Mbale](cities/mbale.yaml) | City / town | **73.70** | **History 7.9**, **Culture 7.8**, **Food 7.7** | 7.1 / 7.4 / 7.6 / 7.6 / 7.3 | [1.078444, 34.181006](https://www.google.com/maps/search/?api=1&query=1.078444,34.181006) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mbale%2C%20Uganda) |
 
-## Not yet fully assessed (2)
+## Not yet fully assessed (1)
 
 These destinations have no rank until all five core scores are assessed.
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
 | — | [Kabale](cities/kabale.yaml) | City / town | **—** | — | — / 7.6 / 7.4 / — / — | [-1.241956, 29.985616](https://www.google.com/maps/search/?api=1&query=-1.241956,29.985616) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kabale%2C%20Uganda) |
-| — | [Mbale](cities/mbale.yaml) | City / town | **—** | — | — / 7.4 / 7.5 / — / — | [1.078444, 34.181006](https://www.google.com/maps/search/?api=1&query=1.078444,34.181006) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mbale%2C%20Uganda) |
 
 ---
 
