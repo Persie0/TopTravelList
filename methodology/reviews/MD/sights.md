@@ -661,3 +661,31 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [www.gov.uk](https://www.gov.uk/foreign-travel-advice/moldova/regional-risks) — accessed 2026-11-25 (page or search excerpt); possible identity/context reference, not complete claim-level corroboration. Current advisory is a safety constraint; site identity/context [tourism overview](https://moldova.travel/en/a/places-to-visit).
 - Remaining gaps: exact GPS except stated UNESCO points, claim-level corroboration, permitted access and closer field-specific comparisons.
+
+## Follow-up: sight-md-cricova-underground-wine-cellars — 2026-11-25 (worldwide review)
+
+- [YAML](../../../countries/MD/sights/cricova-underground-wine-cellars.yaml) · Action: rescore · **source-linked-unverified**. Specific source excerpts checked, not comprehensive independent factual verification.
+- Sources consulted: [https://cricova.md/en/excursii/](https://cricova.md/en/excursii/).
+- Decision: Operator tour packages document guided visits (approximately 70–90 minute standard packages and longer tasting options), not unrestricted tunnel exploration. Retain rarity, cultural quality and experience; depth 7.9 is appropriate for the actual interpreted route and tasting options, not the entire labyrinth.
+- I/U/S/E/D: 8.7 / 9.1 / 8.6 / 8.8 / 8.3 → 8.7 / 9.1 / 8.6 / 8.8 / 7.9; overall 87.55 → 87.15/100. Categories and GPS unchanged; no new perfect score or multiplier.
+
+| Worldwide peer | I/U/S/E/D | Overall /100 | Comparison |
+| --- | --- | --- | --- |
+| [hallstatt salt mine (AT)](../../../countries/AT/sights/hallstatt-salt-mine.yaml) | 8.7 / 8.9 / 8.9 / 8.9 / 8.1 | 87.60 | Guided underground industrial history with bounded depth. |
+| [pilsner urquell brewery (CZ)](../../../countries/CZ/sights/pilsner-urquell-brewery.yaml) | 8.4 / 8.8 / 9.0 / 8.7 / 8.4 | 86.65 | Interpreted production, cellars and tasting; comparable visitor scope. |
+| [fray bentos industrial landscape (UY)](../../../countries/UY/sights/fray-bentos-industrial-landscape.yaml) | 8.3 / 9.2 / 9.3 / 8.4 / 8.7 | 87.80 | Broader multi-building industrial ensemble. |
+| [mendoza wine region participating estates (AR)](../../../countries/AR/sights/mendoza-wine-region-participating-estates.yaml) | 8.5 / 8.6 / 8.2 / 9.4 / 9.1 | 86.60 | Multi-estate visits offer greater exploration than a single cellar. |
+
+## Follow-up: sight-md-milestii-mici-underground-wine-cellars — 2026-11-25 (worldwide review)
+
+- [YAML](../../../countries/MD/sights/milestii-mici-underground-wine-cellars.yaml) · Action: rescore · **source-linked-unverified**. Specific source excerpts checked, not comprehensive independent factual verification.
+- Sources consulted: [https://milestii-mici.md/en/index.php](https://milestii-mici.md/en/index.php); [https://milestii-mici.md/visit](https://milestii-mici.md/visit); [https://mad-traveller.com/posts/chi%C8%99in%C4%83u-activities-cellars-and-culture/](https://mad-traveller.com/posts/chi%C8%99in%C4%83u-activities-cellars-and-culture/).
+- Decision: Operator excerpts establish guided cellar tours; a recent visitor guide reports the short basic winery tour. Depth 7.7 reflects selected galleries and optional tastings, not the entire network. The operator visit page was inaccessible on direct fetch; exact tour details remain provisional. Retain strong rarity and cultural quality.
+- I/U/S/E/D: 8.6 / 9.2 / 8.6 / 8.7 / 8.3 → 8.6 / 9.2 / 8.6 / 8.7 / 7.7; overall 87.35 → 86.75/100. Categories and GPS unchanged; no new perfect score or multiplier.
+
+| Worldwide peer | I/U/S/E/D | Overall /100 | Comparison |
+| --- | --- | --- | --- |
+| [hallstatt salt mine (AT)](../../../countries/AT/sights/hallstatt-salt-mine.yaml) | 8.7 / 8.9 / 8.9 / 8.9 / 8.1 | 87.60 | Guided underground industrial history with bounded depth. |
+| [pilsner urquell brewery (CZ)](../../../countries/CZ/sights/pilsner-urquell-brewery.yaml) | 8.4 / 8.8 / 9.0 / 8.7 / 8.4 | 86.65 | Interpreted production, cellars and tasting; comparable visitor scope. |
+| [fray bentos industrial landscape (UY)](../../../countries/UY/sights/fray-bentos-industrial-landscape.yaml) | 8.3 / 9.2 / 9.3 / 8.4 / 8.7 | 87.80 | Broader multi-building industrial ensemble. |
+| [mendoza wine region participating estates (AR)](../../../countries/AR/sights/mendoza-wine-region-participating-estates.yaml) | 8.5 / 8.6 / 8.2 / 9.4 / 9.1 | 86.60 | Multi-estate visits offer greater exploration than a single cellar. |
