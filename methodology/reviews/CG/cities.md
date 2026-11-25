@@ -2,6 +2,9 @@
 
 [Worldwide rules](../../../rules.md) · [Future-country workflow](../../future-country-workflow.md). 2026-11-25. [UNESCO country inventory](https://whc.unesco.org/en/statesparties/cg) confirms two inscribed and three tentative properties, all represented. Sangha Trinational is represented only by its Congolese national park component, not other countries' parks. Odzala uses the inscribed forest massif reference point, not an assertion that park and UNESCO boundaries coincide. All five national parks identified in the ministry landscape inventory are included. Parent and bounded visitor experience scores are not additive. Two UNESCO reference points and Ntokou published geographic point checked; all other coordinates are preliminary editorial estimates, not entrance or trail locations. Access and wildlife sightings not guaranteed. Shared peer sets are provisional, and source-linked status does not establish complete factual verification.
 
+
+Follow-up 2026-11-25: five settlement records supplemented with geographic and administrative references; refined populated-place points. These sources do not independently establish all visitor experience claims.
+
 ## city-cg-brazzaville — Brazzaville — 2026-11-25
 
 - [YAML](../../../countries/CG/cities/brazzaville.yaml) · Action: new · **source-linked-unverified**.
@@ -61,8 +64,8 @@
 
 ## city-cg-ouesso — Ouesso — 2026-11-25
 
-- [YAML](../../../countries/CG/cities/ouesso.yaml) · Action: new · **editorial-only**.
-- Scope: Settlement itself, excluding separate sights. GPS 1.614, 16.051: approximate editorial point; verification pending.
+- [YAML](../../../countries/CG/cities/ouesso.yaml) · Action: new · **source-linked-unverified**.
+- Scope: Settlement itself, excluding separate sights. GPS 1.613611, 16.051667: [populated-place geographic reference](https://www.geonames.org/advanced-search.html?country=CG&q=); not district centroid.
 - Worldwide peers (I/U/S/E/D):
   - [Siem Reap (KH)](../../../countries/KH/cities/siem-reap.yaml) — 8.8 / 9.0 / 9.3 / 9.0 / 9.2 (90.20/100); upper anchor; lower impact (Sangha river town); lower uniqueness (forest-region river trading community); lower significance (regional commerce); lower experience (waterfront and market walks); lower depth (Ndoki excluded).
   - [Luang Prabang (LA)](../../../countries/LA/cities/luang-prabang.yaml) — 9.2 / 9.4 / 9.3 / 9.2 / 9.0 (92.50/100); related comparison; lower impact (Sangha river town); lower uniqueness (forest-region river trading community); lower significance (regional commerce); lower experience (waterfront and market walks); lower depth (Ndoki excluded).
@@ -75,13 +78,13 @@
 - Depth 6.3: Ndoki excluded.
 - Categories: culture:7.9, photography:7.6. Overall: 68.90/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked destination-specific source.
+- Evidence: [Named settlement](https://www.geonames.org/advanced-search.html?country=CG&q=) and [administrative divisions](https://republic-congo.com/en/discover/administrative-divisions/) support location and regional role; market, food and visitor-quality claims remain provisional. Checked 2026-11-25; formerly editorial-only.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access and individual peer/category calibration.
 
 ## city-cg-oyo — Oyo — 2026-11-25
 
-- [YAML](../../../countries/CG/cities/oyo.yaml) · Action: new · **editorial-only**.
-- Scope: Settlement itself, excluding separate sights. GPS -1.16, 15.91: approximate editorial point; verification pending.
+- [YAML](../../../countries/CG/cities/oyo.yaml) · Action: new · **source-linked-unverified**.
+- Scope: Settlement itself, excluding separate sights. GPS -1.165, 15.97: [populated-place geographic reference](https://www.geodatos.net/en/coordinates/republic-of-the-congo/oyo-cuvette); not district centroid.
 - Worldwide peers (I/U/S/E/D):
   - [Siem Reap (KH)](../../../countries/KH/cities/siem-reap.yaml) — 8.8 / 9.0 / 9.3 / 9.0 / 9.2 (90.20/100); upper anchor; lower impact (river-region town); lower uniqueness (Alima trading settlement); lower significance (regional civic role); lower experience (local walks and food); lower depth (limited documented venues).
   - [Luang Prabang (LA)](../../../countries/LA/cities/luang-prabang.yaml) — 9.2 / 9.4 / 9.3 / 9.2 / 9.0 (92.50/100); related comparison; lower impact (river-region town); lower uniqueness (Alima trading settlement); lower significance (regional civic role); lower experience (local walks and food); lower depth (limited documented venues).
@@ -94,13 +97,13 @@
 - Depth 6.0: limited documented venues.
 - Categories: culture:7.4, food:7.5. Overall: 64.50/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked destination-specific source.
+- Evidence: [Named settlement](https://www.geodatos.net/en/coordinates/republic-of-the-congo/oyo-cuvette) and [administrative divisions](https://republic-congo.com/en/discover/administrative-divisions/) support location and regional role; market, food and visitor-quality claims remain provisional. Checked 2026-11-25; formerly editorial-only.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access and individual peer/category calibration.
 
 ## city-cg-owando — Owando — 2026-11-25
 
-- [YAML](../../../countries/CG/cities/owando.yaml) · Action: new · **editorial-only**.
-- Scope: Settlement itself, excluding separate sights. GPS -0.48, 15.90: approximate editorial point; verification pending.
+- [YAML](../../../countries/CG/cities/owando.yaml) · Action: new · **source-linked-unverified**.
+- Scope: Settlement itself, excluding separate sights. GPS -0.482, 15.9: [populated-place geographic reference](https://www.geonames.org/CG/largest-cities-in-congo-republic.html); not district centroid.
 - Worldwide peers (I/U/S/E/D):
   - [Siem Reap (KH)](../../../countries/KH/cities/siem-reap.yaml) — 8.8 / 9.0 / 9.3 / 9.0 / 9.2 (90.20/100); upper anchor; lower impact (provincial streets); lower uniqueness (Cuvette regional settlement); lower significance (administrative heritage); lower experience (market and food); lower depth (limited attractions).
   - [Luang Prabang (LA)](../../../countries/LA/cities/luang-prabang.yaml) — 9.2 / 9.4 / 9.3 / 9.2 / 9.0 (92.50/100); related comparison; lower impact (provincial streets); lower uniqueness (Cuvette regional settlement); lower significance (administrative heritage); lower experience (market and food); lower depth (limited attractions).
@@ -113,13 +116,13 @@
 - Depth 6.0: limited attractions.
 - Categories: culture:7.4, food:7.4. Overall: 64.25/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked destination-specific source.
+- Evidence: [Named settlement](https://www.geonames.org/CG/largest-cities-in-congo-republic.html) and [administrative divisions](https://republic-congo.com/en/discover/administrative-divisions/) support location and regional role; market, food and visitor-quality claims remain provisional. Checked 2026-11-25; formerly editorial-only.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access and individual peer/category calibration.
 
 ## city-cg-sibiti — Sibiti — 2026-11-25
 
-- [YAML](../../../countries/CG/cities/sibiti.yaml) · Action: new · **editorial-only**.
-- Scope: Settlement itself, excluding separate sights. GPS -3.69, 13.35: approximate editorial point; verification pending.
+- [YAML](../../../countries/CG/cities/sibiti.yaml) · Action: new · **source-linked-unverified**.
+- Scope: Settlement itself, excluding separate sights. GPS -3.682, 13.35: [populated-place geographic reference](https://www.geonames.org/CG/largest-cities-in-congo-republic.html); not district centroid.
 - Worldwide peers (I/U/S/E/D):
   - [Siem Reap (KH)](../../../countries/KH/cities/siem-reap.yaml) — 8.8 / 9.0 / 9.3 / 9.0 / 9.2 (90.20/100); upper anchor; lower impact (small town streets); lower uniqueness (forest-region community); lower significance (regional civic role); lower experience (local walks); lower depth (limited venues).
   - [Luang Prabang (LA)](../../../countries/LA/cities/luang-prabang.yaml) — 9.2 / 9.4 / 9.3 / 9.2 / 9.0 (92.50/100); related comparison; lower impact (small town streets); lower uniqueness (forest-region community); lower significance (regional civic role); lower experience (local walks); lower depth (limited venues).
@@ -132,13 +135,13 @@
 - Depth 5.9: limited venues.
 - Categories: culture:7.3. Overall: 63.25/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked destination-specific source.
+- Evidence: [Named settlement](https://www.geonames.org/CG/largest-cities-in-congo-republic.html) and [administrative divisions](https://republic-congo.com/en/discover/administrative-divisions/) support location and regional role; market, food and visitor-quality claims remain provisional. Checked 2026-11-25; formerly editorial-only.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access and individual peer/category calibration.
 
 ## city-cg-nkayi — Nkayi — 2026-11-25
 
-- [YAML](../../../countries/CG/cities/nkayi.yaml) · Action: new · **editorial-only**.
-- Scope: Settlement itself, excluding separate sights. GPS -4.18, 13.29: approximate editorial point; verification pending.
+- [YAML](../../../countries/CG/cities/nkayi.yaml) · Action: new · **source-linked-unverified**.
+- Scope: Settlement itself, excluding separate sights. GPS -4.184, 13.286: [populated-place geographic reference](https://www.geonames.org/CG/largest-cities-in-congo-republic.html); not district centroid.
 - Worldwide peers (I/U/S/E/D):
   - [Siem Reap (KH)](../../../countries/KH/cities/siem-reap.yaml) — 8.8 / 9.0 / 9.3 / 9.0 / 9.2 (90.20/100); upper anchor; lower impact (commercial streets); lower uniqueness (sugar-producing region identity); lower significance (regional industrial heritage); lower experience (market and meals); lower depth (limited visitor sites).
   - [Luang Prabang (LA)](../../../countries/LA/cities/luang-prabang.yaml) — 9.2 / 9.4 / 9.3 / 9.2 / 9.0 (92.50/100); related comparison; lower impact (commercial streets); lower uniqueness (sugar-producing region identity); lower significance (regional industrial heritage); lower experience (market and meals); lower depth (limited visitor sites).
@@ -151,7 +154,7 @@
 - Depth 6.0: limited visitor sites.
 - Categories: culture:7.3, food:7.4. Overall: 63.20/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked destination-specific source.
+- Evidence: [Named settlement](https://www.geonames.org/CG/largest-cities-in-congo-republic.html) and [administrative divisions](https://republic-congo.com/en/discover/administrative-divisions/) support location and regional role; market, food and visitor-quality claims remain provisional. Checked 2026-11-25; formerly editorial-only.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access and individual peer/category calibration.
 
 ## city-cg-mossaka — Mossaka — 2026-11-25
