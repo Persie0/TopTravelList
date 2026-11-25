@@ -2,7 +2,7 @@
 
 # Côte d'Ivoire (CI) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**7 ranked** · **3 unassessed** · **10 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,27 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (7)
 
-No cities, towns & villages have been assessed for **Côte d'Ivoire** yet.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Grand-Bassam](cities/grand-bassam.yaml) | City / town | **85.15** | **History 9.0**, **Architecture 8.8**, **Culture 8.8** | 8.3 / 8.7 / 8.9 / 8.4 / 8.1 | [5.211796, -3.738839](https://www.google.com/maps/search/?api=1&query=5.211796,-3.738839) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Grand-Bassam%2C%20C%C3%B4te%20d%27Ivoire) |
+| 2 | [Abidjan](cities/abidjan.yaml) | City / town | **84.85** | **Culture 8.9**, **Food 8.8**, **Nightlife 8.8** | 8.3 / 8.4 / 8.5 / 8.7 / 8.9 | [5.354, -4.002](https://www.google.com/maps/search/?api=1&query=5.354,-4.002) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Abidjan%2C%20C%C3%B4te%20d%27Ivoire) |
+| 3 | [Kong](cities/kong.yaml) | City / town | **79.90** | **History 8.9**, **Architecture 8.6** | 7.6 / 8.5 / 8.7 / 7.5 / 7.2 | [9.15, -4.61](https://www.google.com/maps/search/?api=1&query=9.15,-4.61) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kong%2C%20C%C3%B4te%20d%27Ivoire) |
+| 4 | [Yamoussoukro](cities/yamoussoukro.yaml) | City / town | **79.40** | **Architecture 8.6**, **History 8.3** | 7.8 / 8.2 / 8.2 / 7.8 / 7.4 | [6.821, -5.277](https://www.google.com/maps/search/?api=1&query=6.821,-5.277) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Yamoussoukro%2C%20C%C3%B4te%20d%27Ivoire) |
+| 5 | [Korhogo](cities/korhogo.yaml) | City / town | **79.20** | **Culture 8.8**, **Food 7.8** | 7.7 / 8.2 / 7.9 / 8.0 / 7.8 | [9.458, -5.63](https://www.google.com/maps/search/?api=1&query=9.458,-5.63) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Korhogo%2C%20C%C3%B4te%20d%27Ivoire) |
+| 6 | [Assinie-Mafia](cities/assinie-mafia.yaml) | City / town | **77.10** | **Beaches 8.7**, **Relaxation 8.7** | 7.8 / 7.8 / 7.1 / 8.4 / 7.4 | [5.133, -3.283](https://www.google.com/maps/search/?api=1&query=5.133,-3.283) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Assinie-Mafia%2C%20C%C3%B4te%20d%27Ivoire) |
+| 7 | [Man](cities/man.yaml) | City / town | **75.30** | **Culture 8.0**, **Photography 8.0** | 7.5 / 7.7 / 7.3 / 7.7 / 7.4 | [7.413, -7.554](https://www.google.com/maps/search/?api=1&query=7.413,-7.554) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Man%2C%20C%C3%B4te%20d%27Ivoire) |
 
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+## Not yet fully assessed (3)
+
+These destinations have no rank until all five core scores are assessed.
+
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| — | [Bouaké](cities/bouake.yaml) | City / town | **—** | — | — / 7.0 / 7.3 / — / — | [7.694, -5.03](https://www.google.com/maps/search/?api=1&query=7.694,-5.03) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bouak%C3%A9%2C%20C%C3%B4te%20d%27Ivoire) |
+| — | [Daloa](cities/daloa.yaml) | City / town | **—** | — | — / — / 7.1 / — / — | [6.877, -6.45](https://www.google.com/maps/search/?api=1&query=6.877,-6.45) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Daloa%2C%20C%C3%B4te%20d%27Ivoire) |
+| — | [San-Pédro](cities/san-pedro.yaml) | City / town | **—** | — | — / 7.0 / 7.4 / — / — | [4.749, -6.636](https://www.google.com/maps/search/?api=1&query=4.749,-6.636) | [Google Maps](https://www.google.com/maps/search/?api=1&query=San-P%C3%A9dro%2C%20C%C3%B4te%20d%27Ivoire) |
 
 ---
 
