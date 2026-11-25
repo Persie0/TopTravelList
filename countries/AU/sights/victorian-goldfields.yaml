@@ -2,12 +2,12 @@ id: sight-au-victorian-goldfields
 name: "Victorian Goldfields"
 location:
   country_code: AU
-  latitude: -37.56
-  longitude: 143.85
+  latitude: -37.07212
+  longitude: 144.25928
 scores:
-  impact: null
-  uniqueness: null
-  significance: null
-  experience: null
-  depth: null
+  impact: 8.4
+  uniqueness: 8.9
+  significance: 9.1
+  experience: 8.7
+  depth: 9.0
   categories: {}

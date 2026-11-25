@@ -1606,3 +1606,221 @@
 - Final decision: provisional worldwide assessment for documented visitor scope; full factual and coordinate verification pending.
 - Earlier decision: prior entry for this ID, unranked.
 - Verification still needed: Tentative precinct, not the whole Parramatta heritage district. Credit documented authorized walking tours only; individual buildings and current interior permissions unresolved. Coordinate retained pending corroboration.
+
+### sight-au-victorian-goldfields — Victorian Goldfields — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/AU/sights/victorian-goldfields.yaml)
+- Action: rescore
+- Precise subject: Six components named in the 2025 tentative submission: Castlemaine, Creswick, Bendigo, Great Nuggets, Walhalla and Lalgambuk. Exclude Ballarat and other possible future additions.
+- Location check: Representative coordinate corrected to -37.07212, 144.25928, from the named component in the tentative submission.
+- Evidence status: source-linked-unverified
+- Checked factual reference excerpts (2026-11-25):
+  - Australian Government tentative submission, hosted by UNESCO, defines six component areas, their coordinates and historic attributes; Ballarat is only under investigation — https://whc.unesco.org/en/tentativelists/6794/
+  - Parks Victoria describes historic mining landscape, guided tours and Garfield mine heritage walk — https://www.parks.vic.gov.au/places-to-see/parks/castlemaine-diggings-national-heritage-park
+  - Parks Victoria identifies preserved mines and buildings in Maldon — https://www.parks.vic.gov.au/places-to-see/parks/maldon-historic-area
+  - Visit Walhalla documents the Long Tunnel Extended Mine guided tour — https://www.walhallaheritage.com/long-tunnel-extended-mine
+- Missing or uncertain facts: Representative point changed from approximate Ballarat to Castlemaine component's submitted coordinate; not an entrance. Exact boundaries, all component coordinates and admission conditions still need separate checks. Avoid abandoned shafts and respect restricted cultural sites.
+
+#### Worldwide peer comparisons
+- Cornwall and West Devon Mining Landscape (UK): globally important mining technology and more extensive original Cornish system
+- Røros Mining Town (Norway): more concentrated historic urban fabric
+- Tr’ondëk–Klondike (Canada): comparable gold rush and Indigenous colonial history but different surviving mining technology and settlement patterns
+- Burra and Moonta (Australia): smaller two-component copper mining ensemble with comparable industrial interpretation
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | null | 8.4 | Extensive legible historic mining landscapes and gold-rush town architecture, with varied terrain. |
+| Uniqueness | null | 8.9 | Rare combination of preserved alluvial diggings, deep-lead and reef-mining evidence, towns and living Indigenous cultural associations. |
+| Significance | null | 9.1 | Important evidence of nineteenth-century migration, industrial technology, colonial dispossession and continuing Traditional Owner connections. |
+| Experience | null | 8.7 | Established heritage walks through Castlemaine Diggings, preserved Maldon heritage and guided Walhalla mine experience. |
+| Depth | null | 9.0 | Six differentiated component areas and multiple documented visitor experiences; do not assume every archaeological feature is accessible. |
+
+- Applicable category scores: none assessed (unchanged).
+- Computed worldwide overall: 87.70/100
+- High-score challenge: no 9.5+ field or 90+ total introduced.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide assessment for documented visitor scope; not complete independent factual verification.
+- Earlier decision: prior entry for this ID, unranked.
+- Verification still needed: Representative point changed from approximate Ballarat to Castlemaine component's submitted coordinate; not an entrance. Exact boundaries, all component coordinates and admission conditions still need separate checks. Avoid abandoned shafts and respect restricted cultural sites.
+
+### sight-au-great-sandy-world-heritage-area — Great Sandy World Heritage Area — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/AU/sights/great-sandy-world-heritage-area.yaml)
+- Action: rescore
+- Precise subject: Proposed extension areas in the 2010 tentative submission only, not the existing inscribed K’gari property or entire Great Sandy Marine Park.
+- Location check: See coordinate limitation below.
+- Evidence status: source-linked-unverified
+- Checked factual reference excerpts (2026-11-25):
+  - Australian Government tentative submission, hosted by UNESCO, identifies Cooloola, Breaksea Spit, Platypus Bay, Great Sandy Strait/Tin Can Bay and Wide Bay Military Reserve; submitted coordinate S25°39′ E153° — https://whc.unesco.org/en/tentativelists/5480/
+  - Queensland Parks lists Cooloola walking tracks, including forest and coastal views — https://parks.qld.gov.au/parks/cooloola/journeys/walking-tracks
+  - Queensland Parks identifies Platypus Bay as whale resting habitat — https://parks.qld.gov.au/parks/great-sandy-marine/management-and-zoning/zones-and-designated-areas
+  - Queensland Government describes regulated commercial whale watching in the marine park — https://environment.qld.gov.au/licences-permits/plants-animals/commercial-use-animals/whale-watching
+- Missing or uncertain facts: Existing coordinate matches the submission; it is not a visitor entrance. Only documented public tracks and regulated marine activities credited. Seasonal closures, military reserve exclusion, current zoning and Traditional Owner permissions remain relevant.
+
+#### Worldwide peer comparisons
+- K’gari (Australia): iconic inscribed island with more concentrated freshwater-lake and sand-island experiences; existing whole-island rating not inherited
+- Namib Sand Sea (Namibia): greater monumental desert dune scale, different coastal ecology
+- Wadden Sea (Germany/Netherlands/Denmark): extensive marine wetland systems and different tidal processes
+- Abel Tasman National Park (New Zealand): more focused coastal walking and kayaking landscape
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | null | 8.8 | Strong coastal dunes, long beaches, forest, mangroves and waterways. |
+| Uniqueness | null | 8.8 | Distinct sand-landform sequences and connected terrestrial and marine ecosystems, though other global sand landscapes exist. |
+| Significance | null | 9.0 | Important dune geomorphology and coastal ecosystem continuity; proposed extension supports existing property's conservation values. |
+| Experience | null | 8.7 | Documented Cooloola walking routes and regulated marine wildlife observation. |
+| Depth | null | 8.8 | Varied documented coastal forest and marine experiences, excluding military and other inaccessible areas. |
+
+- Applicable category scores: none assessed (unchanged).
+- Computed worldwide overall: 88.25/100
+- High-score challenge: no 9.5+ field or 90+ total introduced.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide assessment for documented visitor scope; not complete independent factual verification.
+- Earlier decision: prior entry for this ID, unranked.
+- Verification still needed: Existing coordinate matches the submission; it is not a visitor entrance. Only documented public tracks and regulated marine activities credited. Seasonal closures, military reserve exclusion, current zoning and Traditional Owner permissions remain relevant.
+
+### sight-au-workers-assembly-halls — Workers’ Assembly Halls (Australia) — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/AU/sights/workers-assembly-halls.yaml)
+- Action: rescore
+- Precise subject: Australian component pair: Victorian Trades Hall in Melbourne and Broken Hill Trades Hall. Exclude Copenhagen and Ghent from the Australian record's visitor scores.
+- Location check: See coordinate limitation below.
+- Evidence status: source-linked-unverified
+- Checked factual reference excerpts (2026-11-25):
+  - Australian tentative submission hosted by UNESCO describes the two Australian halls, continuing labour function, historic architecture and collections — https://whc.unesco.org/en/tentativelists/6698/
+  - Australian ministers confirm both buildings form the Australian portion of a four-building transnational nomination submitted in 2026, not an inscription — https://minister.dcceew.gov.au/watt/media-releases/joint-media-release-historic-broken-hill-trades-hall-one-step-closer-world-heritage-status
+  - Victorian Trades Hall Council advertises scheduled tours — https://www.weareunion.org.au/tours
+  - NSW Government describes Broken Hill's union banners, labour history exhibits and interior — https://www.nsw.gov.au/visiting-and-exploring-nsw/locations-and-attractions/broken-hill-trades-hall
+- Missing or uncertain facts: Tentative, transnational nomination submitted in 2026; not inscribed. Existing Melbourne point retained as approximate component proxy; exact coordinate and current tour dates require corroboration.
+
+#### Worldwide peer comparisons
+- Workers Museum, Copenhagen (Denmark): directly comparable assembly hall with more developed museum interpretation
+- Vooruit, Ghent (Belgium): comparable historic workers' institution with different cultural use
+- Zollverein Coal Mine (Germany): far larger industrial ensemble; labour history is a distinct subject
+- Hyde Park Barracks (Australia): more focused interpreted social-history museum with a different institutional history
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | null | 7.9 | Historic Victorian-era interiors and civic architecture, less monumental than leading world palaces. |
+| Uniqueness | null | 8.7 | Rare surviving halls retaining their organized labour function and collections. |
+| Significance | null | 9.0 | Strong international labour, democratic organizing and working conditions history, distinct from general industrial production heritage. |
+| Experience | null | 8.2 | Documented public or arranged Melbourne tours and Broken Hill heritage displays. |
+| Depth | null | 7.8 | Two differentiated buildings and multiple historical themes, but limited compared with extensive heritage landscapes. |
+
+- Applicable category scores: none assessed (unchanged).
+- Computed worldwide overall: 83.55/100
+- High-score challenge: no 9.5+ field or 90+ total introduced.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide assessment for documented visitor scope; not complete independent factual verification.
+- Earlier decision: prior entry for this ID, unranked.
+- Verification still needed: Tentative, transnational nomination submitted in 2026; not inscribed. Existing Melbourne point retained as approximate component proxy; exact coordinate and current tour dates require corroboration.
+
+### sight-au-gondwana-rainforests-extension — Gondwana Rainforests of Australia (proposed extension) — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/AU/sights/gondwana-rainforests-extension.yaml)
+- Action: rescore
+- Precise subject: Only proposed additions to the inscribed property, not the existing property; Bunya Mountains and other named addition areas.
+- Location check: See coordinate limitation below.
+- Evidence status: unassessed
+- Checked factual reference excerpts (2026-11-25):
+  - Australian tentative submission hosted by UNESCO identifies Bunya Mountains, Richmond Range and Carrai Plateau additions and ecological rationale — https://whc.unesco.org/en/tentativelists/5541/
+  - Queensland Parks describes Bunya Mountains walking and 35 km track network — https://parks.qld.gov.au/parks/bunya-mountains/things-to-do
+  - NSW National Parks documents walks and forest habitats in Carrai National Park, but does not establish which trails lie inside the tentative addition boundaries — https://www.nationalparks.nsw.gov.au/visit-a-park/parks/carrai-national-park
+- Missing or uncertain facts: Retain unranked because complete component boundary-to-visitor-route correspondence is not established. Existing GPS matches the tentative submission's representative coordinate.
+
+#### Worldwide peer comparisons
+- Gondwana Rainforests (Australia): existing inscribed landscape, not the additions themselves
+- Te Wāhipounamu (New Zealand): broader combined alpine and forest landscape
+- Kinabalu Park (Malaysia): exceptional montane biodiversity and well-documented visitor scope
+- Bunya Mountains (Australia): confirmed proposed component, narrower than aggregate extension
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | null | 8.5 | Documented forest environments with bunya pines, escarpments and waterfalls. |
+| Uniqueness | null | 8.8 | Distinct ancient conifer and rainforest communities, with evolutionary analogues elsewhere. |
+| Significance | null | 9.1 | Conservation connectivity and greater representation of relict plant communities give the proposed additions important scientific value. |
+| Experience | null | null | Bunya Mountains walking is documented, but exact boundaries of the other additions relative to permitted trails remain unverified. |
+| Depth | null | null | Aggregate visitor breadth cannot be inferred from the existing inscribed property or entire adjacent parks. |
+
+- Applicable category scores: none assessed (unchanged).
+- Computed worldwide overall: unranked
+- High-score challenge: no 9.5+ field or 90+ total introduced.
+- Approved 10 registry: none.
+- Final decision: Remain unranked; unresolved fields deliberately retained as null.
+- Earlier decision: prior entry for this ID, unranked.
+- Verification still needed: Retain unranked because complete component boundary-to-visitor-route correspondence is not established. Existing GPS matches the tentative submission's representative coordinate.
+
+### sight-au-cape-york-cultural-landscapes — Cultural Landscapes of Cape York Peninsula — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/AU/sights/cape-york-cultural-landscapes.yaml)
+- Action: rescore
+- Precise subject: Proposed Traditional Owner-led serial property, explicitly not the entire Cape York Peninsula.
+- Location check: See coordinate limitation below.
+- Evidence status: unassessed
+- Checked factual reference excerpts (2026-11-25):
+  - Australian tentative submission hosted by UNESCO identifies serial scope, rock art, traditional land management and consent — https://whc.unesco.org/en/tentativelists/6775/
+  - Queensland Government confirms Laura Rangers' visitor experiences and guided rock-art tours — https://www.qld.gov.au/environment/plants-animals/conservation/community/land-sea-rangers/first-nations-tourism-experiences
+  - Ang Gnarra Aboriginal Corporation describes Quinkan Country and culturally appropriate guided interpretation — https://www.anggnarra.org.au/our-country-quinkan-country
+- Missing or uncertain facts: Leave experience and depth null pending component-specific permission and scope evidence. Current GPS is a regional approximation, not a verified component point; avoid publishing coordinates of sensitive places or implying general access.
+
+#### Worldwide peer comparisons
+- Kakadu (Australia): inscribed mixed landscape with more extensively documented public visitor routes
+- Tsodilo (Botswana): distinctive rock-art landscape with more concentrated site scope
+- Twyfelfontein (Namibia): more focused rock-art visitor experience
+- Budj Bim (Australia): different living Indigenous landscape and aquaculture heritage
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | null | 8.8 | Distinct scenic combination of savannah, escarpments, rivers, forest and rock-art settings described for proposed components. |
+| Uniqueness | null | 9.1 | Rare living Indigenous cultural landscapes with long-established land relationships and distinctive rock-art traditions. |
+| Significance | null | 9.3 | Exceptional cultural continuity and significant tropical ecosystems, without treating nomination as inscription. |
+| Experience | null | null | Authorized Quinkan rock-art tours are documented, but ordinary visitor experience across the complete serial proposal is insufficiently confirmed. |
+| Depth | null | null | Extent of permitted exploration across components cannot be responsibly inferred from one rock-art visit. |
+
+- Applicable category scores: none assessed (unchanged).
+- Computed worldwide overall: unranked
+- High-score challenge: no 9.5+ field or 90+ total introduced.
+- Approved 10 registry: none.
+- Final decision: Remain unranked; unresolved fields deliberately retained as null.
+- Earlier decision: prior entry for this ID, unranked.
+- Verification still needed: Leave experience and depth null pending component-specific permission and scope evidence. Current GPS is a regional approximation, not a verified component point; avoid publishing coordinates of sensitive places or implying general access.
+
+### sight-au-heard-mcdonald-islands — Heard and McDonald Islands — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/AU/sights/heard-mcdonald-islands.yaml)
+- Action: fact-check-only
+- Precise subject: Inscribed Heard and McDonald Islands property, not broader Antarctic tourism.
+- Location check: See coordinate limitation below.
+- Evidence status: unassessed
+- Checked factual reference excerpts (2026-11-25):
+  - Australian Antarctic Division states that the islands are only occasionally visited by tour ships — https://www.antarctica.gov.au/about-antarctica/tourism/frequently-asked-questions/
+  - Australian Antarctic Division specifies environmental approval and permits for territorial access, and lists a historical 2012 tourism permit — https://www.antarctica.gov.au/antarctic-operations/stations-and-field-locations/heard-island/protection-and-management/permits/
+- Missing or uncertain facts: No complete rating until current lawful, ordinary visitor scope and depth are established. Historical permit evidence does not guarantee present access. Existing representative GPS remains approximate.
+
+#### Worldwide peer comparisons
+- Macquarie Island (Australia): documented educational expedition access, different exposed oceanic crust
+- New Zealand Sub-Antarctic Islands (New Zealand): documented authorized landings and multiple island landscapes
+- Galápagos (Ecuador): much more extensive documented visitor experience
+- South Georgia (UK): established regulated expedition visits
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | 8.9 | 8.9 | Remote glaciated volcanic island landscape. |
+| Uniqueness | 9.3 | 9.3 | Distinctive active subantarctic volcanic setting. |
+| Significance | 9.2 | 9.2 | Important geological and ecological conservation values. |
+| Experience | null | null | Tour ships have occasionally visited, but a current documented ordinary tourist offer is not established. |
+| Depth | null | null | The permitted scope of any ordinary visit remains insufficiently documented. |
+
+- Applicable category scores: nature: 9.2, wildlife: 9.1 (unchanged).
+- Computed worldwide overall: unranked
+- High-score challenge: no 9.5+ field or 90+ total introduced.
+- Approved 10 registry: none.
+- Final decision: Remain unranked; unresolved fields deliberately retained as null.
+- Earlier decision: prior entry for this ID, unranked.
+- Verification still needed: No complete rating until current lawful, ordinary visitor scope and depth are established. Historical permit evidence does not guarantee present access. Existing representative GPS remains approximate.
