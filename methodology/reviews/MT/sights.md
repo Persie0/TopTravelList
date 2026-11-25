@@ -18,7 +18,7 @@
 - Depth 9.1: extensive urban ensemble excluding separately scored interiors.
 - Categories: architecture:9.5,history:9.6,photography:9.4,culture:9.3. Overall 92.90/100.
 - High-score challenge: Compared with Gyeongju 96.15 and Kotor Old Town 91.05, exceptional planned fortified fabric supports significance 9.5, architecture 9.5 and history 9.6; less archaeological breadth than Gyeongju and no automatic inclusion of museum collections.. No approved 10.
-- Evidence: [Identity/context reference](https://whc.unesco.org/en/list/131/) — search excerpt inspected 2026-11-25; limited scope, not all claims. 
+- Evidence: [Identity/context reference](https://whc.unesco.org/en/list/131/) — search excerpt inspected 2026-11-25; limited scope, not all claims.
 - Remaining gaps: exact location except UNESCO points, claim-level verification, current access and field-specific peer comparisons. Shared ladders may mix types.
 
 ## sight-mt-st-johns-co-cathedral — St John's Co-Cathedral — 2026-11-25
@@ -75,7 +75,7 @@
 - Depth 8.5: bounded temple complex rather than entire serial property.
 - Categories: history:9.7,architecture:9.3,culture:9.4. Overall 91.10/100.
 - High-score challenge: Significance 9.6 and history 9.7 reflect prehistoric monumental evidence; compare Butrint and Gyeongju, smaller preserved circuit than both but distinct early building technology.. No approved 10.
-- Evidence: [Identity/context reference](https://whc.unesco.org/en/list/132/maps/) — UNESCO coordinate table inspected 2026-11-25; limited scope, not all claims. 
+- Evidence: [Identity/context reference](https://whc.unesco.org/en/list/132/maps/) — UNESCO coordinate table inspected 2026-11-25; limited scope, not all claims.
 - Remaining gaps: exact location except UNESCO points, claim-level verification, current access and field-specific peer comparisons. Shared ladders may mix types.
 
 ## sight-mt-hagar-qim-temples — Ħaġar Qim Temples — 2026-11-25
@@ -94,7 +94,7 @@
 - Depth 8.4: one component excluding Mnajdra.
 - Categories: history:9.6,architecture:9.3,culture:9.3. Overall 90.25/100.
 - High-score challenge: Significance 9.5 and history 9.6 reflect early monumental stone architecture, below Gyeongju for breadth. Protective covering and bounded circuit limit experience.. No approved 10.
-- Evidence: [Identity/context reference](https://whc.unesco.org/en/list/132/maps/) — UNESCO coordinate table inspected 2026-11-25; limited scope, not all claims. 
+- Evidence: [Identity/context reference](https://whc.unesco.org/en/list/132/maps/) — UNESCO coordinate table inspected 2026-11-25; limited scope, not all claims.
 - Remaining gaps: exact location except UNESCO points, claim-level verification, current access and field-specific peer comparisons. Shared ladders may mix types.
 
 ## sight-mt-mnajdra-temples — Mnajdra Temples — 2026-11-25
@@ -113,7 +113,7 @@
 - Depth 8.3: bounded component separate from Ħaġar Qim.
 - Categories: history:9.6,architecture:9.3,culture:9.3. Overall 90.70/100.
 - High-score challenge: Significance 9.5 and history 9.6 supported by unusual preserved Neolithic monument and astronomical orientation context; compare Butrint and Gyeongju, smaller site breadth and do not claim precise ancient ritual purposes.. No approved 10.
-- Evidence: [Identity/context reference](https://whc.unesco.org/en/list/132/maps/) — UNESCO coordinate table inspected 2026-11-25; limited scope, not all claims. 
+- Evidence: [Identity/context reference](https://whc.unesco.org/en/list/132/maps/) — UNESCO coordinate table inspected 2026-11-25; limited scope, not all claims.
 - Remaining gaps: exact location except UNESCO points, claim-level verification, current access and field-specific peer comparisons. Shared ladders may mix types.
 
 ## sight-mt-tarxien-temples — Tarxien Temples — 2026-11-25
@@ -132,7 +132,7 @@
 - Depth 8.3: one compact complex.
 - Categories: history:9.6,architecture:9.1,culture:9.3. Overall 89.00/100.
 - High-score challenge: Significance 9.5 and history 9.6 reflect surviving Neolithic design and decoration; below Gyeongju and Butrint for visitor depth.. No approved 10.
-- Evidence: [Identity/context reference](https://whc.unesco.org/en/list/132/maps/) — UNESCO coordinate table inspected 2026-11-25; limited scope, not all claims. 
+- Evidence: [Identity/context reference](https://whc.unesco.org/en/list/132/maps/) — UNESCO coordinate table inspected 2026-11-25; limited scope, not all claims.
 - Remaining gaps: exact location except UNESCO points, claim-level verification, current access and field-specific peer comparisons. Shared ladders may mix types.
 
 ## sight-mt-ta-hagrat-temples — Ta' Ħaġrat Temples — 2026-11-25
@@ -151,7 +151,7 @@
 - Depth 7.1: much smaller than Ġgantija and Apollonia.
 - Categories: history:9.3,architecture:8.8. Overall 82.60/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: [Identity/context reference](https://whc.unesco.org/en/list/132/maps/) — UNESCO coordinate table inspected 2026-11-25; limited scope, not all claims. 
+- Evidence: [Identity/context reference](https://whc.unesco.org/en/list/132/maps/) — UNESCO coordinate table inspected 2026-11-25; limited scope, not all claims.
 - Remaining gaps: exact location except UNESCO points, claim-level verification, current access and field-specific peer comparisons. Shared ladders may mix types.
 
 ## sight-mt-skorba-temples — Skorba Temples — 2026-11-25
@@ -170,7 +170,7 @@
 - Depth 7.0: limited visible remains and visitor circuit.
 - Categories: history:9.4,architecture:8.4. Overall 80.75/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: [Identity/context reference](https://whc.unesco.org/en/list/132/maps/) — UNESCO coordinate table inspected 2026-11-25; limited scope, not all claims. 
+- Evidence: [Identity/context reference](https://whc.unesco.org/en/list/132/maps/) — UNESCO coordinate table inspected 2026-11-25; limited scope, not all claims.
 - Remaining gaps: exact location except UNESCO points, claim-level verification, current access and field-specific peer comparisons. Shared ladders may mix types.
 
 ## sight-mt-mdina-historic-centre — Mdina Historic Centre — 2026-11-25
@@ -189,7 +189,7 @@
 - Depth 8.3: less breadth than Kotor.
 - Categories: architecture:9.4,history:9.3,photography:9.4. Overall 89.40/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: [Identity/context reference](https://www.visitmalta.com/en/location/mdina/) — search excerpt inspected 2026-11-25; limited scope, not all claims. 
+- Evidence: [Identity/context reference](https://www.visitmalta.com/en/location/mdina/) — search excerpt inspected 2026-11-25; limited scope, not all claims.
 - Remaining gaps: exact location except UNESCO points, claim-level verification, current access and field-specific peer comparisons. Shared ladders may mix types.
 
 ## sight-mt-fort-st-elmo-and-national-war-museum — Fort St Elmo and National War Museum — 2026-11-25
@@ -208,7 +208,7 @@
 - Depth 8.6: includes museum rather than duplicating it.
 - Categories: history:9.4,architecture:9.2,photography:9.0. Overall 88.85/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: [Identity/context reference](https://heritagemalta.mt/explore/fort-st-elmo-national-war-museum/) — search excerpt inspected 2026-11-25; limited scope, not all claims. 
+- Evidence: [Identity/context reference](https://heritagemalta.mt/explore/fort-st-elmo-national-war-museum/) — search excerpt inspected 2026-11-25; limited scope, not all claims.
 - Remaining gaps: exact location except UNESCO points, claim-level verification, current access and field-specific peer comparisons. Shared ladders may mix types.
 
 ## sight-mt-fort-st-angelo — Fort St Angelo — 2026-11-25
@@ -227,7 +227,7 @@
 - Depth 8.5: less extensive than Hohensalzburg.
 - Categories: history:9.4,architecture:9.2,photography:9.1. Overall 88.60/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: [Identity/context reference](https://heritagemalta.mt/explore/fort-st-angelo/) — search excerpt inspected 2026-11-25; limited scope, not all claims. 
+- Evidence: [Identity/context reference](https://heritagemalta.mt/explore/fort-st-angelo/) — search excerpt inspected 2026-11-25; limited scope, not all claims.
 - Remaining gaps: exact location except UNESCO points, claim-level verification, current access and field-specific peer comparisons. Shared ladders may mix types.
 
 ## sight-mt-grand-masters-palace — Grand Master's Palace — 2026-11-25
@@ -246,7 +246,7 @@
 - Depth 8.5: less extensive than Belvedere.
 - Categories: architecture:9.2,history:9.4,culture:9.1. Overall 87.55/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: [Identity/context reference](https://heritagemalta.mt/mt/explore/grand-masters-palace/) — search excerpt inspected 2026-11-25; limited scope, not all claims. 
+- Evidence: [Identity/context reference](https://heritagemalta.mt/mt/explore/grand-masters-palace/) — search excerpt inspected 2026-11-25; limited scope, not all claims.
 - Remaining gaps: exact location except UNESCO points, claim-level verification, current access and field-specific peer comparisons. Shared ladders may mix types.
 
 ## sight-mt-gozo-cittadella — Gozo Cittadella — 2026-11-25
@@ -265,7 +265,7 @@
 - Depth 8.6: smaller than Valletta and no separate museum interiors inherited.
 - Categories: architecture:9.2,history:9.3,photography:9.3. Overall 88.75/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: [Identity/context reference](https://visitgozo.com/places/cittadella/) — search excerpt inspected 2026-11-25; limited scope, not all claims. 
+- Evidence: [Identity/context reference](https://visitgozo.com/places/cittadella/) — search excerpt inspected 2026-11-25; limited scope, not all claims.
 - Remaining gaps: exact location except UNESCO points, claim-level verification, current access and field-specific peer comparisons. Shared ladders may mix types.
 
 ## sight-mt-national-museum-of-archaeology — National Museum of Archaeology — 2026-11-25
@@ -284,7 +284,7 @@
 - Depth 8.5: smaller collection breadth than Kunsthistorisches.
 - Categories: history:9.4,culture:9.2. Overall 87.45/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: [Identity/context reference](https://heritagemalta.mt/explore/national-museum-of-archaeology/) — search excerpt inspected 2026-11-25; limited scope, not all claims. 
+- Evidence: [Identity/context reference](https://heritagemalta.mt/explore/national-museum-of-archaeology/) — search excerpt inspected 2026-11-25; limited scope, not all claims.
 - Remaining gaps: exact location except UNESCO points, claim-level verification, current access and field-specific peer comparisons. Shared ladders may mix types.
 
 ## sight-mt-st-pauls-catacombs — St Paul's Catacombs — 2026-11-25
@@ -303,7 +303,7 @@
 - Depth 8.5: larger than individual burial chambers but not Hypogeum rarity.
 - Categories: history:9.3,culture:9.0. Overall 87.15/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: [Identity/context reference](https://heritagemalta.mt/explore/st-pauls-catacombs/) — search excerpt inspected 2026-11-25; limited scope, not all claims. 
+- Evidence: [Identity/context reference](https://heritagemalta.mt/explore/st-pauls-catacombs/) — search excerpt inspected 2026-11-25; limited scope, not all claims.
 - Remaining gaps: exact location except UNESCO points, claim-level verification, current access and field-specific peer comparisons. Shared ladders may mix types.
 
 ## sight-mt-domvs-romana — Domvs Romana — 2026-11-25
@@ -322,7 +322,7 @@
 - Depth 7.6: bounded site.
 - Categories: history:9.0,architecture:8.6. Overall 81.85/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: [Identity/context reference](https://heritagemalta.mt/explore/domvs-romana/) — search excerpt inspected 2026-11-25; limited scope, not all claims. 
+- Evidence: [Identity/context reference](https://heritagemalta.mt/explore/domvs-romana/) — search excerpt inspected 2026-11-25; limited scope, not all claims.
 - Remaining gaps: exact location except UNESCO points, claim-level verification, current access and field-specific peer comparisons. Shared ladders may mix types.
 
 ## sight-mt-inquisitors-palace — Inquisitor's Palace — 2026-11-25
@@ -341,7 +341,7 @@
 - Depth 8.0: one palace museum.
 - Categories: history:9.1,culture:8.9. Overall 83.30/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: [Identity/context reference](https://heritagemalta.mt/explore/the-inquisitors-palace/) — search excerpt inspected 2026-11-25; limited scope, not all claims. 
+- Evidence: [Identity/context reference](https://heritagemalta.mt/explore/the-inquisitors-palace/) — search excerpt inspected 2026-11-25; limited scope, not all claims.
 - Remaining gaps: exact location except UNESCO points, claim-level verification, current access and field-specific peer comparisons. Shared ladders may mix types.
 
 ## sight-mt-muza-national-community-art-museum — MUŻA National Community Art Museum — 2026-11-25
@@ -360,7 +360,7 @@
 - Depth 8.3: smaller than Prague national museum.
 - Categories: culture:8.9,history:8.7. Overall 82.20/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: Exact-site corroboration not completed. 
+- Evidence: Exact-site corroboration not completed.
 - Remaining gaps: exact location except UNESCO points, claim-level verification, current access and field-specific peer comparisons. Shared ladders may mix types.
 
 ## sight-mt-mosta-rotunda — Mosta Rotunda — 2026-11-25
@@ -379,7 +379,7 @@
 - Depth 7.7: single church below St Vitus in breadth.
 - Categories: architecture:9.2,history:9.0. Overall 85.70/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: Exact-site corroboration not completed. 
+- Evidence: Exact-site corroboration not completed.
 - Remaining gaps: exact location except UNESCO points, claim-level verification, current access and field-specific peer comparisons. Shared ladders may mix types.
 
 ## sight-mt-ta-pinu-sanctuary — Ta' Pinu Sanctuary — 2026-11-25
@@ -398,7 +398,7 @@
 - Depth 7.7: small circuit relative to major cathedrals.
 - Categories: architecture:9.0,culture:9.0,photography:9.0. Overall 84.15/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: [Identity/context reference](https://visitgozo.com/experience/hiking/) — search excerpt inspected 2026-11-25; limited scope, not all claims. 
+- Evidence: [Identity/context reference](https://visitgozo.com/experience/hiking/) — search excerpt inspected 2026-11-25; limited scope, not all claims.
 - Remaining gaps: exact location except UNESCO points, claim-level verification, current access and field-specific peer comparisons. Shared ladders may mix types.
 
 ## sight-mt-upper-barrakka-gardens — Upper Barrakka Gardens — 2026-11-25
@@ -417,7 +417,7 @@
 - Depth 7.2: single terrace not entire harbour.
 - Categories: photography:9.3,relaxation:8.8. Overall 82.45/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: Exact-site corroboration not completed. 
+- Evidence: Exact-site corroboration not completed.
 - Remaining gaps: exact location except UNESCO points, claim-level verification, current access and field-specific peer comparisons. Shared ladders may mix types.
 
 ## sight-mt-gardjola-gardens — Gardjola Gardens — 2026-11-25
@@ -436,7 +436,7 @@
 - Depth 6.8: smaller than Barrakka.
 - Categories: photography:9.1,relaxation:8.5. Overall 79.50/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: Exact-site corroboration not completed. 
+- Evidence: Exact-site corroboration not completed.
 - Remaining gaps: exact location except UNESCO points, claim-level verification, current access and field-specific peer comparisons. Shared ladders may mix types.
 
 ## sight-mt-dingli-cliffs — Dingli Cliffs — 2026-11-25
@@ -455,7 +455,7 @@
 - Depth 8.2: coastline stretch rather than whole island.
 - Categories: nature:9.1,photography:9.3. Overall 83.35/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: [Identity/context reference](https://malta.com/places) — search excerpt inspected 2026-11-25; limited scope, not all claims. 
+- Evidence: [Identity/context reference](https://malta.com/places) — search excerpt inspected 2026-11-25; limited scope, not all claims.
 - Remaining gaps: exact location except UNESCO points, claim-level verification, current access and field-specific peer comparisons. Shared ladders may mix types.
 
 ## sight-mt-blue-lagoon-comino — Blue Lagoon (Comino) — 2026-11-25
@@ -474,7 +474,7 @@
 - Depth 7.9: one lagoon not entire island.
 - Categories: beaches:9.3,photography:9.4,nature:9.1. Overall 83.60/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: [Identity/context reference](https://www.visitmalta.com/en/experience-gozo/) — search excerpt inspected 2026-11-25; limited scope, not all claims. 
+- Evidence: [Identity/context reference](https://www.visitmalta.com/en/experience-gozo/) — search excerpt inspected 2026-11-25; limited scope, not all claims.
 - Remaining gaps: exact location except UNESCO points, claim-level verification, current access and field-specific peer comparisons. Shared ladders may mix types.
 
 ## sight-mt-blue-grotto — Blue Grotto — 2026-11-25
@@ -493,7 +493,7 @@
 - Depth 7.8: bounded marine cave group.
 - Categories: nature:9.2,photography:9.3. Overall 83.60/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: [Identity/context reference](https://malta.com/places) — search excerpt inspected 2026-11-25; limited scope, not all claims. 
+- Evidence: [Identity/context reference](https://malta.com/places) — search excerpt inspected 2026-11-25; limited scope, not all claims.
 - Remaining gaps: exact location except UNESCO points, claim-level verification, current access and field-specific peer comparisons. Shared ladders may mix types.
 
 ## sight-mt-dwejra-inland-sea — Dwejra Inland Sea — 2026-11-25
@@ -512,7 +512,7 @@
 - Depth 7.8: lagoon only and no Azure Window score.
 - Categories: nature:9.0,photography:9.1. Overall 82.90/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: [Identity/context reference](https://visitgozo.com/places/dwejra/) — search excerpt inspected 2026-11-25; limited scope, not all claims. 
+- Evidence: [Identity/context reference](https://visitgozo.com/places/dwejra/) — search excerpt inspected 2026-11-25; limited scope, not all claims.
 - Remaining gaps: exact location except UNESCO points, claim-level verification, current access and field-specific peer comparisons. Shared ladders may mix types.
 
 ## sight-mt-dwejra-blue-hole — Dwejra Blue Hole — 2026-11-25
@@ -531,7 +531,7 @@
 - Depth 7.8: single diving site distinct from Inland Sea.
 - Categories: nature:9.1,adventure:9.2. Overall 83.85/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: [Identity/context reference](https://visitgozo.com/experience/watersports/) — search excerpt inspected 2026-11-25; limited scope, not all claims. 
+- Evidence: [Identity/context reference](https://visitgozo.com/experience/watersports/) — search excerpt inspected 2026-11-25; limited scope, not all claims.
 - Remaining gaps: exact location except UNESCO points, claim-level verification, current access and field-specific peer comparisons. Shared ladders may mix types.
 
 ## sight-mt-ta-cenc-and-sanap-cliffs — Ta' Ċenċ and Sanap Cliffs — 2026-11-25
@@ -550,7 +550,7 @@
 - Depth 8.2: defined cliff stretch.
 - Categories: nature:9.1,photography:9.2. Overall 82.25/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: [Identity/context reference](https://visitgozo.com/experience/hiking/) — search excerpt inspected 2026-11-25; limited scope, not all claims. 
+- Evidence: [Identity/context reference](https://visitgozo.com/experience/hiking/) — search excerpt inspected 2026-11-25; limited scope, not all claims.
 - Remaining gaps: exact location except UNESCO points, claim-level verification, current access and field-specific peer comparisons. Shared ladders may mix types.
 
 ## sight-mt-ramla-bay — Ramla Bay — 2026-11-25
@@ -569,7 +569,7 @@
 - Depth 8.0: bounded beach.
 - Categories: beaches:9.2,relaxation:9.0,photography:8.9. Overall 80.65/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: [Identity/context reference](https://visitgozo.com/places/ramla-bay/) — search excerpt inspected 2026-11-25; limited scope, not all claims. 
+- Evidence: [Identity/context reference](https://visitgozo.com/places/ramla-bay/) — search excerpt inspected 2026-11-25; limited scope, not all claims.
 - Remaining gaps: exact location except UNESCO points, claim-level verification, current access and field-specific peer comparisons. Shared ladders may mix types.
 
 ## sight-mt-golden-bay — Golden Bay — 2026-11-25
@@ -588,7 +588,7 @@
 - Depth 7.8: single beach.
 - Categories: beaches:9.0,relaxation:8.9. Overall 78.50/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: [Identity/context reference](https://malta.com/places) — search excerpt inspected 2026-11-25; limited scope, not all claims. 
+- Evidence: [Identity/context reference](https://malta.com/places) — search excerpt inspected 2026-11-25; limited scope, not all claims.
 - Remaining gaps: exact location except UNESCO points, claim-level verification, current access and field-specific peer comparisons. Shared ladders may mix types.
 
 ## sight-mt-st-peters-pool — St Peter's Pool — 2026-11-25
@@ -607,7 +607,7 @@
 - Depth 7.3: small inlet.
 - Categories: nature:8.9,beaches:8.7,photography:9.0. Overall 79.05/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: [Identity/context reference](https://www.visitmalta.com/en/experience-the-sea/) — search excerpt inspected 2026-11-25; limited scope, not all claims. 
+- Evidence: [Identity/context reference](https://www.visitmalta.com/en/experience-the-sea/) — search excerpt inspected 2026-11-25; limited scope, not all claims.
 - Remaining gaps: exact location except UNESCO points, claim-level verification, current access and field-specific peer comparisons. Shared ladders may mix types.
 
 ## sight-mt-xlendi-bay — Xlendi Bay — 2026-11-25
@@ -626,7 +626,7 @@
 - Depth 7.9: bay rather than whole village.
 - Categories: nature:8.8,photography:8.9,relaxation:8.9. Overall 80.00/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: [Identity/context reference](https://visitgozo.com/experience/watersports/) — search excerpt inspected 2026-11-25; limited scope, not all claims. 
+- Evidence: [Identity/context reference](https://visitgozo.com/experience/watersports/) — search excerpt inspected 2026-11-25; limited scope, not all claims.
 - Remaining gaps: exact location except UNESCO points, claim-level verification, current access and field-specific peer comparisons. Shared ladders may mix types.
 
 ## sight-mt-marsalforn-salt-pans — Marsalforn Salt Pans — 2026-11-25
@@ -645,7 +645,7 @@
 - Depth 7.7: no access to working pans assumed.
 - Categories: photography:9.0,culture:8.8. Overall 82.00/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: Exact-site corroboration not completed. 
+- Evidence: Exact-site corroboration not completed.
 - Remaining gaps: exact location except UNESCO points, claim-level verification, current access and field-specific peer comparisons. Shared ladders may mix types.
 
 ## sight-mt-ghar-dalam-cave-and-museum — Għar Dalam Cave and Museum — 2026-11-25
@@ -664,7 +664,7 @@
 - Depth 7.7: bounded circuit.
 - Categories: history:9.1,nature:8.8. Overall 82.80/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: Exact-site corroboration not completed. 
+- Evidence: Exact-site corroboration not completed.
 - Remaining gaps: exact location except UNESCO points, claim-level verification, current access and field-specific peer comparisons. Shared ladders may mix types.
 
 ## sight-mt-ghadira-bay — Għadira Bay — 2026-11-25
@@ -683,7 +683,7 @@
 - Depth 7.8: one bay.
 - Categories: beaches:8.9,family:8.9,relaxation:8.8. Overall 76.95/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: Exact-site corroboration not completed. 
+- Evidence: Exact-site corroboration not completed.
 - Remaining gaps: exact location except UNESCO points, claim-level verification, current access and field-specific peer comparisons. Shared ladders may mix types.
 
 ## sight-mt-popeye-village — Popeye Village — 2026-11-25
@@ -702,5 +702,5 @@
 - Depth 7.7: one compact set not authentic historic town.
 - Categories: family:8.9,photography:9.0. Overall 79.50/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: [Identity/context reference](https://malta.com/places) — search excerpt inspected 2026-11-25; limited scope, not all claims. 
+- Evidence: [Identity/context reference](https://malta.com/places) — search excerpt inspected 2026-11-25; limited scope, not all claims.
 - Remaining gaps: exact location except UNESCO points, claim-level verification, current access and field-specific peer comparisons. Shared ladders may mix types.
