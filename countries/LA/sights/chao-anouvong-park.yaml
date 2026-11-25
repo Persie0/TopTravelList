@@ -1,0 +1,15 @@
+id: sight-la-chao-anouvong-park
+name: "Chao Anouvong Park"
+location:
+  country_code: LA
+  latitude: 17.9619
+  longitude: 102.606
+scores:
+  impact: 7.3
+  uniqueness: 7.1
+  significance: 7.2
+  experience: 8.0
+  depth: 7.4
+  categories:
+    relaxation: 8.4
+    history: 7.9

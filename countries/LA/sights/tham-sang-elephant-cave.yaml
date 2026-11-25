@@ -1,0 +1,15 @@
+id: sight-la-tham-sang-elephant-cave
+name: "Tham Sang Elephant Cave"
+location:
+  country_code: LA
+  latitude: 19.009
+  longitude: 102.427
+scores:
+  impact: 7.1
+  uniqueness: 7.6
+  significance: 7.4
+  experience: 7.7
+  depth: 6.6
+  categories:
+    culture: 8.2
+    nature: 7.9

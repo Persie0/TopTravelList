@@ -648,25 +648,6 @@
 - Evidence: [Tourism Laos regional inventory](https://www.tourismlaos.org/central-provinces/khammouane-province/), search excerpts retrieved 2026-11-25 for regional context; not comprehensive exact-settlement verification.
 - Remaining gaps: exact coordinates, settlement boundaries and independent verification of specific claims; shared peer ladders do not substitute complete individual comparative research.
 
-## city-la-ban-khoun-kham — Ban Khoun Kham — 2026-11-25
-
-- [YAML](../../../countries/LA/cities/ban-khoun-kham.yaml) · Action: new · **source-linked-unverified**.
-- Location: representative approximate (18.1830, 104.5480); exact independent location check pending.
-- Worldwide peers (I/U/S/E/D; current ranking pages):
-  - [Salzburg (AT)](../../../countries/AT/cities/salzburg.yaml) — 9.0 / 8.9 / 9.0 / 8.8 / 8.5 (88.95/100); historic small city upper benchmark.
-  - [Chiang Rai (TH)](../../../countries/TH/cities/chiang-rai.yaml) — 8.1 / 8.3 / 8.3 / 8.5 / 8.3 (82.70/100); regional urban culture.
-  - [Taiping (MY)](../../../countries/MY/cities/taiping.yaml) — 8.0 / 8.2 / 8.1 / 8.4 / 8.1 (81.40/100); regional town heritage.
-  - [Jerantut (MY)](../../../countries/MY/cities/jerantut.yaml) — 6.3 / 6.5 / 6.4 / 7.0 / 6.6 (65.05/100); ordinary inland gateway.
-- Impact 6.4: Market settlement in limestone region.
-- Uniqueness 6.7: modest regional character.
-- Significance 6.3: local commercial history.
-- Experience 7.0: village services and food.
-- Depth 6.5: cave and viewpoint scores separate.
-- Categories: food:7.3. Overall: 65.55/100.
-- High-score challenge: Not applicable. No approved 10.
-- Evidence: [Tourism Laos regional inventory](https://www.tourismlaos.org/central-provinces/khammouane-province/), search excerpts retrieved 2026-11-25 for regional context; not comprehensive exact-settlement verification.
-- Remaining gaps: exact coordinates, settlement boundaries and independent verification of specific claims; shared peer ladders do not substitute complete individual comparative research.
-
 ## city-la-salavan — Salavan — 2026-11-25
 
 - [YAML](../../../countries/LA/cities/salavan.yaml) · Action: new · **source-linked-unverified**.

@@ -1,0 +1,16 @@
+id: sight-la-pha-ngern-viewpoint
+name: "Pha Ngern Viewpoint"
+location:
+  country_code: LA
+  latitude: 18.928
+  longitude: 102.41
+scores:
+  impact: 8.7
+  uniqueness: 8.4
+  significance: 6.6
+  experience: 8.7
+  depth: 7.5
+  categories:
+    photography: 9.2
+    nature: 8.9
+    adventure: 8.8

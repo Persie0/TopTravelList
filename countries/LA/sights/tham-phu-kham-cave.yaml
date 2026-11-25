@@ -1,0 +1,16 @@
+id: sight-la-tham-phu-kham-cave
+name: "Tham Phu Kham Cave"
+location:
+  country_code: LA
+  latitude: 18.929
+  longitude: 102.372
+scores:
+  impact: 8.1
+  uniqueness: 8.4
+  significance: 7.7
+  experience: 8.3
+  depth: 7.6
+  categories:
+    nature: 8.6
+    culture: 8.5
+    adventure: 8.6

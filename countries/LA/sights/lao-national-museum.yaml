@@ -1,0 +1,15 @@
+id: sight-la-lao-national-museum
+name: "Lao National Museum"
+location:
+  country_code: LA
+  latitude: 17.995
+  longitude: 102.63
+scores:
+  impact: 7.6
+  uniqueness: 7.7
+  significance: 8.3
+  experience: 8.0
+  depth: 8.0
+  categories:
+    history: 8.8
+    culture: 8.6

@@ -1,0 +1,16 @@
+id: sight-la-wat-visoun
+name: "Wat Visoun"
+location:
+  country_code: LA
+  latitude: 19.8859
+  longitude: 102.1373
+scores:
+  impact: 8.0
+  uniqueness: 8.3
+  significance: 8.5
+  experience: 8.2
+  depth: 7.5
+  categories:
+    architecture: 8.7
+    history: 8.8
+    culture: 8.7

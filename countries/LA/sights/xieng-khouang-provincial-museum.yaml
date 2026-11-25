@@ -1,0 +1,15 @@
+id: sight-la-xieng-khouang-provincial-museum
+name: "Xieng Khouang Provincial Museum"
+location:
+  country_code: LA
+  latitude: 19.451
+  longitude: 103.184
+scores:
+  impact: 7.6
+  uniqueness: 8.0
+  significance: 8.4
+  experience: 8.1
+  depth: 7.8
+  categories:
+    history: 8.9
+    culture: 8.6

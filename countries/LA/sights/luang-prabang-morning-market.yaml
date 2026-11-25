@@ -1,0 +1,15 @@
+id: sight-la-luang-prabang-morning-market
+name: "Luang Prabang Morning Market"
+location:
+  country_code: LA
+  latitude: 19.8897
+  longitude: 102.134
+scores:
+  impact: 7.7
+  uniqueness: 8.0
+  significance: 7.4
+  experience: 8.5
+  depth: 7.6
+  categories:
+    food: 8.8
+    culture: 8.6

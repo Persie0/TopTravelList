@@ -1,0 +1,15 @@
+id: sight-la-tham-ting-lower-cave
+name: "Tham Ting Lower Cave"
+location:
+  country_code: LA
+  latitude: 20.0525
+  longitude: 102.2082
+scores:
+  impact: 8.2
+  uniqueness: 8.6
+  significance: 8.4
+  experience: 8.3
+  depth: 7.0
+  categories:
+    culture: 8.9
+    photography: 8.7

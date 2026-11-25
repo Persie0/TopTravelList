@@ -1,0 +1,17 @@
+id: sight-la-nam-ha-national-protected-area
+name: "Nam Ha National Protected Area"
+location:
+  country_code: LA
+  latitude: 20.86
+  longitude: 101.25
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 8.5
+  experience: 8.8
+  depth: 8.8
+  categories:
+    nature: 9.2
+    adventure: 9.2
+    wildlife: 8.9
+    culture: 8.6

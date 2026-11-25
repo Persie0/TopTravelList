@@ -1,0 +1,16 @@
+id: sight-la-nam-nern-river-night-safari
+name: "Nam Nern River Night Safari"
+location:
+  country_code: LA
+  latitude: 20.1
+  longitude: 103.35
+scores:
+  impact: 8.4
+  uniqueness: 8.7
+  significance: 8.2
+  experience: 8.7
+  depth: 8.0
+  categories:
+    wildlife: 9.0
+    adventure: 8.9
+    nature: 8.8

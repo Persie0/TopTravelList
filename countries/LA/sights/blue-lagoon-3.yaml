@@ -1,0 +1,15 @@
+id: sight-la-blue-lagoon-3
+name: "Blue Lagoon 3"
+location:
+  country_code: LA
+  latitude: 18.94
+  longitude: 102.347
+scores:
+  impact: 8.0
+  uniqueness: 7.7
+  significance: 6.2
+  experience: 8.6
+  depth: 7.2
+  categories:
+    relaxation: 8.8
+    nature: 8.4

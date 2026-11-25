@@ -1,0 +1,15 @@
+id: sight-la-nam-dee-waterfall
+name: "Nam Dee Waterfall"
+location:
+  country_code: LA
+  latitude: 20.985
+  longitude: 101.43
+scores:
+  impact: 7.5
+  uniqueness: 7.5
+  significance: 6.5
+  experience: 8.0
+  depth: 7.2
+  categories:
+    nature: 8.3
+    relaxation: 8.1

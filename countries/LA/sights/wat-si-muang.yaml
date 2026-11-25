@@ -1,0 +1,15 @@
+id: sight-la-wat-si-muang
+name: "Wat Si Muang"
+location:
+  country_code: LA
+  latitude: 17.9572
+  longitude: 102.6195
+scores:
+  impact: 7.9
+  uniqueness: 8.3
+  significance: 8.4
+  experience: 8.3
+  depth: 7.4
+  categories:
+    culture: 9.0
+    history: 8.7

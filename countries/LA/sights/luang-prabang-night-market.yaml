@@ -1,0 +1,15 @@
+id: sight-la-luang-prabang-night-market
+name: "Luang Prabang Night Market"
+location:
+  country_code: LA
+  latitude: 19.8901
+  longitude: 102.1349
+scores:
+  impact: 7.9
+  uniqueness: 8.1
+  significance: 7.5
+  experience: 8.7
+  depth: 8.1
+  categories:
+    culture: 8.7
+    food: 8.6

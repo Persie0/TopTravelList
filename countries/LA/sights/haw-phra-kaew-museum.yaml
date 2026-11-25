@@ -1,0 +1,16 @@
+id: sight-la-haw-phra-kaew-museum
+name: "Haw Phra Kaew Museum"
+location:
+  country_code: LA
+  latitude: 17.9625
+  longitude: 102.6121
+scores:
+  impact: 8.2
+  uniqueness: 8.5
+  significance: 8.8
+  experience: 8.4
+  depth: 7.7
+  categories:
+    culture: 9.0
+    history: 9.1
+    architecture: 8.8

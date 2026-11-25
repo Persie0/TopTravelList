@@ -1,0 +1,16 @@
+id: sight-la-wat-xieng-thong
+name: "Wat Xieng Thong"
+location:
+  country_code: LA
+  latitude: 19.8975
+  longitude: 102.143
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 9.2
+  experience: 8.9
+  depth: 8.3
+  categories:
+    architecture: 9.4
+    culture: 9.3
+    history: 9.3
