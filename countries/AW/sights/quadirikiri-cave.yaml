@@ -1,0 +1,15 @@
+id: sight-aw-quadirikiri-cave
+name: "Quadirikiri Cave"
+location:
+  country_code: AW
+  latitude: 12.481
+  longitude: -69.905
+scores:
+  impact: 8.5
+  uniqueness: 8.4
+  significance: 7.9
+  experience: 8.4
+  depth: 7.5
+  categories:
+    nature: 8.7
+    photography: 8.9
