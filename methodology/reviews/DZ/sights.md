@@ -268,43 +268,67 @@
 - Evidence: [source context](https://whc.unesco.org/en/statesparties/dz/) (consulted 2026-11-25; country listing confirms designation only). Not full independent claim-level verification.
 - Remaining gaps: precise GPS where unchecked, individual facts and current permitted access, component scope and all five dimensions.
 
-## sight-dz-el-kala-national-park — El Kala National Park — 2026-11-25
+## sight-dz-el-kala-national-park — El Kala National Park — 2026-11-26
 
-- [YAML](../../../countries/DZ/sights/el-kala-national-park.yaml) · Action: new · **unassessed**.
-- Scope: coastal protected wetland and forest. GPS 36.86, 8.43: approximate editorial reference, independent verification pending.
-- Worldwide peers (I/U/S/E/D):
-  - [Wadi Rum Protected Area (JO)](../../../countries/JO/sights/wadi-rum-protected-area.yaml) — 9.8 / 9.7 / 9.4 / 9.6 / 9.5; major desert landscape; future comparison only; visitor scope unresolved.
-  - [Mount Huangshan (CN)](../../../countries/CN/sights/mount-huangshan.yaml) — 9.9 / 9.9 / 9.6 / 9.8 / 9.3; world-leading rocky mountain scenery; future comparison only; visitor scope unresolved.
-  - [Black River Gorges National Park (MU)](../../../countries/MU/sights/black-river-gorges-national-park.yaml) — 9.0 / 8.9 / 8.8 / 8.9 / 9.0; bounded protected landscape; future comparison only; visitor scope unresolved.
-  - [Pedra de Lume Salt Crater (CV)](../../../countries/CV/sights/pedra-de-lume-salt-crater.yaml) — 8.5 / 9.1 / 7.7 / 8.4 / 7.3; smaller geological landscape; future comparison only; visitor scope unresolved.
-- Impact null: coastal protected wetland and forest.
-- Uniqueness null: visitor route research needed.
-- Significance null: tentative property.
-- Experience null: access and seasonal visits not established.
-- Depth null: park extent unresolved.
-- Categories: none assessed. Overall: unranked.
-- High-score challenge: no 9.5+ fields. No approved 10.
-- Evidence: [source context](https://whc.unesco.org/en/statesparties/dz/) (consulted 2026-11-25; country listing confirms designation only). Not full independent claim-level verification.
-- Remaining gaps: precise GPS where unchecked, individual facts and current permitted access, component scope and all five dimensions.
+- YAML: [source](../../../countries/DZ/sights/el-kala-national-park.yaml)
+- Action: rescore
+- Precise subject: National park and its wetlands, forest, dune and marine habitats; public visitor extent not established.
+- Location check: 36.644167, 8.286944; representative point, not entrance.
+- Evidence status: **unassessed**
+- Sources (2026-11-26): Algerian tentative submission https://whc.unesco.org/en/tentativelists/6836/ (opened) identifies varied Mediterranean habitats, threatened fauna and internationally important wetlands. Published point N36 38 39 E8 17 13 converted to decimal. UNESCO biosphere profile https://www.unesco.org/en/mab/el-kala corroborates lake, forest and marine ecosystems. https://national-parks.org/algeria/el-kala-national-park/ indexed excerpt mentions recreation, direct retrieval returned 403; authorized route scope remains unverified.
+- Missing facts: current visitor conditions and independent claim-level verification.
 
-## sight-dz-djurdjura-national-park — Djurdjura National Park — 2026-11-25
+### Worldwide peer comparisons
+- [suncheon-bay-wetland-reserve (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml): 8.9/9.0/9.0/9.1/8.6; established wetland observation and interpreted walks.
+- [neusiedler-see-seewinkel-national-park (AT)](../../../countries/AT/sights/neusiedler-see-seewinkel-national-park.yaml): 8.5/8.8/9.2/8.7/8.8; similar important wetland ecology, mapped visitor routes.
+- [lake-manyara-national-park (TZ)](../../../countries/TZ/sights/lake-manyara-national-park.yaml): 8.9/9.0/9.1/8.8/8.6; more dramatic escarpment and safari experience.
+- [lake-elementaita (KE)](../../../countries/KE/sights/lake-elementaita.yaml): 8.6/8.9/9.2/8.5/8.3; comparable bird habitat but narrower lake visitor scope.
 
-- [YAML](../../../countries/DZ/sights/djurdjura-national-park.yaml) · Action: new · **unassessed**.
-- Scope: mountain protected landscape. GPS 36.46, 4.13: approximate editorial reference, independent verification pending.
-- Worldwide peers (I/U/S/E/D):
-  - [Wadi Rum Protected Area (JO)](../../../countries/JO/sights/wadi-rum-protected-area.yaml) — 9.8 / 9.7 / 9.4 / 9.6 / 9.5; major desert landscape; future comparison only; visitor scope unresolved.
-  - [Mount Huangshan (CN)](../../../countries/CN/sights/mount-huangshan.yaml) — 9.9 / 9.9 / 9.6 / 9.8 / 9.3; world-leading rocky mountain scenery; future comparison only; visitor scope unresolved.
-  - [Black River Gorges National Park (MU)](../../../countries/MU/sights/black-river-gorges-national-park.yaml) — 9.0 / 8.9 / 8.8 / 8.9 / 9.0; bounded protected landscape; future comparison only; visitor scope unresolved.
-  - [Pedra de Lume Salt Crater (CV)](../../../countries/CV/sights/pedra-de-lume-salt-crater.yaml) — 8.5 / 9.1 / 7.7 / 8.4 / 7.3; smaller geological landscape; future comparison only; visitor scope unresolved.
-- Impact null: mountain protected landscape.
-- Uniqueness null: site-specific evidence incomplete.
-- Significance null: tentative property.
-- Experience null: trails and seasonal access not established.
-- Depth null: park scope unresolved.
-- Categories: none assessed. Overall: unranked.
-- High-score challenge: no 9.5+ fields. No approved 10.
-- Evidence: [source context](https://whc.unesco.org/en/statesparties/dz/) (consulted 2026-11-25; country listing confirms designation only). Not full independent claim-level verification.
-- Remaining gaps: precise GPS where unchecked, individual facts and current permitted access, component scope and all five dimensions.
+### Scoring decisions
+- Impact: 8.6 — Varied forest, wetland and coastal landscapes documented by nomination; approximate scenic assessment.
+- Uniqueness: 8.9 — Distinctive connected Mediterranean wetland and coastal ecosystems.
+- Significance: 9.2 — Internationally important wetlands and threatened species habitat.
+- Experience: null — Authorized visitor scope insufficiently established.
+- Depth: null — Accessible route breadth not established.
+- Applicable categories: nature 9.2, wildlife 9.1.
+- Overall: unranked.
+- High-score challenge: no 9.5+ field or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Partial assessment; no total.
+- Earlier decision: [previous incomplete assessment](history-review-2026-11-26.md).
+- Verification still needed: precise locations and current access; independent claim-level verification.
+
+
+## sight-dz-djurdjura-national-park — Djurdjura National Park — 2026-11-26
+
+- YAML: [source](../../../countries/DZ/sights/djurdjura-national-park.yaml)
+- Action: rescore
+- Precise subject: National park and authorized marked hiking sectors; no restricted terrain or guaranteed wildlife encounters.
+- Location check: 36.468889, 4.257222; representative point, not entrance.
+- Evidence status: **source-linked-unverified**
+- Sources (2026-11-26): Algerian tentative submission https://whc.unesco.org/en/tentativelists/6837/ describes karst mountain ecosystems, highest Tell Atlas summit and endemic species; published point N36 28 08 E4 15 26 converted to decimal. UNESCO biosphere profile https://www.unesco.org/en/mab/djurdjura corroborates protected mountain ecosystem. https://algerie54.dz/parc-national-du-djurdjura-publication-de-la-carte-des-sentiers-de-randonnee-ecotouristique-appel-au-respect-strict-des-consignes (opened, 16 November 2026) reports park authority's publication of authorized trail map and designated camping areas; current route conditions not checked.
+- Missing facts: current visitor conditions and independent claim-level verification.
+
+### Worldwide peer comparisons
+- [hohe-tauern-national-park (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml): 9.4/9.1/9.0/9.5/9.4; greater alpine and glacier scale and established routes.
+- [aoraki-mount-cook-national-park (NZ)](../../../countries/NZ/sights/aoraki-mount-cook-national-park.yaml): 9.4/9.0/8.9/9.1/9.1; greater mountain spectacle and glacial scenery.
+- [rwenzori-mountains-national-park (UG)](../../../countries/UG/sights/rwenzori-mountains-national-park.yaml): 9.4/9.5/9.4/9.1/9.3; rarer equatorial alpine ecology and greater elevation.
+- [kalkalpen-national-park (AT)](../../../countries/AT/sights/kalkalpen-national-park.yaml): 8.7/9.0/9.1/8.6/9.0; more extensive forest wilderness, less prominent karst ridge spectacle.
+
+### Scoring decisions
+- Impact: 8.9 — Dramatic limestone ridges and mountain vistas.
+- Uniqueness: 8.8 — Distinctive Mediterranean karst mountain ecosystem, with international analogues.
+- Significance: 9 — Important endemic and threatened species habitat; tentative rather than inscribed heritage.
+- Experience: 8.7 — Documented authorized trail network, subject to park rules and conditions.
+- Depth: 8.8 — Multiple mapped sectors and designated campsites; narrower than major alpine parks.
+- Applicable categories: nature 9.2, adventure 8.9, photography 9.
+- Overall: 88.55/100.
+- High-score challenge: no 9.5+ field or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide V2 rating.
+- Earlier decision: [previous incomplete assessment](history-review-2026-11-26.md).
+- Verification still needed: precise locations and current access; independent claim-level verification.
+
 
 ## sight-dz-tebessa-archaeological-heritage — Tébessa Archaeological Heritage — 2026-11-25
 
@@ -457,3 +481,39 @@
 - High-score challenge: no 9.5+ fields. No approved 10.
 - Evidence: [source context](https://www.visitalgeria.dz/en/map) (consulted 2026-11-25; destination inventory and identity, not all individual claims). Not full independent claim-level verification.
 - Remaining gaps: precise GPS where unchecked, individual facts and current permitted access, category and peer calibration.
+
+
+## sight-dz-mansourah-ruins — Mansourah Ruins and Minaret — 2026-11-26
+
+- YAML: [source](../../../countries/DZ/sights/mansourah-ruins.yaml)
+- Action: new
+- Precise subject: Surviving Marinid city walls and former mosque/minaret exterior; no credit for climbing the minaret or other Tlemcen sites.
+- Location check: 34.87095, -1.33906; representative point, not entrance.
+- Evidence status: **source-linked-unverified**
+- Sources (2026-11-26): Tlemcen tourism directorate https://dta-tlemcen.dz/catalogue_detail.php?id=51&lg=fr&r=el_mansourah (opened) documents surviving walls and minaret. National Tourism Office https://www.ont.dz/en/about/virtual-tours/ indexed excerpt describes open archaeological site. https://www.routard.com/fr/guide/afrique/algerie/atlas-tellien/tlemcen/ruines-de-la-mansourah describes visit location. Mapcarta https://mapcarta.com/W382530187 (opened) provides representative minaret coordinate; not entrance.
+- Missing facts: current visitor conditions and independent claim-level verification.
+
+### Worldwide peer comparisons
+- [fasil-ghebbi (ET)](../../../countries/ET/sights/fasil-ghebbi.yaml): 9.2/9.3/9.4/9.0/8.7; larger and more intact fortified royal ensemble.
+- [yeha-cultural-heritage (ET)](../../../countries/ET/sights/yeha-cultural-heritage.yaml): 8.4/9.0/9.2/8.0/7.9; more distinctive ancient architectural heritage.
+- [carnuntum-archaeological-park (AT)](../../../countries/AT/sights/carnuntum-archaeological-park.yaml): 8.7/8.9/9.0/8.8/8.4; more extensive interpreted archaeological remains.
+- [adulis-archaeological-site (ER)](../../../countries/ER/sights/adulis-archaeological-site.yaml): 7.5/8.6/9.4/7.8/7.4; greater scientific significance but less monumental visible remains.
+
+### Scoring decisions
+- Impact: 8.3 — Prominent surviving decorated minaret and wall fragments.
+- Uniqueness: 8.5 — Distinctive medieval siege-city remains, not globally unique.
+- Significance: 8.8 — Important regional Marinid architectural and political history.
+- Experience: 8.1 — Documented open archaeological site and exterior viewing.
+- Depth: 7.5 — Focused ruined ensemble with limited surviving fabric.
+- Applicable categories: history 8.9, architecture 8.8, photography 8.6.
+- Overall: 83.40/100.
+- High-score challenge: no 9.5+ field or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide V2 rating.
+- Earlier decision: none.
+- Verification still needed: precise locations and current access; independent claim-level verification.
+
+
+## Heritage inventory recheck — 2026-11-26
+
+UNESCO https://whc.unesco.org/en/statesparties/dz/ (opened) confirms seven inscribed and twelve tentative properties, all represented at property/group level. Serial components and full factual verification remain incomplete. Normal-condition ratings are not current travel advice.
