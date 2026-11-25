@@ -401,3 +401,10 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: No site-specific source checked.
 - Verification still needed: exact GPS, material claim corroboration and ordinary permitted access; narrower field-specific peer comparisons and current score rechecks.
+
+## Follow-up: subject-specific source coverage — 2026-11-25
+
+- [fredrikstad](../../../countries/NO/cities/fredrikstad.yaml): **source-linked-unverified** supersedes editorial-only. [Operator or official tourism source](https://www.visitnorway.com/places-to-go/eastern-norway/fredrikstad/) — Fortified old town, galleries and craft shops; excludes Hvaler islands. Existing score remains provisional; exact GPS and all material claims are not independently verified.
+- [longyearbyen](../../../countries/NO/cities/longyearbyen.yaml): **source-linked-unverified** supersedes editorial-only. [Operator or official tourism source](https://en.visitsvalbard.com/visitor-information/destinations/longyearbyen) — Mining-town heritage and town visitor circuit, not wider polar excursions. Existing score remains provisional; exact GPS and all material claims are not independently verified.
+- [alta](../../../countries/NO/cities/alta.yaml): **source-linked-unverified** supersedes editorial-only. [Operator or official tourism source](https://www.visitnorway.com/places-to-go/northern-norway/alta/) — Town heritage, cathedral and museums; no wilderness inherited. Existing score remains provisional; exact GPS and all material claims are not independently verified.
+- [hammerfest](../../../countries/NO/cities/hammerfest.yaml): **source-linked-unverified** supersedes editorial-only. [Operator or official tourism source](https://www.visitnorway.com/places-to-go/northern-norway/hammerfest/) — Port settlement and local historical attractions; excludes external excursions. Existing score remains provisional; exact GPS and all material claims are not independently verified.
