@@ -1,0 +1,15 @@
+id: sight-mm-pindaya-caves
+name: "Pindaya Caves"
+location:
+  country_code: MM
+  latitude: 20.94
+  longitude: 96.65
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 8.4
+  experience: null
+  depth: null
+  categories:
+    culture: 8.9
+    photography: 8.7
