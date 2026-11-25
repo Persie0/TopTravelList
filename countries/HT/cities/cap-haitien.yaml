@@ -1,0 +1,16 @@
+id: city-ht-cap-haitien
+name: "Cap-Haïtien"
+location:
+  country_code: HT
+  latitude: 19.758
+  longitude: -72.204
+scores:
+  impact: 8.2
+  uniqueness: 8.4
+  significance: 8.7
+  experience: 8.1
+  depth: 8.1
+  categories:
+    history: 9.0
+    architecture: 8.7
+    culture: 8.6

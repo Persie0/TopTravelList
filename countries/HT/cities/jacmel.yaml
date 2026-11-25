@@ -1,0 +1,16 @@
+id: city-ht-jacmel
+name: "Jacmel"
+location:
+  country_code: HT
+  latitude: 18.235
+  longitude: -72.537
+scores:
+  impact: 8.4
+  uniqueness: 8.7
+  significance: 8.4
+  experience: 8.5
+  depth: 8.0
+  categories:
+    culture: 9.1
+    architecture: 8.8
+    photography: 9.0
