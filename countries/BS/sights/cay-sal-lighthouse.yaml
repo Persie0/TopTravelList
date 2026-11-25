@@ -1,0 +1,13 @@
+id: sight-bs-cay-sal-lighthouse
+name: "Cay Sal Lighthouse (Elbow Cay)"
+location:
+  country_code: BS
+  latitude: 23.7
+  longitude: -80.4
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}

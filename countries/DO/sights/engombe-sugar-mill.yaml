@@ -1,0 +1,13 @@
+id: sight-do-engombe-sugar-mill
+name: "Ingenio de Engombe"
+location:
+  country_code: DO
+  latitude: 18.44851
+  longitude: -70.00076
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}

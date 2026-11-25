@@ -1,0 +1,16 @@
+id: sight-ni-maderas-volcano
+name: "Maderas Volcano"
+location:
+  country_code: NI
+  latitude: 11.446
+  longitude: -85.514
+scores:
+  impact: 8.4
+  uniqueness: 8.6
+  significance: 8.3
+  experience: 8.4
+  depth: 8.0
+  categories:
+    nature: 9.1
+    adventure: 9.1
+    photography: 8.8

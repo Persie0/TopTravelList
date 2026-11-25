@@ -1,0 +1,16 @@
+id: city-ru-kazan
+name: "Kazan"
+location:
+  country_code: RU
+  latitude: 55.7963
+  longitude: 49.1088
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 8.8
+  experience: 8.7
+  depth: 8.5
+  categories:
+    history: 9.0
+    architecture: 9.0
+    culture: 9.1

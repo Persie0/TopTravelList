@@ -1,0 +1,16 @@
+id: city-bs-hope-town
+name: "Hope Town"
+location:
+  country_code: BS
+  latitude: 26.537
+  longitude: -76.959
+scores:
+  impact: 8.1
+  uniqueness: 8.4
+  significance: 7.7
+  experience: 8.2
+  depth: 7.0
+  categories:
+    architecture: 8.6
+    photography: 8.9
+    culture: 8.3

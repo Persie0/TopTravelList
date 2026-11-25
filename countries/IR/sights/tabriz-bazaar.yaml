@@ -1,0 +1,16 @@
+id: sight-ir-tabriz-bazaar
+name: "Tabriz Historic Bazaar Complex"
+location:
+  country_code: IR
+  latitude: 38.081
+  longitude: 46.292
+scores:
+  impact: 8.7
+  uniqueness: 9.0
+  significance: 9.0
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.2
+    history: 9.1
+    culture: 9.1

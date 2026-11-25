@@ -1,0 +1,16 @@
+id: sight-bs-thunderball-grotto
+name: "Thunderball Grotto"
+location:
+  country_code: BS
+  latitude: 24.18
+  longitude: -76.449
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 7.8
+  experience: 8.8
+  depth: 7.0
+  categories:
+    adventure: 9.1
+    nature: 8.9
+    photography: 9.1

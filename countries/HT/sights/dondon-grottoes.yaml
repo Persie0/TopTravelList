@@ -1,0 +1,16 @@
+id: sight-ht-dondon-grottoes
+name: "Dondon Grottoes"
+location:
+  country_code: HT
+  latitude: 19.529
+  longitude: -72.24
+scores:
+  impact: 7.8
+  uniqueness: 8.3
+  significance: 8.4
+  experience: 7.7
+  depth: 7.3
+  categories:
+    nature: 8.6
+    history: 8.6
+    adventure: 8.5

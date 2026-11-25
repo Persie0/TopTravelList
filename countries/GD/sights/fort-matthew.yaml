@@ -1,0 +1,15 @@
+id: sight-gd-fort-matthew
+name: "Fort Matthew"
+location:
+  country_code: GD
+  latitude: 12.05
+  longitude: -61.73
+scores:
+  impact: null
+  uniqueness: null
+  significance: 8.5
+  experience: null
+  depth: null
+  categories:
+    history: 9.0
+    architecture: 8.5

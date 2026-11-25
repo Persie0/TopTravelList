@@ -1,0 +1,15 @@
+id: sight-ru-ferapontov
+name: "Ensemble of the Ferapontov Monastery"
+location:
+  country_code: RU
+  latitude: 59.96
+  longitude: 38.57
+scores:
+  impact: 8.5
+  uniqueness: 8.9
+  significance: 9.1
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.2
+    history: 9.2

@@ -1,0 +1,16 @@
+id: sight-do-jaragua-national-park
+name: "Jaragua National Park"
+location:
+  country_code: DO
+  latitude: 17.90
+  longitude: -71.51
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 8.4
+  depth: 8.7
+  categories:
+    nature: 9.3
+    wildlife: 9.2
+    photography: 9.2

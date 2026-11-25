@@ -1,0 +1,16 @@
+id: city-bs-new-plymouth
+name: "New Plymouth (Green Turtle Cay)"
+location:
+  country_code: BS
+  latitude: 26.756
+  longitude: -77.333
+scores:
+  impact: 7.5
+  uniqueness: 8.0
+  significance: 7.6
+  experience: 7.7
+  depth: 6.7
+  categories:
+    architecture: 8.4
+    photography: 8.4
+    culture: 8.0

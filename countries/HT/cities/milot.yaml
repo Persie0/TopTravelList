@@ -1,0 +1,15 @@
+id: city-ht-milot
+name: "Milot"
+location:
+  country_code: HT
+  latitude: 19.608
+  longitude: -72.212
+scores:
+  impact: 6.9
+  uniqueness: 7.3
+  significance: 7.8
+  experience: 7.2
+  depth: 6.1
+  categories:
+    culture: 8.0
+    history: 8.3

@@ -1,0 +1,16 @@
+id: sight-jm-reach-falls
+name: "Reach Falls"
+location:
+  country_code: JM
+  latitude: 18.022
+  longitude: -76.282
+scores:
+  impact: 8.5
+  uniqueness: 8.4
+  significance: 7.4
+  experience: 8.7
+  depth: 7.8
+  categories:
+    nature: 9.0
+    adventure: 9.0
+    photography: 9.0
