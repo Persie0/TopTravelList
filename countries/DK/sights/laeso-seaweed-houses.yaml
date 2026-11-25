@@ -1,0 +1,15 @@
+id: sight-dk-laeso-seaweed-houses
+name: "Læsø Seaweed Houses and Sea-salt Huts (tentative property)"
+location:
+  country_code: DK
+  latitude: 57.26
+  longitude: 11.06
+scores:
+  impact: 7.9
+  uniqueness: 9.0
+  significance: 8.8
+  experience: null
+  depth: null
+  categories:
+    architecture: 9
+    culture: 9
