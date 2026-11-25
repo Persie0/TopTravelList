@@ -3,7 +3,9 @@
 - [Worldwide v2](../../../rules.md) · [Future-country workflow](../../future-country-workflow.md)
 - Initial non-exhaustive inventory; references consulted via pages and search excerpts on 2026-11-25. Scores are provisional editorial assessments, not independently fact-checked. Peer comparisons qualitative, exact peer YAML calibration still pending. Coordinates representative, not entrances. Fiji's one inscribed and three tentative UNESCO properties represented. No access guarantee.
 
-### sight-fj-levuka-historical-port-town — Levuka Historical Port Town — 2026-11-25
+- Current decisions use one canonical heading per destination ID; earlier text and sources are preserved in [review history](history-evidence-followup-2026-11-25.md).
+
+## sight-fj-levuka-historical-port-town — Levuka Historical Port Town — 2026-11-25
 
 - YAML: [source](../../../countries/FJ/sights/levuka-historical-port-town.yaml)
 - Action: new
@@ -16,30 +18,30 @@
   - Town map and small museum interpretation — https://www.heritage.world/sites/levuka-historical-port-town/
 - Missing or uncertain facts: Current conservation and public-building access need checking.
 
-#### Worldwide peer comparisons
+### Worldwide peer comparisons
 - Historic Centre of Salzburg (Austria): far greater architectural scale
 - Hoi An Ancient Town (Vietnam): wider preserved mercantile ensemble
 - Galle Fort (Sri Lanka): more extensive fortified fabric
 - Lapaha Royal Tombs (Tonga): different regional historical heritage
 
-#### Scoring decisions
+### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
-| impact | 8.3 | Coherent forest-backed historic streets |
-| uniqueness | 8.9 | rare preserved Pacific colonial port ensemble |
-| significance | 9.0 | strong regional political and architectural heritage |
-| experience | 8.2 | rewarding focused heritage walks |
-| depth | 8.1 | multiple structures with smaller breadth than major world historic centers |
+| Impact | 8.3 | Coherent forest-backed historic streets |
+| Uniqueness | 8.9 | rare preserved Pacific colonial port ensemble |
+| Significance | 9.0 | strong regional political and architectural heritage |
+| Experience | 8.2 | rewarding focused heritage walks |
+| Depth | 8.1 | multiple structures with smaller breadth than major world historic centers |
 
 - Applicable categories: history: 9.2, architecture: 8.8, culture: 8.8
-- Computed worldwide overall: 85.55/100
+- Overall: 85.55/100
 - High-score challenge: No 9.5+ fields or 90+ total.
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide assessment.
 - Earlier decision: none.
 - Verification still needed: Current conservation and public-building access need checking.
 
-### sight-fj-sigatoka-sand-dunes — Sigatoka Sand Dunes National Park — 2026-11-25
+## sight-fj-sigatoka-sand-dunes — Sigatoka Sand Dunes National Park — 2026-11-25
 
 - YAML: [source](../../../countries/FJ/sights/sigatoka-sand-dunes.yaml)
 - Action: new
@@ -52,30 +54,30 @@
   - Representative west-end dune coordinate — https://bihrmann.com/Travel/FIJ/maps.asp
 - Missing or uncertain facts: Tentative listing, not inscription. Confirm park hours and exact marker.
 
-#### Worldwide peer comparisons
+### Worldwide peer comparisons
 - Namib Sand Sea (Namibia): vastly greater dune scale
 - Dune du Pilat (France): greater single-dune drama
 - K'gari (Australia): wider sand-island ecosystem
 - Ha'amonga 'a Maui (Tonga): different focused Pacific archaeological heritage
 
-#### Scoring decisions
+### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
-| impact | 8.1 | Expansive coastal dunes |
-| uniqueness | 8.1 | unusual combination with early archaeological record |
-| significance | 8.6 | major regional prehistoric significance |
-| experience | 8.0 | guided or permitted coastal walk |
-| depth | 7.5 | several landscape viewpoints and interpretive possibilities |
+| Impact | 8.1 | Expansive coastal dunes |
+| Uniqueness | 8.1 | unusual combination with early archaeological record |
+| Significance | 8.6 | major regional prehistoric significance |
+| Experience | 8.0 | guided or permitted coastal walk |
+| Depth | 7.5 | several landscape viewpoints and interpretive possibilities |
 
 - Applicable categories: nature: 8.3, history: 8.7, photography: 8.4
-- Computed worldwide overall: 81.25/100
+- Overall: 81.25/100
 - High-score challenge: No 9.5+ fields or 90+ total.
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide assessment.
 - Earlier decision: none.
 - Verification still needed: Tentative listing, not inscription. Confirm park hours and exact marker.
 
-### sight-fj-sovi-basin — Sovi Basin — 2026-11-25
+## sight-fj-sovi-basin — Sovi Basin — 2026-11-25
 
 - YAML: [source](../../../countries/FJ/sights/sovi-basin.yaml)
 - Action: new
@@ -88,30 +90,30 @@
   - Representative coordinates — https://www.internationalparks.org/fiji/Sovi%20Basin
 - Missing or uncertain facts: Tentative listing, no assumption of public access.
 
-#### Worldwide peer comparisons
+### Worldwide peer comparisons
 - Taman Negara (Malaysia): much larger documented rainforest
-- Kinabalu Park (Malaysia): richer documented mountain ecology
+- [Kinabalu Park](../../../countries/MY/sights/kinabalu-park.yaml) (Malaysia): richer documented mountain ecology
 - Khao Sok (Thailand): broader demonstrated visitor experience
 - Eua National Park (Tonga): comparable regional island forest
 
-#### Scoring decisions
+### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
-| impact | 8.1 | Extensive intact forest |
-| uniqueness | 8.5 | distinctive endemic island habitats |
-| significance | 9.0 | major national biodiversity conservation importance |
-| experience | — | ordinary authorized visitor experience unverified |
-| depth | — | permitted exploration depth unresolved |
+| Impact | 8.1 | Extensive intact forest |
+| Uniqueness | 8.5 | distinctive endemic island habitats |
+| Significance | 9.0 | major national biodiversity conservation importance |
+| Experience | — | ordinary authorized visitor experience unverified |
+| Depth | — | permitted exploration depth unresolved |
 
 - Applicable categories: nature: 9.0, wildlife: 8.8
-- Computed worldwide overall: unranked
+- Overall: unranked
 - High-score challenge: No 9.5+ fields or 90+ total.
 - Approved 10 registry: none.
 - Final decision: Retain without rank pending sufficient evidence.
 - Earlier decision: none.
 - Verification still needed: Tentative listing, no assumption of public access.
 
-### sight-fj-yaduataba-crested-iguana-sanctuary — Yaduataba Crested Iguana Sanctuary — 2026-11-25
+## sight-fj-yaduataba-crested-iguana-sanctuary — Yaduataba Crested Iguana Sanctuary — 2026-11-25
 
 - YAML: [source](../../../countries/FJ/sights/yaduataba-crested-iguana-sanctuary.yaml)
 - Action: new
@@ -124,30 +126,30 @@
   - Peer-reviewed island population study and rounded island coordinates — https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0073127
 - Missing or uncertain facts: Scientific coordinate is rounded, not a visitor point. No access assumed.
 
-#### Worldwide peer comparisons
+### Worldwide peer comparisons
 - Galapagos National Park (Ecuador): broader evolutionary landscape
 - Komodo National Park (Indonesia): larger reptile-focused ecosystem
 - Cousin Island Special Reserve (Seychelles): comparable small-island conservation
 - Tetepare Island (Solomon Islands): broader documented community ecotourism
 
-#### Scoring decisions
+### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
-| impact | — | Visitor-visible impact unconfirmed |
-| uniqueness | 8.9 | rare dry-forest endemic iguana habitat |
-| significance | 9.1 | important threatened-species conservation |
-| experience | — | ordinary visitor permissions unconfirmed |
-| depth | — | accessible exploration unknown |
+| Impact | — | Visitor-visible impact unconfirmed |
+| Uniqueness | 8.9 | rare dry-forest endemic iguana habitat |
+| Significance | 9.1 | important threatened-species conservation |
+| Experience | — | ordinary visitor permissions unconfirmed |
+| Depth | — | accessible exploration unknown |
 
 - Applicable categories: wildlife: 9.2, nature: 8.6
-- Computed worldwide overall: unranked
+- Overall: unranked
 - High-score challenge: No 9.5+ fields or 90+ total.
 - Approved 10 registry: none.
 - Final decision: Retain without rank pending sufficient evidence.
 - Earlier decision: none.
 - Verification still needed: Scientific coordinate is rounded, not a visitor point. No access assumed.
 
-### sight-fj-rainbow-reef — Rainbow Reef — 2026-11-25
+## sight-fj-rainbow-reef — Rainbow Reef — 2026-11-25
 
 - YAML: [source](../../../countries/FJ/sights/rainbow-reef.yaml)
 - Action: new
@@ -160,30 +162,30 @@
   - Marine encounter and soft coral context — https://www.fiji.travel/things-to-do/diving/diving-fiji
 - Missing or uncertain facts: Representative study coordinate, not navigation. Conditions and access vary.
 
-#### Worldwide peer comparisons
+### Worldwide peer comparisons
 - Great Barrier Reef (Australia): far greater reef scale
 - Raja Ampat (Indonesia): broader marine biodiversity
 - Blue Corner (Palau): concentrated specialist wildlife diving
 - Marovo Lagoon (Solomon Islands): comparable large reef-associated seascape
 
-#### Scoring decisions
+### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
-| impact | 9.2 | Exceptional colored soft-coral walls |
-| uniqueness | 9.1 | distinctive coral concentration but global analogues exist |
-| significance | 8.7 | marine habitat and research value |
-| experience | 9.2 | substantial guided specialist diving |
-| depth | 8.8 | numerous dive environments |
+| Impact | 9.2 | Exceptional colored soft-coral walls |
+| Uniqueness | 9.1 | distinctive coral concentration but global analogues exist |
+| Significance | 8.7 | marine habitat and research value |
+| Experience | 9.2 | substantial guided specialist diving |
+| Depth | 8.8 | numerous dive environments |
 
 - Applicable categories: nature: 9.3, wildlife: 9.2, adventure: 9.3, photography: 9.2
-- Computed worldwide overall: 90.35/100
+- Overall: 90.35/100
 - High-score challenge: Soft coral diversity, visual richness and multiple guided reef sites support independently strong fields; Great Barrier Reef and Raja Ampat remain stronger global scale and biodiversity references. Provisional.
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide assessment.
 - Earlier decision: none.
 - Verification still needed: Representative study coordinate, not navigation. Conditions and access vary.
 
-### sight-fj-great-astrolabe-reef — Great Astrolabe Reef — 2026-11-25
+## sight-fj-great-astrolabe-reef — Great Astrolabe Reef — 2026-11-25
 
 - YAML: [source](../../../countries/FJ/sights/great-astrolabe-reef.yaml)
 - Action: new
@@ -196,30 +198,30 @@
   - Large barrier reef and visitor snorkeling context — https://www.fiji.travel/things-to-do/snorkelling/the-ultimate-fiji-snorkelling-guide
 - Missing or uncertain facts: No guarantees of access, weather or wildlife encounters.
 
-#### Worldwide peer comparisons
+### Worldwide peer comparisons
 - Great Barrier Reef (Australia): far greater reef scale
 - Raja Ampat (Indonesia): broader marine biodiversity
 - Blue Corner (Palau): concentrated specialist wildlife diving
 - Marovo Lagoon (Solomon Islands): comparable large reef-associated seascape
 
-#### Scoring decisions
+### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
-| impact | 9.1 | Extensive coral landscapes |
-| uniqueness | 8.9 | unusually large barrier reef but not globally singular |
-| significance | 9.0 | significant marine ecosystem |
-| experience | 9.0 | diverse guided snorkeling and diving |
-| depth | 9.0 | many reef environments |
+| Impact | 9.1 | Extensive coral landscapes |
+| Uniqueness | 8.9 | unusually large barrier reef but not globally singular |
+| Significance | 9.0 | significant marine ecosystem |
+| Experience | 9.0 | diverse guided snorkeling and diving |
+| Depth | 9.0 | many reef environments |
 
 - Applicable categories: nature: 9.3, wildlife: 9.1, adventure: 9.2
-- Computed worldwide overall: 90.05/100
+- Overall: 90.05/100
 - High-score challenge: Soft coral diversity, visual richness and multiple guided reef sites support independently strong fields; Great Barrier Reef and Raja Ampat remain stronger global scale and biodiversity references. Provisional.
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide assessment.
 - Earlier decision: none.
 - Verification still needed: No guarantees of access, weather or wildlife encounters.
 
-### sight-fj-beqa-lagoon — Beqa Lagoon — 2026-11-25
+## sight-fj-beqa-lagoon — Beqa Lagoon — 2026-11-25
 
 - YAML: [source](../../../countries/FJ/sights/beqa-lagoon.yaml)
 - Action: new
@@ -232,30 +234,30 @@
   - Reserve and guided encounters — https://www.fiji.travel/things-to-do/diving/fiji-shark-diving
 - Missing or uncertain facts: Specialist activities depend on qualification, permissions and conditions.
 
-#### Worldwide peer comparisons
+### Worldwide peer comparisons
 - Great Barrier Reef (Australia): far greater reef scale
 - Raja Ampat (Indonesia): broader marine biodiversity
 - Blue Corner (Palau): concentrated specialist wildlife diving
 - Marovo Lagoon (Solomon Islands): comparable large reef-associated seascape
 
-#### Scoring decisions
+### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
-| impact | 8.9 | Strong coral and wildlife encounters |
-| uniqueness | 8.8 | unusual concentration of guided shark experiences |
-| significance | 8.4 | meaningful local marine conservation context |
-| experience | 9.0 | varied guided diving |
-| depth | 8.6 | multiple reef sites |
+| Impact | 8.9 | Strong coral and wildlife encounters |
+| Uniqueness | 8.8 | unusual concentration of guided shark experiences |
+| Significance | 8.4 | meaningful local marine conservation context |
+| Experience | 9.0 | varied guided diving |
+| Depth | 8.6 | multiple reef sites |
 
 - Applicable categories: nature: 8.9, wildlife: 9.2, adventure: 9.1
-- Computed worldwide overall: 87.60/100
+- Overall: 87.60/100
 - High-score challenge: No 9.5+ fields or 90+ total.
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide assessment.
 - Earlier decision: none.
 - Verification still needed: Specialist activities depend on qualification, permissions and conditions.
 
-### sight-fj-sawa-i-lau-caves — Sawa-i-Lau Caves — 2026-11-25
+## sight-fj-sawa-i-lau-caves — Sawa-i-Lau Caves — 2026-11-25
 
 - YAML: [source](../../../countries/FJ/sights/sawa-i-lau-caves.yaml)
 - Action: new
@@ -268,30 +270,30 @@
   - Local legend and limestone island context — https://www.fiji.travel/places-to-go/yasawa-islands/locations/sawa-i-lau-the-heart-of-yasawa-islands
 - Missing or uncertain facts: Current permission, weather and activity suitability require checking.
 
-#### Worldwide peer comparisons
+### Worldwide peer comparisons
 - Son Doong Cave (Vietnam): vastly larger cave system
 - Blue Grotto (Italy): comparable luminous sea cave
 - To Sua Ocean Trench (Samoa): different dramatic swimming feature
 - Piula Cave Pool (Samoa): smaller cave pool
 
-#### Scoring decisions
+### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
-| impact | 8.8 | Dramatic luminous pools and cave chambers |
-| uniqueness | 8.7 | distinctive marine limestone setting |
-| significance | 7.5 | regional geology and cultural associations |
-| experience | 8.8 | focused guided cave experience |
-| depth | 7.6 | small chamber system relative to large caves |
+| Impact | 8.8 | Dramatic luminous pools and cave chambers |
+| Uniqueness | 8.7 | distinctive marine limestone setting |
+| Significance | 7.5 | regional geology and cultural associations |
+| Experience | 8.8 | focused guided cave experience |
+| Depth | 7.6 | small chamber system relative to large caves |
 
 - Applicable categories: nature: 8.9, adventure: 8.9, photography: 8.9
-- Computed worldwide overall: 83.95/100
+- Overall: 83.95/100
 - High-score challenge: No 9.5+ fields or 90+ total.
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide assessment.
 - Earlier decision: none.
 - Verification still needed: Current permission, weather and activity suitability require checking.
 
-### sight-fj-tavoro-falls — Tavoro Falls (Bouma Falls) — 2026-11-25
+## sight-fj-tavoro-falls — Tavoro Falls (Bouma Falls) — 2026-11-25
 
 - YAML: [source](../../../countries/FJ/sights/tavoro-falls.yaml)
 - Action: new
@@ -303,30 +305,30 @@
   - Bouma Falls and rainforest trails — https://www.fiji.travel/things-to-do/wildlife/fijis-national-parks-and-marine-sanctuaries
 - Missing or uncertain facts: Confirm mapped multi-fall scope and customary access.
 
-#### Worldwide peer comparisons
+### Worldwide peer comparisons
 - Iguazu Falls (Argentina/Brazil): much greater scale
 - Kuang Si Falls (Laos): stronger layered turquoise pools
 - Erawan Falls (Thailand): broader multi-tier exploration
 - Tenaru Waterfall (Solomon Islands): narrower cascade
 
-#### Scoring decisions
+### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
-| impact | 8.4 | Forest cascades and pools |
-| uniqueness | 7.8 | attractive but comparable waterfall systems |
-| significance | 7.1 | regional natural value |
-| experience | 8.5 | walking and permitted viewing |
-| depth | 8.0 | multiple tiers and trail experiences |
+| Impact | 8.4 | Forest cascades and pools |
+| Uniqueness | 7.8 | attractive but comparable waterfall systems |
+| Significance | 7.1 | regional natural value |
+| Experience | 8.5 | walking and permitted viewing |
+| Depth | 8.0 | multiple tiers and trail experiences |
 
 - Applicable categories: nature: 8.6, adventure: 8.2, photography: 8.6
-- Computed worldwide overall: 79.65/100
+- Overall: 79.65/100
 - High-score challenge: No 9.5+ fields or 90+ total.
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide assessment.
 - Earlier decision: none.
 - Verification still needed: Confirm mapped multi-fall scope and customary access.
 
-### sight-fj-garden-of-the-sleeping-giant — Garden of the Sleeping Giant — 2026-11-25
+## sight-fj-garden-of-the-sleeping-giant — Garden of the Sleeping Giant — 2026-11-25
 
 - YAML: [source](../../../countries/FJ/sights/garden-of-the-sleeping-giant.yaml)
 - Action: new
@@ -339,30 +341,30 @@
   - Official visitor context — https://www.fiji.travel/deals-and-offers/experiences/garden-of-the-sleeping-giant
 - Missing or uncertain facts: Confirm current collection and opening.
 
-#### Worldwide peer comparisons
+### Worldwide peer comparisons
 - Kew Gardens (United Kingdom): much greater scientific breadth
 - Singapore Botanic Gardens (Singapore): broader historic and botanical scope
 - Kirstenbosch (South Africa): richer native plant interpretation
 - Eneio Botanical Garden (Tonga): comparable regional garden
 
-#### Scoring decisions
+### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
-| impact | 7.9 | Lush orchids and lily ponds |
-| uniqueness | 7.9 | notable specialized collection |
-| significance | 7.1 | regional horticultural interest |
-| experience | 8.1 | enjoyable garden walks |
-| depth | 7.5 | several plant displays but modest breadth |
+| Impact | 7.9 | Lush orchids and lily ponds |
+| Uniqueness | 7.9 | notable specialized collection |
+| Significance | 7.1 | regional horticultural interest |
+| Experience | 8.1 | enjoyable garden walks |
+| Depth | 7.5 | several plant displays but modest breadth |
 
 - Applicable categories: nature: 8.4, relaxation: 8.3, photography: 8.3
-- Computed worldwide overall: 77.30/100
+- Overall: 77.30/100
 - High-score challenge: No 9.5+ fields or 90+ total.
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide assessment.
 - Earlier decision: none.
 - Verification still needed: Confirm current collection and opening.
 
-### sight-fj-fiji-museum — Fiji Museum — 2026-11-25
+## sight-fj-fiji-museum — Fiji Museum — 2026-11-25
 
 - YAML: [source](../../../countries/FJ/sights/fiji-museum.yaml)
 - Action: new
@@ -374,30 +376,30 @@
   - Mapped museum building and point — https://mapcarta.com/W1309951782
 - Missing or uncertain facts: Verify current exhibit inventory and interpretation.
 
-#### Worldwide peer comparisons
+### Worldwide peer comparisons
 - National Museum of Korea (South Korea): much greater breadth
 - Kunsthistorisches Museum (Austria): greater art collections
 - National Museum of Cambodia (Cambodia): larger archaeological sculpture corpus
 - Alele Museum (Marshall Islands): comparable Pacific museum with smaller scope
 
-#### Scoring decisions
+### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
-| impact | 7.7 | Compact but rich material displays |
-| uniqueness | 8.3 | distinctive Fijian material culture |
-| significance | 8.6 | important national archaeological record |
-| experience | 8.0 | educational focused visit |
-| depth | 7.8 | multiple collection themes |
+| Impact | 7.7 | Compact but rich material displays |
+| Uniqueness | 8.3 | distinctive Fijian material culture |
+| Significance | 8.6 | important national archaeological record |
+| Experience | 8.0 | educational focused visit |
+| Depth | 7.8 | multiple collection themes |
 
 - Applicable categories: history: 8.8, culture: 8.9
-- Computed worldwide overall: 80.85/100
+- Overall: 80.85/100
 - High-score challenge: No 9.5+ fields or 90+ total.
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide assessment.
 - Earlier decision: none.
 - Verification still needed: Verify current exhibit inventory and interpretation.
 
-### sight-fj-sri-siva-subramaniya-temple — Sri Siva Subramaniya Temple — 2026-11-25
+## sight-fj-sri-siva-subramaniya-temple — Sri Siva Subramaniya Temple — 2026-11-25
 
 - YAML: [source](../../../countries/FJ/sights/sri-siva-subramaniya-temple.yaml)
 - Action: new
@@ -410,30 +412,30 @@
   - Representative coordinates — https://www.bda.ai/teerth/sri-siva-subramaniya-swami-temple-nadi-international-fiji
 - Missing or uncertain facts: Coordinate secondary and permissions subject to worship rules.
 
-#### Worldwide peer comparisons
+### Worldwide peer comparisons
 - Meenakshi Temple (India): vastly greater monumental temple ensemble
 - Sri Mariamman Temple (Singapore): comparable diaspora temple
 - Sri Mahamariamman Temple (Malaysia): similar urban temple context
 - Airai Bai (Palau): different focused regional cultural architecture
 
-#### Scoring decisions
+### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
-| impact | 8.0 | Colorful Dravidian architecture |
-| uniqueness | 8.2 | distinctive Pacific setting for Hindu temple |
-| significance | 7.9 | significant Indo-Fijian living religious heritage |
-| experience | 7.8 | focused respectful visit |
-| depth | 7.0 | limited single-temple scope |
+| Impact | 8.0 | Colorful Dravidian architecture |
+| Uniqueness | 8.2 | distinctive Pacific setting for Hindu temple |
+| Significance | 7.9 | significant Indo-Fijian living religious heritage |
+| Experience | 7.8 | focused respectful visit |
+| Depth | 7.0 | limited single-temple scope |
 
 - Applicable categories: architecture: 8.6, culture: 8.5, photography: 8.2
-- Computed worldwide overall: 79.00/100
+- Overall: 79.00/100
 - High-score challenge: No 9.5+ fields or 90+ total.
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide assessment.
 - Earlier decision: none.
 - Verification still needed: Coordinate secondary and permissions subject to worship rules.
 
-### sight-fj-natadola-beach — Natadola Beach — 2026-11-25
+## sight-fj-natadola-beach — Natadola Beach — 2026-11-25
 
 - YAML: [source](../../../countries/FJ/sights/natadola-beach.yaml)
 - Action: new
@@ -446,39 +448,30 @@
   - Regional beach recreation context — https://www.fiji.travel/places-to-go/coral-coast/locations/top-things-to-do-in-coral-coast
 - Missing or uncertain facts: Confirm customary access and swimming conditions.
 
-#### Worldwide peer comparisons
+### Worldwide peer comparisons
 - Railay Beach (Thailand): greater karst drama
 - Anse Source d'Argent (Seychelles): more distinctive granite forms
 - Nacpan Beach (Philippines): comparable long tropical coast
 - Champagne Beach (Vanuatu): comparable tropical sand and water
 
-#### Scoring decisions
+### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
-| impact | 8.6 | Broad white-sand coast and blue water |
-| uniqueness | 7.7 | attractive but globally substitutable |
-| significance | 6.4 | regional recreational value |
-| experience | 8.7 | rewarding beach experience |
-| depth | 7.3 | single shoreline limits exploration |
+| Impact | 8.6 | Broad white-sand coast and blue water |
+| Uniqueness | 7.7 | attractive but globally substitutable |
+| Significance | 6.4 | regional recreational value |
+| Experience | 8.7 | rewarding beach experience |
+| Depth | 7.3 | single shoreline limits exploration |
 
 - Applicable categories: beaches: 9.0, nature: 8.4, relaxation: 8.8, photography: 8.6
-- Computed worldwide overall: 78.20/100
+- Overall: 78.20/100
 - High-score challenge: No 9.5+ fields or 90+ total.
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide assessment.
 - Earlier decision: none.
 - Verification still needed: Confirm customary access and swimming conditions.
 
-
-
-## 2026-11-25 — heritage access verification
-
-- **sight-fj-sovi-basin:** National Trust of Fiji explicitly states the basin is closed to recreational visitors; research requires application. Its 16,344-hectare forest conservation scope and customary co-management are documented (https://nationaltrust.org.fj/sovi-basin/). Retain null experience/depth, not zero. This is a normal permitted visitor-scope limitation, not a penalty for distance or temporary disruption.
-- **sight-fj-yaduataba-crested-iguana-sanctuary:** National Trust explicitly states no recreational visitor access and identifies dry forest habitat and crested iguana conservation (https://nationaltrust.org.fj/iguana/). Retain null impact/experience/depth; do not infer ordinary wildlife viewing from research access.
-
-Both authority pages inspected 2026-11-25. Existing ecological scores remain editorial, and precise location corroboration remains incomplete. Evidence status remains unassessed for both.
-
-### sight-fj-namena-marine-reserve — Namena Marine Reserve — 2026-11-25
+## sight-fj-namena-marine-reserve — Namena Marine Reserve — 2026-11-25
 
 - YAML: [source](../../../countries/FJ/sights/namena-marine-reserve.yaml)
 - Action: new
@@ -492,13 +485,13 @@ Both authority pages inspected 2026-11-25. Existing ecological scores remain edi
   - WCS research release documents higher shark abundance within the reserve than adjacent fished areas, based on a historical study: https://newsroom.wcs.org/News-Releases/articleType/ArticleView/articleId/5027/Fijis-Largest-Marine-Reserve-Swarming-With-Sharks.aspx
 - Missing or uncertain facts: Current reef condition, reserve boundaries, precise representative coordinates and operator access require further verification; no guaranteed encounters.
 
-#### Worldwide peer comparisons
-- Sipadan Island Reefs (Malaysia), 9.5/9.6/9.1/9.5/8.9: stronger global benchmark for exceptional underwater formations and encounters.
-- Ang Thong National Marine Park (Thailand), 9.0/9.0/8.6/9.1/8.9: more varied above-water landscape but less reef-focused.
-- Cham Islands (Vietnam), 8.8/9.0/8.4/9.0/8.7: comparable reef visits, less distinctive documented conservation record.
-- Rainbow Reef (Fiji), 9.2/9.1/8.7/9.2/8.8: comparable soft-coral appeal; Namena has distinct community reserve and conservation evidence.
+### Worldwide peer comparisons
+- [Sipadan Island Reefs](../../../countries/MY/sights/sipadan-island-reefs.yaml) (Malaysia), 9.5/9.6/9.1/9.5/8.9: stronger global benchmark for exceptional underwater formations and encounters.
+- [Ang Thong National Marine Park](../../../countries/TH/sights/ang-thong-national-marine-park.yaml) (Thailand), 9.0/9.0/8.6/9.1/8.9: more varied above-water landscape but less reef-focused.
+- [Cham Islands](../../../countries/VN/sights/cham-islands.yaml) (Vietnam), 8.8/9.0/8.4/9.0/8.7: comparable reef visits, less distinctive documented conservation record.
+- [Rainbow Reef](../../../countries/FJ/sights/rainbow-reef.yaml) (Fiji), 9.2/9.1/8.7/9.2/8.8: comparable soft-coral appeal; Namena has distinct community reserve and conservation evidence.
 
-#### Scoring decisions
+### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | Impact | — | 9.2 | Colourful reef scenery and substantial marine-life viewing, below Sipadan’s global reference level. |
@@ -508,15 +501,14 @@ Both authority pages inspected 2026-11-25. Existing ecological scores remain edi
 | Depth | — | 8.9 | Several dive environments and reef habitats provide repeat exploration; narrower experience than extensive mixed marine and land parks. |
 
 - Applicable category scores: nature 9.4, wildlife 9.4, adventure 9.3; provisional and scoped to named destination.
-- Computed worldwide overall: 91.25/100
+- Overall: 91.25/100
 - High-score challenge: 90+ total reflects convergence of strong independently justified reef scenery, biodiversity, conservation and diving fields; below Sipadan in impact, uniqueness and experience. No 9.5+ fields or perfect tens.
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide v2 rating based on documented visitor experiences and actual branch YAML peers.
 - Earlier decision: none.
 - Verification still needed: Current reef condition, reserve boundaries, precise representative coordinates and operator access require further verification; no guaranteed encounters. Canonical global validation and benchmark diagnostics outstanding.
 
-
-### sight-fj-colo-i-suva-forest-park — Colo-i-Suva Forest Park — 2026-11-25
+## sight-fj-colo-i-suva-forest-park — Colo-i-Suva Forest Park — 2026-11-25
 
 - YAML: [source](../../../countries/FJ/sights/colo-i-suva-forest-park.yaml)
 - Action: new
@@ -529,13 +521,13 @@ Both authority pages inspected 2026-11-25. Existing ecological scores remain edi
   - Fiji Times reports conservation recognition and native flora and fauna: https://www.fijitimes.com.fj/colo-i-suva-park/
 - Missing or uncertain facts: Exact location, current trail and pool conditions and ecological claims remain subject to further corroboration.
 
-#### Worldwide peer comparisons
-- Khao Yai National Park (Thailand), 9.0/9.1/9.0/9.0/9.2: much larger and more biodiverse forest landscape.
-- Erawan National Park (Thailand), 8.8/8.7/8.0/9.1/8.9: more spectacular and extensive waterfall experience.
-- Taman Negara Canopy Walkway (Malaysia), 7.9/7.8/7.0/8.4/7.0: comparable focused forest recreation, different viewing experience.
-- Vienna Woods Biosphere Reserve (Austria), 7.5/7.4/8.2/8.2/8.8: comparable nearby-city forest recreation, much broader landscape.
+### Worldwide peer comparisons
+- [Khao Yai National Park](../../../countries/TH/sights/khao-yai-national-park.yaml) (Thailand), 9.0/9.1/9.0/9.0/9.2: much larger and more biodiverse forest landscape.
+- [Erawan National Park](../../../countries/TH/sights/erawan-national-park.yaml) (Thailand), 8.8/8.7/8.0/9.1/8.9: more spectacular and extensive waterfall experience.
+- [Taman Negara Canopy Walkway](../../../countries/MY/sights/taman-negara-canopy-walkway.yaml) (Malaysia), 7.9/7.8/7.0/8.4/7.0: comparable focused forest recreation, different viewing experience.
+- [Vienna Woods Biosphere Reserve](../../../countries/AT/sights/wienerwald-biosphere-reserve.yaml) (Austria), 7.5/7.4/8.2/8.2/8.8: comparable nearby-city forest recreation, much broader landscape.
 
-#### Scoring decisions
+### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | Impact | — | 7.7 | Pleasant forest scenery, stream pools and shaded trails, not a flagship global waterfall landscape. |
@@ -545,10 +537,16 @@ Both authority pages inspected 2026-11-25. Existing ecological scores remain edi
 | Depth | — | 7.6 | Several kilometres of trails offer a meaningful visit, but breadth is much lower than extensive wilderness parks. |
 
 - Applicable category scores: nature 8.2, wildlife 7.8, relaxation 8.0; provisional and scoped to named destination.
-- Computed worldwide overall: 77.10/100
+- Overall: 77.10/100
 - High-score challenge: No 9.5+ fields or 90+ overall.
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide v2 rating based on documented visitor experiences and actual branch YAML peers.
 - Earlier decision: none.
 - Verification still needed: Exact location, current trail and pool conditions and ecological claims remain subject to further corroboration. Canonical global validation and benchmark diagnostics outstanding.
 
+## 2026-11-25 — heritage access verification
+
+- **sight-fj-sovi-basin:** National Trust of Fiji explicitly states the basin is closed to recreational visitors; research requires application. Its 16,344-hectare forest conservation scope and customary co-management are documented (https://nationaltrust.org.fj/sovi-basin/). Retain null experience/depth, not zero. This is a normal permitted visitor-scope limitation, not a penalty for distance or temporary disruption.
+- **sight-fj-yaduataba-crested-iguana-sanctuary:** National Trust explicitly states no recreational visitor access and identifies dry forest habitat and crested iguana conservation (https://nationaltrust.org.fj/iguana/). Retain null impact/experience/depth; do not infer ordinary wildlife viewing from research access.
+
+Both authority pages inspected 2026-11-25. Existing ecological scores remain editorial, and precise location corroboration remains incomplete. Evidence status remains unassessed for both.
