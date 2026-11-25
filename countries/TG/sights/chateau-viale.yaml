@@ -1,0 +1,16 @@
+id: sight-tg-chateau-viale
+name: "Château Viale"
+location:
+  country_code: TG
+  latitude: 6.9500
+  longitude: 0.5810
+scores:
+  impact: 7.6
+  uniqueness: 7.9
+  significance: 7.7
+  experience: 7.5
+  depth: 6.2
+  categories:
+    architecture: 8.5
+    photography: 8.3
+    history: 8.1

@@ -1,0 +1,16 @@
+id: city-co-barichara
+name: "Barichara"
+location:
+  country_code: CO
+  latitude: 6.6357
+  longitude: -73.2224
+scores:
+  impact: 8.6
+  uniqueness: 8.6
+  significance: 8.2
+  experience: 8.6
+  depth: 7.2
+  categories:
+    architecture: 9.3
+    photography: 9.2
+    culture: 8.5

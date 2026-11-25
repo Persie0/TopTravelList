@@ -1,0 +1,16 @@
+id: city-co-barranquilla
+name: "Barranquilla"
+location:
+  country_code: CO
+  latitude: 10.9639
+  longitude: -74.7964
+scores:
+  impact: 7.4
+  uniqueness: 8.0
+  significance: 7.8
+  experience: 8.0
+  depth: 8.1
+  categories:
+    culture: 9.0
+    food: 8.4
+    nightlife: 8.4
