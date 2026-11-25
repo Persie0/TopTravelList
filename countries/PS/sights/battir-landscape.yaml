@@ -1,0 +1,16 @@
+id: sight-ps-battir-landscape
+name: "Battir Cultural Landscape (Land of Olives and Vines)"
+location:
+  country_code: PS
+  latitude: 31.72
+  longitude: 35.14
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 8.5
+  depth: 8.0
+  categories:
+    nature: 8.9
+    culture: 9.0
+    photography: 9.1

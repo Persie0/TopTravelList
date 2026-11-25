@@ -2,7 +2,7 @@
 
 # Palestine (PS) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**4 ranked** · **6 unassessed** · **10 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,27 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (4)
 
-No cities, towns & villages have been assessed for **Palestine** yet.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Bethlehem](cities/bethlehem.yaml) | City / town | **85.80** | **History 9.2**, **Culture 9.0**, **Architecture 8.7** | 8.3 / 8.8 / 9.3 / 8.2 / 8.0 | [31.7054, 35.2024](https://www.google.com/maps/search/?api=1&query=31.7054,35.2024) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bethlehem%2C%20Palestine) |
+| 2 | [Jericho](cities/jericho.yaml) | City / town | **81.90** | **History 9.2**, **Culture 8.0**, **Nature 8.0** | 7.7 / 8.4 / 9.0 / 8.0 / 7.8 | [31.856, 35.461](https://www.google.com/maps/search/?api=1&query=31.856,35.461) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Jericho%2C%20Palestine) |
+| 3 | [Ramallah](cities/ramallah.yaml) | City / town | **78.30** | **Culture 8.5**, **Food 8.4** | 7.5 / 7.8 / 8.0 / 8.2 / 8.0 | [31.9038, 35.2034](https://www.google.com/maps/search/?api=1&query=31.9038,35.2034) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ramallah%2C%20Palestine) |
+| 4 | [Beit Sahour](cities/beit-sahour.yaml) | City / town | **76.25** | **History 8.2**, **Culture 8.1** | 7.4 / 7.8 / 8.0 / 7.7 / 7.0 | [31.7, 35.23](https://www.google.com/maps/search/?api=1&query=31.7,35.23) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Beit%20Sahour%2C%20Palestine) |
 
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+## Not yet fully assessed (6)
+
+These destinations have no rank until all five core scores are assessed.
+
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| — | [Battir](cities/battir.yaml) | City / town | **—** | **Photography 8.9**, **Culture 8.7**, **Nature 8.7** | 8.2 / 8.6 / 8.5 / — / — | [31.72, 35.14](https://www.google.com/maps/search/?api=1&query=31.72,35.14) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Battir%2C%20Palestine) |
+| — | [Beit Jala](cities/beit-jala.yaml) | City / town | **—** | **Architecture 7.9**, **Culture 7.8** | 7.5 / 7.5 / 7.6 / — / — | [31.716, 35.187](https://www.google.com/maps/search/?api=1&query=31.716,35.187) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Beit%20Jala%2C%20Palestine) |
+| — | [Gaza City](cities/gaza-city.yaml) | City / town | **—** | **History 8.9**, **Culture 8.7** | — / 8.5 / 8.8 / — / — | [31.5017, 34.4668](https://www.google.com/maps/search/?api=1&query=31.5017,34.4668) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Gaza%20City%2C%20Palestine) |
+| — | [Hebron (Al-Khalil)](cities/hebron.yaml) | City / town | **—** | **History 9.3**, **Architecture 8.8**, **Culture 8.8** | 8.2 / 8.6 / 9.1 / — / — | [31.5326, 35.0998](https://www.google.com/maps/search/?api=1&query=31.5326,35.0998) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hebron%20%28Al-Khalil%29%2C%20Palestine) |
+| — | [Jenin](cities/jenin.yaml) | City / town | **—** | **History 8.0**, **Culture 7.9** | 7.0 / 7.4 / 7.8 / — / — | [32.46, 35.3](https://www.google.com/maps/search/?api=1&query=32.46,35.3) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Jenin%2C%20Palestine) |
+| — | [Nablus](cities/nablus.yaml) | City / town | **—** | **Culture 9.0**, **History 8.9**, **Food 8.8** | 8.3 / 8.5 / 8.7 / — / — | [32.2211, 35.2544](https://www.google.com/maps/search/?api=1&query=32.2211,35.2544) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nablus%2C%20Palestine) |
 
 ---
 
