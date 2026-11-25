@@ -2,7 +2,7 @@
 
 # Mozambique (MZ) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**4 ranked** · **3 unassessed** · **7 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,24 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (4)
 
-No cities, towns & villages have been assessed for **Mozambique** yet.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Ilha de Moçambique](cities/ilha-de-mocambique.yaml) | City / town | **89.00** | **History 9.3**, **Culture 9.2**, **Architecture 9.1** | 8.7 / 9.1 / 9.3 / 8.7 / 8.5 | [-15.034, 40.735](https://www.google.com/maps/search/?api=1&query=-15.034,40.735) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ilha%20de%20Mo%C3%A7ambique%2C%20Mozambique) |
+| 2 | [Maputo](cities/maputo.yaml) | City / town | **82.50** | **Culture 8.8**, **Food 8.7**, **Architecture 8.5** | 8.0 / 8.2 / 8.4 / 8.4 / 8.6 | [-25.96553, 32.58322](https://www.google.com/maps/search/?api=1&query=-25.96553,32.58322) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Maputo%2C%20Mozambique) |
+| 3 | [Inhambane](cities/inhambane.yaml) | City / town | **79.50** | **Architecture 8.3**, **Culture 8.3**, **History 8.2** | 7.8 / 8.1 / 8.0 / 8.1 / 7.7 | [-23.865, 35.38333](https://www.google.com/maps/search/?api=1&query=-23.865,35.38333) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Inhambane%2C%20Mozambique) |
+| 4 | [Vilankulo](cities/vilankulo.yaml) | City / town | **77.15** | **Beaches 8.5**, **Relaxation 8.4**, **Food 8.1** | 7.7 / 7.8 / 7.3 / 8.3 / 7.5 | [-21.9978, 35.3169](https://www.google.com/maps/search/?api=1&query=-21.9978,35.3169) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Vilankulo%2C%20Mozambique) |
 
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+## Not yet fully assessed (3)
+
+These destinations have no rank until all five core scores are assessed.
+
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| — | [Beira](cities/beira.yaml) | City / town | **—** | **History 8.0** | — / 7.6 / 7.8 / — / — | [-19.84361, 34.83889](https://www.google.com/maps/search/?api=1&query=-19.84361,34.83889) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Beira%2C%20Mozambique) |
+| — | [Nampula](cities/nampula.yaml) | City / town | **—** | — | — / 7.2 / 7.5 / — / — | [-15.11646, 39.2666](https://www.google.com/maps/search/?api=1&query=-15.11646,39.2666) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nampula%2C%20Mozambique) |
+| — | [Pemba](cities/pemba.yaml) | City / town | **—** | **Beaches 8.3** | 8.0 / 7.9 / 7.6 / — / — | [-12.97395, 40.51775](https://www.google.com/maps/search/?api=1&query=-12.97395,40.51775) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Pemba%2C%20Mozambique) |
 
 ---
 

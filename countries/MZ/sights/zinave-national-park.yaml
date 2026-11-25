@@ -1,0 +1,16 @@
+id: sight-mz-zinave-national-park
+name: "Zinave National Park"
+location:
+  country_code: MZ
+  latitude: -21.421944
+  longitude: 33.861944
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 9.1
+  experience: 8.6
+  depth: 8.4
+  categories:
+    nature: 9.1
+    wildlife: 9.1
+    adventure: 8.7
