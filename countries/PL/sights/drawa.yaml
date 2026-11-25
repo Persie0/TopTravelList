@@ -1,0 +1,15 @@
+id: sight-pl-drawa
+name: "Drawa National Park"
+location:
+  country_code: PL
+  latitude: 53.09
+  longitude: 16.05
+scores:
+  impact: 8.2
+  uniqueness: 8.3
+  significance: 8.3
+  experience: 8.6
+  depth: 8.5
+  categories:
+    nature: 9.0
+    adventure: 8.8

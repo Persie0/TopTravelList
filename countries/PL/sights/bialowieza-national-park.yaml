@@ -1,0 +1,15 @@
+id: sight-pl-bialowieza-national-park
+name: "Białowieża National Park"
+location:
+  country_code: PL
+  latitude: 52.74
+  longitude: 23.84
+scores:
+  impact: 8.8
+  uniqueness: 9.3
+  significance: 9.5
+  experience: 8.7
+  depth: 8.8
+  categories:
+    nature: 9.5
+    wildlife: 9.5

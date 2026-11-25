@@ -1,0 +1,15 @@
+id: city-pl-przemysl
+name: "Przemyśl"
+location:
+  country_code: PL
+  latitude: 49.783
+  longitude: 22.767
+scores:
+  impact: 8.2
+  uniqueness: 8.4
+  significance: 8.5
+  experience: 8.2
+  depth: 8.0
+  categories:
+    architecture: 8.8
+    history: 8.9

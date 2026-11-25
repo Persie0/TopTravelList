@@ -1,0 +1,15 @@
+id: sight-pl-gdynia-modernist-centre
+name: "Gdynia Modernist City Centre"
+location:
+  country_code: PL
+  latitude: 54.519
+  longitude: 18.54
+scores:
+  impact: 8.4
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.5
+  depth: 8.7
+  categories:
+    architecture: 9.3
+    history: 9.0

@@ -1,0 +1,15 @@
+id: city-pl-katowice
+name: "Katowice"
+location:
+  country_code: PL
+  latitude: 50.2649
+  longitude: 19.0238
+scores:
+  impact: 8.0
+  uniqueness: 8.5
+  significance: 8.4
+  experience: 8.5
+  depth: 8.7
+  categories:
+    architecture: 8.8
+    culture: 8.9
