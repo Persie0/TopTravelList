@@ -1,0 +1,15 @@
+id: sight-nl-mauritshuis
+name: "Mauritshuis"
+location:
+  country_code: NL
+  latitude: 52.08
+  longitude: 4.314
+scores:
+  impact: 9.0
+  uniqueness: 9.1
+  significance: 9.3
+  experience: 9.0
+  depth: 8.6
+  categories:
+    culture: 9.5
+    architecture: 8.9

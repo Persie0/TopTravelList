@@ -2,7 +2,7 @@
 
 # Netherlands (NL) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**20 ranked** · **0 unassessed** · **20 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,30 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (20)
 
-No cities, towns & villages have been assessed for **Netherlands** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Amsterdam](cities/amsterdam.yaml) | City / town | **94.90** | **Architecture 9.5**, **Culture 9.5**, **Photography 9.5**, History 9.3 | 9.5 / 9.5 / 9.4 / 9.5 / 9.6 | [52.3676, 4.9041](https://www.google.com/maps/search/?api=1&query=52.3676,4.9041) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Amsterdam%2C%20Netherlands) |
+| 2 | [Utrecht](cities/utrecht.yaml) | City / town | **89.10** | **Architecture 9.2**, **Culture 9.0**, **History 9.0** | 8.9 / 9.0 / 8.8 / 9.0 / 8.8 | [52.0907, 5.1214](https://www.google.com/maps/search/?api=1&query=52.0907,5.1214) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Utrecht%2C%20Netherlands) |
+| 3 | [Rotterdam](cities/rotterdam.yaml) | City / town | **88.65** | **Architecture 9.4**, **Culture 9.0**, **Food 8.8** | 8.8 / 8.9 / 8.7 / 9.0 / 9.1 | [51.9244, 4.4777](https://www.google.com/maps/search/?api=1&query=51.9244,4.4777) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Rotterdam%2C%20Netherlands) |
+| 4 | [The Hague (Den Haag)](cities/the-hague.yaml) | City / town | **88.55** | **Culture 9.2**, **History 9.2**, **Architecture 9.1** | 8.7 / 8.7 / 9.1 / 9.0 / 9.0 | [52.0705, 4.3007](https://www.google.com/maps/search/?api=1&query=52.0705,4.3007) | [Google Maps](https://www.google.com/maps/search/?api=1&query=The%20Hague%20%28Den%20Haag%29%2C%20Netherlands) |
+| 5 | [Leiden](cities/leiden.yaml) | City / town | **87.35** | **Culture 9.1**, **History 9.1**, **Architecture 9.0** | 8.7 / 8.7 / 8.9 / 8.8 / 8.5 | [52.1601, 4.497](https://www.google.com/maps/search/?api=1&query=52.1601,4.497) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Leiden%2C%20Netherlands) |
+| 5 | [Maastricht](cities/maastricht.yaml) | City / town | **87.35** | **History 9.1**, **Architecture 9.0**, **Culture 9.0** | 8.7 / 8.6 / 8.9 / 8.9 / 8.6 | [50.8514, 5.691](https://www.google.com/maps/search/?api=1&query=50.8514,5.691) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Maastricht%2C%20Netherlands) |
+| 7 | [Delft](cities/delft.yaml) | City / town | **87.20** | **Architecture 9.2**, **History 9.1**, **Photography 9.0** | 8.8 / 8.8 / 8.7 / 8.8 / 8.2 | [52.0116, 4.3571](https://www.google.com/maps/search/?api=1&query=52.0116,4.3571) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Delft%2C%20Netherlands) |
+| 8 | [Haarlem](cities/haarlem.yaml) | City / town | **86.70** | **Architecture 9.1**, **Culture 9.0**, **History 9.0** | 8.7 / 8.6 / 8.7 / 8.8 / 8.5 | [52.3874, 4.6462](https://www.google.com/maps/search/?api=1&query=52.3874,4.6462) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Haarlem%2C%20Netherlands) |
+| 9 | [Den Bosch (’s-Hertogenbosch)](cities/den-bosch.yaml) | City / town | **86.05** | **Architecture 9.1**, **Culture 8.9**, **History 8.9** | 8.6 / 8.6 / 8.7 / 8.7 / 8.3 | [51.6978, 5.3037](https://www.google.com/maps/search/?api=1&query=51.6978,5.3037) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Den%20Bosch%20%28%E2%80%99s-Hertogenbosch%29%2C%20Netherlands) |
+| 10 | [Groningen](cities/groningen.yaml) | City / town | **85.00** | **Culture 8.9**, **Nightlife 8.8**, **Architecture 8.7** | 8.4 / 8.4 / 8.5 / 8.8 / 8.6 | [53.2194, 6.5665](https://www.google.com/maps/search/?api=1&query=53.2194,6.5665) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Groningen%2C%20Netherlands) |
+| 11 | [Amersfoort](cities/amersfoort.yaml) | City / town | **84.45** | **Architecture 9.0**, **Photography 8.8** | 8.5 / 8.5 / 8.4 / 8.6 / 8.0 | [52.156, 5.388](https://www.google.com/maps/search/?api=1&query=52.156,5.388) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Amersfoort%2C%20Netherlands) |
+| 12 | [Middelburg](cities/middelburg.yaml) | City / town | **84.15** | **Architecture 8.9**, **History 8.9** | 8.4 / 8.4 / 8.6 / 8.5 / 8.0 | [51.499, 3.613](https://www.google.com/maps/search/?api=1&query=51.499,3.613) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Middelburg%2C%20Netherlands) |
+| 13 | [Enkhuizen](cities/enkhuizen.yaml) | City / town | **84.10** | **Architecture 8.9**, **History 8.9** | 8.4 / 8.5 / 8.5 / 8.5 / 7.9 | [52.703, 5.292](https://www.google.com/maps/search/?api=1&query=52.703,5.292) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Enkhuizen%2C%20Netherlands) |
+| 14 | [Dordrecht](cities/dordrecht.yaml) | City / town | **83.95** | **History 9.0**, **Architecture 8.8** | 8.3 / 8.4 / 8.6 / 8.5 / 8.1 | [51.813, 4.69](https://www.google.com/maps/search/?api=1&query=51.813,4.69) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Dordrecht%2C%20Netherlands) |
+| 15 | [Nijmegen](cities/nijmegen.yaml) | City / town | **83.70** | **History 9.0**, **Culture 8.7** | 8.1 / 8.2 / 8.8 / 8.6 / 8.4 | [51.842, 5.852](https://www.google.com/maps/search/?api=1&query=51.842,5.852) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nijmegen%2C%20Netherlands) |
+| 16 | [Gouda](cities/gouda.yaml) | City / town | **83.50** | **Architecture 8.9**, **Food 8.8**, **History 8.6** | 8.4 / 8.4 / 8.3 / 8.6 / 7.8 | [52.011, 4.711](https://www.google.com/maps/search/?api=1&query=52.011,4.711) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Gouda%2C%20Netherlands) |
+| 17 | [Alkmaar](cities/alkmaar.yaml) | City / town | **83.40** | **Architecture 8.8**, **Culture 8.8**, **Food 8.5** | 8.3 / 8.4 / 8.3 / 8.6 / 8.0 | [52.632, 4.75](https://www.google.com/maps/search/?api=1&query=52.632,4.75) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Alkmaar%2C%20Netherlands) |
+| 17 | [Giethoorn](cities/giethoorn.yaml) | City / town | **83.40** | **Photography 9.2**, **Architecture 8.8**, **Relaxation 8.7** | 8.7 / 8.9 / 7.6 / 8.5 / 7.1 | [52.74, 6.077](https://www.google.com/maps/search/?api=1&query=52.74,6.077) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Giethoorn%2C%20Netherlands) |
+| 19 | [Zwolle](cities/zwolle.yaml) | City / town | **82.75** | **Architecture 8.7**, **Culture 8.7** | 8.2 / 8.2 / 8.4 / 8.5 / 8.1 | [52.516, 6.083](https://www.google.com/maps/search/?api=1&query=52.516,6.083) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Zwolle%2C%20Netherlands) |
+| 20 | [Volendam](cities/volendam.yaml) | City / town | **79.00** | **Photography 8.7**, **Culture 8.6** | 8.0 / 8.1 / 7.6 / 8.3 / 7.1 | [52.495, 5.071](https://www.google.com/maps/search/?api=1&query=52.495,5.071) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Volendam%2C%20Netherlands) |
 
 ---
 

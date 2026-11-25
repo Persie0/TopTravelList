@@ -1,0 +1,16 @@
+id: sight-nl-rijksmuseum
+name: "Rijksmuseum"
+location:
+  country_code: NL
+  latitude: 52.36
+  longitude: 4.885
+scores:
+  impact: 9.4
+  uniqueness: 9.4
+  significance: 9.5
+  experience: 9.4
+  depth: 9.4
+  categories:
+    culture: 9.6
+    history: 9.4
+    architecture: 9.2

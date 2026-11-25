@@ -1,0 +1,17 @@
+id: city-nl-amsterdam
+name: "Amsterdam"
+location:
+  country_code: NL
+  latitude: 52.3676
+  longitude: 4.9041
+scores:
+  impact: 9.5
+  uniqueness: 9.5
+  significance: 9.4
+  experience: 9.5
+  depth: 9.6
+  categories:
+    architecture: 9.5
+    history: 9.3
+    culture: 9.5
+    photography: 9.5

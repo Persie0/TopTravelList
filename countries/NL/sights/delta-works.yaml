@@ -1,0 +1,15 @@
+id: sight-nl-delta-works
+name: "Oosterscheldekering and Delta Works visitor experience"
+location:
+  country_code: NL
+  latitude: 51.62
+  longitude: 3.7
+scores:
+  impact: 8.8
+  uniqueness: 9.2
+  significance: 9.3
+  experience: 8.7
+  depth: 8.5
+  categories:
+    history: 9.3
+    architecture: 9.1

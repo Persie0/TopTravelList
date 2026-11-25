@@ -1,0 +1,15 @@
+id: sight-nl-meinweg
+name: "De Meinweg National Park"
+location:
+  country_code: NL
+  latitude: 51.16
+  longitude: 6.13
+scores:
+  impact: 8.0
+  uniqueness: 8.2
+  significance: 8.2
+  experience: 8.5
+  depth: 8.3
+  categories:
+    nature: 8.8
+    wildlife: 8.6

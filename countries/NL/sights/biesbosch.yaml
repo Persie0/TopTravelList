@@ -1,0 +1,16 @@
+id: sight-nl-biesbosch
+name: "De Biesbosch National Park"
+location:
+  country_code: NL
+  latitude: 51.75
+  longitude: 4.8
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 8.7
+  experience: 8.8
+  depth: 8.8
+  categories:
+    nature: 9.2
+    wildlife: 9.1
+    adventure: 8.8

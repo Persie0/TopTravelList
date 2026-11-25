@@ -1,0 +1,16 @@
+id: city-nl-leiden
+name: "Leiden"
+location:
+  country_code: NL
+  latitude: 52.1601
+  longitude: 4.497
+scores:
+  impact: 8.7
+  uniqueness: 8.7
+  significance: 8.9
+  experience: 8.8
+  depth: 8.5
+  categories:
+    culture: 9.1
+    history: 9.1
+    architecture: 9.0

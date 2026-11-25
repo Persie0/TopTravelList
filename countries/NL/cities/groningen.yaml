@@ -1,0 +1,16 @@
+id: city-nl-groningen
+name: "Groningen"
+location:
+  country_code: NL
+  latitude: 53.2194
+  longitude: 6.5665
+scores:
+  impact: 8.4
+  uniqueness: 8.4
+  significance: 8.5
+  experience: 8.8
+  depth: 8.6
+  categories:
+    culture: 8.9
+    architecture: 8.7
+    nightlife: 8.8

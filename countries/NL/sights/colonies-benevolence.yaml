@@ -1,0 +1,15 @@
+id: sight-nl-colonies-benevolence
+name: "Colonies of Benevolence (Dutch components)"
+location:
+  country_code: NL
+  latitude: 52.845
+  longitude: 6.186
+scores:
+  impact: 8.1
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 8.4
+  depth: 8.6
+  categories:
+    history: 9.2
+    culture: 8.8

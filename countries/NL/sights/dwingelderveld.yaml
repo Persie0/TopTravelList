@@ -1,0 +1,16 @@
+id: sight-nl-dwingelderveld
+name: "Dwingelderveld National Park"
+location:
+  country_code: NL
+  latitude: 52.81
+  longitude: 6.44
+scores:
+  impact: 8.2
+  uniqueness: 8.6
+  significance: 8.5
+  experience: 8.5
+  depth: 8.5
+  categories:
+    nature: 9.0
+    wildlife: 8.8
+    photography: 8.7

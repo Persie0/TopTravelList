@@ -1,0 +1,16 @@
+id: sight-nl-wadden-sea
+name: "Wadden Sea (Dutch section)"
+location:
+  country_code: NL
+  latitude: 53.35
+  longitude: 5.35
+scores:
+  impact: 8.8
+  uniqueness: 9.4
+  significance: 9.4
+  experience: 8.8
+  depth: 9.3
+  categories:
+    nature: 9.5
+    wildlife: 9.5
+    photography: 9.2

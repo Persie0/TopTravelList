@@ -1,0 +1,15 @@
+id: sight-nl-de-peel
+name: "De Peel National Park"
+location:
+  country_code: NL
+  latitude: 51.34
+  longitude: 5.81
+scores:
+  impact: 7.9
+  uniqueness: 8.3
+  significance: 8.3
+  experience: 8.2
+  depth: 8.0
+  categories:
+    nature: 8.8
+    wildlife: 8.6

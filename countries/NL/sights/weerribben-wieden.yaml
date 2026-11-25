@@ -1,0 +1,16 @@
+id: sight-nl-weerribben-wieden
+name: "Weerribben-Wieden National Park"
+location:
+  country_code: NL
+  latitude: 52.77
+  longitude: 6.02
+scores:
+  impact: 8.6
+  uniqueness: 8.9
+  significance: 8.7
+  experience: 8.8
+  depth: 8.8
+  categories:
+    nature: 9.2
+    wildlife: 9.0
+    relaxation: 9.0

@@ -1,0 +1,16 @@
+id: city-nl-utrecht
+name: "Utrecht"
+location:
+  country_code: NL
+  latitude: 52.0907
+  longitude: 5.1214
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 8.8
+  experience: 9.0
+  depth: 8.8
+  categories:
+    architecture: 9.2
+    history: 9.0
+    culture: 9.0

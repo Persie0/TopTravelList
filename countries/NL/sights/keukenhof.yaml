@@ -1,0 +1,16 @@
+id: sight-nl-keukenhof
+name: "Keukenhof gardens"
+location:
+  country_code: NL
+  latitude: 52.269
+  longitude: 4.546
+scores:
+  impact: 9.2
+  uniqueness: 9.1
+  significance: 8.1
+  experience: 9.1
+  depth: 8.5
+  categories:
+    nature: 9.1
+    photography: 9.5
+    relaxation: 9.0

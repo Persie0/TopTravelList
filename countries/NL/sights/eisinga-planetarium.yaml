@@ -1,0 +1,15 @@
+id: sight-nl-eisinga-planetarium
+name: "Eisinga Planetarium, Franeker"
+location:
+  country_code: NL
+  latitude: 53.186
+  longitude: 5.542
+scores:
+  impact: 8.5
+  uniqueness: 9.4
+  significance: 9.2
+  experience: 8.8
+  depth: 7.9
+  categories:
+    history: 9.3
+    culture: 9.0
