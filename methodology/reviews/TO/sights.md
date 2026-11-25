@@ -612,3 +612,49 @@
 - Earlier decision: none.
 - Verification still needed: Current conditions and authorized shore access must be confirmed; no assumed safe bathing.
 
+
+
+### sight-to-ancient-capitals — The Ancient Capitals of the Kingdom of Tonga — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/TO/sights/ancient-capitals.yaml)
+- Action: rescore
+- Precise subject: Both components of the 2007 tentative property: Ha'amonga 'a Maui Historic Park at Heketa and the Ancient Royal Tombs at Lapaha, restricted to customary-consented visitor areas.
+- Location check: Existing representative coordinate retained; independent coordinate corroboration outstanding.
+- Evidence status: source-linked-unverified
+- Factual references consulted (2026-11-25):
+  - Tonga National Commission for UNESCO's tentative submission identifies the two archaeological sites and describes terraced royal tombs and living traditions — https://whc.unesco.org/en/tentativelists/5167 (page inspected).
+  - Tonga Tourism Authority explicitly promotes visits to the trilithon and royal tombs — https://www.tongatourism.travel/our-islands/tongatapu (indexed excerpt).
+  - F.I.S.H Tours lists both sites in its Tongatapu guided itinerary — https://tongatour.to/ (indexed excerpt).
+  - Jones Travel & Tours describes guided tomb visits and the requirement to avoid sacred ground — https://jonestravel.com.to/tonga/nukualofa/lapaha-royal-palace-scenic-drive/ (indexed excerpt).
+- Missing or uncertain facts: No unrestricted access or access to all tombs assumed. Current condition and precise geographic extent need corroboration; independent detailed visitor interpretation evidence remains limited.
+
+#### Worldwide peer comparisons
+- Carnuntum Archaeological Park (Austria), 8.7/8.9/9.0/8.8/8.4: stronger reconstructed and interpreted archaeological experiences.
+- Ban Chiang Archaeological Site (Thailand), 8.4/9.2/9.6/8.2/8.1: exceptional early archaeological significance and established interpretation.
+- Lenggong Valley Archaeological Heritage (Malaysia), 8.0/9.0/9.5/8.0/8.4: comparable archaeology spread across sites, with greater early-human significance.
+- Lapaha Royal Tombs (Tonga), 8.0/8.8/9.0/7.2/7.8: one component of the aggregate; broader combined visit supports higher depth without adding component totals.
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | 8.1 | 8.1 | Retain prior impact: substantial trilithon and royal tomb architecture, less visually monumental than leading worldwide archaeological ensembles. |
+| Uniqueness | 8.9 | 8.9 | Retain prior uniqueness: distinct chiefly and royal ceremonial landscape. |
+| Significance | 9.1 | 9.1 | Retain prior significance: evidence of the historical Tongan maritime polity and continuing traditions; tentative status is not inscription. |
+| Experience | null | 7.9 | Both components have documented sightseeing, although customary rules limit visitor scope; no entry into sacred tombs assumed. |
+| Depth | null | 8.3 | Two coherent heritage locations and several visible monuments support broader exploration than either component alone. |
+
+- Applicable category scores: history 9.2, culture 9.0, architecture 8.8 retained; provisional.
+- Computed worldwide overall: 84.90/100
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Complete provisional v2 profile, compared against actual branch YAML peers.
+- Earlier decision: prior incomplete profile for this ID.
+- Verification still needed: No unrestricted access or access to all tombs assumed. Current condition and precise geographic extent need corroboration; independent detailed visitor interpretation evidence remains limited. Canonical worldwide diagnostics outstanding.
+
+
+## 2026-11-25 — Lapita visitor scope follow-up
+
+- **sight-to-lapita-pottery-archaeological-sites:** The 2007 tentative submission (https://whc.unesco.org/en/tentativelists/5168/, page inspected) describes numerous archaeological sites across four island groups, with ongoing research and incomplete detailed inventory. Do not assume that visitor access at one site establishes access to the whole series. Retain impact, experience and depth null.
+- **sight-to-nukuleka-lapita-site:** Burley et al., High Precision U/Th Dating of First Polynesian Settlement (https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0048769, indexed abstract/excerpt) supports archaeological importance; it is not visitor-access evidence. Tonga Tourism's heritage brochure is indexed as describing the site, but its existence is not evidence of a routinely permitted, interpreted archaeological visit. No verified visitor-visible remains, routine access or interpretation found in the consulted sources. Retain impact, experience and depth null. Prior significance and uniqueness retained.
+
+No changes to either Lapita YAML record. Both remain unassessed; distinction between archaeology and tangible visitor experience preserved.

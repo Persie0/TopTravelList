@@ -250,3 +250,39 @@
 - Final decision: provisionally ranked on documented visitor scope; not full independent verification.
 - Earlier decision: earlier entry for this ID, originally unranked.
 - Verification still needed: Settlement only, no remote Eua park credit. Respect village permissions.
+
+
+### city-to-vaini — Vaini — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/TO/cities/vaini.yaml)
+- Action: rescore
+- Precise subject: Vaini's rural settlement and local hosted agricultural activities, not the whole island or nearby unrelated attractions.
+- Location check: Existing representative coordinate retained; independent coordinate corroboration outstanding.
+- Evidence status: source-linked-unverified
+- Factual references consulted (2026-11-25):
+  - Tonga Tourism Authority describes Tinopai Farm in Vaini and a two-hour plantation walk, coconut preparation and tasting — https://www.tongatourism.travel/see-and-do/tinopai-tour (page inspected).
+  - Tonga Pocket Guide booking page describes the hosted kava cultivation and preparation experience at Tinopai — https://book.tongapocketguide.com/ancient-tonga/tinopai-kava-tour (indexed excerpt).
+- Missing or uncertain facts: Townscape and exact settlement point need corroboration. Sources describe the same farm, so breadth is intentionally modest; no guarantee of current booking availability.
+
+#### Worldwide peer comparisons
+- Kampot (Cambodia), 7.6/7.9/7.5/8.3/7.9: richer town architecture, dining and local exploration.
+- Rach Gia (Vietnam), 7.2/7.5/7.3/7.8/7.9: greater civic and urban visitor breadth.
+- Kuala Perlis (Malaysia), 6.5/6.8/6.5/7.2/6.7: similar modest regional destination with more diverse food and waterfront experiences.
+- Pangai (Tonga), 6.4/7.0/6.6/6.8/6.1: comparable modest settlement with stronger civic significance, while Vaini has a focused hosted farm experience.
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | null | 6.3 | Modest rural settlement with cultivated surroundings; no exceptional townscape established. |
+| Uniqueness | null | 6.9 | Locally hosted coffee, coconut and kava traditions offer a distinctive rural identity without global rarity. |
+| Significance | null | 6.2 | Meaningful local agricultural culture, not independently established world-scale settlement heritage. |
+| Experience | null | 7.1 | Documented hosted farm walks, preparation demonstrations and tastings support a rewarding focused visit. |
+| Depth | null | 6.0 | Several activities at one farm, not a broad network of independent settlement attractions. |
+
+- Applicable category scores: culture 7.5, food 7.3; provisional.
+- Computed worldwide overall: 65.20/100
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Complete provisional v2 profile, compared against actual branch YAML peers.
+- Earlier decision: prior incomplete profile for this ID.
+- Verification still needed: Townscape and exact settlement point need corroboration. Sources describe the same farm, so breadth is intentionally modest; no guarantee of current booking availability. Canonical worldwide diagnostics outstanding.
