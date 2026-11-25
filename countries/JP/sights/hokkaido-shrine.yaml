@@ -1,0 +1,15 @@
+id: sight-jp-hokkaido-shrine
+name: "Hokkaido Shrine"
+location:
+  country_code: JP
+  latitude: 43.0543
+  longitude: 141.3070
+scores:
+  impact: 8.1
+  uniqueness: 8.2
+  significance: 8.1
+  experience: 8.6
+  depth: 7.9
+  categories:
+    culture: 8.7
+    relaxation: 8.5

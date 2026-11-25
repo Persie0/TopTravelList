@@ -1,0 +1,15 @@
+id: sight-jp-mozu-daisen-kofun
+name: "Mozu Daisen Kofun"
+location:
+  country_code: JP
+  latitude: 34.5645
+  longitude: 135.4877
+scores:
+  impact: 8.2
+  uniqueness: 9.4
+  significance: 9.3
+  experience: 7.7
+  depth: 7.2
+  categories:
+    history: 9.5
+    architecture: 9.1

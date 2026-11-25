@@ -1,0 +1,15 @@
+id: sight-jp-tomioka-silk-mill
+name: "Tomioka Silk Mill"
+location:
+  country_code: JP
+  latitude: 36.2550
+  longitude: 138.8871
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 9.1
+  experience: 8.7
+  depth: 8.6
+  categories:
+    history: 9.3
+    architecture: 8.9

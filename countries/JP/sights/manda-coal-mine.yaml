@@ -1,0 +1,15 @@
+id: sight-jp-manda-coal-mine
+name: "Manda Coal Mine"
+location:
+  country_code: JP
+  latitude: 32.9950
+  longitude: 130.4510
+scores:
+  impact: 7.9
+  uniqueness: 8.6
+  significance: 8.7
+  experience: 8.2
+  depth: 7.7
+  categories:
+    history: 9.0
+    architecture: 8.5

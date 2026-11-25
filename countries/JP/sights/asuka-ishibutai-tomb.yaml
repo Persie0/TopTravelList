@@ -1,0 +1,15 @@
+id: sight-jp-asuka-ishibutai-tomb
+name: "Asuka Ishibutai Tomb"
+location:
+  country_code: JP
+  latitude: 34.4595
+  longitude: 135.8251
+scores:
+  impact: 8.4
+  uniqueness: 8.9
+  significance: 9.1
+  experience: 8.4
+  depth: 7.6
+  categories:
+    history: 9.3
+    architecture: 8.9
