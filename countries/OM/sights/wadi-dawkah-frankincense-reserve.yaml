@@ -1,0 +1,16 @@
+id: sight-om-wadi-dawkah-frankincense-reserve
+name: "Wadi Dawkah Frankincense Reserve"
+location:
+  country_code: OM
+  latitude: 17.333
+  longitude: 54.076
+scores:
+  impact: 7.6
+  uniqueness: 8.4
+  significance: 8.6
+  experience: 7.8
+  depth: 7.1
+  categories:
+    nature: 8.5
+    history: 8.8
+    culture: 8.5
