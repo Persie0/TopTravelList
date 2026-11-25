@@ -2,7 +2,7 @@
 
 # Zambia (ZM) — Sights & attractions ranking
 
-**10 ranked** · **7 unassessed** · **17 total** · Worldwide scoring **v2**
+**12 ranked** · **8 unassessed** · **20 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (10)
+## Complete ranked list (12)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -24,8 +24,10 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 8 | [North Luangwa National Park](sights/north-luangwa-national-park.yaml) | Park / reserve | **90.15** | **Wildlife 9.4**, **Nature 9.3**, **Adventure 9.0** | 9.0 / 9.1 / 9.2 / 8.8 / 8.8 | [-12.1111, 32.1056](https://www.google.com/maps/search/?api=1&query=-12.1111,32.1056) | [Google Maps](https://www.google.com/maps/search/?api=1&query=North%20Luangwa%20National%20Park%2C%20Zambia) |
 | 9 | [Kalambo Falls National Monument](sights/kalambo-falls.yaml) | Waterfall | **89.75** | **History 9.4**, **Nature 9.3**, **Photography 9.2** | 9.2 / 9.1 / 9.4 / 8.4 / 8.0 | [-8.583333, 31.233333](https://www.google.com/maps/search/?api=1&query=-8.583333,31.233333) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kalambo%20Falls%20National%20Monument%2C%20Zambia) |
 | 10 | [Mutinondo Wilderness](sights/mutinondo-wilderness.yaml) | Attraction | **88.85** | **Nature 9.2**, **Adventure 9.0**, **Photography 8.9** | 8.9 / 8.9 / 8.8 / 9.0 / 8.8 | [-12.406944, 31.458333](https://www.google.com/maps/search/?api=1&query=-12.406944,31.458333) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mutinondo%20Wilderness%2C%20Zambia) |
+| 11 | [Mwela Rock Paintings](sights/mwela-rock-paintings.yaml) | Attraction | **86.55** | **History 9.4**, **Culture 9.3** | 8.1 / 9.3 / 9.3 / 8.2 / 8.1 | [-10.198087, 31.248114](https://www.google.com/maps/search/?api=1&query=-10.198087,31.248114) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mwela%20Rock%20Paintings%2C%20Zambia) |
+| 12 | [Livingstone Museum](sights/livingstone-museum.yaml) | Museum / heritage | **84.30** | **History 9.1**, **Culture 9.0** | 8.0 / 8.5 / 8.9 / 8.5 / 8.5 | [-17.8436, 25.8551](https://www.google.com/maps/search/?api=1&query=-17.8436,25.8551) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Livingstone%20Museum%2C%20Zambia) |
 
-## Not yet fully assessed (7)
+## Not yet fully assessed (8)
 
 These destinations have no rank until all five core scores are assessed.
 
@@ -35,7 +37,8 @@ These destinations have no rank until all five core scores are assessed.
 | — | [Chirundu Fossil Forest](sights/chirundu-fossil-forest.yaml) | Forest | **—** | **Nature 8.9**, **History 8.5** | — / 8.7 / 9.0 / — / — | [-16.016667, 28.85](https://www.google.com/maps/search/?api=1&query=-16.016667,28.85) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Chirundu%20Fossil%20Forest%2C%20Zambia) |
 | — | [Ing’ombe Ilede Archaeological Site](sights/ingombe-ilede.yaml) | Museum / heritage | **—** | **History 9.3** | — / 8.9 / 9.2 / — / — | [-16.160306, 28.802778](https://www.google.com/maps/search/?api=1&query=-16.160306,28.802778) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ing%E2%80%99ombe%20Ilede%20Archaeological%20Site%2C%20Zambia) |
 | — | [Kafue Flats Wetlands](sights/kafue-flats.yaml) | Wetland | **—** | **Nature 9.3**, **Wildlife 9.3** | 8.7 / 9.1 / 9.3 / — / — | [-15.672806, 27.300386](https://www.google.com/maps/search/?api=1&query=-15.672806,27.300386) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kafue%20Flats%20Wetlands%2C%20Zambia) |
-| — | [Mwela Rock Paintings](sights/mwela-rock-paintings.yaml) | Attraction | **—** | **History 9.4**, **Culture 9.3** | — / 9.3 / 9.3 / — / — | [-10.198087, 31.248114](https://www.google.com/maps/search/?api=1&query=-10.198087,31.248114) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mwela%20Rock%20Paintings%2C%20Zambia) |
+| — | [Luangwa Basin Karoo Vertebrate Fossil Sites](sights/luangwa-karoo-fossil-sites.yaml) | Attraction | **—** | — | — / — / — / — / — | [-12.45, 32.05](https://www.google.com/maps/search/?api=1&query=-12.45,32.05) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Luangwa%20Basin%20Karoo%20Vertebrate%20Fossil%20Sites%2C%20Zambia) |
+| — | [Sitwe–Ntawere Karoo Localities](sights/sitwe-ntawere-fossil-localities.yaml) | Attraction | **—** | — | — / — / — / — / — | [-10.83, 33.19](https://www.google.com/maps/search/?api=1&query=-10.83,33.19) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sitwe%E2%80%93Ntawere%20Karoo%20Localities%2C%20Zambia) |
 | — | [Southern Africa Liberation Heritage Sites in Zambia](sights/southern-africa-liberation-heritage.yaml) | Attraction | **—** | **History 9.3** | — / 8.8 / 9.2 / — / — | [-13.133889, 27.849306](https://www.google.com/maps/search/?api=1&query=-13.133889,27.849306) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Southern%20Africa%20Liberation%20Heritage%20Sites%20in%20Zambia%2C%20Zambia) |
 | — | [Zambezi Headwaters](sights/zambezi-headwaters.yaml) | Attraction | **—** | **Nature 9.1** | 7.8 / 8.7 / 9.2 / — / — | [-11.369444, 24.308333](https://www.google.com/maps/search/?api=1&query=-11.369444,24.308333) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Zambezi%20Headwaters%2C%20Zambia) |
 
