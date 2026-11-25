@@ -1,0 +1,15 @@
+id: sight-om-khasab-fort
+name: "Khasab Fort"
+location:
+  country_code: OM
+  latitude: 26.198
+  longitude: 56.248
+scores:
+  impact: 7.7
+  uniqueness: 7.6
+  significance: 8.1
+  experience: 8.0
+  depth: 7.3
+  categories:
+    architecture: 8.3
+    history: 8.5

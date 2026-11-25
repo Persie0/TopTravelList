@@ -1,0 +1,16 @@
+id: city-br-campo-grande
+name: "Campo Grande"
+location:
+  country_code: BR
+  latitude: -20.4697
+  longitude: -54.6201
+scores:
+  impact: 6.7
+  uniqueness: 7.3
+  significance: 6.7
+  experience: 7.7
+  depth: 7.3
+  categories:
+    food: 8.2
+    culture: 8.1
+    relaxation: 7.8

@@ -1,0 +1,16 @@
+id: sight-cl-churches-of-chiloe
+name: "Churches of Chiloé"
+location:
+  country_code: CL
+  latitude: -42.4800
+  longitude: -73.7624
+scores:
+  impact: 8.6
+  uniqueness: 9.4
+  significance: 9.2
+  experience: 8.6
+  depth: 8.9
+  categories:
+    architecture: 9.6
+    history: 9.4
+    culture: 9.3

@@ -1,0 +1,14 @@
+id: sight-rw-mount-gahinga
+name: "Mount Gahinga"
+location:
+  country_code: RW
+  latitude: -1.3870
+  longitude: 29.6450
+scores:
+  impact: null
+  uniqueness: null
+  significance: 7.6
+  experience: null
+  depth: null
+  categories:
+    nature: 8.5

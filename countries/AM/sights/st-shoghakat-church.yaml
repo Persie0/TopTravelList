@@ -1,0 +1,15 @@
+id: sight-am-st-shoghakat-church
+name: "St Shoghakat Church"
+location:
+  country_code: AM
+  latitude: 40.169
+  longitude: 44.307
+scores:
+  impact: 7.3
+  uniqueness: 7.9
+  significance: 8.0
+  experience: 7.6
+  depth: 5.9
+  categories:
+    architecture: 8.3
+    history: 8.4

@@ -1,0 +1,17 @@
+id: city-co-cartagena
+name: "Cartagena"
+location:
+  country_code: CO
+  latitude: 10.3910
+  longitude: -75.4794
+scores:
+  impact: 9.2
+  uniqueness: 9.1
+  significance: 9.3
+  experience: 8.8
+  depth: 9.0
+  categories:
+    architecture: 9.5
+    history: 9.5
+    culture: 9.2
+    food: 8.9

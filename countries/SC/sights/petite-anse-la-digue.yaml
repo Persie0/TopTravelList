@@ -1,0 +1,15 @@
+id: sight-sc-petite-anse-la-digue
+name: "Petite Anse (La Digue)"
+location:
+  country_code: SC
+  latitude: -4.3690
+  longitude: 55.8470
+scores:
+  impact: 9.0
+  uniqueness: 8.7
+  significance: 6.4
+  experience: 7.9
+  depth: 6.8
+  categories:
+    beaches: 9.0
+    photography: 9.1

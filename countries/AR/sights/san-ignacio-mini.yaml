@@ -1,0 +1,16 @@
+id: sight-ar-san-ignacio-mini
+name: "San Ignacio Miní"
+location:
+  country_code: AR
+  latitude: -27.2570
+  longitude: -55.5320
+scores:
+  impact: 8.7
+  uniqueness: 9.0
+  significance: 9.2
+  experience: 8.6
+  depth: 8.0
+  categories:
+    architecture: 9.3
+    history: 9.4
+    culture: 9.0

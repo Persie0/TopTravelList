@@ -1,0 +1,15 @@
+id: sight-bw-supa-ngwao-museum
+name: "Supa Ngwao Museum"
+location:
+  country_code: BW
+  latitude: -21.1680
+  longitude: 27.5120
+scores:
+  impact: 6.6
+  uniqueness: 7.6
+  significance: 8.1
+  experience: 7.6
+  depth: 6.8
+  categories:
+    history: 8.5
+    culture: 8.4

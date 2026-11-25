@@ -1,0 +1,15 @@
+id: sight-gy-abary-creek-wetlands
+name: "Abary Creek Wetlands"
+location:
+  country_code: GY
+  latitude: 6.6333
+  longitude: -57.8833
+scores:
+  impact: 7.6
+  uniqueness: 8.1
+  significance: 8.0
+  experience: 8.0
+  depth: 7.3
+  categories:
+    wildlife: 8.8
+    nature: 8.4

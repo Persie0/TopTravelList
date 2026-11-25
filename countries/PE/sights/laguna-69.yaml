@@ -1,0 +1,16 @@
+id: sight-pe-laguna-69
+name: "Laguna 69"
+location:
+  country_code: PE
+  latitude: -9.0100
+  longitude: -77.6150
+scores:
+  impact: 9.2
+  uniqueness: 8.8
+  significance: 7.5
+  experience: 8.6
+  depth: 7.3
+  categories:
+    nature: 9.4
+    photography: 9.6
+    adventure: 8.8

@@ -1,0 +1,15 @@
+id: city-ec-guaranda
+name: "Guaranda"
+location:
+  country_code: EC
+  latitude: -1.5926
+  longitude: -79.0000
+scores:
+  impact: 6.7
+  uniqueness: 7.2
+  significance: 7.2
+  experience: 7.2
+  depth: 6.5
+  categories:
+    culture: 7.8
+    history: 7.6

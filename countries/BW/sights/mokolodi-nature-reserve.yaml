@@ -1,0 +1,16 @@
+id: sight-bw-mokolodi-nature-reserve
+name: "Mokolodi Nature Reserve"
+location:
+  country_code: BW
+  latitude: -24.7550
+  longitude: 25.8050
+scores:
+  impact: 7.6
+  uniqueness: 7.7
+  significance: 7.4
+  experience: 8.3
+  depth: 7.4
+  categories:
+    nature: 8.2
+    wildlife: 8.5
+    family: 8.4

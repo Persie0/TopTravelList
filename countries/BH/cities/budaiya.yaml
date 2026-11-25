@@ -1,0 +1,15 @@
+id: city-bh-budaiya
+name: "Budaiya"
+location:
+  country_code: BH
+  latitude: 26.2170
+  longitude: 50.4530
+scores:
+  impact: 6.8
+  uniqueness: 7.0
+  significance: 6.9
+  experience: 7.3
+  depth: 6.3
+  categories:
+    relaxation: 7.6
+    culture: 7.3

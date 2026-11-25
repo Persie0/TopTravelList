@@ -1,0 +1,15 @@
+id: sight-xk-ulpiana-archaeological-park
+name: "Ulpiana Archaeological Park"
+location:
+  country_code: XK
+  latitude: 42.5960
+  longitude: 21.1700
+scores:
+  impact: 8.0
+  uniqueness: 8.6
+  significance: 9.0
+  experience: 8.2
+  depth: 8.2
+  categories:
+    history: 9.3
+    culture: 9.0

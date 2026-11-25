@@ -1,0 +1,16 @@
+id: sight-xk-liqenat-lakes
+name: "Liqenat Lakes"
+location:
+  country_code: XK
+  latitude: 42.6530
+  longitude: 20.0980
+scores:
+  impact: 8.6
+  uniqueness: 8.5
+  significance: 7.5
+  experience: 8.6
+  depth: 7.9
+  categories:
+    nature: 9.2
+    photography: 9.2
+    adventure: 8.9

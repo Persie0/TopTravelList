@@ -1,0 +1,15 @@
+id: sight-mt-upper-barrakka-gardens
+name: "Upper Barrakka Gardens"
+location:
+  country_code: MT
+  latitude: 35.8955
+  longitude: 14.5123
+scores:
+  impact: 8.6
+  uniqueness: 8.3
+  significance: 7.9
+  experience: 8.6
+  depth: 7.2
+  categories:
+    photography: 9.3
+    relaxation: 8.8

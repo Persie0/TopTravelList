@@ -1,0 +1,16 @@
+id: sight-py-cerro-tres-kandu
+name: "Cerro Tres Kandú"
+location:
+  country_code: PY
+  latitude: -25.9333
+  longitude: -56.2167
+scores:
+  impact: 8.2
+  uniqueness: 8.0
+  significance: 7.4
+  experience: 8.3
+  depth: 7.6
+  categories:
+    nature: 8.6
+    adventure: 8.7
+    photography: 8.7

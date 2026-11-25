@@ -1,0 +1,17 @@
+id: sight-mv-farikede-marine-protected-area
+name: "Farikede Marine Protected Area"
+location:
+  country_code: MV
+  latitude: -0.33
+  longitude: 73.442
+scores:
+  impact: 9.3
+  uniqueness: 9.5
+  significance: 9.2
+  experience: 9.3
+  depth: 8.5
+  categories:
+    nature: 9.4
+    wildlife: 9.7
+    adventure: 9.5
+    photography: 9.2

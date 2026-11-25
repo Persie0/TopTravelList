@@ -1,0 +1,17 @@
+id: sight-ec-historic-centre-of-quito
+name: "Historic Centre of Quito"
+location:
+  country_code: EC
+  latitude: -0.2200
+  longitude: -78.5120
+scores:
+  impact: 9.3
+  uniqueness: 9.0
+  significance: 9.6
+  experience: 9.0
+  depth: 9.4
+  categories:
+    architecture: 9.6
+    history: 9.6
+    culture: 9.4
+    photography: 9.3

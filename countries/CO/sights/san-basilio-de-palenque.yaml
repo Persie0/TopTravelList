@@ -1,0 +1,15 @@
+id: sight-co-san-basilio-de-palenque
+name: "San Basilio de Palenque"
+location:
+  country_code: CO
+  latitude: 10.1030
+  longitude: -75.1980
+scores:
+  impact: 7.7
+  uniqueness: 9.2
+  significance: 9.2
+  experience: 8.4
+  depth: 7.3
+  categories:
+    culture: 9.6
+    history: 9.4

@@ -1,0 +1,17 @@
+id: sight-br-historic-centre-of-salvador-de-bahia
+name: "Historic Centre of Salvador de Bahia"
+location:
+  country_code: BR
+  latitude: -12.9730
+  longitude: -38.5100
+scores:
+  impact: 9.2
+  uniqueness: 9.2
+  significance: 9.5
+  experience: 8.5
+  depth: 8.8
+  categories:
+    architecture: 9.6
+    history: 9.7
+    culture: 9.6
+    photography: 9.3

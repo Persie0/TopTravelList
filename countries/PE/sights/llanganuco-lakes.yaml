@@ -1,0 +1,15 @@
+id: sight-pe-llanganuco-lakes
+name: "Llanganuco Lakes"
+location:
+  country_code: PE
+  latitude: -9.0650
+  longitude: -77.6370
+scores:
+  impact: 8.9
+  uniqueness: 8.4
+  significance: 7.6
+  experience: 8.6
+  depth: 7.6
+  categories:
+    nature: 9.2
+    photography: 9.4

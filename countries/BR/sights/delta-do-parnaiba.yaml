@@ -1,0 +1,16 @@
+id: sight-br-delta-do-parnaiba
+name: "Delta do Parnaíba"
+location:
+  country_code: BR
+  latitude: -2.7600
+  longitude: -41.8500
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 8.4
+  experience: 8.7
+  depth: 8.6
+  categories:
+    nature: 9.3
+    wildlife: 9.4
+    photography: 9.2

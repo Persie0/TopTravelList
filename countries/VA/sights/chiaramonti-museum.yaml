@@ -1,0 +1,15 @@
+id: sight-va-chiaramonti-museum
+name: "Chiaramonti Museum"
+location:
+  country_code: VA
+  latitude: 41.90554
+  longitude: 12.45403
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 9.0
+  experience: 8.6
+  depth: 8.4
+  categories:
+    culture: 9.2
+    history: 9.2

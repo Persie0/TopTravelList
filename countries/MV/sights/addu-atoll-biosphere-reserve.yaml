@@ -1,0 +1,17 @@
+id: sight-mv-addu-atoll-biosphere-reserve
+name: "Addu Atoll Biosphere Reserve"
+location:
+  country_code: MV
+  latitude: -0.65
+  longitude: 73.16
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 9.1
+  experience: 9.0
+  depth: 9.2
+  categories:
+    nature: 9.2
+    wildlife: 9.2
+    adventure: 9.0
+    photography: 9.1

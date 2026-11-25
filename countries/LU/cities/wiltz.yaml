@@ -1,0 +1,15 @@
+id: city-lu-wiltz
+name: "Wiltz"
+location:
+  country_code: LU
+  latitude: 49.9660
+  longitude: 5.9330
+scores:
+  impact: 7.5
+  uniqueness: 7.7
+  significance: 7.9
+  experience: 7.8
+  depth: 7.3
+  categories:
+    history: 8.5
+    culture: 8.4

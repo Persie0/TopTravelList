@@ -1,0 +1,15 @@
+id: city-gy-corriverton
+name: "Corriverton"
+location:
+  country_code: GY
+  latitude: 5.8833
+  longitude: -57.1833
+scores:
+  impact: 6.2
+  uniqueness: 6.8
+  significance: 6.5
+  experience: 6.9
+  depth: 6.4
+  categories:
+    culture: 7.3
+    food: 7.2

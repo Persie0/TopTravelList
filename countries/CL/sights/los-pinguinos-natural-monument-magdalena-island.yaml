@@ -1,0 +1,15 @@
+id: sight-cl-los-pinguinos-natural-monument-magdalena-island
+name: "Los Pingüinos Natural Monument (Magdalena Island)"
+location:
+  country_code: CL
+  latitude: -52.9180
+  longitude: -70.5700
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 8.5
+  experience: 8.7
+  depth: 7.3
+  categories:
+    wildlife: 9.5
+    nature: 9.1

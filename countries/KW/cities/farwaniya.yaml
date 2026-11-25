@@ -1,0 +1,15 @@
+id: city-kw-farwaniya
+name: "Farwaniya"
+location:
+  country_code: KW
+  latitude: 29.2775
+  longitude: 47.9586
+scores:
+  impact: 5.9
+  uniqueness: 5.9
+  significance: 6.0
+  experience: 6.8
+  depth: 6.5
+  categories:
+    food: 7.2
+    culture: 6.7

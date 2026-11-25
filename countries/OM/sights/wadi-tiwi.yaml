@@ -1,0 +1,16 @@
+id: sight-om-wadi-tiwi
+name: "Wadi Tiwi"
+location:
+  country_code: OM
+  latitude: 22.815
+  longitude: 59.252
+scores:
+  impact: 8.7
+  uniqueness: 8.5
+  significance: 7.6
+  experience: 8.5
+  depth: 8.1
+  categories:
+    nature: 8.9
+    photography: 9.0
+    adventure: 8.7

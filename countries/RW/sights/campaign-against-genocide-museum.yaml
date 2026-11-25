@@ -1,0 +1,15 @@
+id: sight-rw-campaign-against-genocide-museum
+name: "Campaign Against Genocide Museum"
+location:
+  country_code: RW
+  latitude: -1.9520
+  longitude: 30.0930
+scores:
+  impact: 7.4
+  uniqueness: 8.3
+  significance: 8.9
+  experience: 8.1
+  depth: 7.5
+  categories:
+    history: 9.2
+    culture: 8.5

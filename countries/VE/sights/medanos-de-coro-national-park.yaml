@@ -1,0 +1,16 @@
+id: sight-ve-medanos-de-coro-national-park
+name: "Médanos de Coro National Park"
+location:
+  country_code: VE
+  latitude: 11.4400
+  longitude: -69.6800
+scores:
+  impact: 8.5
+  uniqueness: 8.3
+  significance: 7.4
+  experience: 8.3
+  depth: 7.3
+  categories:
+    nature: 8.8
+    photography: 9.0
+    adventure: 8.2

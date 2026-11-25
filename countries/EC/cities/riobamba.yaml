@@ -1,0 +1,16 @@
+id: city-ec-riobamba
+name: "Riobamba"
+location:
+  country_code: EC
+  latitude: -1.6636
+  longitude: -78.6546
+scores:
+  impact: 7.3
+  uniqueness: 7.3
+  significance: 7.6
+  experience: 7.6
+  depth: 7.4
+  categories:
+    architecture: 8.0
+    history: 8.0
+    culture: 7.9

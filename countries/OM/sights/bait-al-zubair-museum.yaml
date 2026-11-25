@@ -1,0 +1,15 @@
+id: sight-om-bait-al-zubair-museum
+name: "Bait Al Zubair Museum"
+location:
+  country_code: OM
+  latitude: 23.615
+  longitude: 58.591
+scores:
+  impact: 7.7
+  uniqueness: 8.1
+  significance: 8.2
+  experience: 8.2
+  depth: 7.7
+  categories:
+    culture: 8.8
+    history: 8.6

@@ -1,0 +1,16 @@
+id: sight-mw-st-peter-s-cathedral-likoma
+name: "St Peter's Cathedral (Likoma)"
+location:
+  country_code: MW
+  latitude: -12.0760
+  longitude: 34.7350
+scores:
+  impact: 8.0
+  uniqueness: 8.7
+  significance: 8.7
+  experience: 8.2
+  depth: 7.2
+  categories:
+    architecture: 9.1
+    history: 9.1
+    culture: 8.9

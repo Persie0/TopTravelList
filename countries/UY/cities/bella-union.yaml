@@ -1,0 +1,15 @@
+id: city-uy-bella-union
+name: "Bella Union"
+location:
+  country_code: UY
+  latitude: -30.2597
+  longitude: -57.5992
+scores:
+  impact: 6.3
+  uniqueness: 6.8
+  significance: 6.5
+  experience: 6.8
+  depth: 6.3
+  categories:
+    culture: 7.2
+    food: 7.0
