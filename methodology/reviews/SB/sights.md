@@ -532,3 +532,160 @@
 - Final decision: provisionally ranked on documented visitor scope; not independently verified.
 - Earlier decision: earlier entry for this ID, unranked.
 - Verification still needed: Ordinary authorized visits only; confirm local permission, conservation conditions and operator availability.
+
+
+### sight-sb-kolombangara-central-caldera-forests — Kolombangara Central Caldera Forests — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/SB/sights/kolombangara-central-caldera-forests.yaml)
+- Action: rescore
+- Precise subject: Central volcanic caldera and upland forest component only, not coastal settlements, plantations or marine reefs.
+- Location check: Retain representative coordinates from UNESCO tentative submission (https://whc.unesco.org/en/tentativelists/5416/); not an entrance or independently surveyed point.
+- Evidence status: source-linked-unverified
+- Checked factual reference excerpts (2026-11-25):
+  - UNESCO tentative submission identifies the central caldera component and lists representative coordinates — https://whc.unesco.org/en/tentativelists/5416/
+  - Kolombangara Biodiversity Conservation Association documents the above-400m conservation area and three peaks — https://kolombangara.org/conservation-area
+  - KIBCA describes guided river, rainforest, crater and summit treks — https://www.kolombangara.org/walking-itineraries
+  - Wildlife Conservation Society corroborates intact high-altitude forest and conservation work — https://solomonislands.wcs.org/Wild-Places/Kolombangara-Island
+  - Tourism Solomons lists Imbu Rano as a base for forest hikes — https://www.visitsolomons.com.sb/tour/imbu-rano/
+- Missing or uncertain facts: Exact tentative component boundaries and current guide availability still need confirmation; no guaranteed wildlife sightings.
+
+#### Worldwide peer comparisons
+- Kinabalu Park (Malaysia), 9.4/9.5/9.5/9.2/9.3: much greater elevational breadth and globally exceptional endemic biota.
+- Khao Yai National Park (Thailand), 9.0/9.1/9.0/9.0/9.2: broader documented tropical wildlife experiences.
+- Taman Negara National Park (Malaysia), 9.0/9.1/9.0/8.9/9.2: more extensive rainforest and river visitor network.
+- Kalkalpen National Park (Austria), 8.7/9.0/9.1/8.6/9.0: comparable forest hiking and conservation, distinct temperate ecosystem.
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | null | 8.7 | Steep volcanic rim, crater and dense upland rainforest; less spectacular than Kinabalu. |
+| Uniqueness | null | 9.0 | Distinct island volcanic forest zonation and endemic birds; not globally unparalleled. |
+| Significance | null | 9.0 | Rare intact high-elevation western Pacific rainforest and conservation significance. |
+| Experience | null | 8.7 | Conservation authority advertises guided crater and upland trails; only documented routes credited. |
+| Depth | null | 8.9 | River walks, crater, ridge and summit routes supply varied multiday exploration. |
+
+- Applicable category scores: nature 9.1, wildlife 9.0, adventure 8.8; provisional, component-specific.
+- Computed worldwide overall: 88.55/100
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Complete provisional rating for documented consent-based component visitor experiences.
+- Earlier decision: prior unranked entry for this ID.
+- Verification still needed: Exact tentative component boundaries and current guide availability still need confirmation; no guaranteed wildlife sightings. Canonical worldwide diagnostics outstanding.
+
+
+### sight-sb-bauro-highlands — Bauro Highlands — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/SB/sights/bauro-highlands.yaml)
+- Action: rescore
+- Precise subject: Makira's proposed central highland forest component, including documented consent-based Hauta-area guided birding, not all Makira or nearby islands.
+- Location check: Retain representative coordinates from UNESCO tentative submission (https://whc.unesco.org/en/tentativelists/5416/); not an entrance or independently surveyed point.
+- Evidence status: source-linked-unverified
+- Checked factual reference excerpts (2026-11-25):
+  - UNESCO identifies the Bauro Highlands as a major remaining forest tract with endemic birdlife — https://whc.unesco.org/en/tentativelists/5416/
+  - Birdquest describes established guided highland trekking to accommodation near Hauta — https://www.birdquest-tours.com/birding-tours/solomon-islands/
+  - WINGS independently advertises highland birding excursions with local guides and Makira endemics — https://wingsbirds.com/tours/solomon-islands/
+  - Trek-Papua explicitly describes guided walks to Hauta Conservation Area and inland mountains — https://trek-papua.com/papua-travel-tips/solomon-island-birding-2/
+- Missing or uncertain facts: Exact proposed boundaries and route overlap, current landowner consent, and wildlife viewing variability need further checking.
+
+#### Worldwide peer comparisons
+- Kinabalu Park (Malaysia), 9.4/9.5/9.5/9.2/9.3: stronger visual relief and broader montane habitats.
+- Khao Yai National Park (Thailand), 9.0/9.1/9.0/9.0/9.2: more generalist wildlife and waterfall experiences.
+- Taman Negara National Park (Malaysia), 9.0/9.1/9.0/8.9/9.2: greater breadth of established forest routes.
+- Kalkalpen National Park (Austria), 8.7/9.0/9.1/8.6/9.0: more scenic mountain viewpoints; Bauro's distinctive birdlife differs.
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | null | 8.0 | Dense upland forest and ridges are rewarding but lack Kolombangara's distinctive caldera scenery. |
+| Uniqueness | null | 8.9 | Restricted-range Makira birds and isolated island forest communities are hard to substitute. |
+| Significance | null | 9.0 | Remaining forest tracts support internationally important endemic birds. |
+| Experience | null | 8.4 | Documented community-guided highland birding offers focused specialist exploration. |
+| Depth | null | 8.4 | Forest walks and multiday birding have meaningful depth; no assumption of access across the whole component. |
+
+- Applicable category scores: nature 8.9, wildlife 9.1, adventure 8.3; provisional, component-specific.
+- Computed worldwide overall: 85.25/100
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Complete provisional rating for documented consent-based component visitor experiences.
+- Earlier decision: prior unranked entry for this ID.
+- Verification still needed: Exact proposed boundaries and route overlap, current landowner consent, and wildlife viewing variability need further checking. Canonical worldwide diagnostics outstanding.
+
+
+### sight-sb-mount-maetambe-region — Mount Maetambe Region — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/SB/sights/mount-maetambe-region.yaml)
+- Action: rescore
+- Precise subject: Proposed Choiseul karst forest component; not the unrelated volcanic island of Kolombangara.
+- Location check: Retain representative coordinates from UNESCO tentative submission (https://whc.unesco.org/en/tentativelists/5416/); not an entrance or independently surveyed point.
+- Evidence status: unassessed
+- Checked factual reference excerpts (2026-11-25):
+  - UNESCO identifies the coast-to-upland limestone forest and representative coordinates — https://whc.unesco.org/en/tentativelists/5416/
+  - KBA factsheet corroborates intact forest on karst limestone and notes limited survey data — https://www.keybiodiversityareas.org/en/site/factsheet/27490
+  - Nakau documents customary forest conservation initiatives in the Maetambe-Kolombangara River corridor — https://nakau.org/projects/babatana-solomon-islands
+- Missing or uncertain facts: Retain unranked; no assumption that customary conservation project permits recreational access.
+
+#### Worldwide peer comparisons
+- Kinabalu Park (Malaysia), 9.4/9.5/9.5/9.2/9.3: more exceptional altitudinal range.
+- Khao Yai National Park (Thailand), 9.0/9.1/9.0/9.0/9.2: comparable conservation significance with verified visitor routes.
+- Taman Negara National Park (Malaysia), 9.0/9.1/9.0/8.9/9.2: much broader verified forest excursions.
+- Kalkalpen National Park (Austria), 8.7/9.0/9.1/8.6/9.0: different forest ecosystem with documented mountain routes.
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | null | 8.3 | Coast-to-upland limestone ridges and forest landscape, not a claim of visitor-visible viewpoints. |
+| Uniqueness | null | 8.8 | Distinct karst forest and island ecological setting, with analogues in other tropical karsts. |
+| Significance | null | 9.0 | Important remaining native habitat and community conservation, with limited survey coverage. |
+| Experience | null | null | Ordinary authorized visitor activities across the component remain unverified. |
+| Depth | null | null | No established visitor route network or breadth verified. |
+
+- Applicable category scores: nature 9.0; provisional, component-specific.
+- Computed worldwide overall: unranked
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Retain unranked with documented ecological partial scores.
+- Earlier decision: prior unranked entry for this ID.
+- Verification still needed: Retain unranked; no assumption that customary conservation project permits recreational access. Canonical worldwide diagnostics outstanding.
+
+
+### sight-sb-mount-popomanaseu-region — Mount Popomanaseu Region — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/SB/sights/mount-popomanaseu-region.yaml)
+- Action: rescore
+- Precise subject: Guadalcanal's proposed mountain and forest catchment component, not merely the summit trek.
+- Location check: Retain representative coordinates from UNESCO tentative submission (https://whc.unesco.org/en/tentativelists/5416/); not an entrance or independently surveyed point.
+- Evidence status: unassessed
+- Checked factual reference excerpts (2026-11-25):
+  - UNESCO describes riverine to montane forest transition in the proposed region — https://whc.unesco.org/en/tentativelists/5416/
+  - KBA factsheet corroborates extensive contiguous montane forest and rugged mountain terrain — https://www.keybiodiversityareas.org/en/site/factsheet/26705
+  - Australian High Commission documents a guided summit trek in 2013, not current routine access across the catchments — https://solomonislands.highcommission.gov.au/honi/211013-1.html
+  - ABC News reports an August 2026 mountain rescue, not evidence of a customary authorized wider visitor itinerary — https://www.abc.net.au/news/2026-08-04/two-new-zealand-men-rescued-from-solomon-islands-mountain/106993840
+- Missing or uncertain facts: Do not penalize intrinsic quality for remoteness or temporary weather; need documented normal visitor scope for this wider region.
+
+#### Worldwide peer comparisons
+- Kinabalu Park (Malaysia), 9.4/9.5/9.5/9.2/9.3: more outstanding elevation range and biodiversity.
+- Khao Yai National Park (Thailand), 9.0/9.1/9.0/9.0/9.2: similar conservation significance, different lowland habitats.
+- Taman Negara National Park (Malaysia), 9.0/9.1/9.0/8.9/9.2: wider documented visitor routes.
+- Kalkalpen National Park (Austria), 8.7/9.0/9.1/8.6/9.0: comparable forested mountain scenery, different temperate heritage.
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | null | 8.7 | Mountain ridges and forest elevational transitions are striking; no promise of clear summit views. |
+| Uniqueness | null | 8.8 | Distinct isolated island montane ecosystem, not comparable in scale to Kinabalu. |
+| Significance | null | 9.1 | Large contiguous montane forest and endemic species importance. |
+| Experience | null | null | Historical summit trek cannot establish normal permitted experience across the wider forest catchments. |
+| Depth | null | null | Extent of routinely authorized exploration across the component unconfirmed. |
+
+- Applicable category scores: nature 9.1; provisional, component-specific.
+- Computed worldwide overall: unranked
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Retain unranked with documented ecological partial scores.
+- Earlier decision: prior unranked entry for this ID.
+- Verification still needed: Do not penalize intrinsic quality for remoteness or temporary weather; need documented normal visitor scope for this wider region. Canonical worldwide diagnostics outstanding.
+
+
+## 2026-11-25 — Marovo–Tetepare scope follow-up
+
+For sight-sb-marovo-tetepare-complex, UNESCO's tentative description (https://whc.unesco.org/en/tentativelists/5414/) and WCS (https://solomonislands.wcs.org/Wild-Places/Marovo-Tetepare-complex) confirm the aggregate includes selected Vangunu/Gatokae terrestrial areas, Rendova coast and Hele barrier islands as well as Marovo Lagoon and Tetepare. The Tetepare community authority documents visits (https://tetepare.org/visit-tetepare-island/) and Oceanic Society documents travel focused on the lagoon and Tetepare (https://www.oceanicsociety.org/travel-ideas/solomon-islands-tourism-explore-the-marovo-tetepare-complex/). This supports existing separate visitor ratings but not sufficient breadth across the other aggregate components. Keep experience/depth null; no YAML changes. Sources checked 2026-11-25.
