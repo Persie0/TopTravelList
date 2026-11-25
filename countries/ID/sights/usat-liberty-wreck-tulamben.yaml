@@ -1,0 +1,16 @@
+id: sight-id-usat-liberty-wreck-tulamben
+name: "USAT Liberty Wreck Tulamben"
+location:
+  country_code: ID
+  latitude: -8.2740
+  longitude: 115.5920
+scores:
+  impact: 9.1
+  uniqueness: 9.2
+  significance: 8.5
+  experience: 9.3
+  depth: 8.6
+  categories:
+    adventure: 9.5
+    history: 8.7
+    wildlife: 9.0

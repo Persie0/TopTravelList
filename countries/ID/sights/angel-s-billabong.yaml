@@ -1,0 +1,15 @@
+id: sight-id-angel-s-billabong
+name: "Angel's Billabong"
+location:
+  country_code: ID
+  latitude: -8.7330
+  longitude: 115.4470
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 6.8
+  experience: 8.4
+  depth: 6.9
+  categories:
+    photography: 9.1
+    nature: 9.0

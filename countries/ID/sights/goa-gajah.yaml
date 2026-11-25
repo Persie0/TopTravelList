@@ -1,0 +1,16 @@
+id: sight-id-goa-gajah
+name: "Goa Gajah"
+location:
+  country_code: ID
+  latitude: -8.5230
+  longitude: 115.2870
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 8.8
+  experience: 8.7
+  depth: 8.0
+  categories:
+    history: 9.0
+    architecture: 9.0
+    culture: 8.9

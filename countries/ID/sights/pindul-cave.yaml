@@ -1,0 +1,15 @@
+id: sight-id-pindul-cave
+name: "Pindul Cave"
+location:
+  country_code: ID
+  latitude: -7.9290
+  longitude: 110.6480
+scores:
+  impact: 7.9
+  uniqueness: 8.0
+  significance: 7.0
+  experience: 8.5
+  depth: 7.3
+  categories:
+    adventure: 8.7
+    nature: 8.4

@@ -1,0 +1,15 @@
+id: sight-id-tukad-cepung-waterfall
+name: "Tukad Cepung Waterfall"
+location:
+  country_code: ID
+  latitude: -8.4410
+  longitude: 115.3860
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 7.0
+  experience: 8.8
+  depth: 7.5
+  categories:
+    photography: 9.3
+    nature: 9.0

@@ -1,0 +1,15 @@
+id: sight-id-museum-angkut
+name: "Museum Angkut"
+location:
+  country_code: ID
+  latitude: -7.8780
+  longitude: 112.5170
+scores:
+  impact: 8.2
+  uniqueness: 8.4
+  significance: 7.5
+  experience: 8.7
+  depth: 8.6
+  categories:
+    family: 8.9
+    culture: 8.4

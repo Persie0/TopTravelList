@@ -1,0 +1,16 @@
+id: sight-id-kasepuhan-palace-cirebon
+name: "Kasepuhan Palace Cirebon"
+location:
+  country_code: ID
+  latitude: -6.7260
+  longitude: 108.5700
+scores:
+  impact: 8.4
+  uniqueness: 8.8
+  significance: 8.8
+  experience: 8.5
+  depth: 8.1
+  categories:
+    architecture: 9.0
+    culture: 9.1
+    history: 9.0

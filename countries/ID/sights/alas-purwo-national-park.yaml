@@ -1,0 +1,16 @@
+id: sight-id-alas-purwo-national-park
+name: "Alas Purwo National Park"
+location:
+  country_code: ID
+  latitude: -8.6800
+  longitude: 114.3500
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 8.7
+  experience: 8.7
+  depth: 9.0
+  categories:
+    nature: 9.4
+    wildlife: 9.1
+    adventure: 8.9

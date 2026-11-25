@@ -1,0 +1,16 @@
+id: sight-id-kuta-beach-bali
+name: "Kuta Beach Bali"
+location:
+  country_code: ID
+  latitude: -8.7170
+  longitude: 115.1680
+scores:
+  impact: 8.1
+  uniqueness: 7.7
+  significance: 6.6
+  experience: 8.5
+  depth: 8.2
+  categories:
+    beaches: 8.6
+    adventure: 8.5
+    nightlife: 8.4

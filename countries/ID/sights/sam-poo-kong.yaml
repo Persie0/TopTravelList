@@ -1,0 +1,16 @@
+id: sight-id-sam-poo-kong
+name: "Sam Poo Kong"
+location:
+  country_code: ID
+  latitude: -6.9970
+  longitude: 110.3980
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 8.4
+  experience: 8.8
+  depth: 8.2
+  categories:
+    architecture: 9.0
+    culture: 9.2
+    photography: 9.0

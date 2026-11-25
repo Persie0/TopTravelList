@@ -1,0 +1,16 @@
+id: sight-id-tirta-empul-temple
+name: "Tirta Empul Temple"
+location:
+  country_code: ID
+  latitude: -8.4156
+  longitude: 115.3153
+scores:
+  impact: 8.9
+  uniqueness: 9.2
+  significance: 9.0
+  experience: 9.1
+  depth: 8.4
+  categories:
+    culture: 9.6
+    history: 9.1
+    architecture: 9.0

@@ -1,0 +1,16 @@
+id: sight-id-kota-tua-jakarta
+name: "Kota Tua Jakarta"
+location:
+  country_code: ID
+  latitude: -6.1352
+  longitude: 106.8133
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 9.0
+  experience: 8.6
+  depth: 8.6
+  categories:
+    history: 9.2
+    architecture: 9.0
+    culture: 8.8

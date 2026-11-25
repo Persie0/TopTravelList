@@ -1,0 +1,16 @@
+id: sight-id-tirta-gangga
+name: "Tirta Gangga"
+location:
+  country_code: ID
+  latitude: -8.4120
+  longitude: 115.5870
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 7.9
+  experience: 9.0
+  depth: 8.1
+  categories:
+    photography: 9.2
+    relaxation: 9.1
+    architecture: 8.8

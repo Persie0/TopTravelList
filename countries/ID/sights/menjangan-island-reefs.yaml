@@ -1,0 +1,16 @@
+id: sight-id-menjangan-island-reefs
+name: "Menjangan Island Reefs"
+location:
+  country_code: ID
+  latitude: -8.0990
+  longitude: 114.5200
+scores:
+  impact: 9.0
+  uniqueness: 8.9
+  significance: 8.2
+  experience: 9.2
+  depth: 8.7
+  categories:
+    nature: 9.4
+    adventure: 9.3
+    wildlife: 9.1

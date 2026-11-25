@@ -1,0 +1,15 @@
+id: sight-id-jakarta-history-museum
+name: "Jakarta History Museum"
+location:
+  country_code: ID
+  latitude: -6.1350
+  longitude: 106.8133
+scores:
+  impact: 8.1
+  uniqueness: 8.4
+  significance: 8.7
+  experience: 8.3
+  depth: 8.4
+  categories:
+    history: 9.0
+    architecture: 8.6

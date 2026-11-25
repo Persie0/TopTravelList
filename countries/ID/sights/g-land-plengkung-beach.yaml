@@ -1,0 +1,16 @@
+id: sight-id-g-land-plengkung-beach
+name: "G Land Plengkung Beach"
+location:
+  country_code: ID
+  latitude: -8.7330
+  longitude: 114.3300
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 7.5
+  experience: 9.1
+  depth: 8.4
+  categories:
+    adventure: 9.5
+    beaches: 9.1
+    nature: 9.0

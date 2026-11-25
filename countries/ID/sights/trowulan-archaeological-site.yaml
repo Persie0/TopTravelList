@@ -1,0 +1,16 @@
+id: sight-id-trowulan-archaeological-site
+name: "Trowulan Archaeological Site"
+location:
+  country_code: ID
+  latitude: -7.5540
+  longitude: 112.3840
+scores:
+  impact: 8.5
+  uniqueness: 9.1
+  significance: 9.5
+  experience: 8.5
+  depth: 9.0
+  categories:
+    history: 9.7
+    architecture: 9.0
+    culture: 9.1

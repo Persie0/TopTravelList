@@ -1,0 +1,16 @@
+id: sight-id-taman-mini-indonesia-indah
+name: "Taman Mini Indonesia Indah"
+location:
+  country_code: ID
+  latitude: -6.3025
+  longitude: 106.8940
+scores:
+  impact: 8.4
+  uniqueness: 8.5
+  significance: 7.9
+  experience: 8.7
+  depth: 9.0
+  categories:
+    culture: 9.0
+    family: 9.1
+    architecture: 8.6

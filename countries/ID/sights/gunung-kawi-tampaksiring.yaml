@@ -1,0 +1,16 @@
+id: sight-id-gunung-kawi-tampaksiring
+name: "Gunung Kawi Tampaksiring"
+location:
+  country_code: ID
+  latitude: -8.4230
+  longitude: 115.3130
+scores:
+  impact: 9.0
+  uniqueness: 9.3
+  significance: 9.1
+  experience: 9.0
+  depth: 8.5
+  categories:
+    architecture: 9.4
+    history: 9.3
+    photography: 9.3

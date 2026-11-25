@@ -1,0 +1,15 @@
+id: sight-id-agung-rai-museum-of-art
+name: "Agung Rai Museum of Art"
+location:
+  country_code: ID
+  latitude: -8.5230
+  longitude: 115.2690
+scores:
+  impact: 8.3
+  uniqueness: 8.6
+  significance: 8.4
+  experience: 8.7
+  depth: 8.6
+  categories:
+    culture: 9.0
+    relaxation: 8.5

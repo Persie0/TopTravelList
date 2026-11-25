@@ -1,0 +1,15 @@
+id: sight-id-sonobudoyo-museum
+name: "Sonobudoyo Museum"
+location:
+  country_code: ID
+  latitude: -7.8022
+  longitude: 110.3635
+scores:
+  impact: 8.2
+  uniqueness: 8.5
+  significance: 8.7
+  experience: 8.5
+  depth: 8.5
+  categories:
+    culture: 9.0
+    history: 8.9

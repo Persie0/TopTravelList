@@ -1,0 +1,16 @@
+id: sight-id-parangtritis-beach
+name: "Parangtritis Beach"
+location:
+  country_code: ID
+  latitude: -8.0250
+  longitude: 110.3260
+scores:
+  impact: 8.1
+  uniqueness: 8.2
+  significance: 7.7
+  experience: 8.3
+  depth: 7.8
+  categories:
+    photography: 8.7
+    culture: 8.4
+    nature: 8.4

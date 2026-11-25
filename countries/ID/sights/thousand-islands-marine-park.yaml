@@ -1,0 +1,16 @@
+id: sight-id-thousand-islands-marine-park
+name: "Thousand Islands Marine Park"
+location:
+  country_code: ID
+  latitude: -5.7800
+  longitude: 106.5600
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 8.0
+  experience: 8.8
+  depth: 8.9
+  categories:
+    nature: 9.1
+    beaches: 8.9
+    adventure: 8.8

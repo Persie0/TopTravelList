@@ -1,0 +1,16 @@
+id: sight-id-semarang-old-town
+name: "Semarang Old Town"
+location:
+  country_code: ID
+  latitude: -6.9690
+  longitude: 110.4280
+scores:
+  impact: 8.4
+  uniqueness: 8.5
+  significance: 8.7
+  experience: 8.7
+  depth: 8.4
+  categories:
+    architecture: 8.9
+    history: 8.9
+    photography: 8.9

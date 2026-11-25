@@ -1,0 +1,15 @@
+id: sight-id-tangkuban-perahu
+name: "Tangkuban Perahu"
+location:
+  country_code: ID
+  latitude: -6.7580
+  longitude: 107.6090
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 7.9
+  experience: 8.8
+  depth: 8.0
+  categories:
+    nature: 9.2
+    photography: 9.2

@@ -1,0 +1,15 @@
+id: sight-id-blanco-renaissance-museum
+name: "Blanco Renaissance Museum"
+location:
+  country_code: ID
+  latitude: -8.5040
+  longitude: 115.2510
+scores:
+  impact: 7.9
+  uniqueness: 8.4
+  significance: 7.6
+  experience: 8.3
+  depth: 7.8
+  categories:
+    culture: 8.7
+    architecture: 8.4
