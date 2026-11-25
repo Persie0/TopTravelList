@@ -1,0 +1,15 @@
+id: city-my-kuala-kangsar
+name: "Kuala Kangsar"
+location:
+  country_code: MY
+  latitude: 4.7740
+  longitude: 100.9430
+scores:
+  impact: 7.7
+  uniqueness: 8.0
+  significance: 8.1
+  experience: 8.0
+  depth: 7.6
+  categories:
+    architecture: 8.5
+    history: 8.5

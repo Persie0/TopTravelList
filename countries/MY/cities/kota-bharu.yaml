@@ -1,0 +1,16 @@
+id: city-my-kota-bharu
+name: "Kota Bharu"
+location:
+  country_code: MY
+  latitude: 6.1254
+  longitude: 102.2381
+scores:
+  impact: 7.6
+  uniqueness: 8.1
+  significance: 8.0
+  experience: 8.0
+  depth: 7.9
+  categories:
+    culture: 8.8
+    food: 8.7
+    history: 8.2

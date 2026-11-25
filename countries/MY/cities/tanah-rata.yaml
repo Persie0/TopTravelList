@@ -1,0 +1,15 @@
+id: city-my-tanah-rata
+name: "Tanah Rata"
+location:
+  country_code: MY
+  latitude: 4.4700
+  longitude: 101.3760
+scores:
+  impact: 7.5
+  uniqueness: 7.5
+  significance: 6.8
+  experience: 8.1
+  depth: 7.6
+  categories:
+    relaxation: 8.5
+    food: 8.0

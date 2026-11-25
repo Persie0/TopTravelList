@@ -1,0 +1,15 @@
+id: city-my-raub
+name: "Raub"
+location:
+  country_code: MY
+  latitude: 3.7920
+  longitude: 101.8580
+scores:
+  impact: 6.5
+  uniqueness: 6.8
+  significance: 6.9
+  experience: 7.1
+  depth: 6.8
+  categories:
+    food: 7.6
+    history: 7.4

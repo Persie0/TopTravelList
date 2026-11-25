@@ -1,0 +1,16 @@
+id: city-my-taiping
+name: "Taiping"
+location:
+  country_code: MY
+  latitude: 4.8500
+  longitude: 100.7330
+scores:
+  impact: 8.0
+  uniqueness: 8.2
+  significance: 8.1
+  experience: 8.4
+  depth: 8.1
+  categories:
+    history: 8.5
+    relaxation: 8.6
+    architecture: 8.3

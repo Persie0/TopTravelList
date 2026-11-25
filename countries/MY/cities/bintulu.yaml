@@ -1,0 +1,14 @@
+id: city-my-bintulu
+name: "Bintulu"
+location:
+  country_code: MY
+  latitude: 3.1660
+  longitude: 113.0330
+scores:
+  impact: 6.6
+  uniqueness: 6.7
+  significance: 6.6
+  experience: 7.3
+  depth: 7.0
+  categories:
+    food: 7.7

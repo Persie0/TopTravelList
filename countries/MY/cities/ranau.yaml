@@ -1,0 +1,14 @@
+id: city-my-ranau
+name: "Ranau"
+location:
+  country_code: MY
+  latitude: 5.9520
+  longitude: 116.6640
+scores:
+  impact: 6.6
+  uniqueness: 6.8
+  significance: 7.0
+  experience: 7.2
+  depth: 6.8
+  categories:
+    culture: 7.4

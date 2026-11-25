@@ -1,0 +1,14 @@
+id: city-my-kapit
+name: "Kapit"
+location:
+  country_code: MY
+  latitude: 2.0160
+  longitude: 112.9400
+scores:
+  impact: 6.9
+  uniqueness: 7.6
+  significance: 7.3
+  experience: 7.5
+  depth: 7.1
+  categories:
+    culture: 8.0

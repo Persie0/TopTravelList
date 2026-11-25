@@ -1,0 +1,15 @@
+id: city-my-muar
+name: "Muar"
+location:
+  country_code: MY
+  latitude: 2.0442
+  longitude: 102.5689
+scores:
+  impact: 7.4
+  uniqueness: 7.6
+  significance: 7.5
+  experience: 8.0
+  depth: 7.5
+  categories:
+    food: 8.6
+    architecture: 8.0

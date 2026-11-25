@@ -1,0 +1,15 @@
+id: city-my-port-dickson
+name: "Port Dickson"
+location:
+  country_code: MY
+  latitude: 2.5225
+  longitude: 101.7959
+scores:
+  impact: 6.8
+  uniqueness: 6.7
+  significance: 6.5
+  experience: 7.7
+  depth: 7.3
+  categories:
+    beaches: 7.7
+    relaxation: 8.0

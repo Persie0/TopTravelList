@@ -1,0 +1,15 @@
+id: city-my-klang
+name: "Klang"
+location:
+  country_code: MY
+  latitude: 3.0449
+  longitude: 101.4456
+scores:
+  impact: 7.0
+  uniqueness: 7.5
+  significance: 7.6
+  experience: 7.7
+  depth: 7.5
+  categories:
+    food: 8.5
+    history: 8.0

@@ -1,0 +1,14 @@
+id: city-my-limbang
+name: "Limbang"
+location:
+  country_code: MY
+  latitude: 4.7500
+  longitude: 115.0100
+scores:
+  impact: 6.5
+  uniqueness: 6.9
+  significance: 6.8
+  experience: 7.1
+  depth: 6.7
+  categories:
+    culture: 7.5

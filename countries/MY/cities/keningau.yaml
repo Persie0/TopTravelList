@@ -1,0 +1,14 @@
+id: city-my-keningau
+name: "Keningau"
+location:
+  country_code: MY
+  latitude: 5.3370
+  longitude: 116.1600
+scores:
+  impact: 6.6
+  uniqueness: 6.9
+  significance: 7.0
+  experience: 7.2
+  depth: 7.0
+  categories:
+    culture: 7.7

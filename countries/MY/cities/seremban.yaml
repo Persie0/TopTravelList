@@ -1,0 +1,15 @@
+id: city-my-seremban
+name: "Seremban"
+location:
+  country_code: MY
+  latitude: 2.7297
+  longitude: 101.9381
+scores:
+  impact: 6.9
+  uniqueness: 7.0
+  significance: 7.1
+  experience: 7.6
+  depth: 7.3
+  categories:
+    food: 8.0
+    culture: 7.7

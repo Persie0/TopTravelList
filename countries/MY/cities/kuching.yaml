@@ -1,0 +1,16 @@
+id: city-my-kuching
+name: "Kuching"
+location:
+  country_code: MY
+  latitude: 1.5535
+  longitude: 110.3593
+scores:
+  impact: 8.3
+  uniqueness: 8.5
+  significance: 8.4
+  experience: 8.7
+  depth: 8.6
+  categories:
+    food: 8.8
+    culture: 8.9
+    history: 8.6

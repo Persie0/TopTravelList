@@ -1,0 +1,16 @@
+id: city-my-ipoh
+name: "Ipoh"
+location:
+  country_code: MY
+  latitude: 4.5975
+  longitude: 101.0901
+scores:
+  impact: 8.2
+  uniqueness: 8.3
+  significance: 8.0
+  experience: 8.6
+  depth: 8.4
+  categories:
+    food: 9.0
+    architecture: 8.6
+    culture: 8.4

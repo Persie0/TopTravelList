@@ -1,0 +1,15 @@
+id: city-my-teluk-intan
+name: "Teluk Intan"
+location:
+  country_code: MY
+  latitude: 4.0250
+  longitude: 101.0200
+scores:
+  impact: 6.8
+  uniqueness: 7.1
+  significance: 7.1
+  experience: 7.4
+  depth: 6.8
+  categories:
+    food: 7.8
+    history: 7.5

@@ -1,0 +1,15 @@
+id: city-my-sibu
+name: "Sibu"
+location:
+  country_code: MY
+  latitude: 2.2873
+  longitude: 111.8305
+scores:
+  impact: 7.0
+  uniqueness: 7.4
+  significance: 7.3
+  experience: 7.7
+  depth: 7.4
+  categories:
+    food: 8.3
+    culture: 8.0
