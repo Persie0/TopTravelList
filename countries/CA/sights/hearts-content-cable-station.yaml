@@ -1,0 +1,15 @@
+id: sight-ca-hearts-content-cable-station
+name: "Heart's Content Cable Station"
+location:
+  country_code: CA
+  latitude: 47.871
+  longitude: -53.366
+scores:
+  impact: 7.3
+  uniqueness: 8.5
+  significance: 8.9
+  experience: 8.0
+  depth: 7.4
+  categories:
+    history: 9.1
+    culture: 8.5

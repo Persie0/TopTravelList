@@ -1,0 +1,15 @@
+id: sight-ca-lanse-aux-meadows
+name: "L'Anse aux Meadows National Historic Site"
+location:
+  country_code: CA
+  latitude: 51.595
+  longitude: -55.533
+scores:
+  impact: 8.2
+  uniqueness: 9.3
+  significance: 9.4
+  experience: 8.6
+  depth: 8.0
+  categories:
+    history: 9.4
+    culture: 9.0

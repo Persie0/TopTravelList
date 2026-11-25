@@ -1,0 +1,16 @@
+id: sight-ca-rideau-canal
+name: "Rideau Canal"
+location:
+  country_code: CA
+  latitude: 44.99
+  longitude: -76.12
+scores:
+  impact: 8.2
+  uniqueness: 8.6
+  significance: 8.8
+  experience: 8.7
+  depth: 8.8
+  categories:
+    history: 9.1
+    architecture: 8.7
+    relaxation: 8.8

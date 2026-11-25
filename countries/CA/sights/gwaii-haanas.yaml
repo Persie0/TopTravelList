@@ -1,0 +1,16 @@
+id: sight-ca-gwaii-haanas
+name: "Gwaii Haanas National Park Reserve and Haida Heritage Site"
+location:
+  country_code: CA
+  latitude: 52.4
+  longitude: -131.35
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 9.2
+  experience: 8.5
+  depth: 8.8
+  categories:
+    nature: 9.4
+    culture: 9.3
+    wildlife: 9.2
