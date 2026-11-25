@@ -1,0 +1,16 @@
+id: city-bg-ruse
+name: "Ruse"
+location:
+  country_code: BG
+  latitude: 43.856
+  longitude: 25.965
+scores:
+  impact: 8.2
+  uniqueness: 8.2
+  significance: 8.4
+  experience: 8.5
+  depth: 8.3
+  categories:
+    architecture: 8.9
+    history: 8.7
+    culture: 8.6

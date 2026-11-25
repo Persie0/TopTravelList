@@ -1,0 +1,15 @@
+id: sight-bg-kazanlak-tomb
+name: "Thracian Tomb of Kazanlak"
+location:
+  country_code: BG
+  latitude: 42.625
+  longitude: 25.398
+scores:
+  impact: 8.2
+  uniqueness: 9.1
+  significance: 9.3
+  experience: 8.0
+  depth: 7.3
+  categories:
+    history: 9.4
+    culture: 9.1

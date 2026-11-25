@@ -1,0 +1,16 @@
+id: sight-bg-etar
+name: "Etar Open-Air Ethnographic Museum"
+location:
+  country_code: BG
+  latitude: 42.802
+  longitude: 25.348
+scores:
+  impact: 8.5
+  uniqueness: 8.7
+  significance: 8.7
+  experience: 8.9
+  depth: 8.6
+  categories:
+    culture: 9.2
+    architecture: 9.0
+    history: 9.0

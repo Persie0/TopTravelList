@@ -1,0 +1,15 @@
+id: sight-bg-magura-cave
+name: "Magura Cave"
+location:
+  country_code: BG
+  latitude: 43.728
+  longitude: 22.583
+scores:
+  impact: 8.7
+  uniqueness: 9.0
+  significance: 9.0
+  experience: 8.5
+  depth: 8.3
+  categories:
+    nature: 9.1
+    history: 9.2

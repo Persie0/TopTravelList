@@ -1,0 +1,15 @@
+id: sight-bg-srebarna
+name: "Srebarna Nature Reserve"
+location:
+  country_code: BG
+  latitude: 44.101
+  longitude: 27.073
+scores:
+  impact: 8.3
+  uniqueness: 8.8
+  significance: 9.1
+  experience: 8.2
+  depth: 8.2
+  categories:
+    nature: 9.2
+    wildlife: 9.3

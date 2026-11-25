@@ -1,0 +1,14 @@
+id: sight-bg-seuthopolis-necropolis
+name: "Royal Necropolis of Seuthopolis (tentative extension)"
+location:
+  country_code: BG
+  latitude: 42.66
+  longitude: 25.35
+scores:
+  impact: 8.7
+  uniqueness: 9.0
+  significance: 9.3
+  experience: null
+  depth: null
+  categories:
+    history: 9.4

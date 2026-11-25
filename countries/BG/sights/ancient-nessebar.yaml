@@ -1,0 +1,16 @@
+id: sight-bg-ancient-nessebar
+name: "Ancient City of Nessebar"
+location:
+  country_code: BG
+  latitude: 42.659
+  longitude: 27.733
+scores:
+  impact: 9.0
+  uniqueness: 9.1
+  significance: 9.2
+  experience: 8.9
+  depth: 8.6
+  categories:
+    architecture: 9.3
+    history: 9.4
+    photography: 9.2

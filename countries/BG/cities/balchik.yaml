@@ -1,0 +1,16 @@
+id: city-bg-balchik
+name: "Balchik"
+location:
+  country_code: BG
+  latitude: 43.407
+  longitude: 28.164
+scores:
+  impact: 8.1
+  uniqueness: 8.1
+  significance: 7.8
+  experience: 8.5
+  depth: 7.6
+  categories:
+    photography: 8.8
+    relaxation: 8.7
+    architecture: 8.5
