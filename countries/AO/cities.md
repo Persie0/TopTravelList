@@ -2,7 +2,7 @@
 
 # Angola (AO) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**6 ranked** · **2 unassessed** · **8 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,25 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (6)
 
-No cities, towns & villages have been assessed for **Angola** yet.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Mbanza Kongo](cities/mbanza-kongo.yaml) | City / town | **84.30** | **History 9.4**, **Culture 9.1** | 7.9 / 8.9 / 9.2 / 8.1 / 7.8 | [-6.266667, 14.238333](https://www.google.com/maps/search/?api=1&query=-6.266667,14.238333) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mbanza%20Kongo%2C%20Angola) |
+| 2 | [Luanda](cities/luanda.yaml) | City / town | **83.00** | **Culture 8.8**, **History 8.6**, **Food 8.5** | 8.1 / 8.4 / 8.6 / 8.0 / 8.5 | [-8.836817, 13.23432](https://www.google.com/maps/search/?api=1&query=-8.836817,13.23432) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Luanda%2C%20Angola) |
+| 3 | [Benguela](cities/benguela.yaml) | City / town | **79.25** | **Architecture 8.3**, **Culture 8.2**, **Beaches 8.0** | 7.8 / 7.9 / 8.0 / 8.2 / 7.8 | [-12.590516, 13.416501](https://www.google.com/maps/search/?api=1&query=-12.590516,13.416501) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Benguela%2C%20Angola) |
+| 4 | [Moçâmedes (Namibe)](cities/mocamedes.yaml) | City / town | **78.55** | **Photography 8.3**, **Architecture 8.1** | 7.8 / 8.2 / 7.7 / 7.9 / 7.4 | [-15.196111, 12.152222](https://www.google.com/maps/search/?api=1&query=-15.196111,12.152222) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mo%C3%A7%C3%A2medes%20%28Namibe%29%2C%20Angola) |
+| 5 | [Lubango](cities/lubango.yaml) | City / town | **78.30** | **Culture 8.1**, **Architecture 8.0** | 7.8 / 8.0 / 7.6 / 8.0 / 7.7 | [-14.917168, 13.492498](https://www.google.com/maps/search/?api=1&query=-14.917168,13.492498) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lubango%2C%20Angola) |
+| 6 | [Lobito](cities/lobito.yaml) | City / town | **77.30** | **Beaches 8.4**, **Architecture 8.0** | 7.7 / 7.8 / 7.6 / 8.0 / 7.5 | [-12.3644, 13.536015](https://www.google.com/maps/search/?api=1&query=-12.3644,13.536015) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lobito%2C%20Angola) |
 
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+## Not yet fully assessed (2)
+
+These destinations have no rank until all five core scores are assessed.
+
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| — | [Huambo](cities/huambo.yaml) | City / town | **—** | — | — / 7.3 / 7.7 / — / — | [-12.776111, 15.739167](https://www.google.com/maps/search/?api=1&query=-12.776111,15.739167) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Huambo%2C%20Angola) |
+| — | [Malanje](cities/malanje.yaml) | City / town | **—** | — | — / 7.2 / 7.3 / — / — | [-9.54015, 16.340961](https://www.google.com/maps/search/?api=1&query=-9.54015,16.340961) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Malanje%2C%20Angola) |
 
 ---
 
