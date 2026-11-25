@@ -1,0 +1,15 @@
+id: sight-cg-mbeli-bai
+name: "Mbeli Baï"
+location:
+  country_code: CG
+  latitude: 2.25
+  longitude: 16.42
+scores:
+  impact: 9.0
+  uniqueness: 9.4
+  significance: 9.4
+  experience: 8.7
+  depth: 8.0
+  categories:
+    wildlife: 9.6
+    nature: 9.4
