@@ -1058,3 +1058,216 @@ Initial inventory, not exhaustive. [UNESCO country list](https://whc.unesco.org/
 
 ### Tentative coverage update
 Added Sierra de las Minas and Sierra del Lacandón unranked. Remaining 11 tentative route/ensemble nominations are listed in the opening inventory; no aggregate destination rating or arbitrary point is assigned. Individual components still need separate scope research.
+
+## sight-gt-nakum — Nakum Archaeological Site — 2026-11-25
+
+- YAML: [source](../../../countries/GT/sights/nakum.yaml)
+- Action: new
+- Precise subject: Ancient city itself, not entire Yaxhá-Nakum-Naranjo park.
+- Location check: 17.17, -89.37; approximate representative point, not independently verified entrance.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO nomination 1752](https://whc.unesco.org/en/tentativelists/1752/) — confirms named component; [site reference](https://visitguatemala.gt/en/blog/guide-ruins-nakum/) — consulted search excerpt or page 2026-11-25; context for the named site. Not full claim-level verification.
+- Missing or uncertain facts: Exact GPS, access and independent corroboration.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Angkor Wat](../../../countries/KH/sights/angkor-wat.yaml) | less monumental than Angkor Wat |
+| [Machu Picchu](../../../countries/PE/sights/historic-sanctuary-of-machu-picchu.yaml) | less dramatic landscape than Machu Picchu |
+| [Caracol](../../../countries/BZ/sights/caracol-archaeological-reserve.yaml) | similar forest archaeology but smaller scope than Caracol |
+| [Layou](../../../countries/VC/sights/layou-petroglyph-park.yaml) | much broader than Layou |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.6 | forest plazas and restored palatial architecture |
+| Uniqueness | 8.8 | distinct complex acropolis and forest setting |
+| Significance | 8.9 | major regional Maya urban history |
+| Experience | 8.4 | managed guided archaeological visit from Yaxhá area |
+| Depth | 8.5 | multiple connected courtyards |
+
+- Applicable categories: history:9.2,architecture:9.0.
+- Overall: 86.70/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide editorial score for named component only.
+- Earlier decision: none.
+- Verification still needed: Independent factual and geographic verification.
+
+## sight-gt-metropolitan-cathedral-guatemala-city — Metropolitan Cathedral of Guatemala City — 2026-11-25
+
+- YAML: [source](../../../countries/GT/sights/metropolitan-cathedral-guatemala-city.yaml)
+- Action: new
+- Precise subject: Cathedral and permitted public interior, not the whole central plaza.
+- Location check: 14.641, -90.513; approximate representative point, not independently verified entrance.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO nomination 1760](https://whc.unesco.org/en/tentativelists/1760/) — confirms named component; [site reference](https://whc.unesco.org/en/tentativelists/1760/) — consulted search excerpt or page 2026-11-25; context for the named site. Not full claim-level verification.
+- Missing or uncertain facts: Exact GPS, access and independent corroboration.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Hohensalzburg](../../../countries/AT/sights/hohensalzburg-fortress.yaml) | less monumental than Hohensalzburg |
+| [Bridgetown Garrison](../../../countries/BB/sights/historic-bridgetown-and-its-garrison.yaml) | less dispersed than Garrison |
+| [Pigeon Island](../../../countries/LC/sights/pigeon-island-national-landmark.yaml) | more sacred architecture than Pigeon Island |
+| [Fort Hamilton](../../../countries/VC/sights/fort-hamilton-bequia.yaml) | greater interior scope than Fort Hamilton |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.1 | monumental civic church facade |
+| Uniqueness | 8.2 | regional neoclassical cathedral setting |
+| Significance | 8.8 | major national religious and civic history |
+| Experience | 8.1 | respectful architectural visit |
+| Depth | 7.6 | single building |
+
+- Applicable categories: architecture:8.9,history:9.0,culture:8.7.
+- Overall: 82.15/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide editorial score for named component only.
+- Earlier decision: none.
+- Verification still needed: Independent factual and geographic verification.
+
+## sight-gt-la-merced-guatemala-city — La Merced Church (Guatemala City) — 2026-11-25
+
+- YAML: [source](../../../countries/GT/sights/la-merced-guatemala-city.yaml)
+- Action: new
+- Precise subject: Capital church, distinct from La Merced in Antigua.
+- Location check: 14.643, -90.508; approximate representative point, not independently verified entrance.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO nomination 1760](https://whc.unesco.org/en/tentativelists/1760/) — confirms named component; [site reference](https://whc.unesco.org/en/tentativelists/1760/) — consulted search excerpt or page 2026-11-25; context for the named site. Not full claim-level verification.
+- Missing or uncertain facts: Exact GPS, access and independent corroboration.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Hohensalzburg](../../../countries/AT/sights/hohensalzburg-fortress.yaml) | less monumental than Hohensalzburg |
+| [Bridgetown Garrison](../../../countries/BB/sights/historic-bridgetown-and-its-garrison.yaml) | smaller than Garrison |
+| [Pigeon Island](../../../countries/LC/sights/pigeon-island-national-landmark.yaml) | more sacred art than Pigeon Island |
+| [Fort Hamilton](../../../countries/VC/sights/fort-hamilton-bequia.yaml) | more interior heritage than Fort Hamilton |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 7.7 | historic church facade and religious art |
+| Uniqueness | 8.0 | distinct colonial religious heritage |
+| Significance | 8.4 | regional religious history |
+| Experience | 7.9 | respectful public visit |
+| Depth | 7.1 | compact church |
+
+- Applicable categories: architecture:8.6,history:8.7,culture:8.5.
+- Overall: 78.85/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide editorial score for named component only.
+- Earlier decision: none.
+- Verification still needed: Independent factual and geographic verification.
+
+## sight-gt-basilica-esquipulas — Basilica of Esquipulas — 2026-11-25
+
+- YAML: [source](../../../countries/GT/sights/basilica-esquipulas.yaml)
+- Action: new
+- Precise subject: Major Catholic shrine and public pilgrimage church, not whole town.
+- Location check: 14.563, -89.350; approximate representative point, not independently verified entrance.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO nomination 1760](https://whc.unesco.org/en/tentativelists/1760/) — confirms named component; [site reference](https://www.sacred-destinations.com/guatemala/esquipulas-basilica-of-black-christ) — consulted search excerpt or page 2026-11-25; context for the named site. Not full claim-level verification.
+- Missing or uncertain facts: Exact GPS, access and independent corroboration.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Hohensalzburg](../../../countries/AT/sights/hohensalzburg-fortress.yaml) | less fortress scope than Hohensalzburg |
+| [Bridgetown Garrison](../../../countries/BB/sights/historic-bridgetown-and-its-garrison.yaml) | more concentrated pilgrimage heritage than Garrison |
+| [Pigeon Island](../../../countries/LC/sights/pigeon-island-national-landmark.yaml) | greater religious experience than Pigeon Island |
+| [Fort Hamilton](../../../countries/VC/sights/fort-hamilton-bequia.yaml) | more built scale than Fort Hamilton |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.5 | white monumental church and religious atmosphere |
+| Uniqueness | 8.9 | distinct regional Black Christ pilgrimage |
+| Significance | 9.1 | major Central American religious heritage |
+| Experience | 8.4 | respectful pilgrimage and architecture encounter |
+| Depth | 7.8 | substantial single church |
+
+- Applicable categories: architecture:9.0,culture:9.3,history:9.0.
+- Overall: 86.35/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide editorial score for named component only.
+- Earlier decision: none.
+- Verification still needed: Independent factual and geographic verification.
+
+## sight-gt-grutas-de-lanquin — Grutas de Lanquín National Park — 2026-11-25
+
+- YAML: [source](../../../countries/GT/sights/grutas-de-lanquin.yaml)
+- Action: new
+- Precise subject: Permitted visitor section of the cave park, not full unknown cave system or sacred chambers.
+- Location check: 15.578, -89.982; approximate representative point, not independently verified entrance.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO nomination 1764](https://whc.unesco.org/en/tentativelists/1764/) — confirms named component; [site reference](https://turismo-sigap.conap.gob.gt/rutas-turisticas/ruta-aventura-dentro-de-la-selva-verapaces/parque-nacional-grutas-de-lanquin/) — consulted search excerpt or page 2026-11-25; context for the named site. Not full claim-level verification.
+- Missing or uncertain facts: Exact GPS, access and independent corroboration.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Pitons](../../../countries/LC/sights/pitons-management-area.yaml) | less broad landscape than Pitons |
+| [Great Blue Hole](../../../countries/BZ/sights/blue-hole-natural-monument-great-blue-hole.yaml) | different cave geology from Great Blue Hole |
+| [Pitch Lake](../../../countries/TT/sights/la-brea-pitch-lake.yaml) | more underground route than Pitch Lake |
+| [Sulphur Springs](../../../countries/LC/sights/sulphur-springs.yaml) | greater cave depth than Sulphur Springs |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.3 | large limestone formations |
+| Uniqueness | 8.4 | distinct extensive cave and regional ritual context |
+| Significance | 7.9 | protected geological and cultural heritage |
+| Experience | 8.4 | permitted guided cave visits |
+| Depth | 7.8 | several accessible chambers |
+
+- Applicable categories: nature:8.9,adventure:8.9,culture:8.6.
+- Overall: 82.10/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide editorial score for named component only.
+- Earlier decision: none.
+- Verification still needed: Independent factual and geographic verification.
+
+## sight-gt-monterrico-multiple-use-area — Monterrico Multiple Use Area — 2026-11-25
+
+- YAML: [source](../../../countries/GT/sights/monterrico-multiple-use-area.yaml)
+- Action: new
+- Precise subject: Authorized coastal wetland and canal visits, not entire Pacific mangrove route.
+- Location check: 13.902, -90.480; approximate representative point, not independently verified entrance.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO nomination 1767](https://whc.unesco.org/en/tentativelists/1767/) — confirms named component; [site reference](https://turismo-sigap.conap.gob.gt/rutas-turisticas/ruta-de-montanas-y-playas-boca-costa-pacifico/area-de-uso-multiple-monterrico/) — consulted search excerpt or page 2026-11-25; context for the named site. Not full claim-level verification.
+- Missing or uncertain facts: Exact GPS, access and independent corroboration.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Torres del Paine](../../../countries/CL/sights/torres-del-paine-national-park.yaml) | less mountain impact than Torres del Paine |
+| [Cockscomb](../../../countries/BZ/sights/cockscomb-basin-wildlife-sanctuary.yaml) | different coastal ecosystem from Cockscomb |
+| [Main Ridge](../../../countries/TT/sights/tobago-main-ridge-forest-reserve.yaml) | more wetland habitat than Main Ridge |
+| [Des Cartiers](../../../countries/LC/sights/des-cartiers-rainforest-trail.yaml) | more water route variety than Des Cartiers |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.0 | mangrove waterways and dark coastal shore |
+| Uniqueness | 8.3 | distinct wetland and coast combination |
+| Significance | 8.2 | regional biodiversity conservation |
+| Experience | 8.3 | authorized boat and nature encounters |
+| Depth | 7.8 | several coastal habitats |
+
+- Applicable categories: nature:8.9,wildlife:8.9,photography:8.7.
+- Overall: 81.40/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide editorial score for named component only.
+- Earlier decision: none.
+- Verification still needed: Independent factual and geographic verification.
+
+### Further component coverage
+Added six public components of Cultural Triangle, Peace/National Identity, Green Route and Pacific Mangrove nominations. The Mayan-Olmecan nomination overlaps the existing Tak’alik Ab’aj record, as its official description confirms. See [coverage register](heritage-coverage.md) for remaining specific gaps.
