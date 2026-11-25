@@ -1,0 +1,15 @@
+id: city-kz-oral-uralsk
+name: "Oral (Uralsk)"
+location:
+  country_code: KZ
+  latitude: 51.233
+  longitude: 51.368
+scores:
+  impact: 7.2
+  uniqueness: 7.8
+  significance: 8.0
+  experience: 7.6
+  depth: 7.2
+  categories:
+    architecture: 8.4
+    history: 8.4

@@ -1,0 +1,15 @@
+id: sight-kz-aksu-zhabagly-state-nature-reserve
+name: "Aksu-Zhabagly State Nature Reserve"
+location:
+  country_code: KZ
+  latitude: 42.276111
+  longitude: 70.674167
+scores:
+  impact: null
+  uniqueness: 8.9
+  significance: 9.3
+  experience: null
+  depth: null
+  categories:
+    nature: 9.4
+    wildlife: 9.2

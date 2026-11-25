@@ -1,0 +1,15 @@
+id: sight-kz-kaindy-lake
+name: "Kaindy Lake"
+location:
+  country_code: KZ
+  latitude: 42.984
+  longitude: 78.467
+scores:
+  impact: 9.4
+  uniqueness: 9.5
+  significance: 7.6
+  experience: 9.0
+  depth: 7.6
+  categories:
+    nature: 9.2
+    photography: 9.6
