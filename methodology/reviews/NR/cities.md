@@ -214,3 +214,45 @@
 - Earlier decision: none.
 - Verification still needed: Do not transfer coastal scenery into a settlement total.
 
+
+
+### city-nr-anibare — Anibare — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/NR/cities/anibare.yaml)
+- Action: rescore
+- Precise subject: Anibare named coastal settlement and its district's community boat harbour; excludes the separately ranked bay and offshore boat excursions. District-to-settlement exact boundaries remain provisional.
+- Location check: retain approximate existing representative point; independent corroboration outstanding.
+- Evidence status: source-linked-unverified
+- Factual references consulted (2026-11-25):
+  - Nauru Tourism Corporation describes the community harbour in Anibare and local recreational use: https://nauru-ed1661.webflow.io/experience (direct page).
+  - Pacific Tourism Organisation independently promotes local harbour experiences: https://southpacificislands.travel/discover/exploring-nauru-your-travel-guide-to-one-of-the-least-visited-destinations/ (indexed excerpt).
+  - SPREP climate hazards report describes community harbour and fish sales; adjacent fish market is disused: https://nauru-data.sprep.org/system/files/Nauru%20climate%20hazards%20report_FINAL_June%20revision.pdf (indexed excerpt).
+- Missing or uncertain facts: Exact settlement boundary and harbour linkage, current safe lawful harbour use and representative coordinate need confirmation.
+
+#### Worldwide peer comparisons
+- Kampot (KH), 7.6/7.9/7.5/8.3/7.9: far greater built and culinary heritage.
+- Rach Gia (VN), 7.2/7.5/7.3/7.8/7.9: much larger urban and waterfront experience.
+- Kuala Perlis (MY), 6.5/6.8/6.5/7.2/6.7: comparable modest coastal community with more documented dining.
+- Menen (NR), 5.4/5.8/4.8/5.5/4.4: nearby local comparator with less documented distinct community activity.
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | null | 6.3 | Modest coastal built setting; exclude separately rated bay scenery. |
+| Uniqueness | null | 6.7 | Working harbour and local fishing culture provide modest distinctiveness. |
+| Significance | null | 5.9 | Local economic and community role, not global heritage. |
+| Experience | null | 6.8 | Documented harbour visit and local community setting support focused exploration; no assumed active fish market or unrestricted swimming. |
+| Depth | null | 5.3 | Few independent local visitor sites beyond the harbour. |
+
+- Applicable category scores: culture 6.8, photography 6.9; provisional.
+- Computed worldwide overall: 62.95/100
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: provisional worldwide v2 rating using actual branch YAML peers.
+- Earlier decision: incomplete profile.
+- Verification still needed: Exact settlement boundary and harbour linkage, current safe lawful harbour use and representative coordinate need confirmation. Canonical validation outstanding.
+
+
+## 2026-11-25 — Arijejen and Yangor follow-up
+
+The 2021 census-based gazetteer (https://www.geo-ref.net/pdf/nauru.pdf, indexed excerpt) distinguishes Arijejen as the district centre of Denigomodu and Yangor as the centre of Aiwo. General Aiwo industrial heritage and Nauru ring-road visits (https://visitingoceania.com/destinations/nauru/, indexed excerpt) do not establish exact settlement-specific activities. Retain all nulls for both; exact district/settlement boundaries and visitor scope need verification.

@@ -218,3 +218,41 @@
 - Final decision: provisional assessment of the ordinary guided visible landscape, not a recommendation to enter active mines or private land.
 - Verification still needed: precise permitted paths, visitor arrangements and condition of landscape.
 
+
+
+### sight-nr-moqua-well — Moqua Well — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/NR/sights/moqua-well.yaml)
+- Action: rescore
+- Precise subject: Freshwater well and immediate underground cave chamber, limited to locally guided authorized visits; no deep caving or swimming credited.
+- Location check: retain approximate existing representative point; independent corroboration outstanding.
+- Evidence status: source-linked-unverified
+- Factual references consulted (2026-11-25):
+  - 2019 renewable-energy environmental assessment describes Moqua cave's cultural significance and tourist visits: https://ewsdata.rightsindevelopment.org/files/documents/09/ADB-49450-009_wSu1qIV.pdf (indexed excerpt only).
+  - Firsthand 2019 account describes local host taking visitor to Moqua Well and caves: https://www.onceuponasaga.dk/blog/327-nauru-a-lonely-mountain-in-the-pacific-ocean (indexed excerpt).
+  - Independent firsthand travel account describes visit and historical freshwater role: https://monsoondiaries.com/2019/01/03/nauru/ (indexed excerpt).
+  - Current visitor guide describes the limestone chamber: https://visitnauru.org/discover/moqua-well-cave (indexed excerpt).
+- Missing or uncertain facts: Historic firsthand evidence and current guide listings do not confirm current landowner permission or safety; no independent access recommendation.
+
+#### Worldwide peer comparisons
+- Tham Khao Luang Cave (TH), 8.4/8.8/8.1/8.8/7.8: much richer scenic and religious cave experience.
+- Hua Ma Cave (VN), 8.5/8.7/7.9/8.7/7.6: more substantial cave formations and established visitor route.
+- Dachstein Ice Caves (AT), 8.3/8.8/7.0/8.5/7.4: more unusual cave environment and established interpretation.
+- Buada Lagoon (NR), 6.6/7.1/6.5/6.0/5.3: comparable local freshwater attraction with different setting.
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | 6.5 | 6.5 | Retain prior modest cave visual impact. |
+| Uniqueness | 7.2 | 7.2 | Retain prior distinctive island freshwater karst feature. |
+| Significance | 6.3 | 6.3 | Retain local historical freshwater significance. |
+| Experience | null | 6.5 | Documented locally accompanied visits support modest focused exploration; no claim of public unrestricted access. |
+| Depth | null | 5.6 | One principal chamber and well, limited interpreted breadth. |
+
+- Applicable category scores: nature 7.0 retained; provisional.
+- Computed worldwide overall: 65.45/100
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: provisional worldwide v2 rating using actual branch YAML peers.
+- Earlier decision: incomplete profile.
+- Verification still needed: Historic firsthand evidence and current guide listings do not confirm current landowner permission or safety; no independent access recommendation. Canonical validation outstanding.
