@@ -46,6 +46,7 @@
   - https://whc.unesco.org/en/list/914/maps/
   - https://www.anac.gov.mz/en/parques/maputo/
   - https://parquemaputo.gov.mz/en/explore/how-to-get-there/
+  - https://www.anac.gov.mz/en/parques/maputo/ — manager describes coastal and terrestrial wildlife visitor opportunities; UNESCO inscription alone does not justify score. Checked 2026-11-25.
 - Missing facts: Current access, precise point where provisional and independent claim verification.
 
 ### Worldwide peer comparisons
@@ -78,6 +79,7 @@
   - https://www.anac.gov.mz/en/parques/bazaruto/
   - https://www.visitmozambique.gov.mz/onde-ir/parques-e-reservas/parque-nacional-de-bazaruto/
   - https://mapcarta.com/Bazaruto_Archipelago_National_Park
+  - https://visitbazaruto.org/day-visitors/ — park manager documents authorized day visits, snorkeling and diving; reinforces exceptional dune and reef seascape, not guaranteed dugong encounters. Checked 2026-11-25.
 - Missing facts: Current access, precise point where provisional and independent claim verification.
 
 ### Worldwide peer comparisons
@@ -110,6 +112,7 @@
   - https://www.anac.gov.mz/en/parques/gorongosa/
   - https://mapcarta.com/Gorongosa_National_Park
   - https://embassymozambique.se/en/tourist-attractions/
+  - https://gorongosa.org/2024-activities/ and https://gorongosa.org/park-fees-and-rules/ — manager describes guided game drives and distinct visitor activities; self-drive not permitted. Checked 2026-11-25.
 - Missing facts: Current access, precise point where provisional and independent claim verification.
 
 ### Worldwide peer comparisons
@@ -134,7 +137,7 @@
 ## sight-mz-quirimbas-archipelago — Quirimbas Archipelago — 2026-11-25
 
 - YAML: [source](../../../countries/MZ/sights/quirimbas-archipelago.yaml)
-- Action: new
+- Action: second-pass review; original decision preserved in [verification history](verification-2026-11-25.md)
 - Precise subject: Tentative 31-island mixed landscape, nomination point; not equivalent to the biosphere reserve or entire national park. Full permitted visitor scope unresolved.
 - Location check: -12.686111, 40.716667; representative point, not a verified entrance.
 - Evidence status: **unassessed**
@@ -142,6 +145,7 @@
   - https://whc.unesco.org/en/tentativelists/5380/
   - https://www.unesco.org/en/mab/quirimbas
   - https://www.gov.uk/foreign-travel-advice/mozambique
+  - https://www.gov.uk/foreign-travel-advice/mozambique — updated 25 November 2026; https://www.visitmozambique.gov.mz/onde-ir/ilhas/arquipelago-das-quirimbas/ documents guided Ibo visits but does not establish wildlife viewing across the whole archipelago.
 - Missing facts: Normal permitted visitor experience or accessible scope insufficiently documented.
 
 ### Worldwide peer comparisons
@@ -156,9 +160,9 @@
 - Significance: 9.4 — International conservation and cultural significance.
 - Experience: null — Ordinary permitted visitor circuit not established.
 - Depth: null — Accessible island and habitat breadth unknown.
-- Applicable categories: nature 9.5, culture 9.2, wildlife 9.3.
+- Applicable categories: nature 9.5, culture 9.2, wildlife null.
 - Overall: unranked.
-- High-score challenge: Nature 9.5 reflects diverse reefs, mangroves and coastal habitats documented in the nomination, not present accessibility.
+- High-score challenge: Nature 9.5 reflects the documented ecological diversity of a 31-island reef and mangrove landscape; no guarantee of access or sightings. Wildlife null because ordinary permitted observation across the assessed aggregate is unverified. Safety warnings do not reduce intrinsic ratings.
 - Approved 10 registry: none.
 - Final decision: Partial assessment retained; no total.
 - Verification still needed: exact location where provisional, access and individual claim-level evidence.
@@ -288,13 +292,14 @@
 ## sight-mz-inhaca-island — Inhaca Island — 2026-11-25
 
 - YAML: [source](../../../countries/MZ/sights/inhaca-island.yaml)
-- Action: new
-- Precise subject: Island and accessible coastal visitor activities; official tourism's coarse island point, no all-reserve access assumed.
-- Location check: -26, 33; representative point, not a verified entrance.
+- Action: second-pass review; original decision preserved in [verification history](verification-2026-11-25.md)
+- Precise subject: Island and accessible coastal visitor activities; named island gazetteer point, no all-reserve access assumed.
+- Location check: -26.01707, 32.94482; representative point, not a verified entrance.
 - Evidence status: **source-linked-unverified**
 - Sources (2026-11-25; identity, scope, geography or visitor context; incomplete claim-level triangulation):
   - https://www.visitmozambique.gov.mz/onde-ir/ilhas/
   - https://www.mozambiquehighcommission.org.uk/attractions.html
+  - https://mapcarta.com/14436052 — named island point, GeoNames 1045187, not an entrance; checked 2026-11-25.
 - Missing facts: Current access, precise point where provisional and independent claim verification.
 
 ### Worldwide peer comparisons
@@ -319,14 +324,15 @@
 ## sight-mz-fort-sao-sebastiao — Fort of São Sebastião — 2026-11-25
 
 - YAML: [source](../../../countries/MZ/sights/fort-sao-sebastiao.yaml)
-- Action: new
-- Precise subject: Single fortress, not entire historic island; point approximate pending exact map verification.
-- Location check: -15.029, 40.741; representative point, not a verified entrance.
+- Action: second-pass review; original decision preserved in [verification history](verification-2026-11-25.md)
+- Precise subject: Single fortress, not entire historic island; mapped fort polygon representative point.
+- Location check: -15.02878, 40.74342; representative point, not a verified entrance.
 - Evidence status: **source-linked-unverified**
 - Sources (2026-11-25; identity, scope, geography or visitor context; incomplete claim-level triangulation):
   - https://mapcarta.com/W206235094
   - https://whc.unesco.org/en/list/599/
   - https://embassymozambique.se/en/tourist-attractions/
+  - https://mapcarta.com/W206235094 — mapped historic fort building polygon, checked 2026-11-25.
 - Missing facts: Current access, precise point where provisional and independent claim verification.
 
 ### Worldwide peer comparisons
@@ -348,7 +354,141 @@
 - Final decision: Provisional editorial rating; not independently fact-checked.
 - Verification still needed: exact location where provisional, access and individual claim-level evidence.
 
+## sight-mz-chimanimani-national-park — Chimanimani National Park (Mozambique) — 2026-11-25
+
+- YAML: [source](../../../countries/MZ/sights/chimanimani-national-park.yaml)
+- Action: new
+- Precise subject: Mozambican national park and authorized mountain visitor circuits, including the local side of Mount Binga; excludes Zimbabwean park and its separately managed reserves.
+- Location check: -19.795, 33.08917; Named former national reserve GeoNames 11258288; representative location within mountain landscape, not a trailhead.
+- Evidence status: **source-linked-unverified**
+- Sources (accessed 2026-11-25):
+  - https://www.anac.gov.mz/en/parques/chimanimani/ — national park manager identifies Mount Binga, hiking, climbing, birding and cultural visits.
+  - https://www.visitmozambique.gov.mz/onde-ir/parques-e-reservas/reserva-de-chimanimani-2/ — tourism authority confirms Manica district setting and park identity.
+  - https://mapcarta.com/34862254 — named representative coordinate.
+- Missing facts: current permitted visitor scope and complete independent factual verification.
+
+### Worldwide peer comparisons
+- [Chimanimani National Park (ZW)](../../../countries/ZW/sights/chimanimani-national-park.yaml): 9.0/9.1/9.2/8.7/8.8; adjacent independently scoped park and established mountain hikes.
+- [Sehlabathebe National Park (LS)](../../../countries/LS/sights/sehlabathebe-national-park.yaml): 9.1/9.0/9.3/8.6/8.8; comparable high-altitude protected landscape.
+- [Khao Yai National Park (TH)](../../../countries/TH/sights/khao-yai-national-park.yaml): 9.0/9.1/9.0/9.0/9.2; more developed trail and wildlife visitor circuit.
+- [North Luangwa National Park (ZM)](../../../countries/ZM/sights/north-luangwa-national-park.yaml): 9.0/9.1/9.2/8.8/8.8; remote guided safari comparator.
+
+### Scoring decisions
+- Impact: 9.1 — Rugged quartzite mountain and escarpment landscape.
+- Uniqueness: 9.0 — Distinctive highland ecosystems but cross-border analogues exist.
+- Significance: 9.0 — Regional endemic habitats and cultural landscape, no borrowed Zimbabwe tentative status.
+- Experience: 8.6 — Documented mountain hiking and other activities; limited infrastructure.
+- Depth: 8.6 — Varied mountain and nature circuits, not all community heritage sites assumed accessible.
+- Applicable categories: nature 9.3, adventure 9.1, photography 9.1.
+- Overall: 89.30/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial assessment of documented visitor scope.
+- Verification still needed: current permissions, visitor-visible scope and claim-level corroboration.
+
+## sight-mz-zinave-national-park — Zinave National Park — 2026-11-25
+
+- YAML: [source](../../../countries/MZ/sights/zinave-national-park.yaml)
+- Action: new
+- Precise subject: National park's documented visitor circuits and wildlife sanctuary; no credit for entire transfrontier area or inaccessible restoration zones.
+- Location check: -21.421944, 33.861944; Official park headquarters DMS S21°25′19″ E33°51′43″ converted to decimal; representative service point.
+- Evidence status: **source-linked-unverified**
+- Sources (accessed 2026-11-25):
+  - https://parquezinave.gov.mz/howtogetthere/ — official GPS coordinates.
+  - https://parquezinave.gov.mz/activities/ — manager documents sanctuary viewing and visitor activities.
+  - https://parquezinave.gov.mz/whattosee/ — woodland scenery and self-drive visitor scope.
+  - https://www.peaceparks.org/protected-areas/zinave-national-park/ — restoration and camp development; planned concessions not counted.
+  - https://www.anac.gov.mz/en/parques/zinave/ — management and visitor activity context.
+- Missing facts: current permitted visitor scope and complete independent factual verification.
+
+### Worldwide peer comparisons
+- [Matusadona National Park (ZW)](../../../countries/ZW/sights/matusadona-national-park.yaml): 8.8/8.9/9.0/8.8/8.8; broader lake and wildlife activity breadth.
+- [North Luangwa National Park (ZM)](../../../countries/ZM/sights/north-luangwa-national-park.yaml): 9.0/9.1/9.2/8.8/8.8; remote guided wilderness experiences.
+- [Okavango Delta (BW)](../../../countries/BW/sights/okavango-delta.yaml): 9.8/9.9/9.8/9.5/9.8; much broader and more distinctive wetland safari.
+- [Gorongosa National Park (MZ)](../../../countries/MZ/sights/gorongosa-national-park.yaml): 9.2/9.2/9.5/9.0/9.1; more established restoration visitor circuit.
+
+### Scoring decisions
+- Impact: 8.6 — Woodland and river landscape, less dramatic than Okavango.
+- Uniqueness: 8.8 — Distinctive dry/wet tropical transition and restoration, not globally unique.
+- Significance: 9.1 — Important regional wildlife restoration and ecological connectivity.
+- Experience: 8.6 — Documented sanctuary game viewing and drives, developing facilities.
+- Depth: 8.4 — Several road circuits and natural settings, not yet breadth of established parks.
+- Applicable categories: nature 9.1, wildlife 9.1, adventure 8.7.
+- Overall: 87.30/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial assessment of documented visitor scope.
+- Verification still needed: current permissions, visitor-visible scope and claim-level corroboration.
+
+## sight-mz-maputo-natural-history-museum — Maputo Natural History Museum — 2026-11-25
+
+- YAML: [source](../../../countries/MZ/sights/maputo-natural-history-museum.yaml)
+- Action: new
+- Precise subject: Museum building, public permanent exhibits and immediate museum garden, not the entire city or temporary 2026 exhibition.
+- Location check: -25.97717, 32.58716; Mapped museum building OSM way 242989733.
+- Evidence status: **source-linked-unverified**
+- Sources (accessed 2026-11-25):
+  - https://uem.mz/en/natural-history-museum/ — university describes museum displays and garden artwork.
+  - https://ambmaputo.esteri.it/en/news/dall_ambasciata/2025/09/comunicato-stampa-riapertura-ufficiale-del-museo-di-storia-naturale-di-maputo-29-settembre-2025/ — reopening after refurbishment on 29 September 2025.
+  - https://mozavibe.co.mz/en_US/2025/education/museu-de-historia-natural-reabre-ao-publico/ — independent report confirms restored exhibition and public visits.
+  - https://ambmaputo.esteri.it/en/news/dall_ambasciata/2026/06/inaugurata-al-museo-di-storia-naturale-di-maputo-la-mostra-fotografica-humus/ — 2026 museum activity.
+  - https://mapcarta.com/W242989733 — named building coordinate.
+- Missing facts: current permitted visitor scope and complete independent factual verification.
+
+### Worldwide peer comparisons
+- [Natural History Museum of Zimbabwe (ZW)](../../../countries/ZW/sights/natural-history-museum.yaml): 8.2/8.6/8.9/8.7/8.9; broader nine-gallery display.
+- [Livingstone Museum (ZM)](../../../countries/ZM/sights/livingstone-museum.yaml): 8.0/8.5/8.9/8.5/8.5; comparable regional institution.
+- [National Museum of the DRC (CD)](../../../countries/CD/sights/national-museum-drc.yaml): 7.9/8.5/8.9/8.4/8.3; comparable national collections, different subject.
+- [National Museum of Korea (KR)](../../../countries/KR/sights/national-museum-of-korea.yaml): 9.1/9.3/9.4/9.3/9.6; substantially broader established collections.
+
+### Scoring decisions
+- Impact: 8.2 — Distinctive historic building and restored displays.
+- Uniqueness: 8.6 — Regional natural history collections and Manueline-style building, not unmatched.
+- Significance: 8.8 — Important national scientific and cultural institution.
+- Experience: 8.7 — Refurbished public galleries and garden, documented reopening.
+- Depth: 8.4 — Multiple habitat displays and educational exhibits, smaller breadth than major national museums.
+- Applicable categories: architecture 8.6, culture 8.7, history 8.8, family 8.6.
+- Overall: 85.15/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial assessment of documented visitor scope.
+- Verification still needed: current permissions, visitor-visible scope and claim-level corroboration.
+
+## sight-mz-niassa-special-reserve — Niassa Special Reserve — 2026-11-25
+
+- YAML: [source](../../../countries/MZ/sights/niassa-special-reserve.yaml)
+- Action: new
+- Precise subject: Special reserve only; no assumption of tourism throughout the transfrontier landscape or hunting concessions.
+- Location check: -11.88043, 37.46811; Named reserve representative GeoNames 9257350, not an access point; within published regional geographic extent.
+- Evidence status: **unassessed**
+- Sources (accessed 2026-11-25):
+  - https://www.anac.gov.mz/en/parques/niassa/ — reserve identity and historical visitor information.
+  - https://mapcarta.com/30860378 — named regional point.
+  - https://www.mdpi.com/1999-4907/13/2/311 — research documents extensive miombo woodland and reserve extent.
+  - https://farandwild.travel/us/africa/mozambique/niassa-reserve/lugenda-wilderness-camp — travel operator reports former camp closed to bookings.
+  - https://travel.state.gov/en/international-travel/travel-advisories/mozambique.html — advisory describes restrictions for embassy personnel in reserve; not a rating penalty.
+- Missing facts: current permitted visitor scope and complete independent factual verification.
+
+### Worldwide peer comparisons
+- [Matusadona National Park (ZW)](../../../countries/ZW/sights/matusadona-national-park.yaml): 8.8/8.9/9.0/8.8/8.8; broader lake and wildlife activity breadth.
+- [North Luangwa National Park (ZM)](../../../countries/ZM/sights/north-luangwa-national-park.yaml): 9.0/9.1/9.2/8.8/8.8; remote guided wilderness experiences.
+- [Okavango Delta (BW)](../../../countries/BW/sights/okavango-delta.yaml): 9.8/9.9/9.8/9.5/9.8; much broader and more distinctive wetland safari.
+- [Gorongosa National Park (MZ)](../../../countries/MZ/sights/gorongosa-national-park.yaml): 9.2/9.2/9.5/9.0/9.1; more established restoration visitor circuit.
+
+### Scoring decisions
+- Impact: null — visitor-visible landscape scope insufficiently established.
+- Uniqueness: 9.2 — extensive miombo landscape and regional wilderness setting, not globally unique.
+- Significance: 9.4 — substantial conservation role and documented ecosystem extent.
+- Experience: null — former camp closure and limited non-hunting itinerary evidence; no score penalty solely for travel advisory.
+- Depth: null — ordinary non-hunting visitor breadth not independently established.
+- Applicable categories: nature 9.4, wildlife null.
+- Overall: unranked.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Partial intrinsic assessment; no overall total or wildlife encounter score.
+- Verification still needed: current permissions, visitor-visible scope and claim-level corroboration.
+
 ## Inventory coverage and backlog
 
-[UNESCO inventory](https://whc.unesco.org/en/statesparties/mz/) lists two inscribed and three tentative properties, all represented. Maputo National Park is the Mozambican 2025 extension of the transboundary iSimangaliso property; Manyikeni and Chibuene individually assessed. Quirimbas individual islands (including Ibo) and Vumba rock-art components remain outstanding, as do Niassa Reserve, Chimanimani, Zinave, Ponta do Ouro, Maputo museums and other regional sites. No exhaustive inventory claimed.
+[UNESCO inventory](https://whc.unesco.org/en/statesparties/mz/) lists two inscribed and three tentative properties, all represented. Maputo National Park is the Mozambican 2025 extension of the transboundary iSimangaliso property; Manyikeni and Chibuene individually assessed. Quirimbas individual islands (including Ibo) and Vumba rock-art components remain outstanding, as do Ponta do Ouro, additional Maputo museums and other regional sites. No exhaustive inventory claimed.
 
