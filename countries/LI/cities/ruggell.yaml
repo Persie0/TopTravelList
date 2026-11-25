@@ -1,0 +1,15 @@
+id: city-li-ruggell
+name: "Ruggell"
+location:
+  country_code: LI
+  latitude: 47.23799
+  longitude: 9.5254
+scores:
+  impact: 6.5
+  uniqueness: 6.8
+  significance: 6.8
+  experience: 7.2
+  depth: 6.6
+  categories:
+    relaxation: 7.8
+    culture: 7.5

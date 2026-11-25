@@ -1,0 +1,15 @@
+id: sight-li-st-mamerten-chapel
+name: "St Mamerten Chapel"
+location:
+  country_code: LI
+  latitude: 47.1090
+  longitude: 9.5350
+scores:
+  impact: 7.1
+  uniqueness: 7.5
+  significance: 7.9
+  experience: 7.4
+  depth: 6.5
+  categories:
+    history: 8.5
+    architecture: 8.1

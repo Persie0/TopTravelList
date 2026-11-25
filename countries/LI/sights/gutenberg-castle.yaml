@@ -1,0 +1,16 @@
+id: sight-li-gutenberg-castle
+name: "Gutenberg Castle"
+location:
+  country_code: LI
+  latitude: 47.0652
+  longitude: 9.5001
+scores:
+  impact: 8.3
+  uniqueness: 8.2
+  significance: 8.2
+  experience: 8.1
+  depth: 7.4
+  categories:
+    architecture: 8.8
+    history: 8.7
+    photography: 8.9

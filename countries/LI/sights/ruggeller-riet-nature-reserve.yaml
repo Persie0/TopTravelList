@@ -1,0 +1,16 @@
+id: sight-li-ruggeller-riet-nature-reserve
+name: "Ruggeller Riet Nature Reserve"
+location:
+  country_code: LI
+  latitude: 47.2540
+  longitude: 9.5390
+scores:
+  impact: 7.7
+  uniqueness: 7.9
+  significance: 7.9
+  experience: 8.0
+  depth: 7.8
+  categories:
+    nature: 8.7
+    wildlife: 8.6
+    photography: 8.3

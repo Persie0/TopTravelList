@@ -1,0 +1,15 @@
+id: sight-li-walser-museum-triesenberg
+name: "Walser Museum Triesenberg"
+location:
+  country_code: LI
+  latitude: 47.1185
+  longitude: 9.5432
+scores:
+  impact: 7.3
+  uniqueness: 8.0
+  significance: 8.1
+  experience: 7.7
+  depth: 7.2
+  categories:
+    culture: 8.7
+    history: 8.6

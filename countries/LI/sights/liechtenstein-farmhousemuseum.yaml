@@ -1,0 +1,15 @@
+id: sight-li-liechtenstein-farmhousemuseum
+name: "Liechtenstein FarmhouseMuseum"
+location:
+  country_code: LI
+  latitude: 47.2306
+  longitude: 9.5463
+scores:
+  impact: 7.2
+  uniqueness: 7.8
+  significance: 7.9
+  experience: 7.6
+  depth: 6.9
+  categories:
+    culture: 8.5
+    history: 8.4

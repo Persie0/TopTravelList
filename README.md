@@ -97,8 +97,8 @@ Every registered country has a linked folder below. The status is determined fro
 | [India](countries/IN/) (`IN`) | 97 | 333 |
 | [Indonesia](countries/ID/) (`ID`) | 79 | 343 |
 | [Japan](countries/JP/) (`JP`) | 87 | 347 |
-| [Jordan](countries/JO/) (`JO`) | 21 | 67 |
 | [Laos](countries/LA/) (`LA`) | 42 | 144 |
+| [Liechtenstein](countries/LI/) (`LI`) | 15 | 34 |
 | [Malaysia](countries/MY/) (`MY`) | 65 | 213 |
 | [Montenegro](countries/ME/) (`ME`) | 33 | 94 |
 | [Nepal](countries/NP/) (`NP`) | 49 | 123 |
@@ -133,10 +133,10 @@ These countries have no entries in one or both destination folders yet. Their co
 | [Guatemala](countries/GT/) (`GT`) | [Guinea](countries/GN/) (`GN`) | [Guinea-Bissau](countries/GW/) (`GW`) | [Guyana](countries/GY/) (`GY`) |
 | [Haiti](countries/HT/) (`HT`) | [Honduras](countries/HN/) (`HN`) | [Hungary](countries/HU/) (`HU`) | [Iceland](countries/IS/) (`IS`) |
 | [Iran](countries/IR/) (`IR`) | [Iraq](countries/IQ/) (`IQ`) | [Ireland](countries/IE/) (`IE`) | [Israel](countries/IL/) (`IL`) |
-| [Italy](countries/IT/) (`IT`) | [Jamaica](countries/JM/) (`JM`) | [Kazakhstan](countries/KZ/) (`KZ`) | [Kenya](countries/KE/) (`KE`) |
-| [Kiribati](countries/KI/) (`KI`) | [Kosovo](countries/XK/) (`XK`) | [Kuwait](countries/KW/) (`KW`) | [Kyrgyzstan](countries/KG/) (`KG`) |
-| [Latvia](countries/LV/) (`LV`) | [Lebanon](countries/LB/) (`LB`) | [Lesotho](countries/LS/) (`LS`) | [Liberia](countries/LR/) (`LR`) |
-| [Libya](countries/LY/) (`LY`) | [Liechtenstein](countries/LI/) (`LI`) | [Lithuania](countries/LT/) (`LT`) | [Luxembourg](countries/LU/) (`LU`) |
+| [Italy](countries/IT/) (`IT`) | [Jamaica](countries/JM/) (`JM`) | [Jordan](countries/JO/) (`JO`) | [Kazakhstan](countries/KZ/) (`KZ`) |
+| [Kenya](countries/KE/) (`KE`) | [Kiribati](countries/KI/) (`KI`) | [Kosovo](countries/XK/) (`XK`) | [Kuwait](countries/KW/) (`KW`) |
+| [Kyrgyzstan](countries/KG/) (`KG`) | [Latvia](countries/LV/) (`LV`) | [Lebanon](countries/LB/) (`LB`) | [Lesotho](countries/LS/) (`LS`) |
+| [Liberia](countries/LR/) (`LR`) | [Libya](countries/LY/) (`LY`) | [Lithuania](countries/LT/) (`LT`) | [Luxembourg](countries/LU/) (`LU`) |
 | [Madagascar](countries/MG/) (`MG`) | [Malawi](countries/MW/) (`MW`) | [Maldives](countries/MV/) (`MV`) | [Mali](countries/ML/) (`ML`) |
 | [Malta](countries/MT/) (`MT`) | [Marshall Islands](countries/MH/) (`MH`) | [Mauritania](countries/MR/) (`MR`) | [Mauritius](countries/MU/) (`MU`) |
 | [Mexico](countries/MX/) (`MX`) | [Micronesia, Federated States of](countries/FM/) (`FM`) | [Moldova](countries/MD/) (`MD`) | [Monaco](countries/MC/) (`MC`) |

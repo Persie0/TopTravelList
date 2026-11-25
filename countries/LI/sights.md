@@ -2,7 +2,7 @@
 
 # Liechtenstein (LI) — Sights & attractions ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**34 ranked** · **0 unassessed** · **34 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,11 +10,44 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, or click its GPS coordinates to open **Google Maps**. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (34)
 
-No sights & attractions have been assessed for **Liechtenstein** yet.
-
-Add destination YAML files in [sights/](sights/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps |
+| ---: | --- | --- | ---: | --- | --- | --- |
+| 1 | [Fürstensteig–Drei Schwestern Trail](sights/furstensteig-drei-schwestern-trail.yaml) | Trail / walk | **84.15** | **Adventure 9.1**, **Photography 9.1**, **Nature 9.0** | 8.8 / 8.6 / 7.4 / 8.7 / 8.4 | [47.157, 9.556](https://www.google.com/maps/search/?api=1&query=47.157,9.556) |
+| 2 | [Fürstin Gina Trail](sights/furstin-gina-trail.yaml) | Trail / walk | **82.40** | **Photography 9.1**, **Adventure 9.0**, **Nature 9.0** | 8.6 / 8.3 / 7.2 / 8.7 / 8.4 | [47.082472, 9.610083](https://www.google.com/maps/search/?api=1&query=47.082472,9.610083) |
+| 3 | [Naafkopf Summit](sights/naafkopf-summit.yaml) | Attraction | **82.00** | **Adventure 9.0**, **Nature 9.0**, **Photography 9.0** | 8.5 / 8.3 / 7.6 / 8.5 / 7.8 | [47.06, 9.607](https://www.google.com/maps/search/?api=1&query=47.06,9.607) |
+| 4 | [Gutenberg Castle](sights/gutenberg-castle.yaml) | Palace / castle | **81.35** | **Photography 8.9**, **Architecture 8.8**, **History 8.7** | 8.3 / 8.2 / 8.2 / 8.1 / 7.4 | [47.0652, 9.5001](https://www.google.com/maps/search/?api=1&query=47.0652,9.5001) |
+| 4 | [Liechtenstein Trail](sights/liechtenstein-trail.yaml) | Trail / walk | **81.35** | **Adventure 8.6**, **Culture 8.5**, **Nature 8.5** | 8.0 / 8.2 / 7.6 / 8.5 / 8.9 | [47.15, 9.52](https://www.google.com/maps/search/?api=1&query=47.15,9.52) |
+| 6 | [Kunstmuseum Liechtenstein and Hilti Art Foundation](sights/kunstmuseum-liechtenstein-and-hilti-art-foundation.yaml) | Museum / heritage | **80.85** | **Culture 8.9**, **Architecture 8.6** | 8.0 / 8.2 / 7.9 / 8.3 / 8.1 | [47.1395, 9.5219](https://www.google.com/maps/search/?api=1&query=47.1395,9.5219) |
+| 7 | [Liechtenstein NationalMuseum](sights/liechtenstein-nationalmuseum.yaml) | Museum / heritage | **80.45** | **History 8.9**, **Culture 8.7** | 7.8 / 8.0 / 8.4 / 8.1 / 8.1 | [47.1383, 9.5219](https://www.google.com/maps/search/?api=1&query=47.1383,9.5219) |
+| 8 | [Liechtenstein TreasureChamber](sights/liechtenstein-treasurechamber.yaml) | Attraction | **79.95** | **Culture 8.8**, **History 8.6** | 7.8 / 8.4 / 8.1 / 8.1 / 7.2 | [47.1388, 9.522](https://www.google.com/maps/search/?api=1&query=47.1388,9.522) |
+| 9 | [Ruggeller Riet Nature Reserve](sights/ruggeller-riet-nature-reserve.yaml) | Park / reserve | **78.45** | **Nature 8.7**, **Wildlife 8.6**, **Photography 8.3** | 7.7 / 7.9 / 7.9 / 8.0 / 7.8 | [47.254, 9.539](https://www.google.com/maps/search/?api=1&query=47.254,9.539) |
+| 10 | [Vaduz Castle (exterior)](sights/vaduz-castle-exterior.yaml) | Palace / castle | **78.35** | **Photography 8.9**, **History 8.8**, **Architecture 8.7** | 8.0 / 8.1 / 8.3 / 7.4 / 6.4 | [47.13961, 9.52434](https://www.google.com/maps/search/?api=1&query=47.13961,9.52434) |
+| 11 | [Old Rhine Bridge Vaduz–Sevelen](sights/old-rhine-bridge-vaduz-sevelen.yaml) | Bridge | **77.15** | **Architecture 8.6**, **Photography 8.4**, **History 8.3** | 7.6 / 8.0 / 7.8 / 7.9 / 6.9 | [47.1308, 9.5101](https://www.google.com/maps/search/?api=1&query=47.1308,9.5101) |
+| 12 | [Walser Legend Trail](sights/walser-legend-trail.yaml) | Trail / walk | **77.10** | **Family 8.5**, **Culture 8.4**, **Nature 8.3** | 7.5 / 7.9 / 7.5 / 8.1 / 7.7 | [47.13, 9.551](https://www.google.com/maps/search/?api=1&query=47.13,9.551) |
+| 13 | [Walser Museum Triesenberg](sights/walser-museum-triesenberg.yaml) | Museum / heritage | **76.85** | **Culture 8.7**, **History 8.6** | 7.3 / 8.0 / 8.1 / 7.7 / 7.2 | [47.1185, 9.5432](https://www.google.com/maps/search/?api=1&query=47.1185,9.5432) |
+| 14 | [Sareis Viewing Terrace](sights/sareis-viewing-terrace.yaml) | Attraction | **76.60** | **Photography 8.8**, **Nature 8.5**, **Relaxation 8.5** | 8.1 / 7.8 / 6.6 / 8.4 / 7.0 | [47.101, 9.625](https://www.google.com/maps/search/?api=1&query=47.101,9.625) |
+| 15 | [Malbun Ski Area](sights/malbun-ski-area.yaml) | Attraction | **76.40** | **Family 8.8**, **Adventure 8.7**, **Nature 8.5** | 7.9 / 7.5 / 6.6 / 8.5 / 8.0 | [47.1, 9.613](https://www.google.com/maps/search/?api=1&query=47.1,9.613) |
+| 16 | [Government District and Peter Kaiser Square](sights/government-district-and-peter-kaiser-square.yaml) | Park / square | **76.10** | **History 8.6**, **Architecture 8.2** | 7.3 / 7.8 / 8.2 / 7.6 / 6.9 | [47.1383, 9.522](https://www.google.com/maps/search/?api=1&query=47.1383,9.522) |
+| 17 | [Pfälzerhütte](sights/pfalzerhutte.yaml) | Attraction | **76.00** | **Photography 8.7**, **Relaxation 8.2** | 7.8 / 7.8 / 7.1 / 8.0 / 6.9 | [47.071222, 9.61325](https://www.google.com/maps/search/?api=1&query=47.071222,9.61325) |
+| 18 | [St Florin Cathedral](sights/st-florin-cathedral.yaml) | Religious site | **75.95** | **History 8.4**, **Architecture 8.3** | 7.5 / 7.6 / 8.0 / 7.7 / 6.9 | [47.1378, 9.5223](https://www.google.com/maps/search/?api=1&query=47.1378,9.5223) |
+| 19 | [Church Hill Bendern](sights/church-hill-bendern.yaml) | Religious site | **75.65** | **History 8.7**, **Architecture 8.2** | 7.3 / 7.7 / 8.2 / 7.6 / 6.7 | [47.213, 9.5065](https://www.google.com/maps/search/?api=1&query=47.213,9.5065) |
+| 20 | [Liechtenstein FarmhouseMuseum](sights/liechtenstein-farmhousemuseum.yaml) | Museum / heritage | **75.20** | **Culture 8.5**, **History 8.4** | 7.2 / 7.8 / 7.9 / 7.6 / 6.9 | [47.2306, 9.5463](https://www.google.com/maps/search/?api=1&query=47.2306,9.5463) |
+| 21 | [Liechtenstein PostalMuseum](sights/liechtenstein-postalmuseum.yaml) | Museum / heritage | **74.75** | **History 8.3**, **Culture 8.1** | 7.0 / 7.9 / 7.8 / 7.6 / 7.0 | [47.139, 9.5218](https://www.google.com/maps/search/?api=1&query=47.139,9.5218) |
+| 22 | [Schalun Castle Ruin (Wildschloss)](sights/schalun-castle-ruin-wildschloss.yaml) | Palace / castle | **74.70** | **Photography 8.3**, **History 8.2** | 7.4 / 7.5 / 7.7 / 7.7 / 6.8 | [47.15, 9.536](https://www.google.com/maps/search/?api=1&query=47.15,9.536) |
+| 23 | [Upper Schellenberg Castle Ruin](sights/upper-schellenberg-castle-ruin.yaml) | Palace / castle | **74.40** | **History 8.4**, **Photography 8.0** | 7.3 / 7.4 / 7.9 / 7.6 / 6.8 | [47.237, 9.548](https://www.google.com/maps/search/?api=1&query=47.237,9.548) |
+| 24 | [Red House Vaduz (exterior)](sights/red-house-vaduz-exterior.yaml) | Attraction | **74.30** | **Photography 8.5**, **Architecture 8.4** | 7.5 / 7.6 / 7.7 / 7.4 / 6.3 | [47.1457, 9.525](https://www.google.com/maps/search/?api=1&query=47.1457,9.525) |
+| 25 | [St Mamerten Chapel](sights/st-mamerten-chapel.yaml) | Attraction | **73.45** | **History 8.5**, **Architecture 8.1** | 7.1 / 7.5 / 7.9 / 7.4 / 6.5 | [47.109, 9.535](https://www.google.com/maps/search/?api=1&query=47.109,9.535) |
+| 26 | [Gaflei Lookout Tower](sights/gaflei-lookout-tower.yaml) | Tower / viewpoint | **73.40** | **Photography 8.7**, **Nature 8.3** | 7.7 / 7.6 / 6.4 / 8.0 / 6.5 | [47.143, 9.546](https://www.google.com/maps/search/?api=1&query=47.143,9.546) |
+| 27 | [Küefer-Martis-Huus](sights/kuefer-martis-huus.yaml) | Attraction | **72.25** | **Culture 8.1**, **History 8.0** | 6.9 / 7.4 / 7.5 / 7.5 / 6.8 | [47.239, 9.525](https://www.google.com/maps/search/?api=1&query=47.239,9.525) |
+| 27 | [Lawena Museum](sights/lawena-museum.yaml) | Museum / heritage | **72.25** | **History 8.2**, **Culture 7.9** | 6.8 / 7.5 / 7.6 / 7.4 / 6.8 | [47.093, 9.533](https://www.google.com/maps/search/?api=1&query=47.093,9.533) |
+| 29 | [Gasometer Cultural Center](sights/gasometer-cultural-center.yaml) | Attraction | **71.85** | **Culture 8.2**, **History 7.8** | 6.9 / 7.4 / 7.3 / 7.5 / 6.8 | [47.108, 9.526](https://www.google.com/maps/search/?api=1&query=47.108,9.526) |
+| 30 | [Eschen Mill](sights/eschen-mill.yaml) | Attraction | **71.80** | **History 8.2**, **Culture 7.9** | 6.8 / 7.5 / 7.6 / 7.3 / 6.5 | [47.21, 9.523](https://www.google.com/maps/search/?api=1&query=47.21,9.523) |
+| 31 | [Dux Chapel](sights/dux-chapel.yaml) | Attraction | **71.75** | **Architecture 8.0**, **History 8.0** | 7.0 / 7.3 / 7.5 / 7.4 / 6.4 | [47.17, 9.523](https://www.google.com/maps/search/?api=1&query=47.17,9.523) |
+| 32 | [Lower Schellenberg Castle Ruin](sights/lower-schellenberg-castle-ruin.yaml) | Palace / castle | **71.30** | **History 8.2** | 6.9 / 7.2 / 7.7 / 7.2 / 6.4 | [47.231, 9.542](https://www.google.com/maps/search/?api=1&query=47.231,9.542) |
+| 32 | [Peace Chapel Malbun](sights/peace-chapel-malbun.yaml) | Attraction | **71.30** | **Photography 8.1**, **History 8.0** | 6.9 / 7.3 / 7.4 / 7.5 / 6.3 | [47.1015, 9.612](https://www.google.com/maps/search/?api=1&query=47.1015,9.612) |
+| 34 | [Dux Observation Tower](sights/dux-observation-tower.yaml) | Tower / viewpoint | **70.60** | **Photography 8.4**, **Nature 8.0** | 7.3 / 7.2 / 6.3 / 7.8 / 6.4 | [47.174, 9.524](https://www.google.com/maps/search/?api=1&query=47.174,9.524) |
 
 ---
 
