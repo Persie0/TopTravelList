@@ -1,0 +1,15 @@
+id: sight-tj-panjshanbe-bazaar
+name: "Panjshanbe Bazaar"
+location:
+  country_code: TJ
+  latitude: 40.278
+  longitude: 69.629
+scores:
+  impact: 7.7
+  uniqueness: 8.0
+  significance: 7.0
+  experience: 8.5
+  depth: 7.5
+  categories:
+    food: 8.7
+    culture: 8.6

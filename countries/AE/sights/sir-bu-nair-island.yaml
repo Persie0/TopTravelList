@@ -1,0 +1,15 @@
+id: sight-ae-sir-bu-nair-island
+name: "Sir Bu Nair Island"
+location:
+  country_code: AE
+  latitude: 25.23
+  longitude: 54.22
+scores:
+  impact: null
+  uniqueness: 8.7
+  significance: 9.1
+  experience: null
+  depth: null
+  categories:
+    nature: 9.2
+    wildlife: 9.3

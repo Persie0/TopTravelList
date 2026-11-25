@@ -1,0 +1,15 @@
+id: city-lv-ludza
+name: "Ludza"
+location:
+  country_code: LV
+  latitude: 56.543
+  longitude: 27.722
+scores:
+  impact: 7.8
+  uniqueness: 8.1
+  significance: 7.9
+  experience: 7.8
+  depth: 7.2
+  categories:
+    history: 8.3
+    photography: 8.5

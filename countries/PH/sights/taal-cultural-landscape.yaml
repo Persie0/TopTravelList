@@ -1,0 +1,16 @@
+id: sight-ph-taal-cultural-landscape
+name: "Historic Towns and Landscape of Taal Volcano and Caldera Lake"
+location:
+  country_code: PH
+  latitude: 14.01
+  longitude: 120.99
+scores:
+  impact: 9.0
+  uniqueness: 8.9
+  significance: 8.8
+  experience: null
+  depth: null
+  categories:
+    nature: 9.1
+    history: 8.9
+    architecture: 8.8

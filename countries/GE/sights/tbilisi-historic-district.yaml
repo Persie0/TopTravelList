@@ -1,0 +1,17 @@
+id: sight-ge-tbilisi-historic-district
+name: "Tbilisi Historic District"
+location:
+  country_code: GE
+  latitude: 41.6905
+  longitude: 44.808
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 8.5
+  experience: 9.0
+  depth: 8.6
+  categories:
+    architecture: 9.0
+    history: 8.7
+    culture: 8.9
+    photography: 9.0

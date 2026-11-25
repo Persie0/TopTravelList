@@ -1,0 +1,15 @@
+id: sight-ye-baraqish
+name: "Baraqish Archaeological Site"
+location:
+  country_code: YE
+  latitude: 16.017
+  longitude: 44.8
+scores:
+  impact: 8.1
+  uniqueness: 8.8
+  significance: 9.0
+  experience: null
+  depth: null
+  categories:
+    history: 9.1
+    architecture: 8.7

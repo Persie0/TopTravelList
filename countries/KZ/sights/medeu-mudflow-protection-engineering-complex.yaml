@@ -1,0 +1,15 @@
+id: sight-kz-medeu-mudflow-protection-engineering-complex
+name: "Medeu Mudflow Protection Engineering Complex"
+location:
+  country_code: KZ
+  latitude: 43.153
+  longitude: 77.061
+scores:
+  impact: 7.9
+  uniqueness: 8.6
+  significance: 8.7
+  experience: 7.9
+  depth: 7.5
+  categories:
+    history: 8.8
+    architecture: 8.6

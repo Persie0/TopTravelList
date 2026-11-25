@@ -1,0 +1,15 @@
+id: sight-ph-fort-santiago
+name: "Fort Santiago"
+location:
+  country_code: PH
+  latitude: 14.594
+  longitude: 120.97
+scores:
+  impact: 8.1
+  uniqueness: 8.2
+  significance: 8.9
+  experience: 8.4
+  depth: 8.0
+  categories:
+    history: 9.1
+    architecture: 8.5

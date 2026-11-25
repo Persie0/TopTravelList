@@ -1,0 +1,16 @@
+id: sight-rw-king-s-palace-museum-nyanza
+name: "King's Palace Museum (Nyanza)"
+location:
+  country_code: RW
+  latitude: -2.3560
+  longitude: 29.7410
+scores:
+  impact: 8.2
+  uniqueness: 8.6
+  significance: 8.8
+  experience: 8.6
+  depth: 8.0
+  categories:
+    culture: 9.2
+    history: 9.2
+    architecture: 8.8

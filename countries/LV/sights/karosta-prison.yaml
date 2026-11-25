@@ -1,0 +1,15 @@
+id: sight-lv-karosta-prison
+name: "Karosta Prison"
+location:
+  country_code: LV
+  latitude: 56.548
+  longitude: 21.012
+scores:
+  impact: 8.1
+  uniqueness: 8.7
+  significance: 8.4
+  experience: 8.3
+  depth: 7.8
+  categories:
+    history: 8.9
+    culture: 8.3

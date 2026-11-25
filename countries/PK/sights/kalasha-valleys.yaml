@@ -1,0 +1,16 @@
+id: sight-pk-kalasha-valleys
+name: "Kalasha Valley Cultural Landscape"
+location:
+  country_code: PK
+  latitude: 35.69
+  longitude: 71.65
+scores:
+  impact: 8.6
+  uniqueness: 9.1
+  significance: 8.7
+  experience: 8.2
+  depth: 8.1
+  categories:
+    culture: 9.1
+    nature: 8.7
+    photography: 9.0

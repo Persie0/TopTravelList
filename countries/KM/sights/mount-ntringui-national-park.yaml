@@ -1,0 +1,17 @@
+id: sight-km-mount-ntringui-national-park
+name: "Mount Ntringui National Park"
+location:
+  country_code: KM
+  latitude: -12.2180
+  longitude: 44.4250
+scores:
+  impact: 8.6
+  uniqueness: 8.6
+  significance: 8.5
+  experience: 8.3
+  depth: 7.9
+  categories:
+    nature: 9.1
+    wildlife: 8.9
+    adventure: 8.7
+    photography: 8.9

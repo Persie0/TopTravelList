@@ -1,0 +1,16 @@
+id: sight-kz-arystan-bab-mausoleum
+name: "Arystan Bab Mausoleum"
+location:
+  country_code: KZ
+  latitude: 42.852
+  longitude: 68.265
+scores:
+  impact: 7.9
+  uniqueness: 8.4
+  significance: 8.8
+  experience: 8.1
+  depth: 7.0
+  categories:
+    architecture: 8.8
+    history: 9.0
+    culture: 9.0

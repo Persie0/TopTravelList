@@ -1,0 +1,15 @@
+id: city-fi-kuopio
+name: "Kuopio"
+location:
+  country_code: FI
+  latitude: 62.893
+  longitude: 27.678
+scores:
+  impact: 7.9
+  uniqueness: 7.8
+  significance: 7.7
+  experience: 8.4
+  depth: 8.1
+  categories:
+    relaxation: 8.5
+    culture: 8.2

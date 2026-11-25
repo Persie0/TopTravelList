@@ -1,0 +1,16 @@
+id: sight-bb-scotland-district-of-barbados
+name: "Scotland District of Barbados"
+location:
+  country_code: BB
+  latitude: 13.225
+  longitude: -59.545
+scores:
+  impact: 8.6
+  uniqueness: 9.1
+  significance: 8.6
+  experience: 8.0
+  depth: 8.4
+  categories:
+    nature: 9.4
+    photography: 9.2
+    adventure: 8.5

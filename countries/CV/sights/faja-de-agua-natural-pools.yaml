@@ -1,0 +1,16 @@
+id: sight-cv-faja-de-agua-natural-pools
+name: "Faja de Agua Natural Pools"
+location:
+  country_code: CV
+  latitude: 14.8910
+  longitude: -24.7260
+scores:
+  impact: 8.4
+  uniqueness: 8.2
+  significance: 6.0
+  experience: 8.1
+  depth: 6.5
+  categories:
+    nature: 8.5
+    photography: 8.8
+    relaxation: 8.3

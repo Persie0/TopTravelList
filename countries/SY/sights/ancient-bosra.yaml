@@ -1,0 +1,16 @@
+id: sight-sy-ancient-bosra
+name: "Ancient City of Bosra"
+location:
+  country_code: SY
+  latitude: 32.518
+  longitude: 36.482
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 9.2
+  experience: 8.4
+  depth: 8.4
+  categories:
+    architecture: 9.1
+    history: 9.3
+    photography: 9.0

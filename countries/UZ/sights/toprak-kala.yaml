@@ -1,0 +1,15 @@
+id: sight-uz-toprak-kala
+name: "Toprak Kala"
+location:
+  country_code: UZ
+  latitude: 41.927
+  longitude: 60.823
+scores:
+  impact: 8.0
+  uniqueness: 8.7
+  significance: 9.0
+  experience: 7.9
+  depth: 7.5
+  categories:
+    history: 9.2
+    architecture: 8.5

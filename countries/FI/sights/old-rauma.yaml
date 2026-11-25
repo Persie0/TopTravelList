@@ -1,0 +1,16 @@
+id: sight-fi-old-rauma
+name: "Old Rauma"
+location:
+  country_code: FI
+  latitude: 61.128
+  longitude: 21.511
+scores:
+  impact: 8.8
+  uniqueness: 9.1
+  significance: 9.0
+  experience: 8.8
+  depth: 8.5
+  categories:
+    architecture: 9.3
+    history: 9.1
+    photography: 9.1

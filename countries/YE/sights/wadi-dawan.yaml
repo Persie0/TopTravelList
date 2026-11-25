@@ -1,0 +1,16 @@
+id: sight-ye-wadi-dawan
+name: "Haid Al-Jazil and Wadi Daw'an"
+location:
+  country_code: YE
+  latitude: 15.165833
+  longitude: 48.421389
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 8.6
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.0
+    photography: 9.3
+    nature: 8.9

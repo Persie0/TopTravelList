@@ -1,0 +1,15 @@
+id: sight-fi-kastelholm
+name: "Kastelholm Castle"
+location:
+  country_code: FI
+  latitude: 60.235
+  longitude: 20.08
+scores:
+  impact: 8.2
+  uniqueness: 8.3
+  significance: 8.5
+  experience: 8.3
+  depth: 7.9
+  categories:
+    history: 8.9
+    architecture: 8.7

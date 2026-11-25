@@ -1,0 +1,15 @@
+id: sight-cr-cano-negro-wildlife-refuge
+name: "Caño Negro Wildlife Refuge"
+location:
+  country_code: CR
+  latitude: 10.897
+  longitude: -84.785
+scores:
+  impact: 8.3
+  uniqueness: 8.6
+  significance: 9.0
+  experience: 8.5
+  depth: 8.2
+  categories:
+    wildlife: 9.4
+    nature: 9.1

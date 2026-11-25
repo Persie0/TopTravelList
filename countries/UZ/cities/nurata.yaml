@@ -1,0 +1,15 @@
+id: city-uz-nurata
+name: "Nurata"
+location:
+  country_code: UZ
+  latitude: 40.561
+  longitude: 65.688
+scores:
+  impact: 7.3
+  uniqueness: 7.7
+  significance: 7.9
+  experience: 7.6
+  depth: 6.7
+  categories:
+    history: 8.4
+    culture: 8.2

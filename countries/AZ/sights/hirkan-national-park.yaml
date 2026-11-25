@@ -1,0 +1,15 @@
+id: sight-az-hirkan-national-park
+name: "Hirkan National Park"
+location:
+  country_code: AZ
+  latitude: 38.65
+  longitude: 48.58
+scores:
+  impact: 8.3
+  uniqueness: 8.7
+  significance: 8.8
+  experience: 8.0
+  depth: 8.5
+  categories:
+    nature: 9.2
+    wildlife: 9.0

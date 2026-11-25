@@ -1,0 +1,14 @@
+id: sight-pk-rehman-dheri
+name: "Rehman Dheri Archaeological Site"
+location:
+  country_code: PK
+  latitude: 31.917
+  longitude: 70.85
+scores:
+  impact: null
+  uniqueness: 8.6
+  significance: 9.0
+  experience: null
+  depth: null
+  categories:
+    history: 9.0

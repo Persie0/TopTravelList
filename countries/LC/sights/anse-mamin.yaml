@@ -1,0 +1,16 @@
+id: sight-lc-anse-mamin
+name: "Anse Mamin"
+location:
+  country_code: LC
+  latitude: 13.870
+  longitude: -61.078
+scores:
+  impact: 8.7
+  uniqueness: 8.3
+  significance: 6.4
+  experience: 8.5
+  depth: 7.1
+  categories:
+    beaches: 9.0
+    photography: 9.1
+    relaxation: 8.7

@@ -1,0 +1,16 @@
+id: sight-af-panjshir-valley
+name: "Panjshir Valley"
+location:
+  country_code: AF
+  latitude: 35.35
+  longitude: 69.6
+scores:
+  impact: 8.7
+  uniqueness: 8.3
+  significance: 8.2
+  experience: null
+  depth: null
+  categories:
+    nature: 8.9
+    photography: 9.0
+    history: 8.5

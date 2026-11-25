@@ -1,0 +1,15 @@
+id: sight-pk-moenjodaro
+name: "Archaeological Ruins at Moenjodaro"
+location:
+  country_code: PK
+  latitude: 27.329167
+  longitude: 68.138889
+scores:
+  impact: 8.7
+  uniqueness: 9.4
+  significance: 9.4
+  experience: 8.3
+  depth: 8.7
+  categories:
+    history: 9.4
+    architecture: 8.8

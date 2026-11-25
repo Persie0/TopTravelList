@@ -1,0 +1,16 @@
+id: sight-se-vasa-museum
+name: "Vasa Museum"
+location:
+  country_code: SE
+  latitude: 59.328
+  longitude: 18.091
+scores:
+  impact: 9.4
+  uniqueness: 9.6
+  significance: 9.3
+  experience: 9.2
+  depth: 9.0
+  categories:
+    history: 9.5
+    culture: 9.2
+    photography: 9.2

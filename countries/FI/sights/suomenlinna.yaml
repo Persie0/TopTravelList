@@ -1,0 +1,16 @@
+id: sight-fi-suomenlinna
+name: "Fortress of Suomenlinna"
+location:
+  country_code: FI
+  latitude: 60.145
+  longitude: 24.988
+scores:
+  impact: 9.1
+  uniqueness: 9.1
+  significance: 9.3
+  experience: 9.2
+  depth: 9.2
+  categories:
+    history: 9.4
+    architecture: 9.3
+    photography: 9.2

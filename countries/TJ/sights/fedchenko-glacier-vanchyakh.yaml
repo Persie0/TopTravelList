@@ -1,0 +1,15 @@
+id: sight-tj-fedchenko-glacier-vanchyakh
+name: "Fedchenko Glacier (Vanchyakh)"
+location:
+  country_code: TJ
+  latitude: 38.6
+  longitude: 72.3
+scores:
+  impact: null
+  uniqueness: 9.6
+  significance: 9.4
+  experience: null
+  depth: null
+  categories:
+    nature: 9.6
+    photography: 9.5

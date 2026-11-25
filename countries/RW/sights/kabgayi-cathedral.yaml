@@ -1,0 +1,16 @@
+id: sight-rw-kabgayi-cathedral
+name: "Kabgayi Cathedral"
+location:
+  country_code: RW
+  latitude: -2.0860
+  longitude: 29.7440
+scores:
+  impact: 7.0
+  uniqueness: 7.3
+  significance: 8.1
+  experience: 7.3
+  depth: 6.6
+  categories:
+    history: 8.5
+    architecture: 8.0
+    culture: 8.1

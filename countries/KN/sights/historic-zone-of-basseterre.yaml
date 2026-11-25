@@ -1,0 +1,16 @@
+id: sight-kn-historic-zone-of-basseterre
+name: "Historic Zone of Basseterre"
+location:
+  country_code: KN
+  latitude: 17.294
+  longitude: -62.725
+scores:
+  impact: 7.8
+  uniqueness: 8.4
+  significance: 8.6
+  experience: 8.1
+  depth: 7.8
+  categories:
+    architecture: 8.7
+    history: 9.0
+    culture: 8.7

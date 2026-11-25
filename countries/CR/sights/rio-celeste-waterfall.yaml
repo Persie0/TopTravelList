@@ -1,0 +1,15 @@
+id: sight-cr-rio-celeste-waterfall
+name: "Río Celeste Waterfall"
+location:
+  country_code: CR
+  latitude: 10.701
+  longitude: -84.996
+scores:
+  impact: 9.2
+  uniqueness: 9.0
+  significance: 7.6
+  experience: 8.6
+  depth: 6.6
+  categories:
+    nature: 9.2
+    photography: 9.4

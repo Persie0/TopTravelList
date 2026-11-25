@@ -1,0 +1,16 @@
+id: city-bd-cox-s-bazar
+name: "Cox's Bazar"
+location:
+  country_code: BD
+  latitude: 21.4272
+  longitude: 92.0058
+scores:
+  impact: 7.5
+  uniqueness: 7.5
+  significance: 6.3
+  experience: 8.3
+  depth: 7.6
+  categories:
+    beaches: 8.6
+    relaxation: 8.4
+    food: 8.3

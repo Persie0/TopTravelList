@@ -1,0 +1,15 @@
+id: sight-cv-cabo-santa-maria-shipwreck
+name: "Cabo Santa Maria Shipwreck"
+location:
+  country_code: CV
+  latitude: 16.2130
+  longitude: -22.8690
+scores:
+  impact: 8.1
+  uniqueness: 8.0
+  significance: 6.9
+  experience: 7.6
+  depth: 6.0
+  categories:
+    photography: 8.8
+    history: 7.5
