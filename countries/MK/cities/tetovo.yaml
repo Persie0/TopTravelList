@@ -1,0 +1,15 @@
+id: city-mk-tetovo
+name: "Tetovo"
+location:
+  country_code: MK
+  latitude: 42.0092
+  longitude: 20.9701
+scores:
+  impact: 7.4
+  uniqueness: 7.7
+  significance: 8.0
+  experience: 7.9
+  depth: 7.7
+  categories:
+    culture: 8.6
+    food: 8.3
