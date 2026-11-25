@@ -1,0 +1,16 @@
+id: city-om-salalah
+name: "Salalah"
+location:
+  country_code: OM
+  latitude: 17.019
+  longitude: 54.089
+scores:
+  impact: 7.7
+  uniqueness: 8.0
+  significance: 7.8
+  experience: 8.3
+  depth: 7.9
+  categories:
+    culture: 8.3
+    food: 8.1
+    relaxation: 8.2

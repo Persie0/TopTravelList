@@ -1,0 +1,15 @@
+id: sight-st-nova-estrela-viewpoint
+name: "Nova Estrela Viewpoint"
+location:
+  country_code: ST
+  latitude: 1.5830
+  longitude: 7.4390
+scores:
+  impact: 8.6
+  uniqueness: 8.3
+  significance: 6.6
+  experience: 8.2
+  depth: 6.2
+  categories:
+    photography: 9.2
+    nature: 8.7

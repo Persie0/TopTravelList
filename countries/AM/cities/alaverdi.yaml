@@ -1,0 +1,15 @@
+id: city-am-alaverdi
+name: "Alaverdi"
+location:
+  country_code: AM
+  latitude: 41.096
+  longitude: 44.661
+scores:
+  impact: 7.1
+  uniqueness: 7.7
+  significance: 7.4
+  experience: 7.3
+  depth: 6.8
+  categories:
+    photography: 8.0
+    history: 7.9

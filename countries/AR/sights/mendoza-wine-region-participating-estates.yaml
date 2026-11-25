@@ -1,0 +1,17 @@
+id: sight-ar-mendoza-wine-region-participating-estates
+name: "Mendoza Wine Region (participating estates)"
+location:
+  country_code: AR
+  latitude: -33.0000
+  longitude: -68.9500
+scores:
+  impact: 8.5
+  uniqueness: 8.6
+  significance: 8.2
+  experience: 9.4
+  depth: 9.1
+  categories:
+    food: 9.7
+    relaxation: 9.2
+    culture: 8.9
+    photography: 8.9

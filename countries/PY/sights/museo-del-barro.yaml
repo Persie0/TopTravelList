@@ -1,0 +1,15 @@
+id: sight-py-museo-del-barro
+name: "Museo del Barro"
+location:
+  country_code: PY
+  latitude: -25.2725
+  longitude: -57.5657
+scores:
+  impact: 8.0
+  uniqueness: 8.5
+  significance: 8.6
+  experience: 8.3
+  depth: 7.9
+  categories:
+    culture: 9.2
+    history: 8.6

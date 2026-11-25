@@ -1,0 +1,15 @@
+id: city-bj-abomey-calavi
+name: "Abomey-Calavi"
+location:
+  country_code: BJ
+  latitude: 6.4480
+  longitude: 2.3550
+scores:
+  impact: 6.3
+  uniqueness: 6.9
+  significance: 7.0
+  experience: 7.4
+  depth: 7.0
+  categories:
+    culture: 7.7
+    food: 7.8

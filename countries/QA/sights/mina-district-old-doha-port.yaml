@@ -1,0 +1,16 @@
+id: sight-qa-mina-district-old-doha-port
+name: "Mina District (Old Doha Port)"
+location:
+  country_code: QA
+  latitude: 25.2980
+  longitude: 51.5480
+scores:
+  impact: 7.6
+  uniqueness: 7.3
+  significance: 6.7
+  experience: 8.0
+  depth: 7.1
+  categories:
+    architecture: 7.9
+    food: 8.1
+    photography: 8.2

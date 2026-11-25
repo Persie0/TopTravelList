@@ -1,0 +1,16 @@
+id: sight-tg-mount-agou
+name: "Mount Agou"
+location:
+  country_code: TG
+  latitude: 6.8610
+  longitude: 0.7600
+scores:
+  impact: 8.5
+  uniqueness: 8.0
+  significance: 7.2
+  experience: 8.5
+  depth: 7.6
+  categories:
+    nature: 8.7
+    photography: 9.0
+    adventure: 8.5

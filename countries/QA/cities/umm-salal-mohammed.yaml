@@ -1,0 +1,15 @@
+id: city-qa-umm-salal-mohammed
+name: "Umm Salal Mohammed"
+location:
+  country_code: QA
+  latitude: 25.4110
+  longitude: 51.4040
+scores:
+  impact: 6.5
+  uniqueness: 6.8
+  significance: 7.2
+  experience: 6.9
+  depth: 6.4
+  categories:
+    history: 7.6
+    culture: 7.3

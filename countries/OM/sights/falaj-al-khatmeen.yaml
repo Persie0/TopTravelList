@@ -1,0 +1,15 @@
+id: sight-om-falaj-al-khatmeen
+name: "Falaj Al Khatmeen"
+location:
+  country_code: OM
+  latitude: 22.921
+  longitude: 57.676
+scores:
+  impact: 7.5
+  uniqueness: 8.4
+  significance: 8.7
+  experience: 7.8
+  depth: 7.3
+  categories:
+    history: 8.9
+    culture: 8.7

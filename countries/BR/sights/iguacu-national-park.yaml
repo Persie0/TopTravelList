@@ -1,0 +1,16 @@
+id: sight-br-iguacu-national-park
+name: "Iguaçu National Park"
+location:
+  country_code: BR
+  latitude: -25.448147
+  longitude: -53.800144
+scores:
+  impact: 9.8
+  uniqueness: 9.7
+  significance: 9.5
+  experience: 9.4
+  depth: 9.1
+  categories:
+    nature: 9.9
+    photography: 9.9
+    wildlife: 9.3

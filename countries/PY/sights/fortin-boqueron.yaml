@@ -1,0 +1,15 @@
+id: sight-py-fortin-boqueron
+name: "Fortín Boquerón"
+location:
+  country_code: PY
+  latitude: -22.6500
+  longitude: -60.1667
+scores:
+  impact: 7.2
+  uniqueness: 7.9
+  significance: 8.5
+  experience: 7.6
+  depth: 6.8
+  categories:
+    history: 9.0
+    culture: 8.1

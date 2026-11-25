@@ -1,0 +1,16 @@
+id: sight-mw-manchewe-falls
+name: "Manchewe Falls"
+location:
+  country_code: MW
+  latitude: -10.6100
+  longitude: 34.1170
+scores:
+  impact: 8.6
+  uniqueness: 8.4
+  significance: 6.9
+  experience: 8.3
+  depth: 6.8
+  categories:
+    nature: 8.9
+    photography: 9.1
+    adventure: 8.4

@@ -1,0 +1,15 @@
+id: city-pe-piura
+name: "Piura"
+location:
+  country_code: PE
+  latitude: -5.1945
+  longitude: -80.6328
+scores:
+  impact: 6.8
+  uniqueness: 7.0
+  significance: 7.3
+  experience: 7.5
+  depth: 7.2
+  categories:
+    food: 8.3
+    culture: 7.8

@@ -1,0 +1,15 @@
+id: sight-qa-sheikh-faisal-bin-qassim-al-thani-museum
+name: "Sheikh Faisal Bin Qassim Al Thani Museum"
+location:
+  country_code: QA
+  latitude: 25.4040
+  longitude: 51.2420
+scores:
+  impact: 8.0
+  uniqueness: 8.3
+  significance: 8.2
+  experience: 8.4
+  depth: 8.6
+  categories:
+    history: 8.5
+    culture: 8.5

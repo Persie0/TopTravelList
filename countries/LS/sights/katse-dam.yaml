@@ -1,0 +1,16 @@
+id: sight-ls-katse-dam
+name: "Katse Dam"
+location:
+  country_code: LS
+  latitude: -29.3370
+  longitude: 28.5020
+scores:
+  impact: 8.6
+  uniqueness: 8.0
+  significance: 8.1
+  experience: 8.5
+  depth: 7.8
+  categories:
+    architecture: 8.8
+    photography: 9.0
+    nature: 8.3

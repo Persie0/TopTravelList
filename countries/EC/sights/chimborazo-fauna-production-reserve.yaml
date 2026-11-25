@@ -1,0 +1,17 @@
+id: sight-ec-chimborazo-fauna-production-reserve
+name: "Chimborazo Fauna Production Reserve"
+location:
+  country_code: EC
+  latitude: -1.4690
+  longitude: -78.8170
+scores:
+  impact: 9.3
+  uniqueness: 9.3
+  significance: 8.9
+  experience: 8.6
+  depth: 8.4
+  categories:
+    nature: 9.5
+    photography: 9.5
+    adventure: 9.4
+    wildlife: 8.8

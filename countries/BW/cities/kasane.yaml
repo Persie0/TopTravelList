@@ -1,0 +1,16 @@
+id: city-bw-kasane
+name: "Kasane"
+location:
+  country_code: BW
+  latitude: -17.7990
+  longitude: 25.1530
+scores:
+  impact: 7.6
+  uniqueness: 7.8
+  significance: 6.7
+  experience: 8.2
+  depth: 7.2
+  categories:
+    culture: 7.9
+    relaxation: 8.1
+    photography: 8.4

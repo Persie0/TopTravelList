@@ -1,0 +1,16 @@
+id: sight-st-roca-terreiro-velho
+name: "Roça Terreiro Velho"
+location:
+  country_code: ST
+  latitude: 1.610278
+  longitude: 7.420278
+scores:
+  impact: 7.6
+  uniqueness: 8.4
+  significance: 8.4
+  experience: 8.0
+  depth: 7.1
+  categories:
+    food: 8.8
+    history: 8.6
+    photography: 8.5

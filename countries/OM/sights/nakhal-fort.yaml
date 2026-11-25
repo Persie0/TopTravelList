@@ -1,0 +1,16 @@
+id: sight-om-nakhal-fort
+name: "Nakhal Fort"
+location:
+  country_code: OM
+  latitude: 23.394
+  longitude: 57.83
+scores:
+  impact: 8.3
+  uniqueness: 8.1
+  significance: 8.4
+  experience: 8.3
+  depth: 7.7
+  categories:
+    architecture: 8.8
+    history: 8.6
+    photography: 8.7

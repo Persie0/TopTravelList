@@ -1,0 +1,15 @@
+id: city-qa-madinat-ash-shamal
+name: "Madinat Ash Shamal"
+location:
+  country_code: QA
+  latitude: 26.1290
+  longitude: 51.2000
+scores:
+  impact: 6.2
+  uniqueness: 6.3
+  significance: 6.3
+  experience: 6.7
+  depth: 6.0
+  categories:
+    culture: 6.7
+    relaxation: 6.9
