@@ -1,0 +1,15 @@
+id: sight-cz-lednice-valtice-cultural-landscape
+name: "Lednice Valtice Cultural Landscape"
+location:
+  country_code: CZ
+  latitude: 48.7810
+  longitude: 16.7900
+scores:
+  impact: 9.1
+  uniqueness: 9.2
+  significance: 9.3
+  experience: 9.1
+  depth: 9.3
+  categories:
+    architecture: 9.4
+    history: 9.4

@@ -1,0 +1,15 @@
+id: sight-cz-st-barbaras-church-kutna-hora
+name: "St Barbara's Church Kutna Hora"
+location:
+  country_code: CZ
+  latitude: 49.9448
+  longitude: 15.2638
+scores:
+  impact: 9.1
+  uniqueness: 9.1
+  significance: 9.2
+  experience: 8.9
+  depth: 8.5
+  categories:
+    architecture: 9.4
+    history: 9.3

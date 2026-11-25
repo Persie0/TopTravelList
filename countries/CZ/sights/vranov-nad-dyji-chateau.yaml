@@ -1,0 +1,15 @@
+id: sight-cz-vranov-nad-dyji-chateau
+name: "Vranov nad Dyji Chateau"
+location:
+  country_code: CZ
+  latitude: 48.8940
+  longitude: 15.8130
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 8.7
+  experience: 8.6
+  depth: 8.3
+  categories:
+    architecture: 9.3
+    photography: 9.2

@@ -1,0 +1,15 @@
+id: sight-cz-st-wenceslas-cathedral-olomouc
+name: "St Wenceslas Cathedral Olomouc"
+location:
+  country_code: CZ
+  latitude: 49.5980
+  longitude: 17.2620
+scores:
+  impact: 8.6
+  uniqueness: 8.6
+  significance: 8.8
+  experience: 8.6
+  depth: 8.0
+  categories:
+    architecture: 9.2
+    history: 9.0

@@ -1,0 +1,15 @@
+id: sight-cz-marianske-lazne-main-colonnade
+name: "Marianske Lazne Main Colonnade"
+location:
+  country_code: CZ
+  latitude: 49.9760
+  longitude: 12.7070
+scores:
+  impact: 8.5
+  uniqueness: 8.6
+  significance: 8.4
+  experience: 8.5
+  depth: 7.7
+  categories:
+    architecture: 9.1
+    relaxation: 8.9

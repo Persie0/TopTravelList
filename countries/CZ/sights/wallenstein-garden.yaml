@@ -1,0 +1,15 @@
+id: sight-cz-wallenstein-garden
+name: "Wallenstein Garden"
+location:
+  country_code: CZ
+  latitude: 50.0900
+  longitude: 14.4062
+scores:
+  impact: 8.1
+  uniqueness: 8.2
+  significance: 8.0
+  experience: 8.4
+  depth: 7.5
+  categories:
+    architecture: 8.8
+    relaxation: 8.7

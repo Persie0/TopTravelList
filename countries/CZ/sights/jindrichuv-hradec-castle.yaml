@@ -1,0 +1,15 @@
+id: sight-cz-jindrichuv-hradec-castle
+name: "Jindrichuv Hradec Castle"
+location:
+  country_code: CZ
+  latitude: 49.1430
+  longitude: 15.0010
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 8.9
+  experience: 8.7
+  depth: 8.6
+  categories:
+    architecture: 9.2
+    history: 9.1

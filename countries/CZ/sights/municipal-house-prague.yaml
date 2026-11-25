@@ -1,0 +1,15 @@
+id: sight-cz-municipal-house-prague
+name: "Municipal House Prague"
+location:
+  country_code: CZ
+  latitude: 50.0876
+  longitude: 14.4281
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 8.8
+  experience: 8.6
+  depth: 8.0
+  categories:
+    architecture: 9.3
+    culture: 9.1

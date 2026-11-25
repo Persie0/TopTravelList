@@ -1,0 +1,15 @@
+id: sight-cz-cesky-krumlov-baroque-theatre
+name: "Cesky Krumlov Baroque Theatre"
+location:
+  country_code: CZ
+  latitude: 48.8130
+  longitude: 14.3120
+scores:
+  impact: 8.8
+  uniqueness: 9.3
+  significance: 9.2
+  experience: 8.7
+  depth: 7.8
+  categories:
+    culture: 9.4
+    history: 9.3

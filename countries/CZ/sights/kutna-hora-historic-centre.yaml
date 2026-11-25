@@ -1,0 +1,15 @@
+id: sight-cz-kutna-hora-historic-centre
+name: "Kutna Hora Historic Centre"
+location:
+  country_code: CZ
+  latitude: 49.9484
+  longitude: 15.2686
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 9.3
+  experience: 8.9
+  depth: 8.8
+  categories:
+    architecture: 9.3
+    history: 9.4

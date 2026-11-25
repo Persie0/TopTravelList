@@ -1,0 +1,15 @@
+id: sight-cz-bohemian-switzerland-national-park
+name: "Bohemian Switzerland National Park"
+location:
+  country_code: CZ
+  latitude: 50.8900
+  longitude: 14.3300
+scores:
+  impact: 9.1
+  uniqueness: 9.0
+  significance: 8.6
+  experience: 8.9
+  depth: 8.9
+  categories:
+    nature: 9.4
+    photography: 9.4

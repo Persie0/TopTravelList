@@ -1,0 +1,15 @@
+id: sight-cz-st-procopius-basilica
+name: "St Procopius Basilica"
+location:
+  country_code: CZ
+  latitude: 49.2170
+  longitude: 15.8730
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 8.6
+  depth: 8.0
+  categories:
+    architecture: 9.2
+    history: 9.2

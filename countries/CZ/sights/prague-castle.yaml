@@ -1,0 +1,15 @@
+id: sight-cz-prague-castle
+name: "Prague Castle"
+location:
+  country_code: CZ
+  latitude: 50.0909
+  longitude: 14.4005
+scores:
+  impact: 9.5
+  uniqueness: 9.4
+  significance: 9.6
+  experience: 9.3
+  depth: 9.4
+  categories:
+    architecture: 9.6
+    history: 9.7

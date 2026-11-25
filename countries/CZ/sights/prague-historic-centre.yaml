@@ -1,0 +1,16 @@
+id: sight-cz-prague-historic-centre
+name: "Prague Historic Centre"
+location:
+  country_code: CZ
+  latitude: 50.0874
+  longitude: 14.4210
+scores:
+  impact: 9.5
+  uniqueness: 9.3
+  significance: 9.5
+  experience: 9.4
+  depth: 9.4
+  categories:
+    architecture: 9.7
+    history: 9.6
+    photography: 9.6

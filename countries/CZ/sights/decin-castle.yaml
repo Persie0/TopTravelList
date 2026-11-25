@@ -1,0 +1,15 @@
+id: sight-cz-decin-castle
+name: "Decin Castle"
+location:
+  country_code: CZ
+  latitude: 50.7813
+  longitude: 14.2120
+scores:
+  impact: 8.4
+  uniqueness: 8.4
+  significance: 8.5
+  experience: 8.5
+  depth: 8.0
+  categories:
+    architecture: 8.9
+    photography: 8.9

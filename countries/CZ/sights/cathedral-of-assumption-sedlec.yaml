@@ -1,0 +1,15 @@
+id: sight-cz-cathedral-of-assumption-sedlec
+name: "Cathedral of Assumption Sedlec"
+location:
+  country_code: CZ
+  latitude: 49.9598
+  longitude: 15.2886
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 8.5
+  depth: 7.9
+  categories:
+    architecture: 9.2
+    history: 9.1

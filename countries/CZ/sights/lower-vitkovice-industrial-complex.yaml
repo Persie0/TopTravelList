@@ -1,0 +1,15 @@
+id: sight-cz-lower-vitkovice-industrial-complex
+name: "Lower Vitkovice Industrial Complex"
+location:
+  country_code: CZ
+  latitude: 49.8170
+  longitude: 18.2800
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 9.1
+  experience: 9.0
+  depth: 9.0
+  categories:
+    architecture: 9.3
+    history: 9.3

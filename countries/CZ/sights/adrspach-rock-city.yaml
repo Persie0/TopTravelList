@@ -1,0 +1,15 @@
+id: sight-cz-adrspach-rock-city
+name: "Adrspach Rock City"
+location:
+  country_code: CZ
+  latitude: 50.6170
+  longitude: 16.1170
+scores:
+  impact: 9.2
+  uniqueness: 9.2
+  significance: 8.3
+  experience: 9.0
+  depth: 8.7
+  categories:
+    nature: 9.4
+    photography: 9.4

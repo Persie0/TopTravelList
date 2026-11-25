@@ -1,0 +1,15 @@
+id: sight-cz-pilsner-urquell-brewery
+name: "Pilsner Urquell Brewery"
+location:
+  country_code: CZ
+  latitude: 49.7464
+  longitude: 13.3860
+scores:
+  impact: 8.4
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 8.7
+  depth: 8.4
+  categories:
+    history: 9.2
+    food: 9.1

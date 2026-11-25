@@ -1,0 +1,15 @@
+id: sight-cz-austerlitz-peace-monument
+name: "Austerlitz Peace Monument"
+location:
+  country_code: CZ
+  latitude: 49.1280
+  longitude: 16.7640
+scores:
+  impact: 8.0
+  uniqueness: 8.4
+  significance: 9.0
+  experience: 8.2
+  depth: 7.5
+  categories:
+    history: 9.3
+    architecture: 8.7

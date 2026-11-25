@@ -1,0 +1,15 @@
+id: sight-cz-prague-zoo
+name: "Prague Zoo"
+location:
+  country_code: CZ
+  latitude: 50.1165
+  longitude: 14.4110
+scores:
+  impact: 8.5
+  uniqueness: 8.4
+  significance: 7.5
+  experience: 9.0
+  depth: 9.0
+  categories:
+    family: 9.4
+    wildlife: 8.8

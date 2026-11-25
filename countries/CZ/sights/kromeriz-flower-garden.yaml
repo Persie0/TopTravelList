@@ -1,0 +1,15 @@
+id: sight-cz-kromeriz-flower-garden
+name: "Kromeriz Flower Garden"
+location:
+  country_code: CZ
+  latitude: 49.2960
+  longitude: 17.3830
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 8.9
+  experience: 8.8
+  depth: 8.5
+  categories:
+    architecture: 9.3
+    photography: 9.2

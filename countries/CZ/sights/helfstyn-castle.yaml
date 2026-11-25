@@ -1,0 +1,15 @@
+id: sight-cz-helfstyn-castle
+name: "Helfstyn Castle"
+location:
+  country_code: CZ
+  latitude: 49.5180
+  longitude: 17.6280
+scores:
+  impact: 8.6
+  uniqueness: 8.6
+  significance: 8.7
+  experience: 8.6
+  depth: 8.5
+  categories:
+    architecture: 9.0
+    history: 9.0

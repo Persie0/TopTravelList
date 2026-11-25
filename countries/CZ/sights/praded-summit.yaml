@@ -1,0 +1,15 @@
+id: sight-cz-praded-summit
+name: "Praded Summit"
+location:
+  country_code: CZ
+  latitude: 50.0830
+  longitude: 17.2310
+scores:
+  impact: 8.5
+  uniqueness: 8.3
+  significance: 7.6
+  experience: 8.7
+  depth: 8.0
+  categories:
+    nature: 9.0
+    photography: 9.0
