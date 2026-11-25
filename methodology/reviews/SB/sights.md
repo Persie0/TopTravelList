@@ -110,6 +110,8 @@ Core values I/U/S/E/D inspected on main; qualitative peers retained. Editorial c
   - Tourism Solomons lists lake tours, bird sanctuary islands, a cave and bush hikes — https://www.visitsolomons.com.sb/tour/motumahi-lodge/
 - Missing or uncertain facts: Ordinary authorized visits only; confirm local permission, conservation conditions and operator availability.
 
+- 2026-11-26 primary-source recheck: UNESCO https://whc.unesco.org/en/list/854 and https://whc.unesco.org/en/news/1948/ describe Lake Tegano as a former lagoon with brackish water; corrected the freshwater wording below. Decision https://whc.unesco.org/en/decisions/9030 retains the property on the World Heritage in Danger list. The existing 86.90 is a normal-condition editorial estimate for documented authorized visits, not current operating conditions or intactness throughout the property. Conservation impacts and permissions remain unresolved; no blanket claim of present access.
+
 ### Worldwide peer comparisons
 - [Tonle Sap](../../../countries/KH/sights/tonle-sap-lake.yaml) (Cambodia): greater ecological and visitor breadth
 - [Cheow Lan](../../../countries/TH/sights/cheow-lan-lake.yaml) (Thailand): more dramatic karst and developed visits
@@ -129,7 +131,7 @@ Core values I/U/S/E/D inspected on main; qualitative peers retained. Editorial c
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | Impact | 8.5 | 8.5 | Large limestone lake and forest setting |
-| Uniqueness | 9.0 | 9.0 | Distinct uplifted coral atoll freshwater ecosystem |
+| Uniqueness | 9.0 | 9.0 | Distinct uplifted coral atoll and brackish lake ecosystem |
 | Significance | 9.1 | 9.1 | Globally important ecological heritage |
 | Experience | null | 8.2 | Documented local lake and forest tours |
 | Depth | null | 8.4 | Several authorized lake and forest experiences |
@@ -607,3 +609,71 @@ Core values I/U/S/E/D inspected on main; qualitative peers retained. Editorial c
 ## 2026-11-25 — Marovo–Tetepare scope follow-up
 
 For sight-sb-marovo-tetepare-complex, UNESCO's tentative description (https://whc.unesco.org/en/tentativelists/5414/) and WCS (https://solomonislands.wcs.org/Wild-Places/Marovo-Tetepare-complex) confirm the aggregate includes selected Vangunu/Gatokae terrestrial areas, Rendova coast and Hele barrier islands as well as Marovo Lagoon and Tetepare. The Tetepare community authority documents visits (https://tetepare.org/visit-tetepare-island/) and Oceanic Society documents travel focused on the lagoon and Tetepare (https://www.oceanicsociety.org/travel-ideas/solomon-islands-tourism-explore-the-marovo-tetepare-complex/). This supports existing separate visitor ratings but not sufficient breadth across the other aggregate components. Keep experience/depth null; no YAML changes. Sources checked 2026-11-25.
+
+
+## sight-sb-langa-langa-lagoon — Langa Langa Lagoon — 2026-11-26
+
+- YAML: [source](../../../countries/SB/sights/langa-langa-lagoon.yaml)
+- Action: new
+- Precise subject: Lagoon's community-authorized artificial-island, shell-money interpretation and boat experiences; excludes Auki and any private or sacred ceremonies.
+- Location check: -8.87971, 160.74487; Mapcarta https://mapcarta.com/31316676 gives lagoon representative point; https://latitude.to/articles-by-country/sb/solomon-islands/82685/langa-langa-lagoon corroborates the vicinity, not a landing site.
+- Evidence status: source-linked-unverified
+- Sources (2026-11-26):
+- Tourism Solomons https://www.visitsolomons.com.sb/tour/bataiasi-village-stay/ and https://www.visitsolomons.com.sb/vacations-travel-the-archipelago-time-forgot/ (indexed excerpts): locally hosted visits and artificial islands, shell-money traditions.
+- Peer-reviewed study https://link.springer.com/article/10.1007/s40152-018-0111-y (indexed abstract): documented shell-money production and trade in this lagoon.
+- Museums Victoria https://museumsvictoria.com.au/melbournemuseum/resources/tok-stori-vikitolia-pasifiki/solomon-islands/tafuliae-shell-money/ (indexed excerpt): local cultural account of shell money and artificial island settlement.
+- Missing facts: current access and independent claim-level verification.
+
+### Worldwide peer comparisons
+- [mangyol-stone-money-bank (FM)](../../../countries/FM/sights/mangyol-stone-money-bank.yaml): 7.6/9.2/8.7/7.4/7.1; similarly distinctive monetary tradition, narrower visitor site.
+- [manono-island (WS)](../../../countries/WS/sights/manono-island.yaml): 8.0/8.5/8.5/8.2/8.0; comparable locally hosted living island heritage.
+- [hahoe-folk-village (KR)](../../../countries/KR/sights/hahoe-folk-village.yaml): 9.0/9.3/9.4/9.2/8.9; more extensive preserved village architecture and interpretation.
+- [sarawak-cultural-village (MY)](../../../countries/MY/sights/sarawak-cultural-village.yaml): 8.4/8.7/8.2/8.8/8.4; more developed formal interpretation, less distinctive place-specific shell-money tradition.
+
+### Scoring decisions
+- Impact: 8.4 — Distinct lagoon and artificial-island landscape.
+- Uniqueness: 9.2 — Rare combination of artificial island construction and continuing local currency traditions.
+- Significance: 8.8 — Important regional living heritage documented in scholarship; not an inscribed World Heritage site.
+- Experience: 8.3 — Advertised community-hosted experiences; permission and availability vary.
+- Depth: 8.1 — Several islands and craft interpretations, bounded to authorized visits.
+- Applicable categories: culture 9.2, history 8.7, nature 8.4, photography 8.6.
+- Overall: 86.35/100.
+- High-score challenge: no 9.5+ field or 90+ total.
+- Approved 10 registry: none.
+- Final decision: provisional worldwide V2 editorial rating.
+- Earlier decision: none.
+- Verification still needed: full independent claim verification and current visitor conditions.
+
+
+## sight-sb-kennedy-island — Kennedy Island (Kasolo) — 2026-11-26
+
+- YAML: [source](../../../countries/SB/sights/kennedy-island.yaml)
+- Action: new
+- Precise subject: Small named islet, its immediate shore and historical interpretation; excludes other Gizo islands and regional wreck diving.
+- Location check: -8.11286, 156.90574; Mapcarta https://mapcarta.com/16561692 gives mapped islet point, corroborated by GeoNames-derived https://sb.geoview.info/kasolo_island%2C2108007; not a landing coordinate.
+- Evidence status: source-linked-unverified
+- Sources (2026-11-26):
+- Tourism Solomons https://www.visitsolomons.com.sb/about-the-solomon/provinces/ and https://www.visitsolomons.com.sb/hopping-the-hapi-isles/ (indexed excerpts): documented historical island and visitor excursion.
+- Local operator https://fatboysresort.com/play/explore/ (indexed excerpt): advertised island-history and snorkeling excursions; other islands excluded from this score.
+- https://www.weseektravel.com/kennedy-island/ (indexed excerpt): focused beach and island walk, historical interpretation; commercial travel account.
+- Missing facts: current access and independent claim-level verification.
+
+### Worldwide peer comparisons
+- [million-dollar-point (VU)](../../../countries/VU/sights/million-dollar-point.yaml): 7.9/8.7/8.0/8.0/7.3; similar WWII visitor theme; more distinctive submerged material heritage.
+- [lalomanu-beach (WS)](../../../countries/WS/sights/lalomanu-beach.yaml): 8.7/7.8/6.5/8.7/7.4; more dramatic beach and recreation, weaker specific history.
+- [coral-bay-pangkor (MY)](../../../countries/MY/sights/coral-bay-pangkor.yaml): 7.8/7.6/6.3/8.4/7.5; comparable compact tropical shore visit, less historical significance.
+- [cham-islands (VN)](../../../countries/VN/sights/cham-islands.yaml): 8.8/9.0/8.4/9.0/8.7; much broader island and marine experiences.
+
+### Scoring decisions
+- Impact: 7.9 — Attractive small tropical island, modest in scale.
+- Uniqueness: 8.1 — Distinct historical association, otherwise familiar small island landscape.
+- Significance: 8.2 — Documented internationally recognizable WWII historical association, not a major preserved battlefield complex.
+- Experience: 8.3 — Advertised boat visits and shore snorkeling; permission and conditions vary.
+- Depth: 6.8 — Compact islet and focused interpretation, no credit for surrounding islands.
+- Applicable categories: history 8.5, beaches 8.1, relaxation 8.2, nature 8.
+- Overall: 79.60/100.
+- High-score challenge: no 9.5+ field or 90+ total.
+- Approved 10 registry: none.
+- Final decision: provisional worldwide V2 editorial rating.
+- Earlier decision: none.
+- Verification still needed: full independent claim verification and current visitor conditions.
