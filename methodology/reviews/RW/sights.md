@@ -894,3 +894,63 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: No independently checked per-record source; editorial judgment only.
 - Remaining gaps: Independent site-specific facts, access, GPS where unchecked, category and peer verification.
+
+## Follow-up: sight-rw-volcanoes-national-park — 2026-11-25 (worldwide review)
+
+- [YAML](../../../countries/RW/sights/volcanoes-national-park.yaml) · Action: fact-check-only · **source-linked-unverified** (specific source excerpts inspected, not comprehensive fact-checking).
+- Sources inspected: [https://visitrwanda.com/destinations/volcanoes-national-park/](https://visitrwanda.com/destinations/volcanoes-national-park/); [https://visitrwanda.com/interests/gorilla-tracking/](https://visitrwanda.com/interests/gorilla-tracking/); [https://visitrwanda.com/interests/sabyinyo-hiking-trail/](https://visitrwanda.com/interests/sabyinyo-hiking-trail/).
+- Decision: Official tourism describes mountain gorillas, golden monkeys and distinct volcano hikes. A bounded one-hour gorilla encounter is not the entire park experience. Retain 9.1 depth for the multiple meaningful routes, not the entire protected area; 9.9 wildlife is an exceptional editorial judgment, not a claim of globally unique gorillas or guaranteed sightings. Adventure and photography remain provisional.
+- Retain I/U/S/E/D 9.6 / 9.7 / 9.4 / 9.4 / 9.1; overall 95.05/100. Categories and GPS unchanged; no new 10 or multiplier.
+
+| Current worldwide peer | I/U/S/E/D | Overall /100 | Comparison |
+| --- | --- | --- | --- |
+| [okavango delta (BW)](../../../countries/BW/sights/okavango-delta.yaml) | 9.8 / 9.9 / 9.8 / 9.5 / 9.8 | 97.80 | Broader wetland safari; world-leading ecology. |
+| [chobe national park (BW)](../../../countries/BW/sights/chobe-national-park.yaml) | 9.5 / 9.4 / 9.3 / 9.4 / 9.3 | 94.00 | Broader boat and land safari, different wildlife. |
+| [khao sok national park (TH)](../../../countries/TH/sights/khao-sok-national-park.yaml) | 9.4 / 9.4 / 9.1 / 9.4 / 9.3 | 93.30 | Varied forest routes, different primates. |
+| [cockscomb basin wildlife sanctuary (BZ)](../../../countries/BZ/sights/cockscomb-basin-wildlife-sanctuary.yaml) | 8.7 / 8.8 / 9.1 / 8.8 / 9.0 | 88.50 | Forest trails, more bounded wildlife experience. |
+
+
+## Follow-up: sight-rw-nyungwe-national-park — 2026-11-25 (worldwide review)
+
+- [YAML](../../../countries/RW/sights/nyungwe-national-park.yaml) · Action: fact-check-only · **source-linked-unverified** (specific source excerpts inspected, not comprehensive fact-checking).
+- Sources inspected: [https://www.africanparks.org/the-parks/nyungwe](https://www.africanparks.org/the-parks/nyungwe); [https://www.africanparks.org/the-parks/nyungwe/park-revenue-generation](https://www.africanparks.org/the-parks/nyungwe/park-revenue-generation); [https://visitrwanda.com/interests/hiking/](https://visitrwanda.com/interests/hiking/).
+- Decision: African Parks describes exceptional primate diversity and multi-day hiking; official tourism identifies distinct trails. Retain 9.4 depth because multiple meaningful full-day and multi-day routes exist. Do not transfer park-wide scores to the single canopy walkway.
+- Retain I/U/S/E/D 9.4 / 9.4 / 9.6 / 9.2 / 9.4; overall 94.10/100. Categories and GPS unchanged; no new 10 or multiplier.
+
+| Current worldwide peer | I/U/S/E/D | Overall /100 | Comparison |
+| --- | --- | --- | --- |
+| [khao sok national park (TH)](../../../countries/TH/sights/khao-sok-national-park.yaml) | 9.4 / 9.4 / 9.1 / 9.4 / 9.3 | 93.30 | Comparable multi-route forest and lake experience. |
+| [iwokrama rainforest (GY)](../../../countries/GY/sights/iwokrama-rainforest.yaml) | 8.9 / 8.8 / 9.2 / 8.7 / 9.0 | 89.15 | Broad forest interpretation and different fauna. |
+| [cuyabeno wildlife reserve (EC)](../../../countries/EC/sights/cuyabeno-wildlife-reserve.yaml) | 8.9 / 8.9 / 9.0 / 8.9 / 8.8 | 89.10 | River and forest circuits, different terrain. |
+| [cockscomb basin wildlife sanctuary (BZ)](../../../countries/BZ/sights/cockscomb-basin-wildlife-sanctuary.yaml) | 8.7 / 8.8 / 9.1 / 8.8 / 9.0 | 88.50 | Established trail network, more bounded scope. |
+
+
+## Follow-up: sight-rw-akagera-national-park — 2026-11-25 (worldwide review)
+
+- [YAML](../../../countries/RW/sights/akagera-national-park.yaml) · Action: fact-check-only · **source-linked-unverified** (specific source excerpts inspected, not comprehensive fact-checking).
+- Sources inspected: [https://www.africanparks.org/press-release/wilderness-opens-new-lodge-akagera](https://www.africanparks.org/press-release/wilderness-opens-new-lodge-akagera); [https://www.africanparks.org/the-parks/akagera](https://www.africanparks.org/the-parks/akagera).
+- Decision: African Parks describes game drives and boating, supporting varied savannah and lake experiences. Retain the 91.00 total and 9.6 wildlife provisionally below the stronger Botswana reference sites. Sightings are not guaranteed.
+- Retain I/U/S/E/D 9.2 / 9.0 / 9.0 / 9.2 / 9.1; overall 91.00/100. Categories and GPS unchanged; no new 10 or multiplier.
+
+| Current worldwide peer | I/U/S/E/D | Overall /100 | Comparison |
+| --- | --- | --- | --- |
+| [okavango delta (BW)](../../../countries/BW/sights/okavango-delta.yaml) | 9.8 / 9.9 / 9.8 / 9.5 / 9.8 | 97.80 | Broader world-leading ecosystem. |
+| [chobe national park (BW)](../../../countries/BW/sights/chobe-national-park.yaml) | 9.5 / 9.4 / 9.3 / 9.4 / 9.3 | 94.00 | Stronger wildlife and river safari benchmark. |
+| [moremi game reserve (BW)](../../../countries/BW/sights/moremi-game-reserve.yaml) | 9.4 / 9.3 / 9.1 / 9.4 / 9.2 | 92.95 | Related wetland and savannah wildlife. |
+| [azraq wetland reserve (JO)](../../../countries/JO/sights/azraq-wetland-reserve.yaml) | 7.8 / 8.4 / 8.7 / 8.0 / 7.8 | 81.60 | Smaller wetland visitor scope. |
+
+
+## Follow-up: sight-rw-kigali-genocide-memorial-gisozi — 2026-11-25 (worldwide review)
+
+- [YAML](../../../countries/RW/sights/kigali-genocide-memorial-gisozi.yaml) · Action: fact-check-only · **source-linked-unverified** (specific source excerpts inspected, not comprehensive fact-checking).
+- Sources inspected: [https://kgm.rw/about/](https://kgm.rw/about/); [https://kgm.rw/visit/](https://kgm.rw/visit/); [https://whc.unesco.org/en/list/1586](https://whc.unesco.org/en/list/1586).
+- Decision: The operator documents permanent exhibitions and educational and remembrance spaces; UNESCO identifies Gisozi as a component of the serial property. Retain 9.6 significance and history for the memorial itself and 8.7 depth for its interpreted spaces, not the other components. Comparisons concern interpretation and visitor scope, never severity of suffering.
+- Retain I/U/S/E/D 8.8 / 8.8 / 9.6 / 9.0 / 8.7; overall 89.80/100. Categories and GPS unchanged; no new 10 or multiplier.
+
+| Current worldwide peer | I/U/S/E/D | Overall /100 | Comparison |
+| --- | --- | --- | --- |
+| [tuol sleng genocide museum (KH)](../../../countries/KH/sights/tuol-sleng-genocide-museum.yaml) | 9.1 / 9.4 / 9.9 / 9.0 / 8.9 | 93.00 | Different original-site testimony and interpretation. |
+| [mauthausen memorial (AT)](../../../countries/AT/sights/mauthausen-memorial.yaml) | 9.1 / 9.4 / 9.8 / 9.0 / 8.8 | 92.70 | Extensive original-site interpretive spaces. |
+| [war remnants museum (VN)](../../../countries/VN/sights/war-remnants-museum.yaml) | 8.8 / 9.1 / 9.5 / 9.1 / 8.7 | 90.50 | Multiple exhibitions and contextual interpretation. |
+| [hellfire pass memorial (TH)](../../../countries/TH/sights/hellfire-pass-memorial.yaml) | 8.7 / 9.0 / 9.5 / 8.8 / 8.1 | 88.90 | More bounded interpreted route. |
+
