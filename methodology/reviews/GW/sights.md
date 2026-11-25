@@ -3,7 +3,7 @@
 [Worldwide v2](../../../rules.md) · [Future-country workflow](../../future-country-workflow.md). Initial provisional editorial decisions dated 2026-11-25. [UNESCO country inventory](https://whc.unesco.org/en/statesparties/gw/) confirms one inscribed property (2025) and zero tentative entries. The larger biosphere reserve is a different designation. Individual parks and nesting areas overlap the inscribed ecosystem; scores are not additive. [UK travel advice](https://www.gov.uk/foreign-travel-advice/guinea-bissau/safety-and-security) and [Canada advice](https://travel.gc.ca/destinations/guinea-bissau) identify security and residual mine risks. Current access, community permission and seasonal constraints must be checked. Approximate points, not entrances; only the UNESCO property point is directly verified against the authoritative published coordinate. Others based on editorial estimates or listed geographic references, not validated boundary locations. Shared type-based peer sets are provisional; full independent factual checks and wider inventory remain open.
 
 
-Follow-up 2026-11-25: all records now carry references; no full factual verification implied. Museum inventory gaps include the military liberation museum, Cabral mausoleum, Varela, Guiledje, Iemberem, Nhoma and Bubaque environment museum, as identified by the [combined country report](https://achpr-library.uwazi.io/en/entity/u95naszddt). Confirm individual visitor scope and coordinates before cataloguing. Three wildlife category decisions are reassessed below; original values preserved in reassessment notes.
+Follow-up 2026-11-25: all records now carry references; no full factual verification implied. Museum inventory gaps include the military liberation museum, Cabral mausoleum, Varela, Guiledje, Iemberem, Nhoma and Bubaque environment museum, as identified by the [combined country report](https://achpr-library.uwazi.io/en/entity/u95naszddt). Confirm individual visitor scope and coordinates before cataloguing. Four wildlife category decisions are reassessed below; original values preserved in reassessment notes.
 
 ## sight-gw-coastal-and-marine-ecosystems-of-the-bijagos-archipelago-omati-minho — Coastal and Marine Ecosystems of the Bijagós Archipelago – Omatí Minhô — 2026-11-25
 
@@ -19,11 +19,11 @@ Follow-up 2026-11-25: all records now carry references; no full factual verifica
 - Significance 9.7: international turtle and migratory bird habitats.
 - Experience null: aggregate permitted visit unresolved.
 - Depth null: vast protected property not one route.
-- Categories: nature:9.7, wildlife:9.7. Overall: unranked.
-- High-score challenge: Uniqueness 9.6 and significance/nature/wildlife 9.7 reflect the exceptionally rare deltaic archipelago and internationally important nesting and migration ecology; compare marine reserves rather than borrowing a beach score. No total until coherent permitted visitor scope established.. No approved 10.
+- Categories: nature:9.7, wildlife:null. Overall: unranked.
+- High-score challenge: Uniqueness 9.6 and significance/nature 9.7 reflect the exceptionally rare deltaic archipelago and internationally important nesting and migration ecology; compare marine reserves rather than borrowing a beach score. No total until coherent permitted visitor scope established.. No approved 10.
 - Evidence: [Reference](https://whc.unesco.org/en/list/1431) — UNESCO property page confirms 2025 inscription, deltaic ecology, nesting and migratory birds; no current visit guarantee; page or search excerpt reviewed 2026-11-25. Individual material claims not comprehensively verified.
 - Remaining gaps: Ordinary permitted visitor experience and route scope not established.
-- Additional scope challenge: [UNESCO](https://whc.unesco.org/en/list/1431/) confirms the marine/intertidal property and ecological exceptionalism, not a single visitor itinerary. The existing nature and wildlife category ratings remain provisional; compare with Wadden Sea, Banc d'Arguin, Great Barrier Reef and Galápagos. The aggregate wildlife category requires specific follow-up because the allowed routes remain unclear.
+- Additional scope challenge: [UNESCO](https://whc.unesco.org/en/list/1431/) confirms the marine/intertidal property and ecological exceptionalism, not a single visitor itinerary. Nature 9.7 remains provisional; compare with Wadden Sea, Banc d'Arguin, Great Barrier Reef and Galápagos. Wildlife 9.7 → null because aggregate permitted visitor routes remain unclear. Overall remains unranked.
 
 
 ## sight-gw-orango-islands-national-park — Orango Islands National Park — 2026-11-25
