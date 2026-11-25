@@ -1,0 +1,16 @@
+id: city-sh-edinburgh-seven-seas
+name: "Edinburgh of the Seven Seas"
+location:
+  country_code: SH
+  latitude: -37.067
+  longitude: -12.311
+scores:
+  impact: 8.2
+  uniqueness: 9.3
+  significance: 8.5
+  experience: 8.0
+  depth: 7.2
+  categories:
+    culture: 9.0
+    history: 8.6
+    photography: 8.8

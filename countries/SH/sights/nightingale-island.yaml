@@ -1,0 +1,16 @@
+id: sight-sh-nightingale-island
+name: "Nightingale Island guided coastal wildlife visit"
+location:
+  country_code: SH
+  latitude: -37.422
+  longitude: -12.48
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 9.0
+  experience: 8.2
+  depth: 7.8
+  categories:
+    nature: 9.0
+    wildlife: 9.2
+    photography: 8.9

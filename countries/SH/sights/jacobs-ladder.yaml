@@ -1,0 +1,16 @@
+id: sight-sh-jacobs-ladder
+name: "Jacob's Ladder"
+location:
+  country_code: SH
+  latitude: -15.924
+  longitude: -5.719
+scores:
+  impact: 8.4
+  uniqueness: 8.5
+  significance: 8.2
+  experience: 8.3
+  depth: 7.1
+  categories:
+    architecture: 8.3
+    history: 8.5
+    photography: 8.7

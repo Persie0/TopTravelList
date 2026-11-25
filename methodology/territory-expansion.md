@@ -208,3 +208,7 @@ No matching GB or AR parent records identified by generated name and approximate
 ### South Georgia and South Sandwich Islands coverage — 2026-11-26
 
 No matching GB, AR or AQ entries identified in generated name/coordinate screen. Zero cities (no permanent inhabitants), ten sights, nine ranked and one unranked. South Sandwich Islands closed to visitors. Government 25/26 handbook authorized site tables visually checked; no claim of current 26/27 landing availability. Whaling station prohibited areas excluded. Current HPAI and access require confirmation. Independent precise GPS and full claim verification pending. No perfect ten.
+
+### Saint Helena, Ascension and Tristan da Cunha coverage — 2026-11-26
+
+Four settlements and fourteen sights across the three inhabited islands, including the serial UNESCO Gough and Inaccessible Islands property (unranked, restricted visitor scope). GB and FR source filenames screened; no obvious matching parent records. The French-owned Napoleonic properties are geographically in SH; no sovereignty inference or migration is implied. Ascension entry permits and Tristan advance approval/guided access respected. Seasonal wildlife viewing is conditional; no guarantee of any individual animal sighting. Coordinates are approximate editorial anchors and complete independent fact verification and regeneration remain outstanding. No exact-10 or 9.5+ additions.

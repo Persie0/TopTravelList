@@ -1,0 +1,463 @@
+# SH — Saint Helena, Ascension and Tristan da Cunha sights: worldwide V2 reviews
+
+## sight-sh-longwood-house — Longwood House — 2026-11-26
+
+- YAML: [source](../../../countries/SH/sights/longwood-house.yaml)
+- Action: new
+- Precise subject: Restored exile residence and its interpreted rooms and grounds; excludes Briars and tomb.
+- Location check: -15.95, -5.68; approximate editorial representative point, independent GPS verification pending.
+- Evidence status: source-linked-unverified
+- Evidence: [primary or direct reference](https://fondationnapoleon.org/en/activities-and-services/telling-history/napoleon-year-2021/2021-annee-napoleon-domaines-nationaux-de-sainte-helene-the-french-domains-on-st-helena/) and [additional reference](https://www.napoleon.org/en/history-of-the-two-empires/close-up/longwood-house-and-napoleons-journey-to-st-helena); search excerpts inspected 2026-11-26. Fondation Napoléon identifies the residence during 1815–1821 and the restoration of its historic fabric.
+- Missing or uncertain facts: exact GPS, independent full claim verification, current permitted visitor access and conditions.
+
+### Worldwide peer comparisons
+- Hofburg (AT): much broader imperial complex
+- Robben Island (ZA): different but internationally significant exile heritage
+- Grytviken (GS): analogous remote historic precinct with wider industrial fabric
+- Anne Frank House (NL): similarly focused personal historical interpretation
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.5 | Intimate evocative historic interiors. |
+| Uniqueness | 9.2 | Rare surviving site of final exile. |
+| Significance | 9.3 | Major European and global historical association. |
+| Experience | 8.5 | Interpreted domestic setting, not a palace-scale spectacle. |
+| Depth | 8.2 | Several rooms and grounds, limited physical extent. |
+
+- Applicable categories: history: 9.4, culture: 8.9, architecture: 8.4.
+- Overall: 88.05/100.
+- High-score challenge: No new 9.5+ field or 90+ overall.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide V2 assessment of specified visitor scope.
+- Earlier decision: none.
+- Verification still needed: exact GPS, independent material claims and current permitted access/condition.
+
+## sight-sh-napoleons-tomb — Napoleon's original tomb (Valley of the Tomb) — 2026-11-26
+
+- YAML: [source](../../../countries/SH/sights/napoleons-tomb.yaml)
+- Action: new
+- Precise subject: Original burial site and garden; no claim that the remains are still there.
+- Location check: -15.947, -5.697; approximate editorial representative point, independent GPS verification pending.
+- Evidence status: source-linked-unverified
+- Evidence: [primary or direct reference](https://fondationnapoleon.org/en/activities-and-services/telling-history/napoleon-year-2021/2021-annee-napoleon-domaines-nationaux-de-sainte-helene-the-french-domains-on-st-helena/) and [additional reference](https://specialprojects.news24.com/7-days-on-st-helena-travel-guide/); search excerpts inspected 2026-11-26. Fondation Napoléon documents burial here from 1821 to 1840; travel guide identifies the visit.
+- Missing or uncertain facts: exact GPS, independent full claim verification, current permitted visitor access and conditions.
+
+### Worldwide peer comparisons
+- Les Invalides (FR): actual resting place and grander architecture
+- Shackleton grave within Grytviken (GS): comparable remote commemorative setting
+- Humayun's Tomb (IN): greater architectural and garden scale
+- Grant's Tomb (US): comparable commemorative focus but different setting
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 7.8 | Quiet landscaped valley and grave monument. |
+| Uniqueness | 8.7 | Unusual original burial site of a globally known figure. |
+| Significance | 9.0 | International historical significance despite removal of remains. |
+| Experience | 7.7 | Contemplative outdoor heritage stop. |
+| Depth | 6.5 | Single monument and short grounds visit. |
+
+- Applicable categories: history: 9.1, photography: 8.0.
+- Overall: 81.20/100.
+- High-score challenge: No new 9.5+ field or 90+ overall.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide V2 assessment of specified visitor scope.
+- Earlier decision: none.
+- Verification still needed: exact GPS, independent material claims and current permitted access/condition.
+
+## sight-sh-jacobs-ladder — Jacob's Ladder — 2026-11-26
+
+- YAML: [source](../../../countries/SH/sights/jacobs-ladder.yaml)
+- Action: new
+- Precise subject: Historic 699-step stairway and public viewpoint; no assumption of unrestricted access.
+- Location check: -15.924, -5.719; approximate editorial representative point, independent GPS verification pending.
+- Evidence status: source-linked-unverified
+- Evidence: [primary or direct reference](https://www.uk-sthelenaheritagetrust.org/jacobs-ladder) and [additional reference](https://www.lonelyplanet.com/articles/the-allure-and-attractions-of-st-helena); search excerpts inspected 2026-11-26. Heritage trust identifies remnants of the nineteenth-century incline railway and 699 steps.
+- Missing or uncertain facts: exact GPS, independent full claim verification, current permitted visitor access and conditions.
+
+### Worldwide peer comparisons
+- Spanish Steps (IT): grander urban ensemble, less dramatic ascent
+- Ladder Street (HK): similar steep urban pedestrian infrastructure
+- Sigiriya (LK): far greater archaeological context
+- Victoria Peak (HK): much broader panorama and visitor options
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.4 | Steep valley views from striking linear staircase. |
+| Uniqueness | 8.5 | Uncommon surviving transport incline adapted to stairs. |
+| Significance | 8.2 | Local engineering and harbour history. |
+| Experience | 8.3 | Distinctive physical ascent and viewpoint. |
+| Depth | 7.1 | Single linear feature with limited interpretive breadth. |
+
+- Applicable categories: architecture: 8.3, history: 8.5, photography: 8.7.
+- Overall: 82.40/100.
+- High-score challenge: No new 9.5+ field or 90+ overall.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide V2 assessment of specified visitor scope.
+- Earlier decision: none.
+- Verification still needed: exact GPS, independent material claims and current permitted access/condition.
+
+## sight-sh-plantation-house — Plantation House and tortoise grounds — 2026-11-26
+
+- YAML: [source](../../../countries/SH/sights/plantation-house.yaml)
+- Action: new
+- Precise subject: Governor's residence heritage and permitted grounds viewing; no guarantee of interior access or presence of any individual animal.
+- Location check: -15.962, -5.727; approximate editorial representative point, independent GPS verification pending.
+- Evidence status: source-linked-unverified
+- Evidence: [primary or direct reference](https://www.sainthelena.gov.sh/st-helena/history-and-heritage/) and [additional reference](https://www.lonelyplanet.com/articles/the-allure-and-attractions-of-st-helena); search excerpts inspected 2026-11-26. Government describes tortoise viewing in the grounds; independent guide describes the Georgian house.
+- Missing or uncertain facts: exact GPS, independent full claim verification, current permitted visitor access and conditions.
+
+### Worldwide peer comparisons
+- Government House (BM): comparable colonial residence heritage
+- Botanical Gardens (SG): much larger botanical experience
+- Aldabra (SC): vastly greater wild tortoise ecosystem
+- Longwood House (SH): stronger focused global historic association
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.0 | Attractive house and wooded grounds. |
+| Uniqueness | 8.8 | Unusual combination of colonial residence and longstanding giant tortoise population. |
+| Significance | 8.6 | Territorial institutional and natural heritage. |
+| Experience | 8.1 | Bounded heritage and wildlife viewing when permitted. |
+| Depth | 7.4 | Compact estate, no unrestricted indoor scope. |
+
+- Applicable categories: history: 8.8, architecture: 8.5, wildlife: 8.6.
+- Overall: 82.75/100.
+- High-score challenge: No new 9.5+ field or 90+ overall.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide V2 assessment of specified visitor scope.
+- Earlier decision: none.
+- Verification still needed: exact GPS, independent material claims and current permitted access/condition.
+
+## sight-sh-peaks-national-park — Peaks National Park (Diana's Peak trails) — 2026-11-26
+
+- YAML: [source](../../../countries/SH/sights/peaks-national-park.yaml)
+- Action: new
+- Precise subject: Public summit-ridge trails and cloud forest, excluding closed restoration plots.
+- Location check: -15.958, -5.688; approximate editorial representative point, independent GPS verification pending.
+- Evidence status: source-linked-unverified
+- Evidence: [primary or direct reference](https://sthelenagov.org/about-st-helena) and [additional reference](https://www.ukotcf.org.uk/southern-oceans/st-helena/); search excerpts inspected 2026-11-26. Government identifies endemic cloud-forest species; conservation forum documents habitat loss and invasive plants.
+- Missing or uncertain facts: exact GPS, independent full claim verification, current permitted visitor access and conditions.
+
+### Worldwide peer comparisons
+- Madeira Laurisilva (PT): larger mature forest extent
+- Morne Trois Pitons (DM): broader volcanic rainforest
+- Green Mountain (SH): largely introduced forest, lower native ecological value
+- Piton de la Fournaise (RE): larger dramatic volcanic landscape
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Ocean-facing ridges and misty tree ferns. |
+| Uniqueness | 9.2 | Rare remnant endemic Atlantic island cloud forest. |
+| Significance | 9.0 | Internationally meaningful restricted-range biodiversity. |
+| Experience | 8.8 | Rewarding ridge walking and ecological interpretation. |
+| Depth | 8.6 | Several linked summit habitats but small remnant area. |
+
+- Applicable categories: nature: 9.3, wildlife: 9.0, adventure: 8.7, photography: 9.1.
+- Overall: 89.80/100.
+- High-score challenge: No new 9.5+ field or 90+ overall.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide V2 assessment of specified visitor scope.
+- Earlier decision: none.
+- Verification still needed: exact GPS, independent material claims and current permitted access/condition.
+
+## sight-sh-sandy-bay — Sandy Bay volcanic coast — 2026-11-26
+
+- YAML: [source](../../../countries/SH/sights/sandy-bay.yaml)
+- Action: new
+- Precise subject: Public coastal viewpoints and lawful beach access; no swimming credit.
+- Location check: -16.008, -5.708; approximate editorial representative point, independent GPS verification pending.
+- Evidence status: source-linked-unverified
+- Evidence: [primary or direct reference](https://www.nationalgeographic.com/travel/article/paid-content-nature-st-helena) and [additional reference](https://specialprojects.news24.com/7-days-on-st-helena-travel-guide/); search excerpts inspected 2026-11-26. Tourism-sponsored National Geographic feature describes volcanic coastal scenery; travel guide describes surrounding routes.
+- Missing or uncertain facts: exact GPS, independent full claim verification, current permitted visitor access and conditions.
+
+### Worldwide peer comparisons
+- Reynisfjara (IS): stronger basalt and surf spectacle
+- Anakena (CL): different sandy and archaeological context
+- Etang-Salé (RE): comparable volcanic beach
+- Twelve Apostles (AU): larger distinctive erosional formations
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.6 | Dark volcanic coast framed by eroded ridges. |
+| Uniqueness | 8.3 | Distinctive island geomorphology but not unique worldwide. |
+| Significance | 7.7 | Local geological relevance. |
+| Experience | 7.9 | Scenic visit with limited water access. |
+| Depth | 7.5 | Coast and viewpoints provide moderate breadth. |
+
+- Applicable categories: nature: 8.7, photography: 8.9.
+- Overall: 81.30/100.
+- High-score challenge: No new 9.5+ field or 90+ overall.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide V2 assessment of specified visitor scope.
+- Earlier decision: none.
+- Verification still needed: exact GPS, independent material claims and current permitted access/condition.
+
+## sight-sh-museum-st-helena — Museum of Saint Helena — 2026-11-26
+
+- YAML: [source](../../../countries/SH/sights/museum-st-helena.yaml)
+- Action: new
+- Precise subject: Public island-history museum collection, distinct from the adjacent stairway.
+- Location check: -15.925, -5.718; approximate editorial representative point, independent GPS verification pending.
+- Evidence status: source-linked-unverified
+- Evidence: [primary or direct reference](https://www.sainthelena.gov.sh/st-helena/history-and-heritage/) and [additional reference](https://www.tourist4tourist.com/travelguide/africa/st-helena/); search excerpts inspected 2026-11-26. Government identifies the museum as a broad island history experience; guide locates it near Jacob's Ladder.
+- Missing or uncertain facts: exact GPS, independent full claim verification, current permitted visitor access and conditions.
+
+### Worldwide peer comparisons
+- Historic Dockyard Museum (FK): similar territorial history scale
+- National Museum of Bermuda (BM): larger fort and maritime collections
+- National Museum of Singapore (SG): wider institutional scope
+- Museum of Saint Martin (MF): analogous focused island history
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 7.5 | Modest museum rather than monumental building. |
+| Uniqueness | 8.3 | Focused story of a highly isolated island. |
+| Significance | 8.6 | Meaningful local and transoceanic history. |
+| Experience | 8.0 | Curated indoor interpretation. |
+| Depth | 7.5 | Small regional collection, not an encyclopedic museum. |
+
+- Applicable categories: history: 8.8, culture: 8.5.
+- Overall: 79.95/100.
+- High-score challenge: No new 9.5+ field or 90+ overall.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide V2 assessment of specified visitor scope.
+- Earlier decision: none.
+- Verification still needed: exact GPS, independent material claims and current permitted access/condition.
+
+## sight-sh-green-mountain — Green Mountain National Park (Ascension Island) — 2026-11-26
+
+- YAML: [source](../../../countries/SH/sights/green-mountain.yaml)
+- Action: new
+- Precise subject: Permitted mountain trails and introduced summit woodland, with current biosecurity requirements.
+- Location check: -7.951, -14.346; approximate editorial representative point, independent GPS verification pending.
+- Evidence status: source-linked-unverified
+- Evidence: [primary or direct reference](https://www.ascension.gov.ac/map-marker/green-mountain) and [additional reference](https://www.ascension.gov.ac/dew-pond-path-reopens); search excerpts inspected 2026-11-26. Government park description and 2026 path reopening notice document the setting and managed trail access after a pathogen incident.
+- Missing or uncertain facts: exact GPS, independent full claim verification, current permitted visitor access and conditions.
+
+### Worldwide peer comparisons
+- Peaks National Park (SH): stronger endemic cloud forest
+- Madeira Laurisilva (PT): far larger native woodland
+- Mount Scenery (BQ): comparable island summit forest but different ecology
+- Haleakalā (US): broader elevation and volcanic diversity
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Lush summit contrasts dramatically with barren island. |
+| Uniqueness | 8.8 | Unusual deliberately altered highland ecosystem. |
+| Significance | 8.4 | Important history of island ecology and restoration, not pristine native forest. |
+| Experience | 8.5 | Mountain trail network offers scenic walking. |
+| Depth | 8.2 | Multiple trails and habitats at moderate scale. |
+
+- Applicable categories: nature: 8.7, adventure: 8.6, photography: 8.8.
+- Overall: 85.85/100.
+- High-score challenge: No new 9.5+ field or 90+ overall.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide V2 assessment of specified visitor scope.
+- Earlier decision: none.
+- Verification still needed: exact GPS, independent material claims and current permitted access/condition.
+
+## sight-sh-long-beach — Long Beach green turtle nesting reserve (Ascension) — 2026-11-26
+
+- YAML: [source](../../../countries/SH/sights/long-beach.yaml)
+- Action: new
+- Precise subject: Lawful seasonal turtle observation and beach landscape; no contact, lighting disturbance, swimming or guaranteed sightings.
+- Location check: -7.934, -14.414; approximate editorial representative point, independent GPS verification pending.
+- Evidence status: source-linked-unverified
+- Evidence: [primary or direct reference](https://www.ascension.gov.ac/map-marker/long-beach) and [additional reference](https://www.ascension.gov.ac/turtle-guidelines); search excerpts inspected 2026-11-26. Government identifies the main nesting beach and binding seasonal protection requirements.
+- Missing or uncertain facts: exact GPS, independent full claim verification, current permitted visitor access and conditions.
+
+### Worldwide peer comparisons
+- Tortuguero (CR): broader turtle habitat and waterways
+- Ras Al Jinz (OM): similar controlled turtle viewing
+- Mon Repos (AU): comparable seasonal nesting interpretation
+- Grande Anse (RE): less specialized nesting visitor scope
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.6 | Large sandy shore and potential nesting wildlife. |
+| Uniqueness | 9.0 | Globally unusual concentration of Atlantic green turtle nesting. |
+| Significance | 9.2 | Internationally important breeding habitat. |
+| Experience | 8.5 | Responsible seasonal observation when permitted. |
+| Depth | 7.8 | Single beach and limited nighttime viewing scope. |
+
+- Applicable categories: wildlife: 9.3, nature: 8.8, photography: 8.6.
+- Overall: 87.25/100.
+- High-score challenge: No new 9.5+ field or 90+ overall.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide V2 assessment of specified visitor scope.
+- Earlier decision: none.
+- Verification still needed: exact GPS, independent material claims and current permitted access/condition.
+
+## sight-sh-queen-marys-peak — Queen Mary's Peak guided ascent (Tristan da Cunha) — 2026-11-26
+
+- YAML: [source](../../../countries/SH/sights/queen-marys-peak.yaml)
+- Action: new
+- Precise subject: Guide-accompanied ascent of the summit volcano, weather dependent; excludes inaccessible terrain.
+- Location check: -37.111, -12.288; approximate editorial representative point, independent GPS verification pending.
+- Evidence status: source-linked-unverified
+- Evidence: [primary or direct reference](https://www.tristandc.com/visits.php) and [additional reference](https://www.gov.uk/foreign-travel-advice/st-helena-ascension-and-tristan-da-cunha/safety-and-security); search excerpts inspected 2026-11-26. Island tourism links documented summit climbs; UK advice requires a guide.
+- Missing or uncertain facts: exact GPS, independent full claim verification, current permitted visitor access and conditions.
+
+### Worldwide peer comparisons
+- Pico (PT): comparable oceanic volcanic ascent
+- Piton des Neiges (RE): broader mountain landscape
+- Mount Teide (ES): more extensive interpreted volcanic terrain
+- Mount Scenery (BQ): smaller island summit climb
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Dominant oceanic volcano and summit landscapes. |
+| Uniqueness | 9.0 | Rare isolated volcanic summit experience. |
+| Significance | 8.5 | Meaningful Atlantic island geology. |
+| Experience | 8.3 | Demanding guided hike when safe. |
+| Depth | 8.3 | Long ascent, changing elevation and terrain. |
+
+- Applicable categories: nature: 8.9, adventure: 9.0, photography: 9.1.
+- Overall: 87.25/100.
+- High-score challenge: No new 9.5+ field or 90+ overall.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide V2 assessment of specified visitor scope.
+- Earlier decision: none.
+- Verification still needed: exact GPS, independent material claims and current permitted access/condition.
+
+## sight-sh-1961-volcano — 1961 volcano trail (Tristan da Cunha) — 2026-11-26
+
+- YAML: [source](../../../countries/SH/sights/1961-volcano.yaml)
+- Action: new
+- Precise subject: Approved walk on the historic eruption landscape near the village, not the whole island volcano.
+- Location check: -37.065, -12.303; approximate editorial representative point, independent GPS verification pending.
+- Evidence status: source-linked-unverified
+- Evidence: [primary or direct reference](https://www.tristandc.com/news-2023-03-28-cruise-visits.php) and [additional reference](https://www.tristandc.com/earthdisastermanagement.php); search excerpts inspected 2026-11-26. Island reports document visitor tours and evacuation following the 1961 eruption.
+- Missing or uncertain facts: exact GPS, independent full claim verification, current permitted visitor access and conditions.
+
+### Worldwide peer comparisons
+- Capelinhos (PT): comparable recent eruption heritage with interpretation center
+- Eldfell (IS): comparable settlement-adjacent eruption
+- Piton de la Fournaise (RE): much broader active volcanic landscapes
+- Queen Mary's Peak (SH): longer and more varied ascent
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.3 | Distinct fresh-looking volcanic landforms and coastal views. |
+| Uniqueness | 8.7 | Unusual eruption site directly adjacent to surviving community. |
+| Significance | 8.8 | Strong local evacuation and geological history. |
+| Experience | 8.2 | Guided landscape interpretation. |
+| Depth | 7.5 | Shorter focused trail, limited spatial extent. |
+
+- Applicable categories: nature: 8.5, history: 8.9, adventure: 8.3.
+- Overall: 84.05/100.
+- High-score challenge: No new 9.5+ field or 90+ overall.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide V2 assessment of specified visitor scope.
+- Earlier decision: none.
+- Verification still needed: exact GPS, independent material claims and current permitted access/condition.
+
+## sight-sh-potato-patches — Potato Patches (Tristan da Cunha) — 2026-11-26
+
+- YAML: [source](../../../countries/SH/sights/potato-patches.yaml)
+- Action: new
+- Precise subject: Permitted views and guided visits to agricultural plots; no entry into private gardens without approval.
+- Location check: -37.079, -12.333; approximate editorial representative point, independent GPS verification pending.
+- Evidence status: source-linked-unverified
+- Evidence: [primary or direct reference](https://www.tristandc.com/news-2023-03-28-cruise-visits.php) and [additional reference](https://www.tristandc.com/shipping/news-2024-04-15-hondius.php); search excerpts inspected 2026-11-26. Island visitor reports describe tours to the agricultural patches; newer report describes self-guided visits.
+- Missing or uncertain facts: exact GPS, independent full claim verification, current permitted visitor access and conditions.
+
+### Worldwide peer comparisons
+- Rice Terraces of the Philippine Cordilleras (PH): far greater engineered landscape scale
+- Lavaux (CH): broader terraced cultural landscape
+- Port Howard farm landscape (FK): analogous remote agriculture
+- Edinburgh village (SH): complementary built community rather than farmland
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 7.9 | Coastal fields beneath mountain slopes. |
+| Uniqueness | 8.8 | Distinctive communal agriculture in isolated island context. |
+| Significance | 8.2 | Important living local cultural landscape. |
+| Experience | 7.8 | Bounded rural walk and interpretation. |
+| Depth | 7.1 | Single agricultural district, limited attractions. |
+
+- Applicable categories: culture: 8.7, photography: 8.3, history: 8.1.
+- Overall: 80.90/100.
+- High-score challenge: No new 9.5+ field or 90+ overall.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide V2 assessment of specified visitor scope.
+- Earlier decision: none.
+- Verification still needed: exact GPS, independent material claims and current permitted access/condition.
+
+## sight-sh-nightingale-island — Nightingale Island guided coastal wildlife visit — 2026-11-26
+
+- YAML: [source](../../../countries/SH/sights/nightingale-island.yaml)
+- Action: new
+- Precise subject: Authorized guided coastal or landing visit only, subject to permission, wildlife management and weather.
+- Location check: -37.422, -12.48; approximate editorial representative point, independent GPS verification pending.
+- Evidence status: source-linked-unverified
+- Evidence: [primary or direct reference](https://www.tristandc.com/visitsorganise.php) and [additional reference](https://tristandc.com/visitsadmin.php); search excerpts inspected 2026-11-26. Island administration describes potential excursions and conditional landing arrangements.
+- Missing or uncertain facts: exact GPS, independent full claim verification, current permitted visitor access and conditions.
+
+### Worldwide peer comparisons
+- Mykines (FO): comparable guided seabird island experience
+- Carcass Island (FK): more established wildlife walking
+- Salisbury Plain (GS): stronger large-colony landscape impact
+- Île Bonaventure (CA): more developed seabird viewing
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Remote cliffs, seabird habitat and ocean scenery. |
+| Uniqueness | 9.0 | Rare subantarctic-adjacent oceanic breeding island. |
+| Significance | 9.0 | Substantial seabird conservation significance. |
+| Experience | 8.2 | Specialized guided visit with uncertain landings. |
+| Depth | 7.8 | Bounded coastal viewing rather than unrestricted island exploration. |
+
+- Applicable categories: nature: 9.0, wildlife: 9.2, photography: 8.9.
+- Overall: 87.00/100.
+- High-score challenge: No new 9.5+ field or 90+ overall.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide V2 assessment of specified visitor scope.
+- Earlier decision: none.
+- Verification still needed: exact GPS, independent material claims and current permitted access/condition.
+
+## sight-sh-gough-inaccessible-islands — Gough and Inaccessible Islands (UNESCO property) — 2026-11-26
+
+- YAML: [source](../../../countries/SH/sights/gough-inaccessible-islands.yaml)
+- Action: new
+- Precise subject: Full serial UNESCO property, including both remote islands and marine components; not an ordinary visitor attraction.
+- Location check: -40.325, -9.935; approximate editorial representative point, independent GPS verification pending.
+- Evidence status: unassessed
+- Evidence: [primary or direct reference](https://whc.unesco.org/en/list/740/) and [additional reference](https://www.gov.uk/foreign-travel-advice/st-helena-ascension-and-tristan-da-cunha/safety-and-security); search excerpts inspected 2026-11-26. UNESCO confirms outstanding oceanic island biodiversity; UK advice distinguishes rarely granted Gough landing and guided Inaccessible access.
+- Missing or uncertain facts: exact GPS, independent full claim verification, current permitted visitor access and conditions.
+
+### Worldwide peer comparisons
+- Aldabra (SC): similarly protected remote island ecosystem
+- Macquarie Island (AU): comparable remote seabird heritage
+- Galápagos (EC): more extensive established managed visitor network
+- South Sandwich Islands (GS): similarly incomplete ordinary visitor scope
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | null | Unassessed for complete authorized visitor scope. |
+| Uniqueness | 9.4 | Exceptional isolated island ecosystems. |
+| Significance | 9.4 | International natural heritage and restricted-range species. |
+| Experience | null | Unassessed because ordinary whole-property visit not established. |
+| Depth | null | Unassessed because permitted whole-property visitor breadth not established. |
+
+- Applicable categories: nature: 9.4, wildlife: 9.4.
+- Overall: Unranked.
+- High-score challenge: No complete visitor score; conservation significance does not imply access.
+- Approved 10 registry: none.
+- Final decision: Partial assessment only; retain null fields.
+- Earlier decision: none.
+- Verification still needed: exact GPS, independent material claims and current permitted access/condition.
