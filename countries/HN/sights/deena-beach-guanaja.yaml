@@ -1,0 +1,16 @@
+id: sight-hn-deena-beach-guanaja
+name: "Deena Beach (Guanaja)"
+location:
+  country_code: HN
+  latitude: 16.5000
+  longitude: -85.8800
+scores:
+  impact: 8.4
+  uniqueness: 8.0
+  significance: 6.5
+  experience: 8.6
+  depth: 7.1
+  categories:
+    beaches: 8.9
+    relaxation: 8.9
+    photography: 8.7
