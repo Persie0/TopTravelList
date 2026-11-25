@@ -23,6 +23,14 @@ All listed merged PRs have passed schema, generated Markdown and worldwide bench
 - [Brazil (BR)](BR/sights.md), [PR #95](https://github.com/Persie0/TopTravelList/pull/95): Rio de Janeiro, Iguaçu Falls Brazilian viewpoints, Valongo Wharf; score retention with explicit limitations.
 - [Benin (BJ)](BJ/sights.md), [PR #95](https://github.com/Persie0/TopTravelList/pull/95): Royal Palaces of Abomey main complex; score retention, visitor access needs further confirmation.
 
+## Targeted follow-up reviews pending full validation
+
+| Country | PR | Changes | Checks completed | Outstanding |
+| --- | --- | --- | --- | --- |
+| Suriname / Ecuador | [#101](https://github.com/Persie0/TopTravelList/pull/101) | Central Suriname reserve 90.50 → 89.50; Galápagos 98.30 → 97.80; Yasuní 92.75 → 91.85 | Arithmetic and ranking order across 82 ranked sights | Full Python validation and merge |
+| Maldives | [#56](https://github.com/Persie0/TopTravelList/pull/56) | Hanifaru Bay 94.00 → 93.30; Baa Atoll 93.65 → 93.15 | Arithmetic/order across 65 ranked records; 67 original review entries and four-peer links checked | Reconcile current main, regenerate links, run global checks and merge |
+| Malta | [#102](https://github.com/Persie0/TopTravelList/pull/102) (original #54 separately merged) | Hypogeum 93.00 → 92.10 | Arithmetic/order across 37 ranked sights; four current peers and operator visitor scope checked | Full Python validation and merge |
+
 ## Automated screening only
 
 [Detailed screening snapshot](screening-2026-11-25.md).
@@ -31,7 +39,7 @@ The [2026-11-25 screening run](https://github.com/Persie0/Playground/actions/run
 
 ## Next open PRs (oldest first at time of recording)
 
-SR #49; MT #54; MV #56; RW #57; TL #58; CR #59; LU #61; PA #62; SZ #63; BO #64; MK #65; CV #66; MN #67; GM #73; UZ #74; KM #78; KG #80; VE #81; AE #86; AZ #92; TJ #94. Re-read the live queue before each batch.
+[#56](https://github.com/Persie0/TopTravelList/pull/56) Add Maldives worldwide city and sight rankings; [#57](https://github.com/Persie0/TopTravelList/pull/57) Add Rwanda worldwide city and sight rankings; [#58](https://github.com/Persie0/TopTravelList/pull/58) Add Timor-Leste worldwide city and sight rankings; [#59](https://github.com/Persie0/TopTravelList/pull/59) Add Costa Rica worldwide city and sight rankings; [#62](https://github.com/Persie0/TopTravelList/pull/62) Add Panama worldwide city and sight rankings; [#63](https://github.com/Persie0/TopTravelList/pull/63) Add Eswatini worldwide city and sight rankings; [#65](https://github.com/Persie0/TopTravelList/pull/65) North Macedonia: add 14 settlements and 33 reviewed sights; [#66](https://github.com/Persie0/TopTravelList/pull/66) Add Cabo Verde worldwide rankings; [#67](https://github.com/Persie0/TopTravelList/pull/67) Add Mongolia worldwide city and sight rankings; [#73](https://github.com/Persie0/TopTravelList/pull/73) Add The Gambia worldwide city and sight rankings; [#74](https://github.com/Persie0/TopTravelList/pull/74) Add Uzbekistan worldwide city and sight rankings; [#78](https://github.com/Persie0/TopTravelList/pull/78) Add Comoros worldwide city and sight rankings; [#80](https://github.com/Persie0/TopTravelList/pull/80) Add Kyrgyzstan worldwide city and sight rankings; [#86](https://github.com/Persie0/TopTravelList/pull/86) Add United Arab Emirates worldwide city and sight rankings; [#92](https://github.com/Persie0/TopTravelList/pull/92) Add Azerbaijan worldwide city and sight rankings; [#94](https://github.com/Persie0/TopTravelList/pull/94) Add Tajikistan worldwide city and sight rankings; [#96](https://github.com/Persie0/TopTravelList/pull/96) Add Kazakhstan worldwide city and sight rankings; [#97](https://github.com/Persie0/TopTravelList/pull/97) Add Turkmenistan worldwide city and sight rankings; [#98](https://github.com/Persie0/TopTravelList/pull/98) Add Bangladesh worldwide city and sight rankings; [#100](https://github.com/Persie0/TopTravelList/pull/100) Add Lebanon worldwide city and sight rankings; [#101](https://github.com/Persie0/TopTravelList/pull/101) Review Suriname and Ecuador protected-area visitor depth; [#102](https://github.com/Persie0/TopTravelList/pull/102) Review Malta Hypogeum visitor depth against worldwide peers. Re-read the live queue before each batch.
 
 ## Completion criteria
 
