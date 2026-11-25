@@ -1,0 +1,16 @@
+id: sight-ni-san-cristobal-volcano
+name: "San Cristóbal Volcano"
+location:
+  country_code: NI
+  latitude: 12.702
+  longitude: -87.004
+scores:
+  impact: 8.6
+  uniqueness: 8.4
+  significance: 8.1
+  experience: 8.5
+  depth: 7.8
+  categories:
+    adventure: 9.1
+    nature: 8.9
+    photography: 9.0

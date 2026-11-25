@@ -1,0 +1,16 @@
+id: sight-ni-concepcion-volcano
+name: "Concepción Volcano"
+location:
+  country_code: NI
+  latitude: 11.538
+  longitude: -85.622
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 8.2
+  experience: 8.7
+  depth: 7.9
+  categories:
+    adventure: 9.3
+    photography: 9.2
+    nature: 9.0

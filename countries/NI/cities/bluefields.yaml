@@ -1,0 +1,15 @@
+id: city-ni-bluefields
+name: "Bluefields"
+location:
+  country_code: NI
+  latitude: 12.012
+  longitude: -83.764
+scores:
+  impact: 6.9
+  uniqueness: 8.0
+  significance: 7.8
+  experience: 7.2
+  depth: 7.1
+  categories:
+    culture: 8.8
+    food: 8.3
