@@ -1,0 +1,16 @@
+id: city-mh-arno
+name: "Arno Village"
+location:
+  country_code: MH
+  latitude: 7.067
+  longitude: 171.554
+scores:
+  impact: 6.8
+  uniqueness: 7.2
+  significance: 6.4
+  experience: 7.4
+  depth: 6.5
+  categories:
+    culture: 7.5
+    food: 7.4
+    relaxation: 7.4
