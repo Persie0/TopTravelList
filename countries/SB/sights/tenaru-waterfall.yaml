@@ -1,0 +1,16 @@
+id: sight-sb-tenaru-waterfall
+name: "Tenaru Waterfall"
+location:
+  country_code: SB
+  latitude: -9.51835
+  longitude: 160.01732
+scores:
+  impact: 8.3
+  uniqueness: 7.5
+  significance: 6.6
+  experience: 8.2
+  depth: 7.4
+  categories:
+    nature: 8.5
+    adventure: 8.2
+    photography: 8.4
