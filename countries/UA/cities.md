@@ -10,6 +10,8 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
+**Access advisory (checked 25 November 2026):** Scores describe normal-condition intrinsic merit, not current safety, accessibility or surviving condition. Active war and serious travel restrictions remain. Consult [current government travel advice](https://www.gov.uk/foreign-travel-advice/ukraine) and [UNESCO conservation reports](https://whc.unesco.org/en/statesparties/ua) before interpreting these rankings.
+
 ## Complete ranked list (11)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
