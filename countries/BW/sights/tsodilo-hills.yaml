@@ -1,0 +1,17 @@
+id: sight-bw-tsodilo-hills
+name: "Tsodilo Hills"
+location:
+  country_code: BW
+  latitude: -18.750000
+  longitude: 21.733333
+scores:
+  impact: 8.5
+  uniqueness: 9.3
+  significance: 9.6
+  experience: 8.2
+  depth: 8.2
+  categories:
+    history: 9.7
+    culture: 9.6
+    nature: 8.6
+    photography: 8.9

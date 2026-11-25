@@ -1,0 +1,17 @@
+id: sight-bw-chobe-national-park
+name: "Chobe National Park"
+location:
+  country_code: BW
+  latitude: -18.6500
+  longitude: 24.5000
+scores:
+  impact: 9.5
+  uniqueness: 9.4
+  significance: 9.3
+  experience: 9.4
+  depth: 9.3
+  categories:
+    wildlife: 9.8
+    nature: 9.5
+    photography: 9.5
+    adventure: 9.1

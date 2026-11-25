@@ -2,7 +2,7 @@
 
 # Botswana (BW) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**21 ranked** · **1 unassessed** · **22 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,39 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (21)
 
-No cities, towns & villages have been assessed for **Botswana** yet.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Kasane](cities/kasane.yaml) | City / town | **75.20** | **Photography 8.4**, **Relaxation 8.1**, **Culture 7.9** | 7.6 / 7.8 / 6.7 / 8.2 / 7.2 | [-17.799, 25.153](https://www.google.com/maps/search/?api=1&query=-17.799,25.153) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kasane%2C%20Botswana) |
+| 2 | [Maun](cities/maun.yaml) | City / town | **74.05** | **Culture 8.1**, **Food 8.0**, **Photography 7.9** | 7.1 / 7.7 / 7.1 / 8.0 / 7.3 | [-19.9833, 23.4167](https://www.google.com/maps/search/?api=1&query=-19.9833,23.4167) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Maun%2C%20Botswana) |
+| 3 | [Serowe](cities/serowe.yaml) | City / town | **73.60** | **History 8.8**, **Culture 8.6** | 6.6 / 7.7 / 8.2 / 7.5 / 6.9 | [-22.387, 26.71](https://www.google.com/maps/search/?api=1&query=-22.387,26.71) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Serowe%2C%20Botswana) |
+| 4 | [Gaborone](cities/gaborone.yaml) | City / town | **73.25** | **Culture 8.1**, **History 8.1**, **Food 8.0** | 6.8 / 7.0 / 8.0 / 7.7 / 7.8 | [-24.6282, 25.9231](https://www.google.com/maps/search/?api=1&query=-24.6282,25.9231) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Gaborone%2C%20Botswana) |
+| 5 | [Mochudi](cities/mochudi.yaml) | City / town | **71.80** | **History 8.3**, **Culture 8.2** | 6.6 / 7.6 / 7.7 / 7.4 / 6.5 | [-24.377, 26.152](https://www.google.com/maps/search/?api=1&query=-24.377,26.152) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mochudi%2C%20Botswana) |
+| 6 | [Kanye](cities/kanye.yaml) | City / town | **70.40** | **History 8.2**, **Culture 8.1**, **Photography 7.5** | 6.5 / 7.3 / 7.6 / 7.3 / 6.5 | [-24.9667, 25.3333](https://www.google.com/maps/search/?api=1&query=-24.9667,25.3333) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kanye%2C%20Botswana) |
+| 7 | [Shakawe](cities/shakawe.yaml) | City / town | **70.30** | **Photography 8.0**, **Culture 7.9** | 6.9 / 7.6 / 6.5 / 7.6 / 6.2 | [-18.365, 21.846](https://www.google.com/maps/search/?api=1&query=-18.365,21.846) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Shakawe%2C%20Botswana) |
+| 8 | [Molepolole](cities/molepolole.yaml) | City / town | **69.75** | **History 8.3**, **Culture 8.0** | 6.3 / 7.3 / 7.6 / 7.2 / 6.6 | [-24.406, 25.495](https://www.google.com/maps/search/?api=1&query=-24.406,25.495) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Molepolole%2C%20Botswana) |
+| 9 | [Francistown](cities/francistown.yaml) | City / town | **69.60** | **History 8.0**, **Culture 7.8**, **Food 7.6** | 6.4 / 7.0 / 7.3 / 7.4 / 7.2 | [-21.17, 27.507](https://www.google.com/maps/search/?api=1&query=-21.17,27.507) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Francistown%2C%20Botswana) |
+| 10 | [Lobatse](cities/lobatse.yaml) | City / town | **69.05** | **History 8.0**, **Culture 7.7** | 6.4 / 7.0 / 7.4 / 7.3 / 6.6 | [-25.224, 25.677](https://www.google.com/maps/search/?api=1&query=-25.224,25.677) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lobatse%2C%20Botswana) |
+| 11 | [Ghanzi](cities/ghanzi.yaml) | City / town | **67.20** | **Culture 8.2** | 6.1 / 7.4 / 6.7 / 7.2 / 6.2 | [-21.7, 21.65](https://www.google.com/maps/search/?api=1&query=-21.7,21.65) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ghanzi%2C%20Botswana) |
+| 12 | [Gweta](cities/gweta.yaml) | City / town | **66.55** | **Culture 7.7**, **Photography 7.5** | 6.3 / 7.3 / 6.2 / 7.4 / 5.9 | [-20.1833, 25.2333](https://www.google.com/maps/search/?api=1&query=-20.1833,25.2333) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Gweta%2C%20Botswana) |
+| 13 | [Palapye](cities/palapye.yaml) | City / town | **65.80** | **Culture 7.4**, **Food 7.4** | 6.2 / 6.6 / 6.7 / 7.2 / 6.5 | [-22.546, 27.127](https://www.google.com/maps/search/?api=1&query=-22.546,27.127) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Palapye%2C%20Botswana) |
+| 14 | [Ramotswa](cities/ramotswa.yaml) | City / town | **65.55** | **Culture 7.6**, **History 7.3** | 6.1 / 6.9 / 6.7 / 7.0 / 6.1 | [-24.871, 25.865](https://www.google.com/maps/search/?api=1&query=-24.871,25.865) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ramotswa%2C%20Botswana) |
+| 15 | [Selebi-Phikwe](cities/selebi-phikwe.yaml) | City / town | **65.35** | **History 7.5**, **Culture 7.3** | 6.0 / 6.7 / 6.8 / 7.0 / 6.5 | [-21.978, 27.842](https://www.google.com/maps/search/?api=1&query=-21.978,27.842) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Selebi-Phikwe%2C%20Botswana) |
+| 16 | [Shorobe](cities/shorobe.yaml) | City / town | **65.05** | **Culture 7.9** | 6.1 / 7.2 / 6.2 / 7.1 / 5.7 | [-19.705, 23.665](https://www.google.com/maps/search/?api=1&query=-19.705,23.665) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Shorobe%2C%20Botswana) |
+| 17 | [Nata](cities/nata.yaml) | City / town | **64.85** | **Culture 7.4** | 6.1 / 6.9 / 6.2 / 7.2 / 6.1 | [-20.2167, 26.1833](https://www.google.com/maps/search/?api=1&query=-20.2167,26.1833) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nata%2C%20Botswana) |
+| 18 | [Sowa Town](cities/sowa-town.yaml) | Town | **64.50** | **Culture 7.2**, **History 7.2** | 6.0 / 6.9 / 6.5 / 6.9 / 5.9 | [-20.564, 26.224](https://www.google.com/maps/search/?api=1&query=-20.564,26.224) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sowa%20Town%2C%20Botswana) |
+| 19 | [Tlokweng](cities/tlokweng.yaml) | City / town | **63.80** | **Culture 7.5**, **Food 7.4** | 5.9 / 6.6 / 6.4 / 7.0 / 6.3 | [-24.668, 25.97](https://www.google.com/maps/search/?api=1&query=-24.668,25.97) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tlokweng%2C%20Botswana) |
+| 20 | [Letlhakane](cities/letlhakane.yaml) | City / town | **62.95** | **Culture 7.1**, **Food 7.1** | 5.8 / 6.4 / 6.5 / 6.9 / 6.2 | [-21.4167, 25.5833](https://www.google.com/maps/search/?api=1&query=-21.4167,25.5833) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Letlhakane%2C%20Botswana) |
+| 21 | [Tsabong](cities/tsabong.yaml) | City / town | **62.75** | **Culture 7.4** | 5.8 / 6.7 / 6.3 / 6.8 / 5.8 | [-26.05, 22.45](https://www.google.com/maps/search/?api=1&query=-26.05,22.45) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tsabong%2C%20Botswana) |
 
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+## Not yet fully assessed (1)
+
+These destinations have no rank until all five core scores are assessed.
+
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| — | [Orapa](cities/orapa.yaml) | City / town | **—** | **History 7.6** | — / — / 7.2 / — / — | [-21.302, 25.376](https://www.google.com/maps/search/?api=1&query=-21.302,25.376) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Orapa%2C%20Botswana) |
 
 ---
 
