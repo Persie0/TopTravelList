@@ -1,0 +1,16 @@
+id: city-ls-morija
+name: "Morija"
+location:
+  country_code: LS
+  latitude: -29.6260
+  longitude: 27.5090
+scores:
+  impact: 7.0
+  uniqueness: 8.0
+  significance: 8.4
+  experience: 7.7
+  depth: 7.2
+  categories:
+    culture: 8.8
+    history: 8.9
+    architecture: 7.8

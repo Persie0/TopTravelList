@@ -1,0 +1,16 @@
+id: city-cl-hanga-roa
+name: "Hanga Roa"
+location:
+  country_code: CL
+  latitude: -27.1520
+  longitude: -109.4310
+scores:
+  impact: 8.2
+  uniqueness: 9.1
+  significance: 8.5
+  experience: 8.4
+  depth: 7.4
+  categories:
+    culture: 9.4
+    photography: 9.0
+    history: 8.8

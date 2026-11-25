@@ -1,0 +1,15 @@
+id: city-bz-independence-village
+name: "Independence Village"
+location:
+  country_code: BZ
+  latitude: 16.5330
+  longitude: -88.4200
+scores:
+  impact: 5.7
+  uniqueness: 6.0
+  significance: 6.0
+  experience: 6.4
+  depth: 5.9
+  categories:
+    culture: 6.5
+    food: 6.7

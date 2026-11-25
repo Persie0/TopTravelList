@@ -1,0 +1,15 @@
+id: city-kw-al-jahra
+name: "Al Jahra"
+location:
+  country_code: KW
+  latitude: 29.3375
+  longitude: 47.6581
+scores:
+  impact: 6.8
+  uniqueness: 7.1
+  significance: 7.6
+  experience: 7.2
+  depth: 6.8
+  categories:
+    history: 8.0
+    culture: 7.5

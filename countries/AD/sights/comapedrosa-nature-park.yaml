@@ -1,0 +1,16 @@
+id: sight-ad-comapedrosa-nature-park
+name: "Comapedrosa Nature Park"
+location:
+  country_code: AD
+  latitude: 42.5860
+  longitude: 1.4460
+scores:
+  impact: 8.8
+  uniqueness: 8.5
+  significance: 8.1
+  experience: 8.8
+  depth: 8.8
+  categories:
+    nature: 9.3
+    adventure: 9.3
+    photography: 9.2

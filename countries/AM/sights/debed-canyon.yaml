@@ -1,0 +1,16 @@
+id: sight-am-debed-canyon
+name: "Debed Canyon"
+location:
+  country_code: AM
+  latitude: 41.02
+  longitude: 44.66
+scores:
+  impact: 8.9
+  uniqueness: 8.5
+  significance: 7.7
+  experience: 8.6
+  depth: 8.8
+  categories:
+    nature: 9.1
+    photography: 9.2
+    adventure: 8.6

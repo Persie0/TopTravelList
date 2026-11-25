@@ -1,0 +1,16 @@
+id: sight-va-saint-peters-basilica
+name: "Saint Peter's Basilica"
+location:
+  country_code: VA
+  latitude: 41.90217
+  longitude: 12.45394
+scores:
+  impact: 9.9
+  uniqueness: 9.8
+  significance: 9.9
+  experience: 9.6
+  depth: 9.5
+  categories:
+    architecture: 9.9
+    history: 9.9
+    culture: 9.9

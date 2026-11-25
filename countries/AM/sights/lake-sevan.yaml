@@ -1,0 +1,16 @@
+id: sight-am-lake-sevan
+name: "Lake Sevan"
+location:
+  country_code: AM
+  latitude: 40.35
+  longitude: 45.35
+scores:
+  impact: 8.8
+  uniqueness: 8.5
+  significance: 8.3
+  experience: 8.7
+  depth: 9.0
+  categories:
+    nature: 9.0
+    photography: 9.0
+    relaxation: 9.0

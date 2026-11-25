@@ -1,0 +1,15 @@
+id: sight-hn-laguna-de-alvarado
+name: "Laguna de Alvarado"
+location:
+  country_code: HN
+  latitude: 15.8300
+  longitude: -87.9360
+scores:
+  impact: 7.1
+  uniqueness: 7.4
+  significance: 7.4
+  experience: 7.7
+  depth: 7.0
+  categories:
+    nature: 8.0
+    wildlife: 8.2

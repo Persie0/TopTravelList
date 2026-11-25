@@ -1,0 +1,15 @@
+id: sight-bw-mapungubwe-cultural-landscape-botswana-tentative-extension
+name: "Mapungubwe Cultural Landscape (Botswana tentative extension)"
+location:
+  country_code: BW
+  latitude: -22.1800
+  longitude: 29.1000
+scores:
+  impact: null
+  uniqueness: null
+  significance: 8.9
+  experience: null
+  depth: null
+  categories:
+    history: 9.3
+    culture: 9.1

@@ -1,0 +1,15 @@
+id: sight-bh-marassi-beach
+name: "Marassi Beach"
+location:
+  country_code: BH
+  latitude: 26.2850
+  longitude: 50.6650
+scores:
+  impact: 7.3
+  uniqueness: 6.7
+  significance: 5.5
+  experience: 8.1
+  depth: 7.0
+  categories:
+    beaches: 8.2
+    relaxation: 8.3

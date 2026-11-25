@@ -1,0 +1,17 @@
+id: city-ar-san-carlos-de-bariloche
+name: "San Carlos de Bariloche"
+location:
+  country_code: AR
+  latitude: -41.1335
+  longitude: -71.3103
+scores:
+  impact: 8.6
+  uniqueness: 8.5
+  significance: 7.3
+  experience: 8.8
+  depth: 8.1
+  categories:
+    photography: 9.1
+    architecture: 8.5
+    food: 8.9
+    relaxation: 9.0

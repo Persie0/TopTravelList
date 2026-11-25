@@ -1,0 +1,16 @@
+id: sight-ve-cueva-del-guacharo-national-park
+name: "Cueva del Guácharo National Park"
+location:
+  country_code: VE
+  latitude: 10.1800
+  longitude: -63.5500
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 8.5
+  experience: 8.3
+  depth: 7.8
+  categories:
+    nature: 9.2
+    wildlife: 9.3
+    adventure: 8.7

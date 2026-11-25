@@ -1,0 +1,16 @@
+id: sight-pe-historic-centre-of-arequipa
+name: "Historic Centre of Arequipa"
+location:
+  country_code: PE
+  latitude: -16.3989
+  longitude: -71.5369
+scores:
+  impact: 9.1
+  uniqueness: 9.1
+  significance: 9.4
+  experience: 8.9
+  depth: 8.9
+  categories:
+    architecture: 9.6
+    history: 9.4
+    photography: 9.3

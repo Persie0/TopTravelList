@@ -1,0 +1,16 @@
+id: sight-co-historic-centre-of-santa-cruz-de-mompox
+name: "Historic Centre of Santa Cruz de Mompox"
+location:
+  country_code: CO
+  latitude: 9.2414
+  longitude: -74.4267
+scores:
+  impact: 8.6
+  uniqueness: 9.0
+  significance: 9.3
+  experience: 8.3
+  depth: 8.5
+  categories:
+    architecture: 9.4
+    history: 9.5
+    culture: 8.9

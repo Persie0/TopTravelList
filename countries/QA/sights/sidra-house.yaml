@@ -1,0 +1,15 @@
+id: sight-qa-sidra-house
+name: "Sidra House"
+location:
+  country_code: QA
+  latitude: 25.3160
+  longitude: 51.4390
+scores:
+  impact: null
+  uniqueness: 7.4
+  significance: 7.7
+  experience: null
+  depth: null
+  categories:
+    architecture: 8.0
+    history: 8.0

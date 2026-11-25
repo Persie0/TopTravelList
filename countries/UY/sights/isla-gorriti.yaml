@@ -1,0 +1,16 @@
+id: sight-uy-isla-gorriti
+name: "Isla Gorriti"
+location:
+  country_code: UY
+  latitude: -34.9512
+  longitude: -54.9780
+scores:
+  impact: 7.7
+  uniqueness: 7.5
+  significance: 7.5
+  experience: 8.1
+  depth: 7.3
+  categories:
+    beaches: 8.2
+    relaxation: 8.2
+    history: 7.6

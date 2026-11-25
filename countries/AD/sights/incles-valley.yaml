@@ -1,0 +1,16 @@
+id: sight-ad-incles-valley
+name: "Incles Valley"
+location:
+  country_code: AD
+  latitude: 42.6000
+  longitude: 1.6850
+scores:
+  impact: 8.5
+  uniqueness: 8.1
+  significance: 7.6
+  experience: 8.7
+  depth: 8.4
+  categories:
+    nature: 9.1
+    photography: 9.0
+    adventure: 8.8

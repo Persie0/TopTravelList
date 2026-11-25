@@ -1,0 +1,14 @@
+id: city-bh-sitra
+name: "Sitra"
+location:
+  country_code: BH
+  latitude: 26.1530
+  longitude: 50.6270
+scores:
+  impact: 6.2
+  uniqueness: 6.5
+  significance: 6.8
+  experience: 6.8
+  depth: 6.5
+  categories:
+    culture: 7.1

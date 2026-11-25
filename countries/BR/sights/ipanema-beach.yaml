@@ -1,0 +1,16 @@
+id: sight-br-ipanema-beach
+name: "Ipanema Beach"
+location:
+  country_code: BR
+  latitude: -22.9840
+  longitude: -43.2040
+scores:
+  impact: 8.8
+  uniqueness: 8.4
+  significance: 7.3
+  experience: 9.0
+  depth: 8.0
+  categories:
+    beaches: 9.4
+    photography: 9.2
+    culture: 8.7

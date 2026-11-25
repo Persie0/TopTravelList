@@ -1,0 +1,16 @@
+id: sight-pe-rio-abiseo-national-park
+name: "Río Abiseo National Park"
+location:
+  country_code: PE
+  latitude: -7.7500
+  longitude: -77.2500
+scores:
+  impact: null
+  uniqueness: 9.2
+  significance: 9.6
+  experience: null
+  depth: null
+  categories:
+    nature: 9.5
+    history: 9.5
+    wildlife: 9.4

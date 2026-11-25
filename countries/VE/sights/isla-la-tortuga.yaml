@@ -1,0 +1,16 @@
+id: sight-ve-isla-la-tortuga
+name: "Isla La Tortuga"
+location:
+  country_code: VE
+  latitude: 10.9330
+  longitude: -65.3000
+scores:
+  impact: 8.8
+  uniqueness: 8.6
+  significance: 7.0
+  experience: 8.5
+  depth: 7.7
+  categories:
+    beaches: 9.4
+    photography: 9.3
+    relaxation: 9.0

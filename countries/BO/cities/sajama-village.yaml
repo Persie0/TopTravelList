@@ -1,0 +1,15 @@
+id: city-bo-sajama-village
+name: "Sajama Village"
+location:
+  country_code: BO
+  latitude: -18.1300
+  longitude: -68.9700
+scores:
+  impact: 7.1
+  uniqueness: 8.0
+  significance: 6.8
+  experience: 7.4
+  depth: 5.9
+  categories:
+    photography: 8.5
+    culture: 7.9

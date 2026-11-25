@@ -2,19 +2,40 @@
 
 # Bahrain (BH) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**14 ranked** · **1 unassessed** · **15 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
 This is the **complete ranking for this country's available dataset**, using absolute worldwide scores, **not country-relative scores**. Overall scores are out of 100; category scores are out of 10 and shown highest first (the top three are bold). Types are inferred from names, not separately verified.
 
-**Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, or click its GPS coordinates to open **Google Maps**. Locations are approximate representative points, not necessarily entrance coordinates.
+**Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (14)
 
-No cities, towns & villages have been assessed for **Bahrain** yet.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Muharraq](cities/muharraq.yaml) | City / town | **84.95** | **Culture 9.0**, **History 9.0**, **Architecture 8.9** | 8.4 / 8.8 / 8.7 / 8.3 / 7.9 | [26.2515, 50.6119](https://www.google.com/maps/search/?api=1&query=26.2515,50.6119) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Muharraq%2C%20Bahrain) |
+| 2 | [Manama](cities/manama.yaml) | City / town | **83.35** | **Culture 8.8**, **Food 8.7**, **Architecture 8.3** | 8.1 / 8.3 / 8.5 / 8.6 / 8.4 | [26.2235, 50.5876](https://www.google.com/maps/search/?api=1&query=26.2235,50.5876) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Manama%2C%20Bahrain) |
+| 3 | [Aali](cities/aali.yaml) | City / town | **73.90** | **Culture 8.3**, **History 8.1** | 7.1 / 7.7 / 7.8 / 7.5 / 6.5 | [26.153, 50.516](https://www.google.com/maps/search/?api=1&query=26.153,50.516) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Aali%2C%20Bahrain) |
+| 4 | [Al Jasra](cities/al-jasra.yaml) | City / town | **73.40** | **Culture 8.4**, **Architecture 7.7** | 7.2 / 7.6 / 7.5 / 7.6 / 6.4 | [26.171, 50.457](https://www.google.com/maps/search/?api=1&query=26.171,50.457) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Al%20Jasra%2C%20Bahrain) |
+| 5 | [Riffa](cities/riffa.yaml) | City / town | **71.35** | **History 7.9**, **Culture 7.4** | 6.9 / 7.0 / 7.6 / 7.3 / 7.0 | [26.13, 50.555](https://www.google.com/maps/search/?api=1&query=26.13,50.555) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Riffa%2C%20Bahrain) |
+| 6 | [Budaiya](cities/budaiya.yaml) | City / town | **68.95** | **Relaxation 7.6**, **Culture 7.3** | 6.8 / 7.0 / 6.9 / 7.3 / 6.3 | [26.217, 50.453](https://www.google.com/maps/search/?api=1&query=26.217,50.453) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Budaiya%2C%20Bahrain) |
+| 7 | [Bani Jamra](cities/bani-jamra.yaml) | City / town | **68.75** | **Culture 8.0** | 6.6 / 7.3 / 7.1 / 7.0 / 6.0 | [26.223, 50.466](https://www.google.com/maps/search/?api=1&query=26.223,50.466) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bani%20Jamra%2C%20Bahrain) |
+| 8 | [Jidhafs](cities/jidhafs.yaml) | City / town | **67.40** | **Culture 7.4**, **Food 7.2** | 6.5 / 6.8 / 7.0 / 7.0 / 6.4 | [26.217, 50.538](https://www.google.com/maps/search/?api=1&query=26.217,50.538) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Jidhafs%2C%20Bahrain) |
+| 9 | [Hidd](cities/hidd.yaml) | City / town | **67.30** | **Culture 7.4** | 6.5 / 6.8 / 7.0 / 7.0 / 6.3 | [26.245, 50.654](https://www.google.com/maps/search/?api=1&query=26.245,50.654) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hidd%2C%20Bahrain) |
+| 10 | [Zallaq](cities/zallaq.yaml) | City / town | **65.70** | **Relaxation 7.7**, **Culture 6.9** | 6.5 / 6.7 / 6.3 / 7.3 / 5.9 | [26.041, 50.485](https://www.google.com/maps/search/?api=1&query=26.041,50.485) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Zallaq%2C%20Bahrain) |
+| 11 | [Saar](cities/saar.yaml) | City / town | **65.60** | **Culture 7.0** | 6.4 / 6.5 / 6.8 / 6.9 / 6.2 | [26.196, 50.485](https://www.google.com/maps/search/?api=1&query=26.196,50.485) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Saar%2C%20Bahrain) |
+| 12 | [Sitra](cities/sitra.yaml) | City / town | **65.15** | **Culture 7.1** | 6.2 / 6.5 / 6.8 / 6.8 / 6.5 | [26.153, 50.627](https://www.google.com/maps/search/?api=1&query=26.153,50.627) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sitra%2C%20Bahrain) |
+| 13 | [Isa Town](cities/isa-town.yaml) | Town | **64.85** | **Food 7.3**, **Culture 7.0** | 6.3 / 6.3 / 6.6 / 7.0 / 6.5 | [26.173, 50.548](https://www.google.com/maps/search/?api=1&query=26.173,50.548) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Isa%20Town%2C%20Bahrain) |
+| 14 | [Hamad Town](cities/hamad-town.yaml) | Town | **62.35** | **Culture 6.7** | 6.0 / 6.1 / 6.4 / 6.6 / 6.4 | [26.113, 50.512](https://www.google.com/maps/search/?api=1&query=26.113,50.512) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hamad%20Town%2C%20Bahrain) |
 
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+## Not yet fully assessed (1)
+
+These destinations have no rank until all five core scores are assessed.
+
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| — | [Awali](cities/awali.yaml) | City / town | **—** | **History 8.5**, **Architecture 8.0** | 6.9 / 7.9 / 8.3 / — / — | [26.085, 50.551](https://www.google.com/maps/search/?api=1&query=26.085,50.551) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Awali%2C%20Bahrain) |
 
 ---
 

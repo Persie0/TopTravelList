@@ -1,0 +1,16 @@
+id: sight-ls-moteng-pass
+name: "Moteng Pass"
+location:
+  country_code: LS
+  latitude: -28.7690
+  longitude: 28.5710
+scores:
+  impact: 8.5
+  uniqueness: 8.0
+  significance: 6.6
+  experience: 8.3
+  depth: 6.9
+  categories:
+    photography: 9.0
+    adventure: 8.4
+    nature: 8.4

@@ -1,0 +1,17 @@
+id: sight-st-obo-natural-park-sao-tome
+name: "Obô Natural Park (São Tomé)"
+location:
+  country_code: ST
+  latitude: 0.2240
+  longitude: 6.5480
+scores:
+  impact: 9.2
+  uniqueness: 9.2
+  significance: 9.1
+  experience: 8.7
+  depth: 8.9
+  categories:
+    nature: 9.6
+    wildlife: 9.6
+    adventure: 9.1
+    photography: 9.1

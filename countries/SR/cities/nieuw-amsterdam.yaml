@@ -1,0 +1,16 @@
+id: city-sr-nieuw-amsterdam
+name: "Nieuw Amsterdam"
+location:
+  country_code: SR
+  latitude: 5.8833
+  longitude: -55.0833
+scores:
+  impact: 7.0
+  uniqueness: 7.4
+  significance: 7.6
+  experience: 7.4
+  depth: 6.5
+  categories:
+    history: 8.0
+    culture: 7.6
+    photography: 7.6

@@ -1,0 +1,17 @@
+id: sight-bo-isla-del-sol
+name: "Isla del Sol"
+location:
+  country_code: BO
+  latitude: -16.0160
+  longitude: -69.1740
+scores:
+  impact: 9.1
+  uniqueness: 9.0
+  significance: 9.1
+  experience: 8.8
+  depth: 8.6
+  categories:
+    photography: 9.4
+    culture: 9.1
+    history: 9.1
+    nature: 9.1

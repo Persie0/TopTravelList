@@ -1,0 +1,15 @@
+id: city-ec-macas
+name: "Macas"
+location:
+  country_code: EC
+  latitude: -2.3087
+  longitude: -78.1114
+scores:
+  impact: 6.8
+  uniqueness: 7.3
+  significance: 6.7
+  experience: 7.4
+  depth: 6.6
+  categories:
+    culture: 7.8
+    photography: 7.6

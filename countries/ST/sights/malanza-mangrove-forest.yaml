@@ -1,0 +1,16 @@
+id: sight-st-malanza-mangrove-forest
+name: "Malanza Mangrove Forest"
+location:
+  country_code: ST
+  latitude: 0.0580
+  longitude: 6.5510
+scores:
+  impact: 8.1
+  uniqueness: 8.6
+  significance: 8.3
+  experience: 8.3
+  depth: 7.2
+  categories:
+    nature: 9.0
+    wildlife: 8.7
+    adventure: 8.2

@@ -1,0 +1,15 @@
+id: sight-br-sao-paulo-museum-of-art-masp
+name: "São Paulo Museum of Art (MASP)"
+location:
+  country_code: BR
+  latitude: -23.5614
+  longitude: -46.6559
+scores:
+  impact: 8.5
+  uniqueness: 8.9
+  significance: 9.2
+  experience: 8.7
+  depth: 8.4
+  categories:
+    architecture: 9.4
+    culture: 9.5

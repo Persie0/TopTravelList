@@ -1,0 +1,16 @@
+id: city-ve-caracas
+name: "Caracas"
+location:
+  country_code: VE
+  latitude: 10.4806
+  longitude: -66.9036
+scores:
+  impact: 8.2
+  uniqueness: 8.0
+  significance: 8.3
+  experience: 7.6
+  depth: 8.6
+  categories:
+    architecture: 8.5
+    culture: 8.6
+    food: 8.4

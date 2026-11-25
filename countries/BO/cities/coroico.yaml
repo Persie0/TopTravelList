@@ -1,0 +1,15 @@
+id: city-bo-coroico
+name: "Coroico"
+location:
+  country_code: BO
+  latitude: -16.1890
+  longitude: -67.7270
+scores:
+  impact: 7.9
+  uniqueness: 7.8
+  significance: 6.9
+  experience: 8.3
+  depth: 7.0
+  categories:
+    photography: 8.6
+    relaxation: 8.5

@@ -1,0 +1,15 @@
+id: city-sc-baie-lazare
+name: "Baie Lazare"
+location:
+  country_code: SC
+  latitude: -4.7550
+  longitude: 55.4870
+scores:
+  impact: 7.2
+  uniqueness: 7.3
+  significance: 6.8
+  experience: 7.5
+  depth: 6.4
+  categories:
+    culture: 7.5
+    relaxation: 7.7

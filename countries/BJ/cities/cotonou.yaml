@@ -1,0 +1,16 @@
+id: city-bj-cotonou
+name: "Cotonou"
+location:
+  country_code: BJ
+  latitude: 6.3654
+  longitude: 2.4183
+scores:
+  impact: 7.6
+  uniqueness: 7.9
+  significance: 8.0
+  experience: 8.3
+  depth: 8.4
+  categories:
+    culture: 8.7
+    food: 8.6
+    architecture: 7.8

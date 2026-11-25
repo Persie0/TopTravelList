@@ -1,0 +1,15 @@
+id: sight-pe-larco-museum
+name: "Larco Museum"
+location:
+  country_code: PE
+  latitude: -12.0720
+  longitude: -77.0700
+scores:
+  impact: 8.6
+  uniqueness: 8.9
+  significance: 9.2
+  experience: 8.9
+  depth: 8.4
+  categories:
+    history: 9.6
+    culture: 9.4

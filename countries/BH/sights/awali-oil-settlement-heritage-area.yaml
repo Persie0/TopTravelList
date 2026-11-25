@@ -1,0 +1,15 @@
+id: sight-bh-awali-oil-settlement-heritage-area
+name: "Awali Oil Settlement Heritage Area"
+location:
+  country_code: BH
+  latitude: 26.0850
+  longitude: 50.5510
+scores:
+  impact: null
+  uniqueness: 8.2
+  significance: 8.5
+  experience: null
+  depth: null
+  categories:
+    history: 8.8
+    architecture: 8.3

@@ -1,0 +1,15 @@
+id: sight-ve-salto-la-llovizna
+name: "Salto La Llovizna"
+location:
+  country_code: VE
+  latitude: 8.3070
+  longitude: -62.6790
+scores:
+  impact: 8.4
+  uniqueness: 8.2
+  significance: 7.1
+  experience: 8.4
+  depth: 7.5
+  categories:
+    nature: 8.8
+    photography: 9.0

@@ -1,0 +1,15 @@
+id: sight-qa-al-rekayat-fort
+name: "Al Rekayat Fort"
+location:
+  country_code: QA
+  latitude: 26.0070
+  longitude: 51.0630
+scores:
+  impact: 6.8
+  uniqueness: 7.3
+  significance: 7.8
+  experience: 7.0
+  depth: 6.2
+  categories:
+    architecture: 7.7
+    history: 8.1

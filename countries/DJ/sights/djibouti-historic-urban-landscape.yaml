@@ -1,0 +1,16 @@
+id: sight-dj-djibouti-historic-urban-landscape
+name: "Djibouti Historic Urban Landscape"
+location:
+  country_code: DJ
+  latitude: 11.5920
+  longitude: 43.1450
+scores:
+  impact: 7.5
+  uniqueness: 8.0
+  significance: 8.3
+  experience: 7.7
+  depth: 7.4
+  categories:
+    architecture: 8.4
+    history: 8.6
+    culture: 8.5

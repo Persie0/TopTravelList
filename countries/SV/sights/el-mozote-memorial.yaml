@@ -1,0 +1,15 @@
+id: sight-sv-el-mozote-memorial
+name: "El Mozote Memorial"
+location:
+  country_code: SV
+  latitude: 13.9000
+  longitude: -88.1120
+scores:
+  impact: 7.6
+  uniqueness: 8.2
+  significance: 9.1
+  experience: 7.8
+  depth: 6.8
+  categories:
+    history: 9.3
+    culture: 8.6

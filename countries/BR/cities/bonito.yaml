@@ -1,0 +1,15 @@
+id: city-br-bonito
+name: "Bonito"
+location:
+  country_code: BR
+  latitude: -21.1261
+  longitude: -56.4836
+scores:
+  impact: 6.9
+  uniqueness: 7.3
+  significance: 6.3
+  experience: 8.1
+  depth: 6.6
+  categories:
+    relaxation: 8.3
+    food: 7.9
