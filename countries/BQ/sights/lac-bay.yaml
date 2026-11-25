@@ -1,0 +1,16 @@
+id: sight-bq-lac-bay
+name: "Lac Bay (Bonaire)"
+location:
+  country_code: BQ
+  latitude: 12.096
+  longitude: -68.222
+scores:
+  impact: 8.7
+  uniqueness: 8.7
+  significance: 8.9
+  experience: 8.7
+  depth: 8.5
+  categories:
+    nature: 9.1
+    wildlife: 8.8
+    adventure: 8.7

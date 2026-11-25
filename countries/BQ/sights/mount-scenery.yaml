@@ -1,0 +1,16 @@
+id: sight-bq-mount-scenery
+name: "Mount Scenery trail (Saba)"
+location:
+  country_code: BQ
+  latitude: 17.635
+  longitude: -63.239
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 8.7
+  experience: 8.8
+  depth: 8.4
+  categories:
+    nature: 9.2
+    adventure: 9.1
+    photography: 9.0

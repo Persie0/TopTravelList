@@ -168,3 +168,7 @@ NL generated inventory screened by names and approximate coordinates; no matchin
 ### Aruba coverage — 2026-11-25
 
 No matching NL records identified by generated ranking name and approximate coordinate screening. Add 2 settlements and 13 individually scoped sights. Arikok's whole-park scope and named caves/pool separately rated, not summed. ACF rules and documented ranger-managed visitor sites inform scope; no guaranteed swimming or wildlife encounters. Tourism Authority and ACF report search excerpts inspected, full independent claim and GPS verification pending. No perfect-ten scores.
+
+### Caribbean Netherlands coverage — 2026-11-25
+
+No matching NL parent records identified by generated name and approximate coordinate screen. Add 5 settlements and 13 sights across all three islands (Bonaire, Sint Eustatius, Saba). Individual islands retain distinct scopes and names under BQ. Marine park scores account for documented coral decline from STINAPA, CBS and Wageningen research, not historical pristine reef reputation. Source excerpts inspected; full independent coordinate and claim verification pending. No exact-10 additions.

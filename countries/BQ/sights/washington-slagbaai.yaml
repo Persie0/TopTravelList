@@ -1,0 +1,16 @@
+id: sight-bq-washington-slagbaai
+name: "Washington Slagbaai National Park (Bonaire)"
+location:
+  country_code: BQ
+  latitude: 12.277
+  longitude: -68.377
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 8.8
+  experience: 8.7
+  depth: 9.0
+  categories:
+    nature: 9.0
+    wildlife: 8.9
+    adventure: 8.8

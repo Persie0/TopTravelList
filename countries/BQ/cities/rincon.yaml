@@ -1,0 +1,15 @@
+id: city-bq-rincon
+name: "Rincon (Bonaire)"
+location:
+  country_code: BQ
+  latitude: 12.238
+  longitude: -68.331
+scores:
+  impact: 7.4
+  uniqueness: 8.2
+  significance: 8.2
+  experience: 7.7
+  depth: 7.3
+  categories:
+    history: 8.5
+    culture: 8.6
