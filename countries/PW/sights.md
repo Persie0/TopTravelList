@@ -2,7 +2,7 @@
 
 # Palau (PW) — Sights & attractions ranking
 
-**13 ranked** · **7 unassessed** · **20 total** · Worldwide scoring **v2**
+**14 ranked** · **6 unassessed** · **20 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (13)
+## Complete ranked list (14)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -27,8 +27,9 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 11 | [Peleliu World War II Memorial Museum](sights/peleliu-memorial-museum.yaml) | Museum / heritage | **76.25** | **History 8.7**, **Culture 7.6** | 7.1 / 7.9 / 8.4 / 7.6 / 7.0 | [7.00627, 134.22614](https://www.google.com/maps/search/?api=1&query=7.00627,134.22614) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Peleliu%20World%20War%20II%20Memorial%20Museum%2C%20Palau) |
 | 12 | [Etpison Museum](sights/etpison-museum.yaml) | Museum / heritage | **75.85** | **Culture 8.4**, **History 8.1** | 7.1 / 8.0 / 7.8 / 7.7 / 7.4 | [7.34528, 134.48316](https://www.google.com/maps/search/?api=1&query=7.34528,134.48316) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Etpison%20Museum%2C%20Palau) |
 | 13 | [Ngardmau Waterfall](sights/ngardmau-waterfall.yaml) | Waterfall | **75.45** | **Nature 8.2**, **Photography 8.1**, **Adventure 7.8** | 8.0 / 7.4 / 6.7 / 8.1 / 7.4 | [7.59118, 134.59342](https://www.google.com/maps/search/?api=1&query=7.59118,134.59342) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ngardmau%20Waterfall%2C%20Palau) |
+| 14 | [Lake Ngardok](sights/lake-ngardok.yaml) | Lake | **75.05** | **Nature 8.1**, **Wildlife 7.8** | 7.2 / 7.6 / 8.0 / 7.7 / 6.9 | [7.5133, 134.6031](https://www.google.com/maps/search/?api=1&query=7.5133,134.6031) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lake%20Ngardok%2C%20Palau) |
 
-## Not yet fully assessed (7)
+## Not yet fully assessed (6)
 
 These destinations have no rank until all five core scores are assessed.
 
@@ -36,7 +37,6 @@ These destinations have no rank until all five core scores are assessed.
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
 | — | [Chelechol ra Orrak](sights/chelechol-ra-orrak.yaml) | Attraction | **—** | — | — / — / — / — / — | [7.350306, 134.564667](https://www.google.com/maps/search/?api=1&query=7.350306,134.564667) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Chelechol%20ra%20Orrak%2C%20Palau) |
 | — | [Imeong Conservation Area](sights/imeong-conservation-area.yaml) | Attraction | **—** | **Culture 9.1**, **History 8.8**, **Nature 8.6** | 8.0 / 8.7 / 9.0 / — / — | [7.5275, 134.525556](https://www.google.com/maps/search/?api=1&query=7.5275,134.525556) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Imeong%20Conservation%20Area%2C%20Palau) |
-| — | [Lake Ngardok](sights/lake-ngardok.yaml) | Lake | **—** | **Nature 8.1**, **Wildlife 7.8** | 7.2 / 7.6 / 8.0 / — / — | [7.5133, 134.6031](https://www.google.com/maps/search/?api=1&query=7.5133,134.6031) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lake%20Ngardok%2C%20Palau) |
 | — | [Ouballang ra Ngebedech (Ngebedech Terraces)](sights/ngebedech-terraces.yaml) | Attraction | **—** | **History 8.8**, **Culture 8.7** | 7.9 / 8.8 / 8.6 / — / — | [7.437056, 134.492667](https://www.google.com/maps/search/?api=1&query=7.437056,134.492667) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ouballang%20ra%20Ngebedech%20%28Ngebedech%20Terraces%29%2C%20Palau) |
 | — | [Tet el Bad (Stone Coffin)](sights/tet-el-bad.yaml) | Attraction | **—** | **Culture 8.6**, **History 8.6** | 7.1 / 8.6 / 8.4 / — / — | [7.719389, 134.613444](https://www.google.com/maps/search/?api=1&query=7.719389,134.613444) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tet%20el%20Bad%20%28Stone%20Coffin%29%2C%20Palau) |
 | — | [Uet el Daob ma Uet el Beluu](sights/uet-el-daob-ma-uet-el-beluu.yaml) | Attraction | **—** | — | — / — / — / — / — | [7.348464, 134.566692](https://www.google.com/maps/search/?api=1&query=7.348464,134.566692) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Uet%20el%20Daob%20ma%20Uet%20el%20Beluu%2C%20Palau) |

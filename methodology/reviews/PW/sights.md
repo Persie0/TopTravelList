@@ -721,3 +721,37 @@
 - Earlier decision: none.
 - Verification still needed: Confirm current opening, displays and access.
 
+### sight-pw-lake-ngardok — Lake Ngardok — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/PW/sights/lake-ngardok.yaml)
+- Action: rescore
+- Precise subject: Lake and permitted trail only; confirm current trail condition.
+- Location check: existing representative point retained; independent coordinate check pending.
+- Evidence status: source-linked-unverified
+- Checked factual reference excerpts (2026-11-25):
+  - PAN confirms freshwater habitat — https://www.palaupanfund.org/ngardok.html
+  - Tourism authority confirms visitor trail — https://pristineparadisepalau.com/happenings/ngardok-nature-reserve-trail-now-open-to-visitors/
+- Missing or uncertain facts: Lake and permitted trail only; confirm current trail condition.
+
+#### Worldwide peer comparisons
+- Tonle Sap (Cambodia, 90.70): larger ecological system
+- Cheow Lan (Thailand, 91.25): more dramatic karst and boat experience
+- Lake Letas (Vanuatu): larger volcanic context
+- Buada Lagoon (Nauru): smaller short stop
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | 7.2 | 7.2 | Pleasant lake and forest |
+| Uniqueness | 7.6 | 7.6 | Distinctive regional freshwater setting but global analogues |
+| Significance | 8.0 | 8.0 | Protected freshwater ecosystem |
+| Experience | null | 7.7 | Established trail access |
+| Depth | null | 6.9 | Focused lake and forest walk |
+
+- Applicable category scores: nature: 8.1, wildlife: 7.8 (unchanged).
+- Computed worldwide overall: 75.05/100
+- High-score challenge: no 9.5+ or 90+ claims introduced.
+- Approved 10 registry: none.
+- Final decision: provisionally ranked on documented visitor scope; not full independent verification.
+- Earlier decision: earlier entry for this ID, originally unranked.
+- Verification still needed: Lake and permitted trail only; confirm current trail condition.
