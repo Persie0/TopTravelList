@@ -1101,3 +1101,35 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [UNESCO](https://whc.unesco.org/en/list/1752/maps/) — accessed 2026-11-25; component name and coordinate verified from table; other factual and visitor claims remain provisional.
 - Verification still needed: permitted visitor access and depth, component-specific architectural or scientific interpretation; narrower international peer selection where relevant.
+
+## Follow-up: documented visitor experiences — 2026-11-25
+
+All entries below assessed as **source-linked-unverified**, not fully fact-checked. I/U/S, categories and UNESCO component coordinates retained; no new 9.5+ fields or perfect scores. Normal visitor scope, not travel difficulty or price, determines E/D. Sources inspected 2026-11-25.
+
+### Struve stations
+
+[National Land Survey tourist information](https://www.maanmittauslaitos.fi/en/about-nls/themes/struve-geodetic-arc/information-tourists) explicitly describes all six Finnish sites, markers, trails, interpretation and access. [UNESCO map register](https://whc.unesco.org/en/list/1187/maps/) establishes each component. The survey station and its immediate interpreted approach are the subject, not the whole park, island or multi-day wilderness trip.
+
+- [aavasaksa-struve-station](../../../countries/FI/sights/aavasaksa-struve-station.yaml): 6.8/8.1/8.6/7.6/6.5 = **75.75**. Summit observation tower and information plaque; not the whole hill or resort.
+- [alatornio-struve-station](../../../countries/FI/sights/alatornio-struve-station.yaml): 6.8/8.1/8.6/7.4/6.3 = **75.25**. Church and survey interpretation; no assumption of public tower access.
+- [mustaviiri-struve-station](../../../countries/FI/sights/mustaviiri-struve-station.yaml): 6.8/8.1/8.6/7.5/6.5 = **75.60**. Island marker and adjacent observation tower; exclude the wider national park, boat time and unrelated island features.
+- [oravivuori-struve-station](../../../countries/FI/sights/oravivuori-struve-station.yaml): 6.8/8.1/8.6/7.8/6.6 = **76.15**. Signposted hill trail, replica survey tower and lake views.
+- [tornikallio-struve-station](../../../countries/FI/sights/tornikallio-struve-station.yaml): 6.8/8.1/8.6/7.2/6.1 = **74.75**. Short hill trail and interpreted borehole, limited physical scope.
+- [stuorrahanoaivi-struve-station](../../../countries/FI/sights/stuorrahanoaivi-struve-station.yaml): 6.8/8.1/8.6/7.0/5.9 = **74.25**. Remote interpreted marker, cairn and tower remains; no credit for the full wilderness approach.
+
+Current worldwide peers for all six: [Jēkabpils (LV)](../../../countries/LV/sights/jekabpils-struve-station.yaml) 6.7/8.0/8.6/7.0/5.8 and [Sestu-kalns (LV)](../../../countries/LV/sights/sestu-kalns-struve-station.yaml) 6.9/8.1/8.6/7.1/6.0, compact marker visits; [Gireišiai (LT)](../../../countries/LT/sights/gireisiai-struve-station.yaml) 6.8/8.0/8.6/7.1/6.0, comparable roadside interpreted marker; [Tartu Observatory (EE)](../../../countries/EE/sights/tartu-observatory.yaml) 7.7/8.7/9.1/8.0/7.7, more extensive museum and scientific context. Finnish observation towers and short trails justify modestly greater visitor depth where present; remote access does not inflate depth.
+
+### Six Aalto Works components
+
+[UNESCO Aalto Works](https://whc.unesco.org/en/list/1752/) confirms serial property identity. [Aalto Foundation guided tours](https://www.alvaraalto.fi/en/services/guided-tours/) and the individual operator sources below establish ordinary authorized visitor scope; the shared inscribed property is not counted in every building's depth.
+
+- [aalto-house](../../../countries/FI/sights/aalto-house.yaml): 8.2/8.9/9.0/8.4/7.3 = **84.75**. One-hour guided house visit and free time, preserved domestic design. [Operator source](https://www.alvaraalto.fi/en/location/the-aalto-house/).
+- [aalto-atelier](../../../countries/FI/sights/aalto-atelier.yaml): 8.2/8.8/8.9/8.4/7.3 = **84.30**. Guided architectural studio visit, not the separate house. [Operator source](https://shop.alvaraalto.fi/en_US/guided-tours).
+- [paimio-sanatorium](../../../countries/FI/sights/paimio-sanatorium.yaml): 8.8/9.3/9.4/8.7/8.0 = **89.50**. Guided building and corridor interpretation, not unrestricted hospital access. [Operator source](https://visit.alvaraalto.fi/en/experiences/paimio-sanatorium/).
+- [muuratsalo-experimental-house](../../../countries/FI/sights/muuratsalo-experimental-house.yaml): 8.3/9.0/9.0/8.4/7.5 = **85.50**. Guided experimental house and grounds, seasonal access. [Operator source](https://www.alvaraalto.fi/en/location/muuratsalo-experimental-house/).
+- [saynatsalo-town-hall](../../../countries/FI/sights/saynatsalo-town-hall.yaml): 8.7/9.1/9.2/8.6/7.7 = **87.85**. Guided town hall and council chamber architecture; exclude lodging experience. [Operator source](https://visit.alvaraalto.fi/en/destinations/saynatsalo-town-hall/).
+- [villa-mairea](../../../countries/FI/sights/villa-mairea.yaml): 8.8/9.3/9.3/8.6/7.7 = **88.85**. Reserved guided villa visit, excluding other estate buildings. [Operator source](https://visit.alvaraalto.fi/en/destinations/ahlstroms-noormarkku-works-in-pori/).
+
+Current worldwide peers for each: [Villa Tugendhat (CZ)](../../../countries/CZ/sights/villa-tugendhat.yaml) 8.8/9.3/9.4/8.7/7.8, strong international domestic modernist reference; [Hundertwasserhaus (AT)](../../../countries/AT/sights/hundertwasserhaus.yaml) 8.1/9.0/8.4/7.6/5.8, mostly exterior residential visit; [Modernist Kaunas (LT)](../../../countries/LT/sights/modernist-kaunas.yaml) 8.8/9.2/9.3/8.8/9.0, far broader urban ensemble; [Tartu Observatory (EE)](../../../countries/EE/sights/tartu-observatory.yaml) 7.7/8.7/9.1/8.0/7.7, bounded interpreted building, different subject. Paimio and Villa Mairea are stronger individual modernist works than the smaller Aalto home/studio; their visitor depth remains below a whole historic urban ensemble. Seven remaining Aalto components and the tentative Saimaa serial property remain unassessed pending site-specific visitor evidence.
+
+All 20 city and 55 sight vectors screened; the 28 missing national parks remain a coverage gap. Targeted editorial review, not comprehensive independent factual/GPS or category verification.
