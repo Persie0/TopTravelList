@@ -1,0 +1,15 @@
+id: sight-ls-molimo-nthuse-pass
+name: "Molimo Nthuse Pass"
+location:
+  country_code: LS
+  latitude: -29.4460
+  longitude: 27.9400
+scores:
+  impact: 8.3
+  uniqueness: 7.9
+  significance: 6.5
+  experience: 8.2
+  depth: 6.7
+  categories:
+    photography: 8.9
+    nature: 8.3
