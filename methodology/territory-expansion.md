@@ -228,3 +228,11 @@ One settlement and eleven sights, including seasonal red crab migration with exp
 ### Cocos (Keeling) Islands coverage — 2026-11-26
 
 Two settlements and ten sights; North Keeling/Pulu Keeling National Park unranked due to lack of public tours. AU directories empty on branch; separate Australia PR #227 at 18f737d screened by filename, no obvious duplicate. Direction Island beach and heritage separate from Rip drift snorkeling; southern lagoon canoe circuit combines named island stops. 2025 marine management plan's historical seagrass loss incorporated; no pristine reef or current recovery assumed. Official access, Direction Island and management plan full text inspected; additional source excerpts reviewed. Some points linked to geographic references, exact GPS and full independent claim verification remain pending, as do cross-branch audit and full CI/regeneration. No new 9.5+ or perfect-ten scores.
+
+### Heard Island and McDonald Islands staged migration — 2026-11-26
+
+| Former ID (AU PR #227) | New ID (PR #234) | Decision |
+| --- | --- | --- |
+| sight-au-heard-mcdonald-islands | sight-hm-heard-mcdonald-islands | Preserve all scores and null experience/depth. |
+
+Original AU record exists only on separate open PR #227 at 18f737d49e0e3ea5e0a6cd5a2a201561a81d024c, not on this branch. [Historical review snapshot](reviews/HM/migration-history-AU.md) retained. **Integration blocker:** remove former active AU YAML and reconcile its review, references and generated pages when integrating the two PRs; do not ship both records. No permanent settlements. One UNESCO property-level assessment, no speculative subsite ratings. Official current AAD transitional management arrangements and UNESCO property coordinates consulted; no current ordinary visitor itinerary established. Full CI and regeneration pending.
