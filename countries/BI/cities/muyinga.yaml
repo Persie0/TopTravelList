@@ -2,8 +2,8 @@ id: city-bi-muyinga
 name: "Muyinga"
 location:
   country_code: BI
-  latitude: -2.85
-  longitude: 30.34
+  latitude: -2.8451
+  longitude: 30.3414
 scores:
   impact: 5.8
   uniqueness: 6.5
