@@ -1,0 +1,15 @@
+id: sight-pt-jeronimos-belem
+name: "Jerónimos Monastery and Belém Tower"
+location:
+  country_code: PT
+  latitude: 38.696
+  longitude: -9.208
+scores:
+  impact: 9.2
+  uniqueness: 9.3
+  significance: 9.4
+  experience: 9.0
+  depth: 9.0
+  categories:
+    architecture: 9.5
+    history: 9.5

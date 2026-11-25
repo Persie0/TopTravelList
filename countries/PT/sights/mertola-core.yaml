@@ -1,0 +1,15 @@
+id: sight-pt-mertola-core
+name: "Historic and archaeological ensemble of Mértola (tentative)"
+location:
+  country_code: PT
+  latitude: 37.638
+  longitude: -7.661
+scores:
+  impact: 8.5
+  uniqueness: 8.9
+  significance: 9.1
+  experience: 8.5
+  depth: 8.6
+  categories:
+    history: 9.3
+    architecture: 9.1

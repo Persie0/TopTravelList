@@ -1,0 +1,15 @@
+id: sight-pt-pombaline-lisbon
+name: "Pombaline Lisbon (tentative)"
+location:
+  country_code: PT
+  latitude: 38.71
+  longitude: -9.139
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 9.2
+  experience: 9.1
+  depth: 9.0
+  categories:
+    architecture: 9.4
+    history: 9.3

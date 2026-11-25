@@ -1,0 +1,14 @@
+id: sight-pt-mid-atlantic-ridge
+name: "Mid-Atlantic Ridge (tentative marine property)"
+location:
+  country_code: PT
+  latitude: 38.0
+  longitude: -29.0
+scores:
+  impact: null
+  uniqueness: 9.4
+  significance: 9.5
+  experience: null
+  depth: null
+  categories:
+    nature: 9.5

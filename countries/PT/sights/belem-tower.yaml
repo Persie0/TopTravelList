@@ -1,0 +1,15 @@
+id: sight-pt-belem-tower
+name: "Belém Tower"
+location:
+  country_code: PT
+  latitude: 38.6916
+  longitude: -9.216
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.3
+    history: 9.3

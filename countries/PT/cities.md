@@ -2,7 +2,7 @@
 
 # Portugal (PT) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**20 ranked** · **0 unassessed** · **20 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,30 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (20)
 
-No cities, towns & villages have been assessed for **Portugal** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Lisbon](cities/lisbon.yaml) | City / town | **92.35** | **Architecture 9.3**, **Culture 9.3**, **History 9.3**, Food 9.2 | 9.2 / 9.2 / 9.2 / 9.3 / 9.4 | [38.7223, -9.1393](https://www.google.com/maps/search/?api=1&query=38.7223,-9.1393) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lisbon%2C%20Portugal) |
+| 2 | [Porto](cities/porto.yaml) | City / town | **91.25** | **Architecture 9.4**, **Photography 9.3**, **History 9.2**, Food 9.1 | 9.2 / 9.1 / 9.0 / 9.2 / 9.1 | [41.1579, -8.6291](https://www.google.com/maps/search/?api=1&query=41.1579,-8.6291) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Porto%2C%20Portugal) |
+| 3 | [Coimbra](cities/coimbra.yaml) | City / town | **88.65** | **History 9.3**, **Architecture 9.2**, **Culture 9.2** | 8.8 / 8.9 / 9.1 / 8.8 / 8.6 | [40.2033, -8.4103](https://www.google.com/maps/search/?api=1&query=40.2033,-8.4103) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Coimbra%2C%20Portugal) |
+| 4 | [Évora](cities/evora.yaml) | City / town | **87.75** | **History 9.3**, **Architecture 9.2**, **Culture 9.0** | 8.8 / 8.8 / 9.0 / 8.7 / 8.3 | [38.571, -7.9135](https://www.google.com/maps/search/?api=1&query=38.571,-7.9135) | [Google Maps](https://www.google.com/maps/search/?api=1&query=%C3%89vora%2C%20Portugal) |
+| 5 | [Guimarães](cities/guimaraes.yaml) | City / town | **87.40** | **History 9.3**, **Architecture 9.2** | 8.7 / 8.8 / 8.9 / 8.8 / 8.3 | [41.444, -8.296](https://www.google.com/maps/search/?api=1&query=41.444,-8.296) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Guimar%C3%A3es%2C%20Portugal) |
+| 6 | [Funchal](cities/funchal.yaml) | City / town | **87.05** | **Food 9.0**, **Relaxation 9.0**, **Architecture 8.8** | 8.7 / 8.7 / 8.5 / 9.0 / 8.7 | [32.6669, -16.9241](https://www.google.com/maps/search/?api=1&query=32.6669,-16.9241) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Funchal%2C%20Portugal) |
+| 7 | [Braga](cities/braga.yaml) | City / town | **86.70** | **History 9.2**, **Architecture 9.1**, **Culture 8.9** | 8.6 / 8.6 / 8.8 / 8.8 / 8.6 | [41.5454, -8.4265](https://www.google.com/maps/search/?api=1&query=41.5454,-8.4265) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Braga%2C%20Portugal) |
+| 8 | [Angra do Heroísmo](cities/angra.yaml) | City / town | **86.30** | **History 9.2**, **Architecture 9.1** | 8.5 / 8.8 / 8.9 / 8.6 / 8.1 | [38.655, -27.216](https://www.google.com/maps/search/?api=1&query=38.655,-27.216) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Angra%20do%20Hero%C3%ADsmo%2C%20Portugal) |
+| 9 | [Sintra](cities/sintra.yaml) | City / town | **86.20** | **Architecture 9.2**, **Photography 9.2** | 8.7 / 8.8 / 8.5 / 8.8 / 7.9 | [38.798, -9.39](https://www.google.com/maps/search/?api=1&query=38.798,-9.39) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sintra%2C%20Portugal) |
+| 10 | [Elvas](cities/elvas.yaml) | City / town | **85.35** | **History 9.2**, **Architecture 9.1** | 8.5 / 8.7 / 8.8 / 8.4 / 7.9 | [38.88, -7.163](https://www.google.com/maps/search/?api=1&query=38.88,-7.163) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Elvas%2C%20Portugal) |
+| 11 | [Mértola](cities/mertola.yaml) | City / town | **85.15** | **History 9.2**, **Architecture 8.9** | 8.4 / 8.7 / 8.8 / 8.4 / 8.0 | [37.638, -7.661](https://www.google.com/maps/search/?api=1&query=37.638,-7.661) | [Google Maps](https://www.google.com/maps/search/?api=1&query=M%C3%A9rtola%2C%20Portugal) |
+| 12 | [Tomar](cities/tomar.yaml) | City / town | **85.00** | **History 9.1**, **Architecture 8.9** | 8.4 / 8.6 / 8.7 / 8.6 / 8.0 | [39.604, -8.413](https://www.google.com/maps/search/?api=1&query=39.604,-8.413) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tomar%2C%20Portugal) |
+| 13 | [Óbidos](cities/obidos.yaml) | City / town | **84.95** | **Photography 9.2**, **Architecture 9.1** | 8.6 / 8.7 / 8.5 / 8.6 / 7.5 | [39.36, -9.157](https://www.google.com/maps/search/?api=1&query=39.36,-9.157) | [Google Maps](https://www.google.com/maps/search/?api=1&query=%C3%93bidos%2C%20Portugal) |
+| 14 | [Lagos](cities/lagos.yaml) | City / town | **84.75** | **History 8.9**, **Relaxation 8.9** | 8.4 / 8.4 / 8.5 / 8.9 / 8.2 | [37.102, -8.674](https://www.google.com/maps/search/?api=1&query=37.102,-8.674) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lagos%2C%20Portugal) |
+| 15 | [Marvão](cities/marvao.yaml) | City / town | **84.55** | **Photography 9.3**, **Architecture 9.0** | 8.8 / 8.6 / 8.3 / 8.5 / 7.3 | [39.394, -7.376](https://www.google.com/maps/search/?api=1&query=39.394,-7.376) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Marv%C3%A3o%2C%20Portugal) |
+| 16 | [Aveiro](cities/aveiro.yaml) | City / town | **84.15** | **Photography 9.0**, **Architecture 8.9** | 8.4 / 8.6 / 8.2 / 8.7 / 8.0 | [40.6405, -8.6538](https://www.google.com/maps/search/?api=1&query=40.6405,-8.6538) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Aveiro%2C%20Portugal) |
+| 17 | [Tavira](cities/tavira.yaml) | City / town | **84.05** | **Architecture 8.9**, **Relaxation 8.9** | 8.4 / 8.4 / 8.4 / 8.7 / 8.0 | [37.127, -7.649](https://www.google.com/maps/search/?api=1&query=37.127,-7.649) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tavira%2C%20Portugal) |
+| 18 | [Ponta Delgada](cities/ponta-delgada.yaml) | City / town | **84.00** | **Architecture 8.9**, **Food 8.8** | 8.2 / 8.5 / 8.4 / 8.7 / 8.3 | [37.7412, -25.6756](https://www.google.com/maps/search/?api=1&query=37.7412,-25.6756) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ponta%20Delgada%2C%20Portugal) |
+| 18 | [Viana do Castelo](cities/viana-do-castelo.yaml) | City / town | **84.00** | **Architecture 8.9**, **Culture 8.8** | 8.4 / 8.4 / 8.4 / 8.6 / 8.1 | [41.693, -8.833](https://www.google.com/maps/search/?api=1&query=41.693,-8.833) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Viana%20do%20Castelo%2C%20Portugal) |
+| 20 | [Faro](cities/faro.yaml) | City / town | **82.95** | **History 8.8**, **Architecture 8.7** | 8.1 / 8.3 / 8.4 / 8.6 / 8.2 | [37.019, -7.93](https://www.google.com/maps/search/?api=1&query=37.019,-7.93) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Faro%2C%20Portugal) |
 
 ---
 

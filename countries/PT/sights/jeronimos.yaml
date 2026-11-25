@@ -1,0 +1,15 @@
+id: sight-pt-jeronimos
+name: "Jerónimos Monastery"
+location:
+  country_code: PT
+  latitude: 38.697
+  longitude: -9.206
+scores:
+  impact: 9.3
+  uniqueness: 9.3
+  significance: 9.4
+  experience: 9.0
+  depth: 8.8
+  categories:
+    architecture: 9.6
+    history: 9.5

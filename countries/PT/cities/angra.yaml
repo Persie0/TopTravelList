@@ -1,0 +1,15 @@
+id: city-pt-angra
+name: "Angra do Heroísmo"
+location:
+  country_code: PT
+  latitude: 38.655
+  longitude: -27.216
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 8.9
+  experience: 8.6
+  depth: 8.1
+  categories:
+    architecture: 9.1
+    history: 9.2

@@ -1,0 +1,15 @@
+id: sight-pt-ponta-piedade
+name: "Ponta da Piedade coastal cliffs"
+location:
+  country_code: PT
+  latitude: 37.08
+  longitude: -8.67
+scores:
+  impact: 9.2
+  uniqueness: 9.0
+  significance: 8.5
+  experience: 9.1
+  depth: 8.4
+  categories:
+    nature: 9.3
+    photography: 9.5
