@@ -71,56 +71,72 @@
 ### Completion and review
 All 60 components individually accounted for. 34 components linked to provisional ranked destinations (including five overlaps), 18 linked to unranked YAML, 8 inventory-only. The preceding stage counts are historical. The parent route remains unranked. No visitor-access guarantee is inferred from official coordinates or heritage listing. All new numeric decisions use the worldwide v2 core weights and preserve site boundaries. Source links reviewed for identity and where available documented ordinary visitor context; independent claim-level verification remains outstanding.
 
-### Component 1351-004 — Road stretch Aculco–San Juan del Río
+### Component 1351-004
+
+**Road stretch Aculco–San Juan del Río**
 
 - Scope: Inscribed historic alignment, not a single destination or modern driving itinerary.
 - Evidence: [UNESCO official component table](https://whc.unesco.org/en/list/1351/maps/); [INAH site-specific inventory](https://lugares.inah.gob.mx/es/node/4614), consulted 2026-11-25. Historic traces associated with the two towns; continuity, safe public foot access and permitted itinerary not established.
 - Decision: Inventory-only, unranked. Impact, uniqueness, significance, experience and depth remain unassessed as a visitor experience. No location pin is added. No existing destination score transferred.
 - Verification needed: Specific authorized ordinary visit, public/private boundaries and representative visitor scope; retain this decision until evidence supports a change.
 
-### Component 1351-006 — Road stretch La Colmena bridge–La Cañada hacienda
+### Component 1351-006
+
+**Road stretch La Colmena bridge–La Cañada hacienda**
 
 - Scope: Linear property incorporating a bridge and estate context.
 - Evidence: [UNESCO official component table](https://whc.unesco.org/en/list/1351/maps/); [INAH site-specific inventory](https://lugares.inah.gob.mx/es/node/4616), consulted 2026-11-25. Historic route context verified, not continuity or authorized end-to-end visitor access; no arbitrary midpoint pin.
 - Decision: Inventory-only, unranked. Impact, uniqueness, significance, experience and depth remain unassessed as a visitor experience. No location pin is added. No existing destination score transferred.
 - Verification needed: Specific authorized ordinary visit, public/private boundaries and representative visitor scope; retain this decision until evidence supports a change.
 
-### Component 1351-020 — Former Hacienda of Ciénega de Mata
+### Component 1351-020
+
+**Former Hacienda of Ciénega de Mata**
 
 - Scope: Former estate ensemble, public access not demonstrated.
 - Evidence: [UNESCO official component table](https://whc.unesco.org/en/list/1351/maps/); [INAH site-specific inventory](https://lugares.inah.gob.mx/es/node/4630), consulted 2026-11-25. Heritage identity verified; private premises and extent of allowed viewing unresolved. No separate pin.
 - Decision: Inventory-only, unranked. Impact, uniqueness, significance, experience and depth remain unassessed as a visitor experience. No location pin is added. No existing destination score transferred.
 - Verification needed: Specific authorized ordinary visit, public/private boundaries and representative visitor scope; retain this decision until evidence supports a change.
 
-### Component 1351-023 — Former Hacienda of Cieneguilla
+### Component 1351-023
+
+**Former Hacienda of Cieneguilla**
 
 - Scope: Historic estate, settlement and former workers' dwellings.
 - Evidence: [UNESCO official component table](https://whc.unesco.org/en/list/1351/maps/); [INAH site-specific inventory](https://lugares.inah.gob.mx/es/node/4633), consulted 2026-11-25. INAH documents Jesuit estate history and built ensemble; occupied dwelling/private property boundaries and ordinary public scope unclear. No separate pin. https://catalogonacionalmhi.inah.gob.mx/consulta_publica/detalle/99448
 - Decision: Inventory-only, unranked. Impact, uniqueness, significance, experience and depth remain unassessed as a visitor experience. No location pin is added. No existing destination score transferred.
 - Verification needed: Specific authorized ordinary visit, public/private boundaries and representative visitor scope; retain this decision until evidence supports a change.
 
-### Component 1351-035 — Road stretch Ojocaliente–Zacatecas
+### Component 1351-035
+
+**Road stretch Ojocaliente–Zacatecas**
 
 - Scope: Historic route between mining and administrative settlements, not a modern navigation route.
 - Evidence: [UNESCO official component table](https://whc.unesco.org/en/list/1351/maps/); [INAH site-specific inventory](https://lugares.inah.gob.mx/es/node/4646), consulted 2026-11-25. INAH documents silver transport function and historic section; continuous public route and surviving pavement condition unresolved.
 - Decision: Inventory-only, unranked. Impact, uniqueness, significance, experience and depth remain unassessed as a visitor experience. No location pin is added. No existing destination score transferred.
 - Verification needed: Specific authorized ordinary visit, public/private boundaries and representative visitor scope; retain this decision until evidence supports a change.
 
-### Component 1351-036 — Cave of Ávalos
+### Component 1351-036
+
+**Cave of Ávalos**
 
 - Scope: Protected archaeological cave landscape, no visit or precise site marker inferred.
 - Evidence: [UNESCO official component table](https://whc.unesco.org/en/list/1351/maps/); [INAH site-specific inventory](https://lugares.inah.gob.mx/es/node/4647), consulted 2026-11-25. INAH identifies historic vantage point and cave context; no approved ordinary visitor route verified. Avoid a destination pin at an archaeological site.
 - Decision: Inventory-only, unranked. Impact, uniqueness, significance, experience and depth remain unassessed as a visitor experience. No location pin is added. No existing destination score transferred.
 - Verification needed: Specific authorized ordinary visit, public/private boundaries and representative visitor scope; retain this decision until evidence supports a change.
 
-### Component 1351-056 — Road stretch Nazas–San Pedro del Gallo
+### Component 1351-056
+
+**Road stretch Nazas–San Pedro del Gallo**
 
 - Scope: Long linear historic route, not a single navigable sight.
 - Evidence: [UNESCO official component table](https://whc.unesco.org/en/list/1351/maps/); [INAH site-specific inventory](https://lugares.inah.gob.mx/es/node/4667), consulted 2026-11-25. INAH describes roughly 50 km historic connection across former presidio region; exact ordinary visitor route, safe conditions and access unverified.
 - Decision: Inventory-only, unranked. Impact, uniqueness, significance, experience and depth remain unassessed as a visitor experience. No location pin is added. No existing destination score transferred.
 - Verification needed: Specific authorized ordinary visit, public/private boundaries and representative visitor scope; retain this decision until evidence supports a change.
 
-### Component 1351-058 — Cave of Las Mulas de Molino
+### Component 1351-058
+
+**Cave of Las Mulas de Molino**
 
 - Scope: Protected rock-art cave, not a public excursion destination unless permissions established.
 - Evidence: [UNESCO official component table](https://whc.unesco.org/en/list/1351/maps/); [INAH site-specific inventory](https://lugares.inah.gob.mx/es/node/4669), consulted 2026-11-25. INAH describes historic rock art related to colonial-era introduced animals and exchange; approved visitor access not established. No sensitive pin.

@@ -1213,10 +1213,10 @@ See [60-component coverage register](camino-real-coverage.md). Existing overlapp
 ### Worldwide peers
 | Peer | Relative comparison |
 | --- | --- |
-| [Hallstatt](../../../countries/AT/cities/hallstatt.yaml) | Less coherent scenic setting than Hallstatt |
-| [Port Elizabeth](../../../countries/VC/cities/port-elizabeth-bequia.yaml) | Smaller public urban circuit than Port Elizabeth |
-| [Speightstown](../../../countries/BB/cities/speightstown.yaml) | Less intact commercial townscape than Speightstown |
-| [Placencia](../../../countries/BZ/cities/placencia-village.yaml) | More historical settlement identity than Placencia |
+| [Hallstatt](../../../countries/AT/cities/hallstatt.yaml) | Less scenic mountain setting than Hallstatt |
+| [Port Elizabeth](../../../countries/VC/cities/port-elizabeth-bequia.yaml) | Former presidio and small plaza, rather than Port Elizabeth's harbor streets |
+| [Speightstown](../../../countries/BB/cities/speightstown.yaml) | Much smaller surviving civic fabric than Speightstown |
+| [Placencia](../../../countries/BZ/cities/placencia-village.yaml) | Stronger colonial military heritage than Placencia, but fewer visitor activities |
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -1248,10 +1248,10 @@ See [60-component coverage register](camino-real-coverage.md). Existing overlapp
 ### Worldwide peers
 | Peer | Relative comparison |
 | --- | --- |
-| [Hallstatt](../../../countries/AT/cities/hallstatt.yaml) | Less coherent scenic setting than Hallstatt |
-| [Port Elizabeth](../../../countries/VC/cities/port-elizabeth-bequia.yaml) | Smaller public urban circuit than Port Elizabeth |
-| [Speightstown](../../../countries/BB/cities/speightstown.yaml) | Less intact commercial townscape than Speightstown |
-| [Placencia](../../../countries/BZ/cities/placencia-village.yaml) | More historical settlement identity than Placencia |
+| [Hallstatt](../../../countries/AT/cities/hallstatt.yaml) | Less coherent alpine setting than Hallstatt |
+| [Port Elizabeth](../../../countries/VC/cities/port-elizabeth-bequia.yaml) | Inland parish and mining history rather than Port Elizabeth's harbor character |
+| [Speightstown](../../../countries/BB/cities/speightstown.yaml) | Smaller historic street circuit than Speightstown |
+| [Placencia](../../../countries/BZ/cities/placencia-village.yaml) | More mining and civic heritage than Placencia, but less leisure breadth |
 
 ### Scoring decisions
 | Field | Rating | Individual justification |

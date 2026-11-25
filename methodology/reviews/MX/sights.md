@@ -3372,10 +3372,10 @@ See [60-component coverage register](camino-real-coverage.md). Existing overlapp
 ### Worldwide peers
 | Peer | Relative comparison |
 | --- | --- |
-| [Hohensalzburg Fortress](../../../countries/AT/sights/hohensalzburg-fortress.yaml) | Far less monumentality than Hohensalzburg |
-| [Bridgetown Garrison](../../../countries/BB/sights/historic-bridgetown-and-its-garrison.yaml) | Much smaller built scope than Bridgetown Garrison |
-| [Pigeon Island](../../../countries/LC/sights/pigeon-island-national-landmark.yaml) | Less landscape breadth than Pigeon Island |
-| [Fort Hamilton](../../../countries/VC/sights/fort-hamilton-bequia.yaml) | Comparable compact heritage focus but different architecture from Fort Hamilton |
+| [Hohensalzburg Fortress](../../../countries/AT/sights/hohensalzburg-fortress.yaml) | Far less monumental than Hohensalzburg |
+| [Bridgetown Garrison](../../../countries/BB/sights/historic-bridgetown-and-its-garrison.yaml) | More concentrated charitable and hospital heritage than Garrison, much smaller ensemble |
+| [Pigeon Island](../../../countries/LC/sights/pigeon-island-national-landmark.yaml) | More focused religious architecture than Pigeon Island |
+| [Fort Hamilton](../../../countries/VC/sights/fort-hamilton-bequia.yaml) | More interior religious context than Fort Hamilton, no comparable fortress viewpoint |
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -3477,10 +3477,10 @@ See [60-component coverage register](camino-real-coverage.md). Existing overlapp
 ### Worldwide peers
 | Peer | Relative comparison |
 | --- | --- |
-| [Hohensalzburg Fortress](../../../countries/AT/sights/hohensalzburg-fortress.yaml) | Far less monumentality than Hohensalzburg |
-| [Bridgetown Garrison](../../../countries/BB/sights/historic-bridgetown-and-its-garrison.yaml) | Much smaller built scope than Bridgetown Garrison |
-| [Pigeon Island](../../../countries/LC/sights/pigeon-island-national-landmark.yaml) | Less landscape breadth than Pigeon Island |
-| [Fort Hamilton](../../../countries/VC/sights/fort-hamilton-bequia.yaml) | Comparable compact heritage focus but different architecture from Fort Hamilton |
+| [Hohensalzburg Fortress](../../../countries/AT/sights/hohensalzburg-fortress.yaml) | Far less architectural mass than Hohensalzburg |
+| [Bridgetown Garrison](../../../countries/BB/sights/historic-bridgetown-and-its-garrison.yaml) | Single engineering structure rather than Garrison's extensive urban ensemble |
+| [Pigeon Island](../../../countries/LC/sights/pigeon-island-national-landmark.yaml) | Less landscape and exploration depth than Pigeon Island |
+| [Fort Hamilton](../../../countries/VC/sights/fort-hamilton-bequia.yaml) | Smaller visitor scope than Fort Hamilton, but distinctive historic vault geometry |
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
