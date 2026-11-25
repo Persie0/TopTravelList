@@ -1,0 +1,16 @@
+id: city-lb-tripoli
+name: "Tripoli"
+location:
+  country_code: LB
+  latitude: 34.4367
+  longitude: 35.8497
+scores:
+  impact: 8.4
+  uniqueness: 8.7
+  significance: 8.8
+  experience: null
+  depth: 8.4
+  categories:
+    architecture: 9.1
+    history: 9.2
+    culture: 9.0

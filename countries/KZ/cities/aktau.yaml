@@ -1,0 +1,15 @@
+id: city-kz-aktau
+name: "Aktau"
+location:
+  country_code: KZ
+  latitude: 43.653
+  longitude: 51.197
+scores:
+  impact: 7.4
+  uniqueness: 7.7
+  significance: 6.6
+  experience: 8.0
+  depth: 7.3
+  categories:
+    relaxation: 8.3
+    photography: 8.2
