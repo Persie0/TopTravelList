@@ -386,4 +386,3 @@
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide score; Markets and umbrella craft; Limited urban sightseeing breadth.
 - Verification still needed: current access, exact coordinates, material claims and live peer scores.
-
