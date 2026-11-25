@@ -18,8 +18,8 @@
 ### Worldwide peer comparisons
 - Iguazú Falls (Argentina/Brazil): Global waterfall benchmark; peer YAML not verified.
 - [Krimml Waterfalls (AT)](../../../countries/AT/sights/krimml-waterfalls.yaml): 9.0/9.0/8.5/9.1/8.3; extensive cascade routes but smaller scale.
-- Kuang Si Falls (Laos): Regional forest waterfall; score unverified.
-- Victoria Falls (Zambian side, pending PR #207): 9.8/9.8/9.7/9.5/9.2; verified on Zambia branch, same transboundary cataract but distinct viewpoint access.
+- [Kuang Si Waterfalls (LA)](../../../countries/LA/sights/kuang-si-waterfalls.yaml): 9.4/9.2/8.0/9.3/8.6; smaller forest cascade and established pools.
+- [Victoria Falls (Zambian side, ZM)](../../../countries/ZM/sights/victoria-falls.yaml): 9.8/9.8/9.7/9.5/9.2; verified on merged main, same transboundary cataract but distinct viewpoint access.
 
 ### Scoring decisions
 - Impact: 9.8 — Enormous waterfall curtain and gorge.
@@ -46,6 +46,7 @@
   - https://whc.unesco.org/en/list/364/maps/
   - https://www.nmmz.co.zw/world-heritage-sites/
   - https://zimbabwetourism.net/destinations/
+  - https://www.nmmz.co.zw/southern-region-masvingo/ — heritage manager describes Hill Complex, Great Enclosure, Valley Ruins and visitor cultural village; https://www.greatzimbabwewhs.com/ — interpretation and visitor facilities. Accessed 2026-11-25.
 - Missing facts: Current conditions and complete independent claim verification.
 
 ### Worldwide peer comparisons
@@ -62,7 +63,7 @@
 - Depth: 9.1 — Several distinct complexes and interpretation.
 - Applicable categories: architecture 9.6, history 9.7, culture 9.4.
 - Overall: 94.05/100.
-- High-score challenge: Uniqueness/architecture 9.6 and significance/history 9.7 reflect monumental dry-stone architecture and trade-state history. Mogao preserves a broader artistic record; Ayutthaya has greater monumental visitor breadth. No perfect fields.
+- High-score challenge: 94.05 justified by monumental dry-stone construction and historical trade-state significance across the documented complexes. Uniqueness/architecture 9.6 and significance/history 9.7 retained; lower visitor breadth than Ayutthaya and artistic breadth than Mogao. Sacred access not assumed.
 - Approved 10 registry: none.
 - Final decision: Provisional editorial rating, not independently fact-checked.
 - Verification still needed: current access, exact points where provisional, remaining peer scores and individual claim-level evidence.
@@ -144,6 +145,7 @@
   - https://whc.unesco.org/en/list/302/
   - https://www.wetlandscop15.gov.zw/service/mana-pools-national-park/
   - https://www.heritage.world/sites/mana-pools-national-park-sapi-and-chewore-safari/
+  - https://book.zimparks.org.zw/booking_faqs — manager documents river camping; https://tourismzim.gov.zw/ — walking, canoeing and wildlife-viewing activities. Accessed 2026-11-25.
 - Missing facts: Current conditions and complete independent claim verification.
 
 ### Worldwide peer comparisons
@@ -160,7 +162,7 @@
 - Depth: 9.3 — Multiple pools and river habitats.
 - Applicable categories: nature 9.6, wildlife 9.7, adventure 9.4.
 - Overall: 94.65/100.
-- High-score challenge: Impact/uniqueness/significance 9.5, nature 9.6 and wildlife 9.7 reflect distinctive floodplain ecology and walking/river viewing opportunities. Okavango remains stronger in habitat and visitor breadth; sightings variable.
+- High-score challenge: 94.65 reflects the documented riverine viewing and walking safari setting; nature 9.6, wildlife 9.7 below Okavango 9.9, not credit for adjoining concessions.
 - Approved 10 registry: none.
 - Final decision: Provisional editorial rating, not independently fact-checked.
 - Verification still needed: current access, exact points where provisional, remaining peer scores and individual claim-level evidence.
@@ -208,6 +210,7 @@
   - https://whc.unesco.org/en/list/302/
   - https://mapcarta.com/26993848
   - https://visitntumbe.org/visit-ntumbe
+  - https://visitntumbe.org/about-us — operator identifies first non-hunting commercial safari in 2026; https://visitntumbe.org/visit-ntumbe — camping and permitted fossil-site visits. Accessed 2026-11-25.
 - Missing facts: Current conditions and complete independent claim verification.
 
 ### Worldwide peer comparisons
@@ -224,7 +227,7 @@
 - Depth: 8.5 — Several approved activities, not entire concession network.
 - Applicable categories: nature 9.2, wildlife 9.2.
 - Overall: 88.80/100.
-- High-score challenge: Not applicable.
+- High-score challenge: Not applicable; score reflects limited documented Ntumbe visitor circuit only, not all Chewore or its biodiversity.
 - Approved 10 registry: none.
 - Final decision: Provisional editorial rating, not independently fact-checked.
 - Verification still needed: current access, exact points where provisional, remaining peer scores and individual claim-level evidence.
@@ -240,6 +243,7 @@
   - https://www.zimparks.org.zw/hwange-national-park/
   - https://mapcarta.com/14125558
   - https://visithwange.com/map/
+  - https://book.zimparks.org.zw/booking_faqs — manager documents Hwange camps and public picnic sites; https://tourismzim.gov.zw/ — tourism ministry describes game drives and wildlife encounters. Accessed 2026-11-25.
 - Missing facts: Current conditions and complete independent claim verification.
 
 ### Worldwide peer comparisons
@@ -256,7 +260,7 @@
 - Depth: 9.4 — Multiple habitat zones and observation points.
 - Applicable categories: nature 9.4, wildlife 9.7.
 - Overall: 93.30/100.
-- High-score challenge: Wildlife 9.7 reflects exceptional elephant habitat and documented waterhole viewing; not guaranteed encounters or greater ecosystem diversity than Okavango.
+- High-score challenge: Wildlife 9.7 credits established seasonal waterhole observation, not a species inventory or guaranteed sightings; below Okavango wildlife 9.9.
 - Approved 10 registry: none.
 - Final decision: Provisional editorial rating, not independently fact-checked.
 - Verification still needed: current access, exact points where provisional, remaining peer scores and individual claim-level evidence.
@@ -272,6 +276,7 @@
   - https://whc.unesco.org/en/tentativelists/6936/
   - https://gonarezhou.org/visit-gonarezhou-national-park/
   - https://www.africa-safaris.com/parks-details/gonarezhou-national-park/getting-there
+  - https://gonarezhou.org/visit-gonarezhou-national-park/day-visitors/ — manager documents Chilojo Cliffs, registered guides and game drives. Accessed 2026-11-25.
 - Missing facts: Current conditions and complete independent claim verification.
 
 ### Worldwide peer comparisons
@@ -288,7 +293,7 @@
 - Depth: 9.0 — Varied circuits and habitats.
 - Applicable categories: nature 9.4, wildlife 9.4, photography 9.3.
 - Overall: 91.70/100.
-- High-score challenge: Distinct documented landscape and visitor scope; still below world-leading peers in breadth.
+- High-score challenge: 91.70 reflects distinct cliffs, river and savanna landscape and documented drives; below Okavango on habitat and visitor breadth, no guarantee of wildlife.
 - Approved 10 registry: none.
 - Final decision: Provisional editorial rating, not independently fact-checked.
 - Verification still needed: current access, exact points where provisional, remaining peer scores and individual claim-level evidence.
@@ -329,15 +334,17 @@
 ## sight-zw-mavhuradonha-wilderness — Mavhuradonha Wilderness — 2026-11-25
 
 - YAML: [source](../../../countries/ZW/sights/mavhuradonha-wilderness.yaml)
-- Action: new
+- Action: second-pass reassessment; original decision preserved in [verification history](verification-2026-11-25.md)
 - Precise subject: Tentative wilderness; botanical record at eco-lodge resolves inconsistent nomination latitude, not full-area centre. Sacred access not assumed.
 - Location check: -16.46624, 31.05298; representative point.
-- Evidence status: **unassessed**
+- Evidence status: **source-linked-unverified**
 - Sources (2026-11-25; identity, heritage, geographic point and/or visitor scope; independent claim-level verification incomplete):
   - https://whc.unesco.org/en/tentativelists/6923/
   - https://www.birdlifezimbabwe.org/z002-mavuradonha-mountains/
   - https://www.zimbabweflora.co.zw/speciesdata/species-record.php?record_id=49804
-- Missing facts: Normal permitted visitor experience or accessible scope insufficiently documented.
+  - https://www.wildzambezi.com/locations/12/mavuradonha — describes lodge-based walks, gorge views and limited facilities.
+  - https://explorelocally.co.zw/listings/hiking-trails/ — local trail directory identifies rugged guided route. Both accessed 2026-11-25; no current access guarantee.
+- Missing facts: precise permitted routes, sacred-site consent and current conditions.
 
 ### Worldwide peer comparisons
 - [Okavango Delta (BW)](../../../countries/BW/sights/okavango-delta.yaml): 9.8/9.9/9.8/9.5/9.8; world-leading habitat and activity diversity.
@@ -349,13 +356,13 @@
 - Impact: 8.5 — Escarpment and mountain scenery.
 - Uniqueness: 9.1 — Distinct combination of rock art and wilderness.
 - Significance: 9.2 — Important archaeological and ecological heritage.
-- Experience: null — Current ordinary visitor routes not verified.
-- Depth: null — Accessible scope unknown.
+- Experience: 8.0 — documented lodge-based guided hiking, limited infrastructure.
+- Depth: 8.1 — multiple escarpment trail perspectives and waterfalls; no credit for undocumented sacred sites.
 - Applicable categories: nature 9.2, history 9.2, culture 9.0.
-- Overall: unranked.
+- Overall: 87.15/100.
 - High-score challenge: Not applicable.
 - Approved 10 registry: none.
-- Final decision: Partial assessment, no overall total.
+- Final decision: Provisional complete rating for documented hiking scope.
 - Verification still needed: current access, exact points where provisional, remaining peer scores and individual claim-level evidence.
 
 ## sight-zw-naletale-ruins — Naletale Ruins — 2026-11-25
@@ -515,7 +522,136 @@
 - Final decision: Provisional editorial rating, not independently fact-checked.
 - Verification still needed: current access, exact points where provisional, remaining peer scores and individual claim-level evidence.
 
+## sight-zw-eland-sanctuary — Chimanimani Eland Sanctuary — 2026-11-25
+
+- YAML: [source](../../../countries/ZW/sights/eland-sanctuary.yaml)
+- Action: new
+- Precise subject: Separate 18 km² sanctuary in the tentative Chimanimani cluster, not the national park.
+- Location check: -19.792592, 32.862757; Kew field-survey report Annex 3 p. 92, checked against rendered table, representative locality not a visitor entrance or boundary. Field-survey locality, distinct from town and main park.
+- Evidence status: **unassessed**
+- Sources (accessed 2026-11-25):
+  - https://whc.unesco.org/en/tentativelists/6922/ — named component and area.
+  - https://www.kew.org/sites/default/files/Chimanimani%20CEPF%20report%202016_FINAL.pdf — 2016 georeferenced locality and regional botanical context, p. 92.
+  - https://www.keybiodiversityareas.org/en/site/factsheet/7214 — regional conservation context, not evidence of authorized visits.
+- Missing facts: current integrity, component-specific public access and visitor-visible scope.
+
+### Worldwide peer comparisons
+- [Okavango Delta (BW)](../../../countries/BW/sights/okavango-delta.yaml): 9.8/9.9/9.8/9.5/9.8; much wider established visitor and habitat scope.
+- [Khao Yai (TH)](../../../countries/TH/sights/khao-yai-national-park.yaml): 9.0/9.1/9.0/9.0/9.2; established forest visitor routes.
+- [Sehlabathebe (LS)](../../../countries/LS/sights/sehlabathebe-national-park.yaml): 9.1/9.0/9.3/8.6/8.8; broader montane visitor landscape.
+- [Chimanimani National Park (ZW)](../../../countries/ZW/sights/chimanimani-national-park.yaml): 9.0/9.1/9.2/8.7/8.8; adjacent but distinct established hiking circuit; no transfer of score.
+
+### Scoring decisions
+- Impact: null — current visitor-visible features not established.
+- Uniqueness: null — separate component comparative assessment incomplete.
+- Significance: null — component-level evaluation incomplete; do not transfer whole nomination.
+- Experience: null — no ordinary permitted visitor circuit established.
+- Depth: null — no documented visitor breadth.
+- Applicable categories: none assessed.
+- Overall: unranked.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: inventory only, no inferred public access.
+- Verification still needed: component condition, permission and scope.
+
+## sight-zw-haroni-botanical-reserve — Haroni Botanical Reserve — 2026-11-25
+
+- YAML: [source](../../../countries/ZW/sights/haroni-botanical-reserve.yaml)
+- Action: new
+- Precise subject: Separate 0.2 km² botanical reserve, not the Haroni–Mukurupini forest inside the national park.
+- Location check: -20.026493, 33.025366; Kew field-survey report Annex 3 p. 92, checked against rendered table, representative locality not a visitor entrance or boundary. KBA notes substantial historical forest clearance; current integrity and permitted public scope unresolved.
+- Evidence status: **unassessed**
+- Sources (accessed 2026-11-25):
+  - https://whc.unesco.org/en/tentativelists/6922/ — named component and area.
+  - https://www.kew.org/sites/default/files/Chimanimani%20CEPF%20report%202016_FINAL.pdf — 2016 georeferenced locality and regional botanical context, p. 92.
+  - https://www.keybiodiversityareas.org/en/site/factsheet/7214 — regional conservation context, not evidence of authorized visits.
+- Missing facts: current integrity, component-specific public access and visitor-visible scope.
+
+### Worldwide peer comparisons
+- [Okavango Delta (BW)](../../../countries/BW/sights/okavango-delta.yaml): 9.8/9.9/9.8/9.5/9.8; much wider established visitor and habitat scope.
+- [Khao Yai (TH)](../../../countries/TH/sights/khao-yai-national-park.yaml): 9.0/9.1/9.0/9.0/9.2; established forest visitor routes.
+- [Sehlabathebe (LS)](../../../countries/LS/sights/sehlabathebe-national-park.yaml): 9.1/9.0/9.3/8.6/8.8; broader montane visitor landscape.
+- [Chimanimani National Park (ZW)](../../../countries/ZW/sights/chimanimani-national-park.yaml): 9.0/9.1/9.2/8.7/8.8; adjacent but distinct established hiking circuit; no transfer of score.
+
+### Scoring decisions
+- Impact: null — current visitor-visible features not established.
+- Uniqueness: null — separate component comparative assessment incomplete.
+- Significance: null — component-level evaluation incomplete; do not transfer whole nomination.
+- Experience: null — no ordinary permitted visitor circuit established.
+- Depth: null — no documented visitor breadth.
+- Applicable categories: none assessed.
+- Overall: unranked.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: inventory only, no inferred public access.
+- Verification still needed: component condition, permission and scope.
+
+## sight-zw-rusitu-botanical-reserve — Rusitu Botanical Reserve — 2026-11-25
+
+- YAML: [source](../../../countries/ZW/sights/rusitu-botanical-reserve.yaml)
+- Action: new
+- Precise subject: Separate 1.5 km² botanical reserve in the Rusitu valley, not the entire river basin or Haroni reserve.
+- Location check: -20.024496, 32.992742; Kew field-survey report Annex 3 p. 94, checked against rendered table, representative locality not a visitor entrance or boundary. KBA documents remnant forest; current integrity and permitted visitor scope unresolved.
+- Evidence status: **unassessed**
+- Sources (accessed 2026-11-25):
+  - https://whc.unesco.org/en/tentativelists/6922/ — named component and area.
+  - https://www.kew.org/sites/default/files/Chimanimani%20CEPF%20report%202016_FINAL.pdf — 2016 georeferenced locality and regional botanical context, p. 94.
+  - https://www.keybiodiversityareas.org/en/site/factsheet/7214 — regional conservation context, not evidence of authorized visits.
+- Missing facts: current integrity, component-specific public access and visitor-visible scope.
+
+### Worldwide peer comparisons
+- [Okavango Delta (BW)](../../../countries/BW/sights/okavango-delta.yaml): 9.8/9.9/9.8/9.5/9.8; much wider established visitor and habitat scope.
+- [Khao Yai (TH)](../../../countries/TH/sights/khao-yai-national-park.yaml): 9.0/9.1/9.0/9.0/9.2; established forest visitor routes.
+- [Sehlabathebe (LS)](../../../countries/LS/sights/sehlabathebe-national-park.yaml): 9.1/9.0/9.3/8.6/8.8; broader montane visitor landscape.
+- [Chimanimani National Park (ZW)](../../../countries/ZW/sights/chimanimani-national-park.yaml): 9.0/9.1/9.2/8.7/8.8; adjacent but distinct established hiking circuit; no transfer of score.
+
+### Scoring decisions
+- Impact: null — current visitor-visible features not established.
+- Uniqueness: null — separate component comparative assessment incomplete.
+- Significance: null — component-level evaluation incomplete; do not transfer whole nomination.
+- Experience: null — no ordinary permitted visitor circuit established.
+- Depth: null — no documented visitor breadth.
+- Applicable categories: none assessed.
+- Overall: unranked.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: inventory only, no inferred public access.
+- Verification still needed: component condition, permission and scope.
+
+## sight-zw-natural-history-museum — Natural History Museum of Zimbabwe — 2026-11-25
+
+- YAML: [source](../../../countries/ZW/sights/natural-history-museum.yaml)
+- Action: new
+- Precise subject: Bulawayo museum building and public display galleries, not the entire city, research storage or live wildlife viewing.
+- Location check: -20.1558, 28.59642; named OSM building way 370210613, corroborated by city council address.
+- Evidence status: **source-linked-unverified**
+- Sources (accessed 2026-11-25):
+  - https://naturalhistorymuseumzimbabwe.com/ — museum states nine public display galleries and research departments.
+  - https://www.nmmz.co.zw/western-region-bulawayo/ — national heritage manager confirms museum collections and opening in 1964.
+  - https://www.citybyo.co.zw/Attractions/NaturalHistoryMuseum — city council confirms public exhibits.
+  - https://mapcarta.com/W370210613 — named building coordinate.
+- Missing facts: current individual gallery availability and independent claim-level verification.
+
+### Worldwide peer comparisons
+- [National Museum of Korea (KR)](../../../countries/KR/sights/national-museum-of-korea.yaml): 9.1/9.3/9.4/9.3/9.6; broader major museum collection, different theme.
+- [National Museum of Cambodia (KH)](../../../countries/KH/sights/national-museum-cambodia.yaml): 8.8/9.1/9.3/9.1/8.8; more distinctive architecture and archaeology.
+- [Livingstone Museum (ZM)](../../../countries/ZM/sights/livingstone-museum.yaml): 8.0/8.5/8.9/8.5/8.5; comparable regional institution, fewer stated galleries.
+- [National Museum of the DRC (CD)](../../../countries/CD/sights/national-museum-drc.yaml): 7.9/8.5/8.9/8.4/8.3; comparable national heritage museum.
+
+### Scoring decisions
+- Impact: 8.2 — substantial natural history displays in a distinctive circular building.
+- Uniqueness: 8.6 — distinct regional natural science collection, comparable museums worldwide.
+- Significance: 8.9 — important national scientific and cultural institution.
+- Experience: 8.7 — documented public galleries and interpretation.
+- Depth: 8.9 — nine public galleries with geology, fauna and historical themes, no credit for inaccessible research storage.
+- Applicable categories: history 9.0, culture 8.6, family 8.7.
+- Overall: 85.85/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: provisional editorial rating.
+- Verification still needed: current gallery access and precise exhibit scope.
+
 ## Inventory coverage and backlog
 
-[UNESCO country inventory](https://whc.unesco.org/en/statesparties/ZW/) lists five inscribed and five tentative properties, all represented at property or component level. Mana Pools, Sapi and Chewore are distinct records. Chimanimani's Eland sanctuary, Rusitu and Haroni botanical reserves remain outstanding; Naletale satellite ruins likewise. Additional museums, Lake Kariba, individual Matobo rock-art sites, Bvumba and other regional attractions remain backlog. No exhaustive inventory or full component coverage claimed.
+[UNESCO country inventory](https://whc.unesco.org/en/statesparties/ZW/) lists five inscribed and five tentative properties, all represented at property or component level. Mana Pools, Sapi and Chewore are distinct records. All four Chimanimani components now inventoried; the three reserves remain unassessed. Naletale satellite ruins remain outstanding (UNESCO names Nsalansala, Arupanga, Shangangwe, Bhila, Gwenaguru, Belmont and Lawdale; exact points not confirmed). Additional museums, Lake Kariba, individual Matobo rock-art sites, Bvumba and other regional attractions remain backlog. No exhaustive inventory or full component coverage claimed.
 
