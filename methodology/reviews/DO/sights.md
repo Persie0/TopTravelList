@@ -1054,6 +1054,21 @@ Initial inventory, not exhaustive. [UNESCO country list](https://whc.unesco.org/
 - Earlier decision: none.
 - Verification still needed: Location and ordinary permitted access.
 
+
+### Reassessment — 2026-11-25 (visitor evidence follow-up)
+
+- Supersedes earlier unranked decision. Evidence status: **source-linked-unverified**.
+- Scope: Public park and permitted exterior ruin views only; no unrestricted entry inferred.
+- Evidence: [Provincial government tourism](https://gobernaciondesantodomingo.gob.do/turismo/), [Dominican film agency location inventory](https://dgcine.gob.do/locaciones/en/location/ingenio-santa-ana-de-engombe/); reviewed for visitor scope, not independent confirmation of all site claims or current opening. Earlier coordinates retained, not independently verified.
+- Prior core values: impact: null;   uniqueness: null;   significance: null;   experience: null;   depth: null.
+- Updated dimensions: Impact 7.4 — Historic ruin landscape; Uniqueness 8.1 — distinctive early sugar-estate building remains; Significance 8.6 — colonial industry and enslaved labor heritage; Experience 7.6 — public ecotourism landscape visit; Depth 7.1 — several ruins, not a verified museum circuit..
+- Worldwide peer comparisons: Much less monumental than Angkor Wat; less extensive archaeological fabric than Caracol; less interpreted interior than Nidhe Israel; broader built remains than Layou.
+- Applicable categories: history: 9.0; architecture: 8.2.
+- Overall: 78.15/100.
+- High-score challenge: Not applicable. No approved 10.
+- Final decision: Provisional editorial rating for the named permitted visitor scope only; current operations and exact geography remain unverified.
+
+
 ## sight-do-palave-sugar-mill — Ingenio de Palavé — 2026-11-25
 
 - YAML: [source](../../../countries/DO/sights/palave-sugar-mill.yaml)
