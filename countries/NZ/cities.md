@@ -13,7 +13,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 ## Complete ranked list (12)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
-| ---: | --- | --- | ---: | --- | --- | --- | --- | --- |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
 | 1 | [Rotorua](cities/rotorua.yaml) | City / town | **85.10** | **Culture 9.0**, **Nature 8.7** | 8.1 / 8.8 / 8.6 / 8.8 / 8.4 | [-38.1378, 176.2514](https://www.google.com/maps/search/?api=1&query=-38.1378,176.2514) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Rotorua%2C%20New%20Zealand) |
 | 2 | [Queenstown](cities/queenstown.yaml) | City / town | **84.40** | **Adventure 9.2**, **Nature 9.0**, **Photography 9.0** | 9.0 / 8.5 / 7.1 / 9.1 / 8.3 | [-45.03111, 168.6625](https://www.google.com/maps/search/?api=1&query=-45.03111,168.6625) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Queenstown%2C%20New%20Zealand) |
 | 3 | [Wellington](cities/wellington.yaml) | City / town | **82.45** | **Culture 8.9**, **Food 8.6**, **History 8.2** | 8.0 / 8.1 / 8.5 / 8.6 / 8.3 | [-41.287, 174.776](https://www.google.com/maps/search/?api=1&query=-41.287,174.776) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Wellington%2C%20New%20Zealand) |
