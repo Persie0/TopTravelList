@@ -1,0 +1,16 @@
+id: city-bo-san-ignacio-de-velasco
+name: "San Ignacio de Velasco"
+location:
+  country_code: BO
+  latitude: -16.3750
+  longitude: -60.9620
+scores:
+  impact: 7.0
+  uniqueness: 7.7
+  significance: 7.6
+  experience: 7.5
+  depth: 6.7
+  categories:
+    culture: 8.4
+    architecture: 8.0
+    history: 8.0

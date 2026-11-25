@@ -1,0 +1,16 @@
+id: sight-bo-torotoro-national-park
+name: "Torotoro National Park"
+location:
+  country_code: BO
+  latitude: -18.1300
+  longitude: -65.7700
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 8.7
+  experience: 8.8
+  depth: 8.7
+  categories:
+    nature: 9.3
+    adventure: 9.1
+    photography: 9.2
