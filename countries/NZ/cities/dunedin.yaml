@@ -1,0 +1,16 @@
+id: city-nz-dunedin
+name: "Dunedin"
+location:
+  country_code: NZ
+  latitude: -45.8742
+  longitude: 170.5036
+scores:
+  impact: 8.0
+  uniqueness: 8.0
+  significance: 8.0
+  experience: 8.1
+  depth: 7.9
+  categories:
+    architecture: 8.5
+    history: 8.4
+    culture: 8.2

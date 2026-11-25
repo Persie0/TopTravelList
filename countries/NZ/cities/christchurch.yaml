@@ -1,0 +1,16 @@
+id: city-nz-christchurch
+name: "Christchurch"
+location:
+  country_code: NZ
+  latitude: -43.5321
+  longitude: 172.6362
+scores:
+  impact: 7.8
+  uniqueness: 7.9
+  significance: 7.8
+  experience: 8.3
+  depth: 8.0
+  categories:
+    architecture: 8.0
+    culture: 8.2
+    nature: 8.1

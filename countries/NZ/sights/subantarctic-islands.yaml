@@ -1,0 +1,15 @@
+id: sight-nz-subantarctic-islands
+name: "New Zealand Sub-Antarctic Islands"
+location:
+  country_code: NZ
+  latitude: -50.7
+  longitude: 166.1
+scores:
+  impact: 8.8
+  uniqueness: 9.4
+  significance: 9.5
+  experience: null
+  depth: null
+  categories:
+    nature: 9.4
+    wildlife: 9.5

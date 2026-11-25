@@ -2,7 +2,7 @@
 
 # New Zealand (NZ) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**12 ranked** · **0 unassessed** · **12 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,22 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (12)
 
-No cities, towns & villages have been assessed for **New Zealand** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- | --- |
+| 1 | [Rotorua](cities/rotorua.yaml) | City / town | **85.10** | **Culture 9.0**, **Nature 8.7** | 8.1 / 8.8 / 8.6 / 8.8 / 8.4 | [-38.1378, 176.2514](https://www.google.com/maps/search/?api=1&query=-38.1378,176.2514) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Rotorua%2C%20New%20Zealand) |
+| 2 | [Queenstown](cities/queenstown.yaml) | City / town | **84.40** | **Adventure 9.2**, **Nature 9.0**, **Photography 9.0** | 9.0 / 8.5 / 7.1 / 9.1 / 8.3 | [-45.03111, 168.6625](https://www.google.com/maps/search/?api=1&query=-45.03111,168.6625) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Queenstown%2C%20New%20Zealand) |
+| 3 | [Wellington](cities/wellington.yaml) | City / town | **82.45** | **Culture 8.9**, **Food 8.6**, **History 8.2** | 8.0 / 8.1 / 8.5 / 8.6 / 8.3 | [-41.287, 174.776](https://www.google.com/maps/search/?api=1&query=-41.287,174.776) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Wellington%2C%20New%20Zealand) |
+| 4 | [Auckland](cities/auckland.yaml) | City / town | **82.40** | **Food 8.7**, **Nature 8.5**, **Culture 8.4** | 8.2 / 8.0 / 8.0 / 8.8 / 8.6 | [-36.8509, 174.7645](https://www.google.com/maps/search/?api=1&query=-36.8509,174.7645) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Auckland%2C%20New%20Zealand) |
+| 5 | [Napier](cities/napier.yaml) | City / town | **81.45** | **Architecture 8.8**, **History 8.3**, **Photography 8.3** | 8.0 / 8.6 / 8.1 / 8.1 / 7.6 | [-39.4903, 176.9178](https://www.google.com/maps/search/?api=1&query=-39.4903,176.9178) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Napier%2C%20New%20Zealand) |
+| 6 | [Wānaka](cities/wanaka.yaml) | City / town | **80.75** | **Nature 8.8**, **Photography 8.8**, **Relaxation 8.6** | 8.7 / 8.2 / 6.8 / 8.5 / 7.8 | [-44.7, 169.133](https://www.google.com/maps/search/?api=1&query=-44.7,169.133) | [Google Maps](https://www.google.com/maps/search/?api=1&query=W%C4%81naka%2C%20New%20Zealand) |
+| 7 | [Dunedin](cities/dunedin.yaml) | City / town | **80.05** | **Architecture 8.5**, **History 8.4**, **Culture 8.2** | 8.0 / 8.0 / 8.0 / 8.1 / 7.9 | [-45.8742, 170.5036](https://www.google.com/maps/search/?api=1&query=-45.8742,170.5036) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Dunedin%2C%20New%20Zealand) |
+| 8 | [Christchurch](cities/christchurch.yaml) | City / town | **79.20** | **Culture 8.2**, **Nature 8.1**, **Architecture 8.0** | 7.8 / 7.9 / 7.8 / 8.3 / 8.0 | [-43.5321, 172.6362](https://www.google.com/maps/search/?api=1&query=-43.5321,172.6362) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Christchurch%2C%20New%20Zealand) |
+| 9 | [Kaikōura](cities/kaikoura.yaml) | City / town | **78.70** | **Nature 8.7**, **Photography 8.5**, **Culture 7.5** | 8.2 / 8.0 / 7.4 / 8.0 / 7.3 | [-42.4, 173.68](https://www.google.com/maps/search/?api=1&query=-42.4,173.68) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kaik%C5%8Dura%2C%20New%20Zealand) |
+| 10 | [Taupō](cities/taupo.yaml) | City / town | **77.90** | **Nature 8.4**, **Relaxation 8.3**, **Adventure 8.0** | 7.8 / 7.9 / 7.3 / 8.3 / 7.7 | [-38.6857, 176.0702](https://www.google.com/maps/search/?api=1&query=-38.6857,176.0702) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Taup%C5%8D%2C%20New%20Zealand) |
+| 11 | [Nelson](cities/nelson.yaml) | City / town | **76.30** | **Culture 8.1**, **Relaxation 8.1**, **Food 7.9** | 7.5 / 7.7 / 7.4 / 8.1 / 7.6 | [-41.2931, 173.2381](https://www.google.com/maps/search/?api=1&query=-41.2931,173.2381) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nelson%2C%20New%20Zealand) |
+| 12 | [Te Anau](cities/te-anau.yaml) | City / town | **73.00** | **Nature 8.2**, **Relaxation 8.1**, **Photography 8.0** | 7.8 / 7.4 / 6.5 / 7.6 / 6.7 | [-45.4167, 167.7167](https://www.google.com/maps/search/?api=1&query=-45.4167,167.7167) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Te%20Anau%2C%20New%20Zealand) |
 
 ---
 

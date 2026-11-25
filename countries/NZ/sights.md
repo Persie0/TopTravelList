@@ -2,7 +2,7 @@
 
 # New Zealand (NZ) — Sights & attractions ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**16 ranked** · **6 unassessed** · **22 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,11 +10,39 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (16)
 
-No sights & attractions have been assessed for **New Zealand** yet.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- | --- |
+| 1 | [Te Wāhipounamu – South West New Zealand](sights/te-wahipounamu.yaml) | Attraction | **94.40** | **Nature 9.6**, **Photography 9.5**, **Adventure 9.4**, Wildlife 9.2 | 9.5 / 9.4 / 9.5 / 9.2 / 9.6 | [-45, 167.5](https://www.google.com/maps/search/?api=1&query=-45,167.5) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Te%20W%C4%81hipounamu%20%E2%80%93%20South%20West%20New%20Zealand%2C%20New%20Zealand) |
+| 2 | [Fiordland National Park](sights/fiordland-national-park.yaml) | Park / reserve | **93.55** | **Nature 9.5**, **Photography 9.5**, **Adventure 9.3** | 9.5 / 9.3 / 9.3 / 9.2 / 9.4 | [-45.4, 167.1](https://www.google.com/maps/search/?api=1&query=-45.4,167.1) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Fiordland%20National%20Park%2C%20New%20Zealand) |
+| 3 | [Tongariro National Park](sights/tongariro-national-park.yaml) | Park / reserve | **92.35** | **Nature 9.4**, **Photography 9.3**, **Adventure 9.2**, Culture 9.2 | 9.3 / 9.2 / 9.4 / 9.1 / 9.0 | [-39.2771, 175.58](https://www.google.com/maps/search/?api=1&query=-39.2771,175.58) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tongariro%20National%20Park%2C%20New%20Zealand) |
+| 4 | [Milford Sound / Piopiotahi](sights/milford-sound.yaml) | Attraction | **92.20** | **Photography 9.6**, **Nature 9.5**, **Adventure 8.9** | 9.6 / 9.3 / 8.8 / 9.3 / 8.6 | [-44.648281, 167.905777](https://www.google.com/maps/search/?api=1&query=-44.648281,167.905777) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Milford%20Sound%20%2F%20Piopiotahi%2C%20New%20Zealand) |
+| 5 | [Aoraki / Mount Cook National Park](sights/aoraki-mount-cook-national-park.yaml) | Park / reserve | **91.25** | **Nature 9.4**, **Photography 9.4**, **Adventure 9.3** | 9.4 / 9.0 / 8.9 / 9.1 / 9.1 | [-43.733, 170.1](https://www.google.com/maps/search/?api=1&query=-43.733,170.1) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Aoraki%20%2F%20Mount%20Cook%20National%20Park%2C%20New%20Zealand) |
+| 6 | [Westland Tai Poutini National Park](sights/westland-tai-poutini-national-park.yaml) | Park / reserve | **89.00** | **Nature 9.2**, **Photography 9.1**, **Adventure 9.0** | 9.0 / 8.9 / 8.9 / 8.7 / 8.9 | [-43.4, 170.2](https://www.google.com/maps/search/?api=1&query=-43.4,170.2) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Westland%20Tai%20Poutini%20National%20Park%2C%20New%20Zealand) |
+| 7 | [Tongariro Alpine Crossing](sights/tongariro-alpine-crossing.yaml) | Attraction | **88.80** | **Adventure 9.3**, **Nature 9.3**, **Photography 9.3** | 9.3 / 8.9 / 8.1 / 9.1 / 8.8 | [-39.13, 175.65](https://www.google.com/maps/search/?api=1&query=-39.13,175.65) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tongariro%20Alpine%20Crossing%2C%20New%20Zealand) |
+| 8 | [Mount Aspiring National Park](sights/mount-aspiring-national-park.yaml) | Park / reserve | **88.35** | **Adventure 9.2**, **Nature 9.2**, **Photography 9.0** | 9.0 / 8.7 / 8.7 / 8.8 / 9.0 | [-44.383, 168.733](https://www.google.com/maps/search/?api=1&query=-44.383,168.733) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mount%20Aspiring%20National%20Park%2C%20New%20Zealand) |
+| 9 | [Waitomo Glowworm Caves](sights/waitomo-glowworm-caves.yaml) | Attraction | **87.50** | **Nature 9.0**, **Adventure 8.6** | 8.9 / 9.4 / 8.1 / 9.0 / 7.6 | [-38.261894, 175.098572](https://www.google.com/maps/search/?api=1&query=-38.261894,175.098572) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Waitomo%20Glowworm%20Caves%2C%20New%20Zealand) |
+| 10 | [Waiotapu Thermal Wonderland](sights/waiotapu.yaml) | Attraction | **87.05** | **Nature 9.2**, **Photography 9.2** | 9.0 / 9.0 / 8.2 / 8.7 / 8.1 | [-38.3558, 176.3675](https://www.google.com/maps/search/?api=1&query=-38.3558,176.3675) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Waiotapu%20Thermal%20Wonderland%2C%20New%20Zealand) |
+| 11 | [Abel Tasman National Park](sights/abel-tasman-national-park.yaml) | Park / reserve | **86.95** | **Adventure 9.1**, **Beaches 9.0**, **Nature 9.0**, Photography 9.0 | 8.9 / 8.6 / 8.1 / 9.1 / 8.9 | [-40.9, 172.95](https://www.google.com/maps/search/?api=1&query=-40.9,172.95) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Abel%20Tasman%20National%20Park%2C%20New%20Zealand) |
+| 12 | [Hobbiton Movie Set](sights/hobbiton.yaml) | Attraction | **86.25** | **Photography 9.0**, **Culture 8.6** | 8.8 / 9.1 / 7.8 / 9.0 / 8.0 | [-37.857567, 175.680557](https://www.google.com/maps/search/?api=1&query=-37.857567,175.680557) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hobbiton%20Movie%20Set%2C%20New%20Zealand) |
+| 13 | [Franz Josef Glacier / Kā Roimata o Hine Hukatere](sights/franz-josef-glacier.yaml) | Mountain / peak | **85.60** | **Nature 9.0**, **Photography 8.9**, **Adventure 8.7** | 8.9 / 8.7 / 8.4 / 8.3 / 7.9 | [-43.475331, 170.199855](https://www.google.com/maps/search/?api=1&query=-43.475331,170.199855) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Franz%20Josef%20Glacier%20%2F%20K%C4%81%20Roimata%20o%20Hine%20Hukatere%2C%20New%20Zealand) |
+| 14 | [Waitangi Treaty Grounds historic precinct](sights/waitangi-treaty-grounds.yaml) | Attraction | **85.35** | **History 9.3**, **Culture 9.2**, **Architecture 8.2** | 8.0 / 8.8 / 9.2 / 8.5 / 8.2 | [-35.266667, 174.083333](https://www.google.com/maps/search/?api=1&query=-35.266667,174.083333) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Waitangi%20Treaty%20Grounds%20historic%20precinct%2C%20New%20Zealand) |
+| 15 | [Napier Art Deco historic precinct](sights/napier-art-deco.yaml) | Attraction | **84.90** | **Architecture 9.0**, **Photography 8.7**, **History 8.6** | 8.4 / 8.9 / 8.5 / 8.3 / 8.0 | [-39.5, 176.916667](https://www.google.com/maps/search/?api=1&query=-39.5,176.916667) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Napier%20Art%20Deco%20historic%20precinct%2C%20New%20Zealand) |
+| 16 | [Kerikeri Basin historic precinct](sights/kerikeri-basin.yaml) | Attraction | **81.80** | **History 9.0**, **Culture 8.7**, **Architecture 8.2** | 7.9 / 8.4 / 8.8 / 8.0 / 7.5 | [-35.216667, 173.966667](https://www.google.com/maps/search/?api=1&query=-35.216667,173.966667) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kerikeri%20Basin%20historic%20precinct%2C%20New%20Zealand) |
 
-Add destination YAML files in [sights/](sights/), then regenerate the overview files.
+## Not yet fully assessed (6)
+
+These destinations have no rank until all five core scores are assessed.
+
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- | --- |
+| — | [Auckland Volcanic Fields](sights/auckland-volcanic-fields.yaml) | Attraction | **—** | **Culture 8.8**, **Nature 8.7** | 8.1 / 8.7 / 8.7 / — / — | [-36.9, 174.783333](https://www.google.com/maps/search/?api=1&query=-36.9,174.783333) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Auckland%20Volcanic%20Fields%2C%20New%20Zealand) |
+| — | [Kahurangi National Park, Farewell Spit and Canaan karst system](sights/kahurangi-farewell-spit-canaan.yaml) | Park / reserve | **—** | **Nature 9.1**, **Wildlife 8.9** | 8.8 / 8.9 / 9.0 / — / — | [-41, 172.5](https://www.google.com/maps/search/?api=1&query=-41,172.5) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kahurangi%20National%20Park%2C%20Farewell%20Spit%20and%20Canaan%20karst%20system%2C%20New%20Zealand) |
+| — | [Kermadec Islands and Marine Reserve](sights/kermadec-islands.yaml) | Island | **—** | **Nature 9.2**, **Wildlife 9.1** | 8.7 / 9.2 / 9.2 / — / — | [-30.5, -178](https://www.google.com/maps/search/?api=1&query=-30.5,-178) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kermadec%20Islands%20and%20Marine%20Reserve%2C%20New%20Zealand) |
+| — | [New Zealand Sub-Antarctic Islands](sights/subantarctic-islands.yaml) | Island | **—** | **Wildlife 9.5**, **Nature 9.4** | 8.8 / 9.4 / 9.5 / — / — | [-50.7, 166.1](https://www.google.com/maps/search/?api=1&query=-50.7,166.1) | [Google Maps](https://www.google.com/maps/search/?api=1&query=New%20Zealand%20Sub-Antarctic%20Islands%2C%20New%20Zealand) |
+| — | [Waters and seabed of Fiordland (Te Moana O Atawhenua)](sights/fiordland-waters-seabed.yaml) | Attraction | **—** | **Nature 9.2**, **Wildlife 9.1** | 8.7 / 9.0 / 9.1 / — / — | [-45.46736, 167.085133](https://www.google.com/maps/search/?api=1&query=-45.46736,167.085133) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Waters%20and%20seabed%20of%20Fiordland%20%28Te%20Moana%20O%20Atawhenua%29%2C%20New%20Zealand) |
+| — | [Whakarua Moutere (North East Islands)](sights/whakarua-moutere.yaml) | Island | **—** | **Nature 9.2**, **Wildlife 9.2** | 8.6 / 9.0 / 9.1 / — / — | [-35.5, 175](https://www.google.com/maps/search/?api=1&query=-35.5,175) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Whakarua%20Moutere%20%28North%20East%20Islands%29%2C%20New%20Zealand) |
 
 ---
 
