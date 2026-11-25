@@ -19,8 +19,8 @@
 ### Worldwide peer comparisons
 - Iguazú Falls (Argentina/Brazil): Global scale and visitor breadth ceiling; score unverified.
 - [Krimml Waterfalls (AT)](../../../countries/AT/sights/krimml-waterfalls.yaml): 9.0/9.0/8.5/9.1/8.3; extensive developed paths.
-- Kuang Si Falls (Laos): Smaller forest waterfall and recreation; score unverified.
-- Erawan Falls (Thailand): Regional multi-tier cascade circuit; score unverified.
+- [Kuang Si Waterfalls (LA)](../../../countries/LA/sights/kuang-si-waterfalls.yaml): 9.4/9.2/8.0/9.3/8.6; smaller but distinctive tiered pools and established recreation.
+- [Erawan Waterfalls (TH)](../../../countries/TH/sights/erawan-waterfalls.yaml): 8.7/8.7/7.1/9.0/8.0; smaller multi-tier cascade circuit with established trails.
 
 ### Scoring decisions
 - Impact: 9.5 — Huge broad cascade and dramatic forest setting.
@@ -30,7 +30,7 @@
 - Depth: 8.1 — Limited waterfall circuit compared with major multi-stage falls.
 - Applicable categories: nature 9.4, photography 9.4.
 - Overall: 89.10/100.
-- High-score challenge: Impact 9.5 reflects the approximately 105 m high and 400 m wide cascade; Iguazú has greater extent and visitor breadth; no perfect score.
+- High-score challenge: Impact 9.5 reflects the approximately 105 m high and 410 m wide cascade documented by Angola's travel-agency association https://aava.ao/en/visit-angola/tourist-places/ (accessed 2026-11-25); greater scale than Kuang Si (impact 9.4), but Iguazú has greater extent and visitor breadth. No world-superlative claim or perfect score.
 - Approved 10 registry: none.
 - Final decision: Provisional editorial rating; not independently fact-checked.
 - Verification still needed: precise location where provisional, permitted access, remaining peer scores and claim-level verification.
@@ -63,7 +63,7 @@
 - Depth: 9.0 — Diverse habitats, not all accessible.
 - Applicable categories: nature 9.5, wildlife 8.9, photography 9.3, adventure 9.1.
 - Overall: 91.50/100.
-- High-score challenge: Nature 9.5 recognizes exceptional desert and coast ecosystem contrast; lower wildlife and experience than Okavango, no assumed guaranteed sightings.
+- High-score challenge: Nature 9.5 recognizes northern Namib desert and coast contrast documented by African Parks. Total 91.50 reflects dune, escarpment, shore and Welwitschia landscapes plus the November 2026 camp's published hikes, birding and permitted drives; lower wildlife and experience than Okavango. Camp report is promotional, not independent encounter evidence; African Parks confirms historical wildlife losses and giraffe reintroductions. Checked 2026-11-25.
 - Approved 10 registry: none.
 - Final decision: Provisional editorial rating; not independently fact-checked.
 - Verification still needed: precise location where provisional, permitted access, remaining peer scores and claim-level verification.
@@ -305,7 +305,8 @@
   - https://vr.africanrockart.britishmuseum.org/country/angola/tchitundu-hulu/
   - https://mapcarta.com/N7007815564
   - https://angolatourism.com/places-to-go/
-- Missing facts: Normal permitted visitor experience or accessible scope insufficiently documented.
+  - https://www.buala.org/en/ill-visit/the-mysterious-rock-carvings-of-tchitundo-hulo — 2010 article based on field research; describes the two inselbergs and distinct engraved/painted panels, not present visitor permission. Accessed 2026-11-25.
+- Missing facts: Visit Angola advertises visits with local chiefs' permission; extent of normally permitted panels across Mulume, Mucai, Pedra das Zebras and Pedra da Lagoa remains unclear. British Museum source was available via search excerpt but full page timed out. No access or consent presumed.
 
 ### Worldwide peer comparisons
 - [Mogao Caves (CN)](../../../countries/CN/sights/mogao-caves.yaml): 9.8/9.9/9.9/9.5/9.4; exceptional art and visitor interpretation.
@@ -393,7 +394,7 @@
 ## sight-ao-okavango-catchments — Cubango–Okavango–Cuando–Zambezi Catchments (Angola) — 2026-11-25
 
 - YAML: [source](../../../countries/AO/sights/okavango-catchments.yaml)
-- Action: new
+- Action: category reassessment; previous decision preserved in [verification history](verification-2026-11-25.md)
 - Precise subject: Tentative upstream catchments only, broad provisional southeastern regional point; not Botswana Delta or an entrance.
 - Location check: -15.5, 19.5; representative point, exact entrance not verified.
 - Evidence status: **unassessed**
@@ -414,9 +415,9 @@
 - Significance: 9.6 — Global hydrological and conservation importance.
 - Experience: null — Ordinary whole-catchment visit unknown.
 - Depth: null — Accessible circuit unverified.
-- Applicable categories: nature 9.6, wildlife 9.5.
+- Applicable categories: nature 9.6, wildlife null.
 - Overall: unranked.
-- High-score challenge: Significance/nature 9.6 and wildlife 9.5 reflect the catchments' documented ecological connectivity and threatened species; no transfer of Botswana's visitor score or sightings.
+- High-score challenge: Significance/nature 9.6 reflect the nomination's documented 327,000 km² headwater system and international hydrological connectivity. Wildlife is unassessed: the nomination documents animal corridors but not ordinary authorized visitor encounters across this enormous region; no transfer of Botswana's score.
 - Approved 10 registry: none.
 - Final decision: Partial assessment retained; no overall score.
 - Verification still needed: precise location where provisional, permitted access, remaining peer scores and claim-level verification.
@@ -483,6 +484,72 @@
 - Approved 10 registry: none.
 - Final decision: Provisional editorial rating; not independently fact-checked.
 - Verification still needed: precise location where provisional, permitted access, remaining peer scores and claim-level verification.
+
+## sight-ao-national-slavery-museum — National Slavery Museum — 2026-11-25
+
+- YAML: [source](../../../countries/AO/sights/national-slavery-museum.yaml)
+- Action: new
+- Precise subject: Museum and historic chapel at Morro da Cruz, not the entire transatlantic slave route, neighbouring craft market or all Luanda.
+- Location check: -8.95887, 13.10496; Mapcarta OSM node 2869781444; Visit Luanda gives -8.958856,13.104950, confirming named location.
+- Evidence status: **source-linked-unverified**
+- Sources (accessed 2026-11-25):
+  - https://www.visiteluanda.com/en/locais-interesse/museu-nacional-escravatura.html — Visit Luanda describes 1977 foundation, historic chapel and exhibited objects; supplies GPS.
+  - https://www.vaticannews.va/pt/africa/news/2026-05/uma-visita-ao-museu-nacional-da-escravatura-em-luanda.html — May 2026 independent visit report confirms physical museum visit and heritage interpretation.
+  - https://mapcarta.com/N2869781444 — mapped named museum location.
+- Missing facts: Current access, precise public scope and independent claim-level verification.
+
+### Worldwide peer comparisons
+- [Cape Coast Castle (GH)](../../../countries/GH/sights/cape-coast-castle.yaml): 9.1/9.3/9.7/9.0/8.5; much larger original embarkation complex and deeper interpreted visitor circuit.
+- [Assin Manso (GH)](../../../countries/GH/sights/assin-manso-ancestral-slave-river-site.yaml): 7.7/8.3/9.2/8.0/6.9; focused slave-route memorial, narrower display scope.
+- [Kigali Genocide Memorial (RW)](../../../countries/RW/sights/kigali-genocide-memorial-gisozi.yaml): 8.8/8.8/9.6/9.0/8.7; different historical subject, larger documented memorial interpretation.
+- [National Museum of the DRC (CD)](../../../countries/CD/sights/national-museum-drc.yaml): 7.9/8.5/8.9/8.4/8.3; broader national collection, less focused connection to this particular historical event.
+
+### Scoring decisions
+- Impact: 8.0 — Emotionally powerful historic chapel and artifacts, less monumental than Cape Coast.
+- Uniqueness: 8.8 — Specific preserved Angolan slave-trade setting, distinct but not globally unmatched.
+- Significance: 9.3 — International significance of transatlantic slavery, with direct local association; below the much broader Cape Coast complex.
+- Experience: 8.5 — Documented actual museum visit and exhibition interpretation, not inferred from heritage designation.
+- Depth: 7.7 — Compact historic building and exhibits, less extensive than the Kigali memorial or broader national collections.
+- Applicable categories: history 9.4, culture 9.1.
+- Overall: 85.05/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial assessment, not a guarantee of admission or full independent verification.
+- Verification still needed: current ordinary public access, exact visitor-visible scope.
+
+## sight-ao-mama-muxima-shrine — Mamã Muxima Shrine — 2026-11-25
+
+- YAML: [source](../../../countries/AO/sights/mama-muxima-shrine.yaml)
+- Action: new
+- Precise subject: Historic Church of Nossa Senhora da Conceição and immediate pilgrimage esplanade; exclude separate fortress and unfinished new basilica.
+- Location check: -9.5207, 13.95961; Geotagged church photograph and Atlas Obscura named point agree within metres; Wikidata Q5116934 corroborates; not an exact entrance.
+- Evidence status: **source-linked-unverified**
+- Sources (accessed 2026-11-25):
+  - https://www.diocesedeviana.ao/santuario-nossa-senhora-da-conceicao-da-muxima/ — diocesan service schedule documents ordinary religious visitation.
+  - https://www.vatican.va/content/leo-xiv/en/speeches/2026/april/documents/20260419-angola-rosario-muxima.html — April 2026 shrine event and construction of a new shrine, not completed visitor scope.
+  - https://apnews.com/article/082b240dc063e5e382a76bf278cb18e8 — independent report on April 2026 visit and site-specific colonial and slave-trade history.
+  - https://www.atlasobscura.com/places/sanctuary-of-nossa-senhora-da-conceicao-da-muxima — named historic shrine point and history.
+  - https://commons.wikimedia.org/wiki/File:Church_of_Muxima,_pilgrimage_site,_Bengo_province.JPG — geotagged church photograph.
+- Missing facts: Current access, precise public scope and independent claim-level verification.
+
+### Worldwide peer comparisons
+- [Kibeho Sanctuary (RW)](../../../countries/RW/sights/kibeho-sanctuary.yaml): 7.3/8.2/8.6/8.0/7.0; comparable regional pilgrimage shrine, distinct historical context.
+- [Basilica of Our Lady of Peace (CI)](../../../countries/CI/sights/basilica-our-lady-of-peace.yaml): 9.3/8.8/8.5/9.0/8.0; much more monumental building, different pilgrimage significance.
+- [Wat Arun (TH)](../../../countries/TH/sights/wat-arun.yaml): 8.9/9.0/8.9/9.1/8.0; more visually distinctive and established visitor circuit.
+- [Cape Coast Castle (GH)](../../../countries/GH/sights/cape-coast-castle.yaml): 9.1/9.3/9.7/9.0/8.5; different monument type, much broader historical slave-trade interpretation.
+
+### Scoring decisions
+- Impact: 7.9 — Modest historic church with meaningful river setting and devotional atmosphere, not monumental basilica.
+- Uniqueness: 8.5 — Distinct combination of historic riverine shrine and living pilgrimage, with comparable shrines worldwide.
+- Significance: 9.0 — Longstanding national devotion and direct slave-trade context; no global-maximum claim.
+- Experience: 8.4 — Documented ordinary services and pilgrimages; special papal visit not assumed to be ordinary experience.
+- Depth: 7.2 — Single church and esplanade, no credit for fortress or future basilica.
+- Applicable categories: history 9.1, culture 9.2, architecture 8.0.
+- Overall: 82.75/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial assessment, not a guarantee of admission or full independent verification.
+- Verification still needed: current ordinary public access, exact visitor-visible scope.
 
 ## Inventory coverage and backlog
 
