@@ -106,8 +106,8 @@ Every registered country has a linked folder below. The status is determined fro
 | [Mauritius](countries/MU/) (`MU`) | 22 | 63 |
 | [Montenegro](countries/ME/) (`ME`) | 33 | 94 |
 | [Nepal](countries/NP/) (`NP`) | 49 | 123 |
+| [Oman](countries/OM/) (`OM`) | 24 | 60 |
 | [Paraguay](countries/PY/) (`PY`) | 34 | 52 |
-| [Peru](countries/PE/) (`PE`) | 36 | 66 |
 | [San Marino](countries/SM/) (`SM`) | 14 | 25 |
 | [Sao Tome and Principe](countries/ST/) (`ST`) | 12 | 40 |
 | [Singapore](countries/SG/) (`SG`) | 1 | 99 |
@@ -150,8 +150,8 @@ These countries have no entries in one or both destination folders yet. Their co
 | [Mongolia](countries/MN/) (`MN`) | [Morocco](countries/MA/) (`MA`) | [Mozambique](countries/MZ/) (`MZ`) | [Myanmar](countries/MM/) (`MM`) |
 | [Namibia](countries/NA/) (`NA`) | [Nauru](countries/NR/) (`NR`) | [Netherlands](countries/NL/) (`NL`) | [New Zealand](countries/NZ/) (`NZ`) |
 | [Nicaragua](countries/NI/) (`NI`) | [Niger](countries/NE/) (`NE`) | [Nigeria](countries/NG/) (`NG`) | [North Korea](countries/KP/) (`KP`) |
-| [North Macedonia](countries/MK/) (`MK`) | [Norway](countries/NO/) (`NO`) | [Oman](countries/OM/) (`OM`) | [Pakistan](countries/PK/) (`PK`) |
-| [Palau](countries/PW/) (`PW`) | [Palestine](countries/PS/) (`PS`) | [Panama](countries/PA/) (`PA`) | [Papua New Guinea](countries/PG/) (`PG`) |
+| [North Macedonia](countries/MK/) (`MK`) | [Norway](countries/NO/) (`NO`) | [Pakistan](countries/PK/) (`PK`) | [Palau](countries/PW/) (`PW`) |
+| [Palestine](countries/PS/) (`PS`) | [Panama](countries/PA/) (`PA`) | [Papua New Guinea](countries/PG/) (`PG`) | [Peru](countries/PE/) (`PE`) |
 | [Philippines](countries/PH/) (`PH`) | [Poland](countries/PL/) (`PL`) | [Portugal](countries/PT/) (`PT`) | [Qatar](countries/QA/) (`QA`) |
 | [Romania](countries/RO/) (`RO`) | [Russia](countries/RU/) (`RU`) | [Rwanda](countries/RW/) (`RW`) | [Saint Kitts and Nevis](countries/KN/) (`KN`) |
 | [Saint Lucia](countries/LC/) (`LC`) | [Saint Vincent and the Grenadines](countries/VC/) (`VC`) | [Samoa](countries/WS/) (`WS`) | [Saudi Arabia](countries/SA/) (`SA`) |

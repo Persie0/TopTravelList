@@ -1,0 +1,15 @@
+id: city-om-hasik
+name: "Hasik"
+location:
+  country_code: OM
+  latitude: 17.43
+  longitude: 55.283
+scores:
+  impact: 6.8
+  uniqueness: 7.3
+  significance: 6.5
+  experience: 7.2
+  depth: 6.0
+  categories:
+    relaxation: 7.7
+    photography: 7.8

@@ -1,0 +1,15 @@
+id: sight-om-al-hoota-cave
+name: "Al Hoota Cave"
+location:
+  country_code: OM
+  latitude: 23.084
+  longitude: 57.352
+scores:
+  impact: 8.3
+  uniqueness: 8.2
+  significance: 8.1
+  experience: 8.2
+  depth: 7.5
+  categories:
+    nature: 8.7
+    adventure: 8.1
