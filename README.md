@@ -82,11 +82,11 @@ Every registered country has a linked folder below. The status is determined fro
 
 <!-- COUNTRY_DIRECTORY_START -->
 
-**52 done · 145 not done · 197 countries total.**
+**53 done · 144 not done · 197 countries total.**
 
 **Done** means both the city and sight folders contain destination YAML records. It does not mean that every possible destination has been cataloged.
 
-### Done (52)
+### Done (53)
 
 | Country | Cities | Sights | Google Maps |
 | --- | ---: | ---: | --- |
@@ -141,9 +141,10 @@ Every registered country has a linked folder below. The status is determined fro
 | [Togo](countries/TG/) (`TG`) | [16](countries/TG/cities.md) | [31](countries/TG/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Togo) |
 | [Uruguay](countries/UY/) (`UY`) | [33](countries/UY/cities.md) | [61](countries/UY/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Uruguay) |
 | [Vatican City](countries/VA/) (`VA`) | [1](countries/VA/cities.md) | [24](countries/VA/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Vatican%20City) |
+| [Venezuela](countries/VE/) (`VE`) | [35](countries/VE/cities.md) | [43](countries/VE/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Venezuela) |
 | [Vietnam](countries/VN/) (`VN`) | [140](countries/VN/cities.md) | [360](countries/VN/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Vietnam) |
 
-### Not done (145)
+### Not done (144)
 
 These countries have no entries in one or both destination folders yet. Their country folders already exist; follow the links to populate them.
 
@@ -184,8 +185,7 @@ These countries have no entries in one or both destination folders yet. Their co
 | [Tonga](countries/TO/) (`TO`) · [Map](https://www.google.com/maps/search/?api=1&query=Tonga) | [Trinidad and Tobago](countries/TT/) (`TT`) · [Map](https://www.google.com/maps/search/?api=1&query=Trinidad%20and%20Tobago) | [Tunisia](countries/TN/) (`TN`) · [Map](https://www.google.com/maps/search/?api=1&query=Tunisia) | [Turkmenistan](countries/TM/) (`TM`) · [Map](https://www.google.com/maps/search/?api=1&query=Turkmenistan) |
 | [Tuvalu](countries/TV/) (`TV`) · [Map](https://www.google.com/maps/search/?api=1&query=Tuvalu) | [Türkiye](countries/TR/) (`TR`) · [Map](https://www.google.com/maps/search/?api=1&query=T%C3%BCrkiye) | [Uganda](countries/UG/) (`UG`) · [Map](https://www.google.com/maps/search/?api=1&query=Uganda) | [Ukraine](countries/UA/) (`UA`) · [Map](https://www.google.com/maps/search/?api=1&query=Ukraine) |
 | [United Arab Emirates](countries/AE/) (`AE`) · [Map](https://www.google.com/maps/search/?api=1&query=United%20Arab%20Emirates) | [United Kingdom](countries/GB/) (`GB`) · [Map](https://www.google.com/maps/search/?api=1&query=United%20Kingdom) | [United States](countries/US/) (`US`) · [Map](https://www.google.com/maps/search/?api=1&query=United%20States) | [Uzbekistan](countries/UZ/) (`UZ`) · [Map](https://www.google.com/maps/search/?api=1&query=Uzbekistan) |
-| [Vanuatu](countries/VU/) (`VU`) · [Map](https://www.google.com/maps/search/?api=1&query=Vanuatu) | [Venezuela](countries/VE/) (`VE`) · [Map](https://www.google.com/maps/search/?api=1&query=Venezuela) | [Yemen](countries/YE/) (`YE`) · [Map](https://www.google.com/maps/search/?api=1&query=Yemen) | [Zambia](countries/ZM/) (`ZM`) · [Map](https://www.google.com/maps/search/?api=1&query=Zambia) |
-| [Zimbabwe](countries/ZW/) (`ZW`) · [Map](https://www.google.com/maps/search/?api=1&query=Zimbabwe) |  |  |  |
+| [Vanuatu](countries/VU/) (`VU`) · [Map](https://www.google.com/maps/search/?api=1&query=Vanuatu) | [Yemen](countries/YE/) (`YE`) · [Map](https://www.google.com/maps/search/?api=1&query=Yemen) | [Zambia](countries/ZM/) (`ZM`) · [Map](https://www.google.com/maps/search/?api=1&query=Zambia) | [Zimbabwe](countries/ZW/) (`ZW`) · [Map](https://www.google.com/maps/search/?api=1&query=Zimbabwe) |
 
 <!-- COUNTRY_DIRECTORY_END -->
 

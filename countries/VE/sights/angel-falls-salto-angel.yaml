@@ -1,0 +1,16 @@
+id: sight-ve-angel-falls-salto-angel
+name: "Angel Falls (Salto Ángel)"
+location:
+  country_code: VE
+  latitude: 5.9670
+  longitude: -62.5350
+scores:
+  impact: 9.9
+  uniqueness: 9.8
+  significance: 9.2
+  experience: 8.5
+  depth: 7.7
+  categories:
+    nature: 9.8
+    photography: 9.9
+    adventure: 9.0

@@ -1,0 +1,16 @@
+id: sight-ve-waraira-repano-national-park
+name: "Waraira Repano National Park"
+location:
+  country_code: VE
+  latitude: 10.5600
+  longitude: -66.8500
+scores:
+  impact: 8.4
+  uniqueness: 8.0
+  significance: 7.6
+  experience: 8.3
+  depth: 8.2
+  categories:
+    nature: 8.8
+    photography: 9.0
+    adventure: 8.6
