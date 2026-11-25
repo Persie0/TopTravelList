@@ -2,7 +2,7 @@
 
 # Côte d'Ivoire (CI) — Sights & attractions ranking
 
-**11 ranked** · **8 unassessed** · **19 total** · Worldwide scoring **v2**
+**12 ranked** · **8 unassessed** · **20 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,12 +10,12 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (11)
+## Complete ranked list (12)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
-| 1 | [Taï National Park](sights/tai-national-park.yaml) | Park / reserve | **93.45** | **Nature 9.7**, **Wildlife 9.7**, **Adventure 9.0** | 9.3 / 9.5 / 9.6 / 9.0 / 9.1 | [5.873, -7.453](https://www.google.com/maps/search/?api=1&query=5.873,-7.453) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ta%C3%AF%20National%20Park%2C%20C%C3%B4te%20d%27Ivoire) |
-| 2 | [Comoé National Park](sights/comoe-national-park.yaml) | Park / reserve | **88.95** | **Nature 9.3**, **Wildlife 9.3** | 8.9 / 9.0 / 9.3 / 8.3 / 8.7 | [9.077, -3.77](https://www.google.com/maps/search/?api=1&query=9.077,-3.77) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Como%C3%A9%20National%20Park%2C%20C%C3%B4te%20d%27Ivoire) |
+| 1 | [Taï National Park](sights/tai-national-park.yaml) | Park / reserve | **93.45** | **Nature 9.7**, **Wildlife 9.4**, **Adventure 9.0** | 9.3 / 9.5 / 9.6 / 9.0 / 9.1 | [5.873, -7.453](https://www.google.com/maps/search/?api=1&query=5.873,-7.453) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ta%C3%AF%20National%20Park%2C%20C%C3%B4te%20d%27Ivoire) |
+| 2 | [Comoé National Park](sights/comoe-national-park.yaml) | Park / reserve | **88.95** | **Nature 9.3**, **Wildlife 8.9** | 8.9 / 9.0 / 9.3 / 8.3 / 8.7 | [9.077, -3.77](https://www.google.com/maps/search/?api=1&query=9.077,-3.77) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Como%C3%A9%20National%20Park%2C%20C%C3%B4te%20d%27Ivoire) |
 | 3 | [Basilica of Our Lady of Peace](sights/basilica-our-lady-of-peace.yaml) | Attraction | **88.40** | **Architecture 9.4**, **Photography 9.2** | 9.3 / 8.8 / 8.5 / 9.0 / 8.0 | [6.8067, -5.2912](https://www.google.com/maps/search/?api=1&query=6.8067,-5.2912) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Basilica%20of%20Our%20Lady%20of%20Peace%2C%20C%C3%B4te%20d%27Ivoire) |
 | 4 | [Historic Town of Grand-Bassam](sights/grand-bassam-historic-town.yaml) | Attraction | **87.35** | **History 9.2**, **Architecture 9.0**, **Culture 8.8** | 8.6 / 8.9 / 9.1 / 8.4 / 8.5 | [5.196, -3.737](https://www.google.com/maps/search/?api=1&query=5.196,-3.737) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Historic%20Town%20of%20Grand-Bassam%2C%20C%C3%B4te%20d%27Ivoire) |
 | 5 | [Ahouakro Archaeological Park](sights/ahouakro-archaeological-park.yaml) | Museum / heritage | **86.05** | **Nature 8.9**, **History 8.8**, **Photography 8.8**, Culture 8.7 | 8.6 / 8.9 / 8.7 / 8.4 / 8.0 | [6.133333, -4.833333](https://www.google.com/maps/search/?api=1&query=6.133333,-4.833333) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ahouakro%20Archaeological%20Park%2C%20C%C3%B4te%20d%27Ivoire) |
@@ -25,6 +25,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 9 | [Banco National Park](sights/banco-national-park.yaml) | Park / reserve | **84.80** | **Nature 8.9**, **Adventure 8.5** | 8.5 / 8.8 / 8.1 / 8.6 / 8.2 | [5.383, -4.05](https://www.google.com/maps/search/?api=1&query=5.383,-4.05) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Banco%20National%20Park%2C%20C%C3%B4te%20d%27Ivoire) |
 | 10 | [St Paul's Cathedral, Abidjan](sights/st-pauls-cathedral.yaml) | Religious site | **81.45** | **Architecture 8.8**, **Photography 8.6** | 8.4 / 8.5 / 7.8 / 8.2 / 7.1 | [5.33294, -4.02008](https://www.google.com/maps/search/?api=1&query=5.33294,-4.02008) | [Google Maps](https://www.google.com/maps/search/?api=1&query=St%20Paul%27s%20Cathedral%2C%20Abidjan%2C%20C%C3%B4te%20d%27Ivoire) |
 | 11 | [Assinie Beach](sights/assinie-beach.yaml) | Beach / bay | **79.30** | **Beaches 8.9**, **Relaxation 8.9**, **Photography 8.5** | 8.3 / 8.0 / 6.9 / 8.6 / 7.7 | [5.126, -3.282](https://www.google.com/maps/search/?api=1&query=5.126,-3.282) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Assinie%20Beach%2C%20C%C3%B4te%20d%27Ivoire) |
+| 12 | [Man Waterfall (Zadépleu)](sights/man-waterfall.yaml) | Waterfall | **75.35** | **Nature 8.4**, **Photography 8.4** | 8.0 / 7.4 / 6.7 / 8.1 / 7.3 | [7.41205, -7.58638](https://www.google.com/maps/search/?api=1&query=7.41205,-7.58638) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Man%20Waterfall%20%28Zad%C3%A9pleu%29%2C%20C%C3%B4te%20d%27Ivoire) |
 
 ## Not yet fully assessed (8)
 
@@ -34,7 +35,7 @@ These destinations have no rank until all five core scores are assessed.
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
 | — | [Kaouara Mosque](sights/kaouara-mosque.yaml) | Religious site | **—** | **Architecture 8.8**, **History 8.4** | — / 8.6 / 8.4 / — / — | [10.09025, -5.194861](https://www.google.com/maps/search/?api=1&query=10.09025,-5.194861) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kaouara%20Mosque%2C%20C%C3%B4te%20d%27Ivoire) |
 | — | [Kouto Mosque](sights/kouto-mosque.yaml) | Religious site | **—** | **Architecture 8.8**, **History 8.4** | — / 8.6 / 8.4 / — / — | [9.890861, -6.413944](https://www.google.com/maps/search/?api=1&query=9.890861,-6.413944) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kouto%20Mosque%2C%20C%C3%B4te%20d%27Ivoire) |
-| — | [Mount Nimba Strict Nature Reserve (Côte d’Ivoire sector)](sights/mount-nimba-reserve.yaml) | Park / reserve | **—** | **Nature 9.6**, **Wildlife 9.5** | 9.0 / 9.4 / 9.6 / — / — | [7.60318, -8.39097](https://www.google.com/maps/search/?api=1&query=7.60318,-8.39097) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mount%20Nimba%20Strict%20Nature%20Reserve%20%28C%C3%B4te%20d%E2%80%99Ivoire%20sector%29%2C%20C%C3%B4te%20d%27Ivoire) |
+| — | [Mount Nimba Strict Nature Reserve (Côte d’Ivoire sector)](sights/mount-nimba-reserve.yaml) | Park / reserve | **—** | **Nature 9.6**, Wildlife unassessed | 9.0 / 9.4 / 9.6 / — / — | [7.60318, -8.39097](https://www.google.com/maps/search/?api=1&query=7.60318,-8.39097) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mount%20Nimba%20Strict%20Nature%20Reserve%20%28C%C3%B4te%20d%E2%80%99Ivoire%20sector%29%2C%20C%C3%B4te%20d%27Ivoire) |
 | — | [Nambira Mosque (Namboura Missiri Koro)](sights/nambira-mosque.yaml) | Religious site | **—** | **Architecture 8.8**, **History 8.5** | — / 8.7 / 8.5 / — / — | [10.129042, -5.904264](https://www.google.com/maps/search/?api=1&query=10.129042,-5.904264) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nambira%20Mosque%20%28Namboura%20Missiri%20Koro%29%2C%20C%C3%B4te%20d%27Ivoire) |
 | — | [Samatiguila Mosque (Missiriba)](sights/samatiguila-mosque.yaml) | Religious site | **—** | **Architecture 8.8**, **History 8.6** | — / 8.8 / 8.6 / — / — | [9.818753, -7.559508](https://www.google.com/maps/search/?api=1&query=9.818753,-7.559508) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Samatiguila%20Mosque%20%28Missiriba%29%2C%20C%C3%B4te%20d%27Ivoire) |
 | — | [Small Mosque of Kong](sights/kong-small-mosque.yaml) | Religious site | **—** | **Architecture 8.8**, **History 8.5** | — / 8.7 / 8.5 / — / — | [9.148111, -4.611056](https://www.google.com/maps/search/?api=1&query=9.148111,-4.611056) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Small%20Mosque%20of%20Kong%2C%20C%C3%B4te%20d%27Ivoire) |
