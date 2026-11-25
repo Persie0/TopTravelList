@@ -2,6 +2,9 @@
 
 [Worldwide rules](../../../rules.md) · [Future-country workflow](../../future-country-workflow.md). 2026-11-25. [UNESCO country inventory](https://whc.unesco.org/en/statesparties/cg) confirms two inscribed and three tentative properties, all represented. Sangha Trinational is represented only by its Congolese national park component, not other countries' parks. Odzala uses the inscribed forest massif reference point, not an assertion that park and UNESCO boundaries coincide. All five national parks identified in the ministry landscape inventory are included. Parent and bounded visitor experience scores are not additive. Two UNESCO reference points and Ntokou published geographic point checked; all other coordinates are preliminary editorial estimates, not entrance or trail locations. Access and wildlife sightings not guaranteed. Shared peer sets are provisional, and source-linked status does not establish complete factual verification.
 
+
+Follow-up 2026-11-25: [UNESCO](https://whc.unesco.org/en/statesparties/cg/) confirms both inscriptions and three tentative properties; [ministry landscape inventory](https://developpement-durable.gouv.cg/environnement/projets-par-paysage-departement/) supports all five national parks. Missing attractions include the [National Museum of Congo](https://gouvernement.cg/patrimoine-denis-sassou-nguesso-inaugure-le-musee-national-du-congo/) inaugurated at M'Pila on 25 May 2026 and the [Charles de Gaulle House](https://am.afdb.org/en/2026-annual-meetings/your-stay/about-brazzaville). The museum's new building point and visitor scope require independent confirmation before adding a record; do not substitute the old location. Full claim-level verification remains incomplete.
+
 ## sight-cg-odzala-kokoua-national-park-forest-massif — Odzala-Kokoua National Park (Forest Massif) — 2026-11-25
 
 - [YAML](../../../countries/CG/sights/odzala-kokoua-national-park-forest-massif.yaml) · Action: new · **source-linked-unverified**.
@@ -20,6 +23,8 @@
 - High-score challenge: Uniqueness 9.5 and significance/nature/wildlife 9.7 reflect the UNESCO-documented forest ecology and major threatened ape and elephant populations; compared with Phong Nha and Khao Sok the wildlife niche is rarer, but access is specialized and sightings not guaranteed.. No approved 10.
 - Evidence: [Reference](https://whc.unesco.org/en/list/692) — UNESCO excerpt identifies forest habitats and threatened species; opened coordinate table https://whc.unesco.org/en/list/692/maps/; park visitor excerpt https://visitodzala-kokoua.org/en/ confirms guided visits; accessed 2026-11-25. Not complete claim-level verification.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access and individual peer/category calibration.
+- Follow-up 2026-11-25: [Park visitor site](https://visitodzala-kokoua.org/en/) and [operator's multi-sector itineraries](https://kambaafrica.com/journeys/) support guided gorilla tracks, bai walks and river trips. Compared with Loango, Okavango, Bwindi and Kinabatangan, unusual combined rainforest megafauna and multi-sector exploration support exceptional overall and wildlife ratings provisionally. No sighting guarantee; Ngaga is a separate authorized forest experience, not necessarily inside the inscribed boundary.
+
 
 ## sight-cg-nouabale-ndoki-national-park-sangha-trinational-congo-component — Nouabalé-Ndoki National Park (Sangha Trinational Congo component) — 2026-11-25
 
@@ -35,10 +40,12 @@
 - Significance 9.7: international conservation significance.
 - Experience 8.8: guided excursions and approved platforms.
 - Depth 9.1: multiple habitats with restricted routes.
-- Categories: nature:9.7, wildlife:9.7, adventure:9.1. Overall: 93.35/100.
-- High-score challenge: Uniqueness 9.5, significance/nature/wildlife 9.7 reflect intact forest and threatened large mammals in UNESCO and WCS descriptions; unlike broad forest walking destinations the visit is specialized and sightings variable.. No approved 10.
+- Categories: nature:9.7, wildlife:9.5, adventure:9.1. Overall: 93.35/100.
+- High-score challenge: Uniqueness 9.5, significance/nature 9.7 reflect intact internationally important forest; visitor wildlife 9.5 justified separately below. Overall 93.35 provisional. No approved 10.
 - Evidence: [Reference](https://whc.unesco.org/en/list/1380) — UNESCO excerpt identifies forest habitats and large mammals; opened component coordinate table https://whc.unesco.org/en/list/1380/maps/; https://congo.wcs.org/en-us/Wild-Places/Nouabal%C3%A9-Ndoki-National-Park identifies national park and research; https://ndoki.org/en-us/Visit/Park-info visitor excerpt; accessed 2026-11-25. Not complete claim-level verification.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access and individual peer/category calibration.
+- Follow-up 2026-11-25: Wildlife 9.7 → 9.5: [park visitor information](https://ndoki.org/en-us/Visit/Park-info) and [Mbeli programme](https://ndoki.org/en-us/Visit/Mbeli-ba%C3%AF) establish meaningful forest and clearing observation. Compared with Odzala, Loango, Bwindi and Okavango, fewer documented visitor sectors and variable sightings justify lower wildlife category; significance and nature 9.7 retained on conservation evidence. Overall unchanged.
+
 
 ## sight-cg-conkouati-douli-national-park — Conkouati-Douli National Park — 2026-11-25
 
@@ -58,6 +65,8 @@
 - High-score challenge: Wildlife 9.5 is an editorial judgment for coastal and forest fauna diversity supported by Noé and the tentative description; compared with marine-only Aqaba and forest-only parks, the habitat range is exceptional but sightings uncertain.. No approved 10.
 - Evidence: [Reference](https://whc.unesco.org/en/tentativelists/5375/) — Opened 2008 state submission identifies park; Noé conservation excerpt https://noe.org/en/actions/gestion-du-parc-national-de-conkouati-douli/ and park visitor excerpt https://www.conkouati.org/activites identify conservation and arranged outings; accessed 2026-11-25. Not complete claim-level verification.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access and individual peer/category calibration.
+- Follow-up 2026-11-25: [Official activities](https://www.conkouati.org/activites) document seasonal whale and turtle viewing and forest excursions. Compared with Loango, Corcovado, Tortuguero and Mayumba, combined coastal and forest visitor experiences support retaining 9.5 provisionally; no guarantee of all species on one visit.
+
 
 ## sight-cg-lango-bai-odzala-visitor-clearing — Lango Baï (Odzala visitor clearing) — 2026-11-25
 
@@ -77,6 +86,8 @@
 - High-score challenge: Wildlife 9.5 reflects unusual opportunities to observe forest fauna at a clearing rather than the entire park; narrower depth than Odzala as a whole.. No approved 10.
 - Evidence: [Reference](https://kambaafrica.com/journeys/odzala-discovery/) — Operator excerpt identifies guided routes at three camps; https://visitodzala-kokoua.org/en/ park excerpt confirms forest wildlife visits; exact individual features and coordinates not verified; accessed 2026-11-25. Not complete claim-level verification.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access and individual peer/category calibration.
+- Follow-up 2026-11-25: [Operator guided walks](https://kambaafrica.com/experiences/nature-walks/) and [independent account](https://viajacongus.com/en/congo/parque-nacional-odzala-kokoua/) establish wading and forest-clearing observation. Compared with Mbeli, Dzanga Bai, Langoué and Kinabatangan, strong distinctive wildlife viewing, but seasonal and bounded. Retain 9.5 provisionally.
+
 
 ## sight-cg-mbeli-bai — Mbeli Baï — 2026-11-25
 
@@ -96,6 +107,8 @@
 - High-score challenge: Wildlife 9.6 reflects the long-running monitored clearing and rare large mammal viewing opportunities described by WCS and the park; not guaranteed sightings or entire park depth.. No approved 10.
 - Evidence: [Reference](https://ndoki.org/en-us/Visit/Mbeli-ba%C3%AF) — Park excerpt describes viewing platform, forest and boat approach and wildlife; https://congo.wcs.org/Wild-Places/Nouabal%C3%A9-Ndoki-National-Park/Tourism supports arranged tourism; accessed 2026-11-25. Not complete claim-level verification.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access and individual peer/category calibration.
+- Follow-up 2026-11-25: [Park visitor programme](https://ndoki.org/en-us/Visit/Mbeli-ba%C3%AF) establishes a dedicated viewing platform and recorded elephant, gorilla and sitatunga activity. Compare Lango, Dzanga Bai, Langoué and Kinabatangan; documented unobstructed clearing observation supports 9.6 wildlife provisionally, not guaranteed encounters.
+
 
 ## sight-cg-ngaga-forest-gorilla-tracking-authorized-routes — Ngaga Forest Gorilla Tracking (authorized routes) — 2026-11-25
 
@@ -115,6 +128,8 @@
 - High-score challenge: Wildlife 9.6 justified by rare specialized western lowland gorilla tracking, distinct from broad forest parks; constrained scope keeps depth below national park experience.. No approved 10.
 - Evidence: [Reference](https://kambaafrica.com/journeys/odzala-discovery/) — Operator excerpt identifies guided routes at three camps; https://visitodzala-kokoua.org/en/ park excerpt confirms forest wildlife visits; exact individual features and coordinates not verified; accessed 2026-11-25. Not complete claim-level verification.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access and individual peer/category calibration.
+- Follow-up 2026-11-25: [Operator tracking programme](https://kambaafrica.com/experiences/gorilla-tracking/) documents habituated western lowland gorilla tracking. Compared with Loango, Bwindi, Volcanoes and Kibale, specialized encounters support 9.6 wildlife provisionally; limited route depth already reflected.
+
 
 ## sight-cg-mboko-savanna-and-river-routes — Mboko Savanna and River Routes — 2026-11-25
 
@@ -225,10 +240,12 @@
 - Significance 9.0: conservation significance.
 - Experience null: public noncontact access not established.
 - Depth null: visitor scope unknown.
-- Categories: wildlife:9.2, nature:8.8. Overall: unranked.
+- Categories: wildlife:null, nature:8.8. Overall: unranked.
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Reference](https://economie-forestiere.gouv.cg/faune-aires-protegees/aires-protegees) — Ministry protected-area inventory excerpt; https://developpement-durable.gouv.cg/environnement/projets-par-paysage-departement/ identifies Ogooué-Lékéti and Ntokou; https://cg.tridom.org/en/aires-protegees Ntokou reference point. Visitor access unknown; accessed 2026-11-25. Not complete claim-level verification.
 - Remaining gaps: Normal permitted visitor experience and scope not established.
+- Follow-up 2026-11-25: Wildlife 9.2 → null: [Jane Goodall Institute](https://janegoodall.org/press-room-item/tchimpounga-sanctuary/) says rehabilitation centre is not open to general public, while [PASA](https://www.pasa.org/portfolio-collections/sanctuary-partners/tchimpounga-chimpanzee-rehabilitation-center) lists visitors allowed. Ordinary authorized experience not established, no captive-contact recommendation; retain unranked.
+
 
 ## sight-cg-lossi-gorilla-sanctuary — Lossi Gorilla Sanctuary — 2026-11-25
 
@@ -422,7 +439,7 @@
 
 ## sight-cg-sacred-heart-cathedral-brazzaville — Sacred Heart Cathedral (Brazzaville) — 2026-11-25
 
-- [YAML](../../../countries/CG/sights/sacred-heart-cathedral-brazzaville.yaml) · Action: new · **editorial-only**.
+- [YAML](../../../countries/CG/sights/sacred-heart-cathedral-brazzaville.yaml) · Action: new · **source-linked-unverified**.
 - Scope: cathedral and permitted precinct. GPS -4.27, 15.28: approximate editorial point; verification pending.
 - Worldwide peers (I/U/S/E/D):
   - [Angkor Wat (KH)](../../../countries/KH/sights/angkor-wat.yaml) — 10.0 / 10.0 / 10.0 / 9.8 / 9.5 (99.20/100); upper anchor; lower impact (historic ecclesiastical architecture); lower uniqueness (regional colonial-era church); lower significance (religious heritage); lower experience (focused respectful visit); lower depth (one building).
@@ -436,12 +453,12 @@
 - Depth 6.4: one building.
 - Categories: architecture:8.3, history:8.4. Overall: 74.10/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked destination-specific source.
+- Evidence: [Ministry religious tourism](https://developpement-durable.gouv.cg/tourisme-religieux/) and [church directory](https://gcatholic.org/churches/africa/3011) establish identity and religious heritage; [visitor description](https://africacompass.com/landmarks/sacred-heart-cathedral-brazzaville/) corroborates city walking context. Opening not confirmed; original status editorial-only.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access and individual peer/category calibration.
 
 ## sight-cg-sainte-anne-basilica-brazzaville — Sainte-Anne Basilica (Brazzaville) — 2026-11-25
 
-- [YAML](../../../countries/CG/sights/sainte-anne-basilica-brazzaville.yaml) · Action: new · **editorial-only**.
+- [YAML](../../../countries/CG/sights/sainte-anne-basilica-brazzaville.yaml) · Action: new · **source-linked-unverified**.
 - Scope: church and permitted interior. GPS -4.27, 15.29: approximate editorial point; verification pending.
 - Worldwide peers (I/U/S/E/D):
   - [Angkor Wat (KH)](../../../countries/KH/sights/angkor-wat.yaml) — 10.0 / 10.0 / 10.0 / 9.8 / 9.5 (99.20/100); upper anchor; lower impact (distinctive green-tiled roof); lower uniqueness (regional modern religious architecture); lower significance (Congo ecclesiastical heritage); lower experience (focused respectful visit); lower depth (single building).
@@ -455,7 +472,7 @@
 - Depth 7.0: single building.
 - Categories: architecture:9.1, history:8.6, culture:8.3. Overall: 81.15/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked destination-specific source.
+- Evidence: [African Development Bank 2026 visitor guide](https://am.afdb.org/en/2026-annual-meetings/your-stay/about-brazzaville) describes Roger Erell's architectural synthesis and [mapped building](https://mapcarta.com/W50491968) confirms identity. Original status editorial-only; current opening unverified.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access and individual peer/category calibration.
 
 ## sight-cg-pierre-savorgnan-de-brazza-memorial — Pierre Savorgnan de Brazza Memorial — 2026-11-25
