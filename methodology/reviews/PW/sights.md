@@ -96,6 +96,15 @@
 - Sipadan (Malaysia): close specialist reef-and-pelagic comparison
 - Richelieu Rock (Thailand): comparable concentrated marine wildlife dive
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D; original qualitative comparisons retained. Editorial comparisons, not independent factual verification.
+
+- [cape kri dive site (ID)](../../../countries/ID/sights/cape-kri-dive-site.yaml) — 9.3/9.4/8.5/9.4/8.5; Comparable single-site underwater biodiversity, stronger documented diversity.
+- [sipadan island reefs (MY)](../../../countries/MY/sights/sipadan-island-reefs.yaml) — 9.5/9.6/9.1/9.5/8.9; More extensive exceptional reef encounters across multiple sites.
+- [tubbataha (PH)](../../../countries/PH/sights/tubbataha.yaml) — 9.3/9.2/9.3/9.1/9.0; Broader protected reef ecology and landscape.
+- [hanifaru bay marine protected area (MV)](../../../countries/MV/sights/hanifaru-bay-marine-protected-area.yaml) — 9.6/9.7/9.4/9.5/7.2; Exceptional concentrated seasonal wildlife encounter, not the same reef experience.
+
 ### Scoring decisions
 | Field | New rating | Individual justification |
 | --- | ---: | --- |
@@ -131,6 +140,15 @@
 - Manta Point Nusa Penida (Indonesia): similar manta encounter
 - Hanifaru Bay (Maldives): more concentrated seasonal manta feeding
 - Richelieu Rock (Thailand): more varied reef life
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D; original qualitative comparisons retained. Editorial comparisons, not independent factual verification.
+
+- [manta point nusa penida (ID)](../../../countries/ID/sights/manta-point-nusa-penida.yaml) — 9.1/9.1/7.9/9.2/8.0; Comparable focused manta-associated experience.
+- [hanifaru bay marine protected area (MV)](../../../countries/MV/sights/hanifaru-bay-marine-protected-area.yaml) — 9.6/9.7/9.4/9.5/7.2; More exceptional concentrated seasonal encounters, not guaranteed.
+- [manta sandy raja ampat (ID)](../../../countries/ID/sights/manta-sandy-raja-ampat.yaml) — 9.1/9.2/8.3/9.3/8.1; Similar focused manta-associated marine setting.
+- [blue corner (PW)](../../../countries/PW/sights/blue-corner.yaml) — 9.3/9.0/8.3/9.3/8.6; Stronger general reef wildlife experience and depth.
 
 ### Scoring decisions
 | Field | New rating | Individual justification |
@@ -168,6 +186,15 @@
 - Tegenungan Waterfall (Indonesia): similar accessible tropical cascade
 - Erawan Falls (Thailand): more extensive multi-tier exploration
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D; original qualitative comparisons retained. Editorial comparisons, not independent factual verification.
+
+- [iguazu falls argentine circuits (AR)](../../../countries/AR/sights/iguazu-falls-argentine-circuits.yaml) — 9.9/9.8/9.2/9.6/8.6; World-leading waterfall scale.
+- [kuang si waterfalls (LA)](../../../countries/LA/sights/kuang-si-waterfalls.yaml) — 9.4/9.2/8.0/9.3/8.6; Greater distinctive pools and visitor breadth.
+- [erawan waterfalls (TH)](../../../countries/TH/sights/erawan-waterfalls.yaml) — 8.7/8.7/7.1/9.0/8.0; More extensive tiered waterfall exploration.
+- [afu aau waterfall (WS)](../../../countries/WS/sights/afu-aau-waterfall.yaml) — 8.1/7.4/6.6/8.2/7.0; Close tropical forest waterfall, different approach and scale.
+
 ### Scoring decisions
 | Field | New rating | Individual justification |
 | --- | ---: | --- |
@@ -204,6 +231,15 @@
 - Plain of Jars (Laos): much more distributed archaeological landscape
 - Arorae Navigational Stones (Kiribati): comparably specialized Pacific stone heritage
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D; original qualitative comparisons retained. Editorial comparisons, not independent factual verification.
+
+- [stonehenge (GB)](../../../countries/GB/sights/stonehenge.yaml) — 9.2/9.6/9.6/8.8/9.1; Greater monumental archaeological scope and interpretation.
+- [plain of jars archaeological landscape (LA)](../../../countries/LA/sights/plain-of-jars-archaeological-landscape.yaml) — 9.0/9.6/9.5/8.7/9.0; Larger distributed megalithic landscape.
+- [arorae navigational stones (KI)](../../../countries/KI/sights/arorae-navigational-stones.yaml) — 6.9/9.1/8.9/6.8/6.4; Comparable specialized Pacific stone heritage.
+- [nan madol (FM)](../../../countries/FM/sights/nan-madol.yaml) — 9.2/9.5/9.5/8.1/8.7; Much greater coherent monumental ensemble.
+
 ### Scoring decisions
 | Field | New rating | Individual justification |
 | --- | ---: | --- |
@@ -238,6 +274,15 @@
 - Hoi An Ancient Town (Vietnam): more extensive built heritage
 - Kampong Ayer (Brunei): broader living vernacular setting
 - Belau National Museum (Palau): broader collection but meetinghouse is original heritage
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D; original qualitative comparisons retained. Editorial comparisons, not independent factual verification.
+
+- [hahoe folk village (KR)](../../../countries/KR/sights/hahoe-folk-village.yaml) — 9.0/9.3/9.4/9.2/8.9; Far larger living vernacular ensemble.
+- [hoi an ancient town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) — 9.3/9.5/9.3/9.5/9.2; More extensive built heritage and visitor depth.
+- [kampong ayer (BN)](../../../countries/BN/sights/kampong-ayer.yaml) — 8.5/9.1/8.7/8.7/8.5; Broader vernacular settlement, not a single building.
+- [lapaha royal tombs (TO)](../../../countries/TO/sights/lapaha-royal-tombs.yaml) — 8.0/8.8/9.0/7.2/7.8; Different but related Pacific customary heritage, comparable focused scope.
 
 ### Scoring decisions
 | Field | New rating | Individual justification |
@@ -275,6 +320,15 @@
 - National Museum of Cambodia (Cambodia): stronger archaeological scale
 - Alele Museum (Marshall Islands): similar Pacific national institution
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D; original qualitative comparisons retained. Editorial comparisons, not independent factual verification.
+
+- [national museum of korea (KR)](../../../countries/KR/sights/national-museum-of-korea.yaml) — 9.1/9.3/9.4/9.3/9.6; Much broader collection and interpretation.
+- [kunsthistorisches museum (AT)](../../../countries/AT/sights/kunsthistorisches-museum.yaml) — 9.2/9.4/9.6/9.4/9.5; Exceptional global art and architecture scope.
+- [national museum cambodia (KH)](../../../countries/KH/sights/national-museum-cambodia.yaml) — 8.8/9.1/9.3/9.1/8.8; More substantial archaeological collection.
+- [alele museum (MH)](../../../countries/MH/sights/alele-museum.yaml) — 6.9/8.1/8.1/7.3/7.0; Close national Pacific museum, smaller exhibit depth.
+
 ### Scoring decisions
 | Field | New rating | Individual justification |
 | --- | ---: | --- |
@@ -310,6 +364,15 @@
 - Kunsthistorisches Museum (Austria): far greater art history
 - National Museum of Cambodia (Cambodia): broader archaeology
 - Alele Museum (Marshall Islands): close compact Pacific cultural museum
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D; original qualitative comparisons retained. Editorial comparisons, not independent factual verification.
+
+- [national museum of korea (KR)](../../../countries/KR/sights/national-museum-of-korea.yaml) — 9.1/9.3/9.4/9.3/9.6; Far greater collection and visitor depth.
+- [kunsthistorisches museum (AT)](../../../countries/AT/sights/kunsthistorisches-museum.yaml) — 9.2/9.4/9.6/9.4/9.5; World-leading art collection rather than compact private museum.
+- [national museum vanuatu (VU)](../../../countries/VU/sights/national-museum-vanuatu.yaml) — 7.0/8.1/8.3/8.0/7.5; Comparable regional cultural institution with broader national context.
+- [alele museum (MH)](../../../countries/MH/sights/alele-museum.yaml) — 6.9/8.1/8.1/7.3/7.0; Close compact Pacific museum scope.
 
 ### Scoring decisions
 | Field | New rating | Individual justification |
@@ -349,6 +412,15 @@
 - Lake Letas (Vanuatu): larger volcanic context
 - Buada Lagoon (Nauru): smaller short stop
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D; original qualitative comparisons retained. Editorial comparisons, not independent factual verification.
+
+- [tonle sap lake (KH)](../../../countries/KH/sights/tonle-sap-lake.yaml) — 9.0/9.2/9.5/8.8/9.2; Much greater ecological system and visitor breadth.
+- [cheow lan lake (TH)](../../../countries/TH/sights/cheow-lan-lake.yaml) — 9.1/9.3/8.5/9.3/8.7; More dramatic karst and developed boat visits.
+- [lake letas (VU)](../../../countries/VU/sights/lake-letas.yaml) — 8.5/8.6/8.7/8.4/8.0; Larger distinctive volcanic lake landscape.
+- [buada lagoon (NR)](../../../countries/NR/sights/buada-lagoon.yaml) — 6.6/7.1/6.5/6.0/5.3; Smaller inland water feature, narrower documented visit.
+
 ### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
@@ -382,6 +454,15 @@
 - Stonehenge (United Kingdom): more monumental and documented visitor interpretation
 - Plain of Jars (Laos): larger distributed archaeological landscape
 - Lapaha Royal Tombs (Tonga): related Pacific customary stone heritage
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D; original qualitative comparisons retained. Editorial comparisons, not independent factual verification.
+
+- [nan madol (FM)](../../../countries/FM/sights/nan-madol.yaml) — 9.2/9.5/9.5/8.1/8.7; Much greater visible monumentality and documented heritage visits.
+- [plain of jars archaeological landscape (LA)](../../../countries/LA/sights/plain-of-jars-archaeological-landscape.yaml) — 9.0/9.6/9.5/8.7/9.0; Broader visible archaeological landscape.
+- [stonehenge (GB)](../../../countries/GB/sights/stonehenge.yaml) — 9.2/9.6/9.6/8.8/9.1; Greater interpreted monumental remains.
+- [lapaha royal tombs (TO)](../../../countries/TO/sights/lapaha-royal-tombs.yaml) — 8.0/8.8/9.0/7.2/7.8; Related Pacific customary heritage with documented focused visitor context.
 
 ### Scoring decisions
 | Field | New rating | Individual justification |
@@ -418,6 +499,15 @@
 - Plain of Jars (Laos): larger distributed archaeological landscape
 - Lapaha Royal Tombs (Tonga): related Pacific customary stone heritage
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D; original qualitative comparisons retained. Editorial comparisons, not independent factual verification.
+
+- [nan madol (FM)](../../../countries/FM/sights/nan-madol.yaml) — 9.2/9.5/9.5/8.1/8.7; More clearly bounded monumental heritage experience.
+- [taman negara national park (MY)](../../../countries/MY/sights/taman-negara-national-park.yaml) — 9.0/9.1/9.0/8.9/9.2; Established forest visitor routes rather than sacred mixed landscape.
+- [khao sok national park (TH)](../../../countries/TH/sights/khao-sok-national-park.yaml) — 9.4/9.4/9.1/9.4/9.3; More developed forest and waterscape experiences.
+- [lapaha royal tombs (TO)](../../../countries/TO/sights/lapaha-royal-tombs.yaml) — 8.0/8.8/9.0/7.2/7.8; Comparable customary heritage context, not evidence of access to Imeong.
+
 ### Scoring decisions
 | Field | New rating | Individual justification |
 | --- | ---: | --- |
@@ -451,6 +541,15 @@
 - Stonehenge (United Kingdom): more monumental and documented visitor interpretation
 - Plain of Jars (Laos): larger distributed archaeological landscape
 - Lapaha Royal Tombs (Tonga): related Pacific customary stone heritage
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D; original qualitative comparisons retained. Editorial comparisons, not independent factual verification.
+
+- [mangyol stone money bank (FM)](../../../countries/FM/sights/mangyol-stone-money-bank.yaml) — 7.6/9.2/8.7/7.4/7.1; Closest related stone-money heritage, different production versus use context.
+- [ban chiang archaeological site (TH)](../../../countries/TH/sights/ban-chiang-archaeological-site.yaml) — 8.4/9.2/9.6/8.2/8.1; More established archaeological interpretation.
+- [lenggong valley archaeological heritage (MY)](../../../countries/MY/sights/lenggong-valley-archaeological-heritage.yaml) — 8.0/9.0/9.5/8.0/8.4; Broader documented archaeological landscape.
+- [carnuntum archaeological park (AT)](../../../countries/AT/sights/carnuntum-archaeological-park.yaml) — 8.7/8.9/9.0/8.8/8.4; Far more tangible and accessible archaeological interpretation.
 
 ### Scoring decisions
 | Field | New rating | Individual justification |
@@ -490,6 +589,15 @@
 - Carnuntum Archaeological Park (Austria), 8.7/8.9/9.0/8.8/8.4: much more tangible and interpreted visitor experience.
 - Badrulchau Stone Monoliths (Palau), 7.4/8.8/8.6/7.5/7.0: comparable local megalithic heritage but different function and established visitor scope.
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D; original qualitative comparisons retained. Editorial comparisons, not independent factual verification.
+
+- [mangyol stone money bank (FM)](../../../countries/FM/sights/mangyol-stone-money-bank.yaml) — 7.6/9.2/8.7/7.4/7.1; Related stone-money culture, not evidence of quarry or burial access.
+- [ban chiang archaeological site (TH)](../../../countries/TH/sights/ban-chiang-archaeological-site.yaml) — 8.4/9.2/9.6/8.2/8.1; Greater interpreted prehistoric significance.
+- [lenggong valley archaeological heritage (MY)](../../../countries/MY/sights/lenggong-valley-archaeological-heritage.yaml) — 8.0/9.0/9.5/8.0/8.4; Broader archaeological chronology and established visitation.
+- [londa burial caves (ID)](../../../countries/ID/sights/londa-burial-caves.yaml) — 8.8/9.4/9.0/8.8/8.0; Distinct documented customary burial heritage, no transfer of permission.
+
 ### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
@@ -528,6 +636,15 @@
 - Carnuntum Archaeological Park (Austria), 8.7/8.9/9.0/8.8/8.4: much more tangible and interpreted visitor experience.
 - Badrulchau Stone Monoliths (Palau), 7.4/8.8/8.6/7.5/7.0: comparable local megalithic heritage but different function and established visitor scope.
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D; original qualitative comparisons retained. Editorial comparisons, not independent factual verification.
+
+- [mangyol stone money bank (FM)](../../../countries/FM/sights/mangyol-stone-money-bank.yaml) — 7.6/9.2/8.7/7.4/7.1; Related stone-money tradition, different quarrying versus use scope.
+- [lenggong valley archaeological heritage (MY)](../../../countries/MY/sights/lenggong-valley-archaeological-heritage.yaml) — 8.0/9.0/9.5/8.0/8.4; Broader documented archaeological landscape.
+- [ban chiang archaeological site (TH)](../../../countries/TH/sights/ban-chiang-archaeological-site.yaml) — 8.4/9.2/9.6/8.2/8.1; Stronger established interpretation.
+- [carnuntum archaeological park (AT)](../../../countries/AT/sights/carnuntum-archaeological-park.yaml) — 8.7/8.9/9.0/8.8/8.4; More tangible documented visitor experience.
+
 ### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
@@ -561,6 +678,15 @@
 - Stonehenge (United Kingdom): more monumental and documented visitor interpretation
 - Plain of Jars (Laos): larger distributed archaeological landscape
 - Lapaha Royal Tombs (Tonga): related Pacific customary stone heritage
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D; original qualitative comparisons retained. Editorial comparisons, not independent factual verification.
+
+- [lapaha royal tombs (TO)](../../../countries/TO/sights/lapaha-royal-tombs.yaml) — 8.0/8.8/9.0/7.2/7.8; Broader chiefly funerary heritage landscape.
+- [londa burial caves (ID)](../../../countries/ID/sights/londa-burial-caves.yaml) — 8.8/9.4/9.0/8.8/8.0; More extensive customary burial heritage, not access evidence.
+- [nan madol (FM)](../../../countries/FM/sights/nan-madol.yaml) — 9.2/9.5/9.5/8.1/8.7; Greater visible ceremonial ensemble.
+- [arorae navigational stones (KI)](../../../countries/KI/sights/arorae-navigational-stones.yaml) — 6.9/9.1/8.9/6.8/6.4; Comparable focused Pacific stone heritage, different function.
 
 ### Scoring decisions
 | Field | New rating | Individual justification |
@@ -598,6 +724,15 @@
 - Richelieu Rock (Thailand): comparable concentrated marine experience
 - Great Barrier Reef (Australia): vastly greater system-wide diversity and scope
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D; original qualitative comparisons retained. Editorial comparisons, not independent factual verification.
+
+- [blue corner (PW)](../../../countries/PW/sights/blue-corner.yaml) — 9.3/9.0/8.3/9.3/8.6; Stronger concentrated large-fish reef experience.
+- [cape kri dive site (ID)](../../../countries/ID/sights/cape-kri-dive-site.yaml) — 9.3/9.4/8.5/9.4/8.5; Greater documented single-site reef biodiversity.
+- [sipadan island reefs (MY)](../../../countries/MY/sights/sipadan-island-reefs.yaml) — 9.5/9.6/9.1/9.5/8.9; More extensive exceptional reef encounters.
+- [apo reef (PH)](../../../countries/PH/sights/apo-reef.yaml) — 9.0/8.8/8.9/8.8/8.5; Broader reef conservation and diving scope.
+
 ### Scoring decisions
 | Field | New rating | Individual justification |
 | --- | ---: | --- |
@@ -633,6 +768,15 @@
 - Rainbow Reef (Fiji): greater multi-site soft coral breadth
 - Richelieu Rock (Thailand): comparable concentrated marine experience
 - Great Barrier Reef (Australia): vastly greater system-wide diversity and scope
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D; original qualitative comparisons retained. Editorial comparisons, not independent factual verification.
+
+- [chandelier cave (PW)](../../../countries/PW/sights/chandelier-cave.yaml) — 9.0/9.0/7.8/8.5/7.9; Comparable submerged cavern, different reef and light setting.
+- [chinhoyi caves (ZW)](../../../countries/ZW/sights/chinhoyi-caves.yaml) — 8.8/9.0/7.9/8.7/7.8; Comparable aquatic cavern landscape, not identical diving scope.
+- [kong lor cave (LA)](../../../countries/LA/sights/kong-lor-cave.yaml) — 9.3/9.4/8.6/9.4/8.7; Much larger ordinary cave visit.
+- [puerto princesa underground river (PH)](../../../countries/PH/sights/puerto-princesa-underground-river.yaml) — 9.2/9.2/8.9/8.8/8.3; Broader interpreted cave system, different visitor mode.
 
 ### Scoring decisions
 | Field | New rating | Individual justification |
@@ -670,6 +814,15 @@
 - Arno Atoll (Marshall Islands): comparable small island-water experience
 - Rock Islands Southern Lagoon (Palau): stronger karst and activity breadth
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D; original qualitative comparisons retained. Editorial comparisons, not independent factual verification.
+
+- [funafuti lagoon (TV)](../../../countries/TV/sights/funafuti-lagoon.yaml) — 8.1/8.0/7.5/7.6/7.5; Close atoll waterscape, more modest scenic profile.
+- [arno atoll (MH)](../../../countries/MH/sights/arno-atoll.yaml) — 8.2/8.1/7.3/8.0/7.9; Comparable small atoll recreational scope.
+- [rock islands southern lagoon (PW)](../../../countries/PW/sights/rock-islands-southern-lagoon.yaml) — 9.5/9.5/9.3/9.4/9.3; Much stronger karst island scenery and visitor depth.
+- [tobago cays marine park (VC)](../../../countries/VC/sights/tobago-cays-marine-park.yaml) — 9.4/9.3/9.1/9.1/8.9; Greater established reef and island recreation.
+
 ### Scoring decisions
 | Field | New rating | Individual justification |
 | --- | ---: | --- |
@@ -705,6 +858,15 @@
 - Imperial War Museum (United Kingdom): broader historical collection
 - Vilu War Museum (Solomon Islands): comparable regional historical institution
 - Alele Museum (Marshall Islands): comparable compact Pacific museum
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D; original qualitative comparisons retained. Editorial comparisons, not independent factual verification.
+
+- [hiroshima peace memorial museum (JP)](../../../countries/JP/sights/hiroshima-peace-memorial-museum.yaml) — 9.3/9.6/9.8/9.4/9.0; Much greater interpreted historical significance and visitor depth.
+- [war remnants museum (VN)](../../../countries/VN/sights/war-remnants-museum.yaml) — 8.8/9.1/9.5/9.1/8.7; More extensive historical collections and interpretation.
+- [alele museum (MH)](../../../countries/MH/sights/alele-museum.yaml) — 6.9/8.1/8.1/7.3/7.0; Comparable compact Pacific museum scale.
+- [national museum vanuatu (VU)](../../../countries/VU/sights/national-museum-vanuatu.yaml) — 7.0/8.1/8.3/8.0/7.5; Broader national cultural collection, different historical focus.
 
 ### Scoring decisions
 | Field | New rating | Individual justification |
@@ -744,6 +906,15 @@
 - Carnuntum Archaeological Park (Austria), 8.7/8.9/9.0/8.8/8.4: tangible archaeological interpretation, different era and significance.
 - Peleliu World War II Memorial Museum (Palau), 7.1/7.9/8.4/7.6/7.0: narrower separately rated museum; battlefield is not the museum's score plus other scores.
 - Tuol Sleng Genocide Museum (Cambodia), 9.1/9.4/9.9/9.0/8.9: stronger globally recognized memorial and documentary interpretation.
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D; original qualitative comparisons retained. Editorial comparisons, not independent factual verification.
+
+- [cu chi tunnels (VN)](../../../countries/VN/sights/cu-chi-tunnels.yaml) — 8.8/9.1/9.3/8.8/8.4; More distinctive interpreted underground historical heritage.
+- [mauthausen memorial (AT)](../../../countries/AT/sights/mauthausen-memorial.yaml) — 9.1/9.4/9.8/9.0/8.8; Far greater global memorial significance and educational interpretation.
+- [tuol sleng genocide museum (KH)](../../../countries/KH/sights/tuol-sleng-genocide-museum.yaml) — 9.1/9.4/9.9/9.0/8.9; Greater interpreted historical significance, different context.
+- [carnuntum archaeological park (AT)](../../../countries/AT/sights/carnuntum-archaeological-park.yaml) — 8.7/8.9/9.0/8.8/8.4; More tangible archaeological interpretation, different era.
 
 ### Scoring decisions
 | Field | Before | New rating | Individual justification |
