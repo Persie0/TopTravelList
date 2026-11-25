@@ -1,0 +1,17 @@
+id: sight-br-historic-centre-of-olinda
+name: "Historic Centre of Olinda"
+location:
+  country_code: BR
+  latitude: -8.0140
+  longitude: -34.8500
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 9.4
+  experience: 8.6
+  depth: 8.3
+  categories:
+    architecture: 9.6
+    history: 9.4
+    culture: 9.4
+    photography: 9.3

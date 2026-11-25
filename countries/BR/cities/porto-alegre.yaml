@@ -1,0 +1,16 @@
+id: city-br-porto-alegre
+name: "Porto Alegre"
+location:
+  country_code: BR
+  latitude: -30.0346
+  longitude: -51.2177
+scores:
+  impact: 7.5
+  uniqueness: 7.8
+  significance: 7.8
+  experience: 8.0
+  depth: 8.3
+  categories:
+    culture: 8.6
+    food: 8.5
+    history: 8.2

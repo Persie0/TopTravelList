@@ -1,0 +1,17 @@
+id: city-br-sao-paulo
+name: "São Paulo"
+location:
+  country_code: BR
+  latitude: -23.5505
+  longitude: -46.6333
+scores:
+  impact: 8.3
+  uniqueness: 8.4
+  significance: 8.9
+  experience: 8.8
+  depth: 9.6
+  categories:
+    food: 9.5
+    culture: 9.4
+    architecture: 8.8
+    nightlife: 9.4
