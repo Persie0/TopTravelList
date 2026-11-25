@@ -566,3 +566,178 @@ All scores are provisional editorial judgments; no independent fact-check status
 - Earlier decision: none.
 - Verification still needed: Independent factual and geographic verification.
 
+
+## city-mx-alamos — Álamos — 2026-11-25
+
+- YAML: [source](../../../countries/MX/cities/alamos.yaml)
+- Action: new
+- Precise subject: Historic settlement and its own streets.
+- Location check: 27.028, -108.940; approximate representative point, not a surveyed entrance; independent check outstanding.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO World Heritage Centre](https://whc.unesco.org/en/tentativelists/1541/) — nomination identity and scope linked; country inventory checked 2026-11-25. Does not verify all claims, current access or coordinates.
+- Missing or uncertain facts: Independent claim-level corroboration and exact GPS; ordinary access conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Hallstatt](../../../countries/AT/cities/hallstatt.yaml) | less alpine spectacle than Hallstatt |
+| [Port Elizabeth](../../../countries/VC/cities/port-elizabeth-bequia.yaml) | more colonial built fabric than Port Elizabeth |
+| [Speightstown](../../../countries/BB/cities/speightstown.yaml) | different mining heritage from Speightstown |
+| [Placencia](../../../countries/BZ/cities/placencia-village.yaml) | more architecture than Placencia |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 7.9 | colonial streets and arches |
+| Uniqueness | 8.3 | distinct northern mining-town fabric |
+| Significance | 8.3 | regional silver history |
+| Experience | 8.0 | town heritage walks |
+| Depth | 7.4 | compact historic circuit |
+
+- Applicable categories: architecture:8.8,history:8.7,culture:8.4.
+- Overall: 80.45/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial score of named scope only.
+- Earlier decision: none.
+- Verification still needed: Site-specific access and geography.
+
+## city-mx-san-sebastian-del-oeste — San Sebastián del Oeste — 2026-11-25
+
+- YAML: [source](../../../countries/MX/cities/san-sebastian-del-oeste.yaml)
+- Action: new
+- Precise subject: Historic mountain town, not surrounding region.
+- Location check: 20.762, -104.853; approximate representative point, not a surveyed entrance; independent check outstanding.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO World Heritage Centre](https://whc.unesco.org/en/tentativelists/1590/) — nomination identity and scope linked; country inventory checked 2026-11-25. Does not verify all claims, current access or coordinates.
+- Missing or uncertain facts: Independent claim-level corroboration and exact GPS; ordinary access conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Hallstatt](../../../countries/AT/cities/hallstatt.yaml) | less coherent scenery than Hallstatt |
+| [Port Elizabeth](../../../countries/VC/cities/port-elizabeth-bequia.yaml) | different inland history from Port Elizabeth |
+| [Speightstown](../../../countries/BB/cities/speightstown.yaml) | less urban breadth than Speightstown |
+| [Placencia](../../../countries/BZ/cities/placencia-village.yaml) | more built heritage than Placencia |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 7.8 | mountain-framed town streets |
+| Uniqueness | 8.1 | preserved mining settlement character |
+| Significance | 7.9 | regional mining history |
+| Experience | 7.9 | local walks and food |
+| Depth | 7.0 | small town circuit |
+
+- Applicable categories: architecture:8.6,history:8.5,photography:8.6.
+- Overall: 78.30/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial score of named scope only.
+- Earlier decision: none.
+- Verification still needed: Site-specific access and geography.
+
+## city-mx-cosala — Cosalá — 2026-11-25
+
+- YAML: [source](../../../countries/MX/cities/cosala.yaml)
+- Action: new
+- Precise subject: Historic town only.
+- Location check: 24.415, -106.692; approximate representative point, not a surveyed entrance; independent check outstanding.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO World Heritage Centre](https://whc.unesco.org/en/tentativelists/1958/) — nomination identity and scope linked; country inventory checked 2026-11-25. Does not verify all claims, current access or coordinates.
+- Missing or uncertain facts: Independent claim-level corroboration and exact GPS; ordinary access conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Hallstatt](../../../countries/AT/cities/hallstatt.yaml) | less scenic than Hallstatt |
+| [Port Elizabeth](../../../countries/VC/cities/port-elizabeth-bequia.yaml) | more mining history than Port Elizabeth |
+| [Speightstown](../../../countries/BB/cities/speightstown.yaml) | less built coherence than Speightstown |
+| [Placencia](../../../countries/BZ/cities/placencia-village.yaml) | more architecture than Placencia |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 7.6 | colorful historic streets |
+| Uniqueness | 8.0 | regional mining-town character |
+| Significance | 8.0 | local colonial mining heritage |
+| Experience | 7.8 | walks and food |
+| Depth | 7.0 | compact town circuit |
+
+- Applicable categories: architecture:8.5,history:8.5,culture:8.2.
+- Overall: 77.50/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial score of named scope only.
+- Earlier decision: none.
+- Verification still needed: Site-specific access and geography.
+
+## city-mx-cuetzalan — Cuetzalan — 2026-11-25
+
+- YAML: [source](../../../countries/MX/cities/cuetzalan.yaml)
+- Action: new
+- Precise subject: Town only; broader tentative surroundings not wholly represented.
+- Location check: 20.017, -97.523; approximate representative point, not a surveyed entrance; independent check outstanding.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO World Heritage Centre](https://whc.unesco.org/en/tentativelists/5077/) — nomination identity and scope linked; country inventory checked 2026-11-25. Does not verify all claims, current access or coordinates.
+- Missing or uncertain facts: Independent claim-level corroboration and exact GPS; ordinary access conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Hallstatt](../../../countries/AT/cities/hallstatt.yaml) | less alpine backdrop than Hallstatt |
+| [Port Elizabeth](../../../countries/VC/cities/port-elizabeth-bequia.yaml) | greater Indigenous craft emphasis than Port Elizabeth |
+| [Speightstown](../../../countries/BB/cities/speightstown.yaml) | different cultural heritage from Speightstown |
+| [Placencia](../../../countries/BZ/cities/placencia-village.yaml) | more cultural depth than Placencia |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.0 | hillside streets and market |
+| Uniqueness | 8.5 | distinct living Indigenous and town culture |
+| Significance | 8.2 | regional cultural history |
+| Experience | 8.3 | market and town encounters |
+| Depth | 7.6 | several independent stops |
+
+- Applicable categories: culture:9.0,architecture:8.6,photography:8.8.
+- Overall: 81.70/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial score of named scope only.
+- Earlier decision: none.
+- Verification still needed: Site-specific access and geography.
+
+## city-mx-patzcuaro — Pátzcuaro — 2026-11-25
+
+- YAML: [source](../../../countries/MX/cities/patzcuaro.yaml)
+- Action: new
+- Precise subject: Historic town and civic culture, not entire lake.
+- Location check: 19.514, -101.609; approximate representative point, not a surveyed entrance; independent check outstanding.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO World Heritage Centre](https://whc.unesco.org/en/tentativelists/6676/) — nomination identity and scope linked; country inventory checked 2026-11-25. Does not verify all claims, current access or coordinates.
+- Missing or uncertain facts: Independent claim-level corroboration and exact GPS; ordinary access conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Hallstatt](../../../countries/AT/cities/hallstatt.yaml) | more urban heritage breadth than Hallstatt |
+| [Port Elizabeth](../../../countries/VC/cities/port-elizabeth-bequia.yaml) | more built depth than Port Elizabeth |
+| [Speightstown](../../../countries/BB/cities/speightstown.yaml) | different Indigenous cultural heritage from Speightstown |
+| [Placencia](../../../countries/BZ/cities/placencia-village.yaml) | greater architecture than Placencia |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.4 | historic plazas and adobe streets |
+| Uniqueness | 8.7 | distinct Purépecha and colonial urban heritage |
+| Significance | 8.8 | important regional cultural history |
+| Experience | 8.5 | craft and architectural encounters |
+| Depth | 8.1 | multiple town sites |
+
+- Applicable categories: culture:9.2,architecture:8.9,history:9.1.
+- Overall: 85.40/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial score of named scope only.
+- Earlier decision: none.
+- Verification still needed: Site-specific access and geography.

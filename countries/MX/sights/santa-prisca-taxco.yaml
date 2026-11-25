@@ -1,0 +1,15 @@
+id: sight-mx-santa-prisca-taxco
+name: "Church of Santa Prisca (Taxco)"
+location:
+  country_code: MX
+  latitude: 18.556
+  longitude: -99.605
+scores:
+  impact: 8.5
+  uniqueness: 8.6
+  significance: 8.8
+  experience: 8.2
+  depth: 7.6
+  categories:
+    architecture: 9.3
+    history: 8.9
