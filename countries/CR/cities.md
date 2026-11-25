@@ -2,7 +2,7 @@
 
 # Costa Rica (CR) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**28 ranked** · **0 unassessed** · **28 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,38 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, or click its GPS coordinates to open **Google Maps**. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (28)
 
-No cities, towns & villages have been assessed for **Costa Rica** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps |
+| ---: | --- | --- | ---: | --- | --- | --- |
+| 1 | [Puerto Viejo de Talamanca](cities/puerto-viejo-de-talamanca.yaml) | City / town | **80.95** | **Culture 8.8**, **Food 8.6**, **Relaxation 8.5**, Nightlife 8.3 | 8.2 / 8.5 / 7.3 / 8.6 / 7.6 | [9.656, -82.754](https://www.google.com/maps/search/?api=1&query=9.656,-82.754) |
+| 2 | [San José](cities/san-jose.yaml) | City / town | **79.10** | **Culture 8.5**, **History 8.5**, **Food 8.2** | 7.7 / 7.5 / 8.3 / 8.1 / 8.5 | [9.9281, -84.0907](https://www.google.com/maps/search/?api=1&query=9.9281,-84.0907) |
+| 3 | [Cartago](cities/cartago.yaml) | City / town | **78.35** | **History 8.7**, **Culture 8.4**, **Architecture 8.3** | 7.6 / 7.8 / 8.4 / 7.9 / 7.4 | [9.8644, -83.9194](https://www.google.com/maps/search/?api=1&query=9.8644,-83.9194) |
+| 4 | [Tortuguero Village](cities/tortuguero-village.yaml) | Village | **76.80** | **Photography 8.4**, **Culture 8.2**, **Relaxation 8.0** | 7.7 / 8.5 / 7.0 / 7.9 / 6.6 | [10.542, -83.503](https://www.google.com/maps/search/?api=1&query=10.542,-83.503) |
+| 5 | [Cahuita](cities/cahuita.yaml) | City / town | **75.70** | **Culture 8.3**, **Relaxation 8.3**, **Food 8.0** | 7.5 / 7.9 / 7.2 / 8.1 / 6.9 | [9.735, -82.844](https://www.google.com/maps/search/?api=1&query=9.735,-82.844) |
+| 6 | [Sarchí](cities/sarchi.yaml) | City / town | **75.15** | **Culture 8.6**, **Architecture 8.0** | 7.2 / 8.0 / 7.7 / 7.7 / 6.6 | [10.091, -84.348](https://www.google.com/maps/search/?api=1&query=10.091,-84.348) |
+| 7 | [Orosi](cities/orosi.yaml) | City / town | **74.75** | **History 8.4**, **Architecture 8.0**, **Photography 8.0** | 7.3 / 7.7 / 7.8 / 7.6 / 6.6 | [9.796, -83.853](https://www.google.com/maps/search/?api=1&query=9.796,-83.853) |
+| 8 | [Santa Elena (Monteverde)](cities/santa-elena-monteverde.yaml) | City / town | **74.40** | **Food 8.0**, **Relaxation 8.0**, **Culture 7.9** | 7.4 / 7.8 / 6.8 / 8.0 / 7.1 | [10.315, -84.825](https://www.google.com/maps/search/?api=1&query=10.315,-84.825) |
+| 9 | [Montezuma](cities/montezuma.yaml) | City / town | **74.30** | **Relaxation 8.5**, **Photography 8.0**, **Culture 7.9** | 7.6 / 7.9 / 6.5 / 8.1 / 6.6 | [9.654, -85.068](https://www.google.com/maps/search/?api=1&query=9.654,-85.068) |
+| 10 | [Liberia](cities/liberia.yaml) | City / town | **74.25** | **Architecture 8.1**, **Culture 8.0**, **History 7.9** | 7.2 / 7.6 / 7.7 / 7.5 / 7.0 | [10.635, -85.437](https://www.google.com/maps/search/?api=1&query=10.635,-85.437) |
+| 11 | [La Fortuna](cities/la-fortuna.yaml) | City / town | **74.05** | **Relaxation 8.1**, **Food 8.0**, **Photography 8.0** | 7.5 / 7.6 / 6.4 / 8.3 / 7.3 | [10.471, -84.645](https://www.google.com/maps/search/?api=1&query=10.471,-84.645) |
+| 12 | [Tamarindo](cities/tamarindo.yaml) | City / town | **73.80** | **Food 8.4**, **Nightlife 8.4**, **Relaxation 8.3** | 7.5 / 7.5 / 6.2 / 8.5 / 7.4 | [10.299, -85.839](https://www.google.com/maps/search/?api=1&query=10.299,-85.839) |
+| 13 | [Santa Teresa](cities/santa-teresa.yaml) | City / town | **73.70** | **Relaxation 8.4**, **Food 8.1**, **Nightlife 7.7** | 7.6 / 7.7 / 6.1 / 8.3 / 7.0 | [9.642, -85.165](https://www.google.com/maps/search/?api=1&query=9.642,-85.165) |
+| 14 | [Sámara](cities/samara.yaml) | City / town | **73.65** | **Relaxation 8.5**, **Food 8.1** | 7.5 / 7.6 / 6.4 / 8.3 / 6.9 | [9.882, -85.528](https://www.google.com/maps/search/?api=1&query=9.882,-85.528) |
+| 15 | [Limón](cities/limon.yaml) | City / town | **73.40** | **Culture 8.5**, **Food 8.0**, **History 8.0** | 6.8 / 7.7 / 7.8 / 7.3 / 7.2 | [9.99, -83.035](https://www.google.com/maps/search/?api=1&query=9.99,-83.035) |
+| 16 | [Golfito](cities/golfito.yaml) | City / town | **73.05** | **History 7.9**, **Photography 7.8**, **Culture 7.6** | 7.1 / 7.5 / 7.5 / 7.4 / 6.9 | [8.638, -83.167](https://www.google.com/maps/search/?api=1&query=8.638,-83.167) |
+| 16 | [Puntarenas](cities/puntarenas.yaml) | City / town | **73.05** | **Food 8.2**, **Culture 7.8** | 7.0 / 7.4 / 7.4 / 7.7 / 7.2 | [9.977, -84.838](https://www.google.com/maps/search/?api=1&query=9.977,-84.838) |
+| 18 | [Heredia](cities/heredia.yaml) | City / town | **72.25** | **Culture 7.9**, **Architecture 7.8**, **Food 7.8** | 7.0 / 7.2 / 7.5 / 7.5 / 7.0 | [9.998, -84.116](https://www.google.com/maps/search/?api=1&query=9.998,-84.116) |
+| 19 | [Dominical](cities/dominical.yaml) | City / town | **72.05** | **Relaxation 8.3**, **Food 8.0** | 7.3 / 7.6 / 6.2 / 8.1 / 6.6 | [9.253, -83.859](https://www.google.com/maps/search/?api=1&query=9.253,-83.859) |
+| 20 | [Alajuela](cities/alajuela.yaml) | City / town | **70.90** | **Food 7.8**, **History 7.8**, **Culture 7.7** | 6.8 / 7.0 / 7.4 / 7.4 / 7.1 | [10.016, -84.214](https://www.google.com/maps/search/?api=1&query=10.016,-84.214) |
+| 21 | [Quepos](cities/quepos.yaml) | City / town | **70.75** | **Food 7.9**, **Relaxation 7.8** | 6.9 / 7.3 / 6.7 / 7.6 / 7.0 | [9.431, -84.161](https://www.google.com/maps/search/?api=1&query=9.431,-84.161) |
+| 22 | [Turrialba](cities/turrialba.yaml) | City / town | **70.25** | **Food 7.9**, **Culture 7.6** | 6.7 / 7.1 / 7.2 / 7.4 / 6.9 | [9.904, -83.683](https://www.google.com/maps/search/?api=1&query=9.904,-83.683) |
+| 23 | [San Gerardo de Dota](cities/san-gerardo-de-dota.yaml) | City / town | **70.20** | **Relaxation 8.3**, **Photography 8.0** | 7.0 / 7.7 / 6.1 / 7.7 / 6.2 | [9.551, -83.802](https://www.google.com/maps/search/?api=1&query=9.551,-83.802) |
+| 24 | [Puerto Jiménez](cities/puerto-jimenez.yaml) | City / town | **69.90** | **Food 7.8**, **Culture 7.7** | 6.7 / 7.4 / 6.6 / 7.6 / 6.7 | [8.538, -83.306](https://www.google.com/maps/search/?api=1&query=8.538,-83.306) |
+| 25 | [Jacó](cities/jaco.yaml) | City / town | **69.80** | **Nightlife 8.3**, **Food 7.9**, **Relaxation 7.9** | 7.0 / 7.0 / 6.0 / 8.0 / 7.3 | [9.615, -84.628](https://www.google.com/maps/search/?api=1&query=9.615,-84.628) |
+| 26 | [Nosara](cities/nosara.yaml) | City / town | **69.00** | **Relaxation 8.0**, **Culture 7.4** | 6.8 / 7.4 / 6.1 / 7.6 / 6.5 | [9.98, -85.651](https://www.google.com/maps/search/?api=1&query=9.98,-85.651) |
+| 27 | [San Isidro de El General](cities/san-isidro-de-el-general.yaml) | City / town | **68.50** | **Food 7.7**, **Culture 7.5** | 6.5 / 6.9 / 6.9 / 7.3 / 7.0 | [9.372, -83.704](https://www.google.com/maps/search/?api=1&query=9.372,-83.704) |
+| 28 | [Uvita](cities/uvita.yaml) | City / town | **67.40** | **Relaxation 8.0**, **Food 7.7** | 6.6 / 7.0 / 6.0 / 7.6 / 6.7 | [9.163, -83.736](https://www.google.com/maps/search/?api=1&query=9.163,-83.736) |
 
 ---
 
