@@ -1,0 +1,15 @@
+id: sight-zm-kafue-national-park
+name: "Kafue National Park"
+location:
+  country_code: ZM
+  latitude: -14.7209
+  longitude: 26.2161
+scores:
+  impact: 9.2
+  uniqueness: 9.3
+  significance: 9.5
+  experience: 9.1
+  depth: 9.4
+  categories:
+    nature: 9.5
+    wildlife: 9.5
