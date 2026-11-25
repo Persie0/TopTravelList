@@ -1,0 +1,15 @@
+id: city-as-aunuu
+name: "Aunuʻu village"
+location:
+  country_code: AS
+  latitude: -14.2883213
+  longitude: -170.5564138
+scores:
+  impact: 7.6
+  uniqueness: 8.3
+  significance: 7.9
+  experience: 7.6
+  depth: 6.8
+  categories:
+    culture: 8.5
+    food: 8.2

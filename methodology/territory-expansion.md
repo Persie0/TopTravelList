@@ -260,3 +260,7 @@ Five atoll-level natural/cultural heritage records, all unranked. Recursive bran
 ### United States Minor Outlying Islands coverage — 2026-11-26
 
 Nine island/atoll records, no permanent civilian settlements. Palmyra provisionally ranked only for documented permit-controlled recreation; eight remaining sites unranked. Recursive filename screen found no obvious same-scope US record (Syrian Palmyra unrelated); broader Papahānaumokuākea UNESCO scope distinct from Midway component. Other branches and legacy references not exhaustively screened. USFWS monument overview, Palmyra visitor location page and April 2026 Midway closure article opened, other source excerpts inspected. Coordinates approximate, independent material claims and ecological conditions pending. No new 9.5+ or perfect-ten scores. Full CI/regeneration pending.
+
+### American Samoa coverage — 2026-11-26
+
+Seven settlements and twelve sights; Rose Atoll and Swains Island unranked. All five volcanic islands and both atolls represented. Village internal points from 2026 Census; sight coordinates approximate. NPS current compendium, NOAA sanctuary access and CRAG coral recovery reporting consulted; no assumption of pristine reef, unrestricted customary access or current wildlife abundance. Linked peer filenames checked; comparative numerical calibration and independent full claim checks still needed. Recursive branch filename screen and open Samoa PR title checked, no obvious duplicate; full open-branch audit and CI/regeneration pending. No new 9.5+ or perfect-ten ratings.

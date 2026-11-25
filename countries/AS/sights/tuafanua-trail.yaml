@@ -1,0 +1,16 @@
+id: sight-as-tuafanua-trail
+name: "Tuafanua rainforest and coastal trail"
+location:
+  country_code: AS
+  latitude: -14.243
+  longitude: -170.674
+scores:
+  impact: 8.6
+  uniqueness: 8.3
+  significance: 8.0
+  experience: 8.2
+  depth: 7.6
+  categories:
+    nature: 8.7
+    adventure: 8.6
+    photography: 8.7
