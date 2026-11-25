@@ -446,7 +446,7 @@
 - YAML: [source](../../../countries/KI/sights/cook-island-bird-sanctuary.yaml)
 - Action: rescore
 - Precise subject: Closed area, not ordinary unrestricted access. Rating describes specifically authorized guided observation only; confirm Cook-specific permits and routes before visit, no landing guaranteed.
-- Location check: 3.16177, 172.81769, named lagoon gazetteer point https://www.geonames.org/7521498/butaritari-lagoon.html; not an entrance.
+- Location check: 1.9563, -157.48168; named Cook Island mapped point https://mapcarta.com/20407590, not an entrance or evidence of landing permission.
 - Evidence status: source-linked-unverified
 - Checked factual reference excerpts (2026-11-25):
   - Protected Planet identifies Cook Islet Closed Area as bird reserve — https://www.protectedplanet.net/4257
