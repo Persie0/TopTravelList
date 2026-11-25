@@ -590,3 +590,33 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Source context](https://whc.unesco.org/en/tentativelists/6980/) (accessed 2026-11-25); identity or regional context only, not complete verification.
 - Remaining gaps: Normal permitted visitor experience and routes unresolved.
+
+## Follow-up: sight-km-mount-karthala — 2026-11-25 (worldwide review)
+
+- [YAML](../../../countries/KM/sights/mount-karthala.yaml) · Action: fact-check-only · **source-linked-unverified**; targeted scope claims checked, not comprehensive verification.
+- Sources inspected: [https://volcano.si.edu/volcano.cfm?vn=233010](https://volcano.si.edu/volcano.cfm?vn=233010); [https://comtourvoyages.com/en/experiences/mont-karthala-en/](https://comtourvoyages.com/en/experiences/mont-karthala-en/).
+- Decision: Smithsonian's geological description confirms the extensive overlapping summit calderas of the active shield volcano; a local operator describes classic hikes and shorter approaches. Nature 9.5 is a defensible provisional exceptional landform score, rather than a claim of globally unique caldera size; the other fields remain below the more globally defining Mount Fuji and the geologically distinctive Ijen. Depth 8.1 describes a bounded ascent, not the whole national park. Current access and conditions are not guaranteed.
+- Retained I/U/S/E/D: 9.4 / 9.3 / 8.6 / 8.7 / 8.1; overall 89.80/100. Categories/GPS unchanged. No new perfect scores or multipliers.
+
+| Current worldwide peer | I/U/S/E/D | Overall /100 | Comparison |
+| --- | --- | --- | --- |
+| [mount fuji (JP)](../../../countries/JP/sights/mount-fuji.yaml) | 9.8 / 9.7 / 9.5 / 9.2 / 9.3 | 95.75 | Much stronger global cultural significance and overall visual anchor. |
+| [ijen crater (ID)](../../../countries/ID/sights/ijen-crater.yaml) | 9.5 / 9.7 / 8.7 / 9.1 / 8.7 | 92.50 | More distinctive sulfur and crater-lake geology; broader documented visit. |
+| [mount bromo (ID)](../../../countries/ID/sights/mount-bromo.yaml) | 9.5 / 9.4 / 8.5 / 9.3 / 8.5 | 91.45 | Comparable globally outstanding active volcanic landscape with different forms. |
+| [santa ana volcano ilamatepec (SV)](../../../countries/SV/sights/santa-ana-volcano-ilamatepec.yaml) | 9.4 / 8.9 / 8.5 / 9.3 / 8.2 | 89.60 | Comparable crater hike; similarly bounded depth. |
+
+
+## Follow-up: sight-km-moheli-marine-park — 2026-11-25 (worldwide review)
+
+- [YAML](../../../countries/KM/sights/moheli-marine-park.yaml) · Action: fact-check-only · **source-linked-unverified**; targeted scope claims checked, not comprehensive verification.
+- Sources inspected: [https://www.unesco.org/en/mab/mwali](https://www.unesco.org/en/mab/mwali); [https://km.chm-cbd.net/en/protected-areas/marine-park-area](https://km.chm-cbd.net/en/protected-areas/marine-park-area); [https://whc.unesco.org/en/tentativelists/6974/](https://whc.unesco.org/en/tentativelists/6974/); [https://viajacongus.com/en/comoras/parque-marino-moheli/](https://viajacongus.com/en/comoras/parque-marino-moheli/).
+- Decision: The Comoros biodiversity portal establishes that the marine protected area includes the Nioumachoua islets, and UNESCO documents the associated turtle and cetacean habitat at biosphere-reserve scale. Published visitor descriptions identify bounded snorkelling, guided turtle visits and seasonal marine wildlife excursions. Retain nature 9.5 and wildlife 9.6 as provisional exceptional habitat/encounter judgments, below Aldabra and Sipadan on the relevant category anchors; no guarantee of sightings, no assumption all terrestrial biosphere-reserve habitats belong to the marine visit. Depth 8.7 is for a coherent multi-activity marine trip. Tentative status is not inscription.
+- Retained I/U/S/E/D: 9.3 / 9.1 / 9.0 / 9.1 / 8.7; overall 91.00/100. Categories/GPS unchanged. No new perfect scores or multipliers.
+
+| Current worldwide peer | I/U/S/E/D | Overall /100 | Comparison |
+| --- | --- | --- | --- |
+| [aldabra atoll (SC)](../../../countries/SC/sights/aldabra-atoll.yaml) | 9.5 / 9.8 / 9.8 / 8.0 / 7.6 | 92.20 | Exceptional intact ecology but tightly controlled visitor scope. |
+| [sipadan island reefs (MY)](../../../countries/MY/sights/sipadan-island-reefs.yaml) | 9.5 / 9.6 / 9.1 / 9.5 / 8.9 | 93.85 | Stronger underwater wildlife and diving benchmark. |
+| [glover s reef marine reserve (BZ)](../../../countries/BZ/sights/glover-s-reef-marine-reserve.yaml) | 9.1 / 9.2 / 9.4 / 9.2 / 9.0 | 91.90 | Comparable multi-activity atoll reef exploration. |
+| [aqaba marine reserve (JO)](../../../countries/JO/sights/aqaba-marine-reserve.yaml) | 8.9 / 9.2 / 9.4 / 9.1 / 8.8 | 90.95 | Comparable bounded reef visits, different marine fauna. |
+
