@@ -24,6 +24,15 @@
 - [Kampot](../../../countries/KH/cities/kampot.yaml) (Cambodia): similar small waterfront leisure
 - Apia (Samoa): similar Pacific capital cultural breadth.
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D inspected on main; qualitative peers retained. Editorial comparison only.
+
+- [vienna (AT)](../../../countries/AT/cities/vienna.yaml) — 9.2/9.0/9.5/9.2/9.4; Far greater architecture and civic history.
+- [bangkok (TH)](../../../countries/TH/cities/bangkok.yaml) — 9.1/9.0/9.0/9.5/9.8; Far greater food and urban depth.
+- [kampot (KH)](../../../countries/KH/cities/kampot.yaml) — 7.6/7.9/7.5/8.3/7.9; Comparable waterfront leisure.
+- [apia (WS)](../../../countries/WS/cities/apia.yaml) — 7.4/8.0/8.0/8.1/7.8; Close Pacific capital cultural peer.
+
 ### Scoring decisions
 - Impact: 7.4
 - Uniqueness: 7.7
@@ -59,6 +68,15 @@
 - [Bangkok](../../../countries/TH/cities/bangkok.yaml) (Thailand): more urban activities
 - [Kampot](../../../countries/KH/cities/kampot.yaml) (Cambodia): broader town leisure
 - Salelologa (Samoa): comparable island commercial center.
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D inspected on main; qualitative peers retained. Editorial comparison only.
+
+- [salzburg (AT)](../../../countries/AT/cities/salzburg.yaml) — 9.0/8.9/9.0/8.8/8.5; Greater built heritage.
+- [kampot (KH)](../../../countries/KH/cities/kampot.yaml) — 7.6/7.9/7.5/8.3/7.9; Broader town leisure.
+- [salelologa (WS)](../../../countries/WS/cities/salelologa.yaml) — 6.2/6.8/6.4/7.0/6.4; Close island market settlement, less wartime context.
+- [rach gia (VN)](../../../countries/VN/cities/rach-gia.yaml) — 7.2/7.5/7.3/7.8/7.9; Greater urban breadth, offshore wrecks excluded.
 
 ### Scoring decisions
 - Impact: 6.4
