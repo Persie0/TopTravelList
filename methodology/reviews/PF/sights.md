@@ -336,7 +336,7 @@ Core values I/U/S/E/D from territory branch YAML; prior comparisons retained. Ed
 - [hanifaru bay marine protected area (MV)](../../../countries/MV/sights/hanifaru-bay-marine-protected-area.yaml) — 9.6/9.7/9.4/9.5/7.2; Exceptional concentrated seasonal marine wildlife spectacle, different encounter.
 - [tiputa pass (PF)](../../../countries/PF/sights/tiputa-pass.yaml) — 9.2/9.0/8.5/9.2/8.6; Close local pass dive experience with lower overall rating.
 
-90+ check: Fakarava's 91.15 is below Sipadan (94.15) and above Cape Kri (91.00) by 0.15 points; concentrated shark-associated reef encounters support its narrow scope, while the small difference is provisional rather than a meaningful measured superiority. No guaranteed shark encounter.
+90+ check: Fakarava's 91.15 is below Sipadan (93.85) and above Cape Kri (91.00) by 0.15 points; concentrated shark-associated reef encounters support its narrow scope, while the small difference is provisional rather than a meaningful measured superiority. No guaranteed shark encounter.
 
 ### Scoring decisions
 | Field | New rating | Individual justification |
