@@ -1,0 +1,16 @@
+id: city-lt-kaunas
+name: "Kaunas"
+location:
+  country_code: LT
+  latitude: 54.8985
+  longitude: 23.9036
+scores:
+  impact: 8.6
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 8.8
+  depth: 8.8
+  categories:
+    architecture: 9.3
+    history: 8.9
+    culture: 9

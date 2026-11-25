@@ -1,0 +1,17 @@
+id: sight-mv-south-ari-marine-protected-area
+name: "South Ari Marine Protected Area"
+location:
+  country_code: MV
+  latitude: 3.495
+  longitude: 72.92
+scores:
+  impact: 9.4
+  uniqueness: 9.5
+  significance: 9.3
+  experience: 9.4
+  depth: 8.9
+  categories:
+    nature: 9.5
+    wildlife: 9.7
+    adventure: 9.4
+    photography: 9.4

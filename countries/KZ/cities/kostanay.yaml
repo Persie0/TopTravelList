@@ -1,0 +1,14 @@
+id: city-kz-kostanay
+name: "Kostanay"
+location:
+  country_code: KZ
+  latitude: 53.215
+  longitude: 63.628
+scores:
+  impact: 6.5
+  uniqueness: 6.8
+  significance: 6.8
+  experience: 7.3
+  depth: 7.0
+  categories:
+    culture: 7.4

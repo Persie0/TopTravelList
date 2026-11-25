@@ -1,0 +1,16 @@
+id: sight-lb-chouwen-lake-trail
+name: "Chouwen Lake Trail"
+location:
+  country_code: LB
+  latitude: 34.06
+  longitude: 35.75
+scores:
+  impact: 8.3
+  uniqueness: 8.3
+  significance: 7.1
+  experience: 8.5
+  depth: 7.6
+  categories:
+    nature: 8.7
+    adventure: 8.6
+    photography: 8.9

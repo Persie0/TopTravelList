@@ -1,0 +1,15 @@
+id: sight-az-khudafarin-bridges-and-related-sites
+name: "Khudafarin Bridges and Related Sites"
+location:
+  country_code: AZ
+  latitude: 39.15
+  longitude: 46.95
+scores:
+  impact: null
+  uniqueness: 8.8
+  significance: 9.1
+  experience: null
+  depth: null
+  categories:
+    history: 9.3
+    architecture: 9.0

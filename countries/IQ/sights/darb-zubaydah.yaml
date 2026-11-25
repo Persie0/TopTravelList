@@ -1,0 +1,14 @@
+id: sight-iq-darb-zubaydah
+name: "Darb Zubaydah Hajj Pilgrimage Routes (Iraqi section)"
+location:
+  country_code: IQ
+  latitude: 32.03
+  longitude: 44.4
+scores:
+  impact: null
+  uniqueness: 8.9
+  significance: 9.0
+  experience: null
+  depth: null
+  categories:
+    history: 9.1

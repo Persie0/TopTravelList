@@ -1,0 +1,16 @@
+id: sight-cr-golfo-dulce
+name: "Golfo Dulce"
+location:
+  country_code: CR
+  latitude: 8.615
+  longitude: -83.282
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 8.9
+  experience: 8.8
+  depth: 8.8
+  categories:
+    nature: 9.2
+    wildlife: 9.2
+    photography: 9.0

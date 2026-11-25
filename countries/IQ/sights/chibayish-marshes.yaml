@@ -1,0 +1,17 @@
+id: sight-iq-chibayish-marshes
+name: "Chibayish Marshes"
+location:
+  country_code: IQ
+  latitude: 30.967
+  longitude: 47
+scores:
+  impact: 8.7
+  uniqueness: 9.0
+  significance: 8.6
+  experience: 8.5
+  depth: 8.2
+  categories:
+    nature: 9.0
+    culture: 9.0
+    wildlife: 8.5
+    photography: 8.9

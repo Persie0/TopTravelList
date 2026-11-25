@@ -1,0 +1,14 @@
+id: sight-ae-sharjah-archaeology-museum
+name: "Sharjah Archaeology Museum"
+location:
+  country_code: AE
+  latitude: 25.336
+  longitude: 55.42
+scores:
+  impact: 7.3
+  uniqueness: 7.9
+  significance: 8.4
+  experience: 7.7
+  depth: 7.6
+  categories:
+    history: 8.7

@@ -1,0 +1,15 @@
+id: sight-ph-corregidor
+name: "Corregidor Island and Historic Fortifications of Manila Bay"
+location:
+  country_code: PH
+  latitude: 14.39
+  longitude: 120.58
+scores:
+  impact: 8.5
+  uniqueness: 8.7
+  significance: 9.0
+  experience: 8.4
+  depth: 8.6
+  categories:
+    history: 9.2
+    architecture: 8.6

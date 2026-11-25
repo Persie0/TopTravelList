@@ -1,0 +1,15 @@
+id: city-mm-nyaungshwe
+name: "Nyaungshwe"
+location:
+  country_code: MM
+  latitude: 20.66
+  longitude: 96.93
+scores:
+  impact: 7.2
+  uniqueness: 7.4
+  significance: 7.2
+  experience: 7.6
+  depth: 7.0
+  categories:
+    culture: 7.7
+    food: 7.6

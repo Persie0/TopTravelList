@@ -1,0 +1,17 @@
+id: city-ge-mestia
+name: "Mestia"
+location:
+  country_code: GE
+  latitude: 43.045
+  longitude: 42.7297
+scores:
+  impact: 8.4
+  uniqueness: 8.7
+  significance: 8.0
+  experience: 8.2
+  depth: 7.7
+  categories:
+    architecture: 8.7
+    culture: 8.5
+    nature: 8.2
+    photography: 8.8

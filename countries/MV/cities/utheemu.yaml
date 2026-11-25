@@ -1,0 +1,15 @@
+id: city-mv-utheemu
+name: "Utheemu"
+location:
+  country_code: MV
+  latitude: 6.827
+  longitude: 73.116
+scores:
+  impact: 7.3
+  uniqueness: 7.8
+  significance: 8.5
+  experience: 7.4
+  depth: 6.5
+  categories:
+    history: 8.8
+    culture: 8.3

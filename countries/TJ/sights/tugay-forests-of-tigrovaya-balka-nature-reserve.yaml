@@ -1,0 +1,15 @@
+id: sight-tj-tugay-forests-of-tigrovaya-balka-nature-reserve
+name: "Tugay Forests of Tigrovaya Balka Nature Reserve"
+location:
+  country_code: TJ
+  latitude: 37.204722
+  longitude: 68.341389
+scores:
+  impact: null
+  uniqueness: 9.1
+  significance: 9.4
+  experience: null
+  depth: null
+  categories:
+    nature: 9.4
+    wildlife: 9.3

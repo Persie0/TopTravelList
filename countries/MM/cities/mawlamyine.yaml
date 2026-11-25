@@ -1,0 +1,15 @@
+id: city-mm-mawlamyine
+name: "Mawlamyine"
+location:
+  country_code: MM
+  latitude: 16.49
+  longitude: 97.63
+scores:
+  impact: 7.8
+  uniqueness: 8.0
+  significance: 8.1
+  experience: null
+  depth: null
+  categories:
+    architecture: 8.2
+    history: 8.3

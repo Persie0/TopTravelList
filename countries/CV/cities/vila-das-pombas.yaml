@@ -1,0 +1,15 @@
+id: city-cv-vila-das-pombas
+name: "Vila das Pombas"
+location:
+  country_code: CV
+  latitude: 17.1480
+  longitude: -25.0190
+scores:
+  impact: 7.5
+  uniqueness: 7.9
+  significance: 6.6
+  experience: 7.9
+  depth: 6.4
+  categories:
+    photography: 8.5
+    culture: 8.1

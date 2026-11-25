@@ -1,0 +1,16 @@
+id: sight-rw-mount-bisoke
+name: "Mount Bisoke"
+location:
+  country_code: RW
+  latitude: -1.4580
+  longitude: 29.4850
+scores:
+  impact: 9.1
+  uniqueness: 8.8
+  significance: 7.9
+  experience: 9.0
+  depth: 7.9
+  categories:
+    nature: 9.2
+    adventure: 9.3
+    photography: 9.3

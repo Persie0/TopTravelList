@@ -1,0 +1,16 @@
+id: sight-bd-ahsan-manzil
+name: "Ahsan Manzil"
+location:
+  country_code: BD
+  latitude: 23.7085
+  longitude: 90.406
+scores:
+  impact: 8.4
+  uniqueness: 8.3
+  significance: 8.4
+  experience: 8.3
+  depth: 7.5
+  categories:
+    architecture: 8.9
+    history: 8.8
+    photography: 8.9

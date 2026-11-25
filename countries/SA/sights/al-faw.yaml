@@ -1,0 +1,14 @@
+id: sight-sa-al-faw
+name: "Cultural Landscape of Al-Faw Archaeological Area"
+location:
+  country_code: SA
+  latitude: 19.79
+  longitude: 45.14
+scores:
+  impact: 7.8
+  uniqueness: 8.9
+  significance: 9.1
+  experience: null
+  depth: null
+  categories:
+    history: 9.2

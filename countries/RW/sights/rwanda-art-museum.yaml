@@ -1,0 +1,15 @@
+id: sight-rw-rwanda-art-museum
+name: "Rwanda Art Museum"
+location:
+  country_code: RW
+  latitude: -1.9710
+  longitude: 30.1600
+scores:
+  impact: 7.3
+  uniqueness: 7.7
+  significance: 7.7
+  experience: 7.9
+  depth: 7.4
+  categories:
+    culture: 8.4
+    architecture: 7.6

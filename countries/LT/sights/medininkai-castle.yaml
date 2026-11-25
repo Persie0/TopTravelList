@@ -1,0 +1,15 @@
+id: sight-lt-medininkai-castle
+name: "Medininkai Castle"
+location:
+  country_code: LT
+  latitude: 54.54
+  longitude: 25.65
+scores:
+  impact: 8.0
+  uniqueness: 8.1
+  significance: 8.5
+  experience: 8.1
+  depth: 7.5
+  categories:
+    history: 8.8
+    architecture: 8.5

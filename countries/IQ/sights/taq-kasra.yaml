@@ -1,0 +1,15 @@
+id: sight-iq-taq-kasra
+name: "Taq Kasra (Arch of Ctesiphon)"
+location:
+  country_code: IQ
+  latitude: 33.094
+  longitude: 44.581
+scores:
+  impact: 9.1
+  uniqueness: 9.2
+  significance: 9.1
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.3
+    history: 9.2

@@ -1,0 +1,15 @@
+id: sight-cr-playa-samara
+name: "Playa Sámara"
+location:
+  country_code: CR
+  latitude: 9.881
+  longitude: -85.529
+scores:
+  impact: 8.3
+  uniqueness: 7.8
+  significance: 6.2
+  experience: 8.7
+  depth: 7.4
+  categories:
+    beaches: 8.9
+    relaxation: 9.0

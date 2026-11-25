@@ -1,0 +1,15 @@
+id: sight-ae-mleiha-archaeological-centre-and-sites
+name: "Mleiha Archaeological Centre and Sites"
+location:
+  country_code: AE
+  latitude: 25.126
+  longitude: 55.85
+scores:
+  impact: 7.8
+  uniqueness: 8.6
+  significance: 9.1
+  experience: 8.2
+  depth: 8.0
+  categories:
+    history: 9.3
+    culture: 8.6
