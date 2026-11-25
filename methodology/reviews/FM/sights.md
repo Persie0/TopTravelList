@@ -25,6 +25,16 @@
 - Hohensalzburg Fortress (Austria): richer interpretation
 - Plain of Jars (Laos): different distributed monumental archaeology.
 
+#### Current YAML benchmark calibration (2026-11-25)
+
+Core values are I/U/S/E/D. Existing qualitative comparisons are retained; these actual YAML comparisons establish relative scope, not new factual verification.
+
+- [Angkor Archaeological Park](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 10.0/10.0/10.0/9.8/10.0; world-defining monumental and exploration benchmark, not comparable in scale.
+- [Plain of Jars Archaeological Landscape](../../../countries/LA/sights/plain-of-jars-archaeological-landscape.yaml) — 9.0/9.6/9.5/8.7/9.0; more extensive distributed stone archaeology, different cultural function.
+- [Stonehenge](../../../countries/GB/sights/stonehenge.yaml) — 9.2/9.6/9.6/8.8/9.1; greater worldwide recognition and interpreted prehistoric heritage.
+- [Carnuntum Archaeological Park](../../../countries/AT/sights/carnuntum-archaeological-park.yaml) — 8.7/8.9/9.0/8.8/8.4; more developed interpretation and reconstructed fabric.
+- [Airai Bai](../../../countries/PW/sights/airai-bai.yaml) — 7.7/8.7/8.6/7.7/7.3; closer Pacific customary heritage scale and focused visitor scope.
+
 ### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
@@ -58,6 +68,15 @@
 - Scapa Flow (United Kingdom): similar wreck-diving landscape
 - Great Barrier Reef (Australia): vastly broader natural reef
 - Richelieu Rock (Thailand): narrower reef-focused dive.
+
+#### Current YAML benchmark calibration (2026-11-25)
+
+Core values are I/U/S/E/D. Existing qualitative comparisons are retained; these actual YAML comparisons establish relative scope, not new factual verification.
+
+- [Sipadan Island Reefs](../../../countries/MY/sights/sipadan-island-reefs.yaml) — 9.5/9.6/9.1/9.5/8.9; stronger global underwater natural spectacle, less focused on wreck history.
+- [Ang Thong National Marine Park](../../../countries/TH/sights/ang-thong-national-marine-park.yaml) — 9.0/9.0/8.6/9.1/8.9; more varied island scenery and generalist activities.
+- [Cham Islands](../../../countries/VN/sights/cham-islands.yaml) — 8.8/9.0/8.4/9.0/8.7; broader generalist island recreation, less singular maritime history.
+- [Perhentian Islands](../../../countries/MY/sights/perhentian-islands.yaml) — 9.0/8.8/7.7/9.2/8.9; strong established reef and beach recreation but lower historical significance.
 
 ### Scoring decisions
 | Field | Rating | Rationale |
@@ -95,6 +114,16 @@
 - Ha'amonga 'a Maui (Tonga): narrower Pacific stone monument
 - Plain of Jars (Laos): broader distributed heritage.
 
+#### Current YAML benchmark calibration (2026-11-25)
+
+Core values are I/U/S/E/D. Existing qualitative comparisons are retained; these actual YAML comparisons establish relative scope, not new factual verification.
+
+- [Angkor Archaeological Park](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 10.0/10.0/10.0/9.8/10.0; world-defining monumental and exploration benchmark, not comparable in scale.
+- [Plain of Jars Archaeological Landscape](../../../countries/LA/sights/plain-of-jars-archaeological-landscape.yaml) — 9.0/9.6/9.5/8.7/9.0; more extensive distributed stone archaeology, different cultural function.
+- [Stonehenge](../../../countries/GB/sights/stonehenge.yaml) — 9.2/9.6/9.6/8.8/9.1; greater worldwide recognition and interpreted prehistoric heritage.
+- [Carnuntum Archaeological Park](../../../countries/AT/sights/carnuntum-archaeological-park.yaml) — 8.7/8.9/9.0/8.8/8.4; more developed interpretation and reconstructed fabric.
+- [Airai Bai](../../../countries/PW/sights/airai-bai.yaml) — 7.7/8.7/8.6/7.7/7.3; closer Pacific customary heritage scale and focused visitor scope.
+
 ### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
@@ -129,6 +158,16 @@
 - Plain of Jars (Laos): wider archaeological landscape
 - Ha'amonga 'a Maui (Tonga): comparable regional stone heritage
 - Airai Bai (Palau): comparable customary civic heritage.
+
+#### Current YAML benchmark calibration (2026-11-25)
+
+Core values are I/U/S/E/D. Existing qualitative comparisons are retained; these actual YAML comparisons establish relative scope, not new factual verification.
+
+- [Angkor Archaeological Park](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 10.0/10.0/10.0/9.8/10.0; world-defining monumental and exploration benchmark, not comparable in scale.
+- [Plain of Jars Archaeological Landscape](../../../countries/LA/sights/plain-of-jars-archaeological-landscape.yaml) — 9.0/9.6/9.5/8.7/9.0; more extensive distributed stone archaeology, different cultural function.
+- [Stonehenge](../../../countries/GB/sights/stonehenge.yaml) — 9.2/9.6/9.6/8.8/9.1; greater worldwide recognition and interpreted prehistoric heritage.
+- [Carnuntum Archaeological Park](../../../countries/AT/sights/carnuntum-archaeological-park.yaml) — 8.7/8.9/9.0/8.8/8.4; more developed interpretation and reconstructed fabric.
+- [Airai Bai](../../../countries/PW/sights/airai-bai.yaml) — 7.7/8.7/8.6/7.7/7.3; closer Pacific customary heritage scale and focused visitor scope.
 
 ### Scoring decisions
 | Field | Rating | Rationale |
@@ -165,6 +204,15 @@
 - Likiep Village Historic District (Marshall Islands): similar trade context
 - Galle Fort (Sri Lanka): broader colonial built fabric.
 
+#### Current YAML benchmark calibration (2026-11-25)
+
+Core values are I/U/S/E/D. Existing qualitative comparisons are retained; these actual YAML comparisons establish relative scope, not new factual verification.
+
+- [Iwami Ginzan Silver Mine](../../../countries/JP/sights/iwami-ginzan-silver-mine.yaml) — 8.5/9.0/9.3/8.6/9.1; more extensive interpreted historic economic landscape.
+- [Cornwall and West Devon Mining Landscape](../../../countries/GB/sights/cornwall-mining.yaml) — 8.6/9.0/9.2/8.7/9.1; much greater preserved trade and industrial heritage.
+- [Sewell Mining Town](../../../countries/CL/sights/sewell-mining-town.yaml) — 8.2/9.2/9.2/7.9/7.9; larger historic settlement fabric and documented visitor breadth.
+- [Airai Bai](../../../countries/PW/sights/airai-bai.yaml) — 7.7/8.7/8.6/7.7/7.3; closer regional customary heritage, distinct subject.
+
 ### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
@@ -199,6 +247,15 @@
 - [Kunsthistorisches Museum](../../../countries/AT/sights/kunsthistorisches-museum.yaml) (Austria): greater art depth
 - Sarawak Cultural Village (Malaysia): broader living ensemble
 - Alele Museum (Marshall Islands): comparable compact museum.
+
+#### Current YAML benchmark calibration (2026-11-25)
+
+Core values are I/U/S/E/D. Existing qualitative comparisons are retained; these actual YAML comparisons establish relative scope, not new factual verification.
+
+- [Hahoe Folk Village](../../../countries/KR/sights/hahoe-folk-village.yaml) — 9.0/9.3/9.4/9.2/8.9; broader vernacular ensemble and interpreted traditions.
+- [Sarawak Cultural Village](../../../countries/MY/sights/sarawak-cultural-village.yaml) — 8.4/8.7/8.2/8.8/8.4; comparable living architectural heritage with more established programs.
+- [Jim Thompson House](../../../countries/TH/sights/jim-thompson-house.yaml) — 8.3/8.8/8.7/8.7/8.3; more developed built heritage interpretation.
+- [Airai Bai](../../../countries/PW/sights/airai-bai.yaml) — 7.7/8.7/8.6/7.7/7.3; close customary meetinghouse comparator, separate local access rules.
 
 ### Scoring decisions
 | Field | Rating | Rationale |
@@ -235,6 +292,15 @@
 - Mount Faber (Singapore): comparable urban-adjacent viewpoint
 - Railay Beach (Thailand): more varied coastal karst.
 
+#### Current YAML benchmark calibration (2026-11-25)
+
+Core values are I/U/S/E/D. Existing qualitative comparisons are retained; these actual YAML comparisons establish relative scope, not new factual verification.
+
+- [Railay Beach](../../../countries/TH/sights/railay-beach.yaml) — 8.9/9.0/7.5/9.2/8.3; more dramatic coastal karst and activities.
+- [Mount Faber Park](../../../countries/SG/sights/mount-faber-park.yaml) — 8.0/7.8/7.2/8.5/7.9; comparable urban-adjacent panorama with developed trails.
+- [Dachstein Five Fingers](../../../countries/AT/sights/dachstein-krippenstein-five-fingers.yaml) — 8.4/8.2/6.4/8.6/6.3; focused scenic viewpoint with greater mountain relief but narrow depth.
+- [Ang Thong National Marine Park](../../../countries/TH/sights/ang-thong-national-marine-park.yaml) — 9.0/9.0/8.6/9.1/8.9; larger coastal viewpoint landscape and visitor breadth.
+
 ### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
@@ -269,6 +335,15 @@
 - Kuang Si Falls (Laos): more layered pools
 - Erawan Falls (Thailand): greater multi-tier experience
 - Afu A'au Waterfall (Samoa): close compact tropical comparator.
+
+#### Current YAML benchmark calibration (2026-11-25)
+
+Core values are I/U/S/E/D. Existing qualitative comparisons are retained; these actual YAML comparisons establish relative scope, not new factual verification.
+
+- [Krimml Waterfalls](../../../countries/AT/sights/krimml-waterfalls.yaml) — 9.0/9.0/8.5/9.1/8.3; larger waterfall scale and multi-stage trail.
+- [Kuang Si Waterfalls](../../../countries/LA/sights/kuang-si-waterfalls.yaml) — 9.4/9.2/8.0/9.3/8.6; greater tiered pool spectacle and exploration.
+- [Erawan Waterfalls](../../../countries/TH/sights/erawan-waterfalls.yaml) — 8.7/8.7/7.1/9.0/8.0; more extensive cascade and pool route.
+- [Tegenungan Waterfall](../../../countries/ID/sights/tegenungan-waterfall.yaml) — 8.3/8.1/6.7/8.5/7.6; closer compact tropical waterfall with more established visitor facilities.
 
 ### Scoring decisions
 | Field | Rating | Rationale |
@@ -305,6 +380,15 @@
 - Galle Fort (Sri Lanka): extensive preserved ensemble
 - Fort Cornwallis (Malaysia): more substantial remains.
 
+#### Current YAML benchmark calibration (2026-11-25)
+
+Core values are I/U/S/E/D. Existing qualitative comparisons are retained; these actual YAML comparisons establish relative scope, not new factual verification.
+
+- [Hohensalzburg Fortress](../../../countries/AT/sights/hohensalzburg-fortress.yaml) — 9.1/9.1/9.3/9.4/8.9; much greater preserved fabric and interpretation.
+- [Fort Santiago](../../../countries/PH/sights/fort-santiago.yaml) — 8.1/8.2/8.9/8.4/8.0; more substantial Spanish colonial fort heritage.
+- [Galle Fort Ramparts](../../../countries/LK/sights/galle-fort-ramparts.yaml) — 8.5/8.5/8.8/8.8/8.2; more extensive walls and public walking.
+- [Fort Cornwallis](../../../countries/MY/sights/fort-cornwallis.yaml) — 7.6/7.8/8.3/7.9/7.3; closer modest colonial remains with greater public interpretation.
+
 ### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
@@ -340,6 +424,15 @@
 - Hahoe Folk Village (South Korea): broader vernacular ensemble
 - Hoi An Ancient Town (Vietnam): greater built breadth
 - Kampong Ayer (Brunei): different living settlement heritage.
+
+#### Current YAML benchmark calibration (2026-11-25)
+
+Core values are I/U/S/E/D. Existing qualitative comparisons are retained; these actual YAML comparisons establish relative scope, not new factual verification.
+
+- [Hahoe Folk Village](../../../countries/KR/sights/hahoe-folk-village.yaml) — 9.0/9.3/9.4/9.2/8.9; broader vernacular ensemble and interpreted traditions.
+- [Sarawak Cultural Village](../../../countries/MY/sights/sarawak-cultural-village.yaml) — 8.4/8.7/8.2/8.8/8.4; comparable living architectural heritage with more established programs.
+- [Jim Thompson House](../../../countries/TH/sights/jim-thompson-house.yaml) — 8.3/8.8/8.7/8.7/8.3; more developed built heritage interpretation.
+- [Airai Bai](../../../countries/PW/sights/airai-bai.yaml) — 7.7/8.7/8.6/7.7/7.3; close customary meetinghouse comparator, separate local access rules.
 
 ### Scoring decisions
 | Field | Rating | Rationale |
