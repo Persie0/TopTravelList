@@ -1,0 +1,17 @@
+id: sight-mv-hanifaru-bay-marine-protected-area
+name: "Hanifaru Bay Marine Protected Area"
+location:
+  country_code: MV
+  latitude: 5.175
+  longitude: 73.143
+scores:
+  impact: 9.6
+  uniqueness: 9.7
+  significance: 9.4
+  experience: 9.5
+  depth: 7.9
+  categories:
+    nature: 9.6
+    wildlife: 9.8
+    adventure: 9.0
+    photography: 9.5

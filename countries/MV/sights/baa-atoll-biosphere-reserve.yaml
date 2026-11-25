@@ -1,0 +1,17 @@
+id: sight-mv-baa-atoll-biosphere-reserve
+name: "Baa Atoll Biosphere Reserve"
+location:
+  country_code: MV
+  latitude: 5.12
+  longitude: 72.98
+scores:
+  impact: 9.3
+  uniqueness: 9.4
+  significance: 9.4
+  experience: 9.3
+  depth: 9.5
+  categories:
+    nature: 9.5
+    wildlife: 9.5
+    adventure: 9.3
+    photography: 9.4
