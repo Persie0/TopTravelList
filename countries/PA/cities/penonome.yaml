@@ -1,0 +1,15 @@
+id: city-pa-penonome
+name: "Penonomé"
+location:
+  country_code: PA
+  latitude: 8.519
+  longitude: -80.355
+scores:
+  impact: 6.4
+  uniqueness: 7.0
+  significance: 7.2
+  experience: 7.2
+  depth: 6.6
+  categories:
+    culture: 7.7
+    history: 7.6

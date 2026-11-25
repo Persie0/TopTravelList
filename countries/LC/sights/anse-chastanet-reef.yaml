@@ -1,0 +1,16 @@
+id: sight-lc-anse-chastanet-reef
+name: "Anse Chastanet Reef"
+location:
+  country_code: LC
+  latitude: 13.864
+  longitude: -61.078
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 7.8
+  experience: 8.9
+  depth: 7.8
+  categories:
+    adventure: 9.2
+    wildlife: 9.0
+    nature: 9.0

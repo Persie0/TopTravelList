@@ -1,0 +1,14 @@
+id: sight-pk-harappa
+name: "Harappa Archaeological Site"
+location:
+  country_code: PK
+  latitude: 30.63
+  longitude: 72.866
+scores:
+  impact: 8.0
+  uniqueness: 8.9
+  significance: 9.2
+  experience: 8.0
+  depth: 8.0
+  categories:
+    history: 9.3

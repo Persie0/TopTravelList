@@ -1,0 +1,15 @@
+id: city-az-qirmizi-qasaba
+name: "Qirmizi Qasaba"
+location:
+  country_code: AZ
+  latitude: 41.37
+  longitude: 48.51
+scores:
+  impact: 7.6
+  uniqueness: 8.8
+  significance: 8.3
+  experience: 8.0
+  depth: 6.7
+  categories:
+    culture: 9.2
+    history: 8.9

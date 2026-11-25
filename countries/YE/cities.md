@@ -2,7 +2,7 @@
 
 # Yemen (YE) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**2 ranked** · **8 unassessed** · **10 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,27 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (2)
 
-No cities, towns & villages have been assessed for **Yemen** yet.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Qalansiyah](cities/qalansiyah.yaml) | City / town | **72.75** | **Photography 8.0**, **Culture 7.3** | 7.7 / 7.5 / 6.5 / 7.6 / 6.5 | [12.69, 53.49](https://www.google.com/maps/search/?api=1&query=12.69,53.49) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Qalansiyah%2C%20Yemen) |
+| 2 | [Hadibo](cities/hadibo.yaml) | City / town | **67.70** | **Culture 7.0**, **Food 6.9** | 6.8 / 7.1 / 6.2 / 7.1 / 6.5 | [12.65, 54.03](https://www.google.com/maps/search/?api=1&query=12.65,54.03) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hadibo%2C%20Yemen) |
 
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+## Not yet fully assessed (8)
+
+These destinations have no rank until all five core scores are assessed.
+
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| — | [Aden](cities/aden.yaml) | City / town | **—** | **History 8.7**, **Architecture 8.3** | 7.8 / 8.2 / 8.5 / — / — | [12.8, 45.03](https://www.google.com/maps/search/?api=1&query=12.8,45.03) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Aden%2C%20Yemen) |
+| — | [Al Mukalla](cities/mukalla.yaml) | City / town | **—** | **Architecture 8.0**, **History 8.0** | 7.6 / 7.8 / 7.8 / — / — | [14.542, 49.127](https://www.google.com/maps/search/?api=1&query=14.542,49.127) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Al%20Mukalla%2C%20Yemen) |
+| — | [Sana'a](cities/sanaa.yaml) | City / town | **—** | **Architecture 9.4**, **History 9.2**, **Culture 9.0** | 9.0 / 9.3 / 9.2 / — / — | [15.3694, 44.191](https://www.google.com/maps/search/?api=1&query=15.3694,44.191) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sana%27a%2C%20Yemen) |
+| — | [Say'un](cities/sayun.yaml) | City / town | **—** | **Architecture 8.5**, **History 8.3** | 7.7 / 8.0 / 8.0 / — / — | [15.943, 48.788](https://www.google.com/maps/search/?api=1&query=15.943,48.788) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Say%27un%2C%20Yemen) |
+| — | [Shibam (Hadramaut)](cities/shibam.yaml) | City / town | **—** | **Architecture 9.4**, **History 9.1** | 9.0 / 9.3 / 9.0 / — / — | [15.926, 48.626](https://www.google.com/maps/search/?api=1&query=15.926,48.626) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Shibam%20%28Hadramaut%29%2C%20Yemen) |
+| — | [Taiz](cities/taiz.yaml) | City / town | **—** | **History 8.7**, **Architecture 8.3** | 7.8 / 8.0 / 8.4 / — / — | [13.5795, 44.0209](https://www.google.com/maps/search/?api=1&query=13.5795,44.0209) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Taiz%2C%20Yemen) |
+| — | [Tarim](cities/tarim.yaml) | City / town | **—** | **Architecture 9.0**, **History 8.8**, **Culture 8.7** | 8.4 / 8.7 / 8.6 / — / — | [16.055, 49.00028](https://www.google.com/maps/search/?api=1&query=16.055,49.00028) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tarim%2C%20Yemen) |
+| — | [Zabid](cities/zabid.yaml) | City / town | **—** | **History 9.1**, **Architecture 8.8** | 8.0 / 8.7 / 9.0 / — / — | [14.196, 43.315](https://www.google.com/maps/search/?api=1&query=14.196,43.315) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Zabid%2C%20Yemen) |
 
 ---
 

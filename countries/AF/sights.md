@@ -2,7 +2,7 @@
 
 # Afghanistan (AF) — Sights & attractions ranking
 
-**6 ranked** · **17 unassessed** · **23 total** · Worldwide scoring **v2**
+**7 ranked** · **16 unassessed** · **23 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (6)
+## Complete ranked list (7)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -19,9 +19,10 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 3 | [Shrine of Hazrat Ali (Blue Mosque)](sights/blue-mosque.yaml) | Religious site | **86.65** | **Architecture 9.3**, **Culture 9.1**, **Photography 9.1** | 9.0 / 8.9 / 8.8 / 8.0 / 7.8 | [36.708, 67.111](https://www.google.com/maps/search/?api=1&query=36.708,67.111) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Shrine%20of%20Hazrat%20Ali%20%28Blue%20Mosque%29%2C%20Afghanistan) |
 | 4 | [Herat Citadel (Qala Ikhtyaruddin)](sights/herat-citadel.yaml) | Fortification | **85.20** | **Architecture 9.0**, **History 9.0** | 8.6 / 8.6 / 8.8 / 8.2 / 8.0 | [34.35, 62.197](https://www.google.com/maps/search/?api=1&query=34.35,62.197) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Herat%20Citadel%20%28Qala%20Ikhtyaruddin%29%2C%20Afghanistan) |
 | 5 | [Takht-e Rostam, Samangan](sights/takht-e-rostam.yaml) | Attraction | **84.90** | **History 9.0**, **Architecture 8.9** | 8.4 / 9.0 / 8.8 / 8.0 / 7.6 | [36.248, 68.028](https://www.google.com/maps/search/?api=1&query=36.248,68.028) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Takht-e%20Rostam%2C%20Samangan%2C%20Afghanistan) |
-| 6 | [Musalla Complex and Minarets, Herat](sights/musalla-minarets.yaml) | Attraction | **81.40** | **History 9.2**, **Architecture 8.9** | 8.0 / 8.7 / 9.0 / 7.3 / 6.7 | [34.362, 62.189](https://www.google.com/maps/search/?api=1&query=34.362,62.189) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Musalla%20Complex%20and%20Minarets%2C%20Herat%2C%20Afghanistan) |
+| 6 | [National Museum of Afghanistan](sights/national-museum-kabul.yaml) | Museum / heritage | **84.25** | **History 9.2**, **Culture 8.8** | 8.0 / 8.6 / 9.1 / 8.1 / 8.4 | [34.467, 69.119](https://www.google.com/maps/search/?api=1&query=34.467,69.119) | [Google Maps](https://www.google.com/maps/search/?api=1&query=National%20Museum%20of%20Afghanistan%2C%20Afghanistan) |
+| 7 | [Musalla Complex and Minarets, Herat](sights/musalla-minarets.yaml) | Attraction | **81.40** | **History 9.2**, **Architecture 8.9** | 8.0 / 8.7 / 9.0 / 7.3 / 6.7 | [34.362, 62.189](https://www.google.com/maps/search/?api=1&query=34.362,62.189) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Musalla%20Complex%20and%20Minarets%2C%20Herat%2C%20Afghanistan) |
 
-## Not yet fully assessed (17)
+## Not yet fully assessed (16)
 
 These destinations have no rank until all five core scores are assessed.
 
@@ -36,7 +37,6 @@ These destinations have no rank until all five core scores are assessed.
 | — | [Gawhar Shad Mausoleum](sights/gauhar-shad-mausoleum.yaml) | Museum / heritage | **—** | **Architecture 9.0**, **History 9.0** | 8.3 / 8.6 / 8.8 / — / — | [34.361, 62.188](https://www.google.com/maps/search/?api=1&query=34.361,62.188) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Gawhar%20Shad%20Mausoleum%2C%20Afghanistan) |
 | — | [Ghazni Minarets](sights/ghazni-minarets.yaml) | Attraction | **—** | **Architecture 9.2**, **History 9.1** | 8.5 / 9.0 / 9.0 / — / — | [33.56, 68.43](https://www.google.com/maps/search/?api=1&query=33.56,68.43) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ghazni%20Minarets%2C%20Afghanistan) |
 | — | [Minaret and Archaeological Remains of Jam](sights/minaret-jam.yaml) | Museum / heritage | **—** | **Architecture 9.4**, **History 9.3**, **Photography 9.1** | 9.0 / 9.3 / 9.3 / — / — | [34.3967, 64.5161](https://www.google.com/maps/search/?api=1&query=34.3967,64.5161) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Minaret%20and%20Archaeological%20Remains%20of%20Jam%2C%20Afghanistan) |
-| — | [National Museum of Afghanistan](sights/national-museum-kabul.yaml) | Museum / heritage | **—** | **History 9.2**, **Culture 8.8** | 8.0 / 8.6 / 9.1 / — / — | [34.467, 69.119](https://www.google.com/maps/search/?api=1&query=34.467,69.119) | [Google Maps](https://www.google.com/maps/search/?api=1&query=National%20Museum%20of%20Afghanistan%2C%20Afghanistan) |
 | — | [No Gonbad Mosque (Haji Piyada)](sights/no-gonbad-mosque.yaml) | Religious site | **—** | **History 9.3**, **Architecture 9.1** | 7.9 / 8.9 / 9.2 / — / — | [36.736, 66.898](https://www.google.com/maps/search/?api=1&query=36.736,66.898) | [Google Maps](https://www.google.com/maps/search/?api=1&query=No%20Gonbad%20Mosque%20%28Haji%20Piyada%29%2C%20Afghanistan) |
 | — | [Panjshir Valley](sights/panjshir-valley.yaml) | Valley / canyon | **—** | **Photography 9.0**, **Nature 8.9**, **History 8.5** | 8.7 / 8.3 / 8.2 / — / — | [35.35, 69.6](https://www.google.com/maps/search/?api=1&query=35.35,69.6) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Panjshir%20Valley%2C%20Afghanistan) |
 | — | [Pul-e Khishti Mosque](sights/pul-e-khishti-mosque.yaml) | Religious site | **—** | **Culture 8.3**, **Architecture 8.2** | 7.7 / 7.8 / 8.0 / — / — | [34.516, 69.182](https://www.google.com/maps/search/?api=1&query=34.516,69.182) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Pul-e%20Khishti%20Mosque%2C%20Afghanistan) |

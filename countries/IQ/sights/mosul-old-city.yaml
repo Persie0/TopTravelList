@@ -1,0 +1,16 @@
+id: sight-iq-mosul-old-city
+name: "Old City of Mosul"
+location:
+  country_code: IQ
+  latitude: 36.341
+  longitude: 43.131
+scores:
+  impact: 8.3
+  uniqueness: 8.8
+  significance: 9.0
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.0
+    history: 9.2
+    culture: 8.8

@@ -1,0 +1,16 @@
+id: sight-iq-imam-husayn-shrine
+name: "Imam Husayn Shrine"
+location:
+  country_code: IQ
+  latitude: 32.616
+  longitude: 44.031
+scores:
+  impact: 9.1
+  uniqueness: 9.2
+  significance: 9.4
+  experience: 8.7
+  depth: 8.0
+  categories:
+    architecture: 9.3
+    history: 9.4
+    culture: 9.4

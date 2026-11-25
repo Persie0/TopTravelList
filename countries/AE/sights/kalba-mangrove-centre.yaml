@@ -1,0 +1,15 @@
+id: sight-ae-kalba-mangrove-centre
+name: "Kalba Mangrove Centre"
+location:
+  country_code: AE
+  latitude: 25.01
+  longitude: 56.36
+scores:
+  impact: 8.0
+  uniqueness: 8.2
+  significance: 8.2
+  experience: 8.3
+  depth: 7.7
+  categories:
+    wildlife: 8.7
+    nature: 8.7

@@ -1,0 +1,15 @@
+id: sight-uz-bolo-hauz-mosque
+name: "Bolo Hauz Mosque"
+location:
+  country_code: UZ
+  latitude: 39.777
+  longitude: 64.407
+scores:
+  impact: 8.3
+  uniqueness: 8.5
+  significance: 8.2
+  experience: 8.2
+  depth: 6.5
+  categories:
+    architecture: 9.0
+    photography: 8.8

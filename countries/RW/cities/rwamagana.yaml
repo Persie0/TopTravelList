@@ -1,0 +1,15 @@
+id: city-rw-rwamagana
+name: "Rwamagana"
+location:
+  country_code: RW
+  latitude: -1.9487
+  longitude: 30.4347
+scores:
+  impact: 6.3
+  uniqueness: 6.5
+  significance: 6.7
+  experience: 7.0
+  depth: 6.5
+  categories:
+    culture: 7.2
+    food: 7.3

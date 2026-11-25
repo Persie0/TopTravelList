@@ -1,0 +1,15 @@
+id: sight-kn-nevisian-heritage-village
+name: "Nevisian Heritage Village"
+location:
+  country_code: KN
+  latitude: 17.111
+  longitude: -62.575
+scores:
+  impact: 7.2
+  uniqueness: 8.3
+  significance: 7.9
+  experience: 8.1
+  depth: 7.3
+  categories:
+    culture: 9.0
+    history: 8.5

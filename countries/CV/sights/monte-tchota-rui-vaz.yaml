@@ -1,0 +1,16 @@
+id: sight-cv-monte-tchota-rui-vaz
+name: "Monte Tchota (Rui Vaz)"
+location:
+  country_code: CV
+  latitude: 15.0260
+  longitude: -23.6180
+scores:
+  impact: 8.3
+  uniqueness: 7.9
+  significance: 6.9
+  experience: 8.2
+  depth: 7.5
+  categories:
+    nature: 8.5
+    adventure: 8.6
+    photography: 8.7

@@ -2,7 +2,7 @@
 
 # Panama (PA) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**22 ranked** · **0 unassessed** · **22 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,32 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (22)
 
-No cities, towns & villages have been assessed for **Panama** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Panama City](cities/panama-city.yaml) | City / town | **88.20** | **Architecture 9.0**, **History 9.0**, **Culture 8.8**, Food 8.8, Nightlife 8.8 | 8.7 / 8.7 / 8.9 / 8.9 / 9.2 | [8.9833, -79.5167](https://www.google.com/maps/search/?api=1&query=8.9833,-79.5167) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Panama%20City%2C%20Panama) |
+| 2 | [Portobelo](cities/portobelo.yaml) | City / town | **81.10** | **History 9.0**, **Culture 8.6**, **Photography 8.4** | 8.0 / 8.3 / 8.6 / 7.9 / 7.3 | [9.554, -79.653](https://www.google.com/maps/search/?api=1&query=9.554,-79.653) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Portobelo%2C%20Panama) |
+| 3 | [Bocas Town](cities/bocas-town.yaml) | Town | **78.75** | **Food 8.4**, **Nightlife 8.4**, **Culture 8.3**, Relaxation 8.3 | 7.9 / 8.2 / 7.1 / 8.5 / 7.6 | [9.341, -82.242](https://www.google.com/maps/search/?api=1&query=9.341,-82.242) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bocas%20Town%2C%20Panama) |
+| 4 | [Taboga Town](cities/taboga-town.yaml) | Town | **76.95** | **Relaxation 8.4**, **Photography 8.3**, **History 8.1** | 7.7 / 8.0 / 7.5 / 8.1 / 6.7 | [8.796, -79.554](https://www.google.com/maps/search/?api=1&query=8.796,-79.554) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Taboga%20Town%2C%20Panama) |
+| 5 | [El Valle de Antón](cities/el-valle-de-anton.yaml) | City / town | **76.65** | **Relaxation 8.3**, **Photography 8.2**, **Culture 7.8** | 7.8 / 8.1 / 6.7 / 8.2 / 7.3 | [8.602, -80.131](https://www.google.com/maps/search/?api=1&query=8.602,-80.131) | [Google Maps](https://www.google.com/maps/search/?api=1&query=El%20Valle%20de%20Ant%C3%B3n%2C%20Panama) |
+| 6 | [Bastimentos Town (Old Bank)](cities/bastimentos-town-old-bank.yaml) | Town | **76.25** | **Culture 8.6**, **Photography 8.1** | 7.5 / 8.4 / 7.2 / 7.9 / 6.5 | [9.349, -82.211](https://www.google.com/maps/search/?api=1&query=9.349,-82.211) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bastimentos%20Town%20%28Old%20Bank%29%2C%20Panama) |
+| 7 | [Boquete](cities/boquete.yaml) | City / town | **76.15** | **Food 8.6**, **Relaxation 8.3**, **Culture 7.6** | 7.7 / 8.0 / 6.6 / 8.3 / 7.4 | [8.775, -82.432](https://www.google.com/maps/search/?api=1&query=8.775,-82.432) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Boquete%2C%20Panama) |
+| 8 | [La Villa de Los Santos](cities/la-villa-de-los-santos.yaml) | City / town | **75.90** | **History 8.7**, **Culture 8.5**, **Architecture 7.9** | 7.2 / 7.9 / 8.3 / 7.5 / 6.7 | [7.933, -80.414](https://www.google.com/maps/search/?api=1&query=7.933,-80.414) | [Google Maps](https://www.google.com/maps/search/?api=1&query=La%20Villa%20de%20Los%20Santos%2C%20Panama) |
+| 9 | [Las Tablas](cities/las-tablas.yaml) | City / town | **75.60** | **Culture 8.7**, **History 8.2** | 7.2 / 7.8 / 7.9 / 7.8 / 7.0 | [7.766, -80.274](https://www.google.com/maps/search/?api=1&query=7.766,-80.274) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Las%20Tablas%2C%20Panama) |
+| 10 | [Gamboa](cities/gamboa.yaml) | City / town | **74.30** | **History 8.1**, **Photography 8.1** | 7.2 / 8.0 / 7.5 / 7.6 / 6.3 | [9.12, -79.699](https://www.google.com/maps/search/?api=1&query=9.12,-79.699) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Gamboa%2C%20Panama) |
+| 11 | [Pedasí](cities/pedasi.yaml) | City / town | **73.85** | **Culture 8.2**, **Relaxation 8.2**, **Food 7.9** | 7.3 / 7.7 / 7.0 / 8.0 / 6.7 | [7.53, -80.027](https://www.google.com/maps/search/?api=1&query=7.53,-80.027) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Pedas%C3%AD%2C%20Panama) |
+| 12 | [Colón](cities/colon.yaml) | City / town | **73.75** | **History 8.5**, **Culture 8.0**, **Architecture 7.6** | 6.9 / 7.5 / 8.2 / 7.0 / 7.4 | [9.359, -79.9](https://www.google.com/maps/search/?api=1&query=9.359,-79.9) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Col%C3%B3n%2C%20Panama) |
+| 13 | [Chitré](cities/chitre.yaml) | City / town | **72.35** | **Culture 8.2**, **Food 7.8**, **History 7.8** | 6.8 / 7.3 / 7.5 / 7.6 / 7.3 | [7.967, -80.436](https://www.google.com/maps/search/?api=1&query=7.967,-80.436) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Chitr%C3%A9%2C%20Panama) |
+| 14 | [Santa Catalina](cities/santa-catalina.yaml) | City / town | **71.80** | **Relaxation 8.4**, **Food 7.6** | 7.2 / 7.7 / 6.1 / 8.1 / 6.6 | [7.633, -81.258](https://www.google.com/maps/search/?api=1&query=7.633,-81.258) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Santa%20Catalina%2C%20Panama) |
+| 15 | [Cerro Punta](cities/cerro-punta.yaml) | City / town | **70.65** | **Photography 8.2**, **Relaxation 8.0** | 7.1 / 7.8 / 6.1 / 7.7 / 6.1 | [8.849, -82.574](https://www.google.com/maps/search/?api=1&query=8.849,-82.574) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cerro%20Punta%2C%20Panama) |
+| 16 | [Volcán](cities/volcan.yaml) | City / town | **69.35** | **Relaxation 8.0**, **Food 7.8** | 6.8 / 7.4 / 6.2 / 7.7 / 6.5 | [8.772, -82.638](https://www.google.com/maps/search/?api=1&query=8.772,-82.638) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Volc%C3%A1n%2C%20Panama) |
+| 17 | [Cambutal](cities/cambutal.yaml) | City / town | **68.70** | **Relaxation 8.2**, **Food 7.3** | 6.8 / 7.4 / 5.9 / 7.8 / 6.3 | [7.267, -80.494](https://www.google.com/maps/search/?api=1&query=7.267,-80.494) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cambutal%2C%20Panama) |
+| 18 | [Penonomé](cities/penonome.yaml) | City / town | **68.50** | **Culture 7.7**, **History 7.6** | 6.4 / 7.0 / 7.2 / 7.2 / 6.6 | [8.519, -80.355](https://www.google.com/maps/search/?api=1&query=8.519,-80.355) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Penonom%C3%A9%2C%20Panama) |
+| 19 | [Santiago de Veraguas](cities/santiago-de-veraguas.yaml) | City / town | **67.90** | **Food 7.6**, **Culture 7.5** | 6.4 / 6.7 / 7.0 / 7.3 / 7.0 | [8.107, -80.971](https://www.google.com/maps/search/?api=1&query=8.107,-80.971) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Santiago%20de%20Veraguas%2C%20Panama) |
+| 20 | [David](cities/david.yaml) | City / town | **67.25** | **Food 7.7**, **Culture 7.4** | 6.3 / 6.6 / 6.9 / 7.3 / 7.1 | [8.428, -82.431](https://www.google.com/maps/search/?api=1&query=8.428,-82.431) | [Google Maps](https://www.google.com/maps/search/?api=1&query=David%2C%20Panama) |
+| 21 | [Yaviza](cities/yaviza.yaml) | City / town | **65.20** | **Culture 7.5** | 6.0 / 7.4 / 6.9 / 6.2 / 5.6 | [8.155, -77.69](https://www.google.com/maps/search/?api=1&query=8.155,-77.69) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Yaviza%2C%20Panama) |
+| 22 | [Almirante](cities/almirante.yaml) | City / town | **63.70** | **Culture 7.2** | 5.9 / 6.6 / 6.8 / 6.6 / 6.0 | [9.3, -82.401](https://www.google.com/maps/search/?api=1&query=9.3,-82.401) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Almirante%2C%20Panama) |
 
 ---
 

@@ -1,0 +1,15 @@
+id: sight-kz-aisha-bibi-mausoleum
+name: "Aisha Bibi Mausoleum"
+location:
+  country_code: KZ
+  latitude: 42.834
+  longitude: 71.21
+scores:
+  impact: 8.2
+  uniqueness: 8.9
+  significance: 8.9
+  experience: 8.1
+  depth: 6.4
+  categories:
+    architecture: 9.4
+    history: 9.1

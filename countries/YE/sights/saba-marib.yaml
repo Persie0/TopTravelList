@@ -1,0 +1,15 @@
+id: sight-ye-saba-marib
+name: "Landmarks of the Ancient Kingdom of Saba, Marib"
+location:
+  country_code: YE
+  latitude: 15.42
+  longitude: 45.33
+scores:
+  impact: 8.5
+  uniqueness: 9.2
+  significance: 9.4
+  experience: null
+  depth: null
+  categories:
+    history: 9.4
+    architecture: 9.1

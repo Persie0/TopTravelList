@@ -1,0 +1,15 @@
+id: city-lt-kernave
+name: "Kernavė"
+location:
+  country_code: LT
+  latitude: 54.886
+  longitude: 24.85
+scores:
+  impact: 7.5
+  uniqueness: 8.1
+  significance: 8.2
+  experience: 7.8
+  depth: 6.8
+  categories:
+    history: 8.6
+    culture: 8.1

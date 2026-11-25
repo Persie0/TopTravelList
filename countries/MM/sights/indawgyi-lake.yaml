@@ -1,0 +1,15 @@
+id: sight-mm-indawgyi-lake
+name: "Indawgyi Lake Wildlife Sanctuary"
+location:
+  country_code: MM
+  latitude: 25.15
+  longitude: 96.33
+scores:
+  impact: 8.2
+  uniqueness: 8.5
+  significance: 8.7
+  experience: null
+  depth: null
+  categories:
+    nature: 8.8
+    wildlife: 8.8

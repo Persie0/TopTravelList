@@ -1,0 +1,15 @@
+id: sight-az-shamakhi-juma-mosque
+name: "Shamakhi Juma Mosque"
+location:
+  country_code: AZ
+  latitude: 40.63
+  longitude: 48.64
+scores:
+  impact: 8.0
+  uniqueness: 8.1
+  significance: 8.6
+  experience: 8.2
+  depth: 7.2
+  categories:
+    architecture: 8.7
+    history: 9.0

@@ -1,0 +1,16 @@
+id: sight-km-domoni-medina
+name: "Domoni Medina"
+location:
+  country_code: KM
+  latitude: -12.260914
+  longitude: 44.531758
+scores:
+  impact: 8.0
+  uniqueness: 8.9
+  significance: 9.4
+  experience: 8.0
+  depth: 7.6
+  categories:
+    history: 9.4
+    culture: 9.4
+    architecture: 8.9

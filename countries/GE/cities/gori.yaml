@@ -1,0 +1,15 @@
+id: city-ge-gori
+name: "Gori"
+location:
+  country_code: GE
+  latitude: 41.9842
+  longitude: 44.1158
+scores:
+  impact: 6.8
+  uniqueness: 7.0
+  significance: 7.8
+  experience: 7.2
+  depth: 7.0
+  categories:
+    history: 8.0
+    culture: 7.2
