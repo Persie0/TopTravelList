@@ -1,0 +1,16 @@
+id: sight-be-bruges-beguinage
+name: "Princely Beguinage Ten Wijngaerde"
+location:
+  country_code: BE
+  latitude: 51.201
+  longitude: 3.222
+scores:
+  impact: 8.5
+  uniqueness: 8.7
+  significance: 8.8
+  experience: 8.5
+  depth: 7.8
+  categories:
+    architecture: 9.0
+    history: 9.0
+    culture: 8.7

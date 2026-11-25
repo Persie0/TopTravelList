@@ -1,0 +1,16 @@
+id: sight-be-grand-place
+name: "Grand-Place, Brussels"
+location:
+  country_code: BE
+  latitude: 50.8467
+  longitude: 4.3525
+scores:
+  impact: 9.4
+  uniqueness: 9.2
+  significance: 9.1
+  experience: 9.0
+  depth: 8.0
+  categories:
+    architecture: 9.5
+    history: 9.2
+    photography: 9.4
