@@ -1,0 +1,16 @@
+id: sight-sg-artscience-museum
+name: "ArtScience Museum"
+location:
+  country_code: SG
+  latitude: 1.2863
+  longitude: 103.8593
+scores:
+  impact: 8.7
+  uniqueness: 8.7
+  significance: 7.8
+  experience: 8.9
+  depth: 8.4
+  categories:
+    architecture: 9.2
+    culture: 8.9
+    family: 8.8

@@ -1,0 +1,16 @@
+id: sight-sg-lau-pa-sat
+name: "Lau Pa Sat"
+location:
+  country_code: SG
+  latitude: 1.2807
+  longitude: 103.8505
+scores:
+  impact: 8.3
+  uniqueness: 8.5
+  significance: 8.3
+  experience: 8.8
+  depth: 8.2
+  categories:
+    food: 9.2
+    architecture: 8.9
+    culture: 8.8

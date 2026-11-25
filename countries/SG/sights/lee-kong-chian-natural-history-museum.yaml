@@ -1,0 +1,16 @@
+id: sight-sg-lee-kong-chian-natural-history-museum
+name: "Lee Kong Chian Natural History Museum"
+location:
+  country_code: SG
+  latitude: 1.3013
+  longitude: 103.7735
+scores:
+  impact: 8.3
+  uniqueness: 8.3
+  significance: 8.5
+  experience: 8.5
+  depth: 8.4
+  categories:
+    nature: 8.9
+    history: 8.7
+    family: 8.7

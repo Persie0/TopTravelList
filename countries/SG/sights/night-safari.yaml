@@ -1,0 +1,15 @@
+id: sight-sg-night-safari
+name: "Night Safari"
+location:
+  country_code: SG
+  latitude: 1.4024
+  longitude: 103.7884
+scores:
+  impact: 8.9
+  uniqueness: 9.3
+  significance: 7.9
+  experience: 9.1
+  depth: 8.8
+  categories:
+    family: 9.2
+    wildlife: 9.0

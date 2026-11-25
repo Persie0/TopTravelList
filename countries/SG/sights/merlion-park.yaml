@@ -1,0 +1,14 @@
+id: sight-sg-merlion-park
+name: "Merlion Park"
+location:
+  country_code: SG
+  latitude: 1.2868
+  longitude: 103.8545
+scores:
+  impact: 8.0
+  uniqueness: 8.0
+  significance: 7.0
+  experience: 8.0
+  depth: 6.4
+  categories:
+    photography: 8.8

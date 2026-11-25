@@ -1,0 +1,15 @@
+id: sight-sg-henderson-waves
+name: "Henderson Waves"
+location:
+  country_code: SG
+  latitude: 1.2779
+  longitude: 103.8173
+scores:
+  impact: 8.4
+  uniqueness: 8.5
+  significance: 6.7
+  experience: 8.5
+  depth: 7.0
+  categories:
+    architecture: 9.0
+    photography: 8.9

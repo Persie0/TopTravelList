@@ -1,0 +1,14 @@
+id: sight-sg-jewel-canopy-park
+name: "Jewel Canopy Park"
+location:
+  country_code: SG
+  latitude: 1.3601
+  longitude: 103.9898
+scores:
+  impact: 8.1
+  uniqueness: 8.0
+  significance: 6.2
+  experience: 8.6
+  depth: 7.8
+  categories:
+    family: 8.9

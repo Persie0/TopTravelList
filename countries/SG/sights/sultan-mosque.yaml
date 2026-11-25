@@ -1,0 +1,15 @@
+id: sight-sg-sultan-mosque
+name: "Sultan Mosque"
+location:
+  country_code: SG
+  latitude: 1.3024
+  longitude: 103.8590
+scores:
+  impact: 8.5
+  uniqueness: 8.5
+  significance: 8.4
+  experience: 8.5
+  depth: 7.6
+  categories:
+    architecture: 9.0
+    culture: 8.9

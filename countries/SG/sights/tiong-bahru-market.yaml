@@ -1,0 +1,15 @@
+id: sight-sg-tiong-bahru-market
+name: "Tiong Bahru Market"
+location:
+  country_code: SG
+  latitude: 1.2848
+  longitude: 103.8322
+scores:
+  impact: 7.7
+  uniqueness: 8.0
+  significance: 7.5
+  experience: 8.7
+  depth: 8.0
+  categories:
+    food: 9.1
+    culture: 8.5

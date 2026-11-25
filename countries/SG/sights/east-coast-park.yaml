@@ -1,0 +1,16 @@
+id: sight-sg-east-coast-park
+name: "East Coast Park"
+location:
+  country_code: SG
+  latitude: 1.2995
+  longitude: 103.9120
+scores:
+  impact: 7.8
+  uniqueness: 7.3
+  significance: 6.4
+  experience: 8.6
+  depth: 8.5
+  categories:
+    relaxation: 8.8
+    family: 8.7
+    beaches: 7.8

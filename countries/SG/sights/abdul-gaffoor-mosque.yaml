@@ -1,0 +1,15 @@
+id: sight-sg-abdul-gaffoor-mosque
+name: "Abdul Gaffoor Mosque"
+location:
+  country_code: SG
+  latitude: 1.3052
+  longitude: 103.8535
+scores:
+  impact: 7.9
+  uniqueness: 8.4
+  significance: 8.2
+  experience: 8.1
+  depth: 7.2
+  categories:
+    architecture: 8.8
+    history: 8.5

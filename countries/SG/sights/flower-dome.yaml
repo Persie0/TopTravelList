@@ -1,0 +1,16 @@
+id: sight-sg-flower-dome
+name: "Flower Dome"
+location:
+  country_code: SG
+  latitude: 1.2841
+  longitude: 103.8639
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 7.5
+  experience: 8.9
+  depth: 8.5
+  categories:
+    architecture: 9.1
+    photography: 9.0
+    family: 8.8

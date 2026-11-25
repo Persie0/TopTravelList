@@ -1,0 +1,15 @@
+id: sight-sg-supertree-grove
+name: "Supertree Grove"
+location:
+  country_code: SG
+  latitude: 1.2816
+  longitude: 103.8637
+scores:
+  impact: 9.2
+  uniqueness: 9.2
+  significance: 7.8
+  experience: 9.0
+  depth: 8.0
+  categories:
+    architecture: 9.3
+    photography: 9.4

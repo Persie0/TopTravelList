@@ -1,0 +1,16 @@
+id: sight-sg-siloso-beach
+name: "Siloso Beach"
+location:
+  country_code: SG
+  latitude: 1.2541
+  longitude: 103.8110
+scores:
+  impact: 7.5
+  uniqueness: 7.0
+  significance: 6.1
+  experience: 8.2
+  depth: 7.5
+  categories:
+    beaches: 7.9
+    nightlife: 8.1
+    relaxation: 8.2

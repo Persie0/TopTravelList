@@ -1,0 +1,15 @@
+id: sight-sg-helix-bridge
+name: "Helix Bridge"
+location:
+  country_code: SG
+  latitude: 1.2874
+  longitude: 103.8601
+scores:
+  impact: 8.1
+  uniqueness: 8.4
+  significance: 6.8
+  experience: 8.3
+  depth: 6.8
+  categories:
+    architecture: 8.9
+    photography: 8.8

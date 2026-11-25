@@ -1,0 +1,16 @@
+id: sight-sg-national-gallery-singapore
+name: "National Gallery Singapore"
+location:
+  country_code: SG
+  latitude: 1.2903
+  longitude: 103.8515
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 8.9
+  experience: 9.0
+  depth: 9.1
+  categories:
+    culture: 9.4
+    architecture: 9.1
+    history: 9.0

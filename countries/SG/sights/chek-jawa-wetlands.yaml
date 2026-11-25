@@ -1,0 +1,15 @@
+id: sight-sg-chek-jawa-wetlands
+name: "Chek Jawa Wetlands"
+location:
+  country_code: SG
+  latitude: 1.4088
+  longitude: 103.9917
+scores:
+  impact: 8.3
+  uniqueness: 8.7
+  significance: 8.5
+  experience: 8.6
+  depth: 8.2
+  categories:
+    nature: 9.1
+    wildlife: 8.8

@@ -1,0 +1,16 @@
+id: sight-sg-st-johns-island
+name: "St John's Island"
+location:
+  country_code: SG
+  latitude: 1.2198
+  longitude: 103.8498
+scores:
+  impact: 8.0
+  uniqueness: 8.0
+  significance: 7.6
+  experience: 8.4
+  depth: 8.1
+  categories:
+    beaches: 8.3
+    nature: 8.5
+    relaxation: 8.7

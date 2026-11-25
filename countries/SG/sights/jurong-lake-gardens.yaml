@@ -1,0 +1,16 @@
+id: sight-sg-jurong-lake-gardens
+name: "Jurong Lake Gardens"
+location:
+  country_code: SG
+  latitude: 1.3376
+  longitude: 103.7250
+scores:
+  impact: 8.2
+  uniqueness: 8.0
+  significance: 7.1
+  experience: 8.6
+  depth: 8.5
+  categories:
+    nature: 8.7
+    relaxation: 8.9
+    family: 8.7

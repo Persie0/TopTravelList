@@ -1,0 +1,15 @@
+id: sight-sg-marina-bay-sands
+name: "Marina Bay Sands"
+location:
+  country_code: SG
+  latitude: 1.2834
+  longitude: 103.8607
+scores:
+  impact: 9.3
+  uniqueness: 9.3
+  significance: 8.0
+  experience: 8.7
+  depth: 8.3
+  categories:
+    architecture: 9.5
+    photography: 9.4

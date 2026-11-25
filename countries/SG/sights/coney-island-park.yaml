@@ -1,0 +1,15 @@
+id: sight-sg-coney-island-park
+name: "Coney Island Park"
+location:
+  country_code: SG
+  latitude: 1.4109
+  longitude: 103.9186
+scores:
+  impact: 7.9
+  uniqueness: 7.9
+  significance: 6.8
+  experience: 8.3
+  depth: 8.0
+  categories:
+    nature: 8.6
+    relaxation: 8.5

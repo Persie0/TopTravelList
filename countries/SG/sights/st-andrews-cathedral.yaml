@@ -1,0 +1,15 @@
+id: sight-sg-st-andrews-cathedral
+name: "St Andrew's Cathedral"
+location:
+  country_code: SG
+  latitude: 1.2922
+  longitude: 103.8521
+scores:
+  impact: 7.9
+  uniqueness: 8.0
+  significance: 8.2
+  experience: 8.1
+  depth: 7.2
+  categories:
+    architecture: 8.7
+    history: 8.6
