@@ -1,0 +1,15 @@
+id: city-is-djupivogur
+name: "Djúpivogur"
+location:
+  country_code: IS
+  latitude: 64.657
+  longitude: -14.291
+scores:
+  impact: 7.8
+  uniqueness: 8.0
+  significance: 7.6
+  experience: 8.1
+  depth: 7.1
+  categories:
+    photography: 8.5
+    culture: 8.1

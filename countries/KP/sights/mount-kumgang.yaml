@@ -1,0 +1,16 @@
+id: sight-kp-mount-kumgang
+name: "Mount Kumgang – Diamond Mountain from the Sea"
+location:
+  country_code: KP
+  latitude: 38.660278
+  longitude: 128.1375
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 9.0
+  experience: null
+  depth: null
+  categories:
+    nature: 9.2
+    culture: 8.9
+    photography: 9.2
