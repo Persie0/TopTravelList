@@ -1,0 +1,15 @@
+id: city-ru-pskov
+name: "Pskov"
+location:
+  country_code: RU
+  latitude: 57.8193
+  longitude: 28.3318
+scores:
+  impact: 8.2
+  uniqueness: 8.4
+  significance: 8.6
+  experience: 8.1
+  depth: 7.9
+  categories:
+    architecture: 8.8
+    history: 8.9

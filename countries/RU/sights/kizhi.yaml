@@ -1,0 +1,15 @@
+id: sight-ru-kizhi
+name: "Kizhi Pogost"
+location:
+  country_code: RU
+  latitude: 62.067
+  longitude: 35.225
+scores:
+  impact: 9.0
+  uniqueness: 9.3
+  significance: 9.1
+  experience: 8.6
+  depth: 7.9
+  categories:
+    architecture: 9.4
+    history: 9.2

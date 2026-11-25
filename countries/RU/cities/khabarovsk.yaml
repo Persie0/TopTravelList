@@ -1,0 +1,15 @@
+id: city-ru-khabarovsk
+name: "Khabarovsk"
+location:
+  country_code: RU
+  latitude: 48.4802
+  longitude: 135.0719
+scores:
+  impact: 7.5
+  uniqueness: 7.7
+  significance: 7.7
+  experience: 7.9
+  depth: 7.7
+  categories:
+    architecture: 8.0
+    culture: 8.0
