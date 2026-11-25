@@ -1,0 +1,16 @@
+id: sight-bi-nyakazu-fault
+name: "Nyakazu Fault"
+location:
+  country_code: BI
+  latitude: -3.895278
+  longitude: 30.126944
+scores:
+  impact: 8.5
+  uniqueness: 8.6
+  significance: 8.4
+  experience: 8.0
+  depth: 7.5
+  categories:
+    nature: 8.9
+    history: 8.6
+    photography: 9.0

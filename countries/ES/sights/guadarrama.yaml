@@ -1,0 +1,15 @@
+id: sight-es-guadarrama
+name: "Sierra de Guadarrama National Park"
+location:
+  country_code: ES
+  latitude: 40.79
+  longitude: -3.96
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 8.8
+  experience: 9.0
+  depth: 9.0
+  categories:
+    nature: 9.2
+    adventure: 9.1

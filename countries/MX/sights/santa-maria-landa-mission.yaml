@@ -1,0 +1,17 @@
+id: sight-mx-santa-maria-landa-mission
+name: "Mission of Santa María del Agua de Landa"
+location:
+  country_code: MX
+  latitude: 21.183978
+  longitude: -99.320283
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 8.8
+  experience: 8.2
+  depth: 7.7
+  categories:
+    architecture: 9.2
+    history: 9.0
+    culture: 8.9
+    photography: 9.0

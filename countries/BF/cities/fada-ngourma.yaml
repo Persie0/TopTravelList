@@ -1,0 +1,13 @@
+id: city-bf-fada-ngourma
+name: "Fada N’Gourma"
+location:
+  country_code: BF
+  latitude: 12.06
+  longitude: 0.36
+scores:
+  impact: null
+  uniqueness: 7.3
+  significance: 7.4
+  experience: null
+  depth: null
+  categories: {}

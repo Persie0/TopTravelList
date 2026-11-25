@@ -1,0 +1,16 @@
+id: city-ch-lucerne
+name: "Lucerne"
+location:
+  country_code: CH
+  latitude: 47.0502
+  longitude: 8.3093
+scores:
+  impact: 9.0
+  uniqueness: 8.8
+  significance: 8.6
+  experience: 9.0
+  depth: 8.5
+  categories:
+    architecture: 9.1
+    photography: 9.3
+    culture: 8.9

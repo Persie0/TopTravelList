@@ -1,0 +1,15 @@
+id: sight-de-erzgebirge
+name: "Ore Mountains mining region (German components)"
+location:
+  country_code: DE
+  latitude: 50.59
+  longitude: 13.0
+scores:
+  impact: 8.6
+  uniqueness: 9.0
+  significance: 9.3
+  experience: 8.7
+  depth: 9.0
+  categories:
+    history: 9.4
+    culture: 9.1

@@ -1,0 +1,15 @@
+id: sight-es-palau-sant-pau
+name: "Palau de la Música Catalana and Hospital de Sant Pau"
+location:
+  country_code: ES
+  latitude: 41.388
+  longitude: 2.175
+scores:
+  impact: 9.2
+  uniqueness: 9.3
+  significance: 9.2
+  experience: 9.0
+  depth: 8.9
+  categories:
+    architecture: 9.6
+    culture: 9.3

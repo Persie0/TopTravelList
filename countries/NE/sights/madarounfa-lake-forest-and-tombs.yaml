@@ -1,0 +1,14 @@
+id: sight-ne-madarounfa-lake-forest-and-tombs
+name: "Madarounfa Lake, Forest and Tombs"
+location:
+  country_code: NE
+  latitude: 13.314722
+  longitude: 7.141111
+scores:
+  impact: null
+  uniqueness: 8.5
+  significance: 8.9
+  experience: null
+  depth: null
+  categories:
+    culture: 8.9

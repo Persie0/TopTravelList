@@ -1,0 +1,15 @@
+id: sight-fr-santiago-routes
+name: "Routes of Santiago de Compostela in France"
+location:
+  country_code: FR
+  latitude: 44.06
+  longitude: 3.08
+scores:
+  impact: 8.7
+  uniqueness: 9.0
+  significance: 9.4
+  experience: null
+  depth: null
+  categories:
+    history: 9.5
+    culture: 9.3

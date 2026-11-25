@@ -1,0 +1,15 @@
+id: sight-es-ferrol
+name: "Ferrol Enlightenment heritage"
+location:
+  country_code: ES
+  latitude: 43.482
+  longitude: -8.235
+scores:
+  impact: 8.4
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 8.4
+  depth: 8.6
+  categories:
+    architecture: 9.1
+    history: 9.3

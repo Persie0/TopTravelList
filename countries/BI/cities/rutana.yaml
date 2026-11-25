@@ -1,0 +1,14 @@
+id: city-bi-rutana
+name: "Rutana"
+location:
+  country_code: BI
+  latitude: -3.9279
+  longitude: 29.992
+scores:
+  impact: 5.8
+  uniqueness: 6.5
+  significance: 6.4
+  experience: 6.7
+  depth: 5.8
+  categories:
+    culture: 7.2

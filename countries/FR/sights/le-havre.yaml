@@ -1,0 +1,15 @@
+id: sight-fr-le-havre
+name: "Le Havre city rebuilt by Auguste Perret"
+location:
+  country_code: FR
+  latitude: 49.49
+  longitude: 0.107
+scores:
+  impact: 8.4
+  uniqueness: 9.0
+  significance: 9.2
+  experience: 8.6
+  depth: 8.8
+  categories:
+    architecture: 9.3
+    history: 9.2

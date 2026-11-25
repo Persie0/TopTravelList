@@ -1,0 +1,15 @@
+id: sight-ua-drohobych-st-george
+name: "Saint George Tserkva, Drohobych"
+location:
+  country_code: UA
+  latitude: 49.347736
+  longitude: 23.499444
+scores:
+  impact: 8.7
+  uniqueness: 9.1
+  significance: 9.2
+  experience: 8.3
+  depth: 7.5
+  categories:
+    architecture: 9.4
+    history: 9.3

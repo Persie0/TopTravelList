@@ -1,0 +1,15 @@
+id: sight-de-hedeby
+name: "Hedeby and Danevirke archaeological complex"
+location:
+  country_code: DE
+  latitude: 54.49
+  longitude: 9.56
+scores:
+  impact: 8.4
+  uniqueness: 9.0
+  significance: 9.3
+  experience: 8.6
+  depth: 8.7
+  categories:
+    history: 9.4
+    culture: 9.1

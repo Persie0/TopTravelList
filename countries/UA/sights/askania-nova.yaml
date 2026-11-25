@@ -1,0 +1,15 @@
+id: sight-ua-askania-nova
+name: "Askania-Nova Steppe Biosphere Reserve"
+location:
+  country_code: UA
+  latitude: 46.45
+  longitude: 33.88
+scores:
+  impact: null
+  uniqueness: 9.3
+  significance: 9.4
+  experience: null
+  depth: null
+  categories:
+    nature: 9.5
+    wildlife: 9.4

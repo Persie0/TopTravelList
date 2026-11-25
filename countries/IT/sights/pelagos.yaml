@@ -1,0 +1,15 @@
+id: sight-it-pelagos
+name: "Pelagos Cetacean Sanctuary (Italian sector)"
+location:
+  country_code: IT
+  latitude: 43.2
+  longitude: 9.2
+scores:
+  impact: null
+  uniqueness: 9.2
+  significance: 9.3
+  experience: null
+  depth: null
+  categories:
+    nature: 9.5
+    wildlife: 9.5

@@ -1,0 +1,15 @@
+id: sight-it-pantheon
+name: "Pantheon Rome"
+location:
+  country_code: IT
+  latitude: 41.899
+  longitude: 12.477
+scores:
+  impact: 9.4
+  uniqueness: 9.5
+  significance: 9.6
+  experience: 9.0
+  depth: 8.0
+  categories:
+    architecture: 9.8
+    history: 9.6

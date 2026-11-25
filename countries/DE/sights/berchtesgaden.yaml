@@ -1,0 +1,16 @@
+id: sight-de-berchtesgaden
+name: "Berchtesgaden National Park"
+location:
+  country_code: DE
+  latitude: 47.55
+  longitude: 12.97
+scores:
+  impact: 9.4
+  uniqueness: 9.1
+  significance: 9.0
+  experience: 9.3
+  depth: 9.4
+  categories:
+    nature: 9.6
+    photography: 9.5
+    adventure: 9.4

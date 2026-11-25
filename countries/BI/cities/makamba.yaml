@@ -1,0 +1,15 @@
+id: city-bi-makamba
+name: "Makamba"
+location:
+  country_code: BI
+  latitude: -4.1348
+  longitude: 29.804
+scores:
+  impact: 5.8
+  uniqueness: 6.5
+  significance: 6.4
+  experience: 6.8
+  depth: 6.0
+  categories:
+    culture: 7.2
+    food: 7.3

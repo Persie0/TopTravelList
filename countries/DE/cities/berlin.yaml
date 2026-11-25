@@ -1,0 +1,17 @@
+id: city-de-berlin
+name: "Berlin"
+location:
+  country_code: DE
+  latitude: 52.52
+  longitude: 13.405
+scores:
+  impact: 9.2
+  uniqueness: 9.2
+  significance: 9.5
+  experience: 9.2
+  depth: 9.6
+  categories:
+    history: 9.6
+    culture: 9.5
+    architecture: 9.1
+    nightlife: 9.4

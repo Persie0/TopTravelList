@@ -1,0 +1,15 @@
+id: city-so-mogadishu
+name: "Mogadishu"
+location:
+  country_code: SO
+  latitude: 2.037
+  longitude: 45.344
+scores:
+  impact: 7.8
+  uniqueness: 8.3
+  significance: 8.6
+  experience: null
+  depth: null
+  categories:
+    history: 8.8
+    culture: 8.5

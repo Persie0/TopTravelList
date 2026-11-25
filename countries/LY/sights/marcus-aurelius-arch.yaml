@@ -1,0 +1,15 @@
+id: sight-ly-marcus-aurelius-arch
+name: "Arch of Marcus Aurelius"
+location:
+  country_code: LY
+  latitude: 32.900637
+  longitude: 13.175986
+scores:
+  impact: 8.4
+  uniqueness: 8.6
+  significance: 8.8
+  experience: 8.0
+  depth: 6.8
+  categories:
+    history: 9.0
+    architecture: 8.9

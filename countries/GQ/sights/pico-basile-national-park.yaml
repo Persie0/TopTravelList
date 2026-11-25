@@ -1,0 +1,17 @@
+id: sight-gq-pico-basile-national-park
+name: "Pico Basilé National Park"
+location:
+  country_code: GQ
+  latitude: 3.587778
+  longitude: 8.761944
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 8.2
+  depth: 8.4
+  categories:
+    nature: 9.3
+    wildlife: 9.1
+    adventure: 8.7
+    photography: 9.1

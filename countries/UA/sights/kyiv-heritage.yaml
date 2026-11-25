@@ -1,0 +1,16 @@
+id: sight-ua-kyiv-heritage
+name: "Saint Sophia Cathedral and Kyiv-Pechersk Lavra (listed ensemble)"
+location:
+  country_code: UA
+  latitude: 50.453
+  longitude: 30.514
+scores:
+  impact: 9.3
+  uniqueness: 9.3
+  significance: 9.5
+  experience: 8.8
+  depth: 9.1
+  categories:
+    architecture: 9.6
+    history: 9.6
+    culture: 9.4

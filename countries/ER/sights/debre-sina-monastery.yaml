@@ -1,0 +1,15 @@
+id: sight-er-debre-sina-monastery
+name: "Debre Sina Monastery"
+location:
+  country_code: ER
+  latitude: 15.84
+  longitude: 38.82
+scores:
+  impact: 8.0
+  uniqueness: 8.6
+  significance: 8.8
+  experience: 7.6
+  depth: 6.9
+  categories:
+    history: 9.0
+    culture: 9.0

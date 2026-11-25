@@ -1,0 +1,15 @@
+id: sight-de-moravian-settlements
+name: "Moravian Church Settlements (Herrnhut component)"
+location:
+  country_code: DE
+  latitude: 51.016
+  longitude: 14.743
+scores:
+  impact: 8.2
+  uniqueness: 8.8
+  significance: 9.1
+  experience: 8.4
+  depth: 8.0
+  categories:
+    architecture: 9.1
+    history: 9.2

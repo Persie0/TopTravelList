@@ -1,0 +1,17 @@
+id: sight-mx-nuestra-senora-luz-tancoyol-mission
+name: "Mission of Nuestra Señora de la Luz de Tancoyol"
+location:
+  country_code: MX
+  latitude: 21.399033
+  longitude: -99.32965
+scores:
+  impact: 8.5
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 8.2
+  depth: 7.8
+  categories:
+    architecture: 9.3
+    history: 9.0
+    culture: 8.9
+    photography: 9.0

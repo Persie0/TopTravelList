@@ -1,0 +1,15 @@
+id: sight-es-beech-forests
+name: "Ancient Beech Forests (Spanish components)"
+location:
+  country_code: ES
+  latitude: 42.85
+  longitude: -1.05
+scores:
+  impact: 8.5
+  uniqueness: 8.9
+  significance: 9.3
+  experience: null
+  depth: null
+  categories:
+    nature: 9.3
+    wildlife: 9.0

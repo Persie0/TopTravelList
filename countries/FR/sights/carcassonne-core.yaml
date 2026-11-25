@@ -1,0 +1,16 @@
+id: sight-fr-carcassonne-core
+name: "Historic Fortified City of Carcassonne"
+location:
+  country_code: FR
+  latitude: 43.207
+  longitude: 2.364
+scores:
+  impact: 9.4
+  uniqueness: 9.2
+  significance: 9.2
+  experience: 9.1
+  depth: 8.9
+  categories:
+    architecture: 9.6
+    history: 9.4
+    photography: 9.5

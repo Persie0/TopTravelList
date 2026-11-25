@@ -1,0 +1,15 @@
+id: city-gr-kavala
+name: "Kavala"
+location:
+  country_code: GR
+  latitude: 40.937
+  longitude: 24.412
+scores:
+  impact: 8.5
+  uniqueness: 8.5
+  significance: 8.6
+  experience: 8.6
+  depth: 8.2
+  categories:
+    architecture: 9.0
+    history: 8.9

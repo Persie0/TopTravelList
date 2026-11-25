@@ -1,0 +1,13 @@
+id: city-sd-karima
+name: "Karima"
+location:
+  country_code: SD
+  latitude: 18.55
+  longitude: 31.85
+scores:
+  impact: null
+  uniqueness: 7.6
+  significance: 7.3
+  experience: null
+  depth: null
+  categories: {}

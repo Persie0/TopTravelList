@@ -1,0 +1,15 @@
+id: sight-lr-marshall-wetlands-ramsar-area
+name: "Marshall Wetlands (Ramsar area)"
+location:
+  country_code: LR
+  latitude: 6.133333
+  longitude: -10.366667
+scores:
+  impact: null
+  uniqueness: 8.2
+  significance: 8.5
+  experience: null
+  depth: null
+  categories:
+    nature: 8.8
+    wildlife: null

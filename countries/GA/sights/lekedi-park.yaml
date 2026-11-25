@@ -1,0 +1,16 @@
+id: sight-ga-lekedi-park
+name: "Lékédi Park"
+location:
+  country_code: GA
+  latitude: -1.95
+  longitude: 13.02
+scores:
+  impact: 8.0
+  uniqueness: 8.3
+  significance: 8.3
+  experience: 8.5
+  depth: 8.0
+  categories:
+    wildlife: 9.0
+    nature: 8.7
+    family: 8.3

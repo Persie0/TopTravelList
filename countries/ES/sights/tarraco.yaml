@@ -1,0 +1,15 @@
+id: sight-es-tarraco
+name: "Archaeological Ensemble of Tarraco"
+location:
+  country_code: ES
+  latitude: 41.116
+  longitude: 1.259
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 9.3
+  experience: 8.8
+  depth: 9.0
+  categories:
+    history: 9.4
+    architecture: 9.2

@@ -1,0 +1,16 @@
+id: sight-gr-samaria
+name: "Samaria Gorge National Park"
+location:
+  country_code: GR
+  latitude: 35.28
+  longitude: 23.96
+scores:
+  impact: 9.3
+  uniqueness: 9.1
+  significance: 8.8
+  experience: 9.0
+  depth: 8.8
+  categories:
+    nature: 9.5
+    adventure: 9.4
+    photography: 9.4

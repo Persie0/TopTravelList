@@ -1,0 +1,15 @@
+id: city-de-erfurt
+name: "Erfurt"
+location:
+  country_code: DE
+  latitude: 50.979
+  longitude: 11.029
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 8.9
+  experience: 8.8
+  depth: 8.5
+  categories:
+    architecture: 9.3
+    history: 9.2

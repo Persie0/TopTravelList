@@ -1,0 +1,16 @@
+id: city-de-wurzburg
+name: "Würzburg"
+location:
+  country_code: DE
+  latitude: 49.794
+  longitude: 9.93
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 8.7
+  experience: 8.8
+  depth: 8.5
+  categories:
+    architecture: 9.2
+    history: 9.0
+    culture: 8.9

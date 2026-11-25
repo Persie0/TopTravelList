@@ -1,0 +1,16 @@
+id: city-ch-montreux
+name: "Montreux"
+location:
+  country_code: CH
+  latitude: 46.4312
+  longitude: 6.9107
+scores:
+  impact: 8.6
+  uniqueness: 8.4
+  significance: 8.3
+  experience: 8.9
+  depth: 8.2
+  categories:
+    relaxation: 9.2
+    culture: 9.0
+    photography: 9.1

@@ -1,0 +1,15 @@
+id: sight-de-bayreuth-opera
+name: "Margravial Opera House Bayreuth"
+location:
+  country_code: DE
+  latitude: 49.945
+  longitude: 11.579
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 9.3
+  experience: 8.8
+  depth: 8.0
+  categories:
+    architecture: 9.5
+    culture: 9.4

@@ -1,0 +1,16 @@
+id: city-fr-bordeaux
+name: "Bordeaux"
+location:
+  country_code: FR
+  latitude: 44.8378
+  longitude: -0.5792
+scores:
+  impact: 9.0
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 9.1
+  depth: 8.9
+  categories:
+    architecture: 9.4
+    history: 9.2
+    food: 9.2

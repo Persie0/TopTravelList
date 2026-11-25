@@ -1,0 +1,16 @@
+id: sight-ch-st-gall-abbey
+name: "Abbey of St Gall"
+location:
+  country_code: CH
+  latitude: 47.423
+  longitude: 9.377
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 9.4
+  experience: 8.9
+  depth: 8.6
+  categories:
+    architecture: 9.5
+    history: 9.5
+    culture: 9.4

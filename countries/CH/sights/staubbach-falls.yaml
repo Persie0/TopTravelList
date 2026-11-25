@@ -1,0 +1,15 @@
+id: sight-ch-staubbach-falls
+name: "Staubbach Falls"
+location:
+  country_code: CH
+  latitude: 46.59
+  longitude: 7.905
+scores:
+  impact: 8.9
+  uniqueness: 8.7
+  significance: 8.3
+  experience: 8.6
+  depth: 7.3
+  categories:
+    nature: 9.1
+    photography: 9.4

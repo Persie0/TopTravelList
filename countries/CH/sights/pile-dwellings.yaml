@@ -1,0 +1,14 @@
+id: sight-ch-pile-dwellings
+name: "Prehistoric Pile Dwellings around the Alps (Swiss components)"
+location:
+  country_code: CH
+  latitude: 47.06
+  longitude: 8.3
+scores:
+  impact: null
+  uniqueness: 8.9
+  significance: 9.3
+  experience: null
+  depth: null
+  categories:
+    history: 9.4

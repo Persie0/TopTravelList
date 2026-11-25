@@ -1,0 +1,15 @@
+id: sight-gh-akosombo-dam
+name: "Akosombo Dam"
+location:
+  country_code: GH
+  latitude: 6.299
+  longitude: 0.064
+scores:
+  impact: 7.8
+  uniqueness: 8.1
+  significance: 8.5
+  experience: 7.7
+  depth: 6.8
+  categories:
+    history: 8.8
+    architecture: 8.6

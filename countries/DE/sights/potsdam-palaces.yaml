@@ -1,0 +1,16 @@
+id: sight-de-potsdam-palaces
+name: "Palaces and Parks of Potsdam and Berlin"
+location:
+  country_code: DE
+  latitude: 52.4
+  longitude: 13.04
+scores:
+  impact: 9.3
+  uniqueness: 9.3
+  significance: 9.4
+  experience: 9.2
+  depth: 9.5
+  categories:
+    architecture: 9.6
+    history: 9.4
+    photography: 9.4

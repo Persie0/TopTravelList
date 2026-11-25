@@ -1,0 +1,16 @@
+id: sight-mr-banc-d-arguin-national-park
+name: "Banc d’Arguin National Park"
+location:
+  country_code: MR
+  latitude: 20.23472
+  longitude: -16.10889
+scores:
+  impact: 9.1
+  uniqueness: 9.4
+  significance: 9.7
+  experience: 8.6
+  depth: 8.8
+  categories:
+    nature: 9.6
+    wildlife: 9.7
+    photography: 9.2

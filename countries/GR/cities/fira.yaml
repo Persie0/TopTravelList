@@ -1,0 +1,15 @@
+id: city-gr-fira
+name: "Fira"
+location:
+  country_code: GR
+  latitude: 36.4197
+  longitude: 25.4316
+scores:
+  impact: 9.0
+  uniqueness: 8.8
+  significance: 8.3
+  experience: 8.7
+  depth: 8.2
+  categories:
+    architecture: 9.1
+    photography: 9.4

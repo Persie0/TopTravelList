@@ -1,0 +1,16 @@
+id: city-es-toledo
+name: "Toledo"
+location:
+  country_code: ES
+  latitude: 39.8628
+  longitude: -4.0273
+scores:
+  impact: 9.2
+  uniqueness: 9.2
+  significance: 9.2
+  experience: 8.9
+  depth: 8.7
+  categories:
+    architecture: 9.5
+    history: 9.5
+    photography: 9.4

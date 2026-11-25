@@ -1,0 +1,15 @@
+id: sight-fr-reims-ensemble
+name: "Reims Cathedral Saint-Rémi and Palace of Tau"
+location:
+  country_code: FR
+  latitude: 49.254
+  longitude: 4.035
+scores:
+  impact: 9.2
+  uniqueness: 9.2
+  significance: 9.5
+  experience: 8.9
+  depth: 8.9
+  categories:
+    architecture: 9.6
+    history: 9.5

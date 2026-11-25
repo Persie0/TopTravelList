@@ -1,0 +1,16 @@
+id: sight-sl-bunce-island
+name: "Bunce Island"
+location:
+  country_code: SL
+  latitude: 8.569783
+  longitude: -13.040533
+scores:
+  impact: 8.7
+  uniqueness: 9.1
+  significance: 9.6
+  experience: 8.4
+  depth: 7.5
+  categories:
+    history: 9.7
+    culture: 9.1
+    architecture: 8.6

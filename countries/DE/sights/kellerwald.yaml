@@ -1,0 +1,15 @@
+id: sight-de-kellerwald
+name: "Kellerwald-Edersee National Park"
+location:
+  country_code: DE
+  latitude: 51.16
+  longitude: 8.98
+scores:
+  impact: 8.5
+  uniqueness: 8.7
+  significance: 8.9
+  experience: 8.7
+  depth: 8.8
+  categories:
+    nature: 9.2
+    wildlife: 9.0

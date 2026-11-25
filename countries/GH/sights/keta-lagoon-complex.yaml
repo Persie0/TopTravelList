@@ -1,0 +1,15 @@
+id: sight-gh-keta-lagoon-complex
+name: "Keta Lagoon Complex"
+location:
+  country_code: GH
+  latitude: 5.97
+  longitude: 0.92
+scores:
+  impact: 7.9
+  uniqueness: 8.3
+  significance: 8.7
+  experience: 8.0
+  depth: 8.3
+  categories:
+    wildlife: 9.1
+    nature: 8.8

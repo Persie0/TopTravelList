@@ -1,0 +1,16 @@
+id: sight-es-atlantic-islands
+name: "Atlantic Islands of Galicia National Park"
+location:
+  country_code: ES
+  latitude: 42.23
+  longitude: -8.9
+scores:
+  impact: 9.1
+  uniqueness: 9.0
+  significance: 8.9
+  experience: 9.0
+  depth: 8.9
+  categories:
+    nature: 9.4
+    beaches: 9.3
+    photography: 9.4
