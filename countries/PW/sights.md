@@ -2,7 +2,7 @@
 
 # Palau (PW) — Sights & attractions ranking
 
-**9 ranked** · **1 unassessed** · **10 total** · Worldwide scoring **v2**
+**13 ranked** · **7 unassessed** · **20 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,27 +10,37 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (9)
+## Complete ranked list (13)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
 | 1 | [Rock Islands Southern Lagoon](sights/rock-islands-southern-lagoon.yaml) | Beach / bay | **94.25** | **Nature 9.5**, **Photography 9.5**, **Adventure 9.3**, Wildlife 9.2 | 9.5 / 9.5 / 9.3 / 9.4 / 9.3 | [7.246925, 134.3525](https://www.google.com/maps/search/?api=1&query=7.246925,134.3525) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Rock%20Islands%20Southern%20Lagoon%2C%20Palau) |
 | 2 | [Jellyfish Lake (Ongeim'l Tketau)](sights/jellyfish-lake.yaml) | Lake | **90.80** | **Nature 9.3**, **Wildlife 9.3**, **Adventure 8.6** | 9.2 / 9.6 / 8.9 / 9.0 / 7.9 | [7.1612, 134.37634](https://www.google.com/maps/search/?api=1&query=7.1612,134.37634) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Jellyfish%20Lake%20%28Ongeim%27l%20Tketau%29%2C%20Palau) |
 | 3 | [Blue Corner](sights/blue-corner.yaml) | Attraction | **89.55** | **Adventure 9.4**, **Wildlife 9.3**, **Nature 9.1** | 9.3 / 9.0 / 8.3 / 9.3 / 8.6 | [7.13361, 134.22028](https://www.google.com/maps/search/?api=1&query=7.13361,134.22028) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Blue%20Corner%2C%20Palau) |
-| 4 | [German Channel](sights/german-channel.yaml) | Attraction | **84.35** | **Wildlife 9.0**, **Adventure 8.8**, **Nature 8.4** | 8.7 / 8.6 / 7.8 / 8.9 / 7.8 | [7.12722, 134.28417](https://www.google.com/maps/search/?api=1&query=7.12722,134.28417) | [Google Maps](https://www.google.com/maps/search/?api=1&query=German%20Channel%2C%20Palau) |
-| 5 | [Airai Bai](sights/airai-bai.yaml) | Attraction | **80.90** | **Culture 8.8**, **Architecture 8.7**, **History 8.6** | 7.7 / 8.7 / 8.6 / 7.7 / 7.3 | [7.36111, 134.56028](https://www.google.com/maps/search/?api=1&query=7.36111,134.56028) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Airai%20Bai%2C%20Palau) |
-| 6 | [Badrulchau Stone Monoliths](sights/badrulchau-stone-monoliths.yaml) | Attraction | **79.65** | **History 8.8**, **Culture 8.6**, **Photography 7.6** | 7.4 / 8.8 / 8.6 / 7.5 / 7.0 | [7.70929, 134.63052](https://www.google.com/maps/search/?api=1&query=7.70929,134.63052) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Badrulchau%20Stone%20Monoliths%2C%20Palau) |
-| 7 | [Belau National Museum](sights/belau-national-museum.yaml) | Museum / heritage | **78.55** | **Culture 8.7**, **History 8.5** | 7.3 / 8.2 / 8.3 / 7.9 / 7.7 | [7.33658, 134.47634](https://www.google.com/maps/search/?api=1&query=7.33658,134.47634) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Belau%20National%20Museum%2C%20Palau) |
-| 8 | [Etpison Museum](sights/etpison-museum.yaml) | Museum / heritage | **75.85** | **Culture 8.4**, **History 8.1** | 7.1 / 8.0 / 7.8 / 7.7 / 7.4 | [7.34528, 134.48316](https://www.google.com/maps/search/?api=1&query=7.34528,134.48316) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Etpison%20Museum%2C%20Palau) |
-| 9 | [Ngardmau Waterfall](sights/ngardmau-waterfall.yaml) | Waterfall | **75.45** | **Nature 8.2**, **Photography 8.1**, **Adventure 7.8** | 8.0 / 7.4 / 6.7 / 8.1 / 7.4 | [7.59118, 134.59342](https://www.google.com/maps/search/?api=1&query=7.59118,134.59342) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ngardmau%20Waterfall%2C%20Palau) |
+| 4 | [Ulong Channel](sights/ulong-channel.yaml) | Attraction | **87.15** | **Adventure 9.2**, **Wildlife 9.1**, **Nature 9.0** | 9.0 / 8.8 / 8.1 / 9.1 / 8.3 | [7.28344, 134.24468](https://www.google.com/maps/search/?api=1&query=7.28344,134.24468) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ulong%20Channel%2C%20Palau) |
+| 5 | [Blue Holes](sights/blue-holes.yaml) | Attraction | **86.65** | **Adventure 9.1**, **Photography 9.1**, **Nature 9.0** | 9.1 / 8.9 / 7.9 / 8.8 / 8.1 | [7.113, 134.205](https://www.google.com/maps/search/?api=1&query=7.113,134.205) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Blue%20Holes%2C%20Palau) |
+| 6 | [German Channel](sights/german-channel.yaml) | Attraction | **84.35** | **Wildlife 9.0**, **Adventure 8.8**, **Nature 8.4** | 8.7 / 8.6 / 7.8 / 8.9 / 7.8 | [7.12722, 134.28417](https://www.google.com/maps/search/?api=1&query=7.12722,134.28417) | [Google Maps](https://www.google.com/maps/search/?api=1&query=German%20Channel%2C%20Palau) |
+| 7 | [Kayangel Atoll](sights/kayangel-atoll.yaml) | Attraction | **82.80** | **Beaches 8.9**, **Nature 8.8**, **Photography 8.7** | 8.6 / 8.3 / 7.9 / 8.3 / 8.0 | [8.066667, 134.7](https://www.google.com/maps/search/?api=1&query=8.066667,134.7) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kayangel%20Atoll%2C%20Palau) |
+| 8 | [Airai Bai](sights/airai-bai.yaml) | Attraction | **80.90** | **Culture 8.8**, **Architecture 8.7**, **History 8.6** | 7.7 / 8.7 / 8.6 / 7.7 / 7.3 | [7.36111, 134.56028](https://www.google.com/maps/search/?api=1&query=7.36111,134.56028) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Airai%20Bai%2C%20Palau) |
+| 9 | [Badrulchau Stone Monoliths](sights/badrulchau-stone-monoliths.yaml) | Attraction | **79.65** | **History 8.8**, **Culture 8.6**, **Photography 7.6** | 7.4 / 8.8 / 8.6 / 7.5 / 7.0 | [7.70929, 134.63052](https://www.google.com/maps/search/?api=1&query=7.70929,134.63052) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Badrulchau%20Stone%20Monoliths%2C%20Palau) |
+| 10 | [Belau National Museum](sights/belau-national-museum.yaml) | Museum / heritage | **78.55** | **Culture 8.7**, **History 8.5** | 7.3 / 8.2 / 8.3 / 7.9 / 7.7 | [7.33658, 134.47634](https://www.google.com/maps/search/?api=1&query=7.33658,134.47634) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Belau%20National%20Museum%2C%20Palau) |
+| 11 | [Peleliu World War II Memorial Museum](sights/peleliu-memorial-museum.yaml) | Museum / heritage | **76.25** | **History 8.7**, **Culture 7.6** | 7.1 / 7.9 / 8.4 / 7.6 / 7.0 | [7.00627, 134.22614](https://www.google.com/maps/search/?api=1&query=7.00627,134.22614) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Peleliu%20World%20War%20II%20Memorial%20Museum%2C%20Palau) |
+| 12 | [Etpison Museum](sights/etpison-museum.yaml) | Museum / heritage | **75.85** | **Culture 8.4**, **History 8.1** | 7.1 / 8.0 / 7.8 / 7.7 / 7.4 | [7.34528, 134.48316](https://www.google.com/maps/search/?api=1&query=7.34528,134.48316) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Etpison%20Museum%2C%20Palau) |
+| 13 | [Ngardmau Waterfall](sights/ngardmau-waterfall.yaml) | Waterfall | **75.45** | **Nature 8.2**, **Photography 8.1**, **Adventure 7.8** | 8.0 / 7.4 / 6.7 / 8.1 / 7.4 | [7.59118, 134.59342](https://www.google.com/maps/search/?api=1&query=7.59118,134.59342) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ngardmau%20Waterfall%2C%20Palau) |
 
-## Not yet fully assessed (1)
+## Not yet fully assessed (7)
 
 These destinations have no rank until all five core scores are assessed.
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
+| — | [Chelechol ra Orrak](sights/chelechol-ra-orrak.yaml) | Attraction | **—** | — | — / — / — / — / — | [7.350306, 134.564667](https://www.google.com/maps/search/?api=1&query=7.350306,134.564667) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Chelechol%20ra%20Orrak%2C%20Palau) |
+| — | [Imeong Conservation Area](sights/imeong-conservation-area.yaml) | Attraction | **—** | **Culture 9.1**, **History 8.8**, **Nature 8.6** | 8.0 / 8.7 / 9.0 / — / — | [7.5275, 134.525556](https://www.google.com/maps/search/?api=1&query=7.5275,134.525556) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Imeong%20Conservation%20Area%2C%20Palau) |
 | — | [Lake Ngardok](sights/lake-ngardok.yaml) | Lake | **—** | **Nature 8.1**, **Wildlife 7.8** | 7.2 / 7.6 / 8.0 / — / — | [7.5133, 134.6031](https://www.google.com/maps/search/?api=1&query=7.5133,134.6031) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lake%20Ngardok%2C%20Palau) |
+| — | [Ouballang ra Ngebedech (Ngebedech Terraces)](sights/ngebedech-terraces.yaml) | Attraction | **—** | **History 8.8**, **Culture 8.7** | 7.9 / 8.8 / 8.6 / — / — | [7.437056, 134.492667](https://www.google.com/maps/search/?api=1&query=7.437056,134.492667) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ouballang%20ra%20Ngebedech%20%28Ngebedech%20Terraces%29%2C%20Palau) |
+| — | [Tet el Bad (Stone Coffin)](sights/tet-el-bad.yaml) | Attraction | **—** | **Culture 8.6**, **History 8.6** | 7.1 / 8.6 / 8.4 / — / — | [7.719389, 134.613444](https://www.google.com/maps/search/?api=1&query=7.719389,134.613444) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tet%20el%20Bad%20%28Stone%20Coffin%29%2C%20Palau) |
+| — | [Uet el Daob ma Uet el Beluu](sights/uet-el-daob-ma-uet-el-beluu.yaml) | Attraction | **—** | — | — / — / — / — / — | [7.348464, 134.566692](https://www.google.com/maps/search/?api=1&query=7.348464,134.566692) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Uet%20el%20Daob%20ma%20Uet%20el%20Beluu%2C%20Palau) |
+| — | [Yapease Quarry Sites](sights/yapease-quarry-sites.yaml) | Attraction | **—** | **History 9.3**, **Culture 9.2** | 7.9 / 9.2 / 9.2 / — / — | [7.350306, 134.564667](https://www.google.com/maps/search/?api=1&query=7.350306,134.564667) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Yapease%20Quarry%20Sites%2C%20Palau) |
 
 ---
 

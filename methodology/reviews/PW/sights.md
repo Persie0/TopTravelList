@@ -363,3 +363,361 @@
 - Earlier decision: none.
 - Verification still needed: Confirm reserve rules and visitor scope; no overall rank.
 
+
+### sight-pw-ngebedech-terraces — Ouballang ra Ngebedech (Ngebedech Terraces) — 2026-11-25
+
+- YAML: [source](../../../countries/PW/sights/ngebedech-terraces.yaml)
+- Action: new (coverage expansion)
+- Precise subject: Tentative terrace landscape, not all Babeldaob.
+- Location check: representative 7.437056, 134.492667; not an entrance.
+- Evidence status: unassessed
+- Limited factual references (2026-11-25):
+  - State submission describes sculpted hills, terraces and archaeological features; official DMS reference point. — https://whc.unesco.org/en/tentativelists/1930/
+- Missing or uncertain facts: Confirm current conditions and local permissions.
+
+#### Worldwide peer comparisons
+- Nan Madol (Micronesia): greater visible monumental ensemble
+- Stonehenge (United Kingdom): more monumental and documented visitor interpretation
+- Plain of Jars (Laos): larger distributed archaeological landscape
+- Lapaha Royal Tombs (Tonga): related Pacific customary stone heritage
+
+#### Scoring decisions
+| Field | New rating | Individual justification |
+| --- | ---: | --- |
+| impact | 7.9 | Sculpted hills and landforms |
+| uniqueness | 8.8 | distinctive regional terracing |
+| significance | 8.6 | significant evidence of historic land use |
+| experience | null | permitted visitor scope unverified |
+| depth | null | accessible interpretation unknown |
+
+- Applicable category scores: history: 8.8, culture: 8.7
+- Computed worldwide overall: unranked
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Retain without rank pending evidence.
+- Earlier decision: none.
+- Verification still needed: Confirm current conditions and local permissions.
+
+
+### sight-pw-imeong-conservation-area — Imeong Conservation Area — 2026-11-25
+
+- YAML: [source](../../../countries/PW/sights/imeong-conservation-area.yaml)
+- Action: new (coverage expansion)
+- Precise subject: Whole proposed mixed landscape, not a single sacred site.
+- Location check: representative 7.5275, 134.525556; not an entrance.
+- Evidence status: unassessed
+- Limited factual references (2026-11-25):
+  - State submission describes sacred heritage, traditional settlement fabric and diverse habitats; its latitude appears inconsistent with the described region. — https://whc.unesco.org/en/tentativelists/1931/
+  - Named Imeong settlement coordinates used as approximate regional proxy. — https://geographic.org/geographic_names/name.php?c=palau&fid=4868&uni=-4969086
+- Missing or uncertain facts: Village proxy rather than property marker; confirm boundary with authorities. Respect sacred site restrictions.
+
+#### Worldwide peer comparisons
+- Nan Madol (Micronesia): greater visible monumental ensemble
+- Stonehenge (United Kingdom): more monumental and documented visitor interpretation
+- Plain of Jars (Laos): larger distributed archaeological landscape
+- Lapaha Royal Tombs (Tonga): related Pacific customary stone heritage
+
+#### Scoring decisions
+| Field | New rating | Individual justification |
+| --- | ---: | --- |
+| impact | 8.0 | Forest and surviving settlement features |
+| uniqueness | 8.7 | distinct ecological and customary cultural combination |
+| significance | 9.0 | major continuing sacred heritage |
+| experience | null | ordinary authorized visitor scope unresolved |
+| depth | null | accessible breadth unknown |
+
+- Applicable category scores: nature: 8.6, culture: 9.1, history: 8.8
+- Computed worldwide overall: unranked
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Retain without rank pending evidence.
+- Earlier decision: none.
+- Verification still needed: Village proxy rather than property marker; confirm boundary with authorities. Respect sacred site restrictions.
+
+
+### sight-pw-yapease-quarry-sites — Yapease Quarry Sites — 2026-11-25
+
+- YAML: [source](../../../countries/PW/sights/yapease-quarry-sites.yaml)
+- Action: new (coverage expansion)
+- Precise subject: Both proposed quarry components, first component representative point.
+- Location check: representative 7.350306, 134.564667; not an entrance.
+- Evidence status: unassessed
+- Limited factual references (2026-11-25):
+  - Official submission describes two quarry sites, stone-money manufacture and inter-island exchange; first component coordinate. — https://whc.unesco.org/en/tentativelists/1932/
+- Missing or uncertain facts: Tentative only. Both components separately inventoried; do not assume access to culturally sensitive remains.
+
+#### Worldwide peer comparisons
+- Nan Madol (Micronesia): greater visible monumental ensemble
+- Stonehenge (United Kingdom): more monumental and documented visitor interpretation
+- Plain of Jars (Laos): larger distributed archaeological landscape
+- Lapaha Royal Tombs (Tonga): related Pacific customary stone heritage
+
+#### Scoring decisions
+| Field | New rating | Individual justification |
+| --- | ---: | --- |
+| impact | 7.9 | Limestone caves and stone working traces |
+| uniqueness | 9.2 | rare archaeological evidence of production of megalithic currency |
+| significance | 9.2 | important Pacific exchange heritage |
+| experience | null | combined customary access unresolved |
+| depth | null | accessible archaeological scope unknown |
+
+- Applicable category scores: history: 9.3, culture: 9.2
+- Computed worldwide overall: unranked
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Retain without rank pending evidence.
+- Earlier decision: none.
+- Verification still needed: Tentative only. Both components separately inventoried; do not assume access to culturally sensitive remains.
+
+
+### sight-pw-chelechol-ra-orrak — Chelechol ra Orrak — 2026-11-25
+
+- YAML: [source](../../../countries/PW/sights/chelechol-ra-orrak.yaml)
+- Action: new (coverage expansion)
+- Precise subject: Individual quarry component, not entire paired property.
+- Location check: representative 7.350306, 134.564667; not an entrance.
+- Evidence status: unassessed
+- Limited factual references (2026-11-25):
+  - Named western quarry component with caves, archaeological evidence and official coordinates. — https://whc.unesco.org/en/tentativelists/1932/
+- Missing or uncertain facts: Tentative component; no access guarantee.
+
+#### Worldwide peer comparisons
+- Nan Madol (Micronesia): greater visible monumental ensemble
+- Stonehenge (United Kingdom): more monumental and documented visitor interpretation
+- Plain of Jars (Laos): larger distributed archaeological landscape
+- Lapaha Royal Tombs (Tonga): related Pacific customary stone heritage
+
+#### Scoring decisions
+| Field | New rating | Individual justification |
+| --- | ---: | --- |
+| impact | null | Visitor-visible impact not assessed |
+| uniqueness | null | component rarity uncalibrated |
+| significance | null | component significance needs independent review |
+| experience | null | customary access unknown |
+| depth | null | accessible interpretation unknown |
+
+- Applicable category scores: none assessed
+- Computed worldwide overall: unranked
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Retain without rank pending evidence.
+- Earlier decision: none.
+- Verification still needed: Tentative component; no access guarantee.
+
+
+### sight-pw-uet-el-daob-ma-uet-el-beluu — Uet el Daob ma Uet el Beluu — 2026-11-25
+
+- YAML: [source](../../../countries/PW/sights/uet-el-daob-ma-uet-el-beluu.yaml)
+- Action: new (coverage expansion)
+- Precise subject: Individual quarry component, not entire paired property.
+- Location check: representative 7.348464, 134.566692; not an entrance.
+- Evidence status: unassessed
+- Limited factual references (2026-11-25):
+  - Named interior quarry component in gorge between marine lakes, with official coordinates. — https://whc.unesco.org/en/tentativelists/1932/
+- Missing or uncertain facts: Tentative component; no access guarantee.
+
+#### Worldwide peer comparisons
+- Nan Madol (Micronesia): greater visible monumental ensemble
+- Stonehenge (United Kingdom): more monumental and documented visitor interpretation
+- Plain of Jars (Laos): larger distributed archaeological landscape
+- Lapaha Royal Tombs (Tonga): related Pacific customary stone heritage
+
+#### Scoring decisions
+| Field | New rating | Individual justification |
+| --- | ---: | --- |
+| impact | null | Visitor-visible impact unverified |
+| uniqueness | null | individual rarity uncalibrated |
+| significance | null | archaeological importance needs direct review |
+| experience | null | permitted access unknown |
+| depth | null | accessible breadth unknown |
+
+- Applicable category scores: none assessed
+- Computed worldwide overall: unranked
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Retain without rank pending evidence.
+- Earlier decision: none.
+- Verification still needed: Tentative component; no access guarantee.
+
+
+### sight-pw-tet-el-bad — Tet el Bad (Stone Coffin) — 2026-11-25
+
+- YAML: [source](../../../countries/PW/sights/tet-el-bad.yaml)
+- Action: new (coverage expansion)
+- Precise subject: Individual stone coffin and immediate cultural setting, not whole Ollei village.
+- Location check: representative 7.719389, 134.613444; not an entrance.
+- Evidence status: unassessed
+- Limited factual references (2026-11-25):
+  - Official submission describes stone sarcophagus in Ollei traditional village and reference coordinates. — https://whc.unesco.org/en/tentativelists/1933/
+- Missing or uncertain facts: Tentative only; confirm custodians' permission and current condition.
+
+#### Worldwide peer comparisons
+- Nan Madol (Micronesia): greater visible monumental ensemble
+- Stonehenge (United Kingdom): more monumental and documented visitor interpretation
+- Plain of Jars (Laos): larger distributed archaeological landscape
+- Lapaha Royal Tombs (Tonga): related Pacific customary stone heritage
+
+#### Scoring decisions
+| Field | New rating | Individual justification |
+| --- | ---: | --- |
+| impact | 7.1 | Modest but notable stone feature |
+| uniqueness | 8.6 | unusual local funerary craftsmanship |
+| significance | 8.4 | important regional customary heritage |
+| experience | null | authorized visitation unknown |
+| depth | null | interpretation and depth unresolved |
+
+- Applicable category scores: history: 8.6, culture: 8.6
+- Computed worldwide overall: unranked
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Retain without rank pending evidence.
+- Earlier decision: none.
+- Verification still needed: Tentative only; confirm custodians' permission and current condition.
+
+
+### sight-pw-ulong-channel — Ulong Channel — 2026-11-25
+
+- YAML: [source](../../../countries/PW/sights/ulong-channel.yaml)
+- Action: new (coverage expansion)
+- Precise subject: Individual reef channel dive site, excluding whole Rock Islands.
+- Location check: representative 7.28344, 134.24468; not an entrance.
+- Evidence status: source-linked-unverified
+- Limited factual references (2026-11-25):
+  - Named mapped dive feature. — https://mapcarta.com/N4031041880
+  - Specialist operator description of popular guided channel dives. — https://www.padi.com/dive-site/palau/ulong-channel/
+  - Independent travel guide confirms operator day-trip context. — https://www.lonelyplanet.com/articles/best-things-palau
+- Missing or uncertain facts: Mapped point not for navigation. Conditions and qualifications vary; no wildlife or access guarantee.
+
+#### Worldwide peer comparisons
+- Blue Corner (Palau): stronger documented large-fish spectacle
+- Rainbow Reef (Fiji): greater multi-site soft coral breadth
+- Richelieu Rock (Thailand): comparable concentrated marine experience
+- Great Barrier Reef (Australia): vastly greater system-wide diversity and scope
+
+#### Scoring decisions
+| Field | New rating | Individual justification |
+| --- | ---: | --- |
+| impact | 9.0 | Rich underwater coral and fish scenery |
+| uniqueness | 8.8 | distinctive concentrated channel habitat with analogues |
+| significance | 8.1 | regional marine ecological interest |
+| experience | 9.1 | substantial specialist guided experience |
+| depth | 8.3 | focused reef site with several underwater perspectives |
+
+- Applicable category scores: nature: 9.0, wildlife: 9.1, adventure: 9.2
+- Computed worldwide overall: 87.15/100
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide editorial assessment.
+- Earlier decision: none.
+- Verification still needed: Mapped point not for navigation. Conditions and qualifications vary; no wildlife or access guarantee.
+
+
+### sight-pw-blue-holes — Blue Holes — 2026-11-25
+
+- YAML: [source](../../../countries/PW/sights/blue-holes.yaml)
+- Action: new (coverage expansion)
+- Precise subject: Named underwater cavern and adjacent reef experience, not Blue Corner or Virgin Blue Hole.
+- Location check: representative 7.113, 134.205; not an entrance.
+- Evidence status: source-linked-unverified
+- Limited factual references (2026-11-25):
+  - Guide coordinate and cavern light, reef-wall landscape and guided specialist context. — https://www.bluerides.com/dive-sites/blue-holes
+  - Independent guide identifies light shafts in cavern. — https://visitingoceania.com/blog/palau-travel-guide/
+- Missing or uncertain facts: Guide coordinate provisional; verify with operator. No diving instructions or safety guarantee.
+
+#### Worldwide peer comparisons
+- Blue Corner (Palau): stronger documented large-fish spectacle
+- Rainbow Reef (Fiji): greater multi-site soft coral breadth
+- Richelieu Rock (Thailand): comparable concentrated marine experience
+- Great Barrier Reef (Australia): vastly greater system-wide diversity and scope
+
+#### Scoring decisions
+| Field | New rating | Individual justification |
+| --- | ---: | --- |
+| impact | 9.1 | Striking filtered light and cavern forms |
+| uniqueness | 8.9 | distinctive reef cavern setting but global analogues |
+| significance | 7.9 | local geomorphological interest |
+| experience | 8.8 | rewarding guided specialist experience |
+| depth | 8.1 | several forms within focused site |
+
+- Applicable category scores: nature: 9.0, adventure: 9.1, photography: 9.1
+- Computed worldwide overall: 86.65/100
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide editorial assessment.
+- Earlier decision: none.
+- Verification still needed: Guide coordinate provisional; verify with operator. No diving instructions or safety guarantee.
+
+
+### sight-pw-kayangel-atoll — Kayangel Atoll — 2026-11-25
+
+- YAML: [source](../../../countries/PW/sights/kayangel-atoll.yaml)
+- Action: new (coverage expansion)
+- Precise subject: Atoll waterscape and permitted islands, excluding entire state and remote protected zones.
+- Location check: representative 8.066667, 134.7; not an entrance.
+- Evidence status: source-linked-unverified
+- Limited factual references (2026-11-25):
+  - Named atoll reference coordinate 8°04′ N 134°42′ E. — https://en.wikipedia.org/wiki/Kayangel
+  - Conservation organization describes beaches and permitted recreation context. — https://www.palauconservation.org/programs/conservation-and-protected-areas/protected-areas/
+  - Independent visitor guide confirms boat charter visits. — https://www.lonelyplanet.com/articles/first-time-guide-to-palau
+- Missing or uncertain facts: Confirm local permissions, protected-area boundaries and operator availability.
+
+#### Worldwide peer comparisons
+- Marovo Lagoon (Solomon Islands): greater reef landscape breadth
+- Funafuti Lagoon (Tuvalu): comparable atoll seascape
+- Arno Atoll (Marshall Islands): comparable small island-water experience
+- Rock Islands Southern Lagoon (Palau): stronger karst and activity breadth
+
+#### Scoring decisions
+| Field | New rating | Individual justification |
+| --- | ---: | --- |
+| impact | 8.6 | White sand and clear reef waters |
+| uniqueness | 8.3 | distinctive small remote atoll with Pacific analogues |
+| significance | 7.9 | regional coastal ecology |
+| experience | 8.3 | organized boat and shore visits |
+| depth | 8.0 | multiple island and reef perspectives |
+
+- Applicable category scores: nature: 8.8, beaches: 8.9, photography: 8.7
+- Computed worldwide overall: 82.80/100
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide editorial assessment.
+- Earlier decision: none.
+- Verification still needed: Confirm local permissions, protected-area boundaries and operator availability.
+
+
+### sight-pw-peleliu-memorial-museum — Peleliu World War II Memorial Museum — 2026-11-25
+
+- YAML: [source](../../../countries/PW/sights/peleliu-memorial-museum.yaml)
+- Action: new (coverage expansion)
+- Precise subject: Museum institution only, not entire island's wartime landscape.
+- Location check: representative 7.00627, 134.22614; not an entrance.
+- Evidence status: source-linked-unverified
+- Limited factual references (2026-11-25):
+  - Named museum footprint and coordinate. — https://mapcarta.com/W593462119
+  - Museum displays artifacts, photographs and historical interpretation. — https://visitingoceania.com/destinations/palau/peleliu/
+  - Independent guide confirms island heritage visits. — https://www.lonelyplanet.com/articles/first-time-guide-to-palau
+- Missing or uncertain facts: Confirm current opening, displays and access.
+
+#### Worldwide peer comparisons
+- Hiroshima Peace Memorial Museum (Japan): greater interpretation breadth
+- Imperial War Museum (United Kingdom): broader historical collection
+- Vilu War Museum (Solomon Islands): comparable regional historical institution
+- Alele Museum (Marshall Islands): comparable compact Pacific museum
+
+#### Scoring decisions
+| Field | New rating | Individual justification |
+| --- | ---: | --- |
+| impact | 7.1 | Compact historic building and displays |
+| uniqueness | 7.9 | distinct Pacific regional historical collection |
+| significance | 8.4 | important remembrance and education |
+| experience | 7.6 | focused interpreted visit |
+| depth | 7.0 | limited collection breadth relative to major war museums |
+
+- Applicable category scores: history: 8.7, culture: 7.6
+- Computed worldwide overall: 76.25/100
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide editorial assessment.
+- Earlier decision: none.
+- Verification still needed: Confirm current opening, displays and access.
+
