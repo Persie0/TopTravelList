@@ -1,0 +1,16 @@
+id: city-bt-gangtey-village
+name: "Gangtey Village"
+location:
+  country_code: BT
+  latitude: 27.4870
+  longitude: 90.1720
+scores:
+  impact: 8.1
+  uniqueness: 8.6
+  significance: 7.8
+  experience: 8.4
+  depth: 7.5
+  categories:
+    culture: 8.9
+    photography: 8.9
+    relaxation: 8.7

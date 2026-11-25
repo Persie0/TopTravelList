@@ -1,0 +1,15 @@
+id: city-bt-zhemgang
+name: "Zhemgang"
+location:
+  country_code: BT
+  latitude: 27.2180
+  longitude: 90.6580
+scores:
+  impact: 7.2
+  uniqueness: 7.7
+  significance: 7.5
+  experience: 7.5
+  depth: 7.1
+  categories:
+    culture: 8.3
+    history: 8.0

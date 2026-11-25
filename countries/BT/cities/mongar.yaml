@@ -1,0 +1,15 @@
+id: city-bt-mongar
+name: "Mongar"
+location:
+  country_code: BT
+  latitude: 27.2770
+  longitude: 91.2400
+scores:
+  impact: 7.3
+  uniqueness: 7.7
+  significance: 7.4
+  experience: 7.8
+  depth: 7.4
+  categories:
+    culture: 8.2
+    food: 8.0

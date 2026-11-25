@@ -1,0 +1,16 @@
+id: city-bt-trongsa
+name: "Trongsa"
+location:
+  country_code: BT
+  latitude: 27.5000
+  longitude: 90.5080
+scores:
+  impact: 8.4
+  uniqueness: 8.7
+  significance: 8.9
+  experience: 8.3
+  depth: 7.8
+  categories:
+    history: 9.2
+    architecture: 9.0
+    culture: 8.9

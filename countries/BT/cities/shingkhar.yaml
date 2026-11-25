@@ -1,0 +1,15 @@
+id: city-bt-shingkhar
+name: "Shingkhar"
+location:
+  country_code: BT
+  latitude: 27.4830
+  longitude: 90.9580
+scores:
+  impact: 7.8
+  uniqueness: 8.4
+  significance: 7.6
+  experience: 8.1
+  depth: 7.2
+  categories:
+    culture: 8.7
+    photography: 8.5
