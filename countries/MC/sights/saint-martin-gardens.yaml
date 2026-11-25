@@ -1,0 +1,16 @@
+id: sight-mc-saint-martin-gardens
+name: "Saint Martin Gardens"
+location:
+  country_code: MC
+  latitude: 43.7300
+  longitude: 7.4242
+scores:
+  impact: 8.2
+  uniqueness: 8.0
+  significance: 7.4
+  experience: 8.5
+  depth: 7.6
+  categories:
+    photography: 9
+    relaxation: 8.9
+    nature: 8.5

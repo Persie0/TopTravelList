@@ -1,0 +1,17 @@
+id: sight-mc-oceanographic-museum-of-monaco
+name: "Oceanographic Museum of Monaco"
+location:
+  country_code: MC
+  latitude: 43.7308
+  longitude: 7.4259
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 9.0
+  experience: 8.9
+  depth: 8.9
+  categories:
+    architecture: 9.2
+    culture: 9.1
+    family: 9.2
+    wildlife: 8.9

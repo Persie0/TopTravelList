@@ -1,0 +1,16 @@
+id: sight-mc-exotic-garden-of-monaco
+name: "Exotic Garden of Monaco"
+location:
+  country_code: MC
+  latitude: 43.7314
+  longitude: 7.4133
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 8.3
+  experience: 8.8
+  depth: 8.5
+  categories:
+    nature: 9.2
+    photography: 9.3
+    relaxation: 8.8

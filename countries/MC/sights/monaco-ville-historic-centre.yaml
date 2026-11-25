@@ -1,0 +1,16 @@
+id: sight-mc-monaco-ville-historic-centre
+name: "Monaco-Ville Historic Centre"
+location:
+  country_code: MC
+  latitude: 43.7311
+  longitude: 7.4250
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 8.7
+  experience: 8.8
+  depth: 8.0
+  categories:
+    architecture: 9.1
+    history: 9.1
+    photography: 9.3

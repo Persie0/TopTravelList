@@ -1,0 +1,15 @@
+id: sight-mc-villa-paloma-new-national-museum
+name: "Villa Paloma (New National Museum)"
+location:
+  country_code: MC
+  latitude: 43.7318
+  longitude: 7.4140
+scores:
+  impact: 7.8
+  uniqueness: 8.0
+  significance: 7.7
+  experience: 8.1
+  depth: 7.7
+  categories:
+    culture: 8.7
+    architecture: 8.4

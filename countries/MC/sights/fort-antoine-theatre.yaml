@@ -1,0 +1,16 @@
+id: sight-mc-fort-antoine-theatre
+name: "Fort Antoine Theatre"
+location:
+  country_code: MC
+  latitude: 43.7320
+  longitude: 7.4270
+scores:
+  impact: 7.8
+  uniqueness: 8.0
+  significance: 7.8
+  experience: 8.0
+  depth: 6.9
+  categories:
+    photography: 8.8
+    history: 8.4
+    culture: 8.2

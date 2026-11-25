@@ -1,0 +1,16 @@
+id: sight-mc-japanese-garden-monaco
+name: "Japanese Garden Monaco"
+location:
+  country_code: MC
+  latitude: 43.7422
+  longitude: 7.4318
+scores:
+  impact: 7.9
+  uniqueness: 7.8
+  significance: 7.1
+  experience: 8.3
+  depth: 7.3
+  categories:
+    relaxation: 8.8
+    photography: 8.5
+    culture: 8.3

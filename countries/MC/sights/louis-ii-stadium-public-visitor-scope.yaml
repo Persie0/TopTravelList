@@ -1,0 +1,15 @@
+id: sight-mc-louis-ii-stadium-public-visitor-scope
+name: "Louis II Stadium (public visitor scope)"
+location:
+  country_code: MC
+  latitude: 43.7276
+  longitude: 7.4150
+scores:
+  impact: 7.8
+  uniqueness: 7.8
+  significance: 7.6
+  experience: 7.8
+  depth: 7.1
+  categories:
+    architecture: 8.4
+    culture: 8.3

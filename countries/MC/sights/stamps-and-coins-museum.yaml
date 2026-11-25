@@ -1,0 +1,15 @@
+id: sight-mc-stamps-and-coins-museum
+name: "Stamps and Coins Museum"
+location:
+  country_code: MC
+  latitude: 43.7278
+  longitude: 7.4190
+scores:
+  impact: 7.1
+  uniqueness: 8.0
+  significance: 7.9
+  experience: 7.7
+  depth: 7.1
+  categories:
+    history: 8.5
+    culture: 8.2
