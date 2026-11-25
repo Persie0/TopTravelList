@@ -1,0 +1,15 @@
+id: sight-is-keldur
+name: "Keldur (Turf House Tradition component)"
+location:
+  country_code: IS
+  latitude: 63.821667
+  longitude: -20.07395
+scores:
+  impact: 8.1
+  uniqueness: 8.7
+  significance: 8.6
+  experience: null
+  depth: null
+  categories:
+    architecture: 8.7
+    history: 8.6

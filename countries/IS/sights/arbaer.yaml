@@ -1,0 +1,15 @@
+id: sight-is-arbaer
+name: "Árbær Open Air Museum (Turf House Tradition component)"
+location:
+  country_code: IS
+  latitude: 64.118417
+  longitude: -21.81965
+scores:
+  impact: 8.1
+  uniqueness: 8.7
+  significance: 8.6
+  experience: null
+  depth: null
+  categories:
+    architecture: 8.7
+    history: 8.6

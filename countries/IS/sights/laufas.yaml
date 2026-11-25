@@ -1,0 +1,15 @@
+id: sight-is-laufas
+name: "Laufás (Turf House Tradition component)"
+location:
+  country_code: IS
+  latitude: 65.893983
+  longitude: -18.0724
+scores:
+  impact: 8.1
+  uniqueness: 8.7
+  significance: 8.6
+  experience: null
+  depth: null
+  categories:
+    architecture: 8.7
+    history: 8.6
