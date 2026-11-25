@@ -1,0 +1,16 @@
+id: sight-es-alhambra-ensemble
+name: "Alhambra Generalife and Albayzín"
+location:
+  country_code: ES
+  latitude: 37.176
+  longitude: -3.589
+scores:
+  impact: 9.6
+  uniqueness: 9.6
+  significance: 9.5
+  experience: 9.4
+  depth: 9.5
+  categories:
+    architecture: 9.8
+    history: 9.6
+    photography: 9.6

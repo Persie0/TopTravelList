@@ -1,0 +1,15 @@
+id: sight-es-mozarabic-buildings
+name: "Mozarabic buildings on Iberian Peninsula (Spanish components)"
+location:
+  country_code: ES
+  latitude: 42.5
+  longitude: -5.6
+scores:
+  impact: 8.6
+  uniqueness: 9.1
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.4
+    history: 9.3

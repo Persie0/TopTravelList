@@ -1,0 +1,15 @@
+id: sight-es-frontier-forts
+name: "Bulwarked Frontier Fortifications (Spanish components)"
+location:
+  country_code: ES
+  latitude: 39.0
+  longitude: -7.0
+scores:
+  impact: 8.6
+  uniqueness: 8.9
+  significance: 9.0
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.2
+    history: 9.3

@@ -2,7 +2,7 @@
 
 # Spain (ES) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**22 ranked** · **0 unassessed** · **22 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,32 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (22)
 
-No cities, towns & villages have been assessed for **Spain** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Barcelona](cities/barcelona.yaml) | City / town | **95.20** | **Architecture 9.7**, **Culture 9.5**, **Food 9.3** | 9.6 / 9.5 / 9.4 / 9.5 / 9.6 | [41.3874, 2.1686](https://www.google.com/maps/search/?api=1&query=41.3874,2.1686) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Barcelona%2C%20Spain) |
+| 2 | [Madrid](cities/madrid.yaml) | City / town | **92.85** | **Culture 9.6**, **History 9.4**, **Food 9.3** | 9.2 / 9.1 / 9.4 / 9.4 / 9.6 | [40.4168, -3.7038](https://www.google.com/maps/search/?api=1&query=40.4168,-3.7038) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Madrid%2C%20Spain) |
+| 3 | [Seville](cities/seville.yaml) | City / town | **92.70** | **Architecture 9.5**, **Culture 9.5**, **History 9.3** | 9.3 / 9.3 / 9.2 / 9.3 / 9.2 | [37.3891, -5.9845](https://www.google.com/maps/search/?api=1&query=37.3891,-5.9845) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Seville%2C%20Spain) |
+| 4 | [Granada](cities/granada.yaml) | City / town | **92.10** | **Architecture 9.5**, **History 9.4**, **Culture 9.3** | 9.3 / 9.3 / 9.2 / 9.1 / 8.9 | [37.1773, -3.5986](https://www.google.com/maps/search/?api=1&query=37.1773,-3.5986) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Granada%2C%20Spain) |
+| 5 | [Córdoba](cities/cordoba.yaml) | City / town | **91.10** | **Architecture 9.5**, **History 9.5**, **Culture 9.3** | 9.1 / 9.2 / 9.3 / 9.0 / 8.7 | [37.8882, -4.7794](https://www.google.com/maps/search/?api=1&query=37.8882,-4.7794) | [Google Maps](https://www.google.com/maps/search/?api=1&query=C%C3%B3rdoba%2C%20Spain) |
+| 6 | [Toledo](cities/toledo.yaml) | City / town | **91.05** | **Architecture 9.5**, **History 9.5**, **Photography 9.4** | 9.2 / 9.2 / 9.2 / 8.9 / 8.7 | [39.8628, -4.0273](https://www.google.com/maps/search/?api=1&query=39.8628,-4.0273) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Toledo%2C%20Spain) |
+| 7 | [Santiago de Compostela](cities/santiago.yaml) | City / town | **90.30** | **Architecture 9.4**, **History 9.4**, **Culture 9.3** | 9.0 / 9.1 / 9.3 / 8.9 / 8.6 | [42.8782, -8.5448](https://www.google.com/maps/search/?api=1&query=42.8782,-8.5448) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Santiago%20de%20Compostela%2C%20Spain) |
+| 8 | [Valencia](cities/valencia.yaml) | City / town | **89.75** | **Food 9.4**, **Architecture 9.3**, **Culture 9.1** | 9.0 / 8.9 / 8.8 / 9.2 / 9.1 | [39.4699, -0.3763](https://www.google.com/maps/search/?api=1&query=39.4699,-0.3763) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Valencia%2C%20Spain) |
+| 9 | [Salamanca](cities/salamanca.yaml) | City / town | **89.60** | **Architecture 9.4**, **History 9.3**, **Culture 9.1** | 9.0 / 9.0 / 9.0 / 9.0 / 8.6 | [40.9701, -5.6635](https://www.google.com/maps/search/?api=1&query=40.9701,-5.6635) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Salamanca%2C%20Spain) |
+| 10 | [Palma de Mallorca](cities/palma.yaml) | City / town | **88.90** | **Architecture 9.4**, **History 9.1**, **Relaxation 9.1** | 9.0 / 8.8 / 8.8 / 9.0 / 8.8 | [39.5696, 2.6502](https://www.google.com/maps/search/?api=1&query=39.5696,2.6502) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Palma%20de%20Mallorca%2C%20Spain) |
+| 11 | [Segovia](cities/segovia.yaml) | City / town | **88.65** | **Architecture 9.4**, **History 9.3** | 9.0 / 8.9 / 9.0 / 8.8 / 8.2 | [40.9429, -4.1088](https://www.google.com/maps/search/?api=1&query=40.9429,-4.1088) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Segovia%2C%20Spain) |
+| 12 | [Ronda](cities/ronda.yaml) | City / town | **88.50** | **Photography 9.5**, **Architecture 9.2** | 9.2 / 9.0 / 8.6 / 8.8 / 8.0 | [36.7462, -5.1612](https://www.google.com/maps/search/?api=1&query=36.7462,-5.1612) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ronda%2C%20Spain) |
+| 13 | [San Sebastián](cities/san-sebastian.yaml) | City / town | **88.45** | **Food 9.6**, **Beaches 9.3**, **Relaxation 9.2** | 8.9 / 8.8 / 8.5 / 9.3 / 8.8 | [43.3183, -1.9812](https://www.google.com/maps/search/?api=1&query=43.3183,-1.9812) | [Google Maps](https://www.google.com/maps/search/?api=1&query=San%20Sebasti%C3%A1n%2C%20Spain) |
+| 14 | [Girona](cities/girona.yaml) | City / town | **88.30** | **Architecture 9.3**, **Photography 9.3**, **History 9.2** | 8.9 / 8.9 / 8.8 / 8.9 / 8.4 | [41.9794, 2.8214](https://www.google.com/maps/search/?api=1&query=41.9794,2.8214) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Girona%2C%20Spain) |
+| 15 | [Bilbao](cities/bilbao.yaml) | City / town | **88.00** | **Architecture 9.3**, **Culture 9.2**, **Food 9.2** | 8.8 / 8.8 / 8.6 / 9.0 / 8.9 | [43.263, -2.935](https://www.google.com/maps/search/?api=1&query=43.263,-2.935) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bilbao%2C%20Spain) |
+| 16 | [Cádiz](cities/cadiz.yaml) | City / town | **87.85** | **History 9.2**, **Architecture 9.0**, **Beaches 8.9** | 8.8 / 8.8 / 8.8 / 8.9 / 8.5 | [36.5271, -6.2886](https://www.google.com/maps/search/?api=1&query=36.5271,-6.2886) | [Google Maps](https://www.google.com/maps/search/?api=1&query=C%C3%A1diz%2C%20Spain) |
+| 17 | [Zaragoza](cities/zaragoza.yaml) | City / town | **87.65** | **Architecture 9.2**, **History 9.2** | 8.7 / 8.7 / 8.9 / 8.8 / 8.8 | [41.6488, -0.8891](https://www.google.com/maps/search/?api=1&query=41.6488,-0.8891) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Zaragoza%2C%20Spain) |
+| 18 | [Málaga](cities/malaga.yaml) | City / town | **87.30** | **Culture 9.2**, **History 9.0**, **Beaches 8.9** | 8.7 / 8.6 / 8.7 / 9.0 / 8.8 | [36.7213, -4.4214](https://www.google.com/maps/search/?api=1&query=36.7213,-4.4214) | [Google Maps](https://www.google.com/maps/search/?api=1&query=M%C3%A1laga%2C%20Spain) |
+| 19 | [Cáceres](cities/caceres.yaml) | City / town | **87.25** | **Architecture 9.3**, **History 9.2** | 8.8 / 8.9 / 8.8 / 8.6 / 8.1 | [39.4753, -6.3724](https://www.google.com/maps/search/?api=1&query=39.4753,-6.3724) | [Google Maps](https://www.google.com/maps/search/?api=1&query=C%C3%A1ceres%2C%20Spain) |
+| 20 | [Oviedo](cities/oviedo.yaml) | City / town | **87.10** | **History 9.3**, **Architecture 9.2** | 8.6 / 8.7 / 9.0 / 8.7 / 8.5 | [43.3614, -5.8494](https://www.google.com/maps/search/?api=1&query=43.3614,-5.8494) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Oviedo%2C%20Spain) |
+| 21 | [Burgos](cities/burgos.yaml) | City / town | **86.95** | **Architecture 9.3**, **History 9.2** | 8.7 / 8.6 / 8.9 / 8.7 / 8.5 | [42.3439, -3.6969](https://www.google.com/maps/search/?api=1&query=42.3439,-3.6969) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Burgos%2C%20Spain) |
+| 22 | [Ávila](cities/avila.yaml) | City / town | **86.90** | **Architecture 9.3**, **History 9.2** | 8.8 / 8.8 / 8.8 / 8.6 / 8.0 | [40.6565, -4.681](https://www.google.com/maps/search/?api=1&query=40.6565,-4.681) | [Google Maps](https://www.google.com/maps/search/?api=1&query=%C3%81vila%2C%20Spain) |
 
 ---
 

@@ -1,0 +1,16 @@
+id: city-es-cadiz
+name: "Cádiz"
+location:
+  country_code: ES
+  latitude: 36.5271
+  longitude: -6.2886
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 8.8
+  experience: 8.9
+  depth: 8.5
+  categories:
+    architecture: 9.0
+    history: 9.2
+    beaches: 8.9

@@ -1,0 +1,15 @@
+id: sight-es-salamanca-core
+name: "Old City of Salamanca"
+location:
+  country_code: ES
+  latitude: 40.964
+  longitude: -5.666
+scores:
+  impact: 9.2
+  uniqueness: 9.2
+  significance: 9.3
+  experience: 9.0
+  depth: 9.0
+  categories:
+    architecture: 9.6
+    history: 9.4
