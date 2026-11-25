@@ -2,8 +2,8 @@ id: city-er-dekemhare
 name: "Dekemhare"
 location:
   country_code: ER
-  latitude: 15.07
-  longitude: 39.05
+  latitude: 15.06832
+  longitude: 39.04817
 scores:
   impact: 6.7
   uniqueness: 7.8
