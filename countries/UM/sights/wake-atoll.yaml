@@ -1,0 +1,15 @@
+id: sight-um-wake-atoll
+name: "Wake Atoll (restricted natural heritage)"
+location:
+  country_code: UM
+  latitude: 19.29
+  longitude: 166.62
+scores:
+  impact: null
+  uniqueness: 8.6
+  significance: 8.9
+  experience: null
+  depth: null
+  categories:
+    nature: 8.9
+    wildlife: 8.9

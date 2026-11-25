@@ -256,3 +256,7 @@ Five atoll-level natural/cultural heritage records, all unranked. Recursive bran
 | sight-no-bouvet | sight-bv-bouvet | Preserve scores and nulls; correct central coordinates to -54.4167, 3.3333 from KBA; remove old active NO YAML. |
 
 [Original Norwegian review](reviews/NO/migration-history-BV.md). One unranked nature reserve, no permanent settlements. UNESCO tentative status distinguished from inscription. General landing/stay permission normally unnecessary, but aircraft landing requires authorization and seasonal restrictions apply; ordinary tourism not established. Full claims, legacy references, CI and regeneration pending.
+
+### United States Minor Outlying Islands coverage — 2026-11-26
+
+Nine island/atoll records, no permanent civilian settlements. Palmyra provisionally ranked only for documented permit-controlled recreation; eight remaining sites unranked. Recursive filename screen found no obvious same-scope US record (Syrian Palmyra unrelated); broader Papahānaumokuākea UNESCO scope distinct from Midway component. Other branches and legacy references not exhaustively screened. USFWS monument overview, Palmyra visitor location page and April 2026 Midway closure article opened, other source excerpts inspected. Coordinates approximate, independent material claims and ecological conditions pending. No new 9.5+ or perfect-ten scores. Full CI/regeneration pending.

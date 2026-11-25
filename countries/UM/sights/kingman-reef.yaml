@@ -1,0 +1,15 @@
+id: sight-um-kingman-reef
+name: "Kingman Reef National Wildlife Refuge"
+location:
+  country_code: UM
+  latitude: 6.4
+  longitude: -162.4
+scores:
+  impact: null
+  uniqueness: 9.3
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    nature: 9.4
+    wildlife: 9.4

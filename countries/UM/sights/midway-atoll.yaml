@@ -1,0 +1,16 @@
+id: sight-um-midway-atoll
+name: "Midway Atoll National Wildlife Refuge and Battle of Midway National Memorial"
+location:
+  country_code: UM
+  latitude: 28.217
+  longitude: -177.367
+scores:
+  impact: null
+  uniqueness: 9.3
+  significance: 9.4
+  experience: null
+  depth: null
+  categories:
+    nature: 9.2
+    wildlife: 9.4
+    history: 9.4

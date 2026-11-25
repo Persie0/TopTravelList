@@ -1,0 +1,16 @@
+id: sight-um-jarvis-island
+name: "Jarvis Island National Wildlife Refuge"
+location:
+  country_code: UM
+  latitude: -0.374
+  longitude: -160.003
+scores:
+  impact: null
+  uniqueness: 8.8
+  significance: 8.9
+  experience: null
+  depth: null
+  categories:
+    nature: 9.0
+    wildlife: 9.0
+    history: 8.0
