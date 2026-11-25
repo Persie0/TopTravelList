@@ -1,0 +1,16 @@
+id: city-gb-bath
+name: "Bath"
+location:
+  country_code: GB
+  latitude: 51.3811
+  longitude: -2.359
+scores:
+  impact: 9.1
+  uniqueness: 9.2
+  significance: 9.2
+  experience: 9.1
+  depth: 8.7
+  categories:
+    architecture: 9.5
+    history: 9.3
+    culture: 8.9

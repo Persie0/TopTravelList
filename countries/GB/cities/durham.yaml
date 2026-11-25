@@ -1,0 +1,15 @@
+id: city-gb-durham
+name: "Durham"
+location:
+  country_code: GB
+  latitude: 54.776
+  longitude: -1.575
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 8.9
+  experience: 8.6
+  depth: 8.0
+  categories:
+    architecture: 9.2
+    history: 9.2

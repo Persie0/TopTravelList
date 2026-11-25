@@ -1,0 +1,16 @@
+id: sight-il-ramon-crater
+name: "Makhtesh Ramon (Ramon Crater)"
+location:
+  country_code: IL
+  latitude: 30.61
+  longitude: 34.85
+scores:
+  impact: 9.0
+  uniqueness: 8.9
+  significance: 8.6
+  experience: 8.6
+  depth: 8.5
+  categories:
+    nature: 9.2
+    photography: 9.2
+    adventure: 8.8

@@ -1,0 +1,14 @@
+id: sight-be-stoclet-house
+name: "Stoclet House"
+location:
+  country_code: BE
+  latitude: 50.835
+  longitude: 4.416
+scores:
+  impact: 8.5
+  uniqueness: 9.3
+  significance: 9.4
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.4

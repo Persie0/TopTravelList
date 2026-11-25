@@ -1,0 +1,16 @@
+id: sight-ht-abaka-bay
+name: "Abaka Bay (Île-à-Vache)"
+location:
+  country_code: HT
+  latitude: 18.101
+  longitude: -73.727
+scores:
+  impact: 8.4
+  uniqueness: 8.1
+  significance: 6.7
+  experience: 8.5
+  depth: 6.8
+  categories:
+    beaches: 9.2
+    photography: 9.0
+    relaxation: 9.0

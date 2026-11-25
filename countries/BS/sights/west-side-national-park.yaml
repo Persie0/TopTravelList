@@ -1,0 +1,16 @@
+id: sight-bs-west-side-national-park
+name: "West Side National Park (Andros)"
+location:
+  country_code: BS
+  latitude: 24.62
+  longitude: -78.05
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 8.1
+  depth: 8.6
+  categories:
+    nature: 9.3
+    wildlife: 9.2
+    adventure: 8.8

@@ -1,0 +1,18 @@
+id: city-gb-london
+name: "London"
+location:
+  country_code: GB
+  latitude: 51.5074
+  longitude: -0.1278
+scores:
+  impact: 9.7
+  uniqueness: 9.5
+  significance: 9.8
+  experience: 9.6
+  depth: 9.8
+  categories:
+    architecture: 9.6
+    history: 9.8
+    culture: 9.8
+    food: 9.4
+    nightlife: 9.5

@@ -1,0 +1,16 @@
+id: sight-ir-persian-garden
+name: "The Persian Garden"
+location:
+  country_code: IR
+  latitude: 29.636
+  longitude: 52.525
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 9.1
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.2
+    history: 9.2
+    nature: 8.8

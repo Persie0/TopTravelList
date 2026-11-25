@@ -1,0 +1,15 @@
+id: sight-ie-kilmainham-gaol
+name: "Kilmainham Gaol"
+location:
+  country_code: IE
+  latitude: 53.342
+  longitude: -6.309
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 9.2
+  experience: 8.7
+  depth: 8.3
+  categories:
+    history: 9.4
+    culture: 9.0

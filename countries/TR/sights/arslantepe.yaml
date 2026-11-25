@@ -1,0 +1,14 @@
+id: sight-tr-arslantepe
+name: "Arslantepe Mound"
+location:
+  country_code: TR
+  latitude: 38.383
+  longitude: 38.365
+scores:
+  impact: null
+  uniqueness: 8.9
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    history: 9.3

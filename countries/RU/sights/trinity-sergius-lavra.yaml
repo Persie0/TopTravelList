@@ -1,0 +1,16 @@
+id: sight-ru-trinity-sergius-lavra
+name: "Trinity Sergius Lavra"
+location:
+  country_code: RU
+  latitude: 56.31
+  longitude: 38.131
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 9.2
+  experience: 8.5
+  depth: 8.4
+  categories:
+    architecture: 9.2
+    history: 9.3
+    culture: 9.2

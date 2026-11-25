@@ -1,0 +1,16 @@
+id: city-gb-derry
+name: "Derry / Londonderry"
+location:
+  country_code: GB
+  latitude: 54.997
+  longitude: -7.309
+scores:
+  impact: 8.3
+  uniqueness: 8.6
+  significance: 8.8
+  experience: 8.5
+  depth: 8.1
+  categories:
+    history: 9.1
+    culture: 8.8
+    architecture: 8.7

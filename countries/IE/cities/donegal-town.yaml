@@ -1,0 +1,15 @@
+id: city-ie-donegal-town
+name: "Donegal Town"
+location:
+  country_code: IE
+  latitude: 54.654
+  longitude: -8.11
+scores:
+  impact: 7.7
+  uniqueness: 7.9
+  significance: 8.0
+  experience: 8.2
+  depth: 7.3
+  categories:
+    history: 8.5
+    culture: 8.2

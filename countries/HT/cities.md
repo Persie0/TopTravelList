@@ -2,7 +2,7 @@
 
 # Haiti (HT) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**12 ranked** · **0 unassessed** · **12 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,22 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (12)
 
-No cities, towns & villages have been assessed for **Haiti** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Jacmel](cities/jacmel.yaml) | City / town | **84.50** | **Culture 9.1**, **Photography 9.0**, **Architecture 8.8** | 8.4 / 8.7 / 8.4 / 8.5 / 8.0 | [18.235, -72.537](https://www.google.com/maps/search/?api=1&query=18.235,-72.537) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Jacmel%2C%20Haiti) |
+| 2 | [Cap-Haïtien](cities/cap-haitien.yaml) | City / town | **83.25** | **History 9.0**, **Architecture 8.7**, **Culture 8.6** | 8.2 / 8.4 / 8.7 / 8.1 / 8.1 | [19.758, -72.204](https://www.google.com/maps/search/?api=1&query=19.758,-72.204) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cap-Ha%C3%AFtien%2C%20Haiti) |
+| 3 | [Port-au-Prince](cities/port-au-prince.yaml) | City / town | **81.60** | **History 9.1**, **Culture 9.0**, **Food 8.5** | 7.6 / 8.4 / 8.9 / 7.8 / 8.3 | [18.543, -72.338](https://www.google.com/maps/search/?api=1&query=18.543,-72.338) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Port-au-Prince%2C%20Haiti) |
+| 4 | [Jérémie](cities/jeremie.yaml) | City / town | **76.35** | **Culture 8.5**, **Architecture 8.2**, **History 8.1** | 7.4 / 8.0 / 7.8 / 7.7 / 7.0 | [18.65, -74.12](https://www.google.com/maps/search/?api=1&query=18.65,-74.12) | [Google Maps](https://www.google.com/maps/search/?api=1&query=J%C3%A9r%C3%A9mie%2C%20Haiti) |
+| 5 | [Fort-Liberté](cities/fort-liberte.yaml) | City / town | **74.75** | **History 8.5**, **Photography 8.2** | 7.2 / 7.8 / 8.0 / 7.3 / 6.7 | [19.667, -71.839](https://www.google.com/maps/search/?api=1&query=19.667,-71.839) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Fort-Libert%C3%A9%2C%20Haiti) |
+| 6 | [Les Cayes](cities/les-cayes.yaml) | City / town | **72.45** | **Culture 8.2**, **Food 8.1** | 7.0 / 7.3 / 7.4 / 7.6 / 7.0 | [18.194, -73.75](https://www.google.com/maps/search/?api=1&query=18.194,-73.75) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Les%20Cayes%2C%20Haiti) |
+| 7 | [Milot](cities/milot.yaml) | City / town | **71.45** | **History 8.3**, **Culture 8.0** | 6.9 / 7.3 / 7.8 / 7.2 / 6.1 | [19.608, -72.212](https://www.google.com/maps/search/?api=1&query=19.608,-72.212) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Milot%2C%20Haiti) |
+| 8 | [Cayes-Jacmel](cities/cayes-jacmel.yaml) | City / town | **71.05** | **Culture 8.1**, **Photography 8.1**, **Food 7.8** | 7.0 / 7.6 / 6.8 / 7.5 / 6.2 | [18.231, -72.395](https://www.google.com/maps/search/?api=1&query=18.231,-72.395) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cayes-Jacmel%2C%20Haiti) |
+| 9 | [Port-Salut](cities/port-salut.yaml) | City / town | **70.85** | **Relaxation 8.5**, **Culture 7.8**, **Food 7.8** | 7.2 / 7.3 / 6.5 / 7.8 / 6.3 | [18.086, -73.917](https://www.google.com/maps/search/?api=1&query=18.086,-73.917) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Port-Salut%2C%20Haiti) |
+| 10 | [Marigot](cities/marigot.yaml) | City / town | **69.60** | **Photography 8.0**, **Culture 7.8** | 6.9 / 7.3 / 6.8 / 7.3 / 6.1 | [18.23, -72.32](https://www.google.com/maps/search/?api=1&query=18.23,-72.32) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Marigot%2C%20Haiti) |
+| 11 | [Kenscoff](cities/kenscoff.yaml) | City / town | **69.25** | **Photography 8.2**, **Culture 7.7** | 7.0 / 7.3 / 6.5 / 7.2 / 6.2 | [18.448, -72.285](https://www.google.com/maps/search/?api=1&query=18.448,-72.285) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kenscoff%2C%20Haiti) |
+| 12 | [Port-à-Piment](cities/port-a-piment.yaml) | City / town | **67.70** | **Culture 7.8**, **Photography 7.7** | 6.6 / 7.1 / 6.8 / 7.1 / 5.9 | [18.249, -74.097](https://www.google.com/maps/search/?api=1&query=18.249,-74.097) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Port-%C3%A0-Piment%2C%20Haiti) |
 
 ---
 

@@ -1,0 +1,15 @@
+id: sight-il-bet-shearim
+name: "Necropolis of Bet She’arim"
+location:
+  country_code: IL
+  latitude: 32.702222
+  longitude: 35.126944
+scores:
+  impact: 8.5
+  uniqueness: 8.9
+  significance: 9.2
+  experience: 8.4
+  depth: 8.2
+  categories:
+    history: 9.3
+    architecture: 8.9

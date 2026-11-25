@@ -1,0 +1,15 @@
+id: sight-gb-orkney-neolithic
+name: "Heart of Neolithic Orkney"
+location:
+  country_code: GB
+  latitude: 59
+  longitude: -3.19
+scores:
+  impact: 9.0
+  uniqueness: 9.5
+  significance: 9.5
+  experience: 8.8
+  depth: 8.9
+  categories:
+    history: 9.6
+    culture: 9.2

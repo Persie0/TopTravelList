@@ -1,0 +1,16 @@
+id: city-ir-abyaneh
+name: "Abyaneh"
+location:
+  country_code: IR
+  latitude: 33.586
+  longitude: 51.591
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 8.1
+  experience: null
+  depth: null
+  categories:
+    architecture: 8.9
+    culture: 8.8
+    photography: 9.0

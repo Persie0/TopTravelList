@@ -1,0 +1,16 @@
+id: sight-ht-national-history-park
+name: "National History Park – Citadel, Sans Souci, Ramiers"
+location:
+  country_code: HT
+  latitude: 19.573025
+  longitude: -72.244
+scores:
+  impact: 9.2
+  uniqueness: 9.4
+  significance: 9.6
+  experience: 9.0
+  depth: 9.1
+  categories:
+    history: 9.6
+    architecture: 9.3
+    photography: 9.4

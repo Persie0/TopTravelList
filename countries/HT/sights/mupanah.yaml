@@ -1,0 +1,15 @@
+id: sight-ht-mupanah
+name: "Musée du Panthéon National Haïtien (MUPANAH)"
+location:
+  country_code: HT
+  latitude: 18.543
+  longitude: -72.34
+scores:
+  impact: 8.1
+  uniqueness: 8.8
+  significance: 9.2
+  experience: 8.2
+  depth: 7.8
+  categories:
+    history: 9.4
+    culture: 9.1
