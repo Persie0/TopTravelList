@@ -1,0 +1,15 @@
+id: sight-dz-el-kala-national-park
+name: "El Kala National Park"
+location:
+  country_code: DZ
+  latitude: 36.644167
+  longitude: 8.286944
+scores:
+  impact: 8.6
+  uniqueness: 8.9
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    nature: 9.2
+    wildlife: 9.1

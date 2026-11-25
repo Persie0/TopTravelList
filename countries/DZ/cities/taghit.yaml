@@ -1,0 +1,16 @@
+id: city-dz-taghit
+name: "Taghit"
+location:
+  country_code: DZ
+  latitude: 30.916
+  longitude: -2.033
+scores:
+  impact: 8.2
+  uniqueness: 8.4
+  significance: 7.8
+  experience: 8.0
+  depth: 7.1
+  categories:
+    architecture: 8.3
+    culture: 8.2
+    photography: 8.5

@@ -1,0 +1,15 @@
+id: city-dz-tamanrasset
+name: "Tamanrasset"
+location:
+  country_code: DZ
+  latitude: 22.785
+  longitude: 5.522
+scores:
+  impact: 7.6
+  uniqueness: 8.1
+  significance: 7.6
+  experience: 7.8
+  depth: 7.2
+  categories:
+    culture: 8.4
+    food: 7.5
