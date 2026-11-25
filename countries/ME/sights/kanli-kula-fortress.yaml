@@ -1,0 +1,15 @@
+id: sight-me-kanli-kula-fortress
+name: "Kanli Kula Fortress"
+location:
+  country_code: ME
+  latitude: 42.4530
+  longitude: 18.5380
+scores:
+  impact: 8.1
+  uniqueness: 8.2
+  significance: 8.4
+  experience: 8.3
+  depth: 7.5
+  categories:
+    history: 8.8
+    photography: 8.8

@@ -1,0 +1,16 @@
+id: sight-me-our-lady-of-the-rocks
+name: "Our Lady of the Rocks"
+location:
+  country_code: ME
+  latitude: 42.4864
+  longitude: 18.6886
+scores:
+  impact: 8.7
+  uniqueness: 9.0
+  significance: 8.7
+  experience: 8.7
+  depth: 7.6
+  categories:
+    architecture: 9.1
+    culture: 9
+    photography: 9.3

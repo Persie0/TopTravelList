@@ -1,0 +1,15 @@
+id: city-me-sveti-stefan-village
+name: "Sveti Stefan village"
+location:
+  country_code: ME
+  latitude: 42.2560
+  longitude: 18.8980
+scores:
+  impact: 8.1
+  uniqueness: 7.9
+  significance: 7.2
+  experience: 8.2
+  depth: 7.2
+  categories:
+    photography: 9
+    beaches: 8.6

@@ -1,0 +1,15 @@
+id: sight-me-dajbabe-monastery
+name: "Dajbabe Monastery"
+location:
+  country_code: ME
+  latitude: 42.4020
+  longitude: 19.2300
+scores:
+  impact: 7.9
+  uniqueness: 8.5
+  significance: 8.2
+  experience: 8.2
+  depth: 7.1
+  categories:
+    culture: 8.8
+    architecture: 8.6

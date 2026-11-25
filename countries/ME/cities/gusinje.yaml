@@ -1,0 +1,15 @@
+id: city-me-gusinje
+name: "Gusinje"
+location:
+  country_code: ME
+  latitude: 42.5620
+  longitude: 19.8340
+scores:
+  impact: 7.2
+  uniqueness: 7.6
+  significance: 7.5
+  experience: 7.7
+  depth: 7.0
+  categories:
+    culture: 8.2
+    food: 8

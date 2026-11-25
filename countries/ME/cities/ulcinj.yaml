@@ -1,0 +1,16 @@
+id: city-me-ulcinj
+name: "Ulcinj"
+location:
+  country_code: ME
+  latitude: 41.9297
+  longitude: 19.2244
+scores:
+  impact: 8.1
+  uniqueness: 8.3
+  significance: 8.2
+  experience: 8.5
+  depth: 8.1
+  categories:
+    culture: 8.8
+    beaches: 8.6
+    architecture: 8.6

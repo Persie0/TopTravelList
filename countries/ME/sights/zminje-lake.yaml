@@ -1,0 +1,15 @@
+id: sight-me-zminje-lake
+name: "Zminje Lake"
+location:
+  country_code: ME
+  latitude: 43.1570
+  longitude: 19.0680
+scores:
+  impact: 8.1
+  uniqueness: 8.0
+  significance: 7.4
+  experience: 8.4
+  depth: 7.6
+  categories:
+    nature: 8.8
+    relaxation: 8.7

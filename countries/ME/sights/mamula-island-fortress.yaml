@@ -1,0 +1,15 @@
+id: sight-me-mamula-island-fortress
+name: "Mamula Island Fortress"
+location:
+  country_code: ME
+  latitude: 42.3960
+  longitude: 18.5580
+scores:
+  impact: 8.3
+  uniqueness: 8.5
+  significance: 8.5
+  experience: 7.9
+  depth: 7.3
+  categories:
+    architecture: 8.9
+    history: 9

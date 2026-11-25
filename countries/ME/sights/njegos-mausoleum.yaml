@@ -1,0 +1,16 @@
+id: sight-me-njegos-mausoleum
+name: "Njegoš Mausoleum"
+location:
+  country_code: ME
+  latitude: 42.3990
+  longitude: 18.8370
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 9.0
+  experience: 8.7
+  depth: 7.9
+  categories:
+    architecture: 9.2
+    history: 9.3
+    photography: 9.4

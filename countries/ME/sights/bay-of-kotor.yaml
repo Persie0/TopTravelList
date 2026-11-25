@@ -1,0 +1,16 @@
+id: sight-me-bay-of-kotor
+name: "Bay of Kotor"
+location:
+  country_code: ME
+  latitude: 42.4830
+  longitude: 18.6900
+scores:
+  impact: 9.4
+  uniqueness: 9.4
+  significance: 9.1
+  experience: 9.3
+  depth: 9.3
+  categories:
+    nature: 9.4
+    photography: 9.6
+    architecture: 9.3

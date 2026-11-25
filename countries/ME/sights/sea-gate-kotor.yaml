@@ -1,0 +1,15 @@
+id: sight-me-sea-gate-kotor
+name: "Sea Gate Kotor"
+location:
+  country_code: ME
+  latitude: 42.4248
+  longitude: 18.7698
+scores:
+  impact: 7.8
+  uniqueness: 7.9
+  significance: 8.0
+  experience: 8.0
+  depth: 6.5
+  categories:
+    architecture: 8.5
+    history: 8.4

@@ -1,0 +1,16 @@
+id: sight-me-lovcen-national-park
+name: "Lovćen National Park"
+location:
+  country_code: ME
+  latitude: 42.4000
+  longitude: 18.8270
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 8.6
+  experience: 8.9
+  depth: 8.8
+  categories:
+    nature: 9.2
+    photography: 9.3
+    adventure: 9

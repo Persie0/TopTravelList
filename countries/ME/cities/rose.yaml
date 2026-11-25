@@ -1,0 +1,15 @@
+id: city-me-rose
+name: "Rose"
+location:
+  country_code: ME
+  latitude: 42.4280
+  longitude: 18.5580
+scores:
+  impact: 7.4
+  uniqueness: 7.6
+  significance: 7.0
+  experience: 8.0
+  depth: 6.8
+  categories:
+    relaxation: 8.5
+    photography: 8.5

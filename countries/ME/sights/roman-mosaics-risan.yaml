@@ -1,0 +1,15 @@
+id: sight-me-roman-mosaics-risan
+name: "Roman Mosaics Risan"
+location:
+  country_code: ME
+  latitude: 42.5140
+  longitude: 18.6950
+scores:
+  impact: 7.9
+  uniqueness: 8.3
+  significance: 8.6
+  experience: 8.1
+  depth: 7.2
+  categories:
+    history: 9
+    architecture: 8.6

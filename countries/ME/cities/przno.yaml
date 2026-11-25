@@ -1,0 +1,15 @@
+id: city-me-przno
+name: "Pržno"
+location:
+  country_code: ME
+  latitude: 42.2690
+  longitude: 18.8920
+scores:
+  impact: 7.5
+  uniqueness: 7.5
+  significance: 6.9
+  experience: 8.2
+  depth: 7.0
+  categories:
+    relaxation: 8.6
+    beaches: 8.3

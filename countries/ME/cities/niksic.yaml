@@ -1,0 +1,15 @@
+id: city-me-niksic
+name: "Nikšić"
+location:
+  country_code: ME
+  latitude: 42.7731
+  longitude: 18.9445
+scores:
+  impact: 6.9
+  uniqueness: 7.1
+  significance: 7.4
+  experience: 7.6
+  depth: 7.5
+  categories:
+    culture: 7.9
+    history: 7.9

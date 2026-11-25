@@ -1,0 +1,16 @@
+id: sight-me-ostrog-monastery
+name: "Ostrog Monastery"
+location:
+  country_code: ME
+  latitude: 42.6750
+  longitude: 19.0300
+scores:
+  impact: 9.2
+  uniqueness: 9.3
+  significance: 9.1
+  experience: 8.9
+  depth: 8.2
+  categories:
+    architecture: 9.4
+    culture: 9.3
+    photography: 9.4

@@ -1,0 +1,15 @@
+id: city-me-zabljak
+name: "Žabljak"
+location:
+  country_code: ME
+  latitude: 43.1551
+  longitude: 19.1226
+scores:
+  impact: 7.5
+  uniqueness: 7.6
+  significance: 7.1
+  experience: 8.1
+  depth: 7.5
+  categories:
+    relaxation: 8.4
+    adventure: 8.2

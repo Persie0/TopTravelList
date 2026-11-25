@@ -1,0 +1,15 @@
+id: sight-me-husein-pasha-mosque-pljevlja
+name: "Husein Pasha Mosque Pljevlja"
+location:
+  country_code: ME
+  latitude: 43.3560
+  longitude: 19.3560
+scores:
+  impact: 8.3
+  uniqueness: 8.5
+  significance: 8.7
+  experience: 8.3
+  depth: 7.5
+  categories:
+    architecture: 9
+    history: 9
