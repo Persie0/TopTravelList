@@ -2,7 +2,7 @@
 
 # Japan (JP) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**87 ranked** · **0 unassessed** · **87 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,97 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, or click its GPS coordinates to open **Google Maps**. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (87)
 
-No cities, towns & villages have been assessed for **Japan** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps |
+| ---: | --- | --- | ---: | --- | --- | --- |
+| 1 | [Kyoto](cities/kyoto.yaml) | City / town | **96.50** | **Architecture 9.8**, **Culture 9.8**, **History 9.8**, Photography 9.6 | 9.6 / 9.7 / 9.8 / 9.5 / 9.6 | [35.0116, 135.7681](https://www.google.com/maps/search/?api=1&query=35.0116,135.7681) |
+| 2 | [Tokyo](cities/tokyo.yaml) | City / town | **95.75** | **Food 9.8**, **Nightlife 9.7**, **Culture 9.6**, Architecture 9.4 | 9.6 / 9.6 / 9.4 / 9.5 / 9.9 | [35.6762, 139.6503](https://www.google.com/maps/search/?api=1&query=35.6762,139.6503) |
+| 3 | [Nara](cities/nara.yaml) | City / town | **91.05** | **History 9.6**, **Culture 9.4**, **Architecture 9.3** | 9.0 / 9.1 / 9.5 / 9.0 / 8.8 | [34.6851, 135.8048](https://www.google.com/maps/search/?api=1&query=34.6851,135.8048) |
+| 4 | [Nagasaki](cities/nagasaki.yaml) | City / town | **90.10** | **History 9.5**, **Architecture 9.0**, **Culture 9.0** | 8.8 / 9.1 / 9.4 / 8.9 / 8.8 | [32.7503, 129.8779](https://www.google.com/maps/search/?api=1&query=32.7503,129.8779) |
+| 5 | [Koyasan](cities/koyasan.yaml) | City / town | **90.00** | **Culture 9.5**, **History 9.3**, **Architecture 9.1** | 8.8 / 9.2 / 9.3 / 9.0 / 8.5 | [34.2127, 135.5851](https://www.google.com/maps/search/?api=1&query=34.2127,135.5851) |
+| 6 | [Hiroshima](cities/hiroshima.yaml) | City / town | **89.80** | **History 9.7**, **Culture 8.9**, **Food 8.8** | 8.8 / 9.0 / 9.5 / 8.8 / 8.7 | [34.3853, 132.4553](https://www.google.com/maps/search/?api=1&query=34.3853,132.4553) |
+| 6 | [Kamakura](cities/kamakura.yaml) | City / town | **89.80** | **History 9.3**, **Culture 9.2**, **Architecture 9.0** | 8.9 / 9.0 / 9.2 / 9.0 / 8.7 | [35.3192, 139.5467](https://www.google.com/maps/search/?api=1&query=35.3192,139.5467) |
+| 8 | [Osaka](cities/osaka.yaml) | City / town | **89.50** | **Food 9.6**, **Nightlife 9.2**, **Culture 9.0** | 8.9 / 8.9 / 8.7 / 9.3 / 9.2 | [34.6937, 135.5023](https://www.google.com/maps/search/?api=1&query=34.6937,135.5023) |
+| 9 | [Kanazawa](cities/kanazawa.yaml) | City / town | **89.25** | **Architecture 9.2**, **Culture 9.2**, **Food 8.9** | 8.9 / 8.9 / 9.0 / 9.0 / 8.8 | [36.5613, 136.6562](https://www.google.com/maps/search/?api=1&query=36.5613,136.6562) |
+| 10 | [Shirakawa-go Ogimachi](cities/shirakawa-go-ogimachi.yaml) | City / town | **87.55** | **Architecture 9.3**, **Photography 9.3**, **Culture 9.1** | 8.7 / 9.2 / 8.9 / 8.7 / 7.6 | [36.2585, 136.9064](https://www.google.com/maps/search/?api=1&query=36.2585,136.9064) |
+| 11 | [Naha](cities/naha.yaml) | City / town | **86.30** | **Culture 9.1**, **Food 8.9**, **History 8.9** | 8.4 / 8.7 / 8.9 / 8.7 / 8.5 | [26.2124, 127.6809](https://www.google.com/maps/search/?api=1&query=26.2124,127.6809) |
+| 12 | [Takayama](cities/takayama.yaml) | City / town | **86.15** | **Architecture 9.0**, **Culture 8.9**, **Food 8.6** | 8.6 / 8.7 / 8.6 / 8.8 / 8.2 | [36.1461, 137.2522](https://www.google.com/maps/search/?api=1&query=36.1461,137.2522) |
+| 13 | [Hakodate](cities/hakodate.yaml) | City / town | **85.95** | **Food 8.8**, **Architecture 8.7**, **History 8.6** | 8.5 / 8.7 / 8.5 / 8.8 / 8.5 | [41.7687, 140.7291](https://www.google.com/maps/search/?api=1&query=41.7687,140.7291) |
+| 14 | [Beppu](cities/beppu.yaml) | City / town | **85.80** | **Relaxation 9.5**, **Culture 8.6**, **Nature 8.4** | 8.5 / 9.0 / 7.9 / 9.0 / 8.5 | [33.2846, 131.4912](https://www.google.com/maps/search/?api=1&query=33.2846,131.4912) |
+| 15 | [Yokohama](cities/yokohama.yaml) | City / town | **85.45** | **Food 8.8**, **Architecture 8.7**, **Culture 8.6** | 8.4 / 8.5 / 8.5 / 8.8 / 8.8 | [35.4437, 139.638](https://www.google.com/maps/search/?api=1&query=35.4437,139.638) |
+| 16 | [Fukuoka](cities/fukuoka.yaml) | City / town | **84.95** | **Food 9.3**, **Culture 8.6**, **Nightlife 8.6** | 8.4 / 8.4 / 8.3 / 8.9 / 8.8 | [33.5902, 130.4017](https://www.google.com/maps/search/?api=1&query=33.5902,130.4017) |
+| 17 | [Matsuyama](cities/matsuyama.yaml) | City / town | **84.60** | **Relaxation 8.9**, **History 8.7**, **Culture 8.6** | 8.3 / 8.5 / 8.5 / 8.7 / 8.4 | [33.8392, 132.7657](https://www.google.com/maps/search/?api=1&query=33.8392,132.7657) |
+| 18 | [Hagi](cities/hagi.yaml) | City / town | **84.40** | **History 9.0**, **Architecture 8.8** | 8.2 / 8.6 / 8.8 / 8.4 / 8.1 | [34.4081, 131.3991](https://www.google.com/maps/search/?api=1&query=34.4081,131.3991) |
+| 18 | [Kurashiki](cities/kurashiki.yaml) | City / town | **84.40** | **Architecture 8.9**, **Photography 8.8**, **Culture 8.7** | 8.4 / 8.5 / 8.4 / 8.7 / 8.1 | [34.585, 133.7722](https://www.google.com/maps/search/?api=1&query=34.585,133.7722) |
+| 20 | [Kobe](cities/kobe.yaml) | City / town | **84.35** | **Food 9.0**, **Photography 8.6**, **Architecture 8.5** | 8.4 / 8.4 / 8.3 / 8.7 / 8.5 | [34.6901, 135.1955](https://www.google.com/maps/search/?api=1&query=34.6901,135.1955) |
+| 21 | [Kagoshima](cities/kagoshima.yaml) | City / town | **84.25** | **Nature 8.6**, **Food 8.5**, **History 8.5** | 8.3 / 8.5 / 8.4 / 8.6 / 8.4 | [31.5966, 130.5571](https://www.google.com/maps/search/?api=1&query=31.5966,130.5571) |
+| 22 | [Kusatsu Onsen](cities/kusatsu-onsen.yaml) | City / town | **84.10** | **Relaxation 9.4**, **Culture 8.7** | 8.4 / 8.7 / 7.9 / 8.9 / 8.0 | [36.6206, 138.596](https://www.google.com/maps/search/?api=1&query=36.6206,138.596) |
+| 23 | [Matsumoto](cities/matsumoto.yaml) | City / town | **84.05** | **Architecture 8.8**, **History 8.7** | 8.3 / 8.4 / 8.6 / 8.5 / 8.2 | [36.238, 137.972](https://www.google.com/maps/search/?api=1&query=36.238,137.972) |
+| 24 | [Sapporo](cities/sapporo.yaml) | City / town | **83.85** | **Food 9.1**, **Nightlife 8.7**, **Culture 8.3** | 8.4 / 8.3 / 8.0 / 8.8 / 8.7 | [43.0618, 141.3545](https://www.google.com/maps/search/?api=1&query=43.0618,141.3545) |
+| 25 | [Ise](cities/ise.yaml) | City / town | **83.45** | **Culture 9.0**, **History 8.9** | 8.0 / 8.4 / 8.9 / 8.5 / 7.9 | [34.4875, 136.7093](https://www.google.com/maps/search/?api=1&query=34.4875,136.7093) |
+| 26 | [Matsue](cities/matsue.yaml) | City / town | **83.40** | **Architecture 8.7**, **History 8.7** | 8.2 / 8.4 / 8.5 / 8.4 / 8.2 | [35.4681, 133.0484](https://www.google.com/maps/search/?api=1&query=35.4681,133.0484) |
+| 27 | [Onomichi](cities/onomichi.yaml) | City / town | **82.85** | **Photography 8.8**, **Culture 8.5** | 8.2 / 8.5 / 8.0 / 8.6 / 8.1 | [34.4089, 133.205](https://www.google.com/maps/search/?api=1&query=34.4089,133.205) |
+| 28 | [Ginzan Onsen](cities/ginzan-onsen.yaml) | City / town | **82.50** | **Photography 9.0**, **Relaxation 9.0**, **Architecture 8.8** | 8.3 / 8.8 / 7.8 / 8.6 / 7.1 | [38.5733, 140.5302](https://www.google.com/maps/search/?api=1&query=38.5733,140.5302) |
+| 29 | [Uji](cities/uji.yaml) | City / town | **82.45** | **Food 8.9**, **Culture 8.8**, **History 8.6** | 8.0 / 8.3 / 8.6 / 8.4 / 7.9 | [34.8845, 135.7998](https://www.google.com/maps/search/?api=1&query=34.8845,135.7998) |
+| 30 | [Aizu-Wakamatsu](cities/aizu-wakamatsu.yaml) | City / town | **82.35** | **History 8.8**, **Culture 8.5** | 8.0 / 8.3 / 8.6 / 8.2 / 8.1 | [37.4948, 139.9298](https://www.google.com/maps/search/?api=1&query=37.4948,139.9298) |
+| 31 | [Hakone](cities/hakone.yaml) | City / town | **82.25** | **Relaxation 9.1**, **Nature 8.8** | 8.1 / 8.3 / 7.8 / 8.8 / 8.4 | [35.2324, 139.1069](https://www.google.com/maps/search/?api=1&query=35.2324,139.1069) |
+| 32 | [Kakunodate](cities/kakunodate.yaml) | City / town | **82.20** | **Architecture 8.7**, **Photography 8.7**, **History 8.5** | 8.1 / 8.5 / 8.3 / 8.3 / 7.6 | [39.5966, 140.5627](https://www.google.com/maps/search/?api=1&query=39.5966,140.5627) |
+| 33 | [Nagoya](cities/nagoya.yaml) | City / town | **81.90** | **Food 8.8**, **Culture 8.3**, **History 8.3** | 8.0 / 8.0 / 8.3 / 8.4 / 8.7 | [35.1815, 136.9066](https://www.google.com/maps/search/?api=1&query=35.1815,136.9066) |
+| 34 | [Nikko](cities/nikko.yaml) | City / town | **81.85** | **History 8.8**, **Culture 8.5** | 8.0 / 8.2 / 8.5 / 8.3 / 7.9 | [36.7478, 139.5968](https://www.google.com/maps/search/?api=1&query=36.7478,139.5968) |
+| 35 | [Hirosaki](cities/hirosaki.yaml) | City / town | **81.55** | **Architecture 8.5**, **History 8.5** | 8.0 / 8.2 / 8.3 / 8.3 / 8.0 | [40.6031, 140.4639](https://www.google.com/maps/search/?api=1&query=40.6031,140.4639) |
+| 36 | [Kumamoto](cities/kumamoto.yaml) | City / town | **81.35** | **History 8.6**, **Architecture 8.5** | 8.0 / 8.0 / 8.4 / 8.3 / 8.1 | [32.8031, 130.7079](https://www.google.com/maps/search/?api=1&query=32.8031,130.7079) |
+| 37 | [Kawagoe](cities/kawagoe.yaml) | City / town | **81.30** | **Architecture 8.7**, **Culture 8.3** | 8.0 / 8.2 / 8.2 / 8.4 / 7.8 | [35.9251, 139.4858](https://www.google.com/maps/search/?api=1&query=35.9251,139.4858) |
+| 38 | [Nagano](cities/nagano.yaml) | City / town | **81.05** | **Culture 8.6**, **History 8.5** | 7.9 / 8.0 / 8.4 / 8.3 / 8.1 | [36.6486, 138.1948](https://www.google.com/maps/search/?api=1&query=36.6486,138.1948) |
+| 39 | [Sendai](cities/sendai.yaml) | City / town | **80.85** | **Food 8.6**, **Culture 8.3**, **History 8.3** | 8.0 / 7.9 / 8.1 / 8.4 / 8.3 | [38.2682, 140.8694](https://www.google.com/maps/search/?api=1&query=38.2682,140.8694) |
+| 40 | [Naoshima Miyanoura](cities/naoshima-miyanoura.yaml) | City / town | **80.70** | **Culture 8.9**, **Architecture 8.5** | 7.8 / 8.5 / 7.9 / 8.5 / 7.5 | [34.4574, 133.973](https://www.google.com/maps/search/?api=1&query=34.4574,133.973) |
+| 41 | [Dazaifu](cities/dazaifu.yaml) | City / town | **80.50** | **History 8.9**, **Culture 8.6** | 7.7 / 8.0 / 8.7 / 8.2 / 7.7 | [33.5128, 130.5238](https://www.google.com/maps/search/?api=1&query=33.5128,130.5238) |
+| 42 | [Arita](cities/arita.yaml) | City / town | **80.45** | **Culture 8.8**, **History 8.5** | 7.6 / 8.4 / 8.4 / 8.1 / 7.7 | [33.181, 129.8495](https://www.google.com/maps/search/?api=1&query=33.181,129.8495) |
+| 43 | [Tsuwano](cities/tsuwano.yaml) | City / town | **80.35** | **Architecture 8.5**, **Culture 8.4** | 7.9 / 8.2 / 8.1 / 8.3 / 7.5 | [34.4674, 131.7739](https://www.google.com/maps/search/?api=1&query=34.4674,131.7739) |
+| 44 | [Yufuin](cities/yufuin.yaml) | City / town | **80.10** | **Relaxation 9.1**, **Nature 8.6**, **Food 8.2** | 8.1 / 8.2 / 7.2 / 8.8 / 7.7 | [33.2657, 131.3553](https://www.google.com/maps/search/?api=1&query=33.2657,131.3553) |
+| 45 | [Takamatsu](cities/takamatsu.yaml) | City / town | **80.05** | **Food 8.5**, **Culture 8.3** | 7.9 / 7.9 / 7.9 / 8.4 / 8.2 | [34.3428, 134.0466](https://www.google.com/maps/search/?api=1&query=34.3428,134.0466) |
+| 46 | [Hikone](cities/hikone.yaml) | City / town | **80.00** | **Architecture 8.5**, **History 8.5** | 7.8 / 8.0 / 8.3 / 8.2 / 7.7 | [35.2745, 136.2596](https://www.google.com/maps/search/?api=1&query=35.2745,136.2596) |
+| 47 | [Shimoda](cities/shimoda.yaml) | City / town | **79.95** | **Beaches 8.5**, **History 8.5** | 7.8 / 8.0 / 8.2 / 8.3 / 7.7 | [34.6796, 138.9456](https://www.google.com/maps/search/?api=1&query=34.6796,138.9456) |
+| 48 | [Himeji](cities/himeji.yaml) | City / town | **79.90** | **Architecture 8.6**, **History 8.5** | 7.9 / 7.8 / 8.3 / 8.2 / 7.8 | [34.8151, 134.6853](https://www.google.com/maps/search/?api=1&query=34.8151,134.6853) |
+| 49 | [Inuyama](cities/inuyama.yaml) | City / town | **79.70** | **Architecture 8.5**, **History 8.4** | 7.8 / 8.0 / 8.2 / 8.2 / 7.6 | [35.3787, 136.9446](https://www.google.com/maps/search/?api=1&query=35.3787,136.9446) |
+| 50 | [Otaru](cities/otaru.yaml) | City / town | **79.60** | **Photography 8.5**, **Architecture 8.3**, **Food 8.2** | 7.9 / 8.0 / 7.8 / 8.4 / 7.7 | [43.1907, 140.9947](https://www.google.com/maps/search/?api=1&query=43.1907,140.9947) |
+| 51 | [Aomori](cities/aomori.yaml) | City / town | **79.30** | **Culture 8.5**, **Food 8.3** | 7.7 / 8.1 / 8.0 / 8.1 / 7.8 | [40.8222, 140.7474](https://www.google.com/maps/search/?api=1&query=40.8222,140.7474) |
+| 52 | [Kochi](cities/kochi.yaml) | City / town | **78.80** | **Food 8.5**, **History 8.2** | 7.7 / 7.8 / 8.0 / 8.2 / 7.9 | [33.5597, 133.5311](https://www.google.com/maps/search/?api=1&query=33.5597,133.5311) |
+| 52 | [Okayama](cities/okayama.yaml) | City / town | **78.80** | **History 8.2**, **Culture 8.1** | 7.8 / 7.7 / 8.0 / 8.1 / 8.0 | [34.6551, 133.9195](https://www.google.com/maps/search/?api=1&query=34.6551,133.9195) |
+| 54 | [Shimonoseki](cities/shimonoseki.yaml) | City / town | **78.40** | **Food 8.5**, **History 8.3** | 7.6 / 7.7 / 8.2 / 8.1 / 7.8 | [33.9578, 130.9414](https://www.google.com/maps/search/?api=1&query=33.9578,130.9414) |
+| 54 | [Usuki](cities/usuki.yaml) | City / town | **78.40** | **History 8.4**, **Culture 8.3** | 7.6 / 8.0 / 8.1 / 8.0 / 7.4 | [33.1268, 131.805](https://www.google.com/maps/search/?api=1&query=33.1268,131.805) |
+| 56 | [Karatsu](cities/karatsu.yaml) | City / town | **78.35** | **Culture 8.3**, **Food 8.2** | 7.7 / 7.8 / 7.9 / 8.1 / 7.8 | [33.45, 129.9681](https://www.google.com/maps/search/?api=1&query=33.45,129.9681) |
+| 56 | [Takachiho](cities/takachiho.yaml) | City / town | **78.35** | **Culture 8.7**, **Nature 8.0** | 7.5 / 8.0 / 8.3 / 8.1 / 7.1 | [32.7117, 131.3074](https://www.google.com/maps/search/?api=1&query=32.7117,131.3074) |
+| 58 | [Izumo](cities/izumo.yaml) | City / town | **78.10** | **Culture 8.7**, **History 8.4** | 7.5 / 7.8 / 8.3 / 8.0 / 7.5 | [35.367, 132.7547](https://www.google.com/maps/search/?api=1&query=35.367,132.7547) |
+| 59 | [Ishigaki](cities/ishigaki.yaml) | City / town | **78.05** | **Relaxation 8.4**, **Food 8.3** | 7.8 / 7.9 / 7.3 / 8.4 / 7.7 | [24.34, 124.1556](https://www.google.com/maps/search/?api=1&query=24.34,124.1556) |
+| 60 | [Shizuoka](cities/shizuoka.yaml) | City / town | **77.40** | **Food 8.3**, **Culture 7.9** | 7.6 / 7.6 / 7.8 / 8.0 / 8.0 | [34.9756, 138.3828](https://www.google.com/maps/search/?api=1&query=34.9756,138.3828) |
+| 61 | [Otsu](cities/otsu.yaml) | City / town | **77.15** | **History 8.2**, **Nature 7.9** | 7.5 / 7.6 / 8.0 / 7.9 / 7.8 | [35.0179, 135.8546](https://www.google.com/maps/search/?api=1&query=35.0179,135.8546) |
+| 62 | [Atami](cities/atami.yaml) | City / town | **76.95** | **Relaxation 8.8**, **Beaches 7.8** | 7.7 / 7.7 / 7.1 / 8.4 / 7.8 | [35.0963, 139.0719](https://www.google.com/maps/search/?api=1&query=35.0963,139.0719) |
+| 63 | [Karuizawa](cities/karuizawa.yaml) | City / town | **76.90** | **Relaxation 8.8**, **Nature 8.2** | 7.7 / 7.6 / 7.2 / 8.4 / 7.8 | [36.3483, 138.5969](https://www.google.com/maps/search/?api=1&query=36.3483,138.5969) |
+| 64 | [Kawaguchiko](cities/kawaguchiko.yaml) | City / town | **76.80** | **Photography 8.6**, **Nature 8.5** | 7.8 / 7.7 / 7.0 / 8.3 / 7.7 | [35.5036, 138.755](https://www.google.com/maps/search/?api=1&query=35.5036,138.755) |
+| 65 | [Morioka](cities/morioka.yaml) | City / town | **76.70** | **Food 8.5**, **Culture 7.9** | 7.6 / 7.5 / 7.6 / 8.1 / 7.8 | [39.7036, 141.1527](https://www.google.com/maps/search/?api=1&query=39.7036,141.1527) |
+| 66 | [Niigata](cities/niigata.yaml) | City / town | **76.60** | **Food 8.6**, **Culture 7.8** | 7.5 / 7.5 / 7.6 / 8.1 / 8.0 | [37.9161, 139.0364](https://www.google.com/maps/search/?api=1&query=37.9161,139.0364) |
+| 67 | [Miyazaki](cities/miyazaki.yaml) | City / town | **76.35** | **Beaches 8.1**, **Food 8.0** | 7.5 / 7.5 / 7.6 / 8.0 / 7.9 | [31.9077, 131.4202](https://www.google.com/maps/search/?api=1&query=31.9077,131.4202) |
+| 67 | [Niseko](cities/niseko.yaml) | City / town | **76.35** | **Adventure 9.0**, **Relaxation 8.5** | 7.7 / 7.8 / 6.6 / 8.5 / 7.8 | [42.8048, 140.6874](https://www.google.com/maps/search/?api=1&query=42.8048,140.6874) |
+| 69 | [Gifu](cities/gifu.yaml) | City / town | **76.15** | **Culture 8.0**, **History 7.9** | 7.4 / 7.6 / 7.7 / 7.9 / 7.7 | [35.4233, 136.7607](https://www.google.com/maps/search/?api=1&query=35.4233,136.7607) |
+| 70 | [Tokushima](cities/tokushima.yaml) | City / town | **76.00** | **Culture 8.5**, **Food 7.9** | 7.3 / 7.7 / 7.7 / 7.9 / 7.6 | [34.0703, 134.5548](https://www.google.com/maps/search/?api=1&query=34.0703,134.5548) |
+| 71 | [Sasebo](cities/sasebo.yaml) | City / town | **75.95** | **Food 8.0**, **Nature 7.9** | 7.4 / 7.5 / 7.6 / 8.0 / 7.8 | [33.1799, 129.7151](https://www.google.com/maps/search/?api=1&query=33.1799,129.7151) |
+| 72 | [Chichibu](cities/chichibu.yaml) | City / town | **75.90** | **Culture 8.2**, **Nature 7.9** | 7.3 / 7.6 / 7.7 / 8.0 / 7.6 | [35.9918, 139.0855](https://www.google.com/maps/search/?api=1&query=35.9918,139.0855) |
+| 73 | [Furano](cities/furano.yaml) | City / town | **75.70** | **Nature 8.3**, **Relaxation 8.2** | 7.6 / 7.7 / 6.8 / 8.3 / 7.6 | [43.342, 142.3832](https://www.google.com/maps/search/?api=1&query=43.342,142.3832) |
+| 74 | [Wakayama](cities/wakayama.yaml) | City / town | **75.50** | **Food 8.0**, **History 7.9** | 7.4 / 7.4 / 7.7 / 7.8 / 7.7 | [34.2305, 135.1708](https://www.google.com/maps/search/?api=1&query=34.2305,135.1708) |
+| 75 | [Miyakojima](cities/miyakojima.yaml) | City / town | **75.45** | **Relaxation 8.5**, **Beaches 8.4** | 7.5 / 7.7 / 7.0 / 8.2 / 7.4 | [24.8055, 125.2811](https://www.google.com/maps/search/?api=1&query=24.8055,125.2811) |
+| 76 | [Ito](cities/ito.yaml) | City / town | **75.40** | **Relaxation 8.7**, **Food 8.1** | 7.5 / 7.6 / 7.0 / 8.2 / 7.6 | [34.9657, 139.1019](https://www.google.com/maps/search/?api=1&query=34.9657,139.1019) |
+| 77 | [Toyama](cities/toyama.yaml) | City / town | **74.95** | **Food 8.2**, **Culture 7.6** | 7.4 / 7.4 / 7.3 / 7.9 / 7.8 | [36.6953, 137.2113](https://www.google.com/maps/search/?api=1&query=36.6953,137.2113) |
+| 78 | [Yamagata](cities/yamagata.yaml) | City / town | **74.70** | **Food 8.0**, **Culture 7.8** | 7.3 / 7.4 / 7.5 / 7.8 / 7.6 | [38.2554, 140.3396](https://www.google.com/maps/search/?api=1&query=38.2554,140.3396) |
+| 79 | [Abashiri](cities/abashiri.yaml) | City / town | **74.35** | **History 7.9**, **Nature 7.6** | 7.1 / 7.7 / 7.6 / 7.6 / 7.2 | [44.0206, 144.2735](https://www.google.com/maps/search/?api=1&query=44.0206,144.2735) |
+| 80 | [Akita](cities/akita.yaml) | City / town | **74.10** | **Culture 8.0**, **Food 7.9** | 7.2 / 7.4 / 7.4 / 7.8 / 7.5 | [39.72, 140.1026](https://www.google.com/maps/search/?api=1&query=39.72,140.1026) |
+| 81 | [Kirishima](cities/kirishima.yaml) | City / town | **73.45** | **Relaxation 8.1**, **Nature 8.0** | 7.1 / 7.3 / 7.4 / 7.8 / 7.4 | [31.7411, 130.763](https://www.google.com/maps/search/?api=1&query=31.7411,130.763) |
+| 82 | [Biei](cities/biei.yaml) | City / town | **72.95** | **Photography 8.4**, **Nature 8.2** | 7.3 / 7.6 / 6.6 / 7.9 / 7.0 | [43.5903, 142.4634](https://www.google.com/maps/search/?api=1&query=43.5903,142.4634) |
+| 83 | [Kushiro](cities/kushiro.yaml) | City / town | **72.55** | **Food 8.0**, **Culture 7.5** | 7.1 / 7.2 / 7.1 / 7.7 / 7.5 | [42.9849, 144.3814](https://www.google.com/maps/search/?api=1&query=42.9849,144.3814) |
+| 84 | [Tottori](cities/tottori.yaml) | City / town | **72.45** | **Food 7.7**, **Culture 7.4** | 7.1 / 7.2 / 7.1 / 7.7 / 7.4 | [35.5011, 134.2351](https://www.google.com/maps/search/?api=1&query=35.5011,134.2351) |
+| 85 | [Naruto](cities/naruto.yaml) | City / town | **72.25** | **Nature 7.7**, **Food 7.6** | 7.1 / 7.2 / 7.1 / 7.7 / 7.2 | [34.1725, 134.6088](https://www.google.com/maps/search/?api=1&query=34.1725,134.6088) |
+| 86 | [Fukushima](cities/fukushima.yaml) | City / town | **72.05** | **Food 7.8**, **Culture 7.4** | 7.0 / 7.1 / 7.2 / 7.6 / 7.5 | [37.7608, 140.4747](https://www.google.com/maps/search/?api=1&query=37.7608,140.4747) |
+| 87 | [Asahikawa](cities/asahikawa.yaml) | City / town | **71.95** | **Food 8.0**, **Family 7.8** | 7.1 / 7.0 / 7.0 / 7.7 / 7.6 | [43.7706, 142.365](https://www.google.com/maps/search/?api=1&query=43.7706,142.365) |
 
 ---
 
