@@ -2,6 +2,9 @@
 
 Initial worldwide V2 inventory, 2026-11-25. UNESCO inventory, embassy tourism list and selected geographic/visitor references inspected; not fully independently fact-checked. GPS representative, provisional where no exact site source. [FCDO advises against all travel](https://www.gov.uk/foreign-travel-advice/burkina-faso). Scores describe historically documented ordinary experiences, not present access. Current peer YAML spot-checked for Kashgar, Ayutthaya, Hallstatt, Poipet, Hahoe, Carnuntum, Wat Arun, Okavango, Suncheon and Krimml. Other peer scores require verification.
 
+
+Follow-up 2026-11-25: [UNESCO country register](https://whc.unesco.org/en/statesparties/bf/) confirms four inscribed and seven tentative properties. [January 2026 rock-art nomination](https://whc.unesco.org/en/tentativelists/6937/) identifies five component groups; four added with published reference points. Kawara latitude has malformed minutes (76), so no coordinate fabricated. [2026 WAP conservation decision](https://whc.unesco.org/en/decisions/9144) and [boundary modification](https://whc.unesco.org/en/decisions/?id_decision=9189) recorded. Kaboré Tambi and Deux Balé plus Oursi added. Broader wetland designations and additional reserve inventory remain incomplete.
+
 ## sight-bf-royal-court-tiebele — Royal Court of Tiébélé — 2026-11-25
 
 - YAML: [source](../../../countries/BF/sights/royal-court-tiebele.yaml)
@@ -352,6 +355,7 @@ Initial worldwide V2 inventory, 2026-11-25. UNESCO inventory, embassy tourism li
 - Approved 10 registry: none.
 - Final decision: Partial assessment retained; no overall score.
 - Verification still needed: current visitor arrangements, precise location where provisional, claim-level sources and remaining peer scores.
+- Follow-up: [AIB April 2025 report](https://www.aib.media/?p=114330) documents a local heritage-month visit; [May 2026 report](https://faso-actu.info/relance-du-secteur-de-la-faune-le-gouvernement-engage-pour-la-renaissance-du-ranch-de-nazinga/) describes planned rehabilitation. Existing wildlife category retained provisionally for historically documented ranch scope; routine visitor route and depth remain unconfirmed, so no overall score.
 
 ## sight-bf-arly-national-park — Arly National Park (Burkina Faso WAP sector) — 2026-11-25
 
@@ -377,12 +381,13 @@ Initial worldwide V2 inventory, 2026-11-25. UNESCO inventory, embassy tourism li
 - Significance: 9.3 — Inscribed transboundary conservation landscape.
 - Experience: null — Permitted visits unconfirmed.
 - Depth: null — Visitor-accessible habitat range unconfirmed.
-- Applicable categories: wildlife 9.3, nature 9.1.
+- Applicable categories: wildlife null, nature 9.1.
 - Overall: unranked.
 - High-score challenge: Not applicable.
 - Approved 10 registry: none.
 - Final decision: Partial assessment retained; no overall score.
 - Verification still needed: current visitor arrangements, precise location where provisional, claim-level sources and remaining peer scores.
+- Follow-up: wildlife 9.3 → null pending documented ordinary permitted observation; conservation importance retained. [2026 WAP decision](https://whc.unesco.org/en/decisions/9144) documents ongoing security and conservation challenges; [2026 boundary decision](https://whc.unesco.org/en/decisions/?id_decision=9189) requires scope checks.
 
 ## sight-bf-w-national-park-burkina-faso — W National Park (Burkina Faso sector) — 2026-11-25
 
@@ -408,12 +413,13 @@ Initial worldwide V2 inventory, 2026-11-25. UNESCO inventory, embassy tourism li
 - Significance: 9.2 — International conservation complex.
 - Experience: null — Normal permitted access unclear.
 - Depth: null — Sector-specific activities unverified.
-- Applicable categories: nature 9.1, wildlife 9.2.
+- Applicable categories: nature 9.1, wildlife null.
 - Overall: unranked.
 - High-score challenge: Not applicable.
 - Approved 10 registry: none.
 - Final decision: Partial assessment retained; no overall score.
 - Verification still needed: current visitor arrangements, precise location where provisional, claim-level sources and remaining peer scores.
+- Follow-up: wildlife 9.2 → null pending documented ordinary permitted observation; conservation importance retained. [2026 WAP decision](https://whc.unesco.org/en/decisions/9144) documents ongoing security and conservation challenges; [2026 boundary decision](https://whc.unesco.org/en/decisions/?id_decision=9189) requires scope checks.
 
 ## sight-bf-bala-hippopotamus-reserve — Bala Hippopotamus Forest Reserve — 2026-11-25
 
@@ -439,12 +445,13 @@ Initial worldwide V2 inventory, 2026-11-25. UNESCO inventory, embassy tourism li
 - Significance: 8.9 — International wetland recognition.
 - Experience: null — Visitor operation unconfirmed.
 - Depth: null — Accessible habitat extent unknown.
-- Applicable categories: nature 8.9, wildlife 9.0.
+- Applicable categories: nature 8.9, wildlife null.
 - Overall: unranked.
 - High-score challenge: Not applicable.
 - Approved 10 registry: none.
 - Final decision: Partial assessment retained; no overall score.
 - Verification still needed: current visitor arrangements, precise location where provisional, claim-level sources and remaining peer scores.
+- Follow-up: wildlife 9.0 → null pending documented ordinary permitted observation; conservation importance retained. Tentative nomination establishes wetland significance, not visitor access.
 
 ## sight-bf-bourzanga-necropolises — Bourzanga Necropolises — 2026-11-25
 
@@ -873,7 +880,224 @@ Initial worldwide V2 inventory, 2026-11-25. UNESCO inventory, embassy tourism li
 - Final decision: Partial assessment retained; no overall score.
 - Verification still needed: current visitor arrangements, precise location where provisional, claim-level sources and remaining peer scores.
 
+## sight-bf-sahel-rock-engravings — Sahel Rock Engravings (tentative component group) — 2026-11-25
+
+- YAML: [source](../../../countries/BF/sights/sahel-rock-engravings.yaml)
+- Action: new
+- Precise subject: Dispersed northern engraving group including Pobé-Mengao, Arbinda and Markoye; individual panel locations and permissions not established.
+- Location check: 13.87864, -1.7481; First published reference point in dispersed Sahel component group, not the entire group's centroid.
+- Evidence status: **unassessed**
+- Sources consulted (2026-11-25; identity and designation, not full claim verification):
+  - https://whc.unesco.org/en/tentativelists/6937/
+- Missing facts: Ordinary permitted visitor experience and exact scope unestablished.
+
+### Worldwide peer comparisons
+- Mogao Caves (China): Major preserved art and interpretation benchmark.
+- Hahoe Folk Village (South Korea): Different material heritage with documented visitor experience.
+- Carnuntum (Austria): Archaeological heritage and interpretation.
+- Wat Arun (Thailand): Bounded heritage monument, different artistic tradition.
+
+### Scoring decisions
+- Impact: null — Ordinary permitted visitor impact unknown.
+- Uniqueness: 8.7 — Distinctive regional rock-art tradition; provisional.
+- Significance: 8.9 — Documented archaeological heritage and regional importance.
+- Experience: null — Permitted visitor scope unestablished.
+- Depth: null — Accessible itinerary unverified.
+- Applicable categories: history 9.
+- Overall: unranked.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Partial inventory assessment only.
+- Verification still needed: Precise boundary or component scope, current condition, permitted access and closer peer calibration.
+
+
+## sight-bf-wempea-rock-engravings — Wempéa Rock Engravings — 2026-11-25
+
+- YAML: [source](../../../countries/BF/sights/wempea-rock-engravings.yaml)
+- Action: new
+- Precise subject: Western engraving component with multiple reference points and regional geometric motifs.
+- Location check: 10.848611, -4.573056; First published DMS reference converted; multiple panels, not entrance.
+- Evidence status: **unassessed**
+- Sources consulted (2026-11-25; identity and designation, not full claim verification):
+  - https://whc.unesco.org/en/tentativelists/6937/
+- Missing facts: Ordinary permitted visitor experience and exact scope unestablished.
+
+### Worldwide peer comparisons
+- Mogao Caves (China): Major preserved art and interpretation benchmark.
+- Hahoe Folk Village (South Korea): Different material heritage with documented visitor experience.
+- Carnuntum (Austria): Archaeological heritage and interpretation.
+- Wat Arun (Thailand): Bounded heritage monument, different artistic tradition.
+
+### Scoring decisions
+- Impact: null — Ordinary permitted visitor impact unknown.
+- Uniqueness: 8.5 — Distinctive regional rock-art tradition; provisional.
+- Significance: 8.7 — Documented archaeological heritage and regional importance.
+- Experience: null — Permitted visitor scope unestablished.
+- Depth: null — Accessible itinerary unverified.
+- Applicable categories: history 8.8.
+- Overall: unranked.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Partial inventory assessment only.
+- Verification still needed: Precise boundary or component scope, current condition, permitted access and closer peer calibration.
+
+
+## sight-bf-dramandougou-rock-engravings — Dramandougou Rock Engravings — 2026-11-25
+
+- YAML: [source](../../../countries/BF/sights/dramandougou-rock-engravings.yaml)
+- Action: new
+- Precise subject: Individual western engraving component of tentative nomination.
+- Location check: 10.846889, -4.559306; Published DMS reference converted, not entrance.
+- Evidence status: **unassessed**
+- Sources consulted (2026-11-25; identity and designation, not full claim verification):
+  - https://whc.unesco.org/en/tentativelists/6937/
+- Missing facts: Ordinary permitted visitor experience and exact scope unestablished.
+
+### Worldwide peer comparisons
+- Mogao Caves (China): Major preserved art and interpretation benchmark.
+- Hahoe Folk Village (South Korea): Different material heritage with documented visitor experience.
+- Carnuntum (Austria): Archaeological heritage and interpretation.
+- Wat Arun (Thailand): Bounded heritage monument, different artistic tradition.
+
+### Scoring decisions
+- Impact: null — Ordinary permitted visitor impact unknown.
+- Uniqueness: 8.3 — Distinctive regional rock-art tradition; provisional.
+- Significance: 8.6 — Documented archaeological heritage and regional importance.
+- Experience: null — Permitted visitor scope unestablished.
+- Depth: null — Accessible itinerary unverified.
+- Applicable categories: history 8.7.
+- Overall: unranked.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Partial inventory assessment only.
+- Verification still needed: Precise boundary or component scope, current condition, permitted access and closer peer calibration.
+
+
+## sight-bf-negueni-rock-art — Neguéni Rock Art — 2026-11-25
+
+- YAML: [source](../../../countries/BF/sights/negueni-rock-art.yaml)
+- Action: new
+- Precise subject: Individual western rock-art component, panel extent and access unverified.
+- Location check: 10.652222, -5.415833; Published DMS reference converted, not entrance.
+- Evidence status: **unassessed**
+- Sources consulted (2026-11-25; identity and designation, not full claim verification):
+  - https://whc.unesco.org/en/tentativelists/6937/
+- Missing facts: Ordinary permitted visitor experience and exact scope unestablished.
+
+### Worldwide peer comparisons
+- Mogao Caves (China): Major preserved art and interpretation benchmark.
+- Hahoe Folk Village (South Korea): Different material heritage with documented visitor experience.
+- Carnuntum (Austria): Archaeological heritage and interpretation.
+- Wat Arun (Thailand): Bounded heritage monument, different artistic tradition.
+
+### Scoring decisions
+- Impact: null — Ordinary permitted visitor impact unknown.
+- Uniqueness: 8.4 — Distinctive regional rock-art tradition; provisional.
+- Significance: 8.6 — Documented archaeological heritage and regional importance.
+- Experience: null — Permitted visitor scope unestablished.
+- Depth: null — Accessible itinerary unverified.
+- Applicable categories: history 8.7.
+- Overall: unranked.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Partial inventory assessment only.
+- Verification still needed: Precise boundary or component scope, current condition, permitted access and closer peer calibration.
+
+
+## sight-bf-kabore-tambi-national-park — Kaboré Tambi National Park — 2026-11-25
+
+- YAML: [source](../../../countries/BF/sights/kabore-tambi-national-park.yaml)
+- Action: new
+- Precise subject: National park following the Nazinon, distinct from broader Pô-Nazinga-Sissili wetland designation.
+- Location check: 11.5204, -1.2926; Mapped reserve reference https://mapcarta.com/W307421065, not an entrance or official boundary centroid.
+- Evidence status: **unassessed**
+- Sources consulted (2026-11-25; identity and designation, not full claim verification):
+  - https://www.protectedplanet.net/1049
+- Missing facts: Ordinary permitted visitor experience and exact scope unestablished.
+
+### Worldwide peer comparisons
+- Okavango Delta (Botswana): Larger established wildlife visitor landscape.
+- Suncheon Bay (South Korea): Managed wetland interpretation.
+- Khao Yai (Thailand): Established protected area visitor circuit.
+- Sehlabathebe (Lesotho): Regional conservation reference, different habitat.
+
+### Scoring decisions
+- Impact: null — Ordinary permitted visitor impact unknown.
+- Uniqueness: 8.4 — Distinctive regional protected habitat and landscape; provisional.
+- Significance: 8.9 — Documented conservation designation and regional importance.
+- Experience: null — Permitted visitor scope unestablished.
+- Depth: null — Accessible itinerary unverified.
+- Applicable categories: nature 8.9, wildlife null.
+- Overall: unranked.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Partial inventory assessment only.
+- Verification still needed: Precise boundary or component scope, current condition, permitted access and closer peer calibration.
+
+
+## sight-bf-deux-bale-classified-forest — Deux Balé Classified Forest (National Park) — 2026-11-25
+
+- YAML: [source](../../../countries/BF/sights/deux-bale-classified-forest.yaml)
+- Action: new
+- Precise subject: Classified forest called a national park in some literature; current legal nomenclature follows government management inventory.
+- Location check: 11.66667, -3; GeoNames forest reference https://mapcarta.com/fr/17068528, not entrance.
+- Evidence status: **unassessed**
+- Sources consulted (2026-11-25; identity and designation, not full claim verification):
+  - https://www.environnement.gov.bf/fileadmin/user_upload/storages/fichier/note-technique-ofinap2_17022024.pdf
+- Missing facts: Ordinary permitted visitor experience and exact scope unestablished.
+
+### Worldwide peer comparisons
+- Okavango Delta (Botswana): Larger established wildlife visitor landscape.
+- Suncheon Bay (South Korea): Managed wetland interpretation.
+- Khao Yai (Thailand): Established protected area visitor circuit.
+- Sehlabathebe (Lesotho): Regional conservation reference, different habitat.
+
+### Scoring decisions
+- Impact: null — Ordinary permitted visitor impact unknown.
+- Uniqueness: 8.3 — Distinctive regional protected habitat and landscape; provisional.
+- Significance: 8.7 — Documented conservation designation and regional importance.
+- Experience: null — Permitted visitor scope unestablished.
+- Depth: null — Accessible itinerary unverified.
+- Applicable categories: nature 8.8, wildlife null.
+- Overall: unranked.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Partial inventory assessment only.
+- Verification still needed: Precise boundary or component scope, current condition, permitted access and closer peer calibration.
+
+
+## sight-bf-mare-d-oursi — Mare d’Oursi Wetland — 2026-11-25
+
+- YAML: [source](../../../countries/BF/sights/mare-d-oursi.yaml)
+- Action: new
+- Precise subject: Sahelian wetland and ornithological sanctuary, distinct Ramsar designation.
+- Location check: 14.648056, 0.4575; Updated Ramsar reference N14°38′53″ E00°27′27″, not entrance; older information sheet had a different longitude.
+- Evidence status: **unassessed**
+- Sources consulted (2026-11-25; identity and designation, not full claim verification):
+  - https://rsis.ramsar.org/ris/490
+  - https://rsis.ramsar.org/RISapp/files/RISrep/BF490RIS_1704_fr.pdf
+- Missing facts: Ordinary permitted visitor experience and exact scope unestablished.
+
+### Worldwide peer comparisons
+- Okavango Delta (Botswana): Larger established wildlife visitor landscape.
+- Suncheon Bay (South Korea): Managed wetland interpretation.
+- Khao Yai (Thailand): Established protected area visitor circuit.
+- Sehlabathebe (Lesotho): Regional conservation reference, different habitat.
+
+### Scoring decisions
+- Impact: null — Ordinary permitted visitor impact unknown.
+- Uniqueness: 8.5 — Distinctive regional protected habitat and landscape; provisional.
+- Significance: 8.9 — Documented conservation designation and regional importance.
+- Experience: null — Permitted visitor scope unestablished.
+- Depth: null — Accessible itinerary unverified.
+- Applicable categories: nature 8.9, wildlife null.
+- Overall: unranked.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Partial inventory assessment only.
+- Verification still needed: Precise boundary or component scope, current condition, permitted access and closer peer calibration.
+
+
 ## Inventory coverage
 
-All four inscribed and seven tentative UNESCO properties represented (country inventory: https://whc.unesco.org/en/statesparties/bf). All five metallurgy components and all five tentative Sudanese-style mosques have individual records. WAP is represented by separate Burkina Faso Arly and W sectors; other national buffer areas not individually assessed. Rock-art serial nomination is represented by an unranked umbrella; individual panels and sites remain outstanding. Other local attractions in embassy inventory remain research backlog.
-
+4/4 inscribed and 7/7 tentative UNESCO properties represented; all five metallurgy and five mosque components. Four of five rock-art component groups separately represented; Kawara coordinates malformed, individual Sahel localities and panels remain backlog. Kaboré Tambi and Deux Balé added, with legal terminology caveat. Five Ramsar designations represented at broad scope (W, Arly, Bala, Tengréla, Oursi); other designations and precise boundaries require review. Pô-Nazinga-Sissili is not equivalent to Nazinga alone. See https://www.ramsar.org/country-profile/burkina-faso. Independent claim-level verification remains incomplete.
