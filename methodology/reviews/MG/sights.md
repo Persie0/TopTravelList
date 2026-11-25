@@ -326,17 +326,25 @@
 ## sight-mg-zahamena — Zahamena National Park and Strict Reserve — 2026-11-25
 
 - YAML: [source](../../../countries/MG/sights/zahamena.yaml)
-- Action: new
-- Precise subject: Inscribed combined component; strict reserve not presumed accessible.
+- Action: rescore
+- Precise subject: Publicly documented guided national park circuits only; no visitor credit for strict reserve areas.
 - Location check: -17.629167, 48.725; representative point, exact entrance not verified.
-- Evidence status: **unassessed**
+- Evidence status: **source-linked-unverified**
 - Sources (2026-11-25; identity, geography, heritage and/or visitor scope; claim-level verification incomplete):
   - https://whc.unesco.org/en/list/1257/
   - https://whc.unesco.org/en/list/1257/maps/
   - https://parcs-madagascar.com/en/parc/zahamena-2/
-- Missing facts: Ordinary permitted visitor scope or accessible features insufficiently documented.
+- Missing facts: current access, exact park entrance and full independent factual corroboration.
+
+- 2026-11-26 evidence follow-up: Madagascar National Parks https://parcs-madagascar.com/en/parc/zahamena-2/ (opened, visitor facilities and circuits) establishes guided visits. Current conditions not verified.
+- Earlier decision: [prior incomplete assessment](history-review-2026-11-26.md).
 
 ### Worldwide peer comparisons
+- [jozani-chwaka-bay (TZ)](../../../countries/TZ/sights/jozani-chwaka-bay.yaml): 8.5/8.9/9.2/8.7/8.1; comparable coastal endemic forest; compact visitor circuit.
+- [arabuko-sokoke (KE)](../../../countries/KE/sights/arabuko-sokoke.yaml): 8.5/9.1/9.3/8.7/8.8; larger coastal forest with specialist birding.
+- [semuliki-national-park (UG)](../../../countries/UG/sights/semuliki-national-park.yaml): 8.5/8.9/9.0/8.5/8.5; comparable tropical forest with different endemic fauna.
+- [khao-yai-national-park (TH)](../../../countries/TH/sights/khao-yai-national-park.yaml): 9.0/9.1/9.0/9.0/9.2; greater landscape and visitor breadth.
+
 - [Okavango Delta (BW)](../../../countries/BW/sights/okavango-delta.yaml): 9.8/9.9/9.8/9.5/9.8; global habitat and visitor breadth ceiling.
 - [Khao Yai (TH)](../../../countries/TH/sights/khao-yai-national-park.yaml): 9.0/9.1/9.0/9.0/9.2; established forest visitor routes.
 - [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml): 8.9/9.0/9.0/9.1/8.6; managed observation.
@@ -346,13 +354,13 @@
 - Impact: 8.7 — Extensive rainforest.
 - Uniqueness: 9.2 — Distinct endemic forest ecology.
 - Significance: 9.4 — Important threatened biodiversity and watersheds.
-- Experience: null — Ordinary permitted circuit unclear.
-- Depth: null — Accessible forest extent unknown.
+- Experience: 8.6 — Official park operator lists guided Bemoara, Cascade and Ambarihely circuits, camping and visitor reception.
+- Depth: 8.7 — Multiple documented forest and waterfall routes, narrower than major multi-day parks; strict reserve excluded.
 - Applicable categories: nature 9.5, wildlife 9.3.
-- Overall: unranked.
-- High-score challenge: Nature 9.5 reflects high endemic forest diversity and watershed value, not access.
+- Overall: 89.50/100.
+- High-score challenge: Nature 9.5 retained for documented exceptional endemic forest biodiversity, not visitor access to strict reserve.
 - Approved 10 registry: none.
-- Final decision: Partial assessment retained; no overall total.
+- Final decision: Provisional worldwide V2 rating, bounded to ordinary guided park visitor circuits.
 - Verification still needed: precise points where provisional, access, site-specific peer calibration and independent evidence.
 
 ## sight-mg-ranomafana — Ranomafana National Park — 2026-11-25
@@ -826,5 +834,98 @@
 
 ## Inventory coverage and backlog
 
-[UNESCO inventory](https://whc.unesco.org/en/statesparties/mg/) lists three inscribed and seven tentative properties. All represented at property or named-area level; six dry-forest areas and six rainforest parks individually assessed, no umbrella duplicates. The Atsinanana property has thirteen official parcels; Masoala and Ranomafana parcels grouped by park because separate visitor scopes unverified. Three NOSYnakà components (Lokobe, Nosy Tanikely, Ambodivahibe) remain outstanding as records until representative coordinates and individual reviews confirmed. Additional Analamazaotra, Nosy Be, Île Sainte-Marie, Montagne d’Ambre, Anja, Kirindy and further towns remain backlog. Not an exhaustive inventory.
+[UNESCO inventory](https://whc.unesco.org/en/statesparties/mg/) lists three inscribed and seven tentative properties. All represented at property or named-area level; six dry-forest areas and six rainforest parks individually assessed, no umbrella duplicates. The Atsinanana property has thirteen official parcels; Masoala and Ranomafana parcels grouped by park because separate visitor scopes unverified. All seven NOSYnakà components now represented; Lokobe and Nosy Tanikely provisionally ranked, Ambodivahibe partially assessed because visitor scope is unverified. Zahamena visitor circuits now documented and provisionally rated, excluding strict reserve access. Additional Analamazaotra, Nosy Be, Île Sainte-Marie, Montagne d’Ambre, Anja, Kirindy and further towns remain backlog. Not an exhaustive inventory.
 
+
+
+## sight-mg-lokobe — Lokobe National Park — 2026-11-26
+
+- YAML: [source](../../../countries/MG/sights/lokobe.yaml)
+- Action: new
+- Precise subject: Named park, including its published forest and coastal circuits; excludes the rest of Nosy Be.
+- Location check: -13.39917, 48.31833; approximate representative point, not entrance.
+- Evidence status: source-linked-unverified
+- Sources (2026-11-26): UNESCO https://whc.unesco.org/en/tentativelists/6306/ identifies the component; Madagascar National Parks https://parcs-madagascar.com/en/parc/lokobe-2/ (opened) documents endemic fauna, named forest hikes and canoe circuit. https://mapcarta.com/14471682 (opened) provides representative park point; https://mg.geoview.info/lokobe%2C89633793w (indexed excerpt) corroborates vicinity.
+- Missing facts: full independent claim verification, precise points and current visitor conditions.
+
+### Worldwide peer comparisons
+- [jozani-chwaka-bay (TZ)](../../../countries/TZ/sights/jozani-chwaka-bay.yaml): 8.5/8.9/9.2/8.7/8.1; comparable coastal endemic forest; compact visitor circuit.
+- [arabuko-sokoke (KE)](../../../countries/KE/sights/arabuko-sokoke.yaml): 8.5/9.1/9.3/8.7/8.8; larger coastal forest with specialist birding.
+- [semuliki-national-park (UG)](../../../countries/UG/sights/semuliki-national-park.yaml): 8.5/8.9/9.0/8.5/8.5; comparable tropical forest with different endemic fauna.
+- [khao-yai-national-park (TH)](../../../countries/TH/sights/khao-yai-national-park.yaml): 9.0/9.1/9.0/9.0/9.2; greater landscape and visitor breadth.
+
+### Scoring decisions
+- Impact: 8.6 — Distinctive tropical forest and coastal setting.
+- Uniqueness: 9.1 — Localized endemic fauna and forest-coast combination.
+- Significance: 9.2 — Important protected island forest and marine habitat.
+- Experience: 8.8 — Documented guided trails and canoe circuit; no guaranteed sightings.
+- Depth: 8.6 — Several forest trails and coastal route, compact protected area.
+- Applicable categories: nature 9.3, wildlife 9.3, adventure 8.6.
+- Overall: 88.75/100.
+- High-score challenge: no 9.5+ or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide V2 editorial rating.
+- Earlier decision: none.
+- Verification still needed: current access, location corroboration and full independent claim verification.
+
+
+## sight-mg-nosy-tanikely — Nosy Tanikely National Park — 2026-11-26
+
+- YAML: [source](../../../countries/MG/sights/nosy-tanikely.yaml)
+- Action: new
+- Precise subject: Small island and its protected reef visitor circuit; excludes nearby Nosy Be resorts and other marine parks.
+- Location check: -13.4824, 48.2367; approximate representative point, not entrance.
+- Evidence status: source-linked-unverified
+- Sources (2026-11-26): UNESCO https://whc.unesco.org/en/tentativelists/6306/ identifies component; Madagascar National Parks https://parcs-madagascar.com/en/parc/nosy-tanihely-2/ (opened) documents marine and terrestrial habitat, snorkeling and diving; bleaching and illegal fishing noted. https://mapcarta.com/Nosy_Tanikely (opened) gives island point. No current species counts or unverified conservation-status claims.
+- Missing facts: full independent claim verification, precise points and current visitor conditions.
+
+### Worldwide peer comparisons
+- [sipadan-island-reefs (MY)](../../../countries/MY/sights/sipadan-island-reefs.yaml): 9.5/9.6/9.1/9.5/8.9; exceptional underwater spectacle and diving.
+- [namena-marine-reserve (FJ)](../../../countries/FJ/sights/namena-marine-reserve.yaml): 9.2/9.1/9.1/9.2/8.9; broader marine visitor circuit.
+- [ang-thong-national-marine-park (TH)](../../../countries/TH/sights/ang-thong-national-marine-park.yaml): 9.0/9.0/8.6/9.1/8.9; larger above-water island landscape.
+- [cham-islands (VN)](../../../countries/VN/sights/cham-islands.yaml): 8.8/9.0/8.4/9.0/8.7; larger island group and visitor variety.
+
+### Scoring decisions
+- Impact: 8.8 — Attractive island and reef spectacle.
+- Uniqueness: 8.9 — Distinct marine and terrestrial combination, below Sipadan.
+- Significance: 8.9 — Important local marine conservation and biodiversity.
+- Experience: 9 — Documented reef and island visitor experiences.
+- Depth: 7.9 — Compact islet and surrounding reef, narrower scope than larger marine parks.
+- Applicable categories: nature 9.2, wildlife 9.2, adventure 8.8, beaches 8.8.
+- Overall: 87.85/100.
+- High-score challenge: no 9.5+ or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide V2 editorial rating.
+- Earlier decision: none.
+- Verification still needed: current access, location corroboration and full independent claim verification.
+
+
+## sight-mg-ambodivahibe — Ambodivahibe Marine Protected Area — 2026-11-26
+
+- YAML: [source](../../../countries/MG/sights/ambodivahibe.yaml)
+- Action: new
+- Precise subject: Community-managed marine protected area; named bay used as approximate representative point, not entire MPA centroid or visitor access point.
+- Location check: -12.33333, 49.43333; approximate representative point, not entrance.
+- Evidence status: unassessed
+- Sources (2026-11-26): UNESCO https://whc.unesco.org/en/tentativelists/6306/ identifies component; FAPBM https://www.fapbm.org/en/aire_protegee/marine-protected-area-ambodivahibe/ (opened) documents threatened fauna, mangroves, fishing pressures and local management; https://mapcarta.com/14507464 (opened) locates named bay. Ordinary visitor access and visible scope not established.
+- Missing facts: full independent claim verification, precise points and current visitor conditions.
+
+### Worldwide peer comparisons
+- [sipadan-island-reefs (MY)](../../../countries/MY/sights/sipadan-island-reefs.yaml): 9.5/9.6/9.1/9.5/8.9; exceptional underwater spectacle and diving.
+- [namena-marine-reserve (FJ)](../../../countries/FJ/sights/namena-marine-reserve.yaml): 9.2/9.1/9.1/9.2/8.9; broader marine visitor circuit.
+- [ang-thong-national-marine-park (TH)](../../../countries/TH/sights/ang-thong-national-marine-park.yaml): 9.0/9.0/8.6/9.1/8.9; larger above-water island landscape.
+- [cham-islands (VN)](../../../countries/VN/sights/cham-islands.yaml): 8.8/9.0/8.4/9.0/8.7; larger island group and visitor variety.
+
+### Scoring decisions
+- Impact: null — Visitor-visible impact not established.
+- Uniqueness: 9 — Distinctive marine habitats and local ecosystem.
+- Significance: 9.2 — Important threatened species and coastal conservation.
+- Experience: null — Ordinary authorized recreation insufficiently documented.
+- Depth: null — Accessible visitor circuit insufficiently documented.
+- Applicable categories: nature 9.3, wildlife 9.2.
+- Overall: unranked.
+- High-score challenge: no 9.5+ or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Partial assessment, no total.
+- Earlier decision: none.
+- Verification still needed: current access, location corroboration and full independent claim verification.
