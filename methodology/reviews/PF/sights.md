@@ -18,6 +18,17 @@
 | [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | major historic complex | Uniqueness higher: Distinct Polynesian sacred seafaring landscape; depth lower: Listed ceremonial landscape. Provisional scope comparison. |
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional heritage site | Uniqueness higher: Distinct Polynesian sacred seafaring landscape; depth similar: Listed ceremonial landscape. Provisional scope comparison. |
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from territory branch YAML; prior comparisons retained. Editorial calibration, not independent factual verification.
+
+- [tsodilo hills (BW)](../../../countries/BW/sights/tsodilo-hills.yaml) — 8.5/9.3/9.6/8.2/8.2; Comparable living sacred landscape and cultural continuity, different rock art.
+- [plain of jars archaeological landscape (LA)](../../../countries/LA/sights/plain-of-jars-archaeological-landscape.yaml) — 9.0/9.6/9.5/8.7/9.0; More extensive visible archaeological landscape, different ceremonial function.
+- [stonehenge (GB)](../../../countries/GB/sights/stonehenge.yaml) — 9.2/9.6/9.6/8.8/9.1; More monumental standing stones and documented interpretation.
+- [angkor archaeological park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 10.0/10.0/10.0/9.8/10.0; World-leading built ceremonial complex, far greater physical scope.
+
+High-score check: Tsodilo history 9.7 and culture 9.6; Plain of Jars history 9.7 and culture 9.3; Angkor history 10 and culture 9.5. Taputapuātea's history/culture 9.5 reflect ceremonial and seafaring heritage, not the size of its stone platforms.
+
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
@@ -56,6 +67,17 @@
 | [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (8.9 / 9 / 9 / 9.1 / 8.6) | protected wetland | Uniqueness higher: Distinct remote Polynesian biocultural heritage; depth unassessed: Listed island and marine sectors only. Provisional scope comparison. |
 | [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional protected landscape | Uniqueness higher: Distinct remote Polynesian biocultural heritage; depth unassessed: Listed island and marine sectors only. Provisional scope comparison. |
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from territory branch YAML; prior comparisons retained. Editorial calibration, not independent factual verification.
+
+- [ogasawara islands (JP)](../../../countries/JP/sights/ogasawara-islands.yaml) — 9.5/9.7/9.5/9.2/9.4; Comparable remote endemic island ecology with documented visitor breadth.
+- [galapagos islands world heritage property (EC)](../../../countries/EC/sights/galapagos-islands-world-heritage-property.yaml) — 9.9/9.9/9.9/9.5/9.3; World-leading evolutionary island heritage and established visitation.
+- [aldabra atoll (SC)](../../../countries/SC/sights/aldabra-atoll.yaml) — 9.5/9.8/9.8/8.0/7.6; Exceptional isolated island ecology with regulated visits, different cultural context.
+- [tsodilo hills (BW)](../../../countries/BW/sights/tsodilo-hills.yaml) — 8.5/9.3/9.6/8.2/8.2; Comparable living sacred heritage, not marine ecology or island visitor scope.
+
+Nature 9.5 compared with Ogasawara 9.8, Aldabra 9.8 and Galápagos 9.9. Retain incomplete visitor dimensions: island-wide ecology does not establish permitted visitor breadth.
+
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
@@ -93,6 +115,17 @@
 - Aitutaki Lagoon (CK): closely comparable tropical lagoon
 - Nha Trang Beach (VN): more ordinary coastal experience
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from territory branch YAML; prior comparisons retained. Editorial calibration, not independent factual verification.
+
+- [ha long bay (VN)](../../../countries/VN/sights/ha-long-bay.yaml) — 9.8/9.9/9.7/9.8/9.6; More extensive dramatic karst seascape and international significance.
+- [tobago cays marine park (VC)](../../../countries/VC/sights/tobago-cays-marine-park.yaml) — 9.4/9.3/9.1/9.1/8.9; Close tropical lagoon and reef recreation, less volcanic relief.
+- [ang thong national marine park (TH)](../../../countries/TH/sights/ang-thong-national-marine-park.yaml) — 9.0/9.0/8.6/9.1/8.9; Comparable island-water scenery and excursion scope, different limestone forms.
+- [raja ampat archipelago (ID)](../../../countries/ID/sights/raja-ampat-archipelago.yaml) — 9.8/9.9/9.5/9.7/9.8; Greater marine biodiversity and extensive island scenery.
+
+Impact/photography 9.5 compared with Tobago Cays impact 9.4 and photography 9.6, Ha Long Bay impact 9.8 and photography 9.9. The 90.25 total reflects lagoon and volcanic backdrop, not luxury resort services.
+
 ### Scoring decisions
 | Field | New rating | Individual justification |
 | --- | ---: | --- |
@@ -125,6 +158,15 @@
 - Whitehaven Beach (AU): greater coastal scale
 - Aitutaki Lagoon beaches (CK): similar tropical water
 - Nha Trang Beach (VN): more urban and less scenic
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from territory branch YAML; prior comparisons retained. Editorial calibration, not independent factual verification.
+
+- [anse source d argent (SC)](../../../countries/SC/sights/anse-source-d-argent.yaml) — 9.8/9.7/7.8/9.2/7.6; More distinctive granite shoreline.
+- [white beach boracay (PH)](../../../countries/PH/sights/white-beach-boracay.yaml) — 9.1/8.4/6.8/9.0/7.5; More extensive beach and leisure breadth.
+- [railay beach (TH)](../../../countries/TH/sights/railay-beach.yaml) — 8.9/9.0/7.5/9.2/8.3; More distinctive cliff and beach combination.
+- [tobago cays marine park (VC)](../../../countries/VC/sights/tobago-cays-marine-park.yaml) — 9.4/9.3/9.1/9.1/8.9; Broader reef and island recreation, not a single beach.
 
 ### Scoring decisions
 | Field | New rating | Individual justification |
@@ -159,6 +201,15 @@
 - Aitutaki Lagoon (CK): comparable reef experience
 - Railay Beach (TH): narrower coastal scope
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from territory branch YAML; prior comparisons retained. Editorial calibration, not independent factual verification.
+
+- [tobago cays marine park (VC)](../../../countries/VC/sights/tobago-cays-marine-park.yaml) — 9.4/9.3/9.1/9.1/8.9; Greater documented reef and wildlife scope.
+- [ang thong national marine park (TH)](../../../countries/TH/sights/ang-thong-national-marine-park.yaml) — 9.0/9.0/8.6/9.1/8.9; Comparable island boat excursions with stronger landscape breadth.
+- [bora bora lagoon (PF)](../../../countries/PF/sights/bora-bora-lagoon.yaml) — 9.5/9.2/8.0/9.3/8.8; More striking volcanic backdrop and lagoon contrast.
+- [sipadan island reefs (MY)](../../../countries/MY/sights/sipadan-island-reefs.yaml) — 9.5/9.6/9.1/9.5/8.9; Much stronger concentrated underwater biodiversity.
+
 ### Scoring decisions
 | Field | New rating | Individual justification |
 | --- | ---: | --- |
@@ -191,6 +242,15 @@
 - Mount Tapyas (PH): comparable island overlook
 - Trælanípa (FO): more unusual optical composition
 - Nha Trang Beach (VN): less distinctive coastal scenery
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from territory branch YAML; prior comparisons retained. Editorial calibration, not independent factual verification.
+
+- [mount bromo (ID)](../../../countries/ID/sights/mount-bromo.yaml) — 9.5/9.4/8.5/9.3/8.5; More dramatic volcanic viewpoint and wider excursion.
+- [lake bled (SI)](../../../countries/SI/sights/lake-bled.yaml) — 9.4/9.2/8.7/9.3/8.8; More extensive developed scenic lake visitor experience.
+- [ang thong national marine park (TH)](../../../countries/TH/sights/ang-thong-national-marine-park.yaml) — 9.0/9.0/8.6/9.1/8.9; Comparable island and bay viewpoints within larger park.
+- [cliffs of moher (IE)](../../../countries/IE/sights/cliffs-of-moher.yaml) — 9.5/9.1/8.7/9.0/8.2; More monumental coastal panorama, different landform.
 
 ### Scoring decisions
 | Field | New rating | Individual justification |
@@ -225,6 +285,15 @@
 - Richelieu Rock (TH): comparable biodiversity and diving
 - Nha Trang marine sites (VN): more ordinary dive experience
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from territory branch YAML; prior comparisons retained. Editorial calibration, not independent factual verification.
+
+- [cape kri dive site (ID)](../../../countries/ID/sights/cape-kri-dive-site.yaml) — 9.3/9.4/8.5/9.4/8.5; Comparable single-site reef wildlife encounters, greater documented biodiversity.
+- [sipadan island reefs (MY)](../../../countries/MY/sights/sipadan-island-reefs.yaml) — 9.5/9.6/9.1/9.5/8.9; Greater reef encounter variety across sites.
+- [hanifaru bay marine protected area (MV)](../../../countries/MV/sights/hanifaru-bay-marine-protected-area.yaml) — 9.6/9.7/9.4/9.5/7.2; Exceptional concentrated seasonal wildlife encounters, distinct activity.
+- [tubbataha (PH)](../../../countries/PH/sights/tubbataha.yaml) — 9.3/9.2/9.3/9.1/9.0; Broader internationally significant protected reef landscape.
+
 ### Scoring decisions
 | Field | New rating | Individual justification |
 | --- | ---: | --- |
@@ -257,6 +326,17 @@
 - Tiputa Pass (PF): different pelagic encounter profile
 - Richelieu Rock (TH): strong biodiversity peer
 - Great Barrier Reef (AU): vastly broader ecosystem
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from territory branch YAML; prior comparisons retained. Editorial calibration, not independent factual verification.
+
+- [cape kri dive site (ID)](../../../countries/ID/sights/cape-kri-dive-site.yaml) — 9.3/9.4/8.5/9.4/8.5; Close single-site biodiversity benchmark with greater documented general reef species variety.
+- [sipadan island reefs (MY)](../../../countries/MY/sights/sipadan-island-reefs.yaml) — 9.5/9.6/9.1/9.5/8.9; More varied reef sites and exceptional encounters.
+- [hanifaru bay marine protected area (MV)](../../../countries/MV/sights/hanifaru-bay-marine-protected-area.yaml) — 9.6/9.7/9.4/9.5/7.2; Exceptional concentrated seasonal marine wildlife spectacle, different encounter.
+- [tiputa pass (PF)](../../../countries/PF/sights/tiputa-pass.yaml) — 9.2/9.0/8.5/9.2/8.6; Close local pass dive experience with lower overall rating.
+
+90+ check: 91.15 remains below Sipadan and Cape Kri's overall specialist profiles, while exceptional concentrated reef encounters support its narrow scope. No guaranteed shark encounter.
 
 ### Scoring decisions
 | Field | New rating | Individual justification |
@@ -291,6 +371,15 @@
 - Hohe Tauern (AT): far broader mountain landscape
 - Faarumai Falls (PF): narrower experience
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from territory branch YAML; prior comparisons retained. Editorial calibration, not independent factual verification.
+
+- [khao sok national park (TH)](../../../countries/TH/sights/khao-sok-national-park.yaml) — 9.4/9.4/9.1/9.4/9.3; Much broader tropical forest and karst landscapes and visitor routes.
+- [kinabalu park (MY)](../../../countries/MY/sights/kinabalu-park.yaml) — 9.4/9.5/9.5/9.2/9.3; Greater montane biodiversity and altitudinal range.
+- [lorentz national park (ID)](../../../countries/ID/sights/lorentz-national-park.yaml) — 9.4/9.7/9.8/7.6/9.3; Vaster mountain-to-lowland ecological scope, less established ordinary visits.
+- [shiretoko national park (JP)](../../../countries/JP/sights/shiretoko-national-park.yaml) — 9.5/9.5/9.4/9.1/9.4; More extensive protected forest and coastal landscape.
+
 ### Scoring decisions
 | Field | New rating | Individual justification |
 | --- | ---: | --- |
@@ -324,6 +413,15 @@
 - Tegenungan (ID): comparable tropical waterfall
 - Múlafossur (FO): more distinctive coastal composition
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from territory branch YAML; prior comparisons retained. Editorial calibration, not independent factual verification.
+
+- [iguazu falls argentine circuits (AR)](../../../countries/AR/sights/iguazu-falls-argentine-circuits.yaml) — 9.9/9.8/9.2/9.6/8.6; World-leading waterfall scale.
+- [kuang si waterfalls (LA)](../../../countries/LA/sights/kuang-si-waterfalls.yaml) — 9.4/9.2/8.0/9.3/8.6; More distinctive layered pools and longer visitor experience.
+- [erawan waterfalls (TH)](../../../countries/TH/sights/erawan-waterfalls.yaml) — 8.7/8.7/7.1/9.0/8.0; Greater tiered waterfall and pool breadth.
+- [kinabalu park (MY)](../../../countries/MY/sights/kinabalu-park.yaml) — 9.4/9.5/9.5/9.2/9.3; Broader montane forest and waterfall landscape, not a single waterfall circuit.
+
 ### Scoring decisions
 | Field | New rating | Individual justification |
 | --- | ---: | --- |
@@ -356,6 +454,15 @@
 - Chatuchak (TH): much larger variety
 - Suva Municipal Market (FJ): closely comparable Pacific market
 - Made in Cambodia Market (KH): smaller curated craft market
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from territory branch YAML; prior comparisons retained. Editorial calibration, not independent factual verification.
+
+- [chatuchak weekend market (TH)](../../../countries/TH/sights/chatuchak-weekend-market.yaml) — 8.8/8.7/8.3/9.3/9.5; Much greater commercial variety and exploration.
+- [grand bazaar (TR)](../../../countries/TR/sights/grand-bazaar.yaml) — 8.7/8.9/8.8/9.0/8.8; Stronger historic architectural market setting.
+- [ben thanh market (VN)](../../../countries/VN/sights/ben-thanh-market.yaml) — 8.2/8.0/8.1/9.0/8.8; Broader established urban market offering.
+- [made in cambodia market (KH)](../../../countries/KH/sights/made-in-cambodia-market.yaml) — 7.7/7.8/7.6/8.6/7.9; Comparable focused local craft and commerce experience.
 
 ### Scoring decisions
 | Field | New rating | Individual justification |
