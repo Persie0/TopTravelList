@@ -1,0 +1,16 @@
+id: sight-mk-bigorski-monastery
+name: "Bigorski Monastery"
+location:
+  country_code: MK
+  latitude: 41.6210
+  longitude: 20.6090
+scores:
+  impact: 8.5
+  uniqueness: 8.7
+  significance: 8.9
+  experience: 8.5
+  depth: 8.0
+  categories:
+    architecture: 9.1
+    history: 9.2
+    culture: 9.2

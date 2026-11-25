@@ -1,0 +1,15 @@
+id: sight-om-al-hazm-castle
+name: "Al Hazm Castle"
+location:
+  country_code: OM
+  latitude: 23.549
+  longitude: 57.47
+scores:
+  impact: 8.3
+  uniqueness: 8.2
+  significance: 8.5
+  experience: 8.4
+  depth: 7.9
+  categories:
+    architecture: 8.9
+    history: 8.8

@@ -1,0 +1,16 @@
+id: sight-ar-jesuit-block-and-estancias-of-cordoba
+name: "Jesuit Block and Estancias of Córdoba"
+location:
+  country_code: AR
+  latitude: -31.4200
+  longitude: -64.1880
+scores:
+  impact: 8.6
+  uniqueness: 9.0
+  significance: 9.4
+  experience: 8.6
+  depth: 9.1
+  categories:
+    history: 9.6
+    architecture: 9.4
+    culture: 9.1

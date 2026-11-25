@@ -1,0 +1,16 @@
+id: sight-bo-laguna-colorada
+name: "Laguna Colorada"
+location:
+  country_code: BO
+  latitude: -22.1990
+  longitude: -67.7750
+scores:
+  impact: 9.6
+  uniqueness: 9.5
+  significance: 8.8
+  experience: 9.0
+  depth: 8.0
+  categories:
+    nature: 9.6
+    wildlife: 9.5
+    photography: 9.7

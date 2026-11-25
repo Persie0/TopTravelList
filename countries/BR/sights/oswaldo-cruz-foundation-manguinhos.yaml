@@ -1,0 +1,16 @@
+id: sight-br-oswaldo-cruz-foundation-manguinhos
+name: "Oswaldo Cruz Foundation (Manguinhos)"
+location:
+  country_code: BR
+  latitude: -22.8760
+  longitude: -43.2450
+scores:
+  impact: 7.8
+  uniqueness: 8.6
+  significance: 9.1
+  experience: 7.9
+  depth: 7.3
+  categories:
+    architecture: 9.1
+    history: 9.2
+    culture: 8.7

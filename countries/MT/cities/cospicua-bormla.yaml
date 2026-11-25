@@ -1,0 +1,15 @@
+id: city-mt-cospicua-bormla
+name: "Cospicua (Bormla)"
+location:
+  country_code: MT
+  latitude: 35.88556
+  longitude: 14.52750
+scores:
+  impact: 7.9
+  uniqueness: 8.1
+  significance: 8.3
+  experience: 8.1
+  depth: 7.5
+  categories:
+    history: 8.8
+    architecture: 8.7

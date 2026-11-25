@@ -1,0 +1,15 @@
+id: sight-ee-kumu-art-museum
+name: "Kumu Art Museum"
+location:
+  country_code: EE
+  latitude: 59.437
+  longitude: 24.796
+scores:
+  impact: 8.2
+  uniqueness: 8.3
+  significance: 8.5
+  experience: 8.7
+  depth: 8.6
+  categories:
+    architecture: 8.7
+    culture: 9

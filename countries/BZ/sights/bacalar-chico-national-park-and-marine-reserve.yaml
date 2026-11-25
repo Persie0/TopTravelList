@@ -1,0 +1,16 @@
+id: sight-bz-bacalar-chico-national-park-and-marine-reserve
+name: "Bacalar Chico National Park and Marine Reserve"
+location:
+  country_code: BZ
+  latitude: 18.158439
+  longitude: -87.836047
+scores:
+  impact: 8.5
+  uniqueness: 8.7
+  significance: 9.0
+  experience: 8.6
+  depth: 8.7
+  categories:
+    nature: 9.1
+    wildlife: 9.0
+    adventure: 8.5

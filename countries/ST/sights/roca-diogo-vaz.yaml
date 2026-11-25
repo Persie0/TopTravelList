@@ -1,0 +1,16 @@
+id: sight-st-roca-diogo-vaz
+name: "Roça Diogo Vaz"
+location:
+  country_code: ST
+  latitude: 0.317333
+  longitude: 6.498389
+scores:
+  impact: 7.6
+  uniqueness: 8.4
+  significance: 9.1
+  experience: 7.9
+  depth: 7.5
+  categories:
+    history: 9.3
+    culture: 8.7
+    food: 8.5

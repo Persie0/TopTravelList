@@ -1,0 +1,16 @@
+id: city-uy-piriapolis
+name: "Piriapolis"
+location:
+  country_code: UY
+  latitude: -34.8628
+  longitude: -55.2747
+scores:
+  impact: 7.7
+  uniqueness: 7.6
+  significance: 7.3
+  experience: 8.1
+  depth: 7.5
+  categories:
+    beaches: 8.2
+    relaxation: 8.4
+    architecture: 7.6

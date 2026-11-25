@@ -1,0 +1,16 @@
+id: sight-hn-talgua-caves
+name: "Talgua Caves"
+location:
+  country_code: HN
+  latitude: 14.8430
+  longitude: -85.8670
+scores:
+  impact: 8.2
+  uniqueness: 8.9
+  significance: 8.9
+  experience: 8.2
+  depth: 7.3
+  categories:
+    history: 9.2
+    nature: 8.7
+    adventure: 8.5

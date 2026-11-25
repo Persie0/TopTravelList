@@ -1,0 +1,16 @@
+id: sight-ee-estonian-open-air-museum
+name: "Estonian Open Air Museum"
+location:
+  country_code: EE
+  latitude: 59.433
+  longitude: 24.638
+scores:
+  impact: 8.2
+  uniqueness: 8.4
+  significance: 8.4
+  experience: 8.7
+  depth: 8.7
+  categories:
+    culture: 9
+    history: 8.7
+    architecture: 8.6

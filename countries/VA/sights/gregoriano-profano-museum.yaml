@@ -1,0 +1,15 @@
+id: sight-va-gregoriano-profano-museum
+name: "Gregoriano Profano Museum"
+location:
+  country_code: VA
+  latitude: 41.90537
+  longitude: 12.45310
+scores:
+  impact: 8.3
+  uniqueness: 8.4
+  significance: 8.8
+  experience: 8.4
+  depth: 8.3
+  categories:
+    history: 9.1
+    culture: 8.9

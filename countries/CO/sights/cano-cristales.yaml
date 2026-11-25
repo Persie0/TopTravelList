@@ -1,0 +1,15 @@
+id: sight-co-cano-cristales
+name: "Caño Cristales"
+location:
+  country_code: CO
+  latitude: 2.2660
+  longitude: -73.7900
+scores:
+  impact: 9.5
+  uniqueness: 9.6
+  significance: 8.4
+  experience: 8.6
+  depth: 8.0
+  categories:
+    nature: 9.6
+    photography: 9.8

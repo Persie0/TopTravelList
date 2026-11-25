@@ -1,0 +1,15 @@
+id: sight-bz-placencia-beach
+name: "Placencia Beach"
+location:
+  country_code: BZ
+  latitude: 16.521
+  longitude: -88.365
+scores:
+  impact: 7.7
+  uniqueness: 7.2
+  significance: 6.3
+  experience: 8.3
+  depth: 7.2
+  categories:
+    beaches: 8.4
+    relaxation: 8.6

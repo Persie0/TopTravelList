@@ -1,0 +1,16 @@
+id: sight-mt-ramla-bay
+name: "Ramla Bay"
+location:
+  country_code: MT
+  latitude: 36.0600
+  longitude: 14.2840
+scores:
+  impact: 8.5
+  uniqueness: 8.3
+  significance: 6.6
+  experience: 8.8
+  depth: 8.0
+  categories:
+    beaches: 9.2
+    relaxation: 9.0
+    photography: 8.9

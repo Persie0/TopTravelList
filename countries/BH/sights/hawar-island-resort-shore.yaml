@@ -1,0 +1,15 @@
+id: sight-bh-hawar-island-resort-shore
+name: "Hawar Island Resort Shore"
+location:
+  country_code: BH
+  latitude: 25.6510
+  longitude: 50.7480
+scores:
+  impact: 7.7
+  uniqueness: 7.5
+  significance: 6.0
+  experience: 8.1
+  depth: 6.9
+  categories:
+    beaches: 8.3
+    relaxation: 8.5

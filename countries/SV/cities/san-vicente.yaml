@@ -1,0 +1,15 @@
+id: city-sv-san-vicente
+name: "San Vicente"
+location:
+  country_code: SV
+  latitude: 13.6433
+  longitude: -88.7850
+scores:
+  impact: 6.7
+  uniqueness: 6.9
+  significance: 7.3
+  experience: 7.2
+  depth: 6.8
+  categories:
+    history: 7.7
+    culture: 7.5

@@ -1,0 +1,16 @@
+id: city-ee-tallinn
+name: "Tallinn"
+location:
+  country_code: EE
+  latitude: 59.437
+  longitude: 24.7536
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 8.9
+  experience: 9.1
+  depth: 9.0
+  categories:
+    architecture: 9.4
+    history: 9.1
+    culture: 9

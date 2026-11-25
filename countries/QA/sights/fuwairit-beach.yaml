@@ -1,0 +1,16 @@
+id: sight-qa-fuwairit-beach
+name: "Fuwairit Beach"
+location:
+  country_code: QA
+  latitude: 26.0230
+  longitude: 51.3690
+scores:
+  impact: 8.0
+  uniqueness: 8.0
+  significance: 7.8
+  experience: 8.2
+  depth: 7.0
+  categories:
+    beaches: 8.7
+    wildlife: 8.3
+    relaxation: 8.5

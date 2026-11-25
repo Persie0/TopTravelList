@@ -1,0 +1,16 @@
+id: sight-ar-plaza-de-mayo
+name: "Plaza de Mayo"
+location:
+  country_code: AR
+  latitude: -34.6080
+  longitude: -58.3720
+scores:
+  impact: 8.0
+  uniqueness: 7.9
+  significance: 9.3
+  experience: 8.2
+  depth: 7.3
+  categories:
+    history: 9.5
+    architecture: 8.8
+    culture: 8.7

@@ -2,19 +2,42 @@
 
 # El Salvador (SV) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**24 ranked** · **0 unassessed** · **24 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
 This is the **complete ranking for this country's available dataset**, using absolute worldwide scores, **not country-relative scores**. Overall scores are out of 100; category scores are out of 10 and shown highest first (the top three are bold). Types are inferred from names, not separately verified.
 
-**Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, or click its GPS coordinates to open **Google Maps**. Locations are approximate representative points, not necessarily entrance coordinates.
+**Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (24)
 
-No cities, towns & villages have been assessed for **El Salvador** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Suchitoto](cities/suchitoto.yaml) | City / town | **82.10** | **Culture 8.7**, **Photography 8.6**, **Architecture 8.5** | 8.3 / 8.4 / 8.0 / 8.4 / 7.6 | [13.9381, -89.0278](https://www.google.com/maps/search/?api=1&query=13.9381,-89.0278) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Suchitoto%2C%20El%20Salvador) |
+| 2 | [San Salvador](cities/san-salvador.yaml) | City / town | **81.25** | **History 8.7**, **Culture 8.5**, **Architecture 8.4**, Food 8.3 | 8.0 / 7.7 / 8.5 / 8.2 / 8.7 | [13.6929, -89.2182](https://www.google.com/maps/search/?api=1&query=13.6929,-89.2182) | [Google Maps](https://www.google.com/maps/search/?api=1&query=San%20Salvador%2C%20El%20Salvador) |
+| 3 | [Santa Ana](cities/santa-ana.yaml) | City / town | **79.80** | **Architecture 8.6**, **History 8.3**, **Culture 8.1** | 8.0 / 7.9 / 8.1 / 8.1 / 7.7 | [13.9942, -89.5597](https://www.google.com/maps/search/?api=1&query=13.9942,-89.5597) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Santa%20Ana%2C%20El%20Salvador) |
+| 4 | [Ataco (Concepción de Ataco)](cities/ataco-concepcion-de-ataco.yaml) | City / town | **76.25** | **Culture 8.3**, **Photography 8.3**, **Food 8.1** | 7.8 / 7.9 / 6.9 / 8.2 / 7.0 | [13.8703, -89.8487](https://www.google.com/maps/search/?api=1&query=13.8703,-89.8487) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ataco%20%28Concepci%C3%B3n%20de%20Ataco%29%2C%20El%20Salvador) |
+| 5 | [Perquín](cities/perquin.yaml) | City / town | **76.15** | **History 8.6**, **Culture 8.3** | 7.2 / 7.9 / 8.3 / 7.6 / 6.8 | [13.958, -88.161](https://www.google.com/maps/search/?api=1&query=13.958,-88.161) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Perqu%C3%ADn%2C%20El%20Salvador) |
+| 6 | [Nahuizalco](cities/nahuizalco.yaml) | City / town | **75.35** | **Culture 8.4**, **Food 8.0** | 7.3 / 7.9 / 7.6 / 7.8 / 6.8 | [13.7778, -89.7356](https://www.google.com/maps/search/?api=1&query=13.7778,-89.7356) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nahuizalco%2C%20El%20Salvador) |
+| 7 | [Alegría](cities/alegria.yaml) | City / town | **75.30** | **Photography 8.1**, **Culture 8.0** | 7.5 / 7.8 / 7.3 / 8.0 / 6.7 | [13.5016, -88.4867](https://www.google.com/maps/search/?api=1&query=13.5016,-88.4867) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Alegr%C3%ADa%2C%20El%20Salvador) |
+| 8 | [Juayúa](cities/juayua.yaml) | City / town | **74.65** | **Food 8.5**, **Culture 8.0**, **Photography 7.7** | 7.5 / 7.7 / 6.9 / 8.2 / 6.8 | [13.8414, -89.7456](https://www.google.com/maps/search/?api=1&query=13.8414,-89.7456) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Juay%C3%BAa%2C%20El%20Salvador) |
+| 9 | [Izalco](cities/izalco.yaml) | City / town | **74.25** | **History 8.4**, **Culture 8.3** | 7.0 / 7.7 / 8.0 / 7.4 / 6.9 | [13.7447, -89.673](https://www.google.com/maps/search/?api=1&query=13.7447,-89.673) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Izalco%2C%20El%20Salvador) |
+| 10 | [Santa Tecla](cities/santa-tecla.yaml) | City / town | **74.00** | **Food 8.0**, **Architecture 7.8**, **Culture 7.8** | 7.2 / 7.2 / 7.6 / 7.8 / 7.5 | [13.6769, -89.2797](https://www.google.com/maps/search/?api=1&query=13.6769,-89.2797) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Santa%20Tecla%2C%20El%20Salvador) |
+| 11 | [El Tunco Village](cities/el-tunco-village.yaml) | Village | **73.85** | **Nightlife 8.4**, **Relaxation 8.2**, **Food 7.9** | 7.6 / 7.8 / 6.2 / 8.3 / 6.7 | [13.4948, -89.3834](https://www.google.com/maps/search/?api=1&query=13.4948,-89.3834) | [Google Maps](https://www.google.com/maps/search/?api=1&query=El%20Tunco%20Village%2C%20El%20Salvador) |
+| 12 | [Chalchuapa](cities/chalchuapa.yaml) | City / town | **73.45** | **History 8.2**, **Culture 7.9** | 7.0 / 7.5 / 7.8 / 7.4 / 7.0 | [13.9867, -89.6811](https://www.google.com/maps/search/?api=1&query=13.9867,-89.6811) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Chalchuapa%2C%20El%20Salvador) |
+| 13 | [La Libertad](cities/la-libertad.yaml) | City / town | **73.20** | **Food 8.3**, **Relaxation 7.9** | 7.3 / 7.4 / 6.8 / 8.0 / 7.2 | [13.4883, -89.3222](https://www.google.com/maps/search/?api=1&query=13.4883,-89.3222) | [Google Maps](https://www.google.com/maps/search/?api=1&query=La%20Libertad%2C%20El%20Salvador) |
+| 14 | [Ahuachapán](cities/ahuachapan.yaml) | City / town | **73.05** | **Culture 7.8**, **Food 7.8** | 7.1 / 7.3 / 7.4 / 7.6 / 7.3 | [13.9214, -89.845](https://www.google.com/maps/search/?api=1&query=13.9214,-89.845) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ahuachap%C3%A1n%2C%20El%20Salvador) |
+| 15 | [San Miguel](cities/san-miguel.yaml) | City / town | **72.55** | **Culture 8.0**, **Food 7.9** | 7.0 / 7.1 / 7.5 / 7.6 / 7.4 | [13.4833, -88.1833](https://www.google.com/maps/search/?api=1&query=13.4833,-88.1833) | [Google Maps](https://www.google.com/maps/search/?api=1&query=San%20Miguel%2C%20El%20Salvador) |
+| 16 | [Sonsonate](cities/sonsonate.yaml) | City / town | **71.95** | **Culture 8.2**, **History 7.8** | 6.8 / 7.3 / 7.6 / 7.4 / 7.0 | [13.7189, -89.7242](https://www.google.com/maps/search/?api=1&query=13.7189,-89.7242) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sonsonate%2C%20El%20Salvador) |
+| 17 | [Cacaopera](cities/cacaopera.yaml) | City / town | **71.45** | **Culture 8.4**, **History 8.0** | 6.5 / 7.8 / 7.8 / 7.1 / 6.2 | [13.7667, -88.0833](https://www.google.com/maps/search/?api=1&query=13.7667,-88.0833) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cacaopera%2C%20El%20Salvador) |
+| 18 | [Apaneca](cities/apaneca.yaml) | City / town | **71.15** | **Relaxation 7.8**, **Culture 7.7** | 7.2 / 7.4 / 6.5 / 7.7 / 6.5 | [13.8592, -89.8025](https://www.google.com/maps/search/?api=1&query=13.8592,-89.8025) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Apaneca%2C%20El%20Salvador) |
+| 19 | [El Zonte Village](cities/el-zonte-village.yaml) | Village | **70.85** | **Relaxation 8.3**, **Food 7.6** | 7.2 / 7.5 / 6.1 / 8.0 / 6.3 | [13.4965, -89.44](https://www.google.com/maps/search/?api=1&query=13.4965,-89.44) | [Google Maps](https://www.google.com/maps/search/?api=1&query=El%20Zonte%20Village%2C%20El%20Salvador) |
+| 20 | [La Unión](cities/la-union.yaml) | City / town | **70.50** | **Food 7.8**, **Culture 7.5** | 6.8 / 7.2 / 7.1 / 7.4 / 6.8 | [13.3369, -87.8439](https://www.google.com/maps/search/?api=1&query=13.3369,-87.8439) | [Google Maps](https://www.google.com/maps/search/?api=1&query=La%20Uni%C3%B3n%2C%20El%20Salvador) |
+| 21 | [San Vicente](cities/san-vicente.yaml) | City / town | **69.55** | **History 7.7**, **Culture 7.5** | 6.7 / 6.9 / 7.3 / 7.2 / 6.8 | [13.6433, -88.785](https://www.google.com/maps/search/?api=1&query=13.6433,-88.785) | [Google Maps](https://www.google.com/maps/search/?api=1&query=San%20Vicente%2C%20El%20Salvador) |
+| 22 | [Metapán](cities/metapan.yaml) | City / town | **69.15** | **Culture 7.5**, **History 7.5** | 6.7 / 7.1 / 7.0 / 7.2 / 6.5 | [14.3314, -89.442](https://www.google.com/maps/search/?api=1&query=14.3314,-89.442) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Metap%C3%A1n%2C%20El%20Salvador) |
+| 23 | [San Ignacio](cities/san-ignacio.yaml) | City / town | **68.40** | **Relaxation 7.8**, **Culture 7.3** | 6.8 / 7.1 / 6.4 / 7.5 / 6.2 | [14.342, -89.1787](https://www.google.com/maps/search/?api=1&query=14.342,-89.1787) | [Google Maps](https://www.google.com/maps/search/?api=1&query=San%20Ignacio%2C%20El%20Salvador) |
+| 24 | [Salcoatitán](cities/salcoatitan.yaml) | City / town | **68.05** | **Food 7.8**, **Culture 7.6** | 6.8 / 7.0 / 6.4 / 7.5 / 6.1 | [13.829, -89.755](https://www.google.com/maps/search/?api=1&query=13.829,-89.755) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Salcoatit%C3%A1n%2C%20El%20Salvador) |
 
 ---
 

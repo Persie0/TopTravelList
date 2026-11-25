@@ -1,0 +1,15 @@
+id: city-py-villa-hayes
+name: "Villa Hayes"
+location:
+  country_code: PY
+  latitude: -25.0931
+  longitude: -57.5236
+scores:
+  impact: 6.3
+  uniqueness: 6.8
+  significance: 7.0
+  experience: 6.9
+  depth: 6.2
+  categories:
+    history: 7.5
+    culture: 7.2

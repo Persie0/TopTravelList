@@ -1,0 +1,16 @@
+id: sight-mv-guraidhoo-corner
+name: "Guraidhoo Corner"
+location:
+  country_code: MV
+  latitude: 3.893
+  longitude: 73.475
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 8.1
+  experience: 8.9
+  depth: 7.8
+  categories:
+    nature: 8.9
+    wildlife: 9.1
+    adventure: 9.2

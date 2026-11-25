@@ -1,0 +1,16 @@
+id: sight-mc-prince-s-cars-collection
+name: "Prince's Cars Collection"
+location:
+  country_code: MC
+  latitude: 43.7343
+  longitude: 7.4213
+scores:
+  impact: 8.1
+  uniqueness: 8.4
+  significance: 8.1
+  experience: 8.6
+  depth: 8.3
+  categories:
+    history: 8.7
+    culture: 8.7
+    family: 8.4

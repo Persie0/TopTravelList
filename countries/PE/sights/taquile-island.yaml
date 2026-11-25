@@ -1,0 +1,16 @@
+id: sight-pe-taquile-island
+name: "Taquile Island"
+location:
+  country_code: PE
+  latitude: -15.7720
+  longitude: -69.6850
+scores:
+  impact: 8.5
+  uniqueness: 8.7
+  significance: 8.5
+  experience: 8.6
+  depth: 7.8
+  categories:
+    culture: 9.4
+    photography: 9.0
+    nature: 8.7

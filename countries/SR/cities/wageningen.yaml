@@ -1,0 +1,15 @@
+id: city-sr-wageningen
+name: "Wageningen"
+location:
+  country_code: SR
+  latitude: 5.7667
+  longitude: -56.6833
+scores:
+  impact: 6.0
+  uniqueness: 6.6
+  significance: 6.8
+  experience: 6.4
+  depth: 5.8
+  categories:
+    history: 7.1
+    culture: 6.8

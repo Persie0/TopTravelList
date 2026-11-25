@@ -1,0 +1,15 @@
+id: sight-bz-st-herman-s-blue-hole-national-park
+name: "St Herman's Blue Hole National Park"
+location:
+  country_code: BZ
+  latitude: 17.152
+  longitude: -88.683
+scores:
+  impact: 8.1
+  uniqueness: 8.2
+  significance: 8.0
+  experience: 8.5
+  depth: 8.1
+  categories:
+    nature: 8.6
+    adventure: 8.5

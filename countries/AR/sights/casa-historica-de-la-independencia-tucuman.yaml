@@ -1,0 +1,15 @@
+id: sight-ar-casa-historica-de-la-independencia-tucuman
+name: "Casa Histórica de la Independencia (Tucumán)"
+location:
+  country_code: AR
+  latitude: -26.8320
+  longitude: -65.2040
+scores:
+  impact: 7.4
+  uniqueness: 8.3
+  significance: 9.3
+  experience: 8.1
+  depth: 6.9
+  categories:
+    history: 9.6
+    culture: 8.9

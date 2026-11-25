@@ -1,0 +1,16 @@
+id: city-sc-beau-vallon
+name: "Beau Vallon"
+location:
+  country_code: SC
+  latitude: -4.6154
+  longitude: 55.4294
+scores:
+  impact: 7.5
+  uniqueness: 7.0
+  significance: 6.5
+  experience: 8.2
+  depth: 7.0
+  categories:
+    food: 8.0
+    relaxation: 8.2
+    culture: 7.2

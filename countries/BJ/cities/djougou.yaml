@@ -1,0 +1,14 @@
+id: city-bj-djougou
+name: "Djougou"
+location:
+  country_code: BJ
+  latitude: 9.7080
+  longitude: 1.6660
+scores:
+  impact: 6.2
+  uniqueness: 7.0
+  significance: 7.0
+  experience: 7.2
+  depth: 6.6
+  categories:
+    culture: 7.8

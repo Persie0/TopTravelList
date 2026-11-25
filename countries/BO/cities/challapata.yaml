@@ -1,0 +1,15 @@
+id: city-bo-challapata
+name: "Challapata"
+location:
+  country_code: BO
+  latitude: -18.9000
+  longitude: -66.7667
+scores:
+  impact: 5.8
+  uniqueness: 6.4
+  significance: 6.2
+  experience: 6.6
+  depth: 6.0
+  categories:
+    culture: 7.0
+    food: 7.0

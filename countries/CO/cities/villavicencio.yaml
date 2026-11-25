@@ -1,0 +1,15 @@
+id: city-co-villavicencio
+name: "Villavicencio"
+location:
+  country_code: CO
+  latitude: 4.1420
+  longitude: -73.6266
+scores:
+  impact: 6.8
+  uniqueness: 7.5
+  significance: 6.8
+  experience: 7.6
+  depth: 7.3
+  categories:
+    culture: 8.3
+    food: 8.1

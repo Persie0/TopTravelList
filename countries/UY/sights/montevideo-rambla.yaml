@@ -1,0 +1,16 @@
+id: sight-uy-montevideo-rambla
+name: "Montevideo Rambla"
+location:
+  country_code: UY
+  latitude: -34.9150
+  longitude: -56.1620
+scores:
+  impact: 8.4
+  uniqueness: 8.7
+  significance: 7.9
+  experience: 8.9
+  depth: 8.7
+  categories:
+    relaxation: 9.1
+    photography: 8.7
+    culture: 8.4

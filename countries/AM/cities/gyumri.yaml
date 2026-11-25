@@ -1,0 +1,16 @@
+id: city-am-gyumri
+name: "Gyumri"
+location:
+  country_code: AM
+  latitude: 40.7894
+  longitude: 43.8475
+scores:
+  impact: 8.2
+  uniqueness: 8.6
+  significance: 8.1
+  experience: 8.4
+  depth: 8.0
+  categories:
+    architecture: 9.0
+    culture: 8.9
+    history: 8.5

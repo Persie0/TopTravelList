@@ -1,0 +1,16 @@
+id: sight-co-amazon-river-leticia-visitor-routes
+name: "Amazon River (Leticia visitor routes)"
+location:
+  country_code: CO
+  latitude: -4.2200
+  longitude: -69.9600
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 9.0
+  experience: 8.6
+  depth: 8.8
+  categories:
+    nature: 9.5
+    wildlife: 9.4
+    culture: 8.8

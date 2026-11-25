@@ -1,0 +1,14 @@
+id: city-sc-cascade
+name: "Cascade"
+location:
+  country_code: SC
+  latitude: -4.6690
+  longitude: 55.5040
+scores:
+  impact: 6.2
+  uniqueness: 6.5
+  significance: 6.2
+  experience: 6.6
+  depth: 6.0
+  categories:
+    culture: 6.8

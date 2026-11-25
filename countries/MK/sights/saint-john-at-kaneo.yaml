@@ -1,0 +1,16 @@
+id: sight-mk-saint-john-at-kaneo
+name: "Saint John at Kaneo"
+location:
+  country_code: MK
+  latitude: 41.1118
+  longitude: 20.7884
+scores:
+  impact: 9.1
+  uniqueness: 9.0
+  significance: 8.9
+  experience: 8.8
+  depth: 7.8
+  categories:
+    architecture: 9.2
+    photography: 9.4
+    history: 9.2

@@ -1,0 +1,16 @@
+id: sight-pe-maras-salt-pans
+name: "Maras Salt Pans"
+location:
+  country_code: PE
+  latitude: -13.3010
+  longitude: -72.1540
+scores:
+  impact: 9.0
+  uniqueness: 9.1
+  significance: 8.1
+  experience: 8.5
+  depth: 7.5
+  categories:
+    photography: 9.5
+    culture: 8.9
+    nature: 8.8

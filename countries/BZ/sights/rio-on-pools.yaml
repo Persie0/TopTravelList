@@ -1,0 +1,16 @@
+id: sight-bz-rio-on-pools
+name: "Rio On Pools"
+location:
+  country_code: BZ
+  latitude: 16.963
+  longitude: -88.930
+scores:
+  impact: 8.1
+  uniqueness: 8.0
+  significance: 6.8
+  experience: 8.4
+  depth: 7.2
+  categories:
+    nature: 8.4
+    relaxation: 8.4
+    photography: 8.4

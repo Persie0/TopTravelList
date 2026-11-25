@@ -1,0 +1,15 @@
+id: sight-py-asuncion-metropolitan-cathedral
+name: "Asunción Metropolitan Cathedral"
+location:
+  country_code: PY
+  latitude: -25.2802
+  longitude: -57.6321
+scores:
+  impact: 7.3
+  uniqueness: 7.4
+  significance: 8.0
+  experience: 7.6
+  depth: 6.7
+  categories:
+    architecture: 8.2
+    history: 8.5

@@ -1,0 +1,16 @@
+id: sight-ec-los-tuneles-isabela
+name: "Los Túneles (Isabela)"
+location:
+  country_code: EC
+  latitude: -0.9640
+  longitude: -91.0500
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 8.4
+  experience: 9.0
+  depth: 7.5
+  categories:
+    wildlife: 9.4
+    nature: 9.2
+    photography: 9.2

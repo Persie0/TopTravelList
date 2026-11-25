@@ -1,0 +1,16 @@
+id: sight-rw-kibeho-sanctuary
+name: "Kibeho Sanctuary"
+location:
+  country_code: RW
+  latitude: -2.6470
+  longitude: 29.5550
+scores:
+  impact: 7.3
+  uniqueness: 8.2
+  significance: 8.6
+  experience: 8.0
+  depth: 7.0
+  categories:
+    culture: 9.0
+    history: 8.8
+    architecture: 7.8

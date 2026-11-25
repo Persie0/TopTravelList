@@ -1,0 +1,16 @@
+id: sight-ve-laguna-de-la-restinga-national-park
+name: "Laguna de La Restinga National Park"
+location:
+  country_code: VE
+  latitude: 10.9880
+  longitude: -64.1530
+scores:
+  impact: 8.2
+  uniqueness: 8.4
+  significance: 8.2
+  experience: 8.3
+  depth: 7.7
+  categories:
+    nature: 8.9
+    wildlife: 9.0
+    photography: 8.6
