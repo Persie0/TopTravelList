@@ -1,0 +1,16 @@
+id: sight-ar-tierra-del-fuego-national-park
+name: "Tierra del Fuego National Park"
+location:
+  country_code: AR
+  latitude: -54.8500
+  longitude: -68.5500
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 8.8
+  experience: 8.8
+  depth: 8.7
+  categories:
+    nature: 9.4
+    photography: 9.4
+    adventure: 8.9

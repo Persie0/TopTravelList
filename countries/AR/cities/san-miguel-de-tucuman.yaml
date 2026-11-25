@@ -1,0 +1,16 @@
+id: city-ar-san-miguel-de-tucuman
+name: "San Miguel de Tucumán"
+location:
+  country_code: AR
+  latitude: -26.8241
+  longitude: -65.2226
+scores:
+  impact: 7.4
+  uniqueness: 7.6
+  significance: 8.5
+  experience: 7.6
+  depth: 7.7
+  categories:
+    history: 9.1
+    culture: 8.2
+    food: 8.3
