@@ -1,0 +1,16 @@
+id: sight-gp-pain-de-sucre
+name: "Pain de Sucre Beach"
+location:
+  country_code: GP
+  latitude: 15.856
+  longitude: -61.595
+scores:
+  impact: 8.8
+  uniqueness: 8.6
+  significance: 6.9
+  experience: 8.7
+  depth: 7.0
+  categories:
+    beaches: 9.0
+    photography: 9.0
+    relaxation: 8.9

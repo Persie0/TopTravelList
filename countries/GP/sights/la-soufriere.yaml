@@ -1,0 +1,16 @@
+id: sight-gp-la-soufriere
+name: "La Soufrière Volcano"
+location:
+  country_code: GP
+  latitude: 16.044
+  longitude: -61.664
+scores:
+  impact: 9.2
+  uniqueness: 8.9
+  significance: 8.9
+  experience: 8.7
+  depth: 8.6
+  categories:
+    nature: 9.2
+    adventure: 9.1
+    photography: 9.2

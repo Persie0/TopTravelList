@@ -1,7 +1,7 @@
-id: sight-fr-guadeloupe-park
+id: sight-gp-guadeloupe-park
 name: "Guadeloupe National Park"
 location:
-  country_code: FR
+  country_code: GP
   latitude: 16.05
   longitude: -61.68
 scores:

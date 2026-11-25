@@ -1,0 +1,16 @@
+id: city-gp-deshaies
+name: "Deshaies"
+location:
+  country_code: GP
+  latitude: 16.307
+  longitude: -61.793
+scores:
+  impact: 7.9
+  uniqueness: 7.7
+  significance: 6.9
+  experience: 8.0
+  depth: 7.1
+  categories:
+    relaxation: 8.5
+    culture: 7.9
+    food: 8.1

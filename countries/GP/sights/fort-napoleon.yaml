@@ -1,0 +1,16 @@
+id: sight-gp-fort-napoleon
+name: "Fort Napoléon (Les Saintes)"
+location:
+  country_code: GP
+  latitude: 15.876
+  longitude: -61.582
+scores:
+  impact: 8.4
+  uniqueness: 8.2
+  significance: 8.2
+  experience: 8.4
+  depth: 7.8
+  categories:
+    history: 8.6
+    architecture: 8.4
+    photography: 8.7

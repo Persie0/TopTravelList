@@ -1,0 +1,16 @@
+id: city-gp-pointe-a-pitre
+name: "Pointe-à-Pitre"
+location:
+  country_code: GP
+  latitude: 16.241
+  longitude: -61.533
+scores:
+  impact: 7.5
+  uniqueness: 7.9
+  significance: 8.2
+  experience: 8.0
+  depth: 7.9
+  categories:
+    culture: 8.6
+    history: 8.4
+    food: 8.4
