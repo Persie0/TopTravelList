@@ -2,8 +2,8 @@ id: sight-tj-proto-urban-site-of-sarazm
 name: "Proto-urban Site of Sarazm"
 location:
   country_code: TJ
-  latitude: 39.508
-  longitude: 67.46
+  latitude: 39.507889
+  longitude: 67.458722
 scores:
   impact: 7.7
   uniqueness: 9.1

@@ -1,25 +1,27 @@
 # Tajikistan — sights individual worldwide v2 reviews
 
-2026-11-25. Initial provisional editorial inventory. [UNESCO register](https://whc.unesco.org/en/statesparties/tj) lists five inscribed and eighteen tentative properties, all five inscribed represented, including the 2025 Ancient Khuttal property. All nine Tajik Zarafshan-Karakum components represented; only selected Khuttal components and tentative properties individually catalogued. Legacy tentative Penjikent, Bashoro and Ajina-Tepa listings overlap existing component records, not ranked duplicates. UNESCO Silk Road component coordinates converted from DMS and rounded; other points are approximate and independently unchecked, not navigation or entrance points. No access, permit or safety guarantee. Evidence links support limited identity and context, not every factual claim; shared peer ladders provisional.
+2026-11-25. Initial provisional editorial inventory. [UNESCO register](https://whc.unesco.org/en/statesparties/tj) lists five inscribed and eighteen tentative properties, all five inscribed represented, including the 2025 Ancient Khuttal property. All nine Tajik Zarafshan-Karakum components represented; only selected Khuttal components and tentative properties individually catalogued. Legacy tentative Penjikent, Bashoro and Ajina-Tepa listings overlap existing component records, not ranked duplicates. UNESCO Silk Road component coordinates converted from DMS and rounded; six follow-up records use current UNESCO property or component maps. Remaining points approximate and independently unchecked, not navigation or entrance points. No access, permit or safety guarantee. Evidence links support limited identity and context, not every factual claim; shared peer ladders provisional.
 
 ## sight-tj-tajik-national-park-mountains-of-the-pamirs — Tajik National Park (Mountains of the Pamirs) — 2026-11-25
 
 - [YAML](../../../countries/TJ/sights/tajik-national-park-mountains-of-the-pamirs.yaml) · Action: new · **source-linked-unverified**.
-- Scope: inscribed park and normal permitted visitor landscapes not technical summits. GPS 38.75, 72.15: approximate editorial point, independent verification pending.
+- Scope: inscribed park and normal permitted visitor landscapes not technical summits. GPS 38.765, 72.305278: published property point; UNESCO published DMS converted to decimal, not entrance.
 - Worldwide peers (I/U/S/E/D):
   - [Sagarmatha National Park (NP)](../../../countries/NP/sights/sagarmatha-national-park.yaml) — 9.9 / 9.9 / 9.8 / 9.6 / 9.7 (98.15/100); upper reference; Tajik National Park (Mountains of the Pamirs) has lower provisional uniqueness and lower depth (exceptional continental high-mountain ecosystem; many different valleys and highland environments).
-  - [Yading Nature Reserve (CN)](../../../countries/CN/sights/yading-nature-reserve.yaml) — 9.5 / 9.5 / 9.1 / 9.2 / 9.5 (93.75/100); related comparator; Tajik National Park (Mountains of the Pamirs) has equal provisional uniqueness and higher depth (exceptional continental high-mountain ecosystem; many different valleys and highland environments).
+  - [Yading Nature Reserve (CN)](../../../countries/CN/sights/yading-nature-reserve.yaml) — 9.5 / 9.5 / 9.1 / 9.2 / 9.5 (93.75/100); related comparator; Tajik National Park (Mountains of the Pamirs) has equal provisional uniqueness and lower depth (exceptional continental high-mountain ecosystem; many different valleys and highland environments).
   - [Dana Biosphere Reserve (JO)](../../../countries/JO/sights/dana-biosphere-reserve.yaml) — 9.0 / 8.8 / 8.9 / 9.0 / 9.1 (89.40/100); related comparator; Tajik National Park (Mountains of the Pamirs) has higher provisional uniqueness and higher depth (exceptional continental high-mountain ecosystem; many different valleys and highland environments).
   - [Jebel Akhdar Mountain Landscape (OM)](../../../countries/OM/sights/jebel-akhdar-mountain-landscape.yaml) — 9.1 / 8.8 / 8.3 / 9.0 / 9.0 (88.40/100); regional or bounded reference; Tajik National Park (Mountains of the Pamirs) has higher provisional uniqueness and higher depth (exceptional continental high-mountain ecosystem; many different valleys and highland environments).
 - Impact 9.6: vast glaciated mountain and plateau landscapes.
 - Uniqueness 9.5: exceptional continental high-mountain ecosystem.
 - Significance 9.4: international geological and ecological importance.
 - Experience 9.0: permitted multi-day exploration.
-- Depth 9.6: many different valleys and highland environments.
-- Categories: nature:9.7, adventure:9.5, photography:9.7. Overall: 94.45/100.
-- High-score challenge: Impact uniqueness depth nature adventure and photography reflect vast glacial and highland variety; Sagarmatha has more iconic peak-centered heritage and established trekking routes, while Pamir access limits experience.. No approved 10.
+- Depth 9.2: multiple permitted multi-day valleys and highland routes; exclude inaccessible glacial terrain and the entire 2.61-million-hectare protected area.
+- Categories: nature:9.7, adventure:9.5, photography:9.7. Overall: 94.05/100.
+- High-score challenge: Impact 9.6, uniqueness 9.5, nature 9.7, adventure 9.5 and photography 9.7 reflect the exceptional glaciated highland setting. Depth remains 9.2 for permitted multi-day routes only, below the displayed Sagarmatha (9.7) and Yading (9.5) comparators. Category ratings remain provisional; no approved 10.
 - Evidence: [Source](https://whc.unesco.org/en/list/1252/) — UNESCO mountain park inscription and glacial landscape context; page or excerpt inspected 2026-11-25. Individual claims not fully verified.
 - Remaining gaps: Independent factual, GPS (unless published reference), category and specialist peer verification.
+- Follow-up 2026-11-25: https://whc.unesco.org/en/list/1252/ describes the extensive protected landscape; https://globaldestination.uz/en/guides/tajikistan-e-visa-and-gbao-permit/ describes additional park permits. Neither establishes unrestricted park-wide exploration. Existing depth reduction retained. UK regional advice https://www.gov.uk/foreign-travel-advice/tajikistan/regional-risks applies independently.
+- Coordinate follow-up: https://whc.unesco.org/en/list/1252/maps/ (published property point); previous 38.75, 72.15. Representative only.
 
 ## sight-tj-fann-mountains — Fann Mountains — 2026-11-25
 
@@ -39,6 +41,7 @@
 - High-score challenge: Impact nature and photography reach 9.5+ for varied lake and peak compositions; Sagarmatha exceeds in global peak significance and cultural depth.. No approved 10.
 - Evidence: [Source](https://whc.unesco.org/en/tentativelists/2107/) — UNESCO Fann Mountains tentative property; page or excerpt inspected 2026-11-25. Individual claims not fully verified.
 - Remaining gaps: Independent factual, GPS (unless published reference), category and specialist peer verification.
+- Follow-up 2026-11-25: https://oxusroad.com/en/itineraries/fann-mountains/ and https://tajiktours.com/fann-mountains-trekking/ describe separate lake routes, road access to Seven Lakes and multi-day Fann trekking. Scores refer only to the named landscape or permitted route; individual lakes do not inherit the full mountain range's depth. Seasonal conditions and limited rescue provision remain relevant.
 
 ## sight-tj-pamir-highway-tajik-section — Pamir Highway (Tajik Section) — 2026-11-25
 
@@ -58,6 +61,7 @@
 - High-score challenge: Impact depth and photography reflect extended landscape variety, not road difficulty or inaccessible areas; lower historical significance than the major cultural heritage routes and lower nature diversity than the full national park.. No approved 10.
 - Evidence: [Source](https://traveltotajikistan.org/) — Travel overview identifies Pamir routes and Khorog; individual settlement details editorial; page or excerpt inspected 2026-11-25. Individual claims not fully verified.
 - Remaining gaps: Independent factual, GPS (unless published reference), category and specialist peer verification.
+- Follow-up 2026-11-25: https://oxusroad.com/en/tajikistan/ describes the multi-day Pamir road journey and GBAO permit; https://www.gov.uk/foreign-travel-advice/tajikistan/regional-risks and https://travel.gc.ca/destinations/tajikistan describe frontier risks. The rating is intrinsic to the named Tajik-side corridor and conditional permitted visitor scope, not current safety or route availability. No Afghan-side visits assumed. Specialist route comparisons remain outstanding.
 
 ## sight-tj-wakhan-valley-tajik-section — Wakhan Valley (Tajik Section) — 2026-11-25
 
@@ -77,6 +81,7 @@
 - High-score challenge: Overall 90.50 reflects river terraces beneath high mountains and many separate valley landscapes; compared with upper peer, significance and breadth remain distinct.. No approved 10.
 - Evidence: [Source](https://traveltotajikistan.org/) — Travel overview identifies Pamir routes and Khorog; individual settlement details editorial; page or excerpt inspected 2026-11-25. Individual claims not fully verified.
 - Remaining gaps: Independent factual, GPS (unless published reference), category and specialist peer verification.
+- Follow-up 2026-11-25: https://oxusroad.com/en/tajikistan/ describes the multi-day Pamir road journey and GBAO permit; https://www.gov.uk/foreign-travel-advice/tajikistan/regional-risks and https://travel.gc.ca/destinations/tajikistan describe frontier risks. The rating is intrinsic to the named Tajik-side corridor and conditional permitted visitor scope, not current safety or route availability. No Afghan-side visits assumed. Specialist route comparisons remain outstanding.
 
 ## sight-tj-haft-kul-seven-lakes — Haft Kul (Seven Lakes) — 2026-11-25
 
@@ -96,6 +101,7 @@
 - High-score challenge: Photography 9.5 reflects varied water colors and mountain setting; Gokyo Lakes has stronger glacial and high-altitude distinction.. No approved 10.
 - Evidence: [Source](https://web.mid.tj/en/main/tajikistan/tourism) — Foreign ministry tourism overview identifies named destinations or regional context; page or excerpt inspected 2026-11-25. Individual claims not fully verified.
 - Remaining gaps: Independent factual, GPS (unless published reference), category and specialist peer verification.
+- Follow-up 2026-11-25: https://oxusroad.com/en/itineraries/fann-mountains/ and https://tajiktours.com/fann-mountains-trekking/ describe separate lake routes, road access to Seven Lakes and multi-day Fann trekking. Scores refer only to the named landscape or permitted route; individual lakes do not inherit the full mountain range's depth. Seasonal conditions and limited rescue provision remain relevant.
 
 ## sight-tj-iskanderkul-lake — Iskanderkul Lake — 2026-11-25
 
@@ -153,6 +159,7 @@
 - High-score challenge: Photography 9.5 reflects water clarity and close rugged relief; Gokyo has larger glacial landscape and significance.. No approved 10.
 - Evidence: [Source](https://web.mid.tj/en/main/tajikistan/tourism) — Foreign ministry tourism overview identifies named destinations or regional context; page or excerpt inspected 2026-11-25. Individual claims not fully verified.
 - Remaining gaps: Independent factual, GPS (unless published reference), category and specialist peer verification.
+- Follow-up 2026-11-25: https://oxusroad.com/en/itineraries/fann-mountains/ and https://tajiktours.com/fann-mountains-trekking/ describe separate lake routes, road access to Seven Lakes and multi-day Fann trekking. Scores refer only to the named landscape or permitted route; individual lakes do not inherit the full mountain range's depth. Seasonal conditions and limited rescue provision remain relevant.
 
 ## sight-tj-kulikalon-lakes — Kulikalon Lakes — 2026-11-25
 
@@ -172,6 +179,7 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Source](https://web.mid.tj/en/main/tajikistan/tourism) — Foreign ministry tourism overview identifies named destinations or regional context; page or excerpt inspected 2026-11-25. Individual claims not fully verified.
 - Remaining gaps: Independent factual, GPS (unless published reference), category and specialist peer verification.
+- Follow-up 2026-11-25: https://oxusroad.com/en/itineraries/fann-mountains/ and https://tajiktours.com/fann-mountains-trekking/ describe separate lake routes, road access to Seven Lakes and multi-day Fann trekking. Scores refer only to the named landscape or permitted route; individual lakes do not inherit the full mountain range's depth. Seasonal conditions and limited rescue provision remain relevant.
 
 ## sight-tj-sarez-lake — Sarez Lake — 2026-11-25
 
@@ -290,7 +298,7 @@
 ## sight-tj-proto-urban-site-of-sarazm — Proto-urban Site of Sarazm — 2026-11-25
 
 - [YAML](../../../countries/TJ/sights/proto-urban-site-of-sarazm.yaml) · Action: new · **source-linked-unverified**.
-- Scope: excavation shelters and archaeological precinct. GPS 39.508, 67.46: approximate editorial point, independent verification pending.
+- Scope: excavation shelters and archaeological precinct. GPS 39.507889, 67.458722: current published property point; UNESCO published DMS converted to decimal, not entrance.
 - Worldwide peers (I/U/S/E/D):
   - [Jerash Archaeological City (JO)](../../../countries/JO/sights/jerash-archaeological-city.yaml) — 9.5 / 9.3 / 9.5 / 9.4 / 9.3 (94.15/100); upper reference; Proto-urban Site of Sarazm has lower provisional uniqueness and lower depth (rare evidence of early Central Asian urbanization; several excavation areas).
   - [Tashkurgan Stone City (CN)](../../../countries/CN/sights/tashkurgan-stone-city.yaml) — 8.8 / 9.3 / 9.2 / 8.8 / 8.2 (89.45/100); related comparator; Proto-urban Site of Sarazm has lower provisional uniqueness and lower depth (rare evidence of early Central Asian urbanization; several excavation areas).
@@ -305,11 +313,12 @@
 - High-score challenge: Significance and history 9.5 reflect early settlement and extensive exchange evidence; standing remains and visitor breadth below Jerash.. No approved 10.
 - Evidence: [Source](https://whc.unesco.org/en/list/1141/) — UNESCO Sarazm description confirms early settlement and exchange history; page or excerpt inspected 2026-11-25. Individual claims not fully verified.
 - Remaining gaps: Independent factual, GPS (unless published reference), category and specialist peer verification.
+- Coordinate follow-up: https://whc.unesco.org/en/list/1141/maps/ (current published property point); previous 39.508, 67.46. Representative only.
 
 ## sight-tj-cultural-heritage-sites-of-ancient-khuttal — Cultural Heritage Sites of Ancient Khuttal — 2026-11-25
 
 - [YAML](../../../countries/TJ/sights/cultural-heritage-sites-of-ancient-khuttal.yaml) · Action: new · **unassessed**.
-- Scope: eleven inscribed components, representative Hulbuk area point. GPS 37.78, 69.65: approximate editorial point, independent verification pending.
+- Scope: eleven inscribed components, representative Hulbuk area point. GPS 37.777742, 69.556731: Kalai Hulbuk representative component; UNESCO published DMS converted to decimal, not entrance.
 - Worldwide peers (I/U/S/E/D):
   - [Jerash Archaeological City (JO)](../../../countries/JO/sights/jerash-archaeological-city.yaml) — 9.5 / 9.3 / 9.5 / 9.4 / 9.3 (94.15/100); upper reference; Cultural Heritage Sites of Ancient Khuttal has lower provisional uniqueness and unresolved depth (diverse medieval kingdom archaeology; depth unresolved).
   - [Tashkurgan Stone City (CN)](../../../countries/CN/sights/tashkurgan-stone-city.yaml) — 8.8 / 9.3 / 9.2 / 8.8 / 8.2 (89.45/100); related comparator; Cultural Heritage Sites of Ancient Khuttal has lower provisional uniqueness and unresolved depth (diverse medieval kingdom archaeology; depth unresolved).
@@ -324,11 +333,13 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Source](https://whc.unesco.org/en/list/1627/) — UNESCO 2025 Khuttal description identifies eleven components and reconstruction at Hulbuk and Ajina-Tepa; page or excerpt inspected 2026-11-25. Individual claims not fully verified.
 - Remaining gaps: Confirm safe permitted ordinary visitor routes and interpretation before completing scores.
+- Follow-up: https://whc.unesco.org/en/list/1627/maps/ confirms eleven components. Hulbuk and Ajinatepa are separate component records; ordinary access to all eleven remains unverified. Retain null visitor dimensions.
+- Coordinate follow-up: https://whc.unesco.org/en/list/1627/maps/ (Kalai Hulbuk representative component); previous 37.78, 69.65. Representative only.
 
 ## sight-tj-tugay-forests-of-tigrovaya-balka-nature-reserve — Tugay Forests of Tigrovaya Balka Nature Reserve — 2026-11-25
 
 - [YAML](../../../countries/TJ/sights/tugay-forests-of-tigrovaya-balka-nature-reserve.yaml) · Action: new · **unassessed**.
-- Scope: inscribed riparian forest reserve. GPS 37.3, 68.45: approximate editorial point, independent verification pending.
+- Scope: inscribed riparian forest reserve. GPS 37.204722, 68.341389: published property point; UNESCO published DMS converted to decimal, not entrance.
 - Worldwide peers (I/U/S/E/D):
   - [Sagarmatha National Park (NP)](../../../countries/NP/sights/sagarmatha-national-park.yaml) — 9.9 / 9.9 / 9.8 / 9.6 / 9.7 (98.15/100); upper reference; Tugay Forests of Tigrovaya Balka Nature Reserve has lower provisional uniqueness and unresolved depth (distinct floodplain forest ecosystem; depth unknown).
   - [Yading Nature Reserve (CN)](../../../countries/CN/sights/yading-nature-reserve.yaml) — 9.5 / 9.5 / 9.1 / 9.2 / 9.5 (93.75/100); related comparator; Tugay Forests of Tigrovaya Balka Nature Reserve has lower provisional uniqueness and unresolved depth (distinct floodplain forest ecosystem; depth unknown).
@@ -343,6 +354,7 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Source](https://whc.unesco.org/en/list/1685/) — UNESCO tugay forest property description; page or excerpt inspected 2026-11-25. Individual claims not fully verified.
 - Remaining gaps: Confirm safe permitted ordinary visitor routes and interpretation before completing scores.
+- Coordinate follow-up: https://whc.unesco.org/en/list/1685/maps/ (published property point); previous 37.3, 68.45. Representative only.
 
 ## sight-tj-silk-roads-zarafshan-karakum-corridor-tajik-components — Silk Roads Zarafshan-Karakum Corridor (Tajik Components) — 2026-11-25
 
@@ -537,7 +549,7 @@
 ## sight-tj-hulbuk-fortress-and-palace — Hulbuk Fortress and Palace — 2026-11-25
 
 - [YAML](../../../countries/TJ/sights/hulbuk-fortress-and-palace.yaml) · Action: new · **source-linked-unverified**.
-- Scope: individual Khuttal palace with reconstructed walls. GPS 37.78, 69.65: approximate editorial point, independent verification pending.
+- Scope: individual Khuttal palace with reconstructed walls. GPS 37.777742, 69.556731: Kalai Hulbuk component; UNESCO published DMS converted to decimal, not entrance.
 - Worldwide peers (I/U/S/E/D):
   - [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) — 9.1 / 9.1 / 9.3 / 9.4 / 8.9 (91.65/100); upper reference; Hulbuk Fortress and Palace has lower provisional uniqueness and lower depth (regional medieval royal complex; bounded precinct).
   - [Karak Castle (JO)](../../../countries/JO/sights/karak-castle.yaml) — 8.8 / 8.7 / 9.0 / 8.7 / 8.6 (87.80/100); related comparator; Hulbuk Fortress and Palace has lower provisional uniqueness and lower depth (regional medieval royal complex; bounded precinct).
@@ -552,11 +564,12 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Source](https://whc.unesco.org/en/list/1627/) — UNESCO 2025 Khuttal description identifies eleven components and reconstruction at Hulbuk and Ajina-Tepa; page or excerpt inspected 2026-11-25. Individual claims not fully verified.
 - Remaining gaps: Independent factual, GPS (unless published reference), category and specialist peer verification.
+- Coordinate follow-up: https://whc.unesco.org/en/list/1627/maps/ (Kalai Hulbuk component); previous 37.78, 69.65. Representative only.
 
 ## sight-tj-ajina-tepa-buddhist-monastery — Ajina-Tepa Buddhist Monastery — 2026-11-25
 
 - [YAML](../../../countries/TJ/sights/ajina-tepa-buddhist-monastery.yaml) · Action: new · **source-linked-unverified**.
-- Scope: individual Khuttal archaeological component also tentative-listed. GPS 37.83, 68.91: approximate editorial point, independent verification pending.
+- Scope: individual Khuttal archaeological component also tentative-listed. GPS 37.798067, 68.854436: Ajinatepa Buddhist monastery component; current inscribed map supersedes older tentative coordinates; UNESCO published DMS converted to decimal, not entrance.
 - Worldwide peers (I/U/S/E/D):
   - [Jerash Archaeological City (JO)](../../../countries/JO/sights/jerash-archaeological-city.yaml) — 9.5 / 9.3 / 9.5 / 9.4 / 9.3 (94.15/100); upper reference; Ajina-Tepa Buddhist Monastery has lower provisional uniqueness and lower depth (distinct Buddhist heritage in Central Asia; limited standing fabric).
   - [Tashkurgan Stone City (CN)](../../../countries/CN/sights/tashkurgan-stone-city.yaml) — 8.8 / 9.3 / 9.2 / 8.8 / 8.2 (89.45/100); related comparator; Ajina-Tepa Buddhist Monastery has lower provisional uniqueness and lower depth (distinct Buddhist heritage in Central Asia; limited standing fabric).
@@ -571,6 +584,7 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Source](https://whc.unesco.org/en/list/1627/) — UNESCO 2025 Khuttal description identifies eleven components and reconstruction at Hulbuk and Ajina-Tepa; page or excerpt inspected 2026-11-25. Individual claims not fully verified.
 - Remaining gaps: Independent factual, GPS (unless published reference), category and specialist peer verification.
+- Coordinate follow-up: https://whc.unesco.org/en/list/1627/maps/ (Ajinatepa Buddhist monastery component; current inscribed map supersedes older tentative coordinates); previous 37.83, 68.91. Representative only.
 
 ## sight-tj-hisor-fortress — Hisor Fortress — 2026-11-25
 
