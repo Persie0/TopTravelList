@@ -1,0 +1,15 @@
+id: sight-gh-national-museum-of-ghana
+name: "National Museum of Ghana"
+location:
+  country_code: GH
+  latitude: 5.558
+  longitude: -0.208
+scores:
+  impact: 7.4
+  uniqueness: 8.0
+  significance: 8.7
+  experience: 8.0
+  depth: 8.0
+  categories:
+    history: 9.0
+    culture: 8.9

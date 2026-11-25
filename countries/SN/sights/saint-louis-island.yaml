@@ -1,0 +1,16 @@
+id: sight-sn-saint-louis-island
+name: "Island of Saint-Louis"
+location:
+  country_code: SN
+  latitude: 16.02778
+  longitude: -16.504
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 9.2
+  experience: 8.7
+  depth: 8.6
+  categories:
+    architecture: 9.2
+    history: 9.3
+    culture: 8.8

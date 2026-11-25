@@ -1,0 +1,16 @@
+id: sight-cg-conkouati-douli-national-park
+name: "Conkouati-Douli National Park"
+location:
+  country_code: CG
+  latitude: -3.93
+  longitude: 11.46
+scores:
+  impact: 8.9
+  uniqueness: 9.1
+  significance: 9.2
+  experience: 8.6
+  depth: 8.8
+  categories:
+    nature: 9.4
+    wildlife: 9.5
+    adventure: 8.8

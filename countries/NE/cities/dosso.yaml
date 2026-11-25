@@ -1,0 +1,14 @@
+id: city-ne-dosso
+name: "Dosso"
+location:
+  country_code: NE
+  latitude: 13.049
+  longitude: 3.193
+scores:
+  impact: null
+  uniqueness: 7.3
+  significance: 7.3
+  experience: null
+  depth: null
+  categories:
+    history: 7.6

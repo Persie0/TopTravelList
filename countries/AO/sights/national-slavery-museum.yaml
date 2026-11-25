@@ -1,0 +1,15 @@
+id: sight-ao-national-slavery-museum
+name: "National Slavery Museum"
+location:
+  country_code: AO
+  latitude: -8.95887
+  longitude: 13.10496
+scores:
+  impact: 8.0
+  uniqueness: 8.8
+  significance: 9.3
+  experience: 8.5
+  depth: 7.7
+  categories:
+    history: 9.4
+    culture: 9.1

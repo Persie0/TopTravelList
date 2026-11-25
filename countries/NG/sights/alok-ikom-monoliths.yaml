@@ -1,0 +1,15 @@
+id: sight-ng-alok-ikom-monoliths
+name: "Alok Ikom Stone Monoliths"
+location:
+  country_code: NG
+  latitude: 6
+  longitude: 8.5
+scores:
+  impact: 8.1
+  uniqueness: 9.2
+  significance: 9.0
+  experience: null
+  depth: null
+  categories:
+    history: 9.2
+    culture: 9.1

@@ -1,0 +1,16 @@
+id: sight-ne-djado
+name: "Djado Plateau and Fortified Ruins"
+location:
+  country_code: NE
+  latitude: 21.02
+  longitude: 12.31
+scores:
+  impact: 8.9
+  uniqueness: 9.2
+  significance: 8.7
+  experience: null
+  depth: null
+  categories:
+    architecture: 8.9
+    history: 8.9
+    photography: 9.1

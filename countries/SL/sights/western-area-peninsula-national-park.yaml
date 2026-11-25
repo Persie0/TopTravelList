@@ -1,0 +1,15 @@
+id: sight-sl-western-area-peninsula-national-park
+name: "Western Area Peninsula National Park"
+location:
+  country_code: SL
+  latitude: 8.213889
+  longitude: -13.186667
+scores:
+  impact: 8.5
+  uniqueness: 8.7
+  significance: 9.1
+  experience: 8.1
+  depth: 8.4
+  categories:
+    nature: 9.2
+    wildlife: 9.1

@@ -1,0 +1,16 @@
+id: sight-lr-east-nimba-nature-reserve-proposed-mount-nimba-extension
+name: "East Nimba Nature Reserve (proposed Mount Nimba extension)"
+location:
+  country_code: LR
+  latitude: 7.45256
+  longitude: -8.54044
+scores:
+  impact: 8.8
+  uniqueness: 9.1
+  significance: 9.4
+  experience: 8.7
+  depth: 8.4
+  categories:
+    nature: 9.4
+    wildlife: 9.1
+    adventure: 8.9

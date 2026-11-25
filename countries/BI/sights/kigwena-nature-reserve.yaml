@@ -1,0 +1,15 @@
+id: sight-bi-kigwena-nature-reserve
+name: "Kigwena Nature Reserve"
+location:
+  country_code: BI
+  latitude: -4.09
+  longitude: 29.48
+scores:
+  impact: 7.7
+  uniqueness: 8.0
+  significance: 8.3
+  experience: 7.7
+  depth: 7.2
+  categories:
+    nature: 8.7
+    wildlife: 8.7

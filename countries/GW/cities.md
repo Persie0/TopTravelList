@@ -2,7 +2,7 @@
 
 # Guinea-Bissau (GW) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**13 ranked** · **0 unassessed** · **13 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,23 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (13)
 
-No cities, towns & villages have been assessed for **Guinea-Bissau** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Bolama](cities/bolama.yaml) | City / town | **80.15** | **History 8.7**, **Photography 8.7**, **Architecture 8.6** | 8.0 / 8.6 / 8.2 / 7.5 / 7.0 | [11.5776, -15.4742](https://www.google.com/maps/search/?api=1&query=11.5776,-15.4742) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bolama%2C%20Guinea-Bissau) |
+| 2 | [Cacheu](cities/cacheu.yaml) | City / town | **76.70** | **History 8.9**, **Culture 8.4**, **Photography 7.8** | 7.2 / 8.0 / 8.5 / 7.6 / 6.7 | [12.274444, -16.165278](https://www.google.com/maps/search/?api=1&query=12.274444,-16.165278) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cacheu%2C%20Guinea-Bissau) |
+| 3 | [Bissau](cities/bissau.yaml) | City / town | **76.65** | **Culture 8.5**, **History 8.4**, **Food 8.0** | 7.3 / 7.8 / 8.1 / 7.5 / 7.8 | [11.86, -15.5833](https://www.google.com/maps/search/?api=1&query=11.86,-15.5833) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bissau%2C%20Guinea-Bissau) |
+| 4 | [Eticoga Village (Orango)](cities/eticoga-village-orango.yaml) | Village | **74.45** | **Culture 8.8**, **History 8.2** | 7.0 / 8.3 / 7.8 / 7.4 / 6.0 | [11.12, -16.16](https://www.google.com/maps/search/?api=1&query=11.12,-16.16) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Eticoga%20Village%20%28Orango%29%2C%20Guinea-Bissau) |
+| 5 | [Bubaque Town](cities/bubaque-town.yaml) | Town | **73.25** | **Culture 8.3**, **Relaxation 8.2**, **Food 7.9** | 7.2 / 7.9 / 6.6 / 8.0 / 6.7 | [11.283333, -15.833333](https://www.google.com/maps/search/?api=1&query=11.283333,-15.833333) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bubaque%20Town%2C%20Guinea-Bissau) |
+| 6 | [Tabatô Village](cities/tabato-village.yaml) | Village | **72.05** | **Culture 8.9** | 6.2 / 8.3 / 7.7 / 7.6 / 5.9 | [12.23292, -14.55506](https://www.google.com/maps/search/?api=1&query=12.23292,-14.55506) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tabat%C3%B4%20Village%2C%20Guinea-Bissau) |
+| 7 | [Bafatá](cities/bafata.yaml) | City / town | **71.70** | **History 8.4**, **Culture 8.0** | 6.6 / 7.5 / 8.0 / 7.1 / 6.5 | [12.166, -14.662](https://www.google.com/maps/search/?api=1&query=12.166,-14.662) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bafat%C3%A1%2C%20Guinea-Bissau) |
+| 8 | [Gabú](cities/gabu.yaml) | City / town | **65.90** | **Culture 7.7**, **Food 7.6** | 5.9 / 7.0 / 7.0 / 6.8 / 6.5 | [12.28, -14.222222](https://www.google.com/maps/search/?api=1&query=12.28,-14.222222) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Gab%C3%BA%2C%20Guinea-Bissau) |
+| 9 | [Buba](cities/buba.yaml) | City / town | **65.80** | **Culture 7.5**, **Relaxation 7.5** | 6.2 / 7.0 / 6.5 / 7.0 / 6.2 | [11.59, -14.99](https://www.google.com/maps/search/?api=1&query=11.59,-14.99) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Buba%2C%20Guinea-Bissau) |
+| 10 | [Farim](cities/farim.yaml) | City / town | **65.40** | **Culture 7.7**, **History 7.6** | 6.0 / 7.0 / 7.0 / 6.6 / 6.0 | [12.483889, -15.221667](https://www.google.com/maps/search/?api=1&query=12.483889,-15.221667) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Farim%2C%20Guinea-Bissau) |
+| 11 | [Canchungo](cities/canchungo.yaml) | City / town | **64.75** | **Culture 7.6**, **Food 7.4** | 6.0 / 6.9 / 6.6 / 6.8 / 6.1 | [12.433333, -16.083333](https://www.google.com/maps/search/?api=1&query=12.433333,-16.083333) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Canchungo%2C%20Guinea-Bissau) |
+| 12 | [Catió](cities/catio.yaml) | City / town | **62.65** | **Culture 7.3**, **History 7.2** | 5.7 / 6.6 / 6.7 / 6.5 / 5.9 | [11.2825, -15.254722](https://www.google.com/maps/search/?api=1&query=11.2825,-15.254722) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cati%C3%B3%2C%20Guinea-Bissau) |
+| 13 | [São Domingos](cities/sao-domingos.yaml) | City / town | **60.65** | **Culture 7.2** | 5.5 / 6.4 / 6.3 / 6.5 / 5.8 | [12.4055, -16.19671](https://www.google.com/maps/search/?api=1&query=12.4055,-16.19671) | [Google Maps](https://www.google.com/maps/search/?api=1&query=S%C3%A3o%20Domingos%2C%20Guinea-Bissau) |
 
 ---
 

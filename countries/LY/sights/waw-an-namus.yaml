@@ -1,0 +1,15 @@
+id: sight-ly-waw-an-namus
+name: "Waw an Namus Volcanic Field"
+location:
+  country_code: LY
+  latitude: 24.906
+  longitude: 17.772
+scores:
+  impact: 9.1
+  uniqueness: 9.3
+  significance: 8.5
+  experience: null
+  depth: null
+  categories:
+    nature: 9.3
+    photography: 9.4

@@ -1,0 +1,16 @@
+id: sight-sl-river-number-two-beach
+name: "River Number Two Beach"
+location:
+  country_code: SL
+  latitude: 8.325
+  longitude: -13.235
+scores:
+  impact: 8.9
+  uniqueness: 8.4
+  significance: 6.5
+  experience: 8.8
+  depth: 7.5
+  categories:
+    beaches: 9.4
+    relaxation: 9.1
+    photography: 9.2

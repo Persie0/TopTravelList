@@ -1,0 +1,15 @@
+id: sight-sn-carabane-island
+name: "Carabane Island"
+location:
+  country_code: SN
+  latitude: 12.488722
+  longitude: -16.548167
+scores:
+  impact: 8.1
+  uniqueness: 8.5
+  significance: 8.6
+  experience: 8.3
+  depth: 8.1
+  categories:
+    history: 8.8
+    nature: 8.5

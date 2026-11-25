@@ -1,0 +1,15 @@
+id: city-sd-suakin
+name: "Suakin"
+location:
+  country_code: SD
+  latitude: 19.1
+  longitude: 37.3333
+scores:
+  impact: 7.9
+  uniqueness: 8.6
+  significance: 8.5
+  experience: 7.5
+  depth: 7.3
+  categories:
+    history: 8.8
+    architecture: 8.5

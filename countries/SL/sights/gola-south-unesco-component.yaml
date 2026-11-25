@@ -1,0 +1,16 @@
+id: sight-sl-gola-south-unesco-component
+name: "Gola South (UNESCO component)"
+location:
+  country_code: SL
+  latitude: 7.366667
+  longitude: -11.2
+scores:
+  impact: 8.4
+  uniqueness: 8.8
+  significance: 9.1
+  experience: 8.5
+  depth: 7.9
+  categories:
+    nature: 9.1
+    wildlife: 9.2
+    adventure: 8.7

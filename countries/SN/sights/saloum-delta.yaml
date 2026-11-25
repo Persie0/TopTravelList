@@ -1,0 +1,16 @@
+id: sight-sn-saloum-delta
+name: "Saloum Delta"
+location:
+  country_code: SN
+  latitude: 13.835278
+  longitude: -16.498611
+scores:
+  impact: 9.1
+  uniqueness: 9.3
+  significance: 9.4
+  experience: 9.0
+  depth: 9.1
+  categories:
+    nature: 9.4
+    wildlife: 9.1
+    culture: 9.2

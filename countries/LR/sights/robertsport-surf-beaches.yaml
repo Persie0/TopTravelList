@@ -1,0 +1,16 @@
+id: sight-lr-robertsport-surf-beaches
+name: "Robertsport Surf Beaches"
+location:
+  country_code: LR
+  latitude: 6.75
+  longitude: -11.37
+scores:
+  impact: 8.5
+  uniqueness: 8.3
+  significance: 6.3
+  experience: 9.0
+  depth: 7.8
+  categories:
+    beaches: 9.0
+    adventure: 9.3
+    relaxation: 8.7

@@ -2,7 +2,7 @@
 
 # Central African Republic (CF) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**2 ranked** · **8 unassessed** · **10 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,27 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (2)
 
-No cities, towns & villages have been assessed for **Central African Republic** yet.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Bangui](cities/bangui.yaml) | City / town | **73.35** | **Culture 8.2**, **History 8.2**, **Food 7.6** | 6.9 / 7.5 / 7.9 / 7.2 / 7.3 | [4.361, 18.555](https://www.google.com/maps/search/?api=1&query=4.361,18.555) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bangui%2C%20Central%20African%20Republic) |
+| 2 | [Bayanga](cities/bayanga.yaml) | City / town | **68.70** | **Culture 8.0** | 6.3 / 7.7 / 6.9 / 7.3 / 5.8 | [2.92, 16.25](https://www.google.com/maps/search/?api=1&query=2.92,16.25) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bayanga%2C%20Central%20African%20Republic) |
 
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+## Not yet fully assessed (8)
+
+These destinations have no rank until all five core scores are assessed.
+
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| — | [Bambari](cities/bambari.yaml) | City / town | **—** | **Culture 7.6**, **History 7.6** | — / 7.0 / 7.1 / — / — | [5.77, 20.68](https://www.google.com/maps/search/?api=1&query=5.77,20.68) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bambari%2C%20Central%20African%20Republic) |
+| — | [Bangassou](cities/bangassou.yaml) | City / town | **—** | **History 8.0**, **Culture 7.9** | — / 7.4 / 7.5 / — / — | [4.74, 22.82](https://www.google.com/maps/search/?api=1&query=4.74,22.82) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bangassou%2C%20Central%20African%20Republic) |
+| — | [Berbérati](cities/berberati.yaml) | City / town | **—** | **Culture 7.5** | — / 6.9 / 6.8 / — / — | [4.26, 15.79](https://www.google.com/maps/search/?api=1&query=4.26,15.79) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Berb%C3%A9rati%2C%20Central%20African%20Republic) |
+| — | [Boali](cities/boali.yaml) | City / town | **—** | **Culture 7.3** | — / 6.7 / 6.7 / — / — | [4.8, 18.13](https://www.google.com/maps/search/?api=1&query=4.8,18.13) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Boali%2C%20Central%20African%20Republic) |
+| — | [Bouar](cities/bouar.yaml) | City / town | **—** | **History 8.0**, **Culture 7.9** | — / 7.3 / 7.5 / — / — | [5.934, 15.596](https://www.google.com/maps/search/?api=1&query=5.934,15.596) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bouar%2C%20Central%20African%20Republic) |
+| — | [Mbaïki](cities/mbaiki.yaml) | City / town | **—** | **Culture 7.7** | — / 7.1 / 6.9 / — / — | [3.87, 18.0](https://www.google.com/maps/search/?api=1&query=3.87,18.0) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mba%C3%AFki%2C%20Central%20African%20Republic) |
+| — | [Ndélé](cities/ndele.yaml) | City / town | **—** | **History 9.1**, **Culture 8.5** | — / 8.2 / 8.8 / — / — | [8.4, 20.65](https://www.google.com/maps/search/?api=1&query=8.4,20.65) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nd%C3%A9l%C3%A9%2C%20Central%20African%20Republic) |
+| — | [Zinga](cities/zinga.yaml) | City / town | **—** | **History 8.3**, **Architecture 8.2** | — / 7.9 / 7.7 / — / — | [3.71418, 18.58648](https://www.google.com/maps/search/?api=1&query=3.71418,18.58648) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Zinga%2C%20Central%20African%20Republic) |
 
 ---
 

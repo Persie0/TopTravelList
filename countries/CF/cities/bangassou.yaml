@@ -1,0 +1,15 @@
+id: city-cf-bangassou
+name: "Bangassou"
+location:
+  country_code: CF
+  latitude: 4.74
+  longitude: 22.82
+scores:
+  impact: null
+  uniqueness: 7.4
+  significance: 7.5
+  experience: null
+  depth: null
+  categories:
+    history: 8.0
+    culture: 7.9

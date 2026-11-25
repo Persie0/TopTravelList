@@ -1,0 +1,16 @@
+id: city-sn-dakar
+name: "Dakar"
+location:
+  country_code: SN
+  latitude: 14.6937
+  longitude: -17.4441
+scores:
+  impact: 8.5
+  uniqueness: 8.7
+  significance: 8.8
+  experience: 8.8
+  depth: 9.0
+  categories:
+    culture: 9.1
+    food: 8.8
+    nightlife: 8.7

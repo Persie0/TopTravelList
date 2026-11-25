@@ -1,0 +1,16 @@
+id: city-sl-bonthe
+name: "Bonthe"
+location:
+  country_code: SL
+  latitude: 7.526
+  longitude: -12.506
+scores:
+  impact: 7.6
+  uniqueness: 8.2
+  significance: 8.2
+  experience: 7.4
+  depth: 6.7
+  categories:
+    history: 8.6
+    architecture: 8.2
+    culture: 8.2
