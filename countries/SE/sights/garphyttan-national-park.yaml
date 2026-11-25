@@ -1,0 +1,15 @@
+id: sight-se-garphyttan-national-park
+name: "Garphyttan National Park"
+location:
+  country_code: SE
+  latitude: 59.31
+  longitude: 14.9
+scores:
+  impact: 7.3
+  uniqueness: 7.6
+  significance: 7.6
+  experience: 7.8
+  depth: 7.1
+  categories:
+    nature: 8.3
+    relaxation: 8

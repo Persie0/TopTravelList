@@ -1,0 +1,18 @@
+id: city-se-stockholm
+name: "Stockholm"
+location:
+  country_code: SE
+  latitude: 59.3293
+  longitude: 18.0686
+scores:
+  impact: 9.3
+  uniqueness: 9.2
+  significance: 9.2
+  experience: 9.4
+  depth: 9.5
+  categories:
+    architecture: 9.4
+    culture: 9.3
+    history: 9.3
+    food: 8.9
+    photography: 9.4
