@@ -24,6 +24,15 @@
 - Galle Fort (Sri Lanka): more extensive fortified fabric
 - Lapaha Royal Tombs (Tonga): different regional historical heritage
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from current worldwide YAML; editorial comparisons only. Original qualitative context retained.
+
+- [hoi an ancient town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) — 9.3/9.5/9.3/9.5/9.2; Larger preserved mercantile town, greater urban visitor breadth.
+- [galle old town and fortifications (LK)](../../../countries/LK/sights/galle-old-town-and-fortifications.yaml) — 9.1/9.2/9.4/9.2/9.0; More extensive historic fortifications and streets.
+- [porto historic centre (PT)](../../../countries/PT/sights/porto-historic-centre.yaml) — 9.3/9.2/9.2/9.3/9.2; Greater architectural and urban landscape scale.
+- [lapaha royal tombs (TO)](../../../countries/TO/sights/lapaha-royal-tombs.yaml) — 8.0/8.8/9.0/7.2/7.8; Comparable Pacific heritage significance, different chiefly rather than mercantile history.
+
 ### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
@@ -59,6 +68,15 @@
 - Dune du Pilat (France): greater single-dune drama
 - K'gari (Australia): wider sand-island ecosystem
 - Ha'amonga 'a Maui (Tonga): different focused Pacific archaeological heritage
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from current worldwide YAML; editorial comparisons only. Original qualitative context retained.
+
+- [dune pilat (FR)](../../../countries/FR/sights/dune-pilat.yaml) — 9.3/9.2/8.6/9.0/8.1; Stronger individual dune drama, similar significance but different archaeological context.
+- [sossusvlei (NA)](../../../countries/NA/sights/sossusvlei.yaml) — 9.8/9.7/9.2/9.5/9.1; Much greater desert scenery and geological scale.
+- [sam sand dunes (IN)](../../../countries/IN/sights/sam-sand-dunes.yaml) — 8.5/8.0/6.7/8.6/8.0; Comparable focused dune experience, Sigatoka stronger archaeological significance.
+- [haamonga a maui (TO)](../../../countries/TO/sights/haamonga-a-maui.yaml) — 8.0/8.8/8.8/7.7/6.9; Comparable Pacific archaeological interest, different physical landscape.
 
 ### Scoring decisions
 | Field | Rating | Rationale |
@@ -96,6 +114,17 @@
 - Khao Sok (Thailand): broader demonstrated visitor experience
 - Eua National Park (Tonga): comparable regional island forest
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from current worldwide YAML; editorial comparisons only. Original qualitative context retained.
+
+- [taman negara national park (MY)](../../../countries/MY/sights/taman-negara-national-park.yaml) — 9.0/9.1/9.0/8.9/9.2; Much broader established rainforest visit.
+- [kinabalu park (MY)](../../../countries/MY/sights/kinabalu-park.yaml) — 9.4/9.5/9.5/9.2/9.3; Exceptional montane ecology and documented trails.
+- [khao sok national park (TH)](../../../countries/TH/sights/khao-sok-national-park.yaml) — 9.4/9.4/9.1/9.4/9.3; More varied scenic terrain and established visitor experience.
+- [eua national park (TO)](../../../countries/TO/sights/eua-national-park.yaml) — 8.3/8.2/8.1/8.4/8.1; Closer Pacific island forest peer with documented recreation.
+
+Conservation importance does not establish a visit. Keep experience and depth null because public recreation is not established.
+
 ### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
@@ -131,6 +160,17 @@
 - Komodo National Park (Indonesia): larger reptile-focused ecosystem
 - Cousin Island Special Reserve (Seychelles): comparable small-island conservation
 - Tetepare Island (Solomon Islands): broader documented community ecotourism
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from current worldwide YAML; editorial comparisons only. Original qualitative context retained.
+
+- [komodo national park (ID)](../../../countries/ID/sights/komodo-national-park.yaml) — 9.8/9.9/9.7/9.6/9.6; Far broader reptile habitat and visitor landscape.
+- [cousin island special reserve (SC)](../../../countries/SC/sights/cousin-island-special-reserve.yaml) — 8.1/9.1/9.0/8.5/7.6; Close small-island conservation peer with established controlled visits.
+- [eua national park (TO)](../../../countries/TO/sights/eua-national-park.yaml) — 8.3/8.2/8.1/8.4/8.1; Regional terrestrial protected habitat, not equivalent reptile endemism.
+- [rock islands southern lagoon (PW)](../../../countries/PW/sights/rock-islands-southern-lagoon.yaml) — 9.5/9.5/9.3/9.4/9.3; Broader island conservation landscape with documented visitation.
+
+Endemism and conservation significance do not establish observable wildlife or access. Retain impact, experience and depth null.
 
 ### Scoring decisions
 | Field | Rating | Rationale |
@@ -168,6 +208,17 @@
 - Blue Corner (Palau): concentrated specialist wildlife diving
 - Marovo Lagoon (Solomon Islands): comparable large reef-associated seascape
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from current worldwide YAML; editorial comparisons only. Original qualitative context retained.
+
+- [misool marine reserve (ID)](../../../countries/ID/sights/misool-marine-reserve.yaml) — 9.6/9.6/9.1/9.5/9.4; Greater marine biodiversity and reef landscape breadth.
+- [sipadan island reefs (MY)](../../../countries/MY/sights/sipadan-island-reefs.yaml) — 9.5/9.6/9.1/9.5/8.9; Stronger exceptional underwater encounters and formations.
+- [blue corner (PW)](../../../countries/PW/sights/blue-corner.yaml) — 9.3/9.0/8.3/9.3/8.6; Focused specialist wildlife dive, Rainbow has greater multi-site reef scope.
+- [apo reef (PH)](../../../countries/PH/sights/apo-reef.yaml) — 9.0/8.8/8.9/8.8/8.5; Comparable reef conservation and diving, Rainbow distinctive soft-coral experience.
+
+90+ challenge: 90.35 remains below Misool and Sipadan overall; soft-coral spectacle and multiple reef sites support impact and experience without claiming world-leading biodiversity or guaranteed wildlife encounters.
+
 ### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
@@ -203,6 +254,17 @@
 - Raja Ampat (Indonesia): broader marine biodiversity
 - Blue Corner (Palau): concentrated specialist wildlife diving
 - Marovo Lagoon (Solomon Islands): comparable large reef-associated seascape
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from current worldwide YAML; editorial comparisons only. Original qualitative context retained.
+
+- [misool marine reserve (ID)](../../../countries/ID/sights/misool-marine-reserve.yaml) — 9.6/9.6/9.1/9.5/9.4; Stronger marine biodiversity and documented dive experience.
+- [sipadan island reefs (MY)](../../../countries/MY/sights/sipadan-island-reefs.yaml) — 9.5/9.6/9.1/9.5/8.9; More exceptional concentrated underwater encounters.
+- [apo reef (PH)](../../../countries/PH/sights/apo-reef.yaml) — 9.0/8.8/8.9/8.8/8.5; Comparable large reef conservation and diving scope.
+- [rock islands southern lagoon (PW)](../../../countries/PW/sights/rock-islands-southern-lagoon.yaml) — 9.5/9.5/9.3/9.4/9.3; Broader land-sea landscape and heritage, Astrolabe focused barrier reef.
+
+90+ challenge: 90.05 reflects barrier-reef breadth and ecological importance, not all of Kadavu or a guaranteed diving experience; it remains below Misool and Sipadan.
 
 ### Scoring decisions
 | Field | Rating | Rationale |
@@ -240,6 +302,15 @@
 - Blue Corner (Palau): concentrated specialist wildlife diving
 - Marovo Lagoon (Solomon Islands): comparable large reef-associated seascape
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from current worldwide YAML; editorial comparisons only. Original qualitative context retained.
+
+- [misool marine reserve (ID)](../../../countries/ID/sights/misool-marine-reserve.yaml) — 9.6/9.6/9.1/9.5/9.4; Greater coral biodiversity and underwater breadth.
+- [sipadan island reefs (MY)](../../../countries/MY/sights/sipadan-island-reefs.yaml) — 9.5/9.6/9.1/9.5/8.9; More exceptional diverse marine encounters.
+- [blue corner (PW)](../../../countries/PW/sights/blue-corner.yaml) — 9.3/9.0/8.3/9.3/8.6; Stronger concentrated specialist wildlife experience, narrower site.
+- [apo reef (PH)](../../../countries/PH/sights/apo-reef.yaml) — 9.0/8.8/8.9/8.8/8.5; Stronger reef conservation significance, comparable dive experience.
+
 ### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
@@ -276,6 +347,15 @@
 - To Sua Ocean Trench (Samoa): different dramatic swimming feature
 - Piula Cave Pool (Samoa): smaller cave pool
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from current worldwide YAML; editorial comparisons only. Original qualitative context retained.
+
+- [son doong cave (VN)](../../../countries/VN/sights/son-doong-cave.yaml) — 9.9/9.9/9.6/9.0/9.2; World-leading underground scale and geological significance.
+- [phraya nakhon cave (TH)](../../../countries/TH/sights/phraya-nakhon-cave.yaml) — 8.9/9.2/8.6/9.1/7.7; Distinct pavilion and light shaft, different visitor experience.
+- [to sua ocean trench (WS)](../../../countries/WS/sights/to-sua-ocean-trench.yaml) — 9.1/9.0/7.4/9.0/7.5; More dramatic collapse pool setting.
+- [piula cave pool (WS)](../../../countries/WS/sights/piula-cave-pool.yaml) — 7.9/8.0/6.8/8.0/6.8; Smaller focused cave swimming feature.
+
 ### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
@@ -310,6 +390,15 @@
 - Kuang Si Falls (Laos): stronger layered turquoise pools
 - Erawan Falls (Thailand): broader multi-tier exploration
 - Tenaru Waterfall (Solomon Islands): narrower cascade
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from current worldwide YAML; editorial comparisons only. Original qualitative context retained.
+
+- [iguazu falls argentine circuits (AR)](../../../countries/AR/sights/iguazu-falls-argentine-circuits.yaml) — 9.9/9.8/9.2/9.6/8.6; World-leading waterfall scale.
+- [kuang si waterfalls (LA)](../../../countries/LA/sights/kuang-si-waterfalls.yaml) — 9.4/9.2/8.0/9.3/8.6; More distinctive turquoise terraces and broader visit.
+- [erawan waterfalls (TH)](../../../countries/TH/sights/erawan-waterfalls.yaml) — 8.7/8.7/7.1/9.0/8.0; More extensive tiered pool exploration.
+- [afu aau waterfall (WS)](../../../countries/WS/sights/afu-aau-waterfall.yaml) — 8.1/7.4/6.6/8.2/7.0; Close tropical forest cascade, Tavoro has multiple falls.
 
 ### Scoring decisions
 | Field | Rating | Rationale |
@@ -347,6 +436,15 @@
 - Kirstenbosch (South Africa): richer native plant interpretation
 - Eneio Botanical Garden (Tonga): comparable regional garden
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from current worldwide YAML; editorial comparisons only. Original qualitative context retained.
+
+- [kew gardens (GB)](../../../countries/GB/sights/kew-gardens.yaml) — 8.9/9.1/9.4/9.2/9.3; Much greater scientific and collection breadth.
+- [singapore botanic gardens (SG)](../../../countries/SG/sights/singapore-botanic-gardens.yaml) — 9.1/9.2/9.4/9.2/9.3; Broader heritage and botanical interpretation.
+- [perdana botanical garden (MY)](../../../countries/MY/sights/perdana-botanical-garden.yaml) — 7.8/7.5/7.4/8.4/8.2; Comparable cultivated garden leisure, broader urban park.
+- [eneio botanical garden (TO)](../../../countries/TO/sights/eneio-botanical-garden.yaml) — 7.7/7.8/7.4/7.9/7.5; Closer Pacific garden scope, similar focused experience.
+
 ### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
@@ -381,6 +479,15 @@
 - Kunsthistorisches Museum (Austria): greater art collections
 - National Museum of Cambodia (Cambodia): larger archaeological sculpture corpus
 - Alele Museum (Marshall Islands): comparable Pacific museum with smaller scope
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from current worldwide YAML; editorial comparisons only. Original qualitative context retained.
+
+- [national museum of korea (KR)](../../../countries/KR/sights/national-museum-of-korea.yaml) — 9.1/9.3/9.4/9.3/9.6; Far larger collection and interpretation.
+- [kunsthistorisches museum (AT)](../../../countries/AT/sights/kunsthistorisches-museum.yaml) — 9.2/9.4/9.6/9.4/9.5; World-leading art and architecture.
+- [national museum cambodia (KH)](../../../countries/KH/sights/national-museum-cambodia.yaml) — 8.8/9.1/9.3/9.1/8.8; Greater archaeological corpus.
+- [alele museum (MH)](../../../countries/MH/sights/alele-museum.yaml) — 6.9/8.1/8.1/7.3/7.0; Closer Pacific museum, Fiji has greater collection breadth.
 
 ### Scoring decisions
 | Field | Rating | Rationale |
@@ -418,6 +525,15 @@
 - Sri Mahamariamman Temple (Malaysia): similar urban temple context
 - Airai Bai (Palau): different focused regional cultural architecture
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from current worldwide YAML; editorial comparisons only. Original qualitative context retained.
+
+- [meenakshi amman temple (IN)](../../../countries/IN/sights/meenakshi-amman-temple.yaml) — 9.8/9.9/9.8/9.8/9.4; World-leading monumental South Indian temple scope.
+- [sri mariamman temple (SG)](../../../countries/SG/sights/sri-mariamman-temple.yaml) — 8.2/8.4/8.5/8.4/7.5; Comparable diaspora Hindu temple, greater historical significance.
+- [sri mahamariamman temple kuala lumpur (MY)](../../../countries/MY/sights/sri-mahamariamman-temple-kuala-lumpur.yaml) — 7.9/8.2/8.1/8.3/7.2; Close urban temple peer, similar focused visit.
+- [airai bai (PW)](../../../countries/PW/sights/airai-bai.yaml) — 7.7/8.7/8.6/7.7/7.3; Different customary cultural architecture of comparable compact scale.
+
 ### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
@@ -453,6 +569,15 @@
 - Anse Source d'Argent (Seychelles): more distinctive granite forms
 - Nacpan Beach (Philippines): comparable long tropical coast
 - Champagne Beach (Vanuatu): comparable tropical sand and water
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from current worldwide YAML; editorial comparisons only. Original qualitative context retained.
+
+- [railay beach (TH)](../../../countries/TH/sights/railay-beach.yaml) — 8.9/9.0/7.5/9.2/8.3; Greater dramatic relief and activity range.
+- [anse source d argent (SC)](../../../countries/SC/sights/anse-source-d-argent.yaml) — 9.8/9.7/7.8/9.2/7.6; Globally distinctive granite scenery.
+- [white beach boracay (PH)](../../../countries/PH/sights/white-beach-boracay.yaml) — 9.1/8.4/6.8/9.0/7.5; Longer and more developed beach leisure.
+- [champagne beach (VU)](../../../countries/VU/sights/champagne-beach.yaml) — 8.6/7.8/6.4/8.7/7.1; Close tropical sand-and-water peer, similarly focused visit.
 
 ### Scoring decisions
 | Field | Rating | Rationale |
