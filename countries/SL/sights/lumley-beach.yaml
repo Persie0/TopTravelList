@@ -1,0 +1,16 @@
+id: sight-sl-lumley-beach
+name: "Lumley Beach"
+location:
+  country_code: SL
+  latitude: 8.47
+  longitude: -13.29
+scores:
+  impact: 7.7
+  uniqueness: 7.2
+  significance: 6.0
+  experience: 8.4
+  depth: 7.4
+  categories:
+    beaches: 8.4
+    relaxation: 8.4
+    food: 8.2
