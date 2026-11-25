@@ -1,0 +1,15 @@
+id: sight-er-church-of-our-lady-of-the-rosary-asmara
+name: "Church of Our Lady of the Rosary (Asmara)"
+location:
+  country_code: ER
+  latitude: 15.337
+  longitude: 38.938
+scores:
+  impact: 8.1
+  uniqueness: 8.1
+  significance: 8.4
+  experience: 8.0
+  depth: 7.0
+  categories:
+    architecture: 8.9
+    history: 8.6

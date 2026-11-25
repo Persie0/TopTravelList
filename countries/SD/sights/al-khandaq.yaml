@@ -1,0 +1,15 @@
+id: sight-sd-al-khandaq
+name: "Al Khandaq Historic Village"
+location:
+  country_code: SD
+  latitude: 18.61955
+  longitude: 30.565167
+scores:
+  impact: null
+  uniqueness: 8.4
+  significance: 8.6
+  experience: null
+  depth: null
+  categories:
+    history: 8.8
+    architecture: 8.5

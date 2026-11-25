@@ -1,0 +1,14 @@
+id: city-td-am-timan
+name: "Am Timan"
+location:
+  country_code: TD
+  latitude: 11.04
+  longitude: 20.28
+scores:
+  impact: null
+  uniqueness: 6.6
+  significance: 6.6
+  experience: null
+  depth: null
+  categories:
+    culture: 7.2

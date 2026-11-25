@@ -1,0 +1,16 @@
+id: sight-sd-naqa
+name: "Naqa Temple Complex"
+location:
+  country_code: SD
+  latitude: 16.270833
+  longitude: 33.279167
+scores:
+  impact: 9.1
+  uniqueness: 9.4
+  significance: 9.4
+  experience: 8.7
+  depth: 8.5
+  categories:
+    architecture: 9.4
+    history: 9.5
+    photography: 9.3

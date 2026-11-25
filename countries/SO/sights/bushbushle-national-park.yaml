@@ -1,0 +1,15 @@
+id: sight-so-bushbushle-national-park
+name: "Bushbushle National Park (Lag Badana)"
+location:
+  country_code: SO
+  latitude: -1.39
+  longitude: 41.59
+scores:
+  impact: null
+  uniqueness: 8.9
+  significance: 9.0
+  experience: null
+  depth: null
+  categories:
+    nature: 9.1
+    wildlife: 9.0

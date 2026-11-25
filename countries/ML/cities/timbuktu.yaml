@@ -1,0 +1,16 @@
+id: city-ml-timbuktu
+name: "Timbuktu"
+location:
+  country_code: ML
+  latitude: 16.77348
+  longitude: -3.00742
+scores:
+  impact: 8.5
+  uniqueness: 9.4
+  significance: 9.6
+  experience: 8.0
+  depth: 8.1
+  categories:
+    history: 9.7
+    culture: 9.4
+    architecture: 8.9

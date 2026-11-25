@@ -1,0 +1,16 @@
+id: sight-gq-corisco-island-mandji
+name: "Corisco Island (Mandji)"
+location:
+  country_code: GQ
+  latitude: 0.925
+  longitude: 9.30
+scores:
+  impact: 8.5
+  uniqueness: 8.5
+  significance: 8.2
+  experience: 8.3
+  depth: 7.9
+  categories:
+    nature: 8.9
+    beaches: 9.2
+    relaxation: 8.8

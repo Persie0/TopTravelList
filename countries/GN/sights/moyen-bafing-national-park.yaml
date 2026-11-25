@@ -1,0 +1,15 @@
+id: sight-gn-moyen-bafing-national-park
+name: "Moyen-Bafing National Park"
+location:
+  country_code: GN
+  latitude: 11.6
+  longitude: -11.4
+scores:
+  impact: null
+  uniqueness: 8.8
+  significance: 9.3
+  experience: null
+  depth: null
+  categories:
+    nature: 9.4
+    wildlife: 9.4

@@ -1,0 +1,15 @@
+id: sight-cm-rey-bouba-palace
+name: "Lamidat of Rey-Bouba"
+location:
+  country_code: CM
+  latitude: 8.6724
+  longitude: 14.1786
+scores:
+  impact: 8.4
+  uniqueness: 8.9
+  significance: 8.9
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.1
+    history: 9.0

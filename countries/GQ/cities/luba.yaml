@@ -1,0 +1,16 @@
+id: city-gq-luba
+name: "Luba"
+location:
+  country_code: GQ
+  latitude: 3.46
+  longitude: 8.55
+scores:
+  impact: 6.9
+  uniqueness: 7.5
+  significance: 7.2
+  experience: 7.4
+  depth: 6.4
+  categories:
+    culture: 7.8
+    history: 7.7
+    photography: 7.9

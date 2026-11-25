@@ -1,0 +1,16 @@
+id: sight-bi-lake-rwihinda-bird-lake
+name: "Lake Rwihinda (Bird Lake)"
+location:
+  country_code: BI
+  latitude: -2.539444
+  longitude: 30.054167
+scores:
+  impact: 7.9
+  uniqueness: 8.2
+  significance: 8.4
+  experience: 8.0
+  depth: 7.4
+  categories:
+    wildlife: 8.9
+    nature: 8.6
+    photography: 8.2

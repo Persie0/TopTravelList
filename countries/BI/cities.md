@@ -2,7 +2,7 @@
 
 # Burundi (BI) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**12 ranked** · **0 unassessed** · **12 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,22 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (12)
 
-No cities, towns & villages have been assessed for **Burundi** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Bujumbura](cities/bujumbura.yaml) | City / town | **75.50** | **Culture 8.1**, **Relaxation 8.1**, **Food 8.0** | 7.2 / 7.6 / 7.7 / 7.8 / 7.8 | [-3.381928, 29.36142](https://www.google.com/maps/search/?api=1&query=-3.381928,29.36142) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bujumbura%2C%20Burundi) |
+| 2 | [Gitega](cities/gitega.yaml) | City / town | **72.55** | **History 8.5**, **Culture 8.2** | 6.6 / 7.5 / 8.2 / 7.2 / 6.8 | [-3.427077, 29.924628](https://www.google.com/maps/search/?api=1&query=-3.427077,29.924628) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Gitega%2C%20Burundi) |
+| 3 | [Rumonge](cities/rumonge.yaml) | City / town | **70.90** | **Relaxation 8.0**, **Culture 7.8**, **Food 7.8** | 7.0 / 7.6 / 6.6 / 7.6 / 6.3 | [-3.9736, 29.4386](https://www.google.com/maps/search/?api=1&query=-3.9736,29.4386) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Rumonge%2C%20Burundi) |
+| 4 | [Muramvya](cities/muramvya.yaml) | City / town | **67.20** | **Culture 7.9**, **History 7.9** | 6.0 / 7.2 / 7.5 / 6.8 / 6.0 | [-3.26775757, 29.61620489](https://www.google.com/maps/search/?api=1&query=-3.26775757,29.61620489) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Muramvya%2C%20Burundi) |
+| 5 | [Kayanza](cities/kayanza.yaml) | City / town | **65.95** | **Food 7.7**, **Culture 7.6** | 6.1 / 7.1 / 6.5 / 7.2 / 6.1 | [-2.9221, 29.6293](https://www.google.com/maps/search/?api=1&query=-2.9221,29.6293) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kayanza%2C%20Burundi) |
+| 6 | [Bururi](cities/bururi.yaml) | City / town | **65.45** | **Relaxation 7.6**, **Culture 7.4** | 6.2 / 6.8 / 6.6 / 7.1 / 6.0 | [-3.9487727, 29.6243763](https://www.google.com/maps/search/?api=1&query=-3.9487727,29.6243763) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bururi%2C%20Burundi) |
+| 7 | [Ngozi](cities/ngozi.yaml) | City / town | **65.10** | **Food 7.5**, **Culture 7.3** | 6.0 / 6.6 / 6.8 / 7.0 / 6.5 | [-2.9075, 29.8306](https://www.google.com/maps/search/?api=1&query=-2.9075,29.8306) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ngozi%2C%20Burundi) |
+| 8 | [Kirundo](cities/kirundo.yaml) | City / town | **64.65** | **Culture 7.3**, **Relaxation 7.3** | 6.0 / 7.0 / 6.4 / 6.9 / 6.0 | [-2.5845, 30.0959](https://www.google.com/maps/search/?api=1&query=-2.5845,30.0959) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kirundo%2C%20Burundi) |
+| 9 | [Makamba](cities/makamba.yaml) | City / town | **62.65** | **Food 7.3**, **Culture 7.2** | 5.8 / 6.5 / 6.4 / 6.8 / 6.0 | [-4.1348, 29.804](https://www.google.com/maps/search/?api=1&query=-4.1348,29.804) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Makamba%2C%20Burundi) |
+| 10 | [Muyinga](cities/muyinga.yaml) | City / town | **62.50** | **Food 7.3**, **Culture 7.2** | 5.8 / 6.5 / 6.4 / 6.7 / 6.0 | [-2.8451, 30.3414](https://www.google.com/maps/search/?api=1&query=-2.8451,30.3414) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Muyinga%2C%20Burundi) |
+| 11 | [Rutana](cities/rutana.yaml) | City / town | **62.30** | **Culture 7.2** | 5.8 / 6.5 / 6.4 / 6.7 / 5.8 | [-3.9279, 29.992](https://www.google.com/maps/search/?api=1&query=-3.9279,29.992) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Rutana%2C%20Burundi) |
+| 12 | [Ruyigi](cities/ruyigi.yaml) | City / town | **61.10** | **Culture 7.1** | 5.6 / 6.4 / 6.3 / 6.6 / 5.8 | [-3.4763889, 30.2486111](https://www.google.com/maps/search/?api=1&query=-3.4763889,30.2486111) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ruyigi%2C%20Burundi) |
 
 ---
 

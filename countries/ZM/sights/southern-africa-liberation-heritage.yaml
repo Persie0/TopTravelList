@@ -1,0 +1,14 @@
+id: sight-zm-southern-africa-liberation-heritage
+name: "Southern Africa Liberation Heritage Sites in Zambia"
+location:
+  country_code: ZM
+  latitude: -13.133889
+  longitude: 27.849306
+scores:
+  impact: null
+  uniqueness: 8.8
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    history: 9.3
