@@ -1,0 +1,17 @@
+id: sight-ec-kicker-rock-leon-dormido
+name: "Kicker Rock (León Dormido)"
+location:
+  country_code: EC
+  latitude: -0.7700
+  longitude: -89.5170
+scores:
+  impact: 9.1
+  uniqueness: 9.1
+  significance: 8.3
+  experience: 9.0
+  depth: 7.2
+  categories:
+    wildlife: 9.3
+    nature: 9.2
+    adventure: 9.1
+    photography: 9.4

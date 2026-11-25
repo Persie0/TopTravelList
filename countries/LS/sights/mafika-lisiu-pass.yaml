@@ -1,0 +1,16 @@
+id: sight-ls-mafika-lisiu-pass
+name: "Mafika-Lisiu Pass"
+location:
+  country_code: LS
+  latitude: -29.0820
+  longitude: 28.4070
+scores:
+  impact: 8.9
+  uniqueness: 8.4
+  significance: 7.0
+  experience: 8.6
+  depth: 7.1
+  categories:
+    photography: 9.4
+    adventure: 8.7
+    nature: 8.8

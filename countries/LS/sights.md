@@ -2,7 +2,7 @@
 
 # Lesotho (LS) — Sights & attractions ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**33 ranked** · **5 unassessed** · **38 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,11 +10,55 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, or click its GPS coordinates to open **Google Maps**. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (33)
 
-No sights & attractions have been assessed for **Lesotho** yet.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps |
+| ---: | --- | --- | ---: | --- | --- | --- |
+| 1 | [Sehlabathebe National Park](sights/sehlabathebe-national-park.yaml) | Park / reserve | **90.10** | **Nature 9.4**, **Photography 9.4**, **Adventure 9.0**, History 8.7 | 9.1 / 9.0 / 9.3 / 8.6 / 8.8 | [-29.915278, 29.123056](https://www.google.com/maps/search/?api=1&query=-29.915278,29.123056) |
+| 2 | [Maletsunyane Falls](sights/maletsunyane-falls.yaml) | Waterfall | **88.35** | **Photography 9.6**, **Nature 9.5**, **Adventure 9.3** | 9.6 / 9.2 / 7.6 / 9.1 / 7.7 | [-29.869, 28.051](https://www.google.com/maps/search/?api=1&query=-29.869,28.051) |
+| 3 | [Thaba Bosiu National Monument](sights/thaba-bosiu-national-monument.yaml) | Attraction | **86.05** | **Culture 9.4**, **History 9.4**, **Photography 8.7** | 8.3 / 8.9 / 9.3 / 8.4 / 7.7 | [-29.355833, 27.670556](https://www.google.com/maps/search/?api=1&query=-29.355833,27.670556) |
+| 4 | [Ts'ehlanyane National Park](sights/ts-ehlanyane-national-park.yaml) | Park / reserve | **85.90** | **Nature 9.1**, **Adventure 9.0**, **Photography 9.0**, Wildlife 8.3 | 8.8 / 8.5 / 8.3 / 8.7 / 8.6 | [-28.925, 28.417](https://www.google.com/maps/search/?api=1&query=-28.925,28.417) |
+| 5 | [Thabana Ntlenyana](sights/thabana-ntlenyana.yaml) | Attraction | **85.45** | **Adventure 9.4**, **Photography 9.1**, **Nature 9.0** | 8.9 / 8.7 / 8.1 / 8.6 / 7.9 | [-29.47, 29.27](https://www.google.com/maps/search/?api=1&query=-29.47,29.27) |
+| 6 | [Bokong Nature Reserve](sights/bokong-nature-reserve.yaml) | Park / reserve | **84.80** | **Photography 9.3**, **Nature 9.0**, **Adventure 8.9** | 8.8 / 8.6 / 8.1 / 8.6 / 7.8 | [-29.092, 28.421](https://www.google.com/maps/search/?api=1&query=-29.092,28.421) |
+| 7 | [Katse Dam](sights/katse-dam.yaml) | Attraction | **82.55** | **Photography 9.0**, **Architecture 8.8**, **Nature 8.3** | 8.6 / 8.0 / 8.1 / 8.5 / 7.8 | [-29.337, 28.502](https://www.google.com/maps/search/?api=1&query=-29.337,28.502) |
+| 8 | [Kome Cave Dwellings](sights/kome-cave-dwellings.yaml) | Cave | **81.85** | **Culture 9.0**, **History 8.9**, **Architecture 8.5**, Photography 8.4 | 8.0 / 8.8 / 8.4 / 8.1 / 6.9 | [-29.203, 27.869](https://www.google.com/maps/search/?api=1&query=-29.203,27.869) |
+| 9 | [Mafika-Lisiu Pass](sights/mafika-lisiu-pass.yaml) | Attraction | **81.70** | **Photography 9.4**, **Nature 8.8**, **Adventure 8.7** | 8.9 / 8.4 / 7.0 / 8.6 / 7.1 | [-29.082, 28.407](https://www.google.com/maps/search/?api=1&query=-29.082,28.407) |
+| 9 | [Sani Top](sights/sani-top.yaml) | Attraction | **81.70** | **Photography 9.2**, **Nature 8.9**, **Adventure 8.7** | 8.8 / 8.5 / 7.3 / 8.5 / 6.7 | [-29.584, 29.287](https://www.google.com/maps/search/?api=1&query=-29.584,29.287) |
+| 11 | [Katse Reservoir](sights/katse-reservoir.yaml) | Lake | **81.05** | **Photography 9.0**, **Nature 8.7**, **Relaxation 8.4** | 8.6 / 8.0 / 7.1 / 8.5 / 8.3 | [-29.29, 28.5](https://www.google.com/maps/search/?api=1&query=-29.29,28.5) |
+| 12 | [Ongeluksnek Nature Reserve](sights/ongeluksnek-nature-reserve.yaml) | Park / reserve | **80.65** | **Adventure 8.8**, **Nature 8.7**, **Photography 8.7** | 8.3 / 8.3 / 7.7 / 8.0 / 7.6 | [-30.288, 28.35](https://www.google.com/maps/search/?api=1&query=-30.288,28.35) |
+| 13 | [Liphofung Cave and Cultural Heritage Site](sights/liphofung-cave-and-cultural-heritage-site.yaml) | Cave | **80.40** | **History 9.0**, **Culture 8.7**, **Nature 8.0** | 7.7 / 8.4 / 8.6 / 8.0 / 7.1 | [-28.757, 28.438](https://www.google.com/maps/search/?api=1&query=-28.757,28.438) |
+| 14 | [Lepaqoa Falls](sights/lepaqoa-falls.yaml) | Waterfall | **79.55** | **Photography 9.1**, **Nature 8.9** | 8.7 / 8.4 / 6.8 / 8.1 / 6.7 | [-29.087, 28.427](https://www.google.com/maps/search/?api=1&query=-29.087,28.427) |
+| 15 | [Ha Baroana Rock Art](sights/ha-baroana-rock-art.yaml) | Attraction | **79.20** | **History 8.9**, **Culture 8.7**, **Photography 8.0** | 7.5 / 8.6 / 8.5 / 7.8 / 6.5 | [-29.386, 27.756](https://www.google.com/maps/search/?api=1&query=-29.386,27.756) |
+| 16 | [Mohale Reservoir](sights/mohale-reservoir.yaml) | Lake | **78.85** | **Photography 8.8**, **Nature 8.5**, **Relaxation 8.3** | 8.4 / 7.8 / 7.0 / 8.3 / 7.7 | [-29.45, 28.075](https://www.google.com/maps/search/?api=1&query=-29.45,28.075) |
+| 17 | [Malealea Gorge Trails](sights/malealea-gorge-trails.yaml) | Valley / canyon | **78.65** | **Adventure 8.8**, **Photography 8.7**, **Culture 8.0** | 8.2 / 8.1 / 6.6 / 8.6 / 7.7 | [-29.82, 27.602](https://www.google.com/maps/search/?api=1&query=-29.82,27.602) |
+| 18 | [Mohale Dam](sights/mohale-dam.yaml) | Attraction | **78.45** | **Photography 8.6**, **Architecture 8.3** | 8.2 / 7.6 / 7.7 / 8.1 / 7.3 | [-29.469, 28.088](https://www.google.com/maps/search/?api=1&query=-29.469,28.088) |
+| 19 | [Thaba Putsoa Pass](sights/thaba-putsoa-pass.yaml) | Attraction | **78.20** | **Photography 9.0**, **Nature 8.5** | 8.5 / 8.1 / 6.6 / 8.3 / 6.8 | [-29.476, 28.03](https://www.google.com/maps/search/?api=1&query=-29.476,28.03) |
+| 20 | [Moteng Pass](sights/moteng-pass.yaml) | Attraction | **78.05** | **Photography 9.0**, **Adventure 8.4**, **Nature 8.4** | 8.5 / 8.0 / 6.6 / 8.3 / 6.9 | [-28.769, 28.571](https://www.google.com/maps/search/?api=1&query=-28.769,28.571) |
+| 21 | [Afriski Mountain Resort](sights/afriski-mountain-resort.yaml) | Mountain / peak | **78.00** | **Adventure 8.8**, **Family 7.9** | 7.9 / 8.6 / 6.5 / 8.4 / 7.2 | [-28.823, 28.729](https://www.google.com/maps/search/?api=1&query=-28.823,28.729) |
+| 21 | [Ribaneng Falls](sights/ribaneng-falls.yaml) | Waterfall | **78.00** | **Photography 9.0**, **Nature 8.7**, **Adventure 8.5** | 8.5 / 8.2 / 6.4 / 8.2 / 6.9 | [-29.905, 27.758](https://www.google.com/maps/search/?api=1&query=-29.905,27.758) |
+| 23 | [Morija Museum and Archives](sights/morija-museum-and-archives.yaml) | Museum / heritage | **77.25** | **History 9.0**, **Culture 8.9** | 6.9 / 8.0 / 8.6 / 7.9 / 7.5 | [-29.626, 27.508](https://www.google.com/maps/search/?api=1&query=-29.626,27.508) |
+| 24 | [Katse Botanical Garden](sights/katse-botanical-garden.yaml) | Garden | **77.10** | **Nature 8.6**, **Wildlife 7.8** | 7.5 / 7.9 / 8.0 / 7.9 / 7.0 | [-29.332, 28.494](https://www.google.com/maps/search/?api=1&query=-29.332,28.494) |
+| 25 | [Molimo Nthuse Pass](sights/molimo-nthuse-pass.yaml) | Attraction | **76.65** | **Photography 8.9**, **Nature 8.3** | 8.3 / 7.9 / 6.5 / 8.2 / 6.7 | [-29.446, 27.94](https://www.google.com/maps/search/?api=1&query=-29.446,27.94) |
+| 25 | [Morija Dinosaur Footprints](sights/morija-dinosaur-footprints.yaml) | Attraction | **76.65** | **Nature 8.4**, **Adventure 8.0**, **History 7.9** | 7.3 / 8.3 / 7.9 / 7.8 / 6.5 | [-29.635, 27.515](https://www.google.com/maps/search/?api=1&query=-29.635,27.515) |
+| 27 | [Subeng Dinosaur Footprints](sights/subeng-dinosaur-footprints.yaml) | Attraction | **76.60** | **Nature 8.5**, **History 7.9** | 7.3 / 8.3 / 8.0 / 7.7 / 6.4 | [-28.821, 28.232](https://www.google.com/maps/search/?api=1&query=-28.821,28.232) |
+| 28 | [Thaba Bosiu Cultural Village](sights/thaba-bosiu-cultural-village.yaml) | Historic settlement | **76.25** | **Culture 8.7**, **History 8.4**, **Architecture 8.0** | 7.2 / 7.9 / 7.8 / 8.2 / 7.0 | [-29.353, 27.657](https://www.google.com/maps/search/?api=1&query=-29.353,27.657) |
+| 29 | [Bushman's Pass](sights/bushman-s-pass.yaml) | Attraction | **75.05** | **Photography 8.6**, **Nature 8.1** | 8.1 / 7.6 / 6.5 / 8.1 / 6.6 | [-29.416, 27.866](https://www.google.com/maps/search/?api=1&query=-29.416,27.866) |
+| 30 | [Muela Dam](sights/muela-dam.yaml) | Attraction | **72.75** | **Architecture 8.0**, **Photography 7.8** | 7.4 / 7.1 / 7.6 / 7.4 / 6.5 | [-28.763, 28.337](https://www.google.com/maps/search/?api=1&query=-28.763,28.337) |
+| 31 | [Basotho Hat Craft Centre](sights/basotho-hat-craft-centre.yaml) | Attraction | **71.55** | **Culture 8.5**, **Architecture 7.7** | 6.6 / 7.7 / 7.0 / 8.0 / 6.5 | [-29.315, 27.479](https://www.google.com/maps/search/?api=1&query=-29.315,27.479) |
+| 32 | [Maeder House](sights/maeder-house.yaml) | Attraction | **71.15** | **History 8.4**, **Architecture 8.0**, **Culture 7.8** | 6.5 / 7.5 / 7.9 / 7.4 / 6.0 | [-29.626, 27.509](https://www.google.com/maps/search/?api=1&query=-29.626,27.509) |
+| 33 | [Our Lady of Victories Cathedral](sights/our-lady-of-victories-cathedral.yaml) | Religious site | **68.50** | **History 7.9**, **Culture 7.8**, **Architecture 7.7** | 6.5 / 7.0 / 7.4 / 7.2 / 5.9 | [-29.316, 27.491](https://www.google.com/maps/search/?api=1&query=-29.316,27.491) |
 
-Add destination YAML files in [sights/](sights/), then regenerate the overview files.
+## Not yet fully assessed (5)
+
+These destinations have no rank until all five core scores are assessed.
+
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps |
+| ---: | --- | --- | ---: | --- | --- | --- |
+| — | [Botha-Bothe Plateau](sights/botha-bothe-plateau.yaml) | Attraction | **—** | **History 8.9**, **Nature 8.2** | — / — / 8.6 / — / — | [-28.77005, 28.2792](https://www.google.com/maps/search/?api=1&query=-28.77005,28.2792) |
+| — | [Khubelu Wetland](sights/khubelu-wetland.yaml) | Wetland | **—** | **Nature 8.5**, **Wildlife 8.3** | — / — / 7.9 / — / — | [-29.15, 28.95](https://www.google.com/maps/search/?api=1&query=-29.15,28.95) |
+| — | [Malimong Cave](sights/malimong-cave.yaml) | Cave | **—** | **History 8.8**, **Culture 8.5** | — / — / 8.3 / — / — | [-29.0511, 28.12](https://www.google.com/maps/search/?api=1&query=-29.0511,28.12) |
+| — | [Menkhoaneng Heritage Site](sights/menkhoaneng-heritage-site.yaml) | Attraction | **—** | **History 8.8**, **Culture 8.5** | — / — / 8.4 / — / — | [-28.890083, 28.222017](https://www.google.com/maps/search/?api=1&query=-28.890083,28.222017) |
+| — | [Pitseng Cave](sights/pitseng-cave.yaml) | Cave | **—** | **History 8.4**, **Culture 8.1** | — / — / 8.0 / — / — | [-28.8901, 28.222117](https://www.google.com/maps/search/?api=1&query=-28.8901,28.222117) |
 
 ---
 
