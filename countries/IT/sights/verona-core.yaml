@@ -1,0 +1,15 @@
+id: sight-it-verona-core
+name: "City of Verona historic ensemble"
+location:
+  country_code: IT
+  latitude: 45.44
+  longitude: 10.99
+scores:
+  impact: 9.2
+  uniqueness: 9.1
+  significance: 9.3
+  experience: 9.0
+  depth: 9.0
+  categories:
+    architecture: 9.5
+    history: 9.4

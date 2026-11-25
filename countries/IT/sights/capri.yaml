@@ -1,0 +1,16 @@
+id: sight-it-capri
+name: "Capri island visitor landscape"
+location:
+  country_code: IT
+  latitude: 40.55
+  longitude: 14.24
+scores:
+  impact: 9.3
+  uniqueness: 9.2
+  significance: 8.9
+  experience: 9.1
+  depth: 9.0
+  categories:
+    nature: 9.4
+    photography: 9.6
+    relaxation: 9.2

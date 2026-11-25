@@ -1,0 +1,16 @@
+id: city-it-bologna
+name: "Bologna"
+location:
+  country_code: IT
+  latitude: 44.4949
+  longitude: 11.3426
+scores:
+  impact: 9.0
+  uniqueness: 9.1
+  significance: 9.2
+  experience: 9.2
+  depth: 9.1
+  categories:
+    architecture: 9.3
+    food: 9.5
+    culture: 9.2

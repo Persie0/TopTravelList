@@ -1,0 +1,15 @@
+id: sight-it-phlegraean
+name: "Phlegraean Fields bradyseism landscape"
+location:
+  country_code: IT
+  latitude: 40.83
+  longitude: 14.13
+scores:
+  impact: 8.8
+  uniqueness: 9.3
+  significance: 9.3
+  experience: 8.5
+  depth: 9.0
+  categories:
+    nature: 9.4
+    history: 9.2

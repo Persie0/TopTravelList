@@ -1,0 +1,15 @@
+id: sight-it-uffizi
+name: "Uffizi Gallery"
+location:
+  country_code: IT
+  latitude: 43.768
+  longitude: 11.255
+scores:
+  impact: 9.4
+  uniqueness: 9.4
+  significance: 9.7
+  experience: 9.2
+  depth: 9.5
+  categories:
+    culture: 9.8
+    history: 9.6

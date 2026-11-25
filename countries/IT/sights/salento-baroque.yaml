@@ -1,0 +1,15 @@
+id: sight-it-salento-baroque
+name: "Salento and Barocco Leccese"
+location:
+  country_code: IT
+  latitude: 40.35
+  longitude: 18.18
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 9.0
+  experience: 8.9
+  depth: 9.0
+  categories:
+    architecture: 9.5
+    history: 9.2

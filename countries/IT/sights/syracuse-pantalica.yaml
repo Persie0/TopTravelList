@@ -1,0 +1,16 @@
+id: sight-it-syracuse-pantalica
+name: "Syracuse and Rocky Necropolis of Pantalica"
+location:
+  country_code: IT
+  latitude: 37.06
+  longitude: 15.29
+scores:
+  impact: 9.2
+  uniqueness: 9.3
+  significance: 9.5
+  experience: 9.0
+  depth: 9.3
+  categories:
+    history: 9.6
+    architecture: 9.4
+    nature: 9.1

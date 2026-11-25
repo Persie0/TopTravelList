@@ -1,0 +1,15 @@
+id: sight-it-bolca
+name: "Bolca and Alpone Valley Eocene marine biodiversity"
+location:
+  country_code: IT
+  latitude: 45.6
+  longitude: 11.2
+scores:
+  impact: 8.2
+  uniqueness: 9.3
+  significance: 9.5
+  experience: 8.4
+  depth: 8.3
+  categories:
+    nature: 9.3
+    history: 9.2

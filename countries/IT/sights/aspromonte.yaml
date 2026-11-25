@@ -1,0 +1,15 @@
+id: sight-it-aspromonte
+name: "Aspromonte National Park"
+location:
+  country_code: IT
+  latitude: 38.15
+  longitude: 15.91
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 8.8
+  experience: 8.7
+  depth: 9.0
+  categories:
+    nature: 9.3
+    adventure: 9.1

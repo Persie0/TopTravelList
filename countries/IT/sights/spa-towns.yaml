@@ -1,0 +1,15 @@
+id: sight-it-spa-towns
+name: "Great Spa Towns of Europe (Montecatini Terme)"
+location:
+  country_code: IT
+  latitude: 43.88
+  longitude: 10.77
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 8.6
+  depth: 8.5
+  categories:
+    architecture: 9.1
+    relaxation: 9.2

@@ -1,0 +1,15 @@
+id: city-it-pisa
+name: "Pisa"
+location:
+  country_code: IT
+  latitude: 43.7228
+  longitude: 10.4017
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 8.8
+  depth: 8.5
+  categories:
+    architecture: 9.4
+    history: 9.2
