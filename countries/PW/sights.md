@@ -2,7 +2,7 @@
 
 # Palau (PW) — Sights & attractions ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**9 ranked** · **1 unassessed** · **10 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,11 +10,27 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (9)
 
-No sights & attractions have been assessed for **Palau** yet.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Rock Islands Southern Lagoon](sights/rock-islands-southern-lagoon.yaml) | Beach / bay | **94.25** | **Nature 9.5**, **Photography 9.5**, **Adventure 9.3**, Wildlife 9.2 | 9.5 / 9.5 / 9.3 / 9.4 / 9.3 | [7.246925, 134.3525](https://www.google.com/maps/search/?api=1&query=7.246925,134.3525) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Rock%20Islands%20Southern%20Lagoon%2C%20Palau) |
+| 2 | [Jellyfish Lake (Ongeim'l Tketau)](sights/jellyfish-lake.yaml) | Lake | **90.80** | **Nature 9.3**, **Wildlife 9.3**, **Adventure 8.6** | 9.2 / 9.6 / 8.9 / 9.0 / 7.9 | [7.1612, 134.37634](https://www.google.com/maps/search/?api=1&query=7.1612,134.37634) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Jellyfish%20Lake%20%28Ongeim%27l%20Tketau%29%2C%20Palau) |
+| 3 | [Blue Corner](sights/blue-corner.yaml) | Attraction | **89.55** | **Adventure 9.4**, **Wildlife 9.3**, **Nature 9.1** | 9.3 / 9.0 / 8.3 / 9.3 / 8.6 | [7.13361, 134.22028](https://www.google.com/maps/search/?api=1&query=7.13361,134.22028) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Blue%20Corner%2C%20Palau) |
+| 4 | [German Channel](sights/german-channel.yaml) | Attraction | **84.35** | **Wildlife 9.0**, **Adventure 8.8**, **Nature 8.4** | 8.7 / 8.6 / 7.8 / 8.9 / 7.8 | [7.12722, 134.28417](https://www.google.com/maps/search/?api=1&query=7.12722,134.28417) | [Google Maps](https://www.google.com/maps/search/?api=1&query=German%20Channel%2C%20Palau) |
+| 5 | [Airai Bai](sights/airai-bai.yaml) | Attraction | **80.90** | **Culture 8.8**, **Architecture 8.7**, **History 8.6** | 7.7 / 8.7 / 8.6 / 7.7 / 7.3 | [7.36111, 134.56028](https://www.google.com/maps/search/?api=1&query=7.36111,134.56028) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Airai%20Bai%2C%20Palau) |
+| 6 | [Badrulchau Stone Monoliths](sights/badrulchau-stone-monoliths.yaml) | Attraction | **79.65** | **History 8.8**, **Culture 8.6**, **Photography 7.6** | 7.4 / 8.8 / 8.6 / 7.5 / 7.0 | [7.70929, 134.63052](https://www.google.com/maps/search/?api=1&query=7.70929,134.63052) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Badrulchau%20Stone%20Monoliths%2C%20Palau) |
+| 7 | [Belau National Museum](sights/belau-national-museum.yaml) | Museum / heritage | **78.55** | **Culture 8.7**, **History 8.5** | 7.3 / 8.2 / 8.3 / 7.9 / 7.7 | [7.33658, 134.47634](https://www.google.com/maps/search/?api=1&query=7.33658,134.47634) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Belau%20National%20Museum%2C%20Palau) |
+| 8 | [Etpison Museum](sights/etpison-museum.yaml) | Museum / heritage | **75.85** | **Culture 8.4**, **History 8.1** | 7.1 / 8.0 / 7.8 / 7.7 / 7.4 | [7.34528, 134.48316](https://www.google.com/maps/search/?api=1&query=7.34528,134.48316) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Etpison%20Museum%2C%20Palau) |
+| 9 | [Ngardmau Waterfall](sights/ngardmau-waterfall.yaml) | Waterfall | **75.45** | **Nature 8.2**, **Photography 8.1**, **Adventure 7.8** | 8.0 / 7.4 / 6.7 / 8.1 / 7.4 | [7.59118, 134.59342](https://www.google.com/maps/search/?api=1&query=7.59118,134.59342) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ngardmau%20Waterfall%2C%20Palau) |
 
-Add destination YAML files in [sights/](sights/), then regenerate the overview files.
+## Not yet fully assessed (1)
+
+These destinations have no rank until all five core scores are assessed.
+
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| — | [Lake Ngardok](sights/lake-ngardok.yaml) | Lake | **—** | **Nature 8.1**, **Wildlife 7.8** | 7.2 / 7.6 / 8.0 / — / — | [7.5133, 134.6031](https://www.google.com/maps/search/?api=1&query=7.5133,134.6031) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lake%20Ngardok%2C%20Palau) |
 
 ---
 
