@@ -1,0 +1,16 @@
+id: sight-ad-grandvalira-ski-area
+name: "Grandvalira Ski Area"
+location:
+  country_code: AD
+  latitude: 42.558
+  longitude: 1.683
+scores:
+  impact: 8.6
+  uniqueness: 8.2
+  significance: 7.1
+  experience: 9.0
+  depth: 9.1
+  categories:
+    adventure: 9.3
+    family: 9.0
+    nature: 8.9

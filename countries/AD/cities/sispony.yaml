@@ -1,0 +1,15 @@
+id: city-ad-sispony
+name: "Sispony"
+location:
+  country_code: AD
+  latitude: 42.535
+  longitude: 1.515
+scores:
+  impact: 7.3
+  uniqueness: 7.6
+  significance: 7.5
+  experience: 7.6
+  depth: 6.8
+  categories:
+    architecture: 8.2
+    culture: 8.2

@@ -1,0 +1,16 @@
+id: sight-ad-comapedrosa-summit
+name: "Comapedrosa Summit"
+location:
+  country_code: AD
+  latitude: 42.590
+  longitude: 1.444
+scores:
+  impact: 8.8
+  uniqueness: 8.6
+  significance: 8.1
+  experience: 8.8
+  depth: 8.4
+  categories:
+    nature: 9.2
+    adventure: 9.3
+    photography: 9.2

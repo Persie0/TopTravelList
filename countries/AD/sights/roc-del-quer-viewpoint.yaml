@@ -1,0 +1,15 @@
+id: sight-ad-roc-del-quer-viewpoint
+name: "Roc del Quer Viewpoint"
+location:
+  country_code: AD
+  latitude: 42.567
+  longitude: 1.589
+scores:
+  impact: 8.6
+  uniqueness: 8.4
+  significance: 6.8
+  experience: 8.5
+  depth: 7.1
+  categories:
+    photography: 9.2
+    nature: 8.8

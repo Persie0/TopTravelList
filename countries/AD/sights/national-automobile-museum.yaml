@@ -1,0 +1,16 @@
+id: sight-ad-national-automobile-museum
+name: "National Automobile Museum"
+location:
+  country_code: AD
+  latitude: 42.532
+  longitude: 1.578
+scores:
+  impact: 7.9
+  uniqueness: 8.3
+  significance: 8.2
+  experience: 8.3
+  depth: 8.0
+  categories:
+    history: 8.7
+    culture: 8.6
+    family: 8.5

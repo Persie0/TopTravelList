@@ -1,0 +1,15 @@
+id: sight-ad-sant-joan-de-caselles-church
+name: "Sant Joan de Caselles Church"
+location:
+  country_code: AD
+  latitude: 42.572
+  longitude: 1.606
+scores:
+  impact: 8.1
+  uniqueness: 8.4
+  significance: 8.5
+  experience: 8.1
+  depth: 7.2
+  categories:
+    architecture: 8.9
+    history: 8.9

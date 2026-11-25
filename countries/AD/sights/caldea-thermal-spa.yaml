@@ -1,0 +1,15 @@
+id: sight-ad-caldea-thermal-spa
+name: "Caldea Thermal Spa"
+location:
+  country_code: AD
+  latitude: 42.510
+  longitude: 1.538
+scores:
+  impact: 8.3
+  uniqueness: 8.4
+  significance: 7.0
+  experience: 8.9
+  depth: 8.2
+  categories:
+    relaxation: 9.2
+    architecture: 8.8

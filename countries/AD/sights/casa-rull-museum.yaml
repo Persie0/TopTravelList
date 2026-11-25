@@ -1,0 +1,15 @@
+id: sight-ad-casa-rull-museum
+name: "Casa Rull Museum"
+location:
+  country_code: AD
+  latitude: 42.535
+  longitude: 1.515
+scores:
+  impact: 7.4
+  uniqueness: 8.0
+  significance: 8.1
+  experience: 8.0
+  depth: 7.3
+  categories:
+    history: 8.5
+    culture: 8.6

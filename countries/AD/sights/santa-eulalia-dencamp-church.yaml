@@ -1,0 +1,15 @@
+id: sight-ad-santa-eulalia-dencamp-church
+name: "Santa Eulàlia d'Encamp Church"
+location:
+  country_code: AD
+  latitude: 42.534
+  longitude: 1.578
+scores:
+  impact: 7.8
+  uniqueness: 8.2
+  significance: 8.4
+  experience: 8.0
+  depth: 7.2
+  categories:
+    architecture: 8.7
+    history: 8.8

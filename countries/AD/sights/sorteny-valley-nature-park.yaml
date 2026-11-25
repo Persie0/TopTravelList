@@ -1,0 +1,16 @@
+id: sight-ad-sorteny-valley-nature-park
+name: "Sorteny Valley Nature Park"
+location:
+  country_code: AD
+  latitude: 42.620
+  longitude: 1.575
+scores:
+  impact: 8.6
+  uniqueness: 8.6
+  significance: 8.5
+  experience: 8.7
+  depth: 8.6
+  categories:
+    nature: 9.2
+    wildlife: 8.9
+    adventure: 8.8

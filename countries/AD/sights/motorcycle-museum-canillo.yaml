@@ -1,0 +1,15 @@
+id: sight-ad-motorcycle-museum-canillo
+name: "Motorcycle Museum Canillo"
+location:
+  country_code: AD
+  latitude: 42.567
+  longitude: 1.601
+scores:
+  impact: 7.5
+  uniqueness: 8.0
+  significance: 7.7
+  experience: 8.1
+  depth: 7.6
+  categories:
+    culture: 8.5
+    history: 8.4

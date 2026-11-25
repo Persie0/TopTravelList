@@ -1,0 +1,15 @@
+id: city-ad-pal
+name: "Pal"
+location:
+  country_code: AD
+  latitude: 42.546
+  longitude: 1.475
+scores:
+  impact: 7.9
+  uniqueness: 8.1
+  significance: 7.8
+  experience: 7.9
+  depth: 7.1
+  categories:
+    architecture: 8.7
+    photography: 8.7

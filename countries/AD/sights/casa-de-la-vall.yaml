@@ -1,0 +1,16 @@
+id: sight-ad-casa-de-la-vall
+name: "Casa de la Vall"
+location:
+  country_code: AD
+  latitude: 42.506
+  longitude: 1.519
+scores:
+  impact: 8.1
+  uniqueness: 8.5
+  significance: 8.9
+  experience: 8.3
+  depth: 7.7
+  categories:
+    history: 9.2
+    architecture: 8.8
+    culture: 8.9

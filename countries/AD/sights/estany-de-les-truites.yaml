@@ -1,0 +1,15 @@
+id: sight-ad-estany-de-les-truites
+name: "Estany de les Truites"
+location:
+  country_code: AD
+  latitude: 42.577
+  longitude: 1.454
+scores:
+  impact: 8.3
+  uniqueness: 8.2
+  significance: 7.4
+  experience: 8.5
+  depth: 7.9
+  categories:
+    nature: 8.9
+    photography: 8.9

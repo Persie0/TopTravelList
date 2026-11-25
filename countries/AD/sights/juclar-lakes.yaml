@@ -1,0 +1,16 @@
+id: sight-ad-juclar-lakes
+name: "Juclar Lakes"
+location:
+  country_code: AD
+  latitude: 42.606
+  longitude: 1.715
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 7.8
+  experience: 8.7
+  depth: 8.3
+  categories:
+    nature: 9.2
+    photography: 9.2
+    adventure: 9.0

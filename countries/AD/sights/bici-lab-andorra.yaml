@@ -1,0 +1,15 @@
+id: sight-ad-bici-lab-andorra
+name: "Bici Lab Andorra"
+location:
+  country_code: AD
+  latitude: 42.506
+  longitude: 1.518
+scores:
+  impact: 7.7
+  uniqueness: 8.1
+  significance: 7.7
+  experience: 8.3
+  depth: 7.8
+  categories:
+    culture: 8.5
+    family: 8.6

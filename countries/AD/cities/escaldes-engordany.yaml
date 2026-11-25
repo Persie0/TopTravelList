@@ -1,0 +1,15 @@
+id: city-ad-escaldes-engordany
+name: "Escaldes-Engordany"
+location:
+  country_code: AD
+  latitude: 42.509
+  longitude: 1.540
+scores:
+  impact: 7.6
+  uniqueness: 7.7
+  significance: 7.5
+  experience: 8.3
+  depth: 7.8
+  categories:
+    relaxation: 8.8
+    culture: 8.2
