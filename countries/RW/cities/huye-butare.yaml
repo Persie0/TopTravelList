@@ -1,0 +1,16 @@
+id: city-rw-huye-butare
+name: "Huye (Butare)"
+location:
+  country_code: RW
+  latitude: -2.5967
+  longitude: 29.7394
+scores:
+  impact: 6.9
+  uniqueness: 7.5
+  significance: 8.0
+  experience: 7.6
+  depth: 7.3
+  categories:
+    culture: 8.2
+    history: 8.4
+    food: 7.6
