@@ -1,0 +1,15 @@
+id: city-fi-jyvaskyla
+name: "Jyväskylä"
+location:
+  country_code: FI
+  latitude: 62.242
+  longitude: 25.748
+scores:
+  impact: 7.8
+  uniqueness: 8.3
+  significance: 8.3
+  experience: 8.3
+  depth: 8.3
+  categories:
+    architecture: 8.9
+    culture: 8.6

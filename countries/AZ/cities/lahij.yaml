@@ -1,0 +1,15 @@
+id: city-az-lahij
+name: "Lahij"
+location:
+  country_code: AZ
+  latitude: 40.85
+  longitude: 48.39
+scores:
+  impact: 8.1
+  uniqueness: 8.8
+  significance: 8.0
+  experience: 8.5
+  depth: 7.2
+  categories:
+    culture: 9.2
+    architecture: 8.7

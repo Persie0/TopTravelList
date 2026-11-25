@@ -1,0 +1,15 @@
+id: sight-bb-bottom-bay
+name: "Bottom Bay"
+location:
+  country_code: BB
+  latitude: 13.129
+  longitude: -59.426
+scores:
+  impact: 9.0
+  uniqueness: 8.5
+  significance: 6.0
+  experience: 8.1
+  depth: 6.7
+  categories:
+    beaches: 9.2
+    photography: 9.4

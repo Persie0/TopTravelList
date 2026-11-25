@@ -1,0 +1,15 @@
+id: sight-cr-pre-columbian-gold-museum
+name: "Pre-Columbian Gold Museum"
+location:
+  country_code: CR
+  latitude: 9.934
+  longitude: -84.077
+scores:
+  impact: 8.1
+  uniqueness: 8.7
+  significance: 8.8
+  experience: 8.3
+  depth: 7.9
+  categories:
+    history: 9.1
+    culture: 8.8

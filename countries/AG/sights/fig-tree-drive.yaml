@@ -1,0 +1,15 @@
+id: sight-ag-fig-tree-drive
+name: "Fig Tree Drive"
+location:
+  country_code: AG
+  latitude: 17.039
+  longitude: -61.826
+scores:
+  impact: 7.9
+  uniqueness: 7.8
+  significance: 6.5
+  experience: 8.3
+  depth: 7.8
+  categories:
+    photography: 8.5
+    nature: 8.4

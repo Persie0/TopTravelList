@@ -1,0 +1,16 @@
+id: sight-sa-uruq-bani-maarid
+name: "Uruq Bani Ma'arid"
+location:
+  country_code: SA
+  latitude: 19.25
+  longitude: 45.4
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 8.8
+  experience: 8.4
+  depth: 8.2
+  categories:
+    nature: 9.2
+    wildlife: 9.0
+    photography: 9.2

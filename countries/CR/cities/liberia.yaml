@@ -1,0 +1,16 @@
+id: city-cr-liberia
+name: "Liberia"
+location:
+  country_code: CR
+  latitude: 10.635
+  longitude: -85.437
+scores:
+  impact: 7.2
+  uniqueness: 7.6
+  significance: 7.7
+  experience: 7.5
+  depth: 7.0
+  categories:
+    architecture: 8.1
+    culture: 8.0
+    history: 7.9

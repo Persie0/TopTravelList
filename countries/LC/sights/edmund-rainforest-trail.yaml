@@ -1,0 +1,16 @@
+id: sight-lc-edmund-rainforest-trail
+name: "Edmund Rainforest Trail"
+location:
+  country_code: LC
+  latitude: 13.849
+  longitude: -61.016
+scores:
+  impact: 8.3
+  uniqueness: 8.3
+  significance: 7.3
+  experience: 8.4
+  depth: 7.9
+  categories:
+    nature: 9.0
+    adventure: 8.9
+    wildlife: 8.6

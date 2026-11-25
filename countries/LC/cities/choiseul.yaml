@@ -1,0 +1,16 @@
+id: city-lc-choiseul
+name: "Choiseul"
+location:
+  country_code: LC
+  latitude: 13.772
+  longitude: -61.050
+scores:
+  impact: 7.3
+  uniqueness: 8.0
+  significance: 7.2
+  experience: 7.8
+  depth: 6.5
+  categories:
+    culture: 8.6
+    history: 7.9
+    photography: 8.3

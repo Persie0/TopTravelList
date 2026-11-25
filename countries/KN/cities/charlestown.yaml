@@ -1,0 +1,16 @@
+id: city-kn-charlestown
+name: "Charlestown"
+location:
+  country_code: KN
+  latitude: 17.137
+  longitude: -62.625
+scores:
+  impact: 7.9
+  uniqueness: 8.6
+  significance: 8.7
+  experience: 8.1
+  depth: 7.3
+  categories:
+    architecture: 8.9
+    history: 9.1
+    culture: 8.8

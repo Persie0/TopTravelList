@@ -1,0 +1,16 @@
+id: sight-ag-nelson-s-dockyard
+name: "Nelson's Dockyard"
+location:
+  country_code: AG
+  latitude: 17.007
+  longitude: -61.765
+scores:
+  impact: 8.4
+  uniqueness: 8.9
+  significance: 9.2
+  experience: 9.0
+  depth: 8.3
+  categories:
+    history: 9.4
+    architecture: 9.3
+    culture: 8.9

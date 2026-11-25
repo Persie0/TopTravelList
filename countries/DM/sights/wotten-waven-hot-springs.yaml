@@ -1,0 +1,15 @@
+id: sight-dm-wotten-waven-hot-springs
+name: "Wotten Waven Hot Springs"
+location:
+  country_code: DM
+  latitude: 15.317
+  longitude: -61.344
+scores:
+  impact: 8.1
+  uniqueness: 8.5
+  significance: 6.6
+  experience: 8.6
+  depth: 7.0
+  categories:
+    relaxation: 9.0
+    nature: 8.4

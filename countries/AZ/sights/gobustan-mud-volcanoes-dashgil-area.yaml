@@ -1,0 +1,15 @@
+id: sight-az-gobustan-mud-volcanoes-dashgil-area
+name: "Gobustan Mud Volcanoes (Dashgil Area)"
+location:
+  country_code: AZ
+  latitude: 39.995
+  longitude: 49.396
+scores:
+  impact: 8.6
+  uniqueness: 9.2
+  significance: 8.0
+  experience: 8.4
+  depth: 7.5
+  categories:
+    nature: 9.2
+    photography: 9.1

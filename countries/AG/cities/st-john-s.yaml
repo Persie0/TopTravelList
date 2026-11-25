@@ -1,0 +1,17 @@
+id: city-ag-st-john-s
+name: "St John's"
+location:
+  country_code: AG
+  latitude: 17.121
+  longitude: -61.844
+scores:
+  impact: 7.6
+  uniqueness: 8.0
+  significance: 8.3
+  experience: 8.2
+  depth: 8.2
+  categories:
+    history: 8.8
+    culture: 8.7
+    architecture: 8.3
+    food: 8.3

@@ -1,0 +1,16 @@
+id: sight-ae-al-marmoom-desert-conservation-reserve
+name: "Al Marmoom Desert Conservation Reserve"
+location:
+  country_code: AE
+  latitude: 24.85
+  longitude: 55.4
+scores:
+  impact: 8.4
+  uniqueness: 8.2
+  significance: 8.1
+  experience: 8.4
+  depth: 8.6
+  categories:
+    nature: 8.7
+    wildlife: 8.5
+    photography: 8.8

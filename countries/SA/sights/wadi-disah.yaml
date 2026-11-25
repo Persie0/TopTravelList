@@ -1,0 +1,16 @@
+id: sight-sa-wadi-disah
+name: "Wadi Al Disah"
+location:
+  country_code: SA
+  latitude: 27.6
+  longitude: 36.43
+scores:
+  impact: 9.1
+  uniqueness: 8.7
+  significance: 7.8
+  experience: 8.5
+  depth: 8.3
+  categories:
+    nature: 9.1
+    photography: 9.3
+    adventure: 8.6

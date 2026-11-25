@@ -1,0 +1,15 @@
+id: sight-se-engelsberg-ironworks
+name: "Engelsberg Ironworks"
+location:
+  country_code: SE
+  latitude: 59.966
+  longitude: 16.009
+scores:
+  impact: 8.1
+  uniqueness: 8.7
+  significance: 8.9
+  experience: 8.2
+  depth: 8.2
+  categories:
+    history: 9.1
+    architecture: 8.6

@@ -1,0 +1,16 @@
+id: sight-ph-batanes
+name: "Batanes Protected Landscapes and Seascapes"
+location:
+  country_code: PH
+  latitude: 20.44
+  longitude: 121.95
+scores:
+  impact: 9.0
+  uniqueness: 8.9
+  significance: 8.5
+  experience: 8.8
+  depth: 8.8
+  categories:
+    nature: 9.1
+    culture: 8.8
+    photography: 9.3

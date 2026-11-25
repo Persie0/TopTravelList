@@ -1,0 +1,16 @@
+id: city-lv-liepaja
+name: "Liepāja"
+location:
+  country_code: LV
+  latitude: 56.505
+  longitude: 21.011
+scores:
+  impact: 8.2
+  uniqueness: 8.3
+  significance: 8.1
+  experience: 8.5
+  depth: 8.5
+  categories:
+    architecture: 8.5
+    beaches: 8.6
+    culture: 8.7

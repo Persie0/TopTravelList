@@ -1,0 +1,15 @@
+id: sight-iq-mutanabbi-street
+name: "Al-Mutanabbi Street"
+location:
+  country_code: IQ
+  latitude: 33.339
+  longitude: 44.391
+scores:
+  impact: 8.0
+  uniqueness: 8.6
+  significance: 8.4
+  experience: 8.6
+  depth: 7.5
+  categories:
+    culture: 9.0
+    history: 8.4

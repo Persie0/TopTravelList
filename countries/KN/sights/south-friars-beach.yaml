@@ -1,0 +1,15 @@
+id: sight-kn-south-friars-beach
+name: "South Friars Beach"
+location:
+  country_code: KN
+  latitude: 17.269
+  longitude: -62.671
+scores:
+  impact: 8.4
+  uniqueness: 7.8
+  significance: 5.8
+  experience: 8.7
+  depth: 7.2
+  categories:
+    beaches: 8.9
+    relaxation: 8.8
