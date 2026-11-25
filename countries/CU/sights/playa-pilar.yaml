@@ -1,0 +1,16 @@
+id: sight-cu-playa-pilar
+name: "Playa Pilar"
+location:
+  country_code: CU
+  latitude: 22.611
+  longitude: -78.73
+scores:
+  impact: 8.8
+  uniqueness: 8.3
+  significance: 6.8
+  experience: 8.8
+  depth: 7.2
+  categories:
+    beaches: 9.3
+    photography: 9.2
+    relaxation: 9.2

@@ -1,0 +1,15 @@
+id: sight-tm-independence-monument-ashgabat
+name: "Independence Monument (Ashgabat)"
+location:
+  country_code: TM
+  latitude: 37.89
+  longitude: 58.38
+scores:
+  impact: 7.8
+  uniqueness: 8.0
+  significance: 6.9
+  experience: 7.5
+  depth: 6.1
+  categories:
+    architecture: 8.5
+    photography: 8.4

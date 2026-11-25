@@ -2,7 +2,7 @@
 
 # Saudi Arabia (SA) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**16 ranked** · **2 unassessed** · **18 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,35 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (16)
 
-No cities, towns & villages have been assessed for **Saudi Arabia** yet.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Jeddah](cities/jeddah.yaml) | City / town | **86.50** | **Architecture 8.9**, **History 8.9**, **Culture 8.6**, Food 8.5 | 8.6 / 8.7 / 8.8 / 8.5 / 8.6 | [21.4858, 39.1925](https://www.google.com/maps/search/?api=1&query=21.4858,39.1925) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Jeddah%2C%20Saudi%20Arabia) |
+| 2 | [Diriyah](cities/diriyah.yaml) | City / town | **82.40** | **History 9.0**, **Architecture 8.8**, **Culture 8.3** | 8.1 / 8.4 / 8.8 / 8.0 / 7.5 | [24.733, 46.575](https://www.google.com/maps/search/?api=1&query=24.733,46.575) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Diriyah%2C%20Saudi%20Arabia) |
+| 3 | [AlUla](cities/alula.yaml) | City / town | **81.80** | **Photography 8.6**, **Architecture 8.4**, **History 8.3**, Culture 8.2 | 8.3 / 8.4 / 8.0 / 8.2 / 7.6 | [26.6085, 37.9232](https://www.google.com/maps/search/?api=1&query=26.6085,37.9232) | [Google Maps](https://www.google.com/maps/search/?api=1&query=AlUla%2C%20Saudi%20Arabia) |
+| 4 | [Riyadh](cities/riyadh.yaml) | City / town | **80.10** | **Architecture 8.3**, **Culture 8.1**, **History 8.1**, Food 8.0 | 7.8 / 7.7 / 8.4 / 8.1 / 8.5 | [24.7136, 46.6753](https://www.google.com/maps/search/?api=1&query=24.7136,46.6753) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Riyadh%2C%20Saudi%20Arabia) |
+| 5 | [Al Hofuf](cities/hofuf.yaml) | City / town | **79.50** | **History 8.5**, **Architecture 8.1**, **Food 8.1** | 7.7 / 8.0 / 8.3 / 8.0 / 7.8 | [25.3647, 49.5876](https://www.google.com/maps/search/?api=1&query=25.3647,49.5876) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Al%20Hofuf%2C%20Saudi%20Arabia) |
+| 6 | [Najran](cities/najran.yaml) | City / town | **78.50** | **Architecture 8.4**, **History 8.4**, **Culture 8.0** | 7.7 / 8.1 / 8.2 / 7.5 / 7.5 | [17.4917, 44.1322](https://www.google.com/maps/search/?api=1&query=17.4917,44.1322) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Najran%2C%20Saudi%20Arabia) |
+| 7 | [Abha](cities/abha.yaml) | City / town | **75.80** | **Culture 7.8**, **Nature 7.8**, **Architecture 7.6** | 7.6 / 7.7 / 7.2 / 7.9 / 7.5 | [18.2164, 42.5053](https://www.google.com/maps/search/?api=1&query=18.2164,42.5053) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Abha%2C%20Saudi%20Arabia) |
+| 8 | [Taif](cities/taif.yaml) | City / town | **75.15** | **Relaxation 7.8**, **Culture 7.7**, **Food 7.5** | 7.4 / 7.4 / 7.6 / 7.9 / 7.4 | [21.2703, 40.4158](https://www.google.com/maps/search/?api=1&query=21.2703,40.4158) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Taif%2C%20Saudi%20Arabia) |
+| 9 | [Yanbu](cities/yanbu.yaml) | City / town | **73.60** | **Relaxation 7.8**, **History 7.6**, **Beaches 7.5** | 7.2 / 7.3 / 7.5 / 7.7 / 7.2 | [24.0895, 38.0618](https://www.google.com/maps/search/?api=1&query=24.0895,38.0618) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Yanbu%2C%20Saudi%20Arabia) |
+| 10 | [Ha'il](cities/hail.yaml) | City / town | **73.00** | **History 8.0**, **Architecture 7.6** | 7.1 / 7.3 / 7.7 / 7.3 / 7.1 | [27.5114, 41.7208](https://www.google.com/maps/search/?api=1&query=27.5114,41.7208) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ha%27il%2C%20Saudi%20Arabia) |
+| 11 | [Al Baha](cities/al-baha.yaml) | City / town | **71.05** | **Nature 7.6**, **Relaxation 7.5** | 7.1 / 7.2 / 6.8 / 7.5 / 6.9 | [20.0129, 41.4677](https://www.google.com/maps/search/?api=1&query=20.0129,41.4677) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Al%20Baha%2C%20Saudi%20Arabia) |
+| 12 | [Jazan](cities/jazan.yaml) | City / town | **71.00** | **Food 7.5**, **Culture 7.4** | 6.9 / 7.2 / 7.1 / 7.4 / 7.0 | [16.8892, 42.5511](https://www.google.com/maps/search/?api=1&query=16.8892,42.5511) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Jazan%2C%20Saudi%20Arabia) |
+| 13 | [Al Khobar](cities/al-khobar.yaml) | City / town | **70.30** | **Relaxation 7.8**, **Food 7.7** | 7.1 / 6.8 / 6.5 / 7.8 / 7.3 | [26.2172, 50.1971](https://www.google.com/maps/search/?api=1&query=26.2172,50.1971) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Al%20Khobar%2C%20Saudi%20Arabia) |
+| 14 | [Tabuk](cities/tabuk.yaml) | City / town | **69.60** | **History 7.6**, **Culture 7.0** | 6.7 / 6.8 / 7.3 / 7.2 / 7.1 | [28.3998, 36.5715](https://www.google.com/maps/search/?api=1&query=28.3998,36.5715) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tabuk%2C%20Saudi%20Arabia) |
+| 15 | [Buraydah](cities/buraydah.yaml) | City / town | **69.45** | **Food 7.7**, **Culture 7.3** | 6.6 / 7.1 / 7.1 / 7.2 / 6.9 | [26.3592, 43.9818](https://www.google.com/maps/search/?api=1&query=26.3592,43.9818) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Buraydah%2C%20Saudi%20Arabia) |
+| 16 | [Dammam](cities/dammam.yaml) | City / town | **68.30** | **Relaxation 7.4**, **Food 7.3** | 6.7 / 6.5 / 6.7 / 7.5 / 7.3 | [26.4207, 50.0888](https://www.google.com/maps/search/?api=1&query=26.4207,50.0888) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Dammam%2C%20Saudi%20Arabia) |
 
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+## Not yet fully assessed (2)
+
+These destinations have no rank until all five core scores are assessed.
+
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| — | [Mecca](cities/mecca.yaml) | City / town | **—** | **Culture 9.4**, **History 9.4** | 9.3 / 9.4 / 9.4 / — / — | [21.4225, 39.8262](https://www.google.com/maps/search/?api=1&query=21.4225,39.8262) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mecca%2C%20Saudi%20Arabia) |
+| — | [Medina](cities/medina.yaml) | City / town | **—** | **History 9.3**, **Culture 9.2** | 8.8 / 9.0 / 9.4 / — / — | [24.4686, 39.6142](https://www.google.com/maps/search/?api=1&query=24.4686,39.6142) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Medina%2C%20Saudi%20Arabia) |
 
 ---
 

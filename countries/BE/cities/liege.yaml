@@ -1,0 +1,16 @@
+id: city-be-liege
+name: "Liège"
+location:
+  country_code: BE
+  latitude: 50.6326
+  longitude: 5.5797
+scores:
+  impact: 8.2
+  uniqueness: 8.3
+  significance: 8.7
+  experience: 8.6
+  depth: 8.7
+  categories:
+    history: 8.9
+    culture: 8.9
+    architecture: 8.6

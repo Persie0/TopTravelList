@@ -1,0 +1,16 @@
+id: sight-ro-cozia
+name: "Cozia National Park"
+location:
+  country_code: RO
+  latitude: 45.32
+  longitude: 24.33
+scores:
+  impact: 8.6
+  uniqueness: 8.5
+  significance: 8.5
+  experience: 8.7
+  depth: 8.7
+  categories:
+    nature: 9.1
+    adventure: 8.9
+    photography: 8.9

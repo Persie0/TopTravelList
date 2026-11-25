@@ -1,0 +1,15 @@
+id: sight-mx-templo-mayor
+name: "Templo Mayor Archaeological Site"
+location:
+  country_code: MX
+  latitude: 19.435
+  longitude: -99.131
+scores:
+  impact: 8.5
+  uniqueness: 9.0
+  significance: 9.4
+  experience: 8.7
+  depth: 8.5
+  categories:
+    history: 9.4
+    culture: 9.1

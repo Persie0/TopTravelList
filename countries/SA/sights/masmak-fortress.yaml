@@ -1,0 +1,15 @@
+id: sight-sa-masmak-fortress
+name: "Al Masmak Fortress"
+location:
+  country_code: SA
+  latitude: 24.631
+  longitude: 46.713
+scores:
+  impact: 7.9
+  uniqueness: 8.0
+  significance: 8.7
+  experience: 8.1
+  depth: 7.4
+  categories:
+    architecture: 8.4
+    history: 8.9

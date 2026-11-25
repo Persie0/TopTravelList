@@ -1,0 +1,16 @@
+id: city-mx-cosala
+name: "Cosalá"
+location:
+  country_code: MX
+  latitude: 24.415
+  longitude: -106.692
+scores:
+  impact: 7.6
+  uniqueness: 8.0
+  significance: 8.0
+  experience: 7.8
+  depth: 7.0
+  categories:
+    architecture: 8.5
+    history: 8.5
+    culture: 8.2

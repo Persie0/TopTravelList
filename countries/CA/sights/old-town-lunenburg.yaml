@@ -1,0 +1,16 @@
+id: sight-ca-old-town-lunenburg
+name: "Old Town Lunenburg"
+location:
+  country_code: CA
+  latitude: 44.377
+  longitude: -64.309
+scores:
+  impact: 8.5
+  uniqueness: 8.7
+  significance: 8.9
+  experience: 8.4
+  depth: 8.0
+  categories:
+    architecture: 9.1
+    history: 9.1
+    photography: 9.0

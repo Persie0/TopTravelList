@@ -1,0 +1,16 @@
+id: city-be-bouillon
+name: "Bouillon"
+location:
+  country_code: BE
+  latitude: 49.794
+  longitude: 5.068
+scores:
+  impact: 8.4
+  uniqueness: 8.4
+  significance: 8.3
+  experience: 8.4
+  depth: 7.4
+  categories:
+    photography: 8.9
+    history: 8.8
+    architecture: 8.6

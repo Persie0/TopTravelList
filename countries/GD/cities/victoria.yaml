@@ -1,0 +1,15 @@
+id: city-gd-victoria
+name: "Victoria"
+location:
+  country_code: GD
+  latitude: 12.192
+  longitude: -61.707
+scores:
+  impact: 6.8
+  uniqueness: 7.3
+  significance: 6.8
+  experience: 7.4
+  depth: 6.1
+  categories:
+    culture: 7.9
+    photography: 7.8

@@ -1,0 +1,15 @@
+id: city-tj-langar
+name: "Langar"
+location:
+  country_code: TJ
+  latitude: 37.05
+  longitude: 72.66
+scores:
+  impact: 7.7
+  uniqueness: 8.4
+  significance: 7.4
+  experience: 8.0
+  depth: 6.4
+  categories:
+    culture: 8.6
+    photography: 8.7

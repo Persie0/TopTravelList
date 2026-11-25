@@ -1,0 +1,16 @@
+id: city-lt-palanga
+name: "Palanga"
+location:
+  country_code: LT
+  latitude: 55.918
+  longitude: 21.068
+scores:
+  impact: 7.9
+  uniqueness: 7.6
+  significance: 7.4
+  experience: 8.7
+  depth: 8.0
+  categories:
+    beaches: 8.8
+    relaxation: 8.8
+    culture: 8

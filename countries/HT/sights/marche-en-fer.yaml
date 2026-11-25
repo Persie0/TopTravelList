@@ -1,0 +1,16 @@
+id: sight-ht-marche-en-fer
+name: "Marché en Fer (Iron Market)"
+location:
+  country_code: HT
+  latitude: 18.548
+  longitude: -72.345
+scores:
+  impact: 7.6
+  uniqueness: 8.1
+  significance: 8.0
+  experience: 8.0
+  depth: 7.0
+  categories:
+    culture: 8.8
+    architecture: 8.5
+    food: 8.4

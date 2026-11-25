@@ -1,0 +1,16 @@
+id: sight-cy-akamas
+name: "Akamas Peninsula"
+location:
+  country_code: CY
+  latitude: 35.03
+  longitude: 32.32
+scores:
+  impact: 8.8
+  uniqueness: 8.5
+  significance: 8.2
+  experience: 8.6
+  depth: 8.7
+  categories:
+    nature: 9.0
+    photography: 9.0
+    adventure: 8.6

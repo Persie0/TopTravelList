@@ -1,0 +1,15 @@
+id: sight-ps-historic-gaza
+name: "Historic Centre of Gaza (Omari Mosque and Porphyrius Church)"
+location:
+  country_code: PS
+  latitude: 31.504
+  longitude: 34.463
+scores:
+  impact: null
+  uniqueness: 8.7
+  significance: 9.1
+  experience: null
+  depth: null
+  categories:
+    history: 9.2
+    architecture: 9.0

@@ -1,0 +1,16 @@
+id: sight-ro-sucevita
+name: "Sucevița Monastery"
+location:
+  country_code: RO
+  latitude: 47.778
+  longitude: 25.713
+scores:
+  impact: 9.0
+  uniqueness: 9.1
+  significance: 9.2
+  experience: 8.8
+  depth: 8.2
+  categories:
+    culture: 9.4
+    architecture: 9.3
+    history: 9.3

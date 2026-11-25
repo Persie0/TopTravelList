@@ -1,0 +1,15 @@
+id: city-is-hofn
+name: "Höfn"
+location:
+  country_code: IS
+  latitude: 64.253
+  longitude: -15.208
+scores:
+  impact: 7.6
+  uniqueness: 7.8
+  significance: 7.4
+  experience: 8.1
+  depth: 7.2
+  categories:
+    food: 8.4
+    photography: 8.3

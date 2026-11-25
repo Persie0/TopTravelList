@@ -1,0 +1,15 @@
+id: city-ps-ramallah
+name: "Ramallah"
+location:
+  country_code: PS
+  latitude: 31.9038
+  longitude: 35.2034
+scores:
+  impact: 7.5
+  uniqueness: 7.8
+  significance: 8.0
+  experience: 8.2
+  depth: 8.0
+  categories:
+    culture: 8.5
+    food: 8.4

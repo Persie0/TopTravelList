@@ -1,0 +1,15 @@
+id: city-ro-alba-iulia
+name: "Alba Iulia"
+location:
+  country_code: RO
+  latitude: 46.067
+  longitude: 23.57
+scores:
+  impact: 8.5
+  uniqueness: 8.6
+  significance: 8.9
+  experience: 8.6
+  depth: 8.2
+  categories:
+    architecture: 9.0
+    history: 9.3

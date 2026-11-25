@@ -1,0 +1,16 @@
+id: city-mx-san-sebastian-del-oeste
+name: "San Sebastián del Oeste"
+location:
+  country_code: MX
+  latitude: 20.762
+  longitude: -104.853
+scores:
+  impact: 7.8
+  uniqueness: 8.1
+  significance: 7.9
+  experience: 7.9
+  depth: 7.0
+  categories:
+    architecture: 8.6
+    history: 8.5
+    photography: 8.6

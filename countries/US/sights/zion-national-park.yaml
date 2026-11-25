@@ -1,0 +1,16 @@
+id: sight-us-zion-national-park
+name: "Zion National Park"
+location:
+  country_code: US
+  latitude: 37.25
+  longitude: -113.05
+scores:
+  impact: 9.4
+  uniqueness: 9.2
+  significance: 8.7
+  experience: 9.2
+  depth: 9.0
+  categories:
+    nature: 9.4
+    photography: 9.4
+    adventure: 9.3

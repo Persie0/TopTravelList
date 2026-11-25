@@ -1,0 +1,15 @@
+id: sight-iq-wadi-al-salam
+name: "Wadi Al-Salam Cemetery"
+location:
+  country_code: IQ
+  latitude: 32.011
+  longitude: 44.31
+scores:
+  impact: 8.2
+  uniqueness: 9.2
+  significance: 9.0
+  experience: 7.5
+  depth: 7.4
+  categories:
+    history: 9.1
+    culture: 9.1

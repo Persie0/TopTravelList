@@ -1,0 +1,13 @@
+id: sight-mx-banco-chinchorro
+name: "Banco Chinchorro Biosphere Reserve"
+location:
+  country_code: MX
+  latitude: 18.55
+  longitude: -87.35
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}

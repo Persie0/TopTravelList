@@ -1,0 +1,16 @@
+id: city-ag-english-harbour
+name: "English Harbour"
+location:
+  country_code: AG
+  latitude: 17.013
+  longitude: -61.765
+scores:
+  impact: 8.3
+  uniqueness: 8.7
+  significance: 8.4
+  experience: 8.4
+  depth: 7.6
+  categories:
+    photography: 9.1
+    history: 9.0
+    culture: 8.7

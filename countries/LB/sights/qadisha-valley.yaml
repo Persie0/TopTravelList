@@ -1,0 +1,16 @@
+id: sight-lb-qadisha-valley
+name: "Qadisha Valley"
+location:
+  country_code: LB
+  latitude: 34.253889
+  longitude: 35.951111
+scores:
+  impact: 9.1
+  uniqueness: 9.1
+  significance: 9.1
+  experience: 8.8
+  depth: 9.0
+  categories:
+    nature: 9.3
+    history: 9.2
+    photography: 9.4

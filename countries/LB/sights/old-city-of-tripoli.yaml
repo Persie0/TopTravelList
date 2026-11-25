@@ -1,0 +1,16 @@
+id: sight-lb-old-city-of-tripoli
+name: "Old City of Tripoli"
+location:
+  country_code: LB
+  latitude: 34.433333
+  longitude: 35.833333
+scores:
+  impact: 8.6
+  uniqueness: 9.0
+  significance: 9.2
+  experience: null
+  depth: 8.9
+  categories:
+    architecture: 9.4
+    history: 9.4
+    culture: 9.2

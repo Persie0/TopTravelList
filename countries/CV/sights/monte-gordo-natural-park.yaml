@@ -1,0 +1,16 @@
+id: sight-cv-monte-gordo-natural-park
+name: "Monte Gordo Natural Park"
+location:
+  country_code: CV
+  latitude: 16.6140
+  longitude: -24.3560
+scores:
+  impact: 8.5
+  uniqueness: 8.5
+  significance: 8.1
+  experience: 8.5
+  depth: 8.0
+  categories:
+    nature: 9.0
+    adventure: 8.8
+    photography: 8.9

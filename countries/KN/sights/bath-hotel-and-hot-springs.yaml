@@ -1,0 +1,16 @@
+id: sight-kn-bath-hotel-and-hot-springs
+name: "Bath Hotel and Hot Springs"
+location:
+  country_code: KN
+  latitude: 17.126
+  longitude: -62.621
+scores:
+  impact: 7.7
+  uniqueness: 8.8
+  significance: 8.8
+  experience: 8.2
+  depth: 7.2
+  categories:
+    history: 9.2
+    culture: 8.9
+    relaxation: 8.5

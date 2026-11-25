@@ -1,0 +1,14 @@
+id: sight-tj-ancient-city-of-karon
+name: "Ancient City of Karon"
+location:
+  country_code: TJ
+  latitude: 38.46
+  longitude: 70.78
+scores:
+  impact: 8.2
+  uniqueness: 8.6
+  significance: 9.0
+  experience: 8.1
+  depth: 7.6
+  categories:
+    history: 9.2

@@ -1,0 +1,16 @@
+id: sight-ni-cerro-negro-volcano
+name: "Cerro Negro Volcano"
+location:
+  country_code: NI
+  latitude: 12.506
+  longitude: -86.702
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 8.0
+  experience: 9.1
+  depth: 7.5
+  categories:
+    adventure: 9.4
+    nature: 9.0
+    photography: 9.1

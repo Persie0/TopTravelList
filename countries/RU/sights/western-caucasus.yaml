@@ -1,0 +1,15 @@
+id: sight-ru-western-caucasus
+name: "Western Caucasus"
+location:
+  country_code: RU
+  latitude: 43.8
+  longitude: 40.2
+scores:
+  impact: 9.1
+  uniqueness: 8.9
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    nature: 9.3
+    adventure: 9.1

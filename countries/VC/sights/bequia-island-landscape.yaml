@@ -1,0 +1,16 @@
+id: sight-vc-bequia-island-landscape
+name: "Bequia island landscape"
+location:
+  country_code: VC
+  latitude: 13.008533
+  longitude: -61.228364
+scores:
+  impact: 8.7
+  uniqueness: 8.5
+  significance: 7.6
+  experience: 8.8
+  depth: 8.3
+  categories:
+    nature: 8.7
+    photography: 9.1
+    culture: 8.6

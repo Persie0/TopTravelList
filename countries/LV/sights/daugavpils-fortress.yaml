@@ -1,0 +1,15 @@
+id: sight-lv-daugavpils-fortress
+name: "Daugavpils Fortress"
+location:
+  country_code: LV
+  latitude: 55.884
+  longitude: 26.496
+scores:
+  impact: 8.3
+  uniqueness: 8.8
+  significance: 8.7
+  experience: 8.5
+  depth: 8.8
+  categories:
+    architecture: 8.9
+    history: 9

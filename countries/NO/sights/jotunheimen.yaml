@@ -1,0 +1,16 @@
+id: sight-no-jotunheimen
+name: "Jotunheimen National Park"
+location:
+  country_code: "NO"
+  latitude: 61.48
+  longitude: 8.4
+scores:
+  impact: 9.5
+  uniqueness: 9.2
+  significance: 9.0
+  experience: 9.3
+  depth: 9.5
+  categories:
+    nature: 9.6
+    adventure: 9.5
+    photography: 9.5

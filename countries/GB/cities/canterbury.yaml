@@ -1,0 +1,16 @@
+id: city-gb-canterbury
+name: "Canterbury"
+location:
+  country_code: GB
+  latitude: 51.28
+  longitude: 1.08
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 9.1
+  experience: 8.7
+  depth: 8.2
+  categories:
+    history: 9.3
+    architecture: 9.1
+    culture: 8.8

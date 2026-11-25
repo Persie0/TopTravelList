@@ -1,0 +1,15 @@
+id: sight-kp-koguryo-tombs
+name: "Complex of Koguryo Tombs"
+location:
+  country_code: KP
+  latitude: 38.85
+  longitude: 125.4
+scores:
+  impact: 8.1
+  uniqueness: 9.2
+  significance: 9.4
+  experience: null
+  depth: null
+  categories:
+    history: 9.4
+    architecture: 9.0

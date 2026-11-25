@@ -1,0 +1,17 @@
+id: city-ca-toronto
+name: "Toronto"
+location:
+  country_code: CA
+  latitude: 43.6532
+  longitude: -79.3832
+scores:
+  impact: 8.3
+  uniqueness: 8.2
+  significance: 8.5
+  experience: 8.8
+  depth: 9.1
+  categories:
+    food: 9.2
+    culture: 9.1
+    nightlife: 8.8
+    architecture: 8.4

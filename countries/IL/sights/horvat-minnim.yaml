@@ -1,0 +1,15 @@
+id: sight-il-horvat-minnim
+name: "Horvat Minnim (Khirbat al-Minya)"
+location:
+  country_code: IL
+  latitude: 32.867
+  longitude: 35.536
+scores:
+  impact: 7.5
+  uniqueness: 8.2
+  significance: 8.7
+  experience: null
+  depth: null
+  categories:
+    history: 8.9
+    architecture: 8.5

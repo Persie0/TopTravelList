@@ -1,0 +1,16 @@
+id: sight-ro-bran-castle
+name: "Bran Castle"
+location:
+  country_code: RO
+  latitude: 45.515
+  longitude: 25.367
+scores:
+  impact: 8.8
+  uniqueness: 8.6
+  significance: 8.5
+  experience: 8.7
+  depth: 8.0
+  categories:
+    architecture: 9.0
+    history: 8.9
+    photography: 9.1

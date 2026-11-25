@@ -1,0 +1,13 @@
+id: sight-bs-castle-island-lighthouse
+name: "Castle Island Lighthouse"
+location:
+  country_code: BS
+  latitude: 22.125833
+  longitude: -74.328056
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}

@@ -1,0 +1,16 @@
+id: sight-ni-masaya-volcano-national-park
+name: "Masaya Volcano National Park"
+location:
+  country_code: NI
+  latitude: 11.984
+  longitude: -86.164
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 8.6
+  experience: 8.5
+  depth: 8.1
+  categories:
+    nature: 9.3
+    photography: 9.2
+    adventure: 8.9

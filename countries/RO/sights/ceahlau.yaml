@@ -1,0 +1,16 @@
+id: sight-ro-ceahlau
+name: "Ceahlău National Park"
+location:
+  country_code: RO
+  latitude: 46.98
+  longitude: 25.95
+scores:
+  impact: 9.0
+  uniqueness: 8.8
+  significance: 8.6
+  experience: 9.0
+  depth: 8.7
+  categories:
+    nature: 9.3
+    photography: 9.2
+    adventure: 9.1

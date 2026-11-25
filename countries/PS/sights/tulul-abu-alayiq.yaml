@@ -1,0 +1,15 @@
+id: sight-ps-tulul-abu-alayiq
+name: "Archaeological Palaces of Tulul Abu el-Alayiq"
+location:
+  country_code: PS
+  latitude: 31.853361
+  longitude: 35.435278
+scores:
+  impact: 7.8
+  uniqueness: 8.6
+  significance: 8.9
+  experience: null
+  depth: null
+  categories:
+    history: 9.1
+    architecture: 8.7

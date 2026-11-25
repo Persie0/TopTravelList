@@ -1,0 +1,15 @@
+id: sight-gb-bath-heritage
+name: "City of Bath World Heritage historic ensemble"
+location:
+  country_code: GB
+  latitude: 51.381
+  longitude: -2.36
+scores:
+  impact: 9.1
+  uniqueness: 9.3
+  significance: 9.3
+  experience: 9.1
+  depth: 9.0
+  categories:
+    architecture: 9.5
+    history: 9.4

@@ -1,0 +1,15 @@
+id: sight-af-ghazni-minarets
+name: "Ghazni Minarets"
+location:
+  country_code: AF
+  latitude: 33.56
+  longitude: 68.43
+scores:
+  impact: 8.5
+  uniqueness: 9.0
+  significance: 9.0
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.2
+    history: 9.1

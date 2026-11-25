@@ -1,0 +1,16 @@
+id: sight-mx-historic-centre-oaxaca
+name: "Historic Centre of Oaxaca"
+location:
+  country_code: MX
+  latitude: 17.061
+  longitude: -96.725
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 8.9
+  experience: 8.8
+  depth: 8.6
+  categories:
+    architecture: 9.2
+    history: 9.1
+    culture: 9.2

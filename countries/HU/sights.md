@@ -2,7 +2,7 @@
 
 # Hungary (HU) — Sights & attractions ranking
 
-**43 ranked** · **7 unassessed** · **50 total** · Worldwide scoring **v2**
+**44 ranked** · **6 unassessed** · **50 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,11 +10,11 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (43)
+## Complete ranked list (44)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
-| 1 | [Danube Banks, Buda Castle Quarter and Andrássy Avenue](sights/budapest-world-heritage.yaml) | Palace / castle | **95.40** | **Architecture 9.7**, **Photography 9.7**, **History 9.5**, Culture 9.4 | 9.6 / 9.5 / 9.5 / 9.5 / 9.6 | [47.5, 19.045](https://www.google.com/maps/search/?api=1&query=47.5,19.045) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Danube%20Banks%2C%20Buda%20Castle%20Quarter%20and%20Andr%C3%A1ssy%20Avenue%2C%20Hungary) |
+| 1 | [Danube Banks, Buda Castle Quarter and Andrássy Avenue](sights/budapest-world-heritage.yaml) | Palace / castle | **94.40** | **Architecture 9.6**, **History 9.5**, **Photography 9.5**, Culture 9.4 | 9.5 / 9.4 / 9.5 / 9.4 / 9.3 | [47.5, 19.045](https://www.google.com/maps/search/?api=1&query=47.5,19.045) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Danube%20Banks%2C%20Buda%20Castle%20Quarter%20and%20Andr%C3%A1ssy%20Avenue%2C%20Hungary) |
 | 2 | [Hungarian Parliament Building](sights/parliament.yaml) | Attraction | **92.25** | **Architecture 9.6**, **Photography 9.6**, **History 9.4** | 9.5 / 9.2 / 9.3 / 9.1 / 8.5 | [47.507, 19.045](https://www.google.com/maps/search/?api=1&query=47.507,19.045) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hungarian%20Parliament%20Building%2C%20Hungary) |
 | 3 | [Buda Castle and Castle District](sights/buda-castle.yaml) | Palace / castle | **92.15** | **Architecture 9.4**, **History 9.4**, **Photography 9.4** | 9.3 / 9.1 / 9.3 / 9.2 / 9.1 | [47.499, 19.04](https://www.google.com/maps/search/?api=1&query=47.499,19.04) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Buda%20Castle%20and%20Castle%20District%2C%20Hungary) |
 | 4 | [Aggtelek Karst caves (Hungarian section)](sights/aggtelek-caves.yaml) | Attraction | **90.80** | **Nature 9.4**, **Photography 9.2**, **Adventure 9.1** | 9.1 / 9.2 / 9.1 / 9.0 / 8.8 | [48.48, 20.5](https://www.google.com/maps/search/?api=1&query=48.48,20.5) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Aggtelek%20Karst%20caves%20%28Hungarian%20section%29%2C%20Hungary) |
@@ -56,9 +56,10 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 40 | [Duna–Dráva National Park](sights/duna-drava.yaml) | Park / reserve | **85.05** | **Nature 9.1**, **Wildlife 9.0** | 8.3 / 8.6 / 8.6 / 8.5 / 8.7 | [46.15, 18.85](https://www.google.com/maps/search/?api=1&query=46.15,18.85) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Duna%E2%80%93Dr%C3%A1va%20National%20Park%2C%20Hungary) |
 | 41 | [Szalajka Valley](sights/szalajka-valley.yaml) | Valley / canyon | **84.20** | **Nature 9.0**, **Photography 8.9** | 8.5 / 8.4 / 8.1 / 8.8 / 8.3 | [48.085, 20.4](https://www.google.com/maps/search/?api=1&query=48.085,20.4) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Szalajka%20Valley%2C%20Hungary) |
 | 42 | [Őrség National Park](sights/orseg.yaml) | Park / reserve | **83.95** | **Nature 8.9**, **Relaxation 8.8**, **Culture 8.7** | 8.2 / 8.4 / 8.3 / 8.7 / 8.7 | [46.85, 16.3](https://www.google.com/maps/search/?api=1&query=46.85,16.3) | [Google Maps](https://www.google.com/maps/search/?api=1&query=%C5%90rs%C3%A9g%20National%20Park%2C%20Hungary) |
-| 43 | [Körös–Maros National Park](sights/koros-maros.yaml) | Park / reserve | **83.50** | **Wildlife 9.1**, **Nature 9.0** | 8.1 / 8.5 / 8.5 / 8.3 / 8.5 | [46.65, 21](https://www.google.com/maps/search/?api=1&query=46.65,21) | [Google Maps](https://www.google.com/maps/search/?api=1&query=K%C3%B6r%C3%B6s%E2%80%93Maros%20National%20Park%2C%20Hungary) |
+| 43 | [Mezőhegyes State Stud-Farm Estate](sights/mezohegyes.yaml) | Attraction | **83.60** | **History 9.0**, **Architecture 8.9** | 8.0 / 8.7 / 8.9 / 8.1 / 7.9 | [46.32, 20.82](https://www.google.com/maps/search/?api=1&query=46.32,20.82) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mez%C5%91hegyes%20State%20Stud-Farm%20Estate%2C%20Hungary) |
+| 44 | [Körös–Maros National Park](sights/koros-maros.yaml) | Park / reserve | **83.50** | **Wildlife 9.1**, **Nature 9.0** | 8.1 / 8.5 / 8.5 / 8.3 / 8.5 | [46.65, 21](https://www.google.com/maps/search/?api=1&query=46.65,21) | [Google Maps](https://www.google.com/maps/search/?api=1&query=K%C3%B6r%C3%B6s%E2%80%93Maros%20National%20Park%2C%20Hungary) |
 
-## Not yet fully assessed (7)
+## Not yet fully assessed (6)
 
 These destinations have no rank until all five core scores are assessed.
 
@@ -66,7 +67,6 @@ These destinations have no rank until all five core scores are assessed.
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
 | — | [Buda Thermal Karst cave system (tentative)](sights/buda-thermal-karst.yaml) | Cave | **—** | **Nature 9.3** | 8.7 / 9.1 / 9.1 / — / — | [47.53, 19.01](https://www.google.com/maps/search/?api=1&query=47.53,19.01) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Buda%20Thermal%20Karst%20cave%20system%20%28tentative%29%2C%20Hungary) |
 | — | [Gellért Thermal Baths](sights/gellert-baths.yaml) | Attraction | **—** | **Architecture 9.3**, **Relaxation 9.2** | 8.9 / 9.0 / 8.8 / — / — | [47.484, 19.052](https://www.google.com/maps/search/?api=1&query=47.484,19.052) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Gell%C3%A9rt%20Thermal%20Baths%2C%20Hungary) |
-| — | [Mezőhegyes State Stud-Farm Estate](sights/mezohegyes.yaml) | Attraction | **—** | **History 9.0**, **Architecture 8.9** | 8.0 / 8.7 / 8.9 / — / — | [46.32, 20.82](https://www.google.com/maps/search/?api=1&query=46.32,20.82) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mez%C5%91hegyes%20State%20Stud-Farm%20Estate%2C%20Hungary) |
 | — | [Network of Rural Heritage Buildings in Hungary (tentative)](sights/rural-heritage-network.yaml) | Attraction | **—** | **Architecture 9.1**, **Culture 9.1** | 8.1 / 8.8 / 8.9 / — / — | [47.5, 19.1](https://www.google.com/maps/search/?api=1&query=47.5,19.1) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Network%20of%20Rural%20Heritage%20Buildings%20in%20Hungary%20%28tentative%29%2C%20Hungary) |
 | — | [Ripa Pannonica Roman frontier (Hungarian tentative components)](sights/ripa-pannonica.yaml) | Attraction | **—** | **History 9.3** | 7.9 / 8.7 / 9.2 / — / — | [47, 18.95](https://www.google.com/maps/search/?api=1&query=47,18.95) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ripa%20Pannonica%20Roman%20frontier%20%28Hungarian%20tentative%20components%29%2C%20Hungary) |
 | — | [Wooden bell towers of the Upper Tisza Region (tentative)](sights/upper-tisza-bell-towers.yaml) | Tower / viewpoint | **—** | **Architecture 9.2**, **Culture 9.0** | 8.2 / 8.9 / 8.9 / — / — | [48.08, 22.63](https://www.google.com/maps/search/?api=1&query=48.08,22.63) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Wooden%20bell%20towers%20of%20the%20Upper%20Tisza%20Region%20%28tentative%29%2C%20Hungary) |

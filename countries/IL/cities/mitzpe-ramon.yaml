@@ -1,0 +1,15 @@
+id: city-il-mitzpe-ramon
+name: "Mitzpe Ramon"
+location:
+  country_code: IL
+  latitude: 30.61
+  longitude: 34.801
+scores:
+  impact: 7.8
+  uniqueness: 7.7
+  significance: 6.7
+  experience: 7.8
+  depth: 7.0
+  categories:
+    nature: 8.3
+    relaxation: 7.7

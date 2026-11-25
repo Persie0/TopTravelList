@@ -1,0 +1,15 @@
+id: sight-tr-gobekli-tepe
+name: "Gobekli Tepe"
+location:
+  country_code: TR
+  latitude: 37.224
+  longitude: 38.922
+scores:
+  impact: 8.7
+  uniqueness: 9.4
+  significance: 9.4
+  experience: 8.5
+  depth: 7.9
+  categories:
+    history: 9.4
+    architecture: 9.2

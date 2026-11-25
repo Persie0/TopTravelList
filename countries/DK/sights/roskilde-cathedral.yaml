@@ -1,0 +1,16 @@
+id: sight-dk-roskilde-cathedral
+name: "Roskilde Cathedral"
+location:
+  country_code: DK
+  latitude: 55.642
+  longitude: 12.08
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 9.3
+  experience: 8.8
+  depth: 8.5
+  categories:
+    architecture: 9.3
+    history: 9.4
+    culture: 9

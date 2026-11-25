@@ -1,0 +1,15 @@
+id: sight-do-alcazar-de-colon
+name: "Alcázar de Colón"
+location:
+  country_code: DO
+  latitude: 18.478
+  longitude: -69.883
+scores:
+  impact: 8.3
+  uniqueness: 8.6
+  significance: 9.0
+  experience: 8.4
+  depth: 7.8
+  categories:
+    history: 9.2
+    architecture: 8.9

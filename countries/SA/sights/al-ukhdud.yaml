@@ -1,0 +1,14 @@
+id: sight-sa-al-ukhdud
+name: "Al Ukhdud Archaeological Site"
+location:
+  country_code: SA
+  latitude: 17.49
+  longitude: 44.16
+scores:
+  impact: 7.7
+  uniqueness: 8.3
+  significance: 8.6
+  experience: 7.6
+  depth: 7.5
+  categories:
+    history: 8.8

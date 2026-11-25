@@ -1,0 +1,15 @@
+id: sight-ae-saadiyat-beach
+name: "Saadiyat Beach"
+location:
+  country_code: AE
+  latitude: 24.549
+  longitude: 54.437
+scores:
+  impact: 8.3
+  uniqueness: 7.7
+  significance: 6.5
+  experience: 8.8
+  depth: 7.4
+  categories:
+    beaches: 9.1
+    relaxation: 9.0

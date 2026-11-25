@@ -1,0 +1,15 @@
+id: sight-ca-red-bay-whaling-station
+name: "Red Bay Basque Whaling Station"
+location:
+  country_code: CA
+  latitude: 51.732
+  longitude: -56.427
+scores:
+  impact: 7.7
+  uniqueness: 8.9
+  significance: 9.1
+  experience: 8.1
+  depth: 7.7
+  categories:
+    history: 9.3
+    culture: 8.8

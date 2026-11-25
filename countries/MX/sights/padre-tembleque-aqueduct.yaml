@@ -1,0 +1,16 @@
+id: sight-mx-padre-tembleque-aqueduct
+name: "Aqueduct of Padre Tembleque Hydraulic System"
+location:
+  country_code: MX
+  latitude: 19.88
+  longitude: -98.67
+scores:
+  impact: 8.4
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 7.9
+  depth: 7.6
+  categories:
+    architecture: 9.2
+    history: 9.1
+    photography: 8.8

@@ -1,0 +1,16 @@
+id: sight-fi-siida
+name: "Siida Sámi Museum and Nature Centre"
+location:
+  country_code: FI
+  latitude: 68.909
+  longitude: 27.014
+scores:
+  impact: 8.4
+  uniqueness: 9.0
+  significance: 8.9
+  experience: 8.7
+  depth: 8.6
+  categories:
+    culture: 9.4
+    history: 9.1
+    nature: 8.7

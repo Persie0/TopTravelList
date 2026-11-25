@@ -1,0 +1,16 @@
+id: sight-cy-blue-lagoon-akamas
+name: "Blue Lagoon, Akamas"
+location:
+  country_code: CY
+  latitude: 35.077
+  longitude: 32.3
+scores:
+  impact: 8.7
+  uniqueness: 8.1
+  significance: 6.8
+  experience: 8.4
+  depth: 6.8
+  categories:
+    nature: 8.7
+    beaches: 8.8
+    photography: 9.0

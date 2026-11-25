@@ -1,0 +1,17 @@
+id: sight-ca-canadian-rocky-mountain-parks
+name: "Canadian Rocky Mountain Parks"
+location:
+  country_code: CA
+  latitude: 51.65
+  longitude: -116.48
+scores:
+  impact: 9.8
+  uniqueness: 9.6
+  significance: 9.5
+  experience: 9.4
+  depth: 9.7
+  categories:
+    nature: 9.8
+    photography: 9.8
+    adventure: 9.6
+    wildlife: 9.1

@@ -1,0 +1,15 @@
+id: sight-lc-toraille-waterfall
+name: "Toraille Waterfall"
+location:
+  country_code: LC
+  latitude: 13.858
+  longitude: -61.032
+scores:
+  impact: 8.3
+  uniqueness: 7.7
+  significance: 6.2
+  experience: 8.6
+  depth: 6.5
+  categories:
+    nature: 8.5
+    photography: 8.9

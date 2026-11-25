@@ -1,0 +1,15 @@
+id: sight-ca-cn-tower
+name: "CN Tower"
+location:
+  country_code: CA
+  latitude: 43.6426
+  longitude: -79.3871
+scores:
+  impact: 8.5
+  uniqueness: 8.2
+  significance: 8.0
+  experience: 8.5
+  depth: 7.0
+  categories:
+    architecture: 8.7
+    photography: 9.0

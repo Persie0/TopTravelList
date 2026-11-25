@@ -1,0 +1,16 @@
+id: sight-gt-iximche
+name: "Iximché Archaeological Park"
+location:
+  country_code: GT
+  latitude: 14.738
+  longitude: -90.996
+scores:
+  impact: 7.9
+  uniqueness: 8.4
+  significance: 8.8
+  experience: 8.1
+  depth: 7.7
+  categories:
+    history: 9.1
+    culture: 8.8
+    architecture: 8.3

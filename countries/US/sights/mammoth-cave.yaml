@@ -1,0 +1,15 @@
+id: sight-us-mammoth-cave
+name: "Mammoth Cave National Park"
+location:
+  country_code: US
+  latitude: 37.19
+  longitude: -86.10
+scores:
+  impact: 8.5
+  uniqueness: 9.3
+  significance: 9.3
+  experience: 8.7
+  depth: 8.8
+  categories:
+    nature: 9.3
+    adventure: 9.0

@@ -2,7 +2,7 @@
 
 # Dominican Republic (DO) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**12 ranked** · **0 unassessed** · **12 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,22 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (12)
 
-No cities, towns & villages have been assessed for **Dominican Republic** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Santo Domingo](cities/santo-domingo.yaml) | City / town | **88.40** | **History 9.3**, **Architecture 9.0**, **Culture 9.0**, Food 8.6 | 8.7 / 8.8 / 9.2 / 8.6 / 9.0 | [18.486, -69.931](https://www.google.com/maps/search/?api=1&query=18.486,-69.931) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Santo%20Domingo%2C%20Dominican%20Republic) |
+| 2 | [Puerto Plata](cities/puerto-plata.yaml) | City / town | **80.20** | **Architecture 8.6**, **History 8.5**, **Culture 8.2** | 7.9 / 8.1 / 8.0 / 8.3 / 7.8 | [19.797, -70.694](https://www.google.com/maps/search/?api=1&query=19.797,-70.694) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Puerto%20Plata%2C%20Dominican%20Republic) |
+| 3 | [Santiago de los Caballeros](cities/santiago-de-los-caballeros.yaml) | City / town | **77.35** | **Culture 8.7**, **Food 8.4**, **History 8.3** | 7.4 / 7.8 / 8.0 / 7.9 / 7.8 | [19.451, -70.697](https://www.google.com/maps/search/?api=1&query=19.451,-70.697) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Santiago%20de%20los%20Caballeros%2C%20Dominican%20Republic) |
+| 4 | [Montecristi](cities/montecristi.yaml) | City / town | **76.65** | **Architecture 8.6**, **History 8.4**, **Photography 8.4** | 7.6 / 8.0 / 7.8 / 7.5 / 7.0 | [19.848, -71.645](https://www.google.com/maps/search/?api=1&query=19.848,-71.645) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Montecristi%2C%20Dominican%20Republic) |
+| 5 | [Santa Bárbara de Samaná](cities/santa-barbara-de-samana.yaml) | City / town | **75.40** | **Photography 8.5**, **Culture 8.2**, **Food 8.1** | 7.5 / 7.8 / 7.2 / 8.0 / 7.0 | [19.205, -69.337](https://www.google.com/maps/search/?api=1&query=19.205,-69.337) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Santa%20B%C3%A1rbara%20de%20Saman%C3%A1%2C%20Dominican%20Republic) |
+| 6 | [Las Terrenas](cities/las-terrenas.yaml) | City / town | **74.95** | **Relaxation 8.7**, **Food 8.5**, **Nightlife 8.4** | 7.7 / 7.5 / 6.6 / 8.4 / 7.3 | [19.313, -69.539](https://www.google.com/maps/search/?api=1&query=19.313,-69.539) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Las%20Terrenas%2C%20Dominican%20Republic) |
+| 7 | [Jarabacoa](cities/jarabacoa.yaml) | City / town | **74.00** | **Relaxation 8.3**, **Food 8.1**, **Culture 8.0** | 7.4 / 7.6 / 6.9 / 8.0 / 7.0 | [19.122, -70.637](https://www.google.com/maps/search/?api=1&query=19.122,-70.637) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Jarabacoa%2C%20Dominican%20Republic) |
+| 8 | [Bayahibe](cities/bayahibe.yaml) | City / town | **73.30** | **Relaxation 8.5**, **Culture 8.0**, **Food 8.0** | 7.4 / 7.6 / 6.8 / 8.0 / 6.5 | [18.368, -68.838](https://www.google.com/maps/search/?api=1&query=18.368,-68.838) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bayahibe%2C%20Dominican%20Republic) |
+| 9 | [Constanza](cities/constanza.yaml) | City / town | **72.45** | **Photography 8.4**, **Culture 7.9** | 7.2 / 7.8 / 6.7 / 7.5 / 6.7 | [18.91, -70.745](https://www.google.com/maps/search/?api=1&query=18.91,-70.745) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Constanza%2C%20Dominican%20Republic) |
+| 10 | [Punta Cana (Bávaro)](cities/punta-cana-bavaro.yaml) | City / town | **71.60** | **Relaxation 8.9**, **Nightlife 8.2**, **Food 8.1** | 7.4 / 6.7 / 6.2 / 8.5 / 7.5 | [18.68, -68.42](https://www.google.com/maps/search/?api=1&query=18.68,-68.42) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Punta%20Cana%20%28B%C3%A1varo%29%2C%20Dominican%20Republic) |
+| 11 | [La Romana](cities/la-romana.yaml) | City / town | **71.10** | **Food 8.1**, **Culture 7.9** | 6.9 / 7.0 / 7.2 / 7.6 / 7.1 | [18.427, -68.972](https://www.google.com/maps/search/?api=1&query=18.427,-68.972) | [Google Maps](https://www.google.com/maps/search/?api=1&query=La%20Romana%2C%20Dominican%20Republic) |
+| 12 | [Pedernales](cities/pedernales.yaml) | City / town | **67.85** | **Food 8.1**, **Culture 7.7** | 6.6 / 7.1 / 6.7 / 7.2 / 6.1 | [18.039, -71.744](https://www.google.com/maps/search/?api=1&query=18.039,-71.744) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Pedernales%2C%20Dominican%20Republic) |
 
 ---
 

@@ -1,0 +1,16 @@
+id: sight-ro-voronet
+name: "Voroneț Monastery"
+location:
+  country_code: RO
+  latitude: 47.517
+  longitude: 25.864
+scores:
+  impact: 8.9
+  uniqueness: 9.2
+  significance: 9.2
+  experience: 8.7
+  depth: 7.9
+  categories:
+    culture: 9.4
+    history: 9.2
+    architecture: 9.2

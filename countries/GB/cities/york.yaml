@@ -1,0 +1,16 @@
+id: city-gb-york
+name: "York"
+location:
+  country_code: GB
+  latitude: 53.959
+  longitude: -1.081
+scores:
+  impact: 9.1
+  uniqueness: 9.0
+  significance: 9.1
+  experience: 9.1
+  depth: 8.8
+  categories:
+    architecture: 9.3
+    history: 9.4
+    culture: 9.0

@@ -1,0 +1,15 @@
+id: sight-ru-komi-forests
+name: "Virgin Komi Forests"
+location:
+  country_code: RU
+  latitude: 65.5
+  longitude: 60.2
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    nature: 9.3
+    wildlife: 9.0

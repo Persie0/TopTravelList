@@ -1,0 +1,16 @@
+id: sight-gb-yorkshire-dales
+name: "Yorkshire Dales National Park"
+location:
+  country_code: GB
+  latitude: 54.25
+  longitude: -2.12
+scores:
+  impact: 8.9
+  uniqueness: 8.7
+  significance: 8.6
+  experience: 9.0
+  depth: 9.0
+  categories:
+    nature: 9.2
+    photography: 9.2
+    adventure: 9.0

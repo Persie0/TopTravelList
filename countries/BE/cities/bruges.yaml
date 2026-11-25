@@ -1,0 +1,17 @@
+id: city-be-bruges
+name: "Bruges (Brugge)"
+location:
+  country_code: BE
+  latitude: 51.2093
+  longitude: 3.2247
+scores:
+  impact: 9.3
+  uniqueness: 9.3
+  significance: 9.2
+  experience: 9.3
+  depth: 9.0
+  categories:
+    architecture: 9.5
+    history: 9.4
+    photography: 9.5
+    culture: 9.1

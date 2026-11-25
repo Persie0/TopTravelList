@@ -1,0 +1,15 @@
+id: sight-kg-osh-bazaar-bishkek
+name: "Osh Bazaar (Bishkek)"
+location:
+  country_code: KG
+  latitude: 42.873
+  longitude: 74.569
+scores:
+  impact: 7.6
+  uniqueness: 7.5
+  significance: 6.9
+  experience: 8.4
+  depth: 7.7
+  categories:
+    food: 8.6
+    culture: 8.4

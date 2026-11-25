@@ -1,0 +1,16 @@
+id: sight-dk-mons-klint
+name: "Møns Klint"
+location:
+  country_code: DK
+  latitude: 54.966
+  longitude: 12.543
+scores:
+  impact: 9.1
+  uniqueness: 9.0
+  significance: 9.1
+  experience: 8.9
+  depth: 8.5
+  categories:
+    nature: 9.4
+    photography: 9.4
+    adventure: 8.8

@@ -1,0 +1,16 @@
+id: sight-ir-alamut-fortifications
+name: "Alamut Castle and Related Fortifications"
+location:
+  country_code: IR
+  latitude: 36.444
+  longitude: 50.586
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 9.1
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.0
+    history: 9.2
+    photography: 9.1

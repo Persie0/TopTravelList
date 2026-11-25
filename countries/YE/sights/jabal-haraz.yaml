@@ -1,0 +1,15 @@
+id: sight-ye-jabal-haraz
+name: "Jabal Haraz"
+location:
+  country_code: YE
+  latitude: 15.166667
+  longitude: 43.75
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 8.6
+  experience: null
+  depth: null
+  categories:
+    nature: 9.1
+    architecture: 9.0

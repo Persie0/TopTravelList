@@ -1,0 +1,15 @@
+id: sight-cu-cayo-levisa
+name: "Cayo Levisa"
+location:
+  country_code: CU
+  latitude: 22.883
+  longitude: -83.537
+scores:
+  impact: 8.3
+  uniqueness: 8.0
+  significance: 6.8
+  experience: 8.5
+  depth: 7.0
+  categories:
+    beaches: 9.0
+    relaxation: 9.0

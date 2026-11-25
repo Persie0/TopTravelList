@@ -1,0 +1,16 @@
+id: sight-ro-rodna
+name: "Rodna Mountains National Park"
+location:
+  country_code: RO
+  latitude: 47.56
+  longitude: 24.75
+scores:
+  impact: 9.1
+  uniqueness: 8.9
+  significance: 8.7
+  experience: 9.0
+  depth: 9.2
+  categories:
+    nature: 9.3
+    adventure: 9.2
+    photography: 9.3

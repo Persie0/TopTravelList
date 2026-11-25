@@ -1,0 +1,16 @@
+id: sight-jm-blue-lagoon-portland
+name: "Blue Lagoon (Portland)"
+location:
+  country_code: JM
+  latitude: 18.169
+  longitude: -76.394
+scores:
+  impact: 8.5
+  uniqueness: 8.5
+  significance: 7.5
+  experience: 8.4
+  depth: 7.0
+  categories:
+    nature: 9.0
+    photography: 9.2
+    relaxation: 8.8

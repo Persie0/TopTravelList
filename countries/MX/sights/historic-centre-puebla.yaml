@@ -1,0 +1,15 @@
+id: sight-mx-historic-centre-puebla
+name: "Historic Centre of Puebla"
+location:
+  country_code: MX
+  latitude: 19.043
+  longitude: -98.198
+scores:
+  impact: 8.7
+  uniqueness: 8.7
+  significance: 9.0
+  experience: 8.6
+  depth: 8.7
+  categories:
+    architecture: 9.2
+    history: 9.2

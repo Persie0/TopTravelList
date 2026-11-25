@@ -1,0 +1,16 @@
+id: sight-ae-tel-moreeb-dune
+name: "Tel Moreeb Dune"
+location:
+  country_code: AE
+  latitude: 22.98
+  longitude: 53.79
+scores:
+  impact: 8.8
+  uniqueness: 8.4
+  significance: 7.0
+  experience: 8.3
+  depth: 7.0
+  categories:
+    photography: 9.1
+    adventure: 8.7
+    nature: 8.8

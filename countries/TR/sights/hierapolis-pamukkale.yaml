@@ -1,0 +1,16 @@
+id: sight-tr-hierapolis-pamukkale
+name: "Hierapolis-Pamukkale"
+location:
+  country_code: TR
+  latitude: 37.926
+  longitude: 29.125
+scores:
+  impact: 9.4
+  uniqueness: 9.3
+  significance: 9.1
+  experience: 8.9
+  depth: 8.9
+  categories:
+    nature: 9.4
+    history: 9.2
+    photography: 9.4

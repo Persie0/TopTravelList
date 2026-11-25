@@ -1,0 +1,15 @@
+id: sight-us-birmingham-civil-rights-monument
+name: "Birmingham Civil Rights National Monument"
+location:
+  country_code: US
+  latitude: 33.515
+  longitude: -86.815
+scores:
+  impact: 8.0
+  uniqueness: 8.7
+  significance: 9.3
+  experience: 8.3
+  depth: 8.1
+  categories:
+    history: 9.4
+    culture: 9.1

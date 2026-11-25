@@ -1,0 +1,16 @@
+id: sight-ht-la-visite-national-park
+name: "La Visite National Park"
+location:
+  country_code: HT
+  latitude: 18.36
+  longitude: -72.27
+scores:
+  impact: 8.3
+  uniqueness: 8.5
+  significance: 8.7
+  experience: 8.2
+  depth: 8.1
+  categories:
+    nature: 9.0
+    wildlife: 9.0
+    adventure: 8.7

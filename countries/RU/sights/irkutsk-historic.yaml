@@ -1,0 +1,15 @@
+id: sight-ru-irkutsk-historic
+name: "Historic Centre of Irkutsk"
+location:
+  country_code: RU
+  latitude: 52.28
+  longitude: 104.29
+scores:
+  impact: 8.2
+  uniqueness: 8.5
+  significance: 8.5
+  experience: 8.1
+  depth: 7.9
+  categories:
+    architecture: 8.9
+    history: 8.7

@@ -1,0 +1,16 @@
+id: sight-sy-saladin-castle
+name: "Qal'at Salah El-Din (Saladin Castle)"
+location:
+  country_code: SY
+  latitude: 35.596
+  longitude: 36.057
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 8.9
+  experience: 8.3
+  depth: 8.1
+  categories:
+    architecture: 9.0
+    history: 9.0
+    photography: 9.0

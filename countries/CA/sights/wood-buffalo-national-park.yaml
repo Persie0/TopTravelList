@@ -1,0 +1,15 @@
+id: sight-ca-wood-buffalo-national-park
+name: "Wood Buffalo National Park"
+location:
+  country_code: CA
+  latitude: 59.2
+  longitude: -112.4
+scores:
+  impact: 8.6
+  uniqueness: 9.0
+  significance: 9.4
+  experience: 8.0
+  depth: 8.5
+  categories:
+    nature: 9.3
+    wildlife: 9.4

@@ -1,0 +1,16 @@
+id: sight-bb-oistins-bay-gardens-fish-fry
+name: "Oistins Bay Gardens Fish Fry"
+location:
+  country_code: BB
+  latitude: 13.066
+  longitude: -59.538
+scores:
+  impact: 7.5
+  uniqueness: 8.6
+  significance: 7.5
+  experience: 9.2
+  depth: 7.6
+  categories:
+    food: 9.4
+    culture: 9.2
+    nightlife: 8.9

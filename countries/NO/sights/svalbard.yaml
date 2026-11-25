@@ -1,0 +1,16 @@
+id: sight-no-svalbard
+name: "Svalbard Archipelago (tentative property)"
+location:
+  country_code: "NO"
+  latitude: 78.2
+  longitude: 16.1
+scores:
+  impact: 9.5
+  uniqueness: 9.5
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    nature: 9.6
+    wildlife: 9.5
+    photography: 9.5

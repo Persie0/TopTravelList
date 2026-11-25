@@ -1,0 +1,16 @@
+id: city-ie-westport
+name: "Westport"
+location:
+  country_code: IE
+  latitude: 53.8
+  longitude: -9.52
+scores:
+  impact: 8.1
+  uniqueness: 8.1
+  significance: 8.0
+  experience: 8.6
+  depth: 7.9
+  categories:
+    architecture: 8.5
+    relaxation: 8.6
+    culture: 8.5

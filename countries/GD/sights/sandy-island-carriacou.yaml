@@ -1,0 +1,17 @@
+id: sight-gd-sandy-island-carriacou
+name: "Sandy Island (Carriacou)"
+location:
+  country_code: GD
+  latitude: 12.478
+  longitude: -61.493
+scores:
+  impact: 9.0
+  uniqueness: 8.6
+  significance: 7.3
+  experience: 8.6
+  depth: 7.1
+  categories:
+    beaches: 9.3
+    nature: 8.9
+    photography: 9.4
+    adventure: 8.6

@@ -1,0 +1,16 @@
+id: sight-ht-pic-macaya-national-park
+name: "Pic Macaya National Park"
+location:
+  country_code: HT
+  latitude: 18.38
+  longitude: -74.02
+scores:
+  impact: 8.6
+  uniqueness: 8.9
+  significance: 9.1
+  experience: 8.2
+  depth: 8.6
+  categories:
+    nature: 9.3
+    wildlife: 9.3
+    adventure: 8.8

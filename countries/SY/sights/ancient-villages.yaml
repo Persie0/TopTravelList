@@ -1,0 +1,15 @@
+id: sight-sy-ancient-villages
+name: "Ancient Villages of Northern Syria"
+location:
+  country_code: SY
+  latitude: 36.3
+  longitude: 36.85
+scores:
+  impact: 8.5
+  uniqueness: 9.1
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.1
+    history: 9.3

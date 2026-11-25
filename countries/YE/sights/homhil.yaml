@@ -1,0 +1,15 @@
+id: sight-ye-homhil
+name: "Homhil Protected Area"
+location:
+  country_code: YE
+  latitude: 12.57
+  longitude: 54.32
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 8.6
+  experience: 8.7
+  depth: 7.9
+  categories:
+    nature: 9.1
+    photography: 9.2

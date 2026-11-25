@@ -1,0 +1,15 @@
+id: sight-ag-redonda-ecosystem-reserve
+name: "Redonda Ecosystem Reserve"
+location:
+  country_code: AG
+  latitude: 16.94
+  longitude: -62.345
+scores:
+  impact: null
+  uniqueness: null
+  significance: 9.1
+  experience: null
+  depth: null
+  categories:
+    nature: 9.4
+    wildlife: 9.4

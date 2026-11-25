@@ -1,0 +1,16 @@
+id: sight-cy-cape-greco
+name: "Cape Greco National Forest Park"
+location:
+  country_code: CY
+  latitude: 34.961
+  longitude: 34.077
+scores:
+  impact: 8.7
+  uniqueness: 8.2
+  significance: 7.6
+  experience: 8.5
+  depth: 8.0
+  categories:
+    nature: 8.8
+    photography: 9.0
+    adventure: 8.5
