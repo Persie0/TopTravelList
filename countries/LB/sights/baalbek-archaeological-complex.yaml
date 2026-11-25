@@ -1,0 +1,16 @@
+id: sight-lb-baalbek-archaeological-complex
+name: "Baalbek Archaeological Complex"
+location:
+  country_code: LB
+  latitude: 34.006667
+  longitude: 36.204167
+scores:
+  impact: 9.7
+  uniqueness: 9.6
+  significance: 9.7
+  experience: null
+  depth: 9.3
+  categories:
+    architecture: 9.8
+    history: 9.7
+    photography: 9.6

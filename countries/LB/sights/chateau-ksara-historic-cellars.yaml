@@ -1,0 +1,15 @@
+id: sight-lb-chateau-ksara-historic-cellars
+name: "Chateau Ksara Historic Cellars"
+location:
+  country_code: LB
+  latitude: 33.82
+  longitude: 35.89
+scores:
+  impact: 7.8
+  uniqueness: 8.5
+  significance: 7.8
+  experience: null
+  depth: 7.3
+  categories:
+    food: 8.8
+    culture: 8.5
