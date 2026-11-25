@@ -698,6 +698,6 @@
 - Significance 6.8: regional administrative and settlement history.
 - Experience 7.0: local meals and public spaces under ordinary conditions.
 - Depth 6.4: limited urban visitor venues.
-- Categories: history 7.3, culture 7.2. Computed overall: 66.55/100.
+- Categories: history 7.3, culture 7.2. Computed overall: 66.45/100.
 - High-score challenge: Not applicable. Approved 10 registry: none.
 - Verification still needed: individual facts, GPS, ordinary access and closer same-type peer calibration.
