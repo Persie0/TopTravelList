@@ -1,0 +1,15 @@
+id: sight-it-herculaneum
+name: "Herculaneum Archaeological Park"
+location:
+  country_code: IT
+  latitude: 40.806
+  longitude: 14.348
+scores:
+  impact: 9.2
+  uniqueness: 9.5
+  significance: 9.5
+  experience: 9.1
+  depth: 8.8
+  categories:
+    history: 9.7
+    architecture: 9.4

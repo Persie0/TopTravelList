@@ -1,0 +1,15 @@
+id: city-it-cagliari
+name: "Cagliari"
+location:
+  country_code: IT
+  latitude: 39.2238
+  longitude: 9.1217
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 8.7
+  experience: 8.8
+  depth: 8.6
+  categories:
+    history: 9.1
+    architecture: 9.0

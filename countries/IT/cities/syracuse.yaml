@@ -1,0 +1,15 @@
+id: city-it-syracuse
+name: "Syracuse"
+location:
+  country_code: IT
+  latitude: 37.0755
+  longitude: 15.2866
+scores:
+  impact: 9.0
+  uniqueness: 9.1
+  significance: 9.3
+  experience: 9.0
+  depth: 9.0
+  categories:
+    architecture: 9.3
+    history: 9.5

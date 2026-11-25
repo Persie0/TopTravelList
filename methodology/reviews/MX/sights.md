@@ -2903,3 +2903,318 @@ All five official components of the [Franciscan Missions in the Sierra Gorda of 
 
 ### Camino Real component inventory follow-up
 See [60-component coverage register](camino-real-coverage.md). Existing overlapping World Heritage sites are linked rather than duplicated. The parent royal-road property remains unranked; named settlements and public visitor sites are evaluated independently.
+
+## sight-mx-tepeji-san-francisco-convent — Former Convent of San Francisco, Tepeji del Río — 2026-11-25
+
+- YAML: [source](../../../countries/MX/sights/tepeji-san-francisco-convent.yaml)
+- Action: new
+- Precise subject: Convent and public exterior ensemble; bridge access not assumed.
+- Location check: 19.904661, -99.341733; official UNESCO 1351-005 reference converted from DMS, not surveyed entrance; town records use historic-core representative point.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO component inventory](https://whc.unesco.org/en/list/1351/maps/); [Visitor or heritage source 1](https://lugares.inah.gob.mx/es/node/4615); [Visitor or heritage source 2](https://tepeji.gob.mx/turismo/) — checked 2026-11-25. INAH documents foundation and road context; municipality lists the convent as a tourism attraction. The inscribed bridge is included in the component identity but not scored as an independently confirmed visit.
+- Missing or uncertain facts: Independent claim corroboration, current access and operating conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Hohensalzburg Fortress](../../../countries/AT/sights/hohensalzburg-fortress.yaml) | Less monumental than Hohensalzburg |
+| [Bridgetown Garrison](../../../countries/BB/sights/historic-bridgetown-and-its-garrison.yaml) | smaller built ensemble than Garrison |
+| [Pigeon Island](../../../countries/LC/sights/pigeon-island-national-landmark.yaml) | more sacred architecture than Pigeon Island |
+| [Fort Hamilton](../../../countries/VC/sights/fort-hamilton-bequia.yaml) | greater religious context than Fort Hamilton. |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 7.9 | Historic church and convent setting |
+| Uniqueness | 8.3 | early Franciscan architecture on the royal road |
+| Significance | 8.7 | regional missionary and transport history |
+| Experience | 7.9 | municipal tourism-listed exterior visit |
+| Depth | 7.4 | bounded religious complex. |
+
+- Applicable categories: architecture:8.8,history:9.0,culture:8.7.
+- Overall: 81.10/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide score for named documented visitor scope only.
+- Earlier decision: None.
+- Verification still needed: Independent factual corroboration and current access confirmation.
+
+## sight-mx-encarnacion-de-diaz-cemetery — Panteón del Señor de la Misericordia, Encarnación de Díaz — 2026-11-25
+
+- YAML: [source](../../../countries/MX/sights/encarnacion-de-diaz-cemetery.yaml)
+- Action: new
+- Precise subject: Historic public cemetery architecture and permitted adjacent museum interpretation; no guarantee of access to individual graves or human remains.
+- Location check: 21.531542, -102.237133; official UNESCO 1351-021 reference converted from DMS, not surveyed entrance; town records use historic-core representative point.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO component inventory](https://whc.unesco.org/en/list/1351/maps/); [Visitor or heritage source 1](https://lugares.inah.gob.mx/es/node/4631); [Visitor or heritage source 2](https://encarnaciondediaz.gob.mx/arquitectura/); [Visitor or heritage source 3](https://sic.gob.mx/ficha.php?table=museo&table_id=1082) — checked 2026-11-25. INAH establishes cemetery identity; municipality describes historic chapel; federal museum listing confirms adjoining museum. Displays of human remains are not assumed.
+- Missing or uncertain facts: Independent claim corroboration, current access and operating conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Hohensalzburg Fortress](../../../countries/AT/sights/hohensalzburg-fortress.yaml) | Less monumental than Hohensalzburg |
+| [Bridgetown Garrison](../../../countries/BB/sights/historic-bridgetown-and-its-garrison.yaml) | more focused funerary context than Garrison |
+| [Pigeon Island](../../../countries/LC/sights/pigeon-island-national-landmark.yaml) | less landscape scope than Pigeon Island |
+| [Fort Hamilton](../../../countries/VC/sights/fort-hamilton-bequia.yaml) | greater cultural interpretation than Fort Hamilton. |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 7.6 | Historic funerary architecture and chapel |
+| Uniqueness | 8.4 | distinct regional cemetery and funerary interpretation |
+| Significance | 8.5 | royal-road and regional social history |
+| Experience | 7.9 | respectful public architectural and museum experience |
+| Depth | 7.4 | bounded cemetery ensemble. |
+
+- Applicable categories: architecture:8.5,history:8.8,culture:8.8.
+- Overall: 80.05/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide score for named documented visitor scope only.
+- Earlier decision: None.
+- Verification still needed: Independent factual corroboration and current access confirmation.
+
+## sight-mx-pabellon-de-hidalgo-insurgency-museum — Former Hacienda of Pabellón de Hidalgo (Museum of the Insurgency) — 2026-11-25
+
+- YAML: [source](../../../countries/MX/sights/pabellon-de-hidalgo-insurgency-museum.yaml)
+- Action: new
+- Precise subject: Former estate's museum and permitted public areas; private estate sections excluded.
+- Location check: 22.174719, -102.341389; official UNESCO 1351-025 reference converted from DMS, not surveyed entrance; town records use historic-core representative point.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO component inventory](https://whc.unesco.org/en/list/1351/maps/); [Visitor or heritage source 1](https://sic.cultura.gob.mx/ficha.php?disciplina=&table=museo&table_id=1048); [Visitor or heritage source 2](https://vivaaguascalientes.com/ruta-del-vino/atractivos-complementarios/museo-de-la-insurgencia/); [Visitor or heritage source 3](https://www.gob.mx/cultura/prensa/revisitan-al-camino-real-de-tierra-adentro-la-mas-destacada-ruta-difusora-de-arte-y-pensamiento-en-la-epoca-virreinal) — checked 2026-11-25. Federal museum inventory and tourism listing establish ordinary museum visits; federal culture account confirms attached chapel and historic art.
+- Missing or uncertain facts: Independent claim corroboration, current access and operating conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Hohensalzburg Fortress](../../../countries/AT/sights/hohensalzburg-fortress.yaml) | Less monumental than Hohensalzburg |
+| [Bridgetown Garrison](../../../countries/BB/sights/historic-bridgetown-and-its-garrison.yaml) | more focused independence history than Garrison |
+| [Pigeon Island](../../../countries/LC/sights/pigeon-island-national-landmark.yaml) | more museum interpretation than Pigeon Island |
+| [Fort Hamilton](../../../countries/VC/sights/fort-hamilton-bequia.yaml) | greater indoor heritage breadth than Fort Hamilton. |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.0 | Historic estate rooms and courtyard |
+| Uniqueness | 8.5 | distinct independence-era association and estate setting |
+| Significance | 9.0 | major Mexican independence history |
+| Experience | 8.4 | interpreted museum and architectural visit |
+| Depth | 8.0 | several exhibits and public spaces. |
+
+- Applicable categories: history:9.3,architecture:8.8,culture:9.0.
+- Overall: 83.85/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide score for named documented visitor scope only.
+- Earlier decision: None.
+- Verification still needed: Independent factual corroboration and current access confirmation.
+
+## sight-mx-plateros-sanctuary — Sanctuary of Santo Niño de Atocha, Plateros — 2026-11-25
+
+- YAML: [source](../../../countries/MX/sights/plateros-sanctuary.yaml)
+- Action: new
+- Precise subject: Historic sanctuary and permitted pilgrimage experience, not surrounding mining area.
+- Location check: 23.228889, -102.84055; official UNESCO 1351-038 reference converted from DMS, not surveyed entrance; town records use historic-core representative point.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO component inventory](https://whc.unesco.org/en/list/1351/maps/); [Visitor or heritage source 1](https://lugares.inah.gob.mx/es/node/4649); [Visitor or heritage source 2](https://www.zacatecastravel.com/act_fresnillo.php?producto=4); [Visitor or heritage source 3](https://www.zacatecastravel.com/imperdiblesfresnillo) — checked 2026-11-25. INAH documents mining settlement background; state tourism directly lists the sanctuary for visitors.
+- Missing or uncertain facts: Independent claim corroboration, current access and operating conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Hohensalzburg Fortress](../../../countries/AT/sights/hohensalzburg-fortress.yaml) | Less monumental than Hohensalzburg |
+| [Bridgetown Garrison](../../../countries/BB/sights/historic-bridgetown-and-its-garrison.yaml) | more concentrated devotional experience than Garrison |
+| [Pigeon Island](../../../countries/LC/sights/pigeon-island-national-landmark.yaml) | more religious heritage than Pigeon Island |
+| [Fort Hamilton](../../../countries/VC/sights/fort-hamilton-bequia.yaml) | greater cultural activity than Fort Hamilton. |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.2 | Ornate church and active pilgrimage atmosphere |
+| Uniqueness | 8.8 | distinct devotion linked to mining communities |
+| Significance | 9.0 | major regional religious heritage |
+| Experience | 8.6 | public pilgrimage and architectural encounter |
+| Depth | 7.8 | single sanctuary and surroundings. |
+
+- Applicable categories: architecture:8.9,history:9.1,culture:9.3.
+- Overall: 85.30/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide score for named documented visitor scope only.
+- Earlier decision: None.
+- Verification still needed: Independent factual corroboration and current access confirmation.
+
+## sight-mx-juana-guerra-san-antonio-chapel — Chapel of San Antonio, Former Hacienda of Juana Guerra — 2026-11-25
+
+- YAML: [source](../../../countries/MX/sights/juana-guerra-san-antonio-chapel.yaml)
+- Action: new
+- Precise subject: Chapel and ordinary authorized guided heritage stop; private estate interiors not included.
+- Location check: 23.842583, -104.189614; official UNESCO 1351-040 reference converted from DMS, not surveyed entrance; town records use historic-core representative point.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO component inventory](https://whc.unesco.org/en/list/1351/maps/); [Visitor or heritage source 1](https://www.elsiglodedurango.com.mx/noticia/2026/habra-recorrido-a-nombre-de-dios-con-salida-desde-el-museo-francisco-villa.html); [Visitor or heritage source 2](https://www.descubredurango.com/nombre-de-dios) — checked 2026-11-25. September 2026 reporting describes a museum-origin guided visit to chapel and estate; tourism guide identifies heritage site. Recurring schedules not confirmed.
+- Missing or uncertain facts: Independent claim corroboration, current access and operating conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Hohensalzburg Fortress](../../../countries/AT/sights/hohensalzburg-fortress.yaml) | Less monumental than Hohensalzburg |
+| [Bridgetown Garrison](../../../countries/BB/sights/historic-bridgetown-and-its-garrison.yaml) | much smaller than Garrison |
+| [Pigeon Island](../../../countries/LC/sights/pigeon-island-national-landmark.yaml) | more focused religious architecture than Pigeon Island |
+| [Fort Hamilton](../../../countries/VC/sights/fort-hamilton-bequia.yaml) | less extensive built scope than Fort Hamilton. |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 7.6 | Stone chapel in former estate landscape |
+| Uniqueness | 8.0 | distinct rural religious architecture |
+| Significance | 8.4 | regional colonial route history |
+| Experience | 7.5 | documented advertised guided visit |
+| Depth | 6.8 | compact chapel scope. |
+
+- Applicable categories: architecture:8.5,history:8.7,culture:8.3.
+- Overall: 77.65/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide score for named documented visitor scope only.
+- Earlier decision: None.
+- Verification still needed: Independent factual corroboration and current access confirmation.
+
+## sight-mx-nombre-de-dios-historic-temples — Historic Temples of Nombre de Dios — 2026-11-25
+
+- YAML: [source](../../../countries/MX/sights/nombre-de-dios-historic-temples.yaml)
+- Action: new
+- Precise subject: Public historic temple cluster including San Pedro and visible San Francisco remains; unrestricted interiors excluded.
+- Location check: 23.849439, -104.244714; official UNESCO 1351-041 reference converted from DMS, not surveyed entrance; town records use historic-core representative point.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO component inventory](https://whc.unesco.org/en/list/1351/maps/); [Visitor or heritage source 1](https://lugares.inah.gob.mx/es/node/4652); [Visitor or heritage source 2](https://www.gob.mx/sectur/articulos/nombre-de-dios-durango); [Visitor or heritage source 3](https://www.elsiglodedurango.com.mx/noticia/2026/habra-recorrido-a-nombre-de-dios-con-salida-desde-el-museo-francisco-villa.html) — checked 2026-11-25. INAH and federal tourism describe historic temple ensemble; 2026 guided visit reporting corroborates public scope.
+- Missing or uncertain facts: Independent claim corroboration, current access and operating conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Hohensalzburg Fortress](../../../countries/AT/sights/hohensalzburg-fortress.yaml) | Less fortress mass than Hohensalzburg |
+| [Bridgetown Garrison](../../../countries/BB/sights/historic-bridgetown-and-its-garrison.yaml) | different religious ensemble from Garrison |
+| [Pigeon Island](../../../countries/LC/sights/pigeon-island-national-landmark.yaml) | more church heritage than Pigeon Island |
+| [Fort Hamilton](../../../countries/VC/sights/fort-hamilton-bequia.yaml) | broader linked architecture than Fort Hamilton. |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.0 | Historic churches and ruined convent |
+| Uniqueness | 8.4 | distinct early northern mission cluster |
+| Significance | 8.9 | important regional settlement and religious history |
+| Experience | 8.2 | documented public circuit |
+| Depth | 8.1 | multiple separate temple stops. |
+
+- Applicable categories: architecture:8.8,history:9.2,culture:8.9.
+- Overall: 83.20/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide score for named documented visitor scope only.
+- Earlier decision: None.
+- Verification still needed: Independent factual corroboration and current access confirmation.
+
+## sight-mx-cuencame-historic-temples — Historic Temples and Cristo de Mapimí, Cuencamé — 2026-11-25
+
+- YAML: [source](../../../countries/MX/sights/cuencame-historic-temples.yaml)
+- Action: new
+- Precise subject: Public temple exteriors and permitted devotional visit, not all religious art access.
+- Location check: 24.87, -103.69805; official UNESCO 1351-044 reference converted from DMS, not surveyed entrance; town records use historic-core representative point.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO component inventory](https://whc.unesco.org/en/list/1351/maps/); [Visitor or heritage source 1](https://lugares.inah.gob.mx/es/node/4655); [Visitor or heritage source 2](https://www.cultura.gob.mx/turismocultural/guias/guia2_7.php); [Visitor or heritage source 3](https://www.atlasturistico.sectur.gob.mx/AtlasTuristico/atractivos-turisticos/sitios-patrimonio) — checked 2026-11-25. INAH identifies component; federal tourism guide describes venerated sculpture and baroque altarpiece.
+- Missing or uncertain facts: Independent claim corroboration, current access and operating conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Hohensalzburg Fortress](../../../countries/AT/sights/hohensalzburg-fortress.yaml) | Less monumental than Hohensalzburg |
+| [Bridgetown Garrison](../../../countries/BB/sights/historic-bridgetown-and-its-garrison.yaml) | smaller ensemble than Garrison |
+| [Pigeon Island](../../../countries/LC/sights/pigeon-island-national-landmark.yaml) | more religious significance than Pigeon Island |
+| [Fort Hamilton](../../../countries/VC/sights/fort-hamilton-bequia.yaml) | different devotional experience from Fort Hamilton. |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 7.7 | Historic church architecture |
+| Uniqueness | 8.3 | distinct Cristo de Mapimí devotional heritage |
+| Significance | 8.5 | regional religious and route history |
+| Experience | 7.9 | documented cultural tourism and worship context |
+| Depth | 7.4 | small cluster of temples. |
+
+- Applicable categories: architecture:8.6,history:8.8,culture:8.9.
+- Overall: 80.10/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide score for named documented visitor scope only.
+- Earlier decision: None.
+- Verification still needed: Independent factual corroboration and current access confirmation.
+
+## sight-mx-canutillo-francisco-villa-museum — Former Hacienda of El Canutillo (Francisco Villa Community Museum) — 2026-11-25
+
+- YAML: [source](../../../countries/MX/sights/canutillo-francisco-villa-museum.yaml)
+- Action: new
+- Precise subject: Former estate's public community museum and permitted architectural surroundings; private sections excluded.
+- Location check: 26.382778, -105.368889; official UNESCO 1351-054 reference converted from DMS, not surveyed entrance; town records use historic-core representative point.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO component inventory](https://whc.unesco.org/en/list/1351/maps/); [Visitor or heritage source 1](https://sic.gob.mx/ficha.php?table=museo&table_id=992); [Visitor or heritage source 2](https://lugares.inah.gob.mx/es/node/6345) — checked 2026-11-25. Federal cultural inventory identifies community museum and its historical themes. Current hours remain unconfirmed.
+- Missing or uncertain facts: Independent claim corroboration, current access and operating conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Hohensalzburg Fortress](../../../countries/AT/sights/hohensalzburg-fortress.yaml) | Less monumental than Hohensalzburg |
+| [Bridgetown Garrison](../../../countries/BB/sights/historic-bridgetown-and-its-garrison.yaml) | more concentrated revolutionary history than Garrison |
+| [Pigeon Island](../../../countries/LC/sights/pigeon-island-national-landmark.yaml) | more museum interpretation than Pigeon Island |
+| [Fort Hamilton](../../../countries/VC/sights/fort-hamilton-bequia.yaml) | greater cultural context than Fort Hamilton. |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 7.8 | Historic estate setting and exhibits |
+| Uniqueness | 8.5 | distinct revolutionary-era estate association |
+| Significance | 8.9 | major regional Revolution and agrarian history |
+| Experience | 8.1 | public community museum |
+| Depth | 7.6 | bounded exhibits and architecture. |
+
+- Applicable categories: history:9.2,culture:8.9,architecture:8.5.
+- Overall: 82.20/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide score for named documented visitor scope only.
+- Earlier decision: None.
+- Verification still needed: Independent factual corroboration and current access confirmation.
+
+## sight-mx-ojuela-mine-and-bridge — Ojuela Mine and Suspension Bridge — 2026-11-25
+
+- YAML: [source](../../../countries/MX/sights/ojuela-mine-and-bridge.yaml)
+- Action: new
+- Precise subject: Established public mine heritage tour, suspension bridge and permitted viewpoints; no unrestricted mine entry or adventure guarantee.
+- Location check: 25.792772, -103.790825; official UNESCO 1351-057 reference converted from DMS, not surveyed entrance; town records use historic-core representative point.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO component inventory](https://whc.unesco.org/en/list/1351/maps/); [Visitor or heritage source 1](https://visit.durango.gob.mx/2025/11/14/parque-ecoturistico-puente-de-ojuela); [Visitor or heritage source 2](https://www.durango.gob.mx/boletines/puente-de-ojuela-pasa-a-formar-parte-de-los-paseos-turisticos-de-durango); [Visitor or heritage source 3](https://lugares.inah.gob.mx/es/node/4668) — checked 2026-11-25. State tourism explicitly advertises crossing and mine visit; INAH confirms mine and bridge identity. Technical claims about bridge designers beyond those established are omitted.
+- Missing or uncertain facts: Independent claim corroboration, current access and operating conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Hohensalzburg Fortress](../../../countries/AT/sights/hohensalzburg-fortress.yaml) | Less monumental built fortress than Hohensalzburg |
+| [Bridgetown Garrison](../../../countries/BB/sights/historic-bridgetown-and-its-garrison.yaml) | different industrial engineering from Garrison |
+| [Pigeon Island](../../../countries/LC/sights/pigeon-island-national-landmark.yaml) | more dramatic crossing experience than Pigeon Island |
+| [Fort Hamilton](../../../countries/VC/sights/fort-hamilton-bequia.yaml) | broader industrial and scenic scope than Fort Hamilton. |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Dramatic canyon-spanning bridge and industrial landscape |
+| Uniqueness | 9.0 | distinct mining settlement and engineering experience |
+| Significance | 8.6 | regional mining history |
+| Experience | 8.8 | documented guided mine and bridge visit |
+| Depth | 8.4 | multiple linked visitor features. |
+
+- Applicable categories: history:9.0,architecture:9.0,adventure:9.2,photography:9.2.
+- Overall: 87.70/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide score for named documented visitor scope only.
+- Earlier decision: None.
+- Verification still needed: Independent factual corroboration and current access confirmation.

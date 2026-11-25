@@ -1,0 +1,16 @@
+id: sight-it-colosseum-forum
+name: "Colosseum Roman Forum and Palatine Hill"
+location:
+  country_code: IT
+  latitude: 41.89
+  longitude: 12.492
+scores:
+  impact: 9.7
+  uniqueness: 9.6
+  significance: 9.8
+  experience: 9.3
+  depth: 9.5
+  categories:
+    architecture: 9.8
+    history: 9.9
+    photography: 9.6

@@ -2,7 +2,7 @@
 
 # Italy (IT) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**25 ranked** · **0 unassessed** · **25 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,35 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (25)
 
-No cities, towns & villages have been assessed for **Italy** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Rome](cities/rome.yaml) | City / town | **97.30** | **History 9.9**, **Architecture 9.8**, **Culture 9.7** | 9.8 / 9.7 / 9.8 / 9.5 / 9.8 | [41.9028, 12.4964](https://www.google.com/maps/search/?api=1&query=41.9028,12.4964) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Rome%2C%20Italy) |
+| 2 | [Venice](cities/venice.yaml) | City / town | **96.50** | **Architecture 9.8**, **Photography 9.8**, **History 9.6** | 9.8 / 9.8 / 9.5 / 9.4 / 9.5 | [45.4408, 12.3155](https://www.google.com/maps/search/?api=1&query=45.4408,12.3155) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Venice%2C%20Italy) |
+| 3 | [Florence](cities/florence.yaml) | City / town | **95.55** | **Culture 9.8**, **Architecture 9.7**, **History 9.7** | 9.6 / 9.5 / 9.7 / 9.4 / 9.5 | [43.7696, 11.2558](https://www.google.com/maps/search/?api=1&query=43.7696,11.2558) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Florence%2C%20Italy) |
+| 4 | [Matera](cities/matera.yaml) | City / town | **92.50** | **Architecture 9.6**, **Photography 9.6**, **History 9.3** | 9.4 / 9.5 / 9.1 / 9.1 / 8.7 | [40.6664, 16.6043](https://www.google.com/maps/search/?api=1&query=40.6664,16.6043) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Matera%2C%20Italy) |
+| 4 | [Naples](cities/naples.yaml) | City / town | **92.50** | **Food 9.5**, **History 9.5**, **Culture 9.4** | 9.2 / 9.3 / 9.3 / 9.1 / 9.4 | [40.8518, 14.2681](https://www.google.com/maps/search/?api=1&query=40.8518,14.2681) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Naples%2C%20Italy) |
+| 6 | [Palermo](cities/palermo.yaml) | City / town | **92.00** | **Architecture 9.5**, **History 9.5**, **Food 9.4** | 9.1 / 9.3 / 9.3 / 9.1 / 9.2 | [38.1157, 13.3615](https://www.google.com/maps/search/?api=1&query=38.1157,13.3615) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Palermo%2C%20Italy) |
+| 7 | [Siena](cities/siena.yaml) | City / town | **91.30** | **Architecture 9.5**, **History 9.4**, **Photography 9.4** | 9.2 / 9.2 / 9.2 / 9.0 / 8.8 | [43.3188, 11.3308](https://www.google.com/maps/search/?api=1&query=43.3188,11.3308) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Siena%2C%20Italy) |
+| 8 | [Bologna](cities/bologna.yaml) | City / town | **91.05** | **Food 9.5**, **Architecture 9.3**, **Culture 9.2** | 9.0 / 9.1 / 9.2 / 9.2 / 9.1 | [44.4949, 11.3426](https://www.google.com/maps/search/?api=1&query=44.4949,11.3426) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bologna%2C%20Italy) |
+| 9 | [Milan](cities/milan.yaml) | City / town | **90.85** | **Culture 9.5**, **Architecture 9.4**, **Food 9.1** | 9.0 / 8.9 / 9.2 / 9.2 / 9.4 | [45.4642, 9.19](https://www.google.com/maps/search/?api=1&query=45.4642,9.19) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Milan%2C%20Italy) |
+| 9 | [Syracuse](cities/syracuse.yaml) | City / town | **90.85** | **History 9.5**, **Architecture 9.3** | 9.0 / 9.1 / 9.3 / 9.0 / 9.0 | [37.0755, 15.2866](https://www.google.com/maps/search/?api=1&query=37.0755,15.2866) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Syracuse%2C%20Italy) |
+| 11 | [Genoa](cities/genoa.yaml) | City / town | **90.55** | **Architecture 9.4**, **History 9.3**, **Culture 9.1** | 9.0 / 9.1 / 9.1 / 9.0 / 9.1 | [44.4056, 8.9463](https://www.google.com/maps/search/?api=1&query=44.4056,8.9463) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Genoa%2C%20Italy) |
+| 11 | [Verona](cities/verona.yaml) | City / town | **90.55** | **Architecture 9.4**, **History 9.3**, **Culture 9.2** | 9.1 / 9.0 / 9.1 / 9.1 / 8.9 | [45.4384, 10.9916](https://www.google.com/maps/search/?api=1&query=45.4384,10.9916) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Verona%2C%20Italy) |
+| 13 | [Ravenna](cities/ravenna.yaml) | City / town | **89.85** | **Culture 9.5**, **History 9.5**, **Architecture 9.3** | 8.8 / 9.1 / 9.4 / 8.8 / 8.7 | [44.4184, 12.2035](https://www.google.com/maps/search/?api=1&query=44.4184,12.2035) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ravenna%2C%20Italy) |
+| 14 | [Turin](cities/turin.yaml) | City / town | **89.60** | **Architecture 9.3**, **Culture 9.3**, **History 9.3** | 8.9 / 8.8 / 9.1 / 9.0 / 9.2 | [45.0703, 7.6869](https://www.google.com/maps/search/?api=1&query=45.0703,7.6869) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Turin%2C%20Italy) |
+| 15 | [Assisi](cities/assisi.yaml) | City / town | **89.55** | **Architecture 9.4**, **Culture 9.3**, **History 9.3** | 9.0 / 9.0 / 9.2 / 8.9 / 8.3 | [43.0707, 12.6196](https://www.google.com/maps/search/?api=1&query=43.0707,12.6196) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Assisi%2C%20Italy) |
+| 16 | [San Gimignano](cities/san-gimignano.yaml) | City / town | **89.50** | **Architecture 9.5**, **Photography 9.5** | 9.2 / 9.2 / 8.9 / 8.8 / 7.9 | [43.4677, 11.043](https://www.google.com/maps/search/?api=1&query=43.4677,11.043) | [Google Maps](https://www.google.com/maps/search/?api=1&query=San%20Gimignano%2C%20Italy) |
+| 17 | [Padua](cities/padua.yaml) | City / town | **89.20** | **Culture 9.4**, **Architecture 9.3**, **History 9.3** | 8.8 / 8.9 / 9.2 / 8.9 / 8.8 | [45.4064, 11.8768](https://www.google.com/maps/search/?api=1&query=45.4064,11.8768) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Padua%2C%20Italy) |
+| 17 | [Urbino](cities/urbino.yaml) | City / town | **89.20** | **Architecture 9.4**, **Culture 9.3**, **History 9.3** | 8.9 / 9.0 / 9.2 / 8.8 / 8.4 | [43.7262, 12.6363](https://www.google.com/maps/search/?api=1&query=43.7262,12.6363) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Urbino%2C%20Italy) |
+| 19 | [Lucca](cities/lucca.yaml) | City / town | **88.55** | **Architecture 9.3**, **History 9.1** | 8.9 / 8.9 / 8.8 / 9.0 / 8.5 | [43.8429, 10.5027](https://www.google.com/maps/search/?api=1&query=43.8429,10.5027) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lucca%2C%20Italy) |
+| 20 | [Trieste](cities/trieste.yaml) | City / town | **88.50** | **Architecture 9.2**, **Culture 9.2**, **History 9.1** | 8.8 / 8.8 / 8.9 / 9.0 / 8.8 | [45.6495, 13.7768](https://www.google.com/maps/search/?api=1&query=45.6495,13.7768) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Trieste%2C%20Italy) |
+| 21 | [Lecce](cities/lecce.yaml) | City / town | **88.40** | **Architecture 9.4**, **History 9.1** | 8.9 / 8.9 / 8.8 / 8.9 / 8.5 | [40.3515, 18.175](https://www.google.com/maps/search/?api=1&query=40.3515,18.175) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lecce%2C%20Italy) |
+| 22 | [Pisa](cities/pisa.yaml) | City / town | **88.10** | **Architecture 9.4**, **History 9.2** | 8.8 / 8.8 / 9.0 / 8.8 / 8.5 | [43.7228, 10.4017](https://www.google.com/maps/search/?api=1&query=43.7228,10.4017) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Pisa%2C%20Italy) |
+| 23 | [Taormina](cities/taormina.yaml) | City / town | **88.00** | **Photography 9.5**, **Architecture 9.2** | 9.0 / 8.9 / 8.7 / 8.9 / 8.0 | [37.851, 15.286](https://www.google.com/maps/search/?api=1&query=37.851,15.286) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Taormina%2C%20Italy) |
+| 24 | [Perugia](cities/perugia.yaml) | City / town | **87.70** | **Architecture 9.2**, **History 9.2**, **Culture 9.0** | 8.7 / 8.8 / 8.9 / 8.8 / 8.6 | [43.1107, 12.3908](https://www.google.com/maps/search/?api=1&query=43.1107,12.3908) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Perugia%2C%20Italy) |
+| 25 | [Cagliari](cities/cagliari.yaml) | City / town | **86.75** | **History 9.1**, **Architecture 9.0** | 8.6 / 8.7 / 8.7 / 8.8 / 8.6 | [39.2238, 9.1217](https://www.google.com/maps/search/?api=1&query=39.2238,9.1217) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cagliari%2C%20Italy) |
 
 ---
 

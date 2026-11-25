@@ -1,0 +1,16 @@
+id: sight-it-cilento-heritage
+name: "Cilento Vallo di Diano heritage landscape with Paestum Velia and Padula"
+location:
+  country_code: IT
+  latitude: 40.35
+  longitude: 15.2
+scores:
+  impact: 9.2
+  uniqueness: 9.2
+  significance: 9.4
+  experience: 9.1
+  depth: 9.5
+  categories:
+    history: 9.6
+    nature: 9.4
+    architecture: 9.4
