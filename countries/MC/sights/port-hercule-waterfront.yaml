@@ -1,0 +1,16 @@
+id: sight-mc-port-hercule-waterfront
+name: "Port Hercule Waterfront"
+location:
+  country_code: MC
+  latitude: 43.7350
+  longitude: 7.4240
+scores:
+  impact: 8.4
+  uniqueness: 8.2
+  significance: 7.7
+  experience: 8.6
+  depth: 7.9
+  categories:
+    photography: 9.1
+    architecture: 8.3
+    relaxation: 8.6
