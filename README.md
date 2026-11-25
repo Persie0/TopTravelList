@@ -82,11 +82,11 @@ Every registered country has a linked folder below. The status is determined fro
 
 <!-- COUNTRY_DIRECTORY_START -->
 
-**187 done · 10 not done · 197 countries total.**
+**188 done · 9 not done · 197 countries total.**
 
 **Done** means both the city and sight folders contain destination YAML records. It does not mean that every possible destination has been cataloged.
 
-### Done (187)
+### Done (188)
 
 | Country | Cities | Sights | Google Maps |
 | --- | ---: | ---: | --- |
@@ -218,6 +218,7 @@ Every registered country has a linked folder below. The status is determined fro
 | [Palau](countries/PW/) (`PW`) | [7](countries/PW/cities.md) | [22](countries/PW/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Palau) |
 | [Palestine](countries/PS/) (`PS`) | [10](countries/PS/cities.md) | [36](countries/PS/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Palestine) |
 | [Panama](countries/PA/) (`PA`) | [22](countries/PA/cities.md) | [53](countries/PA/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Panama) |
+| [Papua New Guinea](countries/PG/) (`PG`) | [7](countries/PG/cities.md) | [19](countries/PG/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Papua%20New%20Guinea) |
 | [Paraguay](countries/PY/) (`PY`) | [34](countries/PY/cities.md) | [52](countries/PY/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Paraguay) |
 | [Peru](countries/PE/) (`PE`) | [36](countries/PE/cities.md) | [66](countries/PE/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Peru) |
 | [Philippines](countries/PH/) (`PH`) | [15](countries/PH/cities.md) | [50](countries/PH/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Philippines) |
@@ -278,15 +279,15 @@ Every registered country has a linked folder below. The status is determined fro
 | [Zambia](countries/ZM/) (`ZM`) | [5](countries/ZM/cities.md) | [20](countries/ZM/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Zambia) |
 | [Zimbabwe](countries/ZW/) (`ZW`) | [6](countries/ZW/cities.md) | [20](countries/ZW/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Zimbabwe) |
 
-### Not done (10)
+### Not done (9)
 
 These countries have no entries in one or both destination folders yet. Their country folders already exist; follow the links to populate them.
 
 | Country | Country | Country | Country |
 | --- | --- | --- | --- |
 | [Algeria](countries/DZ/) (`DZ`) · [Map](https://www.google.com/maps/search/?api=1&query=Algeria) | [Australia](countries/AU/) (`AU`) · [Map](https://www.google.com/maps/search/?api=1&query=Australia) | [Egypt](countries/EG/) (`EG`) · [Map](https://www.google.com/maps/search/?api=1&query=Egypt) | [Ethiopia](countries/ET/) (`ET`) · [Map](https://www.google.com/maps/search/?api=1&query=Ethiopia) |
-| [Madagascar](countries/MG/) (`MG`) · [Map](https://www.google.com/maps/search/?api=1&query=Madagascar) | [Morocco](countries/MA/) (`MA`) · [Map](https://www.google.com/maps/search/?api=1&query=Morocco) | [New Zealand](countries/NZ/) (`NZ`) · [Map](https://www.google.com/maps/search/?api=1&query=New%20Zealand) | [Papua New Guinea](countries/PG/) (`PG`) · [Map](https://www.google.com/maps/search/?api=1&query=Papua%20New%20Guinea) |
-| [South Africa](countries/ZA/) (`ZA`) · [Map](https://www.google.com/maps/search/?api=1&query=South%20Africa) | [Tunisia](countries/TN/) (`TN`) · [Map](https://www.google.com/maps/search/?api=1&query=Tunisia) |  |  |
+| [Madagascar](countries/MG/) (`MG`) · [Map](https://www.google.com/maps/search/?api=1&query=Madagascar) | [Morocco](countries/MA/) (`MA`) · [Map](https://www.google.com/maps/search/?api=1&query=Morocco) | [New Zealand](countries/NZ/) (`NZ`) · [Map](https://www.google.com/maps/search/?api=1&query=New%20Zealand) | [South Africa](countries/ZA/) (`ZA`) · [Map](https://www.google.com/maps/search/?api=1&query=South%20Africa) |
+| [Tunisia](countries/TN/) (`TN`) · [Map](https://www.google.com/maps/search/?api=1&query=Tunisia) |  |  |  |
 
 <!-- COUNTRY_DIRECTORY_END -->
 
