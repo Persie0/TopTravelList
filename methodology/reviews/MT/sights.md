@@ -718,4 +718,3 @@
 | [Actun Tunichil Muknal Cave](../../../countries/BZ/sights/actun-tunichil-muknal-cave.yaml) | 9.4 / 9.6 / 9.4 / 9.4 / 8.2 | 93.30 | More involved guided archaeological cave route. |
 | [Niah Caves Archaeological Complex](../../../countries/MY/sights/niah-caves-archaeological-complex.yaml) | 9.0 / 9.4 / 9.6 / 8.8 / 8.8 | 91.70 | Broader archaeological cave landscape. |
 | [Eisriesenwelt Ice Cave](../../../countries/AT/sights/eisriesenwelt-werfen.yaml) | 9.0 / 9.4 / 8.8 / 9.0 / 8.4 | 90.00 | Longer cave circuit with different natural merit. |
-
