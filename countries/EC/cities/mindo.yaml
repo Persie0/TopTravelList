@@ -1,0 +1,16 @@
+id: city-ec-mindo
+name: "Mindo"
+location:
+  country_code: EC
+  latitude: -0.0520
+  longitude: -78.7760
+scores:
+  impact: 7.4
+  uniqueness: 7.7
+  significance: 6.5
+  experience: 8.2
+  depth: 6.7
+  categories:
+    relaxation: 8.5
+    culture: 7.4
+    photography: 7.8
