@@ -78,11 +78,11 @@ Every registered country has a linked folder below. The status is determined fro
 
 <!-- COUNTRY_DIRECTORY_START -->
 
-**16 done · 181 not done · 197 countries total.**
+**17 done · 180 not done · 197 countries total.**
 
 **Done** means both the city and sight folders contain destination YAML records. It does not mean that every possible destination has been cataloged.
 
-### Done (16)
+### Done (17)
 
 | Country | Cities | Sights |
 | --- | ---: | ---: |
@@ -99,11 +99,12 @@ Every registered country has a linked folder below. The status is determined fro
 | [Malaysia](countries/MY/) (`MY`) | 65 | 213 |
 | [Singapore](countries/SG/) (`SG`) | 1 | 99 |
 | [South Korea](countries/KR/) (`KR`) | 82 | 284 |
+| [Sri Lanka](countries/LK/) (`LK`) | 55 | 178 |
 | [Taiwan](countries/TW/) (`TW`) | 64 | 180 |
 | [Thailand](countries/TH/) (`TH`) | 69 | 206 |
 | [Vietnam](countries/VN/) (`VN`) | 140 | 360 |
 
-### Not done (181)
+### Not done (180)
 
 These countries have no entries in one or both destination folders yet. Their country folders already exist; follow the links to populate them.
 
@@ -147,14 +148,13 @@ These countries have no entries in one or both destination folders yet. Their co
 | [Saudi Arabia](countries/SA/) (`SA`) | [Senegal](countries/SN/) (`SN`) | [Serbia](countries/RS/) (`RS`) | [Seychelles](countries/SC/) (`SC`) |
 | [Sierra Leone](countries/SL/) (`SL`) | [Slovakia](countries/SK/) (`SK`) | [Slovenia](countries/SI/) (`SI`) | [Solomon Islands](countries/SB/) (`SB`) |
 | [Somalia](countries/SO/) (`SO`) | [South Africa](countries/ZA/) (`ZA`) | [South Sudan](countries/SS/) (`SS`) | [Spain](countries/ES/) (`ES`) |
-| [Sri Lanka](countries/LK/) (`LK`) | [Sudan](countries/SD/) (`SD`) | [Suriname](countries/SR/) (`SR`) | [Sweden](countries/SE/) (`SE`) |
-| [Switzerland](countries/CH/) (`CH`) | [Syria](countries/SY/) (`SY`) | [Tajikistan](countries/TJ/) (`TJ`) | [Tanzania](countries/TZ/) (`TZ`) |
-| [Timor-Leste](countries/TL/) (`TL`) | [Togo](countries/TG/) (`TG`) | [Tonga](countries/TO/) (`TO`) | [Trinidad and Tobago](countries/TT/) (`TT`) |
-| [Tunisia](countries/TN/) (`TN`) | [Turkmenistan](countries/TM/) (`TM`) | [Tuvalu](countries/TV/) (`TV`) | [Türkiye](countries/TR/) (`TR`) |
-| [Uganda](countries/UG/) (`UG`) | [Ukraine](countries/UA/) (`UA`) | [United Arab Emirates](countries/AE/) (`AE`) | [United Kingdom](countries/GB/) (`GB`) |
-| [United States](countries/US/) (`US`) | [Uruguay](countries/UY/) (`UY`) | [Uzbekistan](countries/UZ/) (`UZ`) | [Vanuatu](countries/VU/) (`VU`) |
-| [Vatican City](countries/VA/) (`VA`) | [Venezuela](countries/VE/) (`VE`) | [Yemen](countries/YE/) (`YE`) | [Zambia](countries/ZM/) (`ZM`) |
-| [Zimbabwe](countries/ZW/) (`ZW`) |  |  |  |
+| [Sudan](countries/SD/) (`SD`) | [Suriname](countries/SR/) (`SR`) | [Sweden](countries/SE/) (`SE`) | [Switzerland](countries/CH/) (`CH`) |
+| [Syria](countries/SY/) (`SY`) | [Tajikistan](countries/TJ/) (`TJ`) | [Tanzania](countries/TZ/) (`TZ`) | [Timor-Leste](countries/TL/) (`TL`) |
+| [Togo](countries/TG/) (`TG`) | [Tonga](countries/TO/) (`TO`) | [Trinidad and Tobago](countries/TT/) (`TT`) | [Tunisia](countries/TN/) (`TN`) |
+| [Turkmenistan](countries/TM/) (`TM`) | [Tuvalu](countries/TV/) (`TV`) | [Türkiye](countries/TR/) (`TR`) | [Uganda](countries/UG/) (`UG`) |
+| [Ukraine](countries/UA/) (`UA`) | [United Arab Emirates](countries/AE/) (`AE`) | [United Kingdom](countries/GB/) (`GB`) | [United States](countries/US/) (`US`) |
+| [Uruguay](countries/UY/) (`UY`) | [Uzbekistan](countries/UZ/) (`UZ`) | [Vanuatu](countries/VU/) (`VU`) | [Vatican City](countries/VA/) (`VA`) |
+| [Venezuela](countries/VE/) (`VE`) | [Yemen](countries/YE/) (`YE`) | [Zambia](countries/ZM/) (`ZM`) | [Zimbabwe](countries/ZW/) (`ZW`) |
 
 <!-- COUNTRY_DIRECTORY_END -->
 
