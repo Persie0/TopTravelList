@@ -477,3 +477,12 @@
 - Final decision: provisional worldwide rating based on documented authorized experiences; not full independent verification.
 - Earlier decision: prior entry unranked; preserved in [verification history](verification-2026-11-25.md).
 - Verification still needed: Closed area, not ordinary unrestricted access. Rating describes specifically authorized guided observation only; confirm Cook-specific permits and routes before visit, no landing guaranteed.
+
+
+## 2026-11-25 — Phoenix Islands Protected Area access and conservation follow-up
+
+UNESCO 2026 Decision 48 COM 7B.73 (https://whc.unesco.org/en/decisions/9112/, directly inspected) identifies ongoing marine spatial planning expected to finish December 2026, concern about conservation implications, proposed low-volume ecotourism and Kanton infrastructure requiring impact assessment. A reactive monitoring mission was in planning, including evaluation of potential danger-list conditions; the decision itself is not an inscription on the danger list. The State Party's updated report is requested by 1 February 2027. Do not represent the entire area as a currently intact no-take reserve or treat proposed developments as already operating.
+
+Government investment portal (https://www.investinkiribati.mtcic.gov.ki/articles/accommodation, directly inspected) identifies one Kanton accommodation option for visitors; government travel page (https://kiribati.gov.ki/information/travel-and-tourism, indexed excerpt) lists Kanton charter flights. Regional environmental portal (https://kiribati-data.sprep.org/dataset/phoenix-islands-protected-area-regulations, indexed excerpt) confirms activity licensing and permitting framework. These establish a possible authorized Kanton component visit, not representative visitor access across the eight islands and oceanic property. Direct Kanton tourism page failed HTTP 526; main UNESCO property page failed 403. UNEP-WCMC datasheet (https://world-heritage-datasheets.unep-wcmc.org/datasheet/output/site/phoenix-islands-protected-area/, indexed excerpt) provides older context, not present-day visitor or fishery conditions.
+
+Retain prior provisional impact 9.0, uniqueness 9.4 and significance 9.6, with experience and depth null and wildlife still unassessed. Conservation condition and visitor scope require updated evidence; no legal or safety guarantee. Kanton is a candidate for a separately scoped future record, not scored in this change. No sight YAML changes.
