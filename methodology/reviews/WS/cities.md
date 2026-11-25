@@ -3,7 +3,9 @@
 - [Worldwide v2](../../../rules.md) · [Future-country workflow](../../future-country-workflow.md)
 - Initial non-exhaustive inventory. Sources consulted as web excerpts or pages on 2026-11-25. Source-linked-unverified indicates incomplete independent verification; all scores remain editorial. Four peers per record are qualitative comparisons, not a claim of checking their current YAML in this pass. No access guarantee.
 
-### city-ws-apia — Apia — 2026-11-25
+- Current decisions use one canonical heading per destination ID; earlier text and sources are preserved in [review history](history-evidence-followup-2026-11-25.md).
+
+## city-ws-apia — Apia — 2026-11-25
 
 - YAML: [source](../../../countries/WS/cities/apia.yaml)
 - Action: new
@@ -13,29 +15,29 @@
 - Limited factual references (accessed 2026-11-25): GeoNames gives capital point; tourism authority describes harbor, cultural village and city activities. — [location](https://www.geonames.org/WS/largest-cities-in-samoa.html), [context](https://www.samoa.travel/discover/the-islands-of-samoa/upolu-island/apia/).
 - Missing or uncertain facts: Current individual venue access and urban heritage inventory.
 
-#### Worldwide peer comparisons
+### Worldwide peer comparisons
 - Vienna (Austria): much richer civic architecture
-- Bangkok (Thailand): much broader urban life
-- Kampot (Cambodia): comparable modest waterfront experience
-- Koh Ker Village (Cambodia): stronger archaeological character, less urban breadth
+- [Bangkok](../../../countries/TH/cities/bangkok.yaml) (Thailand): much broader urban life
+- [Kampot](../../../countries/KH/cities/kampot.yaml) (Cambodia): comparable modest waterfront experience
+- [Koh Ker Village](../../../countries/KH/cities/koh-ker-village.yaml) (Cambodia): stronger archaeological character, less urban breadth
 
-#### Scoring decisions
-- impact: 7.4
-- uniqueness: 8.0
-- significance: 8.0
-- experience: 8.1
-- depth: 7.8
+### Scoring decisions
+- Impact: 7.4
+- Uniqueness: 8.0
+- Significance: 8.0
+- Experience: 8.1
+- Depth: 7.8
 
 - Field-specific rationale (impact, uniqueness, significance, experience, depth respectively): Harbor and cultural venues offer memorable urban setting; Pacific capital and living traditions distinguish it; national civic and literary history matter; market and cultural demonstrations support a varied visit; urban depth remains modest.
 - Applicable category scores: culture: 8.4, history: 8.0, food: 7.8
-- Computed worldwide overall: 78.15/100
+- Overall: 78.15/100
 - High-score challenge: no 9.5+ fields or 90+ total.
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide editorial assessment.
 - Earlier decision: none.
 - Verification still needed: Current individual venue access and urban heritage inventory.
 
-### city-ws-salelologa — Salelologa — 2026-11-25
+## city-ws-salelologa — Salelologa — 2026-11-25
 
 - YAML: [source](../../../countries/WS/cities/salelologa.yaml)
 - Action: new
@@ -45,29 +47,29 @@
 - Limited factual references (accessed 2026-11-25): Settlement coordinates and market-based local activity. — [location](https://en.wikipedia.org/wiki/Salelologa), [context](https://samoapocketguide.com/a-self-guided-day-trip-on-savaii-north-coast-itinerary).
 - Missing or uncertain facts: Other public venues and exact commercial center scope.
 
-#### Worldwide peer comparisons
-- Salzburg (Austria): far greater architecture
-- Bangkok (Thailand): far richer market variety
-- Kampot (Cambodia): more developed visitor streets
-- Koh Ker Village (Cambodia): more archaeological significance
+### Worldwide peer comparisons
+- [Salzburg](../../../countries/AT/cities/salzburg.yaml) (Austria): far greater architecture
+- [Bangkok](../../../countries/TH/cities/bangkok.yaml) (Thailand): far richer market variety
+- [Kampot](../../../countries/KH/cities/kampot.yaml) (Cambodia): more developed visitor streets
+- [Koh Ker Village](../../../countries/KH/cities/koh-ker-village.yaml) (Cambodia): more archaeological significance
 
-#### Scoring decisions
-- impact: 6.2
-- uniqueness: 6.8
-- significance: 6.4
-- experience: 7.0
-- depth: 6.4
+### Scoring decisions
+- Impact: 6.2
+- Uniqueness: 6.8
+- Significance: 6.4
+- Experience: 7.0
+- Depth: 6.4
 
 - Field-specific rationale (impact, uniqueness, significance, experience, depth respectively): Modest built setting; island commercial culture is distinctive locally; regional service role is not global heritage; market browsing and food make a focused visit; few independent attractions beyond center.
 - Applicable category scores: culture: 7.1, food: 7.0
-- Computed worldwide overall: 65.30/100
+- Overall: 65.30/100
 - High-score challenge: no 9.5+ fields or 90+ total.
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide editorial assessment.
 - Earlier decision: none.
 - Verification still needed: Other public venues and exact commercial center scope.
 
-### city-ws-manase — Manase Village — 2026-11-25
+## city-ws-manase — Manase Village — 2026-11-25
 
 - YAML: [source](../../../countries/WS/cities/manase.yaml)
 - Action: new
@@ -77,161 +79,29 @@
 - Limited factual references (accessed 2026-11-25): Village coordinate and beach-fale accommodation context. — [location](https://en.wikipedia.org/wiki/Manase), [context](https://samoapocketguide.com/a-self-guided-day-trip-on-savaii-north-coast-itinerary).
 - Missing or uncertain facts: Village-specific public heritage and permissions.
 
-#### Worldwide peer comparisons
-- Salzburg (Austria): greater built heritage
-- Bangkok (Thailand): more activities
-- Kampot (Cambodia): greater street and dining range
-- Koh Ker Village (Cambodia): stronger documented heritage
+### Worldwide peer comparisons
+- [Salzburg](../../../countries/AT/cities/salzburg.yaml) (Austria): greater built heritage
+- [Bangkok](../../../countries/TH/cities/bangkok.yaml) (Thailand): more activities
+- [Kampot](../../../countries/KH/cities/kampot.yaml) (Cambodia): greater street and dining range
+- [Koh Ker Village](../../../countries/KH/cities/koh-ker-village.yaml) (Cambodia): stronger documented heritage
 
-#### Scoring decisions
-- impact: 6.7
-- uniqueness: 7.1
-- significance: 6.0
-- experience: 7.2
-- depth: 6.1
+### Scoring decisions
+- Impact: 6.7
+- Uniqueness: 7.1
+- Significance: 6.0
+- Experience: 7.2
+- Depth: 6.1
 
 - Field-specific rationale (impact, uniqueness, significance, experience, depth respectively): Pleasant low-rise coastal village; fale-based hospitality is culturally distinctive but not globally singular; limited village-specific historic evidence; hospitality and dining support a pleasant visit; breadth of public cultural venues is modest.
 - Applicable category scores: culture: 7.1, relaxation: 7.6
-- Computed worldwide overall: 66.75/100
+- Overall: 66.75/100
 - High-score challenge: no 9.5+ fields or 90+ total.
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide editorial assessment.
 - Earlier decision: none.
 - Verification still needed: Village-specific public heritage and permissions.
 
-### city-ws-lalomanu — Lalomanu Village — 2026-11-25
-
-- YAML: [source](../../../countries/WS/cities/lalomanu.yaml)
-- Action: new
-- Precise subject: Settlement only, separately from Lalomanu Beach.
-- Location check: representative -14.04454, -171.43925; [location reference](https://www.geodatos.net/en/coordinates/samoa/lalomanu). Not an entrance.
-- Evidence status: unassessed
-- Limited factual references (accessed 2026-11-25): Named village location on eastern Upolu. — [location](https://www.geodatos.net/en/coordinates/samoa/lalomanu), [context](https://en.wikipedia.org/wiki/Lalomanu).
-- Missing or uncertain facts: Village-level visitor evidence, excluding beach.
-
-#### Worldwide peer comparisons
-- Salzburg (Austria): urban heritage ceiling
-- Bangkok (Thailand): breadth ceiling
-- Kampot (Cambodia): documented small-town experience
-- Koh Ker Village (Cambodia): separately documented village heritage
-
-#### Scoring decisions
-- impact: null
-- uniqueness: null
-- significance: null
-- experience: null
-- depth: null
-
-- Field-specific rationale (impact, uniqueness, significance, experience, depth respectively): Village-specific streetscape, cultural rarity, heritage significance, permitted visitor activities and breadth cannot be assessed from beach-focused sources.
-- Applicable category scores: none assessed
-- Computed worldwide overall: unranked
-- High-score challenge: no 9.5+ fields or 90+ total.
-- Approved 10 registry: none.
-- Final decision: Retain without rank pending evidence.
-- Earlier decision: none.
-- Verification still needed: Village-level visitor evidence, excluding beach.
-
-### city-ws-mulifanua — Mulifanua — 2026-11-25
-
-- YAML: [source](../../../countries/WS/cities/mulifanua.yaml)
-- Action: new
-- Precise subject: Village rather than airport, wharf or neighboring islands.
-- Location check: representative -13.832, -172.036; [location reference](https://www.geonames.org/WS/largest-cities-in-samoa.html). Not an entrance.
-- Evidence status: unassessed
-- Limited factual references (accessed 2026-11-25): Gazetteer identifies settlement; travel guide identifies wharf. — [location](https://www.geonames.org/WS/largest-cities-in-samoa.html), [context](https://visitingoceania.com/blog/samoa-travel-guide/).
-- Missing or uncertain facts: Settlement-specific cultural and public sites.
-
-#### Worldwide peer comparisons
-- Salzburg (Austria): architecture reference
-- Bangkok (Thailand): urban breadth reference
-- Kampot (Cambodia): town-level activity reference
-- Koh Ker Village (Cambodia): heritage-specific small settlement
-
-#### Scoring decisions
-- impact: null
-- uniqueness: null
-- significance: null
-- experience: null
-- depth: null
-
-- Field-specific rationale (impact, uniqueness, significance, experience, depth respectively): Gateway function does not establish visual impact, distinctiveness, cultural significance, experience or depth of the village itself.
-- Applicable category scores: none assessed
-- Computed worldwide overall: unranked
-- High-score challenge: no 9.5+ fields or 90+ total.
-- Approved 10 registry: none.
-- Final decision: Retain without rank pending evidence.
-- Earlier decision: none.
-- Verification still needed: Settlement-specific cultural and public sites.
-
-### city-ws-asau — Asau — 2026-11-25
-
-- YAML: [source](../../../countries/WS/cities/asau.yaml)
-- Action: new
-- Precise subject: Settlement only, not surrounding district or offshore area.
-- Location check: representative -13.52, -172.638; [location reference](https://www.geonames.org/WS/largest-cities-in-samoa.html). Not an entrance.
-- Evidence status: unassessed
-- Limited factual references (accessed 2026-11-25): GeoNames gives named settlement and rounded coordinates. — [location](https://www.geonames.org/WS/largest-cities-in-samoa.html), [context](https://www.geonames.org/WS/largest-cities-in-samoa.html).
-- Missing or uncertain facts: Detailed settlement-specific visitor research.
-
-#### Worldwide peer comparisons
-- Salzburg (Austria): heritage reference
-- Bangkok (Thailand): activity breadth reference
-- Kampot (Cambodia): small town reference
-- Koh Ker Village (Cambodia): village heritage reference
-
-#### Scoring decisions
-- impact: null
-- uniqueness: null
-- significance: null
-- experience: null
-- depth: null
-
-- Field-specific rationale (impact, uniqueness, significance, experience, depth respectively): Visual character, distinctiveness, heritage, visitor activities and depth are not established by the gazetteer alone.
-- Applicable category scores: none assessed
-- Computed worldwide overall: unranked
-- High-score challenge: no 9.5+ fields or 90+ total.
-- Approved 10 registry: none.
-- Final decision: Retain without rank pending evidence.
-- Earlier decision: none.
-- Verification still needed: Detailed settlement-specific visitor research.
-
-### city-ws-asau — Asau — 2026-11-25 (evidence follow-up)
-
-- YAML: [source](../../../countries/WS/cities/asau.yaml)
-- Action: rescore
-- Precise subject: Village only; exclude distant Savai'i attractions and private resort amenities. Confirm local host and customary permission.
-- Location check: prior representative point retained; independent coordinate verification pending.
-- Evidence status: source-linked-unverified
-- Checked factual reference excerpts (2026-11-25):
-  - Va-i-moana lodge explicitly offers guided village walks — https://www.vaimoanaseasidelodge.com/en/organised-activities
-  - Tourism Samoa describes Asau Harbor and lodge context — https://www.samoa.travel/plan-book/samoa-accommodation/va-i-moana-seaside-lodge/
-- Missing or uncertain facts: Village only; exclude distant Savai'i attractions and private resort amenities. Confirm local host and customary permission.
-
-#### Worldwide peer comparisons
-- Kampot (Cambodia): broader urban experience
-- Koh Ker Village (Cambodia): more substantial archaeological context
-- Salzburg (Austria): much stronger built heritage
-- Ohonua (Tonga): similar compact village scale
-
-#### Scoring decisions
-| Field | Before | New rating | Individual justification |
-| --- | ---: | ---: | --- |
-| Impact | null | 6.5 | Modest village fabric and coastal surroundings |
-| Uniqueness | null | 7.0 | Living Samoan customary community rather than a unique built ensemble |
-| Significance | null | 6.4 | Regional cultural and harbor role |
-| Experience | null | 7.0 | Hosted village walks and local community visits |
-| Depth | null | 6.2 | Limited number of independently distinct village experiences |
-
-- Applicable category scores: none assessed (unchanged).
-- Computed worldwide overall: 66.50/100
-- High-score challenge: no 9.5+ field or 90+ total.
-- Approved 10 registry: none.
-- Final decision: Provisional ranking supported by documented ordinary visitor experiences; not full factual verification.
-- Earlier decision: prior entry for this ID, unranked.
-- Verification still needed: Village only; exclude distant Savai'i attractions and private resort amenities. Confirm local host and customary permission.
-
-
-### city-ws-lalomanu — Lalomanu Village — 2026-11-25 (evidence follow-up)
+## city-ws-lalomanu — Lalomanu Village — 2026-11-25 (evidence follow-up)
 
 - YAML: [source](../../../countries/WS/cities/lalomanu.yaml)
 - Action: rescore
@@ -245,13 +115,15 @@
   - Visit Samoa Guide lists a Lalomanu family cultural experience — https://visitsamoaguide.com/experience/authentic-village-cultural-experience (indexed excerpt; direct page did not expose itinerary).
 - Missing or uncertain facts: Exact walking route and village boundaries require corroboration; current activity schedules and permissions not guaranteed.
 
-#### Worldwide peer comparisons
-- Kampot (Cambodia), 7.6/7.9/7.5/8.3/7.9: richer built heritage and dining.
-- Rach Gia (Vietnam), 7.2/7.5/7.3/7.8/7.9: more extensive urban activities.
-- Kuala Perlis (Malaysia), 6.5/6.8/6.5/7.2/6.7: comparable modest coastal settlement.
-- Manase Village (Samoa), 6.7/7.1/6.0/7.2/6.1: comparable village scale and more limited documented cultural or archaeological context.
+### Worldwide peer comparisons
+- [Kampot](../../../countries/KH/cities/kampot.yaml) (Cambodia), 7.6/7.9/7.5/8.3/7.9: richer built heritage and dining.
+- [Rach Gia](../../../countries/VN/cities/rach-gia.yaml) (Vietnam), 7.2/7.5/7.3/7.8/7.9: more extensive urban activities.
+- [Kuala Perlis](../../../countries/MY/cities/kuala-perlis.yaml) (Malaysia), 6.5/6.8/6.5/7.2/6.7: comparable modest coastal settlement.
+- [Manase Village](../../../countries/WS/cities/manase.yaml) (Samoa), 6.7/7.1/6.0/7.2/6.1: comparable village scale and more limited documented cultural or archaeological context.
 
-#### Scoring decisions
+- [Koh Ker Village](../../../countries/KH/cities/koh-ker-village.yaml) (Cambodia), 7.2/8.0/8.3/7.8/6.9: stronger documented historic settlement context and visitor interpretation.
+
+### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | Impact | null | 6.9 | Coastal village setting and traditional fales; does not inherit beach scenery score. |
@@ -261,15 +133,14 @@
 | Depth | null | 6.6 | Several focused cultural activities, not the depth of larger towns. |
 
 - Applicable category scores: culture 7.8, food 7.5, relaxation 7.6; provisional.
-- Computed worldwide overall: 69.75/100
+- Overall: 69.75/100
 - High-score challenge: no 9.5+ fields or 90+ total.
 - Approved 10 registry: none.
 - Final decision: Complete provisional v2 profile, calibrated against actual branch YAML peers.
-- Earlier decision: prior incomplete profile for this ID.
+- Earlier decision: prior incomplete profile for this ID. See [previous decision and sources](history-evidence-followup-2026-11-25.md).
 - Verification still needed: Exact walking route and village boundaries require corroboration; current activity schedules and permissions not guaranteed. Canonical worldwide diagnostics outstanding.
 
-
-### city-ws-mulifanua — Mulifanua — 2026-11-25 (evidence follow-up)
+## city-ws-mulifanua — Mulifanua — 2026-11-25 (evidence follow-up)
 
 - YAML: [source](../../../countries/WS/cities/mulifanua.yaml)
 - Action: rescore
@@ -283,13 +154,15 @@
   - Independent archaeological study — https://doi.org/10.1017/S0033822200031635 (search result and abstract excerpts).
 - Missing or uncertain facts: Archaeological site submerged; no site visit or viewing promised. Current cultural itinerary and coordinates require corroboration.
 
-#### Worldwide peer comparisons
-- Kampot (Cambodia), 7.6/7.9/7.5/8.3/7.9: richer built heritage and dining.
-- Rach Gia (Vietnam), 7.2/7.5/7.3/7.8/7.9: more extensive urban activities.
-- Kuala Perlis (Malaysia), 6.5/6.8/6.5/7.2/6.7: comparable modest coastal settlement.
-- Manase Village (Samoa), 6.7/7.1/6.0/7.2/6.1: comparable village scale and more limited documented cultural or archaeological context.
+### Worldwide peer comparisons
+- [Kampot](../../../countries/KH/cities/kampot.yaml) (Cambodia), 7.6/7.9/7.5/8.3/7.9: richer built heritage and dining.
+- [Rach Gia](../../../countries/VN/cities/rach-gia.yaml) (Vietnam), 7.2/7.5/7.3/7.8/7.9: more extensive urban activities.
+- [Kuala Perlis](../../../countries/MY/cities/kuala-perlis.yaml) (Malaysia), 6.5/6.8/6.5/7.2/6.7: comparable modest coastal settlement.
+- [Manase Village](../../../countries/WS/cities/manase.yaml) (Samoa), 6.7/7.1/6.0/7.2/6.1: comparable village scale and more limited documented cultural or archaeological context.
 
-#### Scoring decisions
+- [Koh Ker Village](../../../countries/KH/cities/koh-ker-village.yaml) (Cambodia), 7.2/8.0/8.3/7.8/6.9: stronger documented historic settlement context and visitor interpretation.
+
+### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | Impact | null | 6.3 | Modest village and working wharf setting rather than exceptional built heritage. |
@@ -299,9 +172,44 @@
 | Depth | null | 6.5 | Several local experiences but limited visitor breadth compared with larger ports. |
 
 - Applicable category scores: culture 7.6, history 8.0, food 7.2; provisional.
-- Computed worldwide overall: 68.95/100
+- Overall: 68.95/100
 - High-score challenge: no 9.5+ fields or 90+ total.
 - Approved 10 registry: none.
 - Final decision: Complete provisional v2 profile, calibrated against actual branch YAML peers.
-- Earlier decision: prior incomplete profile for this ID.
+- Earlier decision: prior incomplete profile for this ID. See [previous decision and sources](history-evidence-followup-2026-11-25.md).
 - Verification still needed: Archaeological site submerged; no site visit or viewing promised. Current cultural itinerary and coordinates require corroboration. Canonical worldwide diagnostics outstanding.
+
+## city-ws-asau — Asau — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/WS/cities/asau.yaml)
+- Action: rescore
+- Precise subject: Village only; exclude distant Savai'i attractions and private resort amenities. Confirm local host and customary permission.
+- Location check: prior representative point retained; independent coordinate verification pending.
+- Evidence status: source-linked-unverified
+- Checked factual reference excerpts (2026-11-25):
+  - Va-i-moana lodge explicitly offers guided village walks — https://www.vaimoanaseasidelodge.com/en/organised-activities
+  - Tourism Samoa describes Asau Harbor and lodge context — https://www.samoa.travel/plan-book/samoa-accommodation/va-i-moana-seaside-lodge/
+- Missing or uncertain facts: Village only; exclude distant Savai'i attractions and private resort amenities. Confirm local host and customary permission.
+
+### Worldwide peer comparisons
+- [Kampot](../../../countries/KH/cities/kampot.yaml) (Cambodia): broader urban experience
+- [Koh Ker Village](../../../countries/KH/cities/koh-ker-village.yaml) (Cambodia): more substantial archaeological context
+- [Salzburg](../../../countries/AT/cities/salzburg.yaml) (Austria): much stronger built heritage
+- Ohonua (Tonga): similar compact village scale
+
+### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | null | 6.5 | Modest village fabric and coastal surroundings |
+| Uniqueness | null | 7.0 | Living Samoan customary community rather than a unique built ensemble |
+| Significance | null | 6.4 | Regional cultural and harbor role |
+| Experience | null | 7.0 | Hosted village walks and local community visits |
+| Depth | null | 6.2 | Limited number of independently distinct village experiences |
+
+- Applicable category scores: none assessed (unchanged).
+- Overall: 66.50/100
+- High-score challenge: no 9.5+ field or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Provisional ranking supported by documented ordinary visitor experiences; not full factual verification.
+- Earlier decision: prior entry for this ID, unranked. See [previous decision and sources](history-evidence-followup-2026-11-25.md).
+- Verification still needed: Village only; exclude distant Savai'i attractions and private resort amenities. Confirm local host and customary permission.
