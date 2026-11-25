@@ -2,7 +2,7 @@
 
 # Mongolia (MN) — Sights & attractions ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**37 ranked** · **13 unassessed** · **50 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,11 +10,67 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, or click its GPS coordinates to open **Google Maps**. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (37)
 
-No sights & attractions have been assessed for **Mongolia** yet.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps |
+| ---: | --- | --- | ---: | --- | --- | --- |
+| 1 | [Altai Tavan Bogd National Park](sights/altai-tavan-bogd-national-park.yaml) | Park / reserve | **93.05** | **Nature 9.6**, **Photography 9.6**, **Adventure 9.5** | 9.5 / 9.4 / 9.0 / 9.1 / 9.4 | [49.15, 88.17](https://www.google.com/maps/search/?api=1&query=49.15,88.17) |
+| 2 | [Orkhon Valley Cultural Landscape](sights/orkhon-valley-cultural-landscape.yaml) | Valley / canyon | **90.95** | **History 9.6**, **Culture 9.4**, **Photography 8.9** | 8.7 / 9.2 / 9.6 / 8.9 / 9.3 | [47.3, 102.84](https://www.google.com/maps/search/?api=1&query=47.3,102.84) |
+| 3 | [Gobi Gurvansaikhan National Park](sights/gobi-gurvansaikhan-national-park.yaml) | Park / reserve | **90.45** | **Nature 9.4**, **Photography 9.4**, **Adventure 9.2** | 9.2 / 9.0 / 8.8 / 8.9 / 9.4 | [43.55, 103.65](https://www.google.com/maps/search/?api=1&query=43.55,103.65) |
+| 4 | [Khuvsgul Lake National Park](sights/khuvsgul-lake-national-park.yaml) | Park / reserve | **90.20** | **Nature 9.4**, **Photography 9.3**, **Adventure 9.0** | 9.2 / 8.8 / 8.9 / 9.0 / 9.3 | [51, 100.45](https://www.google.com/maps/search/?api=1&query=51,100.45) |
+| 5 | [Bayanzag (Flaming Cliffs)](sights/bayanzag-flaming-cliffs.yaml) | Beach / bay | **89.15** | **History 9.4**, **Photography 9.3**, **Nature 8.8** | 9.0 / 9.1 / 9.3 / 8.6 / 7.9 | [44.14, 103.72](https://www.google.com/maps/search/?api=1&query=44.14,103.72) |
+| 6 | [Khongoryn Els Sand Dunes](sights/khongoryn-els-sand-dunes.yaml) | Desert | **88.85** | **Photography 9.5**, **Nature 9.2**, **Adventure 9.1** | 9.4 / 9.0 / 8.0 / 9.1 / 8.5 | [43.77, 102.3](https://www.google.com/maps/search/?api=1&query=43.77,102.3) |
+| 7 | [Chinggis Khaan National Museum](sights/chinggis-khaan-national-museum.yaml) | Museum / heritage | **88.65** | **History 9.4**, **Culture 9.2** | 8.6 / 8.9 / 9.2 / 8.8 / 9.0 | [47.924, 106.915](https://www.google.com/maps/search/?api=1&query=47.924,106.915) |
+| 8 | [Khustain Nuruu National Park](sights/khustain-nuruu-national-park.yaml) | Park / reserve | **88.00** | **Wildlife 9.4**, **Nature 9.1**, **Photography 8.7** | 8.5 / 9.1 / 9.1 / 8.7 / 8.5 | [47.71, 105.92](https://www.google.com/maps/search/?api=1&query=47.71,105.92) |
+| 9 | [Petroglyphic Complexes of the Mongolian Altai](sights/petroglyphic-complexes-of-the-mongolian-altai.yaml) | Attraction | **87.85** | **History 9.5**, **Culture 9.2**, **Photography 8.5** | 8.2 / 9.3 / 9.5 / 8.2 / 8.7 | [49.334, 88.39](https://www.google.com/maps/search/?api=1&query=49.334,88.39) |
+| 10 | [Deer Stone Monuments and Related Bronze Age Sites](sights/deer-stone-monuments-and-related-bronze-age-sites.yaml) | Attraction | **87.70** | **History 9.5**, **Culture 9.3**, **Photography 8.6** | 8.1 / 9.4 / 9.5 / 8.2 / 8.6 | [48.3, 101](https://www.google.com/maps/search/?api=1&query=48.3,101) |
+| 10 | [Erdene Zuu Monastery](sights/erdene-zuu-monastery.yaml) | Religious site | **87.70** | **History 9.3**, **Culture 9.2**, **Architecture 9.0** | 8.7 / 8.8 / 9.1 / 8.8 / 8.2 | [47.202, 102.844](https://www.google.com/maps/search/?api=1&query=47.202,102.844) |
+| 12 | [Amarbayasgalant Monastery and Sacred Landscape](sights/amarbayasgalant-monastery-and-sacred-landscape.yaml) | Religious site | **86.25** | **Architecture 9.1**, **Culture 9.0**, **History 9.0** | 8.6 / 8.7 / 8.8 / 8.6 / 8.2 | [49.47, 105.09](https://www.google.com/maps/search/?api=1&query=49.47,105.09) |
+| 13 | [Gorkhi Terelj National Park](sights/gorkhi-terelj-national-park.yaml) | Park / reserve | **85.15** | **Photography 9.1**, **Nature 9.0**, **Adventure 8.7** | 8.8 / 8.5 / 7.8 / 8.8 / 8.7 | [48.16, 107.55](https://www.google.com/maps/search/?api=1&query=48.16,107.55) |
+| 14 | [Tuvkhun Monastery](sights/tuvkhun-monastery.yaml) | Religious site | **84.20** | **Culture 8.9**, **Photography 8.8**, **History 8.7**, Architecture 8.5 | 8.5 / 8.5 / 8.6 / 8.5 / 7.5 | [47.02, 102.25](https://www.google.com/maps/search/?api=1&query=47.02,102.25) |
+| 15 | [Gandantegchinlen Monastery](sights/gandantegchinlen-monastery.yaml) | Religious site | **83.75** | **Culture 9.0**, **History 8.9**, **Architecture 8.8** | 8.2 / 8.4 / 8.7 / 8.5 / 8.0 | [47.923, 106.894](https://www.google.com/maps/search/?api=1&query=47.923,106.894) |
+| 16 | [Tsagaan Suvarga (White Stupa)](sights/tsagaan-suvarga-white-stupa.yaml) | Religious site | **83.30** | **Photography 9.2**, **Nature 9.0** | 8.8 / 8.7 / 7.4 / 8.5 / 7.6 | [44.58, 105.7](https://www.google.com/maps/search/?api=1&query=44.58,105.7) |
+| 17 | [Terkhiin Tsagaan Lake](sights/terkhiin-tsagaan-lake.yaml) | Lake | **83.15** | **Photography 9.0**, **Nature 8.9**, **Relaxation 8.5** | 8.6 / 8.3 / 7.7 / 8.6 / 8.3 | [48.17, 99.65](https://www.google.com/maps/search/?api=1&query=48.17,99.65) |
+| 18 | [Yolyn Am (Eagle Valley)](sights/yolyn-am-eagle-valley.yaml) | Valley / canyon | **83.05** | **Photography 8.9**, **Nature 8.8**, **Adventure 8.5** | 8.6 / 8.4 / 7.8 / 8.7 / 7.6 | [43.49, 104.08](https://www.google.com/maps/search/?api=1&query=43.49,104.08) |
+| 19 | [Bogd Khan Palace Museum](sights/bogd-khan-palace-museum.yaml) | Museum / heritage | **82.85** | **History 8.9**, **Architecture 8.7**, **Culture 8.7** | 8.1 / 8.4 / 8.6 / 8.3 / 7.9 | [47.896, 106.909](https://www.google.com/maps/search/?api=1&query=47.896,106.909) |
+| 20 | [Kharkhorum Archaeological Site](sights/kharkhorum-archaeological-site.yaml) | Museum / heritage | **82.70** | **History 9.5** | 7.7 / 8.7 / 9.4 / 7.7 / 7.5 | [47.2, 102.84](https://www.google.com/maps/search/?api=1&query=47.2,102.84) |
+| 20 | [National Museum of Mongolia](sights/national-museum-of-mongolia.yaml) | Museum / heritage | **82.70** | **History 9.1**, **Culture 8.9** | 7.8 / 8.3 / 8.9 / 8.3 / 8.3 | [47.921, 106.917](https://www.google.com/maps/search/?api=1&query=47.921,106.917) |
+| 22 | [Khyargas Lake and Khetsuu Khad](sights/khyargas-lake-and-khetsuu-khad.yaml) | Lake | **82.60** | **Photography 9.1**, **Nature 8.8** | 8.5 / 8.5 / 7.6 / 8.5 / 7.9 | [49.13, 93.37](https://www.google.com/maps/search/?api=1&query=49.13,93.37) |
+| 23 | [Choijin Lama Temple Museum](sights/choijin-lama-temple-museum.yaml) | Religious site | **82.30** | **Architecture 8.9**, **History 8.8**, **Culture 8.7** | 8.1 / 8.3 / 8.6 / 8.3 / 7.6 | [47.914, 106.918](https://www.google.com/maps/search/?api=1&query=47.914,106.918) |
+| 24 | [Uushigiin Uvur Deer Stones](sights/uushigiin-uvur-deer-stones.yaml) | Attraction | **82.05** | **History 9.2**, **Culture 8.9** | 7.8 / 8.7 / 9.0 / 7.8 / 7.2 | [49.63, 100](https://www.google.com/maps/search/?api=1&query=49.63,100) |
+| 25 | [Khar Balgas (Ordu-Baliq)](sights/khar-balgas-ordu-baliq.yaml) | Attraction | **82.00** | **History 9.3**, **Photography 7.9** | 7.8 / 8.5 / 9.1 / 7.7 / 7.6 | [47.43, 102.65](https://www.google.com/maps/search/?api=1&query=47.43,102.65) |
+| 26 | [Khorgo Volcano](sights/khorgo-volcano.yaml) | Mountain / peak | **81.50** | **Nature 8.8**, **Photography 8.8**, **Adventure 8.4** | 8.4 / 8.3 / 7.6 / 8.5 / 7.6 | [48.18, 99.85](https://www.google.com/maps/search/?api=1&query=48.18,99.85) |
+| 27 | [Baldan Bereeven Monastery and Sacred Surroundings](sights/baldan-bereeven-monastery-and-sacred-surroundings.yaml) | Religious site | **81.25** | **Culture 8.6**, **History 8.6**, **Architecture 8.4** | 8.0 / 8.3 / 8.4 / 8.0 / 7.7 | [48.19, 109.53](https://www.google.com/maps/search/?api=1&query=48.19,109.53) |
+| 28 | [Khamar Monastery](sights/khamar-monastery.yaml) | Religious site | **80.80** | **Culture 8.8**, **History 8.6**, **Architecture 8.2** | 7.9 / 8.2 / 8.5 / 8.0 / 7.6 | [44.6, 110.28](https://www.google.com/maps/search/?api=1&query=44.6,110.28) |
+| 29 | [Chinggis Khaan Equestrian Statue Complex](sights/chinggis-khaan-equestrian-statue-complex.yaml) | Attraction | **80.70** | **Photography 9.0**, **Architecture 8.3**, **History 7.7** | 8.4 / 8.5 / 7.3 / 8.3 / 7.2 | [47.808, 107.529](https://www.google.com/maps/search/?api=1&query=47.808,107.529) |
+| 30 | [Baga Gazriin Chuluu](sights/baga-gazriin-chuluu.yaml) | Attraction | **80.05** | **Photography 8.8**, **Nature 8.6**, **Adventure 8.3** | 8.3 / 8.2 / 7.2 / 8.3 / 7.8 | [46.19, 106.03](https://www.google.com/maps/search/?api=1&query=46.19,106.03) |
+| 31 | [Ongi Monastery Ruins](sights/ongi-monastery-ruins.yaml) | Religious site | **78.95** | **History 8.8**, **Culture 8.5** | 7.7 / 8.0 / 8.5 / 7.7 / 7.3 | [45.34, 104](https://www.google.com/maps/search/?api=1&query=45.34,104) |
+| 32 | [Orkhon Waterfall (Ulaan Tsutgalan)](sights/orkhon-waterfall-ulaan-tsutgalan.yaml) | Waterfall | **78.00** | **Photography 8.9**, **Nature 8.6** | 8.3 / 7.8 / 7.0 / 8.4 / 7.0 | [46.79, 101.96](https://www.google.com/maps/search/?api=1&query=46.79,101.96) |
+| 33 | [Elsen Tasarkhai Dunes](sights/elsen-tasarkhai-dunes.yaml) | Desert | **75.90** | **Photography 8.6**, **Adventure 8.2**, **Nature 8.2** | 8.1 / 7.7 / 6.4 / 8.3 / 7.1 | [47.38, 103.69](https://www.google.com/maps/search/?api=1&query=47.38,103.69) |
+| 34 | [Zaisan Memorial](sights/zaisan-memorial.yaml) | Museum / heritage | **75.60** | **Photography 8.5**, **History 8.0** | 7.7 / 7.4 / 7.6 / 8.0 / 6.8 | [47.887, 106.916](https://www.google.com/maps/search/?api=1&query=47.887,106.916) |
+| 35 | [Sukhbaatar Square](sights/sukhbaatar-square.yaml) | Park / square | **75.00** | **History 8.4**, **Architecture 7.9** | 7.4 / 7.3 / 8.1 / 7.7 / 6.8 | [47.919, 106.917](https://www.google.com/maps/search/?api=1&query=47.919,106.917) |
+| 36 | [Turtle Rock (Terelj)](sights/turtle-rock-terelj.yaml) | Attraction | **73.00** | **Photography 8.5**, **Nature 8.2** | 7.7 / 7.8 / 6.1 / 8.0 / 6.2 | [47.907, 107.422](https://www.google.com/maps/search/?api=1&query=47.907,107.422) |
+| 37 | [Tsenkher Hot Springs](sights/tsenkher-hot-springs.yaml) | Attraction | **71.45** | **Relaxation 8.7**, **Nature 7.7** | 7.4 / 7.2 / 6.0 / 8.3 / 6.8 | [47.32, 101.33](https://www.google.com/maps/search/?api=1&query=47.32,101.33) |
 
-Add destination YAML files in [sights/](sights/), then regenerate the overview files.
+## Not yet fully assessed (13)
+
+These destinations have no rank until all five core scores are assessed.
+
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps |
+| ---: | --- | --- | ---: | --- | --- | --- |
+| — | [Cemetery Complexes of the Xiongnu Nobility](sights/cemetery-complexes-of-the-xiongnu-nobility.yaml) | Attraction | **—** | **History 9.5** | — / 9.2 / 9.5 / — / — | [46.598056, 107.081417](https://www.google.com/maps/search/?api=1&query=46.598056,107.081417) |
+| — | [Cretaceous Dinosaur Fossil Sites in the Mongolian Gobi](sights/cretaceous-dinosaur-fossil-sites-in-the-mongolian-gobi.yaml) | Attraction | **—** | **History 9.4**, **Nature 9.2** | — / 9.4 / 9.5 / — / — | [43.6, 103.1](https://www.google.com/maps/search/?api=1&query=43.6,103.1) |
+| — | [Eastern Mongolian Steppes](sights/eastern-mongolian-steppes.yaml) | Attraction | **—** | **Wildlife 9.4**, **Nature 9.3** | — / 9.1 / 9.3 / — / — | [46.5, 117.4](https://www.google.com/maps/search/?api=1&query=46.5,117.4) |
+| — | [Great Burkhan Khaldun Sacred Landscape](sights/great-burkhan-khaldun-sacred-landscape.yaml) | Coast | **—** | **History 9.6**, **Culture 9.4** | — / 9.4 / 9.6 / — / — | [48.76, 109.01](https://www.google.com/maps/search/?api=1&query=48.76,109.01) |
+| — | [Great Gobi Strictly Protected Area (Part A)](sights/great-gobi-strictly-protected-area-part-a.yaml) | Attraction | **—** | **Nature 9.4**, **Wildlife 9.4** | — / 9.2 / 9.3 / — / — | [43.7, 97.4](https://www.google.com/maps/search/?api=1&query=43.7,97.4) |
+| — | [Great Tea Route (Mongolian Section)](sights/great-tea-route-mongolian-section.yaml) | Attraction | **—** | **History 9.4**, **Culture 8.8** | — / 8.9 / 9.2 / — / — | [50.24, 106.21](https://www.google.com/maps/search/?api=1&query=50.24,106.21) |
+| — | [Highlands of Mongol Altai](sights/highlands-of-mongol-altai.yaml) | Attraction | **—** | **Nature 9.4**, **Adventure 9.2** | — / 9.2 / 9.2 / — / — | [48.7, 88.8](https://www.google.com/maps/search/?api=1&query=48.7,88.8) |
+| — | [Khuduu Aral Archaeological Landscape](sights/khuduu-aral-archaeological-landscape.yaml) | Museum / heritage | **—** | **History 9.3** | — / 8.7 / 9.1 / — / — | [47.12, 109.23](https://www.google.com/maps/search/?api=1&query=47.12,109.23) |
+| — | [Landscapes of Dauria (Mongolian components)](sights/landscapes-of-dauria-mongolian-components.yaml) | Coast | **—** | **Wildlife 9.4**, **Nature 9.3** | — / 9.0 / 9.4 / — / — | [49.53, 115.66](https://www.google.com/maps/search/?api=1&query=49.53,115.66) |
+| — | [Petroglyphic Complexes in the Mongolian Gobi](sights/petroglyphic-complexes-in-the-mongolian-gobi.yaml) | Attraction | **—** | **History 9.3**, **Culture 8.8** | — / 9.0 / 9.2 / — / — | [43.6, 103.9](https://www.google.com/maps/search/?api=1&query=43.6,103.9) |
+| — | [Sacred Binder Mountain and Associated Heritage](sights/sacred-binder-mountain-and-associated-heritage.yaml) | Mountain / peak | **—** | **History 9.2**, **Culture 8.8** | — / 8.8 / 9.0 / — / — | [48.63, 110.52](https://www.google.com/maps/search/?api=1&query=48.63,110.52) |
+| — | [Sacred Mountains of Mongolia (Tentative Serial Property)](sights/sacred-mountains-of-mongolia-tentative-serial-property.yaml) | Mountain / peak | **—** | **History 9.4**, **Culture 9.3** | — / 9.1 / 9.3 / — / — | [47.8, 106.9](https://www.google.com/maps/search/?api=1&query=47.8,106.9) |
+| — | [Uvs Nuur Basin (Mongolian components)](sights/uvs-nuur-basin-mongolian-components.yaml) | Attraction | **—** | **Nature 9.4**, **Wildlife 9.2** | — / 9.2 / 9.4 / — / — | [50.25, 92.65](https://www.google.com/maps/search/?api=1&query=50.25,92.65) |
 
 ---
 

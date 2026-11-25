@@ -2,7 +2,7 @@
 
 # Mongolia (MN) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**18 ranked** · **0 unassessed** · **18 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,28 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, or click its GPS coordinates to open **Google Maps**. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (18)
 
-No cities, towns & villages have been assessed for **Mongolia** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps |
+| ---: | --- | --- | ---: | --- | --- | --- |
+| 1 | [Ulaanbaatar](cities/ulaanbaatar.yaml) | City / town | **84.50** | **Culture 8.9**, **History 8.8**, **Food 8.3** | 8.2 / 8.5 / 8.7 / 8.3 / 8.8 | [47.9184, 106.9177](https://www.google.com/maps/search/?api=1&query=47.9184,106.9177) |
+| 2 | [Olgii](cities/olgii.yaml) | City / town | **77.90** | **Culture 8.8**, **Food 8.1** | 7.5 / 8.5 / 7.5 / 7.9 / 7.3 | [48.968, 89.962](https://www.google.com/maps/search/?api=1&query=48.968,89.962) |
+| 3 | [Kharkhorin](cities/kharkhorin.yaml) | City / town | **77.10** | **History 8.8**, **Culture 8.2** | 7.2 / 8.0 / 8.6 / 7.6 / 6.9 | [47.197, 102.823](https://www.google.com/maps/search/?api=1&query=47.197,102.823) |
+| 4 | [Tsetserleg](cities/tsetserleg.yaml) | City / town | **76.10** | **Culture 8.2**, **History 7.9** | 7.6 / 7.6 / 7.5 / 8.0 / 7.3 | [47.476, 101.454](https://www.google.com/maps/search/?api=1&query=47.476,101.454) |
+| 5 | [Khatgal](cities/khatgal.yaml) | City / town | **74.70** | **Relaxation 8.4**, **Culture 7.6** | 7.7 / 7.8 / 6.5 / 8.2 / 6.8 | [50.436, 100.164](https://www.google.com/maps/search/?api=1&query=50.436,100.164) |
+| 6 | [Khovd](cities/khovd.yaml) | City / town | **74.20** | **Culture 8.3**, **History 7.9** | 7.0 / 7.8 / 7.6 / 7.6 / 7.1 | [48.005, 91.641](https://www.google.com/maps/search/?api=1&query=48.005,91.641) |
+| 7 | [Ulaangom](cities/ulaangom.yaml) | City / town | **68.95** | **Culture 7.6** | 6.6 / 7.2 / 6.8 / 7.3 / 6.6 | [49.982, 92.067](https://www.google.com/maps/search/?api=1&query=49.982,92.067) |
+| 8 | [Choibalsan](cities/choibalsan.yaml) | City / town | **68.90** | **History 7.6**, **Culture 7.5** | 6.5 / 6.9 / 7.3 / 7.1 / 6.9 | [48.079, 114.536](https://www.google.com/maps/search/?api=1&query=48.079,114.536) |
+| 9 | [Erdenet](cities/erdenet.yaml) | City / town | **68.45** | **Culture 7.4** | 6.7 / 6.5 / 7.0 / 7.2 / 7.3 | [49.034, 104.044](https://www.google.com/maps/search/?api=1&query=49.034,104.044) |
+| 10 | [Dalanzadgad](cities/dalanzadgad.yaml) | City / town | **68.20** | **Culture 7.5**, **Food 7.3** | 6.5 / 6.9 / 6.8 / 7.3 / 6.9 | [43.57, 104.425](https://www.google.com/maps/search/?api=1&query=43.57,104.425) |
+| 10 | [Murun](cities/murun.yaml) | City / town | **68.20** | **Culture 7.4**, **Food 7.4** | 6.5 / 6.9 / 6.8 / 7.3 / 6.9 | [49.635, 100.162](https://www.google.com/maps/search/?api=1&query=49.635,100.162) |
+| 12 | [Chinggis (Ondorkhaan)](cities/chinggis-ondorkhaan.yaml) | City / town | **67.95** | **History 7.7**, **Culture 7.5** | 6.4 / 6.9 / 7.3 / 7.0 / 6.4 | [47.32, 110.655](https://www.google.com/maps/search/?api=1&query=47.32,110.655) |
+| 13 | [Sukhbaatar (Selenge)](cities/sukhbaatar-selenge.yaml) | City / town | **67.80** | **History 7.5**, **Culture 7.4** | 6.5 / 6.8 / 7.0 / 7.2 / 6.5 | [50.236, 106.207](https://www.google.com/maps/search/?api=1&query=50.236,106.207) |
+| 14 | [Bulgan](cities/bulgan.yaml) | City / town | **67.50** | **Culture 7.4** | 6.5 / 6.8 / 6.9 / 7.2 / 6.4 | [48.813, 103.534](https://www.google.com/maps/search/?api=1&query=48.813,103.534) |
+| 15 | [Darkhan](cities/darkhan.yaml) | City / town | **66.60** | **Food 7.5**, **Culture 7.3** | 6.5 / 6.2 / 6.8 / 7.2 / 7.2 | [49.486, 105.922](https://www.google.com/maps/search/?api=1&query=49.486,105.922) |
+| 15 | [Sainshand](cities/sainshand.yaml) | City / town | **66.60** | **Culture 7.4** | 6.3 / 6.8 / 6.9 / 7.0 / 6.4 | [44.895, 110.135](https://www.google.com/maps/search/?api=1&query=44.895,110.135) |
+| 17 | [Bayankhongor](cities/bayankhongor.yaml) | City / town | **64.70** | **Culture 7.0** | 6.2 / 6.5 / 6.6 / 6.9 / 6.3 | [46.194, 100.718](https://www.google.com/maps/search/?api=1&query=46.194,100.718) |
+| 18 | [Mandalgovi](cities/mandalgovi.yaml) | City / town | **64.30** | **Culture 7.0** | 6.1 / 6.6 / 6.6 / 6.8 / 6.1 | [45.762, 106.27](https://www.google.com/maps/search/?api=1&query=45.762,106.27) |
 
 ---
 
