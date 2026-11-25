@@ -1,0 +1,14 @@
+id: sight-se-tynnyrilaki-struve-station
+name: "Tynnyrilaki (Pajtas-vaara) Struve Geodetic Arc Station"
+location:
+  country_code: SE
+  latitude: 68.255
+  longitude: 22.983056
+scores:
+  impact: 6.8
+  uniqueness: 8.1
+  significance: 8.6
+  experience: null
+  depth: null
+  categories:
+    history: 8.6

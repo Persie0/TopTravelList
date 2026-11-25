@@ -1,0 +1,16 @@
+id: sight-se-namdoskargarden-national-park
+name: "Nämdöskärgården National Park"
+location:
+  country_code: SE
+  latitude: 59.18
+  longitude: 18.78
+scores:
+  impact: 8.2
+  uniqueness: 8.7
+  significance: 8.4
+  experience: 8.2
+  depth: 8.3
+  categories:
+    nature: 9
+    wildlife: 8.7
+    photography: 8.8

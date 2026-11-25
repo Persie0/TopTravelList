@@ -1,0 +1,14 @@
+id: sight-se-jupukka-struve-station
+name: "Jupukka (Kerrojupukka) Struve Geodetic Arc Station"
+location:
+  country_code: SE
+  latitude: 67.276667
+  longitude: 23.243056
+scores:
+  impact: 6.8
+  uniqueness: 8.1
+  significance: 8.6
+  experience: null
+  depth: null
+  categories:
+    history: 8.6

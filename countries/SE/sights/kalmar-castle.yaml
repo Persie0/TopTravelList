@@ -1,0 +1,16 @@
+id: sight-se-kalmar-castle
+name: "Kalmar Castle"
+location:
+  country_code: SE
+  latitude: 56.658
+  longitude: 16.355
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 9.0
+  experience: 8.9
+  depth: 8.6
+  categories:
+    architecture: 9.2
+    history: 9.3
+    photography: 9

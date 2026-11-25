@@ -1,0 +1,16 @@
+id: sight-se-uppsala-cathedral
+name: "Uppsala Cathedral"
+location:
+  country_code: SE
+  latitude: 59.858
+  longitude: 17.633
+scores:
+  impact: 8.8
+  uniqueness: 8.6
+  significance: 9.1
+  experience: 8.6
+  depth: 8.0
+  categories:
+    architecture: 9.2
+    history: 9.3
+    culture: 9

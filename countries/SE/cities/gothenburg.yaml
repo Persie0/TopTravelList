@@ -1,0 +1,16 @@
+id: city-se-gothenburg
+name: "Gothenburg (Göteborg)"
+location:
+  country_code: SE
+  latitude: 57.7089
+  longitude: 11.9746
+scores:
+  impact: 8.5
+  uniqueness: 8.4
+  significance: 8.6
+  experience: 9.0
+  depth: 9.0
+  categories:
+    culture: 9
+    food: 9.1
+    architecture: 8.8
