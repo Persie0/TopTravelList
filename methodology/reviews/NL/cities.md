@@ -24,17 +24,17 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| Impact | — | 9.5 | Canal bridges and coherent gabled streets |
-| Uniqueness | — | 9.5 | Rare extensive planned canal capital with distinctive domestic architecture |
-| Significance | — | 9.4 | International maritime trade art and social history |
-| Experience | — | 9.5 | Varied museums neighborhoods markets and canal walks |
-| Depth | — | 9.6 | Many independent urban districts and major collections |
+| Impact | — | 9.3 | Coherent canal and gabled streets, but less monumental citywide scale than London |
+| Uniqueness | — | 9.4 | Extensive distinctive planned canals; distinguish city from protected core |
+| Significance | — | 9.3 | International trade and art heritage, below London and Vienna's wider historical reach |
+| Experience | — | 9.3 | Excellent museums, walks and districts; not uniquely world-leading |
+| Depth | — | 9.3 | Broad collections and neighbourhoods, but fewer independent major circuits than London |
 
-- Applicable category scores: architecture 9.5, history 9.3, culture 9.5, photography 9.5.
-- Computed worldwide overall: 94.90/100.
-- High-score challenge: Impact 9.5: Canal bridges and coherent gabled streets; Uniqueness 9.5: Rare extensive planned canal capital with distinctive domestic architecture; Experience 9.5: Varied museums neighborhoods markets and canal walks; Depth 9.6: Many independent urban districts and major collections; architecture 9.5: Canal bridges and coherent gabled streets; culture 9.5: International maritime trade art and social history; photography 9.5: Canal bridges and coherent gabled streets. 90+ total: Canal bridges and coherent gabled streets; Rare extensive planned canal capital with distinctive domestic architecture; Many independent urban districts and major collections. Amsterdam's planned canal network and museum breadth exceed compact Hoi An and Salzburg in depth, but do not establish a world-defining 10..
+- Applicable category scores: architecture 9.5, history 9.3, culture 9.4, photography 9.5.
+- Computed worldwide overall: 93.25/100.
+- High-score challenge: Architecture 9.5 and photography 9.5 reflect the extensive, coherent canal fabric and repeatable street-level compositions, comparable to Bruges (architecture and photography 9.5). Whole-city 93.25 sits near Saint Petersburg (93.20), above Vienna (92.30) on distinctive canal fabric, and below London (97.00) on significance and depth. No citywide 9.5+ core fields remain.
 - Approved 10 registry: none.
-- Final decision: Scope-limited editorial rating: Rare extensive planned canal capital with distinctive domestic architecture; Many independent urban districts and major collections.
+- Final decision: Reduced from 94.90 to 93.25 after explicit comparison with major capitals and the bounded canal-ring property.
 - Earlier decision: none.
 - Verification still needed: independent factual corroboration, permitted access, current peer profiles and narrower same-type comparisons.
 
@@ -534,8 +534,8 @@
 - Action: new
 - Precise subject: Giethoorn settlement; Exclude wider Weerribben-Wieden.
 - Location check: 52.74, 6.077; approximate representative point; independent verification outstanding.
-- Evidence status: **editorial-only**
-- Evidence: No site-specific supporting source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Destination-specific reference](https://giethoorn.com/en/what-to-do-in-giethoorn-overview/) — Village tourism guide documents canals, bridges, walks and boat visits; exclude nearby national park. Accessed 2026-11-25; independent claim-level audit not complete.
 - Missing or uncertain facts: exact GPS, claim-level corroboration, ordinary permitted visitor conditions and remaining peer verification.
 
 #### Worldwide peer comparisons
@@ -569,8 +569,8 @@
 - Action: new
 - Precise subject: Middelburg settlement; Compact city excludes coast.
 - Location check: 51.499, 3.613; approximate representative point; independent verification outstanding.
-- Evidence status: **editorial-only**
-- Evidence: No site-specific supporting source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Destination-specific reference](https://www.zeeland.com/en/visit/islands/walcheren/towns-and-villages/middelburg) — Regional tourism office documents medieval abbey, museum and canal/city tours. Accessed 2026-11-25; independent claim-level audit not complete.
 - Missing or uncertain facts: exact GPS, claim-level corroboration, ordinary permitted visitor conditions and remaining peer verification.
 
 #### Worldwide peer comparisons
@@ -604,8 +604,8 @@
 - Action: new
 - Precise subject: Volendam settlement; Limited settlement depth.
 - Location check: 52.495, 5.071; approximate representative point; independent verification outstanding.
-- Evidence status: **editorial-only**
-- Evidence: No site-specific supporting source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Destination-specific reference](https://volendam.org/en/visit/plan-your-trip) — Local visitor guide documents compact harbour, dike and walking circuit; promotional evidence. Accessed 2026-11-25; independent claim-level audit not complete.
 - Missing or uncertain facts: exact GPS, claim-level corroboration, ordinary permitted visitor conditions and remaining peer verification.
 
 #### Worldwide peer comparisons
@@ -639,8 +639,8 @@
 - Action: new
 - Precise subject: Enkhuizen settlement; Compact town scope.
 - Location check: 52.703, 5.292; approximate representative point; independent verification outstanding.
-- Evidence status: **editorial-only**
-- Evidence: No site-specific supporting source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Destination-specific reference](https://visitenkhuizen.nl/en/seeing-and-doing/historical-enkhuizen/) — Tourist office documents historic monuments, city walks and waterways. Accessed 2026-11-25; independent claim-level audit not complete.
 - Missing or uncertain facts: exact GPS, claim-level corroboration, ordinary permitted visitor conditions and remaining peer verification.
 
 #### Worldwide peer comparisons
@@ -674,8 +674,8 @@
 - Action: new
 - Precise subject: Zwolle settlement; Several local districts.
 - Location check: 52.516, 6.083; approximate representative point; independent verification outstanding.
-- Evidence status: **editorial-only**
-- Evidence: No site-specific supporting source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Destination-specific reference](https://www.zwolle.nl/en/introduction-zwolle) — Municipality describes old walls, canals, historic buildings and museum. Accessed 2026-11-25; independent claim-level audit not complete.
 - Missing or uncertain facts: exact GPS, claim-level corroboration, ordinary permitted visitor conditions and remaining peer verification.
 
 #### Worldwide peer comparisons

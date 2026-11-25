@@ -11,6 +11,7 @@
 - Location check: 52.369, 4.887; approximate representative point; independent verification outstanding.
 - Evidence status: **source-linked-unverified**
 - Evidence: [UNESCO](https://whc.unesco.org/en/statesparties/nl) — consulted 2026-11-25; confirms inscribed property identity; material claims and permitted access not fully corroborated.
+- Supplemental source, 2026-11-25: https://whc.unesco.org/en/list/1349 — UNESCO exact listed canal-ring scope, not entire city.
 - Missing or uncertain facts: exact GPS, claim-level corroboration, ordinary permitted visitor conditions and remaining peer verification.
 
 #### Worldwide peer comparisons
@@ -81,6 +82,7 @@
 - Location check: 53.35, 5.35; approximate representative point; independent verification outstanding.
 - Evidence status: **source-linked-unverified**
 - Evidence: [UNESCO](https://whc.unesco.org/en/statesparties/nl) — consulted 2026-11-25; confirms inscribed property identity; material claims and permitted access not fully corroborated.
+- Supplemental source, 2026-11-25: https://whc.unesco.org/en/list/1314/ — UNESCO describes transnational tidal ecosystem; rating applies only to Dutch section.
 - Missing or uncertain facts: exact GPS, claim-level corroboration, ordinary permitted visitor conditions and remaining peer verification.
 
 #### Worldwide peer comparisons
@@ -431,6 +433,7 @@
 - Location check: 52.36, 4.885; approximate representative point; independent verification outstanding.
 - Evidence status: **source-linked-unverified**
 - Evidence: [Holland.com](https://www.holland.com/global/tourism/get-inspired/current/art-museums) — consulted 2026-11-25; regional tourism context; material claims and permitted access not fully corroborated.
+- Supplemental source, 2026-11-25: https://www.rijksmuseum.nl/en/visit/inside-the-museum — Museum documents 8,000 displayed objects spanning 800 years of Dutch art and history.
 - Missing or uncertain facts: exact GPS, claim-level corroboration, ordinary permitted visitor conditions and remaining peer verification.
 
 #### Worldwide peer comparisons
@@ -466,6 +469,7 @@
 - Location check: 52.358, 4.881; approximate representative point; independent verification outstanding.
 - Evidence status: **source-linked-unverified**
 - Evidence: [Holland.com](https://www.holland.com/global/tourism/get-inspired/current/art-museums) — consulted 2026-11-25; regional tourism context; material claims and permitted access not fully corroborated.
+- Supplemental source, 2026-11-25: https://www.vangoghmuseum.nl/en/visit/whats-on/the-permanent-collection-van-goghs-masterpieces — Museum describes permanent collection including Van Gogh and contemporaries; narrower than comprehensive art museum.
 - Missing or uncertain facts: exact GPS, claim-level corroboration, ordinary permitted visitor conditions and remaining peer verification.
 
 #### Worldwide peer comparisons
@@ -499,8 +503,8 @@
 - Action: new
 - Precise subject: Anne Frank House; Small house and interpretive exhibitions.
 - Location check: 52.375, 4.884; approximate representative point; independent verification outstanding.
-- Evidence status: **editorial-only**
-- Evidence: No site-specific supporting source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Destination-specific reference](https://www.annefrank.org/en/museum/tickets/choose-your-ticket/) — Museum confirms annex and exhibition visit; timed admission, limited physical scope. Accessed 2026-11-25; independent claim-level audit not complete.
 - Missing or uncertain facts: exact GPS, claim-level corroboration, ordinary permitted visitor conditions and remaining peer verification.
 
 #### Worldwide peer comparisons
@@ -569,13 +573,16 @@
 - Action: new
 - Precise subject: Keukenhof gardens; Defined garden not entire bulb region.
 - Location check: 52.269, 4.546; approximate representative point; independent verification outstanding.
-- Evidence status: **editorial-only**
-- Evidence: No site-specific supporting source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Destination-specific reference](https://keukenhof.nl/en/frequently-asked-questions/) — Operator describes seasonal flower displays and pavilions; not a natural landscape. Accessed 2026-11-25; independent claim-level audit not complete.
 - Missing or uncertain facts: exact GPS, claim-level corroboration, ordinary permitted visitor conditions and remaining peer verification.
 
 #### Worldwide peer comparisons
 | Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
 | --- | --- | --- |
+| [Kenrokuen Garden (JP)](../../../countries/JP/sights/kenrokuen-garden.yaml) (9.2 / 9.3 / 9.0 / 9.3 / 8.8) | historic garden | Similar impact; Keukenhof lower significance and depth. |
+| [Gardens by the Bay (SG)](../../../countries/SG/sights/gardens-by-the-bay.yaml) (9.5 / 9.5 / 8.4 / 9.4 / 9.3) | contemporary designed garden | Keukenhof less year-round breadth and architectural novelty. |
+| [Kew Gardens (GB)](../../../countries/GB/sights/kew-gardens.yaml) (8.9 / 9.1 / 9.4 / 9.2 / 9.3) | botanical garden | Keukenhof stronger concentrated seasonal display, less scientific significance and breadth. |
 | [Jiuzhaigou Valley (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) (9.8 / 9.7 / 9.4 / 9.8 / 9.1) | world-class protected landscape | Uniqueness lower: Distinct large bulb-flower garden tradition; depth lower: Defined garden not entire bulb region. Provisional comparison. |
 | [Hohe Tauern (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) (9.4 / 9.1 / 9 / 9.5 / 9.4) | extensive protected landscape | Uniqueness similar: Distinct large bulb-flower garden tradition; depth lower: Defined garden not entire bulb region. Provisional comparison. |
 | [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (8.9 / 9 / 9 / 9.1 / 8.6) | coastal wetland and wildlife | Uniqueness higher: Distinct large bulb-flower garden tradition; depth lower: Defined garden not entire bulb region. Provisional comparison. |
@@ -590,9 +597,9 @@
 | Experience | — | 9.1 | Seasonal garden routes and exhibitions |
 | Depth | — | 8.5 | Defined garden not entire bulb region |
 
-- Applicable category scores: nature 9.1, photography 9.5, relaxation 9.0.
+- Applicable category scores: photography 9.5, relaxation 9.0.
 - Computed worldwide overall: 88.70/100.
-- High-score challenge: photography 9.5: Extensive designed seasonal flower displays. Seasonal concentrated flower design supports photography only; significance and breadth remain below major protected landscapes..
+- High-score challenge: photography 9.5: Extensive designed seasonal flower displays. Seasonal concentrated flower design supports photography only; significance and breadth remain below major historical or botanical gardens; no nature rating for designed displays..
 - Approved 10 registry: none.
 - Final decision: Scope-limited editorial rating: Distinct large bulb-flower garden tradition; Defined garden not entire bulb region.
 - Earlier decision: none.
@@ -604,8 +611,8 @@
 - Action: new
 - Precise subject: Zaanse Schans; Defined heritage ensemble.
 - Location check: 52.474, 4.818; approximate representative point; independent verification outstanding.
-- Evidence status: **editorial-only**
-- Evidence: No site-specific supporting source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Destination-specific reference](https://www.dezaanseschans.nl/en/faq) — Operator documents windmills, museums and crafts; individual openings vary. Accessed 2026-11-25; independent claim-level audit not complete.
 - Missing or uncertain facts: exact GPS, claim-level corroboration, ordinary permitted visitor conditions and remaining peer verification.
 
 #### Worldwide peer comparisons
@@ -639,8 +646,8 @@
 - Action: new
 - Precise subject: Oosterscheldekering and Delta Works visitor experience; Named barrier and visitor facilities not entire Delta Works.
 - Location check: 51.62, 3.7; approximate representative point; independent verification outstanding.
-- Evidence status: **editorial-only**
-- Evidence: No site-specific supporting source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Destination-specific reference](https://www.rijkswaterstaat.nl/en/projects/iconic-structures/eastern-scheldt-barrier) — Water authority describes barrier and visitor interpretation at Neeltje Jans; no inheritance of entire Delta Works. Accessed 2026-11-25; independent claim-level audit not complete.
 - Missing or uncertain facts: exact GPS, claim-level corroboration, ordinary permitted visitor conditions and remaining peer verification.
 
 #### Worldwide peer comparisons
@@ -709,8 +716,8 @@
 - Action: new
 - Precise subject: Efteling theme park; Multiple themed park areas.
 - Location check: 51.65, 5.05; approximate representative point; independent verification outstanding.
-- Evidence status: **editorial-only**
-- Evidence: No site-specific supporting source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Destination-specific reference](https://www.efteling.com/en/park/attractions) — Operator lists Fairytale Forest, rides and museum; entertainment not historical significance. Accessed 2026-11-25; independent claim-level audit not complete.
 - Missing or uncertain facts: exact GPS, claim-level corroboration, ordinary permitted visitor conditions and remaining peer verification.
 
 #### Worldwide peer comparisons
@@ -744,8 +751,8 @@
 - Action: new
 - Precise subject: Muiderslot Castle; Single castle.
 - Location check: 52.334, 5.071; approximate representative point; independent verification outstanding.
-- Evidence status: **editorial-only**
-- Evidence: No site-specific supporting source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Destination-specific reference](https://muiderslot.nl/en/visit/) — Castle operator documents audio tours and visitor circuit. Accessed 2026-11-25; independent claim-level audit not complete.
 - Missing or uncertain facts: exact GPS, claim-level corroboration, ordinary permitted visitor conditions and remaining peer verification.
 
 #### Worldwide peer comparisons
@@ -814,8 +821,8 @@
 - Action: new
 - Precise subject: Cube Houses, Rotterdam; Small residential ensemble.
 - Location check: 51.92, 4.49; approximate representative point; independent verification outstanding.
-- Evidence status: **editorial-only**
-- Evidence: No site-specific supporting source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Destination-specific reference](https://www.kubuswoning.nl/en/visit.html) — Museum-house operator confirms furnished show cube; other private houses not assumed open. Accessed 2026-11-25; independent claim-level audit not complete.
 - Missing or uncertain facts: exact GPS, claim-level corroboration, ordinary permitted visitor conditions and remaining peer verification.
 
 #### Worldwide peer comparisons
@@ -849,8 +856,8 @@
 - Action: new
 - Precise subject: Royal Palace Amsterdam; One building.
 - Location check: 52.373, 4.891; approximate representative point; independent verification outstanding.
-- Evidence status: **editorial-only**
-- Evidence: No site-specific supporting source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Destination-specific reference](https://www.paleisamsterdam.nl/en/visit/) — Palace operator documents admission when not in state use. Accessed 2026-11-25; independent claim-level audit not complete.
 - Missing or uncertain facts: exact GPS, claim-level corroboration, ordinary permitted visitor conditions and remaining peer verification.
 
 #### Worldwide peer comparisons
@@ -884,8 +891,8 @@
 - Action: new
 - Precise subject: Netherlands Open Air Museum, Arnhem; Multiple building types and eras.
 - Location check: 52.01, 5.91; approximate representative point; independent verification outstanding.
-- Evidence status: **editorial-only**
-- Evidence: No site-specific supporting source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Destination-specific reference](https://www.openluchtmuseum.nl/en/discover) — Museum confirms historic buildings, objects and everyday-life interpretation. Accessed 2026-11-25; independent claim-level audit not complete.
 - Missing or uncertain facts: exact GPS, claim-level corroboration, ordinary permitted visitor conditions and remaining peer verification.
 
 #### Worldwide peer comparisons
@@ -919,8 +926,8 @@
 - Action: new
 - Precise subject: Binnenhof historic parliamentary complex; Defined complex not entire Hague.
 - Location check: 52.079, 4.313; approximate representative point; independent verification outstanding.
-- Evidence status: **editorial-only**
-- Evidence: No site-specific supporting source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Destination-specific reference](https://www.binnenhofrenovatie.nl/de-werkzaamheden/bereikbaarheid) — Renovation authority confirms complex closed to traffic since March 2022; https://www.binnenhofrenovatie.nl/onderwerpen/i/information-centre confirms off-site interpretation. Temporary restrictions disclosed; do not treat external centre as interior access. Accessed 2026-11-25; independent claim-level audit not complete.
 - Missing or uncertain facts: exact GPS, claim-level corroboration, ordinary permitted visitor conditions and remaining peer verification.
 
 #### Worldwide peer comparisons
@@ -954,8 +961,8 @@
 - Action: new
 - Precise subject: Marken historic village; Small village not entire peninsula.
 - Location check: 52.459, 5.105; approximate representative point; independent verification outstanding.
-- Evidence status: **editorial-only**
-- Evidence: No site-specific supporting source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Destination-specific reference](https://www.laagholland.com/en/marken) — Regional guide documents wooden houses and public walking routes; exclude entire peninsula. Accessed 2026-11-25; independent claim-level audit not complete.
 - Missing or uncertain facts: exact GPS, claim-level corroboration, ordinary permitted visitor conditions and remaining peer verification.
 
 #### Worldwide peer comparisons
@@ -989,8 +996,8 @@
 - Action: new
 - Precise subject: Afsluitdijk dam and viewpoints; Defined dam corridor.
 - Location check: 53, 5.2; approximate representative point; independent verification outstanding.
-- Evidence status: **editorial-only**
-- Evidence: No site-specific supporting source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Destination-specific reference](https://theafsluitdijk.com/activities/) — Project authority identifies Wadden Centre and Vlieter Monument viewpoints. Accessed 2026-11-25; independent claim-level audit not complete.
 - Missing or uncertain facts: exact GPS, claim-level corroboration, ordinary permitted visitor conditions and remaining peer verification.
 
 #### Worldwide peer comparisons
@@ -1376,6 +1383,7 @@
 - Location check: 52.14, 4.32; approximate representative point; independent verification outstanding.
 - Evidence status: **source-linked-unverified**
 - Evidence: [Nationale Parken](https://nationaleparken.nl/en/news/official-status-hollandse-duinen-national-park) — consulted 2026-11-25; confirms 28 April 2026 designation and distinguishes designated area from cooperation area; material claims and permitted access not fully corroborated.
+- Supplemental source, 2026-11-25: https://nationaleparken.nl/en/the-parks/national-park-hollandse-duinen — Official park profile confirms designation 28 April 2026 and mixed coastal landscape.
 - Missing or uncertain facts: exact GPS, claim-level corroboration, ordinary permitted visitor conditions and remaining peer verification.
 
 #### Worldwide peer comparisons
