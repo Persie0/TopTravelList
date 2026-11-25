@@ -1,0 +1,15 @@
+id: sight-sl-tacugama-chimpanzee-sanctuary
+name: "Tacugama Chimpanzee Sanctuary"
+location:
+  country_code: SL
+  latitude: 8.403
+  longitude: -13.21
+scores:
+  impact: 8.3
+  uniqueness: 8.6
+  significance: 8.7
+  experience: 8.8
+  depth: 8.0
+  categories:
+    wildlife: 9.2
+    nature: 8.7

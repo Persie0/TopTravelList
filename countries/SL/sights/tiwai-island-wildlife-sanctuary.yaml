@@ -1,0 +1,15 @@
+id: sight-sl-tiwai-island-wildlife-sanctuary
+name: "Tiwai Island Wildlife Sanctuary"
+location:
+  country_code: SL
+  latitude: 7.541167
+  longitude: -11.347889
+scores:
+  impact: 8.8
+  uniqueness: 9.2
+  significance: 9.4
+  experience: 8.8
+  depth: 8.3
+  categories:
+    nature: 9.4
+    wildlife: 9.5
