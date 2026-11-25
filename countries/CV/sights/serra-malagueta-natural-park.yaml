@@ -1,0 +1,16 @@
+id: sight-cv-serra-malagueta-natural-park
+name: "Serra Malagueta Natural Park"
+location:
+  country_code: CV
+  latitude: 15.1840
+  longitude: -23.6810
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 7.9
+  experience: 8.6
+  depth: 8.2
+  categories:
+    nature: 9.1
+    adventure: 9.0
+    photography: 9.1

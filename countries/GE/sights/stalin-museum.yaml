@@ -1,0 +1,15 @@
+id: sight-ge-stalin-museum
+name: "Joseph Stalin Museum"
+location:
+  country_code: GE
+  latitude: 41.986
+  longitude: 44.113
+scores:
+  impact: 7.2
+  uniqueness: 8.3
+  significance: 8.7
+  experience: 7.3
+  depth: 7.5
+  categories:
+    history: 8.8
+    culture: 7.5

@@ -1,0 +1,16 @@
+id: sight-kg-barskoon-gorge-and-waterfalls
+name: "Barskoon Gorge and Waterfalls"
+location:
+  country_code: KG
+  latitude: 42.09
+  longitude: 77.63
+scores:
+  impact: 8.6
+  uniqueness: 8.2
+  significance: 7.5
+  experience: 8.6
+  depth: 8.2
+  categories:
+    nature: 9.0
+    photography: 8.9
+    adventure: 8.6

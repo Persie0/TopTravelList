@@ -1,0 +1,14 @@
+id: sight-tj-castle-on-mount-mugh
+name: "Castle on Mount Mugh"
+location:
+  country_code: TJ
+  latitude: 39.4545
+  longitude: 68.41318
+scores:
+  impact: null
+  uniqueness: 8.6
+  significance: 9.1
+  experience: null
+  depth: null
+  categories:
+    history: 9.3

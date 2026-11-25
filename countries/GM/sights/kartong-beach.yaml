@@ -1,0 +1,16 @@
+id: sight-gm-kartong-beach
+name: "Kartong Beach"
+location:
+  country_code: GM
+  latitude: 13.0910
+  longitude: -16.7720
+scores:
+  impact: 8.3
+  uniqueness: 7.9
+  significance: 5.8
+  experience: 8.1
+  depth: 7.0
+  categories:
+    beaches: 8.7
+    relaxation: 8.5
+    photography: 8.4

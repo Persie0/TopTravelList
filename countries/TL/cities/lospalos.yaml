@@ -1,0 +1,15 @@
+id: city-tl-lospalos
+name: "Lospalos"
+location:
+  country_code: TL
+  latitude: -8.521
+  longitude: 127.003
+scores:
+  impact: 7.3
+  uniqueness: 8.0
+  significance: 7.7
+  experience: 7.6
+  depth: 6.7
+  categories:
+    culture: 8.5
+    architecture: 8.0

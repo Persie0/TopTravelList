@@ -1,0 +1,16 @@
+id: sight-gm-bao-bolong-wetland-reserve
+name: "Bao Bolong Wetland Reserve"
+location:
+  country_code: GM
+  latitude: 13.5060
+  longitude: -15.8500
+scores:
+  impact: 8.2
+  uniqueness: 8.6
+  significance: 8.5
+  experience: 8.4
+  depth: 7.8
+  categories:
+    wildlife: 9.2
+    nature: 9.0
+    photography: 8.5

@@ -1,0 +1,16 @@
+id: sight-uz-gur-e-amir-mausoleum
+name: "Gur-e-Amir Mausoleum"
+location:
+  country_code: UZ
+  latitude: 39.6486
+  longitude: 66.9697
+scores:
+  impact: 9.4
+  uniqueness: 9.3
+  significance: 9.5
+  experience: 9.0
+  depth: 7.9
+  categories:
+    architecture: 9.6
+    history: 9.6
+    photography: 9.5

@@ -1,0 +1,16 @@
+id: sight-tm-yangykala-canyon
+name: "Yangykala Canyon"
+location:
+  country_code: TM
+  latitude: 40.42
+  longitude: 54.8
+scores:
+  impact: 9.5
+  uniqueness: 9.3
+  significance: 7.9
+  experience: 8.7
+  depth: 8.5
+  categories:
+    nature: 9.4
+    photography: 9.6
+    adventure: 8.8

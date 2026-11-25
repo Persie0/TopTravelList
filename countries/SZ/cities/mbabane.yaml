@@ -1,0 +1,16 @@
+id: city-sz-mbabane
+name: "Mbabane"
+location:
+  country_code: SZ
+  latitude: -26.3167
+  longitude: 31.1333
+scores:
+  impact: 7.3
+  uniqueness: 7.2
+  significance: 7.7
+  experience: 7.7
+  depth: 7.5
+  categories:
+    culture: 7.8
+    food: 7.7
+    photography: 7.8

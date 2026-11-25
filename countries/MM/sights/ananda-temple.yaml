@@ -1,0 +1,15 @@
+id: sight-mm-ananda-temple
+name: "Ananda Temple"
+location:
+  country_code: MM
+  latitude: 21.171
+  longitude: 94.867
+scores:
+  impact: 9.0
+  uniqueness: 8.9
+  significance: 8.9
+  experience: 8.6
+  depth: 8.0
+  categories:
+    architecture: 9.2
+    history: 9.0

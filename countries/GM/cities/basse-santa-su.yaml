@@ -1,0 +1,16 @@
+id: city-gm-basse-santa-su
+name: "Basse Santa Su"
+location:
+  country_code: GM
+  latitude: 13.3100
+  longitude: -14.2130
+scores:
+  impact: 6.6
+  uniqueness: 7.4
+  significance: 7.2
+  experience: 7.5
+  depth: 6.8
+  categories:
+    culture: 8.1
+    food: 7.9
+    history: 7.5

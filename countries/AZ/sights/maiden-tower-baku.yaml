@@ -1,0 +1,16 @@
+id: sight-az-maiden-tower-baku
+name: "Maiden Tower (Baku)"
+location:
+  country_code: AZ
+  latitude: 40.366
+  longitude: 49.837
+scores:
+  impact: 8.6
+  uniqueness: 9.1
+  significance: 9.0
+  experience: 8.3
+  depth: 6.6
+  categories:
+    architecture: 9.2
+    history: 9.2
+    photography: 8.9

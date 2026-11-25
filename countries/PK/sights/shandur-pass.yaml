@@ -1,0 +1,16 @@
+id: sight-pk-shandur-pass
+name: "Shandur Pass"
+location:
+  country_code: PK
+  latitude: 36.08
+  longitude: 72.53
+scores:
+  impact: 8.5
+  uniqueness: 8.4
+  significance: 7.8
+  experience: 8.0
+  depth: 7.5
+  categories:
+    nature: 8.7
+    culture: 8.3
+    photography: 8.8

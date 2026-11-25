@@ -1,0 +1,17 @@
+id: sight-rw-akagera-national-park
+name: "Akagera National Park"
+location:
+  country_code: RW
+  latitude: -1.6500
+  longitude: 30.7100
+scores:
+  impact: 9.2
+  uniqueness: 9.0
+  significance: 9.0
+  experience: 9.2
+  depth: 9.1
+  categories:
+    nature: 9.4
+    wildlife: 9.6
+    adventure: 9.2
+    photography: 9.2

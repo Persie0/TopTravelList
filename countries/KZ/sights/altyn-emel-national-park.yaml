@@ -1,0 +1,17 @@
+id: sight-kz-altyn-emel-national-park
+name: "Altyn-Emel National Park"
+location:
+  country_code: KZ
+  latitude: 44
+  longitude: 78.8
+scores:
+  impact: 9.4
+  uniqueness: 9.2
+  significance: 9.1
+  experience: 9.0
+  depth: 9.3
+  categories:
+    nature: 9.5
+    photography: 9.6
+    adventure: 9.2
+    wildlife: 9.1

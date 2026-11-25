@@ -1,0 +1,15 @@
+id: sight-tj-ancient-penjikent-archaeological-site
+name: "Ancient Penjikent Archaeological Site"
+location:
+  country_code: TJ
+  latitude: 39.4869
+  longitude: 67.6181
+scores:
+  impact: 7.9
+  uniqueness: 8.7
+  significance: 9.4
+  experience: 7.9
+  depth: 8.0
+  categories:
+    history: 9.4
+    culture: 8.8

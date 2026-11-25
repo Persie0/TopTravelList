@@ -1,0 +1,16 @@
+id: sight-lb-byblos-archaeological-site
+name: "Byblos Archaeological Site"
+location:
+  country_code: LB
+  latitude: 34.11917
+  longitude: 35.645556
+scores:
+  impact: 8.9
+  uniqueness: 9.2
+  significance: 9.5
+  experience: 8.8
+  depth: 8.8
+  categories:
+    history: 9.6
+    architecture: 9.1
+    photography: 9.1

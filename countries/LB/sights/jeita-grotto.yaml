@@ -1,0 +1,14 @@
+id: sight-lb-jeita-grotto
+name: "Jeita Grotto"
+location:
+  country_code: LB
+  latitude: 33.943
+  longitude: 35.641
+scores:
+  impact: 9.4
+  uniqueness: 9.2
+  significance: 8.1
+  experience: 9.1
+  depth: 8.4
+  categories:
+    nature: 9.4

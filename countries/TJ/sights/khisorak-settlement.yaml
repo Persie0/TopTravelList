@@ -1,0 +1,14 @@
+id: sight-tj-khisorak-settlement
+name: "Khisorak Settlement"
+location:
+  country_code: TJ
+  latitude: 39.44149
+  longitude: 69.68556
+scores:
+  impact: null
+  uniqueness: 8.3
+  significance: 8.9
+  experience: null
+  depth: null
+  categories:
+    history: 9.1

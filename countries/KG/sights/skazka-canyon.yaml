@@ -1,0 +1,15 @@
+id: sight-kg-skazka-canyon
+name: "Skazka Canyon"
+location:
+  country_code: KG
+  latitude: 42.157
+  longitude: 77.36
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 7.3
+  experience: 8.7
+  depth: 7.5
+  categories:
+    nature: 8.9
+    photography: 9.3

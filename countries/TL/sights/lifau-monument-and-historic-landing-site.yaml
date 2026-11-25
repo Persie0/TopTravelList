@@ -1,0 +1,15 @@
+id: sight-tl-lifau-monument-and-historic-landing-site
+name: "Lifau Monument and Historic Landing Site"
+location:
+  country_code: TL
+  latitude: -9.187
+  longitude: 124.332
+scores:
+  impact: 7.2
+  uniqueness: 8.1
+  significance: 8.7
+  experience: 7.4
+  depth: 6.3
+  categories:
+    history: 9.1
+    culture: 8.4

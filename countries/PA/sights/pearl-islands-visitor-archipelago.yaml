@@ -1,0 +1,16 @@
+id: sight-pa-pearl-islands-visitor-archipelago
+name: "Pearl Islands (visitor archipelago)"
+location:
+  country_code: PA
+  latitude: 8.45
+  longitude: -79.0
+scores:
+  impact: 8.7
+  uniqueness: 8.5
+  significance: 7.8
+  experience: 8.8
+  depth: 8.7
+  categories:
+    beaches: 9.2
+    nature: 8.9
+    wildlife: 8.8
