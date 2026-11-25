@@ -1,0 +1,16 @@
+id: sight-ma-moulay-idriss-zerhoun
+name: "Moulay Idriss Zerhoun Historic Town"
+location:
+  country_code: MA
+  latitude: 34.054
+  longitude: -5.524
+scores:
+  impact: 8.6
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.2
+  depth: 8.0
+  categories:
+    architecture: 8.8
+    culture: 9.0
+    history: 9.0

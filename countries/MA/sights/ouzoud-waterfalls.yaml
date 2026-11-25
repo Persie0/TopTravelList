@@ -1,0 +1,15 @@
+id: sight-ma-ouzoud-waterfalls
+name: "Ouzoud Waterfalls"
+location:
+  country_code: MA
+  latitude: 32.015
+  longitude: -6.718
+scores:
+  impact: 9.0
+  uniqueness: 8.5
+  significance: 8.2
+  experience: 8.8
+  depth: 8.0
+  categories:
+    nature: 9.0
+    photography: 9.1
