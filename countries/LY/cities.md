@@ -2,7 +2,7 @@
 
 # Libya (LY) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**4 ranked** · **7 unassessed** · **11 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,28 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (4)
 
-No cities, towns & villages have been assessed for **Libya** yet.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Ghadamès](cities/ghadames.yaml) | City / town | **89.05** | **Architecture 9.4**, **Culture 9.2**, **History 9.2** | 8.8 / 9.4 / 9.1 / 8.5 / 8.2 | [30.13366, 9.50072](https://www.google.com/maps/search/?api=1&query=30.13366,9.50072) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ghadam%C3%A8s%2C%20Libya) |
+| 2 | [Tripoli](cities/tripoli.yaml) | City / town | **84.80** | **History 8.9**, **Architecture 8.8**, **Culture 8.8**, Food 8.4 | 8.4 / 8.5 / 8.7 / 8.3 / 8.5 | [32.88743, 13.18733](https://www.google.com/maps/search/?api=1&query=32.88743,13.18733) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tripoli%2C%20Libya) |
+| 3 | [Nalut](cities/nalut.yaml) | City / town | **80.25** | **Architecture 8.7**, **Culture 8.5** | 7.9 / 8.5 / 8.1 / 7.8 / 7.4 | [31.86848, 10.9812](https://www.google.com/maps/search/?api=1&query=31.86848,10.9812) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nalut%2C%20Libya) |
+| 4 | [Benghazi](cities/benghazi.yaml) | City / town | **76.30** | **History 8.3**, **Culture 8.1** | 7.3 / 7.7 / 8.1 / 7.5 / 7.7 | [32.11486, 20.06859](https://www.google.com/maps/search/?api=1&query=32.11486,20.06859) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Benghazi%2C%20Libya) |
 
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+## Not yet fully assessed (7)
+
+These destinations have no rank until all five core scores are assessed.
+
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| — | [Gharyan](cities/gharyan.yaml) | City / town | **—** | **Architecture 8.4**, **Culture 8.0** | 7.5 / 8.2 / 7.5 / — / — | [32.17222, 13.02028](https://www.google.com/maps/search/?api=1&query=32.17222,13.02028) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Gharyan%2C%20Libya) |
+| — | [Ghat](cities/ghat.yaml) | City / town | **—** | **Culture 8.7**, **Architecture 8.6**, **History 8.6** | 7.8 / 8.6 / 8.2 / — / — | [24.96334, 10.18003](https://www.google.com/maps/search/?api=1&query=24.96334,10.18003) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ghat%2C%20Libya) |
+| — | [Misrata](cities/misrata.yaml) | City / town | **—** | — | — / 7.0 / 7.6 / — / — | [32.37535, 15.09254](https://www.google.com/maps/search/?api=1&query=32.37535,15.09254) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Misrata%2C%20Libya) |
+| — | [Sabha](cities/sabha.yaml) | City / town | **—** | — | — / 7.4 / 7.5 / — / — | [27.03766, 14.42832](https://www.google.com/maps/search/?api=1&query=27.03766,14.42832) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sabha%2C%20Libya) |
+| — | [Sabratha](cities/sabratha.yaml) | City / town | **—** | — | — / 7.2 / 7.3 / — / — | [32.793, 12.485](https://www.google.com/maps/search/?api=1&query=32.793,12.485) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sabratha%2C%20Libya) |
+| — | [Shahat](cities/shahat.yaml) | City / town | **—** | — | — / 7.0 / 7.2 / — / — | [32.804302, 21.866055](https://www.google.com/maps/search/?api=1&query=32.804302,21.866055) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Shahat%2C%20Libya) |
+| — | [Tobruk](cities/tobruk.yaml) | City / town | **—** | **History 8.3** | — / 7.5 / 8.0 / — / — | [32.08963, 23.95385](https://www.google.com/maps/search/?api=1&query=32.08963,23.95385) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tobruk%2C%20Libya) |
 
 ---
 

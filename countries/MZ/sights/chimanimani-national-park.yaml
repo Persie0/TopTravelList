@@ -1,0 +1,16 @@
+id: sight-mz-chimanimani-national-park
+name: "Chimanimani National Park (Mozambique)"
+location:
+  country_code: MZ
+  latitude: -19.795
+  longitude: 33.08917
+scores:
+  impact: 9.1
+  uniqueness: 9.0
+  significance: 9.0
+  experience: 8.6
+  depth: 8.6
+  categories:
+    nature: 9.3
+    adventure: 9.1
+    photography: 9.1

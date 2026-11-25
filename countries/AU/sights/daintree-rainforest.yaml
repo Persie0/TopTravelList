@@ -1,0 +1,15 @@
+id: sight-au-daintree-rainforest
+name: "Daintree Rainforest"
+location:
+  country_code: AU
+  latitude: -16.2
+  longitude: 145.4
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 9.1
+  experience: 8.9
+  depth: 8.8
+  categories:
+    nature: 9.2
+    wildlife: 9.1

@@ -2,7 +2,7 @@
 
 # Fiji (FJ) — Sights & attractions ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**16 ranked** · **2 unassessed** · **18 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,11 +10,35 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (16)
 
-No sights & attractions have been assessed for **Fiji** yet.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Namena Marine Reserve](sights/namena-marine-reserve.yaml) | Attraction | **91.25** | **Nature 9.4**, **Wildlife 9.4**, **Adventure 9.3** | 9.2 / 9.1 / 9.1 / 9.2 / 8.9 | [-17.10847, 179.10273](https://www.google.com/maps/search/?api=1&query=-17.10847,179.10273) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Namena%20Marine%20Reserve%2C%20Fiji) |
+| 2 | [Great Sea Reef (Cakaulevu)](sights/great-sea-reef.yaml) | Attraction | **90.80** | **Nature 9.5**, **Wildlife 9.3**, **Adventure 9.1** | 9.1 / 9.3 / 9.4 / 8.5 / 8.7 | [-16.324167, 179.152361](https://www.google.com/maps/search/?api=1&query=-16.324167,179.152361) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Great%20Sea%20Reef%20%28Cakaulevu%29%2C%20Fiji) |
+| 3 | [Rainbow Reef](sights/rainbow-reef.yaml) | Attraction | **90.35** | **Adventure 9.3**, **Nature 9.3**, **Photography 9.2**, Wildlife 9.2 | 9.2 / 9.1 / 8.7 / 9.2 / 8.8 | [-16.795, 179.906](https://www.google.com/maps/search/?api=1&query=-16.795,179.906) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Rainbow%20Reef%2C%20Fiji) |
+| 4 | [Great Astrolabe Reef](sights/great-astrolabe-reef.yaml) | Attraction | **90.05** | **Nature 9.3**, **Adventure 9.2**, **Wildlife 9.1** | 9.1 / 8.9 / 9.0 / 9.0 / 9.0 | [-18.80233, 178.58616](https://www.google.com/maps/search/?api=1&query=-18.80233,178.58616) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Great%20Astrolabe%20Reef%2C%20Fiji) |
+| 5 | [Beqa Lagoon](sights/beqa-lagoon.yaml) | Beach / bay | **87.60** | **Wildlife 9.2**, **Adventure 9.1**, **Nature 8.9** | 8.9 / 8.8 / 8.4 / 9.0 / 8.6 | [-18.42973, 178.04924](https://www.google.com/maps/search/?api=1&query=-18.42973,178.04924) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Beqa%20Lagoon%2C%20Fiji) |
+| 6 | [Levuka Historical Port Town](sights/levuka-historical-port-town.yaml) | Attraction | **85.55** | **History 9.2**, **Architecture 8.8**, **Culture 8.8** | 8.3 / 8.9 / 9.0 / 8.2 / 8.1 | [-17.68338, 178.83453](https://www.google.com/maps/search/?api=1&query=-17.68338,178.83453) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Levuka%20Historical%20Port%20Town%2C%20Fiji) |
+| 7 | [Lavena Coastal Walk](sights/lavena-coastal-walk.yaml) | Coast | **84.55** | **Nature 8.9**, **Photography 8.9**, **Adventure 8.8** | 8.7 / 8.5 / 7.8 / 8.8 / 8.4 | [-16.87385, -179.87931](https://www.google.com/maps/search/?api=1&query=-16.87385,-179.87931) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lavena%20Coastal%20Walk%2C%20Fiji) |
+| 8 | [Monuriki Island](sights/monuriki-island.yaml) | Island | **84.25** | **Nature 8.8**, **Photography 8.8**, **Beaches 8.7**, Relaxation 8.4 | 8.6 / 8.4 / 8.6 / 8.5 / 7.5 | [-17.60977, 177.03412](https://www.google.com/maps/search/?api=1&query=-17.60977,177.03412) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Monuriki%20Island%2C%20Fiji) |
+| 9 | [Sawa-i-Lau Caves](sights/sawa-i-lau-caves.yaml) | Attraction | **83.95** | **Adventure 8.9**, **Nature 8.9**, **Photography 8.9** | 8.8 / 8.7 / 7.5 / 8.8 / 7.6 | [-16.85035, 177.46673](https://www.google.com/maps/search/?api=1&query=-16.85035,177.46673) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sawa-i-Lau%20Caves%2C%20Fiji) |
+| 10 | [Sigatoka Sand Dunes National Park](sights/sigatoka-sand-dunes.yaml) | Park / reserve | **81.25** | **History 8.7**, **Photography 8.4**, **Nature 8.3** | 8.1 / 8.1 / 8.6 / 8.0 / 7.5 | [-18.167636, 177.497751](https://www.google.com/maps/search/?api=1&query=-18.167636,177.497751) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sigatoka%20Sand%20Dunes%20National%20Park%2C%20Fiji) |
+| 11 | [Fiji Museum](sights/fiji-museum.yaml) | Museum / heritage | **80.85** | **Culture 8.9**, **History 8.8** | 7.7 / 8.3 / 8.6 / 8.0 / 7.8 | [-18.14967, 178.42569](https://www.google.com/maps/search/?api=1&query=-18.14967,178.42569) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Fiji%20Museum%2C%20Fiji) |
+| 12 | [Tavoro Falls (Bouma Falls)](sights/tavoro-falls.yaml) | Waterfall | **79.65** | **Nature 8.6**, **Photography 8.6**, **Adventure 8.2** | 8.4 / 7.8 / 7.1 / 8.5 / 8.0 | [-16.82357, -179.88378](https://www.google.com/maps/search/?api=1&query=-16.82357,-179.88378) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tavoro%20Falls%20%28Bouma%20Falls%29%2C%20Fiji) |
+| 13 | [Sri Siva Subramaniya Temple](sights/sri-siva-subramaniya-temple.yaml) | Religious site | **79.00** | **Architecture 8.6**, **Culture 8.5**, **Photography 8.2** | 8.0 / 8.2 / 7.9 / 7.8 / 7.0 | [-17.8072, 177.4151](https://www.google.com/maps/search/?api=1&query=-17.8072,177.4151) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sri%20Siva%20Subramaniya%20Temple%2C%20Fiji) |
+| 14 | [Natadola Beach](sights/natadola-beach.yaml) | Beach / bay | **78.20** | **Beaches 9.0**, **Relaxation 8.8**, **Photography 8.6**, Nature 8.4 | 8.6 / 7.7 / 6.4 / 8.7 / 7.3 | [-18.101083, 177.319223](https://www.google.com/maps/search/?api=1&query=-18.101083,177.319223) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Natadola%20Beach%2C%20Fiji) |
+| 15 | [Garden of the Sleeping Giant](sights/garden-of-the-sleeping-giant.yaml) | Garden | **77.30** | **Nature 8.4**, **Photography 8.3**, **Relaxation 8.3** | 7.9 / 7.9 / 7.1 / 8.1 / 7.5 | [-17.713, 177.4693](https://www.google.com/maps/search/?api=1&query=-17.713,177.4693) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Garden%20of%20the%20Sleeping%20Giant%2C%20Fiji) |
+| 16 | [Colo-i-Suva Forest Park](sights/colo-i-suva-forest-park.yaml) | Forest | **77.10** | **Nature 8.2**, **Relaxation 8.0**, **Wildlife 7.8** | 7.7 / 7.5 / 7.6 / 8.3 / 7.6 | [-18.05887, 178.46457](https://www.google.com/maps/search/?api=1&query=-18.05887,178.46457) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Colo-i-Suva%20Forest%20Park%2C%20Fiji) |
 
-Add destination YAML files in [sights/](sights/), then regenerate the overview files.
+## Not yet fully assessed (2)
+
+These destinations have no rank until all five core scores are assessed.
+
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| — | [Sovi Basin](sights/sovi-basin.yaml) | Attraction | **—** | **Nature 9.0**, **Wildlife 8.8** | 8.1 / 8.5 / 9.0 / — / — | [-17.9836, 178.1822](https://www.google.com/maps/search/?api=1&query=-17.9836,178.1822) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sovi%20Basin%2C%20Fiji) |
+| — | [Yaduataba Crested Iguana Sanctuary](sights/yaduataba-crested-iguana-sanctuary.yaml) | Park / reserve | **—** | **Wildlife 9.2**, **Nature 8.6** | — / 8.9 / 9.1 / — / — | [-16.833333, 178.333333](https://www.google.com/maps/search/?api=1&query=-16.833333,178.333333) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Yaduataba%20Crested%20Iguana%20Sanctuary%2C%20Fiji) |
 
 ---
 

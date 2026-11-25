@@ -1,0 +1,15 @@
+id: sight-ng-cross-river-national-park
+name: "Cross River National Park"
+location:
+  country_code: NG
+  latitude: 5.825
+  longitude: 8.84
+scores:
+  impact: 8.8
+  uniqueness: 9.3
+  significance: 9.5
+  experience: 8.3
+  depth: 8.7
+  categories:
+    nature: 9.5
+    wildlife: 8.8

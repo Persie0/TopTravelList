@@ -1,0 +1,16 @@
+id: sight-cd-nyiragongo-volcano
+name: "Nyiragongo Volcano"
+location:
+  country_code: CD
+  latitude: -1.52
+  longitude: 29.25
+scores:
+  impact: 9.6
+  uniqueness: 9.6
+  significance: 9.2
+  experience: 9.1
+  depth: 8.5
+  categories:
+    nature: 9.5
+    adventure: 9.4
+    photography: 9.5

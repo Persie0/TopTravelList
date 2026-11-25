@@ -1,0 +1,15 @@
+id: sight-ke-hells-gate
+name: "Hell’s Gate National Park"
+location:
+  country_code: KE
+  latitude: -0.885374
+  longitude: 36.299164
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 8.6
+  experience: 9.0
+  depth: 8.5
+  categories:
+    nature: 9.2
+    adventure: 9.2

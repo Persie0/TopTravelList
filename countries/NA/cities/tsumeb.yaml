@@ -1,0 +1,15 @@
+id: city-na-tsumeb
+name: "Tsumeb"
+location:
+  country_code: NA
+  latitude: -19.24842
+  longitude: 17.71345
+scores:
+  impact: 7.0
+  uniqueness: 7.6
+  significance: 7.7
+  experience: 7.5
+  depth: 7.2
+  categories:
+    history: 8.1
+    culture: 7.7

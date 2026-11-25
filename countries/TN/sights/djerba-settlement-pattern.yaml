@@ -1,0 +1,14 @@
+id: sight-tn-djerba-settlement-pattern
+name: "Djerba Historic Settlement Pattern"
+location:
+  country_code: TN
+  latitude: 33.795111
+  longitude: 11.005417
+scores:
+  impact: null
+  uniqueness: 9.1
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    culture: 9.2

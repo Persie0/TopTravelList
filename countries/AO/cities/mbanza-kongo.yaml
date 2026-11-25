@@ -1,0 +1,15 @@
+id: city-ao-mbanza-kongo
+name: "Mbanza Kongo"
+location:
+  country_code: AO
+  latitude: -6.266667
+  longitude: 14.238333
+scores:
+  impact: 7.9
+  uniqueness: 8.9
+  significance: 9.2
+  experience: 8.1
+  depth: 7.8
+  categories:
+    history: 9.4
+    culture: 9.1

@@ -1,0 +1,14 @@
+id: sight-na-hoba-meteorite
+name: "Hoba Meteorite"
+location:
+  country_code: NA
+  latitude: -19.5925
+  longitude: 17.933611
+scores:
+  impact: 8.2
+  uniqueness: 9.6
+  significance: 9.5
+  experience: 7.9
+  depth: 6.7
+  categories:
+    nature: 9

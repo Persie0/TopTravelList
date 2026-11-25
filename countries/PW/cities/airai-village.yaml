@@ -1,0 +1,15 @@
+id: city-pw-airai-village
+name: "Airai Village (Ordomel)"
+location:
+  country_code: PW
+  latitude: 7.3612
+  longitude: 134.5603
+scores:
+  impact: 6.9
+  uniqueness: 7.9
+  significance: 7.8
+  experience: 7.1
+  depth: 6.6
+  categories:
+    culture: 8.2
+    architecture: 7.7

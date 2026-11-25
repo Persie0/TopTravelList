@@ -1,0 +1,14 @@
+id: sight-ng-sungbos-eredo
+name: "Sungbo's Eredo"
+location:
+  country_code: NG
+  latitude: 6.25
+  longitude: 4.25
+scores:
+  impact: null
+  uniqueness: 9.2
+  significance: 9.1
+  experience: null
+  depth: null
+  categories:
+    history: 9.3

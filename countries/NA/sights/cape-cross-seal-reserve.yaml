@@ -1,0 +1,15 @@
+id: sight-na-cape-cross-seal-reserve
+name: "Cape Cross Seal Reserve"
+location:
+  country_code: NA
+  latitude: -21.7639
+  longitude: 13.9623
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 8.8
+  experience: 8.7
+  depth: 7.9
+  categories:
+    wildlife: 9.3
+    nature: 9.0

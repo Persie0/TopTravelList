@@ -1,0 +1,15 @@
+id: sight-ug-lake-mburo-national-park
+name: "Lake Mburo National Park"
+location:
+  country_code: UG
+  latitude: -0.613493
+  longitude: 30.941737
+scores:
+  impact: 8.6
+  uniqueness: 8.6
+  significance: 8.6
+  experience: 8.8
+  depth: 8.5
+  categories:
+    nature: 8.9
+    wildlife: 9.0

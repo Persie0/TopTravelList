@@ -1,0 +1,15 @@
+id: sight-sb-east-rennell
+name: "East Rennell"
+location:
+  country_code: SB
+  latitude: -11.68333
+  longitude: 160.33333
+scores:
+  impact: 8.5
+  uniqueness: 9.0
+  significance: 9.1
+  experience: 8.2
+  depth: 8.4
+  categories:
+    nature: 9.1
+    wildlife: 8.8

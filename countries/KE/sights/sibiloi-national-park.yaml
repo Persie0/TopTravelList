@@ -1,0 +1,15 @@
+id: sight-ke-sibiloi-national-park
+name: "Sibiloi National Park"
+location:
+  country_code: KE
+  latitude: 4
+  longitude: 36.333333
+scores:
+  impact: 8.8
+  uniqueness: 9.2
+  significance: 9.5
+  experience: 8.5
+  depth: 8.7
+  categories:
+    nature: 9.3
+    history: 9.5
