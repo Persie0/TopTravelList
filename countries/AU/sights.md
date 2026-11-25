@@ -2,7 +2,7 @@
 
 # Australia (AU) — Sights & attractions ranking
 
-**34 ranked** · **3 unassessed** · **37 total** · Worldwide scoring **v2**
+**36 ranked** · **3 unassessed** · **39 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (34)
+## Complete ranked list (36)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- | --- |
@@ -44,10 +44,12 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 28 | [Budj Bim Cultural Landscape](sights/budj-bim-cultural-landscape.yaml) | Coast | **85.25** | **Culture 9.3**, **History 9.3** | 8.0 / 9.0 / 9.3 / 8.1 / 8.0 | [-38.1, 141.9](https://www.google.com/maps/search/?api=1&query=-38.1,141.9) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Budj%20Bim%20Cultural%20Landscape%2C%20Australia) |
 | 29 | [Twelve Apostles](sights/twelve-apostles.yaml) | Attraction | **85.05** | **Photography 9.2**, **Nature 9.0** | 9.1 / 8.6 / 7.8 / 8.7 / 7.6 | [-38.665, 143.105](https://www.google.com/maps/search/?api=1&query=-38.665,143.105) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Twelve%20Apostles%2C%20Australia) |
 | 30 | [Royal Exhibition Building and Carlton Gardens](sights/royal-exhibition-building-carlton-gardens.yaml) | Garden | **84.40** | **Architecture 8.9**, **History 8.9**, **Photography 8.5** | 8.4 / 8.6 / 8.8 / 8.2 / 7.8 | [-37.8047, 144.9717](https://www.google.com/maps/search/?api=1&query=-37.8047,144.9717) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Royal%20Exhibition%20Building%20and%20Carlton%20Gardens%2C%20Australia) |
-| 31 | [Australian Cornish Mining Sites: Burra and Moonta](sights/cornish-mining-sites.yaml) | Attraction | **83.75** | — | 7.8 / 8.6 / 8.8 / 8.5 / 8.5 | [-33.675278, 138.93](https://www.google.com/maps/search/?api=1&query=-33.675278,138.93) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Australian%20Cornish%20Mining%20Sites%3A%20Burra%20and%20Moonta%2C%20Australia) |
-| 32 | [Workers’ Assembly Halls (Australia)](sights/workers-assembly-halls.yaml) | Attraction | **83.55** | — | 7.9 / 8.7 / 9.0 / 8.2 / 7.8 | [-37.806, 144.965](https://www.google.com/maps/search/?api=1&query=-37.806,144.965) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Workers%E2%80%99%20Assembly%20Halls%20%28Australia%29%2C%20Australia) |
-| 33 | [Bondi Beach](sights/bondi-beach.yaml) | Beach / bay | **81.95** | **Beaches 9.0**, **Photography 8.7**, **Relaxation 8.7** | 8.5 / 8.0 / 7.6 / 8.9 / 7.9 | [-33.8915, 151.2767](https://www.google.com/maps/search/?api=1&query=-33.8915,151.2767) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bondi%20Beach%2C%20Australia) |
-| 34 | [Parramatta Female Factory and Institutions Precinct](sights/parramatta-female-factory.yaml) | Attraction | **80.50** | — | 7.5 / 8.5 / 8.9 / 7.7 / 7.4 | [-33.802814, 150.999944](https://www.google.com/maps/search/?api=1&query=-33.802814,150.999944) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Parramatta%20Female%20Factory%20and%20Institutions%20Precinct%2C%20Australia) |
+| 31 | [Bunya Mountains National Park](sights/bunya-mountains-national-park.yaml) | Park / reserve | **84.10** | **Nature 8.8**, **Adventure 8.1**, **Wildlife 7.9** | 8.2 / 8.6 / 8.5 / 8.4 / 8.4 | [-26.8734, 151.6094](https://www.google.com/maps/search/?api=1&query=-26.8734,151.6094) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bunya%20Mountains%20National%20Park%2C%20Australia) |
+| 32 | [Split Rock Gallery (Quinkan rock art)](sights/split-rock-gallery.yaml) | Attraction | **83.95** | **Culture 9.0**, **History 9.0** | 8.2 / 8.8 / 8.9 / 8.1 / 7.4 | [-15.64509, 144.50722](https://www.google.com/maps/search/?api=1&query=-15.64509,144.50722) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Split%20Rock%20Gallery%20%28Quinkan%20rock%20art%29%2C%20Australia) |
+| 33 | [Australian Cornish Mining Sites: Burra and Moonta](sights/cornish-mining-sites.yaml) | Attraction | **83.75** | — | 7.8 / 8.6 / 8.8 / 8.5 / 8.5 | [-33.675278, 138.93](https://www.google.com/maps/search/?api=1&query=-33.675278,138.93) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Australian%20Cornish%20Mining%20Sites%3A%20Burra%20and%20Moonta%2C%20Australia) |
+| 34 | [Workers’ Assembly Halls (Australia)](sights/workers-assembly-halls.yaml) | Attraction | **83.55** | — | 7.9 / 8.7 / 9.0 / 8.2 / 7.8 | [-37.806, 144.965](https://www.google.com/maps/search/?api=1&query=-37.806,144.965) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Workers%E2%80%99%20Assembly%20Halls%20%28Australia%29%2C%20Australia) |
+| 35 | [Bondi Beach](sights/bondi-beach.yaml) | Beach / bay | **81.95** | **Beaches 9.0**, **Photography 8.7**, **Relaxation 8.7** | 8.5 / 8.0 / 7.6 / 8.9 / 7.9 | [-33.8915, 151.2767](https://www.google.com/maps/search/?api=1&query=-33.8915,151.2767) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bondi%20Beach%2C%20Australia) |
+| 36 | [Parramatta Female Factory and Institutions Precinct](sights/parramatta-female-factory.yaml) | Attraction | **80.50** | — | 7.5 / 8.5 / 8.9 / 7.7 / 7.4 | [-33.802814, 150.999944](https://www.google.com/maps/search/?api=1&query=-33.802814,150.999944) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Parramatta%20Female%20Factory%20and%20Institutions%20Precinct%2C%20Australia) |
 
 ## Not yet fully assessed (3)
 

@@ -1836,3 +1836,81 @@ This supplement preserves the prior individual decisions; no YAML ratings change
 - **sight-au-heard-mcdonald-islands:** Australian Antarctic Division states the 2014–2024 plan expired and has no legal effect (https://www.antarctica.gov.au/antarctic-operations/stations-and-field-locations/heard-island/protection-and-management/management-plan/). Transitional arrangements require assessment and authorisation of almost all activities (https://www.antarctica.gov.au/antarctic-operations/stations-and-field-locations/heard-island/protection-and-management/management-plan/transitional-management-arrangements/). A replacement draft was announced on 28 September 2026 (https://www.antarctica.gov.au/news/2026/public-consultation-opens-on-draft-marine-reserve-management-plan-for-heard-island-and-mcdonald-islands/); current tourism FAQ and historical permit do not establish a current ordinary visitor offer. Retain null experience/depth and do not use expired visitor-zone rules as current authority. Remoteness alone is not a score deduction.
 - **sight-au-great-sandy-world-heritage-area:** independently corroborated tentative extension scope and distinction from K’gari via UNESCO and Queensland government (https://whc.unesco.org/en/tentativelists/5480/; https://environment.qld.gov.au/management/world-heritage-areas/potential/faq). Keep 88.25 provisional and exclude inscribed K’gari and restricted military land from credited visitor experience; check actual route/zoning overlap before full fact-checked status.
 - **sight-au-workers-assembly-halls:** UNESCO's tentative listing and Heritage Victoria's 2026 nomination notice confirm the two Australian halls and transnational scope (https://whc.unesco.org/en/tentativelists/6698/; https://www.heritage.vic.gov.au/about-us/news/news-stories/melbournes-victorian-trades-hall-nominated-for-world-heritage-list). Keep 83.55 provisional; current interior access and representative GPS still need checks.
+
+
+### sight-au-bunya-mountains-national-park — Bunya Mountains National Park — 2026-11-25
+
+- YAML: [source](../../../countries/AU/sights/bunya-mountains-national-park.yaml)
+- Action: new
+- Precise subject: National park's established public forest trails, waterfalls, grasslands and lookouts; not the aggregate proposed Gondwana extension or unrestricted cultural landscapes.
+- Location check: Rounded representative public trail-area point (-26.8734, 151.6094), based on Australasian Virtual Herbarium's locality near Tim Shea Falls track and Dandabah entrance (https://avh.ala.org.au/occurrences/c850e638-fbd9-4fa2-920a-feec240c7536); not an entrance coordinate.
+- Evidence status: source-linked-unverified
+- Independently checked factual claims (2026-11-25; retrieved source excerpts):
+  - Queensland Parks describes the largest stand of bunya pines, rainforest peaks and longstanding gatherings — https://parks.qld.gov.au/parks/bunya-mountains
+  - Queensland Parks lists walks through bunya forest, waterfalls, pools and scenic viewpoints — https://parks.qld.gov.au/parks/bunya-mountains/journeys
+  - Tourism and Events Queensland describes the rainforest-clad range and giant pines — https://www.queensland.com/us/en/things-to-do/attractions/p-56b25e6b7b935fbe730dd5b3-bunya-mountains-national-park
+  - Queensland Parks confirms the public Dandabah circuit and a variety of routes — https://parks.qld.gov.au/parks/bunya-mountains/journeys/scenic-circuit
+- Missing or uncertain facts: Exact representative point not independently field verified; restricted areas excluded; wildlife score does not imply guaranteed encounters.
+
+#### Worldwide peer comparisons
+| Peer destination (country) | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| Kinabalu Park (Malaysia) | Montane forest, rare plants | Current branch profile 9.4/9.5/9.5/9.2/9.3; much greater altitudinal and endemic diversity |
+| Khao Yai National Park (Thailand) | Forest, waterfalls, walking and wildlife | 9.0/9.1/9.0/9.0/9.2; larger tropical ecosystem and richer wildlife experience |
+| Kalkalpen National Park (Austria) | Forest wilderness and hiking | 8.7/9.0/9.1/8.6/9.0; more extensive wild mountain terrain |
+| Vienna Woods Biosphere Reserve (Austria) | Accessible regional woodland recreation | 7.5/7.4/8.2/8.2/8.8; broader network but less distinctive flagship tree stands |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | — | 8.2 | Towering bunya pines, cascades and mountain vistas are memorable; less dramatic than Kinabalu or Kalkalpen. |
+| Uniqueness | — | 8.6 | Unusually concentrated bunya forest distinguishes the park from ordinary woodland without equating it to the entire Gondwana region. |
+| Significance | — | 8.5 | Distinct botanical conservation and long cultural gathering history; lower than the broader inscribed rainforest system. |
+| Experience | — | 8.4 | Multiple graded public trails, picnic sites and varied forest views support rewarding independent exploration. |
+| Depth | — | 8.4 | Several circuits and ecological settings; more limited than Khao Yai or larger wilderness systems. |
+
+- Applicable category scores: nature 8.8 (distinctive forest); wildlife 7.9 (forest fauna, no guaranteed sightings); adventure 8.1 (graded hikes).
+- Computed worldwide overall: 84.10/100
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Provisional globally strong forest park rating, below the leading international montane forests.
+- Earlier decision: none.
+- Verification still needed: corroborate representative location and detailed ecological/wildlife claims; canonical worldwide diagnostics.
+
+### sight-au-split-rock-gallery — Split Rock Gallery (Quinkan rock art) — 2026-11-25
+
+- YAML: [source](../../../countries/AU/sights/split-rock-gallery.yaml)
+- Action: new
+- Precise subject: Public Split Rock Gallery walk near Laura only; excludes guided-only galleries, sacred sites without visitor consent, the cultural centre and the broader Cape York proposal.
+- Location check: Published OpenStreetMap-derived public parking point (-15.64509, 144.50722) — https://mapcarta.com/N2029113669 ; no restricted gallery coordinates published. Traditional Owner operator confirms public gallery turn-off south of Laura.
+- Evidence status: source-linked-unverified
+- Independently checked factual claims (2026-11-25; retrieved excerpts):
+  - Ang Gnarra Aboriginal Corporation identifies Split Rock as the gallery visitable without a guide and describes the hillside path and painted sandstone — https://www.anggnarra.org.au/copy-of-rock-art-tours-tickets
+  - Queensland Government distinguishes the Split Rock self-guided walk from guided visits to other galleries — https://www.qld.gov.au/environment/plants-animals/conservation/community/land-sea-rangers/first-nations-tourism-experiences
+  - Queensland Museum describes the national heritage listing of Quinkan Country in 2018 — https://blog.qm.qld.gov.au/2026/09/16/the-stories-written-in-stone-discovering-laura-rock-art/ ; this is context only, not an individual UNESCO inscription or proof of an exact age for every painting.
+- Missing or uncertain facts: Precise parking point independently corroborated only by open mapping, not field surveyed; current access conditions and cultural protocols must be checked before travel. No age or unrestricted photography claim made.
+
+#### Worldwide peer comparisons
+| Peer destination (country) | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| Rock Art of Alta (Norway) | Interpreted rock-art heritage | Current branch 8.5/9.1/9.3/8.6/8.5; more extensive public heritage ensemble |
+| Pha Taem National Park (Thailand) | Cliff paintings and natural scenery | 8.7/9.0/9.1/8.8/9.0; broader park and exploration opportunities |
+| Budj Bim Cultural Landscape (Australia) | Living Indigenous heritage | 8.0/9.0/9.3/8.1/8.0; broader cultural landscape and different archaeological significance |
+| Rock Art of the Mediterranean Basin (Spain) | Large serial rock-art property | Unranked; uniqueness 9.3, significance 9.5; substantially wider scope, not an equivalent single gallery |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | — | 8.2 | Painted sandstone galleries in a striking escarpment setting; more concentrated than Pha Taem. |
+| Uniqueness | — | 8.8 | Distinctive Quinkan rock-art tradition in its original setting, without inheriting every regional gallery. |
+| Significance | — | 8.9 | Important living cultural and archaeological context; below the extensive Alta and Budj Bim ensembles. |
+| Experience | — | 8.1 | Documented public hillside walk to the galleries; no credit for restricted or separately guided sites. |
+| Depth | — | 7.4 | Focused gallery walk rather than a whole cultural landscape or multi-day park. |
+
+- Applicable category scores: history 9.0; culture 9.0 (documented Indigenous art and interpretation, limited to public scope).
+- Computed worldwide overall: 83.95/100
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Provisional independent attraction rating; the aggregate Cape York proposal remains unranked.
+- Earlier decision: none.
+- Verification still needed: confirm public parking coordinate and current visitor protocols; canonical worldwide diagnostics.
