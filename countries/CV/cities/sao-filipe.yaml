@@ -1,0 +1,17 @@
+id: city-cv-sao-filipe
+name: "Sao Filipe"
+location:
+  country_code: CV
+  latitude: 14.8950
+  longitude: -24.4960
+scores:
+  impact: 8.0
+  uniqueness: 8.2
+  significance: 7.9
+  experience: 8.2
+  depth: 7.4
+  categories:
+    architecture: 8.6
+    culture: 8.5
+    history: 8.3
+    photography: 8.6

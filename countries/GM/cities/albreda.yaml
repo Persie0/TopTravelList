@@ -1,0 +1,15 @@
+id: city-gm-albreda
+name: "Albreda"
+location:
+  country_code: GM
+  latitude: 13.3330
+  longitude: -16.3900
+scores:
+  impact: 6.8
+  uniqueness: 7.9
+  significance: 8.5
+  experience: 7.5
+  depth: 6.2
+  categories:
+    history: 8.9
+    culture: 8.6

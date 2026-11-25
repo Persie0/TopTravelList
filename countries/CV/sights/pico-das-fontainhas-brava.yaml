@@ -1,0 +1,16 @@
+id: sight-cv-pico-das-fontainhas-brava
+name: "Pico das Fontainhas (Brava)"
+location:
+  country_code: CV
+  latitude: 14.8560
+  longitude: -24.7080
+scores:
+  impact: 8.6
+  uniqueness: 8.3
+  significance: 7.0
+  experience: 8.4
+  depth: 7.3
+  categories:
+    adventure: 8.8
+    nature: 8.8
+    photography: 9.0

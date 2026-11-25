@@ -1,0 +1,15 @@
+id: city-uz-karshi
+name: "Karshi"
+location:
+  country_code: UZ
+  latitude: 38.861
+  longitude: 65.798
+scores:
+  impact: 7.1
+  uniqueness: 7.5
+  significance: 7.9
+  experience: 7.5
+  depth: 7.1
+  categories:
+    history: 8.3
+    culture: 7.9

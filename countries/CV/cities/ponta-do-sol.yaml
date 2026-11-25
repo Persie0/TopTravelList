@@ -1,0 +1,16 @@
+id: city-cv-ponta-do-sol
+name: "Ponta do Sol"
+location:
+  country_code: CV
+  latitude: 17.2010
+  longitude: -25.0920
+scores:
+  impact: 7.9
+  uniqueness: 8.0
+  significance: 7.2
+  experience: 8.2
+  depth: 7.0
+  categories:
+    photography: 8.7
+    culture: 8.1
+    relaxation: 8.0

@@ -1,0 +1,14 @@
+id: city-kg-kochkor
+name: "Kochkor"
+location:
+  country_code: KG
+  latitude: 42.215
+  longitude: 75.757
+scores:
+  impact: 6.7
+  uniqueness: 7.5
+  significance: 6.8
+  experience: 7.5
+  depth: 6.4
+  categories:
+    culture: 8.5
