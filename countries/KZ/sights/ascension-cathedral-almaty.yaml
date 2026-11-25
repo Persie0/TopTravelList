@@ -1,0 +1,15 @@
+id: sight-kz-ascension-cathedral-almaty
+name: "Ascension Cathedral (Almaty)"
+location:
+  country_code: KZ
+  latitude: 43.259
+  longitude: 76.953
+scores:
+  impact: 8.2
+  uniqueness: 8.6
+  significance: 8.3
+  experience: 8.2
+  depth: 6.5
+  categories:
+    architecture: 9.1
+    history: 8.6

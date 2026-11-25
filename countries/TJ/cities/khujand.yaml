@@ -1,0 +1,16 @@
+id: city-tj-khujand
+name: "Khujand"
+location:
+  country_code: TJ
+  latitude: 40.283
+  longitude: 69.622
+scores:
+  impact: 7.6
+  uniqueness: 8.0
+  significance: 8.5
+  experience: 8.1
+  depth: 7.7
+  categories:
+    history: 8.8
+    culture: 8.6
+    food: 8.4

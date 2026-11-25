@@ -1,0 +1,15 @@
+id: sight-az-ordubad-historical-and-architectural-reserve
+name: "Ordubad Historical and Architectural Reserve"
+location:
+  country_code: AZ
+  latitude: 38.909
+  longitude: 46.028
+scores:
+  impact: 7.8
+  uniqueness: 8.5
+  significance: 8.5
+  experience: 7.8
+  depth: 7.5
+  categories:
+    architecture: 8.8
+    history: 8.9

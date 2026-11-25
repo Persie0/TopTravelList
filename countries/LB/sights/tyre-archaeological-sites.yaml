@@ -1,0 +1,16 @@
+id: sight-lb-tyre-archaeological-sites
+name: "Tyre Archaeological Sites"
+location:
+  country_code: LB
+  latitude: 33.269167
+  longitude: 35.195833
+scores:
+  impact: 8.9
+  uniqueness: 9.2
+  significance: 9.5
+  experience: null
+  depth: 9.1
+  categories:
+    history: 9.6
+    architecture: 9.2
+    photography: 9.1

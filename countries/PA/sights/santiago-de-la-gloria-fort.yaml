@@ -1,0 +1,15 @@
+id: sight-pa-santiago-de-la-gloria-fort
+name: "Santiago de la Gloria Fort"
+location:
+  country_code: PA
+  latitude: 9.555
+  longitude: -79.663
+scores:
+  impact: 7.7
+  uniqueness: 8.2
+  significance: 8.8
+  experience: 7.5
+  depth: 6.9
+  categories:
+    history: 9.0
+    architecture: 8.5

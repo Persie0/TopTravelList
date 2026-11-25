@@ -1,0 +1,15 @@
+id: city-tm-turkmenbashi
+name: "Turkmenbashi"
+location:
+  country_code: TM
+  latitude: 40.02
+  longitude: 52.97
+scores:
+  impact: 7.0
+  uniqueness: 7.5
+  significance: 6.9
+  experience: 7.3
+  depth: 6.8
+  categories:
+    photography: 7.9
+    relaxation: 7.7

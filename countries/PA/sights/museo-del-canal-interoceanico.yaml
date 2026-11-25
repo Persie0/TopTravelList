@@ -1,0 +1,15 @@
+id: sight-pa-museo-del-canal-interoceanico
+name: "Museo del Canal Interoceánico"
+location:
+  country_code: PA
+  latitude: 8.952
+  longitude: -79.535
+scores:
+  impact: 8.0
+  uniqueness: 8.6
+  significance: 9.1
+  experience: 8.4
+  depth: 8.2
+  categories:
+    history: 9.3
+    culture: 8.8

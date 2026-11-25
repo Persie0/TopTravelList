@@ -1,0 +1,16 @@
+id: sight-km-lake-dzialandze
+name: "Lake Dzialandzé"
+location:
+  country_code: KM
+  latitude: -12.2190
+  longitude: 44.4180
+scores:
+  impact: 8.4
+  uniqueness: 8.5
+  significance: 7.8
+  experience: 8.2
+  depth: 6.8
+  categories:
+    nature: 8.9
+    photography: 8.8
+    adventure: 8.3

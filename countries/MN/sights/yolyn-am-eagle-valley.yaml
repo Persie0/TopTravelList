@@ -1,0 +1,16 @@
+id: sight-mn-yolyn-am-eagle-valley
+name: "Yolyn Am (Eagle Valley)"
+location:
+  country_code: MN
+  latitude: 43.49
+  longitude: 104.08
+scores:
+  impact: 8.6
+  uniqueness: 8.4
+  significance: 7.8
+  experience: 8.7
+  depth: 7.6
+  categories:
+    nature: 8.8
+    adventure: 8.5
+    photography: 8.9

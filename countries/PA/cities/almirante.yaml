@@ -1,0 +1,14 @@
+id: city-pa-almirante
+name: "Almirante"
+location:
+  country_code: PA
+  latitude: 9.300
+  longitude: -82.401
+scores:
+  impact: 5.9
+  uniqueness: 6.6
+  significance: 6.8
+  experience: 6.6
+  depth: 6.0
+  categories:
+    culture: 7.2

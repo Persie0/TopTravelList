@@ -1,0 +1,15 @@
+id: sight-rw-huye-mountain-coffee
+name: "Huye Mountain Coffee"
+location:
+  country_code: RW
+  latitude: -2.6120
+  longitude: 29.7400
+scores:
+  impact: 7.0
+  uniqueness: 7.7
+  significance: 6.9
+  experience: 8.2
+  depth: 6.8
+  categories:
+    food: 8.5
+    culture: 8.0

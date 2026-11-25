@@ -1,0 +1,15 @@
+id: city-ee-narva-joesuu
+name: "Narva-Jõesuu"
+location:
+  country_code: EE
+  latitude: 59.46
+  longitude: 28.04
+scores:
+  impact: 7.4
+  uniqueness: 7.3
+  significance: 7.0
+  experience: 8.0
+  depth: 7.0
+  categories:
+    beaches: 8.5
+    relaxation: 8.4

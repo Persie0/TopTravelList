@@ -1,0 +1,15 @@
+id: sight-tm-sultan-sanjar-mausoleum
+name: "Sultan Sanjar Mausoleum"
+location:
+  country_code: TM
+  latitude: 37.662
+  longitude: 62.165
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 9.3
+  experience: 8.5
+  depth: 7.2
+  categories:
+    architecture: 9.3
+    history: 9.4

@@ -1,0 +1,15 @@
+id: city-ee-valga
+name: "Valga"
+location:
+  country_code: EE
+  latitude: 57.776
+  longitude: 26.031
+scores:
+  impact: 6.9
+  uniqueness: 7.8
+  significance: 7.5
+  experience: 7.4
+  depth: 7.1
+  categories:
+    history: 7.8
+    culture: 7.5

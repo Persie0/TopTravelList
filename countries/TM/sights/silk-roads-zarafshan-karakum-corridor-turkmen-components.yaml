@@ -1,0 +1,15 @@
+id: sight-tm-silk-roads-zarafshan-karakum-corridor-turkmen-components
+name: "Silk Roads Zarafshan-Karakum Corridor (Turkmen Components)"
+location:
+  country_code: TM
+  latitude: 39.018583
+  longitude: 63.591211
+scores:
+  impact: null
+  uniqueness: 9.2
+  significance: 9.4
+  experience: null
+  depth: null
+  categories:
+    history: 9.4
+    culture: 9.2
