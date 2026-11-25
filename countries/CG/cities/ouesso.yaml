@@ -2,8 +2,8 @@ id: city-cg-ouesso
 name: "Ouesso"
 location:
   country_code: CG
-  latitude: 1.614
-  longitude: 16.051
+  latitude: 1.613611
+  longitude: 16.051667
 scores:
   impact: 6.5
   uniqueness: 7.4
