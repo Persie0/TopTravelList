@@ -1,0 +1,15 @@
+id: sight-bb-industrial-heritage-of-barbados-sugar-and-rum
+name: "Industrial Heritage of Barbados (Sugar and Rum)"
+location:
+  country_code: BB
+  latitude: 13.266667
+  longitude: -59.583333
+scores:
+  impact: null
+  uniqueness: null
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    history: 9.4
+    culture: 9.2

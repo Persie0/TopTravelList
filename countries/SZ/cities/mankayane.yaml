@@ -1,0 +1,15 @@
+id: city-sz-mankayane
+name: "Mankayane"
+location:
+  country_code: SZ
+  latitude: -26.6833
+  longitude: 31.0833
+scores:
+  impact: 6.2
+  uniqueness: 6.6
+  significance: 6.3
+  experience: 6.8
+  depth: 5.9
+  categories:
+    culture: 7.0
+    photography: 7.0

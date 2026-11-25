@@ -1,0 +1,16 @@
+id: city-no-henningsvaer
+name: "Henningsvær"
+location:
+  country_code: "NO"
+  latitude: 68.154
+  longitude: 14.203
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 8.0
+  experience: 8.7
+  depth: 7.6
+  categories:
+    photography: 9.2
+    culture: 8.7
+    architecture: 8.6

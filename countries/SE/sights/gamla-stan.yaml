@@ -1,0 +1,16 @@
+id: sight-se-gamla-stan
+name: "Gamla Stan (Stockholm Old Town)"
+location:
+  country_code: SE
+  latitude: 59.325
+  longitude: 18.071
+scores:
+  impact: 9.1
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 9.1
+  depth: 8.8
+  categories:
+    architecture: 9.3
+    history: 9.2
+    photography: 9.2

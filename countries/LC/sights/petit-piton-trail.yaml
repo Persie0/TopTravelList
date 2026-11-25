@@ -1,0 +1,16 @@
+id: sight-lc-petit-piton-trail
+name: "Petit Piton Trail"
+location:
+  country_code: LC
+  latitude: 13.832
+  longitude: -61.064
+scores:
+  impact: 9.2
+  uniqueness: 9.0
+  significance: 8.0
+  experience: 8.0
+  depth: 7.0
+  categories:
+    adventure: 9.4
+    nature: 9.1
+    photography: 9.4

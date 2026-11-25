@@ -1,0 +1,16 @@
+id: city-se-falun
+name: "Falun"
+location:
+  country_code: SE
+  latitude: 60.607
+  longitude: 15.63
+scores:
+  impact: 7.9
+  uniqueness: 8.4
+  significance: 8.5
+  experience: 8.2
+  depth: 7.9
+  categories:
+    history: 8.8
+    culture: 8.6
+    architecture: 8.5

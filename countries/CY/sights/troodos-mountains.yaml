@@ -1,0 +1,16 @@
+id: sight-cy-troodos-mountains
+name: "Troodos Mountains"
+location:
+  country_code: CY
+  latitude: 34.94
+  longitude: 32.88
+scores:
+  impact: 8.3
+  uniqueness: 8.2
+  significance: 8.3
+  experience: 8.5
+  depth: 8.7
+  categories:
+    nature: 8.7
+    adventure: 8.5
+    photography: 8.6

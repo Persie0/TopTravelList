@@ -1,0 +1,16 @@
+id: sight-mn-bogd-khan-palace-museum
+name: "Bogd Khan Palace Museum"
+location:
+  country_code: MN
+  latitude: 47.896
+  longitude: 106.909
+scores:
+  impact: 8.1
+  uniqueness: 8.4
+  significance: 8.6
+  experience: 8.3
+  depth: 7.9
+  categories:
+    architecture: 8.7
+    history: 8.9
+    culture: 8.7

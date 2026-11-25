@@ -1,0 +1,15 @@
+id: sight-kg-karakol-dungan-mosque
+name: "Karakol Dungan Mosque"
+location:
+  country_code: KG
+  latitude: 42.496
+  longitude: 78.391
+scores:
+  impact: 8.0
+  uniqueness: 8.7
+  significance: 8.3
+  experience: 8.0
+  depth: 6.4
+  categories:
+    architecture: 9.1
+    culture: 8.7

@@ -1,0 +1,16 @@
+id: sight-fi-linnansaari-national-park
+name: "Linnansaari National Park"
+location:
+  country_code: FI
+  latitude: 62.12
+  longitude: 28.5
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 8.8
+  experience: 8.6
+  depth: 8.7
+  categories:
+    nature: 9
+    wildlife: 9.2
+    adventure: 8.7

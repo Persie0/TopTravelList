@@ -1,0 +1,15 @@
+id: sight-ie-cliffs-of-moher
+name: "Cliffs of Moher"
+location:
+  country_code: IE
+  latitude: 52.971
+  longitude: -9.43
+scores:
+  impact: 9.5
+  uniqueness: 9.1
+  significance: 8.7
+  experience: 9.0
+  depth: 8.2
+  categories:
+    nature: 9.4
+    photography: 9.5

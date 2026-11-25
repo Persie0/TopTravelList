@@ -1,0 +1,16 @@
+id: sight-ag-princess-diana-beach
+name: "Princess Diana Beach"
+location:
+  country_code: AG
+  latitude: 17.559
+  longitude: -61.774
+scores:
+  impact: 9.1
+  uniqueness: 8.3
+  significance: 6.0
+  experience: 8.5
+  depth: 7.5
+  categories:
+    beaches: 9.4
+    photography: 9.2
+    relaxation: 9.0

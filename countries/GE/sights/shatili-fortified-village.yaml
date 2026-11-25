@@ -1,0 +1,16 @@
+id: sight-ge-shatili-fortified-village
+name: "Shatili Fortified Village"
+location:
+  country_code: GE
+  latitude: 42.658
+  longitude: 45.161
+scores:
+  impact: 8.7
+  uniqueness: 9.0
+  significance: 8.4
+  experience: 8.0
+  depth: 7.5
+  categories:
+    architecture: 9.0
+    history: 8.6
+    photography: 9.0

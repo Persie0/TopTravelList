@@ -1,0 +1,16 @@
+id: sight-ph-apo-reef
+name: "Apo Reef Natural Park"
+location:
+  country_code: PH
+  latitude: 12.65
+  longitude: 120.42
+scores:
+  impact: 9.0
+  uniqueness: 8.8
+  significance: 8.9
+  experience: 8.8
+  depth: 8.5
+  categories:
+    nature: 9.2
+    wildlife: 9.2
+    adventure: 9.0

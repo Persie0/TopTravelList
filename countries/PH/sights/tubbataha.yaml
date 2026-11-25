@@ -1,0 +1,16 @@
+id: sight-ph-tubbataha
+name: "Tubbataha Reefs Natural Park"
+location:
+  country_code: PH
+  latitude: 8.95
+  longitude: 119.85
+scores:
+  impact: 9.3
+  uniqueness: 9.2
+  significance: 9.3
+  experience: 9.1
+  depth: 9.0
+  categories:
+    nature: 9.4
+    wildlife: 9.4
+    adventure: 9.3

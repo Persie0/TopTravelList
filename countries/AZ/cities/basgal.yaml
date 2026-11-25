@@ -1,0 +1,15 @@
+id: city-az-basgal
+name: "Basgal"
+location:
+  country_code: AZ
+  latitude: 40.756
+  longitude: 48.396
+scores:
+  impact: 7.6
+  uniqueness: 8.4
+  significance: 7.9
+  experience: 8.0
+  depth: 6.8
+  categories:
+    culture: 8.9
+    architecture: 8.5

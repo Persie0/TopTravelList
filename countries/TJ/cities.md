@@ -2,7 +2,7 @@
 
 # Tajikistan (TJ) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**14 ranked** · **0 unassessed** · **14 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,24 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (14)
 
-No cities, towns & villages have been assessed for **Tajikistan** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Khujand](cities/khujand.yaml) | City / town | **79.65** | **History 8.8**, **Culture 8.6**, **Food 8.4** | 7.6 / 8.0 / 8.5 / 8.1 / 7.7 | [40.283, 69.622](https://www.google.com/maps/search/?api=1&query=40.283,69.622) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Khujand%2C%20Tajikistan) |
+| 2 | [Dushanbe](cities/dushanbe.yaml) | City / town | **78.90** | **Culture 8.3**, **Food 8.3**, **Architecture 8.2** | 7.7 / 7.7 / 7.9 / 8.3 / 8.3 | [38.5598, 68.787](https://www.google.com/maps/search/?api=1&query=38.5598,68.787) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Dushanbe%2C%20Tajikistan) |
+| 2 | [Istaravshan](cities/istaravshan.yaml) | City / town | **78.90** | **History 8.7**, **Architecture 8.6**, **Culture 8.5** | 7.6 / 8.1 / 8.3 / 7.9 / 7.4 | [39.91, 69.006](https://www.google.com/maps/search/?api=1&query=39.91,69.006) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Istaravshan%2C%20Tajikistan) |
+| 4 | [Khorog](cities/khorog.yaml) | City / town | **78.05** | **Culture 8.5**, **Photography 8.3** | 7.8 / 8.3 / 7.3 / 8.0 / 7.3 | [37.49, 71.55](https://www.google.com/maps/search/?api=1&query=37.49,71.55) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Khorog%2C%20Tajikistan) |
+| 5 | [Langar](cities/langar.yaml) | City / town | **77.30** | **Photography 8.7**, **Culture 8.6** | 7.7 / 8.4 / 7.4 / 8.0 / 6.4 | [37.05, 72.66](https://www.google.com/maps/search/?api=1&query=37.05,72.66) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Langar%2C%20Tajikistan) |
+| 6 | [Panjakent](cities/panjakent.yaml) | City / town | **74.50** | **History 8.4**, **Culture 8.2** | 7.1 / 7.6 / 7.9 / 7.6 / 7.0 | [39.495, 67.61](https://www.google.com/maps/search/?api=1&query=39.495,67.61) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Panjakent%2C%20Tajikistan) |
+| 7 | [Kulob](cities/kulob.yaml) | City / town | **72.95** | **History 8.4**, **Culture 8.1** | 6.9 / 7.3 / 7.9 / 7.4 / 7.1 | [37.91, 69.78](https://www.google.com/maps/search/?api=1&query=37.91,69.78) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kulob%2C%20Tajikistan) |
+| 8 | [Ishkoshim](cities/ishkoshim.yaml) | City / town | **72.80** | **Culture 8.1**, **Photography 8.1** | 7.2 / 7.8 / 7.0 / 7.6 / 6.3 | [36.72, 71.61](https://www.google.com/maps/search/?api=1&query=36.72,71.61) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ishkoshim%2C%20Tajikistan) |
+| 9 | [Hisor](cities/hisor.yaml) | City / town | **72.30** | **History 8.1**, **Culture 7.9** | 7.0 / 7.3 / 7.6 / 7.5 / 6.6 | [38.53, 68.55](https://www.google.com/maps/search/?api=1&query=38.53,68.55) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hisor%2C%20Tajikistan) |
+| 10 | [Murghab](cities/murghab.yaml) | City / town | **72.15** | **Culture 8.2**, **Photography 8.2** | 7.0 / 8.2 / 6.7 / 7.3 / 6.3 | [38.17, 73.96](https://www.google.com/maps/search/?api=1&query=38.17,73.96) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Murghab%2C%20Tajikistan) |
+| 11 | [Rushan](cities/rushan.yaml) | City / town | **71.70** | **Culture 8.2**, **Photography 8.0** | 7.0 / 7.8 / 6.8 / 7.6 / 6.2 | [37.94, 71.56](https://www.google.com/maps/search/?api=1&query=37.94,71.56) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Rushan%2C%20Tajikistan) |
+| 12 | [Vanj](cities/vanj.yaml) | City / town | **69.45** | **Culture 7.6** | 6.9 / 7.5 / 6.5 / 7.2 / 6.2 | [38.37, 71.45](https://www.google.com/maps/search/?api=1&query=38.37,71.45) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Vanj%2C%20Tajikistan) |
+| 13 | [Norak](cities/norak.yaml) | City / town | **69.40** | **Photography 7.8**, **Culture 7.5** | 6.8 / 7.2 / 6.7 / 7.4 / 6.5 | [38.39, 69.32](https://www.google.com/maps/search/?api=1&query=38.39,69.32) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Norak%2C%20Tajikistan) |
+| 14 | [Bokhtar](cities/bokhtar.yaml) | City / town | **66.55** | **Food 7.5**, **Culture 7.3** | 6.3 / 6.5 / 6.9 / 7.2 / 6.8 | [37.84, 68.78](https://www.google.com/maps/search/?api=1&query=37.84,68.78) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bokhtar%2C%20Tajikistan) |
 
 ---
 

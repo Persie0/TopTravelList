@@ -1,0 +1,16 @@
+id: sight-ae-museum-of-the-future
+name: "Museum of the Future"
+location:
+  country_code: AE
+  latitude: 25.219
+  longitude: 55.282
+scores:
+  impact: 8.9
+  uniqueness: 9.3
+  significance: 7.2
+  experience: 8.6
+  depth: 7.6
+  categories:
+    architecture: 9.5
+    photography: 9.2
+    family: 8.4

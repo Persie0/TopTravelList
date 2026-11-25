@@ -1,0 +1,15 @@
+id: sight-kp-pohyon-temple
+name: "Pohyon Temple"
+location:
+  country_code: KP
+  latitude: 40.015
+  longitude: 126.264
+scores:
+  impact: 8.1
+  uniqueness: 8.4
+  significance: 8.6
+  experience: null
+  depth: null
+  categories:
+    architecture: 8.8
+    history: 8.8

@@ -1,0 +1,16 @@
+id: city-km-domoni
+name: "Domoni"
+location:
+  country_code: KM
+  latitude: -12.2610
+  longitude: 44.5310
+scores:
+  impact: 7.4
+  uniqueness: 8.2
+  significance: 8.3
+  experience: 7.6
+  depth: 6.8
+  categories:
+    history: 8.9
+    culture: 8.7
+    architecture: 8.2

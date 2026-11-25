@@ -1,0 +1,16 @@
+id: sight-gm-abuko-nature-reserve
+name: "Abuko Nature Reserve"
+location:
+  country_code: GM
+  latitude: 13.3910
+  longitude: -16.6480
+scores:
+  impact: 7.8
+  uniqueness: 8.0
+  significance: 8.2
+  experience: 8.4
+  depth: 7.8
+  categories:
+    wildlife: 8.8
+    nature: 8.7
+    adventure: 7.9

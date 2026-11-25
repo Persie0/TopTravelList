@@ -1,0 +1,16 @@
+id: city-gm-banjul
+name: "Banjul"
+location:
+  country_code: GM
+  latitude: 13.4531
+  longitude: -16.5775
+scores:
+  impact: 7.0
+  uniqueness: 7.5
+  significance: 8.0
+  experience: 7.6
+  depth: 7.3
+  categories:
+    culture: 8.3
+    history: 8.4
+    food: 8.0

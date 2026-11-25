@@ -1,0 +1,15 @@
+id: sight-vc-macaroni-beach-mustique
+name: "Macaroni Beach (Mustique)"
+location:
+  country_code: VC
+  latitude: 12.878
+  longitude: -61.175
+scores:
+  impact: 8.9
+  uniqueness: 8.4
+  significance: 6.0
+  experience: 8.3
+  depth: 7.0
+  categories:
+    beaches: 9.2
+    photography: 9.2
