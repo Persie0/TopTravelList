@@ -1,0 +1,16 @@
+id: city-vc-port-elizabeth-bequia
+name: "Port Elizabeth (Bequia)"
+location:
+  country_code: VC
+  latitude: 13.012
+  longitude: -61.236
+scores:
+  impact: 8.3
+  uniqueness: 8.6
+  significance: 7.6
+  experience: 8.6
+  depth: 7.5
+  categories:
+    culture: 8.8
+    photography: 9.0
+    food: 8.4
