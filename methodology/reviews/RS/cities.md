@@ -150,8 +150,8 @@
 - Action: new
 - Precise subject: Sremski Karlovci; Small settlement excludes nearby monasteries.
 - Location check: 45.202, 19.933; approximate representative point, independent verification pending.
-- Evidence status: editorial-only
-- Evidence: No individual supporting source checked; editorial judgment.
+- Evidence status: source-linked-unverified
+- Evidence: https://vojvodina.travel/en/destinations/sremski-karlovci/ — Regional tourism office identifies historic buildings and central square; excludes Fruška Gora excursions. Reviewed 2026-11-25; partial evidence, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, permitted access and material claim corroboration; narrower peer comparisons.
 
 #### Worldwide peer comparisons
@@ -255,8 +255,8 @@
 - Action: new
 - Precise subject: Zrenjanin; Multiple local districts.
 - Location check: 45.381, 20.389; approximate representative point, independent verification pending.
-- Evidence status: editorial-only
-- Evidence: No individual supporting source checked; editorial judgment.
+- Evidence status: source-linked-unverified
+- Evidence: https://starisajt.zrenjanin.rs/en/visit-zrenjanin/touring-the-city/the-old-town-nucleus — Municipality identifies historic streets, museums, central lake and Small Bridge. Reviewed 2026-11-25; partial evidence, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, permitted access and material claim corroboration; narrower peer comparisons.
 
 #### Worldwide peer comparisons
@@ -290,8 +290,8 @@
 - Action: new
 - Precise subject: Kragujevac; Several urban districts.
 - Location check: 44.012, 20.912; approximate representative point, independent verification pending.
-- Evidence status: editorial-only
-- Evidence: No individual supporting source checked; editorial judgment.
+- Evidence status: source-linked-unverified
+- Evidence: https://www.serbia.travel/en/kragujevac/ — National tourism authority documents former capital, National Museum and historic institutions. Reviewed 2026-11-25; partial evidence, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, permitted access and material claim corroboration; narrower peer comparisons.
 
 #### Worldwide peer comparisons
@@ -325,8 +325,8 @@
 - Action: new
 - Precise subject: Vršac; Exclude wider Vršac mountains.
 - Location check: 45.117, 21.299; approximate representative point, independent verification pending.
-- Evidence status: editorial-only
-- Evidence: No individual supporting source checked; editorial judgment.
+- Evidence status: source-linked-unverified
+- Evidence: https://www.serbia.travel/en/travel-through-serbia-by-train/ — National tourism authority describes Vršac town architecture and surrounding landscape; external excursions excluded. Reviewed 2026-11-25; partial evidence, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, permitted access and material claim corroboration; narrower peer comparisons.
 
 #### Worldwide peer comparisons
@@ -360,8 +360,8 @@
 - Action: new
 - Precise subject: Užice; Exclude Tara and Zlatibor.
 - Location check: 43.856, 19.842; approximate representative point, independent verification pending.
-- Evidence status: editorial-only
-- Evidence: No individual supporting source checked; editorial judgment.
+- Evidence status: source-linked-unverified
+- Evidence: https://www.serbia.travel/en/travel-through-serbia-by-train/ — National tourism authority identifies Užice urban setting and Đetinja valley. Reviewed 2026-11-25; partial evidence, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, permitted access and material claim corroboration; narrower peer comparisons.
 
 #### Worldwide peer comparisons
@@ -430,8 +430,8 @@
 - Action: new
 - Precise subject: Vrnjačka Banja; Town and spa district only.
 - Location check: 43.621, 20.896; approximate representative point, independent verification pending.
-- Evidence status: editorial-only
-- Evidence: No individual supporting source checked; editorial judgment.
+- Evidence status: source-linked-unverified
+- Evidence: https://vrnjackabanja.co.rs/en/ — Local tourism organisation identifies spa heritage and Bridge of Love. Reviewed 2026-11-25; partial evidence, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, permitted access and material claim corroboration; narrower peer comparisons.
 
 #### Worldwide peer comparisons
@@ -465,8 +465,8 @@
 - Action: new
 - Precise subject: Golubac; Exclude fortress and Đerdap gorge.
 - Location check: 44.654, 21.63; approximate representative point, independent verification pending.
-- Evidence status: editorial-only
-- Evidence: No individual supporting source checked; editorial judgment.
+- Evidence status: source-linked-unverified
+- Evidence: https://togolubac.rs/en/get-to-know-golubac-on-foot/ — Local tourism authority describes waterfront walking and cycling; independently rated fortress excluded from town score. Reviewed 2026-11-25; partial evidence, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, permitted access and material claim corroboration; narrower peer comparisons.
 
 #### Worldwide peer comparisons
@@ -500,8 +500,8 @@
 - Action: new
 - Precise subject: Smederevo; Exclude full fortress circuit.
 - Location check: 44.664, 20.927; approximate representative point, independent verification pending.
-- Evidence status: editorial-only
-- Evidence: No individual supporting source checked; editorial judgment.
+- Evidence status: source-linked-unverified
+- Evidence: https://www.smederevowelcome.com/discover-smederevo/attractions/ — Local tourism guide identifies town square, church and municipal museum. Reviewed 2026-11-25; partial evidence, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, permitted access and material claim corroboration; narrower peer comparisons.
 
 #### Worldwide peer comparisons
@@ -570,8 +570,8 @@
 - Action: new
 - Precise subject: Kraljevo; Exclude Žiča and Studenica monasteries.
 - Location check: 43.724, 20.688; approximate representative point, independent verification pending.
-- Evidence status: editorial-only
-- Evidence: No individual supporting source checked; editorial judgment.
+- Evidence status: source-linked-unverified
+- Evidence: https://kraljevoturizam.rs/engleski/upoznajkv.html — Local tourism organisation identifies grid street layout, central square and museum; nearby monasteries excluded. Reviewed 2026-11-25; partial evidence, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, permitted access and material claim corroboration; narrower peer comparisons.
 
 #### Worldwide peer comparisons

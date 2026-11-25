@@ -19,8 +19,8 @@
 | --- | --- | --- |
 | [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | monumental built heritage | Distinct Serbian medieval royal monastery; uniqueness higher. Defined monastic complex not nearby valleys; depth lower. Provisional comparison. |
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional fortified complex | Distinct Serbian medieval royal monastery; uniqueness higher. Defined monastic complex not nearby valleys; depth higher. Provisional comparison. |
-| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (profile not checked) | coherent historic fabric | Distinct Serbian medieval royal monastery; uniqueness not quantified. Defined monastic complex not nearby valleys; depth not quantified. Provisional comparison. |
-| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (profile not checked) | large historic estate | Distinct Serbian medieval royal monastery; uniqueness not quantified. Defined monastic complex not nearby valleys; depth not quantified. Provisional comparison. |
+| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | coherent historic fabric | Distinct Serbian medieval royal monastery; uniqueness lower. Defined monastic complex not nearby valleys; depth lower. Provisional comparison. |
+| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (9.4 / 9.3 / 9.6 / 9.5 / 9.3) | large historic estate | Distinct Serbian medieval royal monastery; uniqueness lower. Defined monastic complex not nearby valleys; depth lower. Provisional comparison. |
 
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
@@ -54,8 +54,8 @@
 | --- | --- | --- |
 | [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | monumental built heritage | Distinct linked early Serbian state and monastic heritage; uniqueness similar. Listed ensemble not all Novi Pazar; depth higher. Provisional comparison. |
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional fortified complex | Distinct linked early Serbian state and monastic heritage; uniqueness higher. Listed ensemble not all Novi Pazar; depth higher. Provisional comparison. |
-| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (profile not checked) | coherent historic fabric | Distinct linked early Serbian state and monastic heritage; uniqueness not quantified. Listed ensemble not all Novi Pazar; depth not quantified. Provisional comparison. |
-| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (profile not checked) | large historic estate | Distinct linked early Serbian state and monastic heritage; uniqueness not quantified. Listed ensemble not all Novi Pazar; depth not quantified. Provisional comparison. |
+| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | coherent historic fabric | Distinct linked early Serbian state and monastic heritage; uniqueness lower. Listed ensemble not all Novi Pazar; depth lower. Provisional comparison. |
+| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (9.4 / 9.3 / 9.6 / 9.5 / 9.3) | large historic estate | Distinct linked early Serbian state and monastic heritage; uniqueness lower. Listed ensemble not all Novi Pazar; depth lower. Provisional comparison. |
 
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
@@ -89,8 +89,8 @@
 | --- | --- | --- |
 | [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | monumental built heritage | Distinct Byzantine-influenced painting tradition; uniqueness similar. Single monastery component; depth lower. Provisional comparison. |
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional fortified complex | Distinct Byzantine-influenced painting tradition; uniqueness higher. Single monastery component; depth lower. Provisional comparison. |
-| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (profile not checked) | coherent historic fabric | Distinct Byzantine-influenced painting tradition; uniqueness not quantified. Single monastery component; depth not quantified. Provisional comparison. |
-| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (profile not checked) | large historic estate | Distinct Byzantine-influenced painting tradition; uniqueness not quantified. Single monastery component; depth not quantified. Provisional comparison. |
+| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | coherent historic fabric | Distinct Byzantine-influenced painting tradition; uniqueness lower. Single monastery component; depth lower. Provisional comparison. |
+| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (9.4 / 9.3 / 9.6 / 9.5 / 9.3) | large historic estate | Distinct Byzantine-influenced painting tradition; uniqueness lower. Single monastery component; depth lower. Provisional comparison. |
 
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
@@ -124,8 +124,8 @@
 | --- | --- | --- |
 | [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | monumental built heritage | Distinct early Serbian fortified capital context; uniqueness lower. Single fortress component; depth lower. Provisional comparison. |
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional fortified complex | Distinct early Serbian fortified capital context; uniqueness lower. Single fortress component; depth lower. Provisional comparison. |
-| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (profile not checked) | coherent historic fabric | Distinct early Serbian fortified capital context; uniqueness not quantified. Single fortress component; depth not quantified. Provisional comparison. |
-| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (profile not checked) | large historic estate | Distinct early Serbian fortified capital context; uniqueness not quantified. Single fortress component; depth not quantified. Provisional comparison. |
+| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | coherent historic fabric | Distinct early Serbian fortified capital context; uniqueness lower. Single fortress component; depth lower. Provisional comparison. |
+| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (9.4 / 9.3 / 9.6 / 9.5 / 9.3) | large historic estate | Distinct early Serbian fortified capital context; uniqueness lower. Single fortress component; depth lower. Provisional comparison. |
 
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
@@ -159,8 +159,8 @@
 | --- | --- | --- |
 | [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | monumental built heritage | Distinct early medieval Serbian royal foundation; uniqueness lower. One monastery component; depth lower. Provisional comparison. |
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional fortified complex | Distinct early medieval Serbian royal foundation; uniqueness higher. One monastery component; depth lower. Provisional comparison. |
-| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (profile not checked) | coherent historic fabric | Distinct early medieval Serbian royal foundation; uniqueness not quantified. One monastery component; depth not quantified. Provisional comparison. |
-| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (profile not checked) | large historic estate | Distinct early medieval Serbian royal foundation; uniqueness not quantified. One monastery component; depth not quantified. Provisional comparison. |
+| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | coherent historic fabric | Distinct early medieval Serbian royal foundation; uniqueness lower. One monastery component; depth lower. Provisional comparison. |
+| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (9.4 / 9.3 / 9.6 / 9.5 / 9.3) | large historic estate | Distinct early medieval Serbian royal foundation; uniqueness lower. One monastery component; depth lower. Provisional comparison. |
 
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
@@ -194,8 +194,8 @@
 | --- | --- | --- |
 | [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | monumental built heritage | Distinct early Christian architectural form; uniqueness lower. One church component; depth lower. Provisional comparison. |
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional fortified complex | Distinct early Christian architectural form; uniqueness higher. One church component; depth lower. Provisional comparison. |
-| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (profile not checked) | coherent historic fabric | Distinct early Christian architectural form; uniqueness not quantified. One church component; depth not quantified. Provisional comparison. |
-| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (profile not checked) | large historic estate | Distinct early Christian architectural form; uniqueness not quantified. One church component; depth not quantified. Provisional comparison. |
+| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | coherent historic fabric | Distinct early Christian architectural form; uniqueness lower. One church component; depth lower. Provisional comparison. |
+| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (9.4 / 9.3 / 9.6 / 9.5 / 9.3) | large historic estate | Distinct early Christian architectural form; uniqueness lower. One church component; depth lower. Provisional comparison. |
 
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
@@ -229,8 +229,8 @@
 | --- | --- | --- |
 | [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | monumental built heritage | Rare late Roman imperial palace complex; uniqueness similar. Defined palace and associated heritage area; depth lower. Provisional comparison. |
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional fortified complex | Rare late Roman imperial palace complex; uniqueness higher. Defined palace and associated heritage area; depth higher. Provisional comparison. |
-| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (profile not checked) | coherent historic fabric | Rare late Roman imperial palace complex; uniqueness not quantified. Defined palace and associated heritage area; depth not quantified. Provisional comparison. |
-| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (profile not checked) | large historic estate | Rare late Roman imperial palace complex; uniqueness not quantified. Defined palace and associated heritage area; depth not quantified. Provisional comparison. |
+| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | coherent historic fabric | Rare late Roman imperial palace complex; uniqueness lower. Defined palace and associated heritage area; depth lower. Provisional comparison. |
+| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (9.4 / 9.3 / 9.6 / 9.5 / 9.3) | large historic estate | Rare late Roman imperial palace complex; uniqueness lower. Defined palace and associated heritage area; depth lower. Provisional comparison. |
 
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
@@ -264,8 +264,8 @@
 | --- | --- | --- |
 | [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | monumental built heritage | Distinct regional funerary sculptural tradition; uniqueness lower. Three dispersed Serbian cemeteries only; depth not quantified. Provisional comparison. |
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional fortified complex | Distinct regional funerary sculptural tradition; uniqueness higher. Three dispersed Serbian cemeteries only; depth not quantified. Provisional comparison. |
-| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (profile not checked) | coherent historic fabric | Distinct regional funerary sculptural tradition; uniqueness not quantified. Three dispersed Serbian cemeteries only; depth not quantified. Provisional comparison. |
-| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (profile not checked) | large historic estate | Distinct regional funerary sculptural tradition; uniqueness not quantified. Three dispersed Serbian cemeteries only; depth not quantified. Provisional comparison. |
+| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | coherent historic fabric | Distinct regional funerary sculptural tradition; uniqueness lower. Three dispersed Serbian cemeteries only; depth not assessed. Provisional comparison. |
+| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (9.4 / 9.3 / 9.6 / 9.5 / 9.3) | large historic estate | Distinct regional funerary sculptural tradition; uniqueness lower. Three dispersed Serbian cemeteries only; depth not assessed. Provisional comparison. |
 
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
@@ -299,8 +299,8 @@
 | --- | --- | --- |
 | [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | monumental built heritage | Distinct local stećci cemetery; uniqueness lower. One cemetery component; depth lower. Provisional comparison. |
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional fortified complex | Distinct local stećci cemetery; uniqueness higher. One cemetery component; depth lower. Provisional comparison. |
-| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (profile not checked) | coherent historic fabric | Distinct local stećci cemetery; uniqueness not quantified. One cemetery component; depth not quantified. Provisional comparison. |
-| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (profile not checked) | large historic estate | Distinct local stećci cemetery; uniqueness not quantified. One cemetery component; depth not quantified. Provisional comparison. |
+| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | coherent historic fabric | Distinct local stećci cemetery; uniqueness lower. One cemetery component; depth lower. Provisional comparison. |
+| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (9.4 / 9.3 / 9.6 / 9.5 / 9.3) | large historic estate | Distinct local stećci cemetery; uniqueness lower. One cemetery component; depth lower. Provisional comparison. |
 
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
@@ -334,8 +334,8 @@
 | --- | --- | --- |
 | [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | monumental built heritage | Distinct local cemetery component; uniqueness lower. One cemetery component; depth lower. Provisional comparison. |
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional fortified complex | Distinct local cemetery component; uniqueness higher. One cemetery component; depth lower. Provisional comparison. |
-| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (profile not checked) | coherent historic fabric | Distinct local cemetery component; uniqueness not quantified. One cemetery component; depth not quantified. Provisional comparison. |
-| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (profile not checked) | large historic estate | Distinct local cemetery component; uniqueness not quantified. One cemetery component; depth not quantified. Provisional comparison. |
+| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | coherent historic fabric | Distinct local cemetery component; uniqueness lower. One cemetery component; depth lower. Provisional comparison. |
+| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (9.4 / 9.3 / 9.6 / 9.5 / 9.3) | large historic estate | Distinct local cemetery component; uniqueness lower. One cemetery component; depth lower. Provisional comparison. |
 
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
@@ -369,8 +369,8 @@
 | --- | --- | --- |
 | [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | monumental built heritage | Distinct local funerary heritage; uniqueness lower. One cemetery component; depth lower. Provisional comparison. |
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional fortified complex | Distinct local funerary heritage; uniqueness higher. One cemetery component; depth lower. Provisional comparison. |
-| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (profile not checked) | coherent historic fabric | Distinct local funerary heritage; uniqueness not quantified. One cemetery component; depth not quantified. Provisional comparison. |
-| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (profile not checked) | large historic estate | Distinct local funerary heritage; uniqueness not quantified. One cemetery component; depth not quantified. Provisional comparison. |
+| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | coherent historic fabric | Distinct local funerary heritage; uniqueness lower. One cemetery component; depth lower. Provisional comparison. |
+| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (9.4 / 9.3 / 9.6 / 9.5 / 9.3) | large historic estate | Distinct local funerary heritage; uniqueness lower. One cemetery component; depth lower. Provisional comparison. |
 
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
@@ -397,15 +397,16 @@
 - Location check: 44.58, 22.05; approximate representative point, independent verification pending.
 - Evidence status: source-linked-unverified
 - Evidence: [UNESCO](https://whc.unesco.org/en/statesparties/rs) — consulted 2026-11-25 for property inventory; individual claims and permitted access not fully corroborated.
+- Supplemental evidence (2026-11-25): https://npdjerdap.rs/en/notice-to-visitors/ — Park operator lists maintained hiking routes, managed access and nature-protection requirements.
 - Missing or uncertain facts: exact GPS, permitted access and material claim corroboration; narrower peer comparisons.
 
 #### Worldwide peer comparisons
 | Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
 | --- | --- | --- |
-| [Jiuzhaigou Valley (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) (profile not checked) | world-leading mountain and water landscape | Distinct extensive river gorge and archaeological landscape; uniqueness not quantified. Serbian park only not Romanian shore; depth not quantified. Provisional comparison. |
-| [Hohe Tauern (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) (profile not checked) | extensive mountain park | Distinct extensive river gorge and archaeological landscape; uniqueness not quantified. Serbian park only not Romanian shore; depth not quantified. Provisional comparison. |
-| [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (profile not checked) | protected habitat and wildlife | Distinct extensive river gorge and archaeological landscape; uniqueness not quantified. Serbian park only not Romanian shore; depth not quantified. Provisional comparison. |
-| [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (profile not checked) | regional nature park | Distinct extensive river gorge and archaeological landscape; uniqueness not quantified. Serbian park only not Romanian shore; depth not quantified. Provisional comparison. |
+| [Jiuzhaigou Valley (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) (9.8 / 9.7 / 9.4 / 9.8 / 9.1) | world-leading mountain and water landscape | Distinct extensive river gorge and archaeological landscape; uniqueness lower. Serbian park only not Romanian shore; depth higher. Provisional comparison. |
+| [Hohe Tauern (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) (9.4 / 9.1 / 9 / 9.5 / 9.4) | extensive mountain park | Distinct extensive river gorge and archaeological landscape; uniqueness similar. Serbian park only not Romanian shore; depth lower. Provisional comparison. |
+| [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (8.9 / 9 / 9 / 9.1 / 8.6) | protected habitat and wildlife | Distinct extensive river gorge and archaeological landscape; uniqueness higher. Serbian park only not Romanian shore; depth higher. Provisional comparison. |
+| [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional nature park | Distinct extensive river gorge and archaeological landscape; uniqueness similar. Serbian park only not Romanian shore; depth higher. Provisional comparison. |
 
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
@@ -437,10 +438,10 @@
 #### Worldwide peer comparisons
 | Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
 | --- | --- | --- |
-| [Jiuzhaigou Valley (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) (profile not checked) | world-leading mountain and water landscape | Distinct Dinaric forest landscape with Serbian spruce; uniqueness not quantified. Park and Serbian canyon scope not all Drina; depth not quantified. Provisional comparison. |
-| [Hohe Tauern (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) (profile not checked) | extensive mountain park | Distinct Dinaric forest landscape with Serbian spruce; uniqueness not quantified. Park and Serbian canyon scope not all Drina; depth not quantified. Provisional comparison. |
-| [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (profile not checked) | protected habitat and wildlife | Distinct Dinaric forest landscape with Serbian spruce; uniqueness not quantified. Park and Serbian canyon scope not all Drina; depth not quantified. Provisional comparison. |
-| [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (profile not checked) | regional nature park | Distinct Dinaric forest landscape with Serbian spruce; uniqueness not quantified. Park and Serbian canyon scope not all Drina; depth not quantified. Provisional comparison. |
+| [Jiuzhaigou Valley (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) (9.8 / 9.7 / 9.4 / 9.8 / 9.1) | world-leading mountain and water landscape | Distinct Dinaric forest landscape with Serbian spruce; uniqueness lower. Park and Serbian canyon scope not all Drina; depth higher. Provisional comparison. |
+| [Hohe Tauern (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) (9.4 / 9.1 / 9 / 9.5 / 9.4) | extensive mountain park | Distinct Dinaric forest landscape with Serbian spruce; uniqueness lower. Park and Serbian canyon scope not all Drina; depth lower. Provisional comparison. |
+| [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (8.9 / 9 / 9 / 9.1 / 8.6) | protected habitat and wildlife | Distinct Dinaric forest landscape with Serbian spruce; uniqueness similar. Park and Serbian canyon scope not all Drina; depth higher. Provisional comparison. |
+| [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional nature park | Distinct Dinaric forest landscape with Serbian spruce; uniqueness lower. Park and Serbian canyon scope not all Drina; depth higher. Provisional comparison. |
 
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
@@ -472,10 +473,10 @@
 #### Worldwide peer comparisons
 | Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
 | --- | --- | --- |
-| [Jiuzhaigou Valley (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) (profile not checked) | world-leading mountain and water landscape | Distinct forest island in Pannonian plain; uniqueness not quantified. Park not unrestricted protected cores; depth not quantified. Provisional comparison. |
-| [Hohe Tauern (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) (profile not checked) | extensive mountain park | Distinct forest island in Pannonian plain; uniqueness not quantified. Park not unrestricted protected cores; depth not quantified. Provisional comparison. |
-| [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (profile not checked) | protected habitat and wildlife | Distinct forest island in Pannonian plain; uniqueness not quantified. Park not unrestricted protected cores; depth not quantified. Provisional comparison. |
-| [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (profile not checked) | regional nature park | Distinct forest island in Pannonian plain; uniqueness not quantified. Park not unrestricted protected cores; depth not quantified. Provisional comparison. |
+| [Jiuzhaigou Valley (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) (9.8 / 9.7 / 9.4 / 9.8 / 9.1) | world-leading mountain and water landscape | Distinct forest island in Pannonian plain; uniqueness lower. Park not unrestricted protected cores; depth lower. Provisional comparison. |
+| [Hohe Tauern (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) (9.4 / 9.1 / 9 / 9.5 / 9.4) | extensive mountain park | Distinct forest island in Pannonian plain; uniqueness lower. Park not unrestricted protected cores; depth lower. Provisional comparison. |
+| [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (8.9 / 9 / 9 / 9.1 / 8.6) | protected habitat and wildlife | Distinct forest island in Pannonian plain; uniqueness lower. Park not unrestricted protected cores; depth higher. Provisional comparison. |
+| [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional nature park | Distinct forest island in Pannonian plain; uniqueness lower. Park not unrestricted protected cores; depth higher. Provisional comparison. |
 
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
@@ -507,10 +508,10 @@
 #### Worldwide peer comparisons
 | Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
 | --- | --- | --- |
-| [Jiuzhaigou Valley (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) (profile not checked) | world-leading mountain and water landscape | Distinct central Serbian upland ecosystem; uniqueness not quantified. Park landscapes not whole resort industry; depth not quantified. Provisional comparison. |
-| [Hohe Tauern (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) (profile not checked) | extensive mountain park | Distinct central Serbian upland ecosystem; uniqueness not quantified. Park landscapes not whole resort industry; depth not quantified. Provisional comparison. |
-| [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (profile not checked) | protected habitat and wildlife | Distinct central Serbian upland ecosystem; uniqueness not quantified. Park landscapes not whole resort industry; depth not quantified. Provisional comparison. |
-| [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (profile not checked) | regional nature park | Distinct central Serbian upland ecosystem; uniqueness not quantified. Park landscapes not whole resort industry; depth not quantified. Provisional comparison. |
+| [Jiuzhaigou Valley (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) (9.8 / 9.7 / 9.4 / 9.8 / 9.1) | world-leading mountain and water landscape | Distinct central Serbian upland ecosystem; uniqueness lower. Park landscapes not whole resort industry; depth lower. Provisional comparison. |
+| [Hohe Tauern (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) (9.4 / 9.1 / 9 / 9.5 / 9.4) | extensive mountain park | Distinct central Serbian upland ecosystem; uniqueness lower. Park landscapes not whole resort industry; depth lower. Provisional comparison. |
+| [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (8.9 / 9 / 9 / 9.1 / 8.6) | protected habitat and wildlife | Distinct central Serbian upland ecosystem; uniqueness lower. Park landscapes not whole resort industry; depth higher. Provisional comparison. |
+| [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional nature park | Distinct central Serbian upland ecosystem; uniqueness lower. Park landscapes not whole resort industry; depth higher. Provisional comparison. |
 
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
@@ -542,10 +543,10 @@
 #### Worldwide peer comparisons
 | Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
 | --- | --- | --- |
-| [Jiuzhaigou Valley (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) (profile not checked) | world-leading mountain and water landscape | Distinct intact forest ecological processes; uniqueness not quantified. No combined itinerary or unrestricted core access assumed; depth not quantified. Provisional comparison. |
-| [Hohe Tauern (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) (profile not checked) | extensive mountain park | Distinct intact forest ecological processes; uniqueness not quantified. No combined itinerary or unrestricted core access assumed; depth not quantified. Provisional comparison. |
-| [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (profile not checked) | protected habitat and wildlife | Distinct intact forest ecological processes; uniqueness not quantified. No combined itinerary or unrestricted core access assumed; depth not quantified. Provisional comparison. |
-| [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (profile not checked) | regional nature park | Distinct intact forest ecological processes; uniqueness not quantified. No combined itinerary or unrestricted core access assumed; depth not quantified. Provisional comparison. |
+| [Jiuzhaigou Valley (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) (9.8 / 9.7 / 9.4 / 9.8 / 9.1) | world-leading mountain and water landscape | Distinct intact forest ecological processes; uniqueness lower. No combined itinerary or unrestricted core access assumed; depth not assessed. Provisional comparison. |
+| [Hohe Tauern (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) (9.4 / 9.1 / 9 / 9.5 / 9.4) | extensive mountain park | Distinct intact forest ecological processes; uniqueness lower. No combined itinerary or unrestricted core access assumed; depth not assessed. Provisional comparison. |
+| [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (8.9 / 9 / 9 / 9.1 / 8.6) | protected habitat and wildlife | Distinct intact forest ecological processes; uniqueness similar. No combined itinerary or unrestricted core access assumed; depth not assessed. Provisional comparison. |
+| [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional nature park | Distinct intact forest ecological processes; uniqueness lower. No combined itinerary or unrestricted core access assumed; depth not assessed. Provisional comparison. |
 
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
@@ -577,10 +578,10 @@
 #### Worldwide peer comparisons
 | Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
 | --- | --- | --- |
-| [Jiuzhaigou Valley (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) (profile not checked) | world-leading mountain and water landscape | Distinct extensive inland sand ecosystem; uniqueness not quantified. Defined reserve not all adjacent settlements; depth not quantified. Provisional comparison. |
-| [Hohe Tauern (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) (profile not checked) | extensive mountain park | Distinct extensive inland sand ecosystem; uniqueness not quantified. Defined reserve not all adjacent settlements; depth not quantified. Provisional comparison. |
-| [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (profile not checked) | protected habitat and wildlife | Distinct extensive inland sand ecosystem; uniqueness not quantified. Defined reserve not all adjacent settlements; depth not quantified. Provisional comparison. |
-| [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (profile not checked) | regional nature park | Distinct extensive inland sand ecosystem; uniqueness not quantified. Defined reserve not all adjacent settlements; depth not quantified. Provisional comparison. |
+| [Jiuzhaigou Valley (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) (9.8 / 9.7 / 9.4 / 9.8 / 9.1) | world-leading mountain and water landscape | Distinct extensive inland sand ecosystem; uniqueness lower. Defined reserve not all adjacent settlements; depth lower. Provisional comparison. |
+| [Hohe Tauern (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) (9.4 / 9.1 / 9 / 9.5 / 9.4) | extensive mountain park | Distinct extensive inland sand ecosystem; uniqueness lower. Defined reserve not all adjacent settlements; depth lower. Provisional comparison. |
+| [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (8.9 / 9 / 9 / 9.1 / 8.6) | protected habitat and wildlife | Distinct extensive inland sand ecosystem; uniqueness lower. Defined reserve not all adjacent settlements; depth higher. Provisional comparison. |
+| [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional nature park | Distinct extensive inland sand ecosystem; uniqueness lower. Defined reserve not all adjacent settlements; depth higher. Provisional comparison. |
 
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
@@ -612,10 +613,10 @@
 #### Worldwide peer comparisons
 | Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
 | --- | --- | --- |
-| [Jiuzhaigou Valley (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) (profile not checked) | world-leading mountain and water landscape | Distinct concentrated erosional landforms; uniqueness not quantified. Defined natural landmark; depth not quantified. Provisional comparison. |
-| [Hohe Tauern (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) (profile not checked) | extensive mountain park | Distinct concentrated erosional landforms; uniqueness not quantified. Defined natural landmark; depth not quantified. Provisional comparison. |
-| [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (profile not checked) | protected habitat and wildlife | Distinct concentrated erosional landforms; uniqueness not quantified. Defined natural landmark; depth not quantified. Provisional comparison. |
-| [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (profile not checked) | regional nature park | Distinct concentrated erosional landforms; uniqueness not quantified. Defined natural landmark; depth not quantified. Provisional comparison. |
+| [Jiuzhaigou Valley (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) (9.8 / 9.7 / 9.4 / 9.8 / 9.1) | world-leading mountain and water landscape | Distinct concentrated erosional landforms; uniqueness lower. Defined natural landmark; depth lower. Provisional comparison. |
+| [Hohe Tauern (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) (9.4 / 9.1 / 9 / 9.5 / 9.4) | extensive mountain park | Distinct concentrated erosional landforms; uniqueness higher. Defined natural landmark; depth lower. Provisional comparison. |
+| [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (8.9 / 9 / 9 / 9.1 / 8.6) | protected habitat and wildlife | Distinct concentrated erosional landforms; uniqueness higher. Defined natural landmark; depth lower. Provisional comparison. |
+| [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional nature park | Distinct concentrated erosional landforms; uniqueness higher. Defined natural landmark; depth lower. Provisional comparison. |
 
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
@@ -649,8 +650,8 @@
 | --- | --- | --- |
 | [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | monumental built heritage | Distinct fortified late medieval monastic complex; uniqueness similar. One monastery complex; depth lower. Provisional comparison. |
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional fortified complex | Distinct fortified late medieval monastic complex; uniqueness higher. One monastery complex; depth higher. Provisional comparison. |
-| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (profile not checked) | coherent historic fabric | Distinct fortified late medieval monastic complex; uniqueness not quantified. One monastery complex; depth not quantified. Provisional comparison. |
-| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (profile not checked) | large historic estate | Distinct fortified late medieval monastic complex; uniqueness not quantified. One monastery complex; depth not quantified. Provisional comparison. |
+| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | coherent historic fabric | Distinct fortified late medieval monastic complex; uniqueness lower. One monastery complex; depth lower. Provisional comparison. |
+| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (9.4 / 9.3 / 9.6 / 9.5 / 9.3) | large historic estate | Distinct fortified late medieval monastic complex; uniqueness lower. One monastery complex; depth lower. Provisional comparison. |
 
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
@@ -684,8 +685,8 @@
 | --- | --- | --- |
 | [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | monumental built heritage | Distinct specialized rural wine settlements; uniqueness lower. Multiple cellar settlements not all wineries; depth lower. Provisional comparison. |
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional fortified complex | Distinct specialized rural wine settlements; uniqueness higher. Multiple cellar settlements not all wineries; depth similar. Provisional comparison. |
-| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (profile not checked) | coherent historic fabric | Distinct specialized rural wine settlements; uniqueness not quantified. Multiple cellar settlements not all wineries; depth not quantified. Provisional comparison. |
-| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (profile not checked) | large historic estate | Distinct specialized rural wine settlements; uniqueness not quantified. Multiple cellar settlements not all wineries; depth not quantified. Provisional comparison. |
+| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | coherent historic fabric | Distinct specialized rural wine settlements; uniqueness lower. Multiple cellar settlements not all wineries; depth lower. Provisional comparison. |
+| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (9.4 / 9.3 / 9.6 / 9.5 / 9.3) | large historic estate | Distinct specialized rural wine settlements; uniqueness lower. Multiple cellar settlements not all wineries; depth lower. Provisional comparison. |
 
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
@@ -719,8 +720,8 @@
 | --- | --- | --- |
 | [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | monumental built heritage | Distinct late medieval Serbian capital defense system; uniqueness lower. Defined fortress not whole city; depth lower. Provisional comparison. |
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional fortified complex | Distinct late medieval Serbian capital defense system; uniqueness higher. Defined fortress not whole city; depth higher. Provisional comparison. |
-| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (profile not checked) | coherent historic fabric | Distinct late medieval Serbian capital defense system; uniqueness not quantified. Defined fortress not whole city; depth not quantified. Provisional comparison. |
-| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (profile not checked) | large historic estate | Distinct late medieval Serbian capital defense system; uniqueness not quantified. Defined fortress not whole city; depth not quantified. Provisional comparison. |
+| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | coherent historic fabric | Distinct late medieval Serbian capital defense system; uniqueness lower. Defined fortress not whole city; depth lower. Provisional comparison. |
+| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (9.4 / 9.3 / 9.6 / 9.5 / 9.3) | large historic estate | Distinct late medieval Serbian capital defense system; uniqueness lower. Defined fortress not whole city; depth lower. Provisional comparison. |
 
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
@@ -754,8 +755,8 @@
 | --- | --- | --- |
 | [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | monumental built heritage | Distinct early Byzantine planned urban remains; uniqueness lower. Defined archaeological site; depth lower. Provisional comparison. |
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional fortified complex | Distinct early Byzantine planned urban remains; uniqueness higher. Defined archaeological site; depth lower. Provisional comparison. |
-| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (profile not checked) | coherent historic fabric | Distinct early Byzantine planned urban remains; uniqueness not quantified. Defined archaeological site; depth not quantified. Provisional comparison. |
-| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (profile not checked) | large historic estate | Distinct early Byzantine planned urban remains; uniqueness not quantified. Defined archaeological site; depth not quantified. Provisional comparison. |
+| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | coherent historic fabric | Distinct early Byzantine planned urban remains; uniqueness lower. Defined archaeological site; depth lower. Provisional comparison. |
+| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (9.4 / 9.3 / 9.6 / 9.5 / 9.3) | large historic estate | Distinct early Byzantine planned urban remains; uniqueness lower. Defined archaeological site; depth lower. Provisional comparison. |
 
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
@@ -789,8 +790,8 @@
 | --- | --- | --- |
 | [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | monumental built heritage | Distinct layered medieval and Ottoman cultural landscape; uniqueness lower. Nominated area not every private building; depth lower. Provisional comparison. |
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional fortified complex | Distinct layered medieval and Ottoman cultural landscape; uniqueness higher. Nominated area not every private building; depth higher. Provisional comparison. |
-| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (profile not checked) | coherent historic fabric | Distinct layered medieval and Ottoman cultural landscape; uniqueness not quantified. Nominated area not every private building; depth not quantified. Provisional comparison. |
-| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (profile not checked) | large historic estate | Distinct layered medieval and Ottoman cultural landscape; uniqueness not quantified. Nominated area not every private building; depth not quantified. Provisional comparison. |
+| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | coherent historic fabric | Distinct layered medieval and Ottoman cultural landscape; uniqueness lower. Nominated area not every private building; depth lower. Provisional comparison. |
+| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (9.4 / 9.3 / 9.6 / 9.5 / 9.3) | large historic estate | Distinct layered medieval and Ottoman cultural landscape; uniqueness lower. Nominated area not every private building; depth lower. Provisional comparison. |
 
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
@@ -824,8 +825,8 @@
 | --- | --- | --- |
 | [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | monumental built heritage | Distinct extensive imperial river frontier; uniqueness lower. No single combined tour assumed; depth not quantified. Provisional comparison. |
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional fortified complex | Distinct extensive imperial river frontier; uniqueness higher. No single combined tour assumed; depth not quantified. Provisional comparison. |
-| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (profile not checked) | coherent historic fabric | Distinct extensive imperial river frontier; uniqueness not quantified. No single combined tour assumed; depth not quantified. Provisional comparison. |
-| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (profile not checked) | large historic estate | Distinct extensive imperial river frontier; uniqueness not quantified. No single combined tour assumed; depth not quantified. Provisional comparison. |
+| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | coherent historic fabric | Distinct extensive imperial river frontier; uniqueness lower. No single combined tour assumed; depth not assessed. Provisional comparison. |
+| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (9.4 / 9.3 / 9.6 / 9.5 / 9.3) | large historic estate | Distinct extensive imperial river frontier; uniqueness lower. No single combined tour assumed; depth not assessed. Provisional comparison. |
 
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
@@ -852,15 +853,18 @@
 - Location check: 44.661, 21.678; approximate representative point, independent verification pending.
 - Evidence status: source-linked-unverified
 - Evidence: [National Tourism Organisation of Serbia](https://www.serbia.travel/en/golubac-fortress/) — consulted 2026-11-25 for tourism identity or regional context; individual claims and permitted access not fully corroborated.
+- Supplemental evidence (2026-11-25): https://tvrdjavagolubackigrad.rs/eng/tickets/ — Operator publishes four access zones, additional tower access in higher zones and weather/capacity restrictions; ordinary visit excludes guaranteed access to all towers.
 - Missing or uncertain facts: exact GPS, permitted access and material claim corroboration; narrower peer comparisons.
 
 #### Worldwide peer comparisons
 | Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
 | --- | --- | --- |
+| [Spiš Castle (SK)](../../../countries/SK/sights/spis-castle.yaml) (9.3 / 9.2 / 9.3 / 8.9 / 9) | large fortified ensemble | Golubac offers a more concentrated river setting, less depth and significance. |
+| [Corvin Castle (RO)](../../../countries/RO/sights/corvin-castle.yaml) (9.3 / 9.1 / 9 / 9 / 8.6) | dramatic medieval castle | Golubac has less accessible interior breadth; distinctive river composition. |
 | [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | monumental built heritage | Distinct dramatic riverside fortress composition; uniqueness lower. One fortress not all Đerdap; depth lower. Provisional comparison. |
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional fortified complex | Distinct dramatic riverside fortress composition; uniqueness higher. One fortress not all Đerdap; depth similar. Provisional comparison. |
-| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (profile not checked) | coherent historic fabric | Distinct dramatic riverside fortress composition; uniqueness not quantified. One fortress not all Đerdap; depth not quantified. Provisional comparison. |
-| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (profile not checked) | large historic estate | Distinct dramatic riverside fortress composition; uniqueness not quantified. One fortress not all Đerdap; depth not quantified. Provisional comparison. |
+| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | coherent historic fabric | Distinct dramatic riverside fortress composition; uniqueness lower. One fortress not all Đerdap; depth lower. Provisional comparison. |
+| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (9.4 / 9.3 / 9.6 / 9.5 / 9.3) | large historic estate | Distinct dramatic riverside fortress composition; uniqueness lower. One fortress not all Đerdap; depth lower. Provisional comparison. |
 
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
@@ -868,14 +872,14 @@
 | Impact | — | 9.2 | Multiple stone towers overlooking Danube gorge entrance |
 | Uniqueness | — | 9.0 | Distinct dramatic riverside fortress composition |
 | Significance | — | 9.0 | Regional medieval defensive heritage |
-| Experience | — | 9.0 | Managed fortress paths and towers with access limits |
-| Depth | — | 8.5 | One fortress not all Đerdap |
+| Experience | — | 8.9 | Standard zone, exhibitions and paths; higher towers require additional access |
+| Depth | — | 8.2 | Standard zone plus optional limited higher towers, not whole park |
 
 - Applicable category scores: architecture: 9.3, history: 9.2, photography: 9.5.
-- Computed worldwide overall: 90.10/100.
-- High-score challenge: photography 9.5: Multiple stone towers overlooking Danube gorge entrance. 90+ total: Multiple stone towers overlooking Danube gorge entrance; Distinct dramatic riverside fortress composition; One fortress not all Đerdap. Compare Hohensalzburg and Kuressaare; the named historic ensemble has its own specific architectural or historical distinction, and its visitor breadth is separately rated..
+- Computed worldwide overall: 89.65/100.
+- High-score challenge: photography 9.5 retained provisionally for its distinctive riverside tower composition, with Corvin Castle and Spiš Castle as closer fortress peers; no claim of superior architectural depth. Ordinary visitor zone limits reduce core experience and depth.
 - Approved 10 registry: none.
-- Final decision: Scope-limited editorial rating: Distinct dramatic riverside fortress composition; One fortress not all Đerdap.
+- Final decision: 89.65 after ordinary visitor zone scope correction.
 - Earlier decision: none.
 - Verification still needed: independent facts, permitted access and narrower same-type peers.
 
@@ -894,8 +898,8 @@
 | --- | --- | --- |
 | [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | monumental built heritage | Distinct layered strategic urban fortress; uniqueness lower. Fortress and adjoining park not whole capital; depth higher. Provisional comparison. |
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional fortified complex | Distinct layered strategic urban fortress; uniqueness higher. Fortress and adjoining park not whole capital; depth higher. Provisional comparison. |
-| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (profile not checked) | coherent historic fabric | Distinct layered strategic urban fortress; uniqueness not quantified. Fortress and adjoining park not whole capital; depth not quantified. Provisional comparison. |
-| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (profile not checked) | large historic estate | Distinct layered strategic urban fortress; uniqueness not quantified. Fortress and adjoining park not whole capital; depth not quantified. Provisional comparison. |
+| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | coherent historic fabric | Distinct layered strategic urban fortress; uniqueness lower. Fortress and adjoining park not whole capital; depth lower. Provisional comparison. |
+| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (9.4 / 9.3 / 9.6 / 9.5 / 9.3) | large historic estate | Distinct layered strategic urban fortress; uniqueness lower. Fortress and adjoining park not whole capital; depth lower. Provisional comparison. |
 
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
@@ -929,8 +933,8 @@
 | --- | --- | --- |
 | [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | monumental built heritage | Distinct preserved Habsburg military engineering; uniqueness lower. Defined complex including permitted tunnels only; depth lower. Provisional comparison. |
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional fortified complex | Distinct preserved Habsburg military engineering; uniqueness higher. Defined complex including permitted tunnels only; depth higher. Provisional comparison. |
-| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (profile not checked) | coherent historic fabric | Distinct preserved Habsburg military engineering; uniqueness not quantified. Defined complex including permitted tunnels only; depth not quantified. Provisional comparison. |
-| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (profile not checked) | large historic estate | Distinct preserved Habsburg military engineering; uniqueness not quantified. Defined complex including permitted tunnels only; depth not quantified. Provisional comparison. |
+| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | coherent historic fabric | Distinct preserved Habsburg military engineering; uniqueness lower. Defined complex including permitted tunnels only; depth lower. Provisional comparison. |
+| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (9.4 / 9.3 / 9.6 / 9.5 / 9.3) | large historic estate | Distinct preserved Habsburg military engineering; uniqueness lower. Defined complex including permitted tunnels only; depth lower. Provisional comparison. |
 
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
@@ -955,8 +959,8 @@
 - Action: new
 - Precise subject: Temple of Saint Sava, Belgrade; Single religious complex.
 - Location check: 44.798, 20.469; approximate representative point, independent verification pending.
-- Evidence status: editorial-only
-- Evidence: No individual supporting source checked; editorial judgment.
+- Evidence status: source-linked-unverified
+- Evidence: https://www.serbia.travel/en/orthodox-churches/ — National tourism authority identifies Temple of Saint Sava as major religious and architectural landmark. Reviewed 2026-11-25; partial evidence, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, permitted access and material claim corroboration; narrower peer comparisons.
 
 #### Worldwide peer comparisons
@@ -964,8 +968,8 @@
 | --- | --- | --- |
 | [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | monumental built heritage | Distinct large modern Serbian Orthodox temple; uniqueness lower. Single religious complex; depth lower. Provisional comparison. |
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional fortified complex | Distinct large modern Serbian Orthodox temple; uniqueness higher. Single religious complex; depth lower. Provisional comparison. |
-| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (profile not checked) | coherent historic fabric | Distinct large modern Serbian Orthodox temple; uniqueness not quantified. Single religious complex; depth not quantified. Provisional comparison. |
-| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (profile not checked) | large historic estate | Distinct large modern Serbian Orthodox temple; uniqueness not quantified. Single religious complex; depth not quantified. Provisional comparison. |
+| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | coherent historic fabric | Distinct large modern Serbian Orthodox temple; uniqueness lower. Single religious complex; depth lower. Provisional comparison. |
+| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (9.4 / 9.3 / 9.6 / 9.5 / 9.3) | large historic estate | Distinct large modern Serbian Orthodox temple; uniqueness lower. Single religious complex; depth lower. Provisional comparison. |
 
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
@@ -992,15 +996,16 @@
 - Location check: 43.42, 19.94; approximate representative point, independent verification pending.
 - Evidence status: source-linked-unverified
 - Evidence: [National Tourism Organisation of Serbia](https://www.serbia.travel/en/uvac-river-gorge/) — consulted 2026-11-25 for tourism identity or regional context; individual claims and permitted access not fully corroborated.
+- Supplemental evidence (2026-11-25): https://www.serbia.travel/en/uvac-river-gorge/ — National tourism authority identifies boat and kayak viewing, subject to reserve controls.
 - Missing or uncertain facts: exact GPS, permitted access and material claim corroboration; narrower peer comparisons.
 
 #### Worldwide peer comparisons
 | Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
 | --- | --- | --- |
-| [Jiuzhaigou Valley (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) (profile not checked) | world-leading mountain and water landscape | Distinct concentrated meandering canyon and griffon vulture habitat; uniqueness not quantified. Defined gorge and reserve not unrestricted caves; depth not quantified. Provisional comparison. |
-| [Hohe Tauern (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) (profile not checked) | extensive mountain park | Distinct concentrated meandering canyon and griffon vulture habitat; uniqueness not quantified. Defined gorge and reserve not unrestricted caves; depth not quantified. Provisional comparison. |
-| [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (profile not checked) | protected habitat and wildlife | Distinct concentrated meandering canyon and griffon vulture habitat; uniqueness not quantified. Defined gorge and reserve not unrestricted caves; depth not quantified. Provisional comparison. |
-| [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (profile not checked) | regional nature park | Distinct concentrated meandering canyon and griffon vulture habitat; uniqueness not quantified. Defined gorge and reserve not unrestricted caves; depth not quantified. Provisional comparison. |
+| [Jiuzhaigou Valley (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) (9.8 / 9.7 / 9.4 / 9.8 / 9.1) | world-leading mountain and water landscape | Distinct concentrated meandering canyon and griffon vulture habitat; uniqueness lower. Defined gorge and reserve not unrestricted caves; depth lower. Provisional comparison. |
+| [Hohe Tauern (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) (9.4 / 9.1 / 9 / 9.5 / 9.4) | extensive mountain park | Distinct concentrated meandering canyon and griffon vulture habitat; uniqueness higher. Defined gorge and reserve not unrestricted caves; depth lower. Provisional comparison. |
+| [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (8.9 / 9 / 9 / 9.1 / 8.6) | protected habitat and wildlife | Distinct concentrated meandering canyon and griffon vulture habitat; uniqueness higher. Defined gorge and reserve not unrestricted caves; depth higher. Provisional comparison. |
+| [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional nature park | Distinct concentrated meandering canyon and griffon vulture habitat; uniqueness higher. Defined gorge and reserve not unrestricted caves; depth higher. Provisional comparison. |
 
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
@@ -1027,15 +1032,16 @@
 - Location check: 43.3, 22.63; approximate representative point, independent verification pending.
 - Evidence status: source-linked-unverified
 - Evidence: [National Tourism Organisation of Serbia](https://www.serbia.travel/en/nature/walking-in-natural-parks/nature-parks/) — consulted 2026-11-25 for tourism identity or regional context; individual claims and permitted access not fully corroborated.
+- Supplemental evidence (2026-11-25): https://www.ekologija.gov.rs/propis/zakon-o-nacionalnim-parkovima-nacrt/ — Ministry labels August 2026 national parks law as draft; tourism authority describes new parks but consolidated law does not establish final designation. Keep mountain landscape naming.
 - Missing or uncertain facts: exact GPS, permitted access and material claim corroboration; narrower peer comparisons.
 
 #### Worldwide peer comparisons
 | Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
 | --- | --- | --- |
-| [Jiuzhaigou Valley (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) (profile not checked) | world-leading mountain and water landscape | Distinct eastern Balkan upland landscape; uniqueness not quantified. Serbian mountain landscape not entire transboundary range; depth not quantified. Provisional comparison. |
-| [Hohe Tauern (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) (profile not checked) | extensive mountain park | Distinct eastern Balkan upland landscape; uniqueness not quantified. Serbian mountain landscape not entire transboundary range; depth not quantified. Provisional comparison. |
-| [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (profile not checked) | protected habitat and wildlife | Distinct eastern Balkan upland landscape; uniqueness not quantified. Serbian mountain landscape not entire transboundary range; depth not quantified. Provisional comparison. |
-| [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (profile not checked) | regional nature park | Distinct eastern Balkan upland landscape; uniqueness not quantified. Serbian mountain landscape not entire transboundary range; depth not quantified. Provisional comparison. |
+| [Jiuzhaigou Valley (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) (9.8 / 9.7 / 9.4 / 9.8 / 9.1) | world-leading mountain and water landscape | Distinct eastern Balkan upland landscape; uniqueness lower. Serbian mountain landscape not entire transboundary range; depth higher. Provisional comparison. |
+| [Hohe Tauern (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) (9.4 / 9.1 / 9 / 9.5 / 9.4) | extensive mountain park | Distinct eastern Balkan upland landscape; uniqueness lower. Serbian mountain landscape not entire transboundary range; depth lower. Provisional comparison. |
+| [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (8.9 / 9 / 9 / 9.1 / 8.6) | protected habitat and wildlife | Distinct eastern Balkan upland landscape; uniqueness lower. Serbian mountain landscape not entire transboundary range; depth higher. Provisional comparison. |
+| [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional nature park | Distinct eastern Balkan upland landscape; uniqueness lower. Serbian mountain landscape not entire transboundary range; depth higher. Provisional comparison. |
 
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
@@ -1062,15 +1068,16 @@
 - Location check: 44.08, 21.68; approximate representative point, independent verification pending.
 - Evidence status: source-linked-unverified
 - Evidence: [National Tourism Organisation of Serbia](https://www.serbia.travel/en/nature/walking-in-natural-parks/nature-parks/) — consulted 2026-11-25 for tourism identity or regional context; individual claims and permitted access not fully corroborated.
+- Supplemental evidence (2026-11-25): https://www.ekologija.gov.rs/propis/zakon-o-nacionalnim-parkovima-nacrt/ — August 2026 draft national parks law does not establish final legal designation; https://www.serbia.travel/en/kucaj-mountains/ describes eastern Serbian mountain range. Keep geographic scope.
 - Missing or uncertain facts: exact GPS, permitted access and material claim corroboration; narrower peer comparisons.
 
 #### Worldwide peer comparisons
 | Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
 | --- | --- | --- |
-| [Jiuzhaigou Valley (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) (profile not checked) | world-leading mountain and water landscape | Distinct extensive eastern Serbian karst mosaic; uniqueness not quantified. Defined mountain area not restricted caves; depth not quantified. Provisional comparison. |
-| [Hohe Tauern (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) (profile not checked) | extensive mountain park | Distinct extensive eastern Serbian karst mosaic; uniqueness not quantified. Defined mountain area not restricted caves; depth not quantified. Provisional comparison. |
-| [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (profile not checked) | protected habitat and wildlife | Distinct extensive eastern Serbian karst mosaic; uniqueness not quantified. Defined mountain area not restricted caves; depth not quantified. Provisional comparison. |
-| [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (profile not checked) | regional nature park | Distinct extensive eastern Serbian karst mosaic; uniqueness not quantified. Defined mountain area not restricted caves; depth not quantified. Provisional comparison. |
+| [Jiuzhaigou Valley (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) (9.8 / 9.7 / 9.4 / 9.8 / 9.1) | world-leading mountain and water landscape | Distinct extensive eastern Serbian karst mosaic; uniqueness lower. Defined mountain area not restricted caves; depth lower. Provisional comparison. |
+| [Hohe Tauern (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) (9.4 / 9.1 / 9 / 9.5 / 9.4) | extensive mountain park | Distinct extensive eastern Serbian karst mosaic; uniqueness lower. Defined mountain area not restricted caves; depth lower. Provisional comparison. |
+| [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (8.9 / 9 / 9 / 9.1 / 8.6) | protected habitat and wildlife | Distinct extensive eastern Serbian karst mosaic; uniqueness lower. Defined mountain area not restricted caves; depth higher. Provisional comparison. |
+| [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional nature park | Distinct extensive eastern Serbian karst mosaic; uniqueness lower. Defined mountain area not restricted caves; depth higher. Provisional comparison. |
 
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
@@ -1102,10 +1109,10 @@
 #### Worldwide peer comparisons
 | Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
 | --- | --- | --- |
-| [Jiuzhaigou Valley (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) (profile not checked) | world-leading mountain and water landscape | Distinct mountain cultural landscape and railway heritage; uniqueness not quantified. Defined landscape excludes Tara National Park; depth not quantified. Provisional comparison. |
-| [Hohe Tauern (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) (profile not checked) | extensive mountain park | Distinct mountain cultural landscape and railway heritage; uniqueness not quantified. Defined landscape excludes Tara National Park; depth not quantified. Provisional comparison. |
-| [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (profile not checked) | protected habitat and wildlife | Distinct mountain cultural landscape and railway heritage; uniqueness not quantified. Defined landscape excludes Tara National Park; depth not quantified. Provisional comparison. |
-| [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (profile not checked) | regional nature park | Distinct mountain cultural landscape and railway heritage; uniqueness not quantified. Defined landscape excludes Tara National Park; depth not quantified. Provisional comparison. |
+| [Jiuzhaigou Valley (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) (9.8 / 9.7 / 9.4 / 9.8 / 9.1) | world-leading mountain and water landscape | Distinct mountain cultural landscape and railway heritage; uniqueness lower. Defined landscape excludes Tara National Park; depth lower. Provisional comparison. |
+| [Hohe Tauern (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) (9.4 / 9.1 / 9 / 9.5 / 9.4) | extensive mountain park | Distinct mountain cultural landscape and railway heritage; uniqueness lower. Defined landscape excludes Tara National Park; depth lower. Provisional comparison. |
+| [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (8.9 / 9 / 9 / 9.1 / 8.6) | protected habitat and wildlife | Distinct mountain cultural landscape and railway heritage; uniqueness lower. Defined landscape excludes Tara National Park; depth higher. Provisional comparison. |
+| [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional nature park | Distinct mountain cultural landscape and railway heritage; uniqueness lower. Defined landscape excludes Tara National Park; depth higher. Provisional comparison. |
 
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
@@ -1139,8 +1146,8 @@
 | --- | --- | --- |
 | [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | monumental built heritage | Distinct narrow-gauge engineering route; uniqueness lower. Defined operational route only; depth lower. Provisional comparison. |
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional fortified complex | Distinct narrow-gauge engineering route; uniqueness higher. Defined operational route only; depth lower. Provisional comparison. |
-| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (profile not checked) | coherent historic fabric | Distinct narrow-gauge engineering route; uniqueness not quantified. Defined operational route only; depth not quantified. Provisional comparison. |
-| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (profile not checked) | large historic estate | Distinct narrow-gauge engineering route; uniqueness not quantified. Defined operational route only; depth not quantified. Provisional comparison. |
+| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | coherent historic fabric | Distinct narrow-gauge engineering route; uniqueness lower. Defined operational route only; depth lower. Provisional comparison. |
+| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (9.4 / 9.3 / 9.6 / 9.5 / 9.3) | large historic estate | Distinct narrow-gauge engineering route; uniqueness lower. Defined operational route only; depth lower. Provisional comparison. |
 
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
@@ -1165,16 +1172,16 @@
 - Action: new
 - Precise subject: Lepenski Vir archaeological site and museum; Defined relocated archaeological display not entire gorge.
 - Location check: 44.56, 22.027; approximate representative point, independent verification pending.
-- Evidence status: editorial-only
-- Evidence: No individual supporting source checked; editorial judgment.
+- Evidence status: source-linked-unverified
+- Evidence: https://www.narodnimuzej.rs/visit-us/museum-of-lepenski-vir-visitus/?lang=en — National Museum identifies visitor centre and archaeological museum at Boljetin; permitted visitor experience. Reviewed 2026-11-25; partial evidence, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, permitted access and material claim corroboration; narrower peer comparisons.
 
 #### Worldwide peer comparisons
 | Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
 | --- | --- | --- |
-| [Estonian National Museum (EE)](../../../countries/EE/sights/estonian-national-museum.yaml) (profile not checked) | national heritage interpretation | Rare Mesolithic and Neolithic river settlement evidence; uniqueness not quantified. Defined relocated archaeological display not entire gorge; depth not quantified. Provisional comparison. |
+| [Estonian National Museum (EE)](../../../countries/EE/sights/estonian-national-museum.yaml) (8.4 / 8.6 / 8.8 / 8.7 / 8.9) | national heritage interpretation | Rare Mesolithic and Neolithic river settlement evidence; uniqueness higher. Defined relocated archaeological display not entire gorge; depth lower. Provisional comparison. |
 | [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | historic site and interpretation | Rare Mesolithic and Neolithic river settlement evidence; uniqueness higher. Defined relocated archaeological display not entire gorge; depth lower. Provisional comparison. |
-| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (profile not checked) | archaeological and built heritage context | Rare Mesolithic and Neolithic river settlement evidence; uniqueness not quantified. Defined relocated archaeological display not entire gorge; depth not quantified. Provisional comparison. |
+| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | archaeological and built heritage context | Rare Mesolithic and Neolithic river settlement evidence; uniqueness lower. Defined relocated archaeological display not entire gorge; depth lower. Provisional comparison. |
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional museum and site | Rare Mesolithic and Neolithic river settlement evidence; uniqueness higher. Defined relocated archaeological display not entire gorge; depth lower. Provisional comparison. |
 
 #### Scoring decisions
@@ -1209,8 +1216,8 @@
 | --- | --- | --- |
 | [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | monumental built heritage | Distinct provincial legionary and civic archaeological ensemble; uniqueness lower. Defined archaeological park; depth similar. Provisional comparison. |
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional fortified complex | Distinct provincial legionary and civic archaeological ensemble; uniqueness higher. Defined archaeological park; depth higher. Provisional comparison. |
-| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (profile not checked) | coherent historic fabric | Distinct provincial legionary and civic archaeological ensemble; uniqueness not quantified. Defined archaeological park; depth not quantified. Provisional comparison. |
-| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (profile not checked) | large historic estate | Distinct provincial legionary and civic archaeological ensemble; uniqueness not quantified. Defined archaeological park; depth not quantified. Provisional comparison. |
+| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | coherent historic fabric | Distinct provincial legionary and civic archaeological ensemble; uniqueness lower. Defined archaeological park; depth lower. Provisional comparison. |
+| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (9.4 / 9.3 / 9.6 / 9.5 / 9.3) | large historic estate | Distinct provincial legionary and civic archaeological ensemble; uniqueness lower. Defined archaeological park; depth lower. Provisional comparison. |
 
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
@@ -1244,8 +1251,8 @@
 | --- | --- | --- |
 | [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | monumental built heritage | Distinct early Serbian coronation monastery; uniqueness lower. One monastic complex; depth lower. Provisional comparison. |
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional fortified complex | Distinct early Serbian coronation monastery; uniqueness higher. One monastic complex; depth lower. Provisional comparison. |
-| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (profile not checked) | coherent historic fabric | Distinct early Serbian coronation monastery; uniqueness not quantified. One monastic complex; depth not quantified. Provisional comparison. |
-| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (profile not checked) | large historic estate | Distinct early Serbian coronation monastery; uniqueness not quantified. One monastic complex; depth not quantified. Provisional comparison. |
+| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | coherent historic fabric | Distinct early Serbian coronation monastery; uniqueness lower. One monastic complex; depth lower. Provisional comparison. |
+| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (9.4 / 9.3 / 9.6 / 9.5 / 9.3) | large historic estate | Distinct early Serbian coronation monastery; uniqueness lower. One monastic complex; depth lower. Provisional comparison. |
 
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
@@ -1270,8 +1277,8 @@
 - Action: new
 - Precise subject: Ravanica Monastery; One monastery.
 - Location check: 43.965, 21.496; approximate representative point, independent verification pending.
-- Evidence status: editorial-only
-- Evidence: No individual supporting source checked; editorial judgment.
+- Evidence status: source-linked-unverified
+- Evidence: https://www.serbia.travel/en/monasteries-of-moravian-serbia/ — National tourism authority describes 14th-century monastery, remaining defensive walls and religious heritage. Reviewed 2026-11-25; partial evidence, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, permitted access and material claim corroboration; narrower peer comparisons.
 
 #### Worldwide peer comparisons
@@ -1279,8 +1286,8 @@
 | --- | --- | --- |
 | [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | monumental built heritage | Distinct medieval royal monastic architecture; uniqueness lower. One monastery; depth lower. Provisional comparison. |
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional fortified complex | Distinct medieval royal monastic architecture; uniqueness higher. One monastery; depth lower. Provisional comparison. |
-| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (profile not checked) | coherent historic fabric | Distinct medieval royal monastic architecture; uniqueness not quantified. One monastery; depth not quantified. Provisional comparison. |
-| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (profile not checked) | large historic estate | Distinct medieval royal monastic architecture; uniqueness not quantified. One monastery; depth not quantified. Provisional comparison. |
+| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | coherent historic fabric | Distinct medieval royal monastic architecture; uniqueness lower. One monastery; depth lower. Provisional comparison. |
+| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (9.4 / 9.3 / 9.6 / 9.5 / 9.3) | large historic estate | Distinct medieval royal monastic architecture; uniqueness lower. One monastery; depth lower. Provisional comparison. |
 
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
@@ -1305,17 +1312,19 @@
 - Action: new
 - Precise subject: Resava Cave; Single permitted cave circuit.
 - Location check: 44.066, 21.628; approximate representative point, independent verification pending.
-- Evidence status: editorial-only
-- Evidence: No individual supporting source checked; editorial judgment.
+- Evidence status: source-linked-unverified
+- Evidence: https://resavskapecina.rs/ — Cave operator documents regular guided visits; https://www.showcaves.com/english/rs/showcaves/Resavska.html describes approximately 800 m, 45-minute circuit. No entire cave access presumed. Reviewed 2026-11-25; partial evidence, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, permitted access and material claim corroboration; narrower peer comparisons.
 
 #### Worldwide peer comparisons
 | Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
 | --- | --- | --- |
-| [Jiuzhaigou Valley (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) (profile not checked) | world-leading mountain and water landscape | Distinct regional karst show cave; uniqueness not quantified. Single permitted cave circuit; depth not quantified. Provisional comparison. |
-| [Hohe Tauern (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) (profile not checked) | extensive mountain park | Distinct regional karst show cave; uniqueness not quantified. Single permitted cave circuit; depth not quantified. Provisional comparison. |
-| [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (profile not checked) | protected habitat and wildlife | Distinct regional karst show cave; uniqueness not quantified. Single permitted cave circuit; depth not quantified. Provisional comparison. |
-| [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (profile not checked) | regional nature park | Distinct regional karst show cave; uniqueness not quantified. Single permitted cave circuit; depth not quantified. Provisional comparison. |
+| [Križna Cave (SI)](../../../countries/SI/sights/krizna-cave.yaml) (9.1 / 9.3 / 8.8 / 8.7 / 7.8) | limited cave circuit | Resava has less distinctive geology and shorter typical route. |
+| [Ochtinská (SK)](../../../countries/SK/sights/ochtinska.yaml) (9 / 9.5 / 9.2 / 8.8 / 7.3) | short show cave | Resava has less rare mineral formation, somewhat greater ordinary route depth. |
+| [Jiuzhaigou Valley (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) (9.8 / 9.7 / 9.4 / 9.8 / 9.1) | world-leading mountain and water landscape | Distinct regional karst show cave; uniqueness lower. Single permitted cave circuit; depth lower. Provisional comparison. |
+| [Hohe Tauern (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) (9.4 / 9.1 / 9 / 9.5 / 9.4) | extensive mountain park | Distinct regional karst show cave; uniqueness lower. Single permitted cave circuit; depth lower. Provisional comparison. |
+| [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (8.9 / 9 / 9 / 9.1 / 8.6) | protected habitat and wildlife | Distinct regional karst show cave; uniqueness lower. Single permitted cave circuit; depth lower. Provisional comparison. |
+| [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional nature park | Distinct regional karst show cave; uniqueness lower. Single permitted cave circuit; depth lower. Provisional comparison. |
 
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
@@ -1324,13 +1333,13 @@
 | Uniqueness | — | 8.7 | Distinct regional karst show cave |
 | Significance | — | 8.5 | Regional geological heritage |
 | Experience | — | 8.7 | Managed guided route |
-| Depth | — | 8.1 | Single permitted cave circuit |
+| Depth | — | 7.6 | Approximately 45-minute standard circuit; restricted cave sections excluded |
 
 - Applicable category scores: nature: 9.2, photography: 9.1.
-- Computed worldwide overall: 86.30/100.
+- Computed worldwide overall: 85.80/100.
 - High-score challenge: Not applicable.
 - Approved 10 registry: none.
-- Final decision: Scope-limited editorial rating: Distinct regional karst show cave; Single permitted cave circuit.
+- Final decision: 85.80 after ordinary guided-route depth review.
 - Earlier decision: none.
 - Verification still needed: independent facts, permitted access and narrower same-type peers.
 
@@ -1340,17 +1349,17 @@
 - Action: new
 - Precise subject: Palić Lake and historic resort park; Defined lake and resort landscape not Subotica.
 - Location check: 46.094, 19.756; approximate representative point, independent verification pending.
-- Evidence status: editorial-only
-- Evidence: No individual supporting source checked; editorial judgment.
+- Evidence status: source-linked-unverified
+- Evidence: https://www.serbia.travel/en/palic/ — National tourism authority identifies cycling, pedal boats and catamaran visits; https://visitsubotica.rs/en/turisticka-ponuda//excursions-and-routes/palic-nature-park/ documents protected wetland and bird habitats. Reviewed 2026-11-25; partial evidence, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, permitted access and material claim corroboration; narrower peer comparisons.
 
 #### Worldwide peer comparisons
 | Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
 | --- | --- | --- |
-| [Jiuzhaigou Valley (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) (profile not checked) | world-leading mountain and water landscape | Distinct historic resort ensemble; uniqueness not quantified. Defined lake and resort landscape not Subotica; depth not quantified. Provisional comparison. |
-| [Hohe Tauern (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) (profile not checked) | extensive mountain park | Distinct historic resort ensemble; uniqueness not quantified. Defined lake and resort landscape not Subotica; depth not quantified. Provisional comparison. |
-| [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (profile not checked) | protected habitat and wildlife | Distinct historic resort ensemble; uniqueness not quantified. Defined lake and resort landscape not Subotica; depth not quantified. Provisional comparison. |
-| [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (profile not checked) | regional nature park | Distinct historic resort ensemble; uniqueness not quantified. Defined lake and resort landscape not Subotica; depth not quantified. Provisional comparison. |
+| [Jiuzhaigou Valley (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) (9.8 / 9.7 / 9.4 / 9.8 / 9.1) | world-leading mountain and water landscape | Distinct historic resort ensemble; uniqueness lower. Defined lake and resort landscape not Subotica; depth lower. Provisional comparison. |
+| [Hohe Tauern (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) (9.4 / 9.1 / 9 / 9.5 / 9.4) | extensive mountain park | Distinct historic resort ensemble; uniqueness lower. Defined lake and resort landscape not Subotica; depth lower. Provisional comparison. |
+| [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (8.9 / 9 / 9 / 9.1 / 8.6) | protected habitat and wildlife | Distinct historic resort ensemble; uniqueness lower. Defined lake and resort landscape not Subotica; depth lower. Provisional comparison. |
+| [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional nature park | Distinct historic resort ensemble; uniqueness lower. Defined lake and resort landscape not Subotica; depth lower. Provisional comparison. |
 
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
@@ -1382,10 +1391,10 @@
 #### Worldwide peer comparisons
 | Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
 | --- | --- | --- |
-| [Jiuzhaigou Valley (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) (profile not checked) | world-leading mountain and water landscape | Distinct dramatic Drina viewpoint; uniqueness not quantified. One viewpoint not all Tara; depth not quantified. Provisional comparison. |
-| [Hohe Tauern (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) (profile not checked) | extensive mountain park | Distinct dramatic Drina viewpoint; uniqueness not quantified. One viewpoint not all Tara; depth not quantified. Provisional comparison. |
-| [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (profile not checked) | protected habitat and wildlife | Distinct dramatic Drina viewpoint; uniqueness not quantified. One viewpoint not all Tara; depth not quantified. Provisional comparison. |
-| [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (profile not checked) | regional nature park | Distinct dramatic Drina viewpoint; uniqueness not quantified. One viewpoint not all Tara; depth not quantified. Provisional comparison. |
+| [Jiuzhaigou Valley (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) (9.8 / 9.7 / 9.4 / 9.8 / 9.1) | world-leading mountain and water landscape | Distinct dramatic Drina viewpoint; uniqueness lower. One viewpoint not all Tara; depth lower. Provisional comparison. |
+| [Hohe Tauern (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) (9.4 / 9.1 / 9 / 9.5 / 9.4) | extensive mountain park | Distinct dramatic Drina viewpoint; uniqueness lower. One viewpoint not all Tara; depth lower. Provisional comparison. |
+| [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (8.9 / 9 / 9 / 9.1 / 8.6) | protected habitat and wildlife | Distinct dramatic Drina viewpoint; uniqueness lower. One viewpoint not all Tara; depth lower. Provisional comparison. |
+| [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional nature park | Distinct dramatic Drina viewpoint; uniqueness lower. One viewpoint not all Tara; depth lower. Provisional comparison. |
 
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
@@ -1410,8 +1419,8 @@
 - Action: new
 - Precise subject: Ćele Kula (Skull Tower), Niš; One memorial not whole city.
 - Location check: 43.312, 21.924; approximate representative point, independent verification pending.
-- Evidence status: editorial-only
-- Evidence: No individual supporting source checked; editorial judgment.
+- Evidence status: source-linked-unverified
+- Evidence: https://narodnimuzejnis.rs/en/za-posetioce/radno-vreme/ — National Museum Niš documents normal admission hours; https://narodnimuzejnis.rs/en/za-posetioce/ulaznice/ lists ticket. Reviewed 2026-11-25; partial evidence, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, permitted access and material claim corroboration; narrower peer comparisons.
 
 #### Worldwide peer comparisons
@@ -1419,8 +1428,8 @@
 | --- | --- | --- |
 | [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | monumental built heritage | Distinct preserved testimony to Ottoman-era conflict; uniqueness similar. One memorial not whole city; depth lower. Provisional comparison. |
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional fortified complex | Distinct preserved testimony to Ottoman-era conflict; uniqueness higher. One memorial not whole city; depth lower. Provisional comparison. |
-| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (profile not checked) | coherent historic fabric | Distinct preserved testimony to Ottoman-era conflict; uniqueness not quantified. One memorial not whole city; depth not quantified. Provisional comparison. |
-| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (profile not checked) | large historic estate | Distinct preserved testimony to Ottoman-era conflict; uniqueness not quantified. One memorial not whole city; depth not quantified. Provisional comparison. |
+| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | coherent historic fabric | Distinct preserved testimony to Ottoman-era conflict; uniqueness lower. One memorial not whole city; depth lower. Provisional comparison. |
+| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (9.4 / 9.3 / 9.6 / 9.5 / 9.3) | large historic estate | Distinct preserved testimony to Ottoman-era conflict; uniqueness lower. One memorial not whole city; depth lower. Provisional comparison. |
 
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
@@ -1454,8 +1463,8 @@
 | --- | --- | --- |
 | [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | monumental built heritage | Distinct urban military heritage; uniqueness lower. Defined fortress; depth lower. Provisional comparison. |
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional fortified complex | Distinct urban military heritage; uniqueness lower. Defined fortress; depth similar. Provisional comparison. |
-| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (profile not checked) | coherent historic fabric | Distinct urban military heritage; uniqueness not quantified. Defined fortress; depth not quantified. Provisional comparison. |
-| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (profile not checked) | large historic estate | Distinct urban military heritage; uniqueness not quantified. Defined fortress; depth not quantified. Provisional comparison. |
+| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | coherent historic fabric | Distinct urban military heritage; uniqueness lower. Defined fortress; depth lower. Provisional comparison. |
+| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (9.4 / 9.3 / 9.6 / 9.5 / 9.3) | large historic estate | Distinct urban military heritage; uniqueness lower. Defined fortress; depth lower. Provisional comparison. |
 
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
@@ -1480,8 +1489,8 @@
 - Action: new
 - Precise subject: Subotica Synagogue; One building.
 - Location check: 46.101, 19.661; approximate representative point, independent verification pending.
-- Evidence status: editorial-only
-- Evidence: No individual supporting source checked; editorial judgment.
+- Evidence status: source-linked-unverified
+- Evidence: https://vojvodina.travel/en/experiences/synagogue-subotica/ — Regional tourism authority documents distinctive architecture; https://www.suboticasinagoga.rs/en/visits/contact identifies operator and address. Reviewed 2026-11-25; partial evidence, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, permitted access and material claim corroboration; narrower peer comparisons.
 
 #### Worldwide peer comparisons
@@ -1489,8 +1498,8 @@
 | --- | --- | --- |
 | [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | monumental built heritage | Distinct Hungarian Secession synagogue architecture; uniqueness similar. One building; depth lower. Provisional comparison. |
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional fortified complex | Distinct Hungarian Secession synagogue architecture; uniqueness higher. One building; depth lower. Provisional comparison. |
-| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (profile not checked) | coherent historic fabric | Distinct Hungarian Secession synagogue architecture; uniqueness not quantified. One building; depth not quantified. Provisional comparison. |
-| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (profile not checked) | large historic estate | Distinct Hungarian Secession synagogue architecture; uniqueness not quantified. One building; depth not quantified. Provisional comparison. |
+| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | coherent historic fabric | Distinct Hungarian Secession synagogue architecture; uniqueness lower. One building; depth lower. Provisional comparison. |
+| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (9.4 / 9.3 / 9.6 / 9.5 / 9.3) | large historic estate | Distinct Hungarian Secession synagogue architecture; uniqueness lower. One building; depth lower. Provisional comparison. |
 
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
