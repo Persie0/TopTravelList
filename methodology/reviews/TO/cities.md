@@ -33,7 +33,7 @@
 | Depth | 7.4 | Several independent urban experiences, not a major metropolis |
 
 - Applicable category scores: culture: 8.1, history: 8.0, architecture: 7.4, food: 7.2
-- Overall: 75.45/100
+- Overall: 75.45/100.
 - High-score challenge: no 9.5+ fields or 90+ total.
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide editorial assessment based on the independent field decisions.
@@ -69,7 +69,7 @@
 | Depth | 7.1 | Several town-scale venues but offshore activities excluded |
 
 - Applicable category scores: culture: 7.5, food: 7.3, photography: 7.8
-- Overall: 73.50/100
+- Overall: 73.50/100.
 - High-score challenge: no 9.5+ fields or 90+ total.
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide editorial assessment based on the independent field decisions.
@@ -105,7 +105,7 @@
 | Depth | 6.9 | Several meaningful historic points but limited urban breadth |
 
 - Applicable category scores: history: 8.7, culture: 8.2, photography: 7.3
-- Overall: 75.70/100
+- Overall: 75.70/100.
 - High-score challenge: no 9.5+ fields or 90+ total.
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide editorial assessment based on the independent field decisions.
@@ -141,7 +141,7 @@
 | Depth | 6.1 | Limited public attractions beyond central streets |
 
 - Applicable category scores: culture: 7.1, history: 6.7
-- Overall: 66.20/100
+- Overall: 66.20/100.
 - High-score challenge: no 9.5+ fields or 90+ total.
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide editorial assessment based on the independent field decisions.
@@ -179,7 +179,7 @@
 | Depth | null | 5.6 | Limited independent village breadth |
 
 - Applicable category scores: none assessed (unchanged).
-- Overall: 62.40/100
+- Overall: 62.40/100.
 - High-score challenge: no 9.5+ or 90+ claims introduced.
 - Approved 10 registry: none.
 - Final decision: provisionally ranked on documented visitor scope; not full independent verification.
@@ -216,9 +216,41 @@
 | Depth | null | 6.0 | Several activities at one farm, not a broad network of independent settlement attractions. |
 
 - Applicable category scores: culture 7.5, food 7.3; provisional.
-- Overall: 65.20/100
+- Overall: 65.20/100.
 - High-score challenge: no 9.5+ fields or 90+ total.
 - Approved 10 registry: none.
 - Final decision: Complete provisional v2 profile, compared against actual branch YAML peers.
 - Earlier decision: prior incomplete profile for this ID. See [previous decision and sources](history-evidence-followup-2026-11-25.md).
 - Verification still needed: Townscape and exact settlement point need corroboration. Sources describe the same farm, so breadth is intentionally modest; no guarantee of current booking availability. Canonical worldwide diagnostics outstanding.
+
+
+## city-to-hihifo-niuatoputapu — Hihifo (Niuatoputapu) — 2026-11-25
+
+- YAML: [source](../../../countries/TO/cities/hihifo-niuatoputapu.yaml)
+- Action: new
+- Precise subject: Niuatoputapu village only, not similarly named settlements on other islands, the island's landscape, or offshore excursions.
+- Location check: -15.95666, -173.79618; named OSM node 3362830131 via Mapcarta and nearby GeoNames administrative locality. Representative settlement point.
+- Evidence status: **unassessed**
+- Sources (accessed 2026-11-25):
+  - https://mapcarta.com/20410916 — named settlement, location, local civic facilities.
+  - https://www.geonames.org/advanced-search.html?country=TO&q=&startRow=50 — corroborating regional locality, not the exact same map point.
+- Missing facts: settlement-specific ordinary visitor features and customary access.
+
+### Worldwide peer comparisons
+- [Koror (PW)](../../../countries/PW/cities/koror.yaml): 7.3/8.0/7.8/8.2/7.7; broader documented town activities.
+- [Majuro (MH)](../../../countries/MH/cities/majuro.yaml): 6.5/7.9/7.5/7.1/6.9; larger capital with documented visitor scope.
+- [Likiep Village (MH)](../../../countries/MH/cities/likiep.yaml): 6.9/8.0/8.1/6.8/6.7; documented historic village fabric.
+- [Pangai (TO)](../../../countries/TO/cities/pangai.yaml): 6.4/7.0/6.6/6.8/6.1; separately documented regional center.
+
+### Scoring decisions
+- Impact: null — village-specific visitor-visible setting not assessed.
+- Uniqueness: null — comparative village evidence insufficient.
+- Significance: null — civic role alone does not establish comparative travel significance.
+- Experience: null — no established ordinary visitor itinerary.
+- Depth: null — visitor breadth unverified.
+- Applicable categories: none assessed.
+- Overall: unranked.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: inventory only; no transfer of island-wide merits.
+- Verification still needed: village-specific research and permitted public experiences.
