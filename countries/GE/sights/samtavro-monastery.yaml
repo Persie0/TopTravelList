@@ -1,0 +1,16 @@
+id: sight-ge-samtavro-monastery
+name: "Samtavro Monastery"
+location:
+  country_code: GE
+  latitude: 41.847
+  longitude: 44.719
+scores:
+  impact: 7.8
+  uniqueness: 8.0
+  significance: 8.7
+  experience: 7.7
+  depth: 7.2
+  categories:
+    architecture: 8.4
+    history: 8.7
+    culture: 8.3

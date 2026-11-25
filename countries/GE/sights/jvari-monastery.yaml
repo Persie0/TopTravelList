@@ -1,0 +1,16 @@
+id: sight-ge-jvari-monastery
+name: "Jvari Monastery"
+location:
+  country_code: GE
+  latitude: 41.83865
+  longitude: 44.733
+scores:
+  impact: 8.7
+  uniqueness: 8.5
+  significance: 9.0
+  experience: 8.3
+  depth: 7.1
+  categories:
+    architecture: 8.8
+    history: 9.0
+    photography: 9.0

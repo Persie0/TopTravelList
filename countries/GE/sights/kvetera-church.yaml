@@ -1,0 +1,15 @@
+id: sight-ge-kvetera-church
+name: "Kvetera Church"
+location:
+  country_code: GE
+  latitude: 42.033333
+  longitude: 45.1
+scores:
+  impact: 7.4
+  uniqueness: 8.0
+  significance: 8.0
+  experience: null
+  depth: null
+  categories:
+    architecture: 8.5
+    history: 8.1
