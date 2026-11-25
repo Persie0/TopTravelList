@@ -18,6 +18,15 @@ All four islands require advance vessel permission under the 2026 Immigration Co
 - Anse Cocos trail (SC): comparable coastal hike but different geology
 - Sigiriya (LK): substantially greater archaeological scale
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from territory branch YAML; editorial comparisons, not independent factual verification.
+
+- [jacobs ladder (SH)](../../../countries/SH/sights/jacobs-ladder.yaml) — 8.4/8.5/8.2/8.3/7.1; Comparable focused steep ascent, stronger documented engineering heritage.
+- [anse major nature trail (SC)](../../../countries/SC/sights/anse-major-nature-trail.yaml) — 8.7/8.4/6.7/8.7/7.5; Comparable coastal trail with more developed scenic walking scope.
+- [sigiriya ancient city and rock fortress (LK)](../../../countries/LK/sights/sigiriya-ancient-city-and-rock-fortress.yaml) — 9.8/9.8/9.5/9.6/9.2; Far greater interpreted archaeological and monumental scope.
+- [rangko cave (ID)](../../../countries/ID/sights/rangko-cave.yaml) — 8.6/8.8/7.0/8.8/7.5; Focused cave experience, different aquatic setting.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -50,6 +59,15 @@ All four islands require advance vessel permission under the 2026 Immigration Co
 - Historic Dockyard Museum (FK): wider maritime precinct
 - National Maritime Museum (GB): much broader collections
 - National Museum of Bermuda (BM): stronger fort and exhibit breadth
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from territory branch YAML; editorial comparisons, not independent factual verification.
+
+- [museum st helena (SH)](../../../countries/SH/sights/museum-st-helena.yaml) — 7.5/8.3/8.6/8.0/7.5; Close island history museum with comparable interpretation.
+- [historic dockyard museum (FK)](../../../countries/FK/sights/historic-dockyard-museum.yaml) — 8.0/8.6/8.8/8.5/8.6; Greater maritime collection and precinct breadth.
+- [national museum (BM)](../../../countries/BM/sights/national-museum.yaml) — 8.6/8.8/9.0/8.7/8.8; Larger interpreted maritime and fortified site.
+- [national museum cambodia (KH)](../../../countries/KH/sights/national-museum-cambodia.yaml) — 8.8/9.1/9.3/9.1/8.8; Much greater archaeological collection and depth.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -84,6 +102,15 @@ All four islands require advance vessel permission under the 2026 Immigration Co
 - Jamestown waterfront (SH): more extensive historic urban context
 - Port Arthur (AU): much richer interpreted heritage
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from territory branch YAML; editorial comparisons, not independent factual verification.
+
+- [grytviken (GS)](../../../countries/GS/sights/grytviken.yaml) — 8.9/9.3/9.4/8.9/8.8; More extensive remote maritime industrial heritage and interpreted structures.
+- [fortuna bay (GS)](../../../countries/GS/sights/fortuna-bay.yaml) — 9.0/8.9/9.1/8.9/8.8; Greater wilderness walking and natural landscape scope.
+- [direction island (CC)](../../../countries/CC/sights/direction-island.yaml) — 9.1/8.6/8.0/8.7/8.1; Comparable island landing area and documented maritime heritage trail, different coastal form.
+- [jogasaki coast (JP)](../../../countries/JP/sights/jogasaki-coast.yaml) — 8.6/8.5/7.8/8.8/8.5; More extensive developed coastal walking and views, not a historic harbor.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -116,6 +143,15 @@ All four islands require advance vessel permission under the 2026 Immigration Co
 - Porto Moniz (PT): broader lava pool complex
 - To Sua Ocean Trench (WS): more distinctive geological enclosure
 - Sandy Bay (SH): broader coastal landscape
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from territory branch YAML; editorial comparisons, not independent factual verification.
+
+- [weekuri lagoon (ID)](../../../countries/ID/sights/weekuri-lagoon.yaml) — 9.0/9.0/7.2/9.1/8.0; Close rock-enclosed coastal water feature with broader bathing scope.
+- [rangko cave (ID)](../../../countries/ID/sights/rangko-cave.yaml) — 8.6/8.8/7.0/8.8/7.5; Comparable concentrated water feature, enclosed cave rather than tidal pool.
+- [emily slaughter bays (NF)](../../../countries/NF/sights/emily-slaughter-bays.yaml) — 8.8/8.1/7.9/8.0/7.6; More extensive lagoon beach recreation, conditional access.
+- [tobago cays marine park (VC)](../../../countries/VC/sights/tobago-cays-marine-park.yaml) — 9.4/9.3/9.1/9.1/8.9; Broader reef-water recreation and visitor scope, not a single tidal pool.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -150,6 +186,15 @@ All four islands require advance vessel permission under the 2026 Immigration Co
 - Tsingoni heritage (YT): different localized heritage scale
 - Downstream rock art at Cueva de las Manos (AR): substantially richer documented art corpus
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from territory branch YAML; editorial comparisons, not independent factual verification.
+
+- [taputapuatea (PF)](../../../countries/PF/sights/taputapuatea.yaml) — 8.8/9.3/9.4/8.6/8.5; Greater ceremonial heritage significance, different archaeological setting.
+- [rano kau and orongo (CL)](../../../countries/CL/sights/rano-kau-and-orongo.yaml) — 9.4/9.4/9.5/8.8/8.3; Much more extensive coastal ceremonial and geological landscape.
+- [cueva de las manos (AR)](../../../countries/AR/sights/cueva-de-las-manos.yaml) — 8.7/9.5/9.7/8.2/7.6; Greater documented rock-art corpus and archaeology.
+- [anse major nature trail (SC)](../../../countries/SC/sights/anse-major-nature-trail.yaml) — 8.7/8.4/6.7/8.7/7.5; Comparable coastal hiking with less archaeological significance.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -182,6 +227,15 @@ All four islands require advance vessel permission under the 2026 Immigration Co
 - Grytviken cemetery (GS): wider exploration context
 - Grant's Tomb (US): far greater monument scale
 - Longwood House (SH): broader interpreted historical material
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from territory branch YAML; editorial comparisons, not independent factual verification.
+
+- [napoleons tomb (SH)](../../../countries/SH/sights/napoleons-tomb.yaml) — 7.8/8.7/9.0/7.7/6.5; More internationally significant historic association and similarly focused burial-site visit.
+- [asuka ishibutai tomb (JP)](../../../countries/JP/sights/asuka-ishibutai-tomb.yaml) — 8.4/8.9/9.1/8.4/7.6; Much more monumental historic tomb and visible architecture.
+- [tomok batak royal tombs (ID)](../../../countries/ID/sights/tomok-batak-royal-tombs.yaml) — 8.1/8.6/8.6/8.3/7.4; Broader interpreted customary funerary heritage.
+- [longwood house (SH)](../../../countries/SH/sights/longwood-house.yaml) — 8.5/9.2/9.3/8.5/8.2; Greater sustained historic interpretation and depth, different site type.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -216,6 +270,17 @@ All four islands require advance vessel permission under the 2026 Immigration Co
 - Teide (ES): stronger observatory and high-altitude infrastructure
 - Wadi Rum (JO): broader landscape and camping experience
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from territory branch YAML; editorial comparisons, not independent factual verification.
+
+- [atacama astronomical observing tours (CL)](../../../countries/CL/sights/atacama-astronomical-observing-tours.yaml) — 8.9/9.1/7.9/9.1/7.7; Close specialist astronomy visitor activity, more developed interpretation.
+- [teide (ES)](../../../countries/ES/sights/teide.yaml) — 9.5/9.4/9.3/9.2/9.3; More extensive mountain visitor landscape with astronomical context, not an observation-only score.
+- [wadi rum protected area (JO)](../../../countries/JO/sights/wadi-rum-protected-area.yaml) — 9.8/9.7/9.4/9.6/9.5; Much wider desert scenic and overnight experience, not dedicated dark-sky rating.
+- [mykines (FO)](../../../countries/FO/sights/mykines.yaml) — 9.1/9.0/8.6/8.7/8.4; Remote island landscape contrast, not a direct astronomical benchmark.
+
+Only Atacama is an activity-specific astronomical comparator; broader landscape benchmarks constrain scope, not measured sky quality.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -248,6 +313,17 @@ All four islands require advance vessel permission under the 2026 Immigration Co
 - Gough and Inaccessible Islands (SH): comparable restricted UNESCO ecosystem
 - Galápagos (EC): more established managed visitor network
 - Macquarie Island (AU): different but remote protected island
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from territory branch YAML; editorial comparisons, not independent factual verification.
+
+- [aldabra atoll (SC)](../../../countries/SC/sights/aldabra-atoll.yaml) — 9.5/9.8/9.8/8.0/7.6; Exceptional remote protected island ecology with documented regulated visitor experience.
+- [galapagos islands world heritage property (EC)](../../../countries/EC/sights/galapagos-islands-world-heritage-property.yaml) — 9.9/9.9/9.9/9.5/9.3; Much greater established managed visitor network and evolutionary heritage.
+- [ogasawara islands (JP)](../../../countries/JP/sights/ogasawara-islands.yaml) — 9.5/9.7/9.5/9.2/9.4; Comparable isolated endemic island landscape with documented ordinary visits.
+- [mykines (FO)](../../../countries/FO/sights/mykines.yaml) — 9.1/9.0/8.6/8.7/8.4; Managed island wildlife trail and more established visitor scope.
+
+Keep visitor-related nulls: conservation importance and other islands' authorized visits do not establish routine access here.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -282,6 +358,17 @@ All four islands require advance vessel permission under the 2026 Immigration Co
 - Ducie (PN): similarly remote atoll
 - Aitutaki (CK): broader established lagoon tourism
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from territory branch YAML; editorial comparisons, not independent factual verification.
+
+- [aldabra atoll (SC)](../../../countries/SC/sights/aldabra-atoll.yaml) — 9.5/9.8/9.8/8.0/7.6; Greater internationally recognized remote atoll ecology and regulated visits.
+- [tubbataha (PH)](../../../countries/PH/sights/tubbataha.yaml) — 9.3/9.2/9.3/9.1/9.0; Higher protected reef significance and documented specialist visitation.
+- [direction island (CC)](../../../countries/CC/sights/direction-island.yaml) — 9.1/8.6/8.0/8.7/8.1; Documented public atoll-islet recreation, not transferable to Oeno.
+- [tobago cays marine park (VC)](../../../countries/VC/sights/tobago-cays-marine-park.yaml) — 9.4/9.3/9.1/9.1/8.9; Established tropical reef recreation, no evidence of Oeno permission.
+
+Keep visitor-related nulls: conservation importance and other islands' authorized visits do not establish routine access here.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -314,6 +401,17 @@ All four islands require advance vessel permission under the 2026 Immigration Co
 - Henderson (PN): stronger endemic terrestrial biodiversity
 - Aldabra (SC): larger and globally recognized ecosystem
 - Palmyra Atoll (UM): similarly restricted conservation setting
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from territory branch YAML; editorial comparisons, not independent factual verification.
+
+- [aldabra atoll (SC)](../../../countries/SC/sights/aldabra-atoll.yaml) — 9.5/9.8/9.8/8.0/7.6; Greater documented isolated coral island ecosystem.
+- [tubbataha (PH)](../../../countries/PH/sights/tubbataha.yaml) — 9.3/9.2/9.3/9.1/9.0; Broader protected reef ecosystem and specialist visitor scope.
+- [mykines (FO)](../../../countries/FO/sights/mykines.yaml) — 9.1/9.0/8.6/8.7/8.4; Established managed seabird island visits, not evidence of Ducie access.
+- [ogasawara islands (JP)](../../../countries/JP/sights/ogasawara-islands.yaml) — 9.5/9.7/9.5/9.2/9.4; Broader remote island conservation and documented visitor breadth.
+
+Keep visitor-related nulls: conservation importance and other islands' authorized visits do not establish routine access here.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
