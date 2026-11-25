@@ -894,3 +894,48 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: No independently checked per-record source; editorial judgment only.
 - Remaining gaps: Normal permitted visitor experience and routes unresolved.
+
+## Follow-up: sight-cv-pico-do-fogo — 2026-11-25 (worldwide review)
+
+- [YAML](../../../countries/CV/sights/pico-do-fogo.yaml) · Action: fact-check-only · **source-linked-unverified** (specific source excerpts inspected; not comprehensive verification).
+- Sources inspected: [https://visit-caboverde.com/en/islands/fogo-island](https://visit-caboverde.com/en/islands/fogo-island); [https://www.visit-caboverde.com/en/blog/between-lava-and-vineyards-a-3-day-adventure-on-fogo-island](https://www.visit-caboverde.com/en/blog/between-lava-and-vineyards-a-3-day-adventure-on-fogo-island).
+- Decision: Retain provisionally. Tourism authority confirms the active 2,829-m summit, striking lava and caldera setting and distinct summit ascent. Impact 9.6 and photography 9.6 represent an editorial comparison with Bromo and Ijen; Fuji remains stronger overall and Ijen more unusual geologically. Nature 9.5 reflects actual volcanic landform, not biodiversity. Depth 8.3 remains bounded to the summit outing, not all park routes. No current ascent or safety guarantee.
+- Retained I/U/S/E/D: 9.6 / 9.4 / 8.5 / 9.0 / 8.3; overall 91.10/100. No changes to categories, GPS, weights or perfect-score policy.
+
+| Current worldwide peer | I/U/S/E/D | Overall /100 | Comparison |
+| --- | --- | --- | --- |
+| [mount fuji (JP)](../../../countries/JP/sights/mount-fuji.yaml) | 9.8 / 9.7 / 9.5 / 9.2 / 9.3 | 95.75 | Global-defining visual and cultural prominence, greater overall breadth. |
+| [mount bromo (ID)](../../../countries/ID/sights/mount-bromo.yaml) | 9.5 / 9.4 / 8.5 / 9.3 / 8.5 | 91.45 | Comparable dramatic volcanic terrain; distinct crater and sea-of-sand experience. |
+| [ijen crater (ID)](../../../countries/ID/sights/ijen-crater.yaml) | 9.5 / 9.7 / 8.7 / 9.1 / 8.7 | 92.50 | Rarer sulfur and lake geology, somewhat broader experience. |
+| [santa ana volcano ilamatepec (SV)](../../../countries/SV/sights/santa-ana-volcano-ilamatepec.yaml) | 9.4 / 8.9 / 8.5 / 9.3 / 8.2 | 89.60 | Comparable summit hike with distinct crater lake; less singular inhabited volcanic setting. |
+
+
+## Follow-up: sight-cv-fogo-natural-park-cha-das-caldeiras — 2026-11-25 (worldwide review)
+
+- [YAML](../../../countries/CV/sights/fogo-natural-park-cha-das-caldeiras.yaml) · Action: fact-check-only · **source-linked-unverified** (specific source excerpts inspected; not comprehensive verification).
+- Sources inspected: [https://visit-caboverde.com/en/things-to-do/nature-and-adventure](https://visit-caboverde.com/en/things-to-do/nature-and-adventure); [https://visit-caboverde.com/en/islands/fogo-island](https://visit-caboverde.com/en/islands/fogo-island).
+- Decision: Retain provisionally. Tourism authority lists multiple trails, caldera walks and local wineries in addition to the peak. Thus the park can have more depth than a single summit outing. Nature and photography 9.5 concern the unusual caldera and lava landscape; the broader park is not credited with visiting every settlement or every inaccessible feature. Significance 8.8 remains below world-defining volcanic landscapes. No independent verification of every route or category.
+- Retained I/U/S/E/D: 9.4 / 9.4 / 8.8 / 8.9 / 9.1; overall 91.75/100. No changes to categories, GPS, weights or perfect-score policy.
+
+| Current worldwide peer | I/U/S/E/D | Overall /100 | Comparison |
+| --- | --- | --- | --- |
+| [mount fuji (JP)](../../../countries/JP/sights/mount-fuji.yaml) | 9.8 / 9.7 / 9.5 / 9.2 / 9.3 | 95.75 | Global-defining visual and cultural prominence, greater overall breadth. |
+| [mount bromo (ID)](../../../countries/ID/sights/mount-bromo.yaml) | 9.5 / 9.4 / 8.5 / 9.3 / 8.5 | 91.45 | Comparable dramatic volcanic terrain; distinct crater and sea-of-sand experience. |
+| [ijen crater (ID)](../../../countries/ID/sights/ijen-crater.yaml) | 9.5 / 9.7 / 8.7 / 9.1 / 8.7 | 92.50 | Rarer sulfur and lake geology, somewhat broader experience. |
+| [santa ana volcano ilamatepec (SV)](../../../countries/SV/sights/santa-ana-volcano-ilamatepec.yaml) | 9.4 / 8.9 / 8.5 / 9.3 / 8.2 | 89.60 | Comparable summit hike with distinct crater lake; less singular inhabited volcanic setting. |
+
+
+## Follow-up: sight-cv-santa-monica-beach — 2026-11-25 (worldwide review)
+
+- [YAML](../../../countries/CV/sights/santa-monica-beach.yaml) · Action: fact-check-only · **source-linked-unverified** (specific source excerpts inspected; not comprehensive verification).
+- Sources inspected: [https://www.visit-caboverde.com/en/islands/boa-vista-island](https://www.visit-caboverde.com/en/islands/boa-vista-island); [https://www.visit-caboverde.com/en/things-to-do/sun-and-beach](https://www.visit-caboverde.com/en/things-to-do/sun-and-beach).
+- Decision: Retain provisionally. Official tourism describes an expansive, pale-sand Atlantic shoreline. Beach 9.5 concerns shoreline scale and scenic quality, not guaranteed safe bathing. Anse Source d’Argent and Anse Lazio remain stronger in visual rarity and beach rating; Railay offers different formations and more varied activities. Existing experience and depth are bounded to this shore; no automatic bonus for nearby dunes or resorts.
+- Retained I/U/S/E/D: 9.4 / 8.9 / 6.5 / 8.7 / 8.0; overall 84.50/100. No changes to categories, GPS, weights or perfect-score policy.
+
+| Current worldwide peer | I/U/S/E/D | Overall /100 | Comparison |
+| --- | --- | --- | --- |
+| [anse source d argent (SC)](../../../countries/SC/sights/anse-source-d-argent.yaml) | 9.8 / 9.7 / 7.8 / 9.2 / 7.6 | 90.65 | Far more distinctive granite formations and visual rarity. |
+| [anse lazio (SC)](../../../countries/SC/sights/anse-lazio.yaml) | 9.5 / 9.1 / 7.2 / 9.2 / 7.5 | 86.95 | Stronger combined scenic and leisure quality; shorter shoreline. |
+| [railay beach (TH)](../../../countries/TH/sights/railay-beach.yaml) | 8.9 / 9.0 / 7.5 / 9.2 / 8.3 | 86.30 | Distinctive limestone landscape and more varied beach activities. |
+| [nha trang beach (VN)](../../../countries/VN/sights/nha-trang-beach.yaml) | 8.5 / 8.0 / 7.3 / 9.0 / 8.7 | 82.30 | More conventional urban beach; greater accessible activity breadth. |
+
