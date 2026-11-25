@@ -2,8 +2,8 @@ id: city-td-sarh
 name: "Sarh"
 location:
   country_code: TD
-  latitude: 9.14
-  longitude: 18.39
+  latitude: 9.145548
+  longitude: 18.383309
 scores:
   impact: null
   uniqueness: 6.9
