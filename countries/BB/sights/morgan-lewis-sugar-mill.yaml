@@ -1,0 +1,16 @@
+id: sight-bb-morgan-lewis-sugar-mill
+name: "Morgan Lewis Sugar Mill"
+location:
+  country_code: BB
+  latitude: 13.268
+  longitude: -59.574
+scores:
+  impact: 7.7
+  uniqueness: 9.1
+  significance: 8.6
+  experience: 8.2
+  depth: 6.5
+  categories:
+    history: 9.2
+    architecture: 8.8
+    culture: 8.8
