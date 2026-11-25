@@ -1,0 +1,15 @@
+id: sight-bn-tamu-bangar
+name: "Tamu Bangar"
+location:
+  country_code: BN
+  latitude: 4.7085
+  longitude: 115.0720
+scores:
+  impact: 6.6
+  uniqueness: 7.0
+  significance: 6.4
+  experience: 7.7
+  depth: 6.7
+  categories:
+    food: 7.9
+    culture: 7.5

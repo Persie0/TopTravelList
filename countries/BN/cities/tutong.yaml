@@ -1,0 +1,15 @@
+id: city-bn-tutong
+name: "Tutong"
+location:
+  country_code: BN
+  latitude: 4.8017
+  longitude: 114.6500
+scores:
+  impact: 6.2
+  uniqueness: 6.6
+  significance: 6.5
+  experience: 7.0
+  depth: 6.6
+  categories:
+    food: 7.4
+    culture: 7.3

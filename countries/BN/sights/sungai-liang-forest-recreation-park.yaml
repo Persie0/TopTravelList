@@ -1,0 +1,15 @@
+id: sight-bn-sungai-liang-forest-recreation-park
+name: "Sungai Liang Forest Recreation Park"
+location:
+  country_code: BN
+  latitude: 4.7010
+  longitude: 114.5180
+scores:
+  impact: 7.6
+  uniqueness: 7.7
+  significance: 7.2
+  experience: 8.0
+  depth: 7.7
+  categories:
+    nature: 8.5
+    relaxation: 8.2

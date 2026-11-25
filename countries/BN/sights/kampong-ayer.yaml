@@ -1,0 +1,16 @@
+id: sight-bn-kampong-ayer
+name: "Kampong Ayer"
+location:
+  country_code: BN
+  latitude: 4.8825
+  longitude: 114.9470
+scores:
+  impact: 8.5
+  uniqueness: 9.1
+  significance: 8.7
+  experience: 8.7
+  depth: 8.5
+  categories:
+    culture: 9.3
+    history: 8.9
+    photography: 8.9

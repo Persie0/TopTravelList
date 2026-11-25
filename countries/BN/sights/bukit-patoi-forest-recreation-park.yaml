@@ -1,0 +1,16 @@
+id: sight-bn-bukit-patoi-forest-recreation-park
+name: "Bukit Patoi Forest Recreation Park"
+location:
+  country_code: BN
+  latitude: 4.72524
+  longitude: 115.16492
+scores:
+  impact: 7.9
+  uniqueness: 8.0
+  significance: 7.3
+  experience: 8.3
+  depth: 8.0
+  categories:
+    nature: 8.7
+    adventure: 8.5
+    photography: 8.5

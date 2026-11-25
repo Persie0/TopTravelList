@@ -1,0 +1,16 @@
+id: sight-bn-tasek-merimbun-heritage-park
+name: "Tasek Merimbun Heritage Park"
+location:
+  country_code: BN
+  latitude: 4.59420
+  longitude: 114.67961
+scores:
+  impact: 8.3
+  uniqueness: 8.6
+  significance: 8.5
+  experience: 8.2
+  depth: 8.3
+  categories:
+    nature: 9.1
+    wildlife: 8.6
+    relaxation: 8.8

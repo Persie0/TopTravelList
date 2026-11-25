@@ -1,0 +1,15 @@
+id: sight-bn-teraja-longhouse
+name: "Teraja Longhouse"
+location:
+  country_code: BN
+  latitude: 4.3120
+  longitude: 114.4330
+scores:
+  impact: 7.4
+  uniqueness: 8.2
+  significance: 7.7
+  experience: 8.0
+  depth: 7.4
+  categories:
+    culture: 8.8
+    architecture: 8.2

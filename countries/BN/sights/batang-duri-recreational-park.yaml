@@ -1,0 +1,15 @@
+id: sight-bn-batang-duri-recreational-park
+name: "Batang Duri Recreational Park"
+location:
+  country_code: BN
+  latitude: 4.6270
+  longitude: 115.1230
+scores:
+  impact: 7.2
+  uniqueness: 7.4
+  significance: 6.6
+  experience: 7.8
+  depth: 7.2
+  categories:
+    nature: 8.1
+    relaxation: 8.0

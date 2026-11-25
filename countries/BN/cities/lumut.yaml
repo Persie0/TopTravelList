@@ -1,0 +1,14 @@
+id: city-bn-lumut
+name: "Lumut"
+location:
+  country_code: BN
+  latitude: 4.6650
+  longitude: 114.4540
+scores:
+  impact: 5.9
+  uniqueness: 6.1
+  significance: 6.4
+  experience: 6.6
+  depth: 6.2
+  categories:
+    food: 7.0

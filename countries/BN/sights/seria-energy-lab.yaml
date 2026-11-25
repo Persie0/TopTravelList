@@ -1,0 +1,15 @@
+id: sight-bn-seria-energy-lab
+name: "Seria Energy Lab"
+location:
+  country_code: BN
+  latitude: 4.6100
+  longitude: 114.3290
+scores:
+  impact: 7.5
+  uniqueness: 7.6
+  significance: 7.7
+  experience: 8.1
+  depth: 7.8
+  categories:
+    family: 8.4
+    history: 8.1
