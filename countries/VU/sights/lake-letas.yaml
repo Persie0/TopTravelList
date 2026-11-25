@@ -1,0 +1,15 @@
+id: sight-vu-lake-letas
+name: "Lake Letas"
+location:
+  country_code: VU
+  latitude: -14.45
+  longitude: 167.83333
+scores:
+  impact: 8.5
+  uniqueness: 8.6
+  significance: 8.7
+  experience: null
+  depth: null
+  categories:
+    nature: 8.8
+    wildlife: 8.3

@@ -2,7 +2,7 @@
 
 # Vanuatu (VU) — Sights & attractions ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**8 ranked** · **5 unassessed** · **13 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,11 +10,30 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (8)
 
-No sights & attractions have been assessed for **Vanuatu** yet.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Mount Yasur](sights/mount-yasur.yaml) | Mountain / peak | **90.85** | **Photography 9.5**, **Nature 9.4**, **Adventure 9.3** | 9.5 / 9.3 / 8.8 / 9.0 / 8.0 | [-19.52833, 169.44833](https://www.google.com/maps/search/?api=1&query=-19.52833,169.44833) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mount%20Yasur%2C%20Vanuatu) |
+| 2 | [SS President Coolidge](sights/ss-president-coolidge.yaml) | Attraction | **89.40** | **Adventure 9.2**, **History 9.0** | 8.9 / 9.2 / 8.7 / 9.0 / 8.8 | [-15.5183, 167.2247](https://www.google.com/maps/search/?api=1&query=-15.5183,167.2247) | [Google Maps](https://www.google.com/maps/search/?api=1&query=SS%20President%20Coolidge%2C%20Vanuatu) |
+| 3 | [Chief Roi Mata's Domain](sights/chief-roi-matas-domain.yaml) | Attraction | **86.20** | **Culture 9.3**, **History 9.2** | 8.3 / 9.1 / 9.1 / 8.1 / 8.2 | [-17.62807, 168.17772](https://www.google.com/maps/search/?api=1&query=-17.62807,168.17772) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Chief%20Roi%20Mata%27s%20Domain%2C%20Vanuatu) |
+| 4 | [Millennium Cave](sights/millennium-cave.yaml) | Cave | **84.90** | **Adventure 9.2**, **Nature 8.8**, **Photography 8.5** | 8.8 / 8.6 / 7.5 / 9.0 / 8.5 | [-15.395, 167.04](https://www.google.com/maps/search/?api=1&query=-15.395,167.04) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Millennium%20Cave%2C%20Vanuatu) |
+| 5 | [Million Dollar Point](sights/million-dollar-point.yaml) | Attraction | **80.75** | **History 8.4**, **Adventure 8.2** | 7.9 / 8.7 / 8.0 / 8.0 / 7.3 | [-15.52551, 167.24522](https://www.google.com/maps/search/?api=1&query=-15.52551,167.24522) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Million%20Dollar%20Point%2C%20Vanuatu) |
+| 6 | [Nanda Blue Hole](sights/nanda-blue-hole.yaml) | Attraction | **79.40** | **Photography 8.8**, **Nature 8.7**, **Relaxation 8.5** | 8.6 / 8.1 / 6.8 / 8.5 / 7.0 | [-15.3139, 167.1702](https://www.google.com/maps/search/?api=1&query=-15.3139,167.1702) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nanda%20Blue%20Hole%2C%20Vanuatu) |
+| 7 | [Champagne Beach](sights/champagne-beach.yaml) | Beach / bay | **78.25** | **Beaches 9.0**, **Relaxation 8.8**, **Photography 8.6**, Nature 8.3 | 8.6 / 7.8 / 6.4 / 8.7 / 7.1 | [-15.14351, 167.1205](https://www.google.com/maps/search/?api=1&query=-15.14351,167.1205) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Champagne%20Beach%2C%20Vanuatu) |
+| 8 | [Mele Cascades](sights/mele-cascades.yaml) | Attraction | **77.30** | **Nature 8.5**, **Photography 8.5**, **Adventure 8.0** | 8.3 / 7.5 / 6.7 / 8.5 / 7.5 | [-17.67357, 168.25313](https://www.google.com/maps/search/?api=1&query=-17.67357,168.25313) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mele%20Cascades%2C%20Vanuatu) |
 
-Add destination YAML files in [sights/](sights/), then regenerate the overview files.
+## Not yet fully assessed (5)
+
+These destinations have no rank until all five core scores are assessed.
+
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| — | [Lake Letas](sights/lake-letas.yaml) | Lake | **—** | **Nature 8.8**, **Wildlife 8.3** | 8.5 / 8.6 / 8.7 / — / — | [-14.45, 167.83333](https://www.google.com/maps/search/?api=1&query=-14.45,167.83333) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lake%20Letas%2C%20Vanuatu) |
+| — | [National Museum of Vanuatu](sights/national-museum-vanuatu.yaml) | Museum / heritage | **—** | **Culture 8.5**, **History 8.3** | 7.0 / 8.1 / 8.3 / — / — | [-17.736542, 168.31285](https://www.google.com/maps/search/?api=1&query=-17.736542,168.31285) | [Google Maps](https://www.google.com/maps/search/?api=1&query=National%20Museum%20of%20Vanuatu%2C%20Vanuatu) |
+| — | [The Nowon and Votwos of Ureparapara](sights/nowon-votwos-ureparapara.yaml) | Attraction | **—** | **Culture 8.9**, **History 8.8** | 7.4 / 8.8 / 8.7 / — / — | [-13.544583, 167.315914](https://www.google.com/maps/search/?api=1&query=-13.544583,167.315914) | [Google Maps](https://www.google.com/maps/search/?api=1&query=The%20Nowon%20and%20Votwos%20of%20Ureparapara%2C%20Vanuatu) |
+| — | [Vatthe Conservation Area](sights/vatthe-conservation-area.yaml) | Attraction | **—** | **Nature 8.5**, **Wildlife 8.4** | 7.9 / 8.0 / 8.6 / — / — | [-15.30611, 166.91472](https://www.google.com/maps/search/?api=1&query=-15.30611,166.91472) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Vatthe%20Conservation%20Area%2C%20Vanuatu) |
+| — | [Yalo, Apialo and the Sacred Geography of Northwest Malakula](sights/yalo-apialo-sacred-geography.yaml) | Attraction | **—** | **Culture 8.8**, **History 8.8** | — / 8.7 / 8.8 / — / — | [-16.025, 167.21667](https://www.google.com/maps/search/?api=1&query=-16.025,167.21667) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Yalo%2C%20Apialo%20and%20the%20Sacred%20Geography%20of%20Northwest%20Malakula%2C%20Vanuatu) |
 
 ---
 

@@ -1,0 +1,15 @@
+id: sight-vu-national-museum-vanuatu
+name: "National Museum of Vanuatu"
+location:
+  country_code: VU
+  latitude: -17.736542
+  longitude: 168.31285
+scores:
+  impact: 7.0
+  uniqueness: 8.1
+  significance: 8.3
+  experience: null
+  depth: null
+  categories:
+    culture: 8.5
+    history: 8.3
