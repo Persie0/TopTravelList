@@ -1,0 +1,15 @@
+id: sight-pe-huaca-rajada-sipan
+name: "Huaca Rajada (Sipán)"
+location:
+  country_code: PE
+  latitude: -6.8060
+  longitude: -79.6020
+scores:
+  impact: 8.3
+  uniqueness: 8.8
+  significance: 9.4
+  experience: 8.3
+  depth: 7.7
+  categories:
+    history: 9.6
+    architecture: 8.8

@@ -2,7 +2,7 @@
 
 # Peru (PE) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**36 ranked** · **0 unassessed** · **36 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,46 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, or click its GPS coordinates to open **Google Maps**. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (36)
 
-No cities, towns & villages have been assessed for **Peru** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps |
+| ---: | --- | --- | ---: | --- | --- | --- |
+| 1 | [Cusco](cities/cusco.yaml) | City / town | **93.65** | **History 9.7**, **Architecture 9.5**, **Culture 9.5**, Photography 9.4, Food 8.6 | 9.3 / 9.4 / 9.6 / 9.1 / 9.4 | [-13.5319, -71.9675](https://www.google.com/maps/search/?api=1&query=-13.5319,-71.9675) |
+| 2 | [Arequipa](cities/arequipa.yaml) | City / town | **89.65** | **Architecture 9.5**, **History 9.3**, **Photography 9.2**, Food 9.0 | 9.0 / 8.9 / 9.1 / 9.0 / 8.7 | [-16.409, -71.5375](https://www.google.com/maps/search/?api=1&query=-16.409,-71.5375) |
+| 3 | [Lima](cities/lima.yaml) | City / town | **87.95** | **Food 9.7**, **Culture 9.1**, **History 9.0**, Architecture 8.8 | 8.6 / 8.6 / 9.1 / 8.7 / 9.4 | [-12.0464, -77.0428](https://www.google.com/maps/search/?api=1&query=-12.0464,-77.0428) |
+| 4 | [Ollantaytambo](cities/ollantaytambo.yaml) | City / town | **85.00** | **History 9.2**, **Architecture 9.1**, **Photography 8.9**, Culture 8.8 | 8.4 / 8.9 / 8.8 / 8.5 / 7.2 | [-13.2581, -72.2643](https://www.google.com/maps/search/?api=1&query=-13.2581,-72.2643) |
+| 5 | [Ayacucho](cities/ayacucho.yaml) | City / town | **83.90** | **History 9.1**, **Architecture 9.0**, **Culture 9.0** | 8.2 / 8.5 / 8.8 / 8.3 / 8.0 | [-13.1631, -74.2236](https://www.google.com/maps/search/?api=1&query=-13.1631,-74.2236) |
+| 6 | [Cajamarca](cities/cajamarca.yaml) | City / town | **83.15** | **History 9.2**, **Architecture 8.9**, **Culture 8.5** | 8.1 / 8.4 / 8.8 / 8.3 / 7.8 | [-7.1617, -78.5128](https://www.google.com/maps/search/?api=1&query=-7.1617,-78.5128) |
+| 7 | [Iquitos](cities/iquitos.yaml) | City / town | **81.00** | **Culture 8.8**, **Food 8.4**, **History 8.3** | 8.0 / 8.5 / 7.8 / 8.1 / 8.0 | [-3.7437, -73.2516](https://www.google.com/maps/search/?api=1&query=-3.7437,-73.2516) |
+| 8 | [Trujillo](cities/trujillo.yaml) | City / town | **80.75** | **Architecture 8.7**, **History 8.7**, **Culture 8.4** | 8.0 / 8.0 / 8.3 / 8.1 / 8.0 | [-8.1116, -79.0288](https://www.google.com/maps/search/?api=1&query=-8.1116,-79.0288) |
+| 9 | [Puno](cities/puno.yaml) | City / town | **77.70** | **Culture 8.7**, **History 8.1**, **Photography 8.1** | 7.7 / 8.0 / 7.8 / 7.8 / 7.3 | [-15.8402, -70.0219](https://www.google.com/maps/search/?api=1&query=-15.8402,-70.0219) |
+| 10 | [Pisac](cities/pisac.yaml) | City / town | **77.00** | **Culture 8.6**, **Photography 8.3**, **Food 8.0** | 7.7 / 8.0 / 7.3 / 8.2 / 7.0 | [-13.4225, -71.846](https://www.google.com/maps/search/?api=1&query=-13.4225,-71.846) |
+| 11 | [Huanchaco](cities/huanchaco.yaml) | City / town | **76.75** | **Culture 8.6**, **Beaches 8.3**, **Food 8.1** | 7.6 / 8.1 / 7.3 / 8.2 / 6.8 | [-8.0795, -79.121](https://www.google.com/maps/search/?api=1&query=-8.0795,-79.121) |
+| 12 | [Huacachina](cities/huacachina.yaml) | City / town | **74.85** | **Photography 8.9**, **Relaxation 8.4** | 8.0 / 8.2 / 6.1 / 8.1 / 6.0 | [-14.0875, -75.7633](https://www.google.com/maps/search/?api=1&query=-14.0875,-75.7633) |
+| 13 | [Chachapoyas](cities/chachapoyas.yaml) | City / town | **74.65** | **Architecture 8.1**, **Photography 8.1**, **Culture 8.0** | 7.3 / 7.6 / 7.5 / 7.9 / 6.9 | [-6.2294, -77.872](https://www.google.com/maps/search/?api=1&query=-6.2294,-77.872) |
+| 14 | [Callao](cities/callao.yaml) | City / town | **74.30** | **History 8.5**, **Culture 8.1**, **Architecture 7.9** | 7.0 / 7.6 / 8.0 / 7.2 / 7.5 | [-12.0566, -77.118](https://www.google.com/maps/search/?api=1&query=-12.0566,-77.118) |
+| 15 | [Huancavelica](cities/huancavelica.yaml) | City / town | **73.40** | **History 8.3**, **Architecture 8.0**, **Culture 7.9** | 7.1 / 7.6 / 7.7 / 7.4 / 6.6 | [-12.7862, -74.9756](https://www.google.com/maps/search/?api=1&query=-12.7862,-74.9756) |
+| 16 | [Tacna](cities/tacna.yaml) | City / town | **73.00** | **History 8.2**, **Food 8.1** | 7.0 / 7.2 / 7.6 / 7.6 / 7.4 | [-18.0066, -70.2463](https://www.google.com/maps/search/?api=1&query=-18.0066,-70.2463) |
+| 17 | [Chiclayo](cities/chiclayo.yaml) | City / town | **72.55** | **Food 8.5**, **Culture 7.9** | 6.9 / 7.3 / 7.4 / 7.6 / 7.4 | [-6.7714, -79.8409](https://www.google.com/maps/search/?api=1&query=-6.7714,-79.8409) |
+| 18 | [Chivay](cities/chivay.yaml) | City / town | **72.45** | **Culture 8.2**, **Photography 7.9** | 7.2 / 7.6 / 6.9 / 7.7 / 6.5 | [-15.6385, -71.6018](https://www.google.com/maps/search/?api=1&query=-15.6385,-71.6018) |
+| 19 | [Huaraz](cities/huaraz.yaml) | City / town | **72.20** | **Photography 8.0**, **Culture 7.7**, **Food 7.6** | 7.2 / 7.3 / 6.8 / 7.7 / 7.2 | [-9.5278, -77.5278](https://www.google.com/maps/search/?api=1&query=-9.5278,-77.5278) |
+| 20 | [Moquegua](cities/moquegua.yaml) | City / town | **72.10** | **Architecture 8.0**, **Food 7.9**, **History 7.8** | 7.0 / 7.2 / 7.4 / 7.6 / 6.9 | [-17.1927, -70.9328](https://www.google.com/maps/search/?api=1&query=-17.1927,-70.9328) |
+| 21 | [Huancayo](cities/huancayo.yaml) | City / town | **71.70** | **Culture 8.3**, **Food 7.9** | 6.8 / 7.3 / 7.2 / 7.5 / 7.4 | [-12.0651, -75.2049](https://www.google.com/maps/search/?api=1&query=-12.0651,-75.2049) |
+| 22 | [Urubamba](cities/urubamba.yaml) | City / town | **71.45** | **Relaxation 8.4**, **Food 8.0** | 7.1 / 7.3 / 6.5 / 8.0 / 6.9 | [-13.3047, -72.1165](https://www.google.com/maps/search/?api=1&query=-13.3047,-72.1165) |
+| 23 | [Tarapoto](cities/tarapoto.yaml) | City / town | **71.40** | **Food 8.1**, **Culture 7.8** | 7.0 / 7.3 / 6.5 / 7.9 / 7.3 | [-6.4825, -76.3733](https://www.google.com/maps/search/?api=1&query=-6.4825,-76.3733) |
+| 24 | [Ica](cities/ica.yaml) | City / town | **71.05** | **Food 8.0**, **History 7.7** | 6.8 / 7.2 / 7.1 / 7.5 / 7.2 | [-14.0678, -75.7286](https://www.google.com/maps/search/?api=1&query=-14.0678,-75.7286) |
+| 25 | [Piura](cities/piura.yaml) | City / town | **70.95** | **Food 8.3**, **Culture 7.8** | 6.8 / 7.0 / 7.3 / 7.5 / 7.2 | [-5.1945, -80.6328](https://www.google.com/maps/search/?api=1&query=-5.1945,-80.6328) |
+| 26 | [Máncora](cities/mancora.yaml) | City / town | **70.75** | **Beaches 8.6**, **Relaxation 8.5**, **Nightlife 7.9** | 7.2 / 7.2 / 6.0 / 8.3 / 6.7 | [-4.107, -81.047](https://www.google.com/maps/search/?api=1&query=-4.107,-81.047) |
+| 27 | [Pucallpa](cities/pucallpa.yaml) | City / town | **70.65** | **Culture 8.1**, **Food 7.9** | 6.7 / 7.3 / 7.0 / 7.4 / 7.2 | [-8.3791, -74.5539](https://www.google.com/maps/search/?api=1&query=-8.3791,-74.5539) |
+| 28 | [Aguas Calientes](cities/aguas-calientes.yaml) | City / town | **70.60** | **Photography 8.0**, **Relaxation 8.0** | 7.3 / 7.4 / 6.0 / 7.8 / 6.5 | [-13.1547, -72.5254](https://www.google.com/maps/search/?api=1&query=-13.1547,-72.5254) |
+| 29 | [Moyobamba](cities/moyobamba.yaml) | City / town | **70.30** | **Relaxation 8.0**, **Culture 7.7** | 6.9 / 7.2 / 6.7 / 7.6 / 6.8 | [-6.0342, -76.9717](https://www.google.com/maps/search/?api=1&query=-6.0342,-76.9717) |
+| 30 | [Paracas](cities/paracas.yaml) | City / town | **70.20** | **Relaxation 8.4**, **Food 7.9** | 7.2 / 7.2 / 6.0 / 8.0 / 6.6 | [-13.835, -76.249](https://www.google.com/maps/search/?api=1&query=-13.835,-76.249) |
+| 31 | [Huánuco](cities/huanuco.yaml) | City / town | **69.70** | **Culture 7.7**, **History 7.6** | 6.7 / 7.0 / 7.1 / 7.4 / 6.8 | [-9.9306, -76.2422](https://www.google.com/maps/search/?api=1&query=-9.9306,-76.2422) |
+| 32 | [Nazca](cities/nazca.yaml) | City / town | **68.70** | **History 7.8**, **Culture 7.5** | 6.5 / 7.0 / 7.2 / 7.2 / 6.5 | [-14.828, -74.943](https://www.google.com/maps/search/?api=1&query=-14.828,-74.943) |
+| 33 | [Puerto Maldonado](cities/puerto-maldonado.yaml) | City / town | **68.00** | **Food 7.6**, **Culture 7.5** | 6.5 / 7.1 / 6.5 / 7.3 / 6.8 | [-12.5933, -69.1891](https://www.google.com/maps/search/?api=1&query=-12.5933,-69.1891) |
+| 34 | [Abancay](cities/abancay.yaml) | City / town | **67.90** | **Culture 7.5**, **Food 7.5** | 6.6 / 6.9 / 6.7 / 7.3 / 6.5 | [-13.6339, -72.8814](https://www.google.com/maps/search/?api=1&query=-13.6339,-72.8814) |
+| 35 | [Cerro de Pasco](cities/cerro-de-pasco.yaml) | City / town | **66.90** | **History 8.0**, **Culture 7.3** | 6.0 / 7.5 / 7.4 / 5.9 / 6.5 | [-10.6833, -76.2667](https://www.google.com/maps/search/?api=1&query=-10.6833,-76.2667) |
+| 36 | [Tumbes](cities/tumbes.yaml) | City / town | **66.20** | **Food 7.9**, **Culture 7.3** | 6.3 / 6.8 / 6.5 / 7.2 / 6.5 | [-3.5669, -80.4515](https://www.google.com/maps/search/?api=1&query=-3.5669,-80.4515) |
 
 ---
 

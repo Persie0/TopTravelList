@@ -1,0 +1,18 @@
+id: city-pe-cusco
+name: "Cusco"
+location:
+  country_code: PE
+  latitude: -13.5319
+  longitude: -71.9675
+scores:
+  impact: 9.3
+  uniqueness: 9.4
+  significance: 9.6
+  experience: 9.1
+  depth: 9.4
+  categories:
+    architecture: 9.5
+    history: 9.7
+    culture: 9.5
+    photography: 9.4
+    food: 8.6
