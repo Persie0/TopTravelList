@@ -1,0 +1,16 @@
+id: sight-ai-rendezvous-bay
+name: "Rendezvous Bay Beach"
+location:
+  country_code: AI
+  latitude: 18.177
+  longitude: -63.107
+scores:
+  impact: 8.8
+  uniqueness: 8.2
+  significance: 7.0
+  experience: 8.8
+  depth: 7.8
+  categories:
+    beaches: 9.1
+    photography: 8.9
+    relaxation: 9.0

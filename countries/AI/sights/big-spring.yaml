@@ -1,0 +1,15 @@
+id: sight-ai-big-spring
+name: "Big Spring Heritage Site"
+location:
+  country_code: AI
+  latitude: 18.254
+  longitude: -63.009
+scores:
+  impact: 7.9
+  uniqueness: 8.8
+  significance: 8.9
+  experience: 8.1
+  depth: 7.4
+  categories:
+    history: 9.1
+    culture: 8.8

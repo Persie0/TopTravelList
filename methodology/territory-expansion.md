@@ -192,3 +192,7 @@ No matching GB records identified in generated ranking name/coordinate screen. A
 ### US Virgin Islands coverage — 2026-11-26
 
 No matching US parent records identified by generated inventory name/coordinate screen. Add 4 settlements and 11 sights across Saint Thomas, Saint John and Saint Croix. National park and components separately scoped; Salt River visitor centre excluded, NOAA regional coral stress considered. NPS, NOAA and tourism authority search excerpts inspected; exact GPS and independent full claims outstanding. No exact-10 additions.
+
+### Anguilla coverage — 2026-11-26
+
+No matching GB records identified in generated name/coordinate screening. Add 3 settlements and 10 sights (9 ranked, Fountain Cavern unranked pending ordinary visitor access evidence). Tourist Board, National Trust, archaeological society and reef monitoring search excerpts inspected. Regional coral stress considered; protected sites and exterior-only heritage scope respected. Independent GPS and complete claim verification pending. No exact-10 additions.

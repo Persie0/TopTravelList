@@ -1,0 +1,16 @@
+id: sight-ai-prickly-pear
+name: "Prickly Pear Cays (permitted visitor areas)"
+location:
+  country_code: AI
+  latitude: 18.267
+  longitude: -63.186
+scores:
+  impact: 8.9
+  uniqueness: 8.5
+  significance: 8.5
+  experience: 8.6
+  depth: 8.0
+  categories:
+    nature: 8.9
+    beaches: 9.1
+    wildlife: 8.7
