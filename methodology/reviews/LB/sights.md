@@ -20,6 +20,7 @@
 - High-score challenge: Impact uniqueness significance architecture history and photography reflect monumental sanctuary scale and exceptional masonry documented by UNESCO, below Angkor in full landscape and historical breadth. No current experience score.. No approved 10.
 - Evidence: [Source](https://whc.unesco.org/en/list/294/) — UNESCO property and architectural history; published components https://whc.unesco.org/en/list/294/maps/; page or search excerpt inspected 2026-11-25; limited factual support.
 - Remaining gaps: Confirm physical condition, ordinary safe permitted routes and interpretation before completing scores.
+- Coordinate follow-up: stored DMS conversion matches current UNESCO component table https://whc.unesco.org/en/list/294/maps/ within rounding tolerance; representative only.
 
 ## sight-lb-temple-of-mercury-baalbek — Temple of Mercury (Baalbek) — 2026-11-25
 
@@ -39,6 +40,7 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Source](https://whc.unesco.org/en/list/294/) — UNESCO property and architectural history; published components https://whc.unesco.org/en/list/294/maps/; page or search excerpt inspected 2026-11-25; limited factual support.
 - Remaining gaps: Confirm physical condition, ordinary safe permitted routes and interpretation before completing scores.
+- Coordinate follow-up: stored DMS conversion matches current UNESCO component table https://whc.unesco.org/en/list/294/maps/ within rounding tolerance; representative only.
 
 ## sight-lb-roman-quarry-baalbek — Roman Quarry (Baalbek) — 2026-11-25
 
@@ -58,6 +60,7 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Source](https://whc.unesco.org/en/list/294/) — UNESCO property and architectural history; published components https://whc.unesco.org/en/list/294/maps/; page or search excerpt inspected 2026-11-25; limited factual support.
 - Remaining gaps: Confirm physical condition, ordinary safe permitted routes and interpretation before completing scores.
+- Coordinate follow-up: stored DMS conversion matches current UNESCO component table https://whc.unesco.org/en/list/294/maps/ within rounding tolerance; representative only.
 
 ## sight-lb-anjar-umayyad-archaeological-city — Anjar Umayyad Archaeological City — 2026-11-25
 
@@ -96,6 +99,7 @@
 - High-score challenge: Significance and history 9.5+ reflect long documented occupation and Phoenician importance. Less extensive standing Roman architecture than Jerash and lower overall monumental scale than Angkor.. No approved 10.
 - Evidence: [Source](https://whc.unesco.org/en/list/295/) — UNESCO Byblos archaeological property and historical context; city scope independent; page or search excerpt inspected 2026-11-25; limited factual support.
 - Remaining gaps: Independent factual, GPS (unless published reference), category and specialist peer verification; no current access assurance.
+- Coordinate follow-up: stored DMS conversion matches current UNESCO component table https://whc.unesco.org/en/list/295/maps/ within rounding tolerance; representative only.
 
 ## sight-lb-byblos-castle — Byblos Castle — 2026-11-25
 
@@ -134,6 +138,7 @@
 - High-score challenge: Significance and history 9.5+ reflect documented Phoenician maritime influence and Roman urban archaeology; current damage/access uncertainty prevents complete ranking.. No approved 10.
 - Evidence: [Source](https://whc.unesco.org/en/list/299/) — UNESCO Tyre description and reference point; danger listing 2026; page or search excerpt inspected 2026-11-25; limited factual support.
 - Remaining gaps: Confirm physical condition, ordinary safe permitted routes and interpretation before completing scores.
+- Follow-up: https://whc.unesco.org/en/danger-list/ confirms continued danger listing. https://whc.unesco.org/en/decisions/9206/ records emergency inscription of Mount Amel Castles in 2026. https://www.smartraveller.gov.au/destinations/middle-east/lebanon and https://travel.gc.ca/destinations/lebanon advise against all travel. Retain unresolved visitor scores; no assumption of current admission or intact condition.
 
 ## sight-lb-mount-amel-castles — Mount Amel Castles — 2026-11-25
 
@@ -153,6 +158,8 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Source](https://whc.unesco.org/en/list/1810/) — UNESCO 2026 inscription and danger listing; five component points https://whc.unesco.org/en/list/1810/maps/; page or search excerpt inspected 2026-11-25; limited factual support.
 - Remaining gaps: Confirm physical condition, ordinary safe permitted routes and interpretation before completing scores.
+- Follow-up: https://whc.unesco.org/en/danger-list/ confirms continued danger listing. https://whc.unesco.org/en/decisions/9206/ records emergency inscription of Mount Amel Castles in 2026. https://www.smartraveller.gov.au/destinations/middle-east/lebanon and https://travel.gc.ca/destinations/lebanon advise against all travel. Retain unresolved visitor scores; no assumption of current admission or intact condition.
+- Coordinate follow-up: stored DMS conversion matches current UNESCO component table https://whc.unesco.org/en/list/1810/maps/ within rounding tolerance; representative only.
 
 ## sight-lb-beaufort-castle-qalaat-al-chakif — Beaufort Castle (Qalaat al-Chakif) — 2026-11-25
 
@@ -172,6 +179,7 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Source](https://whc.unesco.org/en/list/1810/) — UNESCO 2026 inscription and danger listing; five component points https://whc.unesco.org/en/list/1810/maps/; page or search excerpt inspected 2026-11-25; limited factual support.
 - Remaining gaps: Confirm physical condition, ordinary safe permitted routes and interpretation before completing scores.
+- Coordinate follow-up: stored DMS conversion matches current UNESCO component table https://whc.unesco.org/en/list/1810/maps/ within rounding tolerance; representative only.
 
 ## sight-lb-toron-castle-qalaat-tibnin — Toron Castle (Qalaat Tibnin) — 2026-11-25
 
@@ -191,6 +199,7 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Source](https://whc.unesco.org/en/list/1810/) — UNESCO 2026 inscription and danger listing; five component points https://whc.unesco.org/en/list/1810/maps/; page or search excerpt inspected 2026-11-25; limited factual support.
 - Remaining gaps: Confirm physical condition, ordinary safe permitted routes and interpretation before completing scores.
+- Coordinate follow-up: stored DMS conversion matches current UNESCO component table https://whc.unesco.org/en/list/1810/maps/ within rounding tolerance; representative only.
 
 ## sight-lb-dubieh-castle-qalaat-chakra — Dubieh Castle (Qalaat Chakra) — 2026-11-25
 
@@ -210,6 +219,7 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Source](https://whc.unesco.org/en/list/1810/) — UNESCO 2026 inscription and danger listing; five component points https://whc.unesco.org/en/list/1810/maps/; page or search excerpt inspected 2026-11-25; limited factual support.
 - Remaining gaps: Confirm physical condition, ordinary safe permitted routes and interpretation before completing scores.
+- Coordinate follow-up: stored DMS conversion matches current UNESCO component table https://whc.unesco.org/en/list/1810/maps/ within rounding tolerance; representative only.
 
 ## sight-lb-maron-castle-qalaat-deir-kifa — Maron Castle (Qalaat Deir Kifa) — 2026-11-25
 
@@ -229,6 +239,7 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Source](https://whc.unesco.org/en/list/1810/) — UNESCO 2026 inscription and danger listing; five component points https://whc.unesco.org/en/list/1810/maps/; page or search excerpt inspected 2026-11-25; limited factual support.
 - Remaining gaps: Confirm physical condition, ordinary safe permitted routes and interpretation before completing scores.
+- Coordinate follow-up: stored DMS conversion matches current UNESCO component table https://whc.unesco.org/en/list/1810/maps/ within rounding tolerance; representative only.
 
 ## sight-lb-chama-castle-qalaat-chama — Chama Castle (Qalaat Chama) — 2026-11-25
 
@@ -248,6 +259,7 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Source](https://whc.unesco.org/en/list/1810/) — UNESCO 2026 inscription and danger listing; five component points https://whc.unesco.org/en/list/1810/maps/; page or search excerpt inspected 2026-11-25; limited factual support.
 - Remaining gaps: Confirm physical condition, ordinary safe permitted routes and interpretation before completing scores.
+- Coordinate follow-up: stored DMS conversion matches current UNESCO component table https://whc.unesco.org/en/list/1810/maps/ within rounding tolerance; representative only.
 
 ## sight-lb-ouadi-qadisha-and-forest-of-the-cedars-of-god — Ouadi Qadisha and Forest of the Cedars of God — 2026-11-25
 
@@ -267,6 +279,8 @@
 - High-score challenge: Overall above 90 reflects combined monastic landscape and cedar grove, not the size of either alone. Sagarmatha exceeds it in high-mountain scale and ecological breadth.. No approved 10.
 - Evidence: [Source](https://whc.unesco.org/en/list/850/) — UNESCO property description and two reference points https://whc.unesco.org/en/list/850/maps/; page or search excerpt inspected 2026-11-25; limited factual support.
 - Remaining gaps: Independent factual, GPS (unless published reference), category and specialist peer verification; no current access assurance.
+- Follow-up: https://whc.unesco.org/en/list/850/ distinguishes the monastic valley from the separate cedar grove; https://www.lebanonvisitor.com/attractions/qadisha-valley and https://guide.moovtoo.com/LB/en/trails/lmt-section-7-from-qozhaya-to-bcharre document ordinary viewpoints, monastic visits and a trail section. Preserve distinct parent and component scopes; not all caves or private religious spaces are visitor-accessible. No current opening or safety assurance.
+- Coordinate follow-up: stored DMS conversion matches current UNESCO component table https://whc.unesco.org/en/list/850/maps/ within rounding tolerance; representative only.
 
 ## sight-lb-qadisha-valley — Qadisha Valley — 2026-11-25
 
@@ -286,6 +300,8 @@
 - High-score challenge: Overall above 90 reflects combined valley scenery and historic monastic depth; smaller physical landscape than Sagarmatha and less varied rock forms than Wadi Rum.. No approved 10.
 - Evidence: [Source](https://whc.unesco.org/en/list/850/) — UNESCO property description and two reference points https://whc.unesco.org/en/list/850/maps/; page or search excerpt inspected 2026-11-25; limited factual support.
 - Remaining gaps: Independent factual, GPS (unless published reference), category and specialist peer verification; no current access assurance.
+- Follow-up: https://whc.unesco.org/en/list/850/ distinguishes the monastic valley from the separate cedar grove; https://www.lebanonvisitor.com/attractions/qadisha-valley and https://guide.moovtoo.com/LB/en/trails/lmt-section-7-from-qozhaya-to-bcharre document ordinary viewpoints, monastic visits and a trail section. Preserve distinct parent and component scopes; not all caves or private religious spaces are visitor-accessible. No current opening or safety assurance.
+- Coordinate follow-up: stored DMS conversion matches current UNESCO component table https://whc.unesco.org/en/list/850/maps/ within rounding tolerance; representative only.
 
 ## sight-lb-cedars-of-god-horsh-arz-el-rab — Cedars of God (Horsh Arz el-Rab) — 2026-11-25
 
@@ -305,6 +321,8 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Source](https://whc.unesco.org/en/list/850/) — UNESCO property description and two reference points https://whc.unesco.org/en/list/850/maps/; page or search excerpt inspected 2026-11-25; limited factual support.
 - Remaining gaps: Independent factual, GPS (unless published reference), category and specialist peer verification; no current access assurance.
+- Follow-up: https://whc.unesco.org/en/list/850/ distinguishes the monastic valley from the separate cedar grove; https://www.lebanonvisitor.com/attractions/qadisha-valley and https://guide.moovtoo.com/LB/en/trails/lmt-section-7-from-qozhaya-to-bcharre document ordinary viewpoints, monastic visits and a trail section. Preserve distinct parent and component scopes; not all caves or private religious spaces are visitor-accessible. No current opening or safety assurance.
+- Coordinate follow-up: stored DMS conversion matches current UNESCO component table https://whc.unesco.org/en/list/850/maps/ within rounding tolerance; representative only.
 
 ## sight-lb-rachid-karami-international-fair — Rachid Karami International Fair — 2026-11-25
 
@@ -324,6 +342,7 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Source](https://whc.unesco.org/en/list/1702/) — UNESCO modernist fair description and danger listing; page or search excerpt inspected 2026-11-25; limited factual support.
 - Remaining gaps: Confirm physical condition, ordinary safe permitted routes and interpretation before completing scores.
+- Follow-up: https://whc.unesco.org/en/danger-list/ confirms continued danger listing. https://whc.unesco.org/en/decisions/9206/ records emergency inscription of Mount Amel Castles in 2026. https://www.smartraveller.gov.au/destinations/middle-east/lebanon and https://travel.gc.ca/destinations/lebanon advise against all travel. Retain unresolved visitor scores; no assumption of current admission or intact condition.
 
 ## sight-lb-historic-centre-of-batroun — Historic Centre of Batroun — 2026-11-25
 
@@ -482,19 +501,20 @@
 - [YAML](../../../countries/LB/sights/jeita-grotto.yaml) · Action: new · **source-linked-unverified**.
 - Scope: two public cave levels and ordinary permitted cave experience. GPS 33.943, 35.641: approximate editorial point, independent verification pending.
 - Worldwide peers (I/U/S/E/D):
-  - [Jiuzhaigou Valley (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) — 9.8 / 9.7 / 9.4 / 9.8 / 9.1 (96.25/100); upper reference; Jeita Grotto has lower provisional uniqueness and lower depth (distinct large decorated karst system; two main galleries).
-  - [Jebel Shams and Wadi Ghul Canyon (OM)](../../../countries/OM/sights/jebel-shams-and-wadi-ghul-canyon.yaml) — 9.5 / 9.2 / 8.5 / 9.1 / 8.9 (91.05/100); related comparator; Jeita Grotto has equal provisional uniqueness and lower depth (distinct large decorated karst system; two main galleries).
-  - [Wadi Rum Protected Area (JO)](../../../countries/JO/sights/wadi-rum-protected-area.yaml) — 9.8 / 9.7 / 9.4 / 9.6 / 9.5 (96.35/100); related comparator; Jeita Grotto has lower provisional uniqueness and lower depth (distinct large decorated karst system; two main galleries).
-  - [Wadi Rum Khazali Canyon (JO)](../../../countries/JO/sights/wadi-rum-khazali-canyon.yaml) — 8.5 / 8.6 / 8.5 / 8.4 / 7.2 (83.80/100); regional or bounded reference; Jeita Grotto has higher provisional uniqueness and higher depth (distinct large decorated karst system; two main galleries).
+  - [Eisriesenwelt Ice Cave (AT)](../../../countries/AT/sights/eisriesenwelt-werfen.yaml) — 9.0 / 9.4 / 8.8 / 9.0 / 8.4 (90.00/100); same-type cave comparator; Jeita Grotto has lower provisional uniqueness and equal depth.
+  - [Paradise Cave (Thien Duong) (VN)](../../../countries/VN/sights/paradise-cave.yaml) — 9.0 / 9.2 / 8.5 / 9.2 / 8.2 (89.00/100); same-type cave comparator; Jeita Grotto has equal provisional uniqueness and higher depth.
+  - [Manjanggul Lava Tube (KR)](../../../countries/KR/sights/manjanggul-lava-tube.yaml) — 8.9 / 9.3 / 8.9 / 8.9 / 8.0 (89.10/100); same-type cave comparator; Jeita Grotto has lower provisional uniqueness and higher depth.
+  - [Phraya Nakhon Cave (TH)](../../../countries/TH/sights/phraya-nakhon-cave.yaml) — 8.9 / 9.2 / 8.6 / 9.1 / 7.7 (88.25/100); same-type cave comparator; Jeita Grotto has equal provisional uniqueness and higher depth.
 - Impact 9.4: extensive limestone formations and underground water.
 - Uniqueness 9.2: distinct large decorated karst system.
 - Significance 8.1: regional geological heritage.
 - Experience 9.1: ordinary cave walks and conditional boat visit.
-- Depth 8.4: two main galleries.
-- Categories: nature:9.4, photography:9.4. Overall: 89.45/100.
+- Depth 8.4: two distinct ordinary visitor galleries, conditional lower-cave boat ride; exclude non-public cave passages.
+- Categories: nature:9.4. Overall: 89.45/100.
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Source](https://www.lebanonvisitor.com/attractions) — Lebanon Visitor attraction guide inspected; names the attraction and outlines its ordinary visitor scope; page or search excerpt inspected 2026-11-25; limited factual support.
 - Remaining gaps: Independent factual, GPS (unless published reference), category and specialist peer verification; no current access assurance.
+- Follow-up 2026-11-25: https://www.lebanontraveler.com/en/magazine/jeita-grotto-lebanon/ and https://www.lonelyplanet.com/points-of-interest/jeita-grotto/1459603 report a photography ban inside the caves. Remove the photography category rather than award 9.4 for views that ordinary visitors cannot photograph. A conflicting secondary guide exists, so recheck the operator's rules before restoring it. https://www.lebanonvisitor.com/attractions/jeita-grotto describes conditional boat access; the November 21 management tender report https://en.libnanews.com/jeita-who-will-manage-the-cave-and-under-what-conditions/ establishes ongoing management uncertainty, not a closure. Preserve intrinsic overall; four live cave profiles inspected. No current opening or safety assurance.
 
 ## sight-lb-baatara-gorge — Baatara Gorge — 2026-11-25
 
@@ -526,13 +546,14 @@
   - [Jebel Akhdar Mountain Landscape (OM)](../../../countries/OM/sights/jebel-akhdar-mountain-landscape.yaml) — 9.1 / 8.8 / 8.3 / 9.0 / 9.0 (88.40/100); regional or bounded reference; Shouf Biosphere Reserve has lower provisional uniqueness and lower depth (distinct regional cedar habitat; several forest zones).
 - Impact 8.8: extensive cedar forest and mountain slopes.
 - Uniqueness 8.7: distinct regional cedar habitat.
-- Significance 8.5: regional conservation significance.
+- Significance 8.5: regional cedar habitat and UNESCO biosphere designation; not a World Heritage inscription.
 - Experience 8.7: ordinary hiking and nature viewing.
-- Depth 8.9: several forest zones.
+- Depth 8.9: documented marked cedar forest and reserve trails at multiple entrances, not every village or protected area.
 - Categories: nature:9.2, wildlife:8.8, adventure:8.9, photography:9.0. Overall: 87.10/100.
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Source](https://www.lebanonvisitor.com/attractions) — Lebanon Visitor attraction guide inspected; names the attraction and outlines its ordinary visitor scope; page or search excerpt inspected 2026-11-25; limited factual support.
 - Remaining gaps: Independent factual, GPS (unless published reference), category and specialist peer verification; no current access assurance.
+- Follow-up: reserve administration https://www.shoufcedar.org/visiting_us/the_trails and https://www.shoufcedar.org/visiting_us document multiple visitor routes and entrances. https://www.unesco.org/en/mab/shouf confirms biosphere status. Live Dana (depth 9.1) and Chitwan (9.2) profiles checked; Shouf remains below both in breadth. No guaranteed current access or wildlife sightings.
 
 ## sight-lb-beiteddine-palace — Beiteddine Palace — 2026-11-25
 
