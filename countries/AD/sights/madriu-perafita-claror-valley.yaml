@@ -1,0 +1,18 @@
+id: sight-ad-madriu-perafita-claror-valley
+name: "Madriu-Perafita-Claror Valley"
+location:
+  country_code: AD
+  latitude: 42.494722
+  longitude: 1.595556
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 9.2
+  experience: 8.6
+  depth: 9.1
+  categories:
+    nature: 9.2
+    culture: 9.1
+    history: 9.2
+    adventure: 9.0
+    photography: 9.3
