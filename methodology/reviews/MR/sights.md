@@ -2,6 +2,9 @@
 
 Worldwide v2; initial inventory, editorial ratings, sources consulted 2026-11-25. Coordinates representative, not entrances. Sources are linked conservatively, not declared fully independently verified. See [FCDO advice](https://www.gov.uk/foreign-travel-advice/mauritania); intrinsic ratings are not current access assurances. Four ksour components represent UNESCO property 750 without a duplicate umbrella score. Peer current YAML spot-checks include Kashgar, Hallstatt, Ayutthaya, Poipet, Mogao, Hahoe, Carnuntum and Suncheon Bay; remaining peer values not checked.
 
+
+Follow-up 2026-11-25: [national tourism office](https://visitmauritania.com/parcs-nationaux/) lists Awleigatt in addition to Banc d’Arguin and Diawling; [official Ramsar country register](https://www.ramsar.org/country-profile/mauritania) identifies four wetlands (Chat Tboul and Lac Gabou added here). Additional inventory gaps include Chinguetti manuscript libraries, Amogjar pass, Erg Amatlich and Matmata guelta. Do not assume all sites have established ordinary access. Independent claim-level verification remains incomplete.
+
 ## sight-mr-banc-d-arguin-national-park — Banc d’Arguin National Park — 2026-11-25
 
 - YAML: [source](../../../countries/MR/sights/banc-d-arguin-national-park.yaml)
@@ -35,6 +38,8 @@ Worldwide v2; initial inventory, editorial ratings, sources consulted 2026-11-25
 - Final decision: Provisional worldwide editorial rating, not a factual verification.
 - Verification still needed: current local access and per-claim independent source review.
 
+- Follow-up 2026-11-25: [park visitor programme](https://pnba.mr/nous-visiter/), [Lonely Planet](https://www.lonelyplanet.com/points-of-interest/parc-national-du-banc-d-arguin/1301584) and [2026 operator](https://toursinmauritania.com/to_book/national-parks-tours/) document traditional boat-based bird observation. Exceptional seasonal birdwatching supports wildlife 9.7 provisionally; not a megafauna safari or year-round guarantee.
+
 ## sight-mr-richat-structure — Richat Structure (Eye of the Sahara) — 2026-11-25
 
 - YAML: [source](../../../countries/MR/sights/richat-structure.yaml)
@@ -66,6 +71,8 @@ Worldwide v2; initial inventory, editorial ratings, sources consulted 2026-11-25
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide editorial rating, not a factual verification.
 - Verification still needed: current local access and per-claim independent source review.
+
+- Follow-up 2026-11-25: NASA orbital imagery supports geological uniqueness but is not a ground visitor experience. Retain impact 8.4 and uniqueness 9.7 provisionally; no assumption of aerial sightseeing.
 
 ## sight-mr-ben-amera — Ben Amera Monolith — 2026-11-25
 
@@ -263,11 +270,11 @@ Worldwide v2; initial inventory, editorial ratings, sources consulted 2026-11-25
 - Action: new
 - Precise subject: Tentative-list archaeological and oasis landscape; point is approximate settlement reference.
 - Location check: 20.5682, -13.1104; representative point; see sources, exact entrance not verified.
-- Evidence status: **unassessed**
+- Evidence status: **source-linked-unverified**
 - Sources consulted (2026-11-25; support identity/heritage, geography or visitor description, not numeric ratings; claim-level triangulation incomplete):
   - https://whc.unesco.org/en/tentativelists/1545/
   - https://mapcarta.com/Azougi
-- Missing facts: Normal permitted visitor experience or accessible scope insufficiently documented; no overall score.
+- Missing facts: Current local permissions, exact archaeological extent and claim-level verification.
 
 ### Worldwide peer comparisons
 - Mogao Caves (China): World-leading Silk Road heritage; greater preserved art and interpretation.
@@ -279,14 +286,16 @@ Worldwide v2; initial inventory, editorial ratings, sources consulted 2026-11-25
 - Impact: 7.3 — Low ruins and oasis setting.
 - Uniqueness: 8.1 — Almoravid associations distinctive.
 - Significance: 8.6 — Dynastic history important, tentative only.
-- Experience: null — Site interpretation unclear.
-- Depth: null — Extent of accessible archaeology unverified.
+- Experience: 7.5 — Documented guided exterior visit to oasis and ruins, limited interpretation.
+- Depth: 6.7 — Bounded ruins and palm grove, ongoing archaeology not assumed accessible.
 - Applicable categories: history 8.8.
-- Overall: unranked.
+- Overall: 77.30/100.
 - High-score challenge: Not applicable.
 - Approved 10 registry: none.
-- Final decision: Retain partial assessment rather than invent visitor scores.
+- Final decision: Provisional bounded exterior visit rating; previously unranked.
 - Verification still needed: current local access and per-claim independent source review.
+
+- Follow-up 2026-11-25: [French Ministry of Culture](https://archeologie.culture.gouv.fr/fr/azougui) documents the 2025 archaeological mission and ruined qasba; [2026 visitor guide](https://www.mauritania-travel.com/guide/destination/azougui?from_circuit=great-crossing-of-the-adrar-to-the-tagant) documents the tell, tomb and palm grove visit. No claim of completed excavations or unrestricted sacred-site access.
 
 ## sight-mr-kumbi-saleh-archaeological-site — Kumbi Saleh Archaeological Site — 2026-11-25
 
@@ -442,3 +451,100 @@ Worldwide v2; initial inventory, editorial ratings, sources consulted 2026-11-25
 - Approved 10 registry: none.
 - Final decision: provisional rating; access is not guaranteed.
 - Verification still needed: confirm representative location and season-specific visitor experience.
+
+## sight-mr-chat-tboul-wetland — Chat Tboul Wetland — 2026-11-25
+
+- YAML: [source](../../../countries/MR/sights/chat-tboul-wetland.yaml)
+- Action: new
+- Precise subject: Coastal wetland and former river mouth; Ramsar reference 16°33′N 16°24′W.
+- Location check: 16.55, -16.4; published representative point, not entrance.
+- Evidence status: **unassessed**
+- Sources consulted (2026-11-25):
+  - https://www.protectedplanet.net/900595?locale=en
+  - https://rsis.ramsar.org/RISapp/files/RISrep/MR1044RISformer.pdf
+  - https://visitmauritania.com/parcs-nationaux/
+- Missing facts: Ordinary permitted visitor scope and detailed claim-level verification.
+
+### Worldwide peer comparisons
+- Okavango Delta (Botswana): Larger, documented wetland visitor landscape.
+- Suncheon Bay Wetland Reserve (South Korea): Established wetland visitor experience.
+- Srebarna Nature Reserve (Bulgaria): Conservation comparison, different ecosystem.
+- Mai Po Nature Reserve (Hong Kong, China): Managed observation reference, not equivalent access.
+
+### Scoring decisions
+- Impact: null — Ordinary visitor impact unresolved.
+- Uniqueness: 8.3 — Regional protected landscape and habitat.
+- Significance: 8.8 — Conservation designation and regional ecological context.
+- Experience: null — Ordinary visitor scope insufficiently verified.
+- Depth: null — Visitor route scope unresolved.
+- Applicable categories: nature 8.6, wildlife null.
+- Overall: unranked.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Retain partial assessment; no unsupported visitor ranking.
+- Verification still needed: visitor scope, boundary and current conservation conditions.
+
+## sight-mr-lac-gabou-tagant-wetlands — Lac Gabou and Tagant Wetlands — 2026-11-25
+
+- YAML: [source](../../../countries/MR/sights/lac-gabou-tagant-wetlands.yaml)
+- Action: new
+- Precise subject: Seasonal inland water network; designation announcement reference 17°56′N 11°52′W; later register may round differently.
+- Location check: 17.933333, -11.866667; published representative point, not entrance.
+- Evidence status: **unassessed**
+- Sources consulted (2026-11-25):
+  - https://www.ramsar.org/news/mauritania-names-4th-ramsar-site
+  - https://rsis.ramsar.org/RISapp/files/RISrep/MR1854RIS.pdf
+  - https://visitmauritania.com/parcs-nationaux/
+- Missing facts: Ordinary permitted visitor scope and detailed claim-level verification.
+
+### Worldwide peer comparisons
+- Okavango Delta (Botswana): Larger, documented wetland visitor landscape.
+- Suncheon Bay Wetland Reserve (South Korea): Established wetland visitor experience.
+- Srebarna Nature Reserve (Bulgaria): Conservation comparison, different ecosystem.
+- Mai Po Nature Reserve (Hong Kong, China): Managed observation reference, not equivalent access.
+
+### Scoring decisions
+- Impact: null — Ordinary visitor impact unresolved.
+- Uniqueness: 8.4 — Regional protected landscape and habitat.
+- Significance: 8.8 — Conservation designation and regional ecological context.
+- Experience: null — Ordinary visitor scope insufficiently verified.
+- Depth: null — Visitor route scope unresolved.
+- Applicable categories: nature 8.7, wildlife null.
+- Overall: unranked.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Retain partial assessment; no unsupported visitor ranking.
+- Verification still needed: visitor scope, boundary and current conservation conditions.
+
+## sight-mr-awleigatt-national-park — Awleigatt National Park — 2026-11-25
+
+- YAML: [source](../../../countries/MR/sights/awleigatt-national-park.yaml)
+- Action: new
+- Precise subject: 2016 park designation with zoo and conservation functions; published 2023 research reference 17°52′37.50″N 15°30′34.50″W.
+- Location check: 17.877083, -15.509583; published representative point, not entrance.
+- Evidence status: **unassessed**
+- Sources consulted (2026-11-25):
+  - https://ami.mr/fr/archives/93314
+  - https://www.ecoeet.com/pdf-168453-92168?filename=The-Study-of-the-Germinat.pdf
+  - https://visitmauritania.com/parcs-nationaux/
+- Missing facts: Ordinary permitted visitor scope and detailed claim-level verification.
+
+### Worldwide peer comparisons
+- Okavango Delta (Botswana): Larger, documented wetland visitor landscape.
+- Suncheon Bay Wetland Reserve (South Korea): Established wetland visitor experience.
+- Srebarna Nature Reserve (Bulgaria): Conservation comparison, different ecosystem.
+- Mai Po Nature Reserve (Hong Kong, China): Managed observation reference, not equivalent access.
+
+### Scoring decisions
+- Impact: null — Ordinary visitor impact unresolved.
+- Uniqueness: 7.2 — Regional protected landscape and habitat.
+- Significance: 7.6 — Conservation designation and regional ecological context.
+- Experience: null — Ordinary visitor scope insufficiently verified.
+- Depth: null — Visitor route scope unresolved.
+- Applicable categories: nature 7.8, wildlife null.
+- Overall: unranked.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Retain partial assessment; no unsupported visitor ranking.
+- Verification still needed: visitor scope, boundary and current conservation conditions.
+- Follow-up: [park website](https://pna.mr/Contact/) advertises guided visits, but independently documented experience and distinction between captive and wild viewing remain incomplete.
