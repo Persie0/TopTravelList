@@ -102,3 +102,11 @@ Original Norway decisions archived. Whole Svalbard and Jan Mayen tentative recor
 | sight-fr-reunion-park | sight-re-reunion-pitons (retired duplicate) |
 
 [UNESCO](https://whc.unesco.org/en/list/1317/) confirms the listed property coincides with the national park core. Keep one active visitor landscape with original 93.80 score; retire overlapping 93.65 profile, archive both [original reviews](reviews/FR/migration-history-RE.md). Add five settlements and nine individually scoped sights. Metropolitan Saint-Denis basilica stays in FR. Parent names and approximate coordinates screened; full reference and GPS audit pending.
+
+### New Caledonia migration — 2026-11-25
+
+| Former ID | Active ID |
+| --- | --- |
+| sight-fr-new-caledonia-lagoons | sight-nc-new-caledonia-lagoons |
+
+[Original review](reviews/FR/migration-history-NC.md). Preserve partial scores; UNESCO six-cluster reef property remains unranked because combined permitted visitor scope is not established. Add four settlements and ten specifically scoped visitor sights; customary access restrictions respected. Parent names and approximate geographic points screened. Full cross-registry and coordinate audit remains outstanding.

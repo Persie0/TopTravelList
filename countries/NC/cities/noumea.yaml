@@ -1,0 +1,16 @@
+id: city-nc-noumea
+name: "Nouméa"
+location:
+  country_code: NC
+  latitude: -22.2758
+  longitude: 166.458
+scores:
+  impact: 8.0
+  uniqueness: 8.1
+  significance: 8.0
+  experience: 8.5
+  depth: 8.3
+  categories:
+    culture: 8.6
+    food: 8.4
+    architecture: 8.0

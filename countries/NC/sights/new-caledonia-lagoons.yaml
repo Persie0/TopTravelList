@@ -1,7 +1,7 @@
-id: sight-fr-new-caledonia-lagoons
+id: sight-nc-new-caledonia-lagoons
 name: "Lagoons of New Caledonia (listed reef components)"
 location:
-  country_code: FR
+  country_code: NC
   latitude: -21.5
   longitude: 166.0
 scores:

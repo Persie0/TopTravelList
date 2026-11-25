@@ -1,0 +1,16 @@
+id: sight-nc-amedee-lighthouse
+name: "Amédée Lighthouse and Island"
+location:
+  country_code: NC
+  latitude: -22.478
+  longitude: 166.467
+scores:
+  impact: 8.6
+  uniqueness: 8.5
+  significance: 8.0
+  experience: 8.8
+  depth: 8.0
+  categories:
+    photography: 8.8
+    history: 8.3
+    nature: 8.6
