@@ -2,7 +2,7 @@
 
 # Luxembourg (LU) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**15 ranked** · **0 unassessed** · **15 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,25 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, or click its GPS coordinates to open **Google Maps**. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (15)
 
-No cities, towns & villages have been assessed for **Luxembourg** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps |
+| ---: | --- | --- | ---: | --- | --- | --- |
+| 1 | [Luxembourg City](cities/luxembourg-city.yaml) | City / town | **88.90** | **History 9.3**, **Architecture 9.2**, **Photography 9.2**, Culture 8.8 | 8.9 / 8.8 / 9.1 / 8.8 / 8.8 | [49.6117, 6.1319](https://www.google.com/maps/search/?api=1&query=49.6117,6.1319) |
+| 2 | [Vianden](cities/vianden.yaml) | City / town | **82.95** | **Photography 9.0**, **Architecture 8.9**, **History 8.7** | 8.3 / 8.5 / 8.2 / 8.4 / 7.8 | [49.935, 6.208](https://www.google.com/maps/search/?api=1&query=49.935,6.208) |
+| 3 | [Echternach](cities/echternach.yaml) | City / town | **81.85** | **Culture 8.9**, **History 8.9**, **Architecture 8.6** | 8.0 / 8.2 / 8.5 / 8.3 / 7.9 | [49.813, 6.421](https://www.google.com/maps/search/?api=1&query=49.813,6.421) |
+| 4 | [Esch-sur-Sûre](cities/esch-sur-sure.yaml) | City / town | **80.70** | **Photography 9.0**, **Architecture 8.6**, **Relaxation 8.5** | 8.3 / 8.4 / 7.7 / 8.2 / 7.1 | [49.911, 5.935](https://www.google.com/maps/search/?api=1&query=49.911,5.935) |
+| 5 | [Clervaux](cities/clervaux.yaml) | City / town | **80.00** | **History 8.7**, **Photography 8.7**, **Culture 8.5** | 7.9 / 8.1 / 8.2 / 8.1 / 7.5 | [50.054, 6.031](https://www.google.com/maps/search/?api=1&query=50.054,6.031) |
+| 6 | [Larochette](cities/larochette.yaml) | City / town | **78.30** | **Photography 8.7**, **Architecture 8.4** | 7.8 / 8.0 / 7.8 / 8.0 / 7.3 | [49.786, 6.218](https://www.google.com/maps/search/?api=1&query=49.786,6.218) |
+| 7 | [Schengen](cities/schengen.yaml) | City / town | **77.85** | **History 8.9**, **Culture 8.5** | 7.3 / 8.1 / 8.5 / 7.8 / 7.0 | [49.47, 6.365](https://www.google.com/maps/search/?api=1&query=49.47,6.365) |
+| 8 | [Esch-sur-Alzette](cities/esch-sur-alzette.yaml) | City / town | **76.55** | **Culture 8.6**, **Architecture 8.1** | 7.2 / 7.8 / 7.8 / 7.9 / 8.0 | [49.496, 5.98](https://www.google.com/maps/search/?api=1&query=49.496,5.98) |
+| 8 | [Wiltz](cities/wiltz.yaml) | City / town | **76.55** | **History 8.5**, **Culture 8.4** | 7.5 / 7.7 / 7.9 / 7.8 / 7.3 | [49.966, 5.933](https://www.google.com/maps/search/?api=1&query=49.966,5.933) |
+| 10 | [Diekirch](cities/diekirch.yaml) | City / town | **76.50** | **History 8.5**, **Culture 8.3** | 7.4 / 7.5 / 8.0 / 7.9 / 7.7 | [49.868, 6.157](https://www.google.com/maps/search/?api=1&query=49.868,6.157) |
+| 11 | [Remich](cities/remich.yaml) | City / town | **74.75** | **Relaxation 8.6**, **Food 8.4** | 7.4 / 7.5 / 7.2 / 8.0 / 7.4 | [49.545, 6.366](https://www.google.com/maps/search/?api=1&query=49.545,6.366) |
+| 12 | [Beaufort](cities/beaufort.yaml) | City / town | **74.65** | **History 8.1**, **Relaxation 8.0** | 7.3 / 7.6 / 7.6 / 7.7 / 7.0 | [49.835, 6.291](https://www.google.com/maps/search/?api=1&query=49.835,6.291) |
+| 13 | [Grevenmacher](cities/grevenmacher.yaml) | City / town | **73.60** | **Relaxation 8.2**, **Culture 8.1** | 7.1 / 7.4 / 7.4 / 7.8 / 7.3 | [49.68, 6.441](https://www.google.com/maps/search/?api=1&query=49.68,6.441) |
+| 14 | [Mondorf-les-Bains](cities/mondorf-les-bains.yaml) | City / town | **73.45** | **Relaxation 8.7** | 7.1 / 7.3 / 7.2 / 8.0 / 7.5 | [49.505, 6.282](https://www.google.com/maps/search/?api=1&query=49.505,6.282) |
+| 15 | [Ettelbruck](cities/ettelbruck.yaml) | City / town | **71.55** | **History 8.2**, **Culture 7.8** | 6.8 / 7.0 / 7.6 / 7.5 / 7.2 | [49.847, 6.104](https://www.google.com/maps/search/?api=1&query=49.847,6.104) |
 
 ---
 
