@@ -2,12 +2,16 @@ id: sight-tn-table-jugurtha
 name: "Table of Jugurtha"
 location:
   country_code: TN
-  latitude: 35.75
-  longitude: 8.40
+  latitude: 35.743278
+  longitude: 8.381917
 scores:
-  impact: null
-  uniqueness: null
-  significance: null
-  experience: null
-  depth: null
-  categories: {}
+  impact: 9
+  uniqueness: 9
+  significance: 8.7
+  experience: 8.6
+  depth: 8.2
+  categories:
+    nature: 9
+    history: 8.9
+    photography: 9.1
+    adventure: 8.6

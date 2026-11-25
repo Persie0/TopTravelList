@@ -156,22 +156,24 @@
 
 ## sight-tn-djerba-settlement-pattern — Djerba Historic Settlement Pattern — 2026-11-25
 
-- [YAML](../../../countries/TN/sights/djerba-settlement-pattern.yaml) · Action: new · **unassessed**.
-- Scope: serial island heritage not beaches. GPS 33.81, 10.90: approximate editorial reference, independent verification pending.
+- [YAML](../../../countries/TN/sights/djerba-settlement-pattern.yaml) · Action: rescore · **unassessed**.
+- Scope: serial island heritage not beaches. GPS 33.795111, 11.005417: approximate editorial reference, independent verification pending.
 - Worldwide peers (I/U/S/E/D):
   - [Historic Areas of Istanbul (TR)](../../../countries/TR/sights/historic-istanbul.yaml) — 9.4 / 9.4 / 9.4 / 9.1 / 9.1; global historic urban ensemble; future comparison only; visitor scope unresolved.
   - [Medieval City of Rhodes (GR)](../../../countries/GR/sights/rhodes-old-town.yaml) — 9.3 / 9.3 / 9.3 / 9.2 / 9.1; fortified urban fabric; future comparison only; visitor scope unresolved.
   - [As-Salt Historic Core (JO)](../../../countries/JO/sights/as-salt-historic-core.yaml) — 8.7 / 9.1 / 9.1 / 8.7 / 8.4; regional historic townscape; future comparison only; visitor scope unresolved.
   - [Massawa Old Town (ER)](../../../countries/ER/sights/massawa-old-town.yaml) — 8.6 / 8.9 / 9.1 / 8.0 / 8.0; historic port quarter; future comparison only; visitor scope unresolved.
 - Impact null: serial island heritage not beaches.
-- Uniqueness null: component scope unresolved.
-- Significance null: inscribed cultural property.
+- Uniqueness 9.1: distinctive documented dispersed settlement pattern.
+- Significance 9.2: documented internationally recognized living heritage.
 - Experience null: permitted routes not verified.
 - Depth null: serial components require inventory.
-- Categories: none assessed. Overall: unranked.
+- Categories: culture:9.2. Overall: unranked.
 - High-score challenge: no 9.5+ fields. No approved 10.
 - Evidence: [source context](https://whc.unesco.org/en/list/1640/) (accessed 2026-11-25; identity and/or heritage or visitor context, not all claims). Not independent claim-level verification.
 - Remaining gaps: precise GPS where unchecked, individual facts and access, component scope and all five dimensions.
+
+- Evidence follow-up 2026-11-26: UNESCO https://whc.unesco.org/en/list/1640/ (opened) documents dispersed self-sustaining settlement pattern, seven sites and 24 monuments, mixed public/private spaces. Official tourism https://www.discovertunisia.com/en/discover/around-djerba-and-zarzis (indexed excerpt) documents selected public visitor experiences, not the whole property. UNESCO N33 47 42.4 E11 0 19.5 converted to decimal; representative point. Retain null impact, experience and depth until mapped visitor scope is established. Earlier decision: [prior incomplete assessment](history-review-2026-11-26.md).
 
 ## sight-tn-ichkeul-national-park — Ichkeul National Park — 2026-11-25
 
@@ -194,7 +196,7 @@
 
 ## sight-tn-el-feija-national-park — El Feija National Park — 2026-11-25
 
-- [YAML](../../../countries/TN/sights/el-feija-national-park.yaml) · Action: new · **unassessed**.
+- [YAML](../../../countries/TN/sights/el-feija-national-park.yaml) · Action: rescore · **unassessed**.
 - Scope: tentative forest park. GPS 36.49, 8.31: approximate editorial reference, independent verification pending.
 - Worldwide peers (I/U/S/E/D):
   - [Wadi Rum Protected Area (JO)](../../../countries/JO/sights/wadi-rum-protected-area.yaml) — 9.8 / 9.7 / 9.4 / 9.6 / 9.5; major desert landscape; future comparison only; visitor scope unresolved.
@@ -202,18 +204,20 @@
   - [Black River Gorges National Park (MU)](../../../countries/MU/sights/black-river-gorges-national-park.yaml) — 9.0 / 8.9 / 8.8 / 8.9 / 9.0; bounded protected landscape; future comparison only; visitor scope unresolved.
   - [Pedra de Lume Salt Crater (CV)](../../../countries/CV/sights/pedra-de-lume-salt-crater.yaml) — 8.5 / 9.1 / 7.7 / 8.4 / 7.3; smaller salt landscape; future comparison only; visitor scope unresolved.
 - Impact null: tentative forest park.
-- Uniqueness null: habitat research needed.
-- Significance null: tentative natural property.
+- Uniqueness 8.6: distinctive documented protected ecosystem.
+- Significance 8.9: documented regionally important conservation habitat.
 - Experience null: permitted routes unknown.
 - Depth null: trail scope unresolved.
-- Categories: none assessed. Overall: unranked.
+- Categories: nature:9. Overall: unranked.
 - High-score challenge: no 9.5+ fields. No approved 10.
 - Evidence: [source context](https://whc.unesco.org/en/statesparties/tn) (accessed 2026-11-25; country designation or context only). Not independent claim-level verification.
 - Remaining gaps: precise GPS where unchecked, individual facts and access, component scope and all five dimensions.
 
+- Evidence follow-up 2026-11-26: UNESCO https://whc.unesco.org/en/tentativelists/5383/ (opened) documents forest ecosystem and Barbary deer reserve with strictly protected zone. Listed coordinates inconsistent with Tunisia and prose location; retain provisional existing point pending corroboration. Ordinary authorized visitor scope unresolved. Retain null impact, experience and depth until mapped visitor scope is established. Earlier decision: [prior incomplete assessment](history-review-2026-11-26.md).
+
 ## sight-tn-bouhedma-national-park — Bouhedma National Park — 2026-11-25
 
-- [YAML](../../../countries/TN/sights/bouhedma-national-park.yaml) · Action: new · **unassessed**.
+- [YAML](../../../countries/TN/sights/bouhedma-national-park.yaml) · Action: rescore · **unassessed**.
 - Scope: protected dryland landscape. GPS 34.49, 9.48: approximate editorial reference, independent verification pending.
 - Worldwide peers (I/U/S/E/D):
   - [Wadi Rum Protected Area (JO)](../../../countries/JO/sights/wadi-rum-protected-area.yaml) — 9.8 / 9.7 / 9.4 / 9.6 / 9.5; major desert landscape; future comparison only; visitor scope unresolved.
@@ -221,14 +225,16 @@
   - [Black River Gorges National Park (MU)](../../../countries/MU/sights/black-river-gorges-national-park.yaml) — 9.0 / 8.9 / 8.8 / 8.9 / 9.0; bounded protected landscape; future comparison only; visitor scope unresolved.
   - [Pedra de Lume Salt Crater (CV)](../../../countries/CV/sights/pedra-de-lume-salt-crater.yaml) — 8.5 / 9.1 / 7.7 / 8.4 / 7.3; smaller salt landscape; future comparison only; visitor scope unresolved.
 - Impact null: protected dryland landscape.
-- Uniqueness null: habitat research needed.
-- Significance null: tentative natural property.
+- Uniqueness 8.8: distinctive documented protected ecosystem.
+- Significance 9: documented regionally important conservation habitat.
 - Experience null: access unresolved.
 - Depth null: route scope unresolved.
-- Categories: none assessed. Overall: unranked.
+- Categories: nature:9.1. Overall: unranked.
 - High-score challenge: no 9.5+ fields. No approved 10.
 - Evidence: [source context](https://whc.unesco.org/en/statesparties/tn) (accessed 2026-11-25; country designation or context only). Not independent claim-level verification.
 - Remaining gaps: precise GPS where unchecked, individual facts and access, component scope and all five dimensions.
+
+- Evidence follow-up 2026-11-26: UNESCO https://whc.unesco.org/en/tentativelists/5384/ (opened) documents rare arid wooded steppe and biosphere reserve status, including strictly protected zones. Existing point within submitted coordinate range. Ordinary visitor scope unresolved. Retain null impact, experience and depth until mapped visitor scope is established. Earlier decision: [prior incomplete assessment](history-review-2026-11-26.md).
 
 ## sight-tn-chott-el-jerid — Chott El Jerid — 2026-11-25
 
@@ -306,24 +312,36 @@
 - Evidence: [source context](https://whc.unesco.org/en/statesparties/tn) (accessed 2026-11-25; country designation or context only). Not independent claim-level verification.
 - Remaining gaps: precise GPS where unchecked, individual facts and access, component scope and all five dimensions.
 
-## sight-tn-chemtou-quarries — Ancient Numidian Marble Quarries of Chemtou — 2026-11-25
+## sight-tn-chemtou-quarries — Ancient Numidian Marble Quarries of Chemtou — 2026-11-26
 
-- [YAML](../../../countries/TN/sights/chemtou-quarries.yaml) · Action: new · **unassessed**.
-- Scope: ancient quarry property. GPS 36.49, 8.58: approximate editorial reference, independent verification pending.
-- Worldwide peers (I/U/S/E/D):
-  - [Pompeii Archaeological Park (IT)](../../../countries/IT/sights/pompeii.yaml) — 9.6 / 9.7 / 9.7 / 9.3 / 9.5; extensive ancient urban remains; future comparison only; visitor scope unresolved.
-  - [Ephesus (TR)](../../../countries/TR/sights/ephesus.yaml) — 9.4 / 9.2 / 9.4 / 9.2 / 9.3; major Roman urban ensemble; future comparison only; visitor scope unresolved.
-  - [Jerash Archaeological City (JO)](../../../countries/JO/sights/jerash-archaeological-city.yaml) — 9.5 / 9.3 / 9.5 / 9.4 / 9.3; provincial Roman heritage; future comparison only; visitor scope unresolved.
-  - [Adulis Archaeological Site (ER)](../../../countries/ER/sights/adulis-archaeological-site.yaml) — 7.5 / 8.6 / 9.4 / 7.8 / 7.4; less intact regional archaeological site; future comparison only; visitor scope unresolved.
-- Impact null: ancient quarry property.
-- Uniqueness null: industrial history requires research.
-- Significance null: tentative property.
-- Experience null: quarry access uncertain.
-- Depth null: museum not assumed part of visit.
-- Categories: none assessed. Overall: unranked.
-- High-score challenge: no 9.5+ fields. No approved 10.
-- Evidence: [source context](https://whc.unesco.org/en/statesparties/tn) (accessed 2026-11-25; country designation or context only). Not independent claim-level verification.
-- Remaining gaps: precise GPS where unchecked, individual facts and access, component scope and all five dimensions.
+- YAML: [source](../../../countries/TN/sights/chemtou-quarries.yaml)
+- Action: rescore
+- Precise subject: Ancient quarries and their associated publicly interpreted archaeological site and museum; excludes unrelated sites and restricted extraction areas.
+- Location check: 36.49, 8.58; representative point, not entrance.
+- Evidence status: **source-linked-unverified**
+- Sources (2026-11-26): UNESCO tentative proposal https://whc.unesco.org/en/tentativelists/5687/ (opened) documents Numidian/Roman stone extraction, distinctive marble and labor history. Tunisia's heritage agency https://www.patrimoinedetunisie.com.tn/en/sites/chemtou/ (opened) lists site and museum visits; https://www.patrimoinedetunisie.com.tn/en/museums/the-chemtou-museum/overview/ (indexed excerpt) describes interpretation. Oxford Classical Dictionary https://academic.oup.com/edited-volume/61673/chapter-abstract/550499135 (indexed excerpt) corroborates quarry importance. Existing approximate site point consistent with https://meridiela.com/tunisia/chemtou/ (indexed excerpt), not an entrance.
+- Missing facts: current operating conditions and independent claim-level verification.
+
+### Worldwide peer comparisons
+- [cornwall-mining (GB)](../../../countries/GB/sights/cornwall-mining.yaml): 8.6/9.0/9.2/8.7/9.1; broader mining landscape and visitor routes.
+- [tarnowskie-gory-mine (PL)](../../../countries/PL/sights/tarnowskie-gory-mine.yaml): 8.7/9.1/9.3/8.8/8.6; more extensive underground engineering interpretation.
+- [olorgesailie (KE)](../../../countries/KE/sights/olorgesailie.yaml): 8.0/9.0/9.5/8.4/8.2; important archaeology, different prehistoric significance.
+- [carnuntum-archaeological-park (AT)](../../../countries/AT/sights/carnuntum-archaeological-park.yaml): 8.7/8.9/9.0/8.8/8.4; more visible reconstructed Roman architecture.
+
+### Scoring decisions
+- Impact: 8.3 — Distinctive quarry landscape and surviving archaeological remains.
+- Uniqueness: 9.1 — Rare ancient marble extraction and labor-history ensemble.
+- Significance: 9.2 — Important Numidian and Roman industrial heritage, not inscribed.
+- Experience: 8.6 — Documented site and museum interpretation; current opening unconfirmed.
+- Depth: 8.3 — Multiple related remains and exhibits, less extensive than Cornwall's serial landscape.
+- Applicable categories: history 9.3, architecture 8.5.
+- Overall: 87.25/100.
+- High-score challenge: no 9.5+ field or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide V2 assessment for documented visitor scope.
+- Earlier decision: [prior incomplete assessment](history-review-2026-11-26.md).
+- Verification still needed: independent claim-level verification, current access and representative point corroboration.
+
 
 ## sight-tn-southern-tunisia-roman-limes — Roman Limes of Southern Tunisia — 2026-11-25
 
@@ -401,24 +419,36 @@
 - Evidence: [source context](https://whc.unesco.org/en/statesparties/tn) (accessed 2026-11-25; country designation or context only). Not independent claim-level verification.
 - Remaining gaps: precise GPS where unchecked, individual facts and access, component scope and all five dimensions.
 
-## sight-tn-table-jugurtha — Table of Jugurtha — 2026-11-25
+## sight-tn-table-jugurtha — Table of Jugurtha — 2026-11-26
 
-- [YAML](../../../countries/TN/sights/table-jugurtha.yaml) · Action: new · **unassessed**.
-- Scope: plateau landform and heritage. GPS 35.75, 8.40: approximate editorial reference, independent verification pending.
-- Worldwide peers (I/U/S/E/D):
-  - [Wadi Rum Protected Area (JO)](../../../countries/JO/sights/wadi-rum-protected-area.yaml) — 9.8 / 9.7 / 9.4 / 9.6 / 9.5; major desert landscape; future comparison only; visitor scope unresolved.
-  - [Volcanoes National Park (RW)](../../../countries/RW/sights/volcanoes-national-park.yaml) — 9.6 / 9.7 / 9.4 / 9.4 / 9.1; protected habitat and routes; future comparison only; visitor scope unresolved.
-  - [Black River Gorges National Park (MU)](../../../countries/MU/sights/black-river-gorges-national-park.yaml) — 9.0 / 8.9 / 8.8 / 8.9 / 9.0; bounded protected landscape; future comparison only; visitor scope unresolved.
-  - [Pedra de Lume Salt Crater (CV)](../../../countries/CV/sights/pedra-de-lume-salt-crater.yaml) — 8.5 / 9.1 / 7.7 / 8.4 / 7.3; smaller salt landscape; future comparison only; visitor scope unresolved.
-- Impact null: plateau landform and heritage.
-- Uniqueness null: site evidence incomplete.
-- Significance null: tentative property.
-- Experience null: routes unverified.
-- Depth null: plateau GPS unresolved.
-- Categories: none assessed. Overall: unranked.
-- High-score challenge: no 9.5+ fields. No approved 10.
-- Evidence: [source context](https://whc.unesco.org/en/statesparties/tn) (accessed 2026-11-25; country designation or context only). Not independent claim-level verification.
-- Remaining gaps: precise GPS where unchecked, individual facts and access, component scope and all five dimensions.
+- YAML: [source](../../../countries/TN/sights/table-jugurtha.yaml)
+- Action: rescore
+- Precise subject: Named limestone plateau and ordinary visitor staircase, summit and visible historical remains; excludes unrelated regional attractions.
+- Location check: 35.743278, 8.381917; representative point, not entrance.
+- Evidence status: **source-linked-unverified**
+- Sources (2026-11-26): UNESCO tentative proposal https://whc.unesco.org/en/tentativelists/6278/ (opened) documents cliff-bound plateau and heritage context; N35 44 35.8 E8 22 54.9 converted to decimal. National tourism authority https://discovertunisia.com/en/discover/el-kef (opened) documents historic stairs, views and archaeological remains. Tunisian hikers association https://www.randotunisie.tn/randonnee-table-de-jugurtha/ (indexed excerpt) and https://www.lonelyplanet.com/points-of-interest/jugurthas-table/1595649 (indexed excerpt) corroborate hiking access; current conditions not checked.
+- Missing facts: current operating conditions and independent claim-level verification.
+
+### Worldwide peer comparisons
+- [grand-canyon-national-park (US)](../../../countries/US/sights/grand-canyon-national-park.yaml): 9.9/9.7/9.6/9.4/9.6; far greater geological and scenic scale.
+- [pancake-rocks (NZ)](../../../countries/NZ/sights/pancake-rocks.yaml): 9/9/8.1/8.9/7.5; focused distinctive geological landform and visitor walk.
+- [uluru (AU)](../../../countries/AU/sights/uluru.yaml): 9.6/9.5/9.4/8.9/8.1; stronger iconic landform and living cultural importance.
+- [twyfelfontein (NA)](../../../countries/NA/sights/twyfelfontein.yaml): 9.0/9.4/9.5/8.8/8.5; higher documented archaeological significance and rock-art ensemble.
+
+### Scoring decisions
+- Impact: 9 — Dramatic isolated limestone tableland and panoramic views.
+- Uniqueness: 9 — Distinctive natural fortress and geological-cultural combination, with global analogues.
+- Significance: 8.7 — Important regional historic refuge and archaeological evidence, not inscribed.
+- Experience: 8.6 — Documented staircase and hiking routes, subject to local conditions.
+- Depth: 8.2 — Several summit remains and viewpoints, focused single landform.
+- Applicable categories: nature 9, history 8.9, photography 9.1, adventure 8.6.
+- Overall: 88.00/100.
+- High-score challenge: no 9.5+ field or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide V2 assessment for documented visitor scope.
+- Earlier decision: [prior incomplete assessment](history-review-2026-11-26.md).
+- Verification still needed: independent claim-level verification, current access and representative point corroboration.
+
 
 ## sight-tn-southern-ksour-troglodyte-habitat — Southern Tunisian Ksour and Troglodyte Habitats — 2026-11-25
 
@@ -571,3 +601,7 @@
 - High-score challenge: no 9.5+ fields. No approved 10.
 - Evidence: [source context](https://www.lonelyplanet.com/articles/best-places-to-visit-in-tunisia) (accessed 2026-11-25; identity and/or heritage or visitor context, not all claims). Not independent claim-level verification.
 - Remaining gaps: precise GPS where unchecked, individual facts and access, category and peer calibration.
+
+## Heritage inventory recheck — 2026-11-26
+
+UNESCO https://whc.unesco.org/en/statesparties/tn confirms ten inscribed and fifteen tentative properties, represented at property/group level. Serial component inventory and full claim-level verification remain incomplete.
