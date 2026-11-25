@@ -2,7 +2,7 @@
 
 # Malaysia (MY) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**65 ranked** · **0 unassessed** · **65 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,75 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, or click its GPS coordinates to open **Google Maps**. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (65)
 
-No cities, towns & villages have been assessed for **Malaysia** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps |
+| ---: | --- | --- | ---: | --- | --- | --- |
+| 1 | [George Town](cities/george-town.yaml) | Town | **91.75** | **Food 9.6**, **Architecture 9.4**, **Culture 9.4**, History 9.3 | 9.1 / 9.3 / 9.2 / 9.2 / 9.0 | [5.4141, 100.3288](https://www.google.com/maps/search/?api=1&query=5.4141,100.3288) |
+| 2 | [Melaka City](cities/melaka-city.yaml) | City / town | **89.20** | **History 9.4**, **Culture 9.2**, **Architecture 9.0**, Food 9.0 | 8.8 / 9.0 / 9.3 / 8.8 / 8.5 | [2.1896, 102.2501](https://www.google.com/maps/search/?api=1&query=2.1896,102.2501) |
+| 3 | [Kuala Lumpur](cities/kuala-lumpur.yaml) | City / town | **87.70** | **Food 9.3**, **Architecture 9.0**, **Nightlife 8.9**, Culture 8.6 | 8.8 / 8.6 / 8.5 / 9.0 / 9.3 | [3.139, 101.6869](https://www.google.com/maps/search/?api=1&query=3.139,101.6869) |
+| 4 | [Kuching](cities/kuching.yaml) | City / town | **84.60** | **Culture 8.9**, **Food 8.8**, **History 8.6** | 8.3 / 8.5 / 8.4 / 8.7 / 8.6 | [1.5535, 110.3593](https://www.google.com/maps/search/?api=1&query=1.5535,110.3593) |
+| 5 | [Ipoh](cities/ipoh.yaml) | City / town | **82.65** | **Food 9.0**, **Architecture 8.6**, **Culture 8.4** | 8.2 / 8.3 / 8.0 / 8.6 / 8.4 | [4.5975, 101.0901](https://www.google.com/maps/search/?api=1&query=4.5975,101.0901) |
+| 6 | [Taiping](cities/taiping.yaml) | City / town | **81.40** | **Relaxation 8.6**, **History 8.5**, **Architecture 8.3** | 8.0 / 8.2 / 8.1 / 8.4 / 8.1 | [4.85, 100.733](https://www.google.com/maps/search/?api=1&query=4.85,100.733) |
+| 7 | [Kuala Terengganu](cities/kuala-terengganu.yaml) | City / town | **79.95** | **Culture 8.7**, **Food 8.5**, **Architecture 8.4** | 7.8 / 8.1 / 8.0 / 8.2 / 8.0 | [5.3296, 103.137](https://www.google.com/maps/search/?api=1&query=5.3296,103.137) |
+| 8 | [Kota Bharu](cities/kota-bharu.yaml) | City / town | **78.95** | **Culture 8.8**, **Food 8.7**, **History 8.2** | 7.6 / 8.1 / 8.0 / 8.0 / 7.9 | [6.1254, 102.2381](https://www.google.com/maps/search/?api=1&query=6.1254,102.2381) |
+| 9 | [Kuala Kangsar](cities/kuala-kangsar.yaml) | City / town | **78.90** | **Architecture 8.5**, **History 8.5** | 7.7 / 8.0 / 8.1 / 8.0 / 7.6 | [4.774, 100.943](https://www.google.com/maps/search/?api=1&query=4.774,100.943) |
+| 10 | [Kota Kinabalu](cities/kota-kinabalu.yaml) | City / town | **78.40** | **Food 8.5**, **Relaxation 8.3** | 7.8 / 7.7 / 7.5 / 8.5 / 8.0 | [5.9804, 116.0735](https://www.google.com/maps/search/?api=1&query=5.9804,116.0735) |
+| 11 | [Putrajaya](cities/putrajaya.yaml) | City / town | **77.50** | **Architecture 8.7**, **Photography 8.6** | 7.9 / 8.0 / 7.2 / 7.8 / 7.7 | [2.9264, 101.6964](https://www.google.com/maps/search/?api=1&query=2.9264,101.6964) |
+| 12 | [Alor Setar](cities/alor-setar.yaml) | City / town | **76.20** | **Architecture 8.3**, **History 8.3** | 7.4 / 7.6 / 7.9 / 7.8 / 7.5 | [6.1248, 100.3678](https://www.google.com/maps/search/?api=1&query=6.1248,100.3678) |
+| 13 | [Kundasang](cities/kundasang.yaml) | City / town | **76.15** | **Relaxation 8.4**, **Photography 8.3** | 7.7 / 7.8 / 7.0 / 8.1 / 7.4 | [5.987, 116.576](https://www.google.com/maps/search/?api=1&query=5.987,116.576) |
+| 14 | [Fraser's Hill](cities/frasers-hill.yaml) | City / town | **76.10** | **Relaxation 8.6**, **Architecture 8.0** | 7.5 / 7.8 / 7.3 / 8.0 / 7.5 | [3.711, 101.737](https://www.google.com/maps/search/?api=1&query=3.711,101.737) |
+| 15 | [Sandakan](cities/sandakan.yaml) | City / town | **75.95** | **History 8.3**, **Food 8.0** | 7.3 / 7.6 / 8.0 / 7.7 / 7.5 | [5.8402, 118.1179](https://www.google.com/maps/search/?api=1&query=5.8402,118.1179) |
+| 16 | [Muar](cities/muar.yaml) | City / town | **75.70** | **Food 8.6**, **Architecture 8.0** | 7.4 / 7.6 / 7.5 / 8.0 / 7.5 | [2.0442, 102.5689](https://www.google.com/maps/search/?api=1&query=2.0442,102.5689) |
+| 17 | [Johor Bahru](cities/johor-bahru.yaml) | City / town | **75.35** | **Food 8.5**, **Architecture 8.0** | 7.4 / 7.3 / 7.5 / 8.0 / 7.9 | [1.4927, 103.7414](https://www.google.com/maps/search/?api=1&query=1.4927,103.7414) |
+| 18 | [Tanah Rata](cities/tanah-rata.yaml) | City / town | **74.60** | **Relaxation 8.5**, **Food 8.0** | 7.5 / 7.5 / 6.8 / 8.1 / 7.6 | [4.47, 101.376](https://www.google.com/maps/search/?api=1&query=4.47,101.376) |
+| 19 | [Klang](cities/klang.yaml) | City / town | **74.00** | **Food 8.5**, **History 8.0** | 7.0 / 7.5 / 7.6 / 7.7 / 7.5 | [3.0449, 101.4456](https://www.google.com/maps/search/?api=1&query=3.0449,101.4456) |
+| 20 | [Miri](cities/miri.yaml) | City / town | **73.65** | **Food 8.0**, **History 7.8** | 7.2 / 7.1 / 7.5 / 7.8 / 7.6 | [4.3995, 113.9914](https://www.google.com/maps/search/?api=1&query=4.3995,113.9914) |
+| 21 | [Kuantan](cities/kuantan.yaml) | City / town | **73.10** | **Food 8.1**, **Relaxation 8.0** | 7.3 / 7.1 / 7.0 / 7.9 / 7.6 | [3.8077, 103.326](https://www.google.com/maps/search/?api=1&query=3.8077,103.326) |
+| 22 | [Sibu](cities/sibu.yaml) | City / town | **73.05** | **Food 8.3**, **Culture 8.0** | 7.0 / 7.4 / 7.3 / 7.7 / 7.4 | [2.2873, 111.8305](https://www.google.com/maps/search/?api=1&query=2.2873,111.8305) |
+| 23 | [Pangkor Town](cities/pangkor-town.yaml) | Town | **72.70** | **Food 8.0**, **Culture 7.8** | 7.1 / 7.4 / 7.0 / 7.8 / 7.2 | [4.215, 100.575](https://www.google.com/maps/search/?api=1&query=4.215,100.575) |
+| 24 | [Kapit](cities/kapit.yaml) | City / town | **72.65** | **Culture 8.0** | 6.9 / 7.6 / 7.3 / 7.5 / 7.1 | [2.016, 112.94](https://www.google.com/maps/search/?api=1&query=2.016,112.94) |
+| 25 | [Kuala Selangor](cities/kuala-selangor.yaml) | City / town | **72.50** | **Food 7.9**, **History 7.9** | 7.0 / 7.3 / 7.5 / 7.5 / 7.0 | [3.34, 101.25](https://www.google.com/maps/search/?api=1&query=3.34,101.25) |
+| 26 | [Labuan Victoria](cities/labuan-victoria.yaml) | City / town | **71.90** | **History 7.9**, **Food 7.8** | 7.0 / 7.0 / 7.4 / 7.6 / 7.2 | [5.277, 115.241](https://www.google.com/maps/search/?api=1&query=5.277,115.241) |
+| 27 | [Cherating](cities/cherating.yaml) | City / town | **71.55** | **Relaxation 8.5**, **Beaches 8.3** | 7.1 / 7.2 / 6.4 / 8.1 / 7.3 | [4.125, 103.391](https://www.google.com/maps/search/?api=1&query=4.125,103.391) |
+| 28 | [Balik Pulau](cities/balik-pulau.yaml) | City / town | **71.40** | **Food 8.0**, **Relaxation 7.9** | 7.0 / 7.3 / 6.7 / 7.7 / 7.2 | [5.353, 100.235](https://www.google.com/maps/search/?api=1&query=5.353,100.235) |
+| 28 | [Pantai Cenang](cities/pantai-cenang.yaml) | City / town | **71.40** | **Relaxation 8.5**, **Beaches 8.4**, **Nightlife 8.0** | 7.2 / 7.0 / 6.2 / 8.2 / 7.6 | [6.293, 99.727](https://www.google.com/maps/search/?api=1&query=6.293,99.727) |
+| 30 | [Seremban](cities/seremban.yaml) | City / town | **71.10** | **Food 8.0**, **Culture 7.7** | 6.9 / 7.0 / 7.1 / 7.6 / 7.3 | [2.7297, 101.9381](https://www.google.com/maps/search/?api=1&query=2.7297,101.9381) |
+| 31 | [Brinchang](cities/brinchang.yaml) | City / town | **70.65** | **Food 8.0**, **Relaxation 8.0** | 7.0 / 7.1 / 6.5 / 7.8 / 7.2 | [4.491, 101.388](https://www.google.com/maps/search/?api=1&query=4.491,101.388) |
+| 31 | [Kudat](cities/kudat.yaml) | City / town | **70.65** | **Food 7.8**, **Culture 7.6** | 6.9 / 7.2 / 6.8 / 7.5 / 7.1 | [6.8837, 116.8477](https://www.google.com/maps/search/?api=1&query=6.8837,116.8477) |
+| 33 | [Teluk Intan](cities/teluk-intan.yaml) | City / town | **70.25** | **Food 7.8**, **History 7.5** | 6.8 / 7.1 / 7.1 / 7.4 / 6.8 | [4.025, 101.02](https://www.google.com/maps/search/?api=1&query=4.025,101.02) |
+| 34 | [Sri Aman](cities/sri-aman.yaml) | City / town | **70.10** | **Culture 7.8**, **History 7.6** | 6.7 / 7.1 / 7.2 / 7.3 / 6.9 | [1.237, 111.462](https://www.google.com/maps/search/?api=1&query=1.237,111.462) |
+| 35 | [Shah Alam](cities/shah-alam.yaml) | City / town | **69.95** | **Architecture 8.0**, **Food 7.8** | 6.9 / 6.8 / 6.9 / 7.5 / 7.2 | [3.0738, 101.5183](https://www.google.com/maps/search/?api=1&query=3.0738,101.5183) |
+| 36 | [Bentong](cities/bentong.yaml) | City / town | **69.85** | **Food 8.0** | 6.8 / 7.0 / 6.8 / 7.5 / 7.1 | [3.522, 101.91](https://www.google.com/maps/search/?api=1&query=3.522,101.91) |
+| 37 | [Lenggong](cities/lenggong.yaml) | City / town | **69.70** | **History 7.7**, **Culture 7.5** | 6.7 / 7.0 / 7.2 / 7.2 / 6.9 | [5.104, 100.969](https://www.google.com/maps/search/?api=1&query=5.104,100.969) |
+| 38 | [Sekinchan](cities/sekinchan.yaml) | City / town | **69.65** | **Food 7.9**, **Photography 7.8** | 6.9 / 7.1 / 6.4 / 7.6 / 7.0 | [3.507, 101.102](https://www.google.com/maps/search/?api=1&query=3.507,101.102) |
+| 39 | [Tenom](cities/tenom.yaml) | City / town | **69.15** | **Food 7.8**, **Culture 7.5** | 6.7 / 7.0 / 6.8 / 7.3 / 7.0 | [5.121, 115.941](https://www.google.com/maps/search/?api=1&query=5.121,115.941) |
+| 40 | [Port Dickson](cities/port-dickson.yaml) | City / town | **69.00** | **Relaxation 8.0**, **Beaches 7.7** | 6.8 / 6.7 / 6.5 / 7.7 / 7.3 | [2.5225, 101.7959](https://www.google.com/maps/search/?api=1&query=2.5225,101.7959) |
+| 41 | [Mukah](cities/mukah.yaml) | City / town | **68.95** | **Culture 7.8**, **Food 7.7** | 6.6 / 7.1 / 6.9 / 7.2 / 6.8 | [2.896, 112.094](https://www.google.com/maps/search/?api=1&query=2.896,112.094) |
+| 41 | [Petaling Jaya](cities/petaling-jaya.yaml) | City / town | **68.95** | **Food 8.3**, **Nightlife 7.8** | 6.8 / 6.6 / 6.5 / 7.7 / 7.5 | [3.1073, 101.6067](https://www.google.com/maps/search/?api=1&query=3.1073,101.6067) |
+| 43 | [Batu Pahat](cities/batu-pahat.yaml) | City / town | **68.85** | **Food 8.0** | 6.7 / 6.8 / 6.7 / 7.5 / 7.1 | [1.8548, 102.9325](https://www.google.com/maps/search/?api=1&query=1.8548,102.9325) |
+| 43 | [Keningau](cities/keningau.yaml) | City / town | **68.85** | **Culture 7.7** | 6.6 / 6.9 / 7.0 / 7.2 / 7.0 | [5.337, 116.16](https://www.google.com/maps/search/?api=1&query=5.337,116.16) |
+| 45 | [Kuala Tahan](cities/kuala-tahan.yaml) | City / town | **68.70** | **Relaxation 7.7** | 6.7 / 7.2 / 6.4 / 7.4 / 6.7 | [4.383, 102.4](https://www.google.com/maps/search/?api=1&query=4.383,102.4) |
+| 46 | [Ranau](cities/ranau.yaml) | City / town | **68.40** | **Culture 7.4** | 6.6 / 6.8 / 7.0 / 7.2 / 6.8 | [5.952, 116.664](https://www.google.com/maps/search/?api=1&query=5.952,116.664) |
+| 47 | [Kuah](cities/kuah.yaml) | City / town | **68.15** | **Relaxation 7.7**, **Food 7.6** | 6.7 / 6.7 / 6.6 / 7.4 / 7.0 | [6.3265, 99.8432](https://www.google.com/maps/search/?api=1&query=6.3265,99.8432) |
+| 47 | [Semporna](cities/semporna.yaml) | City / town | **68.15** | **Food 7.8**, **Culture 7.6** | 6.6 / 7.1 / 6.5 / 7.2 / 6.8 | [4.4794, 118.6112](https://www.google.com/maps/search/?api=1&query=4.4794,118.6112) |
+| 49 | [Kajang](cities/kajang.yaml) | City / town | **68.05** | **Food 8.4** | 6.6 / 6.8 / 6.5 / 7.5 / 7.0 | [2.9935, 101.7874](https://www.google.com/maps/search/?api=1&query=2.9935,101.7874) |
+| 50 | [Tawau](cities/tawau.yaml) | City / town | **67.95** | **Food 8.0** | 6.6 / 6.8 / 6.6 / 7.3 / 7.0 | [4.2447, 117.8912](https://www.google.com/maps/search/?api=1&query=4.2447,117.8912) |
+| 51 | [Dungun](cities/dungun.yaml) | City / town | **67.85** | **Food 7.7** | 6.6 / 6.8 / 6.6 / 7.3 / 6.9 | [4.756, 103.419](https://www.google.com/maps/search/?api=1&query=4.756,103.419) |
+| 51 | [Lumut](cities/lumut.yaml) | City / town | **67.85** | **Food 7.6**, **Relaxation 7.6** | 6.7 / 6.7 / 6.5 / 7.4 / 6.9 | [4.234, 100.629](https://www.google.com/maps/search/?api=1&query=4.234,100.629) |
+| 51 | [Mersing](cities/mersing.yaml) | City / town | **67.85** | **Food 7.7** | 6.7 / 6.8 / 6.5 / 7.3 / 6.8 | [2.4312, 103.8361](https://www.google.com/maps/search/?api=1&query=2.4312,103.8361) |
+| 54 | [Raub](cities/raub.yaml) | City / town | **67.75** | **Food 7.6**, **History 7.4** | 6.5 / 6.8 / 6.9 / 7.1 / 6.8 | [3.792, 101.858](https://www.google.com/maps/search/?api=1&query=3.792,101.858) |
+| 55 | [Bintulu](cities/bintulu.yaml) | City / town | **67.70** | **Food 7.7** | 6.6 / 6.7 / 6.6 / 7.3 / 7.0 | [3.166, 113.033](https://www.google.com/maps/search/?api=1&query=3.166,113.033) |
+| 55 | [Limbang](cities/limbang.yaml) | City / town | **67.70** | **Culture 7.5** | 6.5 / 6.9 / 6.8 / 7.1 / 6.7 | [4.75, 115.01](https://www.google.com/maps/search/?api=1&query=4.75,115.01) |
+| 57 | [Butterworth](cities/butterworth.yaml) | City / town | **67.60** | **Food 7.8** | 6.6 / 6.6 / 6.7 / 7.2 / 7.1 | [5.399, 100.365](https://www.google.com/maps/search/?api=1&query=5.399,100.365) |
+| 58 | [Kangar](cities/kangar.yaml) | City / town | **67.35** | **Food 7.6** | 6.6 / 6.7 / 6.6 / 7.2 / 6.8 | [6.4414, 100.1986](https://www.google.com/maps/search/?api=1&query=6.4414,100.1986) |
+| 59 | [Kuala Perlis](cities/kuala-perlis.yaml) | City / town | **67.00** | **Food 7.8** | 6.5 / 6.8 / 6.5 / 7.2 / 6.7 | [6.401, 100.13](https://www.google.com/maps/search/?api=1&query=6.401,100.13) |
+| 60 | [Beaufort](cities/beaufort.yaml) | City / town | **66.80** | **Food 7.6** | 6.4 / 6.7 / 6.7 / 7.1 / 6.8 | [5.347, 115.746](https://www.google.com/maps/search/?api=1&query=5.347,115.746) |
+| 60 | [Marang](cities/marang.yaml) | City / town | **66.80** | **Food 7.6** | 6.5 / 6.8 / 6.4 / 7.2 / 6.7 | [5.205, 103.205](https://www.google.com/maps/search/?api=1&query=5.205,103.205) |
+| 62 | [Kuala Besut](cities/kuala-besut.yaml) | City / town | **66.00** | **Food 7.5** | 6.4 / 6.7 / 6.4 / 7.1 / 6.6 | [5.829, 102.555](https://www.google.com/maps/search/?api=1&query=5.829,102.555) |
+| 63 | [Lahad Datu](cities/lahad-datu.yaml) | City / town | **65.45** | **Food 7.4** | 6.3 / 6.6 / 6.5 / 6.9 / 6.7 | [5.0268, 118.327](https://www.google.com/maps/search/?api=1&query=5.0268,118.327) |
+| 63 | [Serian](cities/serian.yaml) | City / town | **65.45** | **Food 7.5**, **Culture 7.4** | 6.3 / 6.7 / 6.4 / 7.0 / 6.5 | [1.165, 110.566](https://www.google.com/maps/search/?api=1&query=1.165,110.566) |
+| 65 | [Jerantut](cities/jerantut.yaml) | City / town | **65.05** | **Food 7.4** | 6.3 / 6.5 / 6.4 / 7.0 / 6.6 | [3.936, 102.361](https://www.google.com/maps/search/?api=1&query=3.936,102.361) |
 
 ---
 
