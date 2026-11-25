@@ -82,11 +82,11 @@ Every registered country has a linked folder below. The status is determined fro
 
 <!-- COUNTRY_DIRECTORY_START -->
 
-**195 done · 2 not done · 197 countries total.**
+**196 done · 1 not done · 197 countries total.**
 
 **Done** means both the city and sight folders contain destination YAML records. It does not mean that every possible destination has been cataloged.
 
-### Done (195)
+### Done (196)
 
 | Country | Cities | Sights | Google Maps |
 | --- | ---: | ---: | --- |
@@ -141,6 +141,7 @@ Every registered country has a linked folder below. The status is determined fro
 | [Dominican Republic](countries/DO/) (`DO`) | [12](countries/DO/cities.md) | [34](countries/DO/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Dominican%20Republic) |
 | [DR Congo](countries/CD/) (`CD`) | [8](countries/CD/cities.md) | [17](countries/CD/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=DR%20Congo) |
 | [Ecuador](countries/EC/) (`EC`) | [36](countries/EC/cities.md) | [55](countries/EC/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Ecuador) |
+| [Egypt](countries/EG/) (`EG`) | [10](countries/EG/cities.md) | [35](countries/EG/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Egypt) |
 | [El Salvador](countries/SV/) (`SV`) | [24](countries/SV/cities.md) | [54](countries/SV/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=El%20Salvador) |
 | [Equatorial Guinea](countries/GQ/) (`GQ`) | [13](countries/GQ/cities.md) | [26](countries/GQ/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Equatorial%20Guinea) |
 | [Eritrea](countries/ER/) (`ER`) | [13](countries/ER/cities.md) | [30](countries/ER/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Eritrea) |
@@ -286,13 +287,13 @@ Every registered country has a linked folder below. The status is determined fro
 | [Zambia](countries/ZM/) (`ZM`) | [5](countries/ZM/cities.md) | [20](countries/ZM/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Zambia) |
 | [Zimbabwe](countries/ZW/) (`ZW`) | [6](countries/ZW/cities.md) | [20](countries/ZW/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Zimbabwe) |
 
-### Not done (2)
+### Not done (1)
 
 These countries have no entries in one or both destination folders yet. Their country folders already exist; follow the links to populate them.
 
 | Country | Country | Country | Country |
 | --- | --- | --- | --- |
-| [Egypt](countries/EG/) (`EG`) · [Map](https://www.google.com/maps/search/?api=1&query=Egypt) | [South Africa](countries/ZA/) (`ZA`) · [Map](https://www.google.com/maps/search/?api=1&query=South%20Africa) |  |  |
+| [South Africa](countries/ZA/) (`ZA`) · [Map](https://www.google.com/maps/search/?api=1&query=South%20Africa) |  |  |  |
 
 <!-- COUNTRY_DIRECTORY_END -->
 

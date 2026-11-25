@@ -2,7 +2,7 @@
 
 # Egypt (EG) — Sights & attractions ranking
 
-**27 ranked** · **8 unassessed** · **35 total** · Worldwide scoring **v2**
+**30 ranked** · **5 unassessed** · **35 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (27)
+## Complete ranked list (30)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -40,21 +40,21 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 24 | [Siwa Archaeological Area](sights/siwa-archaeological-area.yaml) | Museum / heritage | **88.05** | **History 9.2**, **Culture 9.1**, **Architecture 8.8** | 8.7 / 9.0 / 9.1 / 8.5 / 8.5 | [29.205, 25.545](https://www.google.com/maps/search/?api=1&query=29.205,25.545) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Siwa%20Archaeological%20Area%2C%20Egypt) |
 | 25 | [Catacombs of Kom el Shoqafa](sights/catacombs-kom-el-shoqafa.yaml) | Attraction | **87.70** | **History 9.2**, **Architecture 8.9** | 8.7 / 9.1 / 9.0 / 8.5 / 8.1 | [31.178, 29.893](https://www.google.com/maps/search/?api=1&query=31.178,29.893) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Catacombs%20of%20Kom%20el%20Shoqafa%2C%20Egypt) |
 | 26 | [Qaitbay Citadel](sights/qaitbay-citadel.yaml) | Fortification | **86.65** | **History 9.0**, **Photography 9.0**, **Architecture 8.9** | 8.8 / 8.7 / 8.8 / 8.6 / 8.0 | [31.214, 29.885](https://www.google.com/maps/search/?api=1&query=31.214,29.885) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Qaitbay%20Citadel%2C%20Egypt) |
-| 27 | [Memphis Archaeological Area (Mit Rahina)](sights/memphis.yaml) | Museum / heritage | **84.65** | **History 9.5**, **Architecture 8.5** | 8.1 / 8.7 / 9.4 / 8.0 / 7.8 | [29.849, 31.254](https://www.google.com/maps/search/?api=1&query=29.849,31.254) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Memphis%20Archaeological%20Area%20%28Mit%20Rahina%29%2C%20Egypt) |
+| 27 | [Pharaoh's Island](sights/pharaoh-island.yaml) | Island | **85.75** | **History 9.0**, **Photography 9.0**, **Architecture 8.9** | 8.8 / 8.7 / 8.8 / 8.2 / 7.7 | [29.463, 34.858](https://www.google.com/maps/search/?api=1&query=29.463,34.858) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Pharaoh%27s%20Island%2C%20Egypt) |
+| 28 | [Memphis Archaeological Area (Mit Rahina)](sights/memphis.yaml) | Museum / heritage | **84.65** | **History 9.5**, **Architecture 8.5** | 8.1 / 8.7 / 9.4 / 8.0 / 7.8 | [29.849, 31.254](https://www.google.com/maps/search/?api=1&query=29.849,31.254) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Memphis%20Archaeological%20Area%20%28Mit%20Rahina%29%2C%20Egypt) |
+| 29 | [Roda Island Nilometer](sights/nilometer-roda.yaml) | Island | **84.55** | **History 9.2**, **Architecture 8.9** | 8.2 / 9.0 / 9.0 / 8.3 / 7.0 | [30.006944, 31.224722](https://www.google.com/maps/search/?api=1&query=30.006944,31.224722) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Roda%20Island%20Nilometer%2C%20Egypt) |
+| 30 | [Abu Mena Archaeological Site](sights/abu-mena.yaml) | Museum / heritage | **84.35** | **History 9.4**, **Architecture 8.5** | 7.9 / 8.9 / 9.3 / 7.8 / 8.1 | [30.835833, 29.666667](https://www.google.com/maps/search/?api=1&query=30.835833,29.666667) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Abu%20Mena%20Archaeological%20Site%2C%20Egypt) |
 
-## Not yet fully assessed (8)
+## Not yet fully assessed (5)
 
 These destinations have no rank until all five core scores are assessed.
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
-| — | [Abu Mena Archaeological Site](sights/abu-mena.yaml) | Museum / heritage | **—** | — | — / — / — / — / — | [30.842, 29.663](https://www.google.com/maps/search/?api=1&query=30.842,29.663) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Abu%20Mena%20Archaeological%20Site%2C%20Egypt) |
 | — | [Alexandria Ancient Remains and New Library](sights/alexandria-heritage-property.yaml) | Attraction | **—** | — | — / — / — / — / — | [31.2, 29.92](https://www.google.com/maps/search/?api=1&query=31.2,29.92) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Alexandria%20Ancient%20Remains%20and%20New%20Library%2C%20Egypt) |
 | — | [Ancient Thebes and its Necropolis UNESCO Property](sights/ancient-thebes-property.yaml) | Attraction | **—** | — | — / — / — / — / — | [25.7, 32.62](https://www.google.com/maps/search/?api=1&query=25.7,32.62) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ancient%20Thebes%20and%20its%20Necropolis%20UNESCO%20Property%2C%20Egypt) |
 | — | [Memphis and its Necropolis UNESCO Property](sights/memphis-necropolis-property.yaml) | Attraction | **—** | — | — / — / — / — / — | [29.94, 31.2](https://www.google.com/maps/search/?api=1&query=29.94,31.2) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Memphis%20and%20its%20Necropolis%20UNESCO%20Property%2C%20Egypt) |
 | — | [Nubian Monuments from Abu Simbel to Philae](sights/nubian-monuments-property.yaml) | Attraction | **—** | — | — / — / — / — / — | [24.0, 32.5](https://www.google.com/maps/search/?api=1&query=24.0,32.5) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nubian%20Monuments%20from%20Abu%20Simbel%20to%20Philae%2C%20Egypt) |
-| — | [Pharaoh's Island](sights/pharaoh-island.yaml) | Island | **—** | — | — / — / — / — / — | [29.463, 34.858](https://www.google.com/maps/search/?api=1&query=29.463,34.858) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Pharaoh%27s%20Island%2C%20Egypt) |
-| — | [Roda Island Nilometer](sights/nilometer-roda.yaml) | Island | **—** | — | — / — / — / — / — | [30.005, 31.226](https://www.google.com/maps/search/?api=1&query=30.005,31.226) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Roda%20Island%20Nilometer%2C%20Egypt) |
 | — | [Serabit el-Khadim Temple](sights/serabit-el-khadim.yaml) | Religious site | **—** | — | — / — / — / — / — | [29.037, 33.459](https://www.google.com/maps/search/?api=1&query=29.037,33.459) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Serabit%20el-Khadim%20Temple%2C%20Egypt) |
 
 ---
