@@ -2,6 +2,9 @@
 
 [Worldwide rules](../../../rules.md) · [Future-country workflow](../../future-country-workflow.md). 2026-11-25. [UNESCO country inventory](https://whc.unesco.org/en/statesparties/gn/) identifies one inscribed property and eight tentative entries; all represented. The latest Fouta Djallon tentative submission is dated 31 August 2026 ([reference](https://whc.unesco.org/en/tentativelists/7040/)). Mount Nimba is represented by the Guinean sector, not the Ivorian or Liberian sectors. It is a strict reserve on the List of World Heritage in Danger; normal authorized visit not established. Parent property and visitor-circuit scores are not additive. Published DMS points for Gberedou, Bassari and slave route used; some submissions have ambiguous projected coordinates or inconsistent geographic ranges. Other points approximate unless specifically noted. Shared peer ladders require further calibration. Scores are editorial, not access or safety guarantees.
 
+
+Follow-up 2026-11-25: [UNESCO country inventory](https://whc.unesco.org/en/statesparties/gn/) confirms all eight tentative properties and one inscription; the [2026 decision](https://whc.unesco.org/en/decisions/?id_decision=9042) retains Nimba on the danger list. Three formerly unlinked sights supplemented. Bossou Forest Reserve added separately as unassessed. Additional inventory gaps include Fortin de Boké and Dominian slave-trade sites ([ministry rehabilitation assessment](https://mcta.gov.gn/rehabilitation-des-sites-negriers-mission-conjointe-du-mcta-et-de-la-smb-a-boke/)), Ziama and Diécké forests, and distinct internationally designated wetlands ([Ramsar national register](https://www.ramsar.org/country-profile/guinea), 16 designations). Do not equate designation with a coherent visitor itinerary. Precise coordinates and ordinary access require further work.
+
 ## sight-gn-mount-nimba-strict-nature-reserve-guinea-sector — Mount Nimba Strict Nature Reserve (Guinea sector) — 2026-11-25
 
 - [YAML](../../../countries/GN/sights/mount-nimba-strict-nature-reserve-guinea-sector.yaml) · Action: new · **unassessed**.
@@ -16,10 +19,12 @@
 - Significance 9.7: international biodiversity significance.
 - Experience null: strict protected access unresolved.
 - Depth null: ordinary visitor route unknown.
-- Categories: nature:9.7, wildlife:9.6. Overall: unranked.
-- High-score challenge: Uniqueness and conservation significance 9.6–9.7 reflect UNESCO-documented endemic species and habitat gradients; compared to ordinary forest parks this is an ecological rating, not a tourism endorsement.. No approved 10.
+- Categories: nature:9.7, wildlife:null. Overall: unranked.
+- High-score challenge: Uniqueness 9.6, significance/nature 9.7 reflect UNESCO-documented rare endemic species and habitat gradients; not a visitor wildlife score. No approved 10.
 - Evidence: [Reference](https://whc.unesco.org/en/list/155) — Opened UNESCO property page and search excerpt describe endemic species, grassland and forest habitats; https://africacompass.com/landmarks/mount-nimba-strict-nature-reserve/ indicates restricted access; UNESCO map table labels reference Côte d’Ivoire, so do not use that point as Guinean sector verification; accessed 2026-11-25. Not complete claim-level verification.
 - Remaining gaps: Normal permitted visitor experience and scope not established.
+- Reassessment 2026-11-25: wildlife 9.6 → null. [UNESCO 2026 decision](https://whc.unesco.org/en/decisions/?id_decision=9042) retains danger-list status. Compare Bwindi, Taï, Kibale and East Nimba: ecological rarity does not establish an ordinary permitted visitor wildlife experience in the strict reserve. Overall remains unranked.
+
 
 ## sight-gn-fouta-djallon-massif-tentative-property — Fouta Djallon Massif (tentative property) — 2026-11-25
 
@@ -115,6 +120,8 @@
 - High-score challenge: Significance 9.5 and history 9.6 reflect the documented historic trade route, not a claim that intact architecture or a unified visitor circuit exists.. No approved 10.
 - Evidence: [Reference](https://whc.unesco.org/en/tentativelists/1523/) — Opened state submission confirms historical route identity and coordinate; town and present visitor route not verified; accessed 2026-11-25. Not complete claim-level verification.
 - Remaining gaps: Normal permitted visitor experience and scope not established.
+- Follow-up: [UNESCO nomination](https://whc.unesco.org/en/tentativelists/1523/) documents historical significance; compare Gorée, Bunce Island, Elmina and Kunta Kinteh Island. The dispersed route's history 9.6 and significance 9.5 reflect international memory of enslavement, not a unified visit or surviving fabric. Retain provisionally, overall unranked.
+
 
 ## sight-gn-bassari-cultural-landscape-guinea — Bassari Cultural Landscape (Guinea) — 2026-11-25
 
@@ -308,7 +315,7 @@
 
 ## sight-gn-kilissi-waterfalls — Kilissi Waterfalls — 2026-11-25
 
-- [YAML](../../../countries/GN/sights/kilissi-waterfalls.yaml) · Action: new · **editorial-only**.
+- [YAML](../../../countries/GN/sights/kilissi-waterfalls.yaml) · Action: new · **source-linked-unverified**.
 - Scope: waterfall and immediate visitor area. GPS 10.04, -12.89: approximate editorial point; verify before use.
 - Worldwide peers (I/U/S/E/D):
   - [Mount Huangshan (Yellow Mountain) (CN)](../../../countries/CN/sights/mount-huangshan.yaml) — 9.9 / 9.9 / 9.6 / 9.8 / 9.3 (97.65/100); upper anchor; lower impact (forest cascades); lower uniqueness (regional waterfall setting); lower significance (local natural interest); lower experience (guided walks); lower depth (bounded site).
@@ -322,7 +329,7 @@
 - Depth 7.0: bounded site.
 - Categories: nature:8.4, photography:8.6, relaxation:8.2. Overall: 75.25/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked destination-specific source.
+- Evidence: [National tourism guide](https://mpci.gov.gn/TOURISM/GUIDETOURISTIQUE.html) identifies Kilissi natural swimming pool and waterfall visitor setting; actual guided routes and GPS remain provisional. Checked 2026-11-25; original review editorial-only.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access and individual peer/category calibration.
 
 ## sight-gn-chien-qui-fume-rock-formation — Chien Qui Fume Rock Formation — 2026-11-25
@@ -479,7 +486,7 @@
 
 ## sight-gn-national-museum-of-guinea — National Museum of Guinea — 2026-11-25
 
-- [YAML](../../../countries/GN/sights/national-museum-of-guinea.yaml) · Action: new · **editorial-only**.
+- [YAML](../../../countries/GN/sights/national-museum-of-guinea.yaml) · Action: new · **source-linked-unverified**.
 - Scope: museum collection and public exhibitions. GPS 9.51, -13.72: approximate editorial point; verify before use.
 - Worldwide peers (I/U/S/E/D):
   - [Kunsthistorisches Museum (AT)](../../../countries/AT/sights/kunsthistorisches-museum.yaml) — 9.2 / 9.4 / 9.6 / 9.4 / 9.5 (93.90/100); upper anchor; lower impact (Guinean cultural objects); lower uniqueness (national material culture); lower significance (historical interpretation); lower experience (educational visit subject to access); lower depth (modest collection).
@@ -493,12 +500,12 @@
 - Depth 6.6: modest collection.
 - Categories: history:8.7, culture:8.5. Overall: 73.50/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked destination-specific source.
+- Evidence: [Culture ministry, 30 March 2026](https://mcta.gov.gn/patrimoine-culturel-16-millions-deuros-pour-la-renaissance-du-musee-national-de-guinee/) documents rehabilitation and expansion; [Petit Futé](https://www.petitfute.com/v53060-conakry/c1173-visites-points-d-interet/c958-musee/352614-musee-national.html) reports renovation in March 2026; [museum collection guide](https://www.musee-foaa.com/guinee/) reports closure, but [12 November 2026 exhibition report](https://www.voiceofguinea.com/articles/conakry-exposition-russie-tissee-en-soie-musee-national-novembre-2026) indicates event activity. Ordinary opening and restored exhibition breadth not confirmed. Existing normal-condition score retained provisionally; do not treat as current access confirmation. Checked 2026-11-25; original review editorial-only.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access and individual peer/category calibration.
 
 ## sight-gn-madina-market — Madina Market — 2026-11-25
 
-- [YAML](../../../countries/GN/sights/madina-market.yaml) · Action: new · **editorial-only**.
+- [YAML](../../../countries/GN/sights/madina-market.yaml) · Action: new · **source-linked-unverified**.
 - Scope: public market streets. GPS 9.55, -13.66: approximate editorial point; verify before use.
 - Worldwide peers (I/U/S/E/D):
   - [Ben Thanh Market (VN)](../../../countries/VN/sights/ben-thanh-market.yaml) — 8.2 / 8.0 / 8.1 / 9.0 / 8.8 (83.10/100); upper anchor; lower impact (busy commercial activity); lower uniqueness (regional trading culture); lower significance (local economy); lower experience (market browsing); lower depth (multiple sections).
@@ -512,7 +519,7 @@
 - Depth 7.5: multiple sections.
 - Categories: culture:8.4, food:8.3. Overall: 73.20/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked destination-specific source.
+- Evidence: [Market directory](https://lokasos.com/business/marche-madina) identifies major market; [October 2026 local shopping guide](https://diatigui.com/articles/marches-artisanat-shopping-conakry) describes commerce and market context. GPS and all material claims remain provisional. Checked 2026-11-25; original review editorial-only.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access and individual peer/category calibration.
 
 ## sight-gn-jardin-auguste-chevalier-dalaba — Jardin Auguste Chevalier (Dalaba) — 2026-11-25
@@ -552,3 +559,22 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Reference](https://goexplore.family/country-guides/guinea/attractions/) — Guide search excerpt identifies Dalaba and Boffa heritage, trails and coastal context; full page unavailable; individual building claims not fully verified; accessed 2026-11-25. Not complete claim-level verification.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access and individual peer/category calibration.
+
+## sight-gn-bossou-forest-reserve — Bossou Forest Reserve — 2026-11-25
+
+- [YAML](../../../countries/GN/sights/bossou-forest-reserve.yaml) · Action: new · **unassessed**.
+- Scope: community-associated chimpanzee research landscape, not the strict Mount Nimba reserve. GPS 7.65, -8.5: rounded research locality reference 7°39′N, 8°30′W in [peer-reviewed study](https://link.springer.com/article/10.1007/s10764-022-00305-y); not an animal location or entrance.
+- Worldwide peers (I/U/S/E/D):
+  - [Mount Huangshan (Yellow Mountain) (CN)](../../../countries/CN/sights/mount-huangshan.yaml) — 9.9 / 9.9 / 9.6 / 9.8 / 9.3 (97.65/100); broad landscape anchor, more established visitor routes.
+  - [Phong Nha Ke Bang National Park (VN)](../../../countries/VN/sights/phong-nha-ke-bang-national-park.yaml) — 9.8 / 9.9 / 9.7 / 9.7 / 9.8 (97.90/100); conservation anchor, greater documented visitor breadth.
+  - [Khao Sok National Park (TH)](../../../countries/TH/sights/khao-sok-national-park.yaml) — 9.4 / 9.4 / 9.1 / 9.4 / 9.3 (93.30/100); forest comparison, lower research specificity but broader visitor routes.
+  - [Dibeen Forest Reserve (JO)](../../../countries/JO/sights/dibeen-forest-reserve.yaml) — 7.5 / 7.6 / 8.1 / 7.8 / 7.5 (76.90/100); bounded reserve comparison with lower chimpanzee-specific significance.
+- Impact null: ordinary permitted visitor impact unestablished.
+- Uniqueness 9.1: distinctive studied stone-tool traditions in a community forest.
+- Significance 9.2: long-running chimpanzee behaviour research and community conservation.
+- Experience null: routine permitted visitor viewing and ethical limits unconfirmed.
+- Depth null: ordinary itinerary scope unknown.
+- Categories: nature:8.7, wildlife:null. Overall: unranked.
+- High-score challenge: Not applicable. No approved 10.
+- Evidence: [Research on community ecotourism](https://www.mdpi.com/2071-1050/15/5/4615) documents chimpanzee population decline and community governance challenges; [primate research](https://link.springer.com/article/10.1007/s10764-022-00305-y) documents long-running tool-use research and locally restricted sacred areas. No permission to approach wildlife or enter restricted sites implied. Checked 2026-11-25.
+- Remaining gaps: visitor scope, ethical viewing policy, closer peer calibration, full factual verification.
