@@ -1,0 +1,15 @@
+id: sight-ke-kakamega-forest
+name: "Kakamega Forest"
+location:
+  country_code: KE
+  latitude: 0.283333
+  longitude: 34.883333
+scores:
+  impact: 8.6
+  uniqueness: 9.1
+  significance: 9.2
+  experience: 8.8
+  depth: 8.6
+  categories:
+    nature: 9.4
+    wildlife: 9.2

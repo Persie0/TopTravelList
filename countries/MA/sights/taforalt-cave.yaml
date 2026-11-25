@@ -1,0 +1,14 @@
+id: sight-ma-taforalt-cave
+name: "Taforalt Cave"
+location:
+  country_code: MA
+  latitude: 34.82
+  longitude: -2.4
+scores:
+  impact: null
+  uniqueness: 9.4
+  significance: 9.6
+  experience: null
+  depth: null
+  categories:
+    history: 9.5

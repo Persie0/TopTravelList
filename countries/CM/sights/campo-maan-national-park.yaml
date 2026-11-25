@@ -1,0 +1,15 @@
+id: sight-cm-campo-maan-national-park
+name: "Campo-Ma’an National Park"
+location:
+  country_code: CM
+  latitude: 2.458333
+  longitude: 10.316667
+scores:
+  impact: 8.7
+  uniqueness: 9.0
+  significance: 9.2
+  experience: 8.3
+  depth: 8.5
+  categories:
+    nature: 9.3
+    wildlife: 9.2

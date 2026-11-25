@@ -1,0 +1,17 @@
+id: city-au-melbourne
+name: "Melbourne"
+location:
+  country_code: AU
+  latitude: -37.814
+  longitude: 144.96332
+scores:
+  impact: 8.4
+  uniqueness: 8.6
+  significance: 8.5
+  experience: 9.2
+  depth: 9.2
+  categories:
+    food: 9.3
+    culture: 9.2
+    architecture: 8.7
+    nightlife: 8.9

@@ -1,0 +1,16 @@
+id: city-tn-le-kef
+name: "Le Kef"
+location:
+  country_code: TN
+  latitude: 36.1822
+  longitude: 8.7148
+scores:
+  impact: 7.9
+  uniqueness: 8.0
+  significance: 8.0
+  experience: 7.8
+  depth: 7.6
+  categories:
+    architecture: 8.1
+    history: 8.2
+    culture: 8.0

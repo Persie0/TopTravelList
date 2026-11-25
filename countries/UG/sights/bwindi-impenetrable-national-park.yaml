@@ -1,0 +1,16 @@
+id: sight-ug-bwindi-impenetrable-national-park
+name: "Bwindi Impenetrable National Park"
+location:
+  country_code: UG
+  latitude: -1.047
+  longitude: 29.692
+scores:
+  impact: 9.6
+  uniqueness: 9.7
+  significance: 9.6
+  experience: 9.4
+  depth: 9.1
+  categories:
+    nature: 9.6
+    wildlife: 9.8
+    adventure: 9.4

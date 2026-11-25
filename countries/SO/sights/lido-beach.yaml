@@ -1,0 +1,15 @@
+id: sight-so-lido-beach
+name: "Liido Beach"
+location:
+  country_code: SO
+  latitude: 2.04423
+  longitude: 45.37092
+scores:
+  impact: 7.9
+  uniqueness: 7.4
+  significance: 7.2
+  experience: null
+  depth: null
+  categories:
+    beaches: 8.3
+    culture: 7.7

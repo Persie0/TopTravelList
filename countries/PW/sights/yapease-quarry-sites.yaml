@@ -1,0 +1,15 @@
+id: sight-pw-yapease-quarry-sites
+name: "Yapease Quarry Sites"
+location:
+  country_code: PW
+  latitude: 7.350306
+  longitude: 134.564667
+scores:
+  impact: 7.9
+  uniqueness: 9.2
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    history: 9.3
+    culture: 9.2

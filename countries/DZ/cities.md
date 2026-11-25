@@ -2,7 +2,7 @@
 
 # Algeria (DZ) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**11 ranked** · **0 unassessed** · **11 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,21 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (11)
 
-No cities, towns & villages have been assessed for **Algeria** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Algiers](cities/algiers.yaml) | City / town | **88.60** | **Architecture 9.0**, **History 9.0**, **Culture 8.8**, Food 8.5 | 8.9 / 8.8 / 9.0 / 8.6 / 9.0 | [36.7538, 3.0588](https://www.google.com/maps/search/?api=1&query=36.7538,3.0588) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Algiers%2C%20Algeria) |
+| 2 | [Constantine](cities/constantine.yaml) | City / town | **87.85** | **Photography 9.2**, **Architecture 8.8**, **History 8.7**, Culture 8.5 | 9.0 / 9.1 / 8.6 / 8.4 / 8.3 | [36.365, 6.6147](https://www.google.com/maps/search/?api=1&query=36.365,6.6147) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Constantine%2C%20Algeria) |
+| 3 | [Ghardaïa](cities/ghardaia.yaml) | City / town | **86.60** | **Architecture 9.0**, **Culture 9.0**, **History 8.8** | 8.7 / 9.0 / 8.8 / 8.2 / 8.1 | [32.49, 3.67](https://www.google.com/maps/search/?api=1&query=32.49,3.67) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Gharda%C3%AFa%2C%20Algeria) |
+| 4 | [Tlemcen](cities/tlemcen.yaml) | City / town | **84.45** | **History 8.9**, **Architecture 8.8**, **Culture 8.6** | 8.4 / 8.5 / 8.7 / 8.2 / 8.3 | [34.8783, -1.315](https://www.google.com/maps/search/?api=1&query=34.8783,-1.315) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tlemcen%2C%20Algeria) |
+| 5 | [Timimoun](cities/timimoun.yaml) | City / town | **83.35** | **Photography 8.9**, **Architecture 8.8**, **Culture 8.5** | 8.5 / 8.8 / 8.0 / 8.1 / 7.7 | [29.263, 0.241](https://www.google.com/maps/search/?api=1&query=29.263,0.241) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Timimoun%2C%20Algeria) |
+| 6 | [Oran](cities/oran.yaml) | City / town | **83.10** | **Culture 8.8**, **Architecture 8.4**, **History 8.4**, Food 8.3 | 8.3 / 8.1 / 8.4 / 8.5 / 8.4 | [35.6971, -0.6308](https://www.google.com/maps/search/?api=1&query=35.6971,-0.6308) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Oran%2C%20Algeria) |
+| 7 | [Béjaïa](cities/bejaia.yaml) | City / town | **81.40** | **History 8.4**, **Culture 8.2** | 8.2 / 8.0 / 8.3 / 8.2 / 7.9 | [36.75, 5.056](https://www.google.com/maps/search/?api=1&query=36.75,5.056) | [Google Maps](https://www.google.com/maps/search/?api=1&query=B%C3%A9ja%C3%AFa%2C%20Algeria) |
+| 8 | [Annaba](cities/annaba.yaml) | City / town | **80.50** | **History 8.5**, **Culture 8.2**, **Food 8.0** | 8.0 / 7.9 / 8.3 / 8.1 / 8.0 | [36.9, 7.7667](https://www.google.com/maps/search/?api=1&query=36.9,7.7667) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Annaba%2C%20Algeria) |
+| 9 | [Taghit](cities/taghit.yaml) | City / town | **80.30** | **Photography 8.5**, **Architecture 8.3**, **Culture 8.2** | 8.2 / 8.4 / 7.8 / 8.0 / 7.1 | [30.916, -2.033](https://www.google.com/maps/search/?api=1&query=30.916,-2.033) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Taghit%2C%20Algeria) |
+| 10 | [Djanet](cities/djanet.yaml) | City / town | **78.90** | **Culture 8.4**, **Architecture 7.9** | 7.9 / 8.3 / 7.7 / 7.9 / 7.2 | [24.554, 9.484](https://www.google.com/maps/search/?api=1&query=24.554,9.484) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Djanet%2C%20Algeria) |
+| 11 | [Tamanrasset](cities/tamanrasset.yaml) | City / town | **77.15** | **Culture 8.4**, **Food 7.5** | 7.6 / 8.1 / 7.6 / 7.8 / 7.2 | [22.785, 5.522](https://www.google.com/maps/search/?api=1&query=22.785,5.522) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tamanrasset%2C%20Algeria) |
 
 ---
 

@@ -1,0 +1,16 @@
+id: sight-ws-saleaula-lava-fields
+name: "Saleaula Lava Fields"
+location:
+  country_code: WS
+  latitude: -13.4591
+  longitude: -172.31761
+scores:
+  impact: 8.4
+  uniqueness: 8.7
+  significance: 8.3
+  experience: 8.0
+  depth: 7.8
+  categories:
+    nature: 8.6
+    history: 8.5
+    photography: 8.6

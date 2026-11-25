@@ -1,0 +1,14 @@
+id: sight-pg-huon-terraces
+name: "Huon Terraces - Stairway to the Past"
+location:
+  country_code: PG
+  latitude: -6
+  longitude: 147
+scores:
+  impact: 8.5
+  uniqueness: 9.2
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    nature: 9.1

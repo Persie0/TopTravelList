@@ -1,0 +1,16 @@
+id: city-ma-el-jadida
+name: "El Jadida"
+location:
+  country_code: MA
+  latitude: 33.2316
+  longitude: -8.5007
+scores:
+  impact: 8.0
+  uniqueness: 8.2
+  significance: 8.4
+  experience: 8.2
+  depth: 7.8
+  categories:
+    architecture: 8.5
+    history: 8.6
+    beaches: 8.0

@@ -1,0 +1,16 @@
+id: sight-et-awash-national-park
+name: "Awash National Park"
+location:
+  country_code: ET
+  latitude: 8.92
+  longitude: 40.03
+scores:
+  impact: 8.3
+  uniqueness: 8.1
+  significance: 8.3
+  experience: 8.4
+  depth: 8.4
+  categories:
+    nature: 8.7
+    wildlife: 8.6
+    adventure: 8.3

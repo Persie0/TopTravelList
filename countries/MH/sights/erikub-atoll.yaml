@@ -1,0 +1,15 @@
+id: sight-mh-erikub-atoll
+name: "Erikub Atoll"
+location:
+  country_code: MH
+  latitude: 9.133333
+  longitude: 170.033333
+scores:
+  impact: null
+  uniqueness: 8.8
+  significance: 9.0
+  experience: null
+  depth: null
+  categories:
+    nature: 9.0
+    wildlife: null

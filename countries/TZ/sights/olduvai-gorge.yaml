@@ -1,0 +1,15 @@
+id: sight-tz-olduvai-gorge
+name: "Olduvai Gorge and Museum"
+location:
+  country_code: TZ
+  latitude: -2.99593
+  longitude: 35.35215
+scores:
+  impact: 8.5
+  uniqueness: 9.5
+  significance: 9.8
+  experience: 8.7
+  depth: 8.4
+  categories:
+    history: 9.7
+    nature: 8.6

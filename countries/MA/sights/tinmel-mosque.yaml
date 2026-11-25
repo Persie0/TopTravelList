@@ -1,0 +1,15 @@
+id: sight-ma-tinmel-mosque
+name: "Tinmel Mosque"
+location:
+  country_code: MA
+  latitude: 30.98
+  longitude: -8.23
+scores:
+  impact: null
+  uniqueness: 8.9
+  significance: 9.1
+  experience: null
+  depth: null
+  categories:
+    history: 9.1
+    architecture: 9.0

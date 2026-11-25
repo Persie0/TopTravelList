@@ -1,0 +1,17 @@
+id: sight-tn-medina-tunis
+name: "Medina of Tunis"
+location:
+  country_code: TN
+  latitude: 36.7986
+  longitude: 10.1708
+scores:
+  impact: 9.1
+  uniqueness: 9.1
+  significance: 9.3
+  experience: 9.0
+  depth: 9.2
+  categories:
+    architecture: 9.3
+    history: 9.4
+    culture: 9.4
+    food: 8.7

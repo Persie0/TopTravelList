@@ -1,0 +1,16 @@
+id: city-tn-sfax
+name: "Sfax"
+location:
+  country_code: TN
+  latitude: 34.7406
+  longitude: 10.7603
+scores:
+  impact: 7.8
+  uniqueness: 8.0
+  significance: 8.2
+  experience: 7.8
+  depth: 7.9
+  categories:
+    architecture: 8.2
+    culture: 8.2
+    food: 8.1

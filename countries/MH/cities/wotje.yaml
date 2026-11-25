@@ -1,0 +1,13 @@
+id: city-mh-wotje
+name: "Wotje Village"
+location:
+  country_code: MH
+  latitude: 9.454
+  longitude: 170.237
+scores:
+  impact: 6.8
+  uniqueness: 7.4
+  significance: 7.6
+  experience: 7.1
+  depth: 6.8
+  categories: {}

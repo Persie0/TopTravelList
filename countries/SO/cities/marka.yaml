@@ -1,0 +1,14 @@
+id: city-so-marka
+name: "Marka"
+location:
+  country_code: SO
+  latitude: 1.716
+  longitude: 44.772
+scores:
+  impact: null
+  uniqueness: 8.0
+  significance: 8.2
+  experience: null
+  depth: null
+  categories:
+    history: 8.4

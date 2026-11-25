@@ -1,0 +1,15 @@
+id: sight-pg-trans-fly-complex
+name: "Trans-Fly Complex"
+location:
+  country_code: PG
+  latitude: -8.75
+  longitude: 141.383333
+scores:
+  impact: 8.3
+  uniqueness: 8.8
+  significance: 9.0
+  experience: null
+  depth: null
+  categories:
+    nature: 9.1
+    wildlife: 9.0

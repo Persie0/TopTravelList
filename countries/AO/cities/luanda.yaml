@@ -1,0 +1,16 @@
+id: city-ao-luanda
+name: "Luanda"
+location:
+  country_code: AO
+  latitude: -8.836817
+  longitude: 13.23432
+scores:
+  impact: 8.1
+  uniqueness: 8.4
+  significance: 8.6
+  experience: 8.0
+  depth: 8.5
+  categories:
+    culture: 8.8
+    food: 8.5
+    history: 8.6

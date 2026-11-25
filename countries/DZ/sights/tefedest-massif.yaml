@@ -1,0 +1,13 @@
+id: sight-dz-tefedest-massif
+name: "Tefedest Massif"
+location:
+  country_code: DZ
+  latitude: 24.1
+  longitude: 5.6
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}

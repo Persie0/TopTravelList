@@ -1,0 +1,16 @@
+id: sight-et-erta-ale
+name: "Erta Ale Volcano"
+location:
+  country_code: ET
+  latitude: 13.6
+  longitude: 40.67
+scores:
+  impact: 9.3
+  uniqueness: 9.4
+  significance: 8.9
+  experience: 8.5
+  depth: 8.2
+  categories:
+    nature: 9.4
+    adventure: 9.2
+    photography: 9.2

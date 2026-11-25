@@ -1,0 +1,16 @@
+id: sight-ma-todra-gorge
+name: "Todra Gorge"
+location:
+  country_code: MA
+  latitude: 31.59
+  longitude: -5.59
+scores:
+  impact: 9.1
+  uniqueness: 8.8
+  significance: 8.4
+  experience: 8.9
+  depth: 8.1
+  categories:
+    nature: 9.1
+    adventure: 9.0
+    photography: 9.2

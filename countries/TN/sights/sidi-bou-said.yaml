@@ -1,0 +1,16 @@
+id: sight-tn-sidi-bou-said
+name: "Village of Sidi Bou Saïd"
+location:
+  country_code: TN
+  latitude: 36.870
+  longitude: 10.348
+scores:
+  impact: 9.0
+  uniqueness: 8.8
+  significance: 8.7
+  experience: 8.8
+  depth: 7.9
+  categories:
+    architecture: 9.1
+    culture: 8.8
+    photography: 9.4

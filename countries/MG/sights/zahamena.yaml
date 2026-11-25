@@ -1,0 +1,15 @@
+id: sight-mg-zahamena
+name: "Zahamena National Park and Strict Reserve"
+location:
+  country_code: MG
+  latitude: -17.629167
+  longitude: 48.725
+scores:
+  impact: 8.7
+  uniqueness: 9.2
+  significance: 9.4
+  experience: 8.6
+  depth: 8.7
+  categories:
+    nature: 9.5
+    wildlife: 9.3

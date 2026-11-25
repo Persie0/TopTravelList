@@ -1,0 +1,14 @@
+id: sight-sd-sanam
+name: "Sanam Archaeological Site"
+location:
+  country_code: SD
+  latitude: 18.482222
+  longitude: 31.818889
+scores:
+  impact: null
+  uniqueness: 8.7
+  significance: 9.0
+  experience: null
+  depth: null
+  categories:
+    history: 9.2

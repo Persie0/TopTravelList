@@ -1,0 +1,16 @@
+id: sight-tn-kairouan-heritage-core
+name: "Kairouan Historic Heritage Core"
+location:
+  country_code: TN
+  latitude: 35.6812
+  longitude: 10.1036
+scores:
+  impact: 9.2
+  uniqueness: 9.3
+  significance: 9.5
+  experience: 8.8
+  depth: 8.9
+  categories:
+    architecture: 9.5
+    history: 9.5
+    culture: 9.4
