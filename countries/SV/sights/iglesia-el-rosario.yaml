@@ -1,0 +1,15 @@
+id: sight-sv-iglesia-el-rosario
+name: "Iglesia El Rosario"
+location:
+  country_code: SV
+  latitude: 13.6977
+  longitude: -89.1877
+scores:
+  impact: 8.5
+  uniqueness: 9.0
+  significance: 8.1
+  experience: 8.5
+  depth: 7.1
+  categories:
+    architecture: 9.2
+    photography: 9.2

@@ -1,0 +1,16 @@
+id: sight-pe-sacsayhuaman
+name: "Sacsayhuamán"
+location:
+  country_code: PE
+  latitude: -13.5090
+  longitude: -71.9820
+scores:
+  impact: 9.3
+  uniqueness: 9.4
+  significance: 9.5
+  experience: 9.0
+  depth: 8.8
+  categories:
+    architecture: 9.7
+    history: 9.6
+    photography: 9.3

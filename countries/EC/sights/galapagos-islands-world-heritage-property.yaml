@@ -1,0 +1,17 @@
+id: sight-ec-galapagos-islands-world-heritage-property
+name: "Galápagos Islands (World Heritage property)"
+location:
+  country_code: EC
+  latitude: -0.6667
+  longitude: -90.5500
+scores:
+  impact: 9.9
+  uniqueness: 9.9
+  significance: 9.9
+  experience: 9.5
+  depth: 9.8
+  categories:
+    nature: 9.9
+    wildlife: 9.9
+    photography: 9.9
+    adventure: 9.5

@@ -1,0 +1,15 @@
+id: sight-md-manuc-bei-manor
+name: "Manuc Bei Manor"
+location:
+  country_code: MD
+  latitude: 46.8290
+  longitude: 28.5890
+scores:
+  impact: 8.0
+  uniqueness: 8.2
+  significance: 8.5
+  experience: 8.3
+  depth: 7.7
+  categories:
+    architecture: 9.0
+    history: 8.9

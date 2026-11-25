@@ -1,0 +1,15 @@
+id: sight-sc-cousin-island-special-reserve
+name: "Cousin Island Special Reserve"
+location:
+  country_code: SC
+  latitude: -4.3310
+  longitude: 55.6620
+scores:
+  impact: 8.1
+  uniqueness: 9.1
+  significance: 9.0
+  experience: 8.5
+  depth: 7.6
+  categories:
+    wildlife: 9.4
+    nature: 9.1

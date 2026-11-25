@@ -1,0 +1,16 @@
+id: sight-va-sistine-chapel
+name: Sistine Chapel
+location:
+  country_code: VA
+  latitude: 41.90295
+  longitude: 12.45448
+scores:
+  impact: 9.9
+  uniqueness: 9.9
+  significance: 9.9
+  experience: 9.1
+  depth: 7.8
+  categories:
+    architecture: 9.5
+    history: 9.9
+    culture: 9.9

@@ -1,0 +1,16 @@
+id: sight-ec-cuenca-new-cathedral
+name: "Cuenca New Cathedral"
+location:
+  country_code: EC
+  latitude: -2.8970
+  longitude: -79.0050
+scores:
+  impact: 8.4
+  uniqueness: 8.1
+  significance: 8.3
+  experience: 8.3
+  depth: 7.2
+  categories:
+    architecture: 9.0
+    photography: 8.8
+    history: 8.5

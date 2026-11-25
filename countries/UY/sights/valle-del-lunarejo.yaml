@@ -1,0 +1,16 @@
+id: sight-uy-valle-del-lunarejo
+name: "Valle del Lunarejo"
+location:
+  country_code: UY
+  latitude: -31.1580
+  longitude: -55.9040
+scores:
+  impact: 8.3
+  uniqueness: 8.4
+  significance: 8.5
+  experience: 8.4
+  depth: 8.2
+  categories:
+    nature: 8.9
+    wildlife: 8.5
+    adventure: 8.3

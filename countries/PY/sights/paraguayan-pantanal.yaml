@@ -1,0 +1,16 @@
+id: sight-py-paraguayan-pantanal
+name: "Paraguayan Pantanal"
+location:
+  country_code: PY
+  latitude: -20.5500
+  longitude: -58.1000
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.3
+  depth: 8.7
+  categories:
+    nature: 9.3
+    wildlife: 9.4
+    photography: 9.0

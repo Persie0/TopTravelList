@@ -1,0 +1,15 @@
+id: city-sc-au-cap
+name: "Au Cap"
+location:
+  country_code: SC
+  latitude: -4.7140
+  longitude: 55.5210
+scores:
+  impact: 6.6
+  uniqueness: 6.9
+  significance: 6.8
+  experience: 7.1
+  depth: 6.3
+  categories:
+    culture: 7.6
+    history: 7.2

@@ -1,0 +1,16 @@
+id: city-mu-tamarin
+name: "Tamarin"
+location:
+  country_code: MU
+  latitude: -20.3250
+  longitude: 57.3780
+scores:
+  impact: 7.3
+  uniqueness: 7.4
+  significance: 6.7
+  experience: 7.9
+  depth: 7.0
+  categories:
+    culture: 7.5
+    relaxation: 7.9
+    food: 7.8

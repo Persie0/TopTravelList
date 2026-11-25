@@ -1,0 +1,17 @@
+id: sight-bo-sajama-national-park
+name: "Sajama National Park"
+location:
+  country_code: BO
+  latitude: -18.1000
+  longitude: -68.9000
+scores:
+  impact: 9.3
+  uniqueness: 9.2
+  significance: 9.0
+  experience: 8.8
+  depth: 9.0
+  categories:
+    nature: 9.4
+    photography: 9.5
+    adventure: 9.3
+    wildlife: 8.8

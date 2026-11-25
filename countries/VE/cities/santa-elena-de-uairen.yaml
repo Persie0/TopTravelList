@@ -1,0 +1,14 @@
+id: city-ve-santa-elena-de-uairen
+name: "Santa Elena de Uairén"
+location:
+  country_code: VE
+  latitude: 4.6030
+  longitude: -61.1100
+scores:
+  impact: null
+  uniqueness: 7.4
+  significance: 6.5
+  experience: null
+  depth: null
+  categories:
+    culture: 7.7

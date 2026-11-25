@@ -1,0 +1,15 @@
+id: sight-gy-mahaica-river-birdwatching-area
+name: "Mahaica River Birdwatching Area"
+location:
+  country_code: GY
+  latitude: 6.6833
+  longitude: -57.9667
+scores:
+  impact: 7.5
+  uniqueness: 8.0
+  significance: 7.8
+  experience: 8.1
+  depth: 7.3
+  categories:
+    wildlife: 8.8
+    nature: 8.3

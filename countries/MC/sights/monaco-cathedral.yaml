@@ -1,0 +1,16 @@
+id: sight-mc-monaco-cathedral
+name: "Monaco Cathedral"
+location:
+  country_code: MC
+  latitude: 43.7309
+  longitude: 7.4229
+scores:
+  impact: 8.1
+  uniqueness: 8.1
+  significance: 8.6
+  experience: 8.3
+  depth: 7.4
+  categories:
+    architecture: 8.8
+    history: 9.0
+    culture: 8.6

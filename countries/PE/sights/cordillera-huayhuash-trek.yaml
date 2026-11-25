@@ -1,0 +1,16 @@
+id: sight-pe-cordillera-huayhuash-trek
+name: "Cordillera Huayhuash Trek"
+location:
+  country_code: PE
+  latitude: -10.2700
+  longitude: -76.9000
+scores:
+  impact: 9.5
+  uniqueness: 9.2
+  significance: 8.3
+  experience: 8.9
+  depth: 9.4
+  categories:
+    adventure: 9.7
+    nature: 9.6
+    photography: 9.7

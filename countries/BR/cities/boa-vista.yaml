@@ -1,0 +1,15 @@
+id: city-br-boa-vista
+name: "Boa Vista"
+location:
+  country_code: BR
+  latitude: 2.8235
+  longitude: -60.6758
+scores:
+  impact: 6.5
+  uniqueness: 7.2
+  significance: 6.5
+  experience: 7.2
+  depth: 6.7
+  categories:
+    culture: 7.7
+    photography: 7.6

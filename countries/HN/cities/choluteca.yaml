@@ -1,0 +1,15 @@
+id: city-hn-choluteca
+name: "Choluteca"
+location:
+  country_code: HN
+  latitude: 13.3000
+  longitude: -87.1900
+scores:
+  impact: 6.7
+  uniqueness: 7.0
+  significance: 7.6
+  experience: 7.1
+  depth: 7.0
+  categories:
+    architecture: 7.7
+    history: 8.0

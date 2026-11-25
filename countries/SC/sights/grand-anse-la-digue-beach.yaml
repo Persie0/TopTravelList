@@ -1,0 +1,15 @@
+id: sight-sc-grand-anse-la-digue-beach
+name: "Grand Anse (La Digue beach)"
+location:
+  country_code: SC
+  latitude: -4.3730
+  longitude: 55.8440
+scores:
+  impact: 9.2
+  uniqueness: 8.8
+  significance: 6.7
+  experience: 8.0
+  depth: 7.1
+  categories:
+    beaches: 9.1
+    photography: 9.4

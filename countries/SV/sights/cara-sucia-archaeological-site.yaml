@@ -1,0 +1,14 @@
+id: sight-sv-cara-sucia-archaeological-site
+name: "Cara Sucia Archaeological Site"
+location:
+  country_code: SV
+  latitude: 13.7900
+  longitude: -90.0400
+scores:
+  impact: null
+  uniqueness: 8.2
+  significance: 8.7
+  experience: null
+  depth: null
+  categories:
+    history: 8.9

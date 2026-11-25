@@ -1,0 +1,16 @@
+id: sight-ls-malealea-gorge-trails
+name: "Malealea Gorge Trails"
+location:
+  country_code: LS
+  latitude: -29.8200
+  longitude: 27.6020
+scores:
+  impact: 8.2
+  uniqueness: 8.1
+  significance: 6.6
+  experience: 8.6
+  depth: 7.7
+  categories:
+    adventure: 8.8
+    photography: 8.7
+    culture: 8.0

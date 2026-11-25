@@ -1,0 +1,16 @@
+id: sight-cl-pukara-de-quitor
+name: "Pukará de Quitor"
+location:
+  country_code: CL
+  latitude: -22.8890
+  longitude: -68.2100
+scores:
+  impact: 7.9
+  uniqueness: 8.4
+  significance: 8.5
+  experience: 8.0
+  depth: 7.3
+  categories:
+    history: 9.0
+    culture: 8.7
+    photography: 8.5

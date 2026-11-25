@@ -1,0 +1,15 @@
+id: city-mu-centre-de-flacq
+name: "Centre de Flacq"
+location:
+  country_code: MU
+  latitude: -20.1890
+  longitude: 57.7220
+scores:
+  impact: 6.3
+  uniqueness: 6.8
+  significance: 6.7
+  experience: 7.4
+  depth: 6.9
+  categories:
+    food: 7.9
+    culture: 7.6

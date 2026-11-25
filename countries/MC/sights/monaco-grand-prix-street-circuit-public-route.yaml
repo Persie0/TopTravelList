@@ -1,0 +1,16 @@
+id: sight-mc-monaco-grand-prix-street-circuit-public-route
+name: "Monaco Grand Prix Street Circuit (public route)"
+location:
+  country_code: MC
+  latitude: 43.7347
+  longitude: 7.4208
+scores:
+  impact: 7.8
+  uniqueness: 8.7
+  significance: 8.8
+  experience: 7.5
+  depth: 7.6
+  categories:
+    history: 9.1
+    culture: 8.5
+    photography: 8.3

@@ -1,0 +1,16 @@
+id: city-mu-souillac
+name: "Souillac"
+location:
+  country_code: MU
+  latitude: -20.5160
+  longitude: 57.5230
+scores:
+  impact: 7.1
+  uniqueness: 7.4
+  significance: 7.5
+  experience: 7.5
+  depth: 6.7
+  categories:
+    history: 8.0
+    culture: 7.8
+    photography: 7.5

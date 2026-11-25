@@ -1,0 +1,15 @@
+id: city-mk-vevcani
+name: "Vevčani"
+location:
+  country_code: MK
+  latitude: 41.2400
+  longitude: 20.5930
+scores:
+  impact: 7.7
+  uniqueness: 8.0
+  significance: 7.6
+  experience: 8.0
+  depth: 7.1
+  categories:
+    culture: 8.7
+    photography: 8.4

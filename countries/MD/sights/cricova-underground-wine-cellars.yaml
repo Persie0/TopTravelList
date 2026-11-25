@@ -1,0 +1,16 @@
+id: sight-md-cricova-underground-wine-cellars
+name: "Cricova Underground Wine Cellars"
+location:
+  country_code: MD
+  latitude: 47.1348
+  longitude: 28.8609
+scores:
+  impact: 8.7
+  uniqueness: 9.1
+  significance: 8.6
+  experience: 8.8
+  depth: 8.3
+  categories:
+    culture: 9.2
+    history: 8.8
+    food: 9.2

@@ -1,0 +1,16 @@
+id: city-pe-huanchaco
+name: "Huanchaco"
+location:
+  country_code: PE
+  latitude: -8.0795
+  longitude: -79.1210
+scores:
+  impact: 7.6
+  uniqueness: 8.1
+  significance: 7.3
+  experience: 8.2
+  depth: 6.8
+  categories:
+    culture: 8.6
+    beaches: 8.3
+    food: 8.1

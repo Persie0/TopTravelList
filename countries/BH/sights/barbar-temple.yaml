@@ -1,0 +1,15 @@
+id: sight-bh-barbar-temple
+name: "Barbar Temple"
+location:
+  country_code: BH
+  latitude: 26.2270
+  longitude: 50.4840
+scores:
+  impact: 7.5
+  uniqueness: 8.4
+  significance: 9.0
+  experience: 7.5
+  depth: 7.1
+  categories:
+    history: 9.2
+    architecture: 8.3

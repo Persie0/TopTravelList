@@ -1,0 +1,15 @@
+id: sight-mu-pereybere-beach
+name: "Pereybere Beach"
+location:
+  country_code: MU
+  latitude: -19.9950
+  longitude: 57.5910
+scores:
+  impact: 8.2
+  uniqueness: 7.5
+  significance: 5.9
+  experience: 8.5
+  depth: 6.7
+  categories:
+    beaches: 8.6
+    relaxation: 8.6

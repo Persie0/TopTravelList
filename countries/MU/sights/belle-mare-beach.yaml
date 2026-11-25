@@ -1,0 +1,16 @@
+id: sight-mu-belle-mare-beach
+name: "Belle Mare Beach"
+location:
+  country_code: MU
+  latitude: -20.1950
+  longitude: 57.7810
+scores:
+  impact: 8.8
+  uniqueness: 8.0
+  significance: 6.3
+  experience: 8.6
+  depth: 7.7
+  categories:
+    beaches: 9.2
+    relaxation: 9.0
+    photography: 8.8

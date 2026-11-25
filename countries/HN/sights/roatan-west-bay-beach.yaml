@@ -1,0 +1,16 @@
+id: sight-hn-roatan-west-bay-beach
+name: "Roatán West Bay Beach"
+location:
+  country_code: HN
+  latitude: 16.2750
+  longitude: -86.6000
+scores:
+  impact: 8.8
+  uniqueness: 8.1
+  significance: 6.8
+  experience: 9.1
+  depth: 7.7
+  categories:
+    beaches: 9.3
+    relaxation: 9.2
+    adventure: 8.5

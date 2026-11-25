@@ -1,0 +1,15 @@
+id: sight-mu-round-island-nature-reserve
+name: "Round Island Nature Reserve"
+location:
+  country_code: MU
+  latitude: -19.8500
+  longitude: 57.7870
+scores:
+  impact: null
+  uniqueness: null
+  significance: 8.8
+  experience: null
+  depth: null
+  categories:
+    nature: 9.1
+    wildlife: 9.2

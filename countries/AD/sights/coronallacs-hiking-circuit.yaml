@@ -1,0 +1,16 @@
+id: sight-ad-coronallacs-hiking-circuit
+name: "Coronallacs Hiking Circuit"
+location:
+  country_code: AD
+  latitude: 42.5350
+  longitude: 1.6000
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 7.7
+  experience: 8.6
+  depth: 9.3
+  categories:
+    adventure: 9.4
+    nature: 9.2
+    photography: 9.2

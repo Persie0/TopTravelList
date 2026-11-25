@@ -1,0 +1,16 @@
+id: sight-mk-plaosnik-archaeological-site
+name: "Plaošnik Archaeological Site"
+location:
+  country_code: MK
+  latitude: 41.1128
+  longitude: 20.7897
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 9.2
+  experience: 8.5
+  depth: 8.2
+  categories:
+    history: 9.4
+    architecture: 9.0
+    culture: 9.2

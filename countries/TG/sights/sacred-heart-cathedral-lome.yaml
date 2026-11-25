@@ -1,0 +1,16 @@
+id: sight-tg-sacred-heart-cathedral-lome
+name: "Sacred Heart Cathedral (Lomé)"
+location:
+  country_code: TG
+  latitude: 6.1310
+  longitude: 1.2250
+scores:
+  impact: 7.3
+  uniqueness: 7.6
+  significance: 8.1
+  experience: 7.7
+  depth: 6.2
+  categories:
+    architecture: 8.4
+    history: 8.5
+    culture: 8.2

@@ -1,0 +1,16 @@
+id: city-mt-mdina
+name: "Mdina"
+location:
+  country_code: MT
+  latitude: 35.88636
+  longitude: 14.40312
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 8.7
+  experience: 8.7
+  depth: 8.0
+  categories:
+    architecture: 9.3
+    history: 9.2
+    photography: 9.3

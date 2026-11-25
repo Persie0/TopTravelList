@@ -1,0 +1,16 @@
+id: sight-bo-maragua-crater
+name: "Maragua Crater"
+location:
+  country_code: BO
+  latitude: -19.0750
+  longitude: -65.4500
+scores:
+  impact: 8.5
+  uniqueness: 8.6
+  significance: 7.5
+  experience: 8.5
+  depth: 7.9
+  categories:
+    nature: 8.9
+    photography: 9.1
+    adventure: 8.6

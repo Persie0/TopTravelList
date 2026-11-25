@@ -1,0 +1,15 @@
+id: sight-bo-mercado-de-las-brujas
+name: "Mercado de las Brujas"
+location:
+  country_code: BO
+  latitude: -16.4960
+  longitude: -68.1380
+scores:
+  impact: 7.9
+  uniqueness: 8.7
+  significance: 7.8
+  experience: 8.4
+  depth: 7.5
+  categories:
+    culture: 9.1
+    food: 7.6

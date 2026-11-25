@@ -1,0 +1,16 @@
+id: sight-ec-tintoreras-islets
+name: "Tintoreras Islets"
+location:
+  country_code: EC
+  latitude: -0.9740
+  longitude: -90.9660
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 8.2
+  experience: 8.8
+  depth: 7.4
+  categories:
+    wildlife: 9.3
+    nature: 8.9
+    photography: 8.8

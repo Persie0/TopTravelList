@@ -1,0 +1,16 @@
+id: city-co-santa-fe-de-antioquia
+name: "Santa Fe de Antioquia"
+location:
+  country_code: CO
+  latitude: 6.5569
+  longitude: -75.8281
+scores:
+  impact: 7.9
+  uniqueness: 8.2
+  significance: 8.2
+  experience: 8.2
+  depth: 7.1
+  categories:
+    architecture: 8.9
+    history: 8.7
+    culture: 8.3

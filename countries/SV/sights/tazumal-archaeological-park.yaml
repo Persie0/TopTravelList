@@ -1,0 +1,15 @@
+id: sight-sv-tazumal-archaeological-park
+name: "Tazumal Archaeological Park"
+location:
+  country_code: SV
+  latitude: 13.9792
+  longitude: -89.6747
+scores:
+  impact: 8.1
+  uniqueness: 8.3
+  significance: 8.8
+  experience: 8.2
+  depth: 7.6
+  categories:
+    history: 9.0
+    architecture: 8.6

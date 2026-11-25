@@ -1,0 +1,15 @@
+id: city-tg-badou
+name: "Badou"
+location:
+  country_code: TG
+  latitude: 7.5833
+  longitude: 0.6000
+scores:
+  impact: 7.0
+  uniqueness: 7.4
+  significance: 6.5
+  experience: 7.5
+  depth: 6.1
+  categories:
+    photography: 8.0
+    culture: 7.7

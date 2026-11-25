@@ -1,0 +1,16 @@
+id: sight-dj-al-hamoudi-mosque
+name: "Al-Hamoudi Mosque"
+location:
+  country_code: DJ
+  latitude: 11.5900
+  longitude: 43.1470
+scores:
+  impact: 7.3
+  uniqueness: 7.7
+  significance: 8.0
+  experience: 7.4
+  depth: 6.1
+  categories:
+    architecture: 8.3
+    history: 8.3
+    culture: 8.5

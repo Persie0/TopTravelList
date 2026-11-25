@@ -1,0 +1,15 @@
+id: sight-mw-nyika-vwaza-wildlife-reserve-tentative-aggregate
+name: "Nyika-Vwaza Wildlife Reserve (tentative aggregate)"
+location:
+  country_code: MW
+  latitude: -11.000000
+  longitude: 33.466667
+scores:
+  impact: null
+  uniqueness: null
+  significance: 9.1
+  experience: null
+  depth: null
+  categories:
+    nature: 9.4
+    wildlife: 9.3

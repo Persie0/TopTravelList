@@ -1,0 +1,16 @@
+id: sight-hn-basilica-de-suyapa
+name: "Basílica de Suyapa"
+location:
+  country_code: HN
+  latitude: 14.0680
+  longitude: -87.1680
+scores:
+  impact: 7.8
+  uniqueness: 7.9
+  significance: 8.5
+  experience: 7.9
+  depth: 7.2
+  categories:
+    culture: 8.8
+    history: 8.6
+    architecture: 8.4

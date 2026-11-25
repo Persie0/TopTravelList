@@ -1,0 +1,16 @@
+id: sight-co-salt-cathedral-of-zipaquira
+name: "Salt Cathedral of Zipaquirá"
+location:
+  country_code: CO
+  latitude: 5.0180
+  longitude: -74.0100
+scores:
+  impact: 8.9
+  uniqueness: 9.4
+  significance: 8.5
+  experience: 8.6
+  depth: 7.8
+  categories:
+    architecture: 9.5
+    photography: 9.3
+    culture: 8.7
