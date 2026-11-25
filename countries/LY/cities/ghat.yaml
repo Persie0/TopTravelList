@@ -2,8 +2,8 @@ id: city-ly-ghat
 name: "Ghat"
 location:
   country_code: LY
-  latitude: 24.964
-  longitude: 10.1759
+  latitude: 24.96334
+  longitude: 10.18003
 scores:
   impact: 7.8
   uniqueness: 8.6
