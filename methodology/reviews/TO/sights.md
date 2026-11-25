@@ -1,7 +1,7 @@
 # TO — Tonga sights: individual worldwide reviews
 
 - [Worldwide v2](../../../rules.md) · [Future-country workflow](../../future-country-workflow.md)
-- Initial non-exhaustive editorial inventory. Source references consulted as pages or search excerpts on 2026-11-25. No full independent verification claimed; source-linked-unverified is conservative. Coordinates representative, not navigation points. Tonga's two UNESCO tentative-list properties are not inscribed sites; additional Lapita components are not yet inventoried. Current YAML of Bangkok, Salzburg, Kampot, Koh Ker Village, Son Doong, Railay, Hohensalzburg and Made in Cambodia Market was consulted; other peers are qualitative comparators.
+- Initial non-exhaustive editorial inventory. Source references consulted as pages or search excerpts on 2026-11-25. No full independent verification claimed; source-linked-unverified is conservative. Coordinates representative, not navigation points. Tonga's two UNESCO tentative-list properties are not inscribed sites; both tentative properties now have aggregate entries; the Lapita submission does not finalize a list of individual components, so further named site research remains necessary. Current YAML of Bangkok, Salzburg, Kampot, Koh Ker Village, Son Doong, Railay, Hohensalzburg and Made in Cambodia Market was consulted; other peers are qualitative comparators.
 
 ### sight-to-haamonga-a-maui — Ha'amonga 'a Maui Trilithon — 2026-11-25
 
@@ -428,4 +428,187 @@
 - Final decision: Retain without rank pending sufficient evidence.
 - Earlier decision: none.
 - Verification still needed: No rank; confirm exact mapped site and public interpretation. Other serial components remain research backlog.
+
+
+### sight-to-ancient-capitals — The Ancient Capitals of the Kingdom of Tonga — 2026-11-25
+
+- YAML: [source](../../../countries/TO/sights/ancient-capitals.yaml)
+- Action: new (coverage expansion)
+- Precise subject: Entire two-part tentative property, not individual trilithon or Lapaha tombs.
+- Location check: representative -21.13669, -175.04803; not an entrance.
+- Evidence status: unassessed
+- Limited factual references (2026-11-25; page or search excerpt):
+  - Official submission identifies two archaeological components, Heketā historic park and Lapaha tombs; discusses continuing chiefly traditions. — https://whc.unesco.org/en/tentativelists/5167/
+  - Mapped trilithon point used as first component proxy. — https://mapcarta.com/20410958
+- Missing or uncertain facts: UNESCO's rounded S20 W175 reference is not a precise property point; use first component proxy. Tentative only. Two components already represented by individual records; full Heketā park boundary still requires review.
+
+#### Worldwide peer comparisons
+- Nan Madol (Micronesia): larger monumental ceremonial ensemble
+- Stonehenge (United Kingdom): more monumental and developed interpretation
+- Rapa Nui National Park (Chile): broader sculptural landscape
+- Koh Ker (Cambodia): broader surviving architecture
+
+#### Scoring decisions
+| Field | New rating | Individual justification |
+| --- | ---: | --- |
+| impact | 8.1 | Substantial coral-stone monuments |
+| uniqueness | 8.9 | distinctive linked royal centers and continuing traditions |
+| significance | 9.1 | regional political and cultural heritage |
+| experience | null | full-property permitted visitor scope unverified |
+| depth | null | aggregate accessible interpretation not established |
+
+- Applicable category scores: history: 9.2, culture: 9.0, architecture: 8.8
+- Computed worldwide overall: unranked
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Retain without rank pending evidence.
+- Earlier decision: none.
+- Verification still needed: UNESCO's rounded S20 W175 reference is not a precise property point; use first component proxy. Tentative only. Two components already represented by individual records; full Heketā park boundary still requires review.
+
+
+### sight-to-lapita-pottery-archaeological-sites — Lapita Pottery Archaeological Sites — 2026-11-25
+
+- YAML: [source](../../../countries/TO/sights/lapita-pottery-archaeological-sites.yaml)
+- Action: new (coverage expansion)
+- Precise subject: Proposed national serial property across four island groups, not just Nukuleka or all Tonga.
+- Location check: representative -21.1517, -175.1267; not an entrance.
+- Evidence status: unassessed
+- Limited factual references (2026-11-25; page or search excerpt):
+  - Official submission describes distributed archaeological deposits and their evidence of early settlement of Remote Oceania; does not finalize individual component list; names Nukuleka as a research location. — https://whc.unesco.org/en/tentativelists/5168/
+- Missing or uncertain facts: Nukuleka record's provisional location used as representative component proxy; confirm exact site. UNESCO explicitly withholds detailed selection; no fabricated component list, no access assumptions.
+
+#### Worldwide peer comparisons
+- Kuk Early Agricultural Site (Papua New Guinea): similarly important research landscape with limited visible archaeology
+- Ban Chiang (Thailand): more documented archaeological visitor interpretation
+- Skara Brae (United Kingdom): more visible surviving built structures
+- Nan Madol (Micronesia): much stronger above-ground monument visibility
+
+#### Scoring decisions
+| Field | New rating | Individual justification |
+| --- | ---: | --- |
+| impact | null | Aggregate visitor-visible archaeological fabric unverified |
+| uniqueness | 9.0 | unusual evidence of early oceanic settlement |
+| significance | 9.3 | internationally important Pacific migration and archaeology |
+| experience | null | ordinary permitted visits across property unverified |
+| depth | null | accessible interpretation unknown |
+
+- Applicable category scores: history: 9.3, culture: 8.9
+- Computed worldwide overall: unranked
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Retain without rank pending evidence.
+- Earlier decision: none.
+- Verification still needed: Nukuleka record's provisional location used as representative component proxy; confirm exact site. UNESCO explicitly withholds detailed selection; no fabricated component list, no access assumptions.
+
+
+### sight-to-mount-talau — Mount Talau Lookout — 2026-11-25
+
+- YAML: [source](../../../countries/TO/sights/mount-talau.yaml)
+- Action: new (coverage expansion)
+- Precise subject: Lookout and normal permitted viewpoint approach, not whole Vavaʻu or national park.
+- Location check: representative -18.64785, -173.9993; not an entrance.
+- Evidence status: source-linked-unverified
+- Limited factual references (2026-11-25; page or search excerpt):
+  - Named mapped viewpoint and coordinate. — https://mapcarta.com/N4326312792
+  - Tourism authority identifies Mt Talau as a Vavaʻu landmark. — https://www.tongatourism.travel/see-and-do/all-things-to-see-and-do
+  - Land-adventure visitor context. — https://www.tongatourism.travel/see-and-do/land-adventures
+- Missing or uncertain facts: Confirm trail and access conditions; representative viewpoint not navigation instructions.
+
+#### Worldwide peer comparisons
+- Sokehs Rock (Micronesia): more dramatic rock outcrop
+- Diamond Head (United States): greater volcanic morphology and trail breadth
+- Mount Faber (Singapore): comparable urban-adjacent harbor views
+- Hufangalupe Natural Land Bridge (Tonga): more distinctive geological form
+
+#### Scoring decisions
+| Field | New rating | Individual justification |
+| --- | ---: | --- |
+| impact | 7.8 | Harbor and forest panorama |
+| uniqueness | 7.2 | attractive but globally comparable island viewpoint |
+| significance | 6.6 | local geographic interest |
+| experience | 7.9 | focused walking and scenic viewing |
+| depth | 6.7 | short single viewpoint excursion |
+
+- Applicable category scores: nature: 7.9, photography: 8.3, adventure: 7.6
+- Computed worldwide overall: 73.15/100
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide editorial assessment.
+- Earlier decision: none.
+- Verification still needed: Confirm trail and access conditions; representative viewpoint not navigation instructions.
+
+
+### sight-to-uoleva-island — Uoleva Island — 2026-11-25
+
+- YAML: [source](../../../countries/TO/sights/uoleva-island.yaml)
+- Action: new (coverage expansion)
+- Precise subject: Island landscape and ordinarily accessible beaches, excluding neighboring islands and private accommodation as attractions.
+- Location check: representative -19.85, -174.4; not an entrance.
+- Evidence status: source-linked-unverified
+- Limited factual references (2026-11-25; page or search excerpt):
+  - GeoNames-derived island coordinate. — https://mapcarta.com/20410184
+  - Tourism authority identifies island beach retreat. — https://www.tongatourism.travel/see-and-do/beaches-and-lagoons
+  - Established beachfront accommodation and organized island access. — https://www.tongatourism.travel/see-and-do/fanifo-lofa
+  - Describes small-scale beach lodges and island setting. — https://visitingoceania.com/destinations/tonga/haapai/
+- Missing or uncertain facts: Check local permissions, conditions and access; no wildlife or swimming guarantee.
+
+#### Worldwide peer comparisons
+- Railay Beach (Thailand): more dramatic karst and activities
+- Anse Source d'Argent (Seychelles): more distinctive granite coastline
+- Natadola Beach (Fiji): comparable tropical shore
+- Champagne Beach (Vanuatu): similarly attractive but focused coastal experience
+
+#### Scoring decisions
+| Field | New rating | Individual justification |
+| --- | ---: | --- |
+| impact | 8.4 | White sand and tropical vegetation |
+| uniqueness | 7.9 | distinctive quiet low island with global analogues |
+| significance | 6.9 | regional coastal value |
+| experience | 8.5 | established beach and shore recreation |
+| depth | 7.8 | several coastline perspectives but limited independent venues |
+
+- Applicable category scores: nature: 8.5, beaches: 8.9, relaxation: 8.8, photography: 8.5
+- Computed worldwide overall: 79.30/100
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide editorial assessment.
+- Earlier decision: none.
+- Verification still needed: Check local permissions, conditions and access; no wildlife or swimming guarantee.
+
+
+### sight-to-haaluma-beach — Ha'aluma Beach — 2026-11-25
+
+- YAML: [source](../../../countries/TO/sights/haaluma-beach.yaml)
+- Action: new (coverage expansion)
+- Precise subject: Individual beach, not whole ʻEua or national park.
+- Location check: representative -21.42842, -174.94642; not an entrance.
+- Evidence status: source-linked-unverified
+- Limited factual references (2026-11-25; page or search excerpt):
+  - Named beach coordinate. — https://www.geonames.org/advanced-search.html?continentCode=OC&q=tonga&startRow=300
+  - Official tourism listing identifies southern ʻEua beach. — https://www.tongatourism.travel/see-and-do/beaches-and-lagoons
+  - Official land-adventure attraction listing. — https://www.tongatourism.travel/see-and-do/land-adventures
+- Missing or uncertain facts: Current conditions and authorized shore access must be confirmed; no assumed safe bathing.
+
+#### Worldwide peer comparisons
+- Railay Beach (Thailand): more dramatic karst and activities
+- Anse Source d'Argent (Seychelles): more distinctive granite coastline
+- Natadola Beach (Fiji): comparable tropical shore
+- Champagne Beach (Vanuatu): similarly attractive but focused coastal experience
+
+#### Scoring decisions
+| Field | New rating | Individual justification |
+| --- | ---: | --- |
+| impact | 8.1 | Attractive coastal scenery |
+| uniqueness | 7.5 | tropical shore with international analogues |
+| significance | 6.4 | local recreation and natural setting |
+| experience | 7.8 | focused walking and viewing |
+| depth | 6.8 | single-beach extent |
+
+- Applicable category scores: beaches: 8.5, nature: 8.1, photography: 8.2
+- Computed worldwide overall: 74.35/100
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide editorial assessment.
+- Earlier decision: none.
+- Verification still needed: Current conditions and authorized shore access must be confirmed; no assumed safe bathing.
 
