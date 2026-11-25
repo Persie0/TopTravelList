@@ -1,0 +1,16 @@
+id: sight-fk-sea-lion-island
+name: "Sea Lion Island (permitted visitor areas)"
+location:
+  country_code: FK
+  latitude: -52.432
+  longitude: -59.081
+scores:
+  impact: 9.1
+  uniqueness: 9.2
+  significance: 9.3
+  experience: 8.9
+  depth: 9.0
+  categories:
+    wildlife: 9.4
+    nature: 9.3
+    photography: 9.3

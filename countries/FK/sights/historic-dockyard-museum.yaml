@@ -1,0 +1,15 @@
+id: sight-fk-historic-dockyard-museum
+name: "Historic Dockyard Museum (Stanley)"
+location:
+  country_code: FK
+  latitude: -51.692
+  longitude: -57.858
+scores:
+  impact: 8.0
+  uniqueness: 8.6
+  significance: 8.8
+  experience: 8.5
+  depth: 8.6
+  categories:
+    history: 9.0
+    culture: 8.8

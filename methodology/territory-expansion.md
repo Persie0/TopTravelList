@@ -200,3 +200,7 @@ No matching GB records identified in generated name/coordinate screening. Add 3 
 ### Montserrat coverage — 2026-11-26
 
 No matching GB records identified by generated name and approximate coordinate screening. Add 2 settlements and 8 sights; 9 ranked and Plymouth unranked. MVO current hazard notice conflicts with tourism promotion of certified Plymouth tours; no land access assumed. Observatory viewpoint and interpretation scored instead of volcano ascent. Centre Hills incorporates Oriole Walkway. MVO, National Trust and tourism search excerpts inspected; independent GPS and complete material-claim corroboration pending. No perfect-ten additions.
+
+### Falkland Islands (Malvinas) coverage — 2026-11-26
+
+No matching GB or AR parent records identified by generated name and approximate coordinate screen. Add 3 settlements and 10 sights under existing ISO FK; no sovereignty determination. Government HPAI register checked: Volunteer Point declaration lifted 2 November 2026; Pebble Island and Carcass Island restrictions lifted 30 March; Sea Lion Island remains level 1 pending 30 November review. No assumed unrestricted wildlife visits. Tourism board, museum and JNCC references checked via excerpts; independent exact GPS and full claims pending. No exact-10 additions.
