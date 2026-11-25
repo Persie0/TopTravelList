@@ -2,9 +2,12 @@
 
 [Worldwide v2](../../../rules.md) · [Future-country workflow](../../future-country-workflow.md). Initial provisional editorial assessments, 2026-11-25. [UNESCO country inventory](https://whc.unesco.org/en/statesparties/gh/) lists two inscribed properties and six tentative properties; all are represented at property level. Not all individual fort and shrine components have been cataloged; see [GMMB heritage inventory](https://gmmb.gov.gh/unesco-listed-world-heritage-properties/). Coordinates approximate, not independently confirmed except the tentative Tenzug reference point. Sources inspected at search-excerpt or page level are limited context rather than comprehensive verification. No access guarantees. Shared peer ladders need type-specific refinement. The Nzulezu city entry describes the inhabited settlement while the sight entry describes the heritage visit and canoe approach; do not add their scores together.
 
+
+Follow-up review, 2026-11-25: per-record source supplementation and conservation/inventory caveats below. Links are not full factual verification. Original scores and rationales retained.
+
 ## city-gh-accra — Accra — 2026-11-25
 
-- [YAML](../../../countries/GH/cities/accra.yaml) · Action: new · **editorial-only**.
+- [YAML](../../../countries/GH/cities/accra.yaml) · Action: new · **source-linked-unverified**.
 - Scope: Settlement itself, excluding remote attractions. GPS 5.556, -0.196: approximate editorial representative point; check pending.
 - Worldwide peers (I/U/S/E/D):
   - [Beijing (CN)](../../../countries/CN/cities/beijing.yaml) — 9.7 / 9.7 / 9.9 / 9.5 / 10.0 (97.40/100); upper anchor; lower impact (mixed historic and modern urban streets), lower uniqueness (coastal Ghanaian capital culture), lower significance (national civic and cultural institutions), lower experience (markets museums and food), lower depth (multiple distinct districts).
@@ -18,12 +21,12 @@
 - Depth 8.6: multiple distinct districts.
 - Categories: culture:8.7, food:8.4, history:8.6, nightlife:8.3. Overall: 81.75/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked per-record source; editorial only.
+- Evidence: [Follow-up reference](https://visitghana.com/greater-accra/), accessed 2026-11-25 in search excerpt; destination identity or regional context only, not all visitor claims. Original status editorial-only.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access conditions and individual peer/category calibration.
 
 ## city-gh-kumasi — Kumasi — 2026-11-25
 
-- [YAML](../../../countries/GH/cities/kumasi.yaml) · Action: new · **editorial-only**.
+- [YAML](../../../countries/GH/cities/kumasi.yaml) · Action: new · **source-linked-unverified**.
 - Scope: Settlement itself, excluding remote attractions. GPS 6.688, -1.624: approximate editorial representative point; check pending.
 - Worldwide peers (I/U/S/E/D):
   - [Beijing (CN)](../../../countries/CN/cities/beijing.yaml) — 9.7 / 9.7 / 9.9 / 9.5 / 10.0 (97.40/100); upper anchor; lower impact (busy markets and palace district), lower uniqueness (Asante royal and craft traditions), lower significance (historic Asante capital), lower experience (markets museums and cultural visits), lower depth (several urban districts).
@@ -37,7 +40,7 @@
 - Depth 8.3: several urban districts.
 - Categories: culture:9.1, history:9.1, food:8.4. Overall: 83.50/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked per-record source; editorial only.
+- Evidence: [Follow-up reference](https://visitghana.com/ashanti-region/), accessed 2026-11-25 in search excerpt; destination identity or regional context only, not all visitor claims. Original status editorial-only.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access conditions and individual peer/category calibration.
 
 ## city-gh-cape-coast — Cape Coast — 2026-11-25
@@ -80,7 +83,7 @@
 
 ## city-gh-tamale — Tamale — 2026-11-25
 
-- [YAML](../../../countries/GH/cities/tamale.yaml) · Action: new · **editorial-only**.
+- [YAML](../../../countries/GH/cities/tamale.yaml) · Action: new · **source-linked-unverified**.
 - Scope: Settlement itself, excluding remote attractions. GPS 9.407, -0.853: approximate editorial representative point; check pending.
 - Worldwide peers (I/U/S/E/D):
   - [Beijing (CN)](../../../countries/CN/cities/beijing.yaml) — 9.7 / 9.7 / 9.9 / 9.5 / 10.0 (97.40/100); upper anchor; lower impact (northern commercial streets), lower uniqueness (Dagbon urban culture), lower significance (regional economic and cultural role), lower experience (markets and food), lower depth (remote parks excluded).
@@ -94,12 +97,12 @@
 - Depth 7.2: remote parks excluded.
 - Categories: culture:8.3, food:7.9. Overall: 71.75/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked per-record source; editorial only.
+- Evidence: [Follow-up reference](https://visitghana.com/northern-region/), accessed 2026-11-25 in search excerpt; destination identity or regional context only, not all visitor claims. Original status editorial-only.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access conditions and individual peer/category calibration.
 
 ## city-gh-sekondi — Sekondi — 2026-11-25
 
-- [YAML](../../../countries/GH/cities/sekondi.yaml) · Action: new · **editorial-only**.
+- [YAML](../../../countries/GH/cities/sekondi.yaml) · Action: new · **source-linked-unverified**.
 - Scope: Settlement itself, excluding remote attractions. GPS 4.934, -1.713: approximate editorial representative point; check pending.
 - Worldwide peers (I/U/S/E/D):
   - [Hong Kong (CN)](../../../countries/CN/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); upper anchor; lower impact (historic port streets), lower uniqueness (rail and maritime character), lower significance (regional port history), lower experience (market and town walks), lower depth (nearby forts separate).
@@ -113,12 +116,12 @@
 - Depth 6.8: nearby forts separate.
 - Categories: history:8.0, culture:7.7. Overall: 70.90/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked per-record source; editorial only.
+- Evidence: [Follow-up reference](https://visitghana.com/western-region/), accessed 2026-11-25 in search excerpt; destination identity or regional context only, not all visitor claims. Original status editorial-only.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access conditions and individual peer/category calibration.
 
 ## city-gh-takoradi — Takoradi — 2026-11-25
 
-- [YAML](../../../countries/GH/cities/takoradi.yaml) · Action: new · **editorial-only**.
+- [YAML](../../../countries/GH/cities/takoradi.yaml) · Action: new · **source-linked-unverified**.
 - Scope: Settlement itself, excluding remote attractions. GPS 4.884, -1.755: approximate editorial representative point; check pending.
 - Worldwide peers (I/U/S/E/D):
   - [Beijing (CN)](../../../countries/CN/cities/beijing.yaml) — 9.7 / 9.7 / 9.9 / 9.5 / 10.0 (97.40/100); upper anchor; lower impact (market-centered commercial city), lower uniqueness (working harbor economy), lower significance (regional trade history), lower experience (food and street visits), lower depth (remote beaches excluded).
@@ -132,12 +135,12 @@
 - Depth 7.0: remote beaches excluded.
 - Categories: food:7.9, culture:7.5. Overall: 68.85/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked per-record source; editorial only.
+- Evidence: [Follow-up reference](https://visitghana.com/western-region/), accessed 2026-11-25 in search excerpt; destination identity or regional context only, not all visitor claims. Original status editorial-only.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access conditions and individual peer/category calibration.
 
 ## city-gh-axim — Axim — 2026-11-25
 
-- [YAML](../../../countries/GH/cities/axim.yaml) · Action: new · **editorial-only**.
+- [YAML](../../../countries/GH/cities/axim.yaml) · Action: new · **source-linked-unverified**.
 - Scope: Settlement itself, excluding remote attractions. GPS 4.869, -2.241: approximate editorial representative point; check pending.
 - Worldwide peers (I/U/S/E/D):
   - [Hong Kong (CN)](../../../countries/CN/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); upper anchor; lower impact (coastal settlement and fishing streets), lower uniqueness (historic western port character), lower significance (regional maritime history), lower experience (waterfront walks and meals), lower depth (fort separately rated).
@@ -151,12 +154,12 @@
 - Depth 6.8: fort separately rated.
 - Categories: history:8.3, culture:8.0, photography:8.1. Overall: 75.60/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked per-record source; editorial only.
+- Evidence: [Follow-up reference](https://www.graphic.com.gh/features/opinion/ghana-news-people-places-axim-a-treasure-trove-of-history-culture-natural-beauty.html), accessed 2026-11-25 in search excerpt; destination identity or regional context only, not all visitor claims. Original status editorial-only.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access conditions and individual peer/category calibration.
 
 ## city-gh-busua — Busua — 2026-11-25
 
-- [YAML](../../../countries/GH/cities/busua.yaml) · Action: new · **editorial-only**.
+- [YAML](../../../countries/GH/cities/busua.yaml) · Action: new · **source-linked-unverified**.
 - Scope: Settlement itself, excluding remote attractions. GPS 4.802, -1.939: approximate editorial representative point; check pending.
 - Worldwide peers (I/U/S/E/D):
   - [Hong Kong (CN)](../../../countries/CN/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); upper anchor; lower impact (small coastal village), lower uniqueness (surf and fishing community), lower significance (local maritime heritage), lower experience (food and village walks), lower depth (beach excluded).
@@ -170,12 +173,12 @@
 - Depth 6.3: beach excluded.
 - Categories: relaxation:8.3, food:7.7. Overall: 71.05/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked per-record source; editorial only.
+- Evidence: [Follow-up reference](https://www.flytoghana.com/destinations/busua), accessed 2026-11-25 in search excerpt; destination identity or regional context only, not all visitor claims. Original status editorial-only.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access conditions and individual peer/category calibration.
 
 ## city-gh-aburi — Aburi — 2026-11-25
 
-- [YAML](../../../countries/GH/cities/aburi.yaml) · Action: new · **editorial-only**.
+- [YAML](../../../countries/GH/cities/aburi.yaml) · Action: new · **source-linked-unverified**.
 - Scope: Settlement itself, excluding remote attractions. GPS 5.849, -0.175: approximate editorial representative point; check pending.
 - Worldwide peers (I/U/S/E/D):
   - [Siem Reap (KH)](../../../countries/KH/cities/siem-reap.yaml) — 8.8 / 9.0 / 9.3 / 9.0 / 9.2 (90.20/100); upper anchor; lower impact (highland settlement streets), lower uniqueness (cooler ridge community), lower significance (regional settlement history), lower experience (local walks and meals), lower depth (botanical gardens excluded).
@@ -189,12 +192,12 @@
 - Depth 6.5: botanical gardens excluded.
 - Categories: relaxation:8.0, culture:7.6. Overall: 70.95/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked per-record source; editorial only.
+- Evidence: [Follow-up reference](https://ghanaembassy.com.tr/tourism/), accessed 2026-11-25 in search excerpt; destination identity or regional context only, not all visitor claims. Original status editorial-only.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access conditions and individual peer/category calibration.
 
 ## city-gh-ho — Ho — 2026-11-25
 
-- [YAML](../../../countries/GH/cities/ho.yaml) · Action: new · **editorial-only**.
+- [YAML](../../../countries/GH/cities/ho.yaml) · Action: new · **source-linked-unverified**.
 - Scope: Settlement itself, excluding remote attractions. GPS 6.602, 0.471: approximate editorial representative point; check pending.
 - Worldwide peers (I/U/S/E/D):
   - [Siem Reap (KH)](../../../countries/KH/cities/siem-reap.yaml) — 8.8 / 9.0 / 9.3 / 9.0 / 9.2 (90.20/100); upper anchor; lower impact (regional commercial center), lower uniqueness (Ewe urban culture), lower significance (regional administrative history), lower experience (markets and food), lower depth (remote mountains excluded).
@@ -208,12 +211,12 @@
 - Depth 6.6: remote mountains excluded.
 - Categories: culture:7.7, food:7.5. Overall: 68.25/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked per-record source; editorial only.
+- Evidence: [Follow-up reference](https://visitghana.app/places/ho), accessed 2026-11-25 in search excerpt; destination identity or regional context only, not all visitor claims. Original status editorial-only.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access conditions and individual peer/category calibration.
 
 ## city-gh-hohoe — Hohoe — 2026-11-25
 
-- [YAML](../../../countries/GH/cities/hohoe.yaml) · Action: new · **editorial-only**.
+- [YAML](../../../countries/GH/cities/hohoe.yaml) · Action: new · **source-linked-unverified**.
 - Scope: Settlement itself, excluding remote attractions. GPS 7.151, 0.474: approximate editorial representative point; check pending.
 - Worldwide peers (I/U/S/E/D):
   - [Siem Reap (KH)](../../../countries/KH/cities/siem-reap.yaml) — 8.8 / 9.0 / 9.3 / 9.0 / 9.2 (90.20/100); upper anchor; lower impact (market streets), lower uniqueness (Volta regional settlement), lower significance (local trade heritage), lower experience (food and markets), lower depth (waterfalls excluded).
@@ -227,12 +230,12 @@
 - Depth 6.5: waterfalls excluded.
 - Categories: culture:7.8, food:7.5. Overall: 68.55/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked per-record source; editorial only.
+- Evidence: [Follow-up reference](https://mofa.gov.gh/site/sports/district-directorates/volta-region/281-hohoe-municipal), accessed 2026-11-25 in search excerpt; destination identity or regional context only, not all visitor claims. Original status editorial-only.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access conditions and individual peer/category calibration.
 
 ## city-gh-keta — Keta — 2026-11-25
 
-- [YAML](../../../countries/GH/cities/keta.yaml) · Action: new · **editorial-only**.
+- [YAML](../../../countries/GH/cities/keta.yaml) · Action: new · **source-linked-unverified**.
 - Scope: Settlement itself, excluding remote attractions. GPS 5.917, 0.987: approximate editorial representative point; check pending.
 - Worldwide peers (I/U/S/E/D):
   - [Hong Kong (CN)](../../../countries/CN/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); upper anchor; lower impact (coastal lagoon-side settlement), lower uniqueness (Anlo-Ewe maritime culture), lower significance (regional trade history), lower experience (town and waterfront walks), lower depth (fort and lagoon separately rated).
@@ -246,12 +249,12 @@
 - Depth 6.8: fort and lagoon separately rated.
 - Categories: history:8.0, culture:8.2, photography:8.1. Overall: 74.65/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked per-record source; editorial only.
+- Evidence: [Follow-up reference](https://whc.unesco.org/en/list/34/), accessed 2026-11-25 in search excerpt; destination identity or regional context only, not all visitor claims. Original status editorial-only.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access conditions and individual peer/category calibration.
 
 ## city-gh-ada-foah — Ada Foah — 2026-11-25
 
-- [YAML](../../../countries/GH/cities/ada-foah.yaml) · Action: new · **editorial-only**.
+- [YAML](../../../countries/GH/cities/ada-foah.yaml) · Action: new · **source-linked-unverified**.
 - Scope: Settlement itself, excluding remote attractions. GPS 5.78, 0.63: approximate editorial representative point; check pending.
 - Worldwide peers (I/U/S/E/D):
   - [Hong Kong (CN)](../../../countries/CN/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); upper anchor; lower impact (river-mouth settlement), lower uniqueness (fishing and river culture), lower significance (local maritime history), lower experience (local food and walks), lower depth (estuary excluded).
@@ -265,12 +268,12 @@
 - Depth 6.5: estuary excluded.
 - Categories: relaxation:8.1, culture:7.7. Overall: 70.40/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked per-record source; editorial only.
+- Evidence: [Follow-up reference](https://visitghana.com/ada-foah-tourism/), accessed 2026-11-25 in search excerpt; destination identity or regional context only, not all visitor claims. Original status editorial-only.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access conditions and individual peer/category calibration.
 
 ## city-gh-bolgatanga — Bolgatanga — 2026-11-25
 
-- [YAML](../../../countries/GH/cities/bolgatanga.yaml) · Action: new · **editorial-only**.
+- [YAML](../../../countries/GH/cities/bolgatanga.yaml) · Action: new · **source-linked-unverified**.
 - Scope: Settlement itself, excluding remote attractions. GPS 10.785, -0.851: approximate editorial representative point; check pending.
 - Worldwide peers (I/U/S/E/D):
   - [Beijing (CN)](../../../countries/CN/cities/beijing.yaml) — 9.7 / 9.7 / 9.9 / 9.5 / 10.0 (97.40/100); upper anchor; lower impact (market and craft streets), lower uniqueness (basketry and northern culture), lower significance (regional trading role), lower experience (market visits), lower depth (Tongo hills excluded).
@@ -284,12 +287,12 @@
 - Depth 6.8: Tongo hills excluded.
 - Categories: culture:8.4, food:7.6. Overall: 70.70/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked per-record source; editorial only.
+- Evidence: [Follow-up reference](https://bdr.gov.gh/upper-east-region/), accessed 2026-11-25 in search excerpt; destination identity or regional context only, not all visitor claims. Original status editorial-only.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access conditions and individual peer/category calibration.
 
 ## city-gh-wa — Wa — 2026-11-25
 
-- [YAML](../../../countries/GH/cities/wa.yaml) · Action: new · **editorial-only**.
+- [YAML](../../../countries/GH/cities/wa.yaml) · Action: new · **source-linked-unverified**.
 - Scope: Settlement itself, excluding remote attractions. GPS 10.06, -2.502: approximate editorial representative point; check pending.
 - Worldwide peers (I/U/S/E/D):
   - [Beijing (CN)](../../../countries/CN/cities/beijing.yaml) — 9.7 / 9.7 / 9.9 / 9.5 / 10.0 (97.40/100); upper anchor; lower impact (historic northern city streets), lower uniqueness (regional Islamic cultural setting), lower significance (long-distance trade history), lower experience (markets and civic heritage), lower depth (remote mosques excluded).
@@ -303,12 +306,12 @@
 - Depth 6.9: remote mosques excluded.
 - Categories: history:8.3, culture:8.3. Overall: 72.80/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked per-record source; editorial only.
+- Evidence: [Follow-up reference](https://visitghana.com/upper-west-region/), accessed 2026-11-25 in search excerpt; destination identity or regional context only, not all visitor claims. Original status editorial-only.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access conditions and individual peer/category calibration.
 
 ## city-gh-larabanga — Larabanga — 2026-11-25
 
-- [YAML](../../../countries/GH/cities/larabanga.yaml) · Action: new · **editorial-only**.
+- [YAML](../../../countries/GH/cities/larabanga.yaml) · Action: new · **source-linked-unverified**.
 - Scope: Settlement itself, excluding remote attractions. GPS 9.217, -1.854: approximate editorial representative point; check pending.
 - Worldwide peers (I/U/S/E/D):
   - [Siem Reap (KH)](../../../countries/KH/cities/siem-reap.yaml) — 8.8 / 9.0 / 9.3 / 9.0 / 9.2 (90.20/100); upper anchor; lower impact (small earthen-house settlement), lower uniqueness (Islamic northern village character), lower significance (regional religious heritage), lower experience (community-authorized walks), lower depth (mosque separately rated).
@@ -322,7 +325,7 @@
 - Depth 6.1: mosque separately rated.
 - Categories: culture:8.4, history:8.4. Overall: 73.50/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked per-record source; editorial only.
+- Evidence: [Follow-up reference](https://visitghana.com/mole-national-park/), accessed 2026-11-25 in search excerpt; destination identity or regional context only, not all visitor claims. Original status editorial-only.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access conditions and individual peer/category calibration.
 
 ## city-gh-nzulezu — Nzulezu — 2026-11-25
@@ -346,7 +349,7 @@
 
 ## city-gh-bonwire — Bonwire — 2026-11-25
 
-- [YAML](../../../countries/GH/cities/bonwire.yaml) · Action: new · **editorial-only**.
+- [YAML](../../../countries/GH/cities/bonwire.yaml) · Action: new · **source-linked-unverified**.
 - Scope: Settlement itself, excluding remote attractions. GPS 6.779, -1.466: approximate editorial representative point; check pending.
 - Worldwide peers (I/U/S/E/D):
   - [Siem Reap (KH)](../../../countries/KH/cities/siem-reap.yaml) — 8.8 / 9.0 / 9.3 / 9.0 / 9.2 (90.20/100); upper anchor; lower impact (weaving village), lower uniqueness (Asante kente craft identity), lower significance (regional textile heritage), lower experience (workshop visits), lower depth (small settlement).
@@ -360,12 +363,12 @@
 - Depth 6.5: small settlement.
 - Categories: culture:8.9, food:7.2. Overall: 74.40/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked per-record source; editorial only.
+- Evidence: [Follow-up reference](https://visitghana.com/bonwire-kente/), accessed 2026-11-25 in search excerpt; destination identity or regional context only, not all visitor claims. Original status editorial-only.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access conditions and individual peer/category calibration.
 
 ## city-gh-navrongo — Navrongo — 2026-11-25
 
-- [YAML](../../../countries/GH/cities/navrongo.yaml) · Action: new · **editorial-only**.
+- [YAML](../../../countries/GH/cities/navrongo.yaml) · Action: new · **source-linked-unverified**.
 - Scope: Settlement itself, excluding remote attractions. GPS 10.894, -1.093: approximate editorial representative point; check pending.
 - Worldwide peers (I/U/S/E/D):
   - [Siem Reap (KH)](../../../countries/KH/cities/siem-reap.yaml) — 8.8 / 9.0 / 9.3 / 9.0 / 9.2 (90.20/100); upper anchor; lower impact (northern town streets), lower uniqueness (regional religious and market character), lower significance (regional mission heritage), lower experience (local walks), lower depth (cathedral separately rated).
@@ -379,5 +382,5 @@
 - Depth 6.4: cathedral separately rated.
 - Categories: history:8.1, culture:7.9. Overall: 70.40/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked per-record source; editorial only.
+- Evidence: [Follow-up reference](https://visitghana.app/places/navrongo), accessed 2026-11-25 in search excerpt; destination identity or regional context only, not all visitor claims. Original status editorial-only.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access conditions and individual peer/category calibration.
