@@ -1,0 +1,15 @@
+id: city-co-ibague
+name: "Ibagué"
+location:
+  country_code: CO
+  latitude: 4.4389
+  longitude: -75.2322
+scores:
+  impact: 6.9
+  uniqueness: 7.5
+  significance: 7.1
+  experience: 7.6
+  depth: 7.3
+  categories:
+    culture: 8.4
+    food: 7.8
