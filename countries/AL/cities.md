@@ -2,7 +2,7 @@
 
 # Albania (AL) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**35 ranked** · **0 unassessed** · **35 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,45 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, or click its GPS coordinates to open **Google Maps**. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (35)
 
-No cities, towns & villages have been assessed for **Albania** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps |
+| ---: | --- | --- | ---: | --- | --- | --- |
+| 1 | [Berat](cities/berat.yaml) | City / town | **88.70** | **Photography 9.4**, **Architecture 9.3**, **History 9.2** | 8.9 / 9.0 / 8.9 / 8.8 / 8.5 | [40.7058, 19.9522](https://www.google.com/maps/search/?api=1&query=40.7058,19.9522) |
+| 2 | [Gjirokastër](cities/gjirokaster.yaml) | City / town | **88.15** | **Architecture 9.3**, **History 9.2** | 8.8 / 9.0 / 8.9 / 8.7 / 8.4 | [40.0758, 20.1389](https://www.google.com/maps/search/?api=1&query=40.0758,20.1389) |
+| 3 | [Krujë](cities/kruje.yaml) | City / town | **83.70** | **History 9.1**, **Architecture 8.9** | 8.3 / 8.4 / 8.7 / 8.4 / 7.8 | [41.5092, 19.7928](https://www.google.com/maps/search/?api=1&query=41.5092,19.7928) |
+| 4 | [Tirana](cities/tirana.yaml) | City / town | **83.65** | **Culture 8.9**, **Food 8.8**, **Nightlife 8.8** | 8.0 / 8.4 / 8.4 / 8.7 / 8.8 | [41.3275, 19.8187](https://www.google.com/maps/search/?api=1&query=41.3275,19.8187) |
+| 5 | [Shkodër](cities/shkoder.yaml) | City / town | **82.10** | **Culture 8.9**, **History 8.8** | 8.0 / 8.2 / 8.4 / 8.4 / 8.2 | [42.0683, 19.5126](https://www.google.com/maps/search/?api=1&query=42.0683,19.5126) |
+| 6 | [Korçë](cities/korce.yaml) | City / town | **81.30** | **Culture 8.9**, **Food 8.5** | 7.9 / 8.1 / 8.4 / 8.3 / 8.1 | [40.6186, 20.7808](https://www.google.com/maps/search/?api=1&query=40.6186,20.7808) |
+| 7 | [Theth](cities/theth.yaml) | City / town | **80.75** | **Photography 9.1**, **Culture 8.7** | 8.3 / 8.5 / 7.6 / 8.2 / 7.1 | [42.395, 19.774](https://www.google.com/maps/search/?api=1&query=42.395,19.774) |
+| 7 | [Voskopojë](cities/voskopoje.yaml) | City / town | **80.75** | **History 9.1**, **Culture 8.9** | 7.8 / 8.3 / 8.6 / 8.0 / 7.4 | [40.632, 20.588](https://www.google.com/maps/search/?api=1&query=40.632,20.588) |
+| 9 | [Lin](cities/lin.yaml) | City / town | **80.45** | **Photography 8.9**, **History 8.8** | 8.0 / 8.3 / 8.3 / 8.0 / 7.1 | [40.985, 20.638](https://www.google.com/maps/search/?api=1&query=40.985,20.638) |
+| 10 | [Vlorë](cities/vlore.yaml) | City / town | **80.35** | **History 8.8**, **Relaxation 8.6** | 7.8 / 7.8 / 8.4 / 8.3 / 8.2 | [40.4661, 19.4914](https://www.google.com/maps/search/?api=1&query=40.4661,19.4914) |
+| 11 | [Dhërmi](cities/dhermi.yaml) | City / town | **79.75** | **Photography 9.0**, **Architecture 8.7**, **Beaches 8.7** | 8.1 / 8.2 / 7.6 / 8.3 / 7.3 | [40.151, 19.638](https://www.google.com/maps/search/?api=1&query=40.151,19.638) |
+| 12 | [Durrës](cities/durres.yaml) | City / town | **79.45** | **History 8.9**, **Beaches 8.2** | 7.6 / 7.8 / 8.5 / 8.1 / 8.0 | [41.3235, 19.4547](https://www.google.com/maps/search/?api=1&query=41.3235,19.4547) |
+| 13 | [Himarë](cities/himare.yaml) | City / town | **79.20** | **Beaches 8.8**, **Relaxation 8.8** | 8.0 / 7.9 / 7.5 / 8.5 / 7.7 | [40.104, 19.744](https://www.google.com/maps/search/?api=1&query=40.104,19.744) |
+| 14 | [Pogradec](cities/pogradec.yaml) | City / town | **78.20** | **Relaxation 8.8**, **Food 8.3** | 7.8 / 7.7 / 7.7 / 8.3 / 7.7 | [40.9025, 20.652](https://www.google.com/maps/search/?api=1&query=40.9025,20.652) |
+| 15 | [Qeparo](cities/qeparo.yaml) | City / town | **77.45** | **Photography 8.7**, **Relaxation 8.6** | 7.8 / 8.0 / 7.4 / 8.1 / 7.1 | [40.061, 19.824](https://www.google.com/maps/search/?api=1&query=40.061,19.824) |
+| 16 | [Valbonë](cities/valbone.yaml) | City / town | **77.35** | **Photography 8.8**, **Relaxation 8.5** | 8.0 / 8.0 / 7.1 / 8.1 / 7.0 | [42.451, 19.89](https://www.google.com/maps/search/?api=1&query=42.451,19.89) |
+| 17 | [Përmet](cities/permet.yaml) | City / town | **77.15** | **Food 8.7**, **Relaxation 8.5** | 7.6 / 7.8 / 7.6 / 8.1 / 7.5 | [40.233, 20.351](https://www.google.com/maps/search/?api=1&query=40.233,20.351) |
+| 17 | [Vuno](cities/vuno.yaml) | City / town | **77.15** | **Photography 8.7**, **Architecture 8.5** | 7.8 / 8.0 / 7.5 / 7.9 / 6.9 | [40.139, 19.692](https://www.google.com/maps/search/?api=1&query=40.139,19.692) |
+| 19 | [Sarandë](cities/sarande.yaml) | City / town | **76.55** | **Relaxation 8.7**, **Beaches 8.5** | 7.7 / 7.4 / 7.1 / 8.5 / 8.0 | [39.8756, 20.0053](https://www.google.com/maps/search/?api=1&query=39.8756,20.0053) |
+| 20 | [Lezhë](cities/lezhe.yaml) | City / town | **76.00** | **History 8.7** | 7.3 / 7.5 / 8.2 / 7.7 / 7.4 | [41.78, 19.643](https://www.google.com/maps/search/?api=1&query=41.78,19.643) |
+| 21 | [Dardhë](cities/dardhe.yaml) | City / town | **75.00** | **Relaxation 8.5**, **Architecture 8.3** | 7.5 / 7.7 / 7.2 / 7.9 / 7.0 | [40.519, 20.828](https://www.google.com/maps/search/?api=1&query=40.519,20.828) |
+| 21 | [Ksamil](cities/ksamil.yaml) | City / town | **75.00** | **Beaches 8.9**, **Relaxation 8.7** | 7.6 / 7.5 / 6.8 / 8.3 / 7.4 | [39.77, 20.004](https://www.google.com/maps/search/?api=1&query=39.77,20.004) |
+| 21 | [Vermosh](cities/vermosh.yaml) | City / town | **75.00** | **Photography 8.6**, **Relaxation 8.3** | 7.6 / 7.8 / 7.1 / 7.8 / 6.8 | [42.593, 19.71](https://www.google.com/maps/search/?api=1&query=42.593,19.71) |
+| 24 | [Elbasan](cities/elbasan.yaml) | City / town | **74.95** | **History 8.4**, **Architecture 8.1** | 7.2 / 7.4 / 7.9 / 7.7 / 7.5 | [41.1125, 20.0822](https://www.google.com/maps/search/?api=1&query=41.1125,20.0822) |
+| 25 | [Borsh](cities/borsh.yaml) | City / town | **74.60** | **Beaches 8.6**, **Relaxation 8.5** | 7.5 / 7.5 / 7.0 / 8.1 / 7.2 | [40.055, 19.855](https://www.google.com/maps/search/?api=1&query=40.055,19.855) |
+| 26 | [Tepelenë](cities/tepelene.yaml) | City / town | **74.20** | **History 8.4** | 7.2 / 7.4 / 7.8 / 7.6 / 7.1 | [40.296, 20.02](https://www.google.com/maps/search/?api=1&query=40.296,20.02) |
+| 27 | [Orikum](cities/orikum.yaml) | City / town | **72.10** | **Relaxation 8.2** | 7.0 / 7.1 / 7.3 / 7.7 / 7.2 | [40.326, 19.471](https://www.google.com/maps/search/?api=1&query=40.326,19.471) |
+| 28 | [Shëngjin](cities/shengjin.yaml) | City / town | **71.40** | **Relaxation 8.5**, **Beaches 8.3** | 7.2 / 7.0 / 6.5 / 8.0 / 7.3 | [41.813, 19.594](https://www.google.com/maps/search/?api=1&query=41.813,19.594) |
+| 29 | [Peshkopi](cities/peshkopi.yaml) | City / town | **71.35** | **Relaxation 8.2** | 6.9 / 7.1 / 7.2 / 7.6 / 7.1 | [41.685, 20.428](https://www.google.com/maps/search/?api=1&query=41.685,20.428) |
+| 30 | [Kukës](cities/kukes.yaml) | City / town | **71.05** | **History 7.9** | 6.8 / 7.1 / 7.4 / 7.4 / 7.0 | [42.0769, 20.4217](https://www.google.com/maps/search/?api=1&query=42.0769,20.4217) |
+| 31 | [Pukë](cities/puke.yaml) | City / town | **70.70** | **Relaxation 7.9** | 6.9 / 7.1 / 7.0 / 7.5 / 7.0 | [42.044, 19.899](https://www.google.com/maps/search/?api=1&query=42.044,19.899) |
+| 32 | [Bajram Curri](cities/bajram-curri.yaml) | City / town | **70.10** | **Culture 7.8** | 6.7 / 7.0 / 7.2 / 7.4 / 7.0 | [42.357, 20.075](https://www.google.com/maps/search/?api=1&query=42.357,20.075) |
+| 33 | [Ersekë](cities/erseke.yaml) | City / town | **70.00** | **Culture 7.6** | 6.8 / 7.0 / 7.0 / 7.4 / 7.0 | [40.337, 20.678](https://www.google.com/maps/search/?api=1&query=40.337,20.678) |
+| 34 | [Fier](cities/fier.yaml) | City / town | **68.85** | **Food 7.8** | 6.6 / 6.8 / 7.0 / 7.3 / 7.1 | [40.7256, 19.557](https://www.google.com/maps/search/?api=1&query=40.7256,19.557) |
+| 35 | [Lushnjë](cities/lushnje.yaml) | City / town | **68.55** | **History 8.0** | 6.5 / 6.7 / 7.3 / 7.2 / 6.9 | [40.9419, 19.705](https://www.google.com/maps/search/?api=1&query=40.9419,19.705) |
 
 ---
 
