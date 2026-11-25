@@ -213,7 +213,7 @@
 
 ## sight-ma-tinmel-mosque — Tinmel Mosque — 2026-11-25
 
-- [YAML](../../../countries/MA/sights/tinmel-mosque.yaml) · Action: new · **unassessed**.
+- [YAML](../../../countries/MA/sights/tinmel-mosque.yaml) · Action: rescore · **unassessed**.
 - Scope: historic mosque. GPS 30.98, -8.23: approximate editorial reference; independent verification pending.
 - Worldwide peers (I/U/S/E/D):
   - [Pompeii Archaeological Park (IT)](../../../countries/IT/sights/pompeii.yaml) — 9.6 / 9.7 / 9.7 / 9.3 / 9.5; extensive ancient urban remains; future comparison only; visitor scope unresolved.
@@ -221,14 +221,16 @@
   - [Jerash Archaeological City (JO)](../../../countries/JO/sights/jerash-archaeological-city.yaml) — 9.5 / 9.3 / 9.5 / 9.4 / 9.3; provincial Roman heritage; future comparison only; visitor scope unresolved.
   - [Adulis Archaeological Site (ER)](../../../countries/ER/sights/adulis-archaeological-site.yaml) — 7.5 / 8.6 / 9.4 / 7.8 / 7.4; less intact regional archaeological site; future comparison only; visitor scope unresolved.
 - Impact null: historic mosque.
-- Uniqueness null: post-earthquake restoration and visitor scope uncertain.
-- Significance null: tentative heritage.
+- Uniqueness 8.9: distinctive Almohad Andalusi-Maghrebi architecture.
+- Significance 9.1: important twelfth-century Almohad religious and architectural heritage.
 - Experience null: current permitted visit unresolved.
 - Depth null: site condition requires verification.
-- Categories: none assessed. Overall: unranked.
+- Categories: history:9.1 architecture:9.0. Overall: unranked.
 - High-score challenge: no 9.5+ fields. No approved 10.
 - Evidence: [source context](https://whc.unesco.org/en/statesparties/ma/) (consulted 2026-11-25; country inventory confirms tentative designation only). No full independent claim-level verification.
 - Remaining gaps: precise GPS, individual facts and permitted access, component scope and all five dimensions.
+
+- Evidence follow-up (2026-11-26): UNESCO https://whc.unesco.org/en/tentativelists/452/ (opened) documents architecture and Almohad context; Archnet https://www.archnet.org/sites/1745 (indexed excerpt) documents architectural record. https://fr.le360.ma/culture/mosquee-de-tinmel-la-restauration-reprend-apres-le-seisme-de-2023_QDQXLBTPANA3BNF352BMMOASKU/ (indexed excerpt) reports restoration resumed after 2023 earthquake; https://marrakechauthority.com/en/attractions/mosquee-de-tinmel-depuis-marrakech (indexed excerpt, 13 November 2026) reports no confirmed interior reopening. No assumption of restored visible fabric or visitor access. Earlier decision: [history](history-review-2026-11-26.md).
 
 ## sight-ma-lixus — Lixus Archaeological Site — 2026-11-25
 
@@ -268,24 +270,36 @@
 - Evidence: [source context](https://whc.unesco.org/en/statesparties/ma/) (consulted 2026-11-25; country inventory confirms tentative designation only). No full independent claim-level verification.
 - Remaining gaps: precise GPS, individual facts and permitted access, component scope and all five dimensions.
 
-## sight-ma-taforalt-cave — Taforalt Cave — 2026-11-25
+## sight-ma-taforalt-cave — Taforalt Cave — 2026-11-26
 
-- [YAML](../../../countries/MA/sights/taforalt-cave.yaml) · Action: new · **unassessed**.
-- Scope: prehistoric research cave. GPS 34.82, -2.40: approximate editorial reference; independent verification pending.
-- Worldwide peers (I/U/S/E/D):
-  - [Pompeii Archaeological Park (IT)](../../../countries/IT/sights/pompeii.yaml) — 9.6 / 9.7 / 9.7 / 9.3 / 9.5; extensive ancient urban remains; future comparison only; visitor scope unresolved.
-  - [Ephesus (TR)](../../../countries/TR/sights/ephesus.yaml) — 9.4 / 9.2 / 9.4 / 9.2 / 9.3; major Roman urban ensemble; future comparison only; visitor scope unresolved.
-  - [Jerash Archaeological City (JO)](../../../countries/JO/sights/jerash-archaeological-city.yaml) — 9.5 / 9.3 / 9.5 / 9.4 / 9.3; provincial Roman heritage; future comparison only; visitor scope unresolved.
-  - [Adulis Archaeological Site (ER)](../../../countries/ER/sights/adulis-archaeological-site.yaml) — 7.5 / 8.6 / 9.4 / 7.8 / 7.4; less intact regional archaeological site; future comparison only; visitor scope unresolved.
-- Impact null: prehistoric research cave.
-- Uniqueness null: visitor access and site scope unresolved.
-- Significance null: tentative archaeological property.
-- Experience null: public visiting conditions unknown.
-- Depth null: interpretation scope unresolved.
-- Categories: none assessed. Overall: unranked.
-- High-score challenge: no 9.5+ fields. No approved 10.
-- Evidence: [source context](https://whc.unesco.org/en/statesparties/ma/) (consulted 2026-11-25; country inventory confirms tentative designation only). No full independent claim-level verification.
-- Remaining gaps: precise GPS, individual facts and permitted access, component scope and all five dimensions.
+- YAML: [source](../../../countries/MA/sights/taforalt-cave.yaml)
+- Action: rescore
+- Precise subject: Archaeological research cave and its scientific heritage; excludes off-site collections and other caves.
+- Location check: 34.82, -2.4; provisional representative point, not entrance.
+- Evidence status: **unassessed**
+- Sources (2026-11-26): UNESCO https://whc.unesco.org/en/tentativelists/459/ (opened) documents prehistoric stratigraphy, stone tools and cemetery. Peer-reviewed studies https://pubmed.ncbi.nlm.nih.gov/22154088/ and https://pmc.ncbi.nlm.nih.gov/articles/PMC2752514/ (indexed excerpts) corroborate prehistoric funerary evidence and early ornaments. Normal public cave access and visible interpretation not established. Existing approximate location retained pending independent check.
+- Missing facts: exact point, current visitor permissions and independent claim-level verification.
+
+### Worldwide peer comparisons
+- [melka-kunture-balchit (ET)](../../../countries/ET/sights/melka-kunture-balchit.yaml): 8/9.4/9.7/8.5/8.4; broader prehistoric sequence with documented museum.
+- [olduvai-gorge (TZ)](../../../countries/TZ/sights/olduvai-gorge.yaml): 8.5/9.5/9.8/8.7/8.4; higher globally defining evolutionary significance.
+- [lenggong-valley-archaeological-heritage (MY)](../../../countries/MY/sights/lenggong-valley-archaeological-heritage.yaml): 8.0/9.0/9.5/8.0/8.4; multi-site prehistoric landscape with established interpretation.
+- [ban-chiang-archaeological-site (TH)](../../../countries/TH/sights/ban-chiang-archaeological-site.yaml): 8.4/9.2/9.6/8.2/8.1; internationally important archaeological sequence with public interpretation.
+
+### Scoring decisions
+- Impact: null — Visitor-visible scope unresolved.
+- Uniqueness: 9.4 — Rare prehistoric cemetery and long stratigraphic sequence.
+- Significance: 9.6 — Internationally significant evidence of early symbolic and funerary practices.
+- Experience: null — Ordinary authorized visitor scope unknown.
+- Depth: null — Accessible interpretation and extent unresolved.
+- Applicable categories: history 9.5.
+- Overall: unranked.
+- High-score challenge: Significance 9.6 and history 9.5 reflect published prehistoric evidence; lower significance than Olduvai and Melka Kunture. No visitor score inferred.
+- Approved 10 registry: none.
+- Final decision: Partial assessment; no total.
+- Earlier decision: [prior incomplete assessment](history-review-2026-11-26.md).
+- Verification still needed: independent claim-level verification and current access.
+
 
 ## sight-ma-talassemtane-national-park — Talassemtane National Park — 2026-11-25
 
@@ -325,43 +339,67 @@
 - Evidence: [source context](https://whc.unesco.org/en/statesparties/ma/) (consulted 2026-11-25; country inventory confirms tentative designation only). No full independent claim-level verification.
 - Remaining gaps: precise GPS, individual facts and permitted access, component scope and all five dimensions.
 
-## sight-ma-khnifiss-lagoon — Khnifiss Lagoon — 2026-11-25
+## sight-ma-khnifiss-lagoon — Khnifiss Lagoon — 2026-11-26
 
-- [YAML](../../../countries/MA/sights/khnifiss-lagoon.yaml) · Action: new · **unassessed**.
-- Scope: coastal lagoon ecosystem. GPS 28.02, -12.23: approximate editorial reference; independent verification pending.
-- Worldwide peers (I/U/S/E/D):
-  - [Wadi Rum Protected Area (JO)](../../../countries/JO/sights/wadi-rum-protected-area.yaml) — 9.8 / 9.7 / 9.4 / 9.6 / 9.5; major desert landscape; future comparison only; visitor scope unresolved.
-  - [Mount Huangshan (CN)](../../../countries/CN/sights/mount-huangshan.yaml) — 9.9 / 9.9 / 9.6 / 9.8 / 9.3; world-leading rocky mountain scenery; future comparison only; visitor scope unresolved.
-  - [Black River Gorges National Park (MU)](../../../countries/MU/sights/black-river-gorges-national-park.yaml) — 9.0 / 8.9 / 8.8 / 8.9 / 9.0; bounded protected landscape; future comparison only; visitor scope unresolved.
-  - [Pedra de Lume Salt Crater (CV)](../../../countries/CV/sights/pedra-de-lume-salt-crater.yaml) — 8.5 / 9.1 / 7.7 / 8.4 / 7.3; smaller geological landscape; future comparison only; visitor scope unresolved.
-- Impact null: coastal lagoon ecosystem.
-- Uniqueness null: visitor scope and seasonal conditions unresolved.
-- Significance null: tentative natural property.
-- Experience null: permitted access not confirmed.
-- Depth null: representative point approximate.
-- Categories: none assessed. Overall: unranked.
-- High-score challenge: no 9.5+ fields. No approved 10.
-- Evidence: [source context](https://whc.unesco.org/en/statesparties/ma/) (consulted 2026-11-25; country inventory confirms tentative designation only). No full independent claim-level verification.
-- Remaining gaps: precise GPS, individual facts and permitted access, component scope and all five dimensions.
+- YAML: [source](../../../countries/MA/sights/khnifiss-lagoon.yaml)
+- Action: rescore
+- Precise subject: Tentative lagoon landscape and documented guided boat and shore experiences; not the entire national park or unrelated desert excursions.
+- Location check: 28.02, -12.23; provisional representative point, not entrance.
+- Evidence status: **source-linked-unverified**
+- Sources (2026-11-26): UNESCO https://whc.unesco.org/en/tentativelists/1182/ (opened) describes varied coastal habitats in desert setting and archaeological context. Regional tourism operator https://visittarfaya.ma/en/experiences/lagune-khnifiss-bateau (opened) documents two-hour guided boat visits, shore dunes and seasonal bird observation; bookings and sightings not guaranteed. Existing approximate coordinate retained pending independent check.
+- Missing facts: exact point, current visitor permissions and independent claim-level verification.
 
-## sight-ma-figuig-oasis — Figuig Oasis — 2026-11-25
+### Worldwide peer comparisons
+- [ichkeul-national-park (TN)](../../../countries/TN/sights/ichkeul-national-park.yaml): 8.5/8.9/9.1/8.2/8.1; inscribed migratory wetland, comparable focused visitation.
+- [lake-elementaita (KE)](../../../countries/KE/sights/lake-elementaita.yaml): 8.6/8.9/9.2/8.5/8.3; stronger inscribed lake ecology, comparable guided observation.
+- [suncheon-bay-wetland-reserve (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml): 8.9/9.0/9.0/9.1/8.6; broader established interpreted wetland routes.
+- [neusiedler-see-seewinkel-national-park (AT)](../../../countries/AT/sights/neusiedler-see-seewinkel-national-park.yaml): 8.5/8.8/9.2/8.7/8.8; more extensive established birding circuits.
 
-- [YAML](../../../countries/MA/sights/figuig-oasis.yaml) · Action: new · **unassessed**.
-- Scope: oasis and ksour landscape. GPS 32.11, -1.23: approximate editorial reference; independent verification pending.
-- Worldwide peers (I/U/S/E/D):
-  - [Historic Areas of Istanbul (TR)](../../../countries/TR/sights/historic-istanbul.yaml) — 9.4 / 9.4 / 9.4 / 9.1 / 9.1; global historic urban ensemble; future comparison only; visitor scope unresolved.
-  - [Medieval City of Rhodes (GR)](../../../countries/GR/sights/rhodes-old-town.yaml) — 9.3 / 9.3 / 9.3 / 9.2 / 9.1; fortified urban fabric; future comparison only; visitor scope unresolved.
-  - [As-Salt Historic Core (JO)](../../../countries/JO/sights/as-salt-historic-core.yaml) — 8.7 / 9.1 / 9.1 / 8.7 / 8.4; regional historic townscape; future comparison only; visitor scope unresolved.
-  - [Massawa Old Town (ER)](../../../countries/ER/sights/massawa-old-town.yaml) — 8.6 / 8.9 / 9.1 / 8.0 / 8.0; historic port quarter; future comparison only; visitor scope unresolved.
-- Impact null: oasis and ksour landscape.
-- Uniqueness null: component inventory unresolved.
-- Significance null: tentative property.
-- Experience null: permitted visitor routes unknown.
-- Depth null: serial settlement scope requires verification.
-- Categories: none assessed. Overall: unranked.
-- High-score challenge: no 9.5+ fields. No approved 10.
-- Evidence: [source context](https://whc.unesco.org/en/statesparties/ma/) (consulted 2026-11-25; country inventory confirms tentative designation only). No full independent claim-level verification.
-- Remaining gaps: precise GPS, individual facts and permitted access, component scope and all five dimensions.
+### Scoring decisions
+- Impact: 8.7 — Visually distinctive contrast between desert dunes and tidal lagoon.
+- Uniqueness: 8.9 — Unusual desert-coastal wetland setting with analogues elsewhere.
+- Significance: 9 — Important documented wetland habitats and migratory birds.
+- Experience: 8.5 — Documented guided boat visits, dependent on tide and conditions.
+- Depth: 8 — Focused lagoon circuits rather than entire protected area.
+- Applicable categories: nature 9.2, wildlife 9.1, photography 8.9.
+- Overall: 87.10/100.
+- High-score challenge: no 9.5+ field or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide V2 rating.
+- Earlier decision: [prior incomplete assessment](history-review-2026-11-26.md).
+- Verification still needed: independent claim-level verification and current access.
+
+
+## sight-ma-figuig-oasis — Figuig Oasis — 2026-11-26
+
+- YAML: [source](../../../countries/MA/sights/figuig-oasis.yaml)
+- Action: rescore
+- Precise subject: Living oasis landscape, public ksar lanes and locally permitted palm-grove paths; no assumption of entry to homes, religious spaces or privately managed plots.
+- Location check: 32.11, -1.23; provisional representative point, not entrance.
+- Evidence status: **source-linked-unverified**
+- Sources (2026-11-26): UNESCO tentative submission https://whc.unesco.org/en/tentativelists/5625 (opened) documents earthen architecture, defensive structures, stepped gardens and water management. Cultural directory https://culturama.ma/en/institutions/espace-patrimoine-oasien-figuig (opened) describes interpretation centre and palm-grove walks, but does not establish regular opening hours; centre interior not credited as guaranteed. Existing approximate coordinate retained pending independent check.
+- Missing facts: exact point, current visitor permissions and independent claim-level verification.
+
+### Worldwide peer comparisons
+- [mzab-valley (DZ)](../../../countries/DZ/sights/mzab-valley.yaml): 9.2/9.5/9.4/8.7/9.1; more distinctive inscribed fortified oasis ensemble.
+- [rhoufi-oued-labiod (DZ)](../../../countries/DZ/sights/rhoufi-oued-labiod.yaml): 9.0/9.1/8.7/8.4/8.4; more dramatic canyon scenery, less integrated irrigation heritage.
+- [konso-cultural-landscape (ET)](../../../countries/ET/sights/konso-cultural-landscape.yaml): 8.7/9.2/9.2/8.3/8.7; stronger inscribed terraced living landscape.
+- [matmata-troglodyte-homes (TN)](../../../countries/TN/sights/matmata-troglodyte-homes.yaml): 8.7/9.0/8.5/8.3/7.7; more focused underground architecture, less extensive oasis fabric.
+
+### Scoring decisions
+- Impact: 8.5 — Distinctive palm gardens and earthen settlement scenery.
+- Uniqueness: 9 — Integrated traditional irrigation, fortified settlements and living traditions.
+- Significance: 8.9 — Important regional oasis cultural heritage, not inscribed.
+- Experience: 8.3 — Documented public lanes and garden walks; no guaranteed interior entry.
+- Depth: 8.5 — Several ksour and connected landscapes, bounded to permitted routes.
+- Applicable categories: culture 9.1, architecture 8.9, history 8.8, photography 8.8.
+- Overall: 86.75/100.
+- High-score challenge: no 9.5+ field or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide V2 rating.
+- Earlier decision: [prior incomplete assessment](history-review-2026-11-26.md).
+- Verification still needed: independent claim-level verification and current access.
+
 
 ## sight-ma-casablanca-modern-heritage — Casablanca Twentieth-Century Architectural Heritage — 2026-11-25
 
@@ -609,3 +647,7 @@
 - High-score challenge: no 9.5+ fields. No approved 10.
 - Evidence: [source context](https://www.exotic-morocco.com/visit/) (consulted 2026-11-25; travel or tourism context, not all individual claims). No full independent claim-level verification.
 - Remaining gaps: precise GPS, individual facts and permitted access, category and peer calibration.
+
+## Heritage inventory recheck — 2026-11-26
+
+UNESCO https://whc.unesco.org/en/statesparties/ma/ lists nine inscribed and fourteen tentative entries. Thirteen tentative entries represented in MA YAML; Dakhla National Park remains documented separately pending neutral Western Sahara coding. No territorial claim inferred from a State Party submission. Component coverage remains incomplete.
