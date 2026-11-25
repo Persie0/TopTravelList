@@ -577,3 +577,131 @@
 - Final decision: Provisional score separates international archaeological significance from modest tangible visitor impact; explicit permission remains necessary.
 - Earlier decision: prior entry for this ID, unranked.
 - Verification still needed: Confirm current consent-based visitor arrangements and on-site interpretation, representative point and canonical checks.
+
+
+## 2026-11-25 — remaining tentative-property scope review
+
+All six remaining aggregate properties were reviewed for ordinary visitor scope. No aggregate score was filled from a single component. Retain all six incomplete profiles:
+
+- **Huon Terraces:** UNESCO (https://whc.unesco.org/en/tentativelists/5066/) identifies Sialum as the best-expressed coastal terrace sequence; normal permitted visitor route and depth were not established. Retain null experience/depth.
+- **Kikori River Basin:** UNESCO (https://whc.unesco.org/en/tentativelists/5060/) describes a landscape exceeding two million hectares. Lake Kutubu canoe trips and shore excursions (https://papuanewguinea.travel/natural-landmarks/lake-kutubu/) establish only a portion; add the lake separately.
+- **Kokoda/Owen Stanley:** UNESCO (https://whc.unesco.org/en/tentativelists/5061/) includes potential Managalas and Mount Victoria/Albert Edward areas in addition to the trail. Australian Anzac Portal (https://anzacportal.dva.gov.au/wars-and-missions/ww2/where/swpa/png/visiting-kokoda-track) confirms trail visits, not the whole proposed scope. Existing trail rating remains separate; no aggregate experience/depth inferred.
+- **Milne Bay:** UNESCO (https://whc.unesco.org/en/tentativelists/5063/) identifies Bramble Haven, Conflict Group, Lunn Island, Jormard Island and Samarai. PADI and Princess visitor activities corroborate Conflict Group only; add this separately, with remaining components requiring evidence.
+- **Sublime Karsts:** UNESCO (https://whc.unesco.org/en/tentativelists/5064/) identifies Nakanai, Muller and Hindenburg areas. PNG Tourism Promotion Authority (https://papuanewguinea.travel/western-province/) mentions Hindenburg scenery but does not establish guided access or cave visitor breadth across the three regions. Retain nulls.
+- **Trans-Fly:** UNESCO (https://whc.unesco.org/en/tentativelists/5062/) identifies a broad cross-border ecoregion including Tonda and other customary protected areas. Documented Bensbach lodge excursions (https://pngtours.com/bensbach-wildlife-lodge/) establish a visitable component, not the entire PNG portion. Add Tonda separately.
+
+These are scope decisions, not safety assessments or access guarantees. Sources checked on 2026-11-25; original editorial scores remain provisional.
+
+### sight-pg-lake-kutubu — Lake Kutubu — 2026-11-25
+
+- YAML: [source](../../../countries/PG/sights/lake-kutubu.yaml)
+- Action: new
+- Precise subject: The lake and normal consent-based canoe, shore and village excursions; not the two-million-hectare Kikori basin, separate Beaver Falls or Mount Bosavi.
+- Location check: Scientific paper gives 6°25.79′S, 143°20.22′E, converted to decimal degrees; representative lake point, not an entrance (https://pmc.ncbi.nlm.nih.gov/articles/PMC8501871/).
+- Evidence status: source-linked-unverified
+- Independently checked factual claims (2026-11-25):
+  - PNG Tourism Promotion Authority describes forested limestone ridges, canoe journeys and lakeside Foe and Fasu communities — https://papuanewguinea.travel/natural-landmarks/lake-kutubu/
+  - PNG Tourism Promotion Authority documents community-run Tubo Lodge, arranged canoe trips and prior Yo’obo longhouse visits — https://papuanewguinea.travel/business/tubo-lodge/
+  - Independent 2021 research describes endemic fish, karst hydrology and environmental disturbance; do not assume pristine conditions — https://pmc.ncbi.nlm.nih.gov/articles/PMC8501871/
+  - UNESCO tentative submission confirms Lake Kutubu is a component of the broader Kikori landscape — https://whc.unesco.org/en/tentativelists/5060/
+- Missing or uncertain facts: No promise of community permission, current water quality or sightings of endemic fish; detailed category and location verification still needed.
+
+#### Worldwide peer comparisons
+- Ba Be Lake (Vietnam), 8.8/9.0/8.3/9.1/8.5: stronger established scenic boat experience, less distinctive fish ecology.
+- Cheow Lan Lake (Thailand), 9.1/9.3/8.5/9.3/8.7: more monumental karst scenery and developed excursions.
+- Achensee (Austria), 8.4/8.0/7.1/8.8/8.4: comparable lake scenery with less singular freshwater biodiversity.
+- Tonle Sap Lake (Cambodia), 9.0/9.2/9.5/8.8/9.2: much broader wetland ecology and water-based culture.
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | — | 8.4 | Forested limestone ridges and lake panoramas are striking but not as dramatic as Cheow Lan. |
+| Uniqueness | — | 8.8 | Distinctive upland karst lake, endemic aquatic fauna and lakeside culture; not unique among world lakes. |
+| Significance | — | 9.0 | Rare freshwater ecology and cultural relationships justify an outstanding significance score without inheriting basin significance. |
+| Experience | — | 8.4 | Documented canoe trips and community-arranged visits, without assuming access to every village. |
+| Depth | — | 8.2 | Several meaningful water and shore experiences, narrower than large multi-zone wetland landscapes. |
+
+- Applicable category scores: nature 8.9, culture 8.5, photography 8.6; provisional, restricted to the documented component.
+- Computed worldwide overall: 86.00/100
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide v2 component rating, calibrated against existing branch YAML peers; aggregate heritage proposal remains unranked.
+- Earlier decision: none.
+- Verification still needed: No promise of community permission, current water quality or sightings of endemic fish; detailed category and location verification still needed. Canonical global validation and benchmark diagnostics remain outstanding.
+
+
+### sight-pg-tonda-wildlife-management-area — Tonda Wildlife Management Area — 2026-11-25
+
+- YAML: [source](../../../countries/PG/sights/tonda-wildlife-management-area.yaml)
+- Action: new
+- Precise subject: Community-managed Tonda wetlands and normal guided Bensbach-area wildlife excursions; not the wider international Trans-Fly ecoregion, unrelated lodges or hunting opportunities.
+- Location check: Existing Trans-Fly component proxy rounded to the Tonda reference coordinates 8°45′S 141°23′E; approximate representative point, not a lodge or entrance. Source: https://events.development.asia/materials/papua-new-guinea-tonda-wildlife-management-area
+- Evidence status: source-linked-unverified
+- Independently checked factual claims (2026-11-25):
+  - UNESCO tentative submission identifies Tonda as a community-managed wetland component and describes monsoonal savanna and waterbird habitats — https://whc.unesco.org/en/tentativelists/5062/
+  - PNG Tourism Promotion Authority identifies Tonda as a visitor attraction — https://papuanewguinea.travel/western-province/
+  - Trans Niugini Tours describes Bensbach floodplain birdlife, river experiences and customary culture — https://pngtours.com/bensbach-wildlife-lodge/
+  - Discover PNG independently describes the lodge as in Tonda and documents birdwatching and landscape exploration — https://www.discoverpng.com/accommodation/bensbach-wildlife
+- Missing or uncertain facts: Lodge/operator descriptions are not independent wildlife census results; current access and exact visitor route geography need checking.
+
+#### Worldwide peer comparisons
+- Neusiedler See–Seewinkel National Park (Austria), 8.5/8.8/9.2/8.7/8.8: comparable migratory bird significance with more established routes.
+- Kinabatangan Wildlife Sanctuary (Malaysia), 9.2/9.4/9.2/9.2/9.0: stronger rainforest river wildlife spectacle.
+- Kui Buri National Park (Thailand), 8.7/8.9/8.5/9.1/8.5: more concentrated large-mammal watching.
+- Tonle Sap Lake (Cambodia), 9.0/9.2/9.5/8.8/9.2: more extensive water-based settlements and ecological processes.
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | — | 8.2 | Sweeping seasonal floodplains and savanna offer distinctive open scenery but less visual relief than mountain parks. |
+| Uniqueness | — | 8.7 | Unusual New Guinea monsoon wetlands with migratory and resident fauna; globally analogous wetlands exist. |
+| Significance | — | 9.0 | Internationally important wetland and community management; exclude biodiversity of the entire Trans-Fly region. |
+| Experience | — | 8.5 | Established guided river and birdwatching experiences, with variable wildlife encounters. |
+| Depth | — | 8.6 | Several habitat types and river journeys allow meaningful multiday exploration, without assuming access across all customary land. |
+
+- Applicable category scores: nature 8.9, wildlife 9.2, photography 8.5; provisional, restricted to the documented component.
+- Computed worldwide overall: 85.70/100
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide v2 component rating, calibrated against existing branch YAML peers; aggregate heritage proposal remains unranked.
+- Earlier decision: none.
+- Verification still needed: Lodge/operator descriptions are not independent wildlife census results; current access and exact visitor route geography need checking. Canonical global validation and benchmark diagnostics remain outstanding.
+
+
+### sight-pg-conflict-islands — Conflict Islands — 2026-11-25
+
+- YAML: [source](../../../countries/PG/sights/conflict-islands.yaml)
+- Action: new
+- Precise subject: Conflict Group atoll and documented lagoon, reef and conservation experiences; excludes Lunn, Jormard, Bramble Haven and Samarai components of the broader Milne Bay proposal.
+- Location check: Mapcarta/GeoNames atoll point -10.76972, 151.79101 (https://mapcarta.com/16613172); offshore representative point not a landing location.
+- Evidence status: source-linked-unverified
+- Independently checked factual claims (2026-11-25):
+  - UNESCO tentative submission identifies the Conflict Group as one of five components and describes coral reef diversity — https://whc.unesco.org/en/tentativelists/5063/
+  - Important Shark and Ray Areas documents the atoll, reef flats, seagrass, lagoon, range-restricted epaulette shark and ray habitat — https://sharkrayareas.org/portfolio-item/conflict-islands-isra/
+  - PADI lists diving and snorkelling at the resort — https://www.padi.com/dive-center/papua-new-guinea/the-conflict-islands-resort/
+  - Princess Cruises describes reef snorkelling, lagoon exploration and turtle nursery interpretation — https://www.princess.com/en-uk/cruise-destinations/tahiti-south-pacific-cruises/cruises-to-conflict-islands
+- Missing or uncertain facts: No guarantee of wildlife encounters, current landing permission or coral condition; exact representative location and access arrangements require further checks.
+
+#### Worldwide peer comparisons
+- Sipadan Island Reefs (Malaysia), 9.5/9.6/9.1/9.5/8.9: stronger global benchmark for underwater encounters.
+- Ang Thong National Marine Park (Thailand), 9.0/9.0/8.6/9.1/8.9: more varied limestone island scenery and viewpoints.
+- Cham Islands (Vietnam), 8.8/9.0/8.4/9.0/8.7: comparable island and reef experience, less distinctive documented shark ecology.
+- Perhentian Islands (Malaysia), 9.0/8.8/7.7/9.2/8.9: comparable beach and reef recreation, lower ecological significance.
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | — | 8.9 | Bright coral cays, lagoon and reef scenery; less extraordinary than leading global diving benchmarks. |
+| Uniqueness | — | 8.9 | Distinctive atoll structure and range-restricted marine fauna; many other beautiful tropical atolls exist. |
+| Significance | — | 9.0 | Documented ecological importance for threatened and range-restricted sharks and rays, without transferring the whole Milne Bay heritage value. |
+| Experience | — | 9.0 | Established diving, snorkelling, lagoon trips and conservation interpretation support an outstanding visit. |
+| Depth | — | 8.6 | Multiple reef habitats and water activities, but less broad than extensive multi-island national marine parks. |
+
+- Applicable category scores: nature 9.2, wildlife 9.2, beaches 8.9, adventure 9.0; provisional, restricted to the documented component.
+- Computed worldwide overall: 89.05/100
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide v2 component rating, calibrated against existing branch YAML peers; aggregate heritage proposal remains unranked.
+- Earlier decision: none.
+- Verification still needed: No guarantee of wildlife encounters, current landing permission or coral condition; exact representative location and access arrangements require further checks. Canonical global validation and benchmark diagnostics remain outstanding.
+
