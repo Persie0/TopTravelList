@@ -2,7 +2,7 @@
 
 # Gambia (GM) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**16 ranked** · **0 unassessed** · **16 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,26 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, or click its GPS coordinates to open **Google Maps**. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (16)
 
-No cities, towns & villages have been assessed for **Gambia** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps |
+| ---: | --- | --- | ---: | --- | --- | --- |
+| 1 | [Janjanbureh](cities/janjanbureh.yaml) | City / town | **77.40** | **History 8.8**, **Culture 8.6**, **Photography 8.0** | 7.2 / 8.2 / 8.3 / 7.8 / 7.0 | [13.535, -14.766](https://www.google.com/maps/search/?api=1&query=13.535,-14.766) |
+| 2 | [Juffureh](cities/juffureh.yaml) | City / town | **75.35** | **History 9.1**, **Culture 8.8** | 6.6 / 8.1 / 8.8 / 7.6 / 6.3 | [13.338, -16.383](https://www.google.com/maps/search/?api=1&query=13.338,-16.383) |
+| 3 | [Albreda](cities/albreda.yaml) | City / town | **74.60** | **History 8.9**, **Culture 8.6** | 6.8 / 7.9 / 8.5 / 7.5 / 6.2 | [13.333, -16.39](https://www.google.com/maps/search/?api=1&query=13.333,-16.39) |
+| 4 | [Banjul](cities/banjul.yaml) | City / town | **74.45** | **History 8.4**, **Culture 8.3**, **Food 8.0** | 7.0 / 7.5 / 8.0 / 7.6 / 7.3 | [13.4531, -16.5775](https://www.google.com/maps/search/?api=1&query=13.4531,-16.5775) |
+| 5 | [Tanji](cities/tanji.yaml) | City / town | **74.05** | **Photography 8.5**, **Culture 8.4**, **Food 8.2** | 7.5 / 7.9 / 6.6 / 8.0 / 6.6 | [13.356, -16.789](https://www.google.com/maps/search/?api=1&query=13.356,-16.789) |
+| 6 | [Bakau](cities/bakau.yaml) | City / town | **73.75** | **Culture 8.2**, **Food 8.1**, **Photography 8.0** | 7.2 / 7.6 / 7.0 / 8.1 / 7.0 | [13.478, -16.681](https://www.google.com/maps/search/?api=1&query=13.478,-16.681) |
+| 7 | [Basse Santa Su](cities/basse-santa-su.yaml) | City / town | **70.75** | **Culture 8.1**, **Food 7.9**, **History 7.5** | 6.6 / 7.4 / 7.2 / 7.5 / 6.8 | [13.31, -14.213](https://www.google.com/maps/search/?api=1&query=13.31,-14.213) |
+| 8 | [Kartong](cities/kartong.yaml) | City / town | **70.15** | **Photography 8.0**, **Culture 7.9** | 7.0 / 7.5 / 6.4 / 7.6 / 6.2 | [13.092, -16.756](https://www.google.com/maps/search/?api=1&query=13.092,-16.756) |
+| 9 | [Serekunda](cities/serekunda.yaml) | City / town | **69.75** | **Culture 8.2**, **Food 8.2** | 6.4 / 7.0 / 7.0 / 7.7 / 7.5 | [13.438, -16.678](https://www.google.com/maps/search/?api=1&query=13.438,-16.678) |
+| 10 | [Gunjur](cities/gunjur.yaml) | City / town | **68.40** | **Culture 7.8**, **Food 7.6** | 6.7 / 7.3 / 6.5 / 7.3 / 6.1 | [13.177, -16.759](https://www.google.com/maps/search/?api=1&query=13.177,-16.759) |
+| 11 | [Sanyang](cities/sanyang.yaml) | City / town | **68.15** | **Culture 7.6**, **Food 7.6** | 6.8 / 7.2 / 6.2 / 7.5 / 6.1 | [13.264, -16.764](https://www.google.com/maps/search/?api=1&query=13.264,-16.764) |
+| 12 | [Barra](cities/barra.yaml) | City / town | **68.00** | **Culture 7.6**, **History 7.5** | 6.6 / 7.0 / 6.9 / 7.2 / 6.1 | [13.482, -16.541](https://www.google.com/maps/search/?api=1&query=13.482,-16.541) |
+| 13 | [Brikama](cities/brikama.yaml) | City / town | **67.70** | **Culture 8.0**, **Food 7.7** | 6.3 / 7.0 / 6.8 / 7.4 / 6.6 | [13.271, -16.649](https://www.google.com/maps/search/?api=1&query=13.271,-16.649) |
+| 14 | [Kololi](cities/kololi.yaml) | City / town | **67.30** | **Nightlife 8.3**, **Food 8.1**, **Relaxation 8.0** | 6.8 / 6.5 / 5.5 / 8.3 / 7.2 | [13.441, -16.727](https://www.google.com/maps/search/?api=1&query=13.441,-16.727) |
+| 15 | [Tendaba](cities/tendaba.yaml) | City / town | **66.45** | **Photography 7.6**, **Culture 7.4** | 6.5 / 7.2 / 6.1 / 7.3 / 5.8 | [13.445, -15.823](https://www.google.com/maps/search/?api=1&query=13.445,-15.823) |
+| 16 | [Farafenni](cities/farafenni.yaml) | City / town | **64.35** | **Food 7.4**, **Culture 7.2** | 6.1 / 6.5 / 6.5 / 7.0 / 6.3 | [13.572, -15.6](https://www.google.com/maps/search/?api=1&query=13.572,-15.6) |
 
 ---
 

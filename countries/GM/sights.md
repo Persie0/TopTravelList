@@ -2,7 +2,7 @@
 
 # Gambia (GM) — Sights & attractions ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**26 ranked** · **5 unassessed** · **31 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,11 +10,48 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, or click its GPS coordinates to open **Google Maps**. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (26)
 
-No sights & attractions have been assessed for **Gambia** yet.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps |
+| ---: | --- | --- | ---: | --- | --- | --- |
+| 1 | [Kunta Kinteh Island](sights/kunta-kinteh-island.yaml) | Island | **86.50** | **History 9.7**, **Culture 9.4**, **Photography 8.3** | 8.5 / 9.1 / 9.6 / 8.1 / 6.9 | [13.317642, -16.361353](https://www.google.com/maps/search/?api=1&query=13.317642,-16.361353) |
+| 2 | [Wassu Stone Circles](sights/wassu-stone-circles.yaml) | Attraction | **86.40** | **History 9.4**, **Culture 9.2**, **Photography 8.6** | 8.3 / 9.1 / 9.4 / 8.3 / 7.5 | [13.692, -14.873](https://www.google.com/maps/search/?api=1&query=13.692,-14.873) |
+| 3 | [River Gambia National Park](sights/river-gambia-national-park.yaml) | Park / reserve | **84.45** | **Wildlife 9.4**, **Nature 9.1**, **Photography 8.5** | 8.3 / 8.9 / 8.7 / 8.2 / 7.6 | [13.64, -14.959](https://www.google.com/maps/search/?api=1&query=13.64,-14.959) |
+| 4 | [Kiang West National Park](sights/kiang-west-national-park.yaml) | Park / reserve | **83.55** | **Wildlife 9.2**, **Nature 9.0**, **Adventure 8.4** | 8.2 / 8.5 / 8.4 / 8.4 / 8.3 | [13.373, -15.961](https://www.google.com/maps/search/?api=1&query=13.373,-15.961) |
+| 5 | [Bao Bolong Wetland Reserve](sights/bao-bolong-wetland-reserve.yaml) | Wetland | **83.50** | **Wildlife 9.2**, **Nature 9.0**, **Photography 8.5** | 8.2 / 8.6 / 8.5 / 8.4 / 7.8 | [13.506, -15.85](https://www.google.com/maps/search/?api=1&query=13.506,-15.85) |
+| 6 | [Kerbatch Stone Circles](sights/kerbatch-stone-circles.yaml) | Attraction | **82.90** | **History 9.4**, **Culture 9.0**, **Photography 8.1** | 7.8 / 8.9 / 9.3 / 7.9 / 6.8 | [13.754519, -15.067903](https://www.google.com/maps/search/?api=1&query=13.754519,-15.067903) |
+| 7 | [Tanji Bird Reserve](sights/tanji-bird-reserve.yaml) | Attraction | **81.10** | **Wildlife 9.1**, **Nature 8.7**, **Photography 8.5** | 8.0 / 8.4 / 8.0 / 8.4 / 7.5 | [13.383, -16.778](https://www.google.com/maps/search/?api=1&query=13.383,-16.778) |
+| 8 | [Fort Bullen](sights/fort-bullen.yaml) | Fortification | **80.60** | **History 9.3**, **Architecture 8.1**, **Photography 8.1** | 7.7 / 8.3 / 9.0 / 7.9 / 6.9 | [13.485261, -16.547472](https://www.google.com/maps/search/?api=1&query=13.485261,-16.547472) |
+| 9 | [Abuko Nature Reserve](sights/abuko-nature-reserve.yaml) | Park / reserve | **80.20** | **Wildlife 8.8**, **Nature 8.7**, **Adventure 7.9** | 7.8 / 8.0 / 8.2 / 8.4 / 7.8 | [13.391, -16.648](https://www.google.com/maps/search/?api=1&query=13.391,-16.648) |
+| 10 | [Jinack Island](sights/jinack-island.yaml) | Island | **78.30** | **Photography 8.7**, **Nature 8.5**, **Beaches 8.3** | 8.2 / 8.1 / 7.0 / 8.1 / 7.3 | [13.558, -16.514](https://www.google.com/maps/search/?api=1&query=13.558,-16.514) |
+| 11 | [Makasutu Culture Forest](sights/makasutu-culture-forest.yaml) | Forest | **77.80** | **Nature 8.4**, **Culture 8.3**, **Wildlife 8.2** | 7.8 / 8.0 / 7.3 / 8.2 / 7.5 | [13.31, -16.651](https://www.google.com/maps/search/?api=1&query=13.31,-16.651) |
+| 12 | [Kachikally Crocodile Pool](sights/kachikally-crocodile-pool.yaml) | Attraction | **77.75** | **Culture 8.7**, **History 8.4**, **Wildlife 8.4** | 7.4 / 8.4 / 8.0 / 7.9 / 6.7 | [13.478, -16.675](https://www.google.com/maps/search/?api=1&query=13.478,-16.675) |
+| 13 | [Kotu Creek](sights/kotu-creek.yaml) | Attraction | **77.15** | **Wildlife 8.9**, **Nature 8.4** | 7.6 / 8.2 / 7.2 / 8.3 / 7.0 | [13.465, -16.71](https://www.google.com/maps/search/?api=1&query=13.465,-16.71) |
+| 14 | [Sanyang Beach](sights/sanyang-beach.yaml) | Beach / bay | **77.10** | **Beaches 8.9**, **Relaxation 8.7**, **Photography 8.5** | 8.5 / 8.0 / 5.9 / 8.4 / 7.2 | [13.257, -16.79](https://www.google.com/maps/search/?api=1&query=13.257,-16.79) |
+| 15 | [Bijilo Forest Park](sights/bijilo-forest-park.yaml) | Forest | **75.65** | **Wildlife 8.4**, **Family 8.2**, **Nature 8.2** | 7.6 / 7.6 / 7.1 / 8.3 / 7.2 | [13.427, -16.736](https://www.google.com/maps/search/?api=1&query=13.427,-16.736) |
+| 16 | [Kartong Beach](sights/kartong-beach.yaml) | Beach / bay | **75.40** | **Beaches 8.7**, **Relaxation 8.5**, **Photography 8.4** | 8.3 / 7.9 / 5.8 / 8.1 / 7.0 | [13.091, -16.772](https://www.google.com/maps/search/?api=1&query=13.091,-16.772) |
+| 17 | [Tanji Village Museum](sights/tanji-village-museum.yaml) | Museum / heritage | **75.10** | **Culture 8.7**, **History 8.3** | 7.0 / 8.0 / 7.6 / 8.0 / 6.9 | [13.36, -16.785](https://www.google.com/maps/search/?api=1&query=13.36,-16.785) |
+| 18 | [Cape Point Beach](sights/cape-point-beach.yaml) | Beach / bay | **75.05** | **Beaches 8.6**, **Photography 8.4**, **Relaxation 8.4** | 8.1 / 7.6 / 6.1 / 8.3 / 7.1 | [13.488, -16.674](https://www.google.com/maps/search/?api=1&query=13.488,-16.674) |
+| 19 | [Kotu Beach](sights/kotu-beach.yaml) | Beach / bay | **74.90** | **Relaxation 8.7**, **Beaches 8.6** | 8.1 / 7.5 / 5.9 / 8.5 / 7.3 | [13.46, -16.715](https://www.google.com/maps/search/?api=1&query=13.46,-16.715) |
+| 20 | [Albert Market](sights/albert-market.yaml) | Market | **74.80** | **Culture 8.4**, **Food 8.2** | 7.2 / 7.7 / 7.1 / 8.3 / 7.3 | [13.452, -16.575](https://www.google.com/maps/search/?api=1&query=13.452,-16.575) |
+| 21 | [Gambia National Museum](sights/gambia-national-museum.yaml) | Museum / heritage | **74.70** | **History 8.9**, **Culture 8.6** | 6.6 / 7.8 / 8.5 / 7.6 / 7.0 | [13.454, -16.578](https://www.google.com/maps/search/?api=1&query=13.454,-16.578) |
+| 22 | [Kololi Beach](sights/kololi-beach.yaml) | Beach / bay | **74.35** | **Beaches 8.6**, **Relaxation 8.6** | 8.0 / 7.4 / 5.8 / 8.5 / 7.5 | [13.444, -16.735](https://www.google.com/maps/search/?api=1&query=13.444,-16.735) |
+| 23 | [CFAO Building (Albreda)](sights/cfao-building-albreda.yaml) | Attraction | **73.95** | **History 8.9**, **Culture 8.4** | 6.7 / 7.7 / 8.5 / 7.6 / 6.2 | [13.333194, -16.384972](https://www.google.com/maps/search/?api=1&query=13.333194,-16.384972) |
+| 24 | [Gunjur Community Forest](sights/gunjur-community-forest.yaml) | Forest | **73.60** | **Wildlife 8.2**, **Nature 8.1** | 7.3 / 7.6 / 7.3 / 7.6 / 6.7 | [13.183, -16.753](https://www.google.com/maps/search/?api=1&query=13.183,-16.753) |
+| 25 | [Brikama Craft Market](sights/brikama-craft-market.yaml) | Market | **72.00** | **Culture 8.5** | 6.8 / 7.8 / 6.8 / 8.0 / 6.5 | [13.271, -16.649](https://www.google.com/maps/search/?api=1&query=13.271,-16.649) |
+| 26 | [Arch 22](sights/arch-22.yaml) | Attraction | **71.30** | **Photography 8.2**, **Architecture 8.0**, **History 7.6** | 7.0 / 7.3 / 7.4 / 7.5 / 6.0 | [13.458, -16.583](https://www.google.com/maps/search/?api=1&query=13.458,-16.583) |
 
-Add destination YAML files in [sights/](sights/), then regenerate the overview files.
+## Not yet fully assessed (5)
+
+These destinations have no rank until all five core scores are assessed.
+
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps |
+| ---: | --- | --- | ---: | --- | --- | --- |
+| — | [Maurel Frères Building](sights/maurel-freres-building.yaml) | Attraction | **—** | **History 8.9** | — / — / 8.5 / — / — | [13.336311, -16.382361](https://www.google.com/maps/search/?api=1&query=13.336311,-16.382361) |
+| — | [Remains of Portuguese Chapel](sights/remains-of-portuguese-chapel.yaml) | Attraction | **—** | **History 9.0** | — / — / 8.6 / — / — | [13.332722, -16.387278](https://www.google.com/maps/search/?api=1&query=13.332722,-16.387278) |
+| — | [Ruins of San Domingo](sights/ruins-of-san-domingo.yaml) | Museum / heritage | **—** | **History 9.1** | — / — / 8.7 / — / — | [13.336389, -16.379472](https://www.google.com/maps/search/?api=1&query=13.336389,-16.379472) |
+| — | [Six-Gun Battery](sights/six-gun-battery.yaml) | Attraction | **—** | **History 9.0** | — / — / 8.6 / — / — | [13.452333, -16.571778](https://www.google.com/maps/search/?api=1&query=13.452333,-16.571778) |
+| — | [Wassu Stone Circles Quarry](sights/wassu-stone-circles-quarry.yaml) | Attraction | **—** | **History 8.9** | — / — / 8.5 / — / — | [13.69, -14.8775](https://www.google.com/maps/search/?api=1&query=13.69,-14.8775) |
 
 ---
 
