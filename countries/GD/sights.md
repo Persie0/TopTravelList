@@ -2,7 +2,7 @@
 
 # Grenada (GD) — Sights & attractions ranking
 
-**26 ranked** · **7 unassessed** · **33 total** · Worldwide scoring **v2**
+**27 ranked** · **6 unassessed** · **33 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (26)
+## Complete ranked list (27)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -33,15 +33,16 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 17 | [Oyster Bed Mangrove (Carriacou)](sights/oyster-bed-mangrove-carriacou.yaml) | Attraction | **78.85** | **Nature 8.8**, **Wildlife 8.6** | 7.7 / 8.2 / 7.9 / 8.3 / 7.0 | [12.453, -61.485](https://www.google.com/maps/search/?api=1&query=12.453,-61.485) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Oyster%20Bed%20Mangrove%20%28Carriacou%29%2C%20Grenada) |
 | 18 | [Concord Waterfalls](sights/concord-waterfalls.yaml) | Waterfall | **78.75** | **Photography 9.0**, **Nature 8.8** | 8.5 / 8.2 / 6.5 / 8.5 / 7.0 | [12.114, -61.714](https://www.google.com/maps/search/?api=1&query=12.114,-61.714) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Concord%20Waterfalls%2C%20Grenada) |
 | 19 | [Grand Etang Lake](sights/grand-etang-lake.yaml) | Lake | **78.55** | **Photography 8.8**, **Nature 8.7** | 8.3 / 8.1 / 7.0 / 8.4 / 6.8 | [12.094, -61.692](https://www.google.com/maps/search/?api=1&query=12.094,-61.692) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Grand%20Etang%20Lake%2C%20Grenada) |
-| 20 | [Morne Rouge Beach](sights/morne-rouge-beach.yaml) | Beach / bay | **77.65** | **Beaches 9.1**, **Relaxation 9.0**, **Photography 8.8** | 8.6 / 7.9 / 5.8 / 8.8 / 7.3 | [12.017, -61.772](https://www.google.com/maps/search/?api=1&query=12.017,-61.772) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Morne%20Rouge%20Beach%2C%20Grenada) |
-| 21 | [Bathway Beach](sights/bathway-beach.yaml) | Beach / bay | **77.40** | **Photography 8.9**, **Beaches 8.8**, **Relaxation 8.5** | 8.4 / 8.0 / 6.2 / 8.4 / 7.2 | [12.215, -61.604](https://www.google.com/maps/search/?api=1&query=12.215,-61.604) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bathway%20Beach%2C%20Grenada) |
-| 22 | [Windward Boat Building School](sights/windward-boat-building-school.yaml) | Attraction | **76.70** | **Culture 9.1**, **History 8.6** | 6.9 / 8.5 / 8.2 / 7.9 / 6.5 | [12.521, -61.424](https://www.google.com/maps/search/?api=1&query=12.521,-61.424) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Windward%20Boat%20Building%20School%2C%20Grenada) |
-| 23 | [Gouyave Nutmeg Processing Station](sights/gouyave-nutmeg-processing-station.yaml) | Attraction | **76.00** | **Culture 8.6**, **History 8.2**, **Food 8.1** | 7.0 / 8.3 / 7.8 / 7.9 / 6.8 | [12.164, -61.729](https://www.google.com/maps/search/?api=1&query=12.164,-61.729) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Gouyave%20Nutmeg%20Processing%20Station%2C%20Grenada) |
-| 24 | [Magazine Beach](sights/magazine-beach.yaml) | Beach / bay | **75.35** | **Beaches 8.8**, **Relaxation 8.6**, **Photography 8.5** | 8.4 / 7.7 / 5.7 / 8.4 / 6.9 | [12.003, -61.784](https://www.google.com/maps/search/?api=1&query=12.003,-61.784) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Magazine%20Beach%2C%20Grenada) |
-| 25 | [Annandale Waterfall](sights/annandale-waterfall.yaml) | Waterfall | **74.20** | **Photography 8.6**, **Nature 8.3** | 8.0 / 7.5 / 6.2 / 8.5 / 6.3 | [12.077, -61.725](https://www.google.com/maps/search/?api=1&query=12.077,-61.725) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Annandale%20Waterfall%2C%20Grenada) |
-| 26 | [Petite Martinique Piton](sights/petite-martinique-piton.yaml) | Attraction | **72.40** | **Photography 8.6**, **Adventure 8.2**, **Nature 8.1** | 7.9 / 7.8 / 6.0 / 7.4 / 6.1 | [12.522, -61.381](https://www.google.com/maps/search/?api=1&query=12.522,-61.381) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Petite%20Martinique%20Piton%2C%20Grenada) |
+| 20 | [Fort Matthew](sights/fort-matthew.yaml) | Fortification | **78.45** | **History 9.0**, **Architecture 8.5** | 7.8 / 7.8 / 8.5 / 7.7 / 7.0 | [12.05, -61.73](https://www.google.com/maps/search/?api=1&query=12.05,-61.73) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Fort%20Matthew%2C%20Grenada) |
+| 21 | [Morne Rouge Beach](sights/morne-rouge-beach.yaml) | Beach / bay | **77.65** | **Beaches 9.1**, **Relaxation 9.0**, **Photography 8.8** | 8.6 / 7.9 / 5.8 / 8.8 / 7.3 | [12.017, -61.772](https://www.google.com/maps/search/?api=1&query=12.017,-61.772) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Morne%20Rouge%20Beach%2C%20Grenada) |
+| 22 | [Bathway Beach](sights/bathway-beach.yaml) | Beach / bay | **77.40** | **Photography 8.9**, **Beaches 8.8**, **Relaxation 8.5** | 8.4 / 8.0 / 6.2 / 8.4 / 7.2 | [12.215, -61.604](https://www.google.com/maps/search/?api=1&query=12.215,-61.604) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bathway%20Beach%2C%20Grenada) |
+| 23 | [Windward Boat Building School](sights/windward-boat-building-school.yaml) | Attraction | **76.70** | **Culture 9.1**, **History 8.6** | 6.9 / 8.5 / 8.2 / 7.9 / 6.5 | [12.521, -61.424](https://www.google.com/maps/search/?api=1&query=12.521,-61.424) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Windward%20Boat%20Building%20School%2C%20Grenada) |
+| 24 | [Gouyave Nutmeg Processing Station](sights/gouyave-nutmeg-processing-station.yaml) | Attraction | **76.00** | **Culture 8.6**, **History 8.2**, **Food 8.1** | 7.0 / 8.3 / 7.8 / 7.9 / 6.8 | [12.164, -61.729](https://www.google.com/maps/search/?api=1&query=12.164,-61.729) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Gouyave%20Nutmeg%20Processing%20Station%2C%20Grenada) |
+| 25 | [Magazine Beach](sights/magazine-beach.yaml) | Beach / bay | **75.35** | **Beaches 8.8**, **Relaxation 8.6**, **Photography 8.5** | 8.4 / 7.7 / 5.7 / 8.4 / 6.9 | [12.003, -61.784](https://www.google.com/maps/search/?api=1&query=12.003,-61.784) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Magazine%20Beach%2C%20Grenada) |
+| 26 | [Annandale Waterfall](sights/annandale-waterfall.yaml) | Waterfall | **74.20** | **Photography 8.6**, **Nature 8.3** | 8.0 / 7.5 / 6.2 / 8.5 / 6.3 | [12.077, -61.725](https://www.google.com/maps/search/?api=1&query=12.077,-61.725) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Annandale%20Waterfall%2C%20Grenada) |
+| 27 | [Petite Martinique Piton](sights/petite-martinique-piton.yaml) | Attraction | **72.40** | **Photography 8.6**, **Adventure 8.2**, **Nature 8.1** | 7.9 / 7.8 / 6.0 / 7.4 / 6.1 | [12.522, -61.381](https://www.google.com/maps/search/?api=1&query=12.522,-61.381) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Petite%20Martinique%20Piton%2C%20Grenada) |
 
-## Not yet fully assessed (7)
+## Not yet fully assessed (6)
 
 These destinations have no rank until all five core scores are assessed.
 
@@ -49,7 +50,6 @@ These destinations have no rank until all five core scores are assessed.
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
 | — | [Carriacou Museum](sights/carriacou-museum.yaml) | Museum / heritage | **—** | **History 8.9**, **Culture 8.8** | — / — / 8.3 / — / — | [12.482, -61.458](https://www.google.com/maps/search/?api=1&query=12.482,-61.458) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Carriacou%20Museum%2C%20Grenada) |
 | — | [Fort George](sights/fort-george.yaml) | Fortification | **—** | **History 9.4**, **Photography 8.9**, **Architecture 8.8** | — / — / 8.9 / — / — | [12.048, -61.753](https://www.google.com/maps/search/?api=1&query=12.048,-61.753) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Fort%20George%2C%20Grenada) |
-| — | [Fort Matthew](sights/fort-matthew.yaml) | Fortification | **—** | **History 9.0**, **Architecture 8.5** | — / — / 8.5 / — / — | [12.05, -61.73](https://www.google.com/maps/search/?api=1&query=12.05,-61.73) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Fort%20Matthew%2C%20Grenada) |
 | — | [Grenada National Museum](sights/grenada-national-museum.yaml) | Museum / heritage | **—** | **History 8.9**, **Culture 8.6** | — / — / 8.4 / — / — | [12.051, -61.754](https://www.google.com/maps/search/?api=1&query=12.051,-61.754) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Grenada%20National%20Museum%2C%20Grenada) |
 | — | [Grenadines Island Group (Grenada sector)](sights/grenadines-island-group-grenada-sector.yaml) | Island | **—** | **Nature 9.3**, **Culture 9.1** | — / — / 8.9 / — / — | [12.49, -61.46](https://www.google.com/maps/search/?api=1&query=12.49,-61.46) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Grenadines%20Island%20Group%20%28Grenada%20sector%29%2C%20Grenada) |
 | — | [Mount Hartman Dove Sanctuary](sights/mount-hartman-dove-sanctuary.yaml) | Park / reserve | **—** | **Wildlife 9.3**, **Nature 8.9** | — / — / 8.6 / — / — | [12.012, -61.744](https://www.google.com/maps/search/?api=1&query=12.012,-61.744) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mount%20Hartman%20Dove%20Sanctuary%2C%20Grenada) |
