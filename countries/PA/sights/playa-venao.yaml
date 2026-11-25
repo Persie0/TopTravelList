@@ -1,0 +1,15 @@
+id: sight-pa-playa-venao
+name: "Playa Venao"
+location:
+  country_code: PA
+  latitude: 7.435
+  longitude: -80.195
+scores:
+  impact: 8.4
+  uniqueness: 8.1
+  significance: 6.2
+  experience: 8.9
+  depth: 7.5
+  categories:
+    adventure: 9.3
+    beaches: 8.8

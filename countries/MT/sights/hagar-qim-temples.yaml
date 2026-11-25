@@ -1,0 +1,16 @@
+id: sight-mt-hagar-qim-temples
+name: "Ħaġar Qim Temples"
+location:
+  country_code: MT
+  latitude: 35.8278278
+  longitude: 14.4417889
+scores:
+  impact: 8.8
+  uniqueness: 9.3
+  significance: 9.5
+  experience: 8.8
+  depth: 8.4
+  categories:
+    history: 9.6
+    architecture: 9.3
+    culture: 9.3

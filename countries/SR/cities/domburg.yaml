@@ -1,0 +1,15 @@
+id: city-sr-domburg
+name: "Domburg"
+location:
+  country_code: SR
+  latitude: 5.7000
+  longitude: -55.0833
+scores:
+  impact: 6.6
+  uniqueness: 6.8
+  significance: 6.4
+  experience: 7.3
+  depth: 6.2
+  categories:
+    relaxation: 7.6
+    food: 7.5

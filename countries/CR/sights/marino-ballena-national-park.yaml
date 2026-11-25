@@ -1,0 +1,16 @@
+id: sight-cr-marino-ballena-national-park
+name: "Marino Ballena National Park"
+location:
+  country_code: CR
+  latitude: 9.145
+  longitude: -83.745
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 8.7
+  experience: 8.9
+  depth: 8.2
+  categories:
+    nature: 9.2
+    wildlife: 9.1
+    photography: 9.2

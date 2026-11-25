@@ -1,0 +1,15 @@
+id: sight-gy-umana-yana
+name: "Umana Yana"
+location:
+  country_code: GY
+  latitude: 6.8225
+  longitude: -58.1635
+scores:
+  impact: 7.6
+  uniqueness: 8.5
+  significance: 8.0
+  experience: 7.6
+  depth: 6.5
+  categories:
+    architecture: 8.7
+    culture: 8.8

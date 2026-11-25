@@ -1,0 +1,15 @@
+id: city-gy-surama
+name: "Surama"
+location:
+  country_code: GY
+  latitude: 4.1333
+  longitude: -59.0667
+scores:
+  impact: 7.2
+  uniqueness: 8.1
+  significance: 7.5
+  experience: 7.9
+  depth: 6.3
+  categories:
+    culture: 8.5
+    photography: 7.9

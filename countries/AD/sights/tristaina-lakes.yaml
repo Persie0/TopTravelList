@@ -1,0 +1,16 @@
+id: sight-ad-tristaina-lakes
+name: "Tristaina Lakes"
+location:
+  country_code: AD
+  latitude: 42.6410
+  longitude: 1.4790
+scores:
+  impact: 8.7
+  uniqueness: 8.4
+  significance: 7.5
+  experience: 8.8
+  depth: 8.0
+  categories:
+    nature: 9.2
+    photography: 9.3
+    adventure: 8.8

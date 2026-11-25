@@ -1,0 +1,15 @@
+id: sight-xk-league-of-prizren-museum
+name: "League of Prizren Museum"
+location:
+  country_code: XK
+  latitude: 42.2129
+  longitude: 20.7437
+scores:
+  impact: 7.9
+  uniqueness: 8.5
+  significance: 9.1
+  experience: 8.3
+  depth: 7.7
+  categories:
+    history: 9.3
+    culture: 9.0

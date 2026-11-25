@@ -1,0 +1,16 @@
+id: sight-bz-xunantunich-archaeological-reserve
+name: "Xunantunich Archaeological Reserve"
+location:
+  country_code: BZ
+  latitude: 17.089
+  longitude: -89.141
+scores:
+  impact: 8.9
+  uniqueness: 8.7
+  significance: 9.0
+  experience: 8.9
+  depth: 8.4
+  categories:
+    architecture: 9.1
+    history: 9.2
+    photography: 9.0

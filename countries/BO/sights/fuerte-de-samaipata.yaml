@@ -1,0 +1,16 @@
+id: sight-bo-fuerte-de-samaipata
+name: "Fuerte de Samaipata"
+location:
+  country_code: BO
+  latitude: -18.1772
+  longitude: -63.8197
+scores:
+  impact: 8.9
+  uniqueness: 9.5
+  significance: 9.3
+  experience: 8.7
+  depth: 8.3
+  categories:
+    history: 9.4
+    architecture: 9.2
+    photography: 9.1

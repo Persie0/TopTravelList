@@ -1,0 +1,16 @@
+id: sight-rw-lake-burera
+name: "Lake Burera"
+location:
+  country_code: RW
+  latitude: -1.4120
+  longitude: 29.7570
+scores:
+  impact: 8.5
+  uniqueness: 8.2
+  significance: 7.1
+  experience: 8.4
+  depth: 7.5
+  categories:
+    nature: 8.8
+    photography: 9.0
+    relaxation: 8.3

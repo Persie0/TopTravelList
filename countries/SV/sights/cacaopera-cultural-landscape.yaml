@@ -1,0 +1,15 @@
+id: sight-sv-cacaopera-cultural-landscape
+name: "Cacaopera Cultural Landscape"
+location:
+  country_code: SV
+  latitude: 13.7680
+  longitude: -88.0830
+scores:
+  impact: null
+  uniqueness: 8.4
+  significance: 8.7
+  experience: null
+  depth: null
+  categories:
+    culture: 8.9
+    history: 8.8

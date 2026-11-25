@@ -1,0 +1,16 @@
+id: city-ad-sant-julia-de-loria
+name: "Sant Julià de Lòria"
+location:
+  country_code: AD
+  latitude: 42.4637
+  longitude: 1.4913
+scores:
+  impact: 6.9
+  uniqueness: 7.2
+  significance: 7.4
+  experience: 7.5
+  depth: 6.9
+  categories:
+    history: 8.1
+    culture: 7.9
+    architecture: 7.7

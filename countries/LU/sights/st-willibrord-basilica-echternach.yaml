@@ -1,0 +1,16 @@
+id: sight-lu-st-willibrord-basilica-echternach
+name: "St Willibrord Basilica Echternach"
+location:
+  country_code: LU
+  latitude: 49.8124
+  longitude: 6.4215
+scores:
+  impact: 8.0
+  uniqueness: 8.2
+  significance: 8.7
+  experience: 8.1
+  depth: 7.5
+  categories:
+    history: 9.0
+    architecture: 8.8
+    culture: 8.8

@@ -1,0 +1,14 @@
+id: city-bh-bani-jamra
+name: "Bani Jamra"
+location:
+  country_code: BH
+  latitude: 26.2230
+  longitude: 50.4660
+scores:
+  impact: 6.6
+  uniqueness: 7.3
+  significance: 7.1
+  experience: 7.0
+  depth: 6.0
+  categories:
+    culture: 8.0

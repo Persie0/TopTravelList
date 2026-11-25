@@ -1,0 +1,16 @@
+id: city-ad-soldeu
+name: "Soldeu"
+location:
+  country_code: AD
+  latitude: 42.5767
+  longitude: 1.6675
+scores:
+  impact: 7.5
+  uniqueness: 7.2
+  significance: 6.1
+  experience: 8.2
+  depth: 7.0
+  categories:
+    relaxation: 8.4
+    photography: 8.3
+    architecture: 7.7

@@ -1,0 +1,15 @@
+id: sight-uy-parque-rodo
+name: "Parque Rodo"
+location:
+  country_code: UY
+  latitude: -34.9135
+  longitude: -56.1680
+scores:
+  impact: 7.1
+  uniqueness: 6.8
+  significance: 6.7
+  experience: 7.8
+  depth: 7.5
+  categories:
+    relaxation: 8.1
+    family: 8.0

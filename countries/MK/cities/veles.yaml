@@ -1,0 +1,15 @@
+id: city-mk-veles
+name: "Veles"
+location:
+  country_code: MK
+  latitude: 41.7156
+  longitude: 21.7750
+scores:
+  impact: 7.2
+  uniqueness: 7.5
+  significance: 7.8
+  experience: 7.7
+  depth: 7.4
+  categories:
+    history: 8.3
+    culture: 8.1

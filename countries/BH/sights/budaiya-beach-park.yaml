@@ -1,0 +1,16 @@
+id: sight-bh-budaiya-beach-park
+name: "Budaiya Beach Park"
+location:
+  country_code: BH
+  latitude: 26.2190
+  longitude: 50.4480
+scores:
+  impact: 6.9
+  uniqueness: 6.4
+  significance: 5.4
+  experience: 7.6
+  depth: 6.5
+  categories:
+    beaches: 7.7
+    family: 7.7
+    relaxation: 7.9

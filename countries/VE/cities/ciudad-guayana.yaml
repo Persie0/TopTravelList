@@ -1,0 +1,15 @@
+id: city-ve-ciudad-guayana
+name: "Ciudad Guayana"
+location:
+  country_code: VE
+  latitude: 8.3500
+  longitude: -62.6500
+scores:
+  impact: 7.0
+  uniqueness: 7.4
+  significance: 7.2
+  experience: 7.3
+  depth: 7.3
+  categories:
+    history: 7.7
+    photography: 7.9

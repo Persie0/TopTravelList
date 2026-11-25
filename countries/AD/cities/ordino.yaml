@@ -1,0 +1,16 @@
+id: city-ad-ordino
+name: "Ordino"
+location:
+  country_code: AD
+  latitude: 42.5562
+  longitude: 1.5330
+scores:
+  impact: 7.8
+  uniqueness: 8.0
+  significance: 7.7
+  experience: 8.1
+  depth: 7.2
+  categories:
+    architecture: 8.6
+    culture: 8.4
+    photography: 8.6

@@ -1,0 +1,15 @@
+id: city-bo-yacuiba
+name: "Yacuiba"
+location:
+  country_code: BO
+  latitude: -22.0167
+  longitude: -63.6770
+scores:
+  impact: 6.1
+  uniqueness: 6.6
+  significance: 6.5
+  experience: 6.9
+  depth: 6.5
+  categories:
+    culture: 7.2
+    food: 7.3

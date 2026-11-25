@@ -1,0 +1,16 @@
+id: city-ee-viljandi
+name: "Viljandi"
+location:
+  country_code: EE
+  latitude: 58.363
+  longitude: 25.59
+scores:
+  impact: 7.9
+  uniqueness: 8.0
+  significance: 7.8
+  experience: 8.2
+  depth: 7.5
+  categories:
+    culture: 8.5
+    photography: 8.4
+    history: 8.1

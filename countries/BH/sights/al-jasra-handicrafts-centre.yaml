@@ -1,0 +1,14 @@
+id: sight-bh-al-jasra-handicrafts-centre
+name: "Al Jasra Handicrafts Centre"
+location:
+  country_code: BH
+  latitude: 26.1705
+  longitude: 50.4560
+scores:
+  impact: 7.2
+  uniqueness: 7.6
+  significance: 7.1
+  experience: 8.1
+  depth: 6.8
+  categories:
+    culture: 8.5

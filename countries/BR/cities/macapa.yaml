@@ -1,0 +1,16 @@
+id: city-br-macapa
+name: "Macapá"
+location:
+  country_code: BR
+  latitude: 0.0349
+  longitude: -51.0694
+scores:
+  impact: 6.7
+  uniqueness: 7.4
+  significance: 7.0
+  experience: 7.1
+  depth: 7.0
+  categories:
+    history: 7.8
+    culture: 7.9
+    photography: 7.7

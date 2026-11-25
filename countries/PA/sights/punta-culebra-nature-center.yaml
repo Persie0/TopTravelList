@@ -1,0 +1,16 @@
+id: sight-pa-punta-culebra-nature-center
+name: "Punta Culebra Nature Center"
+location:
+  country_code: PA
+  latitude: 8.912
+  longitude: -79.524
+scores:
+  impact: 7.3
+  uniqueness: 7.7
+  significance: 7.9
+  experience: 8.1
+  depth: 7.3
+  categories:
+    wildlife: 8.5
+    family: 8.4
+    nature: 8.2

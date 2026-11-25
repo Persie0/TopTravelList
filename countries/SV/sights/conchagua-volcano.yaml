@@ -1,0 +1,15 @@
+id: sight-sv-conchagua-volcano
+name: "Conchagua Volcano"
+location:
+  country_code: SV
+  latitude: 13.2750
+  longitude: -87.8460
+scores:
+  impact: 8.5
+  uniqueness: 8.2
+  significance: 7.6
+  experience: 8.5
+  depth: 7.7
+  categories:
+    nature: 8.6
+    photography: 9.0

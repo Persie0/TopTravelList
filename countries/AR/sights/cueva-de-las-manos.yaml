@@ -1,0 +1,16 @@
+id: sight-ar-cueva-de-las-manos
+name: "Cueva de las Manos"
+location:
+  country_code: AR
+  latitude: -47.1550
+  longitude: -70.6560
+scores:
+  impact: 8.7
+  uniqueness: 9.5
+  significance: 9.7
+  experience: 8.2
+  depth: 7.6
+  categories:
+    history: 9.8
+    culture: 9.5
+    photography: 9.1
