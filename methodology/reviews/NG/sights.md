@@ -43,7 +43,8 @@
 - Source references (2026-11-25; support identity, heritage, geography or historical visitor context; claim-level triangulation incomplete):
   - https://whc.unesco.org/en/list/938/
   - https://fmino.gov.ng/culture/tourism/
-- Missing facts: Normal permitted visitor experience or accessible scope insufficiently documented.
+  - https://whc.unesco.org/en/decisions/8885 — UNESCO 2025 decision documents flood damage to palace path and terraces, remediation, and need for further monitoring; https://visitnigeria.io/culture/sukur-cultural-landscape advertises a visitor circuit but does not establish present condition. Checked 2026-11-25.
+- Missing facts: surviving visitor-visible scope after damage and conservation work; retain null experience/depth.
 
 ### Worldwide peer comparisons
 - Mogao Caves (CN): 9.8/9.9/9.9/9.5/9.4; exceptional art and interpretation.
@@ -440,32 +441,34 @@
 ## sight-ng-cross-river-national-park — Cross River National Park — 2026-11-25
 
 - YAML: [source](../../../countries/NG/sights/cross-river-national-park.yaml)
-- Action: new
+- Action: rescore; original decision retained in [verification history](verification-2026-11-25.md)
 - Precise subject: Nigerian portion of CRIKOT only; not Cameroon parks.
 - Location check: 5.825, 8.84; representative point, exact entrance not verified.
-- Evidence status: **unassessed**
+- Evidence status: **source-linked-unverified**
 - Source references (2026-11-25; support identity, heritage, geography or historical visitor context; claim-level triangulation incomplete):
   - https://whc.unesco.org/en/tentativelists/6204/
   - https://nigeriahighcommissionkenya.org/tourism
-- Missing facts: Normal permitted visitor experience or accessible scope insufficiently documented.
+  - https://nigeriaparkservice.gov.ng/blog/2023/11/17/nigeria-national-parks-service-brochure/ — 2023 Park Service brochure describes named park activities, camps and trails. Accessed 2026-11-25.
+  - https://www.unesco.org/en/mab/okwangwo — northern sector forest and restricted-range fauna, not a visitor access guarantee. Accessed 2026-11-25.
+- Missing facts: Present operating conditions, route availability and reliable encounter rates.
 
 ### Worldwide peer comparisons
 - Okavango Delta (BW): 9.8/9.9/9.8/9.5/9.8; more diverse established wildlife experience.
 - Khao Yai (TH): 9.0/9.1/9.0/9.0/9.2; protected forest with developed routes.
 - Suncheon Bay (KR): 8.9/9.0/9.0/9.1/8.6; managed observation.
-- Sehlabathebe (LS): Regional protected landscape; score not checked.
+- Sehlabathebe (LS): 9.1/9.0/9.3/8.6/8.8; comparable mountain conservation landscape, different fauna and terrain.
 
 ### Scoring decisions
 - Impact: 8.8 — Rainforest scenery and habitat.
 - Uniqueness: 9.3 — Rare remaining regional rainforest ecosystem.
 - Significance: 9.5 — Globally important threatened primate habitat.
-- Experience: null — Permitted normal visitor circuit not established.
-- Depth: null — Accessible habitat scope unknown.
-- Applicable categories: nature 9.5, wildlife 9.5.
-- Overall: unranked.
-- High-score challenge: Significance, nature and wildlife 9.5 reflect globally important threatened primates and forest conservation; do not imply sighting probability or Okavango-level visitor variety.
+- Experience: 8.3 — Documented forest trails, camps and birdwatching; rare primate encounters not assured.
+- Depth: 8.7 — Two distinct forest sectors with trails and camps, below Khao Yai's established visitor breadth.
+- Applicable categories: nature 9.5, wildlife 8.8.
+- Overall: 89.80/100.
+- High-score challenge: Significance and nature 9.5 reflect globally threatened primate habitat; wildlife 8.8 reflects uncertain encounter rates rather than rarity alone.
 - Approved 10 registry: none.
-- Final decision: Partial assessment retained; no overall total.
+- Final decision: Provisional intrinsic historical experience rating; current access and safety are separate.
 - Verification still needed: exact site scope, GPS where provisional, access, remaining peer YAML and claim-level evidence.
 
 ## sight-ng-lake-chad-cultural-landscape — Lake Chad Cultural Landscape (Nigeria sector) — 2026-11-25
@@ -501,32 +504,34 @@
 ## sight-ng-gashaka-gumti-national-park — Gashaka Gumti National Park — 2026-11-25
 
 - YAML: [source](../../../countries/NG/sights/gashaka-gumti-national-park.yaml)
-- Action: new
+- Action: rescore; original decision retained in [verification history](verification-2026-11-25.md)
 - Precise subject: Tentative national park, not entire Mambilla Plateau; nomination coordinate.
 - Location check: 7.538, 11.611; representative point, exact entrance not verified.
-- Evidence status: **unassessed**
+- Evidence status: **source-linked-unverified**
 - Source references (2026-11-25; support identity, heritage, geography or historical visitor context; claim-level triangulation incomplete):
   - https://whc.unesco.org/en/tentativelists/6918/
   - https://nigeriahighcommissionkenya.org/tourism
-- Missing facts: Normal permitted visitor experience or accessible scope insufficiently documented.
+  - https://nigeriaparkservice.gov.ng/blog/2023/11/17/nigeria-national-parks-service-brochure/ — 2023 Park Service brochure describes named park activities, camps and trails. Accessed 2026-11-25.
+  - https://oer.tsuniversity.edu.ng/index.php/jjsms/article/view/1125 — 2025 study of park visitation records through 2023 confirms actual visits, not satisfaction. Accessed 2026-11-25.
+- Missing facts: Present operating conditions, route availability and reliable encounter rates.
 
 ### Worldwide peer comparisons
 - Okavango Delta (BW): 9.8/9.9/9.8/9.5/9.8; more diverse established wildlife experience.
 - Khao Yai (TH): 9.0/9.1/9.0/9.0/9.2; protected forest with developed routes.
 - Suncheon Bay (KR): 8.9/9.0/9.0/9.1/8.6; managed observation.
-- Sehlabathebe (LS): Regional protected landscape; score not checked.
+- Sehlabathebe (LS): 9.1/9.0/9.3/8.6/8.8; comparable mountain conservation landscape, different fauna and terrain.
 
 ### Scoring decisions
 - Impact: 9.0 — Mountain and forest mosaic.
 - Uniqueness: 9.2 — Rare regional ecological gradient.
 - Significance: 9.3 — Conservation of threatened wildlife.
-- Experience: null — Normal permitted visitor circuit unclear.
-- Depth: null — Accessible habitat range unknown.
-- Applicable categories: nature 9.4, wildlife 9.4.
-- Overall: unranked.
-- High-score challenge: Not applicable.
+- Experience: 8.7 — Documented mountain hikes, camping and wildlife watching; below Khao Yai's established interpretation.
+- Depth: 9.0 — Mountain, river, forest and historic sites within the park; exclude outside attractions.
+- Applicable categories: nature 9.4, wildlife 8.9.
+- Overall: 90.65/100.
+- High-score challenge: 90.65 reflects ecological distinctiveness and significance above Khao Yai, with lower experience and depth. No perfect field.
 - Approved 10 registry: none.
-- Final decision: Partial assessment retained; no overall total.
+- Final decision: Provisional intrinsic historical experience rating; current access and safety are separate.
 - Verification still needed: exact site scope, GPS where provisional, access, remaining peer YAML and claim-level evidence.
 
 ## sight-ng-olumo-rock — Olumo Rock — 2026-11-25
@@ -692,7 +697,7 @@
 - YAML: [source](../../../countries/NG/sights/gurara-falls.yaml)
 - Action: new
 - Precise subject: Seasonal cascade; provisional point.
-- Location check: 9.257, 7.1; representative point, exact entrance not verified.
+- Location check: 9.31535, 7.02124; https://mapcarta.com/33182456 — OSM way 299903036 mapped waterfall waterbody, corroborated by 2026 river study https://doi.org/10.1080/03949370.2026.2675995 (sampling station near 9°18′N, 7°01′E). Checked 2026-11-25. Previous point 9.257, 7.1; score unchanged.
 - Evidence status: **source-linked-unverified**
 - Source references (2026-11-25; support identity, heritage, geography or historical visitor context; claim-level triangulation incomplete):
   - https://fmino.gov.ng/culture/tourism/
@@ -755,7 +760,7 @@
 - YAML: [source](../../../countries/NG/sights/nike-art-gallery-lagos.yaml)
 - Action: new
 - Precise subject: Lagos gallery, not separate Abeokuta branch; provisional Lagos point; gallery website source concerns branch network.
-- Location check: 6.435, 3.475; representative point, exact entrance not verified.
+- Location check: 6.43152, 3.48189; https://mapcarta.com/W363752678 — OSM way 363752678 named gallery building; branch address corroborated by https://www.africancraft.com/niketours/contact.htm. Checked 2026-11-25. Previous point 6.435, 3.475; score unchanged.
 - Evidence status: **source-linked-unverified**
 - Source references (2026-11-25; support identity, heritage, geography or historical visitor context; claim-level triangulation incomplete):
   - https://visitnigeria.io/culture
