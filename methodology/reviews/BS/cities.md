@@ -17,8 +17,8 @@
 | Peer | Relative comparison |
 | --- | --- |
 | [Vienna (AT)](../../../countries/AT/cities/vienna.yaml) (92.30) | less monumental than Vienna |
-| [Bridgetown (BB)](../../../countries/BB/cities/bridgetown.yaml) (81.80) | more varied visitor institutions than Castries |
-| [Castries (LC)](../../../countries/LC/cities/castries.yaml) (78.65) | similar regional capital but distinct maritime history from Bridgetown |
+| [Bridgetown (BB)](../../../countries/BB/cities/bridgetown.yaml) (81.80) | similar regional capital but distinct maritime history from Bridgetown |
+| [Castries (LC)](../../../countries/LC/cities/castries.yaml) (78.65) | more varied visitor institutions than Castries |
 | [Belize City (BZ)](../../../countries/BZ/cities/belize-city.yaml) (75.65) | more sustained historic walking than Belize City |
 
 ### Scoring decisions
@@ -323,7 +323,7 @@
 - YAML: [source](../../../countries/BS/cities/matthew-town.yaml)
 - Action: new
 - Precise subject: Great Inagua settlement, not flamingo park or lighthouse.
-- Location check: 20.951, -73.673; UNESCO nomination reference point (DMS converted where applicable; not entrance).
+- Location check: 20.951, -73.673; approximate representative town-centre point, not an independently verified entrance coordinate. The UNESCO lighthouse nomination is not a source for this settlement coordinate.
 - Evidence status: **source-linked-unverified**
 - Source: [UNESCO tentative nomination](https://whc.unesco.org/en/tentativelists/6070), consulted 2026-11-25; reference for Great Inagua settlement, not flamingo park or lighthouse; exact claims and current access not fully independently verified.
 - Missing or uncertain facts: Independent second source, detailed visitor conditions and precise location; editorial rationale is not factual certification.
