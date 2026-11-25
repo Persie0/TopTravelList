@@ -1,0 +1,15 @@
+id: sight-gy-aishalton-petroglyphs
+name: "Aishalton Petroglyphs"
+location:
+  country_code: GY
+  latitude: 2.4830
+  longitude: -59.3000
+scores:
+  impact: 7.6
+  uniqueness: 8.5
+  significance: 8.5
+  experience: 7.6
+  depth: 6.8
+  categories:
+    history: 8.9
+    culture: 8.7
