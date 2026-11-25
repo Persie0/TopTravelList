@@ -1,0 +1,16 @@
+id: sight-rw-rubavu-public-beach
+name: "Rubavu Public Beach"
+location:
+  country_code: RW
+  latitude: -1.7030
+  longitude: 29.2540
+scores:
+  impact: 7.7
+  uniqueness: 7.1
+  significance: 5.8
+  experience: 8.2
+  depth: 7.0
+  categories:
+    relaxation: 8.4
+    beaches: 8.0
+    photography: 7.9
