@@ -647,3 +647,18 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Source context](https://benintourisme.bj/en/) (search or page reviewed 2026-11-25); identity or regional context only, not full independent factual verification.
 - Remaining gaps: Ordinary authorized visitor scope and current access unresolved.
+
+## Follow-up: sight-bj-royal-palaces-of-abomey-main-complex — 2026-11-25 (worldwide review)
+
+- [YAML](../../../countries/BJ/sights/royal-palaces-of-abomey-main-complex.yaml) · Action: fact-check-only · **source-linked-unverified**: limited source claims checked; not comprehensive fact-check. Original decision above retained.
+- Sources inspected 2026-11-25: [https://whc.unesco.org/en/list/323/](https://whc.unesco.org/en/list/323/), [https://whc.unesco.org/en/list/323/maps/](https://whc.unesco.org/en/list/323/maps/), [https://whc.unesco.org/en/decisions/8876](https://whc.unesco.org/en/decisions/8876)
+- Decision: UNESCO component map confirms the main palace ensemble, and its conservation decision describes phased rehabilitation. Significance 9.5, history 9.6 and culture 9.5 are plausible for the collective royal heritage, not a single courtyard. Existing visitor depth 8.5 remains provisional for normal interpreted precinct access; current works are not a promise of admission. No new category or perfect ten.
+- I/U/S/E/D: 8.4 / 9.1 / 9.5 / 8.3 / 8.5 → 8.4 / 9.1 / 9.5 / 8.3 / 8.5; total 87.90/100 → 87.90/100. Categories unchanged. No new 10 or country multiplier. Representative GPS retained.
+
+| Current worldwide peer | I/U/S/E/D | Overall | Scope comparison |
+| --- | --- | --- | --- |
+| [Schönbrunn Palace](../../../countries/AT/sights/schoenbrunn-palace.yaml) | 9.4 / 9.3 / 9.6 / 9.5 / 9.3 | 94.20/100 | Much broader preserved imperial visitor ensemble. |
+| [Grand Palace Bangkok](../../../countries/TH/sights/grand-palace.yaml) | 9.3 / 9.2 / 9.5 / 9.3 / 9.1 | 92.95/100 | Extensive intact royal architecture and ritual precinct. |
+| [Seri Menanti Old Palace](../../../countries/MY/sights/seri-menanti-old-palace.yaml) | 8.4 / 8.8 / 8.6 / 8.3 / 7.8 | 84.65/100 | Smaller royal palace is less broad but closer material heritage comparator. |
+| [Hohensalzburg Fortress](../../../countries/AT/sights/hohensalzburg-fortress.yaml) | 9.1 / 9.1 / 9.3 / 9.4 / 8.9 | 91.65/100 | Strong historic defensive and civic ensemble with more established visitor circuit. |
+

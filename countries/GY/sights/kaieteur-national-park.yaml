@@ -1,0 +1,17 @@
+id: sight-gy-kaieteur-national-park
+name: "Kaieteur National Park"
+location:
+  country_code: GY
+  latitude: 5.1833
+  longitude: -59.5167
+scores:
+  impact: 9.2
+  uniqueness: 9.2
+  significance: 9.3
+  experience: 8.8
+  depth: 8.8
+  categories:
+    nature: 9.4
+    wildlife: 9.1
+    photography: 9.4
+    adventure: 8.8

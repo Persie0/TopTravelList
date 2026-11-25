@@ -1,0 +1,15 @@
+id: sight-bh-oil-museum-and-first-oil-well
+name: "Oil Museum and First Oil Well"
+location:
+  country_code: BH
+  latitude: 26.0270
+  longitude: 50.5630
+scores:
+  impact: 7.2
+  uniqueness: 8.2
+  significance: 8.7
+  experience: 7.4
+  depth: 6.9
+  categories:
+    history: 8.9
+    culture: 8.0

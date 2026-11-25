@@ -1,0 +1,15 @@
+id: city-uy-tacuarembo
+name: "Tacuarembo"
+location:
+  country_code: UY
+  latitude: -31.7126
+  longitude: -55.9840
+scores:
+  impact: 6.9
+  uniqueness: 7.3
+  significance: 7.4
+  experience: 7.3
+  depth: 7.0
+  categories:
+    culture: 8.1
+    history: 7.7

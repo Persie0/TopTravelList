@@ -1,0 +1,16 @@
+id: sight-bz-turneffe-atoll-marine-reserve
+name: "Turneffe Atoll Marine Reserve"
+location:
+  country_code: BZ
+  latitude: 17.335
+  longitude: -87.875
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 9.2
+  experience: 9.0
+  depth: 9.0
+  categories:
+    nature: 9.3
+    wildlife: 9.2
+    adventure: 9.2

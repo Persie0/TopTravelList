@@ -2,7 +2,7 @@
 
 # Belize (BZ) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**18 ranked** · **0 unassessed** · **18 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,28 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (18)
 
-No cities, towns & villages have been assessed for **Belize** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Caye Caulker Village](cities/caye-caulker-village.yaml) | Village | **79.40** | **Relaxation 8.9**, **Food 8.1**, **Beaches 8.0** | 8.2 / 8.4 / 6.8 / 8.6 / 7.3 | [17.745, -88.024](https://www.google.com/maps/search/?api=1&query=17.745,-88.024) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Caye%20Caulker%20Village%2C%20Belize) |
+| 2 | [San Pedro](cities/san-pedro.yaml) | City / town | **78.50** | **Food 8.5**, **Relaxation 8.4**, **Nightlife 8.3**, Beaches 8.0 | 7.9 / 8.1 / 7.0 / 8.5 / 7.8 | [17.921, -87.961](https://www.google.com/maps/search/?api=1&query=17.921,-87.961) | [Google Maps](https://www.google.com/maps/search/?api=1&query=San%20Pedro%2C%20Belize) |
+| 3 | [Hopkins](cities/hopkins.yaml) | City / town | **78.35** | **Culture 8.7**, **Relaxation 8.4**, **Beaches 8.0** | 7.6 / 8.3 / 7.8 / 8.2 / 6.9 | [16.861, -88.285](https://www.google.com/maps/search/?api=1&query=16.861,-88.285) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hopkins%2C%20Belize) |
+| 4 | [Placencia Village](cities/placencia-village.yaml) | Village | **77.20** | **Relaxation 8.8**, **Beaches 8.5**, **Food 8.2** | 8.0 / 7.9 / 6.7 / 8.5 / 7.3 | [16.515, -88.368](https://www.google.com/maps/search/?api=1&query=16.515,-88.368) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Placencia%20Village%2C%20Belize) |
+| 5 | [San Ignacio](cities/san-ignacio.yaml) | City / town | **76.50** | **Food 8.1**, **Culture 8.0** | 7.5 / 7.8 / 7.3 / 8.2 / 7.6 | [17.1588, -89.0696](https://www.google.com/maps/search/?api=1&query=17.1588,-89.0696) | [Google Maps](https://www.google.com/maps/search/?api=1&query=San%20Ignacio%2C%20Belize) |
+| 6 | [Belize City](cities/belize-city.yaml) | City / town | **75.65** | **History 8.3**, **Culture 8.2**, **Food 8.0** | 7.2 / 7.6 / 8.0 / 7.5 / 7.8 | [17.5046, -88.1962](https://www.google.com/maps/search/?api=1&query=17.5046,-88.1962) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Belize%20City%2C%20Belize) |
+| 7 | [Dangriga](cities/dangriga.yaml) | City / town | **75.25** | **Culture 8.8**, **Food 7.8** | 6.9 / 8.1 / 8.1 / 7.4 / 7.0 | [16.97, -88.23](https://www.google.com/maps/search/?api=1&query=16.97,-88.23) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Dangriga%2C%20Belize) |
+| 8 | [Crooked Tree Village](cities/crooked-tree-village.yaml) | Village | **71.90** | **Culture 8.0**, **Relaxation 7.5** | 7.0 / 7.6 / 7.3 / 7.4 / 6.2 | [17.78, -88.541](https://www.google.com/maps/search/?api=1&query=17.78,-88.541) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Crooked%20Tree%20Village%2C%20Belize) |
+| 9 | [Punta Gorda](cities/punta-gorda.yaml) | City / town | **71.40** | **Culture 8.0**, **Food 7.7** | 6.7 / 7.6 / 7.2 / 7.4 / 6.8 | [16.098, -88.809](https://www.google.com/maps/search/?api=1&query=16.098,-88.809) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Punta%20Gorda%2C%20Belize) |
+| 10 | [Corozal Town](cities/corozal-town.yaml) | Town | **70.90** | **Relaxation 7.8**, **Culture 7.6** | 6.9 / 7.3 / 7.0 / 7.5 / 6.7 | [18.393, -88.388](https://www.google.com/maps/search/?api=1&query=18.393,-88.388) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Corozal%20Town%2C%20Belize) |
+| 11 | [San Antonio (Cayo)](cities/san-antonio-cayo.yaml) | City / town | **70.55** | **Culture 8.2** | 6.7 / 7.6 / 7.0 / 7.5 / 6.2 | [17.086, -89.025](https://www.google.com/maps/search/?api=1&query=17.086,-89.025) | [Google Maps](https://www.google.com/maps/search/?api=1&query=San%20Antonio%20%28Cayo%29%2C%20Belize) |
+| 12 | [Orange Walk Town](cities/orange-walk-town.yaml) | Town | **69.60** | **Food 8.1**, **Culture 7.6** | 6.5 / 7.2 / 7.1 / 7.4 / 6.8 | [18.075, -88.563](https://www.google.com/maps/search/?api=1&query=18.075,-88.563) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Orange%20Walk%20Town%2C%20Belize) |
+| 13 | [Benque Viejo del Carmen](cities/benque-viejo-del-carmen.yaml) | City / town | **68.25** | **Culture 7.6**, **History 7.3** | 6.5 / 7.1 / 7.0 / 7.0 / 6.5 | [17.075, -89.139](https://www.google.com/maps/search/?api=1&query=17.075,-89.139) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Benque%20Viejo%20del%20Carmen%2C%20Belize) |
+| 14 | [San Jose Succotz](cities/san-jose-succotz.yaml) | City / town | **67.55** | **Culture 7.7** | 6.4 / 7.1 / 6.9 / 7.2 / 6.0 | [17.091, -89.137](https://www.google.com/maps/search/?api=1&query=17.091,-89.137) | [Google Maps](https://www.google.com/maps/search/?api=1&query=San%20Jose%20Succotz%2C%20Belize) |
+| 15 | [Bullet Tree Falls](cities/bullet-tree-falls.yaml) | City / town | **66.40** | **Relaxation 7.5**, **Culture 7.0** | 6.7 / 6.9 / 6.1 / 7.3 / 5.9 | [17.183, -89.105](https://www.google.com/maps/search/?api=1&query=17.183,-89.105) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bullet%20Tree%20Falls%2C%20Belize) |
+| 16 | [Belmopan](cities/belmopan.yaml) | City / town | **66.05** | **Culture 7.2**, **History 7.2** | 6.1 / 6.7 / 7.2 / 6.6 / 6.7 | [17.251, -88.759](https://www.google.com/maps/search/?api=1&query=17.251,-88.759) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Belmopan%2C%20Belize) |
+| 17 | [Santa Elena](cities/santa-elena.yaml) | City / town | **64.55** | **Food 7.4**, **Culture 7.0** | 6.2 / 6.5 / 6.3 / 7.0 / 6.6 | [17.162, -89.055](https://www.google.com/maps/search/?api=1&query=17.162,-89.055) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Santa%20Elena%2C%20Belize) |
+| 18 | [Independence Village](cities/independence-village.yaml) | Village | **59.60** | **Food 6.7**, **Culture 6.5** | 5.7 / 6.0 / 6.0 / 6.4 / 5.9 | [16.533, -88.42](https://www.google.com/maps/search/?api=1&query=16.533,-88.42) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Independence%20Village%2C%20Belize) |
 
 ---
 

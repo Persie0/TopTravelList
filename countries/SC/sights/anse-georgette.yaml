@@ -1,0 +1,16 @@
+id: sight-sc-anse-georgette
+name: "Anse Georgette"
+location:
+  country_code: SC
+  latitude: -4.2930
+  longitude: 55.6780
+scores:
+  impact: 9.3
+  uniqueness: 9.1
+  significance: 6.8
+  experience: 8.5
+  depth: 7.0
+  categories:
+    beaches: 9.4
+    photography: 9.4
+    relaxation: 8.8

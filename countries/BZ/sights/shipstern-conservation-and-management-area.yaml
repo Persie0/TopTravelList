@@ -1,0 +1,15 @@
+id: sight-bz-shipstern-conservation-and-management-area
+name: "Shipstern Conservation and Management Area"
+location:
+  country_code: BZ
+  latitude: 18.290
+  longitude: -88.140
+scores:
+  impact: 7.9
+  uniqueness: 8.2
+  significance: 8.3
+  experience: 8.0
+  depth: 8.1
+  categories:
+    nature: 8.6
+    wildlife: 8.8
