@@ -2,7 +2,7 @@
 
 # Cabo Verde (CV) — Sights & attractions ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**45 ranked** · **2 unassessed** · **47 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,11 +10,64 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, or click its GPS coordinates to open **Google Maps**. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (45)
 
-No sights & attractions have been assessed for **Cabo Verde** yet.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps |
+| ---: | --- | --- | ---: | --- | --- | --- |
+| 1 | [Fogo Natural Park (Cha das Caldeiras)](sights/fogo-natural-park-cha-das-caldeiras.yaml) | Park / square | **91.75** | **Nature 9.5**, **Photography 9.5**, **Adventure 9.3** | 9.4 / 9.4 / 8.8 / 8.9 / 9.1 | [14.966, -24.36](https://www.google.com/maps/search/?api=1&query=14.966,-24.36) |
+| 2 | [Pico do Fogo](sights/pico-do-fogo.yaml) | Attraction | **91.10** | **Photography 9.6**, **Nature 9.5**, **Adventure 9.4** | 9.6 / 9.4 / 8.5 / 9.0 / 8.3 | [14.95, -24.34](https://www.google.com/maps/search/?api=1&query=14.95,-24.34) |
+| 3 | [Paul Valley](sights/paul-valley.yaml) | Valley / canyon | **87.40** | **Photography 9.4**, **Adventure 9.3**, **Nature 9.3** | 9.2 / 8.9 / 7.5 / 9.1 / 8.9 | [17.116, -25.041](https://www.google.com/maps/search/?api=1&query=17.116,-25.041) |
+| 4 | [Cruzinha-Ponta do Sol Coastal Trail](sights/cruzinha-ponta-do-sol-coastal-trail.yaml) | Trail / walk | **86.75** | **Adventure 9.4**, **Photography 9.4**, **Nature 9.1** | 9.3 / 9.0 / 7.2 / 9.1 / 8.3 | [17.191, -25.147](https://www.google.com/maps/search/?api=1&query=17.191,-25.147) |
+| 5 | [Cova-Paul Crater Trail](sights/cova-paul-crater-trail.yaml) | Trail / walk | **84.50** | **Adventure 9.4**, **Photography 9.4**, **Nature 9.0** | 9.1 / 8.7 / 7.0 / 9.1 / 7.8 | [17.096, -25.074](https://www.google.com/maps/search/?api=1&query=17.096,-25.074) |
+| 5 | [Santa Monica Beach](sights/santa-monica-beach.yaml) | Beach / bay | **84.50** | **Beaches 9.5**, **Photography 9.4**, **Relaxation 8.7** | 9.4 / 8.9 / 6.5 / 8.7 / 8.0 | [16.003, -22.908](https://www.google.com/maps/search/?api=1&query=16.003,-22.908) |
+| 5 | [Serra Malagueta Natural Park](sights/serra-malagueta-natural-park.yaml) | Park / square | **84.50** | **Nature 9.1**, **Photography 9.1**, **Adventure 9.0** | 8.7 / 8.6 / 7.9 / 8.6 / 8.2 | [15.184, -23.681](https://www.google.com/maps/search/?api=1&query=15.184,-23.681) |
+| 8 | [Cova Natural Park](sights/cova-natural-park.yaml) | Park / square | **83.80** | **Photography 9.1**, **Nature 9.0**, **Adventure 8.7** | 8.7 / 8.5 / 7.9 / 8.5 / 7.9 | [17.097, -25.076](https://www.google.com/maps/search/?api=1&query=17.097,-25.076) |
+| 9 | [Monte Gordo Natural Park](sights/monte-gordo-natural-park.yaml) | Park / square | **83.70** | **Nature 9.0**, **Photography 8.9**, **Adventure 8.8** | 8.5 / 8.5 / 8.1 / 8.5 / 8.0 | [16.614, -24.356](https://www.google.com/maps/search/?api=1&query=16.614,-24.356) |
+| 10 | [Ribeira da Torre Valley](sights/ribeira-da-torre-valley.yaml) | Valley / canyon | **83.65** | **Photography 9.3**, **Nature 9.1**, **Adventure 9.0** | 8.9 / 8.6 / 7.2 / 8.7 / 8.0 | [17.147, -25.068](https://www.google.com/maps/search/?api=1&query=17.147,-25.068) |
+| 11 | [Pedra de Lume Salt Crater](sights/pedra-de-lume-salt-crater.yaml) | Attraction | **83.55** | **Photography 9.1**, **Nature 8.8**, **History 8.1** | 8.5 / 9.1 / 7.7 / 8.4 / 7.3 | [16.766, -22.892](https://www.google.com/maps/search/?api=1&query=16.766,-22.892) |
+| 12 | [Morro de Areia Nature Reserve](sights/morro-de-areia-nature-reserve.yaml) | Park / reserve | **82.90** | **Photography 9.2**, **Nature 9.1** | 8.7 / 8.5 / 7.7 / 8.3 / 7.7 | [16.077, -22.936](https://www.google.com/maps/search/?api=1&query=16.077,-22.936) |
+| 13 | [Fortaleza Real de Sao Filipe](sights/fortaleza-real-de-sao-filipe.yaml) | Attraction | **82.50** | **History 9.3**, **Photography 8.6**, **Architecture 8.4** | 8.1 / 8.4 / 9.0 / 8.0 / 7.2 | [14.916306, -23.602556](https://www.google.com/maps/search/?api=1&query=14.916306,-23.602556) |
+| 14 | [Santa Maria Beach](sights/santa-maria-beach.yaml) | Beach / bay | **81.70** | **Beaches 9.3**, **Relaxation 9.2**, **Photography 8.9**, Adventure 8.8 | 9.0 / 8.2 / 6.3 / 9.0 / 8.1 | [16.596, -22.909](https://www.google.com/maps/search/?api=1&query=16.596,-22.909) |
+| 15 | [Tarrafal Camp Museum](sights/tarrafal-camp-museum.yaml) | Museum / heritage | **81.50** | **History 9.4**, **Culture 8.8** | 7.4 / 8.6 / 9.1 / 8.0 / 7.6 | [15.27, -23.744](https://www.google.com/maps/search/?api=1&query=15.27,-23.744) |
+| 16 | [Deserto de Viana](sights/deserto-de-viana.yaml) | Desert | **81.30** | **Photography 9.3**, **Nature 8.9**, **Adventure 8.5** | 8.8 / 8.6 / 6.8 / 8.4 / 7.2 | [16.131, -22.861](https://www.google.com/maps/search/?api=1&query=16.131,-22.861) |
+| 17 | [Tope de Coroa](sights/tope-de-coroa.yaml) | Attraction | **80.80** | **Photography 9.0**, **Adventure 8.9**, **Nature 8.8** | 8.5 / 8.4 / 7.3 / 8.2 / 7.4 | [16.936, -25.299](https://www.google.com/maps/search/?api=1&query=16.936,-25.299) |
+| 18 | [Norte do Maio Natural Park](sights/norte-do-maio-natural-park.yaml) | Park / square | **80.65** | **Nature 8.9**, **Photography 8.5**, **Wildlife 8.5** | 8.2 / 8.2 / 8.0 / 7.9 / 7.7 | [15.297, -23.158](https://www.google.com/maps/search/?api=1&query=15.297,-23.158) |
+| 19 | [Pico das Fontainhas (Brava)](sights/pico-das-fontainhas-brava.yaml) | Attraction | **80.45** | **Photography 9.0**, **Adventure 8.8**, **Nature 8.8** | 8.6 / 8.3 / 7.0 / 8.4 / 7.3 | [14.856, -24.708](https://www.google.com/maps/search/?api=1&query=14.856,-24.708) |
+| 20 | [Carbeirinho](sights/carbeirinho.yaml) | Attraction | **80.35** | **Photography 9.3**, **Nature 8.9** | 8.7 / 8.8 / 6.8 / 8.1 / 6.5 | [16.586, -24.373](https://www.google.com/maps/search/?api=1&query=16.586,-24.373) |
+| 21 | [Praia de Chaves](sights/praia-de-chaves.yaml) | Attraction | **79.90** | **Beaches 9.2**, **Photography 9.0**, **Relaxation 8.8** | 8.9 / 8.3 / 6.0 / 8.5 / 7.7 | [16.108, -22.914](https://www.google.com/maps/search/?api=1&query=16.108,-22.914) |
+| 22 | [Monte Verde Natural Park](sights/monte-verde-natural-park.yaml) | Park / square | **79.35** | **Photography 9.0**, **Nature 8.6**, **Adventure 8.3** | 8.3 / 8.0 / 7.4 / 8.1 / 7.5 | [16.874, -24.945](https://www.google.com/maps/search/?api=1&query=16.874,-24.945) |
+| 23 | [Praia Historic Centre (Plato)](sights/praia-historic-centre-plato.yaml) | Historic settlement | **79.30** | **History 8.6**, **Culture 8.5**, **Architecture 8.4** | 7.7 / 7.9 / 8.3 / 8.1 / 7.7 | [14.920833, -23.525](https://www.google.com/maps/search/?api=1&query=14.920833,-23.525) |
+| 24 | [Praia de Varandinha](sights/praia-de-varandinha.yaml) | Attraction | **79.00** | **Photography 9.3**, **Beaches 9.0** | 8.8 / 8.5 / 6.2 / 8.1 / 6.8 | [16.043, -22.956](https://www.google.com/maps/search/?api=1&query=16.043,-22.956) |
+| 25 | [Salinas de Porto Ingles](sights/salinas-de-porto-ingles.yaml) | Attraction | **78.35** | **Photography 8.6**, **Nature 8.4**, **History 8.3** | 7.8 / 8.3 / 7.9 / 7.8 / 6.7 | [15.145, -23.219](https://www.google.com/maps/search/?api=1&query=15.145,-23.219) |
+| 26 | [Monte Tchota (Rui Vaz)](sights/monte-tchota-rui-vaz.yaml) | Attraction | **78.25** | **Photography 8.7**, **Adventure 8.6**, **Nature 8.5** | 8.3 / 7.9 / 6.9 / 8.2 / 7.5 | [15.026, -23.618](https://www.google.com/maps/search/?api=1&query=15.026,-23.618) |
+| 27 | [Buracona (Blue Eye)](sights/buracona-blue-eye.yaml) | Attraction | **78.15** | **Photography 9.1**, **Nature 8.6** | 8.5 / 8.7 / 6.4 / 8.0 / 6.1 | [16.789, -22.982](https://www.google.com/maps/search/?api=1&query=16.789,-22.982) |
+| 28 | [Tarrafal Beach (Santiago)](sights/tarrafal-beach-santiago.yaml) | Beach / bay | **78.10** | **Beaches 8.9**, **Relaxation 8.8**, **Photography 8.7** | 8.5 / 8.0 / 6.1 / 8.6 / 7.5 | [15.279, -23.754](https://www.google.com/maps/search/?api=1&query=15.279,-23.754) |
+| 29 | [Praia de Bitchirotcha](sights/praia-de-bitchirotcha.yaml) | Attraction | **77.25** | **Beaches 8.9**, **Relaxation 8.8** | 8.5 / 8.0 / 5.9 / 8.5 / 7.2 | [15.136, -23.212](https://www.google.com/maps/search/?api=1&query=15.136,-23.212) |
+| 30 | [Sao Pedro Beach](sights/sao-pedro-beach.yaml) | Beach / bay | **77.00** | **Photography 8.8**, **Beaches 8.7**, **Adventure 8.4** | 8.5 / 8.0 / 6.0 / 8.2 / 7.2 | [16.832, -25.059](https://www.google.com/maps/search/?api=1&query=16.832,-25.059) |
+| 31 | [Rua Banana](sights/rua-banana.yaml) | Attraction | **76.55** | **History 8.9**, **Culture 8.5**, **Architecture 8.4** | 7.3 / 8.0 / 8.5 / 7.9 / 5.8 | [14.916, -23.605](https://www.google.com/maps/search/?api=1&query=14.916,-23.605) |
+| 32 | [Se Cathedral Ruins (Cidade Velha)](sights/se-cathedral-ruins-cidade-velha.yaml) | Religious site | **76.45** | **History 9.0**, **Architecture 8.0** | 7.2 / 8.1 / 8.6 / 7.6 / 6.0 | [14.915, -23.603](https://www.google.com/maps/search/?api=1&query=14.915,-23.603) |
+| 33 | [Faja de Agua Natural Pools](sights/faja-de-agua-natural-pools.yaml) | Attraction | **76.35** | **Photography 8.8**, **Nature 8.5**, **Relaxation 8.3** | 8.4 / 8.2 / 6.0 / 8.1 / 6.5 | [14.891, -24.726](https://www.google.com/maps/search/?api=1&query=14.891,-24.726) |
+| 34 | [Tarrafal de Monte Trigo Beach](sights/tarrafal-de-monte-trigo-beach.yaml) | Beach / bay | **76.30** | **Photography 8.7**, **Beaches 8.6**, **Relaxation 8.4** | 8.3 / 8.1 / 6.2 / 8.1 / 6.6 | [16.955, -25.317](https://www.google.com/maps/search/?api=1&query=16.955,-25.317) |
+| 35 | [Praia de Baixo Rocha](sights/praia-de-baixo-rocha.yaml) | Attraction | **76.20** | **Beaches 8.8**, **Photography 8.8** | 8.5 / 8.2 / 5.8 / 8.0 / 6.6 | [16.541, -24.326](https://www.google.com/maps/search/?api=1&query=16.541,-24.326) |
+| 36 | [Casa da Morna](sights/casa-da-morna.yaml) | Attraction | **76.00** | **Culture 9.0**, **History 8.4** | 6.9 / 8.3 / 8.1 / 7.9 / 6.5 | [16.887, -24.989](https://www.google.com/maps/search/?api=1&query=16.887,-24.989) |
+| 36 | [Murdeira Bay](sights/murdeira-bay.yaml) | Beach / bay | **76.00** | **Nature 8.4**, **Photography 8.4**, **Adventure 8.3** | 8.0 / 7.7 / 6.7 / 8.1 / 7.2 | [16.684, -22.937](https://www.google.com/maps/search/?api=1&query=16.684,-22.937) |
+| 38 | [Cabo Santa Maria Shipwreck](sights/cabo-santa-maria-shipwreck.yaml) | Attraction | **75.50** | **Photography 8.8**, **History 7.5** | 8.1 / 8.0 / 6.9 / 7.6 / 6.0 | [16.213, -22.869](https://www.google.com/maps/search/?api=1&query=16.213,-22.869) |
+| 39 | [Laginha Beach](sights/laginha-beach.yaml) | Beach / bay | **75.45** | **Relaxation 8.7**, **Beaches 8.6**, **Photography 8.4** | 8.2 / 7.5 / 6.0 / 8.6 / 7.2 | [16.898, -24.993](https://www.google.com/maps/search/?api=1&query=16.898,-24.993) |
+| 40 | [Nossa Senhora do Rosario Church](sights/nossa-senhora-do-rosario-church.yaml) | Religious site | **75.35** | **History 9.2**, **Culture 8.5**, **Architecture 8.3** | 6.9 / 8.0 / 8.8 / 7.5 / 5.8 | [14.916, -23.6053](https://www.google.com/maps/search/?api=1&query=14.916,-23.6053) |
+| 41 | [Kite Beach (Sal)](sights/kite-beach-sal.yaml) | Beach / bay | **75.25** | **Adventure 9.1**, **Beaches 8.4**, **Photography 8.3** | 8.1 / 7.7 / 5.8 / 8.6 / 7.2 | [16.619, -22.886](https://www.google.com/maps/search/?api=1&query=16.619,-22.886) |
+| 42 | [Farol de Dona Amelia](sights/farol-de-dona-amelia.yaml) | Attraction | **74.85** | **Photography 8.6**, **Adventure 8.0**, **History 7.5** | 7.8 / 7.7 / 7.0 / 8.0 / 6.2 | [16.829, -25.075](https://www.google.com/maps/search/?api=1&query=16.829,-25.075) |
+| 43 | [Sucupira Market](sights/sucupira-market.yaml) | Market | **73.60** | **Culture 8.3**, **Food 8.1** | 7.2 / 7.6 / 6.7 / 8.2 / 7.3 | [14.925, -23.512](https://www.google.com/maps/search/?api=1&query=14.925,-23.512) |
+| 44 | [Pelourinho (Cidade Velha)](sights/pelourinho-cidade-velha.yaml) | Attraction | **71.40** | **History 9.2**, **Culture 8.6** | 6.1 / 7.8 / 8.9 / 7.2 / 5.0 | [14.914, -23.604](https://www.google.com/maps/search/?api=1&query=14.914,-23.604) |
+| 45 | [Quebra Canela Beach](sights/quebra-canela-beach.yaml) | Beach / bay | **70.30** | **Relaxation 8.2**, **Beaches 8.0** | 7.6 / 6.8 / 5.7 / 8.2 / 6.8 | [14.899, -23.514](https://www.google.com/maps/search/?api=1&query=14.899,-23.514) |
 
-Add destination YAML files in [sights/](sights/), then regenerate the overview files.
+## Not yet fully assessed (2)
+
+These destinations have no rank until all five core scores are assessed.
+
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps |
+| ---: | --- | --- | ---: | --- | --- | --- |
+| — | [Ilheus do Rombo](sights/ilheus-do-rombo.yaml) | Attraction | **—** | **Wildlife 8.7**, **Nature 8.5** | — / — / 8.1 / — / — | [14.967, -24.653](https://www.google.com/maps/search/?api=1&query=14.967,-24.653) |
+| — | [Santa Luzia Nature Reserve](sights/santa-luzia-nature-reserve.yaml) | Park / reserve | **—** | **Wildlife 9.2**, **Nature 9.0** | — / — / 8.7 / — / — | [16.765, -24.745](https://www.google.com/maps/search/?api=1&query=16.765,-24.745) |
 
 ---
 
