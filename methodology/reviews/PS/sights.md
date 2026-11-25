@@ -14,9 +14,9 @@
 - Missing facts: Independent material facts, GPS and permitted visitor scope outstanding.
 
 ### Worldwide peers
-- [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 99.70/100; I/U/S/E/D 10.0/10.0/10.0/9.8/10.0. impact comparison: Excavated mound and early settlement remains; subject 8.1 versus peer 10.0. 
-- [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) — 95.75/100; I/U/S/E/D 9.6/9.5/9.8/9.4/9.5. uniqueness comparison: rare evidence of very early permanent settlement; subject 9.2 versus peer 9.5. 
-- [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) — 93.70/100; I/U/S/E/D 9.3/9.5/9.3/9.5/9.2. significance comparison: major Neolithic archaeological importance; subject 9.4 versus peer 9.3. 
+- [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 99.70/100; I/U/S/E/D 10.0/10.0/10.0/9.8/10.0. impact comparison: Excavated mound and early settlement remains; subject 8.1 versus peer 10.0.
+- [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) — 95.75/100; I/U/S/E/D 9.6/9.5/9.8/9.4/9.5. uniqueness comparison: rare evidence of very early permanent settlement; subject 9.2 versus peer 9.5.
+- [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) — 93.70/100; I/U/S/E/D 9.3/9.5/9.3/9.5/9.2. significance comparison: major Neolithic archaeological importance; subject 9.4 versus peer 9.3.
 - [Carnuntum Archaeological Park (AT)](../../../countries/AT/sights/carnuntum-archaeological-park.yaml) — 87.95/100; I/U/S/E/D 8.7/8.9/9.0/8.8/8.4. experience comparison: documented site visit and interpretation; subject 8.2 versus peer 8.8. Scope: bounded visible excavation rather than full buried history.
 
 ### Scoring decisions
@@ -46,9 +46,9 @@
 - Missing facts: Independent material facts, GPS and permitted visitor scope outstanding.
 
 ### Worldwide peers
-- [Wat Phra Kaew (TH)](../../../countries/TH/sights/wat-phra-kaew.yaml) — 94.80/100; I/U/S/E/D 9.4/9.6/9.8/9.4/8.9. impact comparison: Ancient basilica and historic pilgrimage approach; subject 9.0 versus peer 9.4. 
-- [Bulguksa Temple (KR)](../../../countries/KR/sights/bulguksa-temple.yaml) — 93.15/100; I/U/S/E/D 9.2/9.4/9.6/9.3/8.9. uniqueness comparison: distinct living Christian sacred ensemble; subject 9.2 versus peer 9.4. 
-- [Melk Abbey (AT)](../../../countries/AT/sights/melk-abbey.yaml) — 91.10/100; I/U/S/E/D 9.0/9.2/9.3/9.2/8.7. significance comparison: exceptional international religious heritage; subject 9.4 versus peer 9.3. 
+- [Wat Phra Kaew (TH)](../../../countries/TH/sights/wat-phra-kaew.yaml) — 94.80/100; I/U/S/E/D 9.4/9.6/9.8/9.4/8.9. impact comparison: Ancient basilica and historic pilgrimage approach; subject 9.0 versus peer 9.4.
+- [Bulguksa Temple (KR)](../../../countries/KR/sights/bulguksa-temple.yaml) — 93.15/100; I/U/S/E/D 9.2/9.4/9.6/9.3/8.9. uniqueness comparison: distinct living Christian sacred ensemble; subject 9.2 versus peer 9.4.
+- [Melk Abbey (AT)](../../../countries/AT/sights/melk-abbey.yaml) — 91.10/100; I/U/S/E/D 9.0/9.2/9.3/9.2/8.7. significance comparison: exceptional international religious heritage; subject 9.4 versus peer 9.3.
 - [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 99.70/100; I/U/S/E/D 10.0/10.0/10.0/9.8/10.0. experience comparison: documented respectful church and street visits; subject 8.7 versus peer 9.8. Scope: route and accessible complex, not all city.
 
 ### Scoring decisions
@@ -78,9 +78,9 @@
 - Missing facts: Normal permitted visitor scope and accessible condition unresolved.
 
 ### Worldwide peers
-- [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 99.70/100; I/U/S/E/D 10.0/10.0/10.0/9.8/10.0. impact comparison: Dense limestone market lanes and sacred architecture; subject 8.5 versus peer 10.0. 
-- [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) — 95.75/100; I/U/S/E/D 9.6/9.5/9.8/9.4/9.5. uniqueness comparison: distinctive Mamluk and Ottoman urban fabric; subject 8.9 versus peer 9.5. 
-- [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) — 93.70/100; I/U/S/E/D 9.3/9.5/9.3/9.5/9.2. significance comparison: major religious and urban history; subject 9.2 versus peer 9.3. 
+- [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 99.70/100; I/U/S/E/D 10.0/10.0/10.0/9.8/10.0. impact comparison: Dense limestone market lanes and sacred architecture; subject 8.5 versus peer 10.0.
+- [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) — 95.75/100; I/U/S/E/D 9.6/9.5/9.8/9.4/9.5. uniqueness comparison: distinctive Mamluk and Ottoman urban fabric; subject 8.9 versus peer 9.5.
+- [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) — 93.70/100; I/U/S/E/D 9.3/9.5/9.3/9.5/9.2. significance comparison: major religious and urban history; subject 9.2 versus peer 9.3.
 - [Carnuntum Archaeological Park (AT)](../../../countries/AT/sights/carnuntum-archaeological-park.yaml) — 87.95/100; I/U/S/E/D 8.7/8.9/9.0/8.8/8.4. experience comparison: access across precincts remains unresolved; subject field unknown. Scope: no unrestricted old-town circuit assumed.
 
 ### Scoring decisions
@@ -110,9 +110,9 @@
 - Missing facts: Normal permitted visitor scope and accessible condition unresolved.
 
 ### Worldwide peers
-- [Ha Long Bay (VN)](../../../countries/VN/sights/ha-long-bay.yaml) — 97.85/100; I/U/S/E/D 9.8/9.9/9.7/9.8/9.6. impact comparison: Stone agricultural terraces and springs; subject 8.7 versus peer 9.8. 
-- [Hohe Tauern National Park (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) — 92.60/100; I/U/S/E/D 9.4/9.1/9.0/9.5/9.4. uniqueness comparison: distinctive living irrigation landscape; subject 8.9 versus peer 9.1. 
-- [Khao Sok National Park (TH)](../../../countries/TH/sights/khao-sok-national-park.yaml) — 93.30/100; I/U/S/E/D 9.4/9.4/9.1/9.4/9.3. significance comparison: important farming heritage; subject 8.8 versus peer 9.1. 
+- [Ha Long Bay (VN)](../../../countries/VN/sights/ha-long-bay.yaml) — 97.85/100; I/U/S/E/D 9.8/9.9/9.7/9.8/9.6. impact comparison: Stone agricultural terraces and springs; subject 8.7 versus peer 9.8.
+- [Hohe Tauern National Park (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) — 92.60/100; I/U/S/E/D 9.4/9.1/9.0/9.5/9.4. uniqueness comparison: distinctive living irrigation landscape; subject 8.9 versus peer 9.1.
+- [Khao Sok National Park (TH)](../../../countries/TH/sights/khao-sok-national-park.yaml) — 93.30/100; I/U/S/E/D 9.4/9.4/9.1/9.4/9.3. significance comparison: important farming heritage; subject 8.8 versus peer 9.1.
 - [Gesäuse National Park (AT)](../../../countries/AT/sights/gesaeuse-national-park.yaml) — 88.95/100; I/U/S/E/D 8.9/8.8/8.7/9.1/9.2. experience comparison: ordinary permitted trails and agricultural access not verified; subject field unknown. Scope: protected landscape not unrestricted private fields.
 
 ### Scoring decisions
@@ -142,9 +142,9 @@
 - Missing facts: Normal permitted visitor scope and accessible condition unresolved.
 
 ### Worldwide peers
-- [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 99.70/100; I/U/S/E/D 10.0/10.0/10.0/9.8/10.0. impact comparison: Current visible conservation condition unknown; subject field unknown. 
-- [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) — 95.75/100; I/U/S/E/D 9.6/9.5/9.8/9.4/9.5. uniqueness comparison: early monastic archaeological ensemble; subject 8.8 versus peer 9.5. 
-- [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) — 93.70/100; I/U/S/E/D 9.3/9.5/9.3/9.5/9.2. significance comparison: important eastern Mediterranean Christian heritage; subject 9.1 versus peer 9.3. 
+- [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 99.70/100; I/U/S/E/D 10.0/10.0/10.0/9.8/10.0. impact comparison: Current visible conservation condition unknown; subject field unknown.
+- [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) — 95.75/100; I/U/S/E/D 9.6/9.5/9.8/9.4/9.5. uniqueness comparison: early monastic archaeological ensemble; subject 8.8 versus peer 9.5.
+- [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) — 93.70/100; I/U/S/E/D 9.3/9.5/9.3/9.5/9.2. significance comparison: important eastern Mediterranean Christian heritage; subject 9.1 versus peer 9.3.
 - [Carnuntum Archaeological Park (AT)](../../../countries/AT/sights/carnuntum-archaeological-park.yaml) — 87.95/100; I/U/S/E/D 8.7/8.9/9.0/8.8/8.4. experience comparison: Gaza visitor access not established; subject field unknown. Scope: no visitor circuit assumed.
 
 ### Scoring decisions
@@ -174,9 +174,9 @@
 - Missing facts: Normal permitted visitor scope and accessible condition unresolved.
 
 ### Worldwide peers
-- [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 99.70/100; I/U/S/E/D 10.0/10.0/10.0/9.8/10.0. impact comparison: Ancient acropolis and classical ruins; subject 8.3 versus peer 10.0. 
-- [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) — 95.75/100; I/U/S/E/D 9.6/9.5/9.8/9.4/9.5. uniqueness comparison: layered Iron Age and Roman settlement; subject 8.9 versus peer 9.5. 
-- [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) — 93.70/100; I/U/S/E/D 9.3/9.5/9.3/9.5/9.2. significance comparison: important regional urban archaeology; subject 9.2 versus peer 9.3. 
+- [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 99.70/100; I/U/S/E/D 10.0/10.0/10.0/9.8/10.0. impact comparison: Ancient acropolis and classical ruins; subject 8.3 versus peer 10.0.
+- [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) — 95.75/100; I/U/S/E/D 9.6/9.5/9.8/9.4/9.5. uniqueness comparison: layered Iron Age and Roman settlement; subject 8.9 versus peer 9.5.
+- [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) — 93.70/100; I/U/S/E/D 9.3/9.5/9.3/9.5/9.2. significance comparison: important regional urban archaeology; subject 9.2 versus peer 9.3.
 - [Carnuntum Archaeological Park (AT)](../../../countries/AT/sights/carnuntum-archaeological-park.yaml) — 87.95/100; I/U/S/E/D 8.7/8.9/9.0/8.8/8.4. experience comparison: newly inscribed but current permitted circuit unresolved; subject field unknown. Scope: historic components not entire village.
 
 ### Scoring decisions
@@ -206,9 +206,9 @@
 - Missing facts: Normal permitted visitor scope and accessible condition unresolved.
 
 ### Worldwide peers
-- [Wat Phra Kaew (TH)](../../../countries/TH/sights/wat-phra-kaew.yaml) — 94.80/100; I/U/S/E/D 9.4/9.6/9.8/9.4/8.9. impact comparison: Hilltop archaeology and living sacred community; subject 8.4 versus peer 9.4. 
-- [Bulguksa Temple (KR)](../../../countries/KR/sights/bulguksa-temple.yaml) — 93.15/100; I/U/S/E/D 9.2/9.4/9.6/9.3/8.9. uniqueness comparison: distinct Samaritan religious tradition; subject 9.0 versus peer 9.4. 
-- [Melk Abbey (AT)](../../../countries/AT/sights/melk-abbey.yaml) — 91.10/100; I/U/S/E/D 9.0/9.2/9.3/9.2/8.7. significance comparison: major regional religious heritage; subject 9.1 versus peer 9.3. 
+- [Wat Phra Kaew (TH)](../../../countries/TH/sights/wat-phra-kaew.yaml) — 94.80/100; I/U/S/E/D 9.4/9.6/9.8/9.4/8.9. impact comparison: Hilltop archaeology and living sacred community; subject 8.4 versus peer 9.4.
+- [Bulguksa Temple (KR)](../../../countries/KR/sights/bulguksa-temple.yaml) — 93.15/100; I/U/S/E/D 9.2/9.4/9.6/9.3/8.9. uniqueness comparison: distinct Samaritan religious tradition; subject 9.0 versus peer 9.4.
+- [Melk Abbey (AT)](../../../countries/AT/sights/melk-abbey.yaml) — 91.10/100; I/U/S/E/D 9.0/9.2/9.3/9.2/8.7. significance comparison: major regional religious heritage; subject 9.1 versus peer 9.3.
 - [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 99.70/100; I/U/S/E/D 10.0/10.0/10.0/9.8/10.0. experience comparison: ordinary permitted visit and community access uncertain; subject field unknown. Scope: private religious spaces excluded.
 
 ### Scoring decisions
@@ -238,9 +238,9 @@
 - Missing facts: Independent material facts, GPS and permitted visitor scope outstanding.
 
 ### Worldwide peers
-- [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 99.70/100; I/U/S/E/D 10.0/10.0/10.0/9.8/10.0. impact comparison: Desert ruins and cliff caves; subject 8.4 versus peer 10.0. 
-- [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) — 95.75/100; I/U/S/E/D 9.6/9.5/9.8/9.4/9.5. uniqueness comparison: rare Dead Sea Scrolls archaeological context; subject 9.1 versus peer 9.5. 
-- [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) — 93.70/100; I/U/S/E/D 9.3/9.5/9.3/9.5/9.2. significance comparison: exceptional textual heritage; subject 9.4 versus peer 9.3. 
+- [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 99.70/100; I/U/S/E/D 10.0/10.0/10.0/9.8/10.0. impact comparison: Desert ruins and cliff caves; subject 8.4 versus peer 10.0.
+- [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) — 95.75/100; I/U/S/E/D 9.6/9.5/9.8/9.4/9.5. uniqueness comparison: rare Dead Sea Scrolls archaeological context; subject 9.1 versus peer 9.5.
+- [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) — 93.70/100; I/U/S/E/D 9.3/9.5/9.3/9.5/9.2. significance comparison: exceptional textual heritage; subject 9.4 versus peer 9.3.
 - [Carnuntum Archaeological Park (AT)](../../../countries/AT/sights/carnuntum-archaeological-park.yaml) — 87.95/100; I/U/S/E/D 8.7/8.9/9.0/8.8/8.4. experience comparison: managed archaeological park rather than all caves; subject 8.3 versus peer 8.8. Scope: bounded ruins and views, no assumed cave entry.
 
 ### Scoring decisions
@@ -270,9 +270,9 @@
 - Missing facts: Normal permitted visitor scope and accessible condition unresolved.
 
 ### Worldwide peers
-- [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 99.70/100; I/U/S/E/D 10.0/10.0/10.0/9.8/10.0. impact comparison: Ordinary visible cave scope unknown; subject field unknown. 
-- [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) — 95.75/100; I/U/S/E/D 9.6/9.5/9.8/9.4/9.5. uniqueness comparison: significant Natufian archaeological evidence; subject 8.9 versus peer 9.5. 
-- [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) — 93.70/100; I/U/S/E/D 9.3/9.5/9.3/9.5/9.2. significance comparison: major early settled life research; subject 9.1 versus peer 9.3. 
+- [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 99.70/100; I/U/S/E/D 10.0/10.0/10.0/9.8/10.0. impact comparison: Ordinary visible cave scope unknown; subject field unknown.
+- [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) — 95.75/100; I/U/S/E/D 9.6/9.5/9.8/9.4/9.5. uniqueness comparison: significant Natufian archaeological evidence; subject 8.9 versus peer 9.5.
+- [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) — 93.70/100; I/U/S/E/D 9.3/9.5/9.3/9.5/9.2. significance comparison: major early settled life research; subject 9.1 versus peer 9.3.
 - [Carnuntum Archaeological Park (AT)](../../../countries/AT/sights/carnuntum-archaeological-park.yaml) — 87.95/100; I/U/S/E/D 8.7/8.9/9.0/8.8/8.4. experience comparison: permitted public access unverified; subject field unknown. Scope: scientific site not a show cave.
 
 ### Scoring decisions
@@ -302,9 +302,9 @@
 - Missing facts: Normal permitted visitor scope and accessible condition unresolved.
 
 ### Worldwide peers
-- [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 99.70/100; I/U/S/E/D 10.0/10.0/10.0/9.8/10.0. impact comparison: Traditional fortified rural residences; subject 8.0 versus peer 10.0. 
-- [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) — 95.75/100; I/U/S/E/D 9.6/9.5/9.8/9.4/9.5. uniqueness comparison: distinctive Ottoman-era regional leadership architecture; subject 8.6 versus peer 9.5. 
-- [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) — 93.70/100; I/U/S/E/D 9.3/9.5/9.3/9.5/9.2. significance comparison: significant rural social history; subject 8.7 versus peer 9.3. 
+- [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 99.70/100; I/U/S/E/D 10.0/10.0/10.0/9.8/10.0. impact comparison: Traditional fortified rural residences; subject 8.0 versus peer 10.0.
+- [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) — 95.75/100; I/U/S/E/D 9.6/9.5/9.8/9.4/9.5. uniqueness comparison: distinctive Ottoman-era regional leadership architecture; subject 8.6 versus peer 9.5.
+- [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) — 93.70/100; I/U/S/E/D 9.3/9.5/9.3/9.5/9.2. significance comparison: significant rural social history; subject 8.7 versus peer 9.3.
 - [Carnuntum Archaeological Park (AT)](../../../countries/AT/sights/carnuntum-archaeological-park.yaml) — 87.95/100; I/U/S/E/D 8.7/8.9/9.0/8.8/8.4. experience comparison: multiple private or restricted buildings not assumed open; subject field unknown. Scope: representative Deir Ghassaneh component, nomination reverses coordinate labels.
 
 ### Scoring decisions
@@ -334,9 +334,9 @@
 - Missing facts: Normal permitted visitor scope and accessible condition unresolved.
 
 ### Worldwide peers
-- [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 99.70/100; I/U/S/E/D 10.0/10.0/10.0/9.8/10.0. impact comparison: Post-conflict visible remains unverified; subject field unknown. 
-- [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) — 95.75/100; I/U/S/E/D 9.6/9.5/9.8/9.4/9.5. uniqueness comparison: ancient Mediterranean port archaeology; subject 8.6 versus peer 9.5. 
-- [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) — 93.70/100; I/U/S/E/D 9.3/9.5/9.3/9.5/9.2. significance comparison: important regional maritime history; subject 9.0 versus peer 9.3. 
+- [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 99.70/100; I/U/S/E/D 10.0/10.0/10.0/9.8/10.0. impact comparison: Post-conflict visible remains unverified; subject field unknown.
+- [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) — 95.75/100; I/U/S/E/D 9.6/9.5/9.8/9.4/9.5. uniqueness comparison: ancient Mediterranean port archaeology; subject 8.6 versus peer 9.5.
+- [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) — 93.70/100; I/U/S/E/D 9.3/9.5/9.3/9.5/9.2. significance comparison: important regional maritime history; subject 9.0 versus peer 9.3.
 - [Carnuntum Archaeological Park (AT)](../../../countries/AT/sights/carnuntum-archaeological-park.yaml) — 87.95/100; I/U/S/E/D 8.7/8.9/9.0/8.8/8.4. experience comparison: no ordinary Gaza visitor experience; subject field unknown. Scope: approximate coastal archaeological point.
 
 ### Scoring decisions
@@ -366,9 +366,9 @@
 - Missing facts: Normal permitted visitor scope and accessible condition unresolved.
 
 ### Worldwide peers
-- [Ha Long Bay (VN)](../../../countries/VN/sights/ha-long-bay.yaml) — 97.85/100; I/U/S/E/D 9.8/9.9/9.7/9.8/9.6. impact comparison: Mediterranean woodland hills; subject 8.0 versus peer 9.8. 
-- [Hohe Tauern National Park (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) — 92.60/100; I/U/S/E/D 9.4/9.1/9.0/9.5/9.4. uniqueness comparison: significant regional native forest habitat; subject 8.1 versus peer 9.1. 
-- [Khao Sok National Park (TH)](../../../countries/TH/sights/khao-sok-national-park.yaml) — 93.30/100; I/U/S/E/D 9.4/9.4/9.1/9.4/9.3. significance comparison: regional biodiversity value; subject 8.4 versus peer 9.1. 
+- [Ha Long Bay (VN)](../../../countries/VN/sights/ha-long-bay.yaml) — 97.85/100; I/U/S/E/D 9.8/9.9/9.7/9.8/9.6. impact comparison: Mediterranean woodland hills; subject 8.0 versus peer 9.8.
+- [Hohe Tauern National Park (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) — 92.60/100; I/U/S/E/D 9.4/9.1/9.0/9.5/9.4. uniqueness comparison: significant regional native forest habitat; subject 8.1 versus peer 9.1.
+- [Khao Sok National Park (TH)](../../../countries/TH/sights/khao-sok-national-park.yaml) — 93.30/100; I/U/S/E/D 9.4/9.4/9.1/9.4/9.3. significance comparison: regional biodiversity value; subject 8.4 versus peer 9.1.
 - [Gesäuse National Park (AT)](../../../countries/AT/sights/gesaeuse-national-park.yaml) — 88.95/100; I/U/S/E/D 8.9/8.8/8.7/9.1/9.2. experience comparison: permitted visitor trail scope not established; subject field unknown. Scope: reserve not unrestricted woodland.
 
 ### Scoring decisions
@@ -398,9 +398,9 @@
 - Missing facts: Normal permitted visitor scope and accessible condition unresolved.
 
 ### Worldwide peers
-- [Ha Long Bay (VN)](../../../countries/VN/sights/ha-long-bay.yaml) — 97.85/100; I/U/S/E/D 9.8/9.9/9.7/9.8/9.6. impact comparison: Current habitat condition and scenic scope unknown; subject field unknown. 
-- [Hohe Tauern National Park (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) — 92.60/100; I/U/S/E/D 9.4/9.1/9.0/9.5/9.4. uniqueness comparison: important coastal wetland habitat; subject 8.4 versus peer 9.1. 
-- [Khao Sok National Park (TH)](../../../countries/TH/sights/khao-sok-national-park.yaml) — 93.30/100; I/U/S/E/D 9.4/9.4/9.1/9.4/9.3. significance comparison: regional conservation significance; subject 8.8 versus peer 9.1. 
+- [Ha Long Bay (VN)](../../../countries/VN/sights/ha-long-bay.yaml) — 97.85/100; I/U/S/E/D 9.8/9.9/9.7/9.8/9.6. impact comparison: Current habitat condition and scenic scope unknown; subject field unknown.
+- [Hohe Tauern National Park (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) — 92.60/100; I/U/S/E/D 9.4/9.1/9.0/9.5/9.4. uniqueness comparison: important coastal wetland habitat; subject 8.4 versus peer 9.1.
+- [Khao Sok National Park (TH)](../../../countries/TH/sights/khao-sok-national-park.yaml) — 93.30/100; I/U/S/E/D 9.4/9.4/9.1/9.4/9.3. significance comparison: regional conservation significance; subject 8.8 versus peer 9.1.
 - [Gesäuse National Park (AT)](../../../countries/AT/sights/gesaeuse-national-park.yaml) — 88.95/100; I/U/S/E/D 8.9/8.8/8.7/9.1/9.2. experience comparison: no ordinary permitted visitor circuit; subject field unknown. Scope: no wildlife encounters assumed.
 
 ### Scoring decisions
@@ -430,9 +430,9 @@
 - Missing facts: Independent material facts, GPS and permitted visitor scope outstanding.
 
 ### Worldwide peers
-- [Wat Phra Kaew (TH)](../../../countries/TH/sights/wat-phra-kaew.yaml) — 94.80/100; I/U/S/E/D 9.4/9.6/9.8/9.4/8.9. impact comparison: Jordan River pilgrimage setting; subject 8.0 versus peer 9.4. 
-- [Bulguksa Temple (KR)](../../../countries/KR/sights/bulguksa-temple.yaml) — 93.15/100; I/U/S/E/D 9.2/9.4/9.6/9.3/8.9. uniqueness comparison: distinctive baptism tradition; subject 8.6 versus peer 9.4. 
-- [Melk Abbey (AT)](../../../countries/AT/sights/melk-abbey.yaml) — 91.10/100; I/U/S/E/D 9.0/9.2/9.3/9.2/8.7. significance comparison: major Christian religious association; subject 9.2 versus peer 9.3. 
+- [Wat Phra Kaew (TH)](../../../countries/TH/sights/wat-phra-kaew.yaml) — 94.80/100; I/U/S/E/D 9.4/9.6/9.8/9.4/8.9. impact comparison: Jordan River pilgrimage setting; subject 8.0 versus peer 9.4.
+- [Bulguksa Temple (KR)](../../../countries/KR/sights/bulguksa-temple.yaml) — 93.15/100; I/U/S/E/D 9.2/9.4/9.6/9.3/8.9. uniqueness comparison: distinctive baptism tradition; subject 8.6 versus peer 9.4.
+- [Melk Abbey (AT)](../../../countries/AT/sights/melk-abbey.yaml) — 91.10/100; I/U/S/E/D 9.0/9.2/9.3/9.2/8.7. significance comparison: major Christian religious association; subject 9.2 versus peer 9.3.
 - [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 99.70/100; I/U/S/E/D 10.0/10.0/10.0/9.8/10.0. experience comparison: bounded designated riverbank visitor precinct; subject 8.2 versus peer 9.8. Scope: excludes Jordan-side property and restricted areas.
 
 ### Scoring decisions
@@ -462,9 +462,9 @@
 - Missing facts: Independent material facts, GPS and permitted visitor scope outstanding.
 
 ### Worldwide peers
-- [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 99.70/100; I/U/S/E/D 10.0/10.0/10.0/9.8/10.0. impact comparison: Large palace ruins and decorated mosaic floors; subject 8.6 versus peer 10.0. 
-- [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) — 95.75/100; I/U/S/E/D 9.6/9.5/9.8/9.4/9.5. uniqueness comparison: distinctive Umayyad elite architecture; subject 8.7 versus peer 9.5. 
-- [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) — 93.70/100; I/U/S/E/D 9.3/9.5/9.3/9.5/9.2. significance comparison: major early Islamic art heritage; subject 8.9 versus peer 9.3. 
+- [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 99.70/100; I/U/S/E/D 10.0/10.0/10.0/9.8/10.0. impact comparison: Large palace ruins and decorated mosaic floors; subject 8.6 versus peer 10.0.
+- [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) — 95.75/100; I/U/S/E/D 9.6/9.5/9.8/9.4/9.5. uniqueness comparison: distinctive Umayyad elite architecture; subject 8.7 versus peer 9.5.
+- [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) — 93.70/100; I/U/S/E/D 9.3/9.5/9.3/9.5/9.2. significance comparison: major early Islamic art heritage; subject 8.9 versus peer 9.3.
 - [Carnuntum Archaeological Park (AT)](../../../countries/AT/sights/carnuntum-archaeological-park.yaml) — 87.95/100; I/U/S/E/D 8.7/8.9/9.0/8.8/8.4. experience comparison: documented Jericho archaeological visit; subject 8.4 versus peer 8.8. Scope: bounded palace circuit and permitted covered mosaics.
 
 ### Scoring decisions
@@ -494,9 +494,9 @@
 - Missing facts: Normal permitted visitor scope and accessible condition unresolved.
 
 ### Worldwide peers
-- [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 99.70/100; I/U/S/E/D 10.0/10.0/10.0/9.8/10.0. impact comparison: Excavated palatial and hydraulic remains; subject 7.8 versus peer 10.0. 
-- [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) — 95.75/100; I/U/S/E/D 9.6/9.5/9.8/9.4/9.5. uniqueness comparison: distinctive Hellenistic and Roman royal landscape; subject 8.6 versus peer 9.5. 
-- [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) — 93.70/100; I/U/S/E/D 9.3/9.5/9.3/9.5/9.2. significance comparison: significant Herodian and Hasmonean heritage; subject 8.9 versus peer 9.3. 
+- [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 99.70/100; I/U/S/E/D 10.0/10.0/10.0/9.8/10.0. impact comparison: Excavated palatial and hydraulic remains; subject 7.8 versus peer 10.0.
+- [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) — 95.75/100; I/U/S/E/D 9.6/9.5/9.8/9.4/9.5. uniqueness comparison: distinctive Hellenistic and Roman royal landscape; subject 8.6 versus peer 9.5.
+- [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) — 93.70/100; I/U/S/E/D 9.3/9.5/9.3/9.5/9.2. significance comparison: significant Herodian and Hasmonean heritage; subject 8.9 versus peer 9.3.
 - [Carnuntum Archaeological Park (AT)](../../../countries/AT/sights/carnuntum-archaeological-park.yaml) — 87.95/100; I/U/S/E/D 8.7/8.9/9.0/8.8/8.4. experience comparison: ordinary visitor access unknown; subject field unknown. Scope: nominated palace complex not all Jericho.
 
 ### Scoring decisions
@@ -526,9 +526,9 @@
 - Missing facts: Normal permitted visitor scope and accessible condition unresolved.
 
 ### Worldwide peers
-- [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 99.70/100; I/U/S/E/D 10.0/10.0/10.0/9.8/10.0. impact comparison: Present visible mosaic and ruin condition unverified; subject field unknown. 
-- [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) — 95.75/100; I/U/S/E/D 9.6/9.5/9.8/9.4/9.5. uniqueness comparison: early Byzantine church archaeological evidence; subject 8.6 versus peer 9.5. 
-- [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) — 93.70/100; I/U/S/E/D 9.3/9.5/9.3/9.5/9.2. significance comparison: important regional Christian heritage; subject 8.9 versus peer 9.3. 
+- [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 99.70/100; I/U/S/E/D 10.0/10.0/10.0/9.8/10.0. impact comparison: Present visible mosaic and ruin condition unverified; subject field unknown.
+- [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) — 95.75/100; I/U/S/E/D 9.6/9.5/9.8/9.4/9.5. uniqueness comparison: early Byzantine church archaeological evidence; subject 8.6 versus peer 9.5.
+- [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) — 93.70/100; I/U/S/E/D 9.3/9.5/9.3/9.5/9.2. significance comparison: important regional Christian heritage; subject 8.9 versus peer 9.3.
 - [Carnuntum Archaeological Park (AT)](../../../countries/AT/sights/carnuntum-archaeological-park.yaml) — 87.95/100; I/U/S/E/D 8.7/8.9/9.0/8.8/8.4. experience comparison: no ordinary Gaza visitor access; subject field unknown. Scope: excavation not assumed open.
 
 ### Scoring decisions
@@ -558,9 +558,9 @@
 - Missing facts: Normal permitted visitor scope and accessible condition unresolved.
 
 ### Worldwide peers
-- [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 99.70/100; I/U/S/E/D 10.0/10.0/10.0/9.8/10.0. impact comparison: Fortifications and excavated settlement remains; subject 7.8 versus peer 10.0. 
-- [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) — 95.75/100; I/U/S/E/D 9.6/9.5/9.8/9.4/9.5. uniqueness comparison: distinctive early urban city-state evidence; subject 8.9 versus peer 9.5. 
-- [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) — 93.70/100; I/U/S/E/D 9.3/9.5/9.3/9.5/9.2. significance comparison: major Bronze Age regional archaeology; subject 9.2 versus peer 9.3. 
+- [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 99.70/100; I/U/S/E/D 10.0/10.0/10.0/9.8/10.0. impact comparison: Fortifications and excavated settlement remains; subject 7.8 versus peer 10.0.
+- [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) — 95.75/100; I/U/S/E/D 9.6/9.5/9.8/9.4/9.5. uniqueness comparison: distinctive early urban city-state evidence; subject 8.9 versus peer 9.5.
+- [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) — 93.70/100; I/U/S/E/D 9.3/9.5/9.3/9.5/9.2. significance comparison: major Bronze Age regional archaeology; subject 9.2 versus peer 9.3.
 - [Carnuntum Archaeological Park (AT)](../../../countries/AT/sights/carnuntum-archaeological-park.yaml) — 87.95/100; I/U/S/E/D 8.7/8.9/9.0/8.8/8.4. experience comparison: permitted serial circuit unknown; subject field unknown. Scope: Tell Balata component only as map point.
 
 ### Scoring decisions
@@ -590,9 +590,9 @@
 - Missing facts: Normal permitted visitor scope and accessible condition unresolved.
 
 ### Worldwide peers
-- [Ha Long Bay (VN)](../../../countries/VN/sights/ha-long-bay.yaml) — 97.85/100; I/U/S/E/D 9.8/9.9/9.7/9.8/9.6. impact comparison: Limestone ravine and cave landscape; subject 8.2 versus peer 9.8. 
-- [Hohe Tauern National Park (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) — 92.60/100; I/U/S/E/D 9.4/9.1/9.0/9.5/9.4. uniqueness comparison: significant prehistoric archaeological sequence; subject 8.8 versus peer 9.1. 
-- [Khao Sok National Park (TH)](../../../countries/TH/sights/khao-sok-national-park.yaml) — 93.30/100; I/U/S/E/D 9.4/9.4/9.1/9.4/9.3. significance comparison: important early human heritage; subject 9.0 versus peer 9.1. 
+- [Ha Long Bay (VN)](../../../countries/VN/sights/ha-long-bay.yaml) — 97.85/100; I/U/S/E/D 9.8/9.9/9.7/9.8/9.6. impact comparison: Limestone ravine and cave landscape; subject 8.2 versus peer 9.8.
+- [Hohe Tauern National Park (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) — 92.60/100; I/U/S/E/D 9.4/9.1/9.0/9.5/9.4. uniqueness comparison: significant prehistoric archaeological sequence; subject 8.8 versus peer 9.1.
+- [Khao Sok National Park (TH)](../../../countries/TH/sights/khao-sok-national-park.yaml) — 93.30/100; I/U/S/E/D 9.4/9.4/9.1/9.4/9.3. significance comparison: important early human heritage; subject 9.0 versus peer 9.1.
 - [Gesäuse National Park (AT)](../../../countries/AT/sights/gesaeuse-national-park.yaml) — 88.95/100; I/U/S/E/D 8.9/8.8/8.7/9.1/9.2. experience comparison: permitted cave and trail circuit unverified; subject field unknown. Scope: approximate valley point.
 
 ### Scoring decisions
@@ -622,9 +622,9 @@
 - Missing facts: Independent material facts, GPS and permitted visitor scope outstanding.
 
 ### Worldwide peers
-- [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 99.70/100; I/U/S/E/D 10.0/10.0/10.0/9.8/10.0. impact comparison: Conical hill and monumental palace-fortress ruins; subject 8.8 versus peer 10.0. 
-- [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) — 95.75/100; I/U/S/E/D 9.6/9.5/9.8/9.4/9.5. uniqueness comparison: distinctive Herodian engineered hill complex; subject 8.9 versus peer 9.5. 
-- [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) — 93.70/100; I/U/S/E/D 9.3/9.5/9.3/9.5/9.2. significance comparison: major regional Roman-era history; subject 9.1 versus peer 9.3. 
+- [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 99.70/100; I/U/S/E/D 10.0/10.0/10.0/9.8/10.0. impact comparison: Conical hill and monumental palace-fortress ruins; subject 8.8 versus peer 10.0.
+- [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) — 95.75/100; I/U/S/E/D 9.6/9.5/9.8/9.4/9.5. uniqueness comparison: distinctive Herodian engineered hill complex; subject 8.9 versus peer 9.5.
+- [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) — 93.70/100; I/U/S/E/D 9.3/9.5/9.3/9.5/9.2. significance comparison: major regional Roman-era history; subject 9.1 versus peer 9.3.
 - [Carnuntum Archaeological Park (AT)](../../../countries/AT/sights/carnuntum-archaeological-park.yaml) — 87.95/100; I/U/S/E/D 8.7/8.9/9.0/8.8/8.4. experience comparison: managed archaeological circuit; subject 8.5 versus peer 8.8. Scope: no assumption of access to all excavations.
 
 ### Scoring decisions
@@ -654,9 +654,9 @@
 - Missing facts: Normal permitted visitor scope and accessible condition unresolved.
 
 ### Worldwide peers
-- [Wat Phra Kaew (TH)](../../../countries/TH/sights/wat-phra-kaew.yaml) — 94.80/100; I/U/S/E/D 9.4/9.6/9.8/9.4/8.9. impact comparison: Domed shrines and sacred precincts; subject 8.1 versus peer 9.4. 
-- [Bulguksa Temple (KR)](../../../countries/KR/sights/bulguksa-temple.yaml) — 93.15/100; I/U/S/E/D 9.2/9.4/9.6/9.3/8.9. uniqueness comparison: distinctive multi-faith sacred landscape tradition; subject 8.7 versus peer 9.4. 
-- [Melk Abbey (AT)](../../../countries/AT/sights/melk-abbey.yaml) — 91.10/100; I/U/S/E/D 9.0/9.2/9.3/9.2/8.7. significance comparison: significant regional religious continuity; subject 8.9 versus peer 9.3. 
+- [Wat Phra Kaew (TH)](../../../countries/TH/sights/wat-phra-kaew.yaml) — 94.80/100; I/U/S/E/D 9.4/9.6/9.8/9.4/8.9. impact comparison: Domed shrines and sacred precincts; subject 8.1 versus peer 9.4.
+- [Bulguksa Temple (KR)](../../../countries/KR/sights/bulguksa-temple.yaml) — 93.15/100; I/U/S/E/D 9.2/9.4/9.6/9.3/8.9. uniqueness comparison: distinctive multi-faith sacred landscape tradition; subject 8.7 versus peer 9.4.
+- [Melk Abbey (AT)](../../../countries/AT/sights/melk-abbey.yaml) — 91.10/100; I/U/S/E/D 9.0/9.2/9.3/9.2/8.7. significance comparison: significant regional religious continuity; subject 8.9 versus peer 9.3.
 - [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 99.70/100; I/U/S/E/D 10.0/10.0/10.0/9.8/10.0. experience comparison: permitted serial visits unverified; subject field unknown. Scope: Nabi Musa component map point, not full series.
 
 ### Scoring decisions
@@ -686,9 +686,9 @@
 - Missing facts: Normal permitted visitor scope and accessible condition unresolved.
 
 ### Worldwide peers
-- [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 99.70/100; I/U/S/E/D 10.0/10.0/10.0/9.8/10.0. impact comparison: Modernist villa and development project; subject 7.5 versus peer 10.0. 
-- [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) — 95.75/100; I/U/S/E/D 9.6/9.5/9.8/9.4/9.5. uniqueness comparison: regional adaptation of international modernism; subject 8.0 versus peer 9.5. 
-- [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) — 93.70/100; I/U/S/E/D 9.3/9.5/9.3/9.5/9.2. significance comparison: significant twentieth-century architectural heritage; subject 8.0 versus peer 9.3. 
+- [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 99.70/100; I/U/S/E/D 10.0/10.0/10.0/9.8/10.0. impact comparison: Modernist villa and development project; subject 7.5 versus peer 10.0.
+- [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) — 95.75/100; I/U/S/E/D 9.6/9.5/9.8/9.4/9.5. uniqueness comparison: regional adaptation of international modernism; subject 8.0 versus peer 9.5.
+- [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) — 93.70/100; I/U/S/E/D 9.3/9.5/9.3/9.5/9.2. significance comparison: significant twentieth-century architectural heritage; subject 8.0 versus peer 9.3.
 - [Carnuntum Archaeological Park (AT)](../../../countries/AT/sights/carnuntum-archaeological-park.yaml) — 87.95/100; I/U/S/E/D 8.7/8.9/9.0/8.8/8.4. experience comparison: private villa not assumed open; subject field unknown. Scope: Villa Dawood Michael representative point.
 
 ### Scoring decisions
@@ -718,9 +718,9 @@
 - Missing facts: Normal permitted visitor scope and accessible condition unresolved.
 
 ### Worldwide peers
-- [Wat Phra Kaew (TH)](../../../countries/TH/sights/wat-phra-kaew.yaml) — 94.80/100; I/U/S/E/D 9.4/9.6/9.8/9.4/8.9. impact comparison: Cliffside monastic complexes and desert gorges; subject 8.8 versus peer 9.4. 
-- [Bulguksa Temple (KR)](../../../countries/KR/sights/bulguksa-temple.yaml) — 93.15/100; I/U/S/E/D 9.2/9.4/9.6/9.3/8.9. uniqueness comparison: distinctive early Christian desert monasticism; subject 8.9 versus peer 9.4. 
-- [Melk Abbey (AT)](../../../countries/AT/sights/melk-abbey.yaml) — 91.10/100; I/U/S/E/D 9.0/9.2/9.3/9.2/8.7. significance comparison: major regional religious heritage; subject 9.0 versus peer 9.3. 
+- [Wat Phra Kaew (TH)](../../../countries/TH/sights/wat-phra-kaew.yaml) — 94.80/100; I/U/S/E/D 9.4/9.6/9.8/9.4/8.9. impact comparison: Cliffside monastic complexes and desert gorges; subject 8.8 versus peer 9.4.
+- [Bulguksa Temple (KR)](../../../countries/KR/sights/bulguksa-temple.yaml) — 93.15/100; I/U/S/E/D 9.2/9.4/9.6/9.3/8.9. uniqueness comparison: distinctive early Christian desert monasticism; subject 8.9 versus peer 9.4.
+- [Melk Abbey (AT)](../../../countries/AT/sights/melk-abbey.yaml) — 91.10/100; I/U/S/E/D 9.0/9.2/9.3/9.2/8.7. significance comparison: major regional religious heritage; subject 9.0 versus peer 9.3.
 - [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 99.70/100; I/U/S/E/D 10.0/10.0/10.0/9.8/10.0. experience comparison: individual monastery restrictions and serial scope unresolved; subject field unknown. Scope: approximate Mar Saba area point.
 
 ### Scoring decisions
@@ -750,9 +750,9 @@
 - Missing facts: Normal permitted visitor scope and accessible condition unresolved.
 
 ### Worldwide peers
-- [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 99.70/100; I/U/S/E/D 10.0/10.0/10.0/9.8/10.0. impact comparison: Current visible fabric after destruction not verified; subject field unknown. 
-- [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) — 95.75/100; I/U/S/E/D 9.6/9.5/9.8/9.4/9.5. uniqueness comparison: layered historic Islamic and Christian urban architecture; subject 8.7 versus peer 9.5. 
-- [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) — 93.70/100; I/U/S/E/D 9.3/9.5/9.3/9.5/9.2. significance comparison: major regional religious and urban heritage; subject 9.1 versus peer 9.3. 
+- [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 99.70/100; I/U/S/E/D 10.0/10.0/10.0/9.8/10.0. impact comparison: Current visible fabric after destruction not verified; subject field unknown.
+- [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) — 95.75/100; I/U/S/E/D 9.6/9.5/9.8/9.4/9.5. uniqueness comparison: layered historic Islamic and Christian urban architecture; subject 8.7 versus peer 9.5.
+- [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) — 93.70/100; I/U/S/E/D 9.3/9.5/9.3/9.5/9.2. significance comparison: major regional religious and urban heritage; subject 9.1 versus peer 9.3.
 - [Carnuntum Archaeological Park (AT)](../../../countries/AT/sights/carnuntum-archaeological-park.yaml) — 87.95/100; I/U/S/E/D 8.7/8.9/9.0/8.8/8.4. experience comparison: no ordinary visitor circuit established; subject field unknown. Scope: destroyed structures not credited.
 
 ### Scoring decisions
@@ -782,9 +782,9 @@
 - Missing facts: Normal permitted visitor scope and accessible condition unresolved.
 
 ### Worldwide peers
-- [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 99.70/100; I/U/S/E/D 10.0/10.0/10.0/9.8/10.0. impact comparison: Historic limestone alleys and craft buildings; subject 8.4 versus peer 10.0. 
-- [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) — 95.75/100; I/U/S/E/D 9.6/9.5/9.8/9.4/9.5. uniqueness comparison: distinctive market and soap-production urban heritage; subject 8.8 versus peer 9.5. 
-- [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) — 93.70/100; I/U/S/E/D 9.3/9.5/9.3/9.5/9.2. significance comparison: important regional trading history; subject 9.0 versus peer 9.3. 
+- [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 99.70/100; I/U/S/E/D 10.0/10.0/10.0/9.8/10.0. impact comparison: Historic limestone alleys and craft buildings; subject 8.4 versus peer 10.0.
+- [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) — 95.75/100; I/U/S/E/D 9.6/9.5/9.8/9.4/9.5. uniqueness comparison: distinctive market and soap-production urban heritage; subject 8.8 versus peer 9.5.
+- [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) — 93.70/100; I/U/S/E/D 9.3/9.5/9.3/9.5/9.2. significance comparison: important regional trading history; subject 9.0 versus peer 9.3.
 - [Carnuntum Archaeological Park (AT)](../../../countries/AT/sights/carnuntum-archaeological-park.yaml) — 87.95/100; I/U/S/E/D 8.7/8.9/9.0/8.8/8.4. experience comparison: ordinary permitted nominated circuit unverified; subject field unknown. Scope: historic ensemble distinct from modern city.
 
 ### Scoring decisions
@@ -814,9 +814,9 @@
 - Missing facts: Normal permitted visitor scope and accessible condition unresolved.
 
 ### Worldwide peers
-- [Ha Long Bay (VN)](../../../countries/VN/sights/ha-long-bay.yaml) — 97.85/100; I/U/S/E/D 9.8/9.9/9.7/9.8/9.6. impact comparison: Desert river landscapes and agricultural plains; subject 8.2 versus peer 9.8. 
-- [Hohe Tauern National Park (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) — 92.60/100; I/U/S/E/D 9.4/9.1/9.0/9.5/9.4. uniqueness comparison: distinctive rift-valley settlement and ecology; subject 8.7 versus peer 9.1. 
-- [Khao Sok National Park (TH)](../../../countries/TH/sights/khao-sok-national-park.yaml) — 93.30/100; I/U/S/E/D 9.4/9.4/9.1/9.4/9.3. significance comparison: major regional cultural and natural significance; subject 9.0 versus peer 9.1. 
+- [Ha Long Bay (VN)](../../../countries/VN/sights/ha-long-bay.yaml) — 97.85/100; I/U/S/E/D 9.8/9.9/9.7/9.8/9.6. impact comparison: Desert river landscapes and agricultural plains; subject 8.2 versus peer 9.8.
+- [Hohe Tauern National Park (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) — 92.60/100; I/U/S/E/D 9.4/9.1/9.0/9.5/9.4. uniqueness comparison: distinctive rift-valley settlement and ecology; subject 8.7 versus peer 9.1.
+- [Khao Sok National Park (TH)](../../../countries/TH/sights/khao-sok-national-park.yaml) — 93.30/100; I/U/S/E/D 9.4/9.4/9.1/9.4/9.3. significance comparison: major regional cultural and natural significance; subject 9.0 versus peer 9.1.
 - [Gesäuse National Park (AT)](../../../countries/AT/sights/gesaeuse-national-park.yaml) — 88.95/100; I/U/S/E/D 8.9/8.8/8.7/9.1/9.2. experience comparison: ordinary permitted landscape itinerary uncertain; subject field unknown. Scope: representative valley point not entire transboundary river.
 
 ### Scoring decisions
@@ -846,9 +846,9 @@
 - Missing facts: Normal permitted visitor scope and accessible condition unresolved.
 
 ### Worldwide peers
-- [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 99.70/100; I/U/S/E/D 10.0/10.0/10.0/9.8/10.0. impact comparison: Ancient pools and aqueduct remains; subject 8.0 versus peer 10.0. 
-- [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) — 95.75/100; I/U/S/E/D 9.6/9.5/9.8/9.4/9.5. uniqueness comparison: distinctive integrated long-distance hydraulic infrastructure; subject 8.7 versus peer 9.5. 
-- [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) — 93.70/100; I/U/S/E/D 9.3/9.5/9.3/9.5/9.2. significance comparison: important regional engineering history; subject 8.9 versus peer 9.3. 
+- [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 99.70/100; I/U/S/E/D 10.0/10.0/10.0/9.8/10.0. impact comparison: Ancient pools and aqueduct remains; subject 8.0 versus peer 10.0.
+- [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) — 95.75/100; I/U/S/E/D 9.6/9.5/9.8/9.4/9.5. uniqueness comparison: distinctive integrated long-distance hydraulic infrastructure; subject 8.7 versus peer 9.5.
+- [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) — 93.70/100; I/U/S/E/D 9.3/9.5/9.3/9.5/9.2. significance comparison: important regional engineering history; subject 8.9 versus peer 9.3.
 - [Carnuntum Archaeological Park (AT)](../../../countries/AT/sights/carnuntum-archaeological-park.yaml) — 87.95/100; I/U/S/E/D 8.7/8.9/9.0/8.8/8.4. experience comparison: permitted serial itinerary not confirmed; subject field unknown. Scope: upper Solomon's Pool representative point.
 
 ### Scoring decisions
@@ -878,9 +878,9 @@
 - Missing facts: Normal permitted visitor scope and accessible condition unresolved.
 
 ### Worldwide peers
-- [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 99.70/100; I/U/S/E/D 10.0/10.0/10.0/9.8/10.0. impact comparison: Rock-hewn dwelling landscapes; subject 8.0 versus peer 10.0. 
-- [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) — 95.75/100; I/U/S/E/D 9.6/9.5/9.8/9.4/9.5. uniqueness comparison: distinctive continuity of adapted cave habitation; subject 8.7 versus peer 9.5. 
-- [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) — 93.70/100; I/U/S/E/D 9.3/9.5/9.3/9.5/9.2. significance comparison: significant regional living vernacular heritage; subject 8.8 versus peer 9.3. 
+- [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 99.70/100; I/U/S/E/D 10.0/10.0/10.0/9.8/10.0. impact comparison: Rock-hewn dwelling landscapes; subject 8.0 versus peer 10.0.
+- [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) — 95.75/100; I/U/S/E/D 9.6/9.5/9.8/9.4/9.5. uniqueness comparison: distinctive continuity of adapted cave habitation; subject 8.7 versus peer 9.5.
+- [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) — 93.70/100; I/U/S/E/D 9.3/9.5/9.3/9.5/9.2. significance comparison: significant regional living vernacular heritage; subject 8.8 versus peer 9.3.
 - [Carnuntum Archaeological Park (AT)](../../../countries/AT/sights/carnuntum-archaeological-park.yaml) — 87.95/100; I/U/S/E/D 8.7/8.9/9.0/8.8/8.4. experience comparison: private homes and vulnerable communities not assumed visitor sites; subject field unknown. Scope: Khirbet Raboud component only.
 
 ### Scoring decisions
@@ -910,9 +910,9 @@
 - Missing facts: Independent material facts, GPS and permitted visitor scope outstanding.
 
 ### Worldwide peers
-- [Wat Phra Kaew (TH)](../../../countries/TH/sights/wat-phra-kaew.yaml) — 94.80/100; I/U/S/E/D 9.4/9.6/9.8/9.4/8.9. impact comparison: Cliffside monastery above oasis; subject 8.8 versus peer 9.4. 
-- [Bulguksa Temple (KR)](../../../countries/KR/sights/bulguksa-temple.yaml) — 93.15/100; I/U/S/E/D 9.2/9.4/9.6/9.3/8.9. uniqueness comparison: distinctive religious landscape setting; subject 8.5 versus peer 9.4. 
-- [Melk Abbey (AT)](../../../countries/AT/sights/melk-abbey.yaml) — 91.10/100; I/U/S/E/D 9.0/9.2/9.3/9.2/8.7. significance comparison: important Christian pilgrimage association; subject 8.5 versus peer 9.3. 
+- [Wat Phra Kaew (TH)](../../../countries/TH/sights/wat-phra-kaew.yaml) — 94.80/100; I/U/S/E/D 9.4/9.6/9.8/9.4/8.9. impact comparison: Cliffside monastery above oasis; subject 8.8 versus peer 9.4.
+- [Bulguksa Temple (KR)](../../../countries/KR/sights/bulguksa-temple.yaml) — 93.15/100; I/U/S/E/D 9.2/9.4/9.6/9.3/8.9. uniqueness comparison: distinctive religious landscape setting; subject 8.5 versus peer 9.4.
+- [Melk Abbey (AT)](../../../countries/AT/sights/melk-abbey.yaml) — 91.10/100; I/U/S/E/D 9.0/9.2/9.3/9.2/8.7. significance comparison: important Christian pilgrimage association; subject 8.5 versus peer 9.3.
 - [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 99.70/100; I/U/S/E/D 10.0/10.0/10.0/9.8/10.0. experience comparison: reported viewpoints and permitted monastery approach; subject 8.2 versus peer 9.8. Scope: no guaranteed cable car operation or unrestricted interiors.
 
 ### Scoring decisions
@@ -942,9 +942,9 @@
 - Missing facts: Independent material facts, GPS and permitted visitor scope outstanding.
 
 ### Worldwide peers
-- [Wat Phra Kaew (TH)](../../../countries/TH/sights/wat-phra-kaew.yaml) — 94.80/100; I/U/S/E/D 9.4/9.6/9.8/9.4/8.9. impact comparison: Small white limestone sacred cave and chapel; subject 7.6 versus peer 9.4. 
-- [Bulguksa Temple (KR)](../../../countries/KR/sights/bulguksa-temple.yaml) — 93.15/100; I/U/S/E/D 9.2/9.4/9.6/9.3/8.9. uniqueness comparison: distinctive local pilgrimage tradition; subject 8.0 versus peer 9.4. 
-- [Melk Abbey (AT)](../../../countries/AT/sights/melk-abbey.yaml) — 91.10/100; I/U/S/E/D 9.0/9.2/9.3/9.2/8.7. significance comparison: regional Christian religious significance; subject 8.2 versus peer 9.3. 
+- [Wat Phra Kaew (TH)](../../../countries/TH/sights/wat-phra-kaew.yaml) — 94.80/100; I/U/S/E/D 9.4/9.6/9.8/9.4/8.9. impact comparison: Small white limestone sacred cave and chapel; subject 7.6 versus peer 9.4.
+- [Bulguksa Temple (KR)](../../../countries/KR/sights/bulguksa-temple.yaml) — 93.15/100; I/U/S/E/D 9.2/9.4/9.6/9.3/8.9. uniqueness comparison: distinctive local pilgrimage tradition; subject 8.0 versus peer 9.4.
+- [Melk Abbey (AT)](../../../countries/AT/sights/melk-abbey.yaml) — 91.10/100; I/U/S/E/D 9.0/9.2/9.3/9.2/8.7. significance comparison: regional Christian religious significance; subject 8.2 versus peer 9.3.
 - [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 99.70/100; I/U/S/E/D 10.0/10.0/10.0/9.8/10.0. experience comparison: respectful focused visit; subject 7.8 versus peer 9.8. Scope: compact cave precinct.
 
 ### Scoring decisions
@@ -974,9 +974,9 @@
 - Missing facts: Normal permitted visitor scope and accessible condition unresolved.
 
 ### Worldwide peers
-- [Wat Phra Kaew (TH)](../../../countries/TH/sights/wat-phra-kaew.yaml) — 94.80/100; I/U/S/E/D 9.4/9.6/9.8/9.4/8.9. impact comparison: Monumental ancient enclosure and sacred interiors; subject 8.9 versus peer 9.4. 
-- [Bulguksa Temple (KR)](../../../countries/KR/sights/bulguksa-temple.yaml) — 93.15/100; I/U/S/E/D 9.2/9.4/9.6/9.3/8.9. uniqueness comparison: distinctive shared Jewish and Muslim sacred heritage; subject 9.1 versus peer 9.4. 
-- [Melk Abbey (AT)](../../../countries/AT/sights/melk-abbey.yaml) — 91.10/100; I/U/S/E/D 9.0/9.2/9.3/9.2/8.7. significance comparison: exceptional religious historical significance; subject 9.4 versus peer 9.3. 
+- [Wat Phra Kaew (TH)](../../../countries/TH/sights/wat-phra-kaew.yaml) — 94.80/100; I/U/S/E/D 9.4/9.6/9.8/9.4/8.9. impact comparison: Monumental ancient enclosure and sacred interiors; subject 8.9 versus peer 9.4.
+- [Bulguksa Temple (KR)](../../../countries/KR/sights/bulguksa-temple.yaml) — 93.15/100; I/U/S/E/D 9.2/9.4/9.6/9.3/8.9. uniqueness comparison: distinctive shared Jewish and Muslim sacred heritage; subject 9.1 versus peer 9.4.
+- [Melk Abbey (AT)](../../../countries/AT/sights/melk-abbey.yaml) — 91.10/100; I/U/S/E/D 9.0/9.2/9.3/9.2/8.7. significance comparison: exceptional religious historical significance; subject 9.4 versus peer 9.3.
 - [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 99.70/100; I/U/S/E/D 10.0/10.0/10.0/9.8/10.0. experience comparison: admission varies by identity and schedule and is unverified; subject field unknown. Scope: separate restricted worship areas.
 
 ### Scoring decisions
@@ -1006,9 +1006,9 @@
 - Missing facts: Normal permitted visitor scope and accessible condition unresolved.
 
 ### Worldwide peers
-- [Wat Phra Kaew (TH)](../../../countries/TH/sights/wat-phra-kaew.yaml) — 94.80/100; I/U/S/E/D 9.4/9.6/9.8/9.4/8.9. impact comparison: Church built above historic sacred well; subject 8.0 versus peer 9.4. 
-- [Bulguksa Temple (KR)](../../../countries/KR/sights/bulguksa-temple.yaml) — 93.15/100; I/U/S/E/D 9.2/9.4/9.6/9.3/8.9. uniqueness comparison: distinctive biblical pilgrimage association; subject 8.3 versus peer 9.4. 
-- [Melk Abbey (AT)](../../../countries/AT/sights/melk-abbey.yaml) — 91.10/100; I/U/S/E/D 9.0/9.2/9.3/9.2/8.7. significance comparison: regional Christian heritage; subject 8.7 versus peer 9.3. 
+- [Wat Phra Kaew (TH)](../../../countries/TH/sights/wat-phra-kaew.yaml) — 94.80/100; I/U/S/E/D 9.4/9.6/9.8/9.4/8.9. impact comparison: Church built above historic sacred well; subject 8.0 versus peer 9.4.
+- [Bulguksa Temple (KR)](../../../countries/KR/sights/bulguksa-temple.yaml) — 93.15/100; I/U/S/E/D 9.2/9.4/9.6/9.3/8.9. uniqueness comparison: distinctive biblical pilgrimage association; subject 8.3 versus peer 9.4.
+- [Melk Abbey (AT)](../../../countries/AT/sights/melk-abbey.yaml) — 91.10/100; I/U/S/E/D 9.0/9.2/9.3/9.2/8.7. significance comparison: regional Christian heritage; subject 8.7 versus peer 9.3.
 - [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 99.70/100; I/U/S/E/D 10.0/10.0/10.0/9.8/10.0. experience comparison: current permitted church access unknown; subject field unknown. Scope: single church precinct.
 
 ### Scoring decisions
@@ -1038,9 +1038,9 @@
 - Missing facts: Normal permitted visitor scope and accessible condition unresolved.
 
 ### Worldwide peers
-- [Wat Phra Kaew (TH)](../../../countries/TH/sights/wat-phra-kaew.yaml) — 94.80/100; I/U/S/E/D 9.4/9.6/9.8/9.4/8.9. impact comparison: Dramatic cliffside stone monastery; subject 9.0 versus peer 9.4. 
-- [Bulguksa Temple (KR)](../../../countries/KR/sights/bulguksa-temple.yaml) — 93.15/100; I/U/S/E/D 9.2/9.4/9.6/9.3/8.9. uniqueness comparison: distinct desert monastic architecture; subject 8.8 versus peer 9.4. 
-- [Melk Abbey (AT)](../../../countries/AT/sights/melk-abbey.yaml) — 91.10/100; I/U/S/E/D 9.0/9.2/9.3/9.2/8.7. significance comparison: major regional Orthodox heritage; subject 8.9 versus peer 9.3. 
+- [Wat Phra Kaew (TH)](../../../countries/TH/sights/wat-phra-kaew.yaml) — 94.80/100; I/U/S/E/D 9.4/9.6/9.8/9.4/8.9. impact comparison: Dramatic cliffside stone monastery; subject 9.0 versus peer 9.4.
+- [Bulguksa Temple (KR)](../../../countries/KR/sights/bulguksa-temple.yaml) — 93.15/100; I/U/S/E/D 9.2/9.4/9.6/9.3/8.9. uniqueness comparison: distinct desert monastic architecture; subject 8.8 versus peer 9.4.
+- [Melk Abbey (AT)](../../../countries/AT/sights/melk-abbey.yaml) — 91.10/100; I/U/S/E/D 9.0/9.2/9.3/9.2/8.7. significance comparison: major regional Orthodox heritage; subject 8.9 versus peer 9.3.
 - [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 99.70/100; I/U/S/E/D 10.0/10.0/10.0/9.8/10.0. experience comparison: gender-dependent admission and ordinary route unresolved; subject field unknown. Scope: exterior and restricted interiors not equated.
 
 ### Scoring decisions
@@ -1070,9 +1070,9 @@
 - Missing facts: Normal permitted visitor scope and accessible condition unresolved.
 
 ### Worldwide peers
-- [Ha Long Bay (VN)](../../../countries/VN/sights/ha-long-bay.yaml) — 97.85/100; I/U/S/E/D 9.8/9.9/9.7/9.8/9.6. impact comparison: Desert canyon and springs; subject 8.6 versus peer 9.8. 
-- [Hohe Tauern National Park (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) — 92.60/100; I/U/S/E/D 9.4/9.1/9.0/9.5/9.4. uniqueness comparison: distinctive arid valley setting but global analogues; subject 8.3 versus peer 9.1. 
-- [Khao Sok National Park (TH)](../../../countries/TH/sights/khao-sok-national-park.yaml) — 93.30/100; I/U/S/E/D 9.4/9.4/9.1/9.4/9.3. significance comparison: regional hydrology and cultural landscape; subject 8.0 versus peer 9.1. 
+- [Ha Long Bay (VN)](../../../countries/VN/sights/ha-long-bay.yaml) — 97.85/100; I/U/S/E/D 9.8/9.9/9.7/9.8/9.6. impact comparison: Desert canyon and springs; subject 8.6 versus peer 9.8.
+- [Hohe Tauern National Park (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) — 92.60/100; I/U/S/E/D 9.4/9.1/9.0/9.5/9.4. uniqueness comparison: distinctive arid valley setting but global analogues; subject 8.3 versus peer 9.1.
+- [Khao Sok National Park (TH)](../../../countries/TH/sights/khao-sok-national-park.yaml) — 93.30/100; I/U/S/E/D 9.4/9.4/9.1/9.4/9.3. significance comparison: regional hydrology and cultural landscape; subject 8.0 versus peer 9.1.
 - [Gesäuse National Park (AT)](../../../countries/AT/sights/gesaeuse-national-park.yaml) — 88.95/100; I/U/S/E/D 8.9/8.8/8.7/9.1/9.2. experience comparison: current permitted walking routes unverified; subject field unknown. Scope: not all gorge or monasteries.
 
 ### Scoring decisions
@@ -1102,9 +1102,9 @@
 - Missing facts: Independent material facts, GPS and permitted visitor scope outstanding.
 
 ### Worldwide peers
-- [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 99.70/100; I/U/S/E/D 10.0/10.0/10.0/9.8/10.0. impact comparison: Modern terraced building and exhibitions; subject 8.1 versus peer 10.0. 
-- [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) — 95.75/100; I/U/S/E/D 9.6/9.5/9.8/9.4/9.5. uniqueness comparison: distinct regional cultural institution; subject 8.1 versus peer 9.5. 
-- [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) — 93.70/100; I/U/S/E/D 9.3/9.5/9.3/9.5/9.2. significance comparison: significant contemporary Palestinian heritage; subject 8.4 versus peer 9.3. 
+- [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 99.70/100; I/U/S/E/D 10.0/10.0/10.0/9.8/10.0. impact comparison: Modern terraced building and exhibitions; subject 8.1 versus peer 10.0.
+- [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) — 95.75/100; I/U/S/E/D 9.6/9.5/9.8/9.4/9.5. uniqueness comparison: distinct regional cultural institution; subject 8.1 versus peer 9.5.
+- [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) — 93.70/100; I/U/S/E/D 9.3/9.5/9.3/9.5/9.2. significance comparison: significant contemporary Palestinian heritage; subject 8.4 versus peer 9.3.
 - [Carnuntum Archaeological Park (AT)](../../../countries/AT/sights/carnuntum-archaeological-park.yaml) — 87.95/100; I/U/S/E/D 8.7/8.9/9.0/8.8/8.4. experience comparison: exhibitions and grounds subject to opening; subject 8.0 versus peer 8.8. Scope: bounded museum and current displays.
 
 ### Scoring decisions
@@ -1134,9 +1134,9 @@
 - Missing facts: Normal permitted visitor scope and accessible condition unresolved.
 
 ### Worldwide peers
-- [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 99.70/100; I/U/S/E/D 10.0/10.0/10.0/9.8/10.0. impact comparison: Large historic stone reservoirs; subject 8.1 versus peer 10.0. 
-- [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) — 95.75/100; I/U/S/E/D 9.6/9.5/9.8/9.4/9.5. uniqueness comparison: distinctive regional hydraulic ensemble; subject 8.4 versus peer 9.5. 
-- [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) — 93.70/100; I/U/S/E/D 9.3/9.5/9.3/9.5/9.2. significance comparison: important historic water infrastructure; subject 8.7 versus peer 9.3. 
+- [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 99.70/100; I/U/S/E/D 10.0/10.0/10.0/9.8/10.0. impact comparison: Large historic stone reservoirs; subject 8.1 versus peer 10.0.
+- [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) — 95.75/100; I/U/S/E/D 9.6/9.5/9.8/9.4/9.5. uniqueness comparison: distinctive regional hydraulic ensemble; subject 8.4 versus peer 9.5.
+- [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) — 93.70/100; I/U/S/E/D 9.3/9.5/9.3/9.5/9.2. significance comparison: important historic water infrastructure; subject 8.7 versus peer 9.3.
 - [Carnuntum Archaeological Park (AT)](../../../countries/AT/sights/carnuntum-archaeological-park.yaml) — 87.95/100; I/U/S/E/D 8.7/8.9/9.0/8.8/8.4. experience comparison: ordinary permitted pool circuit unverified; subject field unknown. Scope: one water system component.
 
 ### Scoring decisions
@@ -1155,3 +1155,20 @@
 - Final decision: Keep unranked pending adequate evidence.
 - Verification still needed: exact GPS, material claims, current permitted scope, category calibration, and live peer fit and values.
 
+
+## Follow-up: individual evidence and visitor scope — 2026-11-25
+
+- [Milk Grotto](../../../countries/PS/sights/milk-grotto.yaml): **source-linked-unverified** supersedes editorial-only. [Site-specific tourism description](https://visitpalestine.ps/bethlehem-milk-grotto-church/) and [Franciscan sanctuary directory](https://www.custodia.org/en/convents/bethlehem/) corroborate cave shrine and pilgrimage tradition. Retain 77.40; bounded precinct.
+- [Palestinian Museum](../../../countries/PS/sights/palestinian-museum.yaml): **source-linked-unverified** supersedes editorial-only. [Operator hours and location](https://www.palmuseum.org/en/visits/how-to-find-us) and [museum tours](https://www.palmuseum.org/en/visits/museum-tours) confirm ordinary exhibitions and guided interpretation. Retain 80.85; not all of Birzeit or museum's digital collection.
+- [Wadi Qelt](../../../countries/PS/sights/wadi-qelt.yaml): [protected-area description](https://www.mahmiyat.ps/en/protected-areas/12) and [documented reserve trail](https://mahmiyat.ps/en/ecotourism/3104.html) confirm identity and a defined 12 km route; current permitted access and trail condition not independently established. Retain null E/D rather than assume all gorge access.
+- [Ancient Jericho](../../../countries/PS/sights/ancient-jericho.yaml): [direct UNESCO property description](https://whc.unesco.org/en/list/1687) supports Neolithic significance, not all buried archaeology visible. Retain 86.20.
+- [Nativity pilgrimage route](../../../countries/PS/sights/nativity-pilgrimage-route.yaml): [UNESCO](https://whc.unesco.org/en/list/1433) and [sanctuary operator](https://www.custodia.org/en/sanctuaries/bethlehem-basilica-of-the-nativity/) document the complex and published visitor hours; [Star Street guide](https://visitpalestine.ps/destinations/bethlehem-landing-page-2/bethlehem-religious-and-historical-sites/bethlehem-star-street/) supports the defined urban route. Retain 90.25, subject to closer pilgrimage-complex benchmarks. No claim of worldwide unique perfect score.
+- [Qumran](../../../countries/PS/sights/qumran.yaml) and [Herodium](../../../countries/PS/sights/herodium.yaml): respective [Qumran park operator](https://en.parks.org.il/reserve-park/qumran-park/) and [Herodium park operator](https://en.parks.org.il/reserve-park/herodium-park/) document bounded ordinary routes and hours. Administrative source attribution does not change repository geographic classification or imply unrestricted access. Retain existing scores.
+- [Sebastia](../../../countries/PS/sights/sebastia.yaml): [UNESCO 2026 inscription decision](https://whc.unesco.org/en/decisions/9154/) confirms simultaneous danger listing; retain null E/D. [Saint Hilarion](../../../countries/PS/sights/saint-hilarion.yaml): [UNESCO property](https://whc.unesco.org/en/list/1749/) corroborates early monastic significance and danger status; retain null E/D.
+
+### Two bounded visitor assessments
+
+- [Battir cultural landscape](../../../countries/PS/sights/battir-landscape.yaml): **source-linked-unverified** supersedes unassessed. [UNESCO property](https://whc.unesco.org/en/list/1492), [local terraces trail](https://visitpalestine.ps/experiences/experiences-hiking-and-nature-trails/battir-hiking-trail/) and [eco-museum](https://visitpalestine.ps/destinations/bethlehem-landing-page-2/museums-and-cultural-centers-in-bethlehem/battir-eco-museum/) document the irrigation heritage, interpreted visitor route and community context; no credit for unrestricted private farmland. Retain I/U/S 8.7/8.9/8.8; experience 8.5 and depth 8.0, for a bounded terrace walk and interpretation, not full landscape exploration. Overall 86.70. Current main peers: [Wachau (AT)](../../../countries/AT/sights/wachau-valley.yaml) 8.9/8.8/9.2/9.4/9.6, broader river landscape and settlements; [Cordillera rice terraces (PH)](../../../countries/PH/sights/cordillera-rice-terraces.yaml) 9.3/9.4/9.2/8.9/9.0, stronger scale and agricultural heritage; [Jatiluwih (ID)](../../../countries/ID/sights/jatiluwih-rice-terraces.yaml) 9.2/9.3/9.2/9.3/9.2, extensive terrace paths and irrigation landscape; [Mu Cang Chai (VN)](../../../countries/VN/sights/mu-cang-chai-rice-terraces.yaml) 9.1/9.2/8.8/9.1/8.7, larger mountain terrace scenery. Current danger status and local access remain separate from intrinsic assessment.
+- [Mount Gerizim](../../../countries/PS/sights/mount-gerizim.yaml): **source-linked-unverified** supersedes unassessed. [Park operator](https://en.parks.org.il/reserve-park/mount-gerizim/) publishes ordinary entry and describes the Samaritan heritage and archaeological summit; [operator interpretation](https://en.parks.org.il/new/mosaic-family-ceremonies-at-the-mountain-of-blessing/) documents visitor interpretation. Retain I/U/S 8.4/9.0/9.1, experience 8.2 and depth 7.8 for bounded summit archaeology and views, excluding private worship areas and the whole surrounding city. Overall 86.00. Current main peers: [Mount Nebo (JO)](../../../countries/JO/sights/mount-nebo.yaml) 8.4/8.8/9.2/8.6/7.8, comparable sacred hill and interpreted remains; [Jvari (GE)](../../../countries/GE/sights/jvari-monastery.yaml) 8.7/8.5/9.0/8.3/7.1, stronger monumental setting but shorter visit; [Khor Virap (AM)](../../../countries/AM/sights/khor-virap-monastery.yaml) 8.9/8.8/9.1/8.7/7.0, stronger monastery views but narrower physical scope; [Jerash (JO)](../../../countries/JO/sights/jerash-archaeological-city.yaml) 9.5/9.3/9.5/9.4/9.3, much larger excavated city. Published site hours are not assurance of reaching the site or personal eligibility; regional travel restrictions apply independently.
+
+[UNESCO national inventory](https://whc.unesco.org/en/statesparties/ps/) confirms all six inscribed and 22 tentative entries represented at property level. All 46 records now have supporting sources, with 15 scored and 31 unassessed. Zero fully independently fact-checked. No new perfect ten, no change to pre-existing assessed vectors, GPS, categories or global weighting. Jerusalem Old City and component-level expansion remain separate inventory gaps; no safety endorsement.
