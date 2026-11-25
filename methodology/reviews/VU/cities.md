@@ -190,3 +190,37 @@
 - Final decision: Provisional worldwide v2 settlement rating, calibrated against branch YAML peers.
 - Earlier decision: prior unranked entry for this ID. See [previous decision and sources](history-evidence-followup-2026-11-25.md).
 - Verification still needed: Exact cultural-centre boundary, current opening, streetscape and GPS corroboration remain outstanding. Canonical validation and benchmark diagnostics outstanding.
+
+
+## city-vu-lenakel — Lenakel — 2026-11-26
+
+- YAML: [source](../../../countries/VU/cities/lenakel.yaml)
+- Action: new
+- Precise subject: Town's own market, streets and local dining; excludes Isangel and island excursions.
+- Location check: Mapcarta https://mapcarta.com/Lenakel (page inspected), town representative point.
+- Evidence status: source-linked-unverified
+- Factual references consulted 2026-11-26:
+- Vanuatu Pocket Guide https://vanuatupocketguide.com/information-shops-services-on-tanna (page inspected): dining concentrated in Lenakel; local produce market on Saltwater Road.
+- Vanuatu Tourism Office https://www.vanuatu.travel/stay-2/joe-narua-guest-house (indexed excerpt): main market and nearby Isangel are distinct places; promotional accommodation source.
+- Vanuatu Pocket Guide https://vanuatupocketguide.com/free-cheap-things-to-do-tanna (indexed excerpt): market as an ordinary local visitor experience.
+- Missing or uncertain facts: precise coordinates, current operating conditions and full independent claim verification.
+
+### Worldwide peer comparisons
+- [kampot (KH)](../../../countries/KH/cities/kampot.yaml): 7.6/7.9/7.5/8.3/7.9; much broader historic streets, dining and waterfront.
+- [kuala-perlis (MY)](../../../countries/MY/cities/kuala-perlis.yaml): 6.5/6.8/6.5/7.2/6.7; similar modest port town with local food.
+- [manase (WS)](../../../countries/WS/cities/manase.yaml): 6.7/7.1/6.0/7.2/6.1; similar compact Pacific settlement, less town commerce.
+- [lalomanu (WS)](../../../countries/WS/cities/lalomanu.yaml): 6.9/7.3/6.4/7.6/6.6; more distinctive coastal village stay, similar modest depth.
+
+### Scoring decisions
+- Impact: 6.6 — Modest coastal commercial settlement, not its surrounding volcanic landscapes.
+- Uniqueness: 7.1 — Distinct Tanna market culture, not a globally singular townscape.
+- Significance: 6.7 — Regional commercial and cultural role rather than internationally defining history.
+- Experience: 7.3 — Documented local food and market visits.
+- Depth: 6.5 — Several town experiences, not a full island circuit.
+- Applicable categories: culture 7.5, food 7.4.
+- Overall: 68.40/100.
+- High-score challenge: No 9.5+ field or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide V2 editorial rating.
+- Earlier decision: none.
+- Verification still needed: full independent claim verification; precise visitor location and conditions.

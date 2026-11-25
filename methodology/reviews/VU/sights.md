@@ -462,3 +462,77 @@
 - **sight-vu-yalo-apialo-sacred-geography:** UNESCO (https://whc.unesco.org/en/tentativelists/1971) documents both caves, extensive rock markings and the wider sacred landscape governed by community kastom rules. Vanuatu Tourism Office indexed results mention guided Pialo/Apialo cave visits (https://www.vanuatu.travel/en/search-results?searchphrase=all&searchword=big+nambas); specialist operator lists guided Pialo Cave (https://vanuatu.com.au/malekula-island/cultural-sightseeing-tours/). These references support a possible separately scoped guided cave visit, but not established permission or visitor scope for both caves and the wider sacred geography. Retain existing nulls pending further evidence. Do not publish sensitive location details or imply unrestricted access.
 
 Sources reviewed as pages or search excerpts on 2026-11-25. No aggregate YAML ratings changed in this follow-up.
+
+
+## sight-vu-riri-blue-hole — Riri Blue Hole — 2026-11-26
+
+- YAML: [source](../../../countries/VU/sights/riri-blue-hole.yaml)
+- Action: new
+- Precise subject: Named freshwater pool and usual Riri River canoe approach, not neighboring Matevulu or Nanda pools.
+- Location check: Mapcarta https://mapcarta.com/N3095211523 (page inspected): mapped attraction; alternate mapped Riri point https://mapcarta.com/N6300385085 is about 450 m away. Exact pool/approach distinction requires corroboration; representative point, not entrance.
+- Evidence status: source-linked-unverified
+- Factual references consulted 2026-11-26:
+- Vanuatu Tourism Office https://www.vanuatu.travel/en/things-to-do/blue-holes and https://www.vanuatu.travel/en/blog/four-unmissable-adventures-espiritu-santo (indexed excerpts): car access and locally guided canoe approach.
+- Showcaves https://showcaves.com/english/other/springs/RiriBlueHole.html (indexed excerpt): karst-spring geology.
+- Vanuatu Pocket Guide https://book.vanuatupocketguide.com/free/riri-blue-hole (indexed excerpt): canoe or kayak approach.
+- Missing or uncertain facts: precise coordinates, current operating conditions and full independent claim verification.
+
+### Worldwide peer comparisons
+- [to-sua-ocean-trench (WS)](../../../countries/WS/sights/to-sua-ocean-trench.yaml): 9.1/9.0/7.4/9.0/7.5; more dramatic collapse-pool setting.
+- [kayangan-lake (PH)](../../../countries/PH/sights/kayangan-lake.yaml): 9.0/8.8/7.9/8.5/7.0; more dramatic karst landscape, shorter focused visit.
+- [yeak-laom-volcanic-lake (KH)](../../../countries/KH/sights/yeak-laom-volcanic-lake.yaml): 8.5/8.7/7.9/8.8/8.0; more geologically distinctive crater and broader shore circuit.
+- [piula-cave-pool (WS)](../../../countries/WS/sights/piula-cave-pool.yaml): 7.9/8.0/6.8/8.0/6.8; smaller cave pool with less extensive canoe approach.
+
+### Scoring decisions
+- Impact: 8.7 — Clear blue water and rainforest canoe approach create strong visual impact.
+- Uniqueness: 8.3 — Distinct karst spring setting but other blue holes and pools exist globally.
+- Significance: 7 — Regional freshwater geology; no unsupported global scientific claim.
+- Experience: 8.7 — Documented swimming and canoe experience, conditions permitting.
+- Depth: 7.5 — Pool and river approach provide a focused half-day experience.
+- Applicable categories: nature 8.8, photography 8.9, relaxation 8.6, adventure 8.3.
+- Overall: 81.40/100.
+- High-score challenge: No 9.5+ field or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide V2 editorial rating.
+- Earlier decision: none.
+- Verification still needed: full independent claim verification; precise visitor location and conditions.
+
+
+## sight-vu-south-pentecost-naghol — South Pentecost Naghol Cultural Experience — 2026-11-26
+
+- YAML: [source](../../../countries/VU/sights/south-pentecost-naghol.yaml)
+- Action: new
+- Precise subject: Seasonal, community-authorized spectator experience at public Naghol events in South Pentecost; not an invitation to participate, not all island heritage or private ceremonies. Representative Panngi village point, not a permanent event venue.
+- Location check: Panngi village point from https://en.wikipedia.org/wiki/Panngi (indexed excerpt); tourism office describes South Pentecost venues. Exact seasonal venue and community permission must be confirmed. No permanent tower point asserted.
+- Evidence status: source-linked-unverified
+- Factual references consulted 2026-11-26:
+- Vanuatu Tourism Office https://www.vanuatu.travel/en/things-to-do/events/event/1-naghol-land-diving (page inspected): annual community festival context and advance permission advice; 2026 schedule historical, no future dates guaranteed.
+- Vanuatu Tourism Office https://www.vanuatu.travel/en/about-vanuatu/provinces/penama and https://www.vanuatu.travel/en/luke-fargo-nangol-land-diving-tour (indexed excerpts): South Pentecost yam-harvest tradition and local visitor tours.
+- Smithsonian Institution https://www.si.edu/object/archives/components/sova-hsfa-1975-01-ref3 (indexed excerpt): historic documentation and customary rights.
+- Cheer et al. https://www.sciencedirect.com/science/article/pii/S0160738313000935 (indexed abstract): cultural significance and tensions around commercialization.
+- Missing or uncertain facts: precise coordinates, current operating conditions and full independent claim verification.
+
+### Worldwide peer comparisons
+- [hahoe-folk-village (KR)](../../../countries/KR/sights/hahoe-folk-village.yaml): 9.0/9.3/9.4/9.2/8.9; broader permanent living heritage and visitor exploration.
+- [sarawak-cultural-village (MY)](../../../countries/MY/sights/sarawak-cultural-village.yaml): 8.4/8.7/8.2/8.8/8.4; more varied permanent interpretation, less singular ceremony.
+- [manono-island (WS)](../../../countries/WS/sights/manono-island.yaml): 8.0/8.5/8.5/8.2/8.0; broader village landscape, less exceptional single tradition.
+- [mangyol-stone-money-bank (FM)](../../../countries/FM/sights/mangyol-stone-money-bank.yaml): 7.6/9.2/8.7/7.4/7.1; similarly distinctive Pacific customary heritage, different visitor scope.
+
+### Scoring decisions
+- Impact: 9 — Remarkable spectator experience with community music and ceremonial setting.
+- Uniqueness: 9.5 — Highly distinctive living harvest ritual specific to South Pentecost.
+- Significance: 9 — Important enduring regional cultural heritage and anthropological documentation; not whole national culture.
+- Experience: 8.6 — Documented authorized spectator tours in season, subject to permission.
+- Depth: 7.5 — Focused seasonal ceremony, not a broad permanent heritage circuit.
+- Applicable categories: culture 9.5, history 8.7.
+- Overall: 89.15/100.
+- High-score challenge: Uniqueness and culture 9.5 reflect a distinctive place-specific living ritual, supported by Smithsonian and anthropological evidence; Hahoe offers greater permanent heritage breadth and significance. No credit for private access, participation or out-of-season visitation.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide V2 editorial rating.
+- Earlier decision: none.
+- Verification still needed: full independent claim verification; precise visitor location and conditions.
+
+
+### Museum relocation recheck (2026-11-26)
+
+The Cultural Centre's relocation announcement remains visible in indexed excerpts (https://vanuatuculturalcentre.gov.vu/index.php/tamtam-news/national-museum-new-location), but direct retrieval returned 404. Retain normal-condition institution rating and existing representative location, not a verified current admission point; do not treat the original building as open or infer current exhibit inventory. The two sacred properties remain incomplete because visitor scope is not established.
