@@ -2,6 +2,9 @@
 
 [Worldwide rules](../../../rules.md) · [Future-country workflow](../../future-country-workflow.md). 2026-11-25. [UNESCO country inventory](https://whc.unesco.org/en/statesparties/cf/) confirms two inscribed and nine tentative properties; all included. Sangha represented by CAR component only. [FCDO advice](https://www.gov.uk/foreign-travel-advice/central-african-republic) retrieved 2026-11-25 advises against all travel outside Bangui and against all but essential travel to Bangui; intrinsic ratings of documented normal visitor activities are NOT current travel advice. Manovo remains in danger. Community participation requires consent. Points representative not entrances; ambiguous UNESCO coordinates documented, approximate alternatives unverified. Shared peer ladders need type-specific refinement. No source-linked record is claimed independently fact-checked. Parent and nested experience scores are not additive.
 
+
+Follow-up 2026-11-25: UNESCO two inscriptions and nine tentative properties reconfirmed. [Protected Planet](https://www.protectedplanet.net/2258) and [national park inventory](https://passportranker.org/national-parks/central-african-republic) identify André Félix as the missing fifth national park, now added as unassessed. Mbaéré-Bodingué national park and its tentative integral-reserve designation overlap; exact boundaries not assumed identical. The [Ramsar register](https://www.ramsar.org/fr/country-profile/republique-centrafricaine) identifies two river wetland designations; these require distinct boundary/visitor-scope review (not automatically equivalent to park records). Additional reserves remain inventory gaps. No current travel recommendation.
+
 ## sight-cf-dzanga-ndoki-national-park-sangha-trinational-car-component — Dzanga-Ndoki National Park (Sangha Trinational CAR component) — 2026-11-25
 
 - [YAML](../../../countries/CF/sights/dzanga-ndoki-national-park-sangha-trinational-car-component.yaml) · Action: new · **source-linked-unverified**.
@@ -20,6 +23,8 @@
 - High-score challenge: Uniqueness 9.5 and significance nature wildlife 9.7 reflect intact tropical forest and threatened species; relative to broadly accessible forest parks the experience is specialist and current travel is not advised.. No approved 10.
 - Evidence: [Reference](https://whc.unesco.org/en/list/1380/maps/) — Opened UNESCO component map identifies CAR sector; operator https://dzanga-sangha.org/visit-dzanga-sangha/what-to-do-in-dzanga-sangha/ describes documented forest excursions.; inspected as page or excerpt 2026-11-25. Full claim-level verification incomplete.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, visitor access and individual peer/category calibration.
+- Follow-up 2026-11-25: [Official activity catalogue](https://dzanga-sangha.org/visit-dzanga-sangha/what-to-do-in-dzanga-sangha/) and [April 2026 independent reporting](https://news.mongabay.com/2026/04/the-little-known-story-of-emerging-ecotourism-in-the-central-african-republic/) substantiate distinctive forest elephant, ape and guided rainforest experiences. Compare Odzala, Nouabalé-Ndoki, Loango and Bwindi: strong specialist forest wildlife, not equivalent to large open-savanna safari breadth. Retain exceptional ratings provisionally; check which activities fall within the UNESCO boundary.
+
 
 ## sight-cf-manovo-gounda-st-floris-national-park — Manovo-Gounda St Floris National Park — 2026-11-25
 
@@ -35,10 +40,12 @@
 - Significance 9.4: international conservation significance.
 - Experience null: ongoing degradation and safe permitted experience unresolved.
 - Depth null: route depth unknown.
-- Categories: nature:9.4, wildlife:9.3. Overall: unranked.
+- Categories: nature:9.4, wildlife:null. Overall: unranked.
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Reference](https://whc.unesco.org/en/list/475/) — UNESCO description excerpt and opened map https://whc.unesco.org/en/list/475/maps/ identify savanna property and location; https://whc.unesco.org/en/decisions/?id_decision=9043 maintains danger listing.; inspected as page or excerpt 2026-11-25. Full claim-level verification incomplete.
 - Remaining gaps: Normal permitted visitor experience, scope and current conditions not established.
+- Follow-up 2026-11-25: [2026 UNESCO decision](https://whc.unesco.org/en/decisions/?id_decision=9043) finds monitoring inadequate to reliably assess characteristic species populations and maintains danger listing. Wildlife 9.3 → null; ecology/significance retained provisionally, overall remains unranked.
+
 
 ## sight-cf-dzanga-bai — Dzanga Bai — 2026-11-25
 
@@ -58,6 +65,8 @@
 - High-score challenge: Uniqueness 9.6 and wildlife 9.7 reflect the unusual congregation at this clearing rather than whole-park biodiversity; no guarantee of sightings or safe present-day travel.. No approved 10.
 - Evidence: [Reference](https://dzanga-sangha.org/visit-dzanga-sangha/what-to-do-in-dzanga-sangha/) — Opened operator page describes Bayanga fishing settlement, Bai Hokou and Mongambe gorilla tracking, Mossapoula canoe visit. https://dzanga-sangha.org/visit-dzanga-sangha/ search excerpt identifies Dzanga Bai. Operator claims not independent verification or current access guarantee.; inspected as page or excerpt 2026-11-25. Full claim-level verification incomplete.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, visitor access and individual peer/category calibration.
+- Follow-up 2026-11-25: [Official activity catalogue](https://dzanga-sangha.org/visit-dzanga-sangha/what-to-do-in-dzanga-sangha/) and [2026 independent account](https://news.mongabay.com/2026/04/the-little-known-story-of-emerging-ecotourism-in-the-central-african-republic/) describe dedicated viewing platform and unusually large forest elephant congregations. Compare Mbeli, Lango, Langoué and Chobe: exceptionally distinctive clearing observation supports wildlife 9.7 provisionally, no encounter guarantee.
+
 
 ## sight-cf-bai-hokou-gorilla-tracking — Bai Hokou Gorilla Tracking — 2026-11-25
 
@@ -77,25 +86,29 @@
 - High-score challenge: Wildlife 9.6 reflects rare supervised tracking of western lowland gorillas; compared with larger parks depth is narrower and sightings vary.. No approved 10.
 - Evidence: [Reference](https://dzanga-sangha.org/visit-dzanga-sangha/what-to-do-in-dzanga-sangha/) — Opened operator page describes Bayanga fishing settlement, Bai Hokou and Mongambe gorilla tracking, Mossapoula canoe visit. https://dzanga-sangha.org/visit-dzanga-sangha/ search excerpt identifies Dzanga Bai. Operator claims not independent verification or current access guarantee.; inspected as page or excerpt 2026-11-25. Full claim-level verification incomplete.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, visitor access and individual peer/category calibration.
+- Follow-up 2026-11-25: [Official current programme](https://dzanga-sangha.org/visit-dzanga-sangha/what-to-do-in-dzanga-sangha/) documents Limo group's tourism opening in 2025 and small guided groups. Compare Ngaga, Loango, Bwindi and Volcanoes; specialized lowland ape viewing supports 9.6 provisionally. Not a current travel recommendation.
+
 
 ## sight-cf-mongambe-gorilla-tracking — Mongambe Gorilla Tracking — 2026-11-25
 
-- [YAML](../../../countries/CF/sights/mongambe-gorilla-tracking.yaml) · Action: new · **source-linked-unverified**.
+- [YAML](../../../countries/CF/sights/mongambe-gorilla-tracking.yaml) · Action: new · **unassessed**.
 - Scope: separate named tracking sector. GPS 2.93, 16.32: approximate editorial region/site point; exact location unverified.
 - Worldwide peers (I/U/S/E/D):
-  - [Mount Huangshan (Yellow Mountain) (CN)](../../../countries/CN/sights/mount-huangshan.yaml) — 9.9 / 9.9 / 9.6 / 9.8 / 9.3 (97.65/100); upper anchor; lower impact (forest gorilla encounters); lower uniqueness (specialized western lowland gorilla tracking); lower significance (conservation context); lower experience (small-group guided tracking under normal conditions); lower depth (bounded routes).
-  - [Phong Nha Ke Bang National Park (VN)](../../../countries/VN/sights/phong-nha-ke-bang-national-park.yaml) — 9.8 / 9.9 / 9.7 / 9.7 / 9.8 (97.90/100); related comparison; lower impact (forest gorilla encounters); lower uniqueness (specialized western lowland gorilla tracking); lower significance (conservation context); lower experience (small-group guided tracking under normal conditions); lower depth (bounded routes).
-  - [Khao Sok National Park (TH)](../../../countries/TH/sights/khao-sok-national-park.yaml) — 9.4 / 9.4 / 9.1 / 9.4 / 9.3 (93.30/100); related comparison; lower impact (forest gorilla encounters); lower uniqueness (specialized western lowland gorilla tracking); lower significance (conservation context); lower experience (small-group guided tracking under normal conditions); lower depth (bounded routes).
-  - [Dibeen Forest Reserve (JO)](../../../countries/JO/sights/dibeen-forest-reserve.yaml) — 7.5 / 7.6 / 8.1 / 7.8 / 7.5 (76.90/100); bounded reference; higher impact (forest gorilla encounters); higher uniqueness (specialized western lowland gorilla tracking); higher significance (conservation context); higher experience (small-group guided tracking under normal conditions); higher depth (bounded routes).
-- Impact 9.1: forest gorilla encounters.
+  - [Mount Huangshan (Yellow Mountain) (CN)](../../../countries/CN/sights/mount-huangshan.yaml) — 9.9 / 9.9 / 9.6 / 9.8 / 9.3 (97.65/100); upper anchor; unresolved impact (current visitor encounters unconfirmed); lower uniqueness (specialized western lowland gorilla tracking); lower significance (conservation context); unresolved experience (camp resumption unconfirmed); unresolved depth (operating routes unconfirmed).
+  - [Phong Nha Ke Bang National Park (VN)](../../../countries/VN/sights/phong-nha-ke-bang-national-park.yaml) — 9.8 / 9.9 / 9.7 / 9.7 / 9.8 (97.90/100); related comparison; unresolved impact (current visitor encounters unconfirmed); lower uniqueness (specialized western lowland gorilla tracking); lower significance (conservation context); unresolved experience (camp resumption unconfirmed); unresolved depth (operating routes unconfirmed).
+  - [Khao Sok National Park (TH)](../../../countries/TH/sights/khao-sok-national-park.yaml) — 9.4 / 9.4 / 9.1 / 9.4 / 9.3 (93.30/100); related comparison; unresolved impact (current visitor encounters unconfirmed); lower uniqueness (specialized western lowland gorilla tracking); lower significance (conservation context); unresolved experience (camp resumption unconfirmed); unresolved depth (operating routes unconfirmed).
+  - [Dibeen Forest Reserve (JO)](../../../countries/JO/sights/dibeen-forest-reserve.yaml) — 7.5 / 7.6 / 8.1 / 7.8 / 7.5 (76.90/100); bounded reference; unresolved impact (current visitor encounters unconfirmed); higher uniqueness (specialized western lowland gorilla tracking); higher significance (conservation context); unresolved experience (camp resumption unconfirmed); unresolved depth (operating routes unconfirmed).
+- Impact null: current normal tracking encounter unestablished.
 - Uniqueness 9.3: specialized western lowland gorilla tracking.
 - Significance 9.0: conservation context.
-- Experience 8.8: small-group guided tracking under normal conditions.
-- Depth 7.6: bounded routes.
-- Categories: wildlife:9.5, adventure:9.0, nature:9.2. Overall: 89.35/100.
-- High-score challenge: Wildlife 9.5 reflects documented habituated gorilla tracking, not broader park breadth or guaranteed encounter.. No approved 10.
+- Experience null: resumption of ordinary supervised tracking at this particular camp not confirmed.
+- Depth null: ordinary operating route scope unconfirmed.
+- Categories: wildlife:null, adventure:null, nature:9.2. Overall: unranked.
+- High-score challenge: Not applicable following reassessment. No approved 10.
 - Evidence: [Reference](https://dzanga-sangha.org/visit-dzanga-sangha/what-to-do-in-dzanga-sangha/) — Opened operator page describes Bayanga fishing settlement, Bai Hokou and Mongambe gorilla tracking, Mossapoula canoe visit. https://dzanga-sangha.org/visit-dzanga-sangha/ search excerpt identifies Dzanga Bai. Operator claims not independent verification or current access guarantee.; inspected as page or excerpt 2026-11-25. Full claim-level verification incomplete.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, visitor access and individual peer/category calibration.
+- Follow-up 2026-11-25: Former overall 89.35, impact 9.1, experience 8.8, depth 7.6, wildlife 9.5, adventure 9.0. The [May 2024 official newsletter](https://dzanga-sangha.org/wp-content/uploads/2024/06/DSPA-newsletter-May-2024.pdf) reports temporary closure of Mongambe; [January 2026 programme newsletter](https://dzanga-sangha.org/wp-content/uploads/2026/03/Newsletter-Jan-26.pdf) and current detailed activity page identify resumed tourism with Limo at Bai Hokou. Generic promotional itineraries still mention Mongambe, so site-specific resumption is unresolved, not proven permanently closed. Reassess on confirmation.
+
 
 ## sight-cf-mossapoula-river-canoe-excursion — Mossapoula River Canoe Excursion — 2026-11-25
 
@@ -305,6 +318,8 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Reference](https://whc.unesco.org/en/tentativelists/4009/) — Opened submission describes mammal habitat and forest; malformed latitude range not adopted literally.; inspected as page or excerpt 2026-11-25. Full claim-level verification incomplete.
 - Remaining gaps: Normal permitted visitor experience, scope and current conditions not established.
+- Follow-up 2026-11-25: [UNESCO nomination](https://whc.unesco.org/en/tentativelists/4009/) and [Protected Planet Ramsar listing](https://www.protectedplanet.net/902803?locale=en) distinguish protected forest from wetland designation; national park naming also used. Scope and boundary equivalence need further confirmation.
+
 
 ## sight-cf-bangui-hill-plain-ubangi-river-and-colonial-heritage-tentative-property — Bangui Hill, Plain, Ubangi River and Colonial Heritage (tentative property) — 2026-11-25
 
@@ -457,3 +472,22 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Reference](https://www.usrcaembassy.org/tourism) — Embassy search excerpt identifies named attractions and Bangui river setting; full page unavailable. Boali geographic reference https://mapcarta.com/fr/17123114.; inspected as page or excerpt 2026-11-25. Full claim-level verification incomplete.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, visitor access and individual peer/category calibration.
+
+## sight-cf-andre-felix-national-park — André Félix National Park — 2026-11-25
+
+- [YAML](../../../countries/CF/sights/andre-felix-national-park.yaml) · Action: new · **unassessed**.
+- Scope: nationally designated northeastern park, not the larger KBA complex. GPS 9.440883, 23.343796: [GeoNames named park](https://www.geonames.org/search.html?country=CF&q=&startRow=450); representative point, not entrance.
+- Worldwide peers (I/U/S/E/D):
+  - [Mount Huangshan (Yellow Mountain) (CN)](../../../countries/CN/sights/mount-huangshan.yaml) — 9.9 / 9.9 / 9.6 / 9.8 / 9.3 (97.65/100); established landscape anchor, different ecosystems.
+  - [Phong Nha Ke Bang National Park (VN)](../../../countries/VN/sights/phong-nha-ke-bang-national-park.yaml) — 9.8 / 9.9 / 9.7 / 9.7 / 9.8 (97.90/100); international conservation anchor with documented visitor routes.
+  - [Khao Sok National Park (TH)](../../../countries/TH/sights/khao-sok-national-park.yaml) — 9.4 / 9.4 / 9.1 / 9.4 / 9.3 (93.30/100); established protected landscape visits, different habitat.
+  - [Dibeen Forest Reserve (JO)](../../../countries/JO/sights/dibeen-forest-reserve.yaml) — 7.5 / 7.6 / 8.1 / 7.8 / 7.5 (76.90/100); bounded protected area comparison, lower regional savanna significance.
+- Impact null: ordinary permitted visitor impact unresolved.
+- Uniqueness 8.4: regional northeastern woodland and savanna habitat.
+- Significance 8.9: protected area and biodiversity complex of conservation interest.
+- Experience null: ordinary permitted visitor itinerary unestablished.
+- Depth null: verified visitor scope unknown.
+- Categories: nature:8.8, wildlife:null. Overall: unranked.
+- High-score challenge: Not applicable. No approved 10.
+- Evidence: [Protected Planet](https://www.protectedplanet.net/2258) confirms national park designation; [KBA factsheet](https://www.keybiodiversityareas.org/en/site/factsheet/6076) describes larger complex. [FCDO](https://www.gov.uk/foreign-travel-advice/central-african-republic) advises against travel outside Bangui. Checked 2026-11-25; not full factual verification.
+- Remaining gaps: current ecology, boundary, permitted visitor scope and closer peer calibration.
