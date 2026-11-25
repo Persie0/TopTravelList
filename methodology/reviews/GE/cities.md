@@ -451,3 +451,7 @@
 - Final decision: Village walks and tower views; Small settlement; excludes wider Tusheti. Retain provisional worldwide editorial rating.
 - Verification still needed: independently confirm location and all material scope/visitor claims.
 
+## Follow-up: city-ge-omalo — 2026-11-25
+
+- [YAML](../../../countries/GE/cities/omalo.yaml) · Action: rescore · **source-linked-unverified**. [Tusheti Protected Landscape](https://www.tushetipl.ge/en/article/1) identifies Upper and Lower Omalo and Keselo Castle; [Agency of Protected Areas](https://apa.gov.ge/en/eco-tourism/Trails/tushetis-turistuli-bilikebi-satesto/2-keselo-que) documents the village-to-fortress route, ethnographic museum and visitor center. Sources inspected 2026-11-25. Raise depth 6.6 → 7.0 for actual village heritage and interpretation, excluding remote Tusheti treks and other villages. Retain impact 7.8, uniqueness 8.0, significance 7.1 and experience 7.7. Overall 75.75 → 76.15.
+- Live city peers: [Hallstatt (AT)](../../../countries/AT/cities/hallstatt.yaml) 8.3/8.4/8.1/8.2/7.6, more iconic settlement; [Khinalig (AZ)](../../../countries/AZ/cities/khinalig.yaml) 8.8/9.3/8.7/8.6/7.4, greater vernacular distinctiveness; [Ha Giang (VN)](../../../countries/VN/cities/ha-giang.yaml) 7.9/8.2/8.2/8.3/8.5, larger urban experience; [Kharkhorin (MN)](../../../countries/MN/cities/kharkhorin.yaml) 7.2/8.0/8.6/7.6/6.9, greater historic significance but similarly focused settlement depth. GPS and categories unchanged; no exceptional fields. Seasonal access and exact visitor scope remain provisional.
