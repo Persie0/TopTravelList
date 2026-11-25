@@ -761,3 +761,48 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: No individually inspected source; editorial knowledge only.
 - Remaining gaps: Independent factual, GPS, category and specialist peer verification.
+
+## Follow-up: sight-az-gobustan-rock-art-cultural-landscape — 2026-11-25 (worldwide review)
+
+- [YAML](../../../countries/AZ/sights/gobustan-rock-art-cultural-landscape.yaml) · Action: rescore · **source-linked-unverified**; targeted source excerpts inspected, full verification outstanding.
+- Sources inspected: [https://whc.unesco.org/en/list/1076/](https://whc.unesco.org/en/list/1076/); [https://azerbaijan.travel/discover-gobustans-ancient-rock-art](https://azerbaijan.travel/discover-gobustans-ancient-rock-art).
+- Decision: UNESCO identifies three separate rocky areas and singles out Boyukdash as the most visited. Retain global prehistoric significance and rarity. Depth 8.0 reflects the museum and interpreted panel routes rather than assuming ordinary exploration of all three archaeological areas; no transfer of nearby mud volcanoes.
+- I/U/S/E/D: 8.6 / 9.4 / 9.5 / 8.6 / 8.7 → 8.6 / 9.4 / 9.5 / 8.6 / 8.0; overall 89.90 → 89.20/100. GPS unchanged; no new perfect score or multiplier.
+
+| Current worldwide peer | I/U/S/E/D | Overall /100 | Comparison |
+| --- | --- | --- | --- |
+| [joya de ceren archaeological site (SV)](../../../countries/SV/sights/joya-de-ceren-archaeological-site.yaml) | 8.6 / 9.6 / 9.6 / 8.4 / 8.1 | 89.70 | Rare preserved archaeology with bounded visitor circuit. |
+| [niah caves archaeological complex (MY)](../../../countries/MY/sights/niah-caves-archaeological-complex.yaml) | 9.0 / 9.4 / 9.6 / 8.8 / 8.8 | 91.70 | Broader interpreted cave landscape. |
+| [qalat al bahrain archaeological site (BH)](../../../countries/BH/sights/qalat-al-bahrain-archaeological-site.yaml) | 8.8 / 9.0 / 9.4 / 8.8 / 8.7 | 89.60 | Coherent multi-period archaeological site. |
+| [petra archaeological park (JO)](../../../countries/JO/sights/petra-archaeological-park.yaml) | 9.9 / 9.9 / 9.9 / 9.8 / 9.9 | 98.85 | Much broader monumental archaeological landscape. |
+
+
+## Follow-up: sight-az-sheki-khan-palace — 2026-11-25 (worldwide review)
+
+- [YAML](../../../countries/AZ/sights/sheki-khan-palace.yaml) · Action: rescore · **source-linked-unverified**; targeted source excerpts inspected, full verification outstanding.
+- Sources inspected: [https://azerbaijan.travel/take-tour-khans-palace-sheki](https://azerbaijan.travel/take-tour-khans-palace-sheki); [https://special.azertag.az/en/xeber/1230932](https://special.azertag.az/en/xeber/1230932); [https://wander-lush.org/visit-sheki-khan-palace-azerbaijan/](https://wander-lush.org/visit-sheki-khan-palace-azerbaijan/).
+- Decision: Official tourism confirms exceptional stained-glass craftsmanship; the state news agency and a recent visitor account describe prohibited interior photography. Architecture 9.5 remains defensible. Photography 8.5 reflects the exterior and courtyard instead of assuming photos of the richly decorated interior; overall unchanged. Verify current photography rules on arrival.
+- I/U/S/E/D: 8.9 / 9.3 / 9.1 / 8.6 / 7.2 → 8.9 / 9.3 / 9.1 / 8.6 / 7.2; overall 88.25 → 88.25/100. GPS unchanged; no new perfect score or multiplier.
+
+| Current worldwide peer | I/U/S/E/D | Overall /100 | Comparison |
+| --- | --- | --- | --- |
+| [schoenbrunn palace (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) | 9.4 / 9.3 / 9.6 / 9.5 / 9.3 | 94.20 | Far larger palace, photography 8.6. |
+| [melk abbey (AT)](../../../countries/AT/sights/melk-abbey.yaml) | 9.0 / 9.2 / 9.3 / 9.2 / 8.7 | 91.10 | Broader architectural circuit and photography 8.8. |
+| [sistine chapel (VA)](../../../countries/VA/sights/sistine-chapel.yaml) | 9.9 / 9.9 / 9.9 / 9.1 / 7.8 | 95.70 | Exceptional artistic merit distinct from photography, which is omitted. |
+| [raphael rooms (VA)](../../../countries/VA/sights/raphael-rooms.yaml) | 9.5 / 9.6 / 9.7 / 9.0 / 8.1 | 93.50 | More historically important interior art; narrower than whole museum. |
+
+
+## Follow-up: sight-az-walled-city-of-baku-with-shirvanshah-palace-and-maiden-tower — 2026-11-25 (worldwide review)
+
+- [YAML](../../../countries/AZ/sights/walled-city-of-baku-with-shirvanshah-palace-and-maiden-tower.yaml) · Action: fact-check-only · **source-linked-unverified**; targeted source excerpts inspected, full verification outstanding.
+- Sources inspected: [https://whc.unesco.org/en/list/958/](https://whc.unesco.org/en/list/958/).
+- Decision: Retain provisionally for a coherent fortified urban ensemble with several monuments, not all of Baku. UNESCO establishes the layered urban heritage; the exceptional architecture and history are editorial comparisons, not automatic inscription bonuses. Exact public interior access and photographic evidence remain outstanding.
+- I/U/S/E/D: 9.2 / 9.4 / 9.4 / 9.3 / 9.2 → 9.2 / 9.4 / 9.4 / 9.3 / 9.2; overall 93.05 → 93.05/100. GPS unchanged; no new perfect score or multiplier.
+
+| Current worldwide peer | I/U/S/E/D | Overall /100 | Comparison |
+| --- | --- | --- | --- |
+| [san marino historic centre and mount titano (SM)](../../../countries/SM/sights/san-marino-historic-centre-and-mount-titano.yaml) | 9.1 / 9.2 / 9.2 / 9.0 / 8.6 | 90.80 | Comparable historic precinct with less breadth. |
+| [kotor old town (ME)](../../../countries/ME/sights/kotor-old-town.yaml) | 9.1 / 9.2 / 9.2 / 9.1 / 8.7 | 91.05 | Comparable fortified town with different architecture. |
+| [petra archaeological park (JO)](../../../countries/JO/sights/petra-archaeological-park.yaml) | 9.9 / 9.9 / 9.9 / 9.8 / 9.9 | 98.85 | World-leading broader archaeological ensemble. |
+| [qalat al bahrain archaeological site (BH)](../../../countries/BH/sights/qalat-al-bahrain-archaeological-site.yaml) | 8.8 / 9.0 / 9.4 / 8.8 / 8.7 | 89.60 | Different historic urban archaeology, narrower visit. |
+
