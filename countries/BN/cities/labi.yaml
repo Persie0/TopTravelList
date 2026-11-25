@@ -1,0 +1,15 @@
+id: city-bn-labi
+name: "Labi"
+location:
+  country_code: BN
+  latitude: 4.38947
+  longitude: 114.46030
+scores:
+  impact: 6.3
+  uniqueness: 7.1
+  significance: 6.5
+  experience: 7.0
+  depth: 6.4
+  categories:
+    culture: 7.7
+    relaxation: 7.4

@@ -1,0 +1,15 @@
+id: sight-bn-berakas-forest-recreation-park
+name: "Berakas Forest Recreation Park"
+location:
+  country_code: BN
+  latitude: 4.98468
+  longitude: 114.92202
+scores:
+  impact: 7.5
+  uniqueness: 7.5
+  significance: 7.1
+  experience: 8.0
+  depth: 7.7
+  categories:
+    nature: 8.4
+    relaxation: 8.3

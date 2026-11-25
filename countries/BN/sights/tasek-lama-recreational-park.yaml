@@ -1,0 +1,16 @@
+id: sight-bn-tasek-lama-recreational-park
+name: "Tasek Lama Recreational Park"
+location:
+  country_code: BN
+  latitude: 4.9027
+  longitude: 114.9456
+scores:
+  impact: 7.7
+  uniqueness: 7.7
+  significance: 6.8
+  experience: 8.2
+  depth: 7.8
+  categories:
+    nature: 8.5
+    adventure: 8.1
+    relaxation: 8.2

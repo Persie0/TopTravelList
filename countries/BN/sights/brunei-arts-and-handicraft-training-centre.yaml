@@ -1,0 +1,14 @@
+id: sight-bn-brunei-arts-and-handicraft-training-centre
+name: "Brunei Arts and Handicraft Training Centre"
+location:
+  country_code: BN
+  latitude: 4.8830
+  longitude: 114.9500
+scores:
+  impact: 6.8
+  uniqueness: 7.4
+  significance: 7.0
+  experience: 7.5
+  depth: 6.7
+  categories:
+    culture: 8.2

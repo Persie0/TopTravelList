@@ -1,0 +1,15 @@
+id: sight-bn-sultan-bolkiah-mausoleum
+name: "Sultan Bolkiah Mausoleum"
+location:
+  country_code: BN
+  latitude: 4.8748
+  longitude: 114.9742
+scores:
+  impact: 7.3
+  uniqueness: 7.9
+  significance: 8.6
+  experience: 7.6
+  depth: 6.8
+  categories:
+    history: 9.0
+    culture: 8.3

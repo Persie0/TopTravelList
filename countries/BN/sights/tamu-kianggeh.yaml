@@ -1,0 +1,15 @@
+id: sight-bn-tamu-kianggeh
+name: "Tamu Kianggeh"
+location:
+  country_code: BN
+  latitude: 4.8900
+  longitude: 114.9450
+scores:
+  impact: 7.2
+  uniqueness: 7.4
+  significance: 7.1
+  experience: 8.0
+  depth: 7.2
+  categories:
+    food: 8.3
+    culture: 8.0

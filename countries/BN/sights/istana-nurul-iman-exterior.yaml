@@ -1,0 +1,15 @@
+id: sight-bn-istana-nurul-iman-exterior
+name: "Istana Nurul Iman Exterior"
+location:
+  country_code: BN
+  latitude: 4.8666
+  longitude: 114.9214
+scores:
+  impact: 7.8
+  uniqueness: 8.3
+  significance: 8.2
+  experience: 6.8
+  depth: 6.2
+  categories:
+    architecture: 8.8
+    history: 8.2

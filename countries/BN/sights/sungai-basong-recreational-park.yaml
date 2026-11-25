@@ -1,0 +1,16 @@
+id: sight-bn-sungai-basong-recreational-park
+name: "Sungai Basong Recreational Park"
+location:
+  country_code: BN
+  latitude: 4.7960
+  longitude: 114.6680
+scores:
+  impact: 7.1
+  uniqueness: 7.4
+  significance: 7.3
+  experience: 7.7
+  depth: 7.2
+  categories:
+    culture: 8.0
+    nature: 8.0
+    relaxation: 8.0

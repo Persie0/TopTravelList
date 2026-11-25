@@ -1,0 +1,15 @@
+id: sight-bn-billionth-barrel-monument
+name: "Billionth Barrel Monument"
+location:
+  country_code: BN
+  latitude: 4.6150
+  longitude: 114.3330
+scores:
+  impact: 7.1
+  uniqueness: 7.7
+  significance: 8.2
+  experience: 7.3
+  depth: 6.4
+  categories:
+    history: 8.6
+    photography: 7.8

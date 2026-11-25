@@ -1,0 +1,14 @@
+id: city-bn-seria
+name: "Seria"
+location:
+  country_code: BN
+  latitude: 4.6067
+  longitude: 114.3248
+scores:
+  impact: 6.3
+  uniqueness: 7.1
+  significance: 7.6
+  experience: 6.9
+  depth: 6.6
+  categories:
+    history: 8.0
