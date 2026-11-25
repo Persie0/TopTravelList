@@ -8,22 +8,22 @@
 
 This is the **complete ranking for this country's available dataset**, using absolute worldwide scores, **not country-relative scores**. Overall scores are out of 100; category scores are out of 10 and shown highest first (the top three are bold). Types are inferred from names, not separately verified.
 
-**Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, or click its GPS coordinates to open **Google Maps**. Locations are approximate representative points, not necessarily entrance coordinates.
+**Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
 ## Complete ranked list (10)
 
-| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps |
-| ---: | --- | --- | ---: | --- | --- | --- |
-| 1 | [Djibouti City](cities/djibouti-city.yaml) | City / town | **77.60** | **Culture 8.5**, **Food 8.3**, **History 8.3**, Architecture 7.9 | 7.5 / 7.9 / 8.1 / 7.7 / 7.6 | [11.588, 43.145](https://www.google.com/maps/search/?api=1&query=11.588,43.145) |
-| 2 | [Tadjourah](cities/tadjourah.yaml) | City / town | **77.00** | **Culture 8.5**, **Photography 8.4**, **History 8.2** | 7.7 / 8.1 / 7.6 / 7.9 / 6.6 | [11.785, 42.884](https://www.google.com/maps/search/?api=1&query=11.785,42.884) |
-| 3 | [Obock](cities/obock.yaml) | City / town | **72.15** | **History 8.4**, **Culture 8.0**, **Photography 7.8** | 6.9 / 7.6 / 7.8 / 7.1 / 6.2 | [11.967, 43.288](https://www.google.com/maps/search/?api=1&query=11.967,43.288) |
-| 4 | [Arta](cities/arta.yaml) | City / town | **69.75** | **Photography 8.1**, **Culture 7.5** | 7.0 / 7.4 / 6.6 / 7.3 / 6.1 | [11.526, 42.851](https://www.google.com/maps/search/?api=1&query=11.526,42.851) |
-| 5 | [Randa](cities/randa.yaml) | City / town | **69.30** | **Culture 8.0**, **Photography 7.9** | 6.9 / 7.6 / 6.5 / 7.2 / 5.8 | [11.849, 42.663](https://www.google.com/maps/search/?api=1&query=11.849,42.663) |
-| 6 | [Dikhil](cities/dikhil.yaml) | City / town | **67.45** | **Culture 7.7**, **Photography 7.5** | 6.4 / 7.1 / 6.8 / 7.2 / 6.1 | [11.105, 42.37](https://www.google.com/maps/search/?api=1&query=11.105,42.37) |
-| 7 | [Ali Sabieh](cities/ali-sabieh.yaml) | City / town | **67.10** | **Culture 7.6**, **History 7.6** | 6.3 / 6.9 / 7.0 / 7.1 / 6.3 | [11.155, 42.713](https://www.google.com/maps/search/?api=1&query=11.155,42.713) |
-| 8 | [Holhol](cities/holhol.yaml) | City / town | **66.45** | **Photography 7.6**, **History 7.5**, **Culture 7.4** | 6.4 / 7.1 / 6.6 / 7.0 / 5.8 | [11.31, 42.929](https://www.google.com/maps/search/?api=1&query=11.31,42.929) |
-| 9 | [As Eyla](cities/as-eyla.yaml) | City / town | **64.75** | **Culture 7.5**, **Photography 7.3** | 6.2 / 7.0 / 6.3 / 6.9 / 5.7 | [11.001, 42.104](https://www.google.com/maps/search/?api=1&query=11.001,42.104) |
-| 10 | [Loyada](cities/loyada.yaml) | City / town | **62.60** | **Culture 7.1**, **History 7.0** | 6.0 / 6.5 / 6.5 / 6.5 / 5.6 | [11.461, 43.255](https://www.google.com/maps/search/?api=1&query=11.461,43.255) |
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Djibouti City](cities/djibouti-city.yaml) | City / town | **77.60** | **Culture 8.5**, **Food 8.3**, **History 8.3**, Architecture 7.9 | 7.5 / 7.9 / 8.1 / 7.7 / 7.6 | [11.588, 43.145](https://www.google.com/maps/search/?api=1&query=11.588,43.145) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Djibouti%20City%2C%20Djibouti) |
+| 2 | [Tadjourah](cities/tadjourah.yaml) | City / town | **77.00** | **Culture 8.5**, **Photography 8.4**, **History 8.2** | 7.7 / 8.1 / 7.6 / 7.9 / 6.6 | [11.785, 42.884](https://www.google.com/maps/search/?api=1&query=11.785,42.884) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tadjourah%2C%20Djibouti) |
+| 3 | [Obock](cities/obock.yaml) | City / town | **72.15** | **History 8.4**, **Culture 8.0**, **Photography 7.8** | 6.9 / 7.6 / 7.8 / 7.1 / 6.2 | [11.967, 43.288](https://www.google.com/maps/search/?api=1&query=11.967,43.288) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Obock%2C%20Djibouti) |
+| 4 | [Arta](cities/arta.yaml) | City / town | **69.75** | **Photography 8.1**, **Culture 7.5** | 7.0 / 7.4 / 6.6 / 7.3 / 6.1 | [11.526, 42.851](https://www.google.com/maps/search/?api=1&query=11.526,42.851) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Arta%2C%20Djibouti) |
+| 5 | [Randa](cities/randa.yaml) | City / town | **69.30** | **Culture 8.0**, **Photography 7.9** | 6.9 / 7.6 / 6.5 / 7.2 / 5.8 | [11.849, 42.663](https://www.google.com/maps/search/?api=1&query=11.849,42.663) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Randa%2C%20Djibouti) |
+| 6 | [Dikhil](cities/dikhil.yaml) | City / town | **67.45** | **Culture 7.7**, **Photography 7.5** | 6.4 / 7.1 / 6.8 / 7.2 / 6.1 | [11.105, 42.37](https://www.google.com/maps/search/?api=1&query=11.105,42.37) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Dikhil%2C%20Djibouti) |
+| 7 | [Ali Sabieh](cities/ali-sabieh.yaml) | City / town | **67.10** | **Culture 7.6**, **History 7.6** | 6.3 / 6.9 / 7.0 / 7.1 / 6.3 | [11.155, 42.713](https://www.google.com/maps/search/?api=1&query=11.155,42.713) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ali%20Sabieh%2C%20Djibouti) |
+| 8 | [Holhol](cities/holhol.yaml) | City / town | **66.45** | **Photography 7.6**, **History 7.5**, **Culture 7.4** | 6.4 / 7.1 / 6.6 / 7.0 / 5.8 | [11.31, 42.929](https://www.google.com/maps/search/?api=1&query=11.31,42.929) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Holhol%2C%20Djibouti) |
+| 9 | [As Eyla](cities/as-eyla.yaml) | City / town | **64.75** | **Culture 7.5**, **Photography 7.3** | 6.2 / 7.0 / 6.3 / 6.9 / 5.7 | [11.001, 42.104](https://www.google.com/maps/search/?api=1&query=11.001,42.104) | [Google Maps](https://www.google.com/maps/search/?api=1&query=As%20Eyla%2C%20Djibouti) |
+| 10 | [Loyada](cities/loyada.yaml) | City / town | **62.60** | **Culture 7.1**, **History 7.0** | 6.0 / 6.5 / 6.5 / 6.5 / 5.6 | [11.461, 43.255](https://www.google.com/maps/search/?api=1&query=11.461,43.255) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Loyada%2C%20Djibouti) |
 
 ---
 

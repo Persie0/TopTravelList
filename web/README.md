@@ -12,3 +12,5 @@ Link Persie0/TopTravelList, Root Directory web, enable Include source files outs
 Ranks are competition ranks within the selected country/region and city/sight scope, computed before search and minimum-score filtering. Overall scores use the canonical weighted sum (0–100); categories and dimensions use 0–10. Explicit null ratings remain unassessed; omitted categories are inapplicable and excluded from category rankings. Country coverage is not a country score. Map borders are geographic reference only; coordinates are representative. City/sight types are inferred from names. The original YAML and ranking Markdown are linked from destination details.
 
 The combined city/sight view is the default. See [performance and visualization notes](README-performance.md). Exact decimal arithmetic is build-only; the client uses exported scores.
+
+Every result and destination detail has a Google Maps search link using the destination name and country. Detail views retain a separate representative GPS link; country-directory results search the country name.
