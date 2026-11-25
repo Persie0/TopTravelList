@@ -2083,3 +2083,114 @@ All 23 tentative nominations now have a named record or a named component (Cuetz
 
 ### Follow-up coverage clarification
 Prehistoric caves now have a reservation-based rating; Mitla and Yagul archaeological cities separately scoped. Other broad nominations and restricted sites remain unresolved.
+
+## sight-mx-tepoztlan-nativity-convent — Former Convent of the Nativity, Tepoztlán — 2026-11-25
+
+- YAML: [source](../../../countries/MX/sights/tepoztlan-nativity-convent.yaml)
+- Action: new
+- Precise subject: Individual inscribed convent and public museum, not entire monastery serial property.
+- Location check: 18.985994, -99.09945; INAH identifies functioning parish and historical museum with five exhibition rooms; UNESCO component coordinate.
+- Evidence status: **source-linked-unverified**
+- Evidence: [INAH 1](https://lugares.inah.gob.mx/es/node/4327); [INAH 2](https://www.inah.gob.mx/museos/museo-ex-convento-de-tepoztlan-museo-de-la-natividad); [UNESCO 3](https://whc.unesco.org/en/list/702/maps/) — reviewed 2026-11-25. INAH identifies functioning parish and historical museum with five exhibition rooms; UNESCO component coordinate. Not all claims independently verified.
+- Missing or uncertain facts: Independent corroboration and current permitted visitor conditions; exact point where approximate.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Hohensalzburg](../../../countries/AT/sights/hohensalzburg-fortress.yaml) | Less monumental than Hohensalzburg |
+| [Bridgetown Garrison](../../../countries/BB/sights/historic-bridgetown-and-its-garrison.yaml) | more concentrated religious history than Garrison |
+| [Pigeon Island](../../../countries/LC/sights/pigeon-island-national-landmark.yaml) | greater sacred architectural depth than Pigeon Island |
+| [Fort Hamilton](../../../countries/VC/sights/fort-hamilton-bequia.yaml) | more interior interpretation than Fort Hamilton. |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.2 | Stone monastic complex and courtyard |
+| Uniqueness | 8.5 | distinct early regional convent plan |
+| Significance | 8.9 | important religious and Indigenous colonial history |
+| Experience | 8.3 | museum and authorized architectural visit |
+| Depth | 7.8 | several rooms and courtyard. |
+
+- Applicable categories: architecture:9.0,history:9.1,culture:8.8.
+- Overall: 83.90/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial score for documented public scope only.
+- Earlier decision: None.
+- Verification still needed: Independent claim-level verification and current access.
+
+
+## sight-mx-huejotzingo-san-miguel-convent — Former Convent of Saint Michael, Huejotzingo — 2026-11-25
+
+- YAML: [source](../../../countries/MX/sights/huejotzingo-san-miguel-convent.yaml)
+- Action: new
+- Precise subject: Individual inscribed convent and evangelization museum; authorized public areas.
+- Location check: 19.158728, -98.404783; INAH describes church, atrium, open chapel and convent; UNESCO reference point, not entrance.
+- Evidence status: **source-linked-unverified**
+- Evidence: [INAH 1](https://lugares.inah.gob.mx/es/node/4282); [INAH 2](https://lugares.inah.gob.mx/es/node/4885); [UNESCO 3](https://whc.unesco.org/en/list/702/maps/) — reviewed 2026-11-25. INAH describes church, atrium, open chapel and convent; UNESCO reference point, not entrance. Not all claims independently verified.
+- Missing or uncertain facts: Independent corroboration and current permitted visitor conditions; exact point where approximate.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Hohensalzburg](../../../countries/AT/sights/hohensalzburg-fortress.yaml) | Less fortress mass than Hohensalzburg |
+| [Bridgetown Garrison](../../../countries/BB/sights/historic-bridgetown-and-its-garrison.yaml) | different sacred architecture from Garrison |
+| [Pigeon Island](../../../countries/LC/sights/pigeon-island-national-landmark.yaml) | more church architecture than Pigeon Island |
+| [Fort Hamilton](../../../countries/VC/sights/fort-hamilton-bequia.yaml) | broader built scope than Fort Hamilton. |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.4 | Large atrium and monastic architecture |
+| Uniqueness | 8.7 | distinct early Franciscan ensemble |
+| Significance | 9.0 | important colonial religious history and Indigenous labor context |
+| Experience | 8.2 | museum and courtyard experience |
+| Depth | 8.0 | several linked built spaces. |
+
+- Applicable categories: architecture:9.2,history:9.2,culture:8.9.
+- Overall: 85.25/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial score for documented public scope only.
+- Earlier decision: None.
+- Verification still needed: Independent claim-level verification and current access.
+
+
+## sight-mx-tlaxcala-franciscan-convent — Franciscan Convent and Cathedral of Tlaxcala — 2026-11-25
+
+- YAML: [source](../../../countries/MX/sights/tlaxcala-franciscan-convent.yaml)
+- Action: new
+- Precise subject: 2021 extension component: cathedral ensemble and regional museum, permitted areas only.
+- Location check: 19.313983, -98.237658; INAH documents regional museum and courtyard; UNESCO extension component coordinate.
+- Evidence status: **source-linked-unverified**
+- Evidence: [INAH 1](https://lugares.inah.gob.mx/es/node/4257); [INAH 2](https://lugares.inah.gob.mx/es/node/5188); [UNESCO 3](https://whc.unesco.org/en/list/702/maps/) — reviewed 2026-11-25. INAH documents regional museum and courtyard; UNESCO extension component coordinate. Not all claims independently verified.
+- Missing or uncertain facts: Independent corroboration and current permitted visitor conditions; exact point where approximate.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Hohensalzburg](../../../countries/AT/sights/hohensalzburg-fortress.yaml) | Less castle monumentality than Hohensalzburg |
+| [Bridgetown Garrison](../../../countries/BB/sights/historic-bridgetown-and-its-garrison.yaml) | different religious institutional scope from Garrison |
+| [Pigeon Island](../../../countries/LC/sights/pigeon-island-national-landmark.yaml) | more interior interpretation than Pigeon Island |
+| [Fort Hamilton](../../../countries/VC/sights/fort-hamilton-bequia.yaml) | broader museum scope than Fort Hamilton. |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.4 | Historic courtyard and religious architecture |
+| Uniqueness | 8.6 | distinct surviving early Franciscan ensemble |
+| Significance | 9.0 | major colonial and Indigenous history |
+| Experience | 8.4 | museum and religious architecture visit |
+| Depth | 8.1 | multiple exhibition rooms and public spaces. |
+
+- Applicable categories: architecture:9.1,history:9.2,culture:9.0.
+- Overall: 85.40/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial score for documented public scope only.
+- Earlier decision: None.
+- Verification still needed: Independent claim-level verification and current access.
+
+
+### Further component coverage (2026-11-25)
+Three of fifteen Popocatépetl monastery components now individually rated. The [official 15-component list](https://whc.unesco.org/en/list/702/maps/) identifies the other twelve: Saint Matthew, Cuernavaca Cathedral, Santo Domingo Hueyapan, Santo Domingo Oaxtepec, Saint James, Saint John Tetela, Saint John Tlayacapan, Saint William, Saint John Yecapixtla, Immaculate Conception, Saint Andrew, Assumption of Our Lady (Tochimilco). Site-specific visitor scope/earthquake restoration still to be verified; no aggregate score for the serial property.

@@ -532,38 +532,38 @@ Initial inventory, not exhaustive. [UNESCO country list](https://whc.unesco.org/
 ## sight-gt-naranjo-saaal — Naranjo Sa’aal Archaeological Site — 2026-11-25
 
 - YAML: [source](../../../countries/GT/sights/naranjo-saaal.yaml)
-- Action: new
-- Precise subject: Tentative royal Maya city; UNESCO reference coordinate. Government reporting of June 18, 2026 confirms visits are possible, but ordinary route and visible scope need separate verification.
-- Location check: 17.133636, -89.260917; approximate representative point, not surveyed entrance; independent verification outstanding. Do not navigate to restricted sites using this point.
-- Evidence status: **unassessed**
-- Evidence: [UNESCO World Heritage Centre](https://whc.unesco.org/en/tentativelists/6623/) — search excerpts or page text consulted 2026-11-25 for identity/context; precise factual claims and GPS not fully verified.
-- Additional evidence: [Guatemala Ministry of Culture and Sports, June 18, 2026](https://guatemala.gob.gt/autoridades-del-mcd-realizan-visita-tecnica-al-parque-nacional-yaxha-nakum-naranjo/) confirms that Naranjo can be visited, but does not establish the extent of the normal visitor route. Unranked pending scope and condition evidence, not a claim of closure.
-- Missing or uncertain facts: Ordinary permitted visitor access, visible condition and precise geography.
+- Action: reassessment
+- Precise subject: Public archaeological route with recommended local community guides, not unrestricted royal city or surrounding forest.
+- Location check: 17.133636, -89.260917; CONAP expressly confirms year-round visits and local guide association; prior UNESCO reference coordinate retained.
+- Evidence status: **source-linked-unverified**
+- Evidence: [CONAP 1](https://conap.gob.gt/turismo-responsable-en-areas-protegidas/); [UNESCO 2](https://whc.unesco.org/en/tentativelists/6623/); [Public site reference 3](https://guatemala.gob.gt/autoridades-del-mcd-realizan-visita-tecnica-al-parque-nacional-yaxha-nakum-naranjo/) — reviewed 2026-11-25. CONAP expressly confirms year-round visits and local guide association; prior UNESCO reference coordinate retained. Not all claims independently verified.
+- Missing or uncertain facts: Independent corroboration and current permitted visitor conditions; exact point where approximate.
 
 ### Worldwide peers
 | Peer | Relative comparison |
 | --- | --- |
-| [Angkor Wat (KH)](../../../countries/KH/sights/angkor-wat.yaml) | No confirmed monumental visitor experience comparable to Angkor Wat |
-| [Caracol (BZ)](../../../countries/BZ/sights/caracol-archaeological-reserve.yaml) | Unlike Caracol ordinary interpreted route remains unverified |
-| [Pigeon Island (LC)](../../../countries/LC/sights/pigeon-island-national-landmark.yaml) | No established bounded visitor circuit like Pigeon Island |
-| [Layou Petroglyph Park (VC)](../../../countries/VC/sights/layou-petroglyph-park.yaml) | Even a compact interpreted site like Layou requires confirmed access |
+| [Angkor Wat](../../../countries/KH/sights/angkor-wat.yaml) | Less monumental visible architecture than Angkor Wat |
+| [Machu Picchu](../../../countries/PE/sights/historic-sanctuary-of-machu-picchu.yaml) | less dramatic landscape than Machu Picchu |
+| [Caracol](../../../countries/BZ/sights/caracol-archaeological-reserve.yaml) | comparable forest archaeology but less verified route depth than Caracol |
+| [Layou](../../../countries/VC/sights/layou-petroglyph-park.yaml) | greater ancient urban scope than Layou. |
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
-| Impact | null | visible monument condition unresolved |
-| Uniqueness | null | triadic acropolises documented |
-| Significance | null | major regional dynastic history |
-| Experience | null | ordinary route scope not yet verified |
-| Depth | null | interpreted circuit unknown |
+| Impact | 8.6 | Forest monumental plazas and acropolis context |
+| Uniqueness | 8.8 | distinct royal Maya urban complex |
+| Significance | 9.1 | major dynastic history |
+| Experience | 8.1 | documented community-guided archaeological visit |
+| Depth | 8.2 | multiple structures, visitor route limits acknowledged. |
 
-- Applicable categories: unassessed.
-- Overall: unranked.
+- Applicable categories: history:9.3,architecture:9.0.
+- Overall: 86.35/100.
 - High-score challenge: Not applicable.
 - Approved 10 registry: none.
-- Final decision: Retain unranked pending adequate ordinary visitor evidence.
-- Earlier decision: none.
-- Verification still needed: Permitted access and condition.
+- Final decision: Provisional editorial score for documented public scope only.
+- Earlier decision: Unranked pending route evidence; prior all-null core scores superseded using official CONAP visitor information. Original review in Git history.
+- Verification still needed: Independent claim-level verification and current access.
+
 
 ## sight-gt-naj-tunich-cave — Naj Tunich Cave — 2026-11-25
 
@@ -1271,3 +1271,42 @@ Added Sierra de las Minas and Sierra del Lacandón unranked. Remaining 11 tentat
 
 ### Further component coverage
 Added six public components of Cultural Triangle, Peace/National Identity, Green Route and Pacific Mangrove nominations. The Mayan-Olmecan nomination overlaps the existing Tak’alik Ab’aj record, as its official description confirms. See [coverage register](heritage-coverage.md) for remaining specific gaps.
+
+## sight-gt-topoxte — Topoxté Archaeological Site — 2026-11-25
+
+- YAML: [source](../../../countries/GT/sights/topoxte.yaml)
+- Action: new
+- Precise subject: Public archaeological island visit by authorized boat from Yaxhá; not the whole national park.
+- Location check: 17.066, -89.42; CONAP describes a two-hour boat-accessible visit. Approximate island location based on public geographic reference.
+- Evidence status: **source-linked-unverified**
+- Evidence: [CONAP 1](https://conap.gob.gt/turismo-responsable-en-areas-protegidas/); [Public site reference 2](https://www.themayanruinswebsite.com/topoxte.html) — reviewed 2026-11-25. CONAP describes a two-hour boat-accessible visit. Approximate island location based on public geographic reference. Not all claims independently verified.
+- Missing or uncertain facts: Independent corroboration and current permitted visitor conditions; exact point where approximate.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Angkor Wat](../../../countries/KH/sights/angkor-wat.yaml) | Less monumental than Angkor Wat |
+| [Machu Picchu](../../../countries/PE/sights/historic-sanctuary-of-machu-picchu.yaml) | different lake setting from Machu Picchu |
+| [Caracol](../../../countries/BZ/sights/caracol-archaeological-reserve.yaml) | smaller archaeological breadth than Caracol |
+| [Layou](../../../countries/VC/sights/layou-petroglyph-park.yaml) | more built fabric than Layou. |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.2 | Lake island and Maya masonry setting |
+| Uniqueness | 8.6 | distinct island settlement |
+| Significance | 8.5 | regional Maya archaeological history |
+| Experience | 8.4 | boat and interpreted monument walk |
+| Depth | 7.7 | compact island circuit. |
+
+- Applicable categories: history:8.9,architecture:8.7,photography:8.9.
+- Overall: 83.40/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial score for documented public scope only.
+- Earlier decision: None.
+- Verification still needed: Independent claim-level verification and current access.
+
+
+### Further component coverage (2026-11-25)
+CONAP confirms ordinary guided Naranjo access and Topoxté boat visits. Topoxté is a distinct public national park component, not asserted to be a separate UNESCO tentative nomination. Remaining route components are still in the coverage register.

@@ -1,0 +1,15 @@
+id: sight-by-grodno-castles
+name: "Old and New Castles of Grodno"
+location:
+  country_code: BY
+  latitude: 53.677
+  longitude: 23.822
+scores:
+  impact: 8.6
+  uniqueness: 8.6
+  significance: 8.9
+  experience: 8.5
+  depth: 8.5
+  categories:
+    architecture: 9.0
+    history: 9.2

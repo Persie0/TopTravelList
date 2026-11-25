@@ -1,0 +1,15 @@
+id: city-by-gomel
+name: "Gomel (Homel)"
+location:
+  country_code: BY
+  latitude: 52.4345
+  longitude: 30.9754
+scores:
+  impact: 8.0
+  uniqueness: 8.0
+  significance: 8.2
+  experience: 8.4
+  depth: 8.3
+  categories:
+    architecture: 8.7
+    culture: 8.5
