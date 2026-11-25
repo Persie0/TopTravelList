@@ -2,7 +2,7 @@
 
 # Eswatini (SZ) — Sights & attractions ranking
 
-**28 ranked** · **2 unassessed** · **30 total** · Worldwide scoring **v2**
+**29 ranked** · **1 unassessed** · **30 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (28)
+## Complete ranked list (29)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -32,25 +32,25 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 16 | [Mahamba Gorge](sights/mahamba-gorge.yaml) | Valley / canyon | **78.00** | **Photography 8.6**, **Nature 8.5**, **Adventure 8.4** | 8.0 / 8.1 / 7.2 / 8.1 / 7.2 | [-27.08, 30.896](https://www.google.com/maps/search/?api=1&query=-27.08,30.896) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mahamba%20Gorge%2C%20Eswatini) |
 | 17 | [Mantenga Falls](sights/mantenga-falls.yaml) | Waterfall | **77.65** | **Photography 8.9**, **Nature 8.6** | 8.4 / 8.0 / 6.9 / 8.1 / 6.5 | [-26.432, 31.171](https://www.google.com/maps/search/?api=1&query=-26.432,31.171) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mantenga%20Falls%2C%20Eswatini) |
 | 18 | [Maguga Dam](sights/maguga-dam.yaml) | Attraction | **77.35** | **Photography 8.8**, **Nature 8.1**, **Relaxation 8.1** | 8.2 / 7.6 / 7.2 / 7.9 / 7.5 | [-26.068, 31.26](https://www.google.com/maps/search/?api=1&query=-26.068,31.26) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Maguga%20Dam%2C%20Eswatini) |
-| 19 | [Dombeya Game Reserve](sights/dombeya-game-reserve.yaml) | Attraction | **76.65** | **Wildlife 8.4**, **Nature 8.3** | 7.7 / 7.7 / 7.4 / 8.2 / 7.2 | [-26.324, 31.669](https://www.google.com/maps/search/?api=1&query=-26.324,31.669) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Dombeya%20Game%20Reserve%2C%20Eswatini) |
-| 20 | [King Sobhuza II Memorial Park](sights/king-sobhuza-ii-memorial-park.yaml) | Museum / heritage | **75.70** | **History 8.8**, **Culture 8.6**, **Architecture 7.5** | 7.1 / 7.8 / 8.4 / 7.6 / 6.7 | [-26.446, 31.204](https://www.google.com/maps/search/?api=1&query=-26.446,31.204) | [Google Maps](https://www.google.com/maps/search/?api=1&query=King%20Sobhuza%20II%20Memorial%20Park%2C%20Eswatini) |
-| 21 | [National Museum of Eswatini](sights/national-museum-of-eswatini.yaml) | Museum / heritage | **75.55** | **Culture 8.6**, **History 8.6** | 6.9 / 7.7 / 8.3 / 7.8 / 7.3 | [-26.446, 31.203](https://www.google.com/maps/search/?api=1&query=-26.446,31.203) | [Google Maps](https://www.google.com/maps/search/?api=1&query=National%20Museum%20of%20Eswatini%2C%20Eswatini) |
-| 22 | [Hawane Nature Reserve](sights/hawane-nature-reserve.yaml) | Park / reserve | **75.00** | **Wildlife 8.3**, **Nature 8.2**, **Photography 8.0** | 7.5 / 7.6 / 7.7 / 7.6 / 6.7 | [-26.238, 31.109](https://www.google.com/maps/search/?api=1&query=-26.238,31.109) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hawane%20Nature%20Reserve%2C%20Eswatini) |
-| 23 | [Swazi Candles Centre](sights/swazi-candles-centre.yaml) | Attraction | **74.90** | **Culture 8.5**, **Family 7.9** | 7.2 / 8.1 / 6.9 / 8.3 / 6.8 | [-26.568, 31.183](https://www.google.com/maps/search/?api=1&query=-26.568,31.183) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Swazi%20Candles%20Centre%2C%20Eswatini) |
-| 24 | [Ngwenya Glass Factory](sights/ngwenya-glass-factory.yaml) | Attraction | **74.50** | **Culture 8.4**, **Family 8.0**, **Architecture 7.3** | 7.2 / 7.9 / 7.0 / 8.3 / 6.7 | [-26.227, 31.046](https://www.google.com/maps/search/?api=1&query=-26.227,31.046) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ngwenya%20Glass%20Factory%2C%20Eswatini) |
-| 25 | [Bulembu Museum](sights/bulembu-museum.yaml) | Museum / heritage | **72.30** | **History 8.2**, **Culture 7.9** | 6.7 / 7.8 / 7.7 / 7.4 / 6.2 | [-25.965, 31.128](https://www.google.com/maps/search/?api=1&query=-25.965,31.128) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bulembu%20Museum%2C%20Eswatini) |
-| 26 | [Summerfield Botanical Garden](sights/summerfield-botanical-garden.yaml) | Garden | **71.65** | **Relaxation 8.2**, **Nature 8.0**, **Photography 8.0** | 7.5 / 7.2 / 6.2 / 7.9 / 6.9 | [-26.5, 31.242](https://www.google.com/maps/search/?api=1&query=-26.5,31.242) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Summerfield%20Botanical%20Garden%2C%20Eswatini) |
-| 27 | [Manzini Market](sights/manzini-market.yaml) | Market | **70.10** | **Culture 8.1**, **Food 7.9** | 6.8 / 7.3 / 6.5 / 7.9 / 6.6 | [-26.495, 31.383](https://www.google.com/maps/search/?api=1&query=-26.495,31.383) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Manzini%20Market%2C%20Eswatini) |
-| 28 | [Ezulwini Craft Market](sights/ezulwini-craft-market.yaml) | Market | **68.65** | **Culture 8.0** | 6.7 / 7.2 / 6.3 / 7.7 / 6.4 | [-26.421, 31.179](https://www.google.com/maps/search/?api=1&query=-26.421,31.179) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ezulwini%20Craft%20Market%2C%20Eswatini) |
+| 18 | [Mhlosinga Nature Reserve](sights/mhlosinga-nature-reserve.yaml) | Park / reserve | **77.35** | **Wildlife 8.3**, **Nature 8.2** | 7.7 / 7.5 / 7.8 / 8.2 / 7.6 | [-26.73, 31.94](https://www.google.com/maps/search/?api=1&query=-26.73,31.94) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mhlosinga%20Nature%20Reserve%2C%20Eswatini) |
+| 20 | [Dombeya Game Reserve](sights/dombeya-game-reserve.yaml) | Attraction | **76.65** | **Wildlife 8.4**, **Nature 8.3** | 7.7 / 7.7 / 7.4 / 8.2 / 7.2 | [-26.324, 31.669](https://www.google.com/maps/search/?api=1&query=-26.324,31.669) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Dombeya%20Game%20Reserve%2C%20Eswatini) |
+| 21 | [King Sobhuza II Memorial Park](sights/king-sobhuza-ii-memorial-park.yaml) | Museum / heritage | **75.70** | **History 8.8**, **Culture 8.6**, **Architecture 7.5** | 7.1 / 7.8 / 8.4 / 7.6 / 6.7 | [-26.446, 31.204](https://www.google.com/maps/search/?api=1&query=-26.446,31.204) | [Google Maps](https://www.google.com/maps/search/?api=1&query=King%20Sobhuza%20II%20Memorial%20Park%2C%20Eswatini) |
+| 22 | [National Museum of Eswatini](sights/national-museum-of-eswatini.yaml) | Museum / heritage | **75.55** | **Culture 8.6**, **History 8.6** | 6.9 / 7.7 / 8.3 / 7.8 / 7.3 | [-26.446, 31.203](https://www.google.com/maps/search/?api=1&query=-26.446,31.203) | [Google Maps](https://www.google.com/maps/search/?api=1&query=National%20Museum%20of%20Eswatini%2C%20Eswatini) |
+| 23 | [Hawane Nature Reserve](sights/hawane-nature-reserve.yaml) | Park / reserve | **75.00** | **Wildlife 8.3**, **Nature 8.2**, **Photography 8.0** | 7.5 / 7.6 / 7.7 / 7.6 / 6.7 | [-26.238, 31.109](https://www.google.com/maps/search/?api=1&query=-26.238,31.109) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hawane%20Nature%20Reserve%2C%20Eswatini) |
+| 24 | [Swazi Candles Centre](sights/swazi-candles-centre.yaml) | Attraction | **74.90** | **Culture 8.5**, **Family 7.9** | 7.2 / 8.1 / 6.9 / 8.3 / 6.8 | [-26.568, 31.183](https://www.google.com/maps/search/?api=1&query=-26.568,31.183) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Swazi%20Candles%20Centre%2C%20Eswatini) |
+| 25 | [Ngwenya Glass Factory](sights/ngwenya-glass-factory.yaml) | Attraction | **74.50** | **Culture 8.4**, **Family 8.0**, **Architecture 7.3** | 7.2 / 7.9 / 7.0 / 8.3 / 6.7 | [-26.227, 31.046](https://www.google.com/maps/search/?api=1&query=-26.227,31.046) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ngwenya%20Glass%20Factory%2C%20Eswatini) |
+| 26 | [Bulembu Museum](sights/bulembu-museum.yaml) | Museum / heritage | **72.30** | **History 8.2**, **Culture 7.9** | 6.7 / 7.8 / 7.7 / 7.4 / 6.2 | [-25.965, 31.128](https://www.google.com/maps/search/?api=1&query=-25.965,31.128) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bulembu%20Museum%2C%20Eswatini) |
+| 27 | [Summerfield Botanical Garden](sights/summerfield-botanical-garden.yaml) | Garden | **71.65** | **Relaxation 8.2**, **Nature 8.0**, **Photography 8.0** | 7.5 / 7.2 / 6.2 / 7.9 / 6.9 | [-26.5, 31.242](https://www.google.com/maps/search/?api=1&query=-26.5,31.242) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Summerfield%20Botanical%20Garden%2C%20Eswatini) |
+| 28 | [Manzini Market](sights/manzini-market.yaml) | Market | **70.10** | **Culture 8.1**, **Food 7.9** | 6.8 / 7.3 / 6.5 / 7.9 / 6.6 | [-26.495, 31.383](https://www.google.com/maps/search/?api=1&query=-26.495,31.383) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Manzini%20Market%2C%20Eswatini) |
+| 29 | [Ezulwini Craft Market](sights/ezulwini-craft-market.yaml) | Market | **68.65** | **Culture 8.0** | 6.7 / 7.2 / 6.3 / 7.7 / 6.4 | [-26.421, 31.179](https://www.google.com/maps/search/?api=1&query=-26.421,31.179) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ezulwini%20Craft%20Market%2C%20Eswatini) |
 
-## Not yet fully assessed (2)
+## Not yet fully assessed (1)
 
 These destinations have no rank until all five core scores are assessed.
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
 | — | [Ludzidzini Royal Village](sights/ludzidzini-royal-village.yaml) | Historic settlement | **—** | **Culture 8.8**, **History 8.6** | — / — / 8.6 / — / — | [-26.442, 31.228](https://www.google.com/maps/search/?api=1&query=-26.442,31.228) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ludzidzini%20Royal%20Village%2C%20Eswatini) |
-| — | [Mhlosinga Nature Reserve](sights/mhlosinga-nature-reserve.yaml) | Park / reserve | **—** | **Wildlife 8.3**, **Nature 8.2** | — / — / 7.5 / — / — | [-26.73, 31.94](https://www.google.com/maps/search/?api=1&query=-26.73,31.94) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mhlosinga%20Nature%20Reserve%2C%20Eswatini) |
 
 ---
 
