@@ -381,3 +381,38 @@
 - Earlier decision: none.
 - Verification still needed: Exact public heritage venues unknown.
 
+### city-mh-jabor — Jabor Village (Jabwor) — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/MH/cities/jabor.yaml)
+- Action: rescore
+- Precise subject: Village proper only; exclude Jaluit's lagoon, other islets and separate conservation area. Confirm hosted access and individual surviving heritage sites.
+- Location check: existing representative point retained; independent coordinate verification pending.
+- Evidence status: source-linked-unverified
+- Checked factual reference excerpts (2026-11-25):
+  - Marshall Islands Pocket Guide describes Jabor's historical role and possible cruise visits with village walks — https://marshallislandspocketguide.com/the-guide-to-the-ports-of-call-in-the-marshall-islands
+  - Marshall Islands Guide identifies Jabor as Jaluit's main population center — https://www.infomarshallislands.com/jaluit-atoll/
+  - Official tourism office lists the Lieom Jaluit Hotel — https://www.ocit.mh/bg/where-to-stay
+- Missing or uncertain facts: Village proper only; exclude Jaluit's lagoon, other islets and separate conservation area. Confirm hosted access and individual surviving heritage sites.
+
+#### Worldwide peer comparisons
+- Levuka (Fiji): greater intact and interpreted port heritage
+- Kampot (Cambodia): more varied urban visitor experiences
+- Koh Ker Village (Cambodia): more substantial archaeological setting
+- Yaren (Nauru): compact civic settlement with similarly limited depth
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | null | 6.7 | Modest village landscape with surviving historical fabric |
+| Uniqueness | null | 7.3 | Unusual outer-atoll colonial trading and administrative settlement |
+| Significance | null | 7.6 | Important Marshallese trading, colonial and wartime context; not globally defining urban heritage |
+| Experience | null | 6.8 | Documented community visits and village heritage walks |
+| Depth | null | 6.5 | Several local historic stops but limited independent visitor breadth |
+
+- Applicable category scores: none assessed (unchanged).
+- Computed worldwide overall: 70.25/100
+- High-score challenge: No 9.5+ field or 90+ total.
+- Approved 10 registry: none.
+- Final decision: provisional worldwide ranking for documented visitor scope, not independent factual verification.
+- Earlier decision: earlier entry for this ID, originally unranked.
+- Verification still needed: Village proper only; exclude Jaluit's lagoon, other islets and separate conservation area. Confirm hosted access and individual surviving heritage sites.

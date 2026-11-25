@@ -787,3 +787,40 @@
 - Final decision: Provisional worldwide ranking based on the new evidence; not a current admission guarantee.
 - Earlier decision: earlier entry for sight-mh-likiep-village-historic-district in this file, originally unranked.
 - Verification still needed: Verify access to individual properties; no interior visit assumed.
+
+### sight-mh-bikini-atoll-nuclear-test-site — Bikini Atoll Nuclear Test Site — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/MH/sights/bikini-atoll-nuclear-test-site.yaml)
+- Action: rescore
+- Precise subject: Retain 9.6 significance because of rare direct material evidence of the nuclear age and enduring displacement, not because of weapon spectacle. Specialist permitted visits only. No radiological safety or admission guarantee; current local permissions and professional advice essential. No unrestricted land visit credit.
+- Location check: existing representative point retained; independent coordinate verification pending.
+- Evidence status: source-linked-unverified
+- Checked factual reference excerpts (2026-11-25):
+  - UNESCO identifies nuclear-age heritage and enduring consequences including displacement and contamination — https://whc.unesco.org/en/list/1339
+  - Operator documents multi-day expeditions — https://masterliveaboards.com/bikini-atoll/bikini-atoll-11-nights/
+  - Operator FAQ specifies technical diving qualifications and safety requirements — https://masterliveaboards.com/faq/bikini-atoll/
+  - Independent diving publication documents multiple wrecks and historical context — https://www.divephotoguide.com/underwater-photography-travel/article/diving-nuclear-fleet-bikini-atoll-master-liveaboards/
+- Missing or uncertain facts: Retain 9.6 significance because of rare direct material evidence of the nuclear age and enduring displacement, not because of weapon spectacle. Specialist permitted visits only. No radiological safety or admission guarantee; current local permissions and professional advice essential. No unrestricted land visit credit.
+
+#### Worldwide peer comparisons
+- Chuuk Lagoon (Micronesia): comparable extensive wreck landscape but different historical significance
+- Hiroshima Peace Memorial (Japan): stronger accessible memorial interpretation, different experience
+- Scapa Flow (United Kingdom): comparable specialist wreck landscape
+- USS Arizona Memorial (United States): more accessible but much narrower heritage scope
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | 8.8 | 8.8 | Striking marine historical landscape and surviving submerged fleet |
+| Uniqueness | 9.4 | 9.4 | Rare conjunction of nuclear-age historical evidence and a submerged naval assemblage |
+| Significance | 9.6 | 9.6 | World-significant evidence of nuclear testing, displacement and environmental harm |
+| Experience | null | 8.7 | Documented regulated specialist expeditions with historical interpretation; not ordinary recreational diving |
+| Depth | null | 8.8 | Multiple historically distinct wrecks and interpreted contexts on established expeditions, excluding unrestricted terrestrial exploration |
+
+- Applicable category scores: history: 9.4 (unchanged).
+- Computed worldwide overall: 90.95/100
+- High-score challenge: Retain 9.6 significance because of rare direct material evidence of the nuclear age and enduring displacement, not because of weapon spectacle. Specialist permitted visits only. No radiological safety or admission guarantee; current local permissions and professional advice essential. No unrestricted land visit credit. Compared with Chuuk's wreck ensemble and Hiroshima's memorial experience, the exceptional significance is specific to direct nuclear-age evidence, while ordinary visitor breadth is constrained.
+- Approved 10 registry: none.
+- Final decision: provisional worldwide ranking for documented visitor scope, not independent factual verification.
+- Earlier decision: earlier entry for this ID, originally unranked.
+- Verification still needed: Retain 9.6 significance because of rare direct material evidence of the nuclear age and enduring displacement, not because of weapon spectacle. Specialist permitted visits only. No radiological safety or admission guarantee; current local permissions and professional advice essential. No unrestricted land visit credit.
