@@ -1,0 +1,14 @@
+id: sight-mz-manyikeni
+name: "Manyikeni Archaeological Site"
+location:
+  country_code: MZ
+  latitude: -22.233333
+  longitude: 34.808333
+scores:
+  impact: null
+  uniqueness: 8.9
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    history: 9.3

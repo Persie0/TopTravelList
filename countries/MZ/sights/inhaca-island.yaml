@@ -1,0 +1,16 @@
+id: sight-mz-inhaca-island
+name: "Inhaca Island"
+location:
+  country_code: MZ
+  latitude: -26
+  longitude: 33
+scores:
+  impact: 8.6
+  uniqueness: 8.6
+  significance: 8.5
+  experience: 8.5
+  depth: 8.2
+  categories:
+    nature: 8.9
+    beaches: 8.8
+    wildlife: 8.7
