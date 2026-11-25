@@ -1,0 +1,15 @@
+id: city-ua-lutsk
+name: "Lutsk"
+location:
+  country_code: UA
+  latitude: 50.7472
+  longitude: 25.3254
+scores:
+  impact: 8.5
+  uniqueness: 8.6
+  significance: 8.7
+  experience: 8.5
+  depth: 8.2
+  categories:
+    architecture: 9.0
+    history: 9.2

@@ -1,0 +1,15 @@
+id: city-fr-amiens
+name: "Amiens"
+location:
+  country_code: FR
+  latitude: 49.894
+  longitude: 2.295
+scores:
+  impact: 8.5
+  uniqueness: 8.5
+  significance: 8.8
+  experience: 8.6
+  depth: 8.3
+  categories:
+    architecture: 9.1
+    history: 9.1

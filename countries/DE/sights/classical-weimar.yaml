@@ -1,0 +1,16 @@
+id: sight-de-classical-weimar
+name: "Classical Weimar"
+location:
+  country_code: DE
+  latitude: 50.98
+  longitude: 11.33
+scores:
+  impact: 8.8
+  uniqueness: 9.1
+  significance: 9.4
+  experience: 8.8
+  depth: 9.1
+  categories:
+    culture: 9.5
+    history: 9.4
+    architecture: 9.2

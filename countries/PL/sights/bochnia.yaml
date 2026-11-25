@@ -1,0 +1,15 @@
+id: sight-pl-bochnia
+name: "Bochnia Salt Mine"
+location:
+  country_code: PL
+  latitude: 49.968
+  longitude: 20.42
+scores:
+  impact: 8.7
+  uniqueness: 9.0
+  significance: 9.1
+  experience: 8.8
+  depth: 8.5
+  categories:
+    history: 9.3
+    architecture: 8.8

@@ -1,0 +1,15 @@
+id: sight-it-urbino-core
+name: "Historic Centre of Urbino"
+location:
+  country_code: IT
+  latitude: 43.724
+  longitude: 12.637
+scores:
+  impact: 9.1
+  uniqueness: 9.1
+  significance: 9.4
+  experience: 8.9
+  depth: 8.7
+  categories:
+    architecture: 9.5
+    culture: 9.4

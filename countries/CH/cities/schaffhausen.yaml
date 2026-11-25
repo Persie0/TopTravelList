@@ -1,0 +1,15 @@
+id: city-ch-schaffhausen
+name: "Schaffhausen"
+location:
+  country_code: CH
+  latitude: 47.6965
+  longitude: 8.6339
+scores:
+  impact: 8.5
+  uniqueness: 8.5
+  significance: 8.5
+  experience: 8.6
+  depth: 8.1
+  categories:
+    architecture: 9.0
+    history: 8.9

@@ -1,0 +1,15 @@
+id: city-pt-aveiro
+name: "Aveiro"
+location:
+  country_code: PT
+  latitude: 40.6405
+  longitude: -8.6538
+scores:
+  impact: 8.4
+  uniqueness: 8.6
+  significance: 8.2
+  experience: 8.7
+  depth: 8.0
+  categories:
+    architecture: 8.9
+    photography: 9.0

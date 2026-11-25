@@ -1,0 +1,15 @@
+id: sight-pl-swidnica-church-of-peace
+name: "Church of Peace, Świdnica"
+location:
+  country_code: PL
+  latitude: 50.848
+  longitude: 16.495
+scores:
+  impact: 9.0
+  uniqueness: 9.4
+  significance: 9.3
+  experience: 8.7
+  depth: 8.2
+  categories:
+    architecture: 9.5
+    history: 9.3

@@ -1,0 +1,15 @@
+id: city-pl-gniezno
+name: "Gniezno"
+location:
+  country_code: PL
+  latitude: 52.535
+  longitude: 17.583
+scores:
+  impact: 7.9
+  uniqueness: 8.2
+  significance: 8.7
+  experience: 8.1
+  depth: 7.7
+  categories:
+    history: 9.1
+    architecture: 8.7

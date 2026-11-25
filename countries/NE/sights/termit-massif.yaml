@@ -1,0 +1,15 @@
+id: sight-ne-termit-massif
+name: "Termit Massif"
+location:
+  country_code: NE
+  latitude: 16
+  longitude: 11.2
+scores:
+  impact: 8.4
+  uniqueness: 9.0
+  significance: 9.0
+  experience: null
+  depth: null
+  categories:
+    nature: 9.1
+    wildlife: 9.2

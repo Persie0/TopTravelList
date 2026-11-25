@@ -2,7 +2,7 @@
 
 # Greece (GR) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**18 ranked** · **0 unassessed** · **18 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,28 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (18)
 
-No cities, towns & villages have been assessed for **Greece** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Athens](cities/athens.yaml) | City / town | **94.70** | **History 9.8**, **Architecture 9.5**, **Culture 9.5**, Food 9.2 | 9.4 / 9.5 / 9.8 / 9.1 / 9.5 | [37.9838, 23.7275](https://www.google.com/maps/search/?api=1&query=37.9838,23.7275) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Athens%2C%20Greece) |
+| 2 | [Rhodes Town](cities/rhodes.yaml) | Town | **90.50** | **Architecture 9.5**, **History 9.4**, **Photography 9.3** | 9.0 / 9.2 / 9.1 / 9.0 / 8.8 | [36.434, 28.217](https://www.google.com/maps/search/?api=1&query=36.434,28.217) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Rhodes%20Town%2C%20Greece) |
+| 3 | [Corfu Town](cities/corfu.yaml) | Town | **89.95** | **Architecture 9.4**, **Photography 9.3**, **History 9.2** | 9.0 / 9.1 / 9.0 / 9.0 / 8.7 | [39.6243, 19.9217](https://www.google.com/maps/search/?api=1&query=39.6243,19.9217) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Corfu%20Town%2C%20Greece) |
+| 4 | [Thessaloniki](cities/thessaloniki.yaml) | City / town | **89.55** | **History 9.4**, **Culture 9.3**, **Food 9.3** | 8.8 / 8.9 / 9.2 / 9.0 / 9.0 | [40.6401, 22.9444](https://www.google.com/maps/search/?api=1&query=40.6401,22.9444) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Thessaloniki%2C%20Greece) |
+| 5 | [Monemvasia](cities/monemvasia.yaml) | City / town | **88.95** | **Photography 9.5**, **Architecture 9.4**, **History 9.2** | 9.1 / 9.2 / 8.8 / 8.7 / 8.0 | [36.687, 23.055](https://www.google.com/maps/search/?api=1&query=36.687,23.055) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Monemvasia%2C%20Greece) |
+| 6 | [Chania](cities/chania.yaml) | City / town | **88.80** | **Architecture 9.3**, **History 9.2**, **Food 9.1** | 8.9 / 8.9 / 8.8 / 9.1 / 8.6 | [35.5138, 24.018](https://www.google.com/maps/search/?api=1&query=35.5138,24.018) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Chania%2C%20Greece) |
+| 7 | [Nafplio](cities/nafplio.yaml) | City / town | **87.95** | **Photography 9.3**, **Architecture 9.2**, **History 9.2** | 8.9 / 8.8 / 8.8 / 8.9 / 8.3 | [37.5673, 22.8016](https://www.google.com/maps/search/?api=1&query=37.5673,22.8016) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nafplio%2C%20Greece) |
+| 8 | [Oia](cities/oia.yaml) | City / town | **87.75** | **Photography 9.6**, **Architecture 9.2** | 9.3 / 9.1 / 8.2 / 8.6 / 7.8 | [36.4618, 25.3753](https://www.google.com/maps/search/?api=1&query=36.4618,25.3753) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Oia%2C%20Greece) |
+| 9 | [Ermoupoli](cities/ermoupoli.yaml) | City / town | **87.10** | **Architecture 9.3**, **History 9.0** | 8.8 / 8.8 / 8.6 / 8.8 / 8.3 | [37.445, 24.943](https://www.google.com/maps/search/?api=1&query=37.445,24.943) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ermoupoli%2C%20Greece) |
+| 10 | [Rethymno](cities/rethymno.yaml) | City / town | **86.90** | **Architecture 9.2**, **History 9.1** | 8.7 / 8.7 / 8.7 / 8.9 / 8.3 | [35.369, 24.473](https://www.google.com/maps/search/?api=1&query=35.369,24.473) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Rethymno%2C%20Greece) |
+| 11 | [Fira](cities/fira.yaml) | City / town | **86.85** | **Photography 9.4**, **Architecture 9.1** | 9.0 / 8.8 / 8.3 / 8.7 / 8.2 | [36.4197, 25.4316](https://www.google.com/maps/search/?api=1&query=36.4197,25.4316) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Fira%2C%20Greece) |
+| 12 | [Naxos Town](cities/naxos-town.yaml) | Town | **86.45** | **History 9.1**, **Architecture 9.0** | 8.6 / 8.7 / 8.7 / 8.8 / 8.3 | [37.104, 25.376](https://www.google.com/maps/search/?api=1&query=37.104,25.376) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Naxos%20Town%2C%20Greece) |
+| 13 | [Ioannina](cities/ioannina.yaml) | City / town | **86.15** | **History 9.2**, **Culture 8.9** | 8.5 / 8.6 / 8.8 / 8.7 / 8.5 | [39.665, 20.854](https://www.google.com/maps/search/?api=1&query=39.665,20.854) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ioannina%2C%20Greece) |
+| 14 | [Mykonos Town](cities/mykonos-town.yaml) | Town | **86.10** | **Photography 9.4**, **Architecture 9.2**, **Nightlife 9.1** | 8.9 / 8.8 / 8.1 / 8.8 / 8.0 | [37.4467, 25.3289](https://www.google.com/maps/search/?api=1&query=37.4467,25.3289) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mykonos%20Town%2C%20Greece) |
+| 15 | [Heraklion](cities/heraklion.yaml) | City / town | **85.85** | **History 9.4**, **Culture 9.1** | 8.2 / 8.6 / 9.0 / 8.7 / 8.7 | [35.3387, 25.1442](https://www.google.com/maps/search/?api=1&query=35.3387,25.1442) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Heraklion%2C%20Greece) |
+| 16 | [Kavala](cities/kavala.yaml) | City / town | **85.05** | **Architecture 9.0**, **History 8.9** | 8.5 / 8.5 / 8.6 / 8.6 / 8.2 | [40.937, 24.412](https://www.google.com/maps/search/?api=1&query=40.937,24.412) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kavala%2C%20Greece) |
+| 17 | [Metsovo](cities/metsovo.yaml) | City / town | **84.30** | **Architecture 8.9**, **Food 8.9** | 8.4 / 8.6 / 8.4 / 8.6 / 7.9 | [39.77, 21.182](https://www.google.com/maps/search/?api=1&query=39.77,21.182) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Metsovo%2C%20Greece) |
+| 18 | [Kalambaka](cities/kalambaka.yaml) | City / town | **82.55** | **Photography 8.9**, **Culture 8.6** | 8.2 / 8.4 / 8.2 / 8.5 / 7.8 | [39.706, 21.627](https://www.google.com/maps/search/?api=1&query=39.706,21.627) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kalambaka%2C%20Greece) |
 
 ---
 

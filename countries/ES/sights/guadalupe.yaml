@@ -1,0 +1,15 @@
+id: sight-es-guadalupe
+name: "Royal Monastery of Santa María de Guadalupe"
+location:
+  country_code: ES
+  latitude: 39.453
+  longitude: -5.328
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 9.3
+  experience: 8.7
+  depth: 8.5
+  categories:
+    architecture: 9.4
+    history: 9.4

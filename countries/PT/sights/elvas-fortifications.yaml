@@ -1,0 +1,15 @@
+id: sight-pt-elvas-fortifications
+name: "Garrison Border Town of Elvas and its Fortifications"
+location:
+  country_code: PT
+  latitude: 38.88
+  longitude: -7.16
+scores:
+  impact: 8.9
+  uniqueness: 9.2
+  significance: 9.3
+  experience: 8.8
+  depth: 9.2
+  categories:
+    architecture: 9.3
+    history: 9.4

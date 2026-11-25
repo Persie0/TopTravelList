@@ -1,0 +1,15 @@
+id: city-ua-drohobych
+name: "Drohobych"
+location:
+  country_code: UA
+  latitude: 49.35
+  longitude: 23.51
+scores:
+  impact: 8.3
+  uniqueness: 8.6
+  significance: 8.7
+  experience: 8.4
+  depth: 8.0
+  categories:
+    architecture: 9.0
+    history: 9.1

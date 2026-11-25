@@ -1,0 +1,16 @@
+id: sight-gr-balos
+name: "Balos Lagoon"
+location:
+  country_code: GR
+  latitude: 35.58
+  longitude: 23.59
+scores:
+  impact: 9.2
+  uniqueness: 9.0
+  significance: 8.3
+  experience: 8.8
+  depth: 7.9
+  categories:
+    beaches: 9.5
+    nature: 9.4
+    photography: 9.5

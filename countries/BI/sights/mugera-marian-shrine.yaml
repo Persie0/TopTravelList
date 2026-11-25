@@ -1,0 +1,16 @@
+id: sight-bi-mugera-marian-shrine
+name: "Mugera Marian Shrine"
+location:
+  country_code: BI
+  latitude: -3.37
+  longitude: 29.97
+scores:
+  impact: 6.9
+  uniqueness: 7.4
+  significance: 7.9
+  experience: 7.4
+  depth: 6.4
+  categories:
+    culture: 8.4
+    history: 8.0
+    architecture: 7.7

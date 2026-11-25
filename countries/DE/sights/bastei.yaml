@@ -1,0 +1,15 @@
+id: sight-de-bastei
+name: "Bastei rock formation and bridge"
+location:
+  country_code: DE
+  latitude: 50.962
+  longitude: 14.073
+scores:
+  impact: 9.3
+  uniqueness: 9.2
+  significance: 8.6
+  experience: 9.1
+  depth: 8.0
+  categories:
+    nature: 9.4
+    photography: 9.6

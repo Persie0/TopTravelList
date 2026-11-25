@@ -1,0 +1,15 @@
+id: sight-pt-alcobaca
+name: "Monastery of Alcobaça"
+location:
+  country_code: PT
+  latitude: 39.548
+  longitude: -8.98
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 9.3
+  experience: 8.9
+  depth: 8.8
+  categories:
+    architecture: 9.4
+    history: 9.4

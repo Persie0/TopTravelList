@@ -1,0 +1,16 @@
+id: sight-ca-vuntut-national-park
+name: "Vuntut National Park"
+location:
+  country_code: CA
+  latitude: 68.39
+  longitude: -139.86
+scores:
+  impact: 8.3
+  uniqueness: 8.8
+  significance: 8.7
+  experience: 7.2
+  depth: 7.7
+  categories:
+    nature: 9.1
+    wildlife: 9.0
+    adventure: 8.8

@@ -1,0 +1,15 @@
+id: city-cf-zinga
+name: "Zinga"
+location:
+  country_code: CF
+  latitude: 3.71418
+  longitude: 18.58648
+scores:
+  impact: null
+  uniqueness: 7.9
+  significance: 7.7
+  experience: null
+  depth: null
+  categories:
+    history: 8.3
+    architecture: 8.2

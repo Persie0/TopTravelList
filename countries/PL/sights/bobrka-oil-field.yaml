@@ -1,0 +1,15 @@
+id: sight-pl-bobrka-oil-field
+name: "Bóbrka historic oil field museum"
+location:
+  country_code: PL
+  latitude: 49.62
+  longitude: 21.71
+scores:
+  impact: 8.1
+  uniqueness: 9.0
+  significance: 9.2
+  experience: 8.5
+  depth: 8.4
+  categories:
+    history: 9.4
+    culture: 8.8

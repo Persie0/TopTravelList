@@ -1,0 +1,15 @@
+id: city-de-aachen
+name: "Aachen"
+location:
+  country_code: DE
+  latitude: 50.776
+  longitude: 6.083
+scores:
+  impact: 8.5
+  uniqueness: 8.7
+  significance: 9.0
+  experience: 8.7
+  depth: 8.4
+  categories:
+    architecture: 9.2
+    history: 9.3

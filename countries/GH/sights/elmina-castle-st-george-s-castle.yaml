@@ -1,0 +1,16 @@
+id: sight-gh-elmina-castle-st-george-s-castle
+name: "Elmina Castle (St George's Castle)"
+location:
+  country_code: GH
+  latitude: 5.082
+  longitude: -1.348
+scores:
+  impact: 9.2
+  uniqueness: 9.4
+  significance: 9.7
+  experience: 9.0
+  depth: 8.6
+  categories:
+    history: 9.7
+    architecture: 9.3
+    culture: 9.4

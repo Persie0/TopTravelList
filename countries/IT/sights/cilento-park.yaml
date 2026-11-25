@@ -1,0 +1,15 @@
+id: sight-it-cilento-park
+name: "Cilento Vallo di Diano and Alburni National Park"
+location:
+  country_code: IT
+  latitude: 40.3
+  longitude: 15.3
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 9.0
+  experience: 9.0
+  depth: 9.3
+  categories:
+    nature: 9.4
+    adventure: 9.1

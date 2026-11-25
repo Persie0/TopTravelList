@@ -1,0 +1,16 @@
+id: city-gw-bissau
+name: "Bissau"
+location:
+  country_code: GW
+  latitude: 11.86
+  longitude: -15.5833
+scores:
+  impact: 7.3
+  uniqueness: 7.8
+  significance: 8.1
+  experience: 7.5
+  depth: 7.8
+  categories:
+    history: 8.4
+    culture: 8.5
+    food: 8.0

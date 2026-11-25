@@ -1,0 +1,15 @@
+id: sight-pl-lower-oder-valley
+name: "Lower Oder Valley Landscape Park (Polish section)"
+location:
+  country_code: PL
+  latitude: 53.27
+  longitude: 14.45
+scores:
+  impact: 8.2
+  uniqueness: 8.7
+  significance: 8.6
+  experience: 8.4
+  depth: 8.5
+  categories:
+    nature: 9.1
+    wildlife: 9.2

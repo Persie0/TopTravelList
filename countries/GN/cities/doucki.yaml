@@ -1,0 +1,15 @@
+id: city-gn-doucki
+name: "Doucki"
+location:
+  country_code: GN
+  latitude: 10.9853
+  longitude: -12.59924
+scores:
+  impact: 6.9
+  uniqueness: 8.1
+  significance: 6.9
+  experience: 7.7
+  depth: 5.9
+  categories:
+    culture: 8.4
+    relaxation: 8.0

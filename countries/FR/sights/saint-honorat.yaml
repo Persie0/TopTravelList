@@ -1,0 +1,16 @@
+id: sight-fr-saint-honorat
+name: "Saint-Honorat monastic island"
+location:
+  country_code: FR
+  latitude: 43.509
+  longitude: 7.046
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 9.0
+  experience: 8.7
+  depth: 8.6
+  categories:
+    architecture: 9.1
+    history: 9.2
+    relaxation: 9.0

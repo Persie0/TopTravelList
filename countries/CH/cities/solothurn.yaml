@@ -1,0 +1,15 @@
+id: city-ch-solothurn
+name: "Solothurn"
+location:
+  country_code: CH
+  latitude: 47.2088
+  longitude: 7.5323
+scores:
+  impact: 8.5
+  uniqueness: 8.6
+  significance: 8.5
+  experience: 8.5
+  depth: 8.0
+  categories:
+    architecture: 9.2
+    history: 8.9

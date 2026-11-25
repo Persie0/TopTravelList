@@ -1,0 +1,15 @@
+id: sight-by-synkavichy-church
+name: "Synkavichy fortified church"
+location:
+  country_code: BY
+  latitude: 53.12
+  longitude: 25.15
+scores:
+  impact: 8.6
+  uniqueness: 8.9
+  significance: 8.9
+  experience: 8.2
+  depth: 7.5
+  categories:
+    architecture: 9.2
+    history: 9.2

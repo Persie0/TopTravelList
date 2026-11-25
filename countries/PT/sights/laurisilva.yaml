@@ -1,0 +1,16 @@
+id: sight-pt-laurisilva
+name: "Laurisilva of Madeira"
+location:
+  country_code: PT
+  latitude: 32.76
+  longitude: -17.06
+scores:
+  impact: 9.2
+  uniqueness: 9.4
+  significance: 9.5
+  experience: 9.1
+  depth: 9.3
+  categories:
+    nature: 9.6
+    photography: 9.4
+    adventure: 9.2

@@ -1,0 +1,16 @@
+id: city-it-assisi
+name: "Assisi"
+location:
+  country_code: IT
+  latitude: 43.0707
+  longitude: 12.6196
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 9.2
+  experience: 8.9
+  depth: 8.3
+  categories:
+    architecture: 9.4
+    history: 9.3
+    culture: 9.3

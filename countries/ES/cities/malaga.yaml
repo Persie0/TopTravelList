@@ -1,0 +1,16 @@
+id: city-es-malaga
+name: "Málaga"
+location:
+  country_code: ES
+  latitude: 36.7213
+  longitude: -4.4214
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 8.7
+  experience: 9.0
+  depth: 8.8
+  categories:
+    culture: 9.2
+    history: 9.0
+    beaches: 8.9

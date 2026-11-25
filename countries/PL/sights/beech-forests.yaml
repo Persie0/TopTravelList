@@ -1,0 +1,15 @@
+id: sight-pl-beech-forests
+name: "Ancient Beech Forests (Polish components)"
+location:
+  country_code: PL
+  latitude: 49.1
+  longitude: 22.65
+scores:
+  impact: 8.6
+  uniqueness: 9.0
+  significance: 9.3
+  experience: null
+  depth: null
+  categories:
+    nature: 9.3
+    wildlife: 9.1

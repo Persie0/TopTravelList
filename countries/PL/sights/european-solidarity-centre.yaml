@@ -1,0 +1,15 @@
+id: sight-pl-european-solidarity-centre
+name: "European Solidarity Centre, Gdańsk"
+location:
+  country_code: PL
+  latitude: 54.361
+  longitude: 18.649
+scores:
+  impact: 8.7
+  uniqueness: 9.0
+  significance: 9.3
+  experience: 8.9
+  depth: 8.9
+  categories:
+    history: 9.4
+    culture: 9.2

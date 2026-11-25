@@ -1,0 +1,15 @@
+id: sight-de-hildesheim-churches
+name: "St Mary's Cathedral and St Michael's Church at Hildesheim"
+location:
+  country_code: DE
+  latitude: 52.15
+  longitude: 9.95
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 9.3
+  experience: 8.7
+  depth: 8.5
+  categories:
+    architecture: 9.4
+    history: 9.4

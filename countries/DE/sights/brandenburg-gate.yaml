@@ -1,0 +1,15 @@
+id: sight-de-brandenburg-gate
+name: "Brandenburg Gate"
+location:
+  country_code: DE
+  latitude: 52.516
+  longitude: 13.377
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 9.4
+  experience: 8.8
+  depth: 7.6
+  categories:
+    architecture: 9.2
+    history: 9.5

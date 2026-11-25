@@ -1,0 +1,16 @@
+id: sight-ss-jebel-kujur-jabal-kuruk
+name: "Jebel Kujur (Jabal Kuruk)"
+location:
+  country_code: SS
+  latitude: 4.84369
+  longitude: 31.54838
+scores:
+  impact: 7.6
+  uniqueness: 7.2
+  significance: 6.1
+  experience: 7.5
+  depth: 6.3
+  categories:
+    photography: 8.3
+    nature: 8.1
+    adventure: 8.0

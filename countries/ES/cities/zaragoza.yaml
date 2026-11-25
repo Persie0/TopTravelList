@@ -1,0 +1,15 @@
+id: city-es-zaragoza
+name: "Zaragoza"
+location:
+  country_code: ES
+  latitude: 41.6488
+  longitude: -0.8891
+scores:
+  impact: 8.7
+  uniqueness: 8.7
+  significance: 8.9
+  experience: 8.8
+  depth: 8.8
+  categories:
+    architecture: 9.2
+    history: 9.2

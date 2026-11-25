@@ -1,0 +1,15 @@
+id: sight-gr-ancient-agora
+name: "Ancient Agora of Athens"
+location:
+  country_code: GR
+  latitude: 37.975
+  longitude: 23.722
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 9.6
+  experience: 9.0
+  depth: 8.8
+  categories:
+    history: 9.7
+    architecture: 9.4

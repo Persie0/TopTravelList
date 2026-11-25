@@ -1,0 +1,16 @@
+id: sight-by-bialowieza-forest
+name: "Białowieża Forest (Belarusian section)"
+location:
+  country_code: BY
+  latitude: 52.7
+  longitude: 23.9
+scores:
+  impact: 8.8
+  uniqueness: 9.4
+  significance: 9.5
+  experience: 8.8
+  depth: 8.8
+  categories:
+    nature: 9.5
+    wildlife: 9.3
+    photography: 9.0

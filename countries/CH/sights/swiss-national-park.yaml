@@ -1,0 +1,16 @@
+id: sight-ch-swiss-national-park
+name: "Swiss National Park"
+location:
+  country_code: CH
+  latitude: 46.66
+  longitude: 10.19
+scores:
+  impact: 9.1
+  uniqueness: 9.1
+  significance: 9.1
+  experience: 9.0
+  depth: 9.0
+  categories:
+    nature: 9.5
+    wildlife: 9.3
+    adventure: 9.2

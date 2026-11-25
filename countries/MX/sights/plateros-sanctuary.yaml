@@ -1,0 +1,16 @@
+id: sight-mx-plateros-sanctuary
+name: "Sanctuary of Santo Niño de Atocha, Plateros"
+location:
+  country_code: MX
+  latitude: 23.228889
+  longitude: -102.84055
+scores:
+  impact: 8.2
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 8.6
+  depth: 7.8
+  categories:
+    architecture: 8.9
+    history: 9.1
+    culture: 9.3

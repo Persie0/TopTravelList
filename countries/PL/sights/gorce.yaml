@@ -1,0 +1,15 @@
+id: sight-pl-gorce
+name: "Gorce National Park"
+location:
+  country_code: PL
+  latitude: 49.55
+  longitude: 20.12
+scores:
+  impact: 8.5
+  uniqueness: 8.5
+  significance: 8.4
+  experience: 8.7
+  depth: 8.7
+  categories:
+    nature: 9.1
+    adventure: 8.9

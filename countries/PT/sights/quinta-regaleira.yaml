@@ -1,0 +1,15 @@
+id: sight-pt-quinta-regaleira
+name: "Quinta da Regaleira"
+location:
+  country_code: PT
+  latitude: 38.7966
+  longitude: -9.3965
+scores:
+  impact: 9.1
+  uniqueness: 9.3
+  significance: 8.7
+  experience: 9.1
+  depth: 8.8
+  categories:
+    architecture: 9.4
+    photography: 9.3

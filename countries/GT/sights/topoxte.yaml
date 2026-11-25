@@ -1,0 +1,16 @@
+id: sight-gt-topoxte
+name: "Topoxté Archaeological Site"
+location:
+  country_code: GT
+  latitude: 17.066
+  longitude: -89.42
+scores:
+  impact: 8.2
+  uniqueness: 8.6
+  significance: 8.5
+  experience: 8.4
+  depth: 7.7
+  categories:
+    history: 8.9
+    architecture: 8.7
+    photography: 8.9

@@ -1,0 +1,15 @@
+id: sight-by-kamai-church
+name: "Church of St John the Baptist, Kamai"
+location:
+  country_code: BY
+  latitude: 55.04
+  longitude: 26.86
+scores:
+  impact: 8.2
+  uniqueness: 8.6
+  significance: 8.7
+  experience: 8.1
+  depth: 7.4
+  categories:
+    architecture: 9.0
+    history: 9.0

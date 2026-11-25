@@ -1,0 +1,16 @@
+id: sight-pt-ponta-sao-lourenco
+name: "Ponta de São Lourenço"
+location:
+  country_code: PT
+  latitude: 32.75
+  longitude: -16.71
+scores:
+  impact: 9.1
+  uniqueness: 9.0
+  significance: 8.5
+  experience: 9.0
+  depth: 8.5
+  categories:
+    nature: 9.3
+    photography: 9.4
+    adventure: 9.1

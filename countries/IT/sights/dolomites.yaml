@@ -1,0 +1,16 @@
+id: sight-it-dolomites
+name: "The Dolomites (UNESCO serial mountain landscape)"
+location:
+  country_code: IT
+  latitude: 46.6
+  longitude: 11.9
+scores:
+  impact: 9.7
+  uniqueness: 9.5
+  significance: 9.4
+  experience: 9.4
+  depth: 9.6
+  categories:
+    nature: 9.8
+    photography: 9.8
+    adventure: 9.6

@@ -1,0 +1,15 @@
+id: sight-de-trier-roman
+name: "Roman monuments cathedral and Church of Our Lady in Trier"
+location:
+  country_code: DE
+  latitude: 49.756
+  longitude: 6.644
+scores:
+  impact: 9.1
+  uniqueness: 9.2
+  significance: 9.5
+  experience: 9.0
+  depth: 9.2
+  categories:
+    history: 9.5
+    architecture: 9.4

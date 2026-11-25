@@ -1,0 +1,15 @@
+id: sight-it-dolomiti-bellunesi
+name: "Dolomiti Bellunesi National Park"
+location:
+  country_code: IT
+  latitude: 46.17
+  longitude: 12.0
+scores:
+  impact: 9.2
+  uniqueness: 9.0
+  significance: 9.0
+  experience: 9.0
+  depth: 9.2
+  categories:
+    nature: 9.5
+    adventure: 9.3

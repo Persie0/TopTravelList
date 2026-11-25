@@ -1,0 +1,15 @@
+id: sight-it-trulli
+name: "Trulli of Alberobello"
+location:
+  country_code: IT
+  latitude: 40.785
+  longitude: 17.237
+scores:
+  impact: 9.2
+  uniqueness: 9.4
+  significance: 9.0
+  experience: 9.0
+  depth: 8.5
+  categories:
+    architecture: 9.6
+    photography: 9.6

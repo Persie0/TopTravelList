@@ -1,0 +1,15 @@
+id: sight-es-seu-vella
+name: "Turó de la Seu Vella de Lleida"
+location:
+  country_code: ES
+  latitude: 41.617
+  longitude: 0.628
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.7
+  depth: 8.5
+  categories:
+    architecture: 9.3
+    history: 9.3

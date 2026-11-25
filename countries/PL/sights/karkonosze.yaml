@@ -1,0 +1,16 @@
+id: sight-pl-karkonosze
+name: "Karkonosze National Park (Polish section)"
+location:
+  country_code: PL
+  latitude: 50.76
+  longitude: 15.69
+scores:
+  impact: 9.0
+  uniqueness: 8.9
+  significance: 8.7
+  experience: 9.0
+  depth: 9.0
+  categories:
+    nature: 9.3
+    adventure: 9.2
+    photography: 9.2

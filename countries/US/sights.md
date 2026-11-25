@@ -2,7 +2,7 @@
 
 # United States (US) — Sights & attractions ranking
 
-**57 ranked** · **0 unassessed** · **57 total** · Worldwide scoring **v2**
+**60 ranked** · **0 unassessed** · **60 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (57)
+## Complete ranked list (60)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -66,11 +66,14 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 50 | [Poverty Point World Heritage Site](sights/poverty-point.yaml) | Attraction | **83.85** | **History 9.3**, **Culture 8.8** | 7.8 / 8.8 / 9.2 / 8.1 / 7.9 | [32.637, -91.406](https://www.google.com/maps/search/?api=1&query=32.637,-91.406) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Poverty%20Point%20World%20Heritage%20Site%2C%20United%20States) |
 | 51 | [Chicago Auditorium Building](sights/chicago-auditorium-building.yaml) | Attraction | **82.95** | **Architecture 9.1**, **History 8.9**, **Culture 8.8** | 8.2 / 8.5 / 8.8 / 8.0 / 7.5 | [41.876, -87.625](https://www.google.com/maps/search/?api=1&query=41.876,-87.625) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Chicago%20Auditorium%20Building%2C%20United%20States) |
 | 52 | [Serpent Mound](sights/serpent-mound.yaml) | Attraction | **82.65** | **History 9.2**, **Culture 8.9** | 7.8 / 8.9 / 9.1 / 7.8 / 7.1 | [39.026, -83.43](https://www.google.com/maps/search/?api=1&query=39.026,-83.43) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Serpent%20Mound%2C%20United%20States) |
-| 53 | [Historic Moravian Bethlehem](sights/historic-moravian-bethlehem.yaml) | Attraction | **82.35** | **History 9.0**, **Culture 8.8**, **Architecture 8.7** | 7.9 / 8.4 / 8.8 / 8.1 / 7.9 | [40.618, -75.382](https://www.google.com/maps/search/?api=1&query=40.618,-75.382) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Historic%20Moravian%20Bethlehem%2C%20United%20States) |
-| 54 | [Poplar Forest](sights/poplar-forest.yaml) | Forest | **82.00** | **Architecture 9.0**, **History 9.0** | 7.9 / 8.5 / 8.7 / 8.1 / 7.5 | [37.347, -79.265](https://www.google.com/maps/search/?api=1&query=37.347,-79.265) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Poplar%20Forest%2C%20United%20States) |
-| 55 | [Hopewell Mound Group](sights/hopewell-mound-group.yaml) | Attraction | **81.65** | **History 9.2**, **Culture 8.9** | 7.6 / 8.5 / 9.0 / 8.0 / 7.6 | [39.360644, -83.085736](https://www.google.com/maps/search/?api=1&query=39.360644,-83.085736) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hopewell%20Mound%20Group%2C%20United%20States) |
-| 56 | [Seip Earthworks](sights/seip-earthworks.yaml) | Attraction | **80.00** | **History 9.1**, **Culture 8.8** | 7.5 / 8.4 / 8.9 / 7.8 / 7.0 | [39.242136, -83.221106](https://www.google.com/maps/search/?api=1&query=39.242136,-83.221106) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Seip%20Earthworks%2C%20United%20States) |
-| 57 | [Hopeton Earthworks](sights/hopeton-earthworks.yaml) | Attraction | **79.60** | **History 9.1**, **Culture 8.8** | 7.3 / 8.4 / 8.9 / 7.8 / 7.2 | [39.37945, -82.984625](https://www.google.com/maps/search/?api=1&query=39.37945,-82.984625) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hopeton%20Earthworks%2C%20United%20States) |
+| 53 | [Salmon Ruins and Museum](sights/salmon-ruins.yaml) | Museum / heritage | **82.55** | **History 9.1**, **Culture 8.9**, **Architecture 8.7** | 7.8 / 8.4 / 8.8 / 8.3 / 8.1 | [36.7032, -108.0281](https://www.google.com/maps/search/?api=1&query=36.7032,-108.0281) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Salmon%20Ruins%20and%20Museum%2C%20United%20States) |
+| 54 | [Historic Moravian Bethlehem](sights/historic-moravian-bethlehem.yaml) | Attraction | **82.35** | **History 9.0**, **Culture 8.8**, **Architecture 8.7** | 7.9 / 8.4 / 8.8 / 8.1 / 7.9 | [40.618, -75.382](https://www.google.com/maps/search/?api=1&query=40.618,-75.382) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Historic%20Moravian%20Bethlehem%2C%20United%20States) |
+| 55 | [Poplar Forest](sights/poplar-forest.yaml) | Forest | **82.00** | **Architecture 9.0**, **History 9.0** | 7.9 / 8.5 / 8.7 / 8.1 / 7.5 | [37.347, -79.265](https://www.google.com/maps/search/?api=1&query=37.347,-79.265) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Poplar%20Forest%2C%20United%20States) |
+| 56 | [Hopewell Mound Group](sights/hopewell-mound-group.yaml) | Attraction | **81.65** | **History 9.2**, **Culture 8.9** | 7.6 / 8.5 / 9.0 / 8.0 / 7.6 | [39.360644, -83.085736](https://www.google.com/maps/search/?api=1&query=39.360644,-83.085736) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hopewell%20Mound%20Group%2C%20United%20States) |
+| 57 | [Pueblo Pintado Great House](sights/pueblo-pintado.yaml) | Attraction | **80.75** | **History 9.1**, **Architecture 8.6**, **Photography 8.4** | 7.8 / 8.4 / 8.8 / 7.7 / 7.2 | [35.974667, -107.674528](https://www.google.com/maps/search/?api=1&query=35.974667,-107.674528) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Pueblo%20Pintado%20Great%20House%2C%20United%20States) |
+| 58 | [Casamero Pueblo](sights/casamero-pueblo.yaml) | Attraction | **80.30** | **History 9.0**, **Architecture 8.5** | 7.7 / 8.3 / 8.7 / 7.9 / 7.2 | [35.425444, -108.055139](https://www.google.com/maps/search/?api=1&query=35.425444,-108.055139) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Casamero%20Pueblo%2C%20United%20States) |
+| 59 | [Seip Earthworks](sights/seip-earthworks.yaml) | Attraction | **80.00** | **History 9.1**, **Culture 8.8** | 7.5 / 8.4 / 8.9 / 7.8 / 7.0 | [39.242136, -83.221106](https://www.google.com/maps/search/?api=1&query=39.242136,-83.221106) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Seip%20Earthworks%2C%20United%20States) |
+| 60 | [Hopeton Earthworks](sights/hopeton-earthworks.yaml) | Attraction | **79.60** | **History 9.1**, **Culture 8.8** | 7.3 / 8.4 / 8.9 / 7.8 / 7.2 | [39.37945, -82.984625](https://www.google.com/maps/search/?api=1&query=39.37945,-82.984625) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hopeton%20Earthworks%2C%20United%20States) |
 
 ---
 

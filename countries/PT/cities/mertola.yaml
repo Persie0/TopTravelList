@@ -1,0 +1,15 @@
+id: city-pt-mertola
+name: "Mértola"
+location:
+  country_code: PT
+  latitude: 37.638
+  longitude: -7.661
+scores:
+  impact: 8.4
+  uniqueness: 8.7
+  significance: 8.8
+  experience: 8.4
+  depth: 8.0
+  categories:
+    history: 9.2
+    architecture: 8.9

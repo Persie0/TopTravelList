@@ -1,0 +1,15 @@
+id: sight-it-abruzzo
+name: "Abruzzo Lazio and Molise National Park"
+location:
+  country_code: IT
+  latitude: 41.8
+  longitude: 13.8
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 9.0
+  experience: 9.0
+  depth: 9.2
+  categories:
+    nature: 9.4
+    wildlife: 9.4

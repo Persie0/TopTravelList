@@ -1,0 +1,16 @@
+id: city-ua-chernivtsi
+name: "Chernivtsi"
+location:
+  country_code: UA
+  latitude: 48.2921
+  longitude: 25.9358
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 8.8
+  experience: 8.7
+  depth: 8.5
+  categories:
+    architecture: 9.3
+    history: 9.1
+    culture: 9.0

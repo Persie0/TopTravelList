@@ -1,0 +1,16 @@
+id: city-bf-bobo-dioulasso
+name: "Bobo-Dioulasso"
+location:
+  country_code: BF
+  latitude: 11.18064
+  longitude: -4.29489
+scores:
+  impact: 8.0
+  uniqueness: 8.4
+  significance: 8.2
+  experience: 8.1
+  depth: 8.0
+  categories:
+    culture: 8.7
+    architecture: 8.5
+    history: 8.4

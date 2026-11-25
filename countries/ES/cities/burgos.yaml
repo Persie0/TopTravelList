@@ -1,0 +1,15 @@
+id: city-es-burgos
+name: "Burgos"
+location:
+  country_code: ES
+  latitude: 42.3439
+  longitude: -3.6969
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 8.9
+  experience: 8.7
+  depth: 8.5
+  categories:
+    architecture: 9.3
+    history: 9.2

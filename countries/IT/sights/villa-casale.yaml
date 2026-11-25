@@ -1,0 +1,15 @@
+id: sight-it-villa-casale
+name: "Villa Romana del Casale"
+location:
+  country_code: IT
+  latitude: 37.365
+  longitude: 14.334
+scores:
+  impact: 9.1
+  uniqueness: 9.4
+  significance: 9.5
+  experience: 9.0
+  depth: 8.7
+  categories:
+    culture: 9.6
+    history: 9.6

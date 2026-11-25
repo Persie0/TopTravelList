@@ -1,0 +1,15 @@
+id: sight-pl-zamosc-old-city
+name: "Old City of Zamość"
+location:
+  country_code: PL
+  latitude: 50.717
+  longitude: 23.252
+scores:
+  impact: 8.9
+  uniqueness: 9.2
+  significance: 9.2
+  experience: 8.7
+  depth: 8.6
+  categories:
+    architecture: 9.4
+    history: 9.2

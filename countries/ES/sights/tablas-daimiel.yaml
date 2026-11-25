@@ -1,0 +1,15 @@
+id: sight-es-tablas-daimiel
+name: "Tablas de Daimiel National Park"
+location:
+  country_code: ES
+  latitude: 39.14
+  longitude: -3.7
+scores:
+  impact: 8.3
+  uniqueness: 8.8
+  significance: 8.9
+  experience: 8.5
+  depth: 8.3
+  categories:
+    nature: 9.2
+    wildlife: 9.3

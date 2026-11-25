@@ -1,0 +1,16 @@
+id: sight-fr-chambord
+name: "Château de Chambord"
+location:
+  country_code: FR
+  latitude: 47.616
+  longitude: 1.517
+scores:
+  impact: 9.3
+  uniqueness: 9.3
+  significance: 9.2
+  experience: 9.0
+  depth: 9.0
+  categories:
+    architecture: 9.6
+    history: 9.3
+    photography: 9.5

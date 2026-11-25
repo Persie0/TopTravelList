@@ -1,0 +1,15 @@
+id: sight-pl-warsaw-uprising-museum
+name: "Warsaw Uprising Museum"
+location:
+  country_code: PL
+  latitude: 52.232
+  longitude: 20.981
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 9.2
+  experience: 8.9
+  depth: 9.0
+  categories:
+    history: 9.4
+    culture: 9.1

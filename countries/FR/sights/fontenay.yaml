@@ -1,0 +1,15 @@
+id: sight-fr-fontenay
+name: "Cistercian Abbey of Fontenay"
+location:
+  country_code: FR
+  latitude: 47.64
+  longitude: 4.39
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 9.2
+  experience: 8.8
+  depth: 8.5
+  categories:
+    architecture: 9.3
+    history: 9.3

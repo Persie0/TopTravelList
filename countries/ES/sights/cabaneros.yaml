@@ -1,0 +1,15 @@
+id: sight-es-cabaneros
+name: "Cabañeros National Park"
+location:
+  country_code: ES
+  latitude: 39.4
+  longitude: -4.55
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 8.9
+  experience: 8.7
+  depth: 8.8
+  categories:
+    nature: 9.2
+    wildlife: 9.3

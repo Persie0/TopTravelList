@@ -1,0 +1,15 @@
+id: sight-gr-bassae
+name: "Temple of Apollo Epicurius at Bassae"
+location:
+  country_code: GR
+  latitude: 37.429
+  longitude: 21.9
+scores:
+  impact: 8.5
+  uniqueness: 9.1
+  significance: 9.4
+  experience: 8.2
+  depth: 7.8
+  categories:
+    architecture: 9.4
+    history: 9.4

@@ -1,0 +1,16 @@
+id: city-de-cologne
+name: "Cologne"
+location:
+  country_code: DE
+  latitude: 50.938
+  longitude: 6.96
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 9.1
+  experience: 9.0
+  depth: 9.0
+  categories:
+    architecture: 9.3
+    history: 9.2
+    culture: 9.1

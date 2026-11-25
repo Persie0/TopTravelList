@@ -1,0 +1,16 @@
+id: city-pl-wroclaw
+name: "Wrocław"
+location:
+  country_code: PL
+  latitude: 51.1079
+  longitude: 17.0385
+scores:
+  impact: 9.0
+  uniqueness: 8.9
+  significance: 8.9
+  experience: 9.1
+  depth: 9.0
+  categories:
+    architecture: 9.3
+    culture: 9.1
+    history: 9.0

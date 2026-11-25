@@ -1,0 +1,15 @@
+id: sight-pl-wielkopolska
+name: "Wielkopolska National Park"
+location:
+  country_code: PL
+  latitude: 52.27
+  longitude: 16.8
+scores:
+  impact: 7.9
+  uniqueness: 8.1
+  significance: 8.1
+  experience: 8.4
+  depth: 8.3
+  categories:
+    nature: 8.8
+    relaxation: 8.6

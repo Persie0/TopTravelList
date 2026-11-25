@@ -1,0 +1,15 @@
+id: sight-bf-loropeni-ruins
+name: "Ruins of Loropéni"
+location:
+  country_code: BF
+  latitude: 10.250023
+  longitude: -3.583339
+scores:
+  impact: 8.1
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 7.7
+  depth: 7.4
+  categories:
+    history: 9.1
+    architecture: 8.5

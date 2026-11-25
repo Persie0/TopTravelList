@@ -1,0 +1,16 @@
+id: sight-ch-alpstein
+name: "Alpstein mountain landscape"
+location:
+  country_code: CH
+  latitude: 47.25
+  longitude: 9.38
+scores:
+  impact: 9.3
+  uniqueness: 9.0
+  significance: 8.6
+  experience: 9.1
+  depth: 9.1
+  categories:
+    nature: 9.5
+    photography: 9.5
+    adventure: 9.2

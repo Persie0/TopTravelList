@@ -1,0 +1,15 @@
+id: sight-pt-gulbenkian
+name: "Calouste Gulbenkian Foundation buildings and garden"
+location:
+  country_code: PT
+  latitude: 38.737
+  longitude: -9.154
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 9.1
+  experience: 9.0
+  depth: 9.0
+  categories:
+    architecture: 9.2
+    culture: 9.4

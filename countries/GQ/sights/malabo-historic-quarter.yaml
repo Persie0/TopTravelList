@@ -1,0 +1,16 @@
+id: sight-gq-malabo-historic-quarter
+name: "Malabo Historic Quarter"
+location:
+  country_code: GQ
+  latitude: 3.751
+  longitude: 8.782
+scores:
+  impact: 7.6
+  uniqueness: 8.0
+  significance: 8.1
+  experience: 7.7
+  depth: 7.5
+  categories:
+    architecture: 8.4
+    history: 8.5
+    culture: 8.2

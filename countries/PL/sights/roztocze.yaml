@@ -1,0 +1,15 @@
+id: sight-pl-roztocze
+name: "Roztocze National Park"
+location:
+  country_code: PL
+  latitude: 50.56
+  longitude: 22.97
+scores:
+  impact: 8.3
+  uniqueness: 8.4
+  significance: 8.4
+  experience: 8.6
+  depth: 8.5
+  categories:
+    nature: 9.0
+    relaxation: 8.8

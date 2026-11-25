@@ -1,0 +1,16 @@
+id: sight-ua-lviv-core
+name: "Lviv Historic Centre"
+location:
+  country_code: UA
+  latitude: 49.842
+  longitude: 24.032
+scores:
+  impact: 9.3
+  uniqueness: 9.2
+  significance: 9.2
+  experience: 9.0
+  depth: 9.0
+  categories:
+    architecture: 9.6
+    history: 9.4
+    photography: 9.3
