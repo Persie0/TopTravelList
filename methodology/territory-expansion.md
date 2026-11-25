@@ -176,3 +176,7 @@ No matching NL parent records identified by generated name and approximate coord
 ### Bermuda coverage — 2026-11-25
 
 No matching GB parent records identified by generated inventory name and approximate coordinate screening. Add 3 settlements and 12 scoped sights. St George town, UNESCO property and Fort St Catherine have separate scopes; no score summation. Dockyard precinct excludes separate museum collection and Keep. Lighthouse exterior only pending access confirmation. UNESCO, government, museum and tourism source excerpts inspected; full independent claim and coordinate verification remains outstanding. No exact-10 additions.
+
+### Cayman Islands coverage — 2026-11-25
+
+No matching GB parent records identified by generated name/coordinate screen. Add 2 settlements and 11 sights across all three islands. Reef condition accounts for DoE documented decline and CCMI mixed recovery; no pristine reef or wildlife encounter guarantee. Stingray Sandbar distinct from Stingray City dive site, no feeding or handling credited. Source excerpts inspected; exact GPS and full independent verification pending. No exact-10 additions.

@@ -1,0 +1,16 @@
+id: sight-ky-seven-mile-beach
+name: "Seven Mile Beach (Grand Cayman)"
+location:
+  country_code: KY
+  latitude: 19.336
+  longitude: -81.382
+scores:
+  impact: 8.9
+  uniqueness: 8.1
+  significance: 7.0
+  experience: 8.9
+  depth: 8.1
+  categories:
+    beaches: 9.2
+    relaxation: 9.0
+    photography: 8.9
