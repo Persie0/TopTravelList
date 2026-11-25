@@ -2,12 +2,13 @@ id: sight-za-khomani-cultural-landscape
 name: "ǂKhomani Cultural Landscape"
 location:
   country_code: ZA
-  latitude: -26.20
-  longitude: 20.60
+  latitude: -26.2
+  longitude: 20.6
 scores:
   impact: null
-  uniqueness: null
-  significance: null
+  uniqueness: 9.3
+  significance: 9.4
   experience: null
   depth: null
-  categories: {}
+  categories:
+    culture: 9.4

@@ -40,24 +40,36 @@
 - Evidence: [source context](https://www.southafrica.net/na/en/travel/article/south-africa-s-top-10-incredible-attractions) (accessed 2026-11-25; official tourism, conservation or heritage context; exact facts and identity require record-level rechecking). Not fully independently verified.
 - Remaining gaps: individual claims, GPS, permitted visitor access, category and specialist peer calibration.
 
-## sight-za-cape-floral-region — Cape Floral Region Protected Areas (UNESCO aggregate) — 2026-11-25
+## sight-za-cape-floral-region — Cape Floral Region Protected Areas (UNESCO aggregate) — 2026-11-26
 
-- [YAML](../../../countries/ZA/sights/cape-floral-region.yaml) · Action: new · **unassessed**.
-- Scope: serial floral protected areas not one visitor site. GPS -34.00, 18.50: approximate editorial reference; independent verification pending.
-- Worldwide peers (I/U/S/E/D):
-  - [Mount Huangshan (CN)](../../../countries/CN/sights/mount-huangshan.yaml) — 9.9 / 9.9 / 9.6 / 9.8 / 9.3; world-leading mountain scenery; future comparison only; visitor scope unresolved.
-  - [Volcanoes National Park (RW)](../../../countries/RW/sights/volcanoes-national-park.yaml) — 9.6 / 9.7 / 9.4 / 9.4 / 9.1; mountain protected landscape; future comparison only; visitor scope unresolved.
-  - [Kgalagadi Botswana sector (BW)](../../../countries/BW/sights/kgalagadi-transfrontier-park-botswana-sector.yaml) — 9.1 / 9.2 / 8.8 / 8.5 / 9.1; regional protected landscape; future comparison only; visitor scope unresolved.
-  - [Black River Gorges National Park (MU)](../../../countries/MU/sights/black-river-gorges-national-park.yaml) — 9.0 / 8.9 / 8.8 / 8.9 / 9.0; bounded nature park; future comparison only; visitor scope unresolved.
-- Impact null: serial floral protected areas not one visitor site.
-- Uniqueness null: component boundary and access reconciliation pending.
-- Significance null: inscribed biodiversity heritage.
-- Experience null: separate protected-area visits.
-- Depth null: full serial scope unresolved.
-- Categories: none assessed. Overall: unranked.
-- High-score challenge: no 9.5+ fields. No approved 10.
-- Evidence: [source context](https://whc.unesco.org/en/statesparties/za/) (accessed 2026-11-25; country inventory confirms property designation, not visitor experience). Not fully independently verified.
-- Remaining gaps: individual claims, GPS, permitted visitor access, component scope and all five dimensions.
+- YAML: [source](../../../countries/ZA/sights/cape-floral-region.yaml)
+- Action: rescore
+- Precise subject: Inscribed protected-area clusters, excluding unrelated areas within the broader floristic region.
+- Location check: -34, 18.5; approximate representative point, not entrance; existing point retained pending corroboration.
+- Evidence status: **unassessed**
+- Sources (2026-11-26): UNESCO https://whc.unesco.org/en/list/1007 and https://whc.unesco.org/en/decisions/6352 (indexed excerpts) identify thirteen clusters and exceptional plant diversity and evolutionary processes. Component visitor routes not reconciled.
+- Missing facts: current authorized access, exact location and independent claim-level verification.
+
+### Worldwide peer comparisons
+- [te-wahipounamu (NZ)](../../../countries/NZ/sights/te-wahipounamu.yaml): 9.5/9.4/9.5/9.2/9.6; large inscribed combined ecological and mountain landscape.
+- [kinabalu-park (MY)](../../../countries/MY/sights/kinabalu-park.yaml): 9.4/9.5/9.5/9.2/9.3; exceptional endemic mountain flora and defined visitor routes.
+- [kalkalpen-national-park (AT)](../../../countries/AT/sights/kalkalpen-national-park.yaml): 8.7/9.0/9.1/8.6/9.0; protected temperate forest, different botanical values.
+- [khao-yai-national-park (TH)](../../../countries/TH/sights/khao-yai-national-park.yaml): 9.0/9.1/9.0/9.0/9.2; extensive tropical ecosystem with established visitor routes.
+
+### Scoring decisions
+- Impact: null — Visible scope across components unresolved.
+- Uniqueness: 9.6 — Exceptionally distinctive plant diversity and ecological processes.
+- Significance: 9.7 — Globally important biodiversity and endemism.
+- Experience: null — Aggregate authorized visitor access not reconciled.
+- Depth: null — Accessible serial extent unresolved.
+- Applicable categories: nature 9.7.
+- Overall: unranked.
+- High-score challenge: Uniqueness 9.6, significance/nature 9.7 supported by globally exceptional floristic diversity compared with Kinabalu and Te Wāhipounamu; no automatic transfer to visitor dimensions.
+- Approved 10 registry: none.
+- Final decision: Partial assessment; no total.
+- Earlier decision: [previous incomplete assessment](history-review-2026-11-26.md).
+- Verification still needed: current visitor conditions, precise representative point and full claim-level corroboration.
+
 
 ## sight-za-maloti-drakensberg-south-africa — Maloti-Drakensberg Park (South African sector) — 2026-11-25
 
@@ -116,24 +128,36 @@
 - Evidence: [source context](https://www.southafrica.net/gl/en/travel/article/western-cape-highlights) (accessed 2026-11-25; official tourism, conservation or heritage context; exact facts and identity require record-level rechecking). Not fully independently verified.
 - Remaining gaps: individual claims, GPS, permitted visitor access, category and specialist peer calibration.
 
-## sight-za-fossil-hominid-sites — Fossil Hominid Sites of South Africa (UNESCO aggregate) — 2026-11-25
+## sight-za-fossil-hominid-sites — Fossil Hominid Sites of South Africa (UNESCO aggregate) — 2026-11-26
 
-- [YAML](../../../countries/ZA/sights/fossil-hominid-sites.yaml) · Action: new · **unassessed**.
-- Scope: serial palaeoanthropological research sites. GPS -25.92, 27.76: approximate editorial reference; independent verification pending.
-- Worldwide peers (I/U/S/E/D):
-  - [Kigali Genocide Memorial (RW)](../../../countries/RW/sights/kigali-genocide-memorial-gisozi.yaml) — 8.8 / 8.8 / 9.6 / 9.0 / 8.7; remembrance and educational significance; future comparison only; visitor scope unresolved.
-  - [National Archaeological Museum Athens (GR)](../../../countries/GR/sights/national-arch-museum.yaml) — 9.0 / 9.2 / 9.6 / 9.0 / 9.2; international historical collections; future comparison only; visitor scope unresolved.
-  - [Jordan Museum (JO)](../../../countries/JO/sights/jordan-museum.yaml) — 8.1 / 8.4 / 8.9 / 8.5 / 8.5; regional heritage interpretation; future comparison only; visitor scope unresolved.
-  - [Adulis Archaeological Site (ER)](../../../countries/ER/sights/adulis-archaeological-site.yaml) — 7.5 / 8.6 / 9.4 / 7.8 / 7.4; archaeological heritage with bounded visit; future comparison only; visitor scope unresolved.
-- Impact null: serial palaeoanthropological research sites.
-- Uniqueness null: component access unresolved.
-- Significance null: inscribed scientific heritage.
-- Experience null: not a single public visit.
-- Depth null: individual sites require reconciliation.
-- Categories: none assessed. Overall: unranked.
-- High-score challenge: no 9.5+ fields. No approved 10.
-- Evidence: [source context](https://whc.unesco.org/en/statesparties/za/) (accessed 2026-11-25; country inventory confirms property designation, not visitor experience). Not fully independently verified.
-- Remaining gaps: individual claims, GPS, permitted visitor access, component scope and all five dimensions.
+- YAML: [source](../../../countries/ZA/sights/fossil-hominid-sites.yaml)
+- Action: rescore
+- Precise subject: Entire inscribed serial property, not only Sterkfontein or Maropeng.
+- Location check: -25.92, 27.76; approximate representative point, not entrance; existing point retained pending corroboration.
+- Evidence status: **unassessed**
+- Sources (2026-11-26): UNESCO https://whc.unesco.org/en/list/915/ and https://whc.unesco.org/en/list/915/maps/ (indexed excerpts) identify internationally important fossil record and multiple dispersed sites. Wits public Sterkfontein tour is documented separately; no general access inferred.
+- Missing facts: current authorized access, exact location and independent claim-level verification.
+
+### Worldwide peer comparisons
+- [olduvai-gorge (TZ)](../../../countries/TZ/sights/olduvai-gorge.yaml): 8.5/9.5/9.8/8.7/8.4; globally defining early human fossils and interpreted gorge.
+- [melka-kunture-balchit (ET)](../../../countries/ET/sights/melka-kunture-balchit.yaml): 8/9.4/9.7/8.5/8.4; long prehistoric sequence with museum and open-air excavations.
+- [lenggong-valley-archaeological-heritage (MY)](../../../countries/MY/sights/lenggong-valley-archaeological-heritage.yaml): 8.0/9.0/9.5/8.0/8.4; multi-site prehistoric heritage and interpreted visitor circuit.
+- [ban-chiang-archaeological-site (TH)](../../../countries/TH/sights/ban-chiang-archaeological-site.yaml): 8.4/9.2/9.6/8.2/8.1; important prehistoric settlement and museum, different period.
+
+### Scoring decisions
+- Impact: null — Visitor-visible extent unresolved.
+- Uniqueness: 9.7 — Exceptional geographically dispersed fossil evidence.
+- Significance: 9.8 — Globally defining human evolution record.
+- Experience: null — Permitted visits across the serial property not reconciled.
+- Depth: null — Accessible component breadth unresolved.
+- Applicable categories: history 9.8.
+- Overall: unranked.
+- High-score challenge: Uniqueness 9.7 and significance/history 9.8 anchored against Olduvai and Melka Kunture; exceptional distributed fossil evidence, not a combined visitor rating.
+- Approved 10 registry: none.
+- Final decision: Partial assessment; no total.
+- Earlier decision: [previous incomplete assessment](history-review-2026-11-26.md).
+- Verification still needed: current visitor conditions, precise representative point and full claim-level corroboration.
+
 
 ## sight-za-mandela-legacy-sites — Nelson Mandela Legacy Sites (UNESCO aggregate) — 2026-11-25
 
@@ -173,62 +197,98 @@
 - Evidence: [source context](https://whc.unesco.org/en/statesparties/za/) (accessed 2026-11-25; country inventory confirms property designation, not visitor experience). Not fully independently verified.
 - Remaining gaps: individual claims, GPS, permitted visitor access, category and specialist peer calibration.
 
-## sight-za-richtersveld-cultural-landscape — Richtersveld Cultural and Botanical Landscape — 2026-11-25
+## sight-za-richtersveld-cultural-landscape — Richtersveld Cultural and Botanical Landscape — 2026-11-26
 
-- [YAML](../../../countries/ZA/sights/richtersveld-cultural-landscape.yaml) · Action: new · **unassessed**.
-- Scope: living pastoral cultural landscape distinct from nearby transfrontier park. GPS -28.60, 17.10: approximate editorial reference; independent verification pending.
-- Worldwide peers (I/U/S/E/D):
-  - [Mount Huangshan (CN)](../../../countries/CN/sights/mount-huangshan.yaml) — 9.9 / 9.9 / 9.6 / 9.8 / 9.3; world-leading mountain scenery; future comparison only; visitor scope unresolved.
-  - [Volcanoes National Park (RW)](../../../countries/RW/sights/volcanoes-national-park.yaml) — 9.6 / 9.7 / 9.4 / 9.4 / 9.1; mountain protected landscape; future comparison only; visitor scope unresolved.
-  - [Kgalagadi Botswana sector (BW)](../../../countries/BW/sights/kgalagadi-transfrontier-park-botswana-sector.yaml) — 9.1 / 9.2 / 8.8 / 8.5 / 9.1; regional protected landscape; future comparison only; visitor scope unresolved.
-  - [Black River Gorges National Park (MU)](../../../countries/MU/sights/black-river-gorges-national-park.yaml) — 9.0 / 8.9 / 8.8 / 8.9 / 9.0; bounded nature park; future comparison only; visitor scope unresolved.
-- Impact null: living pastoral cultural landscape distinct from nearby transfrontier park.
-- Uniqueness null: community and visitor scope unresolved.
-- Significance null: inscribed property.
-- Experience null: permitted routes not confirmed.
-- Depth null: property component boundaries unresolved.
-- Categories: none assessed. Overall: unranked.
-- High-score challenge: no 9.5+ fields. No approved 10.
-- Evidence: [source context](https://whc.unesco.org/en/statesparties/za/) (accessed 2026-11-25; country inventory confirms property designation, not visitor experience). Not fully independently verified.
-- Remaining gaps: individual claims, GPS, permitted visitor access, component scope and all five dimensions.
+- YAML: [source](../../../countries/ZA/sights/richtersveld-cultural-landscape.yaml)
+- Action: rescore
+- Precise subject: Inscribed Richtersveld Community Conservancy; distinguish nearby national park from the inscribed property.
+- Location check: -28.6, 17.1; approximate representative point, not entrance; existing point retained pending corroboration.
+- Evidence status: **unassessed**
+- Sources (2026-11-26): UNESCO https://whc.unesco.org/en/list/1265 (indexed excerpt) documents communal grazing management, succulent Karoo vegetation and community ownership. SANParks https://www.sanparks.org/parks/ai-ais-richtersveld documents national park visitation but does not establish routes within the inscribed conservancy.
+- Missing facts: current authorized access, exact location and independent claim-level verification.
 
-## sight-za-pleistocene-occupation-sites — Pleistocene Occupation Sites of South Africa (UNESCO aggregate) — 2026-11-25
+### Worldwide peer comparisons
+- [konso-cultural-landscape (ET)](../../../countries/ET/sights/konso-cultural-landscape.yaml): 8.7/9.2/9.2/8.3/8.7; living terraced cultural landscape and public settlement routes.
+- [budj-bim-cultural-landscape (AU)](../../../countries/AU/sights/budj-bim-cultural-landscape.yaml): 8.0/9.0/9.3/8.1/8.0; living Indigenous landscape and documented heritage practices.
+- [kaya-kinondo (KE)](../../../countries/KE/sights/kaya-kinondo.yaml): 8.2/9.0/9.0/8.5/7.8; sacred community-managed forest, defined guided circuit.
+- [kuk-early-agricultural-site (PG)](../../../countries/PG/sights/kuk-early-agricultural-site.yaml): 6.4/9.3/9.4/6.8/6.4; long history of land management, limited visible archaeology.
 
-- [YAML](../../../countries/ZA/sights/pleistocene-occupation-sites.yaml) · Action: new · **unassessed**.
-- Scope: serial archaeological research sites. GPS -34.21, 22.08: approximate editorial reference; independent verification pending.
-- Worldwide peers (I/U/S/E/D):
-  - [Kigali Genocide Memorial (RW)](../../../countries/RW/sights/kigali-genocide-memorial-gisozi.yaml) — 8.8 / 8.8 / 9.6 / 9.0 / 8.7; remembrance and educational significance; future comparison only; visitor scope unresolved.
-  - [National Archaeological Museum Athens (GR)](../../../countries/GR/sights/national-arch-museum.yaml) — 9.0 / 9.2 / 9.6 / 9.0 / 9.2; international historical collections; future comparison only; visitor scope unresolved.
-  - [Jordan Museum (JO)](../../../countries/JO/sights/jordan-museum.yaml) — 8.1 / 8.4 / 8.9 / 8.5 / 8.5; regional heritage interpretation; future comparison only; visitor scope unresolved.
-  - [Adulis Archaeological Site (ER)](../../../countries/ER/sights/adulis-archaeological-site.yaml) — 7.5 / 8.6 / 9.4 / 7.8 / 7.4; archaeological heritage with bounded visit; future comparison only; visitor scope unresolved.
-- Impact null: serial archaeological research sites.
-- Uniqueness null: individual public access unresolved.
-- Significance null: inscribed evidence of modern human behaviour.
-- Experience null: not a single visitor experience.
-- Depth null: component assessment pending.
-- Categories: none assessed. Overall: unranked.
-- High-score challenge: no 9.5+ fields. No approved 10.
-- Evidence: [source context](https://whc.unesco.org/en/list/1723) (accessed 2026-11-25; official tourism, conservation or heritage context; exact facts and identity require record-level rechecking). Not fully independently verified.
-- Remaining gaps: individual claims, GPS, permitted visitor access, component scope and all five dimensions.
+### Scoring decisions
+- Impact: null — Public visible scope unresolved.
+- Uniqueness: 9.2 — Distinctive mobile pastoral traditions and arid botanical landscape.
+- Significance: 9.3 — Important living community land-management heritage.
+- Experience: null — Conservancy-specific permitted routes unresolved.
+- Depth: null — Accessible component extent unresolved.
+- Applicable categories: culture 9.3, nature 9.2.
+- Overall: unranked.
+- High-score challenge: No 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Partial assessment; no total.
+- Earlier decision: [previous incomplete assessment](history-review-2026-11-26.md).
+- Verification still needed: current visitor conditions, precise representative point and full claim-level corroboration.
 
-## sight-za-khomani-cultural-landscape — ǂKhomani Cultural Landscape — 2026-11-25
 
-- [YAML](../../../countries/ZA/sights/khomani-cultural-landscape.yaml) · Action: new · **unassessed**.
-- Scope: living San cultural landscape. GPS -26.20, 20.60: approximate editorial reference; independent verification pending.
-- Worldwide peers (I/U/S/E/D):
-  - [Kigali Genocide Memorial (RW)](../../../countries/RW/sights/kigali-genocide-memorial-gisozi.yaml) — 8.8 / 8.8 / 9.6 / 9.0 / 8.7; remembrance and educational significance; future comparison only; visitor scope unresolved.
-  - [National Archaeological Museum Athens (GR)](../../../countries/GR/sights/national-arch-museum.yaml) — 9.0 / 9.2 / 9.6 / 9.0 / 9.2; international historical collections; future comparison only; visitor scope unresolved.
-  - [Jordan Museum (JO)](../../../countries/JO/sights/jordan-museum.yaml) — 8.1 / 8.4 / 8.9 / 8.5 / 8.5; regional heritage interpretation; future comparison only; visitor scope unresolved.
-  - [Adulis Archaeological Site (ER)](../../../countries/ER/sights/adulis-archaeological-site.yaml) — 7.5 / 8.6 / 9.4 / 7.8 / 7.4; archaeological heritage with bounded visit; future comparison only; visitor scope unresolved.
-- Impact null: living San cultural landscape.
-- Uniqueness null: community permissions and exact visitor scope unresolved.
-- Significance null: inscribed cultural heritage.
-- Experience null: visitor routes not confirmed.
-- Depth null: separate from safari park rating.
-- Categories: none assessed. Overall: unranked.
-- High-score challenge: no 9.5+ fields. No approved 10.
-- Evidence: [source context](https://whc.unesco.org/en/statesparties/za/) (accessed 2026-11-25; country inventory confirms property designation, not visitor experience). Not fully independently verified.
-- Remaining gaps: individual claims, GPS, permitted visitor access, component scope and all five dimensions.
+## sight-za-pleistocene-occupation-sites — Pleistocene Occupation Sites of South Africa (UNESCO aggregate) — 2026-11-26
+
+- YAML: [source](../../../countries/ZA/sights/pleistocene-occupation-sites.yaml)
+- Action: rescore
+- Precise subject: Diepkloof Rock Shelter, Pinnacle Point and Sibhudu Cave, inscribed serial research property only.
+- Location check: -34.21, 22.08; approximate representative point, not entrance; existing point retained pending corroboration.
+- Evidence status: **unassessed**
+- Sources (2026-11-26): UNESCO https://whc.unesco.org/en/list/1723 and https://whc.unesco.org/en/list/1723/maps/ (indexed excerpts) identify three components with long, dated archaeological sequences documenting ancient human behaviour. Public visitor scope not verified across all three.
+- Missing facts: current authorized access, exact location and independent claim-level verification.
+
+### Worldwide peer comparisons
+- [olduvai-gorge (TZ)](../../../countries/TZ/sights/olduvai-gorge.yaml): 8.5/9.5/9.8/8.7/8.4; globally defining early human fossils and interpreted gorge.
+- [melka-kunture-balchit (ET)](../../../countries/ET/sights/melka-kunture-balchit.yaml): 8/9.4/9.7/8.5/8.4; long prehistoric sequence with museum and open-air excavations.
+- [lenggong-valley-archaeological-heritage (MY)](../../../countries/MY/sights/lenggong-valley-archaeological-heritage.yaml): 8.0/9.0/9.5/8.0/8.4; multi-site prehistoric heritage and interpreted visitor circuit.
+- [ban-chiang-archaeological-site (TH)](../../../countries/TH/sights/ban-chiang-archaeological-site.yaml): 8.4/9.2/9.6/8.2/8.1; important prehistoric settlement and museum, different period.
+
+### Scoring decisions
+- Impact: null — Visible public extent unresolved.
+- Uniqueness: 9.5 — Rare stratified record of early modern human behaviour.
+- Significance: 9.7 — Internationally important prehistoric evidence.
+- Experience: null — Ordinary authorized access unresolved.
+- Depth: null — Accessible serial components not reconciled.
+- Applicable categories: history 9.7.
+- Overall: unranked.
+- High-score challenge: Uniqueness 9.5 and significance/history 9.7 anchored against Olduvai and Melka Kunture; scientific importance only, no visitor inference.
+- Approved 10 registry: none.
+- Final decision: Partial assessment; no total.
+- Earlier decision: [previous incomplete assessment](history-review-2026-11-26.md).
+- Verification still needed: current visitor conditions, precise representative point and full claim-level corroboration.
+
+
+## sight-za-khomani-cultural-landscape — ǂKhomani Cultural Landscape — 2026-11-26
+
+- YAML: [source](../../../countries/ZA/sights/khomani-cultural-landscape.yaml)
+- Action: rescore
+- Precise subject: Inscribed San cultural landscape coinciding with the South African Kalahari Gemsbok National Park; no safari score transfer.
+- Location check: -26.2, 20.6; approximate representative point, not entrance; existing point retained pending corroboration.
+- Evidence status: **unassessed**
+- Sources (2026-11-26): UNESCO https://whc.unesco.org/en/list/1545/ (indexed excerpt) describes San relationships with desert landscape and community governance. SANParks https://www.sanparks.org/travel/plan/what-to-do/visitor-interpretation (indexed excerpt) describes Twee Rivieren interpretation centre. Cultural-landscape-specific community permissions and visitor breadth remain unresolved.
+- Missing facts: current authorized access, exact location and independent claim-level verification.
+
+### Worldwide peer comparisons
+- [konso-cultural-landscape (ET)](../../../countries/ET/sights/konso-cultural-landscape.yaml): 8.7/9.2/9.2/8.3/8.7; living terraced cultural landscape and public settlement routes.
+- [budj-bim-cultural-landscape (AU)](../../../countries/AU/sights/budj-bim-cultural-landscape.yaml): 8.0/9.0/9.3/8.1/8.0; living Indigenous landscape and documented heritage practices.
+- [kaya-kinondo (KE)](../../../countries/KE/sights/kaya-kinondo.yaml): 8.2/9.0/9.0/8.5/7.8; sacred community-managed forest, defined guided circuit.
+- [kuk-early-agricultural-site (PG)](../../../countries/PG/sights/kuk-early-agricultural-site.yaml): 6.4/9.3/9.4/6.8/6.4; long history of land management, limited visible archaeology.
+
+### Scoring decisions
+- Impact: null — Cultural-landscape-visible scope unresolved.
+- Uniqueness: 9.3 — Distinctive living San desert knowledge and cultural associations.
+- Significance: 9.4 — Important internationally recognized Indigenous heritage.
+- Experience: null — Cultural visitor permissions unresolved beyond documented centre.
+- Depth: null — Accessible cultural routes not reconciled.
+- Applicable categories: culture 9.4.
+- Overall: unranked.
+- High-score challenge: No 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Partial assessment; no total.
+- Earlier decision: [previous incomplete assessment](history-review-2026-11-26.md).
+- Verification still needed: current visitor conditions, precise representative point and full claim-level corroboration.
+
 
 ## sight-za-barberton-makhonjwa-mountains — Barberton Makhonjwa Mountains — 2026-11-25
 
@@ -287,24 +347,36 @@
 - Evidence: [source context](https://whc.unesco.org/en/statesparties/za/) (accessed 2026-11-25; country inventory confirms property designation, not visitor experience). Not fully independently verified.
 - Remaining gaps: individual claims, GPS, permitted visitor access, component scope and all five dimensions.
 
-## sight-za-emakhosini — Emakhosini Valley of the Zulu Kings — 2026-11-25
+## sight-za-emakhosini — Emakhosini Valley of the Zulu Kings — 2026-11-26
 
-- [YAML](../../../countries/ZA/sights/emakhosini.yaml) · Action: new · **unassessed**.
-- Scope: historic royal landscape. GPS -28.39, 31.14: approximate editorial reference; independent verification pending.
-- Worldwide peers (I/U/S/E/D):
-  - [Kigali Genocide Memorial (RW)](../../../countries/RW/sights/kigali-genocide-memorial-gisozi.yaml) — 8.8 / 8.8 / 9.6 / 9.0 / 8.7; remembrance and educational significance; future comparison only; visitor scope unresolved.
-  - [National Archaeological Museum Athens (GR)](../../../countries/GR/sights/national-arch-museum.yaml) — 9.0 / 9.2 / 9.6 / 9.0 / 9.2; international historical collections; future comparison only; visitor scope unresolved.
-  - [Jordan Museum (JO)](../../../countries/JO/sights/jordan-museum.yaml) — 8.1 / 8.4 / 8.9 / 8.5 / 8.5; regional heritage interpretation; future comparison only; visitor scope unresolved.
-  - [Adulis Archaeological Site (ER)](../../../countries/ER/sights/adulis-archaeological-site.yaml) — 7.5 / 8.6 / 9.4 / 7.8 / 7.4; archaeological heritage with bounded visit; future comparison only; visitor scope unresolved.
-- Impact null: historic royal landscape.
-- Uniqueness null: component and visitor boundaries unresolved.
-- Significance null: 2026 tentative entry.
-- Experience null: permitted access not confirmed.
-- Depth null: individual sites require review.
-- Categories: none assessed. Overall: unranked.
-- High-score challenge: no 9.5+ fields. No approved 10.
-- Evidence: [source context](https://whc.unesco.org/en/statesparties/za/) (accessed 2026-11-25; country inventory confirms property designation, not visitor experience). Not fully independently verified.
-- Remaining gaps: individual claims, GPS, permitted visitor access, component scope and all five dimensions.
+- YAML: [source](../../../countries/ZA/sights/emakhosini.yaml)
+- Action: rescore
+- Precise subject: Proposed royal landscape through documented public memorial and heritage-park visitor routes; no access to graves or sacred sites assumed.
+- Location check: -28.39, 31.14; approximate representative point, not entrance; existing point retained pending corroboration.
+- Evidence status: **source-linked-unverified**
+- Sources (2026-11-26): UNESCO tentative submission https://whc.unesco.org/en/tentativelists/7048/ (opened) documents royal burial landscape, historical settlements and public tourism facilities. Provincial tourism https://visitkzn-sa.com/media/explore-kwazulu-natal-the-provinces-seven-must-see-tourism-routes (indexed excerpt) identifies heritage park and Spirit of eMakhosini monument. Provincial heritage authority https://amafainstitute.org.za/electronic-information-leaflets/ (indexed excerpt) lists the on-site display. Current operations and permissions unconfirmed.
+- Missing facts: current authorized access, exact location and independent claim-level verification.
+
+### Worldwide peer comparisons
+- [konso-cultural-landscape (ET)](../../../countries/ET/sights/konso-cultural-landscape.yaml): 8.7/9.2/9.2/8.3/8.7; living terraced cultural landscape and public settlement routes.
+- [budj-bim-cultural-landscape (AU)](../../../countries/AU/sights/budj-bim-cultural-landscape.yaml): 8.0/9.0/9.3/8.1/8.0; living Indigenous landscape and documented heritage practices.
+- [kaya-kinondo (KE)](../../../countries/KE/sights/kaya-kinondo.yaml): 8.2/9.0/9.0/8.5/7.8; sacred community-managed forest, defined guided circuit.
+- [kuk-early-agricultural-site (PG)](../../../countries/PG/sights/kuk-early-agricultural-site.yaml): 6.4/9.3/9.4/6.8/6.4; long history of land management, limited visible archaeology.
+
+### Scoring decisions
+- Impact: 8.2 — Rolling valley and visible memorial features.
+- Uniqueness: 9 — Distinctive living royal landscape and traditions.
+- Significance: 9.2 — Important history of Zulu state formation, proposed not inscribed.
+- Experience: 8.2 — Documented public park route and memorial interpretation.
+- Depth: 8 — Multiple documented landscape features, sacred sites excluded.
+- Applicable categories: culture 9.2, history 9.2.
+- Overall: 85.80/100.
+- High-score challenge: No 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide V2 rating for documented visitor scope.
+- Earlier decision: [previous incomplete assessment](history-review-2026-11-26.md).
+- Verification still needed: current visitor conditions, precise representative point and full claim-level corroboration.
+
 
 ## sight-za-kgalagadi-south-africa — Kgalagadi Transfrontier Park (South African sector) — 2026-11-25
 
@@ -571,3 +643,39 @@
 - High-score challenge: no 9.5+ fields. No approved 10.
 - Evidence: [source context](https://www.southafrica.net/gl/en/travel/article/western-cape-highlights) (accessed 2026-11-25; official tourism, conservation or heritage context; exact facts and identity require record-level rechecking). Not fully independently verified.
 - Remaining gaps: individual claims, GPS, permitted visitor access, category and specialist peer calibration.
+
+
+## sight-za-sterkfontein-caves — Sterkfontein Caves — 2026-11-26
+
+- YAML: [source](../../../countries/ZA/sights/sterkfontein-caves.yaml)
+- Action: new
+- Precise subject: Public Wits Sterkfontein cave tour, exhibition and interpreted excavation sites; excludes Maropeng, Swartkrans and other separate fossil locations.
+- Location check: -26.05, 27.7; approximate representative point, not entrance; regional locality from Mindat.
+- Evidence status: **source-linked-unverified**
+- Sources (2026-11-26): Wits University https://sterkfonteincaves.wits.ac.za/plan-your-visit/ (opened) describes guided cave and exhibition tours, duration, booking and mobility constraints. https://www.wits.ac.za/news/latest-news/research-news/2025/2025-04/world-renowned-wits-sterkfontein-caves-reopen.html (indexed excerpt) confirms 2025 reopening. https://sterkfonteincaves.wits.ac.za/caves/sterkfontein-caves/ (indexed excerpt) describes fossil-bearing deposits. UNESCO https://whc.unesco.org/en/list/915/ documents wider property; no transfer of entire serial property's values. https://www.mindat.org/maps.php?id=56482 (indexed excerpt) gives approximate 26°03′ S 27°42′ E, not an entrance.
+- Missing facts: current authorized access, exact location and independent claim-level verification.
+
+### Worldwide peer comparisons
+- [olduvai-gorge (TZ)](../../../countries/TZ/sights/olduvai-gorge.yaml): 8.5/9.5/9.8/8.7/8.4; globally defining early human fossils and interpreted gorge.
+- [melka-kunture-balchit (ET)](../../../countries/ET/sights/melka-kunture-balchit.yaml): 8/9.4/9.7/8.5/8.4; long prehistoric sequence with museum and open-air excavations.
+- [lenggong-valley-archaeological-heritage (MY)](../../../countries/MY/sights/lenggong-valley-archaeological-heritage.yaml): 8.0/9.0/9.5/8.0/8.4; multi-site prehistoric heritage and interpreted visitor circuit.
+- [ban-chiang-archaeological-site (TH)](../../../countries/TH/sights/ban-chiang-archaeological-site.yaml): 8.4/9.2/9.6/8.2/8.1; important prehistoric settlement and museum, different period.
+
+### Scoring decisions
+- Impact: 8.7 — Impressive cave chambers and interpreted excavation viewpoints.
+- Uniqueness: 9.5 — Rare fossil-rich karst and pivotal discoveries.
+- Significance: 9.8 — World-defining evidence of human evolution, comparable to Olduvai.
+- Experience: 8.8 — Established guided cave tour and exhibition, physically constrained access.
+- Depth: 8.4 — Multiple interpreted features, narrower than the entire serial property.
+- Applicable categories: history 9.7, nature 8.8.
+- Overall: 91.05/100.
+- High-score challenge: Uniqueness 9.5, significance 9.8 and history 9.7 compare with Olduvai 9.5/9.8 and Melka Kunture 9.4/9.7; no credit for offsite original fossils or all research caves.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide V2 rating for documented visitor scope.
+- Earlier decision: none.
+- Verification still needed: current visitor conditions, precise representative point and full claim-level corroboration.
+
+
+## Heritage inventory recheck — 2026-11-26
+
+UNESCO https://whc.unesco.org/en/statesparties/za/ (opened) confirms 12 inscribed and two tentative properties. All represented at property or South African sector level. Individual serial components and current permissions remain incomplete; Sterkfontein is independently scoped rather than scored as the entire fossil property.
