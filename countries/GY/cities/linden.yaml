@@ -1,0 +1,15 @@
+id: city-gy-linden
+name: "Linden"
+location:
+  country_code: GY
+  latitude: 6.0081
+  longitude: -58.3071
+scores:
+  impact: 6.7
+  uniqueness: 7.2
+  significance: 7.2
+  experience: 7.0
+  depth: 6.8
+  categories:
+    history: 7.6
+    culture: 7.5

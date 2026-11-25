@@ -1,0 +1,15 @@
+id: sight-gy-walter-roth-museum-of-anthropology
+name: "Walter Roth Museum of Anthropology"
+location:
+  country_code: GY
+  latitude: 6.8146
+  longitude: -58.1630
+scores:
+  impact: 7.3
+  uniqueness: 8.2
+  significance: 8.4
+  experience: 7.6
+  depth: 7.0
+  categories:
+    culture: 8.8
+    history: 8.6
