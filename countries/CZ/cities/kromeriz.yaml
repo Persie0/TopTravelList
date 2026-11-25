@@ -1,0 +1,15 @@
+id: city-cz-kromeriz
+name: "Kromeriz"
+location:
+  country_code: CZ
+  latitude: 49.2985
+  longitude: 17.3931
+scores:
+  impact: 8.3
+  uniqueness: 8.4
+  significance: 8.7
+  experience: 8.4
+  depth: 8.1
+  categories:
+    architecture: 9.0
+    history: 8.9

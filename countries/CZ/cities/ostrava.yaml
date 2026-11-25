@@ -1,0 +1,16 @@
+id: city-cz-ostrava
+name: "Ostrava"
+location:
+  country_code: CZ
+  latitude: 49.8209
+  longitude: 18.2625
+scores:
+  impact: 7.9
+  uniqueness: 8.5
+  significance: 8.3
+  experience: 8.4
+  depth: 8.6
+  categories:
+    history: 8.8
+    culture: 8.6
+    architecture: 8.5

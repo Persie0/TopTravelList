@@ -1,0 +1,15 @@
+id: city-cz-jindrichuv-hradec
+name: "Jindrichuv Hradec"
+location:
+  country_code: CZ
+  latitude: 49.1440
+  longitude: 15.0030
+scores:
+  impact: 8.0
+  uniqueness: 8.1
+  significance: 8.3
+  experience: 8.2
+  depth: 7.8
+  categories:
+    architecture: 8.7
+    history: 8.6

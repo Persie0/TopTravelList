@@ -1,0 +1,15 @@
+id: city-cz-stramberk
+name: "Stramberk"
+location:
+  country_code: CZ
+  latitude: 49.5919
+  longitude: 18.1174
+scores:
+  impact: 8.0
+  uniqueness: 8.4
+  significance: 8.0
+  experience: 8.1
+  depth: 7.2
+  categories:
+    architecture: 8.7
+    photography: 8.8

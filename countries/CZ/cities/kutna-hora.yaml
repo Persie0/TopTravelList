@@ -1,0 +1,15 @@
+id: city-cz-kutna-hora
+name: "Kutna Hora"
+location:
+  country_code: CZ
+  latitude: 49.9486
+  longitude: 15.2683
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 8.6
+  depth: 8.2
+  categories:
+    history: 9.3
+    architecture: 9.1

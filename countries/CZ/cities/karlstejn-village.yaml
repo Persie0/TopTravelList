@@ -1,0 +1,14 @@
+id: city-cz-karlstejn-village
+name: "Karlstejn Village"
+location:
+  country_code: CZ
+  latitude: 49.9390
+  longitude: 14.1850
+scores:
+  impact: 7.0
+  uniqueness: 7.2
+  significance: 7.0
+  experience: 7.5
+  depth: 6.6
+  categories:
+    photography: 8.0
