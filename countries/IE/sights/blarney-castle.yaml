@@ -1,0 +1,16 @@
+id: sight-ie-blarney-castle
+name: "Blarney Castle and Gardens"
+location:
+  country_code: IE
+  latitude: 51.929
+  longitude: -8.57
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 8.4
+  experience: 8.8
+  depth: 8.6
+  categories:
+    architecture: 8.9
+    nature: 8.9
+    history: 8.7

@@ -2,7 +2,7 @@
 
 # Ireland (IE) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**20 ranked** · **0 unassessed** · **20 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,30 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (20)
 
-No cities, towns & villages have been assessed for **Ireland** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Dublin](cities/dublin.yaml) | City / town | **89.50** | **Culture 9.3**, **History 9.2**, **Nightlife 9.1**, Architecture 8.9 | 8.8 / 8.8 / 9.0 / 9.2 / 9.3 | [53.3498, -6.2603](https://www.google.com/maps/search/?api=1&query=53.3498,-6.2603) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Dublin%2C%20Ireland) |
+| 2 | [Galway](cities/galway.yaml) | City / town | **86.25** | **Culture 9.2**, **Nightlife 9.0**, **Food 8.8** | 8.5 / 8.7 / 8.5 / 9.0 / 8.5 | [53.2707, -9.0568](https://www.google.com/maps/search/?api=1&query=53.2707,-9.0568) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Galway%2C%20Ireland) |
+| 2 | [Kilkenny](cities/kilkenny.yaml) | City / town | **86.25** | **Architecture 9.1**, **History 9.0**, **Culture 8.8** | 8.7 / 8.6 / 8.7 / 8.7 / 8.2 | [52.654, -7.244](https://www.google.com/maps/search/?api=1&query=52.654,-7.244) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kilkenny%2C%20Ireland) |
+| 4 | [Cork](cities/cork.yaml) | City / town | **85.05** | **Food 9.0**, **Culture 8.9**, **Architecture 8.6** | 8.3 / 8.4 / 8.5 / 8.9 / 8.8 | [51.8985, -8.4756](https://www.google.com/maps/search/?api=1&query=51.8985,-8.4756) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cork%2C%20Ireland) |
+| 5 | [Cobh](cities/cobh.yaml) | City / town | **84.15** | **History 9.0**, **Photography 9.0**, **Architecture 8.8** | 8.5 / 8.4 / 8.6 / 8.5 / 7.7 | [51.85, -8.295](https://www.google.com/maps/search/?api=1&query=51.85,-8.295) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cobh%2C%20Ireland) |
+| 6 | [Kinsale](cities/kinsale.yaml) | City / town | **83.85** | **Food 8.9**, **Architecture 8.8**, **History 8.7** | 8.4 / 8.4 / 8.4 / 8.7 / 7.8 | [51.706, -8.523](https://www.google.com/maps/search/?api=1&query=51.706,-8.523) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kinsale%2C%20Ireland) |
+| 7 | [Dingle](cities/dingle.yaml) | City / town | **83.05** | **Culture 8.9**, **Food 8.7**, **Photography 8.6** | 8.3 / 8.5 / 8.0 / 8.8 / 7.7 | [52.14, -10.27](https://www.google.com/maps/search/?api=1&query=52.14,-10.27) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Dingle%2C%20Ireland) |
+| 8 | [Waterford](cities/waterford.yaml) | City / town | **82.95** | **History 9.0**, **Culture 8.6**, **Architecture 8.5** | 8.1 / 8.3 / 8.6 / 8.4 / 8.1 | [52.259, -7.11](https://www.google.com/maps/search/?api=1&query=52.259,-7.11) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Waterford%2C%20Ireland) |
+| 9 | [Limerick](cities/limerick.yaml) | City / town | **81.60** | **History 8.7**, **Culture 8.6**, **Architecture 8.4** | 8.0 / 8.0 / 8.4 / 8.4 / 8.2 | [52.663, -8.626](https://www.google.com/maps/search/?api=1&query=52.663,-8.626) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Limerick%2C%20Ireland) |
+| 10 | [Westport](cities/westport.yaml) | City / town | **81.35** | **Relaxation 8.6**, **Architecture 8.5**, **Culture 8.5** | 8.1 / 8.1 / 8.0 / 8.6 / 7.9 | [53.8, -9.52](https://www.google.com/maps/search/?api=1&query=53.8,-9.52) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Westport%2C%20Ireland) |
+| 11 | [Trim](cities/trim.yaml) | City / town | **80.55** | **History 8.8**, **Architecture 8.5** | 8.0 / 8.1 / 8.3 / 8.2 / 7.4 | [53.555, -6.79](https://www.google.com/maps/search/?api=1&query=53.555,-6.79) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Trim%2C%20Ireland) |
+| 12 | [Sligo](cities/sligo.yaml) | City / town | **80.10** | **Culture 8.7**, **History 8.4** | 7.8 / 8.0 / 8.1 / 8.4 / 7.9 | [54.27, -8.47](https://www.google.com/maps/search/?api=1&query=54.27,-8.47) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sligo%2C%20Ireland) |
+| 13 | [Killarney](cities/killarney.yaml) | City / town | **80.05** | **Relaxation 8.6**, **Culture 8.5** | 7.9 / 7.9 / 7.9 / 8.6 / 7.9 | [52.059, -9.506](https://www.google.com/maps/search/?api=1&query=52.059,-9.506) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Killarney%2C%20Ireland) |
+| 14 | [Drogheda](cities/drogheda.yaml) | City / town | **80.00** | **History 8.8**, **Architecture 8.3** | 7.8 / 8.0 / 8.4 / 8.0 / 7.8 | [53.716, -6.35](https://www.google.com/maps/search/?api=1&query=53.716,-6.35) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Drogheda%2C%20Ireland) |
+| 15 | [Ennis](cities/ennis.yaml) | City / town | **79.95** | **Culture 8.7**, **History 8.4** | 7.8 / 8.1 / 8.0 / 8.4 / 7.7 | [52.843, -8.986](https://www.google.com/maps/search/?api=1&query=52.843,-8.986) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ennis%2C%20Ireland) |
+| 16 | [Kenmare](cities/kenmare.yaml) | City / town | **79.85** | **Food 8.6**, **Relaxation 8.6**, **Architecture 8.5** | 8.0 / 8.0 / 7.8 / 8.5 / 7.5 | [51.88, -9.583](https://www.google.com/maps/search/?api=1&query=51.88,-9.583) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kenmare%2C%20Ireland) |
+| 17 | [Adare](cities/adare.yaml) | City / town | **79.45** | **Architecture 8.7**, **Photography 8.5** | 8.1 / 8.0 / 7.8 / 8.3 / 7.1 | [52.565, -8.795](https://www.google.com/maps/search/?api=1&query=52.565,-8.795) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Adare%2C%20Ireland) |
+| 17 | [Birr](cities/birr.yaml) | City / town | **79.45** | **Architecture 8.5**, **History 8.5** | 7.9 / 8.0 / 8.0 / 8.1 / 7.6 | [53.097, -7.91](https://www.google.com/maps/search/?api=1&query=53.097,-7.91) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Birr%2C%20Ireland) |
+| 19 | [Donegal Town](cities/donegal-town.yaml) | Town | **78.45** | **History 8.5**, **Culture 8.2** | 7.7 / 7.9 / 8.0 / 8.2 / 7.3 | [54.654, -8.11](https://www.google.com/maps/search/?api=1&query=54.654,-8.11) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Donegal%20Town%2C%20Ireland) |
+| 20 | [Doolin](cities/doolin.yaml) | City / town | **77.60** | **Culture 8.7**, **Relaxation 8.3** | 7.7 / 8.0 / 7.5 / 8.4 / 6.9 | [53.018, -9.38](https://www.google.com/maps/search/?api=1&query=53.018,-9.38) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Doolin%2C%20Ireland) |
 
 ---
 

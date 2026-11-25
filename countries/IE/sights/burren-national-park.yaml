@@ -1,0 +1,16 @@
+id: sight-ie-burren-national-park
+name: "Burren National Park"
+location:
+  country_code: IE
+  latitude: 52.99
+  longitude: -9.03
+scores:
+  impact: 8.7
+  uniqueness: 9.1
+  significance: 8.9
+  experience: 8.6
+  depth: 8.4
+  categories:
+    nature: 9.3
+    photography: 9.0
+    adventure: 8.6
