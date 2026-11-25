@@ -1,0 +1,16 @@
+id: sight-sc-anse-lazio
+name: "Anse Lazio"
+location:
+  country_code: SC
+  latitude: -4.2944
+  longitude: 55.7020
+scores:
+  impact: 9.5
+  uniqueness: 9.1
+  significance: 7.2
+  experience: 9.2
+  depth: 7.5
+  categories:
+    beaches: 9.6
+    photography: 9.5
+    relaxation: 9.2
