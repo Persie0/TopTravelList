@@ -16,6 +16,15 @@
 - Stanley (FK): stronger maritime architecture
 - Karlby (AX): comparable small island settlement
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from territory branch YAML; editorial comparisons, not independent factual verification.
+
+- [Adamstown (PN)](../../../countries/PN/cities/adamstown.yaml) — 7.8/9.1/8.4/7.8/6.9; much more isolated Pacific settlement, stronger distinctive history, narrower commercial scope.
+- [Jamestown (SH)](../../../countries/SH/cities/jamestown.yaml) — 8.5/8.8/8.6/8.3/7.9; more coherent historic urban fabric and valley setting.
+- [Stanley (FK)](../../../countries/FK/cities/stanley.yaml) — 8.0/8.6/8.4/8.3/8.0; broader maritime heritage and public institutions.
+- [Kuala Perlis (MY)](../../../countries/MY/cities/kuala-perlis.yaml) — 6.5/6.8/6.5/7.2/6.7; ordinary small commercial settlement, similar limited visitor breadth but different cultural setting.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
