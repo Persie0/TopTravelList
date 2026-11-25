@@ -24,6 +24,15 @@
 - [Salzburg](../../../countries/AT/cities/salzburg.yaml) (Austria): more coherent historic streetscape
 - Auckland (New Zealand): comparable harbor metropolis with less urban depth
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D; editorial comparisons, not independent factual verification.
+
+- [hong kong (CN)](../../../countries/CN/cities/hong-kong.yaml) — 9.3/9.2/9.1/9.3/9.7; More distinctive dense harbor city and greater urban depth.
+- [rio de janeiro (BR)](../../../countries/BR/cities/rio-de-janeiro.yaml) — 9.5/9.4/9.2/9.0/9.6; Stronger mountain and urban beach setting, distinct cultural breadth.
+- [san francisco (US)](../../../countries/US/cities/san-francisco.yaml) — 9.0/9.0/8.8/8.9/9.0; Close iconic harbor, bridge and neighborhood comparator.
+- [vancouver (CA)](../../../countries/CA/cities/vancouver.yaml) — 8.9/8.5/8.0/9.0/8.8; Similar coastal urban recreation, less architectural landmark significance.
+
 ### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
@@ -59,6 +68,15 @@
 - [Bangkok](../../../countries/TH/cities/bangkok.yaml) (Thailand): stronger street-food breadth and cultural density
 - [Salzburg](../../../countries/AT/cities/salzburg.yaml) (Austria): more coherent historic streetscape
 - Auckland (New Zealand): comparable harbor metropolis with less urban depth
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D; editorial comparisons, not independent factual verification.
+
+- [london (GB)](../../../countries/GB/cities/london.yaml) — 9.7/9.5/9.8/9.6/9.8; Much broader museum, historic and cultural depth.
+- [seoul (KR)](../../../countries/KR/cities/seoul.yaml) — 9.1/9.0/9.2/9.2/9.9; More extensive distinctive cultural and urban exploration.
+- [toronto (CA)](../../../countries/CA/cities/toronto.yaml) — 8.3/8.2/8.5/8.8/9.1; Comparable modern multicultural city and district breadth.
+- [george town (MY)](../../../countries/MY/cities/george-town.yaml) — 9.1/9.3/9.2/9.2/9.0; More coherent historic architecture, narrower metropolitan arts scope.
 
 ### Scoring decisions
 | Field | Rating | Rationale |
@@ -96,6 +114,15 @@
 - [Salzburg](../../../countries/AT/cities/salzburg.yaml) (Austria): more coherent historic streetscape
 - Auckland (New Zealand): comparable harbor metropolis with less urban depth
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D; editorial comparisons, not independent factual verification.
+
+- [yokohama (JP)](../../../countries/JP/cities/yokohama.yaml) — 8.4/8.5/8.5/8.8/8.8; Greater port heritage and urban activity breadth.
+- [da nang (VN)](../../../countries/VN/cities/da-nang.yaml) — 8.2/8.1/8.3/8.9/9.0; Comparable modern coastal and river city with broader leisure.
+- [kuching (MY)](../../../countries/MY/cities/kuching.yaml) — 8.3/8.5/8.4/8.7/8.6; More distinctive riverfront cultural heritage.
+- [kampot (KH)](../../../countries/KH/cities/kampot.yaml) — 7.6/7.9/7.5/8.3/7.9; Smaller ordinary riverside leisure comparator.
+
 ### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
@@ -131,6 +158,15 @@
 - [Bangkok](../../../countries/TH/cities/bangkok.yaml) (Thailand): stronger street-food breadth and cultural density
 - [Salzburg](../../../countries/AT/cities/salzburg.yaml) (Austria): more coherent historic streetscape
 - Auckland (New Zealand): comparable harbor metropolis with less urban depth
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D; editorial comparisons, not independent factual verification.
+
+- [vancouver (CA)](../../../countries/CA/cities/vancouver.yaml) — 8.9/8.5/8.0/9.0/8.8; Stronger integrated coastal and mountain urban recreation.
+- [yokohama (JP)](../../../countries/JP/cities/yokohama.yaml) — 8.4/8.5/8.5/8.8/8.8; More substantial port history and urban depth.
+- [da nang (VN)](../../../countries/VN/cities/da-nang.yaml) — 8.2/8.1/8.3/8.9/9.0; Comparable modern coastal urban experience.
+- [miami (US)](../../../countries/US/cities/miami.yaml) — 8.2/8.3/7.9/8.9/8.5; Comparable beach and modern metropolitan leisure, different architectural character.
 
 ### Scoring decisions
 | Field | Rating | Rationale |
@@ -168,6 +204,15 @@
 - [Salzburg](../../../countries/AT/cities/salzburg.yaml) (Austria): more coherent historic streetscape
 - Auckland (New Zealand): comparable harbor metropolis with less urban depth
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D; editorial comparisons, not independent factual verification.
+
+- [bath (GB)](../../../countries/GB/cities/bath.yaml) — 9.1/9.2/9.2/9.1/8.7; More intact historic architecture and urban heritage.
+- [george town (MY)](../../../countries/MY/cities/george-town.yaml) — 9.1/9.3/9.2/9.2/9.0; More coherent historic trading city fabric.
+- [toronto (CA)](../../../countries/CA/cities/toronto.yaml) — 8.3/8.2/8.5/8.8/9.1; Broader modern multicultural district and museum experience.
+- [kampot (KH)](../../../countries/KH/cities/kampot.yaml) — 7.6/7.9/7.5/8.3/7.9; Smaller historic town and local food reference.
+
 ### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
@@ -203,6 +248,15 @@
 - [Bangkok](../../../countries/TH/cities/bangkok.yaml) (Thailand): stronger street-food breadth and cultural density
 - [Salzburg](../../../countries/AT/cities/salzburg.yaml) (Austria): more coherent historic streetscape
 - Auckland (New Zealand): comparable harbor metropolis with less urban depth
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D; editorial comparisons, not independent factual verification.
+
+- [hakodate (JP)](../../../countries/JP/cities/hakodate.yaml) — 8.5/8.7/8.5/8.8/8.5; Close mountain-backed historic harbor city, more distinctive townscape.
+- [kuching (MY)](../../../countries/MY/cities/kuching.yaml) — 8.3/8.5/8.4/8.7/8.6; Comparable regional waterfront and cultural institutions.
+- [bath (GB)](../../../countries/GB/cities/bath.yaml) — 9.1/9.2/9.2/9.1/8.7; Much greater preserved historic urban architecture.
+- [port vila (VU)](../../../countries/VU/cities/port-vila.yaml) — 7.4/7.7/7.7/8.0/7.6; Smaller Pacific harbor capital with narrower urban venue breadth.
 
 ### Scoring decisions
 | Field | Rating | Rationale |
@@ -240,6 +294,15 @@
 - [Salzburg](../../../countries/AT/cities/salzburg.yaml) (Austria): more coherent historic streetscape
 - Auckland (New Zealand): comparable harbor metropolis with less urban depth
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D; editorial comparisons, not independent factual verification.
+
+- [brasilia (BR)](../../../countries/BR/cities/brasilia.yaml) — 8.5/9.4/9.4/7.8/8.3; Closer planned national capital, more exceptional architectural innovation.
+- [vienna (AT)](../../../countries/AT/cities/vienna.yaml) — 9.2/9.0/9.5/9.2/9.4; Much greater historic civic fabric and museums.
+- [singapore (SG)](../../../countries/SG/cities/singapore.yaml) — 9.3/9.1/8.9/9.5/9.5; Much broader modern civic and urban activities.
+- [apia (WS)](../../../countries/WS/cities/apia.yaml) — 7.4/8.0/8.0/8.1/7.8; Smaller national capital with limited institutional visitor breadth.
+
 ### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
@@ -275,6 +338,15 @@
 - [Bangkok](../../../countries/TH/cities/bangkok.yaml) (Thailand): stronger street-food breadth and cultural density
 - [Salzburg](../../../countries/AT/cities/salzburg.yaml) (Austria): more coherent historic streetscape
 - Auckland (New Zealand): comparable harbor metropolis with less urban depth
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D; editorial comparisons, not independent factual verification.
+
+- [kuching (MY)](../../../countries/MY/cities/kuching.yaml) — 8.3/8.5/8.4/8.7/8.6; More extensive established tropical urban cultural and heritage activities.
+- [phuket town (TH)](../../../countries/TH/cities/phuket-town.yaml) — 7.9/8.0/8.1/8.4/8.3; Comparable regional tropical port with more visible historic streets.
+- [port vila (VU)](../../../countries/VU/cities/port-vila.yaml) — 7.4/7.7/7.7/8.0/7.6; Close multicultural tropical capital and waterfront setting.
+- [apia (WS)](../../../countries/WS/cities/apia.yaml) — 7.4/8.0/8.0/8.1/7.8; Comparable Pacific civic and cultural experience.
 
 ### Scoring decisions
 | Field | Rating | Rationale |
@@ -312,6 +384,15 @@
 - [Salzburg](../../../countries/AT/cities/salzburg.yaml) (Austria): more coherent historic streetscape
 - Auckland (New Zealand): comparable harbor metropolis with less urban depth
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D; editorial comparisons, not independent factual verification.
+
+- [nha trang (VN)](../../../countries/VN/cities/nha-trang.yaml) — 8.1/7.9/7.8/8.7/8.7; Greater city beach and urban leisure breadth.
+- [phuket town (TH)](../../../countries/TH/cities/phuket-town.yaml) — 7.9/8.0/8.1/8.4/8.3; Stronger independent heritage streets and food.
+- [port vila (VU)](../../../countries/VU/cities/port-vila.yaml) — 7.4/7.7/7.7/8.0/7.6; Comparable tropical waterfront town, greater civic importance.
+- [kampot (KH)](../../../countries/KH/cities/kampot.yaml) — 7.6/7.9/7.5/8.3/7.9; Comparable regional visitor hub with more historic town fabric, exclude distant reefs.
+
 ### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
@@ -347,6 +428,15 @@
 - [Bangkok](../../../countries/TH/cities/bangkok.yaml) (Thailand): stronger street-food breadth and cultural density
 - [Salzburg](../../../countries/AT/cities/salzburg.yaml) (Austria): more coherent historic streetscape
 - Auckland (New Zealand): comparable harbor metropolis with less urban depth
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D; editorial comparisons, not independent factual verification.
+
+- [miami (US)](../../../countries/US/cities/miami.yaml) — 8.2/8.3/7.9/8.9/8.5; Close urban beach and towers comparator, greater architectural distinction.
+- [nha trang (VN)](../../../countries/VN/cities/nha-trang.yaml) — 8.1/7.9/7.8/8.7/8.7; Comparable high-rise beach city and leisure, different scale.
+- [rio de janeiro (BR)](../../../countries/BR/cities/rio-de-janeiro.yaml) — 9.5/9.4/9.2/9.0/9.6; Much more distinctive urban mountain and beach setting.
+- [da nang (VN)](../../../countries/VN/cities/da-nang.yaml) — 8.2/8.1/8.3/8.9/9.0; Comparable coastal modern urban recreation and broader civic identity.
 
 ### Scoring decisions
 | Field | Rating | Rationale |
@@ -384,6 +474,15 @@
 - [Salzburg](../../../countries/AT/cities/salzburg.yaml) (Austria): more coherent historic streetscape
 - Auckland (New Zealand): comparable harbor metropolis with less urban depth
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D; editorial comparisons, not independent factual verification.
+
+- [bath (GB)](../../../countries/GB/cities/bath.yaml) — 9.1/9.2/9.2/9.1/8.7; Far more coherent historic urban architecture.
+- [hakodate (JP)](../../../countries/JP/cities/hakodate.yaml) — 8.5/8.7/8.5/8.8/8.5; More dramatic scenic historic port setting.
+- [kampot (KH)](../../../countries/KH/cities/kampot.yaml) — 7.6/7.9/7.5/8.3/7.9; Comparable compact historic river town, different built fabric.
+- [kuching (MY)](../../../countries/MY/cities/kuching.yaml) — 8.3/8.5/8.4/8.7/8.6; Greater regional cultural and museum breadth.
+
 ### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
@@ -419,6 +518,15 @@
 - [Bangkok](../../../countries/TH/cities/bangkok.yaml) (Thailand): stronger street-food breadth and cultural density
 - [Salzburg](../../../countries/AT/cities/salzburg.yaml) (Austria): more coherent historic streetscape
 - Auckland (New Zealand): comparable harbor metropolis with less urban depth
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D; editorial comparisons, not independent factual verification.
+
+- [rach gia (VN)](../../../countries/VN/cities/rach-gia.yaml) — 7.2/7.5/7.3/7.8/7.9; Comparable regional coastal commercial city with broader urban activities.
+- [port vila (VU)](../../../countries/VU/cities/port-vila.yaml) — 7.4/7.7/7.7/8.0/7.6; Comparable tropical waterfront with greater national civic importance.
+- [phuket town (TH)](../../../countries/TH/cities/phuket-town.yaml) — 7.9/8.0/8.1/8.4/8.3; More distinctive historic city fabric and dining.
+- [nha trang (VN)](../../../countries/VN/cities/nha-trang.yaml) — 8.1/7.9/7.8/8.7/8.7; Larger urban coastal leisure scope.
 
 ### Scoring decisions
 | Field | Rating | Rationale |
