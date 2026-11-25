@@ -1302,72 +1302,74 @@ Initial inventory only. [UNESCO country list](https://whc.unesco.org/en/statespa
 ## sight-ca-pimachiowin-aki — Pimachiowin Aki — 2026-11-25
 
 - YAML: [source](../../../countries/CA/sights/pimachiowin-aki.yaml)
-- Action: new
-- Precise subject: Large living Indigenous boreal landscape, representative broad point only.
-- Location check: 52.0, -95.0; approximate representative point; independent coordinate verification outstanding. Broad public landscape reference, not a navigation point.
-- Evidence status: **unassessed**
-- Evidence: [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1415/) — consulted 2026-11-25 as inventory, regional context or site information; not all specific claims and coordinates verified. Broad list links establish inventory inclusion, not independent visitor fact verification.
-- Missing or uncertain facts: Specific permitted ordinary itinerary, geographic scope and access conditions.
+- Action: reassessment
+- Precise subject: Authorized community-based guide-led visits in living Anishinaabe boreal landscape; no unrestricted access.
+- Location check: 52.0, -95.0; Approximate representative point; not a surveyed entrance. Independent coordinate check remains outstanding.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Pimachiowin Aki](https://pimaki.ca/visit/) — reviewed 2026-11-25. The property's own visitor page identifies fishing/hiking guides and tour operators; specific community permissions must be checked.
+- Missing or uncertain facts: Full independent claim-level corroboration, exact location where approximate, current access/permissions.
 
 ### Worldwide peers
 | Peer | Relative comparison |
 | --- | --- |
-| [Torres del Paine (CL)](../../../countries/CL/sights/torres-del-paine-national-park.yaml) | Ordinary visit scope not verified against Torres del Paine |
-| [Cockscomb Basin (BZ)](../../../countries/BZ/sights/cockscomb-basin-wildlife-sanctuary.yaml) | No comparable documented route to Cockscomb Basin |
-| [Main Ridge (TT)](../../../countries/TT/sights/tobago-main-ridge-forest-reserve.yaml) | Heritage significance does not establish visitor experience compared with Main Ridge |
-| [Des Cartiers (LC)](../../../countries/LC/sights/des-cartiers-rainforest-trail.yaml) | No confirmed bounded visitor circuit like Des Cartiers |
+| [Torres del Paine](../../../countries/CL/sights/torres-del-paine-national-park.yaml) | Less alpine drama than Torres del Paine |
+| [Cockscomb Basin](../../../countries/BZ/sights/cockscomb-basin-wildlife-sanctuary.yaml) | different boreal ecology from Cockscomb |
+| [Main Ridge](../../../countries/TT/sights/tobago-main-ridge-forest-reserve.yaml) | greater freshwater and cultural landscape than Main Ridge |
+| [Des Cartiers](../../../countries/LC/sights/des-cartiers-rainforest-trail.yaml) | larger landscape than Des Cartiers. |
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
-| Impact | null | visible ordinary visitor scope undefined |
-| Uniqueness | null | combined boreal and Anishinaabe heritage |
-| Significance | null | international mixed heritage |
-| Experience | null | community permissions and itinerary unresolved |
-| Depth | null | no coherent whole-property visit established |
+| Impact | 8.5 | Freshwater and boreal landscape |
+| Uniqueness | 9.0 | distinct living Anishinaabe cultural landscape |
+| Significance | 9.3 | international mixed heritage |
+| Experience | 8.4 | community-authorized guiding and nature activities |
+| Depth | 8.5 | multiple permitted landscapes but not entire property. |
 
-- Applicable categories: unassessed.
-- Overall: unranked.
+- Applicable categories: nature:9.2,wildlife:9.0,culture:9.2.
+- Overall: 87.70/100.
 - High-score challenge: Not applicable.
 - Approved 10 registry: none.
-- Final decision: Retain unranked pending evidence of ordinary permitted visitor experience.
-- Earlier decision: none.
-- Verification still needed: Site-specific access, community permissions and representative geography.
+- Final decision: Provisional editorial score limited to documented permitted scope.
+- Earlier decision: Unranked because ordinary visitor scope had not been established; all five core scores null. The current official visitor evidence supports this bounded reassessment. Original review retained in Git history.
+- Verification still needed: Independent claim and coordinate verification, current operating conditions.
+
 
 ## sight-ca-tatshenshini-alsek — Tatshenshini-Alsek Provincial Park — 2026-11-25
 
 - YAML: [source](../../../countries/CA/sights/tatshenshini-alsek.yaml)
-- Action: new
-- Precise subject: Canadian component of cross-border property, broad park reference.
-- Location check: 59.80, -137.20; approximate representative point; independent coordinate verification outstanding. Broad public landscape reference, not a navigation point.
-- Evidence status: **unassessed**
-- Evidence: [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/72/) — consulted 2026-11-25 as inventory, regional context or site information; not all specific claims and coordinates verified. Broad list links establish inventory inclusion, not independent visitor fact verification.
-- Missing or uncertain facts: Specific permitted ordinary itinerary, geographic scope and access conditions.
+- Action: reassessment
+- Precise subject: Canadian provincial park component; established permitted river trips and documented hiking only.
+- Location check: 59.80, -137.20; Approximate representative point; not a surveyed entrance. Independent coordinate check remains outstanding.
+- Evidence status: **source-linked-unverified**
+- Evidence: [BC Parks](https://bcparks.ca/tatshenshini-alsek-park/) — reviewed 2026-11-25. BC Parks documents rafting and hiking; serious hazards and river fees apply. No hazardous route is assumed to be part of normal experience.
+- Missing or uncertain facts: Full independent claim-level corroboration, exact location where approximate, current access/permissions.
 
 ### Worldwide peers
 | Peer | Relative comparison |
 | --- | --- |
-| [Torres del Paine (CL)](../../../countries/CL/sights/torres-del-paine-national-park.yaml) | Ordinary visit scope not verified against Torres del Paine |
-| [Los Glaciares (AR)](../../../countries/AR/sights/los-glaciares-national-park.yaml) | No comparable documented route to Los Glaciares |
-| [Grossglockner Road (AT)](../../../countries/AT/sights/grossglockner-high-alpine-road.yaml) | Heritage significance does not establish visitor experience compared with Grossglockner Road |
-| [Pitons (LC)](../../../countries/LC/sights/pitons-management-area.yaml) | No confirmed bounded visitor circuit like Pitons |
+| [Torres del Paine](../../../countries/CL/sights/torres-del-paine-national-park.yaml) | Comparable landscape breadth to Torres del Paine but less convenient access |
+| [Los Glaciares](../../../countries/AR/sights/los-glaciares-national-park.yaml) | different river-focused glaciation from Los Glaciares |
+| [Grossglockner Road](../../../countries/AT/sights/grossglockner-high-alpine-road.yaml) | more wilderness than Grossglockner Road |
+| [Pitons](../../../countries/LC/sights/pitons-management-area.yaml) | larger than Pitons. |
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
-| Impact | null | specific visitor scope unverified |
-| Uniqueness | null | large glaciated river landscape |
-| Significance | null | major conservation significance |
-| Experience | null | specialized authorized routes unclear |
-| Depth | null | ordinary visit breadth unresolved |
+| Impact | 9.3 | Immense glaciated mountain river vistas |
+| Uniqueness | 9.2 | distinct remote glacial river system |
+| Significance | 9.1 | international protected landscape significance |
+| Experience | 8.6 | specialist permitted rafting and hiking |
+| Depth | 8.9 | multiple landscape settings. |
 
-- Applicable categories: unassessed.
-- Overall: unranked.
-- High-score challenge: Not applicable.
+- Applicable categories: nature:9.4,photography:9.4,adventure:9.3.
+- Overall: 90.90/100.
+- High-score challenge: 90+ justified by the exceptional glacial mountain and river landscape plus documented multi-route visitor experience; compared with Torres del Paine and Los Glaciares, with specialist-access limits reflected in Experience.
 - Approved 10 registry: none.
-- Final decision: Retain unranked pending evidence of ordinary permitted visitor experience.
-- Earlier decision: none.
-- Verification still needed: Site-specific access, community permissions and representative geography.
+- Final decision: Provisional editorial score limited to documented permitted scope.
+- Earlier decision: Unranked because ordinary visitor scope had not been established; all five core scores null. The current official visitor evidence supports this bounded reassessment. Original review retained in Git history.
+- Verification still needed: Independent claim and coordinate verification, current operating conditions.
+
 
 ## sight-ca-ivvavik-vuntut-herschel-island — Ivvavik / Vuntut / Herschel Island (Qikiqtaruk) — 2026-11-25
 
@@ -1407,37 +1409,38 @@ Initial inventory only. [UNESCO country list](https://whc.unesco.org/en/statespa
 ## sight-ca-quttinirpaaq — Quttinirpaaq National Park — 2026-11-25
 
 - YAML: [source](../../../countries/CA/sights/quttinirpaaq.yaml)
-- Action: new
-- Precise subject: High Arctic park, representative broad point only.
-- Location check: 81.6, -72.0; approximate representative point; independent coordinate verification outstanding. Broad public landscape reference, not a navigation point.
-- Evidence status: **unassessed**
-- Evidence: [Parks Canada](https://parks.canada.ca/culture/spm-whs/indicative-tentative) — consulted 2026-11-25 as inventory, regional context or site information; not all specific claims and coordinates verified. Broad list links establish inventory inclusion, not independent visitor fact verification.
-- Missing or uncertain facts: Specific permitted ordinary itinerary, geographic scope and access conditions.
+- Action: reassessment
+- Precise subject: Specialist High Arctic visitor experience limited to licensed or registered routes, not sensitive heritage sites.
+- Location check: 81.6, -72.0; Approximate representative point; not a surveyed entrance. Independent coordinate check remains outstanding.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Parks Canada](https://parks.canada.ca/pn-np/nu/quttinirpaaq/activ.aspx); [Parks Canada 2](https://parks.canada.ca/pn-np/nu/quttinirpaaq/activ/randonnees-hiking) — reviewed 2026-11-25. Parks Canada documents hiking, ski and glacier activities and a multi-day ice-cap loop; conditions and permits remain mandatory.
+- Missing or uncertain facts: Full independent claim-level corroboration, exact location where approximate, current access/permissions.
 
 ### Worldwide peers
 | Peer | Relative comparison |
 | --- | --- |
-| [Torres del Paine (CL)](../../../countries/CL/sights/torres-del-paine-national-park.yaml) | Ordinary visit scope not verified against Torres del Paine |
-| [Cockscomb Basin (BZ)](../../../countries/BZ/sights/cockscomb-basin-wildlife-sanctuary.yaml) | No comparable documented route to Cockscomb Basin |
-| [Main Ridge (TT)](../../../countries/TT/sights/tobago-main-ridge-forest-reserve.yaml) | Heritage significance does not establish visitor experience compared with Main Ridge |
-| [Des Cartiers (LC)](../../../countries/LC/sights/des-cartiers-rainforest-trail.yaml) | No confirmed bounded visitor circuit like Des Cartiers |
+| [Torres del Paine](../../../countries/CL/sights/torres-del-paine-national-park.yaml) | Less varied accessible scenery than Torres del Paine |
+| [Los Glaciares](../../../countries/AR/sights/los-glaciares-national-park.yaml) | different polar setting from Los Glaciares |
+| [Grossglockner Road](../../../countries/AT/sights/grossglockner-high-alpine-road.yaml) | much less road accessibility than Grossglockner Road |
+| [Pitons](../../../countries/LC/sights/pitons-management-area.yaml) | larger wilderness than Pitons. |
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
-| Impact | null | normal visible itinerary unknown |
-| Uniqueness | null | high Arctic ecosystem |
-| Significance | null | important polar conservation |
-| Experience | null | specialist access and permitted routes unresolved |
-| Depth | null | ordinary circuit unknown |
+| Impact | 9.0 | Polar mountains and ice caps |
+| Uniqueness | 9.3 | rare high Arctic wilderness |
+| Significance | 8.9 | important Arctic ecological heritage |
+| Experience | 8.2 | documented expedition hiking and skiing |
+| Depth | 8.7 | substantial multi-day routes. |
 
-- Applicable categories: unassessed.
-- Overall: unranked.
+- Applicable categories: nature:9.3,photography:9.3,adventure:9.2.
+- Overall: 89.05/100.
 - High-score challenge: Not applicable.
 - Approved 10 registry: none.
-- Final decision: Retain unranked pending evidence of ordinary permitted visitor experience.
-- Earlier decision: none.
-- Verification still needed: Site-specific access, community permissions and representative geography.
+- Final decision: Provisional editorial score limited to documented permitted scope.
+- Earlier decision: Unranked because ordinary visitor scope had not been established; all five core scores null. The current official visitor evidence supports this bounded reassessment. Original review retained in Git history.
+- Verification still needed: Independent claim and coordinate verification, current operating conditions.
+
 
 ## sight-ca-hecate-strait-glass-sponge-reefs — Hecate Strait and Queen Charlotte Sound Glass Sponge Reefs — 2026-11-25
 
@@ -1512,37 +1515,37 @@ Initial inventory only. [UNESCO country list](https://whc.unesco.org/en/statespa
 ## sight-ca-stein-valley — Stein Valley — 2026-11-25
 
 - YAML: [source](../../../countries/CA/sights/stein-valley.yaml)
-- Action: new
-- Precise subject: Tentative Indigenous cultural and protected valley, ordinary authorized route unresolved.
-- Location check: 50.2, -122.1; approximate representative point; independent coordinate verification outstanding. Broad public landscape reference, not a navigation point.
-- Evidence status: **unassessed**
-- Evidence: [Parks Canada](https://parks.canada.ca/culture/spm-whs/indicative-tentative) — consulted 2026-11-25 as inventory, regional context or site information; not all specific claims and coordinates verified. Broad list links establish inventory inclusion, not independent visitor fact verification.
-- Missing or uncertain facts: Specific permitted ordinary itinerary, geographic scope and access conditions.
+- Action: reassessment
+- Precise subject: Authorized public hiking in co-managed Stein Valley Nlaka'pamux Heritage Park; sacred places not part of score.
+- Location check: 50.2, -122.1; Approximate representative point; not a surveyed entrance. Independent coordinate check remains outstanding.
+- Evidence status: **source-linked-unverified**
+- Evidence: [BC Parks](https://bcparks.ca/stein-valley-nlakapamux-heritage-park/) — reviewed 2026-11-25. BC Parks documents 150 km of trails and routes; closures and cultural restrictions apply.
+- Missing or uncertain facts: Full independent claim-level corroboration, exact location where approximate, current access/permissions.
 
 ### Worldwide peers
 | Peer | Relative comparison |
 | --- | --- |
-| [Torres del Paine (CL)](../../../countries/CL/sights/torres-del-paine-national-park.yaml) | Ordinary visit scope not verified against Torres del Paine |
-| [Cockscomb Basin (BZ)](../../../countries/BZ/sights/cockscomb-basin-wildlife-sanctuary.yaml) | No comparable documented route to Cockscomb Basin |
-| [Main Ridge (TT)](../../../countries/TT/sights/tobago-main-ridge-forest-reserve.yaml) | Heritage significance does not establish visitor experience compared with Main Ridge |
-| [Des Cartiers (LC)](../../../countries/LC/sights/des-cartiers-rainforest-trail.yaml) | No confirmed bounded visitor circuit like Des Cartiers |
+| [Torres del Paine](../../../countries/CL/sights/torres-del-paine-national-park.yaml) | Less dramatic peaks than Torres del Paine |
+| [Los Glaciares](../../../countries/AR/sights/los-glaciares-national-park.yaml) | less glacier spectacle than Los Glaciares |
+| [Grossglockner Road](../../../countries/AT/sights/grossglockner-high-alpine-road.yaml) | more wilderness hiking than Grossglockner Road |
+| [Pitons](../../../countries/LC/sights/pitons-management-area.yaml) | greater route breadth than Pitons. |
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
-| Impact | null | visible scope uncertain |
-| Uniqueness | null | living Indigenous landscape and wilderness |
-| Significance | null | important cultural and ecological context |
-| Experience | null | permission and route details unresolved |
-| Depth | null | ordinary visitor breadth unverified |
+| Impact | 8.6 | Glaciated valleys and mountain scenery |
+| Uniqueness | 8.7 | diverse watershed and living cultural context |
+| Significance | 8.9 | important Nlaka'pamux landscape |
+| Experience | 8.3 | documented trails and backcountry camping |
+| Depth | 8.6 | many routes across elevation zones. |
 
-- Applicable categories: unassessed.
-- Overall: unranked.
+- Applicable categories: nature:9.1,culture:9.0,adventure:9.0.
+- Overall: 86.40/100.
 - High-score challenge: Not applicable.
 - Approved 10 registry: none.
-- Final decision: Retain unranked pending evidence of ordinary permitted visitor experience.
-- Earlier decision: none.
-- Verification still needed: Site-specific access, community permissions and representative geography.
+- Final decision: Provisional editorial score limited to documented permitted scope.
+- Earlier decision: Unranked because ordinary visitor scope had not been established; all five core scores null. The current official visitor evidence supports this bounded reassessment. Original review retained in Git history.
+- Verification still needed: Independent claim and coordinate verification, current operating conditions.
 
 
 ## sight-ca-mount-robson-provincial-park — Mount Robson Provincial Park — 2026-11-25
@@ -1655,3 +1658,78 @@ All seven parks now have individual YAML assessments: Banff, Jasper, Yoho, Koote
 
 ### Tr’ondëk-Klondike component register
 [UNESCO](https://whc.unesco.org/en/list/1564/) names eight: Fort Reliance; Ch’ëdähdëk (Forty Mile); Ch’ëdähdëk Tth’än K’et (Dënezhu Graveyard); Fort Cudahy and Fort Constantine; Tr’ochëk; Dawson City; Jëjik Dhä Dënezhu Kek’it (Moosehide Village); Tthe Zrąy Kek’it (Black City). Dawson City and the parent serial property have records. For the other components, community permissions, ordinary interpreted visitor access and safe representative points are not established; no sensitive coordinates or individual ratings are inferred.
+
+## sight-ca-ivvavik-national-park — Ivvavik National Park — 2026-11-25
+
+- YAML: [source](../../../countries/CA/sights/ivvavik-national-park.yaml)
+- Action: new
+- Precise subject: Individual Ivvavik component of tentative serial property, not Vuntut or Herschel Island.
+- Location check: 69.026095, -139.72997; official Parks Canada public park map reference; not an entrance.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Parks Canada](https://parks.canada.ca/pn-np/yt/ivvavik/activ/camp); [Parks Canada 2](https://parks.canada.ca/pn-np/yt/ivvavik/activ/randonnee-hiking); [Parks Canada 3](https://parks.canada.ca/pn-np?wbdisable=true) — reviewed 2026-11-25. Parks Canada publishes basecamp reservation and hiking information; coordinates from its public national park map.
+- Missing or uncertain facts: Full independent claim-level corroboration, exact location where approximate, current access/permissions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Torres del Paine](../../../countries/CL/sights/torres-del-paine-national-park.yaml) | Less iconic mountain skyline than Torres del Paine |
+| [Los Glaciares](../../../countries/AR/sights/los-glaciares-national-park.yaml) | different Arctic landscape from Los Glaciares |
+| [Grossglockner Road](../../../countries/AT/sights/grossglockner-high-alpine-road.yaml) | more remote wilderness than Grossglockner Road |
+| [Pitons](../../../countries/LC/sights/pitons-management-area.yaml) | greater landscape scope than Pitons. |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Arctic mountain and river scenery |
+| Uniqueness | 9.1 | rare northern wilderness and Inuvialuit cultural hosting |
+| Significance | 8.8 | regional Arctic ecosystem heritage |
+| Experience | 8.5 | organized basecamp and permitted hikes |
+| Depth | 8.5 | several distinct mountain routes. |
+
+- Applicable categories: nature:9.2,adventure:9.1,wildlife:9.0.
+- Overall: 88.00/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial score limited to documented permitted scope.
+- Earlier decision: None.
+- Verification still needed: Independent claim and coordinate verification, current operating conditions.
+
+
+## sight-ca-sirmilik-national-park — Sirmilik National Park — 2026-11-25
+
+- YAML: [source](../../../countries/CA/sights/sirmilik-national-park.yaml)
+- Action: new
+- Precise subject: Individual land-park component only, not whole tentative marine and terrestrial nomination.
+- Location check: 73.08, -79.83; official Parks Canada public park map reference; not an entrance.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Parks Canada](https://parks.canada.ca/pn-np/nu/sirmilik/activ.aspx); [Parks Canada 2](https://parks.canada.ca/pn-np/nu/sirmilik/activ/faune-wildlife); [Parks Canada 3](https://parks.canada.ca/voyage-travel?wbdisable=true) — reviewed 2026-11-25. Parks Canada documents guided floe-edge trips, wildlife and hiking; sightings not guaranteed; public park map reference.
+- Missing or uncertain facts: Full independent claim-level corroboration, exact location where approximate, current access/permissions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Torres del Paine](../../../countries/CL/sights/torres-del-paine-national-park.yaml) | Less consistent mountain accessibility than Torres del Paine |
+| [Los Glaciares](../../../countries/AR/sights/los-glaciares-national-park.yaml) | different polar marine wildlife from Los Glaciares |
+| [Grossglockner Road](../../../countries/AT/sights/grossglockner-high-alpine-road.yaml) | more remote than Grossglockner Road |
+| [Pitons](../../../countries/LC/sights/pitons-management-area.yaml) | broader wilderness than Pitons. |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Glaciated mountains and Arctic coastline |
+| Uniqueness | 9.1 | distinct polar marine and terrestrial encounter |
+| Significance | 8.9 | regional conservation and Inuit heritage |
+| Experience | 8.4 | documented guide-led and permitted activities |
+| Depth | 8.7 | several activity landscapes. |
+
+- Applicable categories: nature:9.3,wildlife:9.3,adventure:9.1,photography:9.3.
+- Overall: 88.85/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial score limited to documented permitted scope.
+- Earlier decision: None.
+- Verification still needed: Independent claim and coordinate verification, current operating conditions.
+
+
+### Follow-up coverage clarification
+Four formerly unranked parks have documented authorized visitor experiences; Ivvavik and Sirmilik individually ranked, their broader serial nominations remain unranked. Hecate Strait sponge reefs still lack ordinary visitor viewing evidence.
