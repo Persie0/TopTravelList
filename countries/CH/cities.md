@@ -2,7 +2,7 @@
 
 # Switzerland (CH) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**20 ranked** · **0 unassessed** · **20 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,30 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (20)
 
-No cities, towns & villages have been assessed for **Switzerland** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Bern](cities/bern.yaml) | City / town | **89.50** | **Architecture 9.4**, **History 9.2**, **Photography 9.2** | 9.0 / 9.0 / 8.9 / 9.0 / 8.7 | [46.948, 7.4474](https://www.google.com/maps/search/?api=1&query=46.948,7.4474) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bern%2C%20Switzerland) |
+| 2 | [Lucerne](cities/lucerne.yaml) | City / town | **88.20** | **Photography 9.3**, **Architecture 9.1**, **Culture 8.9** | 9.0 / 8.8 / 8.6 / 9.0 / 8.5 | [47.0502, 8.3093](https://www.google.com/maps/search/?api=1&query=47.0502,8.3093) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lucerne%2C%20Switzerland) |
+| 3 | [Basel](cities/basel.yaml) | City / town | **87.75** | **Culture 9.3**, **Architecture 9.1**, **History 9.1** | 8.7 / 8.6 / 8.9 / 8.9 / 9.0 | [47.5596, 7.5886](https://www.google.com/maps/search/?api=1&query=47.5596,7.5886) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Basel%2C%20Switzerland) |
+| 4 | [Zurich](cities/zurich.yaml) | City / town | **87.15** | **Culture 9.2**, **Architecture 9.0**, **History 8.9** | 8.6 / 8.5 / 8.8 / 9.0 / 9.0 | [47.3769, 8.5417](https://www.google.com/maps/search/?api=1&query=47.3769,8.5417) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Zurich%2C%20Switzerland) |
+| 5 | [Geneva](cities/geneva.yaml) | City / town | **87.05** | **History 9.2**, **Culture 9.1**, **Architecture 8.8** | 8.5 / 8.5 / 9.1 / 8.8 / 8.9 | [46.2044, 6.1432](https://www.google.com/maps/search/?api=1&query=46.2044,6.1432) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Geneva%2C%20Switzerland) |
+| 6 | [St. Gallen](cities/st-gallen.yaml) | City / town | **86.10** | **History 9.2**, **Architecture 9.1**, **Culture 8.9** | 8.6 / 8.6 / 8.8 / 8.6 / 8.3 | [47.4245, 9.3767](https://www.google.com/maps/search/?api=1&query=47.4245,9.3767) | [Google Maps](https://www.google.com/maps/search/?api=1&query=St.%20Gallen%2C%20Switzerland) |
+| 7 | [Fribourg](cities/fribourg.yaml) | City / town | **85.95** | **Architecture 9.2**, **History 9.0** | 8.7 / 8.7 / 8.5 / 8.6 / 8.2 | [46.8065, 7.1619](https://www.google.com/maps/search/?api=1&query=46.8065,7.1619) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Fribourg%2C%20Switzerland) |
+| 7 | [Lausanne](cities/lausanne.yaml) | City / town | **85.95** | **Architecture 9.0**, **Culture 9.0**, **History 8.8** | 8.5 / 8.5 / 8.7 / 8.8 / 8.6 | [46.5197, 6.6323](https://www.google.com/maps/search/?api=1&query=46.5197,6.6323) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lausanne%2C%20Switzerland) |
+| 9 | [Zermatt](cities/zermatt.yaml) | City / town | **85.45** | **Photography 9.2**, **Relaxation 9.0**, **Architecture 8.8** | 8.7 / 8.6 / 8.2 / 8.9 / 8.1 | [46.0207, 7.7491](https://www.google.com/maps/search/?api=1&query=46.0207,7.7491) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Zermatt%2C%20Switzerland) |
+| 10 | [Bellinzona](cities/bellinzona.yaml) | City / town | **85.25** | **History 9.2**, **Architecture 9.0** | 8.5 / 8.6 / 8.7 / 8.5 / 8.1 | [46.195, 9.023](https://www.google.com/maps/search/?api=1&query=46.195,9.023) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bellinzona%2C%20Switzerland) |
+| 11 | [Thun](cities/thun.yaml) | City / town | **85.10** | **Photography 9.1**, **Architecture 9.0**, **History 8.8** | 8.6 / 8.5 / 8.4 / 8.7 / 8.2 | [46.758, 7.628](https://www.google.com/maps/search/?api=1&query=46.758,7.628) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Thun%2C%20Switzerland) |
+| 12 | [Lugano](cities/lugano.yaml) | City / town | **85.05** | **Relaxation 9.1**, **Photography 9.0**, **Architecture 8.8** | 8.6 / 8.4 / 8.2 / 8.9 / 8.5 | [46.0037, 8.9511](https://www.google.com/maps/search/?api=1&query=46.0037,8.9511) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lugano%2C%20Switzerland) |
+| 13 | [Montreux](cities/montreux.yaml) | City / town | **84.95** | **Relaxation 9.2**, **Photography 9.1**, **Culture 9.0** | 8.6 / 8.4 / 8.3 / 8.9 / 8.2 | [46.4312, 6.9107](https://www.google.com/maps/search/?api=1&query=46.4312,6.9107) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Montreux%2C%20Switzerland) |
+| 14 | [Schaffhausen](cities/schaffhausen.yaml) | City / town | **84.75** | **Architecture 9.0**, **History 8.9** | 8.5 / 8.5 / 8.5 / 8.6 / 8.1 | [47.6965, 8.6339](https://www.google.com/maps/search/?api=1&query=47.6965,8.6339) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Schaffhausen%2C%20Switzerland) |
+| 14 | [Solothurn](cities/solothurn.yaml) | City / town | **84.75** | **Architecture 9.2**, **History 8.9** | 8.5 / 8.6 / 8.5 / 8.5 / 8.0 | [47.2088, 7.5323](https://www.google.com/maps/search/?api=1&query=47.2088,7.5323) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Solothurn%2C%20Switzerland) |
+| 16 | [La Chaux-de-Fonds](cities/la-chaux-de-fonds.yaml) | City / town | **84.50** | **Architecture 9.1**, **History 9.1** | 8.0 / 8.8 / 8.8 / 8.4 / 8.3 | [47.1035, 6.8328](https://www.google.com/maps/search/?api=1&query=47.1035,6.8328) | [Google Maps](https://www.google.com/maps/search/?api=1&query=La%20Chaux-de-Fonds%2C%20Switzerland) |
+| 17 | [Gruyères](cities/gruyeres.yaml) | City / town | **84.45** | **Photography 9.2**, **Architecture 9.1**, **Food 8.9** | 8.6 / 8.7 / 8.3 / 8.6 / 7.4 | [46.583, 7.082](https://www.google.com/maps/search/?api=1&query=46.583,7.082) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Gruy%C3%A8res%2C%20Switzerland) |
+| 18 | [Chur](cities/chur.yaml) | City / town | **83.70** | **Architecture 8.9**, **History 8.9** | 8.2 / 8.4 / 8.5 / 8.6 / 8.2 | [46.8508, 9.532](https://www.google.com/maps/search/?api=1&query=46.8508,9.532) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Chur%2C%20Switzerland) |
+| 19 | [Appenzell](cities/appenzell.yaml) | City / town | **83.60** | **Architecture 9.0**, **Photography 9.0**, **Culture 8.8** | 8.4 / 8.6 / 8.2 / 8.6 / 7.6 | [47.331, 9.409](https://www.google.com/maps/search/?api=1&query=47.331,9.409) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Appenzell%2C%20Switzerland) |
+| 20 | [Le Locle](cities/le-locle.yaml) | City / town | **82.30** | **History 9.0**, **Architecture 8.9** | 7.8 / 8.6 / 8.6 / 8.2 / 7.9 | [47.059, 6.749](https://www.google.com/maps/search/?api=1&query=47.059,6.749) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Le%20Locle%2C%20Switzerland) |
 
 ---
 

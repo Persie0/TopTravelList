@@ -1,0 +1,15 @@
+id: sight-ch-villa-le-lac
+name: "Villa Le Lac, Corseaux"
+location:
+  country_code: CH
+  latitude: 46.468414
+  longitude: 6.829333
+scores:
+  impact: 8.2
+  uniqueness: 9.0
+  significance: 9.2
+  experience: 8.4
+  depth: 7.4
+  categories:
+    architecture: 9.3
+    history: 9.1
