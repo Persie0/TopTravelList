@@ -9,13 +9,14 @@
 - Action: new
 - Precise subject: Barcelona; Many independent urban districts.
 - Location check: 41.3874, 2.1686; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Turespaña](https://www.spain.info/en/query/city-breaks-spain/) — consulted 2026-11-25 for general urban tourism context only; material claims and admission details not independently corroborated.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.spain.info/en/destination/barcelona/ — National tourism authority documents independent modernist districts, museums and major cultural institutions. Reviewed 2026-11-25; partial evidence, not full independent claim verification.
 - Missing or uncertain facts: precise coordinates, ordinary permitted visitor conditions, material claims and narrower peer matching.
 
 #### Worldwide peer comparisons
 | Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
 | --- | --- | --- |
+| [Paris (FR)](../../../countries/FR/cities/paris.yaml) (9.8 / 9.7 / 9.8 / 9.5 / 9.8) | major cultural city | Barcelona has a distinctive modernist architectural concentration and beach districts, but less institutional breadth and global historic significance. |
 | [Vienna (AT)](../../../countries/AT/cities/vienna.yaml) (9.2 / 9 / 9.5 / 9.2 / 9.4) | major cultural capital | Uniqueness higher: Distinct Catalan modernist and medieval urban fabric; depth higher: Many independent urban districts. Provisional scope comparison. |
 | [Tallinn (EE)](../../../countries/EE/cities/tallinn.yaml) (9 / 9 / 8.9 / 9.1 / 9) | historic urban fabric | Uniqueness higher: Distinct Catalan modernist and medieval urban fabric; depth higher: Many independent urban districts. Provisional scope comparison. |
 | [Hoi An (VN)](../../../countries/VN/cities/hoi-an.yaml) (9 / 9.3 / 9.1 / 9 / 8.7) | distinct compact trading town | Uniqueness higher: Distinct Catalan modernist and medieval urban fabric; depth higher: Many independent urban districts. Provisional scope comparison. |
@@ -32,7 +33,7 @@
 
 - Applicable category scores: architecture: 9.7, culture: 9.5, food: 9.3.
 - Computed worldwide overall: 95.20/100.
-- High-score challenge: Impact 9.6: Modernist avenues Gothic lanes and sea frontage; Uniqueness 9.5: Distinct Catalan modernist and medieval urban fabric; Experience 9.5: Museums markets beaches and city walks; Depth 9.6: Many independent urban districts; architecture 9.7: Modernist avenues Gothic lanes and sea frontage; culture 9.5: International architectural and cultural heritage. 90+ total: Modernist avenues Gothic lanes and sea frontage; Distinct Catalan modernist and medieval urban fabric; Many independent urban districts. Compare Vienna and Tallinn: the named urban fabric and distinct independent cultural institutions support the placement, without nearby excursions..
+- High-score challenge: impact 9.6, uniqueness 9.5, experience 9.5, depth 9.6, architecture 9.7 and culture 9.5 reflect distinct Gaudí buildings, Gothic fabric, museums, markets and public urban neighborhoods confirmed by tourism authority. Paris has broader historic and institutional scope; Vienna's breadth is comparable, with distinct architectural character. No external excursions assumed.
 - Approved 10 registry: none.
 - Final decision: Provisional editorial assessment: Distinct Catalan modernist and medieval urban fabric; Many independent urban districts.
 - Earlier decision: none.
@@ -44,8 +45,8 @@
 - Action: new
 - Precise subject: Madrid; Many independent districts and collections.
 - Location check: 40.4168, -3.7038; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Turespaña](https://www.spain.info/en/query/city-breaks-spain/) — consulted 2026-11-25 for general urban tourism context only; material claims and admission details not independently corroborated.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.spain.info/en/destination/madrid/ — National tourism authority documents distinct museums, royal palace, parks and neighborhoods. Reviewed 2026-11-25; partial evidence, not full independent claim verification.
 - Missing or uncertain facts: precise coordinates, ordinary permitted visitor conditions, material claims and narrower peer matching.
 
 #### Worldwide peer comparisons
@@ -79,8 +80,8 @@
 - Action: new
 - Precise subject: Seville; Several independent neighborhoods.
 - Location check: 37.3891, -5.9845; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Turespaña](https://www.spain.info/en/query/city-breaks-spain/) — consulted 2026-11-25 for general urban tourism context only; material claims and admission details not independently corroborated.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.spain.info/en/destination/seville/ — National tourism profile identifies historic neighborhoods, civic squares, monuments and cultural venues. Reviewed 2026-11-25; partial evidence, not full independent claim verification.
 - Missing or uncertain facts: precise coordinates, ordinary permitted visitor conditions, material claims and narrower peer matching.
 
 #### Worldwide peer comparisons
@@ -114,8 +115,8 @@
 - Action: new
 - Precise subject: Granada; Multiple districts excluding Sierra Nevada.
 - Location check: 37.1773, -3.5986; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Turespaña](https://www.spain.info/en/query/city-breaks-spain/) — consulted 2026-11-25 for general urban tourism context only; material claims and admission details not independently corroborated.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.spain.info/en/destination/granada/ — National tourism profile identifies the Alhambra and urban heritage; Sierra Nevada outside city scope. Reviewed 2026-11-25; partial evidence, not full independent claim verification.
 - Missing or uncertain facts: precise coordinates, ordinary permitted visitor conditions, material claims and narrower peer matching.
 
 #### Worldwide peer comparisons
@@ -149,8 +150,8 @@
 - Action: new
 - Precise subject: Córdoba; Several urban precincts.
 - Location check: 37.8882, -4.7794; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Turespaña](https://www.spain.info/en/query/city-breaks-spain/) — consulted 2026-11-25 for general urban tourism context only; material claims and admission details not independently corroborated.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.spain.info/en/destination/cordoba/ — National tourism authority identifies historic quarters and monuments; external Medina Azahara not inherited. Reviewed 2026-11-25; partial evidence, not full independent claim verification.
 - Missing or uncertain facts: precise coordinates, ordinary permitted visitor conditions, material claims and narrower peer matching.
 
 #### Worldwide peer comparisons
@@ -219,8 +220,8 @@
 - Action: new
 - Precise subject: Valencia; Many independent districts.
 - Location check: 39.4699, -0.3763; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Turespaña](https://www.spain.info/en/query/city-breaks-spain/) — consulted 2026-11-25 for general urban tourism context only; material claims and admission details not independently corroborated.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.spain.info/en/destination/valencia/ — National tourism profile documents historic and modern urban visitor attractions. Reviewed 2026-11-25; partial evidence, not full independent claim verification.
 - Missing or uncertain facts: precise coordinates, ordinary permitted visitor conditions, material claims and narrower peer matching.
 
 #### Worldwide peer comparisons
@@ -324,8 +325,8 @@
 - Action: new
 - Precise subject: San Sebastián; Multiple urban districts.
 - Location check: 43.3183, -1.9812; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Turespaña](https://www.spain.info/en/query/city-breaks-spain/) — consulted 2026-11-25 for general urban tourism context only; material claims and admission details not independently corroborated.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.spain.info/en/destination/donostia-san-sebastian/ — National tourism profile identifies coastal city, religious monuments and culinary culture. Reviewed 2026-11-25; partial evidence, not full independent claim verification.
 - Missing or uncertain facts: precise coordinates, ordinary permitted visitor conditions, material claims and narrower peer matching.
 
 #### Worldwide peer comparisons
@@ -359,8 +360,8 @@
 - Action: new
 - Precise subject: Bilbao; Multiple urban districts.
 - Location check: 43.263, -2.935; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Turespaña](https://www.spain.info/en/query/city-breaks-spain/) — consulted 2026-11-25 for general urban tourism context only; material claims and admission details not independently corroborated.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.spain.info/en/destination/bilbao/ — National tourism profile identifies urban culture and architectural renewal. Reviewed 2026-11-25; partial evidence, not full independent claim verification.
 - Missing or uncertain facts: precise coordinates, ordinary permitted visitor conditions, material claims and narrower peer matching.
 
 #### Worldwide peer comparisons
@@ -394,8 +395,8 @@
 - Action: new
 - Precise subject: Málaga; Several urban districts.
 - Location check: 36.7213, -4.4214; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Turespaña](https://www.spain.info/en/query/city-breaks-spain/) — consulted 2026-11-25 for general urban tourism context only; material claims and admission details not independently corroborated.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.spain.info/en/destination/malaga/ — National tourism profile identifies museums, fortress, Roman theatre and city beach. Reviewed 2026-11-25; partial evidence, not full independent claim verification.
 - Missing or uncertain facts: precise coordinates, ordinary permitted visitor conditions, material claims and narrower peer matching.
 
 #### Worldwide peer comparisons
@@ -534,8 +535,8 @@
 - Action: new
 - Precise subject: Burgos; Several districts not Atapuerca.
 - Location check: 42.3439, -3.6969; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Turespaña](https://www.spain.info/en/query/city-breaks-spain/) — consulted 2026-11-25 for general urban tourism context only; material claims and admission details not independently corroborated.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.spain.info/en/discover-spain/burgos-ideas-for-a-day-trip/ — National tourism authority documents cathedral, Plaza Mayor and city streets. Reviewed 2026-11-25; partial evidence, not full independent claim verification.
 - Missing or uncertain facts: precise coordinates, ordinary permitted visitor conditions, material claims and narrower peer matching.
 
 #### Worldwide peer comparisons
@@ -569,8 +570,8 @@
 - Action: new
 - Precise subject: Ronda; Town not surrounding mountains.
 - Location check: 36.7462, -5.1612; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: No destination-specific source checked; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.spain.info/en/destination/ronda/ — National tourism profile identifies gorge bridges, historic town and viewpoints. Reviewed 2026-11-25; partial evidence, not full independent claim verification.
 - Missing or uncertain facts: precise coordinates, ordinary permitted visitor conditions, material claims and narrower peer matching.
 
 #### Worldwide peer comparisons
@@ -604,8 +605,8 @@
 - Action: new
 - Precise subject: Zaragoza; Multiple districts.
 - Location check: 41.6488, -0.8891; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Turespaña](https://www.spain.info/en/query/city-breaks-spain/) — consulted 2026-11-25 for general urban tourism context only; material claims and admission details not independently corroborated.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.spain.info/en/destination/zaragoza/ — National tourism authority identifies Mudéjar palace, urban guided visits and parks. Reviewed 2026-11-25; partial evidence, not full independent claim verification.
 - Missing or uncertain facts: precise coordinates, ordinary permitted visitor conditions, material claims and narrower peer matching.
 
 #### Worldwide peer comparisons
@@ -639,8 +640,8 @@
 - Action: new
 - Precise subject: Palma de Mallorca; Exclude whole island.
 - Location check: 39.5696, 2.6502; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: No destination-specific source checked; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.spain.info/en/destination/palma/ — National tourism profile identifies city cultural attractions, including Miró Foundation. Reviewed 2026-11-25; partial evidence, not full independent claim verification.
 - Missing or uncertain facts: precise coordinates, ordinary permitted visitor conditions, material claims and narrower peer matching.
 
 #### Worldwide peer comparisons
@@ -674,8 +675,8 @@
 - Action: new
 - Precise subject: Cádiz; City excludes wider coast.
 - Location check: 36.5271, -6.2886; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Turespaña](https://www.spain.info/en/query/city-breaks-spain/) — consulted 2026-11-25 for general urban tourism context only; material claims and admission details not independently corroborated.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.spain.info/en/route/what-see-cadiz-one-day/ — National tourism authority documents distinct historic neighborhoods and walking routes. Reviewed 2026-11-25; partial evidence, not full independent claim verification.
 - Missing or uncertain facts: precise coordinates, ordinary permitted visitor conditions, material claims and narrower peer matching.
 
 #### Worldwide peer comparisons
@@ -744,8 +745,8 @@
 - Action: new
 - Precise subject: Girona; Compact city.
 - Location check: 41.9794, 2.8214; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: No destination-specific source checked; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.spain.info/en/destination/girona/ — National tourism profile documents El Call, Arab Baths, churches and riverfront. Reviewed 2026-11-25; partial evidence, not full independent claim verification.
 - Missing or uncertain facts: precise coordinates, ordinary permitted visitor conditions, material claims and narrower peer matching.
 
 #### Worldwide peer comparisons

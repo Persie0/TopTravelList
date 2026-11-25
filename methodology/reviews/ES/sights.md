@@ -361,6 +361,7 @@
 - Location check: 43.378, -4.119; approximate representative point, independent verification pending.
 - Evidence status: **unassessed**
 - Evidence: [UNESCO](https://whc.unesco.org/en/statesparties/es) — consulted 2026-11-25 for property identity and inscription/tentative status only; material claims and admission details not independently corroborated.
+- Supplemental evidence (2026-11-25): https://www.cultura.gob.es/mnaltamira/en/cueva-altamira/visita-a-la-cueva.html — National museum confirms strictly limited original cave access; replica is separately ranked, other series components remain unassessed.
 - Missing or uncertain facts: precise coordinates, ordinary permitted visitor conditions, material claims and narrower peer matching.
 
 #### Worldwide peer comparisons
@@ -2251,6 +2252,7 @@
 - Location check: 41.4036, 2.1744; approximate representative point, independent verification pending.
 - Evidence status: **source-linked-unverified**
 - Evidence: [Sagrada Família](https://sagradafamilia.org/en/tickets) — consulted 2026-11-25 for ordinary public basilica admission; material claims and admission details not independently corroborated. [UNESCO country inventory](https://whc.unesco.org/en/statesparties/es) establishes associated property identity.
+- Supplemental evidence (2026-11-25): https://www.spain.info/en/places-of-interest/sagrada-familia/ — National tourism authority documents the building, Gaudí's historic components and 2026 completion of the central tower; https://sagradafamilia.org/en/web/guest/schedules-how-to-get confirms visitor entrance.
 - Missing or uncertain facts: precise coordinates, ordinary permitted visitor conditions, material claims and narrower peer matching.
 
 #### Worldwide peer comparisons
@@ -2531,6 +2533,7 @@
 - Location check: 41.4037, 2.1745; approximate representative point, independent verification pending.
 - Evidence status: **unassessed**
 - Evidence: [UNESCO](https://whc.unesco.org/en/list/320) — consulted 2026-11-25 for Gaudí property scope and architectural heritage; material claims and admission details not independently corroborated.
+- Supplemental evidence (2026-11-25): https://sagradafamilia.org/en/worship-at-the-basilica — Operator documents worship in the crypt; this is not confirmation of ordinary tourist admission to the crypt. Keep combined listed facade and crypt unassessed.
 - Missing or uncertain facts: precise coordinates, ordinary permitted visitor conditions, material claims and narrower peer matching.
 
 #### Worldwide peer comparisons
@@ -2564,13 +2567,14 @@
 - Action: new
 - Precise subject: Prado Museum; Multiple independent collections.
 - Location check: 40.4138, -3.6921; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: No destination-specific source checked; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://entradas.museodelprado.es/ — Museum's official ticket portal confirms public gallery admission; https://www.spain.info/en/destination/madrid/ identifies the museum in Madrid's cultural inventory. No other museum included in score. Reviewed 2026-11-25; partial evidence, not full independent claim verification.
 - Missing or uncertain facts: precise coordinates, ordinary permitted visitor conditions, material claims and narrower peer matching.
 
 #### Worldwide peer comparisons
 | Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
 | --- | --- | --- |
+| [Louvre (FR)](../../../countries/FR/sights/louvre.yaml) (9.6 / 9.6 / 9.8 / 9.4 / 9.8) | major art museum | Prado has exceptional painting collections, but narrower archaeological and object collection breadth. |
 | [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (9.4 / 9.3 / 9.6 / 9.5 / 9.3) | major architectural estate | Uniqueness higher: Distinct concentration of Spanish court and European art; depth higher: Multiple independent collections. Provisional scope comparison. |
 | [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | major historic complex | Uniqueness higher: Distinct concentration of Spanish court and European art; depth higher: Multiple independent collections. Provisional scope comparison. |
 | [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | historic built ensemble | Uniqueness lower: Distinct concentration of Spanish court and European art; depth higher: Multiple independent collections. Provisional scope comparison. |
@@ -2587,7 +2591,7 @@
 
 - Applicable category scores: culture: 9.8, history: 9.6.
 - Computed worldwide overall: 94.65/100.
-- High-score challenge: Significance 9.7: International art historical heritage; Depth 9.6: Multiple independent collections; culture 9.8: International art historical heritage; history 9.6: International art historical heritage. 90+ total: Extensive major painting collections; Distinct concentration of Spanish court and European art; Multiple independent collections. Compare Schönbrunn and Hohensalzburg: architectural or historical merit is distinct from ordinary visitor breadth. Closer same-type peer matching remains outstanding..
+- High-score challenge: significance 9.7, depth 9.6, culture 9.8 and history 9.6 reflect extensive European and Spanish painting collections. Louvre offers broader cross-civilization collections and historic palace rooms; Prado score is narrower across those dimensions. Separate Madrid art museums excluded.
 - Approved 10 registry: none.
 - Final decision: Provisional editorial assessment: Distinct concentration of Spanish court and European art; Multiple independent collections.
 - Earlier decision: none.
@@ -2599,8 +2603,8 @@
 - Action: new
 - Precise subject: Royal Alcázar of Seville; One monument complex.
 - Location check: 37.383, -5.991; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: No destination-specific source checked; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://alcazarsevilla.org/prepara-la-visita/ — Official palace operator publishes visitor admission rules; https://www.spain.info/en/region/andalusia/ identifies Alcázar as a World Heritage component. Reviewed 2026-11-25; partial evidence, not full independent claim verification.
 - Missing or uncertain facts: precise coordinates, ordinary permitted visitor conditions, material claims and narrower peer matching.
 
 #### Worldwide peer comparisons
@@ -2634,8 +2638,8 @@
 - Action: new
 - Precise subject: Plaza de España Seville; One square.
 - Location check: 37.377, -5.986; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: No destination-specific source checked; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://visitasevilla.es/en/plaza-de-espana/ — Local tourism authority identifies the monumental 50,000 square metre civic square and 1929 architecture; surrounding park excluded from this named square. Reviewed 2026-11-25; partial evidence, not full independent claim verification.
 - Missing or uncertain facts: precise coordinates, ordinary permitted visitor conditions, material claims and narrower peer matching.
 
 #### Worldwide peer comparisons
@@ -2653,13 +2657,13 @@
 | Uniqueness | — | 9.0 | Distinct exhibition-era ensemble |
 | Significance | — | 8.7 | National architectural heritage |
 | Experience | — | 9.0 | Public square walks |
-| Depth | — | 8.1 | One square |
+| Depth | — | 7.8 | Single monumental square, canal and architectural details; nearby park and other attractions not inherited |
 
 - Applicable category scores: architecture: 9.4, photography: 9.5.
-- Computed worldwide overall: 89.10/100.
+- Computed worldwide overall: 88.80/100.
 - High-score challenge: photography 9.5: Curving tiled civic plaza and canal. Compare Schönbrunn and Hohensalzburg: architectural or historical merit is distinct from ordinary visitor breadth. Closer same-type peer matching remains outstanding..
 - Approved 10 registry: none.
-- Final decision: Provisional editorial assessment: Distinct exhibition-era ensemble; One square.
+- Final decision: 88.80 after documented ordinary visitor scope correction.
 - Earlier decision: none.
 - Verification still needed: independent factual support, access, exact GPS and closer peers.
 
@@ -2669,8 +2673,8 @@
 - Action: new
 - Precise subject: Guggenheim Museum Bilbao; Named museum only.
 - Location check: 43.2687, -2.934; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: No destination-specific source checked; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.guggenheim-bilbao.eus/en/itineraire/a-day-in-the-museum — Museum operator identifies exhibitions and architecture; https://www.guggenheim-bilbao.eus/en/plan-your-visit documents admission. Reviewed 2026-11-25; partial evidence, not full independent claim verification.
 - Missing or uncertain facts: precise coordinates, ordinary permitted visitor conditions, material claims and narrower peer matching.
 
 #### Worldwide peer comparisons
@@ -2704,8 +2708,8 @@
 - Action: new
 - Precise subject: Altamira Museum and Neocave replica; Replica only not original cave.
 - Location check: 43.377, -4.122; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: No destination-specific source checked; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.cultura.gob.es/mnaltamira/en/que-hacer/exposicion-permanente/neocueva.html — National museum documents replica and interpretation; https://www.cultura.gob.es/mnaltamira/en/visita/horario.html confirms ordinary public admission. Reviewed 2026-11-25; partial evidence, not full independent claim verification.
 - Missing or uncertain facts: precise coordinates, ordinary permitted visitor conditions, material claims and narrower peer matching.
 
 #### Worldwide peer comparisons
@@ -3861,6 +3865,7 @@
 - Location check: 37.37, -1.73; approximate representative point, independent verification pending.
 - Evidence status: **source-linked-unverified**
 - Evidence: [UNESCO](https://whc.unesco.org/en/statesparties/es) — consulted 2026-11-25 for property identity and inscription/tentative status only; material claims and admission details not independently corroborated.
+- Supplemental evidence (2026-11-25): https://pulpi.es/Servicios/Recursos/reservas.nsf/porreferencia/1FD41220190903150944?OpenDocument=&indice=12022024 — Municipal operator describes guided main mine galleries; https://pulpi.es/Servicios/Recursos/reservas.nsf/anexos/C806F9830A84C973C125846A00483627/%24file/NORMATIVA%20DEL%20PRUG%20DE%20LA%20GEODA%20DE%20PULP%C3%8D%20Y%20MINA%20RICA%20PARA%20.pdf prohibits entry into the geode itself except authorized scientific access.
 - Missing or uncertain facts: precise coordinates, ordinary permitted visitor conditions, material claims and narrower peer matching.
 
 #### Worldwide peer comparisons
@@ -3878,13 +3883,13 @@
 | Uniqueness | — | 9.4 | Rare concentrated crystal formation |
 | Significance | — | 9.1 | International mineralogical interest |
 | Experience | — | 8.3 | Controlled guided viewing |
-| Depth | — | 7.7 | One geode and permitted route |
+| Depth | — | 7.5 | Guided designated mine galleries and observation of geode from permitted viewing point, no interior entry |
 
 - Applicable category scores: nature: 9.5, photography: 9.2.
-- Computed worldwide overall: 88.55/100.
-- High-score challenge: nature 9.5: Rare concentrated crystal formation. Compare Jiuzhaigou and Hohe Tauern: distinct habitat or landform supports the stated field, not an assumption of equivalent scenic breadth..
+- Computed worldwide overall: 88.35/100.
+- High-score challenge: nature 9.5 reflects rare giant gypsum crystals, not unrestricted entry into crystal chamber. Guided mine galleries support the experience and limited depth 7.5.
 - Approved 10 registry: none.
-- Final decision: Provisional editorial assessment: Rare concentrated crystal formation; One geode and permitted route.
+- Final decision: 88.35 after documented ordinary visitor scope correction.
 - Earlier decision: none.
 - Verification still needed: independent factual support, access, exact GPS and closer peers.
 
