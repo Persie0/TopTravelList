@@ -121,7 +121,7 @@
 - Evidence status: source-linked-unverified
 - Limited checked factual references (page or search excerpt, accessed 2026-11-25):
   - London village coordinate — https://www.geonames.org/KI/largest-cities-in-kiribati.html
-  - Identifies London as administrative capital of Kiritimati — https://mapcarta.com/20407590
+  - Named London village and location — https://mapcarta.com/20407556; coordinate corroboration https://www.geonames.org/4030939/london-village.html (checked 2026-11-25)
   - Explains island visitor context, not town-specific activities — https://kiribatitravel.com/destinations/kiritimati/
 - Missing or uncertain facts: Town-specific walks, heritage buildings and public venues need detailed inventory.
 
@@ -157,7 +157,7 @@
 - Evidence status: unassessed
 - Limited checked factual references (page or search excerpt, accessed 2026-11-25):
   - Named village and point — https://www.geonames.org/KI/largest-cities-in-kiribati.html
-  - Identifies Tabwakea as the largest village on Kiritimati — https://mapcarta.com/20407590
+  - Identifies Tabwakea as the largest village on Kiritimati — https://mapcarta.com/27389482 (checked 2026-11-25)
 - Missing or uncertain facts: Specific public attractions and streetscape evidence needed.
 
 ### Worldwide peer comparisons
