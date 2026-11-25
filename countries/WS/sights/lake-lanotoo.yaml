@@ -1,0 +1,16 @@
+id: sight-ws-lake-lanotoo
+name: "Lake Lanoto'o"
+location:
+  country_code: WS
+  latitude: -13.91033
+  longitude: -171.8276
+scores:
+  impact: 8.2
+  uniqueness: 8.3
+  significance: 8.2
+  experience: 8
+  depth: 7.3
+  categories:
+    nature: 8.7
+    photography: 8.4
+    adventure: 8

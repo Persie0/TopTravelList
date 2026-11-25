@@ -1,0 +1,15 @@
+id: city-lr-sanniquellie
+name: "Sanniquellie"
+location:
+  country_code: LR
+  latitude: 7.36
+  longitude: -8.71
+scores:
+  impact: 6.0
+  uniqueness: 7.0
+  significance: 7.0
+  experience: 6.9
+  depth: 6.0
+  categories:
+    culture: 7.6
+    history: 7.6

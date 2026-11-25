@@ -1,0 +1,16 @@
+id: sight-cf-dzanga-bai
+name: "Dzanga Bai"
+location:
+  country_code: CF
+  latitude: 2.95389
+  longitude: 16.365
+scores:
+  impact: 9.4
+  uniqueness: 9.6
+  significance: 9.4
+  experience: 9.1
+  depth: 8.0
+  categories:
+    wildlife: 9.7
+    nature: 9.4
+    photography: 9.4

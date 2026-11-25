@@ -1,0 +1,15 @@
+id: sight-ga-akanda-national-park
+name: "Akanda National Park"
+location:
+  country_code: GA
+  latitude: 0.57
+  longitude: 9.55
+scores:
+  impact: 7.8
+  uniqueness: 8.3
+  significance: 8.9
+  experience: 8.0
+  depth: 7.9
+  categories:
+    nature: 8.9
+    wildlife: 9.1

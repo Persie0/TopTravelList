@@ -1,0 +1,16 @@
+id: sight-gn-ditinn-waterfall
+name: "Ditinn Waterfall"
+location:
+  country_code: GN
+  latitude: 10.81622
+  longitude: -12.18594
+scores:
+  impact: 8.8
+  uniqueness: 8.4
+  significance: 7.2
+  experience: 8.4
+  depth: 7.7
+  categories:
+    nature: 9.0
+    photography: 9.2
+    adventure: 8.8

@@ -1,0 +1,14 @@
+id: city-cd-bukavu
+name: "Bukavu"
+location:
+  country_code: CD
+  latitude: -2.49077
+  longitude: 28.84281
+scores:
+  impact: 8.3
+  uniqueness: 8.3
+  significance: 7.8
+  experience: null
+  depth: null
+  categories:
+    photography: 8.5

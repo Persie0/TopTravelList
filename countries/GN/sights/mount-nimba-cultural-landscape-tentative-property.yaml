@@ -1,0 +1,16 @@
+id: sight-gn-mount-nimba-cultural-landscape-tentative-property
+name: "Mount Nimba Cultural Landscape (tentative property)"
+location:
+  country_code: GN
+  latitude: 7.65
+  longitude: -8.40
+scores:
+  impact: null
+  uniqueness: 8.9
+  significance: 9.1
+  experience: null
+  depth: null
+  categories:
+    history: 9.1
+    culture: 9.2
+    nature: 9.2

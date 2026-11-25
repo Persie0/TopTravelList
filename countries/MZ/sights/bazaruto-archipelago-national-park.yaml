@@ -1,0 +1,17 @@
+id: sight-mz-bazaruto-archipelago-national-park
+name: "Bazaruto Archipelago National Park"
+location:
+  country_code: MZ
+  latitude: -21.75
+  longitude: 35.416667
+scores:
+  impact: 9.5
+  uniqueness: 9.4
+  significance: 9.3
+  experience: 9.3
+  depth: 9.0
+  categories:
+    nature: 9.6
+    beaches: 9.5
+    wildlife: 9.4
+    photography: 9.5

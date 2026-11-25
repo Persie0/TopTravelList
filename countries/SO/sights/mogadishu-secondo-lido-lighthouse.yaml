@@ -1,0 +1,15 @@
+id: sight-so-mogadishu-secondo-lido-lighthouse
+name: "Mogadishu Secondo-Lido Lighthouse"
+location:
+  country_code: SO
+  latitude: 2.034333
+  longitude: 45.344111
+scores:
+  impact: 7.5
+  uniqueness: 8.2
+  significance: 8.5
+  experience: null
+  depth: null
+  categories:
+    history: 8.6
+    architecture: 8.2

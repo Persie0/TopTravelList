@@ -1,0 +1,15 @@
+id: city-cf-ndele
+name: "Ndélé"
+location:
+  country_code: CF
+  latitude: 8.40
+  longitude: 20.65
+scores:
+  impact: null
+  uniqueness: 8.2
+  significance: 8.8
+  experience: null
+  depth: null
+  categories:
+    history: 9.1
+    culture: 8.5

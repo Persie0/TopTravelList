@@ -1,0 +1,16 @@
+id: sight-ss-nimule-national-park
+name: "Nimule National Park"
+location:
+  country_code: SS
+  latitude: 3.65
+  longitude: 31.9667
+scores:
+  impact: 8.0
+  uniqueness: 8.1
+  significance: 8.3
+  experience: 7.8
+  depth: 7.7
+  categories:
+    nature: 8.6
+    wildlife: 8.8
+    adventure: 8.2

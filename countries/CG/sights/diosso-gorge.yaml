@@ -1,0 +1,15 @@
+id: sight-cg-diosso-gorge
+name: "Diosso Gorge"
+location:
+  country_code: CG
+  latitude: -4.62
+  longitude: 11.85
+scores:
+  impact: 8.6
+  uniqueness: 8.5
+  significance: 7.0
+  experience: 8.3
+  depth: 7.0
+  categories:
+    nature: 8.9
+    photography: 9.2

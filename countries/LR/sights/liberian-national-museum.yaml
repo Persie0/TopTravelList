@@ -1,0 +1,15 @@
+id: sight-lr-liberian-national-museum
+name: "Liberian National Museum"
+location:
+  country_code: LR
+  latitude: 6.313
+  longitude: -10.804
+scores:
+  impact: 7.2
+  uniqueness: 8.1
+  significance: 8.8
+  experience: 8.0
+  depth: 7.4
+  categories:
+    history: 9.0
+    culture: 8.9

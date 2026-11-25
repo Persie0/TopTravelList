@@ -1,0 +1,15 @@
+id: city-sl-koidu
+name: "Koidu"
+location:
+  country_code: SL
+  latitude: 8.643
+  longitude: -10.971
+scores:
+  impact: 5.7
+  uniqueness: 6.9
+  significance: 7.1
+  experience: 6.5
+  depth: 6.3
+  categories:
+    culture: 7.3
+    history: 7.5

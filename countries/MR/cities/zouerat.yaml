@@ -1,0 +1,13 @@
+id: city-mr-zouerat
+name: "Zouérat"
+location:
+  country_code: MR
+  latitude: 22.735
+  longitude: -12.471
+scores:
+  impact: null
+  uniqueness: 7.2
+  significance: 7.1
+  experience: null
+  depth: null
+  categories: {}

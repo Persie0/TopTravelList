@@ -1,0 +1,15 @@
+id: sight-ci-kong-small-mosque
+name: "Small Mosque of Kong"
+location:
+  country_code: CI
+  latitude: 9.148111
+  longitude: -4.611056
+scores:
+  impact: null
+  uniqueness: 8.7
+  significance: 8.5
+  experience: null
+  depth: null
+  categories:
+    architecture: 8.8
+    history: 8.5

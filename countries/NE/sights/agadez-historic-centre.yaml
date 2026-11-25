@@ -1,0 +1,17 @@
+id: sight-ne-agadez-historic-centre
+name: "Historic Centre of Agadez"
+location:
+  country_code: NE
+  latitude: 16.9738
+  longitude: 7.9878
+scores:
+  impact: 9.0
+  uniqueness: 9.4
+  significance: 9.4
+  experience: 8.5
+  depth: 8.6
+  categories:
+    architecture: 9.4
+    history: 9.4
+    culture: 9.2
+    photography: 9.2

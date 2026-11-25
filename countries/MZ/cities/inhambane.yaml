@@ -1,0 +1,16 @@
+id: city-mz-inhambane
+name: "Inhambane"
+location:
+  country_code: MZ
+  latitude: -23.865
+  longitude: 35.38333
+scores:
+  impact: 7.8
+  uniqueness: 8.1
+  significance: 8.0
+  experience: 8.1
+  depth: 7.7
+  categories:
+    architecture: 8.3
+    culture: 8.3
+    history: 8.2

@@ -1,0 +1,15 @@
+id: sight-ao-miradouro-da-lua
+name: "Miradouro da Lua"
+location:
+  country_code: AO
+  latitude: -9.2212
+  longitude: 13.0898
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 7.6
+  experience: 8.5
+  depth: 7.0
+  categories:
+    nature: 8.9
+    photography: 9.1

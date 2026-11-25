@@ -1,0 +1,15 @@
+id: sight-mh-majuro-bridge
+name: "Majuro Bridge"
+location:
+  country_code: MH
+  latitude: 7.083
+  longitude: 171.35515
+scores:
+  impact: 5.9
+  uniqueness: 6.4
+  significance: 6.2
+  experience: 6.3
+  depth: 4.6
+  categories:
+    architecture: 6.1
+    photography: 6.3

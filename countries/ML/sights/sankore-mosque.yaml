@@ -1,0 +1,16 @@
+id: sight-ml-sankore-mosque
+name: "Sankoré Mosque"
+location:
+  country_code: ML
+  latitude: 16.776
+  longitude: -3.007
+scores:
+  impact: 8.4
+  uniqueness: 9.1
+  significance: 9.4
+  experience: 7.5
+  depth: 7.0
+  categories:
+    architecture: 8.9
+    history: 9.4
+    culture: 9.2

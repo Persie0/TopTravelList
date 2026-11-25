@@ -1,0 +1,15 @@
+id: sight-cg-lossi-gorilla-sanctuary
+name: "Lossi Gorilla Sanctuary"
+location:
+  country_code: CG
+  latitude: 0.30
+  longitude: 14.60
+scores:
+  impact: null
+  uniqueness: 8.6
+  significance: 8.9
+  experience: null
+  depth: null
+  categories:
+    wildlife: 9.2
+    nature: 9.0

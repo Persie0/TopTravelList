@@ -1,0 +1,13 @@
+id: city-ki-teaoraereke
+name: "Teaoraereke Village"
+location:
+  country_code: KI
+  latitude: 1.33309
+  longitude: 173.01162
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}

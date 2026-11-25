@@ -1,0 +1,13 @@
+id: city-mr-kiffa
+name: "Kiffa"
+location:
+  country_code: MR
+  latitude: 16.621
+  longitude: -11.402
+scores:
+  impact: null
+  uniqueness: null
+  significance: 6.6
+  experience: null
+  depth: null
+  categories: {}

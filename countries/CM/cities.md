@@ -2,7 +2,7 @@
 
 # Cameroon (CM) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**7 ranked** · **3 unassessed** · **10 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,27 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (7)
 
-No cities, towns & villages have been assessed for **Cameroon** yet.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Foumban](cities/foumban.yaml) | City / town | **83.15** | **Culture 9.0**, **History 8.9**, **Architecture 8.6** | 8.0 / 8.6 / 8.6 / 8.3 / 8.0 | [5.72662, 10.89865](https://www.google.com/maps/search/?api=1&query=5.72662,10.89865) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Foumban%2C%20Cameroon) |
+| 2 | [Limbe](cities/limbe.yaml) | City / town | **80.10** | **Nature 8.4**, **Beaches 8.1**, **Culture 8.0** | 8.1 / 8.2 / 7.7 / 8.0 / 7.9 | [4.02356, 9.20607](https://www.google.com/maps/search/?api=1&query=4.02356,9.20607) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Limbe%2C%20Cameroon) |
+| 3 | [Douala](cities/douala.yaml) | City / town | **79.75** | **Food 8.6**, **Culture 8.5**, **Nightlife 8.1** | 7.6 / 8.0 / 8.2 / 8.1 / 8.4 | [4.04827, 9.70428](https://www.google.com/maps/search/?api=1&query=4.04827,9.70428) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Douala%2C%20Cameroon) |
+| 4 | [Yaoundé](cities/yaounde.yaml) | City / town | **79.10** | **Culture 8.5**, **Food 8.2**, **History 8.0** | 7.7 / 7.8 / 8.1 / 8.0 / 8.3 | [3.86667, 11.51667](https://www.google.com/maps/search/?api=1&query=3.86667,11.51667) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Yaound%C3%A9%2C%20Cameroon) |
+| 5 | [Kribi](cities/kribi.yaml) | City / town | **78.55** | **Beaches 8.7**, **Relaxation 8.6**, **Food 8.3** | 8.0 / 7.8 / 7.3 / 8.5 / 7.7 | [2.93725, 9.90765](https://www.google.com/maps/search/?api=1&query=2.93725,9.90765) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kribi%2C%20Cameroon) |
+| 6 | [Dschang](cities/dschang.yaml) | City / town | **77.15** | **Culture 8.4**, **History 8.0** | 7.6 / 7.8 / 7.7 / 7.9 / 7.6 | [5.443972, 10.053317](https://www.google.com/maps/search/?api=1&query=5.443972,10.053317) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Dschang%2C%20Cameroon) |
+| 7 | [Bafoussam](cities/bafoussam.yaml) | City / town | **74.05** | **Culture 8.3** | 7.0 / 7.6 / 7.7 / 7.5 / 7.4 | [5.47775, 10.41759](https://www.google.com/maps/search/?api=1&query=5.47775,10.41759) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bafoussam%2C%20Cameroon) |
 
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+## Not yet fully assessed (3)
+
+These destinations have no rank until all five core scores are assessed.
+
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| — | [Bamenda](cities/bamenda.yaml) | City / town | **—** | — | — / 7.8 / 7.8 / — / — | [5.9597, 10.14597](https://www.google.com/maps/search/?api=1&query=5.9597,10.14597) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bamenda%2C%20Cameroon) |
+| — | [Buea](cities/buea.yaml) | City / town | **—** | **History 8.3**, **Photography 8.1** | 7.6 / 7.8 / 8.0 / — / — | [4.15342, 9.24231](https://www.google.com/maps/search/?api=1&query=4.15342,9.24231) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Buea%2C%20Cameroon) |
+| — | [Maroua](cities/maroua.yaml) | City / town | **—** | **Culture 8.3** | — / 8.0 / 7.8 / — / — | [10.59095, 14.31593](https://www.google.com/maps/search/?api=1&query=10.59095,14.31593) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Maroua%2C%20Cameroon) |
 
 ---
 
