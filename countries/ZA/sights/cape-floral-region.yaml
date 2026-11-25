@@ -1,0 +1,14 @@
+id: sight-za-cape-floral-region
+name: "Cape Floral Region Protected Areas (UNESCO aggregate)"
+location:
+  country_code: ZA
+  latitude: -34
+  longitude: 18.5
+scores:
+  impact: null
+  uniqueness: 9.6
+  significance: 9.7
+  experience: null
+  depth: null
+  categories:
+    nature: 9.7

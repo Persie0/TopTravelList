@@ -1,0 +1,16 @@
+id: city-za-johannesburg
+name: "Johannesburg"
+location:
+  country_code: ZA
+  latitude: -26.2041
+  longitude: 28.0473
+scores:
+  impact: 8.1
+  uniqueness: 8.4
+  significance: 9.0
+  experience: 8.3
+  depth: 8.8
+  categories:
+    history: 9.1
+    culture: 8.9
+    food: 8.5
