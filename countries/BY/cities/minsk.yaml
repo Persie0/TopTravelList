@@ -1,0 +1,16 @@
+id: city-by-minsk
+name: "Minsk"
+location:
+  country_code: BY
+  latitude: 53.9006
+  longitude: 27.559
+scores:
+  impact: 8.3
+  uniqueness: 8.6
+  significance: 8.6
+  experience: 8.5
+  depth: 8.9
+  categories:
+    architecture: 9.0
+    history: 8.7
+    culture: 8.7
