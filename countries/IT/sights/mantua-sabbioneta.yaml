@@ -1,0 +1,15 @@
+id: sight-it-mantua-sabbioneta
+name: "Mantua and Sabbioneta"
+location:
+  country_code: IT
+  latitude: 45.16
+  longitude: 10.79
+scores:
+  impact: 9.1
+  uniqueness: 9.1
+  significance: 9.3
+  experience: 9.0
+  depth: 9.1
+  categories:
+    architecture: 9.5
+    history: 9.4

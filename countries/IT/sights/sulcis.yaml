@@ -1,0 +1,15 @@
+id: sight-it-sulcis
+name: "Sulcis Iglesiente"
+location:
+  country_code: IT
+  latitude: 39.3
+  longitude: 8.5
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 9.0
+  experience: 8.8
+  depth: 9.0
+  categories:
+    history: 9.3
+    nature: 9.2

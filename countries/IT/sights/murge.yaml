@@ -1,0 +1,15 @@
+id: sight-it-murge
+name: "Murge of Altamura"
+location:
+  country_code: IT
+  latitude: 40.83
+  longitude: 16.55
+scores:
+  impact: 8.5
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.7
+  depth: 8.7
+  categories:
+    nature: 9.2
+    history: 9.2

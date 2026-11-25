@@ -1,0 +1,15 @@
+id: sight-it-nuragic-monuments
+name: "Nuragic monuments of Sardinia"
+location:
+  country_code: IT
+  latitude: 40.1
+  longitude: 9.0
+scores:
+  impact: null
+  uniqueness: 9.4
+  significance: 9.4
+  experience: null
+  depth: null
+  categories:
+    history: 9.5
+    architecture: 9.3

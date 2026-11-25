@@ -1,0 +1,14 @@
+id: sight-it-via-appia
+name: "Via Appia Regina Viarum"
+location:
+  country_code: IT
+  latitude: 41.84
+  longitude: 12.53
+scores:
+  impact: 8.8
+  uniqueness: 9.2
+  significance: 9.5
+  experience: null
+  depth: null
+  categories:
+    history: 9.6

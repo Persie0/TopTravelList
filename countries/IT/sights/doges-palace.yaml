@@ -1,0 +1,16 @@
+id: sight-it-doges-palace
+name: "Doge's Palace Venice"
+location:
+  country_code: IT
+  latitude: 45.434
+  longitude: 12.34
+scores:
+  impact: 9.4
+  uniqueness: 9.4
+  significance: 9.5
+  experience: 9.2
+  depth: 9.0
+  categories:
+    architecture: 9.7
+    history: 9.6
+    culture: 9.5

@@ -1,0 +1,15 @@
+id: sight-it-venetian-defences
+name: "Venetian Works of Defence (Italian components)"
+location:
+  country_code: IT
+  latitude: 45.7
+  longitude: 9.66
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.4
+    history: 9.4
