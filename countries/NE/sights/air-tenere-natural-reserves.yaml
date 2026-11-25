@@ -1,0 +1,16 @@
+id: sight-ne-air-tenere-natural-reserves
+name: "Aïr and Ténéré Natural Reserves"
+location:
+  country_code: NE
+  latitude: 19.076
+  longitude: 9
+scores:
+  impact: 9.2
+  uniqueness: 9.6
+  significance: 9.6
+  experience: null
+  depth: null
+  categories:
+    nature: 9.7
+    wildlife: null
+    photography: 9.5
