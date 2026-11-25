@@ -1,0 +1,15 @@
+id: sight-tv-pacific-atoll-island-cultural-landscape
+name: "The Pacific atoll-island cultural landscape of Tuvalu"
+location:
+  country_code: TV
+  latitude: -8.524444
+  longitude: 179.194444
+scores:
+  impact: null
+  uniqueness: 8.9
+  significance: 9.0
+  experience: null
+  depth: null
+  categories:
+    culture: 9.0
+    history: 8.5

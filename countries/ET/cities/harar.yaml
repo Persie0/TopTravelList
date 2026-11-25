@@ -1,0 +1,17 @@
+id: city-et-harar
+name: "Harar"
+location:
+  country_code: ET
+  latitude: 9.31
+  longitude: 42.13
+scores:
+  impact: 8.8
+  uniqueness: 9.1
+  significance: 9.0
+  experience: 8.5
+  depth: 8.4
+  categories:
+    architecture: 8.8
+    history: 9.0
+    culture: 9.2
+    food: 8.4

@@ -1,0 +1,13 @@
+id: city-to-hihifo-niuatoputapu
+name: "Hihifo (Niuatoputapu)"
+location:
+  country_code: TO
+  latitude: -15.95666
+  longitude: -173.79618
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}

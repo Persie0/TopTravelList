@@ -1,0 +1,16 @@
+id: sight-tz-stone-town
+name: "Stone Town of Zanzibar"
+location:
+  country_code: TZ
+  latitude: -6.162
+  longitude: 39.19
+scores:
+  impact: 9.0
+  uniqueness: 9.3
+  significance: 9.5
+  experience: 9.0
+  depth: 9.0
+  categories:
+    history: 9.5
+    architecture: 9.4
+    culture: 9.4

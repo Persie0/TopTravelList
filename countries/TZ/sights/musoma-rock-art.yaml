@@ -1,0 +1,14 @@
+id: sight-tz-musoma-rock-art
+name: "Musoma Geometric Rock Art (Kasoma)"
+location:
+  country_code: TZ
+  latitude: -1.77543
+  longitude: 33.57049
+scores:
+  impact: null
+  uniqueness: 8.8
+  significance: 8.9
+  experience: null
+  depth: null
+  categories:
+    history: 9

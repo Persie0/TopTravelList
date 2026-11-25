@@ -1,0 +1,15 @@
+id: sight-bf-maison-du-peuple
+name: "Maison du Peuple"
+location:
+  country_code: BF
+  latitude: 12.37
+  longitude: -1.53
+scores:
+  impact: 7.6
+  uniqueness: 8.0
+  significance: 8.4
+  experience: null
+  depth: null
+  categories:
+    architecture: 8.3
+    history: 8.6

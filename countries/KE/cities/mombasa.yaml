@@ -1,0 +1,17 @@
+id: city-ke-mombasa
+name: "Mombasa"
+location:
+  country_code: KE
+  latitude: -4.055
+  longitude: 39.664
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 8.6
+  depth: 8.7
+  categories:
+    history: 9.1
+    architecture: 8.9
+    culture: 9.0
+    food: 8.7

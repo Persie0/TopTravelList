@@ -1,0 +1,16 @@
+id: city-au-canberra
+name: "Canberra"
+location:
+  country_code: AU
+  latitude: -35.28346
+  longitude: 149.12807
+scores:
+  impact: 7.7
+  uniqueness: 8.2
+  significance: 8.6
+  experience: 8.3
+  depth: 8.2
+  categories:
+    architecture: 8.3
+    history: 8.8
+    culture: 8.8

@@ -1,0 +1,15 @@
+id: sight-et-blue-nile-falls
+name: "Blue Nile Falls"
+location:
+  country_code: ET
+  latitude: 11.49
+  longitude: 37.59
+scores:
+  impact: 8.6
+  uniqueness: 8.0
+  significance: 8.0
+  experience: 8.3
+  depth: 7.7
+  categories:
+    nature: 8.8
+    photography: 8.7

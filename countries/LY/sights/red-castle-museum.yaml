@@ -1,0 +1,15 @@
+id: sight-ly-red-castle-museum
+name: "Red Castle National Museum"
+location:
+  country_code: LY
+  latitude: 32.895
+  longitude: 13.181
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 9.2
+  experience: 8.7
+  depth: 9.0
+  categories:
+    history: 9.3
+    culture: 9.2

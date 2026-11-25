@@ -1,0 +1,15 @@
+id: sight-mg-ranomafana
+name: "Ranomafana National Park"
+location:
+  country_code: MG
+  latitude: -21.09
+  longitude: 47.3
+scores:
+  impact: 9.1
+  uniqueness: 9.4
+  significance: 9.5
+  experience: 9.2
+  depth: 9.0
+  categories:
+    nature: 9.5
+    wildlife: 9.6

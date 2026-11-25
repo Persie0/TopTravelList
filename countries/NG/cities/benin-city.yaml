@@ -1,0 +1,15 @@
+id: city-ng-benin-city
+name: "Benin City"
+location:
+  country_code: NG
+  latitude: 6.338
+  longitude: 5.626
+scores:
+  impact: 7.8
+  uniqueness: 8.7
+  significance: 9.0
+  experience: 8.0
+  depth: 8.2
+  categories:
+    history: 9.2
+    culture: 9.1

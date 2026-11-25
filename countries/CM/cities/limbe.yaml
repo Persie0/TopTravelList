@@ -1,0 +1,16 @@
+id: city-cm-limbe
+name: "Limbe"
+location:
+  country_code: CM
+  latitude: 4.02356
+  longitude: 9.20607
+scores:
+  impact: 8.1
+  uniqueness: 8.2
+  significance: 7.7
+  experience: 8.0
+  depth: 7.9
+  categories:
+    nature: 8.4
+    beaches: 8.1
+    culture: 8.0

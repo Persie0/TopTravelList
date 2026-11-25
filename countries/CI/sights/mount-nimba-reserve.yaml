@@ -1,0 +1,15 @@
+id: sight-ci-mount-nimba-reserve
+name: "Mount Nimba Strict Nature Reserve (Côte d’Ivoire sector)"
+location:
+  country_code: CI
+  latitude: 7.60318
+  longitude: -8.39097
+scores:
+  impact: 9.0
+  uniqueness: 9.4
+  significance: 9.6
+  experience: null
+  depth: null
+  categories:
+    nature: 9.6
+    wildlife: null

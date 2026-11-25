@@ -1,0 +1,16 @@
+id: sight-fj-levuka-historical-port-town
+name: "Levuka Historical Port Town"
+location:
+  country_code: FJ
+  latitude: -17.68338
+  longitude: 178.83453
+scores:
+  impact: 8.3
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.2
+  depth: 8.1
+  categories:
+    history: 9.2
+    architecture: 8.8
+    culture: 8.8

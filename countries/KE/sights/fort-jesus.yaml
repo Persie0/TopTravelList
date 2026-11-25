@@ -1,0 +1,15 @@
+id: sight-ke-fort-jesus
+name: "Fort Jesus, Mombasa"
+location:
+  country_code: KE
+  latitude: -4.062778
+  longitude: 39.679444
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 9.4
+  experience: 8.8
+  depth: 8.2
+  categories:
+    history: 9.4
+    architecture: 9.2

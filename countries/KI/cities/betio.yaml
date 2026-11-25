@@ -1,0 +1,15 @@
+id: city-ki-betio
+name: "Betio"
+location:
+  country_code: KI
+  latitude: 1.35797
+  longitude: 172.92105
+scores:
+  impact: 6.6
+  uniqueness: 7.6
+  significance: 8.2
+  experience: 6.8
+  depth: 6.8
+  categories:
+    history: 8.3
+    culture: 6.9

@@ -1,0 +1,14 @@
+id: sight-ke-eastern-arc-kenya
+name: "Eastern Arc Mountains (Kenya)"
+location:
+  country_code: KE
+  latitude: -3.575
+  longitude: 38.475
+scores:
+  impact: null
+  uniqueness: 9.1
+  significance: 9.4
+  experience: null
+  depth: null
+  categories:
+    nature: 9.5

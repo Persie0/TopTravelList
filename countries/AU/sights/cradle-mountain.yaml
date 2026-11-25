@@ -1,0 +1,16 @@
+id: sight-au-cradle-mountain
+name: "Cradle Mountain"
+location:
+  country_code: AU
+  latitude: -41.68
+  longitude: 145.95
+scores:
+  impact: 9.1
+  uniqueness: 8.7
+  significance: 8.4
+  experience: 8.8
+  depth: 8.4
+  categories:
+    nature: 9.2
+    photography: 9.2
+    adventure: 8.9

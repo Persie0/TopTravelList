@@ -1,0 +1,13 @@
+id: city-ki-kabangaki
+name: "Kabangaki Village"
+location:
+  country_code: KI
+  latitude: 0.31394
+  longitude: 173.92913
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}

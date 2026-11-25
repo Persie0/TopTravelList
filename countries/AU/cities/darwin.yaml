@@ -1,0 +1,16 @@
+id: city-au-darwin
+name: "Darwin"
+location:
+  country_code: AU
+  latitude: -12.46113
+  longitude: 130.84185
+scores:
+  impact: 7.5
+  uniqueness: 8.0
+  significance: 8.0
+  experience: 8.0
+  depth: 7.7
+  categories:
+    culture: 8.3
+    history: 8.0
+    food: 8.1

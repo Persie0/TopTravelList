@@ -1,0 +1,16 @@
+id: sight-fm-yap-living-history-museum
+name: "Yap Living History Museum"
+location:
+  country_code: FM
+  latitude: 9.51626
+  longitude: 138.12169
+scores:
+  impact: 7.3
+  uniqueness: 8.4
+  significance: 7.9
+  experience: 7.8
+  depth: 7.3
+  categories:
+    culture: 8.7
+    history: 8.1
+    architecture: 7.8

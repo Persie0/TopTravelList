@@ -1,0 +1,15 @@
+id: sight-ci-basilica-our-lady-of-peace
+name: "Basilica of Our Lady of Peace"
+location:
+  country_code: CI
+  latitude: 6.8067
+  longitude: -5.2912
+scores:
+  impact: 9.3
+  uniqueness: 8.8
+  significance: 8.5
+  experience: 9.0
+  depth: 8.0
+  categories:
+    architecture: 9.4
+    photography: 9.2

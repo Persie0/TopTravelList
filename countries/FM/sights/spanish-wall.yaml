@@ -1,0 +1,14 @@
+id: sight-fm-spanish-wall
+name: "Spanish Wall"
+location:
+  country_code: FM
+  latitude: 6.96778
+  longitude: 158.21167
+scores:
+  impact: 6.3
+  uniqueness: 6.8
+  significance: 7.5
+  experience: 6.4
+  depth: 5.6
+  categories:
+    history: 7.9

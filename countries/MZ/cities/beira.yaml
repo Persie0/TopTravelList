@@ -1,0 +1,14 @@
+id: city-mz-beira
+name: "Beira"
+location:
+  country_code: MZ
+  latitude: -19.84361
+  longitude: 34.83889
+scores:
+  impact: null
+  uniqueness: 7.6
+  significance: 7.8
+  experience: null
+  depth: null
+  categories:
+    history: 8.0
