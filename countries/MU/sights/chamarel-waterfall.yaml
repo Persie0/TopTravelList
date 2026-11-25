@@ -1,0 +1,15 @@
+id: sight-mu-chamarel-waterfall
+name: "Chamarel Waterfall"
+location:
+  country_code: MU
+  latitude: -20.4400
+  longitude: 57.3800
+scores:
+  impact: 9.0
+  uniqueness: 8.4
+  significance: 7.2
+  experience: 8.3
+  depth: 6.8
+  categories:
+    nature: 9.0
+    photography: 9.3

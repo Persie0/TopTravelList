@@ -101,7 +101,7 @@ Every registered country has a linked folder below. The status is determined fro
 | [Laos](countries/LA/) (`LA`) | 42 | 144 |
 | [Liechtenstein](countries/LI/) (`LI`) | 15 | 34 |
 | [Malaysia](countries/MY/) (`MY`) | 65 | 213 |
-| [Malta](countries/MT/) (`MT`) | 23 | 37 |
+| [Mauritius](countries/MU/) (`MU`) | 22 | 63 |
 | [Montenegro](countries/ME/) (`ME`) | 33 | 94 |
 | [Nepal](countries/NP/) (`NP`) | 49 | 123 |
 | [San Marino](countries/SM/) (`SM`) | 14 | 25 |
@@ -140,8 +140,8 @@ These countries have no entries in one or both destination folders yet. Their co
 | [Kiribati](countries/KI/) (`KI`) | [Kosovo](countries/XK/) (`XK`) | [Kuwait](countries/KW/) (`KW`) | [Kyrgyzstan](countries/KG/) (`KG`) |
 | [Latvia](countries/LV/) (`LV`) | [Lebanon](countries/LB/) (`LB`) | [Lesotho](countries/LS/) (`LS`) | [Liberia](countries/LR/) (`LR`) |
 | [Libya](countries/LY/) (`LY`) | [Lithuania](countries/LT/) (`LT`) | [Luxembourg](countries/LU/) (`LU`) | [Madagascar](countries/MG/) (`MG`) |
-| [Malawi](countries/MW/) (`MW`) | [Maldives](countries/MV/) (`MV`) | [Mali](countries/ML/) (`ML`) | [Marshall Islands](countries/MH/) (`MH`) |
-| [Mauritania](countries/MR/) (`MR`) | [Mauritius](countries/MU/) (`MU`) | [Mexico](countries/MX/) (`MX`) | [Micronesia, Federated States of](countries/FM/) (`FM`) |
+| [Malawi](countries/MW/) (`MW`) | [Maldives](countries/MV/) (`MV`) | [Mali](countries/ML/) (`ML`) | [Malta](countries/MT/) (`MT`) |
+| [Marshall Islands](countries/MH/) (`MH`) | [Mauritania](countries/MR/) (`MR`) | [Mexico](countries/MX/) (`MX`) | [Micronesia, Federated States of](countries/FM/) (`FM`) |
 | [Moldova](countries/MD/) (`MD`) | [Monaco](countries/MC/) (`MC`) | [Mongolia](countries/MN/) (`MN`) | [Morocco](countries/MA/) (`MA`) |
 | [Mozambique](countries/MZ/) (`MZ`) | [Myanmar](countries/MM/) (`MM`) | [Namibia](countries/NA/) (`NA`) | [Nauru](countries/NR/) (`NR`) |
 | [Netherlands](countries/NL/) (`NL`) | [New Zealand](countries/NZ/) (`NZ`) | [Nicaragua](countries/NI/) (`NI`) | [Niger](countries/NE/) (`NE`) |

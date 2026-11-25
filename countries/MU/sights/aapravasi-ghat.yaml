@@ -1,0 +1,16 @@
+id: sight-mu-aapravasi-ghat
+name: "Aapravasi Ghat"
+location:
+  country_code: MU
+  latitude: -20.158639
+  longitude: 57.503167
+scores:
+  impact: 7.7
+  uniqueness: 9.2
+  significance: 9.6
+  experience: 8.2
+  depth: 7.0
+  categories:
+    history: 9.6
+    culture: 9.4
+    architecture: 7.7

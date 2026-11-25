@@ -1,0 +1,16 @@
+id: sight-mu-tamarind-falls-seven-cascades
+name: "Tamarind Falls (Seven Cascades)"
+location:
+  country_code: MU
+  latitude: -20.3490
+  longitude: 57.4670
+scores:
+  impact: 8.9
+  uniqueness: 8.6
+  significance: 7.3
+  experience: 9.0
+  depth: 8.3
+  categories:
+    nature: 9.0
+    adventure: 9.2
+    photography: 9.0
