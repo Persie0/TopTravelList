@@ -1,0 +1,15 @@
+id: sight-kp-west-sea-wetlands
+name: "Coastal Wetlands in the West Sea of Korea (DPRK)"
+location:
+  country_code: KP
+  latitude: 39.5
+  longitude: 125.3
+scores:
+  impact: null
+  uniqueness: 8.7
+  significance: 9.1
+  experience: null
+  depth: null
+  categories:
+    nature: 9.0
+    wildlife: 9.2

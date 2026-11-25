@@ -1,0 +1,15 @@
+id: sight-kp-juche-tower
+name: "Juche Tower"
+location:
+  country_code: KP
+  latitude: 39.0177
+  longitude: 125.763
+scores:
+  impact: 8.1
+  uniqueness: 8.2
+  significance: 7.9
+  experience: null
+  depth: null
+  categories:
+    architecture: 8.5
+    history: 8.0
