@@ -1,0 +1,15 @@
+id: sight-es-talayotic-menorca
+name: "Talayotic Menorca"
+location:
+  country_code: ES
+  latitude: 39.94
+  longitude: 4.12
+scores:
+  impact: 8.8
+  uniqueness: 9.2
+  significance: 9.3
+  experience: 8.7
+  depth: 8.9
+  categories:
+    history: 9.4
+    culture: 9.2

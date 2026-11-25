@@ -1,0 +1,16 @@
+id: city-fr-dijon
+name: "Dijon"
+location:
+  country_code: FR
+  latitude: 47.322
+  longitude: 5.0415
+scores:
+  impact: 8.7
+  uniqueness: 8.7
+  significance: 8.8
+  experience: 8.8
+  depth: 8.5
+  categories:
+    architecture: 9.2
+    history: 9.1
+    food: 9.2

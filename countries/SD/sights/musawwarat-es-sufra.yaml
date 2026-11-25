@@ -1,0 +1,15 @@
+id: sight-sd-musawwarat-es-sufra
+name: "Musawwarat es-Sufra"
+location:
+  country_code: SD
+  latitude: 16.416667
+  longitude: 33.333333
+scores:
+  impact: 9.0
+  uniqueness: 9.4
+  significance: 9.4
+  experience: 8.5
+  depth: 8.7
+  categories:
+    architecture: 9.4
+    history: 9.5

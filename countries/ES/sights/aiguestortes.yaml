@@ -1,0 +1,16 @@
+id: sight-es-aiguestortes
+name: "Aigüestortes i Estany de Sant Maurici National Park"
+location:
+  country_code: ES
+  latitude: 42.57
+  longitude: 0.96
+scores:
+  impact: 9.3
+  uniqueness: 9.1
+  significance: 9.0
+  experience: 9.2
+  depth: 9.3
+  categories:
+    nature: 9.5
+    photography: 9.5
+    adventure: 9.3

@@ -1,0 +1,15 @@
+id: sight-de-lubeck-core
+name: "Hanseatic City of Lübeck"
+location:
+  country_code: DE
+  latitude: 53.867
+  longitude: 10.686
+scores:
+  impact: 9.1
+  uniqueness: 9.1
+  significance: 9.3
+  experience: 9.0
+  depth: 9.0
+  categories:
+    architecture: 9.5
+    history: 9.4

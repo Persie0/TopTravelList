@@ -1,0 +1,16 @@
+id: sight-it-stelvio
+name: "Stelvio National Park"
+location:
+  country_code: IT
+  latitude: 46.48
+  longitude: 10.53
+scores:
+  impact: 9.4
+  uniqueness: 9.2
+  significance: 9.1
+  experience: 9.2
+  depth: 9.4
+  categories:
+    nature: 9.6
+    photography: 9.5
+    adventure: 9.4

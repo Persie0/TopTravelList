@@ -1,0 +1,15 @@
+id: sight-it-volterra
+name: "Volterra historical city and cultural landscape"
+location:
+  country_code: IT
+  latitude: 43.4
+  longitude: 10.86
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 9.1
+  experience: 8.8
+  depth: 8.8
+  categories:
+    history: 9.3
+    architecture: 9.3

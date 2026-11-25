@@ -1,0 +1,15 @@
+id: sight-es-seville-ensemble
+name: "Cathedral Alcázar and Archivo de Indias in Seville"
+location:
+  country_code: ES
+  latitude: 37.384
+  longitude: -5.993
+scores:
+  impact: 9.4
+  uniqueness: 9.3
+  significance: 9.5
+  experience: 9.2
+  depth: 9.2
+  categories:
+    architecture: 9.7
+    history: 9.6

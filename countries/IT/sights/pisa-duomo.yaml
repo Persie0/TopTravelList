@@ -1,0 +1,16 @@
+id: sight-it-pisa-duomo
+name: "Piazza del Duomo Pisa"
+location:
+  country_code: IT
+  latitude: 43.723
+  longitude: 10.396
+scores:
+  impact: 9.4
+  uniqueness: 9.4
+  significance: 9.4
+  experience: 9.1
+  depth: 8.8
+  categories:
+    architecture: 9.7
+    history: 9.4
+    photography: 9.6

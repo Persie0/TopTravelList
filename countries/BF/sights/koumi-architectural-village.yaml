@@ -1,0 +1,15 @@
+id: sight-bf-koumi-architectural-village
+name: "Koumi Architectural Village"
+location:
+  country_code: BF
+  latitude: 11.25
+  longitude: -4.43
+scores:
+  impact: 8.2
+  uniqueness: 8.7
+  significance: 8.6
+  experience: null
+  depth: null
+  categories:
+    architecture: 8.9
+    culture: 8.9

@@ -1,0 +1,15 @@
+id: sight-cf-boali-falls
+name: "Boali Falls"
+location:
+  country_code: CF
+  latitude: 4.86667
+  longitude: 18.05
+scores:
+  impact: 8.7
+  uniqueness: 8.2
+  significance: 7.0
+  experience: 7.9
+  depth: 6.9
+  categories:
+    nature: 9.0
+    photography: 9.1

@@ -1,0 +1,15 @@
+id: sight-fr-cordouan
+name: "Cordouan Lighthouse"
+location:
+  country_code: FR
+  latitude: 45.586
+  longitude: -1.174
+scores:
+  impact: 8.8
+  uniqueness: 9.1
+  significance: 9.2
+  experience: 8.6
+  depth: 7.9
+  categories:
+    architecture: 9.3
+    history: 9.2

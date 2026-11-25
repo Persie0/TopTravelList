@@ -1,0 +1,16 @@
+id: city-lr-robertsport
+name: "Robertsport"
+location:
+  country_code: LR
+  latitude: 6.753293
+  longitude: -11.367097
+scores:
+  impact: 7.6
+  uniqueness: 8.0
+  significance: 7.2
+  experience: 8.1
+  depth: 6.5
+  categories:
+    culture: 8.0
+    relaxation: 8.4
+    food: 8.0

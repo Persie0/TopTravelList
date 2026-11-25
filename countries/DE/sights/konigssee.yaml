@@ -1,0 +1,15 @@
+id: sight-de-konigssee
+name: "Königssee lake"
+location:
+  country_code: DE
+  latitude: 47.55
+  longitude: 12.98
+scores:
+  impact: 9.4
+  uniqueness: 9.1
+  significance: 8.6
+  experience: 9.2
+  depth: 8.8
+  categories:
+    nature: 9.5
+    photography: 9.6

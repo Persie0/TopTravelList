@@ -1,0 +1,15 @@
+id: sight-cg-dimonika-biosphere-reserve
+name: "Dimonika Biosphere Reserve"
+location:
+  country_code: CG
+  latitude: -4.23
+  longitude: 12.40
+scores:
+  impact: null
+  uniqueness: 8.3
+  significance: 8.7
+  experience: null
+  depth: null
+  categories:
+    nature: 9.1
+    wildlife: 8.9

@@ -1,0 +1,16 @@
+id: sight-sd-jebel-barkal
+name: "Jebel Barkal Archaeological Site"
+location:
+  country_code: SD
+  latitude: 18.537
+  longitude: 31.828028
+scores:
+  impact: 9.4
+  uniqueness: 9.5
+  significance: 9.6
+  experience: 8.8
+  depth: 8.8
+  categories:
+    history: 9.7
+    architecture: 9.4
+    photography: 9.4

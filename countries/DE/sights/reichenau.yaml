@@ -1,0 +1,15 @@
+id: sight-de-reichenau
+name: "Monastic Island of Reichenau"
+location:
+  country_code: DE
+  latitude: 47.693
+  longitude: 9.061
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 9.2
+  experience: 8.6
+  depth: 8.5
+  categories:
+    history: 9.3
+    architecture: 9.1

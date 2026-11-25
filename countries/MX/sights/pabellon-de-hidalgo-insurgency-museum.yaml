@@ -1,0 +1,16 @@
+id: sight-mx-pabellon-de-hidalgo-insurgency-museum
+name: "Former Hacienda of Pabellón de Hidalgo (Museum of the Insurgency)"
+location:
+  country_code: MX
+  latitude: 22.174719
+  longitude: -102.341389
+scores:
+  impact: 8.0
+  uniqueness: 8.5
+  significance: 9.0
+  experience: 8.4
+  depth: 8.0
+  categories:
+    history: 9.3
+    architecture: 8.8
+    culture: 9.0

@@ -1,0 +1,15 @@
+id: city-es-ronda
+name: "Ronda"
+location:
+  country_code: ES
+  latitude: 36.7462
+  longitude: -5.1612
+scores:
+  impact: 9.2
+  uniqueness: 9.0
+  significance: 8.6
+  experience: 8.8
+  depth: 8.0
+  categories:
+    photography: 9.5
+    architecture: 9.2

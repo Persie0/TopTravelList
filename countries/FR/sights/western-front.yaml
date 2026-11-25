@@ -1,0 +1,14 @@
+id: sight-fr-western-front
+name: "First World War funerary and memory sites (French components)"
+location:
+  country_code: FR
+  latitude: 49.2
+  longitude: 5.42
+scores:
+  impact: 8.7
+  uniqueness: 9.0
+  significance: 9.5
+  experience: null
+  depth: null
+  categories:
+    history: 9.6

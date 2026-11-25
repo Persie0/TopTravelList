@@ -1,0 +1,15 @@
+id: sight-de-wartburg
+name: "Wartburg Castle"
+location:
+  country_code: DE
+  latitude: 50.966
+  longitude: 10.306
+scores:
+  impact: 9.0
+  uniqueness: 9.1
+  significance: 9.4
+  experience: 8.9
+  depth: 8.6
+  categories:
+    architecture: 9.3
+    history: 9.5

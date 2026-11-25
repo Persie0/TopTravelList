@@ -1,0 +1,15 @@
+id: sight-sl-st-george-s-cathedral-freetown
+name: "St George's Cathedral (Freetown)"
+location:
+  country_code: SL
+  latitude: 8.488
+  longitude: -13.236
+scores:
+  impact: 7.0
+  uniqueness: 7.5
+  significance: 8.2
+  experience: 7.4
+  depth: 6.4
+  categories:
+    architecture: 8.2
+    history: 8.5

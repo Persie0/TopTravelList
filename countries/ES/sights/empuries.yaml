@@ -1,0 +1,15 @@
+id: sight-es-empuries
+name: "Greek archaeological ensemble at Empúries"
+location:
+  country_code: ES
+  latitude: 42.134
+  longitude: 3.12
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 9.2
+  experience: 8.8
+  depth: 8.7
+  categories:
+    history: 9.4
+    architecture: 9.1

@@ -1,0 +1,16 @@
+id: sight-it-maggiore-orta
+name: "Lake Maggiore and Lake Orta lakelands"
+location:
+  country_code: IT
+  latitude: 45.85
+  longitude: 8.53
+scores:
+  impact: 9.2
+  uniqueness: 9.0
+  significance: 8.7
+  experience: 9.2
+  depth: 9.2
+  categories:
+    nature: 9.4
+    photography: 9.5
+    relaxation: 9.3

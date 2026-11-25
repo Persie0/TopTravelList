@@ -1,0 +1,16 @@
+id: city-de-nuremberg
+name: "Nuremberg"
+location:
+  country_code: DE
+  latitude: 49.453
+  longitude: 11.077
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 9.1
+  experience: 8.9
+  depth: 9.0
+  categories:
+    architecture: 9.2
+    history: 9.4
+    culture: 9.0

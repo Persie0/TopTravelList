@@ -1,0 +1,15 @@
+id: sight-fr-beech-forests
+name: "Ancient Beech Forests (French components)"
+location:
+  country_code: FR
+  latitude: 44.1
+  longitude: 4.05
+scores:
+  impact: 8.5
+  uniqueness: 8.9
+  significance: 9.3
+  experience: null
+  depth: null
+  categories:
+    nature: 9.3
+    wildlife: 9.0

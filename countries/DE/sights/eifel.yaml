@@ -1,0 +1,15 @@
+id: sight-de-eifel
+name: "Eifel National Park"
+location:
+  country_code: DE
+  latitude: 50.58
+  longitude: 6.43
+scores:
+  impact: 8.5
+  uniqueness: 8.6
+  significance: 8.5
+  experience: 8.7
+  depth: 8.8
+  categories:
+    nature: 9.1
+    adventure: 8.9

@@ -1,0 +1,15 @@
+id: city-de-gorlitz
+name: "Görlitz"
+location:
+  country_code: DE
+  latitude: 51.153
+  longitude: 14.988
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 8.6
+  experience: 8.7
+  depth: 8.4
+  categories:
+    architecture: 9.4
+    photography: 9.2

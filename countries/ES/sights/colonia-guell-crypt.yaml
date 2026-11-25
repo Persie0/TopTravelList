@@ -1,0 +1,15 @@
+id: sight-es-colonia-guell-crypt
+name: "Crypt of Colònia Güell"
+location:
+  country_code: ES
+  latitude: 41.363
+  longitude: 2.028
+scores:
+  impact: 8.8
+  uniqueness: 9.3
+  significance: 9.2
+  experience: 8.6
+  depth: 7.9
+  categories:
+    architecture: 9.5
+    history: 9.2

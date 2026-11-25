@@ -1,0 +1,15 @@
+id: sight-de-lower-saxony-wadden
+name: "Lower Saxony Wadden Sea National Park"
+location:
+  country_code: DE
+  latitude: 53.7
+  longitude: 7.5
+scores:
+  impact: 8.7
+  uniqueness: 9.2
+  significance: 9.3
+  experience: 8.8
+  depth: 9.1
+  categories:
+    nature: 9.4
+    wildlife: 9.5

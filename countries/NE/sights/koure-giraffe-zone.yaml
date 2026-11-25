@@ -1,0 +1,16 @@
+id: sight-ne-koure-giraffe-zone
+name: "Kouré Giraffe Zone"
+location:
+  country_code: NE
+  latitude: 13.33
+  longitude: 2.65
+scores:
+  impact: 8.7
+  uniqueness: 9.2
+  significance: 9.3
+  experience: 8.4
+  depth: 7.4
+  categories:
+    wildlife: 9.4
+    nature: 8.7
+    photography: 9.0

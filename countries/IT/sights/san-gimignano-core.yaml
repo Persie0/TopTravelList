@@ -1,0 +1,15 @@
+id: sight-it-san-gimignano-core
+name: "Historic Centre of San Gimignano"
+location:
+  country_code: IT
+  latitude: 43.467
+  longitude: 11.043
+scores:
+  impact: 9.3
+  uniqueness: 9.3
+  significance: 9.1
+  experience: 8.9
+  depth: 8.5
+  categories:
+    architecture: 9.6
+    photography: 9.5

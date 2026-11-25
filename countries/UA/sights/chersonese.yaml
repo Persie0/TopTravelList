@@ -1,0 +1,15 @@
+id: sight-ua-chersonese
+name: "Ancient City of Tauric Chersonese and its Chora"
+location:
+  country_code: UA
+  latitude: 44.612
+  longitude: 33.492
+scores:
+  impact: 8.7
+  uniqueness: 9.2
+  significance: 9.5
+  experience: null
+  depth: null
+  categories:
+    history: 9.6
+    architecture: 9.2

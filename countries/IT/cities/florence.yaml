@@ -1,0 +1,16 @@
+id: city-it-florence
+name: "Florence"
+location:
+  country_code: IT
+  latitude: 43.7696
+  longitude: 11.2558
+scores:
+  impact: 9.6
+  uniqueness: 9.5
+  significance: 9.7
+  experience: 9.4
+  depth: 9.5
+  categories:
+    architecture: 9.7
+    culture: 9.8
+    history: 9.7

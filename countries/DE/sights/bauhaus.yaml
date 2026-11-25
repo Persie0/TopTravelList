@@ -1,0 +1,15 @@
+id: sight-de-bauhaus
+name: "Bauhaus sites in Weimar Dessau and Bernau"
+location:
+  country_code: DE
+  latitude: 51.84
+  longitude: 12.23
+scores:
+  impact: 8.7
+  uniqueness: 9.3
+  significance: 9.5
+  experience: 8.7
+  depth: 9.0
+  categories:
+    architecture: 9.5
+    culture: 9.4

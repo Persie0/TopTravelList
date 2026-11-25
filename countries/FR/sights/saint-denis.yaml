@@ -1,0 +1,15 @@
+id: sight-fr-saint-denis
+name: "Basilica Cathedral of Saint-Denis"
+location:
+  country_code: FR
+  latitude: 48.935
+  longitude: 2.359
+scores:
+  impact: 9.0
+  uniqueness: 9.1
+  significance: 9.4
+  experience: 8.8
+  depth: 8.5
+  categories:
+    architecture: 9.5
+    history: 9.5

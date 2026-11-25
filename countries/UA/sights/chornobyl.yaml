@@ -1,0 +1,14 @@
+id: sight-ua-chornobyl
+name: "Chornobyl Exclusion Zone heritage landscape"
+location:
+  country_code: UA
+  latitude: 51.28
+  longitude: 30.22
+scores:
+  impact: null
+  uniqueness: 9.4
+  significance: 9.5
+  experience: null
+  depth: null
+  categories:
+    history: 9.5

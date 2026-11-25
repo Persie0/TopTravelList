@@ -2,7 +2,7 @@
 
 # France (FR) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**25 ranked** · **0 unassessed** · **25 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,35 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (25)
 
-No cities, towns & villages have been assessed for **France** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Paris](cities/paris.yaml) | City / town | **97.30** | **Architecture 9.8**, **Culture 9.8**, **History 9.8**, Food 9.4 | 9.8 / 9.7 / 9.8 / 9.5 / 9.8 | [48.8566, 2.3522](https://www.google.com/maps/search/?api=1&query=48.8566,2.3522) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Paris%2C%20France) |
+| 2 | [Lyon](cities/lyon.yaml) | City / town | **90.85** | **Food 9.5**, **Architecture 9.3**, **History 9.2** | 9.0 / 9.1 / 9.1 / 9.2 / 9.1 | [45.764, 4.8357](https://www.google.com/maps/search/?api=1&query=45.764,4.8357) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lyon%2C%20France) |
+| 3 | [Strasbourg](cities/strasbourg.yaml) | City / town | **90.60** | **Architecture 9.5**, **Photography 9.4**, **History 9.3** | 9.1 / 9.1 / 9.0 / 9.1 / 8.9 | [48.5734, 7.7521](https://www.google.com/maps/search/?api=1&query=48.5734,7.7521) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Strasbourg%2C%20France) |
+| 4 | [Bordeaux](cities/bordeaux.yaml) | City / town | **89.80** | **Architecture 9.4**, **Food 9.2**, **History 9.2** | 9.0 / 8.9 / 9.0 / 9.1 / 8.9 | [44.8378, -0.5792](https://www.google.com/maps/search/?api=1&query=44.8378,-0.5792) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bordeaux%2C%20France) |
+| 5 | [Marseille](cities/marseille.yaml) | City / town | **89.60** | **Culture 9.2**, **History 9.1**, **Food 9.0** | 8.8 / 9.0 / 9.0 / 9.0 / 9.2 | [43.2965, 5.3698](https://www.google.com/maps/search/?api=1&query=43.2965,5.3698) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Marseille%2C%20France) |
+| 6 | [Avignon](cities/avignon.yaml) | City / town | **89.00** | **History 9.4**, **Architecture 9.3**, **Culture 9.0** | 8.9 / 8.9 / 9.1 / 8.9 / 8.5 | [43.949, 4.8055](https://www.google.com/maps/search/?api=1&query=43.949,4.8055) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Avignon%2C%20France) |
+| 7 | [Rouen](cities/rouen.yaml) | City / town | **88.75** | **Architecture 9.4**, **History 9.3** | 8.9 / 8.9 / 9.0 / 8.8 / 8.6 | [49.4432, 1.0993](https://www.google.com/maps/search/?api=1&query=49.4432,1.0993) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Rouen%2C%20France) |
+| 8 | [Arles](cities/arles.yaml) | City / town | **88.55** | **History 9.4**, **Architecture 9.2**, **Culture 9.2** | 8.8 / 8.9 / 9.1 / 8.8 / 8.5 | [43.6766, 4.6278](https://www.google.com/maps/search/?api=1&query=43.6766,4.6278) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Arles%2C%20France) |
+| 8 | [Nice](cities/nice.yaml) | City / town | **88.55** | **Relaxation 9.3**, **Architecture 9.1**, **Beaches 9.0** | 8.9 / 8.7 / 8.7 / 9.2 / 8.9 | [43.7102, 7.262](https://www.google.com/maps/search/?api=1&query=43.7102,7.262) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nice%2C%20France) |
+| 10 | [Annecy](cities/annecy.yaml) | City / town | **88.20** | **Photography 9.4**, **Relaxation 9.3**, **Architecture 9.1** | 9.0 / 8.9 / 8.4 / 9.1 / 8.5 | [45.899, 6.129](https://www.google.com/maps/search/?api=1&query=45.899,6.129) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Annecy%2C%20France) |
+| 10 | [Saint-Malo](cities/saint-malo.yaml) | City / town | **88.20** | **Photography 9.4**, **Architecture 9.2**, **History 9.1** | 9.0 / 8.9 / 8.7 / 8.9 / 8.2 | [48.6493, -2.0257](https://www.google.com/maps/search/?api=1&query=48.6493,-2.0257) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Saint-Malo%2C%20France) |
+| 12 | [Carcassonne](cities/carcassonne.yaml) | City / town | **87.80** | **Architecture 9.4**, **History 9.3** | 8.9 / 8.9 / 8.8 / 8.7 / 8.2 | [43.213, 2.352](https://www.google.com/maps/search/?api=1&query=43.213,2.352) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Carcassonne%2C%20France) |
+| 13 | [Colmar](cities/colmar.yaml) | City / town | **87.70** | **Architecture 9.4**, **Photography 9.4**, **Culture 8.9** | 8.9 / 8.9 / 8.6 / 8.9 / 8.2 | [48.08, 7.36](https://www.google.com/maps/search/?api=1&query=48.08,7.36) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Colmar%2C%20France) |
+| 14 | [Toulouse](cities/toulouse.yaml) | City / town | **87.60** | **Architecture 9.1**, **Culture 9.0**, **History 9.0** | 8.7 / 8.7 / 8.8 / 8.9 / 8.8 | [43.6045, 1.444](https://www.google.com/maps/search/?api=1&query=43.6045,1.444) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Toulouse%2C%20France) |
+| 15 | [Nancy](cities/nancy.yaml) | City / town | **87.55** | **Architecture 9.4**, **Culture 9.1**, **History 9.0** | 8.8 / 8.7 / 8.8 / 8.8 / 8.6 | [48.6921, 6.1844](https://www.google.com/maps/search/?api=1&query=48.6921,6.1844) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nancy%2C%20France) |
+| 16 | [Albi](cities/albi.yaml) | City / town | **87.45** | **Architecture 9.3**, **History 9.2**, **Culture 9.0** | 8.8 / 8.8 / 8.9 / 8.7 / 8.2 | [43.9298, 2.148](https://www.google.com/maps/search/?api=1&query=43.9298,2.148) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Albi%2C%20France) |
+| 16 | [Bonifacio](cities/bonifacio.yaml) | City / town | **87.45** | **Photography 9.5**, **Architecture 9.1**, **History 8.9** | 9.0 / 9.0 / 8.5 / 8.7 / 7.9 | [41.387, 9.16](https://www.google.com/maps/search/?api=1&query=41.387,9.16) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bonifacio%2C%20France) |
+| 18 | [Reims](cities/reims.yaml) | City / town | **87.30** | **History 9.4**, **Architecture 9.2**, **Culture 8.9** | 8.6 / 8.7 / 9.1 / 8.7 / 8.5 | [49.258, 4.0317](https://www.google.com/maps/search/?api=1&query=49.258,4.0317) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Reims%2C%20France) |
+| 19 | [Dijon](cities/dijon.yaml) | City / town | **87.15** | **Architecture 9.2**, **Food 9.2**, **History 9.1** | 8.7 / 8.7 / 8.8 / 8.8 / 8.5 | [47.322, 5.0415](https://www.google.com/maps/search/?api=1&query=47.322,5.0415) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Dijon%2C%20France) |
+| 20 | [Lille](cities/lille.yaml) | City / town | **87.00** | **Architecture 9.2**, **Culture 9.0**, **History 8.9** | 8.6 / 8.7 / 8.7 / 8.9 / 8.7 | [50.6292, 3.0573](https://www.google.com/maps/search/?api=1&query=50.6292,3.0573) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lille%2C%20France) |
+| 21 | [Nantes](cities/nantes.yaml) | City / town | **86.75** | **Culture 9.1**, **History 9.0**, **Architecture 8.9** | 8.5 / 8.6 / 8.8 / 8.9 / 8.8 | [47.2184, -1.5536](https://www.google.com/maps/search/?api=1&query=47.2184,-1.5536) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nantes%2C%20France) |
+| 22 | [Chamonix-Mont-Blanc](cities/chamonix.yaml) | City / town | **86.70** | **Photography 9.2**, **Relaxation 9.0**, **History 8.8** | 8.8 / 8.6 / 8.5 / 9.0 / 8.3 | [45.9237, 6.8694](https://www.google.com/maps/search/?api=1&query=45.9237,6.8694) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Chamonix-Mont-Blanc%2C%20France) |
+| 23 | [Aix-en-Provence](cities/aix-en-provence.yaml) | City / town | **86.65** | **Architecture 9.1**, **Culture 9.1**, **Food 9.0** | 8.7 / 8.6 / 8.6 / 8.9 / 8.5 | [43.5297, 5.4474](https://www.google.com/maps/search/?api=1&query=43.5297,5.4474) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Aix-en-Provence%2C%20France) |
+| 24 | [Sarlat-la-Canéda](cities/sarlat.yaml) | City / town | **86.50** | **Architecture 9.3**, **Photography 9.3**, **Food 9.0** | 8.8 / 8.8 / 8.5 / 8.8 / 7.9 | [44.89, 1.216](https://www.google.com/maps/search/?api=1&query=44.89,1.216) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sarlat-la-Can%C3%A9da%2C%20France) |
+| 25 | [Amiens](cities/amiens.yaml) | City / town | **85.55** | **Architecture 9.1**, **History 9.1** | 8.5 / 8.5 / 8.8 / 8.6 / 8.3 | [49.894, 2.295](https://www.google.com/maps/search/?api=1&query=49.894,2.295) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Amiens%2C%20France) |
 
 ---
 

@@ -1,0 +1,15 @@
+id: sight-es-tower-hercules
+name: "Tower of Hercules"
+location:
+  country_code: ES
+  latitude: 43.385
+  longitude: -8.406
+scores:
+  impact: 8.8
+  uniqueness: 9.1
+  significance: 9.3
+  experience: 8.7
+  depth: 7.9
+  categories:
+    history: 9.4
+    architecture: 9.2

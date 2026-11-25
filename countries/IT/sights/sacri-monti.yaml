@@ -1,0 +1,15 @@
+id: sight-it-sacri-monti
+name: "Sacri Monti of Piedmont and Lombardy"
+location:
+  country_code: IT
+  latitude: 45.82
+  longitude: 8.4
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.3
+    culture: 9.3

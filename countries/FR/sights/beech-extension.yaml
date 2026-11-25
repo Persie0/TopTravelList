@@ -1,0 +1,14 @@
+id: sight-fr-beech-extension
+name: "Ancient Beech Forests (French tentative extension)"
+location:
+  country_code: FR
+  latitude: 44.1
+  longitude: 4.05
+scores:
+  impact: null
+  uniqueness: 8.9
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    nature: 9.3

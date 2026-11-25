@@ -1,0 +1,15 @@
+id: sight-gr-phaistos
+name: "Phaistos Palace archaeological site"
+location:
+  country_code: GR
+  latitude: 35.051111
+  longitude: 24.814167
+scores:
+  impact: 8.7
+  uniqueness: 9.0
+  significance: 9.3
+  experience: 8.7
+  depth: 8.5
+  categories:
+    history: 9.4
+    architecture: 9.1

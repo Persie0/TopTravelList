@@ -1,0 +1,16 @@
+id: sight-gw-bubaque-bruce-beach
+name: "Bubaque Bruce Beach"
+location:
+  country_code: GW
+  latitude: 11.19
+  longitude: -15.92
+scores:
+  impact: 8.4
+  uniqueness: 8.2
+  significance: 6.3
+  experience: 8.4
+  depth: 7.2
+  categories:
+    beaches: 8.9
+    relaxation: 8.7
+    photography: 8.6

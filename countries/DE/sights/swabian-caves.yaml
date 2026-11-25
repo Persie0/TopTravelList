@@ -1,0 +1,15 @@
+id: sight-de-swabian-caves
+name: "Caves and Ice Age Art in the Swabian Jura"
+location:
+  country_code: DE
+  latitude: 48.4
+  longitude: 9.76
+scores:
+  impact: 8.5
+  uniqueness: 9.3
+  significance: 9.5
+  experience: null
+  depth: null
+  categories:
+    history: 9.5
+    culture: 9.3

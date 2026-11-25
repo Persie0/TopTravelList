@@ -1,0 +1,16 @@
+id: sight-es-cabrera
+name: "Cabrera Archipelago National Park"
+location:
+  country_code: ES
+  latitude: 39.15
+  longitude: 2.95
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 9.0
+  experience: 8.7
+  depth: 8.8
+  categories:
+    nature: 9.4
+    wildlife: 9.3
+    beaches: 9.1

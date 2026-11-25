@@ -1,0 +1,15 @@
+id: sight-ua-kyiv-heritage-extension
+name: "Kyiv heritage proposed extension (St Cyril and St Andrew churches)"
+location:
+  country_code: UA
+  latitude: 50.481
+  longitude: 30.472
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 9.4
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.5
+    history: 9.5

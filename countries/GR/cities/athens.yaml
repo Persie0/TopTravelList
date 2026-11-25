@@ -1,0 +1,17 @@
+id: city-gr-athens
+name: "Athens"
+location:
+  country_code: GR
+  latitude: 37.9838
+  longitude: 23.7275
+scores:
+  impact: 9.4
+  uniqueness: 9.5
+  significance: 9.8
+  experience: 9.1
+  depth: 9.5
+  categories:
+    history: 9.8
+    architecture: 9.5
+    culture: 9.5
+    food: 9.2

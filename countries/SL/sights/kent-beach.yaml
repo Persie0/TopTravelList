@@ -1,0 +1,15 @@
+id: sight-sl-kent-beach
+name: "Kent Beach"
+location:
+  country_code: SL
+  latitude: 8.14
+  longitude: -13.16
+scores:
+  impact: 8.2
+  uniqueness: 7.7
+  significance: 6.2
+  experience: 8.5
+  depth: 6.9
+  categories:
+    beaches: 8.8
+    relaxation: 8.7

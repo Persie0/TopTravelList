@@ -1,0 +1,15 @@
+id: sight-it-seceda
+name: "Seceda ridgeline"
+location:
+  country_code: IT
+  latitude: 46.6
+  longitude: 11.73
+scores:
+  impact: 9.5
+  uniqueness: 9.2
+  significance: 8.7
+  experience: 9.1
+  depth: 8.4
+  categories:
+    nature: 9.6
+    photography: 9.7

@@ -1,0 +1,15 @@
+id: sight-es-lugo-walls
+name: "Roman Walls of Lugo"
+location:
+  country_code: ES
+  latitude: 43.012
+  longitude: -7.557
+scores:
+  impact: 8.9
+  uniqueness: 9.1
+  significance: 9.3
+  experience: 8.9
+  depth: 8.4
+  categories:
+    architecture: 9.4
+    history: 9.5

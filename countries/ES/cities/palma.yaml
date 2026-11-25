@@ -1,0 +1,16 @@
+id: city-es-palma
+name: "Palma de Mallorca"
+location:
+  country_code: ES
+  latitude: 39.5696
+  longitude: 2.6502
+scores:
+  impact: 9.0
+  uniqueness: 8.8
+  significance: 8.8
+  experience: 9.0
+  depth: 8.8
+  categories:
+    architecture: 9.4
+    history: 9.1
+    relaxation: 9.1

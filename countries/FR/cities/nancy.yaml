@@ -1,0 +1,16 @@
+id: city-fr-nancy
+name: "Nancy"
+location:
+  country_code: FR
+  latitude: 48.6921
+  longitude: 6.1844
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 8.8
+  experience: 8.8
+  depth: 8.6
+  categories:
+    architecture: 9.4
+    culture: 9.1
+    history: 9.0

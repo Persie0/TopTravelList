@@ -1,0 +1,15 @@
+id: city-it-lucca
+name: "Lucca"
+location:
+  country_code: IT
+  latitude: 43.8429
+  longitude: 10.5027
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 9.0
+  depth: 8.5
+  categories:
+    architecture: 9.3
+    history: 9.1

@@ -1,0 +1,15 @@
+id: sight-it-siena-core
+name: "Historic Centre of Siena"
+location:
+  country_code: IT
+  latitude: 43.318
+  longitude: 11.33
+scores:
+  impact: 9.4
+  uniqueness: 9.3
+  significance: 9.3
+  experience: 9.1
+  depth: 9.0
+  categories:
+    architecture: 9.6
+    history: 9.5
