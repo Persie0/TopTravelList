@@ -1,0 +1,16 @@
+id: sight-ar-nahuel-huapi-national-park
+name: "Nahuel Huapi National Park"
+location:
+  country_code: AR
+  latitude: -41.0500
+  longitude: -71.5000
+scores:
+  impact: 9.2
+  uniqueness: 8.8
+  significance: 8.7
+  experience: 9.1
+  depth: 9.2
+  categories:
+    nature: 9.5
+    photography: 9.5
+    adventure: 9.4

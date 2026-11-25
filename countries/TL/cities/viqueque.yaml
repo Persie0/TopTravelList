@@ -1,0 +1,15 @@
+id: city-tl-viqueque
+name: "Viqueque"
+location:
+  country_code: TL
+  latitude: -8.857
+  longitude: 126.365
+scores:
+  impact: 6.6
+  uniqueness: 7.0
+  significance: 7.3
+  experience: 7.2
+  depth: 6.5
+  categories:
+    history: 7.8
+    culture: 7.6

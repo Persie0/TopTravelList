@@ -1,0 +1,15 @@
+id: city-gy-santa-rosa-moruca
+name: "Santa Rosa (Moruca)"
+location:
+  country_code: GY
+  latitude: 7.6500
+  longitude: -59.1333
+scores:
+  impact: 6.5
+  uniqueness: 7.5
+  significance: 7.2
+  experience: 7.1
+  depth: 6.0
+  categories:
+    culture: 8.0
+    history: 7.5

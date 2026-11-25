@@ -1,0 +1,16 @@
+id: sight-bo-casa-nacional-de-la-moneda
+name: "Casa Nacional de la Moneda"
+location:
+  country_code: BO
+  latitude: -19.5890
+  longitude: -65.7530
+scores:
+  impact: 8.5
+  uniqueness: 8.9
+  significance: 9.4
+  experience: 8.5
+  depth: 8.0
+  categories:
+    history: 9.5
+    culture: 9.0
+    architecture: 8.9

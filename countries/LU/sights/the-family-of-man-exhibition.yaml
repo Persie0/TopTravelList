@@ -1,0 +1,15 @@
+id: sight-lu-the-family-of-man-exhibition
+name: "The Family of Man Exhibition"
+location:
+  country_code: LU
+  latitude: 50.0543
+  longitude: 6.0305
+scores:
+  impact: 8.3
+  uniqueness: 9.0
+  significance: 9.3
+  experience: 8.5
+  depth: 8.2
+  categories:
+    culture: 9.4
+    history: 9.3

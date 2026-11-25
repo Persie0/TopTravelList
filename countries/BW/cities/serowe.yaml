@@ -1,0 +1,15 @@
+id: city-bw-serowe
+name: "Serowe"
+location:
+  country_code: BW
+  latitude: -22.3870
+  longitude: 26.7100
+scores:
+  impact: 6.6
+  uniqueness: 7.7
+  significance: 8.2
+  experience: 7.5
+  depth: 6.9
+  categories:
+    history: 8.8
+    culture: 8.6

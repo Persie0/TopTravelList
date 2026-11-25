@@ -1,0 +1,15 @@
+id: sight-bz-cahal-pech-archaeological-reserve
+name: "Cahal Pech Archaeological Reserve"
+location:
+  country_code: BZ
+  latitude: 17.145
+  longitude: -89.075
+scores:
+  impact: 7.9
+  uniqueness: 8.2
+  significance: 8.5
+  experience: 8.2
+  depth: 7.8
+  categories:
+    history: 8.8
+    architecture: 8.5

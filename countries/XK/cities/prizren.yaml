@@ -1,0 +1,17 @@
+id: city-xk-prizren
+name: "Prizren"
+location:
+  country_code: XK
+  latitude: 42.2139
+  longitude: 20.7397
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 8.7
+  experience: 8.8
+  depth: 8.3
+  categories:
+    architecture: 9.2
+    history: 9.1
+    culture: 9.0
+    photography: 9.2

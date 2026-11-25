@@ -1,0 +1,15 @@
+id: sight-uy-castillo-de-piria
+name: "Castillo de Piria"
+location:
+  country_code: UY
+  latitude: -34.8275
+  longitude: -55.2440
+scores:
+  impact: 7.4
+  uniqueness: 7.7
+  significance: 7.7
+  experience: 7.6
+  depth: 6.9
+  categories:
+    architecture: 8.3
+    history: 8.1

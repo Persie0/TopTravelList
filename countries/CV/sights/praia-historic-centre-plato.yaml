@@ -1,0 +1,16 @@
+id: sight-cv-praia-historic-centre-plato
+name: "Praia Historic Centre (Plato)"
+location:
+  country_code: CV
+  latitude: 14.920833
+  longitude: -23.525000
+scores:
+  impact: 7.7
+  uniqueness: 7.9
+  significance: 8.3
+  experience: 8.1
+  depth: 7.7
+  categories:
+    architecture: 8.4
+    history: 8.6
+    culture: 8.5

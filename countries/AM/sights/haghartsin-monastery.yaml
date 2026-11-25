@@ -1,0 +1,16 @@
+id: sight-am-haghartsin-monastery
+name: "Haghartsin Monastery"
+location:
+  country_code: AM
+  latitude: 40.802
+  longitude: 44.891
+scores:
+  impact: 8.5
+  uniqueness: 8.4
+  significance: 8.6
+  experience: 8.5
+  depth: 7.7
+  categories:
+    architecture: 8.9
+    history: 8.9
+    photography: 8.9

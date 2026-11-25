@@ -1,0 +1,16 @@
+id: city-cv-vila-do-maio
+name: "Vila do Maio"
+location:
+  country_code: CV
+  latitude: 15.1380
+  longitude: -23.2110
+scores:
+  impact: 6.9
+  uniqueness: 7.4
+  significance: 6.9
+  experience: 7.7
+  depth: 6.6
+  categories:
+    culture: 8.0
+    relaxation: 7.9
+    history: 7.3

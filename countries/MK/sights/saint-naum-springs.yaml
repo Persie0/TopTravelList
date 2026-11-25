@@ -1,0 +1,15 @@
+id: sight-mk-saint-naum-springs
+name: "Saint Naum Springs"
+location:
+  country_code: MK
+  latitude: 40.9145
+  longitude: 20.7442
+scores:
+  impact: 8.4
+  uniqueness: 8.5
+  significance: 7.9
+  experience: 8.7
+  depth: 7.7
+  categories:
+    nature: 9.0
+    photography: 9.1

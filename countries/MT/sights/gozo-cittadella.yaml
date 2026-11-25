@@ -1,0 +1,16 @@
+id: sight-mt-gozo-cittadella
+name: "Gozo Cittadella"
+location:
+  country_code: MT
+  latitude: 36.0464
+  longitude: 14.2395
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.8
+  depth: 8.6
+  categories:
+    architecture: 9.2
+    history: 9.3
+    photography: 9.3

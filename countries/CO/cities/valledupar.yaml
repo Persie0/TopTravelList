@@ -1,0 +1,15 @@
+id: city-co-valledupar
+name: "Valledupar"
+location:
+  country_code: CO
+  latitude: 10.4769
+  longitude: -73.2506
+scores:
+  impact: 7.1
+  uniqueness: 8.1
+  significance: 7.6
+  experience: 7.8
+  depth: 7.3
+  categories:
+    culture: 8.9
+    food: 8.0

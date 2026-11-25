@@ -1,0 +1,15 @@
+id: sight-mk-memorial-house-of-mother-teresa
+name: "Memorial House of Mother Teresa"
+location:
+  country_code: MK
+  latitude: 41.9938
+  longitude: 21.4309
+scores:
+  impact: 7.4
+  uniqueness: 8.0
+  significance: 8.4
+  experience: 7.8
+  depth: 7.0
+  categories:
+    history: 8.8
+    culture: 8.5

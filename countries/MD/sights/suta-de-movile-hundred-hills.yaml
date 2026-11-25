@@ -1,0 +1,15 @@
+id: sight-md-suta-de-movile-hundred-hills
+name: "Suta de Movile (Hundred Hills)"
+location:
+  country_code: MD
+  latitude: 47.6700
+  longitude: 27.4200
+scores:
+  impact: 8.0
+  uniqueness: 8.5
+  significance: 7.7
+  experience: 8.1
+  depth: 7.0
+  categories:
+    nature: 8.8
+    photography: 9.0

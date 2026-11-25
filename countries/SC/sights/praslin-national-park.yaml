@@ -1,0 +1,16 @@
+id: sight-sc-praslin-national-park
+name: "Praslin National Park"
+location:
+  country_code: SC
+  latitude: -4.3370
+  longitude: 55.7380
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 8.7
+  experience: 8.4
+  depth: 8.3
+  categories:
+    nature: 9.1
+    wildlife: 8.7
+    adventure: 8.4

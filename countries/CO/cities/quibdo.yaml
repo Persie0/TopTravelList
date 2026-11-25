@@ -1,0 +1,14 @@
+id: city-co-quibdo
+name: "Quibdó"
+location:
+  country_code: CO
+  latitude: 5.6947
+  longitude: -76.6611
+scores:
+  impact: null
+  uniqueness: 7.8
+  significance: 7.2
+  experience: null
+  depth: null
+  categories:
+    culture: 8.8

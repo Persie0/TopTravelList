@@ -1,0 +1,15 @@
+id: sight-mk-stobi-archaeological-site
+name: "Stobi Archaeological Site"
+location:
+  country_code: MK
+  latitude: 41.5516
+  longitude: 21.9752
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 9.1
+  experience: 8.6
+  depth: 8.6
+  categories:
+    history: 9.4
+    architecture: 9.1

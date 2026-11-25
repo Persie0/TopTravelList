@@ -1,0 +1,16 @@
+id: sight-ar-cerro-catedral
+name: "Cerro Catedral"
+location:
+  country_code: AR
+  latitude: -41.1700
+  longitude: -71.4500
+scores:
+  impact: 8.9
+  uniqueness: 8.4
+  significance: 7.0
+  experience: 8.9
+  depth: 8.3
+  categories:
+    adventure: 9.4
+    photography: 9.2
+    nature: 8.9

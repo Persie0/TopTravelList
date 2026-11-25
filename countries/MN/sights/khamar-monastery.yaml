@@ -1,0 +1,16 @@
+id: sight-mn-khamar-monastery
+name: "Khamar Monastery"
+location:
+  country_code: MN
+  latitude: 44.6
+  longitude: 110.28
+scores:
+  impact: 7.9
+  uniqueness: 8.2
+  significance: 8.5
+  experience: 8.0
+  depth: 7.6
+  categories:
+    history: 8.6
+    culture: 8.8
+    architecture: 8.2

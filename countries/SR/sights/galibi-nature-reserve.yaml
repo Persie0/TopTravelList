@@ -1,0 +1,16 @@
+id: sight-sr-galibi-nature-reserve
+name: "Galibi Nature Reserve"
+location:
+  country_code: SR
+  latitude: 5.8000
+  longitude: -53.9833
+scores:
+  impact: 8.5
+  uniqueness: 9.1
+  significance: 9.0
+  experience: 8.4
+  depth: 7.7
+  categories:
+    wildlife: 9.4
+    nature: 9.1
+    photography: 8.6

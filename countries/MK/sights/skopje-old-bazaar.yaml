@@ -1,0 +1,17 @@
+id: sight-mk-skopje-old-bazaar
+name: "Skopje Old Bazaar"
+location:
+  country_code: MK
+  latitude: 42.0005
+  longitude: 21.4360
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 8.8
+  experience: 8.9
+  depth: 8.6
+  categories:
+    culture: 9.3
+    history: 9.2
+    food: 9.0
+    architecture: 9.0

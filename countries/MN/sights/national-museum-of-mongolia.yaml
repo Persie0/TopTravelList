@@ -1,0 +1,15 @@
+id: sight-mn-national-museum-of-mongolia
+name: "National Museum of Mongolia"
+location:
+  country_code: MN
+  latitude: 47.921
+  longitude: 106.917
+scores:
+  impact: 7.8
+  uniqueness: 8.3
+  significance: 8.9
+  experience: 8.3
+  depth: 8.3
+  categories:
+    history: 9.1
+    culture: 8.9

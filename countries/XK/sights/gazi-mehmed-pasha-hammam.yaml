@@ -1,0 +1,15 @@
+id: sight-xk-gazi-mehmed-pasha-hammam
+name: "Gazi Mehmed Pasha Hammam"
+location:
+  country_code: XK
+  latitude: 42.2116
+  longitude: 20.7399
+scores:
+  impact: 7.6
+  uniqueness: 8.1
+  significance: 8.2
+  experience: 7.7
+  depth: 6.9
+  categories:
+    architecture: 8.7
+    history: 8.6

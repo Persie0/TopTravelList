@@ -1,0 +1,16 @@
+id: sight-pa-panama-rainforest-discovery-center
+name: "Panama Rainforest Discovery Center"
+location:
+  country_code: PA
+  latitude: 9.132
+  longitude: -79.719
+scores:
+  impact: 8.3
+  uniqueness: 8.5
+  significance: 8.1
+  experience: 8.7
+  depth: 7.6
+  categories:
+    wildlife: 9.1
+    nature: 8.9
+    photography: 8.7

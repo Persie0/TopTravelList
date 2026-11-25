@@ -1,0 +1,16 @@
+id: sight-tg-palais-de-lome
+name: "Palais de Lomé"
+location:
+  country_code: TG
+  latitude: 6.1210
+  longitude: 1.2140
+scores:
+  impact: 8.1
+  uniqueness: 8.4
+  significance: 8.6
+  experience: 8.5
+  depth: 7.8
+  categories:
+    architecture: 9.0
+    history: 9.0
+    culture: 8.9

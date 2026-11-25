@@ -1,0 +1,15 @@
+id: sight-bz-nohoch-che-en-caves-branch
+name: "Nohoch Che'en Caves Branch"
+location:
+  country_code: BZ
+  latitude: 17.186
+  longitude: -88.628
+scores:
+  impact: 8.5
+  uniqueness: 8.3
+  significance: 7.8
+  experience: 8.9
+  depth: 8.0
+  categories:
+    adventure: 9.1
+    nature: 8.7

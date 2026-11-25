@@ -1,0 +1,16 @@
+id: sight-co-los-nevados-national-natural-park
+name: "Los Nevados National Natural Park"
+location:
+  country_code: CO
+  latitude: 4.8500
+  longitude: -75.3500
+scores:
+  impact: 9.3
+  uniqueness: 9.1
+  significance: 8.9
+  experience: 8.4
+  depth: 8.9
+  categories:
+    nature: 9.5
+    photography: 9.5
+    adventure: 9.4

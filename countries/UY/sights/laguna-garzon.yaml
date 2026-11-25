@@ -1,0 +1,16 @@
+id: sight-uy-laguna-garzon
+name: "Laguna Garzon"
+location:
+  country_code: UY
+  latitude: -34.7980
+  longitude: -54.5570
+scores:
+  impact: 8.0
+  uniqueness: 8.3
+  significance: 8.3
+  experience: 8.1
+  depth: 7.9
+  categories:
+    nature: 8.6
+    wildlife: 8.5
+    photography: 8.5

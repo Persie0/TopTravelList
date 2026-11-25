@@ -1,0 +1,15 @@
+id: city-bo-san-ignacio-de-moxos
+name: "San Ignacio de Moxos"
+location:
+  country_code: BO
+  latitude: -14.9950
+  longitude: -65.6330
+scores:
+  impact: 7.2
+  uniqueness: 8.1
+  significance: 8.0
+  experience: 7.7
+  depth: 6.7
+  categories:
+    culture: 8.9
+    history: 8.4

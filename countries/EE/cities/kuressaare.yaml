@@ -1,0 +1,16 @@
+id: city-ee-kuressaare
+name: "Kuressaare"
+location:
+  country_code: EE
+  latitude: 58.253
+  longitude: 22.486
+scores:
+  impact: 8.1
+  uniqueness: 8.2
+  significance: 7.9
+  experience: 8.4
+  depth: 7.6
+  categories:
+    architecture: 8.5
+    history: 8.3
+    relaxation: 8.7

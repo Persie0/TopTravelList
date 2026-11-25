@@ -1,0 +1,16 @@
+id: city-bo-potosi
+name: "Potosí"
+location:
+  country_code: BO
+  latitude: -19.5836
+  longitude: -65.7531
+scores:
+  impact: 8.6
+  uniqueness: 8.9
+  significance: 9.5
+  experience: 8.1
+  depth: 8.5
+  categories:
+    architecture: 9.0
+    history: 9.6
+    culture: 8.9

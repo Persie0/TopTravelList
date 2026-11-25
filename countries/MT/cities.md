@@ -2,7 +2,7 @@
 
 # Malta (MT) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**23 ranked** · **0 unassessed** · **23 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,33 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (23)
 
-No cities, towns & villages have been assessed for **Malta** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Valletta](cities/valletta.yaml) | City / town | **91.80** | **History 9.5**, **Architecture 9.4**, **Culture 9.3**, Photography 9.3 | 9.2 / 9.2 / 9.4 / 9.0 / 8.9 | [35.89968, 14.5148](https://www.google.com/maps/search/?api=1&query=35.89968,14.5148) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Valletta%2C%20Malta) |
+| 2 | [Mdina](cities/mdina.yaml) | City / town | **87.10** | **Architecture 9.3**, **Photography 9.3**, **History 9.2** | 8.8 / 8.9 / 8.7 / 8.7 / 8.0 | [35.88636, 14.40312](https://www.google.com/maps/search/?api=1&query=35.88636,14.40312) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mdina%2C%20Malta) |
+| 3 | [Birgu (Vittoriosa)](cities/birgu-vittoriosa.yaml) | City / town | **85.75** | **History 9.3**, **Architecture 9.1**, **Photography 9.0** | 8.5 / 8.7 / 8.8 / 8.6 / 8.0 | [35.8881, 14.5225](https://www.google.com/maps/search/?api=1&query=35.8881,14.5225) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Birgu%20%28Vittoriosa%29%2C%20Malta) |
+| 4 | [Victoria (Rabat, Gozo)](cities/victoria-rabat-gozo.yaml) | City / town | **83.75** | **History 9.0**, **Architecture 8.9**, **Culture 8.8** | 8.2 / 8.4 / 8.6 / 8.5 / 8.2 | [36.04473, 14.24118](https://www.google.com/maps/search/?api=1&query=36.04473,14.24118) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Victoria%20%28Rabat%2C%20Gozo%29%2C%20Malta) |
+| 5 | [Marsaxlokk](cities/marsaxlokk.yaml) | City / town | **81.25** | **Photography 9.1**, **Food 8.8**, **Culture 8.6** | 8.2 / 8.4 / 7.7 / 8.5 / 7.5 | [35.8419, 14.5431](https://www.google.com/maps/search/?api=1&query=35.8419,14.5431) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Marsaxlokk%2C%20Malta) |
+| 6 | [Senglea (Isla)](cities/senglea-isla.yaml) | City / town | **81.15** | **Photography 9.0**, **History 8.9**, **Architecture 8.8** | 8.0 / 8.2 / 8.4 / 8.3 / 7.4 | [35.88777, 14.51588](https://www.google.com/maps/search/?api=1&query=35.88777,14.51588) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Senglea%20%28Isla%29%2C%20Malta) |
+| 7 | [Rabat (Malta)](cities/rabat-malta.yaml) | City / town | **80.95** | **History 9.0**, **Culture 8.6** | 7.8 / 8.1 / 8.5 / 8.2 / 8.0 | [35.8815, 14.3988](https://www.google.com/maps/search/?api=1&query=35.8815,14.3988) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Rabat%20%28Malta%29%2C%20Malta) |
+| 8 | [Cospicua (Bormla)](cities/cospicua-bormla.yaml) | City / town | **80.20** | **History 8.8**, **Architecture 8.7** | 7.9 / 8.1 / 8.3 / 8.1 / 7.5 | [35.88556, 14.5275](https://www.google.com/maps/search/?api=1&query=35.88556,14.5275) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cospicua%20%28Bormla%29%2C%20Malta) |
+| 9 | [Floriana](cities/floriana.yaml) | City / town | **78.75** | **History 8.7**, **Architecture 8.5** | 7.7 / 7.9 / 8.2 / 8.0 / 7.5 | [35.892, 14.508](https://www.google.com/maps/search/?api=1&query=35.892,14.508) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Floriana%2C%20Malta) |
+| 10 | [Mellieħa](cities/mellieha.yaml) | City / town | **76.85** | **Relaxation 8.6**, **Architecture 8.2** | 7.7 / 7.6 / 7.5 / 8.1 / 7.6 | [35.9567, 14.3628](https://www.google.com/maps/search/?api=1&query=35.9567,14.3628) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mellie%C4%A7a%2C%20Malta) |
+| 11 | [Sliema](cities/sliema.yaml) | City / town | **76.65** | **Relaxation 8.8**, **Photography 8.6**, **Food 8.5** | 7.8 / 7.4 / 7.0 / 8.5 / 8.0 | [35.91247, 14.50175](https://www.google.com/maps/search/?api=1&query=35.91247,14.50175) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sliema%2C%20Malta) |
+| 12 | [Xlendi](cities/xlendi.yaml) | City / town | **76.55** | **Photography 8.8**, **Relaxation 8.7** | 7.8 / 7.8 / 7.0 / 8.3 / 7.2 | [36.031, 14.218](https://www.google.com/maps/search/?api=1&query=36.031,14.218) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Xlendi%2C%20Malta) |
+| 13 | [Mosta](cities/mosta.yaml) | City / town | **76.45** | **Architecture 8.6**, **History 8.4** | 7.5 / 7.7 / 7.8 / 7.8 / 7.4 | [35.9092, 14.4258](https://www.google.com/maps/search/?api=1&query=35.9092,14.4258) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mosta%2C%20Malta) |
+| 14 | [Xagħra](cities/xaghra.yaml) | City / town | **76.30** | **Culture 8.3**, **Architecture 8.2** | 7.5 / 7.7 / 7.8 / 7.9 / 7.1 | [36.05, 14.267](https://www.google.com/maps/search/?api=1&query=36.05,14.267) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Xag%C4%A7ra%2C%20Malta) |
+| 15 | [St Paul's Bay](cities/st-pauls-bay.yaml) | City / town | **75.45** | **Relaxation 8.6**, **Food 8.2** | 7.5 / 7.3 / 7.3 / 8.2 / 7.8 | [35.949, 14.4017](https://www.google.com/maps/search/?api=1&query=35.949,14.4017) | [Google Maps](https://www.google.com/maps/search/?api=1&query=St%20Paul%27s%20Bay%2C%20Malta) |
+| 16 | [St Julian's](cities/st-julians.yaml) | City / town | **75.40** | **Nightlife 9.0**, **Food 8.6** | 7.6 / 7.3 / 6.8 / 8.5 / 8.0 | [35.9181, 14.4907](https://www.google.com/maps/search/?api=1&query=35.9181,14.4907) | [Google Maps](https://www.google.com/maps/search/?api=1&query=St%20Julian%27s%2C%20Malta) |
+| 17 | [Għarb](cities/gharb.yaml) | City / town | **75.35** | **Architecture 8.3**, **Culture 8.2** | 7.4 / 7.7 / 7.6 / 7.8 / 7.0 | [36.06, 14.209](https://www.google.com/maps/search/?api=1&query=36.06,14.209) | [Google Maps](https://www.google.com/maps/search/?api=1&query=G%C4%A7arb%2C%20Malta) |
+| 18 | [Nadur](cities/nadur.yaml) | City / town | **74.35** | **Photography 8.4**, **Culture 8.0** | 7.3 / 7.5 / 7.5 / 7.8 / 7.0 | [36.037, 14.294](https://www.google.com/maps/search/?api=1&query=36.037,14.294) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nadur%2C%20Malta) |
+| 19 | [Marsalforn](cities/marsalforn.yaml) | City / town | **74.10** | **Relaxation 8.7**, **Food 8.2** | 7.4 / 7.4 / 6.9 / 8.2 / 7.3 | [36.071, 14.258](https://www.google.com/maps/search/?api=1&query=36.071,14.258) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Marsalforn%2C%20Malta) |
+| 20 | [Marsaskala](cities/marsaskala.yaml) | City / town | **73.50** | **Relaxation 8.6**, **Food 8.2** | 7.3 / 7.4 / 6.9 / 8.0 / 7.3 | [35.862, 14.568](https://www.google.com/maps/search/?api=1&query=35.862,14.568) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Marsaskala%2C%20Malta) |
+| 21 | [Żurrieq](cities/zurrieq.yaml) | City / town | **72.90** | **Architecture 8.0**, **Culture 8.0** | 7.0 / 7.4 / 7.5 / 7.6 / 7.0 | [35.831, 14.474](https://www.google.com/maps/search/?api=1&query=35.831,14.474) | [Google Maps](https://www.google.com/maps/search/?api=1&query=%C5%BBurrieq%2C%20Malta) |
+| 22 | [Paola](cities/paola.yaml) | City / town | **71.60** | **History 8.1**, **Culture 7.8** | 6.8 / 7.1 / 7.6 / 7.5 / 7.0 | [35.873, 14.498](https://www.google.com/maps/search/?api=1&query=35.873,14.498) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Paola%2C%20Malta) |
+| 23 | [Birkirkara](cities/birkirkara.yaml) | City / town | **71.15** | **Culture 7.9**, **History 7.8** | 6.8 / 7.0 / 7.3 / 7.5 / 7.4 | [35.8972, 14.4611](https://www.google.com/maps/search/?api=1&query=35.8972,14.4611) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Birkirkara%2C%20Malta) |
 
 ---
 

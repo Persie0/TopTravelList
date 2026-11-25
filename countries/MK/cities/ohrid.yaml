@@ -1,0 +1,17 @@
+id: city-mk-ohrid
+name: "Ohrid"
+location:
+  country_code: MK
+  latitude: 41.1172
+  longitude: 20.8016
+scores:
+  impact: 8.9
+  uniqueness: 9.1
+  significance: 9.1
+  experience: 8.9
+  depth: 8.7
+  categories:
+    architecture: 9.2
+    history: 9.4
+    culture: 9.2
+    photography: 9.4

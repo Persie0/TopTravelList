@@ -1,0 +1,15 @@
+id: city-hn-valle-de-angeles
+name: "Valle de Ángeles"
+location:
+  country_code: HN
+  latitude: 14.1570
+  longitude: -87.0360
+scores:
+  impact: 7.2
+  uniqueness: 7.5
+  significance: 7.3
+  experience: 7.9
+  depth: 6.6
+  categories:
+    culture: 8.2
+    food: 7.8

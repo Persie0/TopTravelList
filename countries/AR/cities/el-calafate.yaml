@@ -1,0 +1,16 @@
+id: city-ar-el-calafate
+name: "El Calafate"
+location:
+  country_code: AR
+  latitude: -50.3379
+  longitude: -72.2648
+scores:
+  impact: 7.3
+  uniqueness: 7.5
+  significance: 6.2
+  experience: 8.2
+  depth: 6.8
+  categories:
+    relaxation: 8.4
+    food: 8.2
+    photography: 8.0

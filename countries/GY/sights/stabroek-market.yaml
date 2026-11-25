@@ -1,0 +1,16 @@
+id: sight-gy-stabroek-market
+name: "Stabroek Market"
+location:
+  country_code: GY
+  latitude: 6.8094
+  longitude: -58.1655
+scores:
+  impact: 7.7
+  uniqueness: 8.0
+  significance: 7.9
+  experience: 8.3
+  depth: 7.6
+  categories:
+    food: 8.7
+    culture: 8.5
+    architecture: 8.3

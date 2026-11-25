@@ -1,0 +1,16 @@
+id: city-ve-colonia-tovar
+name: "Colonia Tovar"
+location:
+  country_code: VE
+  latitude: 10.4070
+  longitude: -67.2900
+scores:
+  impact: 7.5
+  uniqueness: 8.3
+  significance: 7.3
+  experience: 7.9
+  depth: 6.6
+  categories:
+    architecture: 8.7
+    culture: 8.5
+    food: 8.1

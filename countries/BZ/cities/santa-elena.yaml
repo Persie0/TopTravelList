@@ -1,0 +1,15 @@
+id: city-bz-santa-elena
+name: "Santa Elena"
+location:
+  country_code: BZ
+  latitude: 17.1620
+  longitude: -89.0550
+scores:
+  impact: 6.2
+  uniqueness: 6.5
+  significance: 6.3
+  experience: 7.0
+  depth: 6.6
+  categories:
+    food: 7.4
+    culture: 7.0

@@ -1,0 +1,15 @@
+id: sight-bj-w-national-park-benin-sector
+name: "W National Park (Benin sector)"
+location:
+  country_code: BJ
+  latitude: 11.80
+  longitude: 2.65
+scores:
+  impact: null
+  uniqueness: null
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    nature: 9.3
+    wildlife: 9.4

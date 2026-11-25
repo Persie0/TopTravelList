@@ -1,0 +1,15 @@
+id: sight-bz-gulisi-garifuna-museum
+name: "Gulisi Garifuna Museum"
+location:
+  country_code: BZ
+  latitude: 16.966
+  longitude: -88.227
+scores:
+  impact: 7.0
+  uniqueness: 8.1
+  significance: 8.3
+  experience: 7.7
+  depth: 6.9
+  categories:
+    culture: 8.8
+    history: 8.5

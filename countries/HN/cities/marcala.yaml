@@ -1,0 +1,15 @@
+id: city-hn-marcala
+name: "Marcala"
+location:
+  country_code: HN
+  latitude: 14.1510
+  longitude: -88.0340
+scores:
+  impact: 6.6
+  uniqueness: 7.3
+  significance: 7.0
+  experience: 7.5
+  depth: 6.6
+  categories:
+    food: 8.2
+    culture: 7.7
