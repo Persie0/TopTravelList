@@ -43,15 +43,17 @@
 ### sight-tv-funafuti-conservation-area — Funafuti Conservation Area — 2026-11-25
 
 - YAML: [source](../../../countries/TV/sights/funafuti-conservation-area.yaml)
-- Action: new
+- Action: revised (initial draft follow-up)
 - Precise subject: Protected western reef, lagoon and islets, not all Funafuti Lagoon.
 - Location check: representative WGS84 -8.53, 179.09; see sources below. Not an entrance.
-- Evidence status: unassessed
+- Evidence status: source-linked-unverified
 - Checked factual reference excerpts (accessed 2026-11-25):
   - Government tourism describes 33 square kilometres of marine habitat and nesting wildlife — https://tourism.gov.tv/funafuti-marine-conservation-2/
   - Tentative-list submission reports visitation prohibition for six western islets — https://whc.unesco.org/en/tentativelists/6707/
   - Visitor guide supplies representative western lagoon point — https://visitingoceania.com/landmarks/funafuti-conservation-area/
-- Missing or uncertain facts: Keep unranked until permitted water and islet visitation are verified; UNESCO page is tentative, not inscription.
+  - Funafuti local council confirms marine habitats and conservation remit — https://kaupulefunafuti.tv/conservation-area
+  - Noonsite search excerpt describes permit and guide requirement and snorkeling arrangements (full page inaccessible) — https://www.noonsite.com/place/tuvalu/funafuti/view/docking/
+- Missing or uncertain facts: Provisional score applies to authorized guided water-based visitation only; no islet landing assumed. UNESCO tentative status remains distinct from inscription.
 
 #### Worldwide peer comparisons
 - Great Barrier Reef (Australia): vastly greater reef diversity and extent
@@ -65,16 +67,16 @@
 | impact | 8.3 | Reefs and islets suggest strong natural spectacle |
 | uniqueness | 8.4 | Atoll habitat is distinctive but not alone globally |
 | significance | 8.7 | Conservation value including turtle nesting and seabirds |
-| experience | null | Ordinary permitted visitor experience unclear given conflicting tourism and conservation descriptions |
-| depth | null | Permitted activities and reachable habitats not established |
+| experience | 7.8 | Guided boat-based reef observation and snorkeling where specifically authorized; no assumed access to nesting islets |
+| depth | 7.3 | Multiple reef, lagoon and marine perspectives on a guided excursion, excluding restricted landings and sensitive habitats |
 
 - Applicable category scores: nature: 8.8, wildlife: 8.4, photography: 8.4
-- Computed worldwide overall: unranked
+- Computed worldwide overall: 82.30/100
 - High-score challenge: not applicable (no 9.5+ or 90+ fields/totals).
 - Approved 10 registry: none.
-- Final decision: Retain in the inventory without a rank until evidence supports all five fields.
-- Earlier decision: none.
-- Verification still needed: Keep unranked until permitted water and islet visitation are verified; UNESCO page is tentative, not inscription.
+- Final decision: Provisional worldwide ranking; new evidence supports remaining dimensions.
+- Earlier decision: unranked in initial draft.
+- Verification still needed: Confirm current conservation-office permission, precise accessible waters and operator availability; no island landing or access guarantee.
 
 ### sight-tv-tuvalu-philatelic-bureau — Tuvalu Philatelic Bureau — 2026-11-25
 

@@ -148,14 +148,16 @@
 ### sight-nr-naoero-museum — Naoero Museum — 2026-11-25
 
 - YAML: [source](../../../countries/NR/sights/naoero-museum.yaml)
-- Action: new
+- Action: revised (initial draft follow-up)
 - Precise subject: National museum as a visitor institution, not the whole national history.
 - Location check: representative WGS84 -0.54511, 166.91479; see sources below. Not an entrance.
-- Evidence status: unassessed
+- Evidence status: source-linked-unverified
 - Checked factual reference excerpts (accessed 2026-11-25):
   - Government confirms national museum and opening in 2019 — https://www.nauru.gov.nr/government/departments/nauru-museum.aspx
   - Mapped museum node gives representative coordinates — https://mapcarta.com/N6936364885
-- Missing or uncertain facts: Collection contents and depth require independent documentation before full rank.
+  - Independent visitor report documents one hall, multiple themed displays, and confirms mapped coordinate — https://www.dark-tourism.com/index.php/1583-naoeromuseum
+  - Japanese embassy confirms March 2026 exhibition-equipment improvement grant (not evidence of completed installation) — https://www.fj.emb-japan.go.jp/itpr_ja/11_000001_00946.html
+- Missing or uncertain facts: Verify current installation, opening and display inventory.
 
 #### Worldwide peer comparisons
 - Kunsthistorisches Museum (Austria): vastly richer collections
@@ -170,13 +172,13 @@
 | uniqueness | 7.1 | Rare dedicated Nauruan museum context |
 | significance | 7.3 | National preservation mission |
 | experience | 6.5 | Documented public entry, not evidence of a comprehensive exhibit visit |
-| depth | null | Collection breadth and interpretation not established |
+| depth | 6.2 | Several themes (traditional culture, historic photographs, industry and wartime history) in one hall; substantial for a compact visit, not comparable to major national museums |
 
 - Applicable category scores: history: 7.4, culture: 7.5
-- Computed worldwide overall: unranked
+- Computed worldwide overall: 66.60/100
 - High-score challenge: not applicable (no 9.5+ or 90+ fields/totals).
 - Approved 10 registry: none.
-- Final decision: Retain in the inventory without a rank until evidence supports all five fields.
-- Earlier decision: none.
-- Verification still needed: Collection contents and depth require independent documentation before full rank.
+- Final decision: Provisional worldwide ranking; new evidence supports remaining dimensions.
+- Earlier decision: unranked in initial draft.
+- Verification still needed: Confirm current opening and exhibition improvements; no claim that grant-funded equipment is installed.
 

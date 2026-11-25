@@ -2,7 +2,7 @@
 
 # Tuvalu (TV) — Sights & attractions ranking
 
-**2 ranked** · **1 unassessed** · **3 total** · Worldwide scoring **v2**
+**3 ranked** · **0 unassessed** · **3 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,20 +10,13 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (2)
+## Complete ranked list (3)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
-| 1 | [Funafuti Lagoon](sights/funafuti-lagoon.yaml) | Beach / bay | **78.20** | **Nature 8.5**, **Photography 8.4**, **Relaxation 8.0** | 8.1 / 8.0 / 7.5 / 7.6 / 7.5 | [-8.5074, 179.1293](https://www.google.com/maps/search/?api=1&query=-8.5074,179.1293) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Funafuti%20Lagoon%2C%20Tuvalu) |
-| 2 | [Tuvalu Philatelic Bureau](sights/tuvalu-philatelic-bureau.yaml) | Attraction | **65.00** | **Culture 7.4**, **History 6.8** | 5.8 / 7.5 / 6.9 / 6.3 / 5.6 | [-8.52711, 179.19311](https://www.google.com/maps/search/?api=1&query=-8.52711,179.19311) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tuvalu%20Philatelic%20Bureau%2C%20Tuvalu) |
-
-## Not yet fully assessed (1)
-
-These destinations have no rank until all five core scores are assessed.
-
-| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
-| ---: | --- | --- | ---: | --- | --- | --- | --- |
-| — | [Funafuti Conservation Area](sights/funafuti-conservation-area.yaml) | Attraction | **—** | **Nature 8.8**, **Photography 8.4**, **Wildlife 8.4** | 8.3 / 8.4 / 8.7 / — / — | [-8.53, 179.09](https://www.google.com/maps/search/?api=1&query=-8.53,179.09) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Funafuti%20Conservation%20Area%2C%20Tuvalu) |
+| 1 | [Funafuti Conservation Area](sights/funafuti-conservation-area.yaml) | Attraction | **82.30** | **Nature 8.8**, **Photography 8.4**, **Wildlife 8.4** | 8.3 / 8.4 / 8.7 / 7.8 / 7.3 | [-8.53, 179.09](https://www.google.com/maps/search/?api=1&query=-8.53,179.09) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Funafuti%20Conservation%20Area%2C%20Tuvalu) |
+| 2 | [Funafuti Lagoon](sights/funafuti-lagoon.yaml) | Beach / bay | **78.20** | **Nature 8.5**, **Photography 8.4**, **Relaxation 8.0** | 8.1 / 8.0 / 7.5 / 7.6 / 7.5 | [-8.5074, 179.1293](https://www.google.com/maps/search/?api=1&query=-8.5074,179.1293) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Funafuti%20Lagoon%2C%20Tuvalu) |
+| 3 | [Tuvalu Philatelic Bureau](sights/tuvalu-philatelic-bureau.yaml) | Attraction | **65.00** | **Culture 7.4**, **History 6.8** | 5.8 / 7.5 / 6.9 / 6.3 / 5.6 | [-8.52711, 179.19311](https://www.google.com/maps/search/?api=1&query=-8.52711,179.19311) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tuvalu%20Philatelic%20Bureau%2C%20Tuvalu) |
 
 ---
 

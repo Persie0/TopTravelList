@@ -2,7 +2,7 @@
 
 # Nauru (NR) — Sights & attractions ranking
 
-**3 ranked** · **2 unassessed** · **5 total** · Worldwide scoring **v2**
+**4 ranked** · **1 unassessed** · **5 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,22 +10,22 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (3)
+## Complete ranked list (4)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
 | 1 | [Anibare Bay](sights/anibare-bay.yaml) | Beach / bay | **70.75** | **Photography 8.0**, **Nature 7.9**, **Beaches 7.6** | 7.6 / 7.4 / 6.2 / 7.1 / 6.4 | [-0.53051, 166.95554](https://www.google.com/maps/search/?api=1&query=-0.53051,166.95554) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Anibare%20Bay%2C%20Nauru) |
-| 2 | [Command Ridge](sights/command-ridge.yaml) | Attraction | **66.30** | **History 7.7**, **Photography 6.6** | 6.5 / 6.9 / 7.2 / 6.3 / 5.7 | [-0.530978, 166.916756](https://www.google.com/maps/search/?api=1&query=-0.530978,166.916756) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Command%20Ridge%2C%20Nauru) |
-| 3 | [Buada Lagoon](sights/buada-lagoon.yaml) | Beach / bay | **64.85** | **Nature 7.0**, **Photography 6.8**, **Relaxation 6.6** | 6.6 / 7.1 / 6.5 / 6.0 / 5.3 | [-0.5351, 166.92226](https://www.google.com/maps/search/?api=1&query=-0.5351,166.92226) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Buada%20Lagoon%2C%20Nauru) |
+| 2 | [Naoero Museum](sights/naoero-museum.yaml) | Museum / heritage | **66.60** | **Culture 7.5**, **History 7.4** | 6.1 / 7.1 / 7.3 / 6.5 / 6.2 | [-0.54511, 166.91479](https://www.google.com/maps/search/?api=1&query=-0.54511,166.91479) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Naoero%20Museum%2C%20Nauru) |
+| 3 | [Command Ridge](sights/command-ridge.yaml) | Attraction | **66.30** | **History 7.7**, **Photography 6.6** | 6.5 / 6.9 / 7.2 / 6.3 / 5.7 | [-0.530978, 166.916756](https://www.google.com/maps/search/?api=1&query=-0.530978,166.916756) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Command%20Ridge%2C%20Nauru) |
+| 4 | [Buada Lagoon](sights/buada-lagoon.yaml) | Beach / bay | **64.85** | **Nature 7.0**, **Photography 6.8**, **Relaxation 6.6** | 6.6 / 7.1 / 6.5 / 6.0 / 5.3 | [-0.5351, 166.92226](https://www.google.com/maps/search/?api=1&query=-0.5351,166.92226) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Buada%20Lagoon%2C%20Nauru) |
 
-## Not yet fully assessed (2)
+## Not yet fully assessed (1)
 
 These destinations have no rank until all five core scores are assessed.
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
 | — | [Moqua Well](sights/moqua-well.yaml) | Attraction | **—** | **Nature 7.0** | 6.5 / 7.2 / 6.3 / — / — | [-0.54211, 166.91833](https://www.google.com/maps/search/?api=1&query=-0.54211,166.91833) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Moqua%20Well%2C%20Nauru) |
-| — | [Naoero Museum](sights/naoero-museum.yaml) | Museum / heritage | **—** | **Culture 7.5**, **History 7.4** | 6.1 / 7.1 / 7.3 / 6.5 / — | [-0.54511, 166.91479](https://www.google.com/maps/search/?api=1&query=-0.54511,166.91479) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Naoero%20Museum%2C%20Nauru) |
 
 ---
 
