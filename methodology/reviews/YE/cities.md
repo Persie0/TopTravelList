@@ -322,4 +322,3 @@
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide editorial rating; village observation with consent; Detwah lagoon and Shoab separately scored.
 - Verification still needed: current live comparator values and fit, material facts, condition, permitted visit and GPS.
-
