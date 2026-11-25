@@ -1,0 +1,15 @@
+id: city-bt-pemagatshel
+name: "Pemagatshel"
+location:
+  country_code: BT
+  latitude: 27.0380
+  longitude: 91.4040
+scores:
+  impact: 6.7
+  uniqueness: 7.2
+  significance: 7.0
+  experience: 7.2
+  depth: 6.9
+  categories:
+    culture: 7.9
+    food: 7.6

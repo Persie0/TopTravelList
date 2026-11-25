@@ -1,0 +1,16 @@
+id: sight-bt-jigme-singye-wangchuck-national-park
+name: "Jigme Singye Wangchuck National Park"
+location:
+  country_code: BT
+  latitude: 27.20
+  longitude: 90.42
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 9.0
+  experience: 8.6
+  depth: 8.9
+  categories:
+    nature: 9.3
+    wildlife: 9.2
+    adventure: 9.0

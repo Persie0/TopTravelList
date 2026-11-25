@@ -1,0 +1,16 @@
+id: sight-bt-gangtey-monastery
+name: "Gangtey Monastery"
+location:
+  country_code: BT
+  latitude: 27.484516
+  longitude: 90.164519
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 8.9
+  experience: 8.8
+  depth: 8.2
+  categories:
+    culture: 9.3
+    architecture: 9.2
+    photography: 9.1

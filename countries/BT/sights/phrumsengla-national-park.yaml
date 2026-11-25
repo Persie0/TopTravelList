@@ -1,0 +1,16 @@
+id: sight-bt-phrumsengla-national-park
+name: "Phrumsengla National Park"
+location:
+  country_code: BT
+  latitude: 27.38
+  longitude: 90.98
+scores:
+  impact: 8.8
+  uniqueness: 9.1
+  significance: 9.0
+  experience: 8.6
+  depth: 8.7
+  categories:
+    nature: 9.3
+    wildlife: 9.3
+    photography: 9.1

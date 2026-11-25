@@ -1,0 +1,16 @@
+id: city-bt-trashigang
+name: "Trashigang"
+location:
+  country_code: BT
+  latitude: 27.3340
+  longitude: 91.5540
+scores:
+  impact: 7.9
+  uniqueness: 8.4
+  significance: 8.1
+  experience: 8.1
+  depth: 7.7
+  categories:
+    culture: 8.8
+    history: 8.5
+    architecture: 8.5

@@ -1,0 +1,16 @@
+id: city-bt-phobjikha-village
+name: "Phobjikha Village"
+location:
+  country_code: BT
+  latitude: 27.4570
+  longitude: 90.1830
+scores:
+  impact: 7.6
+  uniqueness: 8.1
+  significance: 7.0
+  experience: 8.1
+  depth: 7.3
+  categories:
+    culture: 8.4
+    relaxation: 8.7
+    photography: 8.5

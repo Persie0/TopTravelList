@@ -1,0 +1,16 @@
+id: sight-bt-bumthang-owl-trek
+name: "Bumthang Owl Trek"
+location:
+  country_code: BT
+  latitude: 27.64
+  longitude: 90.73
+scores:
+  impact: 8.4
+  uniqueness: 8.5
+  significance: 7.6
+  experience: 8.7
+  depth: 8.3
+  categories:
+    nature: 8.9
+    adventure: 8.9
+    photography: 8.8

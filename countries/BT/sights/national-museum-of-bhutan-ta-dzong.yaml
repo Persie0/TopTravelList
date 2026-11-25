@@ -1,0 +1,16 @@
+id: sight-bt-national-museum-of-bhutan-ta-dzong
+name: "National Museum of Bhutan (Ta Dzong)"
+location:
+  country_code: BT
+  latitude: 27.4300
+  longitude: 89.4220
+scores:
+  impact: 8.4
+  uniqueness: 8.6
+  significance: 8.9
+  experience: 8.6
+  depth: 8.4
+  categories:
+    culture: 9.2
+    history: 9.2
+    architecture: 8.9

@@ -1,0 +1,16 @@
+id: sight-bt-changangkha-lhakhang
+name: "Changangkha Lhakhang"
+location:
+  country_code: BT
+  latitude: 27.4730
+  longitude: 89.6260
+scores:
+  impact: 8.1
+  uniqueness: 8.6
+  significance: 8.7
+  experience: 8.3
+  depth: 7.6
+  categories:
+    culture: 9.1
+    history: 9.0
+    architecture: 8.8

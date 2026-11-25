@@ -1,0 +1,16 @@
+id: sight-bt-bumthang-cultural-trek
+name: "Bumthang Cultural Trek"
+location:
+  country_code: BT
+  latitude: 27.59
+  longitude: 90.77
+scores:
+  impact: 8.3
+  uniqueness: 8.6
+  significance: 8.0
+  experience: 8.7
+  depth: 8.4
+  categories:
+    culture: 9.0
+    nature: 8.8
+    adventure: 8.6

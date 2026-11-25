@@ -1,0 +1,16 @@
+id: city-bt-punakha
+name: "Punakha"
+location:
+  country_code: BT
+  latitude: 27.5920
+  longitude: 89.8730
+scores:
+  impact: 8.3
+  uniqueness: 8.5
+  significance: 8.7
+  experience: 8.4
+  depth: 7.8
+  categories:
+    culture: 9.0
+    architecture: 8.9
+    history: 9.1

@@ -1,0 +1,15 @@
+id: sight-bt-motithang-takin-preserve
+name: "Motithang Takin Preserve"
+location:
+  country_code: BT
+  latitude: 27.4850
+  longitude: 89.6110
+scores:
+  impact: 7.5
+  uniqueness: 8.0
+  significance: 7.6
+  experience: 8.0
+  depth: 7.2
+  categories:
+    wildlife: 8.5
+    family: 8.1

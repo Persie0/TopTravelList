@@ -1,0 +1,15 @@
+id: sight-bt-royal-textile-academy-and-textile-museum
+name: "Royal Textile Academy and Textile Museum"
+location:
+  country_code: BT
+  latitude: 27.4790
+  longitude: 89.6380
+scores:
+  impact: 8.2
+  uniqueness: 8.7
+  significance: 8.5
+  experience: 8.6
+  depth: 8.3
+  categories:
+    culture: 9.3
+    history: 8.9

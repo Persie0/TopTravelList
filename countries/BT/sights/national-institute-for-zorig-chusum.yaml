@@ -1,0 +1,14 @@
+id: sight-bt-national-institute-for-zorig-chusum
+name: "National Institute for Zorig Chusum"
+location:
+  country_code: BT
+  latitude: 27.4820
+  longitude: 89.6285
+scores:
+  impact: 7.7
+  uniqueness: 8.4
+  significance: 8.1
+  experience: 8.4
+  depth: 7.6
+  categories:
+    culture: 9.1

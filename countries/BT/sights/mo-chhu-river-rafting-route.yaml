@@ -1,0 +1,15 @@
+id: sight-bt-mo-chhu-river-rafting-route
+name: "Mo Chhu River Rafting Route"
+location:
+  country_code: BT
+  latitude: 27.65
+  longitude: 89.83
+scores:
+  impact: 8.3
+  uniqueness: 8.1
+  significance: 6.8
+  experience: 8.7
+  depth: 8.0
+  categories:
+    adventure: 8.9
+    nature: 8.6

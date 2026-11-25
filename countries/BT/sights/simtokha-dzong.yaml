@@ -1,0 +1,16 @@
+id: sight-bt-simtokha-dzong
+name: "Simtokha Dzong"
+location:
+  country_code: BT
+  latitude: 27.4380
+  longitude: 89.6690
+scores:
+  impact: 8.3
+  uniqueness: 8.7
+  significance: 9.0
+  experience: 8.3
+  depth: 7.8
+  categories:
+    architecture: 9.0
+    history: 9.3
+    culture: 9.0

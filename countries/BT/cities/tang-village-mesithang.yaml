@@ -1,0 +1,15 @@
+id: city-bt-tang-village-mesithang
+name: "Tang Village (Mesithang)"
+location:
+  country_code: BT
+  latitude: 27.5830
+  longitude: 90.8870
+scores:
+  impact: 7.3
+  uniqueness: 7.9
+  significance: 7.4
+  experience: 7.7
+  depth: 7.1
+  categories:
+    culture: 8.4
+    relaxation: 8.2

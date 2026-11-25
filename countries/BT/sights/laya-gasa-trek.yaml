@@ -1,0 +1,17 @@
+id: sight-bt-laya-gasa-trek
+name: "Laya Gasa Trek"
+location:
+  country_code: BT
+  latitude: 27.94
+  longitude: 89.61
+scores:
+  impact: 9.4
+  uniqueness: 9.4
+  significance: 8.9
+  experience: 9.2
+  depth: 9.3
+  categories:
+    adventure: 9.5
+    nature: 9.4
+    photography: 9.4
+    culture: 9.2

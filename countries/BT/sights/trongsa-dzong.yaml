@@ -1,0 +1,17 @@
+id: sight-bt-trongsa-dzong
+name: "Trongsa Dzong"
+location:
+  country_code: BT
+  latitude: 27.4995
+  longitude: 90.5048
+scores:
+  impact: 9.3
+  uniqueness: 9.4
+  significance: 9.3
+  experience: 9.0
+  depth: 9.1
+  categories:
+    architecture: 9.5
+    history: 9.4
+    culture: 9.3
+    photography: 9.3

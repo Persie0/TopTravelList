@@ -1,0 +1,17 @@
+id: sight-bt-jigme-dorji-national-park
+name: "Jigme Dorji National Park"
+location:
+  country_code: BT
+  latitude: 27.97
+  longitude: 89.72
+scores:
+  impact: 9.5
+  uniqueness: 9.5
+  significance: 9.5
+  experience: 9.0
+  depth: 9.3
+  categories:
+    nature: 9.7
+    wildlife: 9.4
+    adventure: 9.5
+    photography: 9.5

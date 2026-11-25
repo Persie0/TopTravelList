@@ -1,0 +1,15 @@
+id: city-bt-dagana
+name: "Dagana"
+location:
+  country_code: BT
+  latitude: 27.0750
+  longitude: 89.8830
+scores:
+  impact: 7.2
+  uniqueness: 7.8
+  significance: 7.8
+  experience: 7.5
+  depth: 7.0
+  categories:
+    history: 8.3
+    culture: 8.2

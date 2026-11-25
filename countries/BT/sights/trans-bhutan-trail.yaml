@@ -1,0 +1,17 @@
+id: sight-bt-trans-bhutan-trail
+name: "Trans Bhutan Trail"
+location:
+  country_code: BT
+  latitude: 27.48
+  longitude: 90.10
+scores:
+  impact: 9.0
+  uniqueness: 9.3
+  significance: 9.2
+  experience: 9.0
+  depth: 9.5
+  categories:
+    culture: 9.4
+    history: 9.4
+    adventure: 9.4
+    nature: 9.2

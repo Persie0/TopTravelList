@@ -1,0 +1,16 @@
+id: sight-bt-national-memorial-chorten
+name: "National Memorial Chorten"
+location:
+  country_code: BT
+  latitude: 27.4660
+  longitude: 89.6370
+scores:
+  impact: 8.1
+  uniqueness: 8.4
+  significance: 8.4
+  experience: 8.5
+  depth: 7.6
+  categories:
+    culture: 9.2
+    history: 8.8
+    architecture: 8.7

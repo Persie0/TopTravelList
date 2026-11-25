@@ -1,0 +1,16 @@
+id: city-bt-haa
+name: "Haa"
+location:
+  country_code: BT
+  latitude: 27.3830
+  longitude: 89.2820
+scores:
+  impact: 8.1
+  uniqueness: 8.5
+  significance: 7.9
+  experience: 8.4
+  depth: 7.7
+  categories:
+    culture: 8.9
+    relaxation: 8.8
+    architecture: 8.6

@@ -1,0 +1,15 @@
+id: sight-bt-paro-ka-ja-throm-market
+name: "Paro Ka Ja Throm Market"
+location:
+  country_code: BT
+  latitude: 27.4300
+  longitude: 89.4140
+scores:
+  impact: 7.1
+  uniqueness: 7.4
+  significance: 6.8
+  experience: 8.0
+  depth: 7.5
+  categories:
+    food: 8.3
+    culture: 8.1

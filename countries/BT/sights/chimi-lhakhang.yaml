@@ -1,0 +1,15 @@
+id: sight-bt-chimi-lhakhang
+name: "Chimi Lhakhang"
+location:
+  country_code: BT
+  latitude: 27.5260
+  longitude: 89.8760
+scores:
+  impact: 8.1
+  uniqueness: 8.7
+  significance: 8.5
+  experience: 8.5
+  depth: 7.4
+  categories:
+    culture: 9.2
+    history: 8.9

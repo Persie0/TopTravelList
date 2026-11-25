@@ -1,0 +1,15 @@
+id: sight-bt-national-library-and-archives
+name: "National Library and Archives"
+location:
+  country_code: BT
+  latitude: 27.4820
+  longitude: 89.6290
+scores:
+  impact: 7.5
+  uniqueness: 8.0
+  significance: 8.5
+  experience: 7.8
+  depth: 7.4
+  categories:
+    history: 9.0
+    culture: 8.8
