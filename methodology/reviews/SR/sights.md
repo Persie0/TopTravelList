@@ -741,3 +741,19 @@
 - Categories: wildlife 8.8, nature 8.3. Computed overall: 79.20/100.
 - High-score challenge: Not applicable; no assessed 90+ total or 9.5+ field. Approved 10 registry: none.
 - Verification still needed: independent site-specific factual and GPS verification where not noted; peer and visitor-access calibration.
+
+## Follow-up: sight-sr-central-suriname-nature-reserve — 2026-11-25 (worldwide review)
+
+- [YAML](../../../countries/SR/sights/central-suriname-nature-reserve.yaml) · Action: rescore · **source-linked-unverified**; specific scope claims inspected; not comprehensive independent fact-check.
+- Sources inspected 2026-11-25: [UNESCO World Heritage Centre: property description, integrity and management](https://whc.unesco.org/en/list/1017).
+- Decision: UNESCO's property description establishes the exceptional intact rainforest, watershed and ecosystem diversity, but also says most of the reserve is inaccessible and tourism is localized. Keep impact, rarity and conservation significance distinct from visitor breadth. Depth 7.8 reflects a conditional limited visitor circuit rather than the full 1.6-million-hectare property; normal route coverage remains provisional. The existing 9.6 significance and nature ratings are editorial judgments about the protected ecosystem, not evidence of an unrestricted visitor experience.
+- I/U/S/E/D: 9.1 / 9.1 / 9.6 / 8.3 / 8.8 → 9.1 / 9.1 / 9.6 / 8.3 / 7.8. Computed overall: 90.50 → 89.50/100. Categories and GPS unchanged. No new 10 or country multiplier.
+- Outstanding: independently verify the precise representative GPS, normal visitor itinerary breadth, and category-specific comparative claims.
+
+| Worldwide peer (current YAML) | I/U/S/E/D | Overall /100 | Scope comparison |
+| --- | --- | --- | --- |
+| [Cockscomb Basin Wildlife Sanctuary](../../../countries/BZ/sights/cockscomb-basin-wildlife-sanctuary.yaml) | 8.7 / 8.8 / 9.1 / 8.8 / 9.0 | 88.50 | Established forest trails provide broader exploration. |
+| [Khao Sok National Park](../../../countries/TH/sights/khao-sok-national-park.yaml) | 9.4 / 9.4 / 9.1 / 9.4 / 9.3 | 93.30 | Broader known lake and forest visitor activities. |
+| [Dana Biosphere Reserve](../../../countries/JO/sights/dana-biosphere-reserve.yaml) | 9.0 / 8.8 / 8.9 / 9.0 / 9.1 | 89.40 | A more defined and accessible trail system. |
+| [Aldabra Atoll](../../../countries/SC/sights/aldabra-atoll.yaml) | 9.5 / 9.8 / 9.8 / 8.0 / 7.6 | 92.20 | Exceptional protected-area value but limited normal authorized exploration. |
+

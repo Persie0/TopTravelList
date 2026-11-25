@@ -1101,3 +1101,35 @@
 - Categories: history 9.0, culture 8.8, photography 8.4. Computed overall: 81.70/100.
 - High-score challenge: Not applicable. Approved 10 registry: none.
 - Verification still needed: individual facts, coordinates, access, closer peers.
+
+## Follow-up: sight-ec-galapagos-islands-world-heritage-property — 2026-11-25 (worldwide review)
+
+- [YAML](../../../countries/EC/sights/galapagos-islands-world-heritage-property.yaml) · Action: rescore · **source-linked-unverified**; specific scope claims inspected; not comprehensive independent fact-check.
+- Sources inspected 2026-11-25: [UNESCO World Heritage Centre: Galápagos](https://whc.unesco.org/en/list/1); [Dirección del Parque Nacional Galápagos: Sitios de Visita](https://galapagos.gob.ec/sitios-de-visita/); [Galápagos Conservancy: planning a trip](https://www.galapagos.org/travel/planning-a-trip/).
+- Decision: UNESCO documents the exceptional evolutionary ecology of the archipelago. The park authority lists 176 authorized marine and terrestrial visitor sites, with specific permitted activities; the Conservancy describes itineraries visiting selected sites. A multi-island journey remains an outstanding coherent visitor experience, but it cannot encompass the whole World Heritage property. Keep the existing rare impact, uniqueness, significance and category judgments; reduce depth from 9.8 to 9.3. Restricted access is a normal long-term management feature, not a temporary closure or cost penalty.
+- I/U/S/E/D: 9.9 / 9.9 / 9.9 / 9.5 / 9.8 → 9.9 / 9.9 / 9.9 / 9.5 / 9.3. Computed overall: 98.30 → 97.80/100. Categories and GPS unchanged. No new 10 or country multiplier.
+- Outstanding: independently verify the precise representative GPS, normal visitor itinerary breadth, and category-specific comparative claims.
+
+| Worldwide peer (current YAML) | I/U/S/E/D | Overall /100 | Scope comparison |
+| --- | --- | --- | --- |
+| [Aldabra Atoll](../../../countries/SC/sights/aldabra-atoll.yaml) | 9.5 / 9.8 / 9.8 / 8.0 / 7.6 | 92.20 | Exceptional ecology, much more restricted visitor route. |
+| [Belize Barrier Reef Reserve System](../../../countries/BZ/sights/belize-barrier-reef-reserve-system.yaml) | null / 9.6 / 9.7 / null / null | unassessed | Separate serial sites lack a single representative visitor route; remains unranked. |
+| [Tarutao National Marine Park](../../../countries/TH/sights/tarutao-national-marine-park.yaml) | 9.0 / 9.2 / 8.7 / 9.0 / 9.0 | 89.90 | Coherent marine park with lower global evolutionary significance. |
+| [Sipadan Island Reefs](../../../countries/MY/sights/sipadan-island-reefs.yaml) | 9.5 / 9.6 / 9.1 / 9.5 / 8.9 | 93.85 | Outstanding underwater experience but geographically narrower. |
+
+
+## Follow-up: sight-ec-yasuni-national-park — 2026-11-25 (worldwide review)
+
+- [YAML](../../../countries/EC/sights/yasuni-national-park.yaml) · Action: rescore · **source-linked-unverified**; specific scope claims inspected; not comprehensive independent fact-check.
+- Sources inspected 2026-11-25: [Marca Ecuador: Amazonia](https://marcaecuador.com/en/amazonia/); [Ecuador Travel: Amazonia](https://ecuador.travel/en/amazonia/); [Marca Ecuador: tourism and culture, Yasuní visitor guidance](https://marcaecuador.com/en/?actividad=cultura).
+- Decision: Ecuador's official tourism material identifies exceptional biodiversity and licensed visitor operations, and distinguishes inaccessible territories of peoples in isolation. Retain high conservation significance, nature and wildlife; do not count the entire park or the larger biosphere reserve as ordinary visitor exploration. Depth 8.3 represents the bounded, guided forest and river experience. Exact itinerary and access remain provisional; no safety or admission promise. The biosphere-reserve tourism site returned a challenge page, so it is not treated as a verified source.
+- I/U/S/E/D: 9.3 / 9.4 / 9.7 / 8.5 / 9.2 → 9.3 / 9.4 / 9.7 / 8.5 / 8.3. Computed overall: 92.75 → 91.85/100. Categories and GPS unchanged. No new 10 or country multiplier.
+- Outstanding: independently verify the precise representative GPS, normal visitor itinerary breadth, and category-specific comparative claims.
+
+| Worldwide peer (current YAML) | I/U/S/E/D | Overall /100 | Scope comparison |
+| --- | --- | --- | --- |
+| [Cockscomb Basin Wildlife Sanctuary](../../../countries/BZ/sights/cockscomb-basin-wildlife-sanctuary.yaml) | 8.7 / 8.8 / 9.1 / 8.8 / 9.0 | 88.50 | More established visitor trail network. |
+| [Khao Sok National Park](../../../countries/TH/sights/khao-sok-national-park.yaml) | 9.4 / 9.4 / 9.1 / 9.4 / 9.3 | 93.30 | More varied known routes and activities. |
+| [Dana Biosphere Reserve](../../../countries/JO/sights/dana-biosphere-reserve.yaml) | 9.0 / 8.8 / 8.9 / 9.0 / 9.1 | 89.40 | Defined multi-route visitor landscape. |
+| [Aldabra Atoll](../../../countries/SC/sights/aldabra-atoll.yaml) | 9.5 / 9.8 / 9.8 / 8.0 / 7.6 | 92.20 | Exceptional conservation value with limited authorized routes. |
+
