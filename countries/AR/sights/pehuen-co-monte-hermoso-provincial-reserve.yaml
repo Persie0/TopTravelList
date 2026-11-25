@@ -1,0 +1,15 @@
+id: sight-ar-pehuen-co-monte-hermoso-provincial-reserve
+name: "Pehuén Co–Monte Hermoso Provincial Reserve"
+location:
+  country_code: AR
+  latitude: -39.0000
+  longitude: -61.5500
+scores:
+  impact: null
+  uniqueness: 8.7
+  significance: 9.1
+  experience: null
+  depth: null
+  categories:
+    nature: 9.3
+    history: 9.2

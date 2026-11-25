@@ -1,0 +1,16 @@
+id: sight-mw-kamuzu-mausoleum
+name: "Kamuzu Mausoleum"
+location:
+  country_code: MW
+  latitude: -13.9540
+  longitude: 33.7950
+scores:
+  impact: 6.7
+  uniqueness: 7.3
+  significance: 8.3
+  experience: 7.5
+  depth: 6.0
+  categories:
+    history: 8.7
+    architecture: 7.8
+    culture: 8.0

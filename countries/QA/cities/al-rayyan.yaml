@@ -1,0 +1,15 @@
+id: city-qa-al-rayyan
+name: "Al Rayyan"
+location:
+  country_code: QA
+  latitude: 25.2919
+  longitude: 51.4244
+scores:
+  impact: 6.9
+  uniqueness: 6.8
+  significance: 7.3
+  experience: 7.5
+  depth: 7.7
+  categories:
+    culture: 7.6
+    architecture: 7.7

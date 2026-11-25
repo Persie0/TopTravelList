@@ -1,0 +1,15 @@
+id: city-mw-karonga
+name: "Karonga"
+location:
+  country_code: MW
+  latitude: -9.9333
+  longitude: 33.9333
+scores:
+  impact: 6.5
+  uniqueness: 7.6
+  significance: 8.1
+  experience: 7.5
+  depth: 6.8
+  categories:
+    history: 8.6
+    culture: 8.2

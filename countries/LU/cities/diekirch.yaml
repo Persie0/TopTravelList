@@ -1,0 +1,15 @@
+id: city-lu-diekirch
+name: "Diekirch"
+location:
+  country_code: LU
+  latitude: 49.8680
+  longitude: 6.1570
+scores:
+  impact: 7.4
+  uniqueness: 7.5
+  significance: 8.0
+  experience: 7.9
+  depth: 7.7
+  categories:
+    history: 8.5
+    culture: 8.3

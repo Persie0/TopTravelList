@@ -1,0 +1,17 @@
+id: sight-dj-arta-beach
+name: "Arta Beach"
+location:
+  country_code: DJ
+  latitude: 11.5770
+  longitude: 42.8000
+scores:
+  impact: 8.5
+  uniqueness: 8.2
+  significance: 6.5
+  experience: 8.8
+  depth: 7.6
+  categories:
+    beaches: 8.5
+    adventure: 9.2
+    nature: 8.8
+    wildlife: 9.0

@@ -1,0 +1,16 @@
+id: sight-co-gold-museum-bogota
+name: "Gold Museum (Bogotá)"
+location:
+  country_code: CO
+  latitude: 4.6018
+  longitude: -74.0720
+scores:
+  impact: 9.1
+  uniqueness: 9.5
+  significance: 9.6
+  experience: 9.1
+  depth: 8.8
+  categories:
+    history: 9.8
+    culture: 9.7
+    architecture: 8.5

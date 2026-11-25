@@ -1,0 +1,16 @@
+id: sight-ar-tren-a-las-nubes
+name: "Tren a las Nubes"
+location:
+  country_code: AR
+  latitude: -24.1950
+  longitude: -66.4200
+scores:
+  impact: 8.5
+  uniqueness: 8.9
+  significance: 7.9
+  experience: 8.4
+  depth: 7.4
+  categories:
+    photography: 9.2
+    history: 8.4
+    adventure: 8.3

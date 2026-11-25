@@ -1,0 +1,16 @@
+id: city-bh-muharraq
+name: "Muharraq"
+location:
+  country_code: BH
+  latitude: 26.2515
+  longitude: 50.6119
+scores:
+  impact: 8.4
+  uniqueness: 8.8
+  significance: 8.7
+  experience: 8.3
+  depth: 7.9
+  categories:
+    architecture: 8.9
+    culture: 9.0
+    history: 9.0

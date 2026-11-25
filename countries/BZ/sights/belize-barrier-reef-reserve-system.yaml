@@ -1,0 +1,15 @@
+id: sight-bz-belize-barrier-reef-reserve-system
+name: "Belize Barrier Reef Reserve System"
+location:
+  country_code: BZ
+  latitude: 17.1905
+  longitude: -87.8462
+scores:
+  impact: null
+  uniqueness: 9.6
+  significance: 9.7
+  experience: null
+  depth: null
+  categories:
+    nature: 9.6
+    wildlife: 9.5

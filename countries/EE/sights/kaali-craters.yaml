@@ -1,0 +1,15 @@
+id: sight-ee-kaali-craters
+name: "Kaali Meteorite Crater Field"
+location:
+  country_code: EE
+  latitude: 58.372
+  longitude: 22.67
+scores:
+  impact: 8.3
+  uniqueness: 9.0
+  significance: 8.8
+  experience: 8.2
+  depth: 7.8
+  categories:
+    nature: 9
+    photography: 8.4

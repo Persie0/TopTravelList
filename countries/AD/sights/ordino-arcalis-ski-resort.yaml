@@ -1,0 +1,16 @@
+id: sight-ad-ordino-arcalis-ski-resort
+name: "Ordino Arcalís Ski Resort"
+location:
+  country_code: AD
+  latitude: 42.6310
+  longitude: 1.4870
+scores:
+  impact: 8.5
+  uniqueness: 8.2
+  significance: 7.2
+  experience: 8.7
+  depth: 8.4
+  categories:
+    adventure: 9.3
+    nature: 8.9
+    photography: 8.9

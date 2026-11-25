@@ -1,0 +1,15 @@
+id: city-pe-tacna
+name: "Tacna"
+location:
+  country_code: PE
+  latitude: -18.0066
+  longitude: -70.2463
+scores:
+  impact: 7.0
+  uniqueness: 7.2
+  significance: 7.6
+  experience: 7.6
+  depth: 7.4
+  categories:
+    history: 8.2
+    food: 8.1

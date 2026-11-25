@@ -1,0 +1,16 @@
+id: sight-bz-community-baboon-sanctuary
+name: "Community Baboon Sanctuary"
+location:
+  country_code: BZ
+  latitude: 17.555
+  longitude: -88.527
+scores:
+  impact: 7.8
+  uniqueness: 8.3
+  significance: 8.4
+  experience: 8.3
+  depth: 7.5
+  categories:
+    wildlife: 8.9
+    culture: 8.2
+    nature: 8.5

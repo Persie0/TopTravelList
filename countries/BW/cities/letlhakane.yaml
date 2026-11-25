@@ -1,0 +1,15 @@
+id: city-bw-letlhakane
+name: "Letlhakane"
+location:
+  country_code: BW
+  latitude: -21.4167
+  longitude: 25.5833
+scores:
+  impact: 5.8
+  uniqueness: 6.4
+  significance: 6.5
+  experience: 6.9
+  depth: 6.2
+  categories:
+    culture: 7.1
+    food: 7.1

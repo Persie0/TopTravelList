@@ -1,0 +1,16 @@
+id: sight-ee-seaplane-harbour
+name: "Seaplane Harbour Maritime Museum"
+location:
+  country_code: EE
+  latitude: 59.451
+  longitude: 24.738
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 8.4
+  experience: 9.0
+  depth: 8.6
+  categories:
+    architecture: 8.8
+    history: 8.7
+    family: 9.1

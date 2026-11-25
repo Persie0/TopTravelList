@@ -1,0 +1,15 @@
+id: sight-uy-plaza-de-toros-real-de-san-carlos
+name: "Plaza de Toros Real de San Carlos"
+location:
+  country_code: UY
+  latitude: -34.4400
+  longitude: -57.8668
+scores:
+  impact: 7.9
+  uniqueness: 8.3
+  significance: 8.1
+  experience: 8.0
+  depth: 7.3
+  categories:
+    architecture: 8.7
+    history: 8.4

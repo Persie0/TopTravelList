@@ -1,0 +1,16 @@
+id: sight-md-castel-mimi-estate
+name: "Castel Mimi Estate"
+location:
+  country_code: MD
+  latitude: 46.8842
+  longitude: 29.1931
+scores:
+  impact: 8.1
+  uniqueness: 8.1
+  significance: 7.9
+  experience: 8.6
+  depth: 7.8
+  categories:
+    architecture: 8.9
+    food: 9.0
+    culture: 8.6

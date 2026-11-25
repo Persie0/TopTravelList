@@ -1,0 +1,16 @@
+id: sight-cl-conguillio-national-park
+name: "Conguillío National Park"
+location:
+  country_code: CL
+  latitude: -38.6700
+  longitude: -71.6500
+scores:
+  impact: 9.1
+  uniqueness: 9.1
+  significance: 8.9
+  experience: 8.8
+  depth: 8.7
+  categories:
+    nature: 9.5
+    photography: 9.5
+    adventure: 9.0

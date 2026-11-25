@@ -1,0 +1,15 @@
+id: sight-lu-roman-villa-echternach
+name: "Roman Villa Echternach"
+location:
+  country_code: LU
+  latitude: 49.8005
+  longitude: 6.4140
+scores:
+  impact: 7.5
+  uniqueness: 8.1
+  significance: 8.5
+  experience: 7.9
+  depth: 7.6
+  categories:
+    history: 8.9
+    architecture: 8.4

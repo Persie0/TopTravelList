@@ -1,0 +1,15 @@
+id: city-bo-villa-tunari
+name: "Villa Tunari"
+location:
+  country_code: BO
+  latitude: -16.9720
+  longitude: -65.4210
+scores:
+  impact: 7.0
+  uniqueness: 7.3
+  significance: 6.4
+  experience: 7.8
+  depth: 6.7
+  categories:
+    relaxation: 8.1
+    photography: 7.9

@@ -1,0 +1,16 @@
+id: sight-bz-crystal-cave
+name: "Crystal Cave"
+location:
+  country_code: BZ
+  latitude: 17.150
+  longitude: -88.682
+scores:
+  impact: 8.4
+  uniqueness: 8.6
+  significance: 8.5
+  experience: 8.7
+  depth: 7.6
+  categories:
+    adventure: 9.0
+    nature: 8.7
+    history: 8.5

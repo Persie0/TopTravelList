@@ -1,0 +1,15 @@
+id: sight-sv-santa-ana-theatre
+name: "Santa Ana Theatre"
+location:
+  country_code: SV
+  latitude: 13.9941
+  longitude: -89.5577
+scores:
+  impact: 8.0
+  uniqueness: 8.0
+  significance: 8.3
+  experience: 7.9
+  depth: 7.3
+  categories:
+    architecture: 8.7
+    culture: 8.5

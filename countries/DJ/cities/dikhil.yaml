@@ -1,0 +1,15 @@
+id: city-dj-dikhil
+name: "Dikhil"
+location:
+  country_code: DJ
+  latitude: 11.1050
+  longitude: 42.3700
+scores:
+  impact: 6.4
+  uniqueness: 7.1
+  significance: 6.8
+  experience: 7.2
+  depth: 6.1
+  categories:
+    culture: 7.7
+    photography: 7.5

@@ -1,0 +1,17 @@
+id: sight-mw-likoma-island
+name: "Likoma Island"
+location:
+  country_code: MW
+  latitude: -12.0600
+  longitude: 34.7380
+scores:
+  impact: 8.7
+  uniqueness: 8.7
+  significance: 8.0
+  experience: 8.6
+  depth: 8.2
+  categories:
+    nature: 8.9
+    photography: 9.1
+    beaches: 8.9
+    culture: 8.7

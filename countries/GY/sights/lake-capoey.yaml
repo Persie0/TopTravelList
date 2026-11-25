@@ -1,0 +1,15 @@
+id: sight-gy-lake-capoey
+name: "Lake Capoey"
+location:
+  country_code: GY
+  latitude: 7.1167
+  longitude: -58.4667
+scores:
+  impact: 7.4
+  uniqueness: 7.5
+  significance: 6.6
+  experience: 7.9
+  depth: 6.9
+  categories:
+    nature: 8.0
+    relaxation: 8.2

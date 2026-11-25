@@ -1,0 +1,15 @@
+id: city-ar-san-fernando-del-valle-de-catamarca
+name: "San Fernando del Valle de Catamarca"
+location:
+  country_code: AR
+  latitude: -28.4696
+  longitude: -65.7852
+scores:
+  impact: 6.9
+  uniqueness: 7.3
+  significance: 7.5
+  experience: 7.4
+  depth: 6.7
+  categories:
+    history: 8.0
+    culture: 8.2

@@ -1,0 +1,15 @@
+id: sight-uy-museo-del-carnaval
+name: "Museo del Carnaval"
+location:
+  country_code: UY
+  latitude: -34.9056
+  longitude: -56.2135
+scores:
+  impact: 7.5
+  uniqueness: 8.2
+  significance: 8.1
+  experience: 8.0
+  depth: 7.3
+  categories:
+    culture: 8.9
+    history: 8.2

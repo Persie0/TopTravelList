@@ -1,0 +1,15 @@
+id: sight-cl-mylodon-cave-natural-monument
+name: "Mylodon Cave Natural Monument"
+location:
+  country_code: CL
+  latitude: -51.5650
+  longitude: -72.6160
+scores:
+  impact: 7.9
+  uniqueness: 8.1
+  significance: 8.4
+  experience: 8.0
+  depth: 7.0
+  categories:
+    nature: 8.5
+    history: 8.9

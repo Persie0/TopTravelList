@@ -1,0 +1,16 @@
+id: sight-pe-cusco-cathedral
+name: "Cusco Cathedral"
+location:
+  country_code: PE
+  latitude: -13.5168
+  longitude: -71.9772
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 9.1
+  experience: 8.5
+  depth: 7.7
+  categories:
+    architecture: 9.4
+    history: 9.3
+    culture: 9.2

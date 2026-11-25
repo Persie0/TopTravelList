@@ -2,19 +2,39 @@
 
 # Qatar (QA) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**13 ranked** · **1 unassessed** · **14 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
 This is the **complete ranking for this country's available dataset**, using absolute worldwide scores, **not country-relative scores**. Overall scores are out of 100; category scores are out of 10 and shown highest first (the top three are bold). Types are inferred from names, not separately verified.
 
-**Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, or click its GPS coordinates to open **Google Maps**. Locations are approximate representative points, not necessarily entrance coordinates.
+**Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (13)
 
-No cities, towns & villages have been assessed for **Qatar** yet.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Doha](cities/doha.yaml) | City / town | **84.85** | **Architecture 9.0**, **Culture 8.6**, **Food 8.5** | 8.5 / 8.4 / 8.1 / 8.9 / 8.8 | [25.2854, 51.531](https://www.google.com/maps/search/?api=1&query=25.2854,51.531) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Doha%2C%20Qatar) |
+| 2 | [Al Wakrah](cities/al-wakrah.yaml) | City / town | **76.25** | **Culture 8.0**, **Food 8.0**, **Architecture 7.9** | 7.6 / 7.7 / 7.5 / 8.0 / 7.2 | [25.1659, 51.5976](https://www.google.com/maps/search/?api=1&query=25.1659,51.5976) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Al%20Wakrah%2C%20Qatar) |
+| 3 | [Lusail](cities/lusail.yaml) | City / town | **74.50** | **Architecture 8.3**, **Relaxation 8.0** | 7.7 / 7.5 / 6.7 / 7.9 / 7.4 | [25.42, 51.49](https://www.google.com/maps/search/?api=1&query=25.42,51.49) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lusail%2C%20Qatar) |
+| 4 | [Al Khor](cities/al-khor.yaml) | City / town | **72.30** | **Culture 7.7**, **Food 7.5** | 7.1 / 7.3 / 7.3 / 7.5 / 6.9 | [25.6839, 51.5058](https://www.google.com/maps/search/?api=1&query=25.6839,51.5058) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Al%20Khor%2C%20Qatar) |
+| 5 | [Al Rayyan](cities/al-rayyan.yaml) | City / town | **71.25** | **Architecture 7.7**, **Culture 7.6** | 6.9 / 6.8 / 7.3 / 7.5 / 7.7 | [25.2919, 51.4244](https://www.google.com/maps/search/?api=1&query=25.2919,51.4244) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Al%20Rayyan%2C%20Qatar) |
+| 6 | [Al Ruwais](cities/al-ruwais.yaml) | City / town | **69.50** | **Relaxation 7.6**, **Culture 7.4**, **Photography 7.4** | 6.9 / 7.1 / 6.9 / 7.3 / 6.3 | [26.139, 51.216](https://www.google.com/maps/search/?api=1&query=26.139,51.216) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Al%20Ruwais%2C%20Qatar) |
+| 7 | [Umm Salal Mohammed](cities/umm-salal-mohammed.yaml) | City / town | **67.65** | **History 7.6**, **Culture 7.3** | 6.5 / 6.8 / 7.2 / 6.9 / 6.4 | [25.411, 51.404](https://www.google.com/maps/search/?api=1&query=25.411,51.404) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Umm%20Salal%20Mohammed%2C%20Qatar) |
+| 8 | [Zekreet Village](cities/zekreet-village.yaml) | Village | **66.25** | **History 7.3**, **Photography 7.2** | 6.5 / 6.9 / 6.8 / 6.8 / 5.7 | [25.482, 50.845](https://www.google.com/maps/search/?api=1&query=25.482,50.845) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Zekreet%20Village%2C%20Qatar) |
+| 9 | [Al Thakhira](cities/al-thakhira.yaml) | City / town | **66.00** | **Relaxation 7.3**, **Culture 6.9** | 6.5 / 6.8 / 6.5 / 7.0 / 6.0 | [25.734, 51.55](https://www.google.com/maps/search/?api=1&query=25.734,51.55) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Al%20Thakhira%2C%20Qatar) |
+| 10 | [Abu Dhalouf](cities/abu-dhalouf.yaml) | City / town | **63.90** | **Relaxation 7.6**, **Family 7.2** | 6.3 / 6.5 / 6.1 / 7.1 / 5.9 | [26.116, 51.171](https://www.google.com/maps/search/?api=1&query=26.116,51.171) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Abu%20Dhalouf%2C%20Qatar) |
+| 11 | [Al Shahaniya](cities/al-shahaniya.yaml) | City / town | **63.15** | **Culture 7.0** | 6.1 / 6.5 / 6.4 / 6.6 / 5.9 | [25.371, 51.226](https://www.google.com/maps/search/?api=1&query=25.371,51.226) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Al%20Shahaniya%2C%20Qatar) |
+| 12 | [Madinat Ash Shamal](cities/madinat-ash-shamal.yaml) | City / town | **63.00** | **Relaxation 6.9**, **Culture 6.7** | 6.2 / 6.3 / 6.3 / 6.7 / 6.0 | [26.129, 51.2](https://www.google.com/maps/search/?api=1&query=26.129,51.2) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Madinat%20Ash%20Shamal%2C%20Qatar) |
+| 13 | [Mesaieed](cities/mesaieed.yaml) | City / town | **61.85** | **Culture 6.5** | 6.0 / 6.1 / 6.5 / 6.4 / 6.0 | [24.992, 51.55](https://www.google.com/maps/search/?api=1&query=24.992,51.55) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mesaieed%2C%20Qatar) |
 
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+## Not yet fully assessed (1)
+
+These destinations have no rank until all five core scores are assessed.
+
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| — | [Dukhan](cities/dukhan.yaml) | City / town | **—** | **History 7.5** | — / 6.8 / 7.5 / — / — | [25.424, 50.783](https://www.google.com/maps/search/?api=1&query=25.424,50.783) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Dukhan%2C%20Qatar) |
 
 ---
 

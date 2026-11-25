@@ -1,0 +1,16 @@
+id: city-bj-grand-popo
+name: "Grand-Popo"
+location:
+  country_code: BJ
+  latitude: 6.2820
+  longitude: 1.8250
+scores:
+  impact: 7.6
+  uniqueness: 8.0
+  significance: 7.0
+  experience: 8.3
+  depth: 7.3
+  categories:
+    culture: 8.2
+    photography: 8.5
+    relaxation: 8.3

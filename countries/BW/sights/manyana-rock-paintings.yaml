@@ -1,0 +1,16 @@
+id: sight-bw-manyana-rock-paintings
+name: "Manyana Rock Paintings"
+location:
+  country_code: BW
+  latitude: -24.7550
+  longitude: 25.5700
+scores:
+  impact: 7.2
+  uniqueness: 8.3
+  significance: 8.1
+  experience: 7.7
+  depth: 6.5
+  categories:
+    history: 8.7
+    culture: 8.6
+    photography: 7.7

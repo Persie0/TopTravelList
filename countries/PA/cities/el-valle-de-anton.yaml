@@ -1,0 +1,16 @@
+id: city-pa-el-valle-de-anton
+name: "El Valle de Antón"
+location:
+  country_code: PA
+  latitude: 8.602
+  longitude: -80.131
+scores:
+  impact: 7.8
+  uniqueness: 8.1
+  significance: 6.7
+  experience: 8.2
+  depth: 7.3
+  categories:
+    relaxation: 8.3
+    photography: 8.2
+    culture: 7.8

@@ -1,0 +1,16 @@
+id: sight-ad-casa-d-areny-plandolit-museum
+name: "Casa d’Areny-Plandolit Museum"
+location:
+  country_code: AD
+  latitude: 42.5557
+  longitude: 1.5337
+scores:
+  impact: 7.6
+  uniqueness: 8.3
+  significance: 8.6
+  experience: 8.3
+  depth: 7.5
+  categories:
+    history: 9.0
+    culture: 8.9
+    architecture: 8.3

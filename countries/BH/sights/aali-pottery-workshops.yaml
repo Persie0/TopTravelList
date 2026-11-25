@@ -1,0 +1,14 @@
+id: sight-bh-aali-pottery-workshops
+name: "Aali Pottery Workshops"
+location:
+  country_code: BH
+  latitude: 26.1530
+  longitude: 50.5150
+scores:
+  impact: 7.2
+  uniqueness: 7.9
+  significance: 7.3
+  experience: 8.0
+  depth: 6.6
+  categories:
+    culture: 8.6

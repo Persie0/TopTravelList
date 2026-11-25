@@ -1,0 +1,16 @@
+id: sight-pa-chagres-national-park
+name: "Chagres National Park"
+location:
+  country_code: PA
+  latitude: 9.30
+  longitude: -79.35
+scores:
+  impact: 8.5
+  uniqueness: 8.6
+  significance: 8.7
+  experience: 8.6
+  depth: 8.5
+  categories:
+    nature: 9.1
+    wildlife: 8.9
+    adventure: 8.7

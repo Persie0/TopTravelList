@@ -1,0 +1,16 @@
+id: sight-md-capriana-monastery
+name: "Căpriana Monastery"
+location:
+  country_code: MD
+  latitude: 47.1164
+  longitude: 28.5062
+scores:
+  impact: 8.0
+  uniqueness: 8.3
+  significance: 8.6
+  experience: 8.3
+  depth: 7.6
+  categories:
+    history: 9.0
+    architecture: 8.8
+    culture: 8.8

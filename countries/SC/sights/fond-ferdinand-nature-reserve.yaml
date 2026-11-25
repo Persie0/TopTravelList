@@ -1,0 +1,16 @@
+id: sight-sc-fond-ferdinand-nature-reserve
+name: "Fond Ferdinand Nature Reserve"
+location:
+  country_code: SC
+  latitude: -4.3570
+  longitude: 55.7590
+scores:
+  impact: 8.6
+  uniqueness: 9.0
+  significance: 8.5
+  experience: 8.6
+  depth: 7.9
+  categories:
+    nature: 9.2
+    photography: 8.9
+    wildlife: 8.6

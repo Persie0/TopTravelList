@@ -1,0 +1,16 @@
+id: sight-ar-aconcagua-provincial-park
+name: "Aconcagua Provincial Park"
+location:
+  country_code: AR
+  latitude: -32.6530
+  longitude: -70.0100
+scores:
+  impact: 9.5
+  uniqueness: 9.1
+  significance: 9.2
+  experience: 8.2
+  depth: 8.7
+  categories:
+    nature: 9.5
+    photography: 9.5
+    adventure: 9.7

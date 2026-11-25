@@ -1,0 +1,17 @@
+id: city-am-yerevan
+name: "Yerevan"
+location:
+  country_code: AM
+  latitude: 40.1792
+  longitude: 44.4991
+scores:
+  impact: 8.5
+  uniqueness: 8.5
+  significance: 8.6
+  experience: 8.8
+  depth: 8.9
+  categories:
+    architecture: 8.8
+    culture: 9.1
+    food: 8.9
+    history: 8.8

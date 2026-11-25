@@ -1,0 +1,15 @@
+id: sight-pe-museo-de-la-nacion-lima
+name: "Museo de la Nación (Lima)"
+location:
+  country_code: PE
+  latitude: -12.0850
+  longitude: -77.0000
+scores:
+  impact: null
+  uniqueness: 7.6
+  significance: 8.2
+  experience: null
+  depth: null
+  categories:
+    history: 8.7
+    culture: 8.5

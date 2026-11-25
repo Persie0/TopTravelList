@@ -1,0 +1,16 @@
+id: city-hn-copan-ruinas
+name: "Copán Ruinas"
+location:
+  country_code: HN
+  latitude: 14.8386
+  longitude: -89.1569
+scores:
+  impact: 7.8
+  uniqueness: 8.0
+  significance: 7.5
+  experience: 8.2
+  depth: 7.3
+  categories:
+    culture: 8.3
+    food: 8.0
+    photography: 8.2

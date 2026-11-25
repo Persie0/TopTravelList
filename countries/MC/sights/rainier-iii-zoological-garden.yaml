@@ -1,0 +1,15 @@
+id: sight-mc-rainier-iii-zoological-garden
+name: "Rainier III Zoological Garden"
+location:
+  country_code: MC
+  latitude: 43.7310
+  longitude: 7.4190
+scores:
+  impact: 7.3
+  uniqueness: 7.4
+  significance: 6.7
+  experience: 7.9
+  depth: 7.1
+  categories:
+    family: 8.4
+    nature: 7.9

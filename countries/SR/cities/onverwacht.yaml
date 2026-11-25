@@ -1,0 +1,15 @@
+id: city-sr-onverwacht
+name: "Onverwacht"
+location:
+  country_code: SR
+  latitude: 5.5833
+  longitude: -55.1833
+scores:
+  impact: 5.8
+  uniqueness: 6.3
+  significance: 6.2
+  experience: 6.3
+  depth: 5.7
+  categories:
+    culture: 6.8
+    history: 6.5

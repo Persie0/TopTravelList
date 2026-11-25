@@ -1,0 +1,15 @@
+id: city-bw-palapye
+name: "Palapye"
+location:
+  country_code: BW
+  latitude: -22.5460
+  longitude: 27.1270
+scores:
+  impact: 6.2
+  uniqueness: 6.6
+  significance: 6.7
+  experience: 7.2
+  depth: 6.5
+  categories:
+    culture: 7.4
+    food: 7.4

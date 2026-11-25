@@ -1,0 +1,16 @@
+id: sight-bz-south-water-caye-marine-reserve
+name: "South Water Caye Marine Reserve"
+location:
+  country_code: BZ
+  latitude: 16.667142
+  longitude: -88.193197
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 9.2
+  experience: 9.1
+  depth: 8.8
+  categories:
+    nature: 9.3
+    wildlife: 9.2
+    adventure: 9.1

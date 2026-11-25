@@ -1,0 +1,15 @@
+id: sight-pa-darien-national-park
+name: "Darien National Park"
+location:
+  country_code: PA
+  latitude: 7.733
+  longitude: -77.55
+scores:
+  impact: null
+  uniqueness: 9.5
+  significance: 9.6
+  experience: null
+  depth: null
+  categories:
+    nature: 9.6
+    wildlife: 9.6

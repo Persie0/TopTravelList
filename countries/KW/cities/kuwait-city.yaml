@@ -1,0 +1,16 @@
+id: city-kw-kuwait-city
+name: "Kuwait City"
+location:
+  country_code: KW
+  latitude: 29.3759
+  longitude: 47.9774
+scores:
+  impact: 8.1
+  uniqueness: 8.1
+  significance: 8.4
+  experience: 8.4
+  depth: 8.4
+  categories:
+    architecture: 8.5
+    culture: 8.5
+    food: 8.5

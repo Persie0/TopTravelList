@@ -1,0 +1,16 @@
+id: city-br-vitoria
+name: "Vitória"
+location:
+  country_code: BR
+  latitude: -20.3155
+  longitude: -40.3128
+scores:
+  impact: 7.7
+  uniqueness: 7.8
+  significance: 7.3
+  experience: 8.2
+  depth: 7.7
+  categories:
+    beaches: 8.2
+    photography: 8.5
+    food: 8.3

@@ -1,0 +1,16 @@
+id: city-sz-lobamba
+name: "Lobamba"
+location:
+  country_code: SZ
+  latitude: -26.4667
+  longitude: 31.2000
+scores:
+  impact: 7.2
+  uniqueness: 8.1
+  significance: 8.5
+  experience: 7.6
+  depth: 7.0
+  categories:
+    culture: 8.9
+    history: 8.8
+    architecture: 7.6
