@@ -2,7 +2,7 @@
 
 # Sao Tome and Principe (ST) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**12 ranked** · **0 unassessed** · **12 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,22 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, or click its GPS coordinates to open **Google Maps**. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (12)
 
-No cities, towns & villages have been assessed for **Sao Tome and Principe** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps |
+| ---: | --- | --- | ---: | --- | --- | --- |
+| 1 | [Santo António (Príncipe)](cities/santo-antonio-principe.yaml) | City / town | **77.85** | **Photography 8.5**, **Culture 8.4**, **Architecture 8.1**, Food 7.9 | 7.8 / 8.2 / 7.5 / 8.1 / 6.8 | [1.6394, 7.4195](https://www.google.com/maps/search/?api=1&query=1.6394,7.4195) |
+| 2 | [São Tomé](cities/sao-tome.yaml) | City / town | **77.55** | **Culture 8.5**, **History 8.4**, **Food 8.3**, Architecture 7.7 | 7.4 / 7.8 / 8.1 / 7.9 / 7.8 | [0.3365, 6.7273](https://www.google.com/maps/search/?api=1&query=0.3365,6.7273) |
+| 3 | [São João dos Angolares](cities/sao-joao-dos-angolares.yaml) | City / town | **74.15** | **Culture 8.5**, **Food 8.1**, **History 7.9** | 7.1 / 8.0 / 7.4 / 7.7 / 6.5 | [0.135, 6.649](https://www.google.com/maps/search/?api=1&query=0.135,6.649) |
+| 4 | [Santa Catarina](cities/santa-catarina.yaml) | City / town | **72.40** | **Photography 8.5**, **Culture 7.9** | 7.6 / 7.8 / 6.4 / 7.6 / 5.9 | [0.252, 6.474](https://www.google.com/maps/search/?api=1&query=0.252,6.474) |
+| 5 | [Porto Alegre](cities/porto-alegre.yaml) | City / town | **70.45** | **Photography 8.1**, **Culture 7.7**, **Food 7.6** | 7.2 / 7.6 / 6.3 / 7.5 / 6.0 | [0.034, 6.53](https://www.google.com/maps/search/?api=1&query=0.034,6.53) |
+| 6 | [Santana](cities/santana.yaml) | City / town | **69.60** | **Photography 7.8**, **Culture 7.7**, **Food 7.5** | 7.0 / 7.3 / 6.5 / 7.5 / 6.1 | [0.257, 6.741](https://www.google.com/maps/search/?api=1&query=0.257,6.741) |
+| 7 | [Pantufo](cities/pantufo.yaml) | City / town | **68.65** | **Culture 7.8**, **Food 7.7** | 6.8 / 7.4 / 6.4 / 7.3 / 6.0 | [0.315, 6.75](https://www.google.com/maps/search/?api=1&query=0.315,6.75) |
+| 8 | [Malanza](cities/malanza.yaml) | City / town | **68.50** | **Culture 7.7**, **Photography 7.6** | 6.8 / 7.4 / 6.5 / 7.2 / 5.8 | [0.055, 6.557](https://www.google.com/maps/search/?api=1&query=0.055,6.557) |
+| 9 | [Micoló](cities/micolo.yaml) | City / town | **68.40** | **Photography 7.7**, **Culture 7.6** | 6.9 / 7.3 / 6.3 / 7.3 / 5.9 | [0.409, 6.69](https://www.google.com/maps/search/?api=1&query=0.409,6.69) |
+| 10 | [Guadalupe](cities/guadalupe.yaml) | City / town | **65.90** | **Culture 7.4**, **Food 7.3** | 6.3 / 6.8 / 6.7 / 7.0 / 6.1 | [0.379, 6.638](https://www.google.com/maps/search/?api=1&query=0.379,6.638) |
+| 11 | [Trindade](cities/trindade.yaml) | City / town | **64.85** | **Culture 7.3**, **Food 7.2** | 6.2 / 6.6 / 6.6 / 6.9 / 6.2 | [0.298, 6.68](https://www.google.com/maps/search/?api=1&query=0.298,6.68) |
+| 12 | [Neves](cities/neves.yaml) | City / town | **64.75** | **Culture 7.3**, **Food 7.2** | 6.3 / 6.6 / 6.5 / 6.9 / 6.0 | [0.359, 6.552](https://www.google.com/maps/search/?api=1&query=0.359,6.552) |
 
 ---
 
