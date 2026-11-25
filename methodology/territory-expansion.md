@@ -144,3 +144,7 @@ Original Finnish reviews archived. Two new villages and eight new sights; Pommer
 | sight-fr-guyane-park | sight-gf-guyane-park |
 
 [Original France review](reviews/FR/migration-history-GF.md). Preserve 89.05 scoped park profile; add four settlements and nine specifically scoped sights. Restricted park core and customary territories excluded from ordinary visitor experience; CNES public tour separate from museum; no Devil's Island landing. Parent names and approximate points screened. Full geographic/reference audit remains outstanding.
+
+### Mayotte coverage — 2026-11-25
+
+FR generated inventory screened by names and approximate coordinates; no matching parent record identified. Initial coverage: two settlements and ten sights, including eight ranked sights and two unranked heritage sites (MuMa and Tsingoni mosque). No whole marine-park score, no guarantee of post-Chido access or animal sightings. Separate geographic code does not imply a position on sovereignty. Source excerpts and approximate coordinate references checked; full factual and geographic audit remains outstanding.

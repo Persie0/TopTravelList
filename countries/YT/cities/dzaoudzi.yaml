@@ -1,0 +1,15 @@
+id: city-yt-dzaoudzi
+name: "Dzaoudzi (historic town)"
+location:
+  country_code: YT
+  latitude: -12.7783
+  longitude: 45.256
+scores:
+  impact: 7.6
+  uniqueness: 8.1
+  significance: 8.3
+  experience: 7.3
+  depth: 7.0
+  categories:
+    history: 8.5
+    architecture: 8.2

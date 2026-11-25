@@ -1,0 +1,16 @@
+id: sight-yt-mont-choungui
+name: "Mont Choungui"
+location:
+  country_code: YT
+  latitude: -12.9569
+  longitude: 45.1337
+scores:
+  impact: 8.9
+  uniqueness: 8.4
+  significance: 7.8
+  experience: 8.5
+  depth: 7.6
+  categories:
+    nature: 8.8
+    photography: 9.1
+    adventure: 8.7

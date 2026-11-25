@@ -1,0 +1,16 @@
+id: sight-yt-choizil-islets
+name: "Îlots Choizil"
+location:
+  country_code: YT
+  latitude: -12.667
+  longitude: 45.052
+scores:
+  impact: 8.9
+  uniqueness: 8.6
+  significance: 7.9
+  experience: 8.7
+  depth: 7.6
+  categories:
+    nature: 8.9
+    beaches: 8.9
+    photography: 9.1

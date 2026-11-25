@@ -1,0 +1,15 @@
+id: sight-yt-muma
+name: "Musée de Mayotte (MuMa)"
+location:
+  country_code: YT
+  latitude: -12.777
+  longitude: 45.257
+scores:
+  impact: 7.5
+  uniqueness: 8.4
+  significance: 8.7
+  experience: null
+  depth: null
+  categories:
+    history: 8.8
+    culture: 8.8
