@@ -469,3 +469,86 @@
 - Earlier decision: none.
 - Verification still needed: Confirm customary access and swimming conditions.
 
+
+
+## 2026-11-25 — heritage access verification
+
+- **sight-fj-sovi-basin:** National Trust of Fiji explicitly states the basin is closed to recreational visitors; research requires application. Its 16,344-hectare forest conservation scope and customary co-management are documented (https://nationaltrust.org.fj/sovi-basin/). Retain null experience/depth, not zero. This is a normal permitted visitor-scope limitation, not a penalty for distance or temporary disruption.
+- **sight-fj-yaduataba-crested-iguana-sanctuary:** National Trust explicitly states no recreational visitor access and identifies dry forest habitat and crested iguana conservation (https://nationaltrust.org.fj/iguana/). Retain null impact/experience/depth; do not infer ordinary wildlife viewing from research access.
+
+Both authority pages inspected 2026-11-25. Existing ecological scores remain editorial, and precise location corroboration remains incomplete. Evidence status remains unassessed for both.
+
+### sight-fj-namena-marine-reserve — Namena Marine Reserve — 2026-11-25
+
+- YAML: [source](../../../countries/FJ/sights/namena-marine-reserve.yaml)
+- Action: new
+- Precise subject: Community-managed no-take reef reserve surrounding Namenalala; not all Savusavu or the adjacent Great Sea Reef.
+- Location check: GeoNames island point within reserve, representative component proxy rather than dive entry: https://mapcarta.com/16750142 ; https://www.geonames.org/advanced-search.html?q=Figi&startRow=1250
+- Evidence status: source-linked-unverified
+- Checked factual reference excerpts (2026-11-25):
+  - Wildlife Conservation Society describes local management, reef biodiversity, dive-tag financing and threats from fishing and cyclones: https://fiji.wcs.org/Initiatives/Protected-Areas/Namena-Marine-Reserve.aspx
+  - Coral Reef Alliance describes the 60 km² reserve, community management and marine biodiversity: https://coral.org/namena-marine-reserve-fiji-case-study/
+  - Tourism Fiji documents diving operators and soft coral, reef fish and marine encounters: https://www.fiji.travel/things-to-do/diving/discover-fijis-best-dive-regions ; https://www.fiji.travel/things-to-do/diving/experience-fiji-under-the-sea
+  - WCS research release documents higher shark abundance within the reserve than adjacent fished areas, based on a historical study: https://newsroom.wcs.org/News-Releases/articleType/ArticleView/articleId/5027/Fijis-Largest-Marine-Reserve-Swarming-With-Sharks.aspx
+- Missing or uncertain facts: Current reef condition, reserve boundaries, precise representative coordinates and operator access require further verification; no guaranteed encounters.
+
+#### Worldwide peer comparisons
+- Sipadan Island Reefs (Malaysia), 9.5/9.6/9.1/9.5/8.9: stronger global benchmark for exceptional underwater formations and encounters.
+- Ang Thong National Marine Park (Thailand), 9.0/9.0/8.6/9.1/8.9: more varied above-water landscape but less reef-focused.
+- Cham Islands (Vietnam), 8.8/9.0/8.4/9.0/8.7: comparable reef visits, less distinctive documented conservation record.
+- Rainbow Reef (Fiji), 9.2/9.1/8.7/9.2/8.8: comparable soft-coral appeal; Namena has distinct community reserve and conservation evidence.
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | — | 9.2 | Colourful reef scenery and substantial marine-life viewing, below Sipadan’s global reference level. |
+| Uniqueness | — | 9.1 | Distinctive soft-coral and reef assemblages with strong marine biodiversity, not globally unmatched. |
+| Significance | — | 9.1 | Longstanding locally managed no-take conservation and documented ecological importance support outstanding significance. |
+| Experience | — | 9.2 | Established dive trips across multiple reef habitats offer highly rewarding exploration; conditions and wildlife encounters vary. |
+| Depth | — | 8.9 | Several dive environments and reef habitats provide repeat exploration; narrower experience than extensive mixed marine and land parks. |
+
+- Applicable category scores: nature 9.4, wildlife 9.4, adventure 9.3; provisional and scoped to named destination.
+- Computed worldwide overall: 91.25/100
+- High-score challenge: 90+ total reflects convergence of strong independently justified reef scenery, biodiversity, conservation and diving fields; below Sipadan in impact, uniqueness and experience. No 9.5+ fields or perfect tens.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide v2 rating based on documented visitor experiences and actual branch YAML peers.
+- Earlier decision: none.
+- Verification still needed: Current reef condition, reserve boundaries, precise representative coordinates and operator access require further verification; no guaranteed encounters. Canonical global validation and benchmark diagnostics outstanding.
+
+
+### sight-fj-colo-i-suva-forest-park — Colo-i-Suva Forest Park — 2026-11-25
+
+- YAML: [source](../../../countries/FJ/sights/colo-i-suva-forest-park.yaml)
+- Action: new
+- Precise subject: Public forest park, pools and trails near Suva; not the entire forest reserve or Sovi Basin.
+- Location check: GeoNames-derived representative park point: https://mapcarta.com/39213734 ; not a verified trailhead.
+- Evidence status: source-linked-unverified
+- Checked factual reference excerpts (2026-11-25):
+  - Tourism Fiji describes 6.5 km of walks, natural swimming pools and wildlife observation: https://www.fiji.travel/things-to-do/hikes-walks/the-best-walks-and-hikes-in-fiji
+  - Lonely Planet independently describes trails, pools and forest views: https://www.lonelyplanet.com/points-of-interest/colo-i-suva-forest-park/441056
+  - Fiji Times reports conservation recognition and native flora and fauna: https://www.fijitimes.com.fj/colo-i-suva-park/
+- Missing or uncertain facts: Exact location, current trail and pool conditions and ecological claims remain subject to further corroboration.
+
+#### Worldwide peer comparisons
+- Khao Yai National Park (Thailand), 9.0/9.1/9.0/9.0/9.2: much larger and more biodiverse forest landscape.
+- Erawan National Park (Thailand), 8.8/8.7/8.0/9.1/8.9: more spectacular and extensive waterfall experience.
+- Taman Negara Canopy Walkway (Malaysia), 7.9/7.8/7.0/8.4/7.0: comparable focused forest recreation, different viewing experience.
+- Vienna Woods Biosphere Reserve (Austria), 7.5/7.4/8.2/8.2/8.8: comparable nearby-city forest recreation, much broader landscape.
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | — | 7.7 | Pleasant forest scenery, stream pools and shaded trails, not a flagship global waterfall landscape. |
+| Uniqueness | — | 7.5 | Fijian forest and wildlife setting offers distinctiveness, but similar pool and forest recreation exists worldwide. |
+| Significance | — | 7.6 | Meaningful local habitat conservation; does not inherit the importance of larger protected Fijian landscapes. |
+| Experience | — | 8.3 | Documented walks and natural pools offer rewarding focused recreation and wildlife observation. |
+| Depth | — | 7.6 | Several kilometres of trails offer a meaningful visit, but breadth is much lower than extensive wilderness parks. |
+
+- Applicable category scores: nature 8.2, wildlife 7.8, relaxation 8.0; provisional and scoped to named destination.
+- Computed worldwide overall: 77.10/100
+- High-score challenge: No 9.5+ fields or 90+ overall.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide v2 rating based on documented visitor experiences and actual branch YAML peers.
+- Earlier decision: none.
+- Verification still needed: Exact location, current trail and pool conditions and ecological claims remain subject to further corroboration. Canonical global validation and benchmark diagnostics outstanding.
+

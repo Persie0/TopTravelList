@@ -134,7 +134,7 @@ Every registered country has a linked folder below. The status is determined fro
 | [El Salvador](countries/SV/) (`SV`) | [24](countries/SV/cities.md) | [54](countries/SV/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=El%20Salvador) |
 | [Estonia](countries/EE/) (`EE`) | [15](countries/EE/cities.md) | [42](countries/EE/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Estonia) |
 | [Eswatini](countries/SZ/) (`SZ`) | [15](countries/SZ/cities.md) | [30](countries/SZ/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Eswatini) |
-| [Fiji](countries/FJ/) (`FJ`) | [7](countries/FJ/cities.md) | [13](countries/FJ/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Fiji) |
+| [Fiji](countries/FJ/) (`FJ`) | [7](countries/FJ/cities.md) | [15](countries/FJ/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Fiji) |
 | [Finland](countries/FI/) (`FI`) | [20](countries/FI/cities.md) | [55](countries/FI/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Finland) |
 | [France](countries/FR/) (`FR`) | [25](countries/FR/cities.md) | [107](countries/FR/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=France) |
 | [Gambia](countries/GM/) (`GM`) | [16](countries/GM/cities.md) | [31](countries/GM/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Gambia) |
