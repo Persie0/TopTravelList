@@ -1,0 +1,15 @@
+id: sight-be-horta-museum
+name: "Horta Museum (house and studio)"
+location:
+  country_code: BE
+  latitude: 50.824222
+  longitude: 4.355667
+scores:
+  impact: 8.9
+  uniqueness: 9.1
+  significance: 9.0
+  experience: 8.8
+  depth: 8.2
+  categories:
+    architecture: 9.4
+    culture: 9.1

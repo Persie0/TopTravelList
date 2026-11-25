@@ -1,0 +1,15 @@
+id: sight-ru-uvs-nuur
+name: "Uvs Nuur Basin (Russian components)"
+location:
+  country_code: RU
+  latitude: 50.2
+  longitude: 92.5
+scores:
+  impact: 8.6
+  uniqueness: 8.9
+  significance: 9.1
+  experience: null
+  depth: null
+  categories:
+    nature: 9.2
+    wildlife: 9.1

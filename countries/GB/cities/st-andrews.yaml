@@ -1,0 +1,16 @@
+id: city-gb-st-andrews
+name: "St Andrews"
+location:
+  country_code: GB
+  latitude: 56.34
+  longitude: -2.796
+scores:
+  impact: 8.5
+  uniqueness: 8.6
+  significance: 8.7
+  experience: 8.5
+  depth: 8.0
+  categories:
+    history: 9.0
+    culture: 8.7
+    architecture: 8.8

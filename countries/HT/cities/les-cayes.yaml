@@ -1,0 +1,15 @@
+id: city-ht-les-cayes
+name: "Les Cayes"
+location:
+  country_code: HT
+  latitude: 18.194
+  longitude: -73.75
+scores:
+  impact: 7.0
+  uniqueness: 7.3
+  significance: 7.4
+  experience: 7.6
+  depth: 7.0
+  categories:
+    culture: 8.2
+    food: 8.1

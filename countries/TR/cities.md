@@ -2,7 +2,7 @@
 
 # Türkiye (TR) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**20 ranked** · **0 unassessed** · **20 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,30 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (20)
 
-No cities, towns & villages have been assessed for **Türkiye** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Istanbul](cities/istanbul.yaml) | City / town | **94.20** | **Architecture 9.4**, **Culture 9.4**, **History 9.4**, Food 9.3, Nightlife 9.0 | 9.4 / 9.4 / 9.4 / 9.4 / 9.6 | [41.0082, 28.9784](https://www.google.com/maps/search/?api=1&query=41.0082,28.9784) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Istanbul%2C%20T%C3%BCrkiye) |
+| 2 | [Mardin](cities/mardin.yaml) | City / town | **87.30** | **Photography 9.3**, **Architecture 9.2**, **Culture 9.0** | 8.8 / 9.0 / 8.8 / 8.4 / 8.2 | [37.3122, 40.7351](https://www.google.com/maps/search/?api=1&query=37.3122,40.7351) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mardin%2C%20T%C3%BCrkiye) |
+| 3 | [Bursa](cities/bursa.yaml) | City / town | **85.75** | **Architecture 9.0**, **History 9.0**, **Culture 8.8** | 8.4 / 8.6 / 8.9 / 8.5 / 8.5 | [40.1826, 29.0665](https://www.google.com/maps/search/?api=1&query=40.1826,29.0665) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bursa%2C%20T%C3%BCrkiye) |
+| 3 | [Safranbolu](cities/safranbolu.yaml) | City / town | **85.75** | **Architecture 9.2**, **History 9.0**, **Culture 8.8** | 8.5 / 8.8 / 8.7 / 8.5 / 8.1 | [41.2508, 32.694](https://www.google.com/maps/search/?api=1&query=41.2508,32.694) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Safranbolu%2C%20T%C3%BCrkiye) |
+| 5 | [Sanliurfa](cities/sanliurfa.yaml) | City / town | **85.30** | **Culture 9.0**, **History 9.0**, **Architecture 8.7** | 8.4 / 8.7 / 8.9 / 8.3 / 8.1 | [37.1591, 38.7969](https://www.google.com/maps/search/?api=1&query=37.1591,38.7969) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sanliurfa%2C%20T%C3%BCrkiye) |
+| 6 | [Goreme](cities/goreme.yaml) | City / town | **85.15** | **Photography 9.2**, **Architecture 8.8**, **Nature 8.7** | 8.7 / 8.9 / 7.9 / 8.8 / 7.8 | [38.6431, 34.8289](https://www.google.com/maps/search/?api=1&query=38.6431,34.8289) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Goreme%2C%20T%C3%BCrkiye) |
+| 7 | [Diyarbakir](cities/diyarbakir.yaml) | City / town | **84.80** | **History 9.1**, **Culture 8.9**, **Architecture 8.8** | 8.4 / 8.6 / 8.9 / 8.0 / 8.3 | [37.9144, 40.2306](https://www.google.com/maps/search/?api=1&query=37.9144,40.2306) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Diyarbakir%2C%20T%C3%BCrkiye) |
+| 8 | [Antalya](cities/antalya.yaml) | City / town | **84.20** | **Beaches 8.8**, **Food 8.6**, **Architecture 8.5** | 8.5 / 8.2 / 8.2 / 8.8 / 8.6 | [36.8969, 30.7133](https://www.google.com/maps/search/?api=1&query=36.8969,30.7133) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Antalya%2C%20T%C3%BCrkiye) |
+| 8 | [Edirne](cities/edirne.yaml) | City / town | **84.20** | **Architecture 9.0**, **History 9.0**, **Food 8.3** | 8.3 / 8.4 / 8.8 / 8.4 / 8.1 | [41.6771, 26.5557](https://www.google.com/maps/search/?api=1&query=41.6771,26.5557) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Edirne%2C%20T%C3%BCrkiye) |
+| 10 | [Konya](cities/konya.yaml) | City / town | **84.05** | **Culture 9.1**, **History 9.1**, **Architecture 8.8** | 8.0 / 8.7 / 9.0 / 8.2 / 8.0 | [37.8746, 32.4932](https://www.google.com/maps/search/?api=1&query=37.8746,32.4932) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Konya%2C%20T%C3%BCrkiye) |
+| 11 | [Amasya](cities/amasya.yaml) | City / town | **84.00** | **Photography 9.0**, **Architecture 8.9**, **History 8.8** | 8.5 / 8.5 / 8.5 / 8.3 / 7.8 | [40.65, 35.83](https://www.google.com/maps/search/?api=1&query=40.65,35.83) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Amasya%2C%20T%C3%BCrkiye) |
+| 12 | [Gaziantep](cities/gaziantep.yaml) | City / town | **83.15** | **Food 9.3**, **Culture 8.8**, **History 8.7** | 8.0 / 8.5 / 8.5 / 8.4 / 8.3 | [37.0662, 37.3833](https://www.google.com/maps/search/?api=1&query=37.0662,37.3833) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Gaziantep%2C%20T%C3%BCrkiye) |
+| 13 | [Bodrum](cities/bodrum.yaml) | City / town | **82.85** | **Nightlife 8.7**, **History 8.5**, **Beaches 8.4** | 8.4 / 8.0 / 8.3 / 8.7 / 8.0 | [37.0344, 27.4305](https://www.google.com/maps/search/?api=1&query=37.0344,27.4305) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bodrum%2C%20T%C3%BCrkiye) |
+| 14 | [Izmir](cities/izmir.yaml) | City / town | **82.25** | **Food 8.7**, **History 8.6**, **Culture 8.5** | 8.0 / 8.0 / 8.5 / 8.5 / 8.5 | [38.4237, 27.1428](https://www.google.com/maps/search/?api=1&query=38.4237,27.1428) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Izmir%2C%20T%C3%BCrkiye) |
+| 15 | [Uchisar](cities/uchisar.yaml) | City / town | **82.05** | **Photography 9.0**, **Architecture 8.6** | 8.5 / 8.6 / 7.7 / 8.3 / 7.2 | [38.629, 34.805](https://www.google.com/maps/search/?api=1&query=38.629,34.805) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Uchisar%2C%20T%C3%BCrkiye) |
+| 16 | [Kas](cities/kas.yaml) | City / town | **80.15** | **Photography 8.6**, **Relaxation 8.6**, **Food 8.2** | 8.3 / 8.0 / 7.5 / 8.5 / 7.5 | [36.201, 29.638](https://www.google.com/maps/search/?api=1&query=36.201,29.638) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kas%2C%20T%C3%BCrkiye) |
+| 17 | [Trabzon](cities/trabzon.yaml) | City / town | **80.00** | **History 8.6**, **Culture 8.2**, **Food 8.2** | 7.8 / 8.0 / 8.4 / 8.0 / 7.8 | [41.0027, 39.7168](https://www.google.com/maps/search/?api=1&query=41.0027,39.7168) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Trabzon%2C%20T%C3%BCrkiye) |
+| 18 | [Fethiye](cities/fethiye.yaml) | City / town | **79.95** | **Nature 8.3**, **Food 8.2**, **History 8.2** | 8.0 / 7.8 / 7.9 / 8.5 / 7.9 | [36.621, 29.116](https://www.google.com/maps/search/?api=1&query=36.621,29.116) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Fethiye%2C%20T%C3%BCrkiye) |
+| 19 | [Ankara](cities/ankara.yaml) | City / town | **79.75** | **History 8.9**, **Culture 8.3**, **Architecture 8.0** | 7.6 / 7.7 / 8.7 / 8.0 / 8.3 | [39.9334, 32.8597](https://www.google.com/maps/search/?api=1&query=39.9334,32.8597) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ankara%2C%20T%C3%BCrkiye) |
+| 20 | [Canakkale](cities/canakkale.yaml) | City / town | **77.10** | **History 8.4**, **Culture 8.0** | 7.5 / 7.5 / 8.0 / 8.1 / 7.7 | [40.1467, 26.4086](https://www.google.com/maps/search/?api=1&query=40.1467,26.4086) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Canakkale%2C%20T%C3%BCrkiye) |
 
 ---
 

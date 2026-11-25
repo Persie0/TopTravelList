@@ -1,0 +1,16 @@
+id: sight-ni-leon-cathedral
+name: "León Cathedral"
+location:
+  country_code: NI
+  latitude: 12.434
+  longitude: -86.878
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 9.2
+  experience: 8.8
+  depth: 8.2
+  categories:
+    architecture: 9.3
+    history: 9.2
+    photography: 9.2

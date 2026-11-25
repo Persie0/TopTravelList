@@ -1,0 +1,15 @@
+id: city-gd-l-esterre
+name: "L'Esterre"
+location:
+  country_code: GD
+  latitude: 12.469
+  longitude: -61.477
+scores:
+  impact: 6.8
+  uniqueness: 7.6
+  significance: 6.5
+  experience: 7.6
+  depth: 6.0
+  categories:
+    culture: 8.0
+    photography: 8.0

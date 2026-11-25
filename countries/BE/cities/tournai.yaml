@@ -1,0 +1,15 @@
+id: city-be-tournai
+name: "Tournai"
+location:
+  country_code: BE
+  latitude: 50.605
+  longitude: 3.389
+scores:
+  impact: 8.3
+  uniqueness: 8.4
+  significance: 8.8
+  experience: 8.4
+  depth: 8.0
+  categories:
+    architecture: 9.0
+    history: 9.0

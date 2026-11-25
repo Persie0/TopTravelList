@@ -2,7 +2,7 @@
 
 # Belgium (BE) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**18 ranked** · **0 unassessed** · **18 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,28 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (18)
 
-No cities, towns & villages have been assessed for **Belgium** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Bruges (Brugge)](cities/bruges.yaml) | City / town | **92.50** | **Architecture 9.5**, **Photography 9.5**, **History 9.4**, Culture 9.1 | 9.3 / 9.3 / 9.2 / 9.3 / 9.0 | [51.2093, 3.2247](https://www.google.com/maps/search/?api=1&query=51.2093,3.2247) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bruges%20%28Brugge%29%2C%20Belgium) |
+| 2 | [Ghent (Gent)](cities/ghent.yaml) | City / town | **91.45** | **Architecture 9.4**, **History 9.3**, **Photography 9.3**, Culture 9.2 | 9.2 / 9.1 / 9.1 / 9.2 / 9.1 | [51.0543, 3.7174](https://www.google.com/maps/search/?api=1&query=51.0543,3.7174) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ghent%20%28Gent%29%2C%20Belgium) |
+| 3 | [Brussels](cities/brussels.yaml) | City / town | **90.10** | **Architecture 9.3**, **Culture 9.2**, **History 9.1**, Food 9.0 | 8.9 / 8.9 / 9.1 / 9.1 / 9.3 | [50.8503, 4.3517](https://www.google.com/maps/search/?api=1&query=50.8503,4.3517) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Brussels%2C%20Belgium) |
+| 4 | [Antwerp (Antwerpen)](cities/antwerp.yaml) | City / town | **89.90** | **Architecture 9.3**, **Culture 9.3**, **History 9.2**, Food 8.8 | 8.9 / 8.9 / 9.1 / 9.1 / 9.1 | [51.2194, 4.4025](https://www.google.com/maps/search/?api=1&query=51.2194,4.4025) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Antwerp%20%28Antwerpen%29%2C%20Belgium) |
+| 5 | [Leuven](cities/leuven.yaml) | City / town | **85.95** | **Architecture 9.1**, **History 9.0**, **Culture 8.9** | 8.5 / 8.6 / 8.8 / 8.7 / 8.3 | [50.8798, 4.7005](https://www.google.com/maps/search/?api=1&query=50.8798,4.7005) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Leuven%2C%20Belgium) |
+| 6 | [Ypres (Ieper)](cities/ypres.yaml) | City / town | **85.85** | **History 9.3**, **Architecture 9.0**, **Culture 8.7** | 8.5 / 8.6 / 9.0 / 8.5 / 8.1 | [50.851, 2.885](https://www.google.com/maps/search/?api=1&query=50.851,2.885) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ypres%20%28Ieper%29%2C%20Belgium) |
+| 7 | [Mechelen](cities/mechelen.yaml) | City / town | **85.25** | **Architecture 9.0**, **History 9.0**, **Culture 8.8** | 8.5 / 8.5 / 8.7 / 8.6 / 8.2 | [51.0259, 4.4776](https://www.google.com/maps/search/?api=1&query=51.0259,4.4776) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mechelen%2C%20Belgium) |
+| 8 | [Liège](cities/liege.yaml) | City / town | **84.35** | **Culture 8.9**, **History 8.9**, **Architecture 8.6** | 8.2 / 8.3 / 8.7 / 8.6 / 8.7 | [50.6326, 5.5797](https://www.google.com/maps/search/?api=1&query=50.6326,5.5797) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Li%C3%A8ge%2C%20Belgium) |
+| 9 | [Dinant](cities/dinant.yaml) | City / town | **84.10** | **Photography 9.2**, **Architecture 8.8**, **History 8.6** | 8.7 / 8.6 / 8.0 / 8.6 / 7.6 | [50.2606, 4.9125](https://www.google.com/maps/search/?api=1&query=50.2606,4.9125) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Dinant%2C%20Belgium) |
+| 9 | [Tournai](cities/tournai.yaml) | City / town | **84.10** | **Architecture 9.0**, **History 9.0** | 8.3 / 8.4 / 8.8 / 8.4 / 8.0 | [50.605, 3.389](https://www.google.com/maps/search/?api=1&query=50.605,3.389) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tournai%2C%20Belgium) |
+| 11 | [Namur](cities/namur.yaml) | City / town | **83.85** | **History 8.9**, **Architecture 8.7**, **Culture 8.6** | 8.3 / 8.3 / 8.5 / 8.6 / 8.3 | [50.4674, 4.8718](https://www.google.com/maps/search/?api=1&query=50.4674,4.8718) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Namur%2C%20Belgium) |
+| 12 | [Bouillon](cities/bouillon.yaml) | City / town | **82.80** | **Photography 8.9**, **History 8.8**, **Architecture 8.6** | 8.4 / 8.4 / 8.3 / 8.4 / 7.4 | [49.794, 5.068](https://www.google.com/maps/search/?api=1&query=49.794,5.068) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bouillon%2C%20Belgium) |
+| 12 | [Spa](cities/spa.yaml) | City / town | **82.80** | **History 8.9**, **Relaxation 8.9**, **Architecture 8.6** | 8.0 / 8.5 / 8.7 / 8.3 / 7.7 | [50.492, 5.864](https://www.google.com/maps/search/?api=1&query=50.492,5.864) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Spa%2C%20Belgium) |
+| 14 | [Mons](cities/mons.yaml) | City / town | **82.30** | **Culture 8.8**, **Architecture 8.6**, **History 8.6** | 8.1 / 8.2 / 8.4 / 8.4 / 8.1 | [50.454, 3.952](https://www.google.com/maps/search/?api=1&query=50.454,3.952) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mons%2C%20Belgium) |
+| 15 | [Kortrijk](cities/kortrijk.yaml) | City / town | **80.45** | **History 8.7**, **Architecture 8.6** | 7.9 / 8.0 / 8.2 / 8.3 / 7.9 | [50.827, 3.265](https://www.google.com/maps/search/?api=1&query=50.827,3.265) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kortrijk%2C%20Belgium) |
+| 16 | [Ostend (Oostende)](cities/ostend.yaml) | City / town | **79.85** | **Relaxation 8.7**, **Beaches 8.6**, **Culture 8.6** | 7.8 / 7.7 / 8.0 / 8.6 / 8.3 | [51.23, 2.92](https://www.google.com/maps/search/?api=1&query=51.23,2.92) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ostend%20%28Oostende%29%2C%20Belgium) |
+| 17 | [Durbuy](cities/durbuy.yaml) | City / town | **79.80** | **Architecture 8.7**, **Photography 8.7**, **Relaxation 8.5** | 8.1 / 8.1 / 7.7 / 8.5 / 7.1 | [50.352, 5.456](https://www.google.com/maps/search/?api=1&query=50.352,5.456) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Durbuy%2C%20Belgium) |
+| 18 | [Hasselt](cities/hasselt.yaml) | City / town | **78.25** | **Food 8.5**, **Culture 8.4** | 7.6 / 7.8 / 7.8 / 8.3 / 7.9 | [50.93, 5.34](https://www.google.com/maps/search/?api=1&query=50.93,5.34) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hasselt%2C%20Belgium) |
 
 ---
 

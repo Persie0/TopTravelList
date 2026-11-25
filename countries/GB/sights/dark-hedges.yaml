@@ -1,0 +1,15 @@
+id: sight-gb-dark-hedges
+name: "Dark Hedges avenue"
+location:
+  country_code: GB
+  latitude: 55.135
+  longitude: -6.38
+scores:
+  impact: 8.2
+  uniqueness: 8.4
+  significance: 7.4
+  experience: 8.0
+  depth: 6.7
+  categories:
+    photography: 8.8
+    nature: 8.2

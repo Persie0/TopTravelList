@@ -1,0 +1,16 @@
+id: sight-ni-san-juan-del-sur-beach
+name: "San Juan del Sur Beach"
+location:
+  country_code: NI
+  latitude: 11.252
+  longitude: -85.875
+scores:
+  impact: 7.7
+  uniqueness: 7.4
+  significance: 6.7
+  experience: 8.1
+  depth: 7.2
+  categories:
+    beaches: 8.6
+    photography: 8.7
+    relaxation: 8.6

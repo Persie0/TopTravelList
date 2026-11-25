@@ -1,0 +1,15 @@
+id: sight-ru-shulgan-tash
+name: "Rock Paintings of Shulgan-Tash Cave"
+location:
+  country_code: RU
+  latitude: 53.04
+  longitude: 57.06
+scores:
+  impact: 8.3
+  uniqueness: 9.1
+  significance: 9.3
+  experience: null
+  depth: null
+  categories:
+    history: 9.4
+    nature: 8.7

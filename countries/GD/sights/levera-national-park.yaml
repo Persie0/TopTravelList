@@ -1,0 +1,16 @@
+id: sight-gd-levera-national-park
+name: "Levera National Park"
+location:
+  country_code: GD
+  latitude: 12.226
+  longitude: -61.609
+scores:
+  impact: 8.6
+  uniqueness: 8.6
+  significance: 8.5
+  experience: 8.2
+  depth: 7.8
+  categories:
+    nature: 9.2
+    wildlife: 9.1
+    photography: 9.1

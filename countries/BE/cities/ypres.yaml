@@ -1,0 +1,16 @@
+id: city-be-ypres
+name: "Ypres (Ieper)"
+location:
+  country_code: BE
+  latitude: 50.851
+  longitude: 2.885
+scores:
+  impact: 8.5
+  uniqueness: 8.6
+  significance: 9.0
+  experience: 8.5
+  depth: 8.1
+  categories:
+    history: 9.3
+    architecture: 9.0
+    culture: 8.7

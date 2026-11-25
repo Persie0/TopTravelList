@@ -1,0 +1,15 @@
+id: city-ht-kenscoff
+name: "Kenscoff"
+location:
+  country_code: HT
+  latitude: 18.448
+  longitude: -72.285
+scores:
+  impact: 7.0
+  uniqueness: 7.3
+  significance: 6.5
+  experience: 7.2
+  depth: 6.2
+  categories:
+    photography: 8.2
+    culture: 7.7

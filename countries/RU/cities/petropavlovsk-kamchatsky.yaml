@@ -1,0 +1,15 @@
+id: city-ru-petropavlovsk-kamchatsky
+name: "Petropavlovsk-Kamchatsky"
+location:
+  country_code: RU
+  latitude: 53.0452
+  longitude: 158.6483
+scores:
+  impact: 8.0
+  uniqueness: 8.0
+  significance: 7.4
+  experience: 7.7
+  depth: 7.1
+  categories:
+    nature: 8.6
+    photography: 8.7

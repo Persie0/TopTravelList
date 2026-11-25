@@ -1,0 +1,15 @@
+id: city-gb-chester
+name: "Chester"
+location:
+  country_code: GB
+  latitude: 53.19
+  longitude: -2.89
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 8.7
+  experience: 8.9
+  depth: 8.4
+  categories:
+    architecture: 9.2
+    history: 9.1

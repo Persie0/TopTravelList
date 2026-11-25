@@ -1,0 +1,15 @@
+id: sight-ru-kolomenskoye-ascension
+name: "Church of the Ascension, Kolomenskoye"
+location:
+  country_code: RU
+  latitude: 55.666
+  longitude: 37.67
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 8.9
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.1
+    history: 9.0

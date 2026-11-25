@@ -1,0 +1,16 @@
+id: sight-ni-charco-verde
+name: "Charco Verde Nature Reserve"
+location:
+  country_code: NI
+  latitude: 11.497
+  longitude: -85.658
+scores:
+  impact: 7.9
+  uniqueness: 8.0
+  significance: 7.6
+  experience: 8.2
+  depth: 7.5
+  categories:
+    nature: 8.8
+    wildlife: 8.5
+    photography: 8.6

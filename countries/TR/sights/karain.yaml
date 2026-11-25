@@ -1,0 +1,15 @@
+id: sight-tr-karain
+name: "Karain Cave"
+location:
+  country_code: TR
+  latitude: 37.077
+  longitude: 30.571
+scores:
+  impact: 8.1
+  uniqueness: 8.5
+  significance: 8.9
+  experience: 8.0
+  depth: 7.3
+  categories:
+    nature: 8.6
+    history: 9.1

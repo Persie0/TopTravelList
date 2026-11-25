@@ -1,0 +1,16 @@
+id: sight-ru-krasnoyarsk-stolby
+name: "Krasnoyarsk Stolby National Park"
+location:
+  country_code: RU
+  latitude: 55.93
+  longitude: 92.76
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 8.4
+  experience: 8.6
+  depth: 8.5
+  categories:
+    nature: 9.1
+    adventure: 8.8
+    photography: 9.1

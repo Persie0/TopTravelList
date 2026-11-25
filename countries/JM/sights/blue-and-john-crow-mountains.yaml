@@ -1,0 +1,17 @@
+id: sight-jm-blue-and-john-crow-mountains
+name: "Blue and John Crow Mountains"
+location:
+  country_code: JM
+  latitude: 18.0775
+  longitude: -76.43
+scores:
+  impact: 9.1
+  uniqueness: 9.2
+  significance: 9.3
+  experience: 8.9
+  depth: 9.0
+  categories:
+    nature: 9.4
+    wildlife: 9.3
+    history: 9.3
+    adventure: 9.2

@@ -1,0 +1,15 @@
+id: sight-tr-wooden-mosques
+name: "Wooden Hypostyle Mosques of Medieval Anatolia"
+location:
+  country_code: TR
+  latitude: 38.756
+  longitude: 30.534
+scores:
+  impact: 8.5
+  uniqueness: 9.0
+  significance: 9.0
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.2
+    history: 9.1

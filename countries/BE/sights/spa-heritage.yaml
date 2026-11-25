@@ -1,0 +1,16 @@
+id: sight-be-spa-heritage
+name: "Spa historic thermal town (Great Spa Towns component)"
+location:
+  country_code: BE
+  latitude: 50.492
+  longitude: 5.864
+scores:
+  impact: 8.4
+  uniqueness: 8.7
+  significance: 9.0
+  experience: 8.5
+  depth: 8.1
+  categories:
+    architecture: 8.9
+    history: 9.1
+    relaxation: 8.9

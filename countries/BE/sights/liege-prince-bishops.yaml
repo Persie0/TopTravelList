@@ -1,0 +1,15 @@
+id: sight-be-liege-prince-bishops
+name: "Palace of the Prince-Bishops of Liège (tentative)"
+location:
+  country_code: BE
+  latitude: 50.646
+  longitude: 5.574
+scores:
+  impact: 8.5
+  uniqueness: 8.7
+  significance: 8.9
+  experience: 8.1
+  depth: 7.7
+  categories:
+    architecture: 9.1
+    history: 9.0
