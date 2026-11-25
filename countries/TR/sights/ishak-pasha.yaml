@@ -1,0 +1,16 @@
+id: sight-tr-ishak-pasha
+name: "Ishak Pasha Palace"
+location:
+  country_code: TR
+  latitude: 39.52
+  longitude: 44.13
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 8.7
+  experience: 8.4
+  depth: 8.1
+  categories:
+    architecture: 9.2
+    history: 8.9
+    photography: 9.2

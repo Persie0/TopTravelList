@@ -1,0 +1,16 @@
+id: city-tr-gaziantep
+name: "Gaziantep"
+location:
+  country_code: TR
+  latitude: 37.0662
+  longitude: 37.3833
+scores:
+  impact: 8.0
+  uniqueness: 8.5
+  significance: 8.5
+  experience: 8.4
+  depth: 8.3
+  categories:
+    food: 9.3
+    culture: 8.8
+    history: 8.7

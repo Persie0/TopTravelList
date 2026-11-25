@@ -1,0 +1,16 @@
+id: sight-tr-saklikent
+name: "Saklikent Gorge"
+location:
+  country_code: TR
+  latitude: 36.474
+  longitude: 29.404
+scores:
+  impact: 8.7
+  uniqueness: 8.3
+  significance: 7.5
+  experience: 8.4
+  depth: 7.6
+  categories:
+    nature: 8.9
+    adventure: 8.8
+    photography: 9.0
