@@ -571,3 +571,25 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: No independently checked per-record source; editorial judgment only.
 - Remaining gaps: Independent site-specific facts, access, GPS, category and peer verification.
+
+## Follow-up: sight-sz-ngwenya-mines-and-lion-cavern — 2026-11-25 (worldwide review)
+
+- [YAML](../../../countries/SZ/sights/ngwenya-mines-and-lion-cavern.yaml) · Action: rescore · **source-linked-unverified**.
+- Sources inspected: [UNESCO tentative submission](https://whc.unesco.org/en/tentativelists/5421), [UNESCO exhibition](https://whc.unesco.org/en/events/1686/), [tourism authority](https://www.thekingdomofeswatini.com/north-west-eswatini/ngwenya-mine-lion-cavern/).
+- Extremely early ochre and specularite extraction and distinct mining phases justify uniqueness 9.5, significance 9.6 and history 9.6. Tentative listing is not inscription. Guided viewing supports retaining impact, experience and depth for the bounded visit rather than the full workings. Archaeological dating and category comparisons remain provisional; no perfect score or multiplier. GPS unchanged.
+- I/U/S/E/D: 8.1 / 9.2 / 9.4 / 7.9 / 7.4 → 8.1 / 9.5 / 9.6 / 7.9 / 7.4; total 85.35 → 86.50.
+
+| Current worldwide peer | I/U/S/E/D | Overall /100 | Comparison |
+| --- | --- | --- | --- |
+| [hallstatt salt mine (AT)](../../../countries/AT/sights/hallstatt-salt-mine.yaml) | 8.7 / 8.9 / 8.9 / 8.9 / 8.1 | 87.60 | More developed industrial visitor route; less rare ancient extraction evidence. |
+| [niah caves archaeological complex (MY)](../../../countries/MY/sights/niah-caves-archaeological-complex.yaml) | 9.0 / 9.4 / 9.6 / 8.8 / 8.8 | 91.70 | Comparable early archaeological significance, broader cave itinerary. |
+| [joya de ceren archaeological site (SV)](../../../countries/SV/sights/joya-de-ceren-archaeological-site.yaml) | 8.6 / 9.6 / 9.6 / 8.4 / 8.1 | 89.70 | Rare preserved archaeology; broader interpreted site. |
+| [actun tunichil muknal cave (BZ)](../../../countries/BZ/sights/actun-tunichil-muknal-cave.yaml) | 9.4 / 9.6 / 9.4 / 9.4 / 8.2 | 93.30 | More immersive cave exploration, different archaeological importance. |
+
+## Follow-up: sight-sz-malolotja-nature-reserve — 2026-11-25
+
+- [Tourism authority](https://www.thekingdomofeswatini.com/north-west-eswatini/malolotja-nature-reserve/) describes approximately 200 km of trails, including multi-day hikes. Retain 86.90 and depth 8.8 provisionally for the broad trail network, not unrestricted access. Canopy tour separately rated. **Source-linked-unverified**; existing peer and GPS verification remains outstanding.
+
+## Follow-up: sight-sz-mkhaya-game-reserve — 2026-11-25
+
+- [Reserve operator](https://biggameparks.org/properties/mkhaya-game-reserve) documents guided drives, walks and overnight programs. Retain 87.15 and depth 8.0 for bounded guided itineraries. No guaranteed encounters. **Source-linked-unverified**; full category and GPS checks remain outstanding.
