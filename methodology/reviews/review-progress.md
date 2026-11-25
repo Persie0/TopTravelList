@@ -45,6 +45,7 @@ Updated: 2026-11-25. This is the independent follow-up review ledger, not the or
 | Yemen | YE | 10 | 34 | [#115](https://github.com/Persie0/TopTravelList/pull/115) | [Pass](https://github.com/Persie0/Playground/actions/runs/45682748363) | Old Shibam assessed 90.55; Socotra retained | 18 tentative nominations missing; independent factual/GPS and category verification |
 | Finland | FI | 20 | 55 | [#116](https://github.com/Persie0/TopTravelList/pull/116) | [Pass](https://github.com/Persie0/Playground/actions/runs/45683006946) | Six Struve stations and eleven Aalto components assessed; 72/75 ranked | 28 national parks missing; independent factual/GPS and category verification |
 | Afghanistan | AF | 10 | 23 | [#117](https://github.com/Persie0/TopTravelList/pull/117) | [Pass](https://github.com/Persie0/Playground/actions/runs/45684427581) | National Museum 84.25 assessed; restrictions retained | Remaining individual source/GPS and category calibration |
+| Sweden | SE | 23 | 64 | [#118](https://github.com/Persie0/TopTravelList/pull/118) | [Pass](https://github.com/Persie0/Playground/actions/runs/45684985043) | Four Struve stations and decorated farmhouses assessed; 86/87 ranked | Individual serial components and independent factual/GPS/category review |
 
 All listed merged PRs have passed schema, generated Markdown and worldwide benchmark checks on their reviewed heads. Earlier workflow runs reported merge-operation failures after successful per-country validation; actual merge status was verified separately. The entries above mean targeted follow-up review, not comprehensive independent verification of all destination records.
 
@@ -62,7 +63,8 @@ All listed merged PRs have passed schema, generated Markdown and worldwide bench
 | Country | PR | Changes | Checks completed | Outstanding |
 | --- | --- | --- | --- | --- |
 | Moldova | [#123](https://github.com/Persie0/TopTravelList/pull/123) | Cricova 87.55 → 87.15; Mileștii Mici 87.35 → 86.75 | 30 ranked sight rows checked for arithmetic and rank order; two targeted source comparisons with four current peers | Full Python validation, remaining individual review and merge |
-| Sweden | [#118](https://github.com/Persie0/TopTravelList/pull/118) | Four Struve stations and decorated farmhouses newly assessed | Core screening and targeted source/peer comparisons | Regenerate, validate, merge; serial component gaps remain |
+| Syria | [#119](https://github.com/Persie0/TopTravelList/pull/119) | Azm Palace 84.35 and Ugarit 84.45 assessed; restoration and safety caveats retained | Core screening and targeted source/peer comparisons | Regenerate, validate, merge |
+| Norway | [#120](https://github.com/Persie0/TopTravelList/pull/120) | Fuglenes 75.05; Raipas 75.65; Hyllestad 83.20 assessed | Core screening and targeted source/peer comparisons | Regenerate, validate, merge |
 
 ## Automated screening only
 
@@ -72,7 +74,7 @@ The [2026-11-25 screening run](https://github.com/Persie0/Playground/actions/run
 
 ## Next open PRs (oldest first at time of recording)
 
-[#118](https://github.com/Persie0/TopTravelList/pull/118) Add Sweden worldwide city and sight rankings; [#119](https://github.com/Persie0/TopTravelList/pull/119) Add Syria worldwide city and sight rankings; [#120](https://github.com/Persie0/TopTravelList/pull/120) Add Norway worldwide city and sight rankings; [#121](https://github.com/Persie0/TopTravelList/pull/121) Add Cyprus worldwide city and sight rankings; [#122](https://github.com/Persie0/TopTravelList/pull/122) Add Denmark worldwide city and sight rankings; [#123](https://github.com/Persie0/TopTravelList/pull/123) Review recently merged Moldova winery ratings; [#124](https://github.com/Persie0/TopTravelList/pull/124) Add North Korea worldwide city and sight rankings; [#125](https://github.com/Persie0/TopTravelList/pull/125) Add Iceland worldwide city and sight rankings; [#126](https://github.com/Persie0/TopTravelList/pull/126) Add Palestine worldwide city and sight rankings. Re-read the live queue before each batch.
+[#119](https://github.com/Persie0/TopTravelList/pull/119) Add Syria worldwide city and sight rankings; [#120](https://github.com/Persie0/TopTravelList/pull/120) Add Norway worldwide city and sight rankings; [#121](https://github.com/Persie0/TopTravelList/pull/121) Add Cyprus worldwide city and sight rankings; [#122](https://github.com/Persie0/TopTravelList/pull/122) Add Denmark worldwide city and sight rankings; [#123](https://github.com/Persie0/TopTravelList/pull/123) Review recently merged Moldova winery ratings; [#124](https://github.com/Persie0/TopTravelList/pull/124) Add North Korea worldwide city and sight rankings; [#125](https://github.com/Persie0/TopTravelList/pull/125) Add Iceland worldwide city and sight rankings; [#126](https://github.com/Persie0/TopTravelList/pull/126) Add Palestine worldwide city and sight rankings. Re-read the live queue before each batch.
 
 ## Completion criteria
 
