@@ -1,0 +1,16 @@
+id: city-mx-guanajuato
+name: "Guanajuato"
+location:
+  country_code: MX
+  latitude: 21.019
+  longitude: -101.257
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 8.9
+  experience: 8.7
+  depth: 8.6
+  categories:
+    architecture: 9.2
+    history: 9.1
+    photography: 9.3

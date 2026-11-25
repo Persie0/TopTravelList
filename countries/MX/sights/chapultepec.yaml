@@ -1,0 +1,16 @@
+id: sight-mx-chapultepec
+name: "Chapultepec Woods, Hill and Castle"
+location:
+  country_code: MX
+  latitude: 19.420
+  longitude: -99.185
+scores:
+  impact: 8.7
+  uniqueness: 8.7
+  significance: 9.0
+  experience: 8.9
+  depth: 8.8
+  categories:
+    architecture: 9.1
+    history: 9.2
+    culture: 9.1

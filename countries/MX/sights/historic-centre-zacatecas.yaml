@@ -1,0 +1,15 @@
+id: sight-mx-historic-centre-zacatecas
+name: "Historic Centre of Zacatecas"
+location:
+  country_code: MX
+  latitude: 22.775
+  longitude: -102.573
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 8.8
+  experience: 8.4
+  depth: 8.4
+  categories:
+    architecture: 9.1
+    history: 9.1

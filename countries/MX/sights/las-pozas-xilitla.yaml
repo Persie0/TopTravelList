@@ -1,0 +1,16 @@
+id: sight-mx-las-pozas-xilitla
+name: "Las Pozas, Xilitla"
+location:
+  country_code: MX
+  latitude: 21.397
+  longitude: -98.997
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 8.4
+  experience: 8.7
+  depth: 8.0
+  categories:
+    architecture: 9.2
+    photography: 9.3
+    culture: 8.9

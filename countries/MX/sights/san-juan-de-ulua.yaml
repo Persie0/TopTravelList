@@ -1,0 +1,15 @@
+id: sight-mx-san-juan-de-ulua
+name: "San Juan de Ulúa"
+location:
+  country_code: MX
+  latitude: 19.209
+  longitude: -96.132
+scores:
+  impact: 8.2
+  uniqueness: 8.5
+  significance: 9.0
+  experience: 8.3
+  depth: 8.0
+  categories:
+    history: 9.2
+    architecture: 8.9

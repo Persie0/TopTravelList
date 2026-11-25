@@ -1,0 +1,16 @@
+id: city-mx-merida
+name: "Mérida"
+location:
+  country_code: MX
+  latitude: 20.967
+  longitude: -89.623
+scores:
+  impact: 8.3
+  uniqueness: 8.6
+  significance: 8.5
+  experience: 8.8
+  depth: 8.5
+  categories:
+    culture: 9.1
+    food: 9.0
+    architecture: 8.8

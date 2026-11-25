@@ -1,0 +1,16 @@
+id: city-mx-cuetzalan
+name: "Cuetzalan"
+location:
+  country_code: MX
+  latitude: 20.017
+  longitude: -97.523
+scores:
+  impact: 8.0
+  uniqueness: 8.5
+  significance: 8.2
+  experience: 8.3
+  depth: 7.6
+  categories:
+    culture: 9.0
+    architecture: 8.6
+    photography: 8.8
