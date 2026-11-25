@@ -1,0 +1,15 @@
+id: sight-ss-boma-national-park
+name: "Boma National Park"
+location:
+  country_code: SS
+  latitude: 6.4833
+  longitude: 33.9167
+scores:
+  impact: null
+  uniqueness: 9.7
+  significance: 9.7
+  experience: null
+  depth: null
+  categories:
+    nature: 9.7
+    wildlife: 9.8
