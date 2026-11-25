@@ -250,6 +250,8 @@ High-score check: Canadian Rockies impact/nature/photography 9.8; Sognefjord imp
   - https://www.doc.govt.nz/parks-and-recreation/places-to-go/canterbury/places/aoraki-mount-cook-national-park
 - Missing or uncertain facts: Current track conditions not assessed.
 
+- 2026-11-26 evidence follow-up: DOC https://www.doc.govt.nz/hooker-valley-track (opened) confirms second swing bridge opened July 2026 and route to Hooker Lake. https://www.doc.govt.nz/news/media-releases/2026-media-releases/doc-plans-to-install-a-gate-to-manage-visitors-on-the-hooker-valley-track/ (indexed excerpt) describes planned visitor management. No current access guarantee; normal-condition park rating retained.
+
 ### Worldwide peer comparisons
 - Banff National Park (Canada): comparable major glacial mountain landscape
 - Hohe Tauern National Park (Austria): comparable Alpine relief, different ecology
@@ -687,13 +689,15 @@ Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons reta
 - YAML: [source](../../../countries/NZ/sights/fiordland-waters-seabed.yaml)
 - Action: rescore
 - Precise subject: Tentative marine property. Exclude land trails and closed underwater observatory. Specialist authorized visits only; exact representative point still needs corroboration.
-- Location check: prior representative point retained; independent coordinate corroboration pending.
+- Location check: existing survey point corroborated; exact proposed property boundaries remain unverified.
 - Evidence status: source-linked-unverified
 - Checked factual reference excerpts (2026-11-25):
   - DOC confirms ten marine reserves and charter/diving opportunities — https://www.doc.govt.nz/parks-and-recreation/places-to-go/fiordland/places/fiordland-marine-reserves/
   - DOC identifies Piopiotahi black coral and rock-wall habitats — https://www.doc.govt.nz/piopiotahi-marine-reserve
   - DOC describes Te Awaatu Channel marine habitats — https://www.doc.govt.nz/parks-and-recreation/places-to-go/fiordland/places/fiordland-marine-reserves/fiordland-marine-reserves-a-z/te-awaatu-channel-the-gut/
 - Missing or uncertain facts: Tentative marine property. Exclude land trails and closed underwater observatory. Specialist authorized visits only; exact representative point still needs corroboration.
+
+- 2026-11-26 location follow-up: Biological Monitoring of Fiordland (2010), Appendix 1, printed p. 67, table M47, visually inspected https://fmg.org.nz/sites/default/files/2018-11/fma-ecological-monitoring-2010.pdf confirms -45.46736, 167.085133 at Angelhair Cave, Doubtful Sound. This is a scientific survey point used as a regional proxy, not a navigation waypoint or visitor entrance. UNESCO nomination https://whc.unesco.org/en/tentativelists/5121/ gives an implausible longitude (176°50′E); do not use it. Retain existing score.
 
 ### Worldwide peer comparisons
 - Great Barrier Reef (Australia): much greater tropical reef diversity and scale
@@ -993,3 +997,71 @@ Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons reta
 - Final decision: Provisional worldwide assessment.
 - Earlier decision: none.
 - Verification still needed: Tentative not inscribed; check current visitor offering.
+
+
+## sight-nz-te-papa — Museum of New Zealand Te Papa Tongarewa — 2026-11-26
+
+- YAML: [source](../../../countries/NZ/sights/te-papa.yaml)
+- Action: new
+- Precise subject: National museum building and publicly interpreted collections; excludes offsite research facilities and other Wellington attractions.
+- Location check: -41.2906, 174.7819; Published museum point https://en.wikipedia.org/wiki/Te_Papa (indexed excerpt), address corroborated by museum https://www.tepapa.govt.nz/visit/plan-your-visit/getting-here (indexed excerpt); representative point, not entrance.
+- Evidence status: source-linked-unverified
+- Sources (2026-11-26):
+- Museum https://www.tepapa.govt.nz/ (opened, 26 November 2026): national collections across art, natural history, New Zealand histories, mātauranga Māori and Pacific cultures; guided tours.
+- https://www.tepapa.govt.nz/visit/exhibitions and https://www.tepapa.govt.nz/visit/plan-your-visit (indexed excerpts): public galleries and interactive interpretation; exact exhibits may change.
+- https://www.tepapa.govt.nz/te-papa-trade-information/trade-about-us (indexed excerpt): bicultural mission and national collection stewardship.
+- Missing facts: full independent claim verification and current visitor conditions.
+
+### Worldwide peer comparisons
+- [kunsthistorisches-museum (AT)](../../../countries/AT/sights/kunsthistorisches-museum.yaml): 9.2/9.4/9.6/9.4/9.5; greater internationally recognized historic art collection and monumental building.
+- [national-museum-of-korea (KR)](../../../countries/KR/sights/national-museum-of-korea.yaml): 9.1/9.3/9.4/9.3/9.6; greater archaeological and collection breadth.
+- [national-museum-cambodia (KH)](../../../countries/KH/sights/national-museum-cambodia.yaml): 8.8/9.1/9.3/9.1/8.8; similar distinctive national heritage, more specialized archaeological art collection.
+- [fiji-museum (FJ)](../../../countries/FJ/sights/fiji-museum.yaml): 7.7/8.3/8.6/8.0/7.8; smaller Pacific national museum, narrower interpretation.
+
+### Scoring decisions
+- Impact: 8.8 — Large interpreted collections and compelling museum displays, below monumental art institutions.
+- Uniqueness: 9.1 — Distinctive bicultural Māori and Pacific interpretation integrated with natural history.
+- Significance: 9.2 — Major national collections and cultural stewardship, below world-leading museum heritage anchors.
+- Experience: 9.3 — Documented public exhibits, interactive interpretation and guided visits.
+- Depth: 9.4 — Multiple collection themes and six-floor museum, not all stored collections assumed visible.
+- Applicable categories: culture 9.5, history 9.3, nature 9, family 9.2.
+- Overall: 90.90/100.
+- High-score challenge: 90+ total and culture 9.5 supported by documented bicultural national museum and interpretive breadth; National Museum of Korea culture 9.8 and Kunsthistorisches Museum 9.5 provide anchors. No credit for inaccessible collections.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide V2 editorial rating.
+- Earlier decision: none.
+- Verification still needed: independent claim-level verification and current operating conditions.
+
+
+## sight-nz-pancake-rocks — Punakaiki Pancake Rocks and Blowholes — 2026-11-26
+
+- YAML: [source](../../../countries/NZ/sights/pancake-rocks.yaml)
+- Action: new
+- Precise subject: Dolomite Point limestone formations, surge pools and official short walking circuit; excludes the remainder of Paparoa National Park and marine reserve activities.
+- Location check: -42.1139, 171.32598; Dolomite Point https://mapcarta.com/24776372 (opened, -42.1139, 171.32598), representative cape not trailhead.
+- Evidence status: source-linked-unverified
+- Sources (2026-11-26):
+- Department of Conservation https://www.doc.govt.nz/parks-and-recreation/places-to-go/west-coast/places/paparoa-national-park/things-to-do/tracks/pancake-rocks-and-blowholes-walk/ (opened): distinctive layered limestone, surge pools, blowholes and paved loop.
+- DOC https://www.doc.govt.nz/punakaiki-marine-reserve (indexed excerpt): marine reserve around Dolomite Point.
+- https://pancakerocks.com/places/pancake-rocks/ (indexed excerpt): erosion and site-specific coast; secondary visitor guide. No guaranteed blowhole activity.
+- Missing facts: full independent claim verification and current visitor conditions.
+
+### Worldwide peer comparisons
+- [to-sua-ocean-trench (WS)](../../../countries/WS/sights/to-sua-ocean-trench.yaml): 9.1/9.0/7.4/9.0/7.5; similar distinctive focused coastal geological visit.
+- [riri-blue-hole (VU)](../../../countries/VU/sights/riri-blue-hole.yaml): 8.7/8.3/7/8.7/7.5; less distinctive focused natural formation.
+- [deadvlei (NA)](../../../countries/NA/sights/deadvlei.yaml): 9.6/9.5/8.7/9/7.8; more exceptional iconic geological landscape and visual contrast.
+- [ang-thong-national-marine-park (TH)](../../../countries/TH/sights/ang-thong-national-marine-park.yaml): 9.0/9.0/8.6/9.1/8.9; broader marine island scenery and activities.
+
+### Scoring decisions
+- Impact: 9 — Striking layered limestone coastline and tidal spectacle.
+- Uniqueness: 9 — Unusual erosional rock pattern and blowholes with global analogues.
+- Significance: 8.1 — Notable geological and coastal conservation context, no entire park significance borrowed.
+- Experience: 8.9 — Established short paved visitor circuit; tides and weather affect spectacle.
+- Depth: 7.5 — Focused formation and viewpoints rather than extensive exploration.
+- Applicable categories: nature 9, photography 9.2, family 8.5.
+- Overall: 86.55/100.
+- High-score challenge: No 9.5+ field or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide V2 editorial rating.
+- Earlier decision: none.
+- Verification still needed: independent claim-level verification and current operating conditions.
