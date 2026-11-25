@@ -1,0 +1,16 @@
+id: sight-ly-tripoli-medina
+name: "Tripoli Medina"
+location:
+  country_code: LY
+  latitude: 32.899
+  longitude: 13.176
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.7
+  depth: 8.8
+  categories:
+    architecture: 9.1
+    history: 9.1
+    culture: 9.2

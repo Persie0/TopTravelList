@@ -1,0 +1,16 @@
+id: city-gn-dalaba
+name: "Dalaba"
+location:
+  country_code: GN
+  latitude: 10.692
+  longitude: -12.249
+scores:
+  impact: 7.6
+  uniqueness: 8.1
+  significance: 7.6
+  experience: 8.0
+  depth: 7.0
+  categories:
+    architecture: 8.2
+    culture: 8.3
+    relaxation: 8.5

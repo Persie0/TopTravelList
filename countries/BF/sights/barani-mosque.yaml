@@ -1,0 +1,15 @@
+id: sight-bf-barani-mosque
+name: "Barani Mosque"
+location:
+  country_code: BF
+  latitude: 13.168139
+  longitude: -3.891778
+scores:
+  impact: null
+  uniqueness: 8.5
+  significance: 8.4
+  experience: null
+  depth: null
+  categories:
+    architecture: 8.7
+    history: 8.5

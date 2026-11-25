@@ -1,0 +1,16 @@
+id: sight-sn-lake-retba
+name: "Lake Retba (Lac Rose)"
+location:
+  country_code: SN
+  latitude: 14.8383
+  longitude: -17.2448
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 7.8
+  experience: 8.5
+  depth: 7.8
+  categories:
+    nature: 8.9
+    photography: 9.0
+    culture: 8.0

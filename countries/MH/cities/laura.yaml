@@ -1,0 +1,15 @@
+id: city-mh-laura
+name: "Laura Village"
+location:
+  country_code: MH
+  latitude: 7.14654
+  longitude: 171.03704
+scores:
+  impact: 6.7
+  uniqueness: 7.4
+  significance: 6.2
+  experience: 6.7
+  depth: 5.8
+  categories:
+    culture: 6.8
+    photography: 7.1

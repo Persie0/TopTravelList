@@ -1,0 +1,16 @@
+id: sight-zm-kalambo-falls
+name: "Kalambo Falls National Monument"
+location:
+  country_code: ZM
+  latitude: -8.583333
+  longitude: 31.233333
+scores:
+  impact: 9.2
+  uniqueness: 9.1
+  significance: 9.4
+  experience: 8.4
+  depth: 8.0
+  categories:
+    nature: 9.3
+    history: 9.4
+    photography: 9.2

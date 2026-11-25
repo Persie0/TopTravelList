@@ -1,0 +1,16 @@
+id: sight-zw-mana-pools-national-park
+name: "Mana Pools National Park"
+location:
+  country_code: ZW
+  latitude: -15.75
+  longitude: 29.333333
+scores:
+  impact: 9.5
+  uniqueness: 9.5
+  significance: 9.5
+  experience: 9.4
+  depth: 9.3
+  categories:
+    nature: 9.6
+    wildlife: 9.7
+    adventure: 9.4

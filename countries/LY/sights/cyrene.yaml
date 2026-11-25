@@ -1,0 +1,16 @@
+id: sight-ly-cyrene
+name: "Cyrene Archaeological Site"
+location:
+  country_code: LY
+  latitude: 32.825
+  longitude: 21.85833
+scores:
+  impact: 9.3
+  uniqueness: 9.4
+  significance: 9.7
+  experience: 8.9
+  depth: 9.1
+  categories:
+    architecture: 9.5
+    history: 9.7
+    photography: 9.3

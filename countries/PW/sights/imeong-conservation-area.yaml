@@ -1,0 +1,16 @@
+id: sight-pw-imeong-conservation-area
+name: "Imeong Conservation Area"
+location:
+  country_code: PW
+  latitude: 7.5275
+  longitude: 134.525556
+scores:
+  impact: 8.0
+  uniqueness: 8.7
+  significance: 9.0
+  experience: null
+  depth: null
+  categories:
+    nature: 8.6
+    culture: 9.1
+    history: 8.8

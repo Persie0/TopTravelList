@@ -1,0 +1,16 @@
+id: sight-gn-bassari-cultural-landscape-guinea
+name: "Bassari Cultural Landscape (Guinea)"
+location:
+  country_code: GN
+  latitude: 12.376106
+  longitude: -12.921664
+scores:
+  impact: null
+  uniqueness: 9.0
+  significance: 9.0
+  experience: null
+  depth: null
+  categories:
+    culture: 9.3
+    history: 9.1
+    architecture: 8.8

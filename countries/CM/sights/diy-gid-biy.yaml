@@ -1,0 +1,16 @@
+id: sight-cm-diy-gid-biy
+name: "Diy-Gid-Biy Cultural Landscape of the Mandara Mountains"
+location:
+  country_code: CM
+  latitude: 10.903333
+  longitude: 13.795556
+scores:
+  impact: 8.8
+  uniqueness: 9.4
+  significance: 9.5
+  experience: null
+  depth: null
+  categories:
+    culture: 9.5
+    history: 9.4
+    architecture: 9.2

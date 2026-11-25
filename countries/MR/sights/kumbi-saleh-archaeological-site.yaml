@@ -1,0 +1,14 @@
+id: sight-mr-kumbi-saleh-archaeological-site
+name: "Kumbi Saleh Archaeological Site"
+location:
+  country_code: MR
+  latitude: 15.76569
+  longitude: -7.96854
+scores:
+  impact: null
+  uniqueness: 8.8
+  significance: 9.1
+  experience: null
+  depth: null
+  categories:
+    history: 9.2

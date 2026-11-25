@@ -1,0 +1,16 @@
+id: sight-ga-kongou-falls
+name: "Kongou Falls"
+location:
+  country_code: GA
+  latitude: 0.28
+  longitude: 12.57
+scores:
+  impact: 9.1
+  uniqueness: 8.9
+  significance: 8.4
+  experience: 8.7
+  depth: 7.7
+  categories:
+    nature: 9.3
+    photography: 9.4
+    adventure: 8.8
