@@ -1425,3 +1425,184 @@
 - Final decision: provisional worldwide ranking on documented visitor scope; not independently verified.
 - Earlier decision: earlier entry for this ID, unranked.
 - Verification still needed: Authorized educational expedition visits only; permit, weather and operator availability required.
+
+### sight-au-australian-convict-sites — Australian Convict Sites — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/AU/sights/australian-convict-sites.yaml)
+- Action: rescore
+- Precise subject: Entire eleven-component serial property, not all Australian prisons. Score established public visits; individual components and their current admission conditions need separate verification. Existing GPS is a representative component point.
+- Location check: prior representative point retained; independent coordinate corroboration pending.
+- Evidence status: source-linked-unverified
+- Checked factual reference excerpts (2026-11-25):
+  - UNESCO identifies eleven complementary sites and international historical significance — https://whc.unesco.org/en/list/1306
+  - Australian government describes surviving components and interpretive arrangements — https://www.dcceew.gov.au/parks-heritage/heritage/places/world/convict-sites
+  - Tourism Australia describes Port Arthur, Fremantle and Cockatoo Island visitor experiences — https://www.australia.com/en-us/things-to-do/nature-and-national-parks/unesco-world-heritage-sites.html
+- Missing or uncertain facts: Entire eleven-component serial property, not all Australian prisons. Score established public visits; individual components and their current admission conditions need separate verification. Existing GPS is a representative component point.
+
+#### Worldwide peer comparisons
+- Auschwitz-Birkenau (Poland): distinct globally significant persecution history and concentrated memorial visit
+- Robben Island (South Africa): more focused prison landscape
+- Goree Island (Senegal): distinct forced migration heritage
+- Hohensalzburg Fortress (Austria): greater single-site monumental visual impact
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | 8.3 | 8.3 | Varied preserved prisons, barracks and penal landscapes |
+| Uniqueness | 8.8 | 8.8 | Unusual distributed material record of a vast transportation system |
+| Significance | 9.3 | 9.3 | Major international significance for forced migration and colonial history |
+| Experience | null | 8.8 | Established interpreted visits to major components including Port Arthur and Fremantle Prison |
+| Depth | null | 9.2 | Multiple distinct sites and historical narratives rather than one prison |
+
+- Applicable category scores: history: 9.3, architecture: 8.7 (unchanged).
+- Computed worldwide overall: 87.90/100
+- High-score challenge: no 9.5+ field or 90+ total introduced.
+- Approved 10 registry: none.
+- Final decision: provisional worldwide assessment for documented visitor scope; full factual and coordinate verification pending.
+- Earlier decision: prior entry for this ID, unranked.
+- Verification still needed: Entire eleven-component serial property, not all Australian prisons. Score established public visits; individual components and their current admission conditions need separate verification. Existing GPS is a representative component point.
+
+### sight-au-australian-fossil-mammal-sites — Australian Fossil Mammal Sites (Riversleigh / Naracoorte) — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/AU/sights/australian-fossil-mammal-sites.yaml)
+- Action: rescore
+- Precise subject: Two inscribed components only. Riversleigh public access is limited to D Site; Naracoorte has separate permitted tours. Do not imply access to excavation or research areas. Individual component GPS and ratings remain outstanding.
+- Location check: prior representative point retained; independent coordinate corroboration pending.
+- Evidence status: source-linked-unverified
+- Checked factual reference excerpts (2026-11-25):
+  - Australian government identifies the two sites and evolutionary significance — https://www.dcceew.gov.au/parks-heritage/heritage/places/world/australian-fossil-mammal-sites-riversleigh
+  - Queensland Parks documents Riversleigh fossil trail — https://parks.qld.gov.au/parks/boodjamulla-lawn-hill/journeys/riversleigh-fossil-trail
+  - Queensland Parks says only D Site is open — https://parks.qld.gov.au/parks/boodjamulla-riversleigh/visiting-safely
+  - Naracoorte Caves documents guided cave and fossil centre experiences — https://www.naracoortecaves.sa.gov.au/plan-your-visit/experiences-at-naracoorte
+- Missing or uncertain facts: Two inscribed components only. Riversleigh public access is limited to D Site; Naracoorte has separate permitted tours. Do not imply access to excavation or research areas. Individual component GPS and ratings remain outstanding.
+
+#### Worldwide peer comparisons
+- Dinosaur Provincial Park (Canada): different exceptional fossil assemblage and badlands
+- Messel Pit (Germany): focused fossil record and interpretation
+- Chengjiang Fossil Site (China): greater relevance to early animal diversification
+- Postojna Cave (Slovenia): more spectacular cave formations but different scientific importance
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | null | 8.0 | Fossil-bearing limestone landscapes and interpreted cave chambers |
+| Uniqueness | 9.3 | 9.3 | Exceptional complementary record of Australian mammal evolution across two fossil regions |
+| Significance | 9.4 | 9.4 | Internationally important evidence of evolutionary history |
+| Experience | null | 8.4 | Documented Riversleigh fossil trail and Naracoorte guided cave visits |
+| Depth | null | 8.3 | Two distinct fossil settings and several interpretation options, with restricted scientific sites excluded |
+
+- Applicable category scores: nature: 9.2, history: 8.8 (unchanged).
+- Computed worldwide overall: 86.95/100
+- High-score challenge: no 9.5+ field or 90+ total introduced.
+- Approved 10 registry: none.
+- Final decision: provisional worldwide assessment for documented visitor scope; full factual and coordinate verification pending.
+- Earlier decision: prior entry for this ID, unranked.
+- Verification still needed: Two inscribed components only. Riversleigh public access is limited to D Site; Naracoorte has separate permitted tours. Do not imply access to excavation or research areas. Individual component GPS and ratings remain outstanding.
+
+### sight-au-flinders-ranges — Flinders Ranges — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/AU/sights/flinders-ranges.yaml)
+- Action: rescore
+- Precise subject: Tentative geological serial property, not all Flinders Ranges tourism. Credit documented authorized geological visits; fossil fields and pastoral land are not generally accessible. Component boundaries and GPS need separate verification.
+- Location check: prior representative point retained; independent coordinate corroboration pending.
+- Evidence status: source-linked-unverified
+- Checked factual reference excerpts (2026-11-25):
+  - UNESCO tentative submission describes Ediacaran and Cambrian evidence — https://whc.unesco.org/en/tentativelists/6524/
+  - South Australian Parks documents two guided Nilpena tours — https://www.parks.sa.gov.au/parks/nilpena-ediacara-national-park
+  - Regional government identifies accessible geological and heritage places — https://www.outbacksa.sa.gov.au/resources/flinders-ranges-heritage-trail
+- Missing or uncertain facts: Tentative geological serial property, not all Flinders Ranges tourism. Credit documented authorized geological visits; fossil fields and pastoral land are not generally accessible. Component boundaries and GPS need separate verification.
+
+#### Worldwide peer comparisons
+- Grand Canyon (USA): stronger monumental geological spectacle
+- Canadian Rocky Mountain Parks (Canada): greater alpine visual variety and different fossil record
+- Chengjiang Fossil Site (China): complementary early-life fossil significance
+- Wadi Rum (Jordan): stronger concentrated sandstone landscape but different geology
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | null | 8.9 | Striking semi-arid ranges and layered geological landscapes |
+| Uniqueness | null | 9.0 | Distinctive long geological sequence with Ediacaran fossil evidence |
+| Significance | null | 9.3 | Internationally important record of early animal evolution |
+| Experience | null | 8.6 | Established geological trails and guided Nilpena fossil visits |
+| Depth | null | 9.0 | Multiple distinct landscapes and geological interpretive settings |
+
+- Applicable category scores: none assessed (unchanged).
+- Computed worldwide overall: 89.70/100
+- High-score challenge: no 9.5+ field or 90+ total introduced.
+- Approved 10 registry: none.
+- Final decision: provisional worldwide assessment for documented visitor scope; full factual and coordinate verification pending.
+- Earlier decision: prior entry for this ID, unranked.
+- Verification still needed: Tentative geological serial property, not all Flinders Ranges tourism. Credit documented authorized geological visits; fossil fields and pastoral land are not generally accessible. Component boundaries and GPS need separate verification.
+
+### sight-au-cornish-mining-sites — Australian Cornish Mining Sites: Burra and Moonta — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/AU/sights/cornish-mining-sites.yaml)
+- Action: rescore
+- Precise subject: Tentative two-component property. Only designated mining heritage experiences; no unrestricted mine entry. Reconfirm current operations and representative coordinates.
+- Location check: prior representative point retained; independent coordinate corroboration pending.
+- Evidence status: source-linked-unverified
+- Checked factual reference excerpts (2026-11-25):
+  - UNESCO tentative submission describes Cornish mining technology and global copper production — https://whc.unesco.org/en/tentativelists/6777
+  - Visit Burra documents heritage passport and eleven-kilometre trail — https://visitburra.com.au/burra-heritage-pass/
+  - National Trust documents guided Moonta mine railway — https://www.nationaltrust.org.au/places/moonta-mines-tourist-railway/
+  - National Trust identifies fourteen museum rooms with mining and social history — https://www.nationaltrust.org.au/places/moonta-mines-model-school-museum/
+- Missing or uncertain facts: Tentative two-component property. Only designated mining heritage experiences; no unrestricted mine entry. Reconfirm current operations and representative coordinates.
+
+#### Worldwide peer comparisons
+- Cornwall and West Devon Mining Landscape (UK): broader original mining system
+- Røros Mining Town (Norway): stronger coherent historic urban fabric
+- Zollverein Coal Mine (Germany): different major industrial architecture
+- Wieliczka Salt Mine (Poland): more extraordinary underground visitor experience
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | null | 7.8 | Surviving mine workings, engine houses and industrial settlements |
+| Uniqueness | null | 8.6 | Distinctive overseas expression of Cornish mining technology and culture |
+| Significance | null | 8.8 | Important nineteenth-century copper mining and technology history |
+| Experience | null | 8.5 | Established Burra heritage passport, Moonta railway and museum |
+| Depth | null | 8.5 | Numerous distinct surviving features across both mining landscapes |
+
+- Applicable category scores: none assessed (unchanged).
+- Computed worldwide overall: 83.75/100
+- High-score challenge: no 9.5+ field or 90+ total introduced.
+- Approved 10 registry: none.
+- Final decision: provisional worldwide assessment for documented visitor scope; full factual and coordinate verification pending.
+- Earlier decision: prior entry for this ID, unranked.
+- Verification still needed: Tentative two-component property. Only designated mining heritage experiences; no unrestricted mine entry. Reconfirm current operations and representative coordinates.
+
+### sight-au-parramatta-female-factory — Parramatta Female Factory and Institutions Precinct — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/AU/sights/parramatta-female-factory.yaml)
+- Action: rescore
+- Precise subject: Tentative precinct, not the whole Parramatta heritage district. Credit documented authorized walking tours only; individual buildings and current interior permissions unresolved. Coordinate retained pending corroboration.
+- Location check: prior representative point retained; independent coordinate corroboration pending.
+- Evidence status: source-linked-unverified
+- Checked factual reference excerpts (2026-11-25):
+  - UNESCO tentative submission describes institutional buildings and social history — https://whc.unesco.org/en/tentativelists/6686/
+  - NSW Government describes guided walking tours exploring women's lives and punishment — https://www.nsw.gov.au/visiting-and-exploring-nsw/locations-and-attractions/parramatta-female-factory
+- Missing or uncertain facts: Tentative precinct, not the whole Parramatta heritage district. Credit documented authorized walking tours only; individual buildings and current interior permissions unresolved. Coordinate retained pending corroboration.
+
+#### Worldwide peer comparisons
+- Port Arthur (Australia): broader built penal landscape
+- Robben Island (South Africa): different prison and political history with stronger interpretation
+- Hyde Park Barracks (Australia): more developed museum experience
+- Kilmainham Gaol (Ireland): stronger established interior tour
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | null | 7.5 | Surviving institutional buildings and precinct fabric |
+| Uniqueness | null | 8.5 | Distinctive evidence of institutionalization and women's convict experiences |
+| Significance | null | 8.9 | Important history of forced confinement, labor and social policy |
+| Experience | null | 7.7 | Documented guided walking tours through permitted precinct |
+| Depth | null | 7.4 | Several historically distinct structures but uncertain interior access |
+
+- Applicable category scores: none assessed (unchanged).
+- Computed worldwide overall: 80.50/100
+- High-score challenge: no 9.5+ field or 90+ total introduced.
+- Approved 10 registry: none.
+- Final decision: provisional worldwide assessment for documented visitor scope; full factual and coordinate verification pending.
+- Earlier decision: prior entry for this ID, unranked.
+- Verification still needed: Tentative precinct, not the whole Parramatta heritage district. Credit documented authorized walking tours only; individual buildings and current interior permissions unresolved. Coordinate retained pending corroboration.
