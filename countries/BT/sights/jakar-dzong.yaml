@@ -2,8 +2,8 @@ id: sight-bt-jakar-dzong
 name: "Jakar Dzong"
 location:
   country_code: BT
-  latitude: 27.5590
-  longitude: 90.7380
+  latitude: 27.549337
+  longitude: 90.742773
 scores:
   impact: 8.6
   uniqueness: 8.9

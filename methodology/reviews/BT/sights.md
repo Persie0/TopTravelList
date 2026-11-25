@@ -24,7 +24,7 @@ Worldwide v2 · 2026-11-25. All eight UNESCO tentative properties represented by
 ## sight-bt-punakha-dzong — Punakha Dzong — 2026-11-25
 
 - [YAML](../../../countries/BT/sights/punakha-dzong.yaml) · Action: new · **source-linked-unverified**.
-- Scope: multiple precincts within one fortress. Representative approximate coordinates 27.5911, 89.8767; not independently verified.
+- Scope: multiple precincts within one fortress. Representative approximate coordinates 27.583991, 89.862199; [Department of Tourism facility inventory](https://a.storyblok.com/f/171618/x/462320c2c8/eoi-documents-finall-docx-4.pdf), row 75, read 2026-11-25, supplies a named-site point rather than verified monument centroid or entrance.
 - Worldwide peers (I/U/S/E/D; fort comparison ladder):
   - [Hampi Group of Monuments (IN)](../../../countries/IN/sights/hampi-group-of-monuments.yaml) — 9.8 / 9.9 / 9.9 / 9.8 / 9.9 (98.55/100); world-leading or strong upper anchor. Punakha Dzong has lower provisional uniqueness and lower depth.
   - [Patan Durbar Square (NP)](../../../countries/NP/sights/patan-durbar-square.yaml) — 9.3 / 9.4 / 9.4 / 9.2 / 8.9 (92.90/100); comparison for related landscape or heritage. Punakha Dzong has equal provisional uniqueness and higher depth.
@@ -157,7 +157,7 @@ Worldwide v2 · 2026-11-25. All eight UNESCO tentative properties represented by
 ## sight-bt-kyichu-lhakhang — Kyichu Lhakhang — 2026-11-25
 
 - [YAML](../../../countries/BT/sights/kyichu-lhakhang.yaml) · Action: new · **source-linked-unverified**.
-- Scope: bounded compound. Representative approximate coordinates 27.4540, 89.3970; not independently verified.
+- Scope: bounded compound. Representative approximate coordinates 27.441159, 89.3758; [Department of Tourism facility inventory](https://a.storyblok.com/f/171618/x/462320c2c8/eoi-documents-finall-docx-4.pdf), row 52, read 2026-11-25, supplies a named-site point rather than verified monument centroid or entrance.
 - Worldwide peers (I/U/S/E/D; temple comparison ladder):
   - [Mahabodhi Temple Bodh Gaya (IN)](../../../countries/IN/sights/mahabodhi-temple-bodh-gaya.yaml) — 9.7 / 9.9 / 9.9 / 9.8 / 9.2 (97.55/100); world-leading or strong upper anchor. Kyichu Lhakhang has lower provisional uniqueness and lower depth.
   - [Dambulla Cave Temple (LK)](../../../countries/LK/sights/dambulla-cave-temple.yaml) — 9.2 / 9.5 / 9.5 / 9.1 / 8.8 (92.80/100); comparison for related landscape or heritage. Kyichu Lhakhang has lower provisional uniqueness and lower depth.
@@ -461,7 +461,7 @@ Worldwide v2 · 2026-11-25. All eight UNESCO tentative properties represented by
 ## sight-bt-tango-monastery — Tango Monastery — 2026-11-25
 
 - [YAML](../../../countries/BT/sights/tango-monastery.yaml) · Action: new · **source-linked-unverified**.
-- Scope: one monastery. Representative approximate coordinates 27.5950, 89.6540; not independently verified.
+- Scope: one monastery. Representative approximate coordinates 27.593669, 89.638471; [Department of Tourism facility inventory](https://a.storyblok.com/f/171618/x/462320c2c8/eoi-documents-finall-docx-4.pdf), row 63, read 2026-11-25, supplies a named-site point rather than verified monument centroid or entrance.
 - Worldwide peers (I/U/S/E/D; temple comparison ladder):
   - [Mahabodhi Temple Bodh Gaya (IN)](../../../countries/IN/sights/mahabodhi-temple-bodh-gaya.yaml) — 9.7 / 9.9 / 9.9 / 9.8 / 9.2 (97.55/100); world-leading or strong upper anchor. Tango Monastery has lower provisional uniqueness and lower depth.
   - [Dambulla Cave Temple (LK)](../../../countries/LK/sights/dambulla-cave-temple.yaml) — 9.2 / 9.5 / 9.5 / 9.1 / 8.8 (92.80/100); comparison for related landscape or heritage. Tango Monastery has lower provisional uniqueness and lower depth.
@@ -480,7 +480,7 @@ Worldwide v2 · 2026-11-25. All eight UNESCO tentative properties represented by
 ## sight-bt-cheri-chagri-monastery — Cheri (Chagri) Monastery — 2026-11-25
 
 - [YAML](../../../countries/BT/sights/cheri-chagri-monastery.yaml) · Action: new · **editorial-only**.
-- Scope: bounded monastery. Representative approximate coordinates 27.5990, 89.6360; not independently verified.
+- Scope: bounded monastery. Representative approximate coordinates 27.596024, 89.625744; [Department of Tourism facility inventory](https://a.storyblok.com/f/171618/x/462320c2c8/eoi-documents-finall-docx-4.pdf), row 59, read 2026-11-25, supplies a named-site point rather than verified monument centroid or entrance.
 - Worldwide peers (I/U/S/E/D; temple comparison ladder):
   - [Mahabodhi Temple Bodh Gaya (IN)](../../../countries/IN/sights/mahabodhi-temple-bodh-gaya.yaml) — 9.7 / 9.9 / 9.9 / 9.8 / 9.2 (97.55/100); world-leading or strong upper anchor. Cheri (Chagri) Monastery has lower provisional uniqueness and lower depth.
   - [Dambulla Cave Temple (LK)](../../../countries/LK/sights/dambulla-cave-temple.yaml) — 9.2 / 9.5 / 9.5 / 9.1 / 8.8 (92.80/100); comparison for related landscape or heritage. Cheri (Chagri) Monastery has lower provisional uniqueness and lower depth.
@@ -727,7 +727,7 @@ Worldwide v2 · 2026-11-25. All eight UNESCO tentative properties represented by
 ## sight-bt-gangtey-monastery — Gangtey Monastery — 2026-11-25
 
 - [YAML](../../../countries/BT/sights/gangtey-monastery.yaml) · Action: new · **source-linked-unverified**.
-- Scope: one complex separate from valley. Representative approximate coordinates 27.4870, 90.1715; not independently verified.
+- Scope: one complex separate from valley. Representative approximate coordinates 27.484516, 90.164519; [Department of Tourism facility inventory](https://a.storyblok.com/f/171618/x/462320c2c8/eoi-documents-finall-docx-4.pdf), row 83, read 2026-11-25, supplies a named-site point rather than verified monument centroid or entrance.
 - Worldwide peers (I/U/S/E/D; temple comparison ladder):
   - [Mahabodhi Temple Bodh Gaya (IN)](../../../countries/IN/sights/mahabodhi-temple-bodh-gaya.yaml) — 9.7 / 9.9 / 9.9 / 9.8 / 9.2 (97.55/100); world-leading or strong upper anchor. Gangtey Monastery has lower provisional uniqueness and lower depth.
   - [Dambulla Cave Temple (LK)](../../../countries/LK/sights/dambulla-cave-temple.yaml) — 9.2 / 9.5 / 9.5 / 9.1 / 8.8 (92.80/100); comparison for related landscape or heritage. Gangtey Monastery has lower provisional uniqueness and lower depth.
@@ -784,7 +784,7 @@ Worldwide v2 · 2026-11-25. All eight UNESCO tentative properties represented by
 ## sight-bt-jakar-dzong — Jakar Dzong — 2026-11-25
 
 - [YAML](../../../countries/BT/sights/jakar-dzong.yaml) · Action: new · **source-linked-unverified**.
-- Scope: one compound. Representative approximate coordinates 27.5590, 90.7380; not independently verified.
+- Scope: one compound. Representative approximate coordinates 27.549337, 90.742773; [Department of Tourism facility inventory](https://a.storyblok.com/f/171618/x/462320c2c8/eoi-documents-finall-docx-4.pdf), row 88, read 2026-11-25, supplies a named-site point rather than verified monument centroid or entrance.
 - Worldwide peers (I/U/S/E/D; fort comparison ladder):
   - [Hampi Group of Monuments (IN)](../../../countries/IN/sights/hampi-group-of-monuments.yaml) — 9.8 / 9.9 / 9.9 / 9.8 / 9.9 (98.55/100); world-leading or strong upper anchor. Jakar Dzong has lower provisional uniqueness and lower depth.
   - [Patan Durbar Square (NP)](../../../countries/NP/sights/patan-durbar-square.yaml) — 9.3 / 9.4 / 9.4 / 9.2 / 8.9 (92.90/100); comparison for related landscape or heritage. Jakar Dzong has lower provisional uniqueness and lower depth.
@@ -803,7 +803,7 @@ Worldwide v2 · 2026-11-25. All eight UNESCO tentative properties represented by
 ## sight-bt-jambay-lhakhang — Jambay Lhakhang — 2026-11-25
 
 - [YAML](../../../countries/BT/sights/jambay-lhakhang.yaml) · Action: new · **source-linked-unverified**.
-- Scope: compact temple. Representative approximate coordinates 27.5810, 90.7430; not independently verified.
+- Scope: compact temple. Representative approximate coordinates 27.575434, 90.732853; [Department of Tourism facility inventory](https://a.storyblok.com/f/171618/x/462320c2c8/eoi-documents-finall-docx-4.pdf), row 89, read 2026-11-25, supplies a named-site point rather than verified monument centroid or entrance.
 - Worldwide peers (I/U/S/E/D; temple comparison ladder):
   - [Mahabodhi Temple Bodh Gaya (IN)](../../../countries/IN/sights/mahabodhi-temple-bodh-gaya.yaml) — 9.7 / 9.9 / 9.9 / 9.8 / 9.2 (97.55/100); world-leading or strong upper anchor. Jambay Lhakhang has lower provisional uniqueness and lower depth.
   - [Dambulla Cave Temple (LK)](../../../countries/LK/sights/dambulla-cave-temple.yaml) — 9.2 / 9.5 / 9.5 / 9.1 / 8.8 (92.80/100); comparison for related landscape or heritage. Jambay Lhakhang has lower provisional uniqueness and lower depth.
@@ -822,7 +822,7 @@ Worldwide v2 · 2026-11-25. All eight UNESCO tentative properties represented by
 ## sight-bt-kurjey-lhakhang — Kurjey Lhakhang — 2026-11-25
 
 - [YAML](../../../countries/BT/sights/kurjey-lhakhang.yaml) · Action: new · **source-linked-unverified**.
-- Scope: bounded monastery complex. Representative approximate coordinates 27.5910, 90.7450; not independently verified.
+- Scope: bounded monastery complex. Representative approximate coordinates 27.58784, 90.731004; [Department of Tourism facility inventory](https://a.storyblok.com/f/171618/x/462320c2c8/eoi-documents-finall-docx-4.pdf), row 87, read 2026-11-25, supplies a named-site point rather than verified monument centroid or entrance.
 - Worldwide peers (I/U/S/E/D; temple comparison ladder):
   - [Mahabodhi Temple Bodh Gaya (IN)](../../../countries/IN/sights/mahabodhi-temple-bodh-gaya.yaml) — 9.7 / 9.9 / 9.9 / 9.8 / 9.2 (97.55/100); world-leading or strong upper anchor. Kurjey Lhakhang has lower provisional uniqueness and lower depth.
   - [Dambulla Cave Temple (LK)](../../../countries/LK/sights/dambulla-cave-temple.yaml) — 9.2 / 9.5 / 9.5 / 9.1 / 8.8 (92.80/100); comparison for related landscape or heritage. Kurjey Lhakhang has lower provisional uniqueness and lower depth.
@@ -1050,7 +1050,7 @@ Worldwide v2 · 2026-11-25. All eight UNESCO tentative properties represented by
 ## sight-bt-takila-guru-rinpoche-statue — Takila Guru Rinpoche Statue — 2026-11-25
 
 - [YAML](../../../countries/BT/sights/takila-guru-rinpoche-statue.yaml) · Action: new · **source-linked-unverified**.
-- Scope: one statue precinct. Representative approximate coordinates 27.6500, 91.1800; not independently verified.
+- Scope: one statue precinct. Representative approximate coordinates 27.600397, 91.181233; [Department of Tourism facility inventory](https://a.storyblok.com/f/171618/x/462320c2c8/eoi-documents-finall-docx-4.pdf), row 102, read 2026-11-25, supplies a named-site point rather than verified monument centroid or entrance.
 - Worldwide peers (I/U/S/E/D; temple comparison ladder):
   - [Mahabodhi Temple Bodh Gaya (IN)](../../../countries/IN/sights/mahabodhi-temple-bodh-gaya.yaml) — 9.7 / 9.9 / 9.9 / 9.8 / 9.2 (97.55/100); world-leading or strong upper anchor. Takila Guru Rinpoche Statue has lower provisional uniqueness and lower depth.
   - [Dambulla Cave Temple (LK)](../../../countries/LK/sights/dambulla-cave-temple.yaml) — 9.2 / 9.5 / 9.5 / 9.1 / 8.8 (92.80/100); comparison for related landscape or heritage. Takila Guru Rinpoche Statue has lower provisional uniqueness and lower depth.

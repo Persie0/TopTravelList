@@ -2,8 +2,8 @@ id: sight-bt-jambay-lhakhang
 name: "Jambay Lhakhang"
 location:
   country_code: BT
-  latitude: 27.5810
-  longitude: 90.7430
+  latitude: 27.575434
+  longitude: 90.732853
 scores:
   impact: 8.4
   uniqueness: 8.8

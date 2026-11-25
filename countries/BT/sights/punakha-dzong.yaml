@@ -2,8 +2,8 @@ id: sight-bt-punakha-dzong
 name: "Punakha Dzong"
 location:
   country_code: BT
-  latitude: 27.5911
-  longitude: 89.8767
+  latitude: 27.583991
+  longitude: 89.862199
 scores:
   impact: 9.4
   uniqueness: 9.4
