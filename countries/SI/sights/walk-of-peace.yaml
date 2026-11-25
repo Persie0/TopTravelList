@@ -1,0 +1,16 @@
+id: sight-si-walk-of-peace
+name: "Walk of Peace from Alps to Adriatic (Slovenian section)"
+location:
+  country_code: SI
+  latitude: 46.18
+  longitude: 13.67
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 9.2
+  experience: 8.8
+  depth: 9.3
+  categories:
+    history: 9.4
+    nature: 9.0
+    adventure: 8.9

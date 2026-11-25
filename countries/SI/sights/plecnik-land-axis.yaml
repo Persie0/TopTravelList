@@ -1,0 +1,15 @@
+id: sight-si-plecnik-land-axis
+name: "Plečnik land axis and National and University Library"
+location:
+  country_code: SI
+  latitude: 46.047
+  longitude: 14.504
+scores:
+  impact: 8.7
+  uniqueness: 9.0
+  significance: 9.1
+  experience: 8.7
+  depth: 8.4
+  categories:
+    architecture: 9.3
+    culture: 9.1

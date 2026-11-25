@@ -1,0 +1,16 @@
+id: sight-si-lake-bled
+name: "Lake Bled and island landscape"
+location:
+  country_code: SI
+  latitude: 46.361
+  longitude: 14.094
+scores:
+  impact: 9.4
+  uniqueness: 9.2
+  significance: 8.7
+  experience: 9.3
+  depth: 8.8
+  categories:
+    nature: 9.2
+    photography: 9.6
+    relaxation: 9.3

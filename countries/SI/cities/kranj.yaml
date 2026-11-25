@@ -1,0 +1,15 @@
+id: city-si-kranj
+name: "Kranj"
+location:
+  country_code: SI
+  latitude: 46.2389
+  longitude: 14.3556
+scores:
+  impact: 8.1
+  uniqueness: 8.2
+  significance: 8.3
+  experience: 8.4
+  depth: 7.9
+  categories:
+    history: 8.7
+    architecture: 8.7

@@ -1,0 +1,16 @@
+id: sight-si-triglav-summit
+name: "Mount Triglav summit routes"
+location:
+  country_code: SI
+  latitude: 46.378
+  longitude: 13.836
+scores:
+  impact: 9.3
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 8.6
+  depth: 8.5
+  categories:
+    nature: 9.4
+    adventure: 9.4
+    photography: 9.4

@@ -1,0 +1,16 @@
+id: sight-si-ljubljana-castle
+name: "Ljubljana Castle"
+location:
+  country_code: SI
+  latitude: 46.048
+  longitude: 14.508
+scores:
+  impact: 8.7
+  uniqueness: 8.5
+  significance: 8.6
+  experience: 8.8
+  depth: 8.4
+  categories:
+    architecture: 9.0
+    history: 9.0
+    photography: 9.1

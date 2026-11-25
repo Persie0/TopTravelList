@@ -1,0 +1,16 @@
+id: sight-si-lake-bohinj
+name: "Lake Bohinj"
+location:
+  country_code: SI
+  latitude: 46.279
+  longitude: 13.858
+scores:
+  impact: 9.2
+  uniqueness: 8.9
+  significance: 8.7
+  experience: 9.2
+  depth: 9.0
+  categories:
+    nature: 9.4
+    photography: 9.4
+    adventure: 9.1

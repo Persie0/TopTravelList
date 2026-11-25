@@ -1,0 +1,16 @@
+id: sight-si-secovlje-salt-pans
+name: "Sečovlje Salina Nature Park"
+location:
+  country_code: SI
+  latitude: 45.49
+  longitude: 13.61
+scores:
+  impact: 8.5
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 8.6
+  depth: 8.6
+  categories:
+    nature: 9.1
+    history: 9.0
+    culture: 8.9

@@ -1,0 +1,16 @@
+id: sight-si-piran-historic-core
+name: "Piran historic town centre"
+location:
+  country_code: SI
+  latitude: 45.528
+  longitude: 13.568
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 8.8
+  experience: 9.0
+  depth: 8.5
+  categories:
+    architecture: 9.4
+    history: 9.1
+    photography: 9.4

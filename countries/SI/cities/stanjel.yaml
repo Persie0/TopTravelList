@@ -1,0 +1,15 @@
+id: city-si-stanjel
+name: "Štanjel"
+location:
+  country_code: SI
+  latitude: 45.823
+  longitude: 13.846
+scores:
+  impact: 8.4
+  uniqueness: 8.6
+  significance: 8.2
+  experience: 8.3
+  depth: 7.3
+  categories:
+    architecture: 9.0
+    photography: 9.0

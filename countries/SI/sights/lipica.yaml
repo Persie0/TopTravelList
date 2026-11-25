@@ -1,0 +1,16 @@
+id: sight-si-lipica
+name: "Lipica Stud Farm"
+location:
+  country_code: SI
+  latitude: 45.667
+  longitude: 13.881
+scores:
+  impact: 8.4
+  uniqueness: 8.9
+  significance: 8.9
+  experience: 8.8
+  depth: 8.5
+  categories:
+    culture: 9.2
+    history: 9.0
+    photography: 8.7

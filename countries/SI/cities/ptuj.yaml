@@ -1,0 +1,16 @@
+id: city-si-ptuj
+name: "Ptuj"
+location:
+  country_code: SI
+  latitude: 46.419
+  longitude: 15.87
+scores:
+  impact: 8.6
+  uniqueness: 8.6
+  significance: 8.8
+  experience: 8.5
+  depth: 8.1
+  categories:
+    architecture: 9.0
+    history: 9.2
+    culture: 8.9
