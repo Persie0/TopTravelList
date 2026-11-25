@@ -1,0 +1,17 @@
+id: city-er-asmara
+name: "Asmara"
+location:
+  country_code: ER
+  latitude: 15.335278
+  longitude: 38.935833
+scores:
+  impact: 9.0
+  uniqueness: 9.4
+  significance: 9.3
+  experience: 8.5
+  depth: 8.7
+  categories:
+    architecture: 9.6
+    history: 9.3
+    culture: 8.8
+    food: 8.2

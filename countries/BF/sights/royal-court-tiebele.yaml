@@ -1,0 +1,16 @@
+id: sight-bf-royal-court-tiebele
+name: "Royal Court of Tiébélé"
+location:
+  country_code: BF
+  latitude: 11.089222
+  longitude: 0.961861
+scores:
+  impact: 9.1
+  uniqueness: 9.4
+  significance: 9.2
+  experience: 8.6
+  depth: 8.1
+  categories:
+    architecture: 9.5
+    culture: 9.4
+    photography: 9.2

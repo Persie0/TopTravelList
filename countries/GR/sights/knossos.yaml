@@ -1,0 +1,15 @@
+id: sight-gr-knossos
+name: "Knossos Palace archaeological site"
+location:
+  country_code: GR
+  latitude: 35.297222
+  longitude: 25.1625
+scores:
+  impact: 9.1
+  uniqueness: 9.4
+  significance: 9.6
+  experience: 8.9
+  depth: 8.8
+  categories:
+    history: 9.6
+    architecture: 9.3

@@ -1,0 +1,16 @@
+id: city-er-massawa
+name: "Massawa"
+location:
+  country_code: ER
+  latitude: 15.6032
+  longitude: 39.4637
+scores:
+  impact: 8.4
+  uniqueness: 8.7
+  significance: 8.8
+  experience: 7.9
+  depth: 7.8
+  categories:
+    architecture: 9.0
+    history: 9.1
+    culture: 8.5

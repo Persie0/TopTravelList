@@ -1,0 +1,16 @@
+id: city-gh-axim
+name: "Axim"
+location:
+  country_code: GH
+  latitude: 4.869
+  longitude: -2.241
+scores:
+  impact: 7.4
+  uniqueness: 7.7
+  significance: 7.9
+  experience: 7.7
+  depth: 6.8
+  categories:
+    history: 8.3
+    culture: 8.0
+    photography: 8.1

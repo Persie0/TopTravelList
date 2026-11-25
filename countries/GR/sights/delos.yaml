@@ -1,0 +1,15 @@
+id: sight-gr-delos
+name: "Delos archaeological island"
+location:
+  country_code: GR
+  latitude: 37.398
+  longitude: 25.268
+scores:
+  impact: 9.0
+  uniqueness: 9.4
+  significance: 9.5
+  experience: 8.9
+  depth: 9.1
+  categories:
+    history: 9.6
+    architecture: 9.3

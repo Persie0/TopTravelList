@@ -2,7 +2,7 @@
 
 # Nigeria (NG) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**10 ranked** · **2 unassessed** · **12 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,29 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (10)
 
-No cities, towns & villages have been assessed for **Nigeria** yet.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Lagos](cities/lagos.yaml) | City / town | **86.20** | **Culture 9.1**, **Nightlife 9.0**, **Food 8.9** | 8.4 / 8.7 / 8.7 / 8.5 / 9.1 | [6.454, 3.395](https://www.google.com/maps/search/?api=1&query=6.454,3.395) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lagos%2C%20Nigeria) |
+| 2 | [Kano](cities/kano.yaml) | City / town | **84.95** | **History 9.2**, **Culture 9.1**, **Architecture 8.8** | 8.2 / 8.9 / 9.0 / 7.8 / 8.4 | [12, 8.517](https://www.google.com/maps/search/?api=1&query=12,8.517) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kano%2C%20Nigeria) |
+| 3 | [Benin City](cities/benin-city.yaml) | City / town | **83.35** | **History 9.2**, **Culture 9.1** | 7.8 / 8.7 / 9.0 / 8.0 / 8.2 | [6.338, 5.626](https://www.google.com/maps/search/?api=1&query=6.338,5.626) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Benin%20City%2C%20Nigeria) |
+| 4 | [Ile-Ife](cities/ile-ife.yaml) | City / town | **83.20** | **History 9.3**, **Culture 9.2** | 7.8 / 8.8 / 9.1 / 7.8 / 7.9 | [7.490462, 4.552127](https://www.google.com/maps/search/?api=1&query=7.490462,4.552127) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ile-Ife%2C%20Nigeria) |
+| 5 | [Abeokuta](cities/abeokuta.yaml) | City / town | **81.20** | **Culture 8.7**, **History 8.5** | 8.0 / 8.4 / 8.2 / 8.0 / 7.8 | [7.147502, 3.361936](https://www.google.com/maps/search/?api=1&query=7.147502,3.361936) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Abeokuta%2C%20Nigeria) |
+| 6 | [Calabar](cities/calabar.yaml) | City / town | **80.15** | **Culture 8.7**, **History 8.7**, **Food 8.5** | 7.8 / 8.0 / 8.3 / 8.1 / 8.0 | [4.9757165, 8.3417006](https://www.google.com/maps/search/?api=1&query=4.9757165,8.3417006) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Calabar%2C%20Nigeria) |
+| 7 | [Abuja](cities/abuja.yaml) | City / town | **78.60** | **Architecture 8.2**, **Culture 8.0** | 7.8 / 7.6 / 8.1 / 8.0 / 8.0 | [9.058, 7.495](https://www.google.com/maps/search/?api=1&query=9.058,7.495) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Abuja%2C%20Nigeria) |
+| 8 | [Osogbo](cities/osogbo.yaml) | City / town | **78.15** | **Culture 8.7**, **History 8.2** | 7.5 / 8.1 / 8.1 / 7.8 / 7.5 | [7.766667, 4.566667](https://www.google.com/maps/search/?api=1&query=7.766667,4.566667) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Osogbo%2C%20Nigeria) |
+| 9 | [Ibadan](cities/ibadan.yaml) | City / town | **77.70** | **Culture 8.4**, **History 8.4** | 7.4 / 7.9 / 8.2 / 7.7 / 7.8 | [7.378, 3.906](https://www.google.com/maps/search/?api=1&query=7.378,3.906) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ibadan%2C%20Nigeria) |
+| 10 | [Jos](cities/jos.yaml) | City / town | **76.45** | **Culture 8.1**, **History 8.0** | 7.4 / 7.9 / 7.8 / 7.6 / 7.5 | [9.917, 8.9](https://www.google.com/maps/search/?api=1&query=9.917,8.9) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Jos%2C%20Nigeria) |
 
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+## Not yet fully assessed (2)
+
+These destinations have no rank until all five core scores are assessed.
+
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| — | [Port Harcourt](cities/port-harcourt.yaml) | City / town | **—** | — | — / 7.3 / 7.7 / — / — | [4.777, 7.013](https://www.google.com/maps/search/?api=1&query=4.777,7.013) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Port%20Harcourt%2C%20Nigeria) |
+| — | [Sokoto](cities/sokoto.yaml) | City / town | **—** | **History 9.0**, **Culture 8.7** | — / 8.3 / 8.9 / — / — | [13.063, 5.243](https://www.google.com/maps/search/?api=1&query=13.063,5.243) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sokoto%2C%20Nigeria) |
 
 ---
 

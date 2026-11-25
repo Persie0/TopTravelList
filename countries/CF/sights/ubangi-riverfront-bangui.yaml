@@ -1,0 +1,15 @@
+id: sight-cf-ubangi-riverfront-bangui
+name: "Ubangi Riverfront (Bangui)"
+location:
+  country_code: CF
+  latitude: 4.35
+  longitude: 18.58
+scores:
+  impact: 7.5
+  uniqueness: 7.7
+  significance: 7.2
+  experience: 7.6
+  depth: 6.9
+  categories:
+    nature: 8.1
+    photography: 8.3

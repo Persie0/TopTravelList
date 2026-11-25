@@ -2,7 +2,7 @@
 
 # Congo (CG) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**12 ranked** · **0 unassessed** · **12 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,22 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (12)
 
-No cities, towns & villages have been assessed for **Congo** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Brazzaville](cities/brazzaville.yaml) | City / town | **80.55** | **Culture 8.8**, **History 8.8**, **Food 8.3** | 7.7 / 8.1 / 8.5 / 8.0 / 8.2 | [-4.267, 15.283](https://www.google.com/maps/search/?api=1&query=-4.267,15.283) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Brazzaville%2C%20Congo) |
+| 2 | [Pointe-Noire](cities/pointe-noire.yaml) | City / town | **74.80** | **Food 8.4**, **Culture 8.2**, **Relaxation 8.1** | 7.3 / 7.5 / 7.3 / 7.9 / 7.7 | [-4.776, 11.864](https://www.google.com/maps/search/?api=1&query=-4.776,11.864) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Pointe-Noire%2C%20Congo) |
+| 3 | [Mbé](cities/mbe.yaml) | City / town | **73.10** | **Culture 8.8**, **History 8.8** | 6.5 / 8.0 / 8.4 / 7.2 / 6.0 | [-3.28, 15.49](https://www.google.com/maps/search/?api=1&query=-3.28,15.49) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mb%C3%A9%2C%20Congo) |
+| 4 | [Diosso](cities/diosso.yaml) | City / town | **72.35** | **History 8.3**, **Culture 8.2** | 6.8 / 7.7 / 7.9 / 7.2 / 6.1 | [-4.64, 11.85](https://www.google.com/maps/search/?api=1&query=-4.64,11.85) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Diosso%2C%20Congo) |
+| 5 | [Mossaka](cities/mossaka.yaml) | City / town | **69.40** | **Culture 8.0**, **Photography 7.9** | 6.6 / 7.5 / 6.9 / 7.3 / 6.1 | [-1.22, 16.8](https://www.google.com/maps/search/?api=1&query=-1.22,16.8) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mossaka%2C%20Congo) |
+| 6 | [Ouesso](cities/ouesso.yaml) | City / town | **68.90** | **Culture 7.9**, **Photography 7.6** | 6.5 / 7.4 / 6.9 / 7.2 / 6.3 | [1.613611, 16.051667](https://www.google.com/maps/search/?api=1&query=1.613611,16.051667) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ouesso%2C%20Congo) |
+| 7 | [Mbomo](cities/mbomo.yaml) | City / town | **67.10** | **Culture 7.9** | 6.2 / 7.4 / 6.7 / 7.2 / 5.8 | [-0.03, 14.7](https://www.google.com/maps/search/?api=1&query=-0.03,14.7) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mbomo%2C%20Congo) |
+| 8 | [Dolisie](cities/dolisie.yaml) | City / town | **66.95** | **History 7.7**, **Culture 7.6** | 6.2 / 6.9 / 7.1 / 7.0 / 6.4 | [-4.199, 12.674](https://www.google.com/maps/search/?api=1&query=-4.199,12.674) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Dolisie%2C%20Congo) |
+| 9 | [Oyo](cities/oyo.yaml) | City / town | **64.50** | **Food 7.5**, **Culture 7.4** | 6.0 / 6.8 / 6.5 / 7.0 / 6.0 | [-1.165, 15.97](https://www.google.com/maps/search/?api=1&query=-1.165,15.97) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Oyo%2C%20Congo) |
+| 10 | [Owando](cities/owando.yaml) | City / town | **64.25** | **Culture 7.4**, **Food 7.4** | 5.9 / 6.8 / 6.6 / 6.9 / 6.0 | [-0.482, 15.9](https://www.google.com/maps/search/?api=1&query=-0.482,15.9) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Owando%2C%20Congo) |
+| 11 | [Sibiti](cities/sibiti.yaml) | City / town | **63.25** | **Culture 7.3** | 5.8 / 6.7 / 6.5 / 6.8 / 5.9 | [-3.682, 13.35](https://www.google.com/maps/search/?api=1&query=-3.682,13.35) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sibiti%2C%20Congo) |
+| 12 | [Nkayi](cities/nkayi.yaml) | City / town | **63.20** | **Food 7.4**, **Culture 7.3** | 5.7 / 6.6 / 6.7 / 6.8 / 6.0 | [-4.184, 13.286](https://www.google.com/maps/search/?api=1&query=-4.184,13.286) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nkayi%2C%20Congo) |
 
 ---
 

@@ -1,0 +1,15 @@
+id: sight-ua-palanok
+name: "Palanok Castle"
+location:
+  country_code: UA
+  latitude: 48.432
+  longitude: 22.687
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 8.9
+  experience: 8.7
+  depth: 8.4
+  categories:
+    architecture: 9.2
+    history: 9.2

@@ -1,0 +1,15 @@
+id: sight-gh-boti-falls
+name: "Boti Falls"
+location:
+  country_code: GH
+  latitude: 6.212
+  longitude: -0.197
+scores:
+  impact: 8.1
+  uniqueness: 7.9
+  significance: 6.7
+  experience: 8.3
+  depth: 7.0
+  categories:
+    nature: 8.6
+    photography: 8.7

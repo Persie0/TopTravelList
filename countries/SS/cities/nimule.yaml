@@ -1,0 +1,14 @@
+id: city-ss-nimule
+name: "Nimule"
+location:
+  country_code: SS
+  latitude: 3.5969
+  longitude: 32.0601
+scores:
+  impact: null
+  uniqueness: 6.9
+  significance: 6.8
+  experience: null
+  depth: null
+  categories:
+    culture: 7.5

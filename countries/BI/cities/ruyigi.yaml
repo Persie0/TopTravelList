@@ -1,0 +1,14 @@
+id: city-bi-ruyigi
+name: "Ruyigi"
+location:
+  country_code: BI
+  latitude: -3.4763889
+  longitude: 30.2486111
+scores:
+  impact: 5.6
+  uniqueness: 6.4
+  significance: 6.3
+  experience: 6.6
+  depth: 5.8
+  categories:
+    culture: 7.1

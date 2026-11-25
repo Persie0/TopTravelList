@@ -1,0 +1,15 @@
+id: sight-ua-derzhprom
+name: "Derzhprom State Industry Building"
+location:
+  country_code: UA
+  latitude: 50.005
+  longitude: 36.228
+scores:
+  impact: 8.8
+  uniqueness: 9.2
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.5
+    history: 9.3

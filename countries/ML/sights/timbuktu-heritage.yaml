@@ -1,0 +1,16 @@
+id: sight-ml-timbuktu-heritage
+name: "Timbuktu Historic Mosques and Mausoleums"
+location:
+  country_code: ML
+  latitude: 16.773
+  longitude: -3.007
+scores:
+  impact: 8.8
+  uniqueness: 9.5
+  significance: 9.7
+  experience: 8.0
+  depth: 8.4
+  categories:
+    architecture: 9.2
+    history: 9.7
+    culture: 9.6

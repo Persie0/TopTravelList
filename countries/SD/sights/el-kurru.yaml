@@ -1,0 +1,15 @@
+id: sight-sd-el-kurru
+name: "El-Kurru Royal Necropolis"
+location:
+  country_code: SD
+  latitude: 18.41
+  longitude: 31.771389
+scores:
+  impact: 8.8
+  uniqueness: 9.2
+  significance: 9.5
+  experience: 8.3
+  depth: 7.9
+  categories:
+    history: 9.6
+    architecture: 9.1

@@ -1,0 +1,16 @@
+id: sight-ss-all-saints-cathedral-juba
+name: "All Saints Cathedral (Juba)"
+location:
+  country_code: SS
+  latitude: 4.84541
+  longitude: 31.60857
+scores:
+  impact: 6.3
+  uniqueness: 7.3
+  significance: 8.0
+  experience: 7.0
+  depth: 5.5
+  categories:
+    history: 8.3
+    architecture: 7.5
+    culture: 8.2

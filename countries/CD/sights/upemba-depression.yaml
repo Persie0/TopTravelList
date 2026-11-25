@@ -1,0 +1,14 @@
+id: sight-cd-upemba-depression
+name: "Upemba Depression Archaeological Landscape"
+location:
+  country_code: CD
+  latitude: -8.6
+  longitude: 26.4
+scores:
+  impact: null
+  uniqueness: 9.0
+  significance: 9.3
+  experience: null
+  depth: null
+  categories:
+    history: 9.4

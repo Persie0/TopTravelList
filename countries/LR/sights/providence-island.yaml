@@ -1,0 +1,15 @@
+id: sight-lr-providence-island
+name: "Providence Island"
+location:
+  country_code: LR
+  latitude: 6.319349
+  longitude: -10.800984
+scores:
+  impact: 7.5
+  uniqueness: 8.7
+  significance: 9.3
+  experience: 7.7
+  depth: 6.6
+  categories:
+    history: 9.4
+    culture: 9.1

@@ -1,0 +1,14 @@
+id: sight-gh-fort-james-jamestown
+name: "Fort James (Jamestown)"
+location:
+  country_code: GH
+  latitude: 5.532
+  longitude: -0.211
+scores:
+  impact: null
+  uniqueness: 8.0
+  significance: 8.5
+  experience: null
+  depth: null
+  categories:
+    history: 8.8

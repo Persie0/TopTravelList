@@ -1,0 +1,16 @@
+id: sight-ua-carpathian-park
+name: "Carpathian National Nature Park"
+location:
+  country_code: UA
+  latitude: 48.24
+  longitude: 24.55
+scores:
+  impact: 9.0
+  uniqueness: 8.9
+  significance: 8.9
+  experience: 9.0
+  depth: 9.2
+  categories:
+    nature: 9.4
+    adventure: 9.3
+    photography: 9.3

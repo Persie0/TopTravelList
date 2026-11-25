@@ -1,0 +1,14 @@
+id: sight-ua-struve-baranowka
+name: "Struve Geodetic Arc — Baranowka station"
+location:
+  country_code: UA
+  latitude: 49.148611
+  longitude: 26.991667
+scores:
+  impact: null
+  uniqueness: 8.2
+  significance: 9.0
+  experience: null
+  depth: null
+  categories:
+    history: 9.1

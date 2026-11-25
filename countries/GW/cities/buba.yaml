@@ -1,0 +1,15 @@
+id: city-gw-buba
+name: "Buba"
+location:
+  country_code: GW
+  latitude: 11.59
+  longitude: -14.99
+scores:
+  impact: 6.2
+  uniqueness: 7.0
+  significance: 6.5
+  experience: 7.0
+  depth: 6.2
+  categories:
+    culture: 7.5
+    relaxation: 7.5

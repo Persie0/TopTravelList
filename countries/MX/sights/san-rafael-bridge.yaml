@@ -1,0 +1,13 @@
+id: sight-mx-san-rafael-bridge
+name: "Bridge of San Rafael"
+location:
+  country_code: MX
+  latitude: 20.940964
+  longitude: -100.793694
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}
