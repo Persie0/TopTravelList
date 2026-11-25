@@ -252,3 +252,72 @@
 - Earlier decision: none.
 - Verification still needed: Independent town-specific visitor evidence needed.
 
+### city-pg-alotau — Alotau — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/PG/cities/alotau.yaml)
+- Action: rescore
+- Precise subject: Town proper; exclude offshore islands and distant battlefields; verify museum hours.
+- Location check: existing representative point retained; independent corroboration pending.
+- Evidence status: source-linked-unverified
+- Checked factual reference excerpts (2026-11-25):
+  - PNG Tourism describes waterfront and bay views — https://papuanewguinea.travel/milne-bay-province/
+  - Visitor guide identifies market, museum and waterfront — https://www.visapng.com/destinations/alotau/
+- Missing or uncertain facts: Town proper; exclude offshore islands and distant battlefields; verify museum hours.
+
+#### Worldwide peer comparisons
+- Kampot (Cambodia): greater urban breadth
+- Salzburg (Austria): much richer historic fabric
+- Auckland (New Zealand): larger harbor city
+- Kavieng (PNG): comparable port town
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | null | 7.3 | Scenic bay frontage |
+| Uniqueness | null | 7.4 | Distinct Milne Bay provincial town |
+| Significance | null | 7.1 | Regional civic and historical context |
+| Experience | null | 7.5 | Local market and waterfront experiences |
+| Depth | null | 6.9 | Several modest local stops |
+
+- Applicable category scores: none assessed (unchanged).
+- Computed worldwide overall: 72.75/100
+- High-score challenge: no new 9.5+ or 90+ claim.
+- Approved 10 registry: none.
+- Final decision: provisional worldwide ranking on documented visitor scope; not independently verified.
+- Earlier decision: earlier entry for this ID, unranked.
+- Verification still needed: Town proper; exclude offshore islands and distant battlefields; verify museum hours.
+
+### city-pg-kavieng — Kavieng — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/PG/cities/kavieng.yaml)
+- Action: rescore
+- Precise subject: Town proper only; exclude offshore reefs and verify heritage site access.
+- Location check: existing representative point retained; independent corroboration pending.
+- Evidence status: source-linked-unverified
+- Checked factual reference excerpts (2026-11-25):
+  - Tourism New Ireland describes harbour drive, historic points and market — https://www.newirelandtourism.org/places-to-go
+  - Visitor guide distinguishes offshore surf and dive trips — https://www.visapng.com/destinations/kavieng/
+- Missing or uncertain facts: Town proper only; exclude offshore reefs and verify heritage site access.
+
+#### Worldwide peer comparisons
+- Kampot (Cambodia): more substantial urban offer
+- Salzburg (Austria): richer built heritage
+- Auckland (New Zealand): larger urban harbor experience
+- Alotau (PNG): comparable provincial waterfront
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | null | 7.1 | Pleasant harbor streets |
+| Uniqueness | null | 7.2 | Distinct New Ireland port |
+| Significance | null | 7.0 | Local maritime and historical role |
+| Experience | null | 7.3 | Market and waterfront walk |
+| Depth | null | 6.7 | Limited urban breadth |
+
+- Applicable category scores: none assessed (unchanged).
+- Computed worldwide overall: 70.95/100
+- High-score challenge: no new 9.5+ or 90+ claim.
+- Approved 10 registry: none.
+- Final decision: provisional worldwide ranking on documented visitor scope; not independently verified.
+- Earlier decision: earlier entry for this ID, unranked.
+- Verification still needed: Town proper only; exclude offshore reefs and verify heritage site access.
