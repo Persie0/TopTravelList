@@ -422,3 +422,197 @@
 - Final decision: inventory only; no transfer of lagoon merits.
 - Verification still needed: village-specific research and customary permissions.
 
+
+
+### city-ki-paelau — Paelau Village — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/KI/cities/paelau.yaml)
+- Action: rescore
+- Precise subject: named settlement, not island-wide attractions or nearby independent sights.
+- Location check: retain prior representative coordinate; independent verification outstanding.
+- Evidence status: source-linked-unverified
+- Factual references consulted (2026-11-25):
+  - Firsthand account of two cruise visits documents village walks, craft markets and local singing — https://myitchytravelfeet.com/fanning-island/ (page inspected).
+  - Family-owned Fanning Huts describes its Paelau-based traditional buias and hosted meals — https://fanninghuts.com/about-fanning-huts (page inspected).
+  - Independent 2025 cruise account corroborates craft markets in Paelau — https://cruisingwithbillandmaryann.blogspot.com/2025/10/report-42-tuesday-october-14-2025.html (indexed excerpt).
+- Missing or uncertain facts: No guarantee of cruise-market or performance schedules, private home access or availability. Coordinate uncorroborated.
+
+#### Worldwide peer comparisons
+- Kampot (Cambodia), 7.6/7.9/7.5/8.3/7.9: richer documented built heritage, cuisine and exploration.
+- Rach Gia (Vietnam), 7.2/7.5/7.3/7.8/7.9: larger coastal town with more independent visitor experiences.
+- Kuala Perlis (Malaysia), 6.5/6.8/6.5/7.2/6.7: modest coastal settlement with established food experiences.
+- London Village (Kiribati), 6.4/7.3/6.6/6.8/6.0: comparable atoll settlement; separate village-specific cultural and historical evidence.
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | null | 6.8 | Low coral-island village and waterfront scenery, not the separate lagoon's full impact. |
+| Uniqueness | null | 7.4 | Distinct local crafts, traditional accommodation and village life. |
+| Significance | null | 6.6 | Atoll administrative centre with meaningful regional role, not globally defining settlement history. |
+| Experience | null | 7.5 | Documented community-hosted markets, food and walks offer a focused visit. |
+| Depth | null | 6.5 | Several local experiences, with limited breadth outside event days; fishing flats excluded. |
+
+- Applicable category scores: culture 7.7, relaxation 7.4; provisional.
+- Computed worldwide overall: 69.85/100
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: complete provisional v2 profile using actual branch YAML peer records.
+- Earlier decision: prior incomplete profile.
+- Verification still needed: No guarantee of cruise-market or performance schedules, private home access or availability. Coordinate uncorroborated. Canonical diagnostics outstanding.
+
+
+### city-ki-poland — Poland Village — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/KI/cities/poland.yaml)
+- Action: rescore
+- Precise subject: named settlement, not island-wide attractions or nearby independent sights.
+- Location check: retain prior representative coordinate; independent verification outstanding.
+- Evidence status: source-linked-unverified
+- Factual references consulted (2026-11-25):
+  - Tourism Authority of Kiribati report published by Pacific Tourism Organisation identifies village as a key destination and active homestay initiative participant — https://southpacificislands.travel/kiritimati-island-welcomes-minister-reete-and-miss-kiribati-for-celebrations-and-official-visit/ (page inspected).
+  - Polish foreign ministry confirms village name and St Stanislaus church, describing naming account as attributed to some sources — https://www.gov.pl/web/nowazelandia/relacje-dwustronne-kiribati (page inspected).
+  - Firsthand 2013 visit documents the church and local hospitality — https://linktopoland.com/en/project-poland-helps-poland-part-3-visiting-kiritimati/ (indexed excerpt).
+- Missing or uncertain facts: Naming story disputed; do not present founder legend as fact. Current homestay operations and permissions not independently confirmed.
+
+#### Worldwide peer comparisons
+- Kampot (Cambodia), 7.6/7.9/7.5/8.3/7.9: richer documented built heritage, cuisine and exploration.
+- Rach Gia (Vietnam), 7.2/7.5/7.3/7.8/7.9: larger coastal town with more independent visitor experiences.
+- Kuala Perlis (Malaysia), 6.5/6.8/6.5/7.2/6.7: modest coastal settlement with established food experiences.
+- London Village (Kiribati), 6.4/7.3/6.6/6.8/6.0: comparable atoll settlement; separate village-specific cultural and historical evidence.
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | null | 6.5 | Modest rural village setting, no separate Long Beach landscape score transferred. |
+| Uniqueness | null | 7.5 | Unusual trans-Pacific naming association and church, with locally hosted culture. |
+| Significance | null | 6.8 | Interesting historical connections but uncertain origin legend and limited global significance. |
+| Experience | null | 7.0 | Documented village visits and homestay initiative support focused cultural experiences; no guaranteed church entry. |
+| Depth | null | 6.0 | Limited independently documented visitor sites; homestay participation not equivalent to varied tourist venues. |
+
+- Applicable category scores: culture 7.5, history 7.2; provisional.
+- Computed worldwide overall: 68.35/100
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: complete provisional v2 profile using actual branch YAML peer records.
+- Earlier decision: prior incomplete profile.
+- Verification still needed: Naming story disputed; do not present founder legend as fact. Current homestay operations and permissions not independently confirmed. Canonical diagnostics outstanding.
+
+
+### city-ki-tabwakea — Tabwakea Village — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/KI/cities/tabwakea.yaml)
+- Action: rescore
+- Precise subject: named settlement, not island-wide attractions or nearby independent sights.
+- Location check: retain prior representative coordinate; independent verification outstanding.
+- Evidence status: source-linked-unverified
+- Factual references consulted (2026-11-25):
+  - World Council of Churches firsthand 2018 account describes village church service, church hall and community kitchen — https://www.oikoumene.org/blog/kiritimati-and-the-bomb-a-tale-of-two-churches (page inspected).
+  - Kiribati travel specialist identifies Crystal Beach Resort in the village and meals by arrangement — https://www.kiribatiholidays.com/accommodation/kiritimati (page inspected).
+  - Kiribati Trade Portal identifies Kiritimati Urban Council at Tabwakea — https://kiribati.tradeportal.org/Contacts/33?l=gl (indexed excerpt).
+- Missing or uncertain facts: Church visit is historical and invitation-based; current visitor permission and precise location require further corroboration.
+
+#### Worldwide peer comparisons
+- Kampot (Cambodia), 7.6/7.9/7.5/8.3/7.9: richer documented built heritage, cuisine and exploration.
+- Rach Gia (Vietnam), 7.2/7.5/7.3/7.8/7.9: larger coastal town with more independent visitor experiences.
+- Kuala Perlis (Malaysia), 6.5/6.8/6.5/7.2/6.7: modest coastal settlement with established food experiences.
+- London Village (Kiribati), 6.4/7.3/6.6/6.8/6.0: comparable atoll settlement; separate village-specific cultural and historical evidence.
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | null | 6.3 | Modest low-rise village setting with coastal context. |
+| Uniqueness | null | 6.9 | Local religious and community traditions provide regional distinctiveness. |
+| Significance | null | 6.5 | Urban council and church community role, without credit for atoll-wide nuclear history. |
+| Experience | null | 6.9 | Documented hosted religious visit and village dining support modest local exploration; no automatic church access. |
+| Depth | null | 6.1 | Few independent documented settlement experiences; offshore fishing excluded. |
+
+- Applicable category scores: culture 7.3, food 6.9; provisional.
+- Computed worldwide overall: 65.60/100
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: complete provisional v2 profile using actual branch YAML peer records.
+- Earlier decision: prior incomplete profile.
+- Verification still needed: Church visit is historical and invitation-based; current visitor permission and precise location require further corroboration. Canonical diagnostics outstanding.
+
+
+### city-ki-teaoraereke — Teaoraereke Village — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/KI/cities/teaoraereke.yaml)
+- Action: rescore
+- Precise subject: named settlement, not island-wide attractions or nearby independent sights.
+- Location check: retain prior representative coordinate; independent verification outstanding.
+- Evidence status: source-linked-unverified
+- Factual references consulted (2026-11-25):
+  - GCatholic lists Sacred Heart as the diocesan cathedral — https://gcatholic.org/churches/local/tara2.htm (page inspected).
+  - Vodafone Kiribati directory identifies Catholic Mission in Teaoraereke — https://www.vodafone.com.ki/Directory/Church (indexed excerpt).
+  - South Tarawa guide describes cathedral visit in Teaoraereke — https://tripcuro.com/travelguide/kiribati/gilbert-islands/south-tarawa/ (indexed excerpt).
+  - Independent guide describes village shops and stalls — https://sitimax.com/en/guides/things-to-do-in-kiribati (indexed excerpt; limited reliability).
+- Missing or uncertain facts: Visitor sources partly indexed and lower confidence; confirm cathedral access, village boundary, additional public venues and coordinate.
+
+#### Worldwide peer comparisons
+- Kampot (Cambodia), 7.6/7.9/7.5/8.3/7.9: richer documented built heritage, cuisine and exploration.
+- Rach Gia (Vietnam), 7.2/7.5/7.3/7.8/7.9: larger coastal town with more independent visitor experiences.
+- Kuala Perlis (Malaysia), 6.5/6.8/6.5/7.2/6.7: modest coastal settlement with established food experiences.
+- London Village (Kiribati), 6.4/7.3/6.6/6.8/6.0: comparable atoll settlement; separate village-specific cultural and historical evidence.
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | null | 6.0 | Modest village streetscape with religious landmark. |
+| Uniqueness | null | 6.9 | Local Catholic community and urban village character offer modest distinctiveness. |
+| Significance | null | 7.0 | Diocesan centre supports meaningful national religious significance. |
+| Experience | null | 6.7 | Documented cathedral exterior and local village life support focused visit; no guarantee of services or entry. |
+| Depth | null | 6.0 | Limited additional verified village activities; cathedral remains separately rated. |
+
+- Applicable category scores: culture 7.4, architecture 6.8; provisional.
+- Computed worldwide overall: 65.30/100
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: complete provisional v2 profile using actual branch YAML peer records.
+- Earlier decision: prior incomplete profile.
+- Verification still needed: Visitor sources partly indexed and lower confidence; confirm cathedral access, village boundary, additional public venues and coordinate. Canonical diagnostics outstanding.
+
+
+### city-ki-taburao — Taburao Village — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/KI/cities/taburao.yaml)
+- Action: rescore
+- Precise subject: named settlement, not island-wide attractions or nearby independent sights.
+- Location check: retain prior representative coordinate; independent verification outstanding.
+- Evidence status: unassessed
+- Factual references consulted (2026-11-25):
+  - Abaiang guide identifies Taburao as main government centre and distinguishes Koinawa church — https://en.wikivoyage.org/wiki/Abaiang (indexed excerpt).
+  - Council guesthouse described in secondary entry — https://en.wikipedia.org/wiki/Abaiang (indexed excerpt).
+- Missing or uncertain facts: Avoid transferring Koinawa's church or Abaiang's lagoon rating; confirm council guesthouse and settlement-specific visitor experiences.
+
+#### Worldwide peer comparisons
+- Kampot (Cambodia), 7.6/7.9/7.5/8.3/7.9: richer documented built heritage, cuisine and exploration.
+- Rach Gia (Vietnam), 7.2/7.5/7.3/7.8/7.9: larger coastal town with more independent visitor experiences.
+- Kuala Perlis (Malaysia), 6.5/6.8/6.5/7.2/6.7: modest coastal settlement with established food experiences.
+- London Village (Kiribati), 6.4/7.3/6.6/6.8/6.0: comparable atoll settlement; separate village-specific cultural and historical evidence.
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | null | null | Specific streetscape insufficiently documented. |
+| Uniqueness | null | null | Village-level distinctiveness unverified. |
+| Significance | null | 6.3 | Local administrative role established provisionally. |
+| Experience | null | null | Guesthouse existence alone does not establish meaningful visitor activities. |
+| Depth | null | null | No verified independent visitor breadth. |
+
+- Applicable category scores: none assessed; provisional.
+- Computed worldwide overall: unranked
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: retain incomplete profile pending local evidence.
+- Earlier decision: prior incomplete profile.
+- Verification still needed: Avoid transferring Koinawa's church or Abaiang's lagoon rating; confirm council guesthouse and settlement-specific visitor experiences. Canonical diagnostics outstanding.
+
+
+## 2026-11-25 — remaining settlement scope
+
+- Bonriki: UNDP small-grants project identifies a local community (https://www.sgp.undp.org/spacial-itemid-projects-landing-page/spacial-itemid-project-search-results/spacial-itemid-project-detailpage.html?id=26097&view=projectdetail); GCatholic lists a parish (https://gcatholic.org/churches/local/tara2.htm). The airport and generic atoll sightseeing do not establish a village-specific visitor profile. Retain all nulls.
+- Kabangaki: GeoNames labels the feature a section of island (https://www.geonames.org/7576792); government Abemama tourism consultation (https://www.melad.gov.ki/index.php?Itemid=511&id=103&option=com_quix&view=page) identifies activities in other named villages. Confirm settlement identity and local visitor scope. Retain all nulls.
+- Makin: ministry island profiles confirm the island council (https://mcia.gov.ki/node/66); secondary visitor guide describes local churches and mediated village stays at island level (https://tripcuro.com/travelguide/kiribati/gilbert-islands/makin/). Exact village-specific experiences and guesthouse status remain unclear; no transfer of Butaritari heritage from the historical naming ambiguity. Retain all nulls.
+
+These references were consulted as indexed excerpts except GCatholic. No invented visitor scores for the three settlements.
