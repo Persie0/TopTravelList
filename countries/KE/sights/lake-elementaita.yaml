@@ -1,0 +1,15 @@
+id: sight-ke-lake-elementaita
+name: "Lake Elementaita"
+location:
+  country_code: KE
+  latitude: -0.4425
+  longitude: 36.24
+scores:
+  impact: 8.6
+  uniqueness: 8.9
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    nature: 9.2
+    wildlife: 9.3

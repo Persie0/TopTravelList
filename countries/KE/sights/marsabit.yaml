@@ -1,0 +1,15 @@
+id: sight-ke-marsabit
+name: "Marsabit National Park and Reserve"
+location:
+  country_code: KE
+  latitude: 2.316667
+  longitude: 37.983333
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.5
+  depth: 8.4
+  categories:
+    nature: 9.2
+    wildlife: 9.0
