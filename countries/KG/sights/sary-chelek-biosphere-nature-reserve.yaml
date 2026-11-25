@@ -1,0 +1,17 @@
+id: sight-kg-sary-chelek-biosphere-nature-reserve
+name: "Sary-Chelek Biosphere Nature Reserve"
+location:
+  country_code: KG
+  latitude: 41.873611
+  longitude: 71.937222
+scores:
+  impact: 9.1
+  uniqueness: 9.1
+  significance: 9.3
+  experience: 8.7
+  depth: 9.1
+  categories:
+    nature: 9.4
+    photography: 9.3
+    wildlife: 9.1
+    adventure: 8.8

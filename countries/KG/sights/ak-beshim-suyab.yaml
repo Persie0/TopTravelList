@@ -1,0 +1,14 @@
+id: sight-kg-ak-beshim-suyab
+name: "Ak-Beshim (Suyab)"
+location:
+  country_code: KG
+  latitude: 42.801944
+  longitude: 75.203333
+scores:
+  impact: 6.8
+  uniqueness: 8.2
+  significance: 9.1
+  experience: 6.8
+  depth: 7.1
+  categories:
+    history: 9.3
