@@ -1,0 +1,14 @@
+id: city-sb-auki
+name: "Auki"
+location:
+  country_code: SB
+  latitude: -8.76778
+  longitude: 160.69778
+scores:
+  impact: 6.2
+  uniqueness: 6.9
+  significance: 6.5
+  experience: 6.8
+  depth: 6.1
+  categories:
+    culture: 7.3

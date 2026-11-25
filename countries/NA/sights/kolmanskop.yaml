@@ -1,0 +1,16 @@
+id: sight-na-kolmanskop
+name: "Kolmanskop Ghost Town"
+location:
+  country_code: NA
+  latitude: -26.7019
+  longitude: 15.23185
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 8.7
+  experience: 8.8
+  depth: 8.1
+  categories:
+    history: 9.0
+    architecture: 8.8
+    photography: 9.3

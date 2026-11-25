@@ -1,0 +1,16 @@
+id: sight-fj-garden-of-the-sleeping-giant
+name: "Garden of the Sleeping Giant"
+location:
+  country_code: FJ
+  latitude: -17.713
+  longitude: 177.4693
+scores:
+  impact: 7.9
+  uniqueness: 7.9
+  significance: 7.1
+  experience: 8.1
+  depth: 7.5
+  categories:
+    nature: 8.4
+    relaxation: 8.3
+    photography: 8.3

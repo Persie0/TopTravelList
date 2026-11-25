@@ -1,0 +1,15 @@
+id: sight-vu-chief-roi-matas-domain
+name: "Chief Roi Mata's Domain"
+location:
+  country_code: VU
+  latitude: -17.62807
+  longitude: 168.17772
+scores:
+  impact: 8.3
+  uniqueness: 9.1
+  significance: 9.1
+  experience: 8.1
+  depth: 8.2
+  categories:
+    history: 9.2
+    culture: 9.3

@@ -1,0 +1,13 @@
+id: city-mh-namdrik
+name: "Namdrik Village"
+location:
+  country_code: MH
+  latitude: 5.599
+  longitude: 168.103
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}

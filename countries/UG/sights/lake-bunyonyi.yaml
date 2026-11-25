@@ -1,0 +1,16 @@
+id: sight-ug-lake-bunyonyi
+name: "Lake Bunyonyi"
+location:
+  country_code: UG
+  latitude: -1.283333
+  longitude: 29.918056
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 8.0
+  experience: 8.8
+  depth: 8.5
+  categories:
+    nature: 9.1
+    photography: 9.2
+    relaxation: 9.1

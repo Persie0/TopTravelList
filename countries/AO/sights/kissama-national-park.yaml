@@ -1,0 +1,15 @@
+id: sight-ao-kissama-national-park
+name: "Kissama National Park"
+location:
+  country_code: AO
+  latitude: -9.93329
+  longitude: 14.03293
+scores:
+  impact: 8.3
+  uniqueness: 8.3
+  significance: 8.5
+  experience: 8.2
+  depth: 8.3
+  categories:
+    nature: 8.8
+    wildlife: 8.7

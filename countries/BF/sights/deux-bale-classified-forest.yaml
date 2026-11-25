@@ -1,0 +1,15 @@
+id: sight-bf-deux-bale-classified-forest
+name: "Deux Balé Classified Forest (National Park)"
+location:
+  country_code: BF
+  latitude: 11.66667
+  longitude: -3
+scores:
+  impact: null
+  uniqueness: 8.3
+  significance: 8.7
+  experience: null
+  depth: null
+  categories:
+    nature: 8.8
+    wildlife: null

@@ -1,0 +1,16 @@
+id: sight-tz-serengeti-national-park
+name: "Serengeti National Park"
+location:
+  country_code: TZ
+  latitude: -2.333333
+  longitude: 34.833333
+scores:
+  impact: 9.9
+  uniqueness: 9.8
+  significance: 9.8
+  experience: 9.6
+  depth: 9.7
+  categories:
+    nature: 9.8
+    wildlife: 9.9
+    photography: 9.8

@@ -1,0 +1,15 @@
+id: city-ng-abuja
+name: "Abuja"
+location:
+  country_code: NG
+  latitude: 9.058
+  longitude: 7.495
+scores:
+  impact: 7.8
+  uniqueness: 7.6
+  significance: 8.1
+  experience: 8.0
+  depth: 8.0
+  categories:
+    architecture: 8.2
+    culture: 8.0

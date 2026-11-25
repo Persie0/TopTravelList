@@ -1,0 +1,16 @@
+id: sight-ng-kano-city-walls
+name: "Ancient Kano City Walls and Associated Sites"
+location:
+  country_code: NG
+  latitude: 12
+  longitude: 8.517
+scores:
+  impact: 8.4
+  uniqueness: 8.9
+  significance: 9.2
+  experience: 8.1
+  depth: 8.3
+  categories:
+    history: 9.3
+    architecture: 8.9
+    culture: 9.1

@@ -1,0 +1,13 @@
+id: city-ug-kabale
+name: "Kabale"
+location:
+  country_code: UG
+  latitude: -1.241956
+  longitude: 29.985616
+scores:
+  impact: null
+  uniqueness: 7.6
+  significance: 7.4
+  experience: null
+  depth: null
+  categories: {}

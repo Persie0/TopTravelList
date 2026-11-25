@@ -1,0 +1,16 @@
+id: sight-fm-chuuk-lagoon
+name: "Chuuk Lagoon"
+location:
+  country_code: FM
+  latitude: 7.4167
+  longitude: 151.7833
+scores:
+  impact: 9.1
+  uniqueness: 9.3
+  significance: 8.9
+  experience: 9.1
+  depth: 9.2
+  categories:
+    history: 9.1
+    adventure: 9.3
+    wildlife: 8.1

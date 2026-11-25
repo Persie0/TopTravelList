@@ -1,0 +1,16 @@
+id: city-ng-calabar
+name: "Calabar"
+location:
+  country_code: NG
+  latitude: 4.9757165
+  longitude: 8.3417006
+scores:
+  impact: 7.8
+  uniqueness: 8.0
+  significance: 8.3
+  experience: 8.1
+  depth: 8.0
+  categories:
+    culture: 8.7
+    history: 8.7
+    food: 8.5

@@ -1,0 +1,15 @@
+id: sight-sn-madeleine-islands-national-park
+name: "Madeleine Islands National Park"
+location:
+  country_code: SN
+  latitude: 14.654722
+  longitude: -17.4725
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 8.4
+  experience: null
+  depth: null
+  categories:
+    nature: 8.9
+    wildlife: 8.7

@@ -1,0 +1,14 @@
+id: sight-ne-w-national-park-archaeological-sites
+name: "W National Park Archaeological Sites"
+location:
+  country_code: NE
+  latitude: 12.5
+  longitude: 2.5
+scores:
+  impact: null
+  uniqueness: 8.7
+  significance: 9.1
+  experience: null
+  depth: null
+  categories:
+    history: 9.1

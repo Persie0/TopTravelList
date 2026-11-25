@@ -2,7 +2,7 @@
 
 # South Sudan (SS) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**1 ranked** · **9 unassessed** · **10 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,27 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (1)
 
-No cities, towns & villages have been assessed for **South Sudan** yet.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Juba](cities/juba.yaml) | City / town | **71.55** | **History 8.7**, **Culture 8.0**, **Food 7.6** | 6.4 / 7.3 / 8.3 / 7.0 / 7.0 | [4.852, 31.582](https://www.google.com/maps/search/?api=1&query=4.852,31.582) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Juba%2C%20South%20Sudan) |
 
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+## Not yet fully assessed (9)
+
+These destinations have no rank until all five core scores are assessed.
+
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| — | [Aweil](cities/aweil.yaml) | City / town | **—** | **Culture 7.4** | — / 6.7 / 6.7 / — / — | [8.762, 27.392](https://www.google.com/maps/search/?api=1&query=8.762,27.392) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Aweil%2C%20South%20Sudan) |
+| — | [Bor](cities/bor.yaml) | City / town | **—** | **History 8.1**, **Culture 7.9** | — / 7.4 / 7.6 / — / — | [6.209, 31.559](https://www.google.com/maps/search/?api=1&query=6.209,31.559) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bor%2C%20South%20Sudan) |
+| — | [Kuacjok](cities/kuacjok.yaml) | City / town | **—** | **Culture 7.3** | — / 6.6 / 6.7 / — / — | [8.303, 27.98](https://www.google.com/maps/search/?api=1&query=8.303,27.98) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kuacjok%2C%20South%20Sudan) |
+| — | [Malakal](cities/malakal.yaml) | City / town | **—** | **History 8.0**, **Culture 7.8** | — / 7.2 / 7.6 / — / — | [9.533, 31.66](https://www.google.com/maps/search/?api=1&query=9.533,31.66) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Malakal%2C%20South%20Sudan) |
+| — | [Nimule](cities/nimule.yaml) | City / town | **—** | **Culture 7.5** | — / 6.9 / 6.8 / — / — | [3.5969, 32.0601](https://www.google.com/maps/search/?api=1&query=3.5969,32.0601) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nimule%2C%20South%20Sudan) |
+| — | [Rumbek](cities/rumbek.yaml) | City / town | **—** | **History 8.0**, **Culture 7.9** | — / 7.3 / 7.5 / — / — | [6.806, 29.677](https://www.google.com/maps/search/?api=1&query=6.806,29.677) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Rumbek%2C%20South%20Sudan) |
+| — | [Wau](cities/wau.yaml) | City / town | **—** | **History 8.2**, **Culture 7.9** | — / 7.3 / 7.7 / — / — | [7.701, 27.99](https://www.google.com/maps/search/?api=1&query=7.701,27.99) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Wau%2C%20South%20Sudan) |
+| — | [Yambio](cities/yambio.yaml) | City / town | **—** | **Culture 7.6** | — / 6.9 / 6.8 / — / — | [4.571, 28.394](https://www.google.com/maps/search/?api=1&query=4.571,28.394) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Yambio%2C%20South%20Sudan) |
+| — | [Yei](cities/yei.yaml) | City / town | **—** | **Culture 7.4** | — / 6.7 / 6.7 / — / — | [4.094, 30.676](https://www.google.com/maps/search/?api=1&query=4.094,30.676) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Yei%2C%20South%20Sudan) |
 
 ---
 

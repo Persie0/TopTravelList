@@ -1,0 +1,16 @@
+id: sight-so-laas-geel
+name: "Laas Geel Rock Art"
+location:
+  country_code: SO
+  latitude: 9.78116
+  longitude: 44.44348
+scores:
+  impact: 9.3
+  uniqueness: 9.6
+  significance: 9.5
+  experience: 8.7
+  depth: 8.5
+  categories:
+    history: 9.6
+    culture: 9.4
+    photography: 9.3

@@ -1,0 +1,14 @@
+id: sight-ke-kilifi-caves
+name: "Kilifi Caves (Panga Ya Saidi, Mawe Meru and Chasimba)"
+location:
+  country_code: KE
+  latitude: -3.742361
+  longitude: 39.701778
+scores:
+  impact: null
+  uniqueness: 9.3
+  significance: 9.5
+  experience: null
+  depth: null
+  categories:
+    history: 9.5

@@ -1,0 +1,14 @@
+id: sight-sd-dokki-geil
+name: "Dokki Geil Archaeological Site"
+location:
+  country_code: SD
+  latitude: 19.61
+  longitude: 30.41
+scores:
+  impact: null
+  uniqueness: 9.0
+  significance: 9.3
+  experience: null
+  depth: null
+  categories:
+    history: 9.4
