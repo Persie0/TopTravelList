@@ -1,0 +1,15 @@
+id: city-ba-stolac
+name: "Stolac"
+location:
+  country_code: BA
+  latitude: 43.0844
+  longitude: 17.9577
+scores:
+  impact: 7.8
+  uniqueness: 8.2
+  significance: 8.3
+  experience: 7.9
+  depth: 7.5
+  categories:
+    history: 8.8
+    architecture: 8.5

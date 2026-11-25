@@ -1,0 +1,15 @@
+id: sight-ba-trebinje-old-town
+name: "Trebinje Old Town"
+location:
+  country_code: BA
+  latitude: 42.7115
+  longitude: 18.3450
+scores:
+  impact: 8.0
+  uniqueness: 8.1
+  significance: 7.9
+  experience: 8.5
+  depth: 7.8
+  categories:
+    architecture: 8.5
+    food: 8.5

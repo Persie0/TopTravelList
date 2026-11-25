@@ -1,0 +1,15 @@
+id: sight-ba-tvrdos-monastery
+name: "Tvrdoš Monastery"
+location:
+  country_code: BA
+  latitude: 42.7210
+  longitude: 18.2990
+scores:
+  impact: 7.9
+  uniqueness: 8.2
+  significance: 8.3
+  experience: 8.4
+  depth: 7.6
+  categories:
+    culture: 8.8
+    history: 8.7

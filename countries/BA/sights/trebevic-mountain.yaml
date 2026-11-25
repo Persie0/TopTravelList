@@ -1,0 +1,15 @@
+id: sight-ba-trebevic-mountain
+name: "Trebević Mountain"
+location:
+  country_code: BA
+  latitude: 43.8130
+  longitude: 18.4510
+scores:
+  impact: 8.3
+  uniqueness: 8.1
+  significance: 7.4
+  experience: 8.6
+  depth: 8.4
+  categories:
+    nature: 8.8
+    adventure: 8.7

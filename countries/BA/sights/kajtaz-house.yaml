@@ -1,0 +1,15 @@
+id: sight-ba-kajtaz-house
+name: "Kajtaz House"
+location:
+  country_code: BA
+  latitude: 43.3345
+  longitude: 17.8180
+scores:
+  impact: 7.7
+  uniqueness: 8.2
+  significance: 8.1
+  experience: 8.2
+  depth: 7.2
+  categories:
+    culture: 8.7
+    architecture: 8.5

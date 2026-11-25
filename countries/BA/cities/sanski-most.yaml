@@ -1,0 +1,14 @@
+id: city-ba-sanski-most
+name: "Sanski Most"
+location:
+  country_code: BA
+  latitude: 44.7650
+  longitude: 16.6650
+scores:
+  impact: 6.9
+  uniqueness: 7.1
+  significance: 7.0
+  experience: 7.4
+  depth: 7.0
+  categories:
+    relaxation: 7.8

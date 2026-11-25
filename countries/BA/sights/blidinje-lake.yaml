@@ -1,0 +1,15 @@
+id: sight-ba-blidinje-lake
+name: "Blidinje Lake"
+location:
+  country_code: BA
+  latitude: 43.6100
+  longitude: 17.5100
+scores:
+  impact: 8.2
+  uniqueness: 8.1
+  significance: 7.3
+  experience: 8.3
+  depth: 7.8
+  categories:
+    nature: 8.8
+    photography: 8.9

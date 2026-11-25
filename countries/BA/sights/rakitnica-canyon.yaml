@@ -1,0 +1,15 @@
+id: sight-ba-rakitnica-canyon
+name: "Rakitnica Canyon"
+location:
+  country_code: BA
+  latitude: 43.6400
+  longitude: 18.1900
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 8.0
+  experience: 8.6
+  depth: 8.5
+  categories:
+    nature: 9.3
+    adventure: 9.2

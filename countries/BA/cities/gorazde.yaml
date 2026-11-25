@@ -1,0 +1,14 @@
+id: city-ba-gorazde
+name: "Goražde"
+location:
+  country_code: BA
+  latitude: 43.6660
+  longitude: 18.9750
+scores:
+  impact: 7.0
+  uniqueness: 7.2
+  significance: 7.6
+  experience: 7.4
+  depth: 7.1
+  categories:
+    history: 8

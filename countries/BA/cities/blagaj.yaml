@@ -1,0 +1,15 @@
+id: city-ba-blagaj
+name: "Blagaj"
+location:
+  country_code: BA
+  latitude: 43.2573
+  longitude: 17.8891
+scores:
+  impact: 7.8
+  uniqueness: 8.0
+  significance: 7.7
+  experience: 8.0
+  depth: 7.2
+  categories:
+    photography: 8.6
+    culture: 8.2

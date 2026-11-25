@@ -1,0 +1,15 @@
+id: sight-ba-daorson-archaeological-site
+name: "Daorson Archaeological Site"
+location:
+  country_code: BA
+  latitude: 43.1000
+  longitude: 17.9810
+scores:
+  impact: 8.1
+  uniqueness: 8.8
+  significance: 8.8
+  experience: 8.0
+  depth: 7.7
+  categories:
+    history: 9.2
+    architecture: 8.8

@@ -1,0 +1,15 @@
+id: city-ba-bihac
+name: "Bihać"
+location:
+  country_code: BA
+  latitude: 44.8119
+  longitude: 15.8686
+scores:
+  impact: 7.7
+  uniqueness: 7.8
+  significance: 7.6
+  experience: 8.1
+  depth: 7.6
+  categories:
+    relaxation: 8.4
+    food: 8.1

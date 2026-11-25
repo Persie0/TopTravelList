@@ -1,0 +1,16 @@
+id: sight-ba-blagaj-tekke
+name: "Blagaj Tekke"
+location:
+  country_code: BA
+  latitude: 43.2565
+  longitude: 17.9030
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 8.5
+  experience: 8.7
+  depth: 7.8
+  categories:
+    architecture: 9
+    culture: 9
+    photography: 9.3

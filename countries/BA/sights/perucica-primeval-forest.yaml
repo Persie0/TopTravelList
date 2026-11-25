@@ -1,0 +1,15 @@
+id: sight-ba-perucica-primeval-forest
+name: "Perućica Primeval Forest"
+location:
+  country_code: BA
+  latitude: 43.3030
+  longitude: 18.7030
+scores:
+  impact: 8.7
+  uniqueness: 9.0
+  significance: 9.0
+  experience: 8.0
+  depth: 8.4
+  categories:
+    nature: 9.4
+    wildlife: 9

@@ -1,0 +1,14 @@
+id: sight-ba-bobovac-medieval-fortress
+name: "Bobovac Medieval Fortress"
+location:
+  country_code: BA
+  latitude: 44.1590
+  longitude: 18.2470
+scores:
+  impact: 8.1
+  uniqueness: 8.5
+  significance: 9.0
+  experience: 8.1
+  depth: 7.6
+  categories:
+    history: 9.3

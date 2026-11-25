@@ -1,0 +1,15 @@
+id: sight-ba-kocusa-waterfall
+name: "Koćuša Waterfall"
+location:
+  country_code: BA
+  latitude: 43.2390
+  longitude: 17.4680
+scores:
+  impact: 8.0
+  uniqueness: 7.8
+  significance: 6.9
+  experience: 8.2
+  depth: 7.1
+  categories:
+    nature: 8.6
+    photography: 8.7

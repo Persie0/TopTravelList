@@ -1,0 +1,15 @@
+id: sight-ba-lukomir-highland-village
+name: "Lukomir Highland Village"
+location:
+  country_code: BA
+  latitude: 43.6370
+  longitude: 18.1800
+scores:
+  impact: 8.4
+  uniqueness: 8.7
+  significance: 8.1
+  experience: 8.4
+  depth: 7.6
+  categories:
+    culture: 9
+    photography: 9.2

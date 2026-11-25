@@ -1,0 +1,15 @@
+id: city-ba-tuzla
+name: "Tuzla"
+location:
+  country_code: BA
+  latitude: 44.5384
+  longitude: 18.6671
+scores:
+  impact: 7.2
+  uniqueness: 7.5
+  significance: 7.5
+  experience: 7.9
+  depth: 7.6
+  categories:
+    relaxation: 8.3
+    history: 8
