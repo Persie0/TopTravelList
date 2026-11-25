@@ -1,0 +1,15 @@
+id: city-ve-juan-griego
+name: "Juan Griego"
+location:
+  country_code: VE
+  latitude: 11.0833
+  longitude: -63.9667
+scores:
+  impact: 7.2
+  uniqueness: 7.5
+  significance: 6.7
+  experience: 7.8
+  depth: 6.4
+  categories:
+    photography: 8.5
+    relaxation: 8.2
