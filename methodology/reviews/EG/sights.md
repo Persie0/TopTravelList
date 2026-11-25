@@ -211,24 +211,36 @@
 - Evidence: [source context](https://whc.unesco.org/en/statesparties/eg) (consulted 2026-11-25; country inventory confirms designation only). No full independent claim-level verification.
 - Remaining gaps: precise GPS, individual facts and permitted access, category and specialist peer calibration.
 
-## sight-eg-abu-mena — Abu Mena Archaeological Site — 2026-11-25
+## sight-eg-abu-mena — Abu Mena Archaeological Site — 2026-11-26
 
-- [YAML](../../../countries/EG/sights/abu-mena.yaml) · Action: new · **unassessed**.
-- Scope: inscribed early Christian pilgrimage ruins. GPS 30.842, 29.663: approximate editorial reference; independent verification pending.
-- Worldwide peers (I/U/S/E/D):
-  - [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 10.0 / 10.0 / 10.0 / 9.8 / 10.0; global sacred archaeological ensemble ceiling; future comparison only; visitor scope unresolved.
-  - [Petra Archaeological Park (JO)](../../../countries/JO/sights/petra-archaeological-park.yaml) — 9.9 / 9.9 / 9.9 / 9.8 / 9.9; monumental ancient rock-cut heritage; future comparison only; visitor scope unresolved.
-  - [Pompeii Archaeological Park (IT)](../../../countries/IT/sights/pompeii.yaml) — 9.6 / 9.7 / 9.7 / 9.3 / 9.5; extensive ancient urban remains; future comparison only; visitor scope unresolved.
-  - [Jerash Archaeological City (JO)](../../../countries/JO/sights/jerash-archaeological-city.yaml) — 9.5 / 9.3 / 9.5 / 9.4 / 9.3; provincial monumental archaeology; future comparison only; visitor scope unresolved.
-- Impact null: inscribed early Christian pilgrimage ruins.
-- Uniqueness null: normal permitted visitor scope unresolved.
-- Significance null: inscribed property.
-- Experience null: site access not verified.
-- Depth null: conservation and accessible remains require review.
-- Categories: none assessed. Overall: unranked.
-- High-score challenge: no 9.5+ fields. No approved 10.
-- Evidence: [source context](https://whc.unesco.org/en/statesparties/eg) (consulted 2026-11-25; country inventory confirms designation only). No full independent claim-level verification.
-- Remaining gaps: precise GPS, individual facts and permitted access, component scope and all five dimensions.
+- YAML: [source](../../../countries/EG/sights/abu-mena.yaml)
+- Action: rescore
+- Precise subject: Inscribed early Christian archaeological city, documented public archaeological remains only; excludes modern monastery and closed excavation areas.
+- Location check: 30.835833, 29.666667; representative point, not entrance.
+- Evidence status: **source-linked-unverified**
+- Sources (2026-11-26): UNESCO https://whc.unesco.org/en/list/90/ (opened) identifies early Christian pilgrimage city, basilicas, baptismal buildings, domestic and workshop remains, and representative coordinates N30 50 9 E29 40 0. Ministry https://egymonuments.gov.eg/archaeological-sites/abu-mina-1 (opened) describes archaeological remains and lists daily visitor hours; extent of accessible areas not confirmed. UNESCO https://whc.unesco.org/en/decisions/8701 (indexed) records 2025 removal from World Heritage in Danger; https://whc.unesco.org/en/decisions/9059 (indexed) records ongoing groundwater monitoring requirements in 2026. No assumption that all restoration is complete.
+- Missing facts: current access and full independent factual verification.
+
+### Worldwide peer comparisons
+- [adulis-archaeological-site (ER)](../../../countries/ER/sights/adulis-archaeological-site.yaml): 7.5/8.6/9.4/7.8/7.4; similar archaeological footprint and major regional heritage.
+- [carnuntum-archaeological-park (AT)](../../../countries/AT/sights/carnuntum-archaeological-park.yaml): 8.7/8.9/9.0/8.8/8.4; more extensive visible reconstructed architecture and interpretation.
+- [yeha-cultural-heritage (ET)](../../../countries/ET/sights/yeha-cultural-heritage.yaml): 8.4/9.0/9.2/8.0/7.9; more concentrated intact ancient architectural monument.
+- [chemtou-quarries (TN)](../../../countries/TN/sights/chemtou-quarries.yaml): 8.3/9.1/9.2/8.6/8.3; broader documented museum interpretation, different ancient heritage.
+
+### Scoring decisions
+- Impact: 7.9 — Substantial archaeological layout but fragmentary standing architecture.
+- Uniqueness: 8.9 — Distinctive early Christian pilgrimage-city ensemble.
+- Significance: 9.3 — Internationally important pilgrimage and monastic archaeology, documented inscription.
+- Experience: 7.8 — Ministry lists public opening hours; limited interpretation and restricted zones not credited.
+- Depth: 8.1 — Multiple surviving archaeological features, narrower visible breadth than major ancient cities.
+- Applicable categories: history 9.4, architecture 8.5.
+- Overall: 84.35/100.
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide V2 assessment for documented visitor scope.
+- Earlier decision: [prior incomplete assessment](history-review-2026-11-26.md).
+- Verification still needed: current visitor conditions, precise public entrance and full independent claim-level corroboration.
+
 
 ## sight-eg-saint-catherine-area — Saint Catherine Area — 2026-11-25
 
@@ -400,6 +412,8 @@
 - High-score challenge: Impact 9.6: monumental display spaces and Egyptian antiquities; compared with field references above; Uniqueness 9.7: rare concentration of pharaonic collections; compared with field references above; Significance 9.8: global archaeological heritage including royal collections; compared with field references above; Experience 9.5: multiple galleries with interpretation; compared with field references above; Depth 9.7: extensive museum collection and thematic breadth; compared with field references above; history 9.9: global archaeological heritage including royal collections; compared with field references above; culture 9.7: rare concentration of pharaonic collections; compared with field references above. 90+ overall reflects multiple strong fields, not inscription alone. No approved 10.
 - Evidence: [source context](https://sis.gov.eg/en/egyptians-abroad-portal/discover-egypt/museums/) (consulted 2026-11-25; state information service museum context). No full independent claim-level verification.
 - Remaining gaps: precise GPS, individual facts and permitted access, category and specialist peer calibration.
+
+- 2026-11-26 evidence follow-up: official museum ticketing https://tickets.gem.eg/ (indexed) lists Tutankhamun galleries, main galleries, grand hall, stairs, Khufu boats museum and gardens as included in standard admission. https://gem.eg/en/visit/plan-your-visit/tours/group-guided-tour/ (indexed) describes guided interpretation of Tutankhamun collection. This supersedes historical trial-opening descriptions; no credit for non-public storage or conservation laboratories. Existing 96.60 remains provisional, not increased.
 
 ## sight-eg-egyptian-museum-cairo — Egyptian Museum in Tahrir — 2026-11-25
 
@@ -629,40 +643,64 @@
 - Evidence: [source context](https://whc.unesco.org/en/statesparties/eg) (consulted 2026-11-25; country inventory confirms designation only). No full independent claim-level verification.
 - Remaining gaps: precise GPS, individual facts and permitted access, component scope and all five dimensions.
 
-## sight-eg-pharaoh-island — Pharaoh's Island — 2026-11-25
+## sight-eg-pharaoh-island — Pharaoh's Island — 2026-11-26
 
-- [YAML](../../../countries/EG/sights/pharaoh-island.yaml) · Action: new · **unassessed**.
-- Scope: tentative island fortress. GPS 29.463, 34.858: approximate editorial reference; independent verification pending.
-- Worldwide peers (I/U/S/E/D):
-  - [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 10.0 / 10.0 / 10.0 / 9.8 / 10.0; global sacred archaeological ensemble ceiling; future comparison only; visitor scope unresolved.
-  - [Petra Archaeological Park (JO)](../../../countries/JO/sights/petra-archaeological-park.yaml) — 9.9 / 9.9 / 9.9 / 9.8 / 9.9; monumental ancient rock-cut heritage; future comparison only; visitor scope unresolved.
-  - [Pompeii Archaeological Park (IT)](../../../countries/IT/sights/pompeii.yaml) — 9.6 / 9.7 / 9.7 / 9.3 / 9.5; extensive ancient urban remains; future comparison only; visitor scope unresolved.
-  - [Jerash Archaeological City (JO)](../../../countries/JO/sights/jerash-archaeological-city.yaml) — 9.5 / 9.3 / 9.5 / 9.4 / 9.3; provincial monumental archaeology; future comparison only; visitor scope unresolved.
-- Impact null: tentative island fortress.
-- Uniqueness null: scope and access not verified.
-- Significance null: tentative property.
-- Experience null: permitted routes unknown.
-- Depth null: site access requires review.
-- Categories: none assessed. Overall: unranked.
-- High-score challenge: no 9.5+ fields. No approved 10.
-- Evidence: [source context](https://whc.unesco.org/en/statesparties/eg) (consulted 2026-11-25; country inventory confirms designation only). No full independent claim-level verification.
-- Remaining gaps: precise GPS, individual facts and permitted access, component scope and all five dimensions.
+- YAML: [source](../../../countries/EG/sights/pharaoh-island.yaml)
+- Action: rescore
+- Precise subject: Single island fortress and documented boat approach; excludes Al-Gundi fortress, reef activities not specifically documented for the attraction, and other Taba sites.
+- Location check: 29.463, 34.858; representative point, not entrance.
+- Evidence status: **source-linked-unverified**
+- Sources (2026-11-26): UNESCO https://whc.unesco.org/en/tentativelists/196 (indexed) documents strategic medieval island fortress; https://whc.unesco.org/en/tentativelists/1828 (indexed) also includes it with Al-Gundi. Egyptian Tourism Authority https://www.experienceegypt.eg/en/attraction-details/288/salah-al-din-castle (indexed excerpt; direct page redirects to homepage) describes short ferry from Taba and historic fortress views. Current ferry operation and interior access unconfirmed. Existing approximate island coordinate retained pending corroboration.
+- Missing facts: current access and full independent factual verification.
 
-## sight-eg-nilometer-roda — Roda Island Nilometer — 2026-11-25
+### Worldwide peer comparisons
+- [karak-castle (JO)](../../../countries/JO/sights/karak-castle.yaml): 8.8/8.7/9.0/8.7/8.6; larger medieval fortress and established land-based visitor circuit.
+- [bahla-fort (OM)](../../../countries/OM/sights/bahla-fort.yaml): 8.8/8.8/9.2/8.6/8.5; larger inscribed fortification with greater documented heritage.
+- [fasil-ghebbi (ET)](../../../countries/ET/sights/fasil-ghebbi.yaml): 9.2/9.3/9.4/9.0/8.7; broader fortified royal ensemble.
+- [table-jugurtha (TN)](../../../countries/TN/sights/table-jugurtha.yaml): 9/9/8.7/8.6/8.2; distinct natural defensive site, more extensive viewpoint circuit.
 
-- [YAML](../../../countries/EG/sights/nilometer-roda.yaml) · Action: new · **unassessed**.
-- Scope: tentative historic water measurement monument. GPS 30.005, 31.226: approximate editorial reference; independent verification pending.
-- Worldwide peers (I/U/S/E/D):
-  - [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 10.0 / 10.0 / 10.0 / 9.8 / 10.0; global sacred archaeological ensemble ceiling; future comparison only; visitor scope unresolved.
-  - [Petra Archaeological Park (JO)](../../../countries/JO/sights/petra-archaeological-park.yaml) — 9.9 / 9.9 / 9.9 / 9.8 / 9.9; monumental ancient rock-cut heritage; future comparison only; visitor scope unresolved.
-  - [Pompeii Archaeological Park (IT)](../../../countries/IT/sights/pompeii.yaml) — 9.6 / 9.7 / 9.7 / 9.3 / 9.5; extensive ancient urban remains; future comparison only; visitor scope unresolved.
-  - [Jerash Archaeological City (JO)](../../../countries/JO/sights/jerash-archaeological-city.yaml) — 9.5 / 9.3 / 9.5 / 9.4 / 9.3; provincial monumental archaeology; future comparison only; visitor scope unresolved.
-- Impact null: tentative historic water measurement monument.
-- Uniqueness null: individual evidence pending.
-- Significance null: tentative property.
-- Experience null: normal visitor access unverified.
-- Depth null: precise scope needs review.
-- Categories: none assessed. Overall: unranked.
-- High-score challenge: no 9.5+ fields. No approved 10.
-- Evidence: [source context](https://whc.unesco.org/en/statesparties/eg) (consulted 2026-11-25; country inventory confirms designation only). No full independent claim-level verification.
-- Remaining gaps: precise GPS, individual facts and permitted access, component scope and all five dimensions.
+### Scoring decisions
+- Impact: 8.8 — Visually striking small fortified island and mountain-sea setting.
+- Uniqueness: 8.7 — Distinctive maritime fortification setting with international analogues.
+- Significance: 8.8 — Important medieval regional defensive and trade-route context.
+- Experience: 8.2 — Documented ferry and exterior views; current operations and interior route not verified.
+- Depth: 7.7 — Compact fortress and boat approach rather than broader serial property.
+- Applicable categories: history 9, architecture 8.9, photography 9.
+- Overall: 85.75/100.
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide V2 assessment for documented visitor scope.
+- Earlier decision: [prior incomplete assessment](history-review-2026-11-26.md).
+- Verification still needed: current visitor conditions, precise public entrance and full independent claim-level corroboration.
+
+
+## sight-eg-nilometer-roda — Roda Island Nilometer — 2026-11-26
+
+- YAML: [source](../../../countries/EG/sights/nilometer-roda.yaml)
+- Action: rescore
+- Precise subject: Historic measuring shaft, central column, stair and monument building; excludes neighboring palace and broader Cairo.
+- Location check: 30.006944, 31.224722; representative point, not entrance.
+- Evidence status: **source-linked-unverified**
+- Sources (2026-11-26): Ministry https://egymonuments.gov.eg/en/monuments/rawda-island-nilometer/ (opened) describes Abbasid construction, inscribed stone well and historical flood-measurement function, lists hours and admission. UNESCO https://whc.unesco.org/en/tentativelists/1826/ (indexed) documents tentative hydraulic heritage and location. Cairo Gazetteer authority https://femenrev.persee.fr/authority/604325 (indexed) gives N30°00′25″ E31°13′29″, converted to decimal. No claim that descent into well is permitted.
+- Missing facts: current access and full independent factual verification.
+
+### Worldwide peer comparisons
+- [ironbridge (GB)](../../../countries/GB/sights/ironbridge.yaml): 8.5/8.9/9.2/8.8/8.7; more extensive technological heritage visitor landscape.
+- [tarnowskie-gory-mine (PL)](../../../countries/PL/sights/tarnowskie-gory-mine.yaml): 8.7/9.1/9.3/8.8/8.6; broader historic water-management engineering and underground visits.
+- [budj-bim-cultural-landscape (AU)](../../../countries/AU/sights/budj-bim-cultural-landscape.yaml): 8.0/9.0/9.3/8.1/8.0; important living hydraulic engineering heritage, wider landscape.
+- [pisek-stone-bridge (CZ)](../../../countries/CZ/sights/pisek-stone-bridge.yaml): 8.0/8.4/8.7/8.1/6.9; similarly focused medieval engineering monument, less unusual function.
+
+### Scoring decisions
+- Impact: 8.2 — Distinctive stone-lined shaft and measuring column.
+- Uniqueness: 9 — Rare surviving early medieval hydraulic and measurement architecture.
+- Significance: 9 — Important evidence of flood management and taxation history.
+- Experience: 8.3 — Official admission and monument viewing documented, no unrestricted stair access assumed.
+- Depth: 7 — Focused single monument with limited independent features.
+- Applicable categories: history 9.2, architecture 8.9.
+- Overall: 84.55/100.
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide V2 assessment for documented visitor scope.
+- Earlier decision: [prior incomplete assessment](history-review-2026-11-26.md).
+- Verification still needed: current visitor conditions, precise public entrance and full independent claim-level corroboration.
+

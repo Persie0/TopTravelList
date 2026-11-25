@@ -2,12 +2,14 @@ id: sight-eg-nilometer-roda
 name: "Roda Island Nilometer"
 location:
   country_code: EG
-  latitude: 30.005
-  longitude: 31.226
+  latitude: 30.006944
+  longitude: 31.224722
 scores:
-  impact: null
-  uniqueness: null
-  significance: null
-  experience: null
-  depth: null
-  categories: {}
+  impact: 8.2
+  uniqueness: 9
+  significance: 9
+  experience: 8.3
+  depth: 7
+  categories:
+    history: 9.2
+    architecture: 8.9
