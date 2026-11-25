@@ -1,0 +1,16 @@
+id: city-ye-tarim
+name: "Tarim"
+location:
+  country_code: YE
+  latitude: 16.055
+  longitude: 49.00028
+scores:
+  impact: 8.4
+  uniqueness: 8.7
+  significance: 8.6
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.0
+    history: 8.8
+    culture: 8.7

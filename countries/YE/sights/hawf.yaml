@@ -1,0 +1,15 @@
+id: sight-ye-hawf
+name: "Hawf Area"
+location:
+  country_code: YE
+  latitude: 16.65
+  longitude: 52.991667
+scores:
+  impact: 8.6
+  uniqueness: 8.9
+  significance: 8.9
+  experience: null
+  depth: null
+  categories:
+    nature: 9.1
+    wildlife: 8.8
