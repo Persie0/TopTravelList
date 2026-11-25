@@ -1,0 +1,14 @@
+id: sight-kg-kulbeskhan-settlement
+name: "Kulbeskhan Settlement"
+location:
+  country_code: KG
+  latitude: 41.885444
+  longitude: 71.292081
+scores:
+  impact: null
+  uniqueness: 7.8
+  significance: 8.6
+  experience: null
+  depth: null
+  categories:
+    history: 8.9

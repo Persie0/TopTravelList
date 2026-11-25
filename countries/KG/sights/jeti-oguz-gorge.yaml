@@ -1,0 +1,16 @@
+id: sight-kg-jeti-oguz-gorge
+name: "Jeti-Oguz Gorge"
+location:
+  country_code: KG
+  latitude: 42.328
+  longitude: 78.24
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 7.5
+  experience: 8.7
+  depth: 8.2
+  categories:
+    nature: 8.9
+    photography: 9.2
+    adventure: 8.6
