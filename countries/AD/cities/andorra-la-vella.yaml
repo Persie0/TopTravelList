@@ -1,0 +1,17 @@
+id: city-ad-andorra-la-vella
+name: "Andorra la Vella"
+location:
+  country_code: AD
+  latitude: 42.5063
+  longitude: 1.5218
+scores:
+  impact: 7.6
+  uniqueness: 8.0
+  significance: 8.1
+  experience: 8.0
+  depth: 7.9
+  categories:
+    culture: 8.4
+    history: 8.4
+    architecture: 8.0
+    food: 8.0

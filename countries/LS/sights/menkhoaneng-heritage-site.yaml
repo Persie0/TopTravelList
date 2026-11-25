@@ -1,0 +1,15 @@
+id: sight-ls-menkhoaneng-heritage-site
+name: "Menkhoaneng Heritage Site"
+location:
+  country_code: LS
+  latitude: -28.890083
+  longitude: 28.222017
+scores:
+  impact: null
+  uniqueness: null
+  significance: 8.4
+  experience: null
+  depth: null
+  categories:
+    history: 8.8
+    culture: 8.5

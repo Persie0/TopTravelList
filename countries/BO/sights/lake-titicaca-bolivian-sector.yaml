@@ -1,0 +1,17 @@
+id: sight-bo-lake-titicaca-bolivian-sector
+name: "Lake Titicaca (Bolivian sector)"
+location:
+  country_code: BO
+  latitude: -16.0500
+  longitude: -69.0000
+scores:
+  impact: 9.3
+  uniqueness: 9.3
+  significance: 9.4
+  experience: 8.9
+  depth: 9.1
+  categories:
+    nature: 9.5
+    photography: 9.5
+    culture: 9.4
+    history: 9.1

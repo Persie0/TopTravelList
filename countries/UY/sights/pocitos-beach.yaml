@@ -1,0 +1,15 @@
+id: sight-uy-pocitos-beach
+name: "Pocitos Beach"
+location:
+  country_code: UY
+  latitude: -34.9139
+  longitude: -56.1441
+scores:
+  impact: 7.4
+  uniqueness: 7.0
+  significance: 6.2
+  experience: 8.0
+  depth: 7.3
+  categories:
+    beaches: 8.2
+    relaxation: 8.3

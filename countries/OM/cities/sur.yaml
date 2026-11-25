@@ -1,0 +1,16 @@
+id: city-om-sur
+name: "Sur"
+location:
+  country_code: OM
+  latitude: 22.567
+  longitude: 59.528
+scores:
+  impact: 7.9
+  uniqueness: 8.2
+  significance: 8.0
+  experience: 8.2
+  depth: 7.5
+  categories:
+    culture: 8.7
+    history: 8.4
+    photography: 8.4

@@ -1,0 +1,15 @@
+id: sight-bo-casa-de-la-libertad
+name: "Casa de la Libertad"
+location:
+  country_code: BO
+  latitude: -19.0474
+  longitude: -65.2598
+scores:
+  impact: 8.0
+  uniqueness: 8.4
+  significance: 9.1
+  experience: 8.3
+  depth: 7.6
+  categories:
+    history: 9.4
+    culture: 8.8

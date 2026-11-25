@@ -1,0 +1,15 @@
+id: city-ar-la-rioja
+name: "La Rioja"
+location:
+  country_code: AR
+  latitude: -29.4131
+  longitude: -66.8558
+scores:
+  impact: 6.5
+  uniqueness: 6.9
+  significance: 7.2
+  experience: 7.2
+  depth: 6.7
+  categories:
+    culture: 7.8
+    history: 7.7

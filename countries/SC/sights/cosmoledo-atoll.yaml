@@ -1,0 +1,15 @@
+id: sight-sc-cosmoledo-atoll
+name: "Cosmoledo Atoll"
+location:
+  country_code: SC
+  latitude: -9.7210
+  longitude: 47.5790
+scores:
+  impact: null
+  uniqueness: null
+  significance: 8.5
+  experience: null
+  depth: null
+  categories:
+    nature: 9.0
+    wildlife: 9.0

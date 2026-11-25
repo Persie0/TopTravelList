@@ -1,0 +1,15 @@
+id: sight-hn-cerro-las-minas
+name: "Cerro Las Minas"
+location:
+  country_code: HN
+  latitude: 14.5500
+  longitude: -88.6750
+scores:
+  impact: 8.4
+  uniqueness: 8.3
+  significance: 7.7
+  experience: 8.8
+  depth: 7.9
+  categories:
+    adventure: 9.1
+    nature: 8.7

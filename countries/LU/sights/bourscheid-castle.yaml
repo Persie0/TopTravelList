@@ -1,0 +1,16 @@
+id: sight-lu-bourscheid-castle
+name: "Bourscheid Castle"
+location:
+  country_code: LU
+  latitude: 49.9055
+  longitude: 6.0789
+scores:
+  impact: 8.6
+  uniqueness: 8.6
+  significance: 8.7
+  experience: 8.5
+  depth: 8.2
+  categories:
+    architecture: 9.0
+    history: 9.1
+    photography: 9.0

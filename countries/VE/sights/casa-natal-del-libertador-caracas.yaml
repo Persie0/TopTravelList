@@ -1,0 +1,15 @@
+id: sight-ve-casa-natal-del-libertador-caracas
+name: "Casa Natal del Libertador (Caracas)"
+location:
+  country_code: VE
+  latitude: 10.5040
+  longitude: -66.9140
+scores:
+  impact: 7.6
+  uniqueness: 8.2
+  significance: 9.0
+  experience: 7.8
+  depth: 6.8
+  categories:
+    history: 9.4
+    culture: 8.7

@@ -1,0 +1,15 @@
+id: sight-bz-baron-bliss-lighthouse
+name: "Baron Bliss Lighthouse"
+location:
+  country_code: BZ
+  latitude: 17.492
+  longitude: -88.179
+scores:
+  impact: 6.5
+  uniqueness: 6.6
+  significance: 7.2
+  experience: 6.8
+  depth: 5.6
+  categories:
+    history: 7.6
+    photography: 7.2

@@ -1,0 +1,15 @@
+id: sight-bz-chiquibul-national-park
+name: "Chiquibul National Park"
+location:
+  country_code: BZ
+  latitude: 16.731
+  longitude: -89.035
+scores:
+  impact: null
+  uniqueness: 8.9
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    nature: 9.2
+    wildlife: 9.1

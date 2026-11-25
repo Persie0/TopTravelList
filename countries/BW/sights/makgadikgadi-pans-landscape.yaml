@@ -1,0 +1,16 @@
+id: sight-bw-makgadikgadi-pans-landscape
+name: "Makgadikgadi Pans Landscape"
+location:
+  country_code: BW
+  latitude: -20.9000
+  longitude: 25.8200
+scores:
+  impact: 9.6
+  uniqueness: 9.6
+  significance: 8.6
+  experience: 8.7
+  depth: 8.9
+  categories:
+    nature: 9.6
+    photography: 9.8
+    adventure: 9.1

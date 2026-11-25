@@ -1,0 +1,16 @@
+id: sight-ee-kuressaare-fortress
+name: "Kuressaare Fortress"
+location:
+  country_code: EE
+  latitude: 58.247
+  longitude: 22.479
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 8.7
+  experience: 8.8
+  depth: 8.5
+  categories:
+    architecture: 9.1
+    history: 9
+    photography: 8.8

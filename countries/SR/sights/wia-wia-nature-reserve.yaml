@@ -1,0 +1,15 @@
+id: sight-sr-wia-wia-nature-reserve
+name: "Wia Wia Nature Reserve"
+location:
+  country_code: SR
+  latitude: 5.9000
+  longitude: -54.2000
+scores:
+  impact: null
+  uniqueness: 8.2
+  significance: 8.5
+  experience: null
+  depth: null
+  categories:
+    wildlife: 8.8
+    nature: 8.6

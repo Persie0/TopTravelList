@@ -1,0 +1,15 @@
+id: sight-ls-mohale-dam
+name: "Mohale Dam"
+location:
+  country_code: LS
+  latitude: -29.4690
+  longitude: 28.0880
+scores:
+  impact: 8.2
+  uniqueness: 7.6
+  significance: 7.7
+  experience: 8.1
+  depth: 7.3
+  categories:
+    architecture: 8.3
+    photography: 8.6

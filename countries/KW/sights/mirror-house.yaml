@@ -1,0 +1,16 @@
+id: sight-kw-mirror-house
+name: "Mirror House"
+location:
+  country_code: KW
+  latitude: 29.3420
+  longitude: 48.0160
+scores:
+  impact: 7.9
+  uniqueness: 8.5
+  significance: 7.2
+  experience: 8.0
+  depth: 7.0
+  categories:
+    architecture: 8.5
+    culture: 8.5
+    photography: 8.6

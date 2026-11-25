@@ -1,0 +1,15 @@
+id: sight-br-geoglyphs-of-acre
+name: "Geoglyphs of Acre"
+location:
+  country_code: BR
+  latitude: -10.1000
+  longitude: -67.9000
+scores:
+  impact: null
+  uniqueness: 9.1
+  significance: 9.4
+  experience: null
+  depth: null
+  categories:
+    history: 9.6
+    culture: 9.2

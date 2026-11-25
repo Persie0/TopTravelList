@@ -1,0 +1,15 @@
+id: sight-mt-golden-bay
+name: "Golden Bay"
+location:
+  country_code: MT
+  latitude: 35.9333
+  longitude: 14.3440
+scores:
+  impact: 8.3
+  uniqueness: 8.0
+  significance: 6.3
+  experience: 8.8
+  depth: 7.8
+  categories:
+    beaches: 9.0
+    relaxation: 8.9

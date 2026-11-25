@@ -1,0 +1,15 @@
+id: city-md-balti
+name: "Bălți"
+location:
+  country_code: MD
+  latitude: 47.7617
+  longitude: 27.9289
+scores:
+  impact: 6.3
+  uniqueness: 6.7
+  significance: 6.9
+  experience: 7.3
+  depth: 7.0
+  categories:
+    culture: 7.7
+    food: 7.6

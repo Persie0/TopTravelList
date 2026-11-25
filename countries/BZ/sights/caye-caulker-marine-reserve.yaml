@@ -1,0 +1,16 @@
+id: sight-bz-caye-caulker-marine-reserve
+name: "Caye Caulker Marine Reserve"
+location:
+  country_code: BZ
+  latitude: 17.775
+  longitude: -87.993
+scores:
+  impact: 8.2
+  uniqueness: 8.2
+  significance: 8.4
+  experience: 8.5
+  depth: 8.0
+  categories:
+    nature: 8.7
+    wildlife: 8.8
+    adventure: 8.5

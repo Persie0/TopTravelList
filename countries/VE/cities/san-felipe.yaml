@@ -1,0 +1,15 @@
+id: city-ve-san-felipe
+name: "San Felipe"
+location:
+  country_code: VE
+  latitude: 10.3399
+  longitude: -68.7425
+scores:
+  impact: 6.4
+  uniqueness: 6.7
+  significance: 6.8
+  experience: 7.0
+  depth: 6.4
+  categories:
+    history: 7.3
+    culture: 7.2

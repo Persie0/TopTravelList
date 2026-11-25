@@ -1,0 +1,14 @@
+id: sight-am-dvin-archaeological-site
+name: "Dvin Archaeological Site"
+location:
+  country_code: AM
+  latitude: 40.004
+  longitude: 44.58
+scores:
+  impact: 7.2
+  uniqueness: 8.3
+  significance: 9.2
+  experience: 7.4
+  depth: 7.5
+  categories:
+    history: 9.4

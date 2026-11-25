@@ -1,0 +1,17 @@
+id: sight-va-vatican-gardens
+name: "Vatican Gardens"
+location:
+  country_code: VA
+  latitude: 41.90329
+  longitude: 12.45038
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 8.5
+  experience: 8.5
+  depth: 8.6
+  categories:
+    relaxation: 8.8
+    photography: 8.9
+    nature: 8.6
+    history: 8.8

@@ -1,0 +1,17 @@
+id: sight-mt-valletta-historic-centre
+name: "Valletta Historic Centre"
+location:
+  country_code: MT
+  latitude: 35.8989
+  longitude: 14.5146
+scores:
+  impact: 9.3
+  uniqueness: 9.3
+  significance: 9.5
+  experience: 9.1
+  depth: 9.1
+  categories:
+    architecture: 9.5
+    history: 9.6
+    photography: 9.4
+    culture: 9.3

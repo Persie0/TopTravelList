@@ -1,0 +1,16 @@
+id: sight-uy-cerro-arequita
+name: "Cerro Arequita"
+location:
+  country_code: UY
+  latitude: -34.2840
+  longitude: -55.2670
+scores:
+  impact: 8.0
+  uniqueness: 8.1
+  significance: 7.6
+  experience: 8.2
+  depth: 7.5
+  categories:
+    nature: 8.5
+    photography: 8.6
+    adventure: 8.2

@@ -1,0 +1,15 @@
+id: sight-ar-iguazu-falls-argentine-circuits
+name: "Iguazú Falls (Argentine circuits)"
+location:
+  country_code: AR
+  latitude: -25.6953
+  longitude: -54.4367
+scores:
+  impact: 9.9
+  uniqueness: 9.8
+  significance: 9.2
+  experience: 9.6
+  depth: 8.6
+  categories:
+    nature: 9.9
+    photography: 9.9

@@ -1,0 +1,15 @@
+id: city-md-purcari
+name: "Purcari"
+location:
+  country_code: MD
+  latitude: 46.5330
+  longitude: 29.8570
+scores:
+  impact: 6.6
+  uniqueness: 7.2
+  significance: 6.6
+  experience: 7.3
+  depth: 6.0
+  categories:
+    culture: 7.8
+    food: 8.0

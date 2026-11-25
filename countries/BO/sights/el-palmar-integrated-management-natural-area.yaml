@@ -1,0 +1,15 @@
+id: sight-bo-el-palmar-integrated-management-natural-area
+name: "El Palmar Integrated Management Natural Area"
+location:
+  country_code: BO
+  latitude: -18.7000
+  longitude: -64.9000
+scores:
+  impact: null
+  uniqueness: 8.3
+  significance: 8.5
+  experience: null
+  depth: null
+  categories:
+    nature: 8.9
+    wildlife: 8.5

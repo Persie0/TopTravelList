@@ -1,0 +1,14 @@
+id: sight-kw-tell-saad-dilmun-settlement
+name: "Tell Saad (Dilmun Settlement)"
+location:
+  country_code: KW
+  latitude: 29.4270
+  longitude: 48.2880
+scores:
+  impact: 7.0
+  uniqueness: 8.1
+  significance: 8.7
+  experience: 7.0
+  depth: 6.7
+  categories:
+    history: 9.0

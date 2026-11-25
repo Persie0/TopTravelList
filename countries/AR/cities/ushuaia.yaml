@@ -1,0 +1,17 @@
+id: city-ar-ushuaia
+name: "Ushuaia"
+location:
+  country_code: AR
+  latitude: -54.8019
+  longitude: -68.3030
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 7.9
+  experience: 8.5
+  depth: 7.7
+  categories:
+    photography: 9.2
+    history: 8.5
+    relaxation: 8.4
+    food: 8.2

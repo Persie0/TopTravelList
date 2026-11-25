@@ -1,0 +1,16 @@
+id: sight-co-malpelo-fauna-and-flora-sanctuary
+name: "Malpelo Fauna and Flora Sanctuary"
+location:
+  country_code: CO
+  latitude: 4.0020
+  longitude: -81.6070
+scores:
+  impact: 9.3
+  uniqueness: 9.5
+  significance: 9.6
+  experience: 8.2
+  depth: 8.2
+  categories:
+    wildlife: 9.8
+    nature: 9.7
+    adventure: 9.6

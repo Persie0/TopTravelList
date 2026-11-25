@@ -1,0 +1,15 @@
+id: sight-ec-el-panecillo
+name: "El Panecillo"
+location:
+  country_code: EC
+  latitude: -0.2280
+  longitude: -78.5180
+scores:
+  impact: 8.2
+  uniqueness: 7.9
+  significance: 7.2
+  experience: 8.0
+  depth: 6.5
+  categories:
+    photography: 9.1
+    architecture: 8.1

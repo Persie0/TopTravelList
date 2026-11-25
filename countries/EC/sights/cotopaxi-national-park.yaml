@@ -1,0 +1,16 @@
+id: sight-ec-cotopaxi-national-park
+name: "Cotopaxi National Park"
+location:
+  country_code: EC
+  latitude: -0.6770
+  longitude: -78.4370
+scores:
+  impact: 9.4
+  uniqueness: 9.0
+  significance: 8.7
+  experience: 9.0
+  depth: 8.9
+  categories:
+    nature: 9.5
+    photography: 9.5
+    adventure: 9.3

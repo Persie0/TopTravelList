@@ -1,0 +1,15 @@
+id: sight-mw-kasungu-national-park
+name: "Kasungu National Park"
+location:
+  country_code: MW
+  latitude: -13.00
+  longitude: 33.12
+scores:
+  impact: 8.0
+  uniqueness: 8.1
+  significance: 8.0
+  experience: 8.0
+  depth: 8.0
+  categories:
+    nature: 8.7
+    wildlife: 8.7

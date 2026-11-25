@@ -1,0 +1,16 @@
+id: sight-st-bom-bom-islet
+name: "Bom Bom Islet"
+location:
+  country_code: ST
+  latitude: 1.700833
+  longitude: 7.403611
+scores:
+  impact: 8.6
+  uniqueness: 8.6
+  significance: 7.4
+  experience: 8.3
+  depth: 7.0
+  categories:
+    nature: 8.9
+    photography: 9.1
+    relaxation: 8.6

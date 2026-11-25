@@ -1,0 +1,16 @@
+id: city-pe-trujillo
+name: "Trujillo"
+location:
+  country_code: PE
+  latitude: -8.1116
+  longitude: -79.0288
+scores:
+  impact: 8.0
+  uniqueness: 8.0
+  significance: 8.3
+  experience: 8.1
+  depth: 8.0
+  categories:
+    architecture: 8.7
+    history: 8.7
+    culture: 8.4

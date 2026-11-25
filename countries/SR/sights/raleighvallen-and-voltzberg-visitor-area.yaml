@@ -1,0 +1,17 @@
+id: sight-sr-raleighvallen-and-voltzberg-visitor-area
+name: "Raleighvallen and Voltzberg Visitor Area"
+location:
+  country_code: SR
+  latitude: 4.6833
+  longitude: -56.1833
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 8.5
+  experience: 8.7
+  depth: 8.5
+  categories:
+    nature: 9.1
+    adventure: 9.1
+    wildlife: 8.9
+    photography: 9.2

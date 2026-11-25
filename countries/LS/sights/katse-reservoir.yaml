@@ -1,0 +1,16 @@
+id: sight-ls-katse-reservoir
+name: "Katse Reservoir"
+location:
+  country_code: LS
+  latitude: -29.2900
+  longitude: 28.5000
+scores:
+  impact: 8.6
+  uniqueness: 8.0
+  significance: 7.1
+  experience: 8.5
+  depth: 8.3
+  categories:
+    nature: 8.7
+    photography: 9.0
+    relaxation: 8.4

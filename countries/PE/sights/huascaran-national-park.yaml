@@ -1,0 +1,16 @@
+id: sight-pe-huascaran-national-park
+name: "Huascarán National Park"
+location:
+  country_code: PE
+  latitude: -9.3333
+  longitude: -77.4000
+scores:
+  impact: 9.6
+  uniqueness: 9.4
+  significance: 9.4
+  experience: 9.0
+  depth: 9.4
+  categories:
+    nature: 9.7
+    photography: 9.7
+    adventure: 9.6

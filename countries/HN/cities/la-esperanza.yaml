@@ -1,0 +1,15 @@
+id: city-hn-la-esperanza
+name: "La Esperanza"
+location:
+  country_code: HN
+  latitude: 14.3070
+  longitude: -88.1760
+scores:
+  impact: 7.2
+  uniqueness: 7.7
+  significance: 7.3
+  experience: 7.8
+  depth: 6.9
+  categories:
+    culture: 8.3
+    food: 7.9

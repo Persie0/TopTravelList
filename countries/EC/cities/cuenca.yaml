@@ -1,0 +1,17 @@
+id: city-ec-cuenca
+name: "Cuenca"
+location:
+  country_code: EC
+  latitude: -2.9001
+  longitude: -79.0059
+scores:
+  impact: 8.8
+  uniqueness: 8.6
+  significance: 9.0
+  experience: 8.9
+  depth: 8.6
+  categories:
+    architecture: 9.3
+    history: 9.2
+    culture: 8.9
+    photography: 9.0

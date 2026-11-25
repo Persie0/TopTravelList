@@ -1,0 +1,15 @@
+id: city-uy-san-javier
+name: "San Javier"
+location:
+  country_code: UY
+  latitude: -32.6655
+  longitude: -58.1333
+scores:
+  impact: 6.6
+  uniqueness: 7.7
+  significance: 7.2
+  experience: 7.1
+  depth: 6.1
+  categories:
+    culture: 8.2
+    history: 7.6

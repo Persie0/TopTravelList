@@ -1,0 +1,16 @@
+id: sight-md-nativity-cathedral-and-cathedral-park
+name: "Nativity Cathedral and Cathedral Park"
+location:
+  country_code: MD
+  latitude: 47.0264
+  longitude: 28.8359
+scores:
+  impact: 7.6
+  uniqueness: 7.7
+  significance: 8.2
+  experience: 8.1
+  depth: 6.9
+  categories:
+    architecture: 8.6
+    history: 8.6
+    culture: 8.4

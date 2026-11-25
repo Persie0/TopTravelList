@@ -1,0 +1,16 @@
+id: sight-ec-machalilla-national-park
+name: "Machalilla National Park"
+location:
+  country_code: EC
+  latitude: -1.5000
+  longitude: -80.7600
+scores:
+  impact: 8.6
+  uniqueness: 8.5
+  significance: 8.5
+  experience: 8.8
+  depth: 8.6
+  categories:
+    nature: 9.1
+    wildlife: 8.9
+    beaches: 8.8

@@ -1,0 +1,16 @@
+id: sight-md-padurea-domneasca-nature-reserve
+name: "Pădurea Domnească Nature Reserve"
+location:
+  country_code: MD
+  latitude: 47.6200
+  longitude: 27.3900
+scores:
+  impact: 8.2
+  uniqueness: 8.4
+  significance: 8.4
+  experience: 8.2
+  depth: 8.3
+  categories:
+    nature: 9.1
+    wildlife: 8.9
+    photography: 8.6

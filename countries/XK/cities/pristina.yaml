@@ -1,0 +1,16 @@
+id: city-xk-pristina
+name: "Pristina"
+location:
+  country_code: XK
+  latitude: 42.6629
+  longitude: 21.1655
+scores:
+  impact: 7.6
+  uniqueness: 8.2
+  significance: 8.3
+  experience: 8.5
+  depth: 8.3
+  categories:
+    culture: 8.7
+    food: 8.7
+    architecture: 8.4

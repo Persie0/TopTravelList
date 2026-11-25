@@ -1,0 +1,16 @@
+id: sight-md-lower-prut-biosphere-reserve
+name: "Lower Prut Biosphere Reserve"
+location:
+  country_code: MD
+  latitude: 45.6100
+  longitude: 28.1700
+scores:
+  impact: 8.2
+  uniqueness: 8.4
+  significance: 8.6
+  experience: 8.2
+  depth: 8.5
+  categories:
+    nature: 9.1
+    wildlife: 9.2
+    photography: 8.8

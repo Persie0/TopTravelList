@@ -1,0 +1,16 @@
+id: city-rw-karongi-kibuye
+name: "Karongi (Kibuye)"
+location:
+  country_code: RW
+  latitude: -2.0606
+  longitude: 29.3489
+scores:
+  impact: 8.2
+  uniqueness: 7.9
+  significance: 6.7
+  experience: 8.2
+  depth: 7.1
+  categories:
+    photography: 8.7
+    relaxation: 8.5
+    culture: 7.7

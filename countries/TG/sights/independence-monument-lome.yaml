@@ -1,0 +1,15 @@
+id: sight-tg-independence-monument-lome
+name: "Independence Monument (Lomé)"
+location:
+  country_code: TG
+  latitude: 6.1310
+  longitude: 1.2150
+scores:
+  impact: 6.8
+  uniqueness: 7.2
+  significance: 8.2
+  experience: 7.4
+  depth: 5.7
+  categories:
+    history: 8.6
+    architecture: 7.8
