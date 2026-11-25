@@ -675,3 +675,105 @@ Core values I/U/S/E/D from current worldwide YAML; editorial comparisons only. O
 - **sight-fj-yaduataba-crested-iguana-sanctuary:** National Trust explicitly states no recreational visitor access and identifies dry forest habitat and crested iguana conservation (https://nationaltrust.org.fj/iguana/). Retain null impact/experience/depth; do not infer ordinary wildlife viewing from research access.
 
 Both authority pages inspected 2026-11-25. Existing ecological scores remain editorial, and precise location corroboration remains incomplete. Evidence status remains unassessed for both.
+
+
+## sight-fj-great-sea-reef — Great Sea Reef (Cakaulevu) — 2026-11-26
+
+- YAML: [source](../../../countries/FJ/sights/great-sea-reef.yaml)
+- Action: new
+- Precise subject: Northern Vanua Levu reef system and documented authorized diving subset; excludes Namena, Rainbow Reef, unrelated same-name reefs and inaccessible reef sectors.
+- Location check: -16.289111, 179.15; Approximate regional point between reported Macuata reef endpoints; not an entry or navigation waypoint. WCS Fiji SUMA report indexed coordinates S16°29′5″ E178°55′24″ and S16°9′49″ E179°22′53″ (https://fiji.wcs.org/Portals/82/reports/Fiji%20SUMA%20digital%20small.pdf?ver=2018-09-03-084109-057); representative position needs independent corroboration.
+- Evidence status: source-linked-unverified
+- Sources (2026-11-26):
+- WWF Pacific https://www.wwfpacific.org/priority_places/fiji/great_sea_reef_seascape/ (indexed excerpt; direct retrieval 403): globally important long barrier-reef system and conservation programme.
+- Tourism Fiji https://www.fiji.travel/places-to-go/vanua-levu/places/go-diving and https://www.fiji.travel/things-to-do/snorkelling/the-ultimate-fiji-snorkelling-guide (indexed excerpts): northern reef diving and snorkeling.
+- https://www.fijimarinas.com/exploring-the-friendly-north/ (indexed excerpt): named northern reef region and local dive guiding; commercial visitor evidence, current availability unconfirmed.
+- Missing facts: current visitor access, independent claim-level verification and exact representative coordinates.
+
+### Worldwide peer comparisons
+- [sipadan-island-reefs (MY)](../../../countries/MY/sights/sipadan-island-reefs.yaml): 9.5/9.6/9.1/9.5/8.9; stronger established concentrated diving spectacle.
+- [ang-thong-national-marine-park (TH)](../../../countries/TH/sights/ang-thong-national-marine-park.yaml): 9.0/9.0/8.6/9.1/8.9; broader above-water landscapes and established excursions.
+- [cham-islands (VN)](../../../countries/VN/sights/cham-islands.yaml): 8.8/9.0/8.4/9.0/8.7; more compact island and reef visitor circuit.
+- [perhentian-islands (MY)](../../../countries/MY/sights/perhentian-islands.yaml): 9.0/8.8/7.7/9.2/8.9; more developed beach and diving access, lower ecological significance.
+
+### Scoring decisions
+- Impact: 9.1 — Extensive reef and underwater scenery, below concentrated Sipadan spectacle.
+- Uniqueness: 9.3 — Exceptional barrier reef scale, not unique worldwide.
+- Significance: 9.4 — Globally important conservation seascape, with no unverified species-count claim.
+- Experience: 8.5 — Documented local diving but comparatively limited remote access.
+- Depth: 8.7 — Varied reef habitats and guided sites; no credit for inaccessible full-system exploration.
+- Applicable categories: nature 9.5, wildlife 9.3, adventure 9.1.
+- Overall: 90.80/100.
+- High-score challenge: Nature 9.5 reflects globally important barrier reef extent; below Sipadan 9.7 and Ang Thong 9.6. No assumption that visitors can explore the full reef.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide V2 editorial rating.
+- Earlier decision: none.
+- Verification still needed: full independent claim verification, current visitor conditions and representative location corroboration.
+
+
+## sight-fj-lavena-coastal-walk — Lavena Coastal Walk — 2026-11-26
+
+- YAML: [source](../../../countries/FJ/sights/lavena-coastal-walk.yaml)
+- Action: new
+- Precise subject: Named coastal trail from Lavena village to Wainibau waterfall, including authorized optional boat return; excludes Tavoro Falls and other Bouma trails.
+- Location check: -16.87385, -179.87931; Mapped Lavena village point https://mapcarta.com/N6699771986 (opened), approximate starting locality.
+- Evidence status: source-linked-unverified
+- Sources (2026-11-26):
+- Tourism Fiji https://www.fiji.travel/places-to-go/taveuni-island/locations/how-to-hike-the-lavena-coastal-walk (indexed excerpt, direct page 403): coastal walk and waterfall.
+- Fiji Village https://www.fijivillage.com/news/New-fishing-net-and-coastal-park-bring-hope-to-Lavena-women-and-community-58xf4r/ (indexed excerpt): community eco-tourism park, guided walks and boat rides.
+- https://fijipocketguide.com/9-best-walks-on-taveuni/ (indexed excerpt): independently described visitor trail. Trail lengths vary between sources; no exact distance required for rating.
+- Missing facts: current visitor access, independent claim-level verification and exact representative coordinates.
+
+### Worldwide peer comparisons
+- [sipi-falls (UG)](../../../countries/UG/sights/sipi-falls.yaml): 8.9/8.8/7.8/8.9/8.5; broader multi-fall landscape, similar walking.
+- [millennium-cave (VU)](../../../countries/VU/sights/millennium-cave.yaml): 8.8/8.6/7.5/9.0/8.5; more specialized cave adventure.
+- [o-le-pupu-pue-national-park (WS)](../../../countries/WS/sights/o-le-pupu-pue-national-park.yaml): 8.5/8.5/8.7/8.5/8.4; broader protected forest significance.
+- [khao-yai-national-park (TH)](../../../countries/TH/sights/khao-yai-national-park.yaml): 9.0/9.1/9.0/9.0/9.2; far broader protected forest and wildlife circuits.
+
+### Scoring decisions
+- Impact: 8.7 — Scenic combination of tropical coast, forest and waterfall.
+- Uniqueness: 8.5 — Distinct coastal route but comparable tropical trails exist.
+- Significance: 7.8 — Regional community conservation significance, not entire Bouma park.
+- Experience: 8.8 — Established visitor trail and optional boat experience, weather dependent.
+- Depth: 8.4 — Varied coastal walk and waterfall, but a single route.
+- Applicable categories: nature 8.9, photography 8.9, adventure 8.8.
+- Overall: 84.55/100.
+- High-score challenge: No 9.5+ field or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide V2 editorial rating.
+- Earlier decision: none.
+- Verification still needed: full independent claim verification, current visitor conditions and representative location corroboration.
+
+
+## sight-fj-monuriki-island — Monuriki Island — 2026-11-26
+
+- YAML: [source](../../../countries/FJ/sights/monuriki-island.yaml)
+- Action: new
+- Precise subject: Named small volcanic island and permitted shore excursions, not surrounding Mamanuca islands or private wildlife research access.
+- Location check: -17.60977, 177.03412; Mapcarta https://mapcarta.com/16752620 (opened), representative island point.
+- Evidence status: source-linked-unverified
+- Sources (2026-11-26):
+- Tourism Fiji https://www.fiji.travel/places-to-go/mamanuca-islands/locations/top-things-to-do-in-the-mamanuca-islands and https://www.fiji.travel/things-to-do/day-trips/best-island-day-trips-nadi (indexed excerpts): documented island cruises.
+- Key Biodiversity Areas https://www.keybiodiversityareas.org/en/site/factsheet/23720/site (indexed excerpt): small island and globally important crested iguana population.
+- USGS https://www.usgs.gov/publications/community-based-conservation-and-recovery-native-species-monuriki-island-fiji (indexed excerpt): historical community conservation work. No guarantee of iguana sightings.
+- Missing facts: current visitor access, independent claim-level verification and exact representative coordinates.
+
+### Worldwide peer comparisons
+- [lalomanu-beach (WS)](../../../countries/WS/sights/lalomanu-beach.yaml): 8.7/7.8/6.5/8.7/7.4; strong beach experience but lower conservation significance.
+- [champagne-beach (VU)](../../../countries/VU/sights/champagne-beach.yaml): 8.6/7.8/6.4/8.7/7.1; comparable tropical shore, less ecological distinctiveness.
+- [cham-islands (VN)](../../../countries/VN/sights/cham-islands.yaml): 8.8/9.0/8.4/9.0/8.7; broader island group and marine experiences.
+- [ang-thong-national-marine-park (TH)](../../../countries/TH/sights/ang-thong-national-marine-park.yaml): 9.0/9.0/8.6/9.1/8.9; larger and more varied island scenery.
+
+### Scoring decisions
+- Impact: 8.6 — Scenic small volcanic island and beaches.
+- Uniqueness: 8.4 — Distinct island conservation and film association but not unique globally.
+- Significance: 8.6 — Important documented endemic-species conservation, not entire archipelago.
+- Experience: 8.5 — Established excursion experience, permission and weather conditional.
+- Depth: 7.5 — Small single island limits scope.
+- Applicable categories: nature 8.8, beaches 8.7, photography 8.8, relaxation 8.4.
+- Overall: 84.25/100.
+- High-score challenge: No 9.5+ field or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide V2 editorial rating.
+- Earlier decision: none.
+- Verification still needed: full independent claim verification, current visitor conditions and representative location corroboration.
