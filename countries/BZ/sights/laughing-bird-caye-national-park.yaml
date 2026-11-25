@@ -1,0 +1,16 @@
+id: sight-bz-laughing-bird-caye-national-park
+name: "Laughing Bird Caye National Park"
+location:
+  country_code: BZ
+  latitude: 16.443397
+  longitude: -88.197167
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 8.8
+  experience: 8.9
+  depth: 8.0
+  categories:
+    nature: 9.0
+    wildlife: 8.9
+    beaches: 8.5

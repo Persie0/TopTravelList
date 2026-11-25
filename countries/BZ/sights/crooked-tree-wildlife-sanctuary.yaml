@@ -1,0 +1,15 @@
+id: sight-bz-crooked-tree-wildlife-sanctuary
+name: "Crooked Tree Wildlife Sanctuary"
+location:
+  country_code: BZ
+  latitude: 17.773
+  longitude: -88.555
+scores:
+  impact: 8.0
+  uniqueness: 8.5
+  significance: 8.7
+  experience: 8.4
+  depth: 8.2
+  categories:
+    wildlife: 9.2
+    nature: 8.7
