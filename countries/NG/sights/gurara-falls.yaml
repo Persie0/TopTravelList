@@ -2,8 +2,8 @@ id: sight-ng-gurara-falls
 name: "Gurara Falls"
 location:
   country_code: NG
-  latitude: 9.257
-  longitude: 7.1
+  latitude: 9.31535
+  longitude: 7.02124
 scores:
   impact: 8.3
   uniqueness: 7.9
