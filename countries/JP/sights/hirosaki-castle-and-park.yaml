@@ -1,0 +1,16 @@
+id: sight-jp-hirosaki-castle-and-park
+name: "Hirosaki Castle and Park"
+location:
+  country_code: JP
+  latitude: 40.6072
+  longitude: 140.4638
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 8.7
+  experience: 9.0
+  depth: 8.7
+  categories:
+    history: 9.0
+    architecture: 8.9
+    photography: 9.3

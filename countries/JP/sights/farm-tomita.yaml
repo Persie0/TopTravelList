@@ -1,0 +1,15 @@
+id: sight-jp-farm-tomita
+name: "Farm Tomita"
+location:
+  country_code: JP
+  latitude: 43.4184
+  longitude: 142.4274
+scores:
+  impact: 8.5
+  uniqueness: 8.3
+  significance: 6.7
+  experience: 8.9
+  depth: 8.0
+  categories:
+    photography: 9.3
+    relaxation: 9.0

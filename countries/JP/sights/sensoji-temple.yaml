@@ -1,0 +1,16 @@
+id: sight-jp-sensoji-temple
+name: "Sensoji Temple"
+location:
+  country_code: JP
+  latitude: 35.7148
+  longitude: 139.7967
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 9.0
+  experience: 9.0
+  depth: 8.3
+  categories:
+    architecture: 9.1
+    culture: 9.3
+    history: 9.0

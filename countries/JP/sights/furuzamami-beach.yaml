@@ -1,0 +1,16 @@
+id: sight-jp-furuzamami-beach
+name: "Furuzamami Beach"
+location:
+  country_code: JP
+  latitude: 26.2240
+  longitude: 127.3130
+scores:
+  impact: 9.0
+  uniqueness: 8.8
+  significance: 7.3
+  experience: 9.3
+  depth: 8.2
+  categories:
+    beaches: 9.5
+    nature: 9.2
+    relaxation: 9.3

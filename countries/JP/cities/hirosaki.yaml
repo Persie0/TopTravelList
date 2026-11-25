@@ -1,0 +1,15 @@
+id: city-jp-hirosaki
+name: "Hirosaki"
+location:
+  country_code: JP
+  latitude: 40.6031
+  longitude: 140.4639
+scores:
+  impact: 8.0
+  uniqueness: 8.2
+  significance: 8.3
+  experience: 8.3
+  depth: 8.0
+  categories:
+    history: 8.5
+    architecture: 8.5

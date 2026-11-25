@@ -1,0 +1,16 @@
+id: sight-jp-naritasan-shinshoji
+name: "Naritasan Shinshoji"
+location:
+  country_code: JP
+  latitude: 35.7860
+  longitude: 140.3186
+scores:
+  impact: 8.7
+  uniqueness: 8.7
+  significance: 8.8
+  experience: 8.9
+  depth: 8.5
+  categories:
+    culture: 9.1
+    architecture: 9.0
+    history: 8.9

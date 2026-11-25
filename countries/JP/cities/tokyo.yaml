@@ -1,0 +1,17 @@
+id: city-jp-tokyo
+name: "Tokyo"
+location:
+  country_code: JP
+  latitude: 35.6762
+  longitude: 139.6503
+scores:
+  impact: 9.6
+  uniqueness: 9.6
+  significance: 9.4
+  experience: 9.5
+  depth: 9.9
+  categories:
+    food: 9.8
+    culture: 9.6
+    nightlife: 9.7
+    architecture: 9.4

@@ -1,0 +1,16 @@
+id: sight-jp-danjo-garan-koyasan
+name: "Danjo Garan Koyasan"
+location:
+  country_code: JP
+  latitude: 34.2129
+  longitude: 135.5791
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 9.3
+  experience: 9.1
+  depth: 8.6
+  categories:
+    culture: 9.5
+    architecture: 9.3
+    history: 9.4

@@ -1,0 +1,16 @@
+id: sight-jp-gokayama-ainokura-village
+name: "Gokayama Ainokura Village"
+location:
+  country_code: JP
+  latitude: 36.4265
+  longitude: 136.9365
+scores:
+  impact: 8.9
+  uniqueness: 9.3
+  significance: 9.0
+  experience: 9.0
+  depth: 8.0
+  categories:
+    architecture: 9.4
+    culture: 9.2
+    photography: 9.3

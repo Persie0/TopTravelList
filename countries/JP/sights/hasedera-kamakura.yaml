@@ -1,0 +1,16 @@
+id: sight-jp-hasedera-kamakura
+name: "Hasedera Kamakura"
+location:
+  country_code: JP
+  latitude: 35.3124
+  longitude: 139.5327
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 8.7
+  experience: 9.0
+  depth: 8.4
+  categories:
+    culture: 9.0
+    photography: 9.1
+    architecture: 8.9

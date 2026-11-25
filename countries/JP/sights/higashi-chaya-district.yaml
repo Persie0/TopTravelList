@@ -1,0 +1,16 @@
+id: sight-jp-higashi-chaya-district
+name: "Higashi Chaya District"
+location:
+  country_code: JP
+  latitude: 36.5725
+  longitude: 136.6666
+scores:
+  impact: 8.7
+  uniqueness: 9.0
+  significance: 8.7
+  experience: 8.9
+  depth: 8.0
+  categories:
+    architecture: 9.2
+    culture: 9.1
+    photography: 9.3

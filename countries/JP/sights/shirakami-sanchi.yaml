@@ -1,0 +1,15 @@
+id: sight-jp-shirakami-sanchi
+name: "Shirakami Sanchi"
+location:
+  country_code: JP
+  latitude: 40.4670
+  longitude: 140.1320
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 9.2
+  experience: 8.7
+  depth: 9.1
+  categories:
+    nature: 9.6
+    adventure: 9.0

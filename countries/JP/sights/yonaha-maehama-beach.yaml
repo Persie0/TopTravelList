@@ -1,0 +1,16 @@
+id: sight-jp-yonaha-maehama-beach
+name: "Yonaha Maehama Beach"
+location:
+  country_code: JP
+  latitude: 24.7350
+  longitude: 125.2610
+scores:
+  impact: 9.0
+  uniqueness: 8.7
+  significance: 7.0
+  experience: 9.4
+  depth: 8.4
+  categories:
+    beaches: 9.6
+    relaxation: 9.4
+    photography: 9.3

@@ -1,0 +1,15 @@
+id: sight-jp-goshikinuma-ponds
+name: "Goshikinuma Ponds"
+location:
+  country_code: JP
+  latitude: 37.6510
+  longitude: 140.0820
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 7.8
+  experience: 9.0
+  depth: 8.6
+  categories:
+    nature: 9.3
+    photography: 9.4

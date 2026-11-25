@@ -1,0 +1,16 @@
+id: sight-jp-meiji-jingu
+name: "Meiji Jingu"
+location:
+  country_code: JP
+  latitude: 35.6764
+  longitude: 139.6993
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 8.7
+  experience: 9.0
+  depth: 8.5
+  categories:
+    culture: 9.2
+    nature: 8.6
+    architecture: 8.6

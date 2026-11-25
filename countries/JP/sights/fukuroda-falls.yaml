@@ -1,0 +1,15 @@
+id: sight-jp-fukuroda-falls
+name: "Fukuroda Falls"
+location:
+  country_code: JP
+  latitude: 36.7636
+  longitude: 140.4078
+scores:
+  impact: 8.4
+  uniqueness: 8.3
+  significance: 7.5
+  experience: 8.7
+  depth: 7.5
+  categories:
+    nature: 8.9
+    photography: 8.9

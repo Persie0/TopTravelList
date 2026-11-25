@@ -1,0 +1,16 @@
+id: sight-jp-rinnoji-temple-nikko
+name: "Rinnoji Temple Nikko"
+location:
+  country_code: JP
+  latitude: 36.7566
+  longitude: 139.6001
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 8.8
+  depth: 8.3
+  categories:
+    culture: 9.1
+    history: 9.1
+    architecture: 9.0

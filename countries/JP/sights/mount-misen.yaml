@@ -1,0 +1,16 @@
+id: sight-jp-mount-misen
+name: "Mount Misen"
+location:
+  country_code: JP
+  latitude: 34.2796
+  longitude: 132.3198
+scores:
+  impact: 8.8
+  uniqueness: 8.6
+  significance: 8.0
+  experience: 9.0
+  depth: 8.7
+  categories:
+    nature: 9.2
+    adventure: 9.0
+    photography: 9.2

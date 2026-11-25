@@ -1,0 +1,16 @@
+id: sight-jp-enryakuji-mount-hiei
+name: "Enryakuji Mount Hiei"
+location:
+  country_code: JP
+  latitude: 35.0700
+  longitude: 135.8409
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 9.6
+  experience: 9.0
+  depth: 9.2
+  categories:
+    history: 9.7
+    culture: 9.6
+    nature: 8.9

@@ -1,0 +1,16 @@
+id: sight-jp-ryoanji-rock-garden
+name: "Ryoanji Rock Garden"
+location:
+  country_code: JP
+  latitude: 35.0345
+  longitude: 135.7183
+scores:
+  impact: 8.7
+  uniqueness: 9.3
+  significance: 9.0
+  experience: 8.7
+  depth: 7.3
+  categories:
+    culture: 9.4
+    architecture: 9.1
+    relaxation: 9.0

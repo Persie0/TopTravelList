@@ -1,0 +1,15 @@
+id: sight-jp-hakodate-motomachi
+name: "Hakodate Motomachi"
+location:
+  country_code: JP
+  latitude: 41.7640
+  longitude: 140.7105
+scores:
+  impact: 8.4
+  uniqueness: 8.5
+  significance: 8.4
+  experience: 8.7
+  depth: 8.1
+  categories:
+    architecture: 8.9
+    history: 8.6

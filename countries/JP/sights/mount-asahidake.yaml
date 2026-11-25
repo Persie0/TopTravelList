@@ -1,0 +1,16 @@
+id: sight-jp-mount-asahidake
+name: "Mount Asahidake"
+location:
+  country_code: JP
+  latitude: 43.6636
+  longitude: 142.8542
+scores:
+  impact: 9.0
+  uniqueness: 8.8
+  significance: 8.0
+  experience: 9.1
+  depth: 8.8
+  categories:
+    nature: 9.3
+    adventure: 9.3
+    photography: 9.2

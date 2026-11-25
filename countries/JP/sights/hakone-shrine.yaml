@@ -1,0 +1,16 @@
+id: sight-jp-hakone-shrine
+name: "Hakone Shrine"
+location:
+  country_code: JP
+  latitude: 35.2047
+  longitude: 139.0250
+scores:
+  impact: 8.5
+  uniqueness: 8.7
+  significance: 8.6
+  experience: 8.8
+  depth: 7.8
+  categories:
+    culture: 9.0
+    photography: 9.1
+    architecture: 8.7

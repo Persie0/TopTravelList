@@ -1,0 +1,16 @@
+id: sight-jp-lake-akan
+name: "Lake Akan"
+location:
+  country_code: JP
+  latitude: 43.4510
+  longitude: 144.1010
+scores:
+  impact: 8.7
+  uniqueness: 9.0
+  significance: 8.7
+  experience: 8.8
+  depth: 8.6
+  categories:
+    nature: 9.2
+    culture: 8.8
+    wildlife: 8.9

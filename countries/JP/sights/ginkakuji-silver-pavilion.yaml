@@ -1,0 +1,16 @@
+id: sight-jp-ginkakuji-silver-pavilion
+name: "Ginkakuji Silver Pavilion"
+location:
+  country_code: JP
+  latitude: 35.0270
+  longitude: 135.7982
+scores:
+  impact: 8.9
+  uniqueness: 9.1
+  significance: 9.1
+  experience: 9.0
+  depth: 8.3
+  categories:
+    architecture: 9.3
+    history: 9.2
+    relaxation: 9.0

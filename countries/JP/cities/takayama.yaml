@@ -1,0 +1,16 @@
+id: city-jp-takayama
+name: "Takayama"
+location:
+  country_code: JP
+  latitude: 36.1461
+  longitude: 137.2522
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 8.6
+  experience: 8.8
+  depth: 8.2
+  categories:
+    architecture: 9.0
+    culture: 8.9
+    food: 8.6

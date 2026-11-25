@@ -1,0 +1,15 @@
+id: city-jp-dazaifu
+name: "Dazaifu"
+location:
+  country_code: JP
+  latitude: 33.5128
+  longitude: 130.5238
+scores:
+  impact: 7.7
+  uniqueness: 8.0
+  significance: 8.7
+  experience: 8.2
+  depth: 7.7
+  categories:
+    history: 8.9
+    culture: 8.6

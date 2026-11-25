@@ -1,0 +1,15 @@
+id: sight-jp-narusawa-ice-cave
+name: "Narusawa Ice Cave"
+location:
+  country_code: JP
+  latitude: 35.4742
+  longitude: 138.6664
+scores:
+  impact: 7.9
+  uniqueness: 8.4
+  significance: 7.8
+  experience: 8.2
+  depth: 7.1
+  categories:
+    nature: 8.7
+    adventure: 8.1

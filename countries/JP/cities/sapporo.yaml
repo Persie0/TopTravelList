@@ -1,0 +1,16 @@
+id: city-jp-sapporo
+name: "Sapporo"
+location:
+  country_code: JP
+  latitude: 43.0618
+  longitude: 141.3545
+scores:
+  impact: 8.4
+  uniqueness: 8.3
+  significance: 8.0
+  experience: 8.8
+  depth: 8.7
+  categories:
+    food: 9.1
+    nightlife: 8.7
+    culture: 8.3

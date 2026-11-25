@@ -1,0 +1,16 @@
+id: sight-jp-nakijin-castle-ruins
+name: "Nakijin Castle Ruins"
+location:
+  country_code: JP
+  latitude: 26.6910
+  longitude: 127.9290
+scores:
+  impact: 8.7
+  uniqueness: 9.0
+  significance: 9.1
+  experience: 8.8
+  depth: 8.5
+  categories:
+    history: 9.3
+    architecture: 9.1
+    photography: 9.1

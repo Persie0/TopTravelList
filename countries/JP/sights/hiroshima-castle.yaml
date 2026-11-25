@@ -1,0 +1,15 @@
+id: sight-jp-hiroshima-castle
+name: "Hiroshima Castle"
+location:
+  country_code: JP
+  latitude: 34.4022
+  longitude: 132.4591
+scores:
+  impact: 8.0
+  uniqueness: 8.1
+  significance: 8.6
+  experience: 8.3
+  depth: 8.0
+  categories:
+    history: 8.9
+    architecture: 8.4

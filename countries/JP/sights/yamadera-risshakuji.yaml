@@ -1,0 +1,16 @@
+id: sight-jp-yamadera-risshakuji
+name: "Yamadera Risshakuji"
+location:
+  country_code: JP
+  latitude: 38.3120
+  longitude: 140.4347
+scores:
+  impact: 9.1
+  uniqueness: 9.2
+  significance: 9.0
+  experience: 9.2
+  depth: 8.6
+  categories:
+    culture: 9.3
+    nature: 9.2
+    photography: 9.5

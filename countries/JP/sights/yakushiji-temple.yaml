@@ -1,0 +1,16 @@
+id: sight-jp-yakushiji-temple
+name: "Yakushiji Temple"
+location:
+  country_code: JP
+  latitude: 34.6681
+  longitude: 135.7841
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 9.2
+  experience: 8.9
+  depth: 8.4
+  categories:
+    architecture: 9.3
+    history: 9.3
+    culture: 9.1

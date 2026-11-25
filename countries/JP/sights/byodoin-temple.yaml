@@ -1,0 +1,16 @@
+id: sight-jp-byodoin-temple
+name: "Byodoin Temple"
+location:
+  country_code: JP
+  latitude: 34.8893
+  longitude: 135.8077
+scores:
+  impact: 9.2
+  uniqueness: 9.5
+  significance: 9.4
+  experience: 9.2
+  depth: 8.5
+  categories:
+    architecture: 9.7
+    history: 9.5
+    culture: 9.4

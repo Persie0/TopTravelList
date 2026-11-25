@@ -1,0 +1,15 @@
+id: sight-jp-suizenji-jojuen-garden
+name: "Suizenji Jojuen Garden"
+location:
+  country_code: JP
+  latitude: 32.7900
+  longitude: 130.7340
+scores:
+  impact: 8.3
+  uniqueness: 8.5
+  significance: 8.3
+  experience: 8.7
+  depth: 8.1
+  categories:
+    relaxation: 8.9
+    photography: 8.8

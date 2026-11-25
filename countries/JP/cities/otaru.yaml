@@ -1,0 +1,16 @@
+id: city-jp-otaru
+name: "Otaru"
+location:
+  country_code: JP
+  latitude: 43.1907
+  longitude: 140.9947
+scores:
+  impact: 7.9
+  uniqueness: 8.0
+  significance: 7.8
+  experience: 8.4
+  depth: 7.7
+  categories:
+    architecture: 8.3
+    food: 8.2
+    photography: 8.5

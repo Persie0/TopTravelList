@@ -1,0 +1,16 @@
+id: sight-jp-kamakura-kenchoji
+name: "Kamakura Kenchoji"
+location:
+  country_code: JP
+  latitude: 35.3342
+  longitude: 139.5554
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 9.0
+  experience: 8.8
+  depth: 8.5
+  categories:
+    history: 9.1
+    architecture: 9.0
+    culture: 9.0

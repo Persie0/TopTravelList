@@ -1,0 +1,16 @@
+id: sight-jp-lake-toya
+name: "Lake Toya"
+location:
+  country_code: JP
+  latitude: 42.5970
+  longitude: 140.8500
+scores:
+  impact: 8.8
+  uniqueness: 8.6
+  significance: 7.8
+  experience: 9.0
+  depth: 8.7
+  categories:
+    nature: 9.2
+    relaxation: 9.0
+    photography: 9.2

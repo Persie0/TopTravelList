@@ -1,0 +1,15 @@
+id: sight-jp-tokyo-tower
+name: "Tokyo Tower"
+location:
+  country_code: JP
+  latitude: 35.6586
+  longitude: 139.7454
+scores:
+  impact: 8.6
+  uniqueness: 8.3
+  significance: 8.3
+  experience: 8.7
+  depth: 7.5
+  categories:
+    architecture: 8.7
+    photography: 9.0

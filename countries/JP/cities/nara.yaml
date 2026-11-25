@@ -1,0 +1,16 @@
+id: city-jp-nara
+name: "Nara"
+location:
+  country_code: JP
+  latitude: 34.6851
+  longitude: 135.8048
+scores:
+  impact: 9.0
+  uniqueness: 9.1
+  significance: 9.5
+  experience: 9.0
+  depth: 8.8
+  categories:
+    history: 9.6
+    culture: 9.4
+    architecture: 9.3

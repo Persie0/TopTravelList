@@ -1,0 +1,16 @@
+id: sight-jp-kofukuji-temple
+name: "Kofukuji Temple"
+location:
+  country_code: JP
+  latitude: 34.6835
+  longitude: 135.8326
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 9.3
+  experience: 8.8
+  depth: 8.4
+  categories:
+    history: 9.4
+    architecture: 9.2
+    culture: 9.2

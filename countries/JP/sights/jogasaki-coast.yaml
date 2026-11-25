@@ -1,0 +1,16 @@
+id: sight-jp-jogasaki-coast
+name: "Jogasaki Coast"
+location:
+  country_code: JP
+  latitude: 34.8908
+  longitude: 139.1377
+scores:
+  impact: 8.6
+  uniqueness: 8.5
+  significance: 7.8
+  experience: 8.8
+  depth: 8.5
+  categories:
+    nature: 9.0
+    adventure: 8.7
+    photography: 9.0

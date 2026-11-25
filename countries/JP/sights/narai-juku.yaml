@@ -1,0 +1,16 @@
+id: sight-jp-narai-juku
+name: "Narai-juku"
+location:
+  country_code: JP
+  latitude: 35.9672
+  longitude: 137.8123
+scores:
+  impact: 8.6
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 8.8
+  depth: 8.2
+  categories:
+    architecture: 9.2
+    history: 9.0
+    photography: 9.1

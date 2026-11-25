@@ -1,0 +1,16 @@
+id: city-jp-nagoya
+name: "Nagoya"
+location:
+  country_code: JP
+  latitude: 35.1815
+  longitude: 136.9066
+scores:
+  impact: 8.0
+  uniqueness: 8.0
+  significance: 8.3
+  experience: 8.4
+  depth: 8.7
+  categories:
+    food: 8.8
+    culture: 8.3
+    history: 8.3

@@ -1,0 +1,16 @@
+id: sight-jp-kondoi-beach
+name: "Kondoi Beach"
+location:
+  country_code: JP
+  latitude: 24.3240
+  longitude: 124.0680
+scores:
+  impact: 8.8
+  uniqueness: 8.6
+  significance: 7.0
+  experience: 9.1
+  depth: 8.0
+  categories:
+    beaches: 9.3
+    relaxation: 9.2
+    photography: 9.2

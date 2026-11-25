@@ -1,0 +1,16 @@
+id: sight-jp-lake-ashi
+name: "Lake Ashi"
+location:
+  country_code: JP
+  latitude: 35.2110
+  longitude: 139.0102
+scores:
+  impact: 8.7
+  uniqueness: 8.5
+  significance: 7.7
+  experience: 8.9
+  depth: 8.5
+  categories:
+    nature: 9.1
+    photography: 9.1
+    relaxation: 8.9

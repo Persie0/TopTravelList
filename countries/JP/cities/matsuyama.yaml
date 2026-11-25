@@ -1,0 +1,16 @@
+id: city-jp-matsuyama
+name: "Matsuyama"
+location:
+  country_code: JP
+  latitude: 33.8392
+  longitude: 132.7657
+scores:
+  impact: 8.3
+  uniqueness: 8.5
+  significance: 8.5
+  experience: 8.7
+  depth: 8.4
+  categories:
+    history: 8.7
+    relaxation: 8.9
+    culture: 8.6

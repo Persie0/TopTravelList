@@ -1,0 +1,15 @@
+id: sight-jp-yokohama-chinatown
+name: "Yokohama Chinatown"
+location:
+  country_code: JP
+  latitude: 35.4436
+  longitude: 139.6468
+scores:
+  impact: 8.1
+  uniqueness: 8.2
+  significance: 7.9
+  experience: 8.7
+  depth: 8.1
+  categories:
+    food: 9.0
+    culture: 8.5

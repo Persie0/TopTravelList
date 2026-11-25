@@ -1,0 +1,15 @@
+id: sight-jp-osaka-aquarium-kaiyukan
+name: "Osaka Aquarium Kaiyukan"
+location:
+  country_code: JP
+  latitude: 34.6545
+  longitude: 135.4289
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 7.5
+  experience: 9.1
+  depth: 8.9
+  categories:
+    family: 9.4
+    wildlife: 8.7

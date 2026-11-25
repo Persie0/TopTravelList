@@ -1,0 +1,16 @@
+id: sight-jp-kurobe-dam
+name: "Kurobe Dam"
+location:
+  country_code: JP
+  latitude: 36.5668
+  longitude: 137.6610
+scores:
+  impact: 8.5
+  uniqueness: 8.6
+  significance: 8.4
+  experience: 8.7
+  depth: 7.8
+  categories:
+    architecture: 8.8
+    nature: 8.7
+    photography: 8.9

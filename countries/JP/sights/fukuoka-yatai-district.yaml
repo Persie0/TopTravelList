@@ -1,0 +1,16 @@
+id: sight-jp-fukuoka-yatai-district
+name: "Fukuoka Yatai District"
+location:
+  country_code: JP
+  latitude: 33.5900
+  longitude: 130.4070
+scores:
+  impact: 8.2
+  uniqueness: 8.8
+  significance: 7.3
+  experience: 9.0
+  depth: 7.9
+  categories:
+    food: 9.4
+    culture: 8.9
+    nightlife: 8.5

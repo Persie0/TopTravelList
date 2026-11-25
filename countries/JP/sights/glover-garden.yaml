@@ -1,0 +1,16 @@
+id: sight-jp-glover-garden
+name: "Glover Garden"
+location:
+  country_code: JP
+  latitude: 32.7340
+  longitude: 129.8698
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 8.8
+  experience: 8.8
+  depth: 8.5
+  categories:
+    architecture: 9.1
+    history: 9.0
+    photography: 9.0

@@ -1,0 +1,16 @@
+id: sight-jp-jigokudani-monkey-park
+name: "Jigokudani Monkey Park"
+location:
+  country_code: JP
+  latitude: 36.7326
+  longitude: 138.4621
+scores:
+  impact: 8.8
+  uniqueness: 9.2
+  significance: 7.7
+  experience: 8.9
+  depth: 7.6
+  categories:
+    wildlife: 9.3
+    photography: 9.3
+    nature: 8.7

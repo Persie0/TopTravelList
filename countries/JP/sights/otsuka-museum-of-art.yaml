@@ -1,0 +1,15 @@
+id: sight-jp-otsuka-museum-of-art
+name: "Otsuka Museum of Art"
+location:
+  country_code: JP
+  latitude: 34.2322
+  longitude: 134.6414
+scores:
+  impact: 8.5
+  uniqueness: 8.7
+  significance: 7.4
+  experience: 8.9
+  depth: 9.2
+  categories:
+    culture: 8.8
+    family: 8.8

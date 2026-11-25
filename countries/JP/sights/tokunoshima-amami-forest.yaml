@@ -1,0 +1,15 @@
+id: sight-jp-tokunoshima-amami-forest
+name: "Tokunoshima Amami Forest"
+location:
+  country_code: JP
+  latitude: 27.8100
+  longitude: 128.9600
+scores:
+  impact: 8.7
+  uniqueness: 9.0
+  significance: 9.0
+  experience: 8.6
+  depth: 8.7
+  categories:
+    nature: 9.4
+    wildlife: 9.3

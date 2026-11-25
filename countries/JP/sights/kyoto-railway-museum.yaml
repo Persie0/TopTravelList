@@ -1,0 +1,16 @@
+id: sight-jp-kyoto-railway-museum
+name: "Kyoto Railway Museum"
+location:
+  country_code: JP
+  latitude: 34.9871
+  longitude: 135.7422
+scores:
+  impact: 8.3
+  uniqueness: 8.5
+  significance: 8.2
+  experience: 9.0
+  depth: 8.9
+  categories:
+    family: 9.1
+    history: 8.6
+    culture: 8.5

@@ -1,0 +1,15 @@
+id: sight-jp-abashiri-prison-museum
+name: "Abashiri Prison Museum"
+location:
+  country_code: JP
+  latitude: 43.9924
+  longitude: 144.2331
+scores:
+  impact: 8.2
+  uniqueness: 8.6
+  significance: 8.4
+  experience: 8.6
+  depth: 8.5
+  categories:
+    history: 8.8
+    culture: 8.4

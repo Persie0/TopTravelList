@@ -1,0 +1,16 @@
+id: sight-jp-kirishima-jingu
+name: "Kirishima Jingu"
+location:
+  country_code: JP
+  latitude: 31.8580
+  longitude: 130.8710
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 8.8
+  experience: 8.9
+  depth: 8.1
+  categories:
+    architecture: 9.1
+    culture: 9.2
+    history: 8.9

@@ -1,0 +1,16 @@
+id: sight-jp-zenkoji-temple
+name: "Zenkoji Temple"
+location:
+  country_code: JP
+  latitude: 36.6617
+  longitude: 138.1877
+scores:
+  impact: 9.0
+  uniqueness: 9.1
+  significance: 9.2
+  experience: 9.1
+  depth: 8.6
+  categories:
+    culture: 9.4
+    history: 9.3
+    architecture: 9.2

@@ -1,0 +1,15 @@
+id: city-jp-onomichi
+name: "Onomichi"
+location:
+  country_code: JP
+  latitude: 34.4089
+  longitude: 133.2050
+scores:
+  impact: 8.2
+  uniqueness: 8.5
+  significance: 8.0
+  experience: 8.6
+  depth: 8.1
+  categories:
+    photography: 8.8
+    culture: 8.5

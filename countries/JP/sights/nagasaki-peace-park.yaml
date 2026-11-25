@@ -1,0 +1,15 @@
+id: sight-jp-nagasaki-peace-park
+name: "Nagasaki Peace Park"
+location:
+  country_code: JP
+  latitude: 32.7752
+  longitude: 129.8630
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 9.6
+  experience: 8.8
+  depth: 7.9
+  categories:
+    history: 9.7
+    culture: 9.0

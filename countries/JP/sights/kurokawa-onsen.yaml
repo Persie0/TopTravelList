@@ -1,0 +1,16 @@
+id: sight-jp-kurokawa-onsen
+name: "Kurokawa Onsen"
+location:
+  country_code: JP
+  latitude: 33.0780
+  longitude: 131.1400
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 7.5
+  experience: 9.2
+  depth: 8.3
+  categories:
+    relaxation: 9.5
+    culture: 8.9
+    photography: 8.8

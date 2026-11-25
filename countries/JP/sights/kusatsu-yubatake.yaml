@@ -1,0 +1,16 @@
+id: sight-jp-kusatsu-yubatake
+name: "Kusatsu Yubatake"
+location:
+  country_code: JP
+  latitude: 36.6229
+  longitude: 138.5964
+scores:
+  impact: 8.6
+  uniqueness: 9.0
+  significance: 8.1
+  experience: 8.8
+  depth: 7.7
+  categories:
+    relaxation: 9.0
+    culture: 8.8
+    photography: 9.0

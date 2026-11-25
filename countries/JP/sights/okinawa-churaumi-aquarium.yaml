@@ -1,0 +1,15 @@
+id: sight-jp-okinawa-churaumi-aquarium
+name: "Okinawa Churaumi Aquarium"
+location:
+  country_code: JP
+  latitude: 26.6943
+  longitude: 127.8780
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 7.6
+  experience: 9.3
+  depth: 9.0
+  categories:
+    family: 9.5
+    wildlife: 9.0

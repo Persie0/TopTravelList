@@ -1,0 +1,16 @@
+id: sight-jp-katsuren-castle-ruins
+name: "Katsuren Castle Ruins"
+location:
+  country_code: JP
+  latitude: 26.3300
+  longitude: 127.8790
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 8.8
+  experience: 8.6
+  depth: 8.0
+  categories:
+    history: 9.0
+    architecture: 8.9
+    photography: 9.1

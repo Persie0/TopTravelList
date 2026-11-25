@@ -1,0 +1,15 @@
+id: sight-jp-umeda-sky-building
+name: "Umeda Sky Building"
+location:
+  country_code: JP
+  latitude: 34.7053
+  longitude: 135.4904
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 7.0
+  experience: 8.8
+  depth: 7.5
+  categories:
+    architecture: 9.1
+    photography: 9.0

@@ -1,0 +1,16 @@
+id: sight-jp-nanzenji
+name: "Nanzenji"
+location:
+  country_code: JP
+  latitude: 35.0113
+  longitude: 135.7946
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 9.1
+  depth: 8.8
+  categories:
+    architecture: 9.2
+    history: 9.1
+    relaxation: 9.0

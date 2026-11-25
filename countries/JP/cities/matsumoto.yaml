@@ -1,0 +1,15 @@
+id: city-jp-matsumoto
+name: "Matsumoto"
+location:
+  country_code: JP
+  latitude: 36.2380
+  longitude: 137.9720
+scores:
+  impact: 8.3
+  uniqueness: 8.4
+  significance: 8.6
+  experience: 8.5
+  depth: 8.2
+  categories:
+    history: 8.7
+    architecture: 8.8

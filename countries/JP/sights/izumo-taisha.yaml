@@ -1,0 +1,16 @@
+id: sight-jp-izumo-taisha
+name: "Izumo Taisha"
+location:
+  country_code: JP
+  latitude: 35.4019
+  longitude: 132.6855
+scores:
+  impact: 9.1
+  uniqueness: 9.4
+  significance: 9.5
+  experience: 9.1
+  depth: 8.5
+  categories:
+    culture: 9.7
+    architecture: 9.4
+    history: 9.5

@@ -1,0 +1,16 @@
+id: sight-jp-sakurajima
+name: "Sakurajima"
+location:
+  country_code: JP
+  latitude: 31.5850
+  longitude: 130.6570
+scores:
+  impact: 9.1
+  uniqueness: 9.0
+  significance: 8.4
+  experience: 8.9
+  depth: 9.0
+  categories:
+    nature: 9.5
+    photography: 9.4
+    adventure: 8.8

@@ -1,0 +1,16 @@
+id: sight-jp-yambaru-national-park
+name: "Yambaru National Park"
+location:
+  country_code: JP
+  latitude: 26.7450
+  longitude: 128.2200
+scores:
+  impact: 8.9
+  uniqueness: 9.2
+  significance: 9.1
+  experience: 8.8
+  depth: 9.0
+  categories:
+    nature: 9.5
+    wildlife: 9.4
+    adventure: 8.9

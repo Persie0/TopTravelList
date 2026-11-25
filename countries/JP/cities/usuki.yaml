@@ -1,0 +1,15 @@
+id: city-jp-usuki
+name: "Usuki"
+location:
+  country_code: JP
+  latitude: 33.1268
+  longitude: 131.8050
+scores:
+  impact: 7.6
+  uniqueness: 8.0
+  significance: 8.1
+  experience: 8.0
+  depth: 7.4
+  categories:
+    history: 8.4
+    culture: 8.3

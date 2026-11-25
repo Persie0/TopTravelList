@@ -1,0 +1,15 @@
+id: city-jp-kumamoto
+name: "Kumamoto"
+location:
+  country_code: JP
+  latitude: 32.8031
+  longitude: 130.7079
+scores:
+  impact: 8.0
+  uniqueness: 8.0
+  significance: 8.4
+  experience: 8.3
+  depth: 8.1
+  categories:
+    history: 8.6
+    architecture: 8.5

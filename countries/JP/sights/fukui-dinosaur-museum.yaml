@@ -1,0 +1,15 @@
+id: sight-jp-fukui-dinosaur-museum
+name: "Fukui Dinosaur Museum"
+location:
+  country_code: JP
+  latitude: 36.0828
+  longitude: 136.5069
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 8.6
+  experience: 9.1
+  depth: 9.0
+  categories:
+    family: 9.4
+    culture: 8.8

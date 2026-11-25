@@ -1,0 +1,15 @@
+id: sight-jp-atsuta-jingu
+name: "Atsuta Jingu"
+location:
+  country_code: JP
+  latitude: 35.1273
+  longitude: 136.9086
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 9.4
+  experience: 8.7
+  depth: 8.0
+  categories:
+    culture: 9.5
+    history: 9.4

@@ -1,0 +1,15 @@
+id: city-jp-hakone
+name: "Hakone"
+location:
+  country_code: JP
+  latitude: 35.2324
+  longitude: 139.1069
+scores:
+  impact: 8.1
+  uniqueness: 8.3
+  significance: 7.8
+  experience: 8.8
+  depth: 8.4
+  categories:
+    relaxation: 9.1
+    nature: 8.8

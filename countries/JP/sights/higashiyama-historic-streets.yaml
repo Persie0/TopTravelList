@@ -1,0 +1,16 @@
+id: sight-jp-higashiyama-historic-streets
+name: "Higashiyama Historic Streets"
+location:
+  country_code: JP
+  latitude: 34.9986
+  longitude: 135.7808
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 8.8
+  experience: 9.1
+  depth: 8.8
+  categories:
+    architecture: 9.2
+    culture: 9.0
+    photography: 9.4

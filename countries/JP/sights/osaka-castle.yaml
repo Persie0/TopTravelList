@@ -1,0 +1,16 @@
+id: sight-jp-osaka-castle
+name: "Osaka Castle"
+location:
+  country_code: JP
+  latitude: 34.6873
+  longitude: 135.5262
+scores:
+  impact: 8.9
+  uniqueness: 8.7
+  significance: 9.2
+  experience: 9.0
+  depth: 8.8
+  categories:
+    history: 9.3
+    architecture: 9.0
+    photography: 9.1

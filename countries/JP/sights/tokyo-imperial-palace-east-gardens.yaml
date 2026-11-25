@@ -1,0 +1,16 @@
+id: sight-jp-tokyo-imperial-palace-east-gardens
+name: "Tokyo Imperial Palace East Gardens"
+location:
+  country_code: JP
+  latitude: 35.6868
+  longitude: 139.7567
+scores:
+  impact: 8.3
+  uniqueness: 8.4
+  significance: 9.0
+  experience: 8.6
+  depth: 8.5
+  categories:
+    history: 9.1
+    relaxation: 8.8
+    architecture: 8.4

@@ -1,0 +1,15 @@
+id: sight-jp-okochi-sanso-garden
+name: "Okochi Sanso Garden"
+location:
+  country_code: JP
+  latitude: 35.0165
+  longitude: 135.6692
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 7.8
+  experience: 8.9
+  depth: 8.3
+  categories:
+    relaxation: 9.1
+    photography: 9.0

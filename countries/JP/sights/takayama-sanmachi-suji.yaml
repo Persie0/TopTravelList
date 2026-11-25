@@ -1,0 +1,16 @@
+id: sight-jp-takayama-sanmachi-suji
+name: "Takayama Sanmachi Suji"
+location:
+  country_code: JP
+  latitude: 36.1413
+  longitude: 137.2593
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 8.6
+  experience: 9.0
+  depth: 8.3
+  categories:
+    architecture: 9.1
+    culture: 9.0
+    photography: 9.1

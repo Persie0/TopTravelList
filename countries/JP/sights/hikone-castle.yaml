@@ -1,0 +1,16 @@
+id: sight-jp-hikone-castle
+name: "Hikone Castle"
+location:
+  country_code: JP
+  latitude: 35.2765
+  longitude: 136.2517
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 9.1
+  experience: 8.9
+  depth: 8.5
+  categories:
+    history: 9.3
+    architecture: 9.3
+    photography: 9.0

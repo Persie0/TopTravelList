@@ -1,0 +1,16 @@
+id: city-jp-koyasan
+name: "Koyasan"
+location:
+  country_code: JP
+  latitude: 34.2127
+  longitude: 135.5851
+scores:
+  impact: 8.8
+  uniqueness: 9.2
+  significance: 9.3
+  experience: 9.0
+  depth: 8.5
+  categories:
+    culture: 9.5
+    history: 9.3
+    architecture: 9.1

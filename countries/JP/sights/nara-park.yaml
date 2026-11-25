@@ -1,0 +1,16 @@
+id: sight-jp-nara-park
+name: "Nara Park"
+location:
+  country_code: JP
+  latitude: 34.6854
+  longitude: 135.8430
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 8.2
+  experience: 9.1
+  depth: 8.7
+  categories:
+    wildlife: 8.8
+    relaxation: 9.0
+    photography: 9.0

@@ -1,0 +1,16 @@
+id: city-jp-osaka
+name: "Osaka"
+location:
+  country_code: JP
+  latitude: 34.6937
+  longitude: 135.5023
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 8.7
+  experience: 9.3
+  depth: 9.2
+  categories:
+    food: 9.6
+    nightlife: 9.2
+    culture: 9.0

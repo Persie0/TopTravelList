@@ -1,0 +1,15 @@
+id: sight-jp-lake-mashu
+name: "Lake Mashu"
+location:
+  country_code: JP
+  latitude: 43.5880
+  longitude: 144.5360
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 8.0
+  experience: 8.8
+  depth: 7.8
+  categories:
+    nature: 9.4
+    photography: 9.4

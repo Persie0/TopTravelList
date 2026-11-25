@@ -1,0 +1,16 @@
+id: sight-jp-futarasan-shrine-nikko
+name: "Futarasan Shrine Nikko"
+location:
+  country_code: JP
+  latitude: 36.7592
+  longitude: 139.5958
+scores:
+  impact: 8.5
+  uniqueness: 8.6
+  significance: 8.9
+  experience: 8.8
+  depth: 8.0
+  categories:
+    culture: 9.0
+    history: 8.9
+    nature: 8.5

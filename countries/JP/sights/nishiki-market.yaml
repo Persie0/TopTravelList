@@ -1,0 +1,15 @@
+id: sight-jp-nishiki-market
+name: "Nishiki Market"
+location:
+  country_code: JP
+  latitude: 35.0050
+  longitude: 135.7648
+scores:
+  impact: 8.1
+  uniqueness: 8.3
+  significance: 7.9
+  experience: 8.8
+  depth: 7.9
+  categories:
+    food: 9.1
+    culture: 8.7

@@ -1,0 +1,16 @@
+id: sight-jp-todaiji-temple
+name: "Todaiji Temple"
+location:
+  country_code: JP
+  latitude: 34.6890
+  longitude: 135.8398
+scores:
+  impact: 9.6
+  uniqueness: 9.6
+  significance: 9.7
+  experience: 9.4
+  depth: 9.0
+  categories:
+    architecture: 9.7
+    history: 9.8
+    culture: 9.7

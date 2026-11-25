@@ -1,0 +1,15 @@
+id: sight-jp-sado-gold-mine
+name: "Sado Gold Mine"
+location:
+  country_code: JP
+  latitude: 38.0390
+  longitude: 138.2400
+scores:
+  impact: 8.6
+  uniqueness: 9.0
+  significance: 9.3
+  experience: 8.7
+  depth: 8.8
+  categories:
+    history: 9.5
+    culture: 8.8

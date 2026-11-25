@@ -1,0 +1,16 @@
+id: sight-jp-kenrokuen-garden
+name: "Kenrokuen Garden"
+location:
+  country_code: JP
+  latitude: 36.5620
+  longitude: 136.6626
+scores:
+  impact: 9.2
+  uniqueness: 9.3
+  significance: 9.0
+  experience: 9.3
+  depth: 8.8
+  categories:
+    relaxation: 9.5
+    photography: 9.5
+    culture: 9.3

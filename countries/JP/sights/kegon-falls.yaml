@@ -1,0 +1,15 @@
+id: sight-jp-kegon-falls
+name: "Kegon Falls"
+location:
+  country_code: JP
+  latitude: 36.7383
+  longitude: 139.6015
+scores:
+  impact: 8.9
+  uniqueness: 8.7
+  significance: 7.7
+  experience: 9.0
+  depth: 7.7
+  categories:
+    nature: 9.2
+    photography: 9.3

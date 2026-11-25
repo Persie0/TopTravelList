@@ -1,0 +1,16 @@
+id: city-jp-hiroshima
+name: "Hiroshima"
+location:
+  country_code: JP
+  latitude: 34.3853
+  longitude: 132.4553
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 9.5
+  experience: 8.8
+  depth: 8.7
+  categories:
+    history: 9.7
+    culture: 8.9
+    food: 8.8

@@ -1,0 +1,15 @@
+id: sight-jp-mount-inasa
+name: "Mount Inasa"
+location:
+  country_code: JP
+  latitude: 32.7530
+  longitude: 129.8500
+scores:
+  impact: 8.7
+  uniqueness: 8.4
+  significance: 6.8
+  experience: 8.9
+  depth: 7.5
+  categories:
+    photography: 9.3
+    nature: 8.6

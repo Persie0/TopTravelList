@@ -1,0 +1,15 @@
+id: sight-jp-ueno-park
+name: "Ueno Park"
+location:
+  country_code: JP
+  latitude: 35.7140
+  longitude: 139.7741
+scores:
+  impact: 8.2
+  uniqueness: 8.0
+  significance: 8.2
+  experience: 8.7
+  depth: 8.4
+  categories:
+    culture: 8.6
+    relaxation: 8.5

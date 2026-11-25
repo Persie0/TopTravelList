@@ -1,0 +1,16 @@
+id: sight-jp-hamarikyu-gardens
+name: "Hamarikyu Gardens"
+location:
+  country_code: JP
+  latitude: 35.6598
+  longitude: 139.7632
+scores:
+  impact: 8.3
+  uniqueness: 8.5
+  significance: 8.6
+  experience: 8.7
+  depth: 8.1
+  categories:
+    history: 8.8
+    relaxation: 8.8
+    photography: 8.6

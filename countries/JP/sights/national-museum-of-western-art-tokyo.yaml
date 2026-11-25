@@ -1,0 +1,16 @@
+id: sight-jp-national-museum-of-western-art-tokyo
+name: "National Museum of Western Art Tokyo"
+location:
+  country_code: JP
+  latitude: 35.7155
+  longitude: 139.7758
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 8.8
+  experience: 8.8
+  depth: 8.7
+  categories:
+    architecture: 9.4
+    culture: 9.0
+    history: 8.7

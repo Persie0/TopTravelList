@@ -1,0 +1,15 @@
+id: sight-jp-asukadera-temple
+name: "Asukadera Temple"
+location:
+  country_code: JP
+  latitude: 34.4780
+  longitude: 135.8204
+scores:
+  impact: 8.2
+  uniqueness: 8.7
+  significance: 9.3
+  experience: 8.4
+  depth: 7.5
+  categories:
+    history: 9.5
+    culture: 9.1

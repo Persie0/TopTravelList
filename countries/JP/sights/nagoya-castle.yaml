@@ -1,0 +1,15 @@
+id: sight-jp-nagoya-castle
+name: "Nagoya Castle"
+location:
+  country_code: JP
+  latitude: 35.1856
+  longitude: 136.8992
+scores:
+  impact: 8.6
+  uniqueness: 8.5
+  significance: 8.9
+  experience: 8.5
+  depth: 8.5
+  categories:
+    architecture: 9.0
+    history: 9.1

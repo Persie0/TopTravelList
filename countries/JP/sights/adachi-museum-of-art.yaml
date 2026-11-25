@@ -1,0 +1,16 @@
+id: sight-jp-adachi-museum-of-art
+name: "Adachi Museum of Art"
+location:
+  country_code: JP
+  latitude: 35.3800
+  longitude: 133.1945
+scores:
+  impact: 9.0
+  uniqueness: 9.3
+  significance: 8.5
+  experience: 9.1
+  depth: 8.7
+  categories:
+    culture: 9.1
+    relaxation: 9.3
+    photography: 9.4

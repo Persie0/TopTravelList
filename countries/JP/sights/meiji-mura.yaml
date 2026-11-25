@@ -1,0 +1,16 @@
+id: sight-jp-meiji-mura
+name: "Meiji Mura"
+location:
+  country_code: JP
+  latitude: 35.3399
+  longitude: 136.9885
+scores:
+  impact: 8.9
+  uniqueness: 9.2
+  significance: 9.0
+  experience: 9.0
+  depth: 9.2
+  categories:
+    architecture: 9.5
+    history: 9.2
+    culture: 9.0

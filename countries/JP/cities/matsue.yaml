@@ -1,0 +1,15 @@
+id: city-jp-matsue
+name: "Matsue"
+location:
+  country_code: JP
+  latitude: 35.4681
+  longitude: 133.0484
+scores:
+  impact: 8.2
+  uniqueness: 8.4
+  significance: 8.5
+  experience: 8.4
+  depth: 8.2
+  categories:
+    history: 8.7
+    architecture: 8.7

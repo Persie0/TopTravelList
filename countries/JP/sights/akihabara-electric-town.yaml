@@ -1,0 +1,15 @@
+id: sight-jp-akihabara-electric-town
+name: "Akihabara Electric Town"
+location:
+  country_code: JP
+  latitude: 35.6984
+  longitude: 139.7731
+scores:
+  impact: 8.5
+  uniqueness: 9.0
+  significance: 8.0
+  experience: 8.9
+  depth: 8.6
+  categories:
+    culture: 9.3
+    nightlife: 8.1

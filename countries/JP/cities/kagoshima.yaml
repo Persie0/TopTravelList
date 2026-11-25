@@ -1,0 +1,16 @@
+id: city-jp-kagoshima
+name: "Kagoshima"
+location:
+  country_code: JP
+  latitude: 31.5966
+  longitude: 130.5571
+scores:
+  impact: 8.3
+  uniqueness: 8.5
+  significance: 8.4
+  experience: 8.6
+  depth: 8.4
+  categories:
+    nature: 8.6
+    history: 8.5
+    food: 8.5

@@ -1,0 +1,16 @@
+id: sight-jp-eiheiji-temple
+name: "Eiheiji Temple"
+location:
+  country_code: JP
+  latitude: 36.0536
+  longitude: 136.3553
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 9.3
+  experience: 9.1
+  depth: 9.0
+  categories:
+    culture: 9.5
+    architecture: 9.3
+    history: 9.4

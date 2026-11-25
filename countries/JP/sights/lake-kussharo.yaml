@@ -1,0 +1,15 @@
+id: sight-jp-lake-kussharo
+name: "Lake Kussharo"
+location:
+  country_code: JP
+  latitude: 43.6170
+  longitude: 144.3260
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 7.8
+  experience: 8.9
+  depth: 8.6
+  categories:
+    nature: 9.2
+    relaxation: 9.0

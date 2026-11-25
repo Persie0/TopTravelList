@@ -1,0 +1,16 @@
+id: sight-jp-lake-kawaguchi
+name: "Lake Kawaguchi"
+location:
+  country_code: JP
+  latitude: 35.5173
+  longitude: 138.7518
+scores:
+  impact: 8.9
+  uniqueness: 8.6
+  significance: 7.5
+  experience: 9.0
+  depth: 8.4
+  categories:
+    nature: 9.1
+    photography: 9.5
+    relaxation: 9.0

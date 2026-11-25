@@ -1,0 +1,15 @@
+id: city-jp-miyakojima
+name: "Miyakojima"
+location:
+  country_code: JP
+  latitude: 24.8055
+  longitude: 125.2811
+scores:
+  impact: 7.5
+  uniqueness: 7.7
+  significance: 7.0
+  experience: 8.2
+  depth: 7.4
+  categories:
+    beaches: 8.4
+    relaxation: 8.5

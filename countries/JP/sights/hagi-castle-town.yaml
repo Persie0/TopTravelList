@@ -1,0 +1,16 @@
+id: sight-jp-hagi-castle-town
+name: "Hagi Castle Town"
+location:
+  country_code: JP
+  latitude: 34.4121
+  longitude: 131.3960
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 8.7
+  depth: 8.6
+  categories:
+    history: 9.2
+    architecture: 9.0
+    culture: 8.9

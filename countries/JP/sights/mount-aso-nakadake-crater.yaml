@@ -1,0 +1,16 @@
+id: sight-jp-mount-aso-nakadake-crater
+name: "Mount Aso Nakadake Crater"
+location:
+  country_code: JP
+  latitude: 32.8840
+  longitude: 131.0870
+scores:
+  impact: 9.3
+  uniqueness: 9.2
+  significance: 8.4
+  experience: 9.1
+  depth: 8.6
+  categories:
+    nature: 9.6
+    photography: 9.4
+    adventure: 9.1

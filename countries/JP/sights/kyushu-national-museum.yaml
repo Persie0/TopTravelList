@@ -1,0 +1,15 @@
+id: sight-jp-kyushu-national-museum
+name: "Kyushu National Museum"
+location:
+  country_code: JP
+  latitude: 33.5180
+  longitude: 130.5380
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 9.0
+  experience: 8.8
+  depth: 9.0
+  categories:
+    history: 9.3
+    culture: 9.1

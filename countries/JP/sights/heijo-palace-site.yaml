@@ -1,0 +1,15 @@
+id: sight-jp-heijo-palace-site
+name: "Heijo Palace Site"
+location:
+  country_code: JP
+  latitude: 34.6914
+  longitude: 135.7945
+scores:
+  impact: 8.0
+  uniqueness: 8.5
+  significance: 9.3
+  experience: 8.1
+  depth: 8.5
+  categories:
+    history: 9.5
+    culture: 8.7

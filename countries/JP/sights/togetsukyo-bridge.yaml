@@ -1,0 +1,15 @@
+id: sight-jp-togetsukyo-bridge
+name: "Togetsukyo Bridge"
+location:
+  country_code: JP
+  latitude: 35.0128
+  longitude: 135.6777
+scores:
+  impact: 8.0
+  uniqueness: 7.9
+  significance: 7.6
+  experience: 8.4
+  depth: 6.8
+  categories:
+    photography: 8.8
+    nature: 8.3

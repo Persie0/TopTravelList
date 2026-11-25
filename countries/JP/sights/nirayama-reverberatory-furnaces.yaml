@@ -1,0 +1,15 @@
+id: sight-jp-nirayama-reverberatory-furnaces
+name: "Nirayama Reverberatory Furnaces"
+location:
+  country_code: JP
+  latitude: 35.0150
+  longitude: 138.9570
+scores:
+  impact: 7.9
+  uniqueness: 8.6
+  significance: 8.9
+  experience: 8.3
+  depth: 7.5
+  categories:
+    history: 9.1
+    architecture: 8.7
