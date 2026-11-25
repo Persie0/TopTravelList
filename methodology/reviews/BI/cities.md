@@ -2,6 +2,9 @@
 
 [Worldwide v2](../../../rules.md) · [Future-country workflow](../../future-country-workflow.md). Initial editorial assessments dated 2026-11-25. [Current tentative inventory](https://www.worldheritageexplorer.org/countries/burundi.html) cross-checked against UNESCO's country and 2026 search results: ten properties, none inscribed. Seven revised submissions dated 2026-02-03 replace overlapping older entries. Royal drum intangible heritage is a separate designation. [FCDO regional risks](https://www.gov.uk/foreign-travel-advice/burundi/regional-risks), checked 2026-11-25: certain areas and roads through Kibira are subject to advice against travel; no scores imply safe access. Park and lake coordinates are approximate representative points, not entrances. Named peer ladders are provisional; no country multipliers. Source excerpts do not establish full factual verification or safe access. Small regional settlements with coordinates not independently checked remain editorial-only.
 
+
+Follow-up 2026-11-25: nine editorial-only settlements supplemented with named populated-place coordinates and destination context. Gateway attractions remain excluded; no complete factual verification claimed.
+
 ## city-bi-bujumbura — Bujumbura — 2026-11-25
 
 - [YAML](../../../countries/BI/cities/bujumbura.yaml) · Action: new · **source-linked-unverified**.
@@ -61,8 +64,8 @@
 
 ## city-bi-ngozi — Ngozi — 2026-11-25
 
-- [YAML](../../../countries/BI/cities/ngozi.yaml) · Action: new · **editorial-only**.
-- Scope: Settlement itself, excluding remote attractions. GPS -2.9075, 29.8306: GeoNames populated place, same search result.
+- [YAML](../../../countries/BI/cities/ngozi.yaml) · Action: new · **source-linked-unverified**.
+- Scope: Settlement itself, excluding remote attractions. GPS -2.9075, 29.8306: populated-place representative point from [GeoNames](https://www.geonames.org/advanced-search.html?continentCode=&country=BI&fclass=P&q=), checked 2026-11-25; original approximate point superseded where different.
 - Worldwide peers (I/U/S/E/D):
   - [Beijing (CN)](../../../countries/CN/cities/beijing.yaml) — 9.7 / 9.7 / 9.9 / 9.5 / 10.0 (97.40/100); upper anchor; lower impact (commercial plateau streets), lower uniqueness (northern agricultural hub), lower significance (regional administrative history), lower experience (markets and local meals), lower depth (modest urban breadth).
   - [Vienna (AT)](../../../countries/AT/cities/vienna.yaml) — 9.2 / 9.0 / 9.5 / 9.2 / 9.4 (92.30/100); related comparison; lower impact (commercial plateau streets), lower uniqueness (northern agricultural hub), lower significance (regional administrative history), lower experience (markets and local meals), lower depth (modest urban breadth).
@@ -75,13 +78,13 @@
 - Depth 6.5: modest urban breadth.
 - Categories: culture:7.3, food:7.5. Overall: 65.10/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked destination-specific visitor source; editorial only.
+- Evidence: [GeoNames](https://www.geonames.org/advanced-search.html?continentCode=&country=BI&fclass=P&q=) identifies the named town, and [Burundi destinations guide](https://burundiairport.com/destinations/) describes northern regional centre. Checked 2026-11-25; original status editorial-only. Market, food and visitor-experience claims remain provisional.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, current access and individual peer/category calibration.
 
 ## city-bi-kayanza — Kayanza — 2026-11-25
 
-- [YAML](../../../countries/BI/cities/kayanza.yaml) · Action: new · **editorial-only**.
-- Scope: Settlement itself, excluding remote attractions. GPS -2.922, 29.629: GeoNames largest cities table https://www.geonames.org/BI/largest-cities-in-burundi.html (rounded).
+- [YAML](../../../countries/BI/cities/kayanza.yaml) · Action: new · **source-linked-unverified**.
+- Scope: Settlement itself, excluding remote attractions. GPS -2.9221, 29.6293: populated-place representative point from [GeoNames](https://www.geonames.org/advanced-search.html?continentCode=&country=BI&fclass=P&q=), checked 2026-11-25; original approximate point superseded where different.
 - Worldwide peers (I/U/S/E/D):
   - [Siem Reap (KH)](../../../countries/KH/cities/siem-reap.yaml) — 8.8 / 9.0 / 9.3 / 9.0 / 9.2 (90.20/100); upper anchor; lower impact (highland market town), lower uniqueness (tea and coffee region character), lower significance (regional agricultural history), lower experience (town food and walks), lower depth (forest and plantations separate).
   - [Luang Prabang (LA)](../../../countries/LA/cities/luang-prabang.yaml) — 9.2 / 9.4 / 9.3 / 9.2 / 9.0 (92.50/100); related comparison; lower impact (highland market town), lower uniqueness (tea and coffee region character), lower significance (regional agricultural history), lower experience (town food and walks), lower depth (forest and plantations separate).
@@ -94,13 +97,13 @@
 - Depth 6.1: forest and plantations separate.
 - Categories: culture:7.6, food:7.7. Overall: 65.95/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked destination-specific visitor source; editorial only.
+- Evidence: [GeoNames](https://www.geonames.org/advanced-search.html?continentCode=&country=BI&fclass=P&q=) identifies the named town, and [Burundi destinations guide](https://burundiairport.com/destinations/) describes cultivated highlands and tea region. Checked 2026-11-25; original status editorial-only. Market, food and visitor-experience claims remain provisional.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, current access and individual peer/category calibration.
 
 ## city-bi-kirundo — Kirundo — 2026-11-25
 
-- [YAML](../../../countries/BI/cities/kirundo.yaml) · Action: new · **editorial-only**.
-- Scope: Settlement itself, excluding remote attractions. GPS -2.58, 30.10: approximate editorial reference; independent check pending.
+- [YAML](../../../countries/BI/cities/kirundo.yaml) · Action: new · **source-linked-unverified**.
+- Scope: Settlement itself, excluding remote attractions. GPS -2.5845, 30.0959: populated-place representative point from [GeoNames](https://www.geonames.org/advanced-search.html?continentCode=&country=BI&fclass=P&q=), checked 2026-11-25; original approximate point superseded where different.
 - Worldwide peers (I/U/S/E/D):
   - [Siem Reap (KH)](../../../countries/KH/cities/siem-reap.yaml) — 8.8 / 9.0 / 9.3 / 9.0 / 9.2 (90.20/100); upper anchor; lower impact (small northern market center), lower uniqueness (lake-region settlement culture), lower significance (regional trade), lower experience (market and local walks), lower depth (surrounding lakes excluded).
   - [Luang Prabang (LA)](../../../countries/LA/cities/luang-prabang.yaml) — 9.2 / 9.4 / 9.3 / 9.2 / 9.0 (92.50/100); related comparison; lower impact (small northern market center), lower uniqueness (lake-region settlement culture), lower significance (regional trade), lower experience (market and local walks), lower depth (surrounding lakes excluded).
@@ -113,13 +116,13 @@
 - Depth 6.0: surrounding lakes excluded.
 - Categories: culture:7.3, relaxation:7.3. Overall: 64.65/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked destination-specific visitor source; editorial only.
+- Evidence: [GeoNames](https://www.geonames.org/advanced-search.html?continentCode=&country=BI&fclass=P&q=) identifies the named town, and [Burundi destinations guide](https://burundiairport.com/destinations/) describes gateway to northern lakes, not the lakes themselves. Checked 2026-11-25; original status editorial-only. Market, food and visitor-experience claims remain provisional.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, current access and individual peer/category calibration.
 
 ## city-bi-bururi — Bururi — 2026-11-25
 
-- [YAML](../../../countries/BI/cities/bururi.yaml) · Action: new · **editorial-only**.
-- Scope: Settlement itself, excluding remote attractions. GPS -3.95, 29.61: approximate editorial reference; independent check pending.
+- [YAML](../../../countries/BI/cities/bururi.yaml) · Action: new · **source-linked-unverified**.
+- Scope: Settlement itself, excluding remote attractions. GPS -3.9487727, 29.6243763: populated-place representative point from [GeoNames](https://www.geonames.org/advanced-search.html?continentCode=&country=BI&fclass=P&q=), checked 2026-11-25; original approximate point superseded where different.
 - Worldwide peers (I/U/S/E/D):
   - [Siem Reap (KH)](../../../countries/KH/cities/siem-reap.yaml) — 8.8 / 9.0 / 9.3 / 9.0 / 9.2 (90.20/100); upper anchor; lower impact (highland town streets), lower uniqueness (cooler upland community), lower significance (regional administrative role), lower experience (food and quiet walks), lower depth (forest excluded).
   - [Luang Prabang (LA)](../../../countries/LA/cities/luang-prabang.yaml) — 9.2 / 9.4 / 9.3 / 9.2 / 9.0 (92.50/100); related comparison; lower impact (highland town streets), lower uniqueness (cooler upland community), lower significance (regional administrative role), lower experience (food and quiet walks), lower depth (forest excluded).
@@ -132,13 +135,13 @@
 - Depth 6.0: forest excluded.
 - Categories: culture:7.4, relaxation:7.6. Overall: 65.45/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked destination-specific visitor source; editorial only.
+- Evidence: [GeoNames](https://www.geonames.org/advanced-search.html?continentCode=&country=BI&fclass=P&q=) identifies the named town, and [Burundi destinations guide](https://burundiairport.com/destinations/) describes highland settlement, not forest reserve. Checked 2026-11-25; original status editorial-only. Market, food and visitor-experience claims remain provisional.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, current access and individual peer/category calibration.
 
 ## city-bi-rutana — Rutana — 2026-11-25
 
-- [YAML](../../../countries/BI/cities/rutana.yaml) · Action: new · **editorial-only**.
-- Scope: Settlement itself, excluding remote attractions. GPS -3.9279, 29.992: GeoNames populated place, same search result.
+- [YAML](../../../countries/BI/cities/rutana.yaml) · Action: new · **source-linked-unverified**.
+- Scope: Settlement itself, excluding remote attractions. GPS -3.9279, 29.992: populated-place representative point from [GeoNames](https://www.geonames.org/advanced-search.html?continentCode=&country=BI&fclass=P&q=), checked 2026-11-25; original approximate point superseded where different.
 - Worldwide peers (I/U/S/E/D):
   - [Siem Reap (KH)](../../../countries/KH/cities/siem-reap.yaml) — 8.8 / 9.0 / 9.3 / 9.0 / 9.2 (90.20/100); upper anchor; lower impact (small southeastern market town), lower uniqueness (regional rural identity), lower significance (local trade role), lower experience (markets and meals), lower depth (Karera and Nyakazu excluded).
   - [Luang Prabang (LA)](../../../countries/LA/cities/luang-prabang.yaml) — 9.2 / 9.4 / 9.3 / 9.2 / 9.0 (92.50/100); related comparison; lower impact (small southeastern market town), lower uniqueness (regional rural identity), lower significance (local trade role), lower experience (markets and meals), lower depth (Karera and Nyakazu excluded).
@@ -151,13 +154,13 @@
 - Depth 5.8: Karera and Nyakazu excluded.
 - Categories: culture:7.2. Overall: 62.30/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked destination-specific visitor source; editorial only.
+- Evidence: [GeoNames](https://www.geonames.org/advanced-search.html?continentCode=&country=BI&fclass=P&q=) identifies the named town, and [Burundi destinations guide](https://burundiairport.com/destinations/) describes regional base, not Karera or Nyakazu. Checked 2026-11-25; original status editorial-only. Market, food and visitor-experience claims remain provisional.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, current access and individual peer/category calibration.
 
 ## city-bi-muramvya — Muramvya — 2026-11-25
 
-- [YAML](../../../countries/BI/cities/muramvya.yaml) · Action: new · **editorial-only**.
-- Scope: Settlement itself, excluding remote attractions. GPS -3.267, 29.607: approximate editorial reference; independent check pending.
+- [YAML](../../../countries/BI/cities/muramvya.yaml) · Action: new · **source-linked-unverified**.
+- Scope: Settlement itself, excluding remote attractions. GPS -3.26775757, 29.61620489: populated-place representative point from [GeoNames](https://www.geonames.org/advanced-search.html?continentCode=&country=BI&fclass=P&q=), checked 2026-11-25; original approximate point superseded where different.
 - Worldwide peers (I/U/S/E/D):
   - [Siem Reap (KH)](../../../countries/KH/cities/siem-reap.yaml) — 8.8 / 9.0 / 9.3 / 9.0 / 9.2 (90.20/100); upper anchor; lower impact (upland settlement), lower uniqueness (historic royal-region character), lower significance (monarchical history), lower experience (town walks), lower depth (dispersed sacred landscapes excluded).
   - [Luang Prabang (LA)](../../../countries/LA/cities/luang-prabang.yaml) — 9.2 / 9.4 / 9.3 / 9.2 / 9.0 (92.50/100); related comparison; lower impact (upland settlement), lower uniqueness (historic royal-region character), lower significance (monarchical history), lower experience (town walks), lower depth (dispersed sacred landscapes excluded).
@@ -170,13 +173,13 @@
 - Depth 6.0: dispersed sacred landscapes excluded.
 - Categories: history:7.9, culture:7.9. Overall: 67.20/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked destination-specific visitor source; editorial only.
+- Evidence: [GeoNames](https://www.geonames.org/advanced-search.html?continentCode=&country=BI&fclass=P&q=) identifies the named town, and [Burundi destinations guide](https://burundiairport.com/destinations/) describes historic highland area; dispersed royal sites excluded. Checked 2026-11-25; original status editorial-only. Market, food and visitor-experience claims remain provisional.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, current access and individual peer/category calibration.
 
 ## city-bi-muyinga — Muyinga — 2026-11-25
 
-- [YAML](../../../countries/BI/cities/muyinga.yaml) · Action: new · **editorial-only**.
-- Scope: Settlement itself, excluding remote attractions. GPS -2.85, 30.34: approximate editorial reference; independent check pending.
+- [YAML](../../../countries/BI/cities/muyinga.yaml) · Action: new · **source-linked-unverified**.
+- Scope: Settlement itself, excluding remote attractions. GPS -2.8451, 30.3414: populated-place representative point from [GeoNames](https://www.geonames.org/advanced-search.html?continentCode=&country=BI&fclass=P&q=), checked 2026-11-25; original approximate point superseded where different.
 - Worldwide peers (I/U/S/E/D):
   - [Siem Reap (KH)](../../../countries/KH/cities/siem-reap.yaml) — 8.8 / 9.0 / 9.3 / 9.0 / 9.2 (90.20/100); upper anchor; lower impact (northeastern commercial streets), lower uniqueness (regional agricultural community), lower significance (local trade history), lower experience (markets and meals), lower depth (park excluded).
   - [Luang Prabang (LA)](../../../countries/LA/cities/luang-prabang.yaml) — 9.2 / 9.4 / 9.3 / 9.2 / 9.0 (92.50/100); related comparison; lower impact (northeastern commercial streets), lower uniqueness (regional agricultural community), lower significance (local trade history), lower experience (markets and meals), lower depth (park excluded).
@@ -189,13 +192,13 @@
 - Depth 6.0: park excluded.
 - Categories: culture:7.2, food:7.3. Overall: 62.50/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked destination-specific visitor source; editorial only.
+- Evidence: [GeoNames](https://www.geonames.org/advanced-search.html?continentCode=&country=BI&fclass=P&q=) identifies the named town, and [Burundi destinations guide](https://burundiairport.com/destinations/) describes northeastern road hub. Checked 2026-11-25; original status editorial-only. Market, food and visitor-experience claims remain provisional.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, current access and individual peer/category calibration.
 
 ## city-bi-ruyigi — Ruyigi — 2026-11-25
 
-- [YAML](../../../countries/BI/cities/ruyigi.yaml) · Action: new · **editorial-only**.
-- Scope: Settlement itself, excluding remote attractions. GPS -3.48, 30.25: approximate editorial reference; independent check pending.
+- [YAML](../../../countries/BI/cities/ruyigi.yaml) · Action: new · **source-linked-unverified**.
+- Scope: Settlement itself, excluding remote attractions. GPS -3.4763889, 30.2486111: populated-place representative point from [GeoNames](https://www.geonames.org/advanced-search.html?continentCode=&country=BI&fclass=P&q=), checked 2026-11-25; original approximate point superseded where different.
 - Worldwide peers (I/U/S/E/D):
   - [Siem Reap (KH)](../../../countries/KH/cities/siem-reap.yaml) — 8.8 / 9.0 / 9.3 / 9.0 / 9.2 (90.20/100); upper anchor; lower impact (small plateau town), lower uniqueness (regional community culture), lower significance (local administrative role), lower experience (market walks), lower depth (limited attractions).
   - [Luang Prabang (LA)](../../../countries/LA/cities/luang-prabang.yaml) — 9.2 / 9.4 / 9.3 / 9.2 / 9.0 (92.50/100); related comparison; lower impact (small plateau town), lower uniqueness (regional community culture), lower significance (local administrative role), lower experience (market walks), lower depth (limited attractions).
@@ -208,13 +211,13 @@
 - Depth 5.8: limited attractions.
 - Categories: culture:7.1. Overall: 61.10/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked destination-specific visitor source; editorial only.
+- Evidence: [GeoNames](https://www.geonames.org/advanced-search.html?continentCode=&country=BI&fclass=P&q=) identifies the named town, and [Burundi destinations guide](https://burundiairport.com/destinations/) describes eastern highland settlement. Checked 2026-11-25; original status editorial-only. Market, food and visitor-experience claims remain provisional.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, current access and individual peer/category calibration.
 
 ## city-bi-makamba — Makamba — 2026-11-25
 
-- [YAML](../../../countries/BI/cities/makamba.yaml) · Action: new · **editorial-only**.
-- Scope: Settlement itself, excluding remote attractions. GPS -4.13, 29.80: approximate editorial reference; independent check pending.
+- [YAML](../../../countries/BI/cities/makamba.yaml) · Action: new · **source-linked-unverified**.
+- Scope: Settlement itself, excluding remote attractions. GPS -4.1348, 29.804: populated-place representative point from [GeoNames](https://www.geonames.org/advanced-search.html?continentCode=&country=BI&fclass=P&q=), checked 2026-11-25; original approximate point superseded where different.
 - Worldwide peers (I/U/S/E/D):
   - [Siem Reap (KH)](../../../countries/KH/cities/siem-reap.yaml) — 8.8 / 9.0 / 9.3 / 9.0 / 9.2 (90.20/100); upper anchor; lower impact (southern town streets), lower uniqueness (regional agricultural settlement), lower significance (local trade history), lower experience (local food and walks), lower depth (lake trips separate).
   - [Luang Prabang (LA)](../../../countries/LA/cities/luang-prabang.yaml) — 9.2 / 9.4 / 9.3 / 9.2 / 9.0 (92.50/100); related comparison; lower impact (southern town streets), lower uniqueness (regional agricultural settlement), lower significance (local trade history), lower experience (local food and walks), lower depth (lake trips separate).
@@ -227,5 +230,5 @@
 - Depth 6.0: lake trips separate.
 - Categories: culture:7.2, food:7.3. Overall: 62.65/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked destination-specific visitor source; editorial only.
+- Evidence: [GeoNames](https://www.geonames.org/advanced-search.html?continentCode=&country=BI&fclass=P&q=) identifies the named town, and [Burundi destinations guide](https://burundiairport.com/destinations/) describes southern regional centre. Checked 2026-11-25; original status editorial-only. Market, food and visitor-experience claims remain provisional.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, current access and individual peer/category calibration.
