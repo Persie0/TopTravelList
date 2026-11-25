@@ -1084,3 +1084,48 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Source](https://www.visitdubai.com/en/things-to-do/itineraries/weekend-of-arts-and-culture) — Tourism authority excerpt names Etihad Museum and Al Marmoom; page or excerpt inspected 2026-11-25. Individual claims and coordinates not fully verified.
 - Remaining gaps: Independent factual, GPS, category and specialist peer verification.
+
+## Follow-up: sight-ae-cultural-sites-of-al-ain-serial-property — 2026-11-25 (worldwide review)
+
+- [YAML](../../../countries/AE/sights/cultural-sites-of-al-ain-serial-property.yaml) · Action: rescore · **source-linked-unverified**; specific source excerpts inspected, full verification outstanding.
+- Sources inspected: [https://whc.unesco.org/en/list/1343](https://whc.unesco.org/en/list/1343); [https://abudhabiculture.ae/en/cultural-heritage/tangible/unesco-world-heritage-site/hili-sites](https://abudhabiculture.ae/en/cultural-heritage/tangible/unesco-world-heritage-site/hili-sites); [https://abudhabiculture.ae/en/Cultural-Heritage/Tangible/UNESCO-World-Heritage-Site/Bidaa-Bint-Saud](https://abudhabiculture.ae/en/Cultural-Heritage/Tangible/UNESCO-World-Heritage-Site/Bidaa-Bint-Saud).
+- Decision: UNESCO identifies 17 components in four assemblages; the culture authority documents access to some Hili sites, but a complete representative itinerary is not established. Depth 8.2 reflects documented visitable portions, not every tomb and oasis. Keep significance and other core scores provisionally; if further research cannot establish a representative visit, leave visitor dimensions unassessed.
+- I/U/S/E/D: 8.0 / 9.0 / 9.4 / 8.2 / 9.0 → 8.0 / 9.0 / 9.4 / 8.2 / 8.2; overall 86.60 → 85.80/100. Categories and GPS unchanged; no new perfect score or multiplier.
+
+| Current worldwide peer | I/U/S/E/D | Overall /100 | Comparison |
+| --- | --- | --- | --- |
+| [qalat al bahrain archaeological site (BH)](../../../countries/BH/sights/qalat-al-bahrain-archaeological-site.yaml) | 8.8 / 9.0 / 9.4 / 8.8 / 8.7 | 89.60 | More coherent interpreted complex. |
+| [joya de ceren archaeological site (SV)](../../../countries/SV/sights/joya-de-ceren-archaeological-site.yaml) | 8.6 / 9.6 / 9.6 / 8.4 / 8.1 | 89.70 | Bounded excavated settlement. |
+| [niah caves archaeological complex (MY)](../../../countries/MY/sights/niah-caves-archaeological-complex.yaml) | 9.0 / 9.4 / 9.6 / 8.8 / 8.8 | 91.70 | Broader established cave itinerary. |
+| [pella archaeological site (JO)](../../../countries/JO/sights/pella-archaeological-site.yaml) | 7.9 / 8.4 / 8.9 / 8.0 / 8.3 | 82.80 | Comparable multi-feature exploration. |
+
+
+## Follow-up: sight-ae-burj-khalifa — 2026-11-25 (worldwide review)
+
+- [YAML](../../../countries/AE/sights/burj-khalifa.yaml) · Action: fact-check-only · **source-linked-unverified**; specific source excerpts inspected, full verification outstanding.
+- Sources inspected: [https://www.emaar.com/en/at-the-top-burj-khalifa](https://www.emaar.com/en/at-the-top-burj-khalifa); [https://experiences.visitdubai.com/productDetail/21768?lang=en](https://experiences.visitdubai.com/productDetail/21768?lang=en).
+- Decision: The public observation experiences and typical 90-minute visit support the existing bounded depth 7.8. Retain exceptional engineering and visual ratings without importing the entire tower or Downtown Dubai. Photography remains an editorial judgement; no guarantee of visibility.
+- I/U/S/E/D: 9.7 / 9.8 / 8.8 / 9.4 / 7.8 → 9.7 / 9.8 / 8.8 / 9.4 / 7.8; overall 93.10 → 93.10/100. Categories and GPS unchanged; no new perfect score or multiplier.
+
+| Current worldwide peer | I/U/S/E/D | Overall /100 | Comparison |
+| --- | --- | --- | --- |
+| [tokyo skytree (JP)](../../../countries/JP/sights/tokyo-skytree.yaml) | 8.8 / 8.6 / 7.7 / 8.9 / 7.8 | 84.45 | Comparable observation visit. |
+| [taipei 101 (TW)](../../../countries/TW/sights/taipei-101.yaml) | 9.0 / 8.8 / 8.1 / 9.0 / 8.0 | 86.70 | Comparable tower visit. |
+| [petronas twin towers (MY)](../../../countries/MY/sights/petronas-twin-towers.yaml) | 9.2 / 9.1 / 8.6 / 8.8 / 7.9 | 88.65 | Comparable skybridge and observation route. |
+| [st stephens cathedral (AT)](../../../countries/AT/sights/st-stephens-cathedral.yaml) | 9.1 / 9.2 / 9.3 / 9.1 / 8.8 | 91.35 | Different architectural landmark with broader interior and historical scope. |
+
+
+## Follow-up: sight-ae-louvre-abu-dhabi — 2026-11-25 (worldwide review)
+
+- [YAML](../../../countries/AE/sights/louvre-abu-dhabi.yaml) · Action: fact-check-only · **source-linked-unverified**; specific source excerpts inspected, full verification outstanding.
+- Sources inspected: [https://www.louvreabudhabi.ae/en/visit/plan-your-visit/opening-times](https://www.louvreabudhabi.ae/en/visit/plan-your-visit/opening-times); [https://www.louvreabudhabi.ae/en/whats-on/sensorial-experiences](https://www.louvreabudhabi.ae/en/whats-on/sensorial-experiences); [https://www.louvreabudhabi.ae/en/visit/group-visits](https://www.louvreabudhabi.ae/en/visit/group-visits).
+- Decision: The museum documents galleries, architecture tours and varied interpreted activities. Retain depth and architecture scores for the actual museum, not the adjacent cultural district or the Paris Louvre's reputation. Other category comparisons remain provisional.
+- I/U/S/E/D: 9.1 / 9.3 / 8.9 / 9.2 / 9.1 → 9.1 / 9.3 / 8.9 / 9.2 / 9.1; overall 91.25 → 91.25/100. Categories and GPS unchanged; no new perfect score or multiplier.
+
+| Current worldwide peer | I/U/S/E/D | Overall /100 | Comparison |
+| --- | --- | --- | --- |
+| [melk abbey (AT)](../../../countries/AT/sights/melk-abbey.yaml) | 9.0 / 9.2 / 9.3 / 9.2 / 8.7 | 91.10 | Varied architecture and interpreted interiors. |
+| [raphael rooms (VA)](../../../countries/VA/sights/raphael-rooms.yaml) | 9.5 / 9.6 / 9.7 / 9.0 / 8.1 | 93.50 | Significant art but a narrower room sequence. |
+| [sistine chapel (VA)](../../../countries/VA/sights/sistine-chapel.yaml) | 9.9 / 9.9 / 9.9 / 9.1 / 7.8 | 95.70 | Exceptional artistic significance with bounded scope. |
+| [st stephens cathedral (AT)](../../../countries/AT/sights/st-stephens-cathedral.yaml) | 9.1 / 9.2 / 9.3 / 9.1 / 8.8 | 91.35 | Different large interpreted complex. |
+
