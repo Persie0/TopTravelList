@@ -2,7 +2,7 @@
 
 # Namibia (NA) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**5 ranked** · **2 unassessed** · **7 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,24 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (5)
 
-No cities, towns & villages have been assessed for **Namibia** yet.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Swakopmund](cities/swakopmund.yaml) | City / town | **84.45** | **Architecture 8.8**, **Relaxation 8.7**, **Food 8.5**, Culture 8.4 | 8.4 / 8.5 / 8.1 / 8.8 / 8.6 | [-22.67842, 14.52663](https://www.google.com/maps/search/?api=1&query=-22.67842,14.52663) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Swakopmund%2C%20Namibia) |
+| 2 | [Lüderitz](cities/luderitz.yaml) | City / town | **83.05** | **Architecture 8.8**, **Photography 8.8**, **History 8.6** | 8.3 / 8.6 / 8.3 / 8.1 / 7.9 | [-26.64807, 15.15383](https://www.google.com/maps/search/?api=1&query=-26.64807,15.15383) | [Google Maps](https://www.google.com/maps/search/?api=1&query=L%C3%BCderitz%2C%20Namibia) |
+| 3 | [Windhoek](cities/windhoek.yaml) | City / town | **80.60** | **Culture 8.7**, **History 8.6**, **Food 8.3** | 7.7 / 8.0 / 8.4 / 8.2 / 8.4 | [-22.55941, 17.08323](https://www.google.com/maps/search/?api=1&query=-22.55941,17.08323) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Windhoek%2C%20Namibia) |
+| 4 | [Walvis Bay](cities/walvis-bay.yaml) | City / town | **78.85** | **Nature 8.5**, **Food 8.0** | 7.8 / 8.0 / 7.6 / 8.3 / 7.8 | [-22.9575, 14.50528](https://www.google.com/maps/search/?api=1&query=-22.9575,14.50528) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Walvis%20Bay%2C%20Namibia) |
+| 5 | [Tsumeb](cities/tsumeb.yaml) | City / town | **73.85** | **History 8.1**, **Culture 7.7** | 7.0 / 7.6 / 7.7 / 7.5 / 7.2 | [-19.24842, 17.71345](https://www.google.com/maps/search/?api=1&query=-19.24842,17.71345) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tsumeb%2C%20Namibia) |
 
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+## Not yet fully assessed (2)
+
+These destinations have no rank until all five core scores are assessed.
+
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| — | [Keetmanshoop](cities/keetmanshoop.yaml) | City / town | **—** | — | — / 7.3 / 7.5 / — / — | [-26.57654, 18.13359](https://www.google.com/maps/search/?api=1&query=-26.57654,18.13359) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Keetmanshoop%2C%20Namibia) |
+| — | [Rundu](cities/rundu.yaml) | City / town | **—** | — | — / 7.5 / 7.4 / — / — | [-17.91796, 19.77314](https://www.google.com/maps/search/?api=1&query=-17.91796,19.77314) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Rundu%2C%20Namibia) |
 
 ---
 
