@@ -1,0 +1,16 @@
+id: city-la-muang-ngoi-neua
+name: "Muang Ngoi Neua"
+location:
+  country_code: LA
+  latitude: 20.7080
+  longitude: 102.6740
+scores:
+  impact: 8.0
+  uniqueness: 8.2
+  significance: 6.8
+  experience: 8.4
+  depth: 7.4
+  categories:
+    relaxation: 8.8
+    photography: 8.6
+    culture: 7.7

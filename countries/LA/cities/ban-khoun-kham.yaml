@@ -1,0 +1,14 @@
+id: city-la-ban-khoun-kham
+name: "Ban Khoun Kham"
+location:
+  country_code: LA
+  latitude: 18.1830
+  longitude: 104.5480
+scores:
+  impact: 6.4
+  uniqueness: 6.7
+  significance: 6.3
+  experience: 7.0
+  depth: 6.5
+  categories:
+    food: 7.3

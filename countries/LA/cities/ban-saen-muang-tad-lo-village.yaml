@@ -1,0 +1,15 @@
+id: city-la-ban-saen-muang-tad-lo-village
+name: "Ban Saen Muang (Tad Lo village)"
+location:
+  country_code: LA
+  latitude: 15.5270
+  longitude: 106.2740
+scores:
+  impact: 7.1
+  uniqueness: 7.5
+  significance: 6.4
+  experience: 7.8
+  depth: 7.0
+  categories:
+    relaxation: 8.5
+    culture: 7.7

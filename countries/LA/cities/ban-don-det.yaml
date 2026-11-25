@@ -1,0 +1,15 @@
+id: city-la-ban-don-det
+name: "Ban Don Det"
+location:
+  country_code: LA
+  latitude: 13.9850
+  longitude: 105.9200
+scores:
+  impact: 7.3
+  uniqueness: 7.4
+  significance: 6.4
+  experience: 8.0
+  depth: 7.3
+  categories:
+    relaxation: 8.6
+    food: 7.8

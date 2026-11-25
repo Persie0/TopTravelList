@@ -1,0 +1,14 @@
+id: city-la-sekong-lamam
+name: "Sekong (Lamam)"
+location:
+  country_code: LA
+  latitude: 15.3480
+  longitude: 106.7240
+scores:
+  impact: 6.4
+  uniqueness: 6.7
+  significance: 6.5
+  experience: 7.0
+  depth: 6.7
+  categories:
+    culture: 7.5

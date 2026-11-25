@@ -1,0 +1,14 @@
+id: city-la-boten
+name: "Boten"
+location:
+  country_code: LA
+  latitude: 21.1800
+  longitude: 101.6800
+scores:
+  impact: 5.9
+  uniqueness: 6.3
+  significance: 6.0
+  experience: 6.5
+  depth: 6.4
+  categories:
+    food: 7.0

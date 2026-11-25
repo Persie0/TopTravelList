@@ -1,0 +1,14 @@
+id: city-la-boun-neua
+name: "Boun Neua"
+location:
+  country_code: LA
+  latitude: 21.6300
+  longitude: 101.9150
+scores:
+  impact: 6.2
+  uniqueness: 6.6
+  significance: 6.3
+  experience: 6.8
+  depth: 6.5
+  categories:
+    culture: 7.3

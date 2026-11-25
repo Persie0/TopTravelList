@@ -1,0 +1,15 @@
+id: city-la-muang-xay
+name: "Muang Xay"
+location:
+  country_code: LA
+  latitude: 20.6920
+  longitude: 101.9830
+scores:
+  impact: 6.7
+  uniqueness: 7.0
+  significance: 6.7
+  experience: 7.3
+  depth: 7.1
+  categories:
+    food: 7.7
+    culture: 7.5

@@ -1,0 +1,14 @@
+id: city-la-salavan
+name: "Salavan"
+location:
+  country_code: LA
+  latitude: 15.7160
+  longitude: 106.4170
+scores:
+  impact: 6.4
+  uniqueness: 6.7
+  significance: 6.8
+  experience: 7.1
+  depth: 6.7
+  categories:
+    culture: 7.6

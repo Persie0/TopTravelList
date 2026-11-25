@@ -1,0 +1,15 @@
+id: city-la-luang-namtha
+name: "Luang Namtha"
+location:
+  country_code: LA
+  latitude: 20.9600
+  longitude: 101.4100
+scores:
+  impact: 7.0
+  uniqueness: 7.4
+  significance: 7.0
+  experience: 7.7
+  depth: 7.4
+  categories:
+    food: 8.1
+    culture: 8.0

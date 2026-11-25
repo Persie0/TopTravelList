@@ -1,0 +1,15 @@
+id: city-la-nong-khiaw
+name: "Nong Khiaw"
+location:
+  country_code: LA
+  latitude: 20.5717
+  longitude: 102.6152
+scores:
+  impact: 8.5
+  uniqueness: 8.4
+  significance: 7.0
+  experience: 8.6
+  depth: 7.7
+  categories:
+    photography: 9.0
+    relaxation: 8.8

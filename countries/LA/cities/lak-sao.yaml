@@ -1,0 +1,14 @@
+id: city-la-lak-sao
+name: "Lak Sao"
+location:
+  country_code: LA
+  latitude: 18.1870
+  longitude: 104.9730
+scores:
+  impact: 6.3
+  uniqueness: 6.6
+  significance: 6.3
+  experience: 6.9
+  depth: 6.6
+  categories:
+    food: 7.3

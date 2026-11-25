@@ -1,0 +1,16 @@
+id: city-la-champasak
+name: "Champasak"
+location:
+  country_code: LA
+  latitude: 14.8900
+  longitude: 105.8780
+scores:
+  impact: 7.6
+  uniqueness: 8.1
+  significance: 8.1
+  experience: 8.1
+  depth: 7.5
+  categories:
+    culture: 8.5
+    history: 8.5
+    relaxation: 8.5

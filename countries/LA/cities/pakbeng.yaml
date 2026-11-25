@@ -1,0 +1,15 @@
+id: city-la-pakbeng
+name: "Pakbeng"
+location:
+  country_code: LA
+  latitude: 19.8950
+  longitude: 101.1310
+scores:
+  impact: 7.0
+  uniqueness: 7.2
+  significance: 6.4
+  experience: 7.6
+  depth: 6.8
+  categories:
+    relaxation: 7.9
+    food: 7.6
