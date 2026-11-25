@@ -1,0 +1,15 @@
+id: sight-la-haw-pha-bang
+name: "Haw Pha Bang"
+location:
+  country_code: LA
+  latitude: 19.8914
+  longitude: 102.1365
+scores:
+  impact: 8.2
+  uniqueness: 8.3
+  significance: 7.8
+  experience: 8.1
+  depth: 7.0
+  categories:
+    architecture: 8.9
+    culture: 8.8

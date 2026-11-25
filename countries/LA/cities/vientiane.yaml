@@ -1,0 +1,17 @@
+id: city-la-vientiane
+name: "Vientiane"
+location:
+  country_code: LA
+  latitude: 17.9757
+  longitude: 102.6331
+scores:
+  impact: 7.9
+  uniqueness: 8.1
+  significance: 8.5
+  experience: 8.3
+  depth: 8.3
+  categories:
+    culture: 8.7
+    history: 8.6
+    food: 8.5
+    architecture: 8.5

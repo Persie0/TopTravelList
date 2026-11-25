@@ -1,0 +1,14 @@
+id: city-la-vieng-phoukha
+name: "Vieng Phoukha"
+location:
+  country_code: LA
+  latitude: 20.6960
+  longitude: 101.0810
+scores:
+  impact: 6.3
+  uniqueness: 6.8
+  significance: 6.5
+  experience: 7.0
+  depth: 6.5
+  categories:
+    culture: 7.5

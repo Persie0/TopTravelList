@@ -1,0 +1,15 @@
+id: sight-la-nong-fa-lake
+name: "Nong Fa Lake"
+location:
+  country_code: LA
+  latitude: 15.05
+  longitude: 107.22
+scores:
+  impact: 8.6
+  uniqueness: 8.6
+  significance: 7.7
+  experience: 8.3
+  depth: 7.7
+  categories:
+    nature: 9.0
+    photography: 9.0

@@ -1,0 +1,15 @@
+id: sight-la-tham-nang-aen-cave
+name: "Tham Nang Aen Cave"
+location:
+  country_code: LA
+  latitude: 17.459
+  longitude: 104.931
+scores:
+  impact: 8.2
+  uniqueness: 8.1
+  significance: 7.2
+  experience: 8.4
+  depth: 7.9
+  categories:
+    nature: 8.7
+    adventure: 8.4

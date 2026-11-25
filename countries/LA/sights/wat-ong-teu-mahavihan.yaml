@@ -1,0 +1,15 @@
+id: sight-la-wat-ong-teu-mahavihan
+name: "Wat Ong Teu Mahavihan"
+location:
+  country_code: LA
+  latitude: 17.9652
+  longitude: 102.6048
+scores:
+  impact: 7.9
+  uniqueness: 8.1
+  significance: 8.2
+  experience: 8.2
+  depth: 7.3
+  categories:
+    culture: 8.7
+    architecture: 8.6

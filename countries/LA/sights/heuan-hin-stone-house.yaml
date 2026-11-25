@@ -1,0 +1,15 @@
+id: sight-la-heuan-hin-stone-house
+name: "Heuan Hin Stone House"
+location:
+  country_code: LA
+  latitude: 16.13
+  longitude: 104.95
+scores:
+  impact: 7.4
+  uniqueness: 8.2
+  significance: 8.4
+  experience: 7.6
+  depth: 6.9
+  categories:
+    history: 8.8
+    architecture: 8.4

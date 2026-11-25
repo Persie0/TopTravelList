@@ -1,0 +1,15 @@
+id: sight-la-wat-aham
+name: "Wat Aham"
+location:
+  country_code: LA
+  latitude: 19.886
+  longitude: 102.1368
+scores:
+  impact: 7.6
+  uniqueness: 8.0
+  significance: 8.0
+  experience: 8.0
+  depth: 7.0
+  categories:
+    culture: 8.6
+    architecture: 8.4

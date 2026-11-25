@@ -2,7 +2,7 @@
 
 # Laos (LA) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**42 ranked** · **0 unassessed** · **42 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,52 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, or click its GPS coordinates to open **Google Maps**. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (42)
 
-No cities, towns & villages have been assessed for **Laos** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps |
+| ---: | --- | --- | ---: | --- | --- | --- |
+| 1 | [Luang Prabang](cities/luang-prabang.yaml) | City / town | **92.50** | **Architecture 9.4**, **Culture 9.4**, **History 9.4**, Food 8.8 | 9.2 / 9.4 / 9.3 / 9.2 / 9.0 | [19.8833, 102.1333](https://www.google.com/maps/search/?api=1&query=19.8833,102.1333) |
+| 2 | [Vientiane](cities/vientiane.yaml) | City / town | **81.70** | **Culture 8.7**, **History 8.6**, **Architecture 8.5**, Food 8.5 | 7.9 / 8.1 / 8.5 / 8.3 / 8.3 | [17.9757, 102.6331](https://www.google.com/maps/search/?api=1&query=17.9757,102.6331) |
+| 3 | [Nong Khiaw](cities/nong-khiaw.yaml) | City / town | **81.10** | **Photography 9.0**, **Relaxation 8.8** | 8.5 / 8.4 / 7.0 / 8.6 / 7.7 | [20.5717, 102.6152](https://www.google.com/maps/search/?api=1&query=20.5717,102.6152) |
+| 4 | [Champasak](cities/champasak.yaml) | City / town | **78.90** | **Culture 8.5**, **History 8.5**, **Relaxation 8.5** | 7.6 / 8.1 / 8.1 / 8.1 / 7.5 | [14.89, 105.878](https://www.google.com/maps/search/?api=1&query=14.89,105.878) |
+| 4 | [Vang Vieng](cities/vang-vieng.yaml) | City / town | **78.90** | **Photography 8.7**, **Relaxation 8.7**, **Food 7.9** | 8.2 / 8.1 / 6.7 / 8.5 / 7.9 | [18.9239, 102.4488](https://www.google.com/maps/search/?api=1&query=18.9239,102.4488) |
+| 6 | [Muang Khoun](cities/muang-khoun.yaml) | City / town | **78.55** | **History 8.9**, **Architecture 8.3** | 7.5 / 8.0 / 8.5 / 7.7 / 7.5 | [19.334, 103.366](https://www.google.com/maps/search/?api=1&query=19.334,103.366) |
+| 7 | [Muang Ngoi Neua](cities/muang-ngoi-neua.yaml) | City / town | **78.10** | **Relaxation 8.8**, **Photography 8.6**, **Culture 7.7** | 8.0 / 8.2 / 6.8 / 8.4 / 7.4 | [20.708, 102.674](https://www.google.com/maps/search/?api=1&query=20.708,102.674) |
+| 8 | [Savannakhet](cities/savannakhet.yaml) | City / town | **77.25** | **Architecture 8.3**, **History 8.2**, **Food 8.0** | 7.5 / 7.8 / 7.8 / 7.9 / 7.8 | [16.556, 104.749](https://www.google.com/maps/search/?api=1&query=16.556,104.749) |
+| 9 | [Muang Sing](cities/muang-sing.yaml) | City / town | **76.65** | **Culture 8.5**, **History 8.1** | 7.3 / 8.0 / 7.7 / 7.9 / 7.5 | [21.194, 101.148](https://www.google.com/maps/search/?api=1&query=21.194,101.148) |
+| 10 | [Phongsaly](cities/phongsaly.yaml) | City / town | **76.35** | **Culture 8.6**, **Architecture 8.1** | 7.3 / 8.1 / 7.6 / 7.8 / 7.3 | [21.683, 102.105](https://www.google.com/maps/search/?api=1&query=21.683,102.105) |
+| 11 | [Ban Khon (Don Khon)](cities/ban-khon-don-khon.yaml) | City / town | **76.20** | **Relaxation 8.5**, **History 8.0** | 7.5 / 7.8 / 7.4 / 8.0 / 7.4 | [13.968, 105.927](https://www.google.com/maps/search/?api=1&query=13.968,105.927) |
+| 12 | [Vieng Xay](cities/vieng-xay.yaml) | City / town | **76.10** | **History 8.4**, **Photography 8.3** | 7.3 / 7.8 / 8.0 / 7.6 / 7.3 | [20.343, 104.227](https://www.google.com/maps/search/?api=1&query=20.343,104.227) |
+| 13 | [Pakse](cities/pakse.yaml) | City / town | **74.35** | **Food 8.0**, **Culture 7.8** | 7.2 / 7.3 / 7.5 / 7.8 / 7.8 | [15.12, 105.797](https://www.google.com/maps/search/?api=1&query=15.12,105.797) |
+| 14 | [Thakhek](cities/thakhek.yaml) | City / town | **74.20** | **Architecture 8.0**, **Food 7.9** | 7.2 / 7.5 / 7.5 / 7.7 / 7.3 | [17.41, 104.83](https://www.google.com/maps/search/?api=1&query=17.41,104.83) |
+| 15 | [Muang Khong](cities/muang-khong.yaml) | City / town | **73.35** | **Relaxation 8.5**, **Culture 7.9** | 7.1 / 7.5 / 7.2 / 7.8 / 7.2 | [14.11, 105.85](https://www.google.com/maps/search/?api=1&query=14.11,105.85) |
+| 16 | [Ban Don Det](cities/ban-don-det.yaml) | City / town | **72.50** | **Relaxation 8.6**, **Food 7.8** | 7.3 / 7.4 / 6.4 / 8.0 / 7.3 | [13.985, 105.92](https://www.google.com/maps/search/?api=1&query=13.985,105.92) |
+| 17 | [Luang Namtha](cities/luang-namtha.yaml) | City / town | **72.45** | **Food 8.1**, **Culture 8.0** | 7.0 / 7.4 / 7.0 / 7.7 / 7.4 | [20.96, 101.41](https://www.google.com/maps/search/?api=1&query=20.96,101.41) |
+| 18 | [Muang La](cities/muang-la.yaml) | City / town | **72.20** | **Relaxation 8.0**, **Culture 7.9** | 7.0 / 7.5 / 7.0 / 7.7 / 6.9 | [20.869, 102.118](https://www.google.com/maps/search/?api=1&query=20.869,102.118) |
+| 19 | [Muang Khua](cities/muang-khua.yaml) | City / town | **71.95** | **Relaxation 8.1**, **Photography 8.0** | 7.1 / 7.4 / 6.8 / 7.7 / 7.0 | [21.08, 102.507](https://www.google.com/maps/search/?api=1&query=21.08,102.507) |
+| 20 | [Ban Saen Muang (Tad Lo village)](cities/ban-saen-muang-tad-lo-village.yaml) | Village | **71.55** | **Relaxation 8.5**, **Culture 7.7** | 7.1 / 7.5 / 6.4 / 7.8 / 7.0 | [15.527, 106.274](https://www.google.com/maps/search/?api=1&query=15.527,106.274) |
+| 20 | [Sam Neua](cities/sam-neua.yaml) | City / town | **71.55** | **Culture 8.0**, **History 7.8** | 6.9 / 7.3 / 7.2 / 7.4 / 7.1 | [20.416, 104.042](https://www.google.com/maps/search/?api=1&query=20.416,104.042) |
+| 22 | [Huay Xai](cities/huay-xai.yaml) | City / town | **71.50** | **Food 7.8**, **History 7.7** | 6.8 / 7.2 / 7.3 / 7.6 / 7.1 | [20.279, 100.412](https://www.google.com/maps/search/?api=1&query=20.279,100.412) |
+| 23 | [Phonsavan](cities/phonsavan.yaml) | City / town | **71.20** | **Culture 7.8**, **History 7.8** | 6.8 / 7.1 / 7.3 / 7.5 / 7.2 | [19.45, 103.185](https://www.google.com/maps/search/?api=1&query=19.45,103.185) |
+| 24 | [Pakbeng](cities/pakbeng.yaml) | City / town | **70.00** | **Relaxation 7.9**, **Food 7.6** | 7.0 / 7.2 / 6.4 / 7.6 / 6.8 | [19.895, 101.131](https://www.google.com/maps/search/?api=1&query=19.895,101.131) |
+| 25 | [Paksong](cities/paksong.yaml) | City / town | **69.60** | **Food 8.0**, **Relaxation 7.7** | 6.7 / 7.2 / 6.7 / 7.4 / 7.0 | [15.181, 106.23](https://www.google.com/maps/search/?api=1&query=15.181,106.23) |
+| 26 | [Ban Kong Lor](cities/ban-kong-lor.yaml) | City / town | **69.20** | **Relaxation 8.0** | 6.8 / 7.3 / 6.3 / 7.5 / 6.7 | [17.968, 104.761](https://www.google.com/maps/search/?api=1&query=17.968,104.761) |
+| 27 | [Muang Xay](cities/muang-xay.yaml) | City / town | **69.05** | **Food 7.7**, **Culture 7.5** | 6.7 / 7.0 / 6.7 / 7.3 / 7.1 | [20.692, 101.983](https://www.google.com/maps/search/?api=1&query=20.692,101.983) |
+| 28 | [Xam Tai](cities/xam-tai.yaml) | City / town | **68.75** | **Culture 8.2** | 6.5 / 7.3 / 6.8 / 7.2 / 6.6 | [19.98, 104.73](https://www.google.com/maps/search/?api=1&query=19.98,104.73) |
+| 29 | [Sayaboury](cities/sayaboury.yaml) | City / town | **67.45** | **Culture 7.5**, **Food 7.4** | 6.5 / 6.8 / 6.7 / 7.1 / 6.9 | [19.257, 101.711](https://www.google.com/maps/search/?api=1&query=19.257,101.711) |
+| 30 | [Attapeu (Samakkhixay)](cities/attapeu-samakkhixay.yaml) | City / town | **67.35** | **Culture 7.5**, **Food 7.5** | 6.5 / 6.8 / 6.7 / 7.1 / 6.8 | [14.81, 106.831](https://www.google.com/maps/search/?api=1&query=14.81,106.831) |
+| 31 | [Na Hin (Ban Khoun Kham)](cities/na-hin.yaml) | City / town | **67.30** | **Relaxation 7.5** | 6.6 / 7.0 / 6.3 / 7.2 / 6.6 | [18.179, 104.55](https://www.google.com/maps/search/?api=1&query=18.179,104.55) |
+| 32 | [Pakxan](cities/pakxan.yaml) | City / town | **67.15** | **Food 7.6** | 6.5 / 6.8 / 6.6 / 7.1 / 6.8 | [18.391, 103.658](https://www.google.com/maps/search/?api=1&query=18.391,103.658) |
+| 33 | [Salavan](cities/salavan.yaml) | City / town | **66.90** | **Culture 7.6** | 6.4 / 6.7 / 6.8 / 7.1 / 6.7 | [15.716, 106.417](https://www.google.com/maps/search/?api=1&query=15.716,106.417) |
+| 34 | [Sekong (Lamam)](cities/sekong-lamam.yaml) | City / town | **66.15** | **Culture 7.5** | 6.4 / 6.7 / 6.5 / 7.0 / 6.7 | [15.348, 106.724](https://www.google.com/maps/search/?api=1&query=15.348,106.724) |
+| 35 | [Hongsa](cities/hongsa.yaml) | City / town | **66.10** | **Culture 7.6** | 6.3 / 6.8 / 6.6 / 7.0 / 6.5 | [19.729, 101.345](https://www.google.com/maps/search/?api=1&query=19.729,101.345) |
+| 36 | [Vieng Phoukha](cities/vieng-phoukha.yaml) | City / town | **65.90** | **Culture 7.5** | 6.3 / 6.8 / 6.5 / 7.0 / 6.5 | [20.696, 101.081](https://www.google.com/maps/search/?api=1&query=20.696,101.081) |
+| 37 | [Lak Sao](cities/lak-sao.yaml) | City / town | **64.95** | **Food 7.3** | 6.3 / 6.6 / 6.3 / 6.9 / 6.6 | [18.187, 104.973](https://www.google.com/maps/search/?api=1&query=18.187,104.973) |
+| 38 | [Phonhong](cities/phonhong.yaml) | City / town | **64.90** | **Food 7.4** | 6.3 / 6.5 / 6.4 / 6.9 / 6.6 | [18.494, 102.417](https://www.google.com/maps/search/?api=1&query=18.494,102.417) |
+| 39 | [Xieng Kok](cities/xieng-kok.yaml) | City / town | **64.55** | **Relaxation 7.2** | 6.3 / 6.7 / 6.2 / 6.8 / 6.3 | [21.031, 100.549](https://www.google.com/maps/search/?api=1&query=21.031,100.549) |
+| 40 | [Thalat](cities/thalat.yaml) | City / town | **64.50** | **Food 7.4** | 6.2 / 6.5 / 6.4 / 6.9 / 6.5 | [18.523, 102.556](https://www.google.com/maps/search/?api=1&query=18.523,102.556) |
+| 41 | [Boun Neua](cities/boun-neua.yaml) | City / town | **64.40** | **Culture 7.3** | 6.2 / 6.6 / 6.3 / 6.8 / 6.5 | [21.63, 101.915](https://www.google.com/maps/search/?api=1&query=21.63,101.915) |
+| 42 | [Boten](cities/boten.yaml) | City / town | **61.60** | **Food 7.0** | 5.9 / 6.3 / 6.0 / 6.5 / 6.4 | [21.18, 101.68](https://www.google.com/maps/search/?api=1&query=21.18,101.68) |
 
 ---
 

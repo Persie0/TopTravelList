@@ -1,0 +1,14 @@
+id: city-la-xieng-kok
+name: "Xieng Kok"
+location:
+  country_code: LA
+  latitude: 21.0310
+  longitude: 100.5490
+scores:
+  impact: 6.3
+  uniqueness: 6.7
+  significance: 6.2
+  experience: 6.8
+  depth: 6.3
+  categories:
+    relaxation: 7.2

@@ -1,0 +1,16 @@
+id: sight-la-vieng-xay-cave-complex
+name: "Vieng Xay Cave Complex"
+location:
+  country_code: LA
+  latitude: 20.343
+  longitude: 104.23
+scores:
+  impact: 8.7
+  uniqueness: 9.3
+  significance: 9.3
+  experience: 8.8
+  depth: 8.8
+  categories:
+    history: 9.4
+    culture: 9.0
+    nature: 8.8

@@ -1,0 +1,15 @@
+id: city-la-vieng-xay
+name: "Vieng Xay"
+location:
+  country_code: LA
+  latitude: 20.3430
+  longitude: 104.2270
+scores:
+  impact: 7.3
+  uniqueness: 7.8
+  significance: 8.0
+  experience: 7.6
+  depth: 7.3
+  categories:
+    history: 8.4
+    photography: 8.3

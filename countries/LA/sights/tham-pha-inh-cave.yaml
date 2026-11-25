@@ -1,0 +1,15 @@
+id: sight-la-tham-pha-inh-cave
+name: "Tham Pha Inh Cave"
+location:
+  country_code: LA
+  latitude: 17.443
+  longitude: 104.902
+scores:
+  impact: 7.8
+  uniqueness: 8.0
+  significance: 6.9
+  experience: 8.2
+  depth: 7.1
+  categories:
+    nature: 8.5
+    photography: 8.4

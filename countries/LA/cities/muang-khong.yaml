@@ -1,0 +1,15 @@
+id: city-la-muang-khong
+name: "Muang Khong"
+location:
+  country_code: LA
+  latitude: 14.1100
+  longitude: 105.8500
+scores:
+  impact: 7.1
+  uniqueness: 7.5
+  significance: 7.2
+  experience: 7.8
+  depth: 7.2
+  categories:
+    relaxation: 8.5
+    culture: 7.9

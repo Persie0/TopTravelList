@@ -1,0 +1,15 @@
+id: sight-la-tham-kao-rao-cave
+name: "Tham Kao Rao Cave"
+location:
+  country_code: LA
+  latitude: 20.71
+  longitude: 101.115
+scores:
+  impact: 8.0
+  uniqueness: 8.1
+  significance: 7.2
+  experience: 8.1
+  depth: 7.7
+  categories:
+    nature: 8.6
+    adventure: 8.6

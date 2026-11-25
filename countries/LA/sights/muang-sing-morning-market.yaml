@@ -1,0 +1,15 @@
+id: sight-la-muang-sing-morning-market
+name: "Muang Sing Morning Market"
+location:
+  country_code: LA
+  latitude: 21.193
+  longitude: 101.147
+scores:
+  impact: 7.5
+  uniqueness: 8.0
+  significance: 7.3
+  experience: 8.2
+  depth: 7.6
+  categories:
+    culture: 8.7
+    food: 8.4

@@ -1,0 +1,16 @@
+id: sight-la-pha-that-luang
+name: "Pha That Luang"
+location:
+  country_code: LA
+  latitude: 17.9758
+  longitude: 102.6348
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 9.2
+  experience: 8.6
+  depth: 8.0
+  categories:
+    architecture: 9.3
+    history: 9.4
+    culture: 9.4

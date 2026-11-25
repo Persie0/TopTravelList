@@ -1,0 +1,16 @@
+id: sight-la-thakhek-loop
+name: "Thakhek Loop"
+location:
+  country_code: LA
+  latitude: 17.95
+  longitude: 104.99
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 7.6
+  experience: 9.1
+  depth: 9.2
+  categories:
+    nature: 9.1
+    adventure: 9.3
+    photography: 9.1

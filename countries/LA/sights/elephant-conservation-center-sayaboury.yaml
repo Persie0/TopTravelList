@@ -1,0 +1,16 @@
+id: sight-la-elephant-conservation-center-sayaboury
+name: "Elephant Conservation Center Sayaboury"
+location:
+  country_code: LA
+  latitude: 19.20
+  longitude: 101.77
+scores:
+  impact: 8.3
+  uniqueness: 8.6
+  significance: 8.5
+  experience: 8.6
+  depth: 8.3
+  categories:
+    wildlife: 8.9
+    culture: 8.5
+    family: 8.4

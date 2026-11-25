@@ -1,0 +1,16 @@
+id: sight-la-phou-khao-khouay-national-protected-area
+name: "Phou Khao Khouay National Protected Area"
+location:
+  country_code: LA
+  latitude: 18.38
+  longitude: 103.03
+scores:
+  impact: 8.5
+  uniqueness: 8.6
+  significance: 8.5
+  experience: 8.5
+  depth: 8.6
+  categories:
+    nature: 9.1
+    wildlife: 8.9
+    adventure: 8.8

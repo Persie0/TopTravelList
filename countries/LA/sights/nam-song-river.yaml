@@ -1,0 +1,16 @@
+id: sight-la-nam-song-river
+name: "Nam Song River"
+location:
+  country_code: LA
+  latitude: 18.927
+  longitude: 102.443
+scores:
+  impact: 8.6
+  uniqueness: 8.4
+  significance: 7.1
+  experience: 8.8
+  depth: 8.4
+  categories:
+    nature: 8.9
+    adventure: 9.0
+    relaxation: 8.7

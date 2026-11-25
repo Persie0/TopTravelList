@@ -1,0 +1,15 @@
+id: city-la-sam-neua
+name: "Sam Neua"
+location:
+  country_code: LA
+  latitude: 20.4160
+  longitude: 104.0420
+scores:
+  impact: 6.9
+  uniqueness: 7.3
+  significance: 7.2
+  experience: 7.4
+  depth: 7.1
+  categories:
+    culture: 8.0
+    history: 7.8

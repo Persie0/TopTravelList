@@ -1,0 +1,15 @@
+id: sight-la-tha-falang
+name: "Tha Falang"
+location:
+  country_code: LA
+  latitude: 17.448
+  longitude: 104.929
+scores:
+  impact: 7.6
+  uniqueness: 7.4
+  significance: 6.2
+  experience: 8.1
+  depth: 7.1
+  categories:
+    relaxation: 8.5
+    nature: 8.2

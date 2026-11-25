@@ -1,0 +1,16 @@
+id: sight-la-plain-of-jars-archaeological-landscape
+name: "Plain of Jars Archaeological Landscape"
+location:
+  country_code: LA
+  latitude: 19.44
+  longitude: 103.16
+scores:
+  impact: 9.0
+  uniqueness: 9.6
+  significance: 9.5
+  experience: 8.7
+  depth: 9.0
+  categories:
+    history: 9.7
+    culture: 9.3
+    photography: 9.0

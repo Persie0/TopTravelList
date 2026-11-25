@@ -1,0 +1,15 @@
+id: sight-la-tad-xay-waterfall
+name: "Tad Xay Waterfall"
+location:
+  country_code: LA
+  latitude: 18.37
+  longitude: 103.08
+scores:
+  impact: 8.3
+  uniqueness: 8.1
+  significance: 7.1
+  experience: 8.5
+  depth: 7.8
+  categories:
+    nature: 8.8
+    photography: 8.7

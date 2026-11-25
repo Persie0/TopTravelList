@@ -1,0 +1,14 @@
+id: city-la-pakxan
+name: "Pakxan"
+location:
+  country_code: LA
+  latitude: 18.3910
+  longitude: 103.6580
+scores:
+  impact: 6.5
+  uniqueness: 6.8
+  significance: 6.6
+  experience: 7.1
+  depth: 6.8
+  categories:
+    food: 7.6

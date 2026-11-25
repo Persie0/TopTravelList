@@ -1,0 +1,14 @@
+id: city-la-ban-kong-lor
+name: "Ban Kong Lor"
+location:
+  country_code: LA
+  latitude: 17.9680
+  longitude: 104.7610
+scores:
+  impact: 6.8
+  uniqueness: 7.3
+  significance: 6.3
+  experience: 7.5
+  depth: 6.7
+  categories:
+    relaxation: 8.0

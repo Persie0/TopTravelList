@@ -1,0 +1,16 @@
+id: sight-la-phou-hin-poun-national-protected-area
+name: "Phou Hin Poun National Protected Area"
+location:
+  country_code: LA
+  latitude: 17.95
+  longitude: 104.84
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 8.6
+  experience: 8.7
+  depth: 9.0
+  categories:
+    nature: 9.4
+    adventure: 9.2
+    photography: 9.2

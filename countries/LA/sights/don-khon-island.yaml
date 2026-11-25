@@ -1,0 +1,16 @@
+id: sight-la-don-khon-island
+name: "Don Khon Island"
+location:
+  country_code: LA
+  latitude: 13.953
+  longitude: 105.936
+scores:
+  impact: 8.5
+  uniqueness: 8.6
+  significance: 8.0
+  experience: 8.7
+  depth: 8.5
+  categories:
+    nature: 8.9
+    history: 8.6
+    relaxation: 8.9

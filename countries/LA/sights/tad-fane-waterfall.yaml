@@ -1,0 +1,16 @@
+id: sight-la-tad-fane-waterfall
+name: "Tad Fane Waterfall"
+location:
+  country_code: LA
+  latitude: 15.183
+  longitude: 106.123
+scores:
+  impact: 9.1
+  uniqueness: 9.0
+  significance: 7.6
+  experience: 8.9
+  depth: 7.9
+  categories:
+    nature: 9.3
+    photography: 9.4
+    adventure: 9.0

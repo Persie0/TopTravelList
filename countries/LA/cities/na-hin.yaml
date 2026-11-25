@@ -1,0 +1,14 @@
+id: city-la-na-hin
+name: "Na Hin (Ban Khoun Kham)"
+location:
+  country_code: LA
+  latitude: 18.1790
+  longitude: 104.5500
+scores:
+  impact: 6.6
+  uniqueness: 7.0
+  significance: 6.3
+  experience: 7.2
+  depth: 6.6
+  categories:
+    relaxation: 7.5

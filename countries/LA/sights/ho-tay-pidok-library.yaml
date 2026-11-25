@@ -1,0 +1,16 @@
+id: sight-la-ho-tay-pidok-library
+name: "Ho Tay Pidok Library"
+location:
+  country_code: LA
+  latitude: 16.39
+  longitude: 105.13
+scores:
+  impact: 7.5
+  uniqueness: 8.4
+  significance: 8.5
+  experience: 7.7
+  depth: 7.1
+  categories:
+    history: 8.9
+    culture: 8.8
+    architecture: 8.4

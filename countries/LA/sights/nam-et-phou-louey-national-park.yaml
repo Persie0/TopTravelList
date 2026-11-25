@@ -1,0 +1,16 @@
+id: sight-la-nam-et-phou-louey-national-park
+name: "Nam Et-Phou Louey National Park"
+location:
+  country_code: LA
+  latitude: 20.216
+  longitude: 103.3
+scores:
+  impact: 8.9
+  uniqueness: 9.1
+  significance: 9.1
+  experience: 8.6
+  depth: 9.0
+  categories:
+    wildlife: 9.3
+    nature: 9.4
+    adventure: 9.2

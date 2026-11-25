@@ -1,0 +1,15 @@
+id: sight-la-chom-ong-cave
+name: "Chom Ong Cave"
+location:
+  country_code: LA
+  latitude: 20.72
+  longitude: 101.65
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 8.1
+  experience: 8.5
+  depth: 8.7
+  categories:
+    nature: 9.1
+    adventure: 9.2

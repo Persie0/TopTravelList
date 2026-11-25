@@ -1,0 +1,15 @@
+id: city-la-muang-khoun
+name: "Muang Khoun"
+location:
+  country_code: LA
+  latitude: 19.3340
+  longitude: 103.3660
+scores:
+  impact: 7.5
+  uniqueness: 8.0
+  significance: 8.5
+  experience: 7.7
+  depth: 7.5
+  categories:
+    history: 8.9
+    architecture: 8.3

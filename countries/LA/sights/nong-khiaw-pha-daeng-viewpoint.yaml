@@ -1,0 +1,16 @@
+id: sight-la-nong-khiaw-pha-daeng-viewpoint
+name: "Nong Khiaw Pha Daeng Viewpoint"
+location:
+  country_code: LA
+  latitude: 20.574
+  longitude: 102.621
+scores:
+  impact: 9.0
+  uniqueness: 8.6
+  significance: 6.8
+  experience: 8.9
+  depth: 7.5
+  categories:
+    photography: 9.4
+    nature: 9.0
+    adventure: 8.9

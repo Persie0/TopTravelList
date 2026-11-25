@@ -1,0 +1,15 @@
+id: sight-la-fort-carnot-huay-xai
+name: "Fort Carnot Huay Xai"
+location:
+  country_code: LA
+  latitude: 20.275
+  longitude: 100.413
+scores:
+  impact: 7.1
+  uniqueness: 7.5
+  significance: 7.7
+  experience: 7.3
+  depth: 6.7
+  categories:
+    history: 8.1
+    photography: 7.9

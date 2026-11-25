@@ -1,0 +1,16 @@
+id: sight-la-xe-bang-fai-cave-tham-khoun-xe
+name: "Xe Bang Fai Cave (Tham Khoun Xe)"
+location:
+  country_code: LA
+  latitude: 17.37
+  longitude: 105.84
+scores:
+  impact: 9.4
+  uniqueness: 9.6
+  significance: 9.2
+  experience: 9.2
+  depth: 8.9
+  categories:
+    nature: 9.5
+    adventure: 9.5
+    photography: 9.4
