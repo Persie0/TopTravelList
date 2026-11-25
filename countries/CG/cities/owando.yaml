@@ -2,8 +2,8 @@ id: city-cg-owando
 name: "Owando"
 location:
   country_code: CG
-  latitude: -0.48
-  longitude: 15.90
+  latitude: -0.482
+  longitude: 15.9
 scores:
   impact: 5.9
   uniqueness: 6.8
