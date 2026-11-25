@@ -34,7 +34,7 @@
 | Depth | 6.9 | Single monument with limited physical breadth |
 
 - Applicable category scores: history: 9.0, architecture: 8.6, photography: 8.1
-- Overall: 82.05/100
+- Overall: 82.05/100.
 - High-score challenge: no 9.5+ fields or 90+ total.
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide editorial assessment based on the independent field decisions.
@@ -70,7 +70,7 @@
 | Depth | 7.8 | Multiple tombs, but preservation and interpretation vary |
 
 - Applicable category scores: history: 9.2, architecture: 8.6, culture: 8.5
-- Overall: 82.60/100
+- Overall: 82.60/100.
 - High-score challenge: no 9.5+ fields or 90+ total.
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide editorial assessment based on the independent field decisions.
@@ -106,7 +106,7 @@
 | Depth | 7.5 | Multiple viewing perspectives, limited other exploration |
 
 - Applicable category scores: nature: 8.7, photography: 8.8
-- Overall: 80.30/100
+- Overall: 80.30/100.
 - High-score challenge: no 9.5+ fields or 90+ total.
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide editorial assessment based on the independent field decisions.
@@ -142,7 +142,7 @@
 | Depth | 7.0 | Modest cave exploration breadth |
 
 - Applicable category scores: nature: 8.2, adventure: 8.0, photography: 8.0
-- Overall: 76.15/100
+- Overall: 76.15/100.
 - High-score challenge: no 9.5+ fields or 90+ total.
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide editorial assessment based on the independent field decisions.
@@ -177,7 +177,7 @@
 | Depth | 6.6 | Short visit to a single geological feature |
 
 - Applicable category scores: nature: 8.3, photography: 8.4
-- Overall: 74.65/100
+- Overall: 74.65/100.
 - High-score challenge: no 9.5+ fields or 90+ total.
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide editorial assessment based on the independent field decisions.
@@ -212,7 +212,7 @@
 | Depth | 8.1 | Multiple routes and landscapes |
 
 - Applicable category scores: nature: 8.6, adventure: 8.5, wildlife: 8.2, photography: 8.4
-- Overall: 82.30/100
+- Overall: 82.30/100.
 - High-score challenge: no 9.5+ fields or 90+ total.
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide editorial assessment based on the independent field decisions.
@@ -247,7 +247,7 @@
 | Depth | 7.4 | Single cavern, not a large cave system |
 
 - Applicable category scores: nature: 8.8, photography: 8.8, adventure: 8.4
-- Overall: 81.45/100
+- Overall: 81.45/100.
 - High-score challenge: no 9.5+ fields or 90+ total.
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide editorial assessment based on the independent field decisions.
@@ -283,7 +283,7 @@
 | Depth | 7.2 | Single chamber limits depth |
 
 - Applicable category scores: nature: 8.5, adventure: 8.6
-- Overall: 79.45/100
+- Overall: 79.45/100.
 - High-score challenge: no 9.5+ fields or 90+ total.
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide editorial assessment based on the independent field decisions.
@@ -319,7 +319,7 @@
 | Depth | 7.5 | Multiple botanical groups but smaller than major gardens |
 
 - Applicable category scores: nature: 8.1, culture: 7.8, relaxation: 7.8
-- Overall: 76.75/100
+- Overall: 76.75/100.
 - High-score challenge: no 9.5+ fields or 90+ total.
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide editorial assessment based on the independent field decisions.
@@ -354,7 +354,7 @@
 | Depth | 5.7 | Limited confirmed public interior exploration |
 
 - Applicable category scores: architecture: 7.8, history: 8.2, photography: 7.5
-- Overall: 72.80/100
+- Overall: 72.80/100.
 - High-score challenge: no 9.5+ fields or 90+ total.
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide editorial assessment based on the independent field decisions.
@@ -389,7 +389,7 @@
 | Depth | 7.1 | Multiple stalls, not major regional trading district |
 
 - Applicable category scores: culture: 7.9, food: 7.6
-- Overall: 71.45/100
+- Overall: 71.45/100.
 - High-score challenge: no 9.5+ fields or 90+ total.
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide editorial assessment based on the independent field decisions.
@@ -424,7 +424,7 @@
 | Depth | null | Accessible remains and interpretation unknown |
 
 - Applicable category scores: history: 9.0
-- Overall: unranked
+- Overall: unranked.
 - High-score challenge: no 9.5+ fields or 90+ total.
 - Approved 10 registry: none.
 - Final decision: Retain without rank pending sufficient evidence.
@@ -463,7 +463,7 @@
 | Depth | null | 8.3 | Two coherent heritage locations and several visible monuments support broader exploration than either component alone. |
 
 - Applicable category scores: history 9.2, culture 9.0, architecture 8.8 retained; provisional.
-- Overall: 84.90/100
+- Overall: 84.90/100.
 - High-score challenge: no 9.5+ fields or 90+ total.
 - Approved 10 registry: none.
 - Final decision: Complete provisional v2 profile, compared against actual branch YAML peers.
@@ -497,7 +497,7 @@
 | Depth | null | accessible interpretation unknown |
 
 - Applicable category scores: history: 9.3, culture: 8.9
-- Overall: unranked
+- Overall: unranked.
 - High-score challenge: no 9.5+ fields or 90+ total.
 - Approved 10 registry: none.
 - Final decision: Retain without rank pending evidence.
@@ -533,7 +533,7 @@
 | Depth | 6.7 | short single viewpoint excursion |
 
 - Applicable category scores: nature: 7.9, photography: 8.3, adventure: 7.6
-- Overall: 73.15/100
+- Overall: 73.15/100.
 - High-score challenge: no 9.5+ fields or 90+ total.
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide editorial assessment.
@@ -570,7 +570,7 @@
 | Depth | 7.8 | several coastline perspectives but limited independent venues |
 
 - Applicable category scores: nature: 8.5, beaches: 8.9, relaxation: 8.8, photography: 8.5
-- Overall: 79.30/100
+- Overall: 79.30/100.
 - High-score challenge: no 9.5+ fields or 90+ total.
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide editorial assessment.
@@ -606,7 +606,7 @@
 | Depth | 6.8 | single-beach extent |
 
 - Applicable category scores: beaches: 8.5, nature: 8.1, photography: 8.2
-- Overall: 74.35/100
+- Overall: 74.35/100.
 - High-score challenge: no 9.5+ fields or 90+ total.
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide editorial assessment.
@@ -619,3 +619,38 @@
 - **sight-to-nukuleka-lapita-site:** Burley et al., High Precision U/Th Dating of First Polynesian Settlement (https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0048769, indexed abstract/excerpt) supports archaeological importance; it is not visitor-access evidence. Tonga Tourism's heritage brochure is indexed as describing the site, but its existence is not evidence of a routinely permitted, interpreted archaeological visit. No verified visitor-visible remains, routine access or interpretation found in the consulted sources. Retain impact, experience and depth null. Prior significance and uniqueness retained.
 
 No changes to either Lapita YAML record. Both remain unassessed; distinction between archaeology and tangible visitor experience preserved.
+
+
+## sight-to-vavau-marine-landscape — Vavaʻu Marine Landscape — 2026-11-25
+
+- YAML: [source](../../../countries/TO/sights/vavau-marine-landscape.yaml)
+- Action: new
+- Precise subject: Vavaʻu island group's marine seascape and documented licensed boat-based visitor circuit, excluding urban Neiafu and land attractions. Separately listed caves are narrower component experiences, not additive to the aggregate score.
+- Location check: -18.66088, -173.99576; named Vavaʻu Islands Group GeoNames 4032230, representative regional point, not a navigation point or guaranteed whale location.
+- Evidence status: **source-linked-unverified**
+- Sources (accessed 2026-11-25):
+  - https://mapcarta.com/20410138 — named regional point and group identity.
+  - https://www.tongatourism.travel/our-islands/vavau — island seascape, coral gardens, cave visits, boating and seasonal whale observation.
+  - https://wwhandbook.iwc.int/en/country-profiles/tonga — International Whaling Commission handbook documents licensed seasonal whale watching and Vavaʻu's central role, subject to rules and conditions.
+  - https://satoyamainitiative.org/case_studies/enhancing-knowledge-of-socio-ecological-production-landscapes-and-seascapes-in-vavau-kingdom-of-tonga/ — biodiversity survey and community conservation context.
+  - https://www.tongatourism.travel/see-and-do/whale-watching — tourism authority lists licensed operators.
+- Missing facts: actual seasonal sighting probability, current individual tour permissions and full comparative claim verification.
+
+### Worldwide peer comparisons
+- [Rock Islands Southern Lagoon (PW)](../../../countries/PW/sights/rock-islands-southern-lagoon.yaml): 9.5/9.5/9.3/9.4/9.3; more visually distinctive limestone island ensemble and inscribed heritage.
+- [Raja Ampat Archipelago (ID)](../../../countries/ID/sights/raja-ampat-archipelago.yaml): 9.8/9.9/9.5/9.7/9.8; greater reef and visitor breadth.
+- [Tubbataha Reefs Natural Park (PH)](../../../countries/PH/sights/tubbataha.yaml): 9.3/9.2/9.3/9.1/9.0; stronger globally recognized reef heritage, different specialist experience.
+- [Funafuti Conservation Area (TV)](../../../countries/TV/sights/funafuti-conservation-area.yaml): 8.3/8.4/8.7/7.8/7.3; smaller, narrower documented visitor circuit.
+
+### Scoring decisions
+- Impact: 9.0 — forested islands, coral gardens, channels and distinctive marine scenery.
+- Uniqueness: 9.1 — combination of protected archipelago waters and seasonal licensed humpback encounters, with comparable marine destinations worldwide.
+- Significance: 8.8 — documented regional biodiversity and seasonal whale breeding/nursery context; no World Heritage status inferred.
+- Experience: 9.0 — established boat, snorkeling, diving and licensed whale-watching excursions, subject to weather, season, wildlife welfare and permits.
+- Depth: 9.0 — multiple distinct marine experiences and island perspectives; no credit for every land sight or unrestricted marine access.
+- Applicable categories: nature 9.2, wildlife 9.4, adventure 9.2, photography 9.0. Wildlife reflects documented seasonal visitor encounters, not guaranteed sightings or all local species.
+- Overall: 89.85/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: provisional editorial rating of documented marine landscape, no guaranteed animal encounter.
+- Verification still needed: seasonal visitor conditions and permissions.
