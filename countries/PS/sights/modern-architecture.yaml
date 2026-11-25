@@ -1,0 +1,15 @@
+id: sight-ps-modern-architecture
+name: "Modern Architecture in Palestine"
+location:
+  country_code: PS
+  latitude: 31.910833
+  longitude: 35.206667
+scores:
+  impact: 7.5
+  uniqueness: 8.0
+  significance: 8.0
+  experience: null
+  depth: null
+  categories:
+    architecture: 8.4
+    history: 8.2

@@ -1,0 +1,15 @@
+id: sight-ps-throne-villages
+name: "Throne Villages"
+location:
+  country_code: PS
+  latitude: 32.036
+  longitude: 35.0971
+scores:
+  impact: 8.0
+  uniqueness: 8.6
+  significance: 8.7
+  experience: null
+  depth: null
+  categories:
+    architecture: 8.8
+    history: 8.9

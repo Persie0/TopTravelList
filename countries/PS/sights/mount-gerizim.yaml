@@ -1,0 +1,15 @@
+id: sight-ps-mount-gerizim
+name: "Mount Gerizim and the Samaritans"
+location:
+  country_code: PS
+  latitude: 32.199
+  longitude: 35.273
+scores:
+  impact: 8.4
+  uniqueness: 9.0
+  significance: 9.1
+  experience: null
+  depth: null
+  categories:
+    history: 9.2
+    culture: 9.3
