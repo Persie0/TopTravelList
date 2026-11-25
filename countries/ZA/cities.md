@@ -2,7 +2,7 @@
 
 # South Africa (ZA) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**12 ranked** · **0 unassessed** · **12 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,22 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (12)
 
-No cities, towns & villages have been assessed for **South Africa** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Cape Town](cities/cape-town.yaml) | Town | **91.55** | **Photography 9.3**, **Culture 9.1**, **Food 9.1**, Beaches 8.9, Architecture 8.8 | 9.3 / 9.0 / 9.0 / 9.3 / 9.2 | [-33.9249, 18.4241](https://www.google.com/maps/search/?api=1&query=-33.9249,18.4241) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cape%20Town%2C%20South%20Africa) |
+| 2 | [Johannesburg](cities/johannesburg.yaml) | City / town | **84.55** | **History 9.1**, **Culture 8.9**, **Food 8.5** | 8.1 / 8.4 / 9.0 / 8.3 / 8.8 | [-26.2041, 28.0473](https://www.google.com/maps/search/?api=1&query=-26.2041,28.0473) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Johannesburg%2C%20South%20Africa) |
+| 3 | [Stellenbosch](cities/stellenbosch.yaml) | City / town | **84.20** | **Food 8.8**, **Architecture 8.7**, **Culture 8.5** | 8.5 / 8.4 / 8.2 / 8.8 / 8.1 | [-33.9321, 18.8602](https://www.google.com/maps/search/?api=1&query=-33.9321,18.8602) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Stellenbosch%2C%20South%20Africa) |
+| 4 | [Durban](cities/durban.yaml) | City / town | **84.00** | **Beaches 8.8**, **Food 8.8**, **Culture 8.7** | 8.3 / 8.3 / 8.4 / 8.7 / 8.5 | [-29.8587, 31.0218](https://www.google.com/maps/search/?api=1&query=-29.8587,31.0218) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Durban%2C%20South%20Africa) |
+| 5 | [Pretoria](cities/pretoria.yaml) | City / town | **82.35** | **History 8.9**, **Architecture 8.5**, **Culture 8.3** | 8.1 / 8.0 / 8.8 / 8.1 / 8.3 | [-25.7479, 28.2293](https://www.google.com/maps/search/?api=1&query=-25.7479,28.2293) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Pretoria%2C%20South%20Africa) |
+| 6 | [Franschhoek](cities/franschhoek.yaml) | City / town | **81.55** | **Food 8.9**, **Relaxation 8.7**, **Architecture 8.3** | 8.3 / 8.1 / 7.8 / 8.8 / 7.6 | [-33.91, 19.12](https://www.google.com/maps/search/?api=1&query=-33.91,19.12) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Franschhoek%2C%20South%20Africa) |
+| 7 | [Hermanus](cities/hermanus.yaml) | City / town | **81.20** | **Photography 8.6**, **Relaxation 8.6** | 8.4 / 8.1 / 7.5 / 8.7 / 7.7 | [-34.418, 19.234](https://www.google.com/maps/search/?api=1&query=-34.418,19.234) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hermanus%2C%20South%20Africa) |
+| 8 | [Knysna](cities/knysna.yaml) | City / town | **81.05** | **Relaxation 8.8**, **Photography 8.5**, **Food 8.3** | 8.4 / 8.0 / 7.5 / 8.7 / 7.8 | [-34.036, 23.047](https://www.google.com/maps/search/?api=1&query=-34.036,23.047) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Knysna%2C%20South%20Africa) |
+| 9 | [Mossel Bay](cities/mossel-bay.yaml) | City / town | **79.95** | **History 8.4**, **Beaches 8.3** | 8.0 / 7.8 / 8.1 / 8.3 / 7.8 | [-34.183, 22.147](https://www.google.com/maps/search/?api=1&query=-34.183,22.147) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mossel%20Bay%2C%20South%20Africa) |
+| 10 | [Plettenberg Bay](cities/plettenberg-bay.yaml) | City / town | **79.45** | **Beaches 8.8**, **Relaxation 8.7** | 8.3 / 7.8 / 7.2 / 8.7 / 7.6 | [-34.057, 23.372](https://www.google.com/maps/search/?api=1&query=-34.057,23.372) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Plettenberg%20Bay%2C%20South%20Africa) |
+| 11 | [Gqeberha / Port Elizabeth](cities/gqeberha.yaml) | City / town | **78.70** | **Beaches 8.4**, **History 8.2** | 7.8 / 7.6 / 8.0 / 8.2 / 8.0 | [-33.961, 25.602](https://www.google.com/maps/search/?api=1&query=-33.961,25.602) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Gqeberha%20%2F%20Port%20Elizabeth%2C%20South%20Africa) |
+| 12 | [George](cities/george.yaml) | City / town | **76.05** | **Relaxation 7.8**, **Culture 7.7** | 7.7 / 7.4 / 7.5 / 7.9 / 7.6 | [-33.964, 22.458](https://www.google.com/maps/search/?api=1&query=-33.964,22.458) | [Google Maps](https://www.google.com/maps/search/?api=1&query=George%2C%20South%20Africa) |
 
 ---
 
