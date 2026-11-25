@@ -2,7 +2,7 @@
 
 # Hungary (HU) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**18 ranked** · **0 unassessed** · **18 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,28 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (18)
 
-No cities, towns & villages have been assessed for **Hungary** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Budapest](cities/budapest.yaml) | City / town | **93.35** | **Architecture 9.5**, **Culture 9.4**, **History 9.4**, Nightlife 9.3, Relaxation 9.3 | 9.4 / 9.3 / 9.3 / 9.4 / 9.2 | [47.4979, 19.0402](https://www.google.com/maps/search/?api=1&query=47.4979,19.0402) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Budapest%2C%20Hungary) |
+| 2 | [Pécs](cities/pecs.yaml) | City / town | **87.15** | **History 9.2**, **Culture 9.1**, **Architecture 9.0** | 8.6 / 8.7 / 8.9 / 8.8 / 8.6 | [46.0727, 18.2323](https://www.google.com/maps/search/?api=1&query=46.0727,18.2323) | [Google Maps](https://www.google.com/maps/search/?api=1&query=P%C3%A9cs%2C%20Hungary) |
+| 3 | [Eger](cities/eger.yaml) | City / town | **86.10** | **History 9.1**, **Architecture 9.0**, **Food 8.8** | 8.6 / 8.6 / 8.7 / 8.8 / 8.2 | [47.9025, 20.3772](https://www.google.com/maps/search/?api=1&query=47.9025,20.3772) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Eger%2C%20Hungary) |
+| 4 | [Sopron](cities/sopron.yaml) | City / town | **85.80** | **Architecture 9.1**, **History 9.0**, **Culture 8.8** | 8.6 / 8.6 / 8.7 / 8.6 / 8.2 | [47.6817, 16.5845](https://www.google.com/maps/search/?api=1&query=47.6817,16.5845) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sopron%2C%20Hungary) |
+| 4 | [Szeged](cities/szeged.yaml) | City / town | **85.80** | **Architecture 9.1**, **Culture 9.0**, **Food 8.8** | 8.5 / 8.6 / 8.5 / 8.8 / 8.6 | [46.253, 20.1414](https://www.google.com/maps/search/?api=1&query=46.253,20.1414) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Szeged%2C%20Hungary) |
+| 6 | [Esztergom](cities/esztergom.yaml) | City / town | **85.30** | **History 9.2**, **Architecture 9.0** | 8.5 / 8.5 / 8.9 / 8.5 / 8.0 | [47.794, 18.741](https://www.google.com/maps/search/?api=1&query=47.794,18.741) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Esztergom%2C%20Hungary) |
+| 7 | [Hollókő](cities/holloko.yaml) | City / town | **84.70** | **Architecture 9.2**, **Culture 9.1**, **Photography 8.9** | 8.5 / 8.8 / 8.7 / 8.4 / 7.2 | [47.997, 19.59](https://www.google.com/maps/search/?api=1&query=47.997,19.59) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Holl%C3%B3k%C5%91%2C%20Hungary) |
+| 8 | [Szentendre](cities/szentendre.yaml) | City / town | **84.35** | **Culture 9.0**, **Photography 9.0**, **Architecture 8.9** | 8.5 / 8.6 / 8.2 / 8.7 / 7.9 | [47.669, 19.076](https://www.google.com/maps/search/?api=1&query=47.669,19.076) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Szentendre%2C%20Hungary) |
+| 9 | [Győr](cities/gyor.yaml) | City / town | **84.20** | **Architecture 9.0**, **History 8.8**, **Culture 8.6** | 8.4 / 8.4 / 8.4 / 8.6 / 8.3 | [47.6875, 17.6504](https://www.google.com/maps/search/?api=1&query=47.6875,17.6504) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Gy%C5%91r%2C%20Hungary) |
+| 10 | [Veszprém](cities/veszprem.yaml) | City / town | **84.05** | **Architecture 8.9**, **History 8.9**, **Culture 8.7** | 8.4 / 8.4 / 8.5 / 8.5 / 8.1 | [47.093, 17.912](https://www.google.com/maps/search/?api=1&query=47.093,17.912) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Veszpr%C3%A9m%2C%20Hungary) |
+| 11 | [Tihany](cities/tihany.yaml) | City / town | **83.00** | **Photography 9.0**, **Architecture 8.8**, **Relaxation 8.7** | 8.4 / 8.5 / 8.2 / 8.5 / 7.4 | [46.913, 17.888](https://www.google.com/maps/search/?api=1&query=46.913,17.888) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tihany%2C%20Hungary) |
+| 12 | [Kecskemét](cities/kecskemet.yaml) | City / town | **82.80** | **Architecture 9.0**, **Culture 8.7** | 8.2 / 8.4 / 8.3 / 8.4 / 8.0 | [46.896, 19.69](https://www.google.com/maps/search/?api=1&query=46.896,19.69) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kecskem%C3%A9t%2C%20Hungary) |
+| 12 | [Kőszeg](cities/koszeg.yaml) | City / town | **82.80** | **Architecture 8.9**, **History 8.8** | 8.3 / 8.4 / 8.3 / 8.4 / 7.7 | [47.389, 16.54](https://www.google.com/maps/search/?api=1&query=47.389,16.54) | [Google Maps](https://www.google.com/maps/search/?api=1&query=K%C5%91szeg%2C%20Hungary) |
+| 14 | [Debrecen](cities/debrecen.yaml) | City / town | **82.65** | **Culture 8.8**, **History 8.8**, **Architecture 8.5** | 8.0 / 8.1 / 8.5 / 8.6 / 8.5 | [47.5316, 21.6273](https://www.google.com/maps/search/?api=1&query=47.5316,21.6273) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Debrecen%2C%20Hungary) |
+| 15 | [Tokaj](cities/tokaj.yaml) | City / town | **82.50** | **Culture 8.8**, **Food 8.8**, **History 8.7** | 8.0 / 8.5 / 8.5 / 8.5 / 7.5 | [48.117, 21.409](https://www.google.com/maps/search/?api=1&query=48.117,21.409) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tokaj%2C%20Hungary) |
+| 16 | [Balatonfüred](cities/balatonfured.yaml) | City / town | **81.70** | **Relaxation 9.0**, **Culture 8.6** | 8.1 / 8.0 / 8.1 / 8.8 / 8.0 | [46.961, 17.89](https://www.google.com/maps/search/?api=1&query=46.961,17.89) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Balatonf%C3%BCred%2C%20Hungary) |
+| 17 | [Gyula](cities/gyula.yaml) | City / town | **81.65** | **History 8.8**, **Relaxation 8.8** | 8.1 / 8.1 / 8.2 / 8.6 / 7.8 | [46.647, 21.278](https://www.google.com/maps/search/?api=1&query=46.647,21.278) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Gyula%2C%20Hungary) |
+| 18 | [Miskolc](cities/miskolc.yaml) | City / town | **80.25** | **Culture 8.5**, **History 8.5** | 7.8 / 8.0 / 8.1 / 8.3 / 8.2 | [48.104, 20.791](https://www.google.com/maps/search/?api=1&query=48.104,20.791) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Miskolc%2C%20Hungary) |
 
 ---
 

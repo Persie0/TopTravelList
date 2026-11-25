@@ -1,0 +1,15 @@
+id: sight-hu-fishermans-bastion
+name: "Fisherman's Bastion"
+location:
+  country_code: HU
+  latitude: 47.502
+  longitude: 19.035
+scores:
+  impact: 9.1
+  uniqueness: 8.9
+  significance: 8.5
+  experience: 9.0
+  depth: 7.7
+  categories:
+    architecture: 9.2
+    photography: 9.5

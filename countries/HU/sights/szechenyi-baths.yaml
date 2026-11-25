@@ -1,0 +1,15 @@
+id: sight-hu-szechenyi-baths
+name: "Széchenyi Thermal Baths"
+location:
+  country_code: HU
+  latitude: 47.519
+  longitude: 19.082
+scores:
+  impact: 9.0
+  uniqueness: 9.1
+  significance: 8.5
+  experience: 9.3
+  depth: 8.5
+  categories:
+    architecture: 9.1
+    relaxation: 9.5

@@ -1,0 +1,15 @@
+id: sight-hu-godollo-palace
+name: "Royal Palace of Gödöllő"
+location:
+  country_code: HU
+  latitude: 47.596
+  longitude: 19.348
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 8.9
+  experience: 8.7
+  depth: 8.5
+  categories:
+    architecture: 9.1
+    history: 9.2

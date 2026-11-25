@@ -1,0 +1,15 @@
+id: sight-hu-st-stephens-basilica
+name: "St Stephen's Basilica"
+location:
+  country_code: HU
+  latitude: 47.501
+  longitude: 19.054
+scores:
+  impact: 8.9
+  uniqueness: 8.6
+  significance: 8.9
+  experience: 8.8
+  depth: 8.2
+  categories:
+    architecture: 9.3
+    history: 9.0

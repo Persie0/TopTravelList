@@ -1,0 +1,16 @@
+id: city-hu-holloko
+name: "Hollókő"
+location:
+  country_code: HU
+  latitude: 47.997
+  longitude: 19.59
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 8.7
+  experience: 8.4
+  depth: 7.2
+  categories:
+    architecture: 9.2
+    culture: 9.1
+    photography: 8.9

@@ -1,0 +1,15 @@
+id: sight-hu-rudas-baths
+name: "Rudas Thermal Baths"
+location:
+  country_code: HU
+  latitude: 47.489
+  longitude: 19.048
+scores:
+  impact: 8.6
+  uniqueness: 9.0
+  significance: 8.8
+  experience: 9.0
+  depth: 8.2
+  categories:
+    relaxation: 9.3
+    architecture: 9.0

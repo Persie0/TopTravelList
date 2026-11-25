@@ -1,0 +1,15 @@
+id: sight-hu-mezohegyes
+name: "Mezőhegyes State Stud-Farm Estate"
+location:
+  country_code: HU
+  latitude: 46.32
+  longitude: 20.82
+scores:
+  impact: 8.0
+  uniqueness: 8.7
+  significance: 8.9
+  experience: 8.1
+  depth: 7.9
+  categories:
+    architecture: 8.9
+    history: 9.0

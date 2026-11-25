@@ -1,0 +1,15 @@
+id: sight-hu-rural-heritage-network
+name: "Network of Rural Heritage Buildings in Hungary (tentative)"
+location:
+  country_code: HU
+  latitude: 47.5
+  longitude: 19.1
+scores:
+  impact: 8.1
+  uniqueness: 8.8
+  significance: 8.9
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.1
+    culture: 9.1

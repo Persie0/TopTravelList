@@ -1,0 +1,15 @@
+id: sight-hu-kiskunsag
+name: "Kiskunság National Park"
+location:
+  country_code: HU
+  latitude: 46.85
+  longitude: 19.3
+scores:
+  impact: 8.3
+  uniqueness: 8.7
+  significance: 8.6
+  experience: 8.5
+  depth: 8.7
+  categories:
+    nature: 9.1
+    wildlife: 9.1

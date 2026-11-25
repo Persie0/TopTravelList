@@ -1,0 +1,15 @@
+id: city-hu-koszeg
+name: "Kőszeg"
+location:
+  country_code: HU
+  latitude: 47.389
+  longitude: 16.54
+scores:
+  impact: 8.3
+  uniqueness: 8.4
+  significance: 8.3
+  experience: 8.4
+  depth: 7.7
+  categories:
+    architecture: 8.9
+    history: 8.8

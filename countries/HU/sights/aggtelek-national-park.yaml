@@ -1,0 +1,16 @@
+id: sight-hu-aggtelek-national-park
+name: "Aggtelek National Park (surface landscape)"
+location:
+  country_code: HU
+  latitude: 48.49
+  longitude: 20.55
+scores:
+  impact: 8.5
+  uniqueness: 8.7
+  significance: 8.6
+  experience: 8.7
+  depth: 8.7
+  categories:
+    nature: 9.1
+    adventure: 8.8
+    wildlife: 8.7

@@ -1,0 +1,16 @@
+id: sight-hu-heroes-square
+name: "Heroes' Square"
+location:
+  country_code: HU
+  latitude: 47.515
+  longitude: 19.078
+scores:
+  impact: 8.7
+  uniqueness: 8.5
+  significance: 8.9
+  experience: 8.6
+  depth: 7.6
+  categories:
+    architecture: 8.9
+    history: 9.1
+    photography: 9.0
