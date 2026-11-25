@@ -1,0 +1,16 @@
+id: sight-dm-emerald-pool
+name: "Emerald Pool"
+location:
+  country_code: DM
+  latitude: 15.401
+  longitude: -61.305
+scores:
+  impact: 8.4
+  uniqueness: 8.1
+  significance: 6.6
+  experience: 8.6
+  depth: 6.7
+  categories:
+    nature: 8.7
+    photography: 9.0
+    relaxation: 8.2
