@@ -1,0 +1,15 @@
+id: sight-au-murujuga-cultural-landscape
+name: "Murujuga Cultural Landscape"
+location:
+  country_code: AU
+  latitude: -20.565028
+  longitude: 116.668528
+scores:
+  impact: 8.4
+  uniqueness: 9.4
+  significance: 9.5
+  experience: null
+  depth: null
+  categories:
+    history: 9.5
+    culture: 9.5

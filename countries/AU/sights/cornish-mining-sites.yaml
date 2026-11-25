@@ -1,0 +1,13 @@
+id: sight-au-cornish-mining-sites
+name: "Australian Cornish Mining Sites: Burra and Moonta"
+location:
+  country_code: AU
+  latitude: -33.675278
+  longitude: 138.93
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}

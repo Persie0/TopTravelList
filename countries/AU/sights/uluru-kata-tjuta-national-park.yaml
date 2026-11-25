@@ -1,0 +1,16 @@
+id: sight-au-uluru-kata-tjuta-national-park
+name: "Uluṟu-Kata Tjuṯa National Park"
+location:
+  country_code: AU
+  latitude: -25.3444
+  longitude: 131.0369
+scores:
+  impact: 9.6
+  uniqueness: 9.5
+  significance: 9.5
+  experience: 9.1
+  depth: 8.8
+  categories:
+    nature: 9.5
+    culture: 9.5
+    photography: 9.6

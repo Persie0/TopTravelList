@@ -2,7 +2,7 @@
 
 # Australia (AU) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**12 ranked** · **0 unassessed** · **12 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,22 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (12)
 
-No cities, towns & villages have been assessed for **Australia** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- | --- |
+| 1 | [Sydney](cities/sydney.yaml) | City / town | **89.70** | **Photography 9.3**, **Architecture 9.0**, **Food 9.0**, Nature 9.0, Culture 8.8 | 9.2 / 8.8 / 8.6 / 9.2 / 9.1 | [-33.86785, 151.20732](https://www.google.com/maps/search/?api=1&query=-33.86785,151.20732) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sydney%2C%20Australia) |
+| 2 | [Melbourne](cities/melbourne.yaml) | City / town | **86.70** | **Food 9.3**, **Culture 9.2**, **Nightlife 8.9**, Architecture 8.7 | 8.4 / 8.6 / 8.5 / 9.2 / 9.2 | [-37.814, 144.96332](https://www.google.com/maps/search/?api=1&query=-37.814,144.96332) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Melbourne%2C%20Australia) |
+| 3 | [Hobart](cities/hobart.yaml) | City / town | **83.05** | **Culture 8.6**, **History 8.6**, **Nature 8.5**, Food 8.4 | 8.3 / 8.4 / 8.2 / 8.5 / 8.0 | [-42.87936, 147.32941](https://www.google.com/maps/search/?api=1&query=-42.87936,147.32941) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hobart%2C%20Australia) |
+| 4 | [Canberra](cities/canberra.yaml) | City / town | **81.45** | **Culture 8.8**, **History 8.8**, **Architecture 8.3** | 7.7 / 8.2 / 8.6 / 8.3 / 8.2 | [-35.28346, 149.12807](https://www.google.com/maps/search/?api=1&query=-35.28346,149.12807) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Canberra%2C%20Australia) |
+| 5 | [Perth](cities/perth.yaml) | City / town | **80.55** | **Nature 8.5**, **Food 8.3**, **Culture 8.1** | 8.0 / 8.0 / 7.8 / 8.5 / 8.2 | [-31.95224, 115.8614](https://www.google.com/maps/search/?api=1&query=-31.95224,115.8614) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Perth%2C%20Australia) |
+| 6 | [Adelaide](cities/adelaide.yaml) | City / town | **80.00** | **Food 8.7**, **Culture 8.5**, **Architecture 8.0** | 7.8 / 7.9 / 8.0 / 8.5 / 8.1 | [-34.92866, 138.59863](https://www.google.com/maps/search/?api=1&query=-34.92866,138.59863) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Adelaide%2C%20Australia) |
+| 7 | [Brisbane](cities/brisbane.yaml) | City / town | **79.55** | **Culture 8.4**, **Food 8.3**, **Nature 8.0** | 7.9 / 7.8 / 7.7 / 8.5 / 8.2 | [-27.46794, 153.02809](https://www.google.com/maps/search/?api=1&query=-27.46794,153.02809) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Brisbane%2C%20Australia) |
+| 8 | [Gold Coast](cities/gold-coast.yaml) | City / town | **78.95** | **Beaches 9.0**, **Relaxation 8.6**, **Nightlife 8.5** | 8.1 / 7.8 / 6.9 / 8.7 / 8.3 | [-28.00029, 153.43088](https://www.google.com/maps/search/?api=1&query=-28.00029,153.43088) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Gold%20Coast%2C%20Australia) |
+| 9 | [Darwin](cities/darwin.yaml) | City / town | **78.20** | **Culture 8.3**, **Food 8.1**, **History 8.0** | 7.5 / 8.0 / 8.0 / 8.0 / 7.7 | [-12.46113, 130.84185](https://www.google.com/maps/search/?api=1&query=-12.46113,130.84185) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Darwin%2C%20Australia) |
+| 10 | [Launceston](cities/launceston.yaml) | City / town | **76.60** | **Architecture 8.0**, **Nature 8.0**, **Culture 7.9** | 7.6 / 7.7 / 7.6 / 7.9 / 7.5 | [-41.43876, 147.13467](https://www.google.com/maps/search/?api=1&query=-41.43876,147.13467) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Launceston%2C%20Australia) |
+| 11 | [Cairns](cities/cairns.yaml) | City / town | **74.90** | **Relaxation 8.2**, **Food 7.9**, **Nature 7.8** | 7.5 / 7.5 / 7.0 / 8.1 / 7.5 | [-16.92366, 145.76613](https://www.google.com/maps/search/?api=1&query=-16.92366,145.76613) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cairns%2C%20Australia) |
+| 12 | [Townsville](cities/townsville.yaml) | City / town | **74.70** | **Nature 7.9**, **Culture 7.6** | 7.5 / 7.5 / 7.3 / 7.7 / 7.3 | [-19.26639, 146.80569](https://www.google.com/maps/search/?api=1&query=-19.26639,146.80569) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Townsville%2C%20Australia) |
 
 ---
 

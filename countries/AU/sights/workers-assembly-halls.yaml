@@ -1,0 +1,13 @@
+id: sight-au-workers-assembly-halls
+name: "Workers’ Assembly Halls (Australia)"
+location:
+  country_code: AU
+  latitude: -37.806
+  longitude: 144.965
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}

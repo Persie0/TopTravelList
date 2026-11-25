@@ -1,0 +1,13 @@
+id: sight-au-gondwana-rainforests-extension
+name: "Gondwana Rainforests of Australia (proposed extension)"
+location:
+  country_code: AU
+  latitude: -30.070833
+  longitude: 152.302222
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}

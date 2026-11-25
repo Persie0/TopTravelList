@@ -1,0 +1,15 @@
+id: sight-au-macquarie-island
+name: "Macquarie Island"
+location:
+  country_code: AU
+  latitude: -54.62
+  longitude: 158.86
+scores:
+  impact: 8.8
+  uniqueness: 9.3
+  significance: 9.4
+  experience: null
+  depth: null
+  categories:
+    nature: 9.3
+    wildlife: 9.3
