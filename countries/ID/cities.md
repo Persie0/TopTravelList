@@ -14,7 +14,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps |
 | ---: | --- | --- | ---: | --- | --- | --- |
-| 1 | [Yogyakarta](cities/yogyakarta.yaml) | City / town | **90.70** | **Culture 9.5**, **History 9.2**, **Food 9.0**, Architecture 8.9 | 9.0 / 9.1 / 9.2 / 9.1 / 8.9 | [-7.7956, 110.3695](https://www.google.com/maps/search/?api=1&query=-7.7956,110.3695) |
+| 1 | [Yogyakarta](cities/yogyakarta.yaml) | City / town | **90.70** | **Culture 9.4**, **History 9.2**, **Food 9.0**, Architecture 8.9 | 9.0 / 9.1 / 9.2 / 9.1 / 8.9 | [-7.7956, 110.3695](https://www.google.com/maps/search/?api=1&query=-7.7956,110.3695) |
 | 2 | [Ubud](cities/ubud.yaml) | City / town | **88.45** | **Culture 9.3**, **Relaxation 9.2**, **Food 8.8**, Architecture 8.7 | 8.8 / 9.0 / 8.5 / 9.1 / 8.9 | [-8.5069, 115.2625](https://www.google.com/maps/search/?api=1&query=-8.5069,115.2625) |
 | 3 | [Jakarta](cities/jakarta.yaml) | City / town | **87.45** | **Food 9.2**, **Culture 8.9**, **Nightlife 8.8** | 8.8 / 8.7 / 8.9 / 8.2 / 9.2 | [-6.2088, 106.8456](https://www.google.com/maps/search/?api=1&query=-6.2088,106.8456) |
 | 4 | [Banda Neira](cities/banda-neira.yaml) | City / town | **87.10** | **History 9.4**, **Architecture 8.9**, **Culture 8.8** | 8.4 / 9.0 / 9.2 / 8.6 / 8.1 | [-4.526, 129.904](https://www.google.com/maps/search/?api=1&query=-4.526,129.904) |
