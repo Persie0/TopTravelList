@@ -1,0 +1,16 @@
+id: sight-kn-cockleshell-beach
+name: "Cockleshell Beach"
+location:
+  country_code: KN
+  latitude: 17.228
+  longitude: -62.630
+scores:
+  impact: 8.7
+  uniqueness: 8.0
+  significance: 6.0
+  experience: 8.7
+  depth: 7.5
+  categories:
+    beaches: 9.1
+    photography: 9.0
+    relaxation: 8.9

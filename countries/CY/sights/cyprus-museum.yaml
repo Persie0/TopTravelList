@@ -1,0 +1,15 @@
+id: sight-cy-cyprus-museum
+name: "Cyprus Museum, Nicosia"
+location:
+  country_code: CY
+  latitude: 35.172
+  longitude: 33.356
+scores:
+  impact: 7.9
+  uniqueness: 8.4
+  significance: 9.0
+  experience: 8.4
+  depth: 8.4
+  categories:
+    history: 9.2
+    culture: 8.7

@@ -1,0 +1,16 @@
+id: sight-km-mutsamudu-medina
+name: "Mutsamudu Medina"
+location:
+  country_code: KM
+  latitude: -12.166714
+  longitude: 44.395219
+scores:
+  impact: 8.3
+  uniqueness: 9.0
+  significance: 9.4
+  experience: 8.2
+  depth: 7.8
+  categories:
+    history: 9.4
+    culture: 9.4
+    architecture: 9.1

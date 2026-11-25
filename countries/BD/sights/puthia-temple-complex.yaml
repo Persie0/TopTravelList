@@ -1,0 +1,16 @@
+id: sight-bd-puthia-temple-complex
+name: "Puthia Temple Complex"
+location:
+  country_code: BD
+  latitude: 24.37
+  longitude: 88.84
+scores:
+  impact: 8.4
+  uniqueness: 8.8
+  significance: 8.9
+  experience: 8.3
+  depth: 8.2
+  categories:
+    architecture: 9.3
+    history: 9.1
+    culture: 8.9

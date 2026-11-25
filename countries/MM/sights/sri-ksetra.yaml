@@ -1,0 +1,15 @@
+id: sight-mm-sri-ksetra
+name: "Sri Ksetra Archaeological Site"
+location:
+  country_code: MM
+  latitude: 18.79
+  longitude: 95.29
+scores:
+  impact: 8.1
+  uniqueness: 8.6
+  significance: 9.0
+  experience: 7.8
+  depth: 8.0
+  categories:
+    history: 9.1
+    architecture: 8.5

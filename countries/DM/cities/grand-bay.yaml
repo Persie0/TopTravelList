@@ -1,0 +1,15 @@
+id: city-dm-grand-bay
+name: "Grand Bay"
+location:
+  country_code: DM
+  latitude: 15.239
+  longitude: -61.314
+scores:
+  impact: 6.8
+  uniqueness: 7.6
+  significance: 7.0
+  experience: 7.5
+  depth: 6.4
+  categories:
+    culture: 8.3
+    photography: 7.8

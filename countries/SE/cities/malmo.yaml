@@ -1,0 +1,16 @@
+id: city-se-malmo
+name: "Malmö"
+location:
+  country_code: SE
+  latitude: 55.605
+  longitude: 13.003
+scores:
+  impact: 8.2
+  uniqueness: 8.3
+  significance: 8.3
+  experience: 8.8
+  depth: 8.6
+  categories:
+    architecture: 8.7
+    food: 8.8
+    culture: 8.8

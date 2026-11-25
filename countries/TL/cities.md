@@ -2,7 +2,7 @@
 
 # Timor-Leste (TL) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**24 ranked** · **0 unassessed** · **24 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,34 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (24)
 
-No cities, towns & villages have been assessed for **Timor-Leste** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Dili](cities/dili.yaml) | City / town | **80.30** | **History 8.6**, **Culture 8.5**, **Food 7.9** | 7.7 / 8.2 / 8.4 / 8.0 / 7.9 | [-8.5569, 125.5603](https://www.google.com/maps/search/?api=1&query=-8.5569,125.5603) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Dili%2C%20Timor-Leste) |
+| 2 | [Baucau](cities/baucau.yaml) | City / town | **79.90** | **Architecture 8.6**, **History 8.3**, **Culture 8.2** | 8.0 / 8.3 / 7.9 / 7.9 / 7.5 | [-8.4594, 126.4528](https://www.google.com/maps/search/?api=1&query=-8.4594,126.4528) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Baucau%2C%20Timor-Leste) |
+| 3 | [Maubisse](cities/maubisse.yaml) | City / town | **78.60** | **Photography 8.6**, **Culture 8.3** | 8.0 / 8.3 / 7.4 / 8.1 / 6.9 | [-8.8377, 125.5978](https://www.google.com/maps/search/?api=1&query=-8.8377,125.5978) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Maubisse%2C%20Timor-Leste) |
+| 4 | [Balibo](cities/balibo.yaml) | City / town | **77.40** | **History 8.8**, **Culture 8.0** | 7.5 / 8.0 / 8.4 / 7.6 / 6.7 | [-8.9685, 125.041](https://www.google.com/maps/search/?api=1&query=-8.9685,125.041) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Balibo%2C%20Timor-Leste) |
+| 5 | [Tutuala](cities/tutuala.yaml) | City / town | **77.05** | **Culture 8.6**, **Photography 8.5** | 7.7 / 8.3 / 7.6 / 7.8 / 6.3 | [-8.394, 127.251](https://www.google.com/maps/search/?api=1&query=-8.394,127.251) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tutuala%2C%20Timor-Leste) |
+| 6 | [Lospalos](cities/lospalos.yaml) | City / town | **75.40** | **Culture 8.5**, **Architecture 8.0** | 7.3 / 8.0 / 7.7 / 7.6 / 6.7 | [-8.521, 127.003](https://www.google.com/maps/search/?api=1&query=-8.521,127.003) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lospalos%2C%20Timor-Leste) |
+| 6 | [Pante Macassar](cities/pante-macassar.yaml) | City / town | **75.40** | **History 8.4**, **Culture 8.2** | 7.2 / 7.9 / 8.0 / 7.5 / 6.8 | [-9.2, 124.375](https://www.google.com/maps/search/?api=1&query=-9.2,124.375) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Pante%20Macassar%2C%20Timor-Leste) |
+| 8 | [Beloi (Atauro)](cities/beloi-atauro.yaml) | City / town | **74.55** | **Relaxation 8.4**, **Culture 7.9** | 7.6 / 7.9 / 6.6 / 8.2 / 6.5 | [-8.21, 125.615](https://www.google.com/maps/search/?api=1&query=-8.21,125.615) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Beloi%20%28Atauro%29%2C%20Timor-Leste) |
+| 9 | [Maubara](cities/maubara.yaml) | City / town | **74.50** | **History 8.1**, **Photography 8.0** | 7.4 / 7.7 / 7.5 / 7.7 / 6.5 | [-8.608, 125.205](https://www.google.com/maps/search/?api=1&query=-8.608,125.205) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Maubara%2C%20Timor-Leste) |
+| 10 | [Venilale](cities/venilale.yaml) | City / town | **73.80** | **History 7.9**, **Culture 7.8** | 7.3 / 7.6 / 7.5 / 7.6 / 6.5 | [-8.6431, 126.3653](https://www.google.com/maps/search/?api=1&query=-8.6431,126.3653) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Venilale%2C%20Timor-Leste) |
+| 11 | [Liquica](cities/liquica.yaml) | City / town | **73.60** | **History 8.0**, **Culture 7.9** | 7.2 / 7.5 / 7.5 / 7.7 / 6.7 | [-8.5928, 125.3406](https://www.google.com/maps/search/?api=1&query=-8.5928,125.3406) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Liquica%2C%20Timor-Leste) |
+| 12 | [Vila Maumeta (Atauro)](cities/vila-maumeta-atauro.yaml) | City / town | **73.20** | **Culture 8.0**, **Relaxation 7.9** | 7.3 / 7.7 / 7.0 / 7.7 / 6.5 | [-8.26, 125.6](https://www.google.com/maps/search/?api=1&query=-8.26,125.6) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Vila%20Maumeta%20%28Atauro%29%2C%20Timor-Leste) |
+| 13 | [Ainaro](cities/ainaro.yaml) | City / town | **73.05** | **History 8.0**, **Culture 7.8** | 7.2 / 7.5 / 7.5 / 7.4 / 6.6 | [-8.994, 125.508](https://www.google.com/maps/search/?api=1&query=-8.994,125.508) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ainaro%2C%20Timor-Leste) |
+| 14 | [Letefoho](cities/letefoho.yaml) | City / town | **72.20** | **Culture 8.0**, **Photography 8.0** | 7.2 / 7.6 / 7.0 / 7.6 / 6.2 | [-8.835, 125.423](https://www.google.com/maps/search/?api=1&query=-8.835,125.423) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Letefoho%2C%20Timor-Leste) |
+| 15 | [Atsabe](cities/atsabe.yaml) | City / town | **72.10** | **Photography 8.1**, **Culture 7.9** | 7.2 / 7.6 / 7.1 / 7.4 / 6.2 | [-8.933, 125.395](https://www.google.com/maps/search/?api=1&query=-8.933,125.395) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Atsabe%2C%20Timor-Leste) |
+| 16 | [Com](cities/com.yaml) | City / town | **72.00** | **Relaxation 8.1**, **Culture 7.7** | 7.3 / 7.6 / 6.6 / 7.8 / 6.2 | [-8.355, 127.05](https://www.google.com/maps/search/?api=1&query=-8.355,127.05) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Com%2C%20Timor-Leste) |
+| 17 | [Same](cities/same.yaml) | City / town | **71.70** | **History 8.0**, **Culture 7.7** | 7.0 / 7.3 / 7.5 / 7.3 / 6.5 | [-9.001, 125.649](https://www.google.com/maps/search/?api=1&query=-9.001,125.649) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Same%2C%20Timor-Leste) |
+| 18 | [Aileu](cities/aileu.yaml) | City / town | **71.25** | **Culture 7.7**, **Photography 7.6** | 7.0 / 7.3 / 7.2 / 7.4 / 6.5 | [-8.728, 125.566](https://www.google.com/maps/search/?api=1&query=-8.728,125.566) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Aileu%2C%20Timor-Leste) |
+| 19 | [Laleia](cities/laleia.yaml) | City / town | **70.55** | **History 7.9**, **Culture 7.8** | 6.9 / 7.3 / 7.4 / 7.2 / 6.0 | [-8.531, 126.146](https://www.google.com/maps/search/?api=1&query=-8.531,126.146) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Laleia%2C%20Timor-Leste) |
+| 20 | [Manatuto](cities/manatuto.yaml) | City / town | **69.45** | **Culture 7.6**, **History 7.5** | 6.8 / 7.0 / 7.1 / 7.3 / 6.4 | [-8.5153, 125.9656](https://www.google.com/maps/search/?api=1&query=-8.5153,125.9656) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Manatuto%2C%20Timor-Leste) |
+| 21 | [Maliana](cities/maliana.yaml) | City / town | **69.20** | **Culture 7.6**, **Food 7.5** | 6.7 / 6.9 / 7.1 / 7.3 / 6.7 | [-8.991, 125.218](https://www.google.com/maps/search/?api=1&query=-8.991,125.218) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Maliana%2C%20Timor-Leste) |
+| 21 | [Viqueque](cities/viqueque.yaml) | City / town | **69.20** | **History 7.8**, **Culture 7.6** | 6.6 / 7.0 / 7.3 / 7.2 / 6.5 | [-8.857, 126.365](https://www.google.com/maps/search/?api=1&query=-8.857,126.365) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Viqueque%2C%20Timor-Leste) |
+| 23 | [Suai](cities/suai.yaml) | City / town | **68.75** | **History 7.7**, **Culture 7.5** | 6.6 / 6.9 / 7.2 / 7.2 / 6.5 | [-9.312, 125.258](https://www.google.com/maps/search/?api=1&query=-9.312,125.258) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Suai%2C%20Timor-Leste) |
+| 24 | [Gleno](cities/gleno.yaml) | City / town | **68.65** | **Culture 7.5**, **Food 7.4** | 6.7 / 7.0 / 6.8 / 7.3 / 6.5 | [-8.723, 125.437](https://www.google.com/maps/search/?api=1&query=-8.723,125.437) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Gleno%2C%20Timor-Leste) |
 
 ---
 

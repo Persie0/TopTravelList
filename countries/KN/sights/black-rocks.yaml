@@ -1,0 +1,15 @@
+id: sight-kn-black-rocks
+name: "Black Rocks"
+location:
+  country_code: KN
+  latitude: 17.398
+  longitude: -62.755
+scores:
+  impact: 8.3
+  uniqueness: 8.3
+  significance: 6.5
+  experience: 8.2
+  depth: 6.0
+  categories:
+    nature: 8.7
+    photography: 9.1

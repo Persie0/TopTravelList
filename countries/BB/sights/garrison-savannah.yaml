@@ -1,0 +1,15 @@
+id: sight-bb-garrison-savannah
+name: "Garrison Savannah"
+location:
+  country_code: BB
+  latitude: 13.079
+  longitude: -59.608
+scores:
+  impact: 7.1
+  uniqueness: 7.9
+  significance: 8.5
+  experience: 7.8
+  depth: 7.2
+  categories:
+    history: 9.0
+    culture: 8.5

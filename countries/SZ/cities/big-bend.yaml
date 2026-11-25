@@ -1,0 +1,15 @@
+id: city-sz-big-bend
+name: "Big Bend"
+location:
+  country_code: SZ
+  latitude: -26.8167
+  longitude: 31.9333
+scores:
+  impact: 6.2
+  uniqueness: 6.5
+  significance: 6.4
+  experience: 6.9
+  depth: 6.1
+  categories:
+    culture: 7.0
+    food: 7.0

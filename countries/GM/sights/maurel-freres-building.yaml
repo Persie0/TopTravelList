@@ -1,0 +1,14 @@
+id: sight-gm-maurel-freres-building
+name: "Maurel Frères Building"
+location:
+  country_code: GM
+  latitude: 13.336311
+  longitude: -16.382361
+scores:
+  impact: 7.1
+  uniqueness: 8.3
+  significance: 8.5
+  experience: 8.2
+  depth: 7.0
+  categories:
+    history: 8.9

@@ -1,0 +1,15 @@
+id: sight-vc-palm-island
+name: "Palm Island"
+location:
+  country_code: VC
+  latitude: 12.586139
+  longitude: -61.396514
+scores:
+  impact: null
+  uniqueness: null
+  significance: 6.8
+  experience: null
+  depth: null
+  categories:
+    beaches: 8.9
+    relaxation: 8.5

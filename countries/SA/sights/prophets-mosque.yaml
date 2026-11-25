@@ -1,0 +1,16 @@
+id: sight-sa-prophets-mosque
+name: "Al-Masjid an-Nabawi (Prophet's Mosque)"
+location:
+  country_code: SA
+  latitude: 24.4672
+  longitude: 39.6111
+scores:
+  impact: 9.2
+  uniqueness: 9.3
+  significance: 9.4
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.1
+    history: 9.4
+    culture: 9.4

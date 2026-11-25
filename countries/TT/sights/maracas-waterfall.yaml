@@ -1,0 +1,16 @@
+id: sight-tt-maracas-waterfall
+name: "Maracas Waterfall"
+location:
+  country_code: TT
+  latitude: 10.735
+  longitude: -61.386
+scores:
+  impact: 7.8
+  uniqueness: 7.6
+  significance: 7.0
+  experience: 8.0
+  depth: 7.0
+  categories:
+    nature: 8.7
+    adventure: 8.4
+    photography: 8.7

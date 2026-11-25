@@ -1,0 +1,15 @@
+id: sight-lv-museum-of-occupation
+name: "Museum of the Occupation of Latvia"
+location:
+  country_code: LV
+  latitude: 56.947
+  longitude: 24.107
+scores:
+  impact: 8.2
+  uniqueness: 8.4
+  significance: 9.0
+  experience: 8.4
+  depth: 8.4
+  categories:
+    history: 9.3
+    culture: 8.7

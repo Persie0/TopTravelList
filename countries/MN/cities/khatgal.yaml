@@ -1,0 +1,15 @@
+id: city-mn-khatgal
+name: "Khatgal"
+location:
+  country_code: MN
+  latitude: 50.436
+  longitude: 100.164
+scores:
+  impact: 7.7
+  uniqueness: 7.8
+  significance: 6.5
+  experience: 8.2
+  depth: 6.8
+  categories:
+    relaxation: 8.4
+    culture: 7.6

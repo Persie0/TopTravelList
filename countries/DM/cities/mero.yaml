@@ -1,0 +1,15 @@
+id: city-dm-mero
+name: "Mero"
+location:
+  country_code: DM
+  latitude: 15.414
+  longitude: -61.428
+scores:
+  impact: 6.9
+  uniqueness: 7.3
+  significance: 6.1
+  experience: 7.9
+  depth: 6.2
+  categories:
+    relaxation: 8.0
+    culture: 7.7

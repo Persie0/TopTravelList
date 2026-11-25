@@ -2,7 +2,7 @@
 
 # Antigua and Barbuda (AG) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**10 ranked** · **0 unassessed** · **10 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,20 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (10)
 
-No cities, towns & villages have been assessed for **Antigua and Barbuda** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [English Harbour](cities/english-harbour.yaml) | City / town | **83.65** | **Photography 9.1**, **History 9.0**, **Culture 8.7** | 8.3 / 8.7 / 8.4 / 8.4 / 7.6 | [17.013, -61.765](https://www.google.com/maps/search/?api=1&query=17.013,-61.765) | [Google Maps](https://www.google.com/maps/search/?api=1&query=English%20Harbour%2C%20Antigua%20and%20Barbuda) |
+| 2 | [St John's](cities/st-john-s.yaml) | City / town | **79.90** | **History 8.8**, **Culture 8.7**, **Architecture 8.3**, Food 8.3 | 7.6 / 8.0 / 8.3 / 8.2 / 8.2 | [17.121, -61.844](https://www.google.com/maps/search/?api=1&query=17.121,-61.844) | [Google Maps](https://www.google.com/maps/search/?api=1&query=St%20John%27s%2C%20Antigua%20and%20Barbuda) |
+| 3 | [Falmouth](cities/falmouth.yaml) | City / town | **75.70** | **Photography 8.4**, **Culture 8.2**, **History 8.1** | 7.4 / 7.9 / 7.4 / 8.1 / 6.8 | [17.028, -61.781](https://www.google.com/maps/search/?api=1&query=17.028,-61.781) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Falmouth%2C%20Antigua%20and%20Barbuda) |
+| 4 | [Codrington](cities/codrington.yaml) | City / town | **75.65** | **Culture 8.8**, **History 8.4**, **Photography 8.1** | 7.1 / 8.3 / 7.8 / 7.6 / 6.6 | [17.641, -61.825](https://www.google.com/maps/search/?api=1&query=17.641,-61.825) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Codrington%2C%20Antigua%20and%20Barbuda) |
+| 5 | [Parham](cities/parham.yaml) | City / town | **72.80** | **History 8.6**, **Culture 8.2** | 6.8 / 7.6 / 8.0 / 7.4 / 6.3 | [17.097, -61.77](https://www.google.com/maps/search/?api=1&query=17.097,-61.77) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Parham%2C%20Antigua%20and%20Barbuda) |
+| 6 | [Old Road](cities/old-road.yaml) | City / town | **71.85** | **Photography 8.2**, **Culture 8.1** | 7.0 / 7.6 / 7.2 / 7.5 / 6.2 | [17.019, -61.835](https://www.google.com/maps/search/?api=1&query=17.019,-61.835) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Old%20Road%2C%20Antigua%20and%20Barbuda) |
+| 7 | [Jolly Harbour](cities/jolly-harbour.yaml) | City / town | **70.65** | **Relaxation 8.5**, **Food 8.4** | 7.2 / 6.8 / 5.8 / 8.5 / 7.7 | [17.067, -61.887](https://www.google.com/maps/search/?api=1&query=17.067,-61.887) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Jolly%20Harbour%2C%20Antigua%20and%20Barbuda) |
+| 8 | [Bolans](cities/bolans.yaml) | City / town | **67.75** | **Food 7.7**, **Culture 7.6** | 6.5 / 7.1 / 6.3 / 7.6 / 6.5 | [17.061, -61.878](https://www.google.com/maps/search/?api=1&query=17.061,-61.878) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bolans%2C%20Antigua%20and%20Barbuda) |
+| 8 | [Willikies](cities/willikies.yaml) | City / town | **67.75** | **Culture 7.7**, **Photography 7.7** | 6.6 / 7.2 / 6.5 / 7.3 / 6.0 | [17.083, -61.704](https://www.google.com/maps/search/?api=1&query=17.083,-61.704) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Willikies%2C%20Antigua%20and%20Barbuda) |
+| 10 | [All Saints](cities/all-saints.yaml) | City / town | **66.75** | **Culture 7.6** | 6.2 / 6.9 / 6.9 / 7.2 / 6.3 | [17.057, -61.788](https://www.google.com/maps/search/?api=1&query=17.057,-61.788) | [Google Maps](https://www.google.com/maps/search/?api=1&query=All%20Saints%2C%20Antigua%20and%20Barbuda) |
 
 ---
 

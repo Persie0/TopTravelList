@@ -1,0 +1,15 @@
+id: sight-ph-cloud-nine
+name: "Cloud 9 Surf Break"
+location:
+  country_code: PH
+  latitude: 9.813
+  longitude: 126.164
+scores:
+  impact: 8.5
+  uniqueness: 8.5
+  significance: 7.1
+  experience: 8.8
+  depth: 7.5
+  categories:
+    adventure: 9.2
+    photography: 8.7

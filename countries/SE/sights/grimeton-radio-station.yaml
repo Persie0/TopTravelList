@@ -1,0 +1,15 @@
+id: sight-se-grimeton-radio-station
+name: "Grimeton Radio Station"
+location:
+  country_code: SE
+  latitude: 57.113
+  longitude: 12.395
+scores:
+  impact: 8.2
+  uniqueness: 9.2
+  significance: 9.2
+  experience: 8.3
+  depth: 8.0
+  categories:
+    history: 9.4
+    culture: 8.6

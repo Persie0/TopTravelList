@@ -1,0 +1,16 @@
+id: sight-ge-gelati-monastery
+name: "Gelati Monastery"
+location:
+  country_code: GE
+  latitude: 42.294722
+  longitude: 42.768333
+scores:
+  impact: 8.7
+  uniqueness: 9.0
+  significance: 9.2
+  experience: 8.0
+  depth: 8.2
+  categories:
+    architecture: 9.1
+    history: 9.2
+    culture: 9.0

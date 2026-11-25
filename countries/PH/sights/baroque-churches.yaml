@@ -1,0 +1,15 @@
+id: sight-ph-baroque-churches
+name: "Baroque Churches of the Philippines"
+location:
+  country_code: PH
+  latitude: 14.588
+  longitude: 120.975
+scores:
+  impact: 8.7
+  uniqueness: 9.0
+  significance: 9.1
+  experience: 8.3
+  depth: 8.6
+  categories:
+    architecture: 9.3
+    history: 9.2

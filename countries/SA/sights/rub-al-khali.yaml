@@ -1,0 +1,16 @@
+id: sight-sa-rub-al-khali
+name: "Rub al Khali (Saudi Empty Quarter)"
+location:
+  country_code: SA
+  latitude: 20
+  longitude: 49
+scores:
+  impact: 9.2
+  uniqueness: 9.3
+  significance: 8.7
+  experience: 8.3
+  depth: 8.7
+  categories:
+    nature: 9.4
+    adventure: 9.1
+    photography: 9.3

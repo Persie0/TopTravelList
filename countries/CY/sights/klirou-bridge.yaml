@@ -1,0 +1,14 @@
+id: sight-cy-klirou-bridge
+name: "Klirou Bridge Geological Site"
+location:
+  country_code: CY
+  latitude: 35.013042
+  longitude: 33.152898
+scores:
+  impact: null
+  uniqueness: 8.3
+  significance: 8.4
+  experience: null
+  depth: null
+  categories:
+    nature: 8.5

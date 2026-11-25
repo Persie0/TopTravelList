@@ -1,0 +1,16 @@
+id: sight-dm-sari-sari-falls
+name: "Sari-Sari Falls"
+location:
+  country_code: DM
+  latitude: 15.328
+  longitude: -61.259
+scores:
+  impact: 8.7
+  uniqueness: 8.5
+  significance: 6.6
+  experience: 8.0
+  depth: 6.9
+  categories:
+    nature: 9.0
+    photography: 9.2
+    adventure: 8.8

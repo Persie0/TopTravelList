@@ -1,0 +1,15 @@
+id: city-lt-anyksciai
+name: "Anykščiai"
+location:
+  country_code: LT
+  latitude: 55.526
+  longitude: 25.102
+scores:
+  impact: 7.6
+  uniqueness: 7.8
+  significance: 7.7
+  experience: 8.1
+  depth: 7.4
+  categories:
+    culture: 8.3
+    relaxation: 8.2

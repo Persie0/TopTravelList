@@ -1,0 +1,16 @@
+id: city-pa-colon
+name: "Colón"
+location:
+  country_code: PA
+  latitude: 9.359
+  longitude: -79.900
+scores:
+  impact: 6.9
+  uniqueness: 7.5
+  significance: 8.2
+  experience: 7.0
+  depth: 7.4
+  categories:
+    history: 8.5
+    culture: 8.0
+    architecture: 7.6

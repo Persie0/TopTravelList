@@ -1,0 +1,16 @@
+id: city-cr-heredia
+name: "Heredia"
+location:
+  country_code: CR
+  latitude: 9.998
+  longitude: -84.116
+scores:
+  impact: 7.0
+  uniqueness: 7.2
+  significance: 7.5
+  experience: 7.5
+  depth: 7.0
+  categories:
+    architecture: 7.8
+    culture: 7.9
+    food: 7.8

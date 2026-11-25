@@ -1,0 +1,15 @@
+id: sight-kg-uzgen-archaeological-and-architectural-complex
+name: "Uzgen Archaeological and Architectural Complex"
+location:
+  country_code: KG
+  latitude: 40.768531
+  longitude: 73.298239
+scores:
+  impact: 8.0
+  uniqueness: 8.5
+  significance: 8.9
+  experience: 8.0
+  depth: 7.4
+  categories:
+    history: 9.1
+    architecture: 8.8

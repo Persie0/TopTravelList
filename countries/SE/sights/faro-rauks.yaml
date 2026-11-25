@@ -1,0 +1,15 @@
+id: sight-se-faro-rauks
+name: "Fårö sea stacks (Langhammars)"
+location:
+  country_code: SE
+  latitude: 57.99
+  longitude: 19.19
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 8.3
+  experience: 8.5
+  depth: 7.6
+  categories:
+    nature: 9
+    photography: 9.2

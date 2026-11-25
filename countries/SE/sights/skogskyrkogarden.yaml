@@ -1,0 +1,16 @@
+id: sight-se-skogskyrkogarden
+name: "Skogskyrkogården (Woodland Cemetery)"
+location:
+  country_code: SE
+  latitude: 59.276
+  longitude: 18.1
+scores:
+  impact: 8.5
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.5
+  depth: 8.4
+  categories:
+    architecture: 9.2
+    history: 8.9
+    nature: 8.6

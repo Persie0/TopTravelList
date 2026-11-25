@@ -1,0 +1,17 @@
+id: sight-kn-brimstone-hill-fortress-national-park
+name: "Brimstone Hill Fortress National Park"
+location:
+  country_code: KN
+  latitude: 17.346940
+  longitude: -62.837220
+scores:
+  impact: 9.1
+  uniqueness: 9.0
+  significance: 9.4
+  experience: 8.9
+  depth: 8.6
+  categories:
+    architecture: 9.4
+    history: 9.5
+    culture: 9.1
+    photography: 9.3

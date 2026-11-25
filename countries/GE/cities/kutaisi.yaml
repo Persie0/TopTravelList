@@ -1,0 +1,17 @@
+id: city-ge-kutaisi
+name: "Kutaisi"
+location:
+  country_code: GE
+  latitude: 42.2679
+  longitude: 42.6946
+scores:
+  impact: 7.7
+  uniqueness: 7.8
+  significance: 8.4
+  experience: 7.9
+  depth: 7.6
+  categories:
+    architecture: 8.0
+    history: 8.5
+    culture: 7.9
+    food: 8.0
