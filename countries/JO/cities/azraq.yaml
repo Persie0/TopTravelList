@@ -1,0 +1,15 @@
+id: city-jo-azraq
+name: "Azraq"
+location:
+  country_code: JO
+  latitude: 31.8340
+  longitude: 36.8270
+scores:
+  impact: 6.7
+  uniqueness: 7.2
+  significance: 7.0
+  experience: 6.9
+  depth: 6.5
+  categories:
+    culture: 7.5
+    history: 7.2

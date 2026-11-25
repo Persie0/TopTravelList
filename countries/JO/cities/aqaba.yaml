@@ -1,0 +1,17 @@
+id: city-jo-aqaba
+name: "Aqaba"
+location:
+  country_code: JO
+  latitude: 29.5321
+  longitude: 35.0063
+scores:
+  impact: 7.9
+  uniqueness: 7.8
+  significance: 7.9
+  experience: 8.4
+  depth: 8.0
+  categories:
+    beaches: 8.5
+    food: 8.3
+    relaxation: 8.6
+    culture: 7.8

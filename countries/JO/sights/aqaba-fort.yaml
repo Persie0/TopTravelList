@@ -1,0 +1,15 @@
+id: sight-jo-aqaba-fort
+name: "Aqaba Fort"
+location:
+  country_code: JO
+  latitude: 29.5220
+  longitude: 35.0010
+scores:
+  impact: 7.2
+  uniqueness: 7.4
+  significance: 8.1
+  experience: 7.5
+  depth: 6.9
+  categories:
+    history: 8.5
+    architecture: 7.8

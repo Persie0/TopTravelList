@@ -1,0 +1,15 @@
+id: sight-jo-qasr-al-mushatta
+name: "Qasr Al-Mushatta"
+location:
+  country_code: JO
+  latitude: 31.7343
+  longitude: 36.0101
+scores:
+  impact: 7.6
+  uniqueness: 8.5
+  significance: 8.9
+  experience: 7.5
+  depth: 7.5
+  categories:
+    architecture: 8.8
+    history: 9.0

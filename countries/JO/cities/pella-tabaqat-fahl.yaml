@@ -1,0 +1,15 @@
+id: city-jo-pella-tabaqat-fahl
+name: "Pella (Tabaqat Fahl)"
+location:
+  country_code: JO
+  latitude: 32.4535
+  longitude: 35.6190
+scores:
+  impact: 6.2
+  uniqueness: 6.5
+  significance: 6.6
+  experience: 6.5
+  depth: 6.0
+  categories:
+    culture: 6.8
+    photography: 7.1

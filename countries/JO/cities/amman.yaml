@@ -1,0 +1,17 @@
+id: city-jo-amman
+name: "Amman"
+location:
+  country_code: JO
+  latitude: 31.9539
+  longitude: 35.9106
+scores:
+  impact: 8.5
+  uniqueness: 8.5
+  significance: 8.9
+  experience: 8.7
+  depth: 9.0
+  categories:
+    architecture: 8.6
+    history: 9.0
+    culture: 8.9
+    food: 9.0

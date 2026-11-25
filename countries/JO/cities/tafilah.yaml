@@ -1,0 +1,15 @@
+id: city-jo-tafilah
+name: "Tafilah"
+location:
+  country_code: JO
+  latitude: 30.8375
+  longitude: 35.6044
+scores:
+  impact: 6.7
+  uniqueness: 6.7
+  significance: 6.8
+  experience: 6.9
+  depth: 6.4
+  categories:
+    culture: 7.1
+    photography: 7.2

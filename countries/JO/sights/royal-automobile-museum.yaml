@@ -1,0 +1,16 @@
+id: sight-jo-royal-automobile-museum
+name: "Royal Automobile Museum"
+location:
+  country_code: JO
+  latitude: 31.9839
+  longitude: 35.8274
+scores:
+  impact: 8.0
+  uniqueness: 8.2
+  significance: 7.8
+  experience: 8.3
+  depth: 7.9
+  categories:
+    history: 8.0
+    culture: 8.0
+    family: 8.4

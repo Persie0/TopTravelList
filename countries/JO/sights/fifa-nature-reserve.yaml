@@ -1,0 +1,15 @@
+id: sight-jo-fifa-nature-reserve
+name: "Fifa Nature Reserve"
+location:
+  country_code: JO
+  latitude: 30.9450
+  longitude: 35.4550
+scores:
+  impact: null
+  uniqueness: null
+  significance: 8.0
+  experience: null
+  depth: null
+  categories:
+    nature: 8.0
+    wildlife: null

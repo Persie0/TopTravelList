@@ -1,0 +1,16 @@
+id: sight-jo-shobak-castle-montreal
+name: "Shobak Castle (Montreal)"
+location:
+  country_code: JO
+  latitude: 30.5318
+  longitude: 35.5619
+scores:
+  impact: 8.1
+  uniqueness: 8.4
+  significance: 8.7
+  experience: 8.1
+  depth: 7.8
+  categories:
+    history: 8.9
+    architecture: 8.5
+    photography: 8.5

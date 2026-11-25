@@ -1,0 +1,16 @@
+id: city-jo-jerash
+name: "Jerash"
+location:
+  country_code: JO
+  latitude: 32.2811
+  longitude: 35.8993
+scores:
+  impact: 7.3
+  uniqueness: 7.5
+  significance: 7.7
+  experience: 7.7
+  depth: 7.3
+  categories:
+    culture: 7.8
+    history: 8.0
+    food: 7.6

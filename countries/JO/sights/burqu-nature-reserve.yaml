@@ -1,0 +1,15 @@
+id: sight-jo-burqu-nature-reserve
+name: "Burqu Nature Reserve"
+location:
+  country_code: JO
+  latitude: 32.5950
+  longitude: 37.9630
+scores:
+  impact: null
+  uniqueness: null
+  significance: 8.0
+  experience: null
+  depth: null
+  categories:
+    nature: 8.2
+    wildlife: null

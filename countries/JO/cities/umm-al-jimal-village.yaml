@@ -1,0 +1,15 @@
+id: city-jo-umm-al-jimal-village
+name: "Umm Al-Jimal Village"
+location:
+  country_code: JO
+  latitude: 32.3280
+  longitude: 36.3740
+scores:
+  impact: 6.5
+  uniqueness: 7.0
+  significance: 6.8
+  experience: 6.7
+  depth: 6.1
+  categories:
+    culture: 7.2
+    photography: 7.1

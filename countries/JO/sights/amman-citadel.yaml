@@ -1,0 +1,16 @@
+id: sight-jo-amman-citadel
+name: "Amman Citadel"
+location:
+  country_code: JO
+  latitude: 31.9548
+  longitude: 35.9345
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 9.0
+  experience: 8.8
+  depth: 8.4
+  categories:
+    history: 9.2
+    architecture: 8.8
+    photography: 8.9

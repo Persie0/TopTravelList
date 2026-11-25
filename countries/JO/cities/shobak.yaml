@@ -1,0 +1,16 @@
+id: city-jo-shobak
+name: "Shobak"
+location:
+  country_code: JO
+  latitude: 30.5208
+  longitude: 35.5736
+scores:
+  impact: 6.8
+  uniqueness: 7.1
+  significance: 7.1
+  experience: 6.9
+  depth: 6.3
+  categories:
+    culture: 7.3
+    photography: 7.5
+    history: 7.4

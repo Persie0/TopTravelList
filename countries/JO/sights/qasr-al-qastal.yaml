@@ -1,0 +1,15 @@
+id: sight-jo-qasr-al-qastal
+name: "Qasr Al-Qastal"
+location:
+  country_code: JO
+  latitude: 31.7416
+  longitude: 35.9494
+scores:
+  impact: 6.9
+  uniqueness: 7.8
+  significance: 8.2
+  experience: 7.0
+  depth: 6.8
+  categories:
+    architecture: 8.0
+    history: 8.5

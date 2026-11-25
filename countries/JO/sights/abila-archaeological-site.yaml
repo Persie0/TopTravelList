@@ -1,0 +1,15 @@
+id: sight-jo-abila-archaeological-site
+name: "Abila Archaeological Site"
+location:
+  country_code: JO
+  latitude: 32.6840
+  longitude: 35.8670
+scores:
+  impact: 7.3
+  uniqueness: 7.9
+  significance: 8.3
+  experience: 7.1
+  depth: 7.2
+  categories:
+    history: 8.6
+    architecture: 8.0

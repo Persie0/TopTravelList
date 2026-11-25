@@ -1,0 +1,16 @@
+id: sight-jo-ad-deir-monastery
+name: "Ad-Deir (Monastery)"
+location:
+  country_code: JO
+  latitude: 30.3380
+  longitude: 35.4314
+scores:
+  impact: 9.6
+  uniqueness: 9.5
+  significance: 9.1
+  experience: 9.2
+  depth: 8.2
+  categories:
+    architecture: 9.6
+    photography: 9.7
+    history: 9.1

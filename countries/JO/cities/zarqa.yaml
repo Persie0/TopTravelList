@@ -1,0 +1,15 @@
+id: city-jo-zarqa
+name: "Zarqa"
+location:
+  country_code: JO
+  latitude: 32.0728
+  longitude: 36.0870
+scores:
+  impact: 6.0
+  uniqueness: 6.1
+  significance: 6.7
+  experience: 6.5
+  depth: 6.7
+  categories:
+    culture: 6.8
+    food: 7.0
