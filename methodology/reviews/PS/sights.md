@@ -296,7 +296,7 @@
 - YAML: [source](../../../countries/PS/sights/throne-villages.yaml)
 - Action: new
 - Precise subject: Throne Villages; representative Deir Ghassaneh component, nomination reverses coordinate labels.
-- Location check: 32.0360, 35.0971; published nomination DMS converted to decimal, representative component; independent GPS check outstanding.
+- Location check: 32.046443, 35.097119; published nomination DMS converted to decimal, representative component; independent GPS check outstanding.
 - Evidence status: **unassessed**.
 - Source evidence: https://whc.unesco.org/en/tentativelists/5717/ — UNESCO-hosted state-party nomination, identity and scope, not independent visitor evidence; accessed or linked 2026-11-25. https://www.gov.uk/foreign-travel-advice/palestine applies separately.
 - Missing facts: Normal permitted visitor scope and accessible condition unresolved.
