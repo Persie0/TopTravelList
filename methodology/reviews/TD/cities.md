@@ -2,6 +2,9 @@
 
 [Worldwide rules](../../../rules.md) · [Future-country workflow](../../future-country-workflow.md). 2026-11-25. [UNESCO inventory](https://whc.unesco.org/en/statesparties/td) confirms two inscribed and seven tentative properties, all represented. [Australian travel advice](https://www.smartraveller.gov.au/destinations/africa/chad) advises against all travel; [UK regional risks](https://www.gov.uk/foreign-travel-advice/chad/regional-risks) identifies restrictions. Scores are intrinsic editorial evaluations of documented normal visitor experiences, not present-day safety or access advice. Parent and component scores are not additive. Points are approximate unless specifically identified as published reference points, not entrances. Begon II's published coordinate is malformed; regional proxy is explicitly provisional. Shared peer ladders require more individual and African comparisons. Evidence is page- or excerpt-level, not comprehensive claim verification.
 
+
+Follow-up 2026-11-25: Moundou and Sarh now carry named geographic references; both remain unranked because ordinary visitor scope is insufficiently established.
+
 ## city-td-n-djamena — N'Djamena — 2026-11-25
 
 - [YAML](../../../countries/TD/cities/n-djamena.yaml) · Action: new · **source-linked-unverified**.
@@ -119,7 +122,7 @@
 ## city-td-moundou — Moundou — 2026-11-25
 
 - [YAML](../../../countries/TD/cities/moundou.yaml) · Action: new · **unassessed**.
-- Scope: Settlement itself, excluding separate sights. GPS 8.57, 16.08: approximate editorial representative point; verify before use.
+- Scope: Settlement itself, excluding separate sights. GPS 8.574375, 16.077216: [GeoNames populated-place reference](https://www.geonames.org/advanced-search.html?country=TD&q=); not district centroid.
 - Worldwide peers (I/U/S/E/D):
   - [Beijing (CN)](../../../countries/CN/cities/beijing.yaml) — 9.7 / 9.7 / 9.9 / 9.5 / 10.0 (97.40/100); upper anchor; unresolved impact (ordinary impact unknown); lower uniqueness (southern commercial center); lower significance (regional economic heritage); unresolved experience (visitor experience unverified); unresolved depth (depth unknown).
   - [Vienna (AT)](../../../countries/AT/cities/vienna.yaml) — 9.2 / 9.0 / 9.5 / 9.2 / 9.4 (92.30/100); related comparison; unresolved impact (ordinary impact unknown); lower uniqueness (southern commercial center); lower significance (regional economic heritage); unresolved experience (visitor experience unverified); unresolved depth (depth unknown).
@@ -132,13 +135,13 @@
 - Depth null: depth unknown.
 - Categories: culture:7.4. Overall: unranked.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked destination-specific source.
+- Evidence: [Named settlement](https://www.geonames.org/2427455/moundou.html) and [GeoNames table](https://www.geonames.org/TD/largest-cities-in-chad.html) confirm identity and provincial administrative role. Checked 2026-11-25; visitor dimensions remain unresolved.
 - Remaining gaps: Normal permitted visitor experience and scope not established.
 
 ## city-td-sarh — Sarh — 2026-11-25
 
 - [YAML](../../../countries/TD/cities/sarh.yaml) · Action: new · **unassessed**.
-- Scope: Settlement itself, excluding separate sights. GPS 9.14, 18.39: approximate editorial representative point; verify before use.
+- Scope: Settlement itself, excluding separate sights. GPS 9.145548, 18.383309: [GeoNames populated-place reference](https://www.geonames.org/advanced-search.html?country=TD&q=); not district centroid.
 - Worldwide peers (I/U/S/E/D):
   - [Siem Reap (KH)](../../../countries/KH/cities/siem-reap.yaml) — 8.8 / 9.0 / 9.3 / 9.0 / 9.2 (90.20/100); upper anchor; unresolved impact (ordinary impact unknown); lower uniqueness (Chari river town); lower significance (regional civic history); unresolved experience (visitor experience unverified); unresolved depth (depth unknown).
   - [Luang Prabang (LA)](../../../countries/LA/cities/luang-prabang.yaml) — 9.2 / 9.4 / 9.3 / 9.2 / 9.0 (92.50/100); related comparison; unresolved impact (ordinary impact unknown); lower uniqueness (Chari river town); lower significance (regional civic history); unresolved experience (visitor experience unverified); unresolved depth (depth unknown).
@@ -151,7 +154,7 @@
 - Depth null: depth unknown.
 - Categories: culture:7.6, history:7.5. Overall: unranked.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked destination-specific source.
+- Evidence: [Named settlement](https://www.geonames.org/2425791/sarh.html) and [GeoNames table](https://www.geonames.org/TD/largest-cities-in-chad.html) confirm identity and provincial administrative role. Checked 2026-11-25; visitor dimensions remain unresolved.
 - Remaining gaps: Normal permitted visitor experience and scope not established.
 
 ## city-td-bardai — Bardaï — 2026-11-25
