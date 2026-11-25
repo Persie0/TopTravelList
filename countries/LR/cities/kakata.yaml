@@ -2,8 +2,8 @@ id: city-lr-kakata
 name: "Kakata"
 location:
   country_code: LR
-  latitude: 6.53
-  longitude: -10.35
+  latitude: 6.531045
+  longitude: -10.353684
 scores:
   impact: 5.9
   uniqueness: 6.7
