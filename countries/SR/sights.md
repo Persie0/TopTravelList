@@ -2,7 +2,7 @@
 
 # Suriname (SR) — Sights & attractions ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**30 ranked** · **7 unassessed** · **37 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,11 +10,54 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, or click its GPS coordinates to open **Google Maps**. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (30)
 
-No sights & attractions have been assessed for **Suriname** yet.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps |
+| ---: | --- | --- | ---: | --- | --- | --- |
+| 1 | [Central Suriname Nature Reserve](sights/central-suriname-nature-reserve.yaml) | Park / reserve | **90.50** | **Nature 9.6**, **Wildlife 9.4**, **Photography 9.1**, Adventure 9.0 | 9.1 / 9.1 / 9.6 / 8.3 / 8.8 | [4, -56.5](https://www.google.com/maps/search/?api=1&query=4,-56.5) |
+| 2 | [Historic Inner City of Paramaribo](sights/historic-inner-city-of-paramaribo.yaml) | Attraction | **89.65** | **Architecture 9.3**, **History 9.3**, **Photography 9.1**, Culture 9.0 | 8.9 / 9.1 / 9.2 / 8.8 / 8.6 | [5.82611, -55.15](https://www.google.com/maps/search/?api=1&query=5.82611,-55.15) |
+| 3 | [Raleighvallen and Voltzberg Visitor Area](sights/raleighvallen-and-voltzberg-visitor-area.yaml) | Attraction | **87.50** | **Photography 9.2**, **Adventure 9.1**, **Nature 9.1**, Wildlife 8.9 | 8.9 / 8.9 / 8.5 / 8.7 / 8.5 | [4.6833, -56.1833](https://www.google.com/maps/search/?api=1&query=4.6833,-56.1833) |
+| 4 | [Bigi Pan Multiple Use Management Area](sights/bigi-pan-multiple-use-management-area.yaml) | Attraction | **86.85** | **Wildlife 9.3**, **Photography 9.1**, **Nature 9.0** | 8.6 / 8.9 / 8.8 / 8.6 / 8.3 | [5.95, -56.79](https://www.google.com/maps/search/?api=1&query=5.95,-56.79) |
+| 5 | [Galibi Nature Reserve](sights/galibi-nature-reserve.yaml) | Park / reserve | **86.55** | **Wildlife 9.4**, **Nature 9.1**, **Photography 8.6** | 8.5 / 9.1 / 9.0 / 8.4 / 7.7 | [5.8, -53.9833](https://www.google.com/maps/search/?api=1&query=5.8,-53.9833) |
+| 6 | [Kasikasima Mountain](sights/kasikasima-mountain.yaml) | Mountain / peak | **85.45** | **Adventure 9.2**, **Photography 9.2**, **Nature 9.0** | 8.9 / 8.7 / 7.9 / 8.8 / 8.0 | [2.9833, -55.4](https://www.google.com/maps/search/?api=1&query=2.9833,-55.4) |
+| 7 | [Saint Peter and Paul Cathedral Basilica](sights/saint-peter-and-paul-cathedral-basilica.yaml) | Religious site | **85.00** | **Architecture 9.2**, **History 8.8**, **Photography 8.8** | 8.6 / 9.0 / 8.6 / 8.2 / 7.2 | [5.8271, -55.1555](https://www.google.com/maps/search/?api=1&query=5.8271,-55.1555) |
+| 8 | [Brownsberg Nature Park](sights/brownsberg-nature-park.yaml) | Park / square | **84.95** | **Nature 9.0**, **Wildlife 8.9**, **Photography 8.8**, Adventure 8.5 | 8.6 / 8.4 / 8.5 / 8.5 / 8.4 | [4.95, -55.1833](https://www.google.com/maps/search/?api=1&query=4.95,-55.1833) |
+| 9 | [Jodensavanne Archaeological Site](sights/jodensavanne-archaeological-site.yaml) | Museum / heritage | **83.45** | **History 9.4**, **Culture 9.0** | 7.8 / 8.9 / 9.2 / 8.0 / 7.4 | [5.431111, -54.982667](https://www.google.com/maps/search/?api=1&query=5.431111,-54.982667) |
+| 10 | [Matapica Turtle Beach](sights/matapica-turtle-beach.yaml) | Beach / bay | **83.30** | **Wildlife 9.2**, **Nature 8.7** | 8.2 / 8.8 / 8.7 / 8.0 / 7.3 | [5.9833, -54.95](https://www.google.com/maps/search/?api=1&query=5.9833,-54.95) |
+| 11 | [Keizerstraat Mosque and Neveh Shalom Synagogue](sights/keizerstraat-mosque-and-neveh-shalom-synagogue.yaml) | Religious site | **82.40** | **Culture 9.1**, **Architecture 8.8**, **History 8.5** | 8.0 / 9.0 / 8.4 / 8.0 / 7.1 | [5.8273, -55.1594](https://www.google.com/maps/search/?api=1&query=5.8273,-55.1594) |
+| 12 | [Blanche Marie Falls](sights/blanche-marie-falls.yaml) | Waterfall | **82.25** | **Nature 8.9**, **Photography 8.9**, **Adventure 8.5** | 8.6 / 8.4 / 7.5 / 8.5 / 7.7 | [4.7833, -56.8833](https://www.google.com/maps/search/?api=1&query=4.7833,-56.8833) |
+| 13 | [Fredberg](sights/fredberg.yaml) | Attraction | **82.00** | **Photography 9.0**, **Adventure 8.9**, **Nature 8.8** | 8.5 / 8.4 / 7.5 / 8.6 / 7.6 | [4.55, -55.85](https://www.google.com/maps/search/?api=1&query=4.55,-55.85) |
+| 14 | [Fort Zeelandia and Surinaams Museum](sights/fort-zeelandia-and-surinaams-museum.yaml) | Fortification | **81.90** | **History 9.0**, **Architecture 8.5**, **Culture 8.4** | 8.0 / 8.2 / 8.7 / 8.2 / 7.7 | [5.8255, -55.151](https://www.google.com/maps/search/?api=1&query=5.8255,-55.151) |
+| 15 | [Peperpot Nature Park](sights/peperpot-nature-park.yaml) | Park / square | **81.45** | **Wildlife 8.8**, **Nature 8.6**, **Adventure 7.9** | 8.0 / 8.2 / 8.1 / 8.5 / 8.0 | [5.779, -55.132](https://www.google.com/maps/search/?api=1&query=5.779,-55.132) |
+| 16 | [Frederiksdorp](sights/frederiksdorp.yaml) | Attraction | **80.25** | **Architecture 8.6**, **History 8.6**, **Culture 8.2** | 7.8 / 8.3 / 8.2 / 8.2 / 7.4 | [5.908, -55.037](https://www.google.com/maps/search/?api=1&query=5.908,-55.037) |
+| 17 | [Fort Nieuw Amsterdam Open Air Museum](sights/fort-nieuw-amsterdam-open-air-museum.yaml) | Fortification | **79.60** | **History 8.7**, **Architecture 8.3** | 7.7 / 8.0 / 8.4 / 8.0 / 7.7 | [5.8878, -55.088](https://www.google.com/maps/search/?api=1&query=5.8878,-55.088) |
+| 18 | [Waterkant](sights/waterkant.yaml) | Attraction | **79.45** | **Photography 8.5**, **Architecture 8.3**, **Food 8.0** | 7.9 / 8.0 / 7.9 / 8.3 / 7.5 | [5.8239, -55.1535](https://www.google.com/maps/search/?api=1&query=5.8239,-55.1535) |
+| 19 | [Saramaka Museum (Pikin Slee)](sights/saramaka-museum-pikin-slee.yaml) | Museum / heritage | **79.40** | **Culture 9.0**, **History 8.5** | 7.6 / 8.5 / 8.3 / 7.9 / 6.9 | [4.2333, -55.45](https://www.google.com/maps/search/?api=1&query=4.2333,-55.45) |
+| 20 | [Braamspunt](sights/braamspunt.yaml) | Attraction | **79.25** | **Photography 8.6**, **Nature 8.5**, **Wildlife 8.4** | 7.9 / 8.3 / 7.9 / 8.0 / 7.0 | [5.9667, -55.15](https://www.google.com/maps/search/?api=1&query=5.9667,-55.15) |
+| 21 | [Suriname River Dolphin Watching (Commewijne Confluence)](sights/suriname-river-dolphin-watching-commewijne-confluence.yaml) | River / waterway | **79.20** | **Wildlife 8.8**, **Nature 8.3** | 8.0 / 8.2 / 7.5 / 8.4 / 7.1 | [5.884, -55.08](https://www.google.com/maps/search/?api=1&query=5.884,-55.08) |
+| 22 | [Mariënburg Sugar Factory Ruins](sights/marienburg-sugar-factory-ruins.yaml) | Museum / heritage | **78.70** | **History 8.9**, **Architecture 7.9** | 7.5 / 8.3 / 8.5 / 7.5 / 7.2 | [5.869, -55.046](https://www.google.com/maps/search/?api=1&query=5.869,-55.046) |
+| 23 | [Brokopondo Reservoir](sights/brokopondo-reservoir.yaml) | Lake | **77.40** | **Photography 8.3**, **Nature 8.1**, **Relaxation 7.9** | 7.8 / 7.8 / 7.3 / 8.0 / 7.9 | [4.9, -55.1](https://www.google.com/maps/search/?api=1&query=4.9,-55.1) |
+| 24 | [Paramaribo Central Market](sights/paramaribo-central-market.yaml) | Market | **76.10** | **Food 8.7**, **Culture 8.3** | 7.4 / 7.9 / 7.0 / 8.3 / 7.7 | [5.8208, -55.1582](https://www.google.com/maps/search/?api=1&query=5.8208,-55.1582) |
+| 25 | [Independence Square](sights/independence-square.yaml) | Park / square | **74.70** | **History 8.6**, **Architecture 8.0** | 7.3 / 7.3 / 8.3 / 7.5 / 6.7 | [5.826, -55.1519](https://www.google.com/maps/search/?api=1&query=5.826,-55.1519) |
+| 26 | [Readytex Art Gallery](sights/readytex-art-gallery.yaml) | Attraction | **73.65** | **Culture 8.3** | 7.2 / 7.4 / 7.5 / 7.7 / 7.0 | [5.824, -55.1575](https://www.google.com/maps/search/?api=1&query=5.824,-55.1575) |
+| 27 | [Palmentuin](sights/palmentuin.yaml) | Attraction | **73.15** | **Photography 8.2**, **Relaxation 8.0** | 7.4 / 7.3 / 7.2 / 7.8 / 6.6 | [5.8274, -55.1515](https://www.google.com/maps/search/?api=1&query=5.8274,-55.1515) |
+| 28 | [Afobaka Dam](sights/afobaka-dam.yaml) | Attraction | **71.90** | **History 8.0**, **Architecture 7.6** | 7.2 / 7.4 / 7.8 / 6.8 / 6.0 | [4.986, -54.992](https://www.google.com/maps/search/?api=1&query=4.986,-54.992) |
+| 29 | [Colakreek Recreation Area](sights/colakreek-recreation-area.yaml) | Attraction | **69.70** | **Relaxation 8.3**, **Family 8.0**, **Nature 7.5** | 7.0 / 7.3 / 6.0 / 7.9 / 6.6 | [5.45, -55.2](https://www.google.com/maps/search/?api=1&query=5.45,-55.2) |
+| 30 | [Overbridge River Resort](sights/overbridge-river-resort.yaml) | River / waterway | **68.05** | **Relaxation 8.3**, **Family 7.9** | 7.0 / 6.8 / 5.8 / 7.9 / 6.6 | [5.4333, -55.05](https://www.google.com/maps/search/?api=1&query=5.4333,-55.05) |
 
-Add destination YAML files in [sights/](sights/), then regenerate the overview files.
+## Not yet fully assessed (7)
+
+These destinations have no rank until all five core scores are assessed.
+
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps |
+| ---: | --- | --- | ---: | --- | --- | --- |
+| — | [Boven Coesewijne Nature Reserve](sights/boven-coesewijne-nature-reserve.yaml) | Park / reserve | **—** | **Nature 8.6**, **Wildlife 8.5** | — / 8.1 / 8.4 / — / — | [5.4, -55.75](https://www.google.com/maps/search/?api=1&query=5.4,-55.75) |
+| — | [Coppename Mouth Nature Reserve](sights/coppename-mouth-nature-reserve.yaml) | Park / reserve | **—** | **Wildlife 9.0**, **Nature 8.6** | — / 8.3 / 8.5 / — / — | [5.9, -55.95](https://www.google.com/maps/search/?api=1&query=5.9,-55.95) |
+| — | [Eilerts de Haan Mountains](sights/eilerts-de-haan-mountains.yaml) | Mountain / peak | **—** | **Nature 8.9** | — / 8.3 / 8.8 / — / — | [3.0, -56.0](https://www.google.com/maps/search/?api=1&query=3.0,-56.0) |
+| — | [Numismatic Museum of Suriname](sights/numismatic-museum-of-suriname.yaml) | Museum / heritage | **—** | **History 7.9** | — / 7.0 / 7.5 / — / — | [5.8247, -55.1557](https://www.google.com/maps/search/?api=1&query=5.8247,-55.1557) |
+| — | [Sipaliwini Nature Reserve](sights/sipaliwini-nature-reserve.yaml) | Park / reserve | **—** | **Nature 9.0** | — / 8.8 / 8.7 / — / — | [2.0, -55.95](https://www.google.com/maps/search/?api=1&query=2.0,-55.95) |
+| — | [Tafelberg Plateau](sights/tafelberg-plateau.yaml) | Attraction | **—** | **Nature 9.3** | — / 9.2 / 9.0 / — / — | [3.9, -56.1833](https://www.google.com/maps/search/?api=1&query=3.9,-56.1833) |
+| — | [Wia Wia Nature Reserve](sights/wia-wia-nature-reserve.yaml) | Park / reserve | **—** | **Wildlife 8.8**, **Nature 8.6** | — / 8.2 / 8.5 / — / — | [5.9, -54.2](https://www.google.com/maps/search/?api=1&query=5.9,-54.2) |
 
 ---
 
