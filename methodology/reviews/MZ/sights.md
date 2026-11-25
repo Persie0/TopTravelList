@@ -488,7 +488,43 @@
 - Final decision: Partial intrinsic assessment; no overall total or wildlife encounter score.
 - Verification still needed: current permissions, visitor-visible scope and claim-level corroboration.
 
+## sight-mz-ibo-historic-town — Ibo Historic Town — 2026-11-25
+
+- YAML: [source](../../../countries/MZ/sights/ibo-historic-town.yaml)
+- Action: new
+- Precise subject: Historic town's documented coral-limestone built ensemble, forts, historic streets and guided heritage interpretation; not the entire island or Quirimbas marine ecosystem.
+- Location check: -12.3416, 40.58639; named town representative point from OSM node 11375675588, not an entrance.
+- Evidence status: **source-linked-unverified**
+- Sources (accessed 2026-11-25):
+  - https://whc.unesco.org/en/tentativelists/5380/ — identifies Ibo's built heritage within tentative Quirimbas property, not separate inscription.
+  - https://hpip.org/en/Contents/Place/321 — detailed architectural inventory and regional traditions.
+  - https://conservation-science.unibo.it/article/view/10672 — conservation research on historic coral-limestone buildings.
+  - https://quirimbas.info/tourandactivities/ibo-history-tour/ — documented guided heritage circuit, not confirmed current availability.
+  - https://lapet.unisi.it/ibo-island-mozambique/ — academic safeguarding project notes cyclone damage and conflict risks.
+  - https://mapcarta.com/14395068 — named mapped town.
+  - https://www.gov.uk/foreign-travel-advice/mozambique — current security restrictions; not a travel recommendation.
+- Missing facts: current building condition and lawful visitor scope; score evaluates documented ordinary historical heritage circuit, not current bookability. No assumption of access during conflict.
+
+### Worldwide peer comparisons
+- [Island of Mozambique Historic Ensemble (MZ)](../../../countries/MZ/sights/island-of-mozambique-heritage.yaml): 9.1/9.3/9.5/8.8/8.9; larger, more substantial inscribed ensemble.
+- [Historic Town of Grand-Bassam (CI)](../../../countries/CI/sights/grand-bassam-historic-town.yaml): 8.6/8.9/9.1/8.4/8.5; broader inscribed colonial townscape.
+- [Island of Gorée (SN)](../../../countries/SN/sights/goree-island.yaml): 9.1/9.3/9.6/9.1/8.7; greater documented international historical significance and interpretation.
+- [Likiep Historic District (MH)](../../../countries/MH/sights/likiep-village-historic-district.yaml): 7.0/8.5/8.4/7.1/7.3; smaller colonial-era built heritage.
+
+### Scoring decisions
+- Impact: 8.2 — distinctive surviving coral-limestone buildings and forts; variable preservation.
+- Uniqueness: 8.7 — interwoven Kimwani, Swahili and Portuguese influences.
+- Significance: 9.0 — important Indian Ocean trading and slavery history, below the inscribed Island of Mozambique.
+- Experience: 8.0 — documented guided historical walks and craft interpretation under ordinary permitted conditions.
+- Depth: 8.1 — several historic structures and streets, limited compared with larger heritage ensembles.
+- Applicable categories: history 9.2, architecture 8.9, culture 8.8.
+- Overall: 84.45/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: provisional intrinsic rating based on documented heritage, not present travel advice.
+- Verification still needed: current integrity, permissions and independent claim verification.
+
 ## Inventory coverage and backlog
 
-[UNESCO inventory](https://whc.unesco.org/en/statesparties/mz/) lists two inscribed and three tentative properties, all represented. Maputo National Park is the Mozambican 2025 extension of the transboundary iSimangaliso property; Manyikeni and Chibuene individually assessed. Quirimbas individual islands (including Ibo) and Vumba rock-art components remain outstanding, as do Ponta do Ouro, additional Maputo museums and other regional sites. No exhaustive inventory claimed.
+[UNESCO inventory](https://whc.unesco.org/en/statesparties/mz/) lists two inscribed and three tentative properties, all represented. Maputo National Park is the Mozambican 2025 extension of the transboundary iSimangaliso property; Manyikeni and Chibuene individually assessed. Other Quirimbas individual islands and Vumba rock-art components remain outstanding, as do Ponta do Ouro, additional Maputo museums and other regional sites. No exhaustive inventory claimed.
 
