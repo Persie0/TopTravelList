@@ -1,0 +1,16 @@
+id: sight-cr-cocos-island-national-park
+name: "Cocos Island National Park"
+location:
+  country_code: CR
+  latitude: 5.533333
+  longitude: -87.066667
+scores:
+  impact: 9.5
+  uniqueness: 9.6
+  significance: 9.7
+  experience: 9.1
+  depth: 9.2
+  categories:
+    nature: 9.7
+    wildlife: 9.7
+    adventure: 9.5

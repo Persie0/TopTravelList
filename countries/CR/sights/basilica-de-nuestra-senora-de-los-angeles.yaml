@@ -1,0 +1,16 @@
+id: sight-cr-basilica-de-nuestra-senora-de-los-angeles
+name: "Basílica de Nuestra Señora de los Ángeles"
+location:
+  country_code: CR
+  latitude: 9.863
+  longitude: -83.912
+scores:
+  impact: 8.0
+  uniqueness: 8.1
+  significance: 8.5
+  experience: 8.1
+  depth: 7.2
+  categories:
+    architecture: 8.6
+    history: 8.6
+    culture: 8.9
