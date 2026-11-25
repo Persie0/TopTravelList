@@ -7,7 +7,7 @@
 - [YAML](../../../countries/TM/sights/ancient-merv-historical-and-cultural-park.yaml) · Action: new · **source-linked-unverified**.
 - Scope: whole listed archaeological landscape. GPS 37.664831, 62.174892: UNESCO published representative point converted from DMS; not an entrance.
 - Worldwide peers (I/U/S/E/D):
-  - [Jerash Archaeological City (JO)](../../../countries/JO/sights/jerash-archaeological-city.yaml) — 9.5 / 9.3 / 9.5 / 9.4 / 9.3 (94.15/100); upper reference; Ancient Merv Historical and Cultural Park has higher provisional uniqueness and higher depth (rare successive oasis cities; many archaeological areas).
+  - [Jerash Archaeological City (JO)](../../../countries/JO/sights/jerash-archaeological-city.yaml) — 9.5 / 9.3 / 9.5 / 9.4 / 9.3 (94.15/100); upper reference; Ancient Merv Historical and Cultural Park has higher provisional uniqueness and lower depth (rare successive oasis cities; many archaeological areas).
   - [Tashkurgan Stone City (CN)](../../../countries/CN/sights/tashkurgan-stone-city.yaml) — 8.8 / 9.3 / 9.2 / 8.8 / 8.2 (89.45/100); related comparator; Ancient Merv Historical and Cultural Park has higher provisional uniqueness and higher depth (rare successive oasis cities; many archaeological areas).
   - [Bat Al Khutm and Al Ayn Archaeological Sites (OM)](../../../countries/OM/sights/bat-al-khutm-and-al-ayn-archaeological-sites.yaml) — 8.0 / 9.2 / 9.4 / 7.8 / 8.4 (85.90/100); related comparator; Ancient Merv Historical and Cultural Park has higher provisional uniqueness and higher depth (rare successive oasis cities; many archaeological areas).
   - [Umm Al-Jimal Archaeological Site (JO)](../../../countries/JO/sights/umm-al-jimal-archaeological-site.yaml) — 8.4 / 8.9 / 9.0 / 8.3 / 8.5 (86.40/100); regional or bounded reference; Ancient Merv Historical and Cultural Park has higher provisional uniqueness and higher depth (rare successive oasis cities; many archaeological areas).
@@ -15,11 +15,13 @@
 - Uniqueness 9.4: rare successive oasis cities.
 - Significance 9.7: international Silk Road and imperial history.
 - Experience 8.3: multi-stop ruin exploration.
-- Depth 9.4: many archaeological areas.
-- Categories: history:9.7, architecture:8.9, culture:9.2, photography:8.9. Overall: 90.85/100.
-- High-score challenge: Significance and history 9.7 reflect successive major oasis cities and historic exchange, not intact architecture. Angkor has greater monumental impact and Jerash more standing urban fabric.. No approved 10.
+- Depth 9.2: documented multi-stop central oasis route, with optional separate Gonur excursion; do not count all 33 mapped components as one ordinary circuit.
+- Categories: history:9.7, architecture:8.9, culture:9.2, photography:8.9. Overall: 90.65/100.
+- High-score challenge: Significance and history 9.7 reflect successive oasis cities and historic exchange, not intact architecture. The ordinary documented tour includes Erk and Gyaur Kala, Kiz Kala and Sultan Sanjar; it does not establish access to all mapped components. Depth 9.2 below displayed Jerash 9.3; no approved 10.
 - Evidence: [Source](https://whc.unesco.org/en/list/886) — UNESCO Ancient Merv property and component map https://whc.unesco.org/en/list/886/maps/; page or excerpt inspected 2026-11-25. Individual claims not fully verified.
 - Remaining gaps: Independent factual, GPS (unless published reference), category and specialist peer verification.
+- Follow-up 2026-11-25: https://www.advantour.com/turkmenistan/tours/merv.htm names the main day-tour stops; https://tm-tourism.com/tours/ancient-merv/ describes Gonur as an optional separate excursion. https://whc.unesco.org/en/list/886/maps/ lists 33 components. Keep full-property identity, calibrate to documented ordinary visit rather than every archaeological area.
+- Follow-up: stored DMS conversion matches current UNESCO component table https://whc.unesco.org/en/list/886/maps/ within rounding tolerance; not entrance.
 
 ## sight-tm-kunya-urgench-archaeological-ensemble — Kunya-Urgench Archaeological Ensemble — 2026-11-25
 
@@ -39,11 +41,12 @@
 - High-score challenge: History 9.5 reflects documented regional architectural influence, below Merv in chronological breadth and Jerash in standing city fabric.. No approved 10.
 - Evidence: [Source](https://whc.unesco.org/en/list/1199) — UNESCO architectural heritage and component context; map https://whc.unesco.org/en/list/1199/maps/; page or excerpt inspected 2026-11-25. Individual claims not fully verified.
 - Remaining gaps: Independent factual, GPS (unless published reference), category and specialist peer verification.
+- Follow-up: stored DMS conversion matches current UNESCO component table https://whc.unesco.org/en/list/1199/maps/ within rounding tolerance; not entrance.
 
 ## sight-tm-parthian-fortresses-of-nisa — Parthian Fortresses of Nisa — 2026-11-25
 
 - [YAML](../../../countries/TM/sights/parthian-fortresses-of-nisa.yaml) · Action: new · **source-linked-unverified**.
-- Scope: Old and New Nisa. GPS 37.95, 58.19: approximate editorial point, independent verification pending.
+- Scope: inscribed Old and New Nisa property, scored for documented ordinary Old Nisa visitor circuit; no presumed full New Nisa visit. GPS 37.951258, 58.210992: Old Nisa representative component; UNESCO DMS converted, not entrance.
 - Worldwide peers (I/U/S/E/D):
   - [Jerash Archaeological City (JO)](../../../countries/JO/sights/jerash-archaeological-city.yaml) — 9.5 / 9.3 / 9.5 / 9.4 / 9.3 (94.15/100); upper reference; Parthian Fortresses of Nisa has lower provisional uniqueness and lower depth (rare Parthian imperial centre evidence; two main areas).
   - [Tashkurgan Stone City (CN)](../../../countries/CN/sights/tashkurgan-stone-city.yaml) — 8.8 / 9.3 / 9.2 / 8.8 / 8.2 (89.45/100); related comparator; Parthian Fortresses of Nisa has lower provisional uniqueness and lower depth (rare Parthian imperial centre evidence; two main areas).
@@ -53,11 +56,13 @@
 - Uniqueness 8.9: rare Parthian imperial centre evidence.
 - Significance 9.4: international imperial heritage.
 - Experience 8.0: interpreted ruins.
-- Depth 8.0: two main areas.
-- Categories: history:9.4, culture:8.7. Overall: 85.05/100.
+- Depth 7.5: documented ordinary Old Nisa ruin circuit; full New Nisa access unverified.
+- Categories: history:9.4, culture:8.7. Overall: 84.55/100.
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Source](https://whc.unesco.org/en/list/1242/) — UNESCO Parthian fortresses description; page or excerpt inspected 2026-11-25. Individual claims not fully verified.
 - Remaining gaps: Independent factual, GPS (unless published reference), category and specialist peer verification.
+- Follow-up 2026-11-25: https://turkmenistan.com/destinations/old-nisa/ and https://hobletsonthego.com/where-weve-been/asia-2/turkmenistan/nisa/ describe the ordinary guided Old Nisa visit; UNESCO https://whc.unesco.org/en/list/1242/maps/ confirms two components. Reduce breadth rather than treating both as equally accessible; no full factual verification.
+- Coordinate follow-up: https://whc.unesco.org/en/list/1242/maps/ (Old Nisa representative component); previous 37.95, 58.19.
 
 ## sight-tm-yangykala-canyon — Yangykala Canyon — 2026-11-25
 
@@ -77,6 +82,7 @@
 - High-score challenge: Impact and photography reflect extensive colored relief, but Wadi Rum offers greater landform diversity and cultural depth.. No approved 10.
 - Evidence: [Source](https://akgamys.travel/destinations) — Tour operator directory excerpt, named destination and broad characteristics only; page or excerpt inspected 2026-11-25. Individual claims not fully verified.
 - Remaining gaps: Independent factual, GPS (unless published reference), category and specialist peer verification.
+- Follow-up: https://caravanistan.com/turkmenistan/yangikala-canyon/ and https://tm-tourism.com/tours/yangykala-canyon/ describe scenic canyon visits; different geographic references locate different parts of the extensive landscape. Preserve approximate point pending specific representative viewpoint verification. Do not infer safe rim access or unrestricted travel; https://travel.gc.ca/destinations/turkmenistan describes restricted regions.
 
 ## sight-tm-darvaza-gas-crater — Darvaza Gas Crater — 2026-11-25
 
@@ -96,6 +102,7 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Source](https://central-asia.guide/turkmenistan/destinations-tr/darvaza-gas-crater/) — 17 November 2026 guide reports smaller flame pockets and continued guided visits; June 2026 satellite study https://doi.org/10.1029/2025GL120321 reports reduced flaring. Historic peak flame not assumed; page or excerpt inspected 2026-11-25. Individual claims not fully verified.
 - Remaining gaps: Independent factual, GPS (unless published reference), category and specialist peer verification.
+- Follow-up 2026-11-25: https://central-asia.guide/turkmenistan/destinations-tr/darvaza-gas-crater/ reports smaller flames on November 2026 visits; https://satlib.cira.colostate.edu/weather_media/fires-reduce-in-the-darvaza-gas-crater/ supports decline through May 2025 and https://doi.org/10.1029/2025GL120321 documents measured methane variability. Retain 77.50 and avoid historic peak-flame assumptions. Tour operator observations are not safety or current-access guarantees.
 
 ## sight-tm-kopet-dag-mountain-landscape — Kopet Dag Mountain Landscape — 2026-11-25
 
@@ -167,11 +174,12 @@
 - Uniqueness 8.9: dinosaur tracks and karst.
 - Significance 8.7: regional geological heritage.
 - Experience 8.2: guided visits to selected features.
-- Depth 8.5: multiple locations.
-- Categories: nature:9.2, photography:9.2, adventure:8.6. Overall: 86.85/100.
+- Depth 8.0: documented guided dinosaur plateau and selected gorge or cave visits, excluding specialist cave systems and protected areas.
+- Categories: nature:9.2, photography:9.2, adventure:8.6. Overall: 86.35/100.
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Source](https://visiturkmenistan.com/en/tours) — Tour itinerary excerpt names Koytendag cave and dinosaur footprints; page or excerpt inspected 2026-11-25. Individual claims not fully verified.
 - Remaining gaps: Independent factual, GPS (unless published reference), category and specialist peer verification.
+- Follow-up: https://turkmenistan.com/destinations/koytendag/ names the dinosaur plateau, Kyrk Gyz and other tour stops; https://www.turkmenistan.gov.tm/en/post/15727/koytendag-a-journey-to-the-realm-of-gorges-and-underground-labyrinths describes wider protected features. https://whc.unesco.org/en/tentativelists/6887/ describes the overlapping 2025 nomination; it does not demonstrate access to all caves. Do not infer current plateau closure or unrestricted access. Keep newer nomination unranked.
 
 ## sight-tm-karst-canyons-and-caves-of-kugitang — Karst Canyons and Caves of Kugitang — 2026-11-25
 
@@ -552,6 +560,7 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Source](https://whc.unesco.org/en/list/886) — UNESCO Ancient Merv property and component map https://whc.unesco.org/en/list/886/maps/; page or excerpt inspected 2026-11-25. Individual claims not fully verified.
 - Remaining gaps: Independent factual, GPS (unless published reference), category and specialist peer verification.
+- Follow-up: stored DMS conversion matches current UNESCO component table https://whc.unesco.org/en/list/886/maps/ within rounding tolerance; not entrance.
 
 ## sight-tm-greater-and-lesser-kiz-kala — Greater and Lesser Kiz Kala — 2026-11-25
 
@@ -571,6 +580,7 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Source](https://whc.unesco.org/en/list/886) — UNESCO Ancient Merv property and component map https://whc.unesco.org/en/list/886/maps/; page or excerpt inspected 2026-11-25. Individual claims not fully verified.
 - Remaining gaps: Independent factual, GPS (unless published reference), category and specialist peer verification.
+- Follow-up: stored DMS conversion matches current UNESCO component table https://whc.unesco.org/en/list/886/maps/ within rounding tolerance; not entrance.
 
 ## sight-tm-sultan-sanjar-mausoleum — Sultan Sanjar Mausoleum — 2026-11-25
 
@@ -609,6 +619,7 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Source](https://whc.unesco.org/en/list/1199) — UNESCO architectural heritage and component context; map https://whc.unesco.org/en/list/1199/maps/; page or excerpt inspected 2026-11-25. Individual claims not fully verified.
 - Remaining gaps: Independent factual, GPS (unless published reference), category and specialist peer verification.
+- Follow-up: stored DMS conversion matches current UNESCO component table https://whc.unesco.org/en/list/1199/maps/ within rounding tolerance; not entrance.
 
 ## sight-tm-ibn-khajib-mausoleum-and-medressa — Ibn Khajib Mausoleum and Medressa — 2026-11-25
 
@@ -628,6 +639,7 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Source](https://whc.unesco.org/en/list/1199) — UNESCO architectural heritage and component context; map https://whc.unesco.org/en/list/1199/maps/; page or excerpt inspected 2026-11-25. Individual claims not fully verified.
 - Remaining gaps: Confirm safe permitted ordinary visitor routes and interpretation before completing scores.
+- Follow-up: stored DMS conversion matches current UNESCO component table https://whc.unesco.org/en/list/1199/maps/ within rounding tolerance; not entrance.
 
 ## sight-tm-kutlug-timur-minaret — Kutlug Timur Minaret — 2026-11-25
 
