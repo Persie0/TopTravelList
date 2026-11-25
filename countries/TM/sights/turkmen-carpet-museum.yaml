@@ -1,0 +1,15 @@
+id: sight-tm-turkmen-carpet-museum
+name: "Turkmen Carpet Museum"
+location:
+  country_code: TM
+  latitude: 37.94
+  longitude: 58.38
+scores:
+  impact: 7.6
+  uniqueness: 8.6
+  significance: 8.2
+  experience: 7.9
+  depth: 7.6
+  categories:
+    culture: 9.0
+    history: 8.5

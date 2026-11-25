@@ -1,0 +1,16 @@
+id: city-km-mutsamudu
+name: "Mutsamudu"
+location:
+  country_code: KM
+  latitude: -12.1670
+  longitude: 44.3950
+scores:
+  impact: 7.8
+  uniqueness: 8.4
+  significance: 8.3
+  experience: 7.8
+  depth: 7.4
+  categories:
+    history: 8.8
+    culture: 8.8
+    architecture: 8.4

@@ -1,0 +1,15 @@
+id: sight-pk-hingol
+name: "Hingol Cultural Landscape"
+location:
+  country_code: PK
+  latitude: 25.55
+  longitude: 65.51
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 8.2
+  experience: null
+  depth: null
+  categories:
+    nature: 9.0
+    photography: 9.1

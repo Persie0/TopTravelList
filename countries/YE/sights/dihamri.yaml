@@ -1,0 +1,16 @@
+id: sight-ye-dihamri
+name: "Dihamri Marine Protected Area"
+location:
+  country_code: YE
+  latitude: 12.69
+  longitude: 54.19
+scores:
+  impact: 8.4
+  uniqueness: 8.2
+  significance: 8.3
+  experience: 8.5
+  depth: 7.8
+  categories:
+    nature: 8.8
+    wildlife: 8.7
+    adventure: 8.7

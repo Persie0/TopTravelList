@@ -1,0 +1,16 @@
+id: sight-dm-fort-shirley
+name: "Fort Shirley"
+location:
+  country_code: DM
+  latitude: 15.586
+  longitude: -61.475
+scores:
+  impact: 8.1
+  uniqueness: 8.4
+  significance: 8.7
+  experience: 8.3
+  depth: 7.6
+  categories:
+    history: 9.2
+    architecture: 8.8
+    photography: 8.7

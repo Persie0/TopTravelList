@@ -1,0 +1,15 @@
+id: city-lc-vieux-fort
+name: "Vieux Fort"
+location:
+  country_code: LC
+  latitude: 13.729
+  longitude: -60.954
+scores:
+  impact: 6.9
+  uniqueness: 7.4
+  significance: 7.0
+  experience: 7.7
+  depth: 7.0
+  categories:
+    culture: 8.0
+    food: 7.8

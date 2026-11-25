@@ -1,0 +1,17 @@
+id: city-lc-castries
+name: "Castries"
+location:
+  country_code: LC
+  latitude: 14.010
+  longitude: -60.987
+scores:
+  impact: 7.5
+  uniqueness: 7.9
+  significance: 8.2
+  experience: 8.0
+  depth: 8.0
+  categories:
+    culture: 8.6
+    history: 8.5
+    architecture: 8.1
+    food: 8.3

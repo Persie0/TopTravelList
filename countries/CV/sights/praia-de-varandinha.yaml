@@ -1,0 +1,15 @@
+id: sight-cv-praia-de-varandinha
+name: "Praia de Varandinha"
+location:
+  country_code: CV
+  latitude: 16.0430
+  longitude: -22.9560
+scores:
+  impact: 8.8
+  uniqueness: 8.5
+  significance: 6.2
+  experience: 8.1
+  depth: 6.8
+  categories:
+    beaches: 9.0
+    photography: 9.3

@@ -1,0 +1,15 @@
+id: sight-ph-mount-apo
+name: "Mount Apo Natural Park"
+location:
+  country_code: PH
+  latitude: 6.987
+  longitude: 125.27
+scores:
+  impact: 8.8
+  uniqueness: 8.6
+  significance: 8.6
+  experience: 8.6
+  depth: 8.5
+  categories:
+    nature: 9.0
+    adventure: 9.0

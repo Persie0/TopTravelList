@@ -1,0 +1,14 @@
+id: city-tm-dashoguz
+name: "Dashoguz"
+location:
+  country_code: TM
+  latitude: 41.84
+  longitude: 59.97
+scores:
+  impact: 6.3
+  uniqueness: 6.7
+  significance: 6.8
+  experience: 7.0
+  depth: 6.5
+  categories:
+    culture: 7.3

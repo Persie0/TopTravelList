@@ -1,0 +1,15 @@
+id: sight-lt-kaunas-castle
+name: "Kaunas Castle"
+location:
+  country_code: LT
+  latitude: 54.899
+  longitude: 23.886
+scores:
+  impact: 8.0
+  uniqueness: 8.0
+  significance: 8.3
+  experience: 8.1
+  depth: 7.4
+  categories:
+    architecture: 8.4
+    history: 8.7

@@ -1,0 +1,17 @@
+id: sight-mm-bagan
+name: "Bagan Archaeological Landscape"
+location:
+  country_code: MM
+  latitude: 21.17
+  longitude: 94.86
+scores:
+  impact: 9.4
+  uniqueness: 9.4
+  significance: 9.4
+  experience: 9.2
+  depth: 9.4
+  categories:
+    architecture: 9.4
+    history: 9.4
+    culture: 9.4
+    photography: 9.4

@@ -1,0 +1,15 @@
+id: city-lt-siauliai
+name: "Šiauliai"
+location:
+  country_code: LT
+  latitude: 55.934
+  longitude: 23.313
+scores:
+  impact: 7.1
+  uniqueness: 7.2
+  significance: 7.5
+  experience: 7.7
+  depth: 7.6
+  categories:
+    culture: 8
+    history: 7.8

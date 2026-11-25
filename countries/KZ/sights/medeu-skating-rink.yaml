@@ -1,0 +1,15 @@
+id: sight-kz-medeu-skating-rink
+name: "Medeu Skating Rink"
+location:
+  country_code: KZ
+  latitude: 43.157
+  longitude: 77.058
+scores:
+  impact: 8.1
+  uniqueness: 8.2
+  significance: 7.5
+  experience: 8.7
+  depth: 7.2
+  categories:
+    photography: 8.7
+    family: 8.6

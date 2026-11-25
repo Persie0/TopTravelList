@@ -1,0 +1,16 @@
+id: sight-kg-tulpar-kul-lakes
+name: "Tulpar-Kul Lakes"
+location:
+  country_code: KG
+  latitude: 39.48
+  longitude: 72.93
+scores:
+  impact: 8.9
+  uniqueness: 8.7
+  significance: 7.6
+  experience: 8.8
+  depth: 7.7
+  categories:
+    nature: 9.1
+    photography: 9.3
+    adventure: 8.5

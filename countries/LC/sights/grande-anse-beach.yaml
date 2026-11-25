@@ -1,0 +1,17 @@
+id: sight-lc-grande-anse-beach
+name: "Grande Anse Beach"
+location:
+  country_code: LC
+  latitude: 14.032
+  longitude: -60.900
+scores:
+  impact: 8.7
+  uniqueness: 8.3
+  significance: 7.3
+  experience: 7.6
+  depth: 7.1
+  categories:
+    nature: 8.8
+    photography: 9.2
+    wildlife: 8.5
+    beaches: 8.6

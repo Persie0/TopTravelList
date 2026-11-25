@@ -1,0 +1,14 @@
+id: city-tj-vanj
+name: "Vanj"
+location:
+  country_code: TJ
+  latitude: 38.37
+  longitude: 71.45
+scores:
+  impact: 6.9
+  uniqueness: 7.5
+  significance: 6.5
+  experience: 7.2
+  depth: 6.2
+  categories:
+    culture: 7.6

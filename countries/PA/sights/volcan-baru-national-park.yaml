@@ -1,0 +1,16 @@
+id: sight-pa-volcan-baru-national-park
+name: "Volcán Barú National Park"
+location:
+  country_code: PA
+  latitude: 8.808
+  longitude: -82.543
+scores:
+  impact: 9.0
+  uniqueness: 8.5
+  significance: 8.3
+  experience: 9.0
+  depth: 8.4
+  categories:
+    adventure: 9.3
+    nature: 9.1
+    photography: 9.2

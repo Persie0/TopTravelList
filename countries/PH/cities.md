@@ -2,7 +2,7 @@
 
 # Philippines (PH) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**15 ranked** · **0 unassessed** · **15 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,25 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (15)
 
-No cities, towns & villages have been assessed for **Philippines** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Vigan](cities/vigan.yaml) | City / town | **86.00** | **Architecture 9.1**, **Photography 9.0**, **History 8.9** | 8.6 / 8.9 / 8.7 / 8.5 / 7.8 | [17.5747, 120.3869](https://www.google.com/maps/search/?api=1&query=17.5747,120.3869) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Vigan%2C%20Philippines) |
+| 2 | [Manila](cities/manila.yaml) | City / town | **84.15** | **History 8.9**, **Culture 8.6**, **Food 8.4** | 8.2 / 8.5 / 8.8 / 8.0 / 8.7 | [14.5995, 120.9842](https://www.google.com/maps/search/?api=1&query=14.5995,120.9842) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Manila%2C%20Philippines) |
+| 3 | [Cebu City](cities/cebu-city.yaml) | City / town | **80.25** | **History 8.7**, **Culture 8.3**, **Food 8.3** | 7.8 / 7.9 / 8.5 / 8.0 / 8.1 | [10.3157, 123.8854](https://www.google.com/maps/search/?api=1&query=10.3157,123.8854) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cebu%20City%2C%20Philippines) |
+| 4 | [Sagada](cities/sagada.yaml) | City / town | **79.60** | **Nature 8.4**, **Culture 8.2** | 8.0 / 8.3 / 7.6 / 8.1 / 7.5 | [17.0804, 120.9](https://www.google.com/maps/search/?api=1&query=17.0804,120.9) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sagada%2C%20Philippines) |
+| 5 | [Iloilo City](cities/iloilo-city.yaml) | City / town | **78.75** | **Food 8.6**, **Architecture 8.3**, **History 8.2** | 7.7 / 7.8 / 8.0 / 8.1 / 8.0 | [10.7202, 122.5621](https://www.google.com/maps/search/?api=1&query=10.7202,122.5621) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Iloilo%20City%2C%20Philippines) |
+| 6 | [Banaue](cities/banaue.yaml) | City / town | **78.30** | **Photography 8.5**, **Nature 8.4**, **Culture 8.3** | 8.0 / 8.0 / 7.8 / 7.8 / 7.0 | [16.913, 121.061](https://www.google.com/maps/search/?api=1&query=16.913,121.061) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Banaue%2C%20Philippines) |
+| 7 | [Basco](cities/basco.yaml) | City / town | **76.80** | **Photography 8.3**, **Nature 8.2**, **Architecture 8.0** | 7.9 / 8.1 / 7.2 / 7.7 / 6.9 | [20.4487, 121.9702](https://www.google.com/maps/search/?api=1&query=20.4487,121.9702) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Basco%2C%20Philippines) |
+| 8 | [Baguio](cities/baguio.yaml) | City / town | **76.40** | **Culture 8.0**, **Food 7.9**, **Nature 7.9** | 7.6 / 7.6 / 7.4 / 8.0 / 7.8 | [16.4023, 120.596](https://www.google.com/maps/search/?api=1&query=16.4023,120.596) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Baguio%2C%20Philippines) |
+| 9 | [Davao City](cities/davao-city.yaml) | City / town | **74.80** | **Food 8.1**, **Culture 7.9** | 7.2 / 7.4 / 7.5 / 7.8 / 8.0 | [7.1907, 125.4553](https://www.google.com/maps/search/?api=1&query=7.1907,125.4553) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Davao%20City%2C%20Philippines) |
+| 10 | [El Nido Town](cities/el-nido-town.yaml) | Town | **74.35** | **Nature 8.2**, **Relaxation 8.0**, **Food 7.7** | 7.8 / 7.5 / 6.7 / 8.0 / 6.8 | [11.1858, 119.394](https://www.google.com/maps/search/?api=1&query=11.1858,119.394) | [Google Maps](https://www.google.com/maps/search/?api=1&query=El%20Nido%20Town%2C%20Philippines) |
+| 11 | [Legazpi](cities/legazpi.yaml) | City / town | **73.70** | **Nature 8.1**, **Photography 8.1** | 7.5 / 7.2 / 7.3 / 7.6 / 7.2 | [13.1391, 123.7438](https://www.google.com/maps/search/?api=1&query=13.1391,123.7438) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Legazpi%2C%20Philippines) |
+| 12 | [Bacolod](cities/bacolod.yaml) | City / town | **73.30** | **Food 8.5**, **Culture 7.7** | 7.0 / 7.4 / 7.4 / 7.8 / 7.3 | [10.6765, 122.9509](https://www.google.com/maps/search/?api=1&query=10.6765,122.9509) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bacolod%2C%20Philippines) |
+| 13 | [Dumaguete](cities/dumaguete.yaml) | City / town | **73.25** | **Relaxation 7.8**, **Food 7.7** | 7.3 / 7.3 / 7.1 / 7.8 / 7.2 | [9.3068, 123.3054](https://www.google.com/maps/search/?api=1&query=9.3068,123.3054) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Dumaguete%2C%20Philippines) |
+| 14 | [Puerto Princesa](cities/puerto-princesa.yaml) | City / town | **72.15** | **Food 7.6**, **Relaxation 7.5** | 7.1 / 7.1 / 7.1 / 7.6 / 7.5 | [9.7392, 118.7353](https://www.google.com/maps/search/?api=1&query=9.7392,118.7353) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Puerto%20Princesa%2C%20Philippines) |
+| 15 | [Coron Town](cities/coron-town.yaml) | Town | **71.40** | **Nature 7.7**, **Food 7.4** | 7.3 / 7.2 / 6.7 / 7.6 / 6.7 | [12.0004, 120.2043](https://www.google.com/maps/search/?api=1&query=12.0004,120.2043) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Coron%20Town%2C%20Philippines) |
 
 ---
 

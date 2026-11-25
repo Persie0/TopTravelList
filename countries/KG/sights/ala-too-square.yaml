@@ -1,0 +1,15 @@
+id: sight-kg-ala-too-square
+name: "Ala-Too Square"
+location:
+  country_code: KG
+  latitude: 42.875
+  longitude: 74.603
+scores:
+  impact: 7.1
+  uniqueness: 6.9
+  significance: 7.7
+  experience: 7.5
+  depth: 6.5
+  categories:
+    architecture: 7.6
+    history: 8.1

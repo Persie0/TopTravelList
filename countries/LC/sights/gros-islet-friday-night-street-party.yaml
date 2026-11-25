@@ -1,0 +1,16 @@
+id: sight-lc-gros-islet-friday-night-street-party
+name: "Gros Islet Friday Night Street Party"
+location:
+  country_code: LC
+  latitude: 14.080
+  longitude: -60.956
+scores:
+  impact: 7.6
+  uniqueness: 8.4
+  significance: 6.8
+  experience: 8.9
+  depth: 7.0
+  categories:
+    culture: 9.0
+    nightlife: 9.2
+    food: 8.9

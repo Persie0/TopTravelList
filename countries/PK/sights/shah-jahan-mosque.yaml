@@ -1,0 +1,15 @@
+id: sight-pk-shah-jahan-mosque
+name: "Shah Jahan Mosque, Thatta"
+location:
+  country_code: PK
+  latitude: 24.748
+  longitude: 67.929
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 8.5
+  experience: 8.2
+  depth: 7.5
+  categories:
+    architecture: 9.1
+    history: 8.7

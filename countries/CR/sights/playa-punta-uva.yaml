@@ -1,0 +1,16 @@
+id: sight-cr-playa-punta-uva
+name: "Playa Punta Uva"
+location:
+  country_code: CR
+  latitude: 9.643
+  longitude: -82.691
+scores:
+  impact: 8.6
+  uniqueness: 8.3
+  significance: 6.8
+  experience: 8.7
+  depth: 7.3
+  categories:
+    beaches: 9.1
+    relaxation: 9.0
+    photography: 8.9

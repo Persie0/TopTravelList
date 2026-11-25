@@ -1,0 +1,15 @@
+id: sight-ph-cordillera-extension
+name: "Rice Terraces of the Philippine Cordilleras (Proposed Extension)"
+location:
+  country_code: PH
+  latitude: 17.02
+  longitude: 121
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 9.0
+  experience: null
+  depth: null
+  categories:
+    culture: 9.1
+    nature: 9.0
