@@ -2,7 +2,7 @@
 
 # Tanzania (TZ) — Sights & attractions ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**14 ranked** · **8 unassessed** · **22 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,11 +10,39 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (14)
 
-No sights & attractions have been assessed for **Tanzania** yet.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Serengeti National Park](sights/serengeti-national-park.yaml) | Park / reserve | **97.90** | **Wildlife 9.9**, **Nature 9.8**, **Photography 9.8** | 9.9 / 9.8 / 9.8 / 9.6 / 9.7 | [-2.333333, 34.833333](https://www.google.com/maps/search/?api=1&query=-2.333333,34.833333) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Serengeti%20National%20Park%2C%20Tanzania) |
+| 2 | [Ngorongoro Conservation Area](sights/ngorongoro-conservation-area.yaml) | Attraction | **96.55** | **Nature 9.7**, **Photography 9.7**, **Wildlife 9.7**, History 9.5 | 9.7 / 9.7 / 9.8 / 9.4 / 9.5 | [-3.2, 35.5](https://www.google.com/maps/search/?api=1&query=-3.2,35.5) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ngorongoro%20Conservation%20Area%2C%20Tanzania) |
+| 3 | [Kilimanjaro National Park](sights/kilimanjaro-national-park.yaml) | Park / reserve | **95.50** | **Adventure 9.8**, **Nature 9.6**, **Photography 9.5** | 9.7 / 9.6 / 9.4 / 9.4 / 9.5 | [-3.0674, 37.3556](https://www.google.com/maps/search/?api=1&query=-3.0674,37.3556) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kilimanjaro%20National%20Park%2C%20Tanzania) |
+| 4 | [Gombe National Park](sights/gombe-national-park.yaml) | Park / reserve | **92.10** | **Wildlife 9.6**, **Nature 9.3** | 9.1 / 9.4 / 9.5 / 9.2 / 8.5 | [-4.683333, 29.758333](https://www.google.com/maps/search/?api=1&query=-4.683333,29.758333) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Gombe%20National%20Park%2C%20Tanzania) |
+| 5 | [Ruaha National Park](sights/ruaha-national-park.yaml) | Park / reserve | **92.05** | **Wildlife 9.5**, **Nature 9.4** | 9.2 / 9.2 / 9.3 / 9.1 / 9.2 | [-7.75, 35.666667](https://www.google.com/maps/search/?api=1&query=-7.75,35.666667) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ruaha%20National%20Park%2C%20Tanzania) |
+| 6 | [Mahale Mountains National Park](sights/mahale-mountains-national-park.yaml) | Park / reserve | **92.00** | **Nature 9.5**, **Wildlife 9.5** | 9.2 / 9.4 / 9.3 / 9.0 / 8.8 | [-6.23, 29.91](https://www.google.com/maps/search/?api=1&query=-6.23,29.91) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mahale%20Mountains%20National%20Park%2C%20Tanzania) |
+| 7 | [Nyerere National Park](sights/nyerere-national-park.yaml) | Park / reserve | **91.90** | **Nature 9.4**, **Wildlife 9.4** | 9.2 / 9.2 / 9.3 / 9.0 / 9.2 | [-8.2, 37.8](https://www.google.com/maps/search/?api=1&query=-8.2,37.8) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nyerere%20National%20Park%2C%20Tanzania) |
+| 8 | [Stone Town of Zanzibar](sights/stone-town.yaml) | Attraction | **91.75** | **History 9.5**, **Architecture 9.4**, **Culture 9.4** | 9.0 / 9.3 / 9.5 / 9.0 / 9.0 | [-6.162, 39.19](https://www.google.com/maps/search/?api=1&query=-6.162,39.19) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Stone%20Town%20of%20Zanzibar%2C%20Tanzania) |
+| 9 | [Tarangire National Park](sights/tarangire-national-park.yaml) | Park / reserve | **91.55** | **Wildlife 9.5**, **Nature 9.3** | 9.2 / 9.1 / 9.2 / 9.2 / 9.0 | [-3.833333, 36](https://www.google.com/maps/search/?api=1&query=-3.833333,36) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tarangire%20National%20Park%2C%20Tanzania) |
+| 10 | [Ruins of Kilwa Kisiwani](sights/kilwa-kisiwani-ruins.yaml) | Museum / heritage | **90.25** | **History 9.5**, **Architecture 9.2** | 8.8 / 9.3 / 9.5 / 8.6 / 8.7 | [-8.957778, 39.522778](https://www.google.com/maps/search/?api=1&query=-8.957778,39.522778) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ruins%20of%20Kilwa%20Kisiwani%2C%20Tanzania) |
+| 11 | [Udzungwa Mountains National Park](sights/udzungwa-mountains-national-park.yaml) | Park / reserve | **90.05** | **Nature 9.4**, **Wildlife 9.1**, **Adventure 9.0** | 8.9 / 9.1 / 9.3 / 8.8 / 8.8 | [-7.8, 36.75](https://www.google.com/maps/search/?api=1&query=-7.8,36.75) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Udzungwa%20Mountains%20National%20Park%2C%20Tanzania) |
+| 12 | [Kondoa Rock-Art Sites](sights/kondoa-rock-art.yaml) | Attraction | **88.40** | **History 9.4**, **Culture 9.3** | 8.5 / 9.3 / 9.4 / 8.3 / 8.4 | [-4.72, 35.83](https://www.google.com/maps/search/?api=1&query=-4.72,35.83) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kondoa%20Rock-Art%20Sites%2C%20Tanzania) |
+| 13 | [Jozani–Chwaka Bay National Park](sights/jozani-chwaka-bay.yaml) | Park / reserve | **87.30** | **Wildlife 9.3**, **Nature 9.2** | 8.5 / 8.9 / 9.2 / 8.7 / 8.1 | [-6.225, 39.391667](https://www.google.com/maps/search/?api=1&query=-6.225,39.391667) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Jozani%E2%80%93Chwaka%20Bay%20National%20Park%2C%20Tanzania) |
+| 13 | [Ruins of Songo Mnara](sights/songo-mnara-ruins.yaml) | Museum / heritage | **87.30** | **History 9.3**, **Architecture 9.0** | 8.5 / 9.1 / 9.2 / 8.3 / 8.2 | [-9.049444, 39.567222](https://www.google.com/maps/search/?api=1&query=-9.049444,39.567222) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ruins%20of%20Songo%20Mnara%2C%20Tanzania) |
 
-Add destination YAML files in [sights/](sights/), then regenerate the overview files.
+## Not yet fully assessed (8)
+
+These destinations have no rank until all five core scores are assessed.
+
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| — | [Bukoba Geometric Rock Art](sights/bukoba-rock-art.yaml) | Attraction | **—** | **History 9.0** | — / 8.8 / 8.9 / — / — | [-1.332453, 31.805319](https://www.google.com/maps/search/?api=1&query=-1.332453,31.805319) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bukoba%20Geometric%20Rock%20Art%2C%20Tanzania) |
+| — | [Central Slave and Ivory Trade Route](sights/central-slave-ivory-trade-route.yaml) | Attraction | **—** | **History 9.4** | — / 8.9 / 9.3 / — / — | [-6.433333, 38.9](https://www.google.com/maps/search/?api=1&query=-6.433333,38.9) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Central%20Slave%20and%20Ivory%20Trade%20Route%2C%20Tanzania) |
+| — | [Eastern Arc Mountains Forests](sights/eastern-arc-mountains.yaml) | Mountain / peak | **—** | **Nature 9.7**, **Wildlife 9.5** | — / 9.5 / 9.6 / — / — | [-6.5, 36.75](https://www.google.com/maps/search/?api=1&query=-6.5,36.75) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Eastern%20Arc%20Mountains%20Forests%2C%20Tanzania) |
+| — | [Muleba Geometric Rock Art](sights/muleba-rock-art.yaml) | Attraction | **—** | **History 9.1** | — / 8.9 / 9.0 / — / — | [-1.868192, 31.653531](https://www.google.com/maps/search/?api=1&query=-1.868192,31.653531) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Muleba%20Geometric%20Rock%20Art%2C%20Tanzania) |
+| — | [Mwanza Geometric Rock Art](sights/mwanza-rock-art.yaml) | Attraction | **—** | **History 9.0** | — / 8.8 / 8.9 / — / — | [-2.508742, 32.916922](https://www.google.com/maps/search/?api=1&query=-2.508742,32.916922) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mwanza%20Geometric%20Rock%20Art%2C%20Tanzania) |
+| — | [Oldonyo Murwak](sights/oldonyo-murwak.yaml) | Attraction | **—** | **Culture 9.2** | — / 8.8 / 9.0 / — / — | [-3.366667, 37.05](https://www.google.com/maps/search/?api=1&query=-3.366667,37.05) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Oldonyo%20Murwak%2C%20Tanzania) |
+| — | [Selous Game Reserve](sights/selous-game-reserve.yaml) | Attraction | **—** | **Nature 9.4**, **Wildlife 9.3** | — / 9.1 / 9.5 / — / — | [-9, 37.4](https://www.google.com/maps/search/?api=1&query=-9,37.4) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Selous%20Game%20Reserve%2C%20Tanzania) |
+| — | [Tendaguru Palaeontological Site](sights/tendaguru-fossil-site.yaml) | Attraction | **—** | **Nature 9.4**, **History 9.2** | — / 9.3 / 9.5 / — / — | [-10.0502, 39.1166](https://www.google.com/maps/search/?api=1&query=-10.0502,39.1166) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tendaguru%20Palaeontological%20Site%2C%20Tanzania) |
 
 ---
 

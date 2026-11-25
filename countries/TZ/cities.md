@@ -2,7 +2,7 @@
 
 # Tanzania (TZ) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**5 ranked** · **0 unassessed** · **5 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,15 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (5)
 
-No cities, towns & villages have been assessed for **Tanzania** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Zanzibar City](cities/zanzibar-city.yaml) | City / town | **90.15** | **Culture 9.3**, **History 9.3**, **Architecture 9.2**, Food 8.9 | 8.8 / 9.2 / 9.2 / 8.9 / 9.0 | [-6.164, 39.198](https://www.google.com/maps/search/?api=1&query=-6.164,39.198) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Zanzibar%20City%2C%20Tanzania) |
+| 2 | [Bagamoyo](cities/bagamoyo.yaml) | City / town | **82.95** | **History 9.1**, **Culture 8.6** | 7.9 / 8.5 / 8.9 / 8.2 / 7.9 | [-6.44, 38.9](https://www.google.com/maps/search/?api=1&query=-6.44,38.9) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bagamoyo%2C%20Tanzania) |
+| 3 | [Dar es Salaam](cities/dar-es-salaam.yaml) | City / town | **82.60** | **Culture 8.7**, **Food 8.7** | 8.0 / 8.3 / 8.4 / 8.3 / 8.6 | [-6.823, 39.27](https://www.google.com/maps/search/?api=1&query=-6.823,39.27) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Dar%20es%20Salaam%2C%20Tanzania) |
+| 4 | [Arusha](cities/arusha.yaml) | City / town | **77.15** | **Culture 8.3**, **Food 8.0** | 7.5 / 7.7 / 7.8 / 8.0 / 7.8 | [-3.367, 36.683](https://www.google.com/maps/search/?api=1&query=-3.367,36.683) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Arusha%2C%20Tanzania) |
+| 5 | [Moshi](cities/moshi.yaml) | City / town | **75.30** | **Culture 8.0**, **Food 8.0** | 7.4 / 7.6 / 7.5 / 7.8 / 7.4 | [-3.35, 37.33](https://www.google.com/maps/search/?api=1&query=-3.35,37.33) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Moshi%2C%20Tanzania) |
 
 ---
 
