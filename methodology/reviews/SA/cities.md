@@ -578,4 +578,3 @@
 - Approved 10 registry: none.
 - Final decision: Provisional absolute editorial score; Markets and regional food; Modest urban sightseeing breadth.
 - Verification still needed: independent coordinate and visitor fact checks.
-
