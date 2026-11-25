@@ -1,0 +1,15 @@
+id: sight-sa-jabal-ikmah
+name: "Jabal Ikmah Inscriptions"
+location:
+  country_code: SA
+  latitude: 26.68
+  longitude: 37.88
+scores:
+  impact: 8.1
+  uniqueness: 8.8
+  significance: 8.9
+  experience: 8.0
+  depth: 7.4
+  categories:
+    history: 9.0
+    culture: 8.8
