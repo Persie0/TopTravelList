@@ -2,7 +2,7 @@
 
 # Uganda (UG) — Sights & attractions ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**15 ranked** · **8 unassessed** · **23 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,11 +10,40 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (15)
 
-No sights & attractions have been assessed for **Uganda** yet.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Bwindi Impenetrable National Park](sights/bwindi-impenetrable-national-park.yaml) | Park / reserve | **95.45** | **Wildlife 9.8**, **Nature 9.6**, **Adventure 9.4** | 9.6 / 9.7 / 9.6 / 9.4 / 9.1 | [-1.047, 29.692](https://www.google.com/maps/search/?api=1&query=-1.047,29.692) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bwindi%20Impenetrable%20National%20Park%2C%20Uganda) |
+| 2 | [Rwenzori Mountains National Park](sights/rwenzori-mountains-national-park.yaml) | Park / reserve | **93.70** | **Nature 9.6**, **Adventure 9.5**, **Photography 9.4** | 9.4 / 9.5 / 9.4 / 9.1 / 9.3 | [0.223611, 29.924167](https://www.google.com/maps/search/?api=1&query=0.223611,29.924167) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Rwenzori%20Mountains%20National%20Park%2C%20Uganda) |
+| 3 | [Murchison Falls National Park](sights/murchison-falls-national-park.yaml) | Park / reserve | **93.30** | **Nature 9.5**, **Wildlife 9.5**, **Photography 9.4** | 9.4 / 9.3 / 9.3 / 9.3 / 9.3 | [2.146111, 31.811111](https://www.google.com/maps/search/?api=1&query=2.146111,31.811111) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Murchison%20Falls%20National%20Park%2C%20Uganda) |
+| 4 | [Queen Elizabeth National Park](sights/queen-elizabeth-national-park.yaml) | Park / reserve | **92.30** | **Wildlife 9.5**, **Nature 9.4** | 9.2 / 9.2 / 9.3 / 9.2 / 9.3 | [-0.2, 30](https://www.google.com/maps/search/?api=1&query=-0.2,30) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Queen%20Elizabeth%20National%20Park%2C%20Uganda) |
+| 5 | [Mgahinga Gorilla National Park](sights/mgahinga-gorilla-national-park.yaml) | Park / reserve | **91.90** | **Wildlife 9.5**, **Nature 9.4**, **Adventure 9.2** | 9.2 / 9.3 / 9.3 / 9.1 / 8.8 | [-1.383333, 29.65](https://www.google.com/maps/search/?api=1&query=-1.383333,29.65) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mgahinga%20Gorilla%20National%20Park%2C%20Uganda) |
+| 6 | [Kibale National Park](sights/kibale-national-park.yaml) | Park / reserve | **91.85** | **Wildlife 9.6**, **Nature 9.3** | 9.0 / 9.4 / 9.3 / 9.3 / 8.8 | [0.486176, 30.389665](https://www.google.com/maps/search/?api=1&query=0.486176,30.389665) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kibale%20National%20Park%2C%20Uganda) |
+| 7 | [Kidepo Valley National Park](sights/kidepo-valley-national-park.yaml) | Park / reserve | **91.15** | **Nature 9.4**, **Wildlife 9.4** | 9.2 / 9.2 / 9.1 / 8.9 / 9.0 | [3.809186, 33.631872](https://www.google.com/maps/search/?api=1&query=3.809186,33.631872) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kidepo%20Valley%20National%20Park%2C%20Uganda) |
+| 8 | [Tombs of Buganda Kings at Kasubi](sights/kasubi-royal-tombs.yaml) | Museum / heritage | **89.85** | **Culture 9.5**, **History 9.5**, **Architecture 9.4** | 8.8 / 9.3 / 9.5 / 8.6 / 8.3 | [0.329714, 32.554211](https://www.google.com/maps/search/?api=1&query=0.329714,32.554211) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tombs%20of%20Buganda%20Kings%20at%20Kasubi%2C%20Uganda) |
+| 9 | [Mount Elgon National Park (Uganda)](sights/mount-elgon-national-park.yaml) | Park / reserve | **89.70** | **Nature 9.3**, **Adventure 9.1** | 8.9 / 9.0 / 9.2 / 8.8 / 8.9 | [1.01, 34.63](https://www.google.com/maps/search/?api=1&query=1.01,34.63) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mount%20Elgon%20National%20Park%20%28Uganda%29%2C%20Uganda) |
+| 10 | [Semuliki National Park](sights/semuliki-national-park.yaml) | Park / reserve | **87.00** | **Nature 9.2**, **Wildlife 9.0** | 8.5 / 8.9 / 9.0 / 8.5 / 8.5 | [0.82181, 30.062529](https://www.google.com/maps/search/?api=1&query=0.82181,30.062529) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Semuliki%20National%20Park%2C%20Uganda) |
+| 11 | [Lake Bunyonyi](sights/lake-bunyonyi.yaml) | Lake | **86.65** | **Photography 9.2**, **Nature 9.1**, **Relaxation 9.1** | 8.9 / 8.9 / 8.0 / 8.8 / 8.5 | [-1.283333, 29.918056](https://www.google.com/maps/search/?api=1&query=-1.283333,29.918056) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lake%20Bunyonyi%2C%20Uganda) |
+| 12 | [Lake Mburo National Park](sights/lake-mburo-national-park.yaml) | Park / reserve | **86.20** | **Wildlife 9.0**, **Nature 8.9** | 8.6 / 8.6 / 8.6 / 8.8 / 8.5 | [-0.613493, 30.941737](https://www.google.com/maps/search/?api=1&query=-0.613493,30.941737) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lake%20Mburo%20National%20Park%2C%20Uganda) |
+| 13 | [Sipi Falls](sights/sipi-falls.yaml) | Waterfall | **86.15** | **Nature 9.1**, **Photography 9.1**, **Adventure 8.8** | 8.9 / 8.8 / 7.8 / 8.9 / 8.5 | [1.33439, 34.38998](https://www.google.com/maps/search/?api=1&query=1.33439,34.38998) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sipi%20Falls%2C%20Uganda) |
+| 14 | [Kibiro Salt Producing Village](sights/kibiro-salt-village.yaml) | Historic settlement | **85.90** | **Culture 9.3**, **History 9.1** | 8.2 / 9.2 / 9.1 / 8.2 / 7.8 | [1.6765, 31.256111](https://www.google.com/maps/search/?api=1&query=1.6765,31.256111) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kibiro%20Salt%20Producing%20Village%2C%20Uganda) |
+| 15 | [Nyero Rock Paintings](sights/nyero-rock-paintings.yaml) | Attraction | **85.85** | **History 9.3**, **Culture 9.1** | 8.3 / 9.0 / 9.1 / 8.3 / 7.8 | [1.460606, 33.847117](https://www.google.com/maps/search/?api=1&query=1.460606,33.847117) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nyero%20Rock%20Paintings%2C%20Uganda) |
 
-Add destination YAML files in [sights/](sights/), then regenerate the overview files.
+## Not yet fully assessed (8)
+
+These destinations have no rank until all five core scores are assessed.
+
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| — | [Bigo bya Mugyenyi Earthworks](sights/bigo-bya-mugyenyi.yaml) | Attraction | **—** | **History 9.2** | — / 8.9 / 9.1 / — / — | [0.15, 31.25](https://www.google.com/maps/search/?api=1&query=0.15,31.25) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bigo%20bya%20Mugyenyi%20Earthworks%2C%20Uganda) |
+| — | [Dolwe Island Rock Art](sights/dolwe.yaml) | Island | **—** | **History 9.0**, **Culture 8.8** | — / 8.8 / 8.9 / — / — | [-0.459256, 33.700614](https://www.google.com/maps/search/?api=1&query=-0.459256,33.700614) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Dolwe%20Island%20Rock%20Art%2C%20Uganda) |
+| — | [Kachumbala Rock Art](sights/kachumbala.yaml) | Attraction | **—** | **History 9.0**, **Culture 8.8** | — / 8.8 / 8.9 / — / — | [1.213239, 34.117786](https://www.google.com/maps/search/?api=1&query=1.213239,34.117786) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kachumbala%20Rock%20Art%2C%20Uganda) |
+| — | [Kakoro Rock Art](sights/kakoro.yaml) | Attraction | **—** | **History 9.0**, **Culture 8.8** | — / 8.8 / 8.9 / — / — | [1.169758, 34.055494](https://www.google.com/maps/search/?api=1&query=1.169758,34.055494) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kakoro%20Rock%20Art%2C%20Uganda) |
+| — | [Kapiri Rock Art](sights/kapiri.yaml) | Attraction | **—** | **History 9.0**, **Culture 8.8** | — / 8.8 / 8.9 / — / — | [1.647181, 33.7936](https://www.google.com/maps/search/?api=1&query=1.647181,33.7936) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kapiri%20Rock%20Art%2C%20Uganda) |
+| — | [Mukongoro Rock Art](sights/mukongoro.yaml) | Attraction | **—** | **History 9.0**, **Culture 8.8** | — / 8.8 / 8.9 / — / — | [1.330442, 33.875881](https://www.google.com/maps/search/?api=1&query=1.330442,33.875881) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mukongoro%20Rock%20Art%2C%20Uganda) |
+| — | [Ntusi Mounds and Basin](sights/ntusi-mounds.yaml) | Attraction | **—** | **History 9.2** | — / 8.7 / 9.0 / — / — | [0.05, 31.216667](https://www.google.com/maps/search/?api=1&query=0.05,31.216667) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ntusi%20Mounds%20and%20Basin%2C%20Uganda) |
+| — | [Palabek Cultural Landscapes](sights/palabek-cultural-landscapes.yaml) | Coast | **—** | **Culture 9.2**, **History 9.0** | — / 8.9 / 9.1 / — / — | [3.475267, 32.612587](https://www.google.com/maps/search/?api=1&query=3.475267,32.612587) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Palabek%20Cultural%20Landscapes%2C%20Uganda) |
 
 ---
 
