@@ -4,7 +4,7 @@ The registry now contains all 249 official ISO 3166-1 alpha-2 entries and Kosovo
 
 ## Migration policy
 
-Do not create duplicates when an existing parent-country record belongs in a newly registered territory. Before adding each territory, inspect parent YAML coordinates, aliases and existing historical reviews. Move the existing record to the territory, preserving scores until explicitly reviewed; update location code, ID, benchmark/anchor references and active source links; append a dated migration mapping old to new ID. Preserve historical reviews as historical snapshots. Where an old link cannot be redirected, document the mapping. Run full benchmark checks and regenerate rankings for both parents and territory. Until migration, parent records remain authoritative and the territory may be empty. This PR does not move non-Greenland records.
+Do not create duplicates when an existing parent-country record belongs in a newly registered territory. Before adding each territory, inspect parent YAML coordinates, aliases and existing historical reviews. Move the existing record to the territory, preserving scores until explicitly reviewed; update location code, ID, benchmark/anchor references and active source links; append a dated migration mapping old to new ID. Preserve historical reviews as historical snapshots. Where an old link cannot be redirected, document the mapping. Run full benchmark checks and regenerate rankings for both parents and territory. Until migration, parent records remain authoritative and the territory may be empty. Completed migrations are recorded in the log below.
 
 ## Initial migration/research queue (not exhaustive)
 
@@ -36,3 +36,7 @@ Original decisions: [France migration history](reviews/FR/migration-history-PF.m
 | sight-us-san-juan-national-historic-site | sight-pr-san-juan-national-historic-site | Preserve 88.55 score and original approximate point; migrate public NPS fortification component only. |
 
 [Original US review](reviews/US/migration-history-PR.md). No separate duplicate fort or La Fortaleza record created. Parent ranking names checked; exhaustive coordinate and reference audit pending.
+
+### Antarctica coverage — 2026-11-25
+
+AQ has no permanent civilian settlement records. Initial coverage prioritizes named Antarctic Treaty visitor zones and documented vessel-based scenic sites, not blanket continent, peninsula, or island-wide scores. Protected huts at Cape Evans and Cape Royds remain unranked pending ordinary permitted visitor scope. No sovereignty claims or fictional cities are implied. Full cross-registry coordinate and alias audit remains pending.

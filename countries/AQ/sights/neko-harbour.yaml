@@ -1,0 +1,16 @@
+id: sight-aq-neko-harbour
+name: "Neko Harbour"
+location:
+  country_code: AQ
+  latitude: -64.833333
+  longitude: -62.55
+scores:
+  impact: 9.4
+  uniqueness: 9.1
+  significance: 8.5
+  experience: 9.0
+  depth: 8.2
+  categories:
+    nature: 9.4
+    wildlife: 8.8
+    photography: 9.4

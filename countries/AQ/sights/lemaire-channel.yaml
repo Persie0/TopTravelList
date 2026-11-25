@@ -1,0 +1,15 @@
+id: sight-aq-lemaire-channel
+name: "Lemaire Channel"
+location:
+  country_code: AQ
+  latitude: -65.133
+  longitude: -64
+scores:
+  impact: 9.5
+  uniqueness: 9.2
+  significance: 8.3
+  experience: 9.0
+  depth: 8.1
+  categories:
+    nature: 9.4
+    photography: 9.5
