@@ -1,0 +1,15 @@
+id: sight-my-kampung-cina-kuala-terengganu
+name: "Kampung Cina Kuala Terengganu"
+location:
+  country_code: MY
+  latitude: 5.3300
+  longitude: 103.1340
+scores:
+  impact: 7.8
+  uniqueness: 8.0
+  significance: 7.9
+  experience: 8.3
+  depth: 7.6
+  categories:
+    architecture: 8.5
+    culture: 8.5

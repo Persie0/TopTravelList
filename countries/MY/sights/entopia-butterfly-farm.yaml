@@ -1,0 +1,15 @@
+id: sight-my-entopia-butterfly-farm
+name: "Entopia Butterfly Farm"
+location:
+  country_code: MY
+  latitude: 5.4370
+  longitude: 100.2150
+scores:
+  impact: 7.8
+  uniqueness: 7.9
+  significance: 6.9
+  experience: 8.4
+  depth: 7.8
+  categories:
+    family: 8.7
+    wildlife: 8.2

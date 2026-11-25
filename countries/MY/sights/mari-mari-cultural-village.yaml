@@ -1,0 +1,15 @@
+id: sight-my-mari-mari-cultural-village
+name: "Mari Mari Cultural Village"
+location:
+  country_code: MY
+  latitude: 5.9710
+  longitude: 116.1910
+scores:
+  impact: 8.1
+  uniqueness: 8.4
+  significance: 7.8
+  experience: 8.7
+  depth: 8.0
+  categories:
+    culture: 8.9
+    family: 8.6

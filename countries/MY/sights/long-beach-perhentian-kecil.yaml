@@ -1,0 +1,15 @@
+id: sight-my-long-beach-perhentian-kecil
+name: "Long Beach Perhentian Kecil"
+location:
+  country_code: MY
+  latitude: 5.9210
+  longitude: 102.7230
+scores:
+  impact: 8.6
+  uniqueness: 8.2
+  significance: 6.5
+  experience: 8.9
+  depth: 7.9
+  categories:
+    beaches: 9.2
+    nightlife: 8.6

@@ -1,0 +1,17 @@
+id: sight-my-kinabalu-park
+name: "Kinabalu Park"
+location:
+  country_code: MY
+  latitude: 6.0500
+  longitude: 116.5500
+scores:
+  impact: 9.4
+  uniqueness: 9.5
+  significance: 9.5
+  experience: 9.2
+  depth: 9.3
+  categories:
+    nature: 9.7
+    wildlife: 9.3
+    adventure: 9.5
+    photography: 9.4

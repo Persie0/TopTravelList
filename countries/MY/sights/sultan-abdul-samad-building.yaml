@@ -1,0 +1,15 @@
+id: sight-my-sultan-abdul-samad-building
+name: "Sultan Abdul Samad Building"
+location:
+  country_code: MY
+  latitude: 3.1485
+  longitude: 101.6950
+scores:
+  impact: 8.3
+  uniqueness: 8.5
+  significance: 8.5
+  experience: 8.1
+  depth: 7.0
+  categories:
+    architecture: 8.9
+    history: 8.8

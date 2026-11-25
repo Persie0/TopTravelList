@@ -1,0 +1,15 @@
+id: sight-my-sepilok-orangutan-rehabilitation-centre
+name: "Sepilok Orangutan Rehabilitation Centre"
+location:
+  country_code: MY
+  latitude: 5.8660
+  longitude: 117.9470
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 8.9
+  experience: 9.0
+  depth: 8.1
+  categories:
+    wildlife: 9.4
+    nature: 9.0

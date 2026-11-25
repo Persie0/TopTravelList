@@ -1,0 +1,15 @@
+id: sight-my-bornean-sun-bear-conservation-centre
+name: "Bornean Sun Bear Conservation Centre"
+location:
+  country_code: MY
+  latitude: 5.8650
+  longitude: 117.9470
+scores:
+  impact: 8.2
+  uniqueness: 8.7
+  significance: 8.6
+  experience: 8.6
+  depth: 7.7
+  categories:
+    wildlife: 9.2
+    nature: 8.7

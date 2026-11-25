@@ -1,0 +1,16 @@
+id: sight-my-khoo-kongsi
+name: "Khoo Kongsi"
+location:
+  country_code: MY
+  latitude: 5.4144
+  longitude: 100.3375
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 8.6
+  experience: 8.5
+  depth: 7.8
+  categories:
+    architecture: 9.2
+    culture: 9.0
+    history: 8.9

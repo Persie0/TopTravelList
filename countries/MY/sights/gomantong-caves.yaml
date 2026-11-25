@@ -1,0 +1,15 @@
+id: sight-my-gomantong-caves
+name: "Gomantong Caves"
+location:
+  country_code: MY
+  latitude: 5.5300
+  longitude: 118.0700
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 8.2
+  experience: 8.5
+  depth: 8.0
+  categories:
+    nature: 9.1
+    wildlife: 9.0

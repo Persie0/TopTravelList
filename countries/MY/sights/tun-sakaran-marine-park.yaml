@@ -1,0 +1,16 @@
+id: sight-my-tun-sakaran-marine-park
+name: "Tun Sakaran Marine Park"
+location:
+  country_code: MY
+  latitude: 4.6000
+  longitude: 118.7800
+scores:
+  impact: 9.1
+  uniqueness: 9.1
+  significance: 8.5
+  experience: 9.1
+  depth: 9.0
+  categories:
+    nature: 9.4
+    photography: 9.4
+    adventure: 9.3

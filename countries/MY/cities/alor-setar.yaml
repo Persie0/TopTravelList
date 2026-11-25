@@ -1,0 +1,15 @@
+id: city-my-alor-setar
+name: "Alor Setar"
+location:
+  country_code: MY
+  latitude: 6.1248
+  longitude: 100.3678
+scores:
+  impact: 7.4
+  uniqueness: 7.6
+  significance: 7.9
+  experience: 7.8
+  depth: 7.5
+  categories:
+    architecture: 8.3
+    history: 8.3

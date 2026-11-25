@@ -1,0 +1,15 @@
+id: sight-my-lenggong-valley-archaeological-heritage
+name: "Lenggong Valley Archaeological Heritage"
+location:
+  country_code: MY
+  latitude: 5.1050
+  longitude: 100.9700
+scores:
+  impact: 8.0
+  uniqueness: 9.0
+  significance: 9.5
+  experience: 8.0
+  depth: 8.4
+  categories:
+    history: 9.5
+    culture: 8.8

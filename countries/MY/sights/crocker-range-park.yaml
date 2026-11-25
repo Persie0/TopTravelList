@@ -1,0 +1,16 @@
+id: sight-my-crocker-range-park
+name: "Crocker Range Park"
+location:
+  country_code: MY
+  latitude: 5.6500
+  longitude: 116.1000
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 8.7
+  experience: 8.4
+  depth: 8.8
+  categories:
+    nature: 9.3
+    wildlife: 9.0
+    adventure: 9.0

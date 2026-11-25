@@ -1,0 +1,16 @@
+id: sight-my-siti-khadijah-market
+name: "Siti Khadijah Market"
+location:
+  country_code: MY
+  latitude: 6.1300
+  longitude: 102.2380
+scores:
+  impact: 7.9
+  uniqueness: 8.3
+  significance: 7.6
+  experience: 8.5
+  depth: 7.8
+  categories:
+    food: 8.8
+    culture: 8.7
+    photography: 8.7

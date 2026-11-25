@@ -1,0 +1,16 @@
+id: city-my-pantai-cenang
+name: "Pantai Cenang"
+location:
+  country_code: MY
+  latitude: 6.2930
+  longitude: 99.7270
+scores:
+  impact: 7.2
+  uniqueness: 7.0
+  significance: 6.2
+  experience: 8.2
+  depth: 7.6
+  categories:
+    beaches: 8.4
+    relaxation: 8.5
+    nightlife: 8.0

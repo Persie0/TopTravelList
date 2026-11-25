@@ -1,0 +1,16 @@
+id: sight-my-tanjung-aru-beach
+name: "Tanjung Aru Beach"
+location:
+  country_code: MY
+  latitude: 5.9450
+  longitude: 116.0480
+scores:
+  impact: 8.2
+  uniqueness: 7.8
+  significance: 6.6
+  experience: 8.6
+  depth: 7.7
+  categories:
+    photography: 9.0
+    relaxation: 8.8
+    beaches: 8.4

@@ -1,0 +1,15 @@
+id: sight-my-gunung-ledang
+name: "Gunung Ledang"
+location:
+  country_code: MY
+  latitude: 2.3730
+  longitude: 102.6050
+scores:
+  impact: 8.3
+  uniqueness: 8.3
+  significance: 7.8
+  experience: 8.5
+  depth: 8.4
+  categories:
+    nature: 8.9
+    adventure: 9.0

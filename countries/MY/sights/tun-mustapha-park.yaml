@@ -1,0 +1,16 @@
+id: sight-my-tun-mustapha-park
+name: "Tun Mustapha Park"
+location:
+  country_code: MY
+  latitude: 7.0000
+  longitude: 117.0000
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 9.0
+  experience: 8.7
+  depth: 9.1
+  categories:
+    nature: 9.4
+    wildlife: 9.3
+    adventure: 9.2

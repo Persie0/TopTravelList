@@ -1,0 +1,15 @@
+id: sight-my-cherating-mangrove-river
+name: "Cherating Mangrove River"
+location:
+  country_code: MY
+  latitude: 4.1260
+  longitude: 103.3890
+scores:
+  impact: 7.9
+  uniqueness: 8.1
+  significance: 7.4
+  experience: 8.4
+  depth: 7.8
+  categories:
+    nature: 8.7
+    wildlife: 8.5

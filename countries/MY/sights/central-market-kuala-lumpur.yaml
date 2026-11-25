@@ -1,0 +1,15 @@
+id: sight-my-central-market-kuala-lumpur
+name: "Central Market Kuala Lumpur"
+location:
+  country_code: MY
+  latitude: 3.1456
+  longitude: 101.6955
+scores:
+  impact: 7.5
+  uniqueness: 7.4
+  significance: 7.3
+  experience: 8.1
+  depth: 7.7
+  categories:
+    culture: 8.2
+    food: 8.0

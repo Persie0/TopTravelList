@@ -1,0 +1,15 @@
+id: city-my-labuan-victoria
+name: "Labuan Victoria"
+location:
+  country_code: MY
+  latitude: 5.2770
+  longitude: 115.2410
+scores:
+  impact: 7.0
+  uniqueness: 7.0
+  significance: 7.4
+  experience: 7.6
+  depth: 7.2
+  categories:
+    history: 7.9
+    food: 7.8

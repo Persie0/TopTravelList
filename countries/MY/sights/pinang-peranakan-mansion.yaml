@@ -1,0 +1,16 @@
+id: sight-my-pinang-peranakan-mansion
+name: "Pinang Peranakan Mansion"
+location:
+  country_code: MY
+  latitude: 5.4176
+  longitude: 100.3420
+scores:
+  impact: 8.4
+  uniqueness: 8.6
+  significance: 8.5
+  experience: 8.7
+  depth: 8.0
+  categories:
+    culture: 9.1
+    architecture: 8.9
+    history: 8.8

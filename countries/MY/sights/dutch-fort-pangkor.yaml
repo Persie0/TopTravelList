@@ -1,0 +1,14 @@
+id: sight-my-dutch-fort-pangkor
+name: "Dutch Fort Pangkor"
+location:
+  country_code: MY
+  latitude: 4.1950
+  longitude: 100.5810
+scores:
+  impact: 7.3
+  uniqueness: 7.6
+  significance: 7.9
+  experience: 7.6
+  depth: 6.5
+  categories:
+    history: 8.3

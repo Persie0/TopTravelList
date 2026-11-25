@@ -1,0 +1,16 @@
+id: sight-my-talang-satang-national-park
+name: "Talang Satang National Park"
+location:
+  country_code: MY
+  latitude: 1.8160
+  longitude: 110.1770
+scores:
+  impact: 8.5
+  uniqueness: 8.6
+  significance: 8.3
+  experience: 8.5
+  depth: 8.1
+  categories:
+    wildlife: 9.1
+    nature: 9.0
+    beaches: 8.8

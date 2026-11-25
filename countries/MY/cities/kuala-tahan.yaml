@@ -1,0 +1,14 @@
+id: city-my-kuala-tahan
+name: "Kuala Tahan"
+location:
+  country_code: MY
+  latitude: 4.3830
+  longitude: 102.4000
+scores:
+  impact: 6.7
+  uniqueness: 7.2
+  significance: 6.4
+  experience: 7.4
+  depth: 6.7
+  categories:
+    relaxation: 7.7

@@ -1,0 +1,15 @@
+id: sight-my-pantai-cenang-beach
+name: "Pantai Cenang Beach"
+location:
+  country_code: MY
+  latitude: 6.2930
+  longitude: 99.7260
+scores:
+  impact: 8.0
+  uniqueness: 7.5
+  significance: 6.3
+  experience: 8.6
+  depth: 7.9
+  categories:
+    beaches: 8.6
+    relaxation: 8.7

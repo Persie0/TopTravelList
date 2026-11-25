@@ -1,0 +1,15 @@
+id: sight-my-tanjung-piai-national-park
+name: "Tanjung Piai National Park"
+location:
+  country_code: MY
+  latitude: 1.2680
+  longitude: 103.5110
+scores:
+  impact: 7.8
+  uniqueness: 8.2
+  significance: 7.8
+  experience: 8.0
+  depth: 7.6
+  categories:
+    nature: 8.6
+    wildlife: 8.4

@@ -1,0 +1,14 @@
+id: city-my-dungun
+name: "Dungun"
+location:
+  country_code: MY
+  latitude: 4.7560
+  longitude: 103.4190
+scores:
+  impact: 6.6
+  uniqueness: 6.8
+  significance: 6.6
+  experience: 7.3
+  depth: 6.9
+  categories:
+    food: 7.7

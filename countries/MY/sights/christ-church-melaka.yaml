@@ -1,0 +1,15 @@
+id: sight-my-christ-church-melaka
+name: "Christ Church Melaka"
+location:
+  country_code: MY
+  latitude: 2.1941
+  longitude: 102.2497
+scores:
+  impact: 7.7
+  uniqueness: 8.0
+  significance: 8.3
+  experience: 8.0
+  depth: 6.9
+  categories:
+    architecture: 8.5
+    history: 8.6

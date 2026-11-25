@@ -1,0 +1,16 @@
+id: sight-my-tioman-island
+name: "Tioman Island"
+location:
+  country_code: MY
+  latitude: 2.8100
+  longitude: 104.1700
+scores:
+  impact: 9.0
+  uniqueness: 8.8
+  significance: 7.9
+  experience: 9.1
+  depth: 9.0
+  categories:
+    nature: 9.2
+    beaches: 9.2
+    adventure: 9.2

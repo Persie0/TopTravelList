@@ -1,0 +1,15 @@
+id: sight-my-petronas-twin-towers
+name: "Petronas Twin Towers"
+location:
+  country_code: MY
+  latitude: 3.1579
+  longitude: 101.7116
+scores:
+  impact: 9.2
+  uniqueness: 9.1
+  significance: 8.6
+  experience: 8.8
+  depth: 7.9
+  categories:
+    architecture: 9.5
+    photography: 9.3

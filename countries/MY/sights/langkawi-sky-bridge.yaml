@@ -1,0 +1,15 @@
+id: sight-my-langkawi-sky-bridge
+name: "Langkawi Sky Bridge"
+location:
+  country_code: MY
+  latitude: 6.3890
+  longitude: 99.6620
+scores:
+  impact: 8.7
+  uniqueness: 8.7
+  significance: 7.2
+  experience: 8.8
+  depth: 7.5
+  categories:
+    architecture: 8.9
+    photography: 9.2

@@ -1,0 +1,16 @@
+id: sight-my-tabin-wildlife-reserve
+name: "Tabin Wildlife Reserve"
+location:
+  country_code: MY
+  latitude: 5.2000
+  longitude: 118.6500
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 9.0
+  experience: 8.6
+  depth: 8.8
+  categories:
+    wildlife: 9.4
+    nature: 9.3
+    adventure: 9.0

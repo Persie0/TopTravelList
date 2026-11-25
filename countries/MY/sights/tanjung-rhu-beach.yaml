@@ -1,0 +1,15 @@
+id: sight-my-tanjung-rhu-beach
+name: "Tanjung Rhu Beach"
+location:
+  country_code: MY
+  latitude: 6.4580
+  longitude: 99.8190
+scores:
+  impact: 8.6
+  uniqueness: 8.5
+  significance: 6.6
+  experience: 8.8
+  depth: 8.0
+  categories:
+    beaches: 9.1
+    photography: 9.0

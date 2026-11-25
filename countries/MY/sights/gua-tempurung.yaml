@@ -1,0 +1,15 @@
+id: sight-my-gua-tempurung
+name: "Gua Tempurung"
+location:
+  country_code: MY
+  latitude: 4.4150
+  longitude: 101.1880
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 7.7
+  experience: 8.9
+  depth: 8.5
+  categories:
+    nature: 9.0
+    adventure: 9.2

@@ -1,0 +1,16 @@
+id: sight-my-batu-caves
+name: "Batu Caves"
+location:
+  country_code: MY
+  latitude: 3.2379
+  longitude: 101.6840
+scores:
+  impact: 9.1
+  uniqueness: 9.2
+  significance: 8.9
+  experience: 8.9
+  depth: 8.3
+  categories:
+    culture: 9.4
+    nature: 9.0
+    photography: 9.3

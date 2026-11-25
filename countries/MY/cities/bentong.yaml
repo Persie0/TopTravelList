@@ -1,0 +1,14 @@
+id: city-my-bentong
+name: "Bentong"
+location:
+  country_code: MY
+  latitude: 3.5220
+  longitude: 101.9100
+scores:
+  impact: 6.8
+  uniqueness: 7.0
+  significance: 6.8
+  experience: 7.5
+  depth: 7.1
+  categories:
+    food: 8.0

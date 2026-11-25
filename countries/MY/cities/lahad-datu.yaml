@@ -1,0 +1,14 @@
+id: city-my-lahad-datu
+name: "Lahad Datu"
+location:
+  country_code: MY
+  latitude: 5.0268
+  longitude: 118.3270
+scores:
+  impact: 6.3
+  uniqueness: 6.6
+  significance: 6.5
+  experience: 6.9
+  depth: 6.7
+  categories:
+    food: 7.4

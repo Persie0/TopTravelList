@@ -1,0 +1,16 @@
+id: sight-my-sarawak-cultural-village
+name: "Sarawak Cultural Village"
+location:
+  country_code: MY
+  latitude: 1.7490
+  longitude: 110.3170
+scores:
+  impact: 8.4
+  uniqueness: 8.7
+  significance: 8.2
+  experience: 8.8
+  depth: 8.4
+  categories:
+    culture: 9.2
+    architecture: 8.9
+    family: 8.7

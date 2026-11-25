@@ -1,0 +1,16 @@
+id: sight-my-bako-national-park
+name: "Bako National Park"
+location:
+  country_code: MY
+  latitude: 1.7240
+  longitude: 110.4780
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 8.6
+  experience: 9.0
+  depth: 8.8
+  categories:
+    wildlife: 9.3
+    nature: 9.3
+    photography: 9.1

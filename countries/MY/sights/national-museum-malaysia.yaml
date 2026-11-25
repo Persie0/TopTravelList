@@ -1,0 +1,15 @@
+id: sight-my-national-museum-malaysia
+name: "National Museum Malaysia"
+location:
+  country_code: MY
+  latitude: 3.1375
+  longitude: 101.6877
+scores:
+  impact: 7.9
+  uniqueness: 7.9
+  significance: 8.4
+  experience: 8.2
+  depth: 8.1
+  categories:
+    history: 8.8
+    culture: 8.7

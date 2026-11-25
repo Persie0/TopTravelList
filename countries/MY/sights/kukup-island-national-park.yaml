@@ -1,0 +1,15 @@
+id: sight-my-kukup-island-national-park
+name: "Kukup Island National Park"
+location:
+  country_code: MY
+  latitude: 1.3280
+  longitude: 103.4250
+scores:
+  impact: 8.0
+  uniqueness: 8.3
+  significance: 8.0
+  experience: 8.2
+  depth: 8.0
+  categories:
+    nature: 8.8
+    wildlife: 8.6

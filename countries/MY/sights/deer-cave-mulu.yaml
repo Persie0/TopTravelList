@@ -1,0 +1,16 @@
+id: sight-my-deer-cave-mulu
+name: "Deer Cave Mulu"
+location:
+  country_code: MY
+  latitude: 4.0250
+  longitude: 114.8150
+scores:
+  impact: 9.4
+  uniqueness: 9.5
+  significance: 9.0
+  experience: 9.3
+  depth: 8.6
+  categories:
+    nature: 9.5
+    photography: 9.4
+    adventure: 9.1

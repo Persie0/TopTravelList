@@ -1,0 +1,15 @@
+id: sight-my-manukan-island
+name: "Manukan Island"
+location:
+  country_code: MY
+  latitude: 5.9750
+  longitude: 115.9960
+scores:
+  impact: 8.3
+  uniqueness: 8.0
+  significance: 6.7
+  experience: 8.7
+  depth: 7.8
+  categories:
+    beaches: 8.9
+    relaxation: 8.8

@@ -1,0 +1,15 @@
+id: sight-my-batu-ferringhi-beach
+name: "Batu Ferringhi Beach"
+location:
+  country_code: MY
+  latitude: 5.4750
+  longitude: 100.2470
+scores:
+  impact: 7.8
+  uniqueness: 7.3
+  significance: 6.4
+  experience: 8.3
+  depth: 7.7
+  categories:
+    beaches: 8.2
+    relaxation: 8.6

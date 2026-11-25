@@ -1,0 +1,16 @@
+id: sight-my-tunku-abdul-rahman-marine-park
+name: "Tunku Abdul Rahman Marine Park"
+location:
+  country_code: MY
+  latitude: 5.9970
+  longitude: 115.9920
+scores:
+  impact: 8.6
+  uniqueness: 8.4
+  significance: 7.7
+  experience: 8.9
+  depth: 8.6
+  categories:
+    nature: 9.0
+    beaches: 9.0
+    adventure: 9.0

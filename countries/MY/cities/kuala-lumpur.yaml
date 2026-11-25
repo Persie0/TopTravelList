@@ -1,0 +1,17 @@
+id: city-my-kuala-lumpur
+name: "Kuala Lumpur"
+location:
+  country_code: MY
+  latitude: 3.1390
+  longitude: 101.6869
+scores:
+  impact: 8.8
+  uniqueness: 8.6
+  significance: 8.5
+  experience: 9.0
+  depth: 9.3
+  categories:
+    food: 9.3
+    architecture: 9.0
+    nightlife: 8.9
+    culture: 8.6

@@ -1,0 +1,16 @@
+id: sight-my-borneo-cultures-museum
+name: "Borneo Cultures Museum"
+location:
+  country_code: MY
+  latitude: 1.5550
+  longitude: 110.3440
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 8.7
+  experience: 8.8
+  depth: 8.8
+  categories:
+    culture: 9.3
+    history: 9.0
+    architecture: 8.7

@@ -1,0 +1,16 @@
+id: sight-my-tropical-spice-garden
+name: "Tropical Spice Garden"
+location:
+  country_code: MY
+  latitude: 5.4670
+  longitude: 100.2280
+scores:
+  impact: 7.8
+  uniqueness: 8.0
+  significance: 7.5
+  experience: 8.5
+  depth: 7.8
+  categories:
+    nature: 8.5
+    relaxation: 8.5
+    culture: 8.2

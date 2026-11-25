@@ -1,0 +1,15 @@
+id: sight-my-sultan-abu-bakar-state-mosque
+name: "Sultan Abu Bakar State Mosque"
+location:
+  country_code: MY
+  latitude: 1.4550
+  longitude: 103.7520
+scores:
+  impact: 8.2
+  uniqueness: 8.4
+  significance: 8.3
+  experience: 8.3
+  depth: 7.5
+  categories:
+    architecture: 8.9
+    history: 8.6

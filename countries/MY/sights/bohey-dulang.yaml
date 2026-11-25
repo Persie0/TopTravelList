@@ -1,0 +1,16 @@
+id: sight-my-bohey-dulang
+name: "Bohey Dulang"
+location:
+  country_code: MY
+  latitude: 4.5940
+  longitude: 118.7830
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 7.6
+  experience: 8.9
+  depth: 7.8
+  categories:
+    photography: 9.5
+    nature: 9.2
+    adventure: 8.8
