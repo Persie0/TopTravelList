@@ -1,0 +1,13 @@
+id: sight-et-negash-village
+name: "Negash (Al-Nejashi) Village"
+location:
+  country_code: ET
+  latitude: 13.88
+  longitude: 39.61
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}

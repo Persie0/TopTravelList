@@ -1,0 +1,17 @@
+id: city-et-addis-ababa
+name: "Addis Ababa"
+location:
+  country_code: ET
+  latitude: 9.03
+  longitude: 38.74
+scores:
+  impact: 8.3
+  uniqueness: 8.3
+  significance: 9.1
+  experience: 8.5
+  depth: 8.7
+  categories:
+    culture: 8.8
+    history: 8.6
+    food: 8.8
+    architecture: 7.8
