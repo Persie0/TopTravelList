@@ -25,6 +25,16 @@
 - Salzburg (Austria): stronger architecture
 - Koh Ker Village (Cambodia): stronger archaeology, similarly small-settlement scope
 
+#### Current YAML benchmark calibration (2026-11-25)
+
+Core values are I/U/S/E/D in that order. Earlier qualitative comparisons remain; these actual YAML checks are editorial comparisons, not new factual verification.
+
+- [Salzburg](../../../countries/AT/cities/salzburg.yaml) — 9.0/8.9/9.0/8.8/8.5; global historic-city benchmark with much greater architectural and visitor breadth.
+- [Kampot](../../../countries/KH/cities/kampot.yaml) — 7.6/7.9/7.5/8.3/7.9; small waterfront town with broader food and heritage experiences.
+- [Rach Gia](../../../countries/VN/cities/rach-gia.yaml) — 7.2/7.5/7.3/7.8/7.9; larger coastal town with more independent public activities.
+- [Kuala Perlis](../../../countries/MY/cities/kuala-perlis.yaml) — 6.5/6.8/6.5/7.2/6.7; modest commercial coastal settlement with established food experiences.
+- [Koh Ker Village](../../../countries/KH/cities/koh-ker-village.yaml) — 7.2/8.0/8.3/7.8/6.9; small settlement with stronger archaeological setting and interpretation.
+
 ### Scoring decisions
 | Field | New rating | Individual justification |
 | --- | ---: | --- |
@@ -60,6 +70,16 @@
 - Kampot (Cambodia): more services and urban variety
 - Luang Prabang (Laos): far broader preserved cultural fabric
 
+#### Current YAML benchmark calibration (2026-11-25)
+
+Core values are I/U/S/E/D in that order. Earlier qualitative comparisons remain; these actual YAML checks are editorial comparisons, not new factual verification.
+
+- [Salzburg](../../../countries/AT/cities/salzburg.yaml) — 9.0/8.9/9.0/8.8/8.5; global historic-city benchmark with much greater architectural and visitor breadth.
+- [Kampot](../../../countries/KH/cities/kampot.yaml) — 7.6/7.9/7.5/8.3/7.9; small waterfront town with broader food and heritage experiences.
+- [Rach Gia](../../../countries/VN/cities/rach-gia.yaml) — 7.2/7.5/7.3/7.8/7.9; larger coastal town with more independent public activities.
+- [Kuala Perlis](../../../countries/MY/cities/kuala-perlis.yaml) — 6.5/6.8/6.5/7.2/6.7; modest commercial coastal settlement with established food experiences.
+- [Koh Ker Village](../../../countries/KH/cities/koh-ker-village.yaml) — 7.2/8.0/8.3/7.8/6.9; small settlement with stronger archaeological setting and interpretation.
+
 ### Scoring decisions
 | Field | New rating | Individual justification |
 | --- | ---: | --- |
@@ -94,6 +114,16 @@
 - Luang Prabang (Laos): broader living historic town
 - Kampot (Cambodia): greater town-life visitor variety
 - Salzburg (Austria): stronger built heritage
+
+#### Current YAML benchmark calibration (2026-11-25)
+
+Core values are I/U/S/E/D in that order. Earlier qualitative comparisons remain; these actual YAML checks are editorial comparisons, not new factual verification.
+
+- [Salzburg](../../../countries/AT/cities/salzburg.yaml) — 9.0/8.9/9.0/8.8/8.5; global historic-city benchmark with much greater architectural and visitor breadth.
+- [Kampot](../../../countries/KH/cities/kampot.yaml) — 7.6/7.9/7.5/8.3/7.9; small waterfront town with broader food and heritage experiences.
+- [Rach Gia](../../../countries/VN/cities/rach-gia.yaml) — 7.2/7.5/7.3/7.8/7.9; larger coastal town with more independent public activities.
+- [Kuala Perlis](../../../countries/MY/cities/kuala-perlis.yaml) — 6.5/6.8/6.5/7.2/6.7; modest commercial coastal settlement with established food experiences.
+- [Koh Ker Village](../../../countries/KH/cities/koh-ker-village.yaml) — 7.2/8.0/8.3/7.8/6.9; small settlement with stronger archaeological setting and interpretation.
 
 ### Scoring decisions
 | Field | New rating | Individual justification |

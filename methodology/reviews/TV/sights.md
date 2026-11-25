@@ -25,6 +25,15 @@
 - Bora Bora Lagoon (France): comparable atoll-like waters but greater volcanic relief
 - Blue Lagoon (Malta): smaller scenic swimming setting
 
+#### Current YAML benchmark calibration (2026-11-25)
+
+Core values are I/U/S/E/D in that order. Earlier qualitative comparisons remain; these actual YAML checks are editorial comparisons, not new factual verification.
+
+- [Cheow Lan Lake](../../../countries/TH/sights/cheow-lan-lake.yaml) — 9.1/9.3/8.5/9.3/8.7; greater vertical scenery and established boat outings.
+- [Tonle Sap Lake](../../../countries/KH/sights/tonle-sap-lake.yaml) — 9.0/9.2/9.5/8.8/9.2; much greater ecological and cultural breadth.
+- [Ba Be Lake](../../../countries/VN/sights/ba-be-lake.yaml) — 8.8/9.0/8.3/9.1/8.5; stronger varied lake scenery and visitor activities.
+- [Achensee](../../../countries/AT/sights/achensee.yaml) — 8.4/8.0/7.1/8.8/8.4; more extensive scenic lake experience, different ecosystem.
+
 ### Scoring decisions
 | Field | New rating | Individual justification |
 | --- | ---: | --- |
@@ -102,6 +111,15 @@
 - Singapore Philatelic Museum (Singapore, historical comparator): more exhibit-oriented scope
 - Made in Cambodia Market (Cambodia): larger craft browsing experience, different subject
 
+#### Current YAML benchmark calibration (2026-11-25)
+
+Core values are I/U/S/E/D in that order. Earlier qualitative comparisons remain; these actual YAML checks are editorial comparisons, not new factual verification.
+
+- [Kunsthistorisches Museum](../../../countries/AT/sights/kunsthistorisches-museum.yaml) — 9.2/9.4/9.6/9.4/9.5; global collection benchmark, not postal subject comparator.
+- [National Museum Malaysia](../../../countries/MY/sights/national-museum-malaysia.yaml) — 7.9/7.9/8.4/8.2/8.1; broader material culture collection.
+- [National Museum of Cambodia](../../../countries/KH/sights/national-museum-cambodia.yaml) — 8.8/9.1/9.3/9.1/8.8; greater documented collection depth.
+- [Made in Cambodia Market](../../../countries/KH/sights/made-in-cambodia-market.yaml) — 7.7/7.8/7.6/8.6/7.9; closer browsing and collecting-related visitor scope, different subject.
+
 ### Scoring decisions
 | Field | New rating | Individual justification |
 | --- | ---: | --- |
@@ -137,7 +155,7 @@
 - [Perhentian Islands](../../../countries/MY/sights/perhentian-islands.yaml) (MY), 9.0/8.8/7.7/9.2/8.9: strong beaches and extensive established recreation; different cultural significance.
 - [Ang Thong National Marine Park](../../../countries/TH/sights/ang-thong-national-marine-park.yaml) (TH), 9.0/9.0/8.6/9.1/8.9: greater dramatic landscape and documented marine itineraries.
 - [Cham Islands](../../../countries/VN/sights/cham-islands.yaml) (VN), 8.8/9.0/8.4/9.0/8.7: comparable island settlement and ecosystem context with broader established visits.
-- [Funafuti Conservation Area](../../../countries/TV/sights/funafuti-conservation-area.yaml) (TV), 8.3/8.4/8.7/7.8/7.3: existing local ecological comparator, restricted islet access requires clarification; not a basis to transfer visitor ratings.
+- [Funafuti Conservation Area](../../../countries/TV/sights/funafuti-conservation-area.yaml) (TV), 8.3/8.4/8.7/7.8/7.0: local ecological comparator; revised depth excludes prohibited islet landings; not a basis to transfer visitor ratings.
 
 - [Tonle Sap Lake](../../../countries/KH/sights/tonle-sap-lake.yaml) (Cambodia), 9.0/9.2/9.5/8.8/9.2: much broader documented cultural and aquatic ecosystem heritage; no assumption of equivalent permitted visitor depth.
 
@@ -174,7 +192,7 @@
 - [Perhentian Islands](../../../countries/MY/sights/perhentian-islands.yaml) (MY), 9.0/8.8/7.7/9.2/8.9: strong beaches and extensive established recreation; different cultural significance.
 - [Ang Thong National Marine Park](../../../countries/TH/sights/ang-thong-national-marine-park.yaml) (TH), 9.0/9.0/8.6/9.1/8.9: greater dramatic landscape and documented marine itineraries.
 - [Cham Islands](../../../countries/VN/sights/cham-islands.yaml) (VN), 8.8/9.0/8.4/9.0/8.7: comparable island settlement and ecosystem context with broader established visits.
-- [Funafuti Conservation Area](../../../countries/TV/sights/funafuti-conservation-area.yaml) (TV), 8.3/8.4/8.7/7.8/7.3: existing local ecological comparator, restricted islet access requires clarification; not a basis to transfer visitor ratings.
+- [Funafuti Conservation Area](../../../countries/TV/sights/funafuti-conservation-area.yaml) (TV), 8.3/8.4/8.7/7.8/7.0: local ecological comparator; revised depth excludes prohibited islet landings; not a basis to transfer visitor ratings.
 
 - [Tonle Sap Lake](../../../countries/KH/sights/tonle-sap-lake.yaml) (Cambodia), 9.0/9.2/9.5/8.8/9.2: much broader documented cultural and aquatic ecosystem heritage; no assumption of equivalent permitted visitor depth.
 
@@ -211,7 +229,7 @@
 - [Perhentian Islands](../../../countries/MY/sights/perhentian-islands.yaml) (MY), 9.0/8.8/7.7/9.2/8.9: strong beaches and extensive established recreation; different cultural significance.
 - [Ang Thong National Marine Park](../../../countries/TH/sights/ang-thong-national-marine-park.yaml) (TH), 9.0/9.0/8.6/9.1/8.9: greater dramatic landscape and documented marine itineraries.
 - [Cham Islands](../../../countries/VN/sights/cham-islands.yaml) (VN), 8.8/9.0/8.4/9.0/8.7: comparable island settlement and ecosystem context with broader established visits.
-- [Funafuti Conservation Area](../../../countries/TV/sights/funafuti-conservation-area.yaml) (TV), 8.3/8.4/8.7/7.8/7.3: existing local ecological comparator, restricted islet access requires clarification; not a basis to transfer visitor ratings.
+- [Funafuti Conservation Area](../../../countries/TV/sights/funafuti-conservation-area.yaml) (TV), 8.3/8.4/8.7/7.8/7.0: local ecological comparator; revised depth excludes prohibited islet landings; not a basis to transfer visitor ratings.
 
 - [Tonle Sap Lake](../../../countries/KH/sights/tonle-sap-lake.yaml) (Cambodia), 9.0/9.2/9.5/8.8/9.2: much broader documented cultural and aquatic ecosystem heritage; no assumption of equivalent permitted visitor depth.
 
@@ -248,7 +266,7 @@
 - [Perhentian Islands](../../../countries/MY/sights/perhentian-islands.yaml) (MY), 9.0/8.8/7.7/9.2/8.9: strong beaches and extensive established recreation; different cultural significance.
 - [Ang Thong National Marine Park](../../../countries/TH/sights/ang-thong-national-marine-park.yaml) (TH), 9.0/9.0/8.6/9.1/8.9: greater dramatic landscape and documented marine itineraries.
 - [Cham Islands](../../../countries/VN/sights/cham-islands.yaml) (VN), 8.8/9.0/8.4/9.0/8.7: comparable island settlement and ecosystem context with broader established visits.
-- [Funafuti Conservation Area](../../../countries/TV/sights/funafuti-conservation-area.yaml) (TV), 8.3/8.4/8.7/7.8/7.3: existing local ecological comparator, restricted islet access requires clarification; not a basis to transfer visitor ratings.
+- [Funafuti Conservation Area](../../../countries/TV/sights/funafuti-conservation-area.yaml) (TV), 8.3/8.4/8.7/7.8/7.0: local ecological comparator; revised depth excludes prohibited islet landings; not a basis to transfer visitor ratings.
 
 - [Tonle Sap Lake](../../../countries/KH/sights/tonle-sap-lake.yaml) (Cambodia), 9.0/9.2/9.5/8.8/9.2: much broader documented cultural and aquatic ecosystem heritage; no assumption of equivalent permitted visitor depth.
 
@@ -285,7 +303,7 @@
 - [Perhentian Islands](../../../countries/MY/sights/perhentian-islands.yaml) (MY), 9.0/8.8/7.7/9.2/8.9: strong beaches and extensive established recreation; different cultural significance.
 - [Ang Thong National Marine Park](../../../countries/TH/sights/ang-thong-national-marine-park.yaml) (TH), 9.0/9.0/8.6/9.1/8.9: greater dramatic landscape and documented marine itineraries.
 - [Cham Islands](../../../countries/VN/sights/cham-islands.yaml) (VN), 8.8/9.0/8.4/9.0/8.7: comparable island settlement and ecosystem context with broader established visits.
-- [Funafuti Conservation Area](../../../countries/TV/sights/funafuti-conservation-area.yaml) (TV), 8.3/8.4/8.7/7.8/7.3: existing local ecological comparator, restricted islet access requires clarification; not a basis to transfer visitor ratings.
+- [Funafuti Conservation Area](../../../countries/TV/sights/funafuti-conservation-area.yaml) (TV), 8.3/8.4/8.7/7.8/7.0: local ecological comparator; revised depth excludes prohibited islet landings; not a basis to transfer visitor ratings.
 
 - [Tonle Sap Lake](../../../countries/KH/sights/tonle-sap-lake.yaml) (Cambodia), 9.0/9.2/9.5/8.8/9.2: much broader documented cultural and aquatic ecosystem heritage; no assumption of equivalent permitted visitor depth.
 
@@ -322,7 +340,7 @@
 - [Perhentian Islands](../../../countries/MY/sights/perhentian-islands.yaml) (MY), 9.0/8.8/7.7/9.2/8.9: strong beaches and extensive established recreation; different cultural significance.
 - [Ang Thong National Marine Park](../../../countries/TH/sights/ang-thong-national-marine-park.yaml) (TH), 9.0/9.0/8.6/9.1/8.9: greater dramatic landscape and documented marine itineraries.
 - [Cham Islands](../../../countries/VN/sights/cham-islands.yaml) (VN), 8.8/9.0/8.4/9.0/8.7: comparable island settlement and ecosystem context with broader established visits.
-- [Funafuti Conservation Area](../../../countries/TV/sights/funafuti-conservation-area.yaml) (TV), 8.3/8.4/8.7/7.8/7.3: existing local ecological comparator, restricted islet access requires clarification; not a basis to transfer visitor ratings.
+- [Funafuti Conservation Area](../../../countries/TV/sights/funafuti-conservation-area.yaml) (TV), 8.3/8.4/8.7/7.8/7.0: local ecological comparator; revised depth excludes prohibited islet landings; not a basis to transfer visitor ratings.
 
 - [Tonle Sap Lake](../../../countries/KH/sights/tonle-sap-lake.yaml) (Cambodia), 9.0/9.2/9.5/8.8/9.2: much broader documented cultural and aquatic ecosystem heritage; no assumption of equivalent permitted visitor depth.
 
@@ -362,7 +380,7 @@
 - [Perhentian Islands](../../../countries/MY/sights/perhentian-islands.yaml) (MY), 9.0/8.8/7.7/9.2/8.9: strong beaches and extensive established recreation; different cultural significance.
 - [Ang Thong National Marine Park](../../../countries/TH/sights/ang-thong-national-marine-park.yaml) (TH), 9.0/9.0/8.6/9.1/8.9: greater dramatic landscape and documented marine itineraries.
 - [Cham Islands](../../../countries/VN/sights/cham-islands.yaml) (VN), 8.8/9.0/8.4/9.0/8.7: comparable island settlement and ecosystem context with broader established visits.
-- [Funafuti Conservation Area](../../../countries/TV/sights/funafuti-conservation-area.yaml) (TV), 8.3/8.4/8.7/7.8/7.3: existing local ecological comparator, restricted islet access requires clarification; not a basis to transfer visitor ratings.
+- [Funafuti Conservation Area](../../../countries/TV/sights/funafuti-conservation-area.yaml) (TV), 8.3/8.4/8.7/7.8/7.0: local ecological comparator; revised depth excludes prohibited islet landings; not a basis to transfer visitor ratings.
 
 - [Tonle Sap Lake](../../../countries/KH/sights/tonle-sap-lake.yaml) (Cambodia), 9.0/9.2/9.5/8.8/9.2: much broader documented cultural and aquatic ecosystem heritage; no assumption of equivalent permitted visitor depth.
 
@@ -399,7 +417,7 @@
 - [Perhentian Islands](../../../countries/MY/sights/perhentian-islands.yaml) (MY), 9.0/8.8/7.7/9.2/8.9: strong beaches and extensive established recreation; different cultural significance.
 - [Ang Thong National Marine Park](../../../countries/TH/sights/ang-thong-national-marine-park.yaml) (TH), 9.0/9.0/8.6/9.1/8.9: greater dramatic landscape and documented marine itineraries.
 - [Cham Islands](../../../countries/VN/sights/cham-islands.yaml) (VN), 8.8/9.0/8.4/9.0/8.7: comparable island settlement and ecosystem context with broader established visits.
-- [Funafuti Conservation Area](../../../countries/TV/sights/funafuti-conservation-area.yaml) (TV), 8.3/8.4/8.7/7.8/7.3: existing local ecological comparator, restricted islet access requires clarification; not a basis to transfer visitor ratings.
+- [Funafuti Conservation Area](../../../countries/TV/sights/funafuti-conservation-area.yaml) (TV), 8.3/8.4/8.7/7.8/7.0: local ecological comparator; revised depth excludes prohibited islet landings; not a basis to transfer visitor ratings.
 
 - [Tonle Sap Lake](../../../countries/KH/sights/tonle-sap-lake.yaml) (Cambodia), 9.0/9.2/9.5/8.8/9.2: much broader documented cultural and aquatic ecosystem heritage; no assumption of equivalent permitted visitor depth.
 
@@ -436,7 +454,7 @@
 - [Perhentian Islands](../../../countries/MY/sights/perhentian-islands.yaml) (MY), 9.0/8.8/7.7/9.2/8.9: strong beaches and extensive established recreation; different cultural significance.
 - [Ang Thong National Marine Park](../../../countries/TH/sights/ang-thong-national-marine-park.yaml) (TH), 9.0/9.0/8.6/9.1/8.9: greater dramatic landscape and documented marine itineraries.
 - [Cham Islands](../../../countries/VN/sights/cham-islands.yaml) (VN), 8.8/9.0/8.4/9.0/8.7: comparable island settlement and ecosystem context with broader established visits.
-- [Funafuti Conservation Area](../../../countries/TV/sights/funafuti-conservation-area.yaml) (TV), 8.3/8.4/8.7/7.8/7.3: existing local ecological comparator, restricted islet access requires clarification; not a basis to transfer visitor ratings.
+- [Funafuti Conservation Area](../../../countries/TV/sights/funafuti-conservation-area.yaml) (TV), 8.3/8.4/8.7/7.8/7.0: local ecological comparator; revised depth excludes prohibited islet landings; not a basis to transfer visitor ratings.
 
 - [Tonle Sap Lake](../../../countries/KH/sights/tonle-sap-lake.yaml) (Cambodia), 9.0/9.2/9.5/8.8/9.2: much broader documented cultural and aquatic ecosystem heritage; no assumption of equivalent permitted visitor depth.
 
@@ -474,6 +492,15 @@
 - Hahoe Folk Village (South Korea): more intact built ensemble and established visitor interpretation.
 - Likiep Village Historic District (Marshall Islands): comparable inhabited atoll heritage, narrower settlement scope.
 
+#### Current YAML benchmark calibration (2026-11-25)
+
+Core values are I/U/S/E/D in that order. Earlier qualitative comparisons remain; these actual YAML checks are editorial comparisons, not new factual verification.
+
+- [Bali Subak Cultural Landscape](../../../countries/ID/sights/bali-subak-cultural-landscape.yaml) — 9.2/9.5/9.5/9.1/9.4; broader documented living agricultural heritage and interpretation.
+- [Hahoe Folk Village](../../../countries/KR/sights/hahoe-folk-village.yaml) — 9.0/9.3/9.4/9.2/8.9; greater preserved settlement architecture and established visits.
+- [Cham Islands](../../../countries/VN/sights/cham-islands.yaml) — 8.8/9.0/8.4/9.0/8.7; closer inhabited island landscape with established visitor scope.
+- [Tonle Sap Lake](../../../countries/KH/sights/tonle-sap-lake.yaml) — 9.0/9.2/9.5/8.8/9.2; broader living water-based heritage and ecology.
+
 ### Scoring decisions
 | Field | New rating | Individual justification |
 | --- | ---: | --- |
@@ -509,6 +536,15 @@
 - Dorset and East Devon Coast (United Kingdom): broader interpreted geological record.
 - Giant's Causeway (United Kingdom): much greater visible geological spectacle.
 - Kuk Early Agricultural Site (Papua New Guinea): comparably important research site with different archaeology and limited visible fabric.
+
+#### Current YAML benchmark calibration (2026-11-25)
+
+Core values are I/U/S/E/D in that order. Earlier qualitative comparisons remain; these actual YAML checks are editorial comparisons, not new factual verification.
+
+- [Giant's Causeway](../../../countries/GB/sights/giants-causeway.yaml) — 9.4/9.5/9.1/9.1/8.7; stronger visible geological formations.
+- [Jurassic Coast](../../../countries/GB/sights/jurassic-coast.yaml) — 9.2/9.3/9.4/9.1/9.3; more extensive geological record and exploration.
+- [Ban Chiang Archaeological Site](../../../countries/TH/sights/ban-chiang-archaeological-site.yaml) — 8.4/9.2/9.6/8.2/8.1; research importance with more visible archaeological interpretation, different discipline.
+- [Dachstein Ice Caves](../../../countries/AT/sights/dachstein-ice-caves.yaml) — 8.3/8.8/7.0/8.5/7.4; more substantial visitor-visible geological feature, less historic scientific importance.
 
 ### Scoring decisions
 | Field | New rating | Individual justification |

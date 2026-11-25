@@ -25,6 +25,16 @@
 - Bangkok (Thailand): much greater diversity of street and cultural experiences
 - Koh Ker Village (Cambodia): stronger heritage environment despite modest settlement scale
 
+#### Current YAML benchmark calibration (2026-11-25)
+
+Core values are I/U/S/E/D in that order. Earlier qualitative comparisons remain; these actual YAML checks are editorial comparisons, not new factual verification.
+
+- [Salzburg](../../../countries/AT/cities/salzburg.yaml) — 9.0/8.9/9.0/8.8/8.5; global historic-city benchmark with much greater architectural and visitor breadth.
+- [Kampot](../../../countries/KH/cities/kampot.yaml) — 7.6/7.9/7.5/8.3/7.9; small waterfront town with broader food and heritage experiences.
+- [Rach Gia](../../../countries/VN/cities/rach-gia.yaml) — 7.2/7.5/7.3/7.8/7.9; larger coastal town with more independent public activities.
+- [Kuala Perlis](../../../countries/MY/cities/kuala-perlis.yaml) — 6.5/6.8/6.5/7.2/6.7; modest commercial coastal settlement with established food experiences.
+- [Koh Ker Village](../../../countries/KH/cities/koh-ker-village.yaml) — 7.2/8.0/8.3/7.8/6.9; small settlement with stronger archaeological setting and interpretation.
+
 ### Scoring decisions
 | Field | New rating | Individual justification |
 | --- | ---: | --- |
@@ -59,6 +69,16 @@
 - Koh Ker Village (Cambodia): stronger archaeological association and discovery
 - Kampot (Cambodia): more varied town streets and food
 - Bangkok (Thailand): far broader city activities
+
+#### Current YAML benchmark calibration (2026-11-25)
+
+Core values are I/U/S/E/D in that order. Earlier qualitative comparisons remain; these actual YAML checks are editorial comparisons, not new factual verification.
+
+- [Salzburg](../../../countries/AT/cities/salzburg.yaml) — 9.0/8.9/9.0/8.8/8.5; global historic-city benchmark with much greater architectural and visitor breadth.
+- [Kampot](../../../countries/KH/cities/kampot.yaml) — 7.6/7.9/7.5/8.3/7.9; small waterfront town with broader food and heritage experiences.
+- [Rach Gia](../../../countries/VN/cities/rach-gia.yaml) — 7.2/7.5/7.3/7.8/7.9; larger coastal town with more independent public activities.
+- [Kuala Perlis](../../../countries/MY/cities/kuala-perlis.yaml) — 6.5/6.8/6.5/7.2/6.7; modest commercial coastal settlement with established food experiences.
+- [Koh Ker Village](../../../countries/KH/cities/koh-ker-village.yaml) — 7.2/8.0/8.3/7.8/6.9; small settlement with stronger archaeological setting and interpretation.
 
 ### Scoring decisions
 | Field | New rating | Individual justification |
@@ -95,6 +115,16 @@
 - Salzburg (Austria): far stronger architecture
 - Bangkok (Thailand): more cultural breadth
 
+#### Current YAML benchmark calibration (2026-11-25)
+
+Core values are I/U/S/E/D in that order. Earlier qualitative comparisons remain; these actual YAML checks are editorial comparisons, not new factual verification.
+
+- [Salzburg](../../../countries/AT/cities/salzburg.yaml) — 9.0/8.9/9.0/8.8/8.5; global historic-city benchmark with much greater architectural and visitor breadth.
+- [Kampot](../../../countries/KH/cities/kampot.yaml) — 7.6/7.9/7.5/8.3/7.9; small waterfront town with broader food and heritage experiences.
+- [Rach Gia](../../../countries/VN/cities/rach-gia.yaml) — 7.2/7.5/7.3/7.8/7.9; larger coastal town with more independent public activities.
+- [Kuala Perlis](../../../countries/MY/cities/kuala-perlis.yaml) — 6.5/6.8/6.5/7.2/6.7; modest commercial coastal settlement with established food experiences.
+- [Koh Ker Village](../../../countries/KH/cities/koh-ker-village.yaml) — 7.2/8.0/8.3/7.8/6.9; small settlement with stronger archaeological setting and interpretation.
+
 ### Scoring decisions
 | Field | New rating | Individual justification |
 | --- | ---: | --- |
@@ -128,6 +158,16 @@
 - Salzburg (Austria): heritage town benchmark
 - Koh Ker Village (Cambodia): documented small-settlement context
 - Kampot (Cambodia): ordinary town-life comparator
+
+#### Current YAML benchmark calibration (2026-11-25)
+
+Core values are I/U/S/E/D in that order. Earlier qualitative comparisons remain; these actual YAML checks are editorial comparisons, not new factual verification.
+
+- [Salzburg](../../../countries/AT/cities/salzburg.yaml) — 9.0/8.9/9.0/8.8/8.5; global historic-city benchmark with much greater architectural and visitor breadth.
+- [Kampot](../../../countries/KH/cities/kampot.yaml) — 7.6/7.9/7.5/8.3/7.9; small waterfront town with broader food and heritage experiences.
+- [Rach Gia](../../../countries/VN/cities/rach-gia.yaml) — 7.2/7.5/7.3/7.8/7.9; larger coastal town with more independent public activities.
+- [Kuala Perlis](../../../countries/MY/cities/kuala-perlis.yaml) — 6.5/6.8/6.5/7.2/6.7; modest commercial coastal settlement with established food experiences.
+- [Koh Ker Village](../../../countries/KH/cities/koh-ker-village.yaml) — 7.2/8.0/8.3/7.8/6.9; small settlement with stronger archaeological setting and interpretation.
 
 ### Scoring decisions
 | Field | New rating | Individual justification |
@@ -163,6 +203,16 @@
 - Salzburg (Austria): architectural ceiling
 - Koh Ker Village (Cambodia): settlement-scale heritage comparator
 - Kampot (Cambodia): modest-town visitor range comparator
+
+#### Current YAML benchmark calibration (2026-11-25)
+
+Core values are I/U/S/E/D in that order. Earlier qualitative comparisons remain; these actual YAML checks are editorial comparisons, not new factual verification.
+
+- [Salzburg](../../../countries/AT/cities/salzburg.yaml) — 9.0/8.9/9.0/8.8/8.5; global historic-city benchmark with much greater architectural and visitor breadth.
+- [Kampot](../../../countries/KH/cities/kampot.yaml) — 7.6/7.9/7.5/8.3/7.9; small waterfront town with broader food and heritage experiences.
+- [Rach Gia](../../../countries/VN/cities/rach-gia.yaml) — 7.2/7.5/7.3/7.8/7.9; larger coastal town with more independent public activities.
+- [Kuala Perlis](../../../countries/MY/cities/kuala-perlis.yaml) — 6.5/6.8/6.5/7.2/6.7; modest commercial coastal settlement with established food experiences.
+- [Koh Ker Village](../../../countries/KH/cities/koh-ker-village.yaml) — 7.2/8.0/8.3/7.8/6.9; small settlement with stronger archaeological setting and interpretation.
 
 ### Scoring decisions
 | Field | New rating | Individual justification |

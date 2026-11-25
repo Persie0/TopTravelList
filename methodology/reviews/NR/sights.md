@@ -25,6 +25,15 @@
 - Maho Beach (Sint Maarten): different single-beach appeal; no aircraft spectacle here
 - Nai Yang Beach (Thailand): comparable modest beach visit, less distinctive coral pinnacles
 
+#### Current YAML benchmark calibration (2026-11-25)
+
+Core values are I/U/S/E/D in that order. Earlier qualitative comparisons remain; these actual YAML checks are editorial comparisons, not new factual verification.
+
+- [Railay Beach](../../../countries/TH/sights/railay-beach.yaml) — 8.9/9.0/7.5/9.2/8.3; stronger coastal scenery and activity variety.
+- [Nai Yang Beach](../../../countries/TH/sights/nai-yang-beach.yaml) — 7.8/8.0/6.5/8.5/7.5; modest beach with more established visitor activities.
+- [Tanjung Aru Beach](../../../countries/MY/sights/tanjung-aru-beach.yaml) — 8.2/7.8/6.6/8.6/7.7; comparable beach scope with more public recreation.
+- [An Bang Beach](../../../countries/VN/sights/an-bang-beach.yaml) — 8.4/7.8/7.0/9.0/8.2; stronger visitor experience and breadth.
+
 ### Scoring decisions
 | Field | New rating | Individual justification |
 | --- | ---: | --- |
@@ -61,6 +70,15 @@
 - Lake Bled (Slovenia): stronger built and scenic combination
 - Lake Jasna (Slovenia): comparable short scenic stop, different alpine setting
 
+#### Current YAML benchmark calibration (2026-11-25)
+
+Core values are I/U/S/E/D in that order. Earlier qualitative comparisons remain; these actual YAML checks are editorial comparisons, not new factual verification.
+
+- [Cheow Lan Lake](../../../countries/TH/sights/cheow-lan-lake.yaml) — 9.1/9.3/8.5/9.3/8.7; greater vertical scenery and established boat outings.
+- [Tonle Sap Lake](../../../countries/KH/sights/tonle-sap-lake.yaml) — 9.0/9.2/9.5/8.8/9.2; much greater ecological and cultural breadth.
+- [Ba Be Lake](../../../countries/VN/sights/ba-be-lake.yaml) — 8.8/9.0/8.3/9.1/8.5; stronger varied lake scenery and visitor activities.
+- [Achensee](../../../countries/AT/sights/achensee.yaml) — 8.4/8.0/7.1/8.8/8.4; more extensive scenic lake experience, different ecosystem.
+
 ### Scoring decisions
 | Field | New rating | Individual justification |
 | --- | ---: | --- |
@@ -96,6 +114,15 @@
 - Mount Faber (Singapore): more developed lookout experience
 - Diamond Head (United States): greater volcanic scale and trail experience
 - Kranji War Memorial (Singapore): clearer commemorative interpretation
+
+#### Current YAML benchmark calibration (2026-11-25)
+
+Core values are I/U/S/E/D in that order. Earlier qualitative comparisons remain; these actual YAML checks are editorial comparisons, not new factual verification.
+
+- [Hohensalzburg Fortress](../../../countries/AT/sights/hohensalzburg-fortress.yaml) — 9.1/9.1/9.3/9.4/8.9; greater preserved military architecture and interpretation.
+- [Hiroshima Peace Memorial Park](../../../countries/JP/sights/hiroshima-peace-memorial-park.yaml) — 9.0/9.3/9.8/9.2/8.6; greater historical significance and memorial interpretation.
+- [War Remnants Museum](../../../countries/VN/sights/war-remnants-museum.yaml) — 8.8/9.1/9.5/9.1/8.7; broader wartime interpretation, different physical setting.
+- [Tuol Sleng Genocide Museum](../../../countries/KH/sights/tuol-sleng-genocide-museum.yaml) — 9.1/9.4/9.9/9.0/8.9; more extensive historical interpretation, different history.
 
 ### Scoring decisions
 | Field | New rating | Individual justification |
@@ -172,6 +199,15 @@
 - National Museum of Korea (South Korea): broader national archaeological narrative
 - National Museum of Cambodia (Cambodia): stronger documented collection depth
 - Singapore Philatelic Museum (Singapore, historical comparator): narrower specialist museum
+
+#### Current YAML benchmark calibration (2026-11-25)
+
+Core values are I/U/S/E/D in that order. Earlier qualitative comparisons remain; these actual YAML checks are editorial comparisons, not new factual verification.
+
+- [Kunsthistorisches Museum](../../../countries/AT/sights/kunsthistorisches-museum.yaml) — 9.2/9.4/9.6/9.4/9.5; global collection and architectural benchmark.
+- [National Museum of Cambodia](../../../countries/KH/sights/national-museum-cambodia.yaml) — 8.8/9.1/9.3/9.1/8.8; larger documented heritage collection.
+- [Bangkok National Museum](../../../countries/TH/sights/bangkok-national-museum.yaml) — 8.8/9.0/9.3/8.9/9.6; far greater collection scope.
+- [National Museum Malaysia](../../../countries/MY/sights/national-museum-malaysia.yaml) — 7.9/7.9/8.4/8.2/8.1; regional collection with broader interpretation.
 
 ### Scoring decisions
 | Field | New rating | Individual justification |
