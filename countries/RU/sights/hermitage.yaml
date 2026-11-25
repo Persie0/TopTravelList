@@ -1,0 +1,16 @@
+id: sight-ru-hermitage
+name: "State Hermitage Main Museum Complex"
+location:
+  country_code: RU
+  latitude: 59.94
+  longitude: 30.313
+scores:
+  impact: 9.4
+  uniqueness: 9.3
+  significance: 9.4
+  experience: 9.3
+  depth: 9.4
+  categories:
+    culture: 9.4
+    history: 9.4
+    architecture: 9.4

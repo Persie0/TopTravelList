@@ -2,7 +2,7 @@
 
 # Israel (IL) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**12 ranked** · **0 unassessed** · **12 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,22 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (12)
 
-No cities, towns & villages have been assessed for **Israel** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Tel Aviv-Yafo](cities/tel-aviv.yaml) | City / town | **87.05** | **Nightlife 9.2**, **Food 9.0**, **Architecture 8.9**, Beaches 8.8 | 8.6 / 8.7 / 8.5 / 9.0 / 9.0 | [32.0853, 34.7818](https://www.google.com/maps/search/?api=1&query=32.0853,34.7818) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tel%20Aviv-Yafo%2C%20Israel) |
+| 2 | [Acre (Akko)](cities/acre.yaml) | City / town | **86.90** | **Architecture 9.1**, **History 9.1**, **Culture 8.7** | 8.6 / 8.9 / 9.0 / 8.5 / 8.1 | [32.927, 35.082](https://www.google.com/maps/search/?api=1&query=32.927,35.082) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Acre%20%28Akko%29%2C%20Israel) |
+| 3 | [Jerusalem (western districts only)](cities/west-jerusalem.yaml) | City / town | **86.60** | **History 9.1**, **Culture 9.0**, **Architecture 8.6** | 8.5 / 8.7 / 9.0 / 8.5 / 8.6 | [31.778, 35.212](https://www.google.com/maps/search/?api=1&query=31.778,35.212) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Jerusalem%20%28western%20districts%20only%29%2C%20Israel) |
+| 4 | [Nazareth](cities/nazareth.yaml) | City / town | **83.30** | **History 9.1**, **Culture 8.9**, **Architecture 8.6** | 8.0 / 8.5 / 9.0 / 8.1 / 7.9 | [32.6996, 35.3035](https://www.google.com/maps/search/?api=1&query=32.6996,35.3035) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nazareth%2C%20Israel) |
+| 5 | [Safed (Tzfat)](cities/safed.yaml) | City / town | **83.10** | **Culture 8.9**, **History 8.9**, **Architecture 8.4** | 8.1 / 8.5 / 8.8 / 8.1 / 7.8 | [32.965, 35.498](https://www.google.com/maps/search/?api=1&query=32.965,35.498) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Safed%20%28Tzfat%29%2C%20Israel) |
+| 6 | [Haifa](cities/haifa.yaml) | City / town | **82.55** | **Photography 8.8**, **Culture 8.5**, **Architecture 8.4** | 8.4 / 8.2 / 8.1 / 8.3 / 8.2 | [32.794, 34.9896](https://www.google.com/maps/search/?api=1&query=32.794,34.9896) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Haifa%2C%20Israel) |
+| 7 | [Tiberias](cities/tiberias.yaml) | City / town | **77.85** | **History 8.5**, **Relaxation 8.2**, **Culture 8.0** | 7.5 / 7.9 / 8.3 / 7.8 / 7.3 | [32.7959, 35.5312](https://www.google.com/maps/search/?api=1&query=32.7959,35.5312) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tiberias%2C%20Israel) |
+| 8 | [Eilat](cities/eilat.yaml) | City / town | **77.00** | **Beaches 8.6**, **Relaxation 8.4**, **Food 7.9** | 7.8 / 7.7 / 6.8 / 8.5 / 8.0 | [29.5577, 34.9519](https://www.google.com/maps/search/?api=1&query=29.5577,34.9519) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Eilat%2C%20Israel) |
+| 9 | [Ramla](cities/ramla.yaml) | City / town | **75.05** | **History 8.5**, **Architecture 8.0** | 7.1 / 7.7 / 8.2 / 7.4 / 7.0 | [31.929, 34.866](https://www.google.com/maps/search/?api=1&query=31.929,34.866) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ramla%2C%20Israel) |
+| 10 | [Mitzpe Ramon](cities/mitzpe-ramon.yaml) | City / town | **74.75** | **Nature 8.3**, **Relaxation 7.7** | 7.8 / 7.7 / 6.7 / 7.8 / 7.0 | [30.61, 34.801](https://www.google.com/maps/search/?api=1&query=30.61,34.801) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mitzpe%20Ramon%2C%20Israel) |
+| 11 | [Beersheba](cities/beersheba.yaml) | City / town | **73.65** | **History 8.0**, **Culture 7.7** | 7.0 / 7.4 / 7.7 / 7.5 / 7.5 | [31.252, 34.791](https://www.google.com/maps/search/?api=1&query=31.252,34.791) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Beersheba%2C%20Israel) |
+| 12 | [Netanya](cities/netanya.yaml) | City / town | **71.60** | **Beaches 8.3**, **Relaxation 8.1** | 7.4 / 7.0 / 6.5 / 7.8 / 7.2 | [32.3215, 34.8532](https://www.google.com/maps/search/?api=1&query=32.3215,34.8532) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Netanya%2C%20Israel) |
 
 ---
 

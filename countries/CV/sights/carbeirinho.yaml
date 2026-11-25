@@ -1,0 +1,15 @@
+id: sight-cv-carbeirinho
+name: "Carbeirinho"
+location:
+  country_code: CV
+  latitude: 16.5860
+  longitude: -24.3730
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 6.8
+  experience: 8.1
+  depth: 6.5
+  categories:
+    nature: 8.9
+    photography: 9.3

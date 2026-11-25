@@ -1,0 +1,16 @@
+id: sight-tt-store-bay-beach
+name: "Store Bay Beach"
+location:
+  country_code: TT
+  latitude: 11.155
+  longitude: -60.839
+scores:
+  impact: 7.6
+  uniqueness: 7.2
+  significance: 6.6
+  experience: 8.3
+  depth: 6.8
+  categories:
+    beaches: 8.8
+    food: 8.4
+    relaxation: 8.6

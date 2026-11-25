@@ -1,0 +1,17 @@
+id: sight-is-hornstrandir
+name: "Hornstrandir Nature Reserve"
+location:
+  country_code: IS
+  latitude: 66.36
+  longitude: -22.5
+scores:
+  impact: 9.3
+  uniqueness: 9.2
+  significance: 8.8
+  experience: 8.9
+  depth: 9.2
+  categories:
+    nature: 9.5
+    wildlife: 9.3
+    photography: 9.5
+    adventure: 9.3

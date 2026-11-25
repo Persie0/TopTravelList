@@ -1,0 +1,16 @@
+id: sight-ir-vank-cathedral
+name: "Vank Cathedral and Monastery of St Amenaprkich"
+location:
+  country_code: IR
+  latitude: 32.635000
+  longitude: 51.655833
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 8.9
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.2
+    history: 9.0
+    culture: 9.0

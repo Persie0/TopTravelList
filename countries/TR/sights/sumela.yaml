@@ -1,0 +1,16 @@
+id: sight-tr-sumela
+name: "Sumela Monastery"
+location:
+  country_code: TR
+  latitude: 40.69
+  longitude: 39.658
+scores:
+  impact: 9.1
+  uniqueness: 9.0
+  significance: 8.9
+  experience: 8.4
+  depth: 8.0
+  categories:
+    architecture: 9.2
+    history: 9.1
+    photography: 9.4

@@ -2,7 +2,7 @@
 
 # Nicaragua (NI) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**13 ranked** · **0 unassessed** · **13 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,23 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (13)
 
-No cities, towns & villages have been assessed for **Nicaragua** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Granada](cities/granada.yaml) | City / town | **87.00** | **Architecture 9.1**, **History 8.9**, **Culture 8.8** | 8.7 / 8.8 / 8.6 / 8.8 / 8.5 | [11.934, -85.956](https://www.google.com/maps/search/?api=1&query=11.934,-85.956) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Granada%2C%20Nicaragua) |
+| 2 | [León](cities/leon.yaml) | City / town | **86.25** | **Architecture 9.0**, **Culture 9.0**, **History 9.0** | 8.5 / 8.7 / 8.8 / 8.6 / 8.5 | [12.435, -86.879](https://www.google.com/maps/search/?api=1&query=12.435,-86.879) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Le%C3%B3n%2C%20Nicaragua) |
+| 3 | [El Castillo](cities/el-castillo.yaml) | City / town | **78.80** | **Photography 8.8**, **History 8.5**, **Culture 8.3** | 7.8 / 8.3 / 8.0 / 7.9 / 6.8 | [11.025, -84.397](https://www.google.com/maps/search/?api=1&query=11.025,-84.397) | [Google Maps](https://www.google.com/maps/search/?api=1&query=El%20Castillo%2C%20Nicaragua) |
+| 4 | [Masaya](cities/masaya.yaml) | City / town | **78.00** | **Culture 8.9**, **Food 8.3**, **History 8.1** | 7.5 / 8.2 / 7.8 / 8.0 / 7.4 | [11.974, -86.094](https://www.google.com/maps/search/?api=1&query=11.974,-86.094) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Masaya%2C%20Nicaragua) |
+| 5 | [San Juan del Sur](cities/san-juan-del-sur.yaml) | City / town | **75.90** | **Nightlife 8.6**, **Photography 8.5**, **Food 8.2** | 7.8 / 7.6 / 6.8 / 8.4 / 7.3 | [11.252, -85.87](https://www.google.com/maps/search/?api=1&query=11.252,-85.87) | [Google Maps](https://www.google.com/maps/search/?api=1&query=San%20Juan%20del%20Sur%2C%20Nicaragua) |
+| 6 | [Bluefields](cities/bluefields.yaml) | City / town | **74.20** | **Culture 8.8**, **Food 8.3** | 6.9 / 8.0 / 7.8 / 7.2 / 7.1 | [12.012, -83.764](https://www.google.com/maps/search/?api=1&query=12.012,-83.764) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bluefields%2C%20Nicaragua) |
+| 7 | [Matagalpa](cities/matagalpa.yaml) | City / town | **74.00** | **Food 8.4**, **Culture 8.0** | 7.1 / 7.6 / 7.4 / 7.8 / 7.2 | [12.926, -85.917](https://www.google.com/maps/search/?api=1&query=12.926,-85.917) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Matagalpa%2C%20Nicaragua) |
+| 8 | [Catarina](cities/catarina.yaml) | City / town | **73.60** | **Photography 8.4**, **Culture 8.2** | 7.3 / 7.8 / 7.0 / 7.8 / 6.5 | [11.911, -86.072](https://www.google.com/maps/search/?api=1&query=11.911,-86.072) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Catarina%2C%20Nicaragua) |
+| 9 | [Managua](cities/managua.yaml) | City / town | **73.55** | **History 8.2**, **Food 8.1**, **Culture 8.0** | 6.9 / 7.3 / 7.8 / 7.4 / 7.9 | [12.136, -86.252](https://www.google.com/maps/search/?api=1&query=12.136,-86.252) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Managua%2C%20Nicaragua) |
+| 10 | [Estelí](cities/esteli.yaml) | City / town | **73.10** | **Culture 8.2**, **History 8.0** | 6.9 / 7.6 / 7.5 / 7.6 / 7.0 | [13.092, -86.354](https://www.google.com/maps/search/?api=1&query=13.092,-86.354) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Estel%C3%AD%2C%20Nicaragua) |
+| 11 | [Altagracia](cities/altagracia.yaml) | City / town | **71.65** | **History 8.1**, **Culture 8.0** | 7.0 / 7.5 / 7.4 / 7.2 / 6.3 | [11.567, -85.579](https://www.google.com/maps/search/?api=1&query=11.567,-85.579) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Altagracia%2C%20Nicaragua) |
+| 12 | [San Carlos](cities/san-carlos.yaml) | City / town | **70.35** | **Photography 8.0**, **Culture 7.8** | 6.8 / 7.4 / 7.0 / 7.3 / 6.5 | [11.123, -84.777](https://www.google.com/maps/search/?api=1&query=11.123,-84.777) | [Google Maps](https://www.google.com/maps/search/?api=1&query=San%20Carlos%2C%20Nicaragua) |
+| 13 | [Moyogalpa](cities/moyogalpa.yaml) | City / town | **69.00** | **Culture 7.8**, **Food 7.8** | 6.8 / 7.2 / 6.6 / 7.4 / 6.3 | [11.54, -85.699](https://www.google.com/maps/search/?api=1&query=11.54,-85.699) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Moyogalpa%2C%20Nicaragua) |
 
 ---
 

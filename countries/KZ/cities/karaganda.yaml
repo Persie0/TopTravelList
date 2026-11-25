@@ -1,0 +1,15 @@
+id: city-kz-karaganda
+name: "Karaganda"
+location:
+  country_code: KZ
+  latitude: 49.804
+  longitude: 73.109
+scores:
+  impact: 6.9
+  uniqueness: 7.5
+  significance: 7.9
+  experience: 7.5
+  depth: 7.6
+  categories:
+    history: 8.4
+    culture: 7.9

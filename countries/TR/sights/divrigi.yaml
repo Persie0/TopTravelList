@@ -1,0 +1,15 @@
+id: sight-tr-divrigi
+name: "Great Mosque and Hospital of Divrigi"
+location:
+  country_code: TR
+  latitude: 39.371
+  longitude: 38.115
+scores:
+  impact: 8.9
+  uniqueness: 9.2
+  significance: 9.1
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.4
+    history: 9.2

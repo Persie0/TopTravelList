@@ -1,0 +1,16 @@
+id: sight-ht-cotes-des-arcadins
+name: "Côtes des Arcadins"
+location:
+  country_code: HT
+  latitude: 18.86
+  longitude: -72.62
+scores:
+  impact: 8.0
+  uniqueness: 7.6
+  significance: 6.7
+  experience: 8.3
+  depth: 7.6
+  categories:
+    beaches: 8.9
+    relaxation: 8.8
+    adventure: 8.2

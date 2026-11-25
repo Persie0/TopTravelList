@@ -1,0 +1,15 @@
+id: sight-no-atlantic-road
+name: "Atlantic Ocean Road"
+location:
+  country_code: "NO"
+  latitude: 63.018
+  longitude: 7.354
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 8.2
+  experience: 8.9
+  depth: 7.8
+  categories:
+    photography: 9.3
+    architecture: 8.7

@@ -1,0 +1,16 @@
+id: sight-ae-louvre-abu-dhabi
+name: "Louvre Abu Dhabi"
+location:
+  country_code: AE
+  latitude: 24.5337
+  longitude: 54.3984
+scores:
+  impact: 9.1
+  uniqueness: 9.3
+  significance: 8.9
+  experience: 9.2
+  depth: 9.1
+  categories:
+    architecture: 9.6
+    culture: 9.3
+    photography: 9.4

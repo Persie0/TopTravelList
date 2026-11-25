@@ -1,0 +1,16 @@
+id: sight-no-sognefjord
+name: "Sognefjord (main fjord)"
+location:
+  country_code: "NO"
+  latitude: 61.12
+  longitude: 6.45
+scores:
+  impact: 9.4
+  uniqueness: 9.4
+  significance: 9.0
+  experience: 9.2
+  depth: 9.4
+  categories:
+    nature: 9.5
+    photography: 9.5
+    adventure: 9.2

@@ -1,0 +1,16 @@
+id: sight-il-timna
+name: "Timna Park"
+location:
+  country_code: IL
+  latitude: 29.78
+  longitude: 34.96
+scores:
+  impact: 9.0
+  uniqueness: 8.9
+  significance: 8.7
+  experience: 8.8
+  depth: 8.8
+  categories:
+    nature: 9.2
+    history: 8.9
+    photography: 9.2

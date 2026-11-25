@@ -1,0 +1,16 @@
+id: city-sa-yanbu
+name: "Yanbu"
+location:
+  country_code: SA
+  latitude: 24.0895
+  longitude: 38.0618
+scores:
+  impact: 7.2
+  uniqueness: 7.3
+  significance: 7.5
+  experience: 7.7
+  depth: 7.2
+  categories:
+    history: 7.6
+    relaxation: 7.8
+    beaches: 7.5

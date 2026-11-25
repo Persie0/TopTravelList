@@ -1,0 +1,15 @@
+id: city-ir-qazvin
+name: "Qazvin"
+location:
+  country_code: IR
+  latitude: 36.269
+  longitude: 50.004
+scores:
+  impact: 7.7
+  uniqueness: 8.0
+  significance: 8.4
+  experience: null
+  depth: null
+  categories:
+    architecture: 8.5
+    history: 8.7

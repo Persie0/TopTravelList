@@ -2,7 +2,7 @@
 
 # Russia (RU) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**20 ranked** · **0 unassessed** · **20 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,30 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (20)
 
-No cities, towns & villages have been assessed for **Russia** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Saint Petersburg](cities/saint-petersburg.yaml) | City / town | **93.20** | **Architecture 9.4**, **Culture 9.4**, **History 9.4** | 9.4 / 9.2 / 9.4 / 9.2 / 9.4 | [59.9343, 30.3351](https://www.google.com/maps/search/?api=1&query=59.9343,30.3351) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Saint%20Petersburg%2C%20Russia) |
+| 2 | [Moscow](cities/moscow.yaml) | City / town | **91.75** | **Architecture 9.4**, **History 9.4**, **Culture 9.3** | 9.2 / 9.1 / 9.3 / 9.0 / 9.3 | [55.7558, 37.6173](https://www.google.com/maps/search/?api=1&query=55.7558,37.6173) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Moscow%2C%20Russia) |
+| 3 | [Kazan](cities/kazan.yaml) | City / town | **86.95** | **Culture 9.1**, **Architecture 9.0**, **History 9.0** | 8.6 / 8.8 / 8.8 / 8.7 / 8.5 | [55.7963, 49.1088](https://www.google.com/maps/search/?api=1&query=55.7963,49.1088) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kazan%2C%20Russia) |
+| 4 | [Suzdal](cities/suzdal.yaml) | City / town | **86.60** | **Architecture 9.2**, **History 9.0** | 8.7 / 8.8 / 8.7 / 8.6 / 8.2 | [56.4196, 40.4493](https://www.google.com/maps/search/?api=1&query=56.4196,40.4493) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Suzdal%2C%20Russia) |
+| 5 | [Veliky Novgorod](cities/veliky-novgorod.yaml) | City / town | **85.60** | **History 9.2**, **Architecture 9.0** | 8.4 / 8.6 / 9.0 / 8.4 / 8.3 | [58.5228, 31.2699](https://www.google.com/maps/search/?api=1&query=58.5228,31.2699) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Veliky%20Novgorod%2C%20Russia) |
+| 6 | [Derbent](cities/derbent.yaml) | City / town | **85.00** | **History 9.2**, **Architecture 8.9** | 8.4 / 8.7 / 9.0 / 8.1 / 7.9 | [42.0589, 48.2908](https://www.google.com/maps/search/?api=1&query=42.0589,48.2908) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Derbent%2C%20Russia) |
+| 7 | [Yaroslavl](cities/yaroslavl.yaml) | City / town | **84.30** | **Architecture 8.9**, **History 8.8** | 8.4 / 8.4 / 8.6 / 8.4 / 8.3 | [57.6261, 39.8845](https://www.google.com/maps/search/?api=1&query=57.6261,39.8845) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Yaroslavl%2C%20Russia) |
+| 8 | [Pskov](cities/pskov.yaml) | City / town | **82.85** | **History 8.9**, **Architecture 8.8** | 8.2 / 8.4 / 8.6 / 8.1 / 7.9 | [57.8193, 28.3318](https://www.google.com/maps/search/?api=1&query=57.8193,28.3318) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Pskov%2C%20Russia) |
+| 9 | [Tobolsk](cities/tobolsk.yaml) | City / town | **81.95** | **Architecture 8.8**, **History 8.8** | 8.3 / 8.3 / 8.4 / 8.0 / 7.5 | [58.2017, 68.2538](https://www.google.com/maps/search/?api=1&query=58.2017,68.2538) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tobolsk%2C%20Russia) |
+| 10 | [Vladivostok](cities/vladivostok.yaml) | City / town | **81.75** | **Photography 8.8**, **Food 8.5**, **Architecture 8.2** | 8.3 / 8.0 / 8.1 / 8.3 / 8.2 | [43.1155, 131.8855](https://www.google.com/maps/search/?api=1&query=43.1155,131.8855) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Vladivostok%2C%20Russia) |
+| 11 | [Irkutsk](cities/irkutsk.yaml) | City / town | **81.15** | **Architecture 8.6**, **History 8.5** | 8.0 / 8.2 / 8.3 / 8.1 / 7.9 | [52.2864, 104.2807](https://www.google.com/maps/search/?api=1&query=52.2864,104.2807) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Irkutsk%2C%20Russia) |
+| 12 | [Kaliningrad](cities/kaliningrad.yaml) | City / town | **80.40** | **History 8.6**, **Culture 8.3** | 7.8 / 8.0 / 8.3 / 8.2 / 8.1 | [54.7104, 20.4522](https://www.google.com/maps/search/?api=1&query=54.7104,20.4522) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kaliningrad%2C%20Russia) |
+| 13 | [Yekaterinburg](cities/yekaterinburg.yaml) | City / town | **80.20** | **History 8.6**, **Architecture 8.4** | 7.7 / 8.0 / 8.3 / 8.2 / 8.2 | [56.8389, 60.6057](https://www.google.com/maps/search/?api=1&query=56.8389,60.6057) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Yekaterinburg%2C%20Russia) |
+| 14 | [Ulan-Ude](cities/ulan-ude.yaml) | City / town | **78.95** | **Culture 8.6**, **History 8.2** | 7.7 / 8.2 / 8.0 / 7.9 / 7.5 | [51.8335, 107.5841](https://www.google.com/maps/search/?api=1&query=51.8335,107.5841) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ulan-Ude%2C%20Russia) |
+| 15 | [Yakutsk](cities/yakutsk.yaml) | City / town | **78.90** | **Culture 8.5**, **History 8.1** | 7.5 / 8.5 / 8.0 / 7.7 / 7.6 | [62.0355, 129.6755](https://www.google.com/maps/search/?api=1&query=62.0355,129.6755) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Yakutsk%2C%20Russia) |
+| 16 | [Krasnoyarsk](cities/krasnoyarsk.yaml) | City / town | **77.55** | **Nature 8.1**, **Culture 7.9** | 7.7 / 7.7 / 7.7 / 8.0 / 7.8 | [56.0153, 92.8932](https://www.google.com/maps/search/?api=1&query=56.0153,92.8932) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Krasnoyarsk%2C%20Russia) |
+| 17 | [Petropavlovsk-Kamchatsky](cities/petropavlovsk-kamchatsky.yaml) | City / town | **77.45** | **Photography 8.7**, **Nature 8.6** | 8.0 / 8.0 / 7.4 / 7.7 / 7.1 | [53.0452, 158.6483](https://www.google.com/maps/search/?api=1&query=53.0452,158.6483) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Petropavlovsk-Kamchatsky%2C%20Russia) |
+| 18 | [Khabarovsk](cities/khabarovsk.yaml) | City / town | **76.70** | **Architecture 8.0**, **Culture 8.0** | 7.5 / 7.7 / 7.7 / 7.9 / 7.7 | [48.4802, 135.0719](https://www.google.com/maps/search/?api=1&query=48.4802,135.0719) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Khabarovsk%2C%20Russia) |
+| 19 | [Sochi](cities/sochi.yaml) | City / town | **76.55** | **Relaxation 8.6**, **Nature 8.1** | 7.8 / 7.4 / 7.1 / 8.3 / 8.0 | [43.5853, 39.7231](https://www.google.com/maps/search/?api=1&query=43.5853,39.7231) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sochi%2C%20Russia) |
+| 20 | [Novosibirsk](cities/novosibirsk.yaml) | City / town | **75.75** | **Culture 8.1**, **Architecture 7.9** | 7.3 / 7.5 / 7.7 / 7.8 / 8.0 | [55.0084, 82.9357](https://www.google.com/maps/search/?api=1&query=55.0084,82.9357) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Novosibirsk%2C%20Russia) |
 
 ---
 

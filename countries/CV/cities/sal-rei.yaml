@@ -1,0 +1,16 @@
+id: city-cv-sal-rei
+name: "Sal Rei"
+location:
+  country_code: CV
+  latitude: 16.1760
+  longitude: -22.9150
+scores:
+  impact: 7.4
+  uniqueness: 7.6
+  significance: 6.8
+  experience: 8.2
+  depth: 7.3
+  categories:
+    culture: 8.2
+    food: 8.0
+    relaxation: 8.1

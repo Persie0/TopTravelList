@@ -1,0 +1,15 @@
+id: sight-be-atomium
+name: "Atomium"
+location:
+  country_code: BE
+  latitude: 50.895
+  longitude: 4.341
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 8.2
+  experience: 8.7
+  depth: 7.9
+  categories:
+    architecture: 9.1
+    photography: 9.2

@@ -1,0 +1,16 @@
+id: sight-ie-kylemore-abbey
+name: "Kylemore Abbey and Victorian Walled Garden"
+location:
+  country_code: IE
+  latitude: 53.561
+  longitude: -9.89
+scores:
+  impact: 8.9
+  uniqueness: 8.6
+  significance: 8.5
+  experience: 8.8
+  depth: 8.5
+  categories:
+    architecture: 9.1
+    photography: 9.3
+    history: 8.7

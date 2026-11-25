@@ -1,0 +1,16 @@
+id: city-fi-rovaniemi
+name: "Rovaniemi"
+location:
+  country_code: FI
+  latitude: 66.5039
+  longitude: 25.7294
+scores:
+  impact: 7.7
+  uniqueness: 8.4
+  significance: 8.1
+  experience: 8.6
+  depth: 8.3
+  categories:
+    culture: 8.5
+    family: 8.9
+    architecture: 8.2

@@ -1,0 +1,16 @@
+id: city-lt-nida
+name: "Nida"
+location:
+  country_code: LT
+  latitude: 55.303
+  longitude: 21.005
+scores:
+  impact: 8.5
+  uniqueness: 8.7
+  significance: 8.0
+  experience: 8.7
+  depth: 7.7
+  categories:
+    architecture: 8.7
+    relaxation: 9
+    photography: 9

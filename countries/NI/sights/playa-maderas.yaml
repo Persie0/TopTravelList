@@ -1,0 +1,16 @@
+id: sight-ni-playa-maderas
+name: "Playa Maderas"
+location:
+  country_code: NI
+  latitude: 11.297
+  longitude: -85.913
+scores:
+  impact: 8.1
+  uniqueness: 7.9
+  significance: 6.7
+  experience: 8.7
+  depth: 7.2
+  categories:
+    beaches: 8.8
+    adventure: 9.1
+    photography: 8.8

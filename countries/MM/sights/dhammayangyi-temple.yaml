@@ -1,0 +1,15 @@
+id: sight-mm-dhammayangyi-temple
+name: "Dhammayangyi Temple"
+location:
+  country_code: MM
+  latitude: 21.162
+  longitude: 94.872
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 8.6
+  experience: 8.2
+  depth: 7.6
+  categories:
+    architecture: 9.0
+    history: 8.8

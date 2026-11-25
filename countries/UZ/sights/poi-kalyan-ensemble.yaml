@@ -1,0 +1,16 @@
+id: sight-uz-poi-kalyan-ensemble
+name: "Poi Kalyan Ensemble"
+location:
+  country_code: UZ
+  latitude: 39.7757
+  longitude: 64.4148
+scores:
+  impact: 9.3
+  uniqueness: 9.2
+  significance: 9.2
+  experience: 9.1
+  depth: 8.4
+  categories:
+    architecture: 9.5
+    history: 9.4
+    photography: 9.5

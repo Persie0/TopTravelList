@@ -1,0 +1,15 @@
+id: sight-jm-bob-marley-museum
+name: "Bob Marley Museum"
+location:
+  country_code: JM
+  latitude: 18.019
+  longitude: -76.782
+scores:
+  impact: 8.6
+  uniqueness: 9.2
+  significance: 9.3
+  experience: 8.7
+  depth: 8.0
+  categories:
+    culture: 9.4
+    history: 9.2

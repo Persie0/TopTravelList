@@ -1,0 +1,15 @@
+id: sight-il-white-city
+name: "White City of Tel Aviv"
+location:
+  country_code: IL
+  latitude: 32.077778
+  longitude: 34.774167
+scores:
+  impact: 8.3
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.5
+  depth: 8.6
+  categories:
+    architecture: 9.3
+    history: 9.1

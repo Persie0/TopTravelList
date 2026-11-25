@@ -1,0 +1,16 @@
+id: city-ir-masuleh
+name: "Masuleh"
+location:
+  country_code: IR
+  latitude: 37.156
+  longitude: 48.99
+scores:
+  impact: 8.7
+  uniqueness: 8.7
+  significance: 8.0
+  experience: null
+  depth: null
+  categories:
+    architecture: 8.9
+    nature: 8.5
+    photography: 9.1

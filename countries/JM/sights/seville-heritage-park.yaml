@@ -1,0 +1,16 @@
+id: sight-jm-seville-heritage-park
+name: "Seville Heritage Park"
+location:
+  country_code: JM
+  latitude: 18.434
+  longitude: -77.207
+scores:
+  impact: 7.9
+  uniqueness: 8.6
+  significance: 9.1
+  experience: 8.0
+  depth: 8.0
+  categories:
+    history: 9.3
+    culture: 8.8
+    architecture: 8.3

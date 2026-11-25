@@ -1,0 +1,15 @@
+id: city-is-selfoss
+name: "Selfoss"
+location:
+  country_code: IS
+  latitude: 63.933
+  longitude: -21
+scores:
+  impact: 7.0
+  uniqueness: 7.1
+  significance: 7.1
+  experience: 7.9
+  depth: 7.4
+  categories:
+    food: 8.0
+    relaxation: 7.9

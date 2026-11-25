@@ -1,0 +1,15 @@
+id: sight-gb-flow-country
+name: "The Flow Country"
+location:
+  country_code: GB
+  latitude: 58.35
+  longitude: -3.9
+scores:
+  impact: 8.5
+  uniqueness: 9.2
+  significance: 9.4
+  experience: 8.3
+  depth: 9.1
+  categories:
+    nature: 9.5
+    wildlife: 9.2

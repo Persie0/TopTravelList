@@ -1,0 +1,15 @@
+id: city-no-fredrikstad
+name: "Fredrikstad"
+location:
+  country_code: "NO"
+  latitude: 59.218
+  longitude: 10.93
+scores:
+  impact: 8.1
+  uniqueness: 8.4
+  significance: 8.3
+  experience: 8.3
+  depth: 7.9
+  categories:
+    architecture: 8.8
+    history: 8.8

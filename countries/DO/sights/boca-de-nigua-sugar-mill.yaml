@@ -1,0 +1,13 @@
+id: sight-do-boca-de-nigua-sugar-mill
+name: "Ingenio de Boca de Nigua"
+location:
+  country_code: DO
+  latitude: 18.37258
+  longitude: -70.05240
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}

@@ -1,0 +1,16 @@
+id: sight-dk-louisiana
+name: "Louisiana Museum of Modern Art"
+location:
+  country_code: DK
+  latitude: 55.969
+  longitude: 12.543
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 9.2
+  depth: 9.0
+  categories:
+    culture: 9.4
+    architecture: 9.2
+    photography: 8.9

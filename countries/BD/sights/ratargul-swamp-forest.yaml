@@ -1,0 +1,15 @@
+id: sight-bd-ratargul-swamp-forest
+name: "Ratargul Swamp Forest"
+location:
+  country_code: BD
+  latitude: 25.004
+  longitude: 91.922
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 7.9
+  experience: 8.5
+  depth: 7.6
+  categories:
+    nature: 9.0
+    photography: 9.1

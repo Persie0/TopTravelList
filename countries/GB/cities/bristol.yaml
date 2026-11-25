@@ -1,0 +1,16 @@
+id: city-gb-bristol
+name: "Bristol"
+location:
+  country_code: GB
+  latitude: 51.454
+  longitude: -2.588
+scores:
+  impact: 8.6
+  uniqueness: 8.6
+  significance: 8.7
+  experience: 9.0
+  depth: 8.9
+  categories:
+    culture: 9.1
+    history: 8.9
+    architecture: 8.8

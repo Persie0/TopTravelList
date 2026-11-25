@@ -1,0 +1,15 @@
+id: sight-ye-historic-mukalla
+name: "Historic City of Al-Mukalla"
+location:
+  country_code: YE
+  latitude: 14.53
+  longitude: 49.13
+scores:
+  impact: 8.0
+  uniqueness: 8.1
+  significance: 8.1
+  experience: null
+  depth: null
+  categories:
+    architecture: 8.6
+    history: 8.4

@@ -1,0 +1,15 @@
+id: sight-vc-mopion-island
+name: "Mopion Island"
+location:
+  country_code: VC
+  latitude: 12.543706
+  longitude: -61.398294
+scores:
+  impact: null
+  uniqueness: null
+  significance: 6.5
+  experience: null
+  depth: null
+  categories:
+    photography: 9.0
+    beaches: 8.9

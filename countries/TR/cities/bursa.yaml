@@ -1,0 +1,16 @@
+id: city-tr-bursa
+name: "Bursa"
+location:
+  country_code: TR
+  latitude: 40.1826
+  longitude: 29.0665
+scores:
+  impact: 8.4
+  uniqueness: 8.6
+  significance: 8.9
+  experience: 8.5
+  depth: 8.5
+  categories:
+    history: 9.0
+    architecture: 9.0
+    culture: 8.8

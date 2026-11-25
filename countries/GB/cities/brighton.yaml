@@ -1,0 +1,16 @@
+id: city-gb-brighton
+name: "Brighton"
+location:
+  country_code: GB
+  latitude: 50.823
+  longitude: -0.137
+scores:
+  impact: 8.4
+  uniqueness: 8.4
+  significance: 8.1
+  experience: 8.9
+  depth: 8.5
+  categories:
+    culture: 8.9
+    nightlife: 8.9
+    beaches: 8.3

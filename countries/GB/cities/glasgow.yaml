@@ -1,0 +1,16 @@
+id: city-gb-glasgow
+name: "Glasgow"
+location:
+  country_code: GB
+  latitude: 55.864
+  longitude: -4.252
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 8.9
+  experience: 9.1
+  depth: 9.2
+  categories:
+    culture: 9.3
+    architecture: 9.1
+    nightlife: 9.0

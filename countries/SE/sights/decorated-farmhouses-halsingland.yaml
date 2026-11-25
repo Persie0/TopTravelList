@@ -1,0 +1,15 @@
+id: sight-se-decorated-farmhouses-halsingland
+name: "Decorated Farmhouses of Hälsingland"
+location:
+  country_code: SE
+  latitude: 61.71
+  longitude: 16.18
+scores:
+  impact: 8.3
+  uniqueness: 9.0
+  significance: 9.0
+  experience: 8.6
+  depth: 8.6
+  categories:
+    architecture: 9.2
+    culture: 9.1

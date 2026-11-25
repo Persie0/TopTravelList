@@ -1,0 +1,15 @@
+id: sight-pk-shah-rukn-e-alam
+name: "Tomb of Shah Rukn-e-Alam"
+location:
+  country_code: PK
+  latitude: 30.199
+  longitude: 71.472
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 8.8
+  experience: 8.3
+  depth: 7.4
+  categories:
+    architecture: 9.1
+    history: 8.8

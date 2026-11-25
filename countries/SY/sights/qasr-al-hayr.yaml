@@ -1,0 +1,15 @@
+id: sight-sy-qasr-al-hayr
+name: "Qasr al-Hayr al-Sharqi"
+location:
+  country_code: SY
+  latitude: 35.066
+  longitude: 39.101
+scores:
+  impact: 8.1
+  uniqueness: 8.7
+  significance: 8.9
+  experience: null
+  depth: null
+  categories:
+    architecture: 8.9
+    history: 9.1

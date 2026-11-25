@@ -1,0 +1,16 @@
+id: sight-gb-isle-of-skye
+name: "Isle of Skye"
+location:
+  country_code: GB
+  latitude: 57.32
+  longitude: -6.24
+scores:
+  impact: 9.5
+  uniqueness: 9.3
+  significance: 8.8
+  experience: 9.2
+  depth: 9.4
+  categories:
+    nature: 9.6
+    photography: 9.6
+    adventure: 9.3

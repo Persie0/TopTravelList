@@ -2,7 +2,7 @@
 
 # Barbados (BB) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**10 ranked** · **0 unassessed** · **10 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,20 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (10)
 
-No cities, towns & villages have been assessed for **Barbados** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Bridgetown](cities/bridgetown.yaml) | City / town | **81.80** | **History 9.0**, **Culture 8.9**, **Architecture 8.6**, Food 8.5 | 7.7 / 8.4 / 8.5 / 8.2 / 8.4 | [13.098, -59.615](https://www.google.com/maps/search/?api=1&query=13.098,-59.615) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bridgetown%2C%20Barbados) |
+| 2 | [Speightstown](cities/speightstown.yaml) | City / town | **80.15** | **History 8.8**, **Culture 8.7**, **Architecture 8.4** | 7.7 / 8.3 / 8.3 / 8.2 / 7.4 | [13.25, -59.643](https://www.google.com/maps/search/?api=1&query=13.25,-59.643) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Speightstown%2C%20Barbados) |
+| 3 | [Bathsheba](cities/bathsheba.yaml) | City / town | **78.50** | **Photography 9.1**, **Culture 8.1** | 8.4 / 8.5 / 6.8 / 7.9 / 6.6 | [13.211, -59.525](https://www.google.com/maps/search/?api=1&query=13.211,-59.525) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bathsheba%2C%20Barbados) |
+| 4 | [Oistins](cities/oistins.yaml) | City / town | **77.40** | **Food 9.2**, **Culture 8.9**, **Nightlife 8.7** | 7.2 / 8.1 / 7.3 / 8.9 / 7.6 | [13.066, -59.537](https://www.google.com/maps/search/?api=1&query=13.066,-59.537) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Oistins%2C%20Barbados) |
+| 5 | [Holetown](cities/holetown.yaml) | City / town | **76.80** | **History 8.5**, **Food 8.3**, **Culture 8.2** | 7.1 / 7.8 / 8.1 / 8.2 / 7.5 | [13.186, -59.637](https://www.google.com/maps/search/?api=1&query=13.186,-59.637) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Holetown%2C%20Barbados) |
+| 6 | [St Lawrence Gap](cities/st-lawrence-gap.yaml) | City / town | **74.20** | **Nightlife 9.2**, **Food 8.8** | 7.3 / 7.5 / 6.1 / 8.9 / 8.0 | [13.067, -59.571](https://www.google.com/maps/search/?api=1&query=13.067,-59.571) | [Google Maps](https://www.google.com/maps/search/?api=1&query=St%20Lawrence%20Gap%2C%20Barbados) |
+| 7 | [Hastings](cities/hastings.yaml) | City / town | **72.40** | **Food 8.4**, **Relaxation 8.4** | 7.2 / 7.2 / 6.3 / 8.4 / 7.6 | [13.079, -59.607](https://www.google.com/maps/search/?api=1&query=13.079,-59.607) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hastings%2C%20Barbados) |
+| 8 | [Six Men's](cities/six-men-s.yaml) | City / town | **70.10** | **Culture 8.3**, **Food 8.1** | 6.8 / 7.6 / 6.7 / 7.6 / 5.9 | [13.274, -59.646](https://www.google.com/maps/search/?api=1&query=13.274,-59.646) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Six%20Men%27s%2C%20Barbados) |
+| 9 | [Crane village](cities/crane-village.yaml) | Village | **68.15** | **Photography 8.0**, **Culture 7.5** | 6.8 / 7.2 / 6.2 / 7.5 / 6.1 | [13.104, -59.446](https://www.google.com/maps/search/?api=1&query=13.104,-59.446) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Crane%20village%2C%20Barbados) |
+| 10 | [Crab Hill](cities/crab-hill.yaml) | City / town | **65.40** | **Culture 7.5** | 6.2 / 7.0 / 6.5 / 7.0 / 5.8 | [13.305, -59.642](https://www.google.com/maps/search/?api=1&query=13.305,-59.642) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Crab%20Hill%2C%20Barbados) |
 
 ---
 

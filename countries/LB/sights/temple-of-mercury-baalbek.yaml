@@ -1,0 +1,14 @@
+id: sight-lb-temple-of-mercury-baalbek
+name: "Temple of Mercury (Baalbek)"
+location:
+  country_code: LB
+  latitude: 34.001667
+  longitude: 36.208333
+scores:
+  impact: null
+  uniqueness: 8.2
+  significance: 8.8
+  experience: null
+  depth: null
+  categories:
+    history: 9.0

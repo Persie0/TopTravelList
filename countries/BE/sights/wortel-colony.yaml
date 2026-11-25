@@ -1,0 +1,16 @@
+id: sight-be-wortel-colony
+name: "Wortel Colony (Colonies of Benevolence)"
+location:
+  country_code: BE
+  latitude: 51.396
+  longitude: 4.799
+scores:
+  impact: 7.9
+  uniqueness: 8.7
+  significance: 8.9
+  experience: 8.3
+  depth: 8.1
+  categories:
+    history: 9.0
+    culture: 8.6
+    nature: 8.5

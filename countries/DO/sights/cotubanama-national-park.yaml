@@ -1,0 +1,16 @@
+id: sight-do-cotubanama-national-park
+name: "Cotubanamá National Park"
+location:
+  country_code: DO
+  latitude: 18.25
+  longitude: -68.72
+scores:
+  impact: 8.8
+  uniqueness: 8.6
+  significance: 8.8
+  experience: 8.7
+  depth: 8.7
+  categories:
+    nature: 9.2
+    wildlife: 9.0
+    beaches: 9.2

@@ -1,0 +1,16 @@
+id: sight-cv-rua-banana
+name: "Rua Banana"
+location:
+  country_code: CV
+  latitude: 14.9160
+  longitude: -23.6050
+scores:
+  impact: 7.3
+  uniqueness: 8.0
+  significance: 8.5
+  experience: 7.9
+  depth: 5.8
+  categories:
+    history: 8.9
+    architecture: 8.4
+    culture: 8.5

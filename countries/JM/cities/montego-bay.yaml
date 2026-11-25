@@ -1,0 +1,16 @@
+id: city-jm-montego-bay
+name: "Montego Bay"
+location:
+  country_code: JM
+  latitude: 18.476
+  longitude: -77.917
+scores:
+  impact: 7.6
+  uniqueness: 7.3
+  significance: 7.7
+  experience: 8.5
+  depth: 8.0
+  categories:
+    food: 8.5
+    nightlife: 8.7
+    culture: 8.0

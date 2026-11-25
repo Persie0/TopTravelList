@@ -1,0 +1,15 @@
+id: sight-no-north-cape
+name: "North Cape plateau"
+location:
+  country_code: "NO"
+  latitude: 71.17
+  longitude: 25.783
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 8.0
+  experience: 8.4
+  depth: 7.5
+  categories:
+    nature: 8.8
+    photography: 9

@@ -1,0 +1,15 @@
+id: city-bs-cockburn-town-san-salvador
+name: "Cockburn Town (San Salvador)"
+location:
+  country_code: BS
+  latitude: 24.052
+  longitude: -74.532
+scores:
+  impact: 6.4
+  uniqueness: 7.0
+  significance: 7.1
+  experience: 6.8
+  depth: 5.8
+  categories:
+    culture: 7.6
+    history: 7.8

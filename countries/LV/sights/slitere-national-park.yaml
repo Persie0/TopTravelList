@@ -1,0 +1,16 @@
+id: sight-lv-slitere-national-park
+name: "Slītere National Park"
+location:
+  country_code: LV
+  latitude: 57.63
+  longitude: 22.32
+scores:
+  impact: 8.2
+  uniqueness: 8.5
+  significance: 8.3
+  experience: 8.3
+  depth: 8.4
+  categories:
+    nature: 8.9
+    wildlife: 8.8
+    photography: 8.7

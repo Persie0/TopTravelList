@@ -1,0 +1,15 @@
+id: sight-ph-paoay-church
+name: "Paoay Church"
+location:
+  country_code: PH
+  latitude: 18.061
+  longitude: 120.522
+scores:
+  impact: 8.6
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 8.2
+  depth: 7.2
+  categories:
+    architecture: 9.1
+    history: 9.0

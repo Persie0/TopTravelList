@@ -1,0 +1,15 @@
+id: sight-lt-europos-parkas
+name: "Europos Parkas"
+location:
+  country_code: LT
+  latitude: 54.83
+  longitude: 25.35
+scores:
+  impact: 7.9
+  uniqueness: 8.3
+  significance: 7.8
+  experience: 8.3
+  depth: 8.3
+  categories:
+    culture: 8.7
+    nature: 8.1

@@ -1,0 +1,16 @@
+id: sight-cv-tope-de-coroa
+name: "Tope de Coroa"
+location:
+  country_code: CV
+  latitude: 16.9360
+  longitude: -25.2990
+scores:
+  impact: 8.5
+  uniqueness: 8.4
+  significance: 7.3
+  experience: 8.2
+  depth: 7.4
+  categories:
+    adventure: 8.9
+    nature: 8.8
+    photography: 9.0

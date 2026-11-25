@@ -1,0 +1,15 @@
+id: city-kp-kaesong
+name: "Kaesong"
+location:
+  country_code: KP
+  latitude: 37.9708
+  longitude: 126.5544
+scores:
+  impact: 8.1
+  uniqueness: 8.5
+  significance: 9.0
+  experience: null
+  depth: null
+  categories:
+    history: 9.1
+    architecture: 8.7

@@ -1,0 +1,16 @@
+id: sight-tt-buccoo-reef-marine-park
+name: "Buccoo Reef Marine Park"
+location:
+  country_code: TT
+  latitude: 11.183
+  longitude: -60.831
+scores:
+  impact: 8.6
+  uniqueness: 8.3
+  significance: 8.4
+  experience: 8.7
+  depth: 8.0
+  categories:
+    nature: 9.0
+    wildlife: 8.9
+    adventure: 9.0

@@ -1,0 +1,16 @@
+id: sight-se-hanseatic-visby
+name: "Hanseatic Town of Visby"
+location:
+  country_code: SE
+  latitude: 57.641
+  longitude: 18.294
+scores:
+  impact: 9.2
+  uniqueness: 9.2
+  significance: 9.3
+  experience: 9.1
+  depth: 8.9
+  categories:
+    architecture: 9.4
+    history: 9.4
+    photography: 9.4

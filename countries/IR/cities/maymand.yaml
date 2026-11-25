@@ -1,0 +1,15 @@
+id: city-ir-maymand
+name: "Maymand"
+location:
+  country_code: IR
+  latitude: 30.232
+  longitude: 55.375
+scores:
+  impact: 8.2
+  uniqueness: 8.8
+  significance: 8.6
+  experience: null
+  depth: null
+  categories:
+    architecture: 8.8
+    culture: 8.9
