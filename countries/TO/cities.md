@@ -2,7 +2,7 @@
 
 # Tonga (TO) — Cities, towns & villages ranking
 
-**6 ranked** · **0 unassessed** · **6 total** · Worldwide scoring **v2**
+**6 ranked** · **1 unassessed** · **7 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -20,6 +20,14 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 4 | [Pangai](cities/pangai.yaml) | City / town | **66.20** | **Culture 7.1**, **History 6.7** | 6.4 / 7.0 / 6.6 / 6.8 / 6.1 | [-19.81468, -174.35423](https://www.google.com/maps/search/?api=1&query=-19.81468,-174.35423) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Pangai%2C%20Tonga) |
 | 5 | [Vaini](cities/vaini.yaml) | City / town | **65.20** | **Culture 7.5**, **Food 7.3** | 6.3 / 6.9 / 6.2 / 7.1 / 6.0 | [-21.193, -175.177](https://www.google.com/maps/search/?api=1&query=-21.193,-175.177) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Vaini%2C%20Tonga) |
 | 6 | ['Ohonua](cities/ohonua.yaml) | City / town | **62.40** | — | 6.1 / 6.6 / 6.2 / 6.4 / 5.6 | [-21.342139, -174.955861](https://www.google.com/maps/search/?api=1&query=-21.342139,-174.955861) | [Google Maps](https://www.google.com/maps/search/?api=1&query=%27Ohonua%2C%20Tonga) |
+
+## Not yet fully assessed (1)
+
+These destinations have no rank until all five core scores are assessed.
+
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| — | [Hihifo (Niuatoputapu)](cities/hihifo-niuatoputapu.yaml) | City / town | **—** | — | — / — / — / — / — | [-15.95666, -173.79618](https://www.google.com/maps/search/?api=1&query=-15.95666,-173.79618) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hihifo%20%28Niuatoputapu%29%2C%20Tonga) |
 
 ---
 
