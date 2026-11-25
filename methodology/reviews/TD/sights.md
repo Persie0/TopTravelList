@@ -2,6 +2,9 @@
 
 [Worldwide rules](../../../rules.md) · [Future-country workflow](../../future-country-workflow.md). 2026-11-25. [UNESCO inventory](https://whc.unesco.org/en/statesparties/td) confirms two inscribed and seven tentative properties, all represented. [Australian travel advice](https://www.smartraveller.gov.au/destinations/africa/chad) advises against all travel; [UK regional risks](https://www.gov.uk/foreign-travel-advice/chad/regional-risks) identifies restrictions. Scores are intrinsic editorial evaluations of documented normal visitor experiences, not present-day safety or access advice. Parent and component scores are not additive. Points are approximate unless specifically identified as published reference points, not entrances. Begon II's published coordinate is malformed; regional proxy is explicitly provisional. Shared peer ladders require more individual and African comparisons. Evidence is page- or excerpt-level, not comprehensive claim verification.
 
+
+Follow-up 2026-11-25: [UNESCO register](https://whc.unesco.org/en/statesparties/td) confirms two inscriptions and seven tentative properties. National protected-area inventory includes five national parks (Zakouma, Manda, Sena Oura, Zah Soo and Siniaka Minia); the two missing parks added below. [2025–2030 biodiversity strategy](https://s3.amazonaws.com/km.documents.attachments/b649/3ee0/4fc8bfecea94d08e038ae727) and [2025 giraffe conservation study](https://scielo.org.za/scielo.php?lng=en&nrm=iso&pid=S0075-64582025000100009&script=sci_arttext) support designations. Remaining gaps include Niola Doa rock engravings, outside the currently inscribed boundary per [archaeological publication](https://iris.uniroma1.it/bitstream/11573/1673823/1/Di-Lernia_Periphery_UNESCO_2022.pdf), and Aouk-Keita and other reserves. [Australian advisory updated 16 November 2026](https://www.smartraveller.gov.au/destinations/africa/chad) maintains do-not-travel advice; scores are not present-day travel recommendations.
+
 ## sight-td-ennedi-massif-natural-and-cultural-landscape — Ennedi Massif Natural and Cultural Landscape — 2026-11-25
 
 - [YAML](../../../countries/TD/sights/ennedi-massif-natural-and-cultural-landscape.yaml) · Action: new · **source-linked-unverified**.
@@ -20,6 +23,8 @@
 - High-score challenge: Impact and uniqueness 9.7, significance 9.6 and depth 9.5 reflect the extensive canyon and rock-art ensemble, distinct from Wadi Rum's own sandstone heritage; photography and nature 9.8 reflect documented geological variety, not ease of access.. No approved 10.
 - Evidence: [Reference](https://whc.unesco.org/en/list/1475) — Opened UNESCO property description confirms sandstone landforms and rock art; https://www.africanparks.org/the-parks/ennedi and https://www.tchadevasion.com/en/ management and operator context; accessed 2026-11-25. Full material claim verification incomplete.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access and individual peer/category calibration.
+- Follow-up 2026-11-25: [African Parks](https://www.africanparks.org/the-parks/ennedi/ennedi-biodiversity-conservation) documents rock art, gueltas and 408 newly recorded archaeological sites in 2025; [October 2026 itinerary](https://www.kanaga-at.com/en/trip/chad/ennedi-archei-guelta-and-ounianga-lakes-cia01ps261001/) documents multiple landscape stops. Compare Wadi Rum, Tassili n’Ajjer, Grand Canyon and Petra: rare conjunction of sandstone forms, permanent water and extensive rock art supports 95.70 provisionally, not current safe access. Do not assume all newly recorded sites are visitable.
+
 
 ## sight-td-lakes-of-ounianga — Lakes of Ounianga — 2026-11-25
 
@@ -39,6 +44,8 @@
 - High-score challenge: Uniqueness 9.8 and nature 9.8 reflect UNESCO's exceptional hydrology in an arid setting; compared with Ha Long Bay and Jiuzhaigou, landscape contrast is different and visitor depth more limited.. No approved 10.
 - Evidence: [Reference](https://whc.unesco.org/en/list/1400) — UNESCO opened property description documents lake groups, hydrology and village locations; https://www.kanaga-at.com/en/destination/chad/ describes trips; accessed 2026-11-25. Full material claim verification incomplete.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access and individual peer/category calibration.
+- Follow-up 2026-11-25: [UNESCO](https://whc.unesco.org/en/list/1400) identifies 18 lakes with contrasting salinity and color in hyperarid desert. Compare Jiuzhaigou, Lake Natron, Lençóis Maranhenses and Ha Long Bay; distinctive hydrology and landscape contrast support uniqueness/nature 9.8 and photography 9.7. Bounded two-group visits limit depth.
+
 
 ## sight-td-zakouma-national-park — Zakouma National Park — 2026-11-25
 
@@ -58,6 +65,8 @@
 - High-score challenge: Wildlife 9.7 reflects documented major mammal and bird populations and functioning conservation; compare safari parks, not assured sightings. Nature 9.5 reflects seasonal habitat diversity.. No approved 10.
 - Evidence: [Reference](https://whc.unesco.org/en/tentativelists/2056/) — Opened state submission confirms park and regional Am Timan; https://www.africanparks.org/the-parks/zakouma and https://www.africanparks.org/the-parks/zakouma/visit-zakouma identify conservation and visitor arrangements; accessed 2026-11-25. Full material claim verification incomplete.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access and individual peer/category calibration.
+- Follow-up 2026-11-25: [African Parks visitor programme](https://www.africanparks.org/the-parks/zakouma/visit-zakouma) confirms seasonal wildlife drives and concentrations; [park report](https://www.africanparks.org/the-parks/zakouma) reports over 6,300 visitors in 2025; [conservation report](https://www.africanparks.org/the-parks/zakouma/biodiversity-conservation) documents recovered buffalo and elephants. Compare Serengeti, Chobe, Okavango and Kruger: exceptional dry-season concentrations justify wildlife 9.7 provisionally, not guaranteed sightings.
+
 
 ## sight-td-guelta-d-archei — Guelta d'Archei — 2026-11-25
 
@@ -77,6 +86,8 @@
 - High-score challenge: Impact 9.5 and uniqueness 9.7 reflect permanent desert water in a striking canyon; depth deliberately below entire Ennedi. Photography 9.7 and nature 9.6 are editorial, no wildlife guarantee.. No approved 10.
 - Evidence: [Reference](https://mapcarta.com/12836126) — Opened mapped pond reference; https://reasontogo.com/discover/overlanding-expedition-driving/ennedi-massif identifies guided canyon visits; accessed 2026-11-25. Full material claim verification incomplete.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access and individual peer/category calibration.
+- Follow-up 2026-11-25: [African Parks](https://www.africanparks.org/the-parks/ennedi/ennedi-biodiversity-conservation) confirms distinctive guelta and conservation agreement; [operator](https://www.kanaga-at.com/en/trip/chad/ennedi-archei-guelta-and-ounianga-lakes-cia01/) identifies a bounded visit. Compare Wadi Rum, Antelope Canyon, Todra Gorge and Fish River Canyon: dramatic enclosed canyon with desert water supports exceptional uniqueness and photography; narrower depth.
+
 
 ## sight-td-aloba-arch — Aloba Arch — 2026-11-25
 
@@ -96,6 +107,8 @@
 - High-score challenge: Photography 9.5 reflects the dramatic isolated arch and landscape; history and breadth remain bounded relative to whole desert parks.. No approved 10.
 - Evidence: [Reference](https://mapcarta.com/N4725761595) — Opened OSM reference; https://en.wikipedia.org/wiki/Aloba_Arch identifies large natural arch; precise height not claimed; accessed 2026-11-25. Full material claim verification incomplete.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access and individual peer/category calibration.
+- Follow-up 2026-11-25: [Natural Arch and Bridge Society](https://www.naturalarches.org/big_arches/big10-5.htm), [University of Cologne](https://www.sfb806.uni-koeln.de/index.php/project-blog/127-a2/828-the-ennedi-massif-natural-and-cultural-landscape-chad-s-second-world-heritage-site.html) and [Natural History Museum photography collection](https://www.nhm.ac.uk/wpy/gallery/2011-moonlight-over-aloba) substantiate unusual arch scale and visual merit. Compare Landscape Arch, Delicate Arch, Rainbow Bridge and Moon Hill; photography 9.5 retained, measurement differences and single-site depth noted.
+
 
 ## sight-td-ounianga-kebir-lake-group — Ounianga Kébir Lake Group — 2026-11-25
 
@@ -134,6 +147,8 @@
 - High-score challenge: Uniqueness 9.5 and nature 9.6 reflect the distinctive dune-separated lake and reed system; narrower scope than entire property.. No approved 10.
 - Evidence: [Reference](https://whc.unesco.org/en/list/1400) — UNESCO opened property description documents lake groups, hydrology and village locations; https://www.kanaga-at.com/en/destination/chad/ describes trips; accessed 2026-11-25. Full material claim verification incomplete.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access and individual peer/category calibration.
+- Follow-up 2026-11-25: [UNESCO](https://whc.unesco.org/en/list/1400) describes dunes and freshwater lake group. Compare Lençóis Maranhenses, Lake Natron, Jiuzhaigou and Pamukkale for water-landscape contrast; narrower than full Ounianga property. Retain exceptional categories provisionally.
+
 
 ## sight-td-tibesti-massif-documented-guided-visitor-landscapes — Tibesti Massif (documented guided visitor landscapes) — 2026-11-25
 
@@ -153,6 +168,8 @@
 - High-score challenge: Nature 9.5 reflects unusual high volcanic mountains in Sahara; scope and current security limit claims about accessible routes.. No approved 10.
 - Evidence: [Reference](https://www.tchadevasion.com/en/) — Chadian operator excerpt documents Ennedi and Tibesti expeditions; https://www.kanaga-at.com/en/destination/chad/ regional routes, town-specific claims not fully verified; accessed 2026-11-25. Full material claim verification incomplete.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access and individual peer/category calibration.
+- Follow-up 2026-11-25: [Specialist expedition itinerary](https://www.kanaga-at.com/en/trip/chad/tibesti-and-zakouma-park-cia05/) and [local operator](https://www.tchadevasion.com/) document multi-day volcanic landscapes. Compare Danakil, Teide, Atacama and Wadi Rum; retain nature 9.5 and overall 90.20 provisionally for documented visitor circuits, not all highlands. Current advisories do not recommend travel.
+
 
 ## sight-td-emi-koussi — Emi Koussi — 2026-11-25
 
@@ -191,6 +208,8 @@
 - High-score challenge: Significance 9.5 and history 9.6 reflect documented extensive prehistoric imagery; no aggregate visitor rating until the permitted scope is established.. No approved 10.
 - Evidence: [Reference](https://whc.unesco.org/en/tentativelists/2055/) — Opened state submission describes dispersed engravings and paintings; accessed 2026-11-25. Full material claim verification incomplete.
 - Remaining gaps: Normal permitted visitor experience and scope not established.
+- Follow-up 2026-11-25: [British Museum rock art resource](https://vr.africanrockart.britishmuseum.org/country/chad/niola-doa/) and [African Parks](https://www.africanparks.org/unearthing-ennedis-cultural-heritage) establish major archaeological significance. Compare Tassili n’Ajjer, Twyfelfontein, Tsodilo and Tadrart Acacus; history 9.6 and culture 9.5 remain provisional for dispersed heritage, not aggregate access.
+
 
 ## sight-td-manda-gueli-rock-art-shelter — Manda Guéli Rock Art Shelter — 2026-11-25
 
@@ -267,6 +286,8 @@
 - High-score challenge: Uniqueness 9.6 and significance 9.8 reflect scientific evidence, not visual spectacle; no overall score until visitor scope is established.. No approved 10.
 - Evidence: [Reference](https://whc.unesco.org/en/tentativelists/2050/) — Opened state submission identifies hominid locality and reference range; accessed 2026-11-25. Full material claim verification incomplete.
 - Remaining gaps: Normal permitted visitor experience and scope not established.
+- Follow-up 2026-11-25: [UNESCO nomination](https://whc.unesco.org/en/tentativelists/2050/) establishes scientific significance; compare Olduvai, Hadar, Sterkfontein and Lake Turkana for paleoanthropological evidence, not visitor spectacle. No ordinary visit established; high significance retained provisionally.
+
 
 ## sight-td-tele-nugar-historical-iron-mines — Télé-Nugar Historical Iron Mines — 2026-11-25
 
@@ -347,7 +368,7 @@
 ## sight-td-manda-national-park — Manda National Park — 2026-11-25
 
 - [YAML](../../../countries/TD/sights/manda-national-park.yaml) · Action: new · **unassessed**.
-- Scope: protected southern savanna park. GPS 9.30, 18.30: approximate editorial representative point; verify before use.
+- Scope: protected southern savanna park. GPS 9.4292, 17.998: [mapped park](https://mapcarta.com/W311557401), representative point not entrance.
 - Worldwide peers (I/U/S/E/D):
   - [Mount Huangshan (Yellow Mountain) (CN)](../../../countries/CN/sights/mount-huangshan.yaml) — 9.9 / 9.9 / 9.6 / 9.8 / 9.3 (97.65/100); upper anchor; unresolved impact (ordinary visitor impact unknown); lower uniqueness (regional ecosystem); lower significance (conservation significance); unresolved experience (access unverified); unresolved depth (depth unknown).
   - [Phong Nha Ke Bang National Park (VN)](../../../countries/VN/sights/phong-nha-ke-bang-national-park.yaml) — 9.8 / 9.9 / 9.7 / 9.7 / 9.8 (97.90/100); related comparison; unresolved impact (ordinary visitor impact unknown); lower uniqueness (regional ecosystem); lower significance (conservation significance); unresolved experience (access unverified); unresolved depth (depth unknown).
@@ -358,9 +379,9 @@
 - Significance 8.5: conservation significance.
 - Experience null: access unverified.
 - Depth null: depth unknown.
-- Categories: nature:8.8, wildlife:8.8. Overall: unranked.
+- Categories: nature:8.8, wildlife:null. Overall: unranked.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked destination-specific source.
+- Evidence: [Protected Planet](https://www.protectedplanet.net/642) confirms designation; [APEF conservation profile](https://apef-conservation.org/apef/parc-national-de-manda/) establishes conservation context. Wildlife 8.8 → null: regular permitted visitor viewing not established. Checked 2026-11-25.
 - Remaining gaps: Normal permitted visitor experience and scope not established.
 
 ## sight-td-chad-national-museum — Chad National Museum — 2026-11-25
@@ -438,3 +459,41 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Reference](https://www.voyagetchad.com/guide/attraction/ndjamena) — Guide excerpt names museum and Grand Marché; https://threedayguides.com/africa/chad/ndjamena describes cathedral and river city; current access unverified; accessed 2026-11-25. Full material claim verification incomplete.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access and individual peer/category calibration.
+
+## sight-td-sena-oura-national-park — Sena Oura National Park — 2026-11-25
+
+- [YAML](../../../countries/TD/sights/sena-oura-national-park.yaml) · Action: new · **unassessed**.
+- Scope: nationally designated park, not the entire transboundary conservation landscape. GPS 8.9504, 14.7413: [Mapped park reference](https://www.maploco.com/top-attractions/countries/chad/sena-oura-national-park/), within published geographic ranges; not entrance.
+- Worldwide peers (I/U/S/E/D):
+  - [Mount Huangshan (Yellow Mountain) (CN)](../../../countries/CN/sights/mount-huangshan.yaml) — 9.9 / 9.9 / 9.6 / 9.8 / 9.3 (97.65/100); established landscape anchor, different habitat.
+  - [Phong Nha Ke Bang National Park (VN)](../../../countries/VN/sights/phong-nha-ke-bang-national-park.yaml) — 9.8 / 9.9 / 9.7 / 9.7 / 9.8 (97.90/100); international conservation anchor with established routes.
+  - [Khao Sok National Park (TH)](../../../countries/TH/sights/khao-sok-national-park.yaml) — 9.4 / 9.4 / 9.1 / 9.4 / 9.3 (93.30/100); protected landscape comparison, more documented visitor scope.
+  - [Dibeen Forest Reserve (JO)](../../../countries/JO/sights/dibeen-forest-reserve.yaml) — 7.5 / 7.6 / 8.1 / 7.8 / 7.5 (76.90/100); bounded reserve, different regional conservation significance.
+- Impact null: ordinary visitor impact unresolved.
+- Uniqueness 8.3: regional Sudanian protected landscape.
+- Significance 8.8: designated conservation landscape and habitat connectivity.
+- Experience null: ordinary permitted visitor scope unestablished.
+- Depth null: no verified visitor itinerary.
+- Categories: nature:8.8, wildlife:null. Overall: unranked.
+- High-score challenge: Not applicable. No approved 10.
+- Evidence: [Designation law](https://legitchad.org/textes/lois/loi-10-011-2010-60-11-pr/) and [2025 floristic study](https://www.m.elewa.org/journals/article/phytodiversite-du-parc-national-sena-oura-pnso-en-zone-soudanienne-du-tchad-afrique-centrale/) support protected Sudanian woodland and cross-border conservation. Checked 2026-11-25; no full factual verification.
+- Remaining gaps: permitted visitor scope, detailed boundary, current ecology and closer comparisons.
+
+## sight-td-zah-soo-national-park — Zah Soo National Park — 2026-11-25
+
+- [YAML](../../../countries/TD/sights/zah-soo-national-park.yaml) · Action: new · **unassessed**.
+- Scope: nationally designated park, not the entire transboundary conservation landscape. GPS 9.7526, 14.629: [Mapped park reference](https://mapcarta.com/W1174720981), OSM way 1174720981; not entrance.
+- Worldwide peers (I/U/S/E/D):
+  - [Mount Huangshan (Yellow Mountain) (CN)](../../../countries/CN/sights/mount-huangshan.yaml) — 9.9 / 9.9 / 9.6 / 9.8 / 9.3 (97.65/100); established landscape anchor, different habitat.
+  - [Phong Nha Ke Bang National Park (VN)](../../../countries/VN/sights/phong-nha-ke-bang-national-park.yaml) — 9.8 / 9.9 / 9.7 / 9.7 / 9.8 (97.90/100); international conservation anchor with established routes.
+  - [Khao Sok National Park (TH)](../../../countries/TH/sights/khao-sok-national-park.yaml) — 9.4 / 9.4 / 9.1 / 9.4 / 9.3 (93.30/100); protected landscape comparison, more documented visitor scope.
+  - [Dibeen Forest Reserve (JO)](../../../countries/JO/sights/dibeen-forest-reserve.yaml) — 7.5 / 7.6 / 8.1 / 7.8 / 7.5 (76.90/100); bounded reserve, different regional conservation significance.
+- Impact null: ordinary visitor impact unresolved.
+- Uniqueness 8.4: regional Sudanian protected landscape.
+- Significance 8.9: designated conservation landscape and habitat connectivity.
+- Experience null: ordinary permitted visitor scope unestablished.
+- Depth null: no verified visitor itinerary.
+- Categories: nature:8.9, wildlife:null. Overall: unranked.
+- High-score challenge: Not applicable. No approved 10.
+- Evidence: [Conservation manager Noé](https://noe.org/en/conflits-humain-faune-tchad-co-existence-durable-possible/) and [2025 giraffe study](https://scielo.org.za/scielo.php?lng=en&nrm=iso&pid=S0075-64582025000100009&script=sci_arttext) document park designation in 2022, wildlife recovery and Binder-Léré landscape; no ordinary visitor route established. Checked 2026-11-25; no full factual verification.
+- Remaining gaps: permitted visitor scope, detailed boundary, current ecology and closer comparisons.
