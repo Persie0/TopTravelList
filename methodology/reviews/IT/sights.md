@@ -361,6 +361,7 @@
 - Location check: 45.466, 9.17; approximate representative point, independent verification pending.
 - Evidence status: **source-linked-unverified**
 - Evidence: [UNESCO](https://whc.unesco.org/en/statesparties/it) — accessed 2026-11-25 for national property inventory: identity and inscription/tentative status; material claims and current visitor conditions not independently corroborated.
+- Supplemental evidence (2026-11-25): https://cenacolovinciano.org/en/info/ — Museum operator limits mural viewing to 15 minutes for conservation; separate church access not equivalent to convent-wide admission.
 - Missing or uncertain facts: precise GPS, ordinary permitted visitor scope, claim-level corroboration and closer peer matching.
 
 #### Worldwide peer comparisons
@@ -378,13 +379,13 @@
 | Uniqueness | — | 9.5 | Rare original Renaissance painting in setting |
 | Significance | — | 9.6 | International artistic heritage |
 | Experience | — | 8.7 | Timed permitted painting and church visits |
-| Depth | — | 7.9 | Named convent and church |
+| Depth | — | 7.3 | 15-minute mural viewing; separate church visit, no unrestricted convent access |
 
 - Applicable category scores: culture: 9.7, history: 9.5, architecture: 9.2.
-- Computed worldwide overall: 90.90/100.
-- High-score challenge: Uniqueness 9.5: Rare original Renaissance painting in setting; Significance 9.6: International artistic heritage; culture 9.7: International artistic heritage; history 9.5: International artistic heritage. 90+ total: Historic church and exceptional mural; Rare original Renaissance painting in setting; Named convent and church. Compared with Schönbrunn and Hoi An, the particular artistic, architectural or historic merit supports the stated dimension independently of ordinary visitor breadth. Closer same-type comparisons required..
+- Computed worldwide overall: 90.30/100.
+- High-score challenge: uniqueness 9.5, significance 9.6, culture 9.7 and history 9.5 reflect the original Renaissance mural and its artistic influence, not visitor duration. The 15-minute mural viewing and separate church access constrain depth to 7.3; larger museum collections are not equivalent.
 - Approved 10 registry: none.
-- Final decision: Provisional editorial assessment: Rare original Renaissance painting in setting; Named convent and church.
+- Final decision: 90.30 after documented conservation-limited viewing; artistic significance retained.
 - Earlier decision: none.
 - Verification still needed: independent site-specific evidence, access, exact coordinates and narrower worldwide peers.
 
@@ -2564,8 +2565,9 @@
 - Action: new
 - Precise subject: Asinara island tentative landscape; Tentative island scope not assumed identical to park.
 - Location check: 41.07, 8.27; approximate representative point, independent verification pending.
-- Evidence status: **source-linked-unverified**
+- Evidence status: **unassessed**
 - Evidence: [UNESCO](https://whc.unesco.org/en/statesparties/it) — accessed 2026-11-25 for national property inventory: identity and inscription/tentative status; material claims and current visitor conditions not independently corroborated.
+- Supplemental evidence (2026-11-25): https://www.parcoasinara.org/en/park-authority/the-national-park/ — Park authority documents island and park scope overlap; no distinct ordinary visitor experience established for tentative island record. Retain inventory identity but avoid duplicate ranked destination.
 - Missing or uncertain facts: precise GPS, ordinary permitted visitor scope, claim-level corroboration and closer peer matching.
 
 #### Worldwide peer comparisons
@@ -2582,14 +2584,14 @@
 | Impact | — | 8.9 | Remote island shores and former institutional buildings |
 | Uniqueness | — | 9.0 | Distinct island ecology and historical isolation |
 | Significance | — | 8.9 | Regional conservation heritage |
-| Experience | — | 8.8 | Authorized island visits |
-| Depth | — | 8.8 | Tentative island scope not assumed identical to park |
+| Experience | — | null | Distinct visitor scope from ranked national park not established |
+| Depth | — | null | Overlap with national park visitor routes unresolved |
 
 - Applicable category scores: nature: 9.4, wildlife: 9.2.
-- Computed worldwide overall: 89.00/100.
+- Computed worldwide overall: unranked.
 - High-score challenge: Not applicable.
 - Approved 10 registry: none.
-- Final decision: Provisional editorial assessment: Distinct island ecology and historical isolation; Tentative island scope not assumed identical to park.
+- Final decision: retain tentative property inventory; unrank pending demonstrably separate visitor scope from Asinara National Park.
 - Earlier decision: none.
 - Verification still needed: independent site-specific evidence, access, exact coordinates and narrower worldwide peers.
 
@@ -3441,6 +3443,7 @@
 - Location check: 41.07, 8.27; approximate representative point, independent verification pending.
 - Evidence status: **source-linked-unverified**
 - Evidence: [Federparchi/Parks.it](https://www.parks.it/indice/PN/Eindex.php) — accessed 2026-11-25 for park inventory and identity; counts and implementation differ from ISPRA; material claims and current visitor conditions not independently corroborated.
+- Supplemental evidence (2026-11-25): https://www.parcoasinara.org/en/visiting-the-park/park-trails/ — Park authority documents multiple island trail sectors; https://www.parcoasinara.org/en/park-authority/the-national-park/ identifies park boundary and island designations.
 - Missing or uncertain facts: precise GPS, ordinary permitted visitor scope, claim-level corroboration and closer peer matching.
 
 #### Worldwide peer comparisons
@@ -4071,6 +4074,7 @@
 - Location check: 41.45, 14.4; approximate representative point, independent verification pending.
 - Evidence status: **unassessed**
 - Evidence: [ISPRA](https://www.isprambiente.gov.it/it/banche-dati/repertorio-dello-stato-di-attuazione-dei-piani-per-il-parco-nei-parchi-nazionali/index) — accessed 2026-11-25 for establishment and pending park authority as of March 2026; material claims and current visitor conditions not independently corroborated.
+- Supplemental evidence (2026-11-25): https://www.isprambiente.gov.it/it/banche-dati/repertorio-dello-stato-di-attuazione-dei-piani-per-il-parco-nei-parchi-nazionali/index?set_language=it — ISPRA confirms 2025 designation but park authority establishment pending in March 2026.
 - Missing or uncertain facts: precise GPS, ordinary permitted visitor scope, claim-level corroboration and closer peer matching.
 
 #### Worldwide peer comparisons
@@ -4106,6 +4110,7 @@
 - Location check: 44.32, 9.17; approximate representative point, independent verification pending.
 - Evidence status: **unassessed**
 - Evidence: [ISPRA](https://www.isprambiente.gov.it/it/banche-dati/repertorio-dello-stato-di-attuazione-dei-piani-per-il-parco-nei-parchi-nazionali/index) — accessed 2026-11-25 for establishment and pending park authority as of March 2026; material claims and current visitor conditions not independently corroborated.
+- Supplemental evidence (2026-11-25): https://www.isprambiente.gov.it/it/banche-dati/repertorio-dello-stato-di-attuazione-dei-piani-per-il-parco-nei-parchi-nazionali/index?set_language=it — ISPRA confirms 2021 designation but park authority establishment pending in March 2026.
 - Missing or uncertain facts: precise GPS, ordinary permitted visitor scope, claim-level corroboration and closer peer matching.
 
 #### Worldwide peer comparisons
@@ -4174,8 +4179,8 @@
 - Action: new
 - Precise subject: Colosseum Roman Forum and Palatine Hill; Defined archaeological park not all Rome.
 - Location check: 41.89, 12.492; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: No destination-specific source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://colosseo.it/en/opening-times-and-tickets/ — Operator confirms combined Colosseum, Forum and Palatine admission; special areas depend on ticket. Reviewed 2026-11-25; partial evidence, not full independent material-claim verification.
 - Missing or uncertain facts: precise GPS, ordinary permitted visitor scope, claim-level corroboration and closer peer matching.
 
 #### Worldwide peer comparisons
@@ -4209,8 +4214,8 @@
 - Action: new
 - Precise subject: Pompeii Archaeological Park; Pompeii only.
 - Location check: 40.749, 14.486; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: No destination-specific source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://pompeiisites.org/en/visiting-info/timetables-and-tickets/ — Archaeological park operator confirms ordinary admission; https://pompeiisites.org/en/houses/ identifies publicly open buildings. Reviewed 2026-11-25; partial evidence, not full independent material-claim verification.
 - Missing or uncertain facts: precise GPS, ordinary permitted visitor scope, claim-level corroboration and closer peer matching.
 
 #### Worldwide peer comparisons
@@ -4244,8 +4249,8 @@
 - Action: new
 - Precise subject: Herculaneum Archaeological Park; Herculaneum only.
 - Location check: 40.806, 14.348; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: No destination-specific source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://ercolano.cultura.gov.it/rules-and-advice-for-the-visitors/?lang=en — Archaeological park confirms ordinary ticketed access; restoration tours are separate. Reviewed 2026-11-25; partial evidence, not full independent material-claim verification.
 - Missing or uncertain facts: precise GPS, ordinary permitted visitor scope, claim-level corroboration and closer peer matching.
 
 #### Worldwide peer comparisons
@@ -4279,8 +4284,8 @@
 - Action: new
 - Precise subject: Uffizi Gallery; Named collection and building only.
 - Location check: 43.768, 11.255; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: No destination-specific source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.uffizi.it/en/the-uffizi — Operator identifies Uffizi Gallery as distinct from separately managed Pitti Palace and Boboli Gardens. Reviewed 2026-11-25; partial evidence, not full independent material-claim verification.
 - Missing or uncertain facts: precise GPS, ordinary permitted visitor scope, claim-level corroboration and closer peer matching.
 
 #### Worldwide peer comparisons
@@ -4314,8 +4319,8 @@
 - Action: new
 - Precise subject: Tre Cime di Lavaredo landscape; Defined peaks and surrounding trail landscape.
 - Location check: 46.62, 12.3; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: No destination-specific source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.italia.it/en/south-tyrol/things-to-do/three-zinnen-of-lavaredo — National tourism authority identifies the Three Peaks landscape and hiking context. Reviewed 2026-11-25; partial evidence, not full independent material-claim verification.
 - Missing or uncertain facts: precise GPS, ordinary permitted visitor scope, claim-level corroboration and closer peer matching.
 
 #### Worldwide peer comparisons
@@ -4349,8 +4354,8 @@
 - Action: new
 - Precise subject: Seceda ridgeline; Named ridge not entire Val Gardena.
 - Location check: 46.6, 11.73; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: No destination-specific source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.seceda.it/en/hiking — Cableway operator documents designated hikes and scenic access. Reviewed 2026-11-25; partial evidence, not full independent material-claim verification.
 - Missing or uncertain facts: precise GPS, ordinary permitted visitor scope, claim-level corroboration and closer peer matching.
 
 #### Worldwide peer comparisons
@@ -4384,8 +4389,8 @@
 - Action: new
 - Precise subject: Lake Braies; Lake and immediate basin.
 - Location check: 46.7, 12.085; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: No destination-specific source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.prags.bz/en — Local tourism authority identifies the lake within the protected nature park; https://www.italia.it/en/italy/things-to-do/10-lakes-in-italy-for-an-active-holiday supports alpine lake context. Reviewed 2026-11-25; partial evidence, not full independent material-claim verification.
 - Missing or uncertain facts: precise GPS, ordinary permitted visitor scope, claim-level corroboration and closer peer matching.
 
 #### Worldwide peer comparisons
@@ -4419,8 +4424,8 @@
 - Action: new
 - Precise subject: Lake Como; Lake and shore landscape.
 - Location check: 46, 9.26; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: No destination-specific source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.italia.it/en/lombardy/lake-como — National tourism profile identifies lake and visitor attractions; https://www.italia.it/en/lombardy/things-to-do/one-day-itinerary-on-lake-como-what-to-visit documents shoreline attractions. Reviewed 2026-11-25; partial evidence, not full independent material-claim verification.
 - Missing or uncertain facts: precise GPS, ordinary permitted visitor scope, claim-level corroboration and closer peer matching.
 
 #### Worldwide peer comparisons
@@ -4454,8 +4459,8 @@
 - Action: new
 - Precise subject: Lake Garda; Lake and immediate shores.
 - Location check: 45.66, 10.69; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: No destination-specific source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.italia.it/en/italy/lake-garda — National tourism profile describes villages, nature and sports; https://www.italia.it/en/italy/things-to-do/lake-garda-walks-routes documents walks. Reviewed 2026-11-25; partial evidence, not full independent material-claim verification.
 - Missing or uncertain facts: precise GPS, ordinary permitted visitor scope, claim-level corroboration and closer peer matching.
 
 #### Worldwide peer comparisons
@@ -4489,8 +4494,8 @@
 - Action: new
 - Precise subject: Capri island visitor landscape; Island landscape not Amalfi.
 - Location check: 40.55, 14.24; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: No destination-specific source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.italia.it/en/campania/naples/capri — National tourism profile identifies island destination, not all Gulf of Naples excursions. Reviewed 2026-11-25; partial evidence, not full independent material-claim verification.
 - Missing or uncertain facts: precise GPS, ordinary permitted visitor scope, claim-level corroboration and closer peer matching.
 
 #### Worldwide peer comparisons
@@ -4524,8 +4529,8 @@
 - Action: new
 - Precise subject: Pantheon Rome; One monument.
 - Location check: 41.899, 12.477; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: No destination-specific source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://direzionemuseiroma.cultura.gov.it/en/pantheon/ — Official museum authority confirms historic building and ordinary ticketed admission. Reviewed 2026-11-25; partial evidence, not full independent material-claim verification.
 - Missing or uncertain facts: precise GPS, ordinary permitted visitor scope, claim-level corroboration and closer peer matching.
 
 #### Worldwide peer comparisons
@@ -4559,8 +4564,8 @@
 - Action: new
 - Precise subject: Saint Mark's Basilica and square; Named basilica and square.
 - Location check: 45.434, 12.339; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: No destination-specific source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.basilicasanmarco.it/en/ — Basilica operator identifies visitor scope; https://tickets.basilicasanmarco.it/en/ confirms ticketed visits. Reviewed 2026-11-25; partial evidence, not full independent material-claim verification.
 - Missing or uncertain facts: precise GPS, ordinary permitted visitor scope, claim-level corroboration and closer peer matching.
 
 #### Worldwide peer comparisons
@@ -4594,8 +4599,8 @@
 - Action: new
 - Precise subject: Florence Cathedral complex; Cathedral complex not all city.
 - Location check: 43.773, 11.256; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: No destination-specific source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://duomo.firenze.it/en/visit/plan-your-visit — Operator identifies distinct cathedral complex monuments and ticket options. Reviewed 2026-11-25; partial evidence, not full independent material-claim verification.
 - Missing or uncertain facts: precise GPS, ordinary permitted visitor scope, claim-level corroboration and closer peer matching.
 
 #### Worldwide peer comparisons
@@ -4629,8 +4634,8 @@
 - Action: new
 - Precise subject: Milan Cathedral; Single cathedral.
 - Location check: 45.464, 9.192; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: No destination-specific source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.duomomilano.it/en/experiences-milan-cathedral/ — Cathedral operator describes interior and archaeological area visitor routes. Reviewed 2026-11-25; partial evidence, not full independent material-claim verification.
 - Missing or uncertain facts: precise GPS, ordinary permitted visitor scope, claim-level corroboration and closer peer matching.
 
 #### Worldwide peer comparisons
@@ -4664,8 +4669,8 @@
 - Action: new
 - Precise subject: Doge's Palace Venice; One palace.
 - Location check: 45.434, 12.34; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: No destination-specific source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://palazzoducale.visitmuve.it/en/visitor-information/ — Museum operator confirms ordinary admission and visitor conditions. Reviewed 2026-11-25; partial evidence, not full independent material-claim verification.
 - Missing or uncertain facts: precise GPS, ordinary permitted visitor scope, claim-level corroboration and closer peer matching.
 
 #### Worldwide peer comparisons

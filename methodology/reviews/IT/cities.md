@@ -9,8 +9,8 @@
 - Action: new
 - Precise subject: Rome; Multiple independent districts excluding Vatican City.
 - Location check: 41.9028, 12.4964; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Italia.it](https://www.italia.it/en/italy/italian-cities) — accessed 2026-11-25 for general tourism context, not complete individual verification; material claims and current visitor conditions not independently corroborated.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.italia.it/en/italy/italian-cities — National tourism directory specifically identifies named historic capital; independent full city claims remain unverified. Reviewed 2026-11-25; partial evidence, not full independent material-claim verification.
 - Missing or uncertain facts: precise GPS, ordinary permitted visitor scope, claim-level corroboration and closer peer matching.
 
 #### Worldwide peer comparisons
@@ -44,8 +44,8 @@
 - Action: new
 - Precise subject: Venice; Many island neighborhoods.
 - Location check: 45.4408, 12.3155; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Italia.it](https://www.italia.it/en/italy/italian-cities) — accessed 2026-11-25 for general tourism context, not complete individual verification; material claims and current visitor conditions not independently corroborated.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.italia.it/en/italy/italian-cities?page=2 — National tourism directory specifically identifies named canal city and contemporary art; independent full city claims remain unverified. Reviewed 2026-11-25; partial evidence, not full independent material-claim verification.
 - Missing or uncertain facts: precise GPS, ordinary permitted visitor scope, claim-level corroboration and closer peer matching.
 
 #### Worldwide peer comparisons
@@ -79,8 +79,8 @@
 - Action: new
 - Precise subject: Florence; Multiple independent collections and districts.
 - Location check: 43.7696, 11.2558; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Italia.it](https://www.italia.it/en/italy/italian-cities) — accessed 2026-11-25 for general tourism context, not complete individual verification; material claims and current visitor conditions not independently corroborated.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.italia.it/en/italy/italian-cities — National tourism directory specifically identifies named artistic city and independent neighborhoods; independent full city claims remain unverified. Reviewed 2026-11-25; partial evidence, not full independent material-claim verification.
 - Missing or uncertain facts: precise GPS, ordinary permitted visitor scope, claim-level corroboration and closer peer matching.
 
 #### Worldwide peer comparisons
@@ -114,8 +114,8 @@
 - Action: new
 - Precise subject: Naples; Many neighborhoods excluding Pompeii and Vesuvius.
 - Location check: 40.8518, 14.2681; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Italia.it](https://www.italia.it/en/italy/italian-cities) — accessed 2026-11-25 for general tourism context, not complete individual verification; material claims and current visitor conditions not independently corroborated.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.italia.it/en/italy/italian-cities?page=2 — National tourism directory specifically identifies named historic centre and waterfront; independent full city claims remain unverified. Reviewed 2026-11-25; partial evidence, not full independent material-claim verification.
 - Missing or uncertain facts: precise GPS, ordinary permitted visitor scope, claim-level corroboration and closer peer matching.
 
 #### Worldwide peer comparisons
@@ -149,8 +149,8 @@
 - Action: new
 - Precise subject: Bologna; Multiple urban districts.
 - Location check: 44.4949, 11.3426; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Italia.it](https://www.italia.it/en/italy/italian-cities) — accessed 2026-11-25 for general tourism context, not complete individual verification; material claims and current visitor conditions not independently corroborated.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.italia.it/en/italy/italian-cities — National tourism directory specifically identifies named culture and food destination; independent full city claims remain unverified. Reviewed 2026-11-25; partial evidence, not full independent material-claim verification.
 - Missing or uncertain facts: precise GPS, ordinary permitted visitor scope, claim-level corroboration and closer peer matching.
 
 #### Worldwide peer comparisons
@@ -184,8 +184,8 @@
 - Action: new
 - Precise subject: Palermo; Many districts excluding Monreale and Cefalù.
 - Location check: 38.1157, 13.3615; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Italia.it](https://www.italia.it/en/italy/italian-cities) — accessed 2026-11-25 for general tourism context, not complete individual verification; material claims and current visitor conditions not independently corroborated.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.italia.it/en/italy/italian-cities?page=2 — National tourism directory specifically identifies named Sicilian capital and cultural crossroads; independent full city claims remain unverified. Reviewed 2026-11-25; partial evidence, not full independent material-claim verification.
 - Missing or uncertain facts: precise GPS, ordinary permitted visitor scope, claim-level corroboration and closer peer matching.
 
 #### Worldwide peer comparisons
@@ -219,8 +219,8 @@
 - Action: new
 - Precise subject: Siena; Compact settlement.
 - Location check: 43.3188, 11.3308; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Italia.it](https://www.italia.it/en/italy/italian-cities) — accessed 2026-11-25 for general tourism context, not complete individual verification; material claims and current visitor conditions not independently corroborated.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.italia.it/en/tuscany/siena/things-to-do/siena-historic-centre — Named national tourism profile identifies historic centre and art museum. Reviewed 2026-11-25; partial evidence, not full independent material-claim verification.
 - Missing or uncertain facts: precise GPS, ordinary permitted visitor scope, claim-level corroboration and closer peer matching.
 
 #### Worldwide peer comparisons
@@ -254,8 +254,8 @@
 - Action: new
 - Precise subject: Matera; City not entire rural park.
 - Location check: 40.6664, 16.6043; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Italia.it](https://www.italia.it/en/italy/italian-cities) — accessed 2026-11-25 for general tourism context, not complete individual verification; material claims and current visitor conditions not independently corroborated.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.italia.it/en/italy/italian-cities?page=2 — National tourism directory specifically identifies named historic city and cultural landscape; independent full city claims remain unverified. Reviewed 2026-11-25; partial evidence, not full independent material-claim verification.
 - Missing or uncertain facts: precise GPS, ordinary permitted visitor scope, claim-level corroboration and closer peer matching.
 
 #### Worldwide peer comparisons
@@ -289,8 +289,8 @@
 - Action: new
 - Precise subject: Verona; Several urban districts.
 - Location check: 45.4384, 10.9916; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Italia.it](https://www.italia.it/en/italy/italian-cities) — accessed 2026-11-25 for general tourism context, not complete individual verification; material claims and current visitor conditions not independently corroborated.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.italia.it/en/italy/italian-cities?page=2 — National tourism directory specifically identifies named historic city; independent full city claims remain unverified. Reviewed 2026-11-25; partial evidence, not full independent material-claim verification.
 - Missing or uncertain facts: precise GPS, ordinary permitted visitor scope, claim-level corroboration and closer peer matching.
 
 #### Worldwide peer comparisons
@@ -324,8 +324,8 @@
 - Action: new
 - Precise subject: Milan; Many urban districts.
 - Location check: 45.4642, 9.19; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Italia.it](https://www.italia.it/en/italy/italian-cities) — accessed 2026-11-25 for general tourism context, not complete individual verification; material claims and current visitor conditions not independently corroborated.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.italia.it/en/lombardy/milan — National tourism profile identifies cathedral, galleries and other urban attractions. Reviewed 2026-11-25; partial evidence, not full independent material-claim verification.
 - Missing or uncertain facts: precise GPS, ordinary permitted visitor scope, claim-level corroboration and closer peer matching.
 
 #### Worldwide peer comparisons
@@ -359,8 +359,8 @@
 - Action: new
 - Precise subject: Turin; Multiple urban districts.
 - Location check: 45.0703, 7.6869; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Italia.it](https://www.italia.it/en/italy/italian-cities) — accessed 2026-11-25 for general tourism context, not complete individual verification; material claims and current visitor conditions not independently corroborated.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.italia.it/en/italy/italian-cities — National tourism directory specifically identifies named historic city; independent full city claims remain unverified. Reviewed 2026-11-25; partial evidence, not full independent material-claim verification.
 - Missing or uncertain facts: precise GPS, ordinary permitted visitor scope, claim-level corroboration and closer peer matching.
 
 #### Worldwide peer comparisons
@@ -394,8 +394,8 @@
 - Action: new
 - Precise subject: Genoa; Multiple urban districts.
 - Location check: 44.4056, 8.9463; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Italia.it](https://www.italia.it/en/italy/italian-cities) — accessed 2026-11-25 for general tourism context, not complete individual verification; material claims and current visitor conditions not independently corroborated.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.italia.it/en/italy/italian-cities?page=2 — National tourism directory specifically identifies named maritime city; independent full city claims remain unverified. Reviewed 2026-11-25; partial evidence, not full independent material-claim verification.
 - Missing or uncertain facts: precise GPS, ordinary permitted visitor scope, claim-level corroboration and closer peer matching.
 
 #### Worldwide peer comparisons
@@ -429,8 +429,8 @@
 - Action: new
 - Precise subject: Ravenna; Compact city.
 - Location check: 44.4184, 12.2035; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Italia.it](https://www.italia.it/en/italy/italian-cities) — accessed 2026-11-25 for general tourism context, not complete individual verification; material claims and current visitor conditions not independently corroborated.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.italia.it/en/emilia-romagna/ravenna — Named national tourism profile identifies city history and early Christian heritage; external Po Delta excluded. Reviewed 2026-11-25; partial evidence, not full independent material-claim verification.
 - Missing or uncertain facts: precise GPS, ordinary permitted visitor scope, claim-level corroboration and closer peer matching.
 
 #### Worldwide peer comparisons
@@ -464,8 +464,8 @@
 - Action: new
 - Precise subject: Pisa; City not just cathedral square.
 - Location check: 43.7228, 10.4017; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Italia.it](https://www.italia.it/en/italy/italian-cities) — accessed 2026-11-25 for general tourism context, not complete individual verification; material claims and current visitor conditions not independently corroborated.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.italia.it/en/italy/italian-cities — National tourism directory specifically identifies named maritime republic heritage; independent full city claims remain unverified. Reviewed 2026-11-25; partial evidence, not full independent material-claim verification.
 - Missing or uncertain facts: precise GPS, ordinary permitted visitor scope, claim-level corroboration and closer peer matching.
 
 #### Worldwide peer comparisons
@@ -499,8 +499,8 @@
 - Action: new
 - Precise subject: Lucca; Compact city.
 - Location check: 43.8429, 10.5027; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Italia.it](https://www.italia.it/en/italy/italian-cities) — accessed 2026-11-25 for general tourism context, not complete individual verification; material claims and current visitor conditions not independently corroborated.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.italia.it/en/italy/italian-cities — National tourism directory specifically identifies named walls, towers and food heritage; independent full city claims remain unverified. Reviewed 2026-11-25; partial evidence, not full independent material-claim verification.
 - Missing or uncertain facts: precise GPS, ordinary permitted visitor scope, claim-level corroboration and closer peer matching.
 
 #### Worldwide peer comparisons
@@ -534,8 +534,8 @@
 - Action: new
 - Precise subject: Padua; Several urban districts.
 - Location check: 45.4064, 11.8768; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Italia.it](https://www.italia.it/en/italy/italian-cities) — accessed 2026-11-25 for general tourism context, not complete individual verification; material claims and current visitor conditions not independently corroborated.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.italia.it/en/veneto/padova — National tourism profile identifies art and science heritage. Reviewed 2026-11-25; partial evidence, not full independent material-claim verification.
 - Missing or uncertain facts: precise GPS, ordinary permitted visitor scope, claim-level corroboration and closer peer matching.
 
 #### Worldwide peer comparisons
@@ -569,8 +569,8 @@
 - Action: new
 - Precise subject: Perugia; Several districts.
 - Location check: 43.1107, 12.3908; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Italia.it](https://www.italia.it/en/italy/italian-cities) — accessed 2026-11-25 for general tourism context, not complete individual verification; material claims and current visitor conditions not independently corroborated.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.italia.it/en/italy/italian-cities — National tourism directory specifically identifies named university city; independent full city claims remain unverified. Reviewed 2026-11-25; partial evidence, not full independent material-claim verification.
 - Missing or uncertain facts: precise GPS, ordinary permitted visitor scope, claim-level corroboration and closer peer matching.
 
 #### Worldwide peer comparisons
@@ -604,8 +604,8 @@
 - Action: new
 - Precise subject: Assisi; Compact settlement.
 - Location check: 43.0707, 12.6196; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Italia.it](https://www.italia.it/en/italy/italian-cities) — accessed 2026-11-25 for general tourism context, not complete individual verification; material claims and current visitor conditions not independently corroborated.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.italia.it/en/umbria/assisi/things-to-do/assisi-basilica-of-st-francis — National tourism profile describes city, historic centre and monuments. Reviewed 2026-11-25; partial evidence, not full independent material-claim verification.
 - Missing or uncertain facts: precise GPS, ordinary permitted visitor scope, claim-level corroboration and closer peer matching.
 
 #### Worldwide peer comparisons
@@ -639,8 +639,8 @@
 - Action: new
 - Precise subject: Syracuse; Urban precincts excluding Pantalica.
 - Location check: 37.0755, 15.2866; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Italia.it](https://www.italia.it/en/italy/italian-cities) — accessed 2026-11-25 for general tourism context, not complete individual verification; material claims and current visitor conditions not independently corroborated.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.italia.it/en/sicily/syracuse — National tourism profile identifies coastal city; external Pantalica excluded. Reviewed 2026-11-25; partial evidence, not full independent material-claim verification.
 - Missing or uncertain facts: precise GPS, ordinary permitted visitor scope, claim-level corroboration and closer peer matching.
 
 #### Worldwide peer comparisons
@@ -674,8 +674,8 @@
 - Action: new
 - Precise subject: Lecce; Compact historic city.
 - Location check: 40.3515, 18.175; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Italia.it](https://www.italia.it/en/italy/italian-cities) — accessed 2026-11-25 for general tourism context, not complete individual verification; material claims and current visitor conditions not independently corroborated.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.italia.it/en/italy/italian-cities?page=2 — National tourism directory specifically identifies named Baroque historic centre; independent full city claims remain unverified. Reviewed 2026-11-25; partial evidence, not full independent material-claim verification.
 - Missing or uncertain facts: precise GPS, ordinary permitted visitor scope, claim-level corroboration and closer peer matching.
 
 #### Worldwide peer comparisons
@@ -709,8 +709,8 @@
 - Action: new
 - Precise subject: Taormina; Town not Etna or entire coast.
 - Location check: 37.851, 15.286; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Italia.it](https://www.italia.it/en/italy/italian-cities) — accessed 2026-11-25 for general tourism context, not complete individual verification; material claims and current visitor conditions not independently corroborated.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.italia.it/en/italy/italian-cities?page=2 — National tourism directory specifically identifies named historic hillside town; independent full city claims remain unverified. Reviewed 2026-11-25; partial evidence, not full independent material-claim verification.
 - Missing or uncertain facts: precise GPS, ordinary permitted visitor scope, claim-level corroboration and closer peer matching.
 
 #### Worldwide peer comparisons
@@ -744,8 +744,8 @@
 - Action: new
 - Precise subject: San Gimignano; Small town.
 - Location check: 43.4677, 11.043; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Italia.it](https://www.italia.it/en/italy/italian-cities) — accessed 2026-11-25 for general tourism context, not complete individual verification; material claims and current visitor conditions not independently corroborated.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.italia.it/en/tuscany/san-gimignano — National tourism profile documents medieval towers and town setting. Reviewed 2026-11-25; partial evidence, not full independent material-claim verification.
 - Missing or uncertain facts: precise GPS, ordinary permitted visitor scope, claim-level corroboration and closer peer matching.
 
 #### Worldwide peer comparisons
@@ -779,8 +779,8 @@
 - Action: new
 - Precise subject: Urbino; Compact town.
 - Location check: 43.7262, 12.6363; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Italia.it](https://www.italia.it/en/italy/italian-cities) — accessed 2026-11-25 for general tourism context, not complete individual verification; material claims and current visitor conditions not independently corroborated.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.italia.it/en/marche/urbino — National tourism profile identifies urban museums, religious architecture and Renaissance heritage. Reviewed 2026-11-25; partial evidence, not full independent material-claim verification.
 - Missing or uncertain facts: precise GPS, ordinary permitted visitor scope, claim-level corroboration and closer peer matching.
 
 #### Worldwide peer comparisons
@@ -814,8 +814,8 @@
 - Action: new
 - Precise subject: Trieste; Urban districts not Karst excursions.
 - Location check: 45.6495, 13.7768; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Italia.it](https://www.italia.it/en/italy/italian-cities) — accessed 2026-11-25 for general tourism context, not complete individual verification; material claims and current visitor conditions not independently corroborated.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.italia.it/en/italy/italian-cities — National tourism directory specifically identifies named border city and multicultural setting; independent full city claims remain unverified. Reviewed 2026-11-25; partial evidence, not full independent material-claim verification.
 - Missing or uncertain facts: precise GPS, ordinary permitted visitor scope, claim-level corroboration and closer peer matching.
 
 #### Worldwide peer comparisons
@@ -849,8 +849,8 @@
 - Action: new
 - Precise subject: Cagliari; Exclude island-wide beaches.
 - Location check: 39.2238, 9.1217; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Italia.it](https://www.italia.it/en/italy/italian-cities) — accessed 2026-11-25 for general tourism context, not complete individual verification; material claims and current visitor conditions not independently corroborated.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.italia.it/en/italy/italian-cities — National tourism directory specifically identifies named long-established city and coast; independent full city claims remain unverified. Reviewed 2026-11-25; partial evidence, not full independent material-claim verification.
 - Missing or uncertain facts: precise GPS, ordinary permitted visitor scope, claim-level corroboration and closer peer matching.
 
 #### Worldwide peer comparisons
