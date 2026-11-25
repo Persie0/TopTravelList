@@ -1,0 +1,15 @@
+id: sight-lk-polonnaruwa-royal-palace-ruins
+name: "Polonnaruwa Royal Palace Ruins"
+location:
+  country_code: LK
+  latitude: 7.9430
+  longitude: 81.0020
+scores:
+  impact: 8.3
+  uniqueness: 8.6
+  significance: 9.0
+  experience: 8.5
+  depth: 7.8
+  categories:
+    history: 9.3
+    architecture: 8.9

@@ -1,0 +1,15 @@
+id: sight-lk-batticaloa-dutch-fort
+name: "Batticaloa Dutch Fort"
+location:
+  country_code: LK
+  latitude: 7.7120
+  longitude: 81.6980
+scores:
+  impact: 7.9
+  uniqueness: 8.2
+  significance: 8.5
+  experience: 8.0
+  depth: 7.5
+  categories:
+    history: 8.9
+    architecture: 8.6

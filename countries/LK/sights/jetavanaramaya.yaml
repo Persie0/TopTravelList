@@ -1,0 +1,15 @@
+id: sight-lk-jetavanaramaya
+name: "Jetavanaramaya"
+location:
+  country_code: LK
+  latitude: 8.3517
+  longitude: 80.4034
+scores:
+  impact: 9.2
+  uniqueness: 9.3
+  significance: 9.5
+  experience: 8.8
+  depth: 8.3
+  categories:
+    architecture: 9.5
+    history: 9.6

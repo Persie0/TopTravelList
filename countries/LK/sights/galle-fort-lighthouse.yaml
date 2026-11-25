@@ -1,0 +1,15 @@
+id: sight-lk-galle-fort-lighthouse
+name: "Galle Fort Lighthouse"
+location:
+  country_code: LK
+  latitude: 6.0247
+  longitude: 80.2194
+scores:
+  impact: 8.0
+  uniqueness: 7.8
+  significance: 7.3
+  experience: 8.2
+  depth: 6.5
+  categories:
+    photography: 8.8
+    architecture: 8.3

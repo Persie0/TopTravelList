@@ -1,0 +1,16 @@
+id: sight-lk-aukana-buddha-statue
+name: "Aukana Buddha Statue"
+location:
+  country_code: LK
+  latitude: 8.0105
+  longitude: 80.5110
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 9.0
+  experience: 8.6
+  depth: 7.5
+  categories:
+    architecture: 9.2
+    history: 9.3
+    culture: 9.2

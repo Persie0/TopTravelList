@@ -1,0 +1,16 @@
+id: sight-lk-dambulla-cave-temple
+name: "Dambulla Cave Temple"
+location:
+  country_code: LK
+  latitude: 7.8567
+  longitude: 80.6493
+scores:
+  impact: 9.2
+  uniqueness: 9.5
+  significance: 9.5
+  experience: 9.1
+  depth: 8.8
+  categories:
+    history: 9.6
+    culture: 9.6
+    architecture: 9.4

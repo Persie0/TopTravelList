@@ -1,0 +1,15 @@
+id: sight-lk-kiri-vehera-polonnaruwa
+name: "Kiri Vehera Polonnaruwa"
+location:
+  country_code: LK
+  latitude: 7.9618
+  longitude: 81.0039
+scores:
+  impact: 8.0
+  uniqueness: 8.1
+  significance: 8.6
+  experience: 8.1
+  depth: 7.1
+  categories:
+    history: 9.0
+    architecture: 8.7

@@ -1,0 +1,16 @@
+id: sight-lk-colombo-national-museum
+name: "Colombo National Museum"
+location:
+  country_code: LK
+  latitude: 6.9107
+  longitude: 79.8608
+scores:
+  impact: 8.4
+  uniqueness: 8.6
+  significance: 9.0
+  experience: 8.7
+  depth: 8.8
+  categories:
+    history: 9.3
+    culture: 9.3
+    architecture: 8.8

@@ -1,0 +1,16 @@
+id: sight-lk-negombo-fish-market
+name: "Negombo Fish Market"
+location:
+  country_code: LK
+  latitude: 7.2070
+  longitude: 79.8270
+scores:
+  impact: 7.6
+  uniqueness: 8.0
+  significance: 7.3
+  experience: 8.3
+  depth: 7.7
+  categories:
+    food: 8.5
+    culture: 8.6
+    photography: 8.4
