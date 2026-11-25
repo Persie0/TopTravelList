@@ -1,0 +1,15 @@
+id: city-pe-urubamba
+name: "Urubamba"
+location:
+  country_code: PE
+  latitude: -13.3047
+  longitude: -72.1165
+scores:
+  impact: 7.1
+  uniqueness: 7.3
+  significance: 6.5
+  experience: 8.0
+  depth: 6.9
+  categories:
+    relaxation: 8.4
+    food: 8.0

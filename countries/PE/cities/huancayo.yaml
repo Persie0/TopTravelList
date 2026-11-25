@@ -1,0 +1,15 @@
+id: city-pe-huancayo
+name: "Huancayo"
+location:
+  country_code: PE
+  latitude: -12.0651
+  longitude: -75.2049
+scores:
+  impact: 6.8
+  uniqueness: 7.3
+  significance: 7.2
+  experience: 7.5
+  depth: 7.4
+  categories:
+    culture: 8.3
+    food: 7.9
