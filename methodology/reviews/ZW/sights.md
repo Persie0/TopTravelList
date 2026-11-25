@@ -359,7 +359,7 @@
 - Experience: 8.0 — documented lodge-based guided hiking, limited infrastructure.
 - Depth: 8.1 — multiple escarpment trail perspectives and waterfalls; no credit for undocumented sacred sites.
 - Applicable categories: nature 9.2, history 9.2, culture 9.0.
-- Overall: 87.15/100.
+- Overall: 86.75/100.
 - High-score challenge: Not applicable.
 - Approved 10 registry: none.
 - Final decision: Provisional complete rating for documented hiking scope.
