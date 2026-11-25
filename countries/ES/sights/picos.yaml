@@ -1,0 +1,16 @@
+id: sight-es-picos
+name: "Picos de Europa National Park"
+location:
+  country_code: ES
+  latitude: 43.18
+  longitude: -4.83
+scores:
+  impact: 9.4
+  uniqueness: 9.2
+  significance: 9.0
+  experience: 9.3
+  depth: 9.4
+  categories:
+    nature: 9.6
+    photography: 9.5
+    adventure: 9.4

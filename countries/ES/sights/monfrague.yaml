@@ -1,0 +1,15 @@
+id: sight-es-monfrague
+name: "Monfragüe National Park"
+location:
+  country_code: ES
+  latitude: 39.84
+  longitude: -6.03
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.8
+  depth: 8.8
+  categories:
+    nature: 9.3
+    wildlife: 9.4

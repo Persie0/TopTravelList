@@ -1,0 +1,15 @@
+id: sight-es-altamira-series
+name: "Cave of Altamira and Paleolithic Cave Art of Northern Spain"
+location:
+  country_code: ES
+  latitude: 43.378
+  longitude: -4.119
+scores:
+  impact: null
+  uniqueness: 9.6
+  significance: 9.7
+  experience: null
+  depth: null
+  categories:
+    history: 9.7
+    culture: 9.6

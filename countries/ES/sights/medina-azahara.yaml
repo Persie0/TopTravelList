@@ -1,0 +1,15 @@
+id: sight-es-medina-azahara
+name: "Caliphate City of Medina Azahara"
+location:
+  country_code: ES
+  latitude: 37.885
+  longitude: -4.868
+scores:
+  impact: 8.8
+  uniqueness: 9.2
+  significance: 9.4
+  experience: 8.8
+  depth: 8.7
+  categories:
+    history: 9.5
+    architecture: 9.3

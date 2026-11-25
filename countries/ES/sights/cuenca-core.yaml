@@ -1,0 +1,15 @@
+id: sight-es-cuenca-core
+name: "Historic Walled Town of Cuenca"
+location:
+  country_code: ES
+  latitude: 40.077
+  longitude: -2.13
+scores:
+  impact: 9.1
+  uniqueness: 9.1
+  significance: 9.1
+  experience: 8.8
+  depth: 8.5
+  categories:
+    architecture: 9.3
+    photography: 9.5

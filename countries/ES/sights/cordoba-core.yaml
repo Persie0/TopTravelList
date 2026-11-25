@@ -1,0 +1,16 @@
+id: sight-es-cordoba-core
+name: "Historic Centre of Córdoba"
+location:
+  country_code: ES
+  latitude: 37.879
+  longitude: -4.779
+scores:
+  impact: 9.3
+  uniqueness: 9.3
+  significance: 9.4
+  experience: 9.2
+  depth: 9.1
+  categories:
+    architecture: 9.6
+    history: 9.5
+    culture: 9.4

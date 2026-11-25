@@ -1,0 +1,15 @@
+id: sight-es-elche-palmeral
+name: "Palmeral of Elche"
+location:
+  country_code: ES
+  latitude: 38.267
+  longitude: -0.695
+scores:
+  impact: 8.5
+  uniqueness: 9.0
+  significance: 9.0
+  experience: 8.7
+  depth: 8.6
+  categories:
+    nature: 9.1
+    culture: 9.2

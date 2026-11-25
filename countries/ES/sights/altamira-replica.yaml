@@ -1,0 +1,15 @@
+id: sight-es-altamira-replica
+name: "Altamira Museum and Neocave replica"
+location:
+  country_code: ES
+  latitude: 43.377
+  longitude: -4.122
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 8.8
+  depth: 8.4
+  categories:
+    culture: 9.2
+    history: 9.2

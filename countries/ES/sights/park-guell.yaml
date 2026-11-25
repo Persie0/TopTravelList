@@ -1,0 +1,15 @@
+id: sight-es-park-guell
+name: "Park Güell"
+location:
+  country_code: ES
+  latitude: 41.414
+  longitude: 2.1527
+scores:
+  impact: 9.2
+  uniqueness: 9.3
+  significance: 9.1
+  experience: 9.1
+  depth: 8.7
+  categories:
+    architecture: 9.5
+    photography: 9.5

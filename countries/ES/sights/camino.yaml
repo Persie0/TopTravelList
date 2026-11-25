@@ -1,0 +1,16 @@
+id: sight-es-camino
+name: "Routes of Santiago de Compostela (Spanish listed routes)"
+location:
+  country_code: ES
+  latitude: 42.88
+  longitude: -8.54
+scores:
+  impact: 8.8
+  uniqueness: 9.3
+  significance: 9.4
+  experience: 9.1
+  depth: 9.5
+  categories:
+    history: 9.5
+    culture: 9.5
+    adventure: 9.2

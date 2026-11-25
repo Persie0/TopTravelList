@@ -1,0 +1,15 @@
+id: sight-es-vizcaya-bridge
+name: "Vizcaya Bridge"
+location:
+  country_code: ES
+  latitude: 43.323
+  longitude: -3.017
+scores:
+  impact: 8.6
+  uniqueness: 9.1
+  significance: 9.2
+  experience: 8.7
+  depth: 7.9
+  categories:
+    architecture: 9.3
+    history: 9.3
