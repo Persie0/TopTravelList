@@ -1,0 +1,15 @@
+id: sight-al-drymades-beach
+name: "Drymades Beach"
+location:
+  country_code: AL
+  latitude: 40.1560
+  longitude: 19.6150
+scores:
+  impact: 8.4
+  uniqueness: 8.1
+  significance: 6.4
+  experience: 8.7
+  depth: 8.0
+  categories:
+    beaches: 9.1
+    photography: 8.9

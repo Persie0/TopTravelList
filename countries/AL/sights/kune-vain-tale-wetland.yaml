@@ -1,0 +1,15 @@
+id: sight-al-kune-vain-tale-wetland
+name: "Kune-Vain-Tale Wetland"
+location:
+  country_code: AL
+  latitude: 41.7350
+  longitude: 19.5850
+scores:
+  impact: 7.9
+  uniqueness: 8.1
+  significance: 8.1
+  experience: 8.1
+  depth: 8.0
+  categories:
+    wildlife: 8.9
+    nature: 8.8

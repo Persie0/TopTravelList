@@ -1,0 +1,15 @@
+id: city-al-gjirokaster
+name: "Gjirokastër"
+location:
+  country_code: AL
+  latitude: 40.0758
+  longitude: 20.1389
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 8.9
+  experience: 8.7
+  depth: 8.4
+  categories:
+    architecture: 9.3
+    history: 9.2

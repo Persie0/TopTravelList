@@ -1,0 +1,16 @@
+id: sight-al-butrint-archaeological-site
+name: "Butrint Archaeological Site"
+location:
+  country_code: AL
+  latitude: 39.7460
+  longitude: 20.0200
+scores:
+  impact: 9.1
+  uniqueness: 9.2
+  significance: 9.5
+  experience: 9.0
+  depth: 9.1
+  categories:
+    history: 9.6
+    architecture: 9.2
+    culture: 9.4

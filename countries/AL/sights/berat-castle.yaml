@@ -1,0 +1,15 @@
+id: sight-al-berat-castle
+name: "Berat Castle"
+location:
+  country_code: AL
+  latitude: 40.7085
+  longitude: 19.9456
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 9.1
+  experience: 8.8
+  depth: 8.6
+  categories:
+    architecture: 9.2
+    history: 9.3

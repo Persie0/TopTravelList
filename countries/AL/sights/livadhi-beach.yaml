@@ -1,0 +1,15 @@
+id: sight-al-livadhi-beach
+name: "Livadhi Beach"
+location:
+  country_code: AL
+  latitude: 40.1140
+  longitude: 19.7210
+scores:
+  impact: 8.3
+  uniqueness: 7.9
+  significance: 6.4
+  experience: 8.7
+  depth: 8.0
+  categories:
+    beaches: 9
+    relaxation: 8.9

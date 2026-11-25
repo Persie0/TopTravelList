@@ -1,0 +1,15 @@
+id: city-al-qeparo
+name: "Qeparo"
+location:
+  country_code: AL
+  latitude: 40.0610
+  longitude: 19.8240
+scores:
+  impact: 7.8
+  uniqueness: 8.0
+  significance: 7.4
+  experience: 8.1
+  depth: 7.1
+  categories:
+    photography: 8.7
+    relaxation: 8.6

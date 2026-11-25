@@ -1,0 +1,14 @@
+id: city-al-orikum
+name: "Orikum"
+location:
+  country_code: AL
+  latitude: 40.3260
+  longitude: 19.4710
+scores:
+  impact: 7.0
+  uniqueness: 7.1
+  significance: 7.3
+  experience: 7.7
+  depth: 7.2
+  categories:
+    relaxation: 8.2

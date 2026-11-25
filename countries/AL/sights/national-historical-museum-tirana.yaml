@@ -1,0 +1,15 @@
+id: sight-al-national-historical-museum-tirana
+name: "National Historical Museum Tirana"
+location:
+  country_code: AL
+  latitude: 41.3290
+  longitude: 19.8169
+scores:
+  impact: 8.1
+  uniqueness: 8.2
+  significance: 8.8
+  experience: 8.4
+  depth: 8.7
+  categories:
+    history: 9.2
+    culture: 8.9

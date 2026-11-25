@@ -1,0 +1,15 @@
+id: sight-al-theth-lock-in-tower
+name: "Theth Lock-in Tower"
+location:
+  country_code: AL
+  latitude: 42.3810
+  longitude: 19.7860
+scores:
+  impact: 7.6
+  uniqueness: 8.4
+  significance: 8.2
+  experience: 7.9
+  depth: 6.9
+  categories:
+    history: 8.8
+    culture: 8.7

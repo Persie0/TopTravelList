@@ -1,0 +1,14 @@
+id: city-al-erseke
+name: "Ersekë"
+location:
+  country_code: AL
+  latitude: 40.3370
+  longitude: 20.6780
+scores:
+  impact: 6.8
+  uniqueness: 7.0
+  significance: 7.0
+  experience: 7.4
+  depth: 7.0
+  categories:
+    culture: 7.6

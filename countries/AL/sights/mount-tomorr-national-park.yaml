@@ -1,0 +1,15 @@
+id: sight-al-mount-tomorr-national-park
+name: "Mount Tomorr National Park"
+location:
+  country_code: AL
+  latitude: 40.6660
+  longitude: 20.1830
+scores:
+  impact: 8.5
+  uniqueness: 8.6
+  significance: 8.5
+  experience: 8.7
+  depth: 8.7
+  categories:
+    nature: 9.2
+    culture: 8.9

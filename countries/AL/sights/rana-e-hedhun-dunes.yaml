@@ -1,0 +1,15 @@
+id: sight-al-rana-e-hedhun-dunes
+name: "Rana e Hedhun Dunes"
+location:
+  country_code: AL
+  latitude: 41.8380
+  longitude: 19.5660
+scores:
+  impact: 8.3
+  uniqueness: 8.3
+  significance: 6.7
+  experience: 8.5
+  depth: 7.6
+  categories:
+    beaches: 8.8
+    photography: 9

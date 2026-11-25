@@ -1,0 +1,15 @@
+id: sight-al-shebenik-national-park
+name: "Shebenik National Park"
+location:
+  country_code: AL
+  latitude: 41.2040
+  longitude: 20.4620
+scores:
+  impact: 8.5
+  uniqueness: 8.6
+  significance: 8.7
+  experience: 8.4
+  depth: 8.8
+  categories:
+    nature: 9.3
+    adventure: 8.9

@@ -1,0 +1,15 @@
+id: city-al-dardhe
+name: "Dardhë"
+location:
+  country_code: AL
+  latitude: 40.5190
+  longitude: 20.8280
+scores:
+  impact: 7.5
+  uniqueness: 7.7
+  significance: 7.2
+  experience: 7.9
+  depth: 7.0
+  categories:
+    relaxation: 8.5
+    architecture: 8.3

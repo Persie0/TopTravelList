@@ -1,0 +1,14 @@
+id: city-al-peshkopi
+name: "Peshkopi"
+location:
+  country_code: AL
+  latitude: 41.6850
+  longitude: 20.4280
+scores:
+  impact: 6.9
+  uniqueness: 7.1
+  significance: 7.2
+  experience: 7.6
+  depth: 7.1
+  categories:
+    relaxation: 8.2

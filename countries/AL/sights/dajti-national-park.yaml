@@ -1,0 +1,15 @@
+id: sight-al-dajti-national-park
+name: "Dajti National Park"
+location:
+  country_code: AL
+  latitude: 41.3650
+  longitude: 19.9250
+scores:
+  impact: 8.1
+  uniqueness: 8.0
+  significance: 7.5
+  experience: 8.5
+  depth: 8.4
+  categories:
+    nature: 8.8
+    adventure: 8.7

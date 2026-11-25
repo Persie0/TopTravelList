@@ -1,0 +1,14 @@
+id: sight-al-amantia-archaeological-park
+name: "Amantia Archaeological Park"
+location:
+  country_code: AL
+  latitude: 40.3770
+  longitude: 19.6990
+scores:
+  impact: 7.9
+  uniqueness: 8.3
+  significance: 8.5
+  experience: 8.0
+  depth: 7.7
+  categories:
+    history: 8.9

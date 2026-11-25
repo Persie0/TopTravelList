@@ -1,0 +1,14 @@
+id: city-al-puke
+name: "Pukë"
+location:
+  country_code: AL
+  latitude: 42.0440
+  longitude: 19.8990
+scores:
+  impact: 6.9
+  uniqueness: 7.1
+  significance: 7.0
+  experience: 7.5
+  depth: 7.0
+  categories:
+    relaxation: 7.9

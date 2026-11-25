@@ -1,0 +1,14 @@
+id: sight-al-oricum-archaeological-site
+name: "Oricum Archaeological Site"
+location:
+  country_code: AL
+  latitude: 40.3200
+  longitude: 19.4310
+scores:
+  impact: 7.6
+  uniqueness: 8.1
+  significance: 8.4
+  experience: 7.8
+  depth: 7.3
+  categories:
+    history: 8.8

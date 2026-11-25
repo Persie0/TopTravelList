@@ -1,0 +1,15 @@
+id: sight-al-lengarica-canyon
+name: "Lengarica Canyon"
+location:
+  country_code: AL
+  latitude: 40.2430
+  longitude: 20.4490
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 7.7
+  experience: 8.7
+  depth: 8.3
+  categories:
+    nature: 9.2
+    adventure: 9.1

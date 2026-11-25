@@ -1,0 +1,15 @@
+id: sight-al-rrajca-beech-forest-component
+name: "Rrajca Beech Forest Component"
+location:
+  country_code: AL
+  latitude: 41.203056
+  longitude: 20.500556
+scores:
+  impact: 8.2
+  uniqueness: 8.8
+  significance: 9.2
+  experience: 7.9
+  depth: 8.3
+  categories:
+    nature: 9.4
+    wildlife: 8.8

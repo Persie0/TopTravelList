@@ -1,0 +1,15 @@
+id: city-al-permet
+name: "Përmet"
+location:
+  country_code: AL
+  latitude: 40.2330
+  longitude: 20.3510
+scores:
+  impact: 7.6
+  uniqueness: 7.8
+  significance: 7.6
+  experience: 8.1
+  depth: 7.5
+  categories:
+    food: 8.7
+    relaxation: 8.5

@@ -1,0 +1,15 @@
+id: sight-al-sazan-island
+name: "Sazan Island"
+location:
+  country_code: AL
+  latitude: 40.4980
+  longitude: 19.2790
+scores:
+  impact: 8.2
+  uniqueness: 8.5
+  significance: 8.0
+  experience: 8.2
+  depth: 7.8
+  categories:
+    nature: 8.9
+    history: 8.7

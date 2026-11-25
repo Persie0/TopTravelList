@@ -1,0 +1,15 @@
+id: sight-al-ksamil-islands
+name: "Ksamil Islands"
+location:
+  country_code: AL
+  latitude: 39.7700
+  longitude: 19.9910
+scores:
+  impact: 8.7
+  uniqueness: 8.4
+  significance: 6.7
+  experience: 8.8
+  depth: 7.9
+  categories:
+    beaches: 9.2
+    photography: 9.1

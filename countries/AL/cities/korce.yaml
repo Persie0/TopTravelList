@@ -1,0 +1,15 @@
+id: city-al-korce
+name: "Korçë"
+location:
+  country_code: AL
+  latitude: 40.6186
+  longitude: 20.7808
+scores:
+  impact: 7.9
+  uniqueness: 8.1
+  significance: 8.4
+  experience: 8.3
+  depth: 8.1
+  categories:
+    culture: 8.9
+    food: 8.5

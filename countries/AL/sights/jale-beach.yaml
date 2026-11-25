@@ -1,0 +1,15 @@
+id: sight-al-jale-beach
+name: "Jale Beach"
+location:
+  country_code: AL
+  latitude: 40.1190
+  longitude: 19.7060
+scores:
+  impact: 8.3
+  uniqueness: 8.0
+  significance: 6.3
+  experience: 8.7
+  depth: 7.7
+  categories:
+    beaches: 9
+    relaxation: 8.8

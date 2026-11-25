@@ -1,0 +1,15 @@
+id: sight-al-tirana-grand-park
+name: "Tirana Grand Park"
+location:
+  country_code: AL
+  latitude: 41.3100
+  longitude: 19.8230
+scores:
+  impact: 7.7
+  uniqueness: 7.3
+  significance: 6.5
+  experience: 8.3
+  depth: 8.2
+  categories:
+    relaxation: 8.8
+    family: 8.5

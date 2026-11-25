@@ -1,0 +1,16 @@
+id: sight-al-lake-shkoder-albanian-shore
+name: "Lake Shkodër Albanian Shore"
+location:
+  country_code: AL
+  latitude: 42.1050
+  longitude: 19.4500
+scores:
+  impact: 8.6
+  uniqueness: 8.4
+  significance: 8.1
+  experience: 8.7
+  depth: 8.6
+  categories:
+    nature: 9.1
+    wildlife: 9
+    relaxation: 9
