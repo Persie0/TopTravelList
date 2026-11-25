@@ -1417,4 +1417,3 @@
 - Approved 10 registry: none.
 - Final decision: Keep unranked pending sufficient evidence.
 - Verification still needed: GPS, material claims, access, category calibration, live peer fit and values.
-
