@@ -682,7 +682,7 @@ Both authority pages inspected 2026-11-25. Existing ecological scores remain edi
 - YAML: [source](../../../countries/FJ/sights/great-sea-reef.yaml)
 - Action: new
 - Precise subject: Northern Vanua Levu reef system and documented authorized diving subset; excludes Namena, Rainbow Reef, unrelated same-name reefs and inaccessible reef sectors.
-- Location check: -16.289111, 179.15; Approximate regional point between reported Macuata reef endpoints; not an entry or navigation waypoint. WCS Fiji SUMA report indexed coordinates S16°29′5″ E178°55′24″ and S16°9′49″ E179°22′53″ (https://fiji.wcs.org/Portals/82/reports/Fiji%20SUMA%20digital%20small.pdf?ver=2018-09-03-084109-057); representative position needs independent corroboration.
+- Location check: -16.324167, 179.152361; Approximate regional point between reported Macuata reef endpoints; not an entry or navigation waypoint. WCS Fiji SUMA report, printed p. 106 and Map 60 inspected, bounding coordinates S16°29′5″ E178°55′24″ and S16°9′49″ E179°22′53″ (https://fiji.wcs.org/Portals/82/reports/Fiji%20SUMA%20digital%20small.pdf?ver=2018-09-03-084109-057); representative position needs independent corroboration.
 - Evidence status: source-linked-unverified
 - Sources (2026-11-26):
 - WWF Pacific https://www.wwfpacific.org/priority_places/fiji/great_sea_reef_seascape/ (indexed excerpt; direct retrieval 403): globally important long barrier-reef system and conservation programme.
@@ -704,7 +704,7 @@ Both authority pages inspected 2026-11-25. Existing ecological scores remain edi
 - Depth: 8.7 — Varied reef habitats and guided sites; no credit for inaccessible full-system exploration.
 - Applicable categories: nature 9.5, wildlife 9.3, adventure 9.1.
 - Overall: 90.80/100.
-- High-score challenge: Nature 9.5 reflects globally important barrier reef extent; below Sipadan 9.7 and Ang Thong 9.6. No assumption that visitors can explore the full reef.
+- High-score challenge: Nature 9.5 reflects globally important barrier reef extent; below Sipadan 9.7 and Ang Thong 9.6. Overall 90.80 supported by reef scale and documented habitat connectivity (SUMA pp. 105–107), but experience and depth remain below established diving leaders. No assumption that visitors can explore the full reef.
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide V2 editorial rating.
 - Earlier decision: none.
