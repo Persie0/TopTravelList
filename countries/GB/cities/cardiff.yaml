@@ -1,0 +1,16 @@
+id: city-gb-cardiff
+name: "Cardiff"
+location:
+  country_code: GB
+  latitude: 51.481
+  longitude: -3.179
+scores:
+  impact: 8.3
+  uniqueness: 8.3
+  significance: 8.5
+  experience: 8.8
+  depth: 8.6
+  categories:
+    culture: 8.9
+    history: 8.7
+    architecture: 8.6

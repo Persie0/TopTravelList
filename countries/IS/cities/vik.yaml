@@ -1,0 +1,15 @@
+id: city-is-vik
+name: "Vík í Mýrdal"
+location:
+  country_code: IS
+  latitude: 63.419
+  longitude: -19.006
+scores:
+  impact: 8.1
+  uniqueness: 8.0
+  significance: 7.2
+  experience: 8.2
+  depth: 6.9
+  categories:
+    photography: 8.7
+    relaxation: 8.2

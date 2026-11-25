@@ -1,0 +1,15 @@
+id: sight-cy-kato-paphos
+name: "Kato Paphos Archaeological Park"
+location:
+  country_code: CY
+  latitude: 34.755
+  longitude: 32.407
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 9.1
+  experience: 8.8
+  depth: 8.6
+  categories:
+    history: 9.2
+    architecture: 9.0

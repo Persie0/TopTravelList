@@ -1,0 +1,16 @@
+id: city-dk-svendborg
+name: "Svendborg"
+location:
+  country_code: DK
+  latitude: 55.059
+  longitude: 10.607
+scores:
+  impact: 7.9
+  uniqueness: 8.0
+  significance: 8.0
+  experience: 8.4
+  depth: 7.9
+  categories:
+    culture: 8.4
+    relaxation: 8.6
+    architecture: 8.2

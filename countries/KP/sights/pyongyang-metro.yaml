@@ -1,0 +1,15 @@
+id: sight-kp-pyongyang-metro
+name: "Pyongyang Metro (Approved Visitor Stations)"
+location:
+  country_code: KP
+  latitude: 39.012
+  longitude: 125.734
+scores:
+  impact: 8.3
+  uniqueness: 8.7
+  significance: 7.7
+  experience: 8.0
+  depth: 7.2
+  categories:
+    architecture: 8.9
+    culture: 8.1

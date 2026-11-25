@@ -1,0 +1,16 @@
+id: sight-tr-safranbolu-historic
+name: "City of Safranbolu (Historic District)"
+location:
+  country_code: TR
+  latitude: 41.243
+  longitude: 32.692
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 8.6
+  depth: 8.4
+  categories:
+    architecture: 9.3
+    history: 9.1
+    photography: 9.1

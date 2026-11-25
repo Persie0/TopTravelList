@@ -1,0 +1,16 @@
+id: sight-cy-bellapais-abbey
+name: "Bellapais Abbey"
+location:
+  country_code: CY
+  latitude: 35.307
+  longitude: 33.354
+scores:
+  impact: 8.5
+  uniqueness: 8.5
+  significance: 8.5
+  experience: 8.3
+  depth: 7.5
+  categories:
+    architecture: 8.9
+    history: 8.7
+    photography: 8.9

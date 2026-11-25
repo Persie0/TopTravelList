@@ -1,0 +1,15 @@
+id: sight-ps-canaanite-city-states
+name: "Canaanite City-States (Serial Property)"
+location:
+  country_code: PS
+  latitude: 32.213611
+  longitude: 35.281944
+scores:
+  impact: 7.8
+  uniqueness: 8.9
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    history: 9.3
+    architecture: 8.6

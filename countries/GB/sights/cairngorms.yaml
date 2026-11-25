@@ -1,0 +1,16 @@
+id: sight-gb-cairngorms
+name: "Cairngorms National Park"
+location:
+  country_code: GB
+  latitude: 57.06
+  longitude: -3.66
+scores:
+  impact: 9.1
+  uniqueness: 9.0
+  significance: 8.9
+  experience: 9.1
+  depth: 9.3
+  categories:
+    nature: 9.4
+    adventure: 9.3
+    wildlife: 9.2

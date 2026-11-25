@@ -1,0 +1,16 @@
+id: sight-gb-mourne-mountains
+name: "Mourne Mountains"
+location:
+  country_code: GB
+  latitude: 54.17
+  longitude: -5.95
+scores:
+  impact: 8.8
+  uniqueness: 8.6
+  significance: 8.4
+  experience: 8.9
+  depth: 8.7
+  categories:
+    nature: 9.2
+    adventure: 9.0
+    photography: 9.0

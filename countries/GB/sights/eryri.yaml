@@ -1,0 +1,16 @@
+id: sight-gb-eryri
+name: "Eryri (Snowdonia) National Park"
+location:
+  country_code: GB
+  latitude: 53.07
+  longitude: -3.99
+scores:
+  impact: 9.2
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 9.2
+  depth: 9.2
+  categories:
+    nature: 9.4
+    adventure: 9.3
+    photography: 9.3

@@ -1,0 +1,16 @@
+id: city-be-mechelen
+name: "Mechelen"
+location:
+  country_code: BE
+  latitude: 51.0259
+  longitude: 4.4776
+scores:
+  impact: 8.5
+  uniqueness: 8.5
+  significance: 8.7
+  experience: 8.6
+  depth: 8.2
+  categories:
+    architecture: 9.0
+    history: 9.0
+    culture: 8.8

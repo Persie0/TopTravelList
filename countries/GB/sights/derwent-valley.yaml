@@ -1,0 +1,15 @@
+id: sight-gb-derwent-valley
+name: "Derwent Valley Mills"
+location:
+  country_code: GB
+  latitude: 53.02
+  longitude: -1.49
+scores:
+  impact: 8.1
+  uniqueness: 8.8
+  significance: 9.2
+  experience: 8.4
+  depth: 8.7
+  categories:
+    history: 9.3
+    architecture: 8.7

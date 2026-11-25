@@ -2,7 +2,7 @@
 
 # North Korea (KP) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**1 ranked** · **7 unassessed** · **8 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,25 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (1)
 
-No cities, towns & villages have been assessed for **North Korea** yet.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Pyongyang](cities/pyongyang.yaml) | City / town | **81.90** | **Architecture 8.7**, **History 8.6** | 8.3 / 8.9 / 8.4 / 7.1 / 7.3 | [39.0392, 125.7625](https://www.google.com/maps/search/?api=1&query=39.0392,125.7625) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Pyongyang%2C%20North%20Korea) |
 
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+## Not yet fully assessed (7)
+
+These destinations have no rank until all five core scores are assessed.
+
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| — | [Hamhung](cities/hamhung.yaml) | City / town | **—** | **History 8.0**, **Architecture 7.5** | 7.1 / 7.4 / 7.8 / — / — | [39.918, 127.536](https://www.google.com/maps/search/?api=1&query=39.918,127.536) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hamhung%2C%20North%20Korea) |
+| — | [Kaesong](cities/kaesong.yaml) | City / town | **—** | **History 9.1**, **Architecture 8.7** | 8.1 / 8.5 / 9.0 / — / — | [37.9708, 126.5544](https://www.google.com/maps/search/?api=1&query=37.9708,126.5544) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kaesong%2C%20North%20Korea) |
+| — | [Nampo](cities/nampo.yaml) | City / town | **—** | **History 7.5** | 6.9 / 7.0 / 7.3 / — / — | [38.737, 125.407](https://www.google.com/maps/search/?api=1&query=38.737,125.407) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nampo%2C%20North%20Korea) |
+| — | [Rason (Rajin)](cities/rason.yaml) | City / town | **—** | **Culture 7.5**, **History 7.2** | 7.0 / 7.5 / 7.0 / — / — | [42.248, 130.3](https://www.google.com/maps/search/?api=1&query=42.248,130.3) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Rason%20%28Rajin%29%2C%20North%20Korea) |
+| — | [Samjiyon](cities/samjiyon.yaml) | City / town | **—** | **Nature 8.0**, **Architecture 7.8** | 7.4 / 7.6 / 7.1 / — / — | [41.816, 128.31](https://www.google.com/maps/search/?api=1&query=41.816,128.31) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Samjiyon%2C%20North%20Korea) |
+| — | [Sariwon](cities/sariwon.yaml) | City / town | **—** | **Culture 7.5**, **Architecture 7.4** | 7.0 / 7.2 / 7.2 / — / — | [38.508, 125.755](https://www.google.com/maps/search/?api=1&query=38.508,125.755) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sariwon%2C%20North%20Korea) |
+| — | [Wonsan](cities/wonsan.yaml) | City / town | **—** | **Nature 7.7**, **History 7.5** | 7.5 / 7.1 / 7.3 / — / — | [39.1528, 127.4436](https://www.google.com/maps/search/?api=1&query=39.1528,127.4436) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Wonsan%2C%20North%20Korea) |
 
 ---
 

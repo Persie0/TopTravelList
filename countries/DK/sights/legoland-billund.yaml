@@ -1,0 +1,15 @@
+id: sight-dk-legoland-billund
+name: "LEGOLAND Billund"
+location:
+  country_code: DK
+  latitude: 55.735
+  longitude: 9.126
+scores:
+  impact: 8.4
+  uniqueness: 8.5
+  significance: 7.4
+  experience: 9.1
+  depth: 8.7
+  categories:
+    family: 9.4
+    adventure: 8.8
