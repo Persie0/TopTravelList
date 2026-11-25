@@ -2,7 +2,7 @@
 
 # Kiribati (KI) — Sights & attractions ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**7 ranked** · **2 unassessed** · **9 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,11 +10,26 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (7)
 
-No sights & attractions have been assessed for **Kiribati** yet.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Kiritimati Bonefishing Flats](sights/kiritimati-bonefishing-flats.yaml) | Attraction | **84.15** | **Adventure 9.1**, **Nature 8.7**, **Photography 8.2** | 8.4 / 8.8 / 7.5 / 8.9 / 8.6 | [1.9, -157.44](https://www.google.com/maps/search/?api=1&query=1.9,-157.44) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kiritimati%20Bonefishing%20Flats%2C%20Kiribati) |
+| 2 | [Betio Battlefield](sights/betio-battlefield.yaml) | Attraction | **81.25** | **History 9.2**, **Photography 7.4** | 7.6 / 8.6 / 9.1 / 7.3 / 7.8 | [1.354, 172.923](https://www.google.com/maps/search/?api=1&query=1.354,172.923) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Betio%20Battlefield%2C%20Kiribati) |
+| 3 | [Arorae Navigational Stones](sights/arorae-navigational-stones.yaml) | Attraction | **77.85** | **History 9.0**, **Culture 8.9** | 6.9 / 9.1 / 8.9 / 6.8 / 6.4 | [-2.64, 176.82](https://www.google.com/maps/search/?api=1&query=-2.64,176.82) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Arorae%20Navigational%20Stones%2C%20Kiribati) |
+| 4 | [Tabuaeran Lagoon](sights/tabuaeran-lagoon.yaml) | Beach / bay | **77.45** | **Nature 8.4**, **Photography 8.3**, **Relaxation 7.8** | 8.1 / 8.0 / 7.4 / 7.5 / 7.1 | [3.86391, -159.31927](https://www.google.com/maps/search/?api=1&query=3.86391,-159.31927) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tabuaeran%20Lagoon%2C%20Kiribati) |
+| 5 | [Abaiang Lagoon](sights/abaiang-lagoon.yaml) | Beach / bay | **76.15** | **Nature 8.3**, **Photography 8.2**, **Relaxation 8.0** | 8.0 / 7.8 / 7.0 / 7.7 / 7.1 | [1.84333, 172.96394](https://www.google.com/maps/search/?api=1&query=1.84333,172.96394) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Abaiang%20Lagoon%2C%20Kiribati) |
+| 6 | [Te Umanibong National Museum](sights/te-umanibong.yaml) | Museum / heritage | **72.95** | **Culture 8.3**, **History 7.9** | 6.7 / 8.0 / 7.7 / 7.1 / 6.8 | [1.366, 173.127](https://www.google.com/maps/search/?api=1&query=1.366,173.127) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Te%20Umanibong%20National%20Museum%2C%20Kiribati) |
+| 7 | [Maneaba ni Maungatabu Parliament](sights/maneaba-ni-maungatabu.yaml) | Attraction | **68.75** | **Architecture 7.7**, **Culture 7.2** | 6.8 / 7.7 / 7.1 / 6.2 / 5.6 | [1.353, 173.042](https://www.google.com/maps/search/?api=1&query=1.353,173.042) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Maneaba%20ni%20Maungatabu%20Parliament%2C%20Kiribati) |
 
-Add destination YAML files in [sights/](sights/), then regenerate the overview files.
+## Not yet fully assessed (2)
+
+These destinations have no rank until all five core scores are assessed.
+
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| — | [Cook Island Bird Sanctuary](sights/cook-island-bird-sanctuary.yaml) | Park / reserve | **—** | **Wildlife 9.1**, **Nature 8.8** | 8.2 / 8.6 / 8.8 / — / — | [1.9563, -157.48168](https://www.google.com/maps/search/?api=1&query=1.9563,-157.48168) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cook%20Island%20Bird%20Sanctuary%2C%20Kiribati) |
+| — | [Phoenix Islands Protected Area](sights/phoenix-islands-protected-area.yaml) | Island | **—** | **Nature 9.4**, **Wildlife 9.4** | 9.0 / 9.4 / 9.6 / — / — | [-3.8, -172.5](https://www.google.com/maps/search/?api=1&query=-3.8,-172.5) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Phoenix%20Islands%20Protected%20Area%2C%20Kiribati) |
 
 ---
 

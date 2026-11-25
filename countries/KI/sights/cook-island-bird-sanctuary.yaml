@@ -1,0 +1,15 @@
+id: sight-ki-cook-island-bird-sanctuary
+name: "Cook Island Bird Sanctuary"
+location:
+  country_code: KI
+  latitude: 1.9563
+  longitude: -157.48168
+scores:
+  impact: 8.2
+  uniqueness: 8.6
+  significance: 8.8
+  experience: null
+  depth: null
+  categories:
+    nature: 8.8
+    wildlife: 9.1
