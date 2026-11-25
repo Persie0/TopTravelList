@@ -1,0 +1,15 @@
+id: sight-ch-bettlachstock
+name: "Bettlachstock forest reserve"
+location:
+  country_code: CH
+  latitude: 47.23
+  longitude: 7.42
+scores:
+  impact: 8.3
+  uniqueness: 8.8
+  significance: 9.1
+  experience: 8.3
+  depth: 8.2
+  categories:
+    nature: 9.2
+    photography: 8.8

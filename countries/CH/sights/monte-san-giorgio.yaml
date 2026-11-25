@@ -1,0 +1,15 @@
+id: sight-ch-monte-san-giorgio
+name: "Monte San Giorgio (Swiss section)"
+location:
+  country_code: CH
+  latitude: 45.91
+  longitude: 8.95
+scores:
+  impact: 8.6
+  uniqueness: 8.9
+  significance: 9.4
+  experience: 8.6
+  depth: 8.6
+  categories:
+    nature: 9.2
+    history: 9.2

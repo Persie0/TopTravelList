@@ -1,0 +1,16 @@
+id: sight-ch-lake-geneva
+name: "Lake Geneva (Swiss shore and waters)"
+location:
+  country_code: CH
+  latitude: 46.45
+  longitude: 6.55
+scores:
+  impact: 9.0
+  uniqueness: 8.7
+  significance: 8.8
+  experience: 9.0
+  depth: 9.2
+  categories:
+    nature: 9.2
+    photography: 9.3
+    relaxation: 9.2

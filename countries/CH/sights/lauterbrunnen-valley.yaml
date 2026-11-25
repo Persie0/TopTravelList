@@ -1,0 +1,16 @@
+id: sight-ch-lauterbrunnen-valley
+name: "Lauterbrunnen Valley"
+location:
+  country_code: CH
+  latitude: 46.573
+  longitude: 7.909
+scores:
+  impact: 9.5
+  uniqueness: 9.2
+  significance: 8.6
+  experience: 9.2
+  depth: 9.0
+  categories:
+    nature: 9.5
+    photography: 9.6
+    adventure: 9.2

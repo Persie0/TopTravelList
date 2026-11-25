@@ -1,0 +1,16 @@
+id: sight-ch-matterhorn
+name: "Matterhorn scenic mountain landscape (Swiss side)"
+location:
+  country_code: CH
+  latitude: 45.977
+  longitude: 7.658
+scores:
+  impact: 9.7
+  uniqueness: 9.5
+  significance: 9.0
+  experience: 9.1
+  depth: 8.8
+  categories:
+    nature: 9.7
+    photography: 9.8
+    adventure: 9.4

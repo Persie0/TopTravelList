@@ -2193,4 +2193,427 @@ Prehistoric caves now have a reservation-based rating; Mitla and Yagul archaeolo
 
 
 ### Further component coverage (2026-11-25)
-Three of fifteen Popocatépetl monastery components now individually rated. The [official 15-component list](https://whc.unesco.org/en/list/702/maps/) identifies the other twelve: Saint Matthew, Cuernavaca Cathedral, Santo Domingo Hueyapan, Santo Domingo Oaxtepec, Saint James, Saint John Tetela, Saint John Tlayacapan, Saint William, Saint John Yecapixtla, Immaculate Conception, Saint Andrew, Assumption of Our Lady (Tochimilco). Site-specific visitor scope/earthquake restoration still to be verified; no aggregate score for the serial property.
+At the preceding review, three of fifteen Popocatépetl monastery components were individually rated. The [official 15-component list](https://whc.unesco.org/en/list/702/maps/) identifies the other twelve: Saint Matthew, Cuernavaca Cathedral, Santo Domingo Hueyapan, Santo Domingo Oaxtepec, Saint James, Saint John Tetela, Saint John Tlayacapan, Saint William, Saint John Yecapixtla, Immaculate Conception, Saint Andrew, Assumption of Our Lady (Tochimilco). Site-specific visitor scope/earthquake restoration still to be verified; no aggregate score for the serial property.
+
+## sight-mx-atlatlahucan-san-mateo-convent — Temple and Former Convent of San Mateo Apóstol, Atlatlahucan — 2026-11-25
+
+- YAML: [source](../../../countries/MX/sights/atlatlahucan-san-mateo-convent.yaml)
+- Action: new
+- Precise subject: Reopened church and permitted courtyard, not unrestricted cloister access.
+- Location check: 18.935675, -98.898161; UNESCO official component 702bis-001 DMS converted to decimal WGS84-style coordinates, representative property reference not an entrance.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO component table](https://whc.unesco.org/en/list/702/maps/), [INAH serial inventory](https://lugares.inah.gob.mx/es/node/6138); [Site-specific source 1](https://www.gob.mx/cultura/prensa/entregan-al-pueblo-de-morelos-tres-templos-patrimonio-conventual-en-yecapixtla-atlatlahucan-y-totolapan?state=published); [Site-specific source 2](https://www.morelos.gob.mx/ultimas-noticias/promueve-atlatlahucan-su-actividad-turistica-con-la-feria-del-cuarto-viernes-de-cuaresma); [Site-specific source 3](https://sitiosymonumentos.cultura.gob.mx/iii-estudios-monograficos/san-mateo/) — checked 2026-11-25. Federal culture ministry confirms return of restored temple/convent; 2026 state tourism notice confirms festivities around the site.
+- Missing or uncertain facts: Independent claim-level corroboration, exact current access restrictions, reopening scope and religious schedules.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Hohensalzburg Fortress](../../../countries/AT/sights/hohensalzburg-fortress.yaml) | Less monumental than Hohensalzburg |
+| [Bridgetown Garrison](../../../countries/BB/sights/historic-bridgetown-and-its-garrison.yaml) | smaller and more religiously focused than Garrison |
+| [Pigeon Island](../../../countries/LC/sights/pigeon-island-national-landmark.yaml) | more ecclesiastical architecture than Pigeon Island |
+| [Fort Hamilton](../../../countries/VC/sights/fort-hamilton-bequia.yaml) | more sacred architectural scope than Fort Hamilton. |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 7.9 | Fortified-looking masonry and atrium |
+| Uniqueness | 8.3 | distinct Augustinian mission ensemble |
+| Significance | 8.7 | early colonial religious heritage and living community traditions |
+| Experience | 7.9 | respectful public religious architectural visit |
+| Depth | 7.4 | compact church and courtyard. |
+
+- Applicable categories: architecture:8.8,history:9.0,culture:8.7.
+- Overall: 81.10/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide score for the named permitted experience only. No current opening guarantee.
+- Earlier decision: None.
+- Verification still needed: Independent claim verification and access confirmation.
+
+## sight-mx-cuernavaca-cathedral — Cathedral and Former Convent of the Assumption, Cuernavaca — 2026-11-25
+
+- YAML: [source](../../../countries/MX/sights/cuernavaca-cathedral.yaml)
+- Action: new
+- Precise subject: Cathedral, permitted religious complex and sacred art museum when open; not entire city.
+- Location check: 18.920425, -99.236839; UNESCO official component 702bis-002 DMS converted to decimal WGS84-style coordinates, representative property reference not an entrance.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO component table](https://whc.unesco.org/en/list/702/maps/), [INAH serial inventory](https://lugares.inah.gob.mx/es/node/6138); [Site-specific source 1](https://cuernavaca.gob.mx/?page_id=7858); [Site-specific source 2](https://cuernavaca.gob.mx/?page_id=48427); [Site-specific source 3](https://sic.cultura.gob.mx/ficha.php?table=museo&table_id=2013) — checked 2026-11-25. Municipality identifies cathedral and mural tour; federal cultural inventory lists sacred art museum.
+- Missing or uncertain facts: Independent claim-level corroboration, exact current access restrictions, reopening scope and religious schedules.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Hohensalzburg Fortress](../../../countries/AT/sights/hohensalzburg-fortress.yaml) | Less castle mass than Hohensalzburg |
+| [Bridgetown Garrison](../../../countries/BB/sights/historic-bridgetown-and-its-garrison.yaml) | more focused ecclesiastical art than Garrison |
+| [Pigeon Island](../../../countries/LC/sights/pigeon-island-national-landmark.yaml) | greater interior interpretation than Pigeon Island |
+| [Fort Hamilton](../../../countries/VC/sights/fort-hamilton-bequia.yaml) | broader built scope than Fort Hamilton. |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.5 | Monumental cathedral complex and murals |
+| Uniqueness | 8.7 | distinct early mission architecture and mural narrative |
+| Significance | 9.1 | major regional religious history |
+| Experience | 8.5 | documented city heritage tour and museum |
+| Depth | 8.2 | several related religious spaces. |
+
+- Applicable categories: architecture:9.2,history:9.3,culture:9.0.
+- Overall: 86.40/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide score for the named permitted experience only. No current opening guarantee.
+- Earlier decision: None.
+- Verification still needed: Independent claim verification and access confirmation.
+
+## sight-mx-hueyapan-santo-domingo-convent — Temple and Former Convent of Santo Domingo de Guzmán, Hueyapan — 2026-11-25
+
+- YAML: [source](../../../countries/MX/sights/hueyapan-santo-domingo-convent.yaml)
+- Action: new
+- Precise subject: Permitted active temple and exterior only; ongoing conservation and community permissions respected.
+- Location check: 18.884867, -98.689689; UNESCO official component 702bis-003 DMS converted to decimal WGS84-style coordinates, representative property reference not an entrance.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO component table](https://whc.unesco.org/en/list/702/maps/), [INAH serial inventory](https://lugares.inah.gob.mx/es/node/6138); [Site-specific source 1](https://www.inah.gob.mx/boletines/el-inah-y-las-mayordomias-de-hueyapan-en-morelos-se-reunen-para-continuar-tareas-en-su-templo-y-exconvento); [Site-specific source 2](https://www.noticiasdecuautla.mx/reabren-este-miercoles-el-ex-convento-de-santo-domingo-de-guzman-en-hueyapan/) — checked 2026-11-25. INAH 2026 describes reopening and continued conservation of religious art; local February 2026 reporting also documents temple reopening, dates differ; no exact reopening date asserted.
+- Missing or uncertain facts: Independent claim-level corroboration, exact current access restrictions, reopening scope and religious schedules.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Hohensalzburg Fortress](../../../countries/AT/sights/hohensalzburg-fortress.yaml) | Less monumental than Hohensalzburg |
+| [Bridgetown Garrison](../../../countries/BB/sights/historic-bridgetown-and-its-garrison.yaml) | smaller ensemble than Garrison |
+| [Pigeon Island](../../../countries/LC/sights/pigeon-island-national-landmark.yaml) | more living religious heritage than Pigeon Island |
+| [Fort Hamilton](../../../countries/VC/sights/fort-hamilton-bequia.yaml) | different sacred scope from Fort Hamilton. |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 7.6 | Historic temple exterior |
+| Uniqueness | 8.1 | regional Dominican ensemble and living Indigenous stewardship |
+| Significance | 8.5 | colonial religious heritage and community significance |
+| Experience | 7.4 | bounded respectful temple visit |
+| Depth | 6.9 | ongoing conservation limits interior breadth. |
+
+- Applicable categories: architecture:8.5,history:8.8,culture:8.8.
+- Overall: 78.05/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide score for the named permitted experience only. No current opening guarantee.
+- Earlier decision: None.
+- Verification still needed: Independent claim verification and access confirmation.
+
+## sight-mx-oaxtepec-santo-domingo-convent — Temple and Former Convent of Santo Domingo, Oaxtepec — 2026-11-25
+
+- YAML: [source](../../../countries/MX/sights/oaxtepec-santo-domingo-convent.yaml)
+- Action: new
+- Precise subject: Restored temple and permitted exterior; convent interior not assumed accessible.
+- Location check: 18.906283, -98.969928; UNESCO official component 702bis-004 DMS converted to decimal WGS84-style coordinates, representative property reference not an entrance.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO component table](https://whc.unesco.org/en/list/702/maps/), [INAH serial inventory](https://lugares.inah.gob.mx/es/node/6138); [Site-specific source 1](https://www.inah.gob.mx/prensa/comunicados/aclaracion-del-centro-inah-morelos-al-reportaje-el-desden-oficial-asfixia-la-restauracion-de-la-ruta-de-los-conventos-de-5o-elemento-lab-publicado-por-aristegui-noticias); [Site-specific source 2](https://visitmorelos.mx/experiencia/ex-convento-de-santo-domingo-de-oaxtepec); [Site-specific source 3](https://atlasturistico.morelos.gob.mx/catalogo/?page=2&tourist_segment=5) — checked 2026-11-25. INAH confirms temple reopened to worship in 2023 while former convent works remained separate; tourism site identifies public attraction.
+- Missing or uncertain facts: Independent claim-level corroboration, exact current access restrictions, reopening scope and religious schedules.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Hohensalzburg Fortress](../../../countries/AT/sights/hohensalzburg-fortress.yaml) | Less monumental than Hohensalzburg |
+| [Bridgetown Garrison](../../../countries/BB/sights/historic-bridgetown-and-its-garrison.yaml) | less extensive than Garrison |
+| [Pigeon Island](../../../countries/LC/sights/pigeon-island-national-landmark.yaml) | more sacred architecture than Pigeon Island |
+| [Fort Hamilton](../../../countries/VC/sights/fort-hamilton-bequia.yaml) | more religious architectural context than Fort Hamilton. |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 7.8 | Historic masonry church |
+| Uniqueness | 8.1 | early Dominican foundation on earlier settlement |
+| Significance | 8.5 | regional colonial religious history |
+| Experience | 7.8 | documented temple and exterior experience |
+| Depth | 7.0 | limited verified convent exploration. |
+
+- Applicable categories: architecture:8.7,history:8.9.
+- Overall: 79.35/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide score for the named permitted experience only. No current opening guarantee.
+- Earlier decision: None.
+- Verification still needed: Independent claim verification and access confirmation.
+
+## sight-mx-ocuituco-santiago-convent — Temple and Former Convent of Santiago Apóstol, Ocuituco — 2026-11-25
+
+- YAML: [source](../../../countries/MX/sights/ocuituco-santiago-convent.yaml)
+- Action: new
+- Precise subject: Exterior church and permitted areas of the early Augustinian ensemble; restored cloister and fountain access not guaranteed.
+- Location check: 18.877956, -98.774297; UNESCO official component 702bis-005 DMS converted to decimal WGS84-style coordinates, representative property reference not an entrance.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO component table](https://whc.unesco.org/en/list/702/maps/), [INAH serial inventory](https://lugares.inah.gob.mx/es/node/6138); [Site-specific source 1](https://www.morelos.gob.mx/ultimas-noticias/celebra-ocuituco-a-santiago-apostol-y-proyecta-su-riqueza-cultural-como-destino-turistico-en-morelos); [Site-specific source 2](https://www.noticiasdecuautla.mx/rene-jacobo-inaugura-feria-de-santiago-apostol-y-teatro-del-pueblo-en-ocuituco/); [Site-specific source 3](https://oem.com.mx/elsoldecuernavaca/tendencias/exconvento-de-ocuituco-una-visita-al-pasado-23979278) — checked 2026-11-25. 2025 state notice describes restoration progress and local tourism festivities; local reporting describes recovered convent, historic reporting documents fountain. Full interior reopening not independently established.
+- Missing or uncertain facts: Independent claim-level corroboration, exact current access restrictions, reopening scope and religious schedules.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Hohensalzburg Fortress](../../../countries/AT/sights/hohensalzburg-fortress.yaml) | Less monumental than Hohensalzburg |
+| [Bridgetown Garrison](../../../countries/BB/sights/historic-bridgetown-and-its-garrison.yaml) | less extensive than Garrison |
+| [Pigeon Island](../../../countries/LC/sights/pigeon-island-national-landmark.yaml) | more sacred building history than Pigeon Island |
+| [Fort Hamilton](../../../countries/VC/sights/fort-hamilton-bequia.yaml) | different compact religious heritage from Fort Hamilton. |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 7.6 | Historic church and monastic setting |
+| Uniqueness | 8.2 | early Augustinian foundation with distinctive carved fountain heritage |
+| Significance | 8.8 | important early evangelization history |
+| Experience | 7.5 | bounded exterior and community heritage experience |
+| Depth | 6.9 | limited verified current interior scope. |
+
+- Applicable categories: architecture:8.6,history:9.1,culture:8.7.
+- Overall: 79.05/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide score for the named permitted experience only. No current opening guarantee.
+- Earlier decision: None.
+- Verification still needed: Independent claim verification and access confirmation.
+
+## sight-mx-tetela-san-juan-convent — Temple and Former Convent of San Juan Bautista, Tetela del Volcán — 2026-11-25
+
+- YAML: [source](../../../countries/MX/sights/tetela-san-juan-convent.yaml)
+- Action: new
+- Precise subject: Public reopened church and permitted former convent areas; not surrounding mountain or waterfalls.
+- Location check: 18.892697, -98.729728; UNESCO official component 702bis-007 DMS converted to decimal WGS84-style coordinates, representative property reference not an entrance.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO component table](https://whc.unesco.org/en/list/702/maps/), [INAH serial inventory](https://lugares.inah.gob.mx/es/node/6138); [Site-specific source 1](https://www.morelos.gob.mx/ultimas-noticias/tetela-del-volcan-fortalecera-su-oferta-turistica-y-cultural-con-reapertura-del-exconvento-de-san-juan-bautista); [Site-specific source 2](https://oem.com.mx/elsoldecuautla/turismo/exconvento-mercado-y-cascadas-un-recorrido-turistico-en-tetela-del-volcan-27459749) — checked 2026-11-25. State reopening announcement and January 2026 reporting establish visitor access since 2025.
+- Missing or uncertain facts: Independent claim-level corroboration, exact current access restrictions, reopening scope and religious schedules.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Hohensalzburg Fortress](../../../countries/AT/sights/hohensalzburg-fortress.yaml) | Less monumental than Hohensalzburg |
+| [Bridgetown Garrison](../../../countries/BB/sights/historic-bridgetown-and-its-garrison.yaml) | smaller than Garrison |
+| [Pigeon Island](../../../countries/LC/sights/pigeon-island-national-landmark.yaml) | more ecclesiastical architecture than Pigeon Island |
+| [Fort Hamilton](../../../countries/VC/sights/fort-hamilton-bequia.yaml) | broader religious context than Fort Hamilton. |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 7.8 | Historic church in volcanic foothill town |
+| Uniqueness | 8.2 | regional early mission architecture |
+| Significance | 8.6 | colonial religious and community history |
+| Experience | 7.9 | documented reopened heritage visit |
+| Depth | 7.2 | compact ensemble. |
+
+- Applicable categories: architecture:8.7,history:8.9,photography:8.5.
+- Overall: 80.15/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide score for the named permitted experience only. No current opening guarantee.
+- Earlier decision: None.
+- Verification still needed: Independent claim verification and access confirmation.
+
+## sight-mx-tlayacapan-san-juan-convent — Temple and Former Convent of San Juan Bautista, Tlayacapan — 2026-11-25
+
+- YAML: [source](../../../countries/MX/sights/tlayacapan-san-juan-convent.yaml)
+- Action: new
+- Precise subject: Restored church and authorized parish-managed museum; respectful treatment of human remains and no guaranteed access to every room.
+- Location check: 18.956203, -98.981372; UNESCO official component 702bis-008 DMS converted to decimal WGS84-style coordinates, representative property reference not an entrance.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO component table](https://whc.unesco.org/en/list/702/maps/), [INAH serial inventory](https://lugares.inah.gob.mx/es/node/6138); [Site-specific source 1](https://sic.gob.mx/ficha.php?disciplina=&table=museo&table_id=656); [Site-specific source 2](https://catalogonacionalmhi.inah.gob.mx/consulta_publica/detalle/93919); [Site-specific source 3](https://oem.com.mx/elsoldecuautla/turismo/las-momias-de-tlayacapan-regresan-tras-8-anos-el-tesoro-oculto-que-revive-en-morelos-28660232) — checked 2026-11-25. Federal museum and monument listings establish identity, 2026 local reporting documents museum reopening in 2025.
+- Missing or uncertain facts: Independent claim-level corroboration, exact current access restrictions, reopening scope and religious schedules.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Hohensalzburg Fortress](../../../countries/AT/sights/hohensalzburg-fortress.yaml) | Less castle mass than Hohensalzburg |
+| [Bridgetown Garrison](../../../countries/BB/sights/historic-bridgetown-and-its-garrison.yaml) | more focused religious and funerary interpretation than Garrison |
+| [Pigeon Island](../../../countries/LC/sights/pigeon-island-national-landmark.yaml) | greater interior heritage than Pigeon Island |
+| [Fort Hamilton](../../../countries/VC/sights/fort-hamilton-bequia.yaml) | broader museum scope than Fort Hamilton. |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.3 | Monastic masonry and courtyard |
+| Uniqueness | 8.8 | distinct preserved mission ensemble and funerary interpretation |
+| Significance | 8.9 | important regional religious and archaeological heritage |
+| Experience | 8.4 | reopened museum and architectural visit |
+| Depth | 8.1 | multiple related visitor spaces. |
+
+- Applicable categories: architecture:9.1,history:9.2,culture:9.0.
+- Overall: 85.40/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide score for the named permitted experience only. No current opening guarantee.
+- Earlier decision: None.
+- Verification still needed: Independent claim verification and access confirmation.
+
+## sight-mx-totolapan-san-guillermo-convent — Temple and Former Convent of San Guillermo Abad, Totolapan — 2026-11-25
+
+- YAML: [source](../../../countries/MX/sights/totolapan-san-guillermo-convent.yaml)
+- Action: new
+- Precise subject: Restored church, permitted atrium and former convent areas; no unrestricted access.
+- Location check: 18.987278, -98.9194; UNESCO official component 702bis-009 DMS converted to decimal WGS84-style coordinates, representative property reference not an entrance.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO component table](https://whc.unesco.org/en/list/702/maps/), [INAH serial inventory](https://lugares.inah.gob.mx/es/node/6138); [Site-specific source 1](https://www.gob.mx/cultura/prensa/entregan-al-pueblo-de-morelos-tres-templos-patrimonio-conventual-en-yecapixtla-atlatlahucan-y-totolapan?state=published); [Site-specific source 2](https://visitmorelos.mx/ruta-de-los-conventos) — checked 2026-11-25. Federal culture ministry explicitly confirms restored temple and former convent reopening.
+- Missing or uncertain facts: Independent claim-level corroboration, exact current access restrictions, reopening scope and religious schedules.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Hohensalzburg Fortress](../../../countries/AT/sights/hohensalzburg-fortress.yaml) | Less fortress scale than Hohensalzburg |
+| [Bridgetown Garrison](../../../countries/BB/sights/historic-bridgetown-and-its-garrison.yaml) | smaller religious ensemble than Garrison |
+| [Pigeon Island](../../../countries/LC/sights/pigeon-island-national-landmark.yaml) | more church architecture than Pigeon Island |
+| [Fort Hamilton](../../../countries/VC/sights/fort-hamilton-bequia.yaml) | greater built breadth than Fort Hamilton. |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 7.9 | Large atrium and church ensemble |
+| Uniqueness | 8.3 | early Augustinian mission form |
+| Significance | 8.7 | regional colonial religious heritage |
+| Experience | 7.9 | documented reopened religious site |
+| Depth | 7.5 | several architectural elements. |
+
+- Applicable categories: architecture:8.8,history:9.0,culture:8.7.
+- Overall: 81.20/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide score for the named permitted experience only. No current opening guarantee.
+- Earlier decision: None.
+- Verification still needed: Independent claim verification and access confirmation.
+
+## sight-mx-yecapixtla-san-juan-convent — Temple and Former Convent of San Juan Bautista, Yecapixtla — 2026-11-25
+
+- YAML: [source](../../../countries/MX/sights/yecapixtla-san-juan-convent.yaml)
+- Action: new
+- Precise subject: Restored church and permitted atrium/monastic areas; not entire town.
+- Location check: 18.88275, -98.865456; UNESCO official component 702bis-010 DMS converted to decimal WGS84-style coordinates, representative property reference not an entrance.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO component table](https://whc.unesco.org/en/list/702/maps/), [INAH serial inventory](https://lugares.inah.gob.mx/es/node/6138); [Site-specific source 1](https://www.gob.mx/cultura/prensa/entregan-al-pueblo-de-morelos-tres-templos-patrimonio-conventual-en-yecapixtla-atlatlahucan-y-totolapan?state=published); [Site-specific source 2](https://www.yecapixtla.gob.mx/index.php/prensa/639-se-reunen-autoridades-municipales-funcionarios-del-inah-y-el-comite-ciudadano-de-reconstruccion-del-convento-de-san-juan-bautista); [Site-specific source 3](https://www.diariodemorelos.com/noticias/reabren-ex-convento-de-san-juan-bautista-en-yecapixtla/amp) — checked 2026-11-25. Federal reopening announcement and municipal heritage description identify church, atrium and four processional chapels.
+- Missing or uncertain facts: Independent claim-level corroboration, exact current access restrictions, reopening scope and religious schedules.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Hohensalzburg Fortress](../../../countries/AT/sights/hohensalzburg-fortress.yaml) | Less fortress monumentality than Hohensalzburg |
+| [Bridgetown Garrison](../../../countries/BB/sights/historic-bridgetown-and-its-garrison.yaml) | more focused sacred decoration than Garrison |
+| [Pigeon Island](../../../countries/LC/sights/pigeon-island-national-landmark.yaml) | greater ecclesiastical depth than Pigeon Island |
+| [Fort Hamilton](../../../countries/VC/sights/fort-hamilton-bequia.yaml) | more architectural detail than Fort Hamilton. |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.5 | Ornate Gothic and Renaissance features |
+| Uniqueness | 8.7 | distinct regional blend of architectural forms |
+| Significance | 9.0 | important colonial mission heritage |
+| Experience | 8.3 | reopened architectural visit |
+| Depth | 8.0 | several linked built elements. |
+
+- Applicable categories: architecture:9.2,history:9.2,photography:8.9.
+- Overall: 85.70/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide score for the named permitted experience only. No current opening guarantee.
+- Earlier decision: None.
+- Verification still needed: Independent claim verification and access confirmation.
+
+## sight-mx-zacualpan-inmaculada-concepcion-convent — Temple and Former Convent of the Immaculate Conception, Zacualpan de Amilpas — 2026-11-25
+
+- YAML: [source](../../../countries/MX/sights/zacualpan-inmaculada-concepcion-convent.yaml)
+- Action: new
+- Precise subject: Individual inscribed temple and former convent; partial reopening announcement not confirmation of ordinary visitor access.
+- Location check: 18.783931, -98.766019; UNESCO official component 702bis-011 DMS converted to decimal WGS84-style coordinates, representative property reference not an entrance.
+- Evidence status: **unassessed**
+- Evidence: [UNESCO component table](https://whc.unesco.org/en/list/702/maps/), [INAH serial inventory](https://lugares.inah.gob.mx/es/node/6138); [Site-specific source 1](https://catalogonacionalmhi.inah.gob.mx/consulta_publica/detalle/41539); [Site-specific source 2](https://www.noticiasdecuautla.mx/preparan-reapertura-parcial-del-ex-convento-de-inmaculada-concepcion-de-zacualpan-de-amilpas/); [Site-specific source 3](https://lugares.inah.gob.mx/es/taxonomy/term/54814) — checked 2026-11-25. INAH inventory establishes identity and heritage; 2024 reporting describes intended partial reopening, not independently verified completed access.
+- Missing or uncertain facts: Confirmed ordinary visitor access after partial reopening announcement, current condition and exact public scope.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Hohensalzburg Fortress](../../../countries/AT/sights/hohensalzburg-fortress.yaml) | No verified visit comparable to Hohensalzburg |
+| [Bridgetown Garrison](../../../countries/BB/sights/historic-bridgetown-and-its-garrison.yaml) | no established connected itinerary like Garrison |
+| [Pigeon Island](../../../countries/LC/sights/pigeon-island-national-landmark.yaml) | ordinary public scope not established against Pigeon Island |
+| [Fort Hamilton](../../../countries/VC/sights/fort-hamilton-bequia.yaml) | even compact Fort Hamilton comparison needs access evidence. |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | null | Visible condition after restoration not established |
+| Uniqueness | null | historic Augustinian architecture documented |
+| Significance | null | regional colonial religious heritage |
+| Experience | null | partial reopening was proposed but confirmed visitor scope missing |
+| Depth | null | accessible breadth unverified. |
+
+- Applicable categories: unassessed.
+- Overall: unranked.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Retain unranked; no speculative visitor score.
+- Earlier decision: None.
+- Verification still needed: Evidence of completed reopening and ordinary visitor scope.
+
+## sight-mx-calpan-franciscan-convent — Franciscan Convent of San Andrés Calpan — 2026-11-25
+
+- YAML: [source](../../../countries/MX/sights/calpan-franciscan-convent.yaml)
+- Action: new
+- Precise subject: Church exterior, atrium and four decorated processional chapels, permitted public areas only.
+- Location check: 19.108378, -98.458508; UNESCO official component 702bis-012 DMS converted to decimal WGS84-style coordinates, representative property reference not an entrance.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO component table](https://whc.unesco.org/en/list/702/maps/), [INAH serial inventory](https://lugares.inah.gob.mx/es/node/6138); [Site-specific source 1](https://sic.cultura.gob.mx/ficha.php?table=monumento_icahe&table_id=1906); [Site-specific source 2](https://municipiospuebla.mx/nota/de-paseo/el-exconvento-de-san-andres-calpan-patrimonio-mundial-de-la-unesco); [Site-specific source 3](https://archivo.municipiospuebla.mx/nota/2024-08-03/calpan/video-turismo-local-y-nacional-visita-el-exconvento-de-san-andr%C3%A9s-calpan) — checked 2026-11-25. Federal heritage inventory describes four chapels and their reliefs; local visitor reports support ordinary public encounter. UNESCO map calls it Saint Andrew; INAH calls the Franciscan convent San Francisco de Asís in San Andrés Calpan; same component.
+- Missing or uncertain facts: Independent claim-level corroboration, exact current access restrictions, reopening scope and religious schedules.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Hohensalzburg Fortress](../../../countries/AT/sights/hohensalzburg-fortress.yaml) | Less castle scale than Hohensalzburg |
+| [Bridgetown Garrison](../../../countries/BB/sights/historic-bridgetown-and-its-garrison.yaml) | more concentrated sculptural decoration than Garrison |
+| [Pigeon Island](../../../countries/LC/sights/pigeon-island-national-landmark.yaml) | more sacred reliefs than Pigeon Island |
+| [Fort Hamilton](../../../countries/VC/sights/fort-hamilton-bequia.yaml) | greater decorative architecture than Fort Hamilton. |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.5 | Exceptional carved reliefs and atrium chapels |
+| Uniqueness | 8.9 | distinct surviving processional chapel ensemble |
+| Significance | 9.0 | important early Franciscan architecture and Indigenous workmanship |
+| Experience | 8.4 | documented tourism visits |
+| Depth | 8.0 | several architecturally varied elements. |
+
+- Applicable categories: architecture:9.3,history:9.2,photography:9.0.
+- Overall: 86.35/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide score for the named permitted experience only. No current opening guarantee.
+- Earlier decision: None.
+- Verification still needed: Independent claim verification and access confirmation.
+
+## sight-mx-tochimilco-asuncion-convent — Temple and Former Convent of the Assumption, Tochimilco — 2026-11-25
+
+- YAML: [source](../../../countries/MX/sights/tochimilco-asuncion-convent.yaml)
+- Action: new
+- Precise subject: Reopened church and permitted exterior only; monastery and open chapel access not assumed.
+- Location check: 18.892989, -98.573053; UNESCO official component 702bis-014 DMS converted to decimal WGS84-style coordinates, representative property reference not an entrance.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO component table](https://whc.unesco.org/en/list/702/maps/), [INAH serial inventory](https://lugares.inah.gob.mx/es/node/6138); [Site-specific source 1](https://www.regionatlixco.com/municipios/atlixco/7368-templo-de-santa-maria-de-la-asuncion-en-tochimilco-reabrio-sus-puertas); [Site-specific source 2](https://sicomnoticias.mx/renace-un-templo-de-fe-reabre-el-ex-convento-franciscano-de-tochimilco-tras-ocho-anos-de-silencio/); [Site-specific source 3](https://m.municipiospuebla.mx/nota/tochimilco/puerta-santa-se-abre-en-templo-de-la-tercera-orden-de-tochimilco) — checked 2026-11-25. 2025 reports confirm temple reopening and explicitly identify unfinished monastery/open chapel works; 2026 religious activity reported separately.
+- Missing or uncertain facts: Independent claim-level corroboration, exact current access restrictions, reopening scope and religious schedules.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Hohensalzburg Fortress](../../../countries/AT/sights/hohensalzburg-fortress.yaml) | Less monumental than Hohensalzburg |
+| [Bridgetown Garrison](../../../countries/BB/sights/historic-bridgetown-and-its-garrison.yaml) | smaller scope than Garrison |
+| [Pigeon Island](../../../countries/LC/sights/pigeon-island-national-landmark.yaml) | more ecclesiastical heritage than Pigeon Island |
+| [Fort Hamilton](../../../countries/VC/sights/fort-hamilton-bequia.yaml) | more sacred architectural context than Fort Hamilton. |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 7.9 | Historic masonry temple |
+| Uniqueness | 8.3 | regional fortified Franciscan ensemble |
+| Significance | 8.7 | early colonial religious heritage |
+| Experience | 7.7 | documented reopened worship and heritage experience |
+| Depth | 7.1 | limited verified interior scope. |
+
+- Applicable categories: architecture:8.8,history:9.0,culture:8.7.
+- Overall: 80.50/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide score for the named permitted experience only. No current opening guarantee.
+- Earlier decision: None.
+- Verification still needed: Independent claim verification and access confirmation.
+
+### Popocatépetl component completion (2026-11-25)
+All 15 official component references now have distinct YAML entries and individual reviews (14 provisionally ranked, Zacualpan unranked). The parent serial property remains unranked as a dispersed ensemble. Component 007 is San Juan Bautista in Tetela del Volcán per the UNESCO map; older INAH inventory prose inconsistently names Santo Domingo. Component 012 is identified by locality San Andrés Calpan and the INAH Franciscan convent name. All 12 newly added coordinates are converted from official UNESCO DMS references. No assumption of complete post-earthquake restoration or access to every cloister.

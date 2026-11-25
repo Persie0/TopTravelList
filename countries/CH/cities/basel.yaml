@@ -1,0 +1,16 @@
+id: city-ch-basel
+name: "Basel"
+location:
+  country_code: CH
+  latitude: 47.5596
+  longitude: 7.5886
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 8.9
+  experience: 8.9
+  depth: 9.0
+  categories:
+    culture: 9.3
+    architecture: 9.1
+    history: 9.1
