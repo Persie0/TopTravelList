@@ -1,0 +1,16 @@
+id: sight-us-salmon-ruins
+name: "Salmon Ruins and Museum"
+location:
+  country_code: US
+  latitude: 36.7032
+  longitude: -108.0281
+scores:
+  impact: 7.8
+  uniqueness: 8.4
+  significance: 8.8
+  experience: 8.3
+  depth: 8.1
+  categories:
+    history: 9.1
+    architecture: 8.7
+    culture: 8.9

@@ -2011,3 +2011,114 @@ Seven of eight component buildings now have distinct public visitor YAML records
 
 ### Hopewell and Chaco component follow-up
 All eight Hopewell components are now accounted for: seven individual visitor records plus High Bank Works, which NPS does not list among the seven ordinary public sites. High Bank remains inventory-only without a visitor pin or score. Aztec Ruins added as a distinct public Chaco Culture component. Other NPS-named Chaco components (Pierre’s site, Halfway House, Twin Angels, Salmon Ruins, Kin Nizhoni, Casamero) are documented at [NPS](https://www.nps.gov/chcu/learn/historyculture/worldheritage.htm); separate public visitor scope and location validation remain outstanding. No sensitive coordinates inferred.
+
+## sight-us-casamero-pueblo — Casamero Pueblo — 2026-11-25
+
+- YAML: [source](../../../countries/US/sights/casamero-pueblo.yaml)
+- Action: new
+- Precise subject: Public stabilized Chacoan great house and interpreted footpath only.
+- Location check: 35.425444, -108.055139; BLM confirms stabilized ruins, signs and ordinary public access; UNESCO component coordinate.
+- Evidence status: **source-linked-unverified**
+- Evidence: [BLM 1](https://www.blm.gov/visit/casamero-pueblo); [UNESCO 2](https://whc.unesco.org/en/list/353/maps/) — reviewed 2026-11-25. BLM confirms stabilized ruins, signs and ordinary public access; UNESCO component coordinate. Not all claims independently verified.
+- Missing or uncertain facts: Independent corroboration and current permitted visitor conditions; exact point where approximate.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Angkor Wat](../../../countries/KH/sights/angkor-wat.yaml) | Much less monumental than Angkor Wat |
+| [Machu Picchu](../../../countries/PE/sights/historic-sanctuary-of-machu-picchu.yaml) | less dramatic setting than Machu Picchu |
+| [Caracol](../../../countries/BZ/sights/caracol-archaeological-reserve.yaml) | smaller urban scope than Caracol |
+| [Layou](../../../countries/VC/sights/layou-petroglyph-park.yaml) | greater architectural fabric than Layou. |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 7.7 | Red sandstone backdrop and masonry |
+| Uniqueness | 8.3 | distinct outlying great house and kiva |
+| Significance | 8.7 | regional Chacoan network heritage |
+| Experience | 7.9 | public short trail and interpretation |
+| Depth | 7.2 | limited visible complex. |
+
+- Applicable categories: history:9.0,architecture:8.5.
+- Overall: 80.30/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial score for documented public scope only.
+- Earlier decision: None.
+- Verification still needed: Independent claim-level verification and current access.
+
+
+## sight-us-pueblo-pintado — Pueblo Pintado Great House — 2026-11-25
+
+- YAML: [source](../../../countries/US/sights/pueblo-pintado.yaml)
+- Action: new
+- Precise subject: Public great-house archaeological site, not surrounding living community.
+- Location check: 35.974667, -107.674528; NPS explicitly identifies public access and hilltop setting; official UNESCO component coordinate.
+- Evidence status: **source-linked-unverified**
+- Evidence: [NPS 1](https://www.nps.gov/chcu/planyourvisit/outliers.htm); [UNESCO 2](https://whc.unesco.org/en/list/353/maps/) — reviewed 2026-11-25. NPS explicitly identifies public access and hilltop setting; official UNESCO component coordinate. Not all claims independently verified.
+- Missing or uncertain facts: Independent corroboration and current permitted visitor conditions; exact point where approximate.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Angkor Wat](../../../countries/KH/sights/angkor-wat.yaml) | Less monumental than Angkor Wat |
+| [Machu Picchu](../../../countries/PE/sights/historic-sanctuary-of-machu-picchu.yaml) | less rugged landscape than Machu Picchu |
+| [Caracol](../../../countries/BZ/sights/caracol-archaeological-reserve.yaml) | smaller than Caracol |
+| [Layou](../../../countries/VC/sights/layou-petroglyph-park.yaml) | more masonry than Layou. |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 7.8 | Promontory ruin setting |
+| Uniqueness | 8.4 | distinct outlying Chacoan masonry and plan |
+| Significance | 8.8 | major regional exchange history |
+| Experience | 7.7 | authorized exterior archaeological visit |
+| Depth | 7.2 | compact ruin circuit. |
+
+- Applicable categories: history:9.1,architecture:8.6,photography:8.4.
+- Overall: 80.75/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial score for documented public scope only.
+- Earlier decision: None.
+- Verification still needed: Independent claim-level verification and current access.
+
+
+## sight-us-salmon-ruins — Salmon Ruins and Museum — 2026-11-25
+
+- YAML: [source](../../../countries/US/sights/salmon-ruins.yaml)
+- Action: new
+- Precise subject: Museum and public excavated Chacoan village; reconstructed structures distinguished from original remains.
+- Location check: 36.7032, -108.0281; Museum and tourism office establish ordinary visitor scope. NPS calls this part of the designation; UNESCO ten-component map does not separately identify Salmon, so no independent UNESCO component claim. Approximate public museum location.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Public site reference 1](https://www.salmonruins.com/about.html); [Public site reference 2](https://www.salmonruins.com/tours.html); [Public site reference 3](https://farmingtonnm.org/listings/salmon-ruins); [NPS 4](https://www.nps.gov/chcu/learn/historyculture/worldheritage.htm); [UNESCO 5](https://whc.unesco.org/en/list/353/maps/) — reviewed 2026-11-25. Museum and tourism office establish ordinary visitor scope. NPS calls this part of the designation; UNESCO ten-component map does not separately identify Salmon, so no independent UNESCO component claim. Approximate public museum location. Not all claims independently verified.
+- Missing or uncertain facts: Independent corroboration and current permitted visitor conditions; exact point where approximate.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Angkor Wat](../../../countries/KH/sights/angkor-wat.yaml) | Less monumental than Angkor Wat |
+| [Machu Picchu](../../../countries/PE/sights/historic-sanctuary-of-machu-picchu.yaml) | less landscape drama than Machu Picchu |
+| [Caracol](../../../countries/BZ/sights/caracol-archaeological-reserve.yaml) | smaller ruins but more museum interpretation than Caracol |
+| [Layou](../../../countries/VC/sights/layou-petroglyph-park.yaml) | broader scope than Layou. |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 7.8 | Masonry ruins and interpreted buildings |
+| Uniqueness | 8.4 | distinct Chacoan outlier with reconstruction and museum |
+| Significance | 8.8 | regional archaeological heritage |
+| Experience | 8.3 | public trail and exhibitions |
+| Depth | 8.1 | multiple related heritage experiences. |
+
+- Applicable categories: history:9.1,architecture:8.7,culture:8.9.
+- Overall: 82.55/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial score for documented public scope only.
+- Earlier decision: None.
+- Verification still needed: Independent claim-level verification and current access.
+
+
+### Further component coverage (2026-11-25)
+UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes the contiguous park, Kin Bineola, Kin Ya'a, Pueblo Pintado, Aztec Ruins, Casamero, Kin Nizhoni, Pierre’s site, Twin Angels and Halfway House. Four now have public YAML entries. Kin Bineola and Kin Ya'a are explicitly closed per [NPS outliers](https://www.nps.gov/chcu/planyourvisit/outliers.htm); the other four lack verified ordinary public access. NPS also includes Salmon Ruins in its designation narrative, whereas UNESCO's map does not separately list it; rated as a public outlier, not asserted to be a separate component.

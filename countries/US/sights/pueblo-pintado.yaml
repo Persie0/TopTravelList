@@ -1,0 +1,16 @@
+id: sight-us-pueblo-pintado
+name: "Pueblo Pintado Great House"
+location:
+  country_code: US
+  latitude: 35.974667
+  longitude: -107.674528
+scores:
+  impact: 7.8
+  uniqueness: 8.4
+  significance: 8.8
+  experience: 7.7
+  depth: 7.2
+  categories:
+    history: 9.1
+    architecture: 8.6
+    photography: 8.4
