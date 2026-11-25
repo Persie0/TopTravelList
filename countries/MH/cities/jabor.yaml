@@ -1,0 +1,13 @@
+id: city-mh-jabor
+name: "Jabor Village (Jabwor)"
+location:
+  country_code: MH
+  latitude: 5.921
+  longitude: 169.643
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}

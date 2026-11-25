@@ -2,7 +2,7 @@
 
 # Marshall Islands (MH) — Sights & attractions ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**4 ranked** · **4 unassessed** · **8 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,11 +10,25 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (4)
 
-No sights & attractions have been assessed for **Marshall Islands** yet.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Arno Atoll](sights/arno-atoll.yaml) | Attraction | **79.35** | **Nature 8.6**, **Photography 8.5**, **Beaches 8.4** | 8.2 / 8.1 / 7.3 / 8.0 / 7.9 | [7.06137, 171.78549](https://www.google.com/maps/search/?api=1&query=7.06137,171.78549) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Arno%20Atoll%2C%20Marshall%20Islands) |
+| 2 | [Majuro Lagoon](sights/majuro-lagoon.yaml) | Beach / bay | **76.80** | **Nature 8.4**, **Photography 8.2**, **Adventure 8.1** | 8.0 / 7.8 / 6.9 / 8.0 / 7.5 | [7.11667, 171.2](https://www.google.com/maps/search/?api=1&query=7.11667,171.2) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Majuro%20Lagoon%2C%20Marshall%20Islands) |
+| 3 | [Alele Museum](sights/alele-museum.yaml) | Museum / heritage | **75.10** | **Culture 8.5**, **History 8.3** | 6.9 / 8.1 / 8.1 / 7.3 / 7.0 | [7.10761, 171.37359](https://www.google.com/maps/search/?api=1&query=7.10761,171.37359) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Alele%20Museum%2C%20Marshall%20Islands) |
+| 4 | [Laura Beach Park](sights/laura-beach-park.yaml) | Beach / bay | **70.90** | **Relaxation 8.3**, **Beaches 8.2**, **Photography 7.8**, Nature 7.7 | 7.8 / 7.1 / 5.8 / 7.9 / 6.3 | [7.16391, 171.03949](https://www.google.com/maps/search/?api=1&query=7.16391,171.03949) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Laura%20Beach%20Park%2C%20Marshall%20Islands) |
 
-Add destination YAML files in [sights/](sights/), then regenerate the overview files.
+## Not yet fully assessed (4)
+
+These destinations have no rank until all five core scores are assessed.
+
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| — | [Bikini Atoll Nuclear Test Site](sights/bikini-atoll-nuclear-test-site.yaml) | Attraction | **—** | **History 9.4** | 8.8 / 9.4 / 9.6 / — / — | [11.6, 165.38056](https://www.google.com/maps/search/?api=1&query=11.6,165.38056) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bikini%20Atoll%20Nuclear%20Test%20Site%2C%20Marshall%20Islands) |
+| — | [Jaluit Atoll Conservation Area](sights/jaluit-atoll-conservation-area.yaml) | Attraction | **—** | **Nature 8.7**, **Wildlife 8.3** | 8.1 / 8.3 / 8.7 / — / — | [6.0, 169.56667](https://www.google.com/maps/search/?api=1&query=6.0,169.56667) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Jaluit%20Atoll%20Conservation%20Area%2C%20Marshall%20Islands) |
+| — | [Likiep Village Historic District](sights/likiep-village-historic-district.yaml) | Historic settlement | **—** | **History 8.7**, **Architecture 8.0** | 7.0 / 8.5 / 8.4 / — / — | [9.825, 169.311](https://www.google.com/maps/search/?api=1&query=9.825,169.311) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Likiep%20Village%20Historic%20District%2C%20Marshall%20Islands) |
+| — | [Namdrik Atoll Ramsar Site](sights/namdrik-atoll.yaml) | Attraction | **—** | **Nature 8.5**, **Wildlife 8.2** | 7.8 / 8.2 / 8.4 / — / — | [5.61667, 168.1](https://www.google.com/maps/search/?api=1&query=5.61667,168.1) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Namdrik%20Atoll%20Ramsar%20Site%2C%20Marshall%20Islands) |
 
 ---
 

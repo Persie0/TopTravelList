@@ -1,0 +1,13 @@
+id: city-mh-ebon
+name: "Ebon Village"
+location:
+  country_code: MH
+  latitude: 4.582
+  longitude: 168.696
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}

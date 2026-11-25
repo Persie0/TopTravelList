@@ -1,0 +1,14 @@
+id: sight-mh-bikini-atoll-nuclear-test-site
+name: "Bikini Atoll Nuclear Test Site"
+location:
+  country_code: MH
+  latitude: 11.6
+  longitude: 165.38056
+scores:
+  impact: 8.8
+  uniqueness: 9.4
+  significance: 9.6
+  experience: null
+  depth: null
+  categories:
+    history: 9.4
