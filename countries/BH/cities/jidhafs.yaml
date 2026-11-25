@@ -1,0 +1,15 @@
+id: city-bh-jidhafs
+name: "Jidhafs"
+location:
+  country_code: BH
+  latitude: 26.2170
+  longitude: 50.5380
+scores:
+  impact: 6.5
+  uniqueness: 6.8
+  significance: 7.0
+  experience: 7.0
+  depth: 6.4
+  categories:
+    culture: 7.4
+    food: 7.2

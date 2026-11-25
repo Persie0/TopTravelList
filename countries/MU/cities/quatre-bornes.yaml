@@ -1,0 +1,15 @@
+id: city-mu-quatre-bornes
+name: "Quatre Bornes"
+location:
+  country_code: MU
+  latitude: -20.2640
+  longitude: 57.4790
+scores:
+  impact: 6.4
+  uniqueness: 6.5
+  significance: 6.9
+  experience: 7.6
+  depth: 7.2
+  categories:
+    food: 8.0
+    culture: 7.6

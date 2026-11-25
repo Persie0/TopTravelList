@@ -1,0 +1,15 @@
+id: sight-om-bar-al-hikman-proposed-nature-reserve
+name: "Bar Al Hikman Proposed Nature Reserve"
+location:
+  country_code: OM
+  latitude: 20.6
+  longitude: 58.35
+scores:
+  impact: null
+  uniqueness: 8.8
+  significance: 9.1
+  experience: null
+  depth: null
+  categories:
+    nature: 9.1
+    wildlife: 9.3

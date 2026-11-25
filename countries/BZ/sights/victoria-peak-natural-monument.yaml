@@ -1,0 +1,15 @@
+id: sight-bz-victoria-peak-natural-monument
+name: "Victoria Peak Natural Monument"
+location:
+  country_code: BZ
+  latitude: 16.808
+  longitude: -88.615
+scores:
+  impact: 8.6
+  uniqueness: 8.4
+  significance: 7.9
+  experience: 8.8
+  depth: 8.2
+  categories:
+    adventure: 9.2
+    nature: 8.7

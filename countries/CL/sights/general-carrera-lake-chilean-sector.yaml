@@ -1,0 +1,16 @@
+id: sight-cl-general-carrera-lake-chilean-sector
+name: "General Carrera Lake (Chilean sector)"
+location:
+  country_code: CL
+  latitude: -46.5300
+  longitude: -72.0000
+scores:
+  impact: 8.9
+  uniqueness: 8.7
+  significance: 7.9
+  experience: 8.7
+  depth: 8.6
+  categories:
+    nature: 9.2
+    photography: 9.5
+    relaxation: 8.6

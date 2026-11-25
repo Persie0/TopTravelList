@@ -1,0 +1,15 @@
+id: sight-pe-miraflores-malecon
+name: "Miraflores Malecón"
+location:
+  country_code: PE
+  latitude: -12.1250
+  longitude: -77.0390
+scores:
+  impact: 8.4
+  uniqueness: 7.9
+  significance: 6.6
+  experience: 8.9
+  depth: 8.3
+  categories:
+    relaxation: 9.2
+    photography: 9.0

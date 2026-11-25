@@ -1,0 +1,16 @@
+id: sight-ar-ischigualasto-talampaya-natural-parks
+name: "Ischigualasto / Talampaya Natural Parks"
+location:
+  country_code: AR
+  latitude: -30.1000
+  longitude: -67.8500
+scores:
+  impact: 9.1
+  uniqueness: 9.4
+  significance: 9.7
+  experience: 8.6
+  depth: 8.9
+  categories:
+    nature: 9.6
+    history: 9.6
+    photography: 9.5

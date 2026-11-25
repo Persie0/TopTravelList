@@ -1,0 +1,16 @@
+id: sight-sc-anse-major-beach
+name: "Anse Major Beach"
+location:
+  country_code: SC
+  latitude: -4.6230
+  longitude: 55.3900
+scores:
+  impact: 8.8
+  uniqueness: 8.6
+  significance: 6.5
+  experience: 8.4
+  depth: 6.9
+  categories:
+    beaches: 9.0
+    photography: 9.0
+    adventure: 8.2

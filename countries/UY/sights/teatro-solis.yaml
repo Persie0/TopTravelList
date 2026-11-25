@@ -1,0 +1,16 @@
+id: sight-uy-teatro-solis
+name: "Teatro Solis"
+location:
+  country_code: UY
+  latitude: -34.9068
+  longitude: -56.2014
+scores:
+  impact: 8.2
+  uniqueness: 7.9
+  significance: 8.6
+  experience: 8.4
+  depth: 7.5
+  categories:
+    architecture: 8.7
+    culture: 8.9
+    history: 8.7

@@ -1,0 +1,16 @@
+id: sight-qa-sealine-beach
+name: "Sealine Beach"
+location:
+  country_code: QA
+  latitude: 24.8550
+  longitude: 51.5070
+scores:
+  impact: 7.9
+  uniqueness: 7.6
+  significance: 6.5
+  experience: 8.3
+  depth: 7.4
+  categories:
+    beaches: 8.5
+    adventure: 8.5
+    relaxation: 8.4

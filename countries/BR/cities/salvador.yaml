@@ -1,0 +1,17 @@
+id: city-br-salvador
+name: "Salvador"
+location:
+  country_code: BR
+  latitude: -12.9777
+  longitude: -38.5016
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 9.2
+  experience: 8.5
+  depth: 8.9
+  categories:
+    architecture: 9.4
+    culture: 9.6
+    history: 9.5
+    food: 9.2

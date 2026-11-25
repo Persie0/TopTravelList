@@ -1,0 +1,16 @@
+id: city-mw-mangochi
+name: "Mangochi"
+location:
+  country_code: MW
+  latitude: -14.4782
+  longitude: 35.2645
+scores:
+  impact: 6.8
+  uniqueness: 7.5
+  significance: 7.4
+  experience: 7.7
+  depth: 6.9
+  categories:
+    culture: 8.0
+    history: 8.0
+    food: 7.9

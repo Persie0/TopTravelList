@@ -1,0 +1,16 @@
+id: sight-ar-moises-ville-heritage-settlement
+name: "Moisés Ville Heritage Settlement"
+location:
+  country_code: AR
+  latitude: -30.7150
+  longitude: -61.4670
+scores:
+  impact: 7.3
+  uniqueness: 8.6
+  significance: 8.7
+  experience: 7.4
+  depth: 6.8
+  categories:
+    history: 9.2
+    culture: 9.2
+    architecture: 8.3

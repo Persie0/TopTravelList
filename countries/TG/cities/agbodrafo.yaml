@@ -1,0 +1,15 @@
+id: city-tg-agbodrafo
+name: "Agbodrafo"
+location:
+  country_code: TG
+  latitude: 6.2010
+  longitude: 1.4750
+scores:
+  impact: 7.0
+  uniqueness: 7.7
+  significance: 8.4
+  experience: 7.6
+  depth: 6.5
+  categories:
+    history: 8.9
+    culture: 8.3

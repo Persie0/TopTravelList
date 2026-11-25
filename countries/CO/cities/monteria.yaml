@@ -1,0 +1,16 @@
+id: city-co-monteria
+name: "Montería"
+location:
+  country_code: CO
+  latitude: 8.7500
+  longitude: -75.8814
+scores:
+  impact: 6.8
+  uniqueness: 7.0
+  significance: 6.8
+  experience: 7.5
+  depth: 7.2
+  categories:
+    relaxation: 8.1
+    food: 8.0
+    culture: 7.8

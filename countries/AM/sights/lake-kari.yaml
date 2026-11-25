@@ -1,0 +1,15 @@
+id: sight-am-lake-kari
+name: "Lake Kari"
+location:
+  country_code: AM
+  latitude: 40.474
+  longitude: 44.185
+scores:
+  impact: 8.2
+  uniqueness: 8.1
+  significance: 7.0
+  experience: 8.1
+  depth: 6.8
+  categories:
+    nature: 8.6
+    photography: 8.7

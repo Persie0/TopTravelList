@@ -1,0 +1,15 @@
+id: city-bh-zallaq
+name: "Zallaq"
+location:
+  country_code: BH
+  latitude: 26.0410
+  longitude: 50.4850
+scores:
+  impact: 6.5
+  uniqueness: 6.7
+  significance: 6.3
+  experience: 7.3
+  depth: 5.9
+  categories:
+    relaxation: 7.7
+    culture: 6.9

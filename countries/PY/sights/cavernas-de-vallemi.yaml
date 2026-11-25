@@ -1,0 +1,15 @@
+id: sight-py-cavernas-de-vallemi
+name: "Cavernas de Vallemí"
+location:
+  country_code: PY
+  latitude: -22.1667
+  longitude: -57.9500
+scores:
+  impact: null
+  uniqueness: 8.2
+  significance: 7.7
+  experience: null
+  depth: null
+  categories:
+    nature: 8.6
+    adventure: 8.3

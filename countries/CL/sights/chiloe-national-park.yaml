@@ -1,0 +1,16 @@
+id: sight-cl-chiloe-national-park
+name: "Chiloé National Park"
+location:
+  country_code: CL
+  latitude: -42.6000
+  longitude: -74.1000
+scores:
+  impact: 8.5
+  uniqueness: 8.6
+  significance: 8.6
+  experience: 8.5
+  depth: 8.3
+  categories:
+    nature: 9.2
+    wildlife: 9.1
+    adventure: 8.6

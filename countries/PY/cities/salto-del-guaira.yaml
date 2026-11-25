@@ -1,0 +1,15 @@
+id: city-py-salto-del-guaira
+name: "Salto del Guairá"
+location:
+  country_code: PY
+  latitude: -24.0625
+  longitude: -54.3069
+scores:
+  impact: 6.2
+  uniqueness: 6.8
+  significance: 6.3
+  experience: 7.0
+  depth: 6.5
+  categories:
+    food: 7.3
+    culture: 7.1

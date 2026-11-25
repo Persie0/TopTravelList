@@ -1,0 +1,16 @@
+id: sight-pe-amantani-island
+name: "Amantaní Island"
+location:
+  country_code: PE
+  latitude: -15.6620
+  longitude: -69.7150
+scores:
+  impact: 8.4
+  uniqueness: 8.3
+  significance: 7.9
+  experience: 8.5
+  depth: 7.7
+  categories:
+    culture: 8.8
+    photography: 9.0
+    nature: 8.6

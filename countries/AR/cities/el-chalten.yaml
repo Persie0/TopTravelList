@@ -1,0 +1,15 @@
+id: city-ar-el-chalten
+name: "El Chaltén"
+location:
+  country_code: AR
+  latitude: -49.3315
+  longitude: -72.8863
+scores:
+  impact: 7.8
+  uniqueness: 8.2
+  significance: 6.2
+  experience: 8.3
+  depth: 6.5
+  categories:
+    photography: 8.8
+    relaxation: 8.1

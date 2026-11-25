@@ -1,0 +1,15 @@
+id: sight-om-falaj-daris
+name: "Falaj Daris"
+location:
+  country_code: OM
+  latitude: 22.957
+  longitude: 57.527
+scores:
+  impact: 7.2
+  uniqueness: 8.2
+  significance: 8.6
+  experience: 7.7
+  depth: 6.9
+  categories:
+    history: 8.8
+    culture: 8.6

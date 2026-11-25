@@ -1,0 +1,17 @@
+id: sight-uy-cabo-polonio-national-park
+name: "Cabo Polonio National Park"
+location:
+  country_code: UY
+  latitude: -34.3990
+  longitude: -53.7900
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 8.6
+  experience: 8.8
+  depth: 8.4
+  categories:
+    nature: 9.2
+    wildlife: 9.0
+    photography: 9.1
+    adventure: 8.3

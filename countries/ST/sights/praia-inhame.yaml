@@ -1,0 +1,16 @@
+id: sight-st-praia-inhame
+name: "Praia Inhame"
+location:
+  country_code: ST
+  latitude: 0.0290
+  longitude: 6.5240
+scores:
+  impact: 8.5
+  uniqueness: 8.0
+  significance: 6.0
+  experience: 8.4
+  depth: 7.1
+  categories:
+    beaches: 8.8
+    relaxation: 8.7
+    photography: 8.5
