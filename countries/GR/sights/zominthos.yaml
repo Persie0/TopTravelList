@@ -1,0 +1,14 @@
+id: sight-gr-zominthos
+name: "Zominthos archaeological site"
+location:
+  country_code: GR
+  latitude: 35.248611
+  longitude: 24.887222
+scores:
+  impact: null
+  uniqueness: 9.0
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    history: 9.3

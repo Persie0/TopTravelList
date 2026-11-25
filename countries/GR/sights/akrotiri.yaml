@@ -1,0 +1,15 @@
+id: sight-gr-akrotiri
+name: "Akrotiri archaeological site"
+location:
+  country_code: GR
+  latitude: 36.351
+  longitude: 25.402
+scores:
+  impact: 8.9
+  uniqueness: 9.3
+  significance: 9.4
+  experience: 8.9
+  depth: 8.7
+  categories:
+    history: 9.5
+    culture: 9.3

@@ -1,0 +1,15 @@
+id: sight-gr-samos-sites
+name: "Pythagoreion and Heraion of Samos"
+location:
+  country_code: GR
+  latitude: 37.69
+  longitude: 26.89
+scores:
+  impact: 8.5
+  uniqueness: 9.0
+  significance: 9.3
+  experience: 8.6
+  depth: 8.7
+  categories:
+    history: 9.4
+    architecture: 9.2

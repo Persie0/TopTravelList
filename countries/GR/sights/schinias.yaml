@@ -1,0 +1,16 @@
+id: sight-gr-schinias
+name: "Schinias Marathon National Park"
+location:
+  country_code: GR
+  latitude: 38.15
+  longitude: 24.04
+scores:
+  impact: 8.2
+  uniqueness: 8.5
+  significance: 8.6
+  experience: 8.6
+  depth: 8.2
+  categories:
+    nature: 9.0
+    beaches: 8.8
+    wildlife: 9.0

@@ -1,0 +1,14 @@
+id: sight-gr-nikopolis
+name: "Archaeological Site of Nikopolis"
+location:
+  country_code: GR
+  latitude: 39.026
+  longitude: 20.73
+scores:
+  impact: 8.4
+  uniqueness: 8.8
+  significance: 9.1
+  experience: 8.5
+  depth: 8.7
+  categories:
+    history: 9.3

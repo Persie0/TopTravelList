@@ -1,0 +1,15 @@
+id: sight-gr-olympia
+name: "Archaeological Site of Olympia"
+location:
+  country_code: GR
+  latitude: 37.638
+  longitude: 21.63
+scores:
+  impact: 8.8
+  uniqueness: 9.3
+  significance: 9.7
+  experience: 9.0
+  depth: 9.0
+  categories:
+    history: 9.7
+    culture: 9.4

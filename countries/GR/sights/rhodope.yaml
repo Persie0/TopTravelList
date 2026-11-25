@@ -1,0 +1,15 @@
+id: sight-gr-rhodope
+name: "Rhodope Mountain Range National Park"
+location:
+  country_code: GR
+  latitude: 41.47
+  longitude: 24.44
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 8.7
+  experience: 8.7
+  depth: 9.0
+  categories:
+    nature: 9.3
+    wildlife: 9.1

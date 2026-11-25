@@ -1,0 +1,15 @@
+id: sight-gr-epidaurus
+name: "Sanctuary of Asklepios at Epidaurus"
+location:
+  country_code: GR
+  latitude: 37.598
+  longitude: 23.079
+scores:
+  impact: 9.2
+  uniqueness: 9.2
+  significance: 9.4
+  experience: 9.0
+  depth: 8.8
+  categories:
+    history: 9.5
+    architecture: 9.5

@@ -1,0 +1,2279 @@
+# GR — Greece sights: individual worldwide reviews
+
+- [Worldwide v2](../../../rules.md) · [Workflow](../../future-country-workflow.md)
+- Initial inventory includes all 21 UNESCO inscriptions and 11 tentative nominations at property level, all six Minoan components with published UNESCO coordinates, and selected national parks. The wider Olympus World Heritage property, Samaria, Dadia and Prespa are represented above rather than duplicating their scope; NECCA management units are not an exhaustive park register. Other serial components selectively covered. Mount Athos is unranked because ordinary unrestricted access is unavailable. Six Minoan component coordinates verified; all other locations approximate. Peer scores from current or preceding repository inspections; type-specific comparisons are provisional, especially museums, beaches and monasteries. No claims fully fact-checked; no perfect-ten anchors added.
+
+## sight-gr-acropolis — Acropolis of Athens — 2026-11-25
+
+- YAML: [source](../../../countries/GR/sights/acropolis.yaml)
+- Action: new
+- Precise subject: Acropolis of Athens; Hilltop archaeological site not museum or all Athens.
+- Location check: 37.9715, 23.7267; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Discover Greece](https://www.discovergreece.com/travel-ideas/best-of/12-incredible-places-greece-you-have-see-believe) — consulted 2026-11-25 for Acropolis identity and tourism context; independent material-claim and current visitor-condition verification outstanding.
+- Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) (10 / 10 / 10 / 9.8 / 10) | global ancient monumental ensemble | Uniqueness lower: Distinct surviving ensemble of classical Athenian architecture; depth lower: Hilltop archaeological site not museum or all Athens. Provisional comparison. |
+| [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) (9.6 / 9.5 / 9.8 / 9.4 / 9.5) | ancient royal-city ruins | Uniqueness similar: Distinct surviving ensemble of classical Athenian architecture; depth lower: Hilltop archaeological site not museum or all Athens. Provisional comparison. |
+| [Gyeongju Historic Areas (KR)](../../../countries/KR/sights/gyeongju-historic-areas.yaml) (9.5 / 9.6 / 9.8 / 9.5 / 9.8) | extensive archaeological heritage | Uniqueness lower: Distinct surviving ensemble of classical Athenian architecture; depth lower: Hilltop archaeological site not museum or all Athens. Provisional comparison. |
+| [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | smaller historic complex, scope floor | Uniqueness higher: Distinct surviving ensemble of classical Athenian architecture; depth higher: Hilltop archaeological site not museum or all Athens. Provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| impact | — | 9.6 | Monumental classical temples on rocky citadel |
+| uniqueness | — | 9.5 | Distinct surviving ensemble of classical Athenian architecture |
+| significance | — | 9.8 | International architectural and civic history |
+| experience | — | 9.1 | Managed archaeological route and city panoramas |
+| depth | — | 8.9 | Hilltop archaeological site not museum or all Athens |
+
+- Applicable category scores: architecture: 9.8, history: 9.9, photography: 9.5.
+- Computed worldwide overall: 94.70/100.
+- High-score challenge: impact 9.6: Monumental classical temples on rocky citadel; uniqueness 9.5: Distinct surviving ensemble of classical Athenian architecture; significance 9.8: International architectural and civic history; architecture 9.8: Monumental classical temples on rocky citadel; history 9.9: International architectural and civic history; photography 9.5: Monumental classical temples on rocky citadel. 90+ total: Monumental classical temples on rocky citadel; Distinct surviving ensemble of classical Athenian architecture; Hilltop archaeological site not museum or all Athens. Relative to Angkor and Ayutthaya, the classical architectural and civic influence is comparable in significance, but the smaller hilltop visitor circuit supports lower depth and impact than Angkor..
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial assessment: Distinct surviving ensemble of classical Athenian architecture; Hilltop archaeological site not museum or all Athens.
+- Earlier decision: none.
+- Verification still needed: independent factual evidence, admission and closer peer matching.
+
+## sight-gr-aigai — Archaeological Site of Aigai (Vergina) — 2026-11-25
+
+- YAML: [source](../../../countries/GR/sights/aigai.yaml)
+- Action: new
+- Precise subject: Archaeological Site of Aigai (Vergina); Listed archaeological area.
+- Location check: 40.482, 22.318; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO](https://whc.unesco.org/en/statesparties/gr) — consulted 2026-11-25 for property identity and listed status; independent material-claim and current visitor-condition verification outstanding.
+- Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) (10 / 10 / 10 / 9.8 / 10) | global ancient monumental ensemble | Uniqueness lower: Rare Macedonian royal tomb and palace evidence; depth lower: Listed archaeological area. Provisional comparison. |
+| [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) (9.6 / 9.5 / 9.8 / 9.4 / 9.5) | ancient royal-city ruins | Uniqueness lower: Rare Macedonian royal tomb and palace evidence; depth lower: Listed archaeological area. Provisional comparison. |
+| [Gyeongju Historic Areas (KR)](../../../countries/KR/sights/gyeongju-historic-areas.yaml) (9.5 / 9.6 / 9.8 / 9.5 / 9.8) | extensive archaeological heritage | Uniqueness lower: Rare Macedonian royal tomb and palace evidence; depth lower: Listed archaeological area. Provisional comparison. |
+| [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | smaller historic complex, scope floor | Uniqueness higher: Rare Macedonian royal tomb and palace evidence; depth higher: Listed archaeological area. Provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| impact | — | 8.8 | Royal burial monuments and interpreted archaeology |
+| uniqueness | — | 9.3 | Rare Macedonian royal tomb and palace evidence |
+| significance | — | 9.5 | International ancient Macedonian heritage |
+| experience | — | 9.0 | Managed museum and archaeological visits |
+| depth | — | 8.8 | Listed archaeological area |
+
+- Applicable category scores: history: 9.6, culture: 9.4.
+- Computed worldwide overall: 90.95/100.
+- High-score challenge: significance 9.5: International ancient Macedonian heritage; history 9.6: International ancient Macedonian heritage. 90+ total: Royal burial monuments and interpreted archaeology; Rare Macedonian royal tomb and palace evidence; Listed archaeological area. Compare Angkor and Ayutthaya: this original archaeological evidence and defined site breadth support the stated field, without inheriting the full scope of a global monumental park..
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial assessment: Rare Macedonian royal tomb and palace evidence; Listed archaeological area.
+- Earlier decision: none.
+- Verification still needed: independent factual evidence, admission and closer peer matching.
+
+## sight-gr-delphi — Archaeological Site of Delphi — 2026-11-25
+
+- YAML: [source](../../../countries/GR/sights/delphi.yaml)
+- Action: new
+- Precise subject: Archaeological Site of Delphi; Listed sanctuary not modern town.
+- Location check: 38.482, 22.501; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Visit Greece](https://www.visitgreece.gr/en/mainland/sterea/delphi) — consulted 2026-11-25 for ancient sanctuary and oracle context; independent material-claim and current visitor-condition verification outstanding.
+- Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) (10 / 10 / 10 / 9.8 / 10) | global ancient monumental ensemble | Uniqueness lower: Distinct Panhellenic oracle sanctuary; depth lower: Listed sanctuary not modern town. Provisional comparison. |
+| [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) (9.6 / 9.5 / 9.8 / 9.4 / 9.5) | ancient royal-city ruins | Uniqueness lower: Distinct Panhellenic oracle sanctuary; depth lower: Listed sanctuary not modern town. Provisional comparison. |
+| [Gyeongju Historic Areas (KR)](../../../countries/KR/sights/gyeongju-historic-areas.yaml) (9.5 / 9.6 / 9.8 / 9.5 / 9.8) | extensive archaeological heritage | Uniqueness lower: Distinct Panhellenic oracle sanctuary; depth lower: Listed sanctuary not modern town. Provisional comparison. |
+| [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | smaller historic complex, scope floor | Uniqueness higher: Distinct Panhellenic oracle sanctuary; depth higher: Listed sanctuary not modern town. Provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| impact | — | 9.3 | Terraced sanctuary in dramatic mountain setting |
+| uniqueness | — | 9.4 | Distinct Panhellenic oracle sanctuary |
+| significance | — | 9.6 | International ancient religious and political heritage |
+| experience | — | 9.1 | Managed ruins and interpretation |
+| depth | — | 9.0 | Listed sanctuary not modern town |
+
+- Applicable category scores: history: 9.7, architecture: 9.5, photography: 9.4.
+- Computed worldwide overall: 93.25/100.
+- High-score challenge: significance 9.6: International ancient religious and political heritage; history 9.7: International ancient religious and political heritage; architecture 9.5: Terraced sanctuary in dramatic mountain setting. 90+ total: Terraced sanctuary in dramatic mountain setting; Distinct Panhellenic oracle sanctuary; Listed sanctuary not modern town. Compare Angkor and Ayutthaya: this original archaeological evidence and defined site breadth support the stated field, without inheriting the full scope of a global monumental park..
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial assessment: Distinct Panhellenic oracle sanctuary; Listed sanctuary not modern town.
+- Earlier decision: none.
+- Verification still needed: independent factual evidence, admission and closer peer matching.
+
+## sight-gr-mystras — Archaeological Site of Mystras — 2026-11-25
+
+- YAML: [source](../../../countries/GR/sights/mystras.yaml)
+- Action: new
+- Precise subject: Archaeological Site of Mystras; Defined archaeological site.
+- Location check: 37.075, 22.369; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO](https://whc.unesco.org/en/statesparties/gr) — consulted 2026-11-25 for property identity and listed status; independent material-claim and current visitor-condition verification outstanding.
+- Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) (10 / 10 / 10 / 9.8 / 10) | global ancient monumental ensemble | Uniqueness lower: Distinct late Byzantine fortified settlement; depth lower: Defined archaeological site. Provisional comparison. |
+| [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) (9.6 / 9.5 / 9.8 / 9.4 / 9.5) | ancient royal-city ruins | Uniqueness lower: Distinct late Byzantine fortified settlement; depth lower: Defined archaeological site. Provisional comparison. |
+| [Gyeongju Historic Areas (KR)](../../../countries/KR/sights/gyeongju-historic-areas.yaml) (9.5 / 9.6 / 9.8 / 9.5 / 9.8) | extensive archaeological heritage | Uniqueness lower: Distinct late Byzantine fortified settlement; depth lower: Defined archaeological site. Provisional comparison. |
+| [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | smaller historic complex, scope floor | Uniqueness higher: Distinct late Byzantine fortified settlement; depth higher: Defined archaeological site. Provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| impact | — | 9.1 | Hillside Byzantine churches and ruined city |
+| uniqueness | — | 9.2 | Distinct late Byzantine fortified settlement |
+| significance | — | 9.3 | International Byzantine artistic and political history |
+| experience | — | 8.9 | Managed steep paths and permitted church interiors |
+| depth | — | 9.0 | Defined archaeological site |
+
+- Applicable category scores: architecture: 9.4, history: 9.5, photography: 9.3.
+- Computed worldwide overall: 91.25/100.
+- High-score challenge: history 9.5: International Byzantine artistic and political history. 90+ total: Hillside Byzantine churches and ruined city; Distinct late Byzantine fortified settlement; Defined archaeological site. Compare Angkor and Ayutthaya: this original archaeological evidence and defined site breadth support the stated field, without inheriting the full scope of a global monumental park..
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial assessment: Distinct late Byzantine fortified settlement; Defined archaeological site.
+- Earlier decision: none.
+- Verification still needed: independent factual evidence, admission and closer peer matching.
+
+## sight-gr-olympia — Archaeological Site of Olympia — 2026-11-25
+
+- YAML: [source](../../../countries/GR/sights/olympia.yaml)
+- Action: new
+- Precise subject: Archaeological Site of Olympia; Listed sanctuary not modern Olympia.
+- Location check: 37.638, 21.63; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO](https://whc.unesco.org/en/statesparties/gr) — consulted 2026-11-25 for property identity and listed status; independent material-claim and current visitor-condition verification outstanding.
+- Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) (10 / 10 / 10 / 9.8 / 10) | global ancient monumental ensemble | Uniqueness lower: Distinct original Panhellenic games sanctuary; depth lower: Listed sanctuary not modern Olympia. Provisional comparison. |
+| [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) (9.6 / 9.5 / 9.8 / 9.4 / 9.5) | ancient royal-city ruins | Uniqueness lower: Distinct original Panhellenic games sanctuary; depth lower: Listed sanctuary not modern Olympia. Provisional comparison. |
+| [Gyeongju Historic Areas (KR)](../../../countries/KR/sights/gyeongju-historic-areas.yaml) (9.5 / 9.6 / 9.8 / 9.5 / 9.8) | extensive archaeological heritage | Uniqueness lower: Distinct original Panhellenic games sanctuary; depth lower: Listed sanctuary not modern Olympia. Provisional comparison. |
+| [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | smaller historic complex, scope floor | Uniqueness higher: Distinct original Panhellenic games sanctuary; depth higher: Listed sanctuary not modern Olympia. Provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| impact | — | 8.8 | Sanctuary ruins and ancient stadium landscape |
+| uniqueness | — | 9.3 | Distinct original Panhellenic games sanctuary |
+| significance | — | 9.7 | International athletic and ancient religious history |
+| experience | — | 9.0 | Managed archaeological visit and interpretation |
+| depth | — | 9.0 | Listed sanctuary not modern Olympia |
+
+- Applicable category scores: history: 9.7, culture: 9.4.
+- Computed worldwide overall: 91.55/100.
+- High-score challenge: significance 9.7: International athletic and ancient religious history; history 9.7: International athletic and ancient religious history. 90+ total: Sanctuary ruins and ancient stadium landscape; Distinct original Panhellenic games sanctuary; Listed sanctuary not modern Olympia. Compare Angkor and Ayutthaya: this original archaeological evidence and defined site breadth support the stated field, without inheriting the full scope of a global monumental park..
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial assessment: Distinct original Panhellenic games sanctuary; Listed sanctuary not modern Olympia.
+- Earlier decision: none.
+- Verification still needed: independent factual evidence, admission and closer peer matching.
+
+## sight-gr-philippi — Archaeological Site of Philippi — 2026-11-25
+
+- YAML: [source](../../../countries/GR/sights/philippi.yaml)
+- Action: new
+- Precise subject: Archaeological Site of Philippi; Listed site only.
+- Location check: 41.013, 24.287; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO](https://whc.unesco.org/en/statesparties/gr) — consulted 2026-11-25 for property identity and listed status; independent material-claim and current visitor-condition verification outstanding.
+- Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) (10 / 10 / 10 / 9.8 / 10) | global ancient monumental ensemble | Uniqueness lower: Distinct layered Hellenistic Roman and Christian site; depth lower: Listed site only. Provisional comparison. |
+| [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) (9.6 / 9.5 / 9.8 / 9.4 / 9.5) | ancient royal-city ruins | Uniqueness lower: Distinct layered Hellenistic Roman and Christian site; depth lower: Listed site only. Provisional comparison. |
+| [Gyeongju Historic Areas (KR)](../../../countries/KR/sights/gyeongju-historic-areas.yaml) (9.5 / 9.6 / 9.8 / 9.5 / 9.8) | extensive archaeological heritage | Uniqueness lower: Distinct layered Hellenistic Roman and Christian site; depth lower: Listed site only. Provisional comparison. |
+| [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | smaller historic complex, scope floor | Uniqueness higher: Distinct layered Hellenistic Roman and Christian site; depth higher: Listed site only. Provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| impact | — | 8.5 | Roman theater forum and early church ruins |
+| uniqueness | — | 8.9 | Distinct layered Hellenistic Roman and Christian site |
+| significance | — | 9.3 | International classical and Christian heritage |
+| experience | — | 8.7 | Managed archaeological grounds |
+| depth | — | 8.6 | Listed site only |
+
+- Applicable category scores: history: 9.4, architecture: 9.1.
+- Computed worldwide overall: 88.00/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial assessment: Distinct layered Hellenistic Roman and Christian site; Listed site only.
+- Earlier decision: none.
+- Verification still needed: independent factual evidence, admission and closer peer matching.
+
+## sight-gr-mycenae-tiryns — Archaeological Sites of Mycenae and Tiryns — 2026-11-25
+
+- YAML: [source](../../../countries/GR/sights/mycenae-tiryns.yaml)
+- Action: new
+- Precise subject: Archaeological Sites of Mycenae and Tiryns; Two listed sites.
+- Location check: 37.731, 22.756; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO](https://whc.unesco.org/en/statesparties/gr) — consulted 2026-11-25 for property identity and listed status; independent material-claim and current visitor-condition verification outstanding.
+- Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) (10 / 10 / 10 / 9.8 / 10) | global ancient monumental ensemble | Uniqueness lower: Distinct Bronze Age fortified palatial centers; depth lower: Two listed sites. Provisional comparison. |
+| [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) (9.6 / 9.5 / 9.8 / 9.4 / 9.5) | ancient royal-city ruins | Uniqueness lower: Distinct Bronze Age fortified palatial centers; depth lower: Two listed sites. Provisional comparison. |
+| [Gyeongju Historic Areas (KR)](../../../countries/KR/sights/gyeongju-historic-areas.yaml) (9.5 / 9.6 / 9.8 / 9.5 / 9.8) | extensive archaeological heritage | Uniqueness lower: Distinct Bronze Age fortified palatial centers; depth lower: Two listed sites. Provisional comparison. |
+| [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | smaller historic complex, scope floor | Uniqueness higher: Distinct Bronze Age fortified palatial centers; depth higher: Two listed sites. Provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| impact | — | 9.0 | Cyclopean walls and royal tomb architecture |
+| uniqueness | — | 9.3 | Distinct Bronze Age fortified palatial centers |
+| significance | — | 9.5 | International Mycenaean heritage |
+| experience | — | 8.9 | Separate managed archaeological visits |
+| depth | — | 9.0 | Two listed sites |
+
+- Applicable category scores: history: 9.6, architecture: 9.4.
+- Computed worldwide overall: 91.60/100.
+- High-score challenge: significance 9.5: International Mycenaean heritage; history 9.6: International Mycenaean heritage. 90+ total: Cyclopean walls and royal tomb architecture; Distinct Bronze Age fortified palatial centers; Two listed sites. Compare Angkor and Ayutthaya: this original archaeological evidence and defined site breadth support the stated field, without inheriting the full scope of a global monumental park..
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial assessment: Distinct Bronze Age fortified palatial centers; Two listed sites.
+- Earlier decision: none.
+- Verification still needed: independent factual evidence, admission and closer peer matching.
+
+## sight-gr-delos — Delos archaeological island — 2026-11-25
+
+- YAML: [source](../../../countries/GR/sights/delos.yaml)
+- Action: new
+- Precise subject: Delos archaeological island; Listed island archaeology not Mykonos.
+- Location check: 37.398, 25.268; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO](https://whc.unesco.org/en/statesparties/gr) — consulted 2026-11-25 for property identity and listed status; independent material-claim and current visitor-condition verification outstanding.
+- Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) (10 / 10 / 10 / 9.8 / 10) | global ancient monumental ensemble | Uniqueness lower: Distinct sacred island and commercial archaeological landscape; depth lower: Listed island archaeology not Mykonos. Provisional comparison. |
+| [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) (9.6 / 9.5 / 9.8 / 9.4 / 9.5) | ancient royal-city ruins | Uniqueness lower: Distinct sacred island and commercial archaeological landscape; depth lower: Listed island archaeology not Mykonos. Provisional comparison. |
+| [Gyeongju Historic Areas (KR)](../../../countries/KR/sights/gyeongju-historic-areas.yaml) (9.5 / 9.6 / 9.8 / 9.5 / 9.8) | extensive archaeological heritage | Uniqueness lower: Distinct sacred island and commercial archaeological landscape; depth lower: Listed island archaeology not Mykonos. Provisional comparison. |
+| [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | smaller historic complex, scope floor | Uniqueness higher: Distinct sacred island and commercial archaeological landscape; depth higher: Listed island archaeology not Mykonos. Provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| impact | — | 9.0 | Extensive sanctuary and ancient urban ruins |
+| uniqueness | — | 9.4 | Distinct sacred island and commercial archaeological landscape |
+| significance | — | 9.5 | International ancient Mediterranean heritage |
+| experience | — | 8.9 | Managed island archaeological visits subject to boats and opening |
+| depth | — | 9.1 | Listed island archaeology not Mykonos |
+
+- Applicable category scores: history: 9.6, architecture: 9.3.
+- Computed worldwide overall: 91.95/100.
+- High-score challenge: significance 9.5: International ancient Mediterranean heritage; history 9.6: International ancient Mediterranean heritage. 90+ total: Extensive sanctuary and ancient urban ruins; Distinct sacred island and commercial archaeological landscape; Listed island archaeology not Mykonos. Compare Angkor and Ayutthaya: this original archaeological evidence and defined site breadth support the stated field, without inheriting the full scope of a global monumental park..
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial assessment: Distinct sacred island and commercial archaeological landscape; Listed island archaeology not Mykonos.
+- Earlier decision: none.
+- Verification still needed: independent factual evidence, admission and closer peer matching.
+
+## sight-gr-rhodes-old-town — Medieval City of Rhodes — 2026-11-25
+
+- YAML: [source](../../../countries/GR/sights/rhodes-old-town.yaml)
+- Action: new
+- Precise subject: Medieval City of Rhodes; Listed walled town only.
+- Location check: 36.443, 28.225; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO](https://whc.unesco.org/en/statesparties/gr) — consulted 2026-11-25 for property identity and listed status; independent material-claim and current visitor-condition verification outstanding.
+- Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Schönbrunn Palace (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (9.4 / 9.3 / 9.6 / 9.5 / 9.3) | major architectural ensemble | Uniqueness similar: Distinct preserved medieval military townscape; depth lower: Listed walled town only. Provisional comparison. |
+| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | coherent historic architecture | Uniqueness lower: Distinct preserved medieval military townscape; depth lower: Listed walled town only. Provisional comparison. |
+| [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | major heritage complex | Uniqueness higher: Distinct preserved medieval military townscape; depth higher: Listed walled town only. Provisional comparison. |
+| [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional heritage complex | Uniqueness higher: Distinct preserved medieval military townscape; depth higher: Listed walled town only. Provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| impact | — | 9.3 | Fortifications stone streets and Gothic monuments |
+| uniqueness | — | 9.3 | Distinct preserved medieval military townscape |
+| significance | — | 9.3 | International Hospitaller and Ottoman heritage |
+| experience | — | 9.2 | Public streets and permitted monuments |
+| depth | — | 9.1 | Listed walled town only |
+
+- Applicable category scores: architecture: 9.6, history: 9.5, photography: 9.4.
+- Computed worldwide overall: 92.65/100.
+- High-score challenge: architecture 9.6: Fortifications stone streets and Gothic monuments; history 9.5: International Hospitaller and Ottoman heritage. 90+ total: Fortifications stone streets and Gothic monuments; Distinct preserved medieval military townscape; Listed walled town only. Compare Schönbrunn and Hoi An: the specific architectural or historical merit is distinct from visitor breadth; closer same-type peers remain necessary..
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial assessment: Distinct preserved medieval military townscape; Listed walled town only.
+- Earlier decision: none.
+- Verification still needed: independent factual evidence, admission and closer peer matching.
+
+## sight-gr-minoan-centres — Minoan Palatial Centres (six listed sites) — 2026-11-25
+
+- YAML: [source](../../../countries/GR/sights/minoan-centres.yaml)
+- Action: new
+- Precise subject: Minoan Palatial Centres (six listed sites); Six listed components not all Minoan archaeology.
+- Location check: 35.2972, 25.1625; approximate representative point, independent verification pending.
+- Evidence status: **unassessed**
+- Evidence: [UNESCO](https://whc.unesco.org/en/list/1733/) — consulted 2026-11-25 for six-component Minoan property and reconstruction caveat; independent material-claim and current visitor-condition verification outstanding.
+- Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) (10 / 10 / 10 / 9.8 / 10) | global ancient monumental ensemble | Uniqueness lower: Distinct Bronze Age administrative architecture; depth unassessed: Six listed components not all Minoan archaeology. Provisional comparison. |
+| [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) (9.6 / 9.5 / 9.8 / 9.4 / 9.5) | ancient royal-city ruins | Uniqueness lower: Distinct Bronze Age administrative architecture; depth unassessed: Six listed components not all Minoan archaeology. Provisional comparison. |
+| [Gyeongju Historic Areas (KR)](../../../countries/KR/sights/gyeongju-historic-areas.yaml) (9.5 / 9.6 / 9.8 / 9.5 / 9.8) | extensive archaeological heritage | Uniqueness lower: Distinct Bronze Age administrative architecture; depth unassessed: Six listed components not all Minoan archaeology. Provisional comparison. |
+| [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | smaller historic complex, scope floor | Uniqueness higher: Distinct Bronze Age administrative architecture; depth unassessed: Six listed components not all Minoan archaeology. Provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| impact | — | 9.0 | Palatial remains across Crete |
+| uniqueness | — | 9.4 | Distinct Bronze Age administrative architecture |
+| significance | — | 9.5 | International Minoan cultural heritage |
+| experience | — | null | Combined ordinary visitor scope not established for all six sites |
+| depth | — | null | Six listed components not all Minoan archaeology |
+
+- Applicable category scores: history: 9.6, architecture: 9.4.
+- Computed worldwide overall: unranked.
+- High-score challenge: significance 9.5: International Minoan cultural heritage; history 9.6: International Minoan cultural heritage. Compare Angkor and Ayutthaya: this original archaeological evidence and defined site breadth support the stated field, without inheriting the full scope of a global monumental park..
+- Approved 10 registry: none.
+- Final decision: Unranked pending documented visitor scope.
+- Earlier decision: none.
+- Verification still needed: independent factual evidence, admission and closer peer matching.
+
+## sight-gr-byzantine-monasteries — Daphni Hosios Loukas and Nea Moni of Chios — 2026-11-25
+
+- YAML: [source](../../../countries/GR/sights/byzantine-monasteries.yaml)
+- Action: new
+- Precise subject: Daphni Hosios Loukas and Nea Moni of Chios; Three listed complexes.
+- Location check: 38.014, 23.636; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO](https://whc.unesco.org/en/statesparties/gr) — consulted 2026-11-25 for property identity and listed status; independent material-claim and current visitor-condition verification outstanding.
+- Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Schönbrunn Palace (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (9.4 / 9.3 / 9.6 / 9.5 / 9.3) | major architectural ensemble | Uniqueness lower: Rare linked middle Byzantine artistic tradition; depth lower: Three listed complexes. Provisional comparison. |
+| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | coherent historic architecture | Uniqueness lower: Rare linked middle Byzantine artistic tradition; depth lower: Three listed complexes. Provisional comparison. |
+| [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | major heritage complex | Uniqueness higher: Rare linked middle Byzantine artistic tradition; depth lower: Three listed complexes. Provisional comparison. |
+| [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional heritage complex | Uniqueness higher: Rare linked middle Byzantine artistic tradition; depth higher: Three listed complexes. Provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| impact | — | 8.9 | Distinct church architecture and mosaic interiors |
+| uniqueness | — | 9.2 | Rare linked middle Byzantine artistic tradition |
+| significance | — | 9.4 | International Byzantine religious art heritage |
+| experience | — | 8.7 | Separate permitted monastery visits |
+| depth | — | 8.8 | Three listed complexes |
+
+- Applicable category scores: architecture: 9.4, culture: 9.5, history: 9.4.
+- Computed worldwide overall: 90.35/100.
+- High-score challenge: culture 9.5: International Byzantine religious art heritage. 90+ total: Distinct church architecture and mosaic interiors; Rare linked middle Byzantine artistic tradition; Three listed complexes. Compare Schönbrunn and Hoi An: the specific architectural or historical merit is distinct from visitor breadth; closer same-type peers remain necessary..
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial assessment: Rare linked middle Byzantine artistic tradition; Three listed complexes.
+- Earlier decision: none.
+- Verification still needed: independent factual evidence, admission and closer peer matching.
+
+## sight-gr-corfu-old-town — Old Town of Corfu — 2026-11-25
+
+- YAML: [source](../../../countries/GR/sights/corfu-old-town.yaml)
+- Action: new
+- Precise subject: Old Town of Corfu; Listed core only.
+- Location check: 39.625, 19.924; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO](https://whc.unesco.org/en/statesparties/gr) — consulted 2026-11-25 for property identity and listed status; independent material-claim and current visitor-condition verification outstanding.
+- Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Schönbrunn Palace (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (9.4 / 9.3 / 9.6 / 9.5 / 9.3) | major architectural ensemble | Uniqueness lower: Distinct integrated fortified maritime townscape; depth lower: Listed core only. Provisional comparison. |
+| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | coherent historic architecture | Uniqueness lower: Distinct integrated fortified maritime townscape; depth lower: Listed core only. Provisional comparison. |
+| [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | major heritage complex | Uniqueness similar: Distinct integrated fortified maritime townscape; depth higher: Listed core only. Provisional comparison. |
+| [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional heritage complex | Uniqueness higher: Distinct integrated fortified maritime townscape; depth higher: Listed core only. Provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| impact | — | 9.2 | Historic lanes and Venetian coastal fortifications |
+| uniqueness | — | 9.1 | Distinct integrated fortified maritime townscape |
+| significance | — | 9.2 | International urban architectural heritage |
+| experience | — | 9.1 | Public lanes and permitted monuments |
+| depth | — | 9.0 | Listed core only |
+
+- Applicable category scores: architecture: 9.5, history: 9.3, photography: 9.4.
+- Computed worldwide overall: 91.40/100.
+- High-score challenge: architecture 9.5: Historic lanes and Venetian coastal fortifications. 90+ total: Historic lanes and Venetian coastal fortifications; Distinct integrated fortified maritime townscape; Listed core only. Compare Schönbrunn and Hoi An: the specific architectural or historical merit is distinct from visitor breadth; closer same-type peers remain necessary..
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial assessment: Distinct integrated fortified maritime townscape; Listed core only.
+- Earlier decision: none.
+- Verification still needed: independent factual evidence, admission and closer peer matching.
+
+## sight-gr-thessaloniki-monuments — Paleochristian and Byzantine Monuments of Thessaloniki — 2026-11-25
+
+- YAML: [source](../../../countries/GR/sights/thessaloniki-monuments.yaml)
+- Action: new
+- Precise subject: Paleochristian and Byzantine Monuments of Thessaloniki; Listed monuments only.
+- Location check: 40.634, 22.953; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO](https://whc.unesco.org/en/statesparties/gr) — consulted 2026-11-25 for property identity and listed status; independent material-claim and current visitor-condition verification outstanding.
+- Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Schönbrunn Palace (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (9.4 / 9.3 / 9.6 / 9.5 / 9.3) | major architectural ensemble | Uniqueness similar: Distinct concentration of early Christian and Byzantine architecture; depth lower: Listed monuments only. Provisional comparison. |
+| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | coherent historic architecture | Uniqueness lower: Distinct concentration of early Christian and Byzantine architecture; depth lower: Listed monuments only. Provisional comparison. |
+| [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | major heritage complex | Uniqueness higher: Distinct concentration of early Christian and Byzantine architecture; depth higher: Listed monuments only. Provisional comparison. |
+| [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional heritage complex | Uniqueness higher: Distinct concentration of early Christian and Byzantine architecture; depth higher: Listed monuments only. Provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| impact | — | 8.9 | Early Christian churches mosaics and historic walls |
+| uniqueness | — | 9.3 | Distinct concentration of early Christian and Byzantine architecture |
+| significance | — | 9.5 | International religious and artistic heritage |
+| experience | — | 8.8 | Separate permitted monument visits |
+| depth | — | 9.1 | Listed monuments only |
+
+- Applicable category scores: history: 9.6, culture: 9.5, architecture: 9.5.
+- Computed worldwide overall: 91.25/100.
+- High-score challenge: significance 9.5: International religious and artistic heritage; history 9.6: International religious and artistic heritage; culture 9.5: International religious and artistic heritage; architecture 9.5: Early Christian churches mosaics and historic walls. 90+ total: Early Christian churches mosaics and historic walls; Distinct concentration of early Christian and Byzantine architecture; Listed monuments only. Compare Schönbrunn and Hoi An: the specific architectural or historical merit is distinct from visitor breadth; closer same-type peers remain necessary..
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial assessment: Distinct concentration of early Christian and Byzantine architecture; Listed monuments only.
+- Earlier decision: none.
+- Verification still needed: independent factual evidence, admission and closer peer matching.
+
+## sight-gr-samos-sites — Pythagoreion and Heraion of Samos — 2026-11-25
+
+- YAML: [source](../../../countries/GR/sights/samos-sites.yaml)
+- Action: new
+- Precise subject: Pythagoreion and Heraion of Samos; Two listed precincts.
+- Location check: 37.69, 26.89; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO](https://whc.unesco.org/en/statesparties/gr) — consulted 2026-11-25 for property identity and listed status; independent material-claim and current visitor-condition verification outstanding.
+- Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) (10 / 10 / 10 / 9.8 / 10) | global ancient monumental ensemble | Uniqueness lower: Distinct linked archaic engineering and religious heritage; depth lower: Two listed precincts. Provisional comparison. |
+| [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) (9.6 / 9.5 / 9.8 / 9.4 / 9.5) | ancient royal-city ruins | Uniqueness lower: Distinct linked archaic engineering and religious heritage; depth lower: Two listed precincts. Provisional comparison. |
+| [Gyeongju Historic Areas (KR)](../../../countries/KR/sights/gyeongju-historic-areas.yaml) (9.5 / 9.6 / 9.8 / 9.5 / 9.8) | extensive archaeological heritage | Uniqueness lower: Distinct linked archaic engineering and religious heritage; depth lower: Two listed precincts. Provisional comparison. |
+| [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | smaller historic complex, scope floor | Uniqueness higher: Distinct linked archaic engineering and religious heritage; depth higher: Two listed precincts. Provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| impact | — | 8.5 | Ancient harbor remains sanctuary and tunnel |
+| uniqueness | — | 9.0 | Distinct linked archaic engineering and religious heritage |
+| significance | — | 9.3 | International classical archaeological heritage |
+| experience | — | 8.6 | Separate managed archaeological visits |
+| depth | — | 8.7 | Two listed precincts |
+
+- Applicable category scores: history: 9.4, architecture: 9.2.
+- Computed worldwide overall: 88.20/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial assessment: Distinct linked archaic engineering and religious heritage; Two listed precincts.
+- Earlier decision: none.
+- Verification still needed: independent factual evidence, admission and closer peer matching.
+
+## sight-gr-epidaurus — Sanctuary of Asklepios at Epidaurus — 2026-11-25
+
+- YAML: [source](../../../countries/GR/sights/epidaurus.yaml)
+- Action: new
+- Precise subject: Sanctuary of Asklepios at Epidaurus; Listed sanctuary not all regional theaters.
+- Location check: 37.598, 23.079; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO](https://whc.unesco.org/en/statesparties/gr) — consulted 2026-11-25 for property identity and listed status; independent material-claim and current visitor-condition verification outstanding.
+- Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) (10 / 10 / 10 / 9.8 / 10) | global ancient monumental ensemble | Uniqueness lower: Distinct classical healing and theater ensemble; depth lower: Listed sanctuary not all regional theaters. Provisional comparison. |
+| [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) (9.6 / 9.5 / 9.8 / 9.4 / 9.5) | ancient royal-city ruins | Uniqueness lower: Distinct classical healing and theater ensemble; depth lower: Listed sanctuary not all regional theaters. Provisional comparison. |
+| [Gyeongju Historic Areas (KR)](../../../countries/KR/sights/gyeongju-historic-areas.yaml) (9.5 / 9.6 / 9.8 / 9.5 / 9.8) | extensive archaeological heritage | Uniqueness lower: Distinct classical healing and theater ensemble; depth lower: Listed sanctuary not all regional theaters. Provisional comparison. |
+| [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | smaller historic complex, scope floor | Uniqueness higher: Distinct classical healing and theater ensemble; depth higher: Listed sanctuary not all regional theaters. Provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| impact | — | 9.2 | Monumental ancient theater and sanctuary remains |
+| uniqueness | — | 9.2 | Distinct classical healing and theater ensemble |
+| significance | — | 9.4 | International ancient medical and architectural heritage |
+| experience | — | 9.0 | Managed archaeological visits |
+| depth | — | 8.8 | Listed sanctuary not all regional theaters |
+
+- Applicable category scores: history: 9.5, architecture: 9.5.
+- Computed worldwide overall: 91.70/100.
+- High-score challenge: history 9.5: International ancient medical and architectural heritage; architecture 9.5: Monumental ancient theater and sanctuary remains. 90+ total: Monumental ancient theater and sanctuary remains; Distinct classical healing and theater ensemble; Listed sanctuary not all regional theaters. Compare Angkor and Ayutthaya: this original archaeological evidence and defined site breadth support the stated field, without inheriting the full scope of a global monumental park..
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial assessment: Distinct classical healing and theater ensemble; Listed sanctuary not all regional theaters.
+- Earlier decision: none.
+- Verification still needed: independent factual evidence, admission and closer peer matching.
+
+## sight-gr-bassae — Temple of Apollo Epicurius at Bassae — 2026-11-25
+
+- YAML: [source](../../../countries/GR/sights/bassae.yaml)
+- Action: new
+- Precise subject: Temple of Apollo Epicurius at Bassae; Single temple.
+- Location check: 37.429, 21.9; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO](https://whc.unesco.org/en/statesparties/gr) — consulted 2026-11-25 for property identity and listed status; independent material-claim and current visitor-condition verification outstanding.
+- Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Schönbrunn Palace (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (9.4 / 9.3 / 9.6 / 9.5 / 9.3) | major architectural ensemble | Uniqueness lower: Distinct architectural design and isolated mountain setting; depth lower: Single temple. Provisional comparison. |
+| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | coherent historic architecture | Uniqueness lower: Distinct architectural design and isolated mountain setting; depth lower: Single temple. Provisional comparison. |
+| [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | major heritage complex | Uniqueness similar: Distinct architectural design and isolated mountain setting; depth lower: Single temple. Provisional comparison. |
+| [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional heritage complex | Uniqueness higher: Distinct architectural design and isolated mountain setting; depth lower: Single temple. Provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| impact | — | 8.5 | Preserved classical temple under protective cover |
+| uniqueness | — | 9.1 | Distinct architectural design and isolated mountain setting |
+| significance | — | 9.4 | International Greek architectural heritage |
+| experience | — | 8.2 | Permitted monument visit constrained by conservation |
+| depth | — | 7.8 | Single temple |
+
+- Applicable category scores: architecture: 9.4, history: 9.4.
+- Computed worldwide overall: 87.15/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial assessment: Distinct architectural design and isolated mountain setting; Single temple.
+- Earlier decision: none.
+- Verification still needed: independent factual evidence, admission and closer peer matching.
+
+## sight-gr-patmos-chora — Patmos Chorá Monastery of Saint John and Cave of Apocalypse — 2026-11-25
+
+- YAML: [source](../../../countries/GR/sights/patmos-chora.yaml)
+- Action: new
+- Precise subject: Patmos Chorá Monastery of Saint John and Cave of Apocalypse; Listed monastery cave and historic settlement.
+- Location check: 37.309, 26.548; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO](https://whc.unesco.org/en/statesparties/gr) — consulted 2026-11-25 for property identity and listed status; independent material-claim and current visitor-condition verification outstanding.
+- Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Schönbrunn Palace (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (9.4 / 9.3 / 9.6 / 9.5 / 9.3) | major architectural ensemble | Uniqueness lower: Distinct linked pilgrimage and island landscape; depth lower: Listed monastery cave and historic settlement. Provisional comparison. |
+| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | coherent historic architecture | Uniqueness lower: Distinct linked pilgrimage and island landscape; depth lower: Listed monastery cave and historic settlement. Provisional comparison. |
+| [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | major heritage complex | Uniqueness higher: Distinct linked pilgrimage and island landscape; depth lower: Listed monastery cave and historic settlement. Provisional comparison. |
+| [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional heritage complex | Uniqueness higher: Distinct linked pilgrimage and island landscape; depth higher: Listed monastery cave and historic settlement. Provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| impact | — | 9.0 | Fortified monastery and whitewashed hill settlement |
+| uniqueness | — | 9.2 | Distinct linked pilgrimage and island landscape |
+| significance | — | 9.4 | International Christian religious heritage |
+| experience | — | 8.9 | Separate respectful permitted visits |
+| depth | — | 8.8 | Listed monastery cave and historic settlement |
+
+- Applicable category scores: history: 9.5, architecture: 9.4, culture: 9.4.
+- Computed worldwide overall: 90.95/100.
+- High-score challenge: history 9.5: International Christian religious heritage. 90+ total: Fortified monastery and whitewashed hill settlement; Distinct linked pilgrimage and island landscape; Listed monastery cave and historic settlement. Compare Schönbrunn and Hoi An: the specific architectural or historical merit is distinct from visitor breadth; closer same-type peers remain necessary..
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial assessment: Distinct linked pilgrimage and island landscape; Listed monastery cave and historic settlement.
+- Earlier decision: none.
+- Verification still needed: independent factual evidence, admission and closer peer matching.
+
+## sight-gr-zagori — Zagori Cultural Landscape — 2026-11-25
+
+- YAML: [source](../../../countries/GR/sights/zagori.yaml)
+- Action: new
+- Precise subject: Zagori Cultural Landscape; Listed villages and landscape not whole Pindos.
+- Location check: 39.89, 20.76; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO](https://whc.unesco.org/en/statesparties/gr) — consulted 2026-11-25 for property identity and listed status; independent material-claim and current visitor-condition verification outstanding.
+- Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Jiuzhaigou (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) (9.8 / 9.7 / 9.4 / 9.8 / 9.1) | world-leading natural landscape | Uniqueness lower: Distinct traditional mountain settlement network; depth higher: Listed villages and landscape not whole Pindos. Provisional comparison. |
+| [Hohe Tauern (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) (9.4 / 9.1 / 9 / 9.5 / 9.4) | extensive mountain landscape | Uniqueness lower: Distinct traditional mountain settlement network; depth lower: Listed villages and landscape not whole Pindos. Provisional comparison. |
+| [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (8.9 / 9 / 9 / 9.1 / 8.6) | protected habitat | Uniqueness similar: Distinct traditional mountain settlement network; depth higher: Listed villages and landscape not whole Pindos. Provisional comparison. |
+| [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional natural park | Uniqueness lower: Distinct traditional mountain settlement network; depth higher: Listed villages and landscape not whole Pindos. Provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| impact | — | 9.1 | Stone villages bridges and mountain valleys |
+| uniqueness | — | 9.0 | Distinct traditional mountain settlement network |
+| significance | — | 9.1 | International cultural landscape heritage |
+| experience | — | 9.0 | Public village walks and permitted trails |
+| depth | — | 9.3 | Listed villages and landscape not whole Pindos |
+
+- Applicable category scores: architecture: 9.3, nature: 9.3, photography: 9.4.
+- Computed worldwide overall: 90.80/100.
+- High-score challenge: No 9.5+ field. 90+ total: Stone villages bridges and mountain valleys; Distinct traditional mountain settlement network; Listed villages and landscape not whole Pindos. Compare Jiuzhaigou and Hohe Tauern: specific local landform and ecological qualities support the field; smaller scope and restrictions constrain depth..
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial assessment: Distinct traditional mountain settlement network; Listed villages and landscape not whole Pindos.
+- Earlier decision: none.
+- Verification still needed: independent factual evidence, admission and closer peer matching.
+
+## sight-gr-meteora — Meteora rock formations and monasteries — 2026-11-25
+
+- YAML: [source](../../../countries/GR/sights/meteora.yaml)
+- Action: new
+- Precise subject: Meteora rock formations and monasteries; Listed rock and monastic landscape not Kalambaka town.
+- Location check: 39.721, 21.63; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO](https://whc.unesco.org/en/statesparties/gr) — consulted 2026-11-25 for property identity and listed status; independent material-claim and current visitor-condition verification outstanding.
+- Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Jiuzhaigou (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) (9.8 / 9.7 / 9.4 / 9.8 / 9.1) | world-leading natural landscape | Uniqueness lower: Rare integrated monastic and geological landscape; depth higher: Listed rock and monastic landscape not Kalambaka town. Provisional comparison. |
+| [Hohe Tauern (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) (9.4 / 9.1 / 9 / 9.5 / 9.4) | extensive mountain landscape | Uniqueness higher: Rare integrated monastic and geological landscape; depth lower: Listed rock and monastic landscape not Kalambaka town. Provisional comparison. |
+| [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (8.9 / 9 / 9 / 9.1 / 8.6) | protected habitat | Uniqueness higher: Rare integrated monastic and geological landscape; depth higher: Listed rock and monastic landscape not Kalambaka town. Provisional comparison. |
+| [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional natural park | Uniqueness higher: Rare integrated monastic and geological landscape; depth higher: Listed rock and monastic landscape not Kalambaka town. Provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| impact | — | 9.7 | Monasteries atop extraordinary sandstone pillars |
+| uniqueness | — | 9.6 | Rare integrated monastic and geological landscape |
+| significance | — | 9.4 | International religious architecture and natural heritage |
+| experience | — | 9.3 | Permitted monastery visits and scenic trails |
+| depth | — | 9.2 | Listed rock and monastic landscape not Kalambaka town |
+
+- Applicable category scores: nature: 9.6, architecture: 9.6, photography: 9.8.
+- Computed worldwide overall: 95.05/100.
+- High-score challenge: impact 9.7: Monasteries atop extraordinary sandstone pillars; uniqueness 9.6: Rare integrated monastic and geological landscape; nature 9.6: Rare integrated monastic and geological landscape; architecture 9.6: Monasteries atop extraordinary sandstone pillars; photography 9.8: Monasteries atop extraordinary sandstone pillars. 90+ total: Monasteries atop extraordinary sandstone pillars; Rare integrated monastic and geological landscape; Listed rock and monastic landscape not Kalambaka town. Relative to Jiuzhaigou and Hohe Tauern, the rare combination of rock pillars and monastery architecture supports very high impact and uniqueness, while the accessible landscape is narrower than the Austrian park..
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial assessment: Rare integrated monastic and geological landscape; Listed rock and monastic landscape not Kalambaka town.
+- Earlier decision: none.
+- Verification still needed: independent factual evidence, admission and closer peer matching.
+
+## sight-gr-mount-athos — Mount Athos monastic landscape — 2026-11-25
+
+- YAML: [source](../../../countries/GR/sights/mount-athos.yaml)
+- Action: new
+- Precise subject: Mount Athos monastic landscape; Listed peninsula not offshore cruise.
+- Location check: 40.2, 24.3; approximate representative point, independent verification pending.
+- Evidence status: **unassessed**
+- Evidence: [Visit Greece](https://www.visitgreece.gr/en/experiences/nature/religious-tourism/mount-athos) — consulted 2026-11-25 for permit restrictions and offshore alternative; independent material-claim and current visitor-condition verification outstanding.
+- Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Schönbrunn Palace (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (9.4 / 9.3 / 9.6 / 9.5 / 9.3) | major architectural ensemble | Uniqueness higher: Distinct longstanding autonomous Orthodox monastic community; depth unassessed: Listed peninsula not offshore cruise. Provisional comparison. |
+| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | coherent historic architecture | Uniqueness similar: Distinct longstanding autonomous Orthodox monastic community; depth unassessed: Listed peninsula not offshore cruise. Provisional comparison. |
+| [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | major heritage complex | Uniqueness higher: Distinct longstanding autonomous Orthodox monastic community; depth unassessed: Listed peninsula not offshore cruise. Provisional comparison. |
+| [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional heritage complex | Uniqueness higher: Distinct longstanding autonomous Orthodox monastic community; depth unassessed: Listed peninsula not offshore cruise. Provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| impact | — | 9.2 | Remote mountain monasteries and coastline |
+| uniqueness | — | 9.5 | Distinct longstanding autonomous Orthodox monastic community |
+| significance | — | 9.6 | International religious and artistic heritage |
+| experience | — | null | Entry requires permits and excludes women, ordinary broad access not comparable |
+| depth | — | null | Listed peninsula not offshore cruise |
+
+- Applicable category scores: history: 9.6, culture: 9.6, architecture: 9.5.
+- Computed worldwide overall: unranked.
+- High-score challenge: uniqueness 9.5: Distinct longstanding autonomous Orthodox monastic community; significance 9.6: International religious and artistic heritage; history 9.6: International religious and artistic heritage; culture 9.6: International religious and artistic heritage; architecture 9.5: Remote mountain monasteries and coastline. Heritage merit is assessed independently of restricted visitor access; experience and depth remain null..
+- Approved 10 registry: none.
+- Final decision: Unranked pending documented visitor scope.
+- Earlier decision: none.
+- Verification still needed: independent factual evidence, admission and closer peer matching.
+
+## sight-gr-mount-olympus — Wider area of Mount Olympus (World Heritage property) — 2026-11-25
+
+- YAML: [source](../../../countries/GR/sights/mount-olympus.yaml)
+- Action: new
+- Precise subject: Wider area of Mount Olympus (World Heritage property); Listed wider landscape not just summit.
+- Location check: 40.085, 22.35; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO](https://whc.unesco.org/en/list/1719/) — consulted 2026-11-25 for 2026 property identity; independent material-claim and current visitor-condition verification outstanding.
+- Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Jiuzhaigou (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) (9.8 / 9.7 / 9.4 / 9.8 / 9.1) | world-leading natural landscape | Uniqueness lower: Distinct mountain mythology and ecological landscape; depth higher: Listed wider landscape not just summit. Provisional comparison. |
+| [Hohe Tauern (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) (9.4 / 9.1 / 9 / 9.5 / 9.4) | extensive mountain landscape | Uniqueness similar: Distinct mountain mythology and ecological landscape; depth lower: Listed wider landscape not just summit. Provisional comparison. |
+| [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (8.9 / 9 / 9 / 9.1 / 8.6) | protected habitat | Uniqueness higher: Distinct mountain mythology and ecological landscape; depth higher: Listed wider landscape not just summit. Provisional comparison. |
+| [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional natural park | Uniqueness similar: Distinct mountain mythology and ecological landscape; depth higher: Listed wider landscape not just summit. Provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| impact | — | 9.2 | High rocky peaks and forested valleys |
+| uniqueness | — | 9.1 | Distinct mountain mythology and ecological landscape |
+| significance | — | 9.3 | International cultural and natural heritage inscribed 2026 |
+| experience | — | 9.0 | Permitted seasonal paths and viewpoints, no summit assumption |
+| depth | — | 9.2 | Listed wider landscape not just summit |
+
+- Applicable category scores: nature: 9.5, adventure: 9.3, history: 9.2.
+- Computed worldwide overall: 91.65/100.
+- High-score challenge: nature 9.5: Distinct mountain mythology and ecological landscape. 90+ total: High rocky peaks and forested valleys; Distinct mountain mythology and ecological landscape; Listed wider landscape not just summit. Compare Jiuzhaigou and Hohe Tauern: specific local landform and ecological qualities support the field; smaller scope and restrictions constrain depth..
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial assessment: Distinct mountain mythology and ecological landscape; Listed wider landscape not just summit.
+- Earlier decision: none.
+- Verification still needed: independent factual evidence, admission and closer peer matching.
+
+## sight-gr-bastioned-forts — Late Medieval Bastioned Fortifications in Greece — 2026-11-25
+
+- YAML: [source](../../../countries/GR/sights/bastioned-forts.yaml)
+- Action: new
+- Precise subject: Late Medieval Bastioned Fortifications in Greece; Nominated components only.
+- Location check: 35.34, 25.13; approximate representative point, independent verification pending.
+- Evidence status: **unassessed**
+- Evidence: [UNESCO](https://whc.unesco.org/en/statesparties/gr) — consulted 2026-11-25 for property identity and listed status; independent material-claim and current visitor-condition verification outstanding.
+- Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Schönbrunn Palace (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (9.4 / 9.3 / 9.6 / 9.5 / 9.3) | major architectural ensemble | Uniqueness lower: Distinct Mediterranean defensive architectural tradition; depth unassessed: Nominated components only. Provisional comparison. |
+| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | coherent historic architecture | Uniqueness lower: Distinct Mediterranean defensive architectural tradition; depth unassessed: Nominated components only. Provisional comparison. |
+| [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | major heritage complex | Uniqueness lower: Distinct Mediterranean defensive architectural tradition; depth unassessed: Nominated components only. Provisional comparison. |
+| [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional heritage complex | Uniqueness higher: Distinct Mediterranean defensive architectural tradition; depth unassessed: Nominated components only. Provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| impact | — | 8.7 | Dispersed historic bastioned fortifications |
+| uniqueness | — | 8.9 | Distinct Mediterranean defensive architectural tradition |
+| significance | — | 9.1 | Proposed international architectural heritage |
+| experience | — | null | Combined access unresolved |
+| depth | — | null | Nominated components only |
+
+- Applicable category scores: architecture: 9.3, history: 9.3.
+- Computed worldwide overall: unranked.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Unranked pending documented visitor scope.
+- Earlier decision: none.
+- Verification still needed: independent factual evidence, admission and closer peer matching.
+
+## sight-gr-dadia — Dadia Lefkimi Souflion National Park — 2026-11-25
+
+- YAML: [source](../../../countries/GR/sights/dadia.yaml)
+- Action: new
+- Precise subject: Dadia Lefkimi Souflion National Park; Defined national park.
+- Location check: 41.13, 26.18; approximate representative point, independent verification pending.
+- Evidence status: **unassessed**
+- Evidence: [UNESCO](https://whc.unesco.org/en/statesparties/gr) — consulted 2026-11-25 for property identity and listed status; independent material-claim and current visitor-condition verification outstanding.
+- Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Jiuzhaigou (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) (9.8 / 9.7 / 9.4 / 9.8 / 9.1) | world-leading natural landscape | Uniqueness lower: Distinct southeastern European forest ecosystem; depth unassessed: Defined national park. Provisional comparison. |
+| [Hohe Tauern (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) (9.4 / 9.1 / 9 / 9.5 / 9.4) | extensive mountain landscape | Uniqueness lower: Distinct southeastern European forest ecosystem; depth unassessed: Defined national park. Provisional comparison. |
+| [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (8.9 / 9 / 9 / 9.1 / 8.6) | protected habitat | Uniqueness lower: Distinct southeastern European forest ecosystem; depth unassessed: Defined national park. Provisional comparison. |
+| [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional natural park | Uniqueness lower: Distinct southeastern European forest ecosystem; depth unassessed: Defined national park. Provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| impact | — | 8.4 | Woodland and raptor habitat |
+| uniqueness | — | 8.9 | Distinct southeastern European forest ecosystem |
+| significance | — | 8.9 | International bird conservation interest |
+| experience | — | null | Current post-fire visitor extent not verified |
+| depth | — | null | Defined national park |
+
+- Applicable category scores: nature: 9.1, wildlife: 9.4.
+- Computed worldwide overall: unranked.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Unranked pending documented visitor scope.
+- Earlier decision: none.
+- Verification still needed: independent factual evidence, admission and closer peer matching.
+
+## sight-gr-lavrion — Ancient Lavrion mining landscape — 2026-11-25
+
+- YAML: [source](../../../countries/GR/sights/lavrion.yaml)
+- Action: new
+- Precise subject: Ancient Lavrion mining landscape; Nominated landscape only.
+- Location check: 37.72, 24.04; approximate representative point, independent verification pending.
+- Evidence status: **unassessed**
+- Evidence: [UNESCO](https://whc.unesco.org/en/statesparties/gr) — consulted 2026-11-25 for property identity and listed status; independent material-claim and current visitor-condition verification outstanding.
+- Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) (10 / 10 / 10 / 9.8 / 10) | global ancient monumental ensemble | Uniqueness lower: Distinct classical silver production archaeology; depth unassessed: Nominated landscape only. Provisional comparison. |
+| [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) (9.6 / 9.5 / 9.8 / 9.4 / 9.5) | ancient royal-city ruins | Uniqueness lower: Distinct classical silver production archaeology; depth unassessed: Nominated landscape only. Provisional comparison. |
+| [Gyeongju Historic Areas (KR)](../../../countries/KR/sights/gyeongju-historic-areas.yaml) (9.5 / 9.6 / 9.8 / 9.5 / 9.8) | extensive archaeological heritage | Uniqueness lower: Distinct classical silver production archaeology; depth unassessed: Nominated landscape only. Provisional comparison. |
+| [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | smaller historic complex, scope floor | Uniqueness higher: Distinct classical silver production archaeology; depth unassessed: Nominated landscape only. Provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| impact | — | 8.1 | Mining traces and ancient industrial landscape |
+| uniqueness | — | 8.8 | Distinct classical silver production archaeology |
+| significance | — | 9.1 | International ancient technological heritage |
+| experience | — | null | Permitted archaeological extent not checked |
+| depth | — | null | Nominated landscape only |
+
+- Applicable category scores: history: 9.3.
+- Computed worldwide overall: unranked.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Unranked pending documented visitor scope.
+- Earlier decision: none.
+- Verification still needed: independent factual evidence, admission and closer peer matching.
+
+## sight-gr-lesvos-petrified — Petrified Forest of Lesvos — 2026-11-25
+
+- YAML: [source](../../../countries/GR/sights/lesvos-petrified.yaml)
+- Action: new
+- Precise subject: Petrified Forest of Lesvos; Named geological sites.
+- Location check: 39.22, 25.86; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO](https://whc.unesco.org/en/statesparties/gr) — consulted 2026-11-25 for property identity and listed status; independent material-claim and current visitor-condition verification outstanding.
+- Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Jiuzhaigou (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) (9.8 / 9.7 / 9.4 / 9.8 / 9.1) | world-leading natural landscape | Uniqueness lower: Distinct preserved fossil forest landscape; depth lower: Named geological sites. Provisional comparison. |
+| [Hohe Tauern (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) (9.4 / 9.1 / 9 / 9.5 / 9.4) | extensive mountain landscape | Uniqueness higher: Distinct preserved fossil forest landscape; depth lower: Named geological sites. Provisional comparison. |
+| [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (8.9 / 9 / 9 / 9.1 / 8.6) | protected habitat | Uniqueness higher: Distinct preserved fossil forest landscape; depth lower: Named geological sites. Provisional comparison. |
+| [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional natural park | Uniqueness higher: Distinct preserved fossil forest landscape; depth lower: Named geological sites. Provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| impact | — | 8.6 | Fossilized tree trunks in volcanic terrain |
+| uniqueness | — | 9.2 | Distinct preserved fossil forest landscape |
+| significance | — | 9.1 | International paleobotanical interest |
+| experience | — | 8.6 | Managed park and museum interpretation |
+| depth | — | 8.4 | Named geological sites |
+
+- Applicable category scores: nature: 9.4, history: 9.1.
+- Computed worldwide overall: 88.30/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial assessment: Distinct preserved fossil forest landscape; Named geological sites.
+- Earlier decision: none.
+- Verification still needed: independent factual evidence, admission and closer peer matching.
+
+## sight-gr-messene — Archaeological Site of Ancient Messene — 2026-11-25
+
+- YAML: [source](../../../countries/GR/sights/messene.yaml)
+- Action: new
+- Precise subject: Archaeological Site of Ancient Messene; Defined archaeological park.
+- Location check: 37.176, 21.92; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO](https://whc.unesco.org/en/statesparties/gr) — consulted 2026-11-25 for property identity and listed status; independent material-claim and current visitor-condition verification outstanding.
+- Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) (10 / 10 / 10 / 9.8 / 10) | global ancient monumental ensemble | Uniqueness lower: Distinct coherent ancient civic archaeological landscape; depth lower: Defined archaeological park. Provisional comparison. |
+| [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) (9.6 / 9.5 / 9.8 / 9.4 / 9.5) | ancient royal-city ruins | Uniqueness lower: Distinct coherent ancient civic archaeological landscape; depth lower: Defined archaeological park. Provisional comparison. |
+| [Gyeongju Historic Areas (KR)](../../../countries/KR/sights/gyeongju-historic-areas.yaml) (9.5 / 9.6 / 9.8 / 9.5 / 9.8) | extensive archaeological heritage | Uniqueness lower: Distinct coherent ancient civic archaeological landscape; depth lower: Defined archaeological park. Provisional comparison. |
+| [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | smaller historic complex, scope floor | Uniqueness higher: Distinct coherent ancient civic archaeological landscape; depth higher: Defined archaeological park. Provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| impact | — | 9.0 | Extensive ancient city remains theater and stadium |
+| uniqueness | — | 9.1 | Distinct coherent ancient civic archaeological landscape |
+| significance | — | 9.2 | International Greek archaeological heritage |
+| experience | — | 9.0 | Managed site paths |
+| depth | — | 9.0 | Defined archaeological park |
+
+- Applicable category scores: history: 9.4, architecture: 9.3.
+- Computed worldwide overall: 90.65/100.
+- High-score challenge: No 9.5+ field. 90+ total: Extensive ancient city remains theater and stadium; Distinct coherent ancient civic archaeological landscape; Defined archaeological park. Compare Angkor and Ayutthaya: this original archaeological evidence and defined site breadth support the stated field, without inheriting the full scope of a global monumental park..
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial assessment: Distinct coherent ancient civic archaeological landscape; Defined archaeological park.
+- Earlier decision: none.
+- Verification still needed: independent factual evidence, admission and closer peer matching.
+
+## sight-gr-nikopolis — Archaeological Site of Nikopolis — 2026-11-25
+
+- YAML: [source](../../../countries/GR/sights/nikopolis.yaml)
+- Action: new
+- Precise subject: Archaeological Site of Nikopolis; Nominated site only.
+- Location check: 39.026, 20.73; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO](https://whc.unesco.org/en/statesparties/gr) — consulted 2026-11-25 for property identity and listed status; independent material-claim and current visitor-condition verification outstanding.
+- Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) (10 / 10 / 10 / 9.8 / 10) | global ancient monumental ensemble | Uniqueness lower: Distinct Roman victory city archaeological evidence; depth lower: Nominated site only. Provisional comparison. |
+| [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) (9.6 / 9.5 / 9.8 / 9.4 / 9.5) | ancient royal-city ruins | Uniqueness lower: Distinct Roman victory city archaeological evidence; depth lower: Nominated site only. Provisional comparison. |
+| [Gyeongju Historic Areas (KR)](../../../countries/KR/sights/gyeongju-historic-areas.yaml) (9.5 / 9.6 / 9.8 / 9.5 / 9.8) | extensive archaeological heritage | Uniqueness lower: Distinct Roman victory city archaeological evidence; depth lower: Nominated site only. Provisional comparison. |
+| [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | smaller historic complex, scope floor | Uniqueness higher: Distinct Roman victory city archaeological evidence; depth higher: Nominated site only. Provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| impact | — | 8.4 | Dispersed Roman city ruins and walls |
+| uniqueness | — | 8.8 | Distinct Roman victory city archaeological evidence |
+| significance | — | 9.1 | International Roman history |
+| experience | — | 8.5 | Permitted archaeological visits |
+| depth | — | 8.7 | Nominated site only |
+
+- Applicable category scores: history: 9.3.
+- Computed worldwide overall: 86.85/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial assessment: Distinct Roman victory city archaeological evidence; Nominated site only.
+- Earlier decision: none.
+- Verification still needed: independent factual evidence, admission and closer peer matching.
+
+## sight-gr-prespa — Prespa Lakes national park and Byzantine monuments — 2026-11-25
+
+- YAML: [source](../../../countries/GR/sights/prespa.yaml)
+- Action: new
+- Precise subject: Prespa Lakes national park and Byzantine monuments; Greek nominated sectors only.
+- Location check: 40.78, 21.05; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO](https://whc.unesco.org/en/statesparties/gr) — consulted 2026-11-25 for property identity and listed status; independent material-claim and current visitor-condition verification outstanding.
+- Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Jiuzhaigou (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) (9.8 / 9.7 / 9.4 / 9.8 / 9.1) | world-leading natural landscape | Uniqueness lower: Distinct linked natural and religious landscape; depth lower: Greek nominated sectors only. Provisional comparison. |
+| [Hohe Tauern (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) (9.4 / 9.1 / 9 / 9.5 / 9.4) | extensive mountain landscape | Uniqueness lower: Distinct linked natural and religious landscape; depth lower: Greek nominated sectors only. Provisional comparison. |
+| [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (8.9 / 9 / 9 / 9.1 / 8.6) | protected habitat | Uniqueness similar: Distinct linked natural and religious landscape; depth higher: Greek nominated sectors only. Provisional comparison. |
+| [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional natural park | Uniqueness lower: Distinct linked natural and religious landscape; depth higher: Greek nominated sectors only. Provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| impact | — | 8.8 | Mountain lakes wetlands and historic chapels |
+| uniqueness | — | 9.0 | Distinct linked natural and religious landscape |
+| significance | — | 9.0 | International wetland and regional Byzantine heritage |
+| experience | — | 8.8 | Permitted lake and village visits |
+| depth | — | 9.0 | Greek nominated sectors only |
+
+- Applicable category scores: nature: 9.3, wildlife: 9.3, history: 9.1.
+- Computed worldwide overall: 89.10/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial assessment: Distinct linked natural and religious landscape; Greek nominated sectors only.
+- Earlier decision: none.
+- Verification still needed: independent factual evidence, admission and closer peer matching.
+
+## sight-gr-samaria — Samaria Gorge National Park — 2026-11-25
+
+- YAML: [source](../../../countries/GR/sights/samaria.yaml)
+- Action: new
+- Precise subject: Samaria Gorge National Park; Gorge park not all White Mountains.
+- Location check: 35.28, 23.96; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Visit Greece](https://www.visitgreece.gr/en/experiences/nature/gorges/samaria-gorge) — consulted 2026-11-25 for gorge trail visitor scope; independent material-claim and current visitor-condition verification outstanding.
+- Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Jiuzhaigou (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) (9.8 / 9.7 / 9.4 / 9.8 / 9.1) | world-leading natural landscape | Uniqueness lower: Distinct long Cretan mountain-to-sea gorge; depth lower: Gorge park not all White Mountains. Provisional comparison. |
+| [Hohe Tauern (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) (9.4 / 9.1 / 9 / 9.5 / 9.4) | extensive mountain landscape | Uniqueness similar: Distinct long Cretan mountain-to-sea gorge; depth lower: Gorge park not all White Mountains. Provisional comparison. |
+| [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (8.9 / 9 / 9 / 9.1 / 8.6) | protected habitat | Uniqueness higher: Distinct long Cretan mountain-to-sea gorge; depth higher: Gorge park not all White Mountains. Provisional comparison. |
+| [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional natural park | Uniqueness similar: Distinct long Cretan mountain-to-sea gorge; depth higher: Gorge park not all White Mountains. Provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| impact | — | 9.3 | Deep limestone gorge and dramatic cliffs |
+| uniqueness | — | 9.1 | Distinct long Cretan mountain-to-sea gorge |
+| significance | — | 8.8 | National ecological and geological heritage |
+| experience | — | 9.0 | Seasonal controlled gorge trail |
+| depth | — | 8.8 | Gorge park not all White Mountains |
+
+- Applicable category scores: nature: 9.5, adventure: 9.4, photography: 9.4.
+- Computed worldwide overall: 90.55/100.
+- High-score challenge: nature 9.5: Distinct long Cretan mountain-to-sea gorge. 90+ total: Deep limestone gorge and dramatic cliffs; Distinct long Cretan mountain-to-sea gorge; Gorge park not all White Mountains. Compare Jiuzhaigou and Hohe Tauern: specific local landform and ecological qualities support the field; smaller scope and restrictions constrain depth..
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial assessment: Distinct long Cretan mountain-to-sea gorge; Gorge park not all White Mountains.
+- Earlier decision: none.
+- Verification still needed: independent factual evidence, admission and closer peer matching.
+
+## sight-gr-spinalonga — Fortress of Spinalonga — 2026-11-25
+
+- YAML: [source](../../../countries/GR/sights/spinalonga.yaml)
+- Action: new
+- Precise subject: Fortress of Spinalonga; Island fortress only.
+- Location check: 35.297, 25.738; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO](https://whc.unesco.org/en/statesparties/gr) — consulted 2026-11-25 for property identity and listed status; independent material-claim and current visitor-condition verification outstanding.
+- Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Schönbrunn Palace (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (9.4 / 9.3 / 9.6 / 9.5 / 9.3) | major architectural ensemble | Uniqueness lower: Distinct defensive and former leprosy settlement history; depth lower: Island fortress only. Provisional comparison. |
+| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | coherent historic architecture | Uniqueness lower: Distinct defensive and former leprosy settlement history; depth lower: Island fortress only. Provisional comparison. |
+| [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | major heritage complex | Uniqueness lower: Distinct defensive and former leprosy settlement history; depth lower: Island fortress only. Provisional comparison. |
+| [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional heritage complex | Uniqueness higher: Distinct defensive and former leprosy settlement history; depth lower: Island fortress only. Provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| impact | — | 8.8 | Stone fortress on rocky island |
+| uniqueness | — | 9.0 | Distinct defensive and former leprosy settlement history |
+| significance | — | 9.0 | National social and Mediterranean military heritage |
+| experience | — | 8.8 | Managed boat and heritage site visits |
+| depth | — | 8.4 | Island fortress only |
+
+- Applicable category scores: history: 9.3, architecture: 9.2.
+- Computed worldwide overall: 88.50/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial assessment: Distinct defensive and former leprosy settlement history; Island fortress only.
+- Earlier decision: none.
+- Verification still needed: independent factual evidence, admission and closer peer matching.
+
+## sight-gr-aegean-towers — Ancient Towers of the Aegean Sea — 2026-11-25
+
+- YAML: [source](../../../countries/GR/sights/aegean-towers.yaml)
+- Action: new
+- Precise subject: Ancient Towers of the Aegean Sea; Nominated series only.
+- Location check: 37.2, 24.6; approximate representative point, independent verification pending.
+- Evidence status: **unassessed**
+- Evidence: [UNESCO](https://whc.unesco.org/en/statesparties/gr) — consulted 2026-11-25 for property identity and listed status; independent material-claim and current visitor-condition verification outstanding.
+- Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) (10 / 10 / 10 / 9.8 / 10) | global ancient monumental ensemble | Uniqueness lower: Distinct ancient island tower tradition; depth unassessed: Nominated series only. Provisional comparison. |
+| [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) (9.6 / 9.5 / 9.8 / 9.4 / 9.5) | ancient royal-city ruins | Uniqueness lower: Distinct ancient island tower tradition; depth unassessed: Nominated series only. Provisional comparison. |
+| [Gyeongju Historic Areas (KR)](../../../countries/KR/sights/gyeongju-historic-areas.yaml) (9.5 / 9.6 / 9.8 / 9.5 / 9.8) | extensive archaeological heritage | Uniqueness lower: Distinct ancient island tower tradition; depth unassessed: Nominated series only. Provisional comparison. |
+| [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | smaller historic complex, scope floor | Uniqueness higher: Distinct ancient island tower tradition; depth unassessed: Nominated series only. Provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| impact | — | null | Combined visitor impact unresolved |
+| uniqueness | — | 8.9 | Distinct ancient island tower tradition |
+| significance | — | 9.1 | International ancient defensive archaeology |
+| experience | — | null | Component-specific access unresolved |
+| depth | — | null | Nominated series only |
+
+- Applicable category scores: history: 9.3, architecture: 9.2.
+- Computed worldwide overall: unranked.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Unranked pending documented visitor scope.
+- Earlier decision: none.
+- Verification still needed: independent factual evidence, admission and closer peer matching.
+
+## sight-gr-greek-theatres — Ancient Greek Theatres (tentative series) — 2026-11-25
+
+- YAML: [source](../../../countries/GR/sights/greek-theatres.yaml)
+- Action: new
+- Precise subject: Ancient Greek Theatres (tentative series); Nominated theaters not every Greek theater.
+- Location check: 37.598, 23.079; approximate representative point, independent verification pending.
+- Evidence status: **unassessed**
+- Evidence: [UNESCO](https://whc.unesco.org/en/statesparties/gr) — consulted 2026-11-25 for property identity and listed status; independent material-claim and current visitor-condition verification outstanding.
+- Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) (10 / 10 / 10 / 9.8 / 10) | global ancient monumental ensemble | Uniqueness lower: Distinct ancient civic and performance architecture; depth unassessed: Nominated theaters not every Greek theater. Provisional comparison. |
+| [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) (9.6 / 9.5 / 9.8 / 9.4 / 9.5) | ancient royal-city ruins | Uniqueness lower: Distinct ancient civic and performance architecture; depth unassessed: Nominated theaters not every Greek theater. Provisional comparison. |
+| [Gyeongju Historic Areas (KR)](../../../countries/KR/sights/gyeongju-historic-areas.yaml) (9.5 / 9.6 / 9.8 / 9.5 / 9.8) | extensive archaeological heritage | Uniqueness lower: Distinct ancient civic and performance architecture; depth unassessed: Nominated theaters not every Greek theater. Provisional comparison. |
+| [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | smaller historic complex, scope floor | Uniqueness higher: Distinct ancient civic and performance architecture; depth unassessed: Nominated theaters not every Greek theater. Provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| impact | — | 9.0 | Dispersed classical theater structures |
+| uniqueness | — | 9.2 | Distinct ancient civic and performance architecture |
+| significance | — | 9.5 | International theater and architectural history |
+| experience | — | null | Combined nominated access unresolved |
+| depth | — | null | Nominated theaters not every Greek theater |
+
+- Applicable category scores: architecture: 9.5, history: 9.5.
+- Computed worldwide overall: unranked.
+- High-score challenge: significance 9.5: International theater and architectural history; architecture 9.5: Dispersed classical theater structures; history 9.5: International theater and architectural history. Compare Angkor and Ayutthaya: this original archaeological evidence and defined site breadth support the stated field, without inheriting the full scope of a global monumental park..
+- Approved 10 registry: none.
+- Final decision: Unranked pending documented visitor scope.
+- Earlier decision: none.
+- Verification still needed: independent factual evidence, admission and closer peer matching.
+
+## sight-gr-knossos — Knossos Palace archaeological site — 2026-11-25
+
+- YAML: [source](../../../countries/GR/sights/knossos.yaml)
+- Action: new
+- Precise subject: Knossos Palace archaeological site; One listed component not all Minoan sites.
+- Location check: 35.297222, 25.1625; [UNESCO published component coordinates](https://whc.unesco.org/en/list/1733/maps/) converted from DMS, representative point not entrance.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO](https://whc.unesco.org/en/list/1733/) — consulted 2026-11-25 for six-component Minoan property and reconstruction caveat; independent material-claim and current visitor-condition verification outstanding. [Component table](https://whc.unesco.org/en/list/1733/maps/) establishes identity and coordinates.
+- Missing or uncertain facts: current ordinary access and individual factual corroboration; closer same-type peers.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) (10 / 10 / 10 / 9.8 / 10) | global ancient monumental ensemble | Uniqueness lower: Distinct major Minoan palatial center with documented modern reconstructions; depth lower: One listed component not all Minoan sites. Provisional comparison. |
+| [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) (9.6 / 9.5 / 9.8 / 9.4 / 9.5) | ancient royal-city ruins | Uniqueness lower: Distinct major Minoan palatial center with documented modern reconstructions; depth lower: One listed component not all Minoan sites. Provisional comparison. |
+| [Gyeongju Historic Areas (KR)](../../../countries/KR/sights/gyeongju-historic-areas.yaml) (9.5 / 9.6 / 9.8 / 9.5 / 9.8) | extensive archaeological heritage | Uniqueness lower: Distinct major Minoan palatial center with documented modern reconstructions; depth lower: One listed component not all Minoan sites. Provisional comparison. |
+| [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | smaller historic complex, scope floor | Uniqueness higher: Distinct major Minoan palatial center with documented modern reconstructions; depth higher: One listed component not all Minoan sites. Provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| impact | — | 9.1 | Extensive palace courtyards and reconstructed architectural features |
+| uniqueness | — | 9.4 | Distinct major Minoan palatial center with documented modern reconstructions |
+| significance | — | 9.6 | International Bronze Age cultural heritage |
+| experience | — | 8.9 | Managed archaeological visit, reconstruction distinguished from authentic fabric |
+| depth | — | 8.8 | One listed component not all Minoan sites |
+
+- Applicable category scores: history: 9.6, architecture: 9.3.
+- Computed worldwide overall: 92.15/100.
+- High-score challenge: significance 9.6: International Bronze Age cultural heritage; history 9.6: International Bronze Age cultural heritage. 90+ total: Extensive palace courtyards and reconstructed architectural features; Distinct major Minoan palatial center with documented modern reconstructions; One listed component not all Minoan sites. Compare Angkor and Ayutthaya: this original archaeological evidence and defined site breadth support the stated field, without inheriting the full scope of a global monumental park..
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial assessment: Distinct major Minoan palatial center with documented modern reconstructions; One listed component not all Minoan sites.
+- Earlier decision: none.
+- Verification still needed: independent factual evidence, admission and closer peer matching.
+
+## sight-gr-phaistos — Phaistos Palace archaeological site — 2026-11-25
+
+- YAML: [source](../../../countries/GR/sights/phaistos.yaml)
+- Action: new
+- Precise subject: Phaistos Palace archaeological site; One listed component.
+- Location check: 35.051111, 24.814167; [UNESCO published component coordinates](https://whc.unesco.org/en/list/1733/maps/) converted from DMS, representative point not entrance.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO](https://whc.unesco.org/en/list/1733/) — consulted 2026-11-25 for six-component Minoan property and reconstruction caveat; independent material-claim and current visitor-condition verification outstanding. [Component table](https://whc.unesco.org/en/list/1733/maps/) establishes identity and coordinates.
+- Missing or uncertain facts: current ordinary access and individual factual corroboration; closer same-type peers.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) (10 / 10 / 10 / 9.8 / 10) | global ancient monumental ensemble | Uniqueness lower: Distinct Minoan palatial plan and landscape setting; depth lower: One listed component. Provisional comparison. |
+| [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) (9.6 / 9.5 / 9.8 / 9.4 / 9.5) | ancient royal-city ruins | Uniqueness lower: Distinct Minoan palatial plan and landscape setting; depth lower: One listed component. Provisional comparison. |
+| [Gyeongju Historic Areas (KR)](../../../countries/KR/sights/gyeongju-historic-areas.yaml) (9.5 / 9.6 / 9.8 / 9.5 / 9.8) | extensive archaeological heritage | Uniqueness lower: Distinct Minoan palatial plan and landscape setting; depth lower: One listed component. Provisional comparison. |
+| [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | smaller historic complex, scope floor | Uniqueness higher: Distinct Minoan palatial plan and landscape setting; depth similar: One listed component. Provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| impact | — | 8.7 | Palatial ruins on hillside with broad courtyards |
+| uniqueness | — | 9.0 | Distinct Minoan palatial plan and landscape setting |
+| significance | — | 9.3 | International Bronze Age archaeological heritage |
+| experience | — | 8.7 | Managed site visit, current details unverified |
+| depth | — | 8.5 | One listed component |
+
+- Applicable category scores: history: 9.4, architecture: 9.1.
+- Computed worldwide overall: 88.75/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial assessment: Distinct Minoan palatial plan and landscape setting; One listed component.
+- Earlier decision: none.
+- Verification still needed: independent factual evidence, admission and closer peer matching.
+
+## sight-gr-malia — Malia Palace archaeological site — 2026-11-25
+
+- YAML: [source](../../../countries/GR/sights/malia.yaml)
+- Action: new
+- Precise subject: Malia Palace archaeological site; One listed component.
+- Location check: 35.293333, 25.4925; [UNESCO published component coordinates](https://whc.unesco.org/en/list/1733/maps/) converted from DMS, representative point not entrance.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO](https://whc.unesco.org/en/list/1733/) — consulted 2026-11-25 for six-component Minoan property and reconstruction caveat; independent material-claim and current visitor-condition verification outstanding. [Component table](https://whc.unesco.org/en/list/1733/maps/) establishes identity and coordinates.
+- Missing or uncertain facts: current ordinary access and individual factual corroboration; closer same-type peers.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) (10 / 10 / 10 / 9.8 / 10) | global ancient monumental ensemble | Uniqueness lower: Distinct Minoan urban and administrative archaeology; depth lower: One listed component. Provisional comparison. |
+| [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) (9.6 / 9.5 / 9.8 / 9.4 / 9.5) | ancient royal-city ruins | Uniqueness lower: Distinct Minoan urban and administrative archaeology; depth lower: One listed component. Provisional comparison. |
+| [Gyeongju Historic Areas (KR)](../../../countries/KR/sights/gyeongju-historic-areas.yaml) (9.5 / 9.6 / 9.8 / 9.5 / 9.8) | extensive archaeological heritage | Uniqueness lower: Distinct Minoan urban and administrative archaeology; depth lower: One listed component. Provisional comparison. |
+| [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | smaller historic complex, scope floor | Uniqueness higher: Distinct Minoan urban and administrative archaeology; depth lower: One listed component. Provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| impact | — | 8.4 | Palatial foundations and archaeological courtyards |
+| uniqueness | — | 8.8 | Distinct Minoan urban and administrative archaeology |
+| significance | — | 9.1 | International Bronze Age heritage |
+| experience | — | 8.5 | Permitted archaeological grounds, current conditions unverified |
+| depth | — | 8.3 | One listed component |
+
+- Applicable category scores: history: 9.3.
+- Computed worldwide overall: 86.45/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial assessment: Distinct Minoan urban and administrative archaeology; One listed component.
+- Earlier decision: none.
+- Verification still needed: independent factual evidence, admission and closer peer matching.
+
+## sight-gr-zakros — Zakros Palace archaeological site — 2026-11-25
+
+- YAML: [source](../../../countries/GR/sights/zakros.yaml)
+- Action: new
+- Precise subject: Zakros Palace archaeological site; One listed component.
+- Location check: 35.098333, 26.260833; [UNESCO published component coordinates](https://whc.unesco.org/en/list/1733/maps/) converted from DMS, representative point not entrance.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO](https://whc.unesco.org/en/list/1733/) — consulted 2026-11-25 for six-component Minoan property and reconstruction caveat; independent material-claim and current visitor-condition verification outstanding. [Component table](https://whc.unesco.org/en/list/1733/maps/) establishes identity and coordinates.
+- Missing or uncertain facts: current ordinary access and individual factual corroboration; closer same-type peers.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) (10 / 10 / 10 / 9.8 / 10) | global ancient monumental ensemble | Uniqueness lower: Distinct eastern Minoan maritime setting; depth lower: One listed component. Provisional comparison. |
+| [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) (9.6 / 9.5 / 9.8 / 9.4 / 9.5) | ancient royal-city ruins | Uniqueness lower: Distinct eastern Minoan maritime setting; depth lower: One listed component. Provisional comparison. |
+| [Gyeongju Historic Areas (KR)](../../../countries/KR/sights/gyeongju-historic-areas.yaml) (9.5 / 9.6 / 9.8 / 9.5 / 9.8) | extensive archaeological heritage | Uniqueness lower: Distinct eastern Minoan maritime setting; depth lower: One listed component. Provisional comparison. |
+| [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | smaller historic complex, scope floor | Uniqueness higher: Distinct eastern Minoan maritime setting; depth lower: One listed component. Provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| impact | — | 8.5 | Palatial ruins in eastern coastal valley |
+| uniqueness | — | 8.9 | Distinct eastern Minoan maritime setting |
+| significance | — | 9.2 | International Bronze Age archaeological heritage |
+| experience | — | 8.5 | Permitted archaeological visit, current conditions unverified |
+| depth | — | 8.3 | One listed component |
+
+- Applicable category scores: history: 9.3, photography: 8.8.
+- Computed worldwide overall: 87.20/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial assessment: Distinct eastern Minoan maritime setting; One listed component.
+- Earlier decision: none.
+- Verification still needed: independent factual evidence, admission and closer peer matching.
+
+## sight-gr-zominthos — Zominthos archaeological site — 2026-11-25
+
+- YAML: [source](../../../countries/GR/sights/zominthos.yaml)
+- Action: new
+- Precise subject: Zominthos archaeological site; One listed component.
+- Location check: 35.248611, 24.887222; [UNESCO published component coordinates](https://whc.unesco.org/en/list/1733/maps/) converted from DMS, representative point not entrance.
+- Evidence status: **unassessed**
+- Evidence: [UNESCO](https://whc.unesco.org/en/list/1733/) — consulted 2026-11-25 for six-component Minoan property and reconstruction caveat; independent material-claim and current visitor-condition verification outstanding. [Component table](https://whc.unesco.org/en/list/1733/maps/) establishes identity and coordinates.
+- Missing or uncertain facts: current ordinary access and individual factual corroboration; closer same-type peers.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) (10 / 10 / 10 / 9.8 / 10) | global ancient monumental ensemble | Uniqueness lower: Distinct high-altitude Minoan complex; depth unassessed: One listed component. Provisional comparison. |
+| [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) (9.6 / 9.5 / 9.8 / 9.4 / 9.5) | ancient royal-city ruins | Uniqueness lower: Distinct high-altitude Minoan complex; depth unassessed: One listed component. Provisional comparison. |
+| [Gyeongju Historic Areas (KR)](../../../countries/KR/sights/gyeongju-historic-areas.yaml) (9.5 / 9.6 / 9.8 / 9.5 / 9.8) | extensive archaeological heritage | Uniqueness lower: Distinct high-altitude Minoan complex; depth unassessed: One listed component. Provisional comparison. |
+| [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | smaller historic complex, scope floor | Uniqueness higher: Distinct high-altitude Minoan complex; depth unassessed: One listed component. Provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| impact | — | null | Ordinary visitor impact unverified |
+| uniqueness | — | 9.0 | Distinct high-altitude Minoan complex |
+| significance | — | 9.2 | International Bronze Age cultural heritage |
+| experience | — | null | Regular permitted visitor scope unresolved |
+| depth | — | null | One listed component |
+
+- Applicable category scores: history: 9.3.
+- Computed worldwide overall: unranked.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Unranked pending documented visitor scope.
+- Earlier decision: none.
+- Verification still needed: independent factual evidence, admission and closer peer matching.
+
+## sight-gr-kydonia — Kydonia archaeological site — 2026-11-25
+
+- YAML: [source](../../../countries/GR/sights/kydonia.yaml)
+- Action: new
+- Precise subject: Kydonia archaeological site; One listed component not all Chania.
+- Location check: 35.517222, 24.019722; [UNESCO published component coordinates](https://whc.unesco.org/en/list/1733/maps/) converted from DMS, representative point not entrance.
+- Evidence status: **unassessed**
+- Evidence: [UNESCO](https://whc.unesco.org/en/list/1733/) — consulted 2026-11-25 for six-component Minoan property and reconstruction caveat; independent material-claim and current visitor-condition verification outstanding. [Component table](https://whc.unesco.org/en/list/1733/maps/) establishes identity and coordinates.
+- Missing or uncertain facts: current ordinary access and individual factual corroboration; closer same-type peers.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) (10 / 10 / 10 / 9.8 / 10) | global ancient monumental ensemble | Uniqueness lower: Distinct Minoan settlement evidence beneath Chania; depth unassessed: One listed component not all Chania. Provisional comparison. |
+| [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) (9.6 / 9.5 / 9.8 / 9.4 / 9.5) | ancient royal-city ruins | Uniqueness lower: Distinct Minoan settlement evidence beneath Chania; depth unassessed: One listed component not all Chania. Provisional comparison. |
+| [Gyeongju Historic Areas (KR)](../../../countries/KR/sights/gyeongju-historic-areas.yaml) (9.5 / 9.6 / 9.8 / 9.5 / 9.8) | extensive archaeological heritage | Uniqueness lower: Distinct Minoan settlement evidence beneath Chania; depth unassessed: One listed component not all Chania. Provisional comparison. |
+| [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | smaller historic complex, scope floor | Uniqueness higher: Distinct Minoan settlement evidence beneath Chania; depth unassessed: One listed component not all Chania. Provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| impact | — | null | Ordinary visitor impact of urban excavations unverified |
+| uniqueness | — | 8.9 | Distinct Minoan settlement evidence beneath Chania |
+| significance | — | 9.2 | International Bronze Age cultural heritage |
+| experience | — | null | Regular combined public excavation access unresolved |
+| depth | — | null | One listed component not all Chania |
+
+- Applicable category scores: history: 9.3.
+- Computed worldwide overall: unranked.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Unranked pending documented visitor scope.
+- Earlier decision: none.
+- Verification still needed: independent factual evidence, admission and closer peer matching.
+
+## sight-gr-evros-delta — Evros Delta National Park — 2026-11-25
+
+- YAML: [source](../../../countries/GR/sights/evros-delta.yaml)
+- Action: new
+- Precise subject: Evros Delta National Park; Greek park only.
+- Location check: 40.81, 26.02; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: [NECCA](https://necca.gov.gr/en/protected-areas-management-units/) — consulted 2026-11-25 for management unit and named national park context; independent material-claim and current visitor-condition verification outstanding.
+- Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Jiuzhaigou (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) (9.8 / 9.7 / 9.4 / 9.8 / 9.1) | world-leading natural landscape | Uniqueness lower: Distinct borderland wetland habitats; depth lower: Greek park only. Provisional comparison. |
+| [Hohe Tauern (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) (9.4 / 9.1 / 9 / 9.5 / 9.4) | extensive mountain landscape | Uniqueness lower: Distinct borderland wetland habitats; depth lower: Greek park only. Provisional comparison. |
+| [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (8.9 / 9 / 9 / 9.1 / 8.6) | protected habitat | Uniqueness lower: Distinct borderland wetland habitats; depth similar: Greek park only. Provisional comparison. |
+| [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional natural park | Uniqueness lower: Distinct borderland wetland habitats; depth similar: Greek park only. Provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| impact | — | 8.5 | Extensive river delta marshes |
+| uniqueness | — | 8.8 | Distinct borderland wetland habitats |
+| significance | — | 8.9 | International migratory bird conservation |
+| experience | — | 8.6 | Permitted observation and guided routes |
+| depth | — | 8.6 | Greek park only |
+
+- Applicable category scores: nature: 9.2, wildlife: 9.3.
+- Computed worldwide overall: 86.80/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial assessment: Distinct borderland wetland habitats; Greek park only.
+- Earlier decision: none.
+- Verification still needed: independent factual evidence, admission and closer peer matching.
+
+## sight-gr-nestos — Nestos Delta and Vistonida Ismarida National Park — 2026-11-25
+
+- YAML: [source](../../../countries/GR/sights/nestos.yaml)
+- Action: new
+- Precise subject: Nestos Delta and Vistonida Ismarida National Park; Defined protected park.
+- Location check: 41.02, 25; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: [NECCA](https://necca.gov.gr/en/protected-areas-management-units/) — consulted 2026-11-25 for management unit and named national park context; independent material-claim and current visitor-condition verification outstanding.
+- Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Jiuzhaigou (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) (9.8 / 9.7 / 9.4 / 9.8 / 9.1) | world-leading natural landscape | Uniqueness lower: Distinct interconnected delta and lake habitats; depth lower: Defined protected park. Provisional comparison. |
+| [Hohe Tauern (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) (9.4 / 9.1 / 9 / 9.5 / 9.4) | extensive mountain landscape | Uniqueness lower: Distinct interconnected delta and lake habitats; depth lower: Defined protected park. Provisional comparison. |
+| [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (8.9 / 9 / 9 / 9.1 / 8.6) | protected habitat | Uniqueness lower: Distinct interconnected delta and lake habitats; depth higher: Defined protected park. Provisional comparison. |
+| [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional natural park | Uniqueness lower: Distinct interconnected delta and lake habitats; depth higher: Defined protected park. Provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| impact | — | 8.5 | Lagoon river and coastal wetland landscapes |
+| uniqueness | — | 8.8 | Distinct interconnected delta and lake habitats |
+| significance | — | 8.8 | International wetland conservation |
+| experience | — | 8.6 | Permitted paths and bird observation |
+| depth | — | 8.8 | Defined protected park |
+
+- Applicable category scores: nature: 9.2, wildlife: 9.3.
+- Computed worldwide overall: 86.80/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial assessment: Distinct interconnected delta and lake habitats; Defined protected park.
+- Earlier decision: none.
+- Verification still needed: independent factual evidence, admission and closer peer matching.
+
+## sight-gr-rhodope — Rhodope Mountain Range National Park — 2026-11-25
+
+- YAML: [source](../../../countries/GR/sights/rhodope.yaml)
+- Action: new
+- Precise subject: Rhodope Mountain Range National Park; Defined park.
+- Location check: 41.47, 24.44; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: [NECCA](https://necca.gov.gr/en/protected-areas-management-units/) — consulted 2026-11-25 for management unit and named national park context; independent material-claim and current visitor-condition verification outstanding.
+- Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Jiuzhaigou (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) (9.8 / 9.7 / 9.4 / 9.8 / 9.1) | world-leading natural landscape | Uniqueness lower: Distinct northern Greek mountain forest ecosystems; depth lower: Defined park. Provisional comparison. |
+| [Hohe Tauern (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) (9.4 / 9.1 / 9 / 9.5 / 9.4) | extensive mountain landscape | Uniqueness lower: Distinct northern Greek mountain forest ecosystems; depth lower: Defined park. Provisional comparison. |
+| [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (8.9 / 9 / 9 / 9.1 / 8.6) | protected habitat | Uniqueness lower: Distinct northern Greek mountain forest ecosystems; depth higher: Defined park. Provisional comparison. |
+| [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional natural park | Uniqueness lower: Distinct northern Greek mountain forest ecosystems; depth higher: Defined park. Provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| impact | — | 8.7 | Forested mountain ridges and streams |
+| uniqueness | — | 8.8 | Distinct northern Greek mountain forest ecosystems |
+| significance | — | 8.7 | National biodiversity heritage |
+| experience | — | 8.7 | Permitted forest routes |
+| depth | — | 9.0 | Defined park |
+
+- Applicable category scores: nature: 9.3, wildlife: 9.1.
+- Computed worldwide overall: 87.55/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial assessment: Distinct northern Greek mountain forest ecosystems; Defined park.
+- Earlier decision: none.
+- Verification still needed: independent factual evidence, admission and closer peer matching.
+
+## sight-gr-pindos — Northern Pindos National Park — 2026-11-25
+
+- YAML: [source](../../../countries/GR/sights/pindos.yaml)
+- Action: new
+- Precise subject: Northern Pindos National Park; Defined park broader than Vikos gorge.
+- Location check: 39.97, 20.95; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: [NECCA](https://necca.gov.gr/en/protected-areas-management-units/) — consulted 2026-11-25 for management unit and named national park context; independent material-claim and current visitor-condition verification outstanding.
+- Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Jiuzhaigou (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) (9.8 / 9.7 / 9.4 / 9.8 / 9.1) | world-leading natural landscape | Uniqueness lower: Distinct extensive Balkan mountain habitats; depth higher: Defined park broader than Vikos gorge. Provisional comparison. |
+| [Hohe Tauern (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) (9.4 / 9.1 / 9 / 9.5 / 9.4) | extensive mountain landscape | Uniqueness lower: Distinct extensive Balkan mountain habitats; depth lower: Defined park broader than Vikos gorge. Provisional comparison. |
+| [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (8.9 / 9 / 9 / 9.1 / 8.6) | protected habitat | Uniqueness similar: Distinct extensive Balkan mountain habitats; depth higher: Defined park broader than Vikos gorge. Provisional comparison. |
+| [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional natural park | Uniqueness lower: Distinct extensive Balkan mountain habitats; depth higher: Defined park broader than Vikos gorge. Provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| impact | — | 9.2 | Rugged peaks gorges and forests |
+| uniqueness | — | 9.0 | Distinct extensive Balkan mountain habitats |
+| significance | — | 8.9 | National ecological heritage |
+| experience | — | 9.0 | Seasonal marked trails |
+| depth | — | 9.3 | Defined park broader than Vikos gorge |
+
+- Applicable category scores: nature: 9.5, adventure: 9.3, photography: 9.4.
+- Computed worldwide overall: 90.70/100.
+- High-score challenge: nature 9.5: Distinct extensive Balkan mountain habitats. 90+ total: Rugged peaks gorges and forests; Distinct extensive Balkan mountain habitats; Defined park broader than Vikos gorge. Compare Jiuzhaigou and Hohe Tauern: specific local landform and ecological qualities support the field; smaller scope and restrictions constrain depth..
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial assessment: Distinct extensive Balkan mountain habitats; Defined park broader than Vikos gorge.
+- Earlier decision: none.
+- Verification still needed: independent factual evidence, admission and closer peer matching.
+
+## sight-gr-alonissos-marine — Alonissos and Northern Sporades National Marine Park — 2026-11-25
+
+- YAML: [source](../../../countries/GR/sights/alonissos-marine.yaml)
+- Action: new
+- Precise subject: Alonissos and Northern Sporades National Marine Park; Permitted marine sectors.
+- Location check: 39.19, 24; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: [NECCA](https://necca.gov.gr/en/protected-areas-management-units/) — consulted 2026-11-25 for management unit and named national park context; independent material-claim and current visitor-condition verification outstanding.
+- Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Jiuzhaigou (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) (9.8 / 9.7 / 9.4 / 9.8 / 9.1) | world-leading natural landscape | Uniqueness lower: Distinct protected Mediterranean monk seal habitat; depth lower: Permitted marine sectors. Provisional comparison. |
+| [Hohe Tauern (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) (9.4 / 9.1 / 9 / 9.5 / 9.4) | extensive mountain landscape | Uniqueness similar: Distinct protected Mediterranean monk seal habitat; depth lower: Permitted marine sectors. Provisional comparison. |
+| [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (8.9 / 9 / 9 / 9.1 / 8.6) | protected habitat | Uniqueness higher: Distinct protected Mediterranean monk seal habitat; depth higher: Permitted marine sectors. Provisional comparison. |
+| [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional natural park | Uniqueness similar: Distinct protected Mediterranean monk seal habitat; depth higher: Permitted marine sectors. Provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| impact | — | 8.9 | Marine islands and coastal habitats |
+| uniqueness | — | 9.1 | Distinct protected Mediterranean monk seal habitat |
+| significance | — | 9.2 | International marine conservation |
+| experience | — | 8.8 | Authorized boating without guaranteed sightings |
+| depth | — | 9.0 | Permitted marine sectors |
+
+- Applicable category scores: nature: 9.4, wildlife: 9.4.
+- Computed worldwide overall: 90.05/100.
+- High-score challenge: No 9.5+ field. 90+ total: Marine islands and coastal habitats; Distinct protected Mediterranean monk seal habitat; Permitted marine sectors. Compare Jiuzhaigou and Hohe Tauern: specific local landform and ecological qualities support the field; smaller scope and restrictions constrain depth..
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial assessment: Distinct protected Mediterranean monk seal habitat; Permitted marine sectors.
+- Earlier decision: none.
+- Verification still needed: independent factual evidence, admission and closer peer matching.
+
+## sight-gr-zakynthos-marine — Zakynthos National Marine Park — 2026-11-25
+
+- YAML: [source](../../../countries/GR/sights/zakynthos-marine.yaml)
+- Action: new
+- Precise subject: Zakynthos National Marine Park; Permitted park sectors.
+- Location check: 37.68, 20.9; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: [NECCA](https://necca.gov.gr/en/protected-areas-management-units/) — consulted 2026-11-25 for management unit and named national park context; independent material-claim and current visitor-condition verification outstanding.
+- Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Jiuzhaigou (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) (9.8 / 9.7 / 9.4 / 9.8 / 9.1) | world-leading natural landscape | Uniqueness lower: Distinct protected loggerhead turtle habitat; depth lower: Permitted park sectors. Provisional comparison. |
+| [Hohe Tauern (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) (9.4 / 9.1 / 9 / 9.5 / 9.4) | extensive mountain landscape | Uniqueness lower: Distinct protected loggerhead turtle habitat; depth lower: Permitted park sectors. Provisional comparison. |
+| [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (8.9 / 9 / 9 / 9.1 / 8.6) | protected habitat | Uniqueness similar: Distinct protected loggerhead turtle habitat; depth higher: Permitted park sectors. Provisional comparison. |
+| [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional natural park | Uniqueness lower: Distinct protected loggerhead turtle habitat; depth higher: Permitted park sectors. Provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| impact | — | 8.9 | Coastal bays and nesting beaches |
+| uniqueness | — | 9.0 | Distinct protected loggerhead turtle habitat |
+| significance | — | 9.1 | International marine conservation |
+| experience | — | 8.8 | Authorized observation and beach visits with seasonal restrictions |
+| depth | — | 8.8 | Permitted park sectors |
+
+- Applicable category scores: nature: 9.4, wildlife: 9.4, beaches: 9.0.
+- Computed worldwide overall: 89.40/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial assessment: Distinct protected loggerhead turtle habitat; Permitted park sectors.
+- Earlier decision: none.
+- Verification still needed: independent factual evidence, admission and closer peer matching.
+
+## sight-gr-ainos — Mount Ainos National Park — 2026-11-25
+
+- YAML: [source](../../../countries/GR/sights/ainos.yaml)
+- Action: new
+- Precise subject: Mount Ainos National Park; Defined park.
+- Location check: 38.14, 20.66; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: [NECCA](https://necca.gov.gr/en/protected-areas-management-units/) — consulted 2026-11-25 for management unit and named national park context; independent material-claim and current visitor-condition verification outstanding.
+- Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Jiuzhaigou (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) (9.8 / 9.7 / 9.4 / 9.8 / 9.1) | world-leading natural landscape | Uniqueness lower: Distinct Kefalonian fir habitat; depth lower: Defined park. Provisional comparison. |
+| [Hohe Tauern (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) (9.4 / 9.1 / 9 / 9.5 / 9.4) | extensive mountain landscape | Uniqueness lower: Distinct Kefalonian fir habitat; depth lower: Defined park. Provisional comparison. |
+| [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (8.9 / 9 / 9 / 9.1 / 8.6) | protected habitat | Uniqueness lower: Distinct Kefalonian fir habitat; depth lower: Defined park. Provisional comparison. |
+| [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional natural park | Uniqueness lower: Distinct Kefalonian fir habitat; depth lower: Defined park. Provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| impact | — | 8.6 | Forested mountain ridges and island panoramas |
+| uniqueness | — | 8.7 | Distinct Kefalonian fir habitat |
+| significance | — | 8.7 | National ecological heritage |
+| experience | — | 8.7 | Permitted marked paths |
+| depth | — | 8.5 | Defined park |
+
+- Applicable category scores: nature: 9.2, photography: 9.0.
+- Computed worldwide overall: 86.50/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial assessment: Distinct Kefalonian fir habitat; Defined park.
+- Earlier decision: none.
+- Verification still needed: independent factual evidence, admission and closer peer matching.
+
+## sight-gr-messolonghi — Messolonghi-Etoliko National Park — 2026-11-25
+
+- YAML: [source](../../../countries/GR/sights/messolonghi.yaml)
+- Action: new
+- Precise subject: Messolonghi-Etoliko National Park; Defined park sectors.
+- Location check: 38.36, 21.35; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: [NECCA](https://necca.gov.gr/en/protected-areas-management-units/) — consulted 2026-11-25 for management unit and named national park context; independent material-claim and current visitor-condition verification outstanding.
+- Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Jiuzhaigou (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) (9.8 / 9.7 / 9.4 / 9.8 / 9.1) | world-leading natural landscape | Uniqueness lower: Distinct large western Greek lagoon system; depth lower: Defined park sectors. Provisional comparison. |
+| [Hohe Tauern (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) (9.4 / 9.1 / 9 / 9.5 / 9.4) | extensive mountain landscape | Uniqueness lower: Distinct large western Greek lagoon system; depth lower: Defined park sectors. Provisional comparison. |
+| [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (8.9 / 9 / 9 / 9.1 / 8.6) | protected habitat | Uniqueness lower: Distinct large western Greek lagoon system; depth higher: Defined park sectors. Provisional comparison. |
+| [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional natural park | Uniqueness lower: Distinct large western Greek lagoon system; depth higher: Defined park sectors. Provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| impact | — | 8.5 | Shallow lagoons salt marshes and coastal flats |
+| uniqueness | — | 8.8 | Distinct large western Greek lagoon system |
+| significance | — | 8.8 | International wetland conservation |
+| experience | — | 8.6 | Permitted birding and landscape visits |
+| depth | — | 8.8 | Defined park sectors |
+
+- Applicable category scores: nature: 9.2, wildlife: 9.3.
+- Computed worldwide overall: 86.80/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial assessment: Distinct large western Greek lagoon system; Defined park sectors.
+- Earlier decision: none.
+- Verification still needed: independent factual evidence, admission and closer peer matching.
+
+## sight-gr-parnassos — Parnassos National Park — 2026-11-25
+
+- YAML: [source](../../../countries/GR/sights/parnassos.yaml)
+- Action: new
+- Precise subject: Parnassos National Park; Park excludes Delphi sanctuary.
+- Location check: 38.56, 22.57; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: [NECCA](https://necca.gov.gr/en/protected-areas-management-units/) — consulted 2026-11-25 for management unit and named national park context; independent material-claim and current visitor-condition verification outstanding.
+- Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Jiuzhaigou (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) (9.8 / 9.7 / 9.4 / 9.8 / 9.1) | world-leading natural landscape | Uniqueness lower: Distinct central Greek montane habitats; depth lower: Park excludes Delphi sanctuary. Provisional comparison. |
+| [Hohe Tauern (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) (9.4 / 9.1 / 9 / 9.5 / 9.4) | extensive mountain landscape | Uniqueness lower: Distinct central Greek montane habitats; depth lower: Park excludes Delphi sanctuary. Provisional comparison. |
+| [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (8.9 / 9 / 9 / 9.1 / 8.6) | protected habitat | Uniqueness lower: Distinct central Greek montane habitats; depth higher: Park excludes Delphi sanctuary. Provisional comparison. |
+| [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional natural park | Uniqueness lower: Distinct central Greek montane habitats; depth higher: Park excludes Delphi sanctuary. Provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| impact | — | 8.7 | Limestone peaks and fir forest |
+| uniqueness | — | 8.6 | Distinct central Greek montane habitats |
+| significance | — | 8.6 | National ecological heritage |
+| experience | — | 8.8 | Seasonal permitted trails |
+| depth | — | 8.8 | Park excludes Delphi sanctuary |
+
+- Applicable category scores: nature: 9.2, adventure: 9.0.
+- Computed worldwide overall: 86.80/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial assessment: Distinct central Greek montane habitats; Park excludes Delphi sanctuary.
+- Earlier decision: none.
+- Verification still needed: independent factual evidence, admission and closer peer matching.
+
+## sight-gr-oiti — Oiti National Park — 2026-11-25
+
+- YAML: [source](../../../countries/GR/sights/oiti.yaml)
+- Action: new
+- Precise subject: Oiti National Park; Defined park.
+- Location check: 38.81, 22.27; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: [NECCA](https://necca.gov.gr/en/protected-areas-management-units/) — consulted 2026-11-25 for management unit and named national park context; independent material-claim and current visitor-condition verification outstanding.
+- Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Jiuzhaigou (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) (9.8 / 9.7 / 9.4 / 9.8 / 9.1) | world-leading natural landscape | Uniqueness lower: Distinct central Greek upland ecology; depth lower: Defined park. Provisional comparison. |
+| [Hohe Tauern (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) (9.4 / 9.1 / 9 / 9.5 / 9.4) | extensive mountain landscape | Uniqueness lower: Distinct central Greek upland ecology; depth lower: Defined park. Provisional comparison. |
+| [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (8.9 / 9 / 9 / 9.1 / 8.6) | protected habitat | Uniqueness lower: Distinct central Greek upland ecology; depth higher: Defined park. Provisional comparison. |
+| [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional natural park | Uniqueness lower: Distinct central Greek upland ecology; depth higher: Defined park. Provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| impact | — | 8.5 | Forested slopes and mountain meadows |
+| uniqueness | — | 8.7 | Distinct central Greek upland ecology |
+| significance | — | 8.7 | National biodiversity heritage |
+| experience | — | 8.6 | Permitted seasonal trails |
+| depth | — | 8.7 | Defined park |
+
+- Applicable category scores: nature: 9.2, adventure: 8.9.
+- Computed worldwide overall: 86.25/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial assessment: Distinct central Greek upland ecology; Defined park.
+- Earlier decision: none.
+- Verification still needed: independent factual evidence, admission and closer peer matching.
+
+## sight-gr-parnitha — Parnitha National Park — 2026-11-25
+
+- YAML: [source](../../../countries/GR/sights/parnitha.yaml)
+- Action: new
+- Precise subject: Parnitha National Park; Defined park.
+- Location check: 38.17, 23.72; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: [NECCA](https://necca.gov.gr/en/protected-areas-management-units/) — consulted 2026-11-25 for management unit and named national park context; independent material-claim and current visitor-condition verification outstanding.
+- Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Jiuzhaigou (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) (9.8 / 9.7 / 9.4 / 9.8 / 9.1) | world-leading natural landscape | Uniqueness lower: Distinct regional montane forest habitat; depth lower: Defined park. Provisional comparison. |
+| [Hohe Tauern (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) (9.4 / 9.1 / 9 / 9.5 / 9.4) | extensive mountain landscape | Uniqueness lower: Distinct regional montane forest habitat; depth lower: Defined park. Provisional comparison. |
+| [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (8.9 / 9 / 9 / 9.1 / 8.6) | protected habitat | Uniqueness lower: Distinct regional montane forest habitat; depth lower: Defined park. Provisional comparison. |
+| [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional natural park | Uniqueness lower: Distinct regional montane forest habitat; depth lower: Defined park. Provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| impact | — | 8.2 | Wooded hills and views near Athens |
+| uniqueness | — | 8.4 | Distinct regional montane forest habitat |
+| significance | — | 8.5 | National ecological heritage |
+| experience | — | 8.5 | Permitted open trails subject to restoration |
+| depth | — | 8.5 | Defined park |
+
+- Applicable category scores: nature: 9.0, wildlife: 8.9.
+- Computed worldwide overall: 83.85/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial assessment: Distinct regional montane forest habitat; Defined park.
+- Earlier decision: none.
+- Verification still needed: independent factual evidence, admission and closer peer matching.
+
+## sight-gr-schinias — Schinias Marathon National Park — 2026-11-25
+
+- YAML: [source](../../../countries/GR/sights/schinias.yaml)
+- Action: new
+- Precise subject: Schinias Marathon National Park; Park excludes unrelated Marathon monuments.
+- Location check: 38.15, 24.04; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: [NECCA](https://necca.gov.gr/en/protected-areas-management-units/) — consulted 2026-11-25 for management unit and named national park context; independent material-claim and current visitor-condition verification outstanding.
+- Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Jiuzhaigou (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) (9.8 / 9.7 / 9.4 / 9.8 / 9.1) | world-leading natural landscape | Uniqueness lower: Distinct Attic coastal habitat mosaic; depth lower: Park excludes unrelated Marathon monuments. Provisional comparison. |
+| [Hohe Tauern (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) (9.4 / 9.1 / 9 / 9.5 / 9.4) | extensive mountain landscape | Uniqueness lower: Distinct Attic coastal habitat mosaic; depth lower: Park excludes unrelated Marathon monuments. Provisional comparison. |
+| [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (8.9 / 9 / 9 / 9.1 / 8.6) | protected habitat | Uniqueness lower: Distinct Attic coastal habitat mosaic; depth lower: Park excludes unrelated Marathon monuments. Provisional comparison. |
+| [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional natural park | Uniqueness lower: Distinct Attic coastal habitat mosaic; depth lower: Park excludes unrelated Marathon monuments. Provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| impact | — | 8.2 | Coastal pine forest marsh and beaches |
+| uniqueness | — | 8.5 | Distinct Attic coastal habitat mosaic |
+| significance | — | 8.6 | National conservation heritage |
+| experience | — | 8.6 | Permitted shore and wetland routes |
+| depth | — | 8.2 | Park excludes unrelated Marathon monuments |
+
+- Applicable category scores: nature: 9.0, beaches: 8.8, wildlife: 9.0.
+- Computed worldwide overall: 84.15/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial assessment: Distinct Attic coastal habitat mosaic; Park excludes unrelated Marathon monuments.
+- Earlier decision: none.
+- Verification still needed: independent factual evidence, admission and closer peer matching.
+
+## sight-gr-chelmos — Chelmos Vouraikos National Park — 2026-11-25
+
+- YAML: [source](../../../countries/GR/sights/chelmos.yaml)
+- Action: new
+- Precise subject: Chelmos Vouraikos National Park; Defined park.
+- Location check: 38.02, 22.14; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: [NECCA](https://necca.gov.gr/en/protected-areas-management-units/) — consulted 2026-11-25 for management unit and named national park context; independent material-claim and current visitor-condition verification outstanding.
+- Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Jiuzhaigou (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) (9.8 / 9.7 / 9.4 / 9.8 / 9.1) | world-leading natural landscape | Uniqueness lower: Distinct northern Peloponnese mountain relief; depth lower: Defined park. Provisional comparison. |
+| [Hohe Tauern (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) (9.4 / 9.1 / 9 / 9.5 / 9.4) | extensive mountain landscape | Uniqueness lower: Distinct northern Peloponnese mountain relief; depth lower: Defined park. Provisional comparison. |
+| [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (8.9 / 9 / 9 / 9.1 / 8.6) | protected habitat | Uniqueness lower: Distinct northern Peloponnese mountain relief; depth higher: Defined park. Provisional comparison. |
+| [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional natural park | Uniqueness lower: Distinct northern Peloponnese mountain relief; depth higher: Defined park. Provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| impact | — | 8.9 | High limestone peaks and deep gorge |
+| uniqueness | — | 8.9 | Distinct northern Peloponnese mountain relief |
+| significance | — | 8.7 | National geological and ecological heritage |
+| experience | — | 8.9 | Permitted trails and scenic rail experience |
+| depth | — | 9.0 | Defined park |
+
+- Applicable category scores: nature: 9.3, adventure: 9.1, photography: 9.2.
+- Computed worldwide overall: 88.70/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial assessment: Distinct northern Peloponnese mountain relief; Defined park.
+- Earlier decision: none.
+- Verification still needed: independent factual evidence, admission and closer peer matching.
+
+## sight-gr-strofilia — Kotychi Strofilia Wetlands National Park — 2026-11-25
+
+- YAML: [source](../../../countries/GR/sights/strofilia.yaml)
+- Action: new
+- Precise subject: Kotychi Strofilia Wetlands National Park; Defined park.
+- Location check: 38.07, 21.36; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: [NECCA](https://necca.gov.gr/en/protected-areas-management-units/) — consulted 2026-11-25 for management unit and named national park context; independent material-claim and current visitor-condition verification outstanding.
+- Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Jiuzhaigou (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) (9.8 / 9.7 / 9.4 / 9.8 / 9.1) | world-leading natural landscape | Uniqueness lower: Distinct Peloponnesian wetland mosaic; depth lower: Defined park. Provisional comparison. |
+| [Hohe Tauern (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) (9.4 / 9.1 / 9 / 9.5 / 9.4) | extensive mountain landscape | Uniqueness lower: Distinct Peloponnesian wetland mosaic; depth lower: Defined park. Provisional comparison. |
+| [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (8.9 / 9 / 9 / 9.1 / 8.6) | protected habitat | Uniqueness lower: Distinct Peloponnesian wetland mosaic; depth lower: Defined park. Provisional comparison. |
+| [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional natural park | Uniqueness lower: Distinct Peloponnesian wetland mosaic; depth lower: Defined park. Provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| impact | — | 8.4 | Coastal dunes pine forests and lagoons |
+| uniqueness | — | 8.7 | Distinct Peloponnesian wetland mosaic |
+| significance | — | 8.8 | International wetland conservation |
+| experience | — | 8.7 | Permitted forest and shore paths |
+| depth | — | 8.5 | Defined park |
+
+- Applicable category scores: nature: 9.2, wildlife: 9.2.
+- Computed worldwide overall: 86.10/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial assessment: Distinct Peloponnesian wetland mosaic; Defined park.
+- Earlier decision: none.
+- Verification still needed: independent factual evidence, admission and closer peer matching.
+
+## sight-gr-santorini-caldera — Santorini caldera and volcanic seascape — 2026-11-25
+
+- YAML: [source](../../../countries/GR/sights/santorini-caldera.yaml)
+- Action: new
+- Precise subject: Santorini caldera and volcanic seascape; Caldera landscape not whole island or individual town.
+- Location check: 36.404, 25.395; approximate representative point, independent verification pending.
+- Evidence status: **editorial-only**
+- Evidence: [Discover Greece](https://www.discovergreece.com/destinations) — consulted 2026-11-25 for broad tourism context only; independent material-claim and current visitor-condition verification outstanding.
+- Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Ha Long Bay (VN)](../../../countries/VN/sights/ha-long-bay.yaml) (9.8 / 9.9 / 9.7 / 9.8 / 9.6) | global seascape | Uniqueness lower: Distinct integrated volcanic island seascape; depth lower: Caldera landscape not whole island or individual town. Provisional comparison. |
+| [Phang Nga Bay (TH)](../../../countries/TH/sights/phang-nga-bay.yaml) (9.4 / 9.4 / 8.9 / 9.3 / 9.1) | dramatic coastal landforms | Uniqueness higher: Distinct integrated volcanic island seascape; depth higher: Caldera landscape not whole island or individual town. Provisional comparison. |
+| [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (8.9 / 9 / 9 / 9.1 / 8.6) | coastal habitat | Uniqueness higher: Distinct integrated volcanic island seascape; depth higher: Caldera landscape not whole island or individual town. Provisional comparison. |
+| [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional nature comparator, noncoastal | Uniqueness higher: Distinct integrated volcanic island seascape; depth higher: Caldera landscape not whole island or individual town. Provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| impact | — | 9.6 | Enormous sea-filled volcanic caldera and cliff settlements |
+| uniqueness | — | 9.5 | Distinct integrated volcanic island seascape |
+| significance | — | 9.0 | International volcanic and regional cultural heritage |
+| experience | — | 9.2 | Permitted viewpoints and boat trips |
+| depth | — | 9.2 | Caldera landscape not whole island or individual town |
+
+- Applicable category scores: nature: 9.6, photography: 9.7.
+- Computed worldwide overall: 93.55/100.
+- High-score challenge: impact 9.6: Enormous sea-filled volcanic caldera and cliff settlements; uniqueness 9.5: Distinct integrated volcanic island seascape; nature 9.6: Distinct integrated volcanic island seascape; photography 9.7: Enormous sea-filled volcanic caldera and cliff settlements. 90+ total: Enormous sea-filled volcanic caldera and cliff settlements; Distinct integrated volcanic island seascape; Caldera landscape not whole island or individual town. Compare Ha Long and Phang Nga: the defined coastal form supports scenic merit, but smaller visitor scope or restricted access constrains breadth..
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial assessment: Distinct integrated volcanic island seascape; Caldera landscape not whole island or individual town.
+- Earlier decision: none.
+- Verification still needed: independent factual evidence, admission and closer peer matching.
+
+## sight-gr-vikos — Vikos Gorge — 2026-11-25
+
+- YAML: [source](../../../countries/GR/sights/vikos.yaml)
+- Action: new
+- Precise subject: Vikos Gorge; Gorge not whole national park.
+- Location check: 39.91, 20.74; approximate representative point, independent verification pending.
+- Evidence status: **editorial-only**
+- Evidence: No destination-specific source inspected; editorial judgment.
+- Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Jiuzhaigou (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) (9.8 / 9.7 / 9.4 / 9.8 / 9.1) | world-leading natural landscape | Uniqueness lower: Distinct dramatic Pindos canyon; depth lower: Gorge not whole national park. Provisional comparison. |
+| [Hohe Tauern (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) (9.4 / 9.1 / 9 / 9.5 / 9.4) | extensive mountain landscape | Uniqueness lower: Distinct dramatic Pindos canyon; depth lower: Gorge not whole national park. Provisional comparison. |
+| [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (8.9 / 9 / 9 / 9.1 / 8.6) | protected habitat | Uniqueness similar: Distinct dramatic Pindos canyon; depth higher: Gorge not whole national park. Provisional comparison. |
+| [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional natural park | Uniqueness lower: Distinct dramatic Pindos canyon; depth higher: Gorge not whole national park. Provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| impact | — | 9.2 | Deep limestone gorge and steep forested cliffs |
+| uniqueness | — | 9.0 | Distinct dramatic Pindos canyon |
+| significance | — | 8.8 | Regional geological heritage |
+| experience | — | 8.9 | Permitted viewpoints and marked trails |
+| depth | — | 8.7 | Gorge not whole national park |
+
+- Applicable category scores: nature: 9.5, photography: 9.5, adventure: 9.2.
+- Computed worldwide overall: 89.75/100.
+- High-score challenge: nature 9.5: Distinct dramatic Pindos canyon; photography 9.5: Deep limestone gorge and steep forested cliffs. Compare Jiuzhaigou and Hohe Tauern: specific local landform and ecological qualities support the field; smaller scope and restrictions constrain depth..
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial assessment: Distinct dramatic Pindos canyon; Gorge not whole national park.
+- Earlier decision: none.
+- Verification still needed: independent factual evidence, admission and closer peer matching.
+
+## sight-gr-balos — Balos Lagoon — 2026-11-25
+
+- YAML: [source](../../../countries/GR/sights/balos.yaml)
+- Action: new
+- Precise subject: Balos Lagoon; One lagoon.
+- Location check: 35.58, 23.59; approximate representative point, independent verification pending.
+- Evidence status: **editorial-only**
+- Evidence: [Discover Greece](https://www.discovergreece.com/destinations) — consulted 2026-11-25 for broad tourism context only; independent material-claim and current visitor-condition verification outstanding.
+- Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Ha Long Bay (VN)](../../../countries/VN/sights/ha-long-bay.yaml) (9.8 / 9.9 / 9.7 / 9.8 / 9.6) | global seascape | Uniqueness lower: Distinct coastal sandbar and lagoon composition; depth lower: One lagoon. Provisional comparison. |
+| [Phang Nga Bay (TH)](../../../countries/TH/sights/phang-nga-bay.yaml) (9.4 / 9.4 / 8.9 / 9.3 / 9.1) | dramatic coastal landforms | Uniqueness lower: Distinct coastal sandbar and lagoon composition; depth lower: One lagoon. Provisional comparison. |
+| [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (8.9 / 9 / 9 / 9.1 / 8.6) | coastal habitat | Uniqueness similar: Distinct coastal sandbar and lagoon composition; depth lower: One lagoon. Provisional comparison. |
+| [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional nature comparator, noncoastal | Uniqueness lower: Distinct coastal sandbar and lagoon composition; depth lower: One lagoon. Provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| impact | — | 9.2 | Pale sand and shallow turquoise lagoon |
+| uniqueness | — | 9.0 | Distinct coastal sandbar and lagoon composition |
+| significance | — | 8.3 | Regional ecological heritage |
+| experience | — | 8.8 | Permitted boat or walking visits subject to limits |
+| depth | — | 7.9 | One lagoon |
+
+- Applicable category scores: beaches: 9.5, nature: 9.4, photography: 9.5.
+- Computed worldwide overall: 87.80/100.
+- High-score challenge: beaches 9.5: Permitted boat or walking visits subject to limits; photography 9.5: Pale sand and shallow turquoise lagoon. Compare Ha Long and Phang Nga: the defined coastal form supports scenic merit, but smaller visitor scope or restricted access constrains breadth..
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial assessment: Distinct coastal sandbar and lagoon composition; One lagoon.
+- Earlier decision: none.
+- Verification still needed: independent factual evidence, admission and closer peer matching.
+
+## sight-gr-elafonisi — Elafonisi coastal lagoon and beach — 2026-11-25
+
+- YAML: [source](../../../countries/GR/sights/elafonisi.yaml)
+- Action: new
+- Precise subject: Elafonisi coastal lagoon and beach; Immediate beach lagoon only.
+- Location check: 35.27, 23.54; approximate representative point, independent verification pending.
+- Evidence status: **editorial-only**
+- Evidence: No destination-specific source inspected; editorial judgment.
+- Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Ha Long Bay (VN)](../../../countries/VN/sights/ha-long-bay.yaml) (9.8 / 9.9 / 9.7 / 9.8 / 9.6) | global seascape | Uniqueness lower: Distinct protected coastal habitat and beach; depth lower: Immediate beach lagoon only. Provisional comparison. |
+| [Phang Nga Bay (TH)](../../../countries/TH/sights/phang-nga-bay.yaml) (9.4 / 9.4 / 8.9 / 9.3 / 9.1) | dramatic coastal landforms | Uniqueness lower: Distinct protected coastal habitat and beach; depth lower: Immediate beach lagoon only. Provisional comparison. |
+| [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (8.9 / 9 / 9 / 9.1 / 8.6) | coastal habitat | Uniqueness lower: Distinct protected coastal habitat and beach; depth lower: Immediate beach lagoon only. Provisional comparison. |
+| [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional nature comparator, noncoastal | Uniqueness lower: Distinct protected coastal habitat and beach; depth lower: Immediate beach lagoon only. Provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| impact | — | 9.0 | Shallow lagoon and pale sand coastal scenery |
+| uniqueness | — | 8.9 | Distinct protected coastal habitat and beach |
+| significance | — | 8.2 | Regional ecological heritage |
+| experience | — | 8.9 | Permitted beach access without assumed pink coloration |
+| depth | — | 7.7 | Immediate beach lagoon only |
+
+- Applicable category scores: beaches: 9.5, photography: 9.4.
+- Computed worldwide overall: 86.70/100.
+- High-score challenge: beaches 9.5: Permitted beach access without assumed pink coloration. Compare Ha Long and Phang Nga: the defined coastal form supports scenic merit, but smaller visitor scope or restricted access constrains breadth..
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial assessment: Distinct protected coastal habitat and beach; Immediate beach lagoon only.
+- Earlier decision: none.
+- Verification still needed: independent factual evidence, admission and closer peer matching.
+
+## sight-gr-navagio — Navagio Bay viewpoints — 2026-11-25
+
+- YAML: [source](../../../countries/GR/sights/navagio.yaml)
+- Action: new
+- Precise subject: Navagio Bay viewpoints; Viewpoint experience not beach access.
+- Location check: 37.86, 20.62; approximate representative point, independent verification pending.
+- Evidence status: **editorial-only**
+- Evidence: No destination-specific source inspected; editorial judgment.
+- Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Ha Long Bay (VN)](../../../countries/VN/sights/ha-long-bay.yaml) (9.8 / 9.9 / 9.7 / 9.8 / 9.6) | global seascape | Uniqueness lower: Distinct coastal amphitheater composition; depth lower: Viewpoint experience not beach access. Provisional comparison. |
+| [Phang Nga Bay (TH)](../../../countries/TH/sights/phang-nga-bay.yaml) (9.4 / 9.4 / 8.9 / 9.3 / 9.1) | dramatic coastal landforms | Uniqueness lower: Distinct coastal amphitheater composition; depth lower: Viewpoint experience not beach access. Provisional comparison. |
+| [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (8.9 / 9 / 9 / 9.1 / 8.6) | coastal habitat | Uniqueness higher: Distinct coastal amphitheater composition; depth lower: Viewpoint experience not beach access. Provisional comparison. |
+| [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional nature comparator, noncoastal | Uniqueness similar: Distinct coastal amphitheater composition; depth lower: Viewpoint experience not beach access. Provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| impact | — | 9.3 | Dramatic enclosed cliff bay and wreck setting |
+| uniqueness | — | 9.1 | Distinct coastal amphitheater composition |
+| significance | — | 8.2 | Regional geological and maritime interest |
+| experience | — | 8.3 | Exterior authorized viewpoints only, no beach landing assumption |
+| depth | — | 7.5 | Viewpoint experience not beach access |
+
+- Applicable category scores: photography: 9.6, nature: 9.3.
+- Computed worldwide overall: 87.00/100.
+- High-score challenge: photography 9.6: Dramatic enclosed cliff bay and wreck setting. Compare Ha Long and Phang Nga: the defined coastal form supports scenic merit, but smaller visitor scope or restricted access constrains breadth..
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial assessment: Distinct coastal amphitheater composition; Viewpoint experience not beach access.
+- Earlier decision: none.
+- Verification still needed: independent factual evidence, admission and closer peer matching.
+
+## sight-gr-acropolis-museum — Acropolis Museum — 2026-11-25
+
+- YAML: [source](../../../countries/GR/sights/acropolis-museum.yaml)
+- Action: new
+- Precise subject: Acropolis Museum; Museum not archaeological hill.
+- Location check: 37.969, 23.729; approximate representative point, independent verification pending.
+- Evidence status: **editorial-only**
+- Evidence: No destination-specific source inspected; editorial judgment.
+- Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Schönbrunn Palace (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (9.4 / 9.3 / 9.6 / 9.5 / 9.3) | major architectural ensemble | Uniqueness lower: Distinct concentrated Acropolis archaeological collection; depth lower: Museum not archaeological hill. Provisional comparison. |
+| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | coherent historic architecture | Uniqueness lower: Distinct concentrated Acropolis archaeological collection; depth lower: Museum not archaeological hill. Provisional comparison. |
+| [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | major heritage complex | Uniqueness higher: Distinct concentrated Acropolis archaeological collection; depth higher: Museum not archaeological hill. Provisional comparison. |
+| [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional heritage complex | Uniqueness higher: Distinct concentrated Acropolis archaeological collection; depth higher: Museum not archaeological hill. Provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| impact | — | 9.1 | Modern galleries and classical sculpture |
+| uniqueness | — | 9.2 | Distinct concentrated Acropolis archaeological collection |
+| significance | — | 9.5 | International classical art heritage |
+| experience | — | 9.2 | Managed public galleries |
+| depth | — | 9.0 | Museum not archaeological hill |
+
+- Applicable category scores: culture: 9.5, history: 9.6.
+- Computed worldwide overall: 92.10/100.
+- High-score challenge: significance 9.5: International classical art heritage; culture 9.5: International classical art heritage; history 9.6: International classical art heritage. 90+ total: Modern galleries and classical sculpture; Distinct concentrated Acropolis archaeological collection; Museum not archaeological hill. Compare Schönbrunn and Hoi An: the specific architectural or historical merit is distinct from visitor breadth; closer same-type peers remain necessary..
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial assessment: Distinct concentrated Acropolis archaeological collection; Museum not archaeological hill.
+- Earlier decision: none.
+- Verification still needed: independent factual evidence, admission and closer peer matching.
+
+## sight-gr-national-arch-museum — National Archaeological Museum Athens — 2026-11-25
+
+- YAML: [source](../../../countries/GR/sights/national-arch-museum.yaml)
+- Action: new
+- Precise subject: National Archaeological Museum Athens; Named museum only.
+- Location check: 37.989, 23.732; approximate representative point, independent verification pending.
+- Evidence status: **editorial-only**
+- Evidence: No destination-specific source inspected; editorial judgment.
+- Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Schönbrunn Palace (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (9.4 / 9.3 / 9.6 / 9.5 / 9.3) | major architectural ensemble | Uniqueness lower: Distinct concentration of material spanning Greek antiquity; depth lower: Named museum only. Provisional comparison. |
+| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | coherent historic architecture | Uniqueness lower: Distinct concentration of material spanning Greek antiquity; depth similar: Named museum only. Provisional comparison. |
+| [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | major heritage complex | Uniqueness higher: Distinct concentration of material spanning Greek antiquity; depth higher: Named museum only. Provisional comparison. |
+| [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional heritage complex | Uniqueness higher: Distinct concentration of material spanning Greek antiquity; depth higher: Named museum only. Provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| impact | — | 9.0 | Extensive ancient Greek archaeological collections |
+| uniqueness | — | 9.2 | Distinct concentration of material spanning Greek antiquity |
+| significance | — | 9.6 | International archaeological heritage |
+| experience | — | 9.0 | Managed museum galleries subject to closures |
+| depth | — | 9.2 | Named museum only |
+
+- Applicable category scores: history: 9.7, culture: 9.6.
+- Computed worldwide overall: 91.90/100.
+- High-score challenge: significance 9.6: International archaeological heritage; history 9.7: International archaeological heritage; culture 9.6: International archaeological heritage. 90+ total: Extensive ancient Greek archaeological collections; Distinct concentration of material spanning Greek antiquity; Named museum only. Compare Schönbrunn and Hoi An: the specific architectural or historical merit is distinct from visitor breadth; closer same-type peers remain necessary..
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial assessment: Distinct concentration of material spanning Greek antiquity; Named museum only.
+- Earlier decision: none.
+- Verification still needed: independent factual evidence, admission and closer peer matching.
+
+## sight-gr-akrotiri — Akrotiri archaeological site — 2026-11-25
+
+- YAML: [source](../../../countries/GR/sights/akrotiri.yaml)
+- Action: new
+- Precise subject: Akrotiri archaeological site; Named archaeological site.
+- Location check: 36.351, 25.402; approximate representative point, independent verification pending.
+- Evidence status: **editorial-only**
+- Evidence: No destination-specific source inspected; editorial judgment.
+- Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) (10 / 10 / 10 / 9.8 / 10) | global ancient monumental ensemble | Uniqueness lower: Distinct preserved volcanic burial settlement; depth lower: Named archaeological site. Provisional comparison. |
+| [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) (9.6 / 9.5 / 9.8 / 9.4 / 9.5) | ancient royal-city ruins | Uniqueness lower: Distinct preserved volcanic burial settlement; depth lower: Named archaeological site. Provisional comparison. |
+| [Gyeongju Historic Areas (KR)](../../../countries/KR/sights/gyeongju-historic-areas.yaml) (9.5 / 9.6 / 9.8 / 9.5 / 9.8) | extensive archaeological heritage | Uniqueness lower: Distinct preserved volcanic burial settlement; depth lower: Named archaeological site. Provisional comparison. |
+| [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | smaller historic complex, scope floor | Uniqueness higher: Distinct preserved volcanic burial settlement; depth higher: Named archaeological site. Provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| impact | — | 8.9 | Covered Bronze Age urban ruins |
+| uniqueness | — | 9.3 | Distinct preserved volcanic burial settlement |
+| significance | — | 9.4 | International Aegean archaeological heritage |
+| experience | — | 8.9 | Managed covered archaeological circuit |
+| depth | — | 8.7 | Named archaeological site |
+
+- Applicable category scores: history: 9.5, culture: 9.3.
+- Computed worldwide overall: 90.80/100.
+- High-score challenge: history 9.5: International Aegean archaeological heritage. 90+ total: Covered Bronze Age urban ruins; Distinct preserved volcanic burial settlement; Named archaeological site. Compare Angkor and Ayutthaya: this original archaeological evidence and defined site breadth support the stated field, without inheriting the full scope of a global monumental park..
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial assessment: Distinct preserved volcanic burial settlement; Named archaeological site.
+- Earlier decision: none.
+- Verification still needed: independent factual evidence, admission and closer peer matching.
+
+## sight-gr-lindos — Acropolis of Lindos — 2026-11-25
+
+- YAML: [source](../../../countries/GR/sights/lindos.yaml)
+- Action: new
+- Precise subject: Acropolis of Lindos; Hilltop site not town or beach.
+- Location check: 36.092, 28.088; approximate representative point, independent verification pending.
+- Evidence status: **editorial-only**
+- Evidence: No destination-specific source inspected; editorial judgment.
+- Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) (10 / 10 / 10 / 9.8 / 10) | global ancient monumental ensemble | Uniqueness lower: Distinct layered coastal citadel setting; depth lower: Hilltop site not town or beach. Provisional comparison. |
+| [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) (9.6 / 9.5 / 9.8 / 9.4 / 9.5) | ancient royal-city ruins | Uniqueness lower: Distinct layered coastal citadel setting; depth lower: Hilltop site not town or beach. Provisional comparison. |
+| [Gyeongju Historic Areas (KR)](../../../countries/KR/sights/gyeongju-historic-areas.yaml) (9.5 / 9.6 / 9.8 / 9.5 / 9.8) | extensive archaeological heritage | Uniqueness lower: Distinct layered coastal citadel setting; depth lower: Hilltop site not town or beach. Provisional comparison. |
+| [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | smaller historic complex, scope floor | Uniqueness higher: Distinct layered coastal citadel setting; depth lower: Hilltop site not town or beach. Provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| impact | — | 9.0 | Ancient temple ruins on fortified coastal hill |
+| uniqueness | — | 9.0 | Distinct layered coastal citadel setting |
+| significance | — | 9.1 | International classical and regional defensive heritage |
+| experience | — | 8.9 | Managed archaeological routes |
+| depth | — | 8.3 | Hilltop site not town or beach |
+
+- Applicable category scores: architecture: 9.3, history: 9.3, photography: 9.4.
+- Computed worldwide overall: 89.35/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial assessment: Distinct layered coastal citadel setting; Hilltop site not town or beach.
+- Earlier decision: none.
+- Verification still needed: independent factual evidence, admission and closer peer matching.
+
+## sight-gr-sounion — Temple of Poseidon at Cape Sounion — 2026-11-25
+
+- YAML: [source](../../../countries/GR/sights/sounion.yaml)
+- Action: new
+- Precise subject: Temple of Poseidon at Cape Sounion; One temple precinct.
+- Location check: 37.651, 24.025; approximate representative point, independent verification pending.
+- Evidence status: **editorial-only**
+- Evidence: No destination-specific source inspected; editorial judgment.
+- Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Schönbrunn Palace (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (9.4 / 9.3 / 9.6 / 9.5 / 9.3) | major architectural ensemble | Uniqueness lower: Distinct coastal sanctuary setting; depth lower: One temple precinct. Provisional comparison. |
+| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | coherent historic architecture | Uniqueness lower: Distinct coastal sanctuary setting; depth lower: One temple precinct. Provisional comparison. |
+| [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | major heritage complex | Uniqueness lower: Distinct coastal sanctuary setting; depth lower: One temple precinct. Provisional comparison. |
+| [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional heritage complex | Uniqueness higher: Distinct coastal sanctuary setting; depth lower: One temple precinct. Provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| impact | — | 8.9 | Classical temple columns above sea cliffs |
+| uniqueness | — | 9.0 | Distinct coastal sanctuary setting |
+| significance | — | 9.1 | International Greek architectural heritage |
+| experience | — | 8.8 | Managed site and authorized viewpoints |
+| depth | — | 7.9 | One temple precinct |
+
+- Applicable category scores: architecture: 9.3, history: 9.3, photography: 9.4.
+- Computed worldwide overall: 88.50/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial assessment: Distinct coastal sanctuary setting; One temple precinct.
+- Earlier decision: none.
+- Verification still needed: independent factual evidence, admission and closer peer matching.
+
+## sight-gr-mycenae — Mycenae archaeological citadel and tombs — 2026-11-25
+
+- YAML: [source](../../../countries/GR/sights/mycenae.yaml)
+- Action: new
+- Precise subject: Mycenae archaeological citadel and tombs; Mycenae only not Tiryns.
+- Location check: 37.731, 22.756; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO](https://whc.unesco.org/en/statesparties/gr) — consulted 2026-11-25 for property identity and listed status; independent material-claim and current visitor-condition verification outstanding.
+- Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) (10 / 10 / 10 / 9.8 / 10) | global ancient monumental ensemble | Uniqueness lower: Distinct major Bronze Age royal center; depth lower: Mycenae only not Tiryns. Provisional comparison. |
+| [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) (9.6 / 9.5 / 9.8 / 9.4 / 9.5) | ancient royal-city ruins | Uniqueness lower: Distinct major Bronze Age royal center; depth lower: Mycenae only not Tiryns. Provisional comparison. |
+| [Gyeongju Historic Areas (KR)](../../../countries/KR/sights/gyeongju-historic-areas.yaml) (9.5 / 9.6 / 9.8 / 9.5 / 9.8) | extensive archaeological heritage | Uniqueness lower: Distinct major Bronze Age royal center; depth lower: Mycenae only not Tiryns. Provisional comparison. |
+| [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | smaller historic complex, scope floor | Uniqueness higher: Distinct major Bronze Age royal center; depth higher: Mycenae only not Tiryns. Provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| impact | — | 9.1 | Monumental gateway walls and tholos tombs |
+| uniqueness | — | 9.3 | Distinct major Bronze Age royal center |
+| significance | — | 9.5 | International Mycenaean archaeological heritage |
+| experience | — | 8.9 | Managed archaeological route |
+| depth | — | 8.8 | Mycenae only not Tiryns |
+
+- Applicable category scores: history: 9.6, architecture: 9.5.
+- Computed worldwide overall: 91.70/100.
+- High-score challenge: significance 9.5: International Mycenaean archaeological heritage; history 9.6: International Mycenaean archaeological heritage; architecture 9.5: Monumental gateway walls and tholos tombs. 90+ total: Monumental gateway walls and tholos tombs; Distinct major Bronze Age royal center; Mycenae only not Tiryns. Compare Angkor and Ayutthaya: this original archaeological evidence and defined site breadth support the stated field, without inheriting the full scope of a global monumental park..
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial assessment: Distinct major Bronze Age royal center; Mycenae only not Tiryns.
+- Earlier decision: none.
+- Verification still needed: independent factual evidence, admission and closer peer matching.
+
+## sight-gr-tiryns — Tiryns archaeological citadel — 2026-11-25
+
+- YAML: [source](../../../countries/GR/sights/tiryns.yaml)
+- Action: new
+- Precise subject: Tiryns archaeological citadel; Tiryns only.
+- Location check: 37.599, 22.8; approximate representative point, independent verification pending.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO](https://whc.unesco.org/en/statesparties/gr) — consulted 2026-11-25 for property identity and listed status; independent material-claim and current visitor-condition verification outstanding.
+- Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) (10 / 10 / 10 / 9.8 / 10) | global ancient monumental ensemble | Uniqueness lower: Distinct Bronze Age fortified palace engineering; depth lower: Tiryns only. Provisional comparison. |
+| [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) (9.6 / 9.5 / 9.8 / 9.4 / 9.5) | ancient royal-city ruins | Uniqueness lower: Distinct Bronze Age fortified palace engineering; depth lower: Tiryns only. Provisional comparison. |
+| [Gyeongju Historic Areas (KR)](../../../countries/KR/sights/gyeongju-historic-areas.yaml) (9.5 / 9.6 / 9.8 / 9.5 / 9.8) | extensive archaeological heritage | Uniqueness lower: Distinct Bronze Age fortified palace engineering; depth lower: Tiryns only. Provisional comparison. |
+| [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | smaller historic complex, scope floor | Uniqueness higher: Distinct Bronze Age fortified palace engineering; depth lower: Tiryns only. Provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| impact | — | 8.5 | Massive surviving Cyclopean walls |
+| uniqueness | — | 9.0 | Distinct Bronze Age fortified palace engineering |
+| significance | — | 9.3 | International Mycenaean heritage |
+| experience | — | 8.5 | Managed archaeological grounds |
+| depth | — | 8.1 | Tiryns only |
+
+- Applicable category scores: history: 9.4, architecture: 9.2.
+- Computed worldwide overall: 87.45/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial assessment: Distinct Bronze Age fortified palace engineering; Tiryns only.
+- Earlier decision: none.
+- Verification still needed: independent factual evidence, admission and closer peer matching.
+
+## sight-gr-ancient-agora — Ancient Agora of Athens — 2026-11-25
+
+- YAML: [source](../../../countries/GR/sights/ancient-agora.yaml)
+- Action: new
+- Precise subject: Ancient Agora of Athens; Named Agora site.
+- Location check: 37.975, 23.722; approximate representative point, independent verification pending.
+- Evidence status: **editorial-only**
+- Evidence: No destination-specific source inspected; editorial judgment.
+- Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
+
+#### Worldwide peer comparisons
+| Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) (10 / 10 / 10 / 9.8 / 10) | global ancient monumental ensemble | Uniqueness lower: Distinct classical Athenian civic center; depth lower: Named Agora site. Provisional comparison. |
+| [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) (9.6 / 9.5 / 9.8 / 9.4 / 9.5) | ancient royal-city ruins | Uniqueness lower: Distinct classical Athenian civic center; depth lower: Named Agora site. Provisional comparison. |
+| [Gyeongju Historic Areas (KR)](../../../countries/KR/sights/gyeongju-historic-areas.yaml) (9.5 / 9.6 / 9.8 / 9.5 / 9.8) | extensive archaeological heritage | Uniqueness lower: Distinct classical Athenian civic center; depth lower: Named Agora site. Provisional comparison. |
+| [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | smaller historic complex, scope floor | Uniqueness higher: Distinct classical Athenian civic center; depth higher: Named Agora site. Provisional comparison. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| impact | — | 9.0 | Ancient civic remains and preserved temple |
+| uniqueness | — | 9.2 | Distinct classical Athenian civic center |
+| significance | — | 9.6 | International political and intellectual heritage |
+| experience | — | 9.0 | Managed archaeological paths and museum |
+| depth | — | 8.8 | Named Agora site |
+
+- Applicable category scores: history: 9.7, architecture: 9.4.
+- Computed worldwide overall: 91.50/100.
+- High-score challenge: significance 9.6: International political and intellectual heritage; history 9.7: International political and intellectual heritage. 90+ total: Ancient civic remains and preserved temple; Distinct classical Athenian civic center; Named Agora site. Compare Angkor and Ayutthaya: this original archaeological evidence and defined site breadth support the stated field, without inheriting the full scope of a global monumental park..
+- Approved 10 registry: none.
+- Final decision: Scope-limited editorial assessment: Distinct classical Athenian civic center; Named Agora site.
+- Earlier decision: none.
+- Verification still needed: independent factual evidence, admission and closer peer matching.

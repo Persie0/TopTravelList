@@ -1,0 +1,15 @@
+id: sight-gr-parnassos
+name: "Parnassos National Park"
+location:
+  country_code: GR
+  latitude: 38.56
+  longitude: 22.57
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 8.6
+  experience: 8.8
+  depth: 8.8
+  categories:
+    nature: 9.2
+    adventure: 9.0
