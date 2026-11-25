@@ -1,0 +1,16 @@
+id: sight-xk-sinan-pasha-mosque
+name: "Sinan Pasha Mosque"
+location:
+  country_code: XK
+  latitude: 42.2097
+  longitude: 20.7411
+scores:
+  impact: 8.4
+  uniqueness: 8.6
+  significance: 8.8
+  experience: 8.4
+  depth: 7.5
+  categories:
+    architecture: 9.1
+    history: 9.0
+    culture: 8.9
