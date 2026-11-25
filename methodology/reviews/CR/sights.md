@@ -1179,3 +1179,48 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: No checked per-record source; editorial only.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, visitor access, individual peer and category calibration.
+
+## Follow-up: sight-cr-monteverde-cloud-forest-biological-reserve — 2026-11-25 (worldwide review)
+
+- [YAML](../../../countries/CR/sights/monteverde-cloud-forest-biological-reserve.yaml) · Action: rescore · **source-linked-unverified**; specific scope inspected, not complete independent verification.
+- Sources inspected: [https://cloudforestmonteverde.com/visit-the-preserve/](https://cloudforestmonteverde.com/visit-the-preserve/); [https://cloudforestmonteverde.com/how-we-operate/](https://cloudforestmonteverde.com/how-we-operate/).
+- Decision: The preserve operator lists marked circuits of approximately one to 2.5 hours, including the 4.1 km Continental Divide route, plus guided day and night walks. Retain cloud-forest rarity, conservation and encounter quality, but reduce depth to 8.5 for the named preserve, excluding adjacent reserves, commercial canopy attractions and research-only areas.
+- I/U/S/E/D: 9.2 / 9.3 / 9.4 / 9.3 / 9.1 → 9.2 / 9.3 / 9.4 / 9.3 / 8.5; overall 92.70 → 92.10/100. Categories/GPS retained, no multiplier or new perfect score.
+
+| Current worldwide peer | I/U/S/E/D | Overall /100 | Comparison |
+| --- | --- | --- | --- |
+| [khao sok national park (TH)](../../../countries/TH/sights/khao-sok-national-park.yaml) | 9.4 / 9.4 / 9.1 / 9.4 / 9.3 | 93.30 | Broad tropical forest and lake routes; strong multi-activity benchmark. |
+| [cockscomb basin wildlife sanctuary (BZ)](../../../countries/BZ/sights/cockscomb-basin-wildlife-sanctuary.yaml) | 8.7 / 8.8 / 9.1 / 8.8 / 9.0 | 88.50 | Established forest hiking routes; less distinct habitat. |
+| [iwokrama rainforest (GY)](../../../countries/GY/sights/iwokrama-rainforest.yaml) | 8.9 / 8.8 / 9.2 / 8.7 / 9.0 | 89.15 | Multi-route rainforest interpretation. |
+| [cuyabeno wildlife reserve (EC)](../../../countries/EC/sights/cuyabeno-wildlife-reserve.yaml) | 8.9 / 8.9 / 9.0 / 8.9 / 8.8 | 89.10 | Guided forest and river wildlife circuits. |
+
+
+## Follow-up: sight-cr-corcovado-national-park — 2026-11-25 (worldwide review)
+
+- [YAML](../../../countries/CR/sights/corcovado-national-park.yaml) · Action: fact-check-only · **source-linked-unverified**; specific scope inspected, not complete independent verification.
+- Sources inspected: [https://www.sinac.go.cr/EN-US/ac/acosa/pnc/Pages/default.aspx](https://www.sinac.go.cr/EN-US/ac/acosa/pnc/Pages/default.aspx); [https://www.visitcostarica.com/where-to-go/protected-areas/corcovado-national-park](https://www.visitcostarica.com/where-to-go/protected-areas/corcovado-national-park).
+- Decision: SINAC documents several distinct visitor sectors and overnight opportunities. Retain the high depth provisionally for meaningful multi-day trails, not unrestricted access or geographic size. Exceptional nature and wildlife ratings are editorial, not guaranteed encounters.
+- I/U/S/E/D: 9.5 / 9.5 / 9.6 / 9.4 / 9.5 → 9.5 / 9.5 / 9.6 / 9.4 / 9.5; overall 95.05 → 95.05/100. Categories/GPS retained, no multiplier or new perfect score.
+
+| Current worldwide peer | I/U/S/E/D | Overall /100 | Comparison |
+| --- | --- | --- | --- |
+| [khao sok national park (TH)](../../../countries/TH/sights/khao-sok-national-park.yaml) | 9.4 / 9.4 / 9.1 / 9.4 / 9.3 | 93.30 | Broad tropical forest and lake routes; strong multi-activity benchmark. |
+| [cockscomb basin wildlife sanctuary (BZ)](../../../countries/BZ/sights/cockscomb-basin-wildlife-sanctuary.yaml) | 8.7 / 8.8 / 9.1 / 8.8 / 9.0 | 88.50 | Established forest hiking routes; less distinct habitat. |
+| [iwokrama rainforest (GY)](../../../countries/GY/sights/iwokrama-rainforest.yaml) | 8.9 / 8.8 / 9.2 / 8.7 / 9.0 | 89.15 | Multi-route rainforest interpretation. |
+| [cuyabeno wildlife reserve (EC)](../../../countries/EC/sights/cuyabeno-wildlife-reserve.yaml) | 8.9 / 8.9 / 9.0 / 8.9 / 8.8 | 89.10 | Guided forest and river wildlife circuits. |
+
+
+## Follow-up: sight-cr-tortuguero-national-park — 2026-11-25 (worldwide review)
+
+- [YAML](../../../countries/CR/sights/tortuguero-national-park.yaml) · Action: fact-check-only · **source-linked-unverified**; specific scope inspected, not complete independent verification.
+- Sources inspected: [https://www.sinac.go.cr/EN-US/ac/acto/pnt/pages/default.aspx](https://www.sinac.go.cr/EN-US/ac/acto/pnt/pages/default.aspx); [https://www.sinac.go.cr/EN-US/ac/acto/bdc/Pages/default.aspx](https://www.sinac.go.cr/EN-US/ac/acto/bdc/Pages/default.aspx).
+- Decision: SINAC identifies several canal routes and a coastal walking trail, with seasonal nesting visits. Retain depth for varied water and land exploration, excluding the separately managed Cerro Tortuguero refuge. No guaranteed wildlife encounters.
+- I/U/S/E/D: 9.3 / 9.3 / 9.4 / 9.3 / 9.2 → 9.3 / 9.3 / 9.4 / 9.3 / 9.2; overall 93.10 → 93.10/100. Categories/GPS retained, no multiplier or new perfect score.
+
+| Current worldwide peer | I/U/S/E/D | Overall /100 | Comparison |
+| --- | --- | --- | --- |
+| [khao sok national park (TH)](../../../countries/TH/sights/khao-sok-national-park.yaml) | 9.4 / 9.4 / 9.1 / 9.4 / 9.3 | 93.30 | Broad tropical forest and lake routes; strong multi-activity benchmark. |
+| [cockscomb basin wildlife sanctuary (BZ)](../../../countries/BZ/sights/cockscomb-basin-wildlife-sanctuary.yaml) | 8.7 / 8.8 / 9.1 / 8.8 / 9.0 | 88.50 | Established forest hiking routes; less distinct habitat. |
+| [iwokrama rainforest (GY)](../../../countries/GY/sights/iwokrama-rainforest.yaml) | 8.9 / 8.8 / 9.2 / 8.7 / 9.0 | 89.15 | Multi-route rainforest interpretation. |
+| [cuyabeno wildlife reserve (EC)](../../../countries/EC/sights/cuyabeno-wildlife-reserve.yaml) | 8.9 / 8.9 / 9.0 / 8.9 / 8.8 | 89.10 | Guided forest and river wildlife circuits. |
+
