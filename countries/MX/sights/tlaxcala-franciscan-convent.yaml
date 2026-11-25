@@ -1,0 +1,16 @@
+id: sight-mx-tlaxcala-franciscan-convent
+name: "Franciscan Convent and Cathedral of Tlaxcala"
+location:
+  country_code: MX
+  latitude: 19.313983
+  longitude: -98.237658
+scores:
+  impact: 8.4
+  uniqueness: 8.6
+  significance: 9.0
+  experience: 8.4
+  depth: 8.1
+  categories:
+    architecture: 9.1
+    history: 9.2
+    culture: 9.0
