@@ -2,7 +2,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import {fileURLToPath} from 'node:url';
 import {parse} from 'yaml';
-import {overall} from './model.mjs';
+import {overall} from './overall.mjs';
 const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'../..');
 const web=path.join(root,'web');
 const read=p=>JSON.parse(fs.readFileSync(p,'utf8'));

@@ -2,7 +2,7 @@ import L from 'leaflet';
 import 'leaflet/dist/leaflet.css';
 import {feature} from 'topojson-client';
 import world from 'world-atlas/countries-110m.json';
-import {ranked,match,value,eligible,groupPoints,distribution} from '../scripts/model.mjs';
+import {ranked,match,value,eligible,groupPoints,distribution,normalize,wrappedLocations,scoreBins} from '../scripts/model.mjs';
 import './style.css';
 const repo='https://github.com/Persie0/TopTravelList/blob/main/';
 const $=id=>document.getElementById(id);
@@ -12,18 +12,18 @@ const format=(v,metric)=>v===null?'—':v.toFixed(metric==='overall'?2:1);
 const color=(v,metric)=>v===null?'#9aa6a2':(metric==='overall'?v:v*10)>=90?'#b55a26':(metric==='overall'?v:v*10)>=80?'#d69b3d':(metric==='overall'?v:v*10)>=65?'#197b70':'#648c99';
 const initial=new URLSearchParams(location.search);
 const state={country:initial.get('country')||'',region:initial.get('region')||'',kind:initial.get('kind')==='all'?'':initial.get('kind')||'',metric:initial.get('metric')||'overall',query:initial.get('q')||'',min:Number(initial.get('min'))||0,unranked:initial.get('unranked')!=='0',view:initial.get('view')||'map',mode:initial.get('mode')||'places',sort:initial.get('sort')==='name'?'name':'score',limit:50,top:[25,100,250].includes(Number(initial.get('top')))?Number(initial.get('top')):0,display:initial.get('display')==='density'?'density':'rank',basemap:initial.get('basemap')==='outline'?'outline':'street'};
-let data,map,layer,polygons,centers,tiles,selected=null,visible=[],markers=new Map(),points=[],scopeKey='',scope=[],countries=[],byNumber,searchTimer,mapFrame=0,polygonKey='',page=0;
+let data,map,layer,polygons,centers,tiles,selectionLayer,selected=null,visible=[],markers=new Map(),points=[],scopeKey='',scope=[],countries=[],byNumber,searchTimer,mapFrame=0,polygonKey='',page=0;
 const flag=code=>code.replace(/[A-Z]/g,c=>String.fromCodePoint(127397+c.charCodeAt(0)));
 function opts(items){return items.map(([v,t])=>'<option value="'+esc(v)+'">'+esc(t)+'</option>').join('')}
 function sync(){const p=new URLSearchParams();for(const [k,v] of Object.entries({country:state.country,region:state.region,kind:state.kind||'all',sort:state.sort,top:state.top,display:state.display,basemap:state.basemap,metric:state.metric,q:state.query,min:state.min,unranked:state.unranked?'1':'0',view:state.view,mode:state.mode}))if(v!==''&&v!==0)p.set(k,v);history.replaceState(null,'','?'+p);}
 function chooseCountry(code){state.country=code;state.region='';state.query='';state.mode='places';state.limit=50;selected=null;render(true)}
 function scoreText(r){return format(value(r,state.metric),state.metric)}
 function mount(){
- const n=Object.values(data.countries).filter(c=>c.cities&&c.sights).length;
+ const n=Object.values(data.countries).filter(c=>c.cities||c.sights).length;
  $('app').innerHTML='<header><a class="brand" href="./"><span class="brandmark">◎</span><span>TopTravelList<small>THE TRAVEL ATLAS</small></span></a><nav><a href="'+repo+'rules.md" target="_blank" rel="noopener">Methodology ↗</a><a href="https://github.com/Persie0/TopTravelList" target="_blank" rel="noopener">GitHub ↗</a></nav></header><main><section class="intro"><div><div class="eyebrow">A WORLDWIDE TRAVEL INDEX</div><h1>Find your next <em>extraordinary</em> place.</h1><p>Explore destinations geographically or compare their worldwide editorial scores.</p></div><div class="stats"><div><b>'+Object.keys(data.countries).length+'</b><span>Countries in index</span></div><div><b>'+n+'</b><span>Catalogued countries</span></div><div><b>'+data.rows.length.toLocaleString()+'</b><span>Destinations</span></div></div></section><section class="workspace"><div class="toolbar"><div class="tabs" aria-label="Browse mode"><button id="places">Destinations</button><button id="countries">Countries</button></div><div class="tabs" aria-label="View"><button id="mapView">Map + list</button><button id="listView">List only</button></div></div><div class="filters"><label class="search">Search<input id="query" type="search" placeholder="Search places or countries…"></label><label>Region<select id="region">'+opts([['','All regions'],...Array.from(new Set(Object.values(data.countries).map(c=>c.region))).sort().map(x=>[x,x])])+'</select></label><label>Country<select id="country"></select></label><div id="placeFilters" class="placefilters"><label>Type<select id="kind">'+opts([['','Cities + sights'],['sights','Sights only'],['cities','Cities only']])+'</select></label><label>Rank by<select id="metric">'+opts([['overall','Overall'],...data.categories.map(x=>[x,title(x)]),...Object.keys(data.dimensions).map(x=>[x,title(x)+' (dimension)'])])+'</select></label><label>Minimum score<input id="min" type="number" min="0" max="100" step="1"></label><label>Map points<select id="top">'+opts([['0','All matches'],['25','Top 25'],['100','Top 100'],['250','Top 250']])+'</select></label><label class="check"><input id="unranked" type="checkbox"> Include unassessed</label></div><button id="reset" class="quiet">Reset filters</button></div><div class="content" id="content"><section class="mapframe" id="mapframe"><div id="map" aria-label="Interactive destination map"></div><div class="maptools"><div class="mapactions"><button id="fit">Fit results</button><label><span class="sr">Map visualization</span><select id="display"><option value="rank">Ranked markers</option><option value="density">Density bubbles</option></select></label><label><span class="sr">Basemap</span><select id="basemap"><option value="street">Street map</option><option value="outline">Atlas outline</option></select></label></div><div id="legend"></div></div><div id="mapnote" class="mapnote"></div></section><section class="results" aria-label="Results"><div class="resultshead"><div><div class="eyebrow" id="scope"></div><h2 id="resultTitle">Explore</h2><p id="count" aria-live="polite"></p></div><label>Sort<select id="sort">'+opts([['score','Highest score'],['name','Name A–Z']])+'</select></label></div><div id="insights" class="insights"></div><div id="rows" class="rows"></div><div class="pager"><button id="prev" class="more">Previous</button><span id="pageStatus"></span><button id="more" class="more">Next</button></div></section></div><aside id="detail" hidden></aside></section><footer>Worldwide scoring v'+data.version+' · Provisional editorial ratings, not objective facts. Map locations are representative, not necessarily entrances. Ratings do not guarantee access or safety. <a href="'+repo+'README.md" target="_blank" rel="noopener">Data & advisories ↗</a></footer></main>';
- map=L.map('map',{preferCanvas:true,worldCopyJump:true,minZoom:2,maxZoom:19}).setView([22,16],2);
+ map=L.map('map',{preferCanvas:true,worldCopyJump:true,minZoom:2,maxZoom:19,maxBounds:[[-85,-540],[85,540]],maxBoundsViscosity:.4}).setView([22,16],2);
  tiles=L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:19,keepBuffer:1,updateWhenIdle:true,attribution:'&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'});
- layer=L.layerGroup().addTo(map);centers=L.layerGroup().addTo(map);
+ layer=L.layerGroup().addTo(map);centers=L.layerGroup().addTo(map);selectionLayer=L.layerGroup().addTo(map);
  countries=Object.values(data.countries).sort((a,b)=>a.name.localeCompare(b.name,'en'));$('country').innerHTML=opts([['','All countries'],...countries.map(c=>[c.code,c.name+(c.cities||c.sights?'':' · not catalogued')])]);
  byNumber=new Map(Object.values(data.countries).filter(c=>c.numeric).map(c=>[String(Number(c.numeric)),c.code]));
  polygons=L.geoJSON(feature(world,world.objects.countries),{style:f=>({weight:0.7,color:'#6d8c85',fillColor:'#e5e7dc',fillOpacity:.2}),onEachFeature:(f,l)=>{let code=byNumber.get(String(Number(f.id)));if(!code&&f.properties?.name==='Kosovo')code='XK';if(code){l.countryCode=code;l.on('click',()=>chooseCountry(code));l.bindTooltip(esc(data.countries[code].name));}}}).addTo(map);
@@ -38,27 +38,29 @@ function mount(){
  $('listView').onclick=()=>{state.view='list';render(false)};
  $('fit').onclick=fit;
  $('more').onclick=()=>{page++;renderList();$('rows').scrollTop=0};$('prev').onclick=()=>{page=Math.max(0,page-1);renderList();$('rows').scrollTop=0};
- $('reset').onclick=()=>{Object.assign(state,{country:'',region:'',kind:'',metric:'overall',query:'',min:0,unranked:true,mode:'places',sort:'score',top:0,limit:50});selected=null;render(true)};
+ $('reset').onclick=()=>{Object.assign(state,{country:'',region:'',kind:'',metric:'overall',query:'',min:0,unranked:true,mode:'places',sort:'score',top:0,display:'rank',basemap:'street',limit:50});selected=null;render(true)};
  if(!['overall',...data.categories,...Object.keys(data.dimensions)].includes(state.metric))state.metric='overall';
  if(!['cities','sights',''].includes(state.kind))state.kind='';
- if(!data.countries[state.country])state.country='';
+ if(!Object.hasOwn(data.countries,state.country))state.country='';
+ if(!countries.some(c=>c.region===state.region))state.region='';if(state.country)state.region='';
  if(!['map','list'].includes(state.view))state.view='map';
  if(!['places','countries'].includes(state.mode))state.mode='places';
  state.min=Math.max(0,Math.min(state.metric==='overall'?100:10,state.min));
  render(true);
 }
-function countryMatches(){const q=state.query.toLowerCase().trim();return Object.values(data.countries).filter(c=>(!state.region||c.region===state.region)&&(!q||(c.name+' '+c.code).toLowerCase().includes(q))).sort((a,b)=>a.name.localeCompare(b.name,'en'))}
+function countryMatches(){const q=normalize(state.query).trim();return countries.filter(c=>(!state.region||c.region===state.region)&&(!q||normalize(c.name+' '+c.code).includes(q)))}
 function render(shouldFit){
- page=0;
+ clearTimeout(searchTimer);page=0;map.closePopup();$('rows').scrollTop=0;
  for(const id of ['country','region','kind','metric','query','sort','top','min'])$(id).value=state[id];
  $('min').max=state.metric==='overall'?100:10;$('min').step=state.metric==='overall'?1:.1;$('unranked').checked=state.unranked;
  $('placeFilters').hidden=state.mode==='countries';$('country').disabled=state.mode==='countries';$('sort').disabled=state.mode==='countries';
  for(const [id,on] of [['places',state.mode==='places'],['countries',state.mode==='countries'],['mapView',state.view==='map'],['listView',state.view==='list']]){$(id).classList.toggle('active',on);$(id).setAttribute('aria-pressed',String(on))}
  $('mapframe').hidden=state.view==='list';$('content').classList.toggle('listmode',state.view==='list');
  // Rank inside the selected geographic and kind scope, before search or minimum filters.
+ if(state.mode==='countries'){visible=[];points=[];selected=null;}else{
  const key=JSON.stringify([state.country,state.region,state.kind,state.metric]);if(key!==scopeKey){scopeKey=key;scope=ranked(eligible(match(data.rows,{country:state.country,region:state.region,kind:state.kind},data.countries),state.metric,data.categories),state.metric)}
  visible=match(scope,state,data.countries);points=state.top?visible.filter(r=>r.rank!==null).slice(0,state.top):visible;if(selected)selected=visible.find(r=>r.id===selected.id)||null;
- if(state.sort==='name')visible=[...visible].sort((a,b)=>a.name.localeCompare(b.name,'en'));
+ if(state.sort==='name')visible=[...visible].sort((a,b)=>a.name.localeCompare(b.name,'en'));}
  renderInsights();renderList();renderMap();renderDetail();sync();
  if(shouldFit&&state.view==='map')requestAnimationFrame(()=>{map.invalidateSize();fit()});
 }
@@ -76,21 +78,21 @@ function renderList(){
 
 function renderInsights(){
  const el=$('insights');el.hidden=state.mode==='countries';if(el.hidden)return;
- const d=distribution(visible,state.metric), total=visible.length, max=Math.max(1,...d.bins);
- el.innerHTML='<div class="insighttop"><span><i class="citykey"></i> <b>'+d.cities.toLocaleString()+'</b> cities</span><span><i class="sightkey"></i> <b>'+d.sights.toLocaleString()+'</b> sights</span><span><b>'+d.ranked.toLocaleString()+'</b> ranked</span></div><div class="hist" role="img" aria-label="'+esc(d.bins.map((n,i)=>i*10+'–'+(i*10+10)+': '+n).join(', ')+' normalized scores')+'">'+d.bins.map((n,i)=>'<div title="'+(i*10)+'–'+(i*10+10)+': '+n+'" style="--h:'+Math.max(n?8:0,n/max*100)+'%;--bar:'+color(i*10+5,'overall')+'"></div>').join('')+'</div><div class="histlabels"><span>0</span><span>Score distribution</span><span>'+(state.metric==='overall'?'100':'10')+'</span></div>';
+ const d=distribution(visible,state.metric), max=Math.max(1,...d.bins),labels=scoreBins(state.metric);
+ el.innerHTML='<div class="insighttop"><span><i class="citykey"></i> <b>'+d.cities.toLocaleString()+'</b> cities</span><span><i class="sightkey"></i> <b>'+d.sights.toLocaleString()+'</b> sights</span><span><b>'+d.ranked.toLocaleString()+'</b> ranked</span></div><div class="hist" role="img" aria-label="'+esc(d.bins.map((n,i)=>labels[i]+': '+n).join(', ')+' scores')+'">'+d.bins.map((n,i)=>'<div title="'+labels[i]+': '+n+'" style="--h:'+Math.max(n?8:0,n/max*100)+'%;--bar:'+color(i*10+5,'overall')+'"></div>').join('')+'</div><div class="histlabels"><span>0</span><span>Score distribution</span><span>'+(state.metric==='overall'?'100':'10')+'</span></div>';
 }
 function scheduleMap(){if(mapFrame)return;mapFrame=requestAnimationFrame(()=>{mapFrame=0;drawPoints()})}
 function renderMap(){
  $('display').value=state.display;$('basemap').value=state.basemap;
- if(state.view==='list'){if(map.hasLayer(tiles))map.removeLayer(tiles);layer.clearLayers();centers.clearLayers();markers.clear();return}
+ if(state.view==='list'){if(map.hasLayer(tiles))map.removeLayer(tiles);layer.clearLayers();centers.clearLayers();selectionLayer.clearLayers();markers.clear();return}
  if(state.basemap==='street'&&!map.hasLayer(tiles))tiles.addTo(map);else if(state.basemap==='outline'&&map.hasLayer(tiles))map.removeLayer(tiles);
  $('map').classList.toggle('outline',state.basemap==='outline');
- const matches=countryMatches(), countrySet=new Set(matches.map(c=>c.code));
+ const matches=state.mode==='countries'?countryMatches():[], countrySet=new Set(matches.map(c=>c.code));$('display').disabled=state.mode==='countries';
  const key=JSON.stringify([state.mode,state.country,state.region,state.mode==='countries'?state.query:'',state.basemap]);
  if(key!==polygonKey){polygonKey=key;polygons.setStyle(f=>{const code=byFeature(f),c=data.countries[code],count=(c?.cities||0)+(c?.sights||0),active=state.mode==='countries'?countrySet.has(code):state.country===code;return {weight:active?1.6:.65,color:active?'#146c63':'#85988b',fillColor:count?'#68a894':'#dddcd0',fillOpacity:state.mode==='countries'?(active?(count?Math.min(.85,.28+Math.log1p(count)/12):.25):.08):state.basemap==='outline'?(active?.8:.55):active?.27:.035}})}
  centers.clearLayers();
  if(state.mode==='countries'){
-  layer.clearLayers();markers.clear();
+  layer.clearLayers();selectionLayer.clearLayers();markers.clear();
   for(const c of matches)if(c.center){const count=c.cities+c.sights;centers.addLayer(L.circleMarker(c.center,{radius:count?4+Math.min(10,Math.sqrt(count)/2):3,color:'#fff',weight:1.4,fillColor:count?'#18776b':'#9aa6a2',fillOpacity:.9}).bindTooltip(esc(c.name)+' · '+count+' places').on('click',()=>chooseCountry(c.code)))}
   $('legend').textContent='Country coverage · Larger circles = more catalogued destinations';$('mapnote').textContent='Select a country to explore its destinations.';return;
  }
@@ -112,17 +114,18 @@ function drawPoints(){
   const n=g.rows.length,cities=g.rows.filter(x=>x.kind==='cities').length, radius=Math.min(30,10+Math.sqrt(n)*2), diameter=radius*2;
   const icon=L.divIcon({className:'atlas-cluster',html:'<span style="--cluster:'+color(v,state.metric)+';--city:'+Math.round(cities/n*100)+'%">'+n+'</span>',iconSize:[diameter,diameter],iconAnchor:[radius,radius]});
   const m=L.marker(latlng,{icon,keyboard:true,title:n+' destinations'}).bindTooltip(n+' destinations · '+cities+' cities · '+(n-cities)+' sights').on('click',()=>{
-   if(z<14&&n>1){map.setView(latlng,Math.min(14,z+2));return}
+   if(z<14&&n>1&&g.rows.some(x=>x.lat!==r.lat||x.lon!==r.lon)){map.setView(latlng,Math.min(14,z+2));return}
    if(n===1){select(r,false);return}
-   const box=document.createElement('div');box.className='clusterlist';const heading=document.createElement('strong');heading.textContent=n+' destinations here';box.append(heading);
-   for(const row of g.rows){const b=document.createElement('button');b.textContent=row.name+' · '+scoreText(row);b.onclick=()=>{map.closePopup();select(row,false)};box.append(b)}
+   const box=document.createElement('div');box.className='clusterlist';const heading=document.createElement('strong');heading.textContent=n+' destinations here';box.append(heading);const entries=document.createElement('div');box.append(entries);let offset=0;const next=document.createElement('button');next.textContent='Show more';const append=()=>{for(const row of g.rows.slice(offset,offset+50)){const b=document.createElement('button');b.textContent=row.name+' · '+scoreText(row);b.onclick=()=>{map.closePopup();select(row,false)};entries.append(b)}offset+=50;next.hidden=offset>=n};next.onclick=append;box.append(next);append();
    L.popup({maxHeight:240}).setLatLng(latlng).setContent(box).openOn(map);
   });layer.addLayer(m);
  }
+ drawSelection();
  $('mapnote').textContent=points.length.toLocaleString()+' matching map destinations · '+groups.length+' visible markers / clusters'+(state.display==='density'?' · Bubble size = count':' · Zoom to explore');
 }
+function drawSelection(){selectionLayer.clearLayers();if(!selected||state.view!=='map'||state.mode!=='places')return;const lon=selected.lon+360*Math.round((map.getCenter().lng-selected.lon)/360);L.circleMarker([selected.lat,lon],{radius:13,weight:3,color:'#193d63',fill:false,interactive:false}).addTo(selectionLayer).bringToFront();}
 function byFeature(f){if(!f)return '';if(f.properties?.name==='Kosovo')return 'XK';return byNumber.get(String(Number(f.id)))||''}
-function fit(){if(state.view==='list')return;if(state.mode==='countries'){const pts=countryMatches().map(c=>c.center).filter(Boolean);if(state.region&&pts.length)map.fitBounds(pts,{padding:[35,35],maxZoom:5});else map.setView([22,16],2);return}if(points.length){if(!state.country&&!state.region&&!state.query&&points.length>1000){map.setView([22,16],2);return}map.fitBounds(points.map(r=>[r.lat,r.lon]),{padding:[32,32],maxZoom:12})}else if(data.countries[state.country]?.center)map.setView(data.countries[state.country].center,5);else map.setView([22,16],2)}
-function select(r,focusMap){if(!r)return;selected=r;renderList();renderDetail();if(state.view==='map'&&focusMap){map.setView([r.lat,r.lon],Math.max(map.getZoom(),12));scheduleMap()}$('detail').scrollIntoView({block:'nearest',behavior:'smooth'})}
-function renderDetail(){const d=$('detail');d.hidden=!selected;if(!selected)return;const r=selected;d.innerHTML='<div class="detailhead"><div><div class="eyebrow">'+esc(data.countries[r.country].name)+' · '+esc(r.type)+'</div><h2>'+esc(r.name)+'</h2></div><button id="closeDetail" aria-label="Close destination details">×</button></div><p class="detailScore">'+format(r.overall,'overall')+' <small>/ 100 overall</small> · '+(r.rank===null?'Unassessed for selected metric':'#'+r.rank+' in current ranking scope')+'</p><div class="breakdown">'+Object.entries(data.dimensions).map(([k,w])=>'<div><span>'+title(k)+' · '+Math.round(w*100)+'%</span><b>'+format(r.scores[k]??null,k)+'</b><progress max="10" value="'+(r.scores[k]??0)+'"></progress></div>').join('')+'</div><h3>Category ratings</h3><div class="chips">'+Object.entries(r.scores.categories||{}).sort((a,b)=>(b[1]??-1)-(a[1]??-1)).map(([k,v])=>'<span>'+title(k)+' <b>'+format(v,k)+'</b></span>').join('')+'</div><p class="detailLinks"><a href="https://www.google.com/maps/search/?api=1&query='+r.lat+','+r.lon+'" target="_blank" rel="noopener">Open in Google Maps ↗</a><a href="'+repo+esc(r.source)+'" target="_blank" rel="noopener">Source YAML ↗</a><a href="'+repo+'countries/'+r.country+'/'+r.kind+'.md" target="_blank" rel="noopener">Country ranking ↗</a></p><p class="muted">Representative coordinates: '+r.lat+', '+r.lon+'</p>';$('closeDetail').onclick=()=>{selected=null;renderDetail();renderList()}}
+function fit(){if(state.view==='list')return;if(state.mode==='countries'){const pts=countryMatches().map(c=>c.center).filter(Boolean);if((state.region||state.query)&&pts.length)map.fitBounds(pts,{padding:[35,35],maxZoom:5});else map.setView([22,16],2);return}if(points.length){if(!state.country&&!state.region&&!state.query&&points.length>1000){map.setView([22,16],2);return}map.fitBounds(wrappedLocations(points),{padding:[32,32],maxZoom:12})}else if(data.countries[state.country]?.center)map.setView(data.countries[state.country].center,5);else map.setView([22,16],2)}
+function select(r,focusMap){if(!r)return;selected=r;const index=visible.findIndex(x=>x.id===r.id);if(index>=0)page=Math.floor(index/50);renderList();renderDetail();if(state.view==='map'){if(focusMap){const lon=r.lon+360*Math.round((map.getCenter().lng-r.lon)/360);map.setView([r.lat,lon],Math.max(map.getZoom(),12));scheduleMap()}drawSelection()}$('detail').scrollIntoView({block:'nearest',behavior:window.matchMedia('(prefers-reduced-motion: reduce)').matches?'auto':'smooth'})}
+function renderDetail(){const d=$('detail');d.hidden=!selected;if(!selected)return;const r=selected;d.innerHTML='<div class="detailhead"><div><div class="eyebrow">'+esc(data.countries[r.country].name)+' · '+esc(r.type)+'</div><h2>'+esc(r.name)+'</h2></div><button id="closeDetail" aria-label="Close destination details">×</button></div><p class="detailScore">'+format(r.overall,'overall')+' <small>/ 100 overall</small> · '+(r.rank===null?'Unassessed for '+esc(title(state.metric)):'#'+r.rank+' · '+esc(title(state.metric))+' ranking')+'</p><div class="breakdown">'+Object.entries(data.dimensions).map(([k,w])=>'<div><span>'+title(k)+' · '+Math.round(w*100)+'%</span><b>'+format(r.scores[k]??null,k)+'</b><progress max="10" value="'+(r.scores[k]??0)+'"></progress></div>').join('')+'</div><h3>Category ratings</h3><div class="chips">'+Object.entries(r.scores.categories||{}).sort((a,b)=>(b[1]??-1)-(a[1]??-1)).map(([k,v])=>'<span>'+title(k)+' <b>'+format(v,k)+'</b></span>').join('')+'</div><p class="detailLinks"><a href="https://www.google.com/maps/search/?api=1&query='+r.lat+','+r.lon+'" target="_blank" rel="noopener">Open in Google Maps ↗</a><a href="'+repo+esc(r.source)+'" target="_blank" rel="noopener">Source YAML ↗</a><a href="'+repo+'countries/'+r.country+'/'+r.kind+'.md" target="_blank" rel="noopener">Country ranking ↗</a></p><p class="muted">Representative coordinates: '+r.lat+', '+r.lon+'</p>';$('closeDetail').onclick=()=>{selected=null;drawSelection();renderDetail();renderList()}}
 fetch(import.meta.env.BASE_URL+'atlas.json').then(r=>{if(!r.ok)throw Error('HTTP '+r.status);return r.json()}).then(d=>{data=d;mount()}).catch(e=>{$('app').innerHTML='<main class="empty"><h1>Atlas unavailable</h1><p>Could not load the destination index. Reload to try again.</p><button id="retry">Reload</button></main>';$('retry').onclick=()=>location.reload();console.error(e)});

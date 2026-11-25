@@ -1,8 +1,3 @@
-import Decimal from 'decimal.js';
-export function overall(scores, weights) {
-  if (!Object.keys(weights).every(k => Number.isFinite(scores[k]))) return null;
-  return Object.entries(weights).reduce((sum,[k,w]) => sum.plus(new Decimal(scores[k]).times(w)),new Decimal(0)).times(10).toNumber();
-}
 export const value = (row, metric) => metric === 'overall' ? row.overall : (row.scores[metric] ?? row.scores.categories?.[metric] ?? null);
 export function ranked(rows, metric='overall') {
   const sorted = [...rows].sort((a,b) => (value(b,metric) ?? -Infinity)-(value(a,metric) ?? -Infinity) || a.name.localeCompare(b.name,'en') || a.id.localeCompare(b.id));
@@ -10,7 +5,7 @@ export function ranked(rows, metric='overall') {
   return sorted.map((row,i) => {const v=value(row,metric); if(v===null) return {...row,rank:null}; if(v!==previous || i===0) rank=i+1; previous=v; return {...row,rank};});
 }
 const searchIndex=new WeakMap();
-const normalize=s=>s.normalize('NFD').replace(/\p{Diacritic}/gu,'').toLowerCase();
+export const normalize=s=>s.normalize('NFD').replace(/\p{Diacritic}/gu,'').toLowerCase();
 export function eligible(rows,metric,categories){return categories.includes(metric)?rows.filter(r=>Object.hasOwn(r.scores.categories||{},metric)):rows}
 export function distribution(rows,metric){const d={cities:0,sights:0,ranked:0,bins:Array(10).fill(0)};for(const r of rows){d[r.kind]++;const v=value(r,metric);if(v!==null){d.ranked++;d.bins[Math.max(0,Math.min(9,Math.floor(v/(metric==='overall'?10:1))))]++}}return d}
 export function groupPoints(rows,project,bounds,size,worldWidth){
@@ -20,6 +15,15 @@ export function groupPoints(rows,project,bounds,size,worldWidth){
 }
 export function match(rows,{country='',region='',kind='',metric='overall',query='',min=0,unranked=true}={},countries={}) {
   const q=query.normalize('NFD').replace(/\p{Diacritic}/gu,'').toLowerCase().trim();
-  const norm=r=>{let s=searchIndex.get(r);if(s===undefined){s=normalize([r.name,countries[r.country]?.name||'',r.country,r.type].join(' '));searchIndex.set(r,s)}return s};
+  const norm=r=>{let entry=searchIndex.get(r);const countryName=countries[r.country]?.name||'';if(!entry||entry.countryName!==countryName){entry={countryName,text:normalize([r.name,countryName,r.country,r.type].join(' '))};searchIndex.set(r,entry)}return entry.text};
   return rows.filter(r=>{const c=countries[r.country];const v=value(r,metric);return (!country||r.country===country)&&(!region||c?.region===region)&&(!kind||r.kind===kind)&&(!q||norm(r).includes(q))&&(v===null?unranked&&min===0:v>=min);});
+}
+
+export function scoreBins(metric){const step=metric==='overall'?10:1;return Array.from({length:10},(_,i)=>i===9?String(i*step)+'–'+String(10*step):String(i*step)+' to under '+String((i+1)*step))}
+export function wrappedLocations(rows){
+ if(!rows.length)return [];
+ const lons=rows.map(r=>((r.lon%360)+360)%360).sort((a,b)=>a-b);let gap=-1,start=lons[0];
+ for(let i=0;i<lons.length;i++){const next=i===lons.length-1?lons[0]+360:lons[i+1];if(next-lons[i]>gap){gap=next-lons[i];start=next%360}}
+ const span=360-gap, shift=360*Math.floor((start+span/2+180)/360);
+ return rows.map(r=>{let lon=((r.lon%360)+360)%360;if(lon<start-1e-9)lon+=360;return [r.lat,lon-shift]})
 }
