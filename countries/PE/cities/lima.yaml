@@ -1,0 +1,17 @@
+id: city-pe-lima
+name: "Lima"
+location:
+  country_code: PE
+  latitude: -12.0464
+  longitude: -77.0428
+scores:
+  impact: 8.6
+  uniqueness: 8.6
+  significance: 9.1
+  experience: 8.7
+  depth: 9.4
+  categories:
+    food: 9.7
+    history: 9.0
+    culture: 9.1
+    architecture: 8.8
