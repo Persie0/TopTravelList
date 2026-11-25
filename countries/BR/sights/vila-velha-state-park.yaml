@@ -1,0 +1,15 @@
+id: sight-br-vila-velha-state-park
+name: "Vila Velha State Park"
+location:
+  country_code: BR
+  latitude: -25.2400
+  longitude: -50.0400
+scores:
+  impact: 8.5
+  uniqueness: 8.6
+  significance: 7.8
+  experience: 8.4
+  depth: 7.7
+  categories:
+    nature: 9.1
+    photography: 9.1

@@ -1,0 +1,16 @@
+id: sight-mu-trou-aux-biches-beach
+name: "Trou aux Biches Beach"
+location:
+  country_code: MU
+  latitude: -20.0320
+  longitude: 57.5450
+scores:
+  impact: 8.8
+  uniqueness: 8.0
+  significance: 6.3
+  experience: 8.9
+  depth: 7.6
+  categories:
+    beaches: 9.1
+    relaxation: 9.1
+    photography: 8.7

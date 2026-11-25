@@ -1,0 +1,17 @@
+id: sight-ar-iguazu-national-park
+name: "Iguazú National Park"
+location:
+  country_code: AR
+  latitude: -25.6833
+  longitude: -54.4333
+scores:
+  impact: 9.9
+  uniqueness: 9.8
+  significance: 9.5
+  experience: 9.5
+  depth: 9.2
+  categories:
+    nature: 9.9
+    photography: 9.9
+    wildlife: 9.3
+    adventure: 9.2

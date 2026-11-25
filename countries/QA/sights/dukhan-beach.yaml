@@ -1,0 +1,15 @@
+id: sight-qa-dukhan-beach
+name: "Dukhan Beach"
+location:
+  country_code: QA
+  latitude: 25.4260
+  longitude: 50.7660
+scores:
+  impact: 7.2
+  uniqueness: 7.0
+  significance: 6.0
+  experience: 7.8
+  depth: 6.8
+  categories:
+    beaches: 8.1
+    relaxation: 8.0

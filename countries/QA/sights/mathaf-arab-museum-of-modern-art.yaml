@@ -1,0 +1,14 @@
+id: sight-qa-mathaf-arab-museum-of-modern-art
+name: "Mathaf Arab Museum of Modern Art"
+location:
+  country_code: QA
+  latitude: 25.3178
+  longitude: 51.4057
+scores:
+  impact: 8.3
+  uniqueness: 8.8
+  significance: 8.9
+  experience: 8.4
+  depth: 8.3
+  categories:
+    culture: 9.2

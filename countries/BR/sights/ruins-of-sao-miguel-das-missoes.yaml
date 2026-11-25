@@ -1,0 +1,16 @@
+id: sight-br-ruins-of-sao-miguel-das-missoes
+name: "Ruins of São Miguel das Missões"
+location:
+  country_code: BR
+  latitude: -28.5470
+  longitude: -54.5550
+scores:
+  impact: 8.6
+  uniqueness: 8.9
+  significance: 9.3
+  experience: 8.4
+  depth: 7.8
+  categories:
+    architecture: 9.3
+    history: 9.5
+    culture: 9.1

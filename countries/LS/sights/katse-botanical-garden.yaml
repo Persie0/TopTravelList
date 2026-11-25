@@ -1,0 +1,15 @@
+id: sight-ls-katse-botanical-garden
+name: "Katse Botanical Garden"
+location:
+  country_code: LS
+  latitude: -29.3320
+  longitude: 28.4940
+scores:
+  impact: 7.5
+  uniqueness: 7.9
+  significance: 8.0
+  experience: 7.9
+  depth: 7.0
+  categories:
+    nature: 8.6
+    wildlife: 7.8

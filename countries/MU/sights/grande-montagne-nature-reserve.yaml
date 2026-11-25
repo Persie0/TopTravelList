@@ -1,0 +1,15 @@
+id: sight-mu-grande-montagne-nature-reserve
+name: "Grande Montagne Nature Reserve"
+location:
+  country_code: MU
+  latitude: -19.7130
+  longitude: 63.4480
+scores:
+  impact: 7.6
+  uniqueness: 8.5
+  significance: 8.5
+  experience: 8.0
+  depth: 7.2
+  categories:
+    nature: 8.8
+    wildlife: 8.7

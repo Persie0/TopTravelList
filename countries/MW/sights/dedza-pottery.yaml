@@ -1,0 +1,14 @@
+id: sight-mw-dedza-pottery
+name: "Dedza Pottery"
+location:
+  country_code: MW
+  latitude: -14.3650
+  longitude: 34.3400
+scores:
+  impact: 7.0
+  uniqueness: 7.9
+  significance: 7.2
+  experience: 8.2
+  depth: 6.9
+  categories:
+    culture: 8.6

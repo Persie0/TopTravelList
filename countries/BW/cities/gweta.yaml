@@ -1,0 +1,15 @@
+id: city-bw-gweta
+name: "Gweta"
+location:
+  country_code: BW
+  latitude: -20.1833
+  longitude: 25.2333
+scores:
+  impact: 6.3
+  uniqueness: 7.3
+  significance: 6.2
+  experience: 7.4
+  depth: 5.9
+  categories:
+    culture: 7.7
+    photography: 7.5

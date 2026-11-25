@@ -1,0 +1,15 @@
+id: sight-qa-al-jassasiya-rock-art-site
+name: "Al Jassasiya Rock Art Site"
+location:
+  country_code: QA
+  latitude: 25.9520
+  longitude: 51.4030
+scores:
+  impact: 7.4
+  uniqueness: 8.6
+  significance: 8.6
+  experience: 7.4
+  depth: 6.8
+  categories:
+    history: 9.0
+    culture: 8.5

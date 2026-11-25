@@ -1,0 +1,16 @@
+id: sight-py-playa-san-jose
+name: "Playa San José"
+location:
+  country_code: PY
+  latitude: -27.3380
+  longitude: -55.8750
+scores:
+  impact: 7.4
+  uniqueness: 7.0
+  significance: 5.9
+  experience: 8.2
+  depth: 7.2
+  categories:
+    beaches: 8.6
+    relaxation: 8.5
+    family: 8.1

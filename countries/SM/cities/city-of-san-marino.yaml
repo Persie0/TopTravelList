@@ -1,0 +1,16 @@
+id: city-sm-city-of-san-marino
+name: "City of San Marino"
+location:
+  country_code: SM
+  latitude: 43.937
+  longitude: 12.446
+scores:
+  impact: 8.7
+  uniqueness: 9.0
+  significance: 8.9
+  experience: 8.7
+  depth: 8.2
+  categories:
+    history: 9.2
+    architecture: 9.1
+    photography: 9.3

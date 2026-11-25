@@ -1,0 +1,16 @@
+id: sight-mu-pieter-both-mountain
+name: "Pieter Both Mountain"
+location:
+  country_code: MU
+  latitude: -20.1900
+  longitude: 57.5380
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 7.2
+  experience: 8.0
+  depth: 7.0
+  categories:
+    adventure: 9.0
+    photography: 9.2
+    nature: 8.7

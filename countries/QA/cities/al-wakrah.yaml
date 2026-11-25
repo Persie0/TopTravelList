@@ -1,0 +1,16 @@
+id: city-qa-al-wakrah
+name: "Al Wakrah"
+location:
+  country_code: QA
+  latitude: 25.1659
+  longitude: 51.5976
+scores:
+  impact: 7.6
+  uniqueness: 7.7
+  significance: 7.5
+  experience: 8.0
+  depth: 7.2
+  categories:
+    architecture: 7.9
+    culture: 8.0
+    food: 8.0

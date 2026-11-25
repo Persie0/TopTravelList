@@ -1,0 +1,15 @@
+id: sight-cl-petrohue-waterfalls
+name: "Petrohué Waterfalls"
+location:
+  country_code: CL
+  latitude: -41.1380
+  longitude: -72.4050
+scores:
+  impact: 8.8
+  uniqueness: 8.4
+  significance: 7.2
+  experience: 8.6
+  depth: 7.2
+  categories:
+    nature: 9.1
+    photography: 9.4

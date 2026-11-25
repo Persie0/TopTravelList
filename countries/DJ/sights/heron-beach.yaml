@@ -1,0 +1,15 @@
+id: sight-dj-heron-beach
+name: "Heron Beach"
+location:
+  country_code: DJ
+  latitude: 11.6140
+  longitude: 43.1540
+scores:
+  impact: 7.5
+  uniqueness: 7.0
+  significance: 5.6
+  experience: 7.9
+  depth: 6.5
+  categories:
+    beaches: 8.0
+    relaxation: 8.0

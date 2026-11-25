@@ -1,0 +1,15 @@
+id: sight-sm-cava-dei-balestrieri
+name: "Cava dei Balestrieri"
+location:
+  country_code: SM
+  latitude: 43.9369
+  longitude: 12.4470
+scores:
+  impact: 7.6
+  uniqueness: 7.9
+  significance: 7.8
+  experience: 7.9
+  depth: 6.8
+  categories:
+    culture: 8.5
+    photography: 8.4

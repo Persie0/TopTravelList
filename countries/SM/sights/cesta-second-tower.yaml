@@ -1,0 +1,16 @@
+id: sight-sm-cesta-second-tower
+name: "Cesta (Second Tower)"
+location:
+  country_code: SM
+  latitude: 43.9328
+  longitude: 12.4514
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 8.7
+  experience: 8.8
+  depth: 8.1
+  categories:
+    architecture: 9.1
+    history: 9.1
+    photography: 9.3

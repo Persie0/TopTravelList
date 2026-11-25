@@ -1,0 +1,17 @@
+id: sight-tg-lake-togo
+name: "Lake Togo"
+location:
+  country_code: TG
+  latitude: 6.2250
+  longitude: 1.4350
+scores:
+  impact: 8.1
+  uniqueness: 8.0
+  significance: 7.6
+  experience: 8.6
+  depth: 8.0
+  categories:
+    nature: 8.5
+    photography: 8.7
+    culture: 8.3
+    relaxation: 8.5

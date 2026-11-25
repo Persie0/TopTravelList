@@ -1,0 +1,15 @@
+id: city-qa-al-khor
+name: "Al Khor"
+location:
+  country_code: QA
+  latitude: 25.6839
+  longitude: 51.5058
+scores:
+  impact: 7.1
+  uniqueness: 7.3
+  significance: 7.3
+  experience: 7.5
+  depth: 6.9
+  categories:
+    culture: 7.7
+    food: 7.5

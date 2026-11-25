@@ -1,0 +1,15 @@
+id: sight-tg-fosse-aux-lions-national-park
+name: "Fosse aux Lions National Park"
+location:
+  country_code: TG
+  latitude: 10.75
+  longitude: 0.18
+scores:
+  impact: null
+  uniqueness: null
+  significance: 7.8
+  experience: null
+  depth: null
+  categories:
+    nature: 8.3
+    wildlife: 8.4

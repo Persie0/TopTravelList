@@ -1,0 +1,11 @@
+# Atlas UX review — 2026-11-25
+
+Scope: existing travel explorer, not a marketing landing page. Screenshot and source review, sequential because no subagents are available. Impeccable launcher/detector unavailable. The source-level baseline is provisional: visibility 3, real-world match 3, control 3, consistency 3, prevention 2, recognition 3, efficiency 2, minimalism 2, recovery 2, help 2 = 25/40. Not a certified visual audit.
+
+Priority: remove hero/header; move counts and project links to footer; keep search and map above fold; group advanced filters; make map controls non-overlapping; improve touch targets, keyboard access and contrast; preserve page across view changes; accept comma-separated name and country searches; provide recoverable empty and tile-error states; inline details with return focus and Escape; retain both Maps links and all ranking semantics. No scoring data modified. Visual and browser verification are required before claiming 40/40.
+
+## Second pass — browser evidence
+Public Playground run 45655992969 passed desktop 1440px and mobile 390px/320px core workflows, no uncaught page errors or document overflow, and zero axe WCAG A/AA violations in the tested list-only state. Screenshots revealed clipped native selects, map footer overlapping results at 320px, overly large cluster bubbles, cropped world map, duplicate overall score in details, and mobile details hidden inside an unnecessarily nested scroll area. This follow-up addresses those issues, false highlighting of unregistered polygons, and unassessed progress semantics. A final verification should exercise map, details and list views. Independent detector and user testing remain outstanding; do not treat an internal heuristic rating as certification.
+
+## Third pass
+Public Playground run 45656556656: desktop 1440px, mobile 390px and 320px passed core workflows, zero axe WCAG A/AA findings across map, detail and list (nine scans), and no document overflow or page exceptions. Final screenshots show the footer and responsive detail layout, but also revealed antimeridian outline artifacts and adjacent cluster overlap. This release corrects dateline geometry and merges colliding low-zoom cluster labels, with dedicated regression tests. A full independent Impeccable score is not established; the prior internal heuristic score was 37/40.
