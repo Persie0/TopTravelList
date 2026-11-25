@@ -1,0 +1,15 @@
+id: sight-pa-camino-de-cruces-national-park
+name: "Camino de Cruces National Park"
+location:
+  country_code: PA
+  latitude: 9.03
+  longitude: -79.61
+scores:
+  impact: 7.7
+  uniqueness: 8.1
+  significance: 8.3
+  experience: 8.0
+  depth: 7.7
+  categories:
+    nature: 8.5
+    history: 8.6

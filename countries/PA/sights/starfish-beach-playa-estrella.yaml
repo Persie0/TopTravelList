@@ -1,0 +1,15 @@
+id: sight-pa-starfish-beach-playa-estrella
+name: "Starfish Beach (Playa Estrella)"
+location:
+  country_code: PA
+  latitude: 9.411
+  longitude: -82.325
+scores:
+  impact: 8.2
+  uniqueness: 8.1
+  significance: 7.1
+  experience: 8.4
+  depth: 7.0
+  categories:
+    beaches: 8.7
+    wildlife: 8.6
