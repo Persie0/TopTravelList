@@ -2,7 +2,7 @@
 
 # New Caledonia (NC) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**4 ranked** · **0 unassessed** · **4 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,14 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (4)
 
-No cities, towns & villages have been assessed for **New Caledonia** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Nouméa](cities/noumea.yaml) | City / town | **81.30** | **Culture 8.6**, **Food 8.4**, **Architecture 8.0** | 8.0 / 8.1 / 8.0 / 8.5 / 8.3 | [-22.2758, 166.458](https://www.google.com/maps/search/?api=1&query=-22.2758,166.458) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Noum%C3%A9a%2C%20New%20Caledonia) |
+| 2 | [Hienghène](cities/hienghene.yaml) | City / town | **77.60** | **Culture 8.3**, **Photography 8.2** | 8.0 / 8.1 / 7.6 / 7.5 / 6.9 | [-20.6941, 164.9222](https://www.google.com/maps/search/?api=1&query=-20.6941,164.9222) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hiengh%C3%A8ne%2C%20New%20Caledonia) |
+| 3 | [Vao](cities/vao.yaml) | City / town | **73.60** | **Culture 8.0**, **History 7.7** | 7.2 / 7.7 / 7.5 / 7.3 / 6.8 | [-22.6667, 167.4833](https://www.google.com/maps/search/?api=1&query=-22.6667,167.4833) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Vao%2C%20New%20Caledonia) |
+| 4 | [Bourail](cities/bourail.yaml) | City / town | **73.30** | **History 7.9**, **Culture 7.8** | 7.1 / 7.6 / 7.5 / 7.4 / 6.9 | [-21.5667, 165.4833](https://www.google.com/maps/search/?api=1&query=-21.5667,165.4833) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bourail%2C%20New%20Caledonia) |
 
 ---
 

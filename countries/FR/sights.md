@@ -2,7 +2,7 @@
 
 # France (FR) — Sights & attractions ranking
 
-**84 ranked** · **19 unassessed** · **103 total** · Worldwide scoring **v2**
+**84 ranked** · **18 unassessed** · **102 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -99,7 +99,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 83 | [Forêts National Park](sights/forets.yaml) | Park / reserve | **86.00** | **Nature 9.2**, **Wildlife 9.1** | 8.4 / 8.6 / 8.8 / 8.6 / 8.8 | [47.87, 4.85](https://www.google.com/maps/search/?api=1&query=47.87,4.85) | [Google Maps](https://www.google.com/maps/search/?api=1&query=For%C3%AAts%20National%20Park%2C%20France) |
 | 84 | [Charolais-Brionnais cattle-breeding cultural landscape](sights/charolais.yaml) | Coast | **84.60** | **Culture 9.0**, **Photography 8.8** | 8.2 / 8.6 / 8.6 / 8.4 / 8.7 | [46.3, 4.15](https://www.google.com/maps/search/?api=1&query=46.3,4.15) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Charolais-Brionnais%20cattle-breeding%20cultural%20landscape%2C%20France) |
 
-## Not yet fully assessed (19)
+## Not yet fully assessed (18)
 
 These destinations have no rank until all five core scores are assessed.
 
@@ -116,7 +116,6 @@ These destinations have no rank until all five core scores are assessed.
 | — | [Former Menier chocolate factory Noisiel](sights/menier-factory.yaml) | Attraction | **—** | **Architecture 9.3**, **History 9.2** | 8.5 / 8.9 / 9.0 / — / — | [48.858, 2.624](https://www.google.com/maps/search/?api=1&query=48.858,2.624) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Former%20Menier%20chocolate%20factory%20Noisiel%2C%20France) |
 | — | [Fortifications of Vauban (serial property)](sights/vauban.yaml) | Attraction | **—** | **Architecture 9.4**, **History 9.4** | 8.8 / 9.1 / 9.3 / — / — | [48.01, 7.53](https://www.google.com/maps/search/?api=1&query=48.01,7.53) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Fortifications%20of%20Vauban%20%28serial%20property%29%2C%20France) |
 | — | [French Austral Lands and Seas](sights/austral-lands.yaml) | Attraction | **—** | **Nature 9.6**, **Wildlife 9.6** | — / 9.5 / 9.5 / — / — | [-49.35, 69.35](https://www.google.com/maps/search/?api=1&query=-49.35,69.35) | [Google Maps](https://www.google.com/maps/search/?api=1&query=French%20Austral%20Lands%20and%20Seas%2C%20France) |
-| — | [Lagoons of New Caledonia (listed reef components)](sights/new-caledonia-lagoons.yaml) | Beach / bay | **—** | **Nature 9.7**, **Wildlife 9.6** | 9.4 / 9.4 / 9.5 / — / — | [-21.5, 166.0](https://www.google.com/maps/search/?api=1&query=-21.5,166.0) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lagoons%20of%20New%20Caledonia%20%28listed%20reef%20components%29%2C%20France) |
 | — | [Material evidence of Andorra co-principality (French tentative components)](sights/andorra-co-principality.yaml) | Attraction | **—** | **History 9.3** | — / 8.8 / 9.2 / — / — | [42.97, 1.61](https://www.google.com/maps/search/?api=1&query=42.97,1.61) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Material%20evidence%20of%20Andorra%20co-principality%20%28French%20tentative%20components%29%2C%20France) |
 | — | [ONERA aerospace research site Meudon](sights/onera-meudon.yaml) | Attraction | **—** | **History 9.2** | — / 8.8 / 9.0 / — / — | [48.81, 2.23](https://www.google.com/maps/search/?api=1&query=48.81,2.23) | [Google Maps](https://www.google.com/maps/search/?api=1&query=ONERA%20aerospace%20research%20site%20Meudon%2C%20France) |
 | — | [Parish closes of Finistère (tentative series)](sights/finistere-enclosures.yaml) | Attraction | **—** | **Architecture 9.3**, **History 9.2** | 8.8 / 9.1 / 9.1 / — / — | [48.5, -4.0](https://www.google.com/maps/search/?api=1&query=48.5,-4.0) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Parish%20closes%20of%20Finist%C3%A8re%20%28tentative%20series%29%2C%20France) |
