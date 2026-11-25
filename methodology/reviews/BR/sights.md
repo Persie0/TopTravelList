@@ -1,12 +1,12 @@
 # BR — Brazil sights: individual worldwide reviews
 
-[Worldwide v2](../../../rules.md) · [Workflow](../../future-country-workflow.md). Initial editorial inventory 2026-11-25. UNESCO's country inventory lists 26 inscribed properties including Amazonia Theaters (2026) and 18 tentative properties; all are represented at property level, not exhaustive serial components. No implication that tentative properties are inscribed. Coordinates approximate except Peruaçu River Canyon (UNESCO DMS converted); broad serial or tentative geographic points are not verified component entrances. Shared peer ladders preliminary; direct same-type calibration remains needed. Restricted sites remain unranked when ordinary authorized scope is unclear. Nested sites are different visitor scopes, not additive scores. Sources support named identity or broad context, not full independent verification.
+[Worldwide v2](../../../rules.md) · [Workflow](../../future-country-workflow.md). Initial editorial inventory 2026-11-25. UNESCO's country inventory lists 26 inscribed properties including Amazonia Theaters (2026) and 18 tentative properties; all are represented at property level, not exhaustive serial components. No implication that tentative properties are inscribed. Coordinates approximate except four UNESCO property reference points (Iguaçu, Lençóis Maranhenses, Pantanal Conservation Area and Peruaçu River Canyon; DMS converted); broad serial or tentative geographic points are not verified component entrances. Shared peer ladders preliminary; direct same-type calibration remains needed. Restricted sites remain unranked when ordinary authorized scope is unclear. Nested sites are different visitor scopes, not additive scores. Sources support named identity or broad context, not full independent verification.
 
 ## sight-br-iguacu-national-park — Iguaçu National Park — 2026-11-25
 
 - YAML: [source](../../../countries/BR/sights/iguacu-national-park.yaml) · Action: new
 - Precise subject: Brazilian inscribed park and permitted visitor routes.
-- Location: -25.6833, -54.4333; approximate representative point, independent verification pending.
+- Location: -25.448147, -53.800144; [UNESCO property reference](https://whc.unesco.org/en/list/355), DMS converted to decimal, not entrance.
 - Evidence status: **source-linked-unverified**. [Heritage or tourism reference](https://whc.unesco.org/en/list/355) — UNESCO page inspected 2026-11-25; identity or limited context only, not full claim-level verification.
 - Worldwide peers (I/U/S/E/D):
   - [Iguazú National Park (AR)](../../../countries/AR/sights/iguazu-national-park.yaml) — 9.9 / 9.8 / 9.5 / 9.5 / 9.2 (96.65/100); upper reference; uniqueness lower (exceptional cataract and forest landscape) and depth lower (several trails and habitats).
@@ -46,7 +46,7 @@
 
 - YAML: [source](../../../countries/BR/sights/lencois-maranhenses-national-park.yaml) · Action: new
 - Precise subject: inscribed coastal dune landscape authorized routes.
-- Location: -2.5000, -43.1000; approximate representative point, independent verification pending.
+- Location: -2.536667, -43.063611; [UNESCO property reference](https://whc.unesco.org/en/list/1611), DMS converted to decimal, not entrance.
 - Evidence status: **source-linked-unverified**. [Heritage or tourism reference](https://whc.unesco.org/en/list/1611) — UNESCO page inspected 2026-11-25; identity or limited context only, not full claim-level verification.
 - Worldwide peers (I/U/S/E/D):
   - [Iguazú National Park (AR)](../../../countries/AR/sights/iguazu-national-park.yaml) — 9.9 / 9.8 / 9.5 / 9.5 / 9.2 (96.65/100); upper reference; uniqueness equal (rare extensive dune-lagoon mosaic) and depth equal (many distinct dune and lagoon zones).
@@ -66,7 +66,7 @@
 
 - YAML: [source](../../../countries/BR/sights/pantanal-conservation-area.yaml) · Action: new
 - Precise subject: inscribed protected wetland complex not whole Pantanal.
-- Location: -17.7000, -57.4000; approximate representative point, independent verification pending.
+- Location: -17.656000, -57.359000; [UNESCO property reference](https://whc.unesco.org/en/list/999), DMS converted to decimal, not entrance.
 - Evidence status: **source-linked-unverified**. [Heritage or tourism reference](https://whc.unesco.org/en/list/999) — UNESCO page inspected 2026-11-25; identity or limited context only, not full claim-level verification.
 - Worldwide peers (I/U/S/E/D):
   - [Iguazú National Park (AR)](../../../countries/AR/sights/iguazu-national-park.yaml) — 9.9 / 9.8 / 9.5 / 9.5 / 9.2 (96.65/100); upper reference; uniqueness lower (large seasonal wetland ecosystem) and depth lower (multiple habitats with restricted access).
