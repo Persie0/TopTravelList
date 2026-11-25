@@ -2,6 +2,9 @@
 
 [Worldwide v2](../../../rules.md) · [Future-country workflow](../../future-country-workflow.md). Initial provisional editorial decisions dated 2026-11-25. [UNESCO country inventory](https://whc.unesco.org/en/statesparties/gw/) confirms one inscribed property (2025) and zero tentative entries. The larger biosphere reserve is a different designation. Individual parks and nesting areas overlap the inscribed ecosystem; scores are not additive. [UK travel advice](https://www.gov.uk/foreign-travel-advice/guinea-bissau/safety-and-security) and [Canada advice](https://travel.gc.ca/destinations/guinea-bissau) identify security and residual mine risks. Current access, community permission and seasonal constraints must be checked. Approximate points, not entrances; only the UNESCO property point is directly verified against the authoritative published coordinate. Others based on editorial estimates or listed geographic references, not validated boundary locations. Shared type-based peer sets are provisional; full independent factual checks and wider inventory remain open.
 
+
+Follow-up 2026-11-25: all records now carry references; no full factual verification implied. Museum inventory gaps include the military liberation museum, Cabral mausoleum, Varela, Guiledje, Iemberem, Nhoma and Bubaque environment museum, as identified by the [combined country report](https://achpr-library.uwazi.io/en/entity/u95naszddt). Confirm individual visitor scope and coordinates before cataloguing. Three wildlife category decisions are reassessed below; original values preserved in reassessment notes.
+
 ## city-gw-bissau — Bissau — 2026-11-25
 
 - [YAML](../../../countries/GW/cities/bissau.yaml) · Action: new · **source-linked-unverified**.
@@ -194,7 +197,7 @@
 
 ## city-gw-sao-domingos — São Domingos — 2026-11-25
 
-- [YAML](../../../countries/GW/cities/sao-domingos.yaml) · Action: new · **editorial-only**.
+- [YAML](../../../countries/GW/cities/sao-domingos.yaml) · Action: new · **source-linked-unverified**.
 - Scope: Settlement itself, excluding remote attractions. GPS 12.4055, -16.19671: approximate representative point, boundary/entrance not independently checked.
 - Worldwide peers (I/U/S/E/D):
   - [Siem Reap (KH)](../../../countries/KH/cities/siem-reap.yaml) — 8.8 / 9.0 / 9.3 / 9.0 / 9.2 (90.20/100); upper anchor; lower impact (border-region town streets), lower uniqueness (regional trading settlement), lower significance (local transport role), lower experience (market and meals), lower depth (limited documented attractions).
@@ -208,7 +211,7 @@
 - Depth 5.8: limited documented attractions.
 - Categories: culture:7.2. Overall: 60.65/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked destination-specific source; editorial judgment only.
+- Evidence: [Follow-up reference](https://www.geonames.org/search.html?country=GW&q=Guinea-Bissau) — Named settlement and geographic context; current point is consistent with town scale, not independently verified as center. Reviewed 2026-11-25. Original assessment lacked a per-record source; no complete factual verification.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access conditions and individual peer/category calibration.
 
 ## city-gw-eticoga-village-orango — Eticoga Village (Orango) — 2026-11-25
@@ -232,8 +235,8 @@
 
 ## city-gw-tabato-village — Tabatô Village — 2026-11-25
 
-- [YAML](../../../countries/GW/cities/tabato-village.yaml) · Action: new · **editorial-only**.
-- Scope: Settlement itself, excluding remote attractions. GPS 12.20, -14.63: approximate representative point, boundary/entrance not independently checked.
+- [YAML](../../../countries/GW/cities/tabato-village.yaml) · Action: new · **source-linked-unverified**.
+- Scope: Settlement itself, excluding remote attractions. GPS 12.23292, -14.55506: [mapped village](https://mapcarta.com/17083870), OSM node 13479016136; old approximate point 12.20, -14.63 superseded. Same-name localities exist; confirm locally.
 - Worldwide peers (I/U/S/E/D):
   - [Siem Reap (KH)](../../../countries/KH/cities/siem-reap.yaml) — 8.8 / 9.0 / 9.3 / 9.0 / 9.2 (90.20/100); upper anchor; lower impact (small rural settlement), lower uniqueness (Mandinka balafon tradition), lower significance (regional musical heritage), lower experience (community-authorized encounters), lower depth (limited physical visitor scope).
   - [Luang Prabang (LA)](../../../countries/LA/cities/luang-prabang.yaml) — 9.2 / 9.4 / 9.3 / 9.2 / 9.0 (92.50/100); related comparison; lower impact (small rural settlement), lower uniqueness (Mandinka balafon tradition), lower significance (regional musical heritage), lower experience (community-authorized encounters), lower depth (limited physical visitor scope).
@@ -246,5 +249,5 @@
 - Depth 5.9: limited physical visitor scope.
 - Categories: culture:8.9. Overall: 72.05/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked destination-specific source; editorial judgment only.
+- Evidence: [Follow-up reference](https://www.workaway.info/de/host/824198823363) — Community host describes Mandinga instrument making and music; corroborating [artist biography](https://kimidjabate.bandcamp.com/) and [mapped village](https://mapcarta.com/17083870). Performance arrangements not guaranteed. Reviewed 2026-11-25. Original assessment lacked a per-record source; no complete factual verification.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access conditions and individual peer/category calibration.
