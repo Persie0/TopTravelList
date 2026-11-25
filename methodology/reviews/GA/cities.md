@@ -2,6 +2,9 @@
 
 [Worldwide rules](../../../rules.md) · [Future-country workflow](../../future-country-workflow.md). 2026-11-25. [UNESCO national inventory](https://whc.unesco.org/en/statesparties/ga) confirms two inscribed properties and six tentative properties, all represented. All three Lopé-Okanda components and all 13 national parks are represented. Parent and component scores are not additive. Six published geographic reference points from UNESCO used; others approximate. Batéké submission coordinates appear reversed and are not adopted verbatim. The Lastoursville nine-cave inventory and separate scientific heritage components remain a detailed inventory gap; do not assume permission to enter caves, scientific sites or protected areas. Shared peer ladders require further individual calibration. Sources are excerpts or opened pages as noted, not complete claim-level verification. No current access or wildlife guarantee.
 
+
+Follow-up 2026-11-25: all 15 formerly editorial-only records supplemented with sources, many limited to settlement identity or regional context rather than visitor claims. Official UNESCO register confirms two inscribed and six tentative properties; embassy inventory confirms 13 national parks. Individual Lastoursville cave components, Sainte-Anne mission and Omboué settlement remain inventory gaps. No full factual verification claimed.
+
 ## city-ga-libreville — Libreville — 2026-11-25
 
 - [YAML](../../../countries/GA/cities/libreville.yaml) · Action: new · **source-linked-unverified**.
@@ -80,7 +83,7 @@
 
 ## city-ga-lope-village — Lopé Village — 2026-11-25
 
-- [YAML](../../../countries/GA/cities/lope-village.yaml) · Action: new · **editorial-only**.
+- [YAML](../../../countries/GA/cities/lope-village.yaml) · Action: new · **source-linked-unverified**.
 - Scope: Settlement itself, excluding separately rated attractions. GPS -0.10, 11.60: approximate editorial point; verification pending.
 - Worldwide peers (I/U/S/E/D):
   - [Siem Reap (KH)](../../../countries/KH/cities/siem-reap.yaml) — 8.8 / 9.0 / 9.3 / 9.0 / 9.2 (90.20/100); upper anchor; lower impact (small rail-side village); lower uniqueness (forest-savanna settlement); lower significance (regional railway context); lower experience (local walks and meals); lower depth (park safaris excluded).
@@ -94,12 +97,12 @@
 - Depth 6.0: park safaris excluded.
 - Categories: culture:7.8, photography:8.0. Overall: 70.50/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked destination-specific source; editorial only.
+- Evidence: [Local operator](https://www.mikongo-vision.info/Pages/eng%20-%20access_lope.html) confirms settlement and rail/road context; [UNESCO ecomuseum](https://whc.unesco.org/en/news/2250) confirms local heritage interpretation. Exclude the park itself from the city score. Reviewed 2026-11-25. Original status editorial-only; other material claims remain unverified.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access and individual peer/category calibration.
 
 ## city-ga-makokou — Makokou — 2026-11-25
 
-- [YAML](../../../countries/GA/cities/makokou.yaml) · Action: new · **editorial-only**.
+- [YAML](../../../countries/GA/cities/makokou.yaml) · Action: new · **source-linked-unverified**.
 - Scope: Settlement itself, excluding separately rated attractions. GPS 0.574, 12.864: approximate editorial point; verification pending.
 - Worldwide peers (I/U/S/E/D):
   - [Siem Reap (KH)](../../../countries/KH/cities/siem-reap.yaml) — 8.8 / 9.0 / 9.3 / 9.0 / 9.2 (90.20/100); upper anchor; lower impact (small provincial river town); lower uniqueness (interior forest-zone community); lower significance (regional administrative history); lower experience (local markets and walks); lower depth (Ivindo park excluded).
@@ -113,12 +116,12 @@
 - Depth 6.2: Ivindo park excluded.
 - Categories: culture:7.6, relaxation:7.3. Overall: 67.50/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked destination-specific source; editorial only.
+- Evidence: [Town geography](https://www.tageo.com/index-e-gb-cities-GA.htm) and [Senate administrative register](https://senat.ga/collectivites-locales/informations-generales/decoupage-administratif/) identify the settlement and provincial role; exclude Ivindo excursions. Reviewed 2026-11-25. Original status editorial-only; other material claims remain unverified.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access and individual peer/category calibration.
 
 ## city-ga-gamba — Gamba — 2026-11-25
 
-- [YAML](../../../countries/GA/cities/gamba.yaml) · Action: new · **editorial-only**.
+- [YAML](../../../countries/GA/cities/gamba.yaml) · Action: new · **source-linked-unverified**.
 - Scope: Settlement itself, excluding separately rated attractions. GPS -2.65, 10.00: approximate editorial point; verification pending.
 - Worldwide peers (I/U/S/E/D):
   - [Hong Kong (CN)](../../../countries/CN/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); upper anchor; lower impact (lagoon-side settlement); lower uniqueness (oil and coastal community); lower significance (regional industrial history); lower experience (town walks and food); lower depth (park excursions excluded).
@@ -132,12 +135,12 @@
 - Depth 6.1: park excursions excluded.
 - Categories: culture:7.6, photography:7.8. Overall: 68.10/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked destination-specific source; editorial only.
+- Evidence: [Town geography](https://www.tageo.com/index-e-gb-cities-GA.htm) and [Gabon embassy national parks guide](https://amba-usa.ga/en/cooperation-bilaterale/tourisme-et-decouverte/parcs-nationaux/) provide settlement and regional context; park wildlife excluded. Reviewed 2026-11-25. Original status editorial-only; other material claims remain unverified.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access and individual peer/category calibration.
 
 ## city-ga-mayumba — Mayumba — 2026-11-25
 
-- [YAML](../../../countries/GA/cities/mayumba.yaml) · Action: new · **editorial-only**.
+- [YAML](../../../countries/GA/cities/mayumba.yaml) · Action: new · **source-linked-unverified**.
 - Scope: Settlement itself, excluding separately rated attractions. GPS -3.432, 10.655: approximate editorial point; verification pending.
 - Worldwide peers (I/U/S/E/D):
   - [Hong Kong (CN)](../../../countries/CN/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); upper anchor; lower impact (lagoon-side town); lower uniqueness (Atlantic fishing community); lower significance (regional maritime history); lower experience (local waterfront walks); lower depth (marine park excluded).
@@ -151,12 +154,12 @@
 - Depth 6.5: marine park excluded.
 - Categories: relaxation:8.2, photography:8.0, culture:7.7. Overall: 72.10/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked destination-specific source; editorial only.
+- Evidence: [Senate register](https://senat.ga/collectivites-locales/informations-generales/decoupage-administratif/) identifies Basse Banio seat; [town geography](https://www.tageo.com/index-e-gb-cities-GA.htm) identifies coastal settlement. Do not inherit marine park wildlife. Reviewed 2026-11-25. Original status editorial-only; other material claims remain unverified.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access and individual peer/category calibration.
 
 ## city-ga-mouila — Mouila — 2026-11-25
 
-- [YAML](../../../countries/GA/cities/mouila.yaml) · Action: new · **editorial-only**.
+- [YAML](../../../countries/GA/cities/mouila.yaml) · Action: new · **source-linked-unverified**.
 - Scope: Settlement itself, excluding separately rated attractions. GPS -1.868, 11.055: approximate editorial point; verification pending.
 - Worldwide peers (I/U/S/E/D):
   - [Siem Reap (KH)](../../../countries/KH/cities/siem-reap.yaml) — 8.8 / 9.0 / 9.3 / 9.0 / 9.2 (90.20/100); upper anchor; lower impact (river-region town streets); lower uniqueness (Ngounié commercial settlement); lower significance (regional civic heritage); lower experience (market and meals); lower depth (Blue Lake excluded).
@@ -170,12 +173,12 @@
 - Depth 6.2: Blue Lake excluded.
 - Categories: culture:7.6, food:7.6. Overall: 67.50/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked destination-specific source; editorial only.
+- Evidence: [Town geography](https://www.tageo.com/index-e-gb-cities-GA.htm) and [Senate register](https://senat.ga/collectivites-locales/informations-generales/decoupage-administratif/) establish provincial-town identity, not visitor food or market quality. Reviewed 2026-11-25. Original status editorial-only; other material claims remain unverified.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access and individual peer/category calibration.
 
 ## city-ga-tchibanga — Tchibanga — 2026-11-25
 
-- [YAML](../../../countries/GA/cities/tchibanga.yaml) · Action: new · **editorial-only**.
+- [YAML](../../../countries/GA/cities/tchibanga.yaml) · Action: new · **source-linked-unverified**.
 - Scope: Settlement itself, excluding separately rated attractions. GPS -2.85, 11.03: approximate editorial point; verification pending.
 - Worldwide peers (I/U/S/E/D):
   - [Siem Reap (KH)](../../../countries/KH/cities/siem-reap.yaml) — 8.8 / 9.0 / 9.3 / 9.0 / 9.2 (90.20/100); upper anchor; lower impact (southern market town); lower uniqueness (savanna region community); lower significance (local administrative role); lower experience (town walks and food); lower depth (remote parks excluded).
@@ -189,12 +192,12 @@
 - Depth 6.0: remote parks excluded.
 - Categories: culture:7.3, food:7.4. Overall: 64.35/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked destination-specific source; editorial only.
+- Evidence: [Senate register](https://senat.ga/collectivites-locales/informations-generales/decoupage-administratif/) and [town geography](https://www.tageo.com/index-e-gb-cities-GA.htm) establish administrative role and geography. Reviewed 2026-11-25. Original status editorial-only; other material claims remain unverified.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access and individual peer/category calibration.
 
 ## city-ga-oyem — Oyem — 2026-11-25
 
-- [YAML](../../../countries/GA/cities/oyem.yaml) · Action: new · **editorial-only**.
+- [YAML](../../../countries/GA/cities/oyem.yaml) · Action: new · **source-linked-unverified**.
 - Scope: Settlement itself, excluding separately rated attractions. GPS 1.60, 11.58: approximate editorial point; verification pending.
 - Worldwide peers (I/U/S/E/D):
   - [Beijing (CN)](../../../countries/CN/cities/beijing.yaml) — 9.7 / 9.7 / 9.9 / 9.5 / 10.0 (97.40/100); upper anchor; lower impact (northern commercial streets); lower uniqueness (regional Fang cultural setting); lower significance (regional trade); lower experience (markets and meals); lower depth (limited dedicated venues).
@@ -208,12 +211,12 @@
 - Depth 6.4: limited dedicated venues.
 - Categories: culture:7.7, food:7.6. Overall: 66.40/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked destination-specific source; editorial only.
+- Evidence: [Senate register](https://senat.ga/collectivites-locales/informations-generales/decoupage-administratif/) and [town geography](https://www.tageo.com/index-e-gb-cities-GA.htm) establish provincial capital and geography. Reviewed 2026-11-25. Original status editorial-only; other material claims remain unverified.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access and individual peer/category calibration.
 
 ## city-ga-lastoursville — Lastoursville — 2026-11-25
 
-- [YAML](../../../countries/GA/cities/lastoursville.yaml) · Action: new · **editorial-only**.
+- [YAML](../../../countries/GA/cities/lastoursville.yaml) · Action: new · **source-linked-unverified**.
 - Scope: Settlement itself, excluding separately rated attractions. GPS -0.817, 12.717: approximate editorial point; verification pending.
 - Worldwide peers (I/U/S/E/D):
   - [Siem Reap (KH)](../../../countries/KH/cities/siem-reap.yaml) — 8.8 / 9.0 / 9.3 / 9.0 / 9.2 (90.20/100); upper anchor; lower impact (river and railway settlement streets); lower uniqueness (interior trading and transport community); lower significance (regional history); lower experience (local food and walks); lower depth (caves excluded).
@@ -227,12 +230,12 @@
 - Depth 6.2: caves excluded.
 - Categories: history:7.8, culture:7.8. Overall: 68.45/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked destination-specific source; editorial only.
+- Evidence: [Senate register](https://senat.ga/collectivites-locales/informations-generales/decoupage-administratif/) identifies Mulundu seat; [UNESCO cave nomination](https://whc.unesco.org/en/tentativelists/6587/) provides historical regional context, not a basis for inheriting cave scores. Reviewed 2026-11-25. Original status editorial-only; other material claims remain unverified.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access and individual peer/category calibration.
 
 ## city-ga-koulamoutou — Koulamoutou — 2026-11-25
 
-- [YAML](../../../countries/GA/cities/koulamoutou.yaml) · Action: new · **editorial-only**.
+- [YAML](../../../countries/GA/cities/koulamoutou.yaml) · Action: new · **source-linked-unverified**.
 - Scope: Settlement itself, excluding separately rated attractions. GPS -1.136, 12.463: approximate editorial point; verification pending.
 - Worldwide peers (I/U/S/E/D):
   - [Siem Reap (KH)](../../../countries/KH/cities/siem-reap.yaml) — 8.8 / 9.0 / 9.3 / 9.0 / 9.2 (90.20/100); upper anchor; lower impact (provincial streets); lower uniqueness (interior administrative settlement); lower significance (regional civic history); lower experience (markets and meals); lower depth (limited visitor venues).
@@ -246,12 +249,12 @@
 - Depth 6.0: limited visitor venues.
 - Categories: culture:7.3, food:7.4. Overall: 63.65/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked destination-specific source; editorial only.
+- Evidence: [Senate register](https://senat.ga/collectivites-locales/informations-generales/decoupage-administratif/) and [town geography](https://www.tageo.com/index-e-gb-cities-GA.htm) establish provincial capital and geography. Reviewed 2026-11-25. Original status editorial-only; other material claims remain unverified.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access and individual peer/category calibration.
 
 ## city-ga-booue — Booué — 2026-11-25
 
-- [YAML](../../../countries/GA/cities/booue.yaml) · Action: new · **editorial-only**.
+- [YAML](../../../countries/GA/cities/booue.yaml) · Action: new · **source-linked-unverified**.
 - Scope: Settlement itself, excluding separately rated attractions. GPS -0.09, 11.95: approximate editorial point; verification pending.
 - Worldwide peers (I/U/S/E/D):
   - [Siem Reap (KH)](../../../countries/KH/cities/siem-reap.yaml) — 8.8 / 9.0 / 9.3 / 9.0 / 9.2 (90.20/100); upper anchor; lower impact (railway and river settlement); lower uniqueness (Ogooué transport character); lower significance (regional infrastructure history); lower experience (town walks and food); lower depth (remote forest excluded).
@@ -265,5 +268,5 @@
 - Depth 5.9: remote forest excluded.
 - Categories: culture:7.5, history:7.5. Overall: 65.65/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked destination-specific source; editorial only.
+- Evidence: [Town geography](https://www.tageo.com/index-e-gb-cities-GA.htm) and [operator itinerary](https://gabontravelandtours.com/tours/gabon-mammal-tour/) establish settlement and gateway context; exclude the excursions themselves. Reviewed 2026-11-25. Original status editorial-only; other material claims remain unverified.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access and individual peer/category calibration.
