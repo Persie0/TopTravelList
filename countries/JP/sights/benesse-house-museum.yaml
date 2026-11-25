@@ -2,8 +2,8 @@ id: sight-jp-benesse-house-museum
 name: "Benesse House Museum"
 location:
   country_code: JP
-  latitude: 34.4468
-  longitude: 133.9911
+  latitude: 34.44523
+  longitude: 133.99066
 scores:
   impact: 8.7
   uniqueness: 8.9
