@@ -1,0 +1,16 @@
+id: sight-dk-moesgaard
+name: "Moesgaard Museum"
+location:
+  country_code: DK
+  latitude: 56.087
+  longitude: 10.222
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 8.9
+  experience: 9.0
+  depth: 8.9
+  categories:
+    culture: 9.2
+    history: 9.3
+    architecture: 9

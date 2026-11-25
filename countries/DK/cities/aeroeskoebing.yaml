@@ -1,0 +1,16 @@
+id: city-dk-aeroeskoebing
+name: "Ærøskøbing"
+location:
+  country_code: DK
+  latitude: 54.889
+  longitude: 10.41
+scores:
+  impact: 8.4
+  uniqueness: 8.5
+  significance: 8.0
+  experience: 8.5
+  depth: 7.3
+  categories:
+    architecture: 8.9
+    photography: 9
+    relaxation: 8.8

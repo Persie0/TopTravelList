@@ -1,0 +1,16 @@
+id: sight-dk-amalienborg-district
+name: "Amalienborg and Frederiksstaden district (tentative property)"
+location:
+  country_code: DK
+  latitude: 55.684
+  longitude: 12.593
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 8.9
+  experience: 8.8
+  depth: 8.5
+  categories:
+    architecture: 9.3
+    history: 9.1
+    photography: 9
