@@ -1,0 +1,15 @@
+id: city-sd-port-sudan
+name: "Port Sudan"
+location:
+  country_code: SD
+  latitude: 19.617
+  longitude: 37.216
+scores:
+  impact: 7.0
+  uniqueness: 7.4
+  significance: 7.7
+  experience: 7.4
+  depth: 7.1
+  categories:
+    culture: 7.6
+    food: 7.4
