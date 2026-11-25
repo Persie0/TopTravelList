@@ -1701,3 +1701,33 @@
 - Categories: nature 9.3, wildlife 9.1. Computed overall: unranked.
 - High-score challenge: Not applicable. Approved 10 registry: none.
 - Verification still needed: ordinary permitted access and exact visitor scope.
+
+## Follow-up: sight-br-iguacu-falls-brazilian-viewpoints — 2026-11-25 (worldwide review)
+
+- [YAML](../../../countries/BR/sights/iguacu-falls-brazilian-viewpoints.yaml) · Action: fact-check-only · **source-linked-unverified**: limited source claims checked; not comprehensive fact-check. Original decision above retained.
+- Sources inspected 2026-11-25: [https://whc.unesco.org/en/list/355](https://whc.unesco.org/en/list/355), [https://whc.unesco.org/en/list/303/](https://whc.unesco.org/en/list/303/)
+- Decision: UNESCO confirms the enormous shared waterfall system in its forest setting. Brazilian and Argentine viewpoint circuits should retain equal impact and rarity for the shared falls, but the existing Brazilian depth 7.8 versus Argentine 8.6 correctly distinguishes circuit breadth. Nature and photography 9.9 describe the actual waterfall panorama, not whole-park biodiversity.
+- I/U/S/E/D: 9.9 / 9.8 / 9.2 / 9.5 / 7.8 → 9.9 / 9.8 / 9.2 / 9.5 / 7.8; total 94.65/100 → 94.65/100. Categories unchanged. No new 10 or country multiplier. Representative GPS retained.
+
+| Current worldwide peer | I/U/S/E/D | Overall | Scope comparison |
+| --- | --- | --- | --- |
+| [Iguazú Falls (Argentine circuits)](../../../countries/AR/sights/iguazu-falls-argentine-circuits.yaml) | 9.9 / 9.8 / 9.2 / 9.6 / 8.6 | 95.60/100 | Same falls, broader visitor circuit in Argentina. |
+| [Ban Gioc Detian Waterfall (Vietnam Side)](../../../countries/VN/sights/ban-gioc-waterfall.yaml) | 9.2 / 9.4 / 8.5 / 9.2 / 8.3 | 90.20/100 | Major waterfall has smaller overall concentration and scale. |
+| [Krimml Waterfalls](../../../countries/AT/sights/krimml-waterfalls.yaml) | 9.0 / 9.0 / 8.5 / 9.1 / 8.3 | 88.45/100 | Highly rewarding falls but less globally singular. |
+| [Gocta Waterfall](../../../countries/PE/sights/gocta-waterfall.yaml) | 9.2 / 8.8 / 7.8 / 8.8 / 8.0 | 86.40/100 | Tall cascade with different and narrower visual character. |
+
+
+## Follow-up: sight-br-valongo-wharf-archaeological-site — 2026-11-25 (worldwide review)
+
+- [YAML](../../../countries/BR/sights/valongo-wharf-archaeological-site.yaml) · Action: fact-check-only · **source-linked-unverified**: limited source claims checked; not comprehensive fact-check. Original decision above retained.
+- Sources inspected 2026-11-25: [https://whc.unesco.org/en/list/1548/](https://whc.unesco.org/en/list/1548/)
+- Decision: UNESCO identifies the wharf as exceptionally important physical evidence of the arrival of enslaved Africans in the Americas. Preserve significance 9.7 and history 9.8; do not transfer these to visual spectacle or duration. Existing depth 6.1 reflects the small exposed archaeological site.
+- I/U/S/E/D: 7.5 / 8.9 / 9.7 / 7.8 / 6.1 → 7.5 / 8.9 / 9.7 / 7.8 / 6.1; total 81.95/100 → 81.95/100. Categories unchanged. No new 10 or country multiplier. Representative GPS retained.
+
+| Current worldwide peer | I/U/S/E/D | Overall | Scope comparison |
+| --- | --- | --- | --- |
+| [Mauthausen Memorial](../../../countries/AT/sights/mauthausen-memorial.yaml) | 9.1 / 9.4 / 9.8 / 9.0 / 8.8 | 92.70/100 | Greater physical extent and interpreted visitor breadth. |
+| [Hellfire Pass Memorial](../../../countries/TH/sights/hellfire-pass-memorial.yaml) | 8.7 / 9.0 / 9.5 / 8.8 / 8.1 | 88.90/100 | Strong historic testimony with longer interpreted route. |
+| [My Lai Massacre Memorial](../../../countries/VN/sights/my-lai-massacre-memorial.yaml) | 8.6 / 9.2 / 9.6 / 8.6 / 8.1 | 89.00/100 | International historical significance with broader site interpretation. |
+| [Zoungbodji Memorial Sites](../../../countries/BJ/sights/zoungbodji-memorial-sites.yaml) | 7.0 / 8.4 / 9.1 / 7.7 / 6.3 | 78.05/100 | Related remembrance scope, distinct historical evidence. |
+

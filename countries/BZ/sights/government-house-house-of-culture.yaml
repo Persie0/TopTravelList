@@ -1,0 +1,15 @@
+id: sight-bz-government-house-house-of-culture
+name: "Government House (House of Culture)"
+location:
+  country_code: BZ
+  latitude: 17.489
+  longitude: -88.189
+scores:
+  impact: 6.9
+  uniqueness: 7.3
+  significance: 8.0
+  experience: 7.2
+  depth: 6.7
+  categories:
+    architecture: 7.8
+    history: 8.3
