@@ -1,0 +1,15 @@
+id: sight-ck-mauke-caves
+name: "Mauke makatea freshwater caves (Moti and authorized cave visits)"
+location:
+  country_code: CK
+  latitude: -20.16
+  longitude: -157.35
+scores:
+  impact: 8.3
+  uniqueness: 8.6
+  significance: 7.9
+  experience: 8.0
+  depth: 8.0
+  categories:
+    nature: 8.5
+    adventure: 8.4

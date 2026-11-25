@@ -1,0 +1,15 @@
+id: sight-ck-suwarrow
+name: "Suwarrow National Park (seasonal yacht access)"
+location:
+  country_code: CK
+  latitude: -13.25
+  longitude: -163.1
+scores:
+  impact: null
+  uniqueness: 9.0
+  significance: 9.1
+  experience: null
+  depth: null
+  categories:
+    nature: 9.1
+    wildlife: 9.1

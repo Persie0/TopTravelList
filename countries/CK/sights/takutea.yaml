@@ -1,0 +1,15 @@
+id: sight-ck-takutea
+name: "Takutea Wildlife Sanctuary"
+location:
+  country_code: CK
+  latitude: -19.82
+  longitude: -158.3
+scores:
+  impact: null
+  uniqueness: 8.8
+  significance: 9.1
+  experience: null
+  depth: null
+  categories:
+    nature: 8.9
+    wildlife: 9.2

@@ -1,0 +1,15 @@
+id: city-ck-oneroa
+name: "Oneroa (Mangaia)"
+location:
+  country_code: CK
+  latitude: -21.933
+  longitude: -157.951
+scores:
+  impact: 7.2
+  uniqueness: 7.8
+  significance: 7.7
+  experience: 7.2
+  depth: 6.9
+  categories:
+    culture: 8.0
+    history: 7.8

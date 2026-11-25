@@ -1,0 +1,16 @@
+id: sight-ck-mangaia-caves
+name: "Mangaia makatea cave heritage (authorized guided sites)"
+location:
+  country_code: CK
+  latitude: -21.92
+  longitude: -157.93
+scores:
+  impact: 8.4
+  uniqueness: 8.7
+  significance: 8.6
+  experience: 8.0
+  depth: 8.3
+  categories:
+    nature: 8.7
+    history: 8.5
+    adventure: 8.4

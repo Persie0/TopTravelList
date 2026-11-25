@@ -1,0 +1,15 @@
+id: city-ck-arutanga
+name: "Arutanga (Aitutaki)"
+location:
+  country_code: CK
+  latitude: -18.863
+  longitude: -159.792
+scores:
+  impact: 7.5
+  uniqueness: 7.9
+  significance: 8.2
+  experience: 8.0
+  depth: 7.4
+  categories:
+    culture: 8.3
+    history: 8.3
