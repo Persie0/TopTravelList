@@ -1,0 +1,14 @@
+id: sight-mr-tegdaoust-archaeological-site
+name: "Tegdaoust Archaeological Site (Aoudaghost)"
+location:
+  country_code: MR
+  latitude: 17.42323
+  longitude: -10.41035
+scores:
+  impact: null
+  uniqueness: 8.5
+  significance: 8.8
+  experience: null
+  depth: null
+  categories:
+    history: 9.0
