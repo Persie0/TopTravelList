@@ -1,0 +1,15 @@
+id: sight-tv-davids-drill
+name: "David’s Drill (Te Vili O Tavita)"
+location:
+  country_code: TV
+  latitude: -8.515556
+  longitude: 179.200833
+scores:
+  impact: 5.8
+  uniqueness: 8.5
+  significance: 9.0
+  experience: 6.7
+  depth: 5.6
+  categories:
+    history: 8.9
+    nature: 7.4
