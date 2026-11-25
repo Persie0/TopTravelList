@@ -590,3 +590,24 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: No independently checked per-record source; editorial judgment only.
 - Remaining gaps: Independent site-specific facts, access, GPS where unchecked, category and peer verification.
+
+## Follow-up: sight-gm-kunta-kinteh-island — 2026-11-25 (worldwide review)
+
+- [YAML](../../../countries/GM/sights/kunta-kinteh-island.yaml) · Action: fact-check-only · **source-linked-unverified**; specific heritage scope inspected, not full independent fact-checking.
+- Sources inspected: [UNESCO property description](https://whc.unesco.org/en/list/761/) and [National Centre for Arts and Culture](https://ncac.gm/monuments-and-sites/).
+- Retain 86.50 and the exceptional significance 9.6/history 9.7: the island provides important material testimony to Atlantic enslavement, trade and remembrance. UNESCO describes the eroding fort ruins; depth 6.9 reflects the small island rather than all related sites. The experience score describes reflective interpretation. Compare historical testimony and actual visitor scope, never the magnitude of suffering. No guarantee of current admission, no transfer of the full serial property's scores, no new perfect ratings.
+
+| Current worldwide peer | I/U/S/E/D | Overall /100 | Comparison |
+| --- | --- | --- | --- |
+| [valongo wharf archaeological site (BR)](../../../countries/BR/sights/valongo-wharf-archaeological-site.yaml) | 7.5 / 8.9 / 9.7 / 7.8 / 6.1 | 81.95 | Closely related historical testimony, smaller exposed archaeological site. |
+| [aapravasi ghat (MU)](../../../countries/MU/sights/aapravasi-ghat.yaml) | 7.7 / 9.2 / 9.6 / 8.2 / 7.0 | 84.60 | Distinct historic migration and labor heritage, comparable bounded interpretation. |
+| [mauthausen memorial (AT)](../../../countries/AT/sights/mauthausen-memorial.yaml) | 9.1 / 9.4 / 9.8 / 9.0 / 8.8 | 92.70 | More extensive preserved and interpreted historical site; not a comparison of suffering. |
+| [hellfire pass memorial (TH)](../../../countries/TH/sights/hellfire-pass-memorial.yaml) | 8.7 / 9.0 / 9.5 / 8.8 / 8.1 | 88.90 | Longer interpreted memorial route; different historical context. |
+
+## Follow-up: sight-gm-wassu-stone-circles — 2026-11-25 (worldwide review)
+
+- [UNESCO property description](https://whc.unesco.org/en/list/1226) distinguishes Wassu from Kerbatch and the two Senegalese components. Retain 86.40 provisionally: the archaeological importance is strong but depth 7.5 belongs to the individual component, not the entire transnational serial property or nearby quarry. No new score. Individual GPS and category comparison remain outstanding. **Source-linked-unverified**.
+
+## Follow-up: sight-gm-river-gambia-national-park — 2026-11-25 (worldwide review)
+
+- [Environment ministry](https://meccnar.gov.gm/information-protected-areas-gambia) identifies the chimpanzee rehabilitation program and protected islands. [Visitor operator](https://www.gambia.co.uk/chimp-rehabilitation-project) describes boat observations. Retain 84.45 and depth 7.6 provisionally for bounded river-based observation, without assuming island landings, guaranteed chimpanzee encounters, or including activities at a separate mainland camp. **Source-linked-unverified**; specialist wildlife comparisons and GPS verification outstanding.
