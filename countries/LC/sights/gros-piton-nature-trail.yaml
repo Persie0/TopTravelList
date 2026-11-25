@@ -1,0 +1,16 @@
+id: sight-lc-gros-piton-nature-trail
+name: "Gros Piton Nature Trail"
+location:
+  country_code: LC
+  latitude: 13.807
+  longitude: -61.067
+scores:
+  impact: 9.1
+  uniqueness: 8.8
+  significance: 8.1
+  experience: 8.8
+  depth: 7.7
+  categories:
+    nature: 9.2
+    adventure: 9.3
+    photography: 9.4
