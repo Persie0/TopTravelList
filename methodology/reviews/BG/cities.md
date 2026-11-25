@@ -23,6 +23,8 @@
 | [Tartu (EE)](../../../countries/EE/cities/tartu.yaml) (8 / 8.1 / 8.4 / 8.5 / 8.3) | regional city | Uniqueness higher: Distinct layered ancient and Revival city; depth higher: Several urban hills and museums. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.9 | Roman theatre and colorful hilltop houses |
@@ -58,6 +60,8 @@
 | [Tartu (EE)](../../../countries/EE/cities/tartu.yaml) (8 / 8.1 / 8.4 / 8.5 / 8.3) | regional city | Uniqueness higher: Layered Balkan capital with diverse religious architecture; depth higher: Many urban districts excluding Vitosha. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.4 | Orthodox domes Roman remains and urban parks |
@@ -93,6 +97,8 @@
 | [Tartu (EE)](../../../countries/EE/cities/tartu.yaml) (8 / 8.1 / 8.4 / 8.5 / 8.3) | regional city | Uniqueness higher: Distinct medieval capital terrain and urban fabric; depth higher: Several compact urban districts. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.9 | Hillside houses and dramatic river bends |
@@ -128,6 +134,8 @@
 | [Tartu (EE)](../../../countries/EE/cities/tartu.yaml) (8 / 8.1 / 8.4 / 8.5 / 8.3) | regional city | Uniqueness higher: Distinct maritime medieval settlement; depth lower: Compact settlement excludes Sunny Beach. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.7 | Stone churches and timber houses on peninsula |
@@ -163,6 +171,8 @@
 | [Tartu (EE)](../../../countries/EE/cities/tartu.yaml) (8 / 8.1 / 8.4 / 8.5 / 8.3) | regional city | Uniqueness higher: Ancient coastal town with Revival architecture; depth lower: Several town districts. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.5 | Wooden houses and rocky harbor |
@@ -198,6 +208,8 @@
 | [Tartu (EE)](../../../countries/EE/cities/tartu.yaml) (8 / 8.1 / 8.4 / 8.5 / 8.3) | regional city | Uniqueness higher: Black Sea port and archaeological heritage; depth higher: Multiple urban districts. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.2 | Seafront parks and civic architecture |
@@ -233,6 +245,8 @@
 | [Tartu (EE)](../../../countries/EE/cities/tartu.yaml) (8 / 8.1 / 8.4 / 8.5 / 8.3) | regional city | Uniqueness lower: Regional port and resort identity; depth similar: Exclude surrounding lakes. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 7.8 | Seaside park and urban waterfront |
@@ -268,6 +282,8 @@
 | [Tartu (EE)](../../../countries/EE/cities/tartu.yaml) (8 / 8.1 / 8.4 / 8.5 / 8.3) | regional city | Uniqueness higher: Coherent nineteenth-century mountain town fabric; depth lower: Small settlement. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.5 | Colorful Revival houses and cobbled streets |
@@ -303,6 +319,8 @@
 | [Tartu (EE)](../../../countries/EE/cities/tartu.yaml) (8 / 8.1 / 8.4 / 8.5 / 8.3) | regional city | Uniqueness higher: Distinct mountain town with Revival heritage; depth lower: Exclude Pirin trails and ski slopes. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.0 | Stone houses and historic church streets |
@@ -338,6 +356,8 @@
 | [Tartu (EE)](../../../countries/EE/cities/tartu.yaml) (8 / 8.1 / 8.4 / 8.5 / 8.3) | regional city | Uniqueness higher: Distinct small wine town setting; depth lower: Exclude Rozhen monastery and wider formations. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.5 | Revival houses below sandstone formations |
@@ -373,6 +393,8 @@
 | [Tartu (EE)](../../../countries/EE/cities/tartu.yaml) (8 / 8.1 / 8.4 / 8.5 / 8.3) | regional city | Uniqueness higher: Distinct late nineteenth-century Danube architecture; depth similar: Several urban districts. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.2 | Ornate civic streets and riverfront |
@@ -408,6 +430,8 @@
 | [Tartu (EE)](../../../countries/EE/cities/tartu.yaml) (8 / 8.1 / 8.4 / 8.5 / 8.3) | regional city | Uniqueness lower: Regional civic and monument identity; depth lower: Exclude Madara and plateau park. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 7.6 | Urban streets below plateau |
@@ -443,6 +467,8 @@
 | [Tartu (EE)](../../../countries/EE/cities/tartu.yaml) (8 / 8.1 / 8.4 / 8.5 / 8.3) | regional city | Uniqueness lower: Rose industry and Thracian heritage identity; depth lower: Exclude valley-wide tombs. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 7.7 | Regional town and cultural venues |
@@ -478,6 +504,8 @@
 | [Tartu (EE)](../../../countries/EE/cities/tartu.yaml) (8 / 8.1 / 8.4 / 8.5 / 8.3) | regional city | Uniqueness higher: Distinct Revival carving and craft town; depth lower: Compact urban scope. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.3 | Timber houses stone bridge and clock tower |
@@ -513,6 +541,8 @@
 | [Tartu (EE)](../../../countries/EE/cities/tartu.yaml) (8 / 8.1 / 8.4 / 8.5 / 8.3) | regional city | Uniqueness similar: Distinct terraced Black Sea settlement; depth lower: Exclude external coastal excursions. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.1 | White coastal slopes and seaside streets |
@@ -548,6 +578,8 @@
 | [Tartu (EE)](../../../countries/EE/cities/tartu.yaml) (8 / 8.1 / 8.4 / 8.5 / 8.3) | regional city | Uniqueness lower: Regional mountain gateway identity; depth lower: Exclude surrounding rock field and fortress. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 7.7 | Small town below rock formations |
@@ -583,6 +615,8 @@
 | [Tartu (EE)](../../../countries/EE/cities/tartu.yaml) (8 / 8.1 / 8.4 / 8.5 / 8.3) | regional city | Uniqueness lower: Distinct river frontier town; depth lower: Several compact districts. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 7.8 | Danube waterfront and historic fort skyline |
@@ -618,6 +652,8 @@
 | [Tartu (EE)](../../../countries/EE/cities/tartu.yaml) (8 / 8.1 / 8.4 / 8.5 / 8.3) | regional city | Uniqueness lower: Regional thermal resort identity; depth lower: Exclude Pirin and Melnik. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 7.5 | Park-lined spa town |
