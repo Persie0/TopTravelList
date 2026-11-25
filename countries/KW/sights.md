@@ -2,7 +2,7 @@
 
 # Kuwait (KW) — Sights & attractions ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**36 ranked** · **7 unassessed** · **43 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,11 +10,60 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, or click its GPS coordinates to open **Google Maps**. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (36)
 
-No sights & attractions have been assessed for **Kuwait** yet.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps |
+| ---: | --- | --- | ---: | --- | --- | --- |
+| 1 | [Failaka Island Cultural Landscape](sights/failaka-island-cultural-landscape.yaml) | Island | **88.20** | **History 9.4**, **Culture 9.0**, **Photography 8.6** | 8.5 / 9.1 / 9.3 / 8.5 / 8.6 | [29.433333, 48.333333](https://www.google.com/maps/search/?api=1&query=29.433333,48.333333) |
+| 2 | [Kuwait Towers](sights/kuwait-towers.yaml) | Tower / viewpoint | **84.65** | **Architecture 9.3**, **Photography 9.1** | 8.6 / 8.8 / 8.4 / 8.5 / 7.3 | [29.39, 48.003056](https://www.google.com/maps/search/?api=1&query=29.39,48.003056) |
+| 3 | [Sheikh Abdullah Al-Salem Cultural Centre](sights/sheikh-abdullah-al-salem-cultural-centre.yaml) | Attraction | **83.80** | **Family 9.2**, **Architecture 8.6**, **Culture 8.2** | 8.5 / 8.2 / 7.8 / 8.8 / 9.0 | [29.3408, 48.0335](https://www.google.com/maps/search/?api=1&query=29.3408,48.0335) |
+| 4 | [Tareq Rajab Museum](sights/tareq-rajab-museum.yaml) | Museum / heritage | **83.65** | **Culture 9.0**, **History 8.9** | 8.0 / 8.6 / 8.7 / 8.3 / 8.3 | [29.3208, 48.0392](https://www.google.com/maps/search/?api=1&query=29.3208,48.0392) |
+| 5 | [Souq Al-Mubarakiya](sights/souq-al-mubarakiya.yaml) | Attraction | **82.10** | **Culture 8.9**, **Food 8.8** | 8.0 / 8.2 / 8.2 / 8.8 / 8.0 | [29.3725, 47.9767](https://www.google.com/maps/search/?api=1&query=29.3725,47.9767) |
+| 6 | [Saad and Saeed Archaeological Area](sights/saad-and-saeed-archaeological-area.yaml) | Museum / heritage | **80.75** | **History 9.2**, **Architecture 8.2** | 7.6 / 8.5 / 9.0 / 7.4 / 7.6 | [29.427, 48.294](https://www.google.com/maps/search/?api=1&query=29.427,48.294) |
+| 7 | [Grand Mosque of Kuwait](sights/grand-mosque-of-kuwait.yaml) | Religious site | **80.65** | **Architecture 8.7**, **Culture 8.6**, **Photography 8.3** | 8.3 / 7.9 / 7.9 / 8.4 / 7.6 | [29.3792, 47.9755](https://www.google.com/maps/search/?api=1&query=29.3792,47.9755) |
+| 8 | [Sheikh Jaber Al-Ahmad Cultural Centre](sights/sheikh-jaber-al-ahmad-cultural-centre.yaml) | Attraction | **80.35** | **Architecture 8.9**, **Culture 8.4** | 8.1 / 8.2 / 7.7 / 8.3 / 7.7 | [29.3599, 47.955](https://www.google.com/maps/search/?api=1&query=29.3599,47.955) |
+| 9 | [Tareq Rajab Museum of Islamic Calligraphy](sights/tareq-rajab-museum-of-islamic-calligraphy.yaml) | Museum / heritage | **79.55** | **Culture 8.8**, **History 8.6** | 7.5 / 8.4 / 8.4 / 7.9 / 7.4 | [29.3211, 48.0399](https://www.google.com/maps/search/?api=1&query=29.3211,48.0399) |
+| 10 | [Kuwait National Museum](sights/kuwait-national-museum.yaml) | Museum / heritage | **79.50** | **History 8.9**, **Culture 8.5** | 7.5 / 8.0 / 8.7 / 7.8 / 7.9 | [29.3745, 47.9652](https://www.google.com/maps/search/?api=1&query=29.3745,47.9652) |
+| 11 | [Jahra Nature Reserve (Jahra Pools)](sights/jahra-nature-reserve-jahra-pools.yaml) | Park / reserve | **79.25** | **Wildlife 8.9**, **Nature 8.6** | 7.6 / 8.2 / 8.4 / 7.9 / 7.3 | [29.362, 47.704](https://www.google.com/maps/search/?api=1&query=29.362,47.704) |
+| 12 | [Ahmadi Company Town Heritage Area](sights/ahmadi-company-town-heritage-area.yaml) | Attraction | **79.20** | **History 8.9**, **Architecture 8.6** | 7.5 / 8.3 / 8.6 / 7.5 / 7.5 | [29.0769, 48.0838](https://www.google.com/maps/search/?api=1&query=29.0769,48.0838) |
+| 13 | [Tell Saeed Hellenistic Fortress](sights/tell-saeed-hellenistic-fortress.yaml) | Fortification | **78.85** | **History 9.1**, **Architecture 8.4** | 7.4 / 8.4 / 8.8 / 7.3 / 7.1 | [29.429, 48.294](https://www.google.com/maps/search/?api=1&query=29.429,48.294) |
+| 14 | [Mirror House](sights/mirror-house.yaml) | Attraction | **78.35** | **Photography 8.6**, **Architecture 8.5**, **Culture 8.5** | 7.9 / 8.5 / 7.2 / 8.0 / 7.0 | [29.342, 48.016](https://www.google.com/maps/search/?api=1&query=29.342,48.016) |
+| 15 | [The Scientific Center](sights/the-scientific-center.yaml) | Attraction | **78.10** | **Family 8.9**, **Wildlife 8.3** | 7.9 / 7.7 / 7.3 / 8.5 / 7.8 | [29.3476, 48.0994](https://www.google.com/maps/search/?api=1&query=29.3476,48.0994) |
+| 16 | [Kubbar Island](sights/kubbar-island.yaml) | Island | **77.80** | **Beaches 8.7**, **Nature 8.4**, **Wildlife 8.3** | 7.9 / 8.0 / 7.4 / 8.2 / 7.0 | [29.075, 48.493](https://www.google.com/maps/search/?api=1&query=29.075,48.493) |
+| 17 | [Sadu House](sights/sadu-house.yaml) | Attraction | **76.65** | **Culture 8.6**, **Architecture 8.0** | 7.3 / 7.9 / 8.0 / 8.0 / 7.0 | [29.3753, 47.9658](https://www.google.com/maps/search/?api=1&query=29.3753,47.9658) |
+| 18 | [Al Shaheed Park](sights/al-shaheed-park.yaml) | Park / square | **76.05** | **Relaxation 8.5**, **Photography 8.4**, **Family 8.2** | 7.8 / 7.3 / 6.9 / 8.4 / 8.0 | [29.3682, 47.9928](https://www.google.com/maps/search/?api=1&query=29.3682,47.9928) |
+| 19 | [Tell Saad (Dilmun Settlement)](sights/tell-saad-dilmun-settlement.yaml) | Attraction | **75.85** | **History 9.0** | 7.0 / 8.1 / 8.7 / 7.0 / 6.7 | [29.427, 48.288](https://www.google.com/maps/search/?api=1&query=29.427,48.288) |
+| 20 | [Bait Al Othman Museum](sights/bait-al-othman-museum.yaml) | Museum / heritage | **75.45** | **History 8.3**, **Culture 8.2** | 7.2 / 7.6 / 7.9 / 7.7 / 7.5 | [29.335, 48.028](https://www.google.com/maps/search/?api=1&query=29.335,48.028) |
+| 20 | [Kuwait Red Fort (Al Jahra)](sights/kuwait-red-fort-al-jahra.yaml) | Fortification | **75.45** | **History 8.6**, **Architecture 8.1** | 7.3 / 7.7 / 8.2 / 7.4 / 6.8 | [29.339, 47.667](https://www.google.com/maps/search/?api=1&query=29.339,47.667) |
+| 22 | [Seif Palace](sights/seif-palace.yaml) | Palace / castle | **75.15** | **History 8.6**, **Architecture 8.5** | 7.4 / 7.7 / 8.3 / 7.2 / 6.3 | [29.381, 47.973](https://www.google.com/maps/search/?api=1&query=29.381,47.973) |
+| 23 | [Kuwait Water Towers (Mushroom Towers)](sights/kuwait-water-towers-mushroom-towers.yaml) | Tower / viewpoint | **75.00** | **Architecture 8.7**, **Photography 8.2** | 7.5 / 8.3 / 7.6 / 6.9 / 6.2 | [29.335, 47.99](https://www.google.com/maps/search/?api=1&query=29.335,47.99) |
+| 24 | [Kuwait Maritime Museum](sights/kuwait-maritime-museum.yaml) | Museum / heritage | **74.95** | **History 8.3**, **Culture 8.2** | 7.2 / 7.6 / 7.9 / 7.7 / 7.0 | [29.381, 47.985](https://www.google.com/maps/search/?api=1&query=29.381,47.985) |
+| 25 | [Failaka Heritage Village](sights/failaka-heritage-village.yaml) | Historic settlement | **74.80** | **Culture 8.1**, **Architecture 7.8** | 7.3 / 7.7 / 7.4 / 7.9 / 7.0 | [29.44, 48.289](https://www.google.com/maps/search/?api=1&query=29.44,48.289) |
+| 26 | [Dickson House Cultural Centre](sights/dickson-house-cultural-centre.yaml) | Attraction | **73.65** | **History 8.5**, **Architecture 7.9** | 7.0 / 7.6 / 8.1 / 7.3 / 6.5 | [29.382, 47.983](https://www.google.com/maps/search/?api=1&query=29.382,47.983) |
+| 27 | [Liberation Tower](sights/liberation-tower.yaml) | Tower / viewpoint | **73.35** | **Architecture 8.1**, **Photography 8.0** | 7.5 / 7.3 / 7.7 / 7.2 / 6.4 | [29.3684, 47.9749](https://www.google.com/maps/search/?api=1&query=29.3684,47.9749) |
+| 28 | [The Avenues Mall](sights/the-avenues-mall.yaml) | Attraction | **72.25** | **Food 8.4**, **Architecture 8.0**, **Family 7.9** | 7.5 / 6.9 / 5.8 / 8.4 / 8.3 | [29.302, 47.935](https://www.google.com/maps/search/?api=1&query=29.302,47.935) |
+| 29 | [Green Island](sights/green-island.yaml) | Island | **70.65** | **Relaxation 8.1**, **Family 7.9**, **Photography 7.9** | 7.2 / 7.2 / 6.1 / 7.9 / 7.0 | [29.353, 48.022](https://www.google.com/maps/search/?api=1&query=29.353,48.022) |
+| 30 | [Kuwait National Library](sights/kuwait-national-library.yaml) | Attraction | **70.45** | **Architecture 7.6**, **Culture 7.6** | 6.9 / 7.0 / 7.2 / 7.3 / 6.9 | [29.374, 47.9669](https://www.google.com/maps/search/?api=1&query=29.374,47.9669) |
+| 31 | [Al Kout Waterfront](sights/al-kout-waterfront.yaml) | Attraction | **70.15** | **Food 8.1**, **Relaxation 8.1**, **Photography 7.8** | 7.3 / 6.9 / 5.9 / 8.0 / 7.2 | [29.0805, 48.142](https://www.google.com/maps/search/?api=1&query=29.0805,48.142) |
+| 32 | [Shaikh Mubarak Kiosk](sights/shaikh-mubarak-kiosk.yaml) | Attraction | **69.60** | **History 8.2**, **Architecture 7.5** | 6.5 / 7.3 / 7.8 / 6.9 / 5.9 | [29.3735, 47.9765](https://www.google.com/maps/search/?api=1&query=29.3735,47.9765) |
+| 33 | [Marina Crescent](sights/marina-crescent.yaml) | Attraction | **67.65** | **Food 8.1**, **Relaxation 8.0** | 7.1 / 6.5 / 5.6 / 8.0 / 6.9 | [29.342, 48.066](https://www.google.com/maps/search/?api=1&query=29.342,48.066) |
+| 34 | [Al Messilah Beach](sights/al-messilah-beach.yaml) | Beach / bay | **66.85** | **Beaches 8.2**, **Relaxation 8.1** | 7.0 / 6.6 / 5.5 / 7.9 / 6.5 | [29.258, 48.09](https://www.google.com/maps/search/?api=1&query=29.258,48.09) |
+| 35 | [Salmiya Boulevard Park](sights/salmiya-boulevard-park.yaml) | Park / square | **66.10** | **Family 8.1**, **Relaxation 7.9** | 6.8 / 6.4 / 5.5 / 7.8 / 7.0 | [29.331, 48.069](https://www.google.com/maps/search/?api=1&query=29.331,48.069) |
+| 36 | [Fintas Beach](sights/fintas-beach.yaml) | Beach / bay | **65.90** | **Beaches 8.0**, **Relaxation 7.9** | 6.9 / 6.5 / 5.5 / 7.7 / 6.4 | [29.17, 48.125](https://www.google.com/maps/search/?api=1&query=29.17,48.125) |
 
-Add destination YAML files in [sights/](sights/), then regenerate the overview files.
+## Not yet fully assessed (7)
+
+These destinations have no rank until all five core scores are assessed.
+
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps |
+| ---: | --- | --- | ---: | --- | --- | --- |
+| — | [Al-Qusur Monastery Archaeological Site](sights/al-qusur-monastery-archaeological-site.yaml) | Religious site | **—** | **History 9.0**, **Culture 8.6** | — / 8.5 / 8.7 / — / — | [29.439, 48.32](https://www.google.com/maps/search/?api=1&query=29.439,48.32) |
+| — | [Boubyan Island and Mubarak Al-Kabeer Marine Reserve](sights/boubyan-island-and-mubarak-al-kabeer-marine-reserve.yaml) | Island | **—** | **Wildlife 9.2**, **Nature 9.1** | — / 8.7 / 9.0 / — / — | [29.8, 48.3](https://www.google.com/maps/search/?api=1&query=29.8,48.3) |
+| — | [Kuwait Zoo](sights/kuwait-zoo.yaml) | Attraction | **—** | Family unassessed, Wildlife unassessed | — / 6.3 / 6.2 / — / — | [29.303, 47.963](https://www.google.com/maps/search/?api=1&query=29.303,47.963) |
+| — | [Qaruh Island](sights/qaruh-island.yaml) | Island | **—** | **Nature 8.2**, **Wildlife 8.1** | — / 7.8 / 7.6 / — / — | [28.817, 48.775](https://www.google.com/maps/search/?api=1&query=28.817,48.775) |
+| — | [Sabah Al-Ahmad Natural Reserve](sights/sabah-al-ahmad-natural-reserve.yaml) | Attraction | **—** | **Nature 8.7**, **Wildlife 8.4** | — / 8.2 / 8.5 / — / — | [29.55, 47.87](https://www.google.com/maps/search/?api=1&query=29.55,47.87) |
+| — | [Sheikh Abdullah Al-Jabir Palace](sights/sheikh-abdullah-al-jabir-palace.yaml) | Palace / castle | **—** | **History 8.8**, **Architecture 8.6** | — / 8.3 / 8.5 / — / — | [29.38, 47.993](https://www.google.com/maps/search/?api=1&query=29.38,47.993) |
+| — | [Sulaibikhat Bay Nature Reserve](sights/sulaibikhat-bay-nature-reserve.yaml) | Park / reserve | **—** | **Wildlife 8.5**, **Nature 8.2** | — / 7.7 / 8.1 / — / — | [29.363, 47.864](https://www.google.com/maps/search/?api=1&query=29.363,47.864) |
 
 ---
 
