@@ -1,0 +1,16 @@
+id: sight-br-sitio-roberto-burle-marx
+name: "Sítio Roberto Burle Marx"
+location:
+  country_code: BR
+  latitude: -23.0230
+  longitude: -43.5470
+scores:
+  impact: 8.4
+  uniqueness: 9.0
+  significance: 9.3
+  experience: 8.5
+  depth: 8.0
+  categories:
+    architecture: 9.4
+    nature: 9.3
+    culture: 9.0

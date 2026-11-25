@@ -1,0 +1,16 @@
+id: city-br-jericoacoara
+name: "Jericoacoara"
+location:
+  country_code: BR
+  latitude: -2.7930
+  longitude: -40.5130
+scores:
+  impact: 8.2
+  uniqueness: 8.4
+  significance: 6.5
+  experience: 8.6
+  depth: 6.9
+  categories:
+    relaxation: 9.0
+    beaches: 8.8
+    photography: 9.0

@@ -1,0 +1,15 @@
+id: sight-br-serra-do-divisor-national-park
+name: "Serra do Divisor National Park"
+location:
+  country_code: BR
+  latitude: -7.4000
+  longitude: -73.6500
+scores:
+  impact: null
+  uniqueness: 8.9
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    nature: 9.5
+    wildlife: 9.4
