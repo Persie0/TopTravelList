@@ -1,0 +1,16 @@
+id: sight-ro-corvin-castle
+name: "Corvin Castle"
+location:
+  country_code: RO
+  latitude: 45.749
+  longitude: 22.888
+scores:
+  impact: 9.3
+  uniqueness: 9.1
+  significance: 9.0
+  experience: 9.0
+  depth: 8.6
+  categories:
+    architecture: 9.5
+    history: 9.2
+    photography: 9.4

@@ -1,0 +1,16 @@
+id: city-ro-sinaia
+name: "Sinaia"
+location:
+  country_code: RO
+  latitude: 45.35
+  longitude: 25.55
+scores:
+  impact: 8.3
+  uniqueness: 8.4
+  significance: 8.3
+  experience: 8.6
+  depth: 8.0
+  categories:
+    architecture: 8.8
+    history: 8.8
+    relaxation: 8.7

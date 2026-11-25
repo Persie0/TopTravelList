@@ -1,0 +1,16 @@
+id: city-ro-constanta
+name: "Constanța"
+location:
+  country_code: RO
+  latitude: 44.1598
+  longitude: 28.6348
+scores:
+  impact: 8.1
+  uniqueness: 8.2
+  significance: 8.7
+  experience: 8.6
+  depth: 8.5
+  categories:
+    history: 9.0
+    culture: 8.8
+    beaches: 8.5

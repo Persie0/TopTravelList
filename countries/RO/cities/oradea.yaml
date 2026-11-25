@@ -1,0 +1,16 @@
+id: city-ro-oradea
+name: "Oradea"
+location:
+  country_code: RO
+  latitude: 47.0465
+  longitude: 21.9189
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 8.5
+  experience: 8.8
+  depth: 8.4
+  categories:
+    architecture: 9.3
+    photography: 9.0
+    culture: 8.8

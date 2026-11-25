@@ -1,0 +1,16 @@
+id: sight-ro-moldovita
+name: "Moldovița Monastery"
+location:
+  country_code: RO
+  latitude: 47.656
+  longitude: 25.571
+scores:
+  impact: 8.7
+  uniqueness: 9.0
+  significance: 9.1
+  experience: 8.7
+  depth: 7.9
+  categories:
+    culture: 9.3
+    architecture: 9.2
+    history: 9.2

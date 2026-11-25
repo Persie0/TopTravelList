@@ -1,0 +1,15 @@
+id: city-ro-bistrita
+name: "Bistrița"
+location:
+  country_code: RO
+  latitude: 47.133
+  longitude: 24.5
+scores:
+  impact: 8.0
+  uniqueness: 8.1
+  significance: 8.2
+  experience: 8.3
+  depth: 7.8
+  categories:
+    architecture: 8.7
+    history: 8.7

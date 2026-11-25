@@ -1,0 +1,16 @@
+id: sight-ro-churches-moldavia
+name: "Churches of Moldavia (serial property)"
+location:
+  country_code: RO
+  latitude: 47.72
+  longitude: 25.72
+scores:
+  impact: 9.1
+  uniqueness: 9.4
+  significance: 9.3
+  experience: 9.0
+  depth: 9.0
+  categories:
+    culture: 9.4
+    architecture: 9.4
+    history: 9.4
