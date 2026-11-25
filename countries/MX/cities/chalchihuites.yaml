@@ -1,0 +1,16 @@
+id: city-mx-chalchihuites
+name: "Chalchihuites"
+location:
+  country_code: MX
+  latitude: 23.477306
+  longitude: -103.884167
+scores:
+  impact: 7.5
+  uniqueness: 7.9
+  significance: 8.3
+  experience: 7.7
+  depth: 7.0
+  categories:
+    architecture: 8.5
+    history: 8.7
+    culture: 8.3
