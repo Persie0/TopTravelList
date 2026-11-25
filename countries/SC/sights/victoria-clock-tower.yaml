@@ -1,0 +1,16 @@
+id: sight-sc-victoria-clock-tower
+name: "Victoria Clock Tower"
+location:
+  country_code: SC
+  latitude: -4.6230
+  longitude: 55.4520
+scores:
+  impact: 6.5
+  uniqueness: 6.8
+  significance: 7.5
+  experience: 6.6
+  depth: 5.2
+  categories:
+    history: 7.8
+    architecture: 7.2
+    photography: 6.9
