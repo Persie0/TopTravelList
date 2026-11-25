@@ -1,0 +1,15 @@
+id: city-sm-chiesanuova
+name: "Chiesanuova"
+location:
+  country_code: SM
+  latitude: 43.904510
+  longitude: 12.421417
+scores:
+  impact: 6.7
+  uniqueness: 7.0
+  significance: 7.0
+  experience: 7.3
+  depth: 6.6
+  categories:
+    photography: 7.8
+    relaxation: 7.7

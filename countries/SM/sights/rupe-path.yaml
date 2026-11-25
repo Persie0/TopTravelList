@@ -1,0 +1,16 @@
+id: sight-sm-rupe-path
+name: "Rupe Path"
+location:
+  country_code: SM
+  latitude: 43.9370
+  longitude: 12.4490
+scores:
+  impact: 8.4
+  uniqueness: 8.3
+  significance: 7.5
+  experience: 8.5
+  depth: 8.0
+  categories:
+    nature: 8.9
+    photography: 9.0
+    adventure: 8.5

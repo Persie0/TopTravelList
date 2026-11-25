@@ -1,0 +1,16 @@
+id: sight-sm-palazzo-pubblico
+name: "Palazzo Pubblico"
+location:
+  country_code: SM
+  latitude: 43.9368
+  longitude: 12.44627
+scores:
+  impact: 8.3
+  uniqueness: 8.6
+  significance: 9.0
+  experience: 8.2
+  depth: 7.6
+  categories:
+    history: 9.2
+    architecture: 8.9
+    culture: 8.9

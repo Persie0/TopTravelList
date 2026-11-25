@@ -1,0 +1,14 @@
+id: sight-sm-san-marino-national-gallery
+name: "San Marino National Gallery"
+location:
+  country_code: SM
+  latitude: 43.9357
+  longitude: 12.4469
+scores:
+  impact: 7.4
+  uniqueness: 7.8
+  significance: 7.7
+  experience: 7.9
+  depth: 7.5
+  categories:
+    culture: 8.5
