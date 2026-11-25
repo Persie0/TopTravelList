@@ -2,7 +2,7 @@
 
 # Niger (NE) — Sights & attractions ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**8 ranked** · **8 unassessed** · **16 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,11 +10,33 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (8)
 
-No sights & attractions have been assessed for **Niger** yet.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Historic Centre of Agadez](sights/agadez-historic-centre.yaml) | Historic settlement | **90.65** | **Architecture 9.4**, **History 9.4**, **Culture 9.2**, Photography 9.2 | 9.0 / 9.4 / 9.4 / 8.5 / 8.6 | [16.9738, 7.9878](https://www.google.com/maps/search/?api=1&query=16.9738,7.9878) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Historic%20Centre%20of%20Agadez%2C%20Niger) |
+| 2 | [Dabous Giraffe Rock Art](sights/dabous-giraffes.yaml) | Attraction | **89.20** | **History 9.3**, **Culture 9.2**, **Photography 9.1** | 9.0 / 9.6 / 9.3 / 8.0 / 7.6 | [17.8872, 7.6283](https://www.google.com/maps/search/?api=1&query=17.8872,7.6283) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Dabous%20Giraffe%20Rock%20Art%2C%20Niger) |
+| 3 | [Kouré Giraffe Zone](sights/koure-giraffe-zone.yaml) | Attraction | **87.70** | **Wildlife 9.4**, **Photography 9.0**, **Nature 8.7** | 8.7 / 9.2 / 9.3 / 8.4 / 7.4 | [13.33, 2.65](https://www.google.com/maps/search/?api=1&query=13.33,2.65) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kour%C3%A9%20Giraffe%20Zone%2C%20Niger) |
+| 4 | [Grand Mosque of Agadez](sights/agadez-grand-mosque.yaml) | Religious site | **86.10** | **Architecture 9.3**, **History 9.1**, **Photography 9.0** | 8.8 / 9.2 / 9.0 / 7.8 / 7.0 | [16.974, 7.988](https://www.google.com/maps/search/?api=1&query=16.974,7.988) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Grand%20Mosque%20of%20Agadez%2C%20Niger) |
+| 5 | [Zinder Birni Historic Quarter and Sultanate](sights/zinder-birni.yaml) | Attraction | **83.90** | **History 9.0**, **Architecture 8.9**, **Culture 8.7** | 8.3 / 8.7 / 8.8 / 7.9 / 7.8 | [13.805, 8.988](https://www.google.com/maps/search/?api=1&query=13.805,8.988) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Zinder%20Birni%20Historic%20Quarter%20and%20Sultanate%2C%20Niger) |
+| 6 | [National Museum Boubou Hama](sights/national-museum-boubou-hama.yaml) | Museum / heritage | **81.50** | **Culture 8.7**, **History 8.6**, **Family 8.0** | 7.9 / 8.2 / 8.5 / 8.2 / 8.0 | [13.511, 2.107](https://www.google.com/maps/search/?api=1&query=13.511,2.107) | [Google Maps](https://www.google.com/maps/search/?api=1&query=National%20Museum%20Boubou%20Hama%2C%20Niger) |
+| 7 | [Timia Oasis](sights/timia-oasis.yaml) | Attraction | **81.30** | **Nature 8.8**, **Photography 8.7**, **Relaxation 8.1** | 8.5 / 8.5 / 7.5 / 8.1 / 7.4 | [18.1, 8.77](https://www.google.com/maps/search/?api=1&query=18.1,8.77) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Timia%20Oasis%2C%20Niger) |
+| 8 | [Bilma Salt Pans](sights/bilma-salt-pans.yaml) | Attraction | **80.45** | **Culture 8.7**, **Photography 8.5**, **History 8.4** | 8.0 / 8.8 / 8.1 / 7.5 / 7.0 | [18.69, 12.92](https://www.google.com/maps/search/?api=1&query=18.69,12.92) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bilma%20Salt%20Pans%2C%20Niger) |
 
-Add destination YAML files in [sights/](sights/), then regenerate the overview files.
+## Not yet fully assessed (8)
+
+These destinations have no rank until all five core scores are assessed.
+
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| — | [Assodé Ruins](sights/assode-ruins.yaml) | Museum / heritage | **—** | **History 8.6** | 7.6 / 8.3 / 8.4 / — / — | [18.3, 8.7](https://www.google.com/maps/search/?api=1&query=18.3,8.7) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Assod%C3%A9%20Ruins%2C%20Niger) |
+| — | [Aïr and Ténéré Natural Reserves](sights/air-tenere-natural-reserves.yaml) | Attraction | **—** | **Nature 9.7**, **Photography 9.5**, **Wildlife 9.2** | 9.2 / 9.6 / 9.6 / — / — | [19.076, 9](https://www.google.com/maps/search/?api=1&query=19.076,9) | [Google Maps](https://www.google.com/maps/search/?api=1&query=A%C3%AFr%20and%20T%C3%A9n%C3%A9r%C3%A9%20Natural%20Reserves%2C%20Niger) |
+| — | [Djado Plateau and Fortified Ruins](sights/djado.yaml) | Museum / heritage | **—** | **Photography 9.1**, **Architecture 8.9**, **History 8.9** | 8.9 / 9.2 / 8.7 / — / — | [21.02, 12.31](https://www.google.com/maps/search/?api=1&query=21.02,12.31) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Djado%20Plateau%20and%20Fortified%20Ruins%2C%20Niger) |
+| — | [Earthen Mosques of Tahoua Region](sights/tahoua-earthen-mosques.yaml) | Religious site | **—** | **Architecture 9.0** | — / 8.9 / 8.6 / — / — | [14.889, 5.269](https://www.google.com/maps/search/?api=1&query=14.889,5.269) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Earthen%20Mosques%20of%20Tahoua%20Region%2C%20Niger) |
+| — | [Termit Massif](sights/termit-massif.yaml) | Attraction | **—** | **Wildlife 9.2**, **Nature 9.1** | 8.4 / 9.0 / 9.0 / — / — | [16, 11.2](https://www.google.com/maps/search/?api=1&query=16,11.2) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Termit%20Massif%2C%20Niger) |
+| — | [Tree of Ténéré Monument](sights/tenere-tree-monument.yaml) | Attraction | **—** | **History 8.1** | 6.8 / 8.8 / 7.9 / — / — | [17.75, 10.07](https://www.google.com/maps/search/?api=1&query=17.75,10.07) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tree%20of%20T%C3%A9n%C3%A9r%C3%A9%20Monument%2C%20Niger) |
+| — | [W National Park (Niger sector)](sights/w-national-park-niger.yaml) | Park / reserve | **—** | **Wildlife 9.2**, **Nature 9.1** | 8.8 / 8.8 / 9.1 / — / — | [12.1, 2.4](https://www.google.com/maps/search/?api=1&query=12.1,2.4) | [Google Maps](https://www.google.com/maps/search/?api=1&query=W%20National%20Park%20%28Niger%20sector%29%2C%20Niger) |
+| — | [Zarmakoye Palace of Dosso](sights/dosso-zarmakoye-palace.yaml) | Palace / castle | **—** | **History 8.5**, **Architecture 8.3** | 7.5 / 8.1 / 8.3 / — / — | [13.049, 3.193](https://www.google.com/maps/search/?api=1&query=13.049,3.193) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Zarmakoye%20Palace%20of%20Dosso%2C%20Niger) |
 
 ---
 
