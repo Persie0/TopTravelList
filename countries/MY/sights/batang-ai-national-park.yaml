@@ -1,0 +1,16 @@
+id: sight-my-batang-ai-national-park
+name: "Batang Ai National Park"
+location:
+  country_code: MY
+  latitude: 1.2600
+  longitude: 112.1500
+scores:
+  impact: 8.5
+  uniqueness: 8.7
+  significance: 8.5
+  experience: 8.4
+  depth: 8.8
+  categories:
+    nature: 9.2
+    wildlife: 9.2
+    adventure: 9.0

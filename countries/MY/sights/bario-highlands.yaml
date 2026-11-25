@@ -1,0 +1,16 @@
+id: sight-my-bario-highlands
+name: "Bario Highlands"
+location:
+  country_code: MY
+  latitude: 3.7400
+  longitude: 115.4800
+scores:
+  impact: 8.7
+  uniqueness: 9.0
+  significance: 8.4
+  experience: 8.7
+  depth: 8.8
+  categories:
+    culture: 9.2
+    nature: 9.1
+    adventure: 8.9

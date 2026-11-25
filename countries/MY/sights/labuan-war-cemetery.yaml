@@ -1,0 +1,15 @@
+id: sight-my-labuan-war-cemetery
+name: "Labuan War Cemetery"
+location:
+  country_code: MY
+  latitude: 5.2990
+  longitude: 115.2520
+scores:
+  impact: 7.8
+  uniqueness: 8.0
+  significance: 8.7
+  experience: 8.2
+  depth: 7.5
+  categories:
+    history: 9.0
+    culture: 8.4

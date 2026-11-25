@@ -1,0 +1,16 @@
+id: sight-my-maliau-basin-conservation-area
+name: "Maliau Basin Conservation Area"
+location:
+  country_code: MY
+  latitude: 4.7500
+  longitude: 116.9500
+scores:
+  impact: 9.2
+  uniqueness: 9.4
+  significance: 9.2
+  experience: 8.6
+  depth: 9.3
+  categories:
+    nature: 9.6
+    adventure: 9.5
+    wildlife: 9.3

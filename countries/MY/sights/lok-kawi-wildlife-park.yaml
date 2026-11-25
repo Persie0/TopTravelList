@@ -1,0 +1,15 @@
+id: sight-my-lok-kawi-wildlife-park
+name: "Lok Kawi Wildlife Park"
+location:
+  country_code: MY
+  latitude: 5.8500
+  longitude: 116.0780
+scores:
+  impact: 7.6
+  uniqueness: 7.6
+  significance: 6.8
+  experience: 8.1
+  depth: 7.8
+  categories:
+    family: 8.4
+    wildlife: 8.1

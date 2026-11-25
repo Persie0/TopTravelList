@@ -1,0 +1,16 @@
+id: sight-my-niah-caves-archaeological-complex
+name: "Niah Caves Archaeological Complex"
+location:
+  country_code: MY
+  latitude: 3.8130
+  longitude: 113.7810
+scores:
+  impact: 9.0
+  uniqueness: 9.4
+  significance: 9.6
+  experience: 8.8
+  depth: 8.8
+  categories:
+    history: 9.7
+    nature: 9.1
+    culture: 9.1

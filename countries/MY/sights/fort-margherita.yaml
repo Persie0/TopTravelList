@@ -1,0 +1,15 @@
+id: sight-my-fort-margherita
+name: "Fort Margherita"
+location:
+  country_code: MY
+  latitude: 1.5620
+  longitude: 110.3490
+scores:
+  impact: 7.9
+  uniqueness: 8.1
+  significance: 8.3
+  experience: 8.1
+  depth: 7.4
+  categories:
+    history: 8.7
+    architecture: 8.5

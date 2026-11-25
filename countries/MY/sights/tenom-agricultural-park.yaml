@@ -1,0 +1,15 @@
+id: sight-my-tenom-agricultural-park
+name: "Tenom Agricultural Park"
+location:
+  country_code: MY
+  latitude: 5.1510
+  longitude: 115.9590
+scores:
+  impact: 7.8
+  uniqueness: 8.0
+  significance: 7.6
+  experience: 8.2
+  depth: 8.0
+  categories:
+    nature: 8.6
+    relaxation: 8.5

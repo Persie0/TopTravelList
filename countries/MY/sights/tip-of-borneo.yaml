@@ -1,0 +1,15 @@
+id: sight-my-tip-of-borneo
+name: "Tip of Borneo"
+location:
+  country_code: MY
+  latitude: 7.0360
+  longitude: 116.7440
+scores:
+  impact: 8.4
+  uniqueness: 8.4
+  significance: 7.1
+  experience: 8.6
+  depth: 7.3
+  categories:
+    photography: 9.0
+    nature: 8.8

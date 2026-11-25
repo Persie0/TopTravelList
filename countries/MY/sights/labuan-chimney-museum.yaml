@@ -1,0 +1,15 @@
+id: sight-my-labuan-chimney-museum
+name: "Labuan Chimney Museum"
+location:
+  country_code: MY
+  latitude: 5.3760
+  longitude: 115.2530
+scores:
+  impact: 7.4
+  uniqueness: 8.0
+  significance: 7.9
+  experience: 7.8
+  depth: 7.0
+  categories:
+    history: 8.4
+    architecture: 8.2

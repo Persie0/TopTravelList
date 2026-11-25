@@ -1,0 +1,15 @@
+id: sight-my-kelambu-beach
+name: "Kelambu Beach"
+location:
+  country_code: MY
+  latitude: 6.9690
+  longitude: 116.7450
+scores:
+  impact: 8.5
+  uniqueness: 8.3
+  significance: 6.6
+  experience: 8.8
+  depth: 7.8
+  categories:
+    beaches: 9.1
+    photography: 8.9

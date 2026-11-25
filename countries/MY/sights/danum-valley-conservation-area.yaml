@@ -1,0 +1,16 @@
+id: sight-my-danum-valley-conservation-area
+name: "Danum Valley Conservation Area"
+location:
+  country_code: MY
+  latitude: 4.9600
+  longitude: 117.7800
+scores:
+  impact: 9.4
+  uniqueness: 9.5
+  significance: 9.4
+  experience: 9.1
+  depth: 9.3
+  categories:
+    nature: 9.7
+    wildlife: 9.6
+    adventure: 9.4

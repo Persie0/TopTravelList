@@ -1,0 +1,16 @@
+id: sight-my-kuching-waterfront
+name: "Kuching Waterfront"
+location:
+  country_code: MY
+  latitude: 1.5600
+  longitude: 110.3460
+scores:
+  impact: 8.0
+  uniqueness: 7.9
+  significance: 7.7
+  experience: 8.5
+  depth: 7.8
+  categories:
+    photography: 8.6
+    relaxation: 8.8
+    food: 8.4

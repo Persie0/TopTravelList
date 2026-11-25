@@ -1,0 +1,17 @@
+id: sight-my-gunung-mulu-national-park
+name: "Gunung Mulu National Park"
+location:
+  country_code: MY
+  latitude: 4.1333
+  longitude: 114.9167
+scores:
+  impact: 9.7
+  uniqueness: 9.8
+  significance: 9.6
+  experience: 9.5
+  depth: 9.6
+  categories:
+    nature: 9.8
+    adventure: 9.7
+    wildlife: 9.4
+    photography: 9.5

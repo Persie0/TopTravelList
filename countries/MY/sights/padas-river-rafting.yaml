@@ -1,0 +1,15 @@
+id: sight-my-padas-river-rafting
+name: "Padas River Rafting"
+location:
+  country_code: MY
+  latitude: 5.2000
+  longitude: 115.8500
+scores:
+  impact: 8.4
+  uniqueness: 8.3
+  significance: 6.9
+  experience: 8.9
+  depth: 8.2
+  categories:
+    adventure: 9.2
+    nature: 8.8

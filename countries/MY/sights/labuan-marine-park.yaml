@@ -1,0 +1,15 @@
+id: sight-my-labuan-marine-park
+name: "Labuan Marine Park"
+location:
+  country_code: MY
+  latitude: 5.1700
+  longitude: 115.2000
+scores:
+  impact: 8.3
+  uniqueness: 8.3
+  significance: 7.6
+  experience: 8.6
+  depth: 8.4
+  categories:
+    adventure: 9.0
+    nature: 8.9

@@ -1,0 +1,15 @@
+id: sight-my-kota-kinabalu-city-mosque
+name: "Kota Kinabalu City Mosque"
+location:
+  country_code: MY
+  latitude: 6.0000
+  longitude: 116.1080
+scores:
+  impact: 8.2
+  uniqueness: 8.3
+  significance: 7.4
+  experience: 8.3
+  depth: 7.2
+  categories:
+    architecture: 8.8
+    photography: 8.9

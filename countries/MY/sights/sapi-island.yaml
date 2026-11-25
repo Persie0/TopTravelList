@@ -1,0 +1,15 @@
+id: sight-my-sapi-island
+name: "Sapi Island"
+location:
+  country_code: MY
+  latitude: 6.0090
+  longitude: 115.9910
+scores:
+  impact: 8.2
+  uniqueness: 8.0
+  significance: 6.6
+  experience: 8.6
+  depth: 7.5
+  categories:
+    beaches: 8.8
+    relaxation: 8.7

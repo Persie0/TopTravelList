@@ -1,0 +1,15 @@
+id: sight-my-miri-canada-hill
+name: "Miri Canada Hill"
+location:
+  country_code: MY
+  latitude: 4.3990
+  longitude: 113.9950
+scores:
+  impact: 7.6
+  uniqueness: 7.5
+  significance: 6.8
+  experience: 8.0
+  depth: 7.1
+  categories:
+    photography: 8.4
+    relaxation: 8.0

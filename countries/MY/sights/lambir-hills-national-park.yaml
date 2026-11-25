@@ -1,0 +1,15 @@
+id: sight-my-lambir-hills-national-park
+name: "Lambir Hills National Park"
+location:
+  country_code: MY
+  latitude: 4.1980
+  longitude: 114.0400
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 8.9
+  experience: 8.5
+  depth: 8.6
+  categories:
+    nature: 9.3
+    wildlife: 9.0

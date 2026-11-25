@@ -1,0 +1,15 @@
+id: sight-my-semenggoh-wildlife-centre
+name: "Semenggoh Wildlife Centre"
+location:
+  country_code: MY
+  latitude: 1.4010
+  longitude: 110.3180
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 8.5
+  experience: 8.8
+  depth: 7.9
+  categories:
+    wildlife: 9.3
+    nature: 9.0

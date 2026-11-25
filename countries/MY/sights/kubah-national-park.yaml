@@ -1,0 +1,16 @@
+id: sight-my-kubah-national-park
+name: "Kubah National Park"
+location:
+  country_code: MY
+  latitude: 1.6100
+  longitude: 110.1930
+scores:
+  impact: 8.4
+  uniqueness: 8.5
+  significance: 8.1
+  experience: 8.6
+  depth: 8.5
+  categories:
+    nature: 9.1
+    wildlife: 8.9
+    adventure: 8.8

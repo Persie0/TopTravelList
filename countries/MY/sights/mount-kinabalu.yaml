@@ -1,0 +1,16 @@
+id: sight-my-mount-kinabalu
+name: "Mount Kinabalu"
+location:
+  country_code: MY
+  latitude: 6.0750
+  longitude: 116.5580
+scores:
+  impact: 9.4
+  uniqueness: 9.3
+  significance: 8.7
+  experience: 9.1
+  depth: 8.7
+  categories:
+    nature: 9.5
+    adventure: 9.5
+    photography: 9.4
