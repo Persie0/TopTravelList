@@ -2,8 +2,8 @@ id: sight-ro-turda-salt-mine
 name: "Salina Turda"
 location:
   country_code: RO
-  latitude: 46.587
-  longitude: 23.787
+  latitude: 46.588833
+  longitude: 23.787632
 scores:
   impact: 9.1
   uniqueness: 9.3

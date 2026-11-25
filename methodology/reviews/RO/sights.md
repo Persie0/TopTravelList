@@ -12,17 +12,22 @@
 - Location check: 45.1, 29.3; approximate representative point; independent check outstanding.
 - Evidence status: source-linked-unverified
 - Evidence: [UNESCO](https://whc.unesco.org/en/statesparties/ro) — consulted 2026-11-25; country inventory confirms inscription or tentative identity; individual component claims unresolved; material facts and permitted visit conditions not independently verified.
+- Supplemental evidence (2026-11-25): https://whc.unesco.org/en/list/588/ — UNESCO documents lakes and marshes, over 300 bird species and 45 freshwater fish species; scope is Romanian inscribed delta, not entire Danube basin.
 - Missing or uncertain facts: exact GPS, material claim corroboration, permitted visitor conditions and remaining peer values.
 
 #### Worldwide peer comparisons
 | Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
 | --- | --- | --- |
+| [Okavango Delta (BW)](../../../countries/BW/sights/okavango-delta.yaml) (9.8 / 9.9 / 9.8 / 9.5 / 9.8) | world-leading delta | Greater global wildlife breadth and landscape impact. |
+| [Sundarbans National Park (IN)](../../../countries/IN/sights/sundarbans-national-park.yaml) (9.6 / 9.8 / 9.8 / 9.2 / 9.6) | globally significant river delta | Distinct mangrove ecology; broader worldwide ecological distinction. |
 | [Jiuzhaigou (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) (9.8 / 9.7 / 9.4 / 9.8 / 9.1) | world-leading natural landscape | Uniqueness lower: Exceptional extensive active European river delta; depth higher: Multiple distinct aquatic habitats within Romania. Provisional comparison. |
 | [Hohe Tauern (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) (9.4 / 9.1 / 9 / 9.5 / 9.4) | alpine landscape | Uniqueness higher: Exceptional extensive active European river delta; depth similar: Multiple distinct aquatic habitats within Romania. Provisional comparison. |
 | [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (8.9 / 9 / 9 / 9.1 / 8.6) | protected wetland | Uniqueness higher: Exceptional extensive active European river delta; depth higher: Multiple distinct aquatic habitats within Romania. Provisional comparison. |
 | [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional forest and wetland | Uniqueness higher: Exceptional extensive active European river delta; depth higher: Multiple distinct aquatic habitats within Romania. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 9.2 | Expansive reedbeds lakes channels and bird habitats |
@@ -31,9 +36,9 @@
 | experience | — | 9.2 | Permitted boat trips and wildlife observation |
 | depth | — | 9.4 | Multiple distinct aquatic habitats within Romania |
 
-- Applicable category scores: nature: 9.6, wildlife: 9.6, photography: 9.3.
+- Applicable category scores: nature: 9.6, wildlife: 9.4, photography: 9.3.
 - Computed worldwide overall: 93.55/100.
-- High-score challenge: uniqueness 9.5: Exceptional extensive active European river delta; significance 9.5: International wetland ecology and conservation; nature 9.6: Exceptional extensive active European river delta; wildlife 9.6: Exceptional extensive active European river delta. 90+ total: Expansive reedbeds lakes channels and bird habitats; Exceptional extensive active European river delta; Multiple distinct aquatic habitats within Romania. Compared with Suncheon Bay, the delta has a broader complex of river channels and habitats, supporting high depth and wildlife distinction; it does not surpass Jiuzhaigou's mountain-water impact..
+- High-score challenge: uniqueness 9.5, significance 9.5 and nature 9.6 reflect the extensive delta habitats and international conservation significance described by UNESCO. Wildlife 9.4 rather than 9.6: the bird-rich wetland is exceptional, but the worldwide comparator Okavango has 9.9 wildlife and Sundarbans 9.7; the Romanian visitor experience does not support near-maximal global wildlife breadth. Core 93.55 retained.
 - Approved 10 registry: none.
 - Final decision: Scope-limited editorial rating: Exceptional extensive active European river delta; Multiple distinct aquatic habitats within Romania.
 - Earlier decision: none.
@@ -58,6 +63,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional built complex | Uniqueness higher: Rare intact inhabited Saxon fortified core; depth higher: Defined citadel not whole city. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 9.2 | Coherent medieval hilltop streets walls and towers |
@@ -93,6 +100,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional built complex | Uniqueness higher: Distinct coherent public sculptural ensemble by major modern artist; depth lower: Defined ensemble and route. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.8 | Linked monumental sculptures and urban axis |
@@ -128,6 +137,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional built complex | Uniqueness higher: Distinct regional tradition of painted exterior churches; depth higher: Eight distinct components not one church. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 9.1 | Exceptional exterior frescoes and monastic architecture |
@@ -163,6 +174,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional built complex | Uniqueness higher: Distinct extensive medieval painted facade; depth lower: Single monastery complex. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.9 | Blue exterior frescoes and richly painted church |
@@ -198,6 +211,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional built complex | Uniqueness higher: Distinct fortified painted monastic ensemble; depth lower: Single monastery. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 9.0 | Painted church within large defensive walls |
@@ -233,6 +248,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional built complex | Uniqueness higher: Distinct Moldavian fresco tradition; depth lower: Single monastery. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.7 | Colorful exterior paintings and monastic courtyard |
@@ -268,6 +285,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional built complex | Uniqueness higher: Distinct Dacian defensive and ceremonial landscape; depth higher: Six fortress areas with varying access. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.7 | Mountain ruins terraces and sanctuary remains |
@@ -303,6 +322,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional built complex | Uniqueness higher: Distinct Dacian capital archaeological ensemble; depth lower: Single fortress and sanctuary. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.8 | Stone sanctuaries and fortified woodland setting |
@@ -338,6 +359,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional built complex | Uniqueness higher: Distinct extensive provincial frontier network; depth unassessed: No single visitor circuit assumed. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.0 | Dispersed Roman military and settlement remains |
@@ -373,6 +396,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional built complex | Uniqueness higher: Distinct coherent Brâncovenesc architecture; depth lower: Defined monastery ensemble. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.9 | Ornate arcades and frescoed church |
@@ -408,6 +433,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional built complex | Uniqueness higher: Rare long-lived Roman and later mining system; depth higher: Dispersed mines not unrestricted underground access. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.4 | Historic settlement and mining landscape |
@@ -443,6 +470,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional built complex | Uniqueness higher: Distinct regional church-fortress network; depth higher: Seven listed settlements not all Transylvania. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 9.0 | Fortified churches amid vernacular villages |
@@ -478,6 +507,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional built complex | Uniqueness higher: Distinct fortified ecclesiastical architecture; depth lower: One component. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.9 | Triple defensive walls and Gothic church on hill |
@@ -513,6 +544,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional built complex | Uniqueness higher: Distinct large fortified church refuge system; depth lower: One component. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.8 | Circular defensive walls and internal refuge rooms |
@@ -548,6 +581,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional built complex | Uniqueness higher: Distinct regional wooden church design; depth higher: Eight dispersed listed churches. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.9 | Tall timber spires and traditional painted interiors |
@@ -583,6 +618,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional built complex | Uniqueness higher: Distinct slender Maramureș timber construction; depth lower: Single component. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.6 | Tall timber spire and compact church |
@@ -618,6 +655,8 @@
 | [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional forest and wetland | Uniqueness lower: Rare intact European forest ecosystems; depth unassessed: Dispersed protected cores not one unrestricted visit. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.7 | Old-growth mountain beech forest |
@@ -653,6 +692,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional built complex | Uniqueness higher: Distinct early Wallachian and later religious ensemble; depth lower: Defined church ensemble. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.8 | Princely church and ornate monastic architecture |
@@ -688,6 +729,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional built complex | Uniqueness higher: Rare rock-cut early medieval religious remains; depth unassessed: No permitted visitor route established. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 7.8 | Chalk-cut chambers and historic inscriptions |
@@ -723,6 +766,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional built complex | Uniqueness similar: Distinct regional fortified domestic architecture; depth unassessed: No verified serial visitor scope. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.0 | Tower-like rural residences |
@@ -758,6 +803,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional built complex | Uniqueness higher: Distinct architectural form and reused Roman material; depth lower: One church. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.4 | Unusual stone church incorporating ancient masonry |
@@ -793,6 +840,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional built complex | Uniqueness higher: Distinct extensive fortified civic ensemble; depth higher: Multiple heritage buildings within fortress. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 9.0 | Large star fortress with monumental gateways |
@@ -828,6 +877,8 @@
 | [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional forest and wetland | Uniqueness lower: Distinct northern Carpathian alpine terrain; depth lower: Specific massif not whole Rodna park. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 9.0 | High ridge and glacial mountain lakes |
@@ -852,6 +903,7 @@
 - Location check: 45.62, 22.96; approximate representative point; independent check outstanding.
 - Evidence status: unassessed
 - Evidence: [UNESCO](https://whc.unesco.org/en/statesparties/ro) — consulted 2026-11-25; country inventory confirms inscription or tentative identity; individual component claims unresolved; material facts and permitted visit conditions not independently verified.
+- Supplemental evidence (2026-11-25): https://www.hateggeoparc.ro/new/index.php/en/dinosaur-valley/ — Geopark documents regional visitor route; https://www.hateggeoparc.ro/new/index.php/place/house-of-the-geopark/ documents fossils exhibited at a separate visitor centre. Neither proves ordinary access to the named fossil excavation; do not transfer centre score.
 - Missing or uncertain facts: exact GPS, material claim corroboration, permitted visitor conditions and remaining peer values.
 
 #### Worldwide peer comparisons
@@ -863,6 +915,8 @@
 | [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional forest and wetland | Uniqueness lower: Distinct dinosaur and ancient ecosystem evidence; depth unassessed: No assumed access to fossil excavations. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 7.4 | Sedimentary fossil-bearing landscape |
@@ -898,6 +952,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional built complex | Uniqueness higher: Distinct Saxon urban planning and merchant fabric; depth higher: Historic core not entire city. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 9.0 | Connected historic squares and medieval roofscape |
@@ -933,6 +989,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional built complex | Uniqueness higher: Distinct vernacular landscape composition; depth lower: Romanian component excludes Hollókő. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.7 | Coherent white houses below limestone escarpment |
@@ -968,6 +1026,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional built complex | Uniqueness higher: Distinct Roman river defense network; depth unassessed: No single serial circuit assumed. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.0 | Dispersed frontier remains along Danube |
@@ -1003,6 +1063,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional built complex | Uniqueness higher: Distinct evidence of political repression; depth unassessed: No combined visitor itinerary assumed. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.0 | Preserved detention buildings and memorial spaces |
@@ -1038,6 +1100,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional heritage site | Uniqueness higher: Distinct original context of communist repression; depth similar: Defined prison museum. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.5 | Preserved prison rooms and documentary exhibits |
@@ -1073,6 +1137,8 @@
 | [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional forest and wetland | Uniqueness higher: Rare isolated chemosynthetic underground ecosystem; depth unassessed: No ordinary visitor route. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | null | No ordinary visitor impact established |
@@ -1108,6 +1174,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional built complex | Uniqueness higher: Distinct princely architectural and religious traditions; depth unassessed: No combined itinerary assumed. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.5 | Historic royal churches and monastic ensembles |
@@ -1143,6 +1211,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional built complex | Uniqueness higher: Distinct late royal historicist architectural ensemble; depth higher: Defined estate including public residences. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 9.2 | Ornate palaces within wooded mountain estate |
@@ -1178,6 +1248,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional built complex | Uniqueness higher: Rare extensive prehistoric settlement and ceramic tradition; depth unassessed: Dispersed sites not a single museum. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 7.8 | Archaeological settlement evidence and artifacts |
@@ -1213,6 +1285,8 @@
 | [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional forest and wetland | Uniqueness lower: Distinct living monastic and forest landscape; depth higher: Multiple landscapes not restricted cores. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.7 | Wooded hills and historic monastery settings |
@@ -1248,6 +1322,8 @@
 | [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional forest and wetland | Uniqueness higher: Rare early prehistoric cave art; depth unassessed: No visitor circuit assumed. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | null | No ordinary visitor impact established |
@@ -1283,6 +1359,8 @@
 | [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional forest and wetland | Uniqueness similar: Distinct southern Carpathian alpine landscape; depth higher: Many valleys and ridges. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 9.3 | Jagged peaks and numerous glacial lakes |
@@ -1318,6 +1396,8 @@
 | [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional forest and wetland | Uniqueness lower: Distinct eastern Carpathian high mountain landscape; depth higher: Extensive mountains and valleys. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 9.1 | Alpine ridges lakes and forested valleys |
@@ -1353,6 +1433,8 @@
 | [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional forest and wetland | Uniqueness lower: Distinct large volcanic mountain complex; depth higher: Multiple volcanic and woodland sectors. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.9 | Volcanic ridges and open alpine terrain |
@@ -1388,6 +1470,8 @@
 | [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional forest and wetland | Uniqueness lower: Distinct compact massif with rock pinnacles; depth higher: Multiple summit and forest trails. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 9.0 | Towering rock formations and mountain views |
@@ -1423,6 +1507,8 @@
 | [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional forest and wetland | Uniqueness lower: Distinct concentrated karst canyon scenery; depth higher: Multiple gorge and mountain sectors. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 9.1 | Steep limestone gorge and wooded mountains |
@@ -1458,6 +1544,8 @@
 | [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional forest and wetland | Uniqueness lower: Distinct karst river and waterfall landscape; depth higher: Several distinct river landscapes. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.9 | Wooded gorges turquoise pools and waterfalls |
@@ -1493,6 +1581,8 @@
 | [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional forest and wetland | Uniqueness lower: Distinct warm mountain habitat mosaic; depth higher: Extensive valley and ridge routes. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.9 | Limestone cliffs river valleys and forest |
@@ -1528,6 +1618,8 @@
 | [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional forest and wetland | Uniqueness lower: Distinct old forest and karst mosaic; depth higher: Several diverse habitats. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.6 | Forested plateaus and limestone gorges |
@@ -1563,6 +1655,8 @@
 | [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional forest and wetland | Uniqueness lower: Distinct mountain river corridor; depth lower: Defined gorge landscape. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.5 | Steep wooded river gorge |
@@ -1598,6 +1692,8 @@
 | [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional forest and wetland | Uniqueness lower: Distinct steep mountain and valley mosaic; depth higher: Multiple forest and ridge sectors. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.6 | Wooded mountains rocky outcrops and river valley |
@@ -1633,6 +1729,8 @@
 | [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional forest and wetland | Uniqueness lower: Distinct compact karst mountain landscape; depth lower: Several ridge and gorge walks. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.8 | Sharp limestone ridge and narrow gorges |
@@ -1668,6 +1766,8 @@
 | [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional forest and wetland | Uniqueness lower: Distinct ancient mountain range and southeastern flora; depth lower: Several low mountain routes. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.4 | Low rocky ridges and steppe-like habitats |
@@ -1703,6 +1803,8 @@
 | [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional forest and wetland | Uniqueness similar: Distinct narrow alpine limestone massif; depth higher: Multiple distinct mountain routes. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 9.3 | Long dramatic limestone ridge and wooded valleys |
@@ -1738,6 +1840,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional built complex | Uniqueness higher: Distinct monumental Transylvanian fortress palace; depth higher: Single castle complex. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 9.3 | Dramatic Gothic towers and bridge |
@@ -1773,6 +1877,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional built complex | Uniqueness similar: Distinct fortified residence with literary tourism association; depth lower: One castle. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.8 | Compact castle on rocky hill |
@@ -1795,8 +1901,8 @@
 - Action: new
 - Precise subject: Transfăgărășan mountain road; Defined road corridor not entire Făgăraș.
 - Location check: 45.6, 24.61; approximate representative point; independent check outstanding.
-- Evidence status: editorial-only
-- Evidence: No site-specific source checked; editorial judgment.
+- Evidence status: source-linked-unverified
+- Evidence: https://www.sibiu-turism.ro/Destinations-Mountain-destinations-Transfagarasan-Balea-Lac.aspx — County tourism office describes road and mountain landscape; seasonal travel restrictions apply. Reviewed 2026-11-25; partial factual support, not full claim verification.
 - Missing or uncertain facts: exact GPS, material claim corroboration, permitted visitor conditions and remaining peer values.
 
 #### Worldwide peer comparisons
@@ -1808,6 +1914,8 @@
 | [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional forest and wetland | Uniqueness lower: Distinct scenic road crossing southern Carpathians; depth higher: Defined road corridor not entire Făgăraș. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 9.2 | High mountain hairpins and glacial vistas |
@@ -1830,8 +1938,8 @@
 - Action: new
 - Precise subject: Bâlea Lake; One lake and immediate slopes.
 - Location check: 45.604, 24.616; approximate representative point; independent check outstanding.
-- Evidence status: editorial-only
-- Evidence: No site-specific source checked; editorial judgment.
+- Evidence status: source-linked-unverified
+- Evidence: https://www.sibiu-turism.ro/Ce-vedem-Destinatii-Destinatii-montane-Transfagarasan-Balea-Lac1.aspx — County tourism office describes glacial basin and alpine routes, distinct from entire road. Reviewed 2026-11-25; partial factual support, not full claim verification.
 - Missing or uncertain facts: exact GPS, material claim corroboration, permitted visitor conditions and remaining peer values.
 
 #### Worldwide peer comparisons
@@ -1843,6 +1951,8 @@
 | [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional forest and wetland | Uniqueness lower: Distinct accessible alpine basin; depth lower: One lake and immediate slopes. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.9 | High glacial lake beneath steep mountains |
@@ -1864,9 +1974,10 @@
 - YAML: [source](../../../countries/RO/sights/turda-salt-mine.yaml)
 - Action: new
 - Precise subject: Salina Turda; Defined mine visitor circuit.
-- Location check: 46.587, 23.787; approximate representative point; independent check outstanding.
+- Location check: 46.588833, 23.787632; main visitor entrance coordinate published by operator (2026-11-25).
 - Evidence status: source-linked-unverified
 - Evidence: [Visit Transilvania](https://visittransilvania.ro/travel-information/transylvania) — consulted 2026-11-25; regional tourism context; material facts and permitted visit conditions not independently verified.
+- Supplemental evidence (2026-11-25): https://www.salinaturda.eu/en/access/ — Operator gives main entrance GPS 46.588833, 23.787632 and identifies accessible chambers. https://www.salinaturda.eu/en/locatie/salina-amusement-park/ confirms separate underground recreation and museum experience.
 - Missing or uncertain facts: exact GPS, material claim corroboration, permitted visitor conditions and remaining peer values.
 
 #### Worldwide peer comparisons
@@ -1878,6 +1989,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional built complex | Uniqueness higher: Rare combination of historic mine and underground recreation; depth higher: Defined mine visitor circuit. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 9.1 | Immense salt chambers with modern visitor installations |
@@ -1900,8 +2013,8 @@
 - Action: new
 - Precise subject: Palace of Parliament, Bucharest; Restricted parts excluded.
 - Location check: 44.427, 26.088; approximate representative point; independent check outstanding.
-- Evidence status: editorial-only
-- Evidence: No site-specific source checked; editorial judgment.
+- Evidence status: source-linked-unverified
+- Evidence: https://peplaiuri.ro/en/palace-of-the-parliament — Independent visitor guide documents standard guided tour, advance booking and unavailable extended routes at time of review. No unrestricted interior access. Reviewed 2026-11-25; partial factual support, not full claim verification.
 - Missing or uncertain facts: exact GPS, material claim corroboration, permitted visitor conditions and remaining peer values.
 
 #### Worldwide peer comparisons
@@ -1913,6 +2026,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional built complex | Uniqueness higher: Distinct scale of late socialist state architecture; depth higher: Restricted parts excluded. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 9.0 | Immense monumental palace and ornate halls |
@@ -1935,8 +2050,8 @@
 - Action: new
 - Precise subject: Merry Cemetery, Săpânța; One cemetery not whole village.
 - Location check: 47.97, 23.694; approximate representative point; independent check outstanding.
-- Evidence status: editorial-only
-- Evidence: No site-specific source checked; editorial judgment.
+- Evidence status: source-linked-unverified
+- Evidence: https://visitmaramures.eventya.eu/en/places/the-merry-cemetery — Regional tourism board describes colourful carved grave markers and open-air visitor site. Reviewed 2026-11-25; partial factual support, not full claim verification.
 - Missing or uncertain facts: exact GPS, material claim corroboration, permitted visitor conditions and remaining peer values.
 
 #### Worldwide peer comparisons
@@ -1948,6 +2063,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional built complex | Uniqueness higher: Distinct local narrative memorial tradition; depth lower: One cemetery not whole village. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.7 | Colorful carved and painted grave crosses |
@@ -1970,8 +2087,8 @@
 - Action: new
 - Precise subject: Iron Gates natural and cultural landscape (Romanian side); Romanian landscape only.
 - Location check: 44.63, 22.25; approximate representative point; independent check outstanding.
-- Evidence status: editorial-only
-- Evidence: No site-specific source checked; editorial judgment.
+- Evidence status: source-linked-unverified
+- Evidence: https://visitcarasseverin.ro/en/places/parcul-natural-portile-de-fier — County tourism source describes Romanian bank and Danube Gorge protected landscape; no Serbian component assumed. Reviewed 2026-11-25; partial factual support, not full claim verification.
 - Missing or uncertain facts: exact GPS, material claim corroboration, permitted visitor conditions and remaining peer values.
 
 #### Worldwide peer comparisons
@@ -1983,6 +2100,8 @@
 | [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional forest and wetland | Uniqueness lower: Distinct river passage through Carpathian landscape; depth higher: Romanian landscape only. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 9.0 | Large Danube gorge cliffs and waters |
@@ -2005,8 +2124,8 @@
 - Action: new
 - Precise subject: Bucegi Natural Park; Multiple plateau and valley routes.
 - Location check: 45.4, 25.44; approximate representative point; independent check outstanding.
-- Evidence status: editorial-only
-- Evidence: No site-specific source checked; editorial judgment.
+- Evidence status: source-linked-unverified
+- Evidence: https://www.bucegipark.ro/en/ — Park administration identifies protected area near Sinaia; https://www.bucegipark.ro/en/theme-trails and https://www.bucegipark.ro/en/ticket-information document visitor facilities and routes. Reviewed 2026-11-25; partial factual support, not full claim verification.
 - Missing or uncertain facts: exact GPS, material claim corroboration, permitted visitor conditions and remaining peer values.
 
 #### Worldwide peer comparisons
@@ -2018,6 +2137,8 @@
 | [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional forest and wetland | Uniqueness lower: Distinct accessible Carpathian escarpment landscape; depth higher: Multiple plateau and valley routes. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 9.2 | High plateaus dramatic cliffs and rock formations |

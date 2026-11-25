@@ -23,6 +23,8 @@
 | [Tartu (EE)](../../../countries/EE/cities/tartu.yaml) (8 / 8.1 / 8.4 / 8.5 / 8.3) | regional city | Uniqueness higher: Distinct inhabited Transylvanian fortified town; depth higher: Compact town excludes wider countryside. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 9.0 | Colorful houses and medieval towers on hill |
@@ -58,6 +60,8 @@
 | [Tartu (EE)](../../../countries/EE/cities/tartu.yaml) (8 / 8.1 / 8.4 / 8.5 / 8.3) | regional city | Uniqueness higher: Distinct Saxon mercantile city fabric; depth higher: Several urban districts and collections. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.9 | Coherent historic squares and roofscape |
@@ -93,6 +97,8 @@
 | [Tartu (EE)](../../../countries/EE/cities/tartu.yaml) (8 / 8.1 / 8.4 / 8.5 / 8.3) | regional city | Uniqueness higher: Distinct Saxon trading city setting; depth higher: Exclude Bran and Piatra Craiului. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.9 | Medieval streets below wooded mountains |
@@ -115,8 +121,8 @@
 - Action: new
 - Precise subject: Bucharest settlement; Extensive distinct city districts.
 - Location check: 44.4268, 26.1025; approximate representative point; independent check outstanding.
-- Evidence status: editorial-only
-- Evidence: No site-specific source checked; editorial judgment.
+- Evidence status: source-linked-unverified
+- Evidence: https://peplaiuri.ro/en/guides/things-to-do-in-bucharest — Independent travel guide identifies Old Town, Calea Victoriei, museums and multiple districts; no citywide access guarantee. Reviewed 2026-11-25; partial factual support, not full claim verification.
 - Missing or uncertain facts: exact GPS, material claim corroboration, permitted visitor conditions and remaining peer values.
 
 #### Worldwide peer comparisons
@@ -128,6 +134,8 @@
 | [Tartu (EE)](../../../countries/EE/cities/tartu.yaml) (8 / 8.1 / 8.4 / 8.5 / 8.3) | regional city | Uniqueness higher: Distinct juxtaposition of historic villas and socialist planning; depth higher: Extensive distinct city districts. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.7 | Monumental boulevards and layered urban architecture |
@@ -163,6 +171,8 @@
 | [Tartu (EE)](../../../countries/EE/cities/tartu.yaml) (8 / 8.1 / 8.4 / 8.5 / 8.3) | regional city | Uniqueness higher: Distinct coherent Central European Art Nouveau fabric; depth higher: Several urban districts. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.8 | Ornate Secession palaces and public squares |
@@ -185,8 +195,8 @@
 - Action: new
 - Precise subject: Timișoara settlement; Several contrasting districts.
 - Location check: 45.7489, 21.2087; approximate representative point; independent check outstanding.
-- Evidence status: editorial-only
-- Evidence: No site-specific source checked; editorial judgment.
+- Evidence status: source-linked-unverified
+- Evidence: https://www.discovertimisoara.ro/plan/getting-around — Destination guide describes connected historic squares and Fabric district. Reviewed 2026-11-25; partial factual support, not full claim verification.
 - Missing or uncertain facts: exact GPS, material claim corroboration, permitted visitor conditions and remaining peer values.
 
 #### Worldwide peer comparisons
@@ -198,6 +208,8 @@
 | [Tartu (EE)](../../../countries/EE/cities/tartu.yaml) (8 / 8.1 / 8.4 / 8.5 / 8.3) | regional city | Uniqueness higher: Distinct multicultural Habsburg urban heritage; depth higher: Several contrasting districts. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.6 | Baroque squares and Secession streets |
@@ -233,6 +245,8 @@
 | [Tartu (EE)](../../../countries/EE/cities/tartu.yaml) (8 / 8.1 / 8.4 / 8.5 / 8.3) | regional city | Uniqueness higher: Transylvanian academic and cultural city; depth higher: Multiple urban districts. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.5 | Gothic skyline and historic civic streets |
@@ -255,8 +269,8 @@
 - Action: new
 - Precise subject: Iași settlement; Multiple urban districts.
 - Location check: 47.1585, 27.6014; approximate representative point; independent check outstanding.
-- Evidence status: editorial-only
-- Evidence: No site-specific source checked; editorial judgment.
+- Evidence status: source-linked-unverified
+- Evidence: https://palatulculturii.ro/planifica-vizita-la-palatul-culturii-iasi/ — Museum operator confirms Palace of Culture visits; https://peplaiuri.ro/en/guides/things-to-do-in-iasi describes other city precincts, monasteries and museums. Reviewed 2026-11-25; partial factual support, not full claim verification.
 - Missing or uncertain facts: exact GPS, material claim corroboration, permitted visitor conditions and remaining peer values.
 
 #### Worldwide peer comparisons
@@ -268,6 +282,8 @@
 | [Tartu (EE)](../../../countries/EE/cities/tartu.yaml) (8 / 8.1 / 8.4 / 8.5 / 8.3) | regional city | Uniqueness higher: Distinct former Moldavian capital and university identity; depth higher: Multiple urban districts. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.4 | Palace skyline and historic churches |
@@ -303,6 +319,8 @@
 | [Tartu (EE)](../../../countries/EE/cities/tartu.yaml) (8 / 8.1 / 8.4 / 8.5 / 8.3) | regional city | Uniqueness higher: Distinct fortified historical capital; depth lower: City scope excludes external archaeological sites. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.5 | Star fortress and civic streets |
@@ -338,6 +356,8 @@
 | [Tartu (EE)](../../../countries/EE/cities/tartu.yaml) (8 / 8.1 / 8.4 / 8.5 / 8.3) | regional city | Uniqueness higher: Distinct preserved Saxon village fabric; depth lower: Small settlement not whole serial property. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.4 | Colorful rural houses and fortified church silhouette |
@@ -373,6 +393,8 @@
 | [Tartu (EE)](../../../countries/EE/cities/tartu.yaml) (8 / 8.1 / 8.4 / 8.5 / 8.3) | regional city | Uniqueness higher: Distinct coherent vernacular settlement; depth lower: Exclude wider mountains. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.6 | White houses below dramatic limestone ridge |
@@ -395,8 +417,8 @@
 - Action: new
 - Precise subject: Sinaia settlement; Exclude Bucegi and palace interiors.
 - Location check: 45.35, 25.55; approximate representative point; independent check outstanding.
-- Evidence status: editorial-only
-- Evidence: No site-specific source checked; editorial judgment.
+- Evidence status: source-linked-unverified
+- Evidence: https://peplaiuri.ro/en/guides/things-to-do-in-sinaia — Independent guide distinguishes monastery, casino and royal residences, with temporary Peleș access restrictions noted. Reviewed 2026-11-25; partial factual support, not full claim verification.
 - Missing or uncertain facts: exact GPS, material claim corroboration, permitted visitor conditions and remaining peer values.
 
 #### Worldwide peer comparisons
@@ -408,6 +430,8 @@
 | [Tartu (EE)](../../../countries/EE/cities/tartu.yaml) (8 / 8.1 / 8.4 / 8.5 / 8.3) | regional city | Uniqueness higher: Royal resort town identity; depth lower: Exclude Bucegi and palace interiors. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.3 | Mountain resort streets and historic villas |
@@ -430,8 +454,8 @@
 - Action: new
 - Precise subject: Constanța settlement; Multiple urban districts.
 - Location check: 44.1598, 28.6348; approximate representative point; independent check outstanding.
-- Evidence status: editorial-only
-- Evidence: No site-specific source checked; editorial judgment.
+- Evidence status: source-linked-unverified
+- Evidence: https://visit.omdmamaiaconstanta.ro/ — Destination management organization describes old centre, Casino and Tomis harbour; Mamaia excluded from city scope where distinct. Reviewed 2026-11-25; partial factual support, not full claim verification.
 - Missing or uncertain facts: exact GPS, material claim corroboration, permitted visitor conditions and remaining peer values.
 
 #### Worldwide peer comparisons
@@ -443,6 +467,8 @@
 | [Tartu (EE)](../../../countries/EE/cities/tartu.yaml) (8 / 8.1 / 8.4 / 8.5 / 8.3) | regional city | Uniqueness higher: Layered Black Sea maritime city; depth higher: Multiple urban districts. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.1 | Historic port streets and seafront |
@@ -465,8 +491,8 @@
 - Action: new
 - Precise subject: Tulcea settlement; Exclude entire delta.
 - Location check: 45.179, 28.8; approximate representative point; independent check outstanding.
-- Evidence status: editorial-only
-- Evidence: No site-specific source checked; editorial judgment.
+- Evidence status: source-linked-unverified
+- Evidence: https://www.primariatulcea.ro/atractii/ — Municipality lists local attractions; https://peplaiuri.ro/en/guides/things-to-do-in-tulcea distinguishes city museums and waterfront from delta excursions. Reviewed 2026-11-25; partial factual support, not full claim verification.
 - Missing or uncertain facts: exact GPS, material claim corroboration, permitted visitor conditions and remaining peer values.
 
 #### Worldwide peer comparisons
@@ -478,6 +504,8 @@
 | [Tartu (EE)](../../../countries/EE/cities/tartu.yaml) (8 / 8.1 / 8.4 / 8.5 / 8.3) | regional city | Uniqueness lower: Regional river-port and multicultural identity; depth lower: Exclude entire delta. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 7.6 | Danube waterfront and hillside city |
@@ -500,8 +528,8 @@
 - Action: new
 - Precise subject: Sighetu Marmației settlement; Exclude rural wooden churches.
 - Location check: 47.927, 23.895; approximate representative point; independent check outstanding.
-- Evidence status: editorial-only
-- Evidence: No site-specific source checked; editorial judgment.
+- Evidence status: source-linked-unverified
+- Evidence: https://turismsighet.ro/en/ — City visitor information centre identifies local cultural offerings; https://maramures.info/en/sighetu-marmatiei/what-to-see/ describes specific museums, including Elie Wiesel memorial house. Reviewed 2026-11-25; partial factual support, not full claim verification.
 - Missing or uncertain facts: exact GPS, material claim corroboration, permitted visitor conditions and remaining peer values.
 
 #### Worldwide peer comparisons
@@ -513,6 +541,8 @@
 | [Tartu (EE)](../../../countries/EE/cities/tartu.yaml) (8 / 8.1 / 8.4 / 8.5 / 8.3) | regional city | Uniqueness higher: Distinct Maramureș regional and remembrance identity; depth lower: Exclude rural wooden churches. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 7.9 | Historic market streets and civic architecture |
@@ -548,6 +578,8 @@
 | [Tartu (EE)](../../../countries/EE/cities/tartu.yaml) (8 / 8.1 / 8.4 / 8.5 / 8.3) | regional city | Uniqueness lower: Former Moldavian capital; depth lower: Exclude distant painted monasteries. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 7.9 | Historic churches and fortress skyline |
@@ -570,8 +602,8 @@
 - Action: new
 - Precise subject: Târgu Mureș settlement; Several compact districts.
 - Location check: 46.543, 24.558; approximate representative point; independent check outstanding.
-- Evidence status: editorial-only
-- Evidence: No site-specific source checked; editorial judgment.
+- Evidence status: source-linked-unverified
+- Evidence: https://visitmures.com/en/targu-mures/paths — Regional tourism office documents cultural palace, museum and historic-building walking circuits. Reviewed 2026-11-25; partial factual support, not full claim verification.
 - Missing or uncertain facts: exact GPS, material claim corroboration, permitted visitor conditions and remaining peer values.
 
 #### Worldwide peer comparisons
@@ -583,6 +615,8 @@
 | [Tartu (EE)](../../../countries/EE/cities/tartu.yaml) (8 / 8.1 / 8.4 / 8.5 / 8.3) | regional city | Uniqueness higher: Distinct multicultural Secession civic fabric; depth lower: Several compact districts. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.3 | Ornate cultural palace and central streets |
@@ -618,6 +652,8 @@
 | [Tartu (EE)](../../../countries/EE/cities/tartu.yaml) (8 / 8.1 / 8.4 / 8.5 / 8.3) | regional city | Uniqueness lower: Regional steel and medieval heritage identity; depth lower: Do not inherit Corvin Castle interior score. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 7.5 | Industrial town and castle skyline |
@@ -640,8 +676,8 @@
 - Action: new
 - Precise subject: Bistrița settlement; Limited urban breadth.
 - Location check: 47.133, 24.5; approximate representative point; independent check outstanding.
-- Evidence status: editorial-only
-- Evidence: No site-specific source checked; editorial judgment.
+- Evidence status: source-linked-unverified
+- Evidence: https://primariabistrita.ro/municipiul-bistrita/bistrita-turistica/ — Municipal tourism page identifies the destination; detailed historical claims still require verification. Reviewed 2026-11-25; partial factual support, not full claim verification.
 - Missing or uncertain facts: exact GPS, material claim corroboration, permitted visitor conditions and remaining peer values.
 
 #### Worldwide peer comparisons
@@ -653,6 +689,8 @@
 | [Tartu (EE)](../../../countries/EE/cities/tartu.yaml) (8 / 8.1 / 8.4 / 8.5 / 8.3) | regional city | Uniqueness similar: Saxon trading-town character; depth lower: Limited urban breadth. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.0 | Historic market streets and church tower |
@@ -675,8 +713,8 @@
 - Action: new
 - Precise subject: Arad settlement; Several districts.
 - Location check: 46.186, 21.312; approximate representative point; independent check outstanding.
-- Evidence status: editorial-only
-- Evidence: No site-specific source checked; editorial judgment.
+- Evidence status: source-linked-unverified
+- Evidence: https://travelarad.ro/?lang=en — Destination guide identifies Administrative Palace and historic cathedral architecture. Reviewed 2026-11-25; partial factual support, not full claim verification.
 - Missing or uncertain facts: exact GPS, material claim corroboration, permitted visitor conditions and remaining peer values.
 
 #### Worldwide peer comparisons
@@ -688,6 +726,8 @@
 | [Tartu (EE)](../../../countries/EE/cities/tartu.yaml) (8 / 8.1 / 8.4 / 8.5 / 8.3) | regional city | Uniqueness lower: Regional multicultural urban architecture; depth lower: Several districts. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.0 | Historic boulevards and civic palaces |
