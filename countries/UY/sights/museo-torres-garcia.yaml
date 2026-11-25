@@ -1,0 +1,15 @@
+id: sight-uy-museo-torres-garcia
+name: "Museo Torres Garcia"
+location:
+  country_code: UY
+  latitude: -34.9063
+  longitude: -56.2007
+scores:
+  impact: 7.5
+  uniqueness: 7.9
+  significance: 8.1
+  experience: 7.8
+  depth: 7.0
+  categories:
+    culture: 8.6
+    history: 8.0

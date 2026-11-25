@@ -1,0 +1,15 @@
+id: sight-uy-isla-de-flores-cultural-landscape
+name: "Isla de Flores Cultural Landscape"
+location:
+  country_code: UY
+  latitude: -34.9440
+  longitude: -55.9310
+scores:
+  impact: null
+  uniqueness: 8.4
+  significance: 8.5
+  experience: null
+  depth: null
+  categories:
+    history: 8.7
+    nature: 8.3

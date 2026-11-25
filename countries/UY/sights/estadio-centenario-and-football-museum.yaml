@@ -1,0 +1,15 @@
+id: sight-uy-estadio-centenario-and-football-museum
+name: "Estadio Centenario and Football Museum"
+location:
+  country_code: UY
+  latitude: -34.8945
+  longitude: -56.1527
+scores:
+  impact: 7.9
+  uniqueness: 8.8
+  significance: 9.2
+  experience: 8.2
+  depth: 7.5
+  categories:
+    history: 9.4
+    culture: 9.1

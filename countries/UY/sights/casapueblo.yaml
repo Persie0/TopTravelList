@@ -1,0 +1,16 @@
+id: sight-uy-casapueblo
+name: "Casapueblo"
+location:
+  country_code: UY
+  latitude: -34.9096
+  longitude: -55.0446
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 8.2
+  experience: 8.6
+  depth: 7.6
+  categories:
+    architecture: 9.1
+    photography: 9.2
+    culture: 8.5
