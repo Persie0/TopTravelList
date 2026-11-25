@@ -1,0 +1,14 @@
+id: sight-ng-benin-iya
+name: "Benin Iya Earthworks"
+location:
+  country_code: NG
+  latitude: 6.328611
+  longitude: 5.618889
+scores:
+  impact: null
+  uniqueness: 9.2
+  significance: 9.3
+  experience: null
+  depth: null
+  categories:
+    history: 9.4

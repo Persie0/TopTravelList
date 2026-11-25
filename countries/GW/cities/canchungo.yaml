@@ -1,0 +1,15 @@
+id: city-gw-canchungo
+name: "Canchungo"
+location:
+  country_code: GW
+  latitude: 12.433333
+  longitude: -16.083333
+scores:
+  impact: 6.0
+  uniqueness: 6.9
+  significance: 6.6
+  experience: 6.8
+  depth: 6.1
+  categories:
+    culture: 7.6
+    food: 7.4

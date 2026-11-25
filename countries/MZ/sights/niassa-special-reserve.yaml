@@ -1,0 +1,15 @@
+id: sight-mz-niassa-special-reserve
+name: "Niassa Special Reserve"
+location:
+  country_code: MZ
+  latitude: -11.88043
+  longitude: 37.46811
+scores:
+  impact: null
+  uniqueness: 9.2
+  significance: 9.4
+  experience: null
+  depth: null
+  categories:
+    nature: 9.4
+    wildlife: null

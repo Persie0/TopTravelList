@@ -1,0 +1,15 @@
+id: sight-er-cinema-impero
+name: "Cinema Impero"
+location:
+  country_code: ER
+  latitude: 15.33684
+  longitude: 38.94024
+scores:
+  impact: 8.0
+  uniqueness: 8.6
+  significance: 8.6
+  experience: 7.7
+  depth: 6.4
+  categories:
+    architecture: 9.1
+    history: 8.6

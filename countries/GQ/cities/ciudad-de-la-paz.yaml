@@ -1,0 +1,15 @@
+id: city-gq-ciudad-de-la-paz
+name: "Ciudad de la Paz"
+location:
+  country_code: GQ
+  latitude: 1.60
+  longitude: 10.82
+scores:
+  impact: 6.7
+  uniqueness: 7.7
+  significance: 7.4
+  experience: 6.8
+  depth: 6.4
+  categories:
+    architecture: 8.1
+    history: 7.7

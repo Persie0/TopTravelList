@@ -1,0 +1,16 @@
+id: city-mz-maputo
+name: "Maputo"
+location:
+  country_code: MZ
+  latitude: -25.96553
+  longitude: 32.58322
+scores:
+  impact: 8.0
+  uniqueness: 8.2
+  significance: 8.4
+  experience: 8.4
+  depth: 8.6
+  categories:
+    culture: 8.8
+    food: 8.7
+    architecture: 8.5

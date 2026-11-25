@@ -1,0 +1,15 @@
+id: city-sl-york
+name: "York"
+location:
+  country_code: SL
+  latitude: 8.224
+  longitude: -13.167
+scores:
+  impact: 6.8
+  uniqueness: 7.6
+  significance: 7.7
+  experience: 7.4
+  depth: 6.3
+  categories:
+    history: 8.2
+    culture: 8.0

@@ -1,0 +1,13 @@
+id: city-ki-paelau
+name: "Paelau Village"
+location:
+  country_code: KI
+  latitude: 3.85663
+  longitude: -159.36043
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}

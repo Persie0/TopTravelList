@@ -1,0 +1,15 @@
+id: city-ga-mouila
+name: "Mouila"
+location:
+  country_code: GA
+  latitude: -1.868
+  longitude: 11.055
+scores:
+  impact: 6.4
+  uniqueness: 7.0
+  significance: 6.9
+  experience: 7.2
+  depth: 6.2
+  categories:
+    culture: 7.6
+    food: 7.6

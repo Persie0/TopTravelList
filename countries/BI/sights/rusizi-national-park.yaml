@@ -1,0 +1,15 @@
+id: sight-bi-rusizi-national-park
+name: "Rusizi National Park"
+location:
+  country_code: BI
+  latitude: -3.25
+  longitude: 29.30
+scores:
+  impact: 8.3
+  uniqueness: 8.6
+  significance: 8.8
+  experience: 8.3
+  depth: 8.0
+  categories:
+    wildlife: 9.2
+    nature: 9.0

@@ -1,0 +1,15 @@
+id: sight-lr-mesurado-wetlands
+name: "Mesurado Wetlands"
+location:
+  country_code: LR
+  latitude: 6.3
+  longitude: -10.75
+scores:
+  impact: null
+  uniqueness: 7.8
+  significance: 8.4
+  experience: null
+  depth: null
+  categories:
+    nature: 8.7
+    wildlife: null

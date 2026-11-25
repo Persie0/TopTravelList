@@ -1,0 +1,14 @@
+id: sight-ne-tahoua-earthen-mosques
+name: "Earthen Mosques of Tahoua Region"
+location:
+  country_code: NE
+  latitude: 14.889
+  longitude: 5.269
+scores:
+  impact: null
+  uniqueness: 8.9
+  significance: 8.6
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.0

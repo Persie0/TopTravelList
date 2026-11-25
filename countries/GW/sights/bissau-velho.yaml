@@ -1,0 +1,16 @@
+id: sight-gw-bissau-velho
+name: "Bissau Velho"
+location:
+  country_code: GW
+  latitude: 11.859
+  longitude: -15.579
+scores:
+  impact: 7.5
+  uniqueness: 8.0
+  significance: 8.3
+  experience: 7.6
+  depth: 7.4
+  categories:
+    architecture: 8.2
+    history: 8.7
+    culture: 8.3

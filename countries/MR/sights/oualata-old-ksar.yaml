@@ -1,0 +1,15 @@
+id: sight-mr-oualata-old-ksar
+name: "Oualata Old Ksar"
+location:
+  country_code: MR
+  latitude: 17.3
+  longitude: -7.03333
+scores:
+  impact: 8.5
+  uniqueness: 9.1
+  significance: 9.0
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.2
+    history: 9.1

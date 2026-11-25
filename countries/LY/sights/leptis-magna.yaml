@@ -1,0 +1,16 @@
+id: sight-ly-leptis-magna
+name: "Leptis Magna Archaeological Site"
+location:
+  country_code: LY
+  latitude: 32.63833
+  longitude: 14.29306
+scores:
+  impact: 9.7
+  uniqueness: 9.6
+  significance: 9.8
+  experience: 9.4
+  depth: 9.5
+  categories:
+    architecture: 9.8
+    history: 9.8
+    photography: 9.5

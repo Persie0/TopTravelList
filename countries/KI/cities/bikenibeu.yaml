@@ -1,0 +1,14 @@
+id: city-ki-bikenibeu
+name: "Bikenibeu Village"
+location:
+  country_code: KI
+  latitude: 1.3673
+  longitude: 173.12415
+scores:
+  impact: 5.9
+  uniqueness: 6.8
+  significance: 6.9
+  experience: 6.5
+  depth: 6.2
+  categories:
+    culture: 7.3

@@ -1,0 +1,13 @@
+id: city-pw-mengellang
+name: "Mengellang"
+location:
+  country_code: PW
+  latitude: 7.71055
+  longitude: 134.63017
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}
