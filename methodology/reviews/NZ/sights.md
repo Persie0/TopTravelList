@@ -23,6 +23,17 @@
 - Torres del Paine National Park (Chile): more concentrated iconic peaks
 - [Khao Sok National Park](../../../countries/TH/sights/khao-sok-national-park.yaml) (Thailand): distinct tropical forest and karst
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons retained. Editorial calibration, not independent factual verification.
+
+- [canadian rocky mountain parks (CA)](../../../countries/CA/sights/canadian-rocky-mountain-parks.yaml) — 9.8/9.6/9.5/9.4/9.7; Close aggregate glacial mountain heritage, stronger relief and broader documented routes.
+- [los glaciares national park (AR)](../../../countries/AR/sights/los-glaciares-national-park.yaml) — 9.8/9.6/9.6/9.1/9.7; Exceptional glacier and mountain landscape, distinct ecology.
+- [torres del paine national park (CL)](../../../countries/CL/sights/torres-del-paine-national-park.yaml) — 9.9/9.7/9.3/9.4/9.6; Greater concentrated iconic mountain forms.
+- [hohe tauern national park (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) — 9.4/9.1/9.0/9.5/9.4; Comparable extensive alpine park, no fjord combination.
+
+High-score check: Canadian Rockies impact 9.8, significance 9.5, depth 9.7 and nature/photography 9.8; Torres del Paine impact 9.9, depth 9.6, nature 9.8 and photography 9.9. Te Wāhipounamu's impact 9.5, significance 9.5, depth 9.6, nature 9.6 and photography 9.5 remain consistent with its combined four-park scope, not additive component scores.
+
 ### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
@@ -59,6 +70,17 @@
 - Uluru-Kata Tjuta (Australia): major sacred landscape with different geology
 - Mount Bromo (Indonesia): striking but narrower caldera visitor scope
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons retained. Editorial calibration, not independent factual verification.
+
+- [etna (IT)](../../../countries/IT/sights/etna.yaml) — 9.5/9.4/9.4/9.0/9.3; Larger active volcanic massif with extensive geological significance.
+- [hawaii volcanoes national park (US)](../../../countries/US/sights/hawaii-volcanoes-national-park.yaml) — 9.2/9.5/9.5/8.9/9.0; Exceptional volcanic processes and breadth, different sacred context.
+- [bromo tengger semeru national park (ID)](../../../countries/ID/sights/bromo-tengger-semeru-national-park.yaml) — 9.6/9.7/9.0/9.3/9.5; More dramatic volcanic terrain and extensive exploration.
+- [shiretoko national park (JP)](../../../countries/JP/sights/shiretoko-national-park.yaml) — 9.5/9.5/9.4/9.1/9.4; Comparable protected natural and cultural landscape scale, different ecology.
+
+90+ check: combined volcanic and living sacred landscape is distinct from Etna and Hawaiʻi; 92.35 is not a claim of superior volcanic activity or unrestricted sacred-site access.
+
 ### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
@@ -93,6 +115,17 @@
 - Macquarie Island (Australia): related more compact subantarctic landscape
 - South Georgia (UK): similarly extraordinary wildlife concentrations
 - Lord Howe Island (Australia): more conventional island tourism
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons retained. Editorial calibration, not independent factual verification.
+
+- [galapagos islands world heritage property (EC)](../../../countries/EC/sights/galapagos-islands-world-heritage-property.yaml) — 9.9/9.9/9.9/9.5/9.3; World-leading evolutionary ecology and broader ordinary visitor experiences.
+- [cabo de hornos national park (CL)](../../../countries/CL/sights/cabo-de-hornos-national-park.yaml) — 9.1/9.1/8.8/7.5/7.3; Close remote southern ocean island landscape, narrower documented visitation.
+- [ogasawara islands (JP)](../../../countries/JP/sights/ogasawara-islands.yaml) — 9.5/9.7/9.5/9.2/9.4; Comparable isolated endemic island ecology with greater visitor breadth.
+- [aldabra atoll (SC)](../../../countries/SC/sights/aldabra-atoll.yaml) — 9.5/9.8/9.8/8.0/7.6; Exceptional isolated conservation ecosystem with regulated visits, different climate.
+
+High-score check: Galápagos significance/wildlife both 9.9, Aldabra both 9.8, Ogasawara significance 9.5 and wildlife 9.6. The 9.5 significance and wildlife ratings are below or equal to these reference fields, with lower visitor breadth and no guaranteed encounters.
 
 ### Scoring decisions
 | Field | Before | New rating | Individual justification |
@@ -130,6 +163,17 @@
 - [Railay Beach](../../../countries/TH/sights/railay-beach.yaml) (Thailand): smaller coastal setting with distinctive karst
 - Marovo Lagoon (Solomon Islands): broader tropical reef ecology
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons retained. Editorial calibration, not independent factual verification.
+
+- [geirangerfjord (NO)](../../../countries/NO/sights/geirangerfjord.yaml) — 9.7/9.5/9.3/9.5/9.2; Close glacial fjord with stronger documented village and viewpoint breadth.
+- [naeroyfjord (NO)](../../../countries/NO/sights/naeroyfjord.yaml) — 9.6/9.5/9.3/9.4/9.0; Near-equivalent concentrated steep glacial seascape.
+- [glacier bay (US)](../../../countries/US/sights/glacier-bay.yaml) — 9.5/9.4/9.4/8.9/9.1; Broader glacial marine landscape and ecological significance.
+- [ha long bay (VN)](../../../countries/VN/sights/ha-long-bay.yaml) — 9.8/9.9/9.7/9.8/9.6; World-leading contrasting karst seascape, more extensive exploration.
+
+High-score check: Nærøyfjord impact 9.6, nature/photography both 9.7; Geirangerfjord impact 9.7, nature/photography both 9.7. Milford's impact and photography 9.6 and nature 9.5 fit concentrated fjord spectacle, with lower breadth than aggregate landscapes.
+
 ### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
@@ -166,6 +210,17 @@
 - [Railay Beach](../../../countries/TH/sights/railay-beach.yaml) (Thailand): smaller coastal setting with distinctive karst
 - Marovo Lagoon (Solomon Islands): broader tropical reef ecology
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons retained. Editorial calibration, not independent factual verification.
+
+- [sognefjord (NO)](../../../countries/NO/sights/sognefjord.yaml) — 9.4/9.4/9.0/9.2/9.4; Extensive fjord system, different protected-landscape scope.
+- [glacier bay (US)](../../../countries/US/sights/glacier-bay.yaml) — 9.5/9.4/9.4/8.9/9.1; Comparable broad glacial marine and mountain wilderness.
+- [canadian rocky mountain parks (CA)](../../../countries/CA/sights/canadian-rocky-mountain-parks.yaml) — 9.8/9.6/9.5/9.4/9.7; Greater documented aggregate alpine landscape breadth, no analogous fjord coastline.
+- [torres del paine national park (CL)](../../../countries/CL/sights/torres-del-paine-national-park.yaml) — 9.9/9.7/9.3/9.4/9.6; More concentrated iconic peaks and established trekking circuit.
+
+High-score check: Canadian Rockies impact/nature/photography 9.8; Sognefjord impact 9.4 and nature/photography 9.5; Torres del Paine impact 9.9, nature 9.8 and photography 9.9. Fiordland's three 9.5 fields reflect mountain-fjord landscape rather than automatic inheritance from Milford.
+
 ### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
@@ -200,6 +255,17 @@
 - Hohe Tauern National Park (Austria): comparable Alpine relief, different ecology
 - Torres del Paine National Park (Chile): more concentrated iconic peaks
 - [Khao Sok National Park](../../../countries/TH/sights/khao-sok-national-park.yaml) (Thailand): distinct tropical forest and karst
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons retained. Editorial calibration, not independent factual verification.
+
+- [banff national park (CA)](../../../countries/CA/sights/banff-national-park.yaml) — 9.6/9.4/9.1/9.4/9.4; More extensive mountain lakes, glaciers and routes.
+- [torres del paine national park (CL)](../../../countries/CL/sights/torres-del-paine-national-park.yaml) — 9.9/9.7/9.3/9.4/9.6; More distinctive concentrated peak forms and trekking breadth.
+- [hohe tauern national park (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) — 9.4/9.1/9.0/9.5/9.4; Comparable alpine mountain and glacier terrain with broader established routes.
+- [los glaciares national park (AR)](../../../countries/AR/sights/los-glaciares-national-park.yaml) — 9.8/9.6/9.6/9.1/9.7; Greater glacial and mountain landscape breadth.
+
+90+ check: 91.25 is anchored below the stronger Canadian and Patagonian mountain parks; scope is the park rather than the summit alone.
 
 ### Scoring decisions
 | Field | Rating | Rationale |
@@ -236,6 +302,15 @@
 - Torres del Paine National Park (Chile): more concentrated iconic peaks
 - [Khao Sok National Park](../../../countries/TH/sights/khao-sok-national-park.yaml) (Thailand): distinct tropical forest and karst
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons retained. Editorial calibration, not independent factual verification.
+
+- [banff national park (CA)](../../../countries/CA/sights/banff-national-park.yaml) — 9.6/9.4/9.1/9.4/9.4; Broader documented alpine recreation and scenic variety.
+- [hohe tauern national park (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) — 9.4/9.1/9.0/9.5/9.4; More extensive established alpine routes.
+- [torres del paine national park (CL)](../../../countries/CL/sights/torres-del-paine-national-park.yaml) — 9.9/9.7/9.3/9.4/9.6; Much more iconic mountain silhouettes.
+- [los glaciares national park (AR)](../../../countries/AR/sights/los-glaciares-national-park.yaml) — 9.8/9.6/9.6/9.1/9.7; Greater glacier scenery and geographic breadth.
+
 ### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
@@ -270,6 +345,15 @@
 - Hohe Tauern National Park (Austria): comparable Alpine relief, different ecology
 - Torres del Paine National Park (Chile): more concentrated iconic peaks
 - [Khao Sok National Park](../../../countries/TH/sights/khao-sok-national-park.yaml) (Thailand): distinct tropical forest and karst
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons retained. Editorial calibration, not independent factual verification.
+
+- [los glaciares national park (AR)](../../../countries/AR/sights/los-glaciares-national-park.yaml) — 9.8/9.6/9.6/9.1/9.7; More extensive world-leading glacier landscape.
+- [banff national park (CA)](../../../countries/CA/sights/banff-national-park.yaml) — 9.6/9.4/9.1/9.4/9.4; Greater alpine landscape breadth and developed visitor routes.
+- [glacier bay (US)](../../../countries/US/sights/glacier-bay.yaml) — 9.5/9.4/9.4/8.9/9.1; Comparable ice-to-coast ecological transition, different marine emphasis.
+- [hohe tauern national park (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) — 9.4/9.1/9.0/9.5/9.4; More extensive mountain trail experience, lacks equivalent coastal transition.
 
 ### Scoring decisions
 | Field | Rating | Rationale |
@@ -307,6 +391,15 @@
 - [Railay Beach](../../../countries/TH/sights/railay-beach.yaml) (Thailand): smaller coastal setting with distinctive karst
 - Marovo Lagoon (Solomon Islands): broader tropical reef ecology
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons retained. Editorial calibration, not independent factual verification.
+
+- [pembrokeshire coast (GB)](../../../countries/GB/sights/pembrokeshire-coast.yaml) — 9.1/8.9/8.7/9.1/9.2; Comparable coastal trail and beach landscape, different climate and broader routes.
+- [ang thong national marine park (TH)](../../../countries/TH/sights/ang-thong-national-marine-park.yaml) — 9.0/9.0/8.6/9.1/8.9; Comparable boat and shoreline recreation, more distinctive limestone setting.
+- [coron island (PH)](../../../countries/PH/sights/coron-island.yaml) — 9.3/9.1/8.6/8.9/8.5; More dramatic coastal landforms and marine lakes.
+- [tobago cays marine park (VC)](../../../countries/VC/sights/tobago-cays-marine-park.yaml) — 9.4/9.3/9.1/9.1/8.9; More exceptional marine wildlife and reef recreation, less coastal forest walking.
+
 ### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
@@ -341,6 +434,15 @@
 - Hohe Tauern National Park (Austria): comparable Alpine relief, different ecology
 - Torres del Paine National Park (Chile): more concentrated iconic peaks
 - [Khao Sok National Park](../../../countries/TH/sights/khao-sok-national-park.yaml) (Thailand): distinct tropical forest and karst
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons retained. Editorial calibration, not independent factual verification.
+
+- [athabasca glacier (CA)](../../../countries/CA/sights/athabasca-glacier.yaml) — 9.0/8.8/8.5/8.7/7.8; Close individual glacier and permitted viewing comparator.
+- [grey glacier torres del paine (CL)](../../../countries/CL/sights/grey-glacier-torres-del-paine.yaml) — 9.4/9.2/8.5/8.8/7.8; More monumental ice and lake setting.
+- [glacier bay (US)](../../../countries/US/sights/glacier-bay.yaml) — 9.5/9.4/9.4/8.9/9.1; Much broader glacial marine landscape, not a single glacier.
+- [hohe tauern national park (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) — 9.4/9.1/9.0/9.5/9.4; Larger alpine park context with glaciers, not equivalent single-site depth.
 
 ### Scoring decisions
 | Field | Rating | Rationale |
@@ -377,6 +479,15 @@
 - Blue Grotto (Italy): comparable focused light-and-water experience
 - Sawa-i-Lau Caves (Fiji): different compact water cave
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons retained. Editorial calibration, not independent factual verification.
+
+- [son doong cave (VN)](../../../countries/VN/sights/son-doong-cave.yaml) — 9.9/9.9/9.6/9.0/9.2; World-leading geological scale, different biological attraction.
+- [postojna cave (SI)](../../../countries/SI/sights/postojna-cave.yaml) — 9.4/9.3/9.1/9.3/9.0; Much more extensive interpreted cave system.
+- [blue cave (HR)](../../../countries/HR/sights/blue-cave.yaml) — 8.9/9.1/8.4/8.6/6.5; Comparable focused unusual light and water experience, different physical process.
+- [piula cave pool (WS)](../../../countries/WS/sights/piula-cave-pool.yaml) — 7.9/8.0/6.8/8.0/6.8; Compact cave-water visit without glowworm spectacle.
+
 ### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
@@ -411,6 +522,15 @@
 - Universal Studios Hollywood (United States): greater entertainment breadth
 - Hoi An (Vietnam): authentic historic streets rather than constructed set
 - Madurodam (Netherlands): different themed miniature environment
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons retained. Editorial calibration, not independent factual verification.
+
+- [ghibli park (JP)](../../../countries/JP/sights/ghibli-park.yaml) — 8.5/8.9/7.3/8.9/8.8; Close fictional-world themed attraction, broader entertainment zones.
+- [universal studios singapore (SG)](../../../countries/SG/sights/universal-studios-singapore.yaml) — 8.7/8.4/6.6/9.0/8.8; Broader rides and screen-themed entertainment, less coherent single film setting.
+- [universal beijing resort (CN)](../../../countries/CN/sights/universal-beijing-resort.yaml) — 8.8/8.6/7.1/9.5/9.5; Much larger entertainment scope and sustained activities.
+- [edo tokyo open air architectural museum (JP)](../../../countries/JP/sights/edo-tokyo-open-air-architectural-museum.yaml) — 8.3/8.7/8.4/8.8/8.8; Interpreted reconstructed built environment, distinct authentic historical context.
 
 ### Scoring decisions
 | Field | Rating | Rationale |
@@ -447,6 +567,15 @@
 - Beppu Hells (Japan): similar focused geothermal viewing
 - [Tongariro](../../../countries/NZ/sights/tongariro-national-park.yaml) (New Zealand): broader volcanic landscape
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons retained. Editorial calibration, not independent factual verification.
+
+- [yellowstone national park (US)](../../../countries/US/sights/yellowstone-national-park.yaml) — 9.7/9.8/9.7/9.4/9.7; World-leading geothermal variety and landscape breadth.
+- [hierapolis pamukkale (TR)](../../../countries/TR/sights/hierapolis-pamukkale.yaml) — 9.4/9.3/9.1/8.9/8.9; More extensive travertine and combined archaeological setting.
+- [beppu hells (JP)](../../../countries/JP/sights/beppu-hells.yaml) — 8.8/9.1/7.8/9.0/8.6; Close concentrated multi-pool geothermal viewing circuit.
+- [bromo tengger semeru national park (ID)](../../../countries/ID/sights/bromo-tengger-semeru-national-park.yaml) — 9.6/9.7/9.0/9.3/9.5; Greater volcanic landscape breadth, different geothermal experience.
+
 ### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
@@ -481,6 +610,15 @@
 - Routeburn Track (New Zealand): longer mountain traverse
 - Mount Bromo (Indonesia): comparable volcanic scenery
 - Samaria Gorge (Greece): different focused day hike
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons retained. Editorial calibration, not independent factual verification.
+
+- [samaria (GR)](../../../countries/GR/sights/samaria.yaml) — 9.3/9.1/8.8/9.0/8.8; Comparable focused scenic day hike, different gorge morphology.
+- [inca trail to machu picchu (PE)](../../../countries/PE/sights/inca-trail-to-machu-picchu.yaml) — 9.4/9.3/9.4/9.1/9.2; Longer archaeological trekking route and greater historical significance.
+- [mount bromo (ID)](../../../countries/ID/sights/mount-bromo.yaml) — 9.5/9.4/8.5/9.3/8.5; Comparable volcanic scenery, narrower typical excursion.
+- [nakasendo magome tsumago trail (JP)](../../../countries/JP/sights/nakasendo-magome-tsumago-trail.yaml) — 8.6/8.7/8.8/9.0/8.7; Focused historic walking route, less dramatic natural scenery.
 
 ### Scoring decisions
 | Field | Rating | Rationale |
@@ -518,6 +656,15 @@
 - Diamond Head (USA): more concentrated single crater
 - Beppu (Japan): different urban geothermal visitor setting
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons retained. Editorial calibration, not independent factual verification.
+
+- [vesuvius (IT)](../../../countries/IT/sights/vesuvius.yaml) — 9.2/9.3/9.4/8.8/8.8; More iconic individual volcanic landform, different urban distribution.
+- [hawaii volcanoes national park (US)](../../../countries/US/sights/hawaii-volcanoes-national-park.yaml) — 9.2/9.5/9.5/8.9/9.0; More exceptional volcanic activity and geological breadth.
+- [bromo tengger semeru national park (ID)](../../../countries/ID/sights/bromo-tengger-semeru-national-park.yaml) — 9.6/9.7/9.0/9.3/9.5; Greater visual volcanic relief and trail exploration.
+- [beppu hells (JP)](../../../countries/JP/sights/beppu-hells.yaml) — 8.8/9.1/7.8/9.0/8.6; Comparable urban-adjacent volcanic features with distinct geothermal focus.
+
 ### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
@@ -553,6 +700,15 @@
 - Raja Ampat (Indonesia): greater coral reef species richness
 - Tubbataha (Philippines): different open-ocean reef ecosystem
 - [Milford Sound](../../../countries/NZ/sights/milford-sound.yaml) (NZ): above-water scenery, distinct scope
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons retained. Editorial calibration, not independent factual verification.
+
+- [glacier bay (US)](../../../countries/US/sights/glacier-bay.yaml) — 9.5/9.4/9.4/8.9/9.1; Close high-latitude glacial marine ecosystem, broader visible landscape.
+- [kerama islands marine park (JP)](../../../countries/JP/sights/kerama-islands-marine-park.yaml) — 9.4/9.2/8.7/9.5/9.3; More established marine wildlife and diving recreation, different warm-water ecology.
+- [tubbataha (PH)](../../../countries/PH/sights/tubbataha.yaml) — 9.3/9.2/9.3/9.1/9.0; Stronger documented reef diversity and specialist visit.
+- [aldabra atoll (SC)](../../../countries/SC/sights/aldabra-atoll.yaml) — 9.5/9.8/9.8/8.0/7.6; Regulated exceptional marine ecology, different tropical atoll scope.
 
 ### Scoring decisions
 | Field | Before | New rating | Individual justification |
@@ -593,6 +749,15 @@
 - [Taman Negara](../../../countries/MY/sights/taman-negara-national-park.yaml) (Malaysia): larger tropical forest experiences
 - [Abel Tasman](../../../countries/NZ/sights/abel-tasman-national-park.yaml) (NZ): more focused coastline visitor experience
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons retained. Editorial calibration, not independent factual verification.
+
+- [gunung mulu national park (MY)](../../../countries/MY/sights/gunung-mulu-national-park.yaml) — 9.7/9.8/9.6/9.5/9.6; More extensive documented karst and cave experience.
+- [pembrokeshire coast (GB)](../../../countries/GB/sights/pembrokeshire-coast.yaml) — 9.1/8.9/8.7/9.1/9.2; Broader established coastal trails, different spit ecology.
+- [shiretoko national park (JP)](../../../countries/JP/sights/shiretoko-national-park.yaml) — 9.5/9.5/9.4/9.1/9.4; Comparable combined terrestrial and coastal protected landscape.
+- [cabo de hornos national park (CL)](../../../countries/CL/sights/cabo-de-hornos-national-park.yaml) — 9.1/9.1/8.8/7.5/7.3; Remote coastal landscape with more restricted ordinary visitor breadth.
+
 ### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
@@ -627,6 +792,15 @@
 - Hoi An Ancient Town (Vietnam): wider mercantile heritage
 - Levuka Historical Port Town (Fiji): similar regional colonial port heritage
 - Airai Bai (Palau): different focused Pacific customary heritage
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons retained. Editorial calibration, not independent factual verification.
+
+- [galle old town and fortifications (LK)](../../../countries/LK/sights/galle-old-town-and-fortifications.yaml) — 9.1/9.2/9.4/9.2/9.0; Much more extensive colonial port architecture and streets.
+- [hoi an ancient town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) — 9.3/9.5/9.3/9.5/9.2; More coherent historic mercantile ensemble.
+- [porto historic centre (PT)](../../../countries/PT/sights/porto-historic-centre.yaml) — 9.3/9.2/9.2/9.3/9.2; Much greater urban built heritage and exploration.
+- [airai bai (PW)](../../../countries/PW/sights/airai-bai.yaml) — 7.7/8.7/8.6/7.7/7.3; Focused Pacific heritage structure, narrower historical precinct scope.
 
 ### Scoring decisions
 | Field | Rating | Rationale |
@@ -663,6 +837,15 @@
 - [Subantarctic Islands](../../../countries/NZ/sights/subantarctic-islands.yaml) (New Zealand): different protected island ecology
 - Raja Ampat (Indonesia): stronger documented marine experience
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons retained. Editorial calibration, not independent factual verification.
+
+- [galapagos islands world heritage property (EC)](../../../countries/EC/sights/galapagos-islands-world-heritage-property.yaml) — 9.9/9.9/9.9/9.5/9.3; World-leading island conservation and established ordinary visitor scope.
+- [ogasawara islands (JP)](../../../countries/JP/sights/ogasawara-islands.yaml) — 9.5/9.7/9.5/9.2/9.4; Comparable isolated island ecology with documented visitation.
+- [aldabra atoll (SC)](../../../countries/SC/sights/aldabra-atoll.yaml) — 9.5/9.8/9.8/8.0/7.6; Remote protected island-marine ecosystem with regulated visits.
+- [cabo de hornos national park (CL)](../../../countries/CL/sights/cabo-de-hornos-national-park.yaml) — 9.1/9.1/8.8/7.5/7.3; Remote high-latitude island landscape with some authorized expedition scope.
+
 ### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
@@ -698,6 +881,15 @@
 - Hoi An Ancient Town (Vietnam): older mercantile ensemble
 - Levuka Historical Port Town (Fiji): distinct colonial heritage
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons retained. Editorial calibration, not independent factual verification.
+
+- [porto historic centre (PT)](../../../countries/PT/sights/porto-historic-centre.yaml) — 9.3/9.2/9.2/9.3/9.2; More extensive architectural chronology and coherent urban heritage.
+- [hoi an ancient town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) — 9.3/9.5/9.3/9.5/9.2; Much larger historic mercantile ensemble, different period.
+- [galle old town and fortifications (LK)](../../../countries/LK/sights/galle-old-town-and-fortifications.yaml) — 9.1/9.2/9.4/9.2/9.0; More extensive historic port fabric and visitor depth.
+- [edo tokyo open air architectural museum (JP)](../../../countries/JP/sights/edo-tokyo-open-air-architectural-museum.yaml) — 8.3/8.7/8.4/8.8/8.8; Focused collection of historic architecture, different reconstructed setting.
+
 ### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
@@ -731,6 +923,15 @@
 - Tetepare Island (Solomon Islands): comparable conservation
 - [Kermadec Islands](../../../countries/NZ/sights/kermadec-islands.yaml) (New Zealand): different remote protected islands
 - Great Barrier Reef (Australia): larger marine scope
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons retained. Editorial calibration, not independent factual verification.
+
+- [galapagos islands world heritage property (EC)](../../../countries/EC/sights/galapagos-islands-world-heritage-property.yaml) — 9.9/9.9/9.9/9.5/9.3; Greater documented evolutionary heritage and visitor breadth.
+- [ogasawara islands (JP)](../../../countries/JP/sights/ogasawara-islands.yaml) — 9.5/9.7/9.5/9.2/9.4; Comparable distributed island ecology with documented visitor routes.
+- [aldabra atoll (SC)](../../../countries/SC/sights/aldabra-atoll.yaml) — 9.5/9.8/9.8/8.0/7.6; Remote terrestrial and marine conservation with regulated access.
+- [cabo de hornos national park (CL)](../../../countries/CL/sights/cabo-de-hornos-national-park.yaml) — 9.1/9.1/8.8/7.5/7.3; Southern ocean landscape comparator, not evidence of access to serial components.
 
 ### Scoring decisions
 | Field | Rating | Rationale |
@@ -766,6 +967,15 @@
 - Hoi An Ancient Town (Vietnam): wider mercantile heritage
 - Levuka Historical Port Town (Fiji): similar regional colonial port heritage
 - Airai Bai (Palau): different focused Pacific customary heritage
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons retained. Editorial calibration, not independent factual verification.
+
+- [galle old town and fortifications (LK)](../../../countries/LK/sights/galle-old-town-and-fortifications.yaml) — 9.1/9.2/9.4/9.2/9.0; Much larger historic colonial precinct and built fabric.
+- [hoi an ancient town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) — 9.3/9.5/9.3/9.5/9.2; Broader historic settlement heritage, different political significance.
+- [nan madol (FM)](../../../countries/FM/sights/nan-madol.yaml) — 9.2/9.5/9.5/8.1/8.7; Pacific ceremonial heritage of greater monumental scale, different historical role.
+- [airai bai (PW)](../../../countries/PW/sights/airai-bai.yaml) — 7.7/8.7/8.6/7.7/7.3; Focused Pacific cultural and political tradition, narrower visitor scope.
 
 ### Scoring decisions
 | Field | Rating | Rationale |
