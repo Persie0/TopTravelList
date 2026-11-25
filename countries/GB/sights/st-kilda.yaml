@@ -1,0 +1,17 @@
+id: sight-gb-st-kilda
+name: "St Kilda"
+location:
+  country_code: GB
+  latitude: 57.817
+  longitude: -8.57
+scores:
+  impact: 9.2
+  uniqueness: 9.5
+  significance: 9.4
+  experience: 8.6
+  depth: 8.4
+  categories:
+    nature: 9.5
+    wildlife: 9.4
+    history: 9.1
+    photography: 9.5

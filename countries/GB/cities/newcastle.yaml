@@ -1,0 +1,16 @@
+id: city-gb-newcastle
+name: "Newcastle upon Tyne"
+location:
+  country_code: GB
+  latitude: 54.978
+  longitude: -1.617
+scores:
+  impact: 8.4
+  uniqueness: 8.2
+  significance: 8.5
+  experience: 8.8
+  depth: 8.6
+  categories:
+    architecture: 8.8
+    culture: 8.8
+    nightlife: 8.8
