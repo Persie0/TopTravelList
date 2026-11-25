@@ -2,6 +2,9 @@
 
 [Worldwide v2](../../../rules.md) · [Future-country workflow](../../future-country-workflow.md). Initial editorial assessments dated 2026-11-25. [Current tentative inventory](https://www.worldheritageexplorer.org/countries/burundi.html) cross-checked against UNESCO's country and 2026 search results: ten properties, none inscribed. Seven revised submissions dated 2026-02-03 replace overlapping older entries. Royal drum intangible heritage is a separate designation. [FCDO regional risks](https://www.gov.uk/foreign-travel-advice/burundi/regional-risks), checked 2026-11-25: certain areas and roads through Kibira are subject to advice against travel; no scores imply safe access. Park and lake coordinates are approximate representative points, not entrances. Named peer ladders are provisional; no country multipliers. Source excerpts do not establish full factual verification or safe access. Small regional settlements with coordinates not independently checked remain editorial-only.
 
+
+Follow-up 2026-11-25: [UNESCO official country register](https://whc.unesco.org/en/statesparties/bi/) confirms all ten tentative properties and zero inscriptions. The [FCDO advisory](https://www.gov.uk/foreign-travel-advice/burundi) also explicitly includes Rusizi National Park in areas advised against all travel; scores are intrinsic normal-condition assessments, not access guarantees.
+
 ## sight-bi-gishora-royal-residence-and-drum-sanctuary — Gishora Royal Residence and Drum Sanctuary — 2026-11-25
 
 - [YAML](../../../countries/BI/sights/gishora-royal-residence-and-drum-sanctuary.yaml) · Action: new · **source-linked-unverified**.
@@ -20,6 +23,8 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Primary reference](https://whc.unesco.org/en/tentativelists/6927) — Burundi National Commission for UNESCO, 2026 submission: royal compound, courtyards and drumming ritual; https://ich.unesco.org/en/RL/ritual-dance-of-the-royal-drum-00989 describes the living practice, not a World Heritage inscription; search excerpts or page accessed 2026-11-25. Not complete claim-level verification.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, current access and individual peer/category calibration.
+
+- Follow-up: [visitor description](https://www.explorers.africa/destinations/burundi.html) corroborates hosted royal drumming; unlike the monumental Angkor/Schönbrunn peers, the primary value is living performance, not architectural size. Do not assume performances without arrangements.
 
 ## sight-bi-lake-tanganyika-burundian-shore-and-visitor-waters — Lake Tanganyika (Burundian shore and visitor waters) — 2026-11-25
 
@@ -249,6 +254,8 @@
 - Evidence: [Primary reference](https://whc.unesco.org/en/tentativelists/5147/) — Burundi tentative entry, palm and dry vegetation habitats; tourism ministry park inventory in search snippet; search excerpts or page accessed 2026-11-25. Not complete claim-level verification.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, current access and individual peer/category calibration.
 
+- Follow-up: [FCDO](https://www.gov.uk/foreign-travel-advice/burundi) explicitly advises against all travel to the park; [tourism ministry](https://tourisme.gov.bi/en/parks-and-reserves/) describes the normal park experience. Intrinsic score retained; not presently recommended for travel. No safety penalty or access assurance.
+
 ## sight-bi-national-museum-of-gitega — National Museum of Gitega — 2026-11-25
 
 - [YAML](../../../countries/BI/sights/national-museum-of-gitega.yaml) · Action: new · **source-linked-unverified**.
@@ -280,12 +287,14 @@
 - Impact 6.5: traditional structures and local fauna.
 - Uniqueness 7.3: local natural and cultural interpretation.
 - Significance 7.2: regional educational role.
-- Experience 7.0: bounded visit subject to animal welfare assessment.
-- Depth 6.6: small collection.
-- Categories: culture:7.7, wildlife:7.5. Overall: 69.25/100.
+- Experience 6.2: compact cultural visit retains value, but documented losses and inadequate captive animal conditions reduce intrinsic reward.
+- Depth 6.0: diminished collection, despite continuing cultural interpretation.
+- Categories: culture:7.7, wildlife:5.5. Overall: 67.45/100.
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Primary reference](https://tourisme.gov.bi/en/monuments-and-museums/) — Burundi tourism ministry search excerpt, museum identity and collection or exhibition context; page blocked by verification challenge; search excerpts or page accessed 2026-11-25. Not complete claim-level verification.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, current access and individual peer/category calibration.
+
+- Reassessment 2026-11-25: previous experience 7.0, depth 6.6, wildlife 7.5, overall 69.25. [RPA, 20 October 2026](https://rpa.bi/index.php/actualites/10sport-et-culture/le-musee-vivant-de-bujumbura-perd-son-attractivite-touristique-malgre-les-travaux-de-rehabilitation) reports animal losses and concerns about care despite rehabilitation; [independent visitor guide](https://bujumbura.org/attractions/musee-vivant/) describes limited enclosures and cultural crafts. Compared with Jordan Archaeological Museum, the small mixed collection has less breadth; do not equate captive exhibits with wild sightings at Rusizi. Original impact, uniqueness, significance and culture scores unchanged; reassess after documented sustained recovery.
 
 ## sight-bi-unity-monument-bujumbura — Unity Monument (Bujumbura) — 2026-11-25
 
