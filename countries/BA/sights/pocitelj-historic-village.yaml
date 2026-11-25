@@ -1,0 +1,15 @@
+id: sight-ba-pocitelj-historic-village
+name: "Počitelj Historic Village"
+location:
+  country_code: BA
+  latitude: 43.1343
+  longitude: 17.7310
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 8.6
+  experience: 8.7
+  depth: 8.0
+  categories:
+    architecture: 9.2
+    photography: 9.3

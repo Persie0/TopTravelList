@@ -1,0 +1,16 @@
+id: sight-ba-mostar-old-bridge-area
+name: "Mostar Old Bridge Area"
+location:
+  country_code: BA
+  latitude: 43.3372
+  longitude: 17.8150
+scores:
+  impact: 9.1
+  uniqueness: 9.2
+  significance: 9.1
+  experience: 9.0
+  depth: 8.6
+  categories:
+    architecture: 9.4
+    history: 9.3
+    photography: 9.4

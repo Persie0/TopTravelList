@@ -1,0 +1,15 @@
+id: sight-ba-tesanj-fortress
+name: "Tešanj Fortress"
+location:
+  country_code: BA
+  latitude: 44.6110
+  longitude: 17.9870
+scores:
+  impact: 8.1
+  uniqueness: 8.1
+  significance: 8.3
+  experience: 8.2
+  depth: 7.6
+  categories:
+    architecture: 8.7
+    history: 8.7

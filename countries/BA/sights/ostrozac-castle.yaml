@@ -1,0 +1,15 @@
+id: sight-ba-ostrozac-castle
+name: "Ostrožac Castle"
+location:
+  country_code: BA
+  latitude: 44.9090
+  longitude: 15.9420
+scores:
+  impact: 8.5
+  uniqueness: 8.6
+  significance: 8.3
+  experience: 8.5
+  depth: 8.0
+  categories:
+    architecture: 9
+    photography: 9

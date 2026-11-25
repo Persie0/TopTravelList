@@ -1,0 +1,15 @@
+id: sight-ba-war-childhood-museum
+name: "War Childhood Museum"
+location:
+  country_code: BA
+  latitude: 43.8620
+  longitude: 18.4270
+scores:
+  impact: 8.1
+  uniqueness: 8.9
+  significance: 8.9
+  experience: 8.8
+  depth: 8.0
+  categories:
+    history: 9.2
+    culture: 9

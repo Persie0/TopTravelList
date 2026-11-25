@@ -1,0 +1,15 @@
+id: sight-ba-prokosko-lake
+name: "Prokoško Lake"
+location:
+  country_code: BA
+  latitude: 43.9560
+  longitude: 17.7560
+scores:
+  impact: 8.5
+  uniqueness: 8.5
+  significance: 7.4
+  experience: 8.5
+  depth: 7.9
+  categories:
+    nature: 9
+    photography: 9.1

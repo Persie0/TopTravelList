@@ -1,0 +1,15 @@
+id: sight-ba-neum-beach
+name: "Neum Beach"
+location:
+  country_code: BA
+  latitude: 42.9210
+  longitude: 17.6160
+scores:
+  impact: 7.4
+  uniqueness: 7.0
+  significance: 6.2
+  experience: 8.0
+  depth: 7.2
+  categories:
+    beaches: 8
+    relaxation: 8.4

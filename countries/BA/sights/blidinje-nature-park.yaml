@@ -1,0 +1,15 @@
+id: sight-ba-blidinje-nature-park
+name: "Blidinje Nature Park"
+location:
+  country_code: BA
+  latitude: 43.6200
+  longitude: 17.5400
+scores:
+  impact: 8.6
+  uniqueness: 8.6
+  significance: 8.2
+  experience: 8.7
+  depth: 8.7
+  categories:
+    nature: 9.2
+    adventure: 9

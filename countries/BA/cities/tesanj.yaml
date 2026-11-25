@@ -1,0 +1,15 @@
+id: city-ba-tesanj
+name: "Tešanj"
+location:
+  country_code: BA
+  latitude: 44.6110
+  longitude: 17.9850
+scores:
+  impact: 7.6
+  uniqueness: 7.8
+  significance: 7.8
+  experience: 7.7
+  depth: 7.2
+  categories:
+    architecture: 8.4
+    history: 8.3

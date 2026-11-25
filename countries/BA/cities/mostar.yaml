@@ -1,0 +1,15 @@
+id: city-ba-mostar
+name: "Mostar"
+location:
+  country_code: BA
+  latitude: 43.3438
+  longitude: 17.8078
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 8.7
+  experience: 8.8
+  depth: 8.2
+  categories:
+    architecture: 9.2
+    photography: 9.3

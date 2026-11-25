@@ -1,0 +1,15 @@
+id: sight-ba-prenj-mountain-range
+name: "Prenj Mountain Range"
+location:
+  country_code: BA
+  latitude: 43.5500
+  longitude: 17.9200
+scores:
+  impact: 8.9
+  uniqueness: 8.7
+  significance: 8.0
+  experience: 8.7
+  depth: 8.8
+  categories:
+    nature: 9.3
+    adventure: 9.2

@@ -1,0 +1,15 @@
+id: city-ba-banja-luka
+name: "Banja Luka"
+location:
+  country_code: BA
+  latitude: 44.7722
+  longitude: 17.1910
+scores:
+  impact: 7.6
+  uniqueness: 7.5
+  significance: 7.7
+  experience: 8.0
+  depth: 8.0
+  categories:
+    food: 8.3
+    culture: 8.2

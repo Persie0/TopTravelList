@@ -1,0 +1,14 @@
+id: city-ba-ravno
+name: "Ravno"
+location:
+  country_code: BA
+  latitude: 42.8870
+  longitude: 17.9680
+scores:
+  impact: 6.4
+  uniqueness: 6.9
+  significance: 6.7
+  experience: 7.0
+  depth: 6.5
+  categories:
+    relaxation: 7.5

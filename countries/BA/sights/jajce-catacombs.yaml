@@ -1,0 +1,15 @@
+id: sight-ba-jajce-catacombs
+name: "Jajce Catacombs"
+location:
+  country_code: BA
+  latitude: 44.3410
+  longitude: 17.2690
+scores:
+  impact: 7.9
+  uniqueness: 8.5
+  significance: 8.5
+  experience: 8.0
+  depth: 6.9
+  categories:
+    history: 8.9
+    architecture: 8.6

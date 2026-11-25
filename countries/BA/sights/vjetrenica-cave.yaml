@@ -1,0 +1,15 @@
+id: sight-ba-vjetrenica-cave
+name: "Vjetrenica Cave"
+location:
+  country_code: BA
+  latitude: 42.8450
+  longitude: 17.9810
+scores:
+  impact: 8.7
+  uniqueness: 9.1
+  significance: 9.2
+  experience: 8.6
+  depth: 8.4
+  categories:
+    nature: 9.4
+    adventure: 8.8

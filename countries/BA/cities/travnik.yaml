@@ -1,0 +1,15 @@
+id: city-ba-travnik
+name: "Travnik"
+location:
+  country_code: BA
+  latitude: 44.2264
+  longitude: 17.6650
+scores:
+  impact: 8.1
+  uniqueness: 8.2
+  significance: 8.4
+  experience: 8.3
+  depth: 7.9
+  categories:
+    history: 8.8
+    architecture: 8.6

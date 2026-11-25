@@ -1,0 +1,15 @@
+id: sight-ba-hutovo-blato-nature-park
+name: "Hutovo Blato Nature Park"
+location:
+  country_code: BA
+  latitude: 43.0500
+  longitude: 17.7800
+scores:
+  impact: 8.1
+  uniqueness: 8.4
+  significance: 8.4
+  experience: 8.5
+  depth: 8.5
+  categories:
+    nature: 9
+    wildlife: 9

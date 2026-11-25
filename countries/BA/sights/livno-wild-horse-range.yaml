@@ -1,0 +1,15 @@
+id: sight-ba-livno-wild-horse-range
+name: "Livno Wild Horse Range"
+location:
+  country_code: BA
+  latitude: 43.8660
+  longitude: 17.0310
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 7.6
+  experience: 8.6
+  depth: 8.2
+  categories:
+    wildlife: 9.1
+    photography: 9

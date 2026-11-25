@@ -1,0 +1,14 @@
+id: city-ba-bijeljina
+name: "Bijeljina"
+location:
+  country_code: BA
+  latitude: 44.7560
+  longitude: 19.2160
+scores:
+  impact: 6.7
+  uniqueness: 6.8
+  significance: 7.0
+  experience: 7.3
+  depth: 7.0
+  categories:
+    food: 7.7

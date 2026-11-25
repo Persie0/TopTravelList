@@ -1,0 +1,15 @@
+id: sight-ba-tara-river-rafting-bosnia-section
+name: "Tara River Rafting Bosnia section"
+location:
+  country_code: BA
+  latitude: 43.3270
+  longitude: 18.8500
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 7.6
+  experience: 9.0
+  depth: 8.5
+  categories:
+    adventure: 9.3
+    nature: 9.1

@@ -1,0 +1,14 @@
+id: sight-ba-visoki-medieval-fortress
+name: "Visoki Medieval Fortress"
+location:
+  country_code: BA
+  latitude: 43.9790
+  longitude: 18.1800
+scores:
+  impact: 7.5
+  uniqueness: 8.1
+  significance: 8.4
+  experience: 7.6
+  depth: 7.0
+  categories:
+    history: 8.9

@@ -1,0 +1,15 @@
+id: city-ba-pocitelj
+name: "Počitelj"
+location:
+  country_code: BA
+  latitude: 43.1343
+  longitude: 17.7320
+scores:
+  impact: 8.4
+  uniqueness: 8.7
+  significance: 8.3
+  experience: 8.3
+  depth: 7.3
+  categories:
+    architecture: 9
+    photography: 9.1

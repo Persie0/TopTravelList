@@ -1,0 +1,14 @@
+id: city-ba-sipovo
+name: "Šipovo"
+location:
+  country_code: BA
+  latitude: 44.2820
+  longitude: 17.0860
+scores:
+  impact: 6.8
+  uniqueness: 7.0
+  significance: 6.9
+  experience: 7.3
+  depth: 6.9
+  categories:
+    relaxation: 7.7

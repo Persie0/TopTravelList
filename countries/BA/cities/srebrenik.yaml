@@ -1,0 +1,14 @@
+id: city-ba-srebrenik
+name: "Srebrenik"
+location:
+  country_code: BA
+  latitude: 44.7083
+  longitude: 18.4937
+scores:
+  impact: 6.7
+  uniqueness: 6.8
+  significance: 7.0
+  experience: 7.2
+  depth: 6.8
+  categories:
+    history: 7.6

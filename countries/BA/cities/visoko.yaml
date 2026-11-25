@@ -1,0 +1,14 @@
+id: city-ba-visoko
+name: "Visoko"
+location:
+  country_code: BA
+  latitude: 43.9888
+  longitude: 18.1780
+scores:
+  impact: 7.0
+  uniqueness: 7.3
+  significance: 7.7
+  experience: 7.4
+  depth: 7.1
+  categories:
+    history: 8

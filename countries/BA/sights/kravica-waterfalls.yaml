@@ -1,0 +1,15 @@
+id: sight-ba-kravica-waterfalls
+name: "Kravica Waterfalls"
+location:
+  country_code: BA
+  latitude: 43.1566
+  longitude: 17.6082
+scores:
+  impact: 8.9
+  uniqueness: 8.6
+  significance: 7.5
+  experience: 8.8
+  depth: 8.0
+  categories:
+    nature: 9.1
+    photography: 9.3

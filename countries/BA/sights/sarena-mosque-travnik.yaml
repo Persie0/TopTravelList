@@ -1,0 +1,15 @@
+id: sight-ba-sarena-mosque-travnik
+name: "Šarena Mosque Travnik"
+location:
+  country_code: BA
+  latitude: 44.2260
+  longitude: 17.6680
+scores:
+  impact: 8.1
+  uniqueness: 8.5
+  significance: 8.3
+  experience: 8.3
+  depth: 7.2
+  categories:
+    architecture: 8.9
+    culture: 8.8

@@ -1,0 +1,15 @@
+id: sight-ba-boljuni-stecci-necropolis
+name: "Boljuni Stećci Necropolis"
+location:
+  country_code: BA
+  latitude: 43.0030
+  longitude: 17.9550
+scores:
+  impact: 7.9
+  uniqueness: 8.7
+  significance: 9.0
+  experience: 8.0
+  depth: 7.4
+  categories:
+    history: 9.2
+    culture: 9

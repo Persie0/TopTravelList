@@ -1,0 +1,15 @@
+id: sight-ba-sarajevo-city-hall
+name: "Sarajevo City Hall"
+location:
+  country_code: BA
+  latitude: 43.8580
+  longitude: 18.4333
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 8.8
+  experience: 8.6
+  depth: 8.0
+  categories:
+    architecture: 9.3
+    history: 9.1

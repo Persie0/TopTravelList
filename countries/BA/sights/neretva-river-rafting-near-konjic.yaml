@@ -1,0 +1,15 @@
+id: sight-ba-neretva-river-rafting-near-konjic
+name: "Neretva River Rafting near Konjic"
+location:
+  country_code: BA
+  latitude: 43.5740
+  longitude: 18.0490
+scores:
+  impact: 8.5
+  uniqueness: 8.4
+  significance: 7.3
+  experience: 8.9
+  depth: 8.4
+  categories:
+    adventure: 9.2
+    nature: 9

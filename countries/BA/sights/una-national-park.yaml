@@ -1,0 +1,16 @@
+id: sight-ba-una-national-park
+name: "Una National Park"
+location:
+  country_code: BA
+  latitude: 44.6100
+  longitude: 16.0350
+scores:
+  impact: 9.1
+  uniqueness: 8.9
+  significance: 8.6
+  experience: 9.0
+  depth: 9.0
+  categories:
+    nature: 9.4
+    adventure: 9.3
+    photography: 9.4

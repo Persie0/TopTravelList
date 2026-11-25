@@ -1,0 +1,15 @@
+id: sight-ba-arslanagic-bridge
+name: "Arslanagić Bridge"
+location:
+  country_code: BA
+  latitude: 42.7160
+  longitude: 18.3510
+scores:
+  impact: 8.3
+  uniqueness: 8.6
+  significance: 8.5
+  experience: 8.3
+  depth: 7.0
+  categories:
+    architecture: 8.9
+    photography: 8.9
