@@ -2,7 +2,7 @@
 
 # Zimbabwe (ZW) — Sights & attractions ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**15 ranked** · **1 unassessed** · **16 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,11 +10,33 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (15)
 
-No sights & attractions have been assessed for **Zimbabwe** yet.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Mosi-oa-Tunya / Victoria Falls (Zimbabwean side)](sights/victoria-falls.yaml) | Waterfall | **97.00** | **Nature 9.8**, **Photography 9.8**, **Adventure 9.3** | 9.8 / 9.8 / 9.7 / 9.6 / 9.3 | [-17.9249, 25.84723](https://www.google.com/maps/search/?api=1&query=-17.9249,25.84723) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mosi-oa-Tunya%20%2F%20Victoria%20Falls%20%28Zimbabwean%20side%29%2C%20Zimbabwe) |
+| 2 | [Mana Pools National Park](sights/mana-pools-national-park.yaml) | Park / reserve | **94.65** | **Wildlife 9.7**, **Nature 9.6**, **Adventure 9.4** | 9.5 / 9.5 / 9.5 / 9.4 / 9.3 | [-15.75, 29.333333](https://www.google.com/maps/search/?api=1&query=-15.75,29.333333) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mana%20Pools%20National%20Park%2C%20Zimbabwe) |
+| 3 | [Great Zimbabwe National Monument](sights/great-zimbabwe.yaml) | Attraction | **94.05** | **History 9.7**, **Architecture 9.6**, **Culture 9.4** | 9.3 / 9.6 / 9.7 / 9.1 / 9.1 | [-20.27117, 30.933269](https://www.google.com/maps/search/?api=1&query=-20.27117,30.933269) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Great%20Zimbabwe%20National%20Monument%2C%20Zimbabwe) |
+| 4 | [Hwange National Park](sights/hwange-national-park.yaml) | Park / reserve | **93.30** | **Wildlife 9.7**, **Nature 9.4** | 9.3 / 9.3 / 9.4 / 9.3 / 9.4 | [-19.16667, 26.5](https://www.google.com/maps/search/?api=1&query=-19.16667,26.5) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hwange%20National%20Park%2C%20Zimbabwe) |
+| 5 | [Matobo Hills](sights/matobo-hills.yaml) | Attraction | **93.25** | **History 9.5**, **Nature 9.4**, **Photography 9.4**, Culture 9.3 | 9.3 / 9.4 / 9.5 / 9.1 / 9.2 | [-20.5, 28.5](https://www.google.com/maps/search/?api=1&query=-20.5,28.5) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Matobo%20Hills%2C%20Zimbabwe) |
+| 6 | [Gonarezhou National Park](sights/gonarezhou-national-park.yaml) | Park / reserve | **91.70** | **Nature 9.4**, **Wildlife 9.4**, **Photography 9.3** | 9.2 / 9.2 / 9.3 / 9.0 / 9.0 | [-21.8052, 31.7195](https://www.google.com/maps/search/?api=1&query=-21.8052,31.7195) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Gonarezhou%20National%20Park%2C%20Zimbabwe) |
+| 7 | [Chimanimani National Park](sights/chimanimani-national-park.yaml) | Park / reserve | **90.00** | **Nature 9.4**, **Adventure 9.1**, **Photography 9.1** | 9.0 / 9.1 / 9.2 / 8.7 / 8.8 | [-19.91667, 33.01667](https://www.google.com/maps/search/?api=1&query=-19.91667,33.01667) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Chimanimani%20National%20Park%2C%20Zimbabwe) |
+| 8 | [Sapi Safari Area](sights/sapi-safari-area.yaml) | Attraction | **89.50** | **Nature 9.3**, **Wildlife 9.3** | 8.9 / 9.1 / 9.2 / 8.7 / 8.6 | [-15.613889, 29.850833](https://www.google.com/maps/search/?api=1&query=-15.613889,29.850833) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sapi%20Safari%20Area%2C%20Zimbabwe) |
+| 9 | [Khami Ruins National Monument](sights/khami-ruins.yaml) | Museum / heritage | **88.95** | **History 9.4**, **Architecture 9.3** | 8.7 / 9.2 / 9.3 / 8.5 / 8.5 | [-20.158333, 28.376667](https://www.google.com/maps/search/?api=1&query=-20.158333,28.376667) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Khami%20Ruins%20National%20Monument%2C%20Zimbabwe) |
+| 10 | [Chewore Safari Area](sights/chewore-safari-area.yaml) | Attraction | **88.80** | **Nature 9.2**, **Wildlife 9.2** | 8.8 / 9.1 / 9.2 / 8.5 / 8.5 | [-16.165, 29.96981](https://www.google.com/maps/search/?api=1&query=-16.165,29.96981) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Chewore%20Safari%20Area%2C%20Zimbabwe) |
+| 11 | [Matusadona National Park](sights/matusadona-national-park.yaml) | Park / reserve | **88.65** | **Wildlife 9.3**, **Nature 9.2** | 8.8 / 8.9 / 9.0 / 8.8 / 8.8 | [-16.83333, 28.58333](https://www.google.com/maps/search/?api=1&query=-16.83333,28.58333) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Matusadona%20National%20Park%2C%20Zimbabwe) |
+| 12 | [Nyanga National Park](sights/nyanga-national-park.yaml) | Park / reserve | **87.80** | **Nature 9.2**, **Photography 9.1**, **Adventure 8.9** | 8.9 / 8.8 / 8.5 / 8.8 / 8.9 | [-18.2167, 32.75](https://www.google.com/maps/search/?api=1&query=-18.2167,32.75) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nyanga%20National%20Park%2C%20Zimbabwe) |
+| 13 | [Naletale Ruins](sights/naletale-ruins.yaml) | Museum / heritage | **86.40** | **Architecture 9.2**, **History 9.2** | 8.4 / 9.1 / 9.1 / 8.3 / 7.8 | [-19.883333, 29.533333](https://www.google.com/maps/search/?api=1&query=-19.883333,29.533333) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Naletale%20Ruins%2C%20Zimbabwe) |
+| 14 | [Ziwa National Monument](sights/ziwa-national-monument.yaml) | Attraction | **85.75** | **History 9.2**, **Culture 8.8** | 8.3 / 8.9 / 9.0 / 8.2 / 8.3 | [-18.133333, 32.633333](https://www.google.com/maps/search/?api=1&query=-18.133333,32.633333) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ziwa%20National%20Monument%2C%20Zimbabwe) |
+| 15 | [Chinhoyi Caves](sights/chinhoyi-caves.yaml) | Attraction | **85.55** | **Nature 9.1**, **Photography 9.0** | 8.8 / 9.0 / 7.9 / 8.7 / 7.8 | [-17.35, 30.125](https://www.google.com/maps/search/?api=1&query=-17.35,30.125) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Chinhoyi%20Caves%2C%20Zimbabwe) |
 
-Add destination YAML files in [sights/](sights/), then regenerate the overview files.
+## Not yet fully assessed (1)
+
+These destinations have no rank until all five core scores are assessed.
+
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| — | [Mavhuradonha Wilderness](sights/mavhuradonha-wilderness.yaml) | Attraction | **—** | **History 9.2**, **Nature 9.2**, **Culture 9.0** | 8.5 / 9.1 / 9.2 / — / — | [-16.46624, 31.05298](https://www.google.com/maps/search/?api=1&query=-16.46624,31.05298) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mavhuradonha%20Wilderness%2C%20Zimbabwe) |
 
 ---
 
