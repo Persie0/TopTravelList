@@ -2,8 +2,8 @@ id: city-bi-kayanza
 name: "Kayanza"
 location:
   country_code: BI
-  latitude: -2.922
-  longitude: 29.629
+  latitude: -2.9221
+  longitude: 29.6293
 scores:
   impact: 6.1
   uniqueness: 7.1
