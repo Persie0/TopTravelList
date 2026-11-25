@@ -1,0 +1,16 @@
+id: sight-bh-beit-al-quran
+name: "Beit Al Quran"
+location:
+  country_code: BH
+  latitude: 26.2380
+  longitude: 50.5920
+scores:
+  impact: 7.9
+  uniqueness: 8.4
+  significance: 8.8
+  experience: 8.2
+  depth: 7.9
+  categories:
+    history: 9.0
+    culture: 9.0
+    architecture: 8.4

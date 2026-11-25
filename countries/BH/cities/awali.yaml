@@ -1,0 +1,15 @@
+id: city-bh-awali
+name: "Awali"
+location:
+  country_code: BH
+  latitude: 26.0850
+  longitude: 50.5510
+scores:
+  impact: 6.9
+  uniqueness: 7.9
+  significance: 8.3
+  experience: 7.0
+  depth: 6.5
+  categories:
+    architecture: 8.0
+    history: 8.5
