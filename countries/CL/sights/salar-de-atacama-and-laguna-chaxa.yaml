@@ -1,0 +1,16 @@
+id: sight-cl-salar-de-atacama-and-laguna-chaxa
+name: "Salar de Atacama and Laguna Chaxa"
+location:
+  country_code: CL
+  latitude: -23.3000
+  longitude: -68.2000
+scores:
+  impact: 9.1
+  uniqueness: 9.0
+  significance: 8.8
+  experience: 8.5
+  depth: 8.3
+  categories:
+    nature: 9.4
+    wildlife: 9.4
+    photography: 9.4
