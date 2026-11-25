@@ -1,0 +1,16 @@
+id: city-hr-trogir
+name: "Trogir"
+location:
+  country_code: HR
+  latitude: 43.5164
+  longitude: 16.251
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 9.0
+  experience: 8.8
+  depth: 8.1
+  categories:
+    architecture: 9.4
+    history: 9.3
+    photography: 9.2

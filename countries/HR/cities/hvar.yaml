@@ -1,0 +1,16 @@
+id: city-hr-hvar
+name: "Hvar"
+location:
+  country_code: HR
+  latitude: 43.172
+  longitude: 16.443
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 8.5
+  experience: 9.0
+  depth: 8.1
+  categories:
+    architecture: 9.0
+    photography: 9.2
+    nightlife: 9.0

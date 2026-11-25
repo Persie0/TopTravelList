@@ -1,0 +1,15 @@
+id: sight-hr-venetian-defences
+name: "Venetian Works of Defence (Croatian components)"
+location:
+  country_code: HR
+  latitude: 44.114
+  longitude: 15.23
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 9.2
+  experience: 8.7
+  depth: 8.8
+  categories:
+    architecture: 9.2
+    history: 9.3

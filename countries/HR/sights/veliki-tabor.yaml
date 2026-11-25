@@ -1,0 +1,15 @@
+id: sight-hr-veliki-tabor
+name: "Veliki Tabor Castle"
+location:
+  country_code: HR
+  latitude: 46.157
+  longitude: 15.652
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 8.7
+  experience: 8.6
+  depth: 8.0
+  categories:
+    architecture: 9.1
+    history: 9.0

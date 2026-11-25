@@ -1,0 +1,15 @@
+id: sight-hr-zagorske-gore
+name: "Zagorske gore Nature Park"
+location:
+  country_code: HR
+  latitude: 46.18
+  longitude: 16.13
+scores:
+  impact: 8.3
+  uniqueness: 8.4
+  significance: 8.4
+  experience: 8.2
+  depth: 8.4
+  categories:
+    nature: 8.9
+    adventure: 8.7

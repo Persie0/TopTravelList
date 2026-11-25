@@ -1,0 +1,15 @@
+id: sight-hr-osijek-tvrda
+name: "Tvrđa fortified district, Osijek"
+location:
+  country_code: HR
+  latitude: 45.561
+  longitude: 18.695
+scores:
+  impact: 8.6
+  uniqueness: 8.6
+  significance: 8.8
+  experience: 8.6
+  depth: 8.5
+  categories:
+    architecture: 9.1
+    history: 9.0

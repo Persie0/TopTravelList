@@ -1,0 +1,16 @@
+id: sight-hr-lastovo
+name: "Lastovo Islands Nature Park"
+location:
+  country_code: HR
+  latitude: 42.76
+  longitude: 16.85
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 8.6
+  experience: 8.8
+  depth: 9.0
+  categories:
+    nature: 9.3
+    photography: 9.2
+    relaxation: 9.1

@@ -1,0 +1,16 @@
+id: city-hr-porec
+name: "Poreč"
+location:
+  country_code: HR
+  latitude: 45.226
+  longitude: 13.595
+scores:
+  impact: 8.5
+  uniqueness: 8.6
+  significance: 8.8
+  experience: 8.7
+  depth: 8.0
+  categories:
+    architecture: 9.1
+    history: 9.2
+    relaxation: 8.8

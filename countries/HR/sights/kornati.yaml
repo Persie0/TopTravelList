@@ -1,0 +1,16 @@
+id: sight-hr-kornati
+name: "Kornati National Park"
+location:
+  country_code: HR
+  latitude: 43.82
+  longitude: 15.3
+scores:
+  impact: 9.2
+  uniqueness: 9.2
+  significance: 8.8
+  experience: 9.0
+  depth: 9.1
+  categories:
+    nature: 9.4
+    photography: 9.4
+    adventure: 9.1

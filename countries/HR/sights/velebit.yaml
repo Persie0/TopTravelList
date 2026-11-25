@@ -1,0 +1,16 @@
+id: sight-hr-velebit
+name: "Velebit Nature Park and tentative mountain landscape"
+location:
+  country_code: HR
+  latitude: 44.53
+  longitude: 15.2
+scores:
+  impact: 9.1
+  uniqueness: 9.0
+  significance: 8.8
+  experience: 9.0
+  depth: 9.3
+  categories:
+    nature: 9.4
+    adventure: 9.3
+    photography: 9.3

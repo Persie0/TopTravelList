@@ -1,0 +1,16 @@
+id: sight-hr-trakoscan
+name: "Trakošćan Castle and lake"
+location:
+  country_code: HR
+  latitude: 46.259
+  longitude: 15.949
+scores:
+  impact: 8.8
+  uniqueness: 8.6
+  significance: 8.5
+  experience: 8.8
+  depth: 8.4
+  categories:
+    architecture: 9.2
+    photography: 9.2
+    history: 8.9
