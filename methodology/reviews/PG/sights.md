@@ -497,3 +497,83 @@
 - Earlier decision: none.
 - Verification still needed: Tentative only; midpoint is approximate and not entrance.
 
+
+
+### sight-pg-upper-sepik-river-basin — Upper Sepik River Basin — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/PG/sights/upper-sepik-river-basin.yaml)
+- Action: rescore
+- Precise subject: Middle and upper reaches of the tentative mixed property, including established community-consented river excursions. No lower-river, hypothetical mountain access or unrestricted sacred-house access credited.
+- Location check: Retain approximate Ambunti representative point (-4.21804, 142.82253), not a boundary or entrance; tourism authority corroborates Ambunti's role as upper-river departure point.
+- Evidence status: source-linked-unverified
+- Independently checked factual claims (2026-11-25):
+  - PNG tentative submission published by UNESCO: middle and upper basin, diverse wetlands and forests, ceremonial houses and carving traditions — https://whc.unesco.org/en/tentativelists/5065/
+  - PNG Tourism Promotion Authority: established canoe tours, village stays, carving interpretation and local guides; Ambunti upper-river access — https://papuanewguinea.travel/natural-landmarks/sepik-river/
+  - PNG Frontier Adventures: published typical 2027 itinerary traverses Ambunti, Wagu Lagoon, Yambon, Swagup and other upper-river communities, with village stays, spirit-house visits and birdwatching — https://www.pngfrontieradventures.com/fa01/
+  - Sepik Adventure Tours: advertised guided village and motor-canoe excursions — https://www.sepikadventuretour.com/tours
+- Missing or uncertain facts: Operator descriptions demonstrate usual visitor scope, not confirmed bookings or universal permission. Proposal boundary and representative coordinate still require independent geospatial corroboration; mountain and remote protected-area access not assumed.
+
+#### Worldwide peer comparisons
+| Peer destination (country) | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| Tonle Sap Lake (Cambodia) | Wetlands, living water-based culture | Branch YAML 9.0/9.2/9.5/8.8/9.2; broader documented lake ecology |
+| Mekong Delta (Vietnam) | Riverine communities and multiday travel | 9.2/9.3/9.3/9.1/9.5; greater documented variety of waterways and settlements |
+| Kinabatangan Wildlife Sanctuary (Malaysia) | River excursions and biodiversity | 9.2/9.4/9.2/9.2/9.0; more wildlife-focused, Sepik has distinctive cultural depth |
+| Taman Negara National Park (Malaysia) | Rainforest and river-based exploration | 9.0/9.1/9.0/8.9/9.2; more established forest trail experiences |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | 8.7 | 8.7 | Extensive river and forest scenery, visually less concentrated than flagship scenic landscapes. |
+| Uniqueness | 9.1 | 9.1 | Distinctive combinations of river ecology, local architectural and carving traditions. |
+| Significance | 9.2 | 9.2 | Significant freshwater ecosystems and living cultural traditions; tentative status not equivalent to inscription. |
+| Experience | null | 8.9 | Established local-guide canoe excursions and community visits combine nature, art and interpretation; not all communities admit visitors. |
+| Depth | null | 9.0 | Multiple documented villages, lagoon and forest excursions over several days; no assumed access across the whole basin. |
+
+- Applicable categories: nature 9.1, culture 9.2 unchanged.
+- Computed worldwide overall: 89.60/100
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Complete provisional score for normal documented middle/upper basin visitor scope; no access guarantee.
+- Earlier decision: prior entry for this ID, unranked.
+- Verification still needed: boundary/GPS corroboration, customary permissions and worldwide canonical checks.
+
+### sight-pg-kuk-early-agricultural-site — Kuk Early Agricultural Site — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/PG/sights/kuk-early-agricultural-site.yaml)
+- Action: rescore
+- Precise subject: Inscribed 116-ha archaeological wetland and its consent-based visitor experience; exclude off-site museums and unrelated highland excursions.
+- Location check: Retain existing representative -5.783711, 144.331722; not a public entrance.
+- Evidence status: source-linked-unverified
+- Independently checked factual claims (2026-11-25):
+  - UNESCO inscription documents buried evidence of independent agricultural development — https://whc.unesco.org/en/list/887
+  - FAO October 2026 article describes the long cultivation sequence and living agricultural heritage — https://www.fao.org/papua-new-guinea/news/detail/kuk--papua-new-guinea%27s-ancient-farms-still-shape-what-the-highlands-eat/en
+  - PNG Tourism Promotion Authority explicitly describes permission-based archaeological visits — https://papuanewguinea.travel/western-highlands-province/
+  - UNESCO Sustainable Tourism Assessment of Pacific World Heritage Sites, printed p. 37: notes limited visibility of heritage features and historically limited visitor facilities; not a current facility inventory — https://whc.unesco.org/document/206723
+  - PNG CEPA September 2026 conservation workshop reports ongoing management and conservation-area process — https://cepa.gov.pg/news/kuk-workshop-advances-final-steps-towards-conservation-area-declaration-of-papua-new-guineas-only-world-heritage-property
+- Missing or uncertain facts: Current visitor centre operation, exact interpreted route, landowner permission and precise coordinate corroboration unverified. No credit for buried remains as visible displays or an off-site museum. Rating concerns consent-based normal visit, not access difficulty.
+
+#### Worldwide peer comparisons
+| Peer destination (country) | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| Ban Chiang Archaeological Site (Thailand) | Early settlement and material archaeology | Branch YAML 8.4/9.2/9.6/8.2/8.1; more visible and interpreted archaeology |
+| Lenggong Valley Archaeological Heritage (Malaysia) | Early human archaeological landscape | 8.0/9.0/9.5/8.0/8.4; broader documented archaeological exploration |
+| Carnuntum Archaeological Park (Austria) | Archaeology and visitor interpretation | 8.7/8.9/9.0/8.8/8.4; much more tangible reconstructions and visitor interpretation |
+| Rock Art of Alta (Norway) | In-situ ancient evidence | 8.5/9.1/9.3/8.6/8.5; readily visible art, unlike buried agricultural archaeology |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | null | 6.4 | Working wetland agricultural landscape, with major heritage evidence largely buried and not visually monumental. |
+| Uniqueness | 9.3 | 9.3 | Rare independently developed agricultural tradition documented through long archaeological sequence. |
+| Significance | 9.4 | 9.4 | Internationally important evidence of early farming and agricultural innovation. |
+| Experience | null | 6.8 | Permission-based visits can convey continuity and context; limited readily observable archaeological evidence compared with interpreted parks. |
+| Depth | null | 6.4 | Focused wetland interpretation rather than extensive excavations, reconstructed buildings or on-site museum collections; no unverified facilities credited. |
+
+- Applicable category scores: history 9.3 unchanged.
+- Computed worldwide overall: 77.85/100
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Provisional score separates international archaeological significance from modest tangible visitor impact; explicit permission remains necessary.
+- Earlier decision: prior entry for this ID, unranked.
+- Verification still needed: Confirm current consent-based visitor arrangements and on-site interpretation, representative point and canonical checks.

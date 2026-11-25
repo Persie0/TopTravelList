@@ -2,7 +2,7 @@
 
 # Papua New Guinea (PG) — Sights & attractions ranking
 
-**6 ranked** · **8 unassessed** · **14 total** · Worldwide scoring **v2**
+**8 ranked** · **6 unassessed** · **14 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,18 +10,20 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (6)
+## Complete ranked list (8)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
-| 1 | [Kokoda Track](sights/kokoda-track.yaml) | Attraction | **88.35** | **Adventure 9.2**, **History 9.2**, **Nature 8.6** | 8.5 / 8.9 / 9.0 / 9.0 / 9.1 | [-8.86667, 147.75](https://www.google.com/maps/search/?api=1&query=-8.86667,147.75) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kokoda%20Track%2C%20Papua%20New%20Guinea) |
-| 2 | [Mount Wilhelm](sights/mount-wilhelm.yaml) | Mountain / peak | **84.45** | **Adventure 9.0**, **Nature 8.9**, **Photography 8.8** | 8.8 / 8.5 / 7.8 / 8.6 / 8.3 | [-5.8, 145.033](https://www.google.com/maps/search/?api=1&query=-5.8,145.033) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mount%20Wilhelm%2C%20Papua%20New%20Guinea) |
-| 3 | [Tavurvur Volcano](sights/tavurvur.yaml) | Mountain / peak | **83.50** | **Nature 8.9**, **Photography 8.9**, **Adventure 8.1** | 8.8 / 8.6 / 8.1 / 8.0 / 7.4 | [-4.23818, 152.20922](https://www.google.com/maps/search/?api=1&query=-4.23818,152.20922) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tavurvur%20Volcano%2C%20Papua%20New%20Guinea) |
-| 4 | [Varirata National Park](sights/varirata-national-park.yaml) | Park / reserve | **80.45** | **Wildlife 8.6**, **Nature 8.5**, **Photography 8.2** | 8.0 / 8.1 / 8.0 / 8.2 / 7.9 | [-9.46375, 147.360139](https://www.google.com/maps/search/?api=1&query=-9.46375,147.360139) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Varirata%20National%20Park%2C%20Papua%20New%20Guinea) |
-| 5 | [Papua New Guinea National Museum and Art Gallery](sights/national-museum-art-gallery.yaml) | Museum / heritage | **80.40** | **Culture 8.9**, **History 8.7** | 7.5 / 8.4 / 8.6 / 8.0 / 7.7 | [-9.42559, 147.19013](https://www.google.com/maps/search/?api=1&query=-9.42559,147.19013) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Papua%20New%20Guinea%20National%20Museum%20and%20Art%20Gallery%2C%20Papua%20New%20Guinea) |
-| 6 | [Port Moresby Nature Park](sights/port-moresby-nature-park.yaml) | Park / square | **78.65** | **Wildlife 8.6**, **Nature 8.3**, **Family 8.2** | 7.7 / 8.0 / 7.7 / 8.3 / 7.7 | [-9.40524, 147.16508](https://www.google.com/maps/search/?api=1&query=-9.40524,147.16508) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Port%20Moresby%20Nature%20Park%2C%20Papua%20New%20Guinea) |
+| 1 | [Upper Sepik River Basin](sights/upper-sepik-river-basin.yaml) | River / waterway | **89.60** | **Culture 9.2**, **Nature 9.1** | 8.7 / 9.1 / 9.2 / 8.9 / 9.0 | [-4.21804, 142.82253](https://www.google.com/maps/search/?api=1&query=-4.21804,142.82253) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Upper%20Sepik%20River%20Basin%2C%20Papua%20New%20Guinea) |
+| 2 | [Kokoda Track](sights/kokoda-track.yaml) | Attraction | **88.35** | **Adventure 9.2**, **History 9.2**, **Nature 8.6** | 8.5 / 8.9 / 9.0 / 9.0 / 9.1 | [-8.86667, 147.75](https://www.google.com/maps/search/?api=1&query=-8.86667,147.75) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kokoda%20Track%2C%20Papua%20New%20Guinea) |
+| 3 | [Mount Wilhelm](sights/mount-wilhelm.yaml) | Mountain / peak | **84.45** | **Adventure 9.0**, **Nature 8.9**, **Photography 8.8** | 8.8 / 8.5 / 7.8 / 8.6 / 8.3 | [-5.8, 145.033](https://www.google.com/maps/search/?api=1&query=-5.8,145.033) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mount%20Wilhelm%2C%20Papua%20New%20Guinea) |
+| 4 | [Tavurvur Volcano](sights/tavurvur.yaml) | Mountain / peak | **83.50** | **Nature 8.9**, **Photography 8.9**, **Adventure 8.1** | 8.8 / 8.6 / 8.1 / 8.0 / 7.4 | [-4.23818, 152.20922](https://www.google.com/maps/search/?api=1&query=-4.23818,152.20922) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tavurvur%20Volcano%2C%20Papua%20New%20Guinea) |
+| 5 | [Varirata National Park](sights/varirata-national-park.yaml) | Park / reserve | **80.45** | **Wildlife 8.6**, **Nature 8.5**, **Photography 8.2** | 8.0 / 8.1 / 8.0 / 8.2 / 7.9 | [-9.46375, 147.360139](https://www.google.com/maps/search/?api=1&query=-9.46375,147.360139) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Varirata%20National%20Park%2C%20Papua%20New%20Guinea) |
+| 6 | [Papua New Guinea National Museum and Art Gallery](sights/national-museum-art-gallery.yaml) | Museum / heritage | **80.40** | **Culture 8.9**, **History 8.7** | 7.5 / 8.4 / 8.6 / 8.0 / 7.7 | [-9.42559, 147.19013](https://www.google.com/maps/search/?api=1&query=-9.42559,147.19013) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Papua%20New%20Guinea%20National%20Museum%20and%20Art%20Gallery%2C%20Papua%20New%20Guinea) |
+| 7 | [Port Moresby Nature Park](sights/port-moresby-nature-park.yaml) | Park / square | **78.65** | **Wildlife 8.6**, **Nature 8.3**, **Family 8.2** | 7.7 / 8.0 / 7.7 / 8.3 / 7.7 | [-9.40524, 147.16508](https://www.google.com/maps/search/?api=1&query=-9.40524,147.16508) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Port%20Moresby%20Nature%20Park%2C%20Papua%20New%20Guinea) |
+| 8 | [Kuk Early Agricultural Site](sights/kuk-early-agricultural-site.yaml) | Attraction | **77.85** | **History 9.3** | 6.4 / 9.3 / 9.4 / 6.8 / 6.4 | [-5.783711, 144.331722](https://www.google.com/maps/search/?api=1&query=-5.783711,144.331722) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kuk%20Early%20Agricultural%20Site%2C%20Papua%20New%20Guinea) |
 
-## Not yet fully assessed (8)
+## Not yet fully assessed (6)
 
 These destinations have no rank until all five core scores are assessed.
 
@@ -30,11 +32,9 @@ These destinations have no rank until all five core scores are assessed.
 | — | [Huon Terraces - Stairway to the Past](sights/huon-terraces.yaml) | Attraction | **—** | **Nature 9.1** | 8.5 / 9.2 / 9.2 / — / — | [-6, 147](https://www.google.com/maps/search/?api=1&query=-6,147) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Huon%20Terraces%20-%20Stairway%20to%20the%20Past%2C%20Papua%20New%20Guinea) |
 | — | [Kikori River Basin / Great Papuan Plateau](sights/kikori-river-basin.yaml) | River / waterway | **—** | **Nature 9.2**, **Wildlife 9.1** | 8.8 / 9.0 / 9.2 / — / — | [-6.3929, 143.3246](https://www.google.com/maps/search/?api=1&query=-6.3929,143.3246) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kikori%20River%20Basin%20%2F%20Great%20Papuan%20Plateau%2C%20Papua%20New%20Guinea) |
 | — | [Kokoda Track and Owen Stanley Ranges](sights/kokoda-owen-stanley.yaml) | Attraction | **—** | **History 9.1**, **Nature 9.1** | 8.9 / 8.8 / 9.2 / — / — | [-9.38, 148.4](https://www.google.com/maps/search/?api=1&query=-9.38,148.4) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kokoda%20Track%20and%20Owen%20Stanley%20Ranges%2C%20Papua%20New%20Guinea) |
-| — | [Kuk Early Agricultural Site](sights/kuk-early-agricultural-site.yaml) | Attraction | **—** | **History 9.3** | — / 9.3 / 9.4 / — / — | [-5.783711, 144.331722](https://www.google.com/maps/search/?api=1&query=-5.783711,144.331722) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kuk%20Early%20Agricultural%20Site%2C%20Papua%20New%20Guinea) |
 | — | [Milne Bay Seascape](sights/milne-bay-seascape.yaml) | Beach / bay | **—** | **Nature 9.2**, **Wildlife 9.1** | 9.0 / 9.0 / 9.1 / — / — | [-10.76972, 151.79101](https://www.google.com/maps/search/?api=1&query=-10.76972,151.79101) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Milne%20Bay%20Seascape%2C%20Papua%20New%20Guinea) |
 | — | [The Sublime Karsts of Papua New Guinea](sights/sublime-karsts.yaml) | Attraction | **—** | **Nature 9.2** | 8.9 / 9.3 / 9.2 / — / — | [-5.263889, 141.513611](https://www.google.com/maps/search/?api=1&query=-5.263889,141.513611) | [Google Maps](https://www.google.com/maps/search/?api=1&query=The%20Sublime%20Karsts%20of%20Papua%20New%20Guinea%2C%20Papua%20New%20Guinea) |
 | — | [Trans-Fly Complex](sights/trans-fly-complex.yaml) | Attraction | **—** | **Nature 9.1**, **Wildlife 9.0** | 8.3 / 8.8 / 9.0 / — / — | [-8.75, 141.383333](https://www.google.com/maps/search/?api=1&query=-8.75,141.383333) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Trans-Fly%20Complex%2C%20Papua%20New%20Guinea) |
-| — | [Upper Sepik River Basin](sights/upper-sepik-river-basin.yaml) | River / waterway | **—** | **Culture 9.2**, **Nature 9.1** | 8.7 / 9.1 / 9.2 / — / — | [-4.21804, 142.82253](https://www.google.com/maps/search/?api=1&query=-4.21804,142.82253) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Upper%20Sepik%20River%20Basin%2C%20Papua%20New%20Guinea) |
 
 ---
 
