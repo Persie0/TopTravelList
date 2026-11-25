@@ -1,0 +1,14 @@
+id: sight-pk-banbhore
+name: "Port of Banbhore"
+location:
+  country_code: PK
+  latitude: 24.75
+  longitude: 67.52
+scores:
+  impact: 7.6
+  uniqueness: 8.3
+  significance: 8.8
+  experience: null
+  depth: null
+  categories:
+    history: 8.9

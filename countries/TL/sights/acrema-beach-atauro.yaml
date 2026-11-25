@@ -1,0 +1,16 @@
+id: sight-tl-acrema-beach-atauro
+name: "Acrema Beach (Atauro)"
+location:
+  country_code: TL
+  latitude: -8.158
+  longitude: 125.627
+scores:
+  impact: 8.4
+  uniqueness: 8.2
+  significance: 6.6
+  experience: 8.5
+  depth: 6.8
+  categories:
+    beaches: 9.0
+    relaxation: 8.8
+    photography: 8.7

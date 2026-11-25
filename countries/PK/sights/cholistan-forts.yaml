@@ -1,0 +1,15 @@
+id: sight-pk-cholistan-forts
+name: "Derawar and Desert Forts of Cholistan"
+location:
+  country_code: PK
+  latitude: 28.77
+  longitude: 71.33
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 8.5
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.0
+    photography: 9.2

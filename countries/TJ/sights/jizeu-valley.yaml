@@ -1,0 +1,16 @@
+id: sight-tj-jizeu-valley
+name: "Jizeu Valley"
+location:
+  country_code: TJ
+  latitude: 37.93
+  longitude: 71.85
+scores:
+  impact: 8.7
+  uniqueness: 8.5
+  significance: 7.3
+  experience: 8.7
+  depth: 7.9
+  categories:
+    nature: 9.0
+    photography: 9.1
+    adventure: 8.8

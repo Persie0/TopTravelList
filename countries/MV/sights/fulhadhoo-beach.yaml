@@ -1,0 +1,16 @@
+id: sight-mv-fulhadhoo-beach
+name: "Fulhadhoo Beach"
+location:
+  country_code: MV
+  latitude: 4.887
+  longitude: 72.917
+scores:
+  impact: 8.8
+  uniqueness: 8.5
+  significance: 6.2
+  experience: 8.9
+  depth: 7.1
+  categories:
+    beaches: 9.3
+    relaxation: 9.3
+    photography: 9.1

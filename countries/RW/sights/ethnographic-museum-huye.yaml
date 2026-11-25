@@ -1,0 +1,15 @@
+id: sight-rw-ethnographic-museum-huye
+name: "Ethnographic Museum (Huye)"
+location:
+  country_code: RW
+  latitude: -2.5980
+  longitude: 29.7420
+scores:
+  impact: 7.6
+  uniqueness: 8.4
+  significance: 8.7
+  experience: 8.3
+  depth: 8.1
+  categories:
+    culture: 9.1
+    history: 9.0

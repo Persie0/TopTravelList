@@ -1,0 +1,15 @@
+id: sight-az-momine-khatun-mausoleum
+name: "Momine Khatun Mausoleum"
+location:
+  country_code: AZ
+  latitude: 39.207
+  longitude: 45.412
+scores:
+  impact: 8.6
+  uniqueness: 9.0
+  significance: 9.1
+  experience: 8.3
+  depth: 6.6
+  categories:
+    architecture: 9.4
+    history: 9.3

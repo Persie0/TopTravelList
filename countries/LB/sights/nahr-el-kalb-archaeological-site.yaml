@@ -1,0 +1,15 @@
+id: sight-lb-nahr-el-kalb-archaeological-site
+name: "Nahr el-Kalb Archaeological Site"
+location:
+  country_code: LB
+  latitude: 33.95
+  longitude: 35.6
+scores:
+  impact: 8.0
+  uniqueness: 9.0
+  significance: 9.3
+  experience: 8.0
+  depth: 7.9
+  categories:
+    history: 9.4
+    culture: 8.8

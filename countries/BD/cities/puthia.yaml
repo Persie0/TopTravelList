@@ -1,0 +1,15 @@
+id: city-bd-puthia
+name: "Puthia"
+location:
+  country_code: BD
+  latitude: 24.37
+  longitude: 88.84
+scores:
+  impact: 7.2
+  uniqueness: 7.9
+  significance: 7.8
+  experience: 7.7
+  depth: 6.6
+  categories:
+    architecture: 8.5
+    culture: 8.2

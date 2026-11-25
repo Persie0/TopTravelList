@@ -1,0 +1,15 @@
+id: sight-az-ilisu-waterfall-and-village-gorge
+name: "Ilisu Waterfall and Village Gorge"
+location:
+  country_code: AZ
+  latitude: 41.47
+  longitude: 47.05
+scores:
+  impact: 8.1
+  uniqueness: 8.0
+  significance: 6.7
+  experience: 8.3
+  depth: 7.2
+  categories:
+    nature: 8.5
+    photography: 8.8

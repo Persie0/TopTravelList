@@ -1,0 +1,15 @@
+id: sight-cr-national-museum-of-costa-rica
+name: "National Museum of Costa Rica"
+location:
+  country_code: CR
+  latitude: 9.932
+  longitude: -84.072
+scores:
+  impact: 7.7
+  uniqueness: 8.0
+  significance: 8.6
+  experience: 8.2
+  depth: 8.1
+  categories:
+    history: 8.9
+    culture: 8.6

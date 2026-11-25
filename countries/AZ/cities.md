@@ -2,7 +2,7 @@
 
 # Azerbaijan (AZ) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**16 ranked** · **0 unassessed** · **16 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,26 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (16)
 
-No cities, towns & villages have been assessed for **Azerbaijan** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Baku](cities/baku.yaml) | City / town | **88.30** | **Architecture 9.3**, **Photography 9.1**, **Culture 8.9**, Food 8.8 | 8.8 / 8.9 / 8.6 / 8.9 / 9.1 | [40.4093, 49.8671](https://www.google.com/maps/search/?api=1&query=40.4093,49.8671) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Baku%2C%20Azerbaijan) |
+| 2 | [Khinalig](cities/khinalig.yaml) | City / town | **87.35** | **Culture 9.4**, **Photography 9.4**, **Architecture 8.7** | 8.8 / 9.3 / 8.7 / 8.6 / 7.4 | [41.178, 48.126](https://www.google.com/maps/search/?api=1&query=41.178,48.126) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Khinalig%2C%20Azerbaijan) |
+| 3 | [Sheki](cities/sheki.yaml) | City / town | **86.35** | **Architecture 9.2**, **History 9.1**, **Culture 9.0** | 8.5 / 8.8 / 8.8 / 8.7 / 8.2 | [41.191, 47.17](https://www.google.com/maps/search/?api=1&query=41.191,47.17) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sheki%2C%20Azerbaijan) |
+| 4 | [Lahij](cities/lahij.yaml) | City / town | **82.25** | **Culture 9.2**, **Architecture 8.7** | 8.1 / 8.8 / 8.0 / 8.5 / 7.2 | [40.85, 48.39](https://www.google.com/maps/search/?api=1&query=40.85,48.39) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lahij%2C%20Azerbaijan) |
+| 5 | [Ordubad](cities/ordubad.yaml) | City / town | **80.30** | **History 8.9**, **Architecture 8.7**, **Culture 8.5** | 7.8 / 8.5 / 8.3 / 7.9 / 7.2 | [38.909, 46.028](https://www.google.com/maps/search/?api=1&query=38.909,46.028) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ordubad%2C%20Azerbaijan) |
+| 6 | [Qirmizi Qasaba](cities/qirmizi-qasaba.yaml) | City / town | **80.10** | **Culture 9.2**, **History 8.9** | 7.6 / 8.8 / 8.3 / 8.0 / 6.7 | [41.37, 48.51](https://www.google.com/maps/search/?api=1&query=41.37,48.51) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Qirmizi%20Qasaba%2C%20Azerbaijan) |
+| 7 | [Nakhchivan](cities/nakhchivan.yaml) | City / town | **80.00** | **History 9.0**, **Architecture 8.5** | 7.7 / 8.2 / 8.5 / 7.8 / 7.7 | [39.209, 45.412](https://www.google.com/maps/search/?api=1&query=39.209,45.412) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nakhchivan%2C%20Azerbaijan) |
+| 8 | [Ganja](cities/ganja.yaml) | City / town | **79.00** | **History 8.8**, **Culture 8.4**, **Architecture 8.2** | 7.6 / 7.8 / 8.4 / 8.0 / 7.9 | [40.6828, 46.3606](https://www.google.com/maps/search/?api=1&query=40.6828,46.3606) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ganja%2C%20Azerbaijan) |
+| 9 | [Basgal](cities/basgal.yaml) | City / town | **78.40** | **Culture 8.9**, **Architecture 8.5** | 7.6 / 8.4 / 7.9 / 8.0 / 6.8 | [40.756, 48.396](https://www.google.com/maps/search/?api=1&query=40.756,48.396) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Basgal%2C%20Azerbaijan) |
+| 10 | [Shamakhi](cities/shamakhi.yaml) | City / town | **76.25** | **History 8.8**, **Culture 8.2** | 7.2 / 7.8 / 8.3 / 7.7 / 7.0 | [40.631, 48.641](https://www.google.com/maps/search/?api=1&query=40.631,48.641) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Shamakhi%2C%20Azerbaijan) |
+| 11 | [Goygol](cities/goygol.yaml) | City / town | **75.60** | **Architecture 8.4**, **History 8.2** | 7.4 / 7.9 / 7.7 / 7.7 / 6.7 | [40.587, 46.317](https://www.google.com/maps/search/?api=1&query=40.587,46.317) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Goygol%2C%20Azerbaijan) |
+| 12 | [Quba](cities/quba.yaml) | City / town | **75.40** | **Culture 8.3**, **Food 8.2** | 7.3 / 7.7 / 7.6 / 7.9 / 7.2 | [41.36, 48.51](https://www.google.com/maps/search/?api=1&query=41.36,48.51) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Quba%2C%20Azerbaijan) |
+| 13 | [Lankaran](cities/lankaran.yaml) | City / town | **75.35** | **Food 8.7**, **Culture 8.2** | 7.3 / 7.7 / 7.4 / 8.0 / 7.4 | [38.754, 48.85](https://www.google.com/maps/search/?api=1&query=38.754,48.85) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lankaran%2C%20Azerbaijan) |
+| 14 | [Gabala](cities/gabala.yaml) | City / town | **73.30** | **Relaxation 8.2**, **Culture 7.7** | 7.2 / 7.3 / 7.2 / 7.9 / 7.2 | [40.982, 47.849](https://www.google.com/maps/search/?api=1&query=40.982,47.849) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Gabala%2C%20Azerbaijan) |
+| 15 | [Qusar](cities/qusar.yaml) | City / town | **69.90** | **Culture 8.0**, **Food 7.7** | 6.7 / 7.3 / 6.8 / 7.5 / 6.7 | [41.426, 48.435](https://www.google.com/maps/search/?api=1&query=41.426,48.435) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Qusar%2C%20Azerbaijan) |
+| 16 | [Ismayilli](cities/ismayilli.yaml) | City / town | **67.30** | **Food 7.6**, **Culture 7.5** | 6.5 / 6.9 / 6.5 / 7.3 / 6.6 | [40.79, 48.15](https://www.google.com/maps/search/?api=1&query=40.79,48.15) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ismayilli%2C%20Azerbaijan) |
 
 ---
 

@@ -1,0 +1,15 @@
+id: sight-km-moheli-terrestrial-ecosystem-and-cultural-landscape
+name: "Mohéli Terrestrial Ecosystem and Cultural Landscape"
+location:
+  country_code: KM
+  latitude: -12.3150
+  longitude: 43.7350
+scores:
+  impact: 8.6
+  uniqueness: 8.6
+  significance: 8.7
+  experience: 8.5
+  depth: 8.4
+  categories:
+    nature: 9.1
+    culture: 8.3

@@ -1,0 +1,16 @@
+id: sight-sa-hegra
+name: "Hegra Archaeological Site"
+location:
+  country_code: SA
+  latitude: 26.791
+  longitude: 37.953
+scores:
+  impact: 9.3
+  uniqueness: 9.3
+  significance: 9.2
+  experience: 8.9
+  depth: 8.7
+  categories:
+    history: 9.3
+    architecture: 9.3
+    photography: 9.4
