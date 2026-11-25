@@ -1,0 +1,16 @@
+id: sight-jp-nakasendo-magome-tsumago-trail
+name: "Nakasendo Magome Tsumago Trail"
+location:
+  country_code: JP
+  latitude: 35.5520
+  longitude: 137.5800
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 8.8
+  experience: 9.0
+  depth: 8.7
+  categories:
+    adventure: 8.9
+    history: 9.0
+    nature: 8.8

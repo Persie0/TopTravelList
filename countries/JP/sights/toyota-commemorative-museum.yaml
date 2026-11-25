@@ -1,0 +1,16 @@
+id: sight-jp-toyota-commemorative-museum
+name: "Toyota Commemorative Museum"
+location:
+  country_code: JP
+  latitude: 35.1837
+  longitude: 136.8767
+scores:
+  impact: 8.3
+  uniqueness: 8.8
+  significance: 8.7
+  experience: 8.8
+  depth: 8.9
+  categories:
+    history: 8.9
+    culture: 8.6
+    family: 8.7

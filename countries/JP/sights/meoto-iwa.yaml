@@ -1,0 +1,15 @@
+id: sight-jp-meoto-iwa
+name: "Meoto Iwa"
+location:
+  country_code: JP
+  latitude: 34.5090
+  longitude: 136.7872
+scores:
+  impact: 8.2
+  uniqueness: 8.7
+  significance: 8.1
+  experience: 8.4
+  depth: 6.8
+  categories:
+    culture: 8.7
+    photography: 9.0

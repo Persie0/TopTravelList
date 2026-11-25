@@ -1,0 +1,16 @@
+id: sight-jp-shitennoji-temple
+name: "Shitennoji Temple"
+location:
+  country_code: JP
+  latitude: 34.6544
+  longitude: 135.5165
+scores:
+  impact: 8.5
+  uniqueness: 8.7
+  significance: 9.2
+  experience: 8.6
+  depth: 8.3
+  categories:
+    history: 9.4
+    culture: 9.1
+    architecture: 8.8

@@ -1,0 +1,15 @@
+id: sight-jp-odaiba-seaside-park
+name: "Odaiba Seaside Park"
+location:
+  country_code: JP
+  latitude: 35.6299
+  longitude: 139.7758
+scores:
+  impact: 7.9
+  uniqueness: 7.7
+  significance: 6.5
+  experience: 8.4
+  depth: 7.8
+  categories:
+    photography: 8.6
+    relaxation: 8.4

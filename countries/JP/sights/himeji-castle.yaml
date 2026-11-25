@@ -1,0 +1,16 @@
+id: sight-jp-himeji-castle
+name: "Himeji Castle"
+location:
+  country_code: JP
+  latitude: 34.8394
+  longitude: 134.6939
+scores:
+  impact: 9.7
+  uniqueness: 9.6
+  significance: 9.5
+  experience: 9.5
+  depth: 9.4
+  categories:
+    architecture: 9.8
+    history: 9.6
+    photography: 9.7

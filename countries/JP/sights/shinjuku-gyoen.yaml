@@ -1,0 +1,16 @@
+id: sight-jp-shinjuku-gyoen
+name: "Shinjuku Gyoen"
+location:
+  country_code: JP
+  latitude: 35.6852
+  longitude: 139.7101
+scores:
+  impact: 8.5
+  uniqueness: 8.2
+  significance: 7.8
+  experience: 9.0
+  depth: 8.6
+  categories:
+    nature: 8.7
+    relaxation: 9.1
+    photography: 8.8

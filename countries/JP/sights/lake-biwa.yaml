@@ -1,0 +1,16 @@
+id: sight-jp-lake-biwa
+name: "Lake Biwa"
+location:
+  country_code: JP
+  latitude: 35.2500
+  longitude: 136.1000
+scores:
+  impact: 8.7
+  uniqueness: 8.7
+  significance: 8.8
+  experience: 8.9
+  depth: 9.2
+  categories:
+    nature: 9.1
+    relaxation: 8.9
+    wildlife: 8.6

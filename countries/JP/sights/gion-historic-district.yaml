@@ -1,0 +1,16 @@
+id: sight-jp-gion-historic-district
+name: "Gion Historic District"
+location:
+  country_code: JP
+  latitude: 35.0035
+  longitude: 135.7750
+scores:
+  impact: 9.0
+  uniqueness: 9.3
+  significance: 9.0
+  experience: 9.0
+  depth: 8.6
+  categories:
+    culture: 9.4
+    architecture: 9.2
+    photography: 9.5

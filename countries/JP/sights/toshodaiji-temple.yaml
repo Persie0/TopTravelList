@@ -1,0 +1,16 @@
+id: sight-jp-toshodaiji-temple
+name: "Toshodaiji Temple"
+location:
+  country_code: JP
+  latitude: 34.6751
+  longitude: 135.7841
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 9.4
+  experience: 8.9
+  depth: 8.5
+  categories:
+    architecture: 9.4
+    history: 9.5
+    culture: 9.3

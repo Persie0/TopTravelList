@@ -1,0 +1,15 @@
+id: sight-jp-ginza
+name: "Ginza"
+location:
+  country_code: JP
+  latitude: 35.6718
+  longitude: 139.7650
+scores:
+  impact: 8.2
+  uniqueness: 8.0
+  significance: 7.7
+  experience: 8.6
+  depth: 8.4
+  categories:
+    architecture: 8.7
+    food: 8.7

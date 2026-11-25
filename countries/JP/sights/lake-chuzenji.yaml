@@ -1,0 +1,16 @@
+id: sight-jp-lake-chuzenji
+name: "Lake Chuzenji"
+location:
+  country_code: JP
+  latitude: 36.7292
+  longitude: 139.4523
+scores:
+  impact: 8.6
+  uniqueness: 8.3
+  significance: 7.5
+  experience: 8.8
+  depth: 8.6
+  categories:
+    nature: 9.0
+    relaxation: 8.9
+    photography: 9.0

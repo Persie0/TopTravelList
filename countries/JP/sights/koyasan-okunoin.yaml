@@ -1,0 +1,16 @@
+id: sight-jp-koyasan-okunoin
+name: "Koyasan Okunoin"
+location:
+  country_code: JP
+  latitude: 34.2191
+  longitude: 135.6050
+scores:
+  impact: 9.3
+  uniqueness: 9.5
+  significance: 9.5
+  experience: 9.3
+  depth: 9.0
+  categories:
+    culture: 9.7
+    history: 9.5
+    photography: 9.3

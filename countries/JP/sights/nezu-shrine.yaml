@@ -1,0 +1,16 @@
+id: sight-jp-nezu-shrine
+name: "Nezu Shrine"
+location:
+  country_code: JP
+  latitude: 35.7200
+  longitude: 139.7607
+scores:
+  impact: 8.0
+  uniqueness: 8.4
+  significance: 8.2
+  experience: 8.5
+  depth: 7.5
+  categories:
+    architecture: 8.5
+    culture: 8.6
+    photography: 8.6

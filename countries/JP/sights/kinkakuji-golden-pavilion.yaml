@@ -1,0 +1,16 @@
+id: sight-jp-kinkakuji-golden-pavilion
+name: "Kinkakuji Golden Pavilion"
+location:
+  country_code: JP
+  latitude: 35.0394
+  longitude: 135.7292
+scores:
+  impact: 9.3
+  uniqueness: 9.4
+  significance: 8.8
+  experience: 9.0
+  depth: 7.7
+  categories:
+    architecture: 9.6
+    photography: 9.7
+    culture: 9.0

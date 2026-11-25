@@ -1,0 +1,16 @@
+id: sight-jp-nijo-castle
+name: "Nijo Castle"
+location:
+  country_code: JP
+  latitude: 35.0142
+  longitude: 135.7481
+scores:
+  impact: 9.2
+  uniqueness: 9.2
+  significance: 9.5
+  experience: 9.3
+  depth: 9.0
+  categories:
+    architecture: 9.6
+    history: 9.6
+    photography: 9.0

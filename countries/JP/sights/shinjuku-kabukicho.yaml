@@ -1,0 +1,15 @@
+id: sight-jp-shinjuku-kabukicho
+name: "Shinjuku Kabukicho"
+location:
+  country_code: JP
+  latitude: 35.6950
+  longitude: 139.7026
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 7.5
+  experience: 8.9
+  depth: 8.5
+  categories:
+    nightlife: 9.2
+    photography: 8.9

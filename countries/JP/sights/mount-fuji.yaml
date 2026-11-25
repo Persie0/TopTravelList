@@ -1,0 +1,17 @@
+id: sight-jp-mount-fuji
+name: "Mount Fuji"
+location:
+  country_code: JP
+  latitude: 35.3606
+  longitude: 138.7274
+scores:
+  impact: 9.8
+  uniqueness: 9.7
+  significance: 9.5
+  experience: 9.2
+  depth: 9.3
+  categories:
+    nature: 9.8
+    photography: 9.9
+    culture: 9.7
+    adventure: 9.4

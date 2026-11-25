@@ -1,0 +1,16 @@
+id: sight-jp-kasuga-taisha
+name: "Kasuga Taisha"
+location:
+  country_code: JP
+  latitude: 34.6814
+  longitude: 135.8484
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 9.2
+  experience: 9.1
+  depth: 8.5
+  categories:
+    culture: 9.4
+    architecture: 9.3
+    photography: 9.3

@@ -1,0 +1,16 @@
+id: sight-jp-hitachi-seaside-park
+name: "Hitachi Seaside Park"
+location:
+  country_code: JP
+  latitude: 36.4029
+  longitude: 140.5968
+scores:
+  impact: 8.5
+  uniqueness: 8.3
+  significance: 6.8
+  experience: 8.8
+  depth: 8.5
+  categories:
+    photography: 9.2
+    relaxation: 8.8
+    family: 8.7

@@ -1,0 +1,15 @@
+id: sight-jp-tojinbo-cliffs
+name: "Tojinbo Cliffs"
+location:
+  country_code: JP
+  latitude: 36.2373
+  longitude: 136.1255
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 8.1
+  experience: 8.8
+  depth: 8.0
+  categories:
+    nature: 9.1
+    photography: 9.2

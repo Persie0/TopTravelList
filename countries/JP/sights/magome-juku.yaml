@@ -1,0 +1,16 @@
+id: sight-jp-magome-juku
+name: "Magome-juku"
+location:
+  country_code: JP
+  latitude: 35.5268
+  longitude: 137.5670
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 8.6
+  experience: 8.8
+  depth: 8.0
+  categories:
+    architecture: 9.0
+    history: 8.8
+    photography: 9.2

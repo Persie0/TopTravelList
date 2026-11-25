@@ -1,0 +1,16 @@
+id: sight-jp-ujigami-shrine
+name: "Ujigami Shrine"
+location:
+  country_code: JP
+  latitude: 34.8906
+  longitude: 135.8111
+scores:
+  impact: 8.2
+  uniqueness: 8.8
+  significance: 9.1
+  experience: 8.3
+  depth: 7.0
+  categories:
+    history: 9.3
+    architecture: 9.2
+    culture: 8.9

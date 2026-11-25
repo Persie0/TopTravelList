@@ -1,0 +1,16 @@
+id: sight-jp-kumano-kodo-nakahechi-route
+name: "Kumano Kodo Nakahechi Route"
+location:
+  country_code: JP
+  latitude: 33.8390
+  longitude: 135.6500
+scores:
+  impact: 9.1
+  uniqueness: 9.3
+  significance: 9.4
+  experience: 9.3
+  depth: 9.6
+  categories:
+    culture: 9.6
+    adventure: 9.3
+    history: 9.3

@@ -1,0 +1,16 @@
+id: sight-jp-ise-jingu-naiku
+name: "Ise Jingu Naiku"
+location:
+  country_code: JP
+  latitude: 34.4550
+  longitude: 136.7253
+scores:
+  impact: 9.0
+  uniqueness: 9.4
+  significance: 9.7
+  experience: 9.0
+  depth: 8.6
+  categories:
+    culture: 9.8
+    history: 9.6
+    architecture: 9.3

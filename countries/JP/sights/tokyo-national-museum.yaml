@@ -1,0 +1,16 @@
+id: sight-jp-tokyo-national-museum
+name: "Tokyo National Museum"
+location:
+  country_code: JP
+  latitude: 35.7188
+  longitude: 139.7765
+scores:
+  impact: 9.1
+  uniqueness: 9.2
+  significance: 9.4
+  experience: 9.2
+  depth: 9.4
+  categories:
+    history: 9.6
+    culture: 9.5
+    architecture: 8.6

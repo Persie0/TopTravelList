@@ -1,0 +1,15 @@
+id: sight-jp-kobe-nunobiki-herb-gardens
+name: "Kobe Nunobiki Herb Gardens"
+location:
+  country_code: JP
+  latitude: 34.7141
+  longitude: 135.1947
+scores:
+  impact: 8.2
+  uniqueness: 8.1
+  significance: 6.9
+  experience: 8.7
+  depth: 8.4
+  categories:
+    relaxation: 8.8
+    photography: 8.7

@@ -1,0 +1,15 @@
+id: sight-jp-tsukiji-outer-market
+name: "Tsukiji Outer Market"
+location:
+  country_code: JP
+  latitude: 35.6654
+  longitude: 139.7707
+scores:
+  impact: 8.1
+  uniqueness: 8.3
+  significance: 7.7
+  experience: 8.8
+  depth: 8.1
+  categories:
+    food: 9.0
+    culture: 8.5

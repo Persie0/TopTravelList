@@ -1,0 +1,15 @@
+id: sight-jp-kokoen-garden
+name: "Kokoen Garden"
+location:
+  country_code: JP
+  latitude: 34.8374
+  longitude: 134.6892
+scores:
+  impact: 8.6
+  uniqueness: 8.6
+  significance: 7.8
+  experience: 9.0
+  depth: 8.4
+  categories:
+    relaxation: 9.1
+    photography: 9.0

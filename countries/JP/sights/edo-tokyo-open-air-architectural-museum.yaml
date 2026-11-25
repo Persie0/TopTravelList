@@ -1,0 +1,16 @@
+id: sight-jp-edo-tokyo-open-air-architectural-museum
+name: "Edo Tokyo Open Air Architectural Museum"
+location:
+  country_code: JP
+  latitude: 35.7158
+  longitude: 139.5122
+scores:
+  impact: 8.3
+  uniqueness: 8.7
+  significance: 8.4
+  experience: 8.8
+  depth: 8.8
+  categories:
+    architecture: 9.0
+    history: 8.6
+    culture: 8.7

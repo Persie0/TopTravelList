@@ -1,0 +1,16 @@
+id: sight-jp-inuyama-castle
+name: "Inuyama Castle"
+location:
+  country_code: JP
+  latitude: 35.3883
+  longitude: 136.9390
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.9
+  depth: 8.0
+  categories:
+    architecture: 9.2
+    history: 9.1
+    photography: 9.0

@@ -1,0 +1,16 @@
+id: sight-jp-fushimi-inari-taisha
+name: "Fushimi Inari Taisha"
+location:
+  country_code: JP
+  latitude: 34.9671
+  longitude: 135.7727
+scores:
+  impact: 9.6
+  uniqueness: 9.8
+  significance: 9.3
+  experience: 9.5
+  depth: 9.2
+  categories:
+    culture: 9.7
+    photography: 9.8
+    architecture: 9.4

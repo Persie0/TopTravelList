@@ -1,0 +1,16 @@
+id: sight-jp-daitokuji-temple-complex
+name: "Daitokuji Temple Complex"
+location:
+  country_code: JP
+  latitude: 35.0437
+  longitude: 135.7462
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 9.1
+  experience: 8.9
+  depth: 8.8
+  categories:
+    culture: 9.2
+    history: 9.2
+    architecture: 9.1

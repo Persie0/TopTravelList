@@ -1,0 +1,15 @@
+id: sight-jp-toyosu-market
+name: "Toyosu Market"
+location:
+  country_code: JP
+  latitude: 35.6458
+  longitude: 139.7775
+scores:
+  impact: 7.8
+  uniqueness: 8.4
+  significance: 7.3
+  experience: 8.1
+  depth: 7.6
+  categories:
+    food: 8.6
+    culture: 8.1

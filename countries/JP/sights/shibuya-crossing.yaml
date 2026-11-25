@@ -1,0 +1,15 @@
+id: sight-jp-shibuya-crossing
+name: "Shibuya Crossing"
+location:
+  country_code: JP
+  latitude: 35.6595
+  longitude: 139.7005
+scores:
+  impact: 8.9
+  uniqueness: 9.2
+  significance: 7.7
+  experience: 8.8
+  depth: 6.7
+  categories:
+    photography: 9.3
+    culture: 8.8

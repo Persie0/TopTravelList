@@ -1,0 +1,16 @@
+id: sight-jp-tenryuji-temple
+name: "Tenryuji Temple"
+location:
+  country_code: JP
+  latitude: 35.0158
+  longitude: 135.6737
+scores:
+  impact: 9.0
+  uniqueness: 9.1
+  significance: 9.1
+  experience: 9.1
+  depth: 8.5
+  categories:
+    architecture: 9.3
+    culture: 9.2
+    relaxation: 9.2

@@ -1,0 +1,15 @@
+id: sight-jp-tokyo-skytree
+name: "Tokyo Skytree"
+location:
+  country_code: JP
+  latitude: 35.7101
+  longitude: 139.8107
+scores:
+  impact: 8.8
+  uniqueness: 8.6
+  significance: 7.7
+  experience: 8.9
+  depth: 7.8
+  categories:
+    architecture: 9.0
+    photography: 9.0

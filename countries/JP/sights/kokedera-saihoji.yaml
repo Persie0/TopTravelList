@@ -1,0 +1,16 @@
+id: sight-jp-kokedera-saihoji
+name: "Kokedera Saihoji"
+location:
+  country_code: JP
+  latitude: 34.9925
+  longitude: 135.6834
+scores:
+  impact: 8.8
+  uniqueness: 9.2
+  significance: 9.0
+  experience: 8.8
+  depth: 8.0
+  categories:
+    nature: 9.1
+    culture: 9.2
+    relaxation: 9.3

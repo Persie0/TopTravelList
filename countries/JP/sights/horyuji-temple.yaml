@@ -1,0 +1,16 @@
+id: sight-jp-horyuji-temple
+name: "Horyuji Temple"
+location:
+  country_code: JP
+  latitude: 34.6146
+  longitude: 135.7340
+scores:
+  impact: 9.3
+  uniqueness: 9.6
+  significance: 9.8
+  experience: 9.2
+  depth: 9.0
+  categories:
+    architecture: 9.8
+    history: 9.9
+    culture: 9.6
