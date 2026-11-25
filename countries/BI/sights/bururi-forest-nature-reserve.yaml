@@ -1,0 +1,15 @@
+id: sight-bi-bururi-forest-nature-reserve
+name: "Bururi Forest Nature Reserve"
+location:
+  country_code: BI
+  latitude: -3.94
+  longitude: 29.59
+scores:
+  impact: 7.8
+  uniqueness: 8.2
+  significance: 8.4
+  experience: 8.0
+  depth: 7.6
+  categories:
+    nature: 8.8
+    wildlife: 8.8
