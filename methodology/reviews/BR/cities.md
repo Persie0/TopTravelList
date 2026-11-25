@@ -841,3 +841,18 @@
 - Categories: beaches 8.9, relaxation 9.0, food 8.6. Computed overall: 77.15/100.
 - High-score challenge: Not applicable. Approved 10 registry: none.
 - Verification still needed: individual facts, GPS, visitor scope and closer same-type peer calibration.
+
+## Follow-up: city-br-rio-de-janeiro — 2026-11-25 (worldwide review)
+
+- [YAML](../../../countries/BR/cities/rio-de-janeiro.yaml) · Action: fact-check-only · **source-linked-unverified**: limited source claims checked; not comprehensive fact-check. Original decision above retained.
+- Sources inspected 2026-11-25: [https://whc.unesco.org/en/list/1100](https://whc.unesco.org/en/list/1100)
+- Decision: UNESCO confirms the integration of mountains, coastal landscapes and urban form. Impact 9.5 and photography 9.8 are defensible for the cityscape itself, depth 9.6 remains provisional for districts and urban activities; culture 9.5 and beaches 9.5 need separate closer field comparisons rather than the landscape source alone. No automatic downgrade or claim of full category verification.
+- I/U/S/E/D: 9.5 / 9.4 / 9.2 / 9.0 / 9.6 → 9.5 / 9.4 / 9.2 / 9.0 / 9.6; total 93.50/100 → 93.50/100. Categories unchanged. No new 10 or country multiplier. Representative GPS retained.
+
+| Current worldwide peer | I/U/S/E/D | Overall | Scope comparison |
+| --- | --- | --- | --- |
+| [Vienna](../../../countries/AT/cities/vienna.yaml) | 9.2 / 9.0 / 9.5 / 9.2 / 9.4 | 92.30/100 | Vienna has stronger built heritage and comparable depth. |
+| [Buenos Aires](../../../countries/AR/cities/buenos-aires.yaml) | 9.2 / 9.1 / 9.3 / 9.3 / 9.7 | 92.60/100 | Buenos Aires has very high sustained urban breadth, less striking topography. |
+| [Lima](../../../countries/PE/cities/lima.yaml) | 8.6 / 8.6 / 9.1 / 8.7 / 9.4 | 87.95/100 | Lima has strong historic/food merits but less distinctive visual integration. |
+| [Medellín](../../../countries/CO/cities/medellin.yaml) | 8.5 / 8.7 / 8.0 / 8.9 / 9.0 | 85.60/100 | Medellín is a more bounded urban comparison. |
+
