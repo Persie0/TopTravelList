@@ -1,0 +1,14 @@
+id: sight-uz-kampyrtepa
+name: "Kampyrtepa"
+location:
+  country_code: UZ
+  latitude: 37.42
+  longitude: 66.98
+scores:
+  impact: 7.6
+  uniqueness: 8.4
+  significance: 9.0
+  experience: 7.6
+  depth: 7.5
+  categories:
+    history: 9.2

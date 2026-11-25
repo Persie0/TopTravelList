@@ -1,0 +1,16 @@
+id: sight-lb-historic-centre-of-sidon
+name: "Historic Centre of Sidon"
+location:
+  country_code: LB
+  latitude: 33.563361
+  longitude: 35.369361
+scores:
+  impact: 8.5
+  uniqueness: 8.9
+  significance: 9.2
+  experience: null
+  depth: 8.7
+  categories:
+    architecture: 9.1
+    history: 9.4
+    culture: 9.1

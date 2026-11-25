@@ -1,0 +1,15 @@
+id: sight-cv-casa-da-morna
+name: "Casa da Morna"
+location:
+  country_code: CV
+  latitude: 16.8870
+  longitude: -24.9890
+scores:
+  impact: 6.9
+  uniqueness: 8.3
+  significance: 8.1
+  experience: 7.9
+  depth: 6.5
+  categories:
+    culture: 9.0
+    history: 8.4

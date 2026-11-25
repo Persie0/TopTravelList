@@ -1,0 +1,17 @@
+id: sight-tm-ancient-merv-historical-and-cultural-park
+name: "Ancient Merv Historical and Cultural Park"
+location:
+  country_code: TM
+  latitude: 37.664831
+  longitude: 62.174892
+scores:
+  impact: 8.7
+  uniqueness: 9.4
+  significance: 9.7
+  experience: 8.3
+  depth: 9.2
+  categories:
+    history: 9.7
+    architecture: 8.9
+    culture: 9.2
+    photography: 8.9

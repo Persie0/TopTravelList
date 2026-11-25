@@ -1,0 +1,16 @@
+id: sight-lb-our-lady-of-lebanon-at-harissa
+name: "Our Lady of Lebanon at Harissa"
+location:
+  country_code: LB
+  latitude: 33.982
+  longitude: 35.652
+scores:
+  impact: 8.4
+  uniqueness: 8.2
+  significance: 8.3
+  experience: 8.6
+  depth: 7.3
+  categories:
+    photography: 9.1
+    culture: 8.8
+    architecture: 8.5

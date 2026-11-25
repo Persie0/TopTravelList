@@ -1,0 +1,16 @@
+id: sight-gm-tanji-bird-reserve
+name: "Tanji Bird Reserve"
+location:
+  country_code: GM
+  latitude: 13.3830
+  longitude: -16.7780
+scores:
+  impact: 8.0
+  uniqueness: 8.4
+  significance: 8.0
+  experience: 8.4
+  depth: 7.5
+  categories:
+    wildlife: 9.1
+    nature: 8.7
+    photography: 8.5

@@ -1,0 +1,16 @@
+id: sight-sa-zee-ain
+name: "Zee Ain Heritage Village"
+location:
+  country_code: SA
+  latitude: 19.929
+  longitude: 41.442
+scores:
+  impact: 8.6
+  uniqueness: 8.4
+  significance: 8.2
+  experience: 8.2
+  depth: 7.4
+  categories:
+    architecture: 8.8
+    history: 8.4
+    photography: 9.0

@@ -1,0 +1,15 @@
+id: sight-lb-beaufort-castle-qalaat-al-chakif
+name: "Beaufort Castle (Qalaat al-Chakif)"
+location:
+  country_code: LB
+  latitude: 33.324167
+  longitude: 35.532247
+scores:
+  impact: null
+  uniqueness: 8.7
+  significance: 9.1
+  experience: null
+  depth: null
+  categories:
+    history: 9.3
+    architecture: 9.0

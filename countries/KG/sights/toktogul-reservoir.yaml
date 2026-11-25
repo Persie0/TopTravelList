@@ -1,0 +1,16 @@
+id: sight-kg-toktogul-reservoir
+name: "Toktogul Reservoir"
+location:
+  country_code: KG
+  latitude: 41.74
+  longitude: 72.82
+scores:
+  impact: 8.0
+  uniqueness: 7.4
+  significance: 6.3
+  experience: 8.0
+  depth: 7.9
+  categories:
+    nature: 8.0
+    relaxation: 8.2
+    photography: 8.4

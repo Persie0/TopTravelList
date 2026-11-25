@@ -1,0 +1,16 @@
+id: sight-pa-los-quetzales-trail
+name: "Los Quetzales Trail"
+location:
+  country_code: PA
+  latitude: 8.84
+  longitude: -82.52
+scores:
+  impact: 8.5
+  uniqueness: 8.6
+  significance: 7.9
+  experience: 8.7
+  depth: 7.7
+  categories:
+    wildlife: 9.1
+    nature: 8.9
+    adventure: 8.9

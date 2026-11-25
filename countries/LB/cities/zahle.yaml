@@ -1,0 +1,15 @@
+id: city-lb-zahle
+name: "Zahle"
+location:
+  country_code: LB
+  latitude: 33.846
+  longitude: 35.902
+scores:
+  impact: 7.6
+  uniqueness: 8.0
+  significance: 7.5
+  experience: null
+  depth: 7.6
+  categories:
+    food: 8.8
+    culture: 8.4

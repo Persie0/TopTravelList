@@ -1,0 +1,15 @@
+id: sight-ae-etihad-museum
+name: "Etihad Museum"
+location:
+  country_code: AE
+  latitude: 25.241
+  longitude: 55.265
+scores:
+  impact: 7.6
+  uniqueness: 8.0
+  significance: 8.5
+  experience: 8.1
+  depth: 7.7
+  categories:
+    history: 8.9
+    architecture: 8.4

@@ -1,0 +1,14 @@
+id: sight-uz-koktepa-archaeological-site
+name: "Koktepa Archaeological Site"
+location:
+  country_code: UZ
+  latitude: 39.83
+  longitude: 66.91
+scores:
+  impact: null
+  uniqueness: 8.4
+  significance: 9.0
+  experience: null
+  depth: null
+  categories:
+    history: 9.2
