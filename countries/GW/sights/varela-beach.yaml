@@ -1,0 +1,16 @@
+id: sight-gw-varela-beach
+name: "Varela Beach"
+location:
+  country_code: GW
+  latitude: 12.29
+  longitude: -16.60
+scores:
+  impact: 8.3
+  uniqueness: 8.1
+  significance: 6.4
+  experience: 8.1
+  depth: 7.3
+  categories:
+    beaches: 8.9
+    relaxation: 8.6
+    photography: 8.5

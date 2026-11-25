@@ -2,7 +2,7 @@
 
 # Mexico (MX) — Cities, towns & villages ranking
 
-**34 ranked** · **0 unassessed** · **34 total** · Worldwide scoring **v2**
+**36 ranked** · **0 unassessed** · **36 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (34)
+## Complete ranked list (36)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -48,6 +48,8 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 32 | [Cosalá](cities/cosala.yaml) | City / town | **77.50** | **Architecture 8.5**, **History 8.5**, **Culture 8.2** | 7.6 / 8.0 / 8.0 / 7.8 / 7.0 | [24.415, -106.692](https://www.google.com/maps/search/?api=1&query=24.415,-106.692) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cosal%C3%A1%2C%20Mexico) |
 | 33 | [Chalchihuites](cities/chalchihuites.yaml) | City / town | **77.40** | **History 8.7**, **Architecture 8.5**, **Culture 8.3** | 7.5 / 7.9 / 8.3 / 7.7 / 7.0 | [23.477306, -103.884167](https://www.google.com/maps/search/?api=1&query=23.477306,-103.884167) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Chalchihuites%2C%20Mexico) |
 | 34 | [Nazas](cities/nazas.yaml) | City / town | **76.10** | **History 8.6**, **Culture 8.4**, **Architecture 8.3** | 7.3 / 7.8 / 8.1 / 7.6 / 7.1 | [25.226108, -104.114317](https://www.google.com/maps/search/?api=1&query=25.226108,-104.114317) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nazas%2C%20Mexico) |
+| 35 | [Indé](cities/inde.yaml) | City / town | **75.55** | **History 8.7**, **Architecture 8.3**, **Culture 8.3** | 7.2 / 7.8 / 8.3 / 7.3 / 6.9 | [25.913331, -105.223056](https://www.google.com/maps/search/?api=1&query=25.913331,-105.223056) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ind%C3%A9%2C%20Mexico) |
+| 36 | [San Pedro del Gallo](cities/san-pedro-del-gallo.yaml) | City / town | **75.15** | **History 8.7**, **Architecture 8.3**, **Culture 8.3** | 7.1 / 7.8 / 8.3 / 7.3 / 6.8 | [25.565831, -104.292775](https://www.google.com/maps/search/?api=1&query=25.565831,-104.292775) | [Google Maps](https://www.google.com/maps/search/?api=1&query=San%20Pedro%20del%20Gallo%2C%20Mexico) |
 
 ---
 

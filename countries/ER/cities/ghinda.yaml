@@ -1,0 +1,15 @@
+id: city-er-ghinda
+name: "Ghinda"
+location:
+  country_code: ER
+  latitude: 15.45
+  longitude: 39.08
+scores:
+  impact: 6.6
+  uniqueness: 7.4
+  significance: 7.0
+  experience: 7.3
+  depth: 6.2
+  categories:
+    culture: 7.7
+    photography: 7.8

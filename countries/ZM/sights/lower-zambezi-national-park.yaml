@@ -1,0 +1,16 @@
+id: sight-zm-lower-zambezi-national-park
+name: "Lower Zambezi National Park"
+location:
+  country_code: ZM
+  latitude: -15.569592
+  longitude: 29.734783
+scores:
+  impact: 9.4
+  uniqueness: 9.4
+  significance: 9.5
+  experience: 9.4
+  depth: 9.3
+  categories:
+    nature: 9.5
+    wildlife: 9.6
+    adventure: 9.4

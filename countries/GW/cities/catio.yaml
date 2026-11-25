@@ -1,0 +1,15 @@
+id: city-gw-catio
+name: "Catió"
+location:
+  country_code: GW
+  latitude: 11.2825
+  longitude: -15.254722
+scores:
+  impact: 5.7
+  uniqueness: 6.6
+  significance: 6.7
+  experience: 6.5
+  depth: 5.9
+  categories:
+    culture: 7.3
+    history: 7.2

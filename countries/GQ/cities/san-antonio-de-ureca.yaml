@@ -1,0 +1,15 @@
+id: city-gq-san-antonio-de-ureca
+name: "San Antonio de Ureca"
+location:
+  country_code: GQ
+  latitude: 3.25
+  longitude: 8.54
+scores:
+  impact: 6.9
+  uniqueness: 8.0
+  significance: 7.1
+  experience: 7.3
+  depth: 5.9
+  categories:
+    culture: 8.2
+    photography: 8.0

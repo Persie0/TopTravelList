@@ -1,0 +1,15 @@
+id: city-gh-hohoe
+name: "Hohoe"
+location:
+  country_code: GH
+  latitude: 7.151
+  longitude: 0.474
+scores:
+  impact: 6.5
+  uniqueness: 7.2
+  significance: 6.8
+  experience: 7.3
+  depth: 6.5
+  categories:
+    culture: 7.8
+    food: 7.5

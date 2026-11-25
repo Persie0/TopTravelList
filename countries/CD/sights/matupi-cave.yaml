@@ -1,0 +1,14 @@
+id: sight-cd-matupi-cave
+name: "Matupi Cave"
+location:
+  country_code: CD
+  latitude: 1.25
+  longitude: 29.82
+scores:
+  impact: null
+  uniqueness: 9.0
+  significance: 9.5
+  experience: null
+  depth: null
+  categories:
+    history: 9.6

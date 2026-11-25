@@ -1,0 +1,15 @@
+id: sight-gq-monte-temelon-nature-reserve
+name: "Monte Temelón Nature Reserve"
+location:
+  country_code: GQ
+  latitude: 1.59
+  longitude: 10.87
+scores:
+  impact: null
+  uniqueness: 8.1
+  significance: 8.5
+  experience: null
+  depth: null
+  categories:
+    nature: 8.8
+    wildlife: 8.9

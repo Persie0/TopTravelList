@@ -1,0 +1,13 @@
+id: city-ci-san-pedro
+name: "San-Pédro"
+location:
+  country_code: CI
+  latitude: 4.749
+  longitude: -6.636
+scores:
+  impact: null
+  uniqueness: 7.0
+  significance: 7.4
+  experience: null
+  depth: null
+  categories: {}

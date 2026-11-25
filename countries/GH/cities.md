@@ -2,7 +2,7 @@
 
 # Ghana (GH) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**20 ranked** · **0 unassessed** · **20 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,30 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (20)
 
-No cities, towns & villages have been assessed for **Ghana** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Kumasi](cities/kumasi.yaml) | City / town | **83.50** | **Culture 9.1**, **History 9.1**, **Food 8.4** | 7.9 / 8.5 / 8.9 / 8.3 / 8.3 | [6.688, -1.624](https://www.google.com/maps/search/?api=1&query=6.688,-1.624) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kumasi%2C%20Ghana) |
+| 2 | [Nzulezu](cities/nzulezu.yaml) | City / town | **82.50** | **Culture 9.1**, **Architecture 8.8**, **Photography 8.8** | 8.3 / 9.1 / 7.9 / 8.3 / 6.6 | [5.02, -2.6](https://www.google.com/maps/search/?api=1&query=5.02,-2.6) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nzulezu%2C%20Ghana) |
+| 3 | [Elmina](cities/elmina.yaml) | City / town | **81.85** | **History 9.0**, **Culture 8.7**, **Photography 8.5** | 8.0 / 8.4 / 8.7 / 8.1 / 7.3 | [5.084, -1.35](https://www.google.com/maps/search/?api=1&query=5.084,-1.35) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Elmina%2C%20Ghana) |
+| 4 | [Accra](cities/accra.yaml) | City / town | **81.75** | **Culture 8.7**, **History 8.6**, **Food 8.4**, Nightlife 8.3 | 7.9 / 8.0 / 8.5 / 8.3 / 8.6 | [5.556, -0.196](https://www.google.com/maps/search/?api=1&query=5.556,-0.196) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Accra%2C%20Ghana) |
+| 5 | [Cape Coast](cities/cape-coast.yaml) | City / town | **81.30** | **History 9.1**, **Culture 8.5**, **Architecture 8.3** | 7.9 / 8.2 / 8.8 / 8.0 / 7.5 | [5.105, -1.247](https://www.google.com/maps/search/?api=1&query=5.105,-1.247) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cape%20Coast%2C%20Ghana) |
+| 6 | [Axim](cities/axim.yaml) | City / town | **75.60** | **History 8.3**, **Photography 8.1**, **Culture 8.0** | 7.4 / 7.7 / 7.9 / 7.7 / 6.8 | [4.869, -2.241](https://www.google.com/maps/search/?api=1&query=4.869,-2.241) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Axim%2C%20Ghana) |
+| 7 | [Keta](cities/keta.yaml) | City / town | **74.65** | **Culture 8.2**, **Photography 8.1**, **History 8.0** | 7.3 / 7.8 / 7.6 / 7.5 / 6.8 | [5.917, 0.987](https://www.google.com/maps/search/?api=1&query=5.917,0.987) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Keta%2C%20Ghana) |
+| 8 | [Bonwire](cities/bonwire.yaml) | City / town | **74.40** | **Culture 8.9**, **Food 7.2** | 6.8 / 8.1 / 7.7 / 7.9 / 6.5 | [6.779, -1.466](https://www.google.com/maps/search/?api=1&query=6.779,-1.466) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bonwire%2C%20Ghana) |
+| 9 | [Larabanga](cities/larabanga.yaml) | City / town | **73.50** | **Culture 8.4**, **History 8.4** | 6.9 / 8.0 / 7.8 / 7.4 / 6.1 | [9.217, -1.854](https://www.google.com/maps/search/?api=1&query=9.217,-1.854) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Larabanga%2C%20Ghana) |
+| 10 | [Wa](cities/wa.yaml) | City / town | **72.80** | **Culture 8.3**, **History 8.3** | 6.7 / 7.7 / 7.8 / 7.3 / 6.9 | [10.06, -2.502](https://www.google.com/maps/search/?api=1&query=10.06,-2.502) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Wa%2C%20Ghana) |
+| 11 | [Tamale](cities/tamale.yaml) | City / town | **71.75** | **Culture 8.3**, **Food 7.9** | 6.6 / 7.5 / 7.3 / 7.6 / 7.2 | [9.407, -0.853](https://www.google.com/maps/search/?api=1&query=9.407,-0.853) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tamale%2C%20Ghana) |
+| 12 | [Busua](cities/busua.yaml) | City / town | **71.05** | **Relaxation 8.3**, **Food 7.7** | 7.3 / 7.4 / 6.1 / 8.1 / 6.3 | [4.802, -1.939](https://www.google.com/maps/search/?api=1&query=4.802,-1.939) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Busua%2C%20Ghana) |
+| 13 | [Aburi](cities/aburi.yaml) | City / town | **70.95** | **Relaxation 8.0**, **Culture 7.6** | 7.0 / 7.4 / 6.7 / 7.7 / 6.5 | [5.849, -0.175](https://www.google.com/maps/search/?api=1&query=5.849,-0.175) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Aburi%2C%20Ghana) |
+| 14 | [Sekondi](cities/sekondi.yaml) | City / town | **70.90** | **History 8.0**, **Culture 7.7** | 6.7 / 7.2 / 7.6 / 7.2 / 6.8 | [4.934, -1.713](https://www.google.com/maps/search/?api=1&query=4.934,-1.713) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sekondi%2C%20Ghana) |
+| 15 | [Bolgatanga](cities/bolgatanga.yaml) | City / town | **70.70** | **Culture 8.4**, **Food 7.6** | 6.4 / 7.6 / 7.3 / 7.4 / 6.8 | [10.785, -0.851](https://www.google.com/maps/search/?api=1&query=10.785,-0.851) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bolgatanga%2C%20Ghana) |
+| 16 | [Ada Foah](cities/ada-foah.yaml) | City / town | **70.40** | **Relaxation 8.1**, **Culture 7.7** | 6.9 / 7.4 / 6.5 / 7.8 / 6.5 | [5.78, 0.63](https://www.google.com/maps/search/?api=1&query=5.78,0.63) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ada%20Foah%2C%20Ghana) |
+| 16 | [Navrongo](cities/navrongo.yaml) | City / town | **70.40** | **History 8.1**, **Culture 7.9** | 6.5 / 7.4 / 7.6 / 7.2 / 6.4 | [10.894, -1.093](https://www.google.com/maps/search/?api=1&query=10.894,-1.093) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Navrongo%2C%20Ghana) |
+| 18 | [Takoradi](cities/takoradi.yaml) | City / town | **68.85** | **Food 7.9**, **Culture 7.5** | 6.5 / 6.9 / 7.0 / 7.4 / 7.0 | [4.884, -1.755](https://www.google.com/maps/search/?api=1&query=4.884,-1.755) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Takoradi%2C%20Ghana) |
+| 19 | [Hohoe](cities/hohoe.yaml) | City / town | **68.55** | **Culture 7.8**, **Food 7.5** | 6.5 / 7.2 / 6.8 / 7.3 / 6.5 | [7.151, 0.474](https://www.google.com/maps/search/?api=1&query=7.151,0.474) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hohoe%2C%20Ghana) |
+| 20 | [Ho](cities/ho.yaml) | City / town | **68.25** | **Culture 7.7**, **Food 7.5** | 6.4 / 7.0 / 7.0 / 7.3 / 6.6 | [6.602, 0.471](https://www.google.com/maps/search/?api=1&query=6.602,0.471) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ho%2C%20Ghana) |
 
 ---
 

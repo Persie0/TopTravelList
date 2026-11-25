@@ -1,0 +1,16 @@
+id: sight-bf-fabedougou-domes
+name: "Dômes de Fabédougou"
+location:
+  country_code: BF
+  latitude: 10.727
+  longitude: -4.797
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 7.5
+  experience: 8.2
+  depth: 7.6
+  categories:
+    nature: 8.7
+    photography: 8.9
+    adventure: 8.3

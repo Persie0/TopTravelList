@@ -1,0 +1,13 @@
+id: city-nr-arijejen
+name: "Arijejen Village"
+location:
+  country_code: NR
+  latitude: -0.525
+  longitude: 166.912
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}

@@ -1,0 +1,14 @@
+id: sight-lr-monkey-island-marshall-chimpanzee-sanctuary
+name: "Monkey Island (Marshall chimpanzee sanctuary)"
+location:
+  country_code: LR
+  latitude: 6.13
+  longitude: -10.38
+scores:
+  impact: null
+  uniqueness: 8.5
+  significance: 8.3
+  experience: null
+  depth: null
+  categories:
+    wildlife: 8.9

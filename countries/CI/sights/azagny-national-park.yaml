@@ -1,0 +1,15 @@
+id: sight-ci-azagny-national-park
+name: "Azagny National Park"
+location:
+  country_code: CI
+  latitude: 5.2
+  longitude: -4.88
+scores:
+  impact: 8.4
+  uniqueness: 8.6
+  significance: 8.8
+  experience: 8.3
+  depth: 8.2
+  categories:
+    nature: 9.0
+    wildlife: 8.9
