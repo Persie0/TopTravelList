@@ -1,0 +1,15 @@
+id: sight-er-fiat-tagliero-building
+name: "Fiat Tagliero Building"
+location:
+  country_code: ER
+  latitude: 15.32844
+  longitude: 38.92597
+scores:
+  impact: 8.6
+  uniqueness: 9.4
+  significance: 8.9
+  experience: 7.6
+  depth: 6.2
+  categories:
+    architecture: 9.5
+    photography: 9.2

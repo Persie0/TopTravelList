@@ -1,0 +1,17 @@
+id: sight-sb-bonegi-beach
+name: "Bonegi Beach"
+location:
+  country_code: SB
+  latitude: -9.38441
+  longitude: 159.8741
+scores:
+  impact: 7.6
+  uniqueness: 8.0
+  significance: 7.5
+  experience: 8.0
+  depth: 7.3
+  categories:
+    nature: 7.8
+    beaches: 7.6
+    history: 8.0
+    adventure: 8.1

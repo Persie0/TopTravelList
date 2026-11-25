@@ -1,0 +1,15 @@
+id: sight-gn-national-museum-of-guinea
+name: "National Museum of Guinea"
+location:
+  country_code: GN
+  latitude: 9.51
+  longitude: -13.72
+scores:
+  impact: 6.7
+  uniqueness: 7.7
+  significance: 8.3
+  experience: 7.3
+  depth: 6.6
+  categories:
+    history: 8.7
+    culture: 8.5

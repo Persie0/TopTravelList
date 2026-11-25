@@ -1,0 +1,16 @@
+id: sight-zw-great-zimbabwe
+name: "Great Zimbabwe National Monument"
+location:
+  country_code: ZW
+  latitude: -20.27117
+  longitude: 30.933269
+scores:
+  impact: 9.3
+  uniqueness: 9.6
+  significance: 9.7
+  experience: 9.1
+  depth: 9.1
+  categories:
+    architecture: 9.6
+    history: 9.7
+    culture: 9.4

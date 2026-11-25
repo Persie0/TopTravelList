@@ -1,0 +1,14 @@
+id: city-nr-menen
+name: "Menen"
+location:
+  country_code: NR
+  latitude: -0.545
+  longitude: 166.949
+scores:
+  impact: 5.4
+  uniqueness: 5.8
+  significance: 4.8
+  experience: 5.5
+  depth: 4.4
+  categories:
+    photography: 5.8

@@ -1,0 +1,13 @@
+id: city-nr-yangor
+name: "Yangor"
+location:
+  country_code: NR
+  latitude: -0.535
+  longitude: 166.91
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}

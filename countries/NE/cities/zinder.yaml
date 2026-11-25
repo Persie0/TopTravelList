@@ -1,0 +1,16 @@
+id: city-ne-zinder
+name: "Zinder"
+location:
+  country_code: NE
+  latitude: 13.807
+  longitude: 8.988
+scores:
+  impact: 7.8
+  uniqueness: 8.3
+  significance: 8.4
+  experience: 7.5
+  depth: 7.6
+  categories:
+    architecture: 8.5
+    history: 8.7
+    culture: 8.5

@@ -1,0 +1,15 @@
+id: sight-cg-pointe-noire-cote-sauvage-beach
+name: "Pointe-Noire Côte Sauvage Beach"
+location:
+  country_code: CG
+  latitude: -4.81
+  longitude: 11.84
+scores:
+  impact: 7.8
+  uniqueness: 7.5
+  significance: 6.0
+  experience: 8.2
+  depth: 7.1
+  categories:
+    beaches: 8.6
+    relaxation: 8.4

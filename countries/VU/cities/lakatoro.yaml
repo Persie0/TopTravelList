@@ -1,0 +1,14 @@
+id: city-vu-lakatoro
+name: "Lakatoro"
+location:
+  country_code: VU
+  latitude: -16.09992
+  longitude: 167.41636
+scores:
+  impact: 6.3
+  uniqueness: 7.0
+  significance: 6.6
+  experience: 7.2
+  depth: 6.5
+  categories:
+    culture: 7.6

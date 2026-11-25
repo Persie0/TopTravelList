@@ -2,7 +2,7 @@
 
 # Micronesia, Federated States of (FM) — Sights & attractions ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**12 ranked** · **2 unassessed** · **14 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,11 +10,31 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (12)
 
-No sights & attractions have been assessed for **Micronesia, Federated States of** yet.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Chuuk Lagoon](sights/chuuk-lagoon.yaml) | Beach / bay | **91.20** | **Adventure 9.3**, **History 9.1**, **Wildlife 8.1** | 9.1 / 9.3 / 8.9 / 9.1 / 9.2 | [7.4167, 151.7833](https://www.google.com/maps/search/?api=1&query=7.4167,151.7833) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Chuuk%20Lagoon%2C%20Micronesia%2C%20Federated%20States%20of) |
+| 1 | [Nan Madol: Ceremonial Centre of Eastern Micronesia](sights/nan-madol.yaml) | Attraction | **91.20** | **History 9.5**, **Architecture 9.3**, **Culture 9.2**, Photography 9.0 | 9.2 / 9.5 / 9.5 / 8.1 / 8.7 | [6.83972, 158.33083](https://www.google.com/maps/search/?api=1&query=6.83972,158.33083) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nan%20Madol%3A%20Ceremonial%20Centre%20of%20Eastern%20Micronesia%2C%20Micronesia%2C%20Federated%20States%20of) |
+| 3 | [Mi'il Channel](sights/miil-channel.yaml) | Attraction | **88.65** | **Wildlife 9.4**, **Adventure 9.1**, **Nature 9.0** | 9.1 / 9.1 / 8.6 / 9.0 / 7.9 | [9.6006, 138.1306](https://www.google.com/maps/search/?api=1&query=9.6006,138.1306) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mi%27il%20Channel%2C%20Micronesia%2C%20Federated%20States%20of) |
+| 4 | [Ahnd Atoll (Ant Atoll)](sights/ahnd-atoll.yaml) | Attraction | **88.40** | **Nature 9.2**, **Wildlife 9.2**, **Adventure 8.9**, Beaches 8.9 | 8.9 / 8.8 / 9.0 / 8.8 / 8.5 | [6.78194, 157.91667](https://www.google.com/maps/search/?api=1&query=6.78194,157.91667) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ahnd%20Atoll%20%28Ant%20Atoll%29%2C%20Micronesia%2C%20Federated%20States%20of) |
+| 5 | [Yela Ka Forest](sights/yela-ka-forest.yaml) | Forest | **86.60** | **Nature 9.3**, **Wildlife 8.2** | 8.4 / 9.1 / 9.2 / 8.3 / 7.8 | [5.326, 162.948](https://www.google.com/maps/search/?api=1&query=5.326,162.948) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Yela%20Ka%20Forest%2C%20Micronesia%2C%20Federated%20States%20of) |
+| 6 | [Utwe-Walung Marine Park](sights/utwe-walung-marine-park.yaml) | Park / reserve | **85.70** | **Nature 9.0**, **Wildlife 8.7**, **Adventure 8.6** | 8.3 / 8.6 / 8.8 / 8.8 / 8.5 | [5.28137, 162.96678](https://www.google.com/maps/search/?api=1&query=5.28137,162.96678) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Utwe-Walung%20Marine%20Park%2C%20Micronesia%2C%20Federated%20States%20of) |
+| 7 | [Lelu Ruins](sights/lelu-ruins.yaml) | Museum / heritage | **83.40** | **History 9.0**, **Architecture 8.6**, **Culture 8.5** | 8.2 / 8.8 / 8.8 / 7.6 / 7.8 | [5.33167, 163.025](https://www.google.com/maps/search/?api=1&query=5.33167,163.025) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lelu%20Ruins%2C%20Micronesia%2C%20Federated%20States%20of) |
+| 8 | [Mangyol Stone Money Bank](sights/mangyol-stone-money-bank.yaml) | Attraction | **81.40** | **Culture 9.1**, **History 8.9** | 7.6 / 9.2 / 8.7 / 7.4 / 7.1 | [9.5636, 138.1489](https://www.google.com/maps/search/?api=1&query=9.5636,138.1489) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mangyol%20Stone%20Money%20Bank%2C%20Micronesia%2C%20Federated%20States%20of) |
+| 9 | [Yap Living History Museum](sights/yap-living-history-museum.yaml) | Museum / heritage | **77.70** | **Culture 8.7**, **History 8.1**, **Architecture 7.8** | 7.3 / 8.4 / 7.9 / 7.8 / 7.3 | [9.51626, 138.12169](https://www.google.com/maps/search/?api=1&query=9.51626,138.12169) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Yap%20Living%20History%20Museum%2C%20Micronesia%2C%20Federated%20States%20of) |
+| 10 | [Sokehs Rock](sights/sokehs-rock.yaml) | Attraction | **75.40** | **Photography 8.5**, **Nature 8.2**, **Adventure 8.0** | 8.2 / 7.5 / 6.6 / 7.9 / 7.0 | [6.9782, 158.19002](https://www.google.com/maps/search/?api=1&query=6.9782,158.19002) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sokehs%20Rock%2C%20Micronesia%2C%20Federated%20States%20of) |
+| 11 | [Kepirohi Waterfall](sights/kepirohi-waterfall.yaml) | Waterfall | **74.20** | **Nature 8.2**, **Photography 8.0** | 8.0 / 7.3 / 6.5 / 8.1 / 6.8 | [6.84663, 158.30168](https://www.google.com/maps/search/?api=1&query=6.84663,158.30168) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kepirohi%20Waterfall%2C%20Micronesia%2C%20Federated%20States%20of) |
+| 12 | [Spanish Wall](sights/spanish-wall.yaml) | Attraction | **66.10** | **History 7.9** | 6.3 / 6.8 / 7.5 / 6.4 / 5.6 | [6.96778, 158.21167](https://www.google.com/maps/search/?api=1&query=6.96778,158.21167) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Spanish%20Wall%2C%20Micronesia%2C%20Federated%20States%20of) |
 
-Add destination YAML files in [sights/](sights/), then regenerate the overview files.
+## Not yet fully assessed (2)
+
+These destinations have no rank until all five core scores are assessed.
+
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| — | [Rull Men's Meetinghouse](sights/rull-mens-meetinghouse.yaml) | Attraction | **—** | **Culture 8.6**, **Architecture 8.4** | 7.3 / 8.5 / 8.2 / — / — | [9.5053, 138.1226](https://www.google.com/maps/search/?api=1&query=9.5053,138.1226) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Rull%20Men%27s%20Meetinghouse%2C%20Micronesia%2C%20Federated%20States%20of) |
+| — | [Taraang (O'Keefe's Island)](sights/taraang-island.yaml) | Island | **—** | **History 8.5** | 6.7 / 8.1 / 8.2 / — / — | [9.5275, 138.13168](https://www.google.com/maps/search/?api=1&query=9.5275,138.13168) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Taraang%20%28O%27Keefe%27s%20Island%29%2C%20Micronesia%2C%20Federated%20States%20of) |
 
 ---
 

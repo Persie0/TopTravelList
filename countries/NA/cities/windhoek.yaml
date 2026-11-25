@@ -1,0 +1,16 @@
+id: city-na-windhoek
+name: "Windhoek"
+location:
+  country_code: NA
+  latitude: -22.55941
+  longitude: 17.08323
+scores:
+  impact: 7.7
+  uniqueness: 8.0
+  significance: 8.4
+  experience: 8.2
+  depth: 8.4
+  categories:
+    culture: 8.7
+    history: 8.6
+    food: 8.3

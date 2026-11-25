@@ -1,0 +1,15 @@
+id: sight-sb-national-museum
+name: "Solomon Islands National Museum"
+location:
+  country_code: SB
+  latitude: -9.43148
+  longitude: 159.95419
+scores:
+  impact: 7.0
+  uniqueness: 8.0
+  significance: 8.2
+  experience: 7.6
+  depth: 7.2
+  categories:
+    culture: 8.5
+    history: 8.3

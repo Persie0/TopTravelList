@@ -1,0 +1,15 @@
+id: city-fm-lelu
+name: "Lelu Town"
+location:
+  country_code: FM
+  latitude: 5.33359
+  longitude: 163.02248
+scores:
+  impact: 6.7
+  uniqueness: 7.7
+  significance: 8.0
+  experience: 7.0
+  depth: 6.5
+  categories:
+    history: 8.3
+    culture: 7.7
