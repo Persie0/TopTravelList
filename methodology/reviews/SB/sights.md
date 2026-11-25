@@ -498,3 +498,37 @@
 - Earlier decision: none.
 - Verification still needed: Current conditions and permitted activities unknown.
 
+### sight-sb-east-rennell — East Rennell — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/SB/sights/east-rennell.yaml)
+- Action: rescore
+- Precise subject: Ordinary authorized visits only; confirm local permission, conservation conditions and operator availability.
+- Location check: existing representative point retained; independent corroboration pending.
+- Evidence status: source-linked-unverified
+- Checked factual reference excerpts (2026-11-25):
+  - Tourism Solomons identifies Lake Tegano as the region's main attraction — https://www.visitsolomons.com.sb/about-the-solomon/provinces/
+  - Tourism Solomons lists lake tours, bird sanctuary islands, a cave and bush hikes — https://www.visitsolomons.com.sb/tour/motumahi-lodge/
+- Missing or uncertain facts: Ordinary authorized visits only; confirm local permission, conservation conditions and operator availability.
+
+#### Worldwide peer comparisons
+- Tonle Sap (Cambodia): greater ecological and visitor breadth
+- Cheow Lan (Thailand): more dramatic karst and developed visits
+- Te Wāhipounamu (New Zealand): greater landscape scale
+- Lake Letas (Vanuatu): narrower crater lake
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | 8.5 | 8.5 | Large limestone lake and forest setting |
+| Uniqueness | 9.0 | 9.0 | Distinct uplifted coral atoll freshwater ecosystem |
+| Significance | 9.1 | 9.1 | Globally important ecological heritage |
+| Experience | null | 8.2 | Documented local lake and forest tours |
+| Depth | null | 8.4 | Several authorized lake and forest experiences |
+
+- Applicable category scores: nature: 9.1, wildlife: 8.8 (unchanged).
+- Computed worldwide overall: 86.90/100
+- High-score challenge: no 9.5+ or 90+ claims introduced.
+- Approved 10 registry: none.
+- Final decision: provisionally ranked on documented visitor scope; not independently verified.
+- Earlier decision: earlier entry for this ID, unranked.
+- Verification still needed: Ordinary authorized visits only; confirm local permission, conservation conditions and operator availability.

@@ -2,7 +2,7 @@
 
 # Solomon Islands (SB) — Sights & attractions ranking
 
-**8 ranked** · **6 unassessed** · **14 total** · Worldwide scoring **v2**
+**9 ranked** · **5 unassessed** · **14 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,27 +10,27 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (8)
+## Complete ranked list (9)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
 | 1 | [Marovo Lagoon](sights/marovo-lagoon.yaml) | Beach / bay | **90.25** | **Nature 9.3**, **Photography 9.2**, **Adventure 9.1**, Wildlife 8.9 | 9.1 / 9.3 / 8.7 / 9.0 / 8.8 | [-8.53, 158.05](https://www.google.com/maps/search/?api=1&query=-8.53,158.05) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Marovo%20Lagoon%2C%20Solomon%20Islands) |
 | 2 | [Tetepare Island](sights/tetepare-island.yaml) | Island | **87.60** | **Nature 9.1**, **Wildlife 9.0**, **Photography 8.7**, Adventure 8.6 | 8.7 / 8.8 / 8.8 / 8.8 / 8.7 | [-8.73619, 157.5514](https://www.google.com/maps/search/?api=1&query=-8.73619,157.5514) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tetepare%20Island%2C%20Solomon%20Islands) |
-| 3 | [Skull Island (Vonavona Lagoon)](sights/skull-island.yaml) | Beach / bay | **77.45** | **Culture 8.7**, **History 8.7** | 7.2 / 8.7 / 8.4 / 7.2 / 6.5 | [-8.33091, 157.16064](https://www.google.com/maps/search/?api=1&query=-8.33091,157.16064) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Skull%20Island%20%28Vonavona%20Lagoon%29%2C%20Solomon%20Islands) |
-| 4 | [Bonegi Beach](sights/bonegi-beach.yaml) | Beach / bay | **77.10** | **Adventure 8.1**, **History 8.0**, **Nature 7.8**, Beaches 7.6 | 7.6 / 8.0 / 7.5 / 8.0 / 7.3 | [-9.38441, 159.8741](https://www.google.com/maps/search/?api=1&query=-9.38441,159.8741) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bonegi%20Beach%2C%20Solomon%20Islands) |
-| 5 | [Tenaru Waterfall](sights/tenaru-waterfall.yaml) | Waterfall | **76.55** | **Nature 8.5**, **Photography 8.4**, **Adventure 8.2** | 8.3 / 7.5 / 6.6 / 8.2 / 7.4 | [-9.51835, 160.01732](https://www.google.com/maps/search/?api=1&query=-9.51835,160.01732) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tenaru%20Waterfall%2C%20Solomon%20Islands) |
-| 6 | [Solomon Islands National Museum](sights/national-museum.yaml) | Museum / heritage | **76.00** | **Culture 8.5**, **History 8.3** | 7.0 / 8.0 / 8.2 / 7.6 / 7.2 | [-9.43148, 159.95419](https://www.google.com/maps/search/?api=1&query=-9.43148,159.95419) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Solomon%20Islands%20National%20Museum%2C%20Solomon%20Islands) |
-| 7 | [Vilu War Museum](sights/vilu-war-museum.yaml) | Museum / heritage | **75.85** | **History 8.5** | 7.2 / 7.9 / 8.2 / 7.4 / 7.0 | [-9.31898, 159.79354](https://www.google.com/maps/search/?api=1&query=-9.31898,159.79354) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Vilu%20War%20Museum%2C%20Solomon%20Islands) |
-| 8 | [Honiara Central Market](sights/honiara-central-market.yaml) | Market | **71.85** | **Culture 7.9**, **Food 7.9** | 6.9 / 7.4 / 6.9 / 7.9 / 7.0 | [-9.43323, 159.9617](https://www.google.com/maps/search/?api=1&query=-9.43323,159.9617) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Honiara%20Central%20Market%2C%20Solomon%20Islands) |
+| 3 | [East Rennell](sights/east-rennell.yaml) | Attraction | **86.90** | **Nature 9.1**, **Wildlife 8.8** | 8.5 / 9.0 / 9.1 / 8.2 / 8.4 | [-11.68333, 160.33333](https://www.google.com/maps/search/?api=1&query=-11.68333,160.33333) | [Google Maps](https://www.google.com/maps/search/?api=1&query=East%20Rennell%2C%20Solomon%20Islands) |
+| 4 | [Skull Island (Vonavona Lagoon)](sights/skull-island.yaml) | Beach / bay | **77.45** | **Culture 8.7**, **History 8.7** | 7.2 / 8.7 / 8.4 / 7.2 / 6.5 | [-8.33091, 157.16064](https://www.google.com/maps/search/?api=1&query=-8.33091,157.16064) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Skull%20Island%20%28Vonavona%20Lagoon%29%2C%20Solomon%20Islands) |
+| 5 | [Bonegi Beach](sights/bonegi-beach.yaml) | Beach / bay | **77.10** | **Adventure 8.1**, **History 8.0**, **Nature 7.8**, Beaches 7.6 | 7.6 / 8.0 / 7.5 / 8.0 / 7.3 | [-9.38441, 159.8741](https://www.google.com/maps/search/?api=1&query=-9.38441,159.8741) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bonegi%20Beach%2C%20Solomon%20Islands) |
+| 6 | [Tenaru Waterfall](sights/tenaru-waterfall.yaml) | Waterfall | **76.55** | **Nature 8.5**, **Photography 8.4**, **Adventure 8.2** | 8.3 / 7.5 / 6.6 / 8.2 / 7.4 | [-9.51835, 160.01732](https://www.google.com/maps/search/?api=1&query=-9.51835,160.01732) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tenaru%20Waterfall%2C%20Solomon%20Islands) |
+| 7 | [Solomon Islands National Museum](sights/national-museum.yaml) | Museum / heritage | **76.00** | **Culture 8.5**, **History 8.3** | 7.0 / 8.0 / 8.2 / 7.6 / 7.2 | [-9.43148, 159.95419](https://www.google.com/maps/search/?api=1&query=-9.43148,159.95419) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Solomon%20Islands%20National%20Museum%2C%20Solomon%20Islands) |
+| 8 | [Vilu War Museum](sights/vilu-war-museum.yaml) | Museum / heritage | **75.85** | **History 8.5** | 7.2 / 7.9 / 8.2 / 7.4 / 7.0 | [-9.31898, 159.79354](https://www.google.com/maps/search/?api=1&query=-9.31898,159.79354) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Vilu%20War%20Museum%2C%20Solomon%20Islands) |
+| 9 | [Honiara Central Market](sights/honiara-central-market.yaml) | Market | **71.85** | **Culture 7.9**, **Food 7.9** | 6.9 / 7.4 / 6.9 / 7.9 / 7.0 | [-9.43323, 159.9617](https://www.google.com/maps/search/?api=1&query=-9.43323,159.9617) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Honiara%20Central%20Market%2C%20Solomon%20Islands) |
 
-## Not yet fully assessed (6)
+## Not yet fully assessed (5)
 
 These destinations have no rank until all five core scores are assessed.
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
 | — | [Bauro Highlands](sights/bauro-highlands.yaml) | Attraction | **—** | — | — / — / — / — / — | [-10.63333, 161.9](https://www.google.com/maps/search/?api=1&query=-10.63333,161.9) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bauro%20Highlands%2C%20Solomon%20Islands) |
-| — | [East Rennell](sights/east-rennell.yaml) | Attraction | **—** | **Nature 9.1**, **Wildlife 8.8** | 8.5 / 9.0 / 9.1 / — / — | [-11.68333, 160.33333](https://www.google.com/maps/search/?api=1&query=-11.68333,160.33333) | [Google Maps](https://www.google.com/maps/search/?api=1&query=East%20Rennell%2C%20Solomon%20Islands) |
 | — | [Kolombangara Central Caldera Forests](sights/kolombangara-central-caldera-forests.yaml) | Forest | **—** | — | — / — / — / — / — | [-7.96667, 157.06667](https://www.google.com/maps/search/?api=1&query=-7.96667,157.06667) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kolombangara%20Central%20Caldera%20Forests%2C%20Solomon%20Islands) |
 | — | [Marovo–Tetepare Complex](sights/marovo-tetepare-complex.yaml) | Attraction | **—** | **Nature 9.3**, **Wildlife 9.2** | 8.9 / 9.3 / 9.2 / — / — | [-8.53, 158.05](https://www.google.com/maps/search/?api=1&query=-8.53,158.05) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Marovo%E2%80%93Tetepare%20Complex%2C%20Solomon%20Islands) |
 | — | [Mount Maetambe Region](sights/mount-maetambe-region.yaml) | Mountain / peak | **—** | — | — / — / — / — / — | [-7.13333, 156.95](https://www.google.com/maps/search/?api=1&query=-7.13333,156.95) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mount%20Maetambe%20Region%2C%20Solomon%20Islands) |
