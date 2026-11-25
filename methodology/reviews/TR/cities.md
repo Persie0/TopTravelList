@@ -14,9 +14,9 @@
 - Missing facts: Independent GPS, material facts and actual visitor scope outstanding.
 
 ### Worldwide peers
-- [Vienna (AT)](../../../countries/AT/cities/vienna.yaml) — 92.30/100; I/U/S/E/D 9.2/9.0/9.5/9.2/9.4. impact comparison: Bosphorus skyline and monumental neighborhoods; subject 9.4 versus peer 9.2. 
-- [Hanoi (VN)](../../../countries/VN/cities/hanoi.yaml) — 88.30/100; I/U/S/E/D 8.7/8.8/8.9/8.8/9.2. uniqueness comparison: unusual transcontinental layered imperial capital; subject 9.4 versus peer 8.8. 
-- [Chiang Mai (TH)](../../../countries/TH/cities/chiang-mai.yaml) — 89.45/100; I/U/S/E/D 8.9/9.0/8.8/9.1/9.0. significance comparison: major Byzantine and Ottoman history; subject 9.4 versus peer 8.8. 
+- [Vienna (AT)](../../../countries/AT/cities/vienna.yaml) — 92.30/100; I/U/S/E/D 9.2/9.0/9.5/9.2/9.4. impact comparison: Bosphorus skyline and monumental neighborhoods; subject 9.4 versus peer 9.2.
+- [Hanoi (VN)](../../../countries/VN/cities/hanoi.yaml) — 88.30/100; I/U/S/E/D 8.7/8.8/8.9/8.8/9.2. uniqueness comparison: unusual transcontinental layered imperial capital; subject 9.4 versus peer 8.8.
+- [Chiang Mai (TH)](../../../countries/TH/cities/chiang-mai.yaml) — 89.45/100; I/U/S/E/D 8.9/9.0/8.8/9.1/9.0. significance comparison: major Byzantine and Ottoman history; subject 9.4 versus peer 8.8.
 - [Hallstatt (AT)](../../../countries/AT/cities/hallstatt.yaml) — 82.00/100; I/U/S/E/D 8.3/8.4/8.1/8.2/7.6. experience comparison: ferries markets museums and urban food; subject 9.3 versus peer 8.2. Scope: extensive diverse districts on both shores.
 
 ### Scoring decisions
@@ -46,9 +46,9 @@
 - Missing facts: Independent GPS, material facts and actual visitor scope outstanding.
 
 ### Worldwide peers
-- [Vienna (AT)](../../../countries/AT/cities/vienna.yaml) — 92.30/100; I/U/S/E/D 9.2/9.0/9.5/9.2/9.4. impact comparison: Citadel and republican civic architecture; subject 7.6 versus peer 9.2. 
-- [Hanoi (VN)](../../../countries/VN/cities/hanoi.yaml) — 88.30/100; I/U/S/E/D 8.7/8.8/8.9/8.8/9.2. uniqueness comparison: distinctive modern capital history but less coherent historic fabric; subject 7.7 versus peer 8.8. 
-- [Chiang Mai (TH)](../../../countries/TH/cities/chiang-mai.yaml) — 89.45/100; I/U/S/E/D 8.9/9.0/8.8/9.1/9.0. significance comparison: national political and archaeological significance; subject 8.7 versus peer 8.8. 
+- [Vienna (AT)](../../../countries/AT/cities/vienna.yaml) — 92.30/100; I/U/S/E/D 9.2/9.0/9.5/9.2/9.4. impact comparison: Citadel and republican civic architecture; subject 7.6 versus peer 9.2.
+- [Hanoi (VN)](../../../countries/VN/cities/hanoi.yaml) — 88.30/100; I/U/S/E/D 8.7/8.8/8.9/8.8/9.2. uniqueness comparison: distinctive modern capital history but less coherent historic fabric; subject 7.7 versus peer 8.8.
+- [Chiang Mai (TH)](../../../countries/TH/cities/chiang-mai.yaml) — 89.45/100; I/U/S/E/D 8.9/9.0/8.8/9.1/9.0. significance comparison: national political and archaeological significance; subject 8.7 versus peer 8.8.
 - [Hallstatt (AT)](../../../countries/AT/cities/hallstatt.yaml) — 82.00/100; I/U/S/E/D 8.3/8.4/8.1/8.2/7.6. experience comparison: museums and neighborhoods; subject 8.0 versus peer 8.2. Scope: several urban circuits, not distant Gordion.
 
 ### Scoring decisions
@@ -78,9 +78,9 @@
 - Missing facts: Independent GPS, material facts and actual visitor scope outstanding.
 
 ### Worldwide peers
-- [Vienna (AT)](../../../countries/AT/cities/vienna.yaml) — 92.30/100; I/U/S/E/D 9.2/9.0/9.5/9.2/9.4. impact comparison: Gulf waterfront and market streets; subject 8.0 versus peer 9.2. 
-- [Hanoi (VN)](../../../countries/VN/cities/hanoi.yaml) — 88.30/100; I/U/S/E/D 8.7/8.8/8.9/8.8/9.2. uniqueness comparison: distinctive Aegean port culture; subject 8.0 versus peer 8.8. 
-- [Chiang Mai (TH)](../../../countries/TH/cities/chiang-mai.yaml) — 89.45/100; I/U/S/E/D 8.9/9.0/8.8/9.1/9.0. significance comparison: important maritime trade and modern history; subject 8.5 versus peer 8.8. 
+- [Vienna (AT)](../../../countries/AT/cities/vienna.yaml) — 92.30/100; I/U/S/E/D 9.2/9.0/9.5/9.2/9.4. impact comparison: Gulf waterfront and market streets; subject 8.0 versus peer 9.2.
+- [Hanoi (VN)](../../../countries/VN/cities/hanoi.yaml) — 88.30/100; I/U/S/E/D 8.7/8.8/8.9/8.8/9.2. uniqueness comparison: distinctive Aegean port culture; subject 8.0 versus peer 8.8.
+- [Chiang Mai (TH)](../../../countries/TH/cities/chiang-mai.yaml) — 89.45/100; I/U/S/E/D 8.9/9.0/8.8/9.1/9.0. significance comparison: important maritime trade and modern history; subject 8.5 versus peer 8.8.
 - [Hallstatt (AT)](../../../countries/AT/cities/hallstatt.yaml) — 82.00/100; I/U/S/E/D 8.3/8.4/8.1/8.2/7.6. experience comparison: markets waterfront and museums; subject 8.5 versus peer 8.2. Scope: varied urban districts, excludes Ephesus.
 
 ### Scoring decisions
@@ -110,9 +110,9 @@
 - Missing facts: Independent GPS, material facts and actual visitor scope outstanding.
 
 ### Worldwide peers
-- [Vienna (AT)](../../../countries/AT/cities/vienna.yaml) — 92.30/100; I/U/S/E/D 9.2/9.0/9.5/9.2/9.4. impact comparison: Cliff-framed harbor and old quarter; subject 8.5 versus peer 9.2. 
-- [Hanoi (VN)](../../../countries/VN/cities/hanoi.yaml) — 88.30/100; I/U/S/E/D 8.7/8.8/8.9/8.8/9.2. uniqueness comparison: Mediterranean resort and historic port combination; subject 8.2 versus peer 8.8. 
-- [Chiang Mai (TH)](../../../countries/TH/cities/chiang-mai.yaml) — 89.45/100; I/U/S/E/D 8.9/9.0/8.8/9.1/9.0. significance comparison: significant regional urban history; subject 8.2 versus peer 8.8. 
+- [Vienna (AT)](../../../countries/AT/cities/vienna.yaml) — 92.30/100; I/U/S/E/D 9.2/9.0/9.5/9.2/9.4. impact comparison: Cliff-framed harbor and old quarter; subject 8.5 versus peer 9.2.
+- [Hanoi (VN)](../../../countries/VN/cities/hanoi.yaml) — 88.30/100; I/U/S/E/D 8.7/8.8/8.9/8.8/9.2. uniqueness comparison: Mediterranean resort and historic port combination; subject 8.2 versus peer 8.8.
+- [Chiang Mai (TH)](../../../countries/TH/cities/chiang-mai.yaml) — 89.45/100; I/U/S/E/D 8.9/9.0/8.8/9.1/9.0. significance comparison: significant regional urban history; subject 8.2 versus peer 8.8.
 - [Hallstatt (AT)](../../../countries/AT/cities/hallstatt.yaml) — 82.00/100; I/U/S/E/D 8.3/8.4/8.1/8.2/7.6. experience comparison: Kaleici beaches and city museums; subject 8.8 versus peer 8.2. Scope: multiple city circuits, excludes remote ruins.
 
 ### Scoring decisions
@@ -142,9 +142,9 @@
 - Missing facts: Independent GPS, material facts and actual visitor scope outstanding.
 
 ### Worldwide peers
-- [Vienna (AT)](../../../countries/AT/cities/vienna.yaml) — 92.30/100; I/U/S/E/D 9.2/9.0/9.5/9.2/9.4. impact comparison: Mosque skyline and historic commercial districts; subject 8.4 versus peer 9.2. 
-- [Hanoi (VN)](../../../countries/VN/cities/hanoi.yaml) — 88.30/100; I/U/S/E/D 8.7/8.8/8.9/8.8/9.2. uniqueness comparison: formative Ottoman urban fabric; subject 8.6 versus peer 8.8. 
-- [Chiang Mai (TH)](../../../countries/TH/cities/chiang-mai.yaml) — 89.45/100; I/U/S/E/D 8.9/9.0/8.8/9.1/9.0. significance comparison: major early Ottoman capital; subject 8.9 versus peer 8.8. 
+- [Vienna (AT)](../../../countries/AT/cities/vienna.yaml) — 92.30/100; I/U/S/E/D 9.2/9.0/9.5/9.2/9.4. impact comparison: Mosque skyline and historic commercial districts; subject 8.4 versus peer 9.2.
+- [Hanoi (VN)](../../../countries/VN/cities/hanoi.yaml) — 88.30/100; I/U/S/E/D 8.7/8.8/8.9/8.8/9.2. uniqueness comparison: formative Ottoman urban fabric; subject 8.6 versus peer 8.8.
+- [Chiang Mai (TH)](../../../countries/TH/cities/chiang-mai.yaml) — 89.45/100; I/U/S/E/D 8.9/9.0/8.8/9.1/9.0. significance comparison: major early Ottoman capital; subject 8.9 versus peer 8.8.
 - [Hallstatt (AT)](../../../countries/AT/cities/hallstatt.yaml) — 82.00/100; I/U/S/E/D 8.3/8.4/8.1/8.2/7.6. experience comparison: markets mosques and neighborhoods; subject 8.5 versus peer 8.2. Scope: diverse city heritage, excludes distant mountain.
 
 ### Scoring decisions
@@ -174,9 +174,9 @@
 - Missing facts: Independent GPS, material facts and actual visitor scope outstanding.
 
 ### Worldwide peers
-- [Vienna (AT)](../../../countries/AT/cities/vienna.yaml) — 92.30/100; I/U/S/E/D 9.2/9.0/9.5/9.2/9.4. impact comparison: Seljuk monuments and pilgrimage skyline; subject 8.0 versus peer 9.2. 
-- [Hanoi (VN)](../../../countries/VN/cities/hanoi.yaml) — 88.30/100; I/U/S/E/D 8.7/8.8/8.9/8.8/9.2. uniqueness comparison: distinctive Mevlevi and Seljuk urban culture; subject 8.7 versus peer 8.8. 
-- [Chiang Mai (TH)](../../../countries/TH/cities/chiang-mai.yaml) — 89.45/100; I/U/S/E/D 8.9/9.0/8.8/9.1/9.0. significance comparison: major medieval capital; subject 9.0 versus peer 8.8. 
+- [Vienna (AT)](../../../countries/AT/cities/vienna.yaml) — 92.30/100; I/U/S/E/D 9.2/9.0/9.5/9.2/9.4. impact comparison: Seljuk monuments and pilgrimage skyline; subject 8.0 versus peer 9.2.
+- [Hanoi (VN)](../../../countries/VN/cities/hanoi.yaml) — 88.30/100; I/U/S/E/D 8.7/8.8/8.9/8.8/9.2. uniqueness comparison: distinctive Mevlevi and Seljuk urban culture; subject 8.7 versus peer 8.8.
+- [Chiang Mai (TH)](../../../countries/TH/cities/chiang-mai.yaml) — 89.45/100; I/U/S/E/D 8.9/9.0/8.8/9.1/9.0. significance comparison: major medieval capital; subject 9.0 versus peer 8.8.
 - [Hallstatt (AT)](../../../countries/AT/cities/hallstatt.yaml) — 82.00/100; I/U/S/E/D 8.3/8.4/8.1/8.2/7.6. experience comparison: museums religious sites and local food; subject 8.2 versus peer 8.2. Scope: multiple urban stops, excludes Catalhoyuk.
 
 ### Scoring decisions
@@ -206,9 +206,9 @@
 - Missing facts: Independent GPS, material facts and actual visitor scope outstanding.
 
 ### Worldwide peers
-- [Vienna (AT)](../../../countries/AT/cities/vienna.yaml) — 92.30/100; I/U/S/E/D 9.2/9.0/9.5/9.2/9.4. impact comparison: Historic markets and stone courtyards; subject 8.0 versus peer 9.2. 
-- [Hanoi (VN)](../../../countries/VN/cities/hanoi.yaml) — 88.30/100; I/U/S/E/D 8.7/8.8/8.9/8.8/9.2. uniqueness comparison: distinctive culinary and craft tradition; subject 8.5 versus peer 8.8. 
-- [Chiang Mai (TH)](../../../countries/TH/cities/chiang-mai.yaml) — 89.45/100; I/U/S/E/D 8.9/9.0/8.8/9.1/9.0. significance comparison: regional trade heritage; subject 8.5 versus peer 8.8. 
+- [Vienna (AT)](../../../countries/AT/cities/vienna.yaml) — 92.30/100; I/U/S/E/D 9.2/9.0/9.5/9.2/9.4. impact comparison: Historic markets and stone courtyards; subject 8.0 versus peer 9.2.
+- [Hanoi (VN)](../../../countries/VN/cities/hanoi.yaml) — 88.30/100; I/U/S/E/D 8.7/8.8/8.9/8.8/9.2. uniqueness comparison: distinctive culinary and craft tradition; subject 8.5 versus peer 8.8.
+- [Chiang Mai (TH)](../../../countries/TH/cities/chiang-mai.yaml) — 89.45/100; I/U/S/E/D 8.9/9.0/8.8/9.1/9.0. significance comparison: regional trade heritage; subject 8.5 versus peer 8.8.
 - [Hallstatt (AT)](../../../countries/AT/cities/hallstatt.yaml) — 82.00/100; I/U/S/E/D 8.3/8.4/8.1/8.2/7.6. experience comparison: markets food and museum visits, subject to restoration; subject 8.4 versus peer 8.2. Scope: diverse city experiences, damaged buildings not assumed open.
 
 ### Scoring decisions
@@ -238,9 +238,9 @@
 - Missing facts: Independent GPS, material facts and actual visitor scope outstanding.
 
 ### Worldwide peers
-- [Vienna (AT)](../../../countries/AT/cities/vienna.yaml) — 92.30/100; I/U/S/E/D 9.2/9.0/9.5/9.2/9.4. impact comparison: Terraced stone town over Mesopotamian plain; subject 8.8 versus peer 9.2. 
-- [Hanoi (VN)](../../../countries/VN/cities/hanoi.yaml) — 88.30/100; I/U/S/E/D 8.7/8.8/8.9/8.8/9.2. uniqueness comparison: distinctive multi-faith limestone urban fabric; subject 9.0 versus peer 8.8. 
-- [Chiang Mai (TH)](../../../countries/TH/cities/chiang-mai.yaml) — 89.45/100; I/U/S/E/D 8.9/9.0/8.8/9.1/9.0. significance comparison: major regional trade and religious heritage; subject 8.8 versus peer 8.8. 
+- [Vienna (AT)](../../../countries/AT/cities/vienna.yaml) — 92.30/100; I/U/S/E/D 9.2/9.0/9.5/9.2/9.4. impact comparison: Terraced stone town over Mesopotamian plain; subject 8.8 versus peer 9.2.
+- [Hanoi (VN)](../../../countries/VN/cities/hanoi.yaml) — 88.30/100; I/U/S/E/D 8.7/8.8/8.9/8.8/9.2. uniqueness comparison: distinctive multi-faith limestone urban fabric; subject 9.0 versus peer 8.8.
+- [Chiang Mai (TH)](../../../countries/TH/cities/chiang-mai.yaml) — 89.45/100; I/U/S/E/D 8.9/9.0/8.8/9.1/9.0. significance comparison: major regional trade and religious heritage; subject 8.8 versus peer 8.8.
 - [Hallstatt (AT)](../../../countries/AT/cities/hallstatt.yaml) — 82.00/100; I/U/S/E/D 8.3/8.4/8.1/8.2/7.6. experience comparison: public lanes markets and permitted monuments; subject 8.4 versus peer 8.2. Scope: coherent historic core, not distant monasteries.
 
 ### Scoring decisions
@@ -270,9 +270,9 @@
 - Missing facts: Independent GPS, material facts and actual visitor scope outstanding.
 
 ### Worldwide peers
-- [Vienna (AT)](../../../countries/AT/cities/vienna.yaml) — 92.30/100; I/U/S/E/D 9.2/9.0/9.5/9.2/9.4. impact comparison: Sacred pools and historic bazaars; subject 8.4 versus peer 9.2. 
-- [Hanoi (VN)](../../../countries/VN/cities/hanoi.yaml) — 88.30/100; I/U/S/E/D 8.7/8.8/8.9/8.8/9.2. uniqueness comparison: distinctive pilgrimage city and regional culture; subject 8.7 versus peer 8.8. 
-- [Chiang Mai (TH)](../../../countries/TH/cities/chiang-mai.yaml) — 89.45/100; I/U/S/E/D 8.9/9.0/8.8/9.1/9.0. significance comparison: major religious and regional history; subject 8.9 versus peer 8.8. 
+- [Vienna (AT)](../../../countries/AT/cities/vienna.yaml) — 92.30/100; I/U/S/E/D 9.2/9.0/9.5/9.2/9.4. impact comparison: Sacred pools and historic bazaars; subject 8.4 versus peer 9.2.
+- [Hanoi (VN)](../../../countries/VN/cities/hanoi.yaml) — 88.30/100; I/U/S/E/D 8.7/8.8/8.9/8.8/9.2. uniqueness comparison: distinctive pilgrimage city and regional culture; subject 8.7 versus peer 8.8.
+- [Chiang Mai (TH)](../../../countries/TH/cities/chiang-mai.yaml) — 89.45/100; I/U/S/E/D 8.9/9.0/8.8/9.1/9.0. significance comparison: major religious and regional history; subject 8.9 versus peer 8.8.
 - [Hallstatt (AT)](../../../countries/AT/cities/hallstatt.yaml) — 82.00/100; I/U/S/E/D 8.3/8.4/8.1/8.2/7.6. experience comparison: markets courtyards and museum circuits; subject 8.3 versus peer 8.2. Scope: excludes Gobekli Tepe.
 
 ### Scoring decisions
@@ -302,9 +302,9 @@
 - Missing facts: Independent GPS, material facts and actual visitor scope outstanding.
 
 ### Worldwide peers
-- [Vienna (AT)](../../../countries/AT/cities/vienna.yaml) — 92.30/100; I/U/S/E/D 9.2/9.0/9.5/9.2/9.4. impact comparison: Basalt city walls and historic lanes; subject 8.4 versus peer 9.2. 
-- [Hanoi (VN)](../../../countries/VN/cities/hanoi.yaml) — 88.30/100; I/U/S/E/D 8.7/8.8/8.9/8.8/9.2. uniqueness comparison: distinctive fortified Mesopotamian city; subject 8.6 versus peer 8.8. 
-- [Chiang Mai (TH)](../../../countries/TH/cities/chiang-mai.yaml) — 89.45/100; I/U/S/E/D 8.9/9.0/8.8/9.1/9.0. significance comparison: significant regional history; subject 8.9 versus peer 8.8. 
+- [Vienna (AT)](../../../countries/AT/cities/vienna.yaml) — 92.30/100; I/U/S/E/D 9.2/9.0/9.5/9.2/9.4. impact comparison: Basalt city walls and historic lanes; subject 8.4 versus peer 9.2.
+- [Hanoi (VN)](../../../countries/VN/cities/hanoi.yaml) — 88.30/100; I/U/S/E/D 8.7/8.8/8.9/8.8/9.2. uniqueness comparison: distinctive fortified Mesopotamian city; subject 8.6 versus peer 8.8.
+- [Chiang Mai (TH)](../../../countries/TH/cities/chiang-mai.yaml) — 89.45/100; I/U/S/E/D 8.9/9.0/8.8/9.1/9.0. significance comparison: significant regional history; subject 8.9 versus peer 8.8.
 - [Hallstatt (AT)](../../../countries/AT/cities/hallstatt.yaml) — 82.00/100; I/U/S/E/D 8.3/8.4/8.1/8.2/7.6. experience comparison: public urban routes with access and conservation caveats; subject 8.0 versus peer 8.2. Scope: multiple neighborhoods, not all Hevsel gardens.
 
 ### Scoring decisions
@@ -334,9 +334,9 @@
 - Missing facts: Independent GPS, material facts and actual visitor scope outstanding.
 
 ### Worldwide peers
-- [Vienna (AT)](../../../countries/AT/cities/vienna.yaml) — 92.30/100; I/U/S/E/D 9.2/9.0/9.5/9.2/9.4. impact comparison: Rock-cut settlement amid pinnacles; subject 8.7 versus peer 9.2. 
-- [Hanoi (VN)](../../../countries/VN/cities/hanoi.yaml) — 88.30/100; I/U/S/E/D 8.7/8.8/8.9/8.8/9.2. uniqueness comparison: distinctive cave-dwelling town fabric; subject 8.9 versus peer 8.8. 
-- [Chiang Mai (TH)](../../../countries/TH/cities/chiang-mai.yaml) — 89.45/100; I/U/S/E/D 8.9/9.0/8.8/9.1/9.0. significance comparison: regional living heritage; subject 7.9 versus peer 8.8. 
+- [Vienna (AT)](../../../countries/AT/cities/vienna.yaml) — 92.30/100; I/U/S/E/D 9.2/9.0/9.5/9.2/9.4. impact comparison: Rock-cut settlement amid pinnacles; subject 8.7 versus peer 9.2.
+- [Hanoi (VN)](../../../countries/VN/cities/hanoi.yaml) — 88.30/100; I/U/S/E/D 8.7/8.8/8.9/8.8/9.2. uniqueness comparison: distinctive cave-dwelling town fabric; subject 8.9 versus peer 8.8.
+- [Chiang Mai (TH)](../../../countries/TH/cities/chiang-mai.yaml) — 89.45/100; I/U/S/E/D 8.9/9.0/8.8/9.1/9.0. significance comparison: regional living heritage; subject 7.9 versus peer 8.8.
 - [Hallstatt (AT)](../../../countries/AT/cities/hallstatt.yaml) — 82.00/100; I/U/S/E/D 8.3/8.4/8.1/8.2/7.6. experience comparison: town walks and cave hospitality; subject 8.8 versus peer 8.2. Scope: small settlement, excludes entire Cappadocia landscape.
 
 ### Scoring decisions
@@ -366,9 +366,9 @@
 - Missing facts: Independent GPS, material facts and actual visitor scope outstanding.
 
 ### Worldwide peers
-- [Vienna (AT)](../../../countries/AT/cities/vienna.yaml) — 92.30/100; I/U/S/E/D 9.2/9.0/9.5/9.2/9.4. impact comparison: Rock houses and prominent natural fortress; subject 8.5 versus peer 9.2. 
-- [Hanoi (VN)](../../../countries/VN/cities/hanoi.yaml) — 88.30/100; I/U/S/E/D 8.7/8.8/8.9/8.8/9.2. uniqueness comparison: distinctive cliff settlement; subject 8.6 versus peer 8.8. 
-- [Chiang Mai (TH)](../../../countries/TH/cities/chiang-mai.yaml) — 89.45/100; I/U/S/E/D 8.9/9.0/8.8/9.1/9.0. significance comparison: local historic refuge heritage; subject 7.7 versus peer 8.8. 
+- [Vienna (AT)](../../../countries/AT/cities/vienna.yaml) — 92.30/100; I/U/S/E/D 9.2/9.0/9.5/9.2/9.4. impact comparison: Rock houses and prominent natural fortress; subject 8.5 versus peer 9.2.
+- [Hanoi (VN)](../../../countries/VN/cities/hanoi.yaml) — 88.30/100; I/U/S/E/D 8.7/8.8/8.9/8.8/9.2. uniqueness comparison: distinctive cliff settlement; subject 8.6 versus peer 8.8.
+- [Chiang Mai (TH)](../../../countries/TH/cities/chiang-mai.yaml) — 89.45/100; I/U/S/E/D 8.9/9.0/8.8/9.1/9.0. significance comparison: local historic refuge heritage; subject 7.7 versus peer 8.8.
 - [Hallstatt (AT)](../../../countries/AT/cities/hallstatt.yaml) — 82.00/100; I/U/S/E/D 8.3/8.4/8.1/8.2/7.6. experience comparison: village streets and views; subject 8.3 versus peer 8.2. Scope: compact settlement, wider valleys excluded.
 
 ### Scoring decisions
@@ -398,9 +398,9 @@
 - Missing facts: Independent GPS, material facts and actual visitor scope outstanding.
 
 ### Worldwide peers
-- [Vienna (AT)](../../../countries/AT/cities/vienna.yaml) — 92.30/100; I/U/S/E/D 9.2/9.0/9.5/9.2/9.4. impact comparison: Preserved timber-framed Ottoman houses; subject 8.5 versus peer 9.2. 
-- [Hanoi (VN)](../../../countries/VN/cities/hanoi.yaml) — 88.30/100; I/U/S/E/D 8.7/8.8/8.9/8.8/9.2. uniqueness comparison: distinctive coherent trading-town fabric; subject 8.8 versus peer 8.8. 
-- [Chiang Mai (TH)](../../../countries/TH/cities/chiang-mai.yaml) — 89.45/100; I/U/S/E/D 8.9/9.0/8.8/9.1/9.0. significance comparison: major regional vernacular heritage; subject 8.7 versus peer 8.8. 
+- [Vienna (AT)](../../../countries/AT/cities/vienna.yaml) — 92.30/100; I/U/S/E/D 9.2/9.0/9.5/9.2/9.4. impact comparison: Preserved timber-framed Ottoman houses; subject 8.5 versus peer 9.2.
+- [Hanoi (VN)](../../../countries/VN/cities/hanoi.yaml) — 88.30/100; I/U/S/E/D 8.7/8.8/8.9/8.8/9.2. uniqueness comparison: distinctive coherent trading-town fabric; subject 8.8 versus peer 8.8.
+- [Chiang Mai (TH)](../../../countries/TH/cities/chiang-mai.yaml) — 89.45/100; I/U/S/E/D 8.9/9.0/8.8/9.1/9.0. significance comparison: major regional vernacular heritage; subject 8.7 versus peer 8.8.
 - [Hallstatt (AT)](../../../countries/AT/cities/hallstatt.yaml) — 82.00/100; I/U/S/E/D 8.3/8.4/8.1/8.2/7.6. experience comparison: historic streets and accessible museums; subject 8.5 versus peer 8.2. Scope: compact but varied traditional neighborhoods.
 
 ### Scoring decisions
@@ -430,9 +430,9 @@
 - Missing facts: Independent GPS, material facts and actual visitor scope outstanding.
 
 ### Worldwide peers
-- [Vienna (AT)](../../../countries/AT/cities/vienna.yaml) — 92.30/100; I/U/S/E/D 9.2/9.0/9.5/9.2/9.4. impact comparison: Monumental mosque skyline and riverside city; subject 8.3 versus peer 9.2. 
-- [Hanoi (VN)](../../../countries/VN/cities/hanoi.yaml) — 88.30/100; I/U/S/E/D 8.7/8.8/8.9/8.8/9.2. uniqueness comparison: distinctive Ottoman frontier capital; subject 8.4 versus peer 8.8. 
-- [Chiang Mai (TH)](../../../countries/TH/cities/chiang-mai.yaml) — 89.45/100; I/U/S/E/D 8.9/9.0/8.8/9.1/9.0. significance comparison: major dynastic history; subject 8.8 versus peer 8.8. 
+- [Vienna (AT)](../../../countries/AT/cities/vienna.yaml) — 92.30/100; I/U/S/E/D 9.2/9.0/9.5/9.2/9.4. impact comparison: Monumental mosque skyline and riverside city; subject 8.3 versus peer 9.2.
+- [Hanoi (VN)](../../../countries/VN/cities/hanoi.yaml) — 88.30/100; I/U/S/E/D 8.7/8.8/8.9/8.8/9.2. uniqueness comparison: distinctive Ottoman frontier capital; subject 8.4 versus peer 8.8.
+- [Chiang Mai (TH)](../../../countries/TH/cities/chiang-mai.yaml) — 89.45/100; I/U/S/E/D 8.9/9.0/8.8/9.1/9.0. significance comparison: major dynastic history; subject 8.8 versus peer 8.8.
 - [Hallstatt (AT)](../../../countries/AT/cities/hallstatt.yaml) — 82.00/100; I/U/S/E/D 8.3/8.4/8.1/8.2/7.6. experience comparison: markets mosques and museums; subject 8.4 versus peer 8.2. Scope: varied city circuit, not just Selimiye.
 
 ### Scoring decisions
@@ -462,9 +462,9 @@
 - Missing facts: Independent GPS, material facts and actual visitor scope outstanding.
 
 ### Worldwide peers
-- [Vienna (AT)](../../../countries/AT/cities/vienna.yaml) — 92.30/100; I/U/S/E/D 9.2/9.0/9.5/9.2/9.4. impact comparison: Black Sea hillside and historic monuments; subject 7.8 versus peer 9.2. 
-- [Hanoi (VN)](../../../countries/VN/cities/hanoi.yaml) — 88.30/100; I/U/S/E/D 8.7/8.8/8.9/8.8/9.2. uniqueness comparison: distinct Pontic and Ottoman port heritage; subject 8.0 versus peer 8.8. 
-- [Chiang Mai (TH)](../../../countries/TH/cities/chiang-mai.yaml) — 89.45/100; I/U/S/E/D 8.9/9.0/8.8/9.1/9.0. significance comparison: important regional trade history; subject 8.4 versus peer 8.8. 
+- [Vienna (AT)](../../../countries/AT/cities/vienna.yaml) — 92.30/100; I/U/S/E/D 9.2/9.0/9.5/9.2/9.4. impact comparison: Black Sea hillside and historic monuments; subject 7.8 versus peer 9.2.
+- [Hanoi (VN)](../../../countries/VN/cities/hanoi.yaml) — 88.30/100; I/U/S/E/D 8.7/8.8/8.9/8.8/9.2. uniqueness comparison: distinct Pontic and Ottoman port heritage; subject 8.0 versus peer 8.8.
+- [Chiang Mai (TH)](../../../countries/TH/cities/chiang-mai.yaml) — 89.45/100; I/U/S/E/D 8.9/9.0/8.8/9.1/9.0. significance comparison: important regional trade history; subject 8.4 versus peer 8.8.
 - [Hallstatt (AT)](../../../countries/AT/cities/hallstatt.yaml) — 82.00/100; I/U/S/E/D 8.3/8.4/8.1/8.2/7.6. experience comparison: urban museums markets and waterfront; subject 8.0 versus peer 8.2. Scope: excludes Sumela monastery.
 
 ### Scoring decisions
@@ -494,9 +494,9 @@
 - Missing facts: Independent GPS, material facts and actual visitor scope outstanding.
 
 ### Worldwide peers
-- [Vienna (AT)](../../../countries/AT/cities/vienna.yaml) — 92.30/100; I/U/S/E/D 9.2/9.0/9.5/9.2/9.4. impact comparison: White hillside houses and castle harbor; subject 8.4 versus peer 9.2. 
-- [Hanoi (VN)](../../../countries/VN/cities/hanoi.yaml) — 88.30/100; I/U/S/E/D 8.7/8.8/8.9/8.8/9.2. uniqueness comparison: distinctive Aegean resort and historic port; subject 8.0 versus peer 8.8. 
-- [Chiang Mai (TH)](../../../countries/TH/cities/chiang-mai.yaml) — 89.45/100; I/U/S/E/D 8.9/9.0/8.8/9.1/9.0. significance comparison: ancient Halicarnassus heritage; subject 8.3 versus peer 8.8. 
+- [Vienna (AT)](../../../countries/AT/cities/vienna.yaml) — 92.30/100; I/U/S/E/D 9.2/9.0/9.5/9.2/9.4. impact comparison: White hillside houses and castle harbor; subject 8.4 versus peer 9.2.
+- [Hanoi (VN)](../../../countries/VN/cities/hanoi.yaml) — 88.30/100; I/U/S/E/D 8.7/8.8/8.9/8.8/9.2. uniqueness comparison: distinctive Aegean resort and historic port; subject 8.0 versus peer 8.8.
+- [Chiang Mai (TH)](../../../countries/TH/cities/chiang-mai.yaml) — 89.45/100; I/U/S/E/D 8.9/9.0/8.8/9.1/9.0. significance comparison: ancient Halicarnassus heritage; subject 8.3 versus peer 8.8.
 - [Hallstatt (AT)](../../../countries/AT/cities/hallstatt.yaml) — 82.00/100; I/U/S/E/D 8.3/8.4/8.1/8.2/7.6. experience comparison: waterfront castle district and dining; subject 8.7 versus peer 8.2. Scope: excludes peninsula-wide beaches.
 
 ### Scoring decisions
@@ -526,9 +526,9 @@
 - Missing facts: Independent GPS, material facts and actual visitor scope outstanding.
 
 ### Worldwide peers
-- [Vienna (AT)](../../../countries/AT/cities/vienna.yaml) — 92.30/100; I/U/S/E/D 9.2/9.0/9.5/9.2/9.4. impact comparison: Harbor and cliff tomb backdrop; subject 8.0 versus peer 9.2. 
-- [Hanoi (VN)](../../../countries/VN/cities/hanoi.yaml) — 88.30/100; I/U/S/E/D 8.7/8.8/8.9/8.8/9.2. uniqueness comparison: Lycian coastal town character; subject 7.8 versus peer 8.8. 
-- [Chiang Mai (TH)](../../../countries/TH/cities/chiang-mai.yaml) — 89.45/100; I/U/S/E/D 8.9/9.0/8.8/9.1/9.0. significance comparison: regional ancient heritage; subject 7.9 versus peer 8.8. 
+- [Vienna (AT)](../../../countries/AT/cities/vienna.yaml) — 92.30/100; I/U/S/E/D 9.2/9.0/9.5/9.2/9.4. impact comparison: Harbor and cliff tomb backdrop; subject 8.0 versus peer 9.2.
+- [Hanoi (VN)](../../../countries/VN/cities/hanoi.yaml) — 88.30/100; I/U/S/E/D 8.7/8.8/8.9/8.8/9.2. uniqueness comparison: Lycian coastal town character; subject 7.8 versus peer 8.8.
+- [Chiang Mai (TH)](../../../countries/TH/cities/chiang-mai.yaml) — 89.45/100; I/U/S/E/D 8.9/9.0/8.8/9.1/9.0. significance comparison: regional ancient heritage; subject 7.9 versus peer 8.8.
 - [Hallstatt (AT)](../../../countries/AT/cities/hallstatt.yaml) — 82.00/100; I/U/S/E/D 8.3/8.4/8.1/8.2/7.6. experience comparison: markets waterfront and urban tombs; subject 8.5 versus peer 8.2. Scope: excludes Oludeniz and Saklikent.
 
 ### Scoring decisions
@@ -558,9 +558,9 @@
 - Missing facts: Independent GPS, material facts and actual visitor scope outstanding.
 
 ### Worldwide peers
-- [Vienna (AT)](../../../countries/AT/cities/vienna.yaml) — 92.30/100; I/U/S/E/D 9.2/9.0/9.5/9.2/9.4. impact comparison: Small hillside harbor and stone lanes; subject 8.3 versus peer 9.2. 
-- [Hanoi (VN)](../../../countries/VN/cities/hanoi.yaml) — 88.30/100; I/U/S/E/D 8.7/8.8/8.9/8.8/9.2. uniqueness comparison: distinctive Lycian coastal town but comparable Mediterranean ports; subject 8.0 versus peer 8.8. 
-- [Chiang Mai (TH)](../../../countries/TH/cities/chiang-mai.yaml) — 89.45/100; I/U/S/E/D 8.9/9.0/8.8/9.1/9.0. significance comparison: local ancient heritage; subject 7.5 versus peer 8.8. 
+- [Vienna (AT)](../../../countries/AT/cities/vienna.yaml) — 92.30/100; I/U/S/E/D 9.2/9.0/9.5/9.2/9.4. impact comparison: Small hillside harbor and stone lanes; subject 8.3 versus peer 9.2.
+- [Hanoi (VN)](../../../countries/VN/cities/hanoi.yaml) — 88.30/100; I/U/S/E/D 8.7/8.8/8.9/8.8/9.2. uniqueness comparison: distinctive Lycian coastal town but comparable Mediterranean ports; subject 8.0 versus peer 8.8.
+- [Chiang Mai (TH)](../../../countries/TH/cities/chiang-mai.yaml) — 89.45/100; I/U/S/E/D 8.9/9.0/8.8/9.1/9.0. significance comparison: local ancient heritage; subject 7.5 versus peer 8.8.
 - [Hallstatt (AT)](../../../countries/AT/cities/hallstatt.yaml) — 82.00/100; I/U/S/E/D 8.3/8.4/8.1/8.2/7.6. experience comparison: waterfront walks and food; subject 8.5 versus peer 8.2. Scope: excludes boat trips to Kekova.
 
 ### Scoring decisions
@@ -590,9 +590,9 @@
 - Missing facts: Independent GPS, material facts and actual visitor scope outstanding.
 
 ### Worldwide peers
-- [Vienna (AT)](../../../countries/AT/cities/vienna.yaml) — 92.30/100; I/U/S/E/D 9.2/9.0/9.5/9.2/9.4. impact comparison: Riverside houses beneath rock tombs; subject 8.5 versus peer 9.2. 
-- [Hanoi (VN)](../../../countries/VN/cities/hanoi.yaml) — 88.30/100; I/U/S/E/D 8.7/8.8/8.9/8.8/9.2. uniqueness comparison: distinctive narrow valley urban composition; subject 8.5 versus peer 8.8. 
-- [Chiang Mai (TH)](../../../countries/TH/cities/chiang-mai.yaml) — 89.45/100; I/U/S/E/D 8.9/9.0/8.8/9.1/9.0. significance comparison: regional Pontic and Ottoman history; subject 8.5 versus peer 8.8. 
+- [Vienna (AT)](../../../countries/AT/cities/vienna.yaml) — 92.30/100; I/U/S/E/D 9.2/9.0/9.5/9.2/9.4. impact comparison: Riverside houses beneath rock tombs; subject 8.5 versus peer 9.2.
+- [Hanoi (VN)](../../../countries/VN/cities/hanoi.yaml) — 88.30/100; I/U/S/E/D 8.7/8.8/8.9/8.8/9.2. uniqueness comparison: distinctive narrow valley urban composition; subject 8.5 versus peer 8.8.
+- [Chiang Mai (TH)](../../../countries/TH/cities/chiang-mai.yaml) — 89.45/100; I/U/S/E/D 8.9/9.0/8.8/9.1/9.0. significance comparison: regional Pontic and Ottoman history; subject 8.5 versus peer 8.8.
 - [Hallstatt (AT)](../../../countries/AT/cities/hallstatt.yaml) — 82.00/100; I/U/S/E/D 8.3/8.4/8.1/8.2/7.6. experience comparison: old-town and museum walks; subject 8.3 versus peer 8.2. Scope: compact river city, not entire mountain landscape.
 
 ### Scoring decisions
@@ -622,9 +622,9 @@
 - Missing facts: Independent GPS, material facts and actual visitor scope outstanding.
 
 ### Worldwide peers
-- [Vienna (AT)](../../../countries/AT/cities/vienna.yaml) — 92.30/100; I/U/S/E/D 9.2/9.0/9.5/9.2/9.4. impact comparison: Dardanelles waterfront and urban streets; subject 7.5 versus peer 9.2. 
-- [Hanoi (VN)](../../../countries/VN/cities/hanoi.yaml) — 88.30/100; I/U/S/E/D 8.7/8.8/8.9/8.8/9.2. uniqueness comparison: regional strait-port character; subject 7.5 versus peer 8.8. 
-- [Chiang Mai (TH)](../../../countries/TH/cities/chiang-mai.yaml) — 89.45/100; I/U/S/E/D 8.9/9.0/8.8/9.1/9.0. significance comparison: significant modern regional history; subject 8.0 versus peer 8.8. 
+- [Vienna (AT)](../../../countries/AT/cities/vienna.yaml) — 92.30/100; I/U/S/E/D 9.2/9.0/9.5/9.2/9.4. impact comparison: Dardanelles waterfront and urban streets; subject 7.5 versus peer 9.2.
+- [Hanoi (VN)](../../../countries/VN/cities/hanoi.yaml) — 88.30/100; I/U/S/E/D 8.7/8.8/8.9/8.8/9.2. uniqueness comparison: regional strait-port character; subject 7.5 versus peer 8.8.
+- [Chiang Mai (TH)](../../../countries/TH/cities/chiang-mai.yaml) — 89.45/100; I/U/S/E/D 8.9/9.0/8.8/9.1/9.0. significance comparison: significant modern regional history; subject 8.0 versus peer 8.8.
 - [Hallstatt (AT)](../../../countries/AT/cities/hallstatt.yaml) — 82.00/100; I/U/S/E/D 8.3/8.4/8.1/8.2/7.6. experience comparison: waterfront and local museums; subject 8.1 versus peer 8.2. Scope: excludes Troy and Gallipoli battlefields.
 
 ### Scoring decisions
@@ -643,3 +643,7 @@
 - Final decision: Provisional absolute worldwide score; waterfront and local museums; excludes Troy and Gallipoli battlefields.
 - Verification still needed: exact GPS, material claims, permitted scope, closer peer comparisons and category calibration.
 
+
+## Follow-up: Istanbul city scope calibration — 2026-11-25
+
+- [Istanbul](../../../countries/TR/cities/istanbul.yaml): **source-linked-unverified**. I/U/S/E/D 9.4/9.4/9.4/9.3/9.4 -> 9.4/9.4/9.4/9.4/9.6; 93.85 -> 94.20. [Ortaköy](https://goturkiye.com/istanbul/ortakoy), [Kadıköy and Moda](https://goturkiye.com/istanbul/the-24-hour-hustle-and-bustle), [Bosphorus](https://goturkiye.com/branding/press-releases/discover-the-iconic-bosphorus-mansions), [Galataport](https://goturkiye.com/istanbul/galataport) document distinct city experiences outside the four inscribed areas. Depth 9.6 is exceptional because multiple distinct districts on both shores, urban ferry trips, museums, markets and dining support many days without reliance on distant excursions. Experience 9.4 reflects broad variety. Current main peers: [London (GB)](../../../countries/GB/cities/london.yaml) 9.7/9.5/9.8/9.6/9.8, greater institutional breadth; [Vienna (AT)](../../../countries/AT/cities/vienna.yaml) 9.2/9.0/9.5/9.2/9.4, comparable multi-day city but fewer distinct waterfront districts; [Kyoto (JP)](../../../countries/JP/cities/kyoto.yaml) 9.6/9.7/9.8/9.5/9.6, stronger exceptional heritage concentration, comparable depth; [Beijing (CN)](../../../countries/CN/cities/beijing.yaml) 9.7/9.7/9.9/9.5/10.0, globally defining approved depth, not matched here. No new perfect ten. This supersedes coincidentally identical city and heritage vectors; categories and representative coordinate unchanged.
