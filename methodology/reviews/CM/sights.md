@@ -5,7 +5,7 @@
 ## sight-cm-dja-faunal-reserve — Dja Faunal Reserve — 2026-11-25
 
 - YAML: [source](../../../countries/CM/sights/dja-faunal-reserve.yaml)
-- Action: new
+- Action: second-pass correction; prior decision preserved in [verification history](verification-2026-11-25.md)
 - Precise subject: Inscribed forest reserve, approximate central point within published bounds; guided treks, not all reserve access.
 - Location check: 3.125, 13; representative point, exact entrance not verified.
 - Evidence status: **source-linked-unverified**
@@ -28,7 +28,7 @@
 - Significance: 9.6 — Global conservation importance for threatened primates.
 - Experience: 8.5 — Documented guided multi-day walking.
 - Depth: 8.8 — Varied forest habitats, fewer open observation opportunities than Okavango.
-- Applicable categories: nature 9.6, wildlife 9.5.
+- Applicable categories: nature 9.6, wildlife 8.9.
 - Overall: 91.00/100.
 - High-score challenge: Significance/nature 9.6 and wildlife 9.5 recognize large intact forest and threatened species, not guaranteed sightings. Okavango is stronger for open wildlife observation and depth.
 - Approved 10 registry: none.
@@ -38,7 +38,7 @@
 ## sight-cm-lobeke-national-park — Lobéké National Park — 2026-11-25
 
 - YAML: [source](../../../countries/CM/sights/lobeke-national-park.yaml)
-- Action: new
+- Action: second-pass correction; prior decision preserved in [verification history](verification-2026-11-25.md)
 - Precise subject: Cameroonian component of Sangha Trinational only; IUCN atlas coordinate; guided forest and bai observation.
 - Location check: 2.298493, 15.689466; representative point, exact entrance not verified.
 - Evidence status: **source-linked-unverified**
@@ -60,9 +60,9 @@
 - Significance: 9.6 — Global transboundary conservation relevance.
 - Experience: 8.7 — Ministry documents guided observation circuits.
 - Depth: 9.0 — Several forest habitats and observation sites, sightings variable.
-- Applicable categories: nature 9.6, wildlife 9.6.
+- Applicable categories: nature 9.6, wildlife 9.3.
 - Overall: 92.05/100.
-- High-score challenge: Significance, nature and wildlife 9.6 reflect threatened forest fauna and bai habitat; not credit for other countries' parks or guaranteed encounters.
+- High-score challenge: Significance and nature 9.6 reflect threatened fauna and bai habitat. Wildlife 9.3 recognizes ministry-documented observation at Djangui bai and parrot watching (https://mintoul.gov.cm/visiter/, checked 2026-11-25), but does not transfer sightings from other countries' parks; lower than Taï's habituated primates (9.4) and Okavango (9.9).
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide editorial rating, not independent fact-check.
 - Verification still needed: site-specific access, provisional GPS, remaining peer scores and independent claim-level evidence.
@@ -566,15 +566,17 @@
 ## sight-cm-korup-national-park — Korup National Park — 2026-11-25
 
 - YAML: [source](../../../countries/CM/sights/korup-national-park.yaml)
-- Action: new
+- Action: second-pass correction; prior decision preserved in [verification history](verification-2026-11-25.md)
 - Precise subject: Cameroon CRIKOT Korup park component; secondary representative point; not entire transboundary property.
 - Location check: 5.083333, 8.833333; representative point, exact entrance not verified.
-- Evidence status: **unassessed**
+- Evidence status: **source-linked-unverified**
 - Sources (2026-11-25; identity, scope, location and/or historical visitor context; incomplete claim-level verification):
   - https://whc.unesco.org/en/tentativelists/6451/
   - https://www.keybiodiversityareas.org/en/site/factsheet/6122
   - https://en.wikipedia.org/wiki/Korup_National_Park
-- Missing facts: Ordinary permitted visitor experience or accessible scope insufficiently documented.
+  - https://korupnationalpark.org/visit-the-park/ — park visitor page, accessed 2026-11-25: guided Mana Bridge–Chimpanzee Camp trail, camps, birdwatching, rivers and viewpoints. Advertised activities are not current-access guarantees.
+  - https://apesatlas.iucnapesportal.org/index.php/Korup_National_Park — IUCN APES Atlas, indexed 2026-11-25: historical research and visitor infrastructure, and security limitations since 2017.
+- Missing facts: operating trail condition, permits and encounter rates.
 
 ### Worldwide peer comparisons
 - [Okavango Delta (BW)](../../../countries/BW/sights/okavango-delta.yaml): 9.8/9.9/9.8/9.5/9.8; exceptional wildlife and varied open viewing.
@@ -586,24 +588,26 @@
 - Impact: 8.9 — Mature rainforest landscape.
 - Uniqueness: 9.3 — Rare regional primary forest.
 - Significance: 9.5 — Globally important biodiversity.
-- Experience: null — Ordinary permitted current visit unclear.
-- Depth: null — Accessible routes and habitats unverified.
-- Applicable categories: nature 9.5, wildlife 9.4.
-- Overall: unranked.
-- High-score challenge: Significance and nature 9.5 reflect conservation of regional primary forest and threatened biodiversity; no assumption of access or sightings.
+- Experience: 8.5 — Documented guided forest hikes and camps, less developed than Khao Yai.
+- Depth: 8.8 — Multiple named forest routes, river crossings and viewpoints; no credit for restricted habitats.
+- Applicable categories: nature 9.5, wildlife 8.8.
+- Overall: 90.50/100.
+- High-score challenge: Significance and nature 9.5 reflect primary forest conservation; total 90.50 is near Khao Yai with more distinctive forest but less established visitor experience; wildlife 8.8 reflects uncertain encounters.
 - Approved 10 registry: none.
-- Final decision: Partial assessment retained; no overall score.
+- Final decision: Provisional complete intrinsic rating; no current access or safety guarantee.
 - Verification still needed: site-specific access, provisional GPS, remaining peer scores and independent claim-level evidence.
 
 ## sight-cm-takamanda-national-park — Takamanda National Park — 2026-11-25
 
 - YAML: [source](../../../countries/CM/sights/takamanda-national-park.yaml)
-- Action: new
-- Precise subject: Cameroonian CRIKOT component; nomination coordinate refers to wider property, provisional park reference only.
-- Location check: 5.825, 8.84; representative point, exact entrance not verified.
+- Action: second-pass correction; prior decision preserved in [verification history](verification-2026-11-25.md)
+- Precise subject: Cameroonian CRIKOT component; former forest reserve representative point; not entire CRIKOT or new transboundary biosphere reserve.
+- Location check: 6.1594, 9.3488; named former Takamanda Forest Reserve geographic point, corroborated by nearby IUCN Takamanda biosphere point (6.177757, 9.340774). Previous coordinates duplicated Nigeria's wider CRIKOT reference; not an entrance or verified legal boundary.
 - Evidence status: **unassessed**
 - Sources (2026-11-25; identity, scope, location and/or historical visitor context; incomplete claim-level verification):
   - https://whc.unesco.org/en/tentativelists/6451/
+  - https://geographic.org/geographic_names/name.php?c=cameroon&fid=1359&uni=10709441 — NGA former forest reserve location; accessed 2026-11-25.
+  - https://www.apesatlas.iucnapesportal.org/index.php/Takamanda_Biosphere_Reserve — IUCN confirms national park designation since 2008 and approximate landscape location; accessed 2026-11-25.
 - Missing facts: Ordinary permitted visitor experience or accessible scope insufficiently documented.
 
 ### Worldwide peer comparisons
@@ -618,7 +622,7 @@
 - Significance: 9.4 — Conservation significance.
 - Experience: null — Permitted visit not established.
 - Depth: null — Accessible trails unclear.
-- Applicable categories: nature 9.4, wildlife 9.4.
+- Applicable categories: nature 9.4, wildlife null — observation opportunity unverified.
 - Overall: unranked.
 - High-score challenge: Not applicable.
 - Approved 10 registry: none.
@@ -843,7 +847,40 @@
 - Final decision: Provisional worldwide editorial rating, not independent fact-check.
 - Verification still needed: site-specific access, provisional GPS, remaining peer scores and independent claim-level evidence.
 
+## sight-cm-museum-bamoun-kings — Museum of the Bamoun Kings — 2026-11-25
+
+- YAML: [source](../../../countries/CM/sights/museum-bamoun-kings.yaml)
+- Action: new
+- Precise subject: Museum inaugurated April 2024, including its distinctive symbolic facade and displayed royal collections; excludes historic palace and separate artisan-quarter museum.
+- Location check: 5.73269, 10.90158; secondary named point https://www.maploco.com/top-attractions/countries/cameroon/museum-of-the-bamoun-kings/; adjacent to historic palace, independently reported as such. Representative point, not verified entrance.
+- Evidence status: **source-linked-unverified**
+- Sources (accessed 2026-11-25):
+  - https://www.africanews.com/amp/2024/04/15/cameroon-opens-museum-honouring-one-of-its-oldest-and-most-influential-kingdoms/ — April 2024 inauguration, royal thrones, objects and visitor experience.
+  - https://camd.org.au/museum-of-the-bamoun-kings-opening-2024/ — museum expert Rachel Mariembe's 2024 account of collections and architecture.
+  - https://visitcameroon.com/foumban/things-to-do/ — separate palace and museum visitor itinerary; current admission not guaranteed.
+  - https://www.maploco.com/top-attractions/countries/cameroon/museum-of-the-bamoun-kings/ — named representative coordinates and museum description; regional tourism office link timed out, so its operating hours not independently verified.
+- Missing facts: exact extent of displayed collection, live operations, precise entrance.
+
+### Worldwide peer comparisons
+- [National Museum of Korea (KR)](../../../countries/KR/sights/national-museum-of-korea.yaml): 9.1/9.3/9.4/9.3/9.6; much broader collection and interpretation.
+- [National Museum of Cambodia (KH)](../../../countries/KH/sights/national-museum-cambodia.yaml): 8.8/9.1/9.3/9.1/8.8; comparable strong regional art and heritage, greater national significance and established visit.
+- [Kunsthistorisches Museum (AT)](../../../countries/AT/sights/kunsthistorisches-museum.yaml): 9.2/9.4/9.6/9.4/9.5; greater breadth of internationally significant art.
+- [Morija Museum and Archives (LS)](../../../countries/LS/sights/morija-museum-and-archives.yaml): 6.9/8.0/8.6/7.9/7.5; smaller regional cultural museum.
+
+### Scoring decisions
+- Impact: 8.8 — unusual emblematic architecture and substantial royal art displays.
+- Uniqueness: 9.1 — distinctive Bamoun dynastic objects and visual language.
+- Significance: 9.0 — major living royal heritage, art and written tradition.
+- Experience: 8.8 — documented purpose-built public museum, less established than Cambodian peer.
+- Depth: 8.7 — multiple categories and historical periods; no automatic access to stored objects.
+- Applicable categories: architecture 9.2, history 9.3, culture 9.4.
+- Overall: 89.05/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional distinct museum assessment; does not inherit palace score.
+- Verification still needed: precise location and current exhibition scope.
+
 ## Inventory coverage and backlog
 
-[UNESCO inventory](https://whc.unesco.org/en/statesparties/cm/) lists three inscribed and seventeen tentative properties. All represented at property or component level. Mandara is assessed as one unranked cultural landscape, not sixteen independent visitor attractions; Bafut/Bandjoun represent two of fourteen Grande Case components; Bimbia and Bandjoun represent two of thirteen associated slave-route components. Remaining components and separate Boumba Bek/Nki records, remaining CRIKOT forest reserves, Rhumsiki, additional museums and coast are backlog. Saa coordinate notation and Takamanda representative point require resolution. No exhaustive national inventory or all-component assessment claimed.
+[UNESCO inventory](https://whc.unesco.org/en/statesparties/cm/) lists three inscribed and seventeen tentative properties. All represented at property or component level. Mandara is assessed as one unranked cultural landscape, not sixteen independent visitor attractions; Bafut/Bandjoun represent two of fourteen Grande Case components; Bimbia and Bandjoun represent two of thirteen associated slave-route components. Remaining components and separate Boumba Bek/Nki records, remaining CRIKOT forest reserves, Rhumsiki, additional museums and coast are backlog. Saa coordinate notation remains unresolved. Takamanda representative point corrected using the former forest reserve location; precise legal boundaries still require verification. No exhaustive national inventory or all-component assessment claimed.
 
