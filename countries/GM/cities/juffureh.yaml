@@ -1,0 +1,15 @@
+id: city-gm-juffureh
+name: "Juffureh"
+location:
+  country_code: GM
+  latitude: 13.3380
+  longitude: -16.3830
+scores:
+  impact: 6.6
+  uniqueness: 8.1
+  significance: 8.8
+  experience: 7.6
+  depth: 6.3
+  categories:
+    history: 9.1
+    culture: 8.8

@@ -1,0 +1,16 @@
+id: city-cv-tarrafal-santiago
+name: "Tarrafal (Santiago)"
+location:
+  country_code: CV
+  latitude: 15.2770
+  longitude: -23.7520
+scores:
+  impact: 7.3
+  uniqueness: 7.5
+  significance: 6.8
+  experience: 8.2
+  depth: 7.1
+  categories:
+    culture: 7.9
+    food: 8.0
+    relaxation: 8.2

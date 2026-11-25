@@ -1,0 +1,15 @@
+id: sight-gm-gambia-national-museum
+name: "Gambia National Museum"
+location:
+  country_code: GM
+  latitude: 13.4540
+  longitude: -16.5780
+scores:
+  impact: 6.6
+  uniqueness: 7.8
+  significance: 8.5
+  experience: 7.6
+  depth: 7.0
+  categories:
+    history: 8.9
+    culture: 8.6
