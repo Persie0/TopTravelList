@@ -1,0 +1,15 @@
+id: sight-om-taqah-castle
+name: "Taqah Castle"
+location:
+  country_code: OM
+  latitude: 17.038
+  longitude: 54.398
+scores:
+  impact: 7.2
+  uniqueness: 7.6
+  significance: 7.9
+  experience: 7.7
+  depth: 6.7
+  categories:
+    history: 8.3
+    culture: 8.2

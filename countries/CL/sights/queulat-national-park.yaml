@@ -1,0 +1,16 @@
+id: sight-cl-queulat-national-park
+name: "Queulat National Park"
+location:
+  country_code: CL
+  latitude: -44.4700
+  longitude: -72.4300
+scores:
+  impact: 9.2
+  uniqueness: 9.0
+  significance: 8.6
+  experience: 8.6
+  depth: 8.2
+  categories:
+    nature: 9.5
+    photography: 9.6
+    adventure: 8.9

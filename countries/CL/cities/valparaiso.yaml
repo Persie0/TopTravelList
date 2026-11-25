@@ -1,0 +1,17 @@
+id: city-cl-valparaiso
+name: "Valparaíso"
+location:
+  country_code: CL
+  latitude: -33.0472
+  longitude: -71.6127
+scores:
+  impact: 8.7
+  uniqueness: 9.0
+  significance: 8.9
+  experience: 8.5
+  depth: 8.6
+  categories:
+    architecture: 9.3
+    history: 9.2
+    culture: 9.1
+    photography: 9.3

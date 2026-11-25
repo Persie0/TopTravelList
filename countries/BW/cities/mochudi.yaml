@@ -1,0 +1,15 @@
+id: city-bw-mochudi
+name: "Mochudi"
+location:
+  country_code: BW
+  latitude: -24.3770
+  longitude: 26.1520
+scores:
+  impact: 6.6
+  uniqueness: 7.6
+  significance: 7.7
+  experience: 7.4
+  depth: 6.5
+  categories:
+    culture: 8.2
+    history: 8.3

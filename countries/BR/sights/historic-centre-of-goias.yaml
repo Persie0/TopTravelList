@@ -1,0 +1,16 @@
+id: sight-br-historic-centre-of-goias
+name: "Historic Centre of Goiás"
+location:
+  country_code: BR
+  latitude: -15.9340
+  longitude: -50.1400
+scores:
+  impact: 8.1
+  uniqueness: 8.7
+  significance: 9.1
+  experience: 8.1
+  depth: 7.6
+  categories:
+    architecture: 9.1
+    history: 9.3
+    culture: 8.7

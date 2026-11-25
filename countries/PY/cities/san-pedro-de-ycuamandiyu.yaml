@@ -1,0 +1,15 @@
+id: city-py-san-pedro-de-ycuamandiyu
+name: "San Pedro de Ycuamandiyú"
+location:
+  country_code: PY
+  latitude: -24.0900
+  longitude: -57.0800
+scores:
+  impact: 6.2
+  uniqueness: 6.5
+  significance: 6.6
+  experience: 6.7
+  depth: 6.1
+  categories:
+    culture: 7.2
+    history: 7.0

@@ -1,0 +1,15 @@
+id: city-py-san-juan-bautista
+name: "San Juan Bautista"
+location:
+  country_code: PY
+  latitude: -26.6694
+  longitude: -57.1458
+scores:
+  impact: 6.5
+  uniqueness: 7.0
+  significance: 7.3
+  experience: 7.0
+  depth: 6.3
+  categories:
+    history: 7.8
+    culture: 7.7

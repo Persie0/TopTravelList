@@ -1,0 +1,15 @@
+id: sight-ar-casa-curutchet-le-corbusier
+name: "Casa Curutchet (Le Corbusier)"
+location:
+  country_code: AR
+  latitude: -34.9110
+  longitude: -57.9410
+scores:
+  impact: 7.7
+  uniqueness: 8.8
+  significance: 9.3
+  experience: 7.8
+  depth: 6.5
+  categories:
+    architecture: 9.6
+    history: 8.9

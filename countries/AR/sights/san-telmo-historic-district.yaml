@@ -1,0 +1,17 @@
+id: sight-ar-san-telmo-historic-district
+name: "San Telmo Historic District"
+location:
+  country_code: AR
+  latitude: -34.6210
+  longitude: -58.3710
+scores:
+  impact: 8.4
+  uniqueness: 8.5
+  significance: 8.5
+  experience: 8.8
+  depth: 8.3
+  categories:
+    architecture: 8.9
+    culture: 9.3
+    food: 8.7
+    history: 8.9

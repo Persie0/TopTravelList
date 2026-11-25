@@ -1,0 +1,15 @@
+id: sight-co-amacayacu-national-natural-park
+name: "Amacayacu National Natural Park"
+location:
+  country_code: CO
+  latitude: -3.8000
+  longitude: -70.2500
+scores:
+  impact: null
+  uniqueness: 8.7
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    nature: 9.4
+    wildlife: 9.5

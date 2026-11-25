@@ -1,0 +1,16 @@
+id: sight-bw-savuti-marsh
+name: "Savuti Marsh"
+location:
+  country_code: BW
+  latitude: -18.5500
+  longitude: 24.0667
+scores:
+  impact: 9.1
+  uniqueness: 8.9
+  significance: 8.3
+  experience: 8.9
+  depth: 8.1
+  categories:
+    wildlife: 9.5
+    nature: 9.1
+    photography: 9.3

@@ -1,0 +1,14 @@
+id: sight-cl-monte-verde-archaeological-site
+name: "Monte Verde Archaeological Site"
+location:
+  country_code: CL
+  latitude: -41.5030
+  longitude: -73.2050
+scores:
+  impact: null
+  uniqueness: 9.2
+  significance: 9.7
+  experience: null
+  depth: null
+  categories:
+    history: 9.8

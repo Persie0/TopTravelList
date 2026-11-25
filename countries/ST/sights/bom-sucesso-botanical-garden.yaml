@@ -1,0 +1,15 @@
+id: sight-st-bom-sucesso-botanical-garden
+name: "Bom Sucesso Botanical Garden"
+location:
+  country_code: ST
+  latitude: 0.2880
+  longitude: 6.6020
+scores:
+  impact: 7.5
+  uniqueness: 8.1
+  significance: 8.2
+  experience: 8.0
+  depth: 7.2
+  categories:
+    nature: 8.8
+    wildlife: 8.0

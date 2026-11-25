@@ -1,0 +1,15 @@
+id: city-st-guadalupe
+name: "Guadalupe"
+location:
+  country_code: ST
+  latitude: 0.3790
+  longitude: 6.6380
+scores:
+  impact: 6.3
+  uniqueness: 6.8
+  significance: 6.7
+  experience: 7.0
+  depth: 6.1
+  categories:
+    culture: 7.4
+    food: 7.3

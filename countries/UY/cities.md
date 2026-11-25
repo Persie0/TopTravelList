@@ -2,51 +2,19 @@
 
 # Uruguay (UY) — Cities, towns & villages ranking
 
-**33 ranked** · **0 unassessed** · **33 total** · Worldwide scoring **v2**
+**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
 This is the **complete ranking for this country's available dataset**, using absolute worldwide scores, **not country-relative scores**. Overall scores are out of 100; category scores are out of 10 and shown highest first (the top three are bold). Types are inferred from names, not separately verified.
 
-**Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, or click its GPS coordinates to open **Google Maps**. Locations are approximate representative points, not necessarily entrance coordinates.
+**Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (33)
+## Complete ranked list (0)
 
-| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps |
-| ---: | --- | --- | ---: | --- | --- | --- |
-| 1 | [Montevideo](cities/montevideo.yaml) | City / town | **85.55** | **Culture 9.0**, **Architecture 8.7**, **Food 8.7**, History 8.5, Nightlife 8.5 | 8.5 / 8.4 / 8.6 / 8.7 / 8.8 | [-34.9059, -56.1914](https://www.google.com/maps/search/?api=1&query=-34.9059,-56.1914) |
-| 2 | [Colonia del Sacramento](cities/colonia-del-sacramento.yaml) | City / town | **85.10** | **Architecture 9.0**, **Photography 8.9**, **History 8.8**, Culture 8.6 | 8.5 / 8.8 / 8.5 / 8.6 / 7.7 | [-34.4714, -57.8442](https://www.google.com/maps/search/?api=1&query=-34.4714,-57.8442) |
-| 3 | [Cabo Polonio Village](cities/cabo-polonio-village.yaml) | Village | **79.60** | **Photography 8.8**, **Relaxation 8.2**, **Culture 7.9** | 8.2 / 8.8 / 7.2 / 8.0 / 6.6 | [-34.4047, -53.7815](https://www.google.com/maps/search/?api=1&query=-34.4047,-53.7815) |
-| 4 | [Punta del Este](cities/punta-del-este.yaml) | City / town | **79.30** | **Beaches 8.8**, **Relaxation 8.8**, **Nightlife 8.7**, Food 8.1 | 8.2 / 7.6 / 7.3 / 8.6 / 8.2 | [-34.9625, -54.9511](https://www.google.com/maps/search/?api=1&query=-34.9625,-54.9511) |
-| 5 | [Punta del Diablo](cities/punta-del-diablo.yaml) | City / town | **77.30** | **Beaches 8.6**, **Relaxation 8.5**, **Photography 8.3** | 7.9 / 8.1 / 6.8 / 8.3 / 7.3 | [-34.0446, -53.5387](https://www.google.com/maps/search/?api=1&query=-34.0446,-53.5387) |
-| 6 | [Piriapolis](cities/piriapolis.yaml) | City / town | **76.35** | **Relaxation 8.4**, **Beaches 8.2**, **Architecture 7.6** | 7.7 / 7.6 / 7.3 / 8.1 / 7.5 | [-34.8628, -55.2747](https://www.google.com/maps/search/?api=1&query=-34.8628,-55.2747) |
-| 7 | [Fray Bentos](cities/fray-bentos.yaml) | City / town | **74.80** | **History 8.2**, **Architecture 7.7**, **Culture 7.6** | 7.3 / 7.7 / 7.8 / 7.5 / 6.8 | [-33.1165, -58.3108](https://www.google.com/maps/search/?api=1&query=-33.1165,-58.3108) |
-| 8 | [Jose Ignacio](cities/jose-ignacio.yaml) | City / town | **73.90** | **Relaxation 8.5**, **Beaches 8.4**, **Food 8.3** | 7.7 / 7.5 / 6.4 / 8.3 / 6.8 | [-34.8398, -54.6381](https://www.google.com/maps/search/?api=1&query=-34.8398,-54.6381) |
-| 9 | [Carmelo](cities/carmelo.yaml) | City / town | **73.70** | **Food 8.0**, **Relaxation 8.0**, **History 7.6** | 7.3 / 7.4 / 7.3 / 7.8 / 7.0 | [-34.0002, -58.284](https://www.google.com/maps/search/?api=1&query=-34.0002,-58.284) |
-| 10 | [La Paloma](cities/la-paloma.yaml) | City / town | **73.30** | **Beaches 8.4**, **Relaxation 8.2**, **Food 7.6** | 7.5 / 7.2 / 6.7 / 8.0 / 7.4 | [-34.6628, -54.1645](https://www.google.com/maps/search/?api=1&query=-34.6628,-54.1645) |
-| 11 | [Salto](cities/salto.yaml) | City / town | **73.25** | **Culture 7.7**, **History 7.7**, **Food 7.6** | 7.2 / 7.1 / 7.5 / 7.6 / 7.5 | [-31.388, -57.961](https://www.google.com/maps/search/?api=1&query=-31.388,-57.961) |
-| 12 | [Barra de Valizas](cities/barra-de-valizas.yaml) | City / town | **72.95** | **Relaxation 8.3**, **Beaches 8.0**, **Photography 8.0** | 7.4 / 8.0 / 6.2 / 7.9 / 6.5 | [-34.3377, -53.794](https://www.google.com/maps/search/?api=1&query=-34.3377,-53.794) |
-| 13 | [Nueva Helvecia](cities/nueva-helvecia.yaml) | City / town | **72.60** | **Culture 8.1**, **Food 8.0**, **History 7.6** | 7.0 / 7.7 / 7.3 / 7.5 / 6.5 | [-34.3, -57.2333](https://www.google.com/maps/search/?api=1&query=-34.3,-57.2333) |
-| 14 | [La Pedrera](cities/la-pedrera.yaml) | City / town | **72.45** | **Beaches 8.3**, **Relaxation 8.2**, **Photography 7.9** | 7.6 / 7.4 / 6.3 / 7.9 / 6.7 | [-34.5897, -54.1245](https://www.google.com/maps/search/?api=1&query=-34.5897,-54.1245) |
-| 14 | [Rivera](cities/rivera.yaml) | City / town | **72.45** | **Culture 8.3**, **Food 7.6** | 6.8 / 8.0 / 6.9 / 7.5 / 7.0 | [-30.9053, -55.5508](https://www.google.com/maps/search/?api=1&query=-30.9053,-55.5508) |
-| 16 | [Atlantida](cities/atlantida.yaml) | City / town | **71.80** | **Relaxation 8.1**, **Beaches 8.0**, **Architecture 7.6** | 7.2 / 7.3 / 6.7 / 7.7 / 7.0 | [-34.7714, -55.7584](https://www.google.com/maps/search/?api=1&query=-34.7714,-55.7584) |
-| 17 | [Tacuarembo](cities/tacuarembo.yaml) | City / town | **71.70** | **Culture 8.1**, **History 7.7** | 6.9 / 7.3 / 7.4 / 7.3 / 7.0 | [-31.7126, -55.984](https://www.google.com/maps/search/?api=1&query=-31.7126,-55.984) |
-| 18 | [Mercedes](cities/mercedes.yaml) | City / town | **71.55** | **Relaxation 7.7**, **Photography 7.5**, **Culture 7.4** | 7.1 / 7.0 / 7.2 / 7.5 / 7.1 | [-33.2524, -58.0305](https://www.google.com/maps/search/?api=1&query=-33.2524,-58.0305) |
-| 19 | [Paysandu](cities/paysandu.yaml) | City / town | **71.20** | **History 7.9**, **Culture 7.4**, **Food 7.3** | 6.9 / 6.9 / 7.5 / 7.3 / 7.3 | [-32.3214, -58.0756](https://www.google.com/maps/search/?api=1&query=-32.3214,-58.0756) |
-| 20 | [Minas](cities/minas.yaml) | City / town | **70.55** | **Food 7.5**, **Culture 7.4**, **Photography 7.4** | 7.0 / 7.1 / 6.9 / 7.4 / 6.9 | [-34.3759, -55.2377](https://www.google.com/maps/search/?api=1&query=-34.3759,-55.2377) |
-| 21 | [San Javier](cities/san-javier.yaml) | City / town | **70.20** | **Culture 8.2**, **History 7.6** | 6.6 / 7.7 / 7.2 / 7.1 / 6.1 | [-32.6655, -58.1333](https://www.google.com/maps/search/?api=1&query=-32.6655,-58.1333) |
-| 22 | [Maldonado](cities/maldonado.yaml) | City / town | **70.15** | **History 7.7**, **Culture 7.4**, **Food 7.4** | 6.8 / 6.8 / 7.3 / 7.3 / 7.2 | [-34.909, -54.958](https://www.google.com/maps/search/?api=1&query=-34.909,-54.958) |
-| 23 | [Chuy](cities/chuy.yaml) | City / town | **69.05** | **Culture 7.8**, **Food 7.3** | 6.5 / 7.6 / 6.5 / 7.3 / 6.6 | [-33.697, -53.456](https://www.google.com/maps/search/?api=1&query=-33.697,-53.456) |
-| 24 | [Melo](cities/melo.yaml) | City / town | **68.95** | **History 7.6**, **Culture 7.4** | 6.7 / 6.8 / 7.2 / 7.1 / 6.8 | [-32.3703, -54.1675](https://www.google.com/maps/search/?api=1&query=-32.3703,-54.1675) |
-| 25 | [San Jose de Mayo](cities/san-jose-de-mayo.yaml) | City / town | **68.60** | **Architecture 7.5**, **History 7.5**, **Culture 7.3** | 6.7 / 6.7 / 7.2 / 7.1 / 6.7 | [-34.3375, -56.7136](https://www.google.com/maps/search/?api=1&query=-34.3375,-56.7136) |
-| 26 | [Florida](cities/florida.yaml) | City / town | **67.90** | **History 7.9**, **Culture 7.4** | 6.5 / 6.7 / 7.4 / 6.9 / 6.5 | [-34.0956, -56.2144](https://www.google.com/maps/search/?api=1&query=-34.0956,-56.2144) |
-| 27 | [Rocha](cities/rocha.yaml) | City / town | **67.60** | **Culture 7.3**, **Food 7.2**, **History 7.2** | 6.6 / 6.7 / 6.9 / 7.1 / 6.6 | [-34.4833, -54.3333](https://www.google.com/maps/search/?api=1&query=-34.4833,-54.3333) |
-| 28 | [Durazno](cities/durazno.yaml) | City / town | **67.50** | **History 7.4**, **Culture 7.3** | 6.5 / 6.7 / 7.0 / 7.1 / 6.6 | [-33.3806, -56.5233](https://www.google.com/maps/search/?api=1&query=-33.3806,-56.5233) |
-| 29 | [Treinta y Tres](cities/treinta-y-tres.yaml) | City / town | **66.80** | **History 7.2**, **Culture 7.1** | 6.5 / 6.6 / 6.9 / 7.0 / 6.5 | [-33.2333, -54.3833](https://www.google.com/maps/search/?api=1&query=-33.2333,-54.3833) |
-| 30 | [Artigas](cities/artigas.yaml) | City / town | **66.70** | **Culture 7.3**, **History 6.9** | 6.4 / 6.9 / 6.7 / 6.9 / 6.5 | [-30.4, -56.4667](https://www.google.com/maps/search/?api=1&query=-30.4,-56.4667) |
-| 31 | [Canelones](cities/canelones.yaml) | City / town | **65.85** | **History 7.3**, **Culture 7.1** | 6.4 / 6.5 / 6.9 / 6.8 / 6.4 | [-34.5228, -56.2778](https://www.google.com/maps/search/?api=1&query=-34.5228,-56.2778) |
-| 32 | [Trinidad](cities/trinidad.yaml) | City / town | **65.50** | **Culture 7.1**, **History 6.9** | 6.4 / 6.5 / 6.7 / 6.9 / 6.3 | [-33.5165, -56.8996](https://www.google.com/maps/search/?api=1&query=-33.5165,-56.8996) |
-| 33 | [Bella Union](cities/bella-union.yaml) | City / town | **65.40** | **Culture 7.2**, **Food 7.0** | 6.3 / 6.8 / 6.5 / 6.8 / 6.3 | [-30.2597, -57.5992](https://www.google.com/maps/search/?api=1&query=-30.2597,-57.5992) |
+No cities, towns & villages have been assessed for **Uruguay** yet.
+
+Add destination YAML files in [cities/](cities/), then regenerate the overview files.
 
 ---
 

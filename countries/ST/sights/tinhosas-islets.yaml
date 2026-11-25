@@ -1,0 +1,15 @@
+id: sight-st-tinhosas-islets
+name: "Tinhosas Islets"
+location:
+  country_code: ST
+  latitude: 1.3830
+  longitude: 7.2900
+scores:
+  impact: null
+  uniqueness: null
+  significance: 8.5
+  experience: null
+  depth: null
+  categories:
+    nature: 8.9
+    wildlife: 9.4

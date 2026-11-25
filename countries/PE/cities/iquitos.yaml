@@ -1,0 +1,16 @@
+id: city-pe-iquitos
+name: "Iquitos"
+location:
+  country_code: PE
+  latitude: -3.7437
+  longitude: -73.2516
+scores:
+  impact: 8.0
+  uniqueness: 8.5
+  significance: 7.8
+  experience: 8.1
+  depth: 8.0
+  categories:
+    culture: 8.8
+    history: 8.3
+    food: 8.4

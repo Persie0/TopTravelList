@@ -1,0 +1,17 @@
+id: city-mw-blantyre
+name: "Blantyre"
+location:
+  country_code: MW
+  latitude: -15.7861
+  longitude: 35.0058
+scores:
+  impact: 7.3
+  uniqueness: 7.9
+  significance: 8.3
+  experience: 7.9
+  depth: 8.0
+  categories:
+    culture: 8.5
+    history: 8.7
+    architecture: 8.1
+    food: 8.2

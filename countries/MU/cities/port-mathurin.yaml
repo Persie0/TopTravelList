@@ -1,0 +1,16 @@
+id: city-mu-port-mathurin
+name: "Port Mathurin"
+location:
+  country_code: MU
+  latitude: -19.6833
+  longitude: 63.4167
+scores:
+  impact: 7.5
+  uniqueness: 8.0
+  significance: 7.4
+  experience: 8.0
+  depth: 7.1
+  categories:
+    culture: 8.5
+    food: 8.2
+    history: 7.6

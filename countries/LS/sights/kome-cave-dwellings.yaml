@@ -1,0 +1,17 @@
+id: sight-ls-kome-cave-dwellings
+name: "Kome Cave Dwellings"
+location:
+  country_code: LS
+  latitude: -29.2030
+  longitude: 27.8690
+scores:
+  impact: 8.0
+  uniqueness: 8.8
+  significance: 8.4
+  experience: 8.1
+  depth: 6.9
+  categories:
+    history: 8.9
+    culture: 9.0
+    architecture: 8.5
+    photography: 8.4

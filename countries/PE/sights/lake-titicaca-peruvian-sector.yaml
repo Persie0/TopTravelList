@@ -1,0 +1,16 @@
+id: sight-pe-lake-titicaca-peruvian-sector
+name: "Lake Titicaca (Peruvian sector)"
+location:
+  country_code: PE
+  latitude: -15.8300
+  longitude: -69.8500
+scores:
+  impact: 9.2
+  uniqueness: 9.2
+  significance: 9.3
+  experience: 8.7
+  depth: 9.1
+  categories:
+    nature: 9.4
+    culture: 9.4
+    photography: 9.5
