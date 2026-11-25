@@ -809,3 +809,114 @@
 - Final decision: provisional worldwide ranking on documented visitor scope; not independently verified.
 - Earlier decision: earlier entry for this ID, unranked.
 - Verification still needed: 9.5 significance and wildlife reflect globally significant isolated ecosystems. Approved landing sites only, no unrestricted access or guaranteed departure.
+
+### sight-nz-auckland-volcanic-fields — Auckland Volcanic Fields — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/NZ/sights/auckland-volcanic-fields.yaml)
+- Action: rescore
+- Precise subject: Tentative multi-site landscape. Credit only public routes; no summit vehicle access or permission to enter sensitive craters assumed.
+- Location check: prior representative point retained; independent coordinate corroboration pending.
+- Evidence status: source-linked-unverified
+- Checked factual reference excerpts (2026-11-25):
+  - UNESCO tentative listing identifies Maungawhau, Maungakiekie and other cones — https://whc.unesco.org/en/tentativelists/5120
+  - Tūpuna Maunga Authority describes boardwalk, ancestral heritage and visitor management — https://maunga.nz/maunga/maungawhau
+  - Authority describes archaeological scale and motor vehicle restrictions at Maungakiekie — https://maunga.nz/maunga/maungakiekie
+- Missing or uncertain facts: Tentative multi-site landscape. Credit only public routes; no summit vehicle access or permission to enter sensitive craters assumed.
+
+#### Worldwide peer comparisons
+- Tongariro (NZ): more dramatic volcanic landscape
+- Vesuvius (Italy): more iconic single volcano
+- Diamond Head (USA): more concentrated single crater
+- Beppu (Japan): different urban geothermal visitor setting
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | 8.1 | 8.1 | Multiple volcanic cones with prominent craters and city views |
+| Uniqueness | 8.7 | 8.7 | Distinctive monogenetic volcanic field interwoven with living Māori culture |
+| Significance | 8.7 | 8.7 | Geological and ancestral heritage across multiple sites |
+| Experience | null | 8.4 | Documented walking and boardwalk access at significant maunga |
+| Depth | null | 8.5 | Multiple separate cones and archaeological landscapes |
+
+- Applicable category scores: nature: 8.7, culture: 8.8 (unchanged).
+- Computed worldwide overall: 84.55/100
+- High-score challenge: no 9.5+ field or 90+ total introduced.
+- Approved 10 registry: none.
+- Final decision: provisional worldwide ranking supported by documented ordinary visitor scope; not independently verified.
+- Earlier decision: prior entry for this ID, unranked.
+- Verification still needed: Tentative multi-site landscape. Credit only public routes; no summit vehicle access or permission to enter sensitive craters assumed.
+
+### sight-nz-fiordland-waters-seabed — Waters and seabed of Fiordland (Te Moana O Atawhenua) — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/NZ/sights/fiordland-waters-seabed.yaml)
+- Action: rescore
+- Precise subject: Tentative marine property. Exclude land trails and closed underwater observatory. Specialist authorized visits only; exact representative point still needs corroboration.
+- Location check: prior representative point retained; independent coordinate corroboration pending.
+- Evidence status: source-linked-unverified
+- Checked factual reference excerpts (2026-11-25):
+  - DOC confirms ten marine reserves and charter/diving opportunities — https://www.doc.govt.nz/parks-and-recreation/places-to-go/fiordland/places/fiordland-marine-reserves/
+  - DOC identifies Piopiotahi black coral and rock-wall habitats — https://www.doc.govt.nz/piopiotahi-marine-reserve
+  - DOC describes Te Awaatu Channel marine habitats — https://www.doc.govt.nz/parks-and-recreation/places-to-go/fiordland/places/fiordland-marine-reserves/fiordland-marine-reserves-a-z/te-awaatu-channel-the-gut/
+- Missing or uncertain facts: Tentative marine property. Exclude land trails and closed underwater observatory. Specialist authorized visits only; exact representative point still needs corroboration.
+
+#### Worldwide peer comparisons
+- Great Barrier Reef (Australia): much greater tropical reef diversity and scale
+- Raja Ampat (Indonesia): greater coral reef species richness
+- Tubbataha (Philippines): different open-ocean reef ecosystem
+- Milford Sound (NZ): above-water scenery, distinct scope
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | 8.7 | 8.7 | Striking underwater rock walls and fjord ecosystems |
+| Uniqueness | 9.0 | 9.0 | Unusual shallow-water black coral in stratified fjord waters |
+| Significance | 9.1 | 9.1 | Major marine biodiversity and conservation values |
+| Experience | null | 8.6 | Documented diving and snorkeling in multiple reserves |
+| Depth | null | 8.8 | Multiple distinct marine reserve habitats, not terrestrial park walks |
+
+- Applicable category scores: nature: 9.2, wildlife: 9.1 (unchanged).
+- Computed worldwide overall: 88.50/100
+- High-score challenge: no 9.5+ field or 90+ total introduced.
+- Approved 10 registry: none.
+- Final decision: provisional worldwide ranking supported by documented ordinary visitor scope; not independently verified.
+- Earlier decision: prior entry for this ID, unranked.
+- Verification still needed: Tentative marine property. Exclude land trails and closed underwater observatory. Specialist authorized visits only; exact representative point still needs corroboration.
+
+### sight-nz-kahurangi-farewell-spit-canaan — Kahurangi National Park, Farewell Spit and Canaan karst system — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/NZ/sights/kahurangi-farewell-spit-canaan.yaml)
+- Action: rescore
+- Precise subject: Tentative property. Score documented routes across components; no Harwoods Hole visit credit, no contact with sacred springs, licensed spit tour access only.
+- Location check: prior representative point retained; independent coordinate corroboration pending.
+- Evidence status: source-linked-unverified
+- Checked factual reference excerpts (2026-11-25):
+  - UNESCO tentative listing includes Kahurangi, Farewell Spit, springs and Canaan karst — https://whc.unesco.org/en/tentativelists/5122/
+  - DOC lists guided walks in Kahurangi — https://www.doc.govt.nz/kahurangi
+  - DOC identifies licensed spit tours and access restrictions — https://www.doc.govt.nz/parks-and-recreation/places-to-go/nelson-tasman/places/farewell-spit-and-puponga-farm-park/
+  - DOC lists springs walk — https://www.doc.govt.nz/parks-and-recreation/places-to-go/nelson-tasman/places/takaka-area/te-waikoropupu-springs/
+  - DOC lists Canaan tracks and campsite — https://www.doc.govt.nz/parks-and-recreation/places-to-go/nelson-tasman/places/canaan-downs-scenic-reserve/
+  - DOC confirms Harwoods Hole track no longer maintained or promoted — https://www.doc.govt.nz/parks-and-recreation/places-to-go/nelson-tasman/places/canaan-downs-scenic-reserve/harwoods-hole-track-no-longer-marked-or-maintained/
+- Missing or uncertain facts: Tentative property. Score documented routes across components; no Harwoods Hole visit credit, no contact with sacred springs, licensed spit tour access only.
+
+#### Worldwide peer comparisons
+- Te Wāhipounamu (NZ): greater glacial and alpine landscape scale
+- Gunung Mulu (Malaysia): stronger documented cave spectacle
+- Taman Negara (Malaysia): larger tropical forest experiences
+- Abel Tasman (NZ): more focused coastline visitor experience
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | 8.8 | 8.8 | Varied mountains, coastal spit and karst terrain |
+| Uniqueness | 8.9 | 8.9 | Unusual combined forest, coastal and karst ecosystems |
+| Significance | 9.0 | 9.0 | Major geological and biological conservation values |
+| Experience | null | 8.5 | Documented walks, permitted guided spit tours and springs viewing |
+| Depth | null | 9.0 | Multiple distinct visitor landscapes and long-distance routes |
+
+- Applicable category scores: nature: 9.1, wildlife: 8.9 (unchanged).
+- Computed worldwide overall: 88.40/100
+- High-score challenge: no 9.5+ field or 90+ total introduced.
+- Approved 10 registry: none.
+- Final decision: provisional worldwide ranking supported by documented ordinary visitor scope; not independently verified.
+- Earlier decision: prior entry for this ID, unranked.
+- Verification still needed: Tentative property. Score documented routes across components; no Harwoods Hole visit credit, no contact with sacred springs, licensed spit tour access only.
