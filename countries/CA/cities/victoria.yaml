@@ -1,0 +1,16 @@
+id: city-ca-victoria
+name: "Victoria"
+location:
+  country_code: CA
+  latitude: 48.4284
+  longitude: -123.3656
+scores:
+  impact: 8.2
+  uniqueness: 8.1
+  significance: 8.0
+  experience: 8.5
+  depth: 8.2
+  categories:
+    architecture: 8.7
+    history: 8.5
+    relaxation: 8.7

@@ -1,0 +1,16 @@
+id: sight-ir-lut-desert
+name: "Lut Desert"
+location:
+  country_code: IR
+  latitude: 30.6
+  longitude: 58.4
+scores:
+  impact: 9.3
+  uniqueness: 9.3
+  significance: 9.1
+  experience: null
+  depth: null
+  categories:
+    nature: 9.4
+    photography: 9.4
+    adventure: 9.1

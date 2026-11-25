@@ -1,0 +1,16 @@
+id: sight-do-saona-island
+name: "Saona Island"
+location:
+  country_code: DO
+  latitude: 18.153
+  longitude: -68.727
+scores:
+  impact: 8.8
+  uniqueness: 8.3
+  significance: 7.7
+  experience: 8.9
+  depth: 8.1
+  categories:
+    beaches: 9.3
+    nature: 8.8
+    relaxation: 9.1

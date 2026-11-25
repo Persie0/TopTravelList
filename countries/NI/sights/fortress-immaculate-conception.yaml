@@ -1,0 +1,16 @@
+id: sight-ni-fortress-immaculate-conception
+name: "Fortress of the Immaculate Conception"
+location:
+  country_code: NI
+  latitude: 11.026
+  longitude: -84.397
+scores:
+  impact: 8.2
+  uniqueness: 8.5
+  significance: 8.8
+  experience: 8.3
+  depth: 7.7
+  categories:
+    history: 9.1
+    architecture: 8.6
+    photography: 8.8

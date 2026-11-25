@@ -1,0 +1,16 @@
+id: city-gt-panajachel
+name: "Panajachel"
+location:
+  country_code: GT
+  latitude: 14.744
+  longitude: -91.158
+scores:
+  impact: 7.7
+  uniqueness: 7.6
+  significance: 6.8
+  experience: 8.2
+  depth: 7.1
+  categories:
+    culture: 8.2
+    food: 8.4
+    photography: 8.7

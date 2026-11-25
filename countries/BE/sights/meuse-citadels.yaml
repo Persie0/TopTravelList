@@ -1,0 +1,15 @@
+id: sight-be-meuse-citadels
+name: "Meuse citadels (tentative series)"
+location:
+  country_code: BE
+  latitude: 50.26
+  longitude: 4.913
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 8.9
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.0
+    history: 9.1

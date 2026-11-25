@@ -1,0 +1,15 @@
+id: sight-gb-birkenhead-park
+name: "Birkenhead Park (tentative property)"
+location:
+  country_code: GB
+  latitude: 53.393
+  longitude: -3.042
+scores:
+  impact: 8.0
+  uniqueness: 8.5
+  significance: 9.0
+  experience: 8.3
+  depth: 8.0
+  categories:
+    nature: 8.5
+    history: 9.1

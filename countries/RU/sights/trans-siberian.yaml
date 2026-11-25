@@ -1,0 +1,15 @@
+id: sight-ru-trans-siberian
+name: "Trans-Siberian Railway (Moscow–Vladivostok passenger route)"
+location:
+  country_code: RU
+  latitude: 56
+  longitude: 92.9
+scores:
+  impact: 8.6
+  uniqueness: 9.0
+  significance: 8.8
+  experience: null
+  depth: null
+  categories:
+    history: 9.1
+    photography: 8.7

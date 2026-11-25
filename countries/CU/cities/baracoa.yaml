@@ -1,0 +1,16 @@
+id: city-cu-baracoa
+name: "Baracoa"
+location:
+  country_code: CU
+  latitude: 20.348
+  longitude: -74.495
+scores:
+  impact: 7.9
+  uniqueness: 8.4
+  significance: 8.2
+  experience: 8.1
+  depth: 7.5
+  categories:
+    culture: 8.8
+    food: 8.6
+    history: 8.6

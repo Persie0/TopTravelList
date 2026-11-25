@@ -1,0 +1,15 @@
+id: sight-vc-rock-art-of-st-vincent-and-the-grenadines-tentative-aggregate
+name: "Rock Art of St Vincent and the Grenadines (tentative aggregate)"
+location:
+  country_code: VC
+  latitude: 13.22
+  longitude: -61.25
+scores:
+  impact: null
+  uniqueness: null
+  significance: 8.9
+  experience: null
+  depth: null
+  categories:
+    history: 9.3
+    culture: 9.1

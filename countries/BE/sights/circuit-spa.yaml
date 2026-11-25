@@ -1,0 +1,15 @@
+id: sight-be-circuit-spa
+name: "Spa-Francorchamps circuit visitor experience"
+location:
+  country_code: BE
+  latitude: 50.438
+  longitude: 5.971
+scores:
+  impact: 8.3
+  uniqueness: 8.7
+  significance: 8.5
+  experience: 8.5
+  depth: 7.9
+  categories:
+    culture: 8.8
+    adventure: 8.6

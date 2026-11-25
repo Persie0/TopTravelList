@@ -1,0 +1,16 @@
+id: sight-dm-waitukubuli-sea-trail
+name: "Waitukubuli Sea Trail"
+location:
+  country_code: DM
+  latitude: 15.390
+  longitude: -61.435
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 7.2
+  experience: 8.7
+  depth: 8.9
+  categories:
+    adventure: 9.4
+    nature: 9.0
+    photography: 9.1

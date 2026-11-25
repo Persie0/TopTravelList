@@ -1,0 +1,16 @@
+id: sight-fi-kvarken-archipelago
+name: "Kvarken Archipelago (Finnish World Heritage section)"
+location:
+  country_code: FI
+  latitude: 63.25
+  longitude: 21.3
+scores:
+  impact: 8.7
+  uniqueness: 9.3
+  significance: 9.3
+  experience: 8.7
+  depth: 9.0
+  categories:
+    nature: 9.4
+    wildlife: 8.8
+    photography: 9.1

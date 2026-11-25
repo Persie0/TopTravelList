@@ -1,0 +1,16 @@
+id: sight-ca-gros-morne-national-park
+name: "Gros Morne National Park"
+location:
+  country_code: CA
+  latitude: 49.60
+  longitude: -57.85
+scores:
+  impact: 9.2
+  uniqueness: 9.2
+  significance: 9.3
+  experience: 8.9
+  depth: 9.0
+  categories:
+    nature: 9.4
+    photography: 9.4
+    adventure: 9.2

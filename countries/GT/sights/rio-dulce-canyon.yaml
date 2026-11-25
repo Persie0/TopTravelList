@@ -1,0 +1,16 @@
+id: sight-gt-rio-dulce-canyon
+name: "Río Dulce Canyon"
+location:
+  country_code: GT
+  latitude: 15.77
+  longitude: -88.83
+scores:
+  impact: 8.6
+  uniqueness: 8.5
+  significance: 8.0
+  experience: 8.7
+  depth: 8.2
+  categories:
+    nature: 9.1
+    photography: 9.0
+    wildlife: 8.7

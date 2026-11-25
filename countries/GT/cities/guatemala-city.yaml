@@ -1,0 +1,16 @@
+id: city-gt-guatemala-city
+name: "Guatemala City"
+location:
+  country_code: GT
+  latitude: 14.634
+  longitude: -90.507
+scores:
+  impact: 7.7
+  uniqueness: 8.0
+  significance: 8.4
+  experience: 7.8
+  depth: 8.5
+  categories:
+    culture: 8.8
+    history: 8.7
+    food: 8.5

@@ -1,0 +1,15 @@
+id: sight-ca-miguasha-national-park
+name: "Miguasha National Park"
+location:
+  country_code: CA
+  latitude: 48.108
+  longitude: -66.352
+scores:
+  impact: 7.5
+  uniqueness: 8.8
+  significance: 9.2
+  experience: 8.0
+  depth: 7.5
+  categories:
+    nature: 8.8
+    history: 8.8

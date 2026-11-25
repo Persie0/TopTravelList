@@ -1,0 +1,17 @@
+id: city-be-ghent
+name: "Ghent (Gent)"
+location:
+  country_code: BE
+  latitude: 51.0543
+  longitude: 3.7174
+scores:
+  impact: 9.2
+  uniqueness: 9.1
+  significance: 9.1
+  experience: 9.2
+  depth: 9.1
+  categories:
+    architecture: 9.4
+    history: 9.3
+    culture: 9.2
+    photography: 9.3

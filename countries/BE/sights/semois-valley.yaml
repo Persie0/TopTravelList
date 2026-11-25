@@ -1,0 +1,16 @@
+id: sight-be-semois-valley
+name: "Semois Valley National Park"
+location:
+  country_code: BE
+  latitude: 49.85
+  longitude: 5.1
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 8.5
+  experience: 8.8
+  depth: 8.9
+  categories:
+    nature: 9.2
+    photography: 9.1
+    adventure: 8.8

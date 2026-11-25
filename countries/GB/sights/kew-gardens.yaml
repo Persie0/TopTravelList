@@ -1,0 +1,16 @@
+id: sight-gb-kew-gardens
+name: "Royal Botanic Gardens, Kew"
+location:
+  country_code: GB
+  latitude: 51.478
+  longitude: -0.295
+scores:
+  impact: 8.9
+  uniqueness: 9.1
+  significance: 9.4
+  experience: 9.2
+  depth: 9.3
+  categories:
+    nature: 9.3
+    history: 9.2
+    photography: 9.1

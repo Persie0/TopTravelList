@@ -1,0 +1,16 @@
+id: sight-cu-el-vedado
+name: "El Vedado Garden City"
+location:
+  country_code: CU
+  latitude: 23.138
+  longitude: -82.403
+scores:
+  impact: 8.0
+  uniqueness: 8.5
+  significance: 8.4
+  experience: 8.1
+  depth: 8.4
+  categories:
+    architecture: 9.0
+    history: 8.7
+    culture: 8.5

@@ -1,0 +1,15 @@
+id: sight-bb-rock-hall-freedom-monument
+name: "Rock Hall Freedom Monument"
+location:
+  country_code: BB
+  latitude: 13.165
+  longitude: -59.602
+scores:
+  impact: 6.5
+  uniqueness: 8.0
+  significance: 8.8
+  experience: 7.5
+  depth: 5.7
+  categories:
+    history: 9.2
+    culture: 8.8

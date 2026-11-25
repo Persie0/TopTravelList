@@ -1,0 +1,14 @@
+id: sight-ae-bidaa-bint-saud-archaeological-site
+name: "Bidaa Bint Saud Archaeological Site"
+location:
+  country_code: AE
+  latitude: 24.382253
+  longitude: 55.71565
+scores:
+  impact: null
+  uniqueness: 8.5
+  significance: 9.0
+  experience: null
+  depth: null
+  categories:
+    history: 9.2

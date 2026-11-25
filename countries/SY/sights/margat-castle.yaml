@@ -1,0 +1,15 @@
+id: sight-sy-margat-castle
+name: "Margat Castle (Qalaat al-Marqab)"
+location:
+  country_code: SY
+  latitude: 35.15
+  longitude: 35.95
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 8.8
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.0
+    history: 9.0

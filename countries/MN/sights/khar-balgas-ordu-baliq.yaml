@@ -1,0 +1,15 @@
+id: sight-mn-khar-balgas-ordu-baliq
+name: "Khar Balgas (Ordu-Baliq)"
+location:
+  country_code: MN
+  latitude: 47.43
+  longitude: 102.65
+scores:
+  impact: 7.8
+  uniqueness: 8.5
+  significance: 9.1
+  experience: 7.7
+  depth: 7.6
+  categories:
+    history: 9.3
+    photography: 7.9

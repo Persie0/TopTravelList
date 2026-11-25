@@ -1,0 +1,14 @@
+id: sight-sy-raqqa-rafiqa
+name: "Raqqa-Rafiqa Abbasid City"
+location:
+  country_code: SY
+  latitude: 35.95
+  longitude: 39.01
+scores:
+  impact: null
+  uniqueness: 8.8
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    history: 9.3

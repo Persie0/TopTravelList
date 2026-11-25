@@ -1,0 +1,16 @@
+id: city-cy-lefkara
+name: "Pano Lefkara"
+location:
+  country_code: CY
+  latitude: 34.867
+  longitude: 33.305
+scores:
+  impact: 8.0
+  uniqueness: 8.3
+  significance: 8.1
+  experience: 8.1
+  depth: 7.3
+  categories:
+    architecture: 8.4
+    culture: 8.7
+    photography: 8.5

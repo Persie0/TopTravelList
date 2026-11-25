@@ -1,0 +1,16 @@
+id: city-gb-st-ives
+name: "St Ives"
+location:
+  country_code: GB
+  latitude: 50.213
+  longitude: -5.48
+scores:
+  impact: 8.5
+  uniqueness: 8.4
+  significance: 8.0
+  experience: 8.8
+  depth: 7.9
+  categories:
+    culture: 8.9
+    beaches: 8.9
+    photography: 8.9

@@ -2,7 +2,7 @@
 
 # Bulgaria (BG) — Sights & attractions ranking
 
-**42 ranked** · **4 unassessed** · **46 total** · Worldwide scoring **v2**
+**43 ranked** · **3 unassessed** · **46 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,14 +10,14 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (42)
+## Complete ranked list (43)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
 | 1 | [Rila Monastery](sights/rila-monastery.yaml) | Religious site | **92.40** | **Architecture 9.5**, **Culture 9.4**, **History 9.4**, Photography 9.4 | 9.3 / 9.3 / 9.4 / 9.1 / 8.8 | [42.133, 23.34](https://www.google.com/maps/search/?api=1&query=42.133,23.34) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Rila%20Monastery%2C%20Bulgaria) |
 | 2 | [Pirin National Park](sights/pirin-national-park.yaml) | Park / reserve | **91.95** | **Nature 9.5**, **Adventure 9.4**, **Photography 9.4** | 9.3 / 9.1 / 9.1 / 9.2 / 9.3 | [41.75, 23.43](https://www.google.com/maps/search/?api=1&query=41.75,23.43) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Pirin%20National%20Park%2C%20Bulgaria) |
 | 3 | [Rila National Park](sights/rila-national-park.yaml) | Park / reserve | **91.30** | **Nature 9.4**, **Photography 9.4**, **Adventure 9.3** | 9.3 / 9.0 / 8.9 / 9.2 / 9.3 | [42.17, 23.55](https://www.google.com/maps/search/?api=1&query=42.17,23.55) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Rila%20National%20Park%2C%20Bulgaria) |
-| 4 | [Belogradchik Rocks](sights/belogradchik-rocks.yaml) | Attraction | **91.05** | **Photography 9.5**, **Nature 9.4**, **Adventure 8.8** | 9.3 / 9.3 / 8.8 / 9.0 / 8.8 | [43.61, 22.68](https://www.google.com/maps/search/?api=1&query=43.61,22.68) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Belogradchik%20Rocks%2C%20Bulgaria) |
+| 4 | [Belogradchik Rocks](sights/belogradchik-rocks.yaml) | Attraction | **91.05** | **Nature 9.4**, **Photography 9.3**, **Adventure 8.8** | 9.3 / 9.3 / 8.8 / 9.0 / 8.8 | [43.61, 22.68](https://www.google.com/maps/search/?api=1&query=43.61,22.68) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Belogradchik%20Rocks%2C%20Bulgaria) |
 | 5 | [Ancient Plovdiv architectural reserve](sights/ancient-plovdiv.yaml) | Attraction | **90.50** | **History 9.4**, **Architecture 9.3**, **Culture 9.1** | 9.1 / 9.0 / 9.2 / 9.0 / 8.8 | [42.15, 24.753](https://www.google.com/maps/search/?api=1&query=42.15,24.753) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ancient%20Plovdiv%20architectural%20reserve%2C%20Bulgaria) |
 | 6 | [Ancient City of Nessebar](sights/ancient-nessebar.yaml) | Attraction | **90.10** | **History 9.4**, **Architecture 9.3**, **Photography 9.2** | 9.0 / 9.1 / 9.2 / 8.9 / 8.6 | [42.659, 27.733](https://www.google.com/maps/search/?api=1&query=42.659,27.733) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ancient%20City%20of%20Nessebar%2C%20Bulgaria) |
 | 7 | [Seven Rila Lakes](sights/seven-rila-lakes.yaml) | Lake | **89.35** | **Nature 9.4**, **Photography 9.4**, **Adventure 9.2** | 9.2 / 9.0 / 8.5 / 9.1 / 8.6 | [42.2, 23.32](https://www.google.com/maps/search/?api=1&query=42.2,23.32) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Seven%20Rila%20Lakes%2C%20Bulgaria) |
@@ -56,8 +56,9 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 40 | [Nicopolis ad Istrum](sights/nicopolis-ad-istrum.yaml) | Attraction | **83.65** | **History 9.1**, **Architecture 8.6** | 8.1 / 8.4 / 8.8 / 8.3 / 8.3 | [43.217, 25.61](https://www.google.com/maps/search/?api=1&query=43.217,25.61) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nicopolis%20ad%20Istrum%2C%20Bulgaria) |
 | 41 | [Shumen Plateau Nature Park](sights/shumen-plateau.yaml) | Park / square | **81.55** | **Nature 8.7**, **History 8.6** | 8.0 / 8.1 / 8.2 / 8.4 / 8.3 | [43.26, 26.89](https://www.google.com/maps/search/?api=1&query=43.26,26.89) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Shumen%20Plateau%20Nature%20Park%2C%20Bulgaria) |
 | 42 | [Golden Sands Nature Park](sights/golden-sands-park.yaml) | Park / square | **80.10** | **Nature 8.6**, **Relaxation 8.5** | 7.8 / 8.0 / 8.0 / 8.4 / 8.1 | [43.29, 28.02](https://www.google.com/maps/search/?api=1&query=43.29,28.02) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Golden%20Sands%20Nature%20Park%2C%20Bulgaria) |
+| 43 | [Late Antique Tomb of Silistra](sights/silistra-tomb.yaml) | Museum / heritage | **80.05** | **History 9.2**, **Culture 8.9** | 7.8 / 8.7 / 9.0 / 7.0 / 6.4 | [44.11, 27.26](https://www.google.com/maps/search/?api=1&query=44.11,27.26) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Late%20Antique%20Tomb%20of%20Silistra%2C%20Bulgaria) |
 
-## Not yet fully assessed (4)
+## Not yet fully assessed (3)
 
 These destinations have no rank until all five core scores are assessed.
 
@@ -65,7 +66,6 @@ These destinations have no rank until all five core scores are assessed.
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
 | — | [Ancient Beech Forests (Bulgarian serial components)](sights/beech-forests.yaml) | Forest | **—** | **Nature 9.3**, **Wildlife 8.9** | 8.6 / 8.9 / 9.2 / — / — | [42.72, 24.91](https://www.google.com/maps/search/?api=1&query=42.72,24.91) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ancient%20Beech%20Forests%20%28Bulgarian%20serial%20components%29%2C%20Bulgaria) |
 | — | [Frontiers of the Roman Empire – Danube Limes (Bulgarian tentative components)](sights/danube-limes.yaml) | Attraction | **—** | **History 9.3** | 7.9 / 8.7 / 9.2 / — / — | [43.75, 25.5](https://www.google.com/maps/search/?api=1&query=43.75,25.5) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Frontiers%20of%20the%20Roman%20Empire%20%E2%80%93%20Danube%20Limes%20%28Bulgarian%20tentative%20components%29%2C%20Bulgaria) |
-| — | [Late Antique Tomb of Silistra](sights/silistra-tomb.yaml) | Museum / heritage | **—** | **History 9.2**, **Culture 8.9** | 7.8 / 8.7 / 9.0 / — / — | [44.11, 27.26](https://www.google.com/maps/search/?api=1&query=44.11,27.26) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Late%20Antique%20Tomb%20of%20Silistra%2C%20Bulgaria) |
 | — | [Royal Necropolis of Seuthopolis (tentative extension)](sights/seuthopolis-necropolis.yaml) | Attraction | **—** | **History 9.4** | 8.7 / 9.0 / 9.3 / — / — | [42.66, 25.35](https://www.google.com/maps/search/?api=1&query=42.66,25.35) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Royal%20Necropolis%20of%20Seuthopolis%20%28tentative%20extension%29%2C%20Bulgaria) |
 
 ---

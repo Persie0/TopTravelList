@@ -1,0 +1,15 @@
+id: sight-pk-faisal-mosque
+name: "Faisal Mosque"
+location:
+  country_code: PK
+  latitude: 33.729
+  longitude: 73.038
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 8.0
+  experience: 8.2
+  depth: 7.3
+  categories:
+    architecture: 9.0
+    photography: 8.7

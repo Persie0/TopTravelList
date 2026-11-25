@@ -1,0 +1,15 @@
+id: sight-se-falun-copper-mine
+name: "Mining Area of the Great Copper Mountain in Falun"
+location:
+  country_code: SE
+  latitude: 60.598
+  longitude: 15.612
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 9.2
+  experience: 8.7
+  depth: 8.7
+  categories:
+    history: 9.3
+    culture: 8.8

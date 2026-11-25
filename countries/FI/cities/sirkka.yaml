@@ -1,0 +1,15 @@
+id: city-fi-sirkka
+name: "Sirkka (Levi)"
+location:
+  country_code: FI
+  latitude: 67.805
+  longitude: 24.805
+scores:
+  impact: 7.5
+  uniqueness: 7.6
+  significance: 6.9
+  experience: 8.6
+  depth: 7.6
+  categories:
+    adventure: 8.8
+    relaxation: 8.4

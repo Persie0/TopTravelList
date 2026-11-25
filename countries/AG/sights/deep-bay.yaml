@@ -1,0 +1,16 @@
+id: sight-ag-deep-bay
+name: "Deep Bay"
+location:
+  country_code: AG
+  latitude: 17.127
+  longitude: -61.891
+scores:
+  impact: 8.6
+  uniqueness: 8.2
+  significance: 6.2
+  experience: 8.6
+  depth: 7.3
+  categories:
+    beaches: 9.0
+    photography: 9.0
+    adventure: 8.3

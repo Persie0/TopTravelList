@@ -1,0 +1,16 @@
+id: sight-ps-nativity-pilgrimage-route
+name: "Church of the Nativity and Pilgrimage Route, Bethlehem"
+location:
+  country_code: PS
+  latitude: 31.7043
+  longitude: 35.2076
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 9.4
+  experience: 8.7
+  depth: 8.4
+  categories:
+    history: 9.4
+    architecture: 9.2
+    culture: 9.4

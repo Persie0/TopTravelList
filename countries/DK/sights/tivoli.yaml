@@ -1,0 +1,16 @@
+id: sight-dk-tivoli
+name: "Tivoli Gardens"
+location:
+  country_code: DK
+  latitude: 55.673
+  longitude: 12.568
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 8.6
+  experience: 9.3
+  depth: 8.6
+  categories:
+    family: 9.4
+    culture: 8.8
+    photography: 9

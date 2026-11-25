@@ -1,0 +1,13 @@
+id: sight-cu-caguanes-national-park
+name: "Caguanes National Park"
+location:
+  country_code: CU
+  latitude: 22.35
+  longitude: -79.11
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}

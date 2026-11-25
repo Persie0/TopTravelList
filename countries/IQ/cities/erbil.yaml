@@ -1,0 +1,16 @@
+id: city-iq-erbil
+name: "Erbil"
+location:
+  country_code: IQ
+  latitude: 36.1911
+  longitude: 44.0092
+scores:
+  impact: 8.1
+  uniqueness: 8.5
+  significance: 8.6
+  experience: 8.2
+  depth: 7.9
+  categories:
+    history: 8.8
+    culture: 8.5
+    architecture: 8.5

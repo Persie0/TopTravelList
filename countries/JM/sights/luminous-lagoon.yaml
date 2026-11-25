@@ -1,0 +1,16 @@
+id: sight-jm-luminous-lagoon
+name: "Luminous Lagoon"
+location:
+  country_code: JM
+  latitude: 18.493
+  longitude: -77.629
+scores:
+  impact: 8.9
+  uniqueness: 9.2
+  significance: 8.3
+  experience: 8.7
+  depth: 7.1
+  categories:
+    nature: 9.3
+    photography: 9.0
+    adventure: 8.8

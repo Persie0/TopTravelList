@@ -1,0 +1,15 @@
+id: sight-ir-jameh-isfahan
+name: "Masjed-e Jame of Isfahan"
+location:
+  country_code: IR
+  latitude: 32.67
+  longitude: 51.685
+scores:
+  impact: 9.1
+  uniqueness: 9.2
+  significance: 9.4
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.4
+    history: 9.4

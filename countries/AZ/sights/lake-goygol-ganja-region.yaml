@@ -1,0 +1,16 @@
+id: sight-az-lake-goygol-ganja-region
+name: "Lake Goygol (Ganja Region)"
+location:
+  country_code: AZ
+  latitude: 40.405
+  longitude: 46.32
+scores:
+  impact: 8.6
+  uniqueness: 8.3
+  significance: 7.5
+  experience: 8.4
+  depth: 7.5
+  categories:
+    nature: 9.0
+    photography: 9.0
+    relaxation: 8.7

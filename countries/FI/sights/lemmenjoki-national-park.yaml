@@ -1,0 +1,16 @@
+id: sight-fi-lemmenjoki-national-park
+name: "Lemmenjoki National Park"
+location:
+  country_code: FI
+  latitude: 68.57
+  longitude: 25.65
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 8.8
+  experience: 8.8
+  depth: 9.3
+  categories:
+    nature: 9.3
+    adventure: 9.2
+    photography: 9.1

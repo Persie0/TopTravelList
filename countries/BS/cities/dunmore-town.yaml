@@ -1,0 +1,16 @@
+id: city-bs-dunmore-town
+name: "Dunmore Town"
+location:
+  country_code: BS
+  latitude: 25.502
+  longitude: -76.635
+scores:
+  impact: 8.0
+  uniqueness: 8.4
+  significance: 7.6
+  experience: 8.2
+  depth: 7.2
+  categories:
+    architecture: 8.7
+    photography: 8.9
+    culture: 8.2

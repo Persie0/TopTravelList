@@ -1,0 +1,16 @@
+id: sight-lt-trakai-island-castle
+name: "Trakai Island Castle"
+location:
+  country_code: LT
+  latitude: 54.652
+  longitude: 24.933
+scores:
+  impact: 9.0
+  uniqueness: 8.9
+  significance: 8.9
+  experience: 9.0
+  depth: 8.4
+  categories:
+    architecture: 9.2
+    history: 9.2
+    photography: 9.4

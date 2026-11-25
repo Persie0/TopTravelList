@@ -1,0 +1,15 @@
+id: sight-vc-lower-bay-beach
+name: "Lower Bay Beach"
+location:
+  country_code: VC
+  latitude: 12.994
+  longitude: -61.242
+scores:
+  impact: 8.7
+  uniqueness: 8.0
+  significance: 5.9
+  experience: 8.8
+  depth: 7.4
+  categories:
+    beaches: 9.1
+    relaxation: 9.0

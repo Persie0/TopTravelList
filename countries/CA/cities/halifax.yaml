@@ -1,0 +1,16 @@
+id: city-ca-halifax
+name: "Halifax"
+location:
+  country_code: CA
+  latitude: 44.6488
+  longitude: -63.5752
+scores:
+  impact: 8.0
+  uniqueness: 8.2
+  significance: 8.4
+  experience: 8.5
+  depth: 8.0
+  categories:
+    history: 8.9
+    food: 8.7
+    culture: 8.6

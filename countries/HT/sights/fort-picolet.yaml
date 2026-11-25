@@ -1,0 +1,15 @@
+id: sight-ht-fort-picolet
+name: "Fort Picolet"
+location:
+  country_code: HT
+  latitude: 19.79
+  longitude: -72.219
+scores:
+  impact: 7.7
+  uniqueness: 7.7
+  significance: 8.0
+  experience: 7.5
+  depth: 6.5
+  categories:
+    history: 8.6
+    photography: 8.6

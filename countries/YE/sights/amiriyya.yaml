@@ -1,0 +1,15 @@
+id: sight-ye-amiriyya
+name: "Al Madrasah Al Amereyyah in Rada'"
+location:
+  country_code: YE
+  latitude: 14.411667
+  longitude: 44.836389
+scores:
+  impact: 8.5
+  uniqueness: 8.7
+  significance: 8.7
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.1
+    history: 8.9

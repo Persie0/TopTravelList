@@ -1,0 +1,13 @@
+id: sight-ca-pimachiowin-aki
+name: "Pimachiowin Aki"
+location:
+  country_code: CA
+  latitude: 52.0
+  longitude: -95.0
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}

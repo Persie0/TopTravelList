@@ -1,0 +1,14 @@
+id: sight-fi-tornikallio-struve-station
+name: "Tornikallio (PORLOM II) Struve Geodetic Arc Station"
+location:
+  country_code: FI
+  latitude: 60.704722
+  longitude: 26.003333
+scores:
+  impact: 6.8
+  uniqueness: 8.1
+  significance: 8.6
+  experience: 7.2
+  depth: 6.1
+  categories:
+    history: 8.6

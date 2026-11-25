@@ -1,0 +1,14 @@
+id: city-bb-crab-hill
+name: "Crab Hill"
+location:
+  country_code: BB
+  latitude: 13.305
+  longitude: -59.642
+scores:
+  impact: 6.2
+  uniqueness: 7.0
+  significance: 6.5
+  experience: 7.0
+  depth: 5.8
+  categories:
+    culture: 7.5

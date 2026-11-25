@@ -1,0 +1,16 @@
+id: sight-gt-metropolitan-cathedral-guatemala-city
+name: "Metropolitan Cathedral of Guatemala City"
+location:
+  country_code: GT
+  latitude: 14.641
+  longitude: -90.513
+scores:
+  impact: 8.1
+  uniqueness: 8.2
+  significance: 8.8
+  experience: 8.1
+  depth: 7.6
+  categories:
+    architecture: 8.9
+    history: 9.0
+    culture: 8.7

@@ -1,0 +1,16 @@
+id: city-iq-amedi
+name: "Amedi"
+location:
+  country_code: IQ
+  latitude: 37.092
+  longitude: 43.49
+scores:
+  impact: 8.5
+  uniqueness: 8.7
+  significance: 8.1
+  experience: 8.0
+  depth: 7.2
+  categories:
+    architecture: 8.6
+    history: 8.4
+    photography: 9.0

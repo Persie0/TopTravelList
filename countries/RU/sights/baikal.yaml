@@ -1,0 +1,16 @@
+id: sight-ru-baikal
+name: "Lake Baikal"
+location:
+  country_code: RU
+  latitude: 53.173611
+  longitude: 107.6625
+scores:
+  impact: 9.4
+  uniqueness: 9.4
+  significance: 9.4
+  experience: 9.0
+  depth: 9.2
+  categories:
+    nature: 9.4
+    photography: 9.4
+    adventure: 9.2

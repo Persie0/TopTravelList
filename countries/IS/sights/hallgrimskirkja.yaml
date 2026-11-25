@@ -1,0 +1,15 @@
+id: sight-is-hallgrimskirkja
+name: "Hallgrímskirkja"
+location:
+  country_code: IS
+  latitude: 64.142
+  longitude: -21.927
+scores:
+  impact: 8.5
+  uniqueness: 8.7
+  significance: 8.3
+  experience: 8.5
+  depth: 7.4
+  categories:
+    architecture: 9.2
+    photography: 8.9

@@ -1,0 +1,16 @@
+id: sight-cu-triolet-pharmacy-museum
+name: "Triolet French Drugstore Museum"
+location:
+  country_code: CU
+  latitude: 23.045
+  longitude: -81.577
+scores:
+  impact: 7.9
+  uniqueness: 8.7
+  significance: 8.4
+  experience: 8.2
+  depth: 7.5
+  categories:
+    history: 9.0
+    culture: 8.7
+    architecture: 8.5

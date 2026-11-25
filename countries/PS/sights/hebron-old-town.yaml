@@ -1,0 +1,16 @@
+id: sight-ps-hebron-old-town
+name: "Hebron (Al-Khalil) Old Town"
+location:
+  country_code: PS
+  latitude: 31.525
+  longitude: 35.11
+scores:
+  impact: 8.5
+  uniqueness: 8.9
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.0
+    history: 9.4
+    culture: 9.0

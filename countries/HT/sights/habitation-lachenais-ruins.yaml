@@ -1,0 +1,13 @@
+id: sight-ht-habitation-lachenais-ruins
+name: "Habitation Lachenais Ruins"
+location:
+  country_code: HT
+  latitude: 18.8725
+  longitude: -72.384722
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}

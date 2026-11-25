@@ -1,0 +1,16 @@
+id: sight-bd-saint-martin-s-island
+name: "Saint Martin's Island"
+location:
+  country_code: BD
+  latitude: 20.625
+  longitude: 92.323
+scores:
+  impact: 8.2
+  uniqueness: 8.7
+  significance: 8.2
+  experience: 7.8
+  depth: 7.5
+  categories:
+    beaches: 9.0
+    nature: 8.7
+    wildlife: 8.2

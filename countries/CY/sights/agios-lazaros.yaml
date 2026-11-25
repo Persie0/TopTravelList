@@ -1,0 +1,16 @@
+id: sight-cy-agios-lazaros
+name: "Church of Saint Lazarus, Larnaca"
+location:
+  country_code: CY
+  latitude: 34.9115
+  longitude: 33.63483
+scores:
+  impact: 8.3
+  uniqueness: 8.5
+  significance: 8.7
+  experience: 8.3
+  depth: 7.2
+  categories:
+    architecture: 8.8
+    history: 8.9
+    culture: 8.7

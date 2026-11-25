@@ -1,0 +1,15 @@
+id: sight-ge-vani-archaeological-site
+name: "Vani Archaeological Site"
+location:
+  country_code: GE
+  latitude: 42.066667
+  longitude: 42.5
+scores:
+  impact: 7.6
+  uniqueness: 8.4
+  significance: 8.8
+  experience: 7.7
+  depth: 7.9
+  categories:
+    history: 9.0
+    culture: 8.4

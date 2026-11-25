@@ -1,0 +1,16 @@
+id: city-bb-speightstown
+name: "Speightstown"
+location:
+  country_code: BB
+  latitude: 13.250
+  longitude: -59.643
+scores:
+  impact: 7.7
+  uniqueness: 8.3
+  significance: 8.3
+  experience: 8.2
+  depth: 7.4
+  categories:
+    history: 8.8
+    culture: 8.7
+    architecture: 8.4

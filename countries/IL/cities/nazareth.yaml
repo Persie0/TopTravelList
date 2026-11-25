@@ -1,0 +1,16 @@
+id: city-il-nazareth
+name: "Nazareth"
+location:
+  country_code: IL
+  latitude: 32.6996
+  longitude: 35.3035
+scores:
+  impact: 8.0
+  uniqueness: 8.5
+  significance: 9.0
+  experience: 8.1
+  depth: 7.9
+  categories:
+    history: 9.1
+    culture: 8.9
+    architecture: 8.6

@@ -1,0 +1,16 @@
+id: sight-kn-cottle-church-ruins
+name: "Cottle Church Ruins"
+location:
+  country_code: KN
+  latitude: 17.183
+  longitude: -62.589
+scores:
+  impact: 7.2
+  uniqueness: 8.1
+  significance: 8.5
+  experience: 7.7
+  depth: 6.2
+  categories:
+    history: 9.0
+    culture: 8.8
+    architecture: 8.0

@@ -1,0 +1,16 @@
+id: city-ps-hebron
+name: "Hebron (Al-Khalil)"
+location:
+  country_code: PS
+  latitude: 31.5326
+  longitude: 35.0998
+scores:
+  impact: 8.2
+  uniqueness: 8.6
+  significance: 9.1
+  experience: null
+  depth: null
+  categories:
+    history: 9.3
+    culture: 8.8
+    architecture: 8.8

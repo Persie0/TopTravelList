@@ -1,0 +1,15 @@
+id: sight-gb-north-york-moors
+name: "North York Moors National Park"
+location:
+  country_code: GB
+  latitude: 54.38
+  longitude: -0.87
+scores:
+  impact: 8.5
+  uniqueness: 8.5
+  significance: 8.3
+  experience: 8.8
+  depth: 8.8
+  categories:
+    nature: 9.0
+    photography: 9.0
