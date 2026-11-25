@@ -1,0 +1,16 @@
+id: sight-hn-playa-negra-amapala
+name: "Playa Negra (Amapala)"
+location:
+  country_code: HN
+  latitude: 13.2680
+  longitude: -87.6610
+scores:
+  impact: 7.3
+  uniqueness: 7.6
+  significance: 6.2
+  experience: 8.0
+  depth: 6.8
+  categories:
+    beaches: 8.1
+    relaxation: 8.4
+    photography: 8.4

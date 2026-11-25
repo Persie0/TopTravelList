@@ -1,0 +1,15 @@
+id: sight-ad-sant-esteve-church-andorra-la-vella
+name: "Sant Esteve Church (Andorra la Vella)"
+location:
+  country_code: AD
+  latitude: 42.5071
+  longitude: 1.5215
+scores:
+  impact: 7.3
+  uniqueness: 7.7
+  significance: 7.9
+  experience: 7.7
+  depth: 6.5
+  categories:
+    architecture: 8.4
+    history: 8.4
