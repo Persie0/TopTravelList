@@ -1,0 +1,16 @@
+id: sight-vg-gorda-peak
+name: "Gorda Peak National Park (Virgin Gorda)"
+location:
+  country_code: VG
+  latitude: 18.485
+  longitude: -64.4
+scores:
+  impact: 8.4
+  uniqueness: 8.5
+  significance: 8.7
+  experience: 8.4
+  depth: 8.0
+  categories:
+    nature: 9.0
+    adventure: 8.6
+    photography: 8.7

@@ -184,3 +184,7 @@ No matching GB parent records identified by generated name/coordinate screen. Ad
 ### Turks and Caicos coverage — 2026-11-26
 
 No matching GB parent records identified in generated name and approximate coordinate screen. Add 3 settlements and 12 sights. Main visitor sites across Providenciales, Grand Turk, North and Middle Caicos, South Caicos and Salt Cay. East Caicos not assumed to have ordinary established visitor routes. Marine ratings account for coral stress, no pristine reef or guaranteed wildlife. Search excerpts inspected; full independent claims, GPS and access verification pending.
+
+### British Virgin Islands coverage — 2026-11-26
+
+No matching GB records identified in generated ranking name/coordinate screen. Add 3 settlements and 10 sights across Tortola, Virgin Gorda, Anegada, Jost Van Dyke and Salt Island marine area. Baths and Devil's Bay combined as linked visitor experience. Regional coral heat alerts treated as context, not proof of local reef condition. Sources consulted through search excerpts; independent GPS and full claim corroboration pending. No new 10 scores.

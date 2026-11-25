@@ -1,0 +1,16 @@
+id: sight-vg-white-bay
+name: "White Bay Beach (Jost Van Dyke)"
+location:
+  country_code: VG
+  latitude: 18.444
+  longitude: -64.771
+scores:
+  impact: 8.8
+  uniqueness: 8.0
+  significance: 7.0
+  experience: 8.8
+  depth: 7.6
+  categories:
+    beaches: 9.1
+    relaxation: 8.9
+    photography: 8.8
