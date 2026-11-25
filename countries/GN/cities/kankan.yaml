@@ -2,8 +2,8 @@ id: city-gn-kankan
 name: "Kankan"
 location:
   country_code: GN
-  latitude: 10.385
-  longitude: -9.305
+  latitude: 10.3833
+  longitude: -9.3
 scores:
   impact: 6.7
   uniqueness: 7.7
