@@ -79,8 +79,8 @@
 - Action: new
 - Precise subject: Quinta da Regaleira; Defined estate only.
 - Location check: 38.7966, -9.3965; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: No individual source checked; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.regaleira.pt/en/visitas — Estate operator describes permitted visits and timed ticketing; https://www.regaleira.pt/en/destaques/visiting-the-regaleira-palace/ identifies palace visitor scope. Reviewed 2026-11-25; partial evidence, not full independent verification.
 - Missing or uncertain facts: exact coordinates, material claims and ordinary permitted visitor scope.
 
 #### Worldwide peer comparisons
@@ -114,8 +114,8 @@
 - Action: new
 - Precise subject: Castle of the Moors, Sintra; Single fortress not whole landscape.
 - Location check: 38.792, -9.389; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: No individual source checked; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.parquesdesintra.pt/en/parks-monuments/the-moorish-castle/ — Operator identifies hilltop fortifications and history; https://www.parquesdesintra.pt/en/plan-your-visit/guided-visits/moorish-castle/ confirms guided visit. Reviewed 2026-11-25; partial evidence, not full independent verification.
 - Missing or uncertain facts: exact coordinates, material claims and ordinary permitted visitor scope.
 
 #### Worldwide peer comparisons
@@ -221,6 +221,7 @@
 - Location check: 38.696, -9.208; approximate representative point, independent verification pending.
 - Evidence status: **source-linked-unverified**
 - Evidence: [UNESCO](https://whc.unesco.org/en/statesparties/pt) — consulted 2026-11-25; country inventory confirms property identity and inscription or tentative status; specific visitor conditions and material claims not fully verified.
+- Supplemental evidence (2026-11-25): https://www.museusemonumentos.pt/en/museus-e-monumentos/mosteiro-dos-jeronimos-e-capela-de-sao-jeronimo — Operator confirms cloister and church visits and historic relationship to the tower. Tower reopened May 2026; separate admission required.
 - Missing or uncertain facts: exact coordinates, material claims and ordinary permitted visitor scope.
 
 #### Worldwide peer comparisons
@@ -289,17 +290,18 @@
 - Action: new
 - Precise subject: Belém Tower; Ordinary visitor breadth uncertain.
 - Location check: 38.6916, -9.216; approximate representative point, independent verification pending.
-- Evidence status: **unassessed**
+- Evidence status: **source-linked-unverified**
 - Evidence: [UNESCO](https://whc.unesco.org/en/statesparties/pt) — consulted 2026-11-25; country inventory confirms property identity and inscription or tentative status; specific visitor conditions and material claims not fully verified.
+- Supplemental evidence (2026-11-25): https://www.museusemonumentos.pt/en/noticia-com/torre-de-belem-reabre-ao-publico — National monument operator announced public reopening on 27 May 2026 with timed access following restoration; https://www.museusemonumentos.pt/en/pagina/tickets lists tower admission. No unrestricted access to every level assumed.
 - Missing or uncertain facts: exact coordinates, material claims and ordinary permitted visitor scope.
 
 #### Worldwide peer comparisons
 | Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
 | --- | --- | --- |
-| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (9.4 / 9.3 / 9.6 / 9.5 / 9.3) | major architectural estate | Uniqueness lower: Distinct Manueline fortification; depth unassessed: Ordinary visitor breadth uncertain. Broad provisional comparison. |
-| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | historic built ensemble | Uniqueness lower: Distinct Manueline fortification; depth unassessed: Ordinary visitor breadth uncertain. Broad provisional comparison. |
-| [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | monumental heritage complex | Uniqueness lower: Distinct Manueline fortification; depth unassessed: Ordinary visitor breadth uncertain. Broad provisional comparison. |
-| [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional historic complex | Uniqueness higher: Distinct Manueline fortification; depth unassessed: Ordinary visitor breadth uncertain. Broad provisional comparison. |
+| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (9.4 / 9.3 / 9.6 / 9.5 / 9.3) | major architectural estate | Uniqueness lower: Distinct Manueline fortification; depth lower: Ordinary visitor breadth uncertain. Broad provisional comparison. |
+| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | historic built ensemble | Uniqueness lower: Distinct Manueline fortification; depth lower: Ordinary visitor breadth uncertain. Broad provisional comparison. |
+| [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | monumental heritage complex | Uniqueness lower: Distinct Manueline fortification; depth lower: Ordinary visitor breadth uncertain. Broad provisional comparison. |
+| [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional historic complex | Uniqueness higher: Distinct Manueline fortification; depth lower: Ordinary visitor breadth uncertain. Broad provisional comparison. |
 
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
@@ -307,14 +309,14 @@
 | Impact | — | 8.9 | Ornate riverside defensive tower |
 | Uniqueness | — | 9.0 | Distinct Manueline fortification |
 | Significance | — | 9.2 | International maritime and architectural heritage |
-| Experience | — | null | Current interior admission not established |
-| Depth | — | null | Ordinary visitor breadth uncertain |
+| Experience | — | 8.5 | Timed monument entry restored May 2026; limited interior access rather than guaranteed all levels |
+| Depth | — | 7.8 | One compact fortified tower and interpretation, not the paired UNESCO property |
 
 - Applicable category scores: architecture: 9.3, history: 9.3.
-- Computed worldwide overall: unranked.
+- Computed worldwide overall: 88.15/100.
 - High-score challenge: Not applicable.
 - Approved 10 registry: none.
-- Final decision: Unranked pending documented visitor scope.
+- Final decision: provisional 88.15 after public reopening; bounded timed monument visitor experience.
 - Earlier decision: none.
 - Verification still needed: independent claim corroboration, permitted access and closer worldwide peer comparisons.
 
@@ -886,6 +888,7 @@
 - Location check: 30.14, -15.87; approximate representative point, independent verification pending.
 - Evidence status: **unassessed**
 - Evidence: [UNESCO](https://whc.unesco.org/en/statesparties/pt) — consulted 2026-11-25; country inventory confirms property identity and inscription or tentative status; specific visitor conditions and material claims not fully verified.
+- Supplemental evidence (2026-11-25): https://ifcn.madeira.gov.pt/pt/areas-protegidas/ilhas-selvagens/como-visitar?format=html — Conservation authority confirms guided interpretive visits by prior authorization. Visits are possible but not freely accessible; regular visitor itinerary breadth and authorized landing scope remain insufficiently verified for this review.
 - Missing or uncertain facts: exact coordinates, material claims and ordinary permitted visitor scope.
 
 #### Worldwide peer comparisons
@@ -1409,8 +1412,8 @@
 - Action: new
 - Precise subject: Ponta de São Lourenço; Peninsula route only.
 - Location check: 32.75, -16.71; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: No individual source checked; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://visitmadeira.com/en/what-to-do/nature-seekers/activities/hiking/pr-8-vereda-da-ponta-de-sao-lourenco/ — Official Madeira tourism board documents designated PR8 peninsula walk; no unrestricted protected-zone access assumed. Reviewed 2026-11-25; partial evidence, not full independent verification.
 - Missing or uncertain facts: exact coordinates, material claims and ordinary permitted visitor scope.
 
 #### Worldwide peer comparisons
@@ -1444,8 +1447,8 @@
 - Action: new
 - Precise subject: Ponta da Piedade coastal cliffs; Defined headland not entire Algarve.
 - Location check: 37.08, -8.67; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: No individual source checked; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.cm-lagos.pt/en/descobrir-lagos/lazer-e-entretenimento/rotas-e-percursos — Municipality identifies boardwalks and viewpoints; https://fototeca.cm-lagos.pt/praias-e-costa/ponta-da-piedade-8 confirms boat-viewed rock formations. Reviewed 2026-11-25; partial evidence, not full independent verification.
 - Missing or uncertain facts: exact coordinates, material claims and ordinary permitted visitor scope.
 
 #### Worldwide peer comparisons
@@ -1481,6 +1484,7 @@
 - Location check: 37.087, -8.426; approximate representative point, independent verification pending.
 - Evidence status: **source-linked-unverified**
 - Evidence: [Turismo de Portugal](https://www.visitportugal.com/en/taxonomy/term/578?page=14) — consulted 2026-11-25; tourism overview supports destination identity or regional context; specific visitor conditions and material claims not fully verified.
+- Supplemental evidence (2026-11-25): https://www.amn.pt/DGAM/Capitanias/Portimao/Paginas/Capitania-do-porto-de-Portimao.aspx — Maritime authority lists navigation regulation 019/2024 and 2026 landing restrictions; https://www.amn.pt/DGAM/Capitanias/Portimao/Lists/Documentos_AMN/20240730%20Edital%20019-2024%20-%20Instru%C3%A7%C3%A3o%20Navega%C3%A7%C3%A3o%20Grutas%20de%20Benagil_signed.pdf prohibits landing and bathing on the interior sand. Only regulated vessel viewing scored.
 - Missing or uncertain facts: exact coordinates, material claims and ordinary permitted visitor scope.
 
 #### Worldwide peer comparisons
@@ -1498,13 +1502,13 @@
 | Uniqueness | — | 9.0 | Distinct coastal cave composition |
 | Significance | — | 8.2 | Regional coastal geology |
 | Experience | — | 8.5 | Authorized boat or kayak viewing subject to current restrictions |
-| Depth | — | 7.4 | One cave not entire coast |
+| Depth | — | 6.8 | Brief regulated viewing from vessel, no landing or bathing on cave beach |
 
 - Applicable category scores: nature: 9.3, photography: 9.4.
-- Computed worldwide overall: 86.35/100.
+- Computed worldwide overall: 85.75/100.
 - High-score challenge: Not applicable.
 - Approved 10 registry: none.
-- Final decision: Scope-limited editorial rating: Distinct coastal cave composition; One cave not entire coast.
+- Final decision: 85.75, depth 7.4→6.8 for limited boat viewing and prohibition on interior landing; no entire coast itinerary inherited.
 - Earlier decision: none.
 - Verification still needed: independent claim corroboration, permitted access and closer worldwide peer comparisons.
 

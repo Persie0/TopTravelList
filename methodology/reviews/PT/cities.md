@@ -429,8 +429,8 @@
 - Action: new
 - Precise subject: Tavira; Exclude barrier island beaches.
 - Location check: 37.127, -7.649; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: No individual source checked; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.visitportugal.com/en/destinos/algarve/357665 — National tourism office documents central square, Islamic museum and historic walking circuit. Reviewed 2026-11-25; partial evidence, not full independent verification.
 - Missing or uncertain facts: exact coordinates, material claims and ordinary permitted visitor scope.
 
 #### Worldwide peer comparisons
@@ -464,8 +464,8 @@
 - Action: new
 - Precise subject: Lagos; Exclude Ponta da Piedade cliffs.
 - Location check: 37.102, -8.674; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: No individual source checked; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.visitportugal.com/en/destinos/algarve/358237 — National tourism office describes urban fort, historic streets and accessible walking route; separately rated coastal headland not inherited. Reviewed 2026-11-25; partial evidence, not full independent verification.
 - Missing or uncertain facts: exact coordinates, material claims and ordinary permitted visitor scope.
 
 #### Worldwide peer comparisons
@@ -499,8 +499,8 @@
 - Action: new
 - Precise subject: Faro; Exclude Ria Formosa reserve.
 - Location check: 37.019, -7.93; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: No individual source checked; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.visitportugal.com/en/destinos/algarve/315833 — National tourism office documents Old Town, Baixa and marina, distinct from the wider Ria Formosa. Reviewed 2026-11-25; partial evidence, not full independent verification.
 - Missing or uncertain facts: exact coordinates, material claims and ordinary permitted visitor scope.
 
 #### Worldwide peer comparisons
