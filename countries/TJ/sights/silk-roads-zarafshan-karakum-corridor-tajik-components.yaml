@@ -1,0 +1,15 @@
+id: sight-tj-silk-roads-zarafshan-karakum-corridor-tajik-components
+name: "Silk Roads Zarafshan-Karakum Corridor (Tajik Components)"
+location:
+  country_code: TJ
+  latitude: 39.4869
+  longitude: 67.6181
+scores:
+  impact: null
+  uniqueness: 9.3
+  significance: 9.5
+  experience: null
+  depth: null
+  categories:
+    history: 9.5
+    culture: 9.3

@@ -1,0 +1,16 @@
+id: sight-kg-konorchek-canyons
+name: "Konorchek Canyons"
+location:
+  country_code: KG
+  latitude: 42.6
+  longitude: 75.84
+scores:
+  impact: 8.6
+  uniqueness: 8.5
+  significance: 7.2
+  experience: 8.6
+  depth: 7.9
+  categories:
+    nature: 8.8
+    photography: 9.1
+    adventure: 8.7

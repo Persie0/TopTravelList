@@ -1,0 +1,16 @@
+id: city-ae-al-ain
+name: "Al Ain"
+location:
+  country_code: AE
+  latitude: 24.2075
+  longitude: 55.7447
+scores:
+  impact: 8.0
+  uniqueness: 8.4
+  significance: 8.7
+  experience: 8.3
+  depth: 8.1
+  categories:
+    history: 9.0
+    culture: 8.7
+    nature: 8.2

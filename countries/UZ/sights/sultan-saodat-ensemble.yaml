@@ -1,0 +1,15 @@
+id: sight-uz-sultan-saodat-ensemble
+name: "Sultan Saodat Ensemble"
+location:
+  country_code: UZ
+  latitude: 37.28
+  longitude: 67.31
+scores:
+  impact: 8.4
+  uniqueness: 8.6
+  significance: 8.9
+  experience: 8.4
+  depth: 7.7
+  categories:
+    architecture: 9.0
+    history: 9.2

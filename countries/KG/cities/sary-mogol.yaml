@@ -1,0 +1,15 @@
+id: city-kg-sary-mogol
+name: "Sary-Mogol"
+location:
+  country_code: KG
+  latitude: 39.678
+  longitude: 72.895
+scores:
+  impact: 7.2
+  uniqueness: 7.7
+  significance: 6.4
+  experience: 7.6
+  depth: 6.0
+  categories:
+    photography: 8.2
+    culture: 7.6

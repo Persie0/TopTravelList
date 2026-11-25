@@ -1,0 +1,15 @@
+id: sight-uz-chor-minor
+name: "Chor Minor"
+location:
+  country_code: UZ
+  latitude: 39.775
+  longitude: 64.428
+scores:
+  impact: 8.1
+  uniqueness: 8.6
+  significance: 7.8
+  experience: 8.1
+  depth: 5.8
+  categories:
+    architecture: 9.0
+    photography: 8.9
