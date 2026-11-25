@@ -1,0 +1,16 @@
+id: sight-er-filfil-solomuna-forest
+name: "Filfil Solomuna Forest"
+location:
+  country_code: ER
+  latitude: 15.67
+  longitude: 38.94
+scores:
+  impact: 8.1
+  uniqueness: 8.4
+  significance: 7.9
+  experience: 8.1
+  depth: 7.7
+  categories:
+    nature: 8.9
+    wildlife: 8.6
+    photography: 8.7

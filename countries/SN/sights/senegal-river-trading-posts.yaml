@@ -1,0 +1,14 @@
+id: sight-sn-senegal-river-trading-posts
+name: "Senegal River Historic Trading Posts"
+location:
+  country_code: SN
+  latitude: 16.617
+  longitude: -15.033
+scores:
+  impact: null
+  uniqueness: 8.7
+  significance: 9.0
+  experience: null
+  depth: null
+  categories:
+    history: 9.1

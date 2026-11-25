@@ -1,0 +1,15 @@
+id: city-ki-london
+name: "London Village (Ronton)"
+location:
+  country_code: KI
+  latitude: 1.98487
+  longitude: -157.47502
+scores:
+  impact: 6.4
+  uniqueness: 7.3
+  significance: 6.6
+  experience: 6.8
+  depth: 6.0
+  categories:
+    culture: 6.7
+    photography: 6.8

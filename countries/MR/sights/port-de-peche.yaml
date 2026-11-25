@@ -1,0 +1,15 @@
+id: sight-mr-port-de-peche
+name: "Port de Pêche, Nouakchott"
+location:
+  country_code: MR
+  latitude: 18.102845
+  longitude: -16.025223
+scores:
+  impact: 8.1
+  uniqueness: 8.3
+  significance: 7.3
+  experience: 7.9
+  depth: 7.1
+  categories:
+    culture: 8.5
+    photography: 8.7

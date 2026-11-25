@@ -1,0 +1,14 @@
+id: sight-sn-aeropostale-heritage
+name: "Aéropostale Heritage"
+location:
+  country_code: SN
+  latitude: 16.018056
+  longitude: -16.490472
+scores:
+  impact: null
+  uniqueness: 8.4
+  significance: 8.7
+  experience: null
+  depth: null
+  categories:
+    history: 8.9

@@ -1,0 +1,16 @@
+id: sight-zw-victoria-falls
+name: "Mosi-oa-Tunya / Victoria Falls (Zimbabwean side)"
+location:
+  country_code: ZW
+  latitude: -17.9249
+  longitude: 25.84723
+scores:
+  impact: 9.8
+  uniqueness: 9.8
+  significance: 9.7
+  experience: 9.6
+  depth: 9.3
+  categories:
+    nature: 9.8
+    photography: 9.8
+    adventure: 9.3

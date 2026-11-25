@@ -1,0 +1,13 @@
+id: city-ci-bouake
+name: "Bouaké"
+location:
+  country_code: CI
+  latitude: 7.694
+  longitude: -5.03
+scores:
+  impact: null
+  uniqueness: 7.0
+  significance: 7.3
+  experience: null
+  depth: null
+  categories: {}

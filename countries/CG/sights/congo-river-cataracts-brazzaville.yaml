@@ -1,0 +1,15 @@
+id: sight-cg-congo-river-cataracts-brazzaville
+name: "Congo River Cataracts (Brazzaville)"
+location:
+  country_code: CG
+  latitude: -4.31
+  longitude: 15.21
+scores:
+  impact: 8.2
+  uniqueness: 8.3
+  significance: 7.8
+  experience: 7.9
+  depth: 7.3
+  categories:
+    nature: 8.8
+    photography: 8.7

@@ -1,0 +1,15 @@
+id: city-sl-bureh-town
+name: "Bureh Town"
+location:
+  country_code: SL
+  latitude: 8.181
+  longitude: -13.164
+scores:
+  impact: 6.8
+  uniqueness: 7.3
+  significance: 6.2
+  experience: 7.7
+  depth: 6.1
+  categories:
+    relaxation: 8.1
+    culture: 7.6

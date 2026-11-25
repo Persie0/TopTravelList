@@ -1,0 +1,16 @@
+id: city-bi-bujumbura
+name: "Bujumbura"
+location:
+  country_code: BI
+  latitude: -3.381928
+  longitude: 29.36142
+scores:
+  impact: 7.2
+  uniqueness: 7.6
+  significance: 7.7
+  experience: 7.8
+  depth: 7.8
+  categories:
+    culture: 8.1
+    food: 8.0
+    relaxation: 8.1

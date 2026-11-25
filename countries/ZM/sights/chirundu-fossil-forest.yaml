@@ -1,0 +1,15 @@
+id: sight-zm-chirundu-fossil-forest
+name: "Chirundu Fossil Forest"
+location:
+  country_code: ZM
+  latitude: -16.016667
+  longitude: 28.85
+scores:
+  impact: null
+  uniqueness: 8.7
+  significance: 9.0
+  experience: null
+  depth: null
+  categories:
+    nature: 8.9
+    history: 8.5

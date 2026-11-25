@@ -1,0 +1,15 @@
+id: city-gh-larabanga
+name: "Larabanga"
+location:
+  country_code: GH
+  latitude: 9.217
+  longitude: -1.854
+scores:
+  impact: 6.9
+  uniqueness: 8.0
+  significance: 7.8
+  experience: 7.4
+  depth: 6.1
+  categories:
+    culture: 8.4
+    history: 8.4

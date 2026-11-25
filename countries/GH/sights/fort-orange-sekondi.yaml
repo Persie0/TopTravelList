@@ -1,0 +1,14 @@
+id: sight-gh-fort-orange-sekondi
+name: "Fort Orange (Sekondi)"
+location:
+  country_code: GH
+  latitude: 4.936
+  longitude: -1.709
+scores:
+  impact: null
+  uniqueness: 7.7
+  significance: 8.2
+  experience: null
+  depth: null
+  categories:
+    history: 8.5

@@ -1,0 +1,16 @@
+id: sight-gn-kambadaga-waterfalls
+name: "Kambadaga Waterfalls"
+location:
+  country_code: GN
+  latitude: 10.99718
+  longitude: -12.49317
+scores:
+  impact: 9.0
+  uniqueness: 8.7
+  significance: 7.5
+  experience: 8.6
+  depth: 8.0
+  categories:
+    nature: 9.2
+    photography: 9.3
+    adventure: 8.8

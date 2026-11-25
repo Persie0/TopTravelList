@@ -1,0 +1,16 @@
+id: city-td-n-djamena
+name: "N'Djamena"
+location:
+  country_code: TD
+  latitude: 12.1348
+  longitude: 15.0557
+scores:
+  impact: 6.8
+  uniqueness: 7.5
+  significance: 7.9
+  experience: 7.3
+  depth: 7.2
+  categories:
+    culture: 8.3
+    history: 8.1
+    food: 7.8

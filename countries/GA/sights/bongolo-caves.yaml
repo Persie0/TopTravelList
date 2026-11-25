@@ -1,0 +1,15 @@
+id: sight-ga-bongolo-caves
+name: "Bongolo Caves"
+location:
+  country_code: GA
+  latitude: -2.18
+  longitude: 11.48
+scores:
+  impact: null
+  uniqueness: 8.1
+  significance: 8.0
+  experience: null
+  depth: null
+  categories:
+    nature: 8.6
+    adventure: 8.5

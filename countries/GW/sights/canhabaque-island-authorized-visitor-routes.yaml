@@ -1,0 +1,16 @@
+id: sight-gw-canhabaque-island-authorized-visitor-routes
+name: "Canhabaque Island (authorized visitor routes)"
+location:
+  country_code: GW
+  latitude: 11.30
+  longitude: -15.61
+scores:
+  impact: 8.2
+  uniqueness: 8.9
+  significance: 8.2
+  experience: 8.2
+  depth: 8.0
+  categories:
+    nature: 8.7
+    culture: 9.0
+    photography: 8.7

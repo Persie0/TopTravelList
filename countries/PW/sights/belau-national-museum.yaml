@@ -1,0 +1,15 @@
+id: sight-pw-belau-national-museum
+name: "Belau National Museum"
+location:
+  country_code: PW
+  latitude: 7.33658
+  longitude: 134.47634
+scores:
+  impact: 7.3
+  uniqueness: 8.2
+  significance: 8.3
+  experience: 7.9
+  depth: 7.7
+  categories:
+    history: 8.5
+    culture: 8.7

@@ -1,0 +1,16 @@
+id: city-ga-lambarene
+name: "Lambaréné"
+location:
+  country_code: GA
+  latitude: -0.700
+  longitude: 10.233
+scores:
+  impact: 7.6
+  uniqueness: 8.2
+  significance: 8.3
+  experience: 8.0
+  depth: 7.2
+  categories:
+    history: 8.6
+    culture: 8.4
+    photography: 8.5

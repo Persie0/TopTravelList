@@ -1,0 +1,16 @@
+id: sight-ne-agadez-grand-mosque
+name: "Grand Mosque of Agadez"
+location:
+  country_code: NE
+  latitude: 16.974
+  longitude: 7.988
+scores:
+  impact: 8.8
+  uniqueness: 9.2
+  significance: 9.0
+  experience: 7.8
+  depth: 7.0
+  categories:
+    architecture: 9.3
+    history: 9.1
+    photography: 9.0
