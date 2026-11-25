@@ -16,25 +16,30 @@
 #### Worldwide peer comparisons
 | Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
 | --- | --- | --- |
+| [London (GB)](../../../countries/GB/cities/london.yaml) (9.7 / 9.5 / 9.8 / 9.6 / 9.8) | global capital | Budapest has narrower cultural and historical reach. |
+| [Vienna (AT)](../../../countries/AT/cities/vienna.yaml) (9.2 / 9.0 / 9.5 / 9.2 / 9.4) | Danubian cultural capital | Budapest more distinctive river panorama and bathing; Vienna greater imperial breadth. |
+| [Saint Petersburg (RU)](../../../countries/RU/cities/saint-petersburg.yaml) (9.4 / 9.2 / 9.4 / 9.2 / 9.4) | monumental river city | Similar visual scale; Budapest stronger bathing experience, narrower depth. |
 | [Tallinn (EE)](../../../countries/EE/cities/tallinn.yaml) (9 / 9 / 8.9 / 9.1 / 9) | historic northern capital | Uniqueness higher: Distinct thermal bathing culture and monumental river city; depth higher: Many independent districts and cultural institutions. Provisional comparison. |
 | [Salzburg (AT)](../../../countries/AT/cities/salzburg.yaml) (9 / 8.9 / 9 / 8.8 / 8.5) | historic cultural city | Uniqueness higher: Distinct thermal bathing culture and monumental river city; depth higher: Many independent districts and cultural institutions. Provisional comparison. |
 | [Hoi An (VN)](../../../countries/VN/cities/hoi-an.yaml) (9 / 9.3 / 9.1 / 9 / 8.7) | historic merchant settlement | Uniqueness similar: Distinct thermal bathing culture and monumental river city; depth higher: Many independent districts and cultural institutions. Provisional comparison. |
 | [Tartu (EE)](../../../countries/EE/cities/tartu.yaml) (8 / 8.1 / 8.4 / 8.5 / 8.3) | regional university town | Uniqueness higher: Distinct thermal bathing culture and monumental river city; depth higher: Many independent districts and cultural institutions. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 9.5 | Danube panorama and contrasting hill and boulevard districts |
+| impact | — | 9.4 | Monumental river panorama, not comparable to London's citywide scale |
 | uniqueness | — | 9.3 | Distinct thermal bathing culture and monumental river city |
-| significance | — | 9.4 | National political and international architectural history |
-| experience | — | 9.5 | Museums baths music markets and public streets |
-| depth | — | 9.5 | Many independent districts and cultural institutions |
+| significance | — | 9.3 | National political and architectural heritage, below Vienna's imperial reach |
+| experience | — | 9.4 | Varied museums, baths and urban streets without near-maximal global claim |
+| depth | — | 9.2 | Multiple districts and collections, less breadth than London or Vienna |
 
-- Applicable category scores: architecture: 9.6, history: 9.4, culture: 9.4, nightlife: 9.3, relaxation: 9.3.
-- Computed worldwide overall: 94.30/100.
-- High-score challenge: impact 9.5: Danube panorama and contrasting hill and boulevard districts; experience 9.5: Museums baths music markets and public streets; depth 9.5: Many independent districts and cultural institutions; architecture 9.6: Danube panorama and contrasting hill and boulevard districts. 90+ total: Danube panorama and contrasting hill and boulevard districts; Distinct thermal bathing culture and monumental river city; Many independent districts and cultural institutions. Budapest exceeds compact Salzburg and Hoi An in urban breadth, while its river panorama and bathing culture are distinct; no score assumes surrounding excursions. Beijing and Vienna remain necessary stronger capital comparisons..
+- Applicable category scores: architecture: 9.5, history: 9.4, culture: 9.4, nightlife: 9.3, relaxation: 9.3.
+- Computed worldwide overall: 93.35/100.
+- High-score challenge: architecture 9.5 supports the riverfront, Parliament and historic boulevards; comparable to Vienna and Saint Petersburg, not at London’s scale. Whole-city 93.35 sits near Saint Petersburg 93.20 and above Vienna 92.30 for distinctive river and bathing experiences; lower depth and significance.
 - Approved 10 registry: none.
-- Final decision: Scope-limited editorial rating: Distinct thermal bathing culture and monumental river city; Many independent districts and cultural institutions.
+- Final decision: recalibrated from 94.30 to 93.35 against major-capital benchmarks.
 - Earlier decision: none.
 - Verification still needed: independent facts, access, GPS and closer worldwide peer comparisons.
 
@@ -57,6 +62,8 @@
 | [Tartu (EE)](../../../countries/EE/cities/tartu.yaml) (8 / 8.1 / 8.4 / 8.5 / 8.3) | regional university town | Uniqueness higher: Distinct Ottoman and Hungarian heritage town; depth lower: Several compact districts. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.6 | Baroque streets and fortress skyline |
@@ -92,6 +99,8 @@
 | [Tartu (EE)](../../../countries/EE/cities/tartu.yaml) (8 / 8.1 / 8.4 / 8.5 / 8.3) | regional university town | Uniqueness higher: Distinct Roman Ottoman and Hungarian urban layers; depth higher: Several districts and cultural collections. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.6 | Mediterranean-feeling squares and layered monuments |
@@ -127,6 +136,8 @@
 | [Tartu (EE)](../../../countries/EE/cities/tartu.yaml) (8 / 8.1 / 8.4 / 8.5 / 8.3) | regional university town | Uniqueness higher: Coherent fortified merchant town; depth lower: Compact city excludes Fertő landscape. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.6 | Medieval streets and civic tower skyline |
@@ -162,6 +173,8 @@
 | [Tartu (EE)](../../../countries/EE/cities/tartu.yaml) (8 / 8.1 / 8.4 / 8.5 / 8.3) | regional university town | Uniqueness higher: Distinct rebuilt river city and design heritage; depth higher: Several urban neighborhoods. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.5 | Art Nouveau streets and broad squares |
@@ -197,6 +210,8 @@
 | [Tartu (EE)](../../../countries/EE/cities/tartu.yaml) (8 / 8.1 / 8.4 / 8.5 / 8.3) | regional university town | Uniqueness higher: Distinct historic episcopal and trading center; depth similar: Several districts. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.4 | Baroque streets and river confluence |
@@ -232,6 +247,8 @@
 | [Tartu (EE)](../../../countries/EE/cities/tartu.yaml) (8 / 8.1 / 8.4 / 8.5 / 8.3) | regional university town | Uniqueness higher: Distinct Serbian and artistic heritage town; depth lower: Compact town excludes open-air museum. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.5 | Colorful lanes and riverside churches |
@@ -267,6 +284,8 @@
 | [Tartu (EE)](../../../countries/EE/cities/tartu.yaml) (8 / 8.1 / 8.4 / 8.5 / 8.3) | regional university town | Uniqueness higher: Distinct former royal and ecclesiastical capital; depth lower: Exclude nearby Visegrád. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.5 | Basilica skyline above Danube |
@@ -302,6 +321,8 @@
 | [Tartu (EE)](../../../countries/EE/cities/tartu.yaml) (8 / 8.1 / 8.4 / 8.5 / 8.3) | regional university town | Uniqueness similar: Distinct Protestant university city; depth higher: Multiple districts excluding Hortobágy. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.0 | Reformed church and civic streets |
@@ -324,8 +345,8 @@
 - Action: new
 - Precise subject: Veszprém settlement; Several compact districts.
 - Location check: 47.093, 17.912; approximate representative point, independent verification pending.
-- Evidence status: editorial-only
-- Evidence: No specific supporting source checked; editorial judgment.
+- Evidence status: source-linked-unverified
+- Evidence: https://www.veszpreminfo.hu/en/places/worth-seeing — City tourism office lists castle district, municipal architecture and public sites; https://www.veszpreminfo.hu/en/tourist-information-point offers castle/downtown audio routes. Accessed 2026-11-25; partial support, not full independent verification.
 - Missing or uncertain facts: exact GPS, material claim corroboration and ordinary permitted access.
 
 #### Worldwide peer comparisons
@@ -337,6 +358,8 @@
 | [Tartu (EE)](../../../countries/EE/cities/tartu.yaml) (8 / 8.1 / 8.4 / 8.5 / 8.3) | regional university town | Uniqueness higher: Distinct historic episcopal city; depth lower: Several compact districts. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.4 | Hilltop castle quarter and narrow streets |
@@ -359,8 +382,8 @@
 - Action: new
 - Precise subject: Kőszeg settlement; Compact settlement.
 - Location check: 47.389, 16.54; approximate representative point, independent verification pending.
-- Evidence status: editorial-only
-- Evidence: No specific supporting source checked; editorial judgment.
+- Evidence status: source-linked-unverified
+- Evidence: https://visithungary.com/articles/a-trip-through-time-in-the-heart-of-koszeg- — National tourism guide identifies historic squares, town hall and castle exhibition. Accessed 2026-11-25; partial support, not full independent verification.
 - Missing or uncertain facts: exact GPS, material claim corroboration and ordinary permitted access.
 
 #### Worldwide peer comparisons
@@ -372,6 +395,8 @@
 | [Tartu (EE)](../../../countries/EE/cities/tartu.yaml) (8 / 8.1 / 8.4 / 8.5 / 8.3) | regional university town | Uniqueness higher: Coherent western border town fabric; depth lower: Compact settlement. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.3 | Colorful medieval streets and gates |
@@ -407,6 +432,8 @@
 | [Tartu (EE)](../../../countries/EE/cities/tartu.yaml) (8 / 8.1 / 8.4 / 8.5 / 8.3) | regional university town | Uniqueness higher: Distinct abbey village and vernacular fabric; depth lower: Exclude whole Balaton peninsula. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.4 | Hilltop village overlooking lake |
@@ -442,6 +469,8 @@
 | [Tartu (EE)](../../../countries/EE/cities/tartu.yaml) (8 / 8.1 / 8.4 / 8.5 / 8.3) | regional university town | Uniqueness higher: Distinct wine trading town; depth lower: Exclude whole wine region. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.0 | River confluence and historic wine streets |
@@ -477,6 +506,8 @@
 | [Tartu (EE)](../../../countries/EE/cities/tartu.yaml) (8 / 8.1 / 8.4 / 8.5 / 8.3) | regional university town | Uniqueness lower: Distinct early Hungarian resort town; depth lower: Exclude entire lake. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.1 | Historic villas and lakeside promenade |
@@ -512,6 +543,8 @@
 | [Tartu (EE)](../../../countries/EE/cities/tartu.yaml) (8 / 8.1 / 8.4 / 8.5 / 8.3) | regional university town | Uniqueness higher: Rare coherent Palóc rural settlement; depth lower: Small settlement. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.5 | Traditional whitewashed village houses |
@@ -534,8 +567,8 @@
 - Action: new
 - Precise subject: Kecskemét settlement; Several urban districts.
 - Location check: 46.896, 19.69; approximate representative point, independent verification pending.
-- Evidence status: editorial-only
-- Evidence: No specific supporting source checked; editorial judgment.
+- Evidence status: source-linked-unverified
+- Evidence: https://kecskemet.hu/en/a-varoshaza — Municipality identifies Art Nouveau city hall; partial evidence for citywide heritage, not full city circuit. Accessed 2026-11-25; partial support, not full independent verification.
 - Missing or uncertain facts: exact GPS, material claim corroboration and ordinary permitted access.
 
 #### Worldwide peer comparisons
@@ -547,6 +580,8 @@
 | [Tartu (EE)](../../../countries/EE/cities/tartu.yaml) (8 / 8.1 / 8.4 / 8.5 / 8.3) | regional university town | Uniqueness higher: Distinct Great Plain market-city architecture; depth lower: Several urban districts. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.2 | Ornate Secession civic buildings |
@@ -582,6 +617,8 @@
 | [Tartu (EE)](../../../countries/EE/cities/tartu.yaml) (8 / 8.1 / 8.4 / 8.5 / 8.3) | regional university town | Uniqueness similar: Distinct spa and historic market town; depth lower: Compact town. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.1 | Brick fortress skyline and park streets |
@@ -604,8 +641,8 @@
 - Action: new
 - Precise subject: Miskolc settlement; Exclude Bükk and Lillafüred.
 - Location check: 48.104, 20.791; approximate representative point, independent verification pending.
-- Evidence status: editorial-only
-- Evidence: No specific supporting source checked; editorial judgment.
+- Evidence status: source-linked-unverified
+- Evidence: https://www.miskolc.hu/en/life-city/tourism/sights — Municipality lists sights; https://visithungary.com/articles/an-abundance-of-activities-and-sights-in-miskolc-and-the-area describes inner town and Avas; no transfer of wider regional attractions. Accessed 2026-11-25; partial support, not full independent verification.
 - Missing or uncertain facts: exact GPS, material claim corroboration and ordinary permitted access.
 
 #### Worldwide peer comparisons
@@ -617,6 +654,8 @@
 | [Tartu (EE)](../../../countries/EE/cities/tartu.yaml) (8 / 8.1 / 8.4 / 8.5 / 8.3) | regional university town | Uniqueness lower: Regional industrial and cultural city; depth lower: Exclude Bükk and Lillafüred. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 7.8 | Historic central streets and industrial urban layers |

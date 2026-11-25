@@ -11,30 +11,34 @@
 - Location check: 47.5, 19.045; approximate representative point, independent verification pending.
 - Evidence status: source-linked-unverified
 - Evidence: [Visit Hungary](https://visithungary.com/en/places-to-go/world-heritage-sites/world-heritage-sites-in-budapest.html) — consulted 2026-11-25; tourism identity or regional context; material claims and visitor access not fully corroborated.
+- Supplemental evidence (2026-11-25): https://whc.unesco.org/en/list/400/ — UNESCO describes distinct Buda and Pest urban fabric and listed heritage scope; https://whc.unesco.org/en/list/400/maps/ defines boundaries. Exclude unlisted urban districts.
 - Missing or uncertain facts: exact GPS, material claim corroboration and ordinary permitted access.
 
 #### Worldwide peer comparisons
 | Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
 | --- | --- | --- |
+| [Historic Saint Petersburg (RU)](../../../countries/RU/sights/historic-petersburg.yaml) (9.4 / 9.3 / 9.4 / 9.2 / 9.4) | comparable monumental urban heritage | Budapest offers a concentrated river panorama; less breadth. |
 | [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | coherent urban heritage | Uniqueness similar: Distinct integrated hill castle and grand boulevard ensemble; depth higher: Extensive connected heritage areas. Provisional comparison. |
 | [Tallinn Old Town (EE)](../../../countries/EE/sights/tallinn-old-town.yaml) (9.2 / 9.1 / 9.2 / 9.2 / 9.1) | historic townscape | Uniqueness higher: Distinct integrated hill castle and grand boulevard ensemble; depth higher: Extensive connected heritage areas. Provisional comparison. |
 | [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | monumental heritage | Uniqueness higher: Distinct integrated hill castle and grand boulevard ensemble; depth higher: Extensive connected heritage areas. Provisional comparison. |
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional historic complex | Uniqueness higher: Distinct integrated hill castle and grand boulevard ensemble; depth higher: Extensive connected heritage areas. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 9.6 | Monumental river panorama and historic urban axes |
-| uniqueness | — | 9.5 | Distinct integrated hill castle and grand boulevard ensemble |
+| impact | — | 9.5 | Monumental river and castle panorama within listed boundary |
+| uniqueness | — | 9.4 | Distinct hill castle and boulevard ensemble, comparable to other major historic capitals |
 | significance | — | 9.5 | International urban planning and architectural heritage |
-| experience | — | 9.5 | Multiple public districts museums and riverside walks |
-| depth | — | 9.6 | Extensive connected heritage areas |
+| experience | — | 9.4 | Public streets and selected museums, not all interiors guaranteed |
+| depth | — | 9.3 | Several linked heritage precincts rather than the entire city |
 
-- Applicable category scores: architecture: 9.7, history: 9.5, photography: 9.7, culture: 9.4.
-- Computed worldwide overall: 95.40/100.
-- High-score challenge: impact 9.6: Monumental river panorama and historic urban axes; uniqueness 9.5: Distinct integrated hill castle and grand boulevard ensemble; significance 9.5: International urban planning and architectural heritage; experience 9.5: Multiple public districts museums and riverside walks; depth 9.6: Extensive connected heritage areas; architecture 9.7: Monumental river panorama and historic urban axes; history 9.5: International urban planning and architectural heritage; photography 9.7: Monumental river panorama and historic urban axes. 90+ total: Monumental river panorama and historic urban axes; Distinct integrated hill castle and grand boulevard ensemble; Extensive connected heritage areas. Compared with Hoi An and Tallinn, the river-boulevard ensemble offers a larger connected urban circuit and different monumental architectural character..
+- Applicable category scores: architecture: 9.6, history: 9.5, photography: 9.5, culture: 9.4.
+- Computed worldwide overall: 94.40/100.
+- High-score challenge: impact 9.5, significance 9.5, architecture 9.6, history 9.5 and photography 9.5 reflect the coherent Danube panorama, monumental ensemble and internationally significant urban development. Compared with the historic centre of Saint Petersburg (93.45), Budapest has a more concentrated riverfront panorama but less depth; no inheritance of the entire city’s museums or unrestricted interiors.
 - Approved 10 registry: none.
-- Final decision: Scope-limited editorial rating: Distinct integrated hill castle and grand boulevard ensemble; Extensive connected heritage areas.
+- Final decision: 94.40, reduced from 95.40 to constrain the assessed visitor scope.
 - Earlier decision: none.
 - Verification still needed: independent facts, access, GPS and closer worldwide peer comparisons.
 
@@ -57,6 +61,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional historic complex | Uniqueness higher: Distinct large parliamentary architectural ensemble; depth similar: One building not whole riverfront. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 9.5 | Monumental Gothic Revival river facade and decorated halls |
@@ -92,6 +98,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional historic complex | Uniqueness higher: Distinct layered fortified royal district; depth higher: Castle district not whole Budapest property. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 9.3 | Hilltop palaces medieval streets and panoramic terraces |
@@ -127,6 +135,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional historic complex | Uniqueness higher: Distinct Neo-Romanesque viewing architecture; depth lower: One terrace ensemble. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 9.1 | Ornate terraces and river panorama |
@@ -162,6 +172,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional historic complex | Uniqueness higher: Distinct royal church with layered medieval fabric; depth lower: Single church. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 9.0 | Patterned roof and rich Gothic Revival interior |
@@ -197,6 +209,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional historic complex | Uniqueness higher: Distinct historic large urban thermal complex; depth similar: Multiple pools and spa areas. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 9.0 | Grand bathing courtyards and pools |
@@ -232,6 +246,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional historic complex | Uniqueness higher: Rare surviving historic thermal bathing architecture; depth lower: Defined bath complex. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.6 | Ottoman domed bathing hall and river views |
@@ -256,6 +272,7 @@
 - Location check: 47.484, 19.052; approximate representative point, independent verification pending.
 - Evidence status: unassessed
 - Evidence: [Visit Hungary](https://visithungary.com/en/places-to-go/world-heritage-sites/world-heritage-sites-in-budapest.html) — consulted 2026-11-25; tourism identity or regional context; material claims and visitor access not fully corroborated.
+- Supplemental evidence (2026-11-25): https://www.gellertbath.hu/opening-hours — Operator confirms closed since 1 October 2025, expected reopening 2028; https://www.gellertbath.hu/past-and-present-of-gellert-bath documents historic bathing facility. Retain nulls until ordinary restored scope documented.
 - Missing or uncertain facts: exact GPS, material claim corroboration and ordinary permitted access.
 
 #### Worldwide peer comparisons
@@ -267,6 +284,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional historic complex | Uniqueness higher: Distinct historic bathing architecture; depth unassessed: Ordinary visitor extent unverified. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.9 | Ornate Art Nouveau pool interiors |
@@ -302,6 +321,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional historic complex | Uniqueness similar: Major Hungarian Catholic church with global peers; depth lower: One church complex. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.9 | Large domed church and ornate interior |
@@ -324,8 +345,8 @@
 - Action: new
 - Precise subject: Dohány Street Synagogue and memorial complex; Synagogue museum and memorial grounds.
 - Location check: 47.496, 19.061; approximate representative point, independent verification pending.
-- Evidence status: editorial-only
-- Evidence: No specific supporting source checked; editorial judgment.
+- Evidence status: source-linked-unverified
+- Evidence: https://btm.jegy.hu/venue/dohany-utcai-zsinagoga/info?lang=en — Ticketing venue identifies public synagogue complex admission and weekly restrictions. Accessed 2026-11-25; partial support, not full independent verification.
 - Missing or uncertain facts: exact GPS, material claim corroboration and ordinary permitted access.
 
 #### Worldwide peer comparisons
@@ -337,6 +358,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional historic complex | Uniqueness higher: Distinct major historic Jewish religious ensemble; depth similar: Synagogue museum and memorial grounds. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.8 | Monumental Moorish Revival synagogue and memorial grounds |
@@ -372,6 +395,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional historic complex | Uniqueness higher: Distinct historic Hungarian opera institution; depth lower: One opera complex. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.9 | Ornate Renaissance Revival auditorium |
@@ -407,6 +432,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional historic complex | Uniqueness lower: Distinct Hungarian millennium memorial ensemble; depth lower: Square excludes neighboring museums. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.7 | Monumental colonnades and sculpture |
@@ -442,6 +469,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional heritage | Uniqueness higher: Distinct major Hungarian fine art collection; depth higher: Multiple collections and periods. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.8 | Monumental galleries and historic artworks |
@@ -477,6 +506,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional heritage | Uniqueness higher: Distinct national collection across artistic periods; depth higher: Several collections within museum. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.6 | Historic palace galleries and Hungarian art |
@@ -512,6 +543,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional historic complex | Uniqueness higher: Rare coherent traditional rural ensemble; depth lower: Defined listed village and surroundings. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.8 | Preserved vernacular houses and castle landscape |
@@ -547,6 +580,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional historic complex | Uniqueness higher: Rare preserved late Roman Christian funerary ensemble; depth lower: Multiple accessible chambers. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.5 | Underground painted burial chambers |
@@ -582,6 +617,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional historic complex | Uniqueness higher: Distinct living historic Benedictine complex; depth higher: Abbey and permitted landscape. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 9.0 | Hilltop abbey library and monastic architecture |
@@ -617,6 +654,8 @@
 | [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | lowland wetland landscape | Uniqueness lower: Distinct long-managed lake cultural landscape; depth higher: Hungarian section only. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.5 | Reed lake margins villages and historic estates |
@@ -652,6 +691,8 @@
 | [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | lowland wetland landscape | Uniqueness higher: Distinct large Pannonian pastoral ecosystem; depth higher: Extensive permitted park sectors. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.8 | Open grassland marshes and pastoral landscape |
@@ -687,6 +728,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional historic complex | Uniqueness higher: Distinct long-lived wine-making cultural landscape; depth higher: Multiple settlements and vineyard areas. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.7 | Vineyard hills historic villages and cellar landscapes |
@@ -722,6 +765,8 @@
 | [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | lowland wetland landscape | Uniqueness higher: Distinct extensive temperate karst cave system; depth higher: Hungarian public cave network not inaccessible passages. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 9.1 | Large decorated underground cave passages |
@@ -757,6 +802,8 @@
 | [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | lowland wetland landscape | Uniqueness lower: Distinct surface karst habitats; depth higher: Surface park excludes separately rated cave routes. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.5 | Forested karst hills and limestone landforms |
@@ -792,6 +839,8 @@
 | [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | lowland wetland landscape | Uniqueness lower: Distinct lowland wetland habitats; depth higher: Multiple wetland areas. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.2 | Reedbeds marshes and restored wetlands |
@@ -827,6 +876,8 @@
 | [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | lowland wetland landscape | Uniqueness lower: Distinct forested karst uplands; depth higher: Multiple forest and ridge landscapes. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.8 | Wooded mountain plateaus limestone cliffs and valleys |
@@ -862,6 +913,8 @@
 | [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | lowland wetland landscape | Uniqueness lower: Distinct Pannonian habitat mosaic; depth higher: Dispersed protected sectors. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.3 | Sand dunes grasslands and saline wetlands |
@@ -897,6 +950,8 @@
 | [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | lowland wetland landscape | Uniqueness lower: Distinct dynamic lowland river habitat; depth higher: Multiple separated river sections. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.3 | River floodplain forests and oxbows |
@@ -932,6 +987,8 @@
 | [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | lowland wetland landscape | Uniqueness lower: Distinct Danube upland and river landscape mosaic; depth higher: Multiple upland sectors. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.6 | Wooded hills river bends and limestone terrain |
@@ -967,6 +1024,8 @@
 | [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | lowland wetland landscape | Uniqueness lower: Distinct southeastern Great Plain habitat mosaic; depth lower: Dispersed protected areas. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.1 | Open grasslands river wetlands and marshes |
@@ -1002,6 +1061,8 @@
 | [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | lowland wetland landscape | Uniqueness lower: Distinct volcanic and managed cultural landscape; depth higher: Broad uplands rather than entire lake. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.9 | Volcanic hills vineyards and lake panoramas |
@@ -1037,6 +1098,8 @@
 | [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | lowland wetland landscape | Uniqueness lower: Distinct traditional western landscape mosaic; depth higher: Multiple protected landscape sectors. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.2 | Wooded hills meadows and dispersed farm settlements |
@@ -1072,6 +1135,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional historic complex | Uniqueness higher: Distinct early Hungarian royal seat; depth lower: Defined castle not entire town. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.7 | Royal fortress remains above river |
@@ -1107,6 +1172,8 @@
 | [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | lowland wetland landscape | Uniqueness similar: Distinct hydrothermal cave formation; depth unassessed: No access assumed to scientific or technical caves. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.7 | Thermal-origin caves with mineral formations |
@@ -1142,6 +1209,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional historic complex | Uniqueness higher: Distinct coherent Danube defense network; depth higher: Hungarian components only. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.5 | Large historic fort earthworks and casemates |
@@ -1164,32 +1233,35 @@
 - Action: new
 - Precise subject: Mezőhegyes State Stud-Farm Estate; Working estate scope uncertain.
 - Location check: 46.32, 20.82; approximate representative point, independent verification pending.
-- Evidence status: unassessed
+- Evidence status: source-linked-unverified
 - Evidence: [UNESCO](https://whc.unesco.org/en/statesparties/hu) — consulted 2026-11-25; national property inventory; material claims and visitor access not fully corroborated.
+- Supplemental evidence (2026-11-25): https://whc.unesco.org/en/tentativelists/1500/ — UNESCO nomination identifies historic estate buildings. https://visithungary.com/articles/a-hidden-treasure-of-the-southern-great-plain-mezohegyes-and-the-stud-farm-await describes carriage rides, puszta bus and horse viewing at Grange 20; no access to entire working estate assumed.
 - Missing or uncertain facts: exact GPS, material claim corroboration and ordinary permitted access.
 
 #### Worldwide peer comparisons
 | Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
 | --- | --- | --- |
-| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (9.4 / 9.3 / 9.6 / 9.5 / 9.3) | major royal ensemble | Uniqueness lower: Distinct planned state breeding farm landscape; depth unassessed: Working estate scope uncertain. Provisional comparison. |
-| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | historic ensemble | Uniqueness lower: Distinct planned state breeding farm landscape; depth unassessed: Working estate scope uncertain. Provisional comparison. |
-| [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | monumental heritage | Uniqueness lower: Distinct planned state breeding farm landscape; depth unassessed: Working estate scope uncertain. Provisional comparison. |
-| [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional historic complex | Uniqueness higher: Distinct planned state breeding farm landscape; depth unassessed: Working estate scope uncertain. Provisional comparison. |
+| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (9.4 / 9.3 / 9.6 / 9.5 / 9.3) | major royal ensemble | Uniqueness lower: Distinct planned state breeding farm landscape; depth lower: limited documented visitor circuits. Provisional comparison. |
+| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | historic ensemble | Uniqueness lower: Distinct planned state breeding farm landscape; depth lower: limited documented visitor circuits. Provisional comparison. |
+| [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | monumental heritage | Uniqueness lower: Distinct planned state breeding farm landscape; depth lower: limited documented visitor circuits. Provisional comparison. |
+| [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional historic complex | Uniqueness higher: Distinct planned state breeding farm landscape; depth lower: limited documented visitor circuits. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.0 | Historic equestrian estate buildings |
 | uniqueness | — | 8.7 | Distinct planned state breeding farm landscape |
 | significance | — | 8.9 | Regional agricultural and institutional heritage |
-| experience | — | null | Combined public admission unresolved |
-| depth | — | null | Working estate scope uncertain |
+| experience | — | 8.1 | Documented carriage rides, bus outings and horse viewing |
+| depth | — | 7.9 | Several visitor activities, restricted working estate rather than full nomination |
 
 - Applicable category scores: architecture: 8.9, history: 9.0.
-- Computed worldwide overall: unranked.
+- Computed worldwide overall: 83.60/100.
 - High-score challenge: Not applicable.
 - Approved 10 registry: none.
-- Final decision: Unranked pending visitor evidence.
+- Final decision: provisional 83.60 using documented limited visitor activities; working estate access remains restricted.
 - Earlier decision: none.
 - Verification still needed: independent facts, access, GPS and closer worldwide peer comparisons.
 
@@ -1212,6 +1284,8 @@
 | [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | lowland wetland landscape | Uniqueness similar: Rare preserved Miocene ecological evidence; depth lower: Defined public site. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.5 | Fossil footprints and prehistoric sediment exposures |
@@ -1247,6 +1321,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional historic complex | Uniqueness higher: Original Hungarian architectural design language; depth unassessed: No combined visitor scope established. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.8 | Distinct decorated Secession buildings |
@@ -1282,6 +1358,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional historic complex | Uniqueness higher: Distinct Danube frontier system; depth unassessed: No single circuit assumed. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 7.9 | Dispersed Roman military and settlement ruins |
@@ -1317,6 +1395,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional historic complex | Uniqueness higher: Distinct regional vernacular building traditions; depth unassessed: No single combined visit. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.1 | Traditional rural houses and interiors |
@@ -1352,6 +1432,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional historic complex | Uniqueness higher: Distinct linked medieval royal landscape; depth higher: Defined nominated landscape not all Danube Bend. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.9 | Royal ruins and wooded Danube hills |
@@ -1387,6 +1469,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional historic complex | Uniqueness higher: Distinct regional wooden ecclesiastical architecture; depth unassessed: Dispersed village sites. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.2 | Traditional timber towers in rural villages |
@@ -1422,6 +1506,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional historic complex | Uniqueness higher: Distinct medieval royal defensive site; depth lower: One citadel not whole landscape. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.9 | Hilltop fortress and Danube Bend views |
@@ -1457,6 +1543,8 @@
 | [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | lowland wetland landscape | Uniqueness lower: Distinct scenic Danube valley composition; depth higher: Several river and hill sectors. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.9 | Curving river among wooded hills and settlements |
@@ -1479,8 +1567,8 @@
 - Action: new
 - Precise subject: Lake Balaton; Multiple shore sectors not all uplands.
 - Location check: 46.83, 17.73; approximate representative point, independent verification pending.
-- Evidence status: editorial-only
-- Evidence: No specific supporting source checked; editorial judgment.
+- Evidence status: source-linked-unverified
+- Evidence: https://visithungary.com/en/places-to-go/itinerary-planner/lake-balaton-for-explorers-3-days.html — National tourism itinerary confirms lake-region recreation; https://balatonimuzeum.hu/en/ documents lake landscape and natural history. Named lake scope excludes nearby unrelated monuments. Accessed 2026-11-25; partial support, not full independent verification.
 - Missing or uncertain facts: exact GPS, material claim corroboration and ordinary permitted access.
 
 #### Worldwide peer comparisons
@@ -1492,6 +1580,8 @@
 | [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | lowland wetland landscape | Uniqueness lower: Distinct extensive Central European lake recreation; depth higher: Multiple shore sectors not all uplands. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.7 | Large shallow lake and changing shoreline landscapes |
@@ -1527,6 +1617,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional historic complex | Uniqueness similar: Distinct national siege heritage site; depth similar: Defined castle complex. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.6 | Fortified hill and historic defensive remains |
@@ -1549,8 +1641,8 @@
 - Action: new
 - Precise subject: Esterházy Palace, Fertőd; Defined estate not entire Fertő landscape.
 - Location check: 47.62, 16.87; approximate representative point, independent verification pending.
-- Evidence status: editorial-only
-- Evidence: No specific supporting source checked; editorial judgment.
+- Evidence status: source-linked-unverified
+- Evidence: https://www.burgenland.info/en/dc/detail/POI/schloss-fertod-esterhazy-1 — Regional tourism board specifically identifies Fertőd, Hungary, Baroque-Rococo residence and ticketed wings; distinct from Eisenstadt palace. Accessed 2026-11-25; partial support, not full independent verification.
 - Missing or uncertain facts: exact GPS, material claim corroboration and ordinary permitted access.
 
 #### Worldwide peer comparisons
@@ -1562,6 +1654,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional historic complex | Uniqueness higher: Distinct Hungarian aristocratic and musical estate; depth higher: Defined estate not entire Fertő landscape. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 9.0 | Ornate Baroque palace and formal grounds |
@@ -1584,8 +1678,8 @@
 - Action: new
 - Precise subject: Royal Palace of Gödöllő; One palace complex.
 - Location check: 47.596, 19.348; approximate representative point, independent verification pending.
-- Evidence status: editorial-only
-- Evidence: No specific supporting source checked; editorial judgment.
+- Evidence status: source-linked-unverified
+- Evidence: https://kiralyikastely.hu/royal-palace-of-godollo.html — Palace operator documents public museum; https://kiralyikastely.hu/ticketprices.html identifies permanent exhibition and audio guide. Accessed 2026-11-25; partial support, not full independent verification.
 - Missing or uncertain facts: exact GPS, material claim corroboration and ordinary permitted access.
 
 #### Worldwide peer comparisons
@@ -1597,6 +1691,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional historic complex | Uniqueness similar: Distinct Hungarian royal residence; depth similar: One palace complex. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.7 | Baroque palace and royal rooms |
@@ -1619,8 +1715,8 @@
 - Action: new
 - Precise subject: Lake Hévíz thermal bathing site; Defined thermal lake.
 - Location check: 46.788, 17.193; approximate representative point, independent verification pending.
-- Evidence status: editorial-only
-- Evidence: No specific supporting source checked; editorial judgment.
+- Evidence status: source-linked-unverified
+- Evidence: https://www.heviz.hu/en/lake-heviz/lake-bath-opening-hours-prices — Town tourism office publishes 2026 seasonal bath admission; https://jegy.spaheviz.hu/en confirms central bathhouse closure. Do not assume indoor access. Accessed 2026-11-25; partial support, not full independent verification.
 - Missing or uncertain facts: exact GPS, material claim corroboration and ordinary permitted access.
 
 #### Worldwide peer comparisons
@@ -1632,6 +1728,8 @@
 | [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | lowland wetland landscape | Uniqueness higher: Distinct naturally heated bathing lake; depth lower: Defined thermal lake. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.5 | Warm lake with water lilies and bathing facilities |
@@ -1667,6 +1765,8 @@
 | [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | lowland wetland landscape | Uniqueness lower: Distinct designed mountain resort landscape; depth lower: Defined resort area not whole Bükk. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.7 | Lakeside hotel wooded valley and waterfall |
@@ -1702,6 +1802,8 @@
 | [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | lowland wetland landscape | Uniqueness lower: Distinct compact karst valley experience; depth lower: Defined valley route. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.5 | Wooded stream valley and stepped cascade |
@@ -1724,8 +1826,8 @@
 - Action: new
 - Precise subject: Szentendre Open-Air Ethnographic Museum; Multiple regional building ensembles.
 - Location check: 47.705, 19.054; approximate representative point, independent verification pending.
-- Evidence status: editorial-only
-- Evidence: No specific supporting source checked; editorial judgment.
+- Evidence status: source-linked-unverified
+- Evidence: https://skanzen.hu/en/visit — Museum operator describes public visit; https://skanzen.hu/en/visit/good-to-know/end-of-the-season-2026 confirms winter break from 2 November 2026. Accessed 2026-11-25; partial support, not full independent verification.
 - Missing or uncertain facts: exact GPS, material claim corroboration and ordinary permitted access.
 
 #### Worldwide peer comparisons
@@ -1737,6 +1839,8 @@
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional heritage | Uniqueness higher: Distinct national rural architecture collection; depth higher: Multiple regional building ensembles. Provisional comparison. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.4 | Extensive vernacular buildings in regional groups |
