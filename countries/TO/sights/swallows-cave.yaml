@@ -1,0 +1,16 @@
+id: sight-to-swallows-cave
+name: "Swallows' Cave"
+location:
+  country_code: TO
+  latitude: -18.705
+  longitude: -174.055
+scores:
+  impact: 8.7
+  uniqueness: 8.4
+  significance: 7.1
+  experience: 8.5
+  depth: 7.4
+  categories:
+    nature: 8.8
+    photography: 8.8
+    adventure: 8.4

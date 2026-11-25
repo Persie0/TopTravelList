@@ -2,7 +2,7 @@
 
 # Tonga (TO) — Sights & attractions ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**11 ranked** · **1 unassessed** · **12 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,11 +10,29 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (11)
 
-No sights & attractions have been assessed for **Tonga** yet.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Lapaha Royal Tombs](sights/lapaha-royal-tombs.yaml) | Museum / heritage | **82.60** | **History 9.2**, **Architecture 8.6**, **Culture 8.5** | 8.0 / 8.8 / 9.0 / 7.2 / 7.8 | [-21.177, -175.117](https://www.google.com/maps/search/?api=1&query=-21.177,-175.117) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lapaha%20Royal%20Tombs%2C%20Tonga) |
+| 2 | ['Eua National Park](sights/eua-national-park.yaml) | Park / reserve | **82.30** | **Nature 8.6**, **Adventure 8.5**, **Photography 8.4**, Wildlife 8.2 | 8.3 / 8.2 / 8.1 / 8.4 / 8.1 | [-21.40171, -174.90753](https://www.google.com/maps/search/?api=1&query=-21.40171,-174.90753) | [Google Maps](https://www.google.com/maps/search/?api=1&query=%27Eua%20National%20Park%2C%20Tonga) |
+| 3 | [Ha'amonga 'a Maui Trilithon](sights/haamonga-a-maui.yaml) | Attraction | **82.05** | **History 9.0**, **Architecture 8.6**, **Photography 8.1** | 8.0 / 8.8 / 8.8 / 7.7 / 6.9 | [-21.13669, -175.04803](https://www.google.com/maps/search/?api=1&query=-21.13669,-175.04803) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ha%27amonga%20%27a%20Maui%20Trilithon%2C%20Tonga) |
+| 4 | [Swallows' Cave](sights/swallows-cave.yaml) | Cave | **81.45** | **Nature 8.8**, **Photography 8.8**, **Adventure 8.4** | 8.7 / 8.4 / 7.1 / 8.5 / 7.4 | [-18.705, -174.055](https://www.google.com/maps/search/?api=1&query=-18.705,-174.055) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Swallows%27%20Cave%2C%20Tonga) |
+| 5 | [Mapu 'a Vaea Blowholes](sights/mapu-a-vaea-blowholes.yaml) | Attraction | **80.30** | **Photography 8.8**, **Nature 8.7** | 8.6 / 8.3 / 6.9 / 8.3 / 7.5 | [-21.18333, -175.3](https://www.google.com/maps/search/?api=1&query=-21.18333,-175.3) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mapu%20%27a%20Vaea%20Blowholes%2C%20Tonga) |
+| 6 | [Mariner's Cave](sights/mariners-cave.yaml) | Cave | **79.45** | **Adventure 8.6**, **Nature 8.5** | 8.2 / 8.7 / 7.1 / 7.8 / 7.2 | [-18.69086, -174.07465](https://www.google.com/maps/search/?api=1&query=-18.69086,-174.07465) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mariner%27s%20Cave%2C%20Tonga) |
+| 7 | ['Ene'io Botanical Garden](sights/eneio-botanical-garden.yaml) | Garden | **76.75** | **Nature 8.1**, **Culture 7.8**, **Relaxation 7.8** | 7.7 / 7.8 / 7.4 / 7.9 / 7.5 | [-18.63679, -173.91432](https://www.google.com/maps/search/?api=1&query=-18.63679,-173.91432) | [Google Maps](https://www.google.com/maps/search/?api=1&query=%27Ene%27io%20Botanical%20Garden%2C%20Tonga) |
+| 8 | ['Anahulu Cave](sights/anahulu-cave.yaml) | Cave | **76.15** | **Nature 8.2**, **Adventure 8.0**, **Photography 8.0** | 8.0 / 7.7 / 6.8 / 8.2 / 7.0 | [-21.2082, -175.10362](https://www.google.com/maps/search/?api=1&query=-21.2082,-175.10362) | [Google Maps](https://www.google.com/maps/search/?api=1&query=%27Anahulu%20Cave%2C%20Tonga) |
+| 9 | [Hufangalupe Natural Land Bridge](sights/hufangalupe-land-bridge.yaml) | Bridge | **74.65** | **Photography 8.4**, **Nature 8.3** | 8.0 / 7.7 / 6.7 / 7.6 / 6.6 | [-21.23253, -175.1904](https://www.google.com/maps/search/?api=1&query=-21.23253,-175.1904) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hufangalupe%20Natural%20Land%20Bridge%2C%20Tonga) |
+| 10 | [Royal Palace of Tonga](sights/royal-palace.yaml) | Palace / castle | **72.80** | **History 8.2**, **Architecture 7.8**, **Photography 7.5** | 7.3 / 7.7 / 8.1 / 6.5 / 5.7 | [-21.1314, -175.20061](https://www.google.com/maps/search/?api=1&query=-21.1314,-175.20061) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Royal%20Palace%20of%20Tonga%2C%20Tonga) |
+| 11 | [Talamahu Market](sights/talamahu-market.yaml) | Market | **71.45** | **Culture 7.9**, **Food 7.6** | 6.9 / 7.2 / 6.9 / 7.9 / 7.1 | [-21.13442, -175.19795](https://www.google.com/maps/search/?api=1&query=-21.13442,-175.19795) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Talamahu%20Market%2C%20Tonga) |
 
-Add destination YAML files in [sights/](sights/), then regenerate the overview files.
+## Not yet fully assessed (1)
+
+These destinations have no rank until all five core scores are assessed.
+
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| — | [Nukuleka Lapita Archaeological Site](sights/nukuleka-lapita-site.yaml) | Museum / heritage | **—** | **History 9.0** | — / 8.9 / 9.1 / — / — | [-21.1517, -175.1267](https://www.google.com/maps/search/?api=1&query=-21.1517,-175.1267) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nukuleka%20Lapita%20Archaeological%20Site%2C%20Tonga) |
 
 ---
 

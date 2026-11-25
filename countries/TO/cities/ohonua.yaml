@@ -1,0 +1,13 @@
+id: city-to-ohonua
+name: "'Ohonua"
+location:
+  country_code: TO
+  latitude: -21.342139
+  longitude: -174.955861
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}
