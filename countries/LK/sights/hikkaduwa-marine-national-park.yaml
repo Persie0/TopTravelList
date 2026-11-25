@@ -1,0 +1,16 @@
+id: sight-lk-hikkaduwa-marine-national-park
+name: "Hikkaduwa Marine National Park"
+location:
+  country_code: LK
+  latitude: 6.133
+  longitude: 80.099
+scores:
+  impact: 8.3
+  uniqueness: 8.2
+  significance: 8.0
+  experience: 8.6
+  depth: 8.0
+  categories:
+    wildlife: 8.7
+    nature: 8.7
+    adventure: 8.7

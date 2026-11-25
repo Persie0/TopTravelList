@@ -1,0 +1,17 @@
+id: sight-lk-central-highlands-of-sri-lanka
+name: "Central Highlands of Sri Lanka"
+location:
+  country_code: LK
+  latitude: 6.81
+  longitude: 80.80
+scores:
+  impact: 9.4
+  uniqueness: 9.4
+  significance: 9.6
+  experience: 9.1
+  depth: 9.5
+  categories:
+    nature: 9.7
+    wildlife: 9.5
+    adventure: 9.3
+    photography: 9.3

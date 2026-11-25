@@ -1,0 +1,16 @@
+id: city-lk-beruwala
+name: "Beruwala"
+location:
+  country_code: LK
+  latitude: 6.4780
+  longitude: 79.9820
+scores:
+  impact: 7.3
+  uniqueness: 7.7
+  significance: 7.8
+  experience: 7.9
+  depth: 7.6
+  categories:
+    culture: 8.4
+    history: 8.3
+    food: 8.0

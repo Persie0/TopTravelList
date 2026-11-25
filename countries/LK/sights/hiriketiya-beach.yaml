@@ -1,0 +1,16 @@
+id: sight-lk-hiriketiya-beach
+name: "Hiriketiya Beach"
+location:
+  country_code: LK
+  latitude: 5.963
+  longitude: 80.709
+scores:
+  impact: 8.5
+  uniqueness: 8.4
+  significance: 6.3
+  experience: 8.9
+  depth: 7.9
+  categories:
+    beaches: 9.0
+    adventure: 9.0
+    relaxation: 8.9

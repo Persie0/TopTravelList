@@ -1,0 +1,16 @@
+id: sight-lk-negombo-lagoon
+name: "Negombo Lagoon"
+location:
+  country_code: LK
+  latitude: 7.16
+  longitude: 79.83
+scores:
+  impact: 7.9
+  uniqueness: 8.0
+  significance: 7.6
+  experience: 8.3
+  depth: 8.0
+  categories:
+    nature: 8.6
+    wildlife: 8.4
+    relaxation: 8.4

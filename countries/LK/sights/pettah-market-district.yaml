@@ -1,0 +1,15 @@
+id: sight-lk-pettah-market-district
+name: "Pettah Market District"
+location:
+  country_code: LK
+  latitude: 6.9360
+  longitude: 79.8510
+scores:
+  impact: 8.0
+  uniqueness: 8.2
+  significance: 7.8
+  experience: 8.7
+  depth: 8.5
+  categories:
+    food: 8.7
+    culture: 8.8

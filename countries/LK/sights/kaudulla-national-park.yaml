@@ -1,0 +1,15 @@
+id: sight-lk-kaudulla-national-park
+name: "Kaudulla National Park"
+location:
+  country_code: LK
+  latitude: 8.17
+  longitude: 80.91
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 8.7
+  experience: 8.9
+  depth: 8.6
+  categories:
+    wildlife: 9.3
+    nature: 9.0

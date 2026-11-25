@@ -1,0 +1,16 @@
+id: sight-lk-fort-frederick
+name: "Fort Frederick"
+location:
+  country_code: LK
+  latitude: 8.5775
+  longitude: 81.2390
+scores:
+  impact: 8.0
+  uniqueness: 8.3
+  significance: 8.5
+  experience: 8.2
+  depth: 7.8
+  categories:
+    history: 8.9
+    architecture: 8.6
+    photography: 8.5

@@ -1,0 +1,16 @@
+id: sight-lk-lankatilaka-temple-kandy
+name: "Lankatilaka Temple Kandy"
+location:
+  country_code: LK
+  latitude: 7.2310
+  longitude: 80.5620
+scores:
+  impact: 8.4
+  uniqueness: 8.6
+  significance: 8.8
+  experience: 8.4
+  depth: 7.7
+  categories:
+    architecture: 9.1
+    history: 9.1
+    culture: 9.0

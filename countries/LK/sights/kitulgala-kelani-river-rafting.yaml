@@ -1,0 +1,15 @@
+id: sight-lk-kitulgala-kelani-river-rafting
+name: "Kitulgala Kelani River Rafting"
+location:
+  country_code: LK
+  latitude: 6.99
+  longitude: 80.41
+scores:
+  impact: 8.3
+  uniqueness: 8.2
+  significance: 6.9
+  experience: 8.8
+  depth: 8.1
+  categories:
+    adventure: 9.1
+    nature: 8.6

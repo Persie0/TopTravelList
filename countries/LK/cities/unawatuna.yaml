@@ -1,0 +1,15 @@
+id: city-lk-unawatuna
+name: "Unawatuna"
+location:
+  country_code: LK
+  latitude: 6.0100
+  longitude: 80.2480
+scores:
+  impact: 7.7
+  uniqueness: 7.6
+  significance: 6.6
+  experience: 8.3
+  depth: 7.5
+  categories:
+    relaxation: 8.7
+    food: 8.1

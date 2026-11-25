@@ -1,0 +1,15 @@
+id: sight-lk-wasgamuwa-national-park
+name: "Wasgamuwa National Park"
+location:
+  country_code: LK
+  latitude: 7.72
+  longitude: 80.95
+scores:
+  impact: 8.5
+  uniqueness: 8.7
+  significance: 8.6
+  experience: 8.7
+  depth: 8.6
+  categories:
+    wildlife: 9.2
+    nature: 9.0

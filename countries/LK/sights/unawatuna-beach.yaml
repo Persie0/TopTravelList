@@ -1,0 +1,15 @@
+id: sight-lk-unawatuna-beach
+name: "Unawatuna Beach"
+location:
+  country_code: LK
+  latitude: 6.009
+  longitude: 80.249
+scores:
+  impact: 8.5
+  uniqueness: 8.3
+  significance: 6.5
+  experience: 8.8
+  depth: 8.0
+  categories:
+    beaches: 9.1
+    relaxation: 9.0

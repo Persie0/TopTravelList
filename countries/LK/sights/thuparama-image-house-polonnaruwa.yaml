@@ -1,0 +1,15 @@
+id: sight-lk-thuparama-image-house-polonnaruwa
+name: "Thuparama Image House Polonnaruwa"
+location:
+  country_code: LK
+  latitude: 7.9470
+  longitude: 81.0018
+scores:
+  impact: 8.1
+  uniqueness: 8.5
+  significance: 8.8
+  experience: 8.2
+  depth: 7.2
+  categories:
+    architecture: 9.0
+    history: 9.1

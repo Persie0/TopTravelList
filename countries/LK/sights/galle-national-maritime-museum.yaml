@@ -1,0 +1,15 @@
+id: sight-lk-galle-national-maritime-museum
+name: "Galle National Maritime Museum"
+location:
+  country_code: LK
+  latitude: 6.0287
+  longitude: 80.2178
+scores:
+  impact: 7.5
+  uniqueness: 7.9
+  significance: 8.1
+  experience: 7.9
+  depth: 7.5
+  categories:
+    history: 8.6
+    culture: 8.4

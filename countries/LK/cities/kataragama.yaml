@@ -1,0 +1,15 @@
+id: city-lk-kataragama
+name: "Kataragama"
+location:
+  country_code: LK
+  latitude: 6.4140
+  longitude: 81.3320
+scores:
+  impact: 7.7
+  uniqueness: 8.4
+  significance: 8.5
+  experience: 8.0
+  depth: 7.7
+  categories:
+    culture: 9.0
+    history: 8.8

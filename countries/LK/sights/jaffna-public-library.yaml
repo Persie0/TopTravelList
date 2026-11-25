@@ -1,0 +1,16 @@
+id: sight-lk-jaffna-public-library
+name: "Jaffna Public Library"
+location:
+  country_code: LK
+  latitude: 9.6626
+  longitude: 80.0119
+scores:
+  impact: 7.9
+  uniqueness: 8.1
+  significance: 8.6
+  experience: 7.8
+  depth: 7.3
+  categories:
+    history: 9.1
+    architecture: 8.6
+    culture: 8.7

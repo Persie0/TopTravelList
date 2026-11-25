@@ -1,0 +1,15 @@
+id: city-lk-ratnapura
+name: "Ratnapura"
+location:
+  country_code: LK
+  latitude: 6.6810
+  longitude: 80.4030
+scores:
+  impact: 7.3
+  uniqueness: 7.8
+  significance: 7.8
+  experience: 7.8
+  depth: 7.7
+  categories:
+    culture: 8.4
+    history: 8.2

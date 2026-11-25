@@ -1,0 +1,16 @@
+id: sight-lk-kalpitiya-beach
+name: "Kalpitiya Beach"
+location:
+  country_code: LK
+  latitude: 8.22
+  longitude: 79.70
+scores:
+  impact: 8.1
+  uniqueness: 8.0
+  significance: 6.3
+  experience: 8.5
+  depth: 7.8
+  categories:
+    beaches: 8.8
+    adventure: 8.7
+    relaxation: 8.8

@@ -1,0 +1,15 @@
+id: city-lk-arugam-bay-village
+name: "Arugam Bay Village"
+location:
+  country_code: LK
+  latitude: 6.8400
+  longitude: 81.8300
+scores:
+  impact: 7.6
+  uniqueness: 7.6
+  significance: 6.4
+  experience: 8.3
+  depth: 7.5
+  categories:
+    relaxation: 8.6
+    food: 8.1

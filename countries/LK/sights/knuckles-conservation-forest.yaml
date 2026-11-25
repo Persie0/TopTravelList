@@ -1,0 +1,17 @@
+id: sight-lk-knuckles-conservation-forest
+name: "Knuckles Conservation Forest"
+location:
+  country_code: LK
+  latitude: 7.45
+  longitude: 80.82
+scores:
+  impact: 9.1
+  uniqueness: 9.2
+  significance: 9.3
+  experience: 9.0
+  depth: 9.0
+  categories:
+    nature: 9.5
+    wildlife: 9.1
+    adventure: 9.4
+    photography: 9.3

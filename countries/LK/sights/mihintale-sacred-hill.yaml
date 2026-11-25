@@ -1,0 +1,16 @@
+id: sight-lk-mihintale-sacred-hill
+name: "Mihintale Sacred Hill"
+location:
+  country_code: LK
+  latitude: 8.3505
+  longitude: 80.5150
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 9.5
+  experience: 9.0
+  depth: 8.8
+  categories:
+    history: 9.6
+    culture: 9.5
+    photography: 9.1

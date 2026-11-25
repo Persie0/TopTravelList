@@ -1,0 +1,16 @@
+id: sight-lk-liptons-seat
+name: "Lipton's Seat"
+location:
+  country_code: LK
+  latitude: 6.783
+  longitude: 81.016
+scores:
+  impact: 8.8
+  uniqueness: 8.6
+  significance: 7.7
+  experience: 8.8
+  depth: 7.7
+  categories:
+    photography: 9.3
+    relaxation: 8.9
+    culture: 8.4

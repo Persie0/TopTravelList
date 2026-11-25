@@ -1,0 +1,15 @@
+id: sight-lk-casuarina-beach
+name: "Casuarina Beach"
+location:
+  country_code: LK
+  latitude: 9.748
+  longitude: 79.880
+scores:
+  impact: 8.0
+  uniqueness: 7.8
+  significance: 6.4
+  experience: 8.5
+  depth: 7.6
+  categories:
+    beaches: 8.8
+    relaxation: 8.9

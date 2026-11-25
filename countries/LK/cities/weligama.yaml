@@ -1,0 +1,16 @@
+id: city-lk-weligama
+name: "Weligama"
+location:
+  country_code: LK
+  latitude: 5.9740
+  longitude: 80.4290
+scores:
+  impact: 7.6
+  uniqueness: 7.7
+  significance: 7.1
+  experience: 8.2
+  depth: 7.7
+  categories:
+    food: 8.4
+    culture: 8.1
+    relaxation: 8.5

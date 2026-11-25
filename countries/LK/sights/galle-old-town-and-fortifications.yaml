@@ -1,0 +1,17 @@
+id: sight-lk-galle-old-town-and-fortifications
+name: "Galle Old Town and Fortifications"
+location:
+  country_code: LK
+  latitude: 6.0273
+  longitude: 80.2170
+scores:
+  impact: 9.1
+  uniqueness: 9.2
+  significance: 9.4
+  experience: 9.2
+  depth: 9.0
+  categories:
+    architecture: 9.4
+    history: 9.4
+    culture: 9.2
+    photography: 9.4

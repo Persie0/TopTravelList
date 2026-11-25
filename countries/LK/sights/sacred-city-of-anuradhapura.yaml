@@ -1,0 +1,16 @@
+id: sight-lk-sacred-city-of-anuradhapura
+name: "Sacred City of Anuradhapura"
+location:
+  country_code: LK
+  latitude: 8.344
+  longitude: 80.397
+scores:
+  impact: 9.4
+  uniqueness: 9.6
+  significance: 9.8
+  experience: 9.2
+  depth: 9.6
+  categories:
+    history: 9.9
+    culture: 9.6
+    architecture: 9.5

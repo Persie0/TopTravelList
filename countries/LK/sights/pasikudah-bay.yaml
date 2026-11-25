@@ -1,0 +1,15 @@
+id: sight-lk-pasikudah-bay
+name: "Pasikudah Bay"
+location:
+  country_code: LK
+  latitude: 7.929
+  longitude: 81.561
+scores:
+  impact: 8.4
+  uniqueness: 8.3
+  significance: 6.5
+  experience: 8.8
+  depth: 8.0
+  categories:
+    beaches: 9.1
+    relaxation: 9.1

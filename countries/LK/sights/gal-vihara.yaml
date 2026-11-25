@@ -1,0 +1,16 @@
+id: sight-lk-gal-vihara
+name: "Gal Vihara"
+location:
+  country_code: LK
+  latitude: 7.9650
+  longitude: 81.0040
+scores:
+  impact: 9.0
+  uniqueness: 9.3
+  significance: 9.4
+  experience: 9.0
+  depth: 8.0
+  categories:
+    architecture: 9.4
+    history: 9.5
+    culture: 9.5

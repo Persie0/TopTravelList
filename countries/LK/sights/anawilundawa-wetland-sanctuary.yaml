@@ -1,0 +1,15 @@
+id: sight-lk-anawilundawa-wetland-sanctuary
+name: "Anawilundawa Wetland Sanctuary"
+location:
+  country_code: LK
+  latitude: 7.70
+  longitude: 79.82
+scores:
+  impact: 8.0
+  uniqueness: 8.3
+  significance: 8.4
+  experience: 8.2
+  depth: 7.8
+  categories:
+    wildlife: 8.8
+    nature: 8.7

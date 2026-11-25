@@ -1,0 +1,16 @@
+id: sight-lk-dambatenne-tea-factory
+name: "Dambatenne Tea Factory"
+location:
+  country_code: LK
+  latitude: 6.784
+  longitude: 81.003
+scores:
+  impact: 7.7
+  uniqueness: 8.0
+  significance: 7.9
+  experience: 8.3
+  depth: 7.6
+  categories:
+    culture: 8.7
+    history: 8.4
+    food: 8.3

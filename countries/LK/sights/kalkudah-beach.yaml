@@ -1,0 +1,15 @@
+id: sight-lk-kalkudah-beach
+name: "Kalkudah Beach"
+location:
+  country_code: LK
+  latitude: 7.913
+  longitude: 81.565
+scores:
+  impact: 8.2
+  uniqueness: 8.0
+  significance: 6.3
+  experience: 8.5
+  depth: 7.8
+  categories:
+    beaches: 8.9
+    relaxation: 9.0

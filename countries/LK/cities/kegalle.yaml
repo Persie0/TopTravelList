@@ -1,0 +1,14 @@
+id: city-lk-kegalle
+name: "Kegalle"
+location:
+  country_code: LK
+  latitude: 7.2530
+  longitude: 80.3460
+scores:
+  impact: 6.7
+  uniqueness: 6.9
+  significance: 6.9
+  experience: 7.2
+  depth: 6.9
+  categories:
+    food: 7.6

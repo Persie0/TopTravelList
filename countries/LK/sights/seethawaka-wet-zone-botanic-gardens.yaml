@@ -1,0 +1,15 @@
+id: sight-lk-seethawaka-wet-zone-botanic-gardens
+name: "Seethawaka Wet Zone Botanic Gardens"
+location:
+  country_code: LK
+  latitude: 6.956
+  longitude: 80.204
+scores:
+  impact: 8.1
+  uniqueness: 8.1
+  significance: 7.7
+  experience: 8.5
+  depth: 8.2
+  categories:
+    nature: 8.8
+    relaxation: 8.8
