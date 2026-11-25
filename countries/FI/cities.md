@@ -2,7 +2,7 @@
 
 # Finland (FI) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**20 ranked** · **0 unassessed** · **20 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,30 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (20)
 
-No cities, towns & villages have been assessed for **Finland** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Helsinki](cities/helsinki.yaml) | City / town | **88.45** | **Architecture 9.2**, **Culture 9.1**, **Food 8.6** | 8.8 / 8.7 / 8.8 / 9.0 / 9.2 | [60.1699, 24.9384](https://www.google.com/maps/search/?api=1&query=60.1699,24.9384) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Helsinki%2C%20Finland) |
+| 2 | [Porvoo](cities/porvoo.yaml) | City / town | **84.30** | **Architecture 9.0**, **Photography 9.0**, **History 8.6** | 8.5 / 8.6 / 8.3 / 8.6 / 7.8 | [60.393, 25.665](https://www.google.com/maps/search/?api=1&query=60.393,25.665) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Porvoo%2C%20Finland) |
+| 3 | [Tampere](cities/tampere.yaml) | City / town | **84.05** | **Culture 8.8**, **Relaxation 8.8**, **Architecture 8.6** | 8.3 / 8.4 / 8.2 / 8.7 / 8.7 | [61.498, 23.76](https://www.google.com/maps/search/?api=1&query=61.498,23.76) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tampere%2C%20Finland) |
+| 4 | [Rauma](cities/rauma.yaml) | City / town | **83.95** | **Architecture 9.0**, **History 8.8**, **Culture 8.6** | 8.3 / 8.6 / 8.5 / 8.5 / 7.8 | [61.128, 21.511](https://www.google.com/maps/search/?api=1&query=61.128,21.511) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Rauma%2C%20Finland) |
+| 5 | [Turku](cities/turku.yaml) | City / town | **83.40** | **History 8.9**, **Culture 8.7**, **Architecture 8.5** | 8.2 / 8.1 / 8.6 / 8.5 / 8.6 | [60.4518, 22.2666](https://www.google.com/maps/search/?api=1&query=60.4518,22.2666) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Turku%2C%20Finland) |
+| 6 | [Savonlinna](cities/savonlinna.yaml) | City / town | **82.65** | **Culture 8.7**, **History 8.6**, **Nature 8.6** | 8.3 / 8.4 / 8.1 / 8.5 / 7.8 | [61.868, 28.886](https://www.google.com/maps/search/?api=1&query=61.868,28.886) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Savonlinna%2C%20Finland) |
+| 7 | [Inari](cities/inari.yaml) | City / town | **82.55** | **Culture 9.0**, **Photography 8.6**, **Nature 8.4** | 7.9 / 8.8 / 8.5 / 8.3 / 7.4 | [68.906, 27.028](https://www.google.com/maps/search/?api=1&query=68.906,27.028) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Inari%2C%20Finland) |
+| 8 | [Jyväskylä](cities/jyvaskyla.yaml) | City / town | **81.50** | **Architecture 8.9**, **Culture 8.6** | 7.8 / 8.3 / 8.3 / 8.3 / 8.3 | [62.242, 25.748](https://www.google.com/maps/search/?api=1&query=62.242,25.748) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Jyv%C3%A4skyl%C3%A4%2C%20Finland) |
+| 8 | [Rovaniemi](cities/rovaniemi.yaml) | City / town | **81.50** | **Family 8.9**, **Culture 8.5**, **Architecture 8.2** | 7.7 / 8.4 / 8.1 / 8.6 / 8.3 | [66.5039, 25.7294](https://www.google.com/maps/search/?api=1&query=66.5039,25.7294) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Rovaniemi%2C%20Finland) |
+| 10 | [Mariehamn](cities/mariehamn.yaml) | City / town | **80.25** | **Relaxation 8.6**, **History 8.5**, **Culture 8.4** | 7.8 / 8.1 / 8.1 / 8.4 / 7.8 | [60.097, 19.935](https://www.google.com/maps/search/?api=1&query=60.097,19.935) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mariehamn%2C%20Finland) |
+| 11 | [Naantali](cities/naantali.yaml) | City / town | **79.95** | **Relaxation 8.8**, **Architecture 8.5**, **Family 8.5** | 8.0 / 8.0 / 7.9 / 8.5 / 7.4 | [60.467, 22.023](https://www.google.com/maps/search/?api=1&query=60.467,22.023) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Naantali%2C%20Finland) |
+| 12 | [Kuopio](cities/kuopio.yaml) | City / town | **79.30** | **Relaxation 8.5**, **Culture 8.2** | 7.9 / 7.8 / 7.7 / 8.4 / 8.1 | [62.893, 27.678](https://www.google.com/maps/search/?api=1&query=62.893,27.678) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kuopio%2C%20Finland) |
+| 13 | [Oulu](cities/oulu.yaml) | City / town | **78.95** | **Culture 8.5**, **Relaxation 8.1** | 7.7 / 7.8 / 7.8 / 8.3 / 8.3 | [65.012, 25.465](https://www.google.com/maps/search/?api=1&query=65.012,25.465) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Oulu%2C%20Finland) |
+| 14 | [Hanko](cities/hanko.yaml) | City / town | **78.00** | **Relaxation 8.7**, **Beaches 8.6**, **Architecture 8.3** | 7.8 / 7.8 / 7.5 / 8.4 / 7.5 | [59.824, 22.969](https://www.google.com/maps/search/?api=1&query=59.824,22.969) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hanko%2C%20Finland) |
+| 15 | [Loviisa](cities/loviisa.yaml) | City / town | **77.35** | **Architecture 8.5**, **History 8.2** | 7.7 / 7.9 / 7.7 / 8.0 / 7.1 | [60.457, 26.225](https://www.google.com/maps/search/?api=1&query=60.457,26.225) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Loviisa%2C%20Finland) |
+| 16 | [Pori](cities/pori.yaml) | City / town | **76.80** | **Culture 8.5**, **History 7.9** | 7.5 / 7.6 / 7.7 / 8.0 / 7.9 | [61.486, 21.798](https://www.google.com/maps/search/?api=1&query=61.486,21.798) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Pori%2C%20Finland) |
+| 17 | [Sirkka (Levi)](cities/sirkka.yaml) | City / town | **75.80** | **Adventure 8.8**, **Relaxation 8.4** | 7.5 / 7.6 / 6.9 / 8.6 / 7.6 | [67.805, 24.805](https://www.google.com/maps/search/?api=1&query=67.805,24.805) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sirkka%20%28Levi%29%2C%20Finland) |
+| 18 | [Saariselkä](cities/saariselka.yaml) | City / town | **75.70** | **Adventure 8.7**, **Relaxation 8.4** | 7.5 / 7.7 / 6.9 / 8.5 / 7.4 | [68.42, 27.42](https://www.google.com/maps/search/?api=1&query=68.42,27.42) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Saariselk%C3%A4%2C%20Finland) |
+| 19 | [Kemi](cities/kemi.yaml) | City / town | **74.25** | **Adventure 8.0**, **Culture 7.7** | 7.2 / 7.7 / 7.2 / 7.8 / 7.3 | [65.736, 24.563](https://www.google.com/maps/search/?api=1&query=65.736,24.563) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kemi%2C%20Finland) |
+| 20 | [Kuusamo](cities/kuusamo.yaml) | City / town | **73.85** | **Adventure 8.2**, **Relaxation 8.0** | 7.2 / 7.5 / 7.1 / 8.0 / 7.3 | [65.964, 29.187](https://www.google.com/maps/search/?api=1&query=65.964,29.187) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kuusamo%2C%20Finland) |
 
 ---
 

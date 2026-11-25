@@ -1,0 +1,15 @@
+id: sight-fi-muuratsalo-experimental-house
+name: "Experimental House, Muuratsalo"
+location:
+  country_code: FI
+  latitude: 62.114798
+  longitude: 25.745002
+scores:
+  impact: 8.3
+  uniqueness: 9.0
+  significance: 9.0
+  experience: 8.4
+  depth: 7.5
+  categories:
+    architecture: 9.2
+    history: 9
