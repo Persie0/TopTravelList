@@ -1,0 +1,15 @@
+id: sight-pk-uch-sharif-tombs
+name: "Uch Sharif Tomb and Mosque Ensemble"
+location:
+  country_code: PK
+  latitude: 29.24
+  longitude: 71.06
+scores:
+  impact: 8.4
+  uniqueness: 8.8
+  significance: 8.6
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.0
+    history: 8.8
