@@ -1,0 +1,16 @@
+id: sight-pg-port-moresby-nature-park
+name: "Port Moresby Nature Park"
+location:
+  country_code: PG
+  latitude: -9.40524
+  longitude: 147.16508
+scores:
+  impact: 7.7
+  uniqueness: 8.0
+  significance: 7.7
+  experience: 8.3
+  depth: 7.7
+  categories:
+    nature: 8.3
+    wildlife: 8.6
+    family: 8.2

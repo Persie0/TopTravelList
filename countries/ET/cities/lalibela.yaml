@@ -1,0 +1,15 @@
+id: city-et-lalibela
+name: "Lalibela"
+location:
+  country_code: ET
+  latitude: 12.03
+  longitude: 39.04
+scores:
+  impact: 7.8
+  uniqueness: 8.3
+  significance: 8.3
+  experience: 7.8
+  depth: 7.1
+  categories:
+    culture: 8.5
+    history: 8.2

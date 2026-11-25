@@ -1,0 +1,16 @@
+id: sight-et-aksum-archaeological-site
+name: "Aksum Archaeological Site"
+location:
+  country_code: ET
+  latitude: 14.13
+  longitude: 38.72
+scores:
+  impact: 9.1
+  uniqueness: 9.5
+  significance: 9.8
+  experience: 8.7
+  depth: 8.8
+  categories:
+    history: 9.8
+    architecture: 9.3
+    culture: 9.3

@@ -1,0 +1,16 @@
+id: city-eg-rashid
+name: "Rashid / Rosetta"
+location:
+  country_code: EG
+  latitude: 31.4044
+  longitude: 30.4164
+scores:
+  impact: 7.9
+  uniqueness: 8.3
+  significance: 8.7
+  experience: 7.8
+  depth: 7.6
+  categories:
+    architecture: 8.5
+    history: 8.9
+    culture: 8.2

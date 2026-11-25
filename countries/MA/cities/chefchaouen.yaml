@@ -1,0 +1,16 @@
+id: city-ma-chefchaouen
+name: "Chefchaouen"
+location:
+  country_code: MA
+  latitude: 35.171
+  longitude: -5.269
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 8.0
+  experience: 8.7
+  depth: 7.9
+  categories:
+    architecture: 8.8
+    culture: 8.5
+    photography: 9.3

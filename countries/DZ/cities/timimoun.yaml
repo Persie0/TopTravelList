@@ -1,0 +1,16 @@
+id: city-dz-timimoun
+name: "Timimoun"
+location:
+  country_code: DZ
+  latitude: 29.263
+  longitude: 0.241
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 8.0
+  experience: 8.1
+  depth: 7.7
+  categories:
+    architecture: 8.8
+    culture: 8.5
+    photography: 8.9

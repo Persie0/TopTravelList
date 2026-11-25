@@ -1,0 +1,17 @@
+id: sight-ma-figuig-oasis
+name: "Figuig Oasis"
+location:
+  country_code: MA
+  latitude: 32.11
+  longitude: -1.23
+scores:
+  impact: 8.5
+  uniqueness: 9
+  significance: 8.9
+  experience: 8.3
+  depth: 8.5
+  categories:
+    culture: 9.1
+    architecture: 8.9
+    history: 8.8
+    photography: 8.8

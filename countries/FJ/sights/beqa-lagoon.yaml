@@ -1,0 +1,16 @@
+id: sight-fj-beqa-lagoon
+name: "Beqa Lagoon"
+location:
+  country_code: FJ
+  latitude: -18.42973
+  longitude: 178.04924
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 8.4
+  experience: 9.0
+  depth: 8.6
+  categories:
+    nature: 8.9
+    wildlife: 9.2
+    adventure: 9.1

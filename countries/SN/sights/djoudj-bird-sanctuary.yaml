@@ -1,0 +1,16 @@
+id: sight-sn-djoudj-bird-sanctuary
+name: "Djoudj National Bird Sanctuary"
+location:
+  country_code: SN
+  latitude: 16.414602
+  longitude: -16.237906
+scores:
+  impact: 9.2
+  uniqueness: 9.2
+  significance: 9.4
+  experience: 9.0
+  depth: 8.6
+  categories:
+    nature: 9.4
+    wildlife: 9.6
+    photography: 9.2

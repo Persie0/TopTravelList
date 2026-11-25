@@ -1,0 +1,16 @@
+id: sight-eg-bibliotheca-alexandrina
+name: "Bibliotheca Alexandrina"
+location:
+  country_code: EG
+  latitude: 31.209
+  longitude: 29.909
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.8
+  depth: 8.6
+  categories:
+    architecture: 9.2
+    culture: 9.1
+    history: 8.5

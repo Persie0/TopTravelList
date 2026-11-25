@@ -1,0 +1,16 @@
+id: sight-mg-ankarana
+name: "Ankarana Special Reserve"
+location:
+  country_code: MG
+  latitude: -12.902064
+  longitude: 49.137094
+scores:
+  impact: 9.3
+  uniqueness: 9.4
+  significance: 9.3
+  experience: 9.0
+  depth: 9.0
+  categories:
+    nature: 9.5
+    adventure: 9.2
+    photography: 9.3

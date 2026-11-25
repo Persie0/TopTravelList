@@ -1,0 +1,16 @@
+id: sight-tn-matmata-troglodyte-homes
+name: "Matmata Troglodyte Homes"
+location:
+  country_code: TN
+  latitude: 33.543
+  longitude: 9.967
+scores:
+  impact: 8.7
+  uniqueness: 9.0
+  significance: 8.5
+  experience: 8.3
+  depth: 7.7
+  categories:
+    architecture: 9.1
+    culture: 8.8
+    photography: 8.9

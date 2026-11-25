@@ -1,0 +1,17 @@
+id: sight-tz-arusha-national-park
+name: "Arusha National Park"
+location:
+  country_code: TZ
+  latitude: -3.258
+  longitude: 36.797
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 9
+  depth: 9
+  categories:
+    nature: 9.2
+    wildlife: 8.8
+    adventure: 9.1
+    photography: 9

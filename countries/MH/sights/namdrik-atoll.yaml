@@ -1,0 +1,15 @@
+id: sight-mh-namdrik-atoll
+name: "Namdrik Atoll Ramsar Site"
+location:
+  country_code: MH
+  latitude: 5.61667
+  longitude: 168.1
+scores:
+  impact: 7.8
+  uniqueness: 8.2
+  significance: 8.4
+  experience: null
+  depth: null
+  categories:
+    nature: 8.5
+    wildlife: null

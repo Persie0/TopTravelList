@@ -1,0 +1,15 @@
+id: sight-mz-gorongosa-national-park
+name: "Gorongosa National Park"
+location:
+  country_code: MZ
+  latitude: -18.6903
+  longitude: 34.3136
+scores:
+  impact: 9.2
+  uniqueness: 9.2
+  significance: 9.5
+  experience: 9.0
+  depth: 9.1
+  categories:
+    nature: 9.5
+    wildlife: 9.4

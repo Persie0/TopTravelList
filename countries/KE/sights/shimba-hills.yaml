@@ -1,0 +1,15 @@
+id: sight-ke-shimba-hills
+name: "Shimba Hills National Reserve"
+location:
+  country_code: KE
+  latitude: -4.25
+  longitude: 39.3925
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 9.0
+  experience: 8.6
+  depth: 8.4
+  categories:
+    nature: 9.1
+    wildlife: 9.0

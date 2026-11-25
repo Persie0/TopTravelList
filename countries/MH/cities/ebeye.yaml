@@ -1,0 +1,15 @@
+id: city-mh-ebeye
+name: "Ebeye"
+location:
+  country_code: MH
+  latitude: 8.775
+  longitude: 167.739
+scores:
+  impact: 5.8
+  uniqueness: 7.5
+  significance: 7.7
+  experience: 6.5
+  depth: 5.8
+  categories:
+    culture: 7.6
+    history: 7.8

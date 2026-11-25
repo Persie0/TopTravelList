@@ -1,0 +1,16 @@
+id: sight-ly-sabratha-archaeological-site
+name: "Sabratha Archaeological Site"
+location:
+  country_code: LY
+  latitude: 32.80528
+  longitude: 12.485
+scores:
+  impact: 9.3
+  uniqueness: 9.2
+  significance: 9.4
+  experience: 9.0
+  depth: 8.8
+  categories:
+    architecture: 9.5
+    history: 9.4
+    photography: 9.4

@@ -1,0 +1,16 @@
+id: city-ma-rabat
+name: "Rabat"
+location:
+  country_code: MA
+  latitude: 34.0209
+  longitude: -6.8416
+scores:
+  impact: 8.6
+  uniqueness: 8.5
+  significance: 9.0
+  experience: 8.7
+  depth: 8.8
+  categories:
+    architecture: 8.8
+    history: 9.0
+    culture: 8.7

@@ -1,0 +1,15 @@
+id: city-ke-kisumu
+name: "Kisumu"
+location:
+  country_code: KE
+  latitude: -0.102
+  longitude: 34.762
+scores:
+  impact: 7.6
+  uniqueness: 7.8
+  significance: 7.8
+  experience: 8.0
+  depth: 7.7
+  categories:
+    culture: 8.3
+    food: 8.0

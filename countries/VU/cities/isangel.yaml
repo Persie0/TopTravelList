@@ -1,0 +1,13 @@
+id: city-vu-isangel
+name: "Isangel"
+location:
+  country_code: VU
+  latitude: -19.54167
+  longitude: 169.28167
+scores:
+  impact: null
+  uniqueness: null
+  significance: 6.4
+  experience: null
+  depth: null
+  categories: {}

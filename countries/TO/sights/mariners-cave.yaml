@@ -1,0 +1,15 @@
+id: sight-to-mariners-cave
+name: "Mariner's Cave"
+location:
+  country_code: TO
+  latitude: -18.69086
+  longitude: -174.07465
+scores:
+  impact: 8.2
+  uniqueness: 8.7
+  significance: 7.1
+  experience: 7.8
+  depth: 7.2
+  categories:
+    nature: 8.5
+    adventure: 8.6

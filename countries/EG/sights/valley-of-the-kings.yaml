@@ -1,0 +1,16 @@
+id: sight-eg-valley-of-the-kings
+name: "Valley of the Kings"
+location:
+  country_code: EG
+  latitude: 25.7402
+  longitude: 32.6014
+scores:
+  impact: 9.6
+  uniqueness: 9.8
+  significance: 9.9
+  experience: 9.3
+  depth: 9.4
+  categories:
+    history: 9.9
+    architecture: 9.5
+    culture: 9.5

@@ -1,0 +1,16 @@
+id: sight-ma-hassan-ii-mosque
+name: "Hassan II Mosque"
+location:
+  country_code: MA
+  latitude: 33.608
+  longitude: -7.632
+scores:
+  impact: 9.4
+  uniqueness: 9.1
+  significance: 9.0
+  experience: 8.8
+  depth: 8.3
+  categories:
+    architecture: 9.5
+    culture: 9.1
+    photography: 9.4

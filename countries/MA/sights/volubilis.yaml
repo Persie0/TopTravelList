@@ -1,0 +1,16 @@
+id: sight-ma-volubilis
+name: "Archaeological Site of Volubilis"
+location:
+  country_code: MA
+  latitude: 34.073
+  longitude: -5.554
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 9.3
+  experience: 8.9
+  depth: 8.8
+  categories:
+    architecture: 9.1
+    history: 9.4
+    photography: 9.0

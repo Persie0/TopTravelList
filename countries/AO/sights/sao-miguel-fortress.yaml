@@ -1,0 +1,15 @@
+id: sight-ao-sao-miguel-fortress
+name: "Fortaleza de São Miguel"
+location:
+  country_code: AO
+  latitude: -8.80776
+  longitude: 13.2232
+scores:
+  impact: 8.3
+  uniqueness: 8.3
+  significance: 8.7
+  experience: 8.4
+  depth: 8.0
+  categories:
+    history: 8.9
+    architecture: 8.7

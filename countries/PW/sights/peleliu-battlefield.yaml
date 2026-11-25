@@ -1,0 +1,15 @@
+id: sight-pw-peleliu-battlefield
+name: "Peleliu Battlefield"
+location:
+  country_code: PW
+  latitude: 7.0114
+  longitude: 134.2461
+scores:
+  impact: 8.5
+  uniqueness: 8.7
+  significance: 9.2
+  experience: 8.5
+  depth: 8.6
+  categories:
+    history: 9.3
+    culture: 8.2
