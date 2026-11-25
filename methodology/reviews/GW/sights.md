@@ -2,6 +2,9 @@
 
 [Worldwide v2](../../../rules.md) · [Future-country workflow](../../future-country-workflow.md). Initial provisional editorial decisions dated 2026-11-25. [UNESCO country inventory](https://whc.unesco.org/en/statesparties/gw/) confirms one inscribed property (2025) and zero tentative entries. The larger biosphere reserve is a different designation. Individual parks and nesting areas overlap the inscribed ecosystem; scores are not additive. [UK travel advice](https://www.gov.uk/foreign-travel-advice/guinea-bissau/safety-and-security) and [Canada advice](https://travel.gc.ca/destinations/guinea-bissau) identify security and residual mine risks. Current access, community permission and seasonal constraints must be checked. Approximate points, not entrances; only the UNESCO property point is directly verified against the authoritative published coordinate. Others based on editorial estimates or listed geographic references, not validated boundary locations. Shared type-based peer sets are provisional; full independent factual checks and wider inventory remain open.
 
+
+Follow-up 2026-11-25: all records now carry references; no full factual verification implied. Museum inventory gaps include the military liberation museum, Cabral mausoleum, Varela, Guiledje, Iemberem, Nhoma and Bubaque environment museum, as identified by the [combined country report](https://achpr-library.uwazi.io/en/entity/u95naszddt). Confirm individual visitor scope and coordinates before cataloguing. Three wildlife category decisions are reassessed below; original values preserved in reassessment notes.
+
 ## sight-gw-coastal-and-marine-ecosystems-of-the-bijagos-archipelago-omati-minho — Coastal and Marine Ecosystems of the Bijagós Archipelago – Omatí Minhô — 2026-11-25
 
 - [YAML](../../../countries/GW/sights/coastal-and-marine-ecosystems-of-the-bijagos-archipelago-omati-minho.yaml) · Action: new · **unassessed**.
@@ -20,6 +23,8 @@
 - High-score challenge: Uniqueness 9.6 and significance/nature/wildlife 9.7 reflect the exceptionally rare deltaic archipelago and internationally important nesting and migration ecology; compare marine reserves rather than borrowing a beach score. No total until coherent permitted visitor scope established.. No approved 10.
 - Evidence: [Reference](https://whc.unesco.org/en/list/1431) — UNESCO property page confirms 2025 inscription, deltaic ecology, nesting and migratory birds; no current visit guarantee; page or search excerpt reviewed 2026-11-25. Individual material claims not comprehensively verified.
 - Remaining gaps: Ordinary permitted visitor experience and route scope not established.
+- Additional scope challenge: [UNESCO](https://whc.unesco.org/en/list/1431/) confirms the marine/intertidal property and ecological exceptionalism, not a single visitor itinerary. The existing nature and wildlife category ratings remain provisional; compare with Wadden Sea, Banc d'Arguin, Great Barrier Reef and Galápagos. The aggregate wildlife category requires specific follow-up because the allowed routes remain unclear.
+
 
 ## sight-gw-orango-islands-national-park — Orango Islands National Park — 2026-11-25
 
@@ -35,10 +40,12 @@
 - Significance 9.3: important protected coastal ecosystems.
 - Experience 8.7: guided excursions subject to permission.
 - Depth 8.8: several island and water routes.
-- Categories: nature:9.4, wildlife:9.5, adventure:8.7. Overall: 90.65/100.
-- High-score challenge: Wildlife 9.5 reflects the unusual coastal hippo habitat plus turtle and bird diversity; Aqaba has different marine fauna, and broader Ha Long landscape tours have different scope. No guaranteed wildlife encounters.. No approved 10.
+- Categories: nature:9.4, wildlife:9.2, adventure:8.7. Overall: 90.65/100.
+- High-score challenge: Overall 90.65 reflects unusual coastal habitat and combined island exploration; wildlife reduced below exceptional threshold following reassessment. No approved 10.
 - Evidence: [Reference](https://www.bioguinea.org/blue-bijagos/) — Bio Guinea page confirms Orango component islands and coastal hippo habitat; Consulmar tour page describes guided excursions https://www.consulmarbissau.com/en/sightseeing-tours; page or search excerpt reviewed 2026-11-25. Individual material claims not comprehensively verified.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access conditions and individual peer/category calibration.
+- Reassessment 2026-11-25: wildlife 9.5 → 9.2. [Guided hippo viewing and seasonal variation](https://www.heritage.world/sites/coastal-and-marine-ecosystems-of-the-bijagos/) support strong merit, but compare Kruger (South Africa), Chobe (Botswana), Pantanal (Brazil) and Kinabatangan (Malaysia): distinctive coastal hippos, narrower confirmed visitor wildlife range than global flagships. Overall 90.65 retained; UNESCO conservation status alone does not justify a wildlife visitor category at 9.5.
+
 
 ## sight-gw-joao-vieira-and-poilao-marine-national-park — João Vieira and Poilão Marine National Park — 2026-11-25
 
@@ -54,10 +61,12 @@
 - Significance 9.6: international green turtle conservation.
 - Experience 8.5: controlled guided observation.
 - Depth 8.5: multiple islands but restricted routes.
-- Categories: nature:9.6, wildlife:9.7, adventure:8.7. Overall: 90.95/100.
-- High-score challenge: Significance/nature 9.6 and wildlife 9.7 reflect globally important turtle nesting documented by UNESCO and Bio Guinea. Experience/depth are lower than broad marine destinations because access is controlled and seasonal.. No approved 10.
+- Categories: nature:9.6, wildlife:9.3, adventure:8.7. Overall: 90.95/100.
+- High-score challenge: Significance/nature 9.6 reflect globally important nesting; visitor wildlife reduced below exceptional threshold. Overall 90.95 remains provisional. No approved 10.
 - Evidence: [Reference](https://www.bioguinea.org/blue-bijagos/) — Bio Guinea describes park and turtle nesting; https://whc.unesco.org/en/list/1431 confirms Poilão nesting significance; https://www.consulmarbissau.com/en/sightseeing-tours offers excursions; page or search excerpt reviewed 2026-11-25. Individual material claims not comprehensively verified.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access conditions and individual peer/category calibration.
+- Reassessment 2026-11-25: wildlife 9.7 → 9.3. [IBAP](https://ibapgbissau.org/pnmjvp-ap/) documents conservation and ecotourism; [UNESCO](https://whc.unesco.org/en/list/1431/) establishes globally exceptional nesting significance. Compare Tortuguero (Costa Rica), Ras Al Jinz (Oman), Mon Repos (Australia) and Galápagos (Ecuador): extraordinary nesting concentration is not the same as breadth and reliability of visitor encounters. Significance 9.6 and nature 9.6 retained on ecological evidence; overall unchanged.
+
 
 ## sight-gw-poilao-island-nesting-beaches — Poilão Island nesting beaches — 2026-11-25
 
@@ -73,10 +82,12 @@
 - Significance 9.7: globally important reproductive habitat.
 - Experience null: permission and season unresolved.
 - Depth null: visitor route unresolved.
-- Categories: wildlife:9.8, nature:9.6. Overall: unranked.
-- High-score challenge: Uniqueness, significance, nature and wildlife 9.6–9.8 justified by documented exceptionally concentrated green turtle nesting; no ordinary beach experience score and no overall without approved visit evidence.. No approved 10.
+- Categories: wildlife:null, nature:9.6. Overall: unranked.
+- High-score challenge: Uniqueness 9.6, significance 9.7 and nature 9.6 reflect exceptional nesting ecology; visitor wildlife and overall unassessed. No approved 10.
 - Evidence: [Reference](https://whc.unesco.org/en/list/1431) — UNESCO property page confirms 2025 inscription, deltaic ecology, nesting and migratory birds; no current visit guarantee; page or search excerpt reviewed 2026-11-25. Individual material claims not comprehensively verified.
 - Remaining gaps: Ordinary permitted visitor experience and route scope not established.
+- Reassessment 2026-11-25: wildlife 9.8 → null. Nesting significance remains 9.7 and uniqueness/nature 9.6 based on [UNESCO](https://whc.unesco.org/en/list/1431/); authorized routine viewing at this sacred protected islet is not sufficiently established independently of the wider park. Compare Tortuguero, Ras Al Jinz, Mon Repos and Galápagos; do not substitute nesting counts for visitor opportunity. Remains unranked.
+
 
 ## sight-gw-urok-islands-community-marine-protected-area — Urok Islands Community Marine Protected Area — 2026-11-25
 
@@ -232,7 +243,7 @@
 
 ## sight-gw-rubane-island-visitor-beaches — Rubane Island (visitor beaches) — 2026-11-25
 
-- [YAML](../../../countries/GW/sights/rubane-island-visitor-beaches.yaml) · Action: new · **editorial-only**.
+- [YAML](../../../countries/GW/sights/rubane-island-visitor-beaches.yaml) · Action: new · **source-linked-unverified**.
 - Scope: permitted island shore and visitor grounds. GPS 11.32, -15.80: approximate representative point, boundary/entrance not independently checked.
 - Worldwide peers (I/U/S/E/D):
   - [Railay Beach (TH)](../../../countries/TH/sights/railay-beach.yaml) — 8.9 / 9.0 / 7.5 / 9.2 / 8.3 (86.30/100); upper anchor; lower impact (quiet tropical shoreline), lower uniqueness (regional island beach setting), lower significance (local recreation), lower experience (beach relaxation), lower depth (bounded shoreline).
@@ -246,7 +257,7 @@
 - Depth 7.0: bounded shoreline.
 - Categories: beaches:8.7, relaxation:8.8. Overall: 76.60/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked destination-specific source; editorial judgment only.
+- Evidence: [Follow-up reference](https://www.consulmarbissau.com/en/bijagos-hotels) — Lodge presence and [independent travel account](https://obscuredestinations.com/guinea-bissau-why-go-and-things-to-know/) document beach-based stays; not whole island unrestricted access. Reviewed 2026-11-25. Original assessment lacked a per-record source; no complete factual verification.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access conditions and individual peer/category calibration.
 
 ## sight-gw-varela-beach — Varela Beach — 2026-11-25
@@ -384,7 +395,7 @@
 
 ## sight-gw-bissau-cathedral — Bissau Cathedral — 2026-11-25
 
-- [YAML](../../../countries/GW/sights/bissau-cathedral.yaml) · Action: new · **editorial-only**.
+- [YAML](../../../countries/GW/sights/bissau-cathedral.yaml) · Action: new · **source-linked-unverified**.
 - Scope: church and permitted precinct. GPS 11.861, -15.581: approximate representative point, boundary/entrance not independently checked.
 - Worldwide peers (I/U/S/E/D):
   - [Angkor Wat (KH)](../../../countries/KH/sights/angkor-wat.yaml) — 10.0 / 10.0 / 10.0 / 9.8 / 9.5 (99.20/100); upper anchor; lower impact (colonial-era religious architecture), lower uniqueness (regional Catholic heritage), lower significance (local religious history), lower experience (focused visit), lower depth (one building).
@@ -398,7 +409,7 @@
 - Depth 6.0: one building.
 - Categories: architecture:8.0, history:8.0. Overall: 70.75/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked destination-specific source; editorial judgment only.
+- Evidence: [Follow-up reference](https://gcatholic.org/churches/africa/5101) — Cathedral identity; [architectural inventory](https://mail.hpip.org/en/Heritage/Details/1736) describes construction and setting in search excerpt (direct page returned 502). Reviewed 2026-11-25. Original assessment lacked a per-record source; no complete factual verification.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access conditions and individual peer/category calibration.
 
 ## sight-gw-saltinho-rapids — Saltinho Rapids — 2026-11-25
@@ -455,7 +466,7 @@
 - Depth null: collection extent unknown.
 - Categories: history:9.2, culture:8.5. Overall: unranked.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked destination-specific source; editorial judgment only.
+- Evidence: [Follow-up reference](https://achpr-library.uwazi.io/en/entity/u95naszddt) — Combined periodic country report names the museum; [heritage inventory](https://hpip.org/en/Heritage/Details/1734) identifies birthplace in search excerpt (direct page returned 502). Access and collection remain unconfirmed. Reviewed 2026-11-25. Original assessment lacked a per-record source; no complete factual verification.
 - Remaining gaps: Ordinary permitted visitor experience and route scope not established.
 
 ## sight-gw-national-ethnographic-museum-bissau — National Ethnographic Museum (Bissau) — 2026-11-25
@@ -474,5 +485,5 @@
 - Depth null: collection presentation unknown.
 - Categories: culture:8.9, history:8.6. Overall: unranked.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked destination-specific source; editorial judgment only.
+- Evidence: [Follow-up reference](https://sites.google.com/ucsc.edu/islamicmaterialculture/catalogue-guinea-bissau-a-museum-collection/the-national-museum-of-ethnography-of-bissau) — 2025–26 research project documents renewed closure in 2020 and collection in storage, superseding the 2017 reopening described by [Pitt Rivers Museum](https://www.prm.ox.ac.uk/node/819581). Retain unranked. Reviewed 2026-11-25. Original assessment lacked a per-record source; no complete factual verification.
 - Remaining gaps: Ordinary permitted visitor experience and route scope not established.
