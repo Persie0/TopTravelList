@@ -1,0 +1,15 @@
+id: city-lb-baalbek
+name: "Baalbek"
+location:
+  country_code: LB
+  latitude: 34.006
+  longitude: 36.204
+scores:
+  impact: 7.5
+  uniqueness: 8.0
+  significance: 8.4
+  experience: null
+  depth: 7.2
+  categories:
+    history: 8.9
+    culture: 8.4

@@ -1,0 +1,16 @@
+id: city-lb-byblos-jbeil
+name: "Byblos (Jbeil)"
+location:
+  country_code: LB
+  latitude: 34.1236
+  longitude: 35.6511
+scores:
+  impact: 8.5
+  uniqueness: 8.7
+  significance: 8.6
+  experience: 8.8
+  depth: 8.1
+  categories:
+    architecture: 8.9
+    history: 9.0
+    culture: 8.9
