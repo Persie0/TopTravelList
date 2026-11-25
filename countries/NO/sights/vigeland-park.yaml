@@ -1,7 +1,7 @@
 id: sight-no-vigeland-park
 name: "Vigeland Sculpture Park"
 location:
-  country_code: NO
+  country_code: "NO"
   latitude: 59.927
   longitude: 10.7
 scores:

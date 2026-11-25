@@ -1,0 +1,17 @@
+id: sight-dm-soufriere-scotts-head-marine-reserve
+name: "Soufrière-Scotts Head Marine Reserve"
+location:
+  country_code: DM
+  latitude: 15.230000
+  longitude: -61.383333
+scores:
+  impact: 9.1
+  uniqueness: 9.0
+  significance: 8.5
+  experience: 9.0
+  depth: 8.7
+  categories:
+    nature: 9.4
+    wildlife: 9.2
+    adventure: 9.4
+    photography: 9.3

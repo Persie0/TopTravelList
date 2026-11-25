@@ -1,0 +1,15 @@
+id: sight-pk-margalla-hills
+name: "Margalla Hills National Park"
+location:
+  country_code: PK
+  latitude: 33.77
+  longitude: 73.06
+scores:
+  impact: 8.0
+  uniqueness: 7.6
+  significance: 7.7
+  experience: 8.4
+  depth: 8.1
+  categories:
+    nature: 8.4
+    adventure: 8.4

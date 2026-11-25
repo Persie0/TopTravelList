@@ -1,7 +1,7 @@
 id: sight-no-trolltunga
 name: "Trolltunga"
 location:
-  country_code: NO
+  country_code: "NO"
   latitude: 60.124
   longitude: 6.74
 scores:

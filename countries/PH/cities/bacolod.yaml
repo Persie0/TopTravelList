@@ -1,0 +1,15 @@
+id: city-ph-bacolod
+name: "Bacolod"
+location:
+  country_code: PH
+  latitude: 10.6765
+  longitude: 122.9509
+scores:
+  impact: 7.0
+  uniqueness: 7.4
+  significance: 7.4
+  experience: 7.8
+  depth: 7.3
+  categories:
+    food: 8.5
+    culture: 7.7

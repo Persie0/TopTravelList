@@ -1,0 +1,16 @@
+id: city-lb-sidon-saida
+name: "Sidon (Saida)"
+location:
+  country_code: LB
+  latitude: 33.5631
+  longitude: 35.3689
+scores:
+  impact: 8.2
+  uniqueness: 8.6
+  significance: 8.8
+  experience: null
+  depth: 8.1
+  categories:
+    architecture: 8.9
+    history: 9.2
+    culture: 8.8

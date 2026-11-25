@@ -1,7 +1,7 @@
 id: sight-no-luvdiidcohkka-struve-station
 name: "Luvdiidčohkka (Lohdizhjokki) Struve Geodetic Arc Station"
 location:
-  country_code: NO
+  country_code: "NO"
   latitude: 69.664444
   longitude: 23.602222
 scores:

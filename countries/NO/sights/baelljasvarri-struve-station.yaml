@@ -1,7 +1,7 @@
 id: sight-no-baelljasvarri-struve-station
 name: "Bæljášvárri (Baelljasvarri) Struve Geodetic Arc Station"
 location:
-  country_code: NO
+  country_code: "NO"
   latitude: 69.028611
   longitude: 23.305278
 scores:

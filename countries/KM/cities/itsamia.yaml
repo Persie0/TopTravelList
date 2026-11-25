@@ -1,0 +1,15 @@
+id: city-km-itsamia
+name: "Itsamia"
+location:
+  country_code: KM
+  latitude: -12.3680
+  longitude: 43.8760
+scores:
+  impact: 7.2
+  uniqueness: 8.0
+  significance: 6.9
+  experience: 7.6
+  depth: 5.9
+  categories:
+    culture: 8.4
+    photography: 8.0

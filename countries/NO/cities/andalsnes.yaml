@@ -1,7 +1,7 @@
 id: city-no-andalsnes
 name: "Åndalsnes"
 location:
-  country_code: NO
+  country_code: "NO"
   latitude: 62.568
   longitude: 7.69
 scores:

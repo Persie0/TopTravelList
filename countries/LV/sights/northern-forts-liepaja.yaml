@@ -1,0 +1,15 @@
+id: sight-lv-northern-forts-liepaja
+name: "Northern Forts (Liepāja)"
+location:
+  country_code: LV
+  latitude: 56.601
+  longitude: 21.008
+scores:
+  impact: 8.3
+  uniqueness: 8.5
+  significance: 8.1
+  experience: 7.9
+  depth: 7.5
+  categories:
+    history: 8.6
+    photography: 8.9

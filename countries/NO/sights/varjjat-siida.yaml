@@ -1,7 +1,7 @@
 id: sight-no-varjjat-siida
 name: "Várjjat Siida (tentative property)"
 location:
-  country_code: NO
+  country_code: "NO"
   latitude: 70.07
   longitude: 29.1
 scores:

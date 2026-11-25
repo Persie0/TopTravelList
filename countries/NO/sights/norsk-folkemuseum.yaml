@@ -1,7 +1,7 @@
 id: sight-no-norsk-folkemuseum
 name: "Norwegian Museum of Cultural History (Norsk Folkemuseum)"
 location:
-  country_code: NO
+  country_code: "NO"
   latitude: 59.9067
   longitude: 10.6844
 scores:

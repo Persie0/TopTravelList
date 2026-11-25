@@ -1,7 +1,7 @@
 id: city-no-henningsvaer
 name: "Henningsvær"
 location:
-  country_code: NO
+  country_code: "NO"
   latitude: 68.154
   longitude: 14.203
 scores:

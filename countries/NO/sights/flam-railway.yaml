@@ -1,7 +1,7 @@
 id: sight-no-flam-railway
 name: "Flåm Railway"
 location:
-  country_code: NO
+  country_code: "NO"
   latitude: 60.84
   longitude: 7.14
 scores:

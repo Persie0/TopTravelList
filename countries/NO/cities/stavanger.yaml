@@ -1,7 +1,7 @@
 id: city-no-stavanger
 name: "Stavanger"
 location:
-  country_code: NO
+  country_code: "NO"
   latitude: 58.97
   longitude: 5.7331
 scores:

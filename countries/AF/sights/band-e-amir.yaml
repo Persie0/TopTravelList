@@ -1,0 +1,15 @@
+id: sight-af-band-e-amir
+name: "Band-e-Amir National Park"
+location:
+  country_code: AF
+  latitude: 34.84
+  longitude: 67.23
+scores:
+  impact: 9.2
+  uniqueness: 9.2
+  significance: 8.8
+  experience: null
+  depth: null
+  categories:
+    nature: 9.3
+    photography: 9.4

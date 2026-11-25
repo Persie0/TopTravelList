@@ -1,7 +1,7 @@
 id: city-no-bergen
 name: "Bergen"
 location:
-  country_code: NO
+  country_code: "NO"
   latitude: 60.3913
   longitude: 5.3221
 scores:

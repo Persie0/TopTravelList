@@ -1,0 +1,16 @@
+id: city-cr-golfito
+name: "Golfito"
+location:
+  country_code: CR
+  latitude: 8.638
+  longitude: -83.167
+scores:
+  impact: 7.1
+  uniqueness: 7.5
+  significance: 7.5
+  experience: 7.4
+  depth: 6.9
+  categories:
+    history: 7.9
+    photography: 7.8
+    culture: 7.6

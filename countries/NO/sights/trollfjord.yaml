@@ -1,7 +1,7 @@
 id: sight-no-trollfjord
 name: "Trollfjord"
 location:
-  country_code: NO
+  country_code: "NO"
   latitude: 68.36
   longitude: 14.96
 scores:

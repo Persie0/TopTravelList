@@ -1,0 +1,15 @@
+id: sight-ag-betty-s-hope
+name: "Betty's Hope"
+location:
+  country_code: AG
+  latitude: 17.087
+  longitude: -61.738
+scores:
+  impact: 7.6
+  uniqueness: 8.4
+  significance: 8.8
+  experience: 8.0
+  depth: 7.4
+  categories:
+    history: 9.3
+    culture: 8.8

@@ -1,0 +1,15 @@
+id: city-kz-ridder
+name: "Ridder"
+location:
+  country_code: KZ
+  latitude: 50.344
+  longitude: 83.512
+scores:
+  impact: 6.9
+  uniqueness: 7.3
+  significance: 6.7
+  experience: 7.5
+  depth: 6.6
+  categories:
+    photography: 7.8
+    culture: 7.5

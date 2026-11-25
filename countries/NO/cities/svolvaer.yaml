@@ -1,7 +1,7 @@
 id: city-no-svolvaer
 name: "Svolvær"
 location:
-  country_code: NO
+  country_code: "NO"
   latitude: 68.234
   longitude: 14.568
 scores:

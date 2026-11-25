@@ -1,0 +1,15 @@
+id: sight-pk-pakistan-monument
+name: "Pakistan Monument"
+location:
+  country_code: PK
+  latitude: 33.694
+  longitude: 73.069
+scores:
+  impact: 7.7
+  uniqueness: 7.6
+  significance: 7.9
+  experience: 7.7
+  depth: 6.9
+  categories:
+    architecture: 8.0
+    history: 8.1

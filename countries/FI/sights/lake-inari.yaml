@@ -1,0 +1,16 @@
+id: sight-fi-lake-inari
+name: "Lake Inari"
+location:
+  country_code: FI
+  latitude: 69.05
+  longitude: 27.65
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 8.6
+  experience: 8.6
+  depth: 9.0
+  categories:
+    nature: 9.2
+    photography: 9.1
+    culture: 8.8

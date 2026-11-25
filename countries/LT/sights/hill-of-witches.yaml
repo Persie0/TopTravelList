@@ -1,0 +1,16 @@
+id: sight-lt-hill-of-witches
+name: "Hill of Witches"
+location:
+  country_code: LT
+  latitude: 55.535
+  longitude: 21.114
+scores:
+  impact: 7.8
+  uniqueness: 8.3
+  significance: 7.7
+  experience: 8.4
+  depth: 7.6
+  categories:
+    culture: 8.6
+    photography: 8.3
+    family: 8.5

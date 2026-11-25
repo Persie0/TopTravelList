@@ -1,0 +1,17 @@
+id: sight-ge-david-gareja-lavra-monastery
+name: "David Gareja Lavra Monastery"
+location:
+  country_code: GE
+  latitude: 41.4473
+  longitude: 45.3765
+scores:
+  impact: 8.4
+  uniqueness: 8.7
+  significance: 8.6
+  experience: 8.2
+  depth: 7.1
+  categories:
+    architecture: 8.7
+    history: 9.0
+    culture: 8.8
+    photography: 8.7

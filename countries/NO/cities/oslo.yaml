@@ -1,7 +1,7 @@
 id: city-no-oslo
 name: "Oslo"
 location:
-  country_code: NO
+  country_code: "NO"
   latitude: 59.9139
   longitude: 10.7522
 scores:

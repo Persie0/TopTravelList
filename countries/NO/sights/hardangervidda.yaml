@@ -1,7 +1,7 @@
 id: sight-no-hardangervidda
 name: "Hardangervidda National Park"
 location:
-  country_code: NO
+  country_code: "NO"
   latitude: 60.1
   longitude: 7.5
 scores:

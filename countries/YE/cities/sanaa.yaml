@@ -1,0 +1,16 @@
+id: city-ye-sanaa
+name: "Sana'a"
+location:
+  country_code: YE
+  latitude: 15.3694
+  longitude: 44.191
+scores:
+  impact: 9.0
+  uniqueness: 9.3
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.4
+    history: 9.2
+    culture: 9.0

@@ -1,0 +1,15 @@
+id: city-cr-nosara
+name: "Nosara"
+location:
+  country_code: CR
+  latitude: 9.980
+  longitude: -85.651
+scores:
+  impact: 6.8
+  uniqueness: 7.4
+  significance: 6.1
+  experience: 7.6
+  depth: 6.5
+  categories:
+    relaxation: 8.0
+    culture: 7.4

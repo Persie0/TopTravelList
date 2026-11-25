@@ -1,7 +1,7 @@
 id: sight-no-geirangerfjord
 name: "Geirangerfjord (West Norwegian Fjords)"
 location:
-  country_code: NO
+  country_code: "NO"
   latitude: 62.105
   longitude: 7.07
 scores:

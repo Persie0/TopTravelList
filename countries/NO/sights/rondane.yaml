@@ -1,7 +1,7 @@
 id: sight-no-rondane
 name: "Rondane National Park"
 location:
-  country_code: NO
+  country_code: "NO"
   latitude: 61.89
   longitude: 9.78
 scores:

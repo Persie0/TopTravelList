@@ -1,7 +1,7 @@
 id: sight-no-rago
 name: "Rago National Park"
 location:
-  country_code: NO
+  country_code: "NO"
   latitude: 67.45
   longitude: 15.95
 scores:

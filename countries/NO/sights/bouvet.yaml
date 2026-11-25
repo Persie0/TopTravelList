@@ -1,7 +1,7 @@
 id: sight-no-bouvet
 name: "Bouvet Island (Mid-Atlantic Ridge tentative component)"
 location:
-  country_code: NO
+  country_code: "NO"
   latitude: -54.43
   longitude: 3.38
 scores:

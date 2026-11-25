@@ -1,7 +1,7 @@
 id: sight-no-trollstigen
 name: "Trollstigen mountain road and viewpoints"
 location:
-  country_code: NO
+  country_code: "NO"
   latitude: 62.455
   longitude: 7.663
 scores:

@@ -1,0 +1,15 @@
+id: sight-af-musalla-minarets
+name: "Musalla Complex and Minarets, Herat"
+location:
+  country_code: AF
+  latitude: 34.362
+  longitude: 62.189
+scores:
+  impact: 8.0
+  uniqueness: 8.7
+  significance: 9.0
+  experience: 7.3
+  depth: 6.7
+  categories:
+    architecture: 8.9
+    history: 9.2

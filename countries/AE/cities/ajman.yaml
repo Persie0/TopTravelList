@@ -1,0 +1,15 @@
+id: city-ae-ajman
+name: "Ajman"
+location:
+  country_code: AE
+  latitude: 25.4052
+  longitude: 55.5136
+scores:
+  impact: 6.9
+  uniqueness: 6.9
+  significance: 6.9
+  experience: 7.7
+  depth: 7.3
+  categories:
+    relaxation: 8.0
+    food: 7.8

@@ -1,7 +1,7 @@
 id: sight-no-oslo-opera-house
 name: "Oslo Opera House"
 location:
-  country_code: NO
+  country_code: "NO"
   latitude: 59.907
   longitude: 10.753
 scores:

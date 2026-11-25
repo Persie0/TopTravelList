@@ -1,7 +1,7 @@
 id: sight-no-besseggen
 name: "Besseggen ridge hike"
 location:
-  country_code: NO
+  country_code: "NO"
   latitude: 61.5
   longitude: 8.75
 scores:

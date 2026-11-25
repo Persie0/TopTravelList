@@ -1,0 +1,17 @@
+id: sight-dm-morne-trois-pitons-national-park
+name: "Morne Trois Pitons National Park"
+location:
+  country_code: DM
+  latitude: 15.331113
+  longitude: -61.306610
+scores:
+  impact: 9.4
+  uniqueness: 9.5
+  significance: 9.5
+  experience: 8.8
+  depth: 9.4
+  categories:
+    nature: 9.7
+    wildlife: 9.1
+    adventure: 9.4
+    photography: 9.6

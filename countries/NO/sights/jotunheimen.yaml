@@ -1,7 +1,7 @@
 id: sight-no-jotunheimen
 name: "Jotunheimen National Park"
 location:
-  country_code: NO
+  country_code: "NO"
   latitude: 61.48
   longitude: 8.4
 scores:

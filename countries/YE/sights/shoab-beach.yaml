@@ -1,0 +1,15 @@
+id: sight-ye-shoab-beach
+name: "Shoab Beach"
+location:
+  country_code: YE
+  latitude: 12.54
+  longitude: 53.34
+scores:
+  impact: 8.9
+  uniqueness: 8.3
+  significance: 7.1
+  experience: 8.8
+  depth: 7.3
+  categories:
+    beaches: 9.2
+    relaxation: 8.8

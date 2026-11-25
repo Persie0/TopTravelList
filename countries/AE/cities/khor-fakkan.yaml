@@ -1,0 +1,15 @@
+id: city-ae-khor-fakkan
+name: "Khor Fakkan"
+location:
+  country_code: AE
+  latitude: 25.339
+  longitude: 56.357
+scores:
+  impact: 7.9
+  uniqueness: 8.0
+  significance: 7.2
+  experience: 8.2
+  depth: 7.4
+  categories:
+    photography: 8.5
+    relaxation: 8.4

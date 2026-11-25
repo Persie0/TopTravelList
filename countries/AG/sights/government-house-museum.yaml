@@ -1,0 +1,16 @@
+id: sight-ag-government-house-museum
+name: "Government House Museum"
+location:
+  country_code: AG
+  latitude: 17.122
+  longitude: -61.838
+scores:
+  impact: 7.5
+  uniqueness: 8.1
+  significance: 8.5
+  experience: 8.1
+  depth: 7.4
+  categories:
+    architecture: 8.6
+    history: 8.9
+    culture: 8.7

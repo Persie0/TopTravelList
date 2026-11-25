@@ -1,0 +1,16 @@
+id: sight-bb-crane-beach
+name: "Crane Beach"
+location:
+  country_code: BB
+  latitude: 13.104
+  longitude: -59.443
+scores:
+  impact: 9.1
+  uniqueness: 8.5
+  significance: 6.1
+  experience: 8.7
+  depth: 7.6
+  categories:
+    beaches: 9.4
+    photography: 9.3
+    relaxation: 9.0

@@ -1,0 +1,16 @@
+id: sight-ae-dubai-marina-walk
+name: "Dubai Marina Walk"
+location:
+  country_code: AE
+  latitude: 25.085
+  longitude: 55.147
+scores:
+  impact: 8.5
+  uniqueness: 8.0
+  significance: 6.4
+  experience: 8.8
+  depth: 8.3
+  categories:
+    photography: 9.1
+    food: 8.8
+    relaxation: 8.5

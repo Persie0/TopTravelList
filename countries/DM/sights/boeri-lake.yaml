@@ -1,0 +1,16 @@
+id: sight-dm-boeri-lake
+name: "Boeri Lake"
+location:
+  country_code: DM
+  latitude: 15.351
+  longitude: -61.314
+scores:
+  impact: 8.5
+  uniqueness: 8.6
+  significance: 7.4
+  experience: 8.3
+  depth: 7.0
+  categories:
+    nature: 8.9
+    photography: 9.1
+    adventure: 8.3

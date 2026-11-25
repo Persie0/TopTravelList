@@ -1,0 +1,16 @@
+id: sight-tj-kulikalon-lakes
+name: "Kulikalon Lakes"
+location:
+  country_code: TJ
+  latitude: 39.25
+  longitude: 68.18
+scores:
+  impact: 9.1
+  uniqueness: 8.8
+  significance: 7.7
+  experience: 8.9
+  depth: 8.5
+  categories:
+    nature: 9.2
+    photography: 9.4
+    adventure: 9.1

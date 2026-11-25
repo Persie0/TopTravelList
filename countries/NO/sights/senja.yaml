@@ -1,7 +1,7 @@
 id: sight-no-senja
 name: "Senja Island"
 location:
-  country_code: NO
+  country_code: "NO"
   latitude: 69.36
   longitude: 17.4
 scores:

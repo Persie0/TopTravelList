@@ -1,0 +1,15 @@
+id: city-mn-kharkhorin
+name: "Kharkhorin"
+location:
+  country_code: MN
+  latitude: 47.197
+  longitude: 102.823
+scores:
+  impact: 7.2
+  uniqueness: 8.0
+  significance: 8.6
+  experience: 7.6
+  depth: 6.9
+  categories:
+    history: 8.8
+    culture: 8.2

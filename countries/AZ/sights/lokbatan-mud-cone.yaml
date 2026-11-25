@@ -1,0 +1,14 @@
+id: sight-az-lokbatan-mud-cone
+name: "Lokbatan Mud Cone"
+location:
+  country_code: AZ
+  latitude: 40.305
+  longitude: 49.715
+scores:
+  impact: null
+  uniqueness: 9.0
+  significance: 8.7
+  experience: null
+  depth: null
+  categories:
+    nature: 9.2

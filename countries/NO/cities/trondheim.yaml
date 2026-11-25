@@ -1,7 +1,7 @@
 id: city-no-trondheim
 name: "Trondheim"
 location:
-  country_code: NO
+  country_code: "NO"
   latitude: 63.4305
   longitude: 10.3951
 scores:

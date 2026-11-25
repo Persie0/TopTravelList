@@ -1,0 +1,15 @@
+id: sight-lt-gediminas-tower
+name: "Gediminas Castle Tower"
+location:
+  country_code: LT
+  latitude: 54.686
+  longitude: 25.29
+scores:
+  impact: 8.4
+  uniqueness: 8.1
+  significance: 8.8
+  experience: 8.5
+  depth: 7.4
+  categories:
+    history: 9
+    photography: 9.1
