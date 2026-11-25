@@ -1,0 +1,15 @@
+id: sight-gy-joe-vieira-park
+name: "Joe Vieira Park"
+location:
+  country_code: GY
+  latitude: 6.8130
+  longitude: -58.1880
+scores:
+  impact: 6.4
+  uniqueness: 6.2
+  significance: 6.2
+  experience: 7.2
+  depth: 6.5
+  categories:
+    relaxation: 7.5
+    family: 7.5

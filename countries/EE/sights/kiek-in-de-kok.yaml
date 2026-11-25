@@ -1,0 +1,15 @@
+id: sight-ee-kiek-in-de-kok
+name: "Kiek in de Kök and Bastion Passages"
+location:
+  country_code: EE
+  latitude: 59.435
+  longitude: 24.742
+scores:
+  impact: 8.2
+  uniqueness: 8.4
+  significance: 8.5
+  experience: 8.5
+  depth: 8.3
+  categories:
+    history: 8.9
+    architecture: 8.7

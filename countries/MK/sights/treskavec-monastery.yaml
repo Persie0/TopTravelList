@@ -1,0 +1,16 @@
+id: sight-mk-treskavec-monastery
+name: "Treskavec Monastery"
+location:
+  country_code: MK
+  latitude: 41.4054
+  longitude: 21.5369
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 8.8
+  experience: 8.3
+  depth: 7.9
+  categories:
+    architecture: 9.0
+    history: 9.1
+    photography: 9.2

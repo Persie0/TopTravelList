@@ -1,0 +1,16 @@
+id: sight-bz-sapodilla-cayes-marine-reserve
+name: "Sapodilla Cayes Marine Reserve"
+location:
+  country_code: BZ
+  latitude: 16.109139
+  longitude: -88.269556
+scores:
+  impact: 8.6
+  uniqueness: 8.6
+  significance: 8.9
+  experience: 8.7
+  depth: 8.4
+  categories:
+    nature: 9.0
+    wildlife: 8.9
+    adventure: 8.8

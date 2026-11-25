@@ -1,0 +1,17 @@
+id: sight-sc-curieuse-marine-national-park
+name: "Curieuse Marine National Park"
+location:
+  country_code: SC
+  latitude: -4.2840
+  longitude: 55.7250
+scores:
+  impact: 9.0
+  uniqueness: 9.1
+  significance: 8.8
+  experience: 9.0
+  depth: 8.5
+  categories:
+    nature: 9.2
+    wildlife: 9.4
+    adventure: 8.9
+    photography: 9.1

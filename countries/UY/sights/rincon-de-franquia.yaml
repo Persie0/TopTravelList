@@ -1,0 +1,15 @@
+id: sight-uy-rincon-de-franquia
+name: "Rincon de Franquia"
+location:
+  country_code: UY
+  latitude: -30.2070
+  longitude: -57.6080
+scores:
+  impact: 7.3
+  uniqueness: 8.0
+  significance: 8.2
+  experience: 7.6
+  depth: 7.4
+  categories:
+    wildlife: 8.5
+    nature: 8.3

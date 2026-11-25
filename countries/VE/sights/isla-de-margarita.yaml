@@ -1,0 +1,16 @@
+id: sight-ve-isla-de-margarita
+name: "Isla de Margarita"
+location:
+  country_code: VE
+  latitude: 11.0200
+  longitude: -63.9500
+scores:
+  impact: 8.3
+  uniqueness: 8.0
+  significance: 7.3
+  experience: 8.3
+  depth: 8.5
+  categories:
+    beaches: 9.1
+    relaxation: 8.7
+    photography: 8.5

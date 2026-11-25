@@ -1,0 +1,15 @@
+id: sight-bo-isiboro-secure-national-park-and-indigenous-territory
+name: "Isiboro Sécure National Park and Indigenous Territory"
+location:
+  country_code: BO
+  latitude: -15.6000
+  longitude: -65.8000
+scores:
+  impact: null
+  uniqueness: 9.0
+  significance: 9.3
+  experience: null
+  depth: null
+  categories:
+    nature: 9.4
+    wildlife: 9.3

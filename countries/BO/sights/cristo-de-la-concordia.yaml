@@ -1,0 +1,15 @@
+id: sight-bo-cristo-de-la-concordia
+name: "Cristo de la Concordia"
+location:
+  country_code: BO
+  latitude: -17.3840
+  longitude: -66.1350
+scores:
+  impact: 8.2
+  uniqueness: 7.7
+  significance: 7.3
+  experience: 8.0
+  depth: 6.6
+  categories:
+    photography: 8.7
+    architecture: 8.4

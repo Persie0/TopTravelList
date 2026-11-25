@@ -1,0 +1,15 @@
+id: city-xk-vushtrri
+name: "Vushtrri"
+location:
+  country_code: XK
+  latitude: 42.8231
+  longitude: 20.9675
+scores:
+  impact: 7.1
+  uniqueness: 7.7
+  significance: 7.8
+  experience: 7.4
+  depth: 6.8
+  categories:
+    history: 8.5
+    architecture: 8.1

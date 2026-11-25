@@ -1,0 +1,16 @@
+id: sight-pa-isla-iguana-wildlife-refuge
+name: "Isla Iguana Wildlife Refuge"
+location:
+  country_code: PA
+  latitude: 7.625
+  longitude: -79.999
+scores:
+  impact: 8.6
+  uniqueness: 8.5
+  significance: 8.5
+  experience: 8.8
+  depth: 7.9
+  categories:
+    wildlife: 9.1
+    nature: 9.0
+    beaches: 8.8

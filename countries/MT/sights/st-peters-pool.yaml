@@ -1,0 +1,16 @@
+id: sight-mt-st-peters-pool
+name: "St Peter's Pool"
+location:
+  country_code: MT
+  latitude: 35.8339
+  longitude: 14.5625
+scores:
+  impact: 8.4
+  uniqueness: 8.4
+  significance: 6.4
+  experience: 8.5
+  depth: 7.3
+  categories:
+    nature: 8.9
+    beaches: 8.7
+    photography: 9.0

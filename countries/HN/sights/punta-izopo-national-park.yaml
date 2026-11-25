@@ -1,0 +1,16 @@
+id: sight-hn-punta-izopo-national-park
+name: "Punta Izopo National Park"
+location:
+  country_code: HN
+  latitude: 15.7890
+  longitude: -87.3710
+scores:
+  impact: 8.0
+  uniqueness: 8.3
+  significance: 8.6
+  experience: 8.4
+  depth: 7.8
+  categories:
+    nature: 8.8
+    wildlife: 9.0
+    adventure: 8.4

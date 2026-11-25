@@ -1,0 +1,15 @@
+id: city-uy-artigas
+name: "Artigas"
+location:
+  country_code: UY
+  latitude: -30.4000
+  longitude: -56.4667
+scores:
+  impact: 6.4
+  uniqueness: 6.9
+  significance: 6.7
+  experience: 6.9
+  depth: 6.5
+  categories:
+    culture: 7.3
+    history: 6.9

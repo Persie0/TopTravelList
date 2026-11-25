@@ -1,0 +1,15 @@
+id: city-mt-mellieha
+name: "Mellieħa"
+location:
+  country_code: MT
+  latitude: 35.9567
+  longitude: 14.3628
+scores:
+  impact: 7.7
+  uniqueness: 7.6
+  significance: 7.5
+  experience: 8.1
+  depth: 7.6
+  categories:
+    relaxation: 8.6
+    architecture: 8.2

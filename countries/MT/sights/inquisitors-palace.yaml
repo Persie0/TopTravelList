@@ -1,0 +1,15 @@
+id: sight-mt-inquisitors-palace
+name: "Inquisitor's Palace"
+location:
+  country_code: MT
+  latitude: 35.8875
+  longitude: 14.5229
+scores:
+  impact: 8.0
+  uniqueness: 8.5
+  significance: 8.8
+  experience: 8.3
+  depth: 8.0
+  categories:
+    history: 9.1
+    culture: 8.9

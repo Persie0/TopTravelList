@@ -1,0 +1,16 @@
+id: sight-bo-parque-nacional-cotapata
+name: "Parque Nacional Cotapata"
+location:
+  country_code: BO
+  latitude: -16.2000
+  longitude: -67.9000
+scores:
+  impact: 8.5
+  uniqueness: 8.5
+  significance: 8.6
+  experience: 8.3
+  depth: 8.4
+  categories:
+    nature: 9.0
+    wildlife: 8.8
+    adventure: 8.8

@@ -1,0 +1,15 @@
+id: city-sr-palumeu
+name: "Palumeu"
+location:
+  country_code: SR
+  latitude: 3.3500
+  longitude: -55.4333
+scores:
+  impact: 7.2
+  uniqueness: 8.0
+  significance: 7.3
+  experience: 7.5
+  depth: 6.1
+  categories:
+    culture: 8.3
+    photography: 7.9

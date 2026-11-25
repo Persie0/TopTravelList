@@ -1,0 +1,16 @@
+id: city-ad-les-bons
+name: "Les Bons"
+location:
+  country_code: AD
+  latitude: 42.5398
+  longitude: 1.5857
+scores:
+  impact: 7.6
+  uniqueness: 8.0
+  significance: 7.9
+  experience: 7.6
+  depth: 6.3
+  categories:
+    history: 8.5
+    architecture: 8.4
+    photography: 8.4

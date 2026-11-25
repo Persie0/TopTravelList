@@ -1,0 +1,14 @@
+id: sight-ee-simuna-struve-station
+name: "Simuna Struve Geodetic Arc Station"
+location:
+  country_code: EE
+  latitude: 59.0483
+  longitude: 26.4142
+scores:
+  impact: 6.7
+  uniqueness: 8.0
+  significance: 8.6
+  experience: null
+  depth: null
+  categories:
+    history: 8.6

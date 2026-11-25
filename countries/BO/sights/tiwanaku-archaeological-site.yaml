@@ -1,0 +1,16 @@
+id: sight-bo-tiwanaku-archaeological-site
+name: "Tiwanaku Archaeological Site"
+location:
+  country_code: BO
+  latitude: -16.5547
+  longitude: -68.6739
+scores:
+  impact: 9.0
+  uniqueness: 9.4
+  significance: 9.7
+  experience: 8.6
+  depth: 8.8
+  categories:
+    history: 9.8
+    architecture: 9.3
+    culture: 9.5

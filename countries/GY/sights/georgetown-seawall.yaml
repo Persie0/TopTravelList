@@ -1,0 +1,16 @@
+id: sight-gy-georgetown-seawall
+name: "Georgetown Seawall"
+location:
+  country_code: GY
+  latitude: 6.8300
+  longitude: -58.1610
+scores:
+  impact: 7.2
+  uniqueness: 7.4
+  significance: 7.0
+  experience: 8.0
+  depth: 7.1
+  categories:
+    relaxation: 8.4
+    photography: 8.0
+    culture: 7.8

@@ -1,0 +1,14 @@
+id: city-bh-saar
+name: "Saar"
+location:
+  country_code: BH
+  latitude: 26.1960
+  longitude: 50.4850
+scores:
+  impact: 6.4
+  uniqueness: 6.5
+  significance: 6.8
+  experience: 6.9
+  depth: 6.2
+  categories:
+    culture: 7.0

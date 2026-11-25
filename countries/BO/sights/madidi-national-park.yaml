@@ -1,0 +1,16 @@
+id: sight-bo-madidi-national-park
+name: "Madidi National Park"
+location:
+  country_code: BO
+  latitude: -14.2500
+  longitude: -68.3333
+scores:
+  impact: 9.4
+  uniqueness: 9.3
+  significance: 9.6
+  experience: 8.8
+  depth: 9.4
+  categories:
+    nature: 9.7
+    wildlife: 9.7
+    adventure: 9.4
