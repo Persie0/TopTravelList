@@ -1,0 +1,15 @@
+id: sight-ye-tarim-heritage
+name: "Tarim City Heritage Ensemble"
+location:
+  country_code: YE
+  latitude: 16.055
+  longitude: 49.000278
+scores:
+  impact: 8.6
+  uniqueness: 8.9
+  significance: 8.7
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.2
+    history: 8.9
