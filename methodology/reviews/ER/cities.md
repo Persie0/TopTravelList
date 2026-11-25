@@ -2,6 +2,9 @@
 
 [Rules](../../../rules.md) · [Workflow](../../future-country-workflow.md). 2026-11-25. [UNESCO inventory](https://whc.unesco.org/en/statesparties/er) confirms one inscribed and one tentative property; both included. Asmara city and heritage area overlap; scores not additive. [FCDO regional risks](https://www.gov.uk/foreign-travel-advice/eritrea/regional-risks) and [safety advice](https://www.gov.uk/foreign-travel-advice/eritrea/safety-and-security) excerpts identify border and permit restrictions; intrinsic scores are not travel advice. Eight unique published coordinates cross-checked; other points approximate, not entrances. Shared peer ladders need further individual calibration. Source-linked entries are not fully fact-checked.
 
+
+Follow-up 2026-11-25: six formerly unlinked settlements now carry geographic and historical sources. Coordinates refer to settlements rather than administrative areas. No full visitor-claim verification.
+
 ## city-er-asmara — Asmara — 2026-11-25
 
 - [YAML](../../../countries/ER/cities/asmara.yaml) · Action: new · **source-linked-unverified**.
@@ -99,8 +102,8 @@
 
 ## city-er-nefasit — Nefasit — 2026-11-25
 
-- [YAML](../../../countries/ER/cities/nefasit.yaml) · Action: new · **editorial-only**.
-- Scope: Settlement itself, excluding remote sights. GPS 15.33, 39.06: approximate editorial point.
+- [YAML](../../../countries/ER/cities/nefasit.yaml) · Action: new · **source-linked-unverified**.
+- Scope: Settlement itself, excluding remote sights. GPS 15.33354, 39.0637: [mapped locality](https://mapcarta.com/13006004).
 - Worldwide peers (I/U/S/E/D):
   - [Siem Reap (KH)](../../../countries/KH/cities/siem-reap.yaml) — 8.8 / 9.0 / 9.3 / 9.0 / 9.2 (90.20/100); lower impact (village beneath mountain); lower uniqueness (escarpment settlement); lower significance (railway context); lower experience (local walks); lower depth (monastery excluded).
   - [Luang Prabang (LA)](../../../countries/LA/cities/luang-prabang.yaml) — 9.2 / 9.4 / 9.3 / 9.2 / 9.0 (92.50/100); lower impact (village beneath mountain); lower uniqueness (escarpment settlement); lower significance (railway context); lower experience (local walks); lower depth (monastery excluded).
@@ -113,7 +116,7 @@
 - Depth 5.9: monastery excluded.
 - Categories: culture:7.6, photography:7.8. Overall: 68.00/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked destination-specific source.
+- Evidence: [Geographic reference](https://mapcarta.com/13006004) — Named village and escarpment setting; [local rail tour](https://explore-eritrea.com/to_book/tour-1-explore-eritrea/) confirms gateway role; exclude separate monastery and railway. Reviewed 2026-11-25; visitor quality remains provisional.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access and peer/category calibration.
 
 ## city-er-senafe — Senafe — 2026-11-25
@@ -137,8 +140,8 @@
 
 ## city-er-adi-keyh — Adi Keyh — 2026-11-25
 
-- [YAML](../../../countries/ER/cities/adi-keyh.yaml) · Action: new · **editorial-only**.
-- Scope: Settlement itself, excluding remote sights. GPS 14.85, 39.38: approximate editorial point.
+- [YAML](../../../countries/ER/cities/adi-keyh.yaml) · Action: new · **source-linked-unverified**.
+- Scope: Settlement itself, excluding remote sights. GPS 14.8444444, 39.3772222: [mapped locality](https://www.geonames.org/advanced-search.html?q=Eritrea).
 - Worldwide peers (I/U/S/E/D):
   - [Siem Reap (KH)](../../../countries/KH/cities/siem-reap.yaml) — 8.8 / 9.0 / 9.3 / 9.0 / 9.2 (90.20/100); lower impact (highland streets); lower uniqueness (regional trade center); lower significance (archaeological region heritage); lower experience (permitted local walks); lower depth (Qohaito excluded).
   - [Luang Prabang (LA)](../../../countries/LA/cities/luang-prabang.yaml) — 9.2 / 9.4 / 9.3 / 9.2 / 9.0 (92.50/100); lower impact (highland streets); lower uniqueness (regional trade center); lower significance (archaeological region heritage); lower experience (permitted local walks); lower depth (Qohaito excluded).
@@ -151,13 +154,13 @@
 - Depth 6.1: Qohaito excluded.
 - Categories: culture:7.9, history:8.0. Overall: 69.40/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked destination-specific source.
+- Evidence: [Geographic reference](https://www.geonames.org/advanced-search.html?q=Eritrea) — Named settlement, not archaeological landscape; [Qoahito nomination](https://whc.unesco.org/en/tentativelists/5600/) supplies regional context. Reviewed 2026-11-25; visitor quality remains provisional.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access and peer/category calibration.
 
 ## city-er-foro — Foro — 2026-11-25
 
-- [YAML](../../../countries/ER/cities/foro.yaml) · Action: new · **editorial-only**.
-- Scope: Settlement itself, excluding remote sights. GPS 15.26, 39.62: approximate editorial point.
+- [YAML](../../../countries/ER/cities/foro.yaml) · Action: new · **source-linked-unverified**.
+- Scope: Settlement itself, excluding remote sights. GPS 15.26303, 39.62239: [mapped locality](https://mapcarta.com/13178568).
 - Worldwide peers (I/U/S/E/D):
   - [Siem Reap (KH)](../../../countries/KH/cities/siem-reap.yaml) — 8.8 / 9.0 / 9.3 / 9.0 / 9.2 (90.20/100); lower impact (small coastal plain settlement); lower uniqueness (historic port region); lower significance (regional trade heritage); lower experience (local walks); lower depth (Adulis excluded).
   - [Luang Prabang (LA)](../../../countries/LA/cities/luang-prabang.yaml) — 9.2 / 9.4 / 9.3 / 9.2 / 9.0 (92.50/100); lower impact (small coastal plain settlement); lower uniqueness (historic port region); lower significance (regional trade heritage); lower experience (local walks); lower depth (Adulis excluded).
@@ -170,13 +173,13 @@
 - Depth 5.8: Adulis excluded.
 - Categories: culture:7.4, history:7.6. Overall: 65.05/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked destination-specific source.
+- Evidence: [Geographic reference](https://mapcarta.com/13178568) — Named town distinct from Adulis; regional historic association, not archaeological-site merit. Reviewed 2026-11-25; visitor quality remains provisional.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access and peer/category calibration.
 
 ## city-er-dekemhare — Dekemhare — 2026-11-25
 
-- [YAML](../../../countries/ER/cities/dekemhare.yaml) · Action: new · **editorial-only**.
-- Scope: Settlement itself, excluding remote sights. GPS 15.07, 39.05: approximate editorial point.
+- [YAML](../../../countries/ER/cities/dekemhare.yaml) · Action: new · **source-linked-unverified**.
+- Scope: Settlement itself, excluding remote sights. GPS 15.06832, 39.04817: [mapped locality](https://mapcarta.com/13024752).
 - Worldwide peers (I/U/S/E/D):
   - [Siem Reap (KH)](../../../countries/KH/cities/siem-reap.yaml) — 8.8 / 9.0 / 9.3 / 9.0 / 9.2 (90.20/100); lower impact (colonial-era streets); lower uniqueness (planned industrial town); lower significance (industrial heritage); lower experience (public street visits); lower depth (limited venues).
   - [Luang Prabang (LA)](../../../countries/LA/cities/luang-prabang.yaml) — 9.2 / 9.4 / 9.3 / 9.2 / 9.0 (92.50/100); lower impact (colonial-era streets); lower uniqueness (planned industrial town); lower significance (industrial heritage); lower experience (public street visits); lower depth (limited venues).
@@ -189,7 +192,7 @@
 - Depth 6.4: limited venues.
 - Categories: architecture:8.3, history:8.2. Overall: 72.05/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked destination-specific source.
+- Evidence: [Geographic reference](https://mapcarta.com/13024752) — [Embassy heritage description](https://home.eritreaembassy.ch/discover-eritrea/tourism-and-travel) documents architecture and liberation history. Reviewed 2026-11-25; visitor quality remains provisional.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access and peer/category calibration.
 
 ## city-er-barentu — Barentu — 2026-11-25
@@ -214,7 +217,7 @@
 ## city-er-nakfa — Nakfa — 2026-11-25
 
 - [YAML](../../../countries/ER/cities/nakfa.yaml) · Action: new · **unassessed**.
-- Scope: Settlement itself, excluding remote sights. GPS 16.67, 38.47: approximate editorial point.
+- Scope: Settlement itself, excluding remote sights. GPS 16.6656, 38.4768: [mapped locality](https://mapcarta.com/Nakfa).
 - Worldwide peers (I/U/S/E/D):
   - [Siem Reap (KH)](../../../countries/KH/cities/siem-reap.yaml) — 8.8 / 9.0 / 9.3 / 9.0 / 9.2 (90.20/100); unresolved impact (impact unknown); lower uniqueness (independence-era mountain town); lower significance (national liberation history); unresolved experience (permitted access unresolved); unresolved depth (depth unknown).
   - [Luang Prabang (LA)](../../../countries/LA/cities/luang-prabang.yaml) — 9.2 / 9.4 / 9.3 / 9.2 / 9.0 (92.50/100); unresolved impact (impact unknown); lower uniqueness (independence-era mountain town); lower significance (national liberation history); unresolved experience (permitted access unresolved); unresolved depth (depth unknown).
@@ -227,13 +230,13 @@
 - Depth null: depth unknown.
 - Categories: history:9.0, culture:8.3. Overall: unranked.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked destination-specific source.
+- Evidence: [Geographic reference](https://mapcarta.com/Nakfa) — [Embassy profile](https://home.eritreaembassy.ch/discover-eritrea/tourism-and-travel) describes liberation history; ordinary permit availability unresolved. Reviewed 2026-11-25; visitor quality remains provisional.
 - Remaining gaps: Normal permitted visitor experience and scope not established.
 
 ## city-er-assab — Assab — 2026-11-25
 
 - [YAML](../../../countries/ER/cities/assab.yaml) · Action: new · **unassessed**.
-- Scope: Settlement itself, excluding remote sights. GPS 13.01, 42.74: approximate editorial point.
+- Scope: Settlement itself, excluding remote sights. GPS 13.009, 42.739: [mapped locality](https://www.geonames.org/ER/largest-cities-in-eritrea.html).
 - Worldwide peers (I/U/S/E/D):
   - [Hong Kong (CN)](../../../countries/CN/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); unresolved impact (impact unknown); lower uniqueness (Afar Red Sea port); lower significance (maritime history); unresolved experience (access unresolved); unresolved depth (depth unknown).
   - [Da Nang (VN)](../../../countries/VN/cities/da-nang.yaml) — 8.2 / 8.1 / 8.3 / 8.9 / 9.0 (83.80/100); unresolved impact (impact unknown); lower uniqueness (Afar Red Sea port); lower significance (maritime history); unresolved experience (access unresolved); unresolved depth (depth unknown).
@@ -246,5 +249,5 @@
 - Depth null: depth unknown.
 - Categories: history:8.3, culture:7.9. Overall: unranked.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked destination-specific source.
+- Evidence: [Geographic reference](https://www.geonames.org/ER/largest-cities-in-eritrea.html) — Named port settlement; [government travel advice](https://travel.gc.ca/destinations/eritrea) establishes travel restrictions, not ordinary visit scope. Reviewed 2026-11-25; visitor quality remains provisional.
 - Remaining gaps: Normal permitted visitor experience and scope not established.
