@@ -1,0 +1,15 @@
+id: sight-tj-sarez-lake
+name: "Sarez Lake"
+location:
+  country_code: TJ
+  latitude: 38.18
+  longitude: 72.72
+scores:
+  impact: null
+  uniqueness: 9.4
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    nature: 9.4
+    photography: 9.3
