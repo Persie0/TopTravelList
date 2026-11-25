@@ -932,3 +932,63 @@ Worldwide v2 · 2026-11-25. Editorial scoring; source links support limited fact
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: No independently checked per-record source.
 - Remaining gaps: Normal permitted visitor experience and routes must be confirmed before ranking.
+
+## Follow-up: sight-sc-aldabra-atoll — 2026-11-25 (worldwide review)
+
+- [YAML](../../../countries/SC/sights/aldabra-atoll.yaml) · Action: rescore · **source-linked-unverified**: limited source claims checked; not comprehensive fact-check. Original decision above retained.
+- Sources inspected 2026-11-25: [https://sif.sc/aldabra](https://sif.sc/aldabra), [https://sif.sc/sfw/aldacal](https://sif.sc/sfw/aldacal), [https://www.sif.sc/categories/tourism-aldabra](https://www.sif.sc/categories/tourism-aldabra)
+- Decision: SIF requires advance clearance and live-aboard vessels, and controls landings and wildlife visits. Exceptional intact atoll ecology and giant tortoises justify the high impact, uniqueness, significance and nature/wildlife ratings as conditional authorized visits, but depth must reflect the bounded permitted itinerary, not the entire reserve.
+- I/U/S/E/D: 9.5 / 9.8 / 9.8 / 8.0 / 8.8 → 9.5 / 9.8 / 9.8 / 8.0 / 7.6; total 93.40/100 → 92.20/100. Categories unchanged. No new 10 or country multiplier. Representative GPS retained.
+
+| Current worldwide peer | I/U/S/E/D | Overall | Scope comparison |
+| --- | --- | --- | --- |
+| [Sipadan Island Reefs](../../../countries/MY/sights/sipadan-island-reefs.yaml) | 9.5 / 9.6 / 9.1 / 9.5 / 8.9 | 93.85/100 | World-class underwater experience with greater normal visitor breadth. |
+| [Aqaba Marine Reserve](../../../countries/JO/sights/aqaba-marine-reserve.yaml) | 8.9 / 9.2 / 9.4 / 9.1 / 8.8 | 90.95/100 | More routinely accessible reef visit with distinct conservation value. |
+| [Tarutao National Marine Park](../../../countries/TH/sights/tarutao-national-marine-park.yaml) | 9.0 / 9.2 / 8.7 / 9.0 / 9.0 | 89.90/100 | Multiple accessible islands and routes. |
+| [Glover's Reef Marine Reserve](../../../countries/BZ/sights/glover-s-reef-marine-reserve.yaml) | 9.1 / 9.2 / 9.4 / 9.2 / 9.0 | 91.90/100 | Atoll visitor scope with broader reef exploration. |
+
+
+## Follow-up: sight-sc-anse-source-d-argent — 2026-11-25 (worldwide review)
+
+- [YAML](../../../countries/SC/sights/anse-source-d-argent.yaml) · Action: fact-check-only · **source-linked-unverified**: limited source claims checked; not comprehensive fact-check. Original decision above retained.
+- Sources inspected 2026-11-25: [https://www.seychelles.com/blog-details/5130/highlights/top-beaches-seychelles-where-pristine-sands-meet-crystal-clear-waters](https://www.seychelles.com/blog-details/5130/highlights/top-beaches-seychelles-where-pristine-sands-meet-crystal-clear-waters)
+- Decision: Tourism Seychelles confirms sculpted granite formations, fine sand and turquoise water. Strong visual rarity and photography remain justified as editorial judgments; the 7.6 depth prevents importing the entire island. High ratings are not based on tourism popularity alone.
+- I/U/S/E/D: 9.8 / 9.7 / 7.8 / 9.2 / 7.6 → 9.8 / 9.7 / 7.8 / 9.2 / 7.6; total 90.65/100 → 90.65/100. Categories unchanged. No new 10 or country multiplier. Representative GPS retained.
+
+| Current worldwide peer | I/U/S/E/D | Overall | Scope comparison |
+| --- | --- | --- | --- |
+| [Railay Beach](../../../countries/TH/sights/railay-beach.yaml) | 8.9 / 9.0 / 7.5 / 9.2 / 8.3 | 86.30/100 | Dramatic limestone setting, broader linked shore experience. |
+| [Nha Trang Beach](../../../countries/VN/sights/nha-trang-beach.yaml) | 8.5 / 8.0 / 7.3 / 9.0 / 8.7 | 82.30/100 | Longer city beach with less singular formations. |
+| [Sokha Beach](../../../countries/KH/sights/sokha-beach.yaml) | 7.7 / 7.7 / 6.4 / 8.5 / 7.8 | 75.70/100 | More conventional bounded beach. |
+| [Nai Yang Beach](../../../countries/TH/sights/nai-yang-beach.yaml) | 7.8 / 8.0 / 6.5 / 8.5 / 7.5 | 76.65/100 | Ordinary leisure beach, less distinct composition. |
+
+
+## Follow-up: sight-sc-anse-lazio — 2026-11-25 (worldwide review)
+
+- [YAML](../../../countries/SC/sights/anse-lazio.yaml) · Action: fact-check-only · **source-linked-unverified**: limited source claims checked; not comprehensive fact-check. Original decision above retained.
+- Sources inspected 2026-11-25: [https://tourism.gov.sc/?p=6887](https://tourism.gov.sc/?p=6887)
+- Decision: Tourism Seychelles describes the broad sand beach framed by granite rocks. Retain high visual/beach quality but lower uniqueness than Anse Source d'Argent and bounded depth. No inference that conditions are always safe.
+- I/U/S/E/D: 9.5 / 9.1 / 7.2 / 9.2 / 7.5 → 9.5 / 9.1 / 7.2 / 9.2 / 7.5; total 86.95/100 → 86.95/100. Categories unchanged. No new 10 or country multiplier. Representative GPS retained.
+
+| Current worldwide peer | I/U/S/E/D | Overall | Scope comparison |
+| --- | --- | --- | --- |
+| [Railay Beach](../../../countries/TH/sights/railay-beach.yaml) | 8.9 / 9.0 / 7.5 / 9.2 / 8.3 | 86.30/100 | Cliff setting offers comparable scenic but different geology. |
+| [Nha Trang Beach](../../../countries/VN/sights/nha-trang-beach.yaml) | 8.5 / 8.0 / 7.3 / 9.0 / 8.7 | 82.30/100 | Broader urban beach, lower natural rarity. |
+| [Sokha Beach](../../../countries/KH/sights/sokha-beach.yaml) | 7.7 / 7.7 / 6.4 / 8.5 / 7.8 | 75.70/100 | More replaceable beach setting. |
+| [Nai Yang Beach](../../../countries/TH/sights/nai-yang-beach.yaml) | 7.8 / 8.0 / 6.5 / 8.5 / 7.5 | 76.65/100 | Conventional beach with similar bounded scope. |
+
+
+## Follow-up: sight-sc-vallee-de-mai-nature-reserve — 2026-11-25 (worldwide review)
+
+- [YAML](../../../countries/SC/sights/vallee-de-mai-nature-reserve.yaml) · Action: fact-check-only · **source-linked-unverified**: limited source claims checked; not comprehensive fact-check. Original decision above retained.
+- Sources inspected 2026-11-25: [https://www.sif.sc/vdm](https://www.sif.sc/vdm), [https://whc.unesco.org/en/list/261/](https://whc.unesco.org/en/list/261/)
+- Decision: The foundation describes a managed endemic palm forest with visitor paths and interpretation. High rarity and nature scores are plausible; 8.3 depth is limited to that reserve rather than the surrounding Praslin National Park.
+- I/U/S/E/D: 9.0 / 9.6 / 9.5 / 8.9 / 8.3 → 9.0 / 9.6 / 9.5 / 8.9 / 8.3; total 91.65/100 → 91.65/100. Categories unchanged. No new 10 or country multiplier. Representative GPS retained.
+
+| Current worldwide peer | I/U/S/E/D | Overall | Scope comparison |
+| --- | --- | --- | --- |
+| [Khao Sok National Park](../../../countries/TH/sights/khao-sok-national-park.yaml) | 9.4 / 9.4 / 9.1 / 9.4 / 9.3 | 93.30/100 | Larger varied forest landscape has greater depth. |
+| [Dana Biosphere Reserve](../../../countries/JO/sights/dana-biosphere-reserve.yaml) | 9.0 / 8.8 / 8.9 / 9.0 / 9.1 | 89.40/100 | More extensive trails and habitats. |
+| [Azraq Wetland Reserve](../../../countries/JO/sights/azraq-wetland-reserve.yaml) | 7.8 / 8.4 / 8.7 / 8.0 / 7.8 | 81.60/100 | Bounded specialist conservation visit. |
+| [Cockscomb Basin Wildlife Sanctuary](../../../countries/BZ/sights/cockscomb-basin-wildlife-sanctuary.yaml) | 8.7 / 8.8 / 9.1 / 8.8 / 9.0 | 88.50/100 | Larger forest sanctuary with broader trail system. |
+

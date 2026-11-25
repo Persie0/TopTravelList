@@ -2,7 +2,7 @@
 
 # Seychelles (SC) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**14 ranked** · **0 unassessed** · **14 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,24 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (14)
 
-No cities, towns & villages have been assessed for **Seychelles** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [La Passe (La Digue)](cities/la-passe-la-digue.yaml) | City / town | **78.65** | **Culture 8.4**, **Relaxation 8.4**, **Photography 8.1**, Food 8.0 | 7.9 / 8.3 / 7.1 / 8.4 / 7.4 | [-4.3483, 55.8295](https://www.google.com/maps/search/?api=1&query=-4.3483,55.8295) | [Google Maps](https://www.google.com/maps/search/?api=1&query=La%20Passe%20%28La%20Digue%29%2C%20Seychelles) |
+| 2 | [Victoria](cities/victoria.yaml) | City / town | **77.90** | **Culture 8.2**, **Food 8.2**, **History 8.0**, Architecture 7.6 | 7.6 / 7.9 / 7.8 / 8.1 / 7.6 | [-4.6191, 55.4513](https://www.google.com/maps/search/?api=1&query=-4.6191,55.4513) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Victoria%2C%20Seychelles) |
+| 3 | [Beau Vallon](cities/beau-vallon.yaml) | City / town | **72.30** | **Relaxation 8.2**, **Food 8.0**, **Culture 7.2** | 7.5 / 7.0 / 6.5 / 8.2 / 7.0 | [-4.6154, 55.4294](https://www.google.com/maps/search/?api=1&query=-4.6154,55.4294) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Beau%20Vallon%2C%20Seychelles) |
+| 4 | [Anse Reunion](cities/anse-reunion.yaml) | City / town | **71.60** | **Relaxation 7.9**, **Culture 7.7** | 7.2 / 7.6 / 6.4 / 7.8 / 6.5 | [-4.358, 55.826](https://www.google.com/maps/search/?api=1&query=-4.358,55.826) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Anse%20Reunion%2C%20Seychelles) |
+| 5 | [Baie Lazare](cities/baie-lazare.yaml) | City / town | **71.10** | **Relaxation 7.7**, **Culture 7.5** | 7.2 / 7.3 / 6.8 / 7.5 / 6.4 | [-4.755, 55.487](https://www.google.com/maps/search/?api=1&query=-4.755,55.487) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Baie%20Lazare%2C%20Seychelles) |
+| 6 | [Port Glaud](cities/port-glaud.yaml) | City / town | **70.50** | **Photography 7.8**, **Relaxation 7.5**, **Culture 7.4** | 7.2 / 7.4 / 6.5 / 7.4 / 6.3 | [-4.661, 55.411](https://www.google.com/maps/search/?api=1&query=-4.661,55.411) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Port%20Glaud%2C%20Seychelles) |
+| 7 | [Anse Royale](cities/anse-royale.yaml) | City / town | **68.75** | **Culture 7.4**, **Food 7.4**, **Relaxation 7.4** | 6.9 / 6.9 / 6.6 / 7.4 / 6.5 | [-4.7372, 55.517](https://www.google.com/maps/search/?api=1&query=-4.7372,55.517) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Anse%20Royale%2C%20Seychelles) |
+| 8 | [Baie Sainte Anne](cities/baie-sainte-anne.yaml) | City / town | **68.30** | **Food 7.4**, **Culture 7.3** | 6.8 / 6.9 / 6.6 / 7.3 / 6.5 | [-4.3467, 55.7653](https://www.google.com/maps/search/?api=1&query=-4.3467,55.7653) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Baie%20Sainte%20Anne%2C%20Seychelles) |
+| 9 | [Grand Anse (Praslin)](cities/grand-anse-praslin.yaml) | City / town | **67.65** | **Relaxation 7.6**, **Food 7.3**, **Culture 7.2** | 6.8 / 6.7 / 6.4 / 7.4 / 6.6 | [-4.3295, 55.7132](https://www.google.com/maps/search/?api=1&query=-4.3295,55.7132) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Grand%20Anse%20%28Praslin%29%2C%20Seychelles) |
+| 10 | [Au Cap](cities/au-cap.yaml) | City / town | **67.60** | **Culture 7.6**, **History 7.2** | 6.6 / 6.9 / 6.8 / 7.1 / 6.3 | [-4.714, 55.521](https://www.google.com/maps/search/?api=1&query=-4.714,55.521) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Au%20Cap%2C%20Seychelles) |
+| 11 | [Takamaka](cities/takamaka.yaml) | City / town | **67.30** | **Culture 7.3**, **Relaxation 7.3** | 6.7 / 7.1 / 6.4 / 7.1 / 6.0 | [-4.779, 55.505](https://www.google.com/maps/search/?api=1&query=-4.779,55.505) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Takamaka%2C%20Seychelles) |
+| 12 | [Anse Boileau](cities/anse-boileau.yaml) | City / town | **66.55** | **Culture 7.2**, **Food 7.2** | 6.6 / 6.8 / 6.4 / 7.1 / 6.3 | [-4.708, 55.48](https://www.google.com/maps/search/?api=1&query=-4.708,55.48) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Anse%20Boileau%2C%20Seychelles) |
+| 13 | [Anse aux Pins](cities/anse-aux-pins.yaml) | City / town | **64.15** | **Food 7.0**, **Culture 6.9** | 6.3 / 6.4 / 6.3 / 6.9 / 6.3 | [-4.694, 55.515](https://www.google.com/maps/search/?api=1&query=-4.694,55.515) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Anse%20aux%20Pins%2C%20Seychelles) |
+| 14 | [Cascade](cities/cascade.yaml) | City / town | **63.15** | **Culture 6.8** | 6.2 / 6.5 / 6.2 / 6.6 / 6.0 | [-4.669, 55.504](https://www.google.com/maps/search/?api=1&query=-4.669,55.504) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cascade%2C%20Seychelles) |
 
 ---
 

@@ -1,5 +1,5 @@
 id: sight-sc-aldabra-atoll
-name: "Aldabra Atoll"
+name: Aldabra Atoll
 location:
   country_code: SC
   latitude: -9.416667
@@ -9,7 +9,7 @@ scores:
   uniqueness: 9.8
   significance: 9.8
   experience: 8.0
-  depth: 8.8
+  depth: 7.6
   categories:
     nature: 9.8
     wildlife: 9.8
