@@ -1,0 +1,15 @@
+id: sight-sk-strbske-pleso
+name: "Štrbské Pleso lake"
+location:
+  country_code: SK
+  latitude: 49.121
+  longitude: 20.061
+scores:
+  impact: 9.0
+  uniqueness: 8.8
+  significance: 8.4
+  experience: 9.0
+  depth: 8.3
+  categories:
+    nature: 9.2
+    photography: 9.3

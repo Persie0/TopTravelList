@@ -1,0 +1,14 @@
+id: sight-sk-harmanecka
+name: "Harmanecká Cave"
+location:
+  country_code: SK
+  latitude: 48.81
+  longitude: 19.04
+scores:
+  impact: 8.7
+  uniqueness: 8.7
+  significance: 8.5
+  experience: 8.6
+  depth: 8.0
+  categories:
+    nature: 9.1

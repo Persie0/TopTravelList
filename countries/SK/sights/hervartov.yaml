@@ -1,0 +1,16 @@
+id: sight-sk-hervartov
+name: "Hervartov Church of St Francis of Assisi"
+location:
+  country_code: SK
+  latitude: 49.259
+  longitude: 21.205
+scores:
+  impact: 8.7
+  uniqueness: 9.0
+  significance: 9.0
+  experience: 8.4
+  depth: 7.6
+  categories:
+    architecture: 9.2
+    history: 9.1
+    culture: 9.0

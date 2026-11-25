@@ -1,0 +1,15 @@
+id: sight-sk-vazecka
+name: "Važecká Cave"
+location:
+  country_code: SK
+  latitude: 49.055
+  longitude: 19.97
+scores:
+  impact: 8.2
+  uniqueness: 8.5
+  significance: 8.6
+  experience: 8.4
+  depth: 7.4
+  categories:
+    nature: 8.9
+    history: 8.7

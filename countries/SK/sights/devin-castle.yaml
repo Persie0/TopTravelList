@@ -1,0 +1,16 @@
+id: sight-sk-devin-castle
+name: "Devín Castle"
+location:
+  country_code: SK
+  latitude: 48.174
+  longitude: 16.979
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 9.1
+  experience: 8.7
+  depth: 8.3
+  categories:
+    history: 9.3
+    photography: 9.2
+    architecture: 9.0

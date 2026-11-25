@@ -1,0 +1,15 @@
+id: city-sk-kezmarok
+name: "Kežmarok"
+location:
+  country_code: SK
+  latitude: 49.137
+  longitude: 20.43
+scores:
+  impact: 8.3
+  uniqueness: 8.5
+  significance: 8.7
+  experience: 8.5
+  depth: 8.0
+  categories:
+    architecture: 9.0
+    history: 9.0

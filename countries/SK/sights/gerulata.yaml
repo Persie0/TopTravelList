@@ -1,0 +1,14 @@
+id: sight-sk-gerulata
+name: "Gerulata Roman archaeological site"
+location:
+  country_code: SK
+  latitude: 48.055
+  longitude: 17.15
+scores:
+  impact: 7.7
+  uniqueness: 8.4
+  significance: 8.9
+  experience: 8.1
+  depth: 7.6
+  categories:
+    history: 9.1

@@ -1,0 +1,14 @@
+id: sight-sk-bukovske-fungi
+name: "Fungal Flora of Bukovské Hills (tentative)"
+location:
+  country_code: SK
+  latitude: 49.05
+  longitude: 22.45
+scores:
+  impact: null
+  uniqueness: 9.0
+  significance: 9.1
+  experience: null
+  depth: null
+  categories:
+    nature: 9.2

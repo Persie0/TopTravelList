@@ -1,0 +1,16 @@
+id: city-sk-trencin
+name: "Trenčín"
+location:
+  country_code: SK
+  latitude: 48.895
+  longitude: 18.044
+scores:
+  impact: 8.5
+  uniqueness: 8.4
+  significance: 8.5
+  experience: 8.6
+  depth: 8.1
+  categories:
+    architecture: 8.9
+    history: 9.0
+    photography: 8.8

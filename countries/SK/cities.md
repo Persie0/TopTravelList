@@ -2,7 +2,7 @@
 
 # Slovakia (SK) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**15 ranked** · **0 unassessed** · **15 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,25 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (15)
 
-No cities, towns & villages have been assessed for **Slovakia** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Banská Štiavnica](cities/banska-stiavnica.yaml) | City / town | **88.80** | **History 9.3**, **Architecture 9.2**, **Photography 9.1** | 8.9 / 9.0 / 9.0 / 8.8 / 8.4 | [48.458, 18.895](https://www.google.com/maps/search/?api=1&query=48.458,18.895) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bansk%C3%A1%20%C5%A0tiavnica%2C%20Slovakia) |
+| 2 | [Košice](cities/kosice.yaml) | City / town | **87.50** | **Architecture 9.2**, **Culture 9.0**, **History 9.0** | 8.7 / 8.7 / 8.8 / 8.9 / 8.7 | [48.7164, 21.2611](https://www.google.com/maps/search/?api=1&query=48.7164,21.2611) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ko%C5%A1ice%2C%20Slovakia) |
+| 3 | [Levoča](cities/levoca.yaml) | City / town | **87.05** | **Architecture 9.2**, **History 9.2** | 8.7 / 8.8 / 8.9 / 8.7 / 8.1 | [49.026, 20.589](https://www.google.com/maps/search/?api=1&query=49.026,20.589) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Levo%C4%8Da%2C%20Slovakia) |
+| 4 | [Bardejov](cities/bardejov.yaml) | City / town | **86.90** | **Architecture 9.3**, **History 9.1** | 8.8 / 8.8 / 8.8 / 8.6 / 8.0 | [49.293, 21.276](https://www.google.com/maps/search/?api=1&query=49.293,21.276) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bardejov%2C%20Slovakia) |
+| 5 | [Bratislava](cities/bratislava.yaml) | City / town | **86.60** | **History 9.0**, **Architecture 8.9**, **Culture 8.9** | 8.6 / 8.5 / 8.7 / 8.9 / 8.8 | [48.1486, 17.1077](https://www.google.com/maps/search/?api=1&query=48.1486,17.1077) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bratislava%2C%20Slovakia) |
+| 6 | [Vlkolínec](cities/vlkolinec.yaml) | City / town | **85.00** | **Architecture 9.2**, **Culture 9.1**, **Photography 9.0** | 8.5 / 8.9 / 8.8 / 8.3 / 7.2 | [49.039, 19.279](https://www.google.com/maps/search/?api=1&query=49.039,19.279) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Vlkol%C3%ADnec%2C%20Slovakia) |
+| 7 | [Trenčín](cities/trencin.yaml) | City / town | **84.50** | **History 9.0**, **Architecture 8.9**, **Photography 8.8** | 8.5 / 8.4 / 8.5 / 8.6 / 8.1 | [48.895, 18.044](https://www.google.com/maps/search/?api=1&query=48.895,18.044) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tren%C4%8D%C3%ADn%2C%20Slovakia) |
+| 8 | [Kežmarok](cities/kezmarok.yaml) | City / town | **84.30** | **Architecture 9.0**, **History 9.0** | 8.3 / 8.5 / 8.7 / 8.5 / 8.0 | [49.137, 20.43](https://www.google.com/maps/search/?api=1&query=49.137,20.43) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ke%C5%BEmarok%2C%20Slovakia) |
+| 9 | [Banská Bystrica](cities/banska-bystrica.yaml) | City / town | **84.15** | **History 9.0**, **Architecture 8.9**, **Culture 8.7** | 8.3 / 8.3 / 8.6 / 8.6 / 8.4 | [48.736, 19.146](https://www.google.com/maps/search/?api=1&query=48.736,19.146) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bansk%C3%A1%20Bystrica%2C%20Slovakia) |
+| 10 | [Čičmany](cities/cicmany.yaml) | City / town | **83.95** | **Architecture 9.1**, **Culture 9.1**, **Photography 9.0** | 8.4 / 9.0 / 8.3 / 8.3 / 7.2 | [48.956, 18.516](https://www.google.com/maps/search/?api=1&query=48.956,18.516) | [Google Maps](https://www.google.com/maps/search/?api=1&query=%C4%8Ci%C4%8Dmany%2C%20Slovakia) |
+| 11 | [Trnava](cities/trnava.yaml) | City / town | **83.80** | **Architecture 8.9**, **History 8.9** | 8.3 / 8.3 / 8.6 / 8.5 / 8.2 | [48.377, 17.587](https://www.google.com/maps/search/?api=1&query=48.377,17.587) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Trnava%2C%20Slovakia) |
+| 12 | [Nitra](cities/nitra.yaml) | City / town | **83.10** | **History 9.1**, **Architecture 8.7** | 8.1 / 8.2 / 8.7 / 8.4 / 8.3 | [48.307, 18.084](https://www.google.com/maps/search/?api=1&query=48.307,18.084) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nitra%2C%20Slovakia) |
+| 13 | [Piešťany](cities/piestany.yaml) | City / town | **81.65** | **Relaxation 9.0**, **Architecture 8.5** | 7.9 / 8.3 / 8.1 / 8.6 / 8.1 | [48.59, 17.83](https://www.google.com/maps/search/?api=1&query=48.59,17.83) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Pie%C5%A1%C5%A5any%2C%20Slovakia) |
+| 14 | [Žilina](cities/zilina.yaml) | City / town | **80.60** | **Architecture 8.6**, **Culture 8.5** | 7.9 / 8.0 / 8.1 / 8.4 / 8.1 | [49.223, 18.74](https://www.google.com/maps/search/?api=1&query=49.223,18.74) | [Google Maps](https://www.google.com/maps/search/?api=1&query=%C5%BDilina%2C%20Slovakia) |
+| 15 | [Poprad](cities/poprad.yaml) | City / town | **79.20** | **Relaxation 8.6**, **History 8.4** | 7.7 / 7.8 / 8.0 / 8.4 / 8.0 | [49.059, 20.297](https://www.google.com/maps/search/?api=1&query=49.059,20.297) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Poprad%2C%20Slovakia) |
 
 ---
 

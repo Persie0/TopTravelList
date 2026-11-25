@@ -1,0 +1,15 @@
+id: sight-sk-belianska
+name: "Belianska Cave"
+location:
+  country_code: SK
+  latitude: 49.228
+  longitude: 20.311
+scores:
+  impact: 8.7
+  uniqueness: 8.7
+  significance: 8.5
+  experience: 8.7
+  depth: 8.2
+  categories:
+    nature: 9.2
+    photography: 9.0

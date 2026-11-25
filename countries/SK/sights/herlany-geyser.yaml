@@ -1,0 +1,15 @@
+id: sight-sk-herlany-geyser
+name: "Herľany Geyser"
+location:
+  country_code: SK
+  latitude: 48.801
+  longitude: 21.479
+scores:
+  impact: 8.3
+  uniqueness: 9.1
+  significance: 8.7
+  experience: 8.2
+  depth: 7.0
+  categories:
+    nature: 8.9
+    photography: 8.8
