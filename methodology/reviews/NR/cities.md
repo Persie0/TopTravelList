@@ -5,7 +5,7 @@
 - Scope: initial, non-exhaustive inventory. Each entry is an editorial judgment; source links were inspected for the stated identity or limited material facts, not score endorsements. Source-linked-unverified is used conservatively where the visitor experience, location triangulation or other material facts remain incomplete. No current-access guarantee.
 - Peer comparisons are qualitative; the current YAML of Salzburg, Vienna, Bangkok, Koh Ker Village, Railay, Cheow Lan, Tonle Sap and Son Doong was consulted; other named peers are qualitative comparators, not claims of retrieved current scores.
 
-### city-nr-yaren — Yaren — 2026-11-25
+## city-nr-yaren — Yaren — 2026-11-25
 
 - YAML: [source](../../../countries/NR/cities/yaren.yaml)
 - Action: new
@@ -17,30 +17,30 @@
   - Mapcarta identifies the government district and museum — https://mapcarta.com/N6936364885
 - Missing or uncertain facts: Current interior access and further civic interpretation not confirmed.
 
-#### Worldwide peer comparisons
+### Worldwide peer comparisons
 - Salzburg (Austria): monumental urban ensemble far stronger
 - Vienna (Austria): much broader civic history and museums
 - Bangkok (Thailand): much greater diversity of street and cultural experiences
 - Koh Ker Village (Cambodia): stronger heritage environment despite modest settlement scale
 
-#### Scoring decisions
+### Scoring decisions
 | Field | New rating | Individual justification |
 | --- | ---: | --- |
-| impact | 5.7 | Modest civic streets rather than Salzburg's monumental fabric |
-| uniqueness | 7.4 | Unusual de facto capital of a tiny republic, unlike ordinary coastal towns |
-| significance | 7.1 | Seat of national institutions, not Vienna's transnational legacy |
-| experience | 5.7 | A brief civic and museum visit, far narrower than Bangkok |
-| depth | 4.9 | Limited civic and cultural stops compared with Koh Ker Village's archaeological context |
+| Impact | 5.7 | Modest civic streets rather than Salzburg's monumental fabric |
+| Uniqueness | 7.4 | Unusual de facto capital of a tiny republic, unlike ordinary coastal towns |
+| Significance | 7.1 | Seat of national institutions, not Vienna's transnational legacy |
+| Experience | 5.7 | A brief civic and museum visit, far narrower than Bangkok |
+| Depth | 4.9 | Limited civic and cultural stops compared with Koh Ker Village's archaeological context |
 
 - Applicable category scores: culture: 6.5, history: 6.6
-- Computed worldwide overall: 63.25/100
+- Overall: 63.25/100.
 - High-score challenge: not applicable (no 9.5+ or 90+ fields/totals).
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide assessment based on the five independent field decisions above, below global leaders where justified.
 - Earlier decision: none.
 - Verification still needed: Current interior access and further civic interpretation not confirmed.
 
-### city-nr-arenibek — Arenibek Village — 2026-11-25
+## city-nr-arenibek — Arenibek Village — 2026-11-25
 
 - YAML: [source](../../../countries/NR/cities/arenibek.yaml)
 - Action: new
@@ -52,30 +52,30 @@
   - Mapcarta describes the homes distributed along the lagoon road — https://mapcarta.com/16566556
 - Missing or uncertain facts: Village-specific cultural programmes and visitor permissions not confirmed.
 
-#### Worldwide peer comparisons
+### Worldwide peer comparisons
 - Salzburg (Austria): far greater built ensemble
 - Koh Ker Village (Cambodia): stronger archaeological association and discovery
 - Kampot (Cambodia): more varied town streets and food
 - Bangkok (Thailand): far broader city activities
 
-#### Scoring decisions
+### Scoring decisions
 | Field | New rating | Individual justification |
 | --- | ---: | --- |
-| impact | 5.8 | Small vegetated residential setting |
-| uniqueness | 6.9 | Inland road pattern unusual for a raised coral island |
-| significance | 5.6 | Local settlement relevance, no documented international heritage ensemble |
-| experience | 5.8 | Short respectful observation of the village rather than a full lake excursion |
-| depth | 4.9 | Limited demonstrated public interpretation |
+| Impact | 5.8 | Small vegetated residential setting |
+| Uniqueness | 6.9 | Inland road pattern unusual for a raised coral island |
+| Significance | 5.6 | Local settlement relevance, no documented international heritage ensemble |
+| Experience | 5.8 | Short respectful observation of the village rather than a full lake excursion |
+| Depth | 4.9 | Limited demonstrated public interpretation |
 
 - Applicable category scores: culture: 5.8, photography: 6.1
-- Computed worldwide overall: 59.45/100
+- Overall: 59.45/100.
 - High-score challenge: not applicable (no 9.5+ or 90+ fields/totals).
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide assessment based on the five independent field decisions above, below global leaders where justified.
 - Earlier decision: none.
 - Verification still needed: Village-specific cultural programmes and visitor permissions not confirmed.
 
-### city-nr-menen — Menen — 2026-11-25
+## city-nr-menen — Menen — 2026-11-25
 
 - YAML: [source](../../../countries/NR/cities/menen.yaml)
 - Action: new
@@ -87,30 +87,30 @@
   - Mapcarta locates the settlement near the coast and hotel — https://mapcarta.com/35736298
 - Missing or uncertain facts: Local visitor experiences and streetscape detail are thinly documented.
 
-#### Worldwide peer comparisons
+### Worldwide peer comparisons
 - Koh Ker Village (Cambodia): more heritage context
 - Kampot (Cambodia): richer street experience
 - Salzburg (Austria): far stronger architecture
 - Bangkok (Thailand): more cultural breadth
 
-#### Scoring decisions
+### Scoring decisions
 | Field | New rating | Individual justification |
 | --- | ---: | --- |
-| impact | 5.4 | Coastal setting, modest built interest |
-| uniqueness | 5.8 | Pacific locality but not rare urban design |
-| significance | 4.8 | Little documented heritage beyond the locality |
-| experience | 5.5 | Limited short walks, not a beach resort experience |
-| depth | 4.4 | Few documented public cultural sites |
+| Impact | 5.4 | Coastal setting, modest built interest |
+| Uniqueness | 5.8 | Pacific locality but not rare urban design |
+| Significance | 4.8 | Little documented heritage beyond the locality |
+| Experience | 5.5 | Limited short walks, not a beach resort experience |
+| Depth | 4.4 | Few documented public cultural sites |
 
 - Applicable category scores: photography: 5.8
-- Computed worldwide overall: 52.95/100
+- Overall: 52.95/100.
 - High-score challenge: not applicable (no 9.5+ or 90+ fields/totals).
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide assessment based on the five independent field decisions above, below global leaders where justified.
 - Earlier decision: none.
 - Verification still needed: Local visitor experiences and streetscape detail are thinly documented.
 
-### city-nr-yangor — Yangor — 2026-11-25
+## city-nr-yangor — Yangor — 2026-11-25
 
 - YAML: [source](../../../countries/NR/cities/yangor.yaml)
 - Action: new
@@ -121,30 +121,30 @@
   - GeoNames identifies the settlement and representative coordinates — https://www.geonames.org/NR/largest-cities-in-nauru.html
 - Missing or uncertain facts: Further local sources needed before any five-field assessment.
 
-#### Worldwide peer comparisons
+### Worldwide peer comparisons
 - Vienna (Austria): global urban depth reference
 - Salzburg (Austria): heritage town benchmark
 - Koh Ker Village (Cambodia): documented small-settlement context
 - Kampot (Cambodia): ordinary town-life comparator
 
-#### Scoring decisions
+### Scoring decisions
 | Field | New rating | Individual justification |
 | --- | ---: | --- |
-| impact | null | No verified streetscape assessment |
-| uniqueness | null | Distinctiveness of the locality not established |
-| significance | null | No locality-specific heritage inventory |
-| experience | null | Visitor experience not established |
-| depth | null | Public exploration breadth unknown |
+| Impact | null | No verified streetscape assessment |
+| Uniqueness | null | Distinctiveness of the locality not established |
+| Significance | null | No locality-specific heritage inventory |
+| Experience | null | Visitor experience not established |
+| Depth | null | Public exploration breadth unknown |
 
 - Applicable category scores: none assessed
-- Computed worldwide overall: unranked
+- Overall: unranked.
 - High-score challenge: not applicable (no 9.5+ or 90+ fields/totals).
 - Approved 10 registry: none.
 - Final decision: Retain in the inventory without a rank until evidence supports all five fields.
 - Earlier decision: none.
 - Verification still needed: Further local sources needed before any five-field assessment.
 
-### city-nr-arijejen — Arijejen Village — 2026-11-25
+## city-nr-arijejen — Arijejen Village — 2026-11-25
 
 - YAML: [source](../../../countries/NR/cities/arijejen.yaml)
 - Action: new
@@ -156,30 +156,30 @@
   - Mapcarta identifies the village but associates it with Denigomodu rather than Aiwo — https://mapcarta.com/16566556
 - Missing or uncertain facts: Conflicting district labels and insufficient visitor evidence; retain locality rather than duplicate district score.
 
-#### Worldwide peer comparisons
+### Worldwide peer comparisons
 - Vienna (Austria): global ceiling for depth
 - Salzburg (Austria): architectural ceiling
 - Koh Ker Village (Cambodia): settlement-scale heritage comparator
 - Kampot (Cambodia): modest-town visitor range comparator
 
-#### Scoring decisions
+### Scoring decisions
 | Field | New rating | Individual justification |
 | --- | ---: | --- |
-| impact | null | Visual experience undocumented |
-| uniqueness | null | Settlement boundaries uncertain |
-| significance | null | Specific cultural history not established |
-| experience | null | No verified visitor offering |
-| depth | null | Exploration scope unknown |
+| Impact | null | Visual experience undocumented |
+| Uniqueness | null | Settlement boundaries uncertain |
+| Significance | null | Specific cultural history not established |
+| Experience | null | No verified visitor offering |
+| Depth | null | Exploration scope unknown |
 
 - Applicable category scores: none assessed
-- Computed worldwide overall: unranked
+- Overall: unranked.
 - High-score challenge: not applicable (no 9.5+ or 90+ fields/totals).
 - Approved 10 registry: none.
 - Final decision: Retain in the inventory without a rank until evidence supports all five fields.
 - Earlier decision: none.
 - Verification still needed: Conflicting district labels and insufficient visitor evidence; retain locality rather than duplicate district score.
 
-### city-nr-anibare — Anibare — 2026-11-25
+## city-nr-anibare — Anibare — 2026-11-25
 
 - YAML: [source](../../../countries/NR/cities/anibare.yaml)
 - Action: new
@@ -191,23 +191,23 @@
   - Mapcarta separates locality and bay — https://mapcarta.com/16566570
 - Missing or uncertain facts: Do not transfer coastal scenery into a settlement total.
 
-#### Worldwide peer comparisons
+### Worldwide peer comparisons
 - Koh Ker Village (Cambodia): stronger documented village heritage
 - Kampot (Cambodia): broader town visit
 - Salzburg (Austria): high urban ensemble benchmark
 - Vienna (Austria): global cultural ceiling
 
-#### Scoring decisions
+### Scoring decisions
 | Field | New rating | Individual justification |
 | --- | ---: | --- |
-| impact | null | Built setting insufficiently documented |
-| uniqueness | null | Locality-specific distinction unresolved |
-| significance | null | Locality-specific heritage undocumented |
-| experience | null | Public settlement activities unconfirmed |
-| depth | null | No evidence of multi-stop experience |
+| Impact | null | Built setting insufficiently documented |
+| Uniqueness | null | Locality-specific distinction unresolved |
+| Significance | null | Locality-specific heritage undocumented |
+| Experience | null | Public settlement activities unconfirmed |
+| Depth | null | No evidence of multi-stop experience |
 
 - Applicable category scores: none assessed
-- Computed worldwide overall: unranked
+- Overall: unranked.
 - High-score challenge: not applicable (no 9.5+ or 90+ fields/totals).
 - Approved 10 registry: none.
 - Final decision: Retain in the inventory without a rank until evidence supports all five fields.
