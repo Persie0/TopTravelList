@@ -1,0 +1,16 @@
+id: city-dj-tadjourah
+name: "Tadjourah"
+location:
+  country_code: DJ
+  latitude: 11.7850
+  longitude: 42.8840
+scores:
+  impact: 7.7
+  uniqueness: 8.1
+  significance: 7.6
+  experience: 7.9
+  depth: 6.6
+  categories:
+    culture: 8.5
+    photography: 8.4
+    history: 8.2

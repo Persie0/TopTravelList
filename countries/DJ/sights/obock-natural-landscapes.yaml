@@ -1,0 +1,14 @@
+id: sight-dj-obock-natural-landscapes
+name: "Obock Natural Landscapes"
+location:
+  country_code: DJ
+  latitude: 12.0000
+  longitude: 43.2500
+scores:
+  impact: null
+  uniqueness: null
+  significance: 8.0
+  experience: null
+  depth: null
+  categories:
+    nature: 8.5
