@@ -1,0 +1,16 @@
+id: sight-uy-mercado-del-puerto
+name: "Mercado del Puerto"
+location:
+  country_code: UY
+  latitude: -34.9058
+  longitude: -56.2130
+scores:
+  impact: 7.8
+  uniqueness: 8.1
+  significance: 7.8
+  experience: 8.6
+  depth: 7.4
+  categories:
+    food: 9.0
+    culture: 8.4
+    architecture: 8.1

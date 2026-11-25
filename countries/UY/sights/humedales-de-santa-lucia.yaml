@@ -1,0 +1,15 @@
+id: sight-uy-humedales-de-santa-lucia
+name: "Humedales de Santa Lucia"
+location:
+  country_code: UY
+  latitude: -34.7770
+  longitude: -56.3530
+scores:
+  impact: 7.5
+  uniqueness: 7.9
+  significance: 8.2
+  experience: 7.7
+  depth: 7.6
+  categories:
+    nature: 8.4
+    wildlife: 8.5
