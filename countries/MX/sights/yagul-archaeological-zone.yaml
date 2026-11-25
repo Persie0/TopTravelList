@@ -1,0 +1,16 @@
+id: sight-mx-yagul-archaeological-zone
+name: "Yagul Archaeological Zone"
+location:
+  country_code: MX
+  latitude: 16.958
+  longitude: -96.45
+scores:
+  impact: 8.0
+  uniqueness: 8.4
+  significance: 8.7
+  experience: 8.2
+  depth: 8.0
+  categories:
+    history: 9.0
+    architecture: 8.8
+    photography: 8.7

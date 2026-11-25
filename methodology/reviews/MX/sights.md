@@ -1305,37 +1305,38 @@ All scores are provisional editorial judgments; no independent fact-check status
 ## sight-mx-yagul-mitla-prehistoric-caves — Prehistoric Caves of Yagul and Mitla — 2026-11-25
 
 - YAML: [source](../../../countries/MX/sights/yagul-mitla-prehistoric-caves.yaml)
-- Action: new
-- Precise subject: Regional valley reference, not cave entrance; original archaeological evidence not assumed visible.
-- Location check: 16.96, -96.38; approximate representative public or regional point; not an entrance or surveyed coordinate. Independent verification outstanding.
-- Evidence status: **unassessed**
-- Evidence: [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1352/) — official property reference; heritage identity and scope, not independent verification of ordinary visitor access or GPS. Country list checked 2026-11-25.
-- Missing or uncertain facts: Ordinary permitted experience, precise component scope and condition.
+- Action: reassessment
+- Precise subject: Only the reservation-based authorized public cave experience, not all prehistoric deposits or the separate archaeological zones.
+- Location check: 16.96, -96.38; Approximate representative point; not a surveyed entrance. Independent coordinate check remains outstanding.
+- Evidence status: **source-linked-unverified**
+- Evidence: [INAH](https://lugares.inah.gob.mx/es/node/5733); [INAH 2](https://lugares.inah.gob.mx/en/node/4365); [UNESCO 3](https://whc.unesco.org/en/list/1352/) — reviewed 2026-11-25. INAH specifies advance authorization from INAH Oaxaca and the Unión Zapata communal authority; regional coordinate retained, not cave entrance.
+- Missing or uncertain facts: Full independent claim-level corroboration, exact location where approximate, current access/permissions.
 
 ### Worldwide peers
 | Peer | Relative comparison |
 | --- | --- |
-| [Angkor Wat](../../../countries/KH/sights/angkor-wat.yaml) | No comparable documented ordinary visitor circuit to Angkor Wat; heritage identity alone does not establish the score. |
-| [Machu Picchu](../../../countries/PE/sights/historic-sanctuary-of-machu-picchu.yaml) | No comparable documented ordinary visitor circuit to Machu Picchu; heritage identity alone does not establish the score. |
-| [Caracol](../../../countries/BZ/sights/caracol-archaeological-reserve.yaml) | No comparable documented ordinary visitor circuit to Caracol; heritage identity alone does not establish the score. |
-| [Layou](../../../countries/VC/sights/layou-petroglyph-park.yaml) | No comparable documented ordinary visitor circuit to Layou; heritage identity alone does not establish the score. |
+| [Angkor Wat](../../../countries/KH/sights/angkor-wat.yaml) | Less monumental than Angkor Wat |
+| [Machu Picchu](../../../countries/PE/sights/historic-sanctuary-of-machu-picchu.yaml) | less scenic breadth than Machu Picchu |
+| [Caracol](../../../countries/BZ/sights/caracol-archaeological-reserve.yaml) | less standing architecture than Caracol |
+| [Layou](../../../countries/VC/sights/layou-petroglyph-park.yaml) | different agricultural archaeology from Layou. |
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
-| Impact | null | visible original deposits uncertain |
-| Uniqueness | null | early agricultural archaeological context |
-| Significance | null | major domestication history |
-| Experience | null | ordinary access unclear |
-| Depth | null | coherent cave visit not established |
+| Impact | 7.5 | Rock shelter landscape, original deposits not assumed visible |
+| Uniqueness | 8.8 | rare prehistoric agricultural transition context |
+| Significance | 9.2 | major archaeological evidence for domestication |
+| Experience | 7.7 | reserved site visit with community permission |
+| Depth | 7.2 | limited confirmed visit breadth. |
 
-- Applicable categories: unassessed.
-- Overall: unranked.
+- Applicable categories: history:9.3,culture:8.9.
+- Overall: 81.65/100.
 - High-score challenge: Not applicable.
 - Approved 10 registry: none.
-- Final decision: Keep unranked pending ordinary visitor evidence.
-- Earlier decision: none.
-- Verification still needed: Site-specific access and geographical checks.
+- Final decision: Provisional editorial score limited to documented permitted scope.
+- Earlier decision: Unranked because ordinary visitor scope had not been established; all five core scores null. The current official visitor evidence supports this bounded reassessment. Original review retained in Git history.
+- Verification still needed: Independent claim and coordinate verification, current operating conditions.
+
 
 ## sight-mx-revillagigedo-archipelago — Archipiélago de Revillagigedo — 2026-11-25
 
@@ -2007,3 +2008,78 @@ All scores are provisional editorial judgments; no independent fact-check status
 
 ### Tentative coverage update
 All 23 tentative nominations now have a named record or a named component (Cuetzalan town only, Santa Prisca church and immediate setting). Six broad landscape entries unassessed. Individual components and independent factual verification remain incomplete.
+
+## sight-mx-yagul-archaeological-zone — Yagul Archaeological Zone — 2026-11-25
+
+- YAML: [source](../../../countries/MX/sights/yagul-archaeological-zone.yaml)
+- Action: new
+- Precise subject: Public Zapotec archaeological city, not the entire prehistoric cave property.
+- Location check: 16.958, -96.45; Approximate representative point; not a surveyed entrance. Independent coordinate check remains outstanding.
+- Evidence status: **source-linked-unverified**
+- Evidence: [INAH](https://www.inah.gob.mx/zonas/zona-arqueologica-de-yagul); [INAH 2](https://lugares.inah.gob.mx/en/node/4365) — reviewed 2026-11-25. INAH describes site access and archaeological context; GPS approximate representative point.
+- Missing or uncertain facts: Full independent claim-level corroboration, exact location where approximate, current access/permissions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Angkor Wat](../../../countries/KH/sights/angkor-wat.yaml) | Less monumental than Angkor Wat |
+| [Machu Picchu](../../../countries/PE/sights/historic-sanctuary-of-machu-picchu.yaml) | less dramatic setting than Machu Picchu |
+| [Caracol](../../../countries/BZ/sights/caracol-archaeological-reserve.yaml) | smaller urban scope than Caracol |
+| [Layou](../../../countries/VC/sights/layou-petroglyph-park.yaml) | more built fabric than Layou. |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.0 | Stone terraces and valley setting |
+| Uniqueness | 8.4 | distinct Zapotec city and palace complex |
+| Significance | 8.7 | important regional archaeological history |
+| Experience | 8.2 | public archaeological circuit |
+| Depth | 8.0 | several connected built areas. |
+
+- Applicable categories: history:9.0,architecture:8.8,photography:8.7.
+- Overall: 82.70/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial score limited to documented permitted scope.
+- Earlier decision: None.
+- Verification still needed: Independent claim and coordinate verification, current operating conditions.
+
+
+## sight-mx-mitla-archaeological-zone — Mitla Archaeological Zone — 2026-11-25
+
+- YAML: [source](../../../countries/MX/sights/mitla-archaeological-zone.yaml)
+- Action: new
+- Precise subject: Public archaeological buildings within living Mitla town; not prehistoric caves or entire town.
+- Location check: 16.927, -96.36; Approximate representative point; not a surveyed entrance. Independent coordinate check remains outstanding.
+- Evidence status: **source-linked-unverified**
+- Evidence: [INAH](https://inah.gob.mx/zonas/zona-arqueologica-de-mitla); [INAH 2](https://lugares.inah.gob.mx/es/node/4350) — reviewed 2026-11-25. INAH documents living town and archaeological structures; approximate representative GPS.
+- Missing or uncertain facts: Full independent claim-level corroboration, exact location where approximate, current access/permissions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Angkor Wat](../../../countries/KH/sights/angkor-wat.yaml) | Less monumental extent than Angkor Wat |
+| [Machu Picchu](../../../countries/PE/sights/historic-sanctuary-of-machu-picchu.yaml) | less mountain drama than Machu Picchu |
+| [Caracol](../../../countries/BZ/sights/caracol-archaeological-reserve.yaml) | more concentrated geometric decoration than Caracol |
+| [Layou](../../../countries/VC/sights/layou-petroglyph-park.yaml) | greater built breadth than Layou. |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.6 | Elaborate geometric stone mosaics |
+| Uniqueness | 8.8 | distinct Zapotec architectural decoration |
+| Significance | 8.9 | major regional religious and cultural history |
+| Experience | 8.5 | public interpreted architecture |
+| Depth | 8.1 | multiple building groups. |
+
+- Applicable categories: history:9.2,architecture:9.2,culture:9.0.
+- Overall: 86.45/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial score limited to documented permitted scope.
+- Earlier decision: None.
+- Verification still needed: Independent claim and coordinate verification, current operating conditions.
+
+
+### Follow-up coverage clarification
+Prehistoric caves now have a reservation-based rating; Mitla and Yagul archaeological cities separately scoped. Other broad nominations and restricted sites remain unresolved.
