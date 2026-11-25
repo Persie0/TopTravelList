@@ -1,0 +1,16 @@
+id: sight-no-lysefjord
+name: "Lysefjord"
+location:
+  country_code: "NO"
+  latitude: 59.02
+  longitude: 6.25
+scores:
+  impact: 9.4
+  uniqueness: 9.2
+  significance: 8.8
+  experience: 9.2
+  depth: 9.0
+  categories:
+    nature: 9.5
+    photography: 9.5
+    adventure: 9.3
