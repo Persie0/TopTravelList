@@ -1,0 +1,15 @@
+id: sight-ph-tabon-caves
+name: "Tabon Cave Complex and Lipuun Point"
+location:
+  country_code: PH
+  latitude: 9.279
+  longitude: 117.976
+scores:
+  impact: 8.1
+  uniqueness: 8.7
+  significance: 9.0
+  experience: null
+  depth: null
+  categories:
+    history: 9.2
+    nature: 8.5

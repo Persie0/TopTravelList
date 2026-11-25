@@ -1,0 +1,15 @@
+id: sight-ph-hamiguitan
+name: "Mount Hamiguitan Range Wildlife Sanctuary"
+location:
+  country_code: PH
+  latitude: 6.74
+  longitude: 126.18
+scores:
+  impact: 8.6
+  uniqueness: 9.0
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    nature: 9.2
+    wildlife: 9.0
