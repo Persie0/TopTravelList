@@ -1,0 +1,16 @@
+id: sight-cu-historic-centre-cienfuegos
+name: "Urban Historic Centre of Cienfuegos"
+location:
+  country_code: CU
+  latitude: 22.145
+  longitude: -80.453
+scores:
+  impact: 8.5
+  uniqueness: 8.6
+  significance: 8.7
+  experience: 8.4
+  depth: 8.3
+  categories:
+    architecture: 9.1
+    history: 8.9
+    photography: 9.0

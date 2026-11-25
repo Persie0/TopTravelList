@@ -1,0 +1,13 @@
+id: sight-cu-aqueduct-of-albear
+name: "Aqueduct of Albear"
+location:
+  country_code: CU
+  latitude: 23.098
+  longitude: -82.38
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}

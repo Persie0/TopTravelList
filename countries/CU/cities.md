@@ -2,7 +2,7 @@
 
 # Cuba (CU) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**12 ranked** · **0 unassessed** · **12 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,22 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (12)
 
-No cities, towns & villages have been assessed for **Cuba** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Havana](cities/havana.yaml) | City / town | **91.00** | **Culture 9.4**, **Architecture 9.3**, **History 9.3**, Photography 9.3 | 9.0 / 9.2 / 9.3 / 8.8 / 9.2 | [23.136, -82.359](https://www.google.com/maps/search/?api=1&query=23.136,-82.359) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Havana%2C%20Cuba) |
+| 2 | [Trinidad](cities/trinidad.yaml) | City / town | **86.80** | **Architecture 9.2**, **Photography 9.2**, **History 9.0**, Culture 8.9 | 8.7 / 8.8 / 8.8 / 8.6 / 8.2 | [21.804, -79.984](https://www.google.com/maps/search/?api=1&query=21.804,-79.984) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Trinidad%2C%20Cuba) |
+| 3 | [Santiago de Cuba](cities/santiago-de-cuba.yaml) | City / town | **86.05** | **Culture 9.3**, **History 9.2** | 8.4 / 8.7 / 9.0 / 8.4 / 8.5 | [20.025, -75.821](https://www.google.com/maps/search/?api=1&query=20.025,-75.821) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Santiago%20de%20Cuba%2C%20Cuba) |
+| 4 | [Camagüey](cities/camaguey.yaml) | City / town | **83.25** | **Architecture 8.9**, **Culture 8.8**, **History 8.8** | 8.2 / 8.5 / 8.5 / 8.2 / 8.1 | [21.38, -77.918](https://www.google.com/maps/search/?api=1&query=21.38,-77.918) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Camag%C3%BCey%2C%20Cuba) |
+| 4 | [Cienfuegos](cities/cienfuegos.yaml) | City / town | **83.25** | **Architecture 9.0**, **Photography 8.8**, **History 8.7** | 8.3 / 8.5 / 8.4 / 8.2 / 8.0 | [22.145, -80.436](https://www.google.com/maps/search/?api=1&query=22.145,-80.436) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cienfuegos%2C%20Cuba) |
+| 6 | [Baracoa](cities/baracoa.yaml) | City / town | **80.75** | **Culture 8.8**, **Food 8.6**, **History 8.6** | 7.9 / 8.4 / 8.2 / 8.1 / 7.5 | [20.348, -74.495](https://www.google.com/maps/search/?api=1&query=20.348,-74.495) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Baracoa%2C%20Cuba) |
+| 7 | [Santa Clara](cities/santa-clara.yaml) | City / town | **78.50** | **History 9.0**, **Culture 8.4** | 7.4 / 8.0 / 8.5 / 7.8 / 7.6 | [22.407, -79.965](https://www.google.com/maps/search/?api=1&query=22.407,-79.965) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Santa%20Clara%2C%20Cuba) |
+| 8 | [Matanzas](cities/matanzas.yaml) | City / town | **78.30** | **Culture 8.7**, **Architecture 8.5**, **History 8.4** | 7.7 / 8.1 / 7.9 / 7.7 / 7.6 | [23.046, -81.577](https://www.google.com/maps/search/?api=1&query=23.046,-81.577) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Matanzas%2C%20Cuba) |
+| 9 | [Viñales](cities/vinales.yaml) | City / town | **77.10** | **Photography 8.6**, **Culture 8.5**, **Food 8.1** | 7.7 / 8.0 / 7.3 / 8.2 / 7.1 | [22.617, -83.707](https://www.google.com/maps/search/?api=1&query=22.617,-83.707) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Vi%C3%B1ales%2C%20Cuba) |
+| 10 | [Bayamo](cities/bayamo.yaml) | City / town | **76.80** | **History 8.9**, **Culture 8.4** | 7.2 / 7.8 / 8.5 / 7.6 / 7.3 | [20.379, -76.643](https://www.google.com/maps/search/?api=1&query=20.379,-76.643) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bayamo%2C%20Cuba) |
+| 11 | [Varadero](cities/varadero.yaml) | City / town | **69.85** | **Relaxation 8.7**, **Nightlife 8.0**, **Food 7.9** | 7.0 / 6.7 / 6.4 / 8.2 / 7.0 | [23.14, -81.26](https://www.google.com/maps/search/?api=1&query=23.14,-81.26) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Varadero%2C%20Cuba) |
+| 12 | [Morón](cities/moron.yaml) | City / town | **68.00** | **Culture 7.8**, **Food 7.8** | 6.5 / 7.1 / 6.8 / 7.1 / 6.5 | [22.109, -78.627](https://www.google.com/maps/search/?api=1&query=22.109,-78.627) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mor%C3%B3n%2C%20Cuba) |
 
 ---
 
