@@ -1,6 +1,6 @@
 # FO — Faroe Islands cities: individual worldwide reviews
 
-### city-fo-torshavn — Tórshavn — 2026-11-25
+## city-fo-torshavn — Tórshavn — 2026-11-25
 
 - YAML: [source](../../../countries/FO/cities/torshavn.yaml)
 - Action: new
@@ -19,11 +19,11 @@
 #### Scoring decisions
 | Field | New rating | Individual justification |
 | --- | ---: | --- |
-| impact | 8.1 | Harbour and turf-roofed lanes give a strong compact urban impression. |
-| uniqueness | 8.5 | Faroese capital identity is distinctive but not globally singular. |
-| significance | 8.3 | Historic parliamentary setting matters at North Atlantic scale. |
-| experience | 8.4 | Walkable heritage and local cultural venues offer varied visits. |
-| depth | 8.1 | Several urban cultural stops, not the breadth of a major world capital. |
+| Impact | 8.1 | Harbour and turf-roofed lanes give a strong compact urban impression. |
+| Uniqueness | 8.5 | Faroese capital identity is distinctive but not globally singular. |
+| Significance | 8.3 | Historic parliamentary setting matters at North Atlantic scale. |
+| Experience | 8.4 | Walkable heritage and local cultural venues offer varied visits. |
+| Depth | 8.1 | Several urban cultural stops, not the breadth of a major world capital. |
 
 - Applicable category scores: culture: 8.6, history: 8.5, architecture: 8.1
 - Computed worldwide overall: 82.85/100
@@ -33,7 +33,7 @@
 - Earlier decision: none
 - Verification still needed: independent coordinate and claim-level review and current permitted visitor scope.
 
-### city-fo-klaksvik — Klaksvík — 2026-11-25
+## city-fo-klaksvik — Klaksvík — 2026-11-25
 
 - YAML: [source](../../../countries/FO/cities/klaksvik.yaml)
 - Action: new
@@ -52,11 +52,11 @@
 #### Scoring decisions
 | Field | New rating | Individual justification |
 | --- | ---: | --- |
-| impact | 7.6 | Mountain-framed harbour is attractive. |
-| uniqueness | 7.5 | Working Faroese port identity is distinctive regionally. |
-| significance | 6.8 | Maritime role matters locally, not at world-historical scale. |
-| experience | 7.4 | Harbour and town walks provide a pleasant stop. |
-| depth | 6.9 | Limited urban cultural inventory. |
+| Impact | 7.6 | Mountain-framed harbour is attractive. |
+| Uniqueness | 7.5 | Working Faroese port identity is distinctive regionally. |
+| Significance | 6.8 | Maritime role matters locally, not at world-historical scale. |
+| Experience | 7.4 | Harbour and town walks provide a pleasant stop. |
+| Depth | 6.9 | Limited urban cultural inventory. |
 
 - Applicable category scores: culture: 7.3, photography: 7.8
 - Computed worldwide overall: 73.15/100
@@ -66,7 +66,7 @@
 - Earlier decision: none
 - Verification still needed: independent coordinate and claim-level review and current permitted visitor scope.
 
-### city-fo-gjogv — Gjógv — 2026-11-25
+## city-fo-gjogv — Gjógv — 2026-11-25
 
 - YAML: [source](../../../countries/FO/cities/gjogv.yaml)
 - Action: new
@@ -85,11 +85,11 @@
 #### Scoring decisions
 | Field | New rating | Individual justification |
 | --- | ---: | --- |
-| impact | 8.1 | Coastal gorge and clustered houses create a memorable setting. |
-| uniqueness | 7.9 | Natural harbour arrangement is unusual, though other coastal villages rival it. |
-| significance | 6.8 | Traditional village heritage has regional importance. |
-| experience | 7.8 | Short walks and village exploration reward a visit. |
-| depth | 6.5 | Small settlement limits variety. |
+| Impact | 8.1 | Coastal gorge and clustered houses create a memorable setting. |
+| Uniqueness | 7.9 | Natural harbour arrangement is unusual, though other coastal villages rival it. |
+| Significance | 6.8 | Traditional village heritage has regional importance. |
+| Experience | 7.8 | Short walks and village exploration reward a visit. |
+| Depth | 6.5 | Small settlement limits variety. |
 
 - Applicable category scores: photography: 8.5, architecture: 7.5
 - Computed worldwide overall: 75.85/100
@@ -99,7 +99,7 @@
 - Earlier decision: none
 - Verification still needed: independent coordinate and claim-level review and current permitted visitor scope.
 
-### city-fo-kirkjubour — Kirkjubøur — 2026-11-25
+## city-fo-kirkjubour — Kirkjubøur — 2026-11-25
 
 - YAML: [source](../../../countries/FO/cities/kirkjubour.yaml)
 - Action: new
@@ -118,11 +118,11 @@
 #### Scoring decisions
 | Field | New rating | Individual justification |
 | --- | ---: | --- |
-| impact | 7.8 | Medieval ruins and traditional farmhouses create a coherent village scene. |
-| uniqueness | 8.2 | Surviving ecclesiastical and domestic fabric is relatively rare in island villages. |
-| significance | 8.6 | Former ecclesiastical centre is highly important regionally. |
-| experience | 7.8 | Multiple heritage elements support a substantive short visit. |
-| depth | 7.4 | Several layers of heritage but a small spatial extent. |
+| Impact | 7.8 | Medieval ruins and traditional farmhouses create a coherent village scene. |
+| Uniqueness | 8.2 | Surviving ecclesiastical and domestic fabric is relatively rare in island villages. |
+| Significance | 8.6 | Former ecclesiastical centre is highly important regionally. |
+| Experience | 7.8 | Multiple heritage elements support a substantive short visit. |
+| Depth | 7.4 | Several layers of heritage but a small spatial extent. |
 
 - Applicable category scores: history: 8.8, culture: 8.3, architecture: 8.1
 - Computed worldwide overall: 80.20/100
