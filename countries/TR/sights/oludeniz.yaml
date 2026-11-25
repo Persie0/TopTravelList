@@ -1,0 +1,16 @@
+id: sight-tr-oludeniz
+name: "Oludeniz Blue Lagoon"
+location:
+  country_code: TR
+  latitude: 36.55
+  longitude: 29.115
+scores:
+  impact: 8.9
+  uniqueness: 8.4
+  significance: 7.0
+  experience: 8.9
+  depth: 7.7
+  categories:
+    beaches: 9.2
+    nature: 8.9
+    photography: 9.2

@@ -1,0 +1,16 @@
+id: sight-tr-sagalassos
+name: "Archaeological Site of Sagalassos"
+location:
+  country_code: TR
+  latitude: 37.677
+  longitude: 30.518
+scores:
+  impact: 8.9
+  uniqueness: 8.7
+  significance: 8.9
+  experience: 8.6
+  depth: 8.5
+  categories:
+    history: 9.1
+    architecture: 9.0
+    photography: 9.1

@@ -1,0 +1,16 @@
+id: city-tr-diyarbakir
+name: "Diyarbakir"
+location:
+  country_code: TR
+  latitude: 37.9144
+  longitude: 40.2306
+scores:
+  impact: 8.4
+  uniqueness: 8.6
+  significance: 8.9
+  experience: 8.0
+  depth: 8.3
+  categories:
+    history: 9.1
+    culture: 8.9
+    architecture: 8.8
