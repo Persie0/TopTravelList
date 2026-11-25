@@ -1,0 +1,13 @@
+id: sight-do-first-colonial-sugar-mills
+name: "First Colonial Sugar Mills of America"
+location:
+  country_code: DO
+  latitude: 18.3726
+  longitude: -70.0524
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}

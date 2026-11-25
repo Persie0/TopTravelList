@@ -1,0 +1,16 @@
+id: city-do-puerto-plata
+name: "Puerto Plata"
+location:
+  country_code: DO
+  latitude: 19.797
+  longitude: -70.694
+scores:
+  impact: 7.9
+  uniqueness: 8.1
+  significance: 8.0
+  experience: 8.3
+  depth: 7.8
+  categories:
+    architecture: 8.6
+    history: 8.5
+    culture: 8.2

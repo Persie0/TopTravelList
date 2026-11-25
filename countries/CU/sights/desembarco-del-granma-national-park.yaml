@@ -1,0 +1,16 @@
+id: sight-cu-desembarco-del-granma-national-park
+name: "Desembarco del Granma National Park"
+location:
+  country_code: CU
+  latitude: 19.84
+  longitude: -77.69
+scores:
+  impact: 8.7
+  uniqueness: 9.0
+  significance: 9.0
+  experience: 8.0
+  depth: 8.5
+  categories:
+    nature: 9.3
+    photography: 9.1
+    adventure: 8.7

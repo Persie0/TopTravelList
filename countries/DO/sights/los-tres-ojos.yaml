@@ -1,0 +1,15 @@
+id: sight-do-los-tres-ojos
+name: "Los Tres Ojos National Park"
+location:
+  country_code: DO
+  latitude: 18.479
+  longitude: -69.844
+scores:
+  impact: 8.6
+  uniqueness: 8.5
+  significance: 7.6
+  experience: 8.6
+  depth: 7.5
+  categories:
+    nature: 9.0
+    photography: 9.1
