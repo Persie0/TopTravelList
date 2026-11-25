@@ -1229,6 +1229,21 @@ Initial inventory, not exhaustive. [UNESCO country list](https://whc.unesco.org/
 - Earlier decision: none.
 - Verification still needed: Ordinary access, condition and geography.
 
+
+### Reassessment — 2026-11-25 (visitor evidence follow-up)
+
+- Supersedes earlier unranked decision. Evidence status: **source-linked-unverified**.
+- Scope: Managed park visitor activities: nature trail, nautical stone-cay tour and birdwatching; no unrestricted caves or guaranteed access.
+- Evidence: [Cuba Travel, Trinidad natural attractions](https://www.cuba.travel/en/destinations/trinidad/natural-attractions); reviewed for visitor scope, not independent confirmation of all site claims or current opening. Earlier coordinates retained, not independently verified.
+- Prior core values: impact: null;   uniqueness: null;   significance: null;   experience: null;   depth: null.
+- Updated dimensions: Impact 8.3 — Coastal karst and nature setting; Uniqueness 8.7 — unusual stone cays and protected habitats; Significance 8.6 — ecological conservation importance; Experience 8.4 — distinct documented guided activities; Depth 8.2 — varied but bounded routes..
+- Worldwide peer comparisons: Different coastal landscape from Cockscomb; more marine scope than Main Ridge; greater route variety than Des Cartiers; broader habitat than Barbados reserve.
+- Applicable categories: nature: 9.0; wildlife: 9.0; adventure: 8.6; photography: 8.8.
+- Overall: 84.65/100.
+- High-score challenge: Not applicable. No approved 10.
+- Final decision: Provisional editorial rating for the named permitted visitor scope only; current operations and exact geography remain unverified.
+
+
 ## sight-cu-aqueduct-of-albear — Aqueduct of Albear — 2026-11-25
 
 - YAML: [source](../../../countries/CU/sights/aqueduct-of-albear.yaml)

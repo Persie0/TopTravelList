@@ -116,6 +116,21 @@
 - Evidence: [Source context](https://www.puregrenada.com/fort-matthew/) (search or page reviewed 2026-11-25); Grenada Tourism Authority establishes separate fort identity.
 - Remaining gaps: Normal permitted visitor scope and routes unresolved.
 
+
+### Reassessment — 2026-11-25 (visitor evidence follow-up)
+
+- Supersedes earlier unranked decision. Evidence status: **source-linked-unverified**.
+- Scope: Guided permitted ruins and exterior viewpoint only; unrestricted interiors not assumed.
+- Evidence: [Grenada Tourism Authority](https://www.puregrenada.com/fort-matthew/?v=0b3b97fa6688), [local guided tours](https://sweetgrenadatoursandtaxi.com/tours/); reviewed for visitor scope, not independent confirmation of all site claims or current opening. Earlier coordinates retained, not independently verified.
+- Prior core values: impact: null;   uniqueness: null;   significance: 8.5;   experience: null;   depth: null.
+- Updated dimensions: Impact 7.8 — Ruined hilltop fort with views; Uniqueness 7.8 — regional defense architecture; Significance 8.5 — retained significance for military and institutional history; Experience 7.7 — guided short visit; Depth 7.0 — modest explored ruin scope..
+- Worldwide peer comparisons: Less intact than Fort Shirley; less broad than Pigeon Island; much less monumental than Hohensalzburg; different and less globally significant history than Aapravasi Ghat.
+- Applicable categories: history: 9.0; architecture: 8.5.
+- Overall: 78.45/100.
+- High-score challenge: Not applicable. No approved 10.
+- Final decision: Provisional editorial rating for the named permitted visitor scope only; current operations and exact geography remain unverified.
+
+
 ## sight-gd-grand-etang-national-park-and-forest-reserve — Grand Etang National Park and Forest Reserve — 2026-11-25
 
 - [YAML](../../../countries/GD/sights/grand-etang-national-park-and-forest-reserve.yaml) · Action: new · **source-linked-unverified**.
