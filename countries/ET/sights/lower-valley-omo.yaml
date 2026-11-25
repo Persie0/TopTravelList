@@ -1,0 +1,13 @@
+id: sight-et-lower-valley-omo
+name: "Lower Valley of the Omo"
+location:
+  country_code: ET
+  latitude: 5
+  longitude: 36.15
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}

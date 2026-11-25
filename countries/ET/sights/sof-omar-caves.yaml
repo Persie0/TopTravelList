@@ -1,0 +1,17 @@
+id: sight-et-sof-omar-caves
+name: "Sof Omar Caves"
+location:
+  country_code: ET
+  latitude: 6.91
+  longitude: 40.85
+scores:
+  impact: 8.9
+  uniqueness: 9.1
+  significance: 8.8
+  experience: 8.5
+  depth: 8.3
+  categories:
+    nature: 9.1
+    culture: 8.7
+    adventure: 8.8
+    photography: 8.8

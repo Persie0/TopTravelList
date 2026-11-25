@@ -1,0 +1,13 @@
+id: sight-et-gedeo-cultural-landscape
+name: "Gedeo Cultural Landscape"
+location:
+  country_code: ET
+  latitude: 6.35
+  longitude: 38.3
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}

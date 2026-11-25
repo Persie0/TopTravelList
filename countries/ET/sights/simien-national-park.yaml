@@ -1,0 +1,17 @@
+id: sight-et-simien-national-park
+name: "Simien National Park"
+location:
+  country_code: ET
+  latitude: 13.18
+  longitude: 38.06
+scores:
+  impact: 9.7
+  uniqueness: 9.5
+  significance: 9.5
+  experience: 9.3
+  depth: 9.3
+  categories:
+    nature: 9.8
+    wildlife: 9.4
+    adventure: 9.5
+    photography: 9.6
