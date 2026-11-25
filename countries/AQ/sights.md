@@ -2,7 +2,7 @@
 
 # Antarctica (AQ) — Sights & attractions ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**12 ranked** · **2 unassessed** · **14 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,11 +10,31 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (12)
 
-No sights & attractions have been assessed for **Antarctica** yet.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Lemaire Channel](sights/lemaire-channel.yaml) | Attraction | **89.70** | **Photography 9.5**, **Nature 9.4** | 9.5 / 9.2 / 8.3 / 9.0 / 8.1 | [-65.133, -64](https://www.google.com/maps/search/?api=1&query=-65.133,-64) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lemaire%20Channel%2C%20Antarctica) |
+| 2 | [Neko Harbour](sights/neko-harbour.yaml) | Coast | **89.65** | **Nature 9.4**, **Photography 9.4**, **Wildlife 8.8** | 9.4 / 9.1 / 8.5 / 9.0 / 8.2 | [-64.833333, -62.55](https://www.google.com/maps/search/?api=1&query=-64.833333,-62.55) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Neko%20Harbour%2C%20Antarctica) |
+| 3 | [Paradise Harbour](sights/paradise-harbour.yaml) | Coast | **88.95** | **Nature 9.3**, **Photography 9.3** | 9.3 / 9.0 / 8.4 / 8.9 / 8.4 | [-64.85, -62.9](https://www.google.com/maps/search/?api=1&query=-64.85,-62.9) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Paradise%20Harbour%2C%20Antarctica) |
+| 4 | [Baily Head (Deception Island)](sights/baily-head.yaml) | Island | **88.90** | **Wildlife 9.3**, **Nature 9.2**, **Photography 9.2** | 9.3 / 9.1 / 8.7 / 8.7 / 7.8 | [-62.966667, -60.5](https://www.google.com/maps/search/?api=1&query=-62.966667,-60.5) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Baily%20Head%20%28Deception%20Island%29%2C%20Antarctica) |
+| 5 | [Whalers Bay (Deception Island)](sights/whalers-bay.yaml) | Beach / bay | **88.80** | **History 9.1**, **Photography 9.0**, **Nature 8.7** | 8.9 / 9.2 / 9.0 / 8.6 / 8.2 | [-62.983333, -60.566667](https://www.google.com/maps/search/?api=1&query=-62.983333,-60.566667) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Whalers%20Bay%20%28Deception%20Island%29%2C%20Antarctica) |
+| 6 | [Taylor Valley (designated visitor zone)](sights/taylor-valley.yaml) | Valley / canyon | **88.60** | **Nature 9.3**, **Photography 9.1** | 9.0 / 9.3 / 9.2 / 8.3 / 7.5 | [-77.626389, 163.056944](https://www.google.com/maps/search/?api=1&query=-77.626389,163.056944) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Taylor%20Valley%20%28designated%20visitor%20zone%29%2C%20Antarctica) |
+| 7 | [Brown Bluff](sights/brown-bluff.yaml) | Attraction | **87.55** | **Photography 9.1**, **Nature 9.0**, **Wildlife 9.0** | 9.0 / 8.9 / 8.7 / 8.6 / 8.0 | [-63.533333, -56.866667](https://www.google.com/maps/search/?api=1&query=-63.533333,-56.866667) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Brown%20Bluff%2C%20Antarctica) |
+| 8 | [Cuverville Island](sights/cuverville-island.yaml) | Island | **87.40** | **Photography 9.2**, **Wildlife 9.2**, **Nature 9.1** | 9.1 / 8.8 / 8.5 / 8.8 / 7.9 | [-64.683333, -62.633333](https://www.google.com/maps/search/?api=1&query=-64.683333,-62.633333) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cuverville%20Island%2C%20Antarctica) |
+| 9 | [Port Lockroy (Goudier Island)](sights/port-lockroy.yaml) | Island | **87.35** | **History 9.0**, **Culture 8.6**, **Wildlife 8.6** | 8.6 / 9.1 / 8.8 / 8.8 / 8.0 | [-64.816667, -63.483333](https://www.google.com/maps/search/?api=1&query=-64.816667,-63.483333) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Port%20Lockroy%20%28Goudier%20Island%29%2C%20Antarctica) |
+| 10 | [Petermann Island](sights/petermann-island.yaml) | Island | **86.20** | **Photography 9.0**, **Wildlife 9.0**, **Nature 8.9**, History 8.2 | 8.8 / 8.7 / 8.5 / 8.7 / 8.0 | [-65.166667, -64.166667](https://www.google.com/maps/search/?api=1&query=-65.166667,-64.166667) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Petermann%20Island%2C%20Antarctica) |
+| 11 | [Telefon Bay East (Deception Island)](sights/telefon-bay.yaml) | Beach / bay | **85.60** | **Nature 8.8**, **Photography 8.7**, **Adventure 8.3** | 8.7 / 8.9 / 8.6 / 8.3 / 7.6 | [-62.933333, -60.666667](https://www.google.com/maps/search/?api=1&query=-62.933333,-60.666667) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Telefon%20Bay%20East%20%28Deception%20Island%29%2C%20Antarctica) |
+| 12 | [Half Moon Island (eastern visitor area)](sights/half-moon-island.yaml) | Island | **82.70** | **Wildlife 8.8**, **Photography 8.7**, **Nature 8.6** | 8.5 / 8.3 / 8.1 / 8.5 / 7.5 | [-62.59, -59.920278](https://www.google.com/maps/search/?api=1&query=-62.59,-59.920278) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Half%20Moon%20Island%20%28eastern%20visitor%20area%29%2C%20Antarctica) |
 
-Add destination YAML files in [sights/](sights/), then regenerate the overview files.
+## Not yet fully assessed (2)
+
+These destinations have no rank until all five core scores are assessed.
+
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| — | [Scott's Terra Nova Hut (Cape Evans)](sights/cape-evans.yaml) | Coast | **—** | **History 9.3** | 8.5 / 9.2 / 9.3 / — / — | [-77.636667, 166.420833](https://www.google.com/maps/search/?api=1&query=-77.636667,166.420833) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Scott%27s%20Terra%20Nova%20Hut%20%28Cape%20Evans%29%2C%20Antarctica) |
+| — | [Shackleton's Nimrod Hut (Cape Royds)](sights/cape-royds.yaml) | Coast | **—** | **History 9.3** | 8.5 / 9.2 / 9.3 / — / — | [-77.553056, 166.168611](https://www.google.com/maps/search/?api=1&query=-77.553056,166.168611) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Shackleton%27s%20Nimrod%20Hut%20%28Cape%20Royds%29%2C%20Antarctica) |
 
 ---
 
