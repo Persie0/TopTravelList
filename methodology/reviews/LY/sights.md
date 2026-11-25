@@ -133,33 +133,37 @@
 ## sight-ly-tadrart-acacus — Rock-Art Sites of Tadrart Acacus — 2026-11-25
 
 - YAML: [source](../../../countries/LY/sights/tadrart-acacus.yaml)
-- Action: new
+- Action: rescore — earlier decision retained in [verification history](verification-2026-11-25.md)
 - Precise subject: Inscribed massif and rock-art landscape; UNESCO representative point, not a panel or access point.
 - Location check: 24.83333, 10.33333; representative point, exact entrance not verified.
-- Evidence status: **unassessed**
+- Evidence status: **source-linked-unverified**
 - Source references (2026-11-25; identity, heritage, geographic context or historical/advertised visit as described above; independent triangulation incomplete):
   - https://whc.unesco.org/en/list/287/
   - https://whc.unesco.org/en/list/287/maps/
   - https://whc.unesco.org/en/decisions/9001/
-- Missing facts: Normal permitted visitor experience or accessible scope insufficiently documented.
+  - https://asartdata.uniroma1.it/atlas/location/libya/tadrart-acacus — Sapienza research atlas: extensive prehistoric art record and sandstone massif.
+  - https://www.africanworldheritagesites.org/cultural-places/rock-art-pre-history/rock-art-of-tadrart-acacus.html — site-specific photographed rock art and desert landscapes; identifies famous engravings outside the inscribed boundary.
+  - https://tourslibya.com/fezzan/acacus/ — commercial operator describes named rock-art valleys and landscape visits; itinerary evidence, not guaranteed access.
+- Missing facts: Current permitted routes and extent of damage to individual panels; no assertion of safe travel or access to every panel.
 
 ### Worldwide peer comparisons
 - Mogao Caves (China): 9.8/9.9/9.9/9.5/9.4; preservation, art and interpretation benchmark.
 - Tassili n'Ajjer (Algeria): Adjacent Saharan rock-art and desert landscape tradition.
-- Tsodilo Hills (Botswana): Dispersed African rock-art sites with cultural continuity.
-- Ha Baroana Rock Art (Lesotho): Smaller painted shelter with compact visit.
+- Tsodilo Hills (Botswana): 8.5/9.3/9.6/8.2/8.2; dispersed rock art with cultural continuity, but a less extensive visible desert art itinerary.
+- Ha Baroana Rock Art (Lesotho): 7.5/8.6/8.5/7.8/6.5; smaller painted shelter and compact visit.
+- Dabous Giraffe Rock Art (Niger): 9.0/9.6/9.3/8.0/7.6; extraordinary engravings but more concentrated subject.
 
 ### Scoring decisions
 - Impact: 9.2 — Dramatic rock landscape and exceptional panels.
 - Uniqueness: 9.7 — Rare thousands of paintings across long chronology.
 - Significance: 9.7 — Global Saharan environmental and cultural history.
-- Experience: null — Ordinary permitted visitor circuit not verified.
-- Depth: null — Accessible panel diversity unknown.
+- Experience: 8.8 — Historically documented guided rock-art and landscape visits; below Mogao's established interpretation, no guarantee of access today.
+- Depth: 9.0 — Multiple documented valleys and artistic periods offer extensive discovery relative to rock-art sites; do not count adjacent uninscribed attractions.
 - Applicable categories: history 9.8, nature 9.4, culture 9.6, photography 9.5.
-- Overall: unranked.
-- High-score challenge: Uniqueness/significance 9.7, history 9.8, culture 9.6 and photography 9.5 reflect extraordinary chronology, stylistic diversity and rock scenery; no assumption of access to the vast property and no overall score.
+- Overall: 93.45/100.
+- High-score challenge: Uniqueness/significance 9.7, history 9.8, culture 9.6 and photography 9.5 reflect extraordinary chronology, stylistic diversity and rock scenery; no assumption of access to the entire property; total remains below Mogao, with less consistent interpretation and panel accessibility.
 - Approved 10 registry: none.
-- Final decision: Partial assessment; no overall total invented.
+- Final decision: Provisional long-term intrinsic rating, with site condition and access caveats.
 - Verification still needed: exact location where provisional, access, remaining peer YAML and claim-level verification.
 
 ## sight-ly-ptolemais — Ptolemais Archaeological Site — 2026-11-25
@@ -446,32 +450,35 @@
 ## sight-ly-red-castle-museum — Red Castle National Museum — 2026-11-25
 
 - YAML: [source](../../../countries/LY/sights/red-castle-museum.yaml)
-- Action: new
-- Precise subject: Museum collections separately scoped; point approximate; operator advertises visit but current gallery scope not established.
+- Action: rescore — earlier decision retained in [verification history](verification-2026-11-25.md)
+- Precise subject: Museum collections separately scoped; point approximate; reopened in December 2025; assess the museum collection, not castle architecture.
 - Location check: 32.895, 13.181; representative point, exact entrance not verified.
-- Evidence status: **unassessed**
+- Evidence status: **source-linked-unverified**
 - Source references (2026-11-25; identity, heritage, geographic context or historical/advertised visit as described above; independent triangulation incomplete):
   - https://mapcarta.com/N1108492326
   - https://www.destination.ly/en/t2.html
-- Missing facts: Normal permitted visitor experience or accessible scope insufficiently documented.
+  - https://www.reuters.com/world/africa/libyas-red-castle-museum-opens-first-time-since-fall-gaddafi-2025-12-13/ — Reuters, 13 December 2025: reopening and extensive galleries of prehistoric, classical and Islamic objects.
+  - https://en.alwasat.ly/news/culture/503335 — Alwasat: museum announcement of admission from 1 January 2026.
+  - https://kuwaittimes.com/article/37967/lifestyle/art-fashion/libyans-savor-shared-heritage-at-reopened-national-museum/ — AFP, 3 January 2026: actual post-reopening visits and collection breadth.
+- Missing facts: Live operating status, exact accessible gallery inventory, and full independent claim-level triangulation.
 
 ### Worldwide peer comparisons
-- National Museum of Korea (South Korea): Global collection and interpretation benchmark.
-- National Museum of Cambodia (Cambodia): Regional archaeological and artistic collections.
-- Kunsthistorisches Museum (Austria): Broader major art and archaeology collection.
-- Morija Museum (Lesotho): Smaller focused regional collection.
+- National Museum of Korea (South Korea): 9.1/9.3/9.4/9.3/9.6; stronger interpretation and collection breadth.
+- National Museum of Cambodia (Cambodia): 8.8/9.1/9.3/9.1/8.8; more focused Khmer collection, stronger established visitor presentation.
+- Kunsthistorisches Museum (Austria): 9.2/9.4/9.6/9.4/9.5; broader major art and archaeology collection.
+- Morija Museum (Lesotho): 6.9/8.0/8.6/7.9/7.5; smaller regional collection.
 
 ### Scoring decisions
-- Impact: null — Exhibit condition unverified.
+- Impact: 8.6 — Substantial mosaic, mural and sculpture displays documented after reopening.
 - Uniqueness: 8.8 — Important regional archaeological collections.
 - Significance: 9.2 — National heritage preservation.
-- Experience: null — Current gallery admission and operations unclear.
-- Depth: null — Accessible collection scope unclear.
+- Experience: 8.7 — Public gallery visits documented after reopening; established presentation below major global museum peers.
+- Depth: 9.0 — Extensive gallery space and multiple historical periods; greater breadth than compact regional museums.
 - Applicable categories: history 9.3, culture 9.2.
-- Overall: unranked.
+- Overall: 88.25/100.
 - High-score challenge: Not applicable.
 - Approved 10 registry: none.
-- Final decision: Partial assessment; no overall total invented.
+- Final decision: Provisional complete rating based on documented reopening, not a current travel guarantee.
 - Verification still needed: exact location where provisional, access, remaining peer YAML and claim-level verification.
 
 ## sight-ly-apollonia — Apollonia Archaeological Site — 2026-11-25
