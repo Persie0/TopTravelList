@@ -1,0 +1,17 @@
+id: city-pt-porto
+name: "Porto"
+location:
+  country_code: PT
+  latitude: 41.1579
+  longitude: -8.6291
+scores:
+  impact: 9.2
+  uniqueness: 9.1
+  significance: 9.0
+  experience: 9.2
+  depth: 9.1
+  categories:
+    architecture: 9.4
+    history: 9.2
+    food: 9.1
+    photography: 9.3

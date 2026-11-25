@@ -1,0 +1,15 @@
+id: sight-pt-bussaco
+name: "Bussaco forest and Palace-Hotel ensemble (tentative)"
+location:
+  country_code: PT
+  latitude: 40.376
+  longitude: -8.365
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 8.7
+  depth: 8.8
+  categories:
+    architecture: 9.2
+    nature: 9.1

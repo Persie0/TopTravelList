@@ -1,0 +1,16 @@
+id: sight-pt-bom-jesus
+name: "Sanctuary of Bom Jesus do Monte"
+location:
+  country_code: PT
+  latitude: 41.555
+  longitude: -8.378
+scores:
+  impact: 9.0
+  uniqueness: 9.1
+  significance: 9.1
+  experience: 9.0
+  depth: 8.6
+  categories:
+    architecture: 9.4
+    photography: 9.4
+    culture: 9.1

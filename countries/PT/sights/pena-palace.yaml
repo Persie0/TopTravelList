@@ -1,0 +1,15 @@
+id: sight-pt-pena-palace
+name: "Pena Palace and Park"
+location:
+  country_code: PT
+  latitude: 38.7876
+  longitude: -9.3906
+scores:
+  impact: 9.4
+  uniqueness: 9.3
+  significance: 9.0
+  experience: 9.1
+  depth: 9.0
+  categories:
+    architecture: 9.5
+    photography: 9.5

@@ -1,0 +1,15 @@
+id: city-pt-sintra
+name: "Sintra"
+location:
+  country_code: PT
+  latitude: 38.798
+  longitude: -9.39
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 8.5
+  experience: 8.8
+  depth: 7.9
+  categories:
+    architecture: 9.2
+    photography: 9.2

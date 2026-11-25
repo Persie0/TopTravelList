@@ -1,0 +1,15 @@
+id: sight-pt-convent-christ
+name: "Convent of Christ, Tomar"
+location:
+  country_code: PT
+  latitude: 39.604
+  longitude: -8.419
+scores:
+  impact: 9.2
+  uniqueness: 9.3
+  significance: 9.4
+  experience: 9.1
+  depth: 9.1
+  categories:
+    architecture: 9.5
+    history: 9.5
