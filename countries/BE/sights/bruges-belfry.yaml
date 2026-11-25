@@ -1,0 +1,16 @@
+id: sight-be-bruges-belfry
+name: "Belfry of Bruges"
+location:
+  country_code: BE
+  latitude: 51.208
+  longitude: 3.224
+scores:
+  impact: 8.7
+  uniqueness: 8.5
+  significance: 8.8
+  experience: 8.7
+  depth: 7.7
+  categories:
+    architecture: 9.0
+    history: 9.0
+    photography: 9.1

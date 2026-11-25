@@ -1,0 +1,15 @@
+id: city-kn-bath-village
+name: "Bath Village"
+location:
+  country_code: KN
+  latitude: 17.126
+  longitude: -62.622
+scores:
+  impact: 6.8
+  uniqueness: 7.8
+  significance: 7.8
+  experience: 7.4
+  depth: 6.2
+  categories:
+    culture: 8.2
+    history: 8.4

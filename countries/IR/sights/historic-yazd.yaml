@@ -1,0 +1,17 @@
+id: sight-ir-historic-yazd
+name: "Historic City of Yazd"
+location:
+  country_code: IR
+  latitude: 31.899
+  longitude: 54.371
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 9.1
+  experience: 8.8
+  depth: 8.7
+  categories:
+    architecture: 9.4
+    history: 9.2
+    culture: 9.0
+    photography: 9.2

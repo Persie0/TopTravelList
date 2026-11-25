@@ -1,0 +1,15 @@
+id: city-ye-taiz
+name: "Taiz"
+location:
+  country_code: YE
+  latitude: 13.5795
+  longitude: 44.0209
+scores:
+  impact: 7.8
+  uniqueness: 8.0
+  significance: 8.4
+  experience: null
+  depth: null
+  categories:
+    history: 8.7
+    architecture: 8.3

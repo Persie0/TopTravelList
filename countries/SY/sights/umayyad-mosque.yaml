@@ -1,0 +1,16 @@
+id: sight-sy-umayyad-mosque
+name: "Umayyad Mosque, Damascus"
+location:
+  country_code: SY
+  latitude: 33.5116
+  longitude: 36.3067
+scores:
+  impact: 9.2
+  uniqueness: 9.2
+  significance: 9.4
+  experience: 8.7
+  depth: 8.3
+  categories:
+    architecture: 9.4
+    history: 9.4
+    culture: 9.3

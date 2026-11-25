@@ -1,0 +1,16 @@
+id: city-fi-savonlinna
+name: "Savonlinna"
+location:
+  country_code: FI
+  latitude: 61.868
+  longitude: 28.886
+scores:
+  impact: 8.3
+  uniqueness: 8.4
+  significance: 8.1
+  experience: 8.5
+  depth: 7.8
+  categories:
+    nature: 8.6
+    history: 8.6
+    culture: 8.7

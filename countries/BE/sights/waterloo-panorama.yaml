@@ -1,0 +1,15 @@
+id: sight-be-waterloo-panorama
+name: "Panorama of the Battle of Waterloo (tentative)"
+location:
+  country_code: BE
+  latitude: 50.679
+  longitude: 4.405
+scores:
+  impact: 8.2
+  uniqueness: 8.8
+  significance: 8.7
+  experience: 8.3
+  depth: 7.4
+  categories:
+    culture: 8.9
+    history: 8.9

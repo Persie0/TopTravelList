@@ -1,0 +1,15 @@
+id: sight-ph-moalboal-sardine-run
+name: "Moalboal Sardine Run"
+location:
+  country_code: PH
+  latitude: 9.948
+  longitude: 123.367
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 7.6
+  experience: 8.9
+  depth: 7.5
+  categories:
+    wildlife: 9.2
+    adventure: 9.0

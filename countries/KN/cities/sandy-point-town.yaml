@@ -1,0 +1,16 @@
+id: city-kn-sandy-point-town
+name: "Sandy Point Town"
+location:
+  country_code: KN
+  latitude: 17.362
+  longitude: -62.849
+scores:
+  impact: 6.9
+  uniqueness: 7.6
+  significance: 7.7
+  experience: 7.4
+  depth: 6.4
+  categories:
+    culture: 8.1
+    history: 8.3
+    photography: 7.8

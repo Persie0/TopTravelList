@@ -1,0 +1,17 @@
+id: city-sy-damascus
+name: "Damascus"
+location:
+  country_code: SY
+  latitude: 33.5138
+  longitude: 36.2765
+scores:
+  impact: 8.9
+  uniqueness: 9.1
+  significance: 9.3
+  experience: 8.5
+  depth: 8.8
+  categories:
+    architecture: 9.1
+    history: 9.4
+    culture: 9.2
+    food: 8.7

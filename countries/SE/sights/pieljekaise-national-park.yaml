@@ -1,0 +1,15 @@
+id: sight-se-pieljekaise-national-park
+name: "Pieljekaise National Park"
+location:
+  country_code: SE
+  latitude: 66.3
+  longitude: 16.67
+scores:
+  impact: 8.1
+  uniqueness: 8.3
+  significance: 8.2
+  experience: 8.3
+  depth: 8.2
+  categories:
+    nature: 8.8
+    adventure: 8.4

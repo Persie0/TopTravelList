@@ -1,0 +1,17 @@
+id: city-lt-vilnius
+name: "Vilnius"
+location:
+  country_code: LT
+  latitude: 54.6872
+  longitude: 25.2797
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 9.1
+  experience: 9.1
+  depth: 9.2
+  categories:
+    architecture: 9.4
+    history: 9.3
+    culture: 9.2
+    food: 8.5

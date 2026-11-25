@@ -1,0 +1,17 @@
+id: city-tt-port-of-spain
+name: "Port of Spain"
+location:
+  country_code: TT
+  latitude: 10.657
+  longitude: -61.518
+scores:
+  impact: 8.2
+  uniqueness: 8.4
+  significance: 8.5
+  experience: 8.3
+  depth: 8.5
+  categories:
+    culture: 9.0
+    food: 8.9
+    architecture: 8.5
+    nightlife: 8.5

@@ -1,0 +1,17 @@
+id: city-il-tel-aviv
+name: "Tel Aviv-Yafo"
+location:
+  country_code: IL
+  latitude: 32.0853
+  longitude: 34.7818
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 8.5
+  experience: 9.0
+  depth: 9.0
+  categories:
+    architecture: 8.9
+    food: 9.0
+    nightlife: 9.2
+    beaches: 8.8

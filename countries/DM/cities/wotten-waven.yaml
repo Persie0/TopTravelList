@@ -1,0 +1,15 @@
+id: city-dm-wotten-waven
+name: "Wotten Waven"
+location:
+  country_code: DM
+  latitude: 15.316
+  longitude: -61.344
+scores:
+  impact: 7.5
+  uniqueness: 8.2
+  significance: 6.4
+  experience: 7.8
+  depth: 6.2
+  categories:
+    photography: 8.2
+    culture: 8.0

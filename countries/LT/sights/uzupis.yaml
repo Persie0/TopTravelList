@@ -1,0 +1,16 @@
+id: sight-lt-uzupis
+name: "Užupis District"
+location:
+  country_code: LT
+  latitude: 54.681
+  longitude: 25.295
+scores:
+  impact: 7.8
+  uniqueness: 8.2
+  significance: 7.5
+  experience: 8.5
+  depth: 7.8
+  categories:
+    culture: 8.7
+    food: 8.1
+    photography: 8.3

@@ -1,0 +1,16 @@
+id: sight-is-skaftafell
+name: "Skaftafell"
+location:
+  country_code: IS
+  latitude: 64.04
+  longitude: -16.97
+scores:
+  impact: 9.2
+  uniqueness: 9.1
+  significance: 8.8
+  experience: 9.2
+  depth: 9.1
+  categories:
+    nature: 9.4
+    photography: 9.4
+    adventure: 9.3

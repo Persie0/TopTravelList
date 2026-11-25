@@ -1,0 +1,16 @@
+id: sight-sz-nsangwini-rock-art
+name: "Nsangwini Rock Art"
+location:
+  country_code: SZ
+  latitude: -26.0360
+  longitude: 31.2850
+scores:
+  impact: 7.8
+  uniqueness: 8.9
+  significance: 8.7
+  experience: 7.9
+  depth: 6.8
+  categories:
+    history: 9.1
+    culture: 9.0
+    photography: 7.9

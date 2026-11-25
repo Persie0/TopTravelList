@@ -1,0 +1,15 @@
+id: sight-vc-falls-of-baleine
+name: "Falls of Baleine"
+location:
+  country_code: VC
+  latitude: 13.369
+  longitude: -61.216
+scores:
+  impact: null
+  uniqueness: null
+  significance: 7.2
+  experience: null
+  depth: null
+  categories:
+    nature: 9.0
+    photography: 9.2

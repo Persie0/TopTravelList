@@ -1,0 +1,15 @@
+id: city-ie-birr
+name: "Birr"
+location:
+  country_code: IE
+  latitude: 53.097
+  longitude: -7.91
+scores:
+  impact: 7.9
+  uniqueness: 8.0
+  significance: 8.0
+  experience: 8.1
+  depth: 7.6
+  categories:
+    architecture: 8.5
+    history: 8.5

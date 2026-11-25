@@ -1,0 +1,17 @@
+id: city-cy-paphos
+name: "Paphos"
+location:
+  country_code: CY
+  latitude: 34.775
+  longitude: 32.424
+scores:
+  impact: 8.1
+  uniqueness: 8.1
+  significance: 8.6
+  experience: 8.4
+  depth: 8.2
+  categories:
+    history: 8.8
+    architecture: 8.3
+    food: 8.0
+    relaxation: 8.4

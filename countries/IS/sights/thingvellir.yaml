@@ -1,0 +1,16 @@
+id: sight-is-thingvellir
+name: "Þingvellir National Park"
+location:
+  country_code: IS
+  latitude: 64.255
+  longitude: -21.13
+scores:
+  impact: 9.0
+  uniqueness: 9.3
+  significance: 9.5
+  experience: 9.0
+  depth: 8.7
+  categories:
+    nature: 9.2
+    history: 9.5
+    photography: 9.1

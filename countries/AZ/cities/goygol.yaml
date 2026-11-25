@@ -1,0 +1,15 @@
+id: city-az-goygol
+name: "Goygol"
+location:
+  country_code: AZ
+  latitude: 40.587
+  longitude: 46.317
+scores:
+  impact: 7.4
+  uniqueness: 7.9
+  significance: 7.7
+  experience: 7.7
+  depth: 6.7
+  categories:
+    architecture: 8.4
+    history: 8.2

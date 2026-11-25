@@ -1,0 +1,16 @@
+id: sight-af-blue-mosque
+name: "Shrine of Hazrat Ali (Blue Mosque)"
+location:
+  country_code: AF
+  latitude: 36.708
+  longitude: 67.111
+scores:
+  impact: 9.0
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 8.0
+  depth: 7.8
+  categories:
+    architecture: 9.3
+    culture: 9.1
+    photography: 9.1

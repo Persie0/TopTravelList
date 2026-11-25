@@ -1,0 +1,16 @@
+id: sight-km-moroni-medina
+name: "Moroni Medina"
+location:
+  country_code: KM
+  latitude: -11.703603
+  longitude: 43.252725
+scores:
+  impact: 8.0
+  uniqueness: 8.9
+  significance: 9.4
+  experience: 8.3
+  depth: 7.9
+  categories:
+    history: 9.4
+    culture: 9.4
+    architecture: 8.9

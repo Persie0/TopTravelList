@@ -1,0 +1,17 @@
+id: sight-kg-altyn-arashan-valley
+name: "Altyn-Arashan Valley"
+location:
+  country_code: KG
+  latitude: 42.382
+  longitude: 78.605
+scores:
+  impact: 9.0
+  uniqueness: 8.7
+  significance: 7.7
+  experience: 9.0
+  depth: 8.5
+  categories:
+    nature: 9.1
+    adventure: 9.1
+    photography: 9.2
+    relaxation: 8.6

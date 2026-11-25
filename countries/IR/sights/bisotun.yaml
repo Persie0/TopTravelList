@@ -1,0 +1,15 @@
+id: sight-ir-bisotun
+name: "Bisotun"
+location:
+  country_code: IR
+  latitude: 34.388
+  longitude: 47.436
+scores:
+  impact: 8.3
+  uniqueness: 9.1
+  significance: 9.4
+  experience: 8.0
+  depth: 7.7
+  categories:
+    history: 9.4
+    architecture: 8.7

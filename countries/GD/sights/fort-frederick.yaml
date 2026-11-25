@@ -1,0 +1,16 @@
+id: sight-gd-fort-frederick
+name: "Fort Frederick"
+location:
+  country_code: GD
+  latitude: 12.05
+  longitude: -61.732
+scores:
+  impact: 8.1
+  uniqueness: 8.2
+  significance: 8.5
+  experience: 8.2
+  depth: 7.2
+  categories:
+    history: 8.9
+    architecture: 8.4
+    photography: 9.1

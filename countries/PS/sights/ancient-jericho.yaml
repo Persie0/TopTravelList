@@ -1,0 +1,15 @@
+id: sight-ps-ancient-jericho
+name: "Ancient Jericho (Tell es-Sultan)"
+location:
+  country_code: PS
+  latitude: 31.871
+  longitude: 35.444
+scores:
+  impact: 8.1
+  uniqueness: 9.2
+  significance: 9.4
+  experience: 8.2
+  depth: 7.8
+  categories:
+    history: 9.4
+    architecture: 8.6

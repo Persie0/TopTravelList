@@ -1,0 +1,15 @@
+id: sight-ir-alisadr-cave
+name: "Ali Sadr Cave"
+location:
+  country_code: IR
+  latitude: 35.306
+  longitude: 48.301
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 8.4
+  experience: 8.8
+  depth: 8.0
+  categories:
+    nature: 9.1
+    adventure: 8.8

@@ -1,0 +1,14 @@
+id: sight-be-maison-guiette
+name: "Maison Guiette (Le Corbusier component)"
+location:
+  country_code: BE
+  latitude: 51.178
+  longitude: 4.399
+scores:
+  impact: 7.8
+  uniqueness: 8.8
+  significance: 9.1
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.2

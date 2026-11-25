@@ -1,0 +1,15 @@
+id: city-iq-zakho
+name: "Zakho"
+location:
+  country_code: IQ
+  latitude: 37.144
+  longitude: 42.687
+scores:
+  impact: 7.3
+  uniqueness: 7.5
+  significance: 7.5
+  experience: 7.4
+  depth: 6.8
+  categories:
+    architecture: 7.9
+    history: 7.8

@@ -1,0 +1,16 @@
+id: sight-ir-armenian-monasteries
+name: "Armenian Monastic Ensembles of Iran"
+location:
+  country_code: IR
+  latitude: 38.98
+  longitude: 45.47
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 9.1
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.2
+    history: 9.1
+    culture: 8.9

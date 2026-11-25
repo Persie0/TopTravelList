@@ -1,0 +1,15 @@
+id: sight-cy-buffavento-castle
+name: "Buffavento Castle"
+location:
+  country_code: CY
+  latitude: 35.288
+  longitude: 33.41
+scores:
+  impact: 8.5
+  uniqueness: 8.3
+  significance: 8.2
+  experience: 8.0
+  depth: 7.3
+  categories:
+    architecture: 8.5
+    photography: 9.0

@@ -1,0 +1,16 @@
+id: sight-be-lessines-hospital
+name: "Hôpital Notre-Dame à la Rose, Lessines (tentative)"
+location:
+  country_code: BE
+  latitude: 50.713
+  longitude: 3.835
+scores:
+  impact: 8.6
+  uniqueness: 8.9
+  significance: 8.9
+  experience: 8.6
+  depth: 8.4
+  categories:
+    architecture: 9.1
+    history: 9.2
+    culture: 8.9

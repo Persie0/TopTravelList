@@ -1,0 +1,15 @@
+id: sight-il-makhteshim
+name: "Makhteshim Country"
+location:
+  country_code: IL
+  latitude: 30.6
+  longitude: 34.86
+scores:
+  impact: 9.1
+  uniqueness: 9.1
+  significance: 8.7
+  experience: null
+  depth: null
+  categories:
+    nature: 9.3
+    photography: 9.3

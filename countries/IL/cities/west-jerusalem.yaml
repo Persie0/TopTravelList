@@ -1,0 +1,16 @@
+id: city-il-west-jerusalem
+name: "Jerusalem (western districts only)"
+location:
+  country_code: IL
+  latitude: 31.778
+  longitude: 35.212
+scores:
+  impact: 8.5
+  uniqueness: 8.7
+  significance: 9.0
+  experience: 8.5
+  depth: 8.6
+  categories:
+    history: 9.1
+    culture: 9.0
+    architecture: 8.6

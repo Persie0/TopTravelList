@@ -1,0 +1,15 @@
+id: sight-cy-famagusta-walls
+name: "Famagusta Walled City"
+location:
+  country_code: CY
+  latitude: 35.125
+  longitude: 33.94
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 8.3
+  depth: 8.4
+  categories:
+    architecture: 9.1
+    history: 9.2

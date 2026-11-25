@@ -1,0 +1,15 @@
+id: city-vc-georgetown
+name: "Georgetown"
+location:
+  country_code: VC
+  latitude: 13.283
+  longitude: -61.121
+scores:
+  impact: 6.5
+  uniqueness: 7.3
+  significance: 7.4
+  experience: 7.3
+  depth: 6.4
+  categories:
+    culture: 8.0
+    history: 8.1

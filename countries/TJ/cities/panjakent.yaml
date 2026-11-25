@@ -1,0 +1,15 @@
+id: city-tj-panjakent
+name: "Panjakent"
+location:
+  country_code: TJ
+  latitude: 39.495
+  longitude: 67.61
+scores:
+  impact: 7.1
+  uniqueness: 7.6
+  significance: 7.9
+  experience: 7.6
+  depth: 7.0
+  categories:
+    culture: 8.2
+    history: 8.4

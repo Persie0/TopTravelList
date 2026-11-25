@@ -1,0 +1,14 @@
+id: sight-vc-sail-rock
+name: "Sail Rock"
+location:
+  country_code: VC
+  latitude: 12.619828
+  longitude: -61.266075
+scores:
+  impact: null
+  uniqueness: null
+  significance: 6.9
+  experience: null
+  depth: null
+  categories:
+    nature: 8.3

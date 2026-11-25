@@ -1,0 +1,16 @@
+id: city-gb-liverpool
+name: "Liverpool"
+location:
+  country_code: GB
+  latitude: 53.408
+  longitude: -2.991
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 9.1
+  depth: 9.0
+  categories:
+    culture: 9.4
+    history: 9.1
+    architecture: 9.0

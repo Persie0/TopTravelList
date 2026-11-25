@@ -1,0 +1,15 @@
+id: sight-be-brabantse-wouden
+name: "Brabantse Wouden National Park"
+location:
+  country_code: BE
+  latitude: 50.77
+  longitude: 4.55
+scores:
+  impact: 8.2
+  uniqueness: 8.3
+  significance: 8.4
+  experience: 8.6
+  depth: 8.7
+  categories:
+    nature: 8.9
+    relaxation: 8.6

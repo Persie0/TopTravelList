@@ -1,0 +1,15 @@
+id: sight-kz-korgalzhyn-state-nature-reserve
+name: "Korgalzhyn State Nature Reserve"
+location:
+  country_code: KZ
+  latitude: 50.433333
+  longitude: 69.188889
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 9.3
+  experience: 8.5
+  depth: 8.0
+  categories:
+    nature: 9.3
+    wildlife: 9.4

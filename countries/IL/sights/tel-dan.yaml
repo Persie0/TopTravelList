@@ -1,0 +1,15 @@
+id: sight-il-tel-dan
+name: "Tel Dan and Sources of the Jordan"
+location:
+  country_code: IL
+  latitude: 33.248
+  longitude: 35.652
+scores:
+  impact: 8.4
+  uniqueness: 8.7
+  significance: 8.8
+  experience: 8.5
+  depth: 8.0
+  categories:
+    history: 9.0
+    nature: 8.7

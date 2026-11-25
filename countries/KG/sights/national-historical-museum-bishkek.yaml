@@ -1,0 +1,15 @@
+id: sight-kg-national-historical-museum-bishkek
+name: "National Historical Museum (Bishkek)"
+location:
+  country_code: KG
+  latitude: 42.876
+  longitude: 74.603
+scores:
+  impact: 7.6
+  uniqueness: 7.9
+  significance: 8.5
+  experience: 8.0
+  depth: 8.1
+  categories:
+    history: 8.8
+    culture: 8.4

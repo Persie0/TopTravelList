@@ -1,0 +1,16 @@
+id: sight-tr-kaymakli
+name: "Kaymakli Underground City"
+location:
+  country_code: TR
+  latitude: 38.461
+  longitude: 34.752
+scores:
+  impact: 8.5
+  uniqueness: 9.1
+  significance: 8.8
+  experience: 8.5
+  depth: 8.0
+  categories:
+    architecture: 9.0
+    history: 9.0
+    adventure: 8.6

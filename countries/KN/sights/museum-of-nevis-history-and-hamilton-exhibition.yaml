@@ -1,0 +1,15 @@
+id: sight-kn-museum-of-nevis-history-and-hamilton-exhibition
+name: "Museum of Nevis History and Hamilton Exhibition"
+location:
+  country_code: KN
+  latitude: 17.140
+  longitude: -62.625
+scores:
+  impact: 7.2
+  uniqueness: 8.3
+  significance: 8.7
+  experience: 8.3
+  depth: 7.5
+  categories:
+    history: 9.2
+    culture: 8.8

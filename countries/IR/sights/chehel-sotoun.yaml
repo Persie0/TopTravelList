@@ -1,0 +1,15 @@
+id: sight-ir-chehel-sotoun
+name: "Chehel Sotoun Palace and Garden"
+location:
+  country_code: IR
+  latitude: 32.658
+  longitude: 51.673
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 9.0
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.2
+    history: 9.1

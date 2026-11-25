@@ -1,0 +1,15 @@
+id: sight-iq-nineveh
+name: "Ancient City of Nineveh"
+location:
+  country_code: IQ
+  latitude: 36.359
+  longitude: 43.155
+scores:
+  impact: 8.3
+  uniqueness: 9.0
+  significance: 9.4
+  experience: null
+  depth: null
+  categories:
+    history: 9.4
+    architecture: 8.8

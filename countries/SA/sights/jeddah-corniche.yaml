@@ -1,0 +1,15 @@
+id: sight-sa-jeddah-corniche
+name: "Jeddah Corniche"
+location:
+  country_code: SA
+  latitude: 21.61
+  longitude: 39.11
+scores:
+  impact: 7.6
+  uniqueness: 7.1
+  significance: 6.6
+  experience: 8.0
+  depth: 7.5
+  categories:
+    relaxation: 8.3
+    photography: 8.0

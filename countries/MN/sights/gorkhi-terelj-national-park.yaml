@@ -1,0 +1,16 @@
+id: sight-mn-gorkhi-terelj-national-park
+name: "Gorkhi Terelj National Park"
+location:
+  country_code: MN
+  latitude: 48.16
+  longitude: 107.55
+scores:
+  impact: 8.8
+  uniqueness: 8.5
+  significance: 7.8
+  experience: 8.8
+  depth: 8.7
+  categories:
+    nature: 9.0
+    adventure: 8.7
+    photography: 9.1

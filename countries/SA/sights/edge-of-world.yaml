@@ -1,0 +1,16 @@
+id: sight-sa-edge-of-world
+name: "Edge of the World (Jebel Fihrayn)"
+location:
+  country_code: SA
+  latitude: 24.95
+  longitude: 45.99
+scores:
+  impact: 9.0
+  uniqueness: 8.4
+  significance: 7.4
+  experience: 8.2
+  depth: 7.2
+  categories:
+    nature: 8.7
+    photography: 9.3
+    adventure: 8.4

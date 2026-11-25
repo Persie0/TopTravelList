@@ -1,0 +1,16 @@
+id: sight-cv-tarrafal-de-monte-trigo-beach
+name: "Tarrafal de Monte Trigo Beach"
+location:
+  country_code: CV
+  latitude: 16.9550
+  longitude: -25.3170
+scores:
+  impact: 8.3
+  uniqueness: 8.1
+  significance: 6.2
+  experience: 8.1
+  depth: 6.6
+  categories:
+    beaches: 8.6
+    photography: 8.7
+    relaxation: 8.4

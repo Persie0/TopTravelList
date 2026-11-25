@@ -1,0 +1,16 @@
+id: sight-ph-kawasan-falls
+name: "Kawasan Falls"
+location:
+  country_code: PH
+  latitude: 9.803
+  longitude: 123.374
+scores:
+  impact: 8.7
+  uniqueness: 8.1
+  significance: 7.0
+  experience: 8.8
+  depth: 7.7
+  categories:
+    nature: 8.8
+    adventure: 9.0
+    photography: 9.0

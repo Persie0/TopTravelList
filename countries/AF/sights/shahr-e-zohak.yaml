@@ -1,0 +1,15 @@
+id: sight-af-shahr-e-zohak
+name: "Shahr-e Zohak"
+location:
+  country_code: AF
+  latitude: 34.79
+  longitude: 67.99
+scores:
+  impact: 8.4
+  uniqueness: 8.5
+  significance: 8.7
+  experience: null
+  depth: null
+  categories:
+    history: 8.9
+    photography: 8.9

@@ -1,0 +1,16 @@
+id: sight-cy-karpaz
+name: "Karpaz Peninsula"
+location:
+  country_code: CY
+  latitude: 35.59
+  longitude: 34.3
+scores:
+  impact: 8.5
+  uniqueness: 8.2
+  significance: 8.0
+  experience: 8.1
+  depth: 8.0
+  categories:
+    nature: 8.7
+    beaches: 8.7
+    photography: 8.8
