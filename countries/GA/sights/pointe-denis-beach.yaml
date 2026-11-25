@@ -1,0 +1,16 @@
+id: sight-ga-pointe-denis-beach
+name: "Pointe Denis Beach"
+location:
+  country_code: GA
+  latitude: 0.31
+  longitude: 9.43
+scores:
+  impact: 8.3
+  uniqueness: 7.8
+  significance: 6.2
+  experience: 8.5
+  depth: 7.2
+  categories:
+    beaches: 8.9
+    relaxation: 8.8
+    photography: 8.7

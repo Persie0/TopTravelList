@@ -1,0 +1,16 @@
+id: sight-cg-mboko-savanna-and-river-routes
+name: "Mboko Savanna and River Routes"
+location:
+  country_code: CG
+  latitude: 0.40
+  longitude: 14.90
+scores:
+  impact: 8.5
+  uniqueness: 8.7
+  significance: 8.2
+  experience: 8.8
+  depth: 7.9
+  categories:
+    nature: 9.1
+    wildlife: 9.1
+    adventure: 8.7
