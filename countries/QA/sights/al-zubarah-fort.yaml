@@ -1,0 +1,15 @@
+id: sight-qa-al-zubarah-fort
+name: "Al Zubarah Fort"
+location:
+  country_code: QA
+  latitude: 25.9760
+  longitude: 51.0450
+scores:
+  impact: 7.5
+  uniqueness: 7.6
+  significance: 8.3
+  experience: 7.6
+  depth: 6.8
+  categories:
+    history: 8.6
+    architecture: 8.0

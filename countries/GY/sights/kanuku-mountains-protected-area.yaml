@@ -1,0 +1,16 @@
+id: sight-gy-kanuku-mountains-protected-area
+name: "Kanuku Mountains Protected Area"
+location:
+  country_code: GY
+  latitude: 3.2667
+  longitude: -59.3667
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 8.2
+  depth: 8.3
+  categories:
+    nature: 9.2
+    wildlife: 9.3
+    adventure: 8.7
