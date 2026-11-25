@@ -2,8 +2,8 @@ id: sight-az-walled-city-of-baku-with-shirvanshah-palace-and-maiden-tower
 name: "Walled City of Baku with Shirvanshah Palace and Maiden Tower"
 location:
   country_code: AZ
-  latitude: 40.366
-  longitude: 49.835
+  latitude: 40.366667
+  longitude: 49.833333
 scores:
   impact: 9.2
   uniqueness: 9.4

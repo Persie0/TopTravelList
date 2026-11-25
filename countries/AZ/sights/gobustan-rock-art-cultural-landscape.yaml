@@ -2,8 +2,8 @@ id: sight-az-gobustan-rock-art-cultural-landscape
 name: "Gobustan Rock Art Cultural Landscape"
 location:
   country_code: AZ
-  latitude: 40.11
-  longitude: 49.378
+  latitude: 40.112561
+  longitude: 49.381897
 scores:
   impact: 8.6
   uniqueness: 9.4

@@ -2,8 +2,8 @@ id: sight-az-hyrcanian-forests-azerbaijan-components
 name: "Hyrcanian Forests (Azerbaijan Components)"
 location:
   country_code: AZ
-  latitude: 38.65
-  longitude: 48.58
+  latitude: 38.754475
+  longitude: 48.682506
 scores:
   impact: null
   uniqueness: 9.2

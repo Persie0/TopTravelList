@@ -1,11 +1,11 @@
 # Azerbaijan — sights individual worldwide v2 reviews
 
-2026-11-25. Initial provisional editorial inventory. [UNESCO country register](https://whc.unesco.org/en/statesparties/az/) checked: five inscribed and twelve tentative properties represented at property level, not all serial components individually inventoried. All GPS points approximate and independently unverified, not entrances or navigation points. [FCDO regional advice](https://www.gov.uk/foreign-travel-advice/azerbaijan/regional-risks) warns of mines and unexploded ordnance in former conflict areas and restrictions near the Armenian border; do not treat a heritage listing or GPS point as permission or safe access. Shared peer ladders require specialist refinement. Source-linked status means limited identity or context, not complete factual verification.
+2026-11-25. Initial provisional editorial inventory. [UNESCO country register](https://whc.unesco.org/en/statesparties/az/) checked: five inscribed and twelve tentative properties represented at property level, not all serial components individually inventoried. Five inscribed property records use published UNESCO representative coordinates; remaining points approximate and independently unverified, not entrances or navigation points. [FCDO regional advice](https://www.gov.uk/foreign-travel-advice/azerbaijan/regional-risks) warns of mines and unexploded ordnance in former conflict areas and restrictions near the Armenian border; do not treat a heritage listing or GPS point as permission or safe access. Shared peer ladders require specialist refinement. Source-linked status means limited identity or context, not complete factual verification.
 
 ## sight-az-walled-city-of-baku-with-shirvanshah-palace-and-maiden-tower — Walled City of Baku with Shirvanshah Palace and Maiden Tower — 2026-11-25
 
 - [YAML](../../../countries/AZ/sights/walled-city-of-baku-with-shirvanshah-palace-and-maiden-tower.yaml) · Action: new · **source-linked-unverified**.
-- Scope: whole inscribed urban precinct. GPS 40.366, 49.835: approximate editorial point, independent verification pending.
+- Scope: whole inscribed urban precinct. GPS 40.366667, 49.833333: published property point; UNESCO published DMS converted to decimal, not entrance.
 - Worldwide peers (I/U/S/E/D):
   - [Jerash Archaeological City (JO)](../../../countries/JO/sights/jerash-archaeological-city.yaml) — 9.5 / 9.3 / 9.5 / 9.4 / 9.3 (94.15/100); upper reference; Walled City of Baku with Shirvanshah Palace and Maiden Tower has higher provisional uniqueness and lower depth (rare surviving Caspian fortified urban ensemble; many lanes and buildings).
   - [Tashkurgan Stone City (CN)](../../../countries/CN/sights/tashkurgan-stone-city.yaml) — 8.8 / 9.3 / 9.2 / 8.8 / 8.2 (89.45/100); related comparator; Walled City of Baku with Shirvanshah Palace and Maiden Tower has higher provisional uniqueness and higher depth (rare surviving Caspian fortified urban ensemble; many lanes and buildings).
@@ -20,11 +20,13 @@
 - High-score challenge: Architecture and history 9.5 reflect coherent fortified town with several major monuments, not one tower; below Angkor in archaeological scale and historical breadth.. No approved 10.
 - Evidence: [Source](https://whc.unesco.org/en/list/958/) — UNESCO Baku historic property description and named components; page or excerpt inspected 2026-11-25. Individual claims and coordinates not fully verified.
 - Remaining gaps: Independent factual, GPS, category and specialist peer verification.
+- Follow-up: current Hoi An Ancient Town YAML (9.3/9.5/9.3/9.5/9.2; 93.70/100) provides a closer living historic town comparison than ruins alone; Baku 9.2/9.4/9.4/9.3/9.2 remains slightly below it, with equal depth. Jerash live YAML also checked. Category values remain provisional.
+- Coordinate follow-up: https://whc.unesco.org/en/list/958/maps/ (published property point); previous 40.366, 49.835. Representative only.
 
 ## sight-az-historic-centre-of-sheki-with-khan-palace — Historic Centre of Sheki with Khan Palace — 2026-11-25
 
 - [YAML](../../../countries/AZ/sights/historic-centre-of-sheki-with-khan-palace.yaml) · Action: new · **source-linked-unverified**.
-- Scope: historic merchant town precinct and palace. GPS 41.204, 47.197: approximate editorial point, independent verification pending.
+- Scope: historic merchant town precinct and palace. GPS 41.203333, 47.1875: published property point; UNESCO published DMS converted to decimal, not entrance.
 - Worldwide peers (I/U/S/E/D):
   - [Jerash Archaeological City (JO)](../../../countries/JO/sights/jerash-archaeological-city.yaml) — 9.5 / 9.3 / 9.5 / 9.4 / 9.3 (94.15/100); upper reference; Historic Centre of Sheki with Khan Palace has lower provisional uniqueness and lower depth (distinct Silk Road urban and craft ensemble; several separate urban features).
   - [Tashkurgan Stone City (CN)](../../../countries/CN/sights/tashkurgan-stone-city.yaml) — 8.8 / 9.3 / 9.2 / 8.8 / 8.2 (89.45/100); related comparator; Historic Centre of Sheki with Khan Palace has lower provisional uniqueness and higher depth (distinct Silk Road urban and craft ensemble; several separate urban features).
@@ -39,30 +41,34 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Source](https://whc.unesco.org/en/list/1549/) — UNESCO Sheki historic center description; city and individual monuments only partly supported; page or excerpt inspected 2026-11-25. Individual claims and coordinates not fully verified.
 - Remaining gaps: Independent factual, GPS, category and specialist peer verification.
+- Follow-up: https://azerbaijan.travel/explore-the-history-of-shaki and https://azerbaijan.travel/khan-mosque-exhibits-shekis-regal-roots describe multiple heritage stops, supporting the distinct historic precinct scope. Current Jerash depth 9.3 and Hoi An 9.2 exceed Sheki 8.8. No guaranteed private interior admission.
+- Coordinate follow-up: https://whc.unesco.org/en/list/1549/maps/ (published property point); previous 41.204, 47.197. Representative only.
 
 ## sight-az-gobustan-rock-art-cultural-landscape — Gobustan Rock Art Cultural Landscape — 2026-11-25
 
 - [YAML](../../../countries/AZ/sights/gobustan-rock-art-cultural-landscape.yaml) · Action: new · **source-linked-unverified**.
-- Scope: inscribed archaeological landscape including rock engraving sites. GPS 40.11, 49.378: approximate editorial point, independent verification pending.
+- Scope: inscribed archaeological landscape including rock engraving sites. GPS 40.112561, 49.381897: Boyukdash mountain component; UNESCO published DMS converted to decimal, not entrance.
 - Worldwide peers (I/U/S/E/D):
   - [Jerash Archaeological City (JO)](../../../countries/JO/sights/jerash-archaeological-city.yaml) — 9.5 / 9.3 / 9.5 / 9.4 / 9.3 (94.15/100); upper reference; Gobustan Rock Art Cultural Landscape has higher provisional uniqueness and lower depth (rare extensive prehistoric rock-art record; multiple sites and panels).
-  - [Tashkurgan Stone City (CN)](../../../countries/CN/sights/tashkurgan-stone-city.yaml) — 8.8 / 9.3 / 9.2 / 8.8 / 8.2 (89.45/100); related comparator; Gobustan Rock Art Cultural Landscape has higher provisional uniqueness and higher depth (rare extensive prehistoric rock-art record; multiple sites and panels).
-  - [Bat Al Khutm and Al Ayn Archaeological Sites (OM)](../../../countries/OM/sights/bat-al-khutm-and-al-ayn-archaeological-sites.yaml) — 8.0 / 9.2 / 9.4 / 7.8 / 8.4 (85.90/100); related comparator; Gobustan Rock Art Cultural Landscape has higher provisional uniqueness and higher depth (rare extensive prehistoric rock-art record; multiple sites and panels).
-  - [Umm Al-Jimal Archaeological Site (JO)](../../../countries/JO/sights/umm-al-jimal-archaeological-site.yaml) — 8.4 / 8.9 / 9.0 / 8.3 / 8.5 (86.40/100); regional or bounded reference; Gobustan Rock Art Cultural Landscape has higher provisional uniqueness and higher depth (rare extensive prehistoric rock-art record; multiple sites and panels).
+  - [Tashkurgan Stone City (CN)](../../../countries/CN/sights/tashkurgan-stone-city.yaml) — 8.8 / 9.3 / 9.2 / 8.8 / 8.2 (89.45/100); related comparator; Gobustan Rock Art Cultural Landscape has higher provisional uniqueness and lower depth (rare extensive prehistoric rock-art record; multiple sites and panels).
+  - [Bat Al Khutm and Al Ayn Archaeological Sites (OM)](../../../countries/OM/sights/bat-al-khutm-and-al-ayn-archaeological-sites.yaml) — 8.0 / 9.2 / 9.4 / 7.8 / 8.4 (85.90/100); related comparator; Gobustan Rock Art Cultural Landscape has higher provisional uniqueness and lower depth (rare extensive prehistoric rock-art record; multiple sites and panels).
+  - [Umm Al-Jimal Archaeological Site (JO)](../../../countries/JO/sights/umm-al-jimal-archaeological-site.yaml) — 8.4 / 8.9 / 9.0 / 8.3 / 8.5 (86.40/100); regional or bounded reference; Gobustan Rock Art Cultural Landscape has higher provisional uniqueness and lower depth (rare extensive prehistoric rock-art record; multiple sites and panels).
 - Impact 8.6: rocky plateau and engraved panels.
 - Uniqueness 9.4: rare extensive prehistoric rock-art record.
 - Significance 9.5: international archaeological significance.
 - Experience 8.6: interpreted permitted rock-art walks.
-- Depth 8.7: multiple sites and panels.
-- Categories: history:9.6, culture:9.2, photography:8.8. Overall: 89.90/100.
-- High-score challenge: Significance and history 9.5+ reflect long prehistoric chronology and thousands of engravings; visual impact and visitor breadth below monumental archaeological cities.. No approved 10.
+- Depth 8.0: documented museum and designated rock-art viewing circuit; do not count all three protected components or the separately scored mud-volcano field.
+- Categories: history:9.6, culture:9.2, photography:8.8. Overall: 89.20/100.
+- High-score challenge: Significance 9.5 and history 9.6 reflect the documented 6,000-plus engravings and long prehistoric record. The visitor-facing route has narrower breadth than a full archaeological city, and not all three components are established as accessible. No approved 10.
 - Evidence: [Source](https://whc.unesco.org/en/list/1076/) — UNESCO Gobustan rock-art property description; page or excerpt inspected 2026-11-25. Individual claims and coordinates not fully verified.
 - Remaining gaps: Independent factual, GPS, category and specialist peer verification.
+- Follow-up 2026-11-25: https://azerbaijan.travel/discover-gobustans-ancient-rock-art and https://whc.unesco.org/en/list/1076/ support the rock-art identity, chronology and ordinary museum/rock-art visit, not access to every engraved panel. Existing depth reduction retained.
+- Coordinate follow-up: https://whc.unesco.org/en/list/1076/maps/ (Boyukdash mountain component); previous 40.11, 49.378. Representative only.
 
 ## sight-az-khinalig-cultural-landscape-and-koc-yolu-transhumance-route — Khinalig Cultural Landscape and Koc Yolu Transhumance Route — 2026-11-25
 
 - [YAML](../../../countries/AZ/sights/khinalig-cultural-landscape-and-koc-yolu-transhumance-route.yaml) · Action: new · **unassessed**.
-- Scope: inscribed village pastures and long seasonal migration route. GPS 41.178, 48.126: approximate editorial point, independent verification pending.
+- Scope: inscribed village pastures and long seasonal migration route. GPS 40.7059, 48.8854: published landscape point, not the village; UNESCO published DMS converted to decimal, not entrance.
 - Worldwide peers (I/U/S/E/D):
   - [Sagarmatha National Park (NP)](../../../countries/NP/sights/sagarmatha-national-park.yaml) — 9.9 / 9.9 / 9.8 / 9.6 / 9.7 (98.15/100); upper reference; Khinalig Cultural Landscape and Koc Yolu Transhumance Route has lower provisional uniqueness and unresolved depth (rare living highland-to-lowland pastoral system; visitor breadth unknown).
   - [Yading Nature Reserve (CN)](../../../countries/CN/sights/yading-nature-reserve.yaml) — 9.5 / 9.5 / 9.1 / 9.2 / 9.5 (93.75/100); related comparator; Khinalig Cultural Landscape and Koc Yolu Transhumance Route has equal provisional uniqueness and unresolved depth (rare living highland-to-lowland pastoral system; visitor breadth unknown).
@@ -77,11 +83,13 @@
 - High-score challenge: Uniqueness and culture 9.5 reflect documented continuing transhumance system and its infrastructure; village visits do not establish access to the entire route.. No approved 10.
 - Evidence: [Source](https://whc.unesco.org/en/list/1696/) — UNESCO description confirms highland village and long seasonal pastoral route; page or excerpt inspected 2026-11-25. Individual claims and coordinates not fully verified.
 - Remaining gaps: Confirm safe and permitted ordinary visitor routes, coordinates and interpretation before completing scores.
+- Follow-up: https://azerbaijan.travel/khinalig-galakhudat-trail confirms a named local hiking route; https://whc.unesco.org/en/list/1696/ describes the wider transhumance system. No evidence for an ordinary route-wide visit; retain null visitor fields. Village remains separately scored.
+- Coordinate follow-up: https://whc.unesco.org/en/list/1696/maps/ (published landscape point, not the village); previous 41.178, 48.126. Representative only.
 
 ## sight-az-hyrcanian-forests-azerbaijan-components — Hyrcanian Forests (Azerbaijan Components) — 2026-11-25
 
 - [YAML](../../../countries/AZ/sights/hyrcanian-forests-azerbaijan-components.yaml) · Action: new · **unassessed**.
-- Scope: Azerbaijani components of transboundary forest property. GPS 38.65, 48.58: approximate editorial point, independent verification pending.
+- Scope: Azerbaijani components of transboundary forest property. GPS 38.754475, 48.682506: Dangyaband northern component; UNESCO published DMS converted to decimal, not entrance.
 - Worldwide peers (I/U/S/E/D):
   - [Sagarmatha National Park (NP)](../../../countries/NP/sights/sagarmatha-national-park.yaml) — 9.9 / 9.9 / 9.8 / 9.6 / 9.7 (98.15/100); upper reference; Hyrcanian Forests (Azerbaijan Components) has lower provisional uniqueness and unresolved depth (distinct ancient temperate broadleaf forest ecosystems; visitor breadth unresolved).
   - [Yading Nature Reserve (CN)](../../../countries/CN/sights/yading-nature-reserve.yaml) — 9.5 / 9.5 / 9.1 / 9.2 / 9.5 (93.75/100); related comparator; Hyrcanian Forests (Azerbaijan Components) has lower provisional uniqueness and unresolved depth (distinct ancient temperate broadleaf forest ecosystems; visitor breadth unresolved).
@@ -96,6 +104,8 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Source](https://whc.unesco.org/en/list/1584/) — UNESCO transboundary forest property description; page or excerpt inspected 2026-11-25. Individual claims and coordinates not fully verified.
 - Remaining gaps: Confirm safe and permitted ordinary visitor routes, coordinates and interpretation before completing scores.
+- Follow-up: https://whc.unesco.org/en/decisions/8386 confirms exactly two Azerbaijani components, Dangyaband and Istisuchay Valley. The local park walks do not establish both inscribed component circuits. Leave visitor scores null; exclude Iranian components.
+- Coordinate follow-up: https://whc.unesco.org/en/list/1584/maps/ (Dangyaband northern component); previous 38.65, 48.58. Representative only.
 
 ## sight-az-palace-of-the-shirvanshahs — Palace of the Shirvanshahs — 2026-11-25
 
@@ -498,7 +508,7 @@
 
 ## sight-az-heydar-aliyev-center — Heydar Aliyev Center — 2026-11-25
 
-- [YAML](../../../countries/AZ/sights/heydar-aliyev-center.yaml) · Action: new · **editorial-only**.
+- [YAML](../../../countries/AZ/sights/heydar-aliyev-center.yaml) · Action: new · **source-linked-unverified**.
 - Scope: building and permitted exhibition route. GPS 40.395, 49.867: approximate editorial point, independent verification pending.
 - Worldwide peers (I/U/S/E/D):
   - [Kunsthistorisches Museum (AT)](../../../countries/AT/sights/kunsthistorisches-museum.yaml) — 9.2 / 9.4 / 9.6 / 9.4 / 9.5 (93.90/100); upper reference; Heydar Aliyev Center has equal provisional uniqueness and lower depth (distinct contemporary architectural design; bounded venue).
@@ -512,8 +522,9 @@
 - Depth 7.8: bounded venue.
 - Categories: architecture:9.6, photography:9.4, culture:8.2. Overall: 86.05/100.
 - High-score challenge: Architecture 9.6 reflects the continuous curving structural form; historical significance and content depth lower than major heritage museums.. No approved 10.
-- Evidence: No individually inspected source; editorial knowledge only.
+- Evidence: https://azerbaijan.travel/heydar-aliyev-centre-baku — national tourism board confirms Zaha Hadid's flowing design, 2012 opening and exhibitions; partial evidence, not independent full verification.
 - Remaining gaps: Independent factual, GPS, category and specialist peer verification.
+- Follow-up: https://www.ictas.com.tr/en/project/heydar-aliyev-cultural-center/ corroborates the building's cultural and exhibition functions. Architecture 9.6 remains a provisional exceptional judgment; specialist same-type design comparisons still needed. Kunsthistorisches Museum current depth 9.5 is greater than this bounded exhibition venue's 7.8. No numerical adjustment.
 
 ## sight-az-azerbaijan-national-carpet-museum — Azerbaijan National Carpet Museum — 2026-11-25
 
@@ -685,6 +696,7 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Source](https://azerbaijan.travel/) — National tourism board directory and regional context; individual details not verified; page or excerpt inspected 2026-11-25. Individual claims and coordinates not fully verified.
 - Remaining gaps: Independent factual, GPS, category and specialist peer verification.
+- Follow-up: https://azerbaijan.travel/explore-lankarans-nature-reserves and https://azerbaijan.travel/a-trip-to-the-village-of-sim document marked forest walks and Khanbulan Lake and Sim visitor experiences; ordinary permitted trails only. Dana's current depth 9.1 exceeds this park's 8.5; no assumed access to the entire forest or guaranteed wildlife sightings.
 
 ## sight-az-ilisu-waterfall-and-village-gorge — Ilisu Waterfall and Village Gorge — 2026-11-25
 
