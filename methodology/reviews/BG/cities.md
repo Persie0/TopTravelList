@@ -465,8 +465,8 @@
 - Action: new
 - Precise subject: Tryavna settlement; Compact urban scope.
 - Location check: 42.868, 25.493; approximate representative point; independent check outstanding.
-- Evidence status: editorial-only
-- Evidence: No site-specific source inspected; editorial judgment.
+- Evidence status: source-linked-unverified
+- Evidence: https://www.tryavna.eu/en/attractions.html — Specialized Woodcarving and Icon Painting Museum identifies the town's craft attractions; museum hours at https://www.en.tryavna-museum.eu/tryavna-museums-working-time support the visitor circuit. Consulted 2026-11-25; partial factual support, not full verification.
 - Missing or uncertain facts: exact GPS, material claim corroboration, permitted visitor conditions and current peer values.
 
 #### Worldwide peer comparisons
@@ -500,8 +500,8 @@
 - Action: new
 - Precise subject: Balchik settlement; Exclude external coastal excursions.
 - Location check: 43.407, 28.164; approximate representative point; independent check outstanding.
-- Evidence status: editorial-only
-- Evidence: No site-specific source inspected; editorial judgment.
+- Evidence status: source-linked-unverified
+- Evidence: https://visitbulgaria.com/architectural-park-complex-the-palace-balchik/ — National tourism profile documents the town's royal estate and historical context; https://visit.varna.bg/en/arhitekturno-parkov-kompleks-dvoretsa-i-botanicheskata-gradina.html confirms the palace and garden visitor offering. No inheritance of regional excursions. Consulted 2026-11-25; partial factual support, not full verification.
 - Missing or uncertain facts: exact GPS, material claim corroboration, permitted visitor conditions and current peer values.
 
 #### Worldwide peer comparisons

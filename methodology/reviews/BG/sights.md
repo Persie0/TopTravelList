@@ -257,6 +257,7 @@
 - Location check: 42.625, 25.398; approximate representative point; independent check outstanding.
 - Evidence status: source-linked-unverified
 - Evidence: [UNESCO](https://whc.unesco.org/en/statesparties/bg) — accessed 2026-11-25; country inventory confirms property identity, component facts unresolved; material claims and permitted access not fully corroborated.
+- Supplemental evidence (2026-11-25): https://whc.unesco.org/en/list/44/ — UNESCO explicitly identifies the nearby replica as ordinary visitor experience; https://www.kazanlak.bg/trakiyska-grobnitsa and https://www.tourism.government.bg/en/content/thracian-tomb-kazanlak corroborate the full-scale copy. Original entry not assumed.
 - Missing or uncertain facts: exact GPS, material claim corroboration, permitted visitor conditions and current peer values.
 
 #### Worldwide peer comparisons
@@ -535,17 +536,18 @@
 - Action: new
 - Precise subject: Late Antique Tomb of Silistra; Single chamber visitor depth unresolved.
 - Location check: 44.11, 27.26; approximate representative point; independent check outstanding.
-- Evidence status: unassessed
+- Evidence status: source-linked-unverified
 - Evidence: [UNESCO](https://whc.unesco.org/en/statesparties/bg) — accessed 2026-11-25; country inventory confirms property identity, component facts unresolved; material claims and permitted access not fully corroborated.
+- Supplemental evidence (2026-11-25): https://www.museumsilistra.com/en/sites/roman-tomb — Regional history museum describes painted chamber and conservation-dependent visits May–September, Tuesday–Friday, advance booking for at least five people. Single chamber only; no unconditional admission.
 - Missing or uncertain facts: exact GPS, material claim corroboration, permitted visitor conditions and current peer values.
 
 #### Worldwide peer comparisons
 | Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
 | --- | --- | --- |
-| [Schönbrunn Palace (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (9.4 / 9.3 / 9.6 / 9.5 / 9.3) | major built ensemble | Uniqueness lower: Distinct surviving funerary paintings; depth unassessed: Single chamber visitor depth unresolved. Provisional comparison. |
-| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | coherent heritage area | Uniqueness lower: Distinct surviving funerary paintings; depth unassessed: Single chamber visitor depth unresolved. Provisional comparison. |
-| [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | monumental built complex | Uniqueness lower: Distinct surviving funerary paintings; depth unassessed: Single chamber visitor depth unresolved. Provisional comparison. |
-| [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional built complex | Uniqueness higher: Distinct surviving funerary paintings; depth unassessed: Single chamber visitor depth unresolved. Provisional comparison. |
+| [Schönbrunn Palace (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (9.4 / 9.3 / 9.6 / 9.5 / 9.3) | major built ensemble | Uniqueness lower: Distinct surviving funerary paintings; depth lower: One painted chamber, conservation-dependent access. Provisional comparison. |
+| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | coherent heritage area | Uniqueness lower: Distinct surviving funerary paintings; depth lower: One painted chamber, conservation-dependent access. Provisional comparison. |
+| [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | monumental built complex | Uniqueness lower: Distinct surviving funerary paintings; depth lower: One painted chamber, conservation-dependent access. Provisional comparison. |
+| [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional built complex | Uniqueness higher: Distinct surviving funerary paintings; depth lower: One painted chamber, conservation-dependent access. Provisional comparison. |
 
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
@@ -553,14 +555,14 @@
 | impact | — | 7.8 | Painted late antique burial interior |
 | uniqueness | — | 8.7 | Distinct surviving funerary paintings |
 | significance | — | 9.0 | International late Roman art interest |
-| experience | — | null | Ordinary public admission unresolved |
-| depth | — | null | Single chamber visitor depth unresolved |
+| experience | — | 7.0 | Seasonal pre-booked group access, conservation-dependent |
+| depth | — | 6.4 | Single painted chamber; limited interpretation and no wider museum included |
 
 - Applicable category scores: history: 9.2, culture: 8.9.
-- Computed worldwide overall: unranked.
+- Computed worldwide overall: 80.05/100.
 - High-score challenge: Not applicable.
 - Approved 10 registry: none.
-- Final decision: Unranked pending visitor evidence.
+- Final decision: Provisional rank after museum documented conditional seasonal group entry.
 - Earlier decision: none.
 - Verification still needed: independent facts, permitted access, GPS and narrower same-type peer comparisons.
 
@@ -677,6 +679,7 @@
 - Location check: 42.15, 24.753; approximate representative point; independent check outstanding.
 - Evidence status: source-linked-unverified
 - Evidence: [UNESCO](https://whc.unesco.org/en/statesparties/bg) — accessed 2026-11-25; country inventory confirms property identity, component facts unresolved; material claims and permitted access not fully corroborated.
+- Supplemental evidence (2026-11-25): https://www.visitplovdiv.com/en/node/676 — Tourist office describes multiple monuments and more than twenty Revival-period houses used as museums and galleries. Reserve scope, not entire city.
 - Missing or uncertain facts: exact GPS, material claim corroboration, permitted visitor conditions and current peer values.
 
 #### Worldwide peer comparisons
@@ -782,11 +785,15 @@
 - Location check: 43.61, 22.68; approximate representative point; independent check outstanding.
 - Evidence status: source-linked-unverified
 - Evidence: [UNESCO](https://whc.unesco.org/en/statesparties/bg) — accessed 2026-11-25; country inventory confirms property identity, component facts unresolved; material claims and permitted access not fully corroborated.
+- Supplemental evidence (2026-11-25): https://whc.unesco.org/en/tentativelists/5640/ — Tentative nomination describes protected rock formations and compares with Cappadocia; not an inscription. https://www.tourism.government.bg/en/content/belogradchik-fortress confirms separate fortress amid rock formations.
 - Missing or uncertain facts: exact GPS, material claim corroboration, permitted visitor conditions and current peer values.
 
 #### Worldwide peer comparisons
 | Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
 | --- | --- | --- |
+| [Cappadocia (TR)](../../../countries/TR/sights/cappadocia.yaml) (9.4 / 9.4 / 9.4 / 9.3 / 9.4) | eroded rock landscape | Belogradchik has fewer cultural and geological circuits. |
+| [Zhangjiajie (CN)](../../../countries/CN/sights/zhangjiajie-national-forest-park.yaml) (9.8 / 9.7 / 9.3 / 9.8 / 9.3) | dramatic stone pillars | Belogradchik has less scale and visitor breadth. |
+| [Krasnoyarsk Stolby (RU)](../../../countries/RU/sights/krasnoyarsk-stolby.yaml) (8.9 / 8.8 / 8.4 / 8.6 / 8.5) | rock towers and trails | Belogradchik's red sandstone groups give higher visual distinctiveness. |
 | [Jiuzhaigou Valley (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) (9.8 / 9.7 / 9.4 / 9.8 / 9.1) | global natural landscape | Uniqueness lower: Distinct sculpted rock formations across broad landscape; depth lower: Multiple rock groups excluding fortress interiors. Provisional comparison. |
 | [Hohe Tauern (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) (9.4 / 9.1 / 9 / 9.5 / 9.4) | alpine landscape | Uniqueness higher: Distinct sculpted rock formations across broad landscape; depth lower: Multiple rock groups excluding fortress interiors. Provisional comparison. |
 | [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (8.9 / 9 / 9 / 9.1 / 8.6) | protected coastal habitat | Uniqueness higher: Distinct sculpted rock formations across broad landscape; depth higher: Multiple rock groups excluding fortress interiors. Provisional comparison. |
@@ -801,9 +808,9 @@
 | experience | — | 9.0 | Permitted walks and viewpoints |
 | depth | — | 8.8 | Multiple rock groups excluding fortress interiors |
 
-- Applicable category scores: nature: 9.4, photography: 9.5, adventure: 8.8.
+- Applicable category scores: nature: 9.4, photography: 9.3, adventure: 8.8.
 - Computed worldwide overall: 91.05/100.
-- High-score challenge: photography 9.5: Extensive red sandstone towers and ridges. 90+ total: Extensive red sandstone towers and ridges; Distinct sculpted rock formations across broad landscape; Multiple rock groups excluding fortress interiors. Compare Jiuzhaigou and Hohe Tauern: localized Bulgarian geology or alpine terrain supports the specific field, not an automatic whole-park maximum..
+- High-score challenge: 90+ total justified by several rock groups, dramatic forms and walkable viewpoints. Relative to Cappadocia (93.85), Belogradchik has less breadth and cultural layering; Zhangjiajie (96.25) offers greater vertical scale, while Krasnoyarsk Stolby (86.90) is a useful lower rock-landscape anchor. Photography 9.3 rather than 9.5: localized scenic formations do not establish global-leading breadth.
 - Approved 10 registry: none.
 - Final decision: Scope-limited editorial rating: Distinct sculpted rock formations across broad landscape; Multiple rock groups excluding fortress interiors.
 - Earlier decision: none.
@@ -1375,8 +1382,8 @@
 - Action: new
 - Precise subject: Devetashka Cave; Single cave.
 - Location check: 43.233, 24.889; approximate representative point; independent check outstanding.
-- Evidence status: editorial-only
-- Evidence: No site-specific source inspected; editorial judgment.
+- Evidence status: source-linked-unverified
+- Evidence: https://visitbulgaria.com/devetashka-cave/ — National tourism profile identifies the cave near Devetaki; confirms cave identity and local geography. Seasonal habitat restrictions must be respected. Consulted 2026-11-25; partial factual support, not full verification.
 - Missing or uncertain facts: exact GPS, material claim corroboration, permitted visitor conditions and current peer values.
 
 #### Worldwide peer comparisons
@@ -1410,8 +1417,8 @@
 - Action: new
 - Precise subject: Prohodna Cave; Single cave.
 - Location check: 43.175, 24.073; approximate representative point; independent check outstanding.
-- Evidence status: editorial-only
-- Evidence: No site-specific source inspected; editorial judgment.
+- Evidence status: source-linked-unverified
+- Evidence: https://visitbulgaria.com/prohodna-cave/ — National tourism profile describes accessible cave and roof openings; no assumption of technical climbing. Consulted 2026-11-25; partial factual support, not full verification.
 - Missing or uncertain facts: exact GPS, material claim corroboration, permitted visitor conditions and current peer values.
 
 #### Worldwide peer comparisons
@@ -1445,8 +1452,8 @@
 - Action: new
 - Precise subject: Alexander Nevsky Cathedral, Sofia; One cathedral.
 - Location check: 42.696, 23.333; approximate representative point; independent check outstanding.
-- Evidence status: editorial-only
-- Evidence: No site-specific source inspected; editorial judgment.
+- Evidence status: source-linked-unverified
+- Evidence: https://www.cathedral.bg/en/visit-us — Cathedral operator identifies visit location; https://www.visitsofia.bg/en/cityinfrastructure/what-to-do/temples/st-alexander-nevsky-cathedral describes the Neo-Byzantine landmark and scale. Consulted 2026-11-25; partial factual support, not full verification.
 - Missing or uncertain facts: exact GPS, material claim corroboration, permitted visitor conditions and current peer values.
 
 #### Worldwide peer comparisons
@@ -1480,8 +1487,8 @@
 - Action: new
 - Precise subject: Ancient Theatre of Philippopolis; One theatre not old city.
 - Location check: 42.147, 24.751; approximate representative point; independent check outstanding.
-- Evidence status: editorial-only
-- Evidence: No site-specific source inspected; editorial judgment.
+- Evidence status: source-linked-unverified
+- Evidence: https://www.plovdiv.bg/en/tourists/sight-seeing/archaeological-sight-seeing/ — Municipality lists the ancient theatre in its ticketed archaeological inventory; https://www.visitplovdiv.com/en/node/676 identifies it within the historic reserve. Consulted 2026-11-25; partial factual support, not full verification.
 - Missing or uncertain facts: exact GPS, material claim corroboration, permitted visitor conditions and current peer values.
 
 #### Worldwide peer comparisons
@@ -1550,8 +1557,8 @@
 - Action: new
 - Precise subject: Baba Vida Fortress; One fortress.
 - Location check: 44.001, 22.887; approximate representative point; independent check outstanding.
-- Evidence status: editorial-only
-- Evidence: No site-specific source inspected; editorial judgment.
+- Evidence status: source-linked-unverified
+- Evidence: https://www.tourism.government.bg/en/content/baba-vida-fortress — Ministry of Tourism identifies fortress on Danube bank and describes historic structures. Full access and GPS not independently verified. Consulted 2026-11-25; partial factual support, not full verification.
 - Missing or uncertain facts: exact GPS, material claim corroboration, permitted visitor conditions and current peer values.
 
 #### Worldwide peer comparisons
