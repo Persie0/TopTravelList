@@ -1,0 +1,17 @@
+id: city-bo-sucre
+name: "Sucre"
+location:
+  country_code: BO
+  latitude: -19.0475
+  longitude: -65.2592
+scores:
+  impact: 8.9
+  uniqueness: 8.7
+  significance: 9.1
+  experience: 8.9
+  depth: 8.6
+  categories:
+    architecture: 9.3
+    history: 9.4
+    culture: 8.9
+    photography: 9.1

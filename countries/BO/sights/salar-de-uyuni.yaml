@@ -1,0 +1,16 @@
+id: sight-bo-salar-de-uyuni
+name: "Salar de Uyuni"
+location:
+  country_code: BO
+  latitude: -20.1338
+  longitude: -67.4891
+scores:
+  impact: 9.9
+  uniqueness: 9.9
+  significance: 9.0
+  experience: 9.4
+  depth: 9.0
+  categories:
+    nature: 9.9
+    photography: 9.9
+    adventure: 9.1
