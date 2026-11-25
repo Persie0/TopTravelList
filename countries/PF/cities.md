@@ -2,7 +2,7 @@
 
 # French Polynesia (PF) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**5 ranked** · **0 unassessed** · **5 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,15 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (5)
 
-No cities, towns & villages have been assessed for **French Polynesia** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Atuona](cities/atuona.yaml) | City / town | **79.50** | **Culture 8.6**, **History 8.4** | 7.7 / 8.3 / 8.3 / 7.9 / 7.2 | [-9.80373, -139.04257](https://www.google.com/maps/search/?api=1&query=-9.80373,-139.04257) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Atuona%2C%20French%20Polynesia) |
+| 1 | [Taiohaʻe](cities/taiohae.yaml) | City / town | **79.50** | **Photography 8.4**, **Culture 8.3** | 8.1 / 8.4 / 7.7 / 7.8 / 7.1 | [-8.91093, -140.09972](https://www.google.com/maps/search/?api=1&query=-8.91093,-140.09972) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Taioha%CA%BBe%2C%20French%20Polynesia) |
+| 3 | [Papeete](cities/papeete.yaml) | City / town | **78.45** | **Culture 8.4**, **Food 8.3**, **History 7.8** | 7.5 / 8.0 / 8.0 / 8.1 / 7.8 | [-17.5347, -149.56843](https://www.google.com/maps/search/?api=1&query=-17.5347,-149.56843) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Papeete%2C%20French%20Polynesia) |
+| 4 | [Fare](cities/fare.yaml) | City / town | **71.35** | **Culture 7.6**, **Food 7.3** | 7.3 / 7.4 / 6.6 / 7.5 / 6.5 | [-16.7123, -151.03493](https://www.google.com/maps/search/?api=1&query=-16.7123,-151.03493) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Fare%2C%20French%20Polynesia) |
+| 5 | [Vaitape](cities/vaitape.yaml) | City / town | **69.10** | **Photography 7.6**, **Culture 7.0** | 7.2 / 7.1 / 6.2 / 7.3 / 6.4 | [-16.50741, -151.74913](https://www.google.com/maps/search/?api=1&query=-16.50741,-151.74913) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Vaitape%2C%20French%20Polynesia) |
 
 ---
 
