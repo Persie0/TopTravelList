@@ -1,0 +1,14 @@
+id: sight-ae-jais-flight-zipline
+name: "Jais Flight Zipline"
+location:
+  country_code: AE
+  latitude: 25.95
+  longitude: 56.17
+scores:
+  impact: 8.7
+  uniqueness: 9.0
+  significance: 5.5
+  experience: 9.1
+  depth: 6.5
+  categories:
+    adventure: 9.4

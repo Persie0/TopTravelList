@@ -1,0 +1,15 @@
+id: city-az-qusar
+name: "Qusar"
+location:
+  country_code: AZ
+  latitude: 41.426
+  longitude: 48.435
+scores:
+  impact: 6.7
+  uniqueness: 7.3
+  significance: 6.8
+  experience: 7.5
+  depth: 6.7
+  categories:
+    culture: 8.0
+    food: 7.7

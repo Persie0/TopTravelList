@@ -1,0 +1,15 @@
+id: sight-lv-latvian-national-museum-of-art
+name: "Latvian National Museum of Art"
+location:
+  country_code: LV
+  latitude: 56.955
+  longitude: 24.114
+scores:
+  impact: 8.0
+  uniqueness: 8.1
+  significance: 8.5
+  experience: 8.6
+  depth: 8.5
+  categories:
+    culture: 9
+    architecture: 8.7

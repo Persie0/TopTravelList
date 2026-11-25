@@ -1,0 +1,16 @@
+id: sight-cr-chirripo-summit
+name: "Chirripó Summit"
+location:
+  country_code: CR
+  latitude: 9.484
+  longitude: -83.488
+scores:
+  impact: 9.0
+  uniqueness: 8.5
+  significance: 7.9
+  experience: 9.1
+  depth: 7.5
+  categories:
+    adventure: 9.3
+    photography: 9.2
+    nature: 9.0

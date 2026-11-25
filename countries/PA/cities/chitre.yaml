@@ -1,0 +1,16 @@
+id: city-pa-chitre
+name: "Chitré"
+location:
+  country_code: PA
+  latitude: 7.967
+  longitude: -80.436
+scores:
+  impact: 6.8
+  uniqueness: 7.3
+  significance: 7.5
+  experience: 7.6
+  depth: 7.3
+  categories:
+    culture: 8.2
+    food: 7.8
+    history: 7.8

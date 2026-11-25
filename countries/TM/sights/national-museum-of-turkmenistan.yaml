@@ -1,0 +1,15 @@
+id: sight-tm-national-museum-of-turkmenistan
+name: "National Museum of Turkmenistan"
+location:
+  country_code: TM
+  latitude: 37.895
+  longitude: 58.32
+scores:
+  impact: 7.5
+  uniqueness: 8.0
+  significance: 8.5
+  experience: 7.7
+  depth: 7.9
+  categories:
+    history: 8.8
+    culture: 8.5

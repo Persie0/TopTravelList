@@ -1,0 +1,14 @@
+id: sight-tj-toksankoriz-irrigation-system
+name: "Toksankoriz Irrigation System"
+location:
+  country_code: TJ
+  latitude: 39.46102
+  longitude: 67.72734
+scores:
+  impact: null
+  uniqueness: 8.8
+  significance: 9.0
+  experience: null
+  depth: null
+  categories:
+    history: 9.2

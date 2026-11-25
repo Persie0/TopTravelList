@@ -1,0 +1,15 @@
+id: sight-tm-gokdepe-mosque
+name: "Gokdepe Mosque"
+location:
+  country_code: TM
+  latitude: 38.16
+  longitude: 57.97
+scores:
+  impact: 7.8
+  uniqueness: 7.9
+  significance: 7.7
+  experience: 7.9
+  depth: 6.5
+  categories:
+    architecture: 8.5
+    history: 8.1

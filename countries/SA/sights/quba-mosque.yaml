@@ -1,0 +1,15 @@
+id: sight-sa-quba-mosque
+name: "Quba Mosque"
+location:
+  country_code: SA
+  latitude: 24.439
+  longitude: 39.617
+scores:
+  impact: 8.1
+  uniqueness: 8.6
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    history: 9.2
+    architecture: 8.6

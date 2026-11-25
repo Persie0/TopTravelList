@@ -1,0 +1,15 @@
+id: sight-tm-kow-ata-underground-lake
+name: "Kow-Ata Underground Lake"
+location:
+  country_code: TM
+  latitude: 38.2
+  longitude: 57.39
+scores:
+  impact: 8.2
+  uniqueness: 8.5
+  significance: 7.0
+  experience: 8.3
+  depth: 6.3
+  categories:
+    nature: 8.6
+    adventure: 8.4

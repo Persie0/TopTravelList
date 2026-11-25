@@ -1,0 +1,14 @@
+id: city-tm-serhetabat
+name: "Serhetabat"
+location:
+  country_code: TM
+  latitude: 35.28
+  longitude: 62.35
+scores:
+  impact: null
+  uniqueness: 7.0
+  significance: 7.2
+  experience: null
+  depth: null
+  categories:
+    history: 7.6

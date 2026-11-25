@@ -1,0 +1,16 @@
+id: sight-pa-la-india-dormida-trail
+name: "La India Dormida Trail"
+location:
+  country_code: PA
+  latitude: 8.60
+  longitude: -80.15
+scores:
+  impact: 8.4
+  uniqueness: 8.2
+  significance: 7.2
+  experience: 8.6
+  depth: 7.4
+  categories:
+    photography: 9.0
+    adventure: 8.8
+    nature: 8.7

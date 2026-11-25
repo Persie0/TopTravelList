@@ -1,0 +1,15 @@
+id: city-tj-hisor
+name: "Hisor"
+location:
+  country_code: TJ
+  latitude: 38.53
+  longitude: 68.55
+scores:
+  impact: 7.0
+  uniqueness: 7.3
+  significance: 7.6
+  experience: 7.5
+  depth: 6.6
+  categories:
+    history: 8.1
+    culture: 7.9

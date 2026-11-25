@@ -1,0 +1,16 @@
+id: sight-pk-badshahi-mosque
+name: "Badshahi Mosque"
+location:
+  country_code: PK
+  latitude: 31.588
+  longitude: 74.31
+scores:
+  impact: 9.2
+  uniqueness: 8.9
+  significance: 8.9
+  experience: 8.8
+  depth: 8.1
+  categories:
+    architecture: 9.3
+    history: 9.0
+    photography: 9.3

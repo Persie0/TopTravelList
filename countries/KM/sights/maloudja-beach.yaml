@@ -1,0 +1,16 @@
+id: sight-km-maloudja-beach
+name: "Maloudja Beach"
+location:
+  country_code: KM
+  latitude: -11.3840
+  longitude: 43.2830
+scores:
+  impact: 8.5
+  uniqueness: 8.0
+  significance: 6.0
+  experience: 8.3
+  depth: 7.0
+  categories:
+    beaches: 8.8
+    relaxation: 8.6
+    photography: 8.7

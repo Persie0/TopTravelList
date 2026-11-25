@@ -1,0 +1,15 @@
+id: sight-pk-kot-diji-fort
+name: "Kot Diji Fort"
+location:
+  country_code: PK
+  latitude: 27.342
+  longitude: 68.71
+scores:
+  impact: 8.2
+  uniqueness: 8.2
+  significance: 8.1
+  experience: 7.8
+  depth: 7.3
+  categories:
+    architecture: 8.6
+    history: 8.4

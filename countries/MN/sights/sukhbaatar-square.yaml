@@ -1,0 +1,15 @@
+id: sight-mn-sukhbaatar-square
+name: "Sukhbaatar Square"
+location:
+  country_code: MN
+  latitude: 47.919
+  longitude: 106.917
+scores:
+  impact: 7.4
+  uniqueness: 7.3
+  significance: 8.1
+  experience: 7.7
+  depth: 6.8
+  categories:
+    history: 8.4
+    architecture: 7.9

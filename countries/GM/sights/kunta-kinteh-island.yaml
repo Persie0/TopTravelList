@@ -1,0 +1,16 @@
+id: sight-gm-kunta-kinteh-island
+name: "Kunta Kinteh Island"
+location:
+  country_code: GM
+  latitude: 13.317642
+  longitude: -16.361353
+scores:
+  impact: 8.5
+  uniqueness: 9.1
+  significance: 9.6
+  experience: 8.1
+  depth: 6.9
+  categories:
+    history: 9.7
+    culture: 9.4
+    photography: 8.3

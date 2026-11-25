@@ -1,0 +1,15 @@
+id: sight-tj-cultural-heritage-sites-of-ancient-khuttal
+name: "Cultural Heritage Sites of Ancient Khuttal"
+location:
+  country_code: TJ
+  latitude: 37.777742
+  longitude: 69.556731
+scores:
+  impact: null
+  uniqueness: 9.1
+  significance: 9.4
+  experience: null
+  depth: null
+  categories:
+    history: 9.4
+    culture: 9.1

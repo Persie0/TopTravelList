@@ -1,0 +1,15 @@
+id: city-mv-fulhadhoo
+name: "Fulhadhoo"
+location:
+  country_code: MV
+  latitude: 4.887
+  longitude: 72.931
+scores:
+  impact: 7.7
+  uniqueness: 8.0
+  significance: 6.1
+  experience: 8.1
+  depth: 6.1
+  categories:
+    relaxation: 8.7
+    culture: 7.5

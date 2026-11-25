@@ -1,0 +1,14 @@
+id: sight-tm-mansaf-caravanserai-both-components
+name: "Mansaf Caravanserai (Both Components)"
+location:
+  country_code: TM
+  latitude: 38.269081
+  longitude: 62.797939
+scores:
+  impact: null
+  uniqueness: 8.4
+  significance: 8.8
+  experience: null
+  depth: null
+  categories:
+    history: 9.0

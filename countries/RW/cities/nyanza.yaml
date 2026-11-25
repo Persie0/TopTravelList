@@ -1,0 +1,15 @@
+id: city-rw-nyanza
+name: "Nyanza"
+location:
+  country_code: RW
+  latitude: -2.3518
+  longitude: 29.7509
+scores:
+  impact: 6.9
+  uniqueness: 7.6
+  significance: 8.0
+  experience: 7.4
+  depth: 6.7
+  categories:
+    history: 8.5
+    culture: 8.3
