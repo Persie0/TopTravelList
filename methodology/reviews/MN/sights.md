@@ -1,25 +1,26 @@
 # Mongolia — sights individual worldwide v2 reviews
 
-2026-11-25. Provisional editorial assessments. [UNESCO country register](https://whc.unesco.org/en/statesparties/mn) inspected: seven inscribed properties and eleven tentative properties. Serial entries are represented by one point and not a complete geographic inventory. Great Gobi Part A represents one of three tentative property components; Mongolian portions only for transboundary properties. No visitor-access or wildlife guarantee. Except the Xiongnu Chikhertiin Zoo point converted from the UNESCO component map, coordinates are approximate editorial estimates, not independently checked. Source-linked status indicates limited evidence, not full verification. Shared peer groups are broad provisional comparisons; stronger same-type specialist comparisons remain needed.
+2026-11-25. Provisional editorial assessments. [UNESCO country register](https://whc.unesco.org/en/statesparties/mn) inspected: seven inscribed properties and eleven tentative properties. Serial entries are represented by one point and not a complete geographic inventory. Great Gobi Part A represents one of three tentative property components; Mongolian portions only for transboundary properties. No visitor-access or wildlife guarantee. The Xiongnu Chikhertiin Zoo point and three additional component records use UNESCO map coordinates; other coordinates are approximate editorial estimates, not independently checked. Source-linked status indicates limited evidence, not full verification. Shared peer groups are broad provisional comparisons; stronger same-type specialist comparisons remain needed.
 
 ## sight-mn-altai-tavan-bogd-national-park — Altai Tavan Bogd National Park — 2026-11-25
 
 - [YAML](../../../countries/MN/sights/altai-tavan-bogd-national-park.yaml) · Action: new · **source-linked-unverified**.
 - Scope: Mongolian park landscapes not foreign slopes. GPS 49.15, 88.17: approximate editorial point, independent verification pending.
 - Worldwide peers (I/U/S/E/D):
-  - [Sagarmatha National Park (NP)](../../../countries/NP/sights/sagarmatha-national-park.yaml) — 9.9 / 9.9 / 9.8 / 9.6 / 9.7 (98.15/100); upper reference; Altai Tavan Bogd National Park has lower provisional uniqueness and lower depth (distinct glaciated Altai frontier landscape; many valleys and routes).
-  - [Jiuzhaigou Valley (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) — 9.8 / 9.7 / 9.4 / 9.8 / 9.1 (96.25/100); related comparator; Altai Tavan Bogd National Park has lower provisional uniqueness and higher depth (distinct glaciated Altai frontier landscape; many valleys and routes).
-  - [Dana Biosphere Reserve (JO)](../../../countries/JO/sights/dana-biosphere-reserve.yaml) — 9.0 / 8.8 / 8.9 / 9.0 / 9.1 (89.40/100); related comparator; Altai Tavan Bogd National Park has higher provisional uniqueness and higher depth (distinct glaciated Altai frontier landscape; many valleys and routes).
-  - [Azraq Wetland Reserve (JO)](../../../countries/JO/sights/azraq-wetland-reserve.yaml) — 7.8 / 8.4 / 8.7 / 8.0 / 7.8 (81.60/100); regional or bounded reference; Altai Tavan Bogd National Park has higher provisional uniqueness and higher depth (distinct glaciated Altai frontier landscape; many valleys and routes).
-- Impact 9.5: glaciers and high peaks dominate mountain valleys.
+  - [Sagarmatha National Park (NP)](../../../countries/NP/sights/sagarmatha-national-park.yaml) — 9.9 / 9.9 / 9.8 / 9.6 / 9.7 (98.15/100); upper reference; Altai Tavan Bogd National Park compared for uniqueness and visitor depth (distinct glaciated Altai frontier landscape; many valleys and routes).
+  - [Jiuzhaigou Valley (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) — 9.8 / 9.7 / 9.4 / 9.8 / 9.1 (96.25/100); related comparator; Altai Tavan Bogd National Park compared for uniqueness and visitor depth (distinct glaciated Altai frontier landscape; many valleys and routes).
+  - [Dana Biosphere Reserve (JO)](../../../countries/JO/sights/dana-biosphere-reserve.yaml) — 9.0 / 8.8 / 8.9 / 9.0 / 9.1 (89.40/100); related comparator; Altai Tavan Bogd National Park compared for uniqueness and visitor depth (distinct glaciated Altai frontier landscape; many valleys and routes).
+  - [Azraq Wetland Reserve (JO)](../../../countries/JO/sights/azraq-wetland-reserve.yaml) — 7.8 / 8.4 / 8.7 / 8.0 / 7.8 (81.60/100); regional or bounded reference; Altai Tavan Bogd National Park compared for uniqueness and visitor depth (distinct glaciated Altai frontier landscape; many valleys and routes).
+- Impact 9.4: glaciated valleys and high peaks comparable in visual impact to other major alpine parks.
 - Uniqueness 9.4: distinct glaciated Altai frontier landscape.
 - Significance 9.0: regional ecosystem and geological importance.
 - Experience 9.1: permitted hiking and mountain exploration.
-- Depth 9.4: many valleys and routes.
-- Categories: nature:9.6, adventure:9.5, photography:9.6. Overall: 93.05/100.
-- High-score challenge: Impact and photography 9.5+ reflect exceptional glaciated relief; nature and adventure reflect multi-valley high-mountain breadth. Below Sagarmatha in world-defining altitude and history; ordinary hiking is distinguished from summiting.. No approved 10.
+- Depth 9.1: documented permitted routes and varied stops, not entire geographic extent.
+- Categories: nature:9.6, adventure:9.5, photography:9.6. Overall: 92.45/100.
+- High-score challenge: The described tour experience involves approved trekking routes and border-zone permission. Impact is comparable to Hohe Tauern (9.4) and Shey-Phoksundo (9.4), not at Sagarmatha (9.9). Depth 9.1 counts documented varied trekking rather than the full park. Nature/adventure/photography remain provisional and exceptional; no summit access assumed. No approved 10.
 - Evidence: [Visit Mongolia tour operator excerpt and other inspected itinerary excerpts; confirms named destinations and possible visits, not individual facts throughout](https://www.visitmongolia.com/mongolian_portfolio_tour.html), page or excerpt inspected 2026-11-25; individual claims and coordinates not fully verified.
 - Remaining gaps: Independent factual, GPS, category and specialist peer verification.
+- Follow-up 2026-11-25: The described tour experience involves approved trekking routes and border-zone permission. Impact is comparable to Hohe Tauern (9.4) and Shey-Phoksundo (9.4), not at Sagarmatha (9.9). Depth 9.1 counts documented varied trekking rather than the full park. Nature/adventure/photography remain provisional and exceptional; no summit access assumed. Evidence: https://www.discoveraltai.com/mongolia-trekking-permit/. Previous dimension profile 9.5/9.4/9.0/9.1/9.4; no claim of full independent verification.
 
 ## sight-mn-orkhon-valley-cultural-landscape — Orkhon Valley Cultural Landscape — 2026-11-25
 
@@ -64,38 +65,40 @@
 - [YAML](../../../countries/MN/sights/khuvsgul-lake-national-park.yaml) · Action: new · **source-linked-unverified**.
 - Scope: lake and surrounding park on Mongolian shore. GPS 51.0, 100.45: approximate editorial point, independent verification pending.
 - Worldwide peers (I/U/S/E/D):
-  - [Sagarmatha National Park (NP)](../../../countries/NP/sights/sagarmatha-national-park.yaml) — 9.9 / 9.9 / 9.8 / 9.6 / 9.7 (98.15/100); upper reference; Khuvsgul Lake National Park has lower provisional uniqueness and lower depth (large freshwater lake in continental steppe-taiga transition; multiple bays and forest landscapes).
-  - [Jiuzhaigou Valley (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) — 9.8 / 9.7 / 9.4 / 9.8 / 9.1 (96.25/100); related comparator; Khuvsgul Lake National Park has lower provisional uniqueness and higher depth (large freshwater lake in continental steppe-taiga transition; multiple bays and forest landscapes).
-  - [Dana Biosphere Reserve (JO)](../../../countries/JO/sights/dana-biosphere-reserve.yaml) — 9.0 / 8.8 / 8.9 / 9.0 / 9.1 (89.40/100); related comparator; Khuvsgul Lake National Park has equal provisional uniqueness and higher depth (large freshwater lake in continental steppe-taiga transition; multiple bays and forest landscapes).
-  - [Azraq Wetland Reserve (JO)](../../../countries/JO/sights/azraq-wetland-reserve.yaml) — 7.8 / 8.4 / 8.7 / 8.0 / 7.8 (81.60/100); regional or bounded reference; Khuvsgul Lake National Park has higher provisional uniqueness and higher depth (large freshwater lake in continental steppe-taiga transition; multiple bays and forest landscapes).
+  - [Sagarmatha National Park (NP)](../../../countries/NP/sights/sagarmatha-national-park.yaml) — 9.9 / 9.9 / 9.8 / 9.6 / 9.7 (98.15/100); upper reference; Khuvsgul Lake National Park compared for uniqueness and visitor depth (large freshwater lake in continental steppe-taiga transition; multiple bays and forest landscapes).
+  - [Jiuzhaigou Valley (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) — 9.8 / 9.7 / 9.4 / 9.8 / 9.1 (96.25/100); related comparator; Khuvsgul Lake National Park compared for uniqueness and visitor depth (large freshwater lake in continental steppe-taiga transition; multiple bays and forest landscapes).
+  - [Dana Biosphere Reserve (JO)](../../../countries/JO/sights/dana-biosphere-reserve.yaml) — 9.0 / 8.8 / 8.9 / 9.0 / 9.1 (89.40/100); related comparator; Khuvsgul Lake National Park compared for uniqueness and visitor depth (large freshwater lake in continental steppe-taiga transition; multiple bays and forest landscapes).
+  - [Azraq Wetland Reserve (JO)](../../../countries/JO/sights/azraq-wetland-reserve.yaml) — 7.8 / 8.4 / 8.7 / 8.0 / 7.8 (81.60/100); regional or bounded reference; Khuvsgul Lake National Park compared for uniqueness and visitor depth (large freshwater lake in continental steppe-taiga transition; multiple bays and forest landscapes).
 - Impact 9.2: clear lake bordered by forest and mountains.
 - Uniqueness 8.8: large freshwater lake in continental steppe-taiga transition.
 - Significance 8.9: regional freshwater ecology.
 - Experience 9.0: shore outings and nature walks.
-- Depth 9.3: multiple bays and forest landscapes.
-- Categories: nature:9.4, photography:9.3, adventure:9.0. Overall: 90.20/100.
-- High-score challenge: Overall 90.20 reflects clear lake bordered by forest and mountains and multiple bays and forest landscapes; less world-defining than the upper peer, with regional freshwater ecology assessed separately.. No approved 10.
+- Depth 9.1: documented permitted routes and varied stops, not entire geographic extent.
+- Categories: nature:9.4, photography:9.3, adventure:9.0. Overall: 90.00/100.
+- High-score challenge: Documented shoreline, horse rides and forest hikes support varied experiences, but not unrestricted exploration of the lake and watershed. Depth 9.1 matches Dana and is below Shey-Phoksundo (9.4). UNESCO biosphere reserve description https://www.unesco.org/en/mab/khuvsgul-lake confirms ecology but not visitor access. No approved 10.
 - Evidence: [Visit Mongolia tour operator excerpt and other inspected itinerary excerpts; confirms named destinations and possible visits, not individual facts throughout](https://www.visitmongolia.com/mongolian_portfolio_tour.html), page or excerpt inspected 2026-11-25; individual claims and coordinates not fully verified.
 - Remaining gaps: Independent factual, GPS, category and specialist peer verification.
+- Follow-up 2026-11-25: Documented shoreline, horse rides and forest hikes support varied experiences, but not unrestricted exploration of the lake and watershed. Depth 9.1 matches Dana and is below Shey-Phoksundo (9.4). UNESCO biosphere reserve description https://www.unesco.org/en/mab/khuvsgul-lake confirms ecology but not visitor access. Evidence: https://www.hinomad.mn/en/program/2KwlQoaokmu. Previous dimension profile 9.2/8.8/8.9/9.0/9.3; no claim of full independent verification.
 
 ## sight-mn-gobi-gurvansaikhan-national-park — Gobi Gurvansaikhan National Park — 2026-11-25
 
 - [YAML](../../../countries/MN/sights/gobi-gurvansaikhan-national-park.yaml) · Action: new · **source-linked-unverified**.
 - Scope: entire accessible park landscape excluding other Gobi reserves. GPS 43.55, 103.65: approximate editorial point, independent verification pending.
 - Worldwide peers (I/U/S/E/D):
-  - [Wadi Rum Protected Area (JO)](../../../countries/JO/sights/wadi-rum-protected-area.yaml) — 9.8 / 9.7 / 9.4 / 9.6 / 9.5 (96.35/100); upper reference; Gobi Gurvansaikhan National Park has lower provisional uniqueness and lower depth (diverse arid landforms within one park; distinct valleys and dunes).
-  - [Jiuzhaigou Valley (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) — 9.8 / 9.7 / 9.4 / 9.8 / 9.1 (96.25/100); related comparator; Gobi Gurvansaikhan National Park has lower provisional uniqueness and higher depth (diverse arid landforms within one park; distinct valleys and dunes).
-  - [Shey-Phoksundo National Park (NP)](../../../countries/NP/sights/shey-phoksundo-national-park.yaml) — 9.4 / 9.5 / 9.4 / 9.0 / 9.4 (93.65/100); related comparator; Gobi Gurvansaikhan National Park has lower provisional uniqueness and equal depth (diverse arid landforms within one park; distinct valleys and dunes).
-  - [Dana Biosphere Reserve (JO)](../../../countries/JO/sights/dana-biosphere-reserve.yaml) — 9.0 / 8.8 / 8.9 / 9.0 / 9.1 (89.40/100); regional or bounded reference; Gobi Gurvansaikhan National Park has higher provisional uniqueness and higher depth (diverse arid landforms within one park; distinct valleys and dunes).
+  - [Wadi Rum Protected Area (JO)](../../../countries/JO/sights/wadi-rum-protected-area.yaml) — 9.8 / 9.7 / 9.4 / 9.6 / 9.5 (96.35/100); upper reference; Gobi Gurvansaikhan National Park compared for uniqueness and visitor depth (diverse arid landforms within one park; distinct valleys and dunes).
+  - [Jiuzhaigou Valley (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) — 9.8 / 9.7 / 9.4 / 9.8 / 9.1 (96.25/100); related comparator; Gobi Gurvansaikhan National Park compared for uniqueness and visitor depth (diverse arid landforms within one park; distinct valleys and dunes).
+  - [Shey-Phoksundo National Park (NP)](../../../countries/NP/sights/shey-phoksundo-national-park.yaml) — 9.4 / 9.5 / 9.4 / 9.0 / 9.4 (93.65/100); related comparator; Gobi Gurvansaikhan National Park compared for uniqueness and visitor depth (diverse arid landforms within one park; distinct valleys and dunes).
+  - [Dana Biosphere Reserve (JO)](../../../countries/JO/sights/dana-biosphere-reserve.yaml) — 9.0 / 8.8 / 8.9 / 9.0 / 9.1 (89.40/100); regional or bounded reference; Gobi Gurvansaikhan National Park compared for uniqueness and visitor depth (diverse arid landforms within one park; distinct valleys and dunes).
 - Impact 9.2: mountains dunes and desert plains.
 - Uniqueness 9.0: diverse arid landforms within one park.
 - Significance 8.8: regional desert ecology.
 - Experience 8.9: multi-stop outdoor exploration.
-- Depth 9.4: distinct valleys and dunes.
-- Categories: nature:9.4, photography:9.4, adventure:9.2. Overall: 90.45/100.
-- High-score challenge: Overall 90.45 reflects mountains dunes and desert plains and distinct valleys and dunes; less world-defining than the upper peer, with regional desert ecology assessed separately.. No approved 10.
+- Depth 9.2: documented permitted routes and varied stops, not entire geographic extent.
+- Categories: nature:9.4, photography:9.4, adventure:9.2. Overall: 90.25/100.
+- High-score challenge: The named tour experience supports dunes and gorge walks; it does not establish park-wide accessible breadth. Depth 9.2 remains above Dana (9.1) but below Wadi Rum (9.5) and Shey-Phoksundo (9.4). Exclude other Gobi fossil landscapes from the park's depth. No approved 10.
 - Evidence: [Visit Mongolia tour operator excerpt and other inspected itinerary excerpts; confirms named destinations and possible visits, not individual facts throughout](https://www.visitmongolia.com/mongolian_portfolio_tour.html), page or excerpt inspected 2026-11-25; individual claims and coordinates not fully verified.
 - Remaining gaps: Independent factual, GPS, category and specialist peer verification.
+- Follow-up 2026-11-25: The named tour experience supports dunes and gorge walks; it does not establish park-wide accessible breadth. Depth 9.2 remains above Dana (9.1) but below Wadi Rum (9.5) and Shey-Phoksundo (9.4). Exclude other Gobi fossil landscapes from the park's depth. Evidence: https://www.mongolian.travel/gobi-gurvansaikhan-national-park/. Previous dimension profile 9.2/9.0/8.8/8.9/9.4; no claim of full independent verification.
 
 ## sight-mn-bayanzag-flaming-cliffs — Bayanzag (Flaming Cliffs) — 2026-11-25
 
@@ -233,7 +236,7 @@
 ## sight-mn-petroglyphic-complexes-of-the-mongolian-altai — Petroglyphic Complexes of the Mongolian Altai — 2026-11-25
 
 - [YAML](../../../countries/MN/sights/petroglyphic-complexes-of-the-mongolian-altai.yaml) · Action: new · **source-linked-unverified**.
-- Scope: serial rock-art landscape of three components. GPS 49.334, 88.39: approximate editorial point, independent verification pending.
+- Scope: serial rock-art landscape of three components. GPS 49.333967, 88.395383: UNESCO component DMS converted, representative point only.
 - Worldwide peers (I/U/S/E/D):
   - [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 10.0 / 10.0 / 10.0 / 9.8 / 10.0 (99.70/100); upper reference; Petroglyphic Complexes of the Mongolian Altai has lower provisional uniqueness and lower depth (exceptional long prehistoric record; multiple separated sites).
   - [Jerash Archaeological City (JO)](../../../countries/JO/sights/jerash-archaeological-city.yaml) — 9.5 / 9.3 / 9.5 / 9.4 / 9.3 (94.15/100); related comparator; Petroglyphic Complexes of the Mongolian Altai has equal provisional uniqueness and lower depth (exceptional long prehistoric record; multiple separated sites).
@@ -248,11 +251,12 @@
 - High-score challenge: Significance and history 9.5 reflect long chronology and three complementary rock-art landscapes. More fragmentary visible architecture than Jerash and Angkor, lower impact and experience.. No approved 10.
 - Evidence: [UNESCO petroglyph property description; confirms three sites and archaeological chronology](https://whc.unesco.org/en/list/1382/), page or excerpt inspected 2026-11-25; individual claims and coordinates not fully verified.
 - Remaining gaps: Independent factual, GPS, category and specialist peer verification.
+- Follow-up 2026-11-25: Use the published Tsagaan Salaa-Baga Oigor component location, not an entrance or all three sites. Evidence: https://whc.unesco.org/en/list/1382/maps/. Previous approximate location recorded in the original PR; no claim of full independent verification.
 
 ## sight-mn-deer-stone-monuments-and-related-bronze-age-sites — Deer Stone Monuments and Related Bronze Age Sites — 2026-11-25
 
 - [YAML](../../../countries/MN/sights/deer-stone-monuments-and-related-bronze-age-sites.yaml) · Action: new · **source-linked-unverified**.
-- Scope: serial four ceremonial landscapes. GPS 48.30, 101.00: approximate editorial point, independent verification pending.
+- Scope: serial four ceremonial landscapes. GPS 47.742778, 101.225833: UNESCO component DMS converted, representative point only.
 - Worldwide peers (I/U/S/E/D):
   - [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 10.0 / 10.0 / 10.0 / 9.8 / 10.0 (99.70/100); upper reference; Deer Stone Monuments and Related Bronze Age Sites has lower provisional uniqueness and lower depth (unusual Bronze Age steppe megalithic art; several dispersed complexes).
   - [Jerash Archaeological City (JO)](../../../countries/JO/sights/jerash-archaeological-city.yaml) — 9.5 / 9.3 / 9.5 / 9.4 / 9.3 (94.15/100); related comparator; Deer Stone Monuments and Related Bronze Age Sites has higher provisional uniqueness and lower depth (unusual Bronze Age steppe megalithic art; several dispersed complexes).
@@ -267,6 +271,7 @@
 - High-score challenge: Significance and history 9.5 reflect internationally important ceremonial and funerary evidence, not equivalent to intact monumental cities; lower impact than Jerash.. No approved 10.
 - Evidence: [UNESCO deer-stone description; confirms four components and Bronze Age heritage](https://whc.unesco.org/en/list/1621/), page or excerpt inspected 2026-11-25; individual claims and coordinates not fully verified.
 - Remaining gaps: Independent factual, GPS, category and specialist peer verification.
+- Follow-up 2026-11-25: Use the published Khoid Tamir component rather than an unspecified approximate point; the remaining three components are not co-located. Evidence: https://whc.unesco.org/en/list/1621/maps/. Previous approximate location recorded in the original PR; no claim of full independent verification.
 
 ## sight-mn-cemetery-complexes-of-the-xiongnu-nobility — Cemetery Complexes of the Xiongnu Nobility — 2026-11-25
 
@@ -936,7 +941,7 @@
 ## sight-mn-uushigiin-uvur-deer-stones — Uushigiin Uvur Deer Stones — 2026-11-25
 
 - [YAML](../../../countries/MN/sights/uushigiin-uvur-deer-stones.yaml) · Action: new · **source-linked-unverified**.
-- Scope: single component of serial Bronze Age property. GPS 49.63, 100.00: approximate editorial point, independent verification pending.
+- Scope: single component of serial Bronze Age property. GPS 49.655361, 99.928333: UNESCO component DMS converted, representative point only.
 - Worldwide peers (I/U/S/E/D):
   - [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 10.0 / 10.0 / 10.0 / 9.8 / 10.0 (99.70/100); upper reference; Uushigiin Uvur Deer Stones has lower provisional uniqueness and lower depth (distinctive animal engravings; bounded monument field).
   - [Jerash Archaeological City (JO)](../../../countries/JO/sights/jerash-archaeological-city.yaml) — 9.5 / 9.3 / 9.5 / 9.4 / 9.3 (94.15/100); related comparator; Uushigiin Uvur Deer Stones has lower provisional uniqueness and lower depth (distinctive animal engravings; bounded monument field).
@@ -951,3 +956,4 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [UNESCO deer-stone description; confirms four components and Bronze Age heritage](https://whc.unesco.org/en/list/1621/), page or excerpt inspected 2026-11-25; individual claims and coordinates not fully verified.
 - Remaining gaps: Independent factual, GPS, category and specialist peer verification.
+- Follow-up 2026-11-25: Use the published Uushigiin Ovor component location. Evidence: https://whc.unesco.org/en/list/1621/maps/. Previous approximate location recorded in the original PR; no claim of full independent verification.

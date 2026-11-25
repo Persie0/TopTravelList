@@ -2,8 +2,8 @@ id: sight-mn-uushigiin-uvur-deer-stones
 name: "Uushigiin Uvur Deer Stones"
 location:
   country_code: MN
-  latitude: 49.63
-  longitude: 100
+  latitude: 49.655361
+  longitude: 99.928333
 scores:
   impact: 7.8
   uniqueness: 8.7
