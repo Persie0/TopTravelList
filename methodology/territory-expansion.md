@@ -93,3 +93,12 @@ Po Lin Monastery was caught by the subsequent longitude screen; moved to HK. Fiv
 | sight-no-jan-mayen | sight-sj-jan-mayen |
 
 Original Norway decisions archived. Whole Svalbard and Jan Mayen tentative records remain unranked. Ny-Ålesund is represented as a public heritage visitor area, Pyramiden as a historic settlement, not ordinary cities. Barentsburg remains an unranked inhabited settlement pending visitor evidence. Parent names and high-Arctic points screened; no sovereignty change implied.
+
+### Réunion migration — 2026-11-25
+
+| Former ID | Active ID |
+| --- | --- |
+| sight-fr-reunion-pitons | sight-re-reunion-pitons |
+| sight-fr-reunion-park | sight-re-reunion-pitons (retired duplicate) |
+
+[UNESCO](https://whc.unesco.org/en/list/1317/) confirms the listed property coincides with the national park core. Keep one active visitor landscape with original 93.80 score; retire overlapping 93.65 profile, archive both [original reviews](reviews/FR/migration-history-RE.md). Add five settlements and nine individually scoped sights. Metropolitan Saint-Denis basilica stays in FR. Parent names and approximate coordinates screened; full reference and GPS audit pending.

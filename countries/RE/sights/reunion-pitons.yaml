@@ -1,7 +1,7 @@
-id: sight-fr-reunion-pitons
-name: "Pitons cirques and remparts of Réunion Island"
+id: sight-re-reunion-pitons
+name: "Pitons, cirques and remparts of Réunion (National Park core)"
 location:
-  country_code: FR
+  country_code: RE
   latitude: -21.1
   longitude: 55.5
 scores:

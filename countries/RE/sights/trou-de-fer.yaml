@@ -1,0 +1,15 @@
+id: sight-re-trou-de-fer
+name: "Trou de Fer viewpoint and gorge"
+location:
+  country_code: RE
+  latitude: -21.04
+  longitude: 55.55
+scores:
+  impact: 9.1
+  uniqueness: 8.9
+  significance: 8.3
+  experience: 8.3
+  depth: 7.5
+  categories:
+    nature: 9.1
+    photography: 9.2

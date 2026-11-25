@@ -1,0 +1,16 @@
+id: city-re-saint-leu
+name: "Saint-Leu"
+location:
+  country_code: RE
+  latitude: -21.166
+  longitude: 55.288
+scores:
+  impact: 7.4
+  uniqueness: 7.5
+  significance: 7.0
+  experience: 7.8
+  depth: 7.3
+  categories:
+    food: 7.8
+    culture: 7.7
+    relaxation: 8.0

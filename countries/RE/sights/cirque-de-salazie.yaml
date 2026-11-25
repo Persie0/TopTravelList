@@ -1,0 +1,16 @@
+id: sight-re-cirque-de-salazie
+name: "Cirque de Salazie"
+location:
+  country_code: RE
+  latitude: -21.032
+  longitude: 55.537
+scores:
+  impact: 9.0
+  uniqueness: 8.7
+  significance: 8.5
+  experience: 8.8
+  depth: 8.7
+  categories:
+    nature: 9.1
+    photography: 9.2
+    adventure: 8.8

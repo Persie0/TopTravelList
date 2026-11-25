@@ -1,0 +1,16 @@
+id: city-re-hell-bourg
+name: "Hell-Bourg"
+location:
+  country_code: RE
+  latitude: -21.065
+  longitude: 55.518
+scores:
+  impact: 8.1
+  uniqueness: 8.5
+  significance: 7.8
+  experience: 8.2
+  depth: 7.4
+  categories:
+    architecture: 8.6
+    culture: 8.5
+    photography: 8.3
