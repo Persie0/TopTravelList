@@ -961,3 +961,18 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [UNESCO](https://whc.unesco.org/en/list/1187/maps/) — reviewed 2026-11-25; component identity and coordinate confirmed, visitor experience unresolved.
 - Verification still needed: permitted access and interpretive scope; narrower field-specific peer comparisons and current score rechecks.
+
+## Follow-up: three documented visitor experiences — 2026-11-25
+
+**Source-linked-unverified** editorial assessments. [Visit Norway](https://www.visitnorway.com/places-to-go/unesco-world-heritage-sites/) identifies all four Struve stations; [UNESCO component register](https://whc.unesco.org/en/list/1187/maps/) confirms representative locations. [Hammerfest visitor information](https://www.visitnorway.com/places-to-go/northern-norway/hammerfest/) and [Visit Alta's hiking information](https://visitalta.no/en/article/hiking-in-alta/) establish the monument and Lille-Raipas trail as ordinary visitor experiences.
+
+- [Fuglenes](../../../countries/NO/sights/fuglenes-struve-station.yaml): E/D 7.4/6.1, accessible commemorative monument and interpretation, not the whole town; total 75.05.
+- [Raipas](../../../countries/NO/sights/raipas-struve-station.yaml): E/D 7.6/6.4, documented guided hill walk and survey point, not surrounding wilderness; total 75.65.
+- Current peers for both: [Oravivuori (FI)](../../../countries/FI/sights/oravivuori-struve-station.yaml) 6.8/8.1/8.6/7.8/6.6, interpreted hill and tower; [Tornikallio (FI)](../../../countries/FI/sights/tornikallio-struve-station.yaml) 6.8/8.1/8.6/7.2/6.1, short hill trail; [Jēkabpils (LV)](../../../countries/LV/sights/jekabpils-struve-station.yaml) 6.7/8.0/8.6/7.0/5.8, park marker; [Gireišiai (LT)](../../../countries/LT/sights/gireisiai-struve-station.yaml) 6.8/8.0/8.6/7.1/6.0, modest interpreted marker. Two remote Kautokeino points remain unassessed pending specific visitor route evidence.
+
+### Hyllestad Quernstone Quarries
+
+- [YAML](../../../countries/NO/sights/hyllestad-quarries.yaml). [Museum operator](https://misf.no/en/millstone-park/plan-your-visit), [Fjord Norway](https://www.fjordnorway.com/en/see-and-do/kvernsteinsparken) and [Council of Europe](https://www.coe.int/en/web/cultural-routes/-/museums-of-sogn-og-fjordane) identify the tentative quarry component and document seasonal guided quarry tours and interpreted milling heritage. E/D 8.4/8.1 for the representative millstone park circuit, not all quarry land or distant Vestfold burials. Overall 83.20/100.
+- Peers: [Ngwenya (SZ)](../../../countries/SZ/sights/ngwenya-mines-and-lion-cavern.yaml) 8.1/9.5/9.6/7.9/7.4, far older mining evidence but narrower visitor circuit; [Verla (FI)](../../../countries/FI/sights/verla-mill.yaml) 8.3/8.7/8.9/8.5/8.4, more intact industrial buildings; [Amul (TM)](../../../countries/TM/sights/amul-settlement.yaml) 7.2/8.4/9.0/7.6/6.8, more fragmentary archaeological landscape; [Grobiņa (LV)](../../../countries/LV/sights/grobin-archaeological-ensemble.yaml) 7.8/8.7/9.0/8.0/7.9, comparable landscape interpretation and less hands-on activity.
+
+All 20 city and 48 sight core vectors screened. I/U/S, GPS and categories unchanged. Remaining exceptional ratings require narrower peer and category calibration; national park inventory remains selective. No comprehensive independent factual/GPS verification claimed.
