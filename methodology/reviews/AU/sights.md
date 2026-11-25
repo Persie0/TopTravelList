@@ -1319,3 +1319,109 @@
 - Earlier decision: none.
 - Verification still needed: Individual dome group; approximate point; customary restrictions respected. Independent exact coordinate corroboration outstanding.
 
+### sight-au-murujuga-cultural-landscape — Murujuga Cultural Landscape — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/AU/sights/murujuga-cultural-landscape.yaml)
+- Action: rescore
+- Precise subject: 9.5 significance, history and culture reflect extraordinary continuing rock-art tradition, not automatic UNESCO bonus. Only permitted public locations scored; no unrestricted access.
+- Location check: existing representative point retained; independent corroboration pending.
+- Evidence status: source-linked-unverified
+- Checked factual reference excerpts (2026-11-25):
+  - Traditional Owner corporation describes rock-art landscape — https://murujuga.org.au/world-heritage/about-the-murujuga-cultural-landscape/
+  - Custodian-led 90-minute tour — https://www.experiencemurujuga.com/tour
+  - UNESCO describes inscription and artistic mastery — https://whc.unesco.org/en/list/1709/
+- Missing or uncertain facts: 9.5 significance, history and culture reflect extraordinary continuing rock-art tradition, not automatic UNESCO bonus. Only permitted public locations scored; no unrestricted access.
+
+#### Worldwide peer comparisons
+- Angkor (Cambodia): greater monumental built fabric
+- Nan Madol (Micronesia): monumental ceremonial architecture
+- Stonehenge (UK): iconic prehistoric monument of different type
+- Budj Bim (Australia): different living aquaculture landscape
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | 8.4 | 8.4 | Rocky coast with engraved surfaces |
+| Uniqueness | 9.4 | 9.4 | Exceptional concentration and long tradition of petroglyphs |
+| Significance | 9.5 | 9.5 | World-significant continuing Indigenous culture |
+| Experience | null | 8.4 | Authorized interpreted tours |
+| Depth | null | 8.2 | Multiple engravings and cultural themes but limited permitted scope |
+
+- Applicable category scores: history: 9.5, culture: 9.5 (unchanged).
+- Computed worldwide overall: 88.50/100
+- High-score challenge: 9.5 significance, history and culture reflect extraordinary continuing rock-art tradition, not automatic UNESCO bonus. Only permitted public locations scored; no unrestricted access. Existing high ratings retained, not inflated because of access.
+- Approved 10 registry: none.
+- Final decision: provisional worldwide ranking on documented visitor scope; not independently verified.
+- Earlier decision: earlier entry for this ID, unranked.
+- Verification still needed: 9.5 significance, history and culture reflect extraordinary continuing rock-art tradition, not automatic UNESCO bonus. Only permitted public locations scored; no unrestricted access.
+
+### sight-au-willandra-lakes — Willandra Lakes Region — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/AU/sights/willandra-lakes.yaml)
+- Action: rescore
+- Precise subject: Score accessible Mungo experiences within property, not private pastoral leases. Lunette requires guided access.
+- Location check: existing representative point retained; independent corroboration pending.
+- Evidence status: source-linked-unverified
+- Checked factual reference excerpts (2026-11-25):
+  - UNESCO confirms ancient lake systems and archaeology — https://whc.unesco.org/en/list/167/
+  - NSW Parks documents trails and dune views — https://www.nationalparks.nsw.gov.au/conservation-and-heritage/willandra-lakes
+  - NSW Parks documents guided lunette tour — https://www.nationalparks.nsw.gov.au/things-to-do/guided-tours/mungo-lunette-guided-tour
+- Missing or uncertain facts: Score accessible Mungo experiences within property, not private pastoral leases. Lunette requires guided access.
+
+#### Worldwide peer comparisons
+- Kakadu (Australia): greater cultural and natural variety
+- Wadi Rum (Jordan): more dramatic sandstone landscape
+- Stonehenge (UK): more concentrated iconic monument
+- Budj Bim (Australia): different Indigenous landscape
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | 8.3 | 8.3 | Dry lake and dune landscape |
+| Uniqueness | 9.1 | 9.1 | Distinct environmental and ancient cultural record |
+| Significance | 9.4 | 9.4 | Exceptional archaeological and climatic evidence |
+| Experience | null | 8.4 | Established trails and interpreted visits |
+| Depth | null | 8.3 | Multiple accessible landscapes without private land |
+
+- Applicable category scores: history: 9.4, culture: 9.3, nature: 8.8 (unchanged).
+- Computed worldwide overall: 87.35/100
+- High-score challenge: Score accessible Mungo experiences within property, not private pastoral leases. Lunette requires guided access. Existing high ratings retained, not inflated because of access.
+- Approved 10 registry: none.
+- Final decision: provisional worldwide ranking on documented visitor scope; not independently verified.
+- Earlier decision: earlier entry for this ID, unranked.
+- Verification still needed: Score accessible Mungo experiences within property, not private pastoral leases. Lunette requires guided access.
+
+### sight-au-macquarie-island — Macquarie Island — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/AU/sights/macquarie-island.yaml)
+- Action: rescore
+- Precise subject: Authorized educational expedition visits only; permit, weather and operator availability required.
+- Location check: existing representative point retained; independent corroboration pending.
+- Evidence status: source-linked-unverified
+- Checked factual reference excerpts (2026-11-25):
+  - Tasmania Parks describes geology and commercial educational tourism — https://parks.tas.gov.au/explore-our-parks/macquarie-island-world-heritage-area
+  - Conservation Foundation confirms permitted tourist ship access — https://macquarieisland.org/faqs
+- Missing or uncertain facts: Authorized educational expedition visits only; permit, weather and operator availability required.
+
+#### Worldwide peer comparisons
+- Galapagos (Ecuador): broader visitor wildlife experience
+- Sub-Antarctic Islands (New Zealand): broader multi-island routes
+- South Georgia (UK): stronger concentrated wildlife scenery
+- Lord Howe Island (Australia): more conventional terrestrial experiences
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | 8.8 | 8.8 | Rugged island and wildlife coasts |
+| Uniqueness | 9.3 | 9.3 | Unusual exposed oceanic crust and isolated ecosystems |
+| Significance | 9.4 | 9.4 | Major geological and conservation importance |
+| Experience | null | 8.5 | Regulated wildlife and education cruises |
+| Depth | null | 8.0 | Several approved experiences but limited terrestrial scope |
+
+- Applicable category scores: nature: 9.3, wildlife: 9.3 (unchanged).
+- Computed worldwide overall: 89.20/100
+- High-score challenge: Authorized educational expedition visits only; permit, weather and operator availability required. Existing high ratings retained, not inflated because of access.
+- Approved 10 registry: none.
+- Final decision: provisional worldwide ranking on documented visitor scope; not independently verified.
+- Earlier decision: earlier entry for this ID, unranked.
+- Verification still needed: Authorized educational expedition visits only; permit, weather and operator availability required.
