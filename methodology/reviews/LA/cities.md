@@ -610,10 +610,10 @@
 - Evidence: [Tourism Laos regional inventory](https://www.tourismlaos.org/central-provinces/), search excerpts retrieved 2026-11-25 for regional context; not comprehensive exact-settlement verification.
 - Remaining gaps: exact coordinates, settlement boundaries and independent verification of specific claims; shared peer ladders do not substitute complete individual comparative research.
 
-## city-la-na-hin — Na Hin — 2026-11-25
+## city-la-na-hin — Na Hin (Ban Khoun Kham) — 2026-11-25
 
 - [YAML](../../../countries/LA/cities/na-hin.yaml) · Action: new · **source-linked-unverified**.
-- Location: representative approximate (18.1790, 104.5500); exact independent location check pending.
+- Location: representative approximate (18.1790, 104.5500); exact independent location check pending. [Wikivoyage](https://en.wikivoyage.org/wiki/Ban_Nahin) lists Ban Khoun Kham and Na Hin as alternate names; one record retained.
 - Worldwide peers (I/U/S/E/D; current ranking pages):
   - [Salzburg (AT)](../../../countries/AT/cities/salzburg.yaml) — 9.0 / 8.9 / 9.0 / 8.8 / 8.5 (88.95/100); historic small city upper benchmark.
   - [Chiang Rai (TH)](../../../countries/TH/cities/chiang-rai.yaml) — 8.1 / 8.3 / 8.3 / 8.5 / 8.3 (82.70/100); regional urban culture.

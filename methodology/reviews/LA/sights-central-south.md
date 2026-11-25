@@ -173,25 +173,6 @@
 - Evidence: [Tourism Laos inventory](https://www.tourismlaos.org/central-provinces/khammouane-province/), search excerpt retrieved 2026-11-25; context only, not comprehensive exact-site verification.
 - Remaining gaps: exact representative coordinates, site boundaries and independent factual verification; peer groups are provisional and reused by type.
 
-## sight-la-tham-sa-pha-inh — Tham Sa Pha Inh — 2026-11-25
-
-- [YAML](../../../countries/LA/sights/tham-sa-pha-inh.yaml) · Action: new · **source-linked-unverified**.
-- Location: approximate (17.454, 104.915); exact independent site check pending.
-- Worldwide peers (I/U/S/E/D; current rankings, shared cave ladder):
-  - [Deer Cave Mulu (MY)](../../../countries/MY/sights/deer-cave-mulu.yaml) — 9.4 / 9.5 / 9.0 / 9.3 / 8.6 (92.50/100).
-  - [Gua Tempurung (MY)](../../../countries/MY/sights/gua-tempurung.yaml) — 8.7 / 8.8 / 7.7 / 8.9 / 8.5 (85.35/100).
-  - [Eisriesenwelt Ice Cave (AT)](../../../countries/AT/sights/eisriesenwelt-werfen.yaml) — 9.0 / 9.4 / 8.8 / 9.0 / 8.4 (90.00/100).
-  - [Lang Cave Mulu (MY)](../../../countries/MY/sights/lang-cave-mulu.yaml) — 8.5 / 8.6 / 7.9 / 8.6 / 7.8 (83.50/100).
-- Impact 7.5: Small cave passage and water.
-- Uniqueness 7.8: comparable karst setting.
-- Significance 6.7: local nature interest.
-- Experience 7.9: compact exploration.
-- Depth 7.0: single short cave.
-- Categories: nature:8.3,photography:8.0. Overall: 74.25/100.
-- High-score challenge: Not applicable. No approved 10.
-- Evidence: [Tourism Laos inventory](https://www.tourismlaos.org/central-provinces/khammouane-province/), search excerpt retrieved 2026-11-25; context only, not comprehensive exact-site verification.
-- Remaining gaps: exact representative coordinates, site boundaries and independent factual verification; peer groups are provisional and reused by type.
-
 ## sight-la-tham-xieng-liap — Tham Xieng Liap — 2026-11-25
 
 - [YAML](../../../countries/LA/sights/tham-xieng-liap.yaml) · Action: new · **source-linked-unverified**.
@@ -1331,3 +1312,20 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Tourism Laos inventory](https://www.tourismlaos.org/southern-provinces/xekong-province/), search excerpt retrieved 2026-11-25; context only, not comprehensive exact-site verification.
 - Remaining gaps: exact representative coordinates, site boundaries and independent factual verification; peer groups are provisional and reused by type.
+
+## sight-la-phou-bia — Phou Bia — 2026-11-25
+
+- [YAML](../../../countries/LA/sights/phou-bia.yaml) · Action: new · **unassessed**.
+- Location: 18.980629, 103.152297; [GeoNames](https://www.geonames.org/search.html?country=LA&q=Lao) peak record and [Mountain Field Guide](https://mountainfieldguide.com/phou-bia/) approximate summit agree, reviewed 2026-11-25. The exact summit elevation varies between sources.
+- Worldwide peers (I/U/S/E/D):
+- [MY/mount-kinabalu](../../../countries/MY/sights/mount-kinabalu.yaml) — 9.4 / 9.3 / 8.7 / 9.1 / 8.7.
+- [JP/mount-fuji](../../../countries/JP/sights/mount-fuji.yaml) — 9.8 / 9.7 / 9.5 / 9.2 / 9.3.
+- [MY/mount-tahan](../../../countries/MY/sights/mount-tahan.yaml) — 8.5 / 8.6 / 8.0 / 8.7 / 8.8.
+- [CN/mount-huangshan](../../../countries/CN/sights/mount-huangshan.yaml) — 9.9 / 9.9 / 9.6 / 9.8 / 9.3.
+- Impact 8.4: rugged highland summit and cloud-forest setting; provisional.
+- Uniqueness 8.3: high-prominence tropical mountain, geographically distinct but not equivalent to Fuji's iconic form.
+- Significance 8.2: national and regional high point and montane habitat; smaller established visitor and scientific context than Kinabalu.
+- Experience: null — insufficient reliable description of a normal permitted visitor experience; not penalized for temporary closure.
+- Depth: null — insufficient evidence for the meaningful scope of authorized exploration, distinct from mountain size.
+- Categories: nature 8.9, adventure null. Overall: unranked. High-score challenge: Not applicable. No approved 10.
+- Evidence: [Tourism Laos Xaysomboun province](https://www.tourismlaos.org/central-provinces/xaisomboun-province/) search excerpt confirms national high point; [Mountain Field Guide](https://mountainfieldguide.com/phou-bia/) describes summit geography and limited visitor-route evidence. [UK FCDO regional risks](https://www.gov.uk/foreign-travel-advice/laos/regional-risks) and [Australian Smartraveller](https://www.smartraveller.gov.au/destinations/asia/laos) advise against nonessential travel / reconsider travel to Xaisomboun; review date 2026-11-25. Do not assume mountain access is permitted; consult current authorities. Access and safety remain separate from quality score.
