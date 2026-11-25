@@ -2,6 +2,9 @@
 
 Initial worldwide V2 inventory; 2026-11-25. UNESCO, embassy and tourism sources inspected at inventory level; no complete independent claim-level verification asserted. Representative points are approximate, some regional and provisional, not entrances. [FCDO advises against all travel](https://www.gov.uk/foreign-travel-advice/mali). Historical ordinary visits scored only where documented; not current access promises. Current YAML spot-checked for Kashgar, Ayutthaya, Hallstatt, Poipet, Mogao, Hahoe, Carnuntum, Okavango, Khao Yai, Suncheon and Wat Arun; remaining peer scores not checked.
 
+
+Follow-up 2026-11-25: [UNESCO country register](https://whc.unesco.org/en/statesparties/ml) confirms four inscribed and fifteen tentative properties. Three 2026 decisions retain Djenné, Timbuktu and Tomb of Askia on the danger list; Bandiagara faces ongoing conservation and security concerns. [National biodiversity clearing-house](https://ml.chm-cbd.net/en/protected-areas/protected-area) identifies Wongo and Kouroufing, added separately from the tentative Bafing property. [Ramsar register](https://rsis.ramsar.org/sites/default/files/rsiswp_search/exports/Ramsar-Sites-annotated-summary-Mali.pdf) identifies Wegnia and Sourou, added separately; Inner Niger Delta and Magui already represented, designation boundaries not assumed identical. No current travel recommendation.
+
 ## sight-ml-bandiagara-escarpment — Cliff of Bandiagara (Land of the Dogons) — 2026-11-25
 
 - YAML: [source](../../../countries/ML/sights/bandiagara-escarpment.yaml)
@@ -33,6 +36,7 @@ Initial worldwide V2 inventory; 2026-11-25. UNESCO, embassy and tourism sources 
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide editorial rating, not independently fact-checked.
 - Verification still needed: exact coordinates where provisional, access, independent claim-level evidence and peer calibration.
+- Follow-up 2026-11-25: [UNESCO decision](https://whc.unesco.org/en/decisions/8783) documents security and natural-value monitoring concerns and requests an updated report by 1 December 2026. Compare Hahoe, Wachau, Matera and Cappadocia for integrated cliff settlement and living heritage. Consent and current condition remain unresolved.
 
 ## sight-ml-djenne-great-mosque — Great Mosque of Djenné — 2026-11-25
 
@@ -66,6 +70,7 @@ Initial worldwide V2 inventory; 2026-11-25. UNESCO, embassy and tourism sources 
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide editorial rating, not independently fact-checked.
 - Verification still needed: exact coordinates where provisional, access, independent claim-level evidence and peer calibration.
+- Follow-up 2026-11-25: [2026 visitor guide](https://viajacongus.com/en/mali/djenne/) corroborates longstanding non-Muslim interior restriction; retain exterior-led scope. Compare Agadez Grand Mosque, Sankoré, Wat Arun and St Stephen’s Cathedral: rare monumental earthen architecture, substantially narrower interior access. No new perfect score.
 
 ## sight-ml-djenne-old-town — Djenné Old Town — 2026-11-25
 
@@ -98,6 +103,7 @@ Initial worldwide V2 inventory; 2026-11-25. UNESCO, embassy and tourism sources 
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide editorial rating, not independently fact-checked.
 - Verification still needed: exact coordinates where provisional, access, independent claim-level evidence and peer calibration.
+- Follow-up 2026-11-25: [UNESCO 2026 decision](https://whc.unesco.org/en/decisions/9026) retains danger listing and identifies management concerns. Historical intrinsic rating retained provisionally; not a current access or conservation guarantee.
 
 ## sight-ml-djenne-djeno — Djenné-Djeno Archaeological Site — 2026-11-25
 
@@ -254,6 +260,7 @@ Initial worldwide V2 inventory; 2026-11-25. UNESCO, embassy and tourism sources 
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide editorial rating, not independently fact-checked.
 - Verification still needed: exact coordinates where provisional, access, independent claim-level evidence and peer calibration.
+- Follow-up 2026-11-25: [UNESCO 2026 decision](https://whc.unesco.org/en/decisions/9027) retains danger listing, notes updated conservation plan. Compare Djenné, Agadez, Chinguetti and Mogao for intellectual and architectural significance; no assumption of access to mausoleums or sacred interiors.
 
 ## sight-ml-djinguereber-mosque — Djinguereber Mosque — 2026-11-25
 
@@ -381,6 +388,7 @@ Initial worldwide V2 inventory; 2026-11-25. UNESCO, embassy and tourism sources 
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide editorial rating, not independently fact-checked.
 - Verification still needed: exact coordinates where provisional, access, independent claim-level evidence and peer calibration.
+- Follow-up 2026-11-25: [UNESCO 2026 decision](https://whc.unesco.org/en/decisions/9028) reports rehabilitation progress but retains danger listing. Retain intrinsic heritage rating, current visitor access unconfirmed.
 
 ## sight-ml-national-museum-mali — National Museum of Mali — 2026-11-25
 
@@ -588,12 +596,13 @@ Initial worldwide V2 inventory; 2026-11-25. UNESCO, embassy and tourism sources 
 - Significance: 9.5 — Exceptional conservation relevance.
 - Experience: null — Visitor program unverified.
 - Depth: null — Encounter and accessible habitat scope unknown.
-- Applicable categories: wildlife 9.6, nature 9.2.
+- Applicable categories: wildlife null, nature 9.2.
 - Overall: unranked.
-- High-score challenge: Uniqueness 9.6, significance 9.5, wildlife 9.6 reflect arid-land elephant migration and conservation, not viewing reliability or greater species breadth than Okavango.
+- High-score challenge: Uniqueness 9.6 and significance 9.5 reflect rare desert-adapted elephant migration; ordinary visitor wildlife category unassessed. No approved 10.
 - Approved 10 registry: none.
 - Final decision: Retain partial assessment without inventing total.
 - Verification still needed: exact coordinates where provisional, access, independent claim-level evidence and peer calibration.
+- Follow-up 2026-11-25: [Conservation project](https://biomeconservation.org/projects/mali_elephants/) and [peer-reviewed study](https://www.tandfonline.com/doi/full/10.1080/00139157.2021.1871292) establish migration significance, not reliable ordinary safari viewing. Wildlife 9.6 → null; compare Zakouma, Chobe, Okavango and Etosha for documented visitor observation.
 
 ## sight-ml-inner-niger-delta — Inner Niger Delta (Markala to Lake Débo) — 2026-11-25
 
@@ -902,7 +911,134 @@ Initial worldwide V2 inventory; 2026-11-25. UNESCO, embassy and tourism sources 
 - Final decision: Retain partial assessment without inventing total.
 - Verification still needed: exact coordinates where provisional, access, independent claim-level evidence and peer calibration.
 
+## sight-ml-wongo-national-park — Wongo National Park — 2026-11-25
+
+- YAML: [source](../../../countries/ML/sights/wongo-national-park.yaml)
+- Action: new
+- Precise subject: Published representative point, approximate; nationally designated park, not entire Bafing landscape.
+- Location check: 12.897, -10.76; representative point, not entrance.
+- Evidence status: **unassessed**
+- Sources (identity and conservation; full claim verification incomplete):
+  - https://ml.chm-cbd.net/en/protected-areas/protected-area
+  - https://www.internationalparks.org/mali/Wongo
+- Missing facts: Ordinary permitted visitor experience and exact boundary.
+
+### Worldwide peer comparisons
+- Okavango Delta (Botswana): Established wetland visitor landscape with much broader documented scope.
+- Khao Yai National Park (Thailand): Protected habitat with established visitor experience.
+- Suncheon Bay (South Korea): Managed nature observation and interpretation.
+- Sehlabathebe National Park (Lesotho): Regional protected landscape, different ecosystem.
+
+### Scoring decisions
+- Impact: null — Ordinary visitor impact unresolved.
+- Uniqueness: 8.3 — Regional protected habitat and landscape.
+- Significance: 8.8 — Documented conservation designation and ecological role.
+- Experience: null — Permitted ordinary visit unestablished.
+- Depth: null — Accessible route scope unresolved.
+- Applicable categories: nature 8.7, wildlife null.
+- Overall: unranked.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Retain partial assessment; no unsupported visitor ranking.
+- Verification still needed: Boundary, ordinary visitor experience, ecology and closer peer calibration.
+
+
+## sight-ml-kouroufing-national-park — Kouroufing National Park — 2026-11-25
+
+- YAML: [source](../../../countries/ML/sights/kouroufing-national-park.yaml)
+- Action: new
+- Precise subject: Provisional published reference point; conflicting published locations require boundary verification. Park dedicated to chimpanzee conservation; not a confirmed viewing programme.
+- Location check: 12.833, -10.417; representative point, not entrance.
+- Evidence status: **unassessed**
+- Sources (identity and conservation; full claim verification incomplete):
+  - https://ml.chm-cbd.net/en/protected-areas/protected-area
+  - https://en.wikipedia.org/wiki/Kouroufing_National_Park
+- Missing facts: Ordinary permitted visitor experience and exact boundary.
+
+### Worldwide peer comparisons
+- Okavango Delta (Botswana): Established wetland visitor landscape with much broader documented scope.
+- Khao Yai National Park (Thailand): Protected habitat with established visitor experience.
+- Suncheon Bay (South Korea): Managed nature observation and interpretation.
+- Sehlabathebe National Park (Lesotho): Regional protected landscape, different ecosystem.
+
+### Scoring decisions
+- Impact: null — Ordinary visitor impact unresolved.
+- Uniqueness: 8.4 — Regional protected habitat and landscape.
+- Significance: 8.9 — Documented conservation designation and ecological role.
+- Experience: null — Permitted ordinary visit unestablished.
+- Depth: null — Accessible route scope unresolved.
+- Applicable categories: nature 8.8, wildlife null.
+- Overall: unranked.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Retain partial assessment; no unsupported visitor ranking.
+- Verification still needed: Boundary, ordinary visitor experience, ecology and closer peer calibration.
+
+
+## sight-ml-lac-wegnia-wetland — Lac Wegnia Wetland — 2026-11-25
+
+- YAML: [source](../../../countries/ML/sights/lac-wegnia-wetland.yaml)
+- Action: new
+- Precise subject: Current Ramsar reference N13°17′05″ W8°06′25″; freshwater lake and marsh complex.
+- Location check: 13.284722, -8.106944; representative point, not entrance.
+- Evidence status: **unassessed**
+- Sources (identity and conservation; full claim verification incomplete):
+  - https://rsis.ramsar.org/ris/2127
+  - https://rsis.ramsar.org/sites/default/files/rsiswp_search/exports/Ramsar-Sites-annotated-summary-Mali.pdf
+- Missing facts: Ordinary permitted visitor experience and exact boundary.
+
+### Worldwide peer comparisons
+- Okavango Delta (Botswana): Established wetland visitor landscape with much broader documented scope.
+- Khao Yai National Park (Thailand): Protected habitat with established visitor experience.
+- Suncheon Bay (South Korea): Managed nature observation and interpretation.
+- Sehlabathebe National Park (Lesotho): Regional protected landscape, different ecosystem.
+
+### Scoring decisions
+- Impact: null — Ordinary visitor impact unresolved.
+- Uniqueness: 8.1 — Regional protected habitat and landscape.
+- Significance: 8.6 — Documented conservation designation and ecological role.
+- Experience: null — Permitted ordinary visit unestablished.
+- Depth: null — Accessible route scope unresolved.
+- Applicable categories: nature 8.5, wildlife null.
+- Overall: unranked.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Retain partial assessment; no unsupported visitor ranking.
+- Verification still needed: Boundary, ordinary visitor experience, ecology and closer peer calibration.
+
+
+## sight-ml-sourou-floodplain — Sourou Floodplain (Mali sector) — 2026-11-25
+
+- YAML: [source](../../../countries/ML/sights/sourou-floodplain.yaml)
+- Action: new
+- Precise subject: 2025 Ramsar reference N13°26′26″ W3°26′27″; Mali floodplain only, not Burkina Faso designation.
+- Location check: 13.440556, -3.440833; representative point, not entrance.
+- Evidence status: **unassessed**
+- Sources (identity and conservation; full claim verification incomplete):
+  - https://rsis.ramsar.org/ris/2128
+  - https://rsis.ramsar.org/RISapp/files/RISrep/ML2128RIS_2503_fr.pdf
+- Missing facts: Ordinary permitted visitor experience and exact boundary.
+
+### Worldwide peer comparisons
+- Okavango Delta (Botswana): Established wetland visitor landscape with much broader documented scope.
+- Khao Yai National Park (Thailand): Protected habitat with established visitor experience.
+- Suncheon Bay (South Korea): Managed nature observation and interpretation.
+- Sehlabathebe National Park (Lesotho): Regional protected landscape, different ecosystem.
+
+### Scoring decisions
+- Impact: null — Ordinary visitor impact unresolved.
+- Uniqueness: 8.4 — Regional protected habitat and landscape.
+- Significance: 8.8 — Documented conservation designation and ecological role.
+- Experience: null — Permitted ordinary visit unestablished.
+- Depth: null — Accessible route scope unresolved.
+- Applicable categories: nature 8.8, wildlife null.
+- Overall: unranked.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Retain partial assessment; no unsupported visitor ranking.
+- Verification still needed: Boundary, ordinary visitor experience, ecology and closer peer calibration.
+
+
 ## Inventory coverage
 
-All four inscribed and fifteen tentative UNESCO properties are represented. Old Towns of Djenné split into five official components, not a duplicate serial aggregate. Timbuktu ensemble and individual mosques have separate scopes. Manden serial property retained unranked and only Kamandjan component separately reviewed; other three individual components remain research backlog. Additional village, manuscript-library and natural-site coverage is not exhaustive.
-
+All four inscribed and fifteen tentative UNESCO properties represented. Old Towns of Djenné split into five official components. Timbuktu ensemble and individual mosques separately scoped. Manden serial property retained unranked; three other components remain backlog. Four Ramsar designations represented at broad property level; exact Magui and Inner Niger Delta Ramsar boundaries need verification. Wongo and Kouroufing national parks now catalogued; Boucle du Baoulé cultural landscape is not automatically equivalent to full national park or biosphere reserve. Additional manuscript libraries, villages and protected areas remain gaps.
