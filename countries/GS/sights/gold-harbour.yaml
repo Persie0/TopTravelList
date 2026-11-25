@@ -1,0 +1,16 @@
+id: sight-gs-gold-harbour
+name: "Gold Harbour (authorized visitor sector)"
+location:
+  country_code: GS
+  latitude: -54.627
+  longitude: -35.932
+scores:
+  impact: 9.4
+  uniqueness: 9.2
+  significance: 9.1
+  experience: 9.0
+  depth: 8.8
+  categories:
+    wildlife: 9.3
+    nature: 9.4
+    photography: 9.4

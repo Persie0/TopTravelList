@@ -204,3 +204,7 @@ No matching GB records identified by generated name and approximate coordinate s
 ### Falkland Islands (Malvinas) coverage — 2026-11-26
 
 No matching GB or AR parent records identified by generated name and approximate coordinate screen. Add 3 settlements and 10 sights under existing ISO FK; no sovereignty determination. Government HPAI register checked: Volunteer Point declaration lifted 2 November 2026; Pebble Island and Carcass Island restrictions lifted 30 March; Sea Lion Island remains level 1 pending 30 November review. No assumed unrestricted wildlife visits. Tourism board, museum and JNCC references checked via excerpts; independent exact GPS and full claims pending. No exact-10 additions.
+
+### South Georgia and South Sandwich Islands coverage — 2026-11-26
+
+No matching GB, AR or AQ entries identified in generated name/coordinate screen. Zero cities (no permanent inhabitants), ten sights, nine ranked and one unranked. South Sandwich Islands closed to visitors. Government 25/26 handbook authorized site tables visually checked; no claim of current 26/27 landing availability. Whaling station prohibited areas excluded. Current HPAI and access require confirmation. Independent precise GPS and full claim verification pending. No perfect ten.
