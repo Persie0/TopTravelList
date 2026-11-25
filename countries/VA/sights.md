@@ -2,7 +2,7 @@
 
 # Vatican City (VA) — Sights & attractions ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**24 ranked** · **0 unassessed** · **24 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,11 +10,34 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, or click its GPS coordinates to open **Google Maps**. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (24)
 
-No sights & attractions have been assessed for **Vatican City** yet.
-
-Add destination YAML files in [sights/](sights/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps |
+| ---: | --- | --- | ---: | --- | --- | --- |
+| 1 | [Saint Peter's Basilica](sights/saint-peters-basilica.yaml) | Attraction | **97.90** | **Architecture 9.9**, **Culture 9.9**, **History 9.9** | 9.9 / 9.8 / 9.9 / 9.6 / 9.5 | [41.90217, 12.45394](https://www.google.com/maps/search/?api=1&query=41.90217,12.45394) |
+| 2 | [Vatican Museums](sights/vatican-museums.yaml) | Museum / heritage | **96.95** | **Culture 9.9**, **History 9.8**, **Architecture 9.6** | 9.7 / 9.8 / 9.8 / 9.3 / 9.8 | [41.90649, 12.45364](https://www.google.com/maps/search/?api=1&query=41.90649,12.45364) |
+| 3 | [Sistine Chapel](sights/sistine-chapel.yaml) | Attraction | **96.60** | **Culture 9.9**, **History 9.9**, **Architecture 9.5** | 9.9 / 9.9 / 9.9 / 9.1 / 8.7 | [41.90295, 12.45448](https://www.google.com/maps/search/?api=1&query=41.90295,12.45448) |
+| 4 | [Saint Peter's Square](sights/saint-peters-square.yaml) | Park / square | **94.25** | **Architecture 9.7**, **History 9.7**, **Culture 9.5**, Photography 9.4 | 9.6 / 9.5 / 9.7 / 9.2 / 8.5 | [41.90223, 12.45672](https://www.google.com/maps/search/?api=1&query=41.90223,12.45672) |
+| 5 | [Raphael Rooms](sights/raphael-rooms.yaml) | Attraction | **94.20** | **Culture 9.8**, **History 9.6**, **Architecture 9.3** | 9.5 / 9.6 / 9.7 / 9.0 / 8.8 | [41.90343, 12.45442](https://www.google.com/maps/search/?api=1&query=41.90343,12.45442) |
+| 6 | [Pio Clementino Museum](sights/pio-clementino-museum.yaml) | Museum / heritage | **93.30** | **Culture 9.6**, **History 9.5**, **Architecture 9.1** | 9.3 / 9.4 / 9.5 / 9.2 / 9.1 | [41.90619, 12.45406](https://www.google.com/maps/search/?api=1&query=41.90619,12.45406) |
+| 7 | [Vatican Pinacoteca](sights/vatican-pinacoteca.yaml) | Attraction | **93.15** | **Culture 9.7**, **History 9.5** | 9.3 / 9.3 / 9.5 / 9.2 / 9.2 | [41.90614, 12.45328](https://www.google.com/maps/search/?api=1&query=41.90614,12.45328) |
+| 8 | [Gallery of Geographical Maps](sights/gallery-of-geographical-maps.yaml) | Attraction | **91.70** | **Architecture 9.4**, **Culture 9.4**, **History 9.3**, Photography 9.3 | 9.4 / 9.5 / 9.2 / 8.9 / 8.0 | [41.90485, 12.45381](https://www.google.com/maps/search/?api=1&query=41.90485,12.45381) |
+| 9 | [Vatican Necropolis](sights/vatican-necropolis.yaml) | Attraction | **90.25** | **History 9.6**, **Culture 9.3** | 8.9 / 9.3 / 9.5 / 8.6 / 8.4 | [41.90213, 12.45369](https://www.google.com/maps/search/?api=1&query=41.90213,12.45369) |
+| 10 | [Saint Peter's Dome](sights/saint-peters-dome.yaml) | Attraction | **89.55** | **Photography 9.4**, **Architecture 9.3** | 9.2 / 9.1 / 8.9 / 9.0 / 7.9 | [41.90219, 12.45387](https://www.google.com/maps/search/?api=1&query=41.90219,12.45387) |
+| 11 | [Borgia Apartment](sights/borgia-apartment.yaml) | Attraction | **89.40** | **Culture 9.4**, **History 9.4**, **Architecture 9.1** | 9.0 / 9.1 / 9.2 / 8.7 / 8.2 | [41.90354, 12.4544](https://www.google.com/maps/search/?api=1&query=41.90354,12.4544) |
+| 12 | [Braccio Nuovo (New Wing)](sights/braccio-nuovo-new-wing.yaml) | Attraction | **88.10** | **Culture 9.3**, **Architecture 9.2**, **History 9.2** | 8.9 / 8.8 / 9.0 / 8.8 / 8.2 | [41.90571, 12.45344](https://www.google.com/maps/search/?api=1&query=41.90571,12.45344) |
+| 12 | [Gregorian Etruscan Museum](sights/gregorian-etruscan-museum.yaml) | Museum / heritage | **88.10** | **History 9.4**, **Culture 9.3** | 8.6 / 8.9 / 9.2 / 8.7 / 8.6 | [41.90608, 12.45402](https://www.google.com/maps/search/?api=1&query=41.90608,12.45402) |
+| 14 | [Gregorian Egyptian Museum](sights/gregorian-egyptian-museum.yaml) | Museum / heritage | **87.55** | **History 9.3**, **Culture 9.2** | 8.6 / 8.8 / 9.0 / 8.7 / 8.7 | [41.9062, 12.45417](https://www.google.com/maps/search/?api=1&query=41.9062,12.45417) |
+| 15 | [Chiaramonti Museum](sights/chiaramonti-museum.yaml) | Museum / heritage | **86.90** | **Culture 9.2**, **History 9.2** | 8.7 / 8.6 / 9.0 / 8.6 / 8.4 | [41.90554, 12.45403](https://www.google.com/maps/search/?api=1&query=41.90554,12.45403) |
+| 16 | [Vatican Grottoes](sights/vatican-grottoes.yaml) | Museum / heritage | **86.65** | **History 9.4**, **Culture 9.2** | 8.5 / 8.8 / 9.2 / 8.5 / 8.0 | [41.90215, 12.45395](https://www.google.com/maps/search/?api=1&query=41.90215,12.45395) |
+| 17 | [Vatican Gardens](sights/vatican-gardens.yaml) | Garden | **86.15** | **Photography 8.9**, **History 8.8**, **Relaxation 8.8**, Nature 8.6 | 8.6 / 8.8 / 8.5 / 8.5 / 8.6 | [41.90329, 12.45038](https://www.google.com/maps/search/?api=1&query=41.90329,12.45038) |
+| 18 | [Necropolis of the Via Triumphalis](sights/necropolis-of-the-via-triumphalis.yaml) | Attraction | **85.75** | **History 9.3**, **Culture 8.8** | 8.4 / 8.8 / 9.0 / 8.3 / 8.1 | [41.90602, 12.45521](https://www.google.com/maps/search/?api=1&query=41.90602,12.45521) |
+| 19 | [Pius-Christian Museum](sights/pius-christian-museum.yaml) | Museum / heritage | **85.55** | **History 9.3**, **Culture 9.1** | 8.3 / 8.7 / 9.0 / 8.4 / 8.3 | [41.9053, 12.45311](https://www.google.com/maps/search/?api=1&query=41.9053,12.45311) |
+| 20 | [Gallery of Tapestries](sights/gallery-of-tapestries.yaml) | Attraction | **85.45** | **Culture 9.1**, **History 9.0** | 8.6 / 8.6 / 8.8 / 8.5 / 7.8 | [41.90518, 12.45384](https://www.google.com/maps/search/?api=1&query=41.90518,12.45384) |
+| 21 | [Collection of Modern and Contemporary Art](sights/collection-of-modern-and-contemporary-art.yaml) | Attraction | **84.90** | **Culture 9.1**, **History 8.9** | 8.4 / 8.5 / 8.6 / 8.5 / 8.5 | [41.90345, 12.45434](https://www.google.com/maps/search/?api=1&query=41.90345,12.45434) |
+| 22 | [Gallery of the Candelabra](sights/gallery-of-the-candelabra.yaml) | Attraction | **84.50** | **Architecture 9.0**, **Culture 8.9**, **History 8.9** | 8.5 / 8.5 / 8.6 / 8.5 / 7.8 | [41.90546, 12.45385](https://www.google.com/maps/search/?api=1&query=41.90546,12.45385) |
+| 23 | [Gregoriano Profano Museum](sights/gregoriano-profano-museum.yaml) | Museum / heritage | **84.40** | **History 9.1**, **Culture 8.9** | 8.3 / 8.4 / 8.8 / 8.4 / 8.3 | [41.90537, 12.4531](https://www.google.com/maps/search/?api=1&query=41.90537,12.4531) |
+| 24 | [Ethnological Museum Anima Mundi](sights/ethnological-museum-anima-mundi.yaml) | Museum / heritage | **84.25** | **Culture 9.1**, **History 8.8** | 8.2 / 8.5 / 8.7 / 8.4 / 8.4 | [41.90565, 12.45299](https://www.google.com/maps/search/?api=1&query=41.90565,12.45299) |
 
 ---
 

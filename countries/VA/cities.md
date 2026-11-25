@@ -2,7 +2,7 @@
 
 # Vatican City (VA) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**1 ranked** · **0 unassessed** · **1 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,11 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, or click its GPS coordinates to open **Google Maps**. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (1)
 
-No cities, towns & villages have been assessed for **Vatican City** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps |
+| ---: | --- | --- | ---: | --- | --- | --- |
+| 1 | [Vatican City](cities/vatican-city.yaml) | City / town | **93.80** | **Culture 9.8**, **History 9.8**, **Architecture 9.6** | 9.3 / 9.7 / 9.9 / 8.9 / 8.5 | [41.90216, 12.45736](https://www.google.com/maps/search/?api=1&query=41.90216,12.45736) |
 
 ---
 
