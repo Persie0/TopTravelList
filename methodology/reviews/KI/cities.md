@@ -26,6 +26,16 @@
 - Kampot (Cambodia): Less varied leisure and food than Kampot
 - Koh Ker Village (Cambodia): More modern-war relevance than Koh Ker Village but less monumental archaeological fabric
 
+#### Current YAML benchmark calibration (2026-11-25)
+
+Core values are I/U/S/E/D in that order. Existing qualitative comparisons are retained; these additional actual YAML checks support the relative scope judgments and do not establish factual verification.
+
+- [Salzburg](../../../countries/AT/cities/salzburg.yaml) — 9.0/8.9/9.0/8.8/8.5; global historic-city benchmark, far stronger monumental fabric and visitor breadth.
+- [Kampot](../../../countries/KH/cities/kampot.yaml) — 7.6/7.9/7.5/8.3/7.9; modest waterfront town with more varied built heritage, food and local exploration.
+- [Rach Gia](../../../countries/VN/cities/rach-gia.yaml) — 7.2/7.5/7.3/7.8/7.9; larger coastal settlement with substantially more independent urban visitor experiences.
+- [Kuala Perlis](../../../countries/MY/cities/kuala-perlis.yaml) — 6.5/6.8/6.5/7.2/6.7; modest coastal commercial settlement with established food experiences.
+- [Vaiaku Village](../../../countries/TV/cities/vaiaku.yaml) — 6.1/7.6/7.1/6.4/5.6; closely comparable atoll settlement; civic significance does not establish wider visitor access.
+
 ### Scoring decisions
 | Field | New rating | Individual justification |
 | --- | ---: | --- |
@@ -60,6 +70,16 @@
 - Bangkok (Thailand): Less civic and cultural breadth than Bangkok
 - Kampot (Cambodia): Fewer independent leisure stops than Kampot
 - Koh Ker Village (Cambodia): Civic rather than archaeological significance compared with Koh Ker Village
+
+#### Current YAML benchmark calibration (2026-11-25)
+
+Core values are I/U/S/E/D in that order. Existing qualitative comparisons are retained; these additional actual YAML checks support the relative scope judgments and do not establish factual verification.
+
+- [Salzburg](../../../countries/AT/cities/salzburg.yaml) — 9.0/8.9/9.0/8.8/8.5; global historic-city benchmark, far stronger monumental fabric and visitor breadth.
+- [Kampot](../../../countries/KH/cities/kampot.yaml) — 7.6/7.9/7.5/8.3/7.9; modest waterfront town with more varied built heritage, food and local exploration.
+- [Rach Gia](../../../countries/VN/cities/rach-gia.yaml) — 7.2/7.5/7.3/7.8/7.9; larger coastal settlement with substantially more independent urban visitor experiences.
+- [Kuala Perlis](../../../countries/MY/cities/kuala-perlis.yaml) — 6.5/6.8/6.5/7.2/6.7; modest coastal commercial settlement with established food experiences.
+- [Vaiaku Village](../../../countries/TV/cities/vaiaku.yaml) — 6.1/7.6/7.1/6.4/5.6; closely comparable atoll settlement; civic significance does not establish wider visitor access.
 
 ### Scoring decisions
 | Field | New rating | Individual justification |
@@ -97,6 +117,16 @@
 - Kampot (Cambodia): Less leisure variety than Kampot
 - Koh Ker Village (Cambodia): More contemporary institutional culture but less visible archaeology than Koh Ker Village
 
+#### Current YAML benchmark calibration (2026-11-25)
+
+Core values are I/U/S/E/D in that order. Existing qualitative comparisons are retained; these additional actual YAML checks support the relative scope judgments and do not establish factual verification.
+
+- [Salzburg](../../../countries/AT/cities/salzburg.yaml) — 9.0/8.9/9.0/8.8/8.5; global historic-city benchmark, far stronger monumental fabric and visitor breadth.
+- [Kampot](../../../countries/KH/cities/kampot.yaml) — 7.6/7.9/7.5/8.3/7.9; modest waterfront town with more varied built heritage, food and local exploration.
+- [Rach Gia](../../../countries/VN/cities/rach-gia.yaml) — 7.2/7.5/7.3/7.8/7.9; larger coastal settlement with substantially more independent urban visitor experiences.
+- [Kuala Perlis](../../../countries/MY/cities/kuala-perlis.yaml) — 6.5/6.8/6.5/7.2/6.7; modest coastal commercial settlement with established food experiences.
+- [Vaiaku Village](../../../countries/TV/cities/vaiaku.yaml) — 6.1/7.6/7.1/6.4/5.6; closely comparable atoll settlement; civic significance does not establish wider visitor access.
+
 ### Scoring decisions
 | Field | New rating | Individual justification |
 | --- | ---: | --- |
@@ -132,6 +162,16 @@
 - Bangkok (Thailand): No Bangkok-level food and street diversity
 - Kampot (Cambodia): Less varied town experience than Kampot
 - Koh Ker Village (Cambodia): Less documented heritage than Koh Ker Village
+
+#### Current YAML benchmark calibration (2026-11-25)
+
+Core values are I/U/S/E/D in that order. Existing qualitative comparisons are retained; these additional actual YAML checks support the relative scope judgments and do not establish factual verification.
+
+- [Salzburg](../../../countries/AT/cities/salzburg.yaml) — 9.0/8.9/9.0/8.8/8.5; global historic-city benchmark, far stronger monumental fabric and visitor breadth.
+- [Kampot](../../../countries/KH/cities/kampot.yaml) — 7.6/7.9/7.5/8.3/7.9; modest waterfront town with more varied built heritage, food and local exploration.
+- [Rach Gia](../../../countries/VN/cities/rach-gia.yaml) — 7.2/7.5/7.3/7.8/7.9; larger coastal settlement with substantially more independent urban visitor experiences.
+- [Kuala Perlis](../../../countries/MY/cities/kuala-perlis.yaml) — 6.5/6.8/6.5/7.2/6.7; modest coastal commercial settlement with established food experiences.
+- [Vaiaku Village](../../../countries/TV/cities/vaiaku.yaml) — 6.1/7.6/7.1/6.4/5.6; closely comparable atoll settlement; civic significance does not establish wider visitor access.
 
 ### Scoring decisions
 | Field | New rating | Individual justification |
@@ -245,6 +285,16 @@
 - Kampot (Cambodia): Kampot: documented small-city leisure
 - Koh Ker Village (Cambodia): Koh Ker Village: evidence-based village heritage
 
+#### Current YAML benchmark calibration (2026-11-25)
+
+Core values are I/U/S/E/D in that order. Existing qualitative comparisons are retained; these additional actual YAML checks support the relative scope judgments and do not establish factual verification.
+
+- [Salzburg](../../../countries/AT/cities/salzburg.yaml) — 9.0/8.9/9.0/8.8/8.5; global historic-city benchmark, far stronger monumental fabric and visitor breadth.
+- [Kampot](../../../countries/KH/cities/kampot.yaml) — 7.6/7.9/7.5/8.3/7.9; modest waterfront town with more varied built heritage, food and local exploration.
+- [Rach Gia](../../../countries/VN/cities/rach-gia.yaml) — 7.2/7.5/7.3/7.8/7.9; larger coastal settlement with substantially more independent urban visitor experiences.
+- [Kuala Perlis](../../../countries/MY/cities/kuala-perlis.yaml) — 6.5/6.8/6.5/7.2/6.7; modest coastal commercial settlement with established food experiences.
+- [Vaiaku Village](../../../countries/TV/cities/vaiaku.yaml) — 6.1/7.6/7.1/6.4/5.6; closely comparable atoll settlement; civic significance does not establish wider visitor access.
+
 ### Scoring decisions
 | Field | New rating | Individual justification |
 | --- | ---: | --- |
@@ -354,6 +404,16 @@
 - Bangkok (Thailand): Bangkok: cultural experience ceiling
 - Kampot (Cambodia): Kampot: modest town benchmark
 - Koh Ker Village (Cambodia): Koh Ker Village: named heritage setting
+
+#### Current YAML benchmark calibration (2026-11-25)
+
+Core values are I/U/S/E/D in that order. Existing qualitative comparisons are retained; these additional actual YAML checks support the relative scope judgments and do not establish factual verification.
+
+- [Salzburg](../../../countries/AT/cities/salzburg.yaml) — 9.0/8.9/9.0/8.8/8.5; global historic-city benchmark, far stronger monumental fabric and visitor breadth.
+- [Kampot](../../../countries/KH/cities/kampot.yaml) — 7.6/7.9/7.5/8.3/7.9; modest waterfront town with more varied built heritage, food and local exploration.
+- [Rach Gia](../../../countries/VN/cities/rach-gia.yaml) — 7.2/7.5/7.3/7.8/7.9; larger coastal settlement with substantially more independent urban visitor experiences.
+- [Kuala Perlis](../../../countries/MY/cities/kuala-perlis.yaml) — 6.5/6.8/6.5/7.2/6.7; modest coastal commercial settlement with established food experiences.
+- [Vaiaku Village](../../../countries/TV/cities/vaiaku.yaml) — 6.1/7.6/7.1/6.4/5.6; closely comparable atoll settlement; civic significance does not establish wider visitor access.
 
 ### Scoring decisions
 | Field | New rating | Individual justification |

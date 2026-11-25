@@ -23,6 +23,15 @@
 - Tuol Sleng Genocide Museum (Cambodia): stronger concentrated interpretation, different history
 - Kranji War Memorial (Singapore): coherent memorial visit, narrower dispersed landscape
 
+#### Current YAML benchmark calibration (2026-11-25)
+
+Core values are I/U/S/E/D in that order. Existing qualitative comparisons are retained; these additional actual YAML checks support the relative scope judgments and do not establish factual verification.
+
+- [Hiroshima Peace Memorial Park](../../../countries/JP/sights/hiroshima-peace-memorial-park.yaml) — 9.0/9.3/9.8/9.2/8.6; much stronger interpreted memorial landscape and worldwide historical significance.
+- [Tuol Sleng Genocide Museum](../../../countries/KH/sights/tuol-sleng-genocide-museum.yaml) — 9.1/9.4/9.9/9.0/8.9; more concentrated historical interpretation; distinct historical context.
+- [War Remnants Museum](../../../countries/VN/sights/war-remnants-museum.yaml) — 8.8/9.1/9.5/9.1/8.7; more extensive interpreted wartime collection.
+- [Hohensalzburg Fortress](../../../countries/AT/sights/hohensalzburg-fortress.yaml) — 9.1/9.1/9.3/9.4/8.9; far more intact built military heritage and established visitor breadth.
+
 ### Scoring decisions
 | Field | New rating | Individual justification |
 | --- | ---: | --- |
@@ -57,6 +66,15 @@
 - Kunsthistorisches Museum (Austria): world-leading artistic and historical breadth
 - National Museum of Cambodia (Cambodia): broader sculptural collections
 - Made in Cambodia Market Siem Reap (Cambodia): comparable focused cultural stop, but museum preserves rather than sells material culture
+
+#### Current YAML benchmark calibration (2026-11-25)
+
+Core values are I/U/S/E/D in that order. Existing qualitative comparisons are retained; these additional actual YAML checks support the relative scope judgments and do not establish factual verification.
+
+- [Kunsthistorisches Museum](../../../countries/AT/sights/kunsthistorisches-museum.yaml) — 9.2/9.4/9.6/9.4/9.5; world-class collection and monumental setting.
+- [National Museum of Cambodia](../../../countries/KH/sights/national-museum-cambodia.yaml) — 8.8/9.1/9.3/9.1/8.8; substantially larger heritage collection and visitor breadth.
+- [Bangkok National Museum](../../../countries/TH/sights/bangkok-national-museum.yaml) — 8.8/9.0/9.3/8.9/9.6; far greater collection scope.
+- [National Museum Malaysia](../../../countries/MY/sights/national-museum-malaysia.yaml) — 7.9/7.9/8.4/8.2/8.1; regional national museum reference with greater interpreted breadth.
 
 ### Scoring decisions
 | Field | New rating | Individual justification |
@@ -93,6 +111,15 @@
 - National Diet Building (Japan): greater historical institutional reach
 - Made in Cambodia Market Siem Reap (Cambodia): broader confirmed browsing, different cultural scope
 
+#### Current YAML benchmark calibration (2026-11-25)
+
+Core values are I/U/S/E/D in that order. Existing qualitative comparisons are retained; these additional actual YAML checks support the relative scope judgments and do not establish factual verification.
+
+- [Grand Palace Bangkok](../../../countries/TH/sights/grand-palace.yaml) — 9.3/9.2/9.5/9.3/9.1; major monumental state and ceremonial architecture; much greater visitor scope.
+- [Hohensalzburg Fortress](../../../countries/AT/sights/hohensalzburg-fortress.yaml) — 9.1/9.1/9.3/9.4/8.9; major historic political seat, much broader public heritage experience.
+- [Airai Bai](../../../countries/PW/sights/airai-bai.yaml) — 7.7/8.7/8.6/7.7/7.3; closer Pacific communal civic architecture comparator.
+- [Koh Ker Archaeological Site](../../../countries/KH/sights/koh-ker-archaeological-site.yaml) — 9.3/9.6/9.6/9.3/9.1; historic political and ceremonial landscape, much larger scope.
+
 ### Scoring decisions
 | Field | New rating | Individual justification |
 | --- | ---: | --- |
@@ -127,6 +154,15 @@
 - Tonle Sap Lake (Cambodia): greater documented ecological and cultural importance
 - Railay Beach (Thailand): broader multi-activity coastal appeal
 - Turneffe Atoll Marine Reserve (Belize): close specialist flats comparator, reserve-wide ecology not attributed here
+
+#### Current YAML benchmark calibration (2026-11-25)
+
+Core values are I/U/S/E/D in that order. Existing qualitative comparisons are retained; these additional actual YAML checks support the relative scope judgments and do not establish factual verification.
+
+- [Sipadan Island Reefs](../../../countries/MY/sights/sipadan-island-reefs.yaml) — 9.5/9.6/9.1/9.5/8.9; globally exceptional underwater benchmark with a documented specialist visitor experience.
+- [Rock Islands Southern Lagoon](../../../countries/PW/sights/rock-islands-southern-lagoon.yaml) — 9.5/9.5/9.3/9.4/9.3; exceptional marine and island heritage with broader visitor landscapes.
+- [Ang Thong National Marine Park](../../../countries/TH/sights/ang-thong-national-marine-park.yaml) — 9.0/9.0/8.6/9.1/8.9; broader established island recreation and distinctive scenery.
+- [Cham Islands](../../../countries/VN/sights/cham-islands.yaml) — 8.8/9.0/8.4/9.0/8.7; more compact marine destination with documented visitor activities.
 
 ### Scoring decisions
 | Field | New rating | Individual justification |
@@ -164,6 +200,15 @@
 - Galapagos National Park (Ecuador): defining evolutionary and island-ecology counterpart
 - Tubbataha Reefs Natural Park (Philippines): much smaller reef-focused comparator
 - Tonle Sap Lake (Cambodia): strong but different ecological process and visitor landscape
+
+#### Current YAML benchmark calibration (2026-11-25)
+
+Core values are I/U/S/E/D in that order. Existing qualitative comparisons are retained; these additional actual YAML checks support the relative scope judgments and do not establish factual verification.
+
+- [Sipadan Island Reefs](../../../countries/MY/sights/sipadan-island-reefs.yaml) — 9.5/9.6/9.1/9.5/8.9; globally exceptional underwater benchmark with a documented specialist visitor experience.
+- [Rock Islands Southern Lagoon](../../../countries/PW/sights/rock-islands-southern-lagoon.yaml) — 9.5/9.5/9.3/9.4/9.3; exceptional marine and island heritage with broader visitor landscapes.
+- [Ang Thong National Marine Park](../../../countries/TH/sights/ang-thong-national-marine-park.yaml) — 9.0/9.0/8.6/9.1/8.9; broader established island recreation and distinctive scenery.
+- [Cham Islands](../../../countries/VN/sights/cham-islands.yaml) — 8.8/9.0/8.4/9.0/8.7; more compact marine destination with documented visitor activities.
 
 ### Scoring decisions
 | Field | New rating | Individual justification |
@@ -211,6 +256,16 @@ Retain prior provisional impact 9.0, uniqueness 9.4 and significance 9.6, with e
 - Railay Beach: more dramatic cliffs and greater activity range
 - Lake Bled: more varied built-scenic combination, different lake type
 
+#### Current YAML benchmark calibration (2026-11-25)
+
+Core values are I/U/S/E/D in that order. Existing qualitative comparisons are retained; these additional actual YAML checks support the relative scope judgments and do not establish factual verification.
+
+- [Cheow Lan Lake](../../../countries/TH/sights/cheow-lan-lake.yaml) — 9.1/9.3/8.5/9.3/8.7; much stronger karst relief and established boat experiences.
+- [Tonle Sap Lake](../../../countries/KH/sights/tonle-sap-lake.yaml) — 9.0/9.2/9.5/8.8/9.2; far broader water-dependent culture and ecosystem importance.
+- [Ba Be Lake](../../../countries/VN/sights/ba-be-lake.yaml) — 8.8/9.0/8.3/9.1/8.5; more varied scenery and established lake excursions.
+- [Funafuti Lagoon](../../../countries/TV/sights/funafuti-lagoon.yaml) — 8.1/8.0/7.5/7.6/7.5; closer atoll waterscape benchmark; independent permitted visitor scope matters.
+- [Buada Lagoon](../../../countries/NR/sights/buada-lagoon.yaml) — 6.6/7.1/6.5/6.0/5.3; smaller inland lagoon with less visitor breadth.
+
 ### Scoring decisions
 | Field | New rating | Individual justification |
 | --- | ---: | --- |
@@ -247,6 +302,16 @@ Retain prior provisional impact 9.0, uniqueness 9.4 and significance 9.6, with e
 - Railay Beach: more varied cliff-and-beach activity
 - Lake Bled: stronger built and mountain framing, different water setting
 
+#### Current YAML benchmark calibration (2026-11-25)
+
+Core values are I/U/S/E/D in that order. Existing qualitative comparisons are retained; these additional actual YAML checks support the relative scope judgments and do not establish factual verification.
+
+- [Cheow Lan Lake](../../../countries/TH/sights/cheow-lan-lake.yaml) — 9.1/9.3/8.5/9.3/8.7; much stronger karst relief and established boat experiences.
+- [Tonle Sap Lake](../../../countries/KH/sights/tonle-sap-lake.yaml) — 9.0/9.2/9.5/8.8/9.2; far broader water-dependent culture and ecosystem importance.
+- [Ba Be Lake](../../../countries/VN/sights/ba-be-lake.yaml) — 8.8/9.0/8.3/9.1/8.5; more varied scenery and established lake excursions.
+- [Funafuti Lagoon](../../../countries/TV/sights/funafuti-lagoon.yaml) — 8.1/8.0/7.5/7.6/7.5; closer atoll waterscape benchmark; independent permitted visitor scope matters.
+- [Buada Lagoon](../../../countries/NR/sights/buada-lagoon.yaml) — 6.6/7.1/6.5/6.0/5.3; smaller inland lagoon with less visitor breadth.
+
 ### Scoring decisions
 | Field | New rating | Individual justification |
 | --- | ---: | --- |
@@ -282,6 +347,15 @@ Retain prior provisional impact 9.0, uniqueness 9.4 and significance 9.6, with e
 - Rapa Nui moai sites (Chile): far greater sculptural impact and landscape breadth
 - Hohensalzburg Fortress (Austria): far larger interpreted heritage complex
 - Koh Ker archaeological park (Cambodia): deeper multi-monument exploration; stones have more specialized navigational character
+
+#### Current YAML benchmark calibration (2026-11-25)
+
+Core values are I/U/S/E/D in that order. Existing qualitative comparisons are retained; these additional actual YAML checks support the relative scope judgments and do not establish factual verification.
+
+- [Rock Art of Alta](../../../countries/NO/sights/alta-rock-art.yaml) — 8.5/9.1/9.3/8.6/8.5; more extensive interpreted in-situ archaeological evidence.
+- [Ban Chiang Archaeological Site](../../../countries/TH/sights/ban-chiang-archaeological-site.yaml) — 8.4/9.2/9.6/8.2/8.1; globally important archaeological context with stronger visitor interpretation.
+- [Lenggong Valley Archaeological Heritage](../../../countries/MY/sights/lenggong-valley-archaeological-heritage.yaml) — 8.0/9.0/9.5/8.0/8.4; broader prehistoric evidence and visitor breadth.
+- [Carnuntum Archaeological Park](../../../countries/AT/sights/carnuntum-archaeological-park.yaml) — 8.7/8.9/9.0/8.8/8.4; far more tangible archaeological interpretation, different historical function.
 
 ### Scoring decisions
 | Field | New rating | Individual justification |
@@ -320,6 +394,16 @@ Retain prior provisional impact 9.0, uniqueness 9.4 and significance 9.6, with e
 - Marovo Lagoon (Solomon Islands): greater documented reef and island diversity.
 - Abaiang Lagoon (Kiribati): similar modest tropical waterscape, separately ranked.
 
+#### Current YAML benchmark calibration (2026-11-25)
+
+Core values are I/U/S/E/D in that order. Existing qualitative comparisons are retained; these additional actual YAML checks support the relative scope judgments and do not establish factual verification.
+
+- [Cheow Lan Lake](../../../countries/TH/sights/cheow-lan-lake.yaml) — 9.1/9.3/8.5/9.3/8.7; much stronger karst relief and established boat experiences.
+- [Tonle Sap Lake](../../../countries/KH/sights/tonle-sap-lake.yaml) — 9.0/9.2/9.5/8.8/9.2; far broader water-dependent culture and ecosystem importance.
+- [Ba Be Lake](../../../countries/VN/sights/ba-be-lake.yaml) — 8.8/9.0/8.3/9.1/8.5; more varied scenery and established lake excursions.
+- [Funafuti Lagoon](../../../countries/TV/sights/funafuti-lagoon.yaml) — 8.1/8.0/7.5/7.6/7.5; closer atoll waterscape benchmark; independent permitted visitor scope matters.
+- [Buada Lagoon](../../../countries/NR/sights/buada-lagoon.yaml) — 6.6/7.1/6.5/6.0/5.3; smaller inland lagoon with less visitor breadth.
+
 ### Scoring decisions
 | Field | New rating | Individual justification |
 | --- | ---: | --- |
@@ -356,6 +440,16 @@ Retain prior provisional impact 9.0, uniqueness 9.4 and significance 9.6, with e
 - Cheow Lan Lake (Thailand): more dramatic karst and varied established boat outings.
 - Marovo Lagoon (Solomon Islands): greater documented reef and island diversity.
 - Abaiang Lagoon (Kiribati): similar modest tropical waterscape, separately ranked.
+
+#### Current YAML benchmark calibration (2026-11-25)
+
+Core values are I/U/S/E/D in that order. Existing qualitative comparisons are retained; these additional actual YAML checks support the relative scope judgments and do not establish factual verification.
+
+- [Cheow Lan Lake](../../../countries/TH/sights/cheow-lan-lake.yaml) — 9.1/9.3/8.5/9.3/8.7; much stronger karst relief and established boat experiences.
+- [Tonle Sap Lake](../../../countries/KH/sights/tonle-sap-lake.yaml) — 9.0/9.2/9.5/8.8/9.2; far broader water-dependent culture and ecosystem importance.
+- [Ba Be Lake](../../../countries/VN/sights/ba-be-lake.yaml) — 8.8/9.0/8.3/9.1/8.5; more varied scenery and established lake excursions.
+- [Funafuti Lagoon](../../../countries/TV/sights/funafuti-lagoon.yaml) — 8.1/8.0/7.5/7.6/7.5; closer atoll waterscape benchmark; independent permitted visitor scope matters.
+- [Buada Lagoon](../../../countries/NR/sights/buada-lagoon.yaml) — 6.6/7.1/6.5/6.0/5.3; smaller inland lagoon with less visitor breadth.
 
 ### Scoring decisions
 | Field | New rating | Individual justification |
@@ -395,6 +489,15 @@ Retain prior provisional impact 9.0, uniqueness 9.4 and significance 9.6, with e
 - St Mary's Cathedral (Australia): larger architectural ensemble.
 - Airai Bai (Palau): different but comparable focused local cultural building.
 
+#### Current YAML benchmark calibration (2026-11-25)
+
+Core values are I/U/S/E/D in that order. Existing qualitative comparisons are retained; these additional actual YAML checks support the relative scope judgments and do not establish factual verification.
+
+- [St. Stephen's Cathedral](../../../countries/AT/sights/st-stephens-cathedral.yaml) — 9.1/9.2/9.3/9.1/8.8; far greater monumental religious architecture.
+- [Notre-Dame Cathedral Paris](../../../countries/FR/sights/notre-dame-paris.yaml) — 9.3/9.3/9.5/9.0/8.7; globally defining religious and architectural heritage.
+- [Notre Dame Cathedral Basilica of Saigon](../../../countries/VN/sights/saigon-notre-dame-cathedral.yaml) — 8.4/8.7/8.6/8.0/7.5; closer regional cathedral comparator, larger architectural setting.
+- [Airai Bai](../../../countries/PW/sights/airai-bai.yaml) — 7.7/8.7/8.6/7.7/7.3; focused Pacific cultural building, different religious function.
+
 ### Scoring decisions
 | Field | New rating | Individual justification |
 | --- | ---: | --- |
@@ -430,6 +533,16 @@ Retain prior provisional impact 9.0, uniqueness 9.4 and significance 9.6, with e
 - Funafuti Lagoon (Tuvalu): comparable extensive Pacific atoll waters
 - Cheow Lan Lake (Thailand): stronger sculptural scenery
 - Buada Lagoon (Nauru): much smaller water feature
+
+#### Current YAML benchmark calibration (2026-11-25)
+
+Core values are I/U/S/E/D in that order. Existing qualitative comparisons are retained; these additional actual YAML checks support the relative scope judgments and do not establish factual verification.
+
+- [Cheow Lan Lake](../../../countries/TH/sights/cheow-lan-lake.yaml) — 9.1/9.3/8.5/9.3/8.7; much stronger karst relief and established boat experiences.
+- [Tonle Sap Lake](../../../countries/KH/sights/tonle-sap-lake.yaml) — 9.0/9.2/9.5/8.8/9.2; far broader water-dependent culture and ecosystem importance.
+- [Ba Be Lake](../../../countries/VN/sights/ba-be-lake.yaml) — 8.8/9.0/8.3/9.1/8.5; more varied scenery and established lake excursions.
+- [Funafuti Lagoon](../../../countries/TV/sights/funafuti-lagoon.yaml) — 8.1/8.0/7.5/7.6/7.5; closer atoll waterscape benchmark; independent permitted visitor scope matters.
+- [Buada Lagoon](../../../countries/NR/sights/buada-lagoon.yaml) — 6.6/7.1/6.5/6.0/5.3; smaller inland lagoon with less visitor breadth.
 
 ### Scoring decisions
 | Field | Before | New rating | Individual justification |
@@ -467,6 +580,15 @@ Retain prior provisional impact 9.0, uniqueness 9.4 and significance 9.6, with e
 - Sub-Antarctic Islands (New Zealand): larger island-system wildlife diversity
 - Baradal Turtle Sanctuary (Saint Vincent and the Grenadines): comparable focused protected wildlife encounter
 - Tetepare (Solomon Islands): broader conservation visitor offer
+
+#### Current YAML benchmark calibration (2026-11-25)
+
+Core values are I/U/S/E/D in that order. Existing qualitative comparisons are retained; these additional actual YAML checks support the relative scope judgments and do not establish factual verification.
+
+- [Kinabatangan Wildlife Sanctuary](../../../countries/MY/sights/kinabatangan-wildlife-sanctuary.yaml) — 9.2/9.4/9.2/9.2/9.0; far broader established wildlife observation.
+- [Tonle Sap Lake](../../../countries/KH/sights/tonle-sap-lake.yaml) — 9.0/9.2/9.5/8.8/9.2; larger internationally significant wetland system.
+- [Kui Buri National Park](../../../countries/TH/sights/kui-buri-national-park.yaml) — 8.7/8.9/8.5/9.1/8.5; documented focused wildlife encounters with broader permitted scope.
+- [Rock Islands Southern Lagoon](../../../countries/PW/sights/rock-islands-southern-lagoon.yaml) — 9.5/9.5/9.3/9.4/9.3; much broader marine and island ecosystem heritage.
 
 ### Scoring decisions
 | Field | Before | New rating | Individual justification |
