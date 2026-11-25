@@ -1,0 +1,16 @@
+id: sight-de-rhine-valley
+name: "Upper Middle Rhine Valley"
+location:
+  country_code: DE
+  latitude: 50.15
+  longitude: 7.7
+scores:
+  impact: 9.3
+  uniqueness: 9.2
+  significance: 9.1
+  experience: 9.2
+  depth: 9.3
+  categories:
+    photography: 9.5
+    nature: 9.2
+    history: 9.2

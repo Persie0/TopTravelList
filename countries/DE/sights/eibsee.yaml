@@ -1,0 +1,15 @@
+id: sight-de-eibsee
+name: "Eibsee lake"
+location:
+  country_code: DE
+  latitude: 47.457
+  longitude: 10.97
+scores:
+  impact: 9.2
+  uniqueness: 8.9
+  significance: 8.4
+  experience: 9.0
+  depth: 8.5
+  categories:
+    nature: 9.4
+    photography: 9.5

@@ -1,0 +1,15 @@
+id: sight-de-francke-foundations
+name: "Francke Foundation Buildings Halle"
+location:
+  country_code: DE
+  latitude: 51.477
+  longitude: 11.971
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 9.1
+  experience: 8.6
+  depth: 8.6
+  categories:
+    history: 9.3
+    architecture: 9.1

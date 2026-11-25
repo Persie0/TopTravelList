@@ -1,0 +1,15 @@
+id: sight-de-wadden-sea
+name: "Wadden Sea (German section)"
+location:
+  country_code: DE
+  latitude: 54.1
+  longitude: 8.6
+scores:
+  impact: 8.8
+  uniqueness: 9.4
+  significance: 9.5
+  experience: 8.9
+  depth: 9.3
+  categories:
+    nature: 9.5
+    wildlife: 9.5
