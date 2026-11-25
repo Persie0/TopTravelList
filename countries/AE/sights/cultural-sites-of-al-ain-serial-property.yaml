@@ -2,8 +2,8 @@ id: sight-ae-cultural-sites-of-al-ain-serial-property
 name: "Cultural Sites of Al Ain (Serial Property)"
 location:
   country_code: AE
-  latitude: 24.207
-  longitude: 55.77
+  latitude: 24.217428
+  longitude: 55.766967
 scores:
   impact: 8.0
   uniqueness: 9.0

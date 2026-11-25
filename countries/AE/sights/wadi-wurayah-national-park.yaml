@@ -2,14 +2,14 @@ id: sight-ae-wadi-wurayah-national-park
 name: "Wadi Wurayah National Park"
 location:
   country_code: AE
-  latitude: 25.394
-  longitude: 56.27
+  latitude: 25.482331
+  longitude: 56.265792
 scores:
-  impact: null
+  impact: 8.3
   uniqueness: 8.9
   significance: 9.3
-  experience: null
-  depth: null
+  experience: 8.0
+  depth: 7.8
   categories:
     nature: 9.4
     wildlife: 9.2

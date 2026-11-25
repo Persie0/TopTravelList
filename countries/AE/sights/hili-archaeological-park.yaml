@@ -2,8 +2,8 @@ id: sight-ae-hili-archaeological-park
 name: "Hili Archaeological Park"
 location:
   country_code: AE
-  latitude: 24.289
-  longitude: 55.787
+  latitude: 24.292883
+  longitude: 55.789914
 scores:
   impact: 7.4
   uniqueness: 8.4

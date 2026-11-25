@@ -2,8 +2,8 @@ id: sight-ae-al-ain-oasis
 name: "Al Ain Oasis"
 location:
   country_code: AE
-  latitude: 24.217
-  longitude: 55.768
+  latitude: 24.217428
+  longitude: 55.766967
 scores:
   impact: 8.0
   uniqueness: 8.5

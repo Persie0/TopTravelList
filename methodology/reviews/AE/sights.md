@@ -1,25 +1,26 @@
 # United Arab Emirates — sights individual worldwide v2 reviews
 
-2026-11-25. Initial editorial inventory. [UNESCO register](https://whc.unesco.org/en/statesparties/ae) checked: three inscribed properties including Wadi Wurayah (2026), and 15 tentative properties, represented at property level but not all serial components individually inventoried. Coordinates are approximate editorial estimates, independently unchecked; not entrances or routes. No current-access guarantees. Source-linked status means limited identity/context from the listed page or excerpt, not independent confirmation of every claim. Shared peer ladders, especially engineered attractions and leisure venues, require specialist refinement.
+2026-11-25. Initial editorial inventory. [UNESCO register](https://whc.unesco.org/en/statesparties/ae) checked: three inscribed properties including Wadi Wurayah (2026), and 15 tentative properties, represented at property level but not all serial components individually inventoried. Seven follow-up records use UNESCO published representative points; remaining coordinates approximate editorial estimates, independently unchecked. No entrance or route guarantee. No current-access guarantees. Source-linked status means limited identity/context from the listed page or excerpt, not independent confirmation of every claim. Shared peer ladders, especially engineered attractions and leisure venues, require specialist refinement.
 
 ## sight-ae-burj-khalifa — Burj Khalifa — 2026-11-25
 
 - [YAML](../../../countries/AE/sights/burj-khalifa.yaml) · Action: new · **source-linked-unverified**.
 - Scope: tower and public observation experience. GPS 25.1972, 55.2744: approximate editorial point, independent verification pending.
 - Worldwide peers (I/U/S/E/D):
-  - [Great Wall at Jinshanling (CN)](../../../countries/CN/sights/great-wall-jinshanling.yaml) — 10.0 / 10.0 / 10.0 / 9.8 / 9.2 (98.90/100); upper reference; Burj Khalifa has lower provisional uniqueness and lower depth (record-setting supertall engineering; bounded tower experience).
-  - [Jebel Shams and Wadi Ghul Canyon (OM)](../../../countries/OM/sights/jebel-shams-and-wadi-ghul-canyon.yaml) — 9.5 / 9.2 / 8.5 / 9.1 / 8.9 (91.05/100); related comparator; Burj Khalifa has higher provisional uniqueness and lower depth (record-setting supertall engineering; bounded tower experience).
-  - [Dead Sea Panorama Complex (JO)](../../../countries/JO/sights/dead-sea-panorama-complex.yaml) — 8.0 / 7.9 / 7.4 / 8.0 / 7.0 (77.55/100); related comparator; Burj Khalifa has higher provisional uniqueness and higher depth (record-setting supertall engineering; bounded tower experience).
-  - [Aqaba Fort (JO)](../../../countries/JO/sights/aqaba-fort.yaml) — 7.2 / 7.4 / 8.1 / 7.5 / 6.9 (74.45/100); regional or bounded reference; Burj Khalifa has higher provisional uniqueness and higher depth (record-setting supertall engineering; bounded tower experience).
-- Impact 9.7: exceptional vertical skyline and panoramic views.
-- Uniqueness 9.8: record-setting supertall engineering.
-- Significance 8.8: modern architectural and engineering importance.
-- Experience 9.4: observation visit.
-- Depth 7.8: bounded tower experience.
-- Categories: architecture:9.8, photography:9.7. Overall: 93.10/100.
-- High-score challenge: Impact, uniqueness, architecture and photography reflect the 828m structure and urban panorama, not an equivalence to Angkor's cultural depth; narrower than a whole heritage ensemble.. No approved 10.
+  - [Taipei 101 (TW)](../../../countries/TW/sights/taipei-101.yaml) — 9.0 / 8.8 / 8.1 / 9.0 / 8.0 (86.70/100); same-type tower comparison: Burj Khalifa has higher provisional uniqueness and lower depth.
+  - [Tokyo Skytree (JP)](../../../countries/JP/sights/tokyo-skytree.yaml) — 8.8 / 8.6 / 7.7 / 8.9 / 7.8 (84.45/100); same-type tower comparison: Burj Khalifa has higher provisional uniqueness and equal depth.
+  - [Oriental Pearl Tower (CN)](../../../countries/CN/sights/oriental-pearl-tower.yaml) — 8.9 / 9.2 / 8.7 / 9.3 / 7.7 (88.75/100); same-type tower comparison: Burj Khalifa has higher provisional uniqueness and higher depth.
+  - [N Seoul Tower (KR)](../../../countries/KR/sights/n-seoul-tower.yaml) — 8.8 / 8.4 / 7.5 / 9.1 / 7.6 (83.65/100); same-type tower comparison: Burj Khalifa has higher provisional uniqueness and higher depth.
+- Impact 9.6: Exceptionally tall silhouette and panoramic observation views; above other tower peers, but one urban landmark.
+- Uniqueness 9.7: Record-setting 828m supertall building; not a unique class of visitor experience.
+- Significance 8.8: Major contemporary architectural engineering milestone, comparable in significance to Oriental Pearl.
+- Experience 9.2: Ticketed observation route with some tier-dependent access; no automatic premium deck or entire building experience.
+- Depth 7.8: Bounded observation experience; comparable to Tokyo Skytree, below Taipei 101.
+- Categories: architecture:9.8, photography:9.7. Overall: 92.25/100.
+- High-score challenge: Impact 9.6, uniqueness 9.7, architecture 9.8 and photography 9.7 recognize the exceptional supertall structure and panorama. Same-type peers Taipei 101, Tokyo Skytree, Oriental Pearl and N Seoul Tower were read from current main. The record height supports stronger visual and architectural scores, not an automatic 9.5+ experience or depth. Architecture and photography remain provisional specialist category judgments. No approved 10.
 - Evidence: [Source](https://www.visitdubai.com/en/places-to-visit/burj-khalifa) — Tourism authority excerpt confirms tower and observation decks; page or excerpt inspected 2026-11-25. Individual claims and coordinates not fully verified.
 - Remaining gaps: Independent factual, GPS, category and specialist peer verification.
+- Follow-up: https://www.visitdubai.com/en/articles/best-places-for-dubai-skyline-views confirms different observation levels. Replaced unrelated fortress/canyon comparisons with four live tower YAML profiles. No claim of unrestricted floor access.
 
 ## sight-ae-sheikh-zayed-grand-mosque — Sheikh Zayed Grand Mosque — 2026-11-25
 
@@ -39,6 +40,7 @@
 - High-score challenge: Impact, architecture and photography reach 9.5+ for scale, material detail and composition. Unlike Angkor Wat its historical significance is more recent, and exploration scope narrower.. No approved 10.
 - Evidence: [Source](https://visitabudhabi.ae/en/plan-your-trip/article-hub/13-must-see-architecture) — Tourism authority excerpt confirms architectural details of mosque, Louvre and palace; page or excerpt inspected 2026-11-25. Individual claims and coordinates not fully verified.
 - Remaining gaps: Independent factual, GPS, category and specialist peer verification.
+- Follow-up: https://www.szgmc.gov.ae/en/visiting-the-mosque/visitors confirms designated visitor access passes and mosque etiquette. Public visit distinct from worship access. Sultan Qaboos Grand Mosque live YAML checked; no automatic unrestricted prayer-hall entry.
 
 ## sight-ae-louvre-abu-dhabi — Louvre Abu Dhabi — 2026-11-25
 
@@ -58,6 +60,7 @@
 - High-score challenge: Architecture 9.6 reflects Jean Nouvel's layered dome and integration with water; collection scope does not automatically equal the world's greatest historical museums.. No approved 10.
 - Evidence: [Source](https://visitabudhabi.ae/en/plan-your-trip/article-hub/13-must-see-architecture) — Tourism authority excerpt confirms architectural details of mosque, Louvre and palace; page or excerpt inspected 2026-11-25. Individual claims and coordinates not fully verified.
 - Remaining gaps: Independent factual, GPS, category and specialist peer verification.
+- Follow-up: https://www.louvreabudhabi.ae/en/explore/museum-galleries documents chronological galleries and around 600 displayed works, including rotating loans. Depth 9.1 refers to accessible museum collections and architecture, not all holdings; current Kunsthistorisches Museum comparator YAML checked (depth 9.5).
 
 ## sight-ae-qasr-al-watan — Qasr Al Watan — 2026-11-25
 
@@ -366,26 +369,28 @@
 ## sight-ae-cultural-sites-of-al-ain-serial-property — Cultural Sites of Al Ain (Serial Property) — 2026-11-25
 
 - [YAML](../../../countries/AE/sights/cultural-sites-of-al-ain-serial-property.yaml) · Action: new · **source-linked-unverified**.
-- Scope: 17-component oasis and archaeological property. GPS 24.207, 55.77: approximate editorial point, independent verification pending.
+- Scope: 17-component oasis and archaeological property. GPS 24.217428, 55.766967: Al Ain Oasis representative serial component; UNESCO published DMS converted to decimal, not entrance.
 - Worldwide peers (I/U/S/E/D):
   - [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 10.0 / 10.0 / 10.0 / 9.8 / 10.0 (99.70/100); upper reference; Cultural Sites of Al Ain (Serial Property) has lower provisional uniqueness and lower depth (long-term desert settlement and water management; multiple components).
   - [Jerash Archaeological City (JO)](../../../countries/JO/sights/jerash-archaeological-city.yaml) — 9.5 / 9.3 / 9.5 / 9.4 / 9.3 (94.15/100); related comparator; Cultural Sites of Al Ain (Serial Property) has lower provisional uniqueness and lower depth (long-term desert settlement and water management; multiple components).
-  - [Bat Al Khutm and Al Ayn Archaeological Sites (OM)](../../../countries/OM/sights/bat-al-khutm-and-al-ayn-archaeological-sites.yaml) — 8.0 / 9.2 / 9.4 / 7.8 / 8.4 (85.90/100); related comparator; Cultural Sites of Al Ain (Serial Property) has lower provisional uniqueness and higher depth (long-term desert settlement and water management; multiple components).
-  - [Umm Al-Jimal Archaeological Site (JO)](../../../countries/JO/sights/umm-al-jimal-archaeological-site.yaml) — 8.4 / 8.9 / 9.0 / 8.3 / 8.5 (86.40/100); regional or bounded reference; Cultural Sites of Al Ain (Serial Property) has higher provisional uniqueness and higher depth (long-term desert settlement and water management; multiple components).
+  - [Bat Al Khutm and Al Ayn Archaeological Sites (OM)](../../../countries/OM/sights/bat-al-khutm-and-al-ayn-archaeological-sites.yaml) — 8.0 / 9.2 / 9.4 / 7.8 / 8.4 (85.90/100); related comparator; Cultural Sites of Al Ain (Serial Property) has lower provisional uniqueness and lower depth (long-term desert settlement and water management; multiple components).
+  - [Umm Al-Jimal Archaeological Site (JO)](../../../countries/JO/sights/umm-al-jimal-archaeological-site.yaml) — 8.4 / 8.9 / 9.0 / 8.3 / 8.5 (86.40/100); regional or bounded reference; Cultural Sites of Al Ain (Serial Property) has higher provisional uniqueness and lower depth (long-term desert settlement and water management; multiple components).
 - Impact 8.0: contrasting oasis and ancient stone remains.
 - Uniqueness 9.0: long-term desert settlement and water management.
 - Significance 9.4: international archaeological heritage.
 - Experience 8.2: multi-site heritage visits.
-- Depth 9.0: multiple components.
-- Categories: history:9.4, culture:9.1. Overall: 86.60/100.
+- Depth 8.2: accessible oasis paths, Hili park and designated Hafit tomb routes; the full set of 17 components is not an ordinary public circuit.
+- Categories: history:9.4, culture:9.1. Overall: 85.80/100.
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Source](https://whc.unesco.org/en/list/1343/) — UNESCO description confirms 17 serial components, tombs, oasis irrigation and archaeology; individual access not confirmed; page or excerpt inspected 2026-11-25. Individual claims and coordinates not fully verified.
 - Remaining gaps: Independent factual, GPS, category and specialist peer verification.
+- Follow-up: https://visitabudhabi.ae/en/plan-your-trip/article-hub/the-ancient-world-of-al-ain-abu-dhabis-unesco-heritage describes the main public heritage stops, not entry to every component. Preserve existing YAML depth reduction; Bidaa Bint Saud remains unranked.
+- Coordinate follow-up: https://whc.unesco.org/en/list/1343/maps/ (Al Ain Oasis representative serial component); previous 24.207, 55.77.
 
 ## sight-ae-al-ain-oasis — Al Ain Oasis — 2026-11-25
 
 - [YAML](../../../countries/AE/sights/al-ain-oasis.yaml) · Action: new · **source-linked-unverified**.
-- Scope: specific palm oasis and water channels. GPS 24.217, 55.768: approximate editorial point, independent verification pending.
+- Scope: specific palm oasis and water channels. GPS 24.217428, 55.766967: Al Ain Oasis component; UNESCO published DMS converted to decimal, not entrance.
 - Worldwide peers (I/U/S/E/D):
   - [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 10.0 / 10.0 / 10.0 / 9.8 / 10.0 (99.70/100); upper reference; Al Ain Oasis has lower provisional uniqueness and lower depth (historic working desert irrigation landscape; many paths).
   - [Jerash Archaeological City (JO)](../../../countries/JO/sights/jerash-archaeological-city.yaml) — 9.5 / 9.3 / 9.5 / 9.4 / 9.3 (94.15/100); related comparator; Al Ain Oasis has lower provisional uniqueness and lower depth (historic working desert irrigation landscape; many paths).
@@ -400,11 +405,12 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Source](https://whc.unesco.org/en/list/1343/) — UNESCO description confirms 17 serial components, tombs, oasis irrigation and archaeology; individual access not confirmed; page or excerpt inspected 2026-11-25. Individual claims and coordinates not fully verified.
 - Remaining gaps: Independent factual, GPS, category and specialist peer verification.
+- Coordinate follow-up: https://whc.unesco.org/en/list/1343/maps/ (Al Ain Oasis component); previous 24.217, 55.768.
 
 ## sight-ae-hili-archaeological-park — Hili Archaeological Park — 2026-11-25
 
 - [YAML](../../../countries/AE/sights/hili-archaeological-park.yaml) · Action: new · **source-linked-unverified**.
-- Scope: park and archaeological precinct. GPS 24.289, 55.787: approximate editorial point, independent verification pending.
+- Scope: park and archaeological precinct. GPS 24.292883, 55.789914: Hili Archaeological Park component; UNESCO published DMS converted to decimal, not entrance.
 - Worldwide peers (I/U/S/E/D):
   - [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 10.0 / 10.0 / 10.0 / 9.8 / 10.0 (99.70/100); upper reference; Hili Archaeological Park has lower provisional uniqueness and lower depth (Bronze Age and Iron Age evidence; several features).
   - [Jerash Archaeological City (JO)](../../../countries/JO/sights/jerash-archaeological-city.yaml) — 9.5 / 9.3 / 9.5 / 9.4 / 9.3 (94.15/100); related comparator; Hili Archaeological Park has lower provisional uniqueness and lower depth (Bronze Age and Iron Age evidence; several features).
@@ -419,11 +425,12 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Source](https://whc.unesco.org/en/list/1343/) — UNESCO description confirms 17 serial components, tombs, oasis irrigation and archaeology; individual access not confirmed; page or excerpt inspected 2026-11-25. Individual claims and coordinates not fully verified.
 - Remaining gaps: Independent factual, GPS, category and specialist peer verification.
+- Coordinate follow-up: https://whc.unesco.org/en/list/1343/maps/ (Hili Archaeological Park component); previous 24.289, 55.787.
 
 ## sight-ae-jebel-hafit-tombs — Jebel Hafit Tombs — 2026-11-25
 
 - [YAML](../../../countries/AE/sights/jebel-hafit-tombs.yaml) · Action: new · **source-linked-unverified**.
-- Scope: tomb field only. GPS 24.04, 55.80: approximate editorial point, independent verification pending.
+- Scope: tomb field only. GPS 24.06795, 55.806631: Jebel Hafit Desert Park component, representative of tomb visitor landscape; UNESCO published DMS converted to decimal, not entrance.
 - Worldwide peers (I/U/S/E/D):
   - [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 10.0 / 10.0 / 10.0 / 9.8 / 10.0 (99.70/100); upper reference; Jebel Hafit Tombs has lower provisional uniqueness and lower depth (early Arabian burial architecture; bounded field).
   - [Jerash Archaeological City (JO)](../../../countries/JO/sights/jerash-archaeological-city.yaml) — 9.5 / 9.3 / 9.5 / 9.4 / 9.3 (94.15/100); related comparator; Jebel Hafit Tombs has lower provisional uniqueness and lower depth (early Arabian burial architecture; bounded field).
@@ -438,11 +445,12 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Source](https://whc.unesco.org/en/list/1343/) — UNESCO description confirms 17 serial components, tombs, oasis irrigation and archaeology; individual access not confirmed; page or excerpt inspected 2026-11-25. Individual claims and coordinates not fully verified.
 - Remaining gaps: Independent factual, GPS, category and specialist peer verification.
+- Coordinate follow-up: https://whc.unesco.org/en/list/1343/maps/ (Jebel Hafit Desert Park component, representative of tomb visitor landscape); previous 24.04, 55.8.
 
 ## sight-ae-bidaa-bint-saud-archaeological-site — Bidaa Bint Saud Archaeological Site — 2026-11-25
 
 - [YAML](../../../countries/AE/sights/bidaa-bint-saud-archaeological-site.yaml) · Action: new · **unassessed**.
-- Scope: archaeological site and irrigation remains. GPS 24.369, 55.735: approximate editorial point, independent verification pending.
+- Scope: archaeological site and irrigation remains. GPS 24.382253, 55.71565: Bidaa Bint Saud component; UNESCO published DMS converted to decimal, not entrance.
 - Worldwide peers (I/U/S/E/D):
   - [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 10.0 / 10.0 / 10.0 / 9.8 / 10.0 (99.70/100); upper reference; Bidaa Bint Saud Archaeological Site has lower provisional uniqueness and unresolved depth (ancient tombs and water management; depth unconfirmed).
   - [Jerash Archaeological City (JO)](../../../countries/JO/sights/jerash-archaeological-city.yaml) — 9.5 / 9.3 / 9.5 / 9.4 / 9.3 (94.15/100); related comparator; Bidaa Bint Saud Archaeological Site has lower provisional uniqueness and unresolved depth (ancient tombs and water management; depth unconfirmed).
@@ -457,6 +465,7 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Source](https://whc.unesco.org/en/list/1343/) — UNESCO description confirms 17 serial components, tombs, oasis irrigation and archaeology; individual access not confirmed; page or excerpt inspected 2026-11-25. Individual claims and coordinates not fully verified.
 - Remaining gaps: Confirm normal permitted visitor routes and interpretation before completing scores.
+- Coordinate follow-up: https://whc.unesco.org/en/list/1343/maps/ (Bidaa Bint Saud component); previous 24.369, 55.735.
 
 ## sight-ae-jebel-hafit-mountain — Jebel Hafit Mountain — 2026-11-25
 
@@ -518,7 +527,7 @@
 ## sight-ae-faya-palaeolandscape — Faya Palaeolandscape — 2026-11-25
 
 - [YAML](../../../countries/AE/sights/faya-palaeolandscape.yaml) · Action: new · **unassessed**.
-- Scope: inscribed archaeological landscape, not all Mleiha visitor attractions. GPS 25.12, 55.84: approximate editorial point, independent verification pending.
+- Scope: inscribed archaeological landscape, not all Mleiha visitor attractions. GPS 25.082806, 55.806583: published property point; UNESCO published DMS converted to decimal, not entrance.
 - Worldwide peers (I/U/S/E/D):
   - [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 10.0 / 10.0 / 10.0 / 9.8 / 10.0 (99.70/100); upper reference; Faya Palaeolandscape has lower provisional uniqueness and unresolved depth (long record of adaptation to arid climate; depth unresolved).
   - [Jerash Archaeological City (JO)](../../../countries/JO/sights/jerash-archaeological-city.yaml) — 9.5 / 9.3 / 9.5 / 9.4 / 9.3 (94.15/100); related comparator; Faya Palaeolandscape has lower provisional uniqueness and unresolved depth (long record of adaptation to arid climate; depth unresolved).
@@ -533,25 +542,28 @@
 - High-score challenge: Significance and history 9.5 reflect documented occupation spanning roughly 210,000 to 6,000 years ago; no assumed visual or visitor equivalence to standing ancient cities.. No approved 10.
 - Evidence: [Source](https://whc.unesco.org/en/list/1735/) — UNESCO description confirms long chronology of human occupation; page or excerpt inspected 2026-11-25. Individual claims and coordinates not fully verified.
 - Remaining gaps: Confirm normal permitted visitor routes and interpretation before completing scores.
+- Coordinate follow-up: https://whc.unesco.org/en/list/1735/maps/ (published property point); previous 25.12, 55.84.
 
 ## sight-ae-wadi-wurayah-national-park — Wadi Wurayah National Park — 2026-11-25
 
-- [YAML](../../../countries/AE/sights/wadi-wurayah-national-park.yaml) · Action: new · **unassessed**.
-- Scope: inscribed protected wadi. GPS 25.394, 56.27: approximate editorial point, independent verification pending.
+- [YAML](../../../countries/AE/sights/wadi-wurayah-national-park.yaml) · Action: new · **source-linked-unverified**.
+- Scope: inscribed protected wadi. GPS 25.482331, 56.265792: published property point; UNESCO published DMS converted to decimal, not entrance.
 - Worldwide peers (I/U/S/E/D):
   - [Wadi Rum Protected Area (JO)](../../../countries/JO/sights/wadi-rum-protected-area.yaml) — 9.8 / 9.7 / 9.4 / 9.6 / 9.5 (96.35/100); upper reference; Wadi Wurayah National Park has lower provisional uniqueness and unresolved depth (mountain freshwater habitats; depth unknown).
   - [Jiuzhaigou Valley (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) — 9.8 / 9.7 / 9.4 / 9.8 / 9.1 (96.25/100); related comparator; Wadi Wurayah National Park has lower provisional uniqueness and unresolved depth (mountain freshwater habitats; depth unknown).
   - [Sharqiya Sands (Wahiba Sands) (OM)](../../../countries/OM/sights/sharqiya-sands-wahiba-sands.yaml) — 9.3 / 9.0 / 8.1 / 9.2 / 8.7 (89.10/100); related comparator; Wadi Wurayah National Park has lower provisional uniqueness and unresolved depth (mountain freshwater habitats; depth unknown).
   - [Dana Biosphere Reserve (JO)](../../../countries/JO/sights/dana-biosphere-reserve.yaml) — 9.0 / 8.8 / 8.9 / 9.0 / 9.1 (89.40/100); regional or bounded reference; Wadi Wurayah National Park has higher provisional uniqueness and unresolved depth (mountain freshwater habitats; depth unknown).
-- Impact null: normal visitor impact unverified.
-- Uniqueness 8.9: mountain freshwater habitats.
-- Significance 9.3: international biodiversity significance.
-- Experience null: permitted visitor route unclear.
-- Depth null: depth unknown.
-- Categories: nature:9.4, wildlife:9.2. Overall: unranked.
+- Impact 8.3: Rocky Hajar canyons, perennial water and waterfall on authorized guided visits.
+- Uniqueness 8.9: Distinct mountain freshwater habitat in arid Arabian landscape.
+- Significance 9.3: International ecological significance confirmed by 2026 inscription.
+- Experience 8.0: Controlled, prebooked seasonal group visits reported in 2026; no independent access.
+- Depth 7.8: Bounded guided day excursion; no credit for entire 220-square-kilometre protected property or research-only areas.
+- Categories: nature:9.4, wildlife:9.2. Overall: 85.55/100.
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Source](https://whc.unesco.org/en/list/1724/) — UNESCO property identity; normal access unresolved; page or excerpt inspected 2026-11-25. Individual claims and coordinates not fully verified.
-- Remaining gaps: Confirm normal permitted visitor routes and interpretation before completing scores.
+- Remaining gaps: Confirm the actual current guided itinerary, seasonal availability, precise accessible routes and category comparisons. No independent entry or wildlife sightings guaranteed.
+- Follow-up: https://www.khaleejtimes.com/travel/uae-attractions/how-to-visit-wadi-wurayah-fujairah and https://www.khaleejtimes.com/uae/wadi-wurayah-unesco-site-top-spots-for-visitors-uae-fujairah quote the Fujairah Environment Authority director on controlled tours since January 2026 and authorized waterfall/canyon viewing. https://whc.unesco.org/en/decisions/9159/ confirms inscription under criterion (ix). Use bounded guided tour scope rather than the entire reserve. No full fact-check claimed.
+- Coordinate follow-up: https://whc.unesco.org/en/list/1724/maps/ (published property point); previous 25.394, 56.27.
 
 ## sight-ae-mleiha-archaeological-centre-and-sites — Mleiha Archaeological Centre and Sites — 2026-11-25
 

@@ -2,8 +2,8 @@ id: sight-ae-jebel-hafit-tombs
 name: "Jebel Hafit Tombs"
 location:
   country_code: AE
-  latitude: 24.04
-  longitude: 55.8
+  latitude: 24.06795
+  longitude: 55.806631
 scores:
   impact: 7.9
   uniqueness: 8.6

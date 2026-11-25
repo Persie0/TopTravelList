@@ -2,8 +2,8 @@ id: sight-ae-faya-palaeolandscape
 name: "Faya Palaeolandscape"
 location:
   country_code: AE
-  latitude: 25.12
-  longitude: 55.84
+  latitude: 25.082806
+  longitude: 55.806583
 scores:
   impact: null
   uniqueness: 9.1
