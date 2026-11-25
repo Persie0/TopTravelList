@@ -3,7 +3,9 @@
 - [Worldwide v2](../../../rules.md) · [Future-country workflow](../../future-country-workflow.md)
 - Initial non-exhaustive inventory. UNESCO [country inventory](https://whc.unesco.org/en/statesparties/AU/) checked 2026-11-25: 21 inscribed and 8 tentative properties, all represented at property level. Individual serial components are not comprehensive. Sources linked for context; provisional editorial scores, no fully fact-checked record claimed. Several points are deliberately approximate and require corroboration. Peer comparisons qualitative, not a claim of checking current peer YAML scores. No current visitor access or safety guarantee.
 
-### city-au-sydney — Sydney — 2026-11-25
+- Current decisions use one canonical heading per destination ID; earlier text and sources are preserved in [review history](history-evidence-followup-2026-11-25.md).
+
+## city-au-sydney — Sydney — 2026-11-25
 
 - YAML: [source](../../../countries/AU/cities/sydney.yaml)
 - Action: new
@@ -16,30 +18,30 @@
   - https://www.australia.com/en-gb/travel-inspiration/where-to-visit.html
 - Missing or uncertain facts: Coordinate is a gazetteer city point; additional venue-specific corroboration needed.
 
-#### Worldwide peer comparisons
-- Vienna (Austria): greater monumental architecture and historical collections
-- Bangkok (Thailand): stronger street-food breadth and cultural density
-- Salzburg (Austria): more coherent historic streetscape
+### Worldwide peer comparisons
+- [Vienna](../../../countries/AT/cities/vienna.yaml) (Austria): greater monumental architecture and historical collections
+- [Bangkok](../../../countries/TH/cities/bangkok.yaml) (Thailand): stronger street-food breadth and cultural density
+- [Salzburg](../../../countries/AT/cities/salzburg.yaml) (Austria): more coherent historic streetscape
 - Auckland (New Zealand): comparable harbor metropolis with less urban depth
 
-#### Scoring decisions
+### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
-| impact | 9.2 | Harbor city with iconic skyline, bridge and opera house |
-| uniqueness | 8.8 | distinctive harbor and beach urban form |
-| significance | 8.6 | major national cultural and historical role |
-| experience | 9.2 | extensive museums, coastal walks and dining |
-| depth | 9.1 | substantial distinct districts |
+| Impact | 9.2 | Harbor city with iconic skyline, bridge and opera house |
+| Uniqueness | 8.8 | distinctive harbor and beach urban form |
+| Significance | 8.6 | major national cultural and historical role |
+| Experience | 9.2 | extensive museums, coastal walks and dining |
+| Depth | 9.1 | substantial distinct districts |
 
 - Applicable categories: architecture: 9.0, culture: 8.8, food: 9.0, nature: 9.0, photography: 9.3
-- Computed worldwide overall: 89.70/100
+- Overall: 89.70/100
 - High-score challenge: No 9.5+ fields or 90+ total.
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide assessment.
 - Earlier decision: none.
 - Verification still needed: Coordinate is a gazetteer city point; additional venue-specific corroboration needed.
 
-### city-au-melbourne — Melbourne — 2026-11-25
+## city-au-melbourne — Melbourne — 2026-11-25
 
 - YAML: [source](../../../countries/AU/cities/melbourne.yaml)
 - Action: new
@@ -52,30 +54,30 @@
   - https://www.australia.com/en-gb/travel-inspiration/where-to-visit.html
 - Missing or uncertain facts: Coordinate is a gazetteer city point; additional venue-specific corroboration needed.
 
-#### Worldwide peer comparisons
-- Vienna (Austria): greater monumental architecture and historical collections
-- Bangkok (Thailand): stronger street-food breadth and cultural density
-- Salzburg (Austria): more coherent historic streetscape
+### Worldwide peer comparisons
+- [Vienna](../../../countries/AT/cities/vienna.yaml) (Austria): greater monumental architecture and historical collections
+- [Bangkok](../../../countries/TH/cities/bangkok.yaml) (Thailand): stronger street-food breadth and cultural density
+- [Salzburg](../../../countries/AT/cities/salzburg.yaml) (Austria): more coherent historic streetscape
 - Auckland (New Zealand): comparable harbor metropolis with less urban depth
 
-#### Scoring decisions
+### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
-| impact | 8.4 | Layered Victorian and modern streets |
-| uniqueness | 8.6 | distinctive laneway, coffee and arts culture |
-| significance | 8.5 | national cultural and industrial history |
-| experience | 9.2 | strong galleries, live music and food |
-| depth | 9.2 | extensive distinct districts and museums |
+| Impact | 8.4 | Layered Victorian and modern streets |
+| Uniqueness | 8.6 | distinctive laneway, coffee and arts culture |
+| Significance | 8.5 | national cultural and industrial history |
+| Experience | 9.2 | strong galleries, live music and food |
+| Depth | 9.2 | extensive distinct districts and museums |
 
 - Applicable categories: food: 9.3, culture: 9.2, architecture: 8.7, nightlife: 8.9
-- Computed worldwide overall: 86.70/100
+- Overall: 86.70/100
 - High-score challenge: No 9.5+ fields or 90+ total.
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide assessment.
 - Earlier decision: none.
 - Verification still needed: Coordinate is a gazetteer city point; additional venue-specific corroboration needed.
 
-### city-au-brisbane — Brisbane — 2026-11-25
+## city-au-brisbane — Brisbane — 2026-11-25
 
 - YAML: [source](../../../countries/AU/cities/brisbane.yaml)
 - Action: new
@@ -88,30 +90,30 @@
   - https://www.australia.com/en-gb/travel-inspiration/where-to-visit.html
 - Missing or uncertain facts: Coordinate is a gazetteer city point; additional venue-specific corroboration needed.
 
-#### Worldwide peer comparisons
-- Vienna (Austria): greater monumental architecture and historical collections
-- Bangkok (Thailand): stronger street-food breadth and cultural density
-- Salzburg (Austria): more coherent historic streetscape
+### Worldwide peer comparisons
+- [Vienna](../../../countries/AT/cities/vienna.yaml) (Austria): greater monumental architecture and historical collections
+- [Bangkok](../../../countries/TH/cities/bangkok.yaml) (Thailand): stronger street-food breadth and cultural density
+- [Salzburg](../../../countries/AT/cities/salzburg.yaml) (Austria): more coherent historic streetscape
 - Auckland (New Zealand): comparable harbor metropolis with less urban depth
 
-#### Scoring decisions
+### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
-| impact | 7.9 | River and subtropical urban setting |
-| uniqueness | 7.8 | appealing but globally comparable river city |
-| significance | 7.7 | regional civic and cultural importance |
-| experience | 8.5 | galleries, river walks and food |
-| depth | 8.2 | several neighborhoods and venues |
+| Impact | 7.9 | River and subtropical urban setting |
+| Uniqueness | 7.8 | appealing but globally comparable river city |
+| Significance | 7.7 | regional civic and cultural importance |
+| Experience | 8.5 | galleries, river walks and food |
+| Depth | 8.2 | several neighborhoods and venues |
 
 - Applicable categories: culture: 8.4, food: 8.3, nature: 8.0
-- Computed worldwide overall: 79.55/100
+- Overall: 79.55/100
 - High-score challenge: No 9.5+ fields or 90+ total.
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide assessment.
 - Earlier decision: none.
 - Verification still needed: Coordinate is a gazetteer city point; additional venue-specific corroboration needed.
 
-### city-au-perth — Perth — 2026-11-25
+## city-au-perth — Perth — 2026-11-25
 
 - YAML: [source](../../../countries/AU/cities/perth.yaml)
 - Action: new
@@ -124,30 +126,30 @@
   - https://www.australia.com/en-gb/travel-inspiration/where-to-visit.html
 - Missing or uncertain facts: Coordinate is a gazetteer city point; additional venue-specific corroboration needed.
 
-#### Worldwide peer comparisons
-- Vienna (Austria): greater monumental architecture and historical collections
-- Bangkok (Thailand): stronger street-food breadth and cultural density
-- Salzburg (Austria): more coherent historic streetscape
+### Worldwide peer comparisons
+- [Vienna](../../../countries/AT/cities/vienna.yaml) (Austria): greater monumental architecture and historical collections
+- [Bangkok](../../../countries/TH/cities/bangkok.yaml) (Thailand): stronger street-food breadth and cultural density
+- [Salzburg](../../../countries/AT/cities/salzburg.yaml) (Austria): more coherent historic streetscape
 - Auckland (New Zealand): comparable harbor metropolis with less urban depth
 
-#### Scoring decisions
+### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
-| impact | 8.0 | Swan River and coastal urban scenery |
-| uniqueness | 8.0 | distinctive isolated metropolitan setting |
-| significance | 7.8 | state civic and cultural role |
-| experience | 8.5 | parks, beaches and city venues |
-| depth | 8.2 | varied urban experiences |
+| Impact | 8.0 | Swan River and coastal urban scenery |
+| Uniqueness | 8.0 | distinctive isolated metropolitan setting |
+| Significance | 7.8 | state civic and cultural role |
+| Experience | 8.5 | parks, beaches and city venues |
+| Depth | 8.2 | varied urban experiences |
 
 - Applicable categories: nature: 8.5, food: 8.3, culture: 8.1
-- Computed worldwide overall: 80.55/100
+- Overall: 80.55/100
 - High-score challenge: No 9.5+ fields or 90+ total.
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide assessment.
 - Earlier decision: none.
 - Verification still needed: Coordinate is a gazetteer city point; additional venue-specific corroboration needed.
 
-### city-au-adelaide — Adelaide — 2026-11-25
+## city-au-adelaide — Adelaide — 2026-11-25
 
 - YAML: [source](../../../countries/AU/cities/adelaide.yaml)
 - Action: new
@@ -160,30 +162,30 @@
   - https://www.australia.com/en-gb/travel-inspiration/where-to-visit.html
 - Missing or uncertain facts: Coordinate is a gazetteer city point; additional venue-specific corroboration needed.
 
-#### Worldwide peer comparisons
-- Vienna (Austria): greater monumental architecture and historical collections
-- Bangkok (Thailand): stronger street-food breadth and cultural density
-- Salzburg (Austria): more coherent historic streetscape
+### Worldwide peer comparisons
+- [Vienna](../../../countries/AT/cities/vienna.yaml) (Austria): greater monumental architecture and historical collections
+- [Bangkok](../../../countries/TH/cities/bangkok.yaml) (Thailand): stronger street-food breadth and cultural density
+- [Salzburg](../../../countries/AT/cities/salzburg.yaml) (Austria): more coherent historic streetscape
 - Auckland (New Zealand): comparable harbor metropolis with less urban depth
 
-#### Scoring decisions
+### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
-| impact | 7.8 | Planned streets and parklands |
-| uniqueness | 7.9 | distinctive festival and market culture |
-| significance | 8.0 | regional civic and colonial history |
-| experience | 8.5 | strong food and cultural activities |
-| depth | 8.1 | several distinct urban areas |
+| Impact | 7.8 | Planned streets and parklands |
+| Uniqueness | 7.9 | distinctive festival and market culture |
+| Significance | 8.0 | regional civic and colonial history |
+| Experience | 8.5 | strong food and cultural activities |
+| Depth | 8.1 | several distinct urban areas |
 
 - Applicable categories: food: 8.7, culture: 8.5, architecture: 8.0
-- Computed worldwide overall: 80.00/100
+- Overall: 80.00/100
 - High-score challenge: No 9.5+ fields or 90+ total.
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide assessment.
 - Earlier decision: none.
 - Verification still needed: Coordinate is a gazetteer city point; additional venue-specific corroboration needed.
 
-### city-au-hobart — Hobart — 2026-11-25
+## city-au-hobart — Hobart — 2026-11-25
 
 - YAML: [source](../../../countries/AU/cities/hobart.yaml)
 - Action: new
@@ -196,30 +198,30 @@
   - https://www.australia.com/en-gb/travel-inspiration/where-to-visit.html
 - Missing or uncertain facts: Coordinate is a gazetteer city point; additional venue-specific corroboration needed.
 
-#### Worldwide peer comparisons
-- Vienna (Austria): greater monumental architecture and historical collections
-- Bangkok (Thailand): stronger street-food breadth and cultural density
-- Salzburg (Austria): more coherent historic streetscape
+### Worldwide peer comparisons
+- [Vienna](../../../countries/AT/cities/vienna.yaml) (Austria): greater monumental architecture and historical collections
+- [Bangkok](../../../countries/TH/cities/bangkok.yaml) (Thailand): stronger street-food breadth and cultural density
+- [Salzburg](../../../countries/AT/cities/salzburg.yaml) (Austria): more coherent historic streetscape
 - Auckland (New Zealand): comparable harbor metropolis with less urban depth
 
-#### Scoring decisions
+### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
-| impact | 8.3 | Mountain-backed harbor and historic streets |
-| uniqueness | 8.4 | distinctive Tasmanian port and arts setting |
-| significance | 8.2 | significant colonial and maritime heritage |
-| experience | 8.5 | museums, markets and waterfront |
-| depth | 8.0 | substantial but compact urban breadth |
+| Impact | 8.3 | Mountain-backed harbor and historic streets |
+| Uniqueness | 8.4 | distinctive Tasmanian port and arts setting |
+| Significance | 8.2 | significant colonial and maritime heritage |
+| Experience | 8.5 | museums, markets and waterfront |
+| Depth | 8.0 | substantial but compact urban breadth |
 
 - Applicable categories: culture: 8.6, history: 8.6, nature: 8.5, food: 8.4
-- Computed worldwide overall: 83.05/100
+- Overall: 83.05/100
 - High-score challenge: No 9.5+ fields or 90+ total.
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide assessment.
 - Earlier decision: none.
 - Verification still needed: Coordinate is a gazetteer city point; additional venue-specific corroboration needed.
 
-### city-au-canberra — Canberra — 2026-11-25
+## city-au-canberra — Canberra — 2026-11-25
 
 - YAML: [source](../../../countries/AU/cities/canberra.yaml)
 - Action: new
@@ -232,30 +234,30 @@
   - https://www.australia.com/en-gb/travel-inspiration/where-to-visit.html
 - Missing or uncertain facts: Coordinate is a gazetteer city point; additional venue-specific corroboration needed.
 
-#### Worldwide peer comparisons
-- Vienna (Austria): greater monumental architecture and historical collections
-- Bangkok (Thailand): stronger street-food breadth and cultural density
-- Salzburg (Austria): more coherent historic streetscape
+### Worldwide peer comparisons
+- [Vienna](../../../countries/AT/cities/vienna.yaml) (Austria): greater monumental architecture and historical collections
+- [Bangkok](../../../countries/TH/cities/bangkok.yaml) (Thailand): stronger street-food breadth and cultural density
+- [Salzburg](../../../countries/AT/cities/salzburg.yaml) (Austria): more coherent historic streetscape
 - Auckland (New Zealand): comparable harbor metropolis with less urban depth
 
-#### Scoring decisions
+### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
-| impact | 7.7 | Formal planned civic landscape |
-| uniqueness | 8.2 | distinctive national capital design |
-| significance | 8.6 | major national political and museum significance |
-| experience | 8.3 | galleries and civic venues |
-| depth | 8.2 | several major institutions |
+| Impact | 7.7 | Formal planned civic landscape |
+| Uniqueness | 8.2 | distinctive national capital design |
+| Significance | 8.6 | major national political and museum significance |
+| Experience | 8.3 | galleries and civic venues |
+| Depth | 8.2 | several major institutions |
 
 - Applicable categories: architecture: 8.3, history: 8.8, culture: 8.8
-- Computed worldwide overall: 81.45/100
+- Overall: 81.45/100
 - High-score challenge: No 9.5+ fields or 90+ total.
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide assessment.
 - Earlier decision: none.
 - Verification still needed: Coordinate is a gazetteer city point; additional venue-specific corroboration needed.
 
-### city-au-darwin — Darwin — 2026-11-25
+## city-au-darwin — Darwin — 2026-11-25
 
 - YAML: [source](../../../countries/AU/cities/darwin.yaml)
 - Action: new
@@ -268,30 +270,30 @@
   - https://www.australia.com/en-gb/travel-inspiration/where-to-visit.html
 - Missing or uncertain facts: Coordinate is a gazetteer city point; additional venue-specific corroboration needed.
 
-#### Worldwide peer comparisons
-- Vienna (Austria): greater monumental architecture and historical collections
-- Bangkok (Thailand): stronger street-food breadth and cultural density
-- Salzburg (Austria): more coherent historic streetscape
+### Worldwide peer comparisons
+- [Vienna](../../../countries/AT/cities/vienna.yaml) (Austria): greater monumental architecture and historical collections
+- [Bangkok](../../../countries/TH/cities/bangkok.yaml) (Thailand): stronger street-food breadth and cultural density
+- [Salzburg](../../../countries/AT/cities/salzburg.yaml) (Austria): more coherent historic streetscape
 - Auckland (New Zealand): comparable harbor metropolis with less urban depth
 
-#### Scoring decisions
+### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
-| impact | 7.5 | Tropical waterfront setting |
-| uniqueness | 8.0 | distinctive northern multicultural city |
-| significance | 8.0 | regional wartime and Indigenous context |
-| experience | 8.0 | markets, museums and local waterfront |
-| depth | 7.7 | modest metropolitan depth |
+| Impact | 7.5 | Tropical waterfront setting |
+| Uniqueness | 8.0 | distinctive northern multicultural city |
+| Significance | 8.0 | regional wartime and Indigenous context |
+| Experience | 8.0 | markets, museums and local waterfront |
+| Depth | 7.7 | modest metropolitan depth |
 
 - Applicable categories: culture: 8.3, history: 8.0, food: 8.1
-- Computed worldwide overall: 78.20/100
+- Overall: 78.20/100
 - High-score challenge: No 9.5+ fields or 90+ total.
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide assessment.
 - Earlier decision: none.
 - Verification still needed: Coordinate is a gazetteer city point; additional venue-specific corroboration needed.
 
-### city-au-cairns — Cairns — 2026-11-25
+## city-au-cairns — Cairns — 2026-11-25
 
 - YAML: [source](../../../countries/AU/cities/cairns.yaml)
 - Action: new
@@ -304,30 +306,30 @@
   - https://www.australia.com/en-gb/travel-inspiration/where-to-visit.html
 - Missing or uncertain facts: Coordinate is a gazetteer city point; additional venue-specific corroboration needed.
 
-#### Worldwide peer comparisons
-- Vienna (Austria): greater monumental architecture and historical collections
-- Bangkok (Thailand): stronger street-food breadth and cultural density
-- Salzburg (Austria): more coherent historic streetscape
+### Worldwide peer comparisons
+- [Vienna](../../../countries/AT/cities/vienna.yaml) (Austria): greater monumental architecture and historical collections
+- [Bangkok](../../../countries/TH/cities/bangkok.yaml) (Thailand): stronger street-food breadth and cultural density
+- [Salzburg](../../../countries/AT/cities/salzburg.yaml) (Austria): more coherent historic streetscape
 - Auckland (New Zealand): comparable harbor metropolis with less urban depth
 
-#### Scoring decisions
+### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
-| impact | 7.5 | Tropical waterfront |
-| uniqueness | 7.5 | distinctive regional resort town but comparable globally |
-| significance | 7.0 | regional commercial role |
-| experience | 8.1 | esplanade and urban dining |
-| depth | 7.5 | limited local breadth without reef excursions |
+| Impact | 7.5 | Tropical waterfront |
+| Uniqueness | 7.5 | distinctive regional resort town but comparable globally |
+| Significance | 7.0 | regional commercial role |
+| Experience | 8.1 | esplanade and urban dining |
+| Depth | 7.5 | limited local breadth without reef excursions |
 
 - Applicable categories: nature: 7.8, food: 7.9, relaxation: 8.2
-- Computed worldwide overall: 74.90/100
+- Overall: 74.90/100
 - High-score challenge: No 9.5+ fields or 90+ total.
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide assessment.
 - Earlier decision: none.
 - Verification still needed: Coordinate is a gazetteer city point; additional venue-specific corroboration needed.
 
-### city-au-gold-coast — Gold Coast — 2026-11-25
+## city-au-gold-coast — Gold Coast — 2026-11-25
 
 - YAML: [source](../../../countries/AU/cities/gold-coast.yaml)
 - Action: new
@@ -340,30 +342,30 @@
   - https://www.australia.com/en-gb/travel-inspiration/where-to-visit.html
 - Missing or uncertain facts: Coordinate is a gazetteer city point; additional venue-specific corroboration needed.
 
-#### Worldwide peer comparisons
-- Vienna (Austria): greater monumental architecture and historical collections
-- Bangkok (Thailand): stronger street-food breadth and cultural density
-- Salzburg (Austria): more coherent historic streetscape
+### Worldwide peer comparisons
+- [Vienna](../../../countries/AT/cities/vienna.yaml) (Austria): greater monumental architecture and historical collections
+- [Bangkok](../../../countries/TH/cities/bangkok.yaml) (Thailand): stronger street-food breadth and cultural density
+- [Salzburg](../../../countries/AT/cities/salzburg.yaml) (Austria): more coherent historic streetscape
 - Auckland (New Zealand): comparable harbor metropolis with less urban depth
 
-#### Scoring decisions
+### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
-| impact | 8.1 | Long beachfront and towers |
-| uniqueness | 7.8 | distinctive large surf resort but global analogues |
-| significance | 6.9 | regional tourism role |
-| experience | 8.7 | beaches and entertainment |
-| depth | 8.3 | several coastal urban districts |
+| Impact | 8.1 | Long beachfront and towers |
+| Uniqueness | 7.8 | distinctive large surf resort but global analogues |
+| Significance | 6.9 | regional tourism role |
+| Experience | 8.7 | beaches and entertainment |
+| Depth | 8.3 | several coastal urban districts |
 
 - Applicable categories: beaches: 9.0, nightlife: 8.5, relaxation: 8.6
-- Computed worldwide overall: 78.95/100
+- Overall: 78.95/100
 - High-score challenge: No 9.5+ fields or 90+ total.
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide assessment.
 - Earlier decision: none.
 - Verification still needed: Coordinate is a gazetteer city point; additional venue-specific corroboration needed.
 
-### city-au-launceston — Launceston — 2026-11-25
+## city-au-launceston — Launceston — 2026-11-25
 
 - YAML: [source](../../../countries/AU/cities/launceston.yaml)
 - Action: new
@@ -376,30 +378,30 @@
   - https://www.australia.com/en-gb/travel-inspiration/where-to-visit.html
 - Missing or uncertain facts: Coordinate is a gazetteer city point; additional venue-specific corroboration needed.
 
-#### Worldwide peer comparisons
-- Vienna (Austria): greater monumental architecture and historical collections
-- Bangkok (Thailand): stronger street-food breadth and cultural density
-- Salzburg (Austria): more coherent historic streetscape
+### Worldwide peer comparisons
+- [Vienna](../../../countries/AT/cities/vienna.yaml) (Austria): greater monumental architecture and historical collections
+- [Bangkok](../../../countries/TH/cities/bangkok.yaml) (Thailand): stronger street-food breadth and cultural density
+- [Salzburg](../../../countries/AT/cities/salzburg.yaml) (Austria): more coherent historic streetscape
 - Auckland (New Zealand): comparable harbor metropolis with less urban depth
 
-#### Scoring decisions
+### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
-| impact | 7.6 | Historic streets and river gorge context |
-| uniqueness | 7.7 | distinctive compact Tasmanian town |
-| significance | 7.6 | regional colonial heritage |
-| experience | 7.9 | focused urban and riverside experiences |
-| depth | 7.5 | modest independent breadth |
+| Impact | 7.6 | Historic streets and river gorge context |
+| Uniqueness | 7.7 | distinctive compact Tasmanian town |
+| Significance | 7.6 | regional colonial heritage |
+| Experience | 7.9 | focused urban and riverside experiences |
+| Depth | 7.5 | modest independent breadth |
 
 - Applicable categories: architecture: 8.0, culture: 7.9, nature: 8.0
-- Computed worldwide overall: 76.60/100
+- Overall: 76.60/100
 - High-score challenge: No 9.5+ fields or 90+ total.
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide assessment.
 - Earlier decision: none.
 - Verification still needed: Coordinate is a gazetteer city point; additional venue-specific corroboration needed.
 
-### city-au-townsville — Townsville — 2026-11-25
+## city-au-townsville — Townsville — 2026-11-25
 
 - YAML: [source](../../../countries/AU/cities/townsville.yaml)
 - Action: new
@@ -412,26 +414,25 @@
   - https://www.australia.com/en-gb/travel-inspiration/where-to-visit.html
 - Missing or uncertain facts: Coordinate is a gazetteer city point; additional venue-specific corroboration needed.
 
-#### Worldwide peer comparisons
-- Vienna (Austria): greater monumental architecture and historical collections
-- Bangkok (Thailand): stronger street-food breadth and cultural density
-- Salzburg (Austria): more coherent historic streetscape
+### Worldwide peer comparisons
+- [Vienna](../../../countries/AT/cities/vienna.yaml) (Austria): greater monumental architecture and historical collections
+- [Bangkok](../../../countries/TH/cities/bangkok.yaml) (Thailand): stronger street-food breadth and cultural density
+- [Salzburg](../../../countries/AT/cities/salzburg.yaml) (Austria): more coherent historic streetscape
 - Auckland (New Zealand): comparable harbor metropolis with less urban depth
 
-#### Scoring decisions
+### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
-| impact | 7.5 | Tropical coast and hill backdrop |
-| uniqueness | 7.5 | regional coastal city identity |
-| significance | 7.3 | regional civic and maritime history |
-| experience | 7.7 | waterfront and local venues |
-| depth | 7.3 | moderate urban breadth |
+| Impact | 7.5 | Tropical coast and hill backdrop |
+| Uniqueness | 7.5 | regional coastal city identity |
+| Significance | 7.3 | regional civic and maritime history |
+| Experience | 7.7 | waterfront and local venues |
+| Depth | 7.3 | moderate urban breadth |
 
 - Applicable categories: nature: 7.9, culture: 7.6
-- Computed worldwide overall: 74.70/100
+- Overall: 74.70/100
 - High-score challenge: No 9.5+ fields or 90+ total.
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide assessment.
 - Earlier decision: none.
 - Verification still needed: Coordinate is a gazetteer city point; additional venue-specific corroboration needed.
-
