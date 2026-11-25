@@ -18,6 +18,8 @@
   - https://www.australia.com/en/things-to-do/nature-and-national-parks/australias-top-natural-attractions.html
 - Missing or uncertain facts: Whole inscribed reef system; representative offshore approximate point, not a dive location. High fields reflect reef-system scale, ecological diversity and varied visitor environments, not guaranteed coral condition; conservation threats documented by UNESCO. Coordinates other than explicitly sourced ones are approximate and need independent verification.
 
+- 2026-11-26 evidence follow-up: Reef Authority 2025–26 annual monitoring summary https://www.gbrmpa.gov.au/news/aims-long-term-monitoring-program-annual-summary-report-2025-26-released reports early recovery after widespread bleaching, while https://www.gbrmpa.gov.au/learn/reef-health/reef-snapshot records regional northern bleaching and localized impacts during the 2025–26 summer. Retain normal-condition system rating 96.80 provisionally; do not imply uniform current coral health or guaranteed encounters.
+
 ### Worldwide peer comparisons
 - Raja Ampat (Indonesia): exceptional reef biodiversity and islands
 - Tubbataha Reefs (Philippines): concentrated protected reef diving
@@ -64,6 +66,8 @@ High-score check: Raja Ampat impact 9.8, uniqueness 9.9, significance 9.5, depth
   - https://www.dcceew.gov.au/parks-heritage/heritage/places/world-heritage-list
   - https://www.australia.com/en/things-to-do/nature-and-national-parks/australias-top-natural-attractions.html
 - Missing or uncertain facts: Whole mixed property; Uluru component point. High fields reflect large-scale formations and enduring sacred meaning. No climbing or unrestricted access implied. Coordinates other than explicitly sourced ones are approximate and need independent verification.
+
+- 2026-11-26 visitor evidence: Parks Australia https://parksaustralia.gov.au/news/new-multi-day-uluru-walk-gives-back-community/ documents a new five-day walk; https://parksaustralia.gov.au/news/uluru-base-walk-track-repairs-and-temporary-closures-0/ documents repair-related temporary closures. Retain provisional whole-park 94.00; no assumption of unrestricted or currently open routes.
 
 ### Worldwide peer comparisons
 - Wadi Rum (Jordan): extensive sandstone desert scenery
@@ -1805,3 +1809,8 @@ This supplement preserves the prior individual decisions; no YAML ratings change
 - **sight-au-heard-mcdonald-islands:** Australian Antarctic Division states the 2014–2024 plan expired and has no legal effect (https://www.antarctica.gov.au/antarctic-operations/stations-and-field-locations/heard-island/protection-and-management/management-plan/). Transitional arrangements require assessment and authorisation of almost all activities (https://www.antarctica.gov.au/antarctic-operations/stations-and-field-locations/heard-island/protection-and-management/management-plan/transitional-management-arrangements/). A replacement draft was announced on 28 September 2026 (https://www.antarctica.gov.au/news/2026/public-consultation-opens-on-draft-marine-reserve-management-plan-for-heard-island-and-mcdonald-islands/); current tourism FAQ and historical permit do not establish a current ordinary visitor offer. Retain null experience/depth and do not use expired visitor-zone rules as current authority. Remoteness alone is not a score deduction.
 - **sight-au-great-sandy-world-heritage-area:** independently corroborated tentative extension scope and distinction from K’gari via UNESCO and Queensland government (https://whc.unesco.org/en/tentativelists/5480/; https://environment.qld.gov.au/management/world-heritage-areas/potential/faq). Keep 88.25 provisional and exclude inscribed K’gari and restricted military land from credited visitor experience; check actual route/zoning overlap before full fact-checked status.
 - **sight-au-workers-assembly-halls:** UNESCO's tentative listing and Heritage Victoria's 2026 nomination notice confirm the two Australian halls and transnational scope (https://whc.unesco.org/en/tentativelists/6698/; https://www.heritage.vic.gov.au/about-us/news/news-stories/melbournes-victorian-trades-hall-nominated-for-world-heritage-list). Keep 83.55 provisional; current interior access and representative GPS still need checks.
+
+
+### Heritage inventory recheck (2026-11-26)
+
+UNESCO country inventory https://whc.unesco.org/en/statesparties/au/ confirms 21 inscribed and eight tentative properties; existing property-level coverage retained. Serial components and ordinary visitor access remain incompletely verified.
