@@ -23,6 +23,8 @@
 | [Tartu (EE)](../../../countries/EE/cities/tartu.yaml) (8 / 8.1 / 8.4 / 8.5 / 8.3) | regional university city | Uniqueness higher: Danube capital with layered coronation heritage; depth higher: Several districts excluding Devín and external excursions. Current benchmark profile checked. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.6 | Castle skyline and historic streets |
@@ -58,6 +60,8 @@
 | [Tartu (EE)](../../../countries/EE/cities/tartu.yaml) (8 / 8.1 / 8.4 / 8.5 / 8.3) | regional university city | Uniqueness higher: Distinct coherent mining and civic urban fabric; depth higher: Town only not wider technical landscape. Current benchmark profile checked. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.9 | Historic mining town on steep hills |
@@ -93,6 +97,8 @@
 | [Tartu (EE)](../../../countries/EE/cities/tartu.yaml) (8 / 8.1 / 8.4 / 8.5 / 8.3) | regional university city | Uniqueness higher: Coherent Gothic merchant town; depth lower: Compact historic town. Current benchmark profile checked. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.8 | Medieval square and fortified streets |
@@ -128,6 +134,8 @@
 | [Tartu (EE)](../../../countries/EE/cities/tartu.yaml) (8 / 8.1 / 8.4 / 8.5 / 8.3) | regional university city | Uniqueness higher: Distinct eastern Slovak multicultural city; depth higher: Several urban districts. Current benchmark profile checked. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.7 | Long historic square and Gothic skyline |
@@ -163,6 +171,8 @@
 | [Tartu (EE)](../../../countries/EE/cities/tartu.yaml) (8 / 8.1 / 8.4 / 8.5 / 8.3) | regional university city | Uniqueness higher: Distinct medieval Spiš trading town; depth lower: Town excludes Spiš Castle. Current benchmark profile checked. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.7 | Preserved square and city walls |
@@ -198,6 +208,8 @@
 | [Tartu (EE)](../../../countries/EE/cities/tartu.yaml) (8 / 8.1 / 8.4 / 8.5 / 8.3) | regional university city | Uniqueness higher: Distinct Saxon trading town and religious heritage; depth lower: Several compact districts. Current benchmark profile checked. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.3 | Historic town streets and church towers |
@@ -233,6 +245,8 @@
 | [Tartu (EE)](../../../countries/EE/cities/tartu.yaml) (8 / 8.1 / 8.4 / 8.5 / 8.3) | regional university city | Uniqueness higher: Historic ecclesiastical and academic city; depth lower: Multiple compact districts. Current benchmark profile checked. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.3 | Church towers and medieval walls |
@@ -268,6 +282,8 @@
 | [Tartu (EE)](../../../countries/EE/cities/tartu.yaml) (8 / 8.1 / 8.4 / 8.5 / 8.3) | regional university city | Uniqueness higher: Mining and civic town heritage; depth higher: Several districts not surrounding mountains. Current benchmark profile checked. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.3 | Historic square and mountain backdrop |
@@ -303,6 +319,8 @@
 | [Tartu (EE)](../../../countries/EE/cities/tartu.yaml) (8 / 8.1 / 8.4 / 8.5 / 8.3) | regional university city | Uniqueness higher: Distinct fortified river town; depth lower: Exclude castle interior. Current benchmark profile checked. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.5 | Castle rock and historic streets |
@@ -325,8 +343,8 @@
 - Action: new
 - Precise subject: Nitra; Multiple neighborhoods.
 - Location check: 48.307, 18.084; approximate representative point, exact verification pending.
-- Evidence status: editorial-only
-- Evidence: No individual supporting source checked; editorial judgment.
+- Evidence status: source-linked-unverified
+- Evidence: https://slovakia.travel/en/nitra — National tourism authority describes castle, pilgrimage hill and town heritage. Reviewed 2026-11-25; partial support, not full independent verification.
 - Missing or uncertain facts: representative GPS and material claims, permitted access, more specific peers.
 
 #### Worldwide peer comparisons
@@ -338,6 +356,8 @@
 | [Tartu (EE)](../../../countries/EE/cities/tartu.yaml) (8 / 8.1 / 8.4 / 8.5 / 8.3) | regional university city | Uniqueness higher: Early Slovak religious center; depth similar: Multiple neighborhoods. Current benchmark profile checked. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.1 | Hilltop church skyline and urban streets |
@@ -360,8 +380,8 @@
 - Action: new
 - Precise subject: Žilina; Exclude Malá Fatra.
 - Location check: 49.223, 18.74; approximate representative point, exact verification pending.
-- Evidence status: editorial-only
-- Evidence: No individual supporting source checked; editorial judgment.
+- Evidence status: source-linked-unverified
+- Evidence: https://slovakia.travel/en/zilina — National tourism authority identifies historic square and old town hall. Reviewed 2026-11-25; partial support, not full independent verification.
 - Missing or uncertain facts: representative GPS and material claims, permitted access, more specific peers.
 
 #### Worldwide peer comparisons
@@ -373,6 +393,8 @@
 | [Tartu (EE)](../../../countries/EE/cities/tartu.yaml) (8 / 8.1 / 8.4 / 8.5 / 8.3) | regional university city | Uniqueness lower: Regional trading town fabric; depth lower: Exclude Malá Fatra. Current benchmark profile checked. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 7.9 | Arcaded market square |
@@ -395,8 +417,8 @@
 - Action: new
 - Precise subject: Poprad; Exclude Tatra trails.
 - Location check: 49.059, 20.297; approximate representative point, exact verification pending.
-- Evidence status: editorial-only
-- Evidence: No individual supporting source checked; editorial judgment.
+- Evidence status: source-linked-unverified
+- Evidence: https://slovakia.travel/en/things-to-see-and-do/discovering-slovakia-from-home/spisska-sobota — National tourism authority identifies Spišská Sobota as Poprad's preserved medieval urban district; this is partial city evidence, not the whole Tatras. Reviewed 2026-11-25; partial support, not full independent verification.
 - Missing or uncertain facts: representative GPS and material claims, permitted access, more specific peers.
 
 #### Worldwide peer comparisons
@@ -408,6 +430,8 @@
 | [Tartu (EE)](../../../countries/EE/cities/tartu.yaml) (8 / 8.1 / 8.4 / 8.5 / 8.3) | regional university city | Uniqueness lower: Regional mountain gateway and historic quarters; depth lower: Exclude Tatra trails. Current benchmark profile checked. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 7.7 | Town streets and distant peaks |
@@ -430,8 +454,8 @@
 - Action: new
 - Precise subject: Piešťany; Town and local spa district.
 - Location check: 48.59, 17.83; approximate representative point, exact verification pending.
-- Evidence status: editorial-only
-- Evidence: No individual supporting source checked; editorial judgment.
+- Evidence status: source-linked-unverified
+- Evidence: https://slovakia.travel/en/piestany — National tourism authority identifies spa island and historic bath buildings. Reviewed 2026-11-25; partial support, not full independent verification.
 - Missing or uncertain facts: representative GPS and material claims, permitted access, more specific peers.
 
 #### Worldwide peer comparisons
@@ -443,6 +467,8 @@
 | [Tartu (EE)](../../../countries/EE/cities/tartu.yaml) (8 / 8.1 / 8.4 / 8.5 / 8.3) | regional university city | Uniqueness higher: Distinct thermal resort tradition; depth lower: Town and local spa district. Current benchmark profile checked. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 7.9 | Spa parks and riverfront |
@@ -465,8 +491,8 @@
 - Action: new
 - Precise subject: Čičmany; Small settlement.
 - Location check: 48.956, 18.516; approximate representative point, exact verification pending.
-- Evidence status: editorial-only
-- Evidence: No individual supporting source checked; editorial judgment.
+- Evidence status: source-linked-unverified
+- Evidence: https://slovakia.travel/en/things-to-see-and-do/admire-slovakia-indoors/cicmany — National tourism authority describes painted wooden houses and folk ornament. Reviewed 2026-11-25; partial support, not full independent verification.
 - Missing or uncertain facts: representative GPS and material claims, permitted access, more specific peers.
 
 #### Worldwide peer comparisons
@@ -478,6 +504,8 @@
 | [Tartu (EE)](../../../countries/EE/cities/tartu.yaml) (8 / 8.1 / 8.4 / 8.5 / 8.3) | regional university city | Uniqueness higher: Distinct vernacular decorative tradition; depth lower: Small settlement. Current benchmark profile checked. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.4 | Painted geometric timber houses |
@@ -513,6 +541,8 @@
 | [Tartu (EE)](../../../countries/EE/cities/tartu.yaml) (8 / 8.1 / 8.4 / 8.5 / 8.3) | regional university city | Uniqueness higher: Rare coherent rural settlement; depth lower: Small inhabited settlement. Current benchmark profile checked. |
 
 #### Scoring decisions
+
+Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | impact | — | 8.5 | Traditional timber village and hillside |
