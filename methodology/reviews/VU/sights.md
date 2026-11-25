@@ -451,3 +451,108 @@
 - Earlier decision: none.
 - Verification still needed: Tentative only; midpoint of submitted bounds is not a site entrance. Respect customary restrictions.
 
+### sight-vu-lake-letas — Lake Letas — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/VU/sights/lake-letas.yaml)
+- Action: rescore
+- Precise subject: Lake only; exclude volcano summit and separate waterfall; confirm volcanic conditions and customary permission.
+- Location check: existing representative point retained; independent corroboration pending.
+- Evidence status: source-linked-unverified
+- Checked factual reference excerpts (2026-11-25):
+  - Tourism office describes guided lake trek — https://www.vanuatu.travel/en/lake-letas-and-mt-garet-trek
+  - Tourism office describes canoe crossing — https://www.vanuatu.travel/en/blog/top-10-experiences-in-vanuatu-s-outer-islands-from-north-to-south
+  - UNESCO tentative submission confirms lake and cultural importance — https://whc.unesco.org/en/tentativelists/1974
+- Missing or uncertain facts: Lake only; exclude volcano summit and separate waterfall; confirm volcanic conditions and customary permission.
+
+#### Worldwide peer comparisons
+- Cheow Lan (Thailand): greater karst spectacle and excursion breadth
+- Tonle Sap (Cambodia): greater ecological scale
+- Lake Bled (Slovenia): stronger built-natural landscape
+- Ngardok (Palau): smaller lake visit
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | 8.5 | 8.5 | Strong crater lake scenery |
+| Uniqueness | 8.6 | 8.6 | Distinct volcanic freshwater setting |
+| Significance | 8.7 | 8.7 | Geological and customary importance |
+| Experience | null | 8.4 | Guided lake visit and canoe crossing |
+| Depth | null | 8.0 | Multiple shore and water perspectives |
+
+- Applicable category scores: nature: 8.8, wildlife: 8.3 (unchanged).
+- Computed worldwide overall: 85.00/100
+- High-score challenge: no new 9.5+ or 90+ claim.
+- Approved 10 registry: none.
+- Final decision: provisional worldwide ranking on documented visitor scope; not independently verified.
+- Earlier decision: earlier entry for this ID, unranked.
+- Verification still needed: Lake only; exclude volcano summit and separate waterfall; confirm volcanic conditions and customary permission.
+
+### sight-vu-national-museum-vanuatu — National Museum of Vanuatu — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/VU/sights/national-museum-vanuatu.yaml)
+- Action: rescore
+- Precise subject: Institution normal-condition score; temporary location and current exhibit inventory need confirmation. Existing building GPS is not current admission location.
+- Location check: existing representative point retained; independent corroboration pending.
+- Evidence status: source-linked-unverified
+- Checked factual reference excerpts (2026-11-25):
+  - Tourism office describes sand drawing, music and traditional cultural interpretation — https://www.vanuatu.travel/en/things-to-do/culture/vanuatu-cultural-center
+  - Cultural Centre reports temporary relocation during renovation — https://vanuatuculturalcentre.gov.vu/index.php/tamtam-news/national-museum-new-location
+- Missing or uncertain facts: Institution normal-condition score; temporary location and current exhibit inventory need confirmation. Existing building GPS is not current admission location.
+
+#### Worldwide peer comparisons
+- National Museum of Korea (South Korea): larger collection
+- Kunsthistorisches Museum (Austria): greater art breadth
+- National Museum of Cambodia (Cambodia): larger archaeological sculpture collection
+- Naoero Museum (Nauru): more compact museum
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | 7.0 | 7.0 | Modest museum scale |
+| Uniqueness | 8.1 | 8.1 | Distinct Vanuatu kastom interpretation |
+| Significance | 8.3 | 8.3 | National heritage preservation |
+| Experience | null | 8.0 | Documented educational demonstrations |
+| Depth | null | 7.5 | Several exhibit themes but not world-leading collection scale |
+
+- Applicable category scores: culture: 8.5, history: 8.3 (unchanged).
+- Computed worldwide overall: 77.35/100
+- High-score challenge: no new 9.5+ or 90+ claim.
+- Approved 10 registry: none.
+- Final decision: provisional worldwide ranking on documented visitor scope; not independently verified.
+- Earlier decision: earlier entry for this ID, unranked.
+- Verification still needed: Institution normal-condition score; temporary location and current exhibit inventory need confirmation. Existing building GPS is not current admission location.
+
+### sight-vu-vatthe-conservation-area — Vatthe Conservation Area — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/VU/sights/vatthe-conservation-area.yaml)
+- Action: rescore
+- Precise subject: Only authorized reserve walks credited; confirm route and guide availability.
+- Location check: existing representative point retained; independent corroboration pending.
+- Evidence status: source-linked-unverified
+- Checked factual reference excerpts (2026-11-25):
+  - Tourism office lists birdwatching — https://www.vanuatu.travel/en/plan/tours/eco-and-nature-tours
+  - Local tour listing documents guided reserve tours of different lengths — https://www.vanuatu.travel/en/bay-of-illusions-guesthouse
+- Missing or uncertain facts: Only authorized reserve walks credited; confirm route and guide availability.
+
+#### Worldwide peer comparisons
+- Taman Negara (Malaysia): greater forest scale
+- Khao Sok (Thailand): greater landscape variety
+- Kinabalu Park (Malaysia): greater montane biodiversity
+- Tetepare (Solomon Islands): comparable conservation visit
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | 7.9 | 7.9 | Attractive forest setting |
+| Uniqueness | 8.0 | 8.0 | Distinct island lowland forest |
+| Significance | 8.6 | 8.6 | Protected habitat importance |
+| Experience | null | 8.2 | Guided walks and birding |
+| Depth | null | 8.1 | Several trail options |
+
+- Applicable category scores: nature: 8.5, wildlife: 8.4 (unchanged).
+- Computed worldwide overall: 81.30/100
+- High-score challenge: no new 9.5+ or 90+ claim.
+- Approved 10 registry: none.
+- Final decision: provisional worldwide ranking on documented visitor scope; not independently verified.
+- Earlier decision: earlier entry for this ID, unranked.
+- Verification still needed: Only authorized reserve walks credited; confirm route and guide availability.
