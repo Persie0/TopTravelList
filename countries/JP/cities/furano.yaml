@@ -1,0 +1,15 @@
+id: city-jp-furano
+name: "Furano"
+location:
+  country_code: JP
+  latitude: 43.3420
+  longitude: 142.3832
+scores:
+  impact: 7.6
+  uniqueness: 7.7
+  significance: 6.8
+  experience: 8.3
+  depth: 7.6
+  categories:
+    nature: 8.3
+    relaxation: 8.2

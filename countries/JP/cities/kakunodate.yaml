@@ -1,0 +1,16 @@
+id: city-jp-kakunodate
+name: "Kakunodate"
+location:
+  country_code: JP
+  latitude: 39.5966
+  longitude: 140.5627
+scores:
+  impact: 8.1
+  uniqueness: 8.5
+  significance: 8.3
+  experience: 8.3
+  depth: 7.6
+  categories:
+    architecture: 8.7
+    history: 8.5
+    photography: 8.7

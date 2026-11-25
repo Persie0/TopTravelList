@@ -1,0 +1,16 @@
+id: city-jp-ginzan-onsen
+name: "Ginzan Onsen"
+location:
+  country_code: JP
+  latitude: 38.5733
+  longitude: 140.5302
+scores:
+  impact: 8.3
+  uniqueness: 8.8
+  significance: 7.8
+  experience: 8.6
+  depth: 7.1
+  categories:
+    relaxation: 9.0
+    architecture: 8.8
+    photography: 9.0

@@ -1,0 +1,15 @@
+id: city-jp-izumo
+name: "Izumo"
+location:
+  country_code: JP
+  latitude: 35.3670
+  longitude: 132.7547
+scores:
+  impact: 7.5
+  uniqueness: 7.8
+  significance: 8.3
+  experience: 8.0
+  depth: 7.5
+  categories:
+    culture: 8.7
+    history: 8.4

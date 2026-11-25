@@ -1,0 +1,15 @@
+id: city-jp-kusatsu-onsen
+name: "Kusatsu Onsen"
+location:
+  country_code: JP
+  latitude: 36.6206
+  longitude: 138.5960
+scores:
+  impact: 8.4
+  uniqueness: 8.7
+  significance: 7.9
+  experience: 8.9
+  depth: 8.0
+  categories:
+    relaxation: 9.4
+    culture: 8.7

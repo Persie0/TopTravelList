@@ -1,0 +1,15 @@
+id: city-jp-kushiro
+name: "Kushiro"
+location:
+  country_code: JP
+  latitude: 42.9849
+  longitude: 144.3814
+scores:
+  impact: 7.1
+  uniqueness: 7.2
+  significance: 7.1
+  experience: 7.7
+  depth: 7.5
+  categories:
+    food: 8.0
+    culture: 7.5

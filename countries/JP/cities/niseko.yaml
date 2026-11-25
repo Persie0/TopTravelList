@@ -1,0 +1,15 @@
+id: city-jp-niseko
+name: "Niseko"
+location:
+  country_code: JP
+  latitude: 42.8048
+  longitude: 140.6874
+scores:
+  impact: 7.7
+  uniqueness: 7.8
+  significance: 6.6
+  experience: 8.5
+  depth: 7.8
+  categories:
+    adventure: 9.0
+    relaxation: 8.5

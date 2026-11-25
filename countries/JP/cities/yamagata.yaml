@@ -1,0 +1,15 @@
+id: city-jp-yamagata
+name: "Yamagata"
+location:
+  country_code: JP
+  latitude: 38.2554
+  longitude: 140.3396
+scores:
+  impact: 7.3
+  uniqueness: 7.4
+  significance: 7.5
+  experience: 7.8
+  depth: 7.6
+  categories:
+    food: 8.0
+    culture: 7.8

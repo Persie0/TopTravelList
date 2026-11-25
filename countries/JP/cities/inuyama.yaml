@@ -1,0 +1,15 @@
+id: city-jp-inuyama
+name: "Inuyama"
+location:
+  country_code: JP
+  latitude: 35.3787
+  longitude: 136.9446
+scores:
+  impact: 7.8
+  uniqueness: 8.0
+  significance: 8.2
+  experience: 8.2
+  depth: 7.6
+  categories:
+    architecture: 8.5
+    history: 8.4

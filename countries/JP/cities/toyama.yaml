@@ -1,0 +1,15 @@
+id: city-jp-toyama
+name: "Toyama"
+location:
+  country_code: JP
+  latitude: 36.6953
+  longitude: 137.2113
+scores:
+  impact: 7.4
+  uniqueness: 7.4
+  significance: 7.3
+  experience: 7.9
+  depth: 7.8
+  categories:
+    food: 8.2
+    culture: 7.6

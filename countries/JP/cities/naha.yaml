@@ -1,0 +1,16 @@
+id: city-jp-naha
+name: "Naha"
+location:
+  country_code: JP
+  latitude: 26.2124
+  longitude: 127.6809
+scores:
+  impact: 8.4
+  uniqueness: 8.7
+  significance: 8.9
+  experience: 8.7
+  depth: 8.5
+  categories:
+    culture: 9.1
+    food: 8.9
+    history: 8.9

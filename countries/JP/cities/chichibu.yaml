@@ -1,0 +1,15 @@
+id: city-jp-chichibu
+name: "Chichibu"
+location:
+  country_code: JP
+  latitude: 35.9918
+  longitude: 139.0855
+scores:
+  impact: 7.3
+  uniqueness: 7.6
+  significance: 7.7
+  experience: 8.0
+  depth: 7.6
+  categories:
+    culture: 8.2
+    nature: 7.9

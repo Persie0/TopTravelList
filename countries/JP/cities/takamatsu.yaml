@@ -1,0 +1,15 @@
+id: city-jp-takamatsu
+name: "Takamatsu"
+location:
+  country_code: JP
+  latitude: 34.3428
+  longitude: 134.0466
+scores:
+  impact: 7.9
+  uniqueness: 7.9
+  significance: 7.9
+  experience: 8.4
+  depth: 8.2
+  categories:
+    food: 8.5
+    culture: 8.3

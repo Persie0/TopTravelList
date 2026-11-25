@@ -1,0 +1,15 @@
+id: city-jp-miyazaki
+name: "Miyazaki"
+location:
+  country_code: JP
+  latitude: 31.9077
+  longitude: 131.4202
+scores:
+  impact: 7.5
+  uniqueness: 7.5
+  significance: 7.6
+  experience: 8.0
+  depth: 7.9
+  categories:
+    beaches: 8.1
+    food: 8.0

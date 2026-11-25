@@ -1,0 +1,15 @@
+id: city-jp-tsuwano
+name: "Tsuwano"
+location:
+  country_code: JP
+  latitude: 34.4674
+  longitude: 131.7739
+scores:
+  impact: 7.9
+  uniqueness: 8.2
+  significance: 8.1
+  experience: 8.3
+  depth: 7.5
+  categories:
+    architecture: 8.5
+    culture: 8.4

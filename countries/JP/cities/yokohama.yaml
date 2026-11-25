@@ -1,0 +1,16 @@
+id: city-jp-yokohama
+name: "Yokohama"
+location:
+  country_code: JP
+  latitude: 35.4437
+  longitude: 139.6380
+scores:
+  impact: 8.4
+  uniqueness: 8.5
+  significance: 8.5
+  experience: 8.8
+  depth: 8.8
+  categories:
+    architecture: 8.7
+    food: 8.8
+    culture: 8.6

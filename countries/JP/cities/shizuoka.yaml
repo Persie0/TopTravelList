@@ -1,0 +1,15 @@
+id: city-jp-shizuoka
+name: "Shizuoka"
+location:
+  country_code: JP
+  latitude: 34.9756
+  longitude: 138.3828
+scores:
+  impact: 7.6
+  uniqueness: 7.6
+  significance: 7.8
+  experience: 8.0
+  depth: 8.0
+  categories:
+    food: 8.3
+    culture: 7.9

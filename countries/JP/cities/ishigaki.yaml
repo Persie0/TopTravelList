@@ -1,0 +1,15 @@
+id: city-jp-ishigaki
+name: "Ishigaki"
+location:
+  country_code: JP
+  latitude: 24.3400
+  longitude: 124.1556
+scores:
+  impact: 7.8
+  uniqueness: 7.9
+  significance: 7.3
+  experience: 8.4
+  depth: 7.7
+  categories:
+    food: 8.3
+    relaxation: 8.4

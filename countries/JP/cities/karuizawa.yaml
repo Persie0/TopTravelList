@@ -1,0 +1,15 @@
+id: city-jp-karuizawa
+name: "Karuizawa"
+location:
+  country_code: JP
+  latitude: 36.3483
+  longitude: 138.5969
+scores:
+  impact: 7.7
+  uniqueness: 7.6
+  significance: 7.2
+  experience: 8.4
+  depth: 7.8
+  categories:
+    relaxation: 8.8
+    nature: 8.2

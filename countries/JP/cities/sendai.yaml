@@ -1,0 +1,16 @@
+id: city-jp-sendai
+name: "Sendai"
+location:
+  country_code: JP
+  latitude: 38.2682
+  longitude: 140.8694
+scores:
+  impact: 8.0
+  uniqueness: 7.9
+  significance: 8.1
+  experience: 8.4
+  depth: 8.3
+  categories:
+    food: 8.6
+    history: 8.3
+    culture: 8.3

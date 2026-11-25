@@ -1,0 +1,15 @@
+id: city-jp-shimoda
+name: "Shimoda"
+location:
+  country_code: JP
+  latitude: 34.6796
+  longitude: 138.9456
+scores:
+  impact: 7.8
+  uniqueness: 8.0
+  significance: 8.2
+  experience: 8.3
+  depth: 7.7
+  categories:
+    history: 8.5
+    beaches: 8.5

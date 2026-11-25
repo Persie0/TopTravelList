@@ -1,0 +1,15 @@
+id: city-jp-asahikawa
+name: "Asahikawa"
+location:
+  country_code: JP
+  latitude: 43.7706
+  longitude: 142.3650
+scores:
+  impact: 7.1
+  uniqueness: 7.0
+  significance: 7.0
+  experience: 7.7
+  depth: 7.6
+  categories:
+    food: 8.0
+    family: 7.8

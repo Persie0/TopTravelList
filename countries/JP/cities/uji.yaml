@@ -1,0 +1,16 @@
+id: city-jp-uji
+name: "Uji"
+location:
+  country_code: JP
+  latitude: 34.8845
+  longitude: 135.7998
+scores:
+  impact: 8.0
+  uniqueness: 8.3
+  significance: 8.6
+  experience: 8.4
+  depth: 7.9
+  categories:
+    culture: 8.8
+    history: 8.6
+    food: 8.9

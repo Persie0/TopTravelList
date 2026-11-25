@@ -1,0 +1,15 @@
+id: city-jp-hagi
+name: "Hagi"
+location:
+  country_code: JP
+  latitude: 34.4081
+  longitude: 131.3991
+scores:
+  impact: 8.2
+  uniqueness: 8.6
+  significance: 8.8
+  experience: 8.4
+  depth: 8.1
+  categories:
+    history: 9.0
+    architecture: 8.8
