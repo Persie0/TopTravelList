@@ -1,0 +1,16 @@
+id: city-iq-baghdad
+name: "Baghdad"
+location:
+  country_code: IQ
+  latitude: 33.3152
+  longitude: 44.3661
+scores:
+  impact: 8.3
+  uniqueness: 8.8
+  significance: 9.2
+  experience: 8.0
+  depth: 8.5
+  categories:
+    history: 9.2
+    culture: 9.0
+    food: 8.5
