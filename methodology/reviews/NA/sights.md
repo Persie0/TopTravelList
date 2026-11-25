@@ -65,70 +65,6 @@
 - Final decision: Provisional worldwide editorial rating, not independently fact-checked.
 - Verification still needed: access, exact points where provisional, remaining peer scores and independent claim-level evidence.
 
-## sight-na-deadvlei — Deadvlei — 2026-11-25
-
-- YAML: [source](../../../countries/NA/sights/deadvlei.yaml)
-- Action: new
-- Precise subject: Single clay pan with dead trees and surrounding dune views; not whole dune circuit.
-- Location check: -24.7629, 15.2949; representative point; exact entrance not verified.
-- Evidence status: **source-linked-unverified**
-- Sources (2026-11-25; identity, location, heritage and/or visitor context, independent claim verification incomplete):
-  - https://www.sossusvlei.org/attractions/
-  - https://mapcarta.com/W106126897
-  - https://africacompass.com/destinations/southern-africa/namibia/things-to-do/
-- Missing facts: Current conditions and full claim-level verification.
-
-### Worldwide peer comparisons
-- Grand Canyon (USA): World-leading geological scenery and visitor breadth; current YAML not verified.
-- Wadi Rum (Jordan): Comparable arid rock and dune setting with broader desert activities; score unverified.
-- [Grossglockner High Alpine Road (AT)](../../../countries/AT/sights/grossglockner-high-alpine-road.yaml): 9.2/9.1/8.9/9.5/8.9; developed scenic circuit, different geology.
-- [Sehlabathebe (LS)](../../../countries/LS/sights/sehlabathebe-national-park.yaml): 9.1/9.0/9.3/8.6/8.8; regional scenic landscape.
-
-### Scoring decisions
-- Impact: 9.8 — Extraordinary sculptural dead trees and contrasting colours.
-- Uniqueness: 9.7 — Rare visual composition of pan, trees and dunes.
-- Significance: 8.8 — Regional geomorphological relevance.
-- Experience: 9.3 — Established walking access and viewing.
-- Depth: 8.0 — Compact pan, not multi-day desert experience.
-- Applicable categories: nature 9.5, photography 9.8.
-- Overall: 93.20/100.
-- High-score challenge: Impact/photography 9.8, uniqueness 9.7 and nature 9.5 reflect unusually striking natural composition; compact single-pan scope caps depth.
-- Approved 10 registry: none.
-- Final decision: Provisional worldwide editorial rating, not independently fact-checked.
-- Verification still needed: access, exact points where provisional, remaining peer scores and independent claim-level evidence.
-
-## sight-na-etosha-national-park — Etosha National Park — 2026-11-25
-
-- YAML: [source](../../../countries/NA/sights/etosha-national-park.yaml)
-- Action: new
-- Precise subject: Park safari circuit including tentative Etosha Pan as central feature; no duplicate pan total, regional representative point.
-- Location check: -19, 16; representative point; exact entrance not verified.
-- Evidence status: **source-linked-unverified**
-- Sources (2026-11-25; identity, location, heritage and/or visitor context, independent claim verification incomplete):
-  - https://www.meft.gov.na/visit-namibia/namibias-key-attractions/100/
-  - https://whc.unesco.org/en/tentativelists/6095/
-  - https://mapcarta.com/Etosha_National_Park
-  - https://visitnamibia.com.na/national-parks/
-- Missing facts: Current conditions and full claim-level verification.
-
-### Worldwide peer comparisons
-- [Okavango Delta (BW)](../../../countries/BW/sights/okavango-delta.yaml): 9.8/9.9/9.8/9.5/9.8; world-leading habitat and visitor diversity.
-- [Khao Yai (TH)](../../../countries/TH/sights/khao-yai-national-park.yaml): 9.0/9.1/9.0/9.0/9.2; developed forest routes.
-- [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml): 8.9/9.0/9.0/9.1/8.6; managed wildlife viewing.
-- [Sehlabathebe (LS)](../../../countries/LS/sights/sehlabathebe-national-park.yaml): 9.1/9.0/9.3/8.6/8.8; regional protected landscape.
-
-### Scoring decisions
-- Impact: 9.5 — Exceptional wildlife and salt-pan contrasts.
-- Uniqueness: 9.5 — Distinct waterhole-centred safari landscape.
-- Significance: 9.5 — Internationally important conservation habitat.
-- Experience: 9.5 — Established self-drive and camp waterhole visits.
-- Depth: 9.5 — Varied routes, seasons and viewing environments.
-- Applicable categories: nature 9.5, wildlife 9.8, photography 9.5.
-- Overall: 95.00/100.
-- High-score challenge: All five core fields 9.5, nature/photography 9.5 and wildlife 9.8 recognize exceptional waterhole viewing and pan setting; Okavango has broader habitat and activity diversity. No guaranteed sightings.
-- Approved 10 registry: none.
-- Final decision: Provisional worldwide editorial rating, not independently fact-checked.
-- Verification still needed: access, exact points where provisional, remaining peer scores and independent claim-level evidence.
 
 ## sight-na-fish-river-canyon — Fish River Canyon — 2026-11-25
 
@@ -607,5 +543,129 @@
 
 ## Inventory coverage and backlog
 
-[UNESCO country inventory](https://whc.unesco.org/en/statesparties/na/) lists two inscribed and eight tentative properties, all represented at property or component level. Etosha Pan is included in the Etosha National Park visitor record, not a duplicate overall rating. Both Namibia Okavango proposed extension components separately assessed. Full Namib Sand Sea remains unranked; Sossusvlei and Deadvlei have separately scoped visitor records. Benguela island/platform components, Huns-Ai-Ais and Sperrgebiet proposed portions, separate Mahango/Buffalo areas and permitted community-led San attractions remain backlog. Additional attractions including Sandwich Harbour, Sesriem Canyon, Quiver Tree Forest, Hoba meteorite, museums and regional towns require assessment. No exhaustive inventory claimed.
+[UNESCO country inventory](https://whc.unesco.org/en/statesparties/na/) lists two inscribed and eight tentative properties, all represented at property or component level. Etosha Pan is included in the Etosha National Park visitor record, not a duplicate overall rating. Both Namibia Okavango proposed extension components separately assessed. Full Namib Sand Sea remains unranked; Sossusvlei and Deadvlei have separately scoped visitor records. Benguela island/platform components, Huns-Ai-Ais and Sperrgebiet proposed portions, separate Mahango/Buffalo areas and permitted community-led San attractions remain backlog. Sandwich Harbour and Hoba meteorite now individually reviewed. Sesriem Canyon, Quiver Tree Forest, museums and regional towns remain backlog. No exhaustive inventory claimed.
 
+
+
+## sight-na-etosha-national-park — Etosha National Park — 2026-11-26
+
+- YAML: [source](../../../countries/NA/sights/etosha-national-park.yaml)
+- Action: rescore
+- Precise subject: Park safari including pan; no guaranteed sightings.
+- Location check: -19, 16; existing representative point retained, independent corroboration pending.
+- Evidence status: source-linked-unverified
+- Factual sources consulted 2026-11-26: MEFT https://www.meft.gov.na/national-parks/etosha-national-park/217 and https://visitnamibia.com.na/2022/02/etosha-national-park/ (indexed excerpts): mammal diversity and waterhole viewing. Prior UNESCO tentative listing https://whc.unesco.org/en/tentativelists/6095/.
+- Missing facts: current conditions and full independent verification.
+
+### Worldwide peer comparisons
+- [okavango-delta (BW)](../../../countries/BW/sights/okavango-delta.yaml), 9.8/9.9/9.8/9.5/9.8: broader wetland habitats and boat safari.
+- [kaziranga-national-park (IN)](../../../countries/IN/sights/kaziranga-national-park.yaml), 9.7/9.7/9.8/9.7/9.3: stronger global rhino conservation importance.
+- [chobe-national-park (BW)](../../../countries/BW/sights/chobe-national-park.yaml), 9.5/9.4/9.3/9.4/9.3: similar safari intensity; river rather than pan.
+- [khao-yai-national-park (TH)](../../../countries/TH/sights/khao-yai-national-park.yaml), 9.0/9.1/9.0/9.0/9.2: more forest trails, less concentrated mammal viewing.
+
+### Scoring decisions
+- Impact: 9.5 — Extraordinary salt pan and waterholes.
+- Uniqueness: 9.5 — Distinct pan safari.
+- Significance: 9.4 — Below Kaziranga and Okavango global significance.
+- Experience: 9.4 — Established self-drive and camps, comparable Chobe.
+- Depth: 9.3 — Extensive routes but restricted pan; below Okavango breadth.
+- Applicable categories: wildlife 9.8, nature 9.5, photography 9.5.
+- Overall: 94.45/100.
+- High-score challenge: Impact/uniqueness 9.5 and nature/photography 9.5 comparable Chobe; wildlife 9.8 matches Chobe, below Kaziranga and Okavango 9.9. Reduced identical core marks individually.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide V2 editorial rating.
+- Earlier decision: - Overall: 95.00/100. [Preserved earlier decision](history-review-2026-11-26.md).
+- Verification still needed: independent claim verification, current access and finer same-type peer comparisons where available.
+
+
+## sight-na-deadvlei — Deadvlei — 2026-11-26
+
+- YAML: [source](../../../countries/NA/sights/deadvlei.yaml)
+- Action: rescore
+- Precise subject: Individual pan and dead trees, excludes separate dune circuit.
+- Location check: -24.7629, 15.2949; existing representative point retained, independent corroboration pending.
+- Evidence status: source-linked-unverified
+- Factual sources consulted 2026-11-26: https://www.sossusvlei.org/attractions/deadvlei/ and https://www.sossusvlei.org/about/ (indexed excerpts): distinct clay pan and dead trees; existing mapped point https://mapcarta.com/W106126897.
+- Missing facts: current conditions and full independent verification.
+
+### Worldwide peer comparisons
+- [wadi-rum-protected-area (JO)](../../../countries/JO/sights/wadi-rum-protected-area.yaml), 9.8/9.7/9.4/9.6/9.5: much broader rock and dune experience.
+- [grand-canyon-national-park (US)](../../../countries/US/sights/grand-canyon-national-park.yaml), 9.9/9.7/9.6/9.4/9.6: far greater geological scope.
+- [white-sand-dunes-mui-ne (VN)](../../../countries/VN/sights/white-sand-dunes-mui-ne.yaml), 8.5/8.6/7.2/9.0/8.1: less distinctive dunes, broader circuit than single pan.
+- [red-sand-dunes-mui-ne (VN)](../../../countries/VN/sights/red-sand-dunes-mui-ne.yaml), 8.4/8.2/6.9/8.9/6.9: ordinary dune setting.
+
+### Scoring decisions
+- Impact: 9.6 — Exceptional sculptural scene.
+- Uniqueness: 9.5 — Rare tree-pan-dune composition.
+- Significance: 8.7 — Regional geomorphology, not whole property.
+- Experience: 9 — Focused walk and viewing.
+- Depth: 7.8 — Compact single pan.
+- Applicable categories: photography 9.7, nature 9.3.
+- Overall: 91.25/100.
+- High-score challenge: Impact 9.6 and uniqueness 9.5 reflect rare composition, below Wadi Rum and Grand Canyon broader landscapes; photography 9.7 below Wadi Rum 9.8. No whole-property credit.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide V2 editorial rating.
+- Earlier decision: - Overall: 93.20/100. [Preserved earlier decision](history-review-2026-11-26.md).
+- Verification still needed: independent claim verification, current access and finer same-type peer comparisons where available.
+
+
+## sight-na-sandwich-harbour — Sandwich Harbour — 2026-11-26
+
+- YAML: [source](../../../countries/NA/sights/sandwich-harbour.yaml)
+- Action: new
+- Precise subject: Coastal dune-lagoon and authorized guided routes; not entire Namib Sand Sea.
+- Location check: -23.3333, 14.5; published representative point, not entrance.
+- Evidence status: source-linked-unverified
+- Factual sources consulted 2026-11-26: KBA https://www.keybiodiversityareas.org/en/site/factsheet/6713 (page inspected): central coordinates, lagoon and waterbird habitat; historical assessment. MEFT https://www.meft.gov.na/faqs/ (indexed excerpt): permits. https://www.mola-namibia.com/sandwich-harbour/how-to-visit/ (commercial indexed excerpt): guided tide-dependent routes.
+- Missing facts: current conditions and full independent verification.
+
+### Worldwide peer comparisons
+- [okavango-delta (BW)](../../../countries/BW/sights/okavango-delta.yaml), 9.8/9.9/9.8/9.5/9.8: broader wetland habitats and boat safari.
+- [wadi-rum-protected-area (JO)](../../../countries/JO/sights/wadi-rum-protected-area.yaml), 9.8/9.7/9.4/9.6/9.5: much broader rock and dune experience.
+- [suncheon-bay-wetland-reserve (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml), 8.9/9.0/9.0/9.1/8.6: more developed walking, less dramatic desert context.
+- [tam-giang-lagoon (VN)](../../../countries/VN/sights/tam-giang-lagoon.yaml), 8.7/8.8/8.2/9.0/9.1: broader boating and community visits.
+
+### Scoring decisions
+- Impact: 9.4 — Dramatic dune-ocean interface.
+- Uniqueness: 9.4 — Rare coastal wetland and dune combination.
+- Significance: 9.2 — International wetland conservation.
+- Experience: 9 — Guided visits conditional on tide/permit.
+- Depth: 8.6 — Several views but narrower than major wetlands.
+- Applicable categories: nature 9.4, wildlife 9, photography 9.5, adventure 9.1.
+- Overall: 92.20/100.
+- High-score challenge: Photography 9.5 due to dune-ocean contrast, below Wadi Rum 9.8.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide V2 editorial rating.
+- Earlier decision: none.
+- Verification still needed: independent claim verification, current access and finer same-type peer comparisons where available.
+
+
+## sight-na-hoba-meteorite — Hoba Meteorite — 2026-11-26
+
+- YAML: [source](../../../countries/NA/sights/hoba-meteorite.yaml)
+- Action: new
+- Precise subject: In-situ meteorite and immediate visitor center.
+- Location check: -19.5925, 17.933611; published representative point, not entrance.
+- Evidence status: source-linked-unverified
+- Factual sources consulted 2026-11-26: IUGS https://iugs-geoheritage.org/geoheritage_sites/the-hoba-meteorite/ (page inspected): largest known single meteorite, research, visitor center and coordinates 19°35′33″S 17°56′01″E. Heritage Council https://nhc-nam.org/heritage-objects/ (indexed excerpt): national monument.
+- Missing facts: current conditions and full independent verification.
+
+### Worldwide peer comparisons
+- [grand-canyon-national-park (US)](../../../countries/US/sights/grand-canyon-national-park.yaml), 9.9/9.7/9.6/9.4/9.6: far greater geological scope.
+- [wadi-rum-um-fruth-rock-bridge (JO)](../../../countries/JO/sights/wadi-rum-um-fruth-rock-bridge.yaml), 8.3/8.4/7.4/8.3/6.8: similar compact geologic feature; less scientific importance.
+- [tu-san-canyon (VN)](../../../countries/VN/sights/tu-san-canyon.yaml), 9.3/9.3/8.4/9.0/8.2: more scenic breadth, different geology.
+- [wadi-hasa-canyon (JO)](../../../countries/JO/sights/wadi-hasa-canyon.yaml), 8.4/8.3/7.5/8.6/8.1: more walking, less singular scientific importance.
+
+### Scoring decisions
+- Impact: 8.2 — Striking exposed iron mass.
+- Uniqueness: 9.6 — Largest known single specimen.
+- Significance: 9.5 — International scientific importance.
+- Experience: 7.9 — Focused object and center visit.
+- Depth: 6.7 — Single object limits depth.
+- Applicable categories: nature 9.
+- Overall: 86.15/100.
+- High-score challenge: Uniqueness 9.6 and significance 9.5 supported by IUGS size and scientific use; no exact same-type YAML peers checked, geological analogues only.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide V2 editorial rating.
+- Earlier decision: none.
+- Verification still needed: independent claim verification, current access and finer same-type peer comparisons where available.
