@@ -334,15 +334,16 @@
 ## sight-sd-dungonab-bay-mukkawar — Dungonab Bay–Mukkawar Island Marine National Park — 2026-11-25
 
 - YAML: [source](../../../countries/SD/sights/dungonab-bay-mukkawar.yaml)
-- Action: new
-- Precise subject: Second marine component, not Sanganeb. Full ordinary visitor circuit not established.
+- Action: rescore (second review, 2026-11-25; initial decision preserved in [verification history](verification-2026-11-25.md))
+- Precise subject: Second marine component, not Sanganeb. Historical seasonal liveaboard diving and manta snorkeling documented; current access not asserted.
 - Location check: 20.937222, 37.255278; representative point, exact entrance not verified.
-- Evidence status: **unassessed**
+- Evidence status: **source-linked-unverified**
 - Sources (2026-11-25; support identity, heritage, geographic context or historical visits; incomplete triangulation):
   - https://whc.unesco.org/en/list/262/
   - https://whc.unesco.org/en/list/262/maps/
   - https://sudanembassy-turkiye.net/en/about-sudan/tourism/
-- Missing facts: Ordinary permitted visitor experience or accessible scope insufficiently documented.
+  - https://doi.org/10.1186/s40462-022-00314-9 — Knochel et al., Movement Ecology (2022), accessed 2026-11-25: discussion documents longstanding liveaboards and seasonal snorkeling visits, while acoustic data show seasonal manta presence. Not a current-access guarantee.
+- Missing facts: Current condition, access and full independent claim-level verification.
 
 ### Worldwide peer comparisons
 - Great Barrier Reef (Australia): World-leading reef system, vastly greater scale.
@@ -354,13 +355,13 @@
 - Impact: 9.2 — Varied reef and island habitats.
 - Uniqueness: 9.4 — Rare habitat mosaic and seasonal aggregations.
 - Significance: 9.6 — Globally significant dugong population.
-- Experience: null — Park-specific normal visitor access unclear.
-- Depth: null — Accessible circuit breadth uncertain.
+- Experience: 8.8 — Established historical seasonal diving and snorkeling, below Similan's breadth of established visitor experience; encounters not assured.
+- Depth: 8.6 — Multiple reef and coastal habitats with documented marine excursions, but not every habitat is ordinarily visitable.
 - Applicable categories: nature 9.6, wildlife 9.7.
-- Overall: unranked.
-- High-score challenge: Significance and nature 9.6, wildlife 9.7 reflect globally important dugong population and habitat diversity; no guaranteed sightings, no total.
+- Overall: 92.10/100.
+- High-score challenge: Significance and nature 9.6, wildlife 9.7 reflect globally important dugong population and habitat diversity; no guaranteed sightings; 92.10 remains below Sanganeb (93.05) on visual reef impact and diving experience.
 - Approved 10 registry: none.
-- Final decision: Partial assessment retained; no overall total.
+- Final decision: Provisional full intrinsic historical rating; no travel recommendation.
 - Verification still needed: current access, exact location where provisional, remaining peer scores and independent claim-level review.
 
 ## sight-sd-suakin-old-port — Suakin Historic Island — 2026-11-25
@@ -802,7 +803,38 @@
 - Final decision: Partial assessment retained; no overall total.
 - Verification still needed: current access, exact location where provisional, remaining peer scores and independent claim-level review.
 
+## sight-sd-al-hassania-national-park — Al Hassania National Park — 2026-11-25
+
+- YAML: [source](../../../countries/SD/sights/al-hassania-national-park.yaml)
+- Action: new
+- Precise subject: Tentative Jabel Al Hassania desert and semi-desert park, not the similarly named localities or other desert parks.
+- Location check: 17.75, 33.0, coarse representative midpoint of Sudan Wildlife Research Center's published latitude bounds 17°15′–18°15′ N and interpreted longitude bounds 32°45′–33°15′ E; not an entrance or legal boundary. The Arabic longitude typography has a stray numeral; UNESCO nomination has malformed latitude/longitude, inconsistent area and distance information. Retain coarse midpoint provisionally pending boundary mapping.
+- Evidence status: **unassessed**
+- Sources (accessed 2026-11-25):
+  - https://whc.unesco.org/en/tentativelists/6517/ — Sudan nomination identifies River Nile State park designated in 2003, dunes, hills, wadis, dry habitat and Barbary sheep; malformed coordinate and area claims not relied on.
+  - https://wrc.gov.sd/%D9%85%D8%AD%D9%85%D9%8A%D8%A9-%D8%AC%D8%A8%D8%A7%D9%84-%D8%A7%D9%84%D8%AD%D8%B3%D8%A7%D9%86%D9%8A%D8%A9/ — Wildlife Research Center, 11 February 2021, confirms designation year, approximate geographic bounds, gazelles, sheep and desert plants; reports smaller area than nomination.
+- Missing facts: authoritative boundaries, independently confirmed park area, actual visitor itinerary and wildlife observation opportunities.
+
+### Worldwide peer comparisons
+- Wadi Rum (Jordan): 9.8/9.7/9.4/9.6/9.5; stronger documented sandstone and dune experience, extensive visitor circuit.
+- Okavango Delta (Botswana): 9.8/9.9/9.8/9.5/9.8; globally defining ecological and wildlife encounter breadth, unlike the more limited documented dryland fauna here.
+- Khao Yai (Thailand): 9.0/9.1/9.0/9.0/9.2; stronger documented biodiversity, wildlife viewing and trail experiences.
+- Sehlabathebe (Lesotho): 9.1/9.0/9.3/8.6/8.8; strong mountain conservation landscape, with more established visitor experience; different ecosystem.
+
+### Scoring decisions
+- Impact: null — actual landscape experience insufficiently documented.
+- Uniqueness: 7.8 — dryland hills, dunes and wadis with a distinctive local fauna, but globally comparable desert ecosystems.
+- Significance: 8.3 — documented desert conservation and threatened species habitat; no assumption of world-leading biodiversity.
+- Experience: null — ordinary historical visitor experience insufficiently verified.
+- Depth: null — meaningful accessible exploration uncertain.
+- Applicable categories: nature null, wildlife null.
+- Overall: unranked.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: include the nomination without inventing a visitor rating or precise GPS.
+- Verification still needed: exact boundary, conflicting area estimates, visitor experience and responsible wildlife observation.
+
 ## Inventory coverage
 
-[UNESCO country inventory](https://whc.unesco.org/en/statesparties/sd) lists three inscribed and 15 tentative properties. All eleven official inscribed components separately recorded. Fourteen tentative properties represented (overlapping Kerma and Wadi Howar nominations explicitly linked); Al Hassania National Park remains outstanding because its nomination coordinates are malformed and exact park location was not reliably established: https://whc.unesco.org/en/tentativelists/6517/. No invented point. Additional regional sites and standalone museum collections remain backlog. War-related damage and access require fresh site-specific investigation.
+[UNESCO country inventory](https://whc.unesco.org/en/statesparties/sd) lists three inscribed and 15 tentative properties. All eleven official inscribed components separately recorded. All fifteen tentative properties represented (overlapping Kerma and Wadi Howar nominations explicitly linked). Al Hassania is now included as an unassessed record with a coarse midpoint from the Sudan Wildlife Research Center's published bounds; exact boundaries and access remain unresolved. Additional regional sites and standalone museum collections remain backlog. War-related damage and access require fresh site-specific investigation.
 
