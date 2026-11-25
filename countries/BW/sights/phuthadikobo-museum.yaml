@@ -1,0 +1,15 @@
+id: sight-bw-phuthadikobo-museum
+name: "Phuthadikobo Museum"
+location:
+  country_code: BW
+  latitude: -24.3780
+  longitude: 26.1550
+scores:
+  impact: 6.8
+  uniqueness: 7.8
+  significance: 8.0
+  experience: 7.7
+  depth: 6.7
+  categories:
+    history: 8.6
+    culture: 8.6

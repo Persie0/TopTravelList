@@ -1,0 +1,16 @@
+id: sight-bh-pearling-path-muharraq
+name: "Pearling Path (Muharraq)"
+location:
+  country_code: BH
+  latitude: 26.2510
+  longitude: 50.6130
+scores:
+  impact: 8.4
+  uniqueness: 9.1
+  significance: 9.3
+  experience: 8.6
+  depth: 8.6
+  categories:
+    history: 9.4
+    culture: 9.3
+    architecture: 9.0

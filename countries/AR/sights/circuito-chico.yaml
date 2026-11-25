@@ -1,0 +1,16 @@
+id: sight-ar-circuito-chico
+name: "Circuito Chico"
+location:
+  country_code: AR
+  latitude: -41.0700
+  longitude: -71.5300
+scores:
+  impact: 8.6
+  uniqueness: 8.1
+  significance: 6.9
+  experience: 9.0
+  depth: 8.2
+  categories:
+    photography: 9.2
+    relaxation: 8.9
+    nature: 8.7

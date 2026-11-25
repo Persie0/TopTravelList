@@ -1,0 +1,16 @@
+id: sight-st-baia-das-agulhas
+name: "Baía das Agulhas"
+location:
+  country_code: ST
+  latitude: 1.555556
+  longitude: 7.342222
+scores:
+  impact: 9.4
+  uniqueness: 9.3
+  significance: 7.6
+  experience: 8.6
+  depth: 7.9
+  categories:
+    nature: 9.4
+    photography: 9.5
+    adventure: 8.8

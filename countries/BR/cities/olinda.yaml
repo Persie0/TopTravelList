@@ -1,0 +1,17 @@
+id: city-br-olinda
+name: "Olinda"
+location:
+  country_code: BR
+  latitude: -8.0089
+  longitude: -34.8553
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 8.8
+  experience: 8.6
+  depth: 7.9
+  categories:
+    architecture: 9.4
+    culture: 9.3
+    history: 9.2
+    photography: 9.2

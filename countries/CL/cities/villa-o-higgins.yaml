@@ -1,0 +1,15 @@
+id: city-cl-villa-o-higgins
+name: "Villa O'Higgins"
+location:
+  country_code: CL
+  latitude: -48.4680
+  longitude: -72.5610
+scores:
+  impact: 7.2
+  uniqueness: 7.9
+  significance: 6.5
+  experience: 7.6
+  depth: 6.1
+  categories:
+    photography: 8.5
+    relaxation: 8.0

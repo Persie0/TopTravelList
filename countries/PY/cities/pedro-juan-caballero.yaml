@@ -1,0 +1,15 @@
+id: city-py-pedro-juan-caballero
+name: "Pedro Juan Caballero"
+location:
+  country_code: PY
+  latitude: -22.5472
+  longitude: -55.7333
+scores:
+  impact: 6.5
+  uniqueness: 7.3
+  significance: 6.7
+  experience: 7.2
+  depth: 6.7
+  categories:
+    culture: 7.8
+    food: 7.5

@@ -1,0 +1,15 @@
+id: city-om-qurayyat
+name: "Qurayyat"
+location:
+  country_code: OM
+  latitude: 23.264
+  longitude: 58.916
+scores:
+  impact: 6.9
+  uniqueness: 7.2
+  significance: 7.2
+  experience: 7.5
+  depth: 6.6
+  categories:
+    culture: 7.7
+    history: 7.6

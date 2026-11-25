@@ -1,0 +1,15 @@
+id: sight-py-refugio-biologico-tati-yupi
+name: "Refugio Biológico Tatí Yupí"
+location:
+  country_code: PY
+  latitude: -25.3667
+  longitude: -54.6000
+scores:
+  impact: 7.7
+  uniqueness: 7.9
+  significance: 8.2
+  experience: 8.1
+  depth: 7.6
+  categories:
+    nature: 8.5
+    wildlife: 8.6

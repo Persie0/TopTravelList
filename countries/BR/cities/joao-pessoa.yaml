@@ -1,0 +1,16 @@
+id: city-br-joao-pessoa
+name: "João Pessoa"
+location:
+  country_code: BR
+  latitude: -7.1195
+  longitude: -34.8450
+scores:
+  impact: 7.7
+  uniqueness: 7.6
+  significance: 7.4
+  experience: 8.4
+  depth: 7.7
+  categories:
+    beaches: 8.7
+    relaxation: 8.5
+    architecture: 8.2

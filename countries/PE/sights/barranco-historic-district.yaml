@@ -1,0 +1,16 @@
+id: sight-pe-barranco-historic-district
+name: "Barranco Historic District"
+location:
+  country_code: PE
+  latitude: -12.1490
+  longitude: -77.0220
+scores:
+  impact: 8.1
+  uniqueness: 8.2
+  significance: 7.9
+  experience: 8.8
+  depth: 8.0
+  categories:
+    architecture: 8.6
+    culture: 9.0
+    food: 8.7

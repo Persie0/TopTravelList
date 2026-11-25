@@ -1,0 +1,16 @@
+id: sight-cl-cerro-castillo-national-park
+name: "Cerro Castillo National Park"
+location:
+  country_code: CL
+  latitude: -46.0600
+  longitude: -72.2000
+scores:
+  impact: 9.4
+  uniqueness: 9.1
+  significance: 8.5
+  experience: 8.7
+  depth: 8.8
+  categories:
+    nature: 9.5
+    photography: 9.7
+    adventure: 9.4

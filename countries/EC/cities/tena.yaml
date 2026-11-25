@@ -1,0 +1,15 @@
+id: city-ec-tena
+name: "Tena"
+location:
+  country_code: EC
+  latitude: -0.9938
+  longitude: -77.8129
+scores:
+  impact: 7.0
+  uniqueness: 7.3
+  significance: 6.5
+  experience: 7.7
+  depth: 6.9
+  categories:
+    relaxation: 7.9
+    culture: 7.7

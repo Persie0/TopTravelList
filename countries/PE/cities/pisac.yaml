@@ -1,0 +1,16 @@
+id: city-pe-pisac
+name: "Pisac"
+location:
+  country_code: PE
+  latitude: -13.4225
+  longitude: -71.8460
+scores:
+  impact: 7.7
+  uniqueness: 8.0
+  significance: 7.3
+  experience: 8.2
+  depth: 7.0
+  categories:
+    culture: 8.6
+    food: 8.0
+    photography: 8.3

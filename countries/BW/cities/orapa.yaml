@@ -1,0 +1,14 @@
+id: city-bw-orapa
+name: "Orapa"
+location:
+  country_code: BW
+  latitude: -21.3020
+  longitude: 25.3760
+scores:
+  impact: null
+  uniqueness: null
+  significance: 7.2
+  experience: null
+  depth: null
+  categories:
+    history: 7.6

@@ -1,0 +1,15 @@
+id: city-ec-latacunga
+name: "Latacunga"
+location:
+  country_code: EC
+  latitude: -0.9333
+  longitude: -78.6157
+scores:
+  impact: 6.9
+  uniqueness: 7.2
+  significance: 7.3
+  experience: 7.3
+  depth: 7.0
+  categories:
+    culture: 8.0
+    history: 7.7

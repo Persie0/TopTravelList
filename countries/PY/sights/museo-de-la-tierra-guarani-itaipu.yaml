@@ -1,0 +1,16 @@
+id: sight-py-museo-de-la-tierra-guarani-itaipu
+name: "Museo de la Tierra Guaraní (Itaipú)"
+location:
+  country_code: PY
+  latitude: -25.4080
+  longitude: -54.6000
+scores:
+  impact: 7.3
+  uniqueness: 7.9
+  significance: 8.0
+  experience: 7.8
+  depth: 7.2
+  categories:
+    culture: 8.5
+    nature: 8.2
+    history: 8.2

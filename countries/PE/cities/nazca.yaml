@@ -1,0 +1,15 @@
+id: city-pe-nazca
+name: "Nazca"
+location:
+  country_code: PE
+  latitude: -14.8280
+  longitude: -74.9430
+scores:
+  impact: 6.5
+  uniqueness: 7.0
+  significance: 7.2
+  experience: 7.2
+  depth: 6.5
+  categories:
+    history: 7.8
+    culture: 7.5

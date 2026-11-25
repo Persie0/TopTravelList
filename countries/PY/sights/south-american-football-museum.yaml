@@ -1,0 +1,15 @@
+id: sight-py-south-american-football-museum
+name: "South American Football Museum"
+location:
+  country_code: PY
+  latitude: -25.2610
+  longitude: -57.5350
+scores:
+  impact: 7.5
+  uniqueness: 8.1
+  significance: 8.1
+  experience: 8.0
+  depth: 7.3
+  categories:
+    culture: 8.6
+    history: 8.4

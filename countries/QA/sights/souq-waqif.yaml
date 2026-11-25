@@ -1,0 +1,16 @@
+id: sight-qa-souq-waqif
+name: "Souq Waqif"
+location:
+  country_code: QA
+  latitude: 25.2883
+  longitude: 51.5330
+scores:
+  impact: 8.5
+  uniqueness: 8.5
+  significance: 8.1
+  experience: 9.0
+  depth: 8.4
+  categories:
+    food: 8.9
+    culture: 9.1
+    architecture: 8.5

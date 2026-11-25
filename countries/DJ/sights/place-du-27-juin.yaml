@@ -1,0 +1,16 @@
+id: sight-dj-place-du-27-juin
+name: "Place du 27 Juin"
+location:
+  country_code: DJ
+  latitude: 11.5930
+  longitude: 43.1460
+scores:
+  impact: 6.8
+  uniqueness: 7.6
+  significance: 7.7
+  experience: 7.6
+  depth: 6.2
+  categories:
+    architecture: 8.1
+    history: 8.1
+    culture: 7.9

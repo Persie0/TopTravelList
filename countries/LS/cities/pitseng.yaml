@@ -1,0 +1,15 @@
+id: city-ls-pitseng
+name: "Pitseng"
+location:
+  country_code: LS
+  latitude: -28.8901
+  longitude: 28.2220
+scores:
+  impact: 6.9
+  uniqueness: 7.3
+  significance: 6.4
+  experience: 7.3
+  depth: 6.0
+  categories:
+    culture: 7.6
+    photography: 7.9

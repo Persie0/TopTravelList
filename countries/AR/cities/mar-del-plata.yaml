@@ -1,0 +1,17 @@
+id: city-ar-mar-del-plata
+name: "Mar del Plata"
+location:
+  country_code: AR
+  latitude: -38.0055
+  longitude: -57.5426
+scores:
+  impact: 7.8
+  uniqueness: 7.5
+  significance: 7.1
+  experience: 8.5
+  depth: 8.3
+  categories:
+    beaches: 8.6
+    food: 8.8
+    nightlife: 8.4
+    architecture: 8.2

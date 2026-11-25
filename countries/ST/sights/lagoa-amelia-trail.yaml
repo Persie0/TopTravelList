@@ -1,0 +1,16 @@
+id: sight-st-lagoa-amelia-trail
+name: "Lagoa Amélia Trail"
+location:
+  country_code: ST
+  latitude: 0.2800
+  longitude: 6.5880
+scores:
+  impact: 8.3
+  uniqueness: 8.4
+  significance: 7.5
+  experience: 8.5
+  depth: 7.5
+  categories:
+    nature: 8.9
+    adventure: 8.8
+    photography: 8.6

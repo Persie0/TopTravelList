@@ -1,0 +1,16 @@
+id: city-ec-puerto-baquerizo-moreno
+name: "Puerto Baquerizo Moreno"
+location:
+  country_code: EC
+  latitude: -0.9020
+  longitude: -89.6100
+scores:
+  impact: 7.8
+  uniqueness: 8.2
+  significance: 7.2
+  experience: 8.3
+  depth: 7.1
+  categories:
+    relaxation: 8.4
+    photography: 8.5
+    culture: 7.7

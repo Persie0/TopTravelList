@@ -1,0 +1,16 @@
+id: sight-bw-khama-rhino-sanctuary
+name: "Khama Rhino Sanctuary"
+location:
+  country_code: BW
+  latitude: -22.2500
+  longitude: 26.7200
+scores:
+  impact: 8.2
+  uniqueness: 8.4
+  significance: 8.2
+  experience: 8.7
+  depth: 7.8
+  categories:
+    wildlife: 9.3
+    nature: 8.7
+    family: 8.4
