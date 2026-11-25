@@ -1,0 +1,16 @@
+id: sight-mx-monte-alban
+name: "Monte Albán"
+location:
+  country_code: MX
+  latitude: 17.043
+  longitude: -96.768
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 9.3
+  experience: 8.9
+  depth: 8.7
+  categories:
+    history: 9.4
+    architecture: 9.2
+    photography: 9.2

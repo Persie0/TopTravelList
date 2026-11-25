@@ -1,0 +1,15 @@
+id: sight-mx-sumidero-canyon
+name: "Cañón del Sumidero National Park"
+location:
+  country_code: MX
+  latitude: 16.83
+  longitude: -93.10
+scores:
+  impact: 9.0
+  uniqueness: 8.7
+  significance: 8.4
+  experience: 8.8
+  depth: 8.3
+  categories:
+    nature: 9.2
+    photography: 9.3

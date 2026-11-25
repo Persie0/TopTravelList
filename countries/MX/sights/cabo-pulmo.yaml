@@ -1,0 +1,16 @@
+id: sight-mx-cabo-pulmo
+name: "Cabo Pulmo National Park"
+location:
+  country_code: MX
+  latitude: 23.44
+  longitude: -109.43
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 8.8
+  experience: 8.9
+  depth: 8.5
+  categories:
+    wildlife: 9.3
+    nature: 9.1
+    adventure: 9.1
