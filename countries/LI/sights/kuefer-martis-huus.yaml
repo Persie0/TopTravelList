@@ -1,0 +1,15 @@
+id: sight-li-kuefer-martis-huus
+name: "Küefer-Martis-Huus"
+location:
+  country_code: LI
+  latitude: 47.2390
+  longitude: 9.5250
+scores:
+  impact: 6.9
+  uniqueness: 7.4
+  significance: 7.5
+  experience: 7.5
+  depth: 6.8
+  categories:
+    culture: 8.1
+    history: 8.0

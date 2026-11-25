@@ -1,0 +1,15 @@
+id: sight-li-gasometer-cultural-center
+name: "Gasometer Cultural Center"
+location:
+  country_code: LI
+  latitude: 47.1080
+  longitude: 9.5260
+scores:
+  impact: 6.9
+  uniqueness: 7.4
+  significance: 7.3
+  experience: 7.5
+  depth: 6.8
+  categories:
+    culture: 8.2
+    history: 7.8
