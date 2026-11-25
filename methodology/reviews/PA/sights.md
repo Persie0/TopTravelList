@@ -1008,3 +1008,29 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: No checked per-record source; editorial only.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, visitor access, individual peer and category calibration.
+
+## Follow-up: sight-pa-miraflores-visitor-center — 2026-11-25 (worldwide review)
+
+- [YAML](../../../countries/PA/sights/miraflores-visitor-center.yaml) · Action: rescore · **source-linked-unverified**; specific visitor scope checked, not complete independent verification.
+- Source inspected: [Panama Canal Authority visitor center](https://visitcanaldepanama.com/en/points-of-interest/miraflores-visitor-center/), 2026-11-25. The operator describes approximately 1.5 hours including observation facilities and a 45-minute film, with ship passages dependent on schedule.
+- Impact and uniqueness retained: observing large vessels in operating locks is unusually compelling. Significance 9.4 → 8.7 and history 9.4 → 8.8 reflect the specific viewing and interpretive center, not the historical significance of the entire interoceanic canal. Architecture 9.3 → 8.6 reflects the center and visible engineering rather than the entire canal system. Depth 7.9 → 7.4 for a bounded interpreted visit. Experience 9.0 retained; no assumption of a guaranteed ship transit. Photography 8.9 retained. GPS unchanged; no new perfect score or multiplier.
+- I/U/S/E/D: 9.0 / 9.2 / 9.4 / 9.0 / 7.9 → 9.0 / 9.2 / 8.7 / 9.0 / 7.4; overall 90.20 → 88.30/100.
+
+| Current worldwide peer | I/U/S/E/D | Overall /100 | Comparison |
+| --- | --- | --- | --- |
+| [hallstatt salt mine (AT)](../../../countries/AT/sights/hallstatt-salt-mine.yaml) | 8.7 / 8.9 / 8.9 / 8.9 / 8.1 | 87.60 | A deeper interpreted industrial route, not only a viewpoint. |
+| [paranapiacaba railway village (BR)](../../../countries/BR/sights/paranapiacaba-railway-village.yaml) | 7.8 / 8.5 / 8.5 / 7.9 / 7.4 | 80.90 | Historic railway settlement; broader urban fabric but less striking operating machinery. |
+| [fray bentos industrial landscape (UY)](../../../countries/UY/sights/fray-bentos-industrial-landscape.yaml) | 8.3 / 9.2 / 9.3 / 8.4 / 8.7 | 87.80 | Internationally important full historic industrial ensemble; more substantive heritage scope. |
+| [gaflei lookout tower (LI)](../../../countries/LI/sights/gaflei-lookout-tower.yaml) | 7.7 / 7.6 / 6.4 / 8.0 / 6.5 | 73.40 | Ordinary focused observation site; Miraflores adds rare operating infrastructure and interpretation. |
+
+## Follow-up: sight-pa-panama-canal-visitor-transit-and-lock-experience — 2026-11-25 (worldwide review)
+
+- [YAML](../../../countries/PA/sights/panama-canal-visitor-transit-and-lock-experience.yaml) · Action: fact-check-only · **source-linked-unverified**.
+- Source inspected: [Panama Canal Authority visitor portal](https://visitcanaldepanama.com/en/) and [Tourism Panama canal guide](https://www.tourismpanama.com/places-to-visit/panama-city/things-to-do/historical-sites/panama-canal/).
+- Retain 96.40 provisionally: the wider named visitor transit experience includes distinct lock facilities and boat transit, rather than just one viewing deck. Exceptional significance and uniqueness concern the operating engineering system. The prior comparisons remain provisional; specialist engineered-waterway peers and each 9.5+ field need further independent review. Do not transfer that rating to Miraflores.
+
+## Follow-up: sight-pa-coiba-national-park-and-special-zone-of-marine-protection — 2026-11-25 (worldwide review)
+
+- [YAML](../../../countries/PA/sights/coiba-national-park-and-special-zone-of-marine-protection.yaml) · Action: fact-check-only · **source-linked-unverified**.
+- Sources inspected: [Tourism Panama park guide](https://www.tourismpanama.com/outdoors-and-nature/nature-parks/national-parks/coiba-national-park/) and [diving and snorkelling guide](https://www.tourismpanama.com/outdoors-and-nature/outdoor-adventure/diving-snorkeling/).
+- Retain 94.15 provisionally because multiple marine sites, shore hikes and mangrove activities are documented, not merely because the protected area is large. Permitted routes, encounters and high category scores remain provisional. Additional specialist peer comparisons and coordinate checking outstanding.
