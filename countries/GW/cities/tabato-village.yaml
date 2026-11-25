@@ -2,8 +2,8 @@ id: city-gw-tabato-village
 name: "Tabatô Village"
 location:
   country_code: GW
-  latitude: 12.20
-  longitude: -14.63
+  latitude: 12.23292
+  longitude: -14.55506
 scores:
   impact: 6.2
   uniqueness: 8.3
