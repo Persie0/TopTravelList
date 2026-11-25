@@ -1,0 +1,14 @@
+id: city-bw-tsabong
+name: "Tsabong"
+location:
+  country_code: BW
+  latitude: -26.0500
+  longitude: 22.4500
+scores:
+  impact: 5.8
+  uniqueness: 6.7
+  significance: 6.3
+  experience: 6.8
+  depth: 5.8
+  categories:
+    culture: 7.4
