@@ -11,6 +11,7 @@ Updated: 2026-11-25. This is the independent follow-up review ledger, not the or
 | Uruguay | UY | 33 | 61 | [#43](https://github.com/Persie0/TopTravelList/pull/43) | [Pass](https://github.com/Persie0/Playground/actions/runs/45660549613) | Isla de Lobos depth 7.5 → 6.7; three other focused retain decisions | Individual source/GPS checks |
 | Belize | BZ | 18 | 61 | [#44](https://github.com/Persie0/TopTravelList/pull/44) | [Pass](https://github.com/Persie0/Playground/actions/runs/45660549613) | ATM Cave depth 8.6 → 8.2; five other focused retain decisions | Individual source/GPS checks |
 | Seychelles | SC | 14 | 49 | [#45](https://github.com/Persie0/TopTravelList/pull/45) | [Pass](https://github.com/Persie0/Playground/actions/runs/45661331359) | Aldabra depth 8.8 → 7.6; three focused retain decisions | Individual source/GPS and category calibration |
+| El Salvador | SV | 24 | 54 | [#46](https://github.com/Persie0/TopTravelList/pull/46) | [Pass](https://github.com/Persie0/Playground/actions/runs/45661331359) | Joya de Cerén and Santa Ana Volcano retained with closer peers | Individual source/GPS and category calibration |
 
 All four merged PRs have passed schema, generated Markdown and worldwide benchmark checks on their reviewed heads. The overall workflow runs reported failure after successful per-country validation (merge/PR operation issues); actual merge status verified separately. The entries above mean targeted follow-up review, not comprehensive independent verification of all 267 destinations.
 
@@ -27,7 +28,7 @@ The [2026-11-25 screening run](https://github.com/Persie0/Playground/actions/run
 
 ## Next open PRs (oldest first at time of recording)
 
-SV #46; VA #48; KW #50; SR #49; HN #53; MT #54; MV #56; RW #57; TL #58; CR #59; LU #61; PA #62; SZ #63; BO #64; MK #65; CV #66; MN #67; GM #73; UZ #74; KM #78; KG #80; VE #81; AE #86; AZ #92; TJ #94. Re-read the live queue before each batch.
+VA #48; KW #50; SR #49; HN #53; MT #54; MV #56; RW #57; TL #58; CR #59; LU #61; PA #62; SZ #63; BO #64; MK #65; CV #66; MN #67; GM #73; UZ #74; KM #78; KG #80; VE #81; AE #86; AZ #92; TJ #94. Re-read the live queue before each batch.
 
 ## Completion criteria
 
