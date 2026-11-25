@@ -1,0 +1,15 @@
+id: sight-uz-ark-fortress-of-bukhara
+name: "Ark Fortress of Bukhara"
+location:
+  country_code: UZ
+  latitude: 39.777
+  longitude: 64.409
+scores:
+  impact: 8.6
+  uniqueness: 8.6
+  significance: 9.0
+  experience: 8.4
+  depth: 8.1
+  categories:
+    history: 9.2
+    architecture: 8.8

@@ -1,0 +1,16 @@
+id: sight-mn-terkhiin-tsagaan-lake
+name: "Terkhiin Tsagaan Lake"
+location:
+  country_code: MN
+  latitude: 48.17
+  longitude: 99.65
+scores:
+  impact: 8.6
+  uniqueness: 8.3
+  significance: 7.7
+  experience: 8.6
+  depth: 8.3
+  categories:
+    nature: 8.9
+    photography: 9.0
+    relaxation: 8.5

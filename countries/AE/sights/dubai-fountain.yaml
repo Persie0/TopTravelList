@@ -1,0 +1,15 @@
+id: sight-ae-dubai-fountain
+name: "Dubai Fountain"
+location:
+  country_code: AE
+  latitude: 25.195
+  longitude: 55.275
+scores:
+  impact: 8.6
+  uniqueness: 8.2
+  significance: 6.0
+  experience: 8.7
+  depth: 6.5
+  categories:
+    photography: 9.0
+    family: 8.2
