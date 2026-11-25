@@ -875,3 +875,48 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Source](https://www.visitkyrgyzstan.org/destinations/) — Visit Kyrgyzstan destination directory, named-place identity and broad visitor context; not all individual features verified; accessed as page or excerpt 2026-11-25; not complete factual verification.
 - Remaining gaps: Confirm normal permitted visitor routes and interpretation before completing scores.
+
+## Follow-up: sight-kg-sary-chelek-biosphere-nature-reserve — 2026-11-25 (worldwide review)
+
+- [YAML](../../../countries/KG/sights/sary-chelek-biosphere-nature-reserve.yaml) · Action: rescore · **source-linked-unverified**; specific source excerpts inspected, full verification outstanding.
+- Sources inspected: [https://www.unesco.org/en/mab/sary-chelek](https://www.unesco.org/en/mab/sary-chelek); [https://www.visitkyrgyzstan.org/destinations/sary-chelek/](https://www.visitkyrgyzstan.org/destinations/sary-chelek/); [https://thisis-kyrgyzstan.com/guides/national-parks-kyrgyzstan](https://thisis-kyrgyzstan.com/guides/national-parks-kyrgyzstan).
+- Decision: UNESCO confirms conservation importance, while visitor guides identify accessible lake trails and restricted core zones. Retain the natural significance and strong scenic experience, but depth 8.5 describes the documented lakeside and satellite-lake routes rather than all reserve ecosystems. Access remains conditional; the reduction is not for remoteness or cost.
+- I/U/S/E/D: 9.1 / 9.1 / 9.3 / 8.7 / 9.1 → 9.1 / 9.1 / 9.3 / 8.7 / 8.5; overall 90.80 → 90.20/100. Other categories and GPS unchanged; no new perfect score or multiplier.
+
+| Current worldwide peer | I/U/S/E/D | Overall /100 | Comparison |
+| --- | --- | --- | --- |
+| [dana biosphere reserve (JO)](../../../countries/JO/sights/dana-biosphere-reserve.yaml) | 9.0 / 8.8 / 8.9 / 9.0 / 9.1 | 89.40 | Broader established multi-route trails. |
+| [khao sok national park (TH)](../../../countries/TH/sights/khao-sok-national-park.yaml) | 9.4 / 9.4 / 9.1 / 9.4 / 9.3 | 93.30 | More varied accessible water and forest routes. |
+| [aldabra atoll (SC)](../../../countries/SC/sights/aldabra-atoll.yaml) | 9.5 / 9.8 / 9.8 / 8.0 / 7.6 | 92.20 | Much more restricted authorized visitor itinerary. |
+| [gokyo lakes (NP)](../../../countries/NP/sights/gokyo-lakes.yaml) | 9.5 / 9.5 / 9.1 / 9.2 / 9.0 | 93.25 | Coherent multiple alpine lakes and trekking routes. |
+
+
+## Follow-up: sight-kg-ala-kul-lake — 2026-11-25 (worldwide review)
+
+- [YAML](../../../countries/KG/sights/ala-kul-lake.yaml) · Action: rescore · **source-linked-unverified**; specific source excerpts inspected, full verification outstanding.
+- Sources inspected: [https://www.tuk.kg/tours/lake-ala-kol](https://www.tuk.kg/tours/lake-ala-kol); [https://thisis-kyrgyzstan.com/guides/trekking-in-kyrgyzstan](https://thisis-kyrgyzstan.com/guides/trekking-in-kyrgyzstan); [https://ilovekg.com/en/lakes/](https://ilovekg.com/en/lakes/).
+- Decision: The trekking sources establish a high alpine lake visited along a larger mountain trek. Retain strong visual impact, nature and photography for the lake-and-peak composition, but depth 8.0 concerns this single basin and immediate slopes rather than the entire Karakol–Altyn Arashan itinerary. No penalty for trekking effort or seasonal access.
+- I/U/S/E/D: 9.5 / 9.3 / 8.3 / 9.2 / 8.6 → 9.5 / 9.3 / 8.3 / 9.2 / 8.0; overall 90.75 → 90.15/100. Other categories and GPS unchanged; no new perfect score or multiplier.
+
+| Current worldwide peer | I/U/S/E/D | Overall /100 | Comparison |
+| --- | --- | --- | --- |
+| [gokyo lakes (NP)](../../../countries/NP/sights/gokyo-lakes.yaml) | 9.5 / 9.5 / 9.1 / 9.2 / 9.0 | 93.25 | Multiple lakes provide greater actual scope. |
+| [gosausee (AT)](../../../countries/AT/sights/gosausee.yaml) | 8.4 / 8.0 / 6.8 / 8.8 / 7.1 | 79.10 | Bounded lake visit with lower high-alpine rarity. |
+| [dana biosphere reserve (JO)](../../../countries/JO/sights/dana-biosphere-reserve.yaml) | 9.0 / 8.8 / 8.9 / 9.0 / 9.1 | 89.40 | Multiple distinct routes rather than one basin. |
+| [khao sok national park (TH)](../../../countries/TH/sights/khao-sok-national-park.yaml) | 9.4 / 9.4 / 9.1 / 9.4 / 9.3 | 93.30 | Much broader multi-habitat trip. |
+
+
+## Follow-up: sight-kg-kel-suu-lake — 2026-11-25 (worldwide review)
+
+- [YAML](../../../countries/KG/sights/kel-suu-lake.yaml) · Action: fact-check-only · **source-linked-unverified**; specific source excerpts inspected, full verification outstanding.
+- Sources inspected: [https://www.tuk.kg/en/tours/kel-suu-lake](https://www.tuk.kg/en/tours/kel-suu-lake); [https://visitkyrgyzstan.org/destinations/kel-suu/](https://visitkyrgyzstan.org/destinations/kel-suu/).
+- Decision: The Trekking Union describes a lake visit with a possible boat excursion and a border permit. Retain 8.3 depth provisionally for viewing and exploration of the cliff-walled canyon lake itself, not the journey from Naryn. Exceptional visual and photography ratings remain editorial; water levels and boat availability are not guaranteed.
+- I/U/S/E/D: 9.5 / 9.4 / 8.2 / 9.0 / 8.3 → 9.5 / 9.4 / 8.2 / 9.0 / 8.3; overall 90.20 → 90.20/100. Other categories and GPS unchanged; no new perfect score or multiplier.
+
+| Current worldwide peer | I/U/S/E/D | Overall /100 | Comparison |
+| --- | --- | --- | --- |
+| [gokyo lakes (NP)](../../../countries/NP/sights/gokyo-lakes.yaml) | 9.5 / 9.5 / 9.1 / 9.2 / 9.0 | 93.25 | Broader multi-lake landscape. |
+| [gosausee (AT)](../../../countries/AT/sights/gosausee.yaml) | 8.4 / 8.0 / 6.8 / 8.8 / 7.1 | 79.10 | Less singular glacial lake composition. |
+| [aldabra atoll (SC)](../../../countries/SC/sights/aldabra-atoll.yaml) | 9.5 / 9.8 / 9.8 / 8.0 / 7.6 | 92.20 | Different protected landscape with bounded authorized exploration. |
+| [dana biosphere reserve (JO)](../../../countries/JO/sights/dana-biosphere-reserve.yaml) | 9.0 / 8.8 / 8.9 / 9.0 / 9.1 | 89.40 | More varied routes across an extensive reserve. |
+
