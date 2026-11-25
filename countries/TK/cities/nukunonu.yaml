@@ -1,0 +1,15 @@
+id: city-tk-nukunonu
+name: "Nukunonu Village (Fale)"
+location:
+  country_code: TK
+  latitude: -9.198
+  longitude: -171.851
+scores:
+  impact: null
+  uniqueness: 8.2
+  significance: 8.1
+  experience: null
+  depth: null
+  categories:
+    culture: 8.4
+    history: 8.0

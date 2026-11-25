@@ -1,0 +1,14 @@
+id: city-tk-motuhaga
+name: "Motuhaga (Nukunonu)"
+location:
+  country_code: TK
+  latitude: -9.203
+  longitude: -171.846
+scores:
+  impact: null
+  uniqueness: 7.4
+  significance: 7.4
+  experience: null
+  depth: null
+  categories:
+    culture: 7.7
