@@ -1,0 +1,1546 @@
+# CA — Canada sights: individual worldwide reviews
+
+[Worldwide v2](../../../rules.md) · [Future-country workflow](../../future-country-workflow.md)
+
+Initial inventory only. [UNESCO country list](https://whc.unesco.org/en/statesparties/CA/) and [Parks Canada inscribed list](https://parks.canada.ca/culture/spm-whs/sites-canada) confirm 22 inscribed properties, represented here by individual sites or specifically Canadian components of transboundary properties. Of ten tentative nominations, eight represented by site or Canadian component; Qajartalik and Yukon Ice Patches remain documented research gaps rather than guessed archaeological locations. [Tentative list](https://parks.canada.ca/culture/spm-whs/indicative-tentative). Full serial component inventories (Rockies provincial parks, Tr’ondëk-Klondike, transboundary and Arctic properties) are not exhaustive. No independent fact-check status claimed. Broad official source lists are contextual, not claim-level verification. GPS approximate; Indigenous community access and permits must be respected. Rankings do not guarantee current park access or services.
+
+## sight-ca-canadian-rocky-mountain-parks — Canadian Rocky Mountain Parks — 2026-11-25
+
+- YAML: [source](../../../countries/CA/sights/canadian-rocky-mountain-parks.yaml)
+- Action: new
+- Precise subject: Seven-park inscribed mountain ensemble, permitted interpark visits.
+- Location check: 51.65, -116.48; approximate representative point; independent coordinate verification outstanding. 
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/304/); [Destination Canada](https://travel.destinationcanada.com/en-ca/things-to-do/adventure-canadian-rockies) — consulted 2026-11-25 as inventory, regional context or site information; not all specific claims and coordinates verified. Broad list links establish inventory inclusion, not independent visitor fact verification.
+- Missing or uncertain facts: Independent claim-level corroboration, exact representative coordinate and current visitor conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Torres del Paine (CL)](../../../countries/CL/sights/torres-del-paine-national-park.yaml) | comparable scenic scale to Torres del Paine |
+| [Los Glaciares (AR)](../../../countries/AR/sights/los-glaciares-national-park.yaml) | greater alpine-lake variety than Los Glaciares |
+| [Grossglockner Road (AT)](../../../countries/AT/sights/grossglockner-high-alpine-road.yaml) | far more multi-day scope than Grossglockner Road |
+| [Pitons (LC)](../../../countries/LC/sights/pitons-management-area.yaml) | larger mountain system than Pitons |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 9.8 | vast glacier lakes peaks and valleys |
+| Uniqueness | 9.6 | exceptional integrated mountain scenery |
+| Significance | 9.5 | international glacial and fossil record |
+| Experience | 9.4 | multiple coherent park itineraries |
+| Depth | 9.7 | extensive linked landscapes |
+
+- Applicable categories: nature: 9.8, photography: 9.8, adventure: 9.6, wildlife: 9.1.
+- Overall: 96.20/100.
+- High-score challenge: High impact and nature/photography reflect varied peaks glaciers and lakes at ensemble scale; uniqueness and significance reflect integrated glacial and Burgess Shale record; depth and adventure reflect multiple permitted trails and parks. Compare Torres del Paine and Los Glaciares, not an exact ten.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide assessment of named scope only.
+- Earlier decision: none.
+- Verification still needed: Independent factual and geographic verification.
+
+## sight-ca-banff-national-park — Banff National Park — 2026-11-25
+
+- YAML: [source](../../../countries/CA/sights/banff-national-park.yaml)
+- Action: new
+- Precise subject: Banff park alone, not entire Rockies.
+- Location check: 51.50, -115.93; approximate representative point; independent coordinate verification outstanding. 
+- Evidence status: **source-linked-unverified**
+- Evidence: [Destination Canada](https://travel.destinationcanada.com/en-ca/things-to-do/adventure-canadian-rockies); [Parks Canada](https://parks.canada.ca/pn-np/ab/banff/visit/les10-top10/itineraries) — consulted 2026-11-25 as inventory, regional context or site information; not all specific claims and coordinates verified. Broad list links establish inventory inclusion, not independent visitor fact verification.
+- Missing or uncertain facts: Independent claim-level corroboration, exact representative coordinate and current visitor conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Torres del Paine (CL)](../../../countries/CL/sights/torres-del-paine-national-park.yaml) | less wild mountain drama than Torres del Paine |
+| [Los Glaciares (AR)](../../../countries/AR/sights/los-glaciares-national-park.yaml) | more accessible lake circuits than Los Glaciares |
+| [Grossglockner Road (AT)](../../../countries/AT/sights/grossglockner-high-alpine-road.yaml) | broader than Grossglockner Road |
+| [Pitons (LC)](../../../countries/LC/sights/pitons-management-area.yaml) | far more trails than Pitons |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 9.6 | turquoise lakes and alpine peaks |
+| Uniqueness | 9.4 | strong but related alpine landscapes |
+| Significance | 9.1 | early Canadian park and glacial ecology |
+| Experience | 9.4 | many accessible hikes and viewpoints |
+| Depth | 9.4 | multiple park circuits |
+
+- Applicable categories: nature: 9.7, photography: 9.7, adventure: 9.4.
+- Overall: 94.00/100.
+- High-score challenge: Impact and nature/photography justified by lake and glacial mountain scenery across multiple circuits, below broader Rockies ensemble; compare Torres del Paine.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide assessment of named scope only.
+- Earlier decision: none.
+- Verification still needed: Independent factual and geographic verification.
+
+## sight-ca-jasper-national-park — Jasper National Park — 2026-11-25
+
+- YAML: [source](../../../countries/CA/sights/jasper-national-park.yaml)
+- Action: new
+- Precise subject: Jasper park only; ordinary permitted experiences, current fire recovery not guaranteed.
+- Location check: 52.80, -117.99; approximate representative point; independent coordinate verification outstanding. 
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/304/); [Parks Canada](https://parks.canada.ca/pn-np/ab/banff/visit/promenadedesglaciers-icefieldsparkway); [Destination Canada](https://travel.destinationcanada.com/en-ca/things-to-do/adventure-canadian-rockies) — consulted 2026-11-25 as inventory, regional context or site information; not all specific claims and coordinates verified. Broad list links establish inventory inclusion, not independent visitor fact verification.
+- Missing or uncertain facts: Independent claim-level corroboration, exact representative coordinate and current visitor conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Torres del Paine (CL)](../../../countries/CL/sights/torres-del-paine-national-park.yaml) | less peak drama than Torres del Paine |
+| [Los Glaciares (AR)](../../../countries/AR/sights/los-glaciares-national-park.yaml) | more valley diversity than Los Glaciares |
+| [Grossglockner Road (AT)](../../../countries/AT/sights/grossglockner-high-alpine-road.yaml) | larger than Grossglockner Road |
+| [Pitons (LC)](../../../countries/LC/sights/pitons-management-area.yaml) | more wilderness breadth than Pitons |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 9.5 | large mountain and lake vistas |
+| Uniqueness | 9.3 | expansive northern Rockies landscape |
+| Significance | 9.0 | glacial ecology and protected landscape |
+| Experience | 9.2 | hikes drives and wildlife |
+| Depth | 9.4 | multiple valleys and routes |
+
+- Applicable categories: nature: 9.6, photography: 9.6, adventure: 9.4.
+- Overall: 92.95/100.
+- High-score challenge: Impact and nature/photography reflect expansive glacial lakes mountains and forest vistas, below Torres del Paine peak drama; current access not inferred.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide assessment of named scope only.
+- Earlier decision: none.
+- Verification still needed: Independent factual and geographic verification.
+
+## sight-ca-yoho-national-park — Yoho National Park — 2026-11-25
+
+- YAML: [source](../../../countries/CA/sights/yoho-national-park.yaml)
+- Action: new
+- Precise subject: Yoho park, including permitted trails and interpreted fossil visits.
+- Location check: 51.45, -116.49; approximate representative point; independent coordinate verification outstanding. 
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/304/); [Destination Canada](https://travel.destinationcanada.com/en-ca/things-to-do/adventure-canadian-rockies) — consulted 2026-11-25 as inventory, regional context or site information; not all specific claims and coordinates verified. Broad list links establish inventory inclusion, not independent visitor fact verification.
+- Missing or uncertain facts: Independent claim-level corroboration, exact representative coordinate and current visitor conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Torres del Paine (CL)](../../../countries/CL/sights/torres-del-paine-national-park.yaml) | less vast than Torres del Paine |
+| [Los Glaciares (AR)](../../../countries/AR/sights/los-glaciares-national-park.yaml) | less glacial spectacle than Los Glaciares |
+| [Grossglockner Road (AT)](../../../countries/AT/sights/grossglockner-high-alpine-road.yaml) | more diverse hikes than Grossglockner Road |
+| [Pitons (LC)](../../../countries/LC/sights/pitons-management-area.yaml) | larger than Pitons |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 9.2 | waterfalls lakes and mountain scenery |
+| Uniqueness | 9.0 | combination of alpine landscapes and Burgess Shale |
+| Significance | 9.2 | major geological record |
+| Experience | 9.0 | hikes and guided visits |
+| Depth | 8.9 | several distinct areas |
+
+- Applicable categories: nature: 9.4, photography: 9.4, adventure: 9.1.
+- Overall: 90.90/100.
+- High-score challenge: 90+ supported by landscape and fossil heritage, not scores inherited from the entire Rockies.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide assessment of named scope only.
+- Earlier decision: none.
+- Verification still needed: Independent factual and geographic verification.
+
+## sight-ca-kootenay-national-park — Kootenay National Park — 2026-11-25
+
+- YAML: [source](../../../countries/CA/sights/kootenay-national-park.yaml)
+- Action: new
+- Precise subject: Park's permitted canyon and mountain routes.
+- Location check: 50.89, -116.04; approximate representative point; independent coordinate verification outstanding. 
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/304/) — consulted 2026-11-25 as inventory, regional context or site information; not all specific claims and coordinates verified. Broad list links establish inventory inclusion, not independent visitor fact verification.
+- Missing or uncertain facts: Independent claim-level corroboration, exact representative coordinate and current visitor conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Torres del Paine (CL)](../../../countries/CL/sights/torres-del-paine-national-park.yaml) | less dramatic than Torres del Paine |
+| [Los Glaciares (AR)](../../../countries/AR/sights/los-glaciares-national-park.yaml) | less glacier spectacle than Los Glaciares |
+| [Grossglockner Road (AT)](../../../countries/AT/sights/grossglockner-high-alpine-road.yaml) | greater trail breadth than Grossglockner Road |
+| [Pitons (LC)](../../../countries/LC/sights/pitons-management-area.yaml) | more landscape breadth than Pitons |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.8 | mountain canyon scenery |
+| Uniqueness | 8.5 | contrasting alpine and dry valley habitats |
+| Significance | 8.6 | glacial and ecological heritage |
+| Experience | 8.8 | trails and road stops |
+| Depth | 8.6 | multiple circuits |
+
+- Applicable categories: nature: 9.1, photography: 9.0, adventure: 8.9.
+- Overall: 86.65/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide assessment of named scope only.
+- Earlier decision: none.
+- Verification still needed: Independent factual and geographic verification.
+
+## sight-ca-niagara-falls-canadian-viewpoints — Niagara Falls (Canadian viewpoints) — 2026-11-25
+
+- YAML: [source](../../../countries/CA/sights/niagara-falls-canadian-viewpoints.yaml)
+- Action: new
+- Precise subject: Canadian Horseshoe Falls viewpoints and ordinary water-based visitor experience, not entire transboundary resort.
+- Location check: 43.0799, -79.0747; approximate representative point; independent coordinate verification outstanding. 
+- Evidence status: **source-linked-unverified**
+- Evidence: [Destination Canada](https://travel.destinationcanada.com/en-au/things-to-do/eastern-canada-vacation-guide) — consulted 2026-11-25 as inventory, regional context or site information; not all specific claims and coordinates verified. Broad list links establish inventory inclusion, not independent visitor fact verification.
+- Missing or uncertain facts: Independent claim-level corroboration, exact representative coordinate and current visitor conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Iguazú Falls (AR)](../../../countries/AR/sights/iguazu-falls-argentine-circuits.yaml) | less multi-fall breadth than Iguazú Argentine circuits |
+| [Iguaçu Falls (BR)](../../../countries/BR/sights/iguacu-falls-brazilian-viewpoints.yaml) | similarly impressive water power to Brazilian viewpoints |
+| [Krimml Falls (AT)](../../../countries/AT/sights/krimml-waterfalls.yaml) | more water volume than Krimml |
+| [Dark View Falls (VC)](../../../countries/VC/sights/dark-view-falls.yaml) | far larger than Dark View |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 9.6 | enormous water curtain and mist |
+| Uniqueness | 9.4 | rare high-volume waterfall |
+| Significance | 8.8 | major geological and tourism heritage |
+| Experience | 9.3 | multiple viewpoints and boat experiences |
+| Depth | 8.6 | several compact circuits |
+
+- Applicable categories: nature: 9.5, photography: 9.6.
+- Overall: 92.45/100.
+- High-score challenge: Impact and photography reflect Horseshoe Falls' water volume and close viewpoints; nature 9.5 reflects exceptional waterfall, below Iguazú landscape breadth.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide assessment of named scope only.
+- Earlier decision: none.
+- Verification still needed: Independent factual and geographic verification.
+
+## sight-ca-moraine-lake — Moraine Lake — 2026-11-25
+
+- YAML: [source](../../../countries/CA/sights/moraine-lake.yaml)
+- Action: new
+- Precise subject: Specific lake and ordinary shore/viewpoint route, not Valley of Ten Peaks as whole.
+- Location check: 51.327, -116.181; approximate representative point; independent coordinate verification outstanding. 
+- Evidence status: **source-linked-unverified**
+- Evidence: [Parks Canada](https://parks.canada.ca/pn-np/ab/banff/visit/les10-top10/louise) — consulted 2026-11-25 as inventory, regional context or site information; not all specific claims and coordinates verified. Broad list links establish inventory inclusion, not independent visitor fact verification.
+- Missing or uncertain facts: Independent claim-level corroboration, exact representative coordinate and current visitor conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Torres del Paine (CL)](../../../countries/CL/sights/torres-del-paine-national-park.yaml) | less breadth than Torres del Paine |
+| [Perito Moreno (AR)](../../../countries/AR/sights/perito-moreno-glacier.yaml) | different lake setting from Perito Moreno |
+| [Lake Hallstatt (AT)](../../../countries/AT/sights/hallstaetter-see.yaml) | more dramatic mountain framing than Hallstatt Lake |
+| [Pitons (LC)](../../../countries/LC/sights/pitons-management-area.yaml) | less landscape breadth than Pitons |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 9.5 | turquoise lake beneath serrated peaks |
+| Uniqueness | 9.2 | unusually composed glacial lake view |
+| Significance | 7.8 | regional glacial ecology |
+| Experience | 8.9 | shore and viewpoint experience |
+| Depth | 7.8 | compact lake circuit |
+
+- Applicable categories: nature: 9.4, photography: 9.5.
+- Overall: 88.25/100.
+- High-score challenge: Impact and photography 9.5 justified by unusually composed lake and mountain vista, not entire park depth.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide assessment of named scope only.
+- Earlier decision: none.
+- Verification still needed: Independent factual and geographic verification.
+
+## sight-ca-lake-louise — Lake Louise — 2026-11-25
+
+- YAML: [source](../../../countries/CA/sights/lake-louise.yaml)
+- Action: new
+- Precise subject: Lake and immediate shore and hiking routes, not ski resort.
+- Location check: 51.414, -116.217; approximate representative point; independent coordinate verification outstanding. 
+- Evidence status: **source-linked-unverified**
+- Evidence: [Parks Canada](https://parks.canada.ca/pn-np/ab/banff/visit/les10-top10/louise) — consulted 2026-11-25 as inventory, regional context or site information; not all specific claims and coordinates verified. Broad list links establish inventory inclusion, not independent visitor fact verification.
+- Missing or uncertain facts: Independent claim-level corroboration, exact representative coordinate and current visitor conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Torres del Paine (CL)](../../../countries/CL/sights/torres-del-paine-national-park.yaml) | far less extensive than Torres del Paine |
+| [Perito Moreno (AR)](../../../countries/AR/sights/perito-moreno-glacier.yaml) | less glacier spectacle than Perito Moreno |
+| [Lake Hallstatt (AT)](../../../countries/AT/sights/hallstaetter-see.yaml) | more alpine drama than Hallstatt Lake |
+| [Pitons (LC)](../../../countries/LC/sights/pitons-management-area.yaml) | smaller scope than Pitons |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 9.3 | glacial turquoise lake and peaks |
+| Uniqueness | 8.9 | distinct lake and glacier backdrop |
+| Significance | 7.9 | regional glacial ecology |
+| Experience | 9.0 | shore and uphill trails |
+| Depth | 8.4 | several lake-based routes |
+
+- Applicable categories: nature: 9.3, photography: 9.4, adventure: 9.0.
+- Overall: 87.85/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide assessment of named scope only.
+- Earlier decision: none.
+- Verification still needed: Independent factual and geographic verification.
+
+## sight-ca-icefields-parkway — Icefields Parkway — 2026-11-25
+
+- YAML: [source](../../../countries/CA/sights/icefields-parkway.yaml)
+- Action: new
+- Precise subject: Scenic highway corridor and immediate permitted stops, not whole parks.
+- Location check: 52.13, -117.05; approximate representative point; independent coordinate verification outstanding. 
+- Evidence status: **source-linked-unverified**
+- Evidence: [Parks Canada](https://parks.canada.ca/pn-np/ab/banff/visit/promenadedesglaciers-icefieldsparkway) — consulted 2026-11-25 as inventory, regional context or site information; not all specific claims and coordinates verified. Broad list links establish inventory inclusion, not independent visitor fact verification.
+- Missing or uncertain facts: Independent claim-level corroboration, exact representative coordinate and current visitor conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Torres del Paine (CL)](../../../countries/CL/sights/torres-del-paine-national-park.yaml) | less wilderness immersion than Torres del Paine |
+| [Los Glaciares (AR)](../../../countries/AR/sights/los-glaciares-national-park.yaml) | more road-accessible views than Los Glaciares |
+| [Grossglockner Road (AT)](../../../countries/AT/sights/grossglockner-high-alpine-road.yaml) | comparable scenic road with broader glacial landscapes than Grossglockner |
+| [Pitons (LC)](../../../countries/LC/sights/pitons-management-area.yaml) | more linear than Pitons |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 9.4 | continuous dramatic mountain and icefield views |
+| Uniqueness | 9.2 | unusually varied alpine scenic road |
+| Significance | 8.6 | glacial landscape interpretation |
+| Experience | 9.3 | rewarding drive with stops |
+| Depth | 9.0 | many distinct roadside features |
+
+- Applicable categories: nature: 9.4, photography: 9.5.
+- Overall: 91.35/100.
+- High-score challenge: Photography 9.5 justified by varied roadside glacier and mountain compositions comparable to Grossglockner Road; 90+ reflects coherent corridor rather than entire parks.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide assessment of named scope only.
+- Earlier decision: none.
+- Verification still needed: Independent factual and geographic verification.
+
+## sight-ca-old-quebec — Historic District of Old Québec — 2026-11-25
+
+- YAML: [source](../../../countries/CA/sights/old-quebec.yaml)
+- Action: new
+- Precise subject: Inscribed fortified urban district, not whole city.
+- Location check: 46.813, -71.207; approximate representative point; independent coordinate verification outstanding. 
+- Evidence status: **source-linked-unverified**
+- Evidence: [Parks Canada](https://parks.canada.ca/culture/spm-whs/sites-canada); [Destination Canada](https://travel.destinationcanada.com/en-au/things-to-do/eastern-canada-vacation-guide) — consulted 2026-11-25 as inventory, regional context or site information; not all specific claims and coordinates verified. Broad list links establish inventory inclusion, not independent visitor fact verification.
+- Missing or uncertain facts: Independent claim-level corroboration, exact representative coordinate and current visitor conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Hohensalzburg (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) | less concentrated fortress than Hohensalzburg |
+| [Bridgetown Garrison (BB)](../../../countries/BB/sights/historic-bridgetown-and-its-garrison.yaml) | more urban fortification than Garrison |
+| [Pigeon Island (LC)](../../../countries/LC/sights/pigeon-island-national-landmark.yaml) | greater built heritage than Pigeon Island |
+| [Fort Hamilton (VC)](../../../countries/VC/sights/fort-hamilton-bequia.yaml) | far broader than Fort Hamilton |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 9.0 | fortified upper town and lower town streets |
+| Uniqueness | 9.0 | rare surviving walled colonial city in North America |
+| Significance | 9.2 | international colonial history |
+| Experience | 8.9 | walkable connected heritage |
+| Depth | 8.8 | many monuments |
+
+- Applicable categories: architecture: 9.3, history: 9.3, culture: 9.0.
+- Overall: 90.05/100.
+- High-score challenge: 90+ review: fortified upper town and lower town streets; less concentrated fortress than Hohensalzburg; more urban fortification than Garrison. Named scope only.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide assessment of named scope only.
+- Earlier decision: none.
+- Verification still needed: Independent factual and geographic verification.
+
+## sight-ca-head-smashed-in-buffalo-jump — Head-Smashed-In Buffalo Jump — 2026-11-25
+
+- YAML: [source](../../../countries/CA/sights/head-smashed-in-buffalo-jump.yaml)
+- Action: new
+- Precise subject: Archaeological hunting landscape and interpreted public centre.
+- Location check: 49.708, -113.654; approximate representative point; independent coordinate verification outstanding. 
+- Evidence status: **source-linked-unverified**
+- Evidence: [Parks Canada](https://parks.canada.ca/culture/spm-whs/sites-canada) — consulted 2026-11-25 as inventory, regional context or site information; not all specific claims and coordinates verified. Broad list links establish inventory inclusion, not independent visitor fact verification.
+- Missing or uncertain facts: Independent claim-level corroboration, exact representative coordinate and current visitor conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Angkor Wat (KH)](../../../countries/KH/sights/angkor-wat.yaml) | less monumentality than Angkor Wat |
+| [Machu Picchu (PE)](../../../countries/PE/sights/historic-sanctuary-of-machu-picchu.yaml) | different hunting landscape from Machu Picchu |
+| [Caracol (BZ)](../../../countries/BZ/sights/caracol-archaeological-reserve.yaml) | less built fabric than Caracol |
+| [Layou Petroglyph Park (VC)](../../../countries/VC/sights/layou-petroglyph-park.yaml) | greater interpreted depth than Layou |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.0 | prairie cliff and interpretive exhibits |
+| Uniqueness | 8.8 | distinct communal bison-hunting heritage |
+| Significance | 9.2 | long Indigenous subsistence history |
+| Experience | 8.5 | interpretation and landscape viewing |
+| Depth | 7.8 | compact site |
+
+- Applicable categories: history: 9.3, culture: 9.2.
+- Overall: 84.95/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide assessment of named scope only.
+- Earlier decision: none.
+- Verification still needed: Independent factual and geographic verification.
+
+## sight-ca-lanse-aux-meadows — L'Anse aux Meadows National Historic Site — 2026-11-25
+
+- YAML: [source](../../../countries/CA/sights/lanse-aux-meadows.yaml)
+- Action: new
+- Precise subject: Archaeological remains and reconstructed visitor interpretation.
+- Location check: 51.595, -55.533; approximate representative point; independent coordinate verification outstanding. 
+- Evidence status: **source-linked-unverified**
+- Evidence: [Parks Canada](https://parks.canada.ca/culture/spm-whs/sites-canada) — consulted 2026-11-25 as inventory, regional context or site information; not all specific claims and coordinates verified. Broad list links establish inventory inclusion, not independent visitor fact verification.
+- Missing or uncertain facts: Independent claim-level corroboration, exact representative coordinate and current visitor conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Angkor Wat (KH)](../../../countries/KH/sights/angkor-wat.yaml) | less monumental than Angkor Wat |
+| [Machu Picchu (PE)](../../../countries/PE/sights/historic-sanctuary-of-machu-picchu.yaml) | different contact history from Machu Picchu |
+| [Caracol (BZ)](../../../countries/BZ/sights/caracol-archaeological-reserve.yaml) | less urban ruins than Caracol |
+| [Layou Petroglyph Park (VC)](../../../countries/VC/sights/layou-petroglyph-park.yaml) | greater interpretation than Layou |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.2 | coastal turf-house setting |
+| Uniqueness | 9.3 | rare verified Norse presence in North America |
+| Significance | 9.4 | major transatlantic contact history |
+| Experience | 8.6 | interpreted remains and reconstruction |
+| Depth | 8.0 | compact settlement site |
+
+- Applicable categories: history: 9.4, culture: 9.0.
+- Overall: 87.55/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide assessment of named scope only.
+- Earlier decision: none.
+- Verification still needed: Independent factual and geographic verification.
+
+## sight-ca-landscape-grand-pre — Landscape of Grand Pré — 2026-11-25
+
+- YAML: [source](../../../countries/CA/sights/landscape-grand-pre.yaml)
+- Action: new
+- Precise subject: Acadian dykeland cultural landscape and interpretation.
+- Location check: 45.109, -64.307; approximate representative point; independent coordinate verification outstanding. 
+- Evidence status: **source-linked-unverified**
+- Evidence: [Parks Canada](https://parks.canada.ca/culture/spm-whs/sites-canada) — consulted 2026-11-25 as inventory, regional context or site information; not all specific claims and coordinates verified. Broad list links establish inventory inclusion, not independent visitor fact verification.
+- Missing or uncertain facts: Independent claim-level corroboration, exact representative coordinate and current visitor conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Hohensalzburg (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) | less architectural monumentality than Hohensalzburg |
+| [Bridgetown Garrison (BB)](../../../countries/BB/sights/historic-bridgetown-and-its-garrison.yaml) | different agricultural heritage from Garrison |
+| [Pigeon Island (LC)](../../../countries/LC/sights/pigeon-island-national-landmark.yaml) | less built scope than Pigeon Island |
+| [Fort Hamilton (VC)](../../../countries/VC/sights/fort-hamilton-bequia.yaml) | broader landscape than Fort Hamilton |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 7.8 | open dykeland and memorial setting |
+| Uniqueness | 8.5 | distinct reclaimed agricultural landscape |
+| Significance | 8.9 | Acadian history and deportation memory |
+| Experience | 8.1 | interpreted landscape and memorial |
+| Depth | 7.8 | several connected features |
+
+- Applicable categories: history: 9.1, culture: 8.8, photography: 8.5.
+- Overall: 82.40/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide assessment of named scope only.
+- Earlier decision: none.
+- Verification still needed: Independent factual and geographic verification.
+
+## sight-ca-old-town-lunenburg — Old Town Lunenburg — 2026-11-25
+
+- YAML: [source](../../../countries/CA/sights/old-town-lunenburg.yaml)
+- Action: new
+- Precise subject: Inscribed historic town district, not wider settlement.
+- Location check: 44.377, -64.309; approximate representative point; independent coordinate verification outstanding. 
+- Evidence status: **source-linked-unverified**
+- Evidence: [Parks Canada](https://parks.canada.ca/culture/spm-whs/sites-canada) — consulted 2026-11-25 as inventory, regional context or site information; not all specific claims and coordinates verified. Broad list links establish inventory inclusion, not independent visitor fact verification.
+- Missing or uncertain facts: Independent claim-level corroboration, exact representative coordinate and current visitor conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Hohensalzburg (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) | less fortress spectacle than Hohensalzburg |
+| [Bridgetown Garrison (BB)](../../../countries/BB/sights/historic-bridgetown-and-its-garrison.yaml) | more intact small-town street pattern than Garrison |
+| [Pigeon Island (LC)](../../../countries/LC/sights/pigeon-island-national-landmark.yaml) | greater living urban fabric than Pigeon Island |
+| [Fort Hamilton (VC)](../../../countries/VC/sights/fort-hamilton-bequia.yaml) | larger scope than Fort Hamilton |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.5 | colourful historic port streets |
+| Uniqueness | 8.7 | preserved planned colonial grid |
+| Significance | 8.9 | maritime settlement heritage |
+| Experience | 8.4 | walkable architecture |
+| Depth | 8.0 | multiple streets |
+
+- Applicable categories: architecture: 9.1, history: 9.1, photography: 9.0.
+- Overall: 85.65/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide assessment of named scope only.
+- Earlier decision: none.
+- Verification still needed: Independent factual and geographic verification.
+
+## sight-ca-red-bay-whaling-station — Red Bay Basque Whaling Station — 2026-11-25
+
+- YAML: [source](../../../countries/CA/sights/red-bay-whaling-station.yaml)
+- Action: new
+- Precise subject: Interpreted shore station and archaeological visitor facilities, not submerged wreck access.
+- Location check: 51.732, -56.427; approximate representative point; independent coordinate verification outstanding. 
+- Evidence status: **source-linked-unverified**
+- Evidence: [Parks Canada](https://parks.canada.ca/culture/spm-whs/sites-canada) — consulted 2026-11-25 as inventory, regional context or site information; not all specific claims and coordinates verified. Broad list links establish inventory inclusion, not independent visitor fact verification.
+- Missing or uncertain facts: Independent claim-level corroboration, exact representative coordinate and current visitor conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Angkor Wat (KH)](../../../countries/KH/sights/angkor-wat.yaml) | less monumentality than Angkor Wat |
+| [Machu Picchu (PE)](../../../countries/PE/sights/historic-sanctuary-of-machu-picchu.yaml) | different industrial archaeology from Machu Picchu |
+| [Caracol (BZ)](../../../countries/BZ/sights/caracol-archaeological-reserve.yaml) | less visible structures than Caracol |
+| [Layou Petroglyph Park (VC)](../../../countries/VC/sights/layou-petroglyph-park.yaml) | greater historical interpretation than Layou |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 7.7 | remote harbour and archaeological traces |
+| Uniqueness | 8.9 | rare early industrial whaling record |
+| Significance | 9.1 | transatlantic Basque maritime history |
+| Experience | 8.1 | museum and shore visit |
+| Depth | 7.7 | several linked remains |
+
+- Applicable categories: history: 9.3, culture: 8.8.
+- Overall: 83.40/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide assessment of named scope only.
+- Earlier decision: none.
+- Verification still needed: Independent factual and geographic verification.
+
+## sight-ca-rideau-canal — Rideau Canal — 2026-11-25
+
+- YAML: [source](../../../countries/CA/sights/rideau-canal.yaml)
+- Action: new
+- Precise subject: Entire Canadian historic canal route and ordinary public lock visits, representative central point.
+- Location check: 44.99, -76.12; approximate representative point; independent coordinate verification outstanding. 
+- Evidence status: **source-linked-unverified**
+- Evidence: [Parks Canada](https://parks.canada.ca/culture/spm-whs/sites-canada); [Destination Canada](https://travel.destinationcanada.com/en-us/places-to-go/ontario) — consulted 2026-11-25 as inventory, regional context or site information; not all specific claims and coordinates verified. Broad list links establish inventory inclusion, not independent visitor fact verification.
+- Missing or uncertain facts: Independent claim-level corroboration, exact representative coordinate and current visitor conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Hohensalzburg (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) | less monumental than Hohensalzburg |
+| [Bridgetown Garrison (BB)](../../../countries/BB/sights/historic-bridgetown-and-its-garrison.yaml) | more linear engineering breadth than Garrison |
+| [Pigeon Island (LC)](../../../countries/LC/sights/pigeon-island-national-landmark.yaml) | far longer route than Pigeon Island |
+| [Fort Hamilton (VC)](../../../countries/VC/sights/fort-hamilton-bequia.yaml) | much greater depth than Fort Hamilton |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.2 | waterway and historic locks |
+| Uniqueness | 8.6 | preserved nineteenth-century canal engineering |
+| Significance | 8.8 | major defensive and transport history |
+| Experience | 8.7 | boat walks and lock visits |
+| Depth | 8.8 | many linked sites |
+
+- Applicable categories: history: 9.1, architecture: 8.7, relaxation: 8.8.
+- Overall: 85.55/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide assessment of named scope only.
+- Earlier decision: none.
+- Verification still needed: Independent factual and geographic verification.
+
+## sight-ca-writing-on-stone — Writing-on-Stone / Áísínai’pi — 2026-11-25
+
+- YAML: [source](../../../countries/CA/sights/writing-on-stone.yaml)
+- Action: new
+- Precise subject: Publicly permitted park and interpreted rock-art visits only.
+- Location check: 49.079, -111.618; approximate representative point; independent coordinate verification outstanding. 
+- Evidence status: **source-linked-unverified**
+- Evidence: [Parks Canada](https://parks.canada.ca/culture/spm-whs/sites-canada) — consulted 2026-11-25 as inventory, regional context or site information; not all specific claims and coordinates verified. Broad list links establish inventory inclusion, not independent visitor fact verification.
+- Missing or uncertain facts: Independent claim-level corroboration, exact representative coordinate and current visitor conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Angkor Wat (KH)](../../../countries/KH/sights/angkor-wat.yaml) | less built monumentality than Angkor Wat |
+| [Machu Picchu (PE)](../../../countries/PE/sights/historic-sanctuary-of-machu-picchu.yaml) | different sacred landscape from Machu Picchu |
+| [Caracol (BZ)](../../../countries/BZ/sights/caracol-archaeological-reserve.yaml) | less urban archaeology than Caracol |
+| [Layou Petroglyph Park (VC)](../../../countries/VC/sights/layou-petroglyph-park.yaml) | greater combined landscape than Layou |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.4 | hoodoos and river valley |
+| Uniqueness | 8.8 | Indigenous rock-art landscape |
+| Significance | 9.2 | major Blackfoot cultural heritage |
+| Experience | 8.2 | guided respectful interpretation |
+| Depth | 8.0 | bounded trails and visitor areas |
+
+- Applicable categories: history: 9.3, culture: 9.2, nature: 8.8.
+- Overall: 85.90/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide assessment of named scope only.
+- Earlier decision: none.
+- Verification still needed: Independent factual and geographic verification.
+
+## sight-ca-anticosti — Anticosti — 2026-11-25
+
+- YAML: [source](../../../countries/CA/sights/anticosti.yaml)
+- Action: new
+- Precise subject: Inscribed fossil-bearing island landscape, permitted coastal and park visits only.
+- Location check: 49.5, -63.0; approximate representative point; independent coordinate verification outstanding. 
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1686/) — consulted 2026-11-25 as inventory, regional context or site information; not all specific claims and coordinates verified. Broad list links establish inventory inclusion, not independent visitor fact verification.
+- Missing or uncertain facts: Independent claim-level corroboration, exact representative coordinate and current visitor conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Los Glaciares (AR)](../../../countries/AR/sights/los-glaciares-national-park.yaml) | less mountain drama than Los Glaciares |
+| [Great Blue Hole (BZ)](../../../countries/BZ/sights/blue-hole-natural-monument-great-blue-hole.yaml) | different fossil value from Great Blue Hole |
+| [Pitch Lake (TT)](../../../countries/TT/sights/la-brea-pitch-lake.yaml) | broader geological record than Pitch Lake |
+| [Sulphur Springs (LC)](../../../countries/LC/sights/sulphur-springs.yaml) | far more landscape scope than Sulphur Springs |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.5 | remote cliffs and forest |
+| Uniqueness | 9.0 | exceptional Ordovician-Silurian geological record |
+| Significance | 9.3 | international mass-extinction science |
+| Experience | 8.1 | guided geological and nature encounters |
+| Depth | 8.6 | large varied coast |
+
+- Applicable categories: nature: 9.2, photography: 9.0.
+- Overall: 87.35/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide assessment of named scope only.
+- Earlier decision: none.
+- Verification still needed: Independent factual and geographic verification.
+
+## sight-ca-dinosaur-provincial-park — Dinosaur Provincial Park — 2026-11-25
+
+- YAML: [source](../../../countries/CA/sights/dinosaur-provincial-park.yaml)
+- Action: new
+- Precise subject: Badlands landscape and ordinary guided fossil interpretation.
+- Location check: 50.761, -111.495; approximate representative point; independent coordinate verification outstanding. 
+- Evidence status: **source-linked-unverified**
+- Evidence: [Parks Canada](https://parks.canada.ca/culture/spm-whs/sites-canada) — consulted 2026-11-25 as inventory, regional context or site information; not all specific claims and coordinates verified. Broad list links establish inventory inclusion, not independent visitor fact verification.
+- Missing or uncertain facts: Independent claim-level corroboration, exact representative coordinate and current visitor conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Los Glaciares (AR)](../../../countries/AR/sights/los-glaciares-national-park.yaml) | less alpine impact than Los Glaciares |
+| [Great Blue Hole (BZ)](../../../countries/BZ/sights/blue-hole-natural-monument-great-blue-hole.yaml) | distinct fossil science from Great Blue Hole |
+| [Pitch Lake (TT)](../../../countries/TT/sights/la-brea-pitch-lake.yaml) | broader palaeontology than Pitch Lake |
+| [Sulphur Springs (LC)](../../../countries/LC/sights/sulphur-springs.yaml) | more trail depth than Sulphur Springs |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.8 | dramatic eroded badlands |
+| Uniqueness | 9.1 | exceptional dinosaur fossil record |
+| Significance | 9.4 | major palaeontological significance |
+| Experience | 8.8 | guided trails and interpretation |
+| Depth | 8.6 | several fossil and scenic areas |
+
+- Applicable categories: nature: 9.3, photography: 9.1, history: 9.0.
+- Overall: 89.75/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide assessment of named scope only.
+- Earlier decision: none.
+- Verification still needed: Independent factual and geographic verification.
+
+## sight-ca-gros-morne-national-park — Gros Morne National Park — 2026-11-25
+
+- YAML: [source](../../../countries/CA/sights/gros-morne-national-park.yaml)
+- Action: new
+- Precise subject: Park landscape and permitted fjord and Tablelands visits.
+- Location check: 49.60, -57.85; approximate representative point; independent coordinate verification outstanding. 
+- Evidence status: **source-linked-unverified**
+- Evidence: [Parks Canada](https://parks.canada.ca/culture/spm-whs/sites-canada); [Parks Canada](https://parks.canada.ca/voyage-travel) — consulted 2026-11-25 as inventory, regional context or site information; not all specific claims and coordinates verified. Broad list links establish inventory inclusion, not independent visitor fact verification.
+- Missing or uncertain facts: Independent claim-level corroboration, exact representative coordinate and current visitor conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Torres del Paine (CL)](../../../countries/CL/sights/torres-del-paine-national-park.yaml) | less alpine glacier drama than Torres del Paine |
+| [Los Glaciares (AR)](../../../countries/AR/sights/los-glaciares-national-park.yaml) | different plate tectonic significance from Los Glaciares |
+| [Grossglockner Road (AT)](../../../countries/AT/sights/grossglockner-high-alpine-road.yaml) | more landscape diversity than Grossglockner Road |
+| [Pitons (LC)](../../../countries/LC/sights/pitons-management-area.yaml) | greater depth than Pitons |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 9.2 | fjord cliffs and unusual exposed mantle terrain |
+| Uniqueness | 9.2 | rare geological landscape combination |
+| Significance | 9.3 | major plate tectonic evidence |
+| Experience | 8.9 | boat and hiking experiences |
+| Depth | 9.0 | many distinct landscapes |
+
+- Applicable categories: nature: 9.4, photography: 9.4, adventure: 9.2.
+- Overall: 91.55/100.
+- High-score challenge: 90+ justified by combined fjord and exposed mantle geology and coherent visitor circuits.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide assessment of named scope only.
+- Earlier decision: none.
+- Verification still needed: Independent factual and geographic verification.
+
+## sight-ca-joggins-fossil-cliffs — Joggins Fossil Cliffs — 2026-11-25
+
+- YAML: [source](../../../countries/CA/sights/joggins-fossil-cliffs.yaml)
+- Action: new
+- Precise subject: Accessible fossil coast and interpretation, tide and collection restrictions apply.
+- Location check: 45.694, -64.451; approximate representative point; independent coordinate verification outstanding. 
+- Evidence status: **source-linked-unverified**
+- Evidence: [Parks Canada](https://parks.canada.ca/culture/spm-whs/sites-canada) — consulted 2026-11-25 as inventory, regional context or site information; not all specific claims and coordinates verified. Broad list links establish inventory inclusion, not independent visitor fact verification.
+- Missing or uncertain facts: Independent claim-level corroboration, exact representative coordinate and current visitor conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Los Glaciares (AR)](../../../countries/AR/sights/los-glaciares-national-park.yaml) | less dramatic than Los Glaciares |
+| [Great Blue Hole (BZ)](../../../countries/BZ/sights/blue-hole-natural-monument-great-blue-hole.yaml) | different geological record from Great Blue Hole |
+| [Pitch Lake (TT)](../../../countries/TT/sights/la-brea-pitch-lake.yaml) | greater fossil context than Pitch Lake |
+| [Sulphur Springs (LC)](../../../countries/LC/sights/sulphur-springs.yaml) | less immersive natural activity than Sulphur Springs |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 7.9 | stratified coastal cliffs |
+| Uniqueness | 8.9 | rare Carboniferous terrestrial record |
+| Significance | 9.3 | international fossil significance |
+| Experience | 8.2 | guided cliff and museum experience |
+| Depth | 7.6 | limited coastline circuit |
+
+- Applicable categories: nature: 9.0, history: 8.9.
+- Overall: 84.45/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide assessment of named scope only.
+- Earlier decision: none.
+- Verification still needed: Independent factual and geographic verification.
+
+## sight-ca-kluane-national-park — Kluane National Park and Reserve — 2026-11-25
+
+- YAML: [source](../../../countries/CA/sights/kluane-national-park.yaml)
+- Action: new
+- Precise subject: Canadian Kluane component of cross-border World Heritage property only.
+- Location check: 60.62, -138.65; approximate representative point; independent coordinate verification outstanding. 
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/72/); [Parks Canada](https://parks.canada.ca/voyage-travel) — consulted 2026-11-25 as inventory, regional context or site information; not all specific claims and coordinates verified. Broad list links establish inventory inclusion, not independent visitor fact verification.
+- Missing or uncertain facts: Independent claim-level corroboration, exact representative coordinate and current visitor conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Torres del Paine (CL)](../../../countries/CL/sights/torres-del-paine-national-park.yaml) | comparable vast mountain scenery to Torres del Paine |
+| [Los Glaciares (AR)](../../../countries/AR/sights/los-glaciares-national-park.yaml) | different high-latitude icefield from Los Glaciares |
+| [Grossglockner Road (AT)](../../../countries/AT/sights/grossglockner-high-alpine-road.yaml) | less road-accessible than Grossglockner |
+| [Pitons (LC)](../../../countries/LC/sights/pitons-management-area.yaml) | much larger than Pitons |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 9.4 | huge mountains glaciers and lakes |
+| Uniqueness | 9.2 | rare high-latitude icefield landscape |
+| Significance | 9.2 | major glacial and ecological significance |
+| Experience | 8.6 | permitted hikes and scenic visits |
+| Depth | 9.0 | many wilderness routes |
+
+- Applicable categories: nature: 9.4, photography: 9.4, adventure: 9.2.
+- Overall: 91.50/100.
+- High-score challenge: 90+ supported by immense glacial landscapes and permitted multi-route exploration, not cross-border entirety.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide assessment of named scope only.
+- Earlier decision: none.
+- Verification still needed: Independent factual and geographic verification.
+
+## sight-ca-miguasha-national-park — Miguasha National Park — 2026-11-25
+
+- YAML: [source](../../../countries/CA/sights/miguasha-national-park.yaml)
+- Action: new
+- Precise subject: Interpreted fossil cliff and museum.
+- Location check: 48.108, -66.352; approximate representative point; independent coordinate verification outstanding. 
+- Evidence status: **source-linked-unverified**
+- Evidence: [Parks Canada](https://parks.canada.ca/culture/spm-whs/sites-canada) — consulted 2026-11-25 as inventory, regional context or site information; not all specific claims and coordinates verified. Broad list links establish inventory inclusion, not independent visitor fact verification.
+- Missing or uncertain facts: Independent claim-level corroboration, exact representative coordinate and current visitor conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Los Glaciares (AR)](../../../countries/AR/sights/los-glaciares-national-park.yaml) | less landscape scale than Los Glaciares |
+| [Great Blue Hole (BZ)](../../../countries/BZ/sights/blue-hole-natural-monument-great-blue-hole.yaml) | different scientific value from Great Blue Hole |
+| [Pitch Lake (TT)](../../../countries/TT/sights/la-brea-pitch-lake.yaml) | more fossil interpretation than Pitch Lake |
+| [Sulphur Springs (LC)](../../../countries/LC/sights/sulphur-springs.yaml) | less active experience than Sulphur Springs |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 7.5 | cliff and fossil interpretation |
+| Uniqueness | 8.8 | rare Devonian vertebrate record |
+| Significance | 9.2 | major evolutionary science |
+| Experience | 8.0 | museum and shore viewing |
+| Depth | 7.5 | compact site |
+
+- Applicable categories: nature: 8.8, history: 8.8.
+- Overall: 82.40/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide assessment of named scope only.
+- Earlier decision: none.
+- Verification still needed: Independent factual and geographic verification.
+
+## sight-ca-mistaken-point — Mistaken Point — 2026-11-25
+
+- YAML: [source](../../../countries/CA/sights/mistaken-point.yaml)
+- Action: new
+- Precise subject: Protected Ediacaran fossil surfaces, permitted guided visits only.
+- Location check: 46.63, -53.17; approximate representative point; independent coordinate verification outstanding. 
+- Evidence status: **source-linked-unverified**
+- Evidence: [Parks Canada](https://parks.canada.ca/culture/spm-whs/sites-canada) — consulted 2026-11-25 as inventory, regional context or site information; not all specific claims and coordinates verified. Broad list links establish inventory inclusion, not independent visitor fact verification.
+- Missing or uncertain facts: Independent claim-level corroboration, exact representative coordinate and current visitor conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Los Glaciares (AR)](../../../countries/AR/sights/los-glaciares-national-park.yaml) | less landscape drama than Los Glaciares |
+| [Great Blue Hole (BZ)](../../../countries/BZ/sights/blue-hole-natural-monument-great-blue-hole.yaml) | distinct evolutionary value from Great Blue Hole |
+| [Pitch Lake (TT)](../../../countries/TT/sights/la-brea-pitch-lake.yaml) | rarer fossil record than Pitch Lake |
+| [Sulphur Springs (LC)](../../../countries/LC/sights/sulphur-springs.yaml) | less recreational variety than Sulphur Springs |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.1 | coastal fossil-bearing rock surfaces |
+| Uniqueness | 9.2 | exceptional early complex-life record |
+| Significance | 9.4 | major evolutionary science |
+| Experience | 8.0 | guided scientific interpretation |
+| Depth | 7.6 | single protected fossil landscape |
+
+- Applicable categories: nature: 9.1, history: 8.9.
+- Overall: 85.70/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide assessment of named scope only.
+- Earlier decision: none.
+- Verification still needed: Independent factual and geographic verification.
+
+## sight-ca-nahanni-national-park — Nahanni National Park Reserve — 2026-11-25
+
+- YAML: [source](../../../countries/CA/sights/nahanni-national-park.yaml)
+- Action: new
+- Precise subject: Permitted river and flight-based wilderness routes, not unrestricted terrain.
+- Location check: 61.61, -125.82; approximate representative point; independent coordinate verification outstanding. 
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/24/); [Parks Canada](https://parks.canada.ca/voyage-travel) — consulted 2026-11-25 as inventory, regional context or site information; not all specific claims and coordinates verified. Broad list links establish inventory inclusion, not independent visitor fact verification.
+- Missing or uncertain facts: Independent claim-level corroboration, exact representative coordinate and current visitor conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Torres del Paine (CL)](../../../countries/CL/sights/torres-del-paine-national-park.yaml) | different river focus from Torres del Paine |
+| [Los Glaciares (AR)](../../../countries/AR/sights/los-glaciares-national-park.yaml) | comparable vast wilderness to Los Glaciares |
+| [Grossglockner Road (AT)](../../../countries/AT/sights/grossglockner-high-alpine-road.yaml) | less road-accessible than Grossglockner |
+| [Pitons (LC)](../../../countries/LC/sights/pitons-management-area.yaml) | far broader than Pitons |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 9.5 | massive river canyons and falls |
+| Uniqueness | 9.3 | exceptional remote northern river landscape |
+| Significance | 9.3 | major karst and wilderness conservation |
+| Experience | 8.6 | specialist guided river and scenic routes |
+| Depth | 9.1 | multiple wilderness stretches |
+
+- Applicable categories: nature: 9.6, photography: 9.5, adventure: 9.3.
+- Overall: 92.35/100.
+- High-score challenge: Impact and nature/photography justified by exceptional canyon and waterfall landscape, with experience limited to documented routes; below Torres del Paine overall.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide assessment of named scope only.
+- Earlier decision: none.
+- Verification still needed: Independent factual and geographic verification.
+
+## sight-ca-waterton-lakes-national-park — Waterton Lakes National Park — 2026-11-25
+
+- YAML: [source](../../../countries/CA/sights/waterton-lakes-national-park.yaml)
+- Action: new
+- Precise subject: Canadian Waterton component only, not US Glacier National Park.
+- Location check: 49.05, -113.92; approximate representative point; independent coordinate verification outstanding. 
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/354/); [Destination Canada](https://travel.destinationcanada.com/en-ca/things-to-do/adventure-canadian-rockies) — consulted 2026-11-25 as inventory, regional context or site information; not all specific claims and coordinates verified. Broad list links establish inventory inclusion, not independent visitor fact verification.
+- Missing or uncertain facts: Independent claim-level corroboration, exact representative coordinate and current visitor conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Torres del Paine (CL)](../../../countries/CL/sights/torres-del-paine-national-park.yaml) | less dramatic than Torres del Paine |
+| [Los Glaciares (AR)](../../../countries/AR/sights/los-glaciares-national-park.yaml) | less glacier spectacle than Los Glaciares |
+| [Grossglockner Road (AT)](../../../countries/AT/sights/grossglockner-high-alpine-road.yaml) | more park depth than Grossglockner Road |
+| [Pitons (LC)](../../../countries/LC/sights/pitons-management-area.yaml) | larger than Pitons |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.9 | mountains meeting prairie and lakes |
+| Uniqueness | 8.7 | distinct abrupt ecological transition |
+| Significance | 8.8 | international cross-border conservation |
+| Experience | 8.8 | hiking and lake views |
+| Depth | 8.7 | multiple park circuits |
+
+- Applicable categories: nature: 9.3, photography: 9.2, adventure: 9.0.
+- Overall: 87.95/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide assessment of named scope only.
+- Earlier decision: none.
+- Verification still needed: Independent factual and geographic verification.
+
+## sight-ca-wood-buffalo-national-park — Wood Buffalo National Park — 2026-11-25
+
+- YAML: [source](../../../countries/CA/sights/wood-buffalo-national-park.yaml)
+- Action: new
+- Precise subject: Permitted park routes and ordinary wildlife opportunities, not remote delta access guarantee.
+- Location check: 59.2, -112.4; approximate representative point; independent coordinate verification outstanding. 
+- Evidence status: **source-linked-unverified**
+- Evidence: [Parks Canada](https://parks.canada.ca/culture/spm-whs/sites-canada); [Parks Canada](https://parks.canada.ca/voyage-travel) — consulted 2026-11-25 as inventory, regional context or site information; not all specific claims and coordinates verified. Broad list links establish inventory inclusion, not independent visitor fact verification.
+- Missing or uncertain facts: Independent claim-level corroboration, exact representative coordinate and current visitor conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Torres del Paine (CL)](../../../countries/CL/sights/torres-del-paine-national-park.yaml) | less dramatic mountains than Torres del Paine |
+| [Cockscomb Basin (BZ)](../../../countries/BZ/sights/cockscomb-basin-wildlife-sanctuary.yaml) | more northern ecosystem scope than Cockscomb |
+| [Main Ridge (TT)](../../../countries/TT/sights/tobago-main-ridge-forest-reserve.yaml) | larger boreal landscape than Main Ridge |
+| [Des Cartiers (LC)](../../../countries/LC/sights/des-cartiers-rainforest-trail.yaml) | far broader than Des Cartiers |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.6 | vast boreal wetlands and salt plains |
+| Uniqueness | 9.0 | rare bison and crane habitats |
+| Significance | 9.4 | international conservation significance |
+| Experience | 8.0 | specialized park visits |
+| Depth | 8.5 | multiple ecosystems with access limits |
+
+- Applicable categories: nature: 9.3, wildlife: 9.4.
+- Overall: 87.60/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide assessment of named scope only.
+- Earlier decision: none.
+- Verification still needed: Independent factual and geographic verification.
+
+## sight-ca-sgang-gwaay — SGang Gwaay — 2026-11-25
+
+- YAML: [source](../../../countries/CA/sights/sgang-gwaay.yaml)
+- Action: new
+- Precise subject: Haida village remains with authorized guided visits only.
+- Location check: 52.099, -131.22; approximate representative point; independent coordinate verification outstanding. 
+- Evidence status: **source-linked-unverified**
+- Evidence: [Parks Canada](https://parks.canada.ca/culture/spm-whs/sites-canada) — consulted 2026-11-25 as inventory, regional context or site information; not all specific claims and coordinates verified. Broad list links establish inventory inclusion, not independent visitor fact verification.
+- Missing or uncertain facts: Independent claim-level corroboration, exact representative coordinate and current visitor conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Angkor Wat (KH)](../../../countries/KH/sights/angkor-wat.yaml) | less built monumentality than Angkor Wat |
+| [Machu Picchu (PE)](../../../countries/PE/sights/historic-sanctuary-of-machu-picchu.yaml) | different living Indigenous context from Machu Picchu |
+| [Caracol (BZ)](../../../countries/BZ/sights/caracol-archaeological-reserve.yaml) | less urban scope than Caracol |
+| [Layou Petroglyph Park (VC)](../../../countries/VC/sights/layou-petroglyph-park.yaml) | greater material heritage than Layou |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.5 | weathered poles and coastal forest |
+| Uniqueness | 9.2 | rare in-situ Haida village heritage |
+| Significance | 9.3 | international Indigenous cultural significance |
+| Experience | 8.3 | respectful guided encounter |
+| Depth | 7.8 | small protected site |
+
+- Applicable categories: culture: 9.3, history: 9.3, photography: 8.9.
+- Overall: 87.35/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide assessment of named scope only.
+- Earlier decision: none.
+- Verification still needed: Independent factual and geographic verification.
+
+## sight-ca-trondek-klondike — Tr’ondëk-Klondike — 2026-11-25
+
+- YAML: [source](../../../countries/CA/sights/trondek-klondike.yaml)
+- Action: new
+- Precise subject: Serial Yukon heritage landscape, permitted interpreted stops; representative Dawson City.
+- Location check: 64.06, -139.43; approximate representative point; independent coordinate verification outstanding. 
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1564/) — consulted 2026-11-25 as inventory, regional context or site information; not all specific claims and coordinates verified. Broad list links establish inventory inclusion, not independent visitor fact verification.
+- Missing or uncertain facts: Independent claim-level corroboration, exact representative coordinate and current visitor conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Hohensalzburg (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) | less monumental architecture than Hohensalzburg |
+| [Bridgetown Garrison (BB)](../../../countries/BB/sights/historic-bridgetown-and-its-garrison.yaml) | different frontier history from Garrison |
+| [Pigeon Island (LC)](../../../countries/LC/sights/pigeon-island-national-landmark.yaml) | broader serial scope than Pigeon Island |
+| [Fort Hamilton (VC)](../../../countries/VC/sights/fort-hamilton-bequia.yaml) | greater interpretation breadth than Fort Hamilton |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.1 | frontier settlement and river landscape |
+| Uniqueness | 8.9 | distinct Indigenous colonial encounter narrative |
+| Significance | 9.2 | international gold-rush heritage |
+| Experience | 8.3 | multiple historical visits |
+| Depth | 8.5 | several component sites |
+
+- Applicable categories: history: 9.3, culture: 9.1.
+- Overall: 85.90/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide assessment of named scope only.
+- Earlier decision: none.
+- Verification still needed: Independent factual and geographic verification.
+
+## sight-ca-wanuskewin — Wanuskewin Heritage Park — 2026-11-25
+
+- YAML: [source](../../../countries/CA/sights/wanuskewin.yaml)
+- Action: new
+- Precise subject: Tentative cultural park and public interpretation.
+- Location check: 52.224, -106.597; approximate representative point; independent coordinate verification outstanding. 
+- Evidence status: **source-linked-unverified**
+- Evidence: [Parks Canada](https://parks.canada.ca/culture/spm-whs/indicative-tentative) — consulted 2026-11-25 as inventory, regional context or site information; not all specific claims and coordinates verified. Broad list links establish inventory inclusion, not independent visitor fact verification.
+- Missing or uncertain facts: Independent claim-level corroboration, exact representative coordinate and current visitor conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Angkor Wat (KH)](../../../countries/KH/sights/angkor-wat.yaml) | less built monumentality than Angkor Wat |
+| [Machu Picchu (PE)](../../../countries/PE/sights/historic-sanctuary-of-machu-picchu.yaml) | different gathering landscape from Machu Picchu |
+| [Caracol (BZ)](../../../countries/BZ/sights/caracol-archaeological-reserve.yaml) | less urban ruins than Caracol |
+| [Layou Petroglyph Park (VC)](../../../countries/VC/sights/layou-petroglyph-park.yaml) | more interpreted landscape than Layou |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.1 | prairie landscape and exhibitions |
+| Uniqueness | 8.7 | long Indigenous gathering history |
+| Significance | 9.0 | major cultural heritage |
+| Experience | 8.5 | trails and interpretation |
+| Depth | 8.1 | multiple exhibits and sites |
+
+- Applicable categories: history: 9.2, culture: 9.2.
+- Overall: 84.90/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide assessment of named scope only.
+- Earlier decision: none.
+- Verification still needed: Independent factual and geographic verification.
+
+## sight-ca-hearts-content-cable-station — Heart's Content Cable Station — 2026-11-25
+
+- YAML: [source](../../../countries/CA/sights/hearts-content-cable-station.yaml)
+- Action: new
+- Precise subject: Canadian cable station component of Transatlantic Cable Ensemble only.
+- Location check: 47.871, -53.366; approximate representative point; independent coordinate verification outstanding. 
+- Evidence status: **source-linked-unverified**
+- Evidence: [Parks Canada](https://parks.canada.ca/culture/spm-whs/indicative-tentative) — consulted 2026-11-25 as inventory, regional context or site information; not all specific claims and coordinates verified. Broad list links establish inventory inclusion, not independent visitor fact verification.
+- Missing or uncertain facts: Independent claim-level corroboration, exact representative coordinate and current visitor conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Natural History Museum Vienna (AT)](../../../countries/AT/sights/natural-history-museum-vienna.yaml) | less broad scientific collection than Vienna Natural History Museum |
+| [MALBA (AR)](../../../countries/AR/sights/malba-buenos-aires.yaml) | different technical heritage from MALBA |
+| [Barbados Museum (BB)](../../../countries/BB/sights/barbados-museum-and-historical-society.yaml) | more focused industrial history than Barbados Museum |
+| [Museum of Belize (BZ)](../../../countries/BZ/sights/museum-of-belize.yaml) | more equipment interpretation than Museum of Belize |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 7.3 | preserved communications equipment |
+| Uniqueness | 8.5 | rare early transatlantic telegraph infrastructure |
+| Significance | 8.9 | major communication history |
+| Experience | 8.0 | interpreted museum |
+| Depth | 7.4 | focused site |
+
+- Applicable categories: history: 9.1, culture: 8.5.
+- Overall: 80.35/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide assessment of named scope only.
+- Earlier decision: none.
+- Verification still needed: Independent factual and geographic verification.
+
+## sight-ca-gwaii-haanas — Gwaii Haanas National Park Reserve and Haida Heritage Site — 2026-11-25
+
+- YAML: [source](../../../countries/CA/sights/gwaii-haanas.yaml)
+- Action: new
+- Precise subject: Tentative land and marine cultural landscape; permitted managed trips, not all Haida sites.
+- Location check: 52.4, -131.35; approximate representative point; independent coordinate verification outstanding. 
+- Evidence status: **source-linked-unverified**
+- Evidence: [Parks Canada](https://parks.canada.ca/culture/spm-whs/indicative-tentative); [Parks Canada](https://parks.canada.ca/voyage-travel) — consulted 2026-11-25 as inventory, regional context or site information; not all specific claims and coordinates verified. Broad list links establish inventory inclusion, not independent visitor fact verification.
+- Missing or uncertain facts: Independent claim-level corroboration, exact representative coordinate and current visitor conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Torres del Paine (CL)](../../../countries/CL/sights/torres-del-paine-national-park.yaml) | less mountain drama than Torres del Paine |
+| [Cockscomb Basin (BZ)](../../../countries/BZ/sights/cockscomb-basin-wildlife-sanctuary.yaml) | different coastal forest from Cockscomb |
+| [Main Ridge (TT)](../../../countries/TT/sights/tobago-main-ridge-forest-reserve.yaml) | more marine and cultural breadth than Main Ridge |
+| [Des Cartiers (LC)](../../../countries/LC/sights/des-cartiers-rainforest-trail.yaml) | far broader than Des Cartiers |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 9.0 | remote temperate rainforest and coast |
+| Uniqueness | 9.2 | distinct Haida cultural and ecological landscape |
+| Significance | 9.2 | major biodiversity and cultural heritage |
+| Experience | 8.5 | authorized boat and guided visits |
+| Depth | 8.8 | multiple coastal habitats |
+
+- Applicable categories: nature: 9.4, culture: 9.3, wildlife: 9.2.
+- Overall: 89.95/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide assessment of named scope only.
+- Earlier decision: none.
+- Verification still needed: Independent factual and geographic verification.
+
+## sight-ca-stanley-park — Stanley Park — 2026-11-25
+
+- YAML: [source](../../../countries/CA/sights/stanley-park.yaml)
+- Action: new
+- Precise subject: Urban park forest and seawall, not whole Vancouver.
+- Location check: 49.304, -123.144; approximate representative point; independent coordinate verification outstanding. 
+- Evidence status: **source-linked-unverified**
+- Evidence: [Destination Canada](https://travel.destinationcanada.com/en-ca/things-to-do/canadas-vibrant-cities-coast-to-coast); [Destination Canada](https://travel.destinationcanada.com/en-ca/things-to-do/canadas-unique-neighbourhoods) — consulted 2026-11-25 as inventory, regional context or site information; not all specific claims and coordinates verified. Broad list links establish inventory inclusion, not independent visitor fact verification.
+- Missing or uncertain facts: Independent claim-level corroboration, exact representative coordinate and current visitor conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Torres del Paine (CL)](../../../countries/CL/sights/torres-del-paine-national-park.yaml) | less wilderness than Torres del Paine |
+| [Cockscomb Basin (BZ)](../../../countries/BZ/sights/cockscomb-basin-wildlife-sanctuary.yaml) | less wildlife than Cockscomb |
+| [Main Ridge (TT)](../../../countries/TT/sights/tobago-main-ridge-forest-reserve.yaml) | smaller forest scope than Main Ridge |
+| [Des Cartiers (LC)](../../../countries/LC/sights/des-cartiers-rainforest-trail.yaml) | greater urban recreation than Des Cartiers |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.4 | coastal forest and skyline views |
+| Uniqueness | 8.1 | large urban forest peninsula |
+| Significance | 7.8 | local ecological and cultural context |
+| Experience | 8.8 | walking cycling and shore visits |
+| Depth | 8.4 | multiple park circuits |
+
+- Applicable categories: nature: 8.8, photography: 8.9, relaxation: 9.1.
+- Overall: 82.65/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide assessment of named scope only.
+- Earlier decision: none.
+- Verification still needed: Independent factual and geographic verification.
+
+## sight-ca-cn-tower — CN Tower — 2026-11-25
+
+- YAML: [source](../../../countries/CA/sights/cn-tower.yaml)
+- Action: new
+- Precise subject: Tower and ordinary public observation experience.
+- Location check: 43.6426, -79.3871; approximate representative point; independent coordinate verification outstanding. 
+- Evidence status: **source-linked-unverified**
+- Evidence: [Destination Canada](https://travel.destinationcanada.com/en-us/places-to-go/ontario) — consulted 2026-11-25 as inventory, regional context or site information; not all specific claims and coordinates verified. Broad list links establish inventory inclusion, not independent visitor fact verification.
+- Missing or uncertain facts: Independent claim-level corroboration, exact representative coordinate and current visitor conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Hohensalzburg (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) | less historic architecture than Hohensalzburg |
+| [Bridgetown Garrison (BB)](../../../countries/BB/sights/historic-bridgetown-and-its-garrison.yaml) | less breadth than Garrison |
+| [Pigeon Island (LC)](../../../countries/LC/sights/pigeon-island-national-landmark.yaml) | different urban view from Pigeon Island |
+| [Fort Hamilton (VC)](../../../countries/VC/sights/fort-hamilton-bequia.yaml) | more vertical panorama than Fort Hamilton |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.5 | high skyline panorama |
+| Uniqueness | 8.2 | distinct modern communications tower |
+| Significance | 8.0 | Canadian engineering and civic landmark |
+| Experience | 8.5 | observation visit |
+| Depth | 7.0 | single building |
+
+- Applicable categories: architecture: 8.7, photography: 9.0.
+- Overall: 81.75/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide assessment of named scope only.
+- Earlier decision: none.
+- Verification still needed: Independent factual and geographic verification.
+
+## sight-ca-athabasca-glacier — Athabasca Glacier — 2026-11-25
+
+- YAML: [source](../../../countries/CA/sights/athabasca-glacier.yaml)
+- Action: new
+- Precise subject: Glacier viewing and authorized guided activities only; not whole Columbia Icefield.
+- Location check: 52.193, -117.257; approximate representative point; independent coordinate verification outstanding. 
+- Evidence status: **source-linked-unverified**
+- Evidence: [Parks Canada](https://parks.canada.ca/pn-np/ab/banff/visit/promenadedesglaciers-icefieldsparkway); [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/304/) — consulted 2026-11-25 as inventory, regional context or site information; not all specific claims and coordinates verified. Broad list links establish inventory inclusion, not independent visitor fact verification.
+- Missing or uncertain facts: Independent claim-level corroboration, exact representative coordinate and current visitor conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Torres del Paine (CL)](../../../countries/CL/sights/torres-del-paine-national-park.yaml) | less landscape breadth than Torres del Paine |
+| [Perito Moreno (AR)](../../../countries/AR/sights/perito-moreno-glacier.yaml) | less dramatic ice front than Perito Moreno |
+| [Lake Hallstatt (AT)](../../../countries/AT/sights/hallstaetter-see.yaml) | greater ice spectacle than Hallstatt Lake |
+| [Pitons (LC)](../../../countries/LC/sights/pitons-management-area.yaml) | different glacier experience from Pitons |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 9.0 | large glacier descending to valley |
+| Uniqueness | 8.8 | accessible alpine ice landscape |
+| Significance | 8.5 | regional glaciological significance |
+| Experience | 8.7 | viewpoints and permitted guided visits |
+| Depth | 7.8 | limited glacier-specific circuit |
+
+- Applicable categories: nature: 9.2, photography: 9.2, adventure: 8.8.
+- Overall: 86.85/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide assessment of named scope only.
+- Earlier decision: none.
+- Verification still needed: Independent factual and geographic verification.
+
+## sight-ca-johnston-canyon — Johnston Canyon — 2026-11-25
+
+- YAML: [source](../../../countries/CA/sights/johnston-canyon.yaml)
+- Action: new
+- Precise subject: Canyon walkway and waterfalls, not full park.
+- Location check: 51.245, -115.839; approximate representative point; independent coordinate verification outstanding. 
+- Evidence status: **source-linked-unverified**
+- Evidence: [Parks Canada](https://parks.canada.ca/pn-np/ab/banff/visit/les10-top10/itineraries) — consulted 2026-11-25 as inventory, regional context or site information; not all specific claims and coordinates verified. Broad list links establish inventory inclusion, not independent visitor fact verification.
+- Missing or uncertain facts: Independent claim-level corroboration, exact representative coordinate and current visitor conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Iguazú Falls (AR)](../../../countries/AR/sights/iguazu-falls-argentine-circuits.yaml) | far less waterfall scale than Iguazú |
+| [Iguaçu Falls (BR)](../../../countries/BR/sights/iguacu-falls-brazilian-viewpoints.yaml) | more enclosed gorge than Brazilian viewpoints |
+| [Krimml Falls (AT)](../../../countries/AT/sights/krimml-waterfalls.yaml) | less cascade scale than Krimml |
+| [Dark View Falls (VC)](../../../countries/VC/sights/dark-view-falls.yaml) | greater trail variety than Dark View |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.6 | narrow gorge and cascades |
+| Uniqueness | 8.3 | distinct cliffside walkway |
+| Significance | 7.5 | local karst and river context |
+| Experience | 8.9 | rewarding trail |
+| Depth | 8.0 | several waterfall stops |
+
+- Applicable categories: nature: 9.0, photography: 9.0, adventure: 8.8.
+- Overall: 82.90/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide assessment of named scope only.
+- Earlier decision: none.
+- Verification still needed: Independent factual and geographic verification.
+
+## sight-ca-halifax-citadel — Halifax Citadel — 2026-11-25
+
+- YAML: [source](../../../countries/CA/sights/halifax-citadel.yaml)
+- Action: new
+- Precise subject: Fort and interpreted grounds only.
+- Location check: 44.648, -63.580; approximate representative point; independent coordinate verification outstanding. 
+- Evidence status: **source-linked-unverified**
+- Evidence: [Parks Canada](https://parks.canada.ca/culture/spm-whs/sites-canada); [Parks Canada](https://parks.canada.ca/voyage-travel) — consulted 2026-11-25 as inventory, regional context or site information; not all specific claims and coordinates verified. Broad list links establish inventory inclusion, not independent visitor fact verification.
+- Missing or uncertain facts: Independent claim-level corroboration, exact representative coordinate and current visitor conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Hohensalzburg (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) | less monumental than Hohensalzburg |
+| [Bridgetown Garrison (BB)](../../../countries/BB/sights/historic-bridgetown-and-its-garrison.yaml) | less dispersed than Garrison |
+| [Pigeon Island (LC)](../../../countries/LC/sights/pigeon-island-national-landmark.yaml) | more intact fort than Pigeon Island |
+| [Fort Hamilton (VC)](../../../countries/VC/sights/fort-hamilton-bequia.yaml) | greater interpretation than Fort Hamilton |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.0 | star fort and city view |
+| Uniqueness | 8.1 | British Atlantic defense architecture |
+| Significance | 8.6 | major naval history |
+| Experience | 8.5 | guided heritage and exhibits |
+| Depth | 7.8 | one substantial complex |
+
+- Applicable categories: history: 9.0, architecture: 8.7.
+- Overall: 82.00/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide assessment of named scope only.
+- Earlier decision: none.
+- Verification still needed: Independent factual and geographic verification.
+
+## sight-ca-pimachiowin-aki — Pimachiowin Aki — 2026-11-25
+
+- YAML: [source](../../../countries/CA/sights/pimachiowin-aki.yaml)
+- Action: new
+- Precise subject: Large living Indigenous boreal landscape, representative broad point only.
+- Location check: 52.0, -95.0; approximate representative point; independent coordinate verification outstanding. Broad public landscape reference, not a navigation point.
+- Evidence status: **unassessed**
+- Evidence: [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1415/) — consulted 2026-11-25 as inventory, regional context or site information; not all specific claims and coordinates verified. Broad list links establish inventory inclusion, not independent visitor fact verification.
+- Missing or uncertain facts: Specific permitted ordinary itinerary, geographic scope and access conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Torres del Paine (CL)](../../../countries/CL/sights/torres-del-paine-national-park.yaml) | Ordinary visit scope not verified against Torres del Paine |
+| [Cockscomb Basin (BZ)](../../../countries/BZ/sights/cockscomb-basin-wildlife-sanctuary.yaml) | No comparable documented route to Cockscomb Basin |
+| [Main Ridge (TT)](../../../countries/TT/sights/tobago-main-ridge-forest-reserve.yaml) | Heritage significance does not establish visitor experience compared with Main Ridge |
+| [Des Cartiers (LC)](../../../countries/LC/sights/des-cartiers-rainforest-trail.yaml) | No confirmed bounded visitor circuit like Des Cartiers |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | null | visible ordinary visitor scope undefined |
+| Uniqueness | null | combined boreal and Anishinaabe heritage |
+| Significance | null | international mixed heritage |
+| Experience | null | community permissions and itinerary unresolved |
+| Depth | null | no coherent whole-property visit established |
+
+- Applicable categories: unassessed.
+- Overall: unranked.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Retain unranked pending evidence of ordinary permitted visitor experience.
+- Earlier decision: none.
+- Verification still needed: Site-specific access, community permissions and representative geography.
+
+## sight-ca-tatshenshini-alsek — Tatshenshini-Alsek Provincial Park — 2026-11-25
+
+- YAML: [source](../../../countries/CA/sights/tatshenshini-alsek.yaml)
+- Action: new
+- Precise subject: Canadian component of cross-border property, broad park reference.
+- Location check: 59.80, -137.20; approximate representative point; independent coordinate verification outstanding. Broad public landscape reference, not a navigation point.
+- Evidence status: **unassessed**
+- Evidence: [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/72/) — consulted 2026-11-25 as inventory, regional context or site information; not all specific claims and coordinates verified. Broad list links establish inventory inclusion, not independent visitor fact verification.
+- Missing or uncertain facts: Specific permitted ordinary itinerary, geographic scope and access conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Torres del Paine (CL)](../../../countries/CL/sights/torres-del-paine-national-park.yaml) | Ordinary visit scope not verified against Torres del Paine |
+| [Los Glaciares (AR)](../../../countries/AR/sights/los-glaciares-national-park.yaml) | No comparable documented route to Los Glaciares |
+| [Grossglockner Road (AT)](../../../countries/AT/sights/grossglockner-high-alpine-road.yaml) | Heritage significance does not establish visitor experience compared with Grossglockner Road |
+| [Pitons (LC)](../../../countries/LC/sights/pitons-management-area.yaml) | No confirmed bounded visitor circuit like Pitons |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | null | specific visitor scope unverified |
+| Uniqueness | null | large glaciated river landscape |
+| Significance | null | major conservation significance |
+| Experience | null | specialized authorized routes unclear |
+| Depth | null | ordinary visit breadth unresolved |
+
+- Applicable categories: unassessed.
+- Overall: unranked.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Retain unranked pending evidence of ordinary permitted visitor experience.
+- Earlier decision: none.
+- Verification still needed: Site-specific access, community permissions and representative geography.
+
+## sight-ca-ivvavik-vuntut-herschel-island — Ivvavik / Vuntut / Herschel Island (Qikiqtaruk) — 2026-11-25
+
+- YAML: [source](../../../countries/CA/sights/ivvavik-vuntut-herschel-island.yaml)
+- Action: new
+- Precise subject: Serial tentative Arctic landscape, broad reference at Ivvavik region.
+- Location check: 69.1, -139.2; approximate representative point; independent coordinate verification outstanding. Broad public landscape reference, not a navigation point.
+- Evidence status: **unassessed**
+- Evidence: [Parks Canada](https://parks.canada.ca/culture/spm-whs/indicative-tentative) — consulted 2026-11-25 as inventory, regional context or site information; not all specific claims and coordinates verified. Broad list links establish inventory inclusion, not independent visitor fact verification.
+- Missing or uncertain facts: Specific permitted ordinary itinerary, geographic scope and access conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Torres del Paine (CL)](../../../countries/CL/sights/torres-del-paine-national-park.yaml) | Ordinary visit scope not verified against Torres del Paine |
+| [Cockscomb Basin (BZ)](../../../countries/BZ/sights/cockscomb-basin-wildlife-sanctuary.yaml) | No comparable documented route to Cockscomb Basin |
+| [Main Ridge (TT)](../../../countries/TT/sights/tobago-main-ridge-forest-reserve.yaml) | Heritage significance does not establish visitor experience compared with Main Ridge |
+| [Des Cartiers (LC)](../../../countries/LC/sights/des-cartiers-rainforest-trail.yaml) | No confirmed bounded visitor circuit like Des Cartiers |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | null | combined visible scope uncertain |
+| Uniqueness | null | Arctic landscapes and cultural heritage |
+| Significance | null | regional conservation importance |
+| Experience | null | site-specific permissions unresolved |
+| Depth | null | no ordinary serial itinerary verified |
+
+- Applicable categories: unassessed.
+- Overall: unranked.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Retain unranked pending evidence of ordinary permitted visitor experience.
+- Earlier decision: none.
+- Verification still needed: Site-specific access, community permissions and representative geography.
+
+## sight-ca-quttinirpaaq — Quttinirpaaq National Park — 2026-11-25
+
+- YAML: [source](../../../countries/CA/sights/quttinirpaaq.yaml)
+- Action: new
+- Precise subject: High Arctic park, representative broad point only.
+- Location check: 81.6, -72.0; approximate representative point; independent coordinate verification outstanding. Broad public landscape reference, not a navigation point.
+- Evidence status: **unassessed**
+- Evidence: [Parks Canada](https://parks.canada.ca/culture/spm-whs/indicative-tentative) — consulted 2026-11-25 as inventory, regional context or site information; not all specific claims and coordinates verified. Broad list links establish inventory inclusion, not independent visitor fact verification.
+- Missing or uncertain facts: Specific permitted ordinary itinerary, geographic scope and access conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Torres del Paine (CL)](../../../countries/CL/sights/torres-del-paine-national-park.yaml) | Ordinary visit scope not verified against Torres del Paine |
+| [Cockscomb Basin (BZ)](../../../countries/BZ/sights/cockscomb-basin-wildlife-sanctuary.yaml) | No comparable documented route to Cockscomb Basin |
+| [Main Ridge (TT)](../../../countries/TT/sights/tobago-main-ridge-forest-reserve.yaml) | Heritage significance does not establish visitor experience compared with Main Ridge |
+| [Des Cartiers (LC)](../../../countries/LC/sights/des-cartiers-rainforest-trail.yaml) | No confirmed bounded visitor circuit like Des Cartiers |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | null | normal visible itinerary unknown |
+| Uniqueness | null | high Arctic ecosystem |
+| Significance | null | important polar conservation |
+| Experience | null | specialist access and permitted routes unresolved |
+| Depth | null | ordinary circuit unknown |
+
+- Applicable categories: unassessed.
+- Overall: unranked.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Retain unranked pending evidence of ordinary permitted visitor experience.
+- Earlier decision: none.
+- Verification still needed: Site-specific access, community permissions and representative geography.
+
+## sight-ca-hecate-strait-glass-sponge-reefs — Hecate Strait and Queen Charlotte Sound Glass Sponge Reefs — 2026-11-25
+
+- YAML: [source](../../../countries/CA/sights/hecate-strait-glass-sponge-reefs.yaml)
+- Action: new
+- Precise subject: Broad offshore protected reef nomination, not a dive destination or exact reef coordinate.
+- Location check: 53.0, -130.0; approximate representative point; independent coordinate verification outstanding. Broad public landscape reference, not a navigation point.
+- Evidence status: **unassessed**
+- Evidence: [Parks Canada](https://parks.canada.ca/culture/spm-whs/indicative-tentative) — consulted 2026-11-25 as inventory, regional context or site information; not all specific claims and coordinates verified. Broad list links establish inventory inclusion, not independent visitor fact verification.
+- Missing or uncertain facts: Specific permitted ordinary itinerary, geographic scope and access conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Los Glaciares (AR)](../../../countries/AR/sights/los-glaciares-national-park.yaml) | Ordinary visit scope not verified against Los Glaciares |
+| [Great Blue Hole (BZ)](../../../countries/BZ/sights/blue-hole-natural-monument-great-blue-hole.yaml) | No comparable documented route to Great Blue Hole |
+| [Pitch Lake (TT)](../../../countries/TT/sights/la-brea-pitch-lake.yaml) | Heritage significance does not establish visitor experience compared with Pitch Lake |
+| [Sulphur Springs (LC)](../../../countries/LC/sights/sulphur-springs.yaml) | No confirmed bounded visitor circuit like Sulphur Springs |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | null | visible visitor experience unconfirmed |
+| Uniqueness | null | rare glass sponge reefs |
+| Significance | null | major marine ecological significance |
+| Experience | null | ordinary permitted viewing unresolved |
+| Depth | null | no visitor circuit established |
+
+- Applicable categories: unassessed.
+- Overall: unranked.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Retain unranked pending evidence of ordinary permitted visitor experience.
+- Earlier decision: none.
+- Verification still needed: Site-specific access, community permissions and representative geography.
+
+## sight-ca-sirmilik-tallurutiup-imanga — Sirmilik National Park and Tallurutiup Imanga — 2026-11-25
+
+- YAML: [source](../../../countries/CA/sights/sirmilik-tallurutiup-imanga.yaml)
+- Action: new
+- Precise subject: Tentative combined land and marine landscape, broad reference only.
+- Location check: 73.0, -80.0; approximate representative point; independent coordinate verification outstanding. Broad public landscape reference, not a navigation point.
+- Evidence status: **unassessed**
+- Evidence: [Parks Canada](https://parks.canada.ca/culture/spm-whs/indicative-tentative) — consulted 2026-11-25 as inventory, regional context or site information; not all specific claims and coordinates verified. Broad list links establish inventory inclusion, not independent visitor fact verification.
+- Missing or uncertain facts: Specific permitted ordinary itinerary, geographic scope and access conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Torres del Paine (CL)](../../../countries/CL/sights/torres-del-paine-national-park.yaml) | Ordinary visit scope not verified against Torres del Paine |
+| [Cockscomb Basin (BZ)](../../../countries/BZ/sights/cockscomb-basin-wildlife-sanctuary.yaml) | No comparable documented route to Cockscomb Basin |
+| [Main Ridge (TT)](../../../countries/TT/sights/tobago-main-ridge-forest-reserve.yaml) | Heritage significance does not establish visitor experience compared with Main Ridge |
+| [Des Cartiers (LC)](../../../countries/LC/sights/des-cartiers-rainforest-trail.yaml) | No confirmed bounded visitor circuit like Des Cartiers |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | null | collective visible scope undefined |
+| Uniqueness | null | Arctic marine and glacial ecosystems |
+| Significance | null | major conservation and cultural importance |
+| Experience | null | community and permitted route evidence incomplete |
+| Depth | null | no defined whole-property circuit |
+
+- Applicable categories: unassessed.
+- Overall: unranked.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Retain unranked pending evidence of ordinary permitted visitor experience.
+- Earlier decision: none.
+- Verification still needed: Site-specific access, community permissions and representative geography.
+
+## sight-ca-stein-valley — Stein Valley — 2026-11-25
+
+- YAML: [source](../../../countries/CA/sights/stein-valley.yaml)
+- Action: new
+- Precise subject: Tentative Indigenous cultural and protected valley, ordinary authorized route unresolved.
+- Location check: 50.2, -122.1; approximate representative point; independent coordinate verification outstanding. Broad public landscape reference, not a navigation point.
+- Evidence status: **unassessed**
+- Evidence: [Parks Canada](https://parks.canada.ca/culture/spm-whs/indicative-tentative) — consulted 2026-11-25 as inventory, regional context or site information; not all specific claims and coordinates verified. Broad list links establish inventory inclusion, not independent visitor fact verification.
+- Missing or uncertain facts: Specific permitted ordinary itinerary, geographic scope and access conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Torres del Paine (CL)](../../../countries/CL/sights/torres-del-paine-national-park.yaml) | Ordinary visit scope not verified against Torres del Paine |
+| [Cockscomb Basin (BZ)](../../../countries/BZ/sights/cockscomb-basin-wildlife-sanctuary.yaml) | No comparable documented route to Cockscomb Basin |
+| [Main Ridge (TT)](../../../countries/TT/sights/tobago-main-ridge-forest-reserve.yaml) | Heritage significance does not establish visitor experience compared with Main Ridge |
+| [Des Cartiers (LC)](../../../countries/LC/sights/des-cartiers-rainforest-trail.yaml) | No confirmed bounded visitor circuit like Des Cartiers |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | null | visible scope uncertain |
+| Uniqueness | null | living Indigenous landscape and wilderness |
+| Significance | null | important cultural and ecological context |
+| Experience | null | permission and route details unresolved |
+| Depth | null | ordinary visitor breadth unverified |
+
+- Applicable categories: unassessed.
+- Overall: unranked.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Retain unranked pending evidence of ordinary permitted visitor experience.
+- Earlier decision: none.
+- Verification still needed: Site-specific access, community permissions and representative geography.
+

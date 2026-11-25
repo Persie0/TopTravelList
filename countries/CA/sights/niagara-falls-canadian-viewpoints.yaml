@@ -1,0 +1,15 @@
+id: sight-ca-niagara-falls-canadian-viewpoints
+name: "Niagara Falls (Canadian viewpoints)"
+location:
+  country_code: CA
+  latitude: 43.0799
+  longitude: -79.0747
+scores:
+  impact: 9.6
+  uniqueness: 9.4
+  significance: 8.8
+  experience: 9.3
+  depth: 8.6
+  categories:
+    nature: 9.5
+    photography: 9.6

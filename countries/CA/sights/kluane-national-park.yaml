@@ -1,0 +1,16 @@
+id: sight-ca-kluane-national-park
+name: "Kluane National Park and Reserve"
+location:
+  country_code: CA
+  latitude: 60.62
+  longitude: -138.65
+scores:
+  impact: 9.4
+  uniqueness: 9.2
+  significance: 9.2
+  experience: 8.6
+  depth: 9.0
+  categories:
+    nature: 9.4
+    photography: 9.4
+    adventure: 9.2

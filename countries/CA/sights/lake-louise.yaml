@@ -1,0 +1,16 @@
+id: sight-ca-lake-louise
+name: "Lake Louise"
+location:
+  country_code: CA
+  latitude: 51.414
+  longitude: -116.217
+scores:
+  impact: 9.3
+  uniqueness: 8.9
+  significance: 7.9
+  experience: 9.0
+  depth: 8.4
+  categories:
+    nature: 9.3
+    photography: 9.4
+    adventure: 9.0

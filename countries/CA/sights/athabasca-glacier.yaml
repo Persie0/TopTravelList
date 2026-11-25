@@ -1,0 +1,16 @@
+id: sight-ca-athabasca-glacier
+name: "Athabasca Glacier"
+location:
+  country_code: CA
+  latitude: 52.193
+  longitude: -117.257
+scores:
+  impact: 9.0
+  uniqueness: 8.8
+  significance: 8.5
+  experience: 8.7
+  depth: 7.8
+  categories:
+    nature: 9.2
+    photography: 9.2
+    adventure: 8.8
