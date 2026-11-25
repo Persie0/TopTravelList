@@ -2,7 +2,7 @@
 
 # Togo (TG) — Cities, towns & villages ranking
 
-**14 ranked** · **2 unassessed** · **16 total** · Worldwide scoring **v2**
+**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,33 +10,11 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (14)
+## Complete ranked list (0)
 
-| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
-| ---: | --- | --- | ---: | --- | --- | --- | --- |
-| 1 | [Lomé](cities/lome.yaml) | City / town | **79.90** | **Culture 8.7**, **Food 8.6**, **History 8.4**, Architecture 8.0 | 7.7 / 8.0 / 8.1 / 8.2 / 8.3 | [6.1319, 1.2228](https://www.google.com/maps/search/?api=1&query=6.1319,1.2228) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lom%C3%A9%2C%20Togo) |
-| 2 | [Aného](cities/aneho.yaml) | City / town | **79.60** | **History 9.0**, **Culture 8.7**, **Architecture 8.3** | 7.7 / 8.2 / 8.6 / 7.8 / 7.1 | [6.233, 1.6](https://www.google.com/maps/search/?api=1&query=6.233,1.6) | [Google Maps](https://www.google.com/maps/search/?api=1&query=An%C3%A9ho%2C%20Togo) |
-| 3 | [Togoville](cities/togoville.yaml) | City / town | **78.30** | **Culture 9.0**, **History 8.9** | 7.3 / 8.4 / 8.5 / 7.8 / 6.7 | [6.23, 1.472](https://www.google.com/maps/search/?api=1&query=6.23,1.472) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Togoville%2C%20Togo) |
-| 4 | [Kpalimé](cities/kpalime.yaml) | City / town | **75.20** | **Culture 8.3**, **Food 8.0**, **Photography 7.9** | 7.3 / 7.8 / 7.0 / 8.2 / 7.5 | [6.9, 0.6333](https://www.google.com/maps/search/?api=1&query=6.9,0.6333) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kpalim%C3%A9%2C%20Togo) |
-| 5 | [Agbodrafo](cities/agbodrafo.yaml) | City / town | **74.95** | **History 8.9**, **Culture 8.3** | 7.0 / 7.7 / 8.4 / 7.6 / 6.5 | [6.201, 1.475](https://www.google.com/maps/search/?api=1&query=6.201,1.475) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Agbodrafo%2C%20Togo) |
-| 6 | [Notsè](cities/notse.yaml) | City / town | **72.85** | **History 8.9**, **Culture 8.8** | 6.3 / 8.0 / 8.4 / 7.3 / 6.2 | [6.95, 1.1667](https://www.google.com/maps/search/?api=1&query=6.95,1.1667) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nots%C3%A8%2C%20Togo) |
-| 7 | [Atakpamé](cities/atakpame.yaml) | City / town | **72.75** | **Photography 8.1**, **Culture 8.0** | 7.2 / 7.5 / 7.1 / 7.6 / 6.8 | [7.5333, 1.1333](https://www.google.com/maps/search/?api=1&query=7.5333,1.1333) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Atakpam%C3%A9%2C%20Togo) |
-| 8 | [Bassar](cities/bassar.yaml) | City / town | **72.40** | **History 8.6**, **Culture 8.5** | 6.5 / 7.8 / 7.9 / 7.4 / 6.5 | [9.25, 0.7833](https://www.google.com/maps/search/?api=1&query=9.25,0.7833) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bassar%2C%20Togo) |
-| 9 | [Sokodé](cities/sokode.yaml) | City / town | **71.05** | **Culture 8.3**, **History 8.0**, **Food 7.9** | 6.4 / 7.5 / 7.4 / 7.6 / 6.9 | [8.9833, 1.1333](https://www.google.com/maps/search/?api=1&query=8.9833,1.1333) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sokod%C3%A9%2C%20Togo) |
-| 10 | [Badou](cities/badou.yaml) | City / town | **69.85** | **Photography 8.0**, **Culture 7.7** | 7.0 / 7.4 / 6.5 / 7.5 / 6.1 | [7.5833, 0.6](https://www.google.com/maps/search/?api=1&query=7.5833,0.6) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Badou%2C%20Togo) |
-| 11 | [Kara](cities/kara.yaml) | City / town | **69.55** | **Culture 7.9**, **Food 7.7** | 6.5 / 7.1 / 7.1 / 7.4 / 7.0 | [9.5511, 1.1861](https://www.google.com/maps/search/?api=1&query=9.5511,1.1861) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kara%2C%20Togo) |
-| 12 | [Vogan](cities/vogan.yaml) | City / town | **68.15** | **Culture 8.3**, **Food 7.7** | 6.2 / 7.4 / 6.7 / 7.5 / 6.4 | [6.3333, 1.5333](https://www.google.com/maps/search/?api=1&query=6.3333,1.5333) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Vogan%2C%20Togo) |
-| 13 | [Niamtougou](cities/niamtougou.yaml) | City / town | **67.50** | **Culture 7.8** | 6.4 / 7.2 / 6.7 / 7.2 / 6.1 | [9.767, 1.1](https://www.google.com/maps/search/?api=1&query=9.767,1.1) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Niamtougou%2C%20Togo) |
-| 14 | [Tsévié](cities/tsevie.yaml) | City / town | **64.55** | **Culture 7.4**, **Food 7.3** | 6.0 / 6.6 / 6.5 / 7.1 / 6.4 | [6.426, 1.213](https://www.google.com/maps/search/?api=1&query=6.426,1.213) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ts%C3%A9vi%C3%A9%2C%20Togo) |
+No cities, towns & villages have been assessed for **Togo** yet.
 
-## Not yet fully assessed (2)
-
-These destinations have no rank until all five core scores are assessed.
-
-| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
-| ---: | --- | --- | ---: | --- | --- | --- | --- |
-| — | [Dapaong](cities/dapaong.yaml) | City / town | **—** | **Culture 8.0**, **History 7.8** | — / — / 7.3 / — / — | [10.862, 0.207](https://www.google.com/maps/search/?api=1&query=10.862,0.207) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Dapaong%2C%20Togo) |
-| — | [Mango](cities/mango.yaml) | City / town | **—** | **Culture 7.6** | — / — / 6.8 / — / — | [10.359, 0.47](https://www.google.com/maps/search/?api=1&query=10.359,0.47) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mango%2C%20Togo) |
+Add destination YAML files in [cities/](cities/), then regenerate the overview files.
 
 ---
 
