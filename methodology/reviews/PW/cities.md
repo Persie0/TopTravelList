@@ -250,3 +250,11 @@
 - Earlier decision: none.
 - Verification still needed: Confirm settlement name and representative point; do not transfer waterfall rating.
 
+
+
+## 2026-11-25 — settlement scope follow-up
+
+- Mengellang: Mapcarta identifies village and state capital (https://mapcarta.com/20422018), and Pacific Tourism Organisation promotes adjacent Badrulchau as an independent archaeological sight (https://southpacificislands.travel/babeldaob-tour-in-palau/). No sufficient settlement-specific visitor activities established. Retain nulls rather than transfer adjacent heritage score.
+- Ngardmau Village: ministry's Traditional Place Names of Palau distinguishes the state's hamlets and traditional settlements (https://fliphtml5.com/gjrn/ggeh/Traditional_Place_Names_of_Palau%3A_from_Ridge_to_Reef/). Named locality scope remains uncertain; regional tourism offerings and waterfall are not sufficient evidence for this specific settlement. Retain nulls pending locality and visitor scope verification.
+
+Indexed excerpts reviewed; no changes to settlement YAMLs.

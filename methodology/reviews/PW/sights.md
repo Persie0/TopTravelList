@@ -755,3 +755,128 @@
 - Final decision: provisionally ranked on documented visitor scope; not full independent verification.
 - Earlier decision: earlier entry for this ID, originally unranked.
 - Verification still needed: Lake and permitted trail only; confirm current trail condition.
+
+
+### sight-pw-chelechol-ra-orrak — Chelechol ra Orrak — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/PW/sights/chelechol-ra-orrak.yaml)
+- Action: rescore
+- Precise subject: Western quarry and archaeological cave component; no sensitive burial visitation credited.
+- Location check: retain prior representative point from the tentative submission; not a visitor entrance.
+- Evidence status: unassessed
+- Factual references consulted (2026-11-25):
+  - Palau's UNESCO tentative submission identifies both components and documented quarrying evidence; page inspected — https://whc.unesco.org/en/tentativelists/1932
+  - Pacific Worlds community oral-history context corroborates quarrying and regional exchange; indexed excerpt — https://pacificworlds.com/palau/native/native5.cfm
+  - Archaeological research indexed abstract describes stone money production evidence — https://www.researchgate.net/publication/233809351_Archaeological_investigation_of_Omis_Cave_a_Yapese_stone_money_quarry_in_Palau
+  - Commercial tour advertises stone money quarry visit without exact component identification — https://www.palauexplorer.com/index.php/paddle-pebbles-yapese-stone-money-quest?id=1 (indexed excerpt).
+- Missing or uncertain facts: specific permission, exact component covered by tours, and visible interpretation remain unverified.
+
+#### Worldwide peer comparisons
+- Ban Chiang Archaeological Site (Thailand), 8.4/9.2/9.6/8.2/8.1: stronger established interpretation and prehistoric significance.
+- Lenggong Valley Archaeological Heritage (Malaysia), 8.0/9.0/9.5/8.0/8.4: comparable rare archaeological landscape, much deeper chronology.
+- Carnuntum Archaeological Park (Austria), 8.7/8.9/9.0/8.8/8.4: much more tangible and interpreted visitor experience.
+- Badrulchau Stone Monoliths (Palau), 7.4/8.8/8.6/7.5/7.0: comparable local megalithic heritage but different function and established visitor scope.
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | null | null | Ordinary visitor-visible features insufficiently established. |
+| Uniqueness | null | 9.0 | Unusual material evidence of inter-island stone-currency manufacture. |
+| Significance | null | 9.2 | Stone-money manufacture and important early archaeological evidence in the same component. |
+| Experience | null | null | Generic quarry tours do not establish authorized access to this exact component. |
+| Depth | null | null | Normal visitor interpretation and permitted breadth not verified. |
+
+- Applicable category scores: history 9.2, culture 8.8; provisional historical-cultural assessment.
+- Computed worldwide overall: unranked.
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: retain incomplete record with supported intrinsic scores only.
+- Earlier decision: all core values null.
+- Verification still needed: customary permissions, specific visitor route, independent detailed archaeology corroboration and canonical diagnostics.
+
+
+### sight-pw-uet-el-daob-ma-uet-el-beluu — Uet el Daob ma Uet el Beluu — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/PW/sights/uet-el-daob-ma-uet-el-beluu.yaml)
+- Action: rescore
+- Precise subject: Interior stone-money quarry component, not the entire Orrak landscape or other quarries.
+- Location check: retain prior representative point from the tentative submission; not a visitor entrance.
+- Evidence status: unassessed
+- Factual references consulted (2026-11-25):
+  - Palau's UNESCO tentative submission identifies both components and documented quarrying evidence; page inspected — https://whc.unesco.org/en/tentativelists/1932
+  - Pacific Worlds community oral-history context corroborates quarrying and regional exchange; indexed excerpt — https://pacificworlds.com/palau/native/native5.cfm
+  - Archaeological research indexed abstract describes stone money production evidence — https://www.researchgate.net/publication/233809351_Archaeological_investigation_of_Omis_Cave_a_Yapese_stone_money_quarry_in_Palau
+  - Commercial tour advertises stone money quarry visit without exact component identification — https://www.palauexplorer.com/index.php/paddle-pebbles-yapese-stone-money-quest?id=1 (indexed excerpt).
+- Missing or uncertain facts: specific permission, exact component covered by tours, and visible interpretation remain unverified.
+
+#### Worldwide peer comparisons
+- Ban Chiang Archaeological Site (Thailand), 8.4/9.2/9.6/8.2/8.1: stronger established interpretation and prehistoric significance.
+- Lenggong Valley Archaeological Heritage (Malaysia), 8.0/9.0/9.5/8.0/8.4: comparable rare archaeological landscape, much deeper chronology.
+- Carnuntum Archaeological Park (Austria), 8.7/8.9/9.0/8.8/8.4: much more tangible and interpreted visitor experience.
+- Badrulchau Stone Monoliths (Palau), 7.4/8.8/8.6/7.5/7.0: comparable local megalithic heritage but different function and established visitor scope.
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | null | null | Visitor-visible features and viewpoints not verified. |
+| Uniqueness | null | 9.1 | Rare documented production landscape of megalithic disk currency. |
+| Significance | null | 9.0 | Strong evidence of historic Palau-Yap exchange and quarrying traditions. |
+| Experience | null | null | Commercial descriptions do not identify the exact component visited. |
+| Depth | null | null | Accessible route and interpretation scope not established. |
+
+- Applicable category scores: history 9.1, culture 9.0; provisional historical-cultural assessment.
+- Computed worldwide overall: unranked.
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: retain incomplete record with supported intrinsic scores only.
+- Earlier decision: all core values null.
+- Verification still needed: customary permissions, specific visitor route, independent detailed archaeology corroboration and canonical diagnostics.
+
+
+### sight-pw-peleliu-battlefield — Peleliu Battlefield — 2026-11-25
+
+- YAML: [source](../../../countries/PW/sights/peleliu-battlefield.yaml)
+- Action: new
+- Precise subject: Registered historic battlefield landscape and normal guided commemorative and historical visits, excluding unrelated island diving, settlement and separately listed memorial museum as standalone experience.
+- Location check: approximate battlefield representative point 7.0114, 134.2461 from https://culturalheritageonline.com/places/peleliu-battlefield-palau-the-umurbrogol-caves-the-airfield-that-was-not-needed-and-three-ways-of-telling-one-battle/ (indexed excerpt); no claim of surveyed centroid or entrance. Further corroboration needed.
+- Evidence status: source-linked-unverified
+- Factual references consulted (2026-11-25):
+  - US National Park Service National Register record identifies historical site, military significance and 1944 association; page inspected — https://npgallery.nps.gov/AssetDetail/NRIS/85001754
+  - National WWII Museum describes educational travel and guided historical interpretation — https://www.nationalww2museum.org/events/educational-travel/battle-peleliu (indexed excerpt).
+  - Palau tourism authority lists locally based historical tour provider — https://pristineparadisepalau.com/experience/peleliu-adventures/ (indexed excerpt).
+  - Independent regional tourism organization confirms historical day tours — https://southpacificislands.travel/view-world-war-ii-relics-in-palau/ (indexed excerpt).
+  - Local operator documents full-day guided heritage visit — https://www.samstours.com/wwii-history-tour (indexed excerpt).
+- Missing or uncertain facts: precise boundary and representative coordinates, current guide permissions and condition of individual remains not fully verified; no unrestricted access assumed.
+
+#### Worldwide peer comparisons
+- Cu Chi Tunnels (Vietnam), 8.8/9.1/9.3/8.8/8.4: more distinctive interpreted underground heritage; Peleliu offers a broader dispersed landscape.
+- Mauthausen Memorial (Austria), 9.1/9.4/9.8/9.0/8.8: internationally defining memorial and deeper documented educational interpretation.
+- Carnuntum Archaeological Park (Austria), 8.7/8.9/9.0/8.8/8.4: tangible archaeological interpretation, different era and significance.
+- Peleliu World War II Memorial Museum (Palau), 7.1/7.9/8.4/7.6/7.0: narrower separately rated museum; battlefield is not the museum's score plus other scores.
+- Tuol Sleng Genocide Museum (Cambodia), 9.1/9.4/9.9/9.0/8.9: stronger globally recognized memorial and documentary interpretation.
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | — | 8.5 | Powerful historic landscape, memorials and surviving traces, without treating suffering as entertainment. |
+| Uniqueness | — | 8.7 | Distinct preserved Pacific wartime landscape with comparable battlefield heritage elsewhere. |
+| Significance | — | 9.2 | Major Pacific War history and remembrance, established by the historic register and educational sources. |
+| Experience | — | 8.5 | Established guided historical interpretation and commemoration; only lawful guided visitor experiences credited. |
+| Depth | — | 8.6 | Multiple meaningful historical locations across a full-day guided landscape visit, without assuming unrestricted access. |
+
+- Applicable category scores: history 9.3, culture 8.2; provisional.
+- Computed worldwide overall: 87.00/100
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: provisional worldwide v2 heritage-landscape rating, independently scoped from the museum.
+- Earlier decision: none.
+- Verification still needed: direct full-page corroboration of visitor sources, coordinate and boundary confirmation, canonical global diagnostics.
+
+## 2026-11-25 — remaining tentative properties
+
+- Imeong: UNESCO describes a mixed conservation landscape with sacred locations (https://whc.unesco.org/en/tentativelists/1931); exact permitted visitor scope remains unverified. Retain null experience/depth.
+- Ngebedech: UNESCO describes the specific sculpted hill and terrace features (https://whc.unesco.org/en/tentativelists/1930/); generic visits to other Babeldaob terraces do not establish access to this site. Retain null experience/depth.
+- Tet el Bad: UNESCO and Palau Conservation Society identify the stone coffin in Ollei (https://whc.unesco.org/en/tentativelists/1933/ ; https://www.palauconservation.org/programs/conservation-and-protected-areas/protected-areas/). No authoritative routine visitor permission established. Retain null experience/depth.
+- Yapease Quarry Sites: commercial guided quarry visits are documented (https://www.fishnfins.com/index.php/palau-activities/indiana-jones-tour ; https://www.palauexplorer.com/index.php/palaus-living-heritage-tour?id=21), but exact component coverage is not established. Retain aggregate null experience/depth; do not assume both components are visited. Tentative status is not inscription.
+
+Sources are indexed excerpts except UNESCO quarry submission directly inspected. No aggregate score changes.
