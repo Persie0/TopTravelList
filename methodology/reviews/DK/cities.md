@@ -361,3 +361,10 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [VisitDenmark](https://www.visitdenmark.com/denmark/things-to-do/history-heritage/unesco-world-heritage-sites) — consulted 2026-11-25 for identity or context; material claims and visitor conditions not fully corroborated.
 - Verification still needed: GPS, visitor conditions and material claims; closer field-specific peer comparisons.
+
+## Follow-up: direct visitor sources — 2026-11-25
+
+- [kolding](../../../countries/DK/cities/kolding.yaml): **source-linked-unverified** supersedes editorial-only. [Source](https://www.visitdenmark.com/denmark/plan-your-trip/koldings-old-city-center-exploring-koldings-streets-with-the-vizgu-app-gdk1090243), checked 2026-11-25. Old streets, squares, church and castle precinct; city walk rather than castle museum alone. Retain provisional rating; independent GPS and full claim verification outstanding.
+- [svendborg](../../../countries/DK/cities/svendborg.yaml): **source-linked-unverified** supersedes editorial-only. [Source](https://www.visitsvendborg.com/svendborg/miscellaneous/svendborgs-urban-harbours), checked 2026-11-25. Market town and historic maritime harbor; no external archipelago excursions credited. Retain provisional rating; independent GPS and full claim verification outstanding.
+- [gudhjem](../../../countries/DK/cities/gudhjem.yaml): **source-linked-unverified** supersedes editorial-only. [Source](https://bornholm.info/en/gudhjem/), checked 2026-11-25. Hillside harbor, smokehouse and food traditions. Retain provisional rating; independent GPS and full claim verification outstanding.
+- [ronne](../../../countries/DK/cities/ronne.yaml): **source-linked-unverified** supersedes editorial-only. [Source](https://bornholm.info/en/roenne/), checked 2026-11-25. Old market town and local heritage, not island-wide attractions. Retain provisional rating; independent GPS and full claim verification outstanding.
