@@ -1,0 +1,16 @@
+id: sight-cv-pico-do-fogo
+name: "Pico do Fogo"
+location:
+  country_code: CV
+  latitude: 14.9500
+  longitude: -24.3400
+scores:
+  impact: 9.6
+  uniqueness: 9.4
+  significance: 8.5
+  experience: 9.0
+  depth: 8.3
+  categories:
+    nature: 9.5
+    adventure: 9.4
+    photography: 9.6

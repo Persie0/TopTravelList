@@ -1,0 +1,15 @@
+id: sight-cv-santa-luzia-nature-reserve
+name: "Santa Luzia Nature Reserve"
+location:
+  country_code: CV
+  latitude: 16.7650
+  longitude: -24.7450
+scores:
+  impact: null
+  uniqueness: null
+  significance: 8.7
+  experience: null
+  depth: null
+  categories:
+    nature: 9.0
+    wildlife: 9.2
