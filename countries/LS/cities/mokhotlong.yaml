@@ -1,0 +1,15 @@
+id: city-ls-mokhotlong
+name: "Mokhotlong"
+location:
+  country_code: LS
+  latitude: -29.2890
+  longitude: 29.0670
+scores:
+  impact: 6.9
+  uniqueness: 7.4
+  significance: 6.6
+  experience: 7.3
+  depth: 6.4
+  categories:
+    culture: 7.7
+    photography: 7.8
