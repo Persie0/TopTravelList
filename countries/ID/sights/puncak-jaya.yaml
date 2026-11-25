@@ -2,8 +2,8 @@ id: sight-id-puncak-jaya
 name: "Puncak Jaya"
 location:
   country_code: ID
-  latitude: -4.0780
-  longitude: 137.1580
+  latitude: -4.078
+  longitude: 137.158
 scores:
   impact: 9.2
   uniqueness: 9.4
@@ -11,6 +11,6 @@ scores:
   experience: 7.8
   depth: 8.7
   categories:
-    nature: 9.6
-    adventure: 9.8
+    adventure: 9.6
+    nature: 9.5
     photography: 9.3

@@ -13,3 +13,7 @@ Initial review: 2026-11-25. These are 343 individually chosen editorial scores w
 These counts describe the initial review labels. A later [Atuh Beach coordinate correction](coordinate-corrections-2026.md) adds a published coordinate source but does not independently verify its editorial score or all factual claims. The 79 city reviews are editorial-only.
 
 See [quality audit](quality-audit-2026.md) and [leading-score benchmark checks](top-score-review-2026.md). YAML scores are authoritative. Official source links and tentative-list recognition do not establish numerical judgments or verify every claim. Follow the [future-country workflow](../../future-country-workflow.md) for later revisions and additions.
+
+## Follow-up calibration
+
+[Individual reassessment](worldwide-reassessment-2026-11-25.md) · [All-record screening](worldwide-screening-2026-11-25.md). Initial review counts and values are historical; current YAML is authoritative.

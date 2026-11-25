@@ -2,8 +2,8 @@ id: sight-id-ora-beach-seram
 name: "Ora Beach Seram"
 location:
   country_code: ID
-  latitude: -2.9800
-  longitude: 129.1900
+  latitude: -2.98
+  longitude: 129.19
 scores:
   impact: 9.0
   uniqueness: 8.8
@@ -11,6 +11,6 @@ scores:
   experience: 9.2
   depth: 8.2
   categories:
-    beaches: 9.5
-    nature: 9.2
+    beaches: 9.4
     photography: 9.4
+    nature: 9.2

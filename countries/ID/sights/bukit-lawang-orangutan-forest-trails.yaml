@@ -2,8 +2,8 @@ id: sight-id-bukit-lawang-orangutan-forest-trails
 name: "Bukit Lawang Orangutan Forest Trails"
 location:
   country_code: ID
-  latitude: 3.5520
-  longitude: 98.1150
+  latitude: 3.552
+  longitude: 98.115
 scores:
   impact: 9.0
   uniqueness: 9.2
@@ -11,6 +11,6 @@ scores:
   experience: 9.2
   depth: 8.8
   categories:
-    wildlife: 9.6
+    wildlife: 9.4
     adventure: 9.3
     nature: 9.3

@@ -3,7 +3,7 @@ name: "Mount Bromo"
 location:
   country_code: ID
   latitude: -7.9425
-  longitude: 112.9530
+  longitude: 112.953
 scores:
   impact: 9.5
   uniqueness: 9.4
@@ -11,6 +11,6 @@ scores:
   experience: 9.3
   depth: 8.5
   categories:
-    nature: 9.6
-    photography: 9.8
+    photography: 9.5
+    nature: 9.4
     adventure: 9.2

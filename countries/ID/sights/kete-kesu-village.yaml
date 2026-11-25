@@ -2,8 +2,8 @@ id: sight-id-kete-kesu-village
 name: "Kete Kesu Village"
 location:
   country_code: ID
-  latitude: -2.9990
-  longitude: 119.9150
+  latitude: -2.999
+  longitude: 119.915
 scores:
   impact: 8.9
   uniqueness: 9.3
@@ -11,6 +11,6 @@ scores:
   experience: 9.0
   depth: 8.4
   categories:
+    culture: 9.4
     architecture: 9.5
-    culture: 9.6
     photography: 9.4

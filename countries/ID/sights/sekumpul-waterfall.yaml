@@ -2,8 +2,8 @@ id: sight-id-sekumpul-waterfall
 name: "Sekumpul Waterfall"
 location:
   country_code: ID
-  latitude: -8.1730
-  longitude: 115.1820
+  latitude: -8.173
+  longitude: 115.182
 scores:
   impact: 9.1
   uniqueness: 8.9
@@ -11,6 +11,6 @@ scores:
   experience: 9.1
   depth: 8.3
   categories:
+    photography: 9.4
     nature: 9.4
-    photography: 9.5
     adventure: 8.9

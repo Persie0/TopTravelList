@@ -2,8 +2,8 @@ id: sight-id-kelingking-beach
 name: "Kelingking Beach"
 location:
   country_code: ID
-  latitude: -8.7510
-  longitude: 115.4750
+  latitude: -8.751
+  longitude: 115.475
 scores:
   impact: 9.4
   uniqueness: 9.3
@@ -11,6 +11,6 @@ scores:
   experience: 9.0
   depth: 7.7
   categories:
-    photography: 9.8
-    nature: 9.5
+    photography: 9.6
+    nature: 9.3
     beaches: 9.0

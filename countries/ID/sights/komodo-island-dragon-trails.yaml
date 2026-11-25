@@ -2,8 +2,8 @@ id: sight-id-komodo-island-dragon-trails
 name: "Komodo Island Dragon Trails"
 location:
   country_code: ID
-  latitude: -8.5890
-  longitude: 119.4910
+  latitude: -8.589
+  longitude: 119.491
 scores:
   impact: 9.2
   uniqueness: 9.7
@@ -11,6 +11,6 @@ scores:
   experience: 9.2
   depth: 8.5
   categories:
-    wildlife: 9.9
-    nature: 9.5
+    wildlife: 9.7
+    nature: 9.3
     adventure: 9.2

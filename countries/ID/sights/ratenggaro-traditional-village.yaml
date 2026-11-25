@@ -2,8 +2,8 @@ id: sight-id-ratenggaro-traditional-village
 name: "Ratenggaro Traditional Village"
 location:
   country_code: ID
-  latitude: -9.6180
-  longitude: 119.1100
+  latitude: -9.618
+  longitude: 119.11
 scores:
   impact: 8.9
   uniqueness: 9.2
@@ -11,6 +11,6 @@ scores:
   experience: 8.7
   depth: 8.1
   categories:
-    culture: 9.5
+    culture: 9.4
     architecture: 9.4
     photography: 9.3

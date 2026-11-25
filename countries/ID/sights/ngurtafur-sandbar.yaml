@@ -2,8 +2,8 @@ id: sight-id-ngurtafur-sandbar
 name: "Ngurtafur Sandbar"
 location:
   country_code: ID
-  latitude: -5.5950
-  longitude: 132.6900
+  latitude: -5.595
+  longitude: 132.69
 scores:
   impact: 8.9
   uniqueness: 9.0
@@ -11,6 +11,6 @@ scores:
   experience: 9.1
   depth: 7.4
   categories:
-    photography: 9.5
+    photography: 9.3
     beaches: 9.4
     nature: 9.1

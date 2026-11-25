@@ -2,8 +2,8 @@ id: sight-id-pink-beach-komodo
 name: "Pink Beach Komodo"
 location:
   country_code: ID
-  latitude: -8.6040
-  longitude: 119.5200
+  latitude: -8.604
+  longitude: 119.52
 scores:
   impact: 9.2
   uniqueness: 9.2
@@ -12,5 +12,5 @@ scores:
   depth: 8.3
   categories:
     beaches: 9.6
+    photography: 9.4
     nature: 9.3
-    photography: 9.6

@@ -2,8 +2,8 @@ id: sight-id-sangalaki-island
 name: "Sangalaki Island"
 location:
   country_code: ID
-  latitude: 2.0900
-  longitude: 118.4000
+  latitude: 2.09
+  longitude: 118.4
 scores:
   impact: 9.0
   uniqueness: 9.1
@@ -11,6 +11,6 @@ scores:
   experience: 9.1
   depth: 8.4
   categories:
-    wildlife: 9.5
+    wildlife: 9.4
     nature: 9.4
     adventure: 9.3

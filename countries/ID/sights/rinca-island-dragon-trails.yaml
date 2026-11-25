@@ -2,8 +2,8 @@ id: sight-id-rinca-island-dragon-trails
 name: "Rinca Island Dragon Trails"
 location:
   country_code: ID
-  latitude: -8.6500
-  longitude: 119.7060
+  latitude: -8.65
+  longitude: 119.706
 scores:
   impact: 9.0
   uniqueness: 9.5
@@ -11,6 +11,6 @@ scores:
   experience: 9.0
   depth: 8.5
   categories:
-    wildlife: 9.7
+    wildlife: 9.6
     nature: 9.3
     adventure: 9.1

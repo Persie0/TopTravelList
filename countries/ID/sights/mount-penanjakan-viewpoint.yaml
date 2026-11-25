@@ -2,8 +2,8 @@ id: sight-id-mount-penanjakan-viewpoint
 name: "Mount Penanjakan Viewpoint"
 location:
   country_code: ID
-  latitude: -7.9040
-  longitude: 112.9480
+  latitude: -7.904
+  longitude: 112.948
 scores:
   impact: 9.1
   uniqueness: 9.0
@@ -11,5 +11,5 @@ scores:
   experience: 9.0
   depth: 7.2
   categories:
-    photography: 9.7
+    photography: 9.5
     nature: 9.4

@@ -2,8 +2,8 @@ id: sight-id-taka-makassar-sandbar
 name: "Taka Makassar Sandbar"
 location:
   country_code: ID
-  latitude: -8.5390
-  longitude: 119.6320
+  latitude: -8.539
+  longitude: 119.632
 scores:
   impact: 8.9
   uniqueness: 8.8
@@ -11,6 +11,6 @@ scores:
   experience: 9.0
   depth: 7.1
   categories:
-    photography: 9.5
+    photography: 9.3
     beaches: 9.3
     nature: 9.0

@@ -2,14 +2,14 @@ id: sight-id-lorentz-national-park
 name: "Lorentz National Park"
 location:
   country_code: ID
-  latitude: -4.7500
-  longitude: 137.8000
+  latitude: -4.75
+  longitude: 137.8
 scores:
   impact: 9.4
   uniqueness: 9.7
   significance: 9.8
   experience: 7.6
-  depth: 9.6
+  depth: 9.3
   categories:
     nature: 9.9
     wildlife: 9.6
