@@ -83,6 +83,7 @@
 - Location check: 52.7, 23.9; approximate representative point, independent verification pending.
 - Evidence status: source-linked-unverified
 - Evidence: [UNESCO](https://whc.unesco.org/en/list/33/) — accessed 2026-11-25; property description and scope; complete material claims and access not independently corroborated.
+- Supplemental evidence (2026-11-25): https://www.unesco.org/en/mab/belovezhskaya-pushcha — UNESCO biosphere profile documents old-growth mixed forests, bison and museum. https://bp21.org.by/en/about/save.html describes strictly protected and recreational zones; https://www.bp21.org.by/en/about/tour.html documents designated trails, museum and fenced enclosures. No guaranteed wild sightings or restricted-zone access.
 - Missing or uncertain facts: exact GPS, site-specific permitted access and material claim corroboration; narrower same-type peers.
 
 #### Worldwide peer comparisons
@@ -100,13 +101,13 @@
 | Uniqueness | — | 9.4 | Rare extensive remnant of European primeval lowland forest |
 | Significance | — | 9.5 | International ecological conservation and evolutionary processes |
 | Experience | — | 8.8 | Permitted routes and managed interpretation without guaranteed bison encounters |
-| Depth | — | 9.1 | Belarusian visitor-accessible sectors only |
+| Depth | — | 8.8 | Designated forest routes and museum; strictly protected sectors not part of ordinary visit |
 
-- Applicable category scores: nature: 9.5, wildlife: 9.5, photography: 9.0.
-- Computed worldwide overall: 91.20/100.
-- High-score challenge: Significance 9.5: International ecological conservation and evolutionary processes; nature 9.5: Rare extensive remnant of European primeval lowland forest; wildlife 9.5: Rare extensive remnant of European primeval lowland forest. 90+ total: Ancient lowland forest and large mammal habitats; Rare extensive remnant of European primeval lowland forest; Belarusian visitor-accessible sectors only. Compared with Soomaa and Suncheon Bay, intact lowland forest with large mammal habitats supports exceptional significance, nature and wildlife; it does not imply guaranteed sightings or Jiuzhaigou-level visual impact..
+- Applicable category scores: nature: 9.5, wildlife: 9.3, photography: 9.0.
+- Computed worldwide overall: 90.90/100.
+- High-score challenge: significance 9.5 and nature 9.5 retained for internationally significant lowland forest and conservation. Wildlife 9.3 rather than 9.5: fenced enclosures do not establish equivalent wild-animal viewing breadth. Depth 8.8 reflects designated visitor routes and museum rather than unrestricted primeval forest. Core 90.90.
 - Approved 10 registry: none.
-- Final decision: Scope-limited editorial rating: Rare extensive remnant of European primeval lowland forest; Belarusian visitor-accessible sectors only.
+- Final decision: reduced 91.20→90.90; documented protected-zone restrictions and wildlife-viewing scope.
 - Earlier decision: none.
 - Verification still needed: independent material claims, permitted access and narrower same-type peer comparisons.
 
@@ -608,6 +609,7 @@
 - Location check: 51.72, 29.93; approximate representative point, independent verification pending.
 - Evidence status: unassessed
 - Evidence: [Visit Belarus (tourism site)](https://www.visit-belarus.com/en/nature-of-belarus/national-parks/) — accessed 2026-11-25; park or reserve inventory and visitor context; complete material claims and access not independently corroborated.
+- Supplemental evidence (2026-11-25): https://exclusion-zone.by/eng/ — Commercial provider advertises organized excursions, but this does not independently establish current legal permission, reserve-wide public access or radiation safety. Keep unassessed; no recommendation to visit.
 - Missing or uncertain facts: exact GPS, site-specific permitted access and material claim corroboration; narrower same-type peers.
 
 #### Worldwide peer comparisons
@@ -641,8 +643,8 @@
 - Action: new
 - Precise subject: Lida Castle; Single castle.
 - Location check: 53.886, 25.302; approximate representative point, independent verification pending.
-- Evidence status: editorial-only
-- Evidence: No per-item supporting source checked; editorial judgment.
+- Evidence status: source-linked-unverified
+- Evidence: https://www.visit-belarus.com/en/castles-belarus/ — Regional castle guide describes castle and museum; no unrestricted tower access assumed. Reviewed 2026-11-25; partial source support, not independent claim verification.
 - Missing or uncertain facts: exact GPS, site-specific permitted access and material claim corroboration; narrower same-type peers.
 
 #### Worldwide peer comparisons
@@ -676,8 +678,8 @@
 - Action: new
 - Precise subject: Novogrudok Castle ruins; Limited surviving complex.
 - Location check: 53.598, 25.829; approximate representative point, independent verification pending.
-- Evidence status: editorial-only
-- Evidence: No per-item supporting source checked; editorial judgment.
+- Evidence status: source-linked-unverified
+- Evidence: https://my-places.by/en/places/novogrudok-ruiny-novogrudskogo-zamka — Site guide documents surviving ruins and conservation. https://www.orient.tm/en/posts/47533/belarus-approves-culture-development-and-castle-restoration-program-through-2030 reports restoration plans; actual current access not confirmed. Reviewed 2026-11-25; partial source support, not independent claim verification.
 - Missing or uncertain facts: exact GPS, site-specific permitted access and material claim corroboration; narrower same-type peers.
 
 #### Worldwide peer comparisons
@@ -781,8 +783,8 @@
 - Action: new
 - Precise subject: Khatyn Memorial Complex; Defined memorial not wider wartime sites.
 - Location check: 54.334, 27.943; approximate representative point, independent verification pending.
-- Evidence status: editorial-only
-- Evidence: No per-item supporting source checked; editorial judgment.
+- Evidence status: source-linked-unverified
+- Evidence: https://www.memorialmuseums.org/memorialmuseum/state-memorial-khatyn?locale=en — Independent memorial documentation identifies commemorative site at the former village. Reviewed 2026-11-25; partial source support, not independent claim verification.
 - Missing or uncertain facts: exact GPS, site-specific permitted access and material claim corroboration; narrower same-type peers.
 
 #### Worldwide peer comparisons
@@ -851,8 +853,8 @@
 - Action: new
 - Precise subject: Belarusian Great Patriotic War Museum, Minsk; One museum not nearby memorials.
 - Location check: 53.916, 27.538; approximate representative point, independent verification pending.
-- Evidence status: editorial-only
-- Evidence: No per-item supporting source checked; editorial judgment.
+- Evidence status: source-linked-unverified
+- Evidence: https://www.memorialmuseums.org/memorialmuseum/belarusian-state-museum-of-the-history-of-the-great-patriotic-war?locale=en — Independent memorial documentation identifies museum and historical context; exhibit interpretation is not independently endorsed. Reviewed 2026-11-25; partial source support, not independent claim verification.
 - Missing or uncertain facts: exact GPS, site-specific permitted access and material claim corroboration; narrower same-type peers.
 
 #### Worldwide peer comparisons
@@ -921,8 +923,8 @@
 - Action: new
 - Precise subject: Zhyrovichy Monastery; Defined monastic complex.
 - Location check: 53.015, 25.345; approximate representative point, independent verification pending.
-- Evidence status: editorial-only
-- Evidence: No per-item supporting source checked; editorial judgment.
+- Evidence status: source-linked-unverified
+- Evidence: https://vedaj.by/index.php/en/component/content/article?id=372%3Azhyrovichyen — Destination guide identifies monastery and church buildings; worship access conditional. Reviewed 2026-11-25; partial source support, not independent claim verification.
 - Missing or uncertain facts: exact GPS, site-specific permitted access and material claim corroboration; narrower same-type peers.
 
 #### Worldwide peer comparisons
@@ -956,8 +958,8 @@
 - Action: new
 - Precise subject: Ruzhany Palace ruins; Defined palace ruins.
 - Location check: 52.863, 24.89; approximate representative point, independent verification pending.
-- Evidence status: editorial-only
-- Evidence: No per-item supporting source checked; editorial judgment.
+- Evidence status: source-linked-unverified
+- Evidence: https://www.visit-belarus.com/en/castles-belarus/ — Guide identifies Sapieha palace complex and museum; restored scope limited. Reviewed 2026-11-25; partial source support, not independent claim verification.
 - Missing or uncertain facts: exact GPS, site-specific permitted access and material claim corroboration; narrower same-type peers.
 
 #### Worldwide peer comparisons
@@ -991,8 +993,8 @@
 - Action: new
 - Precise subject: Kosava Palace and Kościuszko house museum; Named complex only.
 - Location check: 52.756, 25.122; approximate representative point, independent verification pending.
-- Evidence status: editorial-only
-- Evidence: No per-item supporting source checked; editorial judgment.
+- Evidence status: source-linked-unverified
+- Evidence: https://www.visit-belarus.com/en/castles-belarus/ — Guide identifies palace and nearby Kościuszko house museum; ordinary admission not independently confirmed. Reviewed 2026-11-25; partial source support, not independent claim verification.
 - Missing or uncertain facts: exact GPS, site-specific permitted access and material claim corroboration; narrower same-type peers.
 
 #### Worldwide peer comparisons
@@ -1026,8 +1028,8 @@
 - Action: new
 - Precise subject: Dudutki traditional crafts museum; Defined museum complex.
 - Location check: 53.548, 27.681; approximate representative point, independent verification pending.
-- Evidence status: editorial-only
-- Evidence: No per-item supporting source checked; editorial judgment.
+- Evidence status: source-linked-unverified
+- Evidence: https://www.visit-belarus.com/en/open-air-ethnic-museums-belarus/ — Guide describes open-air rural craft museum; https://dudutki.taplink.ws/ identifies museum contact. Reviewed 2026-11-25; partial source support, not independent claim verification.
 - Missing or uncertain facts: exact GPS, site-specific permitted access and material claim corroboration; narrower same-type peers.
 
 #### Worldwide peer comparisons

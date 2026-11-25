@@ -361,8 +361,8 @@
 - Action: new
 - Precise subject: Mogilev (Mahilioŭ); Several urban districts.
 - Location check: 53.9, 30.33; approximate representative point, independent verification pending.
-- Evidence status: editorial-only
-- Evidence: No per-item supporting source checked; editorial judgment.
+- Evidence status: source-linked-unverified
+- Evidence: https://www.visit-belarus.com/en/mogilev-2/ — Tourism guide identifies town hall and city attractions. Reviewed 2026-11-25; partial source support, not independent claim verification.
 - Missing or uncertain facts: exact GPS, site-specific permitted access and material claim corroboration; narrower same-type peers.
 
 #### Worldwide peer comparisons
@@ -396,8 +396,8 @@
 - Action: new
 - Precise subject: Lida; Town not equivalent to castle circuit.
 - Location check: 53.887, 25.303; approximate representative point, independent verification pending.
-- Evidence status: editorial-only
-- Evidence: No per-item supporting source checked; editorial judgment.
+- Evidence status: source-linked-unverified
+- Evidence: https://www.vedaj.by/index.php/en/towns/grodno/lida/lida — Destination guide documents castle and baroque church; castle separately rated. Reviewed 2026-11-25; partial source support, not independent claim verification.
 - Missing or uncertain facts: exact GPS, site-specific permitted access and material claim corroboration; narrower same-type peers.
 
 #### Worldwide peer comparisons
@@ -431,8 +431,8 @@
 - Action: new
 - Precise subject: Mir; Exclude independently rated castle grounds and interiors.
 - Location check: 53.453, 26.467; approximate representative point, independent verification pending.
-- Evidence status: editorial-only
-- Evidence: No per-item supporting source checked; editorial judgment.
+- Evidence status: source-linked-unverified
+- Evidence: https://my-places.by/en/excursions/progulka-po-miru — Town walking route identifies central square, religious buildings and small museum, distinct from castle. Reviewed 2026-11-25; partial source support, not independent claim verification.
 - Missing or uncertain facts: exact GPS, site-specific permitted access and material claim corroboration; narrower same-type peers.
 
 #### Worldwide peer comparisons
@@ -466,8 +466,8 @@
 - Action: new
 - Precise subject: Braslav; Exclude the entire Braslav Lakes National Park.
 - Location check: 55.642, 27.041; approximate representative point, independent verification pending.
-- Evidence status: editorial-only
-- Evidence: No per-item supporting source checked; editorial judgment.
+- Evidence status: source-linked-unverified
+- Evidence: https://vedaj.by/index.php/en/towns/vitebsk/braslaw/braslaw?hitcount=0 — Guide documents Castle Mountain hillfort and churches; excludes surrounding national park. Reviewed 2026-11-25; partial source support, not independent claim verification.
 - Missing or uncertain facts: exact GPS, site-specific permitted access and material claim corroboration; narrower same-type peers.
 
 #### Worldwide peer comparisons
