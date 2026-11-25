@@ -1,0 +1,15 @@
+id: city-tz-bagamoyo
+name: "Bagamoyo"
+location:
+  country_code: TZ
+  latitude: -6.44
+  longitude: 38.9
+scores:
+  impact: 7.9
+  uniqueness: 8.5
+  significance: 8.9
+  experience: 8.2
+  depth: 7.9
+  categories:
+    history: 9.1
+    culture: 8.6
