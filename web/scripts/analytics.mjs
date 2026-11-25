@@ -25,9 +25,9 @@ export function groupBy(rows,key,metric='overall'){
 // Exactly one group per matching country, irrespective of screen distance.
 export function countryBubbles(rows,countries,metric='overall'){
  return groupBy(rows,r=>r.country,metric).map(g=>{
-  const c=countries[g.key],first=g.rows.find(r=>Number.isFinite(r.lat)&&Number.isFinite(r.lon));
+  const c=countries[g.key],first=g.rows.find(r=>validCenter([r.lat,r.lon]));
   const center=c?.center;
-  const valid=Array.isArray(center)&&center.length===2&&center.every(Number.isFinite);
+  const valid=validCenter(center);
   return {...g,name:c?.name||g.key,center:valid?center:first?[first.lat,first.lon]:null};
  }).filter(g=>g.center!==null);
 }
@@ -35,3 +35,14 @@ export function metricProfile(rows,metrics){
  return metrics.map(metric=>({metric,...summarize(rows,metric)}));
 }
 export function bubbleRadius(count){return Math.min(30,10+Math.sqrt(count)*1.05)}
+
+function validCenter(center){return Array.isArray(center)&&center.length===2&&center.every(Number.isFinite)&&Math.abs(center[0])<=90&&Math.abs(center[1])<=180}
+
+// A directory selection is country navigation, not a hidden destination filter.
+// A bubble/chart selection in destination mode preserves the visible match criteria.
+export function countryDrilldown(state,code,{markers=false}={}){
+ const directory=state.mode==='countries';
+ return {...state,country:code,region:'',mode:'places',limit:50,
+  ...(directory?{query:'',kind:'',metric:'overall',min:0,unranked:true,top:0,sort:'score'}:{}),
+  ...(markers?{display:'rank'}:{})};
+}

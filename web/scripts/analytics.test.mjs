@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import {summarize,groupBy,countryBubbles,metricProfile,bubbleRadius} from './analytics.mjs';
+import {summarize,groupBy,countryBubbles,metricProfile,bubbleRadius,countryDrilldown} from './analytics.mjs';
 import {match} from './model.mjs';
 
 const rows=[
@@ -42,4 +42,20 @@ test('grouped regional counts and bubble size are bounded',()=>{
  assert.equal(groupBy(rows,r=>countries[r.country].region)[0].count,4);
  assert.ok(bubbleRadius(10)>bubbleRadius(1));
  assert.equal(bubbleRadius(100000),30);
+});
+
+
+test('drill-down preserves active destination filters and switches to markers when requested',()=>{
+ const state={mode:'places',region:'Europe',country:'',query:'museum',kind:'sights',metric:'history',min:8.25,top:25,unranked:false,sort:'name',display:'country'};
+ const next=countryDrilldown(state,'AT',{markers:true});
+ assert.deepEqual(next,{...state,country:'AT',region:'',display:'rank',limit:50});
+ assert.equal(state.country,'');
+});
+test('directory drill-down clears hidden destination filters',()=>{
+ const next=countryDrilldown({mode:'countries',query:'Austria',region:'Europe',kind:'cities',metric:'nature',min:9,unranked:false,top:25,sort:'name',display:'country'},'AT');
+ assert.deepEqual(next,{mode:'places',query:'',region:'',kind:'',metric:'overall',min:0,unranked:true,top:0,sort:'score',display:'country',country:'AT',limit:50});
+});
+test('invalid registry centers fall back to valid destinations; no invalid markers',()=>{
+ assert.deepEqual(countryBubbles(rows,{AT:{center:[91,16]},SK:{center:[48,181]}}).map(g=>g.center),[[48,16],[48,16]]);
+ assert.deepEqual(countryBubbles([{...rows[0],lat:100,lon:16}],{}),[]);
 });
