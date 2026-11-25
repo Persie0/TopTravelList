@@ -1,0 +1,15 @@
+id: sight-na-namib-sand-sea
+name: "Namib Sand Sea"
+location:
+  country_code: NA
+  latitude: -24.885278
+  longitude: 15.407778
+scores:
+  impact: 9.8
+  uniqueness: 9.9
+  significance: 9.7
+  experience: null
+  depth: null
+  categories:
+    nature: 9.9
+    photography: 9.8

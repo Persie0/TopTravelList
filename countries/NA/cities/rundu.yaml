@@ -1,0 +1,13 @@
+id: city-na-rundu
+name: "Rundu"
+location:
+  country_code: NA
+  latitude: -17.91796
+  longitude: 19.77314
+scores:
+  impact: null
+  uniqueness: 7.5
+  significance: 7.4
+  experience: null
+  depth: null
+  categories: {}

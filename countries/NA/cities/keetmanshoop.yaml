@@ -1,0 +1,13 @@
+id: city-na-keetmanshoop
+name: "Keetmanshoop"
+location:
+  country_code: NA
+  latitude: -26.57654
+  longitude: 18.13359
+scores:
+  impact: null
+  uniqueness: 7.3
+  significance: 7.5
+  experience: null
+  depth: null
+  categories: {}

@@ -1,0 +1,16 @@
+id: sight-na-etosha-national-park
+name: "Etosha National Park"
+location:
+  country_code: NA
+  latitude: -19
+  longitude: 16
+scores:
+  impact: 9.5
+  uniqueness: 9.5
+  significance: 9.5
+  experience: 9.5
+  depth: 9.5
+  categories:
+    nature: 9.5
+    wildlife: 9.8
+    photography: 9.5
