@@ -437,7 +437,7 @@ Worldwide v2; initial inventory, editorial ratings, sources consulted 2026-11-25
 - Experience: 8.3 — guided observation and seasonal excursions, less extensive facilities than Suncheon.
 - Depth: 8.0 — multiple habitats and birdwatching, narrower than large multi-day wetland destinations.
 - Applicable categories: nature 9.0, wildlife 9.2, photography 8.7.
-- Overall: 84.70/100.
+- Overall: 84.75/100.
 - High-score challenge: Not applicable.
 - Approved 10 registry: none.
 - Final decision: provisional rating; access is not guaranteed.
