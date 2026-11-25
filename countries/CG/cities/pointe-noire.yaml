@@ -1,0 +1,16 @@
+id: city-cg-pointe-noire
+name: "Pointe-Noire"
+location:
+  country_code: CG
+  latitude: -4.776
+  longitude: 11.864
+scores:
+  impact: 7.3
+  uniqueness: 7.5
+  significance: 7.3
+  experience: 7.9
+  depth: 7.7
+  categories:
+    culture: 8.2
+    food: 8.4
+    relaxation: 8.1

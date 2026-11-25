@@ -1,0 +1,15 @@
+id: sight-cm-dja-faunal-reserve
+name: "Dja Faunal Reserve"
+location:
+  country_code: CM
+  latitude: 3.125
+  longitude: 13
+scores:
+  impact: 9.0
+  uniqueness: 9.3
+  significance: 9.6
+  experience: 8.5
+  depth: 8.8
+  categories:
+    nature: 9.6
+    wildlife: 8.9

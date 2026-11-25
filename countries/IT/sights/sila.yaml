@@ -1,0 +1,15 @@
+id: sight-it-sila
+name: "Sila National Park"
+location:
+  country_code: IT
+  latitude: 39.35
+  longitude: 16.55
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 8.8
+  experience: 8.9
+  depth: 9.0
+  categories:
+    nature: 9.3
+    relaxation: 9.0

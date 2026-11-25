@@ -1,0 +1,15 @@
+id: sight-ua-mykolaiv-observatory
+name: "Mykolaiv Astronomical Observatory"
+location:
+  country_code: UA
+  latitude: 46.972
+  longitude: 31.971
+scores:
+  impact: 7.9
+  uniqueness: 8.8
+  significance: 9.1
+  experience: null
+  depth: null
+  categories:
+    history: 9.2
+    architecture: 8.8

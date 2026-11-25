@@ -1,0 +1,15 @@
+id: city-er-foro
+name: "Foro"
+location:
+  country_code: ER
+  latitude: 15.26303
+  longitude: 39.62239
+scores:
+  impact: 5.9
+  uniqueness: 7.0
+  significance: 7.0
+  experience: 6.7
+  depth: 5.8
+  categories:
+    culture: 7.4
+    history: 7.6

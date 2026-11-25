@@ -1,0 +1,16 @@
+id: sight-es-prado-retiro
+name: "Paseo del Prado and Buen Retiro landscape"
+location:
+  country_code: ES
+  latitude: 40.415
+  longitude: -3.687
+scores:
+  impact: 9.2
+  uniqueness: 9.2
+  significance: 9.4
+  experience: 9.3
+  depth: 9.4
+  categories:
+    culture: 9.6
+    architecture: 9.4
+    history: 9.4

@@ -1,0 +1,16 @@
+id: sight-gr-chelmos
+name: "Chelmos Vouraikos National Park"
+location:
+  country_code: GR
+  latitude: 38.02
+  longitude: 22.14
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 8.7
+  experience: 8.9
+  depth: 9.0
+  categories:
+    nature: 9.3
+    adventure: 9.1
+    photography: 9.2

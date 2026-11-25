@@ -1,0 +1,16 @@
+id: sight-ne-dabous-giraffes
+name: "Dabous Giraffe Rock Art"
+location:
+  country_code: NE
+  latitude: 17.8872
+  longitude: 7.6283
+scores:
+  impact: 9.0
+  uniqueness: 9.6
+  significance: 9.3
+  experience: 8.0
+  depth: 7.6
+  categories:
+    history: 9.3
+    culture: 9.2
+    photography: 9.1

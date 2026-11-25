@@ -1,0 +1,16 @@
+id: city-it-ravenna
+name: "Ravenna"
+location:
+  country_code: IT
+  latitude: 44.4184
+  longitude: 12.2035
+scores:
+  impact: 8.8
+  uniqueness: 9.1
+  significance: 9.4
+  experience: 8.8
+  depth: 8.7
+  categories:
+    history: 9.5
+    culture: 9.5
+    architecture: 9.3

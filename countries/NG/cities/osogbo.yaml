@@ -1,0 +1,15 @@
+id: city-ng-osogbo
+name: "Osogbo"
+location:
+  country_code: NG
+  latitude: 7.766667
+  longitude: 4.566667
+scores:
+  impact: 7.5
+  uniqueness: 8.1
+  significance: 8.1
+  experience: 7.8
+  depth: 7.5
+  categories:
+    culture: 8.7
+    history: 8.2

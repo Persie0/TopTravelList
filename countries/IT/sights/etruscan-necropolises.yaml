@@ -1,0 +1,15 @@
+id: sight-it-etruscan-necropolises
+name: "Etruscan Necropolises of Cerveteri and Tarquinia"
+location:
+  country_code: IT
+  latitude: 42.0
+  longitude: 12.1
+scores:
+  impact: 8.9
+  uniqueness: 9.3
+  significance: 9.4
+  experience: 8.8
+  depth: 9.0
+  categories:
+    history: 9.5
+    culture: 9.3

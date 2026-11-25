@@ -1,0 +1,16 @@
+id: sight-bi-karera-waterfalls
+name: "Karera Waterfalls"
+location:
+  country_code: BI
+  latitude: -3.83027
+  longitude: 30.07993
+scores:
+  impact: 8.6
+  uniqueness: 8.2
+  significance: 7.5
+  experience: 8.5
+  depth: 7.7
+  categories:
+    nature: 8.9
+    photography: 9.0
+    adventure: 8.2

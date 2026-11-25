@@ -1,0 +1,15 @@
+id: sight-it-duomo-milan
+name: "Milan Cathedral"
+location:
+  country_code: IT
+  latitude: 45.464
+  longitude: 9.192
+scores:
+  impact: 9.4
+  uniqueness: 9.3
+  significance: 9.3
+  experience: 9.1
+  depth: 8.8
+  categories:
+    architecture: 9.7
+    photography: 9.5

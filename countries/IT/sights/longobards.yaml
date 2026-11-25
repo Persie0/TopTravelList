@@ -1,0 +1,15 @@
+id: sight-it-longobards
+name: "Longobards in Italy Places of the Power"
+location:
+  country_code: IT
+  latitude: 42.73
+  longitude: 12.74
+scores:
+  impact: 8.8
+  uniqueness: 9.2
+  significance: 9.4
+  experience: null
+  depth: null
+  categories:
+    history: 9.5
+    architecture: 9.3

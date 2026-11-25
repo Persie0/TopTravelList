@@ -1,0 +1,15 @@
+id: sight-cg-ma-loango-regional-museum
+name: "Ma Loango Regional Museum"
+location:
+  country_code: CG
+  latitude: -4.64
+  longitude: 11.85
+scores:
+  impact: 7.3
+  uniqueness: 8.2
+  significance: 8.6
+  experience: 7.7
+  depth: 7.0
+  categories:
+    history: 8.9
+    culture: 8.9

@@ -1,0 +1,15 @@
+id: city-bi-muramvya
+name: "Muramvya"
+location:
+  country_code: BI
+  latitude: -3.26775757
+  longitude: 29.61620489
+scores:
+  impact: 6.0
+  uniqueness: 7.2
+  significance: 7.5
+  experience: 6.8
+  depth: 6.0
+  categories:
+    history: 7.9
+    culture: 7.9

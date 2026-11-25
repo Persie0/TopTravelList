@@ -1,0 +1,15 @@
+id: sight-es-anana
+name: "Valle Salado de Añana"
+location:
+  country_code: ES
+  latitude: 42.802
+  longitude: -2.985
+scores:
+  impact: 8.8
+  uniqueness: 9.1
+  significance: 9.1
+  experience: 8.8
+  depth: 8.5
+  categories:
+    history: 9.3
+    photography: 9.2

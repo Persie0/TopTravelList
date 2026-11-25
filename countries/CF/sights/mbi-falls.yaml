@@ -1,0 +1,15 @@
+id: sight-cf-mbi-falls
+name: "Mbi Falls"
+location:
+  country_code: CF
+  latitude: 4.916667
+  longitude: 17.633333
+scores:
+  impact: null
+  uniqueness: 8.4
+  significance: 7.5
+  experience: null
+  depth: null
+  categories:
+    nature: 8.9
+    photography: 8.9

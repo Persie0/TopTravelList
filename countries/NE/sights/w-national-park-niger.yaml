@@ -1,0 +1,15 @@
+id: sight-ne-w-national-park-niger
+name: "W National Park (Niger sector)"
+location:
+  country_code: NE
+  latitude: 12.1
+  longitude: 2.4
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 9.1
+  experience: null
+  depth: null
+  categories:
+    nature: 9.1
+    wildlife: 9.2

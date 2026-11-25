@@ -1,0 +1,15 @@
+id: sight-er-asmara-central-market
+name: "Asmara Central Market"
+location:
+  country_code: ER
+  latitude: 15.339
+  longitude: 38.941
+scores:
+  impact: 7.5
+  uniqueness: 8.0
+  significance: 7.3
+  experience: 8.0
+  depth: 7.6
+  categories:
+    culture: 8.6
+    food: 8.2

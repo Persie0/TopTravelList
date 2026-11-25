@@ -1,0 +1,16 @@
+id: sight-cm-lobe-falls
+name: "Lobé Falls Cultural Landscape"
+location:
+  country_code: CM
+  latitude: 2.883617
+  longitude: 9.8977
+scores:
+  impact: 9.0
+  uniqueness: 9.3
+  significance: 8.7
+  experience: 8.8
+  depth: 8.1
+  categories:
+    nature: 9.2
+    culture: 8.8
+    photography: 9.2

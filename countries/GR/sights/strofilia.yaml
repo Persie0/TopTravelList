@@ -1,0 +1,15 @@
+id: sight-gr-strofilia
+name: "Kotychi Strofilia Wetlands National Park"
+location:
+  country_code: GR
+  latitude: 38.07
+  longitude: 21.36
+scores:
+  impact: 8.4
+  uniqueness: 8.7
+  significance: 8.8
+  experience: 8.7
+  depth: 8.5
+  categories:
+    nature: 9.2
+    wildlife: 9.2

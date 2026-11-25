@@ -1,0 +1,15 @@
+id: sight-cg-sacred-heart-cathedral-brazzaville
+name: "Sacred Heart Cathedral (Brazzaville)"
+location:
+  country_code: CG
+  latitude: -4.27
+  longitude: 15.28
+scores:
+  impact: 7.2
+  uniqueness: 7.6
+  significance: 8.0
+  experience: 7.4
+  depth: 6.4
+  categories:
+    architecture: 8.3
+    history: 8.4

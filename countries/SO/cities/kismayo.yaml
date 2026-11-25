@@ -1,0 +1,13 @@
+id: city-so-kismayo
+name: "Kismayo"
+location:
+  country_code: SO
+  latitude: -0.358
+  longitude: 42.545
+scores:
+  impact: null
+  uniqueness: 7.2
+  significance: 7.4
+  experience: null
+  depth: null
+  categories: {}

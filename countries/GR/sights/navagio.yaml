@@ -1,0 +1,15 @@
+id: sight-gr-navagio
+name: "Navagio Bay viewpoints"
+location:
+  country_code: GR
+  latitude: 37.86
+  longitude: 20.62
+scores:
+  impact: 9.3
+  uniqueness: 9.1
+  significance: 8.2
+  experience: 8.3
+  depth: 7.5
+  categories:
+    photography: 9.6
+    nature: 9.3

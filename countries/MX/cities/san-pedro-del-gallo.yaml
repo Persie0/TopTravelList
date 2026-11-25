@@ -1,0 +1,16 @@
+id: city-mx-san-pedro-del-gallo
+name: "San Pedro del Gallo"
+location:
+  country_code: MX
+  latitude: 25.565831
+  longitude: -104.292775
+scores:
+  impact: 7.1
+  uniqueness: 7.8
+  significance: 8.3
+  experience: 7.3
+  depth: 6.8
+  categories:
+    architecture: 8.3
+    history: 8.7
+    culture: 8.3

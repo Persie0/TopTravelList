@@ -1,0 +1,14 @@
+id: sight-ua-stone-tomb
+name: "Stone Tomb archaeological site"
+location:
+  country_code: UA
+  latitude: 46.95
+  longitude: 35.47
+scores:
+  impact: null
+  uniqueness: 9.2
+  significance: 9.4
+  experience: null
+  depth: null
+  categories:
+    history: 9.5

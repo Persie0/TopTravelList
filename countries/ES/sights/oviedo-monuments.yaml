@@ -1,0 +1,15 @@
+id: sight-es-oviedo-monuments
+name: "Monuments of Oviedo and Kingdom of Asturias"
+location:
+  country_code: ES
+  latitude: 43.38
+  longitude: -5.87
+scores:
+  impact: 8.7
+  uniqueness: 9.2
+  significance: 9.4
+  experience: 8.6
+  depth: 8.5
+  categories:
+    architecture: 9.4
+    history: 9.5

@@ -1,0 +1,15 @@
+id: city-td-faya-largeau
+name: "Faya-Largeau"
+location:
+  country_code: TD
+  latitude: 17.925
+  longitude: 19.105
+scores:
+  impact: 6.6
+  uniqueness: 7.6
+  significance: 7.3
+  experience: 7.1
+  depth: 6.3
+  categories:
+    culture: 8.0
+    history: 7.9

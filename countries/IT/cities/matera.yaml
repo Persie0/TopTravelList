@@ -1,0 +1,16 @@
+id: city-it-matera
+name: "Matera"
+location:
+  country_code: IT
+  latitude: 40.6664
+  longitude: 16.6043
+scores:
+  impact: 9.4
+  uniqueness: 9.5
+  significance: 9.1
+  experience: 9.1
+  depth: 8.7
+  categories:
+    architecture: 9.6
+    history: 9.3
+    photography: 9.6

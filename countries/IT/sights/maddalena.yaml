@@ -1,0 +1,16 @@
+id: sight-it-maddalena
+name: "La Maddalena Archipelago National Park"
+location:
+  country_code: IT
+  latitude: 41.25
+  longitude: 9.4
+scores:
+  impact: 9.3
+  uniqueness: 9.1
+  significance: 8.9
+  experience: 9.0
+  depth: 9.0
+  categories:
+    nature: 9.5
+    beaches: 9.5
+    photography: 9.5

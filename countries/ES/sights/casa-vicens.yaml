@@ -1,0 +1,14 @@
+id: sight-es-casa-vicens
+name: "Casa Vicens"
+location:
+  country_code: ES
+  latitude: 41.403
+  longitude: 2.15
+scores:
+  impact: 8.8
+  uniqueness: 9.1
+  significance: 9.0
+  experience: 8.7
+  depth: 8.1
+  categories:
+    architecture: 9.4

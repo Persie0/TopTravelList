@@ -1,0 +1,15 @@
+id: sight-it-vesuvius
+name: "Vesuvius National Park"
+location:
+  country_code: IT
+  latitude: 40.82
+  longitude: 14.43
+scores:
+  impact: 9.2
+  uniqueness: 9.3
+  significance: 9.4
+  experience: 8.8
+  depth: 8.8
+  categories:
+    nature: 9.5
+    history: 9.4

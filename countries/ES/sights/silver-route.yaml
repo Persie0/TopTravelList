@@ -1,0 +1,14 @@
+id: sight-es-silver-route
+name: "Silver Route"
+location:
+  country_code: ES
+  latitude: 41.0
+  longitude: -5.7
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 9.1
+  experience: null
+  depth: null
+  categories:
+    history: 9.3

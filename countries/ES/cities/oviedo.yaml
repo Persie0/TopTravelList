@@ -1,0 +1,15 @@
+id: city-es-oviedo
+name: "Oviedo"
+location:
+  country_code: ES
+  latitude: 43.3614
+  longitude: -5.8494
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 9.0
+  experience: 8.7
+  depth: 8.5
+  categories:
+    architecture: 9.2
+    history: 9.3
