@@ -1,0 +1,16 @@
+id: city-de-rothenburg
+name: "Rothenburg ob der Tauber"
+location:
+  country_code: DE
+  latitude: 49.377
+  longitude: 10.179
+scores:
+  impact: 9.0
+  uniqueness: 8.9
+  significance: 8.6
+  experience: 8.8
+  depth: 8.0
+  categories:
+    architecture: 9.4
+    photography: 9.4
+    history: 9.0

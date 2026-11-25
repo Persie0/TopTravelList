@@ -1,0 +1,16 @@
+id: city-de-weimar
+name: "Weimar"
+location:
+  country_code: DE
+  latitude: 50.98
+  longitude: 11.329
+scores:
+  impact: 8.6
+  uniqueness: 8.9
+  significance: 9.2
+  experience: 8.7
+  depth: 8.7
+  categories:
+    culture: 9.4
+    history: 9.3
+    architecture: 9.1

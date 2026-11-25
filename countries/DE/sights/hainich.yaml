@@ -1,0 +1,15 @@
+id: sight-de-hainich
+name: "Hainich National Park"
+location:
+  country_code: DE
+  latitude: 51.08
+  longitude: 10.44
+scores:
+  impact: 8.4
+  uniqueness: 8.7
+  significance: 8.9
+  experience: 8.7
+  depth: 8.6
+  categories:
+    nature: 9.2
+    wildlife: 9.0

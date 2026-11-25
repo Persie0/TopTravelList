@@ -1,0 +1,16 @@
+id: sight-de-zugspitze
+name: "Zugspitze scenic summit visitor landscape"
+location:
+  country_code: DE
+  latitude: 47.421
+  longitude: 10.985
+scores:
+  impact: 9.3
+  uniqueness: 8.9
+  significance: 8.7
+  experience: 9.1
+  depth: 8.6
+  categories:
+    nature: 9.4
+    photography: 9.5
+    adventure: 9.2

@@ -1,0 +1,15 @@
+id: sight-de-pretzien-weir
+name: "Pretzien Weir"
+location:
+  country_code: DE
+  latitude: 52.04
+  longitude: 11.83
+scores:
+  impact: 7.8
+  uniqueness: 8.7
+  significance: 8.9
+  experience: 8.0
+  depth: 7.3
+  categories:
+    history: 9.1
+    architecture: 8.8

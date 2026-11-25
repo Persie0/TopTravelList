@@ -1,0 +1,15 @@
+id: sight-de-green-belt
+name: "German Green Belt (tentative landscape)"
+location:
+  country_code: DE
+  latitude: 50.5
+  longitude: 10.6
+scores:
+  impact: 8.4
+  uniqueness: 9.1
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    nature: 9.2
+    history: 9.3

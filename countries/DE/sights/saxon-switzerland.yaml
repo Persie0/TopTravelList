@@ -1,0 +1,16 @@
+id: sight-de-saxon-switzerland
+name: "Saxon Switzerland National Park"
+location:
+  country_code: DE
+  latitude: 50.92
+  longitude: 14.25
+scores:
+  impact: 9.3
+  uniqueness: 9.2
+  significance: 8.9
+  experience: 9.3
+  depth: 9.2
+  categories:
+    nature: 9.5
+    photography: 9.5
+    adventure: 9.4

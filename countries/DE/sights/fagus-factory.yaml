@@ -1,0 +1,15 @@
+id: sight-de-fagus-factory
+name: "Fagus Factory in Alfeld"
+location:
+  country_code: DE
+  latitude: 51.983
+  longitude: 9.812
+scores:
+  impact: 8.3
+  uniqueness: 8.9
+  significance: 9.2
+  experience: 8.4
+  depth: 8.0
+  categories:
+    architecture: 9.3
+    history: 9.2

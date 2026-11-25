@@ -1,0 +1,16 @@
+id: sight-de-linderhof
+name: "Linderhof Palace and gardens"
+location:
+  country_code: DE
+  latitude: 47.571
+  longitude: 10.96
+scores:
+  impact: 9.1
+  uniqueness: 9.1
+  significance: 9.0
+  experience: 9.0
+  depth: 8.7
+  categories:
+    architecture: 9.4
+    history: 9.2
+    photography: 9.3
