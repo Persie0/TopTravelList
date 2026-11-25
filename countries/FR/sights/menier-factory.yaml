@@ -1,0 +1,15 @@
+id: sight-fr-menier-factory
+name: "Former Menier chocolate factory Noisiel"
+location:
+  country_code: FR
+  latitude: 48.858
+  longitude: 2.624
+scores:
+  impact: 8.5
+  uniqueness: 8.9
+  significance: 9.0
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.3
+    history: 9.2

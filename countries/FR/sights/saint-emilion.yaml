@@ -1,0 +1,16 @@
+id: sight-fr-saint-emilion
+name: "Jurisdiction of Saint-Émilion"
+location:
+  country_code: FR
+  latitude: 44.894
+  longitude: -0.155
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 9.0
+  experience: 9.0
+  depth: 8.9
+  categories:
+    architecture: 9.2
+    food: 9.2
+    photography: 9.3

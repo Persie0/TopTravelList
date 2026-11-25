@@ -1,0 +1,15 @@
+id: sight-fr-chenonceau
+name: "Château de Chenonceau"
+location:
+  country_code: FR
+  latitude: 47.325
+  longitude: 1.07
+scores:
+  impact: 9.3
+  uniqueness: 9.2
+  significance: 9.0
+  experience: 9.0
+  depth: 8.8
+  categories:
+    architecture: 9.5
+    photography: 9.6

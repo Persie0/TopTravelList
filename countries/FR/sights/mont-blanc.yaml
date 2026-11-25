@@ -1,0 +1,16 @@
+id: sight-fr-mont-blanc
+name: "Mont Blanc massif (French visitor landscape)"
+location:
+  country_code: FR
+  latitude: 45.85
+  longitude: 6.87
+scores:
+  impact: 9.7
+  uniqueness: 9.4
+  significance: 9.3
+  experience: 9.3
+  depth: 9.5
+  categories:
+    nature: 9.8
+    photography: 9.7
+    adventure: 9.5

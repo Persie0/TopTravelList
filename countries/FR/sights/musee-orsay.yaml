@@ -1,0 +1,16 @@
+id: sight-fr-musee-orsay
+name: "Musée d'Orsay"
+location:
+  country_code: FR
+  latitude: 48.86
+  longitude: 2.326
+scores:
+  impact: 9.2
+  uniqueness: 9.3
+  significance: 9.5
+  experience: 9.2
+  depth: 9.2
+  categories:
+    culture: 9.6
+    history: 9.3
+    architecture: 9.1

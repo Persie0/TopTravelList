@@ -1,0 +1,15 @@
+id: sight-fr-dune-pilat
+name: "Dune du Pilat"
+location:
+  country_code: FR
+  latitude: 44.59
+  longitude: -1.214
+scores:
+  impact: 9.3
+  uniqueness: 9.2
+  significance: 8.6
+  experience: 9.0
+  depth: 8.1
+  categories:
+    nature: 9.4
+    photography: 9.5
