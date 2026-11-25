@@ -1,0 +1,15 @@
+id: sight-iq-ashur
+name: "Ashur (Qal'at Sherqat)"
+location:
+  country_code: IQ
+  latitude: 35.456
+  longitude: 43.259
+scores:
+  impact: 8.1
+  uniqueness: 9.1
+  significance: 9.4
+  experience: null
+  depth: null
+  categories:
+    history: 9.4
+    architecture: 8.6
