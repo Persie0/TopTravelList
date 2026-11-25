@@ -1,0 +1,15 @@
+id: sight-lk-dickwella-beach
+name: "Dickwella Beach"
+location:
+  country_code: LK
+  latitude: 5.968
+  longitude: 80.696
+scores:
+  impact: 8.1
+  uniqueness: 7.9
+  significance: 6.2
+  experience: 8.6
+  depth: 7.7
+  categories:
+    beaches: 8.8
+    relaxation: 8.9

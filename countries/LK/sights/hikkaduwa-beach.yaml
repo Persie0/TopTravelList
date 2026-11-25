@@ -1,0 +1,16 @@
+id: sight-lk-hikkaduwa-beach
+name: "Hikkaduwa Beach"
+location:
+  country_code: LK
+  latitude: 6.134
+  longitude: 80.10
+scores:
+  impact: 8.3
+  uniqueness: 8.1
+  significance: 6.5
+  experience: 8.7
+  depth: 8.0
+  categories:
+    beaches: 8.9
+    adventure: 8.8
+    relaxation: 8.8

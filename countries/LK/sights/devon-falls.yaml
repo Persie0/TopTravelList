@@ -1,0 +1,15 @@
+id: sight-lk-devon-falls
+name: "Devon Falls"
+location:
+  country_code: LK
+  latitude: 6.950
+  longitude: 80.637
+scores:
+  impact: 8.5
+  uniqueness: 8.3
+  significance: 7.1
+  experience: 8.4
+  depth: 7.3
+  categories:
+    nature: 8.9
+    photography: 9.0

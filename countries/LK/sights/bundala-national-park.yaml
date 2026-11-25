@@ -1,0 +1,16 @@
+id: sight-lk-bundala-national-park
+name: "Bundala National Park"
+location:
+  country_code: LK
+  latitude: 6.20
+  longitude: 81.21
+scores:
+  impact: 8.5
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.7
+  depth: 8.6
+  categories:
+    wildlife: 9.3
+    nature: 9.2
+    photography: 8.9

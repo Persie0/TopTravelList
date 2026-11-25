@@ -1,0 +1,15 @@
+id: sight-lk-maduru-oya-national-park
+name: "Maduru Oya National Park"
+location:
+  country_code: LK
+  latitude: 7.61
+  longitude: 81.20
+scores:
+  impact: 8.3
+  uniqueness: 8.5
+  significance: 8.5
+  experience: 8.4
+  depth: 8.5
+  categories:
+    wildlife: 9.0
+    nature: 8.9

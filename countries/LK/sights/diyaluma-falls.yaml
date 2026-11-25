@@ -1,0 +1,16 @@
+id: sight-lk-diyaluma-falls
+name: "Diyaluma Falls"
+location:
+  country_code: LK
+  latitude: 6.735
+  longitude: 81.031
+scores:
+  impact: 9.0
+  uniqueness: 8.9
+  significance: 7.7
+  experience: 8.8
+  depth: 8.1
+  categories:
+    nature: 9.2
+    photography: 9.3
+    adventure: 9.0

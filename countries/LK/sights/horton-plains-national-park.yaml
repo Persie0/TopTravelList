@@ -1,0 +1,17 @@
+id: sight-lk-horton-plains-national-park
+name: "Horton Plains National Park"
+location:
+  country_code: LK
+  latitude: 6.80
+  longitude: 80.81
+scores:
+  impact: 9.1
+  uniqueness: 9.1
+  significance: 9.2
+  experience: 9.1
+  depth: 8.7
+  categories:
+    nature: 9.4
+    wildlife: 8.9
+    photography: 9.3
+    adventure: 9.0

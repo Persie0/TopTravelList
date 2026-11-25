@@ -1,0 +1,16 @@
+id: sight-lk-jungle-beach-unawatuna
+name: "Jungle Beach Unawatuna"
+location:
+  country_code: LK
+  latitude: 6.018
+  longitude: 80.235
+scores:
+  impact: 8.2
+  uniqueness: 8.1
+  significance: 6.3
+  experience: 8.5
+  depth: 7.2
+  categories:
+    beaches: 8.8
+    relaxation: 8.8
+    nature: 8.5

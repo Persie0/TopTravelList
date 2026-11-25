@@ -1,0 +1,16 @@
+id: sight-lk-bar-reef-marine-sanctuary
+name: "Bar Reef Marine Sanctuary"
+location:
+  country_code: LK
+  latitude: 8.29
+  longitude: 79.66
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 8.6
+  experience: 8.7
+  depth: 8.5
+  categories:
+    wildlife: 9.0
+    nature: 9.1
+    adventure: 8.9

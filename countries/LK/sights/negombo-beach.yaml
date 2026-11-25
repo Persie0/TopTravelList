@@ -1,0 +1,15 @@
+id: sight-lk-negombo-beach
+name: "Negombo Beach"
+location:
+  country_code: LK
+  latitude: 7.240
+  longitude: 79.841
+scores:
+  impact: 7.7
+  uniqueness: 7.4
+  significance: 6.2
+  experience: 8.2
+  depth: 7.6
+  categories:
+    beaches: 8.3
+    relaxation: 8.6

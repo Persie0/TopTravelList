@@ -1,0 +1,16 @@
+id: sight-lk-arugam-bay-surf-beach
+name: "Arugam Bay Surf Beach"
+location:
+  country_code: LK
+  latitude: 6.839
+  longitude: 81.833
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 6.8
+  experience: 9.0
+  depth: 8.5
+  categories:
+    beaches: 9.1
+    adventure: 9.4
+    relaxation: 8.8

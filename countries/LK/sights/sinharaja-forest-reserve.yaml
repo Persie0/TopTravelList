@@ -1,0 +1,16 @@
+id: sight-lk-sinharaja-forest-reserve
+name: "Sinharaja Forest Reserve"
+location:
+  country_code: LK
+  latitude: 6.416
+  longitude: 80.50
+scores:
+  impact: 9.0
+  uniqueness: 9.3
+  significance: 9.6
+  experience: 8.9
+  depth: 9.0
+  categories:
+    nature: 9.6
+    wildlife: 9.5
+    adventure: 9.1

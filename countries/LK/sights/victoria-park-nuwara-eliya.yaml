@@ -1,0 +1,15 @@
+id: sight-lk-victoria-park-nuwara-eliya
+name: "Victoria Park Nuwara Eliya"
+location:
+  country_code: LK
+  latitude: 6.969
+  longitude: 80.768
+scores:
+  impact: 7.5
+  uniqueness: 7.5
+  significance: 7.1
+  experience: 8.1
+  depth: 7.6
+  categories:
+    relaxation: 8.5
+    nature: 8.2
