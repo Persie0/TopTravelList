@@ -1,0 +1,16 @@
+id: sight-tt-nylon-pool
+name: "Nylon Pool"
+location:
+  country_code: TT
+  latitude: 11.185
+  longitude: -60.835
+scores:
+  impact: 8.4
+  uniqueness: 8.3
+  significance: 6.9
+  experience: 8.6
+  depth: 6.5
+  categories:
+    beaches: 8.9
+    relaxation: 9.0
+    photography: 9.1

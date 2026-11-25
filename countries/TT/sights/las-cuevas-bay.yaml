@@ -1,0 +1,15 @@
+id: sight-tt-las-cuevas-bay
+name: "Las Cuevas Bay"
+location:
+  country_code: TT
+  latitude: 10.786
+  longitude: -61.386
+scores:
+  impact: 7.9
+  uniqueness: 7.4
+  significance: 6.6
+  experience: 8.4
+  depth: 7.1
+  categories:
+    beaches: 8.9
+    relaxation: 8.9

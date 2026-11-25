@@ -1,0 +1,16 @@
+id: sight-tt-little-tobago-island
+name: "Little Tobago Island"
+location:
+  country_code: TT
+  latitude: 11.300
+  longitude: -60.497
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 8.5
+  experience: 8.5
+  depth: 8.0
+  categories:
+    wildlife: 9.2
+    nature: 9.0
+    photography: 9.0
