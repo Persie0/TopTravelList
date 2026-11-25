@@ -2,7 +2,7 @@
 
 # Marshall Islands (MH) — Sights & attractions ranking
 
-**4 ranked** · **4 unassessed** · **8 total** · Worldwide scoring **v2**
+**5 ranked** · **16 unassessed** · **21 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (4)
+## Complete ranked list (5)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -18,17 +18,30 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 2 | [Majuro Lagoon](sights/majuro-lagoon.yaml) | Beach / bay | **76.80** | **Nature 8.4**, **Photography 8.2**, **Adventure 8.1** | 8.0 / 7.8 / 6.9 / 8.0 / 7.5 | [7.11667, 171.2](https://www.google.com/maps/search/?api=1&query=7.11667,171.2) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Majuro%20Lagoon%2C%20Marshall%20Islands) |
 | 3 | [Alele Museum](sights/alele-museum.yaml) | Museum / heritage | **75.10** | **Culture 8.5**, **History 8.3** | 6.9 / 8.1 / 8.1 / 7.3 / 7.0 | [7.10761, 171.37359](https://www.google.com/maps/search/?api=1&query=7.10761,171.37359) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Alele%20Museum%2C%20Marshall%20Islands) |
 | 4 | [Laura Beach Park](sights/laura-beach-park.yaml) | Beach / bay | **70.90** | **Relaxation 8.3**, **Beaches 8.2**, **Photography 7.8**, Nature 7.7 | 7.8 / 7.1 / 5.8 / 7.9 / 6.3 | [7.16391, 171.03949](https://www.google.com/maps/search/?api=1&query=7.16391,171.03949) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Laura%20Beach%20Park%2C%20Marshall%20Islands) |
+| 5 | [Delap Park](sights/delap-park.yaml) | Park / square | **56.75** | **Relaxation 6.6**, **Photography 6.1** | 5.8 / 5.8 / 5.3 / 6.3 / 4.8 | [7.08903, 171.37902](https://www.google.com/maps/search/?api=1&query=7.08903,171.37902) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Delap%20Park%2C%20Marshall%20Islands) |
 
-## Not yet fully assessed (4)
+## Not yet fully assessed (16)
 
 These destinations have no rank until all five core scores are assessed.
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
+| — | [Ailinginae Atoll](sights/ailinginae-atoll.yaml) | Attraction | **—** | — | — / — / — / — / — | [11.166667, 166.333333](https://www.google.com/maps/search/?api=1&query=11.166667,166.333333) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ailinginae%20Atoll%2C%20Marshall%20Islands) |
+| — | [Bikar Atoll](sights/bikar-atoll.yaml) | Attraction | **—** | — | — / — / — / — / — | [12.25, 170.116667](https://www.google.com/maps/search/?api=1&query=12.25,170.116667) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bikar%20Atoll%2C%20Marshall%20Islands) |
 | — | [Bikini Atoll Nuclear Test Site](sights/bikini-atoll-nuclear-test-site.yaml) | Attraction | **—** | **History 9.4** | 8.8 / 9.4 / 9.6 / — / — | [11.6, 165.38056](https://www.google.com/maps/search/?api=1&query=11.6,165.38056) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bikini%20Atoll%20Nuclear%20Test%20Site%2C%20Marshall%20Islands) |
+| — | [Bokak Atoll](sights/bokak-atoll.yaml) | Attraction | **—** | — | — / — / — / — / — | [14.716667, 168.95](https://www.google.com/maps/search/?api=1&query=14.716667,168.95) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bokak%20Atoll%2C%20Marshall%20Islands) |
+| — | [Erikub Atoll](sights/erikub-atoll.yaml) | Attraction | **—** | — | — / — / — / — / — | [9.133333, 170.033333](https://www.google.com/maps/search/?api=1&query=9.133333,170.033333) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Erikub%20Atoll%2C%20Marshall%20Islands) |
 | — | [Jaluit Atoll Conservation Area](sights/jaluit-atoll-conservation-area.yaml) | Attraction | **—** | **Nature 8.7**, **Wildlife 8.3** | 8.1 / 8.3 / 8.7 / — / — | [6.0, 169.56667](https://www.google.com/maps/search/?api=1&query=6.0,169.56667) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Jaluit%20Atoll%20Conservation%20Area%2C%20Marshall%20Islands) |
-| — | [Likiep Village Historic District](sights/likiep-village-historic-district.yaml) | Historic settlement | **—** | **History 8.7**, **Architecture 8.0** | 7.0 / 8.5 / 8.4 / — / — | [9.825, 169.311](https://www.google.com/maps/search/?api=1&query=9.825,169.311) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Likiep%20Village%20Historic%20District%2C%20Marshall%20Islands) |
+| — | [Jemo Island](sights/jemo-island.yaml) | Island | **—** | — | — / — / — / — / — | [10.1, 169.5](https://www.google.com/maps/search/?api=1&query=10.1,169.5) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Jemo%20Island%2C%20Marshall%20Islands) |
+| — | [Likiep Village Historic District](sights/likiep-village-historic-district.yaml) | Historic settlement | **—** | **History 8.7**, **Architecture 8.0** | 7.0 / 8.5 / 8.4 / — / — | [9.82603, 169.30797](https://www.google.com/maps/search/?api=1&query=9.82603,169.30797) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Likiep%20Village%20Historic%20District%2C%20Marshall%20Islands) |
+| — | [Majuro Bridge](sights/majuro-bridge.yaml) | Bridge | **—** | **Photography 6.3**, **Architecture 6.1** | 5.9 / 6.4 / 6.2 / — / — | [7.083, 171.35515](https://www.google.com/maps/search/?api=1&query=7.083,171.35515) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Majuro%20Bridge%2C%20Marshall%20Islands) |
+| — | [Mili Atoll Nature Conservancy](sights/mili-atoll-nature-conservancy.yaml) | Attraction | **—** | — | — / — / — / — / — | [6.13373, 171.92471](https://www.google.com/maps/search/?api=1&query=6.13373,171.92471) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mili%20Atoll%20Nature%20Conservancy%2C%20Marshall%20Islands) |
+| — | [Mili Atoll Nature Conservancy (and Nadrikdrik)](sights/mili-nadrikdrik-conservancy.yaml) | Attraction | **—** | **Nature 9.1**, **Wildlife 9.0** | 8.6 / 8.9 / 9.0 / — / — | [6.041667, 171.875](https://www.google.com/maps/search/?api=1&query=6.041667,171.875) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mili%20Atoll%20Nature%20Conservancy%20%28and%20Nadrikdrik%29%2C%20Marshall%20Islands) |
+| — | [Nadrikdrik (Knox Atoll)](sights/nadrikdrik-atoll.yaml) | Attraction | **—** | — | — / — / — / — / — | [5.91, 172.155](https://www.google.com/maps/search/?api=1&query=5.91,172.155) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nadrikdrik%20%28Knox%20Atoll%29%2C%20Marshall%20Islands) |
 | — | [Namdrik Atoll Ramsar Site](sights/namdrik-atoll.yaml) | Attraction | **—** | **Nature 8.5**, **Wildlife 8.2** | 7.8 / 8.2 / 8.4 / — / — | [5.61667, 168.1](https://www.google.com/maps/search/?api=1&query=5.61667,168.1) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Namdrik%20Atoll%20Ramsar%20Site%2C%20Marshall%20Islands) |
+| — | [Northern Marshall Islands Atolls](sights/northern-marshall-islands-atolls.yaml) | Island | **—** | **Nature 9.1**, **Wildlife 9.0** | 8.5 / 9.1 / 9.0 / — / — | [11.166667, 166.333333](https://www.google.com/maps/search/?api=1&query=11.166667,166.333333) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Northern%20Marshall%20Islands%20Atolls%2C%20Marshall%20Islands) |
+| — | [Rongerik Atoll](sights/rongerik-atoll.yaml) | Attraction | **—** | — | — / — / — / — / — | [11.35, 167.433333](https://www.google.com/maps/search/?api=1&query=11.35,167.433333) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Rongerik%20Atoll%2C%20Marshall%20Islands) |
+| — | [Taka Atoll](sights/taka-atoll.yaml) | Attraction | **—** | — | — / — / — / — / — | [11.116667, 169.766667](https://www.google.com/maps/search/?api=1&query=11.116667,169.766667) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Taka%20Atoll%2C%20Marshall%20Islands) |
 
 ---
 

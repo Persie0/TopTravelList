@@ -1,0 +1,13 @@
+id: sight-mh-mili-atoll-nature-conservancy
+name: "Mili Atoll Nature Conservancy"
+location:
+  country_code: MH
+  latitude: 6.13373
+  longitude: 171.92471
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}

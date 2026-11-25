@@ -1,0 +1,13 @@
+id: sight-mh-bokak-atoll
+name: "Bokak Atoll"
+location:
+  country_code: MH
+  latitude: 14.716667
+  longitude: 168.95
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}

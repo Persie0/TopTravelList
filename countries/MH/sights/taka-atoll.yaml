@@ -1,0 +1,13 @@
+id: sight-mh-taka-atoll
+name: "Taka Atoll"
+location:
+  country_code: MH
+  latitude: 11.116667
+  longitude: 169.766667
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}

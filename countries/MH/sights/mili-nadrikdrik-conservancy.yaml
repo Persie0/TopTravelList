@@ -1,0 +1,15 @@
+id: sight-mh-mili-nadrikdrik-conservancy
+name: "Mili Atoll Nature Conservancy (and Nadrikdrik)"
+location:
+  country_code: MH
+  latitude: 6.041667
+  longitude: 171.875
+scores:
+  impact: 8.6
+  uniqueness: 8.9
+  significance: 9.0
+  experience: null
+  depth: null
+  categories:
+    nature: 9.1
+    wildlife: 9.0

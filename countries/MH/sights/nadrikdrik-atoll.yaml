@@ -1,0 +1,13 @@
+id: sight-mh-nadrikdrik-atoll
+name: "Nadrikdrik (Knox Atoll)"
+location:
+  country_code: MH
+  latitude: 5.91
+  longitude: 172.155
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}
