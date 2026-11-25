@@ -2,8 +2,8 @@ id: city-gn-lola
 name: "Lola"
 location:
   country_code: GN
-  latitude: 7.80
-  longitude: -8.53
+  latitude: 7.7997
+  longitude: -8.5286
 scores:
   impact: 6.0
   uniqueness: 7.0
