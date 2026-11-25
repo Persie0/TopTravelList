@@ -1,0 +1,15 @@
+id: sight-cg-lefini-reserve
+name: "Léfini Reserve"
+location:
+  country_code: CG
+  latitude: -3.05
+  longitude: 15.45
+scores:
+  impact: null
+  uniqueness: 8.2
+  significance: 8.7
+  experience: null
+  depth: null
+  categories:
+    nature: 9.0
+    wildlife: 9.0

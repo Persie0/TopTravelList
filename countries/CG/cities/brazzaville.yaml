@@ -1,0 +1,16 @@
+id: city-cg-brazzaville
+name: "Brazzaville"
+location:
+  country_code: CG
+  latitude: -4.267
+  longitude: 15.283
+scores:
+  impact: 7.7
+  uniqueness: 8.1
+  significance: 8.5
+  experience: 8.0
+  depth: 8.2
+  categories:
+    culture: 8.8
+    history: 8.8
+    food: 8.3
