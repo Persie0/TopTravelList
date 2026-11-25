@@ -723,3 +723,33 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Official tourism attraction inventory excerpt; named attraction identity only](https://timorleste.tl/destinations/attractions), search excerpt inspected 2026-11-25; individual material claims and coordinates not fully verified.
 - Remaining gaps: Confirm normal permitted public visitor experience and scope before complete scoring.
+
+## Follow-up: sight-tl-atauro-island-reefs — 2026-11-25 (worldwide review)
+
+- [YAML](../../../countries/TL/sights/atauro-island-reefs.yaml) · Action: fact-check-only · **source-linked-unverified** (specific source excerpts inspected; full factual/GPS verification outstanding).
+- Sources inspected: [https://timorleste.tl/experiences/diving](https://timorleste.tl/experiences/diving); [https://timor-leste.conservation.org/our-work/creating-a-protected-area-network](https://timor-leste.conservation.org/our-work/creating-a-protected-area-network); [https://timor-leste.conservation.org/projects/northern-marine-conservation-blue-economy](https://timor-leste.conservation.org/projects/northern-marine-conservation-blue-economy).
+- Decision: Retain provisionally. Conservation International documents exceptional reef-fish survey results and community-managed dive sites. Official tourism lists multiple diving options. This supports rarity and breadth of the actual reef experience, not guaranteed sightings or superiority over every other global reef. Depth 9.4 remains a provisional multi-site trip assessment, not the entire island or every protected habitat. Further field-specific comparisons, including Raja Ampat when catalogued, remain necessary.
+- Retained I/U/S/E/D: 9.4 / 9.6 / 9.5 / 9.4 / 9.4; overall 94.70/100. Categories and GPS unchanged; no new 10 or multiplier.
+
+| Current worldwide peer | I/U/S/E/D | Overall /100 | Comparison |
+| --- | --- | --- | --- |
+| [sipadan island reefs (MY)](../../../countries/MY/sights/sipadan-island-reefs.yaml) | 9.5 / 9.6 / 9.1 / 9.5 / 8.9 | 93.85 | Closer global reef comparator; narrower site scope, similarly outstanding marine experience. |
+| [glover s reef marine reserve (BZ)](../../../countries/BZ/sights/glover-s-reef-marine-reserve.yaml) | 9.1 / 9.2 / 9.4 / 9.2 / 9.0 | 91.90 | Comparable atoll reef exploration; distinct habitats. |
+| [aqaba marine reserve (JO)](../../../countries/JO/sights/aqaba-marine-reserve.yaml) | 8.9 / 9.2 / 9.4 / 9.1 / 8.8 | 90.95 | Established but more bounded reef route. |
+| [aldabra atoll (SC)](../../../countries/SC/sights/aldabra-atoll.yaml) | 9.5 / 9.8 / 9.8 / 8.0 / 7.6 | 92.20 | Exceptional marine ecology but tightly limited authorized routes. |
+
+
+## Follow-up: sight-tl-nino-konis-santana-national-park — 2026-11-25 (worldwide review)
+
+- [YAML](../../../countries/TL/sights/nino-konis-santana-national-park.yaml) · Action: fact-check-only · **source-linked-unverified** (specific source excerpts inspected; full factual/GPS verification outstanding).
+- Sources inspected: [https://www.unesco.org/en/articles/nino-konis-santana-designated-timor-lestes-first-unesco-biosphere-reserve](https://www.unesco.org/en/articles/nino-konis-santana-designated-timor-lestes-first-unesco-biosphere-reserve); [https://timorleste.tl/destinations/nino-konis-santana](https://timorleste.tl/destinations/nino-konis-santana); [https://timorleste.tl/destinations/jaco-island](https://timorleste.tl/destinations/jaco-island).
+- Decision: Retain provisionally. UNESCO confirms the June 2026 biosphere designation; tourism sources identify multiple named coastal, lake and archaeological attractions and a documented boat visit to Jaco. These support a coherent multi-stop landscape experience rather than a bonus for designation alone. Depth 9.1 is an editorial estimate of the permitted itinerary, not the full reserve. No assumption of access to every cave, forest or marine site; Jaco remains separately assessed.
+- Retained I/U/S/E/D: 9.0 / 9.1 / 9.2 / 8.7 / 9.1; overall 90.30/100. Categories and GPS unchanged; no new 10 or multiplier.
+
+| Current worldwide peer | I/U/S/E/D | Overall /100 | Comparison |
+| --- | --- | --- | --- |
+| [khao sok national park (TH)](../../../countries/TH/sights/khao-sok-national-park.yaml) | 9.4 / 9.4 / 9.1 / 9.4 / 9.3 | 93.30 | Stronger established forest and lake visitor routes. |
+| [iwokrama rainforest (GY)](../../../countries/GY/sights/iwokrama-rainforest.yaml) | 8.9 / 8.8 / 9.2 / 8.7 / 9.0 | 89.15 | Comparable multi-route landscape exploration. |
+| [cuyabeno wildlife reserve (EC)](../../../countries/EC/sights/cuyabeno-wildlife-reserve.yaml) | 8.9 / 8.9 / 9.0 / 8.9 / 8.8 | 89.10 | Varied guided river and forest circuits. |
+| [aldabra atoll (SC)](../../../countries/SC/sights/aldabra-atoll.yaml) | 9.5 / 9.8 / 9.8 / 8.0 / 7.6 | 92.20 | Higher natural rarity with more restricted visitor scope. |
+
