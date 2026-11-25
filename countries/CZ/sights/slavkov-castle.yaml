@@ -1,0 +1,15 @@
+id: sight-cz-slavkov-castle
+name: "Slavkov Castle"
+location:
+  country_code: CZ
+  latitude: 49.1530
+  longitude: 16.8770
+scores:
+  impact: 8.4
+  uniqueness: 8.6
+  significance: 8.8
+  experience: 8.5
+  depth: 8.2
+  categories:
+    history: 9.2
+    architecture: 9.0

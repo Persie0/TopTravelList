@@ -1,0 +1,15 @@
+id: sight-cz-rabi-castle-ruins
+name: "Rabi Castle Ruins"
+location:
+  country_code: CZ
+  latitude: 49.2790
+  longitude: 13.6170
+scores:
+  impact: 8.5
+  uniqueness: 8.5
+  significance: 8.6
+  experience: 8.5
+  depth: 8.1
+  categories:
+    architecture: 8.9
+    history: 8.9

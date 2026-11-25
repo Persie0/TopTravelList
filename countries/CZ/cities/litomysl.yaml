@@ -1,0 +1,15 @@
+id: city-cz-litomysl
+name: "Litomysl"
+location:
+  country_code: CZ
+  latitude: 49.8721
+  longitude: 16.3106
+scores:
+  impact: 8.1
+  uniqueness: 8.3
+  significance: 8.5
+  experience: 8.2
+  depth: 7.8
+  categories:
+    architecture: 8.9
+    culture: 8.6

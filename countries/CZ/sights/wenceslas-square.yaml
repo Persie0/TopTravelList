@@ -1,0 +1,15 @@
+id: sight-cz-wenceslas-square
+name: "Wenceslas Square"
+location:
+  country_code: CZ
+  latitude: 50.0815
+  longitude: 14.4267
+scores:
+  impact: 8.1
+  uniqueness: 8.0
+  significance: 9.0
+  experience: 8.3
+  depth: 8.0
+  categories:
+    history: 9.3
+    architecture: 8.5

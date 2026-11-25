@@ -1,0 +1,15 @@
+id: sight-cz-national-gallery-prague-trade-fair-palace
+name: "National Gallery Prague Trade Fair Palace"
+location:
+  country_code: CZ
+  latitude: 50.1017
+  longitude: 14.4329
+scores:
+  impact: 8.2
+  uniqueness: 8.4
+  significance: 8.5
+  experience: 8.7
+  depth: 8.8
+  categories:
+    culture: 9.2
+    architecture: 8.6

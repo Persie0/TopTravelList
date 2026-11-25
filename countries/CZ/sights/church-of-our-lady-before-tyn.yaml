@@ -1,0 +1,15 @@
+id: sight-cz-church-of-our-lady-before-tyn
+name: "Church of Our Lady before Tyn"
+location:
+  country_code: CZ
+  latitude: 50.0877
+  longitude: 14.4221
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 8.9
+  experience: 8.6
+  depth: 8.0
+  categories:
+    architecture: 9.3
+    history: 9.1

@@ -1,0 +1,14 @@
+id: city-cz-jicin
+name: "Jicin"
+location:
+  country_code: CZ
+  latitude: 50.4372
+  longitude: 15.3516
+scores:
+  impact: 7.7
+  uniqueness: 7.8
+  significance: 7.9
+  experience: 8.0
+  depth: 7.5
+  categories:
+    architecture: 8.4

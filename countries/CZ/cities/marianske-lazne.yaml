@@ -1,0 +1,15 @@
+id: city-cz-marianske-lazne
+name: "Marianske Lazne"
+location:
+  country_code: CZ
+  latitude: 49.9646
+  longitude: 12.7012
+scores:
+  impact: 8.2
+  uniqueness: 8.2
+  significance: 8.3
+  experience: 8.6
+  depth: 8.0
+  categories:
+    relaxation: 9.1
+    architecture: 8.8

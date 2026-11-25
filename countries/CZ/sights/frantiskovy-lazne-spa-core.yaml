@@ -1,0 +1,15 @@
+id: sight-cz-frantiskovy-lazne-spa-core
+name: "Frantiskovy Lazne Spa Core"
+location:
+  country_code: CZ
+  latitude: 50.1190
+  longitude: 12.3500
+scores:
+  impact: 8.1
+  uniqueness: 8.4
+  significance: 8.5
+  experience: 8.5
+  depth: 8.0
+  categories:
+    architecture: 8.9
+    relaxation: 9.0

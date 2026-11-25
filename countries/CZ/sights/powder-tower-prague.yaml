@@ -1,0 +1,15 @@
+id: sight-cz-powder-tower-prague
+name: "Powder Tower Prague"
+location:
+  country_code: CZ
+  latitude: 50.0873
+  longitude: 14.4277
+scores:
+  impact: 8.2
+  uniqueness: 8.4
+  significance: 8.5
+  experience: 8.1
+  depth: 7.1
+  categories:
+    architecture: 8.9
+    history: 8.7

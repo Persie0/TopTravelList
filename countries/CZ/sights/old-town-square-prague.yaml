@@ -1,0 +1,16 @@
+id: sight-cz-old-town-square-prague
+name: "Old Town Square Prague"
+location:
+  country_code: CZ
+  latitude: 50.0875
+  longitude: 14.4211
+scores:
+  impact: 9.2
+  uniqueness: 9.1
+  significance: 9.2
+  experience: 9.1
+  depth: 8.3
+  categories:
+    architecture: 9.4
+    history: 9.2
+    photography: 9.4

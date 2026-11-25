@@ -1,0 +1,15 @@
+id: city-cz-zlin
+name: "Zlin"
+location:
+  country_code: CZ
+  latitude: 49.2265
+  longitude: 17.6707
+scores:
+  impact: 7.8
+  uniqueness: 8.6
+  significance: 8.5
+  experience: 8.1
+  depth: 8.0
+  categories:
+    architecture: 9.0
+    history: 8.8

@@ -1,0 +1,15 @@
+id: sight-cz-klementinum-baroque-library
+name: "Klementinum Baroque Library"
+location:
+  country_code: CZ
+  latitude: 50.0865
+  longitude: 14.4160
+scores:
+  impact: 8.9
+  uniqueness: 9.1
+  significance: 8.8
+  experience: 8.6
+  depth: 7.7
+  categories:
+    architecture: 9.4
+    history: 9.0

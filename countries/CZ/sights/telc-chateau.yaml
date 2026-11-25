@@ -1,0 +1,15 @@
+id: sight-cz-telc-chateau
+name: "Telc Chateau"
+location:
+  country_code: CZ
+  latitude: 49.1850
+  longitude: 15.4510
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 8.8
+  experience: 8.6
+  depth: 8.2
+  categories:
+    architecture: 9.2
+    history: 9.0

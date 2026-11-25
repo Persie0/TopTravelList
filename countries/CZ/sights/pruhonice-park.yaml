@@ -1,0 +1,15 @@
+id: sight-cz-pruhonice-park
+name: "Pruhonice Park"
+location:
+  country_code: CZ
+  latitude: 50.0000
+  longitude: 14.5570
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 8.8
+  experience: 8.8
+  depth: 8.7
+  categories:
+    nature: 9.1
+    relaxation: 9.2

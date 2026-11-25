@@ -1,0 +1,14 @@
+id: sight-cz-boubin-primeval-forest
+name: "Boubin Primeval Forest"
+location:
+  country_code: CZ
+  latitude: 48.9760
+  longitude: 13.8160
+scores:
+  impact: 8.2
+  uniqueness: 8.5
+  significance: 8.5
+  experience: 8.4
+  depth: 8.0
+  categories:
+    nature: 9.1

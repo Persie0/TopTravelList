@@ -1,0 +1,15 @@
+id: sight-cz-pardubice-castle
+name: "Pardubice Castle"
+location:
+  country_code: CZ
+  latitude: 50.0400
+  longitude: 15.7760
+scores:
+  impact: 8.3
+  uniqueness: 8.4
+  significance: 8.5
+  experience: 8.4
+  depth: 8.0
+  categories:
+    architecture: 8.9
+    history: 8.8

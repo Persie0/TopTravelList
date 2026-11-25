@@ -1,0 +1,15 @@
+id: sight-cz-kromeriz-castle-garden
+name: "Kromeriz Castle Garden"
+location:
+  country_code: CZ
+  latitude: 49.3050
+  longitude: 17.3980
+scores:
+  impact: 8.3
+  uniqueness: 8.3
+  significance: 8.6
+  experience: 8.6
+  depth: 8.5
+  categories:
+    relaxation: 9.1
+    nature: 8.8

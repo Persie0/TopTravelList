@@ -1,0 +1,15 @@
+id: city-cz-pardubice
+name: "Pardubice"
+location:
+  country_code: CZ
+  latitude: 50.0343
+  longitude: 15.7812
+scores:
+  impact: 7.7
+  uniqueness: 7.8
+  significance: 7.9
+  experience: 8.0
+  depth: 7.7
+  categories:
+    architecture: 8.4
+    history: 8.2

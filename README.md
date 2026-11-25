@@ -90,10 +90,10 @@ Every registered country has a linked folder below. The status is determined fro
 | [Brunei](countries/BN/) (`BN`) | 9 | 41 |
 | [Cambodia](countries/KH/) (`KH`) | 72 | 260 |
 | [China](countries/CN/) (`CN`) | 231 | 490 |
+| [Czechia](countries/CZ/) (`CZ`) | 61 | 145 |
 | [India](countries/IN/) (`IN`) | 97 | 333 |
 | [Indonesia](countries/ID/) (`ID`) | 79 | 343 |
 | [Japan](countries/JP/) (`JP`) | 87 | 347 |
-| [Laos](countries/LA/) (`LA`) | 42 | 144 |
 | [Malaysia](countries/MY/) (`MY`) | 65 | 213 |
 | [Singapore](countries/SG/) (`SG`) | 1 | 99 |
 | [South Korea](countries/KR/) (`KR`) | 82 | 284 |
@@ -116,19 +116,19 @@ These countries have no entries in one or both destination folders yet. Their co
 | [Burkina Faso](countries/BF/) (`BF`) | [Burundi](countries/BI/) (`BI`) | [Cabo Verde](countries/CV/) (`CV`) | [Cameroon](countries/CM/) (`CM`) |
 | [Canada](countries/CA/) (`CA`) | [Central African Republic](countries/CF/) (`CF`) | [Chad](countries/TD/) (`TD`) | [Chile](countries/CL/) (`CL`) |
 | [Colombia](countries/CO/) (`CO`) | [Comoros](countries/KM/) (`KM`) | [Congo](countries/CG/) (`CG`) | [Costa Rica](countries/CR/) (`CR`) |
-| [Croatia](countries/HR/) (`HR`) | [Cuba](countries/CU/) (`CU`) | [Cyprus](countries/CY/) (`CY`) | [Czechia](countries/CZ/) (`CZ`) |
-| [Côte d'Ivoire](countries/CI/) (`CI`) | [Denmark](countries/DK/) (`DK`) | [Djibouti](countries/DJ/) (`DJ`) | [Dominica](countries/DM/) (`DM`) |
-| [Dominican Republic](countries/DO/) (`DO`) | [DR Congo](countries/CD/) (`CD`) | [Ecuador](countries/EC/) (`EC`) | [Egypt](countries/EG/) (`EG`) |
-| [El Salvador](countries/SV/) (`SV`) | [Equatorial Guinea](countries/GQ/) (`GQ`) | [Eritrea](countries/ER/) (`ER`) | [Estonia](countries/EE/) (`EE`) |
-| [Eswatini](countries/SZ/) (`SZ`) | [Ethiopia](countries/ET/) (`ET`) | [Fiji](countries/FJ/) (`FJ`) | [Finland](countries/FI/) (`FI`) |
-| [France](countries/FR/) (`FR`) | [Gabon](countries/GA/) (`GA`) | [Gambia](countries/GM/) (`GM`) | [Georgia](countries/GE/) (`GE`) |
-| [Germany](countries/DE/) (`DE`) | [Ghana](countries/GH/) (`GH`) | [Greece](countries/GR/) (`GR`) | [Grenada](countries/GD/) (`GD`) |
-| [Guatemala](countries/GT/) (`GT`) | [Guinea](countries/GN/) (`GN`) | [Guinea-Bissau](countries/GW/) (`GW`) | [Guyana](countries/GY/) (`GY`) |
-| [Haiti](countries/HT/) (`HT`) | [Honduras](countries/HN/) (`HN`) | [Hungary](countries/HU/) (`HU`) | [Iceland](countries/IS/) (`IS`) |
-| [Iran](countries/IR/) (`IR`) | [Iraq](countries/IQ/) (`IQ`) | [Ireland](countries/IE/) (`IE`) | [Israel](countries/IL/) (`IL`) |
-| [Italy](countries/IT/) (`IT`) | [Jamaica](countries/JM/) (`JM`) | [Jordan](countries/JO/) (`JO`) | [Kazakhstan](countries/KZ/) (`KZ`) |
-| [Kenya](countries/KE/) (`KE`) | [Kiribati](countries/KI/) (`KI`) | [Kosovo](countries/XK/) (`XK`) | [Kuwait](countries/KW/) (`KW`) |
-| [Kyrgyzstan](countries/KG/) (`KG`) | [Latvia](countries/LV/) (`LV`) | [Lebanon](countries/LB/) (`LB`) | [Lesotho](countries/LS/) (`LS`) |
+| [Croatia](countries/HR/) (`HR`) | [Cuba](countries/CU/) (`CU`) | [Cyprus](countries/CY/) (`CY`) | [Côte d'Ivoire](countries/CI/) (`CI`) |
+| [Denmark](countries/DK/) (`DK`) | [Djibouti](countries/DJ/) (`DJ`) | [Dominica](countries/DM/) (`DM`) | [Dominican Republic](countries/DO/) (`DO`) |
+| [DR Congo](countries/CD/) (`CD`) | [Ecuador](countries/EC/) (`EC`) | [Egypt](countries/EG/) (`EG`) | [El Salvador](countries/SV/) (`SV`) |
+| [Equatorial Guinea](countries/GQ/) (`GQ`) | [Eritrea](countries/ER/) (`ER`) | [Estonia](countries/EE/) (`EE`) | [Eswatini](countries/SZ/) (`SZ`) |
+| [Ethiopia](countries/ET/) (`ET`) | [Fiji](countries/FJ/) (`FJ`) | [Finland](countries/FI/) (`FI`) | [France](countries/FR/) (`FR`) |
+| [Gabon](countries/GA/) (`GA`) | [Gambia](countries/GM/) (`GM`) | [Georgia](countries/GE/) (`GE`) | [Germany](countries/DE/) (`DE`) |
+| [Ghana](countries/GH/) (`GH`) | [Greece](countries/GR/) (`GR`) | [Grenada](countries/GD/) (`GD`) | [Guatemala](countries/GT/) (`GT`) |
+| [Guinea](countries/GN/) (`GN`) | [Guinea-Bissau](countries/GW/) (`GW`) | [Guyana](countries/GY/) (`GY`) | [Haiti](countries/HT/) (`HT`) |
+| [Honduras](countries/HN/) (`HN`) | [Hungary](countries/HU/) (`HU`) | [Iceland](countries/IS/) (`IS`) | [Iran](countries/IR/) (`IR`) |
+| [Iraq](countries/IQ/) (`IQ`) | [Ireland](countries/IE/) (`IE`) | [Israel](countries/IL/) (`IL`) | [Italy](countries/IT/) (`IT`) |
+| [Jamaica](countries/JM/) (`JM`) | [Jordan](countries/JO/) (`JO`) | [Kazakhstan](countries/KZ/) (`KZ`) | [Kenya](countries/KE/) (`KE`) |
+| [Kiribati](countries/KI/) (`KI`) | [Kosovo](countries/XK/) (`XK`) | [Kuwait](countries/KW/) (`KW`) | [Kyrgyzstan](countries/KG/) (`KG`) |
+| [Laos](countries/LA/) (`LA`) | [Latvia](countries/LV/) (`LV`) | [Lebanon](countries/LB/) (`LB`) | [Lesotho](countries/LS/) (`LS`) |
 | [Liberia](countries/LR/) (`LR`) | [Libya](countries/LY/) (`LY`) | [Liechtenstein](countries/LI/) (`LI`) | [Lithuania](countries/LT/) (`LT`) |
 | [Luxembourg](countries/LU/) (`LU`) | [Madagascar](countries/MG/) (`MG`) | [Malawi](countries/MW/) (`MW`) | [Maldives](countries/MV/) (`MV`) |
 | [Mali](countries/ML/) (`ML`) | [Malta](countries/MT/) (`MT`) | [Marshall Islands](countries/MH/) (`MH`) | [Mauritania](countries/MR/) (`MR`) |

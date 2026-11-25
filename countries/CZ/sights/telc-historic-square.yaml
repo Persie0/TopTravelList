@@ -1,0 +1,15 @@
+id: sight-cz-telc-historic-square
+name: "Telc Historic Square"
+location:
+  country_code: CZ
+  latitude: 49.1840
+  longitude: 15.4530
+scores:
+  impact: 8.9
+  uniqueness: 9.1
+  significance: 8.8
+  experience: 8.7
+  depth: 7.8
+  categories:
+    architecture: 9.4
+    photography: 9.3

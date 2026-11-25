@@ -1,0 +1,15 @@
+id: sight-cz-wallachian-open-air-museum
+name: "Wallachian Open Air Museum"
+location:
+  country_code: CZ
+  latitude: 49.4610
+  longitude: 18.1530
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 8.9
+  experience: 8.9
+  depth: 9.0
+  categories:
+    culture: 9.3
+    architecture: 9.2

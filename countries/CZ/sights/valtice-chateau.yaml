@@ -1,0 +1,15 @@
+id: sight-cz-valtice-chateau
+name: "Valtice Chateau"
+location:
+  country_code: CZ
+  latitude: 48.7390
+  longitude: 16.7560
+scores:
+  impact: 8.6
+  uniqueness: 8.6
+  significance: 8.8
+  experience: 8.6
+  depth: 8.3
+  categories:
+    architecture: 9.1
+    history: 9.1

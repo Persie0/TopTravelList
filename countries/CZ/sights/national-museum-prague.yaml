@@ -1,0 +1,15 @@
+id: sight-cz-national-museum-prague
+name: "National Museum Prague"
+location:
+  country_code: CZ
+  latitude: 50.0795
+  longitude: 14.4308
+scores:
+  impact: 8.6
+  uniqueness: 8.5
+  significance: 8.8
+  experience: 8.8
+  depth: 8.9
+  categories:
+    history: 9.1
+    culture: 9.0

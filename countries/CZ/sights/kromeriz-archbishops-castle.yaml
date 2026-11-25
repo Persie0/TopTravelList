@@ -1,0 +1,15 @@
+id: sight-cz-kromeriz-archbishops-castle
+name: "Kromeriz Archbishop's Castle"
+location:
+  country_code: CZ
+  latitude: 49.2990
+  longitude: 17.3920
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 9.1
+  experience: 8.8
+  depth: 8.7
+  categories:
+    architecture: 9.3
+    history: 9.3

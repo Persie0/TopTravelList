@@ -1,0 +1,15 @@
+id: sight-cz-kuks-hospital
+name: "Kuks Hospital"
+location:
+  country_code: CZ
+  latitude: 50.3960
+  longitude: 15.8890
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 8.9
+  experience: 8.7
+  depth: 8.4
+  categories:
+    architecture: 9.3
+    history: 9.1

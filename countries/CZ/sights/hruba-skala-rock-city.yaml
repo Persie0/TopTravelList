@@ -1,0 +1,15 @@
+id: sight-cz-hruba-skala-rock-city
+name: "Hruba Skala Rock City"
+location:
+  country_code: CZ
+  latitude: 50.5450
+  longitude: 15.1900
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 7.9
+  experience: 8.9
+  depth: 8.6
+  categories:
+    nature: 9.3
+    photography: 9.3

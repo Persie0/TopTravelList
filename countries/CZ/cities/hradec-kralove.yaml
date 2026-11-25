@@ -1,0 +1,15 @@
+id: city-cz-hradec-kralove
+name: "Hradec Kralove"
+location:
+  country_code: CZ
+  latitude: 50.2092
+  longitude: 15.8328
+scores:
+  impact: 7.8
+  uniqueness: 8.0
+  significance: 8.1
+  experience: 8.1
+  depth: 7.9
+  categories:
+    architecture: 8.6
+    history: 8.3

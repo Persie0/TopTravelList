@@ -1,0 +1,15 @@
+id: sight-cz-radhost-mountain
+name: "Radhost Mountain"
+location:
+  country_code: CZ
+  latitude: 49.4910
+  longitude: 18.2220
+scores:
+  impact: 8.4
+  uniqueness: 8.5
+  significance: 8.0
+  experience: 8.7
+  depth: 8.4
+  categories:
+    nature: 8.9
+    culture: 8.8

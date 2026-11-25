@@ -1,0 +1,15 @@
+id: city-cz-spindleruv-mlyn
+name: "Spindleruv Mlyn"
+location:
+  country_code: CZ
+  latitude: 50.7255
+  longitude: 15.6090
+scores:
+  impact: 7.5
+  uniqueness: 7.4
+  significance: 6.8
+  experience: 8.2
+  depth: 7.6
+  categories:
+    adventure: 8.6
+    relaxation: 8.3

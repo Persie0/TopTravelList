@@ -1,0 +1,15 @@
+id: sight-cz-st-georges-basilica-prague
+name: "St George's Basilica Prague"
+location:
+  country_code: CZ
+  latitude: 50.0911
+  longitude: 14.4021
+scores:
+  impact: 8.5
+  uniqueness: 8.7
+  significance: 9.0
+  experience: 8.5
+  depth: 7.8
+  categories:
+    architecture: 9.1
+    history: 9.2

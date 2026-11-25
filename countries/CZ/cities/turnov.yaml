@@ -1,0 +1,14 @@
+id: city-cz-turnov
+name: "Turnov"
+location:
+  country_code: CZ
+  latitude: 50.5873
+  longitude: 15.1569
+scores:
+  impact: 7.1
+  uniqueness: 7.4
+  significance: 7.4
+  experience: 7.7
+  depth: 7.3
+  categories:
+    culture: 8.0

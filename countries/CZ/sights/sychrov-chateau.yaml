@@ -1,0 +1,15 @@
+id: sight-cz-sychrov-chateau
+name: "Sychrov Chateau"
+location:
+  country_code: CZ
+  latitude: 50.6260
+  longitude: 15.0890
+scores:
+  impact: 8.5
+  uniqueness: 8.5
+  significance: 8.4
+  experience: 8.6
+  depth: 8.3
+  categories:
+    architecture: 9.0
+    history: 8.8

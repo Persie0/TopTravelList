@@ -1,0 +1,15 @@
+id: city-cz-trebon
+name: "Trebon"
+location:
+  country_code: CZ
+  latitude: 49.0036
+  longitude: 14.7707
+scores:
+  impact: 7.9
+  uniqueness: 8.1
+  significance: 8.1
+  experience: 8.4
+  depth: 7.9
+  categories:
+    relaxation: 8.8
+    architecture: 8.5

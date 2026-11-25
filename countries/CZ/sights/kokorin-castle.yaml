@@ -1,0 +1,15 @@
+id: sight-cz-kokorin-castle
+name: "Kokorin Castle"
+location:
+  country_code: CZ
+  latitude: 50.4405
+  longitude: 14.5765
+scores:
+  impact: 8.3
+  uniqueness: 8.4
+  significance: 8.2
+  experience: 8.4
+  depth: 7.7
+  categories:
+    architecture: 8.8
+    photography: 8.8

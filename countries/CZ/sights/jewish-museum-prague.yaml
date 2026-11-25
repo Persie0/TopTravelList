@@ -1,0 +1,15 @@
+id: sight-cz-jewish-museum-prague
+name: "Jewish Museum Prague"
+location:
+  country_code: CZ
+  latitude: 50.0900
+  longitude: 14.4197
+scores:
+  impact: 8.9
+  uniqueness: 9.2
+  significance: 9.4
+  experience: 9.0
+  depth: 9.1
+  categories:
+    history: 9.4
+    culture: 9.4

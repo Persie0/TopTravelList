@@ -1,0 +1,15 @@
+id: city-cz-jihlava
+name: "Jihlava"
+location:
+  country_code: CZ
+  latitude: 49.3961
+  longitude: 15.5912
+scores:
+  impact: 7.7
+  uniqueness: 7.9
+  significance: 8.1
+  experience: 8.0
+  depth: 7.8
+  categories:
+    history: 8.6
+    architecture: 8.3

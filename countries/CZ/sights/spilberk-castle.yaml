@@ -1,0 +1,15 @@
+id: sight-cz-spilberk-castle
+name: "Spilberk Castle"
+location:
+  country_code: CZ
+  latitude: 49.1940
+  longitude: 16.5990
+scores:
+  impact: 8.7
+  uniqueness: 8.7
+  significance: 9.0
+  experience: 8.8
+  depth: 8.6
+  categories:
+    history: 9.3
+    architecture: 9.0
