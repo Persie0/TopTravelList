@@ -1,0 +1,17 @@
+id: sight-uz-shah-i-zinda-necropolis
+name: "Shah-i-Zinda Necropolis"
+location:
+  country_code: UZ
+  latitude: 39.6624
+  longitude: 66.9875
+scores:
+  impact: 9.6
+  uniqueness: 9.6
+  significance: 9.5
+  experience: 9.3
+  depth: 8.7
+  categories:
+    architecture: 9.7
+    history: 9.5
+    photography: 9.7
+    culture: 9.3

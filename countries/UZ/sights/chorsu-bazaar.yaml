@@ -1,0 +1,16 @@
+id: sight-uz-chorsu-bazaar
+name: "Chorsu Bazaar"
+location:
+  country_code: UZ
+  latitude: 41.326
+  longitude: 69.234
+scores:
+  impact: 8.1
+  uniqueness: 8.1
+  significance: 7.7
+  experience: 8.8
+  depth: 8.1
+  categories:
+    food: 9.0
+    culture: 8.7
+    architecture: 8.3

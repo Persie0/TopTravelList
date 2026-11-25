@@ -1,0 +1,15 @@
+id: sight-uz-historic-centre-of-shahrisabz
+name: "Historic Centre of Shahrisabz"
+location:
+  country_code: UZ
+  latitude: 39.057
+  longitude: 66.833
+scores:
+  impact: 8.3
+  uniqueness: 8.5
+  significance: 9.4
+  experience: 7.9
+  depth: 7.8
+  categories:
+    history: 9.4
+    architecture: 8.8
