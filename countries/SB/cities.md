@@ -24,7 +24,6 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 8 | [Kirakira](cities/kirakira.yaml) | City / town | **63.40** | **Culture 7.0** | 6.1 / 6.6 / 6.4 / 6.6 / 5.9 | [-10.45442, 161.92045](https://www.google.com/maps/search/?api=1&query=-10.45442,161.92045) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kirakira%2C%20Solomon%20Islands) |
 | 9 | [Lata](cities/lata.yaml) | City / town | **62.95** | **Culture 6.9** | 6.1 / 6.6 / 6.3 / 6.5 / 5.8 | [-10.725, 165.79722](https://www.google.com/maps/search/?api=1&query=-10.725,165.79722) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lata%2C%20Solomon%20Islands) |
 
-
 ---
 
 After changing a YAML record, regenerate with: python scripts/generate_rankings.py
