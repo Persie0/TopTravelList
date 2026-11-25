@@ -24,6 +24,17 @@
 - Marovo Lagoon (Solomon Islands): distinctive double-barrier lagoon
 - Rock Islands Southern Lagoon (Palau): more concentrated limestone-island scenery
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons retained. Editorial calibration, not independent factual verification.
+
+- [raja ampat archipelago (ID)](../../../countries/ID/sights/raja-ampat-archipelago.yaml) — 9.8/9.9/9.5/9.7/9.8; World-leading reef-island biodiversity and visitor diversity, slightly greater island relief.
+- [tubbataha (PH)](../../../countries/PH/sights/tubbataha.yaml) — 9.3/9.2/9.3/9.1/9.0; More concentrated protected open-ocean reef experience, narrower system.
+- [sipadan island reefs (MY)](../../../countries/MY/sights/sipadan-island-reefs.yaml) — 9.5/9.6/9.1/9.5/8.9; More focused exceptional dive encounters, less system breadth.
+- [rock islands southern lagoon (PW)](../../../countries/PW/sights/rock-islands-southern-lagoon.yaml) — 9.5/9.5/9.3/9.4/9.3; More compact limestone-island and reef ensemble, less coral system scale.
+
+High-score check: Raja Ampat impact 9.8, uniqueness 9.9, significance 9.5, depth 9.8, nature/wildlife/adventure/photography all 9.9; Aldabra significance and wildlife 9.8; Sipadan nature/wildlife/adventure 9.7; Rock Islands photography 9.5. GBR's 9.7 impact, 9.8 uniqueness, 9.7 significance, 9.7 depth, 9.8 nature/wildlife and 9.5 adventure/photography are supported by interconnected system scale, not every individual reef or guaranteed encounter. 96.80 remains provisional.
+
 ### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
@@ -59,6 +70,17 @@
 - Monument Valley (United States): comparable dramatic isolated sandstone formations
 - Cappadocia (Turkey): more complex eroded geological landscape
 - Petra (Jordan): greater built archaeological spectacle
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons retained. Editorial calibration, not independent factual verification.
+
+- [wadi rum protected area (JO)](../../../countries/JO/sights/wadi-rum-protected-area.yaml) — 9.8/9.7/9.4/9.6/9.5; Greater desert landscape breadth and monumental sandstone relief, different living cultural context.
+- [sigiriya ancient city and rock fortress (LK)](../../../countries/LK/sights/sigiriya-ancient-city-and-rock-fortress.yaml) — 9.8/9.8/9.5/9.6/9.2; Exceptional isolated rock and cultural heritage, built archaeological rather than Anangu sacred setting.
+- [cappadocia (TR)](../../../countries/TR/sights/cappadocia.yaml) — 9.4/9.4/9.4/9.3/9.4; More varied erosional forms and interpreted built heritage.
+- [arches national park (US)](../../../countries/US/sights/arches-national-park.yaml) — 9.3/9.4/8.7/9.0/8.8; Comparable sandstone formation park, less distinct sacred-cultural significance.
+
+High-score check: Wadi Rum impact 9.8, uniqueness 9.7, nature/photography 9.8; Sigiriya impact/uniqueness 9.8, significance 9.5, photography 9.7; Tsodilo culture/significance 9.6. The park's 9.6 impact, 9.5 uniqueness/significance/nature/culture and 9.6 photography reflect the combined permitted landscape and distinct living culture, not unrestricted access.
 
 ### Scoring decisions
 | Field | Rating | Rationale |
@@ -96,6 +118,17 @@
 - Tsodilo (Botswana): concentrated sacred rock-art landscape and interpreted walking routes; Kakadu adds a much wider wetland and escarpment experience (https://whc.unesco.org/en/list/1021/; https://www.botswanatourism.co.bw/explore/tsodilo-hills)
 - Angkor (Cambodia): greater monumental built landscape
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons retained. Editorial calibration, not independent factual verification.
+
+- [tsodilo hills (BW)](../../../countries/BW/sights/tsodilo-hills.yaml) — 8.5/9.3/9.6/8.2/8.2; Greater focused rock-art significance, narrower natural visitor breadth.
+- [twyfelfontein (NA)](../../../countries/NA/sights/twyfelfontein.yaml) — 9.0/9.4/9.5/8.8/8.5; Comparable significant rock-art landscape, narrower ecosystem and visitor scope.
+- [zuojiang huashan rock art (CN)](../../../countries/CN/sights/zuojiang-huashan-rock-art.yaml) — 9.1/9.6/9.4/8.6/8.4; Exceptional river-cliff rock art, narrower cultural landscape.
+- [shiretoko national park (JP)](../../../countries/JP/sights/shiretoko-national-park.yaml) — 9.5/9.5/9.4/9.1/9.4; Comparable protected landscape breadth and ecology, lacks equivalent rock-art heritage.
+
+High-score check: Tsodilo significance 9.6, history 9.7, culture 9.6; Twyfelfontein significance 9.5, history 9.6, culture 9.4; Huashan history 9.7, culture 9.6. Kakadu's significance/history/culture 9.5 are supported by long living cultural continuity and broad mixed heritage; avoid transferring one gallery to the whole park.
+
 ### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
@@ -131,6 +164,17 @@
 - Sagrada Família (Spain): greater elaborate architectural and symbolic fabric
 - Eiffel Tower (France): comparable global landmark recognition
 - Royal Albert Hall (United Kingdom): different major performance venue
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons retained. Editorial calibration, not independent factual verification.
+
+- [oslo opera house (NO)](../../../countries/NO/sights/oslo-opera-house.yaml) — 8.7/8.8/8.3/8.9/7.9; Close waterfront contemporary performing arts building, less singular sculptural roof design.
+- [bayreuth opera (DE)](../../../countries/DE/sights/bayreuth-opera.yaml) — 9.0/9.2/9.3/8.8/8.0; Exceptional historic opera architecture, different building period.
+- [guggenheim (ES)](../../../countries/ES/sights/guggenheim.yaml) — 9.2/9.4/9.1/9.0/8.8; Comparable iconic modern sculptural architecture and cultural institution, larger museum visit.
+- [guggenheim museum new york (US)](../../../countries/US/sights/guggenheim-museum-new-york.yaml) — 8.9/9.1/9.2/8.8/8.5; International modern architectural achievement with broader museum collection.
+
+High-score check: Bilbao Guggenheim uniqueness 9.4, architecture 9.6; Bayreuth Opera uniqueness 9.2, architecture 9.5; Oslo Opera House uniqueness 8.8, architecture 9.3. Sydney's 9.5 uniqueness and 9.6 architecture are supported by distinct sculptural design, not the surrounding harbor or an assumption of performance admission.
 
 ### Scoring decisions
 | Field | Rating | Rationale |
@@ -168,6 +212,17 @@
 - Marovo Lagoon (Solomon Islands): distinctive double-barrier lagoon
 - Rock Islands Southern Lagoon (Palau): more concentrated limestone-island scenery
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons retained. Editorial calibration, not independent factual verification.
+
+- [misool marine reserve (ID)](../../../countries/ID/sights/misool-marine-reserve.yaml) — 9.6/9.6/9.1/9.5/9.4; Greater documented marine biodiversity and dive breadth.
+- [kerama islands marine park (JP)](../../../countries/JP/sights/kerama-islands-marine-park.yaml) — 9.4/9.2/8.7/9.5/9.3; Strong island reef recreation, less distinct arid fringing reef context.
+- [tubbataha (PH)](../../../countries/PH/sights/tubbataha.yaml) — 9.3/9.2/9.3/9.1/9.0; Higher protected reef significance, more remote specialist experience.
+- [sipadan island reefs (MY)](../../../countries/MY/sights/sipadan-island-reefs.yaml) — 9.5/9.6/9.1/9.5/8.9; More exceptional concentrated marine encounters, narrower site scale.
+
+90+ check: 91.80 remains below the leading Misool and Sipadan marine reference fields overall; shore-accessible reef and coast add distinct breadth but no guaranteed wildlife observation.
+
 ### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
@@ -203,6 +258,17 @@
 - Monument Valley (United States): comparable dramatic isolated sandstone formations
 - Cappadocia (Turkey): more complex eroded geological landscape
 - Petra (Jordan): greater built archaeological spectacle
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons retained. Editorial calibration, not independent factual verification.
+
+- [wadi rum protected area (JO)](../../../countries/JO/sights/wadi-rum-protected-area.yaml) — 9.8/9.7/9.4/9.6/9.5; More extensive sandstone desert scenery and trails.
+- [cappadocia (TR)](../../../countries/TR/sights/cappadocia.yaml) — 9.4/9.4/9.4/9.3/9.4; Broader eroded geological forms and cultural visitor experiences.
+- [arches national park (US)](../../../countries/US/sights/arches-national-park.yaml) — 9.3/9.4/8.7/9.0/8.8; Comparable distinctive sandstone formations, different arch morphology.
+- [sossusvlei (NA)](../../../countries/NA/sights/sossusvlei.yaml) — 9.8/9.7/9.2/9.5/9.1; Greater concentrated desert spectacle, different dune rather than rock-form geology.
+
+90+ check: 91.45 reflects rare beehive-shaped sandstone domes and multiple gorge environments, below Wadi Rum's broader overall landscape; do not equate geology with visitor access.
 
 ### Scoring decisions
 | Field | Rating | Rationale |
@@ -240,6 +306,17 @@
 - [Taman Negara](../../../countries/MY/sights/taman-negara-national-park.yaml) (Malaysia): extensive tropical forest
 - [Kinabalu Park](../../../countries/MY/sights/kinabalu-park.yaml) (Malaysia): outstanding montane biodiversity
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons retained. Editorial calibration, not independent factual verification.
+
+- [wadden sea (DE)](../../../countries/DE/sights/wadden-sea.yaml) — 8.8/9.4/9.5/8.9/9.3; Greater extensive tidal ecological significance, different sand-island processes.
+- [sossusvlei (NA)](../../../countries/NA/sights/sossusvlei.yaml) — 9.8/9.7/9.2/9.5/9.1; Greater individual dune spectacle, not a forested coastal island.
+- [ang thong national marine park (TH)](../../../countries/TH/sights/ang-thong-national-marine-park.yaml) — 9.0/9.0/8.6/9.1/8.9; Comparable multi-setting island and coastal recreation, different limestone terrain.
+- [tobago cays marine park (VC)](../../../countries/VC/sights/tobago-cays-marine-park.yaml) — 9.4/9.3/9.1/9.1/8.9; Stronger marine reef and beach visit, narrower land-based ecosystem.
+
+90+ check: 90.55 reflects the unusual combination of sand-island geology, freshwater lakes and forest, not the broader proposed Great Sandy extension.
+
 ### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
@@ -275,6 +352,17 @@
 - Te Wāhipounamu (New Zealand): more concentrated glacial mountains and fjords
 - [Taman Negara](../../../countries/MY/sights/taman-negara-national-park.yaml) (Malaysia): extensive tropical forest
 - [Kinabalu Park](../../../countries/MY/sights/kinabalu-park.yaml) (Malaysia): outstanding montane biodiversity
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons retained. Editorial calibration, not independent factual verification.
+
+- [canadian rocky mountain parks (CA)](../../../countries/CA/sights/canadian-rocky-mountain-parks.yaml) — 9.8/9.6/9.5/9.4/9.7; Greater alpine relief and documented mountain routes.
+- [shiretoko national park (JP)](../../../countries/JP/sights/shiretoko-national-park.yaml) — 9.5/9.5/9.4/9.1/9.4; Comparable temperate protected landscape with distinctive biota.
+- [hohe tauern national park (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) — 9.4/9.1/9.0/9.5/9.4; More dramatic alpine terrain and established trails.
+- [torres del paine national park (CL)](../../../countries/CL/sights/torres-del-paine-national-park.yaml) — 9.9/9.7/9.3/9.4/9.6; Stronger concentrated iconic mountain scenery, different temperate wilderness ecology.
+
+90+ check: 90.90 remains below the leading Rockies and Patagonian mountain anchors; distinctive temperate ecology adds significance without inheriting scores from each separate trail.
 
 ### Scoring decisions
 | Field | Rating | Rationale |
@@ -312,6 +400,15 @@
 - [Taman Negara](../../../countries/MY/sights/taman-negara-national-park.yaml) (Malaysia): extensive tropical forest
 - [Kinabalu Park](../../../countries/MY/sights/kinabalu-park.yaml) (Malaysia): outstanding montane biodiversity
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons retained. Editorial calibration, not independent factual verification.
+
+- [khao sok national park (TH)](../../../countries/TH/sights/khao-sok-national-park.yaml) — 9.4/9.4/9.1/9.4/9.3; More dramatic limestone and lake relief, different forest system.
+- [kalkalpen national park (AT)](../../../countries/AT/sights/kalkalpen-national-park.yaml) — 8.7/9.0/9.1/8.6/9.0; Comparable protected forest and mountain trails, different eucalypt ecology.
+- [taman negara national park (MY)](../../../countries/MY/sights/taman-negara-national-park.yaml) — 9.0/9.1/9.0/8.9/9.2; More extensive tropical rainforest exploration.
+- [shiretoko national park (JP)](../../../countries/JP/sights/shiretoko-national-park.yaml) — 9.5/9.5/9.4/9.1/9.4; Greater distinctive coastal and forest wildlife landscape.
+
 ### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
@@ -347,6 +444,17 @@
 - Te Wāhipounamu (New Zealand): more concentrated glacial mountains and fjords
 - [Taman Negara](../../../countries/MY/sights/taman-negara-national-park.yaml) (Malaysia): extensive tropical forest
 - [Kinabalu Park](../../../countries/MY/sights/kinabalu-park.yaml) (Malaysia): outstanding montane biodiversity
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons retained. Editorial calibration, not independent factual verification.
+
+- [kinabalu park (MY)](../../../countries/MY/sights/kinabalu-park.yaml) — 9.4/9.5/9.5/9.2/9.3; Greater montane ecological and altitudinal diversity.
+- [lorentz national park (ID)](../../../countries/ID/sights/lorentz-national-park.yaml) — 9.4/9.7/9.8/7.6/9.3; Vaster ecological range and evolutionary record, less established ordinary visit.
+- [khao yai national park (TH)](../../../countries/TH/sights/khao-yai-national-park.yaml) — 9.0/9.1/9.0/9.0/9.2; Comparable established rainforest visitor breadth, different evolutionary significance.
+- [taman negara national park (MY)](../../../countries/MY/sights/taman-negara-national-park.yaml) — 9.0/9.1/9.0/8.9/9.2; Comparable extensive tropical forest routes, less distinct ancient Australian biota.
+
+90+ check: 90.25 remains below Kinabalu and Lorentz on ecological significance and uniqueness; credit documented visitor routes across the inscribed area, not all Daintree or every forest.
 
 ### Scoring decisions
 | Field | Rating | Rationale |
@@ -384,6 +492,15 @@
 - [Taman Negara](../../../countries/MY/sights/taman-negara-national-park.yaml) (Malaysia): extensive tropical forest
 - [Kinabalu Park](../../../countries/MY/sights/kinabalu-park.yaml) (Malaysia): outstanding montane biodiversity
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons retained. Editorial calibration, not independent factual verification.
+
+- [kalkalpen national park (AT)](../../../countries/AT/sights/kalkalpen-national-park.yaml) — 8.7/9.0/9.1/8.6/9.0; Comparable forest heritage and trail landscape, different temperate flora.
+- [kinabalu park (MY)](../../../countries/MY/sights/kinabalu-park.yaml) — 9.4/9.5/9.5/9.2/9.3; Exceptional montane diversity and broader ecological scope.
+- [khao yai national park (TH)](../../../countries/TH/sights/khao-yai-national-park.yaml) — 9.0/9.1/9.0/9.0/9.2; Comparable established forest visits and wildlife observation.
+- [shiretoko national park (JP)](../../../countries/JP/sights/shiretoko-national-park.yaml) — 9.5/9.5/9.4/9.1/9.4; Broader coastal and forest wilderness, different relict-forest significance.
+
 ### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
@@ -419,6 +536,15 @@
 - Tubbataha Reefs (Philippines): concentrated protected reef diving
 - Marovo Lagoon (Solomon Islands): distinctive double-barrier lagoon
 - Rock Islands Southern Lagoon (Palau): more concentrated limestone-island scenery
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons retained. Editorial calibration, not independent factual verification.
+
+- [aldabra atoll (SC)](../../../countries/SC/sights/aldabra-atoll.yaml) — 9.5/9.8/9.8/8.0/7.6; Greater documented isolated marine ecology, different atoll geomorphology.
+- [wadden sea (DE)](../../../countries/DE/sights/wadden-sea.yaml) — 8.8/9.4/9.5/8.9/9.3; Comparable extensive shallow marine ecological processes and conservation significance.
+- [tubbataha (PH)](../../../countries/PH/sights/tubbataha.yaml) — 9.3/9.2/9.3/9.1/9.0; Greater reef diving scope, lacks Shark Bay stromatolite-seagrass setting.
+- [tobago cays marine park (VC)](../../../countries/VC/sights/tobago-cays-marine-park.yaml) — 9.4/9.3/9.1/9.1/8.9; More developed tropical reef recreation, less geological significance.
 
 ### Scoring decisions
 | Field | Rating | Rationale |
@@ -456,6 +582,15 @@
 - Tetepare Island (Solomon Islands): documented community ecotourism
 - Lord Howe Island (Australia): more established ordinary visitor experiences
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons retained. Editorial calibration, not independent factual verification.
+
+- [ogasawara islands (JP)](../../../countries/JP/sights/ogasawara-islands.yaml) — 9.5/9.7/9.5/9.2/9.4; Greater isolated endemic island biodiversity and visitor breadth.
+- [galapagos islands world heritage property (EC)](../../../countries/EC/sights/galapagos-islands-world-heritage-property.yaml) — 9.9/9.9/9.9/9.5/9.3; World-leading evolutionary island landscape and wildlife diversity.
+- [aldabra atoll (SC)](../../../countries/SC/sights/aldabra-atoll.yaml) — 9.5/9.8/9.8/8.0/7.6; Exceptional isolated island ecology, more restricted visitor scope.
+- [rock islands southern lagoon (PW)](../../../countries/PW/sights/rock-islands-southern-lagoon.yaml) — 9.5/9.5/9.3/9.4/9.3; Broader limestone island and reef scenery, different volcanic island ecology.
+
 ### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
@@ -491,6 +626,15 @@
 - Stonehenge (United Kingdom): iconic prehistoric monument
 - [Kakadu National Park](../../../countries/AU/sights/kakadu-national-park.yaml) (Australia): different extensive living cultural landscape
 - Angkor (Cambodia): greater monumental built landscape
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons retained. Editorial calibration, not independent factual verification.
+
+- [nan madol (FM)](../../../countries/FM/sights/nan-madol.yaml) — 9.2/9.5/9.5/8.1/8.7; More monumental visible ceremonial architecture, different hydraulic cultural system.
+- [plain of jars archaeological landscape (LA)](../../../countries/LA/sights/plain-of-jars-archaeological-landscape.yaml) — 9.0/9.6/9.5/8.7/9.0; Larger distributed interpreted prehistoric landscape.
+- [ban chiang archaeological site (TH)](../../../countries/TH/sights/ban-chiang-archaeological-site.yaml) — 8.4/9.2/9.6/8.2/8.1; Greater documented early material-culture record, different function.
+- [tsodilo hills (BW)](../../../countries/BW/sights/tsodilo-hills.yaml) — 8.5/9.3/9.6/8.2/8.2; Comparable continuing Indigenous sacred heritage, different rock-art focus.
 
 ### Scoring decisions
 | Field | Rating | Rationale |
@@ -528,6 +672,17 @@
 - Stonehenge (UK): iconic prehistoric monument of different type
 - [Budj Bim](../../../countries/AU/sights/budj-bim-cultural-landscape.yaml) (Australia): different living aquaculture landscape
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons retained. Editorial calibration, not independent factual verification.
+
+- [tsodilo hills (BW)](../../../countries/BW/sights/tsodilo-hills.yaml) — 8.5/9.3/9.6/8.2/8.2; Close long-lived rock-art and sacred landscape, significance/culture above 9.5.
+- [twyfelfontein (NA)](../../../countries/NA/sights/twyfelfontein.yaml) — 9.0/9.4/9.5/8.8/8.5; Close petroglyph ensemble with more established interpretation.
+- [zuojiang huashan rock art (CN)](../../../countries/CN/sights/zuojiang-huashan-rock-art.yaml) — 9.1/9.6/9.4/8.6/8.4; Exceptional distributed cliff art and rare visual cultural tradition.
+- [alta rock art (NO)](../../../countries/NO/sights/alta-rock-art.yaml) — 8.5/9.1/9.3/8.6/8.5; More established public archaeological interpretation, narrower continuing cultural context.
+
+High-score check: Tsodilo significance/culture 9.6 and history 9.7; Twyfelfontein significance 9.5, history 9.6; Huashan culture 9.6 and history 9.7. Murujuga's three 9.5 fields reflect exceptional long-standing rock-art tradition rather than automatic inscription credit. Retain limited permitted experience and depth.
+
 ### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
@@ -564,6 +719,15 @@
 - Hohensalzburg Fortress (Austria): much greater monumental scale
 - Levuka Historical Port Town (Fiji): comparable colonial heritage
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons retained. Editorial calibration, not independent factual verification.
+
+- [schoenbrunn palace (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) — 9.4/9.3/9.6/9.5/9.3; Far greater monumental architecture and garden depth.
+- [zollverein (DE)](../../../countries/DE/sights/zollverein.yaml) — 9.0/9.2/9.3/9.0/9.1; Broader industrial-era heritage and interpreted ensemble, different purpose.
+- [bayreuth opera (DE)](../../../countries/DE/sights/bayreuth-opera.yaml) — 9.0/9.2/9.3/8.8/8.0; Comparable historic single-building cultural architecture, no exhibition-garden scale.
+- [guggenheim (ES)](../../../countries/ES/sights/guggenheim.yaml) — 9.2/9.4/9.1/9.0/8.8; More distinctive modern cultural architecture, different historical role.
+
 ### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
@@ -599,6 +763,15 @@
 - Robben Island (South Africa): more focused prison landscape
 - Goree Island (Senegal): distinct forced migration heritage
 - Hohensalzburg Fortress (Austria): greater single-site monumental visual impact
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons retained. Editorial calibration, not independent factual verification.
+
+- [auschwitz birkenau (PL)](../../../countries/PL/sights/auschwitz-birkenau.yaml) — 9.5/9.7/9.9/9.2/9.4; Distinct internationally defining persecution memorial, not an equivalence of historical harms.
+- [goree island (SN)](../../../countries/SN/sights/goree-island.yaml) — 9.1/9.3/9.6/9.1/8.7; Different forced migration heritage with exceptional historical significance.
+- [con dao prison complex (VN)](../../../countries/VN/sights/con-dao-prison-complex.yaml) — 8.7/9.1/9.5/8.6/8.8; Close distributed prison heritage and interpreted historical sites.
+- [kilmainham gaol (IE)](../../../countries/IE/sights/kilmainham-gaol.yaml) — 8.6/8.8/9.2/8.7/8.3; Focused prison and political history with established public tours.
 
 ### Scoring decisions
 | Field | Before | New rating | Individual justification |
@@ -637,6 +810,15 @@
 - Chengjiang Fossil Site (China): greater relevance to early animal diversification
 - Postojna Cave (Slovenia): more spectacular cave formations but different scientific importance
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons retained. Editorial calibration, not independent factual verification.
+
+- [dinosaur provincial park (CA)](../../../countries/CA/sights/dinosaur-provincial-park.yaml) — 8.8/9.1/9.4/8.8/8.6; Exceptional fossil record with broader badlands and interpretation.
+- [messel pit (DE)](../../../countries/DE/sights/messel-pit.yaml) — 8.2/9.3/9.5/8.5/8.0; Close fossil-evolution record and focused interpreted site.
+- [jurassic coast (GB)](../../../countries/GB/sights/jurassic-coast.yaml) — 9.2/9.3/9.4/9.1/9.3; Broader geological sequence and coastal visitor landscape.
+- [postojna cave (SI)](../../../countries/SI/sights/postojna-cave.yaml) — 9.4/9.3/9.1/9.3/9.0; More extensive cave spectacle, different paleontological significance.
+
 ### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
@@ -672,6 +854,15 @@
 - Galápagos (Ecuador): much more extensive documented visitor experience
 - South Georgia (UK): established regulated expedition visits
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons retained. Editorial calibration, not independent factual verification.
+
+- [cabo de hornos national park (CL)](../../../countries/CL/sights/cabo-de-hornos-national-park.yaml) — 9.1/9.1/8.8/7.5/7.3; Close remote southern island environment, some documented expedition visitation.
+- [aldabra atoll (SC)](../../../countries/SC/sights/aldabra-atoll.yaml) — 9.5/9.8/9.8/8.0/7.6; Exceptional isolated ecosystem with regulated visits.
+- [ogasawara islands (JP)](../../../countries/JP/sights/ogasawara-islands.yaml) — 9.5/9.7/9.5/9.2/9.4; More documented island visitor breadth and endemism.
+- [galapagos islands world heritage property (EC)](../../../countries/EC/sights/galapagos-islands-world-heritage-property.yaml) — 9.9/9.9/9.9/9.5/9.3; Far broader ordinary visitor scope, different climate and volcanic ecology.
+
 ### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
@@ -706,6 +897,15 @@
 - Sub-Antarctic Islands (New Zealand): broader multi-island routes
 - South Georgia (UK): stronger concentrated wildlife scenery
 - Lord Howe Island (Australia): more conventional terrestrial experiences
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons retained. Editorial calibration, not independent factual verification.
+
+- [cabo de hornos national park (CL)](../../../countries/CL/sights/cabo-de-hornos-national-park.yaml) — 9.1/9.1/8.8/7.5/7.3; Close remote southern ocean landscape with limited visit scope.
+- [los pinguinos natural monument magdalena island (CL)](../../../countries/CL/sights/los-pinguinos-natural-monument-magdalena-island.yaml) — 8.6/8.7/8.5/8.7/7.3; Focused established seabird wildlife viewing, much narrower ecological scope.
+- [ogasawara islands (JP)](../../../countries/JP/sights/ogasawara-islands.yaml) — 9.5/9.7/9.5/9.2/9.4; Greater established island visitor breadth and different endemic ecology.
+- [aldabra atoll (SC)](../../../countries/SC/sights/aldabra-atoll.yaml) — 9.5/9.8/9.8/8.0/7.6; Exceptional isolated ecological reference and regulated access.
 
 ### Scoring decisions
 | Field | Before | New rating | Individual justification |
