@@ -1,0 +1,16 @@
+id: sight-mx-hospicio-cabanas
+name: "Hospicio Cabañas"
+location:
+  country_code: MX
+  latitude: 20.677
+  longitude: -103.338
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 9.1
+  experience: 8.6
+  depth: 8.2
+  categories:
+    architecture: 9.2
+    culture: 9.3
+    history: 9.1

@@ -1,0 +1,16 @@
+id: sight-mx-cuatrocienegas
+name: "Cuatrociénegas Flora and Fauna Protection Area"
+location:
+  country_code: MX
+  latitude: 26.88
+  longitude: -102.12
+scores:
+  impact: 8.6
+  uniqueness: 9.0
+  significance: 9.1
+  experience: 8.1
+  depth: 8.1
+  categories:
+    nature: 9.3
+    wildlife: 9.1
+    photography: 9.1

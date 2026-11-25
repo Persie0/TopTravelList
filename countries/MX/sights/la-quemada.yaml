@@ -1,0 +1,15 @@
+id: sight-mx-la-quemada
+name: "La Quemada Archaeological Zone"
+location:
+  country_code: MX
+  latitude: 22.464
+  longitude: -102.819
+scores:
+  impact: 8.4
+  uniqueness: 8.6
+  significance: 8.7
+  experience: 8.2
+  depth: 8.0
+  categories:
+    history: 9.0
+    architecture: 8.8

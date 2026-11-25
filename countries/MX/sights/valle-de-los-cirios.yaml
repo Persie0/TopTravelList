@@ -1,0 +1,13 @@
+id: sight-mx-valle-de-los-cirios
+name: "Valle de los Cirios"
+location:
+  country_code: MX
+  latitude: 29.0
+  longitude: -114.0
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}

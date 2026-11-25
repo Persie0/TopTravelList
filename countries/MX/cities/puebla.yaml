@@ -1,0 +1,16 @@
+id: city-mx-puebla
+name: "Puebla"
+location:
+  country_code: MX
+  latitude: 19.043
+  longitude: -98.198
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 8.9
+  experience: 8.7
+  depth: 8.6
+  categories:
+    architecture: 9.2
+    food: 9.1
+    history: 9.1

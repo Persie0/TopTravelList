@@ -1,0 +1,15 @@
+id: sight-mx-cantona
+name: "Cantona Archaeological City"
+location:
+  country_code: MX
+  latitude: 19.553
+  longitude: -97.487
+scores:
+  impact: 8.4
+  uniqueness: 8.8
+  significance: 8.8
+  experience: 8.3
+  depth: 8.5
+  categories:
+    history: 9.1
+    architecture: 8.8

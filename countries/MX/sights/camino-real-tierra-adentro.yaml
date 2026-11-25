@@ -1,0 +1,13 @@
+id: sight-mx-camino-real-tierra-adentro
+name: "Camino Real de Tierra Adentro"
+location:
+  country_code: MX
+  latitude: 22.77
+  longitude: -102.58
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}
