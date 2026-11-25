@@ -1,0 +1,16 @@
+id: sight-st-roca-sundy
+name: "Roça Sundy"
+location:
+  country_code: ST
+  latitude: 1.669056
+  longitude: 7.383139
+scores:
+  impact: 8.1
+  uniqueness: 8.9
+  significance: 9.4
+  experience: 8.4
+  depth: 7.7
+  categories:
+    history: 9.4
+    culture: 9.1
+    architecture: 8.5
