@@ -1,0 +1,15 @@
+id: sight-ir-hormuz-island
+name: "Hormuz Island"
+location:
+  country_code: IR
+  latitude: 27.06
+  longitude: 56.46
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 8.0
+  experience: 8.5
+  depth: 8.1
+  categories:
+    nature: 9.1
+    photography: 9.3

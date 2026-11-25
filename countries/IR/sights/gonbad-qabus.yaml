@@ -1,0 +1,15 @@
+id: sight-ir-gonbad-qabus
+name: "Gonbad-e Qabus"
+location:
+  country_code: IR
+  latitude: 37.257
+  longitude: 55.171
+scores:
+  impact: 8.7
+  uniqueness: 9.0
+  significance: 9.0
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.2
+    history: 9.1
