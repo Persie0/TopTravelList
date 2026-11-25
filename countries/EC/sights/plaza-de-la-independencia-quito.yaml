@@ -1,0 +1,16 @@
+id: sight-ec-plaza-de-la-independencia-quito
+name: "Plaza de la Independencia (Quito)"
+location:
+  country_code: EC
+  latitude: -0.2200
+  longitude: -78.5128
+scores:
+  impact: 8.0
+  uniqueness: 7.8
+  significance: 8.8
+  experience: 8.3
+  depth: 7.4
+  categories:
+    history: 9.1
+    architecture: 8.8
+    culture: 8.6

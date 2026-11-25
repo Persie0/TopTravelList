@@ -1,0 +1,15 @@
+id: city-ec-puyo
+name: "Puyo"
+location:
+  country_code: EC
+  latitude: -1.4837
+  longitude: -78.0026
+scores:
+  impact: 6.9
+  uniqueness: 7.2
+  significance: 6.5
+  experience: 7.6
+  depth: 6.9
+  categories:
+    culture: 7.7
+    relaxation: 7.8
