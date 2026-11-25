@@ -269,7 +269,7 @@
 
 - Applicable category scores: wildlife: 9.4, adventure: 9.4, nature: 9.2
 - Computed worldwide overall: 91.15/100.
-- High-score challenge: No 9.5+ field or 90+ overall.
+- High-score challenge: The 91.15 total reflects concentrated shark encounters, ecological interest and a rewarding specialized dive; Blue Corner and Tiputa are close comparators, while the Great Barrier Reef has much greater scope. No individual field reaches 9.5; the score remains provisional pending independent dive-site evidence.
 - Approved 10 registry: none.
 - Final decision: provisional worldwide V2 assessment; One pass offers repeated discovery but less breadth than entire reef networks.
 - Earlier decision: none.
