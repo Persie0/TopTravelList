@@ -1,0 +1,15 @@
+id: city-sz-piggs-peak
+name: "Piggs Peak"
+location:
+  country_code: SZ
+  latitude: -25.9667
+  longitude: 31.2500
+scores:
+  impact: 7.1
+  uniqueness: 7.2
+  significance: 6.6
+  experience: 7.3
+  depth: 6.4
+  categories:
+    photography: 7.7
+    culture: 7.3
