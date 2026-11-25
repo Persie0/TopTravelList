@@ -1,0 +1,15 @@
+id: sight-de-bremen-town-hall
+name: "Bremen Town Hall and Roland"
+location:
+  country_code: DE
+  latitude: 53.076
+  longitude: 8.808
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 9.2
+  experience: 8.7
+  depth: 8.2
+  categories:
+    architecture: 9.4
+    history: 9.3

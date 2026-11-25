@@ -2617,3 +2617,181 @@ At the preceding review, three of fifteen Popocatépetl monastery components wer
 
 ### Popocatépetl component completion (2026-11-25)
 All 15 official component references now have distinct YAML entries and individual reviews (14 provisionally ranked, Zacualpan unranked). The parent serial property remains unranked as a dispersed ensemble. Component 007 is San Juan Bautista in Tetela del Volcán per the UNESCO map; older INAH inventory prose inconsistently names Santo Domingo. Component 012 is identified by locality San Andrés Calpan and the INAH Franciscan convent name. All 12 newly added coordinates are converted from official UNESCO DMS references. No assumption of complete post-earthquake restoration or access to every cloister.
+
+## sight-mx-santiago-de-jalpan-mission — Mission of Santiago de Jalpan — 2026-11-25
+
+- YAML: [source](../../../countries/MX/sights/santiago-de-jalpan-mission.yaml)
+- Action: new
+- Precise subject: Individual church, atrium and exterior ensemble; cloister and chapel only when permitted.
+- Location check: 21.216858, -99.474083; UNESCO official component 1079-001 DMS converted to decimal; representative property reference, not entrance.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO component table](https://whc.unesco.org/en/list/1079/maps/), [INAH property description](https://lugares.inah.gob.mx/en/node/6122), [Querétaro state tourism mission-specific descriptions](https://queretaro.travel/lugares/misiones-franciscanas/), [commercial guided circuit](https://www.conocemexico.mx/tours/misiones-franciscanas-en-la-sierra-gorda-de-queretaro/) — checked 2026-11-25. The state tourism description identifies atrium, cloister, pilgrim portal, chapel, floral facade and dual-headed eagle. Dedicated visitor listing: https://queretaro.travel/fichas/mision-santiago-de-jalpan/ Commercial itinerary corroborates ordinary exterior visit scope only; not independent full factual verification.
+- Missing or uncertain facts: Independent claim-level corroboration, current religious schedules and exact permitted interior access.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Hohensalzburg Fortress](../../../countries/AT/sights/hohensalzburg-fortress.yaml) | Less monumental scale than Hohensalzburg |
+| [Bridgetown Garrison](../../../countries/BB/sights/historic-bridgetown-and-its-garrison.yaml) | more concentrated sacred ornament than Garrison |
+| [Pigeon Island](../../../countries/LC/sights/pigeon-island-national-landmark.yaml) | greater church architecture than Pigeon Island |
+| [Fort Hamilton](../../../countries/VC/sights/fort-hamilton-bequia.yaml) | broader built ensemble than Fort Hamilton. |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.3 | Colored ornamental facade and town-square setting |
+| Uniqueness | 8.7 | distinct fusion of local imagery with Franciscan ornament |
+| Significance | 8.9 | earliest completed mission in the inscribed group and important regional religious heritage |
+| Experience | 8.4 | documented mission circuit and town-square encounter |
+| Depth | 7.9 | several built elements but single religious complex. |
+
+- Applicable categories: architecture:9.1,history:9.1,culture:8.9,photography:8.9.
+- Overall: 84.95/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide editorial score limited to this named individual mission; no guaranteed current opening.
+- Earlier decision: None.
+- Verification still needed: Independent claim verification and current permitted visitor scope.
+
+## sight-mx-santa-maria-landa-mission — Mission of Santa María del Agua de Landa — 2026-11-25
+
+- YAML: [source](../../../countries/MX/sights/santa-maria-landa-mission.yaml)
+- Action: new
+- Precise subject: Individual church and public facade/atrium experience; interior only when allowed.
+- Location check: 21.183978, -99.320283; UNESCO official component 1079-002 DMS converted to decimal; representative property reference, not entrance.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO component table](https://whc.unesco.org/en/list/1079/maps/), [INAH property description](https://lugares.inah.gob.mx/en/node/6122), [Querétaro state tourism mission-specific descriptions](https://queretaro.travel/lugares/misiones-franciscanas/), [commercial guided circuit](https://www.conocemexico.mx/tours/misiones-franciscanas-en-la-sierra-gorda-de-queretaro/) — checked 2026-11-25. State tourism describes the City of God iconography, bell tower and interior medallions. Locality listing: https://queretaro.travel/lugares/landa-de-matamoros/ Commercial itinerary corroborates ordinary exterior visit scope only; not independent full factual verification.
+- Missing or uncertain facts: Independent claim-level corroboration, current religious schedules and exact permitted interior access.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Hohensalzburg Fortress](../../../countries/AT/sights/hohensalzburg-fortress.yaml) | Less fortress mass than Hohensalzburg |
+| [Bridgetown Garrison](../../../countries/BB/sights/historic-bridgetown-and-its-garrison.yaml) | more focused decorative sacred program than Garrison |
+| [Pigeon Island](../../../countries/LC/sights/pigeon-island-national-landmark.yaml) | greater ecclesiastical relief detail than Pigeon Island |
+| [Fort Hamilton](../../../countries/VC/sights/fort-hamilton-bequia.yaml) | more intricate facade than Fort Hamilton. |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.5 | Rich sculptural facade with many religious figures |
+| Uniqueness | 8.8 | distinct multi-figure iconographic program |
+| Significance | 8.8 | late mission construction within historically important regional ensemble |
+| Experience | 8.2 | documented mission-route visit |
+| Depth | 7.7 | compact individual complex. |
+
+- Applicable categories: architecture:9.2,history:9.0,culture:8.9,photography:9.0.
+- Overall: 85.10/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide editorial score limited to this named individual mission; no guaranteed current opening.
+- Earlier decision: None.
+- Verification still needed: Independent claim verification and current permitted visitor scope.
+
+## sight-mx-san-francisco-tilaco-mission — Mission of San Francisco del Valle de Tilaco — 2026-11-25
+
+- YAML: [source](../../../countries/MX/sights/san-francisco-tilaco-mission.yaml)
+- Action: new
+- Precise subject: Individual mission and permitted exterior/atrium; nearby community museum not included.
+- Location check: 21.163972, -99.191756; UNESCO official component 1079-003 DMS converted to decimal; representative property reference, not entrance.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO component table](https://whc.unesco.org/en/list/1079/maps/), [INAH property description](https://lugares.inah.gob.mx/en/node/6122), [Querétaro state tourism mission-specific descriptions](https://queretaro.travel/lugares/misiones-franciscanas/), [commercial guided circuit](https://www.conocemexico.mx/tours/misiones-franciscanas-en-la-sierra-gorda-de-queretaro/) — checked 2026-11-25. State tourism identifies hillside construction, baptistery separation, Indigenous-featured mermaid figures and processional chapel; https://queretaro.travel/lugares/landa-de-matamoros/ confirms Tilaco as a principal visitor attraction. Commercial itinerary corroborates ordinary exterior visit scope only; not independent full factual verification.
+- Missing or uncertain facts: Independent claim-level corroboration, current religious schedules and exact permitted interior access.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Hohensalzburg Fortress](../../../countries/AT/sights/hohensalzburg-fortress.yaml) | Less monumental than Hohensalzburg |
+| [Bridgetown Garrison](../../../countries/BB/sights/historic-bridgetown-and-its-garrison.yaml) | smaller overall architectural scope than Garrison |
+| [Pigeon Island](../../../countries/LC/sights/pigeon-island-national-landmark.yaml) | more concentrated religious decoration than Pigeon Island |
+| [Fort Hamilton](../../../countries/VC/sights/fort-hamilton-bequia.yaml) | greater sacred architectural interest than Fort Hamilton. |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.2 | Hillside church and distinctive tower composition |
+| Uniqueness | 8.6 | local corn and mermaid motifs integrated into sacred facade |
+| Significance | 8.8 | preserved regional Franciscan ensemble |
+| Experience | 8.1 | documented mission circuit and courtyard encounter |
+| Depth | 7.6 | small church and surviving processional chapel. |
+
+- Applicable categories: architecture:9.0,history:9.0,culture:8.9,photography:8.8.
+- Overall: 83.45/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide editorial score limited to this named individual mission; no guaranteed current opening.
+- Earlier decision: None.
+- Verification still needed: Independent claim verification and current permitted visitor scope.
+
+## sight-mx-nuestra-senora-luz-tancoyol-mission — Mission of Nuestra Señora de la Luz de Tancoyol — 2026-11-25
+
+- YAML: [source](../../../countries/MX/sights/nuestra-senora-luz-tancoyol-mission.yaml)
+- Action: new
+- Precise subject: Individual mission facade, public atrium and authorized religious space; not whole municipality.
+- Location check: 21.399033, -99.32965; UNESCO official component 1079-004 DMS converted to decimal; representative property reference, not entrance.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO component table](https://whc.unesco.org/en/list/1079/maps/), [INAH property description](https://lugares.inah.gob.mx/en/node/6122), [Querétaro state tourism mission-specific descriptions](https://queretaro.travel/lugares/misiones-franciscanas/), [commercial guided circuit](https://www.conocemexico.mx/tours/misiones-franciscanas-en-la-sierra-gorda-de-queretaro/) — checked 2026-11-25. State tourism identifies particularly elaborate facade, wheat and plant imagery, atrium and corner chapels. No access to sacristy or choir assumed. Commercial itinerary corroborates ordinary exterior visit scope only; not independent full factual verification.
+- Missing or uncertain facts: Independent claim-level corroboration, current religious schedules and exact permitted interior access.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Hohensalzburg Fortress](../../../countries/AT/sights/hohensalzburg-fortress.yaml) | Less fortress mass than Hohensalzburg |
+| [Bridgetown Garrison](../../../countries/BB/sights/historic-bridgetown-and-its-garrison.yaml) | more concentrated sculptural religious program than Garrison |
+| [Pigeon Island](../../../countries/LC/sights/pigeon-island-national-landmark.yaml) | more sacred relief detail than Pigeon Island |
+| [Fort Hamilton](../../../countries/VC/sights/fort-hamilton-bequia.yaml) | more elaborate facade than Fort Hamilton. |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.5 | Elaborate three-tiered facade |
+| Uniqueness | 8.9 | exceptionally dense plant and religious imagery within this series |
+| Significance | 8.8 | important regional mission and local workmanship heritage |
+| Experience | 8.2 | documented guided route and architectural encounter |
+| Depth | 7.8 | church, atrium and related elements, bounded scope. |
+
+- Applicable categories: architecture:9.3,history:9.0,culture:8.9,photography:9.0.
+- Overall: 85.45/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide editorial score limited to this named individual mission; no guaranteed current opening.
+- Earlier decision: None.
+- Verification still needed: Independent claim verification and current permitted visitor scope.
+
+## sight-mx-san-miguel-conca-mission — Mission of San Miguel Concá — 2026-11-25
+
+- YAML: [source](../../../countries/MX/sights/san-miguel-conca-mission.yaml)
+- Action: new
+- Precise subject: Individual small mission church and public exterior, not nearby themed hotel.
+- Location check: 21.444694, -99.636944; UNESCO official component 1079-005 DMS converted to decimal; representative property reference, not entrance.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO component table](https://whc.unesco.org/en/list/1079/maps/), [INAH property description](https://lugares.inah.gob.mx/en/node/6122), [Querétaro state tourism mission-specific descriptions](https://queretaro.travel/lugares/misiones-franciscanas/), [commercial guided circuit](https://www.conocemexico.mx/tours/misiones-franciscanas-en-la-sierra-gorda-de-queretaro/) — checked 2026-11-25. State tourism locates mission in Arroyo Seco and describes floral imagery, sun and moon and rabbit symbol. No confusion with Hotel Misión Concá. Commercial itinerary corroborates ordinary exterior visit scope only; not independent full factual verification.
+- Missing or uncertain facts: Independent claim-level corroboration, current religious schedules and exact permitted interior access.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Hohensalzburg Fortress](../../../countries/AT/sights/hohensalzburg-fortress.yaml) | Less monumental than Hohensalzburg |
+| [Bridgetown Garrison](../../../countries/BB/sights/historic-bridgetown-and-its-garrison.yaml) | far smaller ensemble than Garrison |
+| [Pigeon Island](../../../countries/LC/sights/pigeon-island-national-landmark.yaml) | more concentrated sacred facade than Pigeon Island |
+| [Fort Hamilton](../../../countries/VC/sights/fort-hamilton-bequia.yaml) | distinct decorative rather than defensive merit relative to Fort Hamilton. |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.0 | Compact ornate church facade |
+| Uniqueness | 8.7 | distinct Indigenous Pame-associated imagery including rabbit and celestial motifs |
+| Significance | 8.7 | regional religious history and local cultural synthesis |
+| Experience | 8.0 | documented mission-route visit |
+| Depth | 7.3 | limited single-building scale. |
+
+- Applicable categories: architecture:8.9,history:8.9,culture:8.9,photography:8.7.
+- Overall: 82.45/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide editorial score limited to this named individual mission; no guaranteed current opening.
+- Earlier decision: None.
+- Verification still needed: Independent claim verification and current permitted visitor scope.
+
+### Sierra Gorda component completion (2026-11-25)
+All five official components of the [Franciscan Missions in the Sierra Gorda of Querétaro](https://whc.unesco.org/en/list/1079/maps/) now have distinct individual records and source-linked reviews, using official component coordinates. The parent five-mission circuit is retained as a separate, documented itinerary rather than a fabricated aggregate visit: the state tourism page describes all five and a commercial operator advertises a guided circuit covering all five. Individual scores do not include the entire mountain region or nearby towns. Current individual worship/interior schedules are not independently verified.

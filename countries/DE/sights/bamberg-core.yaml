@@ -1,0 +1,16 @@
+id: sight-de-bamberg-core
+name: "Town of Bamberg"
+location:
+  country_code: DE
+  latitude: 49.891
+  longitude: 10.887
+scores:
+  impact: 9.2
+  uniqueness: 9.2
+  significance: 9.3
+  experience: 9.1
+  depth: 9.1
+  categories:
+    architecture: 9.5
+    history: 9.4
+    photography: 9.4

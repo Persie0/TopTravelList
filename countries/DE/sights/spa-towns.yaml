@@ -1,0 +1,16 @@
+id: sight-de-spa-towns
+name: "Great Spa Towns of Europe (German components)"
+location:
+  country_code: DE
+  latitude: 50.04
+  longitude: 8.24
+scores:
+  impact: 8.6
+  uniqueness: 8.9
+  significance: 9.2
+  experience: 8.8
+  depth: 9.0
+  categories:
+    architecture: 9.2
+    relaxation: 9.2
+    history: 9.2

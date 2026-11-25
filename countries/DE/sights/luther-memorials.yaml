@@ -1,0 +1,15 @@
+id: sight-de-luther-memorials
+name: "Luther Memorials in Eisleben and Wittenberg"
+location:
+  country_code: DE
+  latitude: 51.866
+  longitude: 12.65
+scores:
+  impact: 8.6
+  uniqueness: 9.0
+  significance: 9.4
+  experience: 8.7
+  depth: 8.8
+  categories:
+    history: 9.5
+    culture: 9.3

@@ -1,0 +1,15 @@
+id: city-de-freiburg
+name: "Freiburg im Breisgau"
+location:
+  country_code: DE
+  latitude: 47.995
+  longitude: 7.85
+scores:
+  impact: 8.6
+  uniqueness: 8.5
+  significance: 8.5
+  experience: 8.9
+  depth: 8.5
+  categories:
+    architecture: 9.0
+    relaxation: 8.9
