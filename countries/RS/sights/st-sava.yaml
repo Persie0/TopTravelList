@@ -1,0 +1,16 @@
+id: sight-rs-st-sava
+name: "Temple of Saint Sava, Belgrade"
+location:
+  country_code: RS
+  latitude: 44.798
+  longitude: 20.469
+scores:
+  impact: 9.0
+  uniqueness: 8.9
+  significance: 8.9
+  experience: 8.8
+  depth: 8.2
+  categories:
+    architecture: 9.5
+    culture: 9.2
+    history: 9.0

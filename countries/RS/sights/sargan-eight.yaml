@@ -1,0 +1,16 @@
+id: sight-rs-sargan-eight
+name: "Šargan Eight heritage railway"
+location:
+  country_code: RS
+  latitude: 43.792
+  longitude: 19.508
+scores:
+  impact: 8.7
+  uniqueness: 9.0
+  significance: 8.6
+  experience: 8.9
+  depth: 8.2
+  categories:
+    history: 9.0
+    culture: 8.9
+    photography: 9.2

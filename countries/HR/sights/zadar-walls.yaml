@@ -1,0 +1,15 @@
+id: sight-hr-zadar-walls
+name: "Zadar Venetian defensive walls"
+location:
+  country_code: HR
+  latitude: 44.115
+  longitude: 15.231
+scores:
+  impact: 8.6
+  uniqueness: 8.6
+  significance: 9.0
+  experience: 8.6
+  depth: 8.0
+  categories:
+    architecture: 9.0
+    history: 9.2

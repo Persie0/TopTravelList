@@ -1,0 +1,17 @@
+id: sight-rs-djerdap
+name: "Đerdap National Park and Iron Gates landscape"
+location:
+  country_code: RS
+  latitude: 44.58
+  longitude: 22.05
+scores:
+  impact: 9.2
+  uniqueness: 9.1
+  significance: 9.0
+  experience: 9.1
+  depth: 9.3
+  categories:
+    nature: 9.4
+    photography: 9.4
+    history: 9.1
+    adventure: 9.1

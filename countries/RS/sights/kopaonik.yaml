@@ -1,0 +1,16 @@
+id: sight-rs-kopaonik
+name: "Kopaonik National Park"
+location:
+  country_code: RS
+  latitude: 43.29
+  longitude: 20.81
+scores:
+  impact: 8.8
+  uniqueness: 8.6
+  significance: 8.6
+  experience: 9.0
+  depth: 9.0
+  categories:
+    nature: 9.2
+    adventure: 9.2
+    photography: 9.0

@@ -1,0 +1,15 @@
+id: city-rs-nis
+name: "Niš"
+location:
+  country_code: RS
+  latitude: 43.3209
+  longitude: 21.8958
+scores:
+  impact: 8.2
+  uniqueness: 8.3
+  significance: 8.8
+  experience: 8.7
+  depth: 8.6
+  categories:
+    history: 9.2
+    culture: 8.8

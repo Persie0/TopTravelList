@@ -1,0 +1,15 @@
+id: sight-rs-stecci
+name: "Stećci Medieval Tombstone Graveyards (Serbian components)"
+location:
+  country_code: RS
+  latitude: 43.957778
+  longitude: 19.430278
+scores:
+  impact: 8.1
+  uniqueness: 8.9
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    history: 9.3
+    culture: 9.1

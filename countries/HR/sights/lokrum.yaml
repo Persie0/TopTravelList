@@ -1,0 +1,16 @@
+id: sight-hr-lokrum
+name: "Lokrum Island"
+location:
+  country_code: HR
+  latitude: 42.626
+  longitude: 18.119
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 8.5
+  experience: 8.8
+  depth: 8.6
+  categories:
+    nature: 9.0
+    history: 8.8
+    relaxation: 9.0

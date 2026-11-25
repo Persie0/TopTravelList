@@ -1,0 +1,16 @@
+id: city-hr-zagreb
+name: "Zagreb"
+location:
+  country_code: HR
+  latitude: 45.815
+  longitude: 15.9819
+scores:
+  impact: 8.5
+  uniqueness: 8.5
+  significance: 8.8
+  experience: 8.9
+  depth: 9.0
+  categories:
+    architecture: 9.0
+    culture: 9.2
+    history: 9.0

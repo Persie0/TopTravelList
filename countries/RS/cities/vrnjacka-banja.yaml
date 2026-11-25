@@ -1,0 +1,15 @@
+id: city-rs-vrnjacka-banja
+name: "Vrnjačka Banja"
+location:
+  country_code: RS
+  latitude: 43.621
+  longitude: 20.896
+scores:
+  impact: 8.0
+  uniqueness: 8.3
+  significance: 8.1
+  experience: 8.8
+  depth: 8.1
+  categories:
+    relaxation: 9.2
+    architecture: 8.5

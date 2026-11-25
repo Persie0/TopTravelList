@@ -1,0 +1,15 @@
+id: city-rs-bac
+name: "Bač"
+location:
+  country_code: RS
+  latitude: 45.391
+  longitude: 19.236
+scores:
+  impact: 7.8
+  uniqueness: 8.4
+  significance: 8.5
+  experience: 8.1
+  depth: 7.5
+  categories:
+    history: 8.9
+    architecture: 8.6
