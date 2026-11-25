@@ -1,0 +1,16 @@
+id: city-gt-livingston
+name: "Livingston"
+location:
+  country_code: GT
+  latitude: 15.828
+  longitude: -88.75
+scores:
+  impact: 7.7
+  uniqueness: 8.5
+  significance: 7.9
+  experience: 8.0
+  depth: 7.0
+  categories:
+    culture: 9.1
+    food: 8.8
+    photography: 8.4

@@ -1,0 +1,16 @@
+id: city-cu-camaguey
+name: "Camagüey"
+location:
+  country_code: CU
+  latitude: 21.38
+  longitude: -77.918
+scores:
+  impact: 8.2
+  uniqueness: 8.5
+  significance: 8.5
+  experience: 8.2
+  depth: 8.1
+  categories:
+    architecture: 8.9
+    culture: 8.8
+    history: 8.8

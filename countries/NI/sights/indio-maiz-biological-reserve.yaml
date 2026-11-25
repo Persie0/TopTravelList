@@ -1,0 +1,15 @@
+id: sight-ni-indio-maiz-biological-reserve
+name: "Indio Maíz Biological Reserve"
+location:
+  country_code: NI
+  latitude: 11.05
+  longitude: -84.05
+scores:
+  impact: null
+  uniqueness: null
+  significance: 9.0
+  experience: null
+  depth: null
+  categories:
+    nature: 9.3
+    wildlife: null

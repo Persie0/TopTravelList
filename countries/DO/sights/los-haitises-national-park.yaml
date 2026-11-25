@@ -1,0 +1,16 @@
+id: sight-do-los-haitises-national-park
+name: "Los Haitises National Park"
+location:
+  country_code: DO
+  latitude: 19.048
+  longitude: -69.57
+scores:
+  impact: 9.1
+  uniqueness: 9.0
+  significance: 8.8
+  experience: 8.9
+  depth: 8.8
+  categories:
+    nature: 9.3
+    photography: 9.4
+    wildlife: 9.1

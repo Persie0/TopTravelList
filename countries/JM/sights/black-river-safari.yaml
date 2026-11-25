@@ -1,0 +1,15 @@
+id: sight-jm-black-river-safari
+name: "Black River Safari"
+location:
+  country_code: JM
+  latitude: 18.023
+  longitude: -77.847
+scores:
+  impact: 8.3
+  uniqueness: 8.4
+  significance: 8.4
+  experience: 8.6
+  depth: 7.9
+  categories:
+    wildlife: 9.1
+    nature: 8.9

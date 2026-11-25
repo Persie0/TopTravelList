@@ -1,0 +1,16 @@
+id: city-ni-leon
+name: "León"
+location:
+  country_code: NI
+  latitude: 12.435
+  longitude: -86.879
+scores:
+  impact: 8.5
+  uniqueness: 8.7
+  significance: 8.8
+  experience: 8.6
+  depth: 8.5
+  categories:
+    architecture: 9.0
+    history: 9.0
+    culture: 9.0

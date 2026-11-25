@@ -1,0 +1,15 @@
+id: sight-cu-university-havana-central-campus
+name: "University of Havana Central Campus"
+location:
+  country_code: CU
+  latitude: 23.136
+  longitude: -82.383
+scores:
+  impact: 7.9
+  uniqueness: 8.2
+  significance: 8.6
+  experience: 7.5
+  depth: 7.3
+  categories:
+    architecture: 8.8
+    history: 8.8

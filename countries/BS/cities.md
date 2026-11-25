@@ -2,7 +2,7 @@
 
 # Bahamas (BS) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**12 ranked** · **0 unassessed** · **12 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,22 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (12)
 
-No cities, towns & villages have been assessed for **Bahamas** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Nassau](cities/nassau.yaml) | City / town | **83.15** | **Culture 8.8**, **History 8.8**, **Food 8.6**, Architecture 8.4 | 8.1 / 8.3 / 8.6 / 8.4 / 8.3 | [25.078, -77.338](https://www.google.com/maps/search/?api=1&query=25.078,-77.338) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nassau%2C%20Bahamas) |
+| 2 | [Hope Town](cities/hope-town.yaml) | Town | **80.00** | **Photography 8.9**, **Architecture 8.6**, **Culture 8.3** | 8.1 / 8.4 / 7.7 / 8.2 / 7.0 | [26.537, -76.959](https://www.google.com/maps/search/?api=1&query=26.537,-76.959) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hope%20Town%2C%20Bahamas) |
+| 3 | [Dunmore Town](cities/dunmore-town.yaml) | Town | **79.70** | **Photography 8.9**, **Architecture 8.7**, **Culture 8.2** | 8.0 / 8.4 / 7.6 / 8.2 / 7.2 | [25.502, -76.635](https://www.google.com/maps/search/?api=1&query=25.502,-76.635) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Dunmore%20Town%2C%20Bahamas) |
+| 4 | [New Plymouth (Green Turtle Cay)](cities/new-plymouth.yaml) | City / town | **75.95** | **Architecture 8.4**, **Photography 8.4**, **Culture 8.0** | 7.5 / 8.0 / 7.6 / 7.7 / 6.7 | [26.756, -77.333](https://www.google.com/maps/search/?api=1&query=26.756,-77.333) | [Google Maps](https://www.google.com/maps/search/?api=1&query=New%20Plymouth%20%28Green%20Turtle%20Cay%29%2C%20Bahamas) |
+| 5 | [Governor's Harbour](cities/governors-harbour.yaml) | City / town | **74.85** | **Photography 8.3**, **Architecture 8.0**, **Culture 8.0** | 7.4 / 7.8 / 7.4 / 7.7 / 6.8 | [25.196, -76.243](https://www.google.com/maps/search/?api=1&query=25.196,-76.243) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Governor%27s%20Harbour%2C%20Bahamas) |
+| 6 | [George Town (Exuma)](cities/george-town-exuma.yaml) | Town | **72.95** | **Photography 8.2**, **Culture 8.0**, **Food 8.0** | 7.2 / 7.5 / 7.1 / 7.8 / 6.7 | [23.507, -75.769](https://www.google.com/maps/search/?api=1&query=23.507,-75.769) | [Google Maps](https://www.google.com/maps/search/?api=1&query=George%20Town%20%28Exuma%29%2C%20Bahamas) |
+| 7 | [Alice Town (Bimini)](cities/alice-town-bimini.yaml) | Town | **69.75** | **Culture 7.9**, **Food 7.7** | 6.8 / 7.3 / 7.0 / 7.4 / 6.0 | [25.725, -79.297](https://www.google.com/maps/search/?api=1&query=25.725,-79.297) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Alice%20Town%20%28Bimini%29%2C%20Bahamas) |
+| 7 | [Gregory Town](cities/gregory-town.yaml) | Town | **69.75** | **Culture 8.0**, **Photography 7.8** | 6.9 / 7.4 / 6.8 / 7.3 / 6.0 | [25.396, -76.562](https://www.google.com/maps/search/?api=1&query=25.396,-76.562) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Gregory%20Town%2C%20Bahamas) |
+| 9 | [Freeport](cities/freeport.yaml) | City / town | **68.20** | **Relaxation 8.0**, **Food 7.8**, **Nightlife 7.5** | 6.8 / 6.5 / 6.5 / 7.5 / 7.3 | [26.529, -78.696](https://www.google.com/maps/search/?api=1&query=26.529,-78.696) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Freeport%2C%20Bahamas) |
+| 10 | [Marsh Harbour](cities/marsh-harbour.yaml) | City / town | **67.70** | **Culture 7.5**, **Food 7.5** | 6.7 / 6.8 / 6.7 / 7.2 / 6.4 | [26.541, -77.063](https://www.google.com/maps/search/?api=1&query=26.541,-77.063) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Marsh%20Harbour%2C%20Bahamas) |
+| 11 | [Cockburn Town (San Salvador)](cities/cockburn-town-san-salvador.yaml) | Town | **66.90** | **History 7.8**, **Culture 7.6** | 6.4 / 7.0 / 7.1 / 6.8 / 5.8 | [24.052, -74.532](https://www.google.com/maps/search/?api=1&query=24.052,-74.532) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cockburn%20Town%20%28San%20Salvador%29%2C%20Bahamas) |
+| 12 | [Matthew Town](cities/matthew-town.yaml) | Town | **66.75** | **Culture 7.7**, **History 7.5** | 6.3 / 7.1 / 7.0 / 6.8 / 5.9 | [20.951, -73.673](https://www.google.com/maps/search/?api=1&query=20.951,-73.673) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Matthew%20Town%2C%20Bahamas) |
 
 ---
 

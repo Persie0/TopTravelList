@@ -1,0 +1,16 @@
+id: sight-ht-labadee-peninsula
+name: "Labadee Peninsula"
+location:
+  country_code: HT
+  latitude: 19.786
+  longitude: -72.248
+scores:
+  impact: 8.1
+  uniqueness: 7.4
+  significance: 6.4
+  experience: 8.3
+  depth: 7.5
+  categories:
+    beaches: 8.9
+    relaxation: 8.8
+    adventure: 8.4

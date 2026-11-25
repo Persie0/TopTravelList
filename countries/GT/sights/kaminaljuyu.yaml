@@ -1,0 +1,15 @@
+id: sight-gt-kaminaljuyu
+name: "Kaminaljuyú Archaeological Park"
+location:
+  country_code: GT
+  latitude: 14.633
+  longitude: -90.552
+scores:
+  impact: 7.1
+  uniqueness: 8.1
+  significance: 8.7
+  experience: 7.6
+  depth: 7.2
+  categories:
+    history: 9.0
+    culture: 8.5

@@ -1,0 +1,16 @@
+id: sight-ru-kazan-kremlin
+name: "Historic and Architectural Complex of the Kazan Kremlin"
+location:
+  country_code: RU
+  latitude: 55.799
+  longitude: 49.105
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.7
+  depth: 8.6
+  categories:
+    architecture: 9.2
+    history: 9.2
+    culture: 9.1

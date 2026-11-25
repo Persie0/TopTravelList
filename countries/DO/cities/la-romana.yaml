@@ -1,0 +1,15 @@
+id: city-do-la-romana
+name: "La Romana"
+location:
+  country_code: DO
+  latitude: 18.427
+  longitude: -68.972
+scores:
+  impact: 6.9
+  uniqueness: 7.0
+  significance: 7.2
+  experience: 7.6
+  depth: 7.1
+  categories:
+    culture: 7.9
+    food: 8.1

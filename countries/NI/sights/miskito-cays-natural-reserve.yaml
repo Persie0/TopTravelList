@@ -1,0 +1,15 @@
+id: sight-ni-miskito-cays-natural-reserve
+name: "Miskito Cays Natural Reserve"
+location:
+  country_code: NI
+  latitude: 14.4
+  longitude: -82.9
+scores:
+  impact: null
+  uniqueness: null
+  significance: 8.7
+  experience: null
+  depth: null
+  categories:
+    nature: null
+    wildlife: null

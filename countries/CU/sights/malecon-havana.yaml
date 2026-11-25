@@ -1,0 +1,16 @@
+id: sight-cu-malecon-havana
+name: "El Malecón (Havana)"
+location:
+  country_code: CU
+  latitude: 23.142
+  longitude: -82.369
+scores:
+  impact: 8.3
+  uniqueness: 8.4
+  significance: 8.0
+  experience: 8.6
+  depth: 7.6
+  categories:
+    culture: 8.8
+    photography: 9.0
+    relaxation: 8.5

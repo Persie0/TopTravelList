@@ -1,0 +1,15 @@
+id: sight-ca-joggins-fossil-cliffs
+name: "Joggins Fossil Cliffs"
+location:
+  country_code: CA
+  latitude: 45.694
+  longitude: -64.451
+scores:
+  impact: 7.9
+  uniqueness: 8.9
+  significance: 9.3
+  experience: 8.2
+  depth: 7.6
+  categories:
+    nature: 9.0
+    history: 8.9

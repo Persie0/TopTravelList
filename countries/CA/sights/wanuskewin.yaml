@@ -1,0 +1,15 @@
+id: sight-ca-wanuskewin
+name: "Wanuskewin Heritage Park"
+location:
+  country_code: CA
+  latitude: 52.224
+  longitude: -106.597
+scores:
+  impact: 8.1
+  uniqueness: 8.7
+  significance: 9.0
+  experience: 8.5
+  depth: 8.1
+  categories:
+    history: 9.2
+    culture: 9.2

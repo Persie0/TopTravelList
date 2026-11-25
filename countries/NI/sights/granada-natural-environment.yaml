@@ -1,0 +1,15 @@
+id: sight-ni-granada-natural-environment
+name: "City of Granada and its natural environment"
+location:
+  country_code: NI
+  latitude: 11.934
+  longitude: -85.956
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories:
+    nature: null
+    history: null

@@ -1,0 +1,15 @@
+id: city-ru-suzdal
+name: "Suzdal"
+location:
+  country_code: RU
+  latitude: 56.4196
+  longitude: 40.4493
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 8.7
+  experience: 8.6
+  depth: 8.2
+  categories:
+    architecture: 9.2
+    history: 9.0

@@ -1,0 +1,13 @@
+id: sight-bs-southwest-point-lighthouse
+name: "Southwest Point Lighthouse (Inagua)"
+location:
+  country_code: BS
+  latitude: 20.934167
+  longitude: -73.673611
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}

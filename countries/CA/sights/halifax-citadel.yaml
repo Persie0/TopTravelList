@@ -1,0 +1,15 @@
+id: sight-ca-halifax-citadel
+name: "Halifax Citadel"
+location:
+  country_code: CA
+  latitude: 44.648
+  longitude: -63.580
+scores:
+  impact: 8.0
+  uniqueness: 8.1
+  significance: 8.6
+  experience: 8.5
+  depth: 7.8
+  categories:
+    history: 9.0
+    architecture: 8.7

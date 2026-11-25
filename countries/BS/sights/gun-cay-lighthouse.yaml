@@ -1,0 +1,13 @@
+id: sight-bs-gun-cay-lighthouse
+name: "Gun Cay Lighthouse"
+location:
+  country_code: BS
+  latitude: 25.570278
+  longitude: -79.2975
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}

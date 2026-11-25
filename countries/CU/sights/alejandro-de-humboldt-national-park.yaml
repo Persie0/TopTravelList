@@ -1,0 +1,16 @@
+id: sight-cu-alejandro-de-humboldt-national-park
+name: "Alejandro de Humboldt National Park"
+location:
+  country_code: CU
+  latitude: 20.45
+  longitude: -74.67
+scores:
+  impact: 8.8
+  uniqueness: 9.1
+  significance: 9.4
+  experience: 8.2
+  depth: 8.8
+  categories:
+    nature: 9.4
+    wildlife: 9.4
+    adventure: 8.9

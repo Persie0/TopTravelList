@@ -1,0 +1,16 @@
+id: city-cu-matanzas
+name: "Matanzas"
+location:
+  country_code: CU
+  latitude: 23.046
+  longitude: -81.577
+scores:
+  impact: 7.7
+  uniqueness: 8.1
+  significance: 7.9
+  experience: 7.7
+  depth: 7.6
+  categories:
+    culture: 8.7
+    architecture: 8.5
+    history: 8.4

@@ -1,0 +1,13 @@
+id: sight-gt-sierra-del-lacandon
+name: "Sierra del Lacandón National Park"
+location:
+  country_code: GT
+  latitude: 17.0
+  longitude: -90.8
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}

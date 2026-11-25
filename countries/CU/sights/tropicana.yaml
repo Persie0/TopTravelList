@@ -1,0 +1,16 @@
+id: sight-cu-tropicana
+name: "Tropicana Cabaret"
+location:
+  country_code: CU
+  latitude: 23.106
+  longitude: -82.42
+scores:
+  impact: 8.1
+  uniqueness: 8.5
+  significance: 8.4
+  experience: 8.6
+  depth: 7.3
+  categories:
+    culture: 9.0
+    nightlife: 9.1
+    architecture: 8.5
