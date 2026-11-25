@@ -322,4 +322,3 @@
 - Approved 10 registry: none.
 - Final decision: Keep unranked until sufficient evidence exists.
 - Verification still needed: independent site-level facts, representative coordinates, permitted visitor conditions and peer applicability.
-
