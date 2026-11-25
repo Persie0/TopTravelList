@@ -1,0 +1,15 @@
+id: sight-kp-koguryo-capital
+name: "Historic Relics of Koguryo's Capital City in Pyongyang"
+location:
+  country_code: KP
+  latitude: 39.040556
+  longitude: 125.759722
+scores:
+  impact: 8.0
+  uniqueness: 8.8
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    history: 9.3
+    architecture: 8.7

@@ -1,0 +1,15 @@
+id: sight-kp-rimyongsu-falls
+name: "Rimyongsu Falls"
+location:
+  country_code: KP
+  latitude: 41.83
+  longitude: 128.28
+scores:
+  impact: 8.1
+  uniqueness: 8.1
+  significance: 7.5
+  experience: null
+  depth: null
+  categories:
+    nature: 8.5
+    photography: 8.6
