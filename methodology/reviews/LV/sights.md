@@ -761,3 +761,19 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: No site-specific supporting source checked.
 - Verification still needed: independent corroboration of visitor conditions and factual scope; GPS except two checked Struve stations; additional closer field-specific peers where current comparisons are broad.
+
+## Follow-up: remaining visitor scopes — 2026-11-25
+
+### sight-lv-grobin-archaeological-ensemble
+- [YAML](../../../countries/LV/sights/grobin-archaeological-ensemble.yaml) · Action: assess · **source-linked-unverified**. [Latvia tourism](https://www.latvia.travel/en/destinations-kurzeme), [regional trail authority](https://kurzemesregions.lv/en/projects/tourism/unigreen/nature-trails/alandes-upes-dabas-taka/) and [Atrastā Latvija](https://www.atrastalatvija.lv/en/objekts/grobina-archaeological-ensemble/) describe the marked trail, information panels, castle mound and burial grounds. Experience 8.0 for legible landscape interpretation, depth 7.9 for multiple visible features; not all buried archaeology or separately operated attractions. Retain I/U/S 7.8/8.7/9.0 and history 9.2. Overall 83.05/100.
+- Current worldwide peers: [Kharkhorum (MN)](../../../countries/MN/sights/kharkhorum-archaeological-site.yaml) 7.7/8.7/9.4/7.7/7.5, stronger imperial significance and less evident interpreted trail; [Amul (TM)](../../../countries/TM/sights/amul-settlement.yaml) 7.2/8.4/9.0/7.6/6.8, narrower surviving earthworks; [Abila (JO)](../../../countries/JO/sights/abila-archaeological-site.yaml) 7.3/7.9/8.3/7.1/7.2, more fragmentary stop; [Sé Cathedral ruins (CV)](../../../countries/CV/sights/se-cathedral-ruins-cidade-velha.yaml) 7.2/8.1/8.6/7.6/6.0, compact ruin. GPS unchanged.
+
+### sight-lv-jekabpils-struve-station
+- [YAML](../../../countries/LV/sights/jekabpils-struve-station.yaml) · Action: assess · **source-linked-unverified**. [Jēkabpils tourism](https://visit.jekabpils.lv/en/objekti/iepazisti/apskates-vietas/location/struves-geodeziska-loka-punkts-jekabpils-/) documents the survey marker in a public park. Experience 7.0 for a meaningful but small scientific-heritage stop; depth 5.8 for one station and immediate park, not the international arc or temporary anniversary activities. Retain I/U/S 6.7/8.0/8.6 and history 8.6. Overall 73.60/100.
+
+### sight-lv-sestu-kalns-struve-station
+- [YAML](../../../countries/LV/sights/sestu-kalns-struve-station.yaml) · Action: assess · **source-linked-unverified**. [Madona tourism](https://www.visitmadona.lv/en/nature) documents the 1.2 km each-way trail and survey markers; [Ērgļi tourism](https://www.ergli.lv/public/eng/tourism_relaxation/sightseeing/) confirms station identity. Experience 7.1 and depth 6.0 for the hill walk and historical markers only. Retain I/U/S 6.9/8.1/8.6 and history 8.6. Overall 74.80/100.
+
+- Station-specific worldwide comparison: [Tartu Observatory (EE)](../../../countries/EE/sights/tartu-observatory.yaml) 7.7/8.7/9.1/8.0/7.7, stronger scientific interpretation and building; [Simuna (EE)](../../../countries/EE/sights/simuna-struve-station.yaml) 6.7/8.0/8.6/null/null and [Võivere (EE)](../../../countries/EE/sights/voivere-struve-station.yaml) 6.8/8.0/8.6/null/null, directly comparable partial profiles, visitor scores not assumed; [Sé Cathedral ruins (CV)](../../../countries/CV/sights/se-cathedral-ruins-cidade-velha.yaml) 7.2/8.1/8.6/7.6/6.0, comparable limited-depth heritage stop but more visible fabric; [Aqaba Fort (JO)](../../../countries/JO/sights/aqaba-fort.yaml) 7.2/7.4/8.1/7.5/6.9, more substantial built visitor experience. No credit for distant stations. Coordinates and category scores retained.
+
+All 18 settlement and 38 sight core profiles screened. Remaining category-specific and factual/GPS verification still required; these are provisional editorial assessments. No scoring weight or perfect-score changes.
