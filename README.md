@@ -82,11 +82,11 @@ Every registered country has a linked folder below. The status is determined fro
 
 <!-- COUNTRY_DIRECTORY_START -->
 
-**180 done · 17 not done · 197 countries total.**
+**181 done · 16 not done · 197 countries total.**
 
 **Done** means both the city and sight folders contain destination YAML records. It does not mean that every possible destination has been cataloged.
 
-### Done (180)
+### Done (181)
 
 | Country | Cities | Sights | Google Maps |
 | --- | ---: | ---: | --- |
@@ -194,6 +194,7 @@ Every registered country has a linked folder below. The status is determined fro
 | [Mauritania](countries/MR/) (`MR`) | [10](countries/MR/cities.md) | [17](countries/MR/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Mauritania) |
 | [Mauritius](countries/MU/) (`MU`) | [22](countries/MU/cities.md) | [63](countries/MU/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Mauritius) |
 | [Mexico](countries/MX/) (`MX`) | [36](countries/MX/cities.md) | [111](countries/MX/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Mexico) |
+| [Micronesia, Federated States of](countries/FM/) (`FM`) | [6](countries/FM/cities.md) | [14](countries/FM/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Micronesia%2C%20Federated%20States%20of) |
 | [Moldova](countries/MD/) (`MD`) | [18](countries/MD/cities.md) | [33](countries/MD/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Moldova) |
 | [Monaco](countries/MC/) (`MC`) | [1](countries/MC/cities.md) | [29](countries/MC/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Monaco) |
 | [Mongolia](countries/MN/) (`MN`) | [18](countries/MN/cities.md) | [50](countries/MN/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Mongolia) |
@@ -271,17 +272,16 @@ Every registered country has a linked folder below. The status is determined fro
 | [Zambia](countries/ZM/) (`ZM`) | [5](countries/ZM/cities.md) | [20](countries/ZM/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Zambia) |
 | [Zimbabwe](countries/ZW/) (`ZW`) | [6](countries/ZW/cities.md) | [20](countries/ZW/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Zimbabwe) |
 
-### Not done (17)
+### Not done (16)
 
 These countries have no entries in one or both destination folders yet. Their country folders already exist; follow the links to populate them.
 
 | Country | Country | Country | Country |
 | --- | --- | --- | --- |
 | [Algeria](countries/DZ/) (`DZ`) · [Map](https://www.google.com/maps/search/?api=1&query=Algeria) | [Australia](countries/AU/) (`AU`) · [Map](https://www.google.com/maps/search/?api=1&query=Australia) | [Egypt](countries/EG/) (`EG`) · [Map](https://www.google.com/maps/search/?api=1&query=Egypt) | [Ethiopia](countries/ET/) (`ET`) · [Map](https://www.google.com/maps/search/?api=1&query=Ethiopia) |
-| [Fiji](countries/FJ/) (`FJ`) · [Map](https://www.google.com/maps/search/?api=1&query=Fiji) | [Kenya](countries/KE/) (`KE`) · [Map](https://www.google.com/maps/search/?api=1&query=Kenya) | [Madagascar](countries/MG/) (`MG`) · [Map](https://www.google.com/maps/search/?api=1&query=Madagascar) | [Micronesia, Federated States of](countries/FM/) (`FM`) · [Map](https://www.google.com/maps/search/?api=1&query=Micronesia%2C%20Federated%20States%20of) |
-| [Morocco](countries/MA/) (`MA`) · [Map](https://www.google.com/maps/search/?api=1&query=Morocco) | [New Zealand](countries/NZ/) (`NZ`) · [Map](https://www.google.com/maps/search/?api=1&query=New%20Zealand) | [Papua New Guinea](countries/PG/) (`PG`) · [Map](https://www.google.com/maps/search/?api=1&query=Papua%20New%20Guinea) | [Solomon Islands](countries/SB/) (`SB`) · [Map](https://www.google.com/maps/search/?api=1&query=Solomon%20Islands) |
-| [South Africa](countries/ZA/) (`ZA`) · [Map](https://www.google.com/maps/search/?api=1&query=South%20Africa) | [Tanzania](countries/TZ/) (`TZ`) · [Map](https://www.google.com/maps/search/?api=1&query=Tanzania) | [Tunisia](countries/TN/) (`TN`) · [Map](https://www.google.com/maps/search/?api=1&query=Tunisia) | [Uganda](countries/UG/) (`UG`) · [Map](https://www.google.com/maps/search/?api=1&query=Uganda) |
-| [Vanuatu](countries/VU/) (`VU`) · [Map](https://www.google.com/maps/search/?api=1&query=Vanuatu) |  |  |  |
+| [Fiji](countries/FJ/) (`FJ`) · [Map](https://www.google.com/maps/search/?api=1&query=Fiji) | [Kenya](countries/KE/) (`KE`) · [Map](https://www.google.com/maps/search/?api=1&query=Kenya) | [Madagascar](countries/MG/) (`MG`) · [Map](https://www.google.com/maps/search/?api=1&query=Madagascar) | [Morocco](countries/MA/) (`MA`) · [Map](https://www.google.com/maps/search/?api=1&query=Morocco) |
+| [New Zealand](countries/NZ/) (`NZ`) · [Map](https://www.google.com/maps/search/?api=1&query=New%20Zealand) | [Papua New Guinea](countries/PG/) (`PG`) · [Map](https://www.google.com/maps/search/?api=1&query=Papua%20New%20Guinea) | [Solomon Islands](countries/SB/) (`SB`) · [Map](https://www.google.com/maps/search/?api=1&query=Solomon%20Islands) | [South Africa](countries/ZA/) (`ZA`) · [Map](https://www.google.com/maps/search/?api=1&query=South%20Africa) |
+| [Tanzania](countries/TZ/) (`TZ`) · [Map](https://www.google.com/maps/search/?api=1&query=Tanzania) | [Tunisia](countries/TN/) (`TN`) · [Map](https://www.google.com/maps/search/?api=1&query=Tunisia) | [Uganda](countries/UG/) (`UG`) · [Map](https://www.google.com/maps/search/?api=1&query=Uganda) | [Vanuatu](countries/VU/) (`VU`) · [Map](https://www.google.com/maps/search/?api=1&query=Vanuatu) |
 
 <!-- COUNTRY_DIRECTORY_END -->
 
