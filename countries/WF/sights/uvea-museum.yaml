@@ -1,0 +1,15 @@
+id: sight-wf-uvea-museum
+name: "Uvea Museum Association and guided WWII heritage circuit"
+location:
+  country_code: WF
+  latitude: -13.28
+  longitude: -176.19
+scores:
+  impact: 7.8
+  uniqueness: 8.4
+  significance: 8.8
+  experience: 8.3
+  depth: 8.3
+  categories:
+    history: 8.9
+    culture: 8.4

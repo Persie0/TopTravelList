@@ -1,0 +1,16 @@
+id: sight-wf-mont-puke
+name: "Mont Puke guided mountain trek"
+location:
+  country_code: WF
+  latitude: -14.266
+  longitude: -178.147
+scores:
+  impact: 8.7
+  uniqueness: 8.2
+  significance: 8.0
+  experience: 8.1
+  depth: 8.4
+  categories:
+    nature: 8.7
+    adventure: 8.8
+    photography: 8.8

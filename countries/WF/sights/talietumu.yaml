@@ -1,0 +1,16 @@
+id: sight-wf-talietumu
+name: "Talietumu royal residence and Kolonui fortifications"
+location:
+  country_code: WF
+  latitude: -13.32
+  longitude: -176.216
+scores:
+  impact: 8.5
+  uniqueness: 9.0
+  significance: 9.2
+  experience: 8.2
+  depth: 8.3
+  categories:
+    history: 9.2
+    culture: 9.0
+    architecture: 8.7

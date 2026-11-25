@@ -1,0 +1,14 @@
+id: city-wf-vaitupu
+name: "Vaitupu (Wallis)"
+location:
+  country_code: WF
+  latitude: -13.22639
+  longitude: -176.1875
+scores:
+  impact: 7.2
+  uniqueness: 7.6
+  significance: 7.4
+  experience: 7.4
+  depth: 6.9
+  categories:
+    culture: 7.9

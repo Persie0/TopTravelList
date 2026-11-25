@@ -1,0 +1,16 @@
+id: sight-wf-ono-church
+name: "Ono Church of Our Lady of Seven Sorrows"
+location:
+  country_code: WF
+  latitude: -14.303
+  longitude: -178.121
+scores:
+  impact: 8.0
+  uniqueness: 8.1
+  significance: 8.2
+  experience: 7.7
+  depth: 7.2
+  categories:
+    architecture: 8.4
+    history: 8.2
+    culture: 8.3
