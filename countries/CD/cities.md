@@ -2,7 +2,7 @@
 
 # DR Congo (CD) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**3 ranked** · **5 unassessed** · **8 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,25 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (3)
 
-No cities, towns & villages have been assessed for **DR Congo** yet.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Kinshasa](cities/kinshasa.yaml) | City / town | **83.05** | **Culture 9.0**, **Nightlife 8.5**, **Food 8.4** | 8.0 / 8.5 / 8.6 / 8.0 / 8.6 | [-4.32758, 15.31357](https://www.google.com/maps/search/?api=1&query=-4.32758,15.31357) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kinshasa%2C%20DR%20Congo) |
+| 2 | [Kisangani](cities/kisangani.yaml) | City / town | **77.40** | **Culture 8.2**, **History 8.1** | 7.6 / 8.1 / 7.9 / 7.5 / 7.3 | [0.51528, 25.19099](https://www.google.com/maps/search/?api=1&query=0.51528,25.19099) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kisangani%2C%20DR%20Congo) |
+| 3 | [Lubumbashi](cities/lubumbashi.yaml) | City / town | **76.00** | **History 8.2**, **Culture 8.1** | 7.4 / 7.6 / 7.9 / 7.6 / 7.6 | [-11.66089, 27.47938](https://www.google.com/maps/search/?api=1&query=-11.66089,27.47938) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lubumbashi%2C%20DR%20Congo) |
 
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+## Not yet fully assessed (5)
+
+These destinations have no rank until all five core scores are assessed.
+
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| — | [Boma](cities/boma.yaml) | City / town | **—** | **History 8.5** | 7.2 / 7.8 / 8.2 / — / — | [-5.85098, 13.05364](https://www.google.com/maps/search/?api=1&query=-5.85098,13.05364) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Boma%2C%20DR%20Congo) |
+| — | [Bukavu](cities/bukavu.yaml) | City / town | **—** | **Photography 8.5** | 8.3 / 8.3 / 7.8 / — / — | [-2.49077, 28.84281](https://www.google.com/maps/search/?api=1&query=-2.49077,28.84281) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bukavu%2C%20DR%20Congo) |
+| — | [Goma](cities/goma.yaml) | City / town | **—** | **Photography 8.2** | 7.8 / 8.1 / 7.8 / — / — | [-1.67409, 29.22845](https://www.google.com/maps/search/?api=1&query=-1.67409,29.22845) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Goma%2C%20DR%20Congo) |
+| — | [Matadi](cities/matadi.yaml) | City / town | **—** | **Photography 8.0** | 7.5 / 7.6 / 7.8 / — / — | [-5.83861, 13.46306](https://www.google.com/maps/search/?api=1&query=-5.83861,13.46306) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Matadi%2C%20DR%20Congo) |
+| — | [Mbandaka](cities/mbandaka.yaml) | City / town | **—** | — | — / 7.6 / 7.3 / — / — | [0.04865, 18.26034](https://www.google.com/maps/search/?api=1&query=0.04865,18.26034) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mbandaka%2C%20DR%20Congo) |
 
 ---
 
