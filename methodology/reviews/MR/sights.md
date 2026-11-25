@@ -413,3 +413,32 @@ Worldwide v2; initial inventory, editorial ratings, sources consulted 2026-11-25
 - Final decision: Provisional worldwide editorial rating, not a factual verification.
 - Verification still needed: current local access and per-claim independent source review.
 
+
+## sight-mr-diawling-national-park — Diawling National Park — 2026-11-25
+
+- YAML: [source](../../../countries/MR/sights/diawling-national-park.yaml)
+- Action: new
+- Precise subject: restored lower Senegal River delta wetland on Mauritanian side, excluding Djoudj.
+- Location check: 16.3669, -16.3831, approximate Ramsar reference, not an entrance.
+- Evidence status: **source-linked-unverified**
+- Sources (2026-11-25): [Ramsar](https://www.ramsar.org/news/removal-parc-national-du-diawling-montreux-record) supports restoration history; [park authority](https://www.pnd.mr/excursions/) describes guided wildlife viewing; [KBA](https://www.keybiodiversityareas.org/en/site/factsheet/6643) supports delta location; [Ramsar coordinate listing](https://fr.wikipedia.org/wiki/Liste_des_sites_Ramsar_en_Mauritanie) provides provisional representative point.
+- Missing facts: seasonal wildlife encounter quality and current operation.
+
+### Worldwide peer comparisons
+- Okavango Delta (Botswana): larger and more varied wildlife and landscapes.
+- Djoudj National Bird Sanctuary (Senegal): adjacent comparable delta bird habitat.
+- Suncheon Bay Wetland Reserve (South Korea): comparable wetland observation, stronger established interpretation.
+- Srebarna Nature Reserve (Bulgaria): smaller freshwater bird conservation comparison.
+
+### Scoring decisions
+- Impact: 8.4 — wetland scenery and birds, less dramatic than Okavango.
+- Uniqueness: 8.6 — restored Sahel delta ecosystem, comparable to Djoudj.
+- Significance: 8.8 — international wetland conservation, below globally exceptional flyway sites.
+- Experience: 8.3 — guided observation and seasonal excursions, less extensive facilities than Suncheon.
+- Depth: 8.0 — multiple habitats and birdwatching, narrower than large multi-day wetland destinations.
+- Applicable categories: nature 9.0, wildlife 9.2, photography 8.7.
+- Overall: 84.70/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: provisional rating; access is not guaranteed.
+- Verification still needed: confirm representative location and season-specific visitor experience.
