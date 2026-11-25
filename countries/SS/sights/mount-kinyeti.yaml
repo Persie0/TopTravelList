@@ -1,0 +1,15 @@
+id: sight-ss-mount-kinyeti
+name: "Mount Kinyeti"
+location:
+  country_code: SS
+  latitude: 3.94611
+  longitude: 32.91028
+scores:
+  impact: null
+  uniqueness: 8.4
+  significance: 8.0
+  experience: null
+  depth: null
+  categories:
+    nature: 8.9
+    adventure: 8.8

@@ -1,0 +1,15 @@
+id: sight-sn-wanar-stone-circles
+name: "Wanar Stone Circles"
+location:
+  country_code: SN
+  latitude: 13.856411
+  longitude: -15.617764
+scores:
+  impact: 8.2
+  uniqueness: 8.9
+  significance: 9.1
+  experience: 8.0
+  depth: 7.5
+  categories:
+    history: 9.2
+    culture: 8.8

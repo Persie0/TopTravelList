@@ -1,0 +1,13 @@
+id: city-zw-gweru
+name: "Gweru"
+location:
+  country_code: ZW
+  latitude: -19.45
+  longitude: 29.817
+scores:
+  impact: null
+  uniqueness: 7.2
+  significance: 7.5
+  experience: null
+  depth: null
+  categories: {}

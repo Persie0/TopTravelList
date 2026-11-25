@@ -1,0 +1,16 @@
+id: sight-zm-south-luangwa-national-park
+name: "South Luangwa National Park"
+location:
+  country_code: ZM
+  latitude: -12.8297
+  longitude: 31.6956
+scores:
+  impact: 9.5
+  uniqueness: 9.4
+  significance: 9.5
+  experience: 9.5
+  depth: 9.4
+  categories:
+    nature: 9.5
+    wildlife: 9.7
+    adventure: 9.4

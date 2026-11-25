@@ -1,0 +1,13 @@
+id: city-so-borama
+name: "Borama"
+location:
+  country_code: SO
+  latitude: 9.936
+  longitude: 43.183
+scores:
+  impact: null
+  uniqueness: 7.0
+  significance: 7.2
+  experience: null
+  depth: null
+  categories: {}

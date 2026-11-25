@@ -1,0 +1,16 @@
+id: sight-to-ancient-capitals
+name: "The Ancient Capitals of the Kingdom of Tonga"
+location:
+  country_code: TO
+  latitude: -21.13669
+  longitude: -175.04803
+scores:
+  impact: 8.1
+  uniqueness: 8.9
+  significance: 9.1
+  experience: 7.9
+  depth: 8.3
+  categories:
+    history: 9.2
+    culture: 9.0
+    architecture: 8.8

@@ -1,0 +1,15 @@
+id: sight-so-national-museum-somalia
+name: "National Museum of Somalia"
+location:
+  country_code: SO
+  latitude: 2.04
+  longitude: 45.34
+scores:
+  impact: null
+  uniqueness: 8.1
+  significance: 8.6
+  experience: null
+  depth: null
+  categories:
+    history: 8.8
+    culture: 8.8

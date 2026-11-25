@@ -1,0 +1,15 @@
+id: sight-zw-hwange-national-park
+name: "Hwange National Park"
+location:
+  country_code: ZW
+  latitude: -19.16667
+  longitude: 26.5
+scores:
+  impact: 9.3
+  uniqueness: 9.3
+  significance: 9.4
+  experience: 9.3
+  depth: 9.4
+  categories:
+    nature: 9.4
+    wildlife: 9.7

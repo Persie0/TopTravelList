@@ -1,0 +1,16 @@
+id: city-cm-yaounde
+name: "Yaoundé"
+location:
+  country_code: CM
+  latitude: 3.86667
+  longitude: 11.51667
+scores:
+  impact: 7.7
+  uniqueness: 7.8
+  significance: 8.1
+  experience: 8.0
+  depth: 8.3
+  categories:
+    culture: 8.5
+    food: 8.2
+    history: 8.0

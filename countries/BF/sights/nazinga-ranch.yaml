@@ -1,0 +1,15 @@
+id: sight-bf-nazinga-ranch
+name: "Nazinga Game Ranch"
+location:
+  country_code: BF
+  latitude: 11.15
+  longitude: -1.6
+scores:
+  impact: 8.4
+  uniqueness: 8.4
+  significance: 8.6
+  experience: null
+  depth: null
+  categories:
+    wildlife: 9.0
+    nature: 8.7

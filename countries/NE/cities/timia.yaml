@@ -1,0 +1,15 @@
+id: city-ne-timia
+name: "Timia"
+location:
+  country_code: NE
+  latitude: 18.1
+  longitude: 8.77
+scores:
+  impact: 7.4
+  uniqueness: 8.0
+  significance: 7.2
+  experience: 7.5
+  depth: 6.8
+  categories:
+    culture: 8.0
+    photography: 8.1
