@@ -8,39 +8,39 @@
 
 This is the **complete ranking for this country's available dataset**, using absolute worldwide scores, **not country-relative scores**. Overall scores are out of 100; category scores are out of 10 and shown highest first (the top three are bold). Types are inferred from names, not separately verified.
 
-**Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, or click its GPS coordinates to open **Google Maps**. Locations are approximate representative points, not necessarily entrance coordinates.
+**Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
 ## Complete ranked list (19)
 
-| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps |
-| ---: | --- | --- | ---: | --- | --- | --- |
-| 1 | [Paramaribo](cities/paramaribo.yaml) | City / town | **84.30** | **Culture 9.0**, **Food 8.9**, **Architecture 8.8**, History 8.7 | 8.3 / 8.6 / 8.5 / 8.4 / 8.3 | [5.852, -55.2038](https://www.google.com/maps/search/?api=1&query=5.852,-55.2038) |
-| 2 | [Pikin Slee](cities/pikin-slee.yaml) | City / town | **74.65** | **Culture 8.6**, **History 8.0** | 7.0 / 8.2 / 7.8 / 7.5 / 6.3 | [4.2333, -55.45](https://www.google.com/maps/search/?api=1&query=4.2333,-55.45) |
-| 3 | [Palumeu](cities/palumeu.yaml) | City / town | **73.55** | **Culture 8.3**, **Photography 7.9** | 7.2 / 8.0 / 7.3 / 7.5 / 6.1 | [3.35, -55.4333](https://www.google.com/maps/search/?api=1&query=3.35,-55.4333) |
-| 4 | [Galibi (Christiaankondre and Langamankondre)](cities/galibi-christiaankondre-and-langamankondre.yaml) | City / town | **72.90** | **Culture 8.3**, **Photography 7.7** | 7.0 / 7.9 / 7.3 / 7.5 / 6.3 | [5.7333, -53.9667](https://www.google.com/maps/search/?api=1&query=5.7333,-53.9667) |
-| 5 | [Nieuw Amsterdam](cities/nieuw-amsterdam.yaml) | City / town | **72.30** | **History 8.0**, **Culture 7.6**, **Photography 7.6** | 7.0 / 7.4 / 7.6 / 7.4 / 6.5 | [5.8833, -55.0833](https://www.google.com/maps/search/?api=1&query=5.8833,-55.0833) |
-| 6 | [Moengo](cities/moengo.yaml) | City / town | **72.25** | **Culture 8.2**, **History 7.9** | 6.8 / 7.7 / 7.6 / 7.2 / 6.6 | [5.6, -54.4](https://www.google.com/maps/search/?api=1&query=5.6,-54.4) |
-| 7 | [Botopasi](cities/botopasi.yaml) | City / town | **71.70** | **Culture 8.2**, **Photography 7.5** | 6.9 / 7.8 / 7.2 / 7.4 / 6.0 | [4.2, -55.45](https://www.google.com/maps/search/?api=1&query=4.2,-55.45) |
-| 8 | [Nieuw Nickerie](cities/nieuw-nickerie.yaml) | City / town | **67.90** | **Culture 7.4**, **Food 7.4** | 6.5 / 7.0 / 6.7 / 7.2 / 6.7 | [5.9333, -56.9833](https://www.google.com/maps/search/?api=1&query=5.9333,-56.9833) |
-| 9 | [Groningen](cities/groningen.yaml) | City / town | **67.85** | **History 7.6**, **Culture 7.3** | 6.5 / 7.0 / 7.2 / 6.9 / 6.1 | [5.8, -55.4667](https://www.google.com/maps/search/?api=1&query=5.8,-55.4667) |
-| 10 | [Brownsweg](cities/brownsweg.yaml) | City / town | **67.05** | **Culture 7.6**, **Photography 7.1** | 6.4 / 7.2 / 6.8 / 6.9 / 5.9 | [5.0167, -55.1667](https://www.google.com/maps/search/?api=1&query=5.0167,-55.1667) |
-| 11 | [Domburg](cities/domburg.yaml) | City / town | **66.75** | **Relaxation 7.6**, **Food 7.5** | 6.6 / 6.8 / 6.4 / 7.3 / 6.2 | [5.7, -55.0833](https://www.google.com/maps/search/?api=1&query=5.7,-55.0833) |
-| 12 | [Albina](cities/albina.yaml) | City / town | **66.55** | **Culture 7.3**, **Photography 7.2** | 6.5 / 6.9 / 6.7 / 6.8 / 6.2 | [5.5, -54.05](https://www.google.com/maps/search/?api=1&query=5.5,-54.05) |
-| 13 | [Totness](cities/totness.yaml) | City / town | **64.95** | **Culture 7.3**, **Photography 7.1** | 6.3 / 6.9 / 6.5 / 6.6 / 5.9 | [5.8833, -56.3167](https://www.google.com/maps/search/?api=1&query=5.8833,-56.3167) |
-| 14 | [Brokopondo](cities/brokopondo.yaml) | City / town | **64.85** | **Photography 7.2**, **Culture 7.1** | 6.3 / 6.8 / 6.5 / 6.7 / 5.9 | [5.0667, -54.9667](https://www.google.com/maps/search/?api=1&query=5.0667,-54.9667) |
-| 15 | [Wageningen](cities/wageningen.yaml) | City / town | **63.50** | **History 7.1**, **Culture 6.8** | 6.0 / 6.6 / 6.8 / 6.4 / 5.8 | [5.7667, -56.6833](https://www.google.com/maps/search/?api=1&query=5.7667,-56.6833) |
-| 16 | [Meerzorg](cities/meerzorg.yaml) | City / town | **62.90** | **Food 7.2**, **Culture 7.0** | 6.0 / 6.4 / 6.2 / 6.8 / 6.3 | [5.8167, -55.1667](https://www.google.com/maps/search/?api=1&query=5.8167,-55.1667) |
-| 17 | [Lelydorp](cities/lelydorp.yaml) | City / town | **62.00** | **Food 7.1**, **Culture 6.9** | 5.9 / 6.3 / 6.1 / 6.7 / 6.3 | [5.7, -55.2333](https://www.google.com/maps/search/?api=1&query=5.7,-55.2333) |
-| 18 | [Onverwacht](cities/onverwacht.yaml) | City / town | **60.70** | **Culture 6.8**, **History 6.5** | 5.8 / 6.3 / 6.2 / 6.3 / 5.7 | [5.5833, -55.1833](https://www.google.com/maps/search/?api=1&query=5.5833,-55.1833) |
-| 19 | [Zanderij](cities/zanderij.yaml) | City / town | **58.25** | **Culture 6.5** | 5.6 / 5.9 / 6.1 / 6.0 / 5.5 | [5.45, -55.2](https://www.google.com/maps/search/?api=1&query=5.45,-55.2) |
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Paramaribo](cities/paramaribo.yaml) | City / town | **84.30** | **Culture 9.0**, **Food 8.9**, **Architecture 8.8**, History 8.7 | 8.3 / 8.6 / 8.5 / 8.4 / 8.3 | [5.852, -55.2038](https://www.google.com/maps/search/?api=1&query=5.852,-55.2038) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Paramaribo%2C%20Suriname) |
+| 2 | [Pikin Slee](cities/pikin-slee.yaml) | City / town | **74.65** | **Culture 8.6**, **History 8.0** | 7.0 / 8.2 / 7.8 / 7.5 / 6.3 | [4.2333, -55.45](https://www.google.com/maps/search/?api=1&query=4.2333,-55.45) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Pikin%20Slee%2C%20Suriname) |
+| 3 | [Palumeu](cities/palumeu.yaml) | City / town | **73.55** | **Culture 8.3**, **Photography 7.9** | 7.2 / 8.0 / 7.3 / 7.5 / 6.1 | [3.35, -55.4333](https://www.google.com/maps/search/?api=1&query=3.35,-55.4333) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Palumeu%2C%20Suriname) |
+| 4 | [Galibi (Christiaankondre and Langamankondre)](cities/galibi-christiaankondre-and-langamankondre.yaml) | City / town | **72.90** | **Culture 8.3**, **Photography 7.7** | 7.0 / 7.9 / 7.3 / 7.5 / 6.3 | [5.7333, -53.9667](https://www.google.com/maps/search/?api=1&query=5.7333,-53.9667) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Galibi%20%28Christiaankondre%20and%20Langamankondre%29%2C%20Suriname) |
+| 5 | [Nieuw Amsterdam](cities/nieuw-amsterdam.yaml) | City / town | **72.30** | **History 8.0**, **Culture 7.6**, **Photography 7.6** | 7.0 / 7.4 / 7.6 / 7.4 / 6.5 | [5.8833, -55.0833](https://www.google.com/maps/search/?api=1&query=5.8833,-55.0833) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nieuw%20Amsterdam%2C%20Suriname) |
+| 6 | [Moengo](cities/moengo.yaml) | City / town | **72.25** | **Culture 8.2**, **History 7.9** | 6.8 / 7.7 / 7.6 / 7.2 / 6.6 | [5.6, -54.4](https://www.google.com/maps/search/?api=1&query=5.6,-54.4) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Moengo%2C%20Suriname) |
+| 7 | [Botopasi](cities/botopasi.yaml) | City / town | **71.70** | **Culture 8.2**, **Photography 7.5** | 6.9 / 7.8 / 7.2 / 7.4 / 6.0 | [4.2, -55.45](https://www.google.com/maps/search/?api=1&query=4.2,-55.45) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Botopasi%2C%20Suriname) |
+| 8 | [Nieuw Nickerie](cities/nieuw-nickerie.yaml) | City / town | **67.90** | **Culture 7.4**, **Food 7.4** | 6.5 / 7.0 / 6.7 / 7.2 / 6.7 | [5.9333, -56.9833](https://www.google.com/maps/search/?api=1&query=5.9333,-56.9833) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nieuw%20Nickerie%2C%20Suriname) |
+| 9 | [Groningen](cities/groningen.yaml) | City / town | **67.85** | **History 7.6**, **Culture 7.3** | 6.5 / 7.0 / 7.2 / 6.9 / 6.1 | [5.8, -55.4667](https://www.google.com/maps/search/?api=1&query=5.8,-55.4667) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Groningen%2C%20Suriname) |
+| 10 | [Brownsweg](cities/brownsweg.yaml) | City / town | **67.05** | **Culture 7.6**, **Photography 7.1** | 6.4 / 7.2 / 6.8 / 6.9 / 5.9 | [5.0167, -55.1667](https://www.google.com/maps/search/?api=1&query=5.0167,-55.1667) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Brownsweg%2C%20Suriname) |
+| 11 | [Domburg](cities/domburg.yaml) | City / town | **66.75** | **Relaxation 7.6**, **Food 7.5** | 6.6 / 6.8 / 6.4 / 7.3 / 6.2 | [5.7, -55.0833](https://www.google.com/maps/search/?api=1&query=5.7,-55.0833) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Domburg%2C%20Suriname) |
+| 12 | [Albina](cities/albina.yaml) | City / town | **66.55** | **Culture 7.3**, **Photography 7.2** | 6.5 / 6.9 / 6.7 / 6.8 / 6.2 | [5.5, -54.05](https://www.google.com/maps/search/?api=1&query=5.5,-54.05) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Albina%2C%20Suriname) |
+| 13 | [Totness](cities/totness.yaml) | City / town | **64.95** | **Culture 7.3**, **Photography 7.1** | 6.3 / 6.9 / 6.5 / 6.6 / 5.9 | [5.8833, -56.3167](https://www.google.com/maps/search/?api=1&query=5.8833,-56.3167) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Totness%2C%20Suriname) |
+| 14 | [Brokopondo](cities/brokopondo.yaml) | City / town | **64.85** | **Photography 7.2**, **Culture 7.1** | 6.3 / 6.8 / 6.5 / 6.7 / 5.9 | [5.0667, -54.9667](https://www.google.com/maps/search/?api=1&query=5.0667,-54.9667) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Brokopondo%2C%20Suriname) |
+| 15 | [Wageningen](cities/wageningen.yaml) | City / town | **63.50** | **History 7.1**, **Culture 6.8** | 6.0 / 6.6 / 6.8 / 6.4 / 5.8 | [5.7667, -56.6833](https://www.google.com/maps/search/?api=1&query=5.7667,-56.6833) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Wageningen%2C%20Suriname) |
+| 16 | [Meerzorg](cities/meerzorg.yaml) | City / town | **62.90** | **Food 7.2**, **Culture 7.0** | 6.0 / 6.4 / 6.2 / 6.8 / 6.3 | [5.8167, -55.1667](https://www.google.com/maps/search/?api=1&query=5.8167,-55.1667) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Meerzorg%2C%20Suriname) |
+| 17 | [Lelydorp](cities/lelydorp.yaml) | City / town | **62.00** | **Food 7.1**, **Culture 6.9** | 5.9 / 6.3 / 6.1 / 6.7 / 6.3 | [5.7, -55.2333](https://www.google.com/maps/search/?api=1&query=5.7,-55.2333) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lelydorp%2C%20Suriname) |
+| 18 | [Onverwacht](cities/onverwacht.yaml) | City / town | **60.70** | **Culture 6.8**, **History 6.5** | 5.8 / 6.3 / 6.2 / 6.3 / 5.7 | [5.5833, -55.1833](https://www.google.com/maps/search/?api=1&query=5.5833,-55.1833) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Onverwacht%2C%20Suriname) |
+| 19 | [Zanderij](cities/zanderij.yaml) | City / town | **58.25** | **Culture 6.5** | 5.6 / 5.9 / 6.1 / 6.0 / 5.5 | [5.45, -55.2](https://www.google.com/maps/search/?api=1&query=5.45,-55.2) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Zanderij%2C%20Suriname) |
 
 ## Not yet fully assessed (1)
 
 These destinations have no rank until all five core scores are assessed.
 
-| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps |
-| ---: | --- | --- | ---: | --- | --- | --- |
-| — | [Kwamalasamutu](cities/kwamalasamutu.yaml) | City / town | **—** | **Culture 8.2** | — / 8.0 / 7.5 / — / — | [2.35, -56.8](https://www.google.com/maps/search/?api=1&query=2.35,-56.8) |
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| — | [Kwamalasamutu](cities/kwamalasamutu.yaml) | City / town | **—** | **Culture 8.2** | — / 8.0 / 7.5 / — / — | [2.35, -56.8](https://www.google.com/maps/search/?api=1&query=2.35,-56.8) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kwamalasamutu%2C%20Suriname) |
 
 ---
 
