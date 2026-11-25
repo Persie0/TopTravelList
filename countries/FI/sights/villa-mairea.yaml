@@ -1,0 +1,15 @@
+id: sight-fi-villa-mairea
+name: "Villa Mairea, Pori"
+location:
+  country_code: FI
+  latitude: 61.597409
+  longitude: 21.874582
+scores:
+  impact: 8.8
+  uniqueness: 9.3
+  significance: 9.3
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.4
+    history: 9.3

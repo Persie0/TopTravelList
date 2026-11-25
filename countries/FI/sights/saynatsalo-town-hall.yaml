@@ -1,0 +1,15 @@
+id: sight-fi-saynatsalo-town-hall
+name: "Säynätsalo Town Hall"
+location:
+  country_code: FI
+  latitude: 62.140205
+  longitude: 25.769108
+scores:
+  impact: 8.7
+  uniqueness: 9.1
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.3
+    history: 9.2

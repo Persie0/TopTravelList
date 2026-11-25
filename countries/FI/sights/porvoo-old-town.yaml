@@ -1,0 +1,16 @@
+id: sight-fi-porvoo-old-town
+name: "Old Porvoo"
+location:
+  country_code: FI
+  latitude: 60.398
+  longitude: 25.658
+scores:
+  impact: 8.7
+  uniqueness: 8.7
+  significance: 8.6
+  experience: 8.7
+  depth: 8.1
+  categories:
+    architecture: 9.1
+    photography: 9.2
+    history: 8.8

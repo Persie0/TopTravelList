@@ -1,0 +1,15 @@
+id: sight-fi-finlandia-hall
+name: "Finlandia Hall, Helsinki"
+location:
+  country_code: FI
+  latitude: 60.176093
+  longitude: 24.933393
+scores:
+  impact: 8.5
+  uniqueness: 8.7
+  significance: 8.9
+  experience: null
+  depth: null
+  categories:
+    architecture: 8.9
+    history: 8.9

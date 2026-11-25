@@ -1,0 +1,14 @@
+id: sight-fi-mustaviiri-struve-station
+name: "Mustaviiri (SVARTVIRA) Struve Geodetic Arc Station"
+location:
+  country_code: FI
+  latitude: 60.276389
+  longitude: 26.603333
+scores:
+  impact: 6.8
+  uniqueness: 8.1
+  significance: 8.6
+  experience: null
+  depth: null
+  categories:
+    history: 8.6

@@ -1,0 +1,14 @@
+id: sight-fi-aavasaksa-struve-station
+name: "Aavasaksa (AVASAKSA) Struve Geodetic Arc Station"
+location:
+  country_code: FI
+  latitude: 66.397778
+  longitude: 23.725278
+scores:
+  impact: 6.8
+  uniqueness: 8.1
+  significance: 8.6
+  experience: null
+  depth: null
+  categories:
+    history: 8.6

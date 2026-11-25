@@ -1,0 +1,14 @@
+id: sight-fi-stuorrahanoaivi-struve-station
+name: "Stuorrahanoaivi (STUOR-OIVI) Struve Geodetic Arc Station"
+location:
+  country_code: FI
+  latitude: 68.6825
+  longitude: 22.745833
+scores:
+  impact: 6.8
+  uniqueness: 8.1
+  significance: 8.6
+  experience: null
+  depth: null
+  categories:
+    history: 8.6

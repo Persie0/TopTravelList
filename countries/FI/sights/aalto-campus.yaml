@@ -1,0 +1,15 @@
+id: sight-fi-aalto-campus
+name: "Aalto Campus, Jyväskylä"
+location:
+  country_code: FI
+  latitude: 62.236018
+  longitude: 25.730178
+scores:
+  impact: 8.3
+  uniqueness: 8.7
+  significance: 8.9
+  experience: null
+  depth: null
+  categories:
+    architecture: 8.9
+    history: 8.9

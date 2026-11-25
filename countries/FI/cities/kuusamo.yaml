@@ -1,0 +1,15 @@
+id: city-fi-kuusamo
+name: "Kuusamo"
+location:
+  country_code: FI
+  latitude: 65.964
+  longitude: 29.187
+scores:
+  impact: 7.2
+  uniqueness: 7.5
+  significance: 7.1
+  experience: 8.0
+  depth: 7.3
+  categories:
+    adventure: 8.2
+    relaxation: 8
