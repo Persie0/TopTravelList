@@ -1,0 +1,15 @@
+id: sight-sm-montale-tunnel-and-historic-train
+name: "Montale Tunnel and Historic Train"
+location:
+  country_code: SM
+  latitude: 43.9307
+  longitude: 12.4500
+scores:
+  impact: 7.8
+  uniqueness: 8.4
+  significance: 8.2
+  experience: 8.0
+  depth: 7.5
+  categories:
+    history: 8.7
+    culture: 8.4

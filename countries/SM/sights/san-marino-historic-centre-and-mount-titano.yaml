@@ -1,0 +1,16 @@
+id: sight-sm-san-marino-historic-centre-and-mount-titano
+name: "San Marino Historic Centre and Mount Titano"
+location:
+  country_code: SM
+  latitude: 43.932778
+  longitude: 12.451944
+scores:
+  impact: 9.1
+  uniqueness: 9.2
+  significance: 9.2
+  experience: 9.0
+  depth: 8.6
+  categories:
+    history: 9.4
+    architecture: 9.4
+    photography: 9.4
