@@ -1,0 +1,16 @@
+id: sight-mw-vwaza-marsh-wildlife-reserve
+name: "Vwaza Marsh Wildlife Reserve"
+location:
+  country_code: MW
+  latitude: -11.02
+  longitude: 33.42
+scores:
+  impact: 8.1
+  uniqueness: 8.4
+  significance: 8.2
+  experience: 8.2
+  depth: 7.7
+  categories:
+    nature: 8.7
+    wildlife: 9.1
+    photography: 8.4

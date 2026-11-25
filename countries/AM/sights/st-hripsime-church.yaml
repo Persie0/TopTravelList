@@ -1,0 +1,15 @@
+id: sight-am-st-hripsime-church
+name: "St Hripsime Church"
+location:
+  country_code: AM
+  latitude: 40.167
+  longitude: 44.309
+scores:
+  impact: 8.4
+  uniqueness: 9.0
+  significance: 9.2
+  experience: 8.4
+  depth: 6.8
+  categories:
+    architecture: 9.4
+    history: 9.3
