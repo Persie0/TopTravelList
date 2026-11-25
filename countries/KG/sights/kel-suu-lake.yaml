@@ -2,8 +2,8 @@ id: sight-kg-kel-suu-lake
 name: "Kel-Suu Lake"
 location:
   country_code: KG
-  latitude: 40.68
-  longitude: 76.43
+  latitude: 40.643057
+  longitude: 76.394862
 scores:
   impact: 9.5
   uniqueness: 9.4

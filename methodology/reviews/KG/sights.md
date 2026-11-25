@@ -8,23 +8,24 @@
 - Scope: individual high alpine lake and immediate viewing slopes. GPS 42.3175, 78.53556: encyclopedia reference coordinate, independent confirmation pending.
 - Worldwide peers (I/U/S/E/D):
   - [Gokyo Lakes (NP)](../../../countries/NP/sights/gokyo-lakes.yaml) — 9.5 / 9.5 / 9.1 / 9.2 / 9.0 (93.25/100); upper reference; Ala-Kul Lake has lower provisional uniqueness and lower depth (rare dramatic high-altitude lake setting; one lake basin rather than whole trek).
-  - [Heavenly Lake of Tianshan (CN)](../../../countries/CN/sights/heavenly-lake-tianshan.yaml) — 8.8 / 8.9 / 8.5 / 8.9 / 8.0 (87.00/100); related comparator; Ala-Kul Lake has higher provisional uniqueness and higher depth (rare dramatic high-altitude lake setting; one lake basin rather than whole trek).
+  - [Heavenly Lake of Tianshan (CN)](../../../countries/CN/sights/heavenly-lake-tianshan.yaml) — 8.8 / 8.9 / 8.5 / 8.9 / 8.0 (87.00/100); related comparator; Ala-Kul Lake has higher provisional uniqueness and equal depth (rare dramatic high-altitude lake setting; one lake basin rather than whole trek).
   - [Phoksundo Lake (NP)](../../../countries/NP/sights/phoksundo-lake.yaml) — 9.4 / 9.4 / 8.8 / 9.0 / 8.7 (91.50/100); related comparator; Ala-Kul Lake has lower provisional uniqueness and lower depth (rare dramatic high-altitude lake setting; one lake basin rather than whole trek).
-  - [Dead Sea (Jordanian shore) (JO)](../../../countries/JO/sights/dead-sea-jordanian-shore.yaml) — 9.1 / 9.7 / 9.2 / 9.1 / 8.4 (92.00/100); regional or bounded reference; Ala-Kul Lake has lower provisional uniqueness and higher depth (rare dramatic high-altitude lake setting; one lake basin rather than whole trek).
+  - [Dead Sea (Jordanian shore) (JO)](../../../countries/JO/sights/dead-sea-jordanian-shore.yaml) — 9.1 / 9.7 / 9.2 / 9.1 / 8.4 (92.00/100); regional or bounded reference; Ala-Kul Lake has lower provisional uniqueness and lower depth (rare dramatic high-altitude lake setting; one lake basin rather than whole trek).
 - Impact 9.5: striking turquoise lake below rocky peaks.
 - Uniqueness 9.3: rare dramatic high-altitude lake setting.
 - Significance 8.3: regional geomorphology.
 - Experience 9.2: rewarding permitted trekking views.
-- Depth 8.6: one lake basin rather than whole trek.
-- Categories: nature:9.5, photography:9.6, adventure:9.4. Overall: 90.75/100.
-- High-score challenge: Impact, nature and photography 9.5+ reflect the exceptional close lake-and-peak composition. Gokyo Lakes offers greater multi-lake breadth and cultural context, so depth and significance are lower.. No approved 10.
+- Depth 8.0: one alpine lake and its immediate viewing slopes; exclude the broader multiday Karakol–Altyn Arashan trek.
+- Categories: nature:9.5, photography:9.6, adventure:9.4. Overall: 90.15/100.
+- High-score challenge: Impact 9.5, nature 9.5 and photography 9.6 remain provisional for the lake-and-peak composition. Gokyo Lakes has wider multi-lake scope (depth 9.0), Phoksundo 8.7 and Heavenly Lake 8.0; the bounded Ala-Kul scope does not inherit the entire trek's depth. No approved 10.
 - Evidence: [Source](https://en.wikipedia.org/wiki/Ala-K%C3%B6l) — Encyclopedia excerpt, lake identity and reference coordinate; not independent primary confirmation; accessed as page or excerpt 2026-11-25; not complete factual verification.
 - Remaining gaps: Independent factual, category, GPS (unless published reference point) and specialist peer verification.
+- Follow-up 2026-11-25: https://oxusroad.com/en/itineraries/kyrgyzstan-trekking-guide/ identifies the multi-day lake-and-pass itinerary and seasonal access. It supports the bounded lake-versus-trek distinction, not full independent factual verification. Gokyo, Phoksundo and Heavenly Lake live YAML values checked.
 
 ## sight-kg-kel-suu-lake — Kel-Suu Lake — 2026-11-25
 
 - [YAML](../../../countries/KG/sights/kel-suu-lake.yaml) · Action: new · **source-linked-unverified**.
-- Scope: lake and immediate cliff-walled basin. GPS 40.68, 76.43: approximate editorial point; independent verification pending.
+- Scope: lake and immediate cliff-walled basin. GPS 40.643057, 76.394862: GeoNames named-lake point; approximate representative coordinate, not an entrance.
 - Worldwide peers (I/U/S/E/D):
   - [Gokyo Lakes (NP)](../../../countries/NP/sights/gokyo-lakes.yaml) — 9.5 / 9.5 / 9.1 / 9.2 / 9.0 (93.25/100); upper reference; Kel-Suu Lake has lower provisional uniqueness and lower depth (distinct high-altitude canyon-lake setting; single basin).
   - [Heavenly Lake of Tianshan (CN)](../../../countries/CN/sights/heavenly-lake-tianshan.yaml) — 8.8 / 8.9 / 8.5 / 8.9 / 8.0 (87.00/100); related comparator; Kel-Suu Lake has higher provisional uniqueness and higher depth (distinct high-altitude canyon-lake setting; single basin).
@@ -33,12 +34,13 @@
 - Impact 9.5: dramatic narrow turquoise waters enclosed by steep cliffs.
 - Uniqueness 9.4: distinct high-altitude canyon-lake setting.
 - Significance 8.2: regional geology.
-- Experience 9.0: permitted views when water and weather allow.
+- Experience 9.0: permitted lake views in favorable water and weather conditions; border-zone clearance required, no guaranteed water level.
 - Depth 8.3: single basin.
 - Categories: nature:9.5, photography:9.6, adventure:9.1. Overall: 90.20/100.
 - High-score challenge: Impact, nature and photography 9.5+ reflect vertical enclosing cliffs and water contrast, not a guarantee of water level. Lower breadth and significance than Gokyo Lakes; permit and season are uncertainties.. No approved 10.
 - Evidence: [Source](https://www.visitkyrgyzstan.org/destinations/) — Visit Kyrgyzstan destination directory, named-place identity and broad visitor context; not all individual features verified; accessed as page or excerpt 2026-11-25; not complete factual verification.
 - Remaining gaps: Independent factual, category, GPS (unless published reference point) and specialist peer verification.
+- Follow-up 2026-11-25: GeoNames named lake (https://www.geonames.org/search.html?country=KG&q=Kirgizsko&startRow=300) and KyrgyzMap (https://kyrgyzmap.com/place/kel-suu/) agree on the representative lake position. https://visitkyrgyzstan.org/destinations/kel-suu/ documents date/route-specific frontier clearance; https://travel.borboru.kg/en/places/kel-suu/ notes variable or disappearing water. Preserve conditional visitor rating, not guaranteed scenery or admission. Sources have differing representative points; no entrance certification.
 
 ## sight-kg-song-kul-lake-and-pastoral-shore — Song-Kul Lake and Pastoral Shore — 2026-11-25
 
@@ -66,17 +68,19 @@
 - Worldwide peers (I/U/S/E/D):
   - [Sagarmatha National Park (NP)](../../../countries/NP/sights/sagarmatha-national-park.yaml) — 9.9 / 9.9 / 9.8 / 9.6 / 9.7 (98.15/100); upper reference; Sary-Chelek Biosphere Nature Reserve has lower provisional uniqueness and lower depth (distinct walnut-fruit forest and lake ecosystems; several habitats and lakes).
   - [Yading Nature Reserve (CN)](../../../countries/CN/sights/yading-nature-reserve.yaml) — 9.5 / 9.5 / 9.1 / 9.2 / 9.5 (93.75/100); related comparator; Sary-Chelek Biosphere Nature Reserve has lower provisional uniqueness and lower depth (distinct walnut-fruit forest and lake ecosystems; several habitats and lakes).
-  - [Dana Biosphere Reserve (JO)](../../../countries/JO/sights/dana-biosphere-reserve.yaml) — 9.0 / 8.8 / 8.9 / 9.0 / 9.1 (89.40/100); related comparator; Sary-Chelek Biosphere Nature Reserve has higher provisional uniqueness and equal depth (distinct walnut-fruit forest and lake ecosystems; several habitats and lakes).
-  - [Jebel Akhdar Mountain Landscape (OM)](../../../countries/OM/sights/jebel-akhdar-mountain-landscape.yaml) — 9.1 / 8.8 / 8.3 / 9.0 / 9.0 (88.40/100); regional or bounded reference; Sary-Chelek Biosphere Nature Reserve has higher provisional uniqueness and higher depth (distinct walnut-fruit forest and lake ecosystems; several habitats and lakes).
+  - [Dana Biosphere Reserve (JO)](../../../countries/JO/sights/dana-biosphere-reserve.yaml) — 9.0 / 8.8 / 8.9 / 9.0 / 9.1 (89.40/100); related comparator; Sary-Chelek Biosphere Nature Reserve has higher provisional uniqueness and lower depth (distinct walnut-fruit forest and lake ecosystems; several habitats and lakes).
+  - [Jebel Akhdar Mountain Landscape (OM)](../../../countries/OM/sights/jebel-akhdar-mountain-landscape.yaml) — 9.1 / 8.8 / 8.3 / 9.0 / 9.0 (88.40/100); regional or bounded reference; Sary-Chelek Biosphere Nature Reserve has higher provisional uniqueness and lower depth (distinct walnut-fruit forest and lake ecosystems; several habitats and lakes).
 - Impact 9.1: forested steep mountains and lakes.
 - Uniqueness 9.1: distinct walnut-fruit forest and lake ecosystems.
 - Significance 9.3: international biodiversity significance.
 - Experience 8.7: permitted lake and forest routes.
-- Depth 9.1: several habitats and lakes.
-- Categories: nature:9.4, photography:9.3, wildlife:9.1, adventure:8.8. Overall: 90.80/100.
-- High-score challenge: Overall above 90 reflects ecosystem diversity and multi-lake depth; below Sagarmatha in high-mountain scale and below Jiuzhaigou in concentrated water color variation.. No approved 10.
+- Depth 8.5: permitted main-lake shore and marked multi-lake paths; strictly protected core and unrestricted forest exploration excluded.
+- Categories: nature:9.4, photography:9.3, wildlife:9.1, adventure:8.8. Overall: 90.20/100.
+- High-score challenge: 90.20 reflects protected ecosystem significance and documented scenic routes, not unrestricted reserve-wide depth. Dana has 9.1 depth; Sary-Chelek's documented permitted subset is narrower. No approved 10.
 - Evidence: [Source](https://whc.unesco.org/en/list/1490/maps/) — UNESCO component map, component identity and representative coordinate; not visitor routes; accessed as page or excerpt 2026-11-25; not complete factual verification.
 - Remaining gaps: Independent factual, category, GPS (unless published reference point) and specialist peer verification.
+- Follow-up 2026-11-25: https://www.lonelyplanet.com/articles/best-hikes-in-kyrgyzstan describes multi-lake hiking; https://ilovekg.com/en/lakes/sarychelek/ distinguishes permitted southern shore and open trails; https://www.thisis-kyrgyzstan.com/guides/national-parks-kyrgyzstan describes the restricted core. Existing depth reduction retained; not a guarantee of all routes being open.
+- Coordinate follow-up: current UNESCO component table https://whc.unesco.org/en/list/1490/maps/ matches the stored DMS conversion within rounding tolerance. Representative point only, not verified entrance.
 
 ## sight-kg-issyk-kul-lake — Issyk-Kul Lake — 2026-11-25
 
@@ -153,6 +157,7 @@
 - High-score challenge: Photography 9.5 reflects mountain scale and glacier relief; below Sagarmatha in diversity and global mountaineering history. Does not assume a summit attempt.. No approved 10.
 - Evidence: [Source](https://www.visitkyrgyzstan.org/destinations/) — Visit Kyrgyzstan destination directory, named-place identity and broad visitor context; not all individual features verified; accessed as page or excerpt 2026-11-25; not complete factual verification.
 - Remaining gaps: Independent factual, category, GPS (unless published reference point) and specialist peer verification.
+- Follow-up 2026-11-25: https://www.thisis-kyrgyzstan.com/guides/peak-lenin-base-camp-trek describes Achik-Tash and Tulpar-Kol foothill visits, not a summit climb. Keep the Kyrgyz-facing scope and do not count the Tajik-facing side or imply unrestricted border access. Independent category and depth comparison still needed.
 
 ## sight-kg-jeti-oguz-gorge — Jeti-Oguz Gorge — 2026-11-25
 
@@ -305,6 +310,7 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Source](https://whc.unesco.org/en/list/1442/maps/) — UNESCO serial property map, names and component reference points; visitor scope provisional; accessed as page or excerpt 2026-11-25; not complete factual verification.
 - Remaining gaps: Independent factual, category, GPS (unless published reference point) and specialist peer verification.
+- Coordinate follow-up: current UNESCO component table https://whc.unesco.org/en/list/1442/maps/ matches the stored DMS conversion within rounding tolerance. Representative point only, not verified entrance.
 
 ## sight-kg-ak-beshim-suyab — Ak-Beshim (Suyab) — 2026-11-25
 
@@ -324,6 +330,7 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Source](https://whc.unesco.org/en/list/1442/maps/) — UNESCO serial property map, names and component reference points; visitor scope provisional; accessed as page or excerpt 2026-11-25; not complete factual verification.
 - Remaining gaps: Independent factual, category, GPS (unless published reference point) and specialist peer verification.
+- Coordinate follow-up: current UNESCO component table https://whc.unesco.org/en/list/1442/maps/ matches the stored DMS conversion within rounding tolerance. Representative point only, not verified entrance.
 
 ## sight-kg-krasnaya-rechka-nevaket — Krasnaya Rechka (Nevaket) — 2026-11-25
 
@@ -343,6 +350,7 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Source](https://whc.unesco.org/en/list/1442/maps/) — UNESCO serial property map, names and component reference points; visitor scope provisional; accessed as page or excerpt 2026-11-25; not complete factual verification.
 - Remaining gaps: Confirm normal permitted visitor routes and interpretation before completing scores.
+- Coordinate follow-up: current UNESCO component table https://whc.unesco.org/en/list/1442/maps/ matches the stored DMS conversion within rounding tolerance. Representative point only, not verified entrance.
 
 ## sight-kg-besh-aral-nature-reserve-main-part — Besh-Aral Nature Reserve (Main Part) — 2026-11-25
 
@@ -362,6 +370,7 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Source](https://whc.unesco.org/en/list/1490/maps/) — UNESCO component map, component identity and representative coordinate; not visitor routes; accessed as page or excerpt 2026-11-25; not complete factual verification.
 - Remaining gaps: Confirm normal permitted visitor routes and interpretation before completing scores.
+- Coordinate follow-up: current UNESCO component table https://whc.unesco.org/en/list/1490/maps/ matches the stored DMS conversion within rounding tolerance. Representative point only, not verified entrance.
 
 ## sight-kg-besh-aral-nature-reserve-shandalash-area — Besh-Aral Nature Reserve (Shandalash Area) — 2026-11-25
 
@@ -381,6 +390,7 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Source](https://whc.unesco.org/en/list/1490/maps/) — UNESCO component map, component identity and representative coordinate; not visitor routes; accessed as page or excerpt 2026-11-25; not complete factual verification.
 - Remaining gaps: Confirm normal permitted visitor routes and interpretation before completing scores.
+- Coordinate follow-up: current UNESCO component table https://whc.unesco.org/en/list/1490/maps/ matches the stored DMS conversion within rounding tolerance. Representative point only, not verified entrance.
 
 ## sight-kg-padysha-ata-nature-reserve — Padysha-Ata Nature Reserve — 2026-11-25
 
@@ -400,6 +410,7 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Source](https://whc.unesco.org/en/list/1490/maps/) — UNESCO component map, component identity and representative coordinate; not visitor routes; accessed as page or excerpt 2026-11-25; not complete factual verification.
 - Remaining gaps: Confirm normal permitted visitor routes and interpretation before completing scores.
+- Coordinate follow-up: current UNESCO component table https://whc.unesco.org/en/list/1490/maps/ matches the stored DMS conversion within rounding tolerance. Representative point only, not verified entrance.
 
 ## sight-kg-saimaly-tash-petroglyphs — Saimaly-Tash Petroglyphs — 2026-11-25
 
@@ -457,6 +468,7 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Source](https://whc.unesco.org/en/tentativelists/6793) — UNESCO tentative nomination, component names and coordinates; 2026 examination deferred per https://whc.unesco.org/en/decisions/9175/; accessed as page or excerpt 2026-11-25; not complete factual verification.
 - Remaining gaps: Confirm normal permitted visitor routes and interpretation before completing scores.
+- Follow-up 2026-11-25: https://whc.unesco.org/en/decisions/9175/ and https://whc.unesco.org/en/statesparties/kg checked; the nomination remains tentative, not inscribed. Keep uncertain visitor dimensions null.
 
 ## sight-kg-uzgen-archaeological-and-architectural-complex — Uzgen Archaeological and Architectural Complex — 2026-11-25
 
