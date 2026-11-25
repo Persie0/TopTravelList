@@ -25,11 +25,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 9.4 | Classical ruins interwoven with modern streets |
-| uniqueness | — | 9.5 | Distinct ancient democratic and modern capital identity |
-| significance | — | 9.8 | International classical political and artistic heritage |
-| experience | — | 9.1 | Major museums markets and urban walks |
-| depth | — | 9.5 | Multiple independent districts excluding Cape Sounion |
+| Impact | — | 9.4 | Classical ruins interwoven with modern streets |
+| Uniqueness | — | 9.5 | Distinct ancient democratic and modern capital identity |
+| Significance | — | 9.8 | International classical political and artistic heritage |
+| Experience | — | 9.1 | Major museums markets and urban walks |
+| Depth | — | 9.5 | Multiple independent districts excluding Cape Sounion |
 
 - Applicable category scores: history: 9.8, architecture: 9.5, culture: 9.5, food: 9.2.
 - Computed worldwide overall: 94.70/100.
@@ -61,11 +61,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.8 | Waterfront and layered Byzantine streets |
-| uniqueness | — | 8.9 | Distinct Balkan Mediterranean port city |
-| significance | — | 9.2 | International Byzantine and regional commercial heritage |
-| experience | — | 9.0 | Museums religious sites and food culture |
-| depth | — | 9.0 | Multiple urban districts |
+| Impact | — | 8.8 | Waterfront and layered Byzantine streets |
+| Uniqueness | — | 8.9 | Distinct Balkan Mediterranean port city |
+| Significance | — | 9.2 | International Byzantine and regional commercial heritage |
+| Experience | — | 9.0 | Museums religious sites and food culture |
+| Depth | — | 9.0 | Multiple urban districts |
 
 - Applicable category scores: history: 9.4, culture: 9.3, food: 9.3.
 - Computed worldwide overall: 89.55/100.
@@ -97,11 +97,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 9.0 | Walled medieval streets and harbor |
-| uniqueness | — | 9.2 | Distinct Hospitaller and Ottoman urban layers |
-| significance | — | 9.1 | International defensive architectural heritage |
-| experience | — | 9.0 | Public lanes museums and waterfront |
-| depth | — | 8.8 | Town not all Rhodes island |
+| Impact | — | 9.0 | Walled medieval streets and harbor |
+| Uniqueness | — | 9.2 | Distinct Hospitaller and Ottoman urban layers |
+| Significance | — | 9.1 | International defensive architectural heritage |
+| Experience | — | 9.0 | Public lanes museums and waterfront |
+| Depth | — | 8.8 | Town not all Rhodes island |
 
 - Applicable category scores: architecture: 9.5, history: 9.4, photography: 9.3.
 - Computed worldwide overall: 90.50/100.
@@ -133,11 +133,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 9.0 | Venetian streets and coastal fortress skyline |
-| uniqueness | — | 9.1 | Distinct Ionian trading and defensive townscape |
-| significance | — | 9.0 | International urban architectural heritage |
-| experience | — | 9.0 | Public lanes museums and waterfront walks |
-| depth | — | 8.7 | Town not island beaches |
+| Impact | — | 9.0 | Venetian streets and coastal fortress skyline |
+| Uniqueness | — | 9.1 | Distinct Ionian trading and defensive townscape |
+| Significance | — | 9.0 | International urban architectural heritage |
+| Experience | — | 9.0 | Public lanes museums and waterfront walks |
+| Depth | — | 8.7 | Town not island beaches |
 
 - Applicable category scores: architecture: 9.4, history: 9.2, photography: 9.3.
 - Computed worldwide overall: 89.95/100.
@@ -169,11 +169,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.9 | Venetian harbor and historic lanes |
-| uniqueness | — | 8.9 | Distinct Ottoman Venetian and Cretan layers |
-| significance | — | 8.8 | Regional maritime and archaeological heritage |
-| experience | — | 9.1 | Markets museums and public walks |
-| depth | — | 8.6 | Town not Samaria or western Crete |
+| Impact | — | 8.9 | Venetian harbor and historic lanes |
+| Uniqueness | — | 8.9 | Distinct Ottoman Venetian and Cretan layers |
+| Significance | — | 8.8 | Regional maritime and archaeological heritage |
+| Experience | — | 9.1 | Markets museums and public walks |
+| Depth | — | 8.6 | Town not Samaria or western Crete |
 
 - Applicable category scores: architecture: 9.3, history: 9.2, food: 9.1.
 - Computed worldwide overall: 88.80/100.
@@ -205,11 +205,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.9 | Neoclassical streets and fortified coastal hills |
-| uniqueness | — | 8.8 | Distinct early modern Greek capital setting |
-| significance | — | 8.8 | National political and regional defensive heritage |
-| experience | — | 8.9 | Public lanes museums and waterfront |
-| depth | — | 8.3 | Town excludes Mycenae and Epidaurus |
+| Impact | — | 8.9 | Neoclassical streets and fortified coastal hills |
+| Uniqueness | — | 8.8 | Distinct early modern Greek capital setting |
+| Significance | — | 8.8 | National political and regional defensive heritage |
+| Experience | — | 8.9 | Public lanes museums and waterfront |
+| Depth | — | 8.3 | Town excludes Mycenae and Epidaurus |
 
 - Applicable category scores: architecture: 9.2, history: 9.2, photography: 9.3.
 - Computed worldwide overall: 87.95/100.
@@ -241,11 +241,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 9.3 | Whitewashed houses over caldera rim |
-| uniqueness | — | 9.1 | Distinct concentrated Cycladic cliff settlement |
-| significance | — | 8.2 | Regional vernacular heritage |
-| experience | — | 8.6 | Public lanes and viewpoints subject to crowding |
-| depth | — | 7.8 | Village not whole caldera or island |
+| Impact | — | 9.3 | Whitewashed houses over caldera rim |
+| Uniqueness | — | 9.1 | Distinct concentrated Cycladic cliff settlement |
+| Significance | — | 8.2 | Regional vernacular heritage |
+| Experience | — | 8.6 | Public lanes and viewpoints subject to crowding |
+| Depth | — | 7.8 | Village not whole caldera or island |
 
 - Applicable category scores: architecture: 9.2, photography: 9.6.
 - Computed worldwide overall: 87.75/100.
@@ -277,11 +277,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 9.0 | Cliffside streets and caldera views |
-| uniqueness | — | 8.8 | Distinct Cycladic volcanic town setting |
-| significance | — | 8.3 | Regional cultural and archaeological context |
-| experience | — | 8.7 | Museums public streets and viewpoints |
-| depth | — | 8.2 | Town not whole Santorini |
+| Impact | — | 9.0 | Cliffside streets and caldera views |
+| Uniqueness | — | 8.8 | Distinct Cycladic volcanic town setting |
+| Significance | — | 8.3 | Regional cultural and archaeological context |
+| Experience | — | 8.7 | Museums public streets and viewpoints |
+| Depth | — | 8.2 | Town not whole Santorini |
 
 - Applicable category scores: architecture: 9.1, photography: 9.4.
 - Computed worldwide overall: 86.85/100.
@@ -313,11 +313,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.7 | Venetian harbor fortress and historic lanes |
-| uniqueness | — | 8.7 | Distinct Ottoman Venetian townscape |
-| significance | — | 8.7 | Regional maritime and defensive heritage |
-| experience | — | 8.9 | Public streets museums and food culture |
-| depth | — | 8.3 | Town not surrounding Crete |
+| Impact | — | 8.7 | Venetian harbor fortress and historic lanes |
+| Uniqueness | — | 8.7 | Distinct Ottoman Venetian townscape |
+| Significance | — | 8.7 | Regional maritime and defensive heritage |
+| Experience | — | 8.9 | Public streets museums and food culture |
+| Depth | — | 8.3 | Town not surrounding Crete |
 
 - Applicable category scores: architecture: 9.2, history: 9.1.
 - Computed worldwide overall: 86.90/100.
@@ -349,11 +349,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.2 | Historic walls and harbor streets |
-| uniqueness | — | 8.6 | Distinct Cretan capital and maritime layers |
-| significance | — | 9.0 | International Minoan collection and regional civic heritage |
-| experience | — | 8.7 | Museums markets and urban walks |
-| depth | — | 8.7 | Exclude Knossos archaeological site |
+| Impact | — | 8.2 | Historic walls and harbor streets |
+| Uniqueness | — | 8.6 | Distinct Cretan capital and maritime layers |
+| Significance | — | 9.0 | International Minoan collection and regional civic heritage |
+| Experience | — | 8.7 | Museums markets and urban walks |
+| Depth | — | 8.7 | Exclude Knossos archaeological site |
 
 - Applicable category scores: history: 9.4, culture: 9.1.
 - Computed worldwide overall: 85.85/100.
@@ -385,11 +385,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.9 | White lanes windmills and waterfront |
-| uniqueness | — | 8.8 | Distinct Cycladic maritime townscape |
-| significance | — | 8.1 | Regional architectural heritage |
-| experience | — | 8.8 | Public lanes cultural venues and evening activity |
-| depth | — | 8.0 | Town not all island beaches |
+| Impact | — | 8.9 | White lanes windmills and waterfront |
+| Uniqueness | — | 8.8 | Distinct Cycladic maritime townscape |
+| Significance | — | 8.1 | Regional architectural heritage |
+| Experience | — | 8.8 | Public lanes cultural venues and evening activity |
+| Depth | — | 8.0 | Town not all island beaches |
 
 - Applicable category scores: architecture: 9.2, photography: 9.4, nightlife: 9.1.
 - Computed worldwide overall: 86.10/100.
@@ -421,11 +421,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.6 | Fortified hill streets and harbor |
-| uniqueness | — | 8.7 | Distinct Cycladic and Venetian urban layers |
-| significance | — | 8.7 | Regional ancient and maritime heritage |
-| experience | — | 8.8 | Public lanes museums and waterfront |
-| depth | — | 8.3 | Town excludes remote island villages |
+| Impact | — | 8.6 | Fortified hill streets and harbor |
+| Uniqueness | — | 8.7 | Distinct Cycladic and Venetian urban layers |
+| Significance | — | 8.7 | Regional ancient and maritime heritage |
+| Experience | — | 8.8 | Public lanes museums and waterfront |
+| Depth | — | 8.3 | Town excludes remote island villages |
 
 - Applicable category scores: architecture: 9.0, history: 9.1.
 - Computed worldwide overall: 86.45/100.
@@ -457,11 +457,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 9.1 | Stone lanes on isolated coastal rock |
-| uniqueness | — | 9.2 | Distinct fortified Byzantine settlement |
-| significance | — | 8.8 | Regional medieval and maritime heritage |
-| experience | — | 8.7 | Public streets and permitted monuments |
-| depth | — | 8.0 | Compact historic town only |
+| Impact | — | 9.1 | Stone lanes on isolated coastal rock |
+| Uniqueness | — | 9.2 | Distinct fortified Byzantine settlement |
+| Significance | — | 8.8 | Regional medieval and maritime heritage |
+| Experience | — | 8.7 | Public streets and permitted monuments |
+| Depth | — | 8.0 | Compact historic town only |
 
 - Applicable category scores: architecture: 9.4, photography: 9.5, history: 9.2.
 - Computed worldwide overall: 88.95/100.
@@ -493,11 +493,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.5 | Lakefront streets and walled citadel |
-| uniqueness | — | 8.6 | Distinct Ottoman and Greek urban layers |
-| significance | — | 8.8 | Regional political and social heritage |
-| experience | — | 8.7 | Museums public walks and local culture |
-| depth | — | 8.5 | City excludes Zagori |
+| Impact | — | 8.5 | Lakefront streets and walled citadel |
+| Uniqueness | — | 8.6 | Distinct Ottoman and Greek urban layers |
+| Significance | — | 8.8 | Regional political and social heritage |
+| Experience | — | 8.7 | Museums public walks and local culture |
+| Depth | — | 8.5 | City excludes Zagori |
 
 - Applicable category scores: history: 9.2, culture: 8.9.
 - Computed worldwide overall: 86.15/100.
@@ -529,11 +529,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.5 | Hillside old town and aqueduct |
-| uniqueness | — | 8.5 | Distinct Ottoman maritime trading town |
-| significance | — | 8.6 | Regional architectural and commercial heritage |
-| experience | — | 8.6 | Public streets museums and harbor |
-| depth | — | 8.2 | Exclude Philippi |
+| Impact | — | 8.5 | Hillside old town and aqueduct |
+| Uniqueness | — | 8.5 | Distinct Ottoman maritime trading town |
+| Significance | — | 8.6 | Regional architectural and commercial heritage |
+| Experience | — | 8.6 | Public streets museums and harbor |
+| Depth | — | 8.2 | Exclude Philippi |
 
 - Applicable category scores: architecture: 9.0, history: 8.9.
 - Computed worldwide overall: 85.05/100.
@@ -565,11 +565,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.8 | Neoclassical hillside streets and port |
-| uniqueness | — | 8.8 | Distinct nineteenth-century Cycladic commercial center |
-| significance | — | 8.6 | National maritime and civic heritage |
-| experience | — | 8.8 | Public squares museums and cultural venues |
-| depth | — | 8.3 | Town not all Syros |
+| Impact | — | 8.8 | Neoclassical hillside streets and port |
+| Uniqueness | — | 8.8 | Distinct nineteenth-century Cycladic commercial center |
+| Significance | — | 8.6 | National maritime and civic heritage |
+| Experience | — | 8.8 | Public squares museums and cultural venues |
+| Depth | — | 8.3 | Town not all Syros |
 
 - Applicable category scores: architecture: 9.3, history: 9.0.
 - Computed worldwide overall: 87.10/100.
@@ -601,11 +601,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.4 | Stone mountain houses and hillside streets |
-| uniqueness | — | 8.6 | Distinct Vlach mountain settlement heritage |
-| significance | — | 8.4 | Regional pastoral and artistic history |
-| experience | — | 8.6 | Local museums streets and dining |
-| depth | — | 7.9 | Town excludes Pindos trails |
+| Impact | — | 8.4 | Stone mountain houses and hillside streets |
+| Uniqueness | — | 8.6 | Distinct Vlach mountain settlement heritage |
+| Significance | — | 8.4 | Regional pastoral and artistic history |
+| Experience | — | 8.6 | Local museums streets and dining |
+| Depth | — | 7.9 | Town excludes Pindos trails |
 
 - Applicable category scores: architecture: 8.9, food: 8.9.
 - Computed worldwide overall: 84.30/100.
@@ -637,11 +637,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.2 | Town streets beneath dramatic rock skyline |
-| uniqueness | — | 8.4 | Distinct Thessalian gateway-town setting |
-| significance | — | 8.2 | Regional religious and settlement history |
-| experience | — | 8.5 | Town walks churches and local food |
-| depth | — | 7.8 | Exclude Meteora monasteries and rock trails |
+| Impact | — | 8.2 | Town streets beneath dramatic rock skyline |
+| Uniqueness | — | 8.4 | Distinct Thessalian gateway-town setting |
+| Significance | — | 8.2 | Regional religious and settlement history |
+| Experience | — | 8.5 | Town walks churches and local food |
+| Depth | — | 7.8 | Exclude Meteora monasteries and rock trails |
 
 - Applicable category scores: photography: 8.9, culture: 8.6.
 - Computed worldwide overall: 82.55/100.

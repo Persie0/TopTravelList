@@ -24,11 +24,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 9.6 | Monumental classical temples on rocky citadel |
-| uniqueness | — | 9.5 | Distinct surviving ensemble of classical Athenian architecture |
-| significance | — | 9.8 | International architectural and civic history |
-| experience | — | 9.1 | Managed archaeological route and city panoramas |
-| depth | — | 8.9 | Hilltop archaeological site not museum or all Athens |
+| Impact | — | 9.6 | Monumental classical temples on rocky citadel |
+| Uniqueness | — | 9.5 | Distinct surviving ensemble of classical Athenian architecture |
+| Significance | — | 9.8 | International architectural and civic history |
+| Experience | — | 9.1 | Managed archaeological route and city panoramas |
+| Depth | — | 8.9 | Hilltop archaeological site not museum or all Athens |
 
 - Applicable category scores: architecture: 9.8, history: 9.9, photography: 9.5.
 - Computed worldwide overall: 94.70/100.
@@ -59,11 +59,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.8 | Royal burial monuments and interpreted archaeology |
-| uniqueness | — | 9.3 | Rare Macedonian royal tomb and palace evidence |
-| significance | — | 9.5 | International ancient Macedonian heritage |
-| experience | — | 9.0 | Managed museum and archaeological visits |
-| depth | — | 8.8 | Listed archaeological area |
+| Impact | — | 8.8 | Royal burial monuments and interpreted archaeology |
+| Uniqueness | — | 9.3 | Rare Macedonian royal tomb and palace evidence |
+| Significance | — | 9.5 | International ancient Macedonian heritage |
+| Experience | — | 9.0 | Managed museum and archaeological visits |
+| Depth | — | 8.8 | Listed archaeological area |
 
 - Applicable category scores: history: 9.6, culture: 9.4.
 - Computed worldwide overall: 90.95/100.
@@ -94,11 +94,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 9.3 | Terraced sanctuary in dramatic mountain setting |
-| uniqueness | — | 9.4 | Distinct Panhellenic oracle sanctuary |
-| significance | — | 9.6 | International ancient religious and political heritage |
-| experience | — | 9.1 | Managed ruins and interpretation |
-| depth | — | 9.0 | Listed sanctuary not modern town |
+| Impact | — | 9.3 | Terraced sanctuary in dramatic mountain setting |
+| Uniqueness | — | 9.4 | Distinct Panhellenic oracle sanctuary |
+| Significance | — | 9.6 | International ancient religious and political heritage |
+| Experience | — | 9.1 | Managed ruins and interpretation |
+| Depth | — | 9.0 | Listed sanctuary not modern town |
 
 - Applicable category scores: history: 9.7, architecture: 9.5, photography: 9.4.
 - Computed worldwide overall: 93.25/100.
@@ -129,11 +129,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 9.1 | Hillside Byzantine churches and ruined city |
-| uniqueness | — | 9.2 | Distinct late Byzantine fortified settlement |
-| significance | — | 9.3 | International Byzantine artistic and political history |
-| experience | — | 8.9 | Managed steep paths and permitted church interiors |
-| depth | — | 9.0 | Defined archaeological site |
+| Impact | — | 9.1 | Hillside Byzantine churches and ruined city |
+| Uniqueness | — | 9.2 | Distinct late Byzantine fortified settlement |
+| Significance | — | 9.3 | International Byzantine artistic and political history |
+| Experience | — | 8.9 | Managed steep paths and permitted church interiors |
+| Depth | — | 9.0 | Defined archaeological site |
 
 - Applicable category scores: architecture: 9.4, history: 9.5, photography: 9.3.
 - Computed worldwide overall: 91.25/100.
@@ -164,11 +164,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.8 | Sanctuary ruins and ancient stadium landscape |
-| uniqueness | — | 9.3 | Distinct original Panhellenic games sanctuary |
-| significance | — | 9.7 | International athletic and ancient religious history |
-| experience | — | 9.0 | Managed archaeological visit and interpretation |
-| depth | — | 9.0 | Listed sanctuary not modern Olympia |
+| Impact | — | 8.8 | Sanctuary ruins and ancient stadium landscape |
+| Uniqueness | — | 9.3 | Distinct original Panhellenic games sanctuary |
+| Significance | — | 9.7 | International athletic and ancient religious history |
+| Experience | — | 9.0 | Managed archaeological visit and interpretation |
+| Depth | — | 9.0 | Listed sanctuary not modern Olympia |
 
 - Applicable category scores: history: 9.7, culture: 9.4.
 - Computed worldwide overall: 91.55/100.
@@ -199,11 +199,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.5 | Roman theater forum and early church ruins |
-| uniqueness | — | 8.9 | Distinct layered Hellenistic Roman and Christian site |
-| significance | — | 9.3 | International classical and Christian heritage |
-| experience | — | 8.7 | Managed archaeological grounds |
-| depth | — | 8.6 | Listed site only |
+| Impact | — | 8.5 | Roman theater forum and early church ruins |
+| Uniqueness | — | 8.9 | Distinct layered Hellenistic Roman and Christian site |
+| Significance | — | 9.3 | International classical and Christian heritage |
+| Experience | — | 8.7 | Managed archaeological grounds |
+| Depth | — | 8.6 | Listed site only |
 
 - Applicable category scores: history: 9.4, architecture: 9.1.
 - Computed worldwide overall: 88.00/100.
@@ -234,11 +234,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 9.0 | Cyclopean walls and royal tomb architecture |
-| uniqueness | — | 9.3 | Distinct Bronze Age fortified palatial centers |
-| significance | — | 9.5 | International Mycenaean heritage |
-| experience | — | 8.9 | Separate managed archaeological visits |
-| depth | — | 9.0 | Two listed sites |
+| Impact | — | 9.0 | Cyclopean walls and royal tomb architecture |
+| Uniqueness | — | 9.3 | Distinct Bronze Age fortified palatial centers |
+| Significance | — | 9.5 | International Mycenaean heritage |
+| Experience | — | 8.9 | Separate managed archaeological visits |
+| Depth | — | 9.0 | Two listed sites |
 
 - Applicable category scores: history: 9.6, architecture: 9.4.
 - Computed worldwide overall: 91.60/100.
@@ -269,11 +269,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 9.0 | Extensive sanctuary and ancient urban ruins |
-| uniqueness | — | 9.4 | Distinct sacred island and commercial archaeological landscape |
-| significance | — | 9.5 | International ancient Mediterranean heritage |
-| experience | — | 8.9 | Managed island archaeological visits subject to boats and opening |
-| depth | — | 9.1 | Listed island archaeology not Mykonos |
+| Impact | — | 9.0 | Extensive sanctuary and ancient urban ruins |
+| Uniqueness | — | 9.4 | Distinct sacred island and commercial archaeological landscape |
+| Significance | — | 9.5 | International ancient Mediterranean heritage |
+| Experience | — | 8.9 | Managed island archaeological visits subject to boats and opening |
+| Depth | — | 9.1 | Listed island archaeology not Mykonos |
 
 - Applicable category scores: history: 9.6, architecture: 9.3.
 - Computed worldwide overall: 91.95/100.
@@ -304,11 +304,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 9.3 | Fortifications stone streets and Gothic monuments |
-| uniqueness | — | 9.3 | Distinct preserved medieval military townscape |
-| significance | — | 9.3 | International Hospitaller and Ottoman heritage |
-| experience | — | 9.2 | Public streets and permitted monuments |
-| depth | — | 9.1 | Listed walled town only |
+| Impact | — | 9.3 | Fortifications stone streets and Gothic monuments |
+| Uniqueness | — | 9.3 | Distinct preserved medieval military townscape |
+| Significance | — | 9.3 | International Hospitaller and Ottoman heritage |
+| Experience | — | 9.2 | Public streets and permitted monuments |
+| Depth | — | 9.1 | Listed walled town only |
 
 - Applicable category scores: architecture: 9.6, history: 9.5, photography: 9.4.
 - Computed worldwide overall: 92.65/100.
@@ -340,11 +340,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 9.0 | Palatial remains across Crete |
-| uniqueness | — | 9.4 | Distinct Bronze Age administrative architecture |
-| significance | — | 9.5 | International Minoan cultural heritage |
-| experience | — | null | Combined ordinary visitor scope not established for all six sites |
-| depth | — | null | Six listed components not all Minoan archaeology |
+| Impact | — | 9.0 | Palatial remains across Crete |
+| Uniqueness | — | 9.4 | Distinct Bronze Age administrative architecture |
+| Significance | — | 9.5 | International Minoan cultural heritage |
+| Experience | — | null | Combined ordinary visitor scope not established for all six sites |
+| Depth | — | null | Six listed components not all Minoan archaeology |
 
 - Applicable category scores: history: 9.6, architecture: 9.4.
 - Computed worldwide overall: unranked.
@@ -375,11 +375,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.9 | Distinct church architecture and mosaic interiors |
-| uniqueness | — | 9.2 | Rare linked middle Byzantine artistic tradition |
-| significance | — | 9.4 | International Byzantine religious art heritage |
-| experience | — | 8.7 | Separate permitted monastery visits |
-| depth | — | 8.8 | Three listed complexes |
+| Impact | — | 8.9 | Distinct church architecture and mosaic interiors |
+| Uniqueness | — | 9.2 | Rare linked middle Byzantine artistic tradition |
+| Significance | — | 9.4 | International Byzantine religious art heritage |
+| Experience | — | 8.7 | Separate permitted monastery visits |
+| Depth | — | 8.8 | Three listed complexes |
 
 - Applicable category scores: architecture: 9.4, culture: 9.5, history: 9.4.
 - Computed worldwide overall: 90.35/100.
@@ -410,11 +410,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 9.2 | Historic lanes and Venetian coastal fortifications |
-| uniqueness | — | 9.1 | Distinct integrated fortified maritime townscape |
-| significance | — | 9.2 | International urban architectural heritage |
-| experience | — | 9.1 | Public lanes and permitted monuments |
-| depth | — | 9.0 | Listed core only |
+| Impact | — | 9.2 | Historic lanes and Venetian coastal fortifications |
+| Uniqueness | — | 9.1 | Distinct integrated fortified maritime townscape |
+| Significance | — | 9.2 | International urban architectural heritage |
+| Experience | — | 9.1 | Public lanes and permitted monuments |
+| Depth | — | 9.0 | Listed core only |
 
 - Applicable category scores: architecture: 9.5, history: 9.3, photography: 9.4.
 - Computed worldwide overall: 91.40/100.
@@ -445,11 +445,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.9 | Early Christian churches mosaics and historic walls |
-| uniqueness | — | 9.3 | Distinct concentration of early Christian and Byzantine architecture |
-| significance | — | 9.5 | International religious and artistic heritage |
-| experience | — | 8.8 | Separate permitted monument visits |
-| depth | — | 9.1 | Listed monuments only |
+| Impact | — | 8.9 | Early Christian churches mosaics and historic walls |
+| Uniqueness | — | 9.3 | Distinct concentration of early Christian and Byzantine architecture |
+| Significance | — | 9.5 | International religious and artistic heritage |
+| Experience | — | 8.8 | Separate permitted monument visits |
+| Depth | — | 9.1 | Listed monuments only |
 
 - Applicable category scores: history: 9.6, culture: 9.5, architecture: 9.5.
 - Computed worldwide overall: 91.25/100.
@@ -480,11 +480,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.5 | Ancient harbor remains sanctuary and tunnel |
-| uniqueness | — | 9.0 | Distinct linked archaic engineering and religious heritage |
-| significance | — | 9.3 | International classical archaeological heritage |
-| experience | — | 8.6 | Separate managed archaeological visits |
-| depth | — | 8.7 | Two listed precincts |
+| Impact | — | 8.5 | Ancient harbor remains sanctuary and tunnel |
+| Uniqueness | — | 9.0 | Distinct linked archaic engineering and religious heritage |
+| Significance | — | 9.3 | International classical archaeological heritage |
+| Experience | — | 8.6 | Separate managed archaeological visits |
+| Depth | — | 8.7 | Two listed precincts |
 
 - Applicable category scores: history: 9.4, architecture: 9.2.
 - Computed worldwide overall: 88.20/100.
@@ -515,11 +515,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 9.2 | Monumental ancient theater and sanctuary remains |
-| uniqueness | — | 9.2 | Distinct classical healing and theater ensemble |
-| significance | — | 9.4 | International ancient medical and architectural heritage |
-| experience | — | 9.0 | Managed archaeological visits |
-| depth | — | 8.8 | Listed sanctuary not all regional theaters |
+| Impact | — | 9.2 | Monumental ancient theater and sanctuary remains |
+| Uniqueness | — | 9.2 | Distinct classical healing and theater ensemble |
+| Significance | — | 9.4 | International ancient medical and architectural heritage |
+| Experience | — | 9.0 | Managed archaeological visits |
+| Depth | — | 8.8 | Listed sanctuary not all regional theaters |
 
 - Applicable category scores: history: 9.5, architecture: 9.5.
 - Computed worldwide overall: 91.70/100.
@@ -550,11 +550,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.5 | Preserved classical temple under protective cover |
-| uniqueness | — | 9.1 | Distinct architectural design and isolated mountain setting |
-| significance | — | 9.4 | International Greek architectural heritage |
-| experience | — | 8.2 | Permitted monument visit constrained by conservation |
-| depth | — | 7.8 | Single temple |
+| Impact | — | 8.5 | Preserved classical temple under protective cover |
+| Uniqueness | — | 9.1 | Distinct architectural design and isolated mountain setting |
+| Significance | — | 9.4 | International Greek architectural heritage |
+| Experience | — | 8.2 | Permitted monument visit constrained by conservation |
+| Depth | — | 7.8 | Single temple |
 
 - Applicable category scores: architecture: 9.4, history: 9.4.
 - Computed worldwide overall: 87.15/100.
@@ -585,11 +585,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 9.0 | Fortified monastery and whitewashed hill settlement |
-| uniqueness | — | 9.2 | Distinct linked pilgrimage and island landscape |
-| significance | — | 9.4 | International Christian religious heritage |
-| experience | — | 8.9 | Separate respectful permitted visits |
-| depth | — | 8.8 | Listed monastery cave and historic settlement |
+| Impact | — | 9.0 | Fortified monastery and whitewashed hill settlement |
+| Uniqueness | — | 9.2 | Distinct linked pilgrimage and island landscape |
+| Significance | — | 9.4 | International Christian religious heritage |
+| Experience | — | 8.9 | Separate respectful permitted visits |
+| Depth | — | 8.8 | Listed monastery cave and historic settlement |
 
 - Applicable category scores: history: 9.5, architecture: 9.4, culture: 9.4.
 - Computed worldwide overall: 90.95/100.
@@ -620,11 +620,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 9.1 | Stone villages bridges and mountain valleys |
-| uniqueness | — | 9.0 | Distinct traditional mountain settlement network |
-| significance | — | 9.1 | International cultural landscape heritage |
-| experience | — | 9.0 | Public village walks and permitted trails |
-| depth | — | 9.3 | Listed villages and landscape not whole Pindos |
+| Impact | — | 9.1 | Stone villages bridges and mountain valleys |
+| Uniqueness | — | 9.0 | Distinct traditional mountain settlement network |
+| Significance | — | 9.1 | International cultural landscape heritage |
+| Experience | — | 9.0 | Public village walks and permitted trails |
+| Depth | — | 9.3 | Listed villages and landscape not whole Pindos |
 
 - Applicable category scores: architecture: 9.3, nature: 9.3, photography: 9.4.
 - Computed worldwide overall: 90.80/100.
@@ -655,11 +655,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 9.7 | Monasteries atop extraordinary sandstone pillars |
-| uniqueness | — | 9.6 | Rare integrated monastic and geological landscape |
-| significance | — | 9.4 | International religious architecture and natural heritage |
-| experience | — | 9.3 | Permitted monastery visits and scenic trails |
-| depth | — | 9.2 | Listed rock and monastic landscape not Kalambaka town |
+| Impact | — | 9.7 | Monasteries atop extraordinary sandstone pillars |
+| Uniqueness | — | 9.6 | Rare integrated monastic and geological landscape |
+| Significance | — | 9.4 | International religious architecture and natural heritage |
+| Experience | — | 9.3 | Permitted monastery visits and scenic trails |
+| Depth | — | 9.2 | Listed rock and monastic landscape not Kalambaka town |
 
 - Applicable category scores: nature: 9.6, architecture: 9.6, photography: 9.8.
 - Computed worldwide overall: 95.05/100.
@@ -690,11 +690,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 9.2 | Remote mountain monasteries and coastline |
-| uniqueness | — | 9.5 | Distinct longstanding autonomous Orthodox monastic community |
-| significance | — | 9.6 | International religious and artistic heritage |
-| experience | — | null | Entry requires permits and excludes women, ordinary broad access not comparable |
-| depth | — | null | Listed peninsula not offshore cruise |
+| Impact | — | 9.2 | Remote mountain monasteries and coastline |
+| Uniqueness | — | 9.5 | Distinct longstanding autonomous Orthodox monastic community |
+| Significance | — | 9.6 | International religious and artistic heritage |
+| Experience | — | null | Entry requires permits and excludes women, ordinary broad access not comparable |
+| Depth | — | null | Listed peninsula not offshore cruise |
 
 - Applicable category scores: history: 9.6, culture: 9.6, architecture: 9.5.
 - Computed worldwide overall: unranked.
@@ -726,11 +726,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 9.2 | High rocky peaks and forested valleys |
-| uniqueness | — | 9.1 | Distinct mountain mythology and ecological landscape |
-| significance | — | 9.3 | International cultural and natural heritage inscribed 2026 |
-| experience | — | 9.0 | Permitted seasonal paths and viewpoints, no summit assumption |
-| depth | — | 9.2 | Listed wider landscape not just summit |
+| Impact | — | 9.2 | High rocky peaks and forested valleys |
+| Uniqueness | — | 9.1 | Distinct mountain mythology and ecological landscape |
+| Significance | — | 9.3 | International cultural and natural heritage inscribed 2026 |
+| Experience | — | 9.0 | Permitted seasonal paths and viewpoints, no summit assumption |
+| Depth | — | 9.2 | Listed wider landscape not just summit |
 
 - Applicable category scores: nature: 9.5, adventure: 9.3, history: 9.2.
 - Computed worldwide overall: 91.65/100.
@@ -761,11 +761,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.7 | Dispersed historic bastioned fortifications |
-| uniqueness | — | 8.9 | Distinct Mediterranean defensive architectural tradition |
-| significance | — | 9.1 | Proposed international architectural heritage |
-| experience | — | null | Combined access unresolved |
-| depth | — | null | Nominated components only |
+| Impact | — | 8.7 | Dispersed historic bastioned fortifications |
+| Uniqueness | — | 8.9 | Distinct Mediterranean defensive architectural tradition |
+| Significance | — | 9.1 | Proposed international architectural heritage |
+| Experience | — | null | Combined access unresolved |
+| Depth | — | null | Nominated components only |
 
 - Applicable category scores: architecture: 9.3, history: 9.3.
 - Computed worldwide overall: unranked.
@@ -797,11 +797,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.4 | Woodland and raptor habitat |
-| uniqueness | — | 8.9 | Distinct southeastern European forest ecosystem |
-| significance | — | 8.9 | International bird conservation interest |
-| experience | — | 8.4 | Scheduled observatory transport and interpretation subject to weather and fire restrictions |
-| depth | — | 8.3 | Visitor centre and observatory plus designated trails where confirmed open |
+| Impact | — | 8.4 | Woodland and raptor habitat |
+| Uniqueness | — | 8.9 | Distinct southeastern European forest ecosystem |
+| Significance | — | 8.9 | International bird conservation interest |
+| Experience | — | 8.4 | Scheduled observatory transport and interpretation subject to weather and fire restrictions |
+| Depth | — | 8.3 | Visitor centre and observatory plus designated trails where confirmed open |
 
 - Applicable category scores: nature: 9.1, wildlife: 9.4.
 - Computed worldwide overall: 86.15/100.
@@ -832,11 +832,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.1 | Mining traces and ancient industrial landscape |
-| uniqueness | — | 8.8 | Distinct classical silver production archaeology |
-| significance | — | 9.1 | International ancient technological heritage |
-| experience | — | null | Permitted archaeological extent not checked |
-| depth | — | null | Nominated landscape only |
+| Impact | — | 8.1 | Mining traces and ancient industrial landscape |
+| Uniqueness | — | 8.8 | Distinct classical silver production archaeology |
+| Significance | — | 9.1 | International ancient technological heritage |
+| Experience | — | null | Permitted archaeological extent not checked |
+| Depth | — | null | Nominated landscape only |
 
 - Applicable category scores: history: 9.3.
 - Computed worldwide overall: unranked.
@@ -867,11 +867,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.6 | Fossilized tree trunks in volcanic terrain |
-| uniqueness | — | 9.2 | Distinct preserved fossil forest landscape |
-| significance | — | 9.1 | International paleobotanical interest |
-| experience | — | 8.6 | Managed park and museum interpretation |
-| depth | — | 8.4 | Named geological sites |
+| Impact | — | 8.6 | Fossilized tree trunks in volcanic terrain |
+| Uniqueness | — | 9.2 | Distinct preserved fossil forest landscape |
+| Significance | — | 9.1 | International paleobotanical interest |
+| Experience | — | 8.6 | Managed park and museum interpretation |
+| Depth | — | 8.4 | Named geological sites |
 
 - Applicable category scores: nature: 9.4, history: 9.1.
 - Computed worldwide overall: 88.30/100.
@@ -902,11 +902,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 9.0 | Extensive ancient city remains theater and stadium |
-| uniqueness | — | 9.1 | Distinct coherent ancient civic archaeological landscape |
-| significance | — | 9.2 | International Greek archaeological heritage |
-| experience | — | 9.0 | Managed site paths |
-| depth | — | 9.0 | Defined archaeological park |
+| Impact | — | 9.0 | Extensive ancient city remains theater and stadium |
+| Uniqueness | — | 9.1 | Distinct coherent ancient civic archaeological landscape |
+| Significance | — | 9.2 | International Greek archaeological heritage |
+| Experience | — | 9.0 | Managed site paths |
+| Depth | — | 9.0 | Defined archaeological park |
 
 - Applicable category scores: history: 9.4, architecture: 9.3.
 - Computed worldwide overall: 90.65/100.
@@ -937,11 +937,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.4 | Dispersed Roman city ruins and walls |
-| uniqueness | — | 8.8 | Distinct Roman victory city archaeological evidence |
-| significance | — | 9.1 | International Roman history |
-| experience | — | 8.5 | Permitted archaeological visits |
-| depth | — | 8.7 | Nominated site only |
+| Impact | — | 8.4 | Dispersed Roman city ruins and walls |
+| Uniqueness | — | 8.8 | Distinct Roman victory city archaeological evidence |
+| Significance | — | 9.1 | International Roman history |
+| Experience | — | 8.5 | Permitted archaeological visits |
+| Depth | — | 8.7 | Nominated site only |
 
 - Applicable category scores: history: 9.3.
 - Computed worldwide overall: 86.85/100.
@@ -972,11 +972,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.8 | Mountain lakes wetlands and historic chapels |
-| uniqueness | — | 9.0 | Distinct linked natural and religious landscape |
-| significance | — | 9.0 | International wetland and regional Byzantine heritage |
-| experience | — | 8.8 | Permitted lake and village visits |
-| depth | — | 9.0 | Greek nominated sectors only |
+| Impact | — | 8.8 | Mountain lakes wetlands and historic chapels |
+| Uniqueness | — | 9.0 | Distinct linked natural and religious landscape |
+| Significance | — | 9.0 | International wetland and regional Byzantine heritage |
+| Experience | — | 8.8 | Permitted lake and village visits |
+| Depth | — | 9.0 | Greek nominated sectors only |
 
 - Applicable category scores: nature: 9.3, wildlife: 9.3, history: 9.1.
 - Computed worldwide overall: 89.10/100.
@@ -1007,11 +1007,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 9.3 | Deep limestone gorge and dramatic cliffs |
-| uniqueness | — | 9.1 | Distinct long Cretan mountain-to-sea gorge |
-| significance | — | 8.8 | National ecological and geological heritage |
-| experience | — | 9.0 | Seasonal controlled gorge trail |
-| depth | — | 8.8 | Gorge park not all White Mountains |
+| Impact | — | 9.3 | Deep limestone gorge and dramatic cliffs |
+| Uniqueness | — | 9.1 | Distinct long Cretan mountain-to-sea gorge |
+| Significance | — | 8.8 | National ecological and geological heritage |
+| Experience | — | 9.0 | Seasonal controlled gorge trail |
+| Depth | — | 8.8 | Gorge park not all White Mountains |
 
 - Applicable category scores: nature: 9.5, adventure: 9.4, photography: 9.4.
 - Computed worldwide overall: 90.55/100.
@@ -1042,11 +1042,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.8 | Stone fortress on rocky island |
-| uniqueness | — | 9.0 | Distinct defensive and former leprosy settlement history |
-| significance | — | 9.0 | National social and Mediterranean military heritage |
-| experience | — | 8.8 | Managed boat and heritage site visits |
-| depth | — | 8.4 | Island fortress only |
+| Impact | — | 8.8 | Stone fortress on rocky island |
+| Uniqueness | — | 9.0 | Distinct defensive and former leprosy settlement history |
+| Significance | — | 9.0 | National social and Mediterranean military heritage |
+| Experience | — | 8.8 | Managed boat and heritage site visits |
+| Depth | — | 8.4 | Island fortress only |
 
 - Applicable category scores: history: 9.3, architecture: 9.2.
 - Computed worldwide overall: 88.50/100.
@@ -1077,11 +1077,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | null | Combined visitor impact unresolved |
-| uniqueness | — | 8.9 | Distinct ancient island tower tradition |
-| significance | — | 9.1 | International ancient defensive archaeology |
-| experience | — | null | Component-specific access unresolved |
-| depth | — | null | Nominated series only |
+| Impact | — | null | Combined visitor impact unresolved |
+| Uniqueness | — | 8.9 | Distinct ancient island tower tradition |
+| Significance | — | 9.1 | International ancient defensive archaeology |
+| Experience | — | null | Component-specific access unresolved |
+| Depth | — | null | Nominated series only |
 
 - Applicable category scores: history: 9.3, architecture: 9.2.
 - Computed worldwide overall: unranked.
@@ -1112,11 +1112,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 9.0 | Dispersed classical theater structures |
-| uniqueness | — | 9.2 | Distinct ancient civic and performance architecture |
-| significance | — | 9.5 | International theater and architectural history |
-| experience | — | null | Combined nominated access unresolved |
-| depth | — | null | Nominated theaters not every Greek theater |
+| Impact | — | 9.0 | Dispersed classical theater structures |
+| Uniqueness | — | 9.2 | Distinct ancient civic and performance architecture |
+| Significance | — | 9.5 | International theater and architectural history |
+| Experience | — | null | Combined nominated access unresolved |
+| Depth | — | null | Nominated theaters not every Greek theater |
 
 - Applicable category scores: architecture: 9.5, history: 9.5.
 - Computed worldwide overall: unranked.
@@ -1147,11 +1147,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 9.1 | Extensive palace courtyards and reconstructed architectural features |
-| uniqueness | — | 9.4 | Distinct major Minoan palatial center with documented modern reconstructions |
-| significance | — | 9.6 | International Bronze Age cultural heritage |
-| experience | — | 8.9 | Managed archaeological visit, reconstruction distinguished from authentic fabric |
-| depth | — | 8.8 | One listed component not all Minoan sites |
+| Impact | — | 9.1 | Extensive palace courtyards and reconstructed architectural features |
+| Uniqueness | — | 9.4 | Distinct major Minoan palatial center with documented modern reconstructions |
+| Significance | — | 9.6 | International Bronze Age cultural heritage |
+| Experience | — | 8.9 | Managed archaeological visit, reconstruction distinguished from authentic fabric |
+| Depth | — | 8.8 | One listed component not all Minoan sites |
 
 - Applicable category scores: history: 9.6, architecture: 9.3.
 - Computed worldwide overall: 92.15/100.
@@ -1182,11 +1182,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.7 | Palatial ruins on hillside with broad courtyards |
-| uniqueness | — | 9.0 | Distinct Minoan palatial plan and landscape setting |
-| significance | — | 9.3 | International Bronze Age archaeological heritage |
-| experience | — | 8.7 | Managed site visit, current details unverified |
-| depth | — | 8.5 | One listed component |
+| Impact | — | 8.7 | Palatial ruins on hillside with broad courtyards |
+| Uniqueness | — | 9.0 | Distinct Minoan palatial plan and landscape setting |
+| Significance | — | 9.3 | International Bronze Age archaeological heritage |
+| Experience | — | 8.7 | Managed site visit, current details unverified |
+| Depth | — | 8.5 | One listed component |
 
 - Applicable category scores: history: 9.4, architecture: 9.1.
 - Computed worldwide overall: 88.75/100.
@@ -1217,11 +1217,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.4 | Palatial foundations and archaeological courtyards |
-| uniqueness | — | 8.8 | Distinct Minoan urban and administrative archaeology |
-| significance | — | 9.1 | International Bronze Age heritage |
-| experience | — | 8.5 | Permitted archaeological grounds, current conditions unverified |
-| depth | — | 8.3 | One listed component |
+| Impact | — | 8.4 | Palatial foundations and archaeological courtyards |
+| Uniqueness | — | 8.8 | Distinct Minoan urban and administrative archaeology |
+| Significance | — | 9.1 | International Bronze Age heritage |
+| Experience | — | 8.5 | Permitted archaeological grounds, current conditions unverified |
+| Depth | — | 8.3 | One listed component |
 
 - Applicable category scores: history: 9.3.
 - Computed worldwide overall: 86.45/100.
@@ -1252,11 +1252,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.5 | Palatial ruins in eastern coastal valley |
-| uniqueness | — | 8.9 | Distinct eastern Minoan maritime setting |
-| significance | — | 9.2 | International Bronze Age archaeological heritage |
-| experience | — | 8.5 | Permitted archaeological visit, current conditions unverified |
-| depth | — | 8.3 | One listed component |
+| Impact | — | 8.5 | Palatial ruins in eastern coastal valley |
+| Uniqueness | — | 8.9 | Distinct eastern Minoan maritime setting |
+| Significance | — | 9.2 | International Bronze Age archaeological heritage |
+| Experience | — | 8.5 | Permitted archaeological visit, current conditions unverified |
+| Depth | — | 8.3 | One listed component |
 
 - Applicable category scores: history: 9.3, photography: 8.8.
 - Computed worldwide overall: 87.20/100.
@@ -1288,11 +1288,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.4 | Excavated mountain palace remains with visible architectural plan |
-| uniqueness | — | 9.0 | Distinct high-altitude Minoan complex |
-| significance | — | 9.2 | International Bronze Age cultural heritage |
-| experience | — | 8.2 | Published seasonal visitor hours and winter appointments |
-| depth | — | 7.7 | One bounded excavated complex, not all rooms or nearby Idaean Cave |
+| Impact | — | 8.4 | Excavated mountain palace remains with visible architectural plan |
+| Uniqueness | — | 9.0 | Distinct high-altitude Minoan complex |
+| Significance | — | 9.2 | International Bronze Age cultural heritage |
+| Experience | — | 8.2 | Published seasonal visitor hours and winter appointments |
+| Depth | — | 7.7 | One bounded excavated complex, not all rooms or nearby Idaean Cave |
 
 - Applicable category scores: history: 9.3.
 - Computed worldwide overall: 86.10/100.
@@ -1324,11 +1324,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 7.5 | Limited exposed urban archaeological remains |
-| uniqueness | — | 8.9 | Distinct Minoan settlement evidence beneath Chania |
-| significance | — | 9.2 | International Bronze Age cultural heritage |
-| experience | — | 7.5 | Free public access to visible excavation, not buried areas |
-| depth | — | 6.6 | Small exposed component, separate museum and city excluded |
+| Impact | — | 7.5 | Limited exposed urban archaeological remains |
+| Uniqueness | — | 8.9 | Distinct Minoan settlement evidence beneath Chania |
+| Significance | — | 9.2 | International Bronze Age cultural heritage |
+| Experience | — | 7.5 | Free public access to visible excavation, not buried areas |
+| Depth | — | 6.6 | Small exposed component, separate museum and city excluded |
 
 - Applicable category scores: history: 9.3.
 - Computed worldwide overall: 81.00/100.
@@ -1359,11 +1359,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.5 | Extensive river delta marshes |
-| uniqueness | — | 8.8 | Distinct borderland wetland habitats |
-| significance | — | 8.9 | International migratory bird conservation |
-| experience | — | 8.6 | Permitted observation and guided routes |
-| depth | — | 8.6 | Greek park only |
+| Impact | — | 8.5 | Extensive river delta marshes |
+| Uniqueness | — | 8.8 | Distinct borderland wetland habitats |
+| Significance | — | 8.9 | International migratory bird conservation |
+| Experience | — | 8.6 | Permitted observation and guided routes |
+| Depth | — | 8.6 | Greek park only |
 
 - Applicable category scores: nature: 9.2, wildlife: 9.3.
 - Computed worldwide overall: 86.80/100.
@@ -1394,11 +1394,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.5 | Lagoon river and coastal wetland landscapes |
-| uniqueness | — | 8.8 | Distinct interconnected delta and lake habitats |
-| significance | — | 8.8 | International wetland conservation |
-| experience | — | 8.6 | Permitted paths and bird observation |
-| depth | — | 8.8 | Defined protected park |
+| Impact | — | 8.5 | Lagoon river and coastal wetland landscapes |
+| Uniqueness | — | 8.8 | Distinct interconnected delta and lake habitats |
+| Significance | — | 8.8 | International wetland conservation |
+| Experience | — | 8.6 | Permitted paths and bird observation |
+| Depth | — | 8.8 | Defined protected park |
 
 - Applicable category scores: nature: 9.2, wildlife: 9.3.
 - Computed worldwide overall: 86.80/100.
@@ -1429,11 +1429,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.7 | Forested mountain ridges and streams |
-| uniqueness | — | 8.8 | Distinct northern Greek mountain forest ecosystems |
-| significance | — | 8.7 | National biodiversity heritage |
-| experience | — | 8.7 | Permitted forest routes |
-| depth | — | 9.0 | Defined park |
+| Impact | — | 8.7 | Forested mountain ridges and streams |
+| Uniqueness | — | 8.8 | Distinct northern Greek mountain forest ecosystems |
+| Significance | — | 8.7 | National biodiversity heritage |
+| Experience | — | 8.7 | Permitted forest routes |
+| Depth | — | 9.0 | Defined park |
 
 - Applicable category scores: nature: 9.3, wildlife: 9.1.
 - Computed worldwide overall: 87.55/100.
@@ -1464,11 +1464,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 9.2 | Rugged peaks gorges and forests |
-| uniqueness | — | 9.0 | Distinct extensive Balkan mountain habitats |
-| significance | — | 8.9 | National ecological heritage |
-| experience | — | 9.0 | Seasonal marked trails |
-| depth | — | 9.3 | Defined park broader than Vikos gorge |
+| Impact | — | 9.2 | Rugged peaks gorges and forests |
+| Uniqueness | — | 9.0 | Distinct extensive Balkan mountain habitats |
+| Significance | — | 8.9 | National ecological heritage |
+| Experience | — | 9.0 | Seasonal marked trails |
+| Depth | — | 9.3 | Defined park broader than Vikos gorge |
 
 - Applicable category scores: nature: 9.5, adventure: 9.3, photography: 9.4.
 - Computed worldwide overall: 90.70/100.
@@ -1499,11 +1499,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.9 | Marine islands and coastal habitats |
-| uniqueness | — | 9.1 | Distinct protected Mediterranean monk seal habitat |
-| significance | — | 9.2 | International marine conservation |
-| experience | — | 8.8 | Authorized boating without guaranteed sightings |
-| depth | — | 9.0 | Permitted marine sectors |
+| Impact | — | 8.9 | Marine islands and coastal habitats |
+| Uniqueness | — | 9.1 | Distinct protected Mediterranean monk seal habitat |
+| Significance | — | 9.2 | International marine conservation |
+| Experience | — | 8.8 | Authorized boating without guaranteed sightings |
+| Depth | — | 9.0 | Permitted marine sectors |
 
 - Applicable category scores: nature: 9.4, wildlife: 9.4.
 - Computed worldwide overall: 90.05/100.
@@ -1534,11 +1534,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.9 | Coastal bays and nesting beaches |
-| uniqueness | — | 9.0 | Distinct protected loggerhead turtle habitat |
-| significance | — | 9.1 | International marine conservation |
-| experience | — | 8.8 | Authorized observation and beach visits with seasonal restrictions |
-| depth | — | 8.8 | Permitted park sectors |
+| Impact | — | 8.9 | Coastal bays and nesting beaches |
+| Uniqueness | — | 9.0 | Distinct protected loggerhead turtle habitat |
+| Significance | — | 9.1 | International marine conservation |
+| Experience | — | 8.8 | Authorized observation and beach visits with seasonal restrictions |
+| Depth | — | 8.8 | Permitted park sectors |
 
 - Applicable category scores: nature: 9.4, wildlife: 9.4, beaches: 9.0.
 - Computed worldwide overall: 89.40/100.
@@ -1569,11 +1569,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.6 | Forested mountain ridges and island panoramas |
-| uniqueness | — | 8.7 | Distinct Kefalonian fir habitat |
-| significance | — | 8.7 | National ecological heritage |
-| experience | — | 8.7 | Permitted marked paths |
-| depth | — | 8.5 | Defined park |
+| Impact | — | 8.6 | Forested mountain ridges and island panoramas |
+| Uniqueness | — | 8.7 | Distinct Kefalonian fir habitat |
+| Significance | — | 8.7 | National ecological heritage |
+| Experience | — | 8.7 | Permitted marked paths |
+| Depth | — | 8.5 | Defined park |
 
 - Applicable category scores: nature: 9.2, photography: 9.0.
 - Computed worldwide overall: 86.50/100.
@@ -1604,11 +1604,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.5 | Shallow lagoons salt marshes and coastal flats |
-| uniqueness | — | 8.8 | Distinct large western Greek lagoon system |
-| significance | — | 8.8 | International wetland conservation |
-| experience | — | 8.6 | Permitted birding and landscape visits |
-| depth | — | 8.8 | Defined park sectors |
+| Impact | — | 8.5 | Shallow lagoons salt marshes and coastal flats |
+| Uniqueness | — | 8.8 | Distinct large western Greek lagoon system |
+| Significance | — | 8.8 | International wetland conservation |
+| Experience | — | 8.6 | Permitted birding and landscape visits |
+| Depth | — | 8.8 | Defined park sectors |
 
 - Applicable category scores: nature: 9.2, wildlife: 9.3.
 - Computed worldwide overall: 86.80/100.
@@ -1639,11 +1639,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.7 | Limestone peaks and fir forest |
-| uniqueness | — | 8.6 | Distinct central Greek montane habitats |
-| significance | — | 8.6 | National ecological heritage |
-| experience | — | 8.8 | Seasonal permitted trails |
-| depth | — | 8.8 | Park excludes Delphi sanctuary |
+| Impact | — | 8.7 | Limestone peaks and fir forest |
+| Uniqueness | — | 8.6 | Distinct central Greek montane habitats |
+| Significance | — | 8.6 | National ecological heritage |
+| Experience | — | 8.8 | Seasonal permitted trails |
+| Depth | — | 8.8 | Park excludes Delphi sanctuary |
 
 - Applicable category scores: nature: 9.2, adventure: 9.0.
 - Computed worldwide overall: 86.80/100.
@@ -1674,11 +1674,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.5 | Forested slopes and mountain meadows |
-| uniqueness | — | 8.7 | Distinct central Greek upland ecology |
-| significance | — | 8.7 | National biodiversity heritage |
-| experience | — | 8.6 | Permitted seasonal trails |
-| depth | — | 8.7 | Defined park |
+| Impact | — | 8.5 | Forested slopes and mountain meadows |
+| Uniqueness | — | 8.7 | Distinct central Greek upland ecology |
+| Significance | — | 8.7 | National biodiversity heritage |
+| Experience | — | 8.6 | Permitted seasonal trails |
+| Depth | — | 8.7 | Defined park |
 
 - Applicable category scores: nature: 9.2, adventure: 8.9.
 - Computed worldwide overall: 86.25/100.
@@ -1709,11 +1709,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.2 | Wooded hills and views near Athens |
-| uniqueness | — | 8.4 | Distinct regional montane forest habitat |
-| significance | — | 8.5 | National ecological heritage |
-| experience | — | 8.5 | Permitted open trails subject to restoration |
-| depth | — | 8.5 | Defined park |
+| Impact | — | 8.2 | Wooded hills and views near Athens |
+| Uniqueness | — | 8.4 | Distinct regional montane forest habitat |
+| Significance | — | 8.5 | National ecological heritage |
+| Experience | — | 8.5 | Permitted open trails subject to restoration |
+| Depth | — | 8.5 | Defined park |
 
 - Applicable category scores: nature: 9.0, wildlife: 8.9.
 - Computed worldwide overall: 83.85/100.
@@ -1744,11 +1744,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.2 | Coastal pine forest marsh and beaches |
-| uniqueness | — | 8.5 | Distinct Attic coastal habitat mosaic |
-| significance | — | 8.6 | National conservation heritage |
-| experience | — | 8.6 | Permitted shore and wetland routes |
-| depth | — | 8.2 | Park excludes unrelated Marathon monuments |
+| Impact | — | 8.2 | Coastal pine forest marsh and beaches |
+| Uniqueness | — | 8.5 | Distinct Attic coastal habitat mosaic |
+| Significance | — | 8.6 | National conservation heritage |
+| Experience | — | 8.6 | Permitted shore and wetland routes |
+| Depth | — | 8.2 | Park excludes unrelated Marathon monuments |
 
 - Applicable category scores: nature: 9.0, beaches: 8.8, wildlife: 9.0.
 - Computed worldwide overall: 84.15/100.
@@ -1779,11 +1779,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.9 | High limestone peaks and deep gorge |
-| uniqueness | — | 8.9 | Distinct northern Peloponnese mountain relief |
-| significance | — | 8.7 | National geological and ecological heritage |
-| experience | — | 8.9 | Permitted trails and scenic rail experience |
-| depth | — | 9.0 | Defined park |
+| Impact | — | 8.9 | High limestone peaks and deep gorge |
+| Uniqueness | — | 8.9 | Distinct northern Peloponnese mountain relief |
+| Significance | — | 8.7 | National geological and ecological heritage |
+| Experience | — | 8.9 | Permitted trails and scenic rail experience |
+| Depth | — | 9.0 | Defined park |
 
 - Applicable category scores: nature: 9.3, adventure: 9.1, photography: 9.2.
 - Computed worldwide overall: 88.70/100.
@@ -1814,11 +1814,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.4 | Coastal dunes pine forests and lagoons |
-| uniqueness | — | 8.7 | Distinct Peloponnesian wetland mosaic |
-| significance | — | 8.8 | International wetland conservation |
-| experience | — | 8.7 | Permitted forest and shore paths |
-| depth | — | 8.5 | Defined park |
+| Impact | — | 8.4 | Coastal dunes pine forests and lagoons |
+| Uniqueness | — | 8.7 | Distinct Peloponnesian wetland mosaic |
+| Significance | — | 8.8 | International wetland conservation |
+| Experience | — | 8.7 | Permitted forest and shore paths |
+| Depth | — | 8.5 | Defined park |
 
 - Applicable category scores: nature: 9.2, wildlife: 9.2.
 - Computed worldwide overall: 86.10/100.
@@ -1849,11 +1849,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 9.6 | Enormous sea-filled volcanic caldera and cliff settlements |
-| uniqueness | — | 9.5 | Distinct integrated volcanic island seascape |
-| significance | — | 9.0 | International volcanic and regional cultural heritage |
-| experience | — | 9.2 | Permitted viewpoints and boat trips |
-| depth | — | 9.2 | Caldera landscape not whole island or individual town |
+| Impact | — | 9.6 | Enormous sea-filled volcanic caldera and cliff settlements |
+| Uniqueness | — | 9.5 | Distinct integrated volcanic island seascape |
+| Significance | — | 9.0 | International volcanic and regional cultural heritage |
+| Experience | — | 9.2 | Permitted viewpoints and boat trips |
+| Depth | — | 9.2 | Caldera landscape not whole island or individual town |
 
 - Applicable category scores: nature: 9.6, photography: 9.7.
 - Computed worldwide overall: 93.55/100.
@@ -1884,11 +1884,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 9.2 | Deep limestone gorge and steep forested cliffs |
-| uniqueness | — | 9.0 | Distinct dramatic Pindos canyon |
-| significance | — | 8.8 | Regional geological heritage |
-| experience | — | 8.9 | Permitted viewpoints and marked trails |
-| depth | — | 8.7 | Gorge not whole national park |
+| Impact | — | 9.2 | Deep limestone gorge and steep forested cliffs |
+| Uniqueness | — | 9.0 | Distinct dramatic Pindos canyon |
+| Significance | — | 8.8 | Regional geological heritage |
+| Experience | — | 8.9 | Permitted viewpoints and marked trails |
+| Depth | — | 8.7 | Gorge not whole national park |
 
 - Applicable category scores: nature: 9.5, photography: 9.5, adventure: 9.2.
 - Computed worldwide overall: 89.75/100.
@@ -1919,11 +1919,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 9.2 | Pale sand and shallow turquoise lagoon |
-| uniqueness | — | 9.0 | Distinct coastal sandbar and lagoon composition |
-| significance | — | 8.3 | Regional ecological heritage |
-| experience | — | 8.8 | Permitted boat or walking visits subject to limits |
-| depth | — | 7.9 | One lagoon |
+| Impact | — | 9.2 | Pale sand and shallow turquoise lagoon |
+| Uniqueness | — | 9.0 | Distinct coastal sandbar and lagoon composition |
+| Significance | — | 8.3 | Regional ecological heritage |
+| Experience | — | 8.8 | Permitted boat or walking visits subject to limits |
+| Depth | — | 7.9 | One lagoon |
 
 - Applicable category scores: beaches: 9.5, nature: 9.4, photography: 9.5.
 - Computed worldwide overall: 87.80/100.
@@ -1954,11 +1954,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 9.0 | Shallow lagoon and pale sand coastal scenery |
-| uniqueness | — | 8.9 | Distinct protected coastal habitat and beach |
-| significance | — | 8.2 | Regional ecological heritage |
-| experience | — | 8.9 | Permitted beach access without assumed pink coloration |
-| depth | — | 7.7 | Immediate beach lagoon only |
+| Impact | — | 9.0 | Shallow lagoon and pale sand coastal scenery |
+| Uniqueness | — | 8.9 | Distinct protected coastal habitat and beach |
+| Significance | — | 8.2 | Regional ecological heritage |
+| Experience | — | 8.9 | Permitted beach access without assumed pink coloration |
+| Depth | — | 7.7 | Immediate beach lagoon only |
 
 - Applicable category scores: beaches: 9.5, photography: 9.4.
 - Computed worldwide overall: 86.70/100.
@@ -1989,11 +1989,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 9.3 | Dramatic enclosed cliff bay and wreck setting |
-| uniqueness | — | 9.1 | Distinct coastal amphitheater composition |
-| significance | — | 8.2 | Regional geological and maritime interest |
-| experience | — | 8.3 | Exterior authorized viewpoints only, no beach landing assumption |
-| depth | — | 7.5 | Viewpoint experience not beach access |
+| Impact | — | 9.3 | Dramatic enclosed cliff bay and wreck setting |
+| Uniqueness | — | 9.1 | Distinct coastal amphitheater composition |
+| Significance | — | 8.2 | Regional geological and maritime interest |
+| Experience | — | 8.3 | Exterior authorized viewpoints only, no beach landing assumption |
+| Depth | — | 7.5 | Viewpoint experience not beach access |
 
 - Applicable category scores: photography: 9.6, nature: 9.3.
 - Computed worldwide overall: 87.00/100.
@@ -2024,11 +2024,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 9.1 | Modern galleries and classical sculpture |
-| uniqueness | — | 9.2 | Distinct concentrated Acropolis archaeological collection |
-| significance | — | 9.5 | International classical art heritage |
-| experience | — | 9.2 | Managed public galleries |
-| depth | — | 9.0 | Museum not archaeological hill |
+| Impact | — | 9.1 | Modern galleries and classical sculpture |
+| Uniqueness | — | 9.2 | Distinct concentrated Acropolis archaeological collection |
+| Significance | — | 9.5 | International classical art heritage |
+| Experience | — | 9.2 | Managed public galleries |
+| Depth | — | 9.0 | Museum not archaeological hill |
 
 - Applicable category scores: culture: 9.5, history: 9.6.
 - Computed worldwide overall: 92.10/100.
@@ -2059,11 +2059,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 9.0 | Extensive ancient Greek archaeological collections |
-| uniqueness | — | 9.2 | Distinct concentration of material spanning Greek antiquity |
-| significance | — | 9.6 | International archaeological heritage |
-| experience | — | 9.0 | Managed museum galleries subject to closures |
-| depth | — | 9.2 | Named museum only |
+| Impact | — | 9.0 | Extensive ancient Greek archaeological collections |
+| Uniqueness | — | 9.2 | Distinct concentration of material spanning Greek antiquity |
+| Significance | — | 9.6 | International archaeological heritage |
+| Experience | — | 9.0 | Managed museum galleries subject to closures |
+| Depth | — | 9.2 | Named museum only |
 
 - Applicable category scores: history: 9.7, culture: 9.6.
 - Computed worldwide overall: 91.90/100.
@@ -2094,11 +2094,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.9 | Covered Bronze Age urban ruins |
-| uniqueness | — | 9.3 | Distinct preserved volcanic burial settlement |
-| significance | — | 9.4 | International Aegean archaeological heritage |
-| experience | — | 8.9 | Managed covered archaeological circuit |
-| depth | — | 8.7 | Named archaeological site |
+| Impact | — | 8.9 | Covered Bronze Age urban ruins |
+| Uniqueness | — | 9.3 | Distinct preserved volcanic burial settlement |
+| Significance | — | 9.4 | International Aegean archaeological heritage |
+| Experience | — | 8.9 | Managed covered archaeological circuit |
+| Depth | — | 8.7 | Named archaeological site |
 
 - Applicable category scores: history: 9.5, culture: 9.3.
 - Computed worldwide overall: 90.80/100.
@@ -2129,11 +2129,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 9.0 | Ancient temple ruins on fortified coastal hill |
-| uniqueness | — | 9.0 | Distinct layered coastal citadel setting |
-| significance | — | 9.1 | International classical and regional defensive heritage |
-| experience | — | 8.9 | Managed archaeological routes |
-| depth | — | 8.3 | Hilltop site not town or beach |
+| Impact | — | 9.0 | Ancient temple ruins on fortified coastal hill |
+| Uniqueness | — | 9.0 | Distinct layered coastal citadel setting |
+| Significance | — | 9.1 | International classical and regional defensive heritage |
+| Experience | — | 8.9 | Managed archaeological routes |
+| Depth | — | 8.3 | Hilltop site not town or beach |
 
 - Applicable category scores: architecture: 9.3, history: 9.3, photography: 9.4.
 - Computed worldwide overall: 89.35/100.
@@ -2164,11 +2164,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.9 | Classical temple columns above sea cliffs |
-| uniqueness | — | 9.0 | Distinct coastal sanctuary setting |
-| significance | — | 9.1 | International Greek architectural heritage |
-| experience | — | 8.8 | Managed site and authorized viewpoints |
-| depth | — | 7.9 | One temple precinct |
+| Impact | — | 8.9 | Classical temple columns above sea cliffs |
+| Uniqueness | — | 9.0 | Distinct coastal sanctuary setting |
+| Significance | — | 9.1 | International Greek architectural heritage |
+| Experience | — | 8.8 | Managed site and authorized viewpoints |
+| Depth | — | 7.9 | One temple precinct |
 
 - Applicable category scores: architecture: 9.3, history: 9.3, photography: 9.4.
 - Computed worldwide overall: 88.50/100.
@@ -2199,11 +2199,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 9.1 | Monumental gateway walls and tholos tombs |
-| uniqueness | — | 9.3 | Distinct major Bronze Age royal center |
-| significance | — | 9.5 | International Mycenaean archaeological heritage |
-| experience | — | 8.9 | Managed archaeological route |
-| depth | — | 8.8 | Mycenae only not Tiryns |
+| Impact | — | 9.1 | Monumental gateway walls and tholos tombs |
+| Uniqueness | — | 9.3 | Distinct major Bronze Age royal center |
+| Significance | — | 9.5 | International Mycenaean archaeological heritage |
+| Experience | — | 8.9 | Managed archaeological route |
+| Depth | — | 8.8 | Mycenae only not Tiryns |
 
 - Applicable category scores: history: 9.6, architecture: 9.5.
 - Computed worldwide overall: 91.70/100.
@@ -2234,11 +2234,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.5 | Massive surviving Cyclopean walls |
-| uniqueness | — | 9.0 | Distinct Bronze Age fortified palace engineering |
-| significance | — | 9.3 | International Mycenaean heritage |
-| experience | — | 8.5 | Managed archaeological grounds |
-| depth | — | 8.1 | Tiryns only |
+| Impact | — | 8.5 | Massive surviving Cyclopean walls |
+| Uniqueness | — | 9.0 | Distinct Bronze Age fortified palace engineering |
+| Significance | — | 9.3 | International Mycenaean heritage |
+| Experience | — | 8.5 | Managed archaeological grounds |
+| Depth | — | 8.1 | Tiryns only |
 
 - Applicable category scores: history: 9.4, architecture: 9.2.
 - Computed worldwide overall: 87.45/100.
@@ -2269,11 +2269,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 9.0 | Ancient civic remains and preserved temple |
-| uniqueness | — | 9.2 | Distinct classical Athenian civic center |
-| significance | — | 9.6 | International political and intellectual heritage |
-| experience | — | 9.0 | Managed archaeological paths and museum |
-| depth | — | 8.8 | Named Agora site |
+| Impact | — | 9.0 | Ancient civic remains and preserved temple |
+| Uniqueness | — | 9.2 | Distinct classical Athenian civic center |
+| Significance | — | 9.6 | International political and intellectual heritage |
+| Experience | — | 9.0 | Managed archaeological paths and museum |
+| Depth | — | 8.8 | Named Agora site |
 
 - Applicable category scores: history: 9.7, architecture: 9.4.
 - Computed worldwide overall: 91.50/100.
