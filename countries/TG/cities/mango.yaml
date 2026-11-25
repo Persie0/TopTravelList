@@ -1,0 +1,14 @@
+id: city-tg-mango
+name: "Mango"
+location:
+  country_code: TG
+  latitude: 10.3590
+  longitude: 0.4700
+scores:
+  impact: null
+  uniqueness: null
+  significance: 6.8
+  experience: null
+  depth: null
+  categories:
+    culture: 7.6
