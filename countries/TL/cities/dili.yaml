@@ -1,0 +1,16 @@
+id: city-tl-dili
+name: "Dili"
+location:
+  country_code: TL
+  latitude: -8.5569
+  longitude: 125.5603
+scores:
+  impact: 7.7
+  uniqueness: 8.2
+  significance: 8.4
+  experience: 8.0
+  depth: 7.9
+  categories:
+    history: 8.6
+    culture: 8.5
+    food: 7.9

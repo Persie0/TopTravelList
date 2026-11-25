@@ -1,0 +1,16 @@
+id: sight-se-asnen-national-park
+name: "Åsnen National Park"
+location:
+  country_code: SE
+  latitude: 56.63
+  longitude: 14.68
+scores:
+  impact: 8.2
+  uniqueness: 8.4
+  significance: 8.2
+  experience: 8.5
+  depth: 8.2
+  categories:
+    nature: 8.9
+    wildlife: 8.6
+    relaxation: 8.6

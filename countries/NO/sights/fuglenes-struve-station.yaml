@@ -1,0 +1,14 @@
+id: sight-no-fuglenes-struve-station
+name: "Fuglenes Struve Geodetic Arc Station"
+location:
+  country_code: "NO"
+  latitude: 70.67
+  longitude: 23.663333
+scores:
+  impact: 6.8
+  uniqueness: 8.1
+  significance: 8.6
+  experience: 7.4
+  depth: 6.1
+  categories:
+    history: 8.6

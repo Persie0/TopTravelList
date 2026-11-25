@@ -1,0 +1,15 @@
+id: sight-lb-national-museum-of-beirut
+name: "National Museum of Beirut"
+location:
+  country_code: LB
+  latitude: 33.878
+  longitude: 35.514
+scores:
+  impact: 8.2
+  uniqueness: 8.8
+  significance: 9.2
+  experience: 8.5
+  depth: 8.8
+  categories:
+    history: 9.4
+    culture: 9.2

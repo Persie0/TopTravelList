@@ -1,0 +1,16 @@
+id: sight-mm-bogyoke-market
+name: "Bogyoke Aung San Market"
+location:
+  country_code: MM
+  latitude: 16.781
+  longitude: 96.155
+scores:
+  impact: 7.3
+  uniqueness: 7.5
+  significance: 7.4
+  experience: 8.0
+  depth: 7.2
+  categories:
+    culture: 8.0
+    architecture: 7.7
+    food: 7.5

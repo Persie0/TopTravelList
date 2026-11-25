@@ -1,0 +1,16 @@
+id: sight-mm-inle-lake
+name: "Inle Lake"
+location:
+  country_code: MM
+  latitude: 20.55
+  longitude: 96.91
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 8.6
+  experience: 8.8
+  depth: 8.7
+  categories:
+    nature: 9.1
+    culture: 9.2
+    photography: 9.2

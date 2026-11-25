@@ -1,0 +1,15 @@
+id: sight-vc-colonarie-rock-art
+name: "Colonarie Rock Art"
+location:
+  country_code: VC
+  latitude: 13.242222
+  longitude: -61.131944
+scores:
+  impact: null
+  uniqueness: null
+  significance: 8.2
+  experience: null
+  depth: null
+  categories:
+    history: 8.7
+    culture: 8.6

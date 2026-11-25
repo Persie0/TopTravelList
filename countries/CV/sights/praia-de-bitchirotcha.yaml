@@ -1,0 +1,15 @@
+id: sight-cv-praia-de-bitchirotcha
+name: "Praia de Bitchirotcha"
+location:
+  country_code: CV
+  latitude: 15.1360
+  longitude: -23.2120
+scores:
+  impact: 8.5
+  uniqueness: 8.0
+  significance: 5.9
+  experience: 8.5
+  depth: 7.2
+  categories:
+    beaches: 8.9
+    relaxation: 8.8

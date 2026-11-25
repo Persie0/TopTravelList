@@ -1,0 +1,15 @@
+id: sight-ph-chocolate-hills
+name: "Chocolate Hills Natural Monument"
+location:
+  country_code: PH
+  latitude: 9.829
+  longitude: 124.139
+scores:
+  impact: 9.0
+  uniqueness: 9.1
+  significance: 8.4
+  experience: 8.5
+  depth: 7.9
+  categories:
+    nature: 9.2
+    photography: 9.3

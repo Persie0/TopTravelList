@@ -1,0 +1,15 @@
+id: sight-cr-area-de-conservacion-guanacaste-unesco-property
+name: "Area de Conservación Guanacaste (UNESCO property)"
+location:
+  country_code: CR
+  latitude: 10.85
+  longitude: -85.60
+scores:
+  impact: null
+  uniqueness: 9.4
+  significance: 9.6
+  experience: null
+  depth: null
+  categories:
+    nature: 9.5
+    wildlife: 9.5

@@ -1,0 +1,16 @@
+id: sight-pk-lahore-fort-and-shalamar
+name: "Fort and Shalamar Gardens in Lahore"
+location:
+  country_code: PK
+  latitude: 31.588
+  longitude: 74.315
+scores:
+  impact: 9.1
+  uniqueness: 9.0
+  significance: 9.2
+  experience: 9.0
+  depth: 9.0
+  categories:
+    architecture: 9.4
+    history: 9.3
+    photography: 9.2

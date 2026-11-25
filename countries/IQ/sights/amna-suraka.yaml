@@ -1,0 +1,15 @@
+id: sight-iq-amna-suraka
+name: "Amna Suraka Museum"
+location:
+  country_code: IQ
+  latitude: 35.562
+  longitude: 45.424
+scores:
+  impact: 7.9
+  uniqueness: 8.8
+  significance: 8.9
+  experience: 8.4
+  depth: 8.3
+  categories:
+    history: 9.1
+    culture: 8.8

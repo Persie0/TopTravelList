@@ -1,0 +1,16 @@
+id: sight-se-stora-sjofallet-national-park
+name: "Stora Sjöfallet/Stuor Muorkke National Park"
+location:
+  country_code: SE
+  latitude: 67.5
+  longitude: 18.38
+scores:
+  impact: 9.0
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 8.8
+  depth: 9.0
+  categories:
+    nature: 9.3
+    photography: 9.2
+    adventure: 9

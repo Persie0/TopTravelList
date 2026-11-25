@@ -1,0 +1,16 @@
+id: city-fi-rauma
+name: "Rauma"
+location:
+  country_code: FI
+  latitude: 61.128
+  longitude: 21.511
+scores:
+  impact: 8.3
+  uniqueness: 8.6
+  significance: 8.5
+  experience: 8.5
+  depth: 7.8
+  categories:
+    architecture: 9
+    history: 8.8
+    culture: 8.6

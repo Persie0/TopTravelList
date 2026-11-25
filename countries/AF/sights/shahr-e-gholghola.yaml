@@ -1,0 +1,15 @@
+id: sight-af-shahr-e-gholghola
+name: "Shahr-e Gholghola"
+location:
+  country_code: AF
+  latitude: 34.815
+  longitude: 67.832
+scores:
+  impact: 8.1
+  uniqueness: 8.3
+  significance: 8.6
+  experience: null
+  depth: null
+  categories:
+    history: 8.8
+    photography: 8.6

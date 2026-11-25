@@ -1,0 +1,15 @@
+id: sight-uz-nurata-chashma-complex
+name: "Nurata Chashma Complex"
+location:
+  country_code: UZ
+  latitude: 40.56
+  longitude: 65.69
+scores:
+  impact: 7.6
+  uniqueness: 8.0
+  significance: 8.1
+  experience: 8.0
+  depth: 7.0
+  categories:
+    history: 8.5
+    culture: 8.5

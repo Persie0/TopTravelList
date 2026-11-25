@@ -1,0 +1,15 @@
+id: sight-ye-diksam-plateau
+name: "Diksam Plateau"
+location:
+  country_code: YE
+  latitude: 12.48
+  longitude: 53.98
+scores:
+  impact: 9.2
+  uniqueness: 9.2
+  significance: 8.7
+  experience: 8.6
+  depth: 8.4
+  categories:
+    nature: 9.3
+    photography: 9.4

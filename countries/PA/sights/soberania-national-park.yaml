@@ -1,0 +1,16 @@
+id: sight-pa-soberania-national-park
+name: "Soberanía National Park"
+location:
+  country_code: PA
+  latitude: 9.155
+  longitude: -79.695
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.9
+  depth: 8.9
+  categories:
+    nature: 9.3
+    wildlife: 9.4
+    adventure: 8.6

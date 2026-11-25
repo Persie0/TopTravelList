@@ -1,0 +1,15 @@
+id: city-mn-choibalsan
+name: "Choibalsan"
+location:
+  country_code: MN
+  latitude: 48.079
+  longitude: 114.536
+scores:
+  impact: 6.5
+  uniqueness: 6.9
+  significance: 7.3
+  experience: 7.1
+  depth: 6.9
+  categories:
+    culture: 7.5
+    history: 7.6

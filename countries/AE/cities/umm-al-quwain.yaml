@@ -1,0 +1,15 @@
+id: city-ae-umm-al-quwain
+name: "Umm Al Quwain"
+location:
+  country_code: AE
+  latitude: 25.565
+  longitude: 55.553
+scores:
+  impact: 7.0
+  uniqueness: 7.3
+  significance: 7.3
+  experience: 7.5
+  depth: 6.8
+  categories:
+    culture: 7.8
+    relaxation: 7.9

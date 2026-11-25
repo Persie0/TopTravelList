@@ -2,7 +2,7 @@
 
 # Lithuania (LT) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**18 ranked** · **0 unassessed** · **18 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,28 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (18)
 
-No cities, towns & villages have been assessed for **Lithuania** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Vilnius](cities/vilnius.yaml) | City / town | **90.55** | **Architecture 9.4**, **History 9.3**, **Culture 9.2**, Food 8.5 | 9.0 / 9.0 / 9.1 / 9.1 / 9.2 | [54.6872, 25.2797](https://www.google.com/maps/search/?api=1&query=54.6872,25.2797) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Vilnius%2C%20Lithuania) |
+| 2 | [Kaunas](cities/kaunas.yaml) | City / town | **87.65** | **Architecture 9.3**, **Culture 9.0**, **History 8.9** | 8.6 / 8.9 / 8.8 / 8.8 / 8.8 | [54.8985, 23.9036](https://www.google.com/maps/search/?api=1&query=54.8985,23.9036) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kaunas%2C%20Lithuania) |
+| 3 | [Nida](cities/nida.yaml) | City / town | **84.00** | **Photography 9.0**, **Relaxation 9.0**, **Architecture 8.7** | 8.5 / 8.7 / 8.0 / 8.7 / 7.7 | [55.303, 21.005](https://www.google.com/maps/search/?api=1&query=55.303,21.005) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nida%2C%20Lithuania) |
+| 4 | [Trakai](cities/trakai.yaml) | City / town | **83.15** | **Photography 8.9**, **History 8.8**, **Architecture 8.6** | 8.3 / 8.5 / 8.4 / 8.4 / 7.6 | [54.637, 24.934](https://www.google.com/maps/search/?api=1&query=54.637,24.934) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Trakai%2C%20Lithuania) |
+| 5 | [Klaipėda](cities/klaipeda.yaml) | City / town | **80.70** | **History 8.5**, **Architecture 8.3**, **Culture 8.3** | 7.9 / 8.1 / 8.1 / 8.3 / 8.1 | [55.7033, 21.1443](https://www.google.com/maps/search/?api=1&query=55.7033,21.1443) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Klaip%C4%97da%2C%20Lithuania) |
+| 6 | [Juodkrantė](cities/juodkrante.yaml) | City / town | **78.95** | **Relaxation 8.6**, **Architecture 8.3** | 7.9 / 8.2 / 7.6 / 8.3 / 7.1 | [55.54, 21.12](https://www.google.com/maps/search/?api=1&query=55.54,21.12) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Juodkrant%C4%97%2C%20Lithuania) |
+| 7 | [Kėdainiai](cities/kedainiai.yaml) | City / town | **78.70** | **Architecture 8.6**, **History 8.5** | 7.8 / 8.0 / 8.0 / 8.0 / 7.3 | [55.287, 23.974](https://www.google.com/maps/search/?api=1&query=55.287,23.974) | [Google Maps](https://www.google.com/maps/search/?api=1&query=K%C4%97dainiai%2C%20Lithuania) |
+| 8 | [Druskininkai](cities/druskininkai.yaml) | City / town | **78.55** | **Relaxation 9.0**, **Family 8.5**, **Architecture 8.0** | 7.8 / 7.7 / 7.5 / 8.6 / 8.0 | [54.015, 23.987](https://www.google.com/maps/search/?api=1&query=54.015,23.987) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Druskininkai%2C%20Lithuania) |
+| 8 | [Palanga](cities/palanga.yaml) | City / town | **78.55** | **Beaches 8.8**, **Relaxation 8.8**, **Culture 8.0** | 7.9 / 7.6 / 7.4 / 8.7 / 8.0 | [55.918, 21.068](https://www.google.com/maps/search/?api=1&query=55.918,21.068) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Palanga%2C%20Lithuania) |
+| 10 | [Kernavė](cities/kernave.yaml) | City / town | **77.65** | **History 8.6**, **Culture 8.1** | 7.5 / 8.1 / 8.2 / 7.8 / 6.8 | [54.886, 24.85](https://www.google.com/maps/search/?api=1&query=54.886,24.85) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kernav%C4%97%2C%20Lithuania) |
+| 11 | [Anykščiai](cities/anyksciai.yaml) | City / town | **77.25** | **Culture 8.3**, **Relaxation 8.2** | 7.6 / 7.8 / 7.7 / 8.1 / 7.4 | [55.526, 25.102](https://www.google.com/maps/search/?api=1&query=55.526,25.102) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Anyk%C5%A1%C4%8Diai%2C%20Lithuania) |
+| 12 | [Biržai](cities/birzai.yaml) | City / town | **76.80** | **History 8.4**, **Architecture 8.1** | 7.5 / 7.8 / 7.9 / 7.8 / 7.3 | [56.2, 24.75](https://www.google.com/maps/search/?api=1&query=56.2,24.75) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bir%C5%BEai%2C%20Lithuania) |
+| 13 | [Telšiai](cities/telsiai.yaml) | City / town | **76.60** | **Culture 8.4**, **Architecture 8.2** | 7.5 / 7.8 / 7.8 / 7.8 / 7.3 | [55.983, 22.247](https://www.google.com/maps/search/?api=1&query=55.983,22.247) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tel%C5%A1iai%2C%20Lithuania) |
+| 14 | [Birštonas](cities/birstonas.yaml) | City / town | **75.20** | **Relaxation 8.9**, **Nature 8.0** | 7.5 / 7.5 / 7.1 / 8.3 / 7.3 | [54.604, 24.031](https://www.google.com/maps/search/?api=1&query=54.604,24.031) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bir%C5%A1tonas%2C%20Lithuania) |
+| 15 | [Zarasai](cities/zarasai.yaml) | City / town | **74.70** | **Relaxation 8.4**, **Photography 8.2** | 7.5 / 7.6 / 7.1 / 8.0 / 7.0 | [55.732, 26.25](https://www.google.com/maps/search/?api=1&query=55.732,26.25) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Zarasai%2C%20Lithuania) |
+| 16 | [Šilutė](cities/silute.yaml) | City / town | **74.55** | **History 8.1**, **Architecture 8.0** | 7.2 / 7.7 / 7.6 / 7.6 / 7.1 | [55.347, 21.482](https://www.google.com/maps/search/?api=1&query=55.347,21.482) | [Google Maps](https://www.google.com/maps/search/?api=1&query=%C5%A0ilut%C4%97%2C%20Lithuania) |
+| 17 | [Šiauliai](cities/siauliai.yaml) | City / town | **73.45** | **Culture 8.0**, **History 7.8** | 7.1 / 7.2 / 7.5 / 7.7 / 7.6 | [55.934, 23.313](https://www.google.com/maps/search/?api=1&query=55.934,23.313) | [Google Maps](https://www.google.com/maps/search/?api=1&query=%C5%A0iauliai%2C%20Lithuania) |
+| 18 | [Panevėžys](cities/panevezys.yaml) | City / town | **72.40** | **Culture 8.1**, **Architecture 7.4** | 7.0 / 7.1 / 7.3 / 7.7 / 7.5 | [55.734, 24.358](https://www.google.com/maps/search/?api=1&query=55.734,24.358) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Panev%C4%97%C5%BEys%2C%20Lithuania) |
 
 ---
 

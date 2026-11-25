@@ -1,0 +1,14 @@
+id: city-mn-bulgan
+name: "Bulgan"
+location:
+  country_code: MN
+  latitude: 48.813
+  longitude: 103.534
+scores:
+  impact: 6.5
+  uniqueness: 6.8
+  significance: 6.9
+  experience: 7.2
+  depth: 6.4
+  categories:
+    culture: 7.4

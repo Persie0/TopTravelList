@@ -1,0 +1,17 @@
+id: sight-tl-atauro-island-reefs
+name: "Atauro Island Reefs"
+location:
+  country_code: TL
+  latitude: -8.23
+  longitude: 125.62
+scores:
+  impact: 9.4
+  uniqueness: 9.6
+  significance: 9.5
+  experience: 9.4
+  depth: 9.4
+  categories:
+    nature: 9.6
+    wildlife: 9.7
+    adventure: 9.5
+    photography: 9.3

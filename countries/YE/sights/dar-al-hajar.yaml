@@ -1,0 +1,15 @@
+id: sight-ye-dar-al-hajar
+name: "Dar Al Hajar"
+location:
+  country_code: YE
+  latitude: 15.442
+  longitude: 44.127
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 8.2
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.1
+    photography: 9.2

@@ -1,0 +1,16 @@
+id: city-ag-codrington
+name: "Codrington"
+location:
+  country_code: AG
+  latitude: 17.641
+  longitude: -61.825
+scores:
+  impact: 7.1
+  uniqueness: 8.3
+  significance: 7.8
+  experience: 7.6
+  depth: 6.6
+  categories:
+    culture: 8.8
+    history: 8.4
+    photography: 8.1

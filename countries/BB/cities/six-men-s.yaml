@@ -1,0 +1,15 @@
+id: city-bb-six-men-s
+name: "Six Men's"
+location:
+  country_code: BB
+  latitude: 13.274
+  longitude: -59.646
+scores:
+  impact: 6.8
+  uniqueness: 7.6
+  significance: 6.7
+  experience: 7.6
+  depth: 5.9
+  categories:
+    culture: 8.3
+    food: 8.1

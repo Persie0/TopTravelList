@@ -1,0 +1,15 @@
+id: sight-vc-indian-bay-beach
+name: "Indian Bay Beach"
+location:
+  country_code: VC
+  latitude: 13.133
+  longitude: -61.207
+scores:
+  impact: 8.0
+  uniqueness: 7.4
+  significance: 5.8
+  experience: 8.5
+  depth: 7.0
+  categories:
+    beaches: 8.5
+    relaxation: 8.6

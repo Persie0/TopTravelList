@@ -1,0 +1,15 @@
+id: sight-cr-las-baulas-national-marine-park
+name: "Las Baulas National Marine Park"
+location:
+  country_code: CR
+  latitude: 10.338
+  longitude: -85.852
+scores:
+  impact: 8.2
+  uniqueness: 8.7
+  significance: 9.2
+  experience: 8.2
+  depth: 8.0
+  categories:
+    wildlife: 9.4
+    nature: 9.1

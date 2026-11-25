@@ -1,0 +1,17 @@
+id: sight-lv-turaida-museum-reserve
+name: "Turaida Museum Reserve"
+location:
+  country_code: LV
+  latitude: 57.183
+  longitude: 24.85
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 8.8
+  experience: 8.9
+  depth: 8.7
+  categories:
+    architecture: 9
+    history: 9.2
+    culture: 8.9
+    photography: 9

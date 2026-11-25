@@ -1,0 +1,16 @@
+id: sight-se-kosterhavet-national-park
+name: "Kosterhavet National Park"
+location:
+  country_code: SE
+  latitude: 58.87
+  longitude: 11.06
+scores:
+  impact: 8.6
+  uniqueness: 9.0
+  significance: 9.0
+  experience: 8.7
+  depth: 8.8
+  categories:
+    nature: 9.3
+    wildlife: 9.3
+    adventure: 8.8
