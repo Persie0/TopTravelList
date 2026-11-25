@@ -1,0 +1,16 @@
+id: city-cl-vicuna
+name: "Vicuña"
+location:
+  country_code: CL
+  latitude: -30.0319
+  longitude: -70.7080
+scores:
+  impact: 7.0
+  uniqueness: 7.5
+  significance: 7.3
+  experience: 8.0
+  depth: 6.7
+  categories:
+    culture: 8.2
+    history: 8.0
+    relaxation: 8.1

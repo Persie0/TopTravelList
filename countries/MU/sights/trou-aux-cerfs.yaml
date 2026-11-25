@@ -1,0 +1,15 @@
+id: sight-mu-trou-aux-cerfs
+name: "Trou aux Cerfs"
+location:
+  country_code: MU
+  latitude: -20.3180
+  longitude: 57.5210
+scores:
+  impact: 7.8
+  uniqueness: 8.0
+  significance: 7.1
+  experience: 7.6
+  depth: 6.5
+  categories:
+    nature: 8.3
+    photography: 8.2

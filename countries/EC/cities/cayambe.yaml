@@ -1,0 +1,15 @@
+id: city-ec-cayambe
+name: "Cayambe"
+location:
+  country_code: EC
+  latitude: 0.0417
+  longitude: -78.1456
+scores:
+  impact: 6.9
+  uniqueness: 7.3
+  significance: 6.8
+  experience: 7.6
+  depth: 6.6
+  categories:
+    food: 8.2
+    culture: 7.7

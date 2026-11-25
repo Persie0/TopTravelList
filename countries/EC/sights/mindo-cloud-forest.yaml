@@ -1,0 +1,16 @@
+id: sight-ec-mindo-cloud-forest
+name: "Mindo Cloud Forest"
+location:
+  country_code: EC
+  latitude: -0.0600
+  longitude: -78.7700
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 8.6
+  experience: 9.0
+  depth: 8.8
+  categories:
+    nature: 9.3
+    wildlife: 9.4
+    photography: 9.0

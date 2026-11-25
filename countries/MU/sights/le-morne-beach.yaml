@@ -1,0 +1,16 @@
+id: sight-mu-le-morne-beach
+name: "Le Morne Beach"
+location:
+  country_code: MU
+  latitude: -20.4580
+  longitude: 57.3110
+scores:
+  impact: 9.3
+  uniqueness: 8.9
+  significance: 6.9
+  experience: 8.9
+  depth: 7.9
+  categories:
+    beaches: 9.4
+    photography: 9.4
+    adventure: 9.0

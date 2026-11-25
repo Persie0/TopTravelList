@@ -1,0 +1,15 @@
+id: sight-pe-ransom-room-cajamarca
+name: "Ransom Room (Cajamarca)"
+location:
+  country_code: PE
+  latitude: -7.1570
+  longitude: -78.5160
+scores:
+  impact: 7.2
+  uniqueness: 8.6
+  significance: 9.5
+  experience: 7.5
+  depth: 5.8
+  categories:
+    history: 9.7
+    culture: 8.6

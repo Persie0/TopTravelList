@@ -1,0 +1,16 @@
+id: city-py-villarrica
+name: "Villarrica"
+location:
+  country_code: PY
+  latitude: -25.7500
+  longitude: -56.4333
+scores:
+  impact: 7.2
+  uniqueness: 7.4
+  significance: 7.7
+  experience: 7.5
+  depth: 7.1
+  categories:
+    architecture: 8.0
+    history: 8.1
+    culture: 8.0

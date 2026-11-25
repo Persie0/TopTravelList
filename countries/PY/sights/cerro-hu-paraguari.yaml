@@ -1,0 +1,15 @@
+id: sight-py-cerro-hu-paraguari
+name: "Cerro Hũ (Paraguarí)"
+location:
+  country_code: PY
+  latitude: -25.6100
+  longitude: -57.1500
+scores:
+  impact: 7.7
+  uniqueness: 7.6
+  significance: 6.5
+  experience: 8.1
+  depth: 6.9
+  categories:
+    photography: 8.5
+    adventure: 8.1

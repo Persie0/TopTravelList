@@ -1,0 +1,16 @@
+id: sight-pe-moray-archaeological-site
+name: "Moray Archaeological Site"
+location:
+  country_code: PE
+  latitude: -13.3290
+  longitude: -72.1960
+scores:
+  impact: 8.8
+  uniqueness: 9.2
+  significance: 8.6
+  experience: 8.5
+  depth: 7.4
+  categories:
+    architecture: 9.3
+    history: 8.9
+    photography: 9.3

@@ -1,0 +1,15 @@
+id: city-ar-rio-gallegos
+name: "Río Gallegos"
+location:
+  country_code: AR
+  latitude: -51.6226
+  longitude: -69.2181
+scores:
+  impact: 6.3
+  uniqueness: 7.0
+  significance: 6.7
+  experience: 6.9
+  depth: 6.6
+  categories:
+    history: 7.5
+    culture: 7.3

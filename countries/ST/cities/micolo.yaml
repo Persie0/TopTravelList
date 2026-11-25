@@ -1,0 +1,15 @@
+id: city-st-micolo
+name: "Micoló"
+location:
+  country_code: ST
+  latitude: 0.4090
+  longitude: 6.6900
+scores:
+  impact: 6.9
+  uniqueness: 7.3
+  significance: 6.3
+  experience: 7.3
+  depth: 5.9
+  categories:
+    culture: 7.6
+    photography: 7.7

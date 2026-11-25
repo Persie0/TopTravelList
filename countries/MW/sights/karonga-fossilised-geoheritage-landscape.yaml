@@ -1,0 +1,15 @@
+id: sight-mw-karonga-fossilised-geoheritage-landscape
+name: "Karonga Fossilised Geoheritage Landscape"
+location:
+  country_code: MW
+  latitude: -9.93333
+  longitude: 33.93333
+scores:
+  impact: null
+  uniqueness: null
+  significance: 9.1
+  experience: null
+  depth: null
+  categories:
+    history: 9.4
+    nature: 9.0

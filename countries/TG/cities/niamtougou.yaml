@@ -1,0 +1,14 @@
+id: city-tg-niamtougou
+name: "Niamtougou"
+location:
+  country_code: TG
+  latitude: 9.7670
+  longitude: 1.1000
+scores:
+  impact: 6.4
+  uniqueness: 7.2
+  significance: 6.7
+  experience: 7.2
+  depth: 6.1
+  categories:
+    culture: 7.8

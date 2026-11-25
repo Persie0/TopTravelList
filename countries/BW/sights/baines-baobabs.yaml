@@ -1,0 +1,15 @@
+id: sight-bw-baines-baobabs
+name: "Baines Baobabs"
+location:
+  country_code: BW
+  latitude: -19.9500
+  longitude: 24.7700
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 6.9
+  experience: 8.1
+  depth: 6.3
+  categories:
+    photography: 9.4
+    nature: 8.8

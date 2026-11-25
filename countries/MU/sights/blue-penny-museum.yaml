@@ -1,0 +1,15 @@
+id: sight-mu-blue-penny-museum
+name: "Blue Penny Museum"
+location:
+  country_code: MU
+  latitude: -20.1620
+  longitude: 57.4960
+scores:
+  impact: 7.3
+  uniqueness: 8.7
+  significance: 8.6
+  experience: 8.0
+  depth: 7.3
+  categories:
+    history: 9.0
+    culture: 8.5

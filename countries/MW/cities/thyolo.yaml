@@ -1,0 +1,15 @@
+id: city-mw-thyolo
+name: "Thyolo"
+location:
+  country_code: MW
+  latitude: -16.0670
+  longitude: 35.1500
+scores:
+  impact: 6.7
+  uniqueness: 7.3
+  significance: 6.6
+  experience: 7.4
+  depth: 6.1
+  categories:
+    culture: 7.8
+    photography: 7.8

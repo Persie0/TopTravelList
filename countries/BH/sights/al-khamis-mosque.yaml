@@ -1,0 +1,15 @@
+id: sight-bh-al-khamis-mosque
+name: "Al Khamis Mosque"
+location:
+  country_code: BH
+  latitude: 26.2080
+  longitude: 50.5470
+scores:
+  impact: 7.8
+  uniqueness: 8.3
+  significance: 8.9
+  experience: 7.8
+  depth: 7.0
+  categories:
+    history: 9.2
+    architecture: 8.6

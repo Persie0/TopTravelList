@@ -1,0 +1,16 @@
+id: sight-gy-rewa-river-wildlife-area
+name: "Rewa River Wildlife Area"
+location:
+  country_code: GY
+  latitude: 4.0500
+  longitude: -58.5833
+scores:
+  impact: 8.4
+  uniqueness: 8.6
+  significance: 8.3
+  experience: 8.6
+  depth: 8.2
+  categories:
+    wildlife: 9.2
+    nature: 8.8
+    adventure: 8.6

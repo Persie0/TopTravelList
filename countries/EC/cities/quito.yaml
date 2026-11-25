@@ -1,0 +1,18 @@
+id: city-ec-quito
+name: "Quito"
+location:
+  country_code: EC
+  latitude: -0.2202
+  longitude: -78.5123
+scores:
+  impact: 9.1
+  uniqueness: 8.9
+  significance: 9.2
+  experience: 8.8
+  depth: 9.2
+  categories:
+    architecture: 9.4
+    history: 9.4
+    culture: 9.2
+    photography: 9.1
+    food: 8.5

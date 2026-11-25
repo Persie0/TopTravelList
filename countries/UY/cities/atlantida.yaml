@@ -1,0 +1,16 @@
+id: city-uy-atlantida
+name: "Atlantida"
+location:
+  country_code: UY
+  latitude: -34.7714
+  longitude: -55.7584
+scores:
+  impact: 7.2
+  uniqueness: 7.3
+  significance: 6.7
+  experience: 7.7
+  depth: 7.0
+  categories:
+    beaches: 8.0
+    relaxation: 8.1
+    architecture: 7.6

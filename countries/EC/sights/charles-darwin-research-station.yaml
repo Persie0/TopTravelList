@@ -1,0 +1,16 @@
+id: sight-ec-charles-darwin-research-station
+name: "Charles Darwin Research Station"
+location:
+  country_code: EC
+  latitude: -0.7420
+  longitude: -90.3020
+scores:
+  impact: 8.0
+  uniqueness: 8.7
+  significance: 9.2
+  experience: 8.3
+  depth: 7.5
+  categories:
+    wildlife: 9.3
+    nature: 8.9
+    culture: 8.3

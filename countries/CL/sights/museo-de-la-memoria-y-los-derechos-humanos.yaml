@@ -1,0 +1,15 @@
+id: sight-cl-museo-de-la-memoria-y-los-derechos-humanos
+name: "Museo de la Memoria y los Derechos Humanos"
+location:
+  country_code: CL
+  latitude: -33.4390
+  longitude: -70.6800
+scores:
+  impact: 7.8
+  uniqueness: 8.4
+  significance: 9.0
+  experience: 8.3
+  depth: 7.6
+  categories:
+    history: 9.4
+    culture: 8.8

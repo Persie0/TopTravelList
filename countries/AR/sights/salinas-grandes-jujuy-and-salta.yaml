@@ -1,0 +1,15 @@
+id: sight-ar-salinas-grandes-jujuy-and-salta
+name: "Salinas Grandes (Jujuy and Salta)"
+location:
+  country_code: AR
+  latitude: -23.6200
+  longitude: -65.9000
+scores:
+  impact: 9.1
+  uniqueness: 8.9
+  significance: 7.7
+  experience: 8.5
+  depth: 7.4
+  categories:
+    nature: 9.2
+    photography: 9.6
