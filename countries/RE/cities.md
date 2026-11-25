@@ -2,7 +2,7 @@
 
 # Réunion (RE) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**5 ranked** · **0 unassessed** · **5 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,15 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (5)
 
-No cities, towns & villages have been assessed for **Réunion** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Cilaos](cities/cilaos.yaml) | City / town | **81.05** | **Photography 8.6**, **Culture 8.1**, **Food 8.0** | 8.5 / 8.3 / 7.5 / 8.2 / 7.5 | [-21.1369, 55.4719](https://www.google.com/maps/search/?api=1&query=-21.1369,55.4719) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cilaos%2C%20R%C3%A9union) |
+| 2 | [Hell-Bourg](cities/hell-bourg.yaml) | City / town | **80.85** | **Architecture 8.6**, **Culture 8.5**, **Photography 8.3** | 8.1 / 8.5 / 7.8 / 8.2 / 7.4 | [-21.065, 55.518](https://www.google.com/maps/search/?api=1&query=-21.065,55.518) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hell-Bourg%2C%20R%C3%A9union) |
+| 3 | [Saint-Denis](cities/saint-denis.yaml) | City / town | **79.15** | **Culture 8.5**, **Architecture 8.3**, **Food 8.3** | 7.6 / 8.0 / 8.1 / 8.1 / 8.0 | [-20.8789, 55.4481](https://www.google.com/maps/search/?api=1&query=-20.8789,55.4481) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Saint-Denis%2C%20R%C3%A9union) |
+| 4 | [Saint-Pierre](cities/saint-pierre.yaml) | City / town | **76.00** | **Food 8.2**, **Culture 8.0**, **Relaxation 8.0** | 7.6 / 7.6 / 7.3 / 8.0 / 7.6 | [-21.3393, 55.4781](https://www.google.com/maps/search/?api=1&query=-21.3393,55.4781) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Saint-Pierre%2C%20R%C3%A9union) |
+| 5 | [Saint-Leu](cities/saint-leu.yaml) | City / town | **73.95** | **Relaxation 8.0**, **Food 7.8**, **Culture 7.7** | 7.4 / 7.5 / 7.0 / 7.8 / 7.3 | [-21.166, 55.288](https://www.google.com/maps/search/?api=1&query=-21.166,55.288) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Saint-Leu%2C%20R%C3%A9union) |
 
 ---
 

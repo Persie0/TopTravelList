@@ -2,7 +2,7 @@
 
 # Réunion (RE) — Sights & attractions ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**10 ranked** · **0 unassessed** · **10 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,11 +10,20 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (10)
 
-No sights & attractions have been assessed for **Réunion** yet.
-
-Add destination YAML files in [sights/](sights/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Pitons, cirques and remparts of Réunion (National Park core)](sights/reunion-pitons.yaml) | Park / reserve | **93.80** | **Nature 9.7**, **Photography 9.6**, **Adventure 9.4** | 9.5 / 9.4 / 9.3 / 9.2 / 9.4 | [-21.1, 55.5](https://www.google.com/maps/search/?api=1&query=-21.1,55.5) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Pitons%2C%20cirques%20and%20remparts%20of%20R%C3%A9union%20%28National%20Park%20core%29%2C%20R%C3%A9union) |
+| 2 | [Piton de la Fournaise](sights/piton-de-la-fournaise.yaml) | Attraction | **92.65** | **Photography 9.5**, **Nature 9.4**, **Adventure 9.3** | 9.5 / 9.3 / 9.2 / 9.0 / 9.0 | [-21.244, 55.708](https://www.google.com/maps/search/?api=1&query=-21.244,55.708) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Piton%20de%20la%20Fournaise%2C%20R%C3%A9union) |
+| 3 | [Cirque de Mafate](sights/cirque-de-mafate.yaml) | Attraction | **91.80** | **Adventure 9.4**, **Nature 9.4**, **Photography 9.4** | 9.4 / 9.2 / 8.8 / 9.2 / 9.2 | [-21.055, 55.422](https://www.google.com/maps/search/?api=1&query=-21.055,55.422) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cirque%20de%20Mafate%2C%20R%C3%A9union) |
+| 4 | [Cirque de Cilaos](sights/cirque-de-cilaos.yaml) | Attraction | **88.45** | **Adventure 9.2**, **Nature 9.1**, **Photography 9.1** | 9.1 / 8.7 / 8.5 / 9.0 / 8.9 | [-21.14, 55.47](https://www.google.com/maps/search/?api=1&query=-21.14,55.47) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cirque%20de%20Cilaos%2C%20R%C3%A9union) |
+| 5 | [Piton des Neiges](sights/piton-des-neiges.yaml) | Attraction | **88.05** | **Adventure 9.2**, **Photography 9.2**, **Nature 9.1** | 9.1 / 8.7 / 8.7 / 8.8 / 8.4 | [-21.099, 55.48](https://www.google.com/maps/search/?api=1&query=-21.099,55.48) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Piton%20des%20Neiges%2C%20R%C3%A9union) |
+| 6 | [Cirque de Salazie](sights/cirque-de-salazie.yaml) | Attraction | **87.65** | **Photography 9.2**, **Nature 9.1**, **Adventure 8.8** | 9.0 / 8.7 / 8.5 / 8.8 / 8.7 | [-21.032, 55.537](https://www.google.com/maps/search/?api=1&query=-21.032,55.537) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cirque%20de%20Salazie%2C%20R%C3%A9union) |
+| 7 | [Trou de Fer viewpoint and gorge](sights/trou-de-fer.yaml) | Valley / canyon | **86.10** | **Photography 9.2**, **Nature 9.1** | 9.1 / 8.9 / 8.3 / 8.3 / 7.5 | [-21.04, 55.55](https://www.google.com/maps/search/?api=1&query=-21.04,55.55) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Trou%20de%20Fer%20viewpoint%20and%20gorge%2C%20R%C3%A9union) |
+| 8 | [Plaine des Sables](sights/plaine-des-sables.yaml) | Attraction | **85.00** | **Photography 9.0**, **Nature 8.9** | 8.8 / 8.8 / 8.1 / 8.4 / 7.8 | [-21.223, 55.663](https://www.google.com/maps/search/?api=1&query=-21.223,55.663) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Plaine%20des%20Sables%2C%20R%C3%A9union) |
+| 9 | [Maïdo viewpoint](sights/maido.yaml) | Tower / viewpoint | **83.65** | **Photography 9.2**, **Nature 8.9** | 9.0 / 8.5 / 7.6 / 8.6 / 7.3 | [-21.071, 55.387](https://www.google.com/maps/search/?api=1&query=-21.071,55.387) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ma%C3%AFdo%20viewpoint%2C%20R%C3%A9union) |
+| 10 | [Langevin / Grand Galet Waterfall](sights/grand-galet.yaml) | Waterfall | **78.55** | **Photography 8.8**, **Nature 8.6** | 8.5 / 7.9 / 7.0 / 8.2 / 7.0 | [-21.31, 55.645](https://www.google.com/maps/search/?api=1&query=-21.31,55.645) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Langevin%20%2F%20Grand%20Galet%20Waterfall%2C%20R%C3%A9union) |
 
 ---
 
