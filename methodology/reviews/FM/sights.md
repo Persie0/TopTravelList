@@ -63,6 +63,8 @@ Core values are I/U/S/E/D. Existing qualitative comparisons are retained; these 
 - https://visitingoceania.com/landmarks/chuuk-lagoon/
 - Missing or uncertain facts: Single guide source; corroborate heritage scope, conservation and operator access.
 
+- Additional source review (2026-11-26): [Chuuk Visitors Bureau](https://visitchuuk.com/things-do/wreck-diving) (indexed excerpt) documents the submerged historic fleet as an established wreck-diving attraction. [Chuuk State Code, chapter 8](https://fsmlaw.org/chuuk/code/title25/T25_Ch08.htm) (indexed excerpt) defines the protected lagoon within the barrier reef. [National Park Service](https://www.nps.gov/articles/truk-lagoon-underwater-fleet-truk-atoll.htm) (indexed excerpt) confirms the historic fleet identity. These support heritage and visitor scope, not a guarantee of access, safety, or the editorial score. No numerical change; full verification remains outstanding.
+
 ### Worldwide peer comparisons
 - Bikini Atoll (Marshall Islands): related submerged heritage, different history/access
 - Scapa Flow (United Kingdom): similar wreck-diving landscape
@@ -529,3 +531,72 @@ Core values are I/U/S/E/D. Existing qualitative comparisons are retained; these 
 - **Taraang (O'Keefe's Island):** UNESCO tentative description confirms historic archaeological remains and O'Keefe's trading history (https://whc.unesco.org/en/tentativelists/1994). No reliable routine authorized island visit established; retain null experience/depth. Tentative listing is not inscription.
 
 These pages were inspected 2026-11-25; no unsupported visitor ratings added.
+
+
+## sight-fm-miil-channel — Mi'il Channel — 2026-11-26
+
+- YAML: [source](../../../countries/FM/sights/miil-channel.yaml)
+- Action: new
+- Precise subject: Named Yap reef channel and associated manta cleaning stations within the channel; not all Yap dive sites.
+- Location check: Approximate channel dive-site point from https://below.app/en-GB/dive-sites/micronesia/yap/miil-channel (indexed excerpt); https://www.divers.world/divesite/yap/mil-channel/ (page inspected) gives a nearby alternative point 9.5927,138.1413. Representative point, not navigational coordinates.
+- Evidence status: source-linked-unverified
+- Factual references consulted 2026-11-26:
+- Divers Alert Network https://dan.org/alert-diver/article/yap/ (page inspected): established manta cleaning stations, other marine life and coral walls; historical account, not present-day sightings guarantee.
+- Manta Ray Bay Resort https://mantaray.com/sites/mil-channel/ (indexed excerpt): local operator documents the channel dive and corals; commercial source.
+- DAN World https://world.dan.org/alert-diver/article/yap-island-of-pure-magic/ (indexed excerpt): manta cleaning behaviour and diving context.
+- Missing facts: current access, site boundary and full independent claim verification.
+
+### Worldwide peer comparisons
+- [sipadan-island-reefs (MY)](../../../countries/MY/sights/sipadan-island-reefs.yaml), 9.5/9.6/9.1/9.5/8.9: broader underwater spectacle and reef breadth.
+- [ang-thong-national-marine-park (TH)](../../../countries/TH/sights/ang-thong-national-marine-park.yaml), 9.0/9.0/8.6/9.1/8.9: broader island experiences, less specialized manta encounter.
+- [cham-islands (VN)](../../../countries/VN/sights/cham-islands.yaml), 8.8/9.0/8.4/9.0/8.7: more varied island visits, less concentrated manta spectacle.
+- [perhentian-islands (MY)](../../../countries/MY/sights/perhentian-islands.yaml), 9.0/8.8/7.7/9.2/8.9: broader beach and marine recreation, less distinctive cleaning-station wildlife.
+
+### Scoring decisions
+- Impact: 9.1 — Memorable manta encounters and coral channel setting, below Sipadan's overall underwater spectacle.
+- Uniqueness: 9.1 — Distinctive, internationally known cleaning stations, with comparable manta sites worldwide.
+- Significance: 8.6 — Meaningful marine conservation and ecological interest; no unsupported population claim.
+- Experience: 9 — Established specialist diving experience under appropriate conditions and local guidance.
+- Depth: 7.9 — Single channel with several features, not a full island-wide dive circuit.
+- Applicable category scores: wildlife 9.4, nature 9, adventure 9.1.
+- Overall: 88.65/100.
+- High-score challenge: no 9.5+ field or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide V2 editorial assessment.
+- Earlier decision: none.
+- Verification still needed: current operating conditions, coordinate corroboration, independent claim-level verification; no guaranteed wildlife sightings or unrestricted access.
+
+
+## sight-fm-yela-ka-forest — Yela Ka Forest — 2026-11-26
+
+- YAML: [source](../../../countries/FM/sights/yela-ka-forest.yaml)
+- Action: new
+- Precise subject: Named community-managed Ka forest, wetland boardwalk and authorized boat approach; excludes the full Kosrae watershed and unrelated forests.
+- Location check: Representative research point from https://www.researchgate.net/publication/225779195_A_Tropical_Freshwater_Wetland_II_Production_Decomposition_and_Peat_Formation (indexed excerpt, 5°19.560′N 162°56.88′E); approximate basin study point, not entrance. Boundary check outstanding.
+- Evidence status: source-linked-unverified
+- Factual references consulted 2026-11-26:
+- The Nature Conservancy https://www.nature.org/en-us/about-us/where-we-work/asia-pacific/micronesia-polynesia/stories-in-micronesia-polynesia/micronesia-challenge/ (page inspected): conservation easement, largest remaining Ka stand and pristine watershed.
+- Seacology https://www.seacology.org/project/36-federated-states-of-micronesia/ (page inspected): visitor center, boardwalk and boat access completed in 2013; present condition unverified.
+- Landowner organization https://yelakaforest.wordpress.com/ (page inspected): local stewardship and visitor/tour booking links.
+- Kosrae Tourism https://visitkosrae.com/index.php/en/accommodation (indexed excerpt): local Yela tour offering.
+- Missing facts: current access, site boundary and full independent claim verification.
+
+### Worldwide peer comparisons
+- [kinabatangan-wildlife-sanctuary (MY)](../../../countries/MY/sights/kinabatangan-wildlife-sanctuary.yaml), 9.2/9.4/9.2/9.2/9.0: broader river wildlife viewing, comparable conservation significance.
+- [khao-yai-national-park (TH)](../../../countries/TH/sights/khao-yai-national-park.yaml), 9.0/9.1/9.0/9.0/9.2: larger trails and wildlife opportunities.
+- [neusiedler-see-seewinkel-national-park (AT)](../../../countries/AT/sights/neusiedler-see-seewinkel-national-park.yaml), 8.5/8.8/9.2/8.7/8.8: comparable wetland conservation, more extensive public routes.
+- [tonle-sap-lake (KH)](../../../countries/KH/sights/tonle-sap-lake.yaml), 9.0/9.2/9.5/8.8/9.2: much larger wetland and cultural ecosystem.
+
+### Scoring decisions
+- Impact: 8.4 — Immersive giant buttressed trees and mangrove approach, less broad than Kinabatangan.
+- Uniqueness: 9.1 — Largest remaining stand of a regionally endemic tree, distinctive but not unmatched as a forest experience.
+- Significance: 9.2 — Globally important remnant stand and community conservation easement.
+- Experience: 8.3 — Documented authorized boat and boardwalk visits; no unrestricted access assumed.
+- Depth: 7.8 — Focused forest and wetland interpretation, narrower than major national parks.
+- Applicable category scores: nature 9.3, wildlife 8.2.
+- Overall: 86.60/100.
+- High-score challenge: no 9.5+ field or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide V2 editorial assessment.
+- Earlier decision: none.
+- Verification still needed: current operating conditions, coordinate corroboration, independent claim-level verification; no guaranteed wildlife sightings or unrestricted access.
