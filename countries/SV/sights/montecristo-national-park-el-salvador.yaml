@@ -1,0 +1,16 @@
+id: sight-sv-montecristo-national-park-el-salvador
+name: "Montecristo National Park (El Salvador)"
+location:
+  country_code: SV
+  latitude: 14.3930
+  longitude: -89.3690
+scores:
+  impact: 8.5
+  uniqueness: 8.7
+  significance: 8.8
+  experience: 8.5
+  depth: 8.5
+  categories:
+    nature: 9.1
+    wildlife: 9.0
+    adventure: 8.6

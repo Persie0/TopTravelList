@@ -1,0 +1,16 @@
+id: sight-sv-lake-coatepeque
+name: "Lake Coatepeque"
+location:
+  country_code: SV
+  latitude: 13.8640
+  longitude: -89.5500
+scores:
+  impact: 8.9
+  uniqueness: 8.7
+  significance: 7.9
+  experience: 8.8
+  depth: 8.4
+  categories:
+    nature: 9.0
+    relaxation: 9.0
+    photography: 9.1
