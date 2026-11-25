@@ -1,0 +1,13 @@
+id: sight-eg-pharaoh-island
+name: "Pharaoh's Island"
+location:
+  country_code: EG
+  latitude: 29.463
+  longitude: 34.858
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}

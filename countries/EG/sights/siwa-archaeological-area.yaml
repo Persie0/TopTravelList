@@ -1,0 +1,16 @@
+id: sight-eg-siwa-archaeological-area
+name: "Siwa Archaeological Area"
+location:
+  country_code: EG
+  latitude: 29.205
+  longitude: 25.545
+scores:
+  impact: 8.7
+  uniqueness: 9.0
+  significance: 9.1
+  experience: 8.5
+  depth: 8.5
+  categories:
+    history: 9.2
+    culture: 9.1
+    architecture: 8.8
