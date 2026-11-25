@@ -2,32 +2,19 @@
 
 # Comoros (KM) — Cities, towns & villages ranking
 
-**14 ranked** · **0 unassessed** · **14 total** · Worldwide scoring **v2**
+**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
 This is the **complete ranking for this country's available dataset**, using absolute worldwide scores, **not country-relative scores**. Overall scores are out of 100; category scores are out of 10 and shown highest first (the top three are bold). Types are inferred from names, not separately verified.
 
-**Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, or click its GPS coordinates to open **Google Maps**. Locations are approximate representative points, not necessarily entrance coordinates.
+**Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (14)
+## Complete ranked list (0)
 
-| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps |
-| ---: | --- | --- | ---: | --- | --- | --- |
-| 1 | [Moroni](cities/moroni.yaml) | City / town | **80.70** | **Culture 8.9**, **History 8.7**, **Architecture 8.3**, Food 8.2 | 7.8 / 8.3 / 8.4 / 7.9 / 7.9 | [-11.702, 43.255](https://www.google.com/maps/search/?api=1&query=-11.702,43.255) |
-| 2 | [Mutsamudu](cities/mutsamudu.yaml) | City / town | **80.10** | **Culture 8.8**, **History 8.8**, **Architecture 8.4** | 7.8 / 8.4 / 8.3 / 7.8 / 7.4 | [-12.167, 44.395](https://www.google.com/maps/search/?api=1&query=-12.167,44.395) |
-| 3 | [Ikoni](cities/ikoni.yaml) | City / town | **77.60** | **History 8.9**, **Culture 8.7**, **Photography 8.2** | 7.5 / 8.2 / 8.3 / 7.6 / 6.6 | [-11.745, 43.233](https://www.google.com/maps/search/?api=1&query=-11.745,43.233) |
-| 4 | [Domoni](cities/domoni.yaml) | City / town | **77.50** | **History 8.9**, **Culture 8.7**, **Architecture 8.2** | 7.4 / 8.2 / 8.3 / 7.6 / 6.8 | [-12.261, 44.531](https://www.google.com/maps/search/?api=1&query=-12.261,44.531) |
-| 5 | [Itsandra](cities/itsandra.yaml) | City / town | **75.75** | **Culture 8.5**, **History 8.4**, **Photography 8.0** | 7.3 / 8.0 / 7.9 / 7.7 / 6.5 | [-11.675, 43.266](https://www.google.com/maps/search/?api=1&query=-11.675,43.266) |
-| 6 | [Nioumachoua](cities/nioumachoua.yaml) | City / town | **74.45** | **Photography 8.5**, **Culture 8.3**, **Relaxation 8.1** | 7.6 / 8.1 / 6.6 / 8.0 / 6.2 | [-12.371, 43.718](https://www.google.com/maps/search/?api=1&query=-12.371,43.718) |
-| 7 | [Ntsudjini](cities/ntsudjini.yaml) | City / town | **73.65** | **History 8.6**, **Culture 8.5** | 6.8 / 7.9 / 8.1 / 7.4 / 6.2 | [-11.664, 43.27](https://www.google.com/maps/search/?api=1&query=-11.664,43.27) |
-| 8 | [Moya](cities/moya.yaml) | City / town | **73.35** | **Photography 8.6**, **Relaxation 8.0**, **Culture 7.9** | 7.6 / 7.9 / 6.5 / 7.8 / 6.1 | [-12.309, 44.437](https://www.google.com/maps/search/?api=1&query=-12.309,44.437) |
-| 9 | [Itsamia](cities/itsamia.yaml) | City / town | **72.70** | **Culture 8.4**, **Photography 8.0** | 7.2 / 8.0 / 6.9 / 7.6 / 5.9 | [-12.368, 43.876](https://www.google.com/maps/search/?api=1&query=-12.368,43.876) |
-| 10 | [Fomboni](cities/fomboni.yaml) | City / town | **71.00** | **Culture 8.1**, **Food 7.8** | 6.8 / 7.4 / 7.2 / 7.4 / 6.6 | [-12.285, 43.742](https://www.google.com/maps/search/?api=1&query=-12.285,43.742) |
-| 10 | [Koimbani](cities/koimbani.yaml) | City / town | **71.00** | **History 8.3**, **Culture 8.1** | 6.6 / 7.6 / 7.8 / 7.2 / 5.8 | [-11.775, 43.422](https://www.google.com/maps/search/?api=1&query=-11.775,43.422) |
-| 10 | [Mitsamiouli](cities/mitsamiouli.yaml) | City / town | **71.00** | **Photography 8.0**, **Culture 7.9**, **Relaxation 7.9** | 7.1 / 7.5 / 6.5 / 7.7 / 6.4 | [-11.385, 43.286](https://www.google.com/maps/search/?api=1&query=-11.385,43.286) |
-| 10 | [Sima](cities/sima.yaml) | City / town | **71.00** | **Culture 7.9**, **Photography 7.9** | 7.0 / 7.6 / 6.9 / 7.4 / 6.1 | [-12.195, 44.278](https://www.google.com/maps/search/?api=1&query=-12.195,44.278) |
-| 14 | [Ouani](cities/ouani.yaml) | City / town | **65.85** | **Culture 7.4**, **Food 7.3** | 6.4 / 6.8 / 6.5 / 7.1 / 6.0 | [-12.132, 44.426](https://www.google.com/maps/search/?api=1&query=-12.132,44.426) |
+No cities, towns & villages have been assessed for **Comoros** yet.
+
+Add destination YAML files in [cities/](cities/), then regenerate the overview files.
 
 ---
 
