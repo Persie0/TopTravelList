@@ -1,0 +1,14 @@
+id: sight-ru-denisova-cave
+name: "Denisova Cave"
+location:
+  country_code: RU
+  latitude: 51.397
+  longitude: 84.676
+scores:
+  impact: null
+  uniqueness: 9.3
+  significance: 9.4
+  experience: null
+  depth: null
+  categories:
+    history: 9.4

@@ -1,0 +1,16 @@
+id: sight-ru-st-basil
+name: "Saint Basil's Cathedral"
+location:
+  country_code: RU
+  latitude: 55.7525
+  longitude: 37.6231
+scores:
+  impact: 9.3
+  uniqueness: 9.3
+  significance: 9.2
+  experience: 8.6
+  depth: 7.9
+  categories:
+    architecture: 9.4
+    history: 9.3
+    photography: 9.4

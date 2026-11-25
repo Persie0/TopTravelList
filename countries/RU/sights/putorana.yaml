@@ -1,0 +1,15 @@
+id: sight-ru-putorana
+name: "Putorana Plateau"
+location:
+  country_code: RU
+  latitude: 68.8
+  longitude: 94
+scores:
+  impact: 9.3
+  uniqueness: 9.2
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    nature: 9.4
+    photography: 9.4
