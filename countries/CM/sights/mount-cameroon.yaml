@@ -1,0 +1,16 @@
+id: sight-cm-mount-cameroon
+name: "Mount Cameroon"
+location:
+  country_code: CM
+  latitude: 4.203
+  longitude: 9.17
+scores:
+  impact: 9.2
+  uniqueness: 9.0
+  significance: 8.9
+  experience: 8.7
+  depth: 8.9
+  categories:
+    nature: 9.3
+    adventure: 9.3
+    photography: 9.0

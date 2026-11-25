@@ -1,0 +1,15 @@
+id: sight-cm-lake-chad-cultural-landscape
+name: "Lake Chad Cultural Landscape (Cameroon sector)"
+location:
+  country_code: CM
+  latitude: 12.950931
+  longitude: 14.501556
+scores:
+  impact: null
+  uniqueness: 9.0
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    nature: 9.1
+    culture: 9.0

@@ -1,0 +1,15 @@
+id: sight-cm-korup-national-park
+name: "Korup National Park"
+location:
+  country_code: CM
+  latitude: 5.083333
+  longitude: 8.833333
+scores:
+  impact: 8.9
+  uniqueness: 9.3
+  significance: 9.5
+  experience: null
+  depth: null
+  categories:
+    nature: 9.5
+    wildlife: 9.4
