@@ -2,7 +2,7 @@
 
 # Rwanda (RW) — Sights & attractions ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**45 ranked** · **2 unassessed** · **47 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,11 +10,64 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, or click its GPS coordinates to open **Google Maps**. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (45)
 
-No sights & attractions have been assessed for **Rwanda** yet.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps |
+| ---: | --- | --- | ---: | --- | --- | --- |
+| 1 | [Volcanoes National Park](sights/volcanoes-national-park.yaml) | Park / reserve | **95.05** | **Wildlife 9.9**, **Nature 9.7**, **Photography 9.6**, Adventure 9.5 | 9.6 / 9.7 / 9.4 / 9.4 / 9.1 | [-1.456, 29.492](https://www.google.com/maps/search/?api=1&query=-1.456,29.492) |
+| 2 | [Nyungwe National Park](sights/nyungwe-national-park.yaml) | Park / reserve | **94.10** | **Nature 9.7**, **Wildlife 9.6**, **Adventure 9.3**, Photography 9.3 | 9.4 / 9.4 / 9.6 / 9.2 / 9.4 | [-2.5553, 29.247333](https://www.google.com/maps/search/?api=1&query=-2.5553,29.247333) |
+| 3 | [Akagera National Park](sights/akagera-national-park.yaml) | Park / reserve | **91.00** | **Wildlife 9.6**, **Nature 9.4**, **Adventure 9.2**, Photography 9.2 | 9.2 / 9.0 / 9.0 / 9.2 / 9.1 | [-1.65, 30.71](https://www.google.com/maps/search/?api=1&query=-1.65,30.71) |
+| 4 | [Kigali Genocide Memorial (Gisozi)](sights/kigali-genocide-memorial-gisozi.yaml) | Museum / heritage | **89.80** | **History 9.6**, **Culture 9.4** | 8.8 / 8.8 / 9.6 / 9.0 / 8.7 | [-1.930944, 30.060389](https://www.google.com/maps/search/?api=1&query=-1.930944,30.060389) |
+| 5 | [Lake Kivu (Rwandan shore)](sights/lake-kivu-rwandan-shore.yaml) | Lake | **86.90** | **Photography 9.2**, **Nature 9.1**, **Relaxation 9.0**, Adventure 8.6 | 8.9 / 8.6 / 8.3 / 8.8 / 8.9 | [-2.02, 29.2](https://www.google.com/maps/search/?api=1&query=-2.02,29.2) |
+| 6 | [Mount Karisimbi](sights/mount-karisimbi.yaml) | Mountain / peak | **86.80** | **Adventure 9.4**, **Nature 9.2**, **Photography 9.2** | 9.1 / 8.8 / 8.2 / 8.6 / 8.2 | [-1.506, 29.45](https://www.google.com/maps/search/?api=1&query=-1.506,29.45) |
+| 7 | [Mount Bisoke](sights/mount-bisoke.yaml) | Mountain / peak | **86.50** | **Adventure 9.3**, **Photography 9.3**, **Nature 9.2** | 9.1 / 8.8 / 7.9 / 9.0 / 7.9 | [-1.458, 29.485](https://www.google.com/maps/search/?api=1&query=-1.458,29.485) |
+| 8 | [Murambi Genocide Memorial](sights/murambi-genocide-memorial.yaml) | Museum / heritage | **86.00** | **History 9.4**, **Culture 9.1** | 8.4 / 8.8 / 9.4 / 8.2 / 7.7 | [-2.455528, 29.567722](https://www.google.com/maps/search/?api=1&query=-2.455528,29.567722) |
+| 9 | [Nyamata Genocide Memorial](sights/nyamata-genocide-memorial.yaml) | Museum / heritage | **85.35** | **History 9.4**, **Culture 9.1** | 8.3 / 8.8 / 9.4 / 8.3 / 7.2 | [-2.148944, 30.093667](https://www.google.com/maps/search/?api=1&query=-2.148944,30.093667) |
+| 10 | [Bisesero Genocide Memorial](sights/bisesero-genocide-memorial.yaml) | Museum / heritage | **85.00** | **History 9.4**, **Culture 9.1** | 8.1 / 8.8 / 9.4 / 8.2 / 7.6 | [-2.193194, 29.341528](https://www.google.com/maps/search/?api=1&query=-2.193194,29.341528) |
+| 11 | [Congo Nile Trail](sights/congo-nile-trail.yaml) | Trail / walk | **84.60** | **Adventure 9.4**, **Photography 9.1**, **Nature 8.8**, Culture 8.5 | 8.7 / 8.5 / 7.3 / 9.1 / 9.0 | [-2.12, 29.321](https://www.google.com/maps/search/?api=1&query=-2.12,29.321) |
+| 11 | [King's Palace Museum (Nyanza)](sights/king-s-palace-museum-nyanza.yaml) | Museum / heritage | **84.60** | **Culture 9.2**, **History 9.2**, **Architecture 8.8** | 8.2 / 8.6 / 8.8 / 8.6 / 8.0 | [-2.356, 29.741](https://www.google.com/maps/search/?api=1&query=-2.356,29.741) |
+| 13 | [Dian Fossey Memorial Trail](sights/dian-fossey-memorial-trail.yaml) | Museum / heritage | **84.50** | **History 9.1**, **Nature 8.8**, **Adventure 8.7** | 8.3 / 8.6 / 8.9 / 8.4 / 7.7 | [-1.485, 29.47](https://www.google.com/maps/search/?api=1&query=-1.485,29.47) |
+| 14 | [Cyamudongo Natural Forest](sights/cyamudongo-natural-forest.yaml) | Forest | **84.45** | **Wildlife 9.3**, **Nature 9.2** | 8.1 / 8.8 / 9.0 / 8.3 / 7.7 | [-2.556, 28.987](https://www.google.com/maps/search/?api=1&query=-2.556,28.987) |
+| 15 | [Gishwati-Mukura National Park](sights/gishwati-mukura-national-park.yaml) | Park / reserve | **84.20** | **Wildlife 9.1**, **Nature 9.0**, **Adventure 8.4** | 8.3 / 8.7 / 8.7 / 8.3 / 7.7 | [-1.83, 29.38](https://www.google.com/maps/search/?api=1&query=-1.83,29.38) |
+| 16 | [Lake Ihema](sights/lake-ihema.yaml) | Lake | **83.30** | **Wildlife 9.2**, **Nature 8.8**, **Photography 8.7** | 8.5 / 8.4 / 8.0 / 8.8 / 7.6 | [-1.783, 30.74](https://www.google.com/maps/search/?api=1&query=-1.783,30.74) |
+| 17 | [Ntarama Genocide Memorial](sights/ntarama-genocide-memorial.yaml) | Museum / heritage | **82.95** | **History 9.3**, **Culture 8.9** | 8.0 / 8.6 / 9.1 / 8.1 / 7.1 | [-2.105, 30.077](https://www.google.com/maps/search/?api=1&query=-2.105,30.077) |
+| 17 | [Nyungwe Canopy Walkway](sights/nyungwe-canopy-walkway.yaml) | Attraction | **82.95** | **Adventure 9.2**, **Photography 9.0**, **Nature 8.8** | 8.8 / 8.5 / 7.3 / 9.0 / 7.2 | [-2.478, 29.209](https://www.google.com/maps/search/?api=1&query=-2.478,29.209) |
+| 19 | [Mount Muhabura](sights/mount-muhabura.yaml) | Mountain / peak | **82.85** | **Adventure 9.0**, **Photography 9.0**, **Nature 8.8** | 8.7 / 8.4 / 7.7 / 8.5 / 7.6 | [-1.383, 29.678](https://www.google.com/maps/search/?api=1&query=-1.383,29.678) |
+| 20 | [Ethnographic Museum (Huye)](sights/ethnographic-museum-huye.yaml) | Museum / heritage | **81.75** | **Culture 9.1**, **History 9.0** | 7.6 / 8.4 / 8.7 / 8.3 / 8.1 | [-2.598, 29.742](https://www.google.com/maps/search/?api=1&query=-2.598,29.742) |
+| 21 | [Rugezi Marsh](sights/rugezi-marsh.yaml) | Wetland | **80.75** | **Nature 9.0**, **Wildlife 8.9** | 7.8 / 8.5 / 8.8 / 7.6 / 7.1 | [-1.476, 29.877](https://www.google.com/maps/search/?api=1&query=-1.476,29.877) |
+| 22 | [Ellen DeGeneres Campus of the Dian Fossey Gorilla Fund](sights/ellen-degeneres-campus-of-the-dian-fossey-gorilla-fund.yaml) | Attraction | **80.55** | **Wildlife 8.8**, **History 8.4**, **Culture 8.0** | 7.7 / 8.2 / 8.5 / 8.3 / 7.5 | [-1.438, 29.605](https://www.google.com/maps/search/?api=1&query=-1.438,29.605) |
+| 23 | [Campaign Against Genocide Museum](sights/campaign-against-genocide-museum.yaml) | Museum / heritage | **80.40** | **History 9.2**, **Culture 8.5** | 7.4 / 8.3 / 8.9 / 8.1 / 7.5 | [-1.952, 30.093](https://www.google.com/maps/search/?api=1&query=-1.952,30.093) |
+| 24 | [Lake Burera](sights/lake-burera.yaml) | Lake | **80.30** | **Photography 9.0**, **Nature 8.8**, **Relaxation 8.3** | 8.5 / 8.2 / 7.1 / 8.4 / 7.5 | [-1.412, 29.757](https://www.google.com/maps/search/?api=1&query=-1.412,29.757) |
+| 25 | [Lake Ruhondo](sights/lake-ruhondo.yaml) | Lake | **80.00** | **Photography 9.0**, **Nature 8.8**, **Relaxation 8.3** | 8.5 / 8.2 / 7.0 / 8.4 / 7.4 | [-1.497, 29.731](https://www.google.com/maps/search/?api=1&query=-1.497,29.731) |
+| 26 | [Isumo Waterfall Trail](sights/isumo-waterfall-trail.yaml) | Waterfall | **79.90** | **Nature 8.7**, **Adventure 8.6**, **Photography 8.6** | 8.4 / 8.2 / 6.8 / 8.6 / 7.7 | [-2.485, 29.1](https://www.google.com/maps/search/?api=1&query=-2.485,29.1) |
+| 27 | [Musanze Caves](sights/musanze-caves.yaml) | Attraction | **79.10** | **Nature 8.6**, **Adventure 8.4** | 8.1 / 8.2 / 7.5 / 8.2 / 7.0 | [-1.503, 29.605](https://www.google.com/maps/search/?api=1&query=-1.503,29.605) |
+| 28 | [Kibeho Sanctuary](sights/kibeho-sanctuary.yaml) | Park / reserve | **78.60** | **Culture 9.0**, **History 8.8**, **Architecture 7.8** | 7.3 / 8.2 / 8.6 / 8.0 / 7.0 | [-2.647, 29.555](https://www.google.com/maps/search/?api=1&query=-2.647,29.555) |
+| 29 | [Gisovu Tea Estate](sights/gisovu-tea-estate.yaml) | Attraction | **77.55** | **Photography 9.0**, **Nature 8.3**, **Culture 7.6** | 8.4 / 7.9 / 6.8 / 8.0 / 7.0 | [-2.19, 29.414](https://www.google.com/maps/search/?api=1&query=-2.19,29.414) |
+| 30 | [Napoleon Island (Lake Kivu)](sights/napoleon-island-lake-kivu.yaml) | Island | **76.95** | **Photography 8.7**, **Wildlife 8.5**, **Nature 8.4** | 8.1 / 8.1 / 6.6 / 8.2 / 6.9 | [-2.051, 29.324](https://www.google.com/maps/search/?api=1&query=-2.051,29.324) |
+| 31 | [Mount Kabuye](sights/mount-kabuye.yaml) | Mountain / peak | **76.75** | **Photography 8.7**, **Adventure 8.6**, **Nature 8.2** | 8.2 / 7.8 / 6.6 / 8.3 / 7.0 | [-1.619, 29.727](https://www.google.com/maps/search/?api=1&query=-1.619,29.727) |
+| 32 | [Nyandungu Eco-Park](sights/nyandungu-eco-park.yaml) | Park / square | **76.40** | **Family 8.4**, **Nature 8.2**, **Wildlife 8.0** | 7.5 / 7.6 / 7.5 / 8.2 / 7.6 | [-1.966, 30.149](https://www.google.com/maps/search/?api=1&query=-1.966,30.149) |
+| 33 | [Iby'Iwacu Cultural Village](sights/iby-iwacu-cultural-village.yaml) | Historic settlement | **75.80** | **Culture 8.6**, **Family 8.0** | 7.3 / 7.8 / 7.3 / 8.4 / 7.2 | [-1.431, 29.572](https://www.google.com/maps/search/?api=1&query=-1.431,29.572) |
+| 33 | [Kandt House Museum](sights/kandt-house-museum.yaml) | Museum / heritage | **75.80** | **History 8.7**, **Culture 8.2** | 7.0 / 7.8 / 8.3 / 7.8 / 7.0 | [-1.951, 30.052](https://www.google.com/maps/search/?api=1&query=-1.951,30.052) |
+| 33 | [Rwanda Art Museum](sights/rwanda-art-museum.yaml) | Museum / heritage | **75.80** | **Culture 8.4**, **Architecture 7.6** | 7.3 / 7.7 / 7.7 / 7.9 / 7.4 | [-1.971, 30.16](https://www.google.com/maps/search/?api=1&query=-1.971,30.16) |
+| 36 | [Lake Muhazi](sights/lake-muhazi.yaml) | Lake | **75.15** | **Relaxation 8.4**, **Photography 8.3**, **Nature 8.1** | 7.7 / 7.6 / 6.6 / 8.1 / 7.7 | [-1.872, 30.406](https://www.google.com/maps/search/?api=1&query=-1.872,30.406) |
+| 37 | [Nyamirambo Women's Center](sights/nyamirambo-women-s-center.yaml) | Attraction | **74.25** | **Culture 8.7**, **Food 8.0** | 6.8 / 7.9 / 7.3 / 8.4 / 6.9 | [-1.979, 30.05](https://www.google.com/maps/search/?api=1&query=-1.979,30.05) |
+| 38 | [Kigali Convention Centre](sights/kigali-convention-centre.yaml) | Attraction | **74.10** | **Architecture 8.5**, **Photography 8.2** | 7.7 / 7.7 / 7.3 / 7.3 / 6.2 | [-1.953, 30.093](https://www.google.com/maps/search/?api=1&query=-1.953,30.093) |
+| 39 | [Mount Kigali](sights/mount-kigali.yaml) | Mountain / peak | **73.50** | **Photography 8.3**, **Adventure 8.2**, **Nature 7.9** | 7.7 / 7.3 / 6.5 / 8.1 / 7.0 | [-1.977, 30.032](https://www.google.com/maps/search/?api=1&query=-1.977,30.032) |
+| 40 | [Kimironko Market](sights/kimironko-market.yaml) | Market | **73.35** | **Culture 8.3**, **Food 8.3** | 7.2 / 7.6 / 6.5 / 8.3 / 7.3 | [-1.95, 30.125](https://www.google.com/maps/search/?api=1&query=-1.95,30.125) |
+| 41 | [Huye Mountain Coffee](sights/huye-mountain-coffee.yaml) | Mountain / peak | **73.15** | **Food 8.5**, **Culture 8.0** | 7.0 / 7.7 / 6.9 / 8.2 / 6.8 | [-2.612, 29.74](https://www.google.com/maps/search/?api=1&query=-2.612,29.74) |
+| 42 | [Kabgayi Cathedral](sights/kabgayi-cathedral.yaml) | Religious site | **73.00** | **History 8.5**, **Culture 8.1**, **Architecture 8.0** | 7.0 / 7.3 / 8.1 / 7.3 / 6.6 | [-2.086, 29.744](https://www.google.com/maps/search/?api=1&query=-2.086,29.744) |
+| 43 | [Inema Arts Center](sights/inema-arts-center.yaml) | Attraction | **72.80** | **Culture 8.3** | 7.1 / 7.5 / 7.0 / 8.1 / 6.6 | [-1.948, 30.092](https://www.google.com/maps/search/?api=1&query=-1.948,30.092) |
+| 44 | [Rubavu Public Beach](sights/rubavu-public-beach.yaml) | Beach / bay | **71.75** | **Relaxation 8.4**, **Beaches 8.0**, **Photography 7.9** | 7.7 / 7.1 / 5.8 / 8.2 / 7.0 | [-1.703, 29.254](https://www.google.com/maps/search/?api=1&query=-1.703,29.254) |
+| 45 | [Amahoro Island](sights/amahoro-island.yaml) | Island | **70.95** | **Relaxation 8.3**, **Photography 8.1** | 7.6 / 7.3 / 5.8 / 8.0 / 6.3 | [-2.054, 29.338](https://www.google.com/maps/search/?api=1&query=-2.054,29.338) |
 
-Add destination YAML files in [sights/](sights/), then regenerate the overview files.
+## Not yet fully assessed (2)
+
+These destinations have no rank until all five core scores are assessed.
+
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps |
+| ---: | --- | --- | ---: | --- | --- | --- |
+| — | [Gisakura Natural Forest](sights/gisakura-natural-forest.yaml) | Forest | **—** | **Nature 8.8** | — / — / 8.6 / — / — | [-2.452, 29.087](https://www.google.com/maps/search/?api=1&query=-2.452,29.087) |
+| — | [Mount Gahinga](sights/mount-gahinga.yaml) | Mountain / peak | **—** | **Nature 8.5** | — / — / 7.6 / — / — | [-1.387, 29.645](https://www.google.com/maps/search/?api=1&query=-1.387,29.645) |
 
 ---
 

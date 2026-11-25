@@ -2,7 +2,7 @@
 
 # Rwanda (RW) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**18 ranked** · **0 unassessed** · **18 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,28 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, or click its GPS coordinates to open **Google Maps**. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (18)
 
-No cities, towns & villages have been assessed for **Rwanda** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps |
+| ---: | --- | --- | ---: | --- | --- | --- |
+| 1 | [Kigali](cities/kigali.yaml) | City / town | **80.25** | **History 8.6**, **Culture 8.4**, **Food 8.4** | 7.8 / 7.6 / 8.5 / 8.3 / 8.4 | [-1.9441, 30.0619](https://www.google.com/maps/search/?api=1&query=-1.9441,30.0619) |
+| 2 | [Karongi (Kibuye)](cities/karongi-kibuye.yaml) | City / town | **77.15** | **Photography 8.7**, **Relaxation 8.5**, **Culture 7.7** | 8.2 / 7.9 / 6.7 / 8.2 / 7.1 | [-2.0606, 29.3489](https://www.google.com/maps/search/?api=1&query=-2.0606,29.3489) |
+| 3 | [Rubavu (Gisenyi)](cities/rubavu-gisenyi.yaml) | City / town | **75.55** | **Relaxation 8.3**, **Food 7.9**, **Culture 7.8** | 7.8 / 7.6 / 6.8 / 8.1 / 7.4 | [-1.7028, 29.2564](https://www.google.com/maps/search/?api=1&query=-1.7028,29.2564) |
+| 4 | [Huye (Butare)](cities/huye-butare.yaml) | City / town | **74.15** | **History 8.4**, **Culture 8.2**, **Food 7.6** | 6.9 / 7.5 / 8.0 / 7.6 / 7.3 | [-2.5967, 29.7394](https://www.google.com/maps/search/?api=1&query=-2.5967,29.7394) |
+| 5 | [Musanze (Ruhengeri)](cities/musanze-ruhengeri.yaml) | City / town | **73.55** | **Culture 7.9**, **Food 7.9**, **Photography 7.8** | 7.3 / 7.5 / 7.0 / 7.8 / 7.2 | [-1.4998, 29.6347](https://www.google.com/maps/search/?api=1&query=-1.4998,29.6347) |
+| 6 | [Nyanza](cities/nyanza.yaml) | City / town | **73.50** | **History 8.5**, **Culture 8.3** | 6.9 / 7.6 / 8.0 / 7.4 / 6.7 | [-2.3518, 29.7509](https://www.google.com/maps/search/?api=1&query=-2.3518,29.7509) |
+| 7 | [Rusizi (Cyangugu)](cities/rusizi-cyangugu.yaml) | City / town | **72.05** | **Photography 7.9**, **Culture 7.6**, **Food 7.6** | 7.3 / 7.4 / 6.9 / 7.5 / 6.6 | [-2.4833, 28.9](https://www.google.com/maps/search/?api=1&query=-2.4833,28.9) |
+| 8 | [Kinigi](cities/kinigi.yaml) | City / town | **71.10** | **Photography 8.0**, **Culture 7.8** | 7.2 / 7.5 / 6.7 / 7.5 / 6.1 | [-1.4265, 29.598](https://www.google.com/maps/search/?api=1&query=-1.4265,29.598) |
+| 9 | [Kibeho](cities/kibeho.yaml) | City / town | **71.00** | **Culture 8.1**, **History 8.0** | 6.6 / 7.5 / 7.8 / 7.1 / 6.2 | [-2.644, 29.551](https://www.google.com/maps/search/?api=1&query=-2.644,29.551) |
+| 10 | [Nyamagabe (Gikongoro)](cities/nyamagabe-gikongoro.yaml) | City / town | **67.75** | **Photography 7.4**, **Culture 7.3** | 6.6 / 6.9 / 6.9 / 7.0 / 6.4 | [-2.483, 29.573](https://www.google.com/maps/search/?api=1&query=-2.483,29.573) |
+| 11 | [Byumba (Gicumbi)](cities/byumba-gicumbi.yaml) | City / town | **67.65** | **Photography 7.4**, **Culture 7.2** | 6.8 / 6.9 / 6.6 / 7.0 / 6.3 | [-1.576, 30.067](https://www.google.com/maps/search/?api=1&query=-1.576,30.067) |
+| 11 | [Muhanga (Gitarama)](cities/muhanga-gitarama.yaml) | City / town | **67.65** | **Culture 7.5**, **Food 7.4**, **History 7.3** | 6.4 / 6.7 / 7.0 / 7.2 / 6.9 | [-2.0742, 29.7564](https://www.google.com/maps/search/?api=1&query=-2.0742,29.7564) |
+| 13 | [Kibungo (Ngoma)](cities/kibungo-ngoma.yaml) | City / town | **65.70** | **Culture 7.3**, **Food 7.2** | 6.2 / 6.6 / 6.8 / 7.0 / 6.5 | [-2.1597, 30.5427](https://www.google.com/maps/search/?api=1&query=-2.1597,30.5427) |
+| 13 | [Nyamata](cities/nyamata.yaml) | City / town | **65.70** | **History 7.3**, **Culture 7.2** | 6.3 / 6.5 / 6.9 / 6.9 / 6.4 | [-2.146, 30.09](https://www.google.com/maps/search/?api=1&query=-2.146,30.09) |
+| 15 | [Nyagatare](cities/nyagatare.yaml) | City / town | **65.55** | **Culture 7.3**, **Food 7.3** | 6.2 / 6.7 / 6.6 / 7.0 / 6.5 | [-1.2947, 30.3278](https://www.google.com/maps/search/?api=1&query=-1.2947,30.3278) |
+| 15 | [Rwamagana](cities/rwamagana.yaml) | City / town | **65.55** | **Food 7.3**, **Culture 7.2** | 6.3 / 6.5 / 6.7 / 7.0 / 6.5 | [-1.9487, 30.4347](https://www.google.com/maps/search/?api=1&query=-1.9487,30.4347) |
+| 17 | [Ruhango](cities/ruhango.yaml) | City / town | **63.95** | **Food 7.1**, **Culture 7.0** | 6.1 / 6.4 / 6.5 / 6.9 / 6.3 | [-2.218, 29.778](https://www.google.com/maps/search/?api=1&query=-2.218,29.778) |
+| 18 | [Kayonza](cities/kayonza.yaml) | City / town | **63.60** | **Food 7.1**, **Culture 7.0** | 6.0 / 6.5 / 6.4 / 6.9 / 6.2 | [-1.8877, 30.6147](https://www.google.com/maps/search/?api=1&query=-1.8877,30.6147) |
 
 ---
 
