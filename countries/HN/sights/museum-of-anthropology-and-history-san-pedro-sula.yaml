@@ -1,0 +1,15 @@
+id: sight-hn-museum-of-anthropology-and-history-san-pedro-sula
+name: "Museum of Anthropology and History (San Pedro Sula)"
+location:
+  country_code: HN
+  latitude: 15.5090
+  longitude: -88.0260
+scores:
+  impact: 6.9
+  uniqueness: 7.5
+  significance: 8.2
+  experience: 7.5
+  depth: 7.3
+  categories:
+    history: 8.5
+    culture: 8.2

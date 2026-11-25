@@ -1,0 +1,16 @@
+id: city-mt-victoria-rabat-gozo
+name: "Victoria (Rabat, Gozo)"
+location:
+  country_code: MT
+  latitude: 36.04473
+  longitude: 14.24118
+scores:
+  impact: 8.2
+  uniqueness: 8.4
+  significance: 8.6
+  experience: 8.5
+  depth: 8.2
+  categories:
+    history: 9.0
+    architecture: 8.9
+    culture: 8.8

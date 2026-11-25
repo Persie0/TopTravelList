@@ -1,0 +1,18 @@
+id: city-pa-panama-city
+name: "Panama City"
+location:
+  country_code: PA
+  latitude: 8.9833
+  longitude: -79.5167
+scores:
+  impact: 8.7
+  uniqueness: 8.7
+  significance: 8.9
+  experience: 8.9
+  depth: 9.2
+  categories:
+    architecture: 9.0
+    history: 9.0
+    culture: 8.8
+    food: 8.8
+    nightlife: 8.8

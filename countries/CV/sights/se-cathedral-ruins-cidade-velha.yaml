@@ -1,0 +1,15 @@
+id: sight-cv-se-cathedral-ruins-cidade-velha
+name: "Se Cathedral Ruins (Cidade Velha)"
+location:
+  country_code: CV
+  latitude: 14.9150
+  longitude: -23.6030
+scores:
+  impact: 7.2
+  uniqueness: 8.1
+  significance: 8.6
+  experience: 7.6
+  depth: 6.0
+  categories:
+    history: 9.0
+    architecture: 8.0

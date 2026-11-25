@@ -1,0 +1,15 @@
+id: city-rw-kibeho
+name: "Kibeho"
+location:
+  country_code: RW
+  latitude: -2.6440
+  longitude: 29.5510
+scores:
+  impact: 6.6
+  uniqueness: 7.5
+  significance: 7.8
+  experience: 7.1
+  depth: 6.2
+  categories:
+    culture: 8.1
+    history: 8.0

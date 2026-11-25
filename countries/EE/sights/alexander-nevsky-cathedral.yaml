@@ -1,0 +1,15 @@
+id: sight-ee-alexander-nevsky-cathedral
+name: "Alexander Nevsky Cathedral (Tallinn)"
+location:
+  country_code: EE
+  latitude: 59.436
+  longitude: 24.739
+scores:
+  impact: 8.2
+  uniqueness: 7.9
+  significance: 8.1
+  experience: 8.0
+  depth: 7.3
+  categories:
+    architecture: 8.8
+    history: 8.3

@@ -1,0 +1,15 @@
+id: city-lu-grevenmacher
+name: "Grevenmacher"
+location:
+  country_code: LU
+  latitude: 49.6800
+  longitude: 6.4410
+scores:
+  impact: 7.1
+  uniqueness: 7.4
+  significance: 7.4
+  experience: 7.8
+  depth: 7.3
+  categories:
+    relaxation: 8.2
+    culture: 8.1

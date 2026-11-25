@@ -1,0 +1,16 @@
+id: sight-cv-farol-de-dona-amelia
+name: "Farol de Dona Amelia"
+location:
+  country_code: CV
+  latitude: 16.8290
+  longitude: -25.0750
+scores:
+  impact: 7.8
+  uniqueness: 7.7
+  significance: 7.0
+  experience: 8.0
+  depth: 6.2
+  categories:
+    photography: 8.6
+    history: 7.5
+    adventure: 8.0

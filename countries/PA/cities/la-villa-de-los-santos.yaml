@@ -1,0 +1,16 @@
+id: city-pa-la-villa-de-los-santos
+name: "La Villa de Los Santos"
+location:
+  country_code: PA
+  latitude: 7.933
+  longitude: -80.414
+scores:
+  impact: 7.2
+  uniqueness: 7.9
+  significance: 8.3
+  experience: 7.5
+  depth: 6.7
+  categories:
+    history: 8.7
+    culture: 8.5
+    architecture: 7.9

@@ -1,0 +1,15 @@
+id: city-ve-gran-roque
+name: "Gran Roque"
+location:
+  country_code: VE
+  latitude: 11.9470
+  longitude: -66.6770
+scores:
+  impact: 8.1
+  uniqueness: 8.8
+  significance: 6.5
+  experience: 8.3
+  depth: 6.5
+  categories:
+    photography: 9.1
+    relaxation: 8.8

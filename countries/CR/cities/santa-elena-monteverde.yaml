@@ -1,0 +1,16 @@
+id: city-cr-santa-elena-monteverde
+name: "Santa Elena (Monteverde)"
+location:
+  country_code: CR
+  latitude: 10.315
+  longitude: -84.825
+scores:
+  impact: 7.4
+  uniqueness: 7.8
+  significance: 6.8
+  experience: 8.0
+  depth: 7.1
+  categories:
+    culture: 7.9
+    food: 8.0
+    relaxation: 8.0

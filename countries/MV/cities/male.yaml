@@ -1,0 +1,16 @@
+id: city-mv-male
+name: "Male"
+location:
+  country_code: MV
+  latitude: 4.1755
+  longitude: 73.5093
+scores:
+  impact: 7.7
+  uniqueness: 8.4
+  significance: 8.5
+  experience: 7.8
+  depth: 8.0
+  categories:
+    culture: 8.6
+    history: 8.5
+    food: 8.2

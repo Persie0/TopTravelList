@@ -1,0 +1,15 @@
+id: sight-cr-tenorio-volcano-national-park
+name: "Tenorio Volcano National Park"
+location:
+  country_code: CR
+  latitude: 10.710
+  longitude: -84.998
+scores:
+  impact: 9.1
+  uniqueness: 9.2
+  significance: 8.3
+  experience: 9.0
+  depth: 8.3
+  categories:
+    nature: 9.3
+    photography: 9.4

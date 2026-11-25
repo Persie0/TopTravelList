@@ -1,0 +1,16 @@
+id: sight-sz-maguga-dam
+name: "Maguga Dam"
+location:
+  country_code: SZ
+  latitude: -26.0680
+  longitude: 31.2600
+scores:
+  impact: 8.2
+  uniqueness: 7.6
+  significance: 7.2
+  experience: 7.9
+  depth: 7.5
+  categories:
+    photography: 8.8
+    nature: 8.1
+    relaxation: 8.1

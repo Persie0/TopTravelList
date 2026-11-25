@@ -1,0 +1,15 @@
+id: city-hn-coxen-hole
+name: "Coxen Hole"
+location:
+  country_code: HN
+  latitude: 16.3180
+  longitude: -86.5360
+scores:
+  impact: 6.2
+  uniqueness: 6.8
+  significance: 6.6
+  experience: 7.0
+  depth: 6.5
+  categories:
+    culture: 7.2
+    food: 7.4

@@ -1,0 +1,16 @@
+id: city-mk-bitola
+name: "Bitola"
+location:
+  country_code: MK
+  latitude: 41.0314
+  longitude: 21.3347
+scores:
+  impact: 8.1
+  uniqueness: 8.2
+  significance: 8.4
+  experience: 8.4
+  depth: 8.1
+  categories:
+    architecture: 8.8
+    history: 8.9
+    culture: 8.7

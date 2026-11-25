@@ -1,0 +1,15 @@
+id: sight-pa-church-of-san-jose-golden-altar
+name: "Church of San José (Golden Altar)"
+location:
+  country_code: PA
+  latitude: 8.951
+  longitude: -79.536
+scores:
+  impact: 7.7
+  uniqueness: 8.0
+  significance: 8.2
+  experience: 7.8
+  depth: 6.5
+  categories:
+    architecture: 8.6
+    history: 8.5

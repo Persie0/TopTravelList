@@ -1,0 +1,15 @@
+id: sight-bo-incallajta-archaeological-site
+name: "Incallajta Archaeological Site"
+location:
+  country_code: BO
+  latitude: -17.6020
+  longitude: -65.4080
+scores:
+  impact: 8.4
+  uniqueness: 8.7
+  significance: 9.1
+  experience: 8.1
+  depth: 7.9
+  categories:
+    history: 9.4
+    architecture: 8.9

@@ -1,0 +1,16 @@
+id: sight-xk-peja-old-bazaar
+name: "Peja Old Bazaar"
+location:
+  country_code: XK
+  latitude: 42.6604
+  longitude: 20.2931
+scores:
+  impact: 7.8
+  uniqueness: 8.0
+  significance: 8.0
+  experience: 8.2
+  depth: 7.3
+  categories:
+    culture: 8.6
+    history: 8.5
+    architecture: 8.4

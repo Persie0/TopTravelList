@@ -1,0 +1,16 @@
+id: sight-ad-meritxell-sanctuary
+name: "Meritxell Sanctuary"
+location:
+  country_code: AD
+  latitude: 42.5544
+  longitude: 1.5900
+scores:
+  impact: 8.1
+  uniqueness: 8.5
+  significance: 8.6
+  experience: 8.3
+  depth: 7.5
+  categories:
+    architecture: 9.0
+    culture: 9.0
+    history: 8.5

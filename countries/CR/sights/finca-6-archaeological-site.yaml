@@ -1,0 +1,15 @@
+id: sight-cr-finca-6-archaeological-site
+name: "Finca 6 Archaeological Site"
+location:
+  country_code: CR
+  latitude: 8.910731
+  longitude: -83.478853
+scores:
+  impact: 7.8
+  uniqueness: 9.0
+  significance: 9.2
+  experience: 8.0
+  depth: 7.6
+  categories:
+    history: 9.3
+    culture: 9.1

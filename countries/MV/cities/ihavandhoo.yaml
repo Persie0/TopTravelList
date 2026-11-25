@@ -1,0 +1,15 @@
+id: city-mv-ihavandhoo
+name: "Ihavandhoo"
+location:
+  country_code: MV
+  latitude: 6.957
+  longitude: 72.929
+scores:
+  impact: 6.8
+  uniqueness: 7.3
+  significance: 7.5
+  experience: 7.2
+  depth: 6.3
+  categories:
+    history: 7.9
+    culture: 7.7

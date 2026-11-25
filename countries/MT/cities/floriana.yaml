@@ -1,0 +1,15 @@
+id: city-mt-floriana
+name: "Floriana"
+location:
+  country_code: MT
+  latitude: 35.8920
+  longitude: 14.5080
+scores:
+  impact: 7.7
+  uniqueness: 7.9
+  significance: 8.2
+  experience: 8.0
+  depth: 7.5
+  categories:
+    architecture: 8.5
+    history: 8.7

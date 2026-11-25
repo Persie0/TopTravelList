@@ -1,0 +1,14 @@
+id: city-lu-mondorf-les-bains
+name: "Mondorf-les-Bains"
+location:
+  country_code: LU
+  latitude: 49.5050
+  longitude: 6.2820
+scores:
+  impact: 7.1
+  uniqueness: 7.3
+  significance: 7.2
+  experience: 8.0
+  depth: 7.5
+  categories:
+    relaxation: 8.7

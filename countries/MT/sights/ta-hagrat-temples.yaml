@@ -1,0 +1,15 @@
+id: sight-mt-ta-hagrat-temples
+name: "Ta' Ħaġrat Temples"
+location:
+  country_code: MT
+  latitude: 35.9186333
+  longitude: 14.3687000
+scores:
+  impact: 7.8
+  uniqueness: 8.8
+  significance: 9.2
+  experience: 7.8
+  depth: 7.1
+  categories:
+    history: 9.3
+    architecture: 8.8

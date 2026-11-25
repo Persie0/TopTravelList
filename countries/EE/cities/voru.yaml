@@ -1,0 +1,15 @@
+id: city-ee-voru
+name: "Võru"
+location:
+  country_code: EE
+  latitude: 57.842
+  longitude: 27
+scores:
+  impact: 7.1
+  uniqueness: 7.3
+  significance: 7.3
+  experience: 7.7
+  depth: 7.1
+  categories:
+    culture: 7.8
+    relaxation: 7.8
