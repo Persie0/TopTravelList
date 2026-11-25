@@ -2,8 +2,8 @@ id: sight-id-labengki-islands
 name: "Labengki Islands"
 location:
   country_code: ID
-  latitude: -3.4500
-  longitude: 122.4500
+  latitude: -3.45
+  longitude: 122.45
 scores:
   impact: 9.1
   uniqueness: 9.1
@@ -11,6 +11,6 @@ scores:
   experience: 9.2
   depth: 8.8
   categories:
-    nature: 9.5
-    photography: 9.5
+    nature: 9.4
+    photography: 9.4
     beaches: 9.3

@@ -2,8 +2,8 @@ id: sight-id-londa-burial-caves
 name: "Londa Burial Caves"
 location:
   country_code: ID
-  latitude: -3.0220
-  longitude: 119.8790
+  latitude: -3.022
+  longitude: 119.879
 scores:
   impact: 8.8
   uniqueness: 9.4
@@ -11,5 +11,5 @@ scores:
   experience: 8.8
   depth: 8.0
   categories:
-    culture: 9.5
+    culture: 9.4
     history: 9.2

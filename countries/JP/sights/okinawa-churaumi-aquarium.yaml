@@ -3,7 +3,7 @@ name: "Okinawa Churaumi Aquarium"
 location:
   country_code: JP
   latitude: 26.6943
-  longitude: 127.8780
+  longitude: 127.878
 scores:
   impact: 9.0
   uniqueness: 9.0
@@ -11,5 +11,5 @@ scores:
   experience: 9.3
   depth: 9.0
   categories:
-    family: 9.5
+    family: 9.4
     wildlife: 9.0

@@ -2,8 +2,8 @@ id: sight-id-walakiri-beach
 name: "Walakiri Beach"
 location:
   country_code: ID
-  latitude: -9.6520
-  longitude: 120.4140
+  latitude: -9.652
+  longitude: 120.414
 scores:
   impact: 8.6
   uniqueness: 9.0
@@ -11,6 +11,6 @@ scores:
   experience: 8.8
   depth: 7.4
   categories:
-    photography: 9.5
+    photography: 9.3
     nature: 8.9
     beaches: 8.6

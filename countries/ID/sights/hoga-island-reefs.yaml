@@ -2,8 +2,8 @@ id: sight-id-hoga-island-reefs
 name: "Hoga Island Reefs"
 location:
   country_code: ID
-  latitude: -5.4750
-  longitude: 123.7620
+  latitude: -5.475
+  longitude: 123.762
 scores:
   impact: 9.0
   uniqueness: 9.0
@@ -11,6 +11,6 @@ scores:
   experience: 9.3
   depth: 8.8
   categories:
-    nature: 9.5
-    adventure: 9.5
+    adventure: 9.4
+    nature: 9.4
     beaches: 9.1

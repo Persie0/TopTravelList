@@ -2,8 +2,8 @@ id: sight-id-sombori-islands
 name: "Sombori Islands"
 location:
   country_code: ID
-  latitude: -3.2300
-  longitude: 122.3900
+  latitude: -3.23
+  longitude: 122.39
 scores:
   impact: 9.0
   uniqueness: 9.0
@@ -11,6 +11,6 @@ scores:
   experience: 9.1
   depth: 8.7
   categories:
+    photography: 9.4
     nature: 9.4
-    photography: 9.5
     beaches: 9.2

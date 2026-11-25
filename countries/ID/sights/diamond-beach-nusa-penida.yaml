@@ -2,8 +2,8 @@ id: sight-id-diamond-beach-nusa-penida
 name: "Diamond Beach Nusa Penida"
 location:
   country_code: ID
-  latitude: -8.7750
-  longitude: 115.6200
+  latitude: -8.775
+  longitude: 115.62
 scores:
   impact: 9.0
   uniqueness: 8.9
@@ -11,6 +11,6 @@ scores:
   experience: 8.9
   depth: 7.6
   categories:
+    photography: 9.4
     beaches: 9.3
-    photography: 9.6
     nature: 9.1

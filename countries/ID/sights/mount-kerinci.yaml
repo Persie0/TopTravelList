@@ -2,8 +2,8 @@ id: sight-id-mount-kerinci
 name: "Mount Kerinci"
 location:
   country_code: ID
-  latitude: -1.6970
-  longitude: 101.2640
+  latitude: -1.697
+  longitude: 101.264
 scores:
   impact: 9.2
   uniqueness: 9.0
@@ -11,6 +11,6 @@ scores:
   experience: 8.9
   depth: 9.0
   categories:
-    nature: 9.5
     adventure: 9.5
+    nature: 9.4
     photography: 9.3

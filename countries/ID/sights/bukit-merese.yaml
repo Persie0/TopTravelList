@@ -2,8 +2,8 @@ id: sight-id-bukit-merese
 name: "Bukit Merese"
 location:
   country_code: ID
-  latitude: -8.9140
-  longitude: 116.3090
+  latitude: -8.914
+  longitude: 116.309
 scores:
   impact: 8.8
   uniqueness: 8.6
@@ -11,5 +11,5 @@ scores:
   experience: 9.0
   depth: 7.6
   categories:
-    photography: 9.5
+    photography: 9.3
     nature: 9.1

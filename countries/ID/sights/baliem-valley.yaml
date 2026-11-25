@@ -2,8 +2,8 @@ id: sight-id-baliem-valley
 name: "Baliem Valley"
 location:
   country_code: ID
-  latitude: -4.1000
-  longitude: 138.9500
+  latitude: -4.1
+  longitude: 138.95
 scores:
   impact: 9.0
   uniqueness: 9.4
@@ -11,6 +11,6 @@ scores:
   experience: 8.6
   depth: 9.1
   categories:
-    culture: 9.6
+    culture: 9.5
     nature: 9.3
     adventure: 9.0

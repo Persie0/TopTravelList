@@ -2,8 +2,8 @@ id: sight-id-sipiso-piso-waterfall
 name: "Sipiso Piso Waterfall"
 location:
   country_code: ID
-  latitude: 2.9160
-  longitude: 98.5210
+  latitude: 2.916
+  longitude: 98.521
 scores:
   impact: 9.0
   uniqueness: 8.7
@@ -11,5 +11,5 @@ scores:
   experience: 8.8
   depth: 8.0
   categories:
+    photography: 9.3
     nature: 9.4
-    photography: 9.5

@@ -3,7 +3,7 @@ name: "Mount Yoshino"
 location:
   country_code: JP
   latitude: 34.3594
-  longitude: 135.8680
+  longitude: 135.868
 scores:
   impact: 9.0
   uniqueness: 9.1
@@ -11,6 +11,6 @@ scores:
   experience: 9.1
   depth: 9.1
   categories:
+    photography: 9.3
     nature: 9.3
     culture: 9.2
-    photography: 9.5

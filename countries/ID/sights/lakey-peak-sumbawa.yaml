@@ -2,8 +2,8 @@ id: sight-id-lakey-peak-sumbawa
 name: "Lakey Peak Sumbawa"
 location:
   country_code: ID
-  latitude: -8.8020
-  longitude: 118.3780
+  latitude: -8.802
+  longitude: 118.378
 scores:
   impact: 8.6
   uniqueness: 8.7
@@ -11,5 +11,5 @@ scores:
   experience: 9.1
   depth: 8.2
   categories:
-    adventure: 9.5
+    adventure: 9.4
     beaches: 8.9

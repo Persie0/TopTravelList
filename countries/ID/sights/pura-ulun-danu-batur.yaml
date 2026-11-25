@@ -2,8 +2,8 @@ id: sight-id-pura-ulun-danu-batur
 name: "Pura Ulun Danu Batur"
 location:
   country_code: ID
-  latitude: -8.2540
-  longitude: 115.3360
+  latitude: -8.254
+  longitude: 115.336
 scores:
   impact: 8.8
   uniqueness: 9.0
@@ -11,6 +11,6 @@ scores:
   experience: 8.8
   depth: 8.5
   categories:
-    culture: 9.5
+    culture: 9.4
     architecture: 9.2
     history: 9.2

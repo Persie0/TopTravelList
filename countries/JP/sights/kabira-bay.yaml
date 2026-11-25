@@ -2,8 +2,8 @@ id: sight-jp-kabira-bay
 name: "Kabira Bay"
 location:
   country_code: JP
-  latitude: 24.4530
-  longitude: 124.1430
+  latitude: 24.453
+  longitude: 124.143
 scores:
   impact: 9.2
   uniqueness: 9.0
@@ -11,6 +11,6 @@ scores:
   experience: 9.1
   depth: 8.2
   categories:
-    nature: 9.5
-    photography: 9.6
+    photography: 9.4
+    nature: 9.3
     beaches: 8.9

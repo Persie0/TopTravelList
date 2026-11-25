@@ -2,8 +2,8 @@ id: sight-id-madakaripura-falls
 name: "Madakaripura Falls"
 location:
   country_code: ID
-  latitude: -7.8570
-  longitude: 113.0090
+  latitude: -7.857
+  longitude: 113.009
 scores:
   impact: 9.0
   uniqueness: 9.0
@@ -11,6 +11,6 @@ scores:
   experience: 9.0
   depth: 8.1
   categories:
+    photography: 9.3
     nature: 9.4
-    photography: 9.5
     adventure: 8.9

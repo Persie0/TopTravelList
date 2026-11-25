@@ -2,8 +2,8 @@ id: sight-id-manta-sandy-raja-ampat
 name: "Manta Sandy Raja Ampat"
 location:
   country_code: ID
-  latitude: -0.5700
-  longitude: 130.5700
+  latitude: -0.57
+  longitude: 130.57
 scores:
   impact: 9.1
   uniqueness: 9.2
@@ -11,6 +11,6 @@ scores:
   experience: 9.3
   depth: 8.1
   categories:
-    wildlife: 9.7
-    adventure: 9.5
+    wildlife: 9.5
+    adventure: 9.4
     nature: 9.4

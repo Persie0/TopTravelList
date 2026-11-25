@@ -2,7 +2,7 @@ id: sight-jp-ise-jingu-geku
 name: "Ise Jingu Geku"
 location:
   country_code: JP
-  latitude: 34.4870
+  latitude: 34.487
   longitude: 136.7037
 scores:
   impact: 8.5
@@ -11,6 +11,6 @@ scores:
   experience: 8.7
   depth: 8.0
   categories:
-    culture: 9.5
+    culture: 9.4
     history: 9.4
     architecture: 9.0

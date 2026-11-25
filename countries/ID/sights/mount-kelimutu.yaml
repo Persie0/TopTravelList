@@ -2,8 +2,8 @@ id: sight-id-mount-kelimutu
 name: "Mount Kelimutu"
 location:
   country_code: ID
-  latitude: -8.7670
-  longitude: 121.8170
+  latitude: -8.767
+  longitude: 121.817
 scores:
   impact: 9.5
   uniqueness: 9.6
@@ -11,6 +11,6 @@ scores:
   experience: 9.2
   depth: 8.4
   categories:
-    nature: 9.8
-    photography: 9.8
+    nature: 9.7
+    photography: 9.6
     culture: 9.0

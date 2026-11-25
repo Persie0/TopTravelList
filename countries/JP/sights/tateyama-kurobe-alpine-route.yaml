@@ -2,8 +2,8 @@ id: sight-jp-tateyama-kurobe-alpine-route
 name: "Tateyama Kurobe Alpine Route"
 location:
   country_code: JP
-  latitude: 36.5740
-  longitude: 137.5960
+  latitude: 36.574
+  longitude: 137.596
 scores:
   impact: 9.3
   uniqueness: 9.4
@@ -11,6 +11,6 @@ scores:
   experience: 9.3
   depth: 9.3
   categories:
+    photography: 9.4
     nature: 9.5
-    photography: 9.6
     adventure: 9.1

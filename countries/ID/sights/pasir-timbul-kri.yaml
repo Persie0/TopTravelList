@@ -2,8 +2,8 @@ id: sight-id-pasir-timbul-kri
 name: "Pasir Timbul Kri"
 location:
   country_code: ID
-  latitude: -0.5500
-  longitude: 130.6900
+  latitude: -0.55
+  longitude: 130.69
 scores:
   impact: 8.9
   uniqueness: 8.7
@@ -11,5 +11,5 @@ scores:
   experience: 9.0
   depth: 7.2
   categories:
-    photography: 9.5
+    photography: 9.2
     beaches: 9.4

@@ -2,8 +2,8 @@ id: sight-id-piaynemo-viewpoint
 name: "Piaynemo Viewpoint"
 location:
   country_code: ID
-  latitude: -0.5640
-  longitude: 130.2830
+  latitude: -0.564
+  longitude: 130.283
 scores:
   impact: 9.5
   uniqueness: 9.4
@@ -11,5 +11,5 @@ scores:
   experience: 9.3
   depth: 7.7
   categories:
-    photography: 9.9
-    nature: 9.6
+    photography: 9.7
+    nature: 9.3

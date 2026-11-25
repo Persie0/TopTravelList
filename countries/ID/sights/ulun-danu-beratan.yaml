@@ -2,8 +2,8 @@ id: sight-id-ulun-danu-beratan
 name: "Ulun Danu Beratan"
 location:
   country_code: ID
-  latitude: -8.2750
-  longitude: 115.1660
+  latitude: -8.275
+  longitude: 115.166
 scores:
   impact: 8.9
   uniqueness: 9.0
@@ -11,6 +11,6 @@ scores:
   experience: 9.0
   depth: 8.0
   categories:
-    photography: 9.5
-    architecture: 9.0
+    photography: 9.4
     culture: 9.1
+    architecture: 9.0

@@ -3,7 +3,7 @@ name: "Kiyomizudera"
 location:
   country_code: JP
   latitude: 34.9949
-  longitude: 135.7850
+  longitude: 135.785
 scores:
   impact: 9.4
   uniqueness: 9.4
@@ -12,5 +12,5 @@ scores:
   depth: 8.8
   categories:
     architecture: 9.6
+    photography: 9.4
     history: 9.4
-    photography: 9.6

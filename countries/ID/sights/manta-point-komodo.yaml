@@ -2,8 +2,8 @@ id: sight-id-manta-point-komodo
 name: "Manta Point Komodo"
 location:
   country_code: ID
-  latitude: -8.5400
-  longitude: 119.6400
+  latitude: -8.54
+  longitude: 119.64
 scores:
   impact: 9.1
   uniqueness: 9.2
@@ -11,6 +11,6 @@ scores:
   experience: 9.3
   depth: 8.3
   categories:
-    wildlife: 9.6
-    adventure: 9.5
+    wildlife: 9.5
+    adventure: 9.4
     nature: 9.3

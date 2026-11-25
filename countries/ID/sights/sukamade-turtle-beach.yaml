@@ -2,8 +2,8 @@ id: sight-id-sukamade-turtle-beach
 name: "Sukamade Turtle Beach"
 location:
   country_code: ID
-  latitude: -8.5690
-  longitude: 113.8820
+  latitude: -8.569
+  longitude: 113.882
 scores:
   impact: 8.7
   uniqueness: 9.1
@@ -11,6 +11,6 @@ scores:
   experience: 8.8
   depth: 8.1
   categories:
-    wildlife: 9.5
+    wildlife: 9.4
     nature: 9.1
     adventure: 8.7

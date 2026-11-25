@@ -2,8 +2,8 @@ id: sight-id-manta-point-nusa-penida
 name: "Manta Point Nusa Penida"
 location:
   country_code: ID
-  latitude: -8.8010
-  longitude: 115.5400
+  latitude: -8.801
+  longitude: 115.54
 scores:
   impact: 9.1
   uniqueness: 9.1
@@ -11,6 +11,6 @@ scores:
   experience: 9.2
   depth: 8.0
   categories:
-    wildlife: 9.5
+    wildlife: 9.4
     adventure: 9.4
     nature: 9.2
