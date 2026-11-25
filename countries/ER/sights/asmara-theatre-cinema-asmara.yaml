@@ -2,8 +2,8 @@ id: sight-er-asmara-theatre-cinema-asmara
 name: "Asmara Theatre (Cinema Asmara)"
 location:
   country_code: ER
-  latitude: 15.337
-  longitude: 38.935
+  latitude: 15.33585
+  longitude: 38.93543
 scores:
   impact: 7.7
   uniqueness: 8.2
