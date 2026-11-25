@@ -1,0 +1,17 @@
+id: city-id-yogyakarta
+name: "Yogyakarta"
+location:
+  country_code: ID
+  latitude: -7.7956
+  longitude: 110.3695
+scores:
+  impact: 9.0
+  uniqueness: 9.1
+  significance: 9.2
+  experience: 9.1
+  depth: 8.9
+  categories:
+    culture: 9.5
+    history: 9.2
+    food: 9.0
+    architecture: 8.9

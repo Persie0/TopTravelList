@@ -1,0 +1,15 @@
+id: city-id-sawahlunto
+name: "Sawahlunto"
+location:
+  country_code: ID
+  latitude: -0.6810
+  longitude: 100.7790
+scores:
+  impact: 7.9
+  uniqueness: 8.4
+  significance: 8.8
+  experience: 8.0
+  depth: 7.8
+  categories:
+    history: 9.1
+    architecture: 8.6

@@ -1,0 +1,16 @@
+id: city-id-bukittinggi
+name: "Bukittinggi"
+location:
+  country_code: ID
+  latitude: -0.3056
+  longitude: 100.3692
+scores:
+  impact: 8.2
+  uniqueness: 8.4
+  significance: 8.4
+  experience: 8.6
+  depth: 8.2
+  categories:
+    culture: 8.8
+    history: 8.6
+    food: 8.7

@@ -1,0 +1,16 @@
+id: city-id-palembang
+name: "Palembang"
+location:
+  country_code: ID
+  latitude: -2.9761
+  longitude: 104.7754
+scores:
+  impact: 7.8
+  uniqueness: 8.1
+  significance: 8.5
+  experience: 8.0
+  depth: 8.2
+  categories:
+    history: 8.8
+    food: 8.8
+    culture: 8.4

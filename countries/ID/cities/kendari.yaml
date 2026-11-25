@@ -1,0 +1,15 @@
+id: city-id-kendari
+name: "Kendari"
+location:
+  country_code: ID
+  latitude: -3.9985
+  longitude: 122.5120
+scores:
+  impact: 6.9
+  uniqueness: 7.1
+  significance: 6.9
+  experience: 7.6
+  depth: 7.5
+  categories:
+    food: 7.9
+    culture: 7.5

@@ -1,0 +1,16 @@
+id: city-id-banda-neira
+name: "Banda Neira"
+location:
+  country_code: ID
+  latitude: -4.5260
+  longitude: 129.9040
+scores:
+  impact: 8.4
+  uniqueness: 9.0
+  significance: 9.2
+  experience: 8.6
+  depth: 8.1
+  categories:
+    history: 9.4
+    architecture: 8.9
+    culture: 8.8

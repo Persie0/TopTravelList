@@ -1,0 +1,15 @@
+id: city-id-sorong
+name: "Sorong"
+location:
+  country_code: ID
+  latitude: -0.8760
+  longitude: 131.2550
+scores:
+  impact: 6.8
+  uniqueness: 7.1
+  significance: 6.8
+  experience: 7.5
+  depth: 7.3
+  categories:
+    food: 7.7
+    culture: 7.6

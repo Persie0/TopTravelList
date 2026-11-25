@@ -1,0 +1,15 @@
+id: city-id-samarinda
+name: "Samarinda"
+location:
+  country_code: ID
+  latitude: -0.5022
+  longitude: 117.1537
+scores:
+  impact: 7.1
+  uniqueness: 7.3
+  significance: 7.4
+  experience: 7.7
+  depth: 7.7
+  categories:
+    culture: 7.9
+    food: 7.9

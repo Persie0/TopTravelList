@@ -1,0 +1,15 @@
+id: city-id-tanjung-pandan
+name: "Tanjung Pandan"
+location:
+  country_code: ID
+  latitude: -2.7450
+  longitude: 107.6340
+scores:
+  impact: 7.1
+  uniqueness: 7.3
+  significance: 7.2
+  experience: 7.8
+  depth: 7.4
+  categories:
+    food: 7.9
+    culture: 7.7

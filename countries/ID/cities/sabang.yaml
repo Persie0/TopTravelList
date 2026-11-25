@@ -1,0 +1,15 @@
+id: city-id-sabang
+name: "Sabang"
+location:
+  country_code: ID
+  latitude: 5.8890
+  longitude: 95.3160
+scores:
+  impact: 7.3
+  uniqueness: 7.5
+  significance: 7.0
+  experience: 8.1
+  depth: 7.5
+  categories:
+    relaxation: 8.5
+    food: 8.0

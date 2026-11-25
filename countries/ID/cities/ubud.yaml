@@ -1,0 +1,17 @@
+id: city-id-ubud
+name: "Ubud"
+location:
+  country_code: ID
+  latitude: -8.5069
+  longitude: 115.2625
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 8.5
+  experience: 9.1
+  depth: 8.9
+  categories:
+    culture: 9.3
+    relaxation: 9.2
+    food: 8.8
+    architecture: 8.7

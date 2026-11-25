@@ -1,0 +1,16 @@
+id: city-id-makassar
+name: "Makassar"
+location:
+  country_code: ID
+  latitude: -5.1477
+  longitude: 119.4327
+scores:
+  impact: 8.2
+  uniqueness: 8.4
+  significance: 8.6
+  experience: 8.5
+  depth: 8.6
+  categories:
+    history: 8.8
+    food: 9.0
+    culture: 8.8

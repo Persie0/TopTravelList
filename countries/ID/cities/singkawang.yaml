@@ -1,0 +1,15 @@
+id: city-id-singkawang
+name: "Singkawang"
+location:
+  country_code: ID
+  latitude: 0.9060
+  longitude: 108.9870
+scores:
+  impact: 7.6
+  uniqueness: 8.0
+  significance: 7.6
+  experience: 8.1
+  depth: 7.8
+  categories:
+    culture: 8.6
+    food: 8.4

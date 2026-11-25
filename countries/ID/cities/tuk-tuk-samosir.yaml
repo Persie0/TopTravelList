@@ -1,0 +1,15 @@
+id: city-id-tuk-tuk-samosir
+name: "Tuk Tuk Samosir"
+location:
+  country_code: ID
+  latitude: 2.6690
+  longitude: 98.8520
+scores:
+  impact: 7.7
+  uniqueness: 8.0
+  significance: 7.4
+  experience: 8.5
+  depth: 7.6
+  categories:
+    culture: 8.4
+    relaxation: 8.8

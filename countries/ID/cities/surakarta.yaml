@@ -1,0 +1,16 @@
+id: city-id-surakarta
+name: "Surakarta"
+location:
+  country_code: ID
+  latitude: -7.5755
+  longitude: 110.8243
+scores:
+  impact: 8.4
+  uniqueness: 8.7
+  significance: 8.9
+  experience: 8.7
+  depth: 8.6
+  categories:
+    culture: 9.1
+    history: 8.9
+    food: 8.7

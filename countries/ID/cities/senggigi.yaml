@@ -1,0 +1,15 @@
+id: city-id-senggigi
+name: "Senggigi"
+location:
+  country_code: ID
+  latitude: -8.4960
+  longitude: 116.0470
+scores:
+  impact: 7.4
+  uniqueness: 7.4
+  significance: 6.5
+  experience: 8.4
+  depth: 7.6
+  categories:
+    beaches: 8.5
+    relaxation: 8.7
