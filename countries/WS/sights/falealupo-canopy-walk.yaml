@@ -1,0 +1,16 @@
+id: sight-ws-falealupo-canopy-walk
+name: "Falealupo Canopy Walkway"
+location:
+  country_code: WS
+  latitude: -13.52643
+  longitude: -172.74835
+scores:
+  impact: 7.9
+  uniqueness: 7.8
+  significance: 7.5
+  experience: 8.1
+  depth: 7.3
+  categories:
+    nature: 8.3
+    adventure: 8.4
+    photography: 8.1

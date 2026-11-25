@@ -355,3 +355,299 @@
 - Earlier decision: none.
 - Verification still needed: Tentative only; point is midpoint of submission bounds. Confirm island-specific permissions and visit depth.
 
+
+### sight-ws-papapapaitai-falls — Papapapaitai (Tiavi) Falls — 2026-11-25
+
+- YAML: [source](../../../countries/WS/sights/papapapaitai-falls.yaml)
+- Action: new (coverage expansion)
+- Precise subject: Individual falls and permitted roadside viewpoint, not entire gorge.
+- Location check: representative -13.94157, -171.77677; not an entrance.
+- Evidence status: source-linked-unverified
+- Limited factual references (2026-11-25; page or search excerpt):
+  - Mapped named waterfall point. — https://mapcarta.com/N6593037989
+  - Tourism authority describes roughly 100-metre cascade into gorge. — https://www.samoa.travel/plan-book/activities/papapapaitai-tiavi-falls/
+  - Official guide specifies viewing rather than swimming. — https://www.samoa.travel/experience/places-to-explore/
+- Missing or uncertain facts: No assumption of access to gorge or swimming. Coordinate refers to cascade, not viewing area.
+
+#### Worldwide peer comparisons
+- Iguazu Falls (Argentina/Brazil): far greater scale and volume
+- Kuang Si Falls (Laos): more varied cascades and pools
+- Erawan Falls (Thailand): greater multi-tier exploration
+- Afu A'au Waterfall (Samoa): comparable compact waterfall experience
+
+#### Scoring decisions
+| Field | New rating | Individual justification |
+| --- | ---: | --- |
+| impact | 8.5 | Tall dramatic forested cascade |
+| uniqueness | 7.6 | comparable tropical falls exist worldwide |
+| significance | 6.8 | local geological and landscape interest |
+| experience | 7.2 | rewarding but focused distant viewing |
+| depth | 6.2 | limited exploration in ordinary viewing scope |
+
+- Applicable category scores: nature: 8.5, photography: 8.6
+- Computed worldwide overall: 75.10/100
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide editorial assessment.
+- Earlier decision: none.
+- Verification still needed: No assumption of access to gorge or swimming. Coordinate refers to cascade, not viewing area.
+
+
+### sight-ws-sopoaga-falls — Sopoaga Falls — 2026-11-25
+
+- YAML: [source](../../../countries/WS/sights/sopoaga-falls.yaml)
+- Action: new (coverage expansion)
+- Precise subject: Named cascade and customary viewing setting, excluding nearby waterfalls.
+- Location check: representative -14.00733, -171.5865; not an entrance.
+- Evidence status: source-linked-unverified
+- Limited factual references (2026-11-25; page or search excerpt):
+  - Mapped named cascade coordinates from OSM and GeoNames. — https://mapcarta.com/26438522
+  - Official tourism listing identifies waterfall. — https://www.samoa.travel/experience/places-to-explore/waterfalls/
+  - Official visitor activity guide describes waterfall in Lotofaga area. — https://www.samoa.travel/experience/adventure-activities/
+- Missing or uncertain facts: Verify current opening, customary permission and exact viewing point.
+
+#### Worldwide peer comparisons
+- Iguazu Falls (Argentina/Brazil): far greater scale and volume
+- Kuang Si Falls (Laos): more varied cascades and pools
+- Erawan Falls (Thailand): greater multi-tier exploration
+- Afu A'au Waterfall (Samoa): comparable compact waterfall experience
+
+#### Scoring decisions
+| Field | New rating | Individual justification |
+| --- | ---: | --- |
+| impact | 8.0 | Attractive forested waterfall |
+| uniqueness | 7.3 | distinctive setting but globally comparable cascade |
+| significance | 6.5 | primarily local landscape interest |
+| experience | 7.5 | focused scenic visit |
+| depth | 6.5 | short viewpoint experience |
+
+- Applicable category scores: nature: 8.2, photography: 8.3
+- Computed worldwide overall: 73.00/100
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide editorial assessment.
+- Earlier decision: none.
+- Verification still needed: Verify current opening, customary permission and exact viewing point.
+
+
+### sight-ws-falealupo-canopy-walk — Falealupo Canopy Walkway — 2026-11-25
+
+- YAML: [source](../../../countries/WS/sights/falealupo-canopy-walk.yaml)
+- Action: new (coverage expansion)
+- Precise subject: Named canopy walkway and immediate forest experience, not entire preserve.
+- Location check: representative -13.52643, -172.74835; not an entrance.
+- Evidence status: source-linked-unverified
+- Limited factual references (2026-11-25; page or search excerpt):
+  - Mapped walkway reference point. — https://mapcarta.com/N3777914723
+  - Tourism authority identifies treetop visitor walkway. — https://www.samoa.travel/experience/adventure-activities/
+  - Official guide locates walkway in Falealupo Rainforest Preserve. — https://www.samoa.travel/BeautifulAnticipation/view/getting-out-and-about
+- Missing or uncertain facts: Confirm structural status and opening; no safety guarantee.
+
+#### Worldwide peer comparisons
+- Taman Negara canopy walkway (Malaysia): broader rainforest experience
+- Kakum National Park canopy walkway (Ghana): more extensive elevated forest route
+- Kirstenbosch Tree Canopy Walkway (South Africa): comparable focused walkway with developed botanical context
+- Ene'io Botanical Garden (Tonga): related compact tropical plant experience
+
+#### Scoring decisions
+| Field | New rating | Individual justification |
+| --- | ---: | --- |
+| impact | 7.9 | Immersive tropical tree canopy |
+| uniqueness | 7.8 | distinctive Pacific forest context but other canopy walks exist |
+| significance | 7.5 | regional forest conservation relevance |
+| experience | 8.1 | focused elevated forest experience |
+| depth | 7.3 | limited walkway extent and nearby viewing |
+
+- Applicable category scores: nature: 8.3, adventure: 8.4, photography: 8.1
+- Computed worldwide overall: 77.65/100
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide editorial assessment.
+- Earlier decision: none.
+- Verification still needed: Confirm structural status and opening; no safety guarantee.
+
+
+### sight-ws-mount-vaea — Mount Vaea and Stevenson Tomb — 2026-11-25
+
+- YAML: [source](../../../countries/WS/sights/mount-vaea.yaml)
+- Action: new (coverage expansion)
+- Precise subject: Mountain summit memorial and normally permitted walking approach, separate from Stevenson Museum and wider reserve.
+- Location check: representative -13.86361, -171.77361; not an entrance.
+- Evidence status: source-linked-unverified
+- Limited factual references (2026-11-25; page or search excerpt):
+  - Summit reference coordinates and statutory reserve context. — https://en.wikipedia.org/wiki/Mount_Vaea
+  - Official hiking and literary memorial experience. — https://www.samoa.travel/plan-book/activities/mt-vaea/
+  - Official guide describes alternative forest walks and tomb. — https://www.samoa.travel/plan-book/activities/vailima-national-reserve/
+- Missing or uncertain facts: Coordinate is mountain point rather than tomb or trailhead. Verify current trail conditions and access.
+
+#### Worldwide peer comparisons
+- Arthur's Seat (United Kingdom): more dramatic city panorama and geology
+- Mount Faber (Singapore): broader developed urban viewpoint
+- Robert Louis Stevenson Museum (Samoa): more substantial interpreted literary collection
+- Mount Talau (Tonga): similar compact tropical lookout
+
+#### Scoring decisions
+| Field | New rating | Individual justification |
+| --- | ---: | --- |
+| impact | 7.6 | Forest setting and city panorama |
+| uniqueness | 7.8 | distinctive combination of literary memorial and tropical hill |
+| significance | 8.4 | significant literary and local historical connection |
+| experience | 8.1 | focused forest and memorial visit |
+| depth | 7.3 | alternative paths but compact summit scope |
+
+- Applicable category scores: nature: 7.9, history: 8.5, culture: 8.4, adventure: 7.9
+- Computed worldwide overall: 78.55/100
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide editorial assessment.
+- Earlier decision: none.
+- Verification still needed: Coordinate is mountain point rather than tomb or trailhead. Verify current trail conditions and access.
+
+
+### sight-ws-palolo-deep-marine-reserve — Palolo Deep Marine Reserve — 2026-11-25
+
+- YAML: [source](../../../countries/WS/sights/palolo-deep-marine-reserve.yaml)
+- Action: new (coverage expansion)
+- Precise subject: Mapped marine reserve and customary permitted visitor experience, not whole Apia coast.
+- Location check: representative -13.82193, -171.75601; not an entrance.
+- Evidence status: source-linked-unverified
+- Limited factual references (2026-11-25; page or search excerpt):
+  - Named reef footprint reference point. — https://mapcarta.com/W1124860558
+  - Official guide describes coral and fish biodiversity and snorkelling visitor context. — https://www.samoa.travel/plan-book/activities/palolo-deep-marine-reserve
+- Missing or uncertain facts: Representative reef point is not a navigation waypoint. Verify current conservation restrictions, conditions and operator advice.
+
+#### Worldwide peer comparisons
+- Great Barrier Reef (Australia): vastly greater reef extent and diversity
+- Rainbow Reef (Fiji): greater soft coral and diving breadth
+- Blue Corner (Palau): more exceptional specialist underwater experience
+- Funafuti Conservation Area (Tuvalu): broader lagoon and reef protected area
+
+#### Scoring decisions
+| Field | New rating | Individual justification |
+| --- | ---: | --- |
+| impact | 8.1 | Colorful coral and fish setting |
+| uniqueness | 7.9 | concentrated reef experience with global analogues |
+| significance | 7.8 | regional marine biodiversity and conservation importance |
+| experience | 8.4 | established focused visitor experience |
+| depth | 7.4 | limited reserve area compared with major reef systems |
+
+- Applicable category scores: nature: 8.4, wildlife: 8.4, adventure: 8.3
+- Computed worldwide overall: 79.65/100
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide editorial assessment.
+- Earlier decision: none.
+- Verification still needed: Representative reef point is not a navigation waypoint. Verify current conservation restrictions, conditions and operator advice.
+
+
+### sight-ws-manono-island — Manono Island — 2026-11-25
+
+- YAML: [source](../../../countries/WS/sights/manono-island.yaml)
+- Action: new (coverage expansion)
+- Precise subject: Individual inhabited island cultural landscape, not the full three-island tentative property or individual villages.
+- Location check: representative -13.8508, -172.112; not an entrance.
+- Evidence status: source-linked-unverified
+- Limited factual references (2026-11-25; page or search excerpt):
+  - State submission describes four coastal villages, historic sites, footpaths and continuing customary life. — https://whc.unesco.org/en/tentativelists/5091/
+  - Named island reference coordinates. — https://mapcarta.com/20416134
+  - Official guide confirms organized access from Upolu. — https://www.samoa.travel/plan-book/activities/manono-island/
+  - Official guide describes customary island setting, lagoon and walking trails. — https://www.samoa.travel/discover/the-islands-of-samoa/
+- Missing or uncertain facts: Tentative property component, not individually inscribed. Confirm customary permissions for individual landmarks.
+
+#### Worldwide peer comparisons
+- Kayangel Atoll (Palau): stronger beach and reef scenery
+- Tetepare Island (Solomon Islands): broader conservation and wildlife experience
+- Levuka Historical Port Town (Fiji): more substantial surviving historic built ensemble
+- Uoleva Island (Tonga): comparable small island experience with less documented cultural heritage
+
+#### Scoring decisions
+| Field | New rating | Individual justification |
+| --- | ---: | --- |
+| impact | 8.0 | Coastal villages and tropical island setting |
+| uniqueness | 8.5 | distinctive living customary island landscape |
+| significance | 8.5 | significant regional cultural and archaeological heritage |
+| experience | 8.2 | established respectful boat and walking visits |
+| depth | 8.0 | multiple villages and cultural landscapes |
+
+- Applicable category scores: culture: 8.8, nature: 8.3, history: 8.5, relaxation: 8.2
+- Computed worldwide overall: 82.55/100
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide editorial assessment.
+- Earlier decision: none.
+- Verification still needed: Tentative property component, not individually inscribed. Confirm customary permissions for individual landmarks.
+
+
+### sight-ws-apolima-island — Apolima Island — 2026-11-25
+
+- YAML: [source](../../../countries/WS/sights/apolima-island.yaml)
+- Action: new (coverage expansion)
+- Precise subject: Individual volcanic inhabited island, not Apolima Uta on Upolu or aggregate tentative property.
+- Location check: representative -13.82386, -172.1513; not an entrance.
+- Evidence status: source-linked-unverified
+- Limited factual references (2026-11-25; page or search excerpt):
+  - State submission identifies island within proposed three-island cultural landscape. — https://whc.unesco.org/en/tentativelists/5091/
+  - Named volcanic island point. — https://mapcarta.com/20416500
+  - Tourism authority describes locally arranged day trips and difficult landing. — https://www.samoa.travel/discover/the-islands-of-samoa/apolima-island/
+- Missing or uncertain facts: Confirm local invitation, landing conditions and customary access; no general admission guarantee.
+
+#### Worldwide peer comparisons
+- Kayangel Atoll (Palau): stronger beach and reef scenery
+- Tetepare Island (Solomon Islands): broader conservation and wildlife experience
+- Levuka Historical Port Town (Fiji): more substantial surviving historic built ensemble
+- Uoleva Island (Tonga): comparable small island experience with less documented cultural heritage
+
+#### Scoring decisions
+| Field | New rating | Individual justification |
+| --- | ---: | --- |
+| impact | 7.8 | Compact volcanic coastal setting |
+| uniqueness | 8.2 | unusual inhabited crater island character |
+| significance | 7.8 | regional customary culture and heritage |
+| experience | 7.5 | locally arranged focused island visit when permitted |
+| depth | 6.8 | limited independent exploration on small island |
+
+- Applicable category scores: nature: 8.2, culture: 8.2, photography: 8.2
+- Computed worldwide overall: 77.55/100
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide editorial assessment.
+- Earlier decision: none.
+- Verification still needed: Confirm local invitation, landing conditions and customary access; no general admission guarantee.
+
+
+### sight-ws-nuulopa-island — Nuʻulopa Island — 2026-11-25
+
+- YAML: [source](../../../countries/WS/sights/nuulopa-island.yaml)
+- Action: new (coverage expansion)
+- Precise subject: Individual uninhabited islet component, not aggregate three-island landscape.
+- Location check: representative -13.84239, -172.1295; not an entrance.
+- Evidence status: unassessed
+- Limited factual references (2026-11-25; page or search excerpt):
+  - Official tentative property identifies island and customary heritage context. — https://whc.unesco.org/en/tentativelists/5091/
+  - Mapped uninhabited islet reference point. — https://mapcarta.com/20416016
+  - Official guide identifies the small islet. — https://www.samoa.travel/discover/the-islands-of-samoa/other-islands/
+- Missing or uncertain facts: Unranked pending local permissions and independent component-specific evidence. Do not assume landing is allowed.
+
+#### Worldwide peer comparisons
+- Kayangel Atoll (Palau): stronger beach and reef scenery
+- Tetepare Island (Solomon Islands): broader conservation and wildlife experience
+- Levuka Historical Port Town (Fiji): more substantial surviving historic built ensemble
+- Uoleva Island (Tonga): comparable small island experience with less documented cultural heritage
+
+#### Scoring decisions
+| Field | New rating | Individual justification |
+| --- | ---: | --- |
+| impact | null | Visitor-visible impact not independently established |
+| uniqueness | null | individual rarity requires calibration |
+| significance | null | component-specific significance unresolved |
+| experience | null | ordinary permitted access unverified |
+| depth | null | accessible exploration unknown |
+
+- Applicable category scores: none assessed
+- Computed worldwide overall: unranked
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Retain without rank pending evidence.
+- Earlier decision: none.
+- Verification still needed: Unranked pending local permissions and independent component-specific evidence. Do not assume landing is allowed.
+
