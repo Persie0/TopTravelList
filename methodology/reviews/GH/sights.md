@@ -2,6 +2,9 @@
 
 [Worldwide v2](../../../rules.md) · [Future-country workflow](../../future-country-workflow.md). Initial provisional editorial assessments, 2026-11-25. [UNESCO country inventory](https://whc.unesco.org/en/statesparties/gh/) lists two inscribed properties and six tentative properties; all are represented at property level. Not all individual fort and shrine components have been cataloged; see [GMMB heritage inventory](https://gmmb.gov.gh/unesco-listed-world-heritage-properties/). Coordinates approximate, not independently confirmed except the tentative Tenzug reference point. Sources inspected at search-excerpt or page level are limited context rather than comprehensive verification. No access guarantees. Shared peer ladders need type-specific refinement. The Nzulezu city entry describes the inhabited settlement while the sight entry describes the heritage visit and canoe approach; do not add their scores together.
 
+
+Follow-up review, 2026-11-25: per-record source supplementation and conservation/inventory caveats below. Links are not full factual verification. Original scores and rationales retained.
+
 ## sight-gh-cape-coast-castle — Cape Coast Castle — 2026-11-25
 
 - [YAML](../../../countries/GH/sights/cape-coast-castle.yaml) · Action: new · **source-linked-unverified**.
@@ -20,6 +23,8 @@
 - High-score challenge: Significance and history 9.7 recognize direct evidence of the transatlantic slave trade; comparable to major historical memory sites, with less architectural breadth than the largest fortifications.. No approved 10.
 - Evidence: [Ghana Ministry of Tourism, Culture & Creative Arts, tourist sites; named attraction or town descriptions](https://www.motcca.gov.gh/tourist-sites/), accessed 2026-11-25 in search or page excerpt; limited context, not a complete check of claims or visitor status.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access conditions and individual peer/category calibration.
+- Follow-up (2026-11-25): [UNESCO](https://whc.unesco.org/en/list/34/) supports historical significance. Compare significance/history specifically against Elmina, Gorée Island (Senegal), Auschwitz-Birkenau (Poland) and Hiroshima Peace Memorial (Japan): consequential human history but different visitor scope. Retain 9.7 provisionally.
+
 
 ## sight-gh-elmina-castle-st-george-s-castle — Elmina Castle (St George's Castle) — 2026-11-25
 
@@ -39,6 +44,8 @@
 - High-score challenge: Significance and history 9.7 reflect the early trading post and later slave trade; compare with Cape Coast and major historical memory sites rather than treating its visitor footprint as a whole city.. No approved 10.
 - Evidence: [Ghana Ministry of Tourism, Culture & Creative Arts, tourist sites; named attraction or town descriptions](https://www.motcca.gov.gh/tourist-sites/), accessed 2026-11-25 in search or page excerpt; limited context, not a complete check of claims or visitor status.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access conditions and individual peer/category calibration.
+- Follow-up (2026-11-25): [UNESCO](https://whc.unesco.org/en/list/34/) supports early maritime trade and enslavement significance. Compare history specifically against Cape Coast, Gorée Island (Senegal), Auschwitz-Birkenau (Poland) and Hiroshima Peace Memorial (Japan). Retain provisional 9.7, no exact ten.
+
 
 ## sight-gh-forts-and-castles-of-ghana-serial-unesco-property — Forts and Castles of Ghana (serial UNESCO property) — 2026-11-25
 
@@ -58,6 +65,8 @@
 - High-score challenge: Significance and history 9.7 reflect a network central to Atlantic trade and enslavement; no aggregate score for disparate sites.. No approved 10.
 - Evidence: [UNESCO coastal fortifications property description; component identity and collective significance, not individual access](https://whc.unesco.org/en/list/34/), accessed 2026-11-25 in search or page excerpt; limited context, not a complete check of claims or visitor status.
 - Remaining gaps: Permitted visitor experience or coherent aggregate scope not established.
+- Follow-up (2026-11-25): [UNESCO 2026 decision](https://whc.unesco.org/en/decisions/9094/) flags serious conservation concerns. Missing individual components include Shama, Princes Town, Cape Coast lighthouse and Victoria, British Komenda, Mouri, Old Ningo, Dutch Komenda, Prampram, Akwida, Amanful and Teshie; reconcile with official component maps.
+
 
 ## sight-gh-asante-traditional-buildings-serial-unesco-property — Asante Traditional Buildings (serial UNESCO property) — 2026-11-25
 
@@ -77,6 +86,8 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [UNESCO Asante traditional buildings description](https://whc.unesco.org/en/list/35/), accessed 2026-11-25 in search or page excerpt; limited context, not a complete check of claims or visitor status.
 - Remaining gaps: Permitted visitor experience or coherent aggregate scope not established.
+- Follow-up (2026-11-25): [GMMB](https://gmmb.gov.gh/asante-traditional-buildings/) and [UNESCO](https://whc.unesco.org/en/list/35/) document ten shrines: Abirim, Asawase, Asenemaso, Bodwease, Ejisu Besease, Adarko Jachie, Edwenase, Kentinkrono, Patakro and Saaman. None individually catalogued; permission and coordinates need verification.
+
 
 ## sight-gh-fort-st-jago-coenraadsburg — Fort St Jago (Coenraadsburg) — 2026-11-25
 
@@ -191,6 +202,8 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [UNESCO coastal fortifications property description; component identity and collective significance, not individual access](https://whc.unesco.org/en/list/34/), accessed 2026-11-25 in search or page excerpt; limited context, not a complete check of claims or visitor status.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access conditions and individual peer/category calibration.
+- Follow-up (2026-11-25): [GMMB closure notice](https://gmmb.gov.gh/2426-2/), effective 18 December 2025; no reopening verified. Existing ranked values describe normal-condition merit only, not current accessibility.
+
 
 ## sight-gh-fort-san-antonio-axim — Fort San Antonio (Axim) — 2026-11-25
 
@@ -210,6 +223,8 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [UNESCO coastal fortifications property description; component identity and collective significance, not individual access](https://whc.unesco.org/en/list/34/), accessed 2026-11-25 in search or page excerpt; limited context, not a complete check of claims or visitor status.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access conditions and individual peer/category calibration.
+- Follow-up (2026-11-25): [GMMB closure notice](https://gmmb.gov.gh/2426-2/), effective 18 December 2025; no reopening verified. Existing ranked values describe normal-condition merit only, not current accessibility. [UNESCO 2026 decision](https://whc.unesco.org/en/decisions/9094/) also notes suspended works.
+
 
 ## sight-gh-fort-orange-sekondi — Fort Orange (Sekondi) — 2026-11-25
 
@@ -229,6 +244,8 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [UNESCO coastal fortifications property description; component identity and collective significance, not individual access](https://whc.unesco.org/en/list/34/), accessed 2026-11-25 in search or page excerpt; limited context, not a complete check of claims or visitor status.
 - Remaining gaps: Permitted visitor experience or coherent aggregate scope not established.
+- Follow-up (2026-11-25): [GMMB closure notice](https://gmmb.gov.gh/2426-2/), effective 18 December 2025; no reopening verified. Existing ranked values describe normal-condition merit only, not current accessibility.
+
 
 ## sight-gh-ussher-fort — Ussher Fort — 2026-11-25
 
@@ -248,6 +265,8 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [UNESCO coastal fortifications property description; component identity and collective significance, not individual access](https://whc.unesco.org/en/list/34/), accessed 2026-11-25 in search or page excerpt; limited context, not a complete check of claims or visitor status.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access conditions and individual peer/category calibration.
+- Follow-up (2026-11-25): [Controlled reopening on 22 December 2025](https://www.myjoyonline.com/government-reopens-ussher-and-james-forts-after-closure-imposes-strict-new-rules/). Current route and condition remain uncertain. [GMMB museum](https://gmmb.gov.gh/ussher-fort-crevecoeur-accra/) documents interpretation.
+
 
 ## sight-gh-osu-castle-christiansborg — Osu Castle (Christiansborg) — 2026-11-25
 
@@ -286,6 +305,8 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [UNESCO coastal fortifications property description; component identity and collective significance, not individual access](https://whc.unesco.org/en/list/34/), accessed 2026-11-25 in search or page excerpt; limited context, not a complete check of claims or visitor status.
 - Remaining gaps: Permitted visitor experience or coherent aggregate scope not established.
+- Follow-up (2026-11-25): [Controlled reopening on 22 December 2025](https://www.myjoyonline.com/government-reopens-ussher-and-james-forts-after-closure-imposes-strict-new-rules/). Current route and condition remain uncertain. [UNESCO 2026 decision](https://whc.unesco.org/en/decisions/9094/) flags harbour-related structural concerns; retain unranked.
+
 
 ## sight-gh-fort-prinzenstein-keta — Fort Prinzenstein (Keta) — 2026-11-25
 
@@ -381,6 +402,8 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Ghana tentative-list submission (2000), savanna and recorded wildlife; not current species guarantee](https://whc.unesco.org/en/tentativelists/1391/), accessed 2026-11-25 in search or page excerpt; limited context, not a complete check of claims or visitor status.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access conditions and individual peer/category calibration.
+- Follow-up (2026-11-25): [GTA](https://visitghana.com/mole-national-park/) supports guided wildlife visits. Compared with Kruger, Chobe and Serengeti, distinctive woodland and elephant encounters, but wildlife range and landscape scale are not global pinnacle.
+
 
 ## sight-gh-wli-waterfalls — Wli Waterfalls — 2026-11-25
 
@@ -403,7 +426,7 @@
 
 ## sight-gh-mount-afadja — Mount Afadja — 2026-11-25
 
-- [YAML](../../../countries/GH/sights/mount-afadja.yaml) · Action: new · **editorial-only**.
+- [YAML](../../../countries/GH/sights/mount-afadja.yaml) · Action: new · **source-linked-unverified**.
 - Scope: named hill and approach. GPS 7.027, 0.564: approximate editorial representative point; check pending.
 - Worldwide peers (I/U/S/E/D):
   - [Mount Huangshan (Yellow Mountain) (CN)](../../../countries/CN/sights/mount-huangshan.yaml) — 9.9 / 9.9 / 9.6 / 9.8 / 9.3 (97.65/100); upper anchor; lower impact (green mountain views), lower uniqueness (regional highland setting), lower significance (national geographic interest), lower experience (hike), lower depth (one summit route).
@@ -417,7 +440,7 @@
 - Depth 7.2: one summit route.
 - Categories: adventure:8.6, photography:8.6, nature:8.3. Overall: 76.60/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked per-record source; editorial only.
+- Evidence: [Follow-up reference](https://www.motcca.gov.gh/tourist-sites/), accessed 2026-11-25 in search excerpt; destination identity or regional context only, not all visitor claims. Original status editorial-only.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access conditions and individual peer/category calibration.
 
 ## sight-gh-tenzug-and-tallensi-cultural-landscape — Tenzug and Tallensi Cultural Landscape — 2026-11-25
@@ -498,7 +521,7 @@
 
 ## sight-gh-larabanga-mosque — Larabanga Mosque — 2026-11-25
 
-- [YAML](../../../countries/GH/sights/larabanga-mosque.yaml) · Action: new · **editorial-only**.
+- [YAML](../../../countries/GH/sights/larabanga-mosque.yaml) · Action: new · **source-linked-unverified**.
 - Scope: single mosque and permitted exterior. GPS 9.217, -1.855: approximate editorial representative point; check pending.
 - Worldwide peers (I/U/S/E/D):
   - [Angkor Wat (KH)](../../../countries/KH/sights/angkor-wat.yaml) — 10.0 / 10.0 / 10.0 / 9.8 / 9.5 (99.20/100); upper anchor; lower impact (earthen buttresses and timber projections), lower uniqueness (distinct Sudanese-style architecture in Ghana), lower significance (regional Islamic heritage), lower experience (focused respectful visit), lower depth (single building).
@@ -512,12 +535,12 @@
 - Depth 6.7: single building.
 - Categories: architecture:9.2, history:9.1, culture:9.1. Overall: 83.40/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked per-record source; editorial only.
+- Evidence: [Follow-up reference](https://visitghana.com/heritage-and-historical-sites/), accessed 2026-11-25 in search excerpt; destination identity or regional context only, not all visitor claims. Original status editorial-only.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access conditions and individual peer/category calibration.
 
 ## sight-gh-manhyia-palace-museum — Manhyia Palace Museum — 2026-11-25
 
-- [YAML](../../../countries/GH/sights/manhyia-palace-museum.yaml) · Action: new · **editorial-only**.
+- [YAML](../../../countries/GH/sights/manhyia-palace-museum.yaml) · Action: new · **source-linked-unverified**.
 - Scope: museum and accessible palace history displays. GPS 6.699, -1.620: approximate editorial representative point; check pending.
 - Worldwide peers (I/U/S/E/D):
   - [Kunsthistorisches Museum (AT)](../../../countries/AT/sights/kunsthistorisches-museum.yaml) — 9.2 / 9.4 / 9.6 / 9.4 / 9.5 (93.90/100); upper anchor; lower impact (royal artifacts and interiors), lower uniqueness (Asante royal historical focus), lower significance (national and regional historical significance), lower experience (interpreted galleries), lower depth (specialized collection).
@@ -531,12 +554,12 @@
 - Depth 7.8: specialized collection.
 - Categories: history:9.2, culture:9.1. Overall: 82.95/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked per-record source; editorial only.
+- Evidence: [Follow-up reference](https://gmmb.gov.gh/museums/), accessed 2026-11-25 in search excerpt; destination identity or regional context only, not all visitor claims. Original status editorial-only.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access conditions and individual peer/category calibration.
 
 ## sight-gh-kwame-nkrumah-memorial-park — Kwame Nkrumah Memorial Park — 2026-11-25
 
-- [YAML](../../../countries/GH/sights/kwame-nkrumah-memorial-park.yaml) · Action: new · **editorial-only**.
+- [YAML](../../../countries/GH/sights/kwame-nkrumah-memorial-park.yaml) · Action: new · **source-linked-unverified**.
 - Scope: memorial and museum. GPS 5.540, -0.202: approximate editorial representative point; check pending.
 - Worldwide peers (I/U/S/E/D):
   - [Angkor Wat (KH)](../../../countries/KH/sights/angkor-wat.yaml) — 10.0 / 10.0 / 10.0 / 9.8 / 9.5 (99.20/100); upper anchor; lower impact (monument and gardens), lower uniqueness (founding president memorial), lower significance (national independence and Pan-African heritage), lower experience (reflective interpreted visit), lower depth (bounded park).
@@ -550,12 +573,12 @@
 - Depth 7.6: bounded park.
 - Categories: history:9.3, culture:8.9, architecture:8.6. Overall: 83.90/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked per-record source; editorial only.
+- Evidence: [Follow-up reference](https://gmmb.gov.gh/museums/), accessed 2026-11-25 in search excerpt; destination identity or regional context only, not all visitor claims. Original status editorial-only.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access conditions and individual peer/category calibration.
 
 ## sight-gh-national-museum-of-ghana — National Museum of Ghana — 2026-11-25
 
-- [YAML](../../../countries/GH/sights/national-museum-of-ghana.yaml) · Action: new · **editorial-only**.
+- [YAML](../../../countries/GH/sights/national-museum-of-ghana.yaml) · Action: new · **source-linked-unverified**.
 - Scope: national collection and galleries. GPS 5.558, -0.208: approximate editorial representative point; check pending.
 - Worldwide peers (I/U/S/E/D):
   - [Kunsthistorisches Museum (AT)](../../../countries/AT/sights/kunsthistorisches-museum.yaml) — 9.2 / 9.4 / 9.6 / 9.4 / 9.5 (93.90/100); upper anchor; lower impact (archaeological and cultural objects), lower uniqueness (Ghanaian material culture), lower significance (national cultural importance), lower experience (gallery exploration), lower depth (multiple sections).
@@ -569,12 +592,12 @@
 - Depth 8.0: multiple sections.
 - Categories: history:9.0, culture:8.9. Overall: 79.60/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked per-record source; editorial only.
+- Evidence: [Follow-up reference](https://gmmb.gov.gh/museums/), accessed 2026-11-25 in search excerpt; destination identity or regional context only, not all visitor claims. Original status editorial-only.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access conditions and individual peer/category calibration.
 
 ## sight-gh-w-e-b-du-bois-memorial-centre — W E B Du Bois Memorial Centre — 2026-11-25
 
-- [YAML](../../../countries/GH/sights/w-e-b-du-bois-memorial-centre.yaml) · Action: new · **editorial-only**.
+- [YAML](../../../countries/GH/sights/w-e-b-du-bois-memorial-centre.yaml) · Action: new · **source-linked-unverified**.
 - Scope: house and memorial displays. GPS 5.576, -0.170: approximate editorial representative point; check pending.
 - Worldwide peers (I/U/S/E/D):
   - [Kunsthistorisches Museum (AT)](../../../countries/AT/sights/kunsthistorisches-museum.yaml) — 9.2 / 9.4 / 9.6 / 9.4 / 9.5 (93.90/100); upper anchor; lower impact (historic study and memorabilia), lower uniqueness (Pan-African intellectual heritage), lower significance (international intellectual history), lower experience (focused reflective visit), lower depth (small house and grounds).
@@ -588,7 +611,7 @@
 - Depth 7.0: small house and grounds.
 - Categories: history:9.1, culture:8.6. Overall: 78.40/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked per-record source; editorial only.
+- Evidence: [Follow-up reference](https://gmmb.gov.gh/museums/), accessed 2026-11-25 in search excerpt; destination identity or regional context only, not all visitor claims. Original status editorial-only.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access conditions and individual peer/category calibration.
 
 ## sight-gh-independence-square-and-black-star-gate — Independence Square and Black Star Gate — 2026-11-25
@@ -612,7 +635,7 @@
 
 ## sight-gh-kejetia-market — Kejetia Market — 2026-11-25
 
-- [YAML](../../../countries/GH/sights/kejetia-market.yaml) · Action: new · **editorial-only**.
+- [YAML](../../../countries/GH/sights/kejetia-market.yaml) · Action: new · **source-linked-unverified**.
 - Scope: market complex and public trade experience. GPS 6.695, -1.624: approximate editorial representative point; check pending.
 - Worldwide peers (I/U/S/E/D):
   - [Ben Thanh Market (VN)](../../../countries/VN/sights/ben-thanh-market.yaml) — 8.2 / 8.0 / 8.1 / 9.0 / 8.8 (83.10/100); upper anchor; lower impact (dense commercial activity), higher uniqueness (large regional market), lower significance (regional trading culture), lower experience (food and craft browsing), lower depth (multiple market sections).
@@ -626,12 +649,12 @@
 - Depth 8.0: multiple market sections.
 - Categories: culture:8.8, food:8.6, photography:8.4. Overall: 81.10/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked per-record source; editorial only.
+- Evidence: [Follow-up reference](https://ghanaembassy.com.tr/tourism/), accessed 2026-11-25 in search excerpt; destination identity or regional context only, not all visitor claims. Original status editorial-only.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access conditions and individual peer/category calibration.
 
 ## sight-gh-makola-market — Makola Market — 2026-11-25
 
-- [YAML](../../../countries/GH/sights/makola-market.yaml) · Action: new · **editorial-only**.
+- [YAML](../../../countries/GH/sights/makola-market.yaml) · Action: new · **source-linked-unverified**.
 - Scope: market streets and stalls. GPS 5.548, -0.206: approximate editorial representative point; check pending.
 - Worldwide peers (I/U/S/E/D):
   - [Ben Thanh Market (VN)](../../../countries/VN/sights/ben-thanh-market.yaml) — 8.2 / 8.0 / 8.1 / 9.0 / 8.8 (83.10/100); upper anchor; lower impact (busy city commerce), equal uniqueness (regional retail culture), lower significance (local economy), lower experience (food and shopping), lower depth (several streets).
@@ -645,12 +668,12 @@
 - Depth 7.5: several streets.
 - Categories: food:8.4, culture:8.5. Overall: 75.95/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked per-record source; editorial only.
+- Evidence: [Follow-up reference](https://exploreghanaguide.com/guides/things-to-do-in-accra), accessed 2026-11-25 in search excerpt; destination identity or regional context only, not all visitor claims. Original status editorial-only.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access conditions and individual peer/category calibration.
 
 ## sight-gh-aburi-botanical-gardens — Aburi Botanical Gardens — 2026-11-25
 
-- [YAML](../../../countries/GH/sights/aburi-botanical-gardens.yaml) · Action: new · **editorial-only**.
+- [YAML](../../../countries/GH/sights/aburi-botanical-gardens.yaml) · Action: new · **source-linked-unverified**.
 - Scope: historic botanical garden and paths. GPS 5.850, -0.175: approximate editorial representative point; check pending.
 - Worldwide peers (I/U/S/E/D):
   - [Mount Huangshan (Yellow Mountain) (CN)](../../../countries/CN/sights/mount-huangshan.yaml) — 9.9 / 9.9 / 9.6 / 9.8 / 9.3 (97.65/100); upper anchor; lower impact (mature trees and gardens), lower uniqueness (regional botanical collections), lower significance (historical garden heritage), lower experience (leisure walks), lower depth (several planted areas).
@@ -664,12 +687,12 @@
 - Depth 7.7: several planted areas.
 - Categories: nature:8.5, relaxation:8.6, photography:8.4. Overall: 77.95/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked per-record source; editorial only.
+- Evidence: [Follow-up reference](https://visitghana.com/eastern-region/), accessed 2026-11-25 in search excerpt; destination identity or regional context only, not all visitor claims. Original status editorial-only.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access conditions and individual peer/category calibration.
 
 ## sight-gh-boti-falls — Boti Falls — 2026-11-25
 
-- [YAML](../../../countries/GH/sights/boti-falls.yaml) · Action: new · **editorial-only**.
+- [YAML](../../../countries/GH/sights/boti-falls.yaml) · Action: new · **source-linked-unverified**.
 - Scope: waterfall pair and immediate trails. GPS 6.212, -0.197: approximate editorial representative point; check pending.
 - Worldwide peers (I/U/S/E/D):
   - [Mount Huangshan (Yellow Mountain) (CN)](../../../countries/CN/sights/mount-huangshan.yaml) — 9.9 / 9.9 / 9.6 / 9.8 / 9.3 (97.65/100); upper anchor; lower impact (twin seasonal cascades), lower uniqueness (regional waterfall setting), lower significance (local natural heritage), lower experience (viewing and walks), lower depth (bounded site).
@@ -683,12 +706,12 @@
 - Depth 7.0: bounded site.
 - Categories: nature:8.6, photography:8.7. Overall: 76.90/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked per-record source; editorial only.
+- Evidence: [Follow-up reference](https://www.motcca.gov.gh/tourist-sites/), accessed 2026-11-25 in search excerpt; destination identity or regional context only, not all visitor claims. Original status editorial-only.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access conditions and individual peer/category calibration.
 
 ## sight-gh-kintampo-waterfalls — Kintampo Waterfalls — 2026-11-25
 
-- [YAML](../../../countries/GH/sights/kintampo-waterfalls.yaml) · Action: new · **editorial-only**.
+- [YAML](../../../countries/GH/sights/kintampo-waterfalls.yaml) · Action: new · **source-linked-unverified**.
 - Scope: cascades and accessible route. GPS 8.066, -1.724: approximate editorial representative point; check pending.
 - Worldwide peers (I/U/S/E/D):
   - [Mount Huangshan (Yellow Mountain) (CN)](../../../countries/CN/sights/mount-huangshan.yaml) — 9.9 / 9.9 / 9.6 / 9.8 / 9.3 (97.65/100); upper anchor; lower impact (multi-tier forest waterfall), lower uniqueness (regional waterfall landscape), lower significance (local geology), lower experience (walk and viewing), lower depth (several tiers).
@@ -702,7 +725,7 @@
 - Depth 7.3: several tiers.
 - Categories: nature:8.7, photography:8.8. Overall: 78.05/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked per-record source; editorial only.
+- Evidence: [Follow-up reference](https://visitghana.com/kintampo-waterfalls/), accessed 2026-11-25 in search excerpt; destination identity or regional context only, not all visitor claims. Original status editorial-only.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access conditions and individual peer/category calibration.
 
 ## sight-gh-bunso-arboretum — Bunso Arboretum — 2026-11-25
@@ -764,7 +787,7 @@
 
 ## sight-gh-tafi-atome-monkey-sanctuary — Tafi Atome Monkey Sanctuary — 2026-11-25
 
-- [YAML](../../../countries/GH/sights/tafi-atome-monkey-sanctuary.yaml) · Action: new · **editorial-only**.
+- [YAML](../../../countries/GH/sights/tafi-atome-monkey-sanctuary.yaml) · Action: new · **source-linked-unverified**.
 - Scope: community sanctuary and paths. GPS 6.91, 0.44: approximate editorial representative point; check pending.
 - Worldwide peers (I/U/S/E/D):
   - [Mount Huangshan (Yellow Mountain) (CN)](../../../countries/CN/sights/mount-huangshan.yaml) — 9.9 / 9.9 / 9.6 / 9.8 / 9.3 (97.65/100); upper anchor; lower impact (forest monkey encounters), lower uniqueness (community conservation tradition), lower significance (regional conservation), lower experience (guided walks), lower depth (bounded forest).
@@ -778,12 +801,12 @@
 - Depth 7.0: bounded forest.
 - Categories: wildlife:8.9, culture:8.0, nature:8.5. Overall: 78.70/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked per-record source; editorial only.
+- Evidence: [Follow-up reference](https://ghanaembassy.com.tr/tourism/), accessed 2026-11-25 in search excerpt; destination identity or regional context only, not all visitor claims. Original status editorial-only.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access conditions and individual peer/category calibration.
 
 ## sight-gh-lake-bosomtwe — Lake Bosomtwe — 2026-11-25
 
-- [YAML](../../../countries/GH/sights/lake-bosomtwe.yaml) · Action: new · **editorial-only**.
+- [YAML](../../../countries/GH/sights/lake-bosomtwe.yaml) · Action: new · **source-linked-unverified**.
 - Scope: crater lake and permitted shore visits. GPS 6.505, -1.411: approximate editorial representative point; check pending.
 - Worldwide peers (I/U/S/E/D):
   - [Ha Long Bay (VN)](../../../countries/VN/sights/ha-long-bay.yaml) — 9.8 / 9.9 / 9.7 / 9.8 / 9.6 (97.85/100); upper anchor; lower impact (large forest-framed lake), lower uniqueness (impact crater setting), lower significance (regional geology and cultural significance), lower experience (shore and boat outings), lower depth (several shoreline sites).
@@ -797,12 +820,14 @@
 - Depth 8.1: several shoreline sites.
 - Categories: nature:9.0, photography:8.9, relaxation:8.8. Overall: 84.70/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked per-record source; editorial only.
+- Evidence: [Follow-up reference](https://www.unesco.org/en/mab/lake-bosomtwe), accessed 2026-11-25 in search excerpt; destination identity or regional context only, not all visitor claims. Original status editorial-only.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access conditions and individual peer/category calibration.
+- Follow-up (2026-11-25): Crater-lake peers include Crater Lake (US), Lake Toba (Indonesia) and Quilotoa (Ecuador); biosphere designation supports geology/ecology, not visitor score.
+
 
 ## sight-gh-lake-volta-visitor-areas — Lake Volta (visitor areas) — 2026-11-25
 
-- [YAML](../../../countries/GH/sights/lake-volta-visitor-areas.yaml) · Action: new · **editorial-only**.
+- [YAML](../../../countries/GH/sights/lake-volta-visitor-areas.yaml) · Action: new · **source-linked-unverified**.
 - Scope: ordinary lake excursions not entire reservoir. GPS 6.65, 0.15: approximate editorial representative point; check pending.
 - Worldwide peers (I/U/S/E/D):
   - [Ha Long Bay (VN)](../../../countries/VN/sights/ha-long-bay.yaml) — 9.8 / 9.9 / 9.7 / 9.8 / 9.6 (97.85/100); upper anchor; lower impact (wide water and hills), lower uniqueness (large engineered lake), lower significance (regional hydropower and settlement history), lower experience (boat and shoreline visits), lower depth (multiple sections).
@@ -816,12 +841,12 @@
 - Depth 8.3: multiple sections.
 - Categories: nature:8.5, history:8.5, photography:8.3. Overall: 81.40/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked per-record source; editorial only.
+- Evidence: [Follow-up reference](https://ghanaculture.gov.gh/eastern-region/), accessed 2026-11-25 in search excerpt; destination identity or regional context only, not all visitor claims. Original status editorial-only.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access conditions and individual peer/category calibration.
 
 ## sight-gh-akosombo-dam — Akosombo Dam — 2026-11-25
 
-- [YAML](../../../countries/GH/sights/akosombo-dam.yaml) · Action: new · **editorial-only**.
+- [YAML](../../../countries/GH/sights/akosombo-dam.yaml) · Action: new · **source-linked-unverified**.
 - Scope: dam and permitted visitor view. GPS 6.299, 0.064: approximate editorial representative point; check pending.
 - Worldwide peers (I/U/S/E/D):
   - [Angkor Wat (KH)](../../../countries/KH/sights/angkor-wat.yaml) — 10.0 / 10.0 / 10.0 / 9.8 / 9.5 (99.20/100); upper anchor; lower impact (large hydroelectric infrastructure), lower uniqueness (regional engineering project), lower significance (national development history), lower experience (focused tour when permitted), lower depth (one structure).
@@ -835,12 +860,12 @@
 - Depth 6.8: one structure.
 - Categories: history:8.8, architecture:8.6. Overall: 79.00/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked per-record source; editorial only.
+- Evidence: [Follow-up reference](https://ghanaculture.gov.gh/eastern-region/), accessed 2026-11-25 in search excerpt; destination identity or regional context only, not all visitor claims. Original status editorial-only.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access conditions and individual peer/category calibration.
 
 ## sight-gh-paga-crocodile-pond — Paga Crocodile Pond — 2026-11-25
 
-- [YAML](../../../countries/GH/sights/paga-crocodile-pond.yaml) · Action: new · **editorial-only**.
+- [YAML](../../../countries/GH/sights/paga-crocodile-pond.yaml) · Action: new · **source-linked-unverified**.
 - Scope: community-managed pond. GPS 11.00, -1.11: approximate editorial representative point; check pending.
 - Worldwide peers (I/U/S/E/D):
   - [Ha Long Bay (VN)](../../../countries/VN/sights/ha-long-bay.yaml) — 9.8 / 9.9 / 9.7 / 9.8 / 9.6 (97.85/100); upper anchor; lower impact (large crocodiles), lower uniqueness (local sacred animal tradition), lower significance (regional cultural heritage), lower experience (responsible viewing), lower depth (one pond).
@@ -854,12 +879,12 @@
 - Depth 6.5: one pond.
 - Categories: wildlife:8.5, culture:8.2. Overall: 75.20/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked per-record source; editorial only.
+- Evidence: [Follow-up reference](https://visitghana.com/upper-east-region/), accessed 2026-11-25 in search excerpt; destination identity or regional context only, not all visitor claims. Original status editorial-only.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access conditions and individual peer/category calibration.
 
 ## sight-gh-assin-manso-ancestral-slave-river-site — Assin Manso Ancestral Slave River Site — 2026-11-25
 
-- [YAML](../../../countries/GH/sights/assin-manso-ancestral-slave-river-site.yaml) · Action: new · **editorial-only**.
+- [YAML](../../../countries/GH/sights/assin-manso-ancestral-slave-river-site.yaml) · Action: new · **source-linked-unverified**.
 - Scope: memorial site and river precinct. GPS 5.58, -1.38: approximate editorial representative point; check pending.
 - Worldwide peers (I/U/S/E/D):
   - [Angkor Wat (KH)](../../../countries/KH/sights/angkor-wat.yaml) — 10.0 / 10.0 / 10.0 / 9.8 / 9.5 (99.20/100); upper anchor; lower impact (reflective river landscape), lower uniqueness (historic memory of enslaved people), lower significance (Atlantic slave-trade significance), lower experience (interpreted memorial visit), lower depth (bounded site).
@@ -873,12 +898,12 @@
 - Depth 6.9: bounded site.
 - Categories: history:9.4, culture:8.8. Overall: 81.15/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked per-record source; editorial only.
+- Evidence: [Follow-up reference](https://theassda.gov.gh/tourist-sites/), accessed 2026-11-25 in search excerpt; destination identity or regional context only, not all visitor claims. Original status editorial-only.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access conditions and individual peer/category calibration.
 
 ## sight-gh-labadi-beach — Labadi Beach — 2026-11-25
 
-- [YAML](../../../countries/GH/sights/labadi-beach.yaml) · Action: new · **editorial-only**.
+- [YAML](../../../countries/GH/sights/labadi-beach.yaml) · Action: new · **source-linked-unverified**.
 - Scope: public beach and beachfront leisure. GPS 5.563, -0.139: approximate editorial representative point; check pending.
 - Worldwide peers (I/U/S/E/D):
   - [Railay Beach (TH)](../../../countries/TH/sights/railay-beach.yaml) — 8.9 / 9.0 / 7.5 / 9.2 / 8.3 (86.30/100); upper anchor; lower impact (urban coastal sand), lower uniqueness (replaceable city beach), lower significance (local recreation), lower experience (beach and music when offered), lower depth (linear shore).
@@ -892,12 +917,14 @@
 - Depth 7.1: linear shore.
 - Categories: beaches:8.2, relaxation:8.0, culture:7.7. Overall: 70.95/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked per-record source; editorial only.
+- Evidence: [Follow-up reference](https://exploreghanaguide.com/guides/things-to-do-in-accra), accessed 2026-11-25 in search excerpt; destination identity or regional context only, not all visitor claims. Original status editorial-only.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access conditions and individual peer/category calibration.
+- Follow-up (2026-11-25): Source reports beachfront demolition in October 2026; current amenities uncertain, score describes normal-condition experience.
+
 
 ## sight-gh-busua-beach — Busua Beach — 2026-11-25
 
-- [YAML](../../../countries/GH/sights/busua-beach.yaml) · Action: new · **editorial-only**.
+- [YAML](../../../countries/GH/sights/busua-beach.yaml) · Action: new · **source-linked-unverified**.
 - Scope: specific beach and surf break. GPS 4.802, -1.94: approximate editorial representative point; check pending.
 - Worldwide peers (I/U/S/E/D):
   - [Railay Beach (TH)](../../../countries/TH/sights/railay-beach.yaml) — 8.9 / 9.0 / 7.5 / 9.2 / 8.3 (86.30/100); upper anchor; lower impact (wide tropical shore), lower uniqueness (regional surf setting), lower significance (local recreation), lower experience (surf and beach walks), lower depth (linear beach).
@@ -911,12 +938,12 @@
 - Depth 7.4: linear beach.
 - Categories: beaches:8.8, adventure:8.7, relaxation:8.8. Overall: 76.55/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked per-record source; editorial only.
+- Evidence: [Follow-up reference](https://visitghana.com/western-region/), accessed 2026-11-25 in search excerpt; destination identity or regional context only, not all visitor claims. Original status editorial-only.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access conditions and individual peer/category calibration.
 
 ## sight-gh-cape-three-points — Cape Three Points — 2026-11-25
 
-- [YAML](../../../countries/GH/sights/cape-three-points.yaml) · Action: new · **editorial-only**.
+- [YAML](../../../countries/GH/sights/cape-three-points.yaml) · Action: new · **source-linked-unverified**.
 - Scope: cape and permitted lighthouse-area walks. GPS 4.744, -2.09: approximate editorial representative point; check pending.
 - Worldwide peers (I/U/S/E/D):
   - [Mount Huangshan (Yellow Mountain) (CN)](../../../countries/CN/sights/mount-huangshan.yaml) — 9.9 / 9.9 / 9.6 / 9.8 / 9.3 (97.65/100); upper anchor; lower impact (coastal headland), lower uniqueness (regional geographic setting), lower significance (maritime heritage), lower experience (viewing and walks), lower depth (bounded cape).
@@ -930,12 +957,12 @@
 - Depth 7.3: bounded cape.
 - Categories: nature:8.5, photography:8.8. Overall: 77.85/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked per-record source; editorial only.
+- Evidence: [Follow-up reference](https://visitghana.app/things-to-do/western-region), accessed 2026-11-25 in search excerpt; destination identity or regional context only, not all visitor claims. Original status editorial-only.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access conditions and individual peer/category calibration.
 
 ## sight-gh-keta-lagoon-complex — Keta Lagoon Complex — 2026-11-25
 
-- [YAML](../../../countries/GH/sights/keta-lagoon-complex.yaml) · Action: new · **editorial-only**.
+- [YAML](../../../countries/GH/sights/keta-lagoon-complex.yaml) · Action: new · **source-linked-unverified**.
 - Scope: wetland and permitted visitor areas. GPS 5.97, 0.92: approximate editorial representative point; check pending.
 - Worldwide peers (I/U/S/E/D):
   - [Ha Long Bay (VN)](../../../countries/VN/sights/ha-long-bay.yaml) — 9.8 / 9.9 / 9.7 / 9.8 / 9.6 (97.85/100); upper anchor; lower impact (lagoon and birds), lower uniqueness (regional coastal wetland), lower significance (conservation significance), lower experience (birding and shore visits), lower depth (multiple habitats).
@@ -949,5 +976,5 @@
 - Depth 8.3: multiple habitats.
 - Categories: wildlife:9.1, nature:8.8. Overall: 82.15/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked per-record source; editorial only.
+- Evidence: [Follow-up reference](https://www.keybiodiversityareas.org/en/site/factsheet/6343), accessed 2026-11-25 in search excerpt; destination identity or regional context only, not all visitor claims. Original status editorial-only.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access conditions and individual peer/category calibration.
