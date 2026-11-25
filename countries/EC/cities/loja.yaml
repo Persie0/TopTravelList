@@ -1,0 +1,16 @@
+id: city-ec-loja
+name: "Loja"
+location:
+  country_code: EC
+  latitude: -3.9931
+  longitude: -79.2042
+scores:
+  impact: 7.4
+  uniqueness: 7.6
+  significance: 7.7
+  experience: 7.8
+  depth: 7.5
+  categories:
+    culture: 8.3
+    architecture: 8.0
+    food: 7.9

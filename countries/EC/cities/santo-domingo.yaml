@@ -1,0 +1,15 @@
+id: city-ec-santo-domingo
+name: "Santo Domingo"
+location:
+  country_code: EC
+  latitude: -0.2530
+  longitude: -79.1750
+scores:
+  impact: 6.4
+  uniqueness: 6.7
+  significance: 6.5
+  experience: 7.1
+  depth: 6.8
+  categories:
+    culture: 7.7
+    food: 7.4

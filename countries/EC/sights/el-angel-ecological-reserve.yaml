@@ -1,0 +1,15 @@
+id: sight-ec-el-angel-ecological-reserve
+name: "El Ángel Ecological Reserve"
+location:
+  country_code: EC
+  latitude: 0.7000
+  longitude: -77.9500
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 8.6
+  experience: 8.3
+  depth: 7.9
+  categories:
+    nature: 9.1
+    photography: 9.2

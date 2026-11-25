@@ -1,0 +1,15 @@
+id: sight-ec-galapaguera-de-cerro-colorado
+name: "Galapaguera de Cerro Colorado"
+location:
+  country_code: EC
+  latitude: -0.9140
+  longitude: -89.4330
+scores:
+  impact: 8.0
+  uniqueness: 8.6
+  significance: 8.6
+  experience: 8.2
+  depth: 7.1
+  categories:
+    wildlife: 9.2
+    nature: 8.7
