@@ -2,7 +2,7 @@
 
 # Jordan (JO) — Sights & attractions ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**63 ranked** · **4 unassessed** · **67 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,11 +10,84 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, or click its GPS coordinates to open **Google Maps**. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (63)
 
-No sights & attractions have been assessed for **Jordan** yet.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps |
+| ---: | --- | --- | ---: | --- | --- | --- |
+| 1 | [Petra Archaeological Park](sights/petra-archaeological-park.yaml) | Museum / heritage | **98.85** | **Architecture 9.9**, **History 9.9**, **Photography 9.9**, Culture 9.8 | 9.9 / 9.9 / 9.9 / 9.8 / 9.9 | [30.3285, 35.4444](https://www.google.com/maps/search/?api=1&query=30.3285,35.4444) |
+| 2 | [Wadi Rum Protected Area](sights/wadi-rum-protected-area.yaml) | Attraction | **96.35** | **Nature 9.8**, **Photography 9.8**, **Adventure 9.5**, Culture 9.1 | 9.8 / 9.7 / 9.4 / 9.6 / 9.5 | [29.639722, 35.433889](https://www.google.com/maps/search/?api=1&query=29.639722,35.433889) |
+| 3 | [Jerash Archaeological City](sights/jerash-archaeological-city.yaml) | Museum / heritage | **94.15** | **Architecture 9.5**, **History 9.5**, **Photography 9.4** | 9.5 / 9.3 / 9.5 / 9.4 / 9.3 | [32.2806, 35.8917](https://www.google.com/maps/search/?api=1&query=32.2806,35.8917) |
+| 4 | [Al-Khazneh (Treasury)](sights/al-khazneh-treasury.yaml) | Attraction | **92.85** | **Architecture 9.8**, **Photography 9.8**, **History 9.3** | 9.8 / 9.7 / 9.3 / 8.8 / 7.4 | [30.3221, 35.4517](https://www.google.com/maps/search/?api=1&query=30.3221,35.4517) |
+| 5 | [Ad-Deir (Monastery)](sights/ad-deir-monastery.yaml) | Religious site | **92.75** | **Photography 9.7**, **Architecture 9.6**, **History 9.1** | 9.6 / 9.5 / 9.1 / 9.2 / 8.2 | [30.338, 35.4314](https://www.google.com/maps/search/?api=1&query=30.338,35.4314) |
+| 6 | [Dead Sea (Jordanian shore)](sights/dead-sea-jordanian-shore.yaml) | Attraction | **92.00** | **Nature 9.5**, **Relaxation 9.3**, **Photography 9.0** | 9.1 / 9.7 / 9.2 / 9.1 / 8.4 | [31.711, 35.57](https://www.google.com/maps/search/?api=1&query=31.711,35.57) |
+| 7 | [Aqaba Marine Reserve](sights/aqaba-marine-reserve.yaml) | Attraction | **90.95** | **Nature 9.4**, **Wildlife 9.3**, **Adventure 9.2** | 8.9 / 9.2 / 9.4 / 9.1 / 8.8 | [29.429722, 34.975556](https://www.google.com/maps/search/?api=1&query=29.429722,34.975556) |
+| 8 | [Dana Biosphere Reserve](sights/dana-biosphere-reserve.yaml) | Attraction | **89.40** | **Nature 9.3**, **Adventure 9.1**, **Photography 9.1**, Wildlife 9.0 | 9.0 / 8.8 / 8.9 / 9.0 / 9.1 | [30.683, 35.568](https://www.google.com/maps/search/?api=1&query=30.683,35.568) |
+| 9 | [Petra Royal Tombs](sights/petra-royal-tombs.yaml) | Museum / heritage | **89.15** | **Architecture 9.3**, **Photography 9.3**, **History 9.2** | 9.0 / 9.1 / 9.0 / 8.8 / 8.2 | [30.3273, 35.4472](https://www.google.com/maps/search/?api=1&query=30.3273,35.4472) |
+| 10 | [Mujib Biosphere Reserve](sights/mujib-biosphere-reserve.yaml) | Attraction | **89.05** | **Adventure 9.3**, **Nature 9.2**, **Photography 9.0** | 9.1 / 8.9 / 8.7 / 9.0 / 8.6 | [31.466, 35.58](https://www.google.com/maps/search/?api=1&query=31.466,35.58) |
+| 11 | [Petra Siq](sights/petra-siq.yaml) | Attraction | **88.75** | **Photography 9.4**, **Nature 9.2**, **History 8.6** | 9.2 / 9.0 / 8.6 / 9.1 / 7.8 | [30.3235, 35.46](https://www.google.com/maps/search/?api=1&query=30.3235,35.46) |
+| 12 | [Baptism Site Al-Maghtas](sights/baptism-site-al-maghtas.yaml) | Attraction | **88.55** | **History 9.6**, **Culture 9.5** | 8.5 / 9.2 / 9.6 / 8.5 / 8.1 | [31.837222, 35.552778](https://www.google.com/maps/search/?api=1&query=31.837222,35.552778) |
+| 13 | [As-Salt Historic Core](sights/as-salt-historic-core.yaml) | Attraction | **88.50** | **Architecture 9.3**, **Culture 9.2**, **History 9.1**, Photography 9.0 | 8.7 / 9.1 / 9.1 / 8.7 / 8.4 | [32.042611, 35.728306](https://www.google.com/maps/search/?api=1&query=32.042611,35.728306) |
+| 14 | [Karak Castle](sights/karak-castle.yaml) | Palace / castle | **87.80** | **History 9.2**, **Architecture 9.0**, **Photography 8.6** | 8.8 / 8.7 / 9.0 / 8.7 / 8.6 | [31.1808, 35.7014](https://www.google.com/maps/search/?api=1&query=31.1808,35.7014) |
+| 15 | [Amman Citadel](sights/amman-citadel.yaml) | Fortification | **87.20** | **History 9.2**, **Photography 8.9**, **Architecture 8.8** | 8.7 / 8.6 / 9.0 / 8.8 / 8.4 | [31.9548, 35.9345](https://www.google.com/maps/search/?api=1&query=31.9548,35.9345) |
+| 16 | [Gadara Archaeological Site (Umm Qais)](sights/gadara-archaeological-site-umm-qais.yaml) | Museum / heritage | **86.95** | **History 9.1**, **Photography 9.0**, **Architecture 8.8** | 8.7 / 8.6 / 8.9 / 8.7 / 8.5 | [32.653, 35.6796](https://www.google.com/maps/search/?api=1&query=32.653,35.6796) |
+| 17 | [Quseir Amra](sights/quseir-amra.yaml) | Attraction | **86.90** | **History 9.3**, **Architecture 9.2**, **Culture 9.1** | 8.4 / 9.2 / 9.2 / 8.4 / 7.7 | [31.801806, 36.587306](https://www.google.com/maps/search/?api=1&query=31.801806,36.587306) |
+| 18 | [Petra High Place of Sacrifice](sights/petra-high-place-of-sacrifice.yaml) | Attraction | **86.50** | **Photography 9.2**, **History 8.9**, **Adventure 8.6** | 8.7 / 8.8 / 8.7 / 8.8 / 7.8 | [30.3217, 35.4471](https://www.google.com/maps/search/?api=1&query=30.3217,35.4471) |
+| 19 | [Umm Al-Jimal Archaeological Site](sights/umm-al-jimal-archaeological-site.yaml) | Museum / heritage | **86.40** | **History 9.1**, **Architecture 9.0**, **Photography 8.7** | 8.4 / 8.9 / 9.0 / 8.3 / 8.5 | [32.326944, 36.37](https://www.google.com/maps/search/?api=1&query=32.326944,36.37) |
+| 20 | [Little Petra (Siq al-Barid)](sights/little-petra-siq-al-barid.yaml) | Attraction | **86.30** | **Architecture 9.0**, **Photography 9.0**, **History 8.9** | 8.6 / 8.8 / 8.8 / 8.6 / 8.0 | [30.3759, 35.4482](https://www.google.com/maps/search/?api=1&query=30.3759,35.4482) |
+| 20 | [Mount Nebo](sights/mount-nebo.yaml) | Mountain / peak | **86.30** | **Culture 9.4**, **History 9.3**, **Photography 8.8** | 8.4 / 8.8 / 9.2 / 8.6 / 7.8 | [31.7683, 35.7255](https://www.google.com/maps/search/?api=1&query=31.7683,35.7255) |
+| 22 | [Wadi Rum Burdah Rock Bridge](sights/wadi-rum-burdah-rock-bridge.yaml) | Bridge | **86.15** | **Photography 9.3**, **Adventure 9.2**, **Nature 9.1** | 9.0 / 8.9 / 7.9 / 9.0 / 7.6 | [29.48, 35.49](https://www.google.com/maps/search/?api=1&query=29.48,35.49) |
+| 23 | [Mujib Siq Trail](sights/mujib-siq-trail.yaml) | Trail / walk | **86.10** | **Adventure 9.3**, **Nature 8.9**, **Photography 8.7** | 9.1 / 8.7 / 7.8 / 9.1 / 7.8 | [31.466, 35.5735](https://www.google.com/maps/search/?api=1&query=31.466,35.5735) |
+| 24 | [St George Church (Madaba Map)](sights/st-george-church-madaba-map.yaml) | Religious site | **85.60** | **History 9.4**, **Culture 9.3**, **Architecture 8.8** | 8.2 / 9.1 / 9.3 / 8.3 / 7.2 | [31.7178, 35.7935](https://www.google.com/maps/search/?api=1&query=31.7178,35.7935) |
+| 25 | [Petra Great Temple](sights/petra-great-temple.yaml) | Religious site | **85.55** | **History 9.1**, **Architecture 8.9** | 8.5 / 8.6 / 8.9 / 8.5 / 8.0 | [30.3285, 35.4427](https://www.google.com/maps/search/?api=1&query=30.3285,35.4427) |
+| 26 | [Ajloun Castle](sights/ajloun-castle.yaml) | Palace / castle | **85.45** | **History 9.0**, **Architecture 8.8**, **Photography 8.6** | 8.5 / 8.5 / 8.8 / 8.6 / 8.2 | [32.3252, 35.7272](https://www.google.com/maps/search/?api=1&query=32.3252,35.7272) |
+| 27 | [Amman Roman Theatre](sights/amman-roman-theatre.yaml) | Attraction | **84.55** | **History 8.9**, **Architecture 8.8**, **Photography 8.6** | 8.6 / 8.2 / 8.7 / 8.7 / 7.8 | [31.951, 35.9394](https://www.google.com/maps/search/?api=1&query=31.951,35.9394) |
+| 28 | [Um er-Rasas Archaeological Site](sights/um-er-rasas-archaeological-site.yaml) | Museum / heritage | **84.45** | **History 9.2**, **Architecture 8.7**, **Culture 8.5** | 8.1 / 8.7 / 9.0 / 8.2 / 8.1 | [31.5, 35.92](https://www.google.com/maps/search/?api=1&query=31.5,35.92) |
+| 29 | [Jordan Museum](sights/jordan-museum.yaml) | Museum / heritage | **84.35** | **History 9.1**, **Culture 8.9**, **Family 7.8** | 8.1 / 8.4 / 8.9 / 8.5 / 8.5 | [31.9452, 35.929](https://www.google.com/maps/search/?api=1&query=31.9452,35.929) |
+| 30 | [Wadi Rum Khazali Canyon](sights/wadi-rum-khazali-canyon.yaml) | Valley / canyon | **83.80** | **Nature 8.8**, **Photography 8.8**, **History 8.6** | 8.5 / 8.6 / 8.5 / 8.4 / 7.2 | [29.538, 35.416](https://www.google.com/maps/search/?api=1&query=29.538,35.416) |
+| 31 | [Pella Archaeological Site](sights/pella-archaeological-site.yaml) | Museum / heritage | **82.80** | **History 9.1**, **Architecture 8.3** | 7.9 / 8.4 / 8.9 / 8.0 / 8.3 | [32.4513, 35.6163](https://www.google.com/maps/search/?api=1&query=32.4513,35.6163) |
+| 32 | [Shobak Castle (Montreal)](sights/shobak-castle-montreal.yaml) | Palace / castle | **82.65** | **History 8.9**, **Architecture 8.5**, **Photography 8.5** | 8.1 / 8.4 / 8.7 / 8.1 / 7.8 | [30.5318, 35.5619](https://www.google.com/maps/search/?api=1&query=30.5318,35.5619) |
+| 33 | [Shaumari Wildlife Reserve](sights/shaumari-wildlife-reserve.yaml) | Attraction | **82.45** | **Wildlife 9.0**, **Nature 8.6** | 7.9 / 8.5 / 8.7 / 8.2 / 7.8 | [31.749, 36.76](https://www.google.com/maps/search/?api=1&query=31.749,36.76) |
+| 34 | [Mukawir (Machaerus)](sights/mukawir-machaerus.yaml) | Attraction | **82.30** | **History 9.1**, **Culture 8.8**, **Photography 8.5** | 8.0 / 8.5 / 8.9 / 7.9 / 7.4 | [31.567, 35.6248](https://www.google.com/maps/search/?api=1&query=31.567,35.6248) |
+| 35 | [Qasr Al-Kharana](sights/qasr-al-kharana.yaml) | Attraction | **82.15** | **Architecture 8.8**, **History 8.6**, **Photography 8.4** | 8.0 / 8.5 / 8.6 / 8.0 / 7.7 | [31.7289, 36.4622](https://www.google.com/maps/search/?api=1&query=31.7289,36.4622) |
+| 36 | [Wadi Hasa Canyon](sights/wadi-hasa-canyon.yaml) | Valley / canyon | **81.95** | **Adventure 9.0**, **Nature 8.7**, **Photography 8.7** | 8.4 / 8.3 / 7.5 / 8.6 / 8.1 | [30.994, 35.625](https://www.google.com/maps/search/?api=1&query=30.994,35.625) |
+| 37 | [Madaba Archaeological Park](sights/madaba-archaeological-park.yaml) | Museum / heritage | **81.80** | **History 8.9**, **Architecture 8.5** | 7.9 / 8.3 / 8.7 / 8.1 / 7.8 | [31.7159, 35.794](https://www.google.com/maps/search/?api=1&query=31.7159,35.794) |
+| 38 | [Ma'in Hot Springs](sights/ma-in-hot-springs.yaml) | Attraction | **81.70** | **Relaxation 9.0**, **Nature 8.7**, **Photography 8.6** | 8.3 / 8.5 / 7.6 / 8.5 / 7.6 | [31.608, 35.609](https://www.google.com/maps/search/?api=1&query=31.608,35.609) |
+| 39 | [Qasr al-Abd (Iraq al-Amir)](sights/qasr-al-abd-iraq-al-amir.yaml) | Attraction | **81.65** | **Architecture 8.8**, **History 8.7**, **Photography 8.4** | 8.0 / 8.5 / 8.5 / 8.0 / 7.4 | [31.9153, 35.7516](https://www.google.com/maps/search/?api=1&query=31.9153,35.7516) |
+| 40 | [Azraq Wetland Reserve](sights/azraq-wetland-reserve.yaml) | Wetland | **81.60** | **Nature 8.8**, **Wildlife 8.7**, **Photography 8.1** | 7.8 / 8.4 / 8.7 / 8.0 / 7.8 | [31.8364, 36.8211](https://www.google.com/maps/search/?api=1&query=31.8364,36.8211) |
+| 41 | [Qasr Al-Mushatta](sights/qasr-al-mushatta.yaml) | Attraction | **80.60** | **History 9.0**, **Architecture 8.8** | 7.6 / 8.5 / 8.9 / 7.5 / 7.5 | [31.7343, 36.0101](https://www.google.com/maps/search/?api=1&query=31.7343,36.0101) |
+| 41 | [Wadi Bin Hammad](sights/wadi-bin-hammad.yaml) | Attraction | **80.60** | **Adventure 8.7**, **Nature 8.7**, **Photography 8.7** | 8.2 / 8.3 / 7.4 / 8.5 / 7.7 | [31.283, 35.67](https://www.google.com/maps/search/?api=1&query=31.283,35.67) |
+| 43 | [Qasr Azraq](sights/qasr-azraq.yaml) | Attraction | **80.45** | **History 8.9**, **Architecture 8.3** | 7.8 / 8.1 / 8.6 / 8.0 / 7.6 | [31.8797, 36.8275](https://www.google.com/maps/search/?api=1&query=31.8797,36.8275) |
+| 43 | [Royal Automobile Museum](sights/royal-automobile-museum.yaml) | Museum / heritage | **80.45** | **Family 8.4**, **Culture 8.0**, **History 8.0** | 8.0 / 8.2 / 7.8 / 8.3 / 7.9 | [31.9839, 35.8274](https://www.google.com/maps/search/?api=1&query=31.9839,35.8274) |
+| 45 | [Qasr Bshir](sights/qasr-bshir.yaml) | Attraction | **80.40** | **History 8.8**, **Architecture 8.6**, **Photography 8.2** | 7.8 / 8.6 / 8.6 / 7.4 / 7.2 | [31.4492, 35.9825](https://www.google.com/maps/search/?api=1&query=31.4492,35.9825) |
+| 46 | [Wadi Rum Um Fruth Rock Bridge](sights/wadi-rum-um-fruth-rock-bridge.yaml) | Bridge | **79.95** | **Photography 8.8**, **Nature 8.5**, **Adventure 8.4** | 8.3 / 8.4 / 7.4 / 8.3 / 6.8 | [29.479, 35.422](https://www.google.com/maps/search/?api=1&query=29.479,35.422) |
+| 47 | [Ajloun Forest Biosphere Reserve](sights/ajloun-forest-biosphere-reserve.yaml) | Forest | **79.85** | **Nature 8.5**, **Adventure 8.3**, **Wildlife 8.0** | 7.9 / 7.8 / 8.1 / 8.3 / 8.0 | [32.383, 35.747](https://www.google.com/maps/search/?api=1&query=32.383,35.747) |
+| 48 | [Yarmouk Forest Biosphere Reserve](sights/yarmouk-forest-biosphere-reserve.yaml) | Forest | **79.50** | **Nature 8.5**, **Photography 8.3**, **Wildlife 8.1** | 7.8 / 8.0 / 8.2 / 8.0 / 7.7 | [32.714, 35.674](https://www.google.com/maps/search/?api=1&query=32.714,35.674) |
+| 49 | [Jordan Archaeological Museum](sights/jordan-archaeological-museum.yaml) | Museum / heritage | **77.95** | **History 8.8**, **Culture 8.1** | 7.5 / 7.7 / 8.5 / 7.8 / 7.5 | [31.9545, 35.934](https://www.google.com/maps/search/?api=1&query=31.9545,35.934) |
+| 50 | [Dead Sea Panorama Complex](sights/dead-sea-panorama-complex.yaml) | Attraction | **77.55** | **Photography 8.7**, **Nature 8.1** | 8.0 / 7.9 / 7.4 / 8.0 / 7.0 | [31.627, 35.597](https://www.google.com/maps/search/?api=1&query=31.627,35.597) |
+| 51 | [Dibeen Forest Reserve](sights/dibeen-forest-reserve.yaml) | Forest | **76.90** | **Nature 8.3**, **Wildlife 8.0** | 7.5 / 7.6 / 8.1 / 7.8 / 7.5 | [32.239, 35.826](https://www.google.com/maps/search/?api=1&query=32.239,35.826) |
+| 52 | [Aqaba Bird Observatory](sights/aqaba-bird-observatory.yaml) | Tower / viewpoint | **76.85** | **Wildlife 8.7**, **Nature 8.0** | 7.4 / 7.8 / 8.2 / 7.7 / 7.2 | [29.579, 35.012](https://www.google.com/maps/search/?api=1&query=29.579,35.012) |
+| 52 | [King Abdullah I Mosque](sights/king-abdullah-i-mosque.yaml) | Religious site | **76.85** | **Architecture 8.3**, **Culture 8.2**, **Photography 8.1** | 7.8 / 7.6 / 7.7 / 7.9 / 7.2 | [31.9584, 35.9139](https://www.google.com/maps/search/?api=1&query=31.9584,35.9139) |
+| 54 | [Darat al Funun](sights/darat-al-funun.yaml) | Attraction | **76.80** | **Culture 8.4**, **Architecture 7.8** | 7.6 / 7.8 / 7.5 / 8.0 / 7.5 | [31.9533, 35.9311](https://www.google.com/maps/search/?api=1&query=31.9533,35.9311) |
+| 55 | [Sanctuary of Lot at Deir Ain Abata](sights/sanctuary-of-lot-at-deir-ain-abata.yaml) | Park / reserve | **76.35** | **History 8.7**, **Culture 8.6** | 7.2 / 8.0 / 8.4 / 7.3 / 7.0 | [31.048, 35.506](https://www.google.com/maps/search/?api=1&query=31.048,35.506) |
+| 56 | [Abila Archaeological Site](sights/abila-archaeological-site.yaml) | Museum / heritage | **76.10** | **History 8.6**, **Architecture 8.0** | 7.3 / 7.9 / 8.3 / 7.1 / 7.2 | [32.684, 35.867](https://www.google.com/maps/search/?api=1&query=32.684,35.867) |
+| 57 | [Aqaba South Beach](sights/aqaba-south-beach.yaml) | Beach / bay | **75.55** | **Beaches 8.5**, **Relaxation 8.5**, **Adventure 8.0** | 7.7 / 7.7 / 6.8 / 8.2 / 7.3 | [29.423, 34.9765](https://www.google.com/maps/search/?api=1&query=29.423,34.9765) |
+| 58 | [Aqaba Fort](sights/aqaba-fort.yaml) | Fortification | **74.45** | **History 8.5**, **Architecture 7.8** | 7.2 / 7.4 / 8.1 / 7.5 / 6.9 | [29.522, 35.001](https://www.google.com/maps/search/?api=1&query=29.522,35.001) |
+| 59 | [Qasr Al-Qastal](sights/qasr-al-qastal.yaml) | Attraction | **73.90** | **History 8.5**, **Architecture 8.0** | 6.9 / 7.8 / 8.2 / 7.0 / 6.8 | [31.7416, 35.9494](https://www.google.com/maps/search/?api=1&query=31.7416,35.9494) |
+| 60 | [Children's Museum Jordan](sights/children-s-museum-jordan.yaml) | Museum / heritage | **73.20** | **Family 8.9** | 7.5 / 6.9 / 6.6 / 8.3 / 7.8 | [31.984, 35.8294](https://www.google.com/maps/search/?api=1&query=31.984,35.8294) |
+| 61 | [Rainbow Street](sights/rainbow-street.yaml) | Attraction | **71.45** | **Food 8.2**, **Nightlife 7.9**, **Culture 7.7** | 7.1 / 7.0 / 6.9 / 7.9 / 7.0 | [31.949, 35.927](https://www.google.com/maps/search/?api=1&query=31.949,35.927) |
+| 62 | [Souk Jara](sights/souk-jara.yaml) | Attraction | **68.75** | **Culture 7.7**, **Food 7.5** | 6.9 / 6.9 / 6.3 / 7.8 / 6.5 | [31.9502, 35.9259](https://www.google.com/maps/search/?api=1&query=31.9502,35.9259) |
+| 63 | [Al-Hussein Public Parks](sights/al-hussein-public-parks.yaml) | Park / square | **66.75** | **Family 8.0**, **Relaxation 7.8** | 6.6 / 6.4 / 6.2 / 7.5 / 7.3 | [31.983, 35.832](https://www.google.com/maps/search/?api=1&query=31.983,35.832) |
 
-Add destination YAML files in [sights/](sights/), then regenerate the overview files.
+## Not yet fully assessed (4)
+
+These destinations have no rank until all five core scores are assessed.
+
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps |
+| ---: | --- | --- | ---: | --- | --- | --- |
+| — | [Burqu Nature Reserve](sights/burqu-nature-reserve.yaml) | Park / reserve | **—** | **Nature 8.2**, Wildlife unassessed | — / — / 8.0 / — / — | [32.595, 37.963](https://www.google.com/maps/search/?api=1&query=32.595,37.963) |
+| — | [Dahek Nature Reserve](sights/dahek-nature-reserve.yaml) | Park / reserve | **—** | Nature unassessed | — / — / 7.7 / — / — | [31.474, 37.32](https://www.google.com/maps/search/?api=1&query=31.474,37.32) |
+| — | [Fifa Nature Reserve](sights/fifa-nature-reserve.yaml) | Park / reserve | **—** | **Nature 8.0**, Wildlife unassessed | — / — / 8.0 / — / — | [30.945, 35.455](https://www.google.com/maps/search/?api=1&query=30.945,35.455) |
+| — | [Jordanian Harrah Volcanic Landscape](sights/jordanian-harrah-volcanic-landscape.yaml) | Coast | **—** | **Nature 8.5**, **History 8.0** | — / — / 8.3 / — / — | [32.1, 37.2](https://www.google.com/maps/search/?api=1&query=32.1,37.2) |
 
 ---
 

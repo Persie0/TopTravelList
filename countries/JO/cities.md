@@ -2,7 +2,7 @@
 
 # Jordan (JO) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**21 ranked** · **0 unassessed** · **21 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,31 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, or click its GPS coordinates to open **Google Maps**. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (21)
 
-No cities, towns & villages have been assessed for **Jordan** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps |
+| ---: | --- | --- | ---: | --- | --- | --- |
+| 1 | [As-Salt](cities/as-salt.yaml) | City / town | **88.60** | **Architecture 9.3**, **Culture 9.2**, **History 9.0**, Photography 9.0 | 8.8 / 9.1 / 9.0 / 8.7 / 8.4 | [32.042611, 35.728306](https://www.google.com/maps/search/?api=1&query=32.042611,35.728306) |
+| 2 | [Amman](cities/amman.yaml) | City / town | **86.60** | **Food 9.0**, **History 9.0**, **Culture 8.9**, Architecture 8.6 | 8.5 / 8.5 / 8.9 / 8.7 / 9.0 | [31.9539, 35.9106](https://www.google.com/maps/search/?api=1&query=31.9539,35.9106) |
+| 3 | [Madaba](cities/madaba.yaml) | City / town | **82.25** | **History 8.8**, **Culture 8.7**, **Architecture 8.5** | 8.0 / 8.4 / 8.5 / 8.3 / 7.8 | [31.7167, 35.7939](https://www.google.com/maps/search/?api=1&query=31.7167,35.7939) |
+| 4 | [Aqaba](cities/aqaba.yaml) | City / town | **79.60** | **Relaxation 8.6**, **Beaches 8.5**, **Food 8.3**, Culture 7.8 | 7.9 / 7.8 / 7.9 / 8.4 / 8.0 | [29.5321, 35.0063](https://www.google.com/maps/search/?api=1&query=29.5321,35.0063) |
+| 4 | [Dana Village](cities/dana-village.yaml) | Village | **79.60** | **Photography 8.6**, **Architecture 8.2**, **Culture 8.2** | 8.1 / 8.4 / 7.7 / 8.0 / 6.9 | [30.6745, 35.609](https://www.google.com/maps/search/?api=1&query=30.6745,35.609) |
+| 6 | [Karak](cities/karak.yaml) | City / town | **78.70** | **History 8.5**, **Architecture 8.2**, **Culture 7.8** | 7.8 / 8.0 / 8.2 / 7.8 / 7.2 | [31.1853, 35.7047](https://www.google.com/maps/search/?api=1&query=31.1853,35.7047) |
+| 7 | [Umm Qais](cities/umm-qais.yaml) | City / town | **75.80** | **Photography 8.1**, **Culture 7.8**, **History 7.8** | 7.6 / 7.8 / 7.6 / 7.6 / 6.9 | [32.6524, 35.6846](https://www.google.com/maps/search/?api=1&query=32.6524,35.6846) |
+| 8 | [Jerash](cities/jerash.yaml) | City / town | **74.90** | **History 8.0**, **Culture 7.8**, **Food 7.6** | 7.3 / 7.5 / 7.7 / 7.7 / 7.3 | [32.2811, 35.8993](https://www.google.com/maps/search/?api=1&query=32.2811,35.8993) |
+| 9 | [Rum Village](cities/rum-village.yaml) | Village | **73.95** | **Culture 8.0**, **Photography 8.0** | 7.3 / 7.8 / 7.4 / 7.5 / 6.5 | [29.576, 35.4204](https://www.google.com/maps/search/?api=1&query=29.576,35.4204) |
+| 10 | [Irbid](cities/irbid.yaml) | City / town | **73.45** | **Food 8.0**, **Culture 7.8**, **History 7.5** | 7.2 / 7.0 / 7.5 / 7.7 / 7.8 | [32.5556, 35.85](https://www.google.com/maps/search/?api=1&query=32.5556,35.85) |
+| 11 | [Ajloun](cities/ajloun.yaml) | City / town | **73.05** | **Photography 7.7**, **Culture 7.6**, **Food 7.5** | 7.2 / 7.3 / 7.4 / 7.6 / 7.0 | [32.3333, 35.7528](https://www.google.com/maps/search/?api=1&query=32.3333,35.7528) |
+| 12 | [Wadi Musa](cities/wadi-musa.yaml) | City / town | **72.90** | **Food 7.8**, **Culture 7.7**, **Photography 7.6** | 7.2 / 7.4 / 7.1 / 7.8 / 6.9 | [30.3222, 35.4801](https://www.google.com/maps/search/?api=1&query=30.3222,35.4801) |
+| 13 | [Fuheis](cities/fuheis.yaml) | City / town | **71.25** | **Culture 7.8**, **Food 7.7**, **Architecture 7.4** | 7.0 / 7.3 / 7.1 / 7.4 / 6.7 | [32.0053, 35.7667](https://www.google.com/maps/search/?api=1&query=32.0053,35.7667) |
+| 14 | [Shobak](cities/shobak.yaml) | City / town | **69.00** | **Photography 7.5**, **History 7.4**, **Culture 7.3** | 6.8 / 7.1 / 7.1 / 6.9 / 6.3 | [30.5208, 35.5736](https://www.google.com/maps/search/?api=1&query=30.5208,35.5736) |
+| 15 | [Azraq](cities/azraq.yaml) | City / town | **68.95** | **Culture 7.5**, **History 7.2** | 6.7 / 7.2 / 7.0 / 6.9 / 6.5 | [31.834, 36.827](https://www.google.com/maps/search/?api=1&query=31.834,36.827) |
+| 16 | [Tafilah](cities/tafilah.yaml) | City / town | **67.20** | **Photography 7.2**, **Culture 7.1** | 6.7 / 6.7 / 6.8 / 6.9 / 6.4 | [30.8375, 35.6044](https://www.google.com/maps/search/?api=1&query=30.8375,35.6044) |
+| 17 | [Umm Al-Jimal Village](cities/umm-al-jimal-village.yaml) | Village | **66.75** | **Culture 7.2**, **Photography 7.1** | 6.5 / 7.0 / 6.8 / 6.7 / 6.1 | [32.328, 36.374](https://www.google.com/maps/search/?api=1&query=32.328,36.374) |
+| 18 | [Ma'an](cities/ma-an.yaml) | City / town | **65.60** | **History 7.3**, **Culture 7.0** | 6.3 / 6.5 / 7.0 / 6.7 / 6.4 | [30.192, 35.736](https://www.google.com/maps/search/?api=1&query=30.192,35.736) |
+| 19 | [Pella (Tabaqat Fahl)](cities/pella-tabaqat-fahl.yaml) | City / town | **63.80** | **Photography 7.1**, **Culture 6.8** | 6.2 / 6.5 / 6.6 / 6.5 / 6.0 | [32.4535, 35.619](https://www.google.com/maps/search/?api=1&query=32.4535,35.619) |
+| 20 | [Zarqa](cities/zarqa.yaml) | City / town | **63.10** | **Food 7.0**, **Culture 6.8** | 6.0 / 6.1 / 6.7 / 6.5 / 6.7 | [32.0728, 36.087](https://www.google.com/maps/search/?api=1&query=32.0728,36.087) |
+| 21 | [Mafraq](cities/mafraq.yaml) | City / town | **61.65** | **Culture 6.7**, **Food 6.7** | 5.9 / 6.1 / 6.4 / 6.4 / 6.3 | [32.3429, 36.208](https://www.google.com/maps/search/?api=1&query=32.3429,36.208) |
 
 ---
 
