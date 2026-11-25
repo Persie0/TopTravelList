@@ -1,0 +1,15 @@
+id: sight-us-poplar-forest
+name: "Poplar Forest"
+location:
+  country_code: US
+  latitude: 37.347
+  longitude: -79.265
+scores:
+  impact: 7.9
+  uniqueness: 8.5
+  significance: 8.7
+  experience: 8.1
+  depth: 7.5
+  categories:
+    architecture: 9.0
+    history: 9.0

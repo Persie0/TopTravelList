@@ -1,0 +1,16 @@
+id: sight-us-taos-pueblo
+name: "Taos Pueblo"
+location:
+  country_code: US
+  latitude: 36.439
+  longitude: -105.545
+scores:
+  impact: 8.5
+  uniqueness: 9.2
+  significance: 9.3
+  experience: 8.2
+  depth: 7.8
+  categories:
+    architecture: 9.2
+    culture: 9.3
+    history: 9.3

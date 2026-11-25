@@ -1,0 +1,16 @@
+id: sight-us-taliesin-west
+name: "Taliesin West"
+location:
+  country_code: US
+  latitude: 33.606
+  longitude: -111.845
+scores:
+  impact: 8.6
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.4
+  depth: 8.2
+  categories:
+    architecture: 9.3
+    photography: 9.0
+    history: 8.9

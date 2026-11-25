@@ -1,0 +1,15 @@
+id: sight-us-cahokia-mounds
+name: "Cahokia Mounds State Historic Site"
+location:
+  country_code: US
+  latitude: 38.66
+  longitude: -90.06
+scores:
+  impact: 7.9
+  uniqueness: 8.8
+  significance: 9.3
+  experience: 8.1
+  depth: 8.2
+  categories:
+    history: 9.4
+    culture: 9.0

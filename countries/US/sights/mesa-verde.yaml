@@ -1,0 +1,15 @@
+id: sight-us-mesa-verde
+name: "Mesa Verde National Park"
+location:
+  country_code: US
+  latitude: 37.23
+  longitude: -108.46
+scores:
+  impact: 8.9
+  uniqueness: 9.2
+  significance: 9.3
+  experience: 8.8
+  depth: 8.7
+  categories:
+    history: 9.4
+    architecture: 9.2
