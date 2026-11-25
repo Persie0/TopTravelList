@@ -1,0 +1,16 @@
+id: sight-mq-jardin-de-balata
+name: "Jardin de Balata"
+location:
+  country_code: MQ
+  latitude: 14.681
+  longitude: -61.084
+scores:
+  impact: 8.6
+  uniqueness: 8.2
+  significance: 7.7
+  experience: 8.8
+  depth: 8.3
+  categories:
+    nature: 8.9
+    photography: 8.9
+    relaxation: 8.7

@@ -1,0 +1,16 @@
+id: sight-mq-mount-pelee
+name: "Mount Pelée (permitted summit trails)"
+location:
+  country_code: MQ
+  latitude: 14.809
+  longitude: -61.166
+scores:
+  impact: 9.2
+  uniqueness: 8.9
+  significance: 9.3
+  experience: 8.8
+  depth: 8.5
+  categories:
+    nature: 9.3
+    adventure: 9.2
+    photography: 9.2

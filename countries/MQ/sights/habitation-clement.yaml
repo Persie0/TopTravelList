@@ -1,0 +1,16 @@
+id: sight-mq-habitation-clement
+name: "Habitation Clément"
+location:
+  country_code: MQ
+  latitude: 14.614
+  longitude: -60.904
+scores:
+  impact: 8.2
+  uniqueness: 8.5
+  significance: 8.5
+  experience: 8.7
+  depth: 8.6
+  categories:
+    history: 8.8
+    culture: 8.7
+    architecture: 8.6

@@ -1,7 +1,7 @@
-id: sight-fr-martinique-volcanoes
+id: sight-mq-martinique-volcanoes
 name: "Mount Pelée and Pitons of Northern Martinique"
 location:
-  country_code: FR
+  country_code: MQ
   latitude: 14.81
   longitude: -61.16
 scores:

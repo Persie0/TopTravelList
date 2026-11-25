@@ -128,3 +128,11 @@ Original Finnish reviews archived. Two new villages and eight new sights; Pommer
 | sight-fr-guadeloupe-park | sight-gp-guadeloupe-park |
 
 [Original France review](reviews/FR/migration-history-GP.md). Preserve 91.05 park profile; add five settlements and ten scoped sights. Pigeon Islets and Grand Cul-de-Sac Marin are specific park sectors; no aggregate sum or claim of unrestricted access. Petite-Terre Terre-de-Haut (uninhabited restricted islet) is not the inhabited Terre-de-Haut of Les Saintes. Parent names and approximate geographic points screened; full independent coordinate and reference audit remains outstanding.
+
+### Martinique migration — 2026-11-25
+
+| Former ID | Active ID |
+| --- | --- |
+| sight-fr-martinique-volcanoes | sight-mq-martinique-volcanoes |
+
+[Original France review](reviews/FR/migration-history-MQ.md). Preserve 90.10 UNESCO serial-property profile, add four settlements and ten individually scoped sights. Mount Pelée's trail experience distinct from whole property. Parent names and approximate coordinates screened; full independent geographic and reference audit outstanding.
