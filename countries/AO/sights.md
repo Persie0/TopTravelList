@@ -2,7 +2,7 @@
 
 # Angola (AO) — Sights & attractions ranking
 
-**11 ranked** · **4 unassessed** · **15 total** · Worldwide scoring **v2**
+**13 ranked** · **4 unassessed** · **17 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (11)
+## Complete ranked list (13)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -20,11 +20,13 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 4 | [Tundavala Gap](sights/tundavala-gap.yaml) | Attraction | **87.40** | **Photography 9.4**, **Nature 9.3** | 9.3 / 8.9 / 8.2 / 8.7 / 7.8 | [-14.81709, 13.38196](https://www.google.com/maps/search/?api=1&query=-14.81709,13.38196) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tundavala%20Gap%2C%20Angola) |
 | 5 | [Mbanza Kongo Historic Centre](sights/mbanza-kongo-historic-centre.yaml) | Historic settlement | **86.85** | **History 9.4**, **Culture 9.2**, **Architecture 8.6** | 8.2 / 9.1 / 9.4 / 8.2 / 8.4 | [-6.268889, 14.249722](https://www.google.com/maps/search/?api=1&query=-6.268889,14.249722) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mbanza%20Kongo%20Historic%20Centre%2C%20Angola) |
 | 6 | [Serra da Leba Road and Viewpoint](sights/serra-da-leba.yaml) | Tower / viewpoint | **86.15** | **Photography 9.2**, **Nature 9.1** | 9.0 / 8.8 / 8.1 / 8.7 / 7.9 | [-15.076792, 13.234767](https://www.google.com/maps/search/?api=1&query=-15.076792,13.234767) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Serra%20da%20Leba%20Road%20and%20Viewpoint%2C%20Angola) |
-| 7 | [Mount Moco](sights/mount-moco.yaml) | Mountain / peak | **84.10** | **Nature 9.1**, **Adventure 8.7** | 8.6 / 8.4 / 8.5 / 8.2 / 8.0 | [-12.462025, 15.176721](https://www.google.com/maps/search/?api=1&query=-12.462025,15.176721) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mount%20Moco%2C%20Angola) |
-| 8 | [Fortaleza de São Miguel](sights/sao-miguel-fortress.yaml) | Attraction | **83.65** | **History 8.9**, **Architecture 8.7** | 8.3 / 8.3 / 8.7 / 8.4 / 8.0 | [-8.80776, 13.2232](https://www.google.com/maps/search/?api=1&query=-8.80776,13.2232) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Fortaleza%20de%20S%C3%A3o%20Miguel%2C%20Angola) |
-| 9 | [Miradouro da Lua](sights/miradouro-da-lua.yaml) | Attraction | **83.35** | **Photography 9.1**, **Nature 8.9** | 8.8 / 8.8 / 7.6 / 8.5 / 7.0 | [-9.2212, 13.0898](https://www.google.com/maps/search/?api=1&query=-9.2212,13.0898) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Miradouro%20da%20Lua%2C%20Angola) |
-| 10 | [Kissama National Park](sights/kissama-national-park.yaml) | Park / reserve | **83.25** | **Nature 8.8**, **Wildlife 8.7** | 8.3 / 8.3 / 8.5 / 8.2 / 8.3 | [-9.93329, 14.03293](https://www.google.com/maps/search/?api=1&query=-9.93329,14.03293) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kissama%20National%20Park%2C%20Angola) |
-| 11 | [Cristo Rei and Viewpoint, Lubango](sights/cristo-rei-lubango.yaml) | Tower / viewpoint | **79.85** | **Photography 8.7**, **Architecture 8.3** | 8.4 / 8.0 / 7.6 / 8.3 / 7.0 | [-14.93925, 13.512061](https://www.google.com/maps/search/?api=1&query=-14.93925,13.512061) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cristo%20Rei%20and%20Viewpoint%2C%20Lubango%2C%20Angola) |
+| 7 | [National Slavery Museum](sights/national-slavery-museum.yaml) | Museum / heritage | **85.05** | **History 9.4**, **Culture 9.1** | 8.0 / 8.8 / 9.3 / 8.5 / 7.7 | [-8.95887, 13.10496](https://www.google.com/maps/search/?api=1&query=-8.95887,13.10496) | [Google Maps](https://www.google.com/maps/search/?api=1&query=National%20Slavery%20Museum%2C%20Angola) |
+| 8 | [Mount Moco](sights/mount-moco.yaml) | Mountain / peak | **84.10** | **Nature 9.1**, **Adventure 8.7** | 8.6 / 8.4 / 8.5 / 8.2 / 8.0 | [-12.462025, 15.176721](https://www.google.com/maps/search/?api=1&query=-12.462025,15.176721) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mount%20Moco%2C%20Angola) |
+| 9 | [Fortaleza de São Miguel](sights/sao-miguel-fortress.yaml) | Attraction | **83.65** | **History 8.9**, **Architecture 8.7** | 8.3 / 8.3 / 8.7 / 8.4 / 8.0 | [-8.80776, 13.2232](https://www.google.com/maps/search/?api=1&query=-8.80776,13.2232) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Fortaleza%20de%20S%C3%A3o%20Miguel%2C%20Angola) |
+| 10 | [Miradouro da Lua](sights/miradouro-da-lua.yaml) | Attraction | **83.35** | **Photography 9.1**, **Nature 8.9** | 8.8 / 8.8 / 7.6 / 8.5 / 7.0 | [-9.2212, 13.0898](https://www.google.com/maps/search/?api=1&query=-9.2212,13.0898) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Miradouro%20da%20Lua%2C%20Angola) |
+| 11 | [Kissama National Park](sights/kissama-national-park.yaml) | Park / reserve | **83.25** | **Nature 8.8**, **Wildlife 8.7** | 8.3 / 8.3 / 8.5 / 8.2 / 8.3 | [-9.93329, 14.03293](https://www.google.com/maps/search/?api=1&query=-9.93329,14.03293) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kissama%20National%20Park%2C%20Angola) |
+| 12 | [Mamã Muxima Shrine](sights/mama-muxima-shrine.yaml) | Religious site | **82.75** | **Culture 9.2**, **History 9.1**, **Architecture 8.0** | 7.9 / 8.5 / 9.0 / 8.4 / 7.2 | [-9.5207, 13.95961](https://www.google.com/maps/search/?api=1&query=-9.5207,13.95961) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mam%C3%A3%20Muxima%20Shrine%2C%20Angola) |
+| 13 | [Cristo Rei and Viewpoint, Lubango](sights/cristo-rei-lubango.yaml) | Tower / viewpoint | **79.85** | **Photography 8.7**, **Architecture 8.3** | 8.4 / 8.0 / 7.6 / 8.3 / 7.0 | [-14.93925, 13.512061](https://www.google.com/maps/search/?api=1&query=-14.93925,13.512061) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cristo%20Rei%20and%20Viewpoint%2C%20Lubango%2C%20Angola) |
 
 ## Not yet fully assessed (4)
 
@@ -32,7 +34,7 @@ These destinations have no rank until all five core scores are assessed.
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
-| — | [Cubango–Okavango–Cuando–Zambezi Catchments (Angola)](sights/okavango-catchments.yaml) | Attraction | **—** | **Nature 9.6**, **Wildlife 9.5** | — / 9.4 / 9.6 / — / — | [-15.5, 19.5](https://www.google.com/maps/search/?api=1&query=-15.5,19.5) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cubango%E2%80%93Okavango%E2%80%93Cuando%E2%80%93Zambezi%20Catchments%20%28Angola%29%2C%20Angola) |
+| — | [Cubango–Okavango–Cuando–Zambezi Catchments (Angola)](sights/okavango-catchments.yaml) | Attraction | **—** | **Nature 9.6**, Wildlife unassessed | — / 9.4 / 9.6 / — / — | [-15.5, 19.5](https://www.google.com/maps/search/?api=1&query=-15.5,19.5) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cubango%E2%80%93Okavango%E2%80%93Cuando%E2%80%93Zambezi%20Catchments%20%28Angola%29%2C%20Angola) |
 | — | [Cuito Cuanavale Memorial Landscape](sights/cuito-cuanavale-memorial.yaml) | Museum / heritage | **—** | **History 9.3** | 8.0 / 8.4 / 9.1 / — / — | [-15.15872, 19.16212](https://www.google.com/maps/search/?api=1&query=-15.15872,19.16212) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cuito%20Cuanavale%20Memorial%20Landscape%2C%20Angola) |
 | — | [Kwanza Corridor Cultural Landscape](sights/kwanza-cultural-corridor.yaml) | Coast | **—** | **History 9.4**, **Culture 9.1** | — / 9.0 / 9.3 / — / — | [-9.67, 15.59](https://www.google.com/maps/search/?api=1&query=-9.67,15.59) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kwanza%20Corridor%20Cultural%20Landscape%2C%20Angola) |
 | — | [Tchitundu-Hulu Rock Art](sights/tchitundu-hulu.yaml) | Attraction | **—** | **History 9.4**, **Culture 9.2** | 8.7 / 9.2 / 9.2 / — / — | [-15.93902, 12.87729](https://www.google.com/maps/search/?api=1&query=-15.93902,12.87729) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tchitundu-Hulu%20Rock%20Art%2C%20Angola) |
