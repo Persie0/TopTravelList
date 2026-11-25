@@ -1,0 +1,16 @@
+id: sight-st-pico-papagaio
+name: "Pico Papagaio"
+location:
+  country_code: ST
+  latitude: 1.611944
+  longitude: 7.391944
+scores:
+  impact: 8.8
+  uniqueness: 8.6
+  significance: 7.4
+  experience: 8.7
+  depth: 7.6
+  categories:
+    adventure: 9.1
+    nature: 8.9
+    photography: 9.1
