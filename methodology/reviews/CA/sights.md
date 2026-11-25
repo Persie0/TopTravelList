@@ -1544,3 +1544,114 @@ Initial inventory only. [UNESCO country list](https://whc.unesco.org/en/statespa
 - Earlier decision: none.
 - Verification still needed: Site-specific access, community permissions and representative geography.
 
+
+## sight-ca-mount-robson-provincial-park — Mount Robson Provincial Park — 2026-11-25
+
+- YAML: [source](../../../countries/CA/sights/mount-robson-provincial-park.yaml)
+- Action: new
+- Precise subject: Provincial park and permitted trails including Berg Lake, not entire Rocky Mountain Parks.
+- Location check: 53.11, -119.16; approximate representative point; not independently verified.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO serial property](https://whc.unesco.org/en/list/304/); [BC Parks](https://bcparks.ca/mount-robson-park/) — consulted 2026-11-25; confirms component identity and provides visitor information; not all claims or coordinates independently verified.
+- Missing or uncertain facts: Exact representative point, independent claims and current conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Torres del Paine](../../../countries/CL/sights/torres-del-paine-national-park.yaml) | less overall range of peaks than Torres del Paine |
+| [Los Glaciares](../../../countries/AR/sights/los-glaciares-national-park.yaml) | less icefield scope than Los Glaciares |
+| [Grossglockner Road](../../../countries/AT/sights/grossglockner-high-alpine-road.yaml) | greater hiking depth than Grossglockner Road |
+| [Pitons](../../../countries/LC/sights/pitons-management-area.yaml) | larger alpine scope than Pitons |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 9.3 | massive mountain peak and glacial lakes |
+| Uniqueness | 9.1 | distinct peak and glacier landscape |
+| Significance | 8.8 | protected alpine ecosystem |
+| Experience | 9.0 | documented multi-day and shorter routes |
+| Depth | 8.9 | multiple wilderness areas |
+
+- Applicable categories: nature:9.4,photography:9.4,adventure:9.2.
+- Overall: 90.65/100.
+- High-score challenge: 90+ justified by massive mountain peak and glacial lakes, with less overall range of peaks than torres del paine and less icefield scope than los glaciares; scoped to this park, not the parent ensemble.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide score of named site.
+- Earlier decision: none.
+- Verification still needed: Claim-level corroboration and GPS.
+
+## sight-ca-mount-assiniboine-provincial-park — Mount Assiniboine Provincial Park — 2026-11-25
+
+- YAML: [source](../../../countries/CA/sights/mount-assiniboine-provincial-park.yaml)
+- Action: new
+- Precise subject: Park's permitted backcountry routes around alpine lakes and peaks.
+- Location check: 50.88, -115.62; approximate representative point; not independently verified.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO serial property](https://whc.unesco.org/en/list/304/); [BC Parks](https://bcparks.ca/mount-assiniboine-park/) — consulted 2026-11-25; confirms component identity and provides visitor information; not all claims or coordinates independently verified.
+- Missing or uncertain facts: Exact representative point, independent claims and current conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Torres del Paine](../../../countries/CL/sights/torres-del-paine-national-park.yaml) | less whole-landscape breadth than Torres del Paine |
+| [Los Glaciares](../../../countries/AR/sights/los-glaciares-national-park.yaml) | less glacial mass than Los Glaciares |
+| [Grossglockner Road](../../../countries/AT/sights/grossglockner-high-alpine-road.yaml) | more wilderness hiking than Grossglockner Road |
+| [Pitons](../../../countries/LC/sights/pitons-management-area.yaml) | broader mountain trails than Pitons |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 9.3 | pyramidal peak and alpine lake vistas |
+| Uniqueness | 9.1 | distinct remote alpine landscape |
+| Significance | 8.6 | regional alpine ecology |
+| Experience | 8.8 | multi-day hiking and camping |
+| Depth | 8.7 | multiple lake and trail areas |
+
+- Applicable categories: nature:9.4,photography:9.4,adventure:9.2.
+- Overall: 89.75/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide score of named site.
+- Earlier decision: none.
+- Verification still needed: Claim-level corroboration and GPS.
+
+## sight-ca-hamber-provincial-park — Hamber Provincial Park — 2026-11-25
+
+- YAML: [source](../../../countries/CA/sights/hamber-provincial-park.yaml)
+- Action: new
+- Precise subject: Park's authorized Fortress Lake and documented approach routes, approximate park reference.
+- Location check: 52.4, -118.0; approximate representative point; not independently verified.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO serial property](https://whc.unesco.org/en/list/304/); [BC Parks](https://bcparks.ca/hamber-park/) — consulted 2026-11-25; confirms component identity and provides visitor information; not all claims or coordinates independently verified.
+- Missing or uncertain facts: Exact representative point, independent claims and current conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Torres del Paine](../../../countries/CL/sights/torres-del-paine-national-park.yaml) | less dramatic peak breadth than Torres del Paine |
+| [Los Glaciares](../../../countries/AR/sights/los-glaciares-national-park.yaml) | less glacier spectacle than Los Glaciares |
+| [Grossglockner Road](../../../countries/AT/sights/grossglockner-high-alpine-road.yaml) | less road accessibility than Grossglockner Road |
+| [Pitons](../../../countries/LC/sights/pitons-management-area.yaml) | larger wilderness scope than Pitons |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.7 | remote lake and forest mountains |
+| Uniqueness | 8.5 | quiet northern Rockies wilderness character |
+| Significance | 8.4 | protected mountain ecosystem |
+| Experience | 8.0 | specialized backcountry lake visits |
+| Depth | 8.2 | several limited wilderness routes |
+
+- Applicable categories: nature:9.0,photography:8.9,adventure:8.8.
+- Overall: 84.35/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide score of named site.
+- Earlier decision: none.
+- Verification still needed: Claim-level corroboration and GPS.
+
+### Rocky Mountain Parks component coverage
+All seven parks now have individual YAML assessments: Banff, Jasper, Yoho, Kootenay, Mount Robson, Mount Assiniboine and Hamber, in addition to the parent property. [Parks Canada confirms the component list](https://parks.canada.ca/culture/spm-whs/sites-canada/sec02h). 
+
+### Tr’ondëk-Klondike component register
+[UNESCO](https://whc.unesco.org/en/list/1564/) names eight: Fort Reliance; Ch’ëdähdëk (Forty Mile); Ch’ëdähdëk Tth’än K’et (Dënezhu Graveyard); Fort Cudahy and Fort Constantine; Tr’ochëk; Dawson City; Jëjik Dhä Dënezhu Kek’it (Moosehide Village); Tthe Zrąy Kek’it (Black City). Dawson City and the parent serial property have records. For the other components, community permissions, ordinary interpreted visitor access and safe representative points are not established; no sensitive coordinates or individual ratings are inferred.

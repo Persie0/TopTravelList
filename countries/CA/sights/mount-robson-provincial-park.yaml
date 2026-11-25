@@ -1,0 +1,16 @@
+id: sight-ca-mount-robson-provincial-park
+name: "Mount Robson Provincial Park"
+location:
+  country_code: CA
+  latitude: 53.11
+  longitude: -119.16
+scores:
+  impact: 9.3
+  uniqueness: 9.1
+  significance: 8.8
+  experience: 9.0
+  depth: 8.9
+  categories:
+    nature: 9.4
+    photography: 9.4
+    adventure: 9.2
