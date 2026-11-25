@@ -5,7 +5,7 @@
 ## sight-ci-tai-national-park — Taï National Park — 2026-11-25
 
 - YAML: [source](../../../countries/CI/sights/tai-national-park.yaml)
-- Action: new
+- Action: rescore (category only); original decision retained in [verification history](verification-2026-11-25.md)
 - Precise subject: Inscribed rainforest and guided trails; tourism site point, not entire forest access.
 - Location check: 5.873, -7.453; representative point, exact entrance not verified.
 - Evidence status: **source-linked-unverified**
@@ -14,13 +14,14 @@
   - https://oipr-ci.org/parc-national-de-tai/
   - https://oipr-ci.org/ecotourisme-tai-forest-lodges/
   - https://guidecotedivoire.com/destinations/tai/
+  - https://www.wildchimps.org/projects-ivorycoast/ecotourism-ta%C3%AF — Wild Chimpanzee Foundation, accessed 2026-11-25: guides and forest camps, habituated sooty mangabeys and red colobus, not assured sightings of elusive forest mammals.
 - Missing facts: Current access and independent claim-level verification.
 
 ### Worldwide peer comparisons
 - [Okavango Delta (BW)](../../../countries/BW/sights/okavango-delta.yaml): 9.8/9.9/9.8/9.5/9.8; greater wildlife diversity and open viewing.
 - [Khao Yai (TH)](../../../countries/TH/sights/khao-yai-national-park.yaml): 9.0/9.1/9.0/9.0/9.2; tropical protected forest with established routes.
 - [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml): 8.9/9.0/9.0/9.1/8.6; managed wetland visitor experience.
-- [Sehlabathebe (LS)](../../../countries/LS/sights/sehlabathebe-national-park.yaml): Regional protected landscape benchmark, score not checked.
+- [Sehlabathebe (LS)](../../../countries/LS/sights/sehlabathebe-national-park.yaml): 9.1/9.0/9.3/8.6/8.8; different mountain conservation landscape, useful lower experience comparator.
 
 ### Scoring decisions
 - Impact: 9.3 — Exceptional mature tropical forest.
@@ -28,9 +29,9 @@
 - Significance: 9.6 — Globally important threatened fauna and ecology.
 - Experience: 9.0 — Approved guides and documented ecotourism stays.
 - Depth: 9.1 — Multiple forest habitats and trails, encounters variable.
-- Applicable categories: nature 9.7, wildlife 9.7, adventure 9.0.
+- Applicable categories: nature 9.7, wildlife 9.4, adventure 9.0.
 - Overall: 93.45/100.
-- High-score challenge: Uniqueness 9.5, significance 9.6, nature and wildlife 9.7 reflect globally important remnant forest and threatened fauna, not a guarantee of chimpanzee or other encounters. Okavango has wider open wildlife viewing.
+- High-score challenge: Uniqueness 9.5, significance 9.6 and nature 9.7 reflect exceptional primary forest and threatened fauna. Wildlife 9.4 acknowledges genuinely documented primate observation but limited visibility and uncertain encounters with forest elephants, pygmy hippos and other mammals. Compared with Khao Yai wildlife 9.5 and Okavango 9.9, the evidence does not justify near-global-maximum wildlife viewing.
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide editorial rating, not full independent verification.
 - Verification still needed: exact site location where provisional, permitted access, remaining peer scores and claim-level evidence.
@@ -38,20 +39,21 @@
 ## sight-ci-comoe-national-park — Comoé National Park — 2026-11-25
 
 - YAML: [source](../../../countries/CI/sights/comoe-national-park.yaml)
-- Action: new
+- Action: rescore (category only); original decision retained in [verification history](verification-2026-11-25.md)
 - Precise subject: Inscribed park and documented visitor scope; broad park point provisional.
 - Location check: 9.077, -3.77; representative point, exact entrance not verified.
 - Evidence status: **source-linked-unverified**
 - Sources (2026-11-25; support identity, heritage, geography or visitor scope; full triangulation incomplete):
   - https://whc.unesco.org/en/list/227/
   - https://guidecotedivoire.com/destinations/comoe/
+  - https://oipr-ci.org/ecotourisme-parc-national-de-la-comoe/ and https://oipr-ci.org/parc-national-de-la-comoe/ — OIPR, accessed 2026-11-25: birdwatching, savanna/river/forest scenery and potential safari routes; no documented encounter rates.
 - Missing facts: Current access and independent claim-level verification.
 
 ### Worldwide peer comparisons
 - [Okavango Delta (BW)](../../../countries/BW/sights/okavango-delta.yaml): 9.8/9.9/9.8/9.5/9.8; greater wildlife diversity and open viewing.
 - [Khao Yai (TH)](../../../countries/TH/sights/khao-yai-national-park.yaml): 9.0/9.1/9.0/9.0/9.2; tropical protected forest with established routes.
 - [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml): 8.9/9.0/9.0/9.1/8.6; managed wetland visitor experience.
-- [Sehlabathebe (LS)](../../../countries/LS/sights/sehlabathebe-national-park.yaml): Regional protected landscape benchmark, score not checked.
+- [Sehlabathebe (LS)](../../../countries/LS/sights/sehlabathebe-national-park.yaml): 9.1/9.0/9.3/8.6/8.8; different mountain conservation landscape, useful lower experience comparator.
 
 ### Scoring decisions
 - Impact: 8.9 — Expansive river and savanna mosaic.
@@ -59,9 +61,9 @@
 - Significance: 9.3 — Globally important habitat conservation.
 - Experience: 8.3 — Historical and advertised wildlife routes, access conditional.
 - Depth: 8.7 — Large habitat diversity, not all accessible.
-- Applicable categories: nature 9.3, wildlife 9.3.
+- Applicable categories: nature 9.3, wildlife 8.9.
 - Overall: 88.95/100.
-- High-score challenge: Not applicable.
+- High-score challenge: No 9.5+ field. Wildlife 8.9 credits the documented safari and birdwatching offer, below Khao Yai 9.5 and Okavango 9.9 because reliable animal encounter breadth is not established.
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide editorial rating, not full independent verification.
 - Verification still needed: exact site location where provisional, permitted access, remaining peer scores and claim-level evidence.
@@ -69,7 +71,7 @@
 ## sight-ci-mount-nimba-reserve — Mount Nimba Strict Nature Reserve (Côte d’Ivoire sector) — 2026-11-25
 
 - YAML: [source](../../../countries/CI/sights/mount-nimba-reserve.yaml)
-- Action: new
+- Action: rescore (category only); original decision retained in [verification history](verification-2026-11-25.md)
 - Precise subject: Côte d’Ivoire sector only; UNESCO representative coordinate for transboundary property, not validated entrance; strict reserve rules respected.
 - Location check: 7.60318, -8.39097; representative point, exact entrance not verified.
 - Evidence status: **unassessed**
@@ -78,13 +80,14 @@
   - https://whc.unesco.org/en/list/155/maps/
   - https://whc.unesco.org/en/decisions/?id_decision=9042
   - https://guidecotedivoire.com/destinations/nimba/
+  - https://www.keybiodiversityareas.org/en/site/factsheet/6092 — KBA, accessed 2026-11-25: Ivorian sector covers part of steep eastern slope; transboundary species accounts do not prove Ivorian visitor encounters. https://whc.unesco.org/en/list/155/maps/ confirms published representative coordinate, not precise sector boundary.
 - Missing facts: Normal permitted visitor experience or accessible scope insufficiently documented.
 
 ### Worldwide peer comparisons
 - [Okavango Delta (BW)](../../../countries/BW/sights/okavango-delta.yaml): 9.8/9.9/9.8/9.5/9.8; greater wildlife diversity and open viewing.
 - [Khao Yai (TH)](../../../countries/TH/sights/khao-yai-national-park.yaml): 9.0/9.1/9.0/9.0/9.2; tropical protected forest with established routes.
 - [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml): 8.9/9.0/9.0/9.1/8.6; managed wetland visitor experience.
-- [Sehlabathebe (LS)](../../../countries/LS/sights/sehlabathebe-national-park.yaml): Regional protected landscape benchmark, score not checked.
+- [Sehlabathebe (LS)](../../../countries/LS/sights/sehlabathebe-national-park.yaml): 9.1/9.0/9.3/8.6/8.8; different mountain conservation landscape, useful lower experience comparator.
 
 ### Scoring decisions
 - Impact: 9.0 — Dramatic mountain and forest contrast.
@@ -92,9 +95,9 @@
 - Significance: 9.6 — Globally important endemic species.
 - Experience: null — Permitted reserve-specific visitor route not established.
 - Depth: null — Accessible habitat extent unknown.
-- Applicable categories: nature 9.6, wildlife 9.5.
+- Applicable categories: nature 9.6, wildlife null.
 - Overall: unranked.
-- High-score challenge: Significance and nature 9.6, wildlife 9.5 reflect endemic montane biodiversity, not observable wildlife reliability; no overall score.
+- High-score challenge: Significance and nature 9.6 reflect internationally important montane habitat. Wildlife remains unassessed because responsible observation opportunities in the Ivorian strict reserve are not established; no overall score.
 - Approved 10 registry: none.
 - Final decision: Partial assessment only, no overall score.
 - Verification still needed: exact site location where provisional, permitted access, remaining peer scores and claim-level evidence.
@@ -599,7 +602,39 @@
 - Final decision: Partial assessment only, no overall score.
 - Verification still needed: exact site location where provisional, permitted access, remaining peer scores and claim-level evidence.
 
+## sight-ci-man-waterfall — Man Waterfall (Zadépleu) — 2026-11-25
+
+- YAML: [source](../../../countries/CI/sights/man-waterfall.yaml)
+- Action: new
+- Precise subject: Named waterfall near Zadépleu, west of Man; excludes separate Dent de Man and Goba waterfalls and the surrounding mountain region.
+- Location check: 7.41205, -7.58638; [Mapcarta](https://mapcarta.com/fr/N2747251631), OSM node 2747251631, named waterfall close to Zadépleu; representative attraction point, not entrance.
+- Evidence status: **source-linked-unverified**
+- Sources (accessed 2026-11-25):
+  - https://app.visitsublimeci.com/tour/man-ville-touristique — tourism itinerary distinguishes the three waterfalls and describes the Zadépleu cascade and guided visits; promotional source.
+  - https://tresorsivoire.com/sites-touristiques/cascades-man — describes forest setting, cascades and walking; some description refers to regional waterfalls collectively, so do not assume all activities occur at this exact site.
+  - https://mapcarta.com/fr/N2747251631 — mapped named waterfall point.
+- Missing facts: seasonal flow, trail condition and current permitted swimming; no access or safety guarantee.
+
+### Worldwide peer comparisons
+- [Krimml Waterfalls (AT)](../../../countries/AT/sights/krimml-waterfalls.yaml): 9.0/9.0/8.5/9.1/8.3; much greater cascade scale, geological prominence and sustained trail circuit.
+- [Kuang Si Waterfalls (LA)](../../../countries/LA/sights/kuang-si-waterfalls.yaml): 9.4/9.2/8.0/9.3/8.6; more distinctive tiered pools and documented breadth.
+- [Erawan Waterfalls (TH)](../../../countries/TH/sights/erawan-waterfalls.yaml): 8.7/8.7/7.1/9.0/8.0; more extensive tiered trail experience.
+- [Gurara Falls (NG)](../../../countries/NG/sights/gurara-falls.yaml): 8.3/7.9/7.1/8.3/7.4; broader seasonal cascade, comparable compact regional visit.
+
+### Scoring decisions
+- Impact: 8.0 — rewarding forest waterfall scenery, less monumental than Krimml or Kuang Si.
+- Uniqueness: 7.4 — attractive forest cascade, internationally substitutable.
+- Significance: 6.7 — regional natural and cultural interest; site-specific sacred significance not established.
+- Experience: 8.1 — documented guided waterfall visit, without assuming swimming or current admission.
+- Depth: 7.3 — compact waterfall and approach, excluding unrelated regional attractions.
+- Applicable categories: nature 8.4, photography 8.4.
+- Overall: 75.35/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional individual waterfall assessment; below larger and more distinctive international cascades.
+- Verification still needed: independently verify site condition, seasonal character and visitor route.
+
 ## Inventory coverage
 
-[UNESCO country inventory](https://whc.unesco.org/en/statesparties/ci/) lists five inscribed and two tentative properties, all represented. All eight serial mosque components are separate records; Mount Nimba limited to Ivorian sector. No duplicate mosque umbrella score. Additional sites including Man waterfall, Dent de Man, Sassandra heritage, Grand-Béréby, Monogaga, museums and regional settlements remain backlog.
+[UNESCO country inventory](https://whc.unesco.org/en/statesparties/ci/) lists five inscribed and two tentative properties, all represented. All eight serial mosque components are separate records; Mount Nimba limited to Ivorian sector. No duplicate mosque umbrella score. Additional sites including Dent de Man, Sassandra heritage, Grand-Béréby, Monogaga, museums and regional settlements remain backlog.
 
