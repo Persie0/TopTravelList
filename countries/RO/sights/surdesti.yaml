@@ -1,0 +1,15 @@
+id: sight-ro-surdesti
+name: "Șurdești Wooden Church"
+location:
+  country_code: RO
+  latitude: 47.601
+  longitude: 23.768
+scores:
+  impact: 8.6
+  uniqueness: 9.0
+  significance: 9.0
+  experience: 8.3
+  depth: 7.5
+  categories:
+    architecture: 9.3
+    history: 9.1

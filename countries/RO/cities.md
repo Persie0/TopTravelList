@@ -2,7 +2,7 @@
 
 # Romania (RO) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**20 ranked** · **0 unassessed** · **20 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,30 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (20)
 
-No cities, towns & villages have been assessed for **Romania** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Sighișoara](cities/sighisoara.yaml) | City / town | **89.65** | **Architecture 9.3**, **History 9.3**, **Photography 9.3** | 9.0 / 9.1 / 9.0 / 9.0 / 8.4 | [46.2197, 24.7964](https://www.google.com/maps/search/?api=1&query=46.2197,24.7964) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sighi%C8%99oara%2C%20Romania) |
+| 2 | [Sibiu](cities/sibiu.yaml) | City / town | **88.80** | **Architecture 9.2**, **Culture 9.1**, **History 9.1** | 8.9 / 8.8 / 8.9 / 9.0 / 8.8 | [45.7936, 24.1213](https://www.google.com/maps/search/?api=1&query=45.7936,24.1213) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sibiu%2C%20Romania) |
+| 3 | [Brașov](cities/brasov.yaml) | City / town | **88.30** | **Photography 9.2**, **Architecture 9.1**, **Culture 9.0**, History 9.0 | 8.9 / 8.8 / 8.7 / 9.0 / 8.7 | [45.6579, 25.6012](https://www.google.com/maps/search/?api=1&query=45.6579,25.6012) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bra%C8%99ov%2C%20Romania) |
+| 4 | [Bucharest](cities/bucharest.yaml) | City / town | **88.10** | **Architecture 9.1**, **Culture 9.1**, **History 9.1**, Nightlife 8.9 | 8.7 / 8.7 / 8.9 / 8.9 / 9.1 | [44.4268, 26.1025](https://www.google.com/maps/search/?api=1&query=44.4268,26.1025) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bucharest%2C%20Romania) |
+| 5 | [Timișoara](cities/timisoara.yaml) | City / town | **86.80** | **Architecture 9.0**, **Culture 9.0**, **History 9.0** | 8.6 / 8.6 / 8.8 / 8.8 / 8.7 | [45.7489, 21.2087](https://www.google.com/maps/search/?api=1&query=45.7489,21.2087) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Timi%C8%99oara%2C%20Romania) |
+| 6 | [Oradea](cities/oradea.yaml) | City / town | **86.75** | **Architecture 9.3**, **Photography 9.0**, **Culture 8.8** | 8.8 / 8.7 / 8.5 / 8.8 / 8.4 | [47.0465, 21.9189](https://www.google.com/maps/search/?api=1&query=47.0465,21.9189) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Oradea%2C%20Romania) |
+| 7 | [Alba Iulia](cities/alba-iulia.yaml) | City / town | **85.90** | **History 9.3**, **Architecture 9.0** | 8.5 / 8.6 / 8.9 / 8.6 / 8.2 | [46.067, 23.57](https://www.google.com/maps/search/?api=1&query=46.067,23.57) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Alba%20Iulia%2C%20Romania) |
+| 8 | [Cluj-Napoca](cities/cluj-napoca.yaml) | City / town | **85.85** | **Culture 9.0**, **Architecture 8.9**, **History 8.9** | 8.5 / 8.4 / 8.6 / 8.9 / 8.8 | [46.7712, 23.6236](https://www.google.com/maps/search/?api=1&query=46.7712,23.6236) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cluj-Napoca%2C%20Romania) |
+| 9 | [Iași](cities/iasi.yaml) | City / town | **85.70** | **Culture 9.1**, **History 9.1**, **Architecture 8.9** | 8.4 / 8.5 / 8.8 / 8.7 / 8.6 | [47.1585, 27.6014](https://www.google.com/maps/search/?api=1&query=47.1585,27.6014) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ia%C8%99i%2C%20Romania) |
+| 10 | [Viscri](cities/viscri.yaml) | City / town | **84.30** | **Architecture 9.1**, **Photography 9.0**, **Culture 8.9** | 8.4 / 8.8 / 8.6 / 8.4 / 7.3 | [46.056, 25.091](https://www.google.com/maps/search/?api=1&query=46.056,25.091) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Viscri%2C%20Romania) |
+| 11 | [Rimetea](cities/rimetea.yaml) | City / town | **84.10** | **Photography 9.2**, **Architecture 9.0** | 8.6 / 8.7 / 8.2 / 8.5 / 7.4 | [46.455, 23.567](https://www.google.com/maps/search/?api=1&query=46.455,23.567) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Rimetea%2C%20Romania) |
+| 12 | [Constanța](cities/constanta.yaml) | City / town | **83.60** | **History 9.0**, **Culture 8.8**, **Beaches 8.5** | 8.1 / 8.2 / 8.7 / 8.6 / 8.5 | [44.1598, 28.6348](https://www.google.com/maps/search/?api=1&query=44.1598,28.6348) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Constan%C8%9Ba%2C%20Romania) |
+| 13 | [Sinaia](cities/sinaia.yaml) | City / town | **83.40** | **Architecture 8.8**, **History 8.8**, **Relaxation 8.7** | 8.3 / 8.4 / 8.3 / 8.6 / 8.0 | [45.35, 25.55](https://www.google.com/maps/search/?api=1&query=45.35,25.55) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sinaia%2C%20Romania) |
+| 14 | [Târgu Mureș](cities/targu-mures.yaml) | City / town | **83.35** | **Architecture 8.9**, **Culture 8.8** | 8.3 / 8.4 / 8.3 / 8.5 / 8.1 | [46.543, 24.558](https://www.google.com/maps/search/?api=1&query=46.543,24.558) | [Google Maps](https://www.google.com/maps/search/?api=1&query=T%C3%A2rgu%20Mure%C8%99%2C%20Romania) |
+| 15 | [Sighetu Marmației](cities/sighetu-marmatiei.yaml) | City / town | **81.60** | **History 9.0**, **Culture 8.7** | 7.9 / 8.2 / 8.6 / 8.2 / 7.9 | [47.927, 23.895](https://www.google.com/maps/search/?api=1&query=47.927,23.895) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sighetu%20Marma%C8%9Biei%2C%20Romania) |
+| 16 | [Suceava](cities/suceava.yaml) | City / town | **81.20** | **History 9.0**, **Culture 8.7** | 7.9 / 8.0 / 8.6 / 8.2 / 8.0 | [47.651, 26.255](https://www.google.com/maps/search/?api=1&query=47.651,26.255) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Suceava%2C%20Romania) |
+| 17 | [Arad](cities/arad.yaml) | City / town | **80.95** | **Architecture 8.8**, **Culture 8.5** | 8.0 / 8.0 / 8.2 / 8.3 / 8.1 | [46.186, 21.312](https://www.google.com/maps/search/?api=1&query=46.186,21.312) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Arad%2C%20Romania) |
+| 18 | [Bistrița](cities/bistrita.yaml) | City / town | **80.90** | **Architecture 8.7**, **History 8.7** | 8.0 / 8.1 / 8.2 / 8.3 / 7.8 | [47.133, 24.5](https://www.google.com/maps/search/?api=1&query=47.133,24.5) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bistri%C8%9Ba%2C%20Romania) |
+| 19 | [Hunedoara](cities/hunedoara.yaml) | City / town | **77.50** | **History 8.5**, **Architecture 8.2** | 7.5 / 7.8 / 8.0 / 8.0 / 7.5 | [45.75, 22.9](https://www.google.com/maps/search/?api=1&query=45.75,22.9) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hunedoara%2C%20Romania) |
+| 20 | [Tulcea](cities/tulcea.yaml) | City / town | **77.35** | **Culture 8.3**, **History 8.3** | 7.6 / 7.7 / 7.9 / 8.0 / 7.5 | [45.179, 28.8](https://www.google.com/maps/search/?api=1&query=45.179,28.8) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tulcea%2C%20Romania) |
 
 ---
 

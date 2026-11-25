@@ -1,0 +1,15 @@
+id: sight-us-okefenokee
+name: "Okefenokee National Wildlife Refuge"
+location:
+  country_code: US
+  latitude: 30.83
+  longitude: -82.32
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 9.2
+  experience: 8.5
+  depth: 8.7
+  categories:
+    nature: 9.2
+    wildlife: 9.2

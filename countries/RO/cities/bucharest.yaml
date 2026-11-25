@@ -1,0 +1,17 @@
+id: city-ro-bucharest
+name: "Bucharest"
+location:
+  country_code: RO
+  latitude: 44.4268
+  longitude: 26.1025
+scores:
+  impact: 8.7
+  uniqueness: 8.7
+  significance: 8.9
+  experience: 8.9
+  depth: 9.1
+  categories:
+    architecture: 9.1
+    history: 9.1
+    culture: 9.1
+    nightlife: 8.9

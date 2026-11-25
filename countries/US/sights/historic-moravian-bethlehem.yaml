@@ -1,0 +1,16 @@
+id: sight-us-historic-moravian-bethlehem
+name: "Historic Moravian Bethlehem"
+location:
+  country_code: US
+  latitude: 40.618
+  longitude: -75.382
+scores:
+  impact: 7.9
+  uniqueness: 8.4
+  significance: 8.8
+  experience: 8.1
+  depth: 7.9
+  categories:
+    history: 9.0
+    architecture: 8.7
+    culture: 8.8

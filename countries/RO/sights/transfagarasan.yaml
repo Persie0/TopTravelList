@@ -1,0 +1,16 @@
+id: sight-ro-transfagarasan
+name: "Transfăgărășan mountain road"
+location:
+  country_code: RO
+  latitude: 45.6
+  longitude: 24.61
+scores:
+  impact: 9.2
+  uniqueness: 9.0
+  significance: 8.4
+  experience: 9.0
+  depth: 8.8
+  categories:
+    nature: 9.3
+    photography: 9.4
+    adventure: 9.1

@@ -1,0 +1,16 @@
+id: city-ro-cluj-napoca
+name: "Cluj-Napoca"
+location:
+  country_code: RO
+  latitude: 46.7712
+  longitude: 23.6236
+scores:
+  impact: 8.5
+  uniqueness: 8.4
+  significance: 8.6
+  experience: 8.9
+  depth: 8.8
+  categories:
+    culture: 9.0
+    architecture: 8.9
+    history: 8.9

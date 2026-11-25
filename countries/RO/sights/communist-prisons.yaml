@@ -1,0 +1,14 @@
+id: sight-ro-communist-prisons
+name: "Former Communist Prisons in Romania (tentative series)"
+location:
+  country_code: RO
+  latitude: 47.927
+  longitude: 23.895
+scores:
+  impact: 8.0
+  uniqueness: 8.8
+  significance: 9.1
+  experience: null
+  depth: null
+  categories:
+    history: 9.3

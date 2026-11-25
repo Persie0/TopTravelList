@@ -1,0 +1,16 @@
+id: sight-ro-iron-gates
+name: "Iron Gates natural and cultural landscape (Romanian side)"
+location:
+  country_code: RO
+  latitude: 44.63
+  longitude: 22.25
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 8.8
+  experience: 8.9
+  depth: 9.0
+  categories:
+    nature: 9.3
+    photography: 9.3
+    history: 9.0

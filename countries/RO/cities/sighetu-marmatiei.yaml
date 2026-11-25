@@ -1,0 +1,15 @@
+id: city-ro-sighetu-marmatiei
+name: "Sighetu Marmației"
+location:
+  country_code: RO
+  latitude: 47.927
+  longitude: 23.895
+scores:
+  impact: 7.9
+  uniqueness: 8.2
+  significance: 8.6
+  experience: 8.2
+  depth: 7.9
+  categories:
+    history: 9.0
+    culture: 8.7

@@ -1,0 +1,16 @@
+id: city-ro-timisoara
+name: "Timișoara"
+location:
+  country_code: RO
+  latitude: 45.7489
+  longitude: 21.2087
+scores:
+  impact: 8.6
+  uniqueness: 8.6
+  significance: 8.8
+  experience: 8.8
+  depth: 8.7
+  categories:
+    architecture: 9.0
+    culture: 9.0
+    history: 9.0

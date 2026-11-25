@@ -1,0 +1,16 @@
+id: city-ro-sighisoara
+name: "Sighișoara"
+location:
+  country_code: RO
+  latitude: 46.2197
+  longitude: 24.7964
+scores:
+  impact: 9.0
+  uniqueness: 9.1
+  significance: 9.0
+  experience: 9.0
+  depth: 8.4
+  categories:
+    architecture: 9.3
+    history: 9.3
+    photography: 9.3

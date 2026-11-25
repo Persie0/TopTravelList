@@ -1,0 +1,15 @@
+id: sight-ro-densus
+name: "Densuș Church"
+location:
+  country_code: RO
+  latitude: 45.583
+  longitude: 22.804
+scores:
+  impact: 8.4
+  uniqueness: 9.0
+  significance: 9.0
+  experience: 8.3
+  depth: 7.4
+  categories:
+    architecture: 9.2
+    history: 9.2
