@@ -1,0 +1,15 @@
+id: sight-mh-jaluit-atoll-conservation-area
+name: "Jaluit Atoll Conservation Area"
+location:
+  country_code: MH
+  latitude: 6.0
+  longitude: 169.56667
+scores:
+  impact: 8.1
+  uniqueness: 8.3
+  significance: 8.7
+  experience: 8.0
+  depth: 8.0
+  categories:
+    nature: 8.7
+    wildlife: 8.3
