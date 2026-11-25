@@ -1,0 +1,16 @@
+id: sight-ag-luis-beach-low-bay
+name: "Luis Beach (Low Bay)"
+location:
+  country_code: AG
+  latitude: 17.650
+  longitude: -61.869
+scores:
+  impact: 9.1
+  uniqueness: 8.6
+  significance: 6.2
+  experience: 8.2
+  depth: 7.7
+  categories:
+    beaches: 9.4
+    photography: 9.4
+    relaxation: 8.9

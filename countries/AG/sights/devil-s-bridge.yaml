@@ -1,0 +1,15 @@
+id: sight-ag-devil-s-bridge
+name: "Devil's Bridge"
+location:
+  country_code: AG
+  latitude: 17.097
+  longitude: -61.678
+scores:
+  impact: 8.7
+  uniqueness: 8.5
+  significance: 7.1
+  experience: 7.9
+  depth: 6.5
+  categories:
+    nature: 9.0
+    photography: 9.2
