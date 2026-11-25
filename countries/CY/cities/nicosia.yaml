@@ -1,0 +1,17 @@
+id: city-cy-nicosia
+name: "Nicosia"
+location:
+  country_code: CY
+  latitude: 35.1856
+  longitude: 33.3823
+scores:
+  impact: 8.0
+  uniqueness: 8.6
+  significance: 8.7
+  experience: 8.1
+  depth: 8.5
+  categories:
+    history: 8.8
+    culture: 8.7
+    architecture: 8.4
+    food: 8.2

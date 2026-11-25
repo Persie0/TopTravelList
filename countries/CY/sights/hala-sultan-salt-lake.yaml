@@ -1,0 +1,17 @@
+id: sight-cy-hala-sultan-salt-lake
+name: "Hala Sultan Tekke and Larnaca Salt Lake Complex"
+location:
+  country_code: CY
+  latitude: 34.894403
+  longitude: 33.61165
+scores:
+  impact: 8.4
+  uniqueness: 8.6
+  significance: 8.6
+  experience: 8.2
+  depth: 8.0
+  categories:
+    nature: 8.5
+    history: 8.7
+    culture: 8.6
+    wildlife: 8.5
