@@ -91,12 +91,13 @@ Initial worldwide V2 inventory. Sources consulted or linked 2026-11-25; not full
 - Significance: 9.6 — Global conservation importance.
 - Experience: null — Permitted reserve-specific visit not established.
 - Depth: null — Accessible habitat range unknown.
-- Applicable categories: nature 9.7, wildlife 9.2, photography 9.5.
+- Applicable categories: nature 9.7, wildlife null, photography 9.5.
 - Overall: unranked.
-- High-score challenge: Uniqueness and significance 9.6 and nature 9.7: immense desert and mountain ecological refuge, rare threatened desert fauna; not assigned Okavango-level wildlife encounter or visitor scores. Photography 9.5 refers to extraordinary landforms, not guaranteed viewpoints.
+- High-score challenge: Uniqueness/significance 9.6, nature 9.7 and photography 9.5 reflect the exceptional mountain-desert landscape; ordinary wildlife observation remains unassessed. Compare Wadi Rum, Ennedi, Namib Sand Sea and Khao Sok for landscape scale, ecological merit and actual visitor scope. No approved 10.
 - Approved 10 registry: none.
 - Final decision: Partial assessment retained; no total invented.
 - Verification still needed: exact site scope, coordinates, access and independent per-claim evidence.
+- Follow-up 2026-11-25: [UNESCO 2026 decision](https://whc.unesco.org/en/decisions/9039/) documents continued management and conservation concerns. Wildlife 9.2 → null; no ordinary permitted wildlife experience established. Danger listing does not itself reduce long-term ecological significance.
 
 ## sight-ne-w-national-park-niger — W National Park (Niger sector) — 2026-11-25
 
@@ -505,7 +506,319 @@ Initial worldwide V2 inventory. Sources consulted or linked 2026-11-25; not full
 - Final decision: Partial assessment retained; no total invented.
 - Verification still needed: exact site scope, coordinates, access and independent per-claim evidence.
 
+## sight-ne-sahara-salt-route — Saharan Salt Route — 2026-11-25
+
+- YAML: [source](../../../countries/NE/sights/sahara-salt-route.yaml)
+- Action: new
+- Precise subject: Historic trans-Saharan caravan trade linking Aïr and Bilma, distinct from the salt pans.
+- Location check: 19, 13.166667; Published coordinate-range midpoint, not a caravan stop or route instruction.
+- Evidence status: **unassessed**
+- Sources (identity and heritage; not full independent verification):
+  - https://whc.unesco.org/en/tentativelists/5043/
+- Missing facts: Actual permitted visitor experience, component inventory and independent triangulation.
+
+### Worldwide peer comparisons
+- Mogao Caves (China): International heritage anchor with established interpretation.
+- Hahoe Folk Village (South Korea): Bounded heritage settlement visitor comparison.
+- Carnuntum (Austria): Archaeological interpretation benchmark.
+- Wat Arun (Thailand): Bounded cultural site, different visitor scope.
+
+### Scoring decisions
+- Impact: null — Ordinary visitor impact unresolved.
+- Uniqueness: 9.1 — Distinctive regional heritage or ecological landscape, provisional.
+- Significance: 9.3 — Documented conservation or historical importance, tentative property not inscribed.
+- Experience: null — Permitted ordinary visit not established.
+- Depth: null — Accessible scope unverified.
+- Applicable categories: history 9.3.
+- Overall: unranked.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Partial inventory assessment only.
+- Verification still needed: Exact scope, coordinates, permitted visitor experience and type-specific peer calibration.
+
+
+## sight-ne-bura-archaeological-site — Bura Archaeological Site — 2026-11-25
+
+- YAML: [source](../../../countries/NE/sights/bura-archaeological-site.yaml)
+- Action: new
+- Precise subject: Archaeological burial and material-culture landscape; conservation and permitted access unverified.
+- Location check: 13.833333, 0.5; Published N13°50′ E0°30′; archaeological property reference, not entrance.
+- Evidence status: **unassessed**
+- Sources (identity and heritage; not full independent verification):
+  - https://whc.unesco.org/en/tentativelists/5045/
+- Missing facts: Actual permitted visitor experience, component inventory and independent triangulation.
+
+### Worldwide peer comparisons
+- Mogao Caves (China): International heritage anchor with established interpretation.
+- Hahoe Folk Village (South Korea): Bounded heritage settlement visitor comparison.
+- Carnuntum (Austria): Archaeological interpretation benchmark.
+- Wat Arun (Thailand): Bounded cultural site, different visitor scope.
+
+### Scoring decisions
+- Impact: null — Ordinary visitor impact unresolved.
+- Uniqueness: 8.8 — Distinctive regional heritage or ecological landscape, provisional.
+- Significance: 9.2 — Documented conservation or historical importance, tentative property not inscribed.
+- Experience: null — Permitted ordinary visit not established.
+- Depth: null — Accessible scope unverified.
+- Applicable categories: history 9.2.
+- Overall: unranked.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Partial inventory assessment only.
+- Verification still needed: Exact scope, coordinates, permitted visitor experience and type-specific peer calibration.
+
+
+## sight-ne-lougou-cultural-site — Lougou Cultural Site — 2026-11-25
+
+- YAML: [source](../../../countries/NE/sights/lougou-cultural-site.yaml)
+- Action: new
+- Precise subject: Sacred and historical landscape associated with Saraounia traditions; no presumption of access to sacred places.
+- Location check: 13.866667, 4.233333; Published N13°52′ E4°14′; regional property reference.
+- Evidence status: **unassessed**
+- Sources (identity and heritage; not full independent verification):
+  - https://whc.unesco.org/en/tentativelists/5046/
+- Missing facts: Actual permitted visitor experience, component inventory and independent triangulation.
+
+### Worldwide peer comparisons
+- Mogao Caves (China): International heritage anchor with established interpretation.
+- Hahoe Folk Village (South Korea): Bounded heritage settlement visitor comparison.
+- Carnuntum (Austria): Archaeological interpretation benchmark.
+- Wat Arun (Thailand): Bounded cultural site, different visitor scope.
+
+### Scoring decisions
+- Impact: null — Ordinary visitor impact unresolved.
+- Uniqueness: 8.8 — Distinctive regional heritage or ecological landscape, provisional.
+- Significance: 9.1 — Documented conservation or historical importance, tentative property not inscribed.
+- Experience: null — Permitted ordinary visit not established.
+- Depth: null — Accessible scope unverified.
+- Applicable categories: culture 9.1.
+- Overall: unranked.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Partial inventory assessment only.
+- Verification still needed: Exact scope, coordinates, permitted visitor experience and type-specific peer calibration.
+
+
+## sight-ne-gadabedji-wildlife-reserve — Gadabédji Wildlife Reserve — 2026-11-25
+
+- YAML: [source](../../../countries/NE/sights/gadabedji-wildlife-reserve.yaml)
+- Action: new
+- Precise subject: Sahelian protected reserve, distinct from larger biosphere reserve designation.
+- Location check: 15.133333, 7.183333; National biodiversity clearing-house central coordinate N15°08′ E7°11′; not entrance.
+- Evidence status: **unassessed**
+- Sources (identity and heritage; not full independent verification):
+  - https://whc.unesco.org/en/tentativelists/5049/
+  - https://ne.chm-cbd.net/en/node/10335
+  - https://saharaconservation.org/critical-conservation-landscapes/gadabedji-biosphere-reserve/
+- Missing facts: Actual permitted visitor experience, component inventory and independent triangulation.
+
+### Worldwide peer comparisons
+- Okavango Delta (Botswana): Larger established wetland visitor landscape.
+- Khao Yai National Park (Thailand): Established protected area visitor experience.
+- Suncheon Bay (South Korea): Managed observation comparator.
+- Sehlabathebe National Park (Lesotho): Regional conservation comparison.
+
+### Scoring decisions
+- Impact: null — Ordinary visitor impact unresolved.
+- Uniqueness: 8.5 — Distinctive regional heritage or ecological landscape, provisional.
+- Significance: 8.9 — Documented conservation or historical importance, tentative property not inscribed.
+- Experience: null — Permitted ordinary visit not established.
+- Depth: null — Accessible scope unverified.
+- Applicable categories: nature 9, wildlife null.
+- Overall: unranked.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Partial inventory assessment only.
+- Verification still needed: Exact scope, coordinates, permitted visitor experience and type-specific peer calibration.
+
+
+## sight-ne-agadez-protected-forests — Protected Forests of Agadez Region — 2026-11-25
+
+- YAML: [source](../../../countries/NE/sights/agadez-protected-forests.yaml)
+- Action: new
+- Precise subject: Dryland woodland and flood-fed valleys with characteristic doum palms.
+- Location check: 17.742778, 8.040833; Published N17°44′34″ E8°02′27″; representative reference for dispersed forest property.
+- Evidence status: **unassessed**
+- Sources (identity and heritage; not full independent verification):
+  - https://whc.unesco.org/en/tentativelists/5050/
+- Missing facts: Actual permitted visitor experience, component inventory and independent triangulation.
+
+### Worldwide peer comparisons
+- Okavango Delta (Botswana): Larger established wetland visitor landscape.
+- Khao Yai National Park (Thailand): Established protected area visitor experience.
+- Suncheon Bay (South Korea): Managed observation comparator.
+- Sehlabathebe National Park (Lesotho): Regional conservation comparison.
+
+### Scoring decisions
+- Impact: null — Ordinary visitor impact unresolved.
+- Uniqueness: 8.4 — Distinctive regional heritage or ecological landscape, provisional.
+- Significance: 8.7 — Documented conservation or historical importance, tentative property not inscribed.
+- Experience: null — Permitted ordinary visit not established.
+- Depth: null — Accessible scope unverified.
+- Applicable categories: nature 8.8, wildlife null.
+- Overall: unranked.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Partial inventory assessment only.
+- Verification still needed: Exact scope, coordinates, permitted visitor experience and type-specific peer calibration.
+
+
+## sight-ne-lake-chad-niger-sector — Lake Chad (Niger natural sector) — 2026-11-25
+
+- YAML: [source](../../../countries/NE/sights/lake-chad-niger-sector.yaml)
+- Action: new
+- Precise subject: Niger's natural wetland sector; hydrology and boundaries fluctuate.
+- Location check: 14.25, 13.333333; Published N14°15′ E13°20′; historic nomination reference, not current shoreline.
+- Evidence status: **unassessed**
+- Sources (identity and heritage; not full independent verification):
+  - https://whc.unesco.org/en/tentativelists/5052/
+- Missing facts: Actual permitted visitor experience, component inventory and independent triangulation.
+
+### Worldwide peer comparisons
+- Okavango Delta (Botswana): Larger established wetland visitor landscape.
+- Khao Yai National Park (Thailand): Established protected area visitor experience.
+- Suncheon Bay (South Korea): Managed observation comparator.
+- Sehlabathebe National Park (Lesotho): Regional conservation comparison.
+
+### Scoring decisions
+- Impact: null — Ordinary visitor impact unresolved.
+- Uniqueness: 8.7 — Distinctive regional heritage or ecological landscape, provisional.
+- Significance: 9.1 — Documented conservation or historical importance, tentative property not inscribed.
+- Experience: null — Permitted ordinary visit not established.
+- Depth: null — Accessible scope unverified.
+- Applicable categories: nature 9.1, wildlife null.
+- Overall: unranked.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Partial inventory assessment only.
+- Verification still needed: Exact scope, coordinates, permitted visitor experience and type-specific peer calibration.
+
+
+## sight-ne-w-national-park-archaeological-sites — W National Park Archaeological Sites — 2026-11-25
+
+- YAML: [source](../../../countries/NE/sights/w-national-park-archaeological-sites.yaml)
+- Action: new
+- Precise subject: Dispersed prehistoric and historical evidence within Niger's W park, not a duplicate natural park rating.
+- Location check: 12.5, 2.5; Published N12.5 E2.5 interpreted as decimal degrees; provisional regional reference, not an archaeological location.
+- Evidence status: **unassessed**
+- Sources (identity and heritage; not full independent verification):
+  - https://whc.unesco.org/en/tentativelists/5054/
+- Missing facts: Actual permitted visitor experience, component inventory and independent triangulation.
+
+### Worldwide peer comparisons
+- Mogao Caves (China): International heritage anchor with established interpretation.
+- Hahoe Folk Village (South Korea): Bounded heritage settlement visitor comparison.
+- Carnuntum (Austria): Archaeological interpretation benchmark.
+- Wat Arun (Thailand): Bounded cultural site, different visitor scope.
+
+### Scoring decisions
+- Impact: null — Ordinary visitor impact unresolved.
+- Uniqueness: 8.7 — Distinctive regional heritage or ecological landscape, provisional.
+- Significance: 9.1 — Documented conservation or historical importance, tentative property not inscribed.
+- Experience: null — Permitted ordinary visit not established.
+- Depth: null — Accessible scope unverified.
+- Applicable categories: history 9.1.
+- Overall: unranked.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Partial inventory assessment only.
+- Verification still needed: Exact scope, coordinates, permitted visitor experience and type-specific peer calibration.
+
+
+## sight-ne-dinosaur-deposits — Dinosaur Deposits of Niger — 2026-11-25
+
+- YAML: [source](../../../countries/NE/sights/dinosaur-deposits.yaml)
+- Action: new
+- Precise subject: Dispersed fossil deposits and scientific heritage, not a coherent visitor circuit.
+- Location check: 16.5, 8; Midpoint of published N16–17 E6–10 range; regional proxy, not individual fossil locality.
+- Evidence status: **unassessed**
+- Sources (identity and heritage; not full independent verification):
+  - https://whc.unesco.org/en/tentativelists/5056/
+- Missing facts: Actual permitted visitor experience, component inventory and independent triangulation.
+
+### Worldwide peer comparisons
+- Mogao Caves (China): International heritage anchor with established interpretation.
+- Hahoe Folk Village (South Korea): Bounded heritage settlement visitor comparison.
+- Carnuntum (Austria): Archaeological interpretation benchmark.
+- Wat Arun (Thailand): Bounded cultural site, different visitor scope.
+
+### Scoring decisions
+- Impact: null — Ordinary visitor impact unresolved.
+- Uniqueness: 9.2 — Distinctive regional heritage or ecological landscape, provisional.
+- Significance: 9.4 — Documented conservation or historical importance, tentative property not inscribed.
+- Experience: null — Permitted ordinary visit not established.
+- Depth: null — Accessible scope unverified.
+- Applicable categories: history 9.2.
+- Overall: unranked.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Partial inventory assessment only.
+- Verification still needed: Exact scope, coordinates, permitted visitor experience and type-specific peer calibration.
+
+
+## sight-ne-madarounfa-lake-forest-and-tombs — Madarounfa Lake, Forest and Tombs — 2026-11-25
+
+- YAML: [source](../../../countries/NE/sights/madarounfa-lake-forest-and-tombs.yaml)
+- Action: new
+- Precise subject: Mixed lake, forest and pilgrimage heritage, with consent required at religious sites.
+- Location check: 13.314722, 7.141111; Ramsar lake reference N13°18′53″ E7°08′28″ replaces malformed tentative-list longitude; not full property centroid.
+- Evidence status: **unassessed**
+- Sources (identity and heritage; not full independent verification):
+  - https://whc.unesco.org/en/tentativelists/5057/
+  - https://rsis.ramsar.org/ris/2451
+- Missing facts: Actual permitted visitor experience, component inventory and independent triangulation.
+
+### Worldwide peer comparisons
+- Mogao Caves (China): International heritage anchor with established interpretation.
+- Hahoe Folk Village (South Korea): Bounded heritage settlement visitor comparison.
+- Carnuntum (Austria): Archaeological interpretation benchmark.
+- Wat Arun (Thailand): Bounded cultural site, different visitor scope.
+
+### Scoring decisions
+- Impact: null — Ordinary visitor impact unresolved.
+- Uniqueness: 8.5 — Distinctive regional heritage or ecological landscape, provisional.
+- Significance: 8.9 — Documented conservation or historical importance, tentative property not inscribed.
+- Experience: null — Permitted ordinary visit not established.
+- Depth: null — Accessible scope unverified.
+- Applicable categories: culture 8.9.
+- Overall: unranked.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Partial inventory assessment only.
+- Verification still needed: Exact scope, coordinates, permitted visitor experience and type-specific peer calibration.
+
+
+## sight-ne-lake-chad-cultural-landscape-niger — Lake Chad Cultural Landscape (Niger sector) — 2026-11-25
+
+- YAML: [source](../../../countries/NE/sights/lake-chad-cultural-landscape-niger.yaml)
+- Action: new
+- Precise subject: Transboundary cultural and ecological landscape, distinct nomination from natural sector; no additive rating.
+- Location check: 13.933333, 13.4; Published N13°56′ E13°24′; Niger nomination reference only.
+- Evidence status: **unassessed**
+- Sources (identity and heritage; not full independent verification):
+  - https://whc.unesco.org/en/tentativelists/6359/
+- Missing facts: Actual permitted visitor experience, component inventory and independent triangulation.
+
+### Worldwide peer comparisons
+- Mogao Caves (China): International heritage anchor with established interpretation.
+- Hahoe Folk Village (South Korea): Bounded heritage settlement visitor comparison.
+- Carnuntum (Austria): Archaeological interpretation benchmark.
+- Wat Arun (Thailand): Bounded cultural site, different visitor scope.
+
+### Scoring decisions
+- Impact: null — Ordinary visitor impact unresolved.
+- Uniqueness: 8.8 — Distinctive regional heritage or ecological landscape, provisional.
+- Significance: 9.2 — Documented conservation or historical importance, tentative property not inscribed.
+- Experience: null — Permitted ordinary visit not established.
+- Depth: null — Accessible scope unverified.
+- Applicable categories: culture 9.
+- Overall: unranked.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Partial inventory assessment only.
+- Verification still needed: Exact scope, coordinates, permitted visitor experience and type-specific peer calibration.
+
+
 ## UNESCO inventory backlog
 
-All three inscribed properties represented; W restricted to Niger sector. Of the 19 tentative entries, Birni, Dosso palace, Tahoua mosques, Djado, giraffe zone and Termit have separate records, and Aïr/Ténéré overlaps the inscribed reserve (additional cultural scope needs review). Outstanding: salt route (distinct from Bilma pans), Bura, Lougou, Galbedji, protected forests of Agadez, Ounsolo pond, Niger sector of Lake Chad, Niger River islands and valley, W archaeological sites, dinosaur deposits, Madarounfa ensemble, Lake Chad cultural landscape. These are not claimed as assessed. See https://whc.unesco.org/en/statesparties/ne/.
-
+3/3 inscribed properties represented; 17/19 tentative properties represented at property level (16 distinct tentative records plus overlapping Aïr/Ténéré). Ounsolo pond and Niger River islands/valley remain outstanding because published coordinates are ambiguous; see https://whc.unesco.org/en/tentativelists/5051/ and https://whc.unesco.org/en/tentativelists/5053/. Additional cultural scope of Aïr/Ténéré and individual components of dispersed nominations require work. The national Termit–Tin Toumma reserve is not assumed equivalent to Termit massif; see https://ne.chm-cbd.net/en/protected-areas/termit-and-tin-toumma-national-nature-reserve-rnntt. No current travel recommendation.
