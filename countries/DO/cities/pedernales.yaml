@@ -1,0 +1,15 @@
+id: city-do-pedernales
+name: "Pedernales"
+location:
+  country_code: DO
+  latitude: 18.039
+  longitude: -71.744
+scores:
+  impact: 6.6
+  uniqueness: 7.1
+  significance: 6.7
+  experience: 7.2
+  depth: 6.1
+  categories:
+    food: 8.1
+    culture: 7.7

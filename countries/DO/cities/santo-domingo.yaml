@@ -1,0 +1,17 @@
+id: city-do-santo-domingo
+name: "Santo Domingo"
+location:
+  country_code: DO
+  latitude: 18.486
+  longitude: -69.931
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 9.2
+  experience: 8.6
+  depth: 9.0
+  categories:
+    history: 9.3
+    architecture: 9.0
+    culture: 9.0
+    food: 8.6
