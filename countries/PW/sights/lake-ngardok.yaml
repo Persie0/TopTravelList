@@ -1,0 +1,15 @@
+id: sight-pw-lake-ngardok
+name: "Lake Ngardok"
+location:
+  country_code: PW
+  latitude: 7.5133
+  longitude: 134.6031
+scores:
+  impact: 7.2
+  uniqueness: 7.6
+  significance: 8.0
+  experience: 7.7
+  depth: 6.9
+  categories:
+    nature: 8.1
+    wildlife: 7.8

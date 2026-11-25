@@ -1,0 +1,17 @@
+id: sight-to-eua-national-park
+name: "'Eua National Park"
+location:
+  country_code: TO
+  latitude: -21.40171
+  longitude: -174.90753
+scores:
+  impact: 8.3
+  uniqueness: 8.2
+  significance: 8.1
+  experience: 8.4
+  depth: 8.1
+  categories:
+    nature: 8.6
+    adventure: 8.5
+    wildlife: 8.2
+    photography: 8.4

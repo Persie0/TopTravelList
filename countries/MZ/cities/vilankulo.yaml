@@ -1,0 +1,16 @@
+id: city-mz-vilankulo
+name: "Vilankulo"
+location:
+  country_code: MZ
+  latitude: -21.9978
+  longitude: 35.3169
+scores:
+  impact: 7.7
+  uniqueness: 7.8
+  significance: 7.3
+  experience: 8.3
+  depth: 7.5
+  categories:
+    beaches: 8.5
+    food: 8.1
+    relaxation: 8.4

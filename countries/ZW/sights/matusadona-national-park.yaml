@@ -1,0 +1,15 @@
+id: sight-zw-matusadona-national-park
+name: "Matusadona National Park"
+location:
+  country_code: ZW
+  latitude: -16.83333
+  longitude: 28.58333
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.8
+  depth: 8.8
+  categories:
+    nature: 9.2
+    wildlife: 9.3

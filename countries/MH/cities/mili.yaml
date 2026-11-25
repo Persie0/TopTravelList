@@ -1,0 +1,13 @@
+id: city-mh-mili
+name: "Mili Village"
+location:
+  country_code: MH
+  latitude: 6.081
+  longitude: 171.735
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}

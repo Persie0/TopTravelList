@@ -1,0 +1,16 @@
+id: sight-pw-kayangel-atoll
+name: "Kayangel Atoll"
+location:
+  country_code: PW
+  latitude: 8.066667
+  longitude: 134.7
+scores:
+  impact: 8.6
+  uniqueness: 8.3
+  significance: 7.9
+  experience: 8.3
+  depth: 8.0
+  categories:
+    nature: 8.8
+    beaches: 8.9
+    photography: 8.7
