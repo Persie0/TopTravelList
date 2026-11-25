@@ -1,0 +1,15 @@
+id: sight-py-museo-de-las-memorias
+name: "Museo de las Memorias"
+location:
+  country_code: PY
+  latitude: -25.2895
+  longitude: -57.6410
+scores:
+  impact: 7.3
+  uniqueness: 8.1
+  significance: 8.3
+  experience: 7.7
+  depth: 6.9
+  categories:
+    history: 8.8
+    culture: 8.4

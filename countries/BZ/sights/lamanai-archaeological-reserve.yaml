@@ -1,0 +1,16 @@
+id: sight-bz-lamanai-archaeological-reserve
+name: "Lamanai Archaeological Reserve"
+location:
+  country_code: BZ
+  latitude: 17.752
+  longitude: -88.654
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 9.1
+  experience: 9.0
+  depth: 8.6
+  categories:
+    history: 9.2
+    architecture: 9.1
+    photography: 9.0

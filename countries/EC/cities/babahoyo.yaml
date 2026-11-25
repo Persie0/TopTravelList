@@ -1,0 +1,15 @@
+id: city-ec-babahoyo
+name: "Babahoyo"
+location:
+  country_code: EC
+  latitude: -1.8010
+  longitude: -79.5340
+scores:
+  impact: 6.1
+  uniqueness: 6.5
+  significance: 6.5
+  experience: 6.8
+  depth: 6.3
+  categories:
+    culture: 7.2
+    food: 7.3

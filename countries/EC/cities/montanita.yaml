@@ -1,0 +1,16 @@
+id: city-ec-montanita
+name: "Montañita"
+location:
+  country_code: EC
+  latitude: -1.8260
+  longitude: -80.7520
+scores:
+  impact: 7.3
+  uniqueness: 7.4
+  significance: 6.1
+  experience: 8.2
+  depth: 6.9
+  categories:
+    nightlife: 8.6
+    beaches: 8.2
+    relaxation: 8.0

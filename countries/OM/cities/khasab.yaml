@@ -1,0 +1,15 @@
+id: city-om-khasab
+name: "Khasab"
+location:
+  country_code: OM
+  latitude: 26.179
+  longitude: 56.247
+scores:
+  impact: 7.5
+  uniqueness: 7.8
+  significance: 7.6
+  experience: 7.9
+  depth: 7.2
+  categories:
+    culture: 8.0
+    photography: 8.2

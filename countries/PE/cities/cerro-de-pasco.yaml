@@ -1,0 +1,15 @@
+id: city-pe-cerro-de-pasco
+name: "Cerro de Pasco"
+location:
+  country_code: PE
+  latitude: -10.6833
+  longitude: -76.2667
+scores:
+  impact: 6.0
+  uniqueness: 7.5
+  significance: 7.4
+  experience: 5.9
+  depth: 6.5
+  categories:
+    history: 8.0
+    culture: 7.3

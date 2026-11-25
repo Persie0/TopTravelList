@@ -1,0 +1,16 @@
+id: sight-py-estacion-biologica-tres-gigantes
+name: "Estación Biológica Tres Gigantes"
+location:
+  country_code: PY
+  latitude: -20.1000
+  longitude: -58.1500
+scores:
+  impact: 8.3
+  uniqueness: 8.7
+  significance: 8.5
+  experience: 8.2
+  depth: 7.8
+  categories:
+    wildlife: 9.2
+    nature: 8.9
+    photography: 8.7

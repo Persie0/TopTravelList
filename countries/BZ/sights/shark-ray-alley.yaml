@@ -1,0 +1,16 @@
+id: sight-bz-shark-ray-alley
+name: "Shark Ray Alley"
+location:
+  country_code: BZ
+  latitude: 17.856
+  longitude: -87.978
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 7.5
+  experience: 8.9
+  depth: 7.2
+  categories:
+    wildlife: 9.1
+    adventure: 8.8
+    photography: 8.5

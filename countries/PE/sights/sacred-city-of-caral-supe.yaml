@@ -1,0 +1,15 @@
+id: sight-pe-sacred-city-of-caral-supe
+name: "Sacred City of Caral-Supe"
+location:
+  country_code: PE
+  latitude: -10.8930
+  longitude: -77.5210
+scores:
+  impact: 8.6
+  uniqueness: 9.4
+  significance: 9.8
+  experience: 8.5
+  depth: 8.6
+  categories:
+    history: 9.8
+    architecture: 9.2

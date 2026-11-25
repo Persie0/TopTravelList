@@ -1,0 +1,15 @@
+id: city-cl-temuco
+name: "Temuco"
+location:
+  country_code: CL
+  latitude: -38.7359
+  longitude: -72.5904
+scores:
+  impact: 6.9
+  uniqueness: 7.4
+  significance: 7.3
+  experience: 7.6
+  depth: 7.3
+  categories:
+    culture: 8.4
+    food: 8.0

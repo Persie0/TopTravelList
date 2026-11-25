@@ -1,0 +1,16 @@
+id: sight-ls-maletsunyane-falls
+name: "Maletsunyane Falls"
+location:
+  country_code: LS
+  latitude: -29.8690
+  longitude: 28.0510
+scores:
+  impact: 9.6
+  uniqueness: 9.2
+  significance: 7.6
+  experience: 9.1
+  depth: 7.7
+  categories:
+    nature: 9.5
+    photography: 9.6
+    adventure: 9.3

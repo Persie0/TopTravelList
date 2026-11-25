@@ -1,0 +1,15 @@
+id: sight-sc-anse-kerlan
+name: "Anse Kerlan"
+location:
+  country_code: SC
+  latitude: -4.3060
+  longitude: 55.6800
+scores:
+  impact: 8.2
+  uniqueness: 7.7
+  significance: 6.1
+  experience: 8.0
+  depth: 7.0
+  categories:
+    beaches: 8.4
+    photography: 8.4

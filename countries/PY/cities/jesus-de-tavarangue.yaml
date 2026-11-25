@@ -1,0 +1,15 @@
+id: city-py-jesus-de-tavarangue
+name: "Jesús de Tavarangue"
+location:
+  country_code: PY
+  latitude: -27.0500
+  longitude: -55.7333
+scores:
+  impact: 6.2
+  uniqueness: 6.9
+  significance: 6.8
+  experience: 6.9
+  depth: 5.8
+  categories:
+    culture: 7.3
+    history: 7.5

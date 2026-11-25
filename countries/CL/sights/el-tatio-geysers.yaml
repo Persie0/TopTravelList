@@ -1,0 +1,15 @@
+id: sight-cl-el-tatio-geysers
+name: "El Tatio Geysers"
+location:
+  country_code: CL
+  latitude: -22.3330
+  longitude: -68.0100
+scores:
+  impact: 9.3
+  uniqueness: 9.4
+  significance: 8.6
+  experience: 8.6
+  depth: 7.7
+  categories:
+    nature: 9.5
+    photography: 9.6

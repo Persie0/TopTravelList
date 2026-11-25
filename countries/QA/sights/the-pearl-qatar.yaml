@@ -1,0 +1,16 @@
+id: sight-qa-the-pearl-qatar
+name: "The Pearl-Qatar"
+location:
+  country_code: QA
+  latitude: 25.3700
+  longitude: 51.5480
+scores:
+  impact: 7.8
+  uniqueness: 7.4
+  significance: 6.5
+  experience: 8.2
+  depth: 7.7
+  categories:
+    architecture: 8.1
+    relaxation: 8.4
+    food: 8.3

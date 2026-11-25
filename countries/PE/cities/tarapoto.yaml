@@ -1,0 +1,15 @@
+id: city-pe-tarapoto
+name: "Tarapoto"
+location:
+  country_code: PE
+  latitude: -6.4825
+  longitude: -76.3733
+scores:
+  impact: 7.0
+  uniqueness: 7.3
+  significance: 6.5
+  experience: 7.9
+  depth: 7.3
+  categories:
+    food: 8.1
+    culture: 7.8

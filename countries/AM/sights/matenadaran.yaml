@@ -1,0 +1,15 @@
+id: sight-am-matenadaran
+name: "Matenadaran"
+location:
+  country_code: AM
+  latitude: 40.191
+  longitude: 44.521
+scores:
+  impact: 8.3
+  uniqueness: 9.0
+  significance: 9.4
+  experience: 8.6
+  depth: 8.6
+  categories:
+    history: 9.4
+    culture: 9.4

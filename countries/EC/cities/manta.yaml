@@ -1,0 +1,15 @@
+id: city-ec-manta
+name: "Manta"
+location:
+  country_code: EC
+  latitude: -0.9677
+  longitude: -80.7089
+scores:
+  impact: 7.2
+  uniqueness: 7.0
+  significance: 6.9
+  experience: 7.9
+  depth: 7.6
+  categories:
+    food: 8.3
+    beaches: 8.0

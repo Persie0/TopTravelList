@@ -1,0 +1,16 @@
+id: sight-bz-barton-creek-cave
+name: "Barton Creek Cave"
+location:
+  country_code: BZ
+  latitude: 17.108
+  longitude: -88.956
+scores:
+  impact: 8.5
+  uniqueness: 8.7
+  significance: 8.4
+  experience: 8.7
+  depth: 7.7
+  categories:
+    adventure: 8.9
+    nature: 8.7
+    history: 8.5

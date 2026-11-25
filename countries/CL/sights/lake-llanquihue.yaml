@@ -1,0 +1,16 @@
+id: sight-cl-lake-llanquihue
+name: "Lake Llanquihue"
+location:
+  country_code: CL
+  latitude: -41.1300
+  longitude: -72.8000
+scores:
+  impact: 8.6
+  uniqueness: 8.0
+  significance: 7.5
+  experience: 8.7
+  depth: 8.5
+  categories:
+    nature: 9.0
+    photography: 9.2
+    relaxation: 8.9

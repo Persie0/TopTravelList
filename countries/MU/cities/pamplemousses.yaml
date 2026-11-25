@@ -1,0 +1,15 @@
+id: city-mu-pamplemousses
+name: "Pamplemousses"
+location:
+  country_code: MU
+  latitude: -20.1040
+  longitude: 57.5770
+scores:
+  impact: 6.8
+  uniqueness: 7.2
+  significance: 7.5
+  experience: 7.2
+  depth: 6.4
+  categories:
+    history: 7.9
+    culture: 7.6

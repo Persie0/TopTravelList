@@ -1,0 +1,15 @@
+id: sight-om-royal-opera-house-muscat
+name: "Royal Opera House Muscat"
+location:
+  country_code: OM
+  latitude: 23.614
+  longitude: 58.468
+scores:
+  impact: 8.2
+  uniqueness: 8.1
+  significance: 7.6
+  experience: 8.4
+  depth: 7.6
+  categories:
+    architecture: 8.9
+    culture: 8.5

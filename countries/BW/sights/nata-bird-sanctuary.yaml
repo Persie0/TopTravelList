@@ -1,0 +1,16 @@
+id: sight-bw-nata-bird-sanctuary
+name: "Nata Bird Sanctuary"
+location:
+  country_code: BW
+  latitude: -20.3000
+  longitude: 26.2500
+scores:
+  impact: 8.3
+  uniqueness: 8.5
+  significance: 7.9
+  experience: 8.2
+  depth: 7.3
+  categories:
+    wildlife: 9.2
+    nature: 8.9
+    photography: 8.9

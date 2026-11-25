@@ -1,0 +1,16 @@
+id: sight-br-igreja-e-convento-de-sao-francisco-salvador
+name: "Igreja e Convento de São Francisco (Salvador)"
+location:
+  country_code: BR
+  latitude: -12.9735
+  longitude: -38.5090
+scores:
+  impact: 8.9
+  uniqueness: 9.1
+  significance: 9.1
+  experience: 8.4
+  depth: 7.2
+  categories:
+    architecture: 9.6
+    history: 9.4
+    culture: 9.1

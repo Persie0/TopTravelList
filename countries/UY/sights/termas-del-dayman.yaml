@@ -1,0 +1,15 @@
+id: sight-uy-termas-del-dayman
+name: "Termas del Dayman"
+location:
+  country_code: UY
+  latitude: -31.4568
+  longitude: -57.9060
+scores:
+  impact: 7.2
+  uniqueness: 7.4
+  significance: 6.4
+  experience: 8.5
+  depth: 7.7
+  categories:
+    relaxation: 8.9
+    family: 8.5

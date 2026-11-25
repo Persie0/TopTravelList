@@ -1,0 +1,15 @@
+id: sight-qa-3-2-1-qatar-olympic-and-sports-museum
+name: "3-2-1 Qatar Olympic and Sports Museum"
+location:
+  country_code: QA
+  latitude: 25.2630
+  longitude: 51.4480
+scores:
+  impact: 8.2
+  uniqueness: 8.5
+  significance: 8.4
+  experience: 8.7
+  depth: 8.2
+  categories:
+    culture: 8.5
+    family: 8.9

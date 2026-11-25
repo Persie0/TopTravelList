@@ -1,0 +1,16 @@
+id: sight-ec-tortuga-bay
+name: "Tortuga Bay"
+location:
+  country_code: EC
+  latitude: -0.7650
+  longitude: -90.3280
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 8.0
+  experience: 9.1
+  depth: 7.8
+  categories:
+    beaches: 9.4
+    wildlife: 9.0
+    photography: 9.3

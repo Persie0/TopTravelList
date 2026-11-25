@@ -1,0 +1,15 @@
+id: sight-om-ras-al-jinz-turtle-reserve
+name: "Ras Al Jinz Turtle Reserve"
+location:
+  country_code: OM
+  latitude: 22.423
+  longitude: 59.83
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 8.9
+  experience: 8.4
+  depth: 7.3
+  categories:
+    wildlife: 9.3
+    nature: 9.0

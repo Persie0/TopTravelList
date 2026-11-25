@@ -1,0 +1,16 @@
+id: sight-st-pico-cao-grande
+name: "Pico Cão Grande"
+location:
+  country_code: ST
+  latitude: 0.1160
+  longitude: 6.5650
+scores:
+  impact: 9.6
+  uniqueness: 9.6
+  significance: 7.8
+  experience: 8.5
+  depth: 6.9
+  categories:
+    nature: 9.5
+    photography: 9.8
+    adventure: 8.7

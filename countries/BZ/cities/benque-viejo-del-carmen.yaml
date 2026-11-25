@@ -1,0 +1,15 @@
+id: city-bz-benque-viejo-del-carmen
+name: "Benque Viejo del Carmen"
+location:
+  country_code: BZ
+  latitude: 17.0750
+  longitude: -89.1390
+scores:
+  impact: 6.5
+  uniqueness: 7.1
+  significance: 7.0
+  experience: 7.0
+  depth: 6.5
+  categories:
+    culture: 7.6
+    history: 7.3

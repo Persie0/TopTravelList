@@ -1,0 +1,18 @@
+id: sight-mu-le-morne-cultural-landscape
+name: "Le Morne Cultural Landscape"
+location:
+  country_code: MU
+  latitude: -20.451944
+  longitude: 57.328333
+scores:
+  impact: 9.5
+  uniqueness: 9.4
+  significance: 9.6
+  experience: 9.1
+  depth: 8.6
+  categories:
+    nature: 9.4
+    history: 9.7
+    culture: 9.6
+    photography: 9.6
+    adventure: 9.2

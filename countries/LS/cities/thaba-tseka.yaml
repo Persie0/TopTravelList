@@ -1,0 +1,15 @@
+id: city-ls-thaba-tseka
+name: "Thaba-Tseka"
+location:
+  country_code: LS
+  latitude: -29.5230
+  longitude: 28.6080
+scores:
+  impact: 6.5
+  uniqueness: 7.0
+  significance: 6.5
+  experience: 7.1
+  depth: 6.1
+  categories:
+    culture: 7.3
+    photography: 7.6

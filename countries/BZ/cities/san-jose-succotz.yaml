@@ -1,0 +1,14 @@
+id: city-bz-san-jose-succotz
+name: "San Jose Succotz"
+location:
+  country_code: BZ
+  latitude: 17.0910
+  longitude: -89.1370
+scores:
+  impact: 6.4
+  uniqueness: 7.1
+  significance: 6.9
+  experience: 7.2
+  depth: 6.0
+  categories:
+    culture: 7.7

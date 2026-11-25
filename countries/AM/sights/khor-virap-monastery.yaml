@@ -1,0 +1,16 @@
+id: sight-am-khor-virap-monastery
+name: "Khor Virap Monastery"
+location:
+  country_code: AM
+  latitude: 39.878
+  longitude: 44.577
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 9.1
+  experience: 8.7
+  depth: 7.0
+  categories:
+    history: 9.4
+    photography: 9.4
+    culture: 9.2

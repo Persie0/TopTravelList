@@ -1,0 +1,16 @@
+id: sight-sv-los-cobanos-protected-marine-area
+name: "Los Cóbanos Protected Marine Area"
+location:
+  country_code: SV
+  latitude: 13.5230
+  longitude: -89.8080
+scores:
+  impact: 8.2
+  uniqueness: 8.3
+  significance: 8.5
+  experience: 8.4
+  depth: 8.0
+  categories:
+    nature: 8.7
+    wildlife: 8.9
+    adventure: 8.5

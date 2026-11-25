@@ -1,0 +1,16 @@
+id: sight-mu-caverne-patate
+name: "Caverne Patate"
+location:
+  country_code: MU
+  latitude: -19.7590
+  longitude: 63.3740
+scores:
+  impact: 8.1
+  uniqueness: 8.5
+  significance: 7.8
+  experience: 8.2
+  depth: 7.0
+  categories:
+    nature: 8.6
+    adventure: 8.4
+    photography: 8.2
