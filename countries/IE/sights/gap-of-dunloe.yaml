@@ -1,0 +1,16 @@
+id: sight-ie-gap-of-dunloe
+name: "Gap of Dunloe"
+location:
+  country_code: IE
+  latitude: 52.027
+  longitude: -9.638
+scores:
+  impact: 9.1
+  uniqueness: 8.8
+  significance: 8.4
+  experience: 8.9
+  depth: 8.3
+  categories:
+    nature: 9.2
+    photography: 9.3
+    adventure: 8.9

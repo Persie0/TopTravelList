@@ -1,0 +1,14 @@
+id: sight-ie-valentia-cable
+name: "Valentia Island Transatlantic Cable Ensemble"
+location:
+  country_code: IE
+  latitude: 51.92
+  longitude: -10.29
+scores:
+  impact: 7.8
+  uniqueness: 8.9
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    history: 9.3

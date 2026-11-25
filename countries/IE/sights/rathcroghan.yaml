@@ -1,0 +1,15 @@
+id: sight-ie-rathcroghan
+name: "Rathcroghan archaeological complex"
+location:
+  country_code: IE
+  latitude: 53.8
+  longitude: -8.3
+scores:
+  impact: 8.0
+  uniqueness: 8.8
+  significance: 9.1
+  experience: 8.2
+  depth: 8.3
+  categories:
+    history: 9.3
+    culture: 8.8
