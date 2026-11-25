@@ -2,7 +2,7 @@
 
 # Panama (PA) — Sights & attractions ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**45 ranked** · **8 unassessed** · **53 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,11 +10,70 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, or click its GPS coordinates to open **Google Maps**. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (45)
 
-No sights & attractions have been assessed for **Panama** yet.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps |
+| ---: | --- | --- | ---: | --- | --- | --- |
+| 1 | [Panama Canal (visitor transit and lock experience)](sights/panama-canal-visitor-transit-and-lock-experience.yaml) | River / waterway | **96.40** | **History 9.8**, **Architecture 9.7**, **Photography 9.4** | 9.6 / 9.8 / 9.9 / 9.4 / 9.2 | [9.1, -79.7](https://www.google.com/maps/search/?api=1&query=9.1,-79.7) |
+| 2 | [Coiba National Park and Special Zone of Marine Protection](sights/coiba-national-park-and-special-zone-of-marine-protection.yaml) | Park / reserve | **94.15** | **Nature 9.6**, **Wildlife 9.6**, **Adventure 9.4** | 9.4 / 9.5 / 9.6 / 9.2 / 9.2 | [7.433, -81.766](https://www.google.com/maps/search/?api=1&query=7.433,-81.766) |
+| 3 | [Guna Yala (San Blas visitor islands)](sights/guna-yala-san-blas-visitor-islands.yaml) | Island | **90.70** | **Beaches 9.4**, **Culture 9.4**, **Photography 9.4**, Nature 9.2 | 9.2 / 9.3 / 8.7 / 9.1 / 8.8 | [9.56, -78.91](https://www.google.com/maps/search/?api=1&query=9.56,-78.91) |
+| 4 | [Miraflores Visitor Center](sights/miraflores-visitor-center.yaml) | Attraction | **90.20** | **History 9.4**, **Architecture 9.3**, **Photography 8.9** | 9.0 / 9.2 / 9.4 / 9.0 / 7.9 | [8.997, -79.591](https://www.google.com/maps/search/?api=1&query=8.997,-79.591) |
+| 5 | [Casco Antiguo (Historic District of Panamá)](sights/casco-antiguo-historic-district-of-panama.yaml) | Attraction | **90.00** | **History 9.4**, **Architecture 9.3**, **Photography 9.3**, Culture 9.1 | 8.9 / 8.9 / 9.3 / 9.1 / 8.8 | [8.952431, -79.534742](https://www.google.com/maps/search/?api=1&query=8.952431,-79.534742) |
+| 6 | [Bocas del Toro Archipelago (visitor islands)](sights/bocas-del-toro-archipelago-visitor-islands.yaml) | Island | **89.15** | **Beaches 9.3**, **Nature 9.3**, **Photography 9.2**, Adventure 9.1 | 9.0 / 8.9 / 8.5 / 9.2 / 9.1 | [9.28, -82.22](https://www.google.com/maps/search/?api=1&query=9.28,-82.22) |
+| 7 | [Isla Bastimentos National Marine Park](sights/isla-bastimentos-national-marine-park.yaml) | Park / reserve | **89.10** | **Nature 9.3**, **Wildlife 9.3**, **Beaches 9.0** | 8.9 / 8.9 / 9.1 / 8.9 / 8.6 | [9.28, -82.15](https://www.google.com/maps/search/?api=1&query=9.28,-82.15) |
+| 8 | [Soberanía National Park](sights/soberania-national-park.yaml) | Park / reserve | **88.90** | **Wildlife 9.4**, **Nature 9.3**, **Adventure 8.6** | 8.8 / 8.9 / 9.0 / 8.9 / 8.9 | [9.155, -79.695](https://www.google.com/maps/search/?api=1&query=9.155,-79.695) |
+| 9 | [Gulf of Chiriquí National Marine Park](sights/gulf-of-chiriqui-national-marine-park.yaml) | Park / reserve | **87.40** | **Nature 9.1**, **Wildlife 9.1**, **Adventure 9.0** | 8.7 / 8.7 / 8.8 / 8.9 / 8.6 | [8.1, -82.25](https://www.google.com/maps/search/?api=1&query=8.1,-82.25) |
+| 10 | [Panamá Viejo Archaeological Site](sights/panama-viejo-archaeological-site.yaml) | Museum / heritage | **87.35** | **History 9.4**, **Architecture 8.9**, **Photography 8.8** | 8.5 / 8.8 / 9.4 / 8.5 / 8.3 | [9.006658, -79.485272](https://www.google.com/maps/search/?api=1&query=9.006658,-79.485272) |
+| 11 | [Volcán Barú National Park](sights/volcan-baru-national-park.yaml) | Park / reserve | **86.75** | **Adventure 9.3**, **Photography 9.2**, **Nature 9.1** | 9.0 / 8.5 / 8.3 / 9.0 / 8.4 | [8.808, -82.543](https://www.google.com/maps/search/?api=1&query=8.808,-82.543) |
+| 12 | [San Lorenzo Castle](sights/san-lorenzo-castle.yaml) | Palace / castle | **86.65** | **History 9.4**, **Architecture 9.1**, **Photography 9.0** | 8.6 / 8.7 / 9.3 / 8.4 / 7.9 | [9.323172, -79.999775](https://www.google.com/maps/search/?api=1&query=9.323172,-79.999775) |
+| 13 | [Biomuseo](sights/biomuseo.yaml) | Attraction | **86.40** | **Architecture 9.2**, **Culture 8.7**, **Nature 8.7** | 8.5 / 8.9 / 8.6 / 8.7 / 8.4 | [8.932, -79.546](https://www.google.com/maps/search/?api=1&query=8.932,-79.546) |
+| 14 | [Gatún Lake](sights/gatun-lake.yaml) | Lake | **86.35** | **History 8.8**, **Nature 8.8**, **Wildlife 8.8** | 8.6 / 8.5 / 8.8 / 8.8 / 8.5 | [9.15, -79.87](https://www.google.com/maps/search/?api=1&query=9.15,-79.87) |
+| 15 | [Agua Clara Visitor Center](sights/agua-clara-visitor-center.yaml) | Attraction | **86.25** | **Architecture 9.1**, **History 9.1**, **Photography 8.8** | 8.6 / 8.9 / 8.9 / 8.6 / 7.5 | [9.276, -79.923](https://www.google.com/maps/search/?api=1&query=9.276,-79.923) |
+| 16 | [Chagres National Park](sights/chagres-national-park.yaml) | Park / reserve | **85.80** | **Nature 9.1**, **Wildlife 8.9**, **Adventure 8.7** | 8.5 / 8.6 / 8.7 / 8.6 / 8.5 | [9.3, -79.35](https://www.google.com/maps/search/?api=1&query=9.3,-79.35) |
+| 17 | [Pipeline Road (Soberanía)](sights/pipeline-road-soberania.yaml) | Attraction | **85.20** | **Wildlife 9.4**, **Nature 9.0** | 8.4 / 8.9 / 8.5 / 8.7 / 7.7 | [9.153, -79.73](https://www.google.com/maps/search/?api=1&query=9.153,-79.73) |
+| 18 | [Isla Iguana Wildlife Refuge](sights/isla-iguana-wildlife-refuge.yaml) | Attraction | **85.15** | **Wildlife 9.1**, **Nature 9.0**, **Beaches 8.8** | 8.6 / 8.5 / 8.5 / 8.8 / 7.9 | [7.625, -79.999](https://www.google.com/maps/search/?api=1&query=7.625,-79.999) |
+| 19 | [Pearl Islands (visitor archipelago)](sights/pearl-islands-visitor-archipelago.yaml) | Island | **84.85** | **Beaches 9.2**, **Nature 8.9**, **Wildlife 8.8** | 8.7 / 8.5 / 7.8 / 8.8 / 8.7 | [8.45, -79.0](https://www.google.com/maps/search/?api=1&query=8.45,-79.0) |
+| 20 | [Museo del Canal Interoceánico](sights/museo-del-canal-interoceanico.yaml) | River / waterway | **84.50** | **History 9.3**, **Culture 8.8** | 8.0 / 8.6 / 9.1 / 8.4 / 8.2 | [8.952, -79.535](https://www.google.com/maps/search/?api=1&query=8.952,-79.535) |
+| 21 | [Cayos Zapatillas](sights/cayos-zapatillas.yaml) | Attraction | **84.30** | **Beaches 9.4**, **Photography 9.2**, **Nature 9.1** | 8.9 / 8.4 / 7.8 / 9.0 / 7.5 | [9.26, -82.05](https://www.google.com/maps/search/?api=1&query=9.26,-82.05) |
+| 22 | [Los Quetzales Trail](sights/los-quetzales-trail.yaml) | Trail / walk | **83.55** | **Wildlife 9.1**, **Adventure 8.9**, **Nature 8.9** | 8.5 / 8.6 / 7.9 / 8.7 / 7.7 | [8.84, -82.52](https://www.google.com/maps/search/?api=1&query=8.84,-82.52) |
+| 23 | [Panama Rainforest Discovery Center](sights/panama-rainforest-discovery-center.yaml) | Forest | **83.00** | **Wildlife 9.1**, **Nature 8.9**, **Photography 8.7** | 8.3 / 8.5 / 8.1 / 8.7 / 7.6 | [9.132, -79.719](https://www.google.com/maps/search/?api=1&query=9.132,-79.719) |
+| 24 | [El Caño Archaeological Park](sights/el-cano-archaeological-park.yaml) | Museum / heritage | **81.60** | **History 9.3**, **Culture 8.9** | 7.6 / 8.6 / 9.1 / 7.8 / 7.4 | [8.41, -80.61](https://www.google.com/maps/search/?api=1&query=8.41,-80.61) |
+| 25 | [Metropolitan Natural Park](sights/metropolitan-natural-park.yaml) | Park / square | **81.40** | **Wildlife 8.8**, **Nature 8.7** | 8.0 / 8.3 / 8.0 / 8.5 / 7.9 | [8.994, -79.547](https://www.google.com/maps/search/?api=1&query=8.994,-79.547) |
+| 26 | [La India Dormida Trail](sights/la-india-dormida-trail.yaml) | Trail / walk | **80.40** | **Photography 9.0**, **Adventure 8.8**, **Nature 8.7** | 8.4 / 8.2 / 7.2 / 8.6 / 7.4 | [8.6, -80.15](https://www.google.com/maps/search/?api=1&query=8.6,-80.15) |
+| 27 | [San Jerónimo Fort (Portobelo)](sights/san-jeronimo-fort-portobelo.yaml) | Fortification | **79.95** | **History 9.0**, **Architecture 8.6** | 7.8 / 8.2 / 8.8 / 7.7 / 6.9 | [9.554, -79.656](https://www.google.com/maps/search/?api=1&query=9.554,-79.656) |
+| 28 | [Camino de Cruces National Park](sights/camino-de-cruces-national-park.yaml) | Park / reserve | **79.65** | **History 8.6**, **Nature 8.5** | 7.7 / 8.1 / 8.3 / 8.0 / 7.7 | [9.03, -79.61](https://www.google.com/maps/search/?api=1&query=9.03,-79.61) |
+| 29 | [Metropolitan Cathedral of Panama](sights/metropolitan-cathedral-of-panama.yaml) | Religious site | **79.45** | **History 8.9**, **Architecture 8.6** | 7.8 / 8.0 / 8.6 / 7.9 / 7.0 | [8.952, -79.535](https://www.google.com/maps/search/?api=1&query=8.952,-79.535) |
+| 30 | [Santiago de la Gloria Fort](sights/santiago-de-la-gloria-fort.yaml) | Fortification | **79.35** | **History 9.0**, **Architecture 8.5** | 7.7 / 8.2 / 8.8 / 7.5 / 6.9 | [9.555, -79.663](https://www.google.com/maps/search/?api=1&query=9.555,-79.663) |
+| 31 | [Bluff Beach](sights/bluff-beach.yaml) | Beach / bay | **79.00** | **Beaches 9.0**, **Photography 8.8** | 8.5 / 8.0 / 6.8 / 8.2 / 7.6 | [9.41, -82.25](https://www.google.com/maps/search/?api=1&query=9.41,-82.25) |
+| 31 | [The Lost Waterfalls (Boquete)](sights/the-lost-waterfalls-boquete.yaml) | Waterfall | **79.00** | **Photography 8.8**, **Nature 8.6** | 8.4 / 8.1 / 6.7 / 8.5 / 7.4 | [8.81, -82.49](https://www.google.com/maps/search/?api=1&query=8.81,-82.49) |
+| 33 | [Playa Venao](sights/playa-venao.yaml) | Attraction | **78.70** | **Adventure 9.3**, **Beaches 8.8** | 8.4 / 8.1 / 6.2 / 8.9 / 7.5 | [7.435, -80.195](https://www.google.com/maps/search/?api=1&query=7.435,-80.195) |
+| 34 | [Starfish Beach (Playa Estrella)](sights/starfish-beach-playa-estrella.yaml) | Beach / bay | **78.65** | **Beaches 8.7**, **Wildlife 8.6** | 8.2 / 8.1 / 7.1 / 8.4 / 7.0 | [9.411, -82.325](https://www.google.com/maps/search/?api=1&query=9.411,-82.325) |
+| 35 | [Taboga Island visitor trails and beaches](sights/taboga-island-visitor-trails-and-beaches.yaml) | Beach / bay | **78.60** | **Relaxation 8.6**, **Photography 8.5**, **Beaches 8.3** | 7.9 / 7.9 / 7.5 / 8.3 / 7.7 | [8.79, -79.56](https://www.google.com/maps/search/?api=1&query=8.79,-79.56) |
+| 36 | [Red Frog Beach](sights/red-frog-beach.yaml) | Beach / bay | **77.85** | **Beaches 8.9**, **Nature 8.5** | 8.3 / 7.9 / 6.5 / 8.6 / 7.3 | [9.347, -82.176](https://www.google.com/maps/search/?api=1&query=9.347,-82.176) |
+| 37 | [Church of San José (Golden Altar)](sights/church-of-san-jose-golden-altar.yaml) | Religious site | **77.70** | **Architecture 8.6**, **History 8.5** | 7.7 / 8.0 / 8.2 / 7.8 / 6.5 | [8.951, -79.536](https://www.google.com/maps/search/?api=1&query=8.951,-79.536) |
+| 37 | [El Pianista Trail](sights/el-pianista-trail.yaml) | Trail / walk | **77.70** | **Nature 8.5**, **Adventure 8.4** | 8.0 / 8.2 / 7.0 / 8.0 / 7.2 | [8.8, -82.43](https://www.google.com/maps/search/?api=1&query=8.8,-82.43) |
+| 39 | [Ancon Hill](sights/ancon-hill.yaml) | Attraction | **77.55** | **Photography 8.7**, **Nature 8.4** | 8.0 / 7.7 / 7.5 / 8.2 / 7.0 | [8.959, -79.553](https://www.google.com/maps/search/?api=1&query=8.959,-79.553) |
+| 40 | [Playa Cambutal](sights/playa-cambutal.yaml) | Attraction | **76.80** | **Adventure 8.9**, **Beaches 8.6**, **Photography 8.5** | 8.2 / 7.8 / 6.2 / 8.6 / 7.4 | [7.256, -80.493](https://www.google.com/maps/search/?api=1&query=7.256,-80.493) |
+| 41 | [Amador Causeway](sights/amador-causeway.yaml) | Attraction | **76.45** | **Photography 8.6**, **Relaxation 8.4** | 7.7 / 7.6 / 7.2 / 8.3 / 7.5 | [8.914, -79.523](https://www.google.com/maps/search/?api=1&query=8.914,-79.523) |
+| 42 | [Punta Culebra Nature Center](sights/punta-culebra-nature-center.yaml) | Attraction | **76.40** | **Wildlife 8.5**, **Family 8.4**, **Nature 8.2** | 7.3 / 7.7 / 7.9 / 8.1 / 7.3 | [8.912, -79.524](https://www.google.com/maps/search/?api=1&query=8.912,-79.524) |
+| 43 | [Chorro El Macho](sights/chorro-el-macho.yaml) | Attraction | **72.45** | **Photography 8.3**, **Nature 8.2** | 7.6 / 7.3 / 6.3 / 8.0 / 6.8 | [8.62, -80.14](https://www.google.com/maps/search/?api=1&query=8.62,-80.14) |
+| 44 | [El Valle Sunday Market](sights/el-valle-sunday-market.yaml) | Market | **72.05** | **Culture 8.2**, **Food 8.0** | 7.0 / 7.6 / 6.6 / 8.1 / 6.7 | [8.602, -80.13](https://www.google.com/maps/search/?api=1&query=8.602,-80.13) |
+| 45 | [Caldera Hot Springs](sights/caldera-hot-springs.yaml) | Attraction | **71.90** | **Relaxation 8.5**, **Nature 8.0** | 7.3 / 7.5 / 6.2 / 8.1 / 6.7 | [8.65, -82.38](https://www.google.com/maps/search/?api=1&query=8.65,-82.38) |
 
-Add destination YAML files in [sights/](sights/), then regenerate the overview files.
+## Not yet fully assessed (8)
+
+These destinations have no rank until all five core scores are assessed.
+
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps |
+| ---: | --- | --- | ---: | --- | --- | --- |
+| — | [Camino de Cruces (UNESCO section 1)](sights/camino-de-cruces-unesco-section-1.yaml) | Attraction | **—** | **History 9.2** | — / 8.5 / 9.1 / — / — | [9.294958, -79.971678](https://www.google.com/maps/search/?api=1&query=9.294958,-79.971678) |
+| — | [Camino de Cruces (UNESCO section 2)](sights/camino-de-cruces-unesco-section-2.yaml) | Attraction | **—** | **History 9.2** | — / 8.5 / 9.1 / — / — | [9.084406, -79.604625](https://www.google.com/maps/search/?api=1&query=9.084406,-79.604625) |
+| — | [Camino de Cruces (UNESCO section 3)](sights/camino-de-cruces-unesco-section-3.yaml) | Attraction | **—** | **History 9.1** | — / 8.3 / 9.0 / — / — | [9.015614, -79.575897](https://www.google.com/maps/search/?api=1&query=9.015614,-79.575897) |
+| — | [Colonial Transisthmian Route of Panamá (serial UNESCO property)](sights/colonial-transisthmian-route-of-panama-serial-unesco-property.yaml) | Attraction | **—** | **History 9.6**, **Culture 9.3** | — / 9.4 / 9.6 / — / — | [9.006658, -79.485272](https://www.google.com/maps/search/?api=1&query=9.006658,-79.485272) |
+| — | [Darien National Park](sights/darien-national-park.yaml) | Park / reserve | **—** | **Nature 9.6**, **Wildlife 9.6** | — / 9.5 / 9.6 / — / — | [7.733, -77.55](https://www.google.com/maps/search/?api=1&query=7.733,-77.55) |
+| — | [La Amistad International Park (Panama sector)](sights/la-amistad-international-park-panama-sector.yaml) | Park / reserve | **—** | **Nature 9.5**, **Wildlife 9.5** | — / 9.3 / 9.6 / — / — | [9.1, -82.8](https://www.google.com/maps/search/?api=1&query=9.1,-82.8) |
+| — | [Portobelo-San Lorenzo Fortifications (serial UNESCO property)](sights/portobelo-san-lorenzo-fortifications-serial-unesco-property.yaml) | Attraction | **—** | **History 9.4**, **Architecture 9.2** | — / 8.9 / 9.4 / — / — | [9.553, -79.654](https://www.google.com/maps/search/?api=1&query=9.553,-79.654) |
+| — | [San Fernando Fortifications](sights/san-fernando-fortifications.yaml) | Attraction | **—** | **History 9.1** | — / 8.3 / 8.9 / — / — | [9.562, -79.658](https://www.google.com/maps/search/?api=1&query=9.562,-79.658) |
 
 ---
 
