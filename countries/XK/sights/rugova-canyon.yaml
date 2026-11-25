@@ -1,0 +1,16 @@
+id: sight-xk-rugova-canyon
+name: "Rugova Canyon"
+location:
+  country_code: XK
+  latitude: 42.6750
+  longitude: 20.2180
+scores:
+  impact: 9.1
+  uniqueness: 8.9
+  significance: 8.3
+  experience: 8.8
+  depth: 8.6
+  categories:
+    nature: 9.4
+    photography: 9.4
+    adventure: 9.2
