@@ -477,3 +477,75 @@
 - Earlier decision: none.
 - Verification still needed: Current non-worship visitor access, opening and interpretation unverified. No guarantee of admission.
 
+### sight-ki-butaritari-lagoon — Butaritari Lagoon — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/KI/sights/butaritari-lagoon.yaml)
+- Action: rescore
+- Precise subject: Lagoon waters only; exclude terrestrial wartime sites and village attractions. Tourism guide is older; confirm current local arrangements and permission.
+- Location check: prior representative point retained; independent coordinate corroboration pending.
+- Evidence status: source-linked-unverified
+- Checked factual reference excerpts (2026-11-25):
+  - Kiribati Ministry of Culture and Internal Affairs identifies the deep lagoon and islets — https://mcia.gov.ki/node/84
+  - Tourism authority's Tarawa and outer islands guide (2019 PDF, retrieved text excerpt; screenshot failed HTTP 526) describes a cruise to Bikati across the lagoon and islet excursions — https://visitkiribati.travel/wp-content/uploads/2019/05/4Tarawa-Guide-2019-final.pdf
+  - Noonsite reports independent lagoon visit subject to local clearance — https://www.noonsite.com/report/northern-kiribati-a-visit-to-butaritari-island/
+- Missing or uncertain facts: Lagoon waters only; exclude terrestrial wartime sites and village attractions. Tourism guide is older; confirm current local arrangements and permission.
+
+#### Worldwide peer comparisons
+- Marovo Lagoon (Solomon Islands): greater reef-system diversity
+- Funafuti Lagoon (Tuvalu): comparable extensive Pacific atoll waters
+- Cheow Lan Lake (Thailand): stronger sculptural scenery
+- Buada Lagoon (Nauru): much smaller water feature
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | 7.8 | 7.8 | Extensive turquoise atoll waters with reef and mangrove edges |
+| Uniqueness | 7.8 | 7.8 | Distinct wet northern Gilbert atoll but comparable tropical lagoons |
+| Significance | 7.0 | 7.0 | Regional marine and livelihood context, not globally defining protected area |
+| Experience | null | 7.6 | Documented lagoon crossing and guided islet excursions |
+| Depth | null | 7.4 | Multiple water and reef perspectives |
+
+- Applicable category scores: nature: 8.1, photography: 8.0 (unchanged).
+- Computed worldwide overall: 75.70/100
+- High-score challenge: no 9.5+ field or 90+ total introduced.
+- Approved 10 registry: none.
+- Final decision: provisional worldwide rating based on documented authorized experiences; not full independent verification.
+- Earlier decision: prior entry for this ID, unranked.
+- Verification still needed: Lagoon waters only; exclude terrestrial wartime sites and village attractions. Tourism guide is older; confirm current local arrangements and permission.
+
+### sight-ki-cook-island-bird-sanctuary — Cook Island Bird Sanctuary — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/KI/sights/cook-island-bird-sanctuary.yaml)
+- Action: rescore
+- Precise subject: Closed area, not ordinary unrestricted access. Rating describes specifically authorized guided observation only; confirm Cook-specific permits and routes before visit, no landing guaranteed.
+- Location check: prior representative point retained; independent coordinate corroboration pending.
+- Evidence status: source-linked-unverified
+- Checked factual reference excerpts (2026-11-25):
+  - Protected Planet identifies Cook Islet Closed Area as bird reserve — https://www.protectedplanet.net/4257
+  - Kiribati Wildlife Conservation Unit describes escorting visitors for birdwatching — https://melad.gov.ki/index.php?Itemid=389&id=53&option=com_quix&view=page
+  - Destination guide describes Cook Islet nesting seabirds and permit requirement — https://kiribatitravel.com/attractions/cook-islet/
+  - Tour operator says protected nesting areas require conservation guide — https://www.kiribatiholidays.com/things-to-do/bird-watching
+- Missing or uncertain facts: Closed area, not ordinary unrestricted access. Rating describes specifically authorized guided observation only; confirm Cook-specific permits and routes before visit, no landing guaranteed.
+
+#### Worldwide peer comparisons
+- Galápagos (Ecuador): much greater endemic species and visit breadth
+- Sub-Antarctic Islands (New Zealand): larger island-system wildlife diversity
+- Baradal Turtle Sanctuary (Saint Vincent and the Grenadines): comparable focused protected wildlife encounter
+- Tetepare (Solomon Islands): broader conservation visitor offer
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | 8.2 | 8.2 | Concentrated seabird colony and reef-fringed islet |
+| Uniqueness | 8.6 | 8.6 | Distinct protected nesting habitat but global seabird-island analogues |
+| Significance | 8.8 | 8.8 | Important nesting habitat within Kiritimati conservation system |
+| Experience | null | 7.8 | Documented wildlife-guide birdwatching with specific permission |
+| Depth | null | 7.0 | Focused single-islet observation, not whole island's wildlife diversity |
+
+- Applicable category scores: nature: 8.8, wildlife: 9.1 (unchanged).
+- Computed worldwide overall: 82.40/100
+- High-score challenge: no 9.5+ field or 90+ total introduced.
+- Approved 10 registry: none.
+- Final decision: provisional worldwide rating based on documented authorized experiences; not full independent verification.
+- Earlier decision: prior entry for this ID, unranked.
+- Verification still needed: Closed area, not ordinary unrestricted access. Rating describes specifically authorized guided observation only; confirm Cook-specific permits and routes before visit, no landing guaranteed.
