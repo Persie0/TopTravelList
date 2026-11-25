@@ -482,4 +482,3 @@
 - Approved 10 registry: none.
 - Final decision: Provisional absolute worldwide score; town waterfront and dining; Mayon volcano assessed separately.
 - Verification still needed: exact location, material facts, peer YAML and visitor scope.
-
