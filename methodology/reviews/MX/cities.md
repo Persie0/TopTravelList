@@ -1199,3 +1199,73 @@ See [60-component coverage register](camino-real-coverage.md). Existing overlapp
 - Final decision: Provisional editorial worldwide score for named documented visitor scope only.
 - Earlier decision: None.
 - Verification still needed: Independent factual corroboration and current access confirmation.
+
+## city-mx-san-pedro-del-gallo — San Pedro del Gallo — 2026-11-25
+
+- YAML: [source](../../../countries/MX/cities/san-pedro-del-gallo.yaml)
+- Action: new
+- Precise subject: Public settlement streets, principal plaza and exterior of San Pedro Apóstol church; no interior guarantee.
+- Location check: 25.565831, -104.292775; UNESCO 1351-050 official reference converted from DMS, not an entrance, not an indication of permission to approach; settlement coordinates identify historic core.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO component inventory](https://whc.unesco.org/en/list/1351/maps/); [INAH site-specific inventory](https://lugares.inah.gob.mx/es/node/4661); [Federal tourism atlas](https://www.atlasturistico.sectur.gob.mx/AtlasTuristico/atractivos-turisticos/sitios-patrimonio); [Visitor source 1](https://www.atlasturistico.sectur.gob.mx/AtlasTuristico/atractivos-turisticos/sitios-patrimonio) — researched 2026-11-25. INAH identifies principal public plaza and church, completed in 1783; atlas lists component. Limited scope reflects absence of a documented extended itinerary.
+- Missing or uncertain facts: Independent claim-level corroboration, present access and conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Hallstatt](../../../countries/AT/cities/hallstatt.yaml) | Less coherent scenic setting than Hallstatt |
+| [Port Elizabeth](../../../countries/VC/cities/port-elizabeth-bequia.yaml) | Smaller public urban circuit than Port Elizabeth |
+| [Speightstown](../../../countries/BB/cities/speightstown.yaml) | Less intact commercial townscape than Speightstown |
+| [Placencia](../../../countries/BZ/cities/placencia-village.yaml) | More historical settlement identity than Placencia |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 7.1 | Small historic town square |
+| Uniqueness | 7.8 | distinct former presidio settlement |
+| Significance | 8.3 | regional trade and settlement heritage |
+| Experience | 7.3 | ordinary public street and plaza encounter |
+| Depth | 6.8 | compact urban circuit. |
+
+- Applicable categories: architecture:8.3,history:8.7,culture:8.3.
+- Overall: 75.15/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide score for named bounded public scope.
+- Earlier decision: Inventory-only in component register.
+- Verification still needed: Independent factual and access verification.
+
+## city-mx-inde — Indé — 2026-11-25
+
+- YAML: [source](../../../countries/MX/cities/inde.yaml)
+- Action: new
+- Precise subject: Public town streets and exterior parish architecture, not mines or private dwellings.
+- Location check: 25.913331, -105.223056; UNESCO 1351-052 official reference converted from DMS, not an entrance, not an indication of permission to approach; settlement coordinates identify historic core.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO component inventory](https://whc.unesco.org/en/list/1351/maps/); [INAH site-specific inventory](https://lugares.inah.gob.mx/es/node/4663); [Federal tourism atlas](https://www.atlasturistico.sectur.gob.mx/AtlasTuristico/atractivos-turisticos/sitios-patrimonio); [Visitor source 1](https://www.atlasturistico.sectur.gob.mx/AtlasTuristico/atractivos-turisticos/sitios-patrimonio) — researched 2026-11-25. INAH describes parish and nineteenth-century civic context; tourism atlas lists component. Retablo access not assumed.
+- Missing or uncertain facts: Independent claim-level corroboration, present access and conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Hallstatt](../../../countries/AT/cities/hallstatt.yaml) | Less coherent scenic setting than Hallstatt |
+| [Port Elizabeth](../../../countries/VC/cities/port-elizabeth-bequia.yaml) | Smaller public urban circuit than Port Elizabeth |
+| [Speightstown](../../../countries/BB/cities/speightstown.yaml) | Less intact commercial townscape than Speightstown |
+| [Placencia](../../../countries/BZ/cities/placencia-village.yaml) | More historical settlement identity than Placencia |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 7.2 | Small historic townscape |
+| Uniqueness | 7.8 | regional northern mining settlement context |
+| Significance | 8.3 | royal-road and local civic heritage |
+| Experience | 7.3 | ordinary public town encounter |
+| Depth | 6.9 | limited compact circuit. |
+
+- Applicable categories: architecture:8.3,history:8.7,culture:8.3.
+- Overall: 75.55/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide score for named bounded public scope.
+- Earlier decision: Inventory-only in component register.
+- Verification still needed: Independent factual and access verification.
