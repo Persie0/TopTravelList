@@ -1,0 +1,15 @@
+id: sight-iq-ziggurat-ur
+name: "Great Ziggurat of Ur"
+location:
+  country_code: IQ
+  latitude: 30.963
+  longitude: 46.103
+scores:
+  impact: 9.0
+  uniqueness: 9.1
+  significance: 9.3
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.2
+    history: 9.4

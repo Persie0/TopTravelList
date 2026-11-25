@@ -1,0 +1,16 @@
+id: sight-iq-imam-ali-shrine
+name: "Imam Ali Shrine"
+location:
+  country_code: IQ
+  latitude: 31.996
+  longitude: 44.314
+scores:
+  impact: 9.1
+  uniqueness: 9.2
+  significance: 9.4
+  experience: 8.7
+  depth: 8.0
+  categories:
+    architecture: 9.3
+    history: 9.4
+    culture: 9.4

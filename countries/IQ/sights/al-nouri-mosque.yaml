@@ -1,0 +1,15 @@
+id: sight-iq-al-nouri-mosque
+name: "Al-Nouri Mosque and Al-Hadba Minaret"
+location:
+  country_code: IQ
+  latitude: 36.343
+  longitude: 43.127
+scores:
+  impact: 8.3
+  uniqueness: 8.7
+  significance: 8.9
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.0
+    history: 9.1
