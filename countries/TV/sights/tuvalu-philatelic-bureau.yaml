@@ -2,8 +2,8 @@ id: sight-tv-tuvalu-philatelic-bureau
 name: "Tuvalu Philatelic Bureau"
 location:
   country_code: TV
-  latitude: -8.5111
-  longitude: 179.18407
+  latitude: -8.52711
+  longitude: 179.19311
 scores:
   impact: 5.8
   uniqueness: 7.5

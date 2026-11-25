@@ -81,12 +81,13 @@
 - YAML: [source](../../../countries/TV/sights/tuvalu-philatelic-bureau.yaml)
 - Action: new
 - Precise subject: Stamp bureau and collector visit, not a national museum or all postal history.
-- Location check: representative WGS84 -8.5111, 179.18407; see sources below. Not an entrance.
+- Location check: representative WGS84 -8.52711, 179.19311; see sources below. Not an entrance.
 - Evidence status: source-linked-unverified
 - Checked factual reference excerpts (accessed 2026-11-25):
-  - Guide describes collector stop and supplies a provisional point — https://www.maploco.com/top-attractions/funafuti/tuvalu-philatelic-bureau/
+  - Guide describes collector stop; its water-side marker was rejected — https://www.maploco.com/top-attractions/funafuti/tuvalu-philatelic-bureau/
+  - GeoNames lists the exact named Philatelic Bureau at -8.5271144, 179.1931057 — https://www.geonames.org/search.html?country=TV&q=Tubaru&startRow=200
   - Tuvalu Post lists philately contacts and Funafuti address — https://stamp.tuvalupost.tv/contact
-- Missing or uncertain facts: Coordinate is provisional and may be displaced from the office; current hours and in-person access must be verified.
+- Missing or uncertain facts: GeoNames identifies a more plausible office point; confirm current office location, hours and in-person access locally.
 
 #### Worldwide peer comparisons
 - Museum for Communication (Germany): far broader postal history displays
@@ -109,5 +110,5 @@
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide assessment based on the five independent field decisions above, below global leaders where justified.
 - Earlier decision: none.
-- Verification still needed: Coordinate is provisional and may be displaced from the office; current hours and in-person access must be verified.
+- Verification still needed: GeoNames identifies a more plausible office point; confirm current office location, hours and in-person access locally.
 

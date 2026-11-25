@@ -15,7 +15,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
 | 1 | [Funafuti Lagoon](sights/funafuti-lagoon.yaml) | Beach / bay | **78.20** | **Nature 8.5**, **Photography 8.4**, **Relaxation 8.0** | 8.1 / 8.0 / 7.5 / 7.6 / 7.5 | [-8.5074, 179.1293](https://www.google.com/maps/search/?api=1&query=-8.5074,179.1293) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Funafuti%20Lagoon%2C%20Tuvalu) |
-| 2 | [Tuvalu Philatelic Bureau](sights/tuvalu-philatelic-bureau.yaml) | Attraction | **65.00** | **Culture 7.4**, **History 6.8** | 5.8 / 7.5 / 6.9 / 6.3 / 5.6 | [-8.5111, 179.18407](https://www.google.com/maps/search/?api=1&query=-8.5111,179.18407) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tuvalu%20Philatelic%20Bureau%2C%20Tuvalu) |
+| 2 | [Tuvalu Philatelic Bureau](sights/tuvalu-philatelic-bureau.yaml) | Attraction | **65.00** | **Culture 7.4**, **History 6.8** | 5.8 / 7.5 / 6.9 / 6.3 / 5.6 | [-8.52711, 179.19311](https://www.google.com/maps/search/?api=1&query=-8.52711,179.19311) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tuvalu%20Philatelic%20Bureau%2C%20Tuvalu) |
 
 ## Not yet fully assessed (1)
 
