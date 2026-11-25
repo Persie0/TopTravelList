@@ -1059,3 +1059,143 @@ All scores are provisional editorial judgments; no independent fact-check status
 
 ### Camino Real component inventory follow-up
 See [60-component coverage register](camino-real-coverage.md). Existing overlapping World Heritage sites are linked rather than duplicated. The parent royal-road property remains unranked; named settlements and public visitor sites are evaluated independently.
+
+## city-mx-ojuelos-de-jalisco — Ojuelos de Jalisco — 2026-11-25
+
+- YAML: [source](../../../countries/MX/cities/ojuelos-de-jalisco.yaml)
+- Action: new
+- Precise subject: Town streets, presidio exterior, Parián and public museum; separate bridge excluded.
+- Location check: 21.866717, -101.593717; official UNESCO 1351-018 reference converted from DMS, not surveyed entrance; town records use historic-core representative point.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO component inventory](https://whc.unesco.org/en/list/1351/maps/); [Visitor or heritage source 1](https://lugares.inah.gob.mx/es/node/4628); [Visitor or heritage source 2](https://www.gob.mx/cultura/prensa/sitio-emblematico-del-camino-real-de-tierra-adentro-el-fuerte-de-ojuelos-recupera-sus-espacios-originales-250296); [Visitor or heritage source 3](https://sic.cultura.gob.mx/ficha.php?disciplina=&table=museo&table_id=2542) — checked 2026-11-25. Federal culture ministry identifies fort, market and temple; cultural inventory documents public museum.
+- Missing or uncertain facts: Independent claim corroboration, current access and operating conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Hallstatt](../../../countries/AT/cities/hallstatt.yaml) | Less alpine scenery than Hallstatt |
+| [Port Elizabeth](../../../countries/VC/cities/port-elizabeth-bequia.yaml) | different defensive heritage from Port Elizabeth |
+| [Speightstown](../../../countries/BB/cities/speightstown.yaml) | smaller urban fabric than Speightstown |
+| [Placencia](../../../countries/BZ/cities/placencia-village.yaml) | greater historical architecture than Placencia. |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 7.8 | Historic presidio and arcaded market setting |
+| Uniqueness | 8.5 | rare surviving royal-road fort and town |
+| Significance | 8.6 | regional defensive and trade heritage |
+| Experience | 7.9 | public streets and municipal museum |
+| Depth | 7.6 | several linked town stops. |
+
+- Applicable categories: architecture:8.8,history:9.0,culture:8.5.
+- Overall: 81.30/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide score for named documented visitor scope only.
+- Earlier decision: None.
+- Verification still needed: Independent factual corroboration and current access confirmation.
+
+## city-mx-chalchihuites — Chalchihuites — 2026-11-25
+
+- YAML: [source](../../../countries/MX/cities/chalchihuites.yaml)
+- Action: new
+- Precise subject: Town public streets, churches and civic market; Alta Vista archaeological zone excluded.
+- Location check: 23.477306, -103.884167; official UNESCO 1351-034 reference converted from DMS, not surveyed entrance; town records use historic-core representative point.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO component inventory](https://whc.unesco.org/en/list/1351/maps/); [Visitor or heritage source 1](https://lugares.inah.gob.mx/es/node/4645); [Visitor or heritage source 2](https://www.atlasturistico.sectur.gob.mx/AtlasTuristico/atractivos-turisticos/sitios-patrimonio) — checked 2026-11-25. INAH specifically identifies two religious and two civic buildings; federal tourist atlas lists the ensemble.
+- Missing or uncertain facts: Independent claim corroboration, current access and operating conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Hallstatt](../../../countries/AT/cities/hallstatt.yaml) | Less scenic coherence than Hallstatt |
+| [Port Elizabeth](../../../countries/VC/cities/port-elizabeth-bequia.yaml) | different inland identity from Port Elizabeth |
+| [Speightstown](../../../countries/BB/cities/speightstown.yaml) | less extensive historic fabric than Speightstown |
+| [Placencia](../../../countries/BZ/cities/placencia-village.yaml) | more colonial architecture than Placencia. |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 7.5 | Stone and adobe town architecture |
+| Uniqueness | 7.9 | regional mining-era civic ensemble |
+| Significance | 8.3 | royal-road settlement history |
+| Experience | 7.7 | public market and architectural walk |
+| Depth | 7.0 | small urban circuit. |
+
+- Applicable categories: architecture:8.5,history:8.7,culture:8.3.
+- Overall: 77.40/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide score for named documented visitor scope only.
+- Earlier decision: None.
+- Verification still needed: Independent factual corroboration and current access confirmation.
+
+## city-mx-nazas — Nazas — 2026-11-25
+
+- YAML: [source](../../../countries/MX/cities/nazas.yaml)
+- Action: new
+- Precise subject: Town public streets and civic architecture; community museum if open.
+- Location check: 25.226108, -104.114317; official UNESCO 1351-049 reference converted from DMS, not surveyed entrance; town records use historic-core representative point.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO component inventory](https://whc.unesco.org/en/list/1351/maps/); [Visitor or heritage source 1](https://lugares.inah.gob.mx/es/node/4660); [Visitor or heritage source 2](https://sic.cultura.gob.mx/ficha.php?table=museo&table_id=2496); [Visitor or heritage source 3](https://nazas.durango.gob.mx/) — checked 2026-11-25. INAH describes Santa Ana parish and route role; federal inventory documents community museum.
+- Missing or uncertain facts: Independent claim corroboration, current access and operating conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Hallstatt](../../../countries/AT/cities/hallstatt.yaml) | Less visually coherent than Hallstatt |
+| [Port Elizabeth](../../../countries/VC/cities/port-elizabeth-bequia.yaml) | different inland context from Port Elizabeth |
+| [Speightstown](../../../countries/BB/cities/speightstown.yaml) | less built heritage than Speightstown |
+| [Placencia](../../../countries/BZ/cities/placencia-village.yaml) | more mission history than Placencia. |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 7.3 | Small historic river town streets |
+| Uniqueness | 7.8 | regional mission and river-crossing identity |
+| Significance | 8.1 | important local route history |
+| Experience | 7.6 | public town walk and community interpretation |
+| Depth | 7.1 | limited town circuit. |
+
+- Applicable categories: architecture:8.3,history:8.6,culture:8.4.
+- Overall: 76.10/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide score for named documented visitor scope only.
+- Earlier decision: None.
+- Verification still needed: Independent factual corroboration and current access confirmation.
+
+## city-mx-valle-de-allende — Valle de Allende — 2026-11-25
+
+- YAML: [source](../../../countries/MX/cities/valle-de-allende.yaml)
+- Action: new
+- Precise subject: Historic settlement streets, public plazas and local museums; no private homes included.
+- Location check: 26.939439, -105.393889; official UNESCO 1351-059 reference converted from DMS, not surveyed entrance; town records use historic-core representative point.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO component inventory](https://whc.unesco.org/en/list/1351/maps/); [Visitor or heritage source 1](https://turismo.chihuahua.gob.mx/pueblos/valle-de-allende/); [Visitor or heritage source 2](https://inahchihuahua.gob.mx/sections.pl?id=86) — checked 2026-11-25. Chihuahua tourism provides site-specific visitor listing and historic trade context; INAH confirms inscription.
+- Missing or uncertain facts: Independent claim corroboration, current access and operating conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Hallstatt](../../../countries/AT/cities/hallstatt.yaml) | Less dramatic landscape than Hallstatt |
+| [Port Elizabeth](../../../countries/VC/cities/port-elizabeth-bequia.yaml) | different trade identity from Port Elizabeth |
+| [Speightstown](../../../countries/BB/cities/speightstown.yaml) | less historic fabric than Speightstown |
+| [Placencia](../../../countries/BZ/cities/placencia-village.yaml) | more built heritage than Placencia. |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 7.8 | Historic streets and regional townscape |
+| Uniqueness | 8.2 | distinct northern royal-road settlement |
+| Significance | 8.5 | important regional colonial trade history |
+| Experience | 8.0 | documented town heritage and museums |
+| Depth | 7.5 | compact urban circuit. |
+
+- Applicable categories: architecture:8.6,history:8.9,culture:8.6.
+- Overall: 80.40/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide score for named documented visitor scope only.
+- Earlier decision: None.
+- Verification still needed: Independent factual corroboration and current access confirmation.
