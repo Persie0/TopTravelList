@@ -534,8 +534,8 @@
 - Action: new
 - Precise subject: St Andrews settlement; Compact urban scope.
 - Location check: 56.34, -2.796; approximate representative point, independent check outstanding.
-- Evidence status: **editorial-only**
-- Evidence: No site-specific supporting source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Visitor source](https://www.visitscotland.com/places-to-go/st-andrews) — retrieved 2026-11-25; Historic university town, coastal setting and local landmarks. Supports identity or visitor context; not full independent verification. Earlier decision was editorial-only.
 - Missing or uncertain facts: exact GPS, material claims, permitted visitor conditions and current peer ratings.
 
 #### Worldwide peer comparisons
@@ -569,8 +569,8 @@
 - Action: new
 - Precise subject: Stratford-upon-Avon settlement; Compact town.
 - Location check: 52.192, -1.707; approximate representative point, independent check outstanding.
-- Evidence status: **editorial-only**
-- Evidence: No site-specific supporting source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Visitor source](https://www.visitbritain.com/en/destinations/england/stratford-upon-avon) — retrieved 2026-11-25; Shakespeare heritage and town walks. Supports identity or visitor context; not full independent verification. Earlier decision was editorial-only.
 - Missing or uncertain facts: exact GPS, material claims, permitted visitor conditions and current peer ratings.
 
 #### Worldwide peer comparisons
@@ -604,8 +604,8 @@
 - Action: new
 - Precise subject: Brighton settlement; Several neighborhoods.
 - Location check: 50.823, -0.137; approximate representative point, independent check outstanding.
-- Evidence status: **editorial-only**
-- Evidence: No site-specific supporting source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Visitor source](https://www.visitbritain.com/en/destinations/england/brighton) — retrieved 2026-11-25; Coastal city experience, beach and cultural venues. Supports identity or visitor context; not full independent verification. Earlier decision was editorial-only.
 - Missing or uncertain facts: exact GPS, material claims, permitted visitor conditions and current peer ratings.
 
 #### Worldwide peer comparisons
@@ -639,8 +639,8 @@
 - Action: new
 - Precise subject: Newcastle upon Tyne settlement; Several districts.
 - Location check: 54.978, -1.617; approximate representative point, independent check outstanding.
-- Evidence status: **editorial-only**
-- Evidence: No site-specific supporting source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Visitor source](https://www.visitbritain.com/en/destinations/england/newcastle-upon-tyne) — retrieved 2026-11-25; Urban riverfront and cultural experiences; exclude regional excursions. Supports identity or visitor context; not full independent verification. Earlier decision was editorial-only.
 - Missing or uncertain facts: exact GPS, material claims, permitted visitor conditions and current peer ratings.
 
 #### Worldwide peer comparisons
@@ -744,8 +744,8 @@
 - Action: new
 - Precise subject: Tenby settlement; Compact town excludes wider Pembrokeshire.
 - Location check: 51.672, -4.7; approximate representative point, independent check outstanding.
-- Evidence status: **editorial-only**
-- Evidence: No site-specific supporting source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Visitor source](https://www.visitwales.com/destinations/west-wales/pembrokeshire/things-do-tenby) — retrieved 2026-11-25; Harbour, town walls and beaches. Supports identity or visitor context; not full independent verification. Earlier decision was editorial-only.
 - Missing or uncertain facts: exact GPS, material claims, permitted visitor conditions and current peer ratings.
 
 #### Worldwide peer comparisons
@@ -849,8 +849,8 @@
 - Action: new
 - Precise subject: Salisbury settlement; Exclude Stonehenge.
 - Location check: 51.069, -1.795; approximate representative point, independent check outstanding.
-- Evidence status: **editorial-only**
-- Evidence: No site-specific supporting source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Visitor source](https://www.visitwiltshire.co.uk/salisbury/) — retrieved 2026-11-25; Cathedral, city history and cultural events; exclude Stonehenge. Supports identity or visitor context; not full independent verification. Earlier decision was editorial-only.
 - Missing or uncertain facts: exact GPS, material claims, permitted visitor conditions and current peer ratings.
 
 #### Worldwide peer comparisons
@@ -884,8 +884,8 @@
 - Action: new
 - Precise subject: Keswick settlement; Exclude surrounding national park.
 - Location check: 54.601, -3.136; approximate representative point, independent check outstanding.
-- Evidence status: **editorial-only**
-- Evidence: No site-specific supporting source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Visitor source](https://www.visitlakedistrict.com/explore/keswick) — retrieved 2026-11-25; Market town museum, parks and streets; exclude whole Lake District. Supports identity or visitor context; not full independent verification. Earlier decision was editorial-only.
 - Missing or uncertain facts: exact GPS, material claims, permitted visitor conditions and current peer ratings.
 
 #### Worldwide peer comparisons
@@ -919,8 +919,8 @@
 - Action: new
 - Precise subject: Portree settlement; Exclude Isle of Skye landscapes.
 - Location check: 57.413, -6.194; approximate representative point, independent check outstanding.
-- Evidence status: **editorial-only**
-- Evidence: No site-specific supporting source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Visitor source](https://www.highland.gov.uk/ferries-harbours/portree-harbour) — retrieved 2026-11-25; Harbour and town setting; no Skye-wide attraction credit. Supports identity or visitor context; not full independent verification. Earlier decision was editorial-only.
 - Missing or uncertain facts: exact GPS, material claims, permitted visitor conditions and current peer ratings.
 
 #### Worldwide peer comparisons
@@ -954,8 +954,8 @@
 - Action: new
 - Precise subject: Aberystwyth settlement; Several districts.
 - Location check: 52.415, -4.082; approximate representative point, independent check outstanding.
-- Evidence status: **editorial-only**
-- Evidence: No site-specific supporting source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Visitor source](https://www.visitwales.com/destinations/mid-wales/ceredigion-cardigan-bay/insiders-guide-aberystwyth) — retrieved 2026-11-25; Seafront and local cultural institutions. Supports identity or visitor context; not full independent verification. Earlier decision was editorial-only.
 - Missing or uncertain facts: exact GPS, material claims, permitted visitor conditions and current peer ratings.
 
 #### Worldwide peer comparisons
@@ -989,8 +989,8 @@
 - Action: new
 - Precise subject: Lincoln settlement; Several urban districts.
 - Location check: 53.23, -0.54; approximate representative point, independent check outstanding.
-- Evidence status: **editorial-only**
-- Evidence: No site-specific supporting source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Visitor source](https://www.visitbritain.com/en/destinations/england/lincoln) — retrieved 2026-11-25; Cathedral, medieval streets and castle. Supports identity or visitor context; not full independent verification. Earlier decision was editorial-only.
 - Missing or uncertain facts: exact GPS, material claims, permitted visitor conditions and current peer ratings.
 
 #### Worldwide peer comparisons
@@ -1024,8 +1024,8 @@
 - Action: new
 - Precise subject: Norwich settlement; Multiple districts.
 - Location check: 52.63, 1.297; approximate representative point, independent check outstanding.
-- Evidence status: **editorial-only**
-- Evidence: No site-specific supporting source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Visitor source](https://www.visitbritain.com/en/destinations/england/norwich) — retrieved 2026-11-25; Historic streets, castle and local culture. Supports identity or visitor context; not full independent verification. Earlier decision was editorial-only.
 - Missing or uncertain facts: exact GPS, material claims, permitted visitor conditions and current peer ratings.
 
 #### Worldwide peer comparisons

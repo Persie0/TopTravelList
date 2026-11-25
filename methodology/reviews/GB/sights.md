@@ -1794,8 +1794,8 @@
 - Action: new
 - Precise subject: British Museum; Many independent collection areas.
 - Location check: 51.5194, -0.127; approximate representative point, independent check outstanding.
-- Evidence status: **editorial-only**
-- Evidence: No site-specific supporting source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Visitor source](https://www.visitlondon.com/things-to-do/sightseeing/london-attraction/museum/best-museums-in-london) — retrieved 2026-11-25; Large public collection and over 60 galleries; no credit for storage collections. Supports identity or visitor context; not full independent verification. Earlier decision was editorial-only.
 - Missing or uncertain facts: exact GPS, material claims, permitted visitor conditions and current peer ratings.
 
 #### Worldwide peer comparisons
@@ -1829,8 +1829,8 @@
 - Action: new
 - Precise subject: National Gallery, London; Extensive collection periods.
 - Location check: 51.5089, -0.1283; approximate representative point, independent check outstanding.
-- Evidence status: **editorial-only**
-- Evidence: No site-specific supporting source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Visitor source](https://www.nationalgallery.org.uk/visiting/plan-your-visit/) — retrieved 2026-11-25; Public painting galleries and interpreted visits. Supports identity or visitor context; not full independent verification. Earlier decision was editorial-only.
 - Missing or uncertain facts: exact GPS, material claims, permitted visitor conditions and current peer ratings.
 
 #### Worldwide peer comparisons
@@ -1864,8 +1864,8 @@
 - Action: new
 - Precise subject: Victoria and Albert Museum; Extensive distinct design departments.
 - Location check: 51.4966, -0.172; approximate representative point, independent check outstanding.
-- Evidence status: **editorial-only**
-- Evidence: No site-specific supporting source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Visitor source](https://www.vam.ac.uk/visit/) — retrieved 2026-11-25; South Kensington collections and visitor scope; exclude separate V&A sites. Supports identity or visitor context; not full independent verification. Earlier decision was editorial-only.
 - Missing or uncertain facts: exact GPS, material claims, permitted visitor conditions and current peer ratings.
 
 #### Worldwide peer comparisons
@@ -1899,8 +1899,8 @@
 - Action: new
 - Precise subject: Natural History Museum, London; Several scientific themes.
 - Location check: 51.4967, -0.1764; approximate representative point, independent check outstanding.
-- Evidence status: **editorial-only**
-- Evidence: No site-specific supporting source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Visitor source](https://www.nhm.ac.uk/visit.html) — retrieved 2026-11-25; Public natural history galleries in London. Supports identity or visitor context; not full independent verification. Earlier decision was editorial-only.
 - Missing or uncertain facts: exact GPS, material claims, permitted visitor conditions and current peer ratings.
 
 #### Worldwide peer comparisons
@@ -1934,8 +1934,8 @@
 - Action: new
 - Precise subject: St Paul's Cathedral; Single cathedral complex.
 - Location check: 51.5138, -0.0984; approximate representative point, independent check outstanding.
-- Evidence status: **editorial-only**
-- Evidence: No site-specific supporting source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Visitor source](https://www.stpauls.co.uk/visit-us) — retrieved 2026-11-25; Ticketed sightseeing, not private spaces or special access. Supports identity or visitor context; not full independent verification. Earlier decision was editorial-only.
 - Missing or uncertain facts: exact GPS, material claims, permitted visitor conditions and current peer ratings.
 
 #### Worldwide peer comparisons
@@ -1969,8 +1969,8 @@
 - Action: new
 - Precise subject: Windsor Castle; Substantial public castle circuit.
 - Location check: 51.484, -0.604; approximate representative point, independent check outstanding.
-- Evidence status: **editorial-only**
-- Evidence: No site-specific supporting source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Visitor source](https://www.rct.uk/visit/windsor-castle) — retrieved 2026-11-25; Public castle routes and royal heritage. Supports identity or visitor context; not full independent verification. Earlier decision was editorial-only.
 - Missing or uncertain facts: exact GPS, material claims, permitted visitor conditions and current peer ratings.
 
 #### Worldwide peer comparisons
@@ -2004,8 +2004,8 @@
 - Action: new
 - Precise subject: Edinburgh Castle; Castle complex not entire city.
 - Location check: 55.9486, -3.1999; approximate representative point, independent check outstanding.
-- Evidence status: **editorial-only**
-- Evidence: No site-specific supporting source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Visitor source](https://www.edinburghcastle.scot/see-and-do/) — retrieved 2026-11-25; Multiple public historic structures and collections. Supports identity or visitor context; not full independent verification. Earlier decision was editorial-only.
 - Missing or uncertain facts: exact GPS, material claims, permitted visitor conditions and current peer ratings.
 
 #### Worldwide peer comparisons
@@ -2039,8 +2039,8 @@
 - Action: new
 - Precise subject: Isle of Skye; Extensive island landscapes.
 - Location check: 57.32, -6.24; approximate representative point, independent check outstanding.
-- Evidence status: **editorial-only**
-- Evidence: No site-specific supporting source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Visitor source](https://www.visitscotland.com/info/tours/isle-of-skye-3-day-tour-from-glasgow-10914285) — retrieved 2026-11-25; Documented multi-site island itinerary; exclude off-island stops. Supports identity or visitor context; not full independent verification. Earlier decision was editorial-only.
 - Missing or uncertain facts: exact GPS, material claims, permitted visitor conditions and current peer ratings.
 
 #### Worldwide peer comparisons
@@ -2074,8 +2074,8 @@
 - Action: new
 - Precise subject: Glen Coe; Defined glen rather than entire Highlands.
 - Location check: 56.68, -5.02; approximate representative point, independent check outstanding.
-- Evidence status: **editorial-only**
-- Evidence: No site-specific supporting source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Visitor source](https://www.visitscotland.com/things-to-do/nature-outdoors/walking/mountains-hills/glencoe) — retrieved 2026-11-25; Glacial valley setting and marked walking possibilities. Supports identity or visitor context; not full independent verification. Earlier decision was editorial-only.
 - Missing or uncertain facts: exact GPS, material claims, permitted visitor conditions and current peer ratings.
 
 #### Worldwide peer comparisons
@@ -2109,8 +2109,8 @@
 - Action: new
 - Precise subject: Ben Nevis mountain routes; Defined mountain not all Highlands.
 - Location check: 56.797, -5.003; approximate representative point, independent check outstanding.
-- Evidence status: **editorial-only**
-- Evidence: No site-specific supporting source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Visitor source](https://www.visitscotland.com/things-to-do/nature-outdoors/walking/mountains-hills/ben-nevis) — retrieved 2026-11-25; Mountain paths and summit experience conditional on conditions. Supports identity or visitor context; not full independent verification. Earlier decision was editorial-only.
 - Missing or uncertain facts: exact GPS, material claims, permitted visitor conditions and current peer ratings.
 
 #### Worldwide peer comparisons
@@ -2144,8 +2144,8 @@
 - Action: new
 - Precise subject: Loch Ness; Defined loch not whole Great Glen.
 - Location check: 57.3, -4.45; approximate representative point, independent check outstanding.
-- Evidence status: **editorial-only**
-- Evidence: No site-specific supporting source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Visitor source](https://www.visitscotland.com/things-to-do/nature-outdoors/lochs/ness) — retrieved 2026-11-25; Loch, shoreline and boat trips; no credit for mythical sightings. Supports identity or visitor context; not full independent verification. Earlier decision was editorial-only.
 - Missing or uncertain facts: exact GPS, material claims, permitted visitor conditions and current peer ratings.
 
 #### Worldwide peer comparisons
@@ -2179,8 +2179,8 @@
 - Action: new
 - Precise subject: Eilean Donan Castle; Single castle.
 - Location check: 57.274, -5.514; approximate representative point, independent check outstanding.
-- Evidence status: **editorial-only**
-- Evidence: No site-specific supporting source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Visitor source](https://www.eileandonancastle.com/visit/) — retrieved 2026-11-25; Public castle visit. Supports identity or visitor context; not full independent verification. Earlier decision was editorial-only.
 - Missing or uncertain facts: exact GPS, material claims, permitted visitor conditions and current peer ratings.
 
 #### Worldwide peer comparisons
@@ -2214,8 +2214,8 @@
 - Action: new
 - Precise subject: Roman Baths, Bath; Defined archaeological complex.
 - Location check: 51.381, -2.359; approximate representative point, independent check outstanding.
-- Evidence status: **editorial-only**
-- Evidence: No site-specific supporting source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Visitor source](https://www.romanbaths.co.uk/visit) — retrieved 2026-11-25; Great Bath, sacred spring and interpreted archaeological remains. Supports identity or visitor context; not full independent verification. Earlier decision was editorial-only.
 - Missing or uncertain facts: exact GPS, material claims, permitted visitor conditions and current peer ratings.
 
 #### Worldwide peer comparisons
@@ -2249,8 +2249,8 @@
 - Action: new
 - Precise subject: York Minster; Single cathedral.
 - Location check: 53.962, -1.082; approximate representative point, independent check outstanding.
-- Evidence status: **editorial-only**
-- Evidence: No site-specific supporting source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Visitor source](https://yorkminster.org/visit/) — retrieved 2026-11-25; Cathedral architecture and visitor interpretation. Supports identity or visitor context; not full independent verification. Earlier decision was editorial-only.
 - Missing or uncertain facts: exact GPS, material claims, permitted visitor conditions and current peer ratings.
 
 #### Worldwide peer comparisons
@@ -2284,8 +2284,8 @@
 - Action: new
 - Precise subject: Caernarfon Castle; Single castle not all Gwynedd.
 - Location check: 53.139, -4.277; approximate representative point, independent check outstanding.
-- Evidence status: **editorial-only**
-- Evidence: No site-specific supporting source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Visitor source](https://cadw.gov.wales/visit/places-to-visit/castell-caernarfon) — retrieved 2026-11-25; Castle precinct; exclude other serial-property castles. Supports identity or visitor context; not full independent verification. Earlier decision was editorial-only.
 - Missing or uncertain facts: exact GPS, material claims, permitted visitor conditions and current peer ratings.
 
 #### Worldwide peer comparisons
@@ -2319,8 +2319,8 @@
 - Action: new
 - Precise subject: Titanic Belfast; Defined museum not entire dockland.
 - Location check: 54.608, -5.909; approximate representative point, independent check outstanding.
-- Evidence status: **editorial-only**
-- Evidence: No site-specific supporting source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Visitor source](https://www.titanicbelfast.com/visitor-information/opening-hours/) — retrieved 2026-11-25; Public interpreted Titanic experience, not actual wreck access. Supports identity or visitor context; not full independent verification. Earlier decision was editorial-only.
 - Missing or uncertain facts: exact GPS, material claims, permitted visitor conditions and current peer ratings.
 
 #### Worldwide peer comparisons
@@ -2354,8 +2354,8 @@
 - Action: new
 - Precise subject: Mourne Mountains; Multiple peaks and valleys.
 - Location check: 54.17, -5.95; approximate representative point, independent check outstanding.
-- Evidence status: **editorial-only**
-- Evidence: No site-specific supporting source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Visitor source](https://www.visitmournegullionstrangford.com/things-to-do/walking-and-hiking) — retrieved 2026-11-25; Documented walking routes and mountain heritage. Supports identity or visitor context; not full independent verification. Earlier decision was editorial-only.
 - Missing or uncertain facts: exact GPS, material claims, permitted visitor conditions and current peer ratings.
 
 #### Worldwide peer comparisons
@@ -2389,8 +2389,8 @@
 - Action: new
 - Precise subject: Dunluce Castle; Single ruined castle.
 - Location check: 55.21, -6.58; approximate representative point, independent check outstanding.
-- Evidence status: **editorial-only**
-- Evidence: No site-specific supporting source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Visitor source](https://www.visitcausewaycoastandglens.com/see-do/the-dark-hedges/) — retrieved 2026-11-25; Regional guide describes the cliff-edge castle. Supports identity or visitor context; not full independent verification. Earlier decision was editorial-only.
 - Missing or uncertain facts: exact GPS, material claims, permitted visitor conditions and current peer ratings.
 
 #### Worldwide peer comparisons
@@ -2424,8 +2424,8 @@
 - Action: new
 - Precise subject: Dark Hedges avenue; One avenue.
 - Location check: 55.135, -6.38; approximate representative point, independent check outstanding.
-- Evidence status: **editorial-only**
-- Evidence: No site-specific supporting source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Visitor source](https://www.visitcausewaycoastandglens.com/see-do/the-dark-hedges/) — retrieved 2026-11-25; Tree avenue, short bounded visitor stop; no assumption of vehicle access. Supports identity or visitor context; not full independent verification. Earlier decision was editorial-only.
 - Missing or uncertain facts: exact GPS, material claims, permitted visitor conditions and current peer ratings.
 
 #### Worldwide peer comparisons
@@ -2459,8 +2459,8 @@
 - Action: new
 - Precise subject: Seven Sisters chalk cliffs; Defined coastal section.
 - Location check: 50.76, 0.16; approximate representative point, independent check outstanding.
-- Evidence status: **editorial-only**
-- Evidence: No site-specific supporting source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Visitor source](https://www.sevensisters.org.uk/visit/) — retrieved 2026-11-25; Public chalk coast trails, wildlife and interpretation. Supports identity or visitor context; not full independent verification. Earlier decision was editorial-only.
 - Missing or uncertain facts: exact GPS, material claims, permitted visitor conditions and current peer ratings.
 
 #### Worldwide peer comparisons
@@ -2494,8 +2494,8 @@
 - Action: new
 - Precise subject: Durdle Door; One arch and immediate shore.
 - Location check: 50.621, -2.276; approximate representative point, independent check outstanding.
-- Evidence status: **editorial-only**
-- Evidence: No site-specific supporting source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Visitor source](https://lulworth.com/visit/places-to-visit/durdle-door/) — retrieved 2026-11-25; Coastal arch and designated foot access. Supports identity or visitor context; not full independent verification. Earlier decision was editorial-only.
 - Missing or uncertain facts: exact GPS, material claims, permitted visitor conditions and current peer ratings.
 
 #### Worldwide peer comparisons
@@ -2529,8 +2529,8 @@
 - Action: new
 - Precise subject: Stourhead landscape garden; Defined garden estate.
 - Location check: 51.105, -2.322; approximate representative point, independent check outstanding.
-- Evidence status: **editorial-only**
-- Evidence: No site-specific supporting source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Visitor source](https://www.nationaltrust.org.uk/visit/wiltshire/stourhead) — retrieved 2026-11-25; Landscape garden, follies and estate walks. Supports identity or visitor context; not full independent verification. Earlier decision was editorial-only.
 - Missing or uncertain facts: exact GPS, material claims, permitted visitor conditions and current peer ratings.
 
 #### Worldwide peer comparisons
@@ -2564,8 +2564,8 @@
 - Action: new
 - Precise subject: HMS Victory and Portsmouth Historic Dockyard; Defined dockyard visitor complex.
 - Location check: 50.801, -1.11; approximate representative point, independent check outstanding.
-- Evidence status: **editorial-only**
-- Evidence: No site-specific supporting source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Visitor source](https://historicdockyard.co.uk/plan-your-visit/) — retrieved 2026-11-25; Public dockyard museums and ship experiences, not all Royal Navy facilities. Supports identity or visitor context; not full independent verification. Earlier decision was editorial-only.
 - Missing or uncertain facts: exact GPS, material claims, permitted visitor conditions and current peer ratings.
 
 #### Worldwide peer comparisons
@@ -2599,8 +2599,8 @@
 - Action: new
 - Precise subject: Hampton Court Palace and Gardens; Substantial estate circuit.
 - Location check: 51.403, -0.337; approximate representative point, independent check outstanding.
-- Evidence status: **editorial-only**
-- Evidence: No site-specific supporting source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Visitor source](https://www.hrp.org.uk/hampton-court-palace/visit/) — retrieved 2026-11-25; Historic apartments and gardens; seasonal routes vary. Supports identity or visitor context; not full independent verification. Earlier decision was editorial-only.
 - Missing or uncertain facts: exact GPS, material claims, permitted visitor conditions and current peer ratings.
 
 #### Worldwide peer comparisons
@@ -2634,8 +2634,8 @@
 - Action: new
 - Precise subject: Cardiff Castle; Defined castle complex.
 - Location check: 51.482, -3.182; approximate representative point, independent check outstanding.
-- Evidence status: **editorial-only**
-- Evidence: No site-specific supporting source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Visitor source](https://www.cardiffcastle.com/visit/tickets/) — retrieved 2026-11-25; Norman keep, apartments, wartime shelters and museum. Supports identity or visitor context; not full independent verification. Earlier decision was editorial-only.
 - Missing or uncertain facts: exact GPS, material claims, permitted visitor conditions and current peer ratings.
 
 #### Worldwide peer comparisons
@@ -2669,8 +2669,8 @@
 - Action: new
 - Precise subject: St Fagans National Museum of History; Multiple periods and buildings.
 - Location check: 51.486, -3.273; approximate representative point, independent check outstanding.
-- Evidence status: **editorial-only**
-- Evidence: No site-specific supporting source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Visitor source](https://museum.wales/stfagans/) — retrieved 2026-11-25; Open-air national history museum; temporary building restoration may constrain visits. Supports identity or visitor context; not full independent verification. Earlier decision was editorial-only.
 - Missing or uncertain facts: exact GPS, material claims, permitted visitor conditions and current peer ratings.
 
 #### Worldwide peer comparisons
@@ -2697,3 +2697,28 @@
 - Final decision: Scope-limited editorial rating: Distinct national vernacular building collection; Multiple periods and buildings.
 - Earlier decision: none.
 - Verification still needed: independent factual support, permitted access, current scores and stronger same-type peer comparisons.
+
+## Follow-up: source and scope audit — 2026-11-25
+
+All 37 formerly editorial-only records (11 cities, 26 sights) now have supporting sources, including official visitor pages and regional tourism guides. The source material is evidence for identity and bounded experiences, not a proof of subjective scores. No claim of fully independently verified records. [UNESCO national inventory](https://whc.unesco.org/en/statesparties/gb) lists 35 inscribed properties including four overseas properties, and five tentative including Little Cayman; all 31 domestic inscriptions and four domestic tentative nominations are represented at property level. [East Atlantic Flyway nomination](https://whc.unesco.org/en/tentativelists/6689/) describes a dispersed network of wetlands; it remains unranked until a defined visitor scope is assessed, not because of low ecological importance. Four overseas inscribed properties and Little Cayman are intentionally outside the GB dataset.
+
+## sight-gb-tate-modern — Tate Modern — 2026-11-25
+
+- YAML: [source](../../../countries/GB/sights/tate-modern.yaml)
+- Action: new
+- Precise subject: Bankside gallery, public modern and contemporary art collection, Turbine Hall and ordinary public galleries; excludes Tate Britain and other branches.
+- Location check: 51.507778, -0.099444 (representative institution point, DMS conversion from [Wikimedia](https://commons.wikimedia.org/wiki/Institution:Tate_Modern)).
+- Evidence status: **source-linked-unverified**
+- Evidence: [Visit London's museum guide](https://www.visitlondon.com/things-to-do/sightseeing/london-attraction/museum/best-museums-in-london) and [Time Out gallery profile](https://www.timeout.com/london/art/tate-modern) support international modern art and industrial architecture. [Official Tate page](https://www.tate.org.uk/visit/tate-modern) returned HTTP 403 on direct retrieval; no claim that its contents were independently read. No reliance on lookalike domains.
+- Worldwide peers (current main I/U/S/E/D): [Louisiana (DK)](../../../countries/DK/sights/louisiana.yaml) 8.9/8.9/8.8/9.2/9.0, comparable distinctive contemporary setting, narrower global collection; [National Museum of Western Art (JP)](../../../countries/JP/sights/national-museum-of-western-art-tokyo.yaml) 8.6/8.7/8.8/8.8/8.7, comparable art museum with different architectural heritage; [Kunsthistorisches Museum (AT)](../../../countries/AT/sights/kunsthistorisches-museum.yaml) 9.2/9.4/9.6/9.4/9.5, stronger encyclopedic historical collection and monumental interiors; [SMK (DK)](../../../countries/DK/sights/smk.yaml) 8.6/8.7/9.0/8.9/9.1, broad national gallery but less distinctive large-scale industrial gallery setting.
+- Impact 9.1: major modern art installations and large converted power station.
+- Uniqueness 9.2: unusual combination of internationally important modern collection and Turbine Hall; comparable internationally outstanding galleries exist.
+- Significance 9.2: influential global contemporary art institution, not the entire Tate group.
+- Experience 9.2: many public galleries and major interpreted works, no dependence on any one temporary show.
+- Depth 9.2: varied accessible collection and multiple galleries, not the storage collection.
+- Categories: culture 9.5, architecture 9.1.
+- Computed worldwide overall: 91.70/100.
+- High-score challenge: current peer comparisons above support a score above 90 but below the encyclopedic KHM; culture 9.5 reflects rare international reference-level modern collection and commissioned installation space, not popularity or national leadership. No approved 10.
+- Verification still needed: individual exhibit availability, exact location and primary operator page.
+
+The British Museum's provisional 94.90 is supported by its multi-gallery, multi-civilization scope; its uniqueness and significance exceed the KHM (9.4 and 9.6) only slightly, while KHM's experience 9.4 exceeds British Museum's 9.3. Current source confirms more than 60 galleries, not unrestricted access to all stored objects. Further close same-type comparison of each of the original 38 exceptional cases remains necessary. Overall inventory now 108 records (30 cities, 78 sights); 107 ranked, one unassessed. No previous numeric vectors or scoring weights changed.
