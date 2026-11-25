@@ -1,0 +1,15 @@
+id: sight-by-brest-fortress
+name: "Brest Fortress Memorial Complex"
+location:
+  country_code: BY
+  latitude: 52.084
+  longitude: 23.656
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 9.2
+  experience: 8.7
+  depth: 8.8
+  categories:
+    history: 9.4
+    architecture: 9.0

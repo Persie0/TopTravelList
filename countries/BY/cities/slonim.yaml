@@ -1,0 +1,15 @@
+id: city-by-slonim
+name: "Slonim"
+location:
+  country_code: BY
+  latitude: 53.087
+  longitude: 25.318
+scores:
+  impact: 7.5
+  uniqueness: 7.8
+  significance: 8.1
+  experience: 7.9
+  depth: 7.5
+  categories:
+    history: 8.5
+    architecture: 8.4

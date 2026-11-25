@@ -1,0 +1,15 @@
+id: sight-by-ruzhany
+name: "Ruzhany Palace ruins"
+location:
+  country_code: BY
+  latitude: 52.863
+  longitude: 24.89
+scores:
+  impact: 8.5
+  uniqueness: 8.6
+  significance: 8.7
+  experience: 8.3
+  depth: 8.0
+  categories:
+    architecture: 9.1
+    history: 9.0

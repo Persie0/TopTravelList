@@ -1,0 +1,16 @@
+id: city-by-grodno
+name: "Grodno (Hrodna)"
+location:
+  country_code: BY
+  latitude: 53.6694
+  longitude: 23.8131
+scores:
+  impact: 8.6
+  uniqueness: 8.6
+  significance: 8.7
+  experience: 8.6
+  depth: 8.4
+  categories:
+    architecture: 9.1
+    history: 9.0
+    culture: 8.8
