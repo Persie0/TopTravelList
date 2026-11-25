@@ -1,0 +1,15 @@
+id: city-gn-faranah
+name: "Faranah"
+location:
+  country_code: GN
+  latitude: 10.04
+  longitude: -10.74
+scores:
+  impact: 5.9
+  uniqueness: 6.9
+  significance: 7.2
+  experience: 6.9
+  depth: 6.0
+  categories:
+    history: 7.8
+    culture: 7.6

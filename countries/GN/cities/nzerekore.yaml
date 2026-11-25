@@ -1,0 +1,15 @@
+id: city-gn-nzerekore
+name: "Nzérékoré"
+location:
+  country_code: GN
+  latitude: 7.756
+  longitude: -8.818
+scores:
+  impact: 6.4
+  uniqueness: 7.3
+  significance: 7.2
+  experience: 7.3
+  depth: 6.6
+  categories:
+    culture: 7.9
+    food: 7.7
