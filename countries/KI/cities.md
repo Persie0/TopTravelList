@@ -2,7 +2,7 @@
 
 # Kiribati (KI) — Cities, towns & villages ranking
 
-**4 ranked** · **6 unassessed** · **10 total** · Worldwide scoring **v2**
+**4 ranked** · **8 unassessed** · **12 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -19,14 +19,16 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 3 | [Bairiki](cities/bairiki.yaml) | City / town | **65.60** | **Culture 6.9**, **Architecture 6.3** | 5.9 / 7.3 / 7.2 / 6.3 / 5.8 | [1.32924, 172.97522](https://www.google.com/maps/search/?api=1&query=1.32924,172.97522) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bairiki%2C%20Kiribati) |
 | 4 | [Bikenibeu Village](cities/bikenibeu.yaml) | Village | **64.45** | **Culture 7.3** | 5.9 / 6.8 / 6.9 / 6.5 / 6.2 | [1.3673, 173.12415](https://www.google.com/maps/search/?api=1&query=1.3673,173.12415) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bikenibeu%20Village%2C%20Kiribati) |
 
-## Not yet fully assessed (6)
+## Not yet fully assessed (8)
 
 These destinations have no rank until all five core scores are assessed.
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
 | — | [Bonriki Village](cities/bonriki.yaml) | Village | **—** | — | — / — / — / — / — | [1.38081, 173.13887](https://www.google.com/maps/search/?api=1&query=1.38081,173.13887) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bonriki%20Village%2C%20Kiribati) |
+| — | [Kabangaki Village](cities/kabangaki.yaml) | Village | **—** | — | — / — / — / — / — | [0.31394, 173.92913](https://www.google.com/maps/search/?api=1&query=0.31394,173.92913) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kabangaki%20Village%2C%20Kiribati) |
 | — | [Makin Village](cities/makin.yaml) | Village | **—** | — | — / — / — / — / — | [3.3644, 172.98352](https://www.google.com/maps/search/?api=1&query=3.3644,172.98352) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Makin%20Village%2C%20Kiribati) |
+| — | [Paelau Village](cities/paelau.yaml) | Village | **—** | — | — / — / — / — / — | [3.85663, -159.36043](https://www.google.com/maps/search/?api=1&query=3.85663,-159.36043) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Paelau%20Village%2C%20Kiribati) |
 | — | [Poland Village](cities/poland.yaml) | Village | **—** | — | — / — / — / — / — | [1.8648, -157.55154](https://www.google.com/maps/search/?api=1&query=1.8648,-157.55154) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Poland%20Village%2C%20Kiribati) |
 | — | [Taburao Village](cities/taburao.yaml) | Village | **—** | — | — / — / — / — / — | [1.85372, 172.99744](https://www.google.com/maps/search/?api=1&query=1.85372,172.99744) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Taburao%20Village%2C%20Kiribati) |
 | — | [Tabwakea Village](cities/tabwakea.yaml) | Village | **—** | — | — / — / — / — / — | [2.01643, -157.48773](https://www.google.com/maps/search/?api=1&query=2.01643,-157.48773) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tabwakea%20Village%2C%20Kiribati) |

@@ -33,7 +33,7 @@ These destinations have no rank until all five core scores are assessed.
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
-| — | [Phoenix Islands Protected Area](sights/phoenix-islands-protected-area.yaml) | Island | **—** | **Nature 9.4**, **Wildlife 9.4** | 9.0 / 9.4 / 9.6 / — / — | [-3.864454, -172.650203](https://www.google.com/maps/search/?api=1&query=-3.864454,-172.650203) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Phoenix%20Islands%20Protected%20Area%2C%20Kiribati) |
+| — | [Phoenix Islands Protected Area](sights/phoenix-islands-protected-area.yaml) | Island | **—** | **Nature 9.4**, Wildlife unassessed | 9.0 / 9.4 / 9.6 / — / — | [-3.864454, -172.650203](https://www.google.com/maps/search/?api=1&query=-3.864454,-172.650203) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Phoenix%20Islands%20Protected%20Area%2C%20Kiribati) |
 
 ---
 
