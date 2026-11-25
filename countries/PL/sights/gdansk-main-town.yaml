@@ -1,0 +1,16 @@
+id: sight-pl-gdansk-main-town
+name: "Gdańsk Main Town and historic waterfront"
+location:
+  country_code: PL
+  latitude: 54.35
+  longitude: 18.654
+scores:
+  impact: 9.2
+  uniqueness: 9.1
+  significance: 9.0
+  experience: 9.1
+  depth: 8.9
+  categories:
+    architecture: 9.4
+    history: 9.3
+    photography: 9.3

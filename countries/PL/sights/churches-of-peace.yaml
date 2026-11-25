@@ -1,0 +1,15 @@
+id: sight-pl-churches-of-peace
+name: "Churches of Peace in Jawor and Świdnica"
+location:
+  country_code: PL
+  latitude: 50.848
+  longitude: 16.495
+scores:
+  impact: 9.0
+  uniqueness: 9.4
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.4
+    history: 9.3

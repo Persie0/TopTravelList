@@ -1,0 +1,15 @@
+id: sight-pl-royal-castle-warsaw
+name: "Royal Castle, Warsaw"
+location:
+  country_code: PL
+  latitude: 52.248
+  longitude: 21.015
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 9.2
+  experience: 8.9
+  depth: 8.8
+  categories:
+    architecture: 9.3
+    history: 9.4

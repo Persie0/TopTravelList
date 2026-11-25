@@ -1,0 +1,16 @@
+id: city-pl-gdansk
+name: "Gdańsk"
+location:
+  country_code: PL
+  latitude: 54.352
+  longitude: 18.6466
+scores:
+  impact: 9.2
+  uniqueness: 9.1
+  significance: 9.2
+  experience: 9.1
+  depth: 9.1
+  categories:
+    architecture: 9.4
+    history: 9.4
+    culture: 9.1

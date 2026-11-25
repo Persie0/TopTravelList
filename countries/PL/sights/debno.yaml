@@ -1,0 +1,15 @@
+id: sight-pl-debno
+name: "Church of the Archangel Michael, Dębno"
+location:
+  country_code: PL
+  latitude: 49.466667
+  longitude: 20.216667
+scores:
+  impact: null
+  uniqueness: 8.9
+  significance: 8.9
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.1
+    history: 9.1

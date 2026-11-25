@@ -1,0 +1,15 @@
+id: sight-pl-magura
+name: "Magura National Park"
+location:
+  country_code: PL
+  latitude: 49.52
+  longitude: 21.48
+scores:
+  impact: 8.2
+  uniqueness: 8.4
+  significance: 8.3
+  experience: 8.5
+  depth: 8.6
+  categories:
+    nature: 9.0
+    wildlife: 8.9

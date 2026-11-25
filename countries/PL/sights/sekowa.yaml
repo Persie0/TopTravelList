@@ -1,0 +1,15 @@
+id: sight-pl-sekowa
+name: "Church of St Philip and St James, Sękowa"
+location:
+  country_code: PL
+  latitude: 49.633333
+  longitude: 21.2
+scores:
+  impact: null
+  uniqueness: 8.6
+  significance: 8.9
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.1
+    history: 9.1

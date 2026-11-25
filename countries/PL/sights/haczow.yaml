@@ -1,0 +1,15 @@
+id: sight-pl-haczow
+name: "Church of the Assumption and Archangel Michael, Haczów"
+location:
+  country_code: PL
+  latitude: 49.7
+  longitude: 21.9
+scores:
+  impact: null
+  uniqueness: 8.9
+  significance: 8.9
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.1
+    history: 9.1

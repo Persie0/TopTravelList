@@ -1,0 +1,15 @@
+id: sight-pl-tarnowskie-gory-mine
+name: "Tarnowskie Góry historic mine and water management system"
+location:
+  country_code: PL
+  latitude: 50.42
+  longitude: 18.85
+scores:
+  impact: 8.7
+  uniqueness: 9.1
+  significance: 9.3
+  experience: 8.8
+  depth: 8.6
+  categories:
+    history: 9.4
+    architecture: 8.8

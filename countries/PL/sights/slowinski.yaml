@@ -1,0 +1,16 @@
+id: sight-pl-slowinski
+name: "Słowiński National Park"
+location:
+  country_code: PL
+  latitude: 54.71
+  longitude: 17.3
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 8.9
+  experience: 9.0
+  depth: 8.8
+  categories:
+    nature: 9.4
+    photography: 9.4
+    adventure: 9.0

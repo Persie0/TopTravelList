@@ -1,0 +1,15 @@
+id: sight-pl-jawor-church-of-peace
+name: "Church of Peace, Jawor"
+location:
+  country_code: PL
+  latitude: 51.054
+  longitude: 16.195
+scores:
+  impact: 8.8
+  uniqueness: 9.3
+  significance: 9.2
+  experience: 8.6
+  depth: 8.0
+  categories:
+    architecture: 9.4
+    history: 9.3

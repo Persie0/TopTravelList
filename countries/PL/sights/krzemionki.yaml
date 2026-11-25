@@ -1,0 +1,15 @@
+id: sight-pl-krzemionki
+name: "Krzemionki prehistoric striped flint mining region"
+location:
+  country_code: PL
+  latitude: 50.97
+  longitude: 21.5
+scores:
+  impact: 8.2
+  uniqueness: 9.1
+  significance: 9.3
+  experience: 8.4
+  depth: 8.4
+  categories:
+    history: 9.4
+    culture: 8.8

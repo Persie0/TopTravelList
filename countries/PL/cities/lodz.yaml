@@ -1,0 +1,16 @@
+id: city-pl-lodz
+name: "Łódź"
+location:
+  country_code: PL
+  latitude: 51.7592
+  longitude: 19.456
+scores:
+  impact: 8.4
+  uniqueness: 8.9
+  significance: 8.6
+  experience: 8.8
+  depth: 9.0
+  categories:
+    architecture: 9.1
+    culture: 9.0
+    history: 9.0

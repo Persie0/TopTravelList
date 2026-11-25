@@ -1,0 +1,16 @@
+id: sight-pl-table-mountains
+name: "Table Mountains National Park"
+location:
+  country_code: PL
+  latitude: 50.47
+  longitude: 16.32
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 8.7
+  experience: 9.0
+  depth: 8.8
+  categories:
+    nature: 9.3
+    adventure: 9.2
+    photography: 9.3

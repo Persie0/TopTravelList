@@ -1,0 +1,15 @@
+id: sight-pl-zabrze-coal-mines
+name: "Historical coal-mining complex in Zabrze"
+location:
+  country_code: PL
+  latitude: 50.31
+  longitude: 18.79
+scores:
+  impact: 8.5
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.8
+  depth: 8.8
+  categories:
+    history: 9.3
+    culture: 8.9

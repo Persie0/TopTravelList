@@ -1,0 +1,16 @@
+id: sight-pl-ojcow
+name: "Ojców National Park"
+location:
+  country_code: PL
+  latitude: 50.21
+  longitude: 19.83
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 8.5
+  experience: 8.9
+  depth: 8.5
+  categories:
+    nature: 9.2
+    photography: 9.2
+    history: 8.8
