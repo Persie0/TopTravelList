@@ -1,0 +1,15 @@
+id: sight-si-roman-wall
+name: "Plečnik Roman wall archaeological park"
+location:
+  country_code: SI
+  latitude: 46.045
+  longitude: 14.497
+scores:
+  impact: 7.9
+  uniqueness: 8.6
+  significance: 8.8
+  experience: 8.3
+  depth: 7.4
+  categories:
+    history: 9.0
+    architecture: 8.9

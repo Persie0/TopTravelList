@@ -1,0 +1,16 @@
+id: city-si-piran
+name: "Piran"
+location:
+  country_code: SI
+  latitude: 45.528
+  longitude: 13.568
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 8.7
+  experience: 8.9
+  depth: 8.1
+  categories:
+    architecture: 9.3
+    photography: 9.3
+    history: 9.0

@@ -1,0 +1,16 @@
+id: sight-si-fuzina-hills
+name: "Fužina Hills in Bohinj (tentative landscape)"
+location:
+  country_code: SI
+  latitude: 46.31
+  longitude: 13.91
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 8.8
+  experience: 8.8
+  depth: 9.0
+  categories:
+    nature: 9.2
+    culture: 9.1
+    photography: 9.2

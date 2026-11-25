@@ -1,0 +1,15 @@
+id: city-si-idrija
+name: "Idrija"
+location:
+  country_code: SI
+  latitude: 46.002
+  longitude: 14.03
+scores:
+  impact: 8.1
+  uniqueness: 8.7
+  significance: 9.0
+  experience: 8.4
+  depth: 8.2
+  categories:
+    history: 9.3
+    culture: 8.9

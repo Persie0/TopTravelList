@@ -1,0 +1,14 @@
+id: sight-si-franja-hospital
+name: "Franja Partisan Hospital"
+location:
+  country_code: SI
+  latitude: 46.153
+  longitude: 14.028
+scores:
+  impact: 8.3
+  uniqueness: 9.0
+  significance: 9.1
+  experience: null
+  depth: null
+  categories:
+    history: 9.3

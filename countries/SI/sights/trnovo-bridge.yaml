@@ -1,0 +1,14 @@
+id: sight-si-trnovo-bridge
+name: "Trnovo Bridge"
+location:
+  country_code: SI
+  latitude: 46.043
+  longitude: 14.502
+scores:
+  impact: 8.0
+  uniqueness: 8.5
+  significance: 8.7
+  experience: 8.4
+  depth: 7.1
+  categories:
+    architecture: 8.9

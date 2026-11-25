@@ -1,0 +1,16 @@
+id: sight-si-triglav-national-park
+name: "Triglav National Park"
+location:
+  country_code: SI
+  latitude: 46.35
+  longitude: 13.83
+scores:
+  impact: 9.4
+  uniqueness: 9.1
+  significance: 9.0
+  experience: 9.3
+  depth: 9.4
+  categories:
+    nature: 9.5
+    photography: 9.5
+    adventure: 9.4

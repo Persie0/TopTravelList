@@ -1,0 +1,15 @@
+id: sight-si-ljubljanica-axis
+name: "Plečnik Ljubljanica water axis"
+location:
+  country_code: SI
+  latitude: 46.05
+  longitude: 14.508
+scores:
+  impact: 8.8
+  uniqueness: 9.1
+  significance: 9.0
+  experience: 9.1
+  depth: 8.6
+  categories:
+    architecture: 9.4
+    photography: 9.1

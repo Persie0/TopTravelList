@@ -1,0 +1,16 @@
+id: sight-si-predjama-castle
+name: "Predjama Castle"
+location:
+  country_code: SI
+  latitude: 45.815
+  longitude: 14.128
+scores:
+  impact: 9.3
+  uniqueness: 9.5
+  significance: 8.9
+  experience: 8.9
+  depth: 8.2
+  categories:
+    architecture: 9.5
+    history: 9.0
+    photography: 9.5

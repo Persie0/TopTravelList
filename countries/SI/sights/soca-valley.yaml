@@ -1,0 +1,16 @@
+id: sight-si-soca-valley
+name: "Upper Soča Valley"
+location:
+  country_code: SI
+  latitude: 46.305
+  longitude: 13.65
+scores:
+  impact: 9.3
+  uniqueness: 9.2
+  significance: 8.8
+  experience: 9.3
+  depth: 9.3
+  categories:
+    nature: 9.5
+    photography: 9.5
+    adventure: 9.5

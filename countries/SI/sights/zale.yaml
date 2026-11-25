@@ -1,0 +1,15 @@
+id: sight-si-zale
+name: "Žale Garden of All Saints"
+location:
+  country_code: SI
+  latitude: 46.068
+  longitude: 14.527
+scores:
+  impact: 8.6
+  uniqueness: 9.0
+  significance: 9.0
+  experience: 8.4
+  depth: 8.0
+  categories:
+    architecture: 9.3
+    history: 9.0

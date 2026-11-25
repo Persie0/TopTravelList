@@ -1,0 +1,15 @@
+id: sight-si-zelenci
+name: "Zelenci Nature Reserve"
+location:
+  country_code: SI
+  latitude: 46.493
+  longitude: 13.737
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 8.4
+  experience: 8.6
+  depth: 7.7
+  categories:
+    nature: 9.1
+    photography: 9.2

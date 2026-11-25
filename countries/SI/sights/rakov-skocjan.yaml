@@ -1,0 +1,15 @@
+id: sight-si-rakov-skocjan
+name: "Rakov Škocjan karst valley"
+location:
+  country_code: SI
+  latitude: 45.789
+  longitude: 14.3
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 8.6
+  experience: 8.7
+  depth: 8.4
+  categories:
+    nature: 9.3
+    photography: 9.1
