@@ -1,0 +1,16 @@
+id: sight-af-minaret-jam
+name: "Minaret and Archaeological Remains of Jam"
+location:
+  country_code: AF
+  latitude: 34.3967
+  longitude: 64.5161
+scores:
+  impact: 9.0
+  uniqueness: 9.3
+  significance: 9.3
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.4
+    history: 9.3
+    photography: 9.1
