@@ -47,6 +47,7 @@
   - https://www.zambiatourism.com/destinations/national-parks/
   - https://www.zambiatourism.com/destinations/national-parks/south-luangwa-national-park/
   - https://mapcarta.com/South_Luangwa_National_Park
+  - https://www.zambiatourism.com/accommodation/south-luangwa/tafika-walking-trails/ — named walking camps and documented guided experience; https://www.zambiatourism.com/category/south-luangwa-national-parks/ — dated 2026 field sightings, not guaranteed. Accessed 2026-11-25.
 - Missing facts: Current conditions and complete claim-level verification.
 
 ### Worldwide peer comparisons
@@ -63,7 +64,7 @@
 - Depth: 9.4 — Varied river and woodland circuits.
 - Applicable categories: nature 9.5, wildlife 9.7, adventure 9.4.
 - Overall: 94.65/100.
-- High-score challenge: Impact, significance, experience and nature 9.5, wildlife 9.7 reflect documented wildlife density, river ecology and well-established mobile walking safaris; lower habitat and activity diversity than Okavango.
+- High-score challenge: 94.65 overall, impact/significance/experience/nature 9.5 and wildlife 9.7 retained for broad safari and established walking circuit; wildlife below Okavango 9.9, not all species guaranteed.
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide editorial rating, not independently fact-checked.
 - Verification still needed: precise site location where provisional, current access, remaining peer scores and individual claim-level evidence.
@@ -79,6 +80,7 @@
   - https://whc.unesco.org/en/tentativelists/6995/
   - https://www.mot.gov.zm/dnpw/?page_id=1726
   - https://www.zambiatourism.com/destinations/national-parks/lower-zambezi-national-park/
+  - https://www.zambiatourism.com/activities/lower-zambezi-national-park/ — canoe viewing of riverbank wildlife; https://www.zambiatourism.com/canoeing-impacted-by-water-levels-in-lower-zambezi/ — water-level variability. Accessed 2026-11-25.
 - Missing facts: Current conditions and complete claim-level verification.
 
 ### Worldwide peer comparisons
@@ -95,7 +97,7 @@
 - Depth: 9.3 — Multiple habitats and activities.
 - Applicable categories: nature 9.5, wildlife 9.6, adventure 9.4.
 - Overall: 94.10/100.
-- High-score challenge: Significance/nature 9.5 and wildlife 9.6 reflect riverine conservation and documented viewing opportunities, not guaranteed encounters or Zimbabwe park credit.
+- High-score challenge: 94.10 overall, significance/nature 9.5 and wildlife 9.6 reflect actual riverbank viewing and conservation, below Okavango wildlife 9.9 and South Luangwa 9.7; no credit for Mana Pools or guaranteed canoe route.
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide editorial rating, not independently fact-checked.
 - Verification still needed: precise site location where provisional, current access, remaining peer scores and individual claim-level evidence.
@@ -111,6 +113,7 @@
   - https://www.mot.gov.zm/dnpw/?page_id=1726
   - https://www.zambiatourism.com/destinations/national-parks/kafue-national-park/
   - https://mapcarta.com/Kafue_National_Park
+  - https://www.africanparks.org/the-parks/kafue/visit-kafue — manager documents game drives, walks and birding across multiple sectors; https://www.zambiatourism.com/destinations/national-parks/kafue-national-park/ — seasonal Busanga viewing. Accessed 2026-11-25.
 - Missing facts: Current conditions and complete claim-level verification.
 
 ### Worldwide peer comparisons
@@ -127,7 +130,7 @@
 - Depth: 9.4 — Multiple distinct park circuits.
 - Applicable categories: nature 9.5, wildlife 9.5.
 - Overall: 92.90/100.
-- High-score challenge: Significance, nature and wildlife 9.5 reflect immense varied habitats and threatened species; visitor experience below Okavango, access and sightings variable.
+- High-score challenge: 92.90 overall, significance/nature/wildlife 9.5 retained based on documented broad habitat and actual guided safari opportunities; below South Luangwa wildlife 9.7 and Okavango 9.9.
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide editorial rating, not independently fact-checked.
 - Verification still needed: precise site location where provisional, current access, remaining peer scores and individual claim-level evidence.
@@ -144,6 +147,7 @@
   - https://www.keybiodiversityareas.org/en/site/factsheet/7201
   - https://www.welcometozambia.com/national_parks/kasanka-national-park
   - https://www.zambia.travel/kasankanp.html
+  - https://kasanka.com/ — park manager describes seasonal bat spectacle; https://www.zambiatourism.com/everwild-confirms-operations-for-2026-kasanka-bat-migration-season/ — dated approved camp and bat hide operations; https://everwild.travel/kasanka-bat-migration/ — multiple guided viewing locations. Accessed 2026-11-25.
 - Missing facts: Current conditions and complete claim-level verification.
 
 ### Worldwide peer comparisons
@@ -160,7 +164,7 @@
 - Depth: 8.3 — Compact park, seasonal headline attraction.
 - Applicable categories: nature 9.5, wildlife 9.8, photography 9.4.
 - Overall: 92.65/100.
-- High-score challenge: Uniqueness 9.7, significance/nature 9.5, wildlife 9.8 reflect extraordinary seasonal mammal aggregation; not a year-round spectacle or greater taxonomic breadth than Okavango.
+- High-score challenge: 92.65 overall, uniqueness 9.7 and wildlife 9.8 retained for unusual seasonal mass bat aggregation from dedicated hides; below Okavango wildlife 9.9 for breadth, not a year-round or guaranteed sighting. Nature/significance 9.5 recognize specialized ecosystem.
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide editorial rating, not independently fact-checked.
 - Verification still needed: precise site location where provisional, current access, remaining peer scores and individual claim-level evidence.
@@ -175,6 +179,7 @@
 - Sources (2026-11-25; identity, heritage, location and/or visitor scope; full independent verification incomplete):
   - https://whc.unesco.org/en/tentativelists/6989/
   - https://www.africanparks.org/the-parks/bangweulu/visit-bangweulu
+  - https://www.africanparks.org/the-parks/bangweulu/visit-bangweulu — manager describes seasonal shoebill observation, black lechwe herds, boat trips and variable sightings. Accessed 2026-11-25.
 - Missing facts: Current conditions and complete claim-level verification.
 
 ### Worldwide peer comparisons
@@ -191,7 +196,7 @@
 - Depth: 8.7 — Varied wetland routes but season-dependent.
 - Applicable categories: nature 9.5, wildlife 9.5.
 - Overall: 91.70/100.
-- High-score challenge: Significance, nature and wildlife 9.5 reflect exceptional wetland ecology and threatened or restricted-range fauna; no encounter guarantees.
+- High-score challenge: 91.70 overall, significance/nature/wildlife 9.5 supported by documented seasonal viewing of restricted-range black lechwe and shoebill; below Okavango 9.9 and Djoudj 9.6, with no encounter guarantee.
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide editorial rating, not independently fact-checked.
 - Verification still needed: precise site location where provisional, current access, remaining peer scores and individual claim-level evidence.
@@ -207,6 +212,7 @@
   - https://www.mot.gov.zm/dnpw/?page_id=1726
   - https://www.zambiatourism.com/destinations/national-parks/north-luangwa-national-park/
   - https://mapcarta.com/North_Luangwa_National_Park
+  - https://northluangwa.org/tourism/ — manager describes walking, self-drive and approved routes; https://northluangwa.org/landscape/ — limits on game drives and walking sectors. Accessed 2026-11-25.
 - Missing facts: Current conditions and complete claim-level verification.
 
 ### Worldwide peer comparisons
@@ -223,7 +229,7 @@
 - Depth: 8.8 — Varied approved routes, smaller visitor network than South Luangwa.
 - Applicable categories: nature 9.3, wildlife 9.4, adventure 9.0.
 - Overall: 90.15/100.
-- High-score challenge: Not applicable.
+- High-score challenge: 90.15 reflects documented low-density walking safari and distinct escarpment landscapes, narrower visitor network than South Luangwa; no access to protection zones or guaranteed rhino encounters.
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide editorial rating, not independently fact-checked.
 - Verification still needed: precise site location where provisional, current access, remaining peer scores and individual claim-level evidence.
@@ -239,6 +245,7 @@
   - https://www.zambiatourism.com/destinations/national-parks/liuwa-plains-national-park/
   - https://mapcarta.com/Liuwa_Plain_National_Park_R10670775
   - https://www.africanparks.org/visit-parks
+  - https://visitliuwa.org/ — manager describes large seasonal wildebeest migration, guided drives and self-drive circuit. Accessed 2026-11-25.
 - Missing facts: Current conditions and complete claim-level verification.
 
 ### Worldwide peer comparisons
@@ -255,7 +262,7 @@
 - Depth: 8.7 — Several wildlife circuits, season-dependent.
 - Applicable categories: nature 9.3, wildlife 9.4.
 - Overall: 91.00/100.
-- High-score challenge: Not applicable.
+- High-score challenge: 91.00 justified by migration and open seasonal floodplain with documented guided circuits; narrower viewing breadth and seasonal constraints than Okavango. Wildlife 9.4 remains below Kasanka and South Luangwa.
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide editorial rating, not independently fact-checked.
 - Verification still needed: precise site location where provisional, current access, remaining peer scores and individual claim-level evidence.
@@ -448,15 +455,17 @@
 ## sight-zm-mwela-rock-paintings — Mwela Rock Paintings — 2026-11-25
 
 - YAML: [source](../../../countries/ZM/sights/mwela-rock-paintings.yaml)
-- Action: new
+- Action: second-pass reassessment; previous decision in [verification history](verification-2026-11-25.md)
 - Precise subject: National monument with over 1000 recorded paintings; no assumption all shelters or paintings are viewable.
 - Location check: -10.198087, 31.248114; representative point, exact entrance not verified.
-- Evidence status: **unassessed**
+- Evidence status: **source-linked-unverified**
 - Sources (2026-11-25; identity, heritage, location and/or visitor scope; full independent verification incomplete):
   - https://whc.unesco.org/en/tentativelists/6998/
   - https://www.zambiatourism.com/monuments/
   - https://zambia.travel/northerncircuit.html
-- Missing facts: Normal permitted visitor experience or accessible scope insufficiently documented.
+  - https://www.lonelyplanet.com/points-of-interest/kasama-rock-art/1294969 — entry kiosk and guided visits, important collection, visual quality below stronger southern African rock-art sites.
+  - https://www.atlasobscura.com/places/mwela-rock-art-paintings — caretaker-led visits and multiple panels; older report, no current access guarantee. Both checked 2026-11-25.
+- Missing facts: exact current panel condition, route and permission.
 
 ### Worldwide peer comparisons
 - [Mogao Caves (CN)](../../../countries/CN/sights/mogao-caves.yaml): 9.8/9.9/9.9/9.5/9.4; exceptional preserved art and interpretation.
@@ -465,16 +474,16 @@
 - [Sehlabathebe (LS)](../../../countries/LS/sights/sehlabathebe-national-park.yaml): 9.1/9.0/9.3/8.6/8.8; regional landscape with rock art.
 
 ### Scoring decisions
-- Impact: null — Accessible panel condition unclear.
+- Impact: 8.1 — documented painted outcrops and several motifs; smaller visual scale and less striking preservation than elite cave-art peers.
 - Uniqueness: 9.3 — Unusually dense regional rock-art record.
 - Significance: 9.3 — Major archaeological and cultural heritage.
-- Experience: null — Permitted guided circuit not verified.
-- Depth: null — Accessible panel diversity unknown.
+- Experience: 8.2 — documented caretaker-led walks and entry kiosk, not every shelter.
+- Depth: 8.1 — several panels and archaeological context, not all recorded paintings.
 - Applicable categories: history 9.4, culture 9.3.
-- Overall: unranked.
+- Overall: 86.55/100.
 - High-score challenge: Not applicable.
 - Approved 10 registry: none.
-- Final decision: Partial assessment retained; no total.
+- Final decision: Provisional complete rating for documented guided circuit.
 - Verification still needed: precise site location where provisional, current access, remaining peer scores and individual claim-level evidence.
 
 ## sight-zm-southern-africa-liberation-heritage — Southern Africa Liberation Heritage Sites in Zambia — 2026-11-25
@@ -538,7 +547,101 @@
 - Final decision: Partial assessment retained; no total.
 - Verification still needed: precise site location where provisional, current access, remaining peer scores and individual claim-level evidence.
 
+## sight-zm-livingstone-museum — Livingstone Museum — 2026-11-25
+
+- YAML: [source](../../../countries/ZM/sights/livingstone-museum.yaml)
+- Action: new
+- Precise subject: Museum building and public galleries, not Livingstone town or Victoria Falls.
+- Location check: -17.84360, 25.85510, named museum coordinate from Open Africa; representative point, not exact entrance.
+- Evidence status: **source-linked-unverified**
+- Sources (accessed 2026-11-25):
+  - https://livingstonemuseum.org/ — museum identifies 1934 founding and national heritage collections.
+  - https://nmb.co.zm/livingstone-museum/ — National Museums Board lists five permanent galleries.
+  - https://openafrica.org/participant/livingstone-museum/ — independent listing gives GPS and describes gallery visitor scope.
+- Missing facts: present displays, exact entrance and full independent claim verification.
+
+### Worldwide peer comparisons
+- [National Museum of Korea (KR)](../../../countries/KR/sights/national-museum-of-korea.yaml): 9.1/9.3/9.4/9.3/9.6; wider established collections and visitor breadth.
+- [National Museum of Cambodia (KH)](../../../countries/KH/sights/national-museum-cambodia.yaml): 8.8/9.1/9.3/9.1/8.8; stronger archaeological collection and building.
+- [Museum of the Bamoun Kings (CM)](../../../countries/CM/sights/museum-bamoun-kings.yaml): 8.8/9.1/9.0/8.8/8.7; more distinctive architecture and royal heritage.
+- [National Museum of the DRC (CD)](../../../countries/CD/sights/national-museum-drc.yaml): 7.9/8.5/8.9/8.4/8.3; comparable national collections.
+
+### Scoring decisions
+- Impact: 8.0 — substantial museum exhibits rather than iconic architecture.
+- Uniqueness: 8.5 — distinct Zambian archaeology and Livingstone collection, comparable national museums elsewhere.
+- Significance: 8.9 — oldest national museum with documented historical and cultural collections.
+- Experience: 8.5 — established public gallery visit.
+- Depth: 8.5 — five permanent galleries across distinct disciplines, no credit for inaccessible storage.
+- Applicable categories: history 9.1, culture 9.0.
+- Overall: 84.30/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: provisional editorial score.
+- Verification still needed: current visitor scope.
+
+## sight-zm-luangwa-karoo-fossil-sites — Luangwa Basin Karoo Vertebrate Fossil Sites — 2026-11-25
+
+- YAML: [source](../../../countries/ZM/sights/luangwa-karoo-fossil-sites.yaml)
+- Action: new
+- Precise subject: Tentative property, North Luangwa region; Permian vertebrate fossils of the Madumabisa Mudstone; not a public excavation attraction or museum.
+- Location check: -12.45, 32.05, rounded conditional conversion of nomination X/Y 396389, 8623038 assuming WGS84 UTM 36S (EPSG:32736), calculated using pyproj. CRS not specified by nomination; plausible regional marker only, NOT verified property location or entrance. Paper documents Madumabisa localities near southern North Luangwa; candidate regional point is consistent with this geography, not independently verified nominated boundaries.
+- Evidence status: **unassessed**
+- Sources (accessed 2026-11-25):
+  - https://whc.unesco.org/en/tentativelists/6996/ — tentative property identity, scientific context and unlabeled projected coordinate.
+  - https://www.frontiersin.org/journals/ecology-and-evolution/articles/10.3389/fevo.2021.685244/full — independent regional geological research.
+- Missing facts: original CRS, nominated boundaries, visitor permissions and visitor-visible scope.
+
+### Worldwide peer comparisons
+- Ischigualasto Provincial Park (AR): internationally significant fossil landscape with established interpretation, unlike research-only localities.
+- Messel Pit (DE): world-class fossil record and regulated visitor interpretation.
+- Dinosaur Provincial Park (CA): established interpreted fossil landscape.
+- [Kalambo Falls (ZM)](../../../countries/ZM/sights/kalambo-falls.yaml): 9.2/9.1/9.4/8.4/8.0; different archaeological/geological heritage with documented public viewpoint; no score transfer.
+
+### Scoring decisions
+- Impact: null — visitor-visible fossil exposure not established.
+- Uniqueness: null — quantitative worldwide comparative review incomplete.
+- Significance: null — scientific importance documented but full comparative scoring not completed.
+- Experience: null — research access does not establish ordinary public visitation.
+- Depth: null — no authorized visitor itinerary documented.
+- Applicable categories: none assessed.
+- Overall: unranked.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: inventory-only provisional regional marker; no excavation access assumed.
+- Verification still needed: authoritative coordinate CRS, boundary and visitor information.
+
+## sight-zm-sitwe-ntawere-fossil-localities — Sitwe–Ntawere Karoo Localities — 2026-11-25
+
+- YAML: [source](../../../countries/ZM/sights/sitwe-ntawere-fossil-localities.yaml)
+- Action: new
+- Precise subject: Tentative property, Sitwe area; Middle Triassic vertebrate fossil localities; not a public excavation attraction or museum.
+- Location check: -10.83, 33.19, rounded conditional conversion of nomination X/Y 520501, 8803065 assuming WGS84 UTM 36S (EPSG:32736), calculated using pyproj. CRS not specified by nomination; plausible regional marker only, NOT verified property location or entrance. Peer-reviewed fieldwork in Sitwe and the Luwumbu basin establishes regional identity and Ntawere exposures, not exact nominated boundaries.
+- Evidence status: **unassessed**
+- Sources (accessed 2026-11-25):
+  - https://whc.unesco.org/en/tentativelists/6999/ — tentative property identity, scientific context and unlabeled projected coordinate.
+  - https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0269209 — independent regional geological research.
+- Missing facts: original CRS, nominated boundaries, visitor permissions and visitor-visible scope.
+
+### Worldwide peer comparisons
+- Ischigualasto Provincial Park (AR): internationally significant fossil landscape with established interpretation, unlike research-only localities.
+- Messel Pit (DE): world-class fossil record and regulated visitor interpretation.
+- Dinosaur Provincial Park (CA): established interpreted fossil landscape.
+- [Kalambo Falls (ZM)](../../../countries/ZM/sights/kalambo-falls.yaml): 9.2/9.1/9.4/8.4/8.0; different archaeological/geological heritage with documented public viewpoint; no score transfer.
+
+### Scoring decisions
+- Impact: null — visitor-visible fossil exposure not established.
+- Uniqueness: null — quantitative worldwide comparative review incomplete.
+- Significance: null — scientific importance documented but full comparative scoring not completed.
+- Experience: null — research access does not establish ordinary public visitation.
+- Depth: null — no authorized visitor itinerary documented.
+- Applicable categories: none assessed.
+- Overall: unranked.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: inventory-only provisional regional marker; no excavation access assumed.
+- Verification still needed: authoritative coordinate CRS, boundary and visitor information.
+
 ## Inventory coverage and backlog
 
-[UNESCO country inventory](https://whc.unesco.org/en/statesparties/zm/) lists one inscribed and fourteen tentative properties, thirteen submitted March 2026. Twelve tentative properties represented. Two fossil localities outstanding: [Luangwa Basin Madumabisa](https://whc.unesco.org/en/tentativelists/6996/) and [Sitwe–Ntawere](https://whc.unesco.org/en/tentativelists/6999/) publish projected X/Y without an identified CRS, so no invented WGS84 point. Individual liberation heritage components, Kafue Flats visitor parks, Livingstone and Lusaka museums, additional waterfalls, Lake Kariba, Tanganyika, and additional towns remain backlog. No exhaustive national inventory claimed.
+[UNESCO country inventory](https://whc.unesco.org/en/statesparties/zm/) lists one inscribed and fourteen tentative properties, thirteen submitted March 2026. All fourteen tentative properties now inventoried, with two fossil localities explicitly unassessed and provisional regional markers based on conditional UTM zone 36S conversions; the original CRS and nominated boundaries remain unverified. Individual liberation heritage components, Kafue Flats visitor parks, additional Livingstone and Lusaka museums, additional waterfalls, Lake Kariba, Tanganyika, and additional towns remain backlog. No exhaustive national inventory claimed.
 
