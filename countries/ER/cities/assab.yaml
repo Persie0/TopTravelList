@@ -2,8 +2,8 @@ id: city-er-assab
 name: "Assab"
 location:
   country_code: ER
-  latitude: 13.01
-  longitude: 42.74
+  latitude: 13.009
+  longitude: 42.739
 scores:
   impact: null
   uniqueness: 7.7
