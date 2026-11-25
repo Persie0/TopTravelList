@@ -1,0 +1,17 @@
+id: city-bs-nassau
+name: "Nassau"
+location:
+  country_code: BS
+  latitude: 25.078
+  longitude: -77.338
+scores:
+  impact: 8.1
+  uniqueness: 8.3
+  significance: 8.6
+  experience: 8.4
+  depth: 8.3
+  categories:
+    history: 8.8
+    culture: 8.8
+    architecture: 8.4
+    food: 8.6

@@ -1,0 +1,16 @@
+id: sight-bs-lucayan-national-park
+name: "Lucayan National Park"
+location:
+  country_code: BS
+  latitude: 26.603
+  longitude: -78.405
+scores:
+  impact: 8.5
+  uniqueness: 8.7
+  significance: 8.5
+  experience: 8.6
+  depth: 8.3
+  categories:
+    nature: 9.1
+    photography: 9.0
+    adventure: 8.7

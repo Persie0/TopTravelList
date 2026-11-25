@@ -1,0 +1,16 @@
+id: sight-bs-pink-sands-beach
+name: "Pink Sands Beach"
+location:
+  country_code: BS
+  latitude: 25.503
+  longitude: -76.626
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 7.3
+  experience: 9.0
+  depth: 7.6
+  categories:
+    beaches: 9.4
+    photography: 9.3
+    relaxation: 9.3
