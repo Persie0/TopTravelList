@@ -1,0 +1,16 @@
+id: sight-no-vega-archipelago
+name: "Vegaøyan – Vega Archipelago"
+location:
+  country_code: NO
+  latitude: 65.68
+  longitude: 11.96
+scores:
+  impact: 8.6
+  uniqueness: 9.2
+  significance: 9.0
+  experience: 8.4
+  depth: 8.7
+  categories:
+    nature: 9.2
+    culture: 9.1
+    wildlife: 9

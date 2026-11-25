@@ -1,0 +1,15 @@
+id: city-no-geiranger
+name: "Geiranger"
+location:
+  country_code: NO
+  latitude: 62.101
+  longitude: 7.207
+scores:
+  impact: 8.5
+  uniqueness: 8.2
+  significance: 7.6
+  experience: 8.3
+  depth: 7.0
+  categories:
+    photography: 8.9
+    relaxation: 8.4

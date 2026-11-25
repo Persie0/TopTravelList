@@ -1,0 +1,14 @@
+id: sight-no-raipas-struve-station
+name: "Raipas (Lille-Reipas) Struve Geodetic Arc Station"
+location:
+  country_code: NO
+  latitude: 69.938611
+  longitude: 23.360278
+scores:
+  impact: 6.8
+  uniqueness: 8.1
+  significance: 8.6
+  experience: null
+  depth: null
+  categories:
+    history: 8.6

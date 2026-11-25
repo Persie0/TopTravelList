@@ -1,0 +1,16 @@
+id: sight-no-urnes-stave-church
+name: "Urnes Stave Church"
+location:
+  country_code: NO
+  latitude: 61.298
+  longitude: 7.323
+scores:
+  impact: 8.8
+  uniqueness: 9.3
+  significance: 9.3
+  experience: 8.3
+  depth: 7.6
+  categories:
+    architecture: 9.5
+    history: 9.3
+    photography: 8.9

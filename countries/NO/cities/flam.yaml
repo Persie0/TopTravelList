@@ -1,0 +1,16 @@
+id: city-no-flam
+name: "Flåm"
+location:
+  country_code: NO
+  latitude: 60.861
+  longitude: 7.115
+scores:
+  impact: 8.3
+  uniqueness: 8.2
+  significance: 7.7
+  experience: 8.3
+  depth: 7.2
+  categories:
+    photography: 8.8
+    history: 8
+    relaxation: 8.5

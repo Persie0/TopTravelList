@@ -1,0 +1,15 @@
+id: city-no-bodo
+name: "Bodø"
+location:
+  country_code: NO
+  latitude: 67.28
+  longitude: 14.405
+scores:
+  impact: 7.8
+  uniqueness: 8.0
+  significance: 7.9
+  experience: 8.4
+  depth: 8.2
+  categories:
+    culture: 8.6
+    architecture: 8.2

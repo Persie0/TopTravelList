@@ -1,0 +1,16 @@
+id: sight-no-naeroyfjord
+name: "Nærøyfjord (West Norwegian Fjords)"
+location:
+  country_code: NO
+  latitude: 60.94
+  longitude: 6.86
+scores:
+  impact: 9.6
+  uniqueness: 9.5
+  significance: 9.3
+  experience: 9.4
+  depth: 9.0
+  categories:
+    nature: 9.7
+    photography: 9.7
+    adventure: 9.2

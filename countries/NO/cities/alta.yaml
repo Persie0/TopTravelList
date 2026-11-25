@@ -1,0 +1,15 @@
+id: city-no-alta
+name: "Alta"
+location:
+  country_code: NO
+  latitude: 69.968
+  longitude: 23.271
+scores:
+  impact: 7.7
+  uniqueness: 8.1
+  significance: 8.1
+  experience: 8.2
+  depth: 7.8
+  categories:
+    culture: 8.5
+    history: 8.5

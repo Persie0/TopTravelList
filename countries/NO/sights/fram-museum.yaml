@@ -1,0 +1,15 @@
+id: sight-no-fram-museum
+name: "Fram Museum"
+location:
+  country_code: NO
+  latitude: 59.904
+  longitude: 10.699
+scores:
+  impact: 8.8
+  uniqueness: 9.3
+  significance: 9.1
+  experience: 9.0
+  depth: 8.8
+  categories:
+    history: 9.3
+    culture: 9

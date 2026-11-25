@@ -1,0 +1,15 @@
+id: sight-no-voringsfossen
+name: "Vøringsfossen"
+location:
+  country_code: NO
+  latitude: 60.427
+  longitude: 7.251
+scores:
+  impact: 9.1
+  uniqueness: 8.8
+  significance: 8.3
+  experience: 8.8
+  depth: 7.6
+  categories:
+    nature: 9.2
+    photography: 9.4

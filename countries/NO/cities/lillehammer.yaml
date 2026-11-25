@@ -1,0 +1,16 @@
+id: city-no-lillehammer
+name: "Lillehammer"
+location:
+  country_code: NO
+  latitude: 61.115
+  longitude: 10.466
+scores:
+  impact: 8.0
+  uniqueness: 8.2
+  significance: 8.2
+  experience: 8.5
+  depth: 8.0
+  categories:
+    culture: 8.6
+    history: 8.5
+    adventure: 8.5

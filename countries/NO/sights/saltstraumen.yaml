@@ -1,0 +1,15 @@
+id: sight-no-saltstraumen
+name: "Saltstraumen"
+location:
+  country_code: NO
+  latitude: 67.233
+  longitude: 14.617
+scores:
+  impact: 8.7
+  uniqueness: 9.2
+  significance: 8.5
+  experience: 8.5
+  depth: 7.6
+  categories:
+    nature: 9.2
+    photography: 9

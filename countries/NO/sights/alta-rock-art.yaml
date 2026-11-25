@@ -1,0 +1,15 @@
+id: sight-no-alta-rock-art
+name: "Rock Art of Alta"
+location:
+  country_code: NO
+  latitude: 69.946
+  longitude: 23.188
+scores:
+  impact: 8.5
+  uniqueness: 9.1
+  significance: 9.3
+  experience: 8.6
+  depth: 8.5
+  categories:
+    history: 9.4
+    culture: 9
