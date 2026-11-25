@@ -1,0 +1,15 @@
+id: sight-rw-musanze-caves
+name: "Musanze Caves"
+location:
+  country_code: RW
+  latitude: -1.5030
+  longitude: 29.6050
+scores:
+  impact: 8.1
+  uniqueness: 8.2
+  significance: 7.5
+  experience: 8.2
+  depth: 7.0
+  categories:
+    nature: 8.6
+    adventure: 8.4

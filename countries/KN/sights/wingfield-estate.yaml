@@ -1,0 +1,15 @@
+id: sight-kn-wingfield-estate
+name: "Wingfield Estate"
+location:
+  country_code: KN
+  latitude: 17.324
+  longitude: -62.797
+scores:
+  impact: 7.6
+  uniqueness: 8.5
+  significance: 8.6
+  experience: 8.0
+  depth: 7.5
+  categories:
+    history: 9.1
+    culture: 8.6

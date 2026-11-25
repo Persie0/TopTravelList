@@ -1,0 +1,16 @@
+id: city-fi-helsinki
+name: "Helsinki"
+location:
+  country_code: FI
+  latitude: 60.1699
+  longitude: 24.9384
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 8.8
+  experience: 9.0
+  depth: 9.2
+  categories:
+    architecture: 9.2
+    culture: 9.1
+    food: 8.6

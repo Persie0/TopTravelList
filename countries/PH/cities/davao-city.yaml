@@ -1,0 +1,15 @@
+id: city-ph-davao-city
+name: "Davao City"
+location:
+  country_code: PH
+  latitude: 7.1907
+  longitude: 125.4553
+scores:
+  impact: 7.2
+  uniqueness: 7.4
+  significance: 7.5
+  experience: 7.8
+  depth: 8.0
+  categories:
+    food: 8.1
+    culture: 7.9

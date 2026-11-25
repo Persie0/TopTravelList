@@ -1,0 +1,15 @@
+id: sight-ag-dickenson-bay
+name: "Dickenson Bay"
+location:
+  country_code: AG
+  latitude: 17.158
+  longitude: -61.849
+scores:
+  impact: 8.7
+  uniqueness: 7.8
+  significance: 5.8
+  experience: 9.0
+  depth: 7.9
+  categories:
+    beaches: 9.0
+    relaxation: 9.1

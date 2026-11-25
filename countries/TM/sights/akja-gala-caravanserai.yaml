@@ -1,0 +1,14 @@
+id: sight-tm-akja-gala-caravanserai
+name: "Akja Gala Caravanserai"
+location:
+  country_code: TM
+  latitude: 38.088692
+  longitude: 62.618964
+scores:
+  impact: null
+  uniqueness: 8.3
+  significance: 8.9
+  experience: null
+  depth: null
+  categories:
+    history: 9.1

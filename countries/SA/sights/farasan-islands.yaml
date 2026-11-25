@@ -1,0 +1,17 @@
+id: sight-sa-farasan-islands
+name: "Farasan Islands Protected Area"
+location:
+  country_code: SA
+  latitude: 16.71
+  longitude: 42.11
+scores:
+  impact: 8.5
+  uniqueness: 8.4
+  significance: 8.2
+  experience: 8.2
+  depth: 8.3
+  categories:
+    nature: 8.7
+    beaches: 8.6
+    wildlife: 8.5
+    adventure: 8.4

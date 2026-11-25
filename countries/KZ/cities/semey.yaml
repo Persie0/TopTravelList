@@ -1,0 +1,15 @@
+id: city-kz-semey
+name: "Semey"
+location:
+  country_code: KZ
+  latitude: 50.411
+  longitude: 80.227
+scores:
+  impact: 7.1
+  uniqueness: 7.6
+  significance: 8.0
+  experience: 7.6
+  depth: 7.6
+  categories:
+    history: 8.5
+    culture: 8.3

@@ -1,0 +1,16 @@
+id: sight-dk-frederiksborg
+name: "Frederiksborg Castle and Gardens"
+location:
+  country_code: DK
+  latitude: 55.935
+  longitude: 12.301
+scores:
+  impact: 9.3
+  uniqueness: 9.1
+  significance: 9.1
+  experience: 9.2
+  depth: 9.0
+  categories:
+    architecture: 9.5
+    history: 9.3
+    photography: 9.4

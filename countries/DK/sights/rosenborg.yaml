@@ -1,0 +1,16 @@
+id: sight-dk-rosenborg
+name: "Rosenborg Castle"
+location:
+  country_code: DK
+  latitude: 55.686
+  longitude: 12.577
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 8.9
+  experience: 8.7
+  depth: 8.3
+  categories:
+    architecture: 9.1
+    history: 9.2
+    culture: 9

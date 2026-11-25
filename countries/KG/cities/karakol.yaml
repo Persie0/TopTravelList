@@ -1,0 +1,16 @@
+id: city-kg-karakol
+name: "Karakol"
+location:
+  country_code: KG
+  latitude: 42.4907
+  longitude: 78.3936
+scores:
+  impact: 7.7
+  uniqueness: 8.1
+  significance: 7.7
+  experience: 8.2
+  depth: 7.6
+  categories:
+    culture: 8.5
+    architecture: 8.1
+    food: 8.3

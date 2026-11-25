@@ -1,0 +1,15 @@
+id: sight-lv-gutmanis-cave
+name: "Gūtmanis Cave"
+location:
+  country_code: LV
+  latitude: 57.176
+  longitude: 24.847
+scores:
+  impact: 7.6
+  uniqueness: 7.8
+  significance: 7.7
+  experience: 7.9
+  depth: 6.7
+  categories:
+    nature: 8
+    history: 8.2

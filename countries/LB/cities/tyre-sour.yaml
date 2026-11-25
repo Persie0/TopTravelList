@@ -1,0 +1,15 @@
+id: city-lb-tyre-sour
+name: "Tyre (Sour)"
+location:
+  country_code: LB
+  latitude: 33.27
+  longitude: 35.203
+scores:
+  impact: 8.1
+  uniqueness: 8.7
+  significance: 8.9
+  experience: null
+  depth: 8.0
+  categories:
+    history: 9.3
+    culture: 8.8

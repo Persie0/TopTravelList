@@ -1,0 +1,15 @@
+id: sight-rw-kandt-house-museum
+name: "Kandt House Museum"
+location:
+  country_code: RW
+  latitude: -1.9510
+  longitude: 30.0520
+scores:
+  impact: 7.0
+  uniqueness: 7.8
+  significance: 8.3
+  experience: 7.8
+  depth: 7.0
+  categories:
+    history: 8.7
+    culture: 8.2

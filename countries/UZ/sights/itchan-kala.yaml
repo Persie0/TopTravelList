@@ -1,0 +1,17 @@
+id: sight-uz-itchan-kala
+name: "Itchan Kala"
+location:
+  country_code: UZ
+  latitude: 41.378088
+  longitude: 60.360253
+scores:
+  impact: 9.4
+  uniqueness: 9.6
+  significance: 9.4
+  experience: 9.5
+  depth: 9.4
+  categories:
+    architecture: 9.6
+    history: 9.5
+    culture: 9.4
+    photography: 9.6

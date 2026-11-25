@@ -1,0 +1,16 @@
+id: city-ag-falmouth
+name: "Falmouth"
+location:
+  country_code: AG
+  latitude: 17.028
+  longitude: -61.781
+scores:
+  impact: 7.4
+  uniqueness: 7.9
+  significance: 7.4
+  experience: 8.1
+  depth: 6.8
+  categories:
+    photography: 8.4
+    culture: 8.2
+    history: 8.1

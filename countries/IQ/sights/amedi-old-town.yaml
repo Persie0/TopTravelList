@@ -1,0 +1,16 @@
+id: sight-iq-amedi-old-town
+name: "Amedy Historic Town"
+location:
+  country_code: IQ
+  latitude: 37.092
+  longitude: 43.49
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 8.5
+  experience: 8.0
+  depth: 7.6
+  categories:
+    architecture: 8.8
+    history: 8.7
+    photography: 9.0

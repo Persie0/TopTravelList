@@ -1,0 +1,15 @@
+id: sight-vc-layou-petroglyph-park
+name: "Layou Petroglyph Park"
+location:
+  country_code: VC
+  latitude: 13.207
+  longitude: -61.262
+scores:
+  impact: 7.4
+  uniqueness: 8.7
+  significance: 8.7
+  experience: 8.1
+  depth: 6.8
+  categories:
+    history: 9.2
+    culture: 9.1

@@ -1,0 +1,15 @@
+id: city-lt-kedainiai
+name: "Kėdainiai"
+location:
+  country_code: LT
+  latitude: 55.287
+  longitude: 23.974
+scores:
+  impact: 7.8
+  uniqueness: 8.0
+  significance: 8.0
+  experience: 8.0
+  depth: 7.3
+  categories:
+    architecture: 8.6
+    history: 8.5

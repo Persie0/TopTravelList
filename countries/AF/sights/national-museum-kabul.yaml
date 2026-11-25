@@ -1,0 +1,15 @@
+id: sight-af-national-museum-kabul
+name: "National Museum of Afghanistan"
+location:
+  country_code: AF
+  latitude: 34.467
+  longitude: 69.119
+scores:
+  impact: 8.0
+  uniqueness: 8.6
+  significance: 9.1
+  experience: 8.1
+  depth: 8.4
+  categories:
+    history: 9.2
+    culture: 8.8

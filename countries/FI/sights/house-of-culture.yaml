@@ -1,0 +1,15 @@
+id: sight-fi-house-of-culture
+name: "House of Culture, Helsinki"
+location:
+  country_code: FI
+  latitude: 60.188265
+  longitude: 24.944176
+scores:
+  impact: 8.2
+  uniqueness: 8.6
+  significance: 8.8
+  experience: 8.3
+  depth: 7.5
+  categories:
+    architecture: 8.8
+    history: 8.8

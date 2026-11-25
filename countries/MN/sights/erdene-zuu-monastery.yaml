@@ -1,0 +1,16 @@
+id: sight-mn-erdene-zuu-monastery
+name: "Erdene Zuu Monastery"
+location:
+  country_code: MN
+  latitude: 47.202
+  longitude: 102.844
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 9.1
+  experience: 8.8
+  depth: 8.2
+  categories:
+    architecture: 9.0
+    history: 9.3
+    culture: 9.2

@@ -2,7 +2,7 @@
 
 # North Korea (KP) — Sights & attractions ranking
 
-**5 ranked** · **17 unassessed** · **22 total** · Worldwide scoring **v2**
+**7 ranked** · **15 unassessed** · **22 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (5)
+## Complete ranked list (7)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -18,9 +18,11 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 2 | [Pyongyang Metro (Approved Visitor Stations)](sights/pyongyang-metro.yaml) | Attraction | **81.25** | **Architecture 8.9**, **Culture 8.1** | 8.3 / 8.7 / 7.7 / 8.0 / 7.2 | [39.012, 125.734](https://www.google.com/maps/search/?api=1&query=39.012,125.734) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Pyongyang%20Metro%20%28Approved%20Visitor%20Stations%29%2C%20North%20Korea) |
 | 3 | [Victorious Fatherland Liberation War Museum](sights/war-museum.yaml) | Museum / heritage | **80.90** | **History 8.7**, **Architecture 8.2** | 8.0 / 8.4 / 8.5 / 7.4 / 7.8 | [39.044, 125.736](https://www.google.com/maps/search/?api=1&query=39.044,125.736) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Victorious%20Fatherland%20Liberation%20War%20Museum%2C%20North%20Korea) |
 | 4 | [International Friendship Exhibition](sights/friendship-exhibition.yaml) | Attraction | **78.10** | **Architecture 8.0**, **History 7.9** | 7.8 / 8.4 / 7.7 / 7.2 / 7.5 | [40, 126.26](https://www.google.com/maps/search/?api=1&query=40,126.26) | [Google Maps](https://www.google.com/maps/search/?api=1&query=International%20Friendship%20Exhibition%2C%20North%20Korea) |
-| 5 | [Wonsan-Kalma Coastal Resort](sights/wonsan-kalma.yaml) | Coast | **72.55** | **Beaches 8.2**, **Relaxation 7.9** | 7.8 / 7.1 / 6.3 / 7.8 / 7.1 | [39.174, 127.474](https://www.google.com/maps/search/?api=1&query=39.174,127.474) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Wonsan-Kalma%20Coastal%20Resort%2C%20North%20Korea) |
+| 5 | [Kim Il Sung Square](sights/kim-il-sung-square.yaml) | Park / square | **75.70** | **History 8.2**, **Architecture 8.0** | 7.6 / 7.8 / 8.0 / 7.4 / 6.3 | [39.019, 125.753](https://www.google.com/maps/search/?api=1&query=39.019,125.753) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kim%20Il%20Sung%20Square%2C%20North%20Korea) |
+| 6 | [Wonsan-Kalma Coastal Resort](sights/wonsan-kalma.yaml) | Coast | **72.55** | **Beaches 8.2**, **Relaxation 7.9** | 7.8 / 7.1 / 6.3 / 7.8 / 7.1 | [39.174, 127.474](https://www.google.com/maps/search/?api=1&query=39.174,127.474) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Wonsan-Kalma%20Coastal%20Resort%2C%20North%20Korea) |
+| 7 | [Masikryong Ski Resort](sights/masikryong.yaml) | Attraction | **71.85** | **Adventure 8.1**, **Nature 7.7** | 7.5 / 7.1 / 6.0 / 8.0 / 7.6 | [39.06, 127.25](https://www.google.com/maps/search/?api=1&query=39.06,127.25) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Masikryong%20Ski%20Resort%2C%20North%20Korea) |
 
-## Not yet fully assessed (17)
+## Not yet fully assessed (15)
 
 These destinations have no rank until all five core scores are assessed.
 
@@ -32,9 +34,7 @@ These destinations have no rank until all five core scores are assessed.
 | — | [Historic Monuments and Sites in Kaesong](sights/kaesong-monuments.yaml) | Attraction | **—** | **History 9.3**, **Architecture 9.0** | 8.5 / 8.9 / 9.2 / — / — | [37.97, 126.55](https://www.google.com/maps/search/?api=1&query=37.97,126.55) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Historic%20Monuments%20and%20Sites%20in%20Kaesong%2C%20North%20Korea) |
 | — | [Historic Relics of Koguryo's Capital City in Pyongyang](sights/koguryo-capital.yaml) | Attraction | **—** | **History 9.3**, **Architecture 8.7** | 8.0 / 8.8 / 9.2 / — / — | [39.040556, 125.759722](https://www.google.com/maps/search/?api=1&query=39.040556,125.759722) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Historic%20Relics%20of%20Koguryo%27s%20Capital%20City%20in%20Pyongyang%2C%20North%20Korea) |
 | — | [Juche Tower](sights/juche-tower.yaml) | Tower / viewpoint | **—** | **Architecture 8.5**, **History 8.0** | 8.1 / 8.2 / 7.9 / — / — | [39.0177, 125.763](https://www.google.com/maps/search/?api=1&query=39.0177,125.763) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Juche%20Tower%2C%20North%20Korea) |
-| — | [Kim Il Sung Square](sights/kim-il-sung-square.yaml) | Park / square | **—** | **History 8.2**, **Architecture 8.0** | 7.6 / 7.8 / 8.0 / — / — | [39.019, 125.753](https://www.google.com/maps/search/?api=1&query=39.019,125.753) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kim%20Il%20Sung%20Square%2C%20North%20Korea) |
 | — | [Koryo Museum (Songgyungwan Academy)](sights/koryo-museum.yaml) | Museum / heritage | **—** | **History 9.1**, **Architecture 8.7** | 8.0 / 8.5 / 8.9 / — / — | [37.982, 126.58](https://www.google.com/maps/search/?api=1&query=37.982,126.58) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Koryo%20Museum%20%28Songgyungwan%20Academy%29%2C%20North%20Korea) |
-| — | [Masikryong Ski Resort](sights/masikryong.yaml) | Attraction | **—** | **Adventure 8.1**, **Nature 7.7** | 7.5 / 7.1 / 6.0 / — / — | [39.06, 127.25](https://www.google.com/maps/search/?api=1&query=39.06,127.25) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Masikryong%20Ski%20Resort%2C%20North%20Korea) |
 | — | [Moran Hill](sights/moran-hill.yaml) | Attraction | **—** | **History 8.4**, **Nature 7.8** | 7.6 / 7.8 / 8.2 / — / — | [39.040556, 125.759722](https://www.google.com/maps/search/?api=1&query=39.040556,125.759722) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Moran%20Hill%2C%20North%20Korea) |
 | — | [Mount Chilbo](sights/mount-chilbo.yaml) | Mountain / peak | **—** | **Nature 9.1**, **Photography 9.1** | 8.8 / 8.8 / 8.7 / — / — | [41.064444, 129.628889](https://www.google.com/maps/search/?api=1&query=41.064444,129.628889) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mount%20Chilbo%2C%20North%20Korea) |
 | — | [Mount Kumgang – Diamond Mountain from the Sea](sights/mount-kumgang.yaml) | Mountain / peak | **—** | **Nature 9.2**, **Photography 9.2**, **Culture 8.9** | 9.0 / 9.0 / 9.0 / — / — | [38.660278, 128.1375](https://www.google.com/maps/search/?api=1&query=38.660278,128.1375) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mount%20Kumgang%20%E2%80%93%20Diamond%20Mountain%20from%20the%20Sea%2C%20North%20Korea) |

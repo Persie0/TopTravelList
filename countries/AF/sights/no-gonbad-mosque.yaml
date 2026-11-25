@@ -1,0 +1,15 @@
+id: sight-af-no-gonbad-mosque
+name: "No Gonbad Mosque (Haji Piyada)"
+location:
+  country_code: AF
+  latitude: 36.736
+  longitude: 66.898
+scores:
+  impact: 7.9
+  uniqueness: 8.9
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.1
+    history: 9.3

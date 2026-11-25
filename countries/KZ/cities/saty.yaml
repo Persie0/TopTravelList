@@ -1,0 +1,15 @@
+id: city-kz-saty
+name: "Saty"
+location:
+  country_code: KZ
+  latitude: 43.073
+  longitude: 78.4
+scores:
+  impact: 7.2
+  uniqueness: 7.8
+  significance: 6.2
+  experience: 7.8
+  depth: 6.2
+  categories:
+    culture: 7.8
+    photography: 8.2

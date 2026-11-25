@@ -1,0 +1,15 @@
+id: city-fi-kemi
+name: "Kemi"
+location:
+  country_code: FI
+  latitude: 65.736
+  longitude: 24.563
+scores:
+  impact: 7.2
+  uniqueness: 7.7
+  significance: 7.2
+  experience: 7.8
+  depth: 7.3
+  categories:
+    culture: 7.7
+    adventure: 8

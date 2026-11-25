@@ -1,0 +1,17 @@
+id: sight-rw-congo-nile-trail
+name: "Congo Nile Trail"
+location:
+  country_code: RW
+  latitude: -2.1200
+  longitude: 29.3210
+scores:
+  impact: 8.7
+  uniqueness: 8.5
+  significance: 7.3
+  experience: 9.1
+  depth: 9.0
+  categories:
+    adventure: 9.4
+    photography: 9.1
+    nature: 8.8
+    culture: 8.5

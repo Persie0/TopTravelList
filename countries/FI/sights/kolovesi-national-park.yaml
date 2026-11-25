@@ -1,0 +1,16 @@
+id: sight-fi-kolovesi-national-park
+name: "Kolovesi National Park"
+location:
+  country_code: FI
+  latitude: 62.31
+  longitude: 28.79
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 8.6
+  experience: 8.6
+  depth: 8.5
+  categories:
+    nature: 9.1
+    adventure: 8.9
+    photography: 9

@@ -1,0 +1,14 @@
+id: sight-cy-kionia
+name: "Kionia Ophiolite Outcrop"
+location:
+  country_code: CY
+  latitude: 34.922812
+  longitude: 33.191597
+scores:
+  impact: null
+  uniqueness: 8.3
+  significance: 8.5
+  experience: null
+  depth: null
+  categories:
+    nature: 8.5

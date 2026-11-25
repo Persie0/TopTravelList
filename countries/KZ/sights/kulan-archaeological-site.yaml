@@ -1,0 +1,14 @@
+id: sight-kz-kulan-archaeological-site
+name: "Kulan Archaeological Site"
+location:
+  country_code: KZ
+  latitude: 42.914444
+  longitude: 72.749444
+scores:
+  impact: null
+  uniqueness: 8.4
+  significance: 8.9
+  experience: null
+  depth: null
+  categories:
+    history: 9.1

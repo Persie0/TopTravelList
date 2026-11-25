@@ -1,0 +1,16 @@
+id: sight-iq-lalish
+name: "Lalish Temple"
+location:
+  country_code: IQ
+  latitude: 36.772
+  longitude: 43.305
+scores:
+  impact: 8.7
+  uniqueness: 9.2
+  significance: 9.1
+  experience: 8.4
+  depth: 7.9
+  categories:
+    architecture: 9.0
+    culture: 9.3
+    history: 9.1

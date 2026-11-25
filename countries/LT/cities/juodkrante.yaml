@@ -1,0 +1,15 @@
+id: city-lt-juodkrante
+name: "Juodkrantė"
+location:
+  country_code: LT
+  latitude: 55.54
+  longitude: 21.12
+scores:
+  impact: 7.9
+  uniqueness: 8.2
+  significance: 7.6
+  experience: 8.3
+  depth: 7.1
+  categories:
+    relaxation: 8.6
+    architecture: 8.3

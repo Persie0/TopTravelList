@@ -1,0 +1,16 @@
+id: sight-lv-riga-cathedral
+name: "Riga Cathedral"
+location:
+  country_code: LV
+  latitude: 56.949
+  longitude: 24.105
+scores:
+  impact: 8.3
+  uniqueness: 8.1
+  significance: 8.7
+  experience: 8.3
+  depth: 8.0
+  categories:
+    architecture: 8.8
+    history: 9
+    culture: 8.8

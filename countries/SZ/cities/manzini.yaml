@@ -1,0 +1,15 @@
+id: city-sz-manzini
+name: "Manzini"
+location:
+  country_code: SZ
+  latitude: -26.4950
+  longitude: 31.3880
+scores:
+  impact: 6.4
+  uniqueness: 6.7
+  significance: 7.2
+  experience: 7.5
+  depth: 7.3
+  categories:
+    culture: 7.7
+    food: 7.9

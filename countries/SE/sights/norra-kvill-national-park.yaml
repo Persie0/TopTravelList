@@ -1,0 +1,15 @@
+id: sight-se-norra-kvill-national-park
+name: "Norra Kvill National Park"
+location:
+  country_code: SE
+  latitude: 57.77
+  longitude: 15.6
+scores:
+  impact: 7.8
+  uniqueness: 8.1
+  significance: 8.0
+  experience: 8.1
+  depth: 7.4
+  categories:
+    nature: 8.7
+    photography: 8.3

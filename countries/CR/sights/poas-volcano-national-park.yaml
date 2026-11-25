@@ -1,0 +1,15 @@
+id: sight-cr-poas-volcano-national-park
+name: "Poás Volcano National Park"
+location:
+  country_code: CR
+  latitude: 10.198
+  longitude: -84.231
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 8.4
+  experience: 8.4
+  depth: 7.5
+  categories:
+    nature: 9.0
+    photography: 9.2

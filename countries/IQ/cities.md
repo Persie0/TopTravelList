@@ -2,7 +2,7 @@
 
 # Iraq (IQ) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**11 ranked** · **3 unassessed** · **14 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,31 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (11)
 
-No cities, towns & villages have been assessed for **Iraq** yet.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Karbala](cities/karbala.yaml) | City / town | **87.90** | **Culture 9.3**, **History 9.2**, **Architecture 8.9** | 8.7 / 9.0 / 9.3 / 8.4 / 8.1 | [32.616, 44.025](https://www.google.com/maps/search/?api=1&query=32.616,44.025) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Karbala%2C%20Iraq) |
+| 2 | [Najaf](cities/najaf.yaml) | City / town | **87.70** | **Culture 9.3**, **History 9.2**, **Architecture 8.8** | 8.6 / 9.0 / 9.3 / 8.4 / 8.2 | [32.0003, 44.3359](https://www.google.com/maps/search/?api=1&query=32.0003,44.3359) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Najaf%2C%20Iraq) |
+| 3 | [Baghdad](cities/baghdad.yaml) | City / town | **85.80** | **History 9.2**, **Culture 9.0**, **Food 8.5** | 8.3 / 8.8 / 9.2 / 8.0 / 8.5 | [33.3152, 44.3661](https://www.google.com/maps/search/?api=1&query=33.3152,44.3661) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Baghdad%2C%20Iraq) |
+| 4 | [Erbil](cities/erbil.yaml) | City / town | **82.95** | **History 8.8**, **Architecture 8.5**, **Culture 8.5** | 8.1 / 8.5 / 8.6 / 8.2 / 7.9 | [36.1911, 44.0092](https://www.google.com/maps/search/?api=1&query=36.1911,44.0092) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Erbil%2C%20Iraq) |
+| 5 | [Amedi](cities/amedi.yaml) | City / town | **82.65** | **Photography 9.0**, **Architecture 8.6**, **History 8.4** | 8.5 / 8.7 / 8.1 / 8.0 / 7.2 | [37.092, 43.49](https://www.google.com/maps/search/?api=1&query=37.092,43.49) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Amedi%2C%20Iraq) |
+| 6 | [Basra](cities/basra.yaml) | City / town | **78.45** | **History 8.5**, **Culture 8.0** | 7.5 / 8.0 / 8.3 / 7.7 / 7.8 | [30.5085, 47.7804](https://www.google.com/maps/search/?api=1&query=30.5085,47.7804) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Basra%2C%20Iraq) |
+| 7 | [Sulaymaniyah](cities/sulaymaniyah.yaml) | City / town | **77.90** | **Culture 8.5**, **Food 8.1**, **History 8.1** | 7.6 / 7.8 / 7.8 / 8.0 / 8.0 | [35.5613, 45.43](https://www.google.com/maps/search/?api=1&query=35.5613,45.43) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sulaymaniyah%2C%20Iraq) |
+| 8 | [Zakho](cities/zakho.yaml) | City / town | **73.55** | **Architecture 7.9**, **History 7.8** | 7.3 / 7.5 / 7.5 / 7.4 / 6.8 | [37.144, 42.687](https://www.google.com/maps/search/?api=1&query=37.144,42.687) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Zakho%2C%20Iraq) |
+| 9 | [Duhok](cities/duhok.yaml) | City / town | **72.40** | **Nature 7.8**, **Culture 7.6** | 7.3 / 7.2 / 7.0 / 7.6 / 7.1 | [36.862, 42.997](https://www.google.com/maps/search/?api=1&query=36.862,42.997) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Duhok%2C%20Iraq) |
+| 10 | [Hillah](cities/hillah.yaml) | City / town | **70.20** | **History 7.5**, **Culture 7.4** | 6.8 / 7.0 / 7.3 / 7.2 / 6.9 | [32.483, 44.433](https://www.google.com/maps/search/?api=1&query=32.483,44.433) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hillah%2C%20Iraq) |
+| 11 | [Nasiriyah](cities/nasiriyah.yaml) | City / town | **69.45** | **Culture 7.5**, **History 7.5** | 6.7 / 6.9 / 7.2 / 7.2 / 6.9 | [31.057, 46.257](https://www.google.com/maps/search/?api=1&query=31.057,46.257) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nasiriyah%2C%20Iraq) |
 
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+## Not yet fully assessed (3)
+
+These destinations have no rank until all five core scores are assessed.
+
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| — | [Kirkuk](cities/kirkuk.yaml) | City / town | **—** | **History 8.4**, **Culture 8.2** | 7.5 / 8.0 / 8.1 / — / — | [35.468, 44.392](https://www.google.com/maps/search/?api=1&query=35.468,44.392) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kirkuk%2C%20Iraq) |
+| — | [Mosul](cities/mosul.yaml) | City / town | **—** | **History 9.0**, **Architecture 8.6**, **Culture 8.6** | 8.1 / 8.5 / 8.8 / — / — | [36.3489, 43.1577](https://www.google.com/maps/search/?api=1&query=36.3489,43.1577) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mosul%2C%20Iraq) |
+| — | [Samarra](cities/samarra.yaml) | City / town | **—** | **History 9.1**, **Culture 8.8** | 8.0 / 8.5 / 8.9 / — / — | [34.198, 43.875](https://www.google.com/maps/search/?api=1&query=34.198,43.875) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Samarra%2C%20Iraq) |
 
 ---
 

@@ -1,0 +1,15 @@
+id: sight-pk-umerkot-fort
+name: "Umerkot Fort"
+location:
+  country_code: PK
+  latitude: 25.36
+  longitude: 69.74
+scores:
+  impact: 7.7
+  uniqueness: 8.0
+  significance: 8.2
+  experience: 7.5
+  depth: 7.2
+  categories:
+    architecture: 8.1
+    history: 8.5

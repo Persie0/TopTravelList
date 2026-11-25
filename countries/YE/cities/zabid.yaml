@@ -1,0 +1,15 @@
+id: city-ye-zabid
+name: "Zabid"
+location:
+  country_code: YE
+  latitude: 14.196
+  longitude: 43.315
+scores:
+  impact: 8.0
+  uniqueness: 8.7
+  significance: 9.0
+  experience: null
+  depth: null
+  categories:
+    history: 9.1
+    architecture: 8.8

@@ -1,0 +1,16 @@
+id: sight-fi-archipelago-national-park
+name: "Archipelago National Park"
+location:
+  country_code: FI
+  latitude: 59.9
+  longitude: 22.1
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 8.8
+  experience: 8.8
+  depth: 9.0
+  categories:
+    nature: 9.3
+    adventure: 9
+    photography: 9.2

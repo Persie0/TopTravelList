@@ -1,0 +1,16 @@
+id: sight-vc-la-soufriere-national-park
+name: "La Soufrière National Park"
+location:
+  country_code: VC
+  latitude: 13.333333
+  longitude: -61.183333
+scores:
+  impact: 9.2
+  uniqueness: 9.1
+  significance: 8.9
+  experience: 8.3
+  depth: 8.7
+  categories:
+    nature: 9.4
+    photography: 9.4
+    adventure: 9.2

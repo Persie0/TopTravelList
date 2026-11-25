@@ -1,0 +1,14 @@
+id: sight-ye-erf-mountain
+name: "Erf Mountain Natural Reserve"
+location:
+  country_code: YE
+  latitude: 13.457222
+  longitude: 44.118056
+scores:
+  impact: null
+  uniqueness: 8.1
+  significance: 8.4
+  experience: null
+  depth: null
+  categories:
+    nature: 8.5

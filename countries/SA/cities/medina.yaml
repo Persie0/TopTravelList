@@ -1,0 +1,15 @@
+id: city-sa-medina
+name: "Medina"
+location:
+  country_code: SA
+  latitude: 24.4686
+  longitude: 39.6142
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 9.4
+  experience: null
+  depth: null
+  categories:
+    history: 9.3
+    culture: 9.2

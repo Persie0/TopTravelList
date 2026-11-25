@@ -1,0 +1,16 @@
+id: sight-ph-historic-vigan
+name: "Historic City of Vigan"
+location:
+  country_code: PH
+  latitude: 17.5737
+  longitude: 120.389
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 8.8
+  experience: 8.7
+  depth: 8.0
+  categories:
+    architecture: 9.2
+    history: 9.0
+    photography: 9.1

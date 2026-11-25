@@ -1,0 +1,16 @@
+id: sight-sy-crac-and-saladin
+name: "Crac des Chevaliers and Qal'at Salah El-Din"
+location:
+  country_code: SY
+  latitude: 34.756
+  longitude: 36.295
+scores:
+  impact: 9.1
+  uniqueness: 9.1
+  significance: 9.2
+  experience: 8.6
+  depth: 8.6
+  categories:
+    architecture: 9.3
+    history: 9.3
+    photography: 9.1

@@ -1,0 +1,16 @@
+id: sight-cv-monte-verde-natural-park
+name: "Monte Verde Natural Park"
+location:
+  country_code: CV
+  latitude: 16.8740
+  longitude: -24.9450
+scores:
+  impact: 8.3
+  uniqueness: 8.0
+  significance: 7.4
+  experience: 8.1
+  depth: 7.5
+  categories:
+    nature: 8.6
+    photography: 9.0
+    adventure: 8.3
