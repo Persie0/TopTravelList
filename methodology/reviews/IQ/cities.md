@@ -450,4 +450,3 @@
 - Approved 10 registry: none.
 - Final decision: Keep unranked pending visitor evidence.
 - Verification still needed: material facts, precise GPS, permitted experience and current peer YAML values.
-
