@@ -1,0 +1,16 @@
+id: city-bo-santa-cruz-de-la-sierra
+name: "Santa Cruz de la Sierra"
+location:
+  country_code: BO
+  latitude: -17.7833
+  longitude: -63.1821
+scores:
+  impact: 7.6
+  uniqueness: 7.4
+  significance: 7.6
+  experience: 8.1
+  depth: 8.2
+  categories:
+    food: 8.3
+    culture: 8.3
+    nightlife: 8.2

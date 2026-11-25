@@ -1,0 +1,15 @@
+id: sight-ve-teleferico-de-caracas
+name: "Teleférico de Caracas"
+location:
+  country_code: VE
+  latitude: 10.5110
+  longitude: -66.8760
+scores:
+  impact: 8.1
+  uniqueness: 7.7
+  significance: 6.8
+  experience: 8.1
+  depth: 7.1
+  categories:
+    photography: 8.9
+    relaxation: 8.3

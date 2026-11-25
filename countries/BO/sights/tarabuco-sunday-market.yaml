@@ -1,0 +1,15 @@
+id: sight-bo-tarabuco-sunday-market
+name: "Tarabuco Sunday Market"
+location:
+  country_code: BO
+  latitude: -19.1800
+  longitude: -64.9150
+scores:
+  impact: 8.0
+  uniqueness: 8.6
+  significance: 7.8
+  experience: 8.5
+  depth: 7.2
+  categories:
+    culture: 9.2
+    photography: 8.6

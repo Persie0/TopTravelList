@@ -1,0 +1,15 @@
+id: sight-bo-pulacayo-industrial-heritage-site
+name: "Pulacayo Industrial Heritage Site"
+location:
+  country_code: BO
+  latitude: -20.3900
+  longitude: -66.7000
+scores:
+  impact: 7.6
+  uniqueness: 8.5
+  significance: 8.7
+  experience: 7.5
+  depth: 7.3
+  categories:
+    history: 9.1
+    architecture: 8.3

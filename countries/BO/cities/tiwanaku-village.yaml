@@ -1,0 +1,15 @@
+id: city-bo-tiwanaku-village
+name: "Tiwanaku Village"
+location:
+  country_code: BO
+  latitude: -16.5540
+  longitude: -68.6770
+scores:
+  impact: 6.5
+  uniqueness: 7.3
+  significance: 7.5
+  experience: 7.2
+  depth: 6.1
+  categories:
+    culture: 8.1
+    history: 7.9

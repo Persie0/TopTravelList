@@ -1,0 +1,16 @@
+id: sight-bo-el-vergel-canyon
+name: "El Vergel Canyon"
+location:
+  country_code: BO
+  latitude: -18.1200
+  longitude: -65.7500
+scores:
+  impact: 8.6
+  uniqueness: 8.4
+  significance: 7.6
+  experience: 8.7
+  depth: 7.7
+  categories:
+    nature: 8.9
+    adventure: 8.8
+    photography: 9.0
