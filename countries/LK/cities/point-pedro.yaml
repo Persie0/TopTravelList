@@ -1,0 +1,15 @@
+id: city-lk-point-pedro
+name: "Point Pedro"
+location:
+  country_code: LK
+  latitude: 9.8160
+  longitude: 80.2330
+scores:
+  impact: 6.9
+  uniqueness: 7.3
+  significance: 7.4
+  experience: 7.4
+  depth: 7.0
+  categories:
+    culture: 8.0
+    history: 7.9

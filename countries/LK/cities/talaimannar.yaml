@@ -1,0 +1,15 @@
+id: city-lk-talaimannar
+name: "Talaimannar"
+location:
+  country_code: LK
+  latitude: 9.1060
+  longitude: 79.7310
+scores:
+  impact: 6.7
+  uniqueness: 7.3
+  significance: 7.4
+  experience: 7.1
+  depth: 6.7
+  categories:
+    history: 8.0
+    photography: 7.8

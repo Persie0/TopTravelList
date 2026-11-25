@@ -1,0 +1,15 @@
+id: city-lk-vavuniya
+name: "Vavuniya"
+location:
+  country_code: LK
+  latitude: 8.7510
+  longitude: 80.4970
+scores:
+  impact: 6.4
+  uniqueness: 6.7
+  significance: 6.8
+  experience: 7.1
+  depth: 6.7
+  categories:
+    food: 7.5
+    culture: 7.5

@@ -1,0 +1,15 @@
+id: city-lk-mirissa
+name: "Mirissa"
+location:
+  country_code: LK
+  latitude: 5.9480
+  longitude: 80.4590
+scores:
+  impact: 7.6
+  uniqueness: 7.4
+  significance: 6.3
+  experience: 8.2
+  depth: 7.4
+  categories:
+    relaxation: 8.6
+    food: 8.1

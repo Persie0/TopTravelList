@@ -1,0 +1,16 @@
+id: city-lk-anuradhapura
+name: "Anuradhapura"
+location:
+  country_code: LK
+  latitude: 8.3114
+  longitude: 80.4037
+scores:
+  impact: 8.9
+  uniqueness: 9.2
+  significance: 9.5
+  experience: 8.8
+  depth: 9.1
+  categories:
+    history: 9.6
+    culture: 9.4
+    architecture: 9.2

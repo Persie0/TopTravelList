@@ -1,0 +1,16 @@
+id: city-lk-negombo
+name: "Negombo"
+location:
+  country_code: LK
+  latitude: 7.2083
+  longitude: 79.8358
+scores:
+  impact: 7.8
+  uniqueness: 8.0
+  significance: 7.9
+  experience: 8.2
+  depth: 8.1
+  categories:
+    food: 8.5
+    culture: 8.4
+    history: 8.3

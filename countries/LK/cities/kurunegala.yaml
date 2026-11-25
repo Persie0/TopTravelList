@@ -1,0 +1,15 @@
+id: city-lk-kurunegala
+name: "Kurunegala"
+location:
+  country_code: LK
+  latitude: 7.4860
+  longitude: 80.3640
+scores:
+  impact: 7.3
+  uniqueness: 7.5
+  significance: 7.7
+  experience: 7.7
+  depth: 7.6
+  categories:
+    history: 8.2
+    culture: 8.0

@@ -1,0 +1,15 @@
+id: city-lk-dalhousie-nallathanniya
+name: "Dalhousie (Nallathanniya)"
+location:
+  country_code: LK
+  latitude: 6.8230
+  longitude: 80.5220
+scores:
+  impact: 6.9
+  uniqueness: 7.3
+  significance: 7.1
+  experience: 7.7
+  depth: 6.8
+  categories:
+    culture: 8.0
+    relaxation: 7.8

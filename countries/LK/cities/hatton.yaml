@@ -1,0 +1,15 @@
+id: city-lk-hatton
+name: "Hatton"
+location:
+  country_code: LK
+  latitude: 6.8916
+  longitude: 80.5950
+scores:
+  impact: 7.0
+  uniqueness: 7.3
+  significance: 7.4
+  experience: 7.7
+  depth: 7.2
+  categories:
+    food: 7.8
+    culture: 7.8
