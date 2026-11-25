@@ -1,0 +1,16 @@
+id: sight-ir-hafez-tomb
+name: "Tomb of Hafez"
+location:
+  country_code: IR
+  latitude: 29.625
+  longitude: 52.558
+scores:
+  impact: 8.2
+  uniqueness: 8.4
+  significance: 8.8
+  experience: 8.5
+  depth: 7.5
+  categories:
+    culture: 9.1
+    history: 8.9
+    architecture: 8.5

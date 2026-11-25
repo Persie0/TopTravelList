@@ -1,0 +1,16 @@
+id: sight-ir-shazdeh-garden
+name: "Shazdeh Garden"
+location:
+  country_code: IR
+  latitude: 30.024
+  longitude: 57.285
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 8.7
+  experience: 8.5
+  depth: 7.8
+  categories:
+    architecture: 9.0
+    nature: 8.8
+    photography: 9.0
