@@ -219,8 +219,8 @@
 - Action: new
 - Precise subject: Dinant settlement; Small town excludes external Meuse landscapes.
 - Location check: 50.2606, 4.9125; approximate representative point, independent verification outstanding; serial entries use an anchor point rather than full boundaries.
-- Evidence status: **editorial-only**
-- Evidence: No site-specific supporting source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Visitor source](https://www.ardennenbelgie.be/eng/dinant) — retrieved 2026-11-25; supports riverfront, citadel and collegiate church. Earlier status editorial-only; not full independent claim verification.
 - Missing or uncertain facts: exact visitor conditions, claim-level corroboration and exact GPS.
 
 #### Worldwide peer comparisons
@@ -254,8 +254,8 @@
 - Action: new
 - Precise subject: Namur settlement; Several urban districts.
 - Location check: 50.4674, 4.8718; approximate representative point, independent verification outstanding; serial entries use an anchor point rather than full boundaries.
-- Evidence status: **editorial-only**
-- Evidence: No site-specific supporting source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Visitor source](https://www.wallonia.be/en/wallonias-cities) — retrieved 2026-11-25; supports regional city and citadel. Earlier status editorial-only; not full independent claim verification.
 - Missing or uncertain facts: exact visitor conditions, claim-level corroboration and exact GPS.
 
 #### Worldwide peer comparisons
@@ -289,8 +289,8 @@
 - Action: new
 - Precise subject: Liège settlement; Multiple urban districts.
 - Location check: 50.6326, 5.5797; approximate representative point, independent verification outstanding; serial entries use an anchor point rather than full boundaries.
-- Evidence status: **editorial-only**
-- Evidence: No site-specific supporting source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Visitor source](https://www.wallonia.be/en/wallonias-cities) — retrieved 2026-11-25; supports urban cultural identity and city tourism. Earlier status editorial-only; not full independent claim verification.
 - Missing or uncertain facts: exact visitor conditions, claim-level corroboration and exact GPS.
 
 #### Worldwide peer comparisons
@@ -324,8 +324,8 @@
 - Action: new
 - Precise subject: Ypres (Ieper) settlement; Exclude surrounding dispersed cemeteries.
 - Location check: 50.851, 2.885; approximate representative point, independent verification outstanding; serial entries use an anchor point rather than full boundaries.
-- Evidence status: **editorial-only**
-- Evidence: No site-specific supporting source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Visitor source](https://www.visitieper.be/en/stadswandelroute-ieper) — retrieved 2026-11-25; supports historic town walking circuit. Earlier status editorial-only; not full independent claim verification.
 - Missing or uncertain facts: exact visitor conditions, claim-level corroboration and exact GPS.
 
 #### Worldwide peer comparisons
@@ -394,8 +394,8 @@
 - Action: new
 - Precise subject: Mons settlement; Exclude Spiennes mines.
 - Location check: 50.454, 3.952; approximate representative point, independent verification outstanding; serial entries use an anchor point rather than full boundaries.
-- Evidence status: **editorial-only**
-- Evidence: No site-specific supporting source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Visitor source](https://inde.diplomatie.belgium.be/en/belgium-tourist-destination) — retrieved 2026-11-25; supports belfry, town hall, church and museums. Earlier status editorial-only; not full independent claim verification.
 - Missing or uncertain facts: exact visitor conditions, claim-level corroboration and exact GPS.
 
 #### Worldwide peer comparisons
@@ -429,8 +429,8 @@
 - Action: new
 - Precise subject: Bouillon settlement; Exclude whole Semois park.
 - Location check: 49.794, 5.068; approximate representative point, independent verification outstanding; serial entries use an anchor point rather than full boundaries.
-- Evidence status: **editorial-only**
-- Evidence: No site-specific supporting source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Visitor source](https://www.belgium-tourism.net/contenus/more_cities_to_explore_in_wallonia/en/6520.html) — retrieved 2026-11-25; supports medieval town identity. Earlier status editorial-only; not full independent claim verification.
 - Missing or uncertain facts: exact visitor conditions, claim-level corroboration and exact GPS.
 
 #### Worldwide peer comparisons
@@ -464,8 +464,8 @@
 - Action: new
 - Precise subject: Durbuy settlement; Limited town scope excludes surrounding adventure parks.
 - Location check: 50.352, 5.456; approximate representative point, independent verification outstanding; serial entries use an anchor point rather than full boundaries.
-- Evidence status: **editorial-only**
-- Evidence: No site-specific supporting source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Visitor source](https://www.belgium-tourism.net/contenus/more_cities_to_explore_in_wallonia/en/6520.html) — retrieved 2026-11-25; supports compact historic town identity. Earlier status editorial-only; not full independent claim verification.
 - Missing or uncertain facts: exact visitor conditions, claim-level corroboration and exact GPS.
 
 #### Worldwide peer comparisons

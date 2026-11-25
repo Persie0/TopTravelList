@@ -1549,8 +1549,8 @@
 - Action: new
 - Precise subject: Gravensteen Castle; One castle complex.
 - Location check: 51.057, 3.72; approximate representative point, independent verification outstanding; serial entries use an anchor point rather than full boundaries.
-- Evidence status: **editorial-only**
-- Evidence: No site-specific supporting source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Visitor source](https://historischehuizen.stad.gent/en/castle-counts/visit) — retrieved 2026-11-25; supports public castle visit. Earlier status editorial-only; not full independent claim verification.
 - Missing or uncertain facts: exact visitor conditions, claim-level corroboration and exact GPS.
 
 #### Worldwide peer comparisons
@@ -1619,8 +1619,8 @@
 - Action: new
 - Precise subject: Atomium; One structure.
 - Location check: 50.895, 4.341; approximate representative point, independent verification outstanding; serial entries use an anchor point rather than full boundaries.
-- Evidence status: **editorial-only**
-- Evidence: No site-specific supporting source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Visitor source](https://atomium.be/atomium-tour_and_rules?lang=en) — retrieved 2026-11-25; supports public interiors and exhibitions. Earlier status editorial-only; not full independent claim verification.
 - Missing or uncertain facts: exact visitor conditions, claim-level corroboration and exact GPS.
 
 #### Worldwide peer comparisons
@@ -1654,8 +1654,8 @@
 - Action: new
 - Precise subject: Caves of Han-sur-Lesse; Cave visit excludes wildlife park.
 - Location check: 50.127, 5.187; approximate representative point, independent verification outstanding; serial entries use an anchor point rather than full boundaries.
-- Evidence status: **editorial-only**
-- Evidence: No site-specific supporting source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Visitor source](https://grotte-de-han.be/en/cave/visit) — retrieved 2026-11-25; supports guided cave routes, up to two hours; not wildlife park. Earlier status editorial-only; not full independent claim verification.
 - Missing or uncertain facts: exact visitor conditions, claim-level corroboration and exact GPS.
 
 #### Worldwide peer comparisons
@@ -1689,8 +1689,8 @@
 - Action: new
 - Precise subject: Citadel of Dinant; One citadel not whole town.
 - Location check: 50.261, 4.914; approximate representative point, independent verification outstanding; serial entries use an anchor point rather than full boundaries.
-- Evidence status: **editorial-only**
-- Evidence: No site-specific supporting source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Visitor source](https://www.citadellededinant.be/en/visite) — retrieved 2026-11-25; supports public citadel routes. Earlier status editorial-only; not full independent claim verification.
 - Missing or uncertain facts: exact visitor conditions, claim-level corroboration and exact GPS.
 
 #### Worldwide peer comparisons
@@ -1724,8 +1724,8 @@
 - Action: new
 - Precise subject: Bouillon Castle; One castle complex.
 - Location check: 49.793, 5.065; approximate representative point, independent verification outstanding; serial entries use an anchor point rather than full boundaries.
-- Evidence status: **editorial-only**
-- Evidence: No site-specific supporting source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Visitor source](https://www.chateaudebouillon.com/en) — retrieved 2026-11-25; supports public castle and interpreted visit. Earlier status editorial-only; not full independent claim verification.
 - Missing or uncertain facts: exact visitor conditions, claim-level corroboration and exact GPS.
 
 #### Worldwide peer comparisons
@@ -1759,8 +1759,8 @@
 - Action: new
 - Precise subject: Citadel of Namur; Extensive fortress complex.
 - Location check: 50.46, 4.864; approximate representative point, independent verification outstanding; serial entries use an anchor point rather than full boundaries.
-- Evidence status: **editorial-only**
-- Evidence: No site-specific supporting source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Visitor source](https://www.namurtourisme.be/en/a-voir-a-faire/attractions/citadelle-de-namur/) — retrieved 2026-11-25; supports citadel and guided underground galleries. Earlier status editorial-only; not full independent claim verification.
 - Missing or uncertain facts: exact visitor conditions, claim-level corroboration and exact GPS.
 
 #### Worldwide peer comparisons
@@ -1794,8 +1794,8 @@
 - Action: new
 - Precise subject: Villers Abbey ruins; Defined abbey complex.
 - Location check: 50.59, 4.529; approximate representative point, independent verification outstanding; serial entries use an anchor point rather than full boundaries.
-- Evidence status: **editorial-only**
-- Evidence: No site-specific supporting source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Visitor source](https://www.villers.be/en/visiting) — retrieved 2026-11-25; supports roughly 90-minute interpreted abbey visit. Earlier status editorial-only; not full independent claim verification.
 - Missing or uncertain facts: exact visitor conditions, claim-level corroboration and exact GPS.
 
 #### Worldwide peer comparisons
@@ -1934,8 +1934,8 @@
 - Action: new
 - Precise subject: Pairi Daiza zoological park; Large park not wild ecosystem.
 - Location check: 50.584, 3.887; approximate representative point, independent verification outstanding; serial entries use an anchor point rather than full boundaries.
-- Evidence status: **editorial-only**
-- Evidence: No site-specific supporting source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Visitor source](https://www.pairidaiza.eu/en/prepare-your-visit/) — retrieved 2026-11-25; supports public park access, not guaranteed wildlife behavior. Earlier status editorial-only; not full independent claim verification.
 - Missing or uncertain facts: exact visitor conditions, claim-level corroboration and exact GPS.
 
 #### Worldwide peer comparisons
@@ -1969,8 +1969,8 @@
 - Action: new
 - Precise subject: Zwin Nature Park; Defined reserve visitor area.
 - Location check: 51.36, 3.35; approximate representative point, independent verification outstanding; serial entries use an anchor point rather than full boundaries.
-- Evidence status: **editorial-only**
-- Evidence: No site-specific supporting source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Visitor source](https://www.zwin.be/en/tickets) — retrieved 2026-11-25; supports exhibitions, cabin trail, observation centre and plain. Earlier status editorial-only; not full independent claim verification.
 - Missing or uncertain facts: exact visitor conditions, claim-level corroboration and exact GPS.
 
 #### Worldwide peer comparisons
@@ -2004,8 +2004,8 @@
 - Action: new
 - Precise subject: Spa-Francorchamps circuit visitor experience; Circuit visit not guaranteed driving access.
 - Location check: 50.438, 5.971; approximate representative point, independent verification outstanding; serial entries use an anchor point rather than full boundaries.
-- Evidence status: **editorial-only**
-- Evidence: No site-specific supporting source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Visitor source](https://www.spa-francorchamps.be/en/behind-the-scenes-guided-tour) — retrieved 2026-11-25; supports regular guided circuit tours; no assumed race attendance or driving. Earlier status editorial-only; not full independent claim verification.
 - Missing or uncertain facts: exact visitor conditions, claim-level corroboration and exact GPS.
 
 #### Worldwide peer comparisons
@@ -2242,3 +2242,33 @@
 - Final decision: Provisional scope-limited assessment; no parent-site score inherited.
 - Earlier decision: none.
 - Verification still needed: source-specific visitor access, factual claims and current peer scores.
+
+## Follow-up: direct visitor sources and Horta component review — 2026-11-25
+
+[UNESCO country register](https://whc.unesco.org/en/statesparties/be) confirms 16 inscribed and 16 tentative properties; [Horta serial property](https://whc.unesco.org/en/list/1005) identifies all four houses. All 17 formerly editorial-only records have now been updated in their individual evidence sections. No fully independent fact-check claimed.
+
+### Revised: [hotel-solvay](../../../countries/BE/sights/hotel-solvay.yaml)
+
+- Evidence status: **source-linked-unverified**, superseding unassessed.
+- Evidence: [Operator tickets and visit](https://hotelsolvay.be/en/pages/buy-your-tickets) documents reception rooms and salons; [Brussels Museums](https://www.brusselsmuseums.be/en/museums/hotel-solvay) documents recurring individual visits.
+- I/U/S/E/D: 9.1/9.2/9.3/8.7/7.8; Highly preserved and elaborate Art Nouveau interiors support impact 9.1; experience 8.7 for ordinary public rooms and depth 7.8 for compact residence, excluding private-only access. Uniqueness and significance unchanged. Overall 89.75/100.
+- Current international comparator vectors (I/U/S/E/D):
+- [Villa Tugendhat (CZ)](../../../countries/CZ/sights/villa-tugendhat.yaml) 8.8/9.3/9.4/8.7/7.8: comparable architectural house, more influential modernist design.
+- [Villa Mairea (FI)](../../../countries/FI/sights/villa-mairea.yaml) 8.8/9.3/9.3/8.6/7.7: comparable rare architectural interior and bounded tour.
+- [Kaiservilla (AT)](../../../countries/AT/sights/kaiservilla-bad-ischl.yaml) 8.0/8.2/8.8/8.3/7.6: comparable historic residence, less architecturally distinct.
+- [Confucius Mansion (CN)](../../../countries/CN/sights/confucius-mansion.yaml) 9.0/9.5/9.7/9.1/8.8: larger and more significant historic residence ensemble.
+- No exceptional field or approved 10. Representative coordinate and categories unchanged.
+
+### Revised: [hotel-van-eetvelde](../../../countries/BE/sights/hotel-van-eetvelde.yaml)
+
+- Evidence status: **source-linked-unverified**, superseding unassessed.
+- Evidence: [LAB·AN operator](https://www.lab-an.be/en/) and [Visit Brussels](https://www.visit.brussels/en/visitors/agenda/event-detail.Individual-tour-of-Hotel-Van-Eetvelde.5700009296) document self-guided access to the house, office and exhibition spaces.
+- I/U/S/E/D: 8.9/9.2/9.3/8.7/7.8; Distinctive dome and spatial composition support impact 8.9; experience 8.7 for established public route and depth 7.8 for the limited complex. Uniqueness and significance unchanged. Overall 89.15/100.
+- Current international comparator vectors (I/U/S/E/D):
+- [Villa Tugendhat (CZ)](../../../countries/CZ/sights/villa-tugendhat.yaml) 8.8/9.3/9.4/8.7/7.8: comparable architectural house, more influential modernist design.
+- [Villa Mairea (FI)](../../../countries/FI/sights/villa-mairea.yaml) 8.8/9.3/9.3/8.6/7.7: comparable rare architectural interior and bounded tour.
+- [Kaiservilla (AT)](../../../countries/AT/sights/kaiservilla-bad-ischl.yaml) 8.0/8.2/8.8/8.3/7.6: comparable historic residence, less architecturally distinct.
+- [Confucius Mansion (CN)](../../../countries/CN/sights/confucius-mansion.yaml) 9.0/9.5/9.7/9.1/8.8: larger and more significant historic residence ensemble.
+- No exceptional field or approved 10. Representative coordinate and categories unchanged.
+
+[Hôtel Tassel tour listing](https://www.explore.brussels/en/visits/24-tassel-hotel/) documents limited group capacity, but recurring ordinary interior availability remains unresolved; retain unranked. The Horta serial property is also unranked, since access is not comparable across all houses. 82 records (18 cities, 64 sights), 70 ranked and 12 unassessed. All records have supporting source links, not all independently checked. Existing fully assessed vectors retained; individual serial components, original exceptional score calibration and GPS verification remain incomplete.

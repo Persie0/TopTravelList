@@ -5,11 +5,11 @@ location:
   latitude: 50.826194
   longitude: 4.365417
 scores:
-  impact: null
+  impact: 9.1
   uniqueness: 9.2
   significance: 9.3
-  experience: null
-  depth: null
+  experience: 8.7
+  depth: 7.8
   categories:
     architecture: 9.4
     history: 9.2
