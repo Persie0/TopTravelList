@@ -1,0 +1,15 @@
+id: city-lr-buchanan
+name: "Buchanan"
+location:
+  country_code: LR
+  latitude: 5.88
+  longitude: -10.05
+scores:
+  impact: 6.6
+  uniqueness: 7.2
+  significance: 7.2
+  experience: 7.4
+  depth: 6.7
+  categories:
+    culture: 7.8
+    food: 7.9

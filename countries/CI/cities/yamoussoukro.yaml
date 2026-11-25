@@ -1,0 +1,15 @@
+id: city-ci-yamoussoukro
+name: "Yamoussoukro"
+location:
+  country_code: CI
+  latitude: 6.821
+  longitude: -5.277
+scores:
+  impact: 7.8
+  uniqueness: 8.2
+  significance: 8.2
+  experience: 7.8
+  depth: 7.4
+  categories:
+    architecture: 8.6
+    history: 8.3

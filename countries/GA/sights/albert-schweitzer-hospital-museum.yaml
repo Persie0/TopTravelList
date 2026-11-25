@@ -1,0 +1,15 @@
+id: sight-ga-albert-schweitzer-hospital-museum
+name: "Albert Schweitzer Hospital Museum"
+location:
+  country_code: GA
+  latitude: -0.69
+  longitude: 10.23
+scores:
+  impact: 7.8
+  uniqueness: 8.6
+  significance: 9.2
+  experience: 8.2
+  depth: 7.7
+  categories:
+    history: 9.4
+    culture: 8.9

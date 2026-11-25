@@ -1,0 +1,16 @@
+id: sight-lr-sapo-national-park
+name: "Sapo National Park"
+location:
+  country_code: LR
+  latitude: 5.4185
+  longitude: -8.494
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 9.4
+  experience: 8.4
+  depth: 8.6
+  categories:
+    nature: 9.4
+    wildlife: 9.0
+    adventure: 8.8

@@ -1,0 +1,16 @@
+id: city-bi-rumonge
+name: "Rumonge"
+location:
+  country_code: BI
+  latitude: -3.9736
+  longitude: 29.4386
+scores:
+  impact: 7.0
+  uniqueness: 7.6
+  significance: 6.6
+  experience: 7.6
+  depth: 6.3
+  categories:
+    relaxation: 8.0
+    culture: 7.8
+    food: 7.8

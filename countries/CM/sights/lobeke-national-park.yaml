@@ -1,0 +1,15 @@
+id: sight-cm-lobeke-national-park
+name: "Lobéké National Park"
+location:
+  country_code: CM
+  latitude: 2.298493
+  longitude: 15.689466
+scores:
+  impact: 9.1
+  uniqueness: 9.4
+  significance: 9.6
+  experience: 8.7
+  depth: 9.0
+  categories:
+    nature: 9.6
+    wildlife: 9.3

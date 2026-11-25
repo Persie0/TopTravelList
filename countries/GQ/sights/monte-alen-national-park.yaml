@@ -1,0 +1,16 @@
+id: sight-gq-monte-alen-national-park
+name: "Monte Alén National Park"
+location:
+  country_code: GQ
+  latitude: 1.816667
+  longitude: 10.25
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 9.2
+  experience: 8.0
+  depth: 8.4
+  categories:
+    nature: 9.3
+    wildlife: 9.4
+    adventure: 8.5

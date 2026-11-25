@@ -1,0 +1,16 @@
+id: sight-gh-fort-st-jago-coenraadsburg
+name: "Fort St Jago (Coenraadsburg)"
+location:
+  country_code: GH
+  latitude: 5.086
+  longitude: -1.35
+scores:
+  impact: 7.8
+  uniqueness: 8.1
+  significance: 8.6
+  experience: 7.8
+  depth: 6.9
+  categories:
+    history: 8.8
+    architecture: 8.5
+    photography: 8.4

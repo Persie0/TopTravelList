@@ -1,0 +1,16 @@
+id: city-cm-foumban
+name: "Foumban"
+location:
+  country_code: CM
+  latitude: 5.72662
+  longitude: 10.89865
+scores:
+  impact: 8.0
+  uniqueness: 8.6
+  significance: 8.6
+  experience: 8.3
+  depth: 8.0
+  categories:
+    architecture: 8.6
+    culture: 9.0
+    history: 8.9

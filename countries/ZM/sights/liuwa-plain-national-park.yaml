@@ -1,0 +1,15 @@
+id: sight-zm-liuwa-plain-national-park
+name: "Liuwa Plain National Park"
+location:
+  country_code: ZM
+  latitude: -14.40883
+  longitude: 22.86173
+scores:
+  impact: 9.1
+  uniqueness: 9.3
+  significance: 9.2
+  experience: 8.9
+  depth: 8.7
+  categories:
+    nature: 9.3
+    wildlife: 9.4

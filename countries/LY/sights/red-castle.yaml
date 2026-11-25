@@ -1,0 +1,15 @@
+id: sight-ly-red-castle
+name: "Red Castle (Assaraya al-Hamra)"
+location:
+  country_code: LY
+  latitude: 32.895259
+  longitude: 13.181051
+scores:
+  impact: 8.5
+  uniqueness: 8.6
+  significance: 8.9
+  experience: 8.1
+  depth: 7.9
+  categories:
+    architecture: 8.9
+    history: 9.1

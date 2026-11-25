@@ -1,0 +1,13 @@
+id: sight-mx-la-quemada-bridge-san-felipe
+name: "Bridge La Quemada, San Felipe"
+location:
+  country_code: MX
+  latitude: 21.327647
+  longitude: -101.09625
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}

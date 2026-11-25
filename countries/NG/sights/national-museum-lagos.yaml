@@ -1,0 +1,15 @@
+id: sight-ng-national-museum-lagos
+name: "National Museum Lagos"
+location:
+  country_code: NG
+  latitude: 6.445
+  longitude: 3.399
+scores:
+  impact: 8.0
+  uniqueness: 8.6
+  significance: 9.0
+  experience: 8.3
+  depth: 8.2
+  categories:
+    history: 9.2
+    culture: 9.1

@@ -1,0 +1,15 @@
+id: city-ci-assinie-mafia
+name: "Assinie-Mafia"
+location:
+  country_code: CI
+  latitude: 5.133
+  longitude: -3.283
+scores:
+  impact: 7.8
+  uniqueness: 7.8
+  significance: 7.1
+  experience: 8.4
+  depth: 7.4
+  categories:
+    beaches: 8.7
+    relaxation: 8.7

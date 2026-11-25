@@ -1,0 +1,16 @@
+id: sight-cf-mossapoula-river-canoe-excursion
+name: "Mossapoula River Canoe Excursion"
+location:
+  country_code: CF
+  latitude: 2.92
+  longitude: 16.25
+scores:
+  impact: 8.0
+  uniqueness: 8.4
+  significance: 7.5
+  experience: 8.2
+  depth: 7.3
+  categories:
+    nature: 8.6
+    photography: 8.5
+    adventure: 8.3
