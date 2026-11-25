@@ -1,0 +1,14 @@
+id: sight-sr-numismatic-museum-of-suriname
+name: "Numismatic Museum of Suriname"
+location:
+  country_code: SR
+  latitude: 5.8247
+  longitude: -55.1557
+scores:
+  impact: null
+  uniqueness: 7.0
+  significance: 7.5
+  experience: null
+  depth: null
+  categories:
+    history: 7.9
