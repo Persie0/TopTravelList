@@ -1,0 +1,15 @@
+id: sight-py-casa-de-la-independencia-museum
+name: "Casa de la Independencia Museum"
+location:
+  country_code: PY
+  latitude: -25.2807
+  longitude: -57.6353
+scores:
+  impact: 7.4
+  uniqueness: 8.0
+  significance: 8.6
+  experience: 7.9
+  depth: 7.0
+  categories:
+    history: 9.0
+    culture: 8.4

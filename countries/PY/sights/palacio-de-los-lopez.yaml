@@ -1,0 +1,16 @@
+id: sight-py-palacio-de-los-lopez
+name: "Palacio de los López"
+location:
+  country_code: PY
+  latitude: -25.2771
+  longitude: -57.6354
+scores:
+  impact: 7.9
+  uniqueness: 7.8
+  significance: 8.5
+  experience: 7.7
+  depth: 6.6
+  categories:
+    architecture: 8.6
+    history: 8.7
+    photography: 8.4

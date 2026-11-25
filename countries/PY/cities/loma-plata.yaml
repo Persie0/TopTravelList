@@ -1,0 +1,15 @@
+id: city-py-loma-plata
+name: "Loma Plata"
+location:
+  country_code: PY
+  latitude: -22.3833
+  longitude: -59.8333
+scores:
+  impact: 6.4
+  uniqueness: 7.7
+  significance: 7.3
+  experience: 7.1
+  depth: 6.3
+  categories:
+    culture: 8.2
+    history: 7.8
