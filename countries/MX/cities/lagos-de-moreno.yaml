@@ -1,0 +1,16 @@
+id: city-mx-lagos-de-moreno
+name: "Lagos de Moreno"
+location:
+  country_code: MX
+  latitude: 21.357994
+  longitude: -101.928236
+scores:
+  impact: 8.3
+  uniqueness: 8.5
+  significance: 8.7
+  experience: 8.4
+  depth: 8.0
+  categories:
+    architecture: 9.0
+    history: 9.0
+    culture: 8.8
