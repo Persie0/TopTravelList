@@ -1,0 +1,13 @@
+id: sight-mx-revillagigedo-archipelago
+name: "Archipiélago de Revillagigedo"
+location:
+  country_code: MX
+  latitude: 18.8
+  longitude: -110.95
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}

@@ -1,0 +1,16 @@
+id: city-mx-san-cristobal-de-las-casas
+name: "San Cristóbal de las Casas"
+location:
+  country_code: MX
+  latitude: 16.737
+  longitude: -92.637
+scores:
+  impact: 8.4
+  uniqueness: 8.8
+  significance: 8.2
+  experience: 8.6
+  depth: 8.1
+  categories:
+    culture: 9.1
+    architecture: 8.8
+    food: 8.6

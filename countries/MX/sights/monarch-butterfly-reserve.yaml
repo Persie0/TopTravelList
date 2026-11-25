@@ -1,0 +1,16 @@
+id: sight-mx-monarch-butterfly-reserve
+name: "Monarch Butterfly Biosphere Reserve"
+location:
+  country_code: MX
+  latitude: 19.59
+  longitude: -100.27
+scores:
+  impact: 9.3
+  uniqueness: 9.6
+  significance: 9.3
+  experience: 8.9
+  depth: 8.2
+  categories:
+    wildlife: 9.7
+    nature: 9.4
+    photography: 9.4
