@@ -1,0 +1,15 @@
+id: sight-al-zvernec-monastery
+name: "Zvërnec Monastery"
+location:
+  country_code: AL
+  latitude: 40.5110
+  longitude: 19.4060
+scores:
+  impact: 8.3
+  uniqueness: 8.6
+  significance: 8.5
+  experience: 8.4
+  depth: 7.5
+  categories:
+    architecture: 8.9
+    photography: 9.1

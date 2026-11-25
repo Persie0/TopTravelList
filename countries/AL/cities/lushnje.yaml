@@ -1,0 +1,14 @@
+id: city-al-lushnje
+name: "Lushnjë"
+location:
+  country_code: AL
+  latitude: 40.9419
+  longitude: 19.7050
+scores:
+  impact: 6.5
+  uniqueness: 6.7
+  significance: 7.3
+  experience: 7.2
+  depth: 6.9
+  categories:
+    history: 8

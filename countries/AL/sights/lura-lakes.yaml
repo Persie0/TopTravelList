@@ -1,0 +1,15 @@
+id: sight-al-lura-lakes
+name: "Lura Lakes"
+location:
+  country_code: AL
+  latitude: 41.7890
+  longitude: 20.2050
+scores:
+  impact: 8.5
+  uniqueness: 8.5
+  significance: 7.8
+  experience: 8.4
+  depth: 8.3
+  categories:
+    nature: 9.1
+    photography: 9.1

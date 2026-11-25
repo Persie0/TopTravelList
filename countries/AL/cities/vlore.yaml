@@ -1,0 +1,15 @@
+id: city-al-vlore
+name: "Vlorë"
+location:
+  country_code: AL
+  latitude: 40.4661
+  longitude: 19.4914
+scores:
+  impact: 7.8
+  uniqueness: 7.8
+  significance: 8.4
+  experience: 8.3
+  depth: 8.2
+  categories:
+    history: 8.8
+    relaxation: 8.6

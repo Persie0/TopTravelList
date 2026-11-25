@@ -1,0 +1,15 @@
+id: sight-al-gashi-river-beech-forest-component
+name: "Gashi River Beech Forest Component"
+location:
+  country_code: AL
+  latitude: 42.465000
+  longitude: 20.073000
+scores:
+  impact: 8.3
+  uniqueness: 8.8
+  significance: 9.2
+  experience: 7.9
+  depth: 8.3
+  categories:
+    nature: 9.4
+    wildlife: 8.8

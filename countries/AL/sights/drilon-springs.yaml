@@ -1,0 +1,15 @@
+id: sight-al-drilon-springs
+name: "Drilon Springs"
+location:
+  country_code: AL
+  latitude: 40.8990
+  longitude: 20.7140
+scores:
+  impact: 7.9
+  uniqueness: 8.0
+  significance: 7.4
+  experience: 8.5
+  depth: 7.7
+  categories:
+    relaxation: 8.9
+    nature: 8.7

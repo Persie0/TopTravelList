@@ -1,0 +1,15 @@
+id: sight-al-durres-amphitheatre
+name: "Durrës Amphitheatre"
+location:
+  country_code: AL
+  latitude: 41.3125
+  longitude: 19.4457
+scores:
+  impact: 8.4
+  uniqueness: 8.6
+  significance: 9.0
+  experience: 8.3
+  depth: 7.7
+  categories:
+    history: 9.3
+    architecture: 9

@@ -1,0 +1,15 @@
+id: sight-al-narta-lagoon
+name: "Narta Lagoon"
+location:
+  country_code: AL
+  latitude: 40.5370
+  longitude: 19.4200
+scores:
+  impact: 8.1
+  uniqueness: 8.3
+  significance: 8.4
+  experience: 8.3
+  depth: 8.4
+  categories:
+    nature: 9
+    wildlife: 9.1

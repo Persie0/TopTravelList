@@ -1,0 +1,16 @@
+id: city-al-tirana
+name: "Tirana"
+location:
+  country_code: AL
+  latitude: 41.3275
+  longitude: 19.8187
+scores:
+  impact: 8.0
+  uniqueness: 8.4
+  significance: 8.4
+  experience: 8.7
+  depth: 8.8
+  categories:
+    culture: 8.9
+    food: 8.8
+    nightlife: 8.8

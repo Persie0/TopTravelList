@@ -1,0 +1,16 @@
+id: sight-al-albanian-alps-national-park
+name: "Albanian Alps National Park"
+location:
+  country_code: AL
+  latitude: 42.4550
+  longitude: 19.8200
+scores:
+  impact: 9.3
+  uniqueness: 9.2
+  significance: 8.8
+  experience: 9.1
+  depth: 9.3
+  categories:
+    nature: 9.5
+    adventure: 9.5
+    photography: 9.5

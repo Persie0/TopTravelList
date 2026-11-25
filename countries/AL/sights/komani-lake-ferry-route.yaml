@@ -1,0 +1,15 @@
+id: sight-al-komani-lake-ferry-route
+name: "Komani Lake Ferry Route"
+location:
+  country_code: AL
+  latitude: 42.1460
+  longitude: 19.8790
+scores:
+  impact: 9.0
+  uniqueness: 8.8
+  significance: 7.5
+  experience: 9.0
+  depth: 8.7
+  categories:
+    nature: 9.2
+    photography: 9.4

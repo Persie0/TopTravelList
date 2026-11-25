@@ -1,0 +1,15 @@
+id: sight-al-petrele-castle
+name: "Petrelë Castle"
+location:
+  country_code: AL
+  latitude: 41.2550
+  longitude: 19.8530
+scores:
+  impact: 7.9
+  uniqueness: 8.0
+  significance: 8.1
+  experience: 8.1
+  depth: 7.1
+  categories:
+    history: 8.6
+    photography: 8.7

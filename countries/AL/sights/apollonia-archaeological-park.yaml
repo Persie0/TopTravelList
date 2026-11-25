@@ -1,0 +1,15 @@
+id: sight-al-apollonia-archaeological-park
+name: "Apollonia Archaeological Park"
+location:
+  country_code: AL
+  latitude: 40.7214
+  longitude: 19.4726
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 9.1
+  experience: 8.7
+  depth: 8.6
+  categories:
+    history: 9.4
+    architecture: 9.1

@@ -1,0 +1,15 @@
+id: sight-al-zekate-house
+name: "Zekate House"
+location:
+  country_code: AL
+  latitude: 40.0745
+  longitude: 20.1305
+scores:
+  impact: 8.3
+  uniqueness: 8.7
+  significance: 8.5
+  experience: 8.4
+  depth: 7.6
+  categories:
+    architecture: 9.1
+    photography: 8.8

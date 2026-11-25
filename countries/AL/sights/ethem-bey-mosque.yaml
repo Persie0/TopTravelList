@@ -1,0 +1,15 @@
+id: sight-al-ethem-bey-mosque
+name: "Et'hem Bey Mosque"
+location:
+  country_code: AL
+  latitude: 41.3276
+  longitude: 19.8195
+scores:
+  impact: 8.0
+  uniqueness: 8.5
+  significance: 8.6
+  experience: 8.2
+  depth: 7.1
+  categories:
+    architecture: 8.9
+    history: 9

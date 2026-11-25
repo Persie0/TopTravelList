@@ -1,0 +1,15 @@
+id: city-al-pogradec
+name: "Pogradec"
+location:
+  country_code: AL
+  latitude: 40.9025
+  longitude: 20.6520
+scores:
+  impact: 7.8
+  uniqueness: 7.7
+  significance: 7.7
+  experience: 8.3
+  depth: 7.7
+  categories:
+    relaxation: 8.8
+    food: 8.3

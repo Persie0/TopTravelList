@@ -1,0 +1,15 @@
+id: city-al-vermosh
+name: "Vermosh"
+location:
+  country_code: AL
+  latitude: 42.5930
+  longitude: 19.7100
+scores:
+  impact: 7.6
+  uniqueness: 7.8
+  significance: 7.1
+  experience: 7.8
+  depth: 6.8
+  categories:
+    photography: 8.6
+    relaxation: 8.3

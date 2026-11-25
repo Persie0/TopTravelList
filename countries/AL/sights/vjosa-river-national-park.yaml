@@ -1,0 +1,15 @@
+id: sight-al-vjosa-river-national-park
+name: "Vjosa River National Park"
+location:
+  country_code: AL
+  latitude: 40.2650
+  longitude: 20.2900
+scores:
+  impact: 8.9
+  uniqueness: 9.2
+  significance: 9.3
+  experience: 8.7
+  depth: 9.0
+  categories:
+    nature: 9.5
+    adventure: 9.2

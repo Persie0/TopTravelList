@@ -1,0 +1,15 @@
+id: city-al-himare
+name: "Himarë"
+location:
+  country_code: AL
+  latitude: 40.1040
+  longitude: 19.7440
+scores:
+  impact: 8.0
+  uniqueness: 7.9
+  significance: 7.5
+  experience: 8.5
+  depth: 7.7
+  categories:
+    beaches: 8.8
+    relaxation: 8.8

@@ -1,0 +1,15 @@
+id: sight-al-bunkart-1
+name: "BunkArt 1"
+location:
+  country_code: AL
+  latitude: 41.3520
+  longitude: 19.8600
+scores:
+  impact: 8.5
+  uniqueness: 9.0
+  significance: 8.8
+  experience: 8.6
+  depth: 8.5
+  categories:
+    history: 9.2
+    culture: 8.8

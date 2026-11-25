@@ -1,0 +1,15 @@
+id: sight-al-lake-ohrid-albanian-shore
+name: "Lake Ohrid Albanian Shore"
+location:
+  country_code: AL
+  latitude: 40.9620
+  longitude: 20.6620
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 9.3
+  experience: 8.7
+  depth: 8.8
+  categories:
+    nature: 9.4
+    history: 9.1

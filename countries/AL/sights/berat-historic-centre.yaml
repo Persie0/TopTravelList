@@ -1,0 +1,16 @@
+id: sight-al-berat-historic-centre
+name: "Berat Historic Centre"
+location:
+  country_code: AL
+  latitude: 40.7056
+  longitude: 19.9490
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 9.2
+  experience: 9.0
+  depth: 8.8
+  categories:
+    architecture: 9.4
+    history: 9.4
+    photography: 9.4

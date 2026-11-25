@@ -1,0 +1,14 @@
+id: city-al-bajram-curri
+name: "Bajram Curri"
+location:
+  country_code: AL
+  latitude: 42.3570
+  longitude: 20.0750
+scores:
+  impact: 6.7
+  uniqueness: 7.0
+  significance: 7.2
+  experience: 7.4
+  depth: 7.0
+  categories:
+    culture: 7.8

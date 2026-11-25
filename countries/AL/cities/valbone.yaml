@@ -1,0 +1,15 @@
+id: city-al-valbone
+name: "Valbonë"
+location:
+  country_code: AL
+  latitude: 42.4510
+  longitude: 19.8900
+scores:
+  impact: 8.0
+  uniqueness: 8.0
+  significance: 7.1
+  experience: 8.1
+  depth: 7.0
+  categories:
+    photography: 8.8
+    relaxation: 8.5

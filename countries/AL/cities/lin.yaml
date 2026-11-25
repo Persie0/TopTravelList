@@ -1,0 +1,15 @@
+id: city-al-lin
+name: "Lin"
+location:
+  country_code: AL
+  latitude: 40.9850
+  longitude: 20.6380
+scores:
+  impact: 8.0
+  uniqueness: 8.3
+  significance: 8.3
+  experience: 8.0
+  depth: 7.1
+  categories:
+    photography: 8.9
+    history: 8.8

@@ -1,0 +1,15 @@
+id: city-al-borsh
+name: "Borsh"
+location:
+  country_code: AL
+  latitude: 40.0550
+  longitude: 19.8550
+scores:
+  impact: 7.5
+  uniqueness: 7.5
+  significance: 7.0
+  experience: 8.1
+  depth: 7.2
+  categories:
+    beaches: 8.6
+    relaxation: 8.5

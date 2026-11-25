@@ -1,0 +1,14 @@
+id: sight-al-independence-museum-vlore
+name: "Independence Museum Vlorë"
+location:
+  country_code: AL
+  latitude: 40.4530
+  longitude: 19.4860
+scores:
+  impact: 7.7
+  uniqueness: 8.1
+  significance: 8.8
+  experience: 8.0
+  depth: 7.3
+  categories:
+    history: 9.2

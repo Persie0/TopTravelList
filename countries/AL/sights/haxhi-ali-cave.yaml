@@ -1,0 +1,15 @@
+id: sight-al-haxhi-ali-cave
+name: "Haxhi Ali Cave"
+location:
+  country_code: AL
+  latitude: 40.4110
+  longitude: 19.2920
+scores:
+  impact: 8.4
+  uniqueness: 8.5
+  significance: 7.2
+  experience: 8.6
+  depth: 7.4
+  categories:
+    nature: 9
+    photography: 9.1
