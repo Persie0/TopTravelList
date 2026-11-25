@@ -1,0 +1,16 @@
+id: sight-mu-le-pouce-mountain
+name: "Le Pouce Mountain"
+location:
+  country_code: MU
+  latitude: -20.1980
+  longitude: 57.5100
+scores:
+  impact: 8.6
+  uniqueness: 8.3
+  significance: 7.0
+  experience: 8.8
+  depth: 7.4
+  categories:
+    adventure: 8.9
+    photography: 9.1
+    nature: 8.6
