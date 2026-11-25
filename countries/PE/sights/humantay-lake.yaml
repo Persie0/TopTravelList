@@ -1,0 +1,16 @@
+id: sight-pe-humantay-lake
+name: "Humantay Lake"
+location:
+  country_code: PE
+  latitude: -13.4110
+  longitude: -72.6240
+scores:
+  impact: 9.1
+  uniqueness: 8.8
+  significance: 7.4
+  experience: 8.6
+  depth: 7.2
+  categories:
+    nature: 9.3
+    photography: 9.5
+    adventure: 8.7

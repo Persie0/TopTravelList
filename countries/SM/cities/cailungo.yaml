@@ -1,0 +1,14 @@
+id: city-sm-cailungo
+name: "Cailungo"
+location:
+  country_code: SM
+  latitude: 43.952
+  longitude: 12.454
+scores:
+  impact: 6.3
+  uniqueness: 6.5
+  significance: 6.6
+  experience: 7.0
+  depth: 6.4
+  categories:
+    relaxation: 7.4

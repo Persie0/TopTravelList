@@ -1,0 +1,15 @@
+id: sight-co-los-katios-national-park
+name: "Los Katíos National Park"
+location:
+  country_code: CO
+  latitude: 7.8333
+  longitude: -77.1667
+scores:
+  impact: null
+  uniqueness: 9.0
+  significance: 9.5
+  experience: null
+  depth: null
+  categories:
+    nature: 9.5
+    wildlife: 9.6

@@ -1,0 +1,17 @@
+id: city-cl-castro
+name: "Castro"
+location:
+  country_code: CL
+  latitude: -42.4801
+  longitude: -73.7624
+scores:
+  impact: 8.3
+  uniqueness: 8.6
+  significance: 8.3
+  experience: 8.2
+  depth: 7.5
+  categories:
+    architecture: 9.1
+    culture: 8.9
+    photography: 9.0
+    history: 8.5

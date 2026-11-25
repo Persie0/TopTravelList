@@ -1,0 +1,16 @@
+id: sight-pe-vinicunca-rainbow-mountain
+name: "Vinicunca Rainbow Mountain"
+location:
+  country_code: PE
+  latitude: -13.8700
+  longitude: -71.3020
+scores:
+  impact: 9.4
+  uniqueness: 9.2
+  significance: 7.8
+  experience: 8.6
+  depth: 7.0
+  categories:
+    photography: 9.7
+    nature: 9.4
+    adventure: 8.7

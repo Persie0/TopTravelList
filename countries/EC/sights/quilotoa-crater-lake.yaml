@@ -1,0 +1,16 @@
+id: sight-ec-quilotoa-crater-lake
+name: "Quilotoa Crater Lake"
+location:
+  country_code: EC
+  latitude: -0.8560
+  longitude: -78.9000
+scores:
+  impact: 9.4
+  uniqueness: 9.0
+  significance: 8.1
+  experience: 9.0
+  depth: 7.9
+  categories:
+    nature: 9.4
+    photography: 9.6
+    adventure: 8.8

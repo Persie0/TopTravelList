@@ -1,0 +1,15 @@
+id: sight-sm-state-museum-of-san-marino
+name: "State Museum of San Marino"
+location:
+  country_code: SM
+  latitude: 43.9360
+  longitude: 12.4467
+scores:
+  impact: 7.8
+  uniqueness: 8.2
+  significance: 8.6
+  experience: 8.2
+  depth: 8.0
+  categories:
+    history: 8.9
+    culture: 8.8

@@ -1,0 +1,15 @@
+id: sight-sm-church-of-saint-francis
+name: "Church of Saint Francis"
+location:
+  country_code: SM
+  latitude: 43.9352
+  longitude: 12.4465
+scores:
+  impact: 7.5
+  uniqueness: 7.8
+  significance: 8.3
+  experience: 7.8
+  depth: 6.9
+  categories:
+    history: 8.8
+    architecture: 8.3

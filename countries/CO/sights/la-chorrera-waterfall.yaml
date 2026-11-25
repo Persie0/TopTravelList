@@ -1,0 +1,16 @@
+id: sight-co-la-chorrera-waterfall
+name: "La Chorrera Waterfall"
+location:
+  country_code: CO
+  latitude: 4.5760
+  longitude: -73.9510
+scores:
+  impact: 8.5
+  uniqueness: 8.2
+  significance: 6.9
+  experience: 8.4
+  depth: 7.3
+  categories:
+    nature: 8.9
+    photography: 9.0
+    adventure: 8.5

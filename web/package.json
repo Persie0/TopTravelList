@@ -1,0 +1,22 @@
+{
+  "name": "top-travel-atlas",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/export.mjs && vite build",
+    "dev": "node scripts/export.mjs && vite --host 0.0.0.0",
+    "test": "node --test scripts/*.test.mjs"
+  },
+  "dependencies": {
+    "decimal.js": "10.5.0",
+    "leaflet": "1.9.4",
+    "topojson-client": "3.1.0",
+    "world-atlas": "2.0.2",
+    "world-countries": "5.1.0",
+    "yaml": "2.8.1"
+  },
+  "devDependencies": {
+    "vite": "6.4.1"
+  }
+}

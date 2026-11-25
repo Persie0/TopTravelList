@@ -1,0 +1,16 @@
+id: sight-am-sevanavank-monastery
+name: "Sevanavank Monastery"
+location:
+  country_code: AM
+  latitude: 40.564
+  longitude: 45.011
+scores:
+  impact: 8.7
+  uniqueness: 8.5
+  significance: 8.5
+  experience: 8.6
+  depth: 6.9
+  categories:
+    architecture: 8.8
+    photography: 9.2
+    history: 8.8

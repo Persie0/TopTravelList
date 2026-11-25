@@ -1,0 +1,16 @@
+id: sight-tg-akloa-waterfall
+name: "Akloa Waterfall"
+location:
+  country_code: TG
+  latitude: 7.5400
+  longitude: 0.5700
+scores:
+  impact: 8.7
+  uniqueness: 8.4
+  significance: 6.8
+  experience: 8.4
+  depth: 7.2
+  categories:
+    nature: 9.0
+    photography: 9.2
+    adventure: 8.6

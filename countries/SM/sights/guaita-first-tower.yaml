@@ -1,0 +1,16 @@
+id: sight-sm-guaita-first-tower
+name: "Guaita (First Tower)"
+location:
+  country_code: SM
+  latitude: 43.93522
+  longitude: 12.44929
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 8.9
+  experience: 8.8
+  depth: 8.1
+  categories:
+    architecture: 9.2
+    history: 9.2
+    photography: 9.4

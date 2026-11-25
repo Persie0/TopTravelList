@@ -1,0 +1,16 @@
+id: sight-ar-pucara-de-tilcara
+name: "Pucará de Tilcara"
+location:
+  country_code: AR
+  latitude: -23.5840
+  longitude: -65.4000
+scores:
+  impact: 8.1
+  uniqueness: 8.5
+  significance: 8.7
+  experience: 8.3
+  depth: 7.5
+  categories:
+    history: 9.2
+    architecture: 8.6
+    culture: 8.8

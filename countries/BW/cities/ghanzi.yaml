@@ -1,0 +1,14 @@
+id: city-bw-ghanzi
+name: "Ghanzi"
+location:
+  country_code: BW
+  latitude: -21.7000
+  longitude: 21.6500
+scores:
+  impact: 6.1
+  uniqueness: 7.4
+  significance: 6.7
+  experience: 7.2
+  depth: 6.2
+  categories:
+    culture: 8.2

@@ -1,0 +1,15 @@
+id: sight-py-tinfunque-national-park
+name: "Tinfunqué National Park"
+location:
+  country_code: PY
+  latitude: -24.8333
+  longitude: -59.4167
+scores:
+  impact: null
+  uniqueness: 8.3
+  significance: 8.5
+  experience: null
+  depth: null
+  categories:
+    nature: 8.9
+    wildlife: 8.9

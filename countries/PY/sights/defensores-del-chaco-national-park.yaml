@@ -1,0 +1,16 @@
+id: sight-py-defensores-del-chaco-national-park
+name: "Defensores del Chaco National Park"
+location:
+  country_code: PY
+  latitude: -20.1500
+  longitude: -59.5000
+scores:
+  impact: 8.3
+  uniqueness: 8.7
+  significance: 9.0
+  experience: 7.7
+  depth: 8.3
+  categories:
+    nature: 9.2
+    wildlife: 9.2
+    adventure: 8.4

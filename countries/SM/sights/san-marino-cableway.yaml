@@ -1,0 +1,15 @@
+id: sight-sm-san-marino-cableway
+name: "San Marino Cableway"
+location:
+  country_code: SM
+  latitude: 43.9390
+  longitude: 12.4465
+scores:
+  impact: 7.7
+  uniqueness: 7.4
+  significance: 6.7
+  experience: 8.3
+  depth: 6.9
+  categories:
+    photography: 8.6
+    family: 8.5

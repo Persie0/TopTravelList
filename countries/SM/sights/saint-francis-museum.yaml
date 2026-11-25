@@ -1,0 +1,15 @@
+id: sight-sm-saint-francis-museum
+name: "Saint Francis Museum"
+location:
+  country_code: SM
+  latitude: 43.9353
+  longitude: 12.4465
+scores:
+  impact: 7.7
+  uniqueness: 8.1
+  significance: 8.3
+  experience: 8.0
+  depth: 7.4
+  categories:
+    culture: 8.7
+    history: 8.6

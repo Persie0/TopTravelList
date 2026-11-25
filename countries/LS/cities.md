@@ -2,19 +2,34 @@
 
 # Lesotho (LS) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**16 ranked** · **0 unassessed** · **16 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
 This is the **complete ranking for this country's available dataset**, using absolute worldwide scores, **not country-relative scores**. Overall scores are out of 100; category scores are out of 10 and shown highest first (the top three are bold). Types are inferred from names, not separately verified.
 
-**Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, or click its GPS coordinates to open **Google Maps**. Locations are approximate representative points, not necessarily entrance coordinates.
+**Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (16)
 
-No cities, towns & villages have been assessed for **Lesotho** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Morija](cities/morija.yaml) | City / town | **76.55** | **History 8.9**, **Culture 8.8**, **Architecture 7.8** | 7.0 / 8.0 / 8.4 / 7.7 / 7.2 | [-29.626, 27.509](https://www.google.com/maps/search/?api=1&query=-29.626,27.509) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Morija%2C%20Lesotho) |
+| 2 | [Semonkong](cities/semonkong.yaml) | City / town | **74.10** | **Photography 8.3**, **Culture 8.0**, **Adventure 7.9** | 7.6 / 7.9 / 6.6 / 7.9 / 6.5 | [-29.843, 28.056](https://www.google.com/maps/search/?api=1&query=-29.843,28.056) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Semonkong%2C%20Lesotho) |
+| 3 | [Roma](cities/roma.yaml) | City / town | **72.50** | **Culture 8.2**, **History 8.2** | 6.7 / 7.5 / 7.8 / 7.5 / 6.8 | [-29.444, 27.726](https://www.google.com/maps/search/?api=1&query=-29.444,27.726) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Roma%2C%20Lesotho) |
+| 4 | [Malealea](cities/malealea.yaml) | City / town | **72.35** | **Photography 8.4**, **Culture 8.2** | 7.4 / 7.8 / 6.4 / 7.9 / 6.0 | [-29.82, 27.602](https://www.google.com/maps/search/?api=1&query=-29.82,27.602) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Malealea%2C%20Lesotho) |
+| 5 | [Maseru](cities/maseru.yaml) | City / town | **71.20** | **Culture 8.0**, **History 8.0**, **Food 7.8** | 6.5 / 7.0 / 7.9 / 7.4 / 7.3 | [-29.3167, 27.4833](https://www.google.com/maps/search/?api=1&query=-29.3167,27.4833) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Maseru%2C%20Lesotho) |
+| 6 | [Matsieng](cities/matsieng.yaml) | City / town | **71.10** | **History 8.4**, **Culture 8.3** | 6.6 / 7.5 / 8.0 / 7.1 / 5.9 | [-29.567, 27.567](https://www.google.com/maps/search/?api=1&query=-29.567,27.567) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Matsieng%2C%20Lesotho) |
+| 7 | [Mokhotlong](cities/mokhotlong.yaml) | City / town | **69.75** | **Photography 7.8**, **Culture 7.7** | 6.9 / 7.4 / 6.6 / 7.3 / 6.4 | [-29.289, 29.067](https://www.google.com/maps/search/?api=1&query=-29.289,29.067) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mokhotlong%2C%20Lesotho) |
+| 8 | [Quthing (Moyeni)](cities/quthing-moyeni.yaml) | City / town | **69.10** | **History 7.8**, **Culture 7.6**, **Photography 7.6** | 6.6 / 7.0 / 7.3 / 7.2 / 6.4 | [-30.4, 27.7](https://www.google.com/maps/search/?api=1&query=-30.4,27.7) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Quthing%20%28Moyeni%29%2C%20Lesotho) |
+| 9 | [Pitseng](cities/pitseng.yaml) | City / town | **68.70** | **Photography 7.9**, **Culture 7.6** | 6.9 / 7.3 / 6.4 / 7.3 / 6.0 | [-28.8901, 28.222](https://www.google.com/maps/search/?api=1&query=-28.8901,28.222) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Pitseng%2C%20Lesotho) |
+| 10 | [Butha-Buthe](cities/butha-buthe.yaml) | City / town | **67.90** | **Culture 7.6**, **History 7.6** | 6.5 / 6.9 / 7.1 / 7.1 / 6.3 | [-28.7667, 28.25](https://www.google.com/maps/search/?api=1&query=-28.7667,28.25) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Butha-Buthe%2C%20Lesotho) |
+| 11 | [Qacha's Nek](cities/qacha-s-nek.yaml) | City / town | **67.50** | **Photography 7.8**, **Culture 7.3** | 6.8 / 7.0 / 6.5 / 7.0 / 6.1 | [-30.1167, 28.6833](https://www.google.com/maps/search/?api=1&query=-30.1167,28.6833) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Qacha%27s%20Nek%2C%20Lesotho) |
+| 12 | [Hlotse (Leribe)](cities/hlotse-leribe.yaml) | City / town | **67.30** | **Culture 7.6**, **Food 7.5** | 6.3 / 6.7 / 7.0 / 7.3 / 6.7 | [-28.873, 28.047](https://www.google.com/maps/search/?api=1&query=-28.873,28.047) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hlotse%20%28Leribe%29%2C%20Lesotho) |
+| 13 | [Thaba-Tseka](cities/thaba-tseka.yaml) | City / town | **66.75** | **Photography 7.6**, **Culture 7.3** | 6.5 / 7.0 / 6.5 / 7.1 / 6.1 | [-29.523, 28.608](https://www.google.com/maps/search/?api=1&query=-29.523,28.608) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Thaba-Tseka%2C%20Lesotho) |
+| 14 | [Teyateyaneng](cities/teyateyaneng.yaml) | City / town | **66.70** | **Culture 7.9**, **Food 7.4** | 6.2 / 6.9 / 6.7 / 7.3 / 6.5 | [-29.147, 27.748](https://www.google.com/maps/search/?api=1&query=-29.147,27.748) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Teyateyaneng%2C%20Lesotho) |
+| 15 | [Mohale's Hoek](cities/mohale-s-hoek.yaml) | City / town | **66.05** | **Culture 7.3**, **Photography 7.3** | 6.4 / 6.7 / 6.7 / 7.0 / 6.2 | [-30.151, 27.476](https://www.google.com/maps/search/?api=1&query=-30.151,27.476) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mohale%27s%20Hoek%2C%20Lesotho) |
+| 16 | [Mafeteng](cities/mafeteng.yaml) | City / town | **64.75** | **Culture 7.3**, **Food 7.2** | 6.0 / 6.5 / 6.8 / 7.0 / 6.4 | [-29.823, 27.237](https://www.google.com/maps/search/?api=1&query=-29.823,27.237) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mafeteng%2C%20Lesotho) |
 
 ---
 

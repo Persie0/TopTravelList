@@ -1,0 +1,15 @@
+id: sight-sm-porta-san-francesco
+name: "Porta San Francesco"
+location:
+  country_code: SM
+  latitude: 43.9351
+  longitude: 12.4464
+scores:
+  impact: 7.4
+  uniqueness: 7.6
+  significance: 8.0
+  experience: 7.7
+  depth: 6.3
+  categories:
+    history: 8.5
+    architecture: 8.3

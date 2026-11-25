@@ -1,0 +1,15 @@
+id: sight-dj-ambouli-gardens
+name: "Ambouli Gardens"
+location:
+  country_code: DJ
+  latitude: 11.5670
+  longitude: 43.1300
+scores:
+  impact: 6.5
+  uniqueness: 7.2
+  significance: 6.4
+  experience: 7.2
+  depth: 6.1
+  categories:
+    nature: 7.7
+    relaxation: 7.5
