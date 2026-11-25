@@ -2,7 +2,7 @@
 
 # Ukraine (UA) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**11 ranked** · **3 unassessed** · **14 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,31 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (11)
 
-No cities, towns & villages have been assessed for **Ukraine** yet.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Kyiv](cities/kyiv.yaml) | City / town | **91.65** | **History 9.5**, **Architecture 9.3**, **Culture 9.3** | 9.1 / 9.2 / 9.4 / 8.9 / 9.2 | [50.4501, 30.5234](https://www.google.com/maps/search/?api=1&query=50.4501,30.5234) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kyiv%2C%20Ukraine) |
+| 2 | [Lviv](cities/lviv.yaml) | City / town | **90.65** | **Architecture 9.5**, **Culture 9.3**, **History 9.3** | 9.1 / 9.1 / 9.1 / 9.0 / 8.9 | [49.8397, 24.0297](https://www.google.com/maps/search/?api=1&query=49.8397,24.0297) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lviv%2C%20Ukraine) |
+| 3 | [Kamianets-Podilskyi](cities/kamianets-podilskyi.yaml) | City / town | **88.70** | **Photography 9.4**, **Architecture 9.3**, **History 9.2** | 9.0 / 9.1 / 8.8 / 8.7 / 8.3 | [48.6845, 26.5856](https://www.google.com/maps/search/?api=1&query=48.6845,26.5856) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kamianets-Podilskyi%2C%20Ukraine) |
+| 4 | [Chernivtsi](cities/chernivtsi.yaml) | City / town | **87.25** | **Architecture 9.3**, **History 9.1**, **Culture 9.0** | 8.7 / 8.8 / 8.8 / 8.7 / 8.5 | [48.2921, 25.9358](https://www.google.com/maps/search/?api=1&query=48.2921,25.9358) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Chernivtsi%2C%20Ukraine) |
+| 5 | [Lutsk](cities/lutsk.yaml) | City / town | **85.35** | **History 9.2**, **Architecture 9.0** | 8.5 / 8.6 / 8.7 / 8.5 / 8.2 | [50.7472, 25.3254](https://www.google.com/maps/search/?api=1&query=50.7472,25.3254) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lutsk%2C%20Ukraine) |
+| 6 | [Zhovkva](cities/zhovkva.yaml) | City / town | **85.05** | **Architecture 9.2**, **History 9.1** | 8.5 / 8.7 / 8.7 / 8.4 / 7.8 | [50.056, 23.972](https://www.google.com/maps/search/?api=1&query=50.056,23.972) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Zhovkva%2C%20Ukraine) |
+| 7 | [Drohobych](cities/drohobych.yaml) | City / town | **84.40** | **History 9.1**, **Architecture 9.0** | 8.3 / 8.6 / 8.7 / 8.4 / 8.0 | [49.35, 23.51](https://www.google.com/maps/search/?api=1&query=49.35,23.51) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Drohobych%2C%20Ukraine) |
+| 7 | [Uzhhorod](cities/uzhhorod.yaml) | City / town | **84.40** | **Architecture 8.9**, **Culture 8.9** | 8.3 / 8.5 / 8.5 / 8.7 / 8.2 | [48.6208, 22.2879](https://www.google.com/maps/search/?api=1&query=48.6208,22.2879) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Uzhhorod%2C%20Ukraine) |
+| 9 | [Ivano-Frankivsk](cities/ivano-frankivsk.yaml) | City / town | **83.80** | **Architecture 8.9**, **Culture 8.8** | 8.3 / 8.4 / 8.4 / 8.6 / 8.2 | [48.9226, 24.7111](https://www.google.com/maps/search/?api=1&query=48.9226,24.7111) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ivano-Frankivsk%2C%20Ukraine) |
+| 10 | [Mukachevo](cities/mukachevo.yaml) | City / town | **83.65** | **Architecture 8.9**, **History 8.9** | 8.3 / 8.4 / 8.5 / 8.5 / 8.0 | [48.4392, 22.7178](https://www.google.com/maps/search/?api=1&query=48.4392,22.7178) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mukachevo%2C%20Ukraine) |
+| 11 | [Yaremche](cities/yaremche.yaml) | City / town | **82.90** | **Photography 8.9**, **Relaxation 8.9**, **Culture 8.7** | 8.3 / 8.4 / 8.1 / 8.6 / 7.9 | [48.45, 24.55](https://www.google.com/maps/search/?api=1&query=48.45,24.55) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Yaremche%2C%20Ukraine) |
 
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+## Not yet fully assessed (3)
+
+These destinations have no rank until all five core scores are assessed.
+
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| — | [Chernihiv](cities/chernihiv.yaml) | City / town | **—** | **History 9.4**, **Architecture 9.3** | 8.6 / 8.9 / 9.2 / — / — | [51.4982, 31.2893](https://www.google.com/maps/search/?api=1&query=51.4982,31.2893) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Chernihiv%2C%20Ukraine) |
+| — | [Kharkiv](cities/kharkiv.yaml) | City / town | **—** | **Architecture 9.2**, **History 9.1**, **Culture 9.0** | 8.5 / 8.8 / 9.0 / — / — | [49.9935, 36.2304](https://www.google.com/maps/search/?api=1&query=49.9935,36.2304) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kharkiv%2C%20Ukraine) |
+| — | [Odesa](cities/odesa.yaml) | City / town | **—** | **History 9.3**, **Architecture 9.2**, **Culture 9.2** | 8.8 / 9.0 / 9.1 / — / — | [46.4825, 30.7233](https://www.google.com/maps/search/?api=1&query=46.4825,30.7233) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Odesa%2C%20Ukraine) |
 
 ---
 

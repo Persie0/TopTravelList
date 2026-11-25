@@ -1,0 +1,14 @@
+id: sight-ua-yasynia-tserkva
+name: "Ascension Tserkva, Yasynia"
+location:
+  country_code: UA
+  latitude: 48.255139
+  longitude: 24.344583
+scores:
+  impact: 8.5
+  uniqueness: 9.0
+  significance: 9.0
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.3
