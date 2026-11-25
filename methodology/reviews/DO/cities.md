@@ -2,7 +2,7 @@
 
 [Worldwide v2](../../../rules.md) · [Future-country workflow](../../future-country-workflow.md)
 
-Initial inventory, not exhaustive. [UNESCO country list](https://whc.unesco.org/en/statesparties/do) confirms one inscribed and thirteen tentative properties. Montecristi is represented in cities; remaining nominations in sights. The serial sugar-mill nomination is represented as a parent and three of four named components; fourth component requires separate location and identity verification. Rock-art nomination includes hundreds of locations; no exhaustive individual inventory claimed. No fully independently fact-checked ratings. GPS approximate, particularly unranked regional proxies; west longitude signs corrected for the named sugar-mill components. Never use regional proxies for navigation. Ratings do not guarantee present opening conditions.
+Initial inventory, not exhaustive. [UNESCO country list](https://whc.unesco.org/en/statesparties/do) confirms one inscribed and thirteen tentative properties. Montecristi is represented in cities; remaining nominations in sights. The serial sugar-mill nomination is represented as a parent and all four named components, with ordinary visitor access unresolved. Rock-art nomination includes hundreds of locations; no exhaustive individual inventory claimed. No fully independently fact-checked ratings. GPS approximate, particularly unranked regional proxies; west longitude signs corrected for the named sugar-mill components. Never use regional proxies for navigation. Ratings do not guarantee present opening conditions.
 
 ## city-do-santo-domingo — Santo Domingo — 2026-11-25
 

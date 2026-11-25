@@ -2,7 +2,7 @@
 
 [Worldwide v2](../../../rules.md) · [Future-country workflow](../../future-country-workflow.md)
 
-Initial inventory, not exhaustive. [UNESCO country list](https://whc.unesco.org/en/statesparties/do) confirms one inscribed and thirteen tentative properties. Montecristi is represented in cities; remaining nominations in sights. The serial sugar-mill nomination is represented as a parent and three of four named components; fourth component requires separate location and identity verification. Rock-art nomination includes hundreds of locations; no exhaustive individual inventory claimed. No fully independently fact-checked ratings. GPS approximate, particularly unranked regional proxies; west longitude signs corrected for the named sugar-mill components. Never use regional proxies for navigation. Ratings do not guarantee present opening conditions.
+Initial inventory, not exhaustive. [UNESCO country list](https://whc.unesco.org/en/statesparties/do) confirms one inscribed and thirteen tentative properties. Montecristi is represented in cities; remaining nominations in sights. The serial sugar-mill nomination is represented as a parent and all four named components, with ordinary visitor access unresolved. Rock-art nomination includes hundreds of locations; no exhaustive individual inventory claimed. No fully independently fact-checked ratings. GPS approximate, particularly unranked regional proxies; west longitude signs corrected for the named sugar-mill components. Never use regional proxies for navigation. Ratings do not guarantee present opening conditions.
 
 ## sight-do-colonial-city-santo-domingo — Colonial City of Santo Domingo — 2026-11-25
 
@@ -1159,3 +1159,37 @@ Initial inventory, not exhaustive. [UNESCO country list](https://whc.unesco.org/
 - Earlier decision: none.
 - Verification still needed: Location and ordinary permitted access.
 
+## sight-do-diego-caballero-sugar-mill — Ingenio de Diego Caballero — 2026-11-25
+
+- YAML: [source](../../../countries/DO/sights/diego-caballero-sugar-mill.yaml)
+- Action: new
+- Precise subject: Named hydraulic sugar mill component of the four-site serial tentative nomination.
+- Location check: 18.366347, -70.060667; nomination DMS converted to WGS84 decimal with west longitude corrected; independent location verification outstanding.
+- Evidence status: **unassessed**
+- Evidence: [UNESCO tentative nomination 6291](https://whc.unesco.org/en/tentativelists/6291/) — text checked 2026-11-25; describes sixteenth-century hydraulic mill, boiler house, furnaces and other structures, not current visitor access.
+- Missing or uncertain facts: Physical condition, ordinary permitted access and on-site interpretation.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Angkor Wat (KH)](../../../countries/KH/sights/angkor-wat.yaml) | No comparable confirmed monumental visitor scope. |
+| [Caracol (BZ)](../../../countries/BZ/sights/caracol-archaeological-reserve.yaml) | Smaller industrial archaeology, with ordinary route unresolved. |
+| [Nidhe Israel (BB)](../../../countries/BB/sights/nidhe-israel-synagogue-and-museum.yaml) | No documented equivalent museum circuit. |
+| [Layou Petroglyph Park (VC)](../../../countries/VC/sights/layou-petroglyph-park.yaml) | No established equivalent short interpreted visit. |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | null | Current visible mill and boiler house condition unverified. |
+| Uniqueness | null | Documented hydraulic engineering but visitor-specific distinctiveness unresolved. |
+| Significance | null | Early colonial sugar technology and enslaved labor context require individual comparative research. |
+| Experience | null | Ordinary permitted access unconfirmed. |
+| Depth | null | Extent of interpretable remains unverified. |
+
+- Applicable categories: unassessed.
+- Overall: unranked.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Retain named component unranked pending visit evidence.
+- Earlier decision: none.
+- Verification still needed: Geographic check, current condition and permitted access.
