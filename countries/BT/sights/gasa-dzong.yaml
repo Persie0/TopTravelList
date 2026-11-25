@@ -1,0 +1,16 @@
+id: sight-bt-gasa-dzong
+name: "Gasa Dzong"
+location:
+  country_code: BT
+  latitude: 27.9060
+  longitude: 89.7260
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 8.6
+  experience: 8.3
+  depth: 7.9
+  categories:
+    architecture: 9.0
+    history: 8.9
+    photography: 9.0

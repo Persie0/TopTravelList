@@ -1,0 +1,15 @@
+id: sight-bt-tharpaling-monastery
+name: "Tharpaling Monastery"
+location:
+  country_code: BT
+  latitude: 27.5070
+  longitude: 90.6650
+scores:
+  impact: 8.4
+  uniqueness: 8.7
+  significance: 8.6
+  experience: 8.5
+  depth: 7.9
+  categories:
+    culture: 9.1
+    photography: 8.9

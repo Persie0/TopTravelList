@@ -1,0 +1,15 @@
+id: sight-bt-mongar-dzong
+name: "Mongar Dzong"
+location:
+  country_code: BT
+  latitude: 27.2750
+  longitude: 91.2400
+scores:
+  impact: 8.0
+  uniqueness: 8.3
+  significance: 8.1
+  experience: 8.2
+  depth: 7.6
+  categories:
+    architecture: 8.8
+    culture: 8.7

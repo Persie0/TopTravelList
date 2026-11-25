@@ -1,0 +1,16 @@
+id: sight-bt-black-necked-crane-information-centre
+name: "Black-necked Crane Information Centre"
+location:
+  country_code: BT
+  latitude: 27.4510
+  longitude: 90.1860
+scores:
+  impact: 7.5
+  uniqueness: 8.2
+  significance: 8.4
+  experience: 8.3
+  depth: 7.4
+  categories:
+    wildlife: 8.9
+    nature: 8.5
+    family: 8.2

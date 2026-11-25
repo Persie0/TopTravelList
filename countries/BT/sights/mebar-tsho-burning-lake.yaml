@@ -1,0 +1,16 @@
+id: sight-bt-mebar-tsho-burning-lake
+name: "Mebar Tsho (Burning Lake)"
+location:
+  country_code: BT
+  latitude: 27.5280
+  longitude: 90.8000
+scores:
+  impact: 8.1
+  uniqueness: 8.8
+  significance: 8.7
+  experience: 8.2
+  depth: 7.2
+  categories:
+    culture: 9.2
+    nature: 8.7
+    history: 8.9

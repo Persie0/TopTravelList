@@ -1,0 +1,16 @@
+id: sight-bt-trashigang-dzong
+name: "Trashigang Dzong"
+location:
+  country_code: BT
+  latitude: 27.3360
+  longitude: 91.5530
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 8.9
+  experience: 8.5
+  depth: 8.1
+  categories:
+    architecture: 9.1
+    history: 9.2
+    photography: 9.0

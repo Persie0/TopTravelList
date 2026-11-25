@@ -1,0 +1,15 @@
+id: sight-bt-zangto-pelri-lhakhang-phuentsholing
+name: "Zangto Pelri Lhakhang Phuentsholing"
+location:
+  country_code: BT
+  latitude: 26.8560
+  longitude: 89.3870
+scores:
+  impact: 7.6
+  uniqueness: 8.0
+  significance: 7.5
+  experience: 8.0
+  depth: 7.0
+  categories:
+    culture: 8.5
+    architecture: 8.6

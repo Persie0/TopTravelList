@@ -1,0 +1,16 @@
+id: sight-bt-samtengang-winter-trek
+name: "Samtengang Winter Trek"
+location:
+  country_code: BT
+  latitude: 27.48
+  longitude: 89.96
+scores:
+  impact: 8.1
+  uniqueness: 8.3
+  significance: 7.5
+  experience: 8.5
+  depth: 8.2
+  categories:
+    culture: 8.6
+    nature: 8.7
+    adventure: 8.7

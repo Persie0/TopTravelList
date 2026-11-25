@@ -1,0 +1,15 @@
+id: sight-bt-chele-la-pass
+name: "Chele La Pass"
+location:
+  country_code: BT
+  latitude: 27.3690
+  longitude: 89.3450
+scores:
+  impact: 8.9
+  uniqueness: 8.7
+  significance: 7.3
+  experience: 8.7
+  depth: 7.6
+  categories:
+    photography: 9.3
+    nature: 9.1

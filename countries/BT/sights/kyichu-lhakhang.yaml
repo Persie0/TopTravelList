@@ -1,0 +1,16 @@
+id: sight-bt-kyichu-lhakhang
+name: "Kyichu Lhakhang"
+location:
+  country_code: BT
+  latitude: 27.4540
+  longitude: 89.3970
+scores:
+  impact: 8.3
+  uniqueness: 8.7
+  significance: 9.0
+  experience: 8.5
+  depth: 7.8
+  categories:
+    culture: 9.3
+    history: 9.3
+    architecture: 8.9

@@ -1,0 +1,15 @@
+id: sight-bt-jomotsangkha-wildlife-sanctuary
+name: "Jomotsangkha Wildlife Sanctuary"
+location:
+  country_code: BT
+  latitude: 26.88
+  longitude: 92.00
+scores:
+  impact: 8.0
+  uniqueness: 8.4
+  significance: 8.6
+  experience: null
+  depth: null
+  categories:
+    nature: 8.9
+    wildlife: 8.9

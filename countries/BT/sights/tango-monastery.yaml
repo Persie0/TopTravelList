@@ -1,0 +1,16 @@
+id: sight-bt-tango-monastery
+name: "Tango Monastery"
+location:
+  country_code: BT
+  latitude: 27.5950
+  longitude: 89.6540
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 9.0
+  experience: 8.7
+  depth: 8.2
+  categories:
+    architecture: 9.3
+    culture: 9.3
+    history: 9.3

@@ -1,0 +1,16 @@
+id: sight-bt-bumdeling-wildlife-sanctuary
+name: "Bumdeling Wildlife Sanctuary"
+location:
+  country_code: BT
+  latitude: 27.76
+  longitude: 91.50
+scores:
+  impact: 8.7
+  uniqueness: 9.0
+  significance: 9.0
+  experience: 8.6
+  depth: 8.8
+  categories:
+    wildlife: 9.3
+    nature: 9.3
+    photography: 9.0

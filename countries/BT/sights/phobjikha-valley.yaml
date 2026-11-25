@@ -1,0 +1,17 @@
+id: sight-bt-phobjikha-valley
+name: "Phobjikha Valley"
+location:
+  country_code: BT
+  latitude: 27.46
+  longitude: 90.18
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 8.9
+  experience: 9.0
+  depth: 9.0
+  categories:
+    nature: 9.4
+    wildlife: 9.4
+    photography: 9.3
+    relaxation: 9.2

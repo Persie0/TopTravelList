@@ -1,0 +1,15 @@
+id: sight-bt-konchogsum-lhakhang
+name: "Konchogsum Lhakhang"
+location:
+  country_code: BT
+  latitude: 27.5760
+  longitude: 90.7510
+scores:
+  impact: 8.0
+  uniqueness: 8.4
+  significance: 8.5
+  experience: 8.2
+  depth: 7.3
+  categories:
+    culture: 8.9
+    history: 8.9

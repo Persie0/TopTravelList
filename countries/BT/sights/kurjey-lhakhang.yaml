@@ -1,0 +1,16 @@
+id: sight-bt-kurjey-lhakhang
+name: "Kurjey Lhakhang"
+location:
+  country_code: BT
+  latitude: 27.5910
+  longitude: 90.7450
+scores:
+  impact: 8.8
+  uniqueness: 9.1
+  significance: 9.2
+  experience: 8.8
+  depth: 8.5
+  categories:
+    culture: 9.4
+    history: 9.3
+    architecture: 9.3

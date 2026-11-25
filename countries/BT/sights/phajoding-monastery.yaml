@@ -1,0 +1,16 @@
+id: sight-bt-phajoding-monastery
+name: "Phajoding Monastery"
+location:
+  country_code: BT
+  latitude: 27.4720
+  longitude: 89.5790
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 8.8
+  experience: 8.7
+  depth: 8.1
+  categories:
+    culture: 9.2
+    history: 9.1
+    photography: 9.1

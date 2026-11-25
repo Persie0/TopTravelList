@@ -1,0 +1,16 @@
+id: sight-bt-royal-manas-national-park
+name: "Royal Manas National Park"
+location:
+  country_code: BT
+  latitude: 26.94
+  longitude: 90.93
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 9.4
+  experience: 8.7
+  depth: 9.0
+  categories:
+    nature: 9.5
+    wildlife: 9.5
+    adventure: 9.0

@@ -1,0 +1,16 @@
+id: sight-bt-wangdue-phodrang-dzong
+name: "Wangdue Phodrang Dzong"
+location:
+  country_code: BT
+  latitude: 27.4830
+  longitude: 89.9000
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 9.0
+  experience: 8.6
+  depth: 8.3
+  categories:
+    architecture: 9.2
+    history: 9.2
+    culture: 9.0

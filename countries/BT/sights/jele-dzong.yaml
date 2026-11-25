@@ -1,0 +1,16 @@
+id: sight-bt-jele-dzong
+name: "Jele Dzong"
+location:
+  country_code: BT
+  latitude: 27.4540
+  longitude: 89.4850
+scores:
+  impact: 8.2
+  uniqueness: 8.6
+  significance: 8.4
+  experience: 8.3
+  depth: 7.5
+  categories:
+    culture: 8.9
+    history: 8.8
+    photography: 8.8

@@ -1,0 +1,17 @@
+id: sight-bt-sakteng-wildlife-sanctuary
+name: "Sakteng Wildlife Sanctuary"
+location:
+  country_code: BT
+  latitude: 27.39
+  longitude: 91.92
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 9.0
+  experience: 8.7
+  depth: 8.9
+  categories:
+    nature: 9.3
+    wildlife: 9.1
+    culture: 9.2
+    adventure: 9.2
