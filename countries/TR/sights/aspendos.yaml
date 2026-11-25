@@ -1,0 +1,15 @@
+id: sight-tr-aspendos
+name: "Aspendos Theatre and Aqueducts"
+location:
+  country_code: TR
+  latitude: 36.939
+  longitude: 31.172
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 9.1
+  experience: 8.7
+  depth: 8.1
+  categories:
+    architecture: 9.3
+    history: 9.2

@@ -1,0 +1,15 @@
+id: city-be-kortrijk
+name: "Kortrijk"
+location:
+  country_code: BE
+  latitude: 50.827
+  longitude: 3.265
+scores:
+  impact: 7.9
+  uniqueness: 8.0
+  significance: 8.2
+  experience: 8.3
+  depth: 7.9
+  categories:
+    history: 8.7
+    architecture: 8.6

@@ -1,0 +1,14 @@
+id: sight-be-tyne-cot
+name: "Tyne Cot Cemetery and Memorial"
+location:
+  country_code: BE
+  latitude: 50.886
+  longitude: 2.998
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 9.2
+  experience: 8.2
+  depth: 7.7
+  categories:
+    history: 9.4

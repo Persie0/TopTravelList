@@ -1,0 +1,15 @@
+id: city-be-hasselt
+name: "Hasselt"
+location:
+  country_code: BE
+  latitude: 50.93
+  longitude: 5.34
+scores:
+  impact: 7.6
+  uniqueness: 7.8
+  significance: 7.8
+  experience: 8.3
+  depth: 7.9
+  categories:
+    food: 8.5
+    culture: 8.4

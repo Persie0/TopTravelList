@@ -1,0 +1,14 @@
+id: sight-ru-struve-arc
+name: "Struve Geodetic Arc (Russian components)"
+location:
+  country_code: RU
+  latitude: 60.08
+  longitude: 29.93
+scores:
+  impact: null
+  uniqueness: 8.7
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    history: 9.2

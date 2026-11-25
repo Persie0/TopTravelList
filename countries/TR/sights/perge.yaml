@@ -1,0 +1,15 @@
+id: sight-tr-perge
+name: "Archaeological Site of Perge"
+location:
+  country_code: TR
+  latitude: 36.961
+  longitude: 30.852
+scores:
+  impact: 8.7
+  uniqueness: 8.5
+  significance: 8.9
+  experience: 8.6
+  depth: 8.6
+  categories:
+    history: 9.1
+    architecture: 9.0

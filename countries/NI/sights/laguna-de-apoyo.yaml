@@ -1,0 +1,16 @@
+id: sight-ni-laguna-de-apoyo
+name: "Laguna de Apoyo Nature Reserve"
+location:
+  country_code: NI
+  latitude: 11.922
+  longitude: -86.034
+scores:
+  impact: 8.5
+  uniqueness: 8.4
+  significance: 7.9
+  experience: 8.9
+  depth: 8.0
+  categories:
+    nature: 9.0
+    relaxation: 9.1
+    photography: 8.9

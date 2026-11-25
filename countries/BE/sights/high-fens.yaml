@@ -1,0 +1,16 @@
+id: sight-be-high-fens
+name: "High Fens plateau (tentative)"
+location:
+  country_code: BE
+  latitude: 50.51
+  longitude: 6.08
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 8.8
+  depth: 8.7
+  categories:
+    nature: 9.3
+    photography: 9.0
+    adventure: 8.8

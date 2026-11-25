@@ -1,0 +1,16 @@
+id: city-be-ostend
+name: "Ostend (Oostende)"
+location:
+  country_code: BE
+  latitude: 51.23
+  longitude: 2.92
+scores:
+  impact: 7.8
+  uniqueness: 7.7
+  significance: 8.0
+  experience: 8.6
+  depth: 8.3
+  categories:
+    beaches: 8.6
+    culture: 8.6
+    relaxation: 8.7

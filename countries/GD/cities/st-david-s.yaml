@@ -1,0 +1,14 @@
+id: city-gd-st-david-s
+name: "St David's"
+location:
+  country_code: GD
+  latitude: 12.042
+  longitude: -61.667
+scores:
+  impact: 6.3
+  uniqueness: 7.0
+  significance: 6.6
+  experience: 7.2
+  depth: 6.1
+  categories:
+    culture: 7.6

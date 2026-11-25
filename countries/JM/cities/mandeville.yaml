@@ -1,0 +1,15 @@
+id: city-jm-mandeville
+name: "Mandeville"
+location:
+  country_code: JM
+  latitude: 18.044
+  longitude: -77.507
+scores:
+  impact: 6.8
+  uniqueness: 7.1
+  significance: 7.2
+  experience: 7.4
+  depth: 6.7
+  categories:
+    architecture: 7.8
+    culture: 7.8

@@ -1,0 +1,16 @@
+id: sight-be-leuven-university
+name: "Historic University Buildings of Leuven (tentative)"
+location:
+  country_code: BE
+  latitude: 50.879
+  longitude: 4.7
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 9.1
+  experience: 8.4
+  depth: 8.5
+  categories:
+    architecture: 9.1
+    history: 9.2
+    culture: 8.9

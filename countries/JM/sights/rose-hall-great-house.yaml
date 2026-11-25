@@ -1,0 +1,15 @@
+id: sight-jm-rose-hall-great-house
+name: "Rose Hall Great House"
+location:
+  country_code: JM
+  latitude: 18.513
+  longitude: -77.824
+scores:
+  impact: 7.9
+  uniqueness: 7.8
+  significance: 8.2
+  experience: 8.0
+  depth: 7.2
+  categories:
+    architecture: 8.7
+    history: 8.7

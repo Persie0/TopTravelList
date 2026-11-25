@@ -1,0 +1,13 @@
+id: sight-bs-dixon-hill-lighthouse
+name: "Dixon Hill Lighthouse (San Salvador)"
+location:
+  country_code: BS
+  latitude: 24.0975
+  longitude: -74.453056
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}

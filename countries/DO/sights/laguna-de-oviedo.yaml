@@ -1,0 +1,16 @@
+id: sight-do-laguna-de-oviedo
+name: "Laguna de Oviedo"
+location:
+  country_code: DO
+  latitude: 17.774
+  longitude: -71.336
+scores:
+  impact: 8.2
+  uniqueness: 8.6
+  significance: 8.5
+  experience: 8.3
+  depth: 7.9
+  categories:
+    wildlife: 9.0
+    nature: 9.0
+    photography: 8.9

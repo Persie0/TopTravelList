@@ -1,0 +1,15 @@
+id: sight-ru-kenozero
+name: "Cultural Landscape of Kenozero Lake"
+location:
+  country_code: RU
+  latitude: 62
+  longitude: 38.2
+scores:
+  impact: 8.4
+  uniqueness: 8.7
+  significance: 8.7
+  experience: null
+  depth: null
+  categories:
+    nature: 8.8
+    culture: 9.0

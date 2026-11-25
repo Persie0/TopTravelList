@@ -1,0 +1,16 @@
+id: sight-cu-historic-centre-camaguey
+name: "Historic Centre of Camagüey"
+location:
+  country_code: CU
+  latitude: 21.38
+  longitude: -77.919
+scores:
+  impact: 8.3
+  uniqueness: 8.6
+  significance: 8.7
+  experience: 8.3
+  depth: 8.3
+  categories:
+    architecture: 9.0
+    history: 8.9
+    culture: 8.8

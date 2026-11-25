@@ -1,0 +1,16 @@
+id: sight-tr-derinkuyu
+name: "Derinkuyu Underground City"
+location:
+  country_code: TR
+  latitude: 38.373
+  longitude: 34.734
+scores:
+  impact: 8.7
+  uniqueness: 9.3
+  significance: 9.0
+  experience: 8.4
+  depth: 8.0
+  categories:
+    architecture: 9.1
+    history: 9.2
+    adventure: 8.7

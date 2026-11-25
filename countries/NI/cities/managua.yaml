@@ -1,0 +1,16 @@
+id: city-ni-managua
+name: "Managua"
+location:
+  country_code: NI
+  latitude: 12.136
+  longitude: -86.252
+scores:
+  impact: 6.9
+  uniqueness: 7.3
+  significance: 7.8
+  experience: 7.4
+  depth: 7.9
+  categories:
+    culture: 8.0
+    history: 8.2
+    food: 8.1

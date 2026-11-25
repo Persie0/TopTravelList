@@ -1,0 +1,16 @@
+id: sight-jm-frenchmans-cove
+name: "Frenchman's Cove"
+location:
+  country_code: JM
+  latitude: 18.176
+  longitude: -76.404
+scores:
+  impact: 8.5
+  uniqueness: 8.3
+  significance: 6.9
+  experience: 8.5
+  depth: 6.8
+  categories:
+    beaches: 9.2
+    photography: 9.2
+    relaxation: 9.0
