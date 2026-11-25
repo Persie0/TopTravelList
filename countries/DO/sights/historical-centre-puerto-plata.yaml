@@ -1,0 +1,15 @@
+id: sight-do-historical-centre-puerto-plata
+name: "Historical Centre of Puerto Plata"
+location:
+  country_code: DO
+  latitude: 19.798
+  longitude: -70.695
+scores:
+  impact: 7.9
+  uniqueness: 8.3
+  significance: 8.3
+  experience: 8.1
+  depth: 7.7
+  categories:
+    architecture: 8.9
+    history: 8.7

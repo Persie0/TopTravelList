@@ -1,0 +1,15 @@
+id: sight-do-la-isabela
+name: "Sitio Arqueológico de la Villa La Isabela"
+location:
+  country_code: DO
+  latitude: 19.886
+  longitude: -71.08
+scores:
+  impact: 7.4
+  uniqueness: 8.6
+  significance: 9.2
+  experience: 7.7
+  depth: 7.5
+  categories:
+    history: 9.3
+    architecture: 7.9
