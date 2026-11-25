@@ -322,3 +322,18 @@
 - Approved 10 registry: none.
 - Final decision: Keep unranked pending sufficient evidence.
 - Verification still needed: independent coordinates, material claims, conservation and access, peer suitability and current values.
+
+## Follow-up: city identity and scope corroboration — 2026-11-25
+
+- [Damascus](../../../countries/SY/cities/damascus.yaml): [UNESCO old city](https://whc.unesco.org/en/list/20/) and [2026 cultural venues reporting](https://www.thenationalnews.com/arts-culture/2026/09/25/syrian-theatres-museums-and-cultural-spaces-reopening-and-being-restored-in-2026/) corroborate historic fabric and reopened venues; the city score covers the broader settlement.
+- [Aleppo](../../../countries/SY/cities/aleppo.yaml): [UNESCO property](https://whc.unesco.org/en/list/21/) describes the trading-city heritage, not all present-day visitor access.
+- [Hama](../../../countries/SY/cities/hama.yaml): [UNESCO norias nomination](https://whc.unesco.org/en/tentativelists/1291/) corroborates distinctive river heritage, not the entire city.
+- [Homs](../../../countries/SY/cities/homs.yaml): [The National](https://www.thenationalnews.com/arts-culture/2026/09/25/syrian-theatres-museums-and-cultural-spaces-reopening-and-being-restored-in-2026/) describes reopening of its historic theatre; insufficient evidence of a citywide circuit, remains unranked.
+- [Latakia](../../../countries/SY/cities/latakia.yaml): [historic Britannica account](https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Latakia) corroborates port history; [2026 museum guide](https://comesyria.com/en/guides/museums-tickets-and-opening-hours-in-syria) describes the local museum. Current citywide scope still provisional.
+- [Tartus](../../../countries/SY/cities/tartus.yaml): [UNESCO citadel nomination](https://whc.unesco.org/en/tentativelists/1301/) and [The National port report](https://www.thenationalnews.com/news/mena/2025/05/26/tartous-port-finds-new-lease-of-life-as-syria-reopens-for-business/) corroborate distinct coastal and historic identity without crediting commercial port operations as tourism.
+- [Maaloula](../../../countries/SY/cities/maaloula.yaml): [individual UNESCO nomination](https://whc.unesco.org/en/tentativelists/1299/) documents living religious settlement heritage.
+- [Bosra](../../../countries/SY/cities/bosra.yaml): [UNESCO property](https://whc.unesco.org/en/list/22/) supports historical identity, not automatic inheritance of the archaeological sight score.
+- [Tadmur](../../../countries/SY/cities/tadmur.yaml): [Getty geographic record](https://www.getty.edu/vow/TGNFullDisplay?english=Y&find=Palmyra&nation=&place=&subjectid=7032452) distinguishes modern settlement from the ancient site; ordinary settlement visit not established, remain unranked.
+- [Raqqa](../../../countries/SY/cities/raqqa.yaml): [UNESCO Raqqa-Rafiqa nomination](https://whc.unesco.org/en/tentativelists/1302/) supports historical identity, not ordinary current city access; retain unranked.
+
+No numerical city changes made. These links support specific historical or visitor claims, not full factual verification; original GPS points and broader visitor circuits remain provisional.

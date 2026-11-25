@@ -974,3 +974,73 @@
 - Current peers: [Ur (IQ)](../../../countries/IQ/sights/ur.yaml) 8.9/9.2/9.4/8.4/8.5, more monumental and broader; [Harappa (PK)](../../../countries/PK/sights/harappa.yaml) 8.0/8.9/9.2/8.0/8.0, similarly fragmentary city; [Kara Tepe (UZ)](../../../countries/UZ/sights/kara-tepe-buddhist-monastery.yaml) 8.1/8.8/9.1/8.0/7.8, comparable ruins visit; [Abila (JO)](../../../countries/JO/sights/abila-archaeological-site.yaml) 7.3/7.9/8.3/7.1/7.2, more limited interpreted remains.
 
 [September 2026 reopening](https://sana.sy/en/culture-and-arts/2346698/) supports the existing Deir Samaan score. The broader Ancient Villages property remains unassessed; [July restoration agreement](https://sana.sy/en/culture-and-arts/2331522/) is not evidence of Margat reopening. All 10 cities and 30 sights screened. No claim of current safety or unrestricted access; retain warnings and independent factual/GPS verification gaps. Existing categories, coordinates and weights unchanged.
+
+## Follow-up: primary heritage inventory and source coverage — 2026-11-25
+
+Direct UNESCO property descriptions were checked against the individual record identities. They support historical scope and significance, not current opening hours, undamaged fabric, exact component GPS or numerical scores. Existing decisions remain provisional; the serial nominations and their individually scored components are overlapping alternative scopes, not additive itinerary stops.
+
+- [sight-sy-ancient-damascus](../../../countries/SY/sights/ancient-damascus.yaml): [UNESCO property description](https://whc.unesco.org/en/list/20/); parent property evidence only where the record is a component.
+- [sight-sy-ancient-aleppo](../../../countries/SY/sights/ancient-aleppo.yaml): [UNESCO property description](https://whc.unesco.org/en/list/21/); parent property evidence only where the record is a component.
+- [sight-sy-ancient-bosra](../../../countries/SY/sights/ancient-bosra.yaml): [UNESCO property description](https://whc.unesco.org/en/list/22/); parent property evidence only where the record is a component.
+- [sight-sy-palmyra](../../../countries/SY/sights/palmyra.yaml): [UNESCO property description](https://whc.unesco.org/en/list/23/); parent property evidence only where the record is a component.
+- [sight-sy-crac-and-saladin](../../../countries/SY/sights/crac-and-saladin.yaml): [UNESCO property description](https://whc.unesco.org/en/list/1229/); parent property evidence only where the record is a component.
+- [sight-sy-ancient-villages](../../../countries/SY/sights/ancient-villages.yaml): [UNESCO property description](https://whc.unesco.org/en/list/1348/); parent property evidence only where the record is a component.
+- [sight-sy-umayyad-mosque](../../../countries/SY/sights/umayyad-mosque.yaml): [UNESCO property description](https://whc.unesco.org/en/list/20/); parent property evidence only where the record is a component.
+- [sight-sy-aleppo-citadel](../../../countries/SY/sights/aleppo-citadel.yaml): [UNESCO property description](https://whc.unesco.org/en/list/21/); parent property evidence only where the record is a component.
+- [sight-sy-aleppo-great-mosque](../../../countries/SY/sights/aleppo-great-mosque.yaml): [UNESCO property description](https://whc.unesco.org/en/list/21/); parent property evidence only where the record is a component.
+- [sight-sy-bosra-theatre](../../../countries/SY/sights/bosra-theatre.yaml): [UNESCO property description](https://whc.unesco.org/en/list/22/); parent property evidence only where the record is a component.
+- [sight-sy-krak-des-chevaliers](../../../countries/SY/sights/krak-des-chevaliers.yaml): [UNESCO property description](https://whc.unesco.org/en/list/1229/); parent property evidence only where the record is a component.
+- [sight-sy-saladin-castle](../../../countries/SY/sights/saladin-castle.yaml): [UNESCO property description](https://whc.unesco.org/en/list/1229/); parent property evidence only where the record is a component.
+- [sight-sy-deir-samaan](../../../countries/SY/sights/deir-samaan.yaml): [UNESCO property description](https://whc.unesco.org/en/list/1348/); parent property evidence only where the record is a component.
+- [sight-sy-azm-palace](../../../countries/SY/sights/azm-palace.yaml): [UNESCO property description](https://whc.unesco.org/en/list/20/); parent property evidence only where the record is a component.
+- [sight-sy-norias-hama](../../../countries/SY/sights/norias-hama.yaml): [individual tentative nomination](https://whc.unesco.org/en/tentativelists/1291/); verifies nomination identity, not inscription or present access.
+- [sight-sy-ugarit](../../../countries/SY/sights/ugarit.yaml): [individual tentative nomination](https://whc.unesco.org/en/tentativelists/1292/); verifies nomination identity, not inscription or present access.
+- [sight-sy-ebla](../../../countries/SY/sights/ebla.yaml): [individual tentative nomination](https://whc.unesco.org/en/tentativelists/1293/); verifies nomination identity, not inscription or present access.
+- [sight-sy-mari](../../../countries/SY/sights/mari.yaml): [individual tentative nomination](https://whc.unesco.org/en/tentativelists/1294/); verifies nomination identity, not inscription or present access.
+- [sight-sy-dura-europos](../../../countries/SY/sights/dura-europos.yaml): [individual tentative nomination](https://whc.unesco.org/en/tentativelists/1295/); verifies nomination identity, not inscription or present access.
+- [sight-sy-apamea](../../../countries/SY/sights/apamea.yaml): [individual tentative nomination](https://whc.unesco.org/en/tentativelists/1297/); verifies nomination identity, not inscription or present access.
+- [sight-sy-qasr-al-hayr](../../../countries/SY/sights/qasr-al-hayr.yaml): [individual tentative nomination](https://whc.unesco.org/en/tentativelists/1298/); verifies nomination identity, not inscription or present access.
+- [sight-sy-maaloula-heritage](../../../countries/SY/sights/maaloula-heritage.yaml): [individual tentative nomination](https://whc.unesco.org/en/tentativelists/1299/); verifies nomination identity, not inscription or present access.
+- [sight-sy-tartus-citadel](../../../countries/SY/sights/tartus-citadel.yaml): [individual tentative nomination](https://whc.unesco.org/en/tentativelists/1301/); verifies nomination identity, not inscription or present access.
+- [sight-sy-raqqa-rafiqa](../../../countries/SY/sights/raqqa-rafiqa.yaml): [individual tentative nomination](https://whc.unesco.org/en/tentativelists/1302/); verifies nomination identity, not inscription or present access.
+- [sight-sy-arwad](../../../countries/SY/sights/arwad.yaml): [individual tentative nomination](https://whc.unesco.org/en/tentativelists/1303/); verifies nomination identity, not inscription or present access.
+- [sight-sy-mari-dura-serial](../../../countries/SY/sights/mari-dura-serial.yaml): [individual tentative nomination](https://whc.unesco.org/en/tentativelists/5702/); verifies nomination identity, not inscription or present access.
+
+- [sight-sy-hamidiyah-souq](../../../countries/SY/sights/hamidiyah-souq.yaml): **source-linked-unverified** supersedes editorial-only. [SANA, May 2026](https://sana.sy/en/culture-and-arts/2318710/) describes the covered market and surviving craft traditions; [The Media Line, August 2026](https://themedialine.org/by-region/syria-bets-on-tourism-revival-but-visitor-surge-faces-test-of-security-and-services/) documents visitors and shoppers. Retain 8.2/8.4/8.4/8.7/7.8 (83.25), a bounded working market rather than all Old Damascus. No category changes; ordinary access, GPS and closer market peers still require further confirmation.
+- [sight-sy-margat-castle](../../../countries/SY/sights/margat-castle.yaml): [AKDN, July 2026](https://the.akdn/en/in-the-media/syria-signs-agreements-to-restore-heritage-sites-in-aleppo-and-tartous) confirms the restoration and excavation agreement; public access remains unresolved, retain null experience/depth.
+- [sight-sy-damascus-national-museum](../../../countries/SY/sights/damascus-national-museum.yaml): [UNESCO](https://www.unesco.org/en/articles/syria-unesco-resumes-operations-first-initiative-national-museum-damascus?hub=68243) confirms collection significance and January 2025 reopening; [AP July 2026](https://apnews.com/article/758a2ff0fc3ae6d7725126d31fe33093) confirms an exhibition of returned artefacts. Retain 87.50; complete present gallery access not verified.
+- [sight-sy-aleppo-national-museum](../../../countries/SY/sights/aleppo-national-museum.yaml): [University of Florence](https://www.aiwa.unifi.it/index.php?func=viewpage&module=CMpro&newlang=eng&pageid=26) documents ongoing inventory work; [October 2026 UN procurement](https://www.ungm.org/Public/Notice/319223) documents storage rehabilitation, not general reopening. Retain unranked.
+
+## sight-sy-damascus-citadel — Citadel of Damascus — 2026-11-25
+
+- YAML: [source](../../../countries/SY/sights/damascus-citadel.yaml)
+- Action: new
+- Precise subject: Ayyubid fortified palace, exterior and restored heritage exhibition; excludes unrelated old-town sights and unconfirmed interior areas.
+- Location check: 33.5118, 36.3022, representative center rounded from [Outdooractive](https://www.outdooractive.com/en/poi/syria/citadel-of-damascus/807765499/), corroborated by [Mapcarta](https://mapcarta.com/W166612328).
+- Evidence status: **source-linked-unverified**.
+- Source evidence: [UNESCO Damascus](https://whc.unesco.org/en/list/20/) identifies the citadel among major monuments; [Ministry of Culture, January 2026](https://moc.gov.sy/en/news/d7d8ccc3-9c04-41b6-9b5a-f8b41d6a82fb) confirms Tower Eight restoration; [The National, September 2026](https://www.thenationalnews.com/arts-culture/2026/09/25/syrian-theatres-museums-and-cultural-spaces-reopening-and-being-restored-in-2026/) describes reopened spaces and heritage exhibition. [ComeSyria](https://comesyria.com/en/places/damascus-citadel) notes variable interior access.
+- Missing facts: ordinary full-circuit access and current exhibition schedule.
+
+### Worldwide peers
+- [Karak Castle (JO)](../../../countries/JO/sights/karak-castle.yaml) — 87.80/100; I/U/S/E/D 8.8/8.7/9.0/8.7/8.6. Karak has a more extensive fortification circuit; Damascus 8.4 impact and 7.4 depth.
+- [Jabrin Castle (OM)](../../../countries/OM/sights/jabrin-castle.yaml) — 85.55/100; 8.6/8.5/8.7/8.6/8.2. Damascus is historically comparable but has less assured interior interpretation.
+- [Hochosterwitz Castle (AT)](../../../countries/AT/sights/hochosterwitz-castle.yaml) — 87.25/100; 8.7/8.9/8.8/8.8/8.1. More distinctive hilltop approach and consistent circuit than the Damascus urban fortress.
+- [Narikala Fortress (GE)](../../../countries/GE/sights/narikala-fortress.yaml) — 79.15/100; 8.2/7.7/8.3/7.8/7.0. Damascus has stronger surviving urban fortified-palace heritage and interpretation; only limited confirmed interior scope is credited.
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.4 | Monumental masonry towers and urban fortress silhouette |
+| Uniqueness | 8.3 | Ayyubid urban fortified palace, comparable medieval citadels elsewhere |
+| Significance | 8.8 | Major monument of historic Damascus |
+| Experience | 7.7 | Exterior and restored cultural space, not entire interior |
+| Depth | 7.4 | Bounded confirmed public experience, not all defensive and palace structures |
+
+- Applicable categories: architecture 8.7, history 8.9, photography 8.5.
+- Overall: 82.50/100.
+- High-score challenge: not applicable.
+- Approved 10 registry: none.
+- Final decision: provisional rank; no assertion of uninterrupted access or safety.
+- Verification still needed: public opening schedule and full circuit.
+
+Inventory review: all six inscribed and twelve tentative nominations represented. Damascus Citadel added; other religious sites, museums and landscapes (e.g. Saint Ananias chapel, Saydnaya, Jaabar Citadel and additional coastal sites) are candidates for expansion, not asserted to be exhaustively covered by this inventory. All 31 sight records now have at least a subject-relevant source link across their review history; no claim that all facts or numerical ratings are independently verified.
