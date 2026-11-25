@@ -1,0 +1,16 @@
+id: sight-be-plantin-moretus
+name: "Plantin-Moretus House-Workshops-Museum"
+location:
+  country_code: BE
+  latitude: 51.218
+  longitude: 4.397
+scores:
+  impact: 8.7
+  uniqueness: 9.3
+  significance: 9.4
+  experience: 8.9
+  depth: 8.7
+  categories:
+    history: 9.4
+    culture: 9.3
+    architecture: 8.9

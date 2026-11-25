@@ -1,0 +1,14 @@
+id: sight-be-neanderthal-sites
+name: "Walloon Neanderthal fossil sites (tentative series)"
+location:
+  country_code: BE
+  latitude: 50.6
+  longitude: 5.66
+scores:
+  impact: 7.6
+  uniqueness: 9.0
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    history: 9.3

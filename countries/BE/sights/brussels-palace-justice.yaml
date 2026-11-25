@@ -1,0 +1,15 @@
+id: sight-be-brussels-palace-justice
+name: "Palace of Justice, Brussels (tentative)"
+location:
+  country_code: BE
+  latitude: 50.837
+  longitude: 4.352
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 8.7
+  experience: 8.0
+  depth: 7.5
+  categories:
+    architecture: 9.3
+    history: 8.9
