@@ -1,0 +1,16 @@
+id: sight-ci-tai-national-park
+name: "Taï National Park"
+location:
+  country_code: CI
+  latitude: 5.873
+  longitude: -7.453
+scores:
+  impact: 9.3
+  uniqueness: 9.5
+  significance: 9.6
+  experience: 9.0
+  depth: 9.1
+  categories:
+    nature: 9.7
+    wildlife: 9.7
+    adventure: 9.0
