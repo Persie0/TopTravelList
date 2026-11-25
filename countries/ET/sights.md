@@ -2,7 +2,7 @@
 
 # Ethiopia (ET) — Sights & attractions ranking
 
-**16 ranked** · **7 unassessed** · **23 total** · Worldwide scoring **v2**
+**17 ranked** · **6 unassessed** · **23 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (16)
+## Complete ranked list (17)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -25,23 +25,23 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 9 | [Lake Tana Island Monasteries and Wetlands](sights/lake-tana-monasteries.yaml) | Island | **89.90** | **Culture 9.3**, **Photography 9.1**, **History 9.0**, Nature 8.9 | 9.0 / 9.2 / 9.0 / 8.8 / 8.7 | [11.88, 37.35](https://www.google.com/maps/search/?api=1&query=11.88,37.35) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lake%20Tana%20Island%20Monasteries%20and%20Wetlands%2C%20Ethiopia) |
 | 10 | [Konso Cultural Landscape](sights/konso-cultural-landscape.yaml) | Coast | **88.65** | **Culture 9.4**, **History 9.0**, **Nature 8.6** | 8.7 / 9.2 / 9.2 / 8.3 / 8.7 | [5.31, 37.44](https://www.google.com/maps/search/?api=1&query=5.31,37.44) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Konso%20Cultural%20Landscape%2C%20Ethiopia) |
 | 11 | [Sof Omar Caves](sights/sof-omar-caves.yaml) | Attraction | **88.10** | **Nature 9.1**, **Adventure 8.8**, **Photography 8.8**, Culture 8.7 | 8.9 / 9.1 / 8.8 / 8.5 / 8.3 | [6.91, 40.85](https://www.google.com/maps/search/?api=1&query=6.91,40.85) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sof%20Omar%20Caves%2C%20Ethiopia) |
-| 12 | [Yeha Cultural Heritage](sights/yeha-cultural-heritage.yaml) | Attraction | **86.00** | **History 9.3**, **Architecture 8.9** | 8.4 / 9.0 / 9.2 / 8.0 / 7.9 | [14.28, 39.02](https://www.google.com/maps/search/?api=1&query=14.28,39.02) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Yeha%20Cultural%20Heritage%2C%20Ethiopia) |
-| 13 | [Lake Asale Salt Flats](sights/lake-asale.yaml) | Lake | **85.40** | **Photography 9.0**, **Nature 8.9** | 8.8 / 8.9 / 8.3 / 8.3 / 7.7 | [14.02, 40.42](https://www.google.com/maps/search/?api=1&query=14.02,40.42) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lake%20Asale%20Salt%20Flats%2C%20Ethiopia) |
-| 14 | [Awash National Park](sights/awash-national-park.yaml) | Park / reserve | **82.75** | **Nature 8.7**, **Wildlife 8.6**, **Adventure 8.3** | 8.3 / 8.1 / 8.3 / 8.4 / 8.4 | [8.92, 40.03](https://www.google.com/maps/search/?api=1&query=8.92,40.03) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Awash%20National%20Park%2C%20Ethiopia) |
-| 15 | [Blue Nile Falls](sights/blue-nile-falls.yaml) | Waterfall | **81.95** | **Nature 8.8**, **Photography 8.7** | 8.6 / 8.0 / 8.0 / 8.3 / 7.7 | [11.49, 37.59](https://www.google.com/maps/search/?api=1&query=11.49,37.59) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Blue%20Nile%20Falls%2C%20Ethiopia) |
-| 16 | [Tiya Stelae Field](sights/tiya.yaml) | Attraction | **81.40** | **History 9.0**, **Culture 8.5** | 7.8 / 8.8 / 8.9 / 7.4 / 7.1 | [8.43, 38.61](https://www.google.com/maps/search/?api=1&query=8.43,38.61) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tiya%20Stelae%20Field%2C%20Ethiopia) |
+| 12 | [Melka Kunture and Balchit](sights/melka-kunture-balchit.yaml) | Attraction | **88.05** | **History 9.6**, **Culture 8.8** | 8.0 / 9.4 / 9.7 / 8.5 / 8.4 | [8.708, 38.594](https://www.google.com/maps/search/?api=1&query=8.708,38.594) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Melka%20Kunture%20and%20Balchit%2C%20Ethiopia) |
+| 13 | [Yeha Cultural Heritage](sights/yeha-cultural-heritage.yaml) | Attraction | **86.00** | **History 9.3**, **Architecture 8.9** | 8.4 / 9.0 / 9.2 / 8.0 / 7.9 | [14.28, 39.02](https://www.google.com/maps/search/?api=1&query=14.28,39.02) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Yeha%20Cultural%20Heritage%2C%20Ethiopia) |
+| 14 | [Lake Asale Salt Flats](sights/lake-asale.yaml) | Lake | **85.40** | **Photography 9.0**, **Nature 8.9** | 8.8 / 8.9 / 8.3 / 8.3 / 7.7 | [14.02, 40.42](https://www.google.com/maps/search/?api=1&query=14.02,40.42) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lake%20Asale%20Salt%20Flats%2C%20Ethiopia) |
+| 15 | [Awash National Park](sights/awash-national-park.yaml) | Park / reserve | **82.75** | **Nature 8.7**, **Wildlife 8.6**, **Adventure 8.3** | 8.3 / 8.1 / 8.3 / 8.4 / 8.4 | [8.92, 40.03](https://www.google.com/maps/search/?api=1&query=8.92,40.03) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Awash%20National%20Park%2C%20Ethiopia) |
+| 16 | [Blue Nile Falls](sights/blue-nile-falls.yaml) | Waterfall | **81.95** | **Nature 8.8**, **Photography 8.7** | 8.6 / 8.0 / 8.0 / 8.3 / 7.7 | [11.49, 37.59](https://www.google.com/maps/search/?api=1&query=11.49,37.59) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Blue%20Nile%20Falls%2C%20Ethiopia) |
+| 17 | [Tiya Stelae Field](sights/tiya.yaml) | Attraction | **81.40** | **History 9.0**, **Culture 8.5** | 7.8 / 8.8 / 8.9 / 7.4 / 7.1 | [8.43, 38.61](https://www.google.com/maps/search/?api=1&query=8.43,38.61) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tiya%20Stelae%20Field%2C%20Ethiopia) |
 
-## Not yet fully assessed (7)
+## Not yet fully assessed (6)
 
 These destinations have no rank until all five core scores are assessed.
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
 | — | [Dirre Sheikh Hussein Religious Site](sights/dirre-sheikh-hussein.yaml) | Attraction | **—** | — | — / — / — / — / — | [7.76, 40.71](https://www.google.com/maps/search/?api=1&query=7.76,40.71) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Dirre%20Sheikh%20Hussein%20Religious%20Site%2C%20Ethiopia) |
-| — | [Gedeo Cultural Landscape](sights/gedeo-cultural-landscape.yaml) | Coast | **—** | — | — / — / — / — / — | [6.35, 38.3](https://www.google.com/maps/search/?api=1&query=6.35,38.3) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Gedeo%20Cultural%20Landscape%2C%20Ethiopia) |
-| — | [Lower Valley of the Awash](sights/lower-valley-awash.yaml) | Valley / canyon | **—** | — | — / — / — / — / — | [11.1, 40.6](https://www.google.com/maps/search/?api=1&query=11.1,40.6) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lower%20Valley%20of%20the%20Awash%2C%20Ethiopia) |
-| — | [Lower Valley of the Omo](sights/lower-valley-omo.yaml) | Valley / canyon | **—** | — | — / — / — / — / — | [5, 36.15](https://www.google.com/maps/search/?api=1&query=5,36.15) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lower%20Valley%20of%20the%20Omo%2C%20Ethiopia) |
-| — | [Melka Kunture and Balchit](sights/melka-kunture-balchit.yaml) | Attraction | **—** | — | — / — / — / — / — | [8.7, 38.61](https://www.google.com/maps/search/?api=1&query=8.7,38.61) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Melka%20Kunture%20and%20Balchit%2C%20Ethiopia) |
+| — | [Gedeo Cultural Landscape](sights/gedeo-cultural-landscape.yaml) | Coast | **—** | **Culture 9.3** | — / 9.2 / 9.3 / — / — | [6.35, 38.3](https://www.google.com/maps/search/?api=1&query=6.35,38.3) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Gedeo%20Cultural%20Landscape%2C%20Ethiopia) |
+| — | [Lower Valley of the Awash](sights/lower-valley-awash.yaml) | Valley / canyon | **—** | **History 9.8** | — / 9.7 / 9.8 / — / — | [11.10006, 40.57939](https://www.google.com/maps/search/?api=1&query=11.10006,40.57939) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lower%20Valley%20of%20the%20Awash%2C%20Ethiopia) |
+| — | [Lower Valley of the Omo](sights/lower-valley-omo.yaml) | Valley / canyon | **—** | **History 9.7** | — / 9.5 / 9.8 / — / — | [4.8, 35.966667](https://www.google.com/maps/search/?api=1&query=4.8,35.966667) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lower%20Valley%20of%20the%20Omo%2C%20Ethiopia) |
 | — | [Negash (Al-Nejashi) Village](sights/negash-village.yaml) | Historic settlement | **—** | — | — / — / — / — / — | [13.88, 39.61](https://www.google.com/maps/search/?api=1&query=13.88,39.61) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Negash%20%28Al-Nejashi%29%20Village%2C%20Ethiopia) |
 | — | [Sacred Landscapes of Tigray](sights/sacred-landscapes-tigray.yaml) | Coast | **—** | — | — / — / — / — / — | [13.93, 39.36](https://www.google.com/maps/search/?api=1&query=13.93,39.36) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sacred%20Landscapes%20of%20Tigray%2C%20Ethiopia) |
 
