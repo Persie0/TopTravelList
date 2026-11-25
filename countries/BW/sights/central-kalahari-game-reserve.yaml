@@ -1,0 +1,17 @@
+id: sight-bw-central-kalahari-game-reserve
+name: "Central Kalahari Game Reserve"
+location:
+  country_code: BW
+  latitude: -22.166667
+  longitude: 24.041667
+scores:
+  impact: 9.2
+  uniqueness: 9.4
+  significance: 9.0
+  experience: 8.7
+  depth: 9.4
+  categories:
+    nature: 9.6
+    wildlife: 9.5
+    photography: 9.4
+    adventure: 9.3
