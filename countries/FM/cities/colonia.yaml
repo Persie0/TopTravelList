@@ -1,0 +1,15 @@
+id: city-fm-colonia
+name: "Colonia (Yap)"
+location:
+  country_code: FM
+  latitude: 9.51638
+  longitude: 138.12167
+scores:
+  impact: 6.8
+  uniqueness: 7.9
+  significance: 7.7
+  experience: 7.4
+  depth: 6.8
+  categories:
+    culture: 8.2
+    history: 7.7
