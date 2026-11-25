@@ -1,0 +1,15 @@
+id: city-ms-brades
+name: "Brades"
+location:
+  country_code: MS
+  latitude: 16.792
+  longitude: -62.211
+scores:
+  impact: 6.8
+  uniqueness: 7.3
+  significance: 7.7
+  experience: 7.0
+  depth: 6.6
+  categories:
+    culture: 7.6
+    history: 7.7
