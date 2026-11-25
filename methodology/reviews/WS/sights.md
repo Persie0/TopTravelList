@@ -441,15 +441,16 @@
 ## sight-ws-falealupo-canopy-walk — Falealupo Canopy Walkway — 2026-11-25
 
 - YAML: [source](../../../countries/WS/sights/falealupo-canopy-walk.yaml)
-- Action: new (coverage expansion)
+- Action: rescore — visitor evidence conflict
 - Precise subject: Named canopy walkway and immediate forest experience, not entire preserve.
 - Location check: representative -13.52643, -172.74835; not an entrance.
-- Evidence status: source-linked-unverified
+- Evidence status: unassessed
 - Limited factual references (2026-11-25; page or search excerpt):
   - Mapped walkway reference point. — https://mapcarta.com/N3777914723
   - Tourism authority identifies treetop visitor walkway. — https://www.samoa.travel/experience/adventure-activities/
   - Official guide locates walkway in Falealupo Rainforest Preserve. — https://www.samoa.travel/BeautifulAnticipation/view/getting-out-and-about
-- Missing or uncertain facts: Confirm structural status and opening; no safety guarantee.
+- Additional checked references (2026-11-25): Samoa Tourism Authority still advertises the walkway (https://www.samoa.travel/experience/families/; indexed excerpt); a travel account published 2026-06-04 reports it closed for maintenance in May 2025 (https://jontynz.com/2026/06/04/cycling-around-savaii-samoa-manase-to-falealupo/; page inspected). No confirmed reopening found.
+- Missing or uncertain facts: Operational and structural status conflict with promotional listings; no unauthorized entry or adjacent forest visit credited.
 
 ### Worldwide peer comparisons
 - Taman Negara canopy walkway (Malaysia): broader rainforest experience
@@ -463,15 +464,15 @@
 | Impact | 7.9 | Immersive tropical tree canopy |
 | Uniqueness | 7.8 | distinctive Pacific forest context but other canopy walks exist |
 | Significance | 7.5 | regional forest conservation relevance |
-| Experience | 8.1 | focused elevated forest experience |
-| Depth | 7.3 | limited walkway extent and nearby viewing |
+| Experience | null | Previously 8.1; operating visitor experience at the exact walkway not confirmed. |
+| Depth | null | Previously 7.3; accessible elevated route not confirmed. |
 
-- Applicable category scores: nature: 8.3, adventure: 8.4, photography: 8.1
-- Overall: 77.65/100
+- Applicable category scores: nature: 8.3, adventure: null (previously 8.4), photography: 8.1
+- Overall: unranked.
 - High-score challenge: no 9.5+ fields or 90+ total.
 - Approved 10 registry: none.
-- Final decision: Provisional worldwide editorial assessment.
-- Earlier decision: none.
+- Final decision: Preserve intrinsic historical dimensions; leave visitor fields incomplete until reopening evidence.
+- Earlier decision: [preserved initial review](history-evidence-followup-2026-11-25.md).
 - Verification still needed: Confirm structural status and opening; no safety guarantee.
 
 ## sight-ws-mount-vaea — Mount Vaea and Stevenson Tomb — 2026-11-25
@@ -656,3 +657,105 @@
 ## 2026-11-25 — Pulemelei access follow-up
 
 Samoa Airports promotes the archaeological mound (https://www.samoaairports.com/explore-samoa/explore-samoa, indexed excerpt), but Lonely Planet reports difficult access due to disputed land (https://www.lonelyplanet.com/points-of-interest/pulemelei-mound/1456735, indexed excerpt). A 2026 travel guide also reports landowner-dependent access and periodic closures (https://factsfromupstairs.com/travel-guide/samoa/, indexed excerpt). This does not establish routine authorized visits or their depth. Keep existing core values, with experience/depth null. Historical significance is not downgraded for access; no unrestricted admission implied. No YAML changes.
+
+
+## sight-ws-o-le-pupu-pue-national-park — O Le Pupū Puē National Park — 2026-11-25
+
+- YAML: [source](../../../countries/WS/sights/o-le-pupu-pue-national-park.yaml)
+- Action: new (Ramsar inventory expansion)
+- Precise subject: National park as a landscape, including established forest, coastal and waterfall visits; not the sum of separate scores.
+- Location check: Ramsar annotated list gives 13°59′S 171°43′53″W (indexed excerpt; converted to decimal degrees). Representative park point, not entrance.
+- Evidence status: source-linked-unverified
+- Factual references consulted 2026-11-25:
+- Convention on Wetlands, https://www.ramsar.org/news/samoa-designates-its-second-ramsar-site (indexed excerpt): mountain-to-lava-cliff landscape and international wetland designation.
+- Samoa Tourism Authority, https://www.samoa.travel/plan-book/activities/o-le-pupu-pue-national-park/ (page inspected): waterfall, guided lava-tube hike and visitor center.
+- Samoa Tourism Authority, https://www.samoa.travel/plan-book/activities/coastal-walk/ (indexed excerpt): clifftop pandanus walk and lava field.
+- Missing or uncertain facts: Current trail and cave availability, independent claim-by-claim verification and boundary corroboration.
+
+### Worldwide peer comparisons
+- [Khao Sok National Park](../../../countries/TH/sights/khao-sok-national-park.yaml) (Thailand), 9.4/9.4/9.1/9.4/9.3: more dramatic karst and broader established rainforest excursions.
+- [Ba Be National Park](../../../countries/VN/sights/ba-be-national-park.yaml) (Vietnam), 9.0/9.2/8.9/9.1/9.0: wider lake, cave and village exploration.
+- [Phnom Kulen National Park](../../../countries/KH/sights/phnom-kulen-national-park.yaml) (Cambodia), 9.0/9.3/9.4/9.0/8.9: stronger archaeological and religious heritage.
+- [Doi Inthanon National Park](../../../countries/TH/sights/doi-inthanon-national-park.yaml) (Thailand), 9.0/9.0/8.8/9.2/9.4: broader mountain trail network and developed visitor experiences.
+
+### Scoring decisions
+- Impact: 8.5 — Forest, waterfall and lava-cliff scenery are strongly memorable but not world-leading.
+- Uniqueness: 8.5 — Volcanic tropical forest-to-coast gradient is distinctive, with Pacific and global analogues.
+- Significance: 8.7 — International wetland designation and native habitats give meaningful conservation importance.
+- Experience: 8.5 — Established waterfall, coastal and guided cave activities offer variety.
+- Depth: 8.4 — Several distinct ecosystems and trails, though less extensive visitor breadth than large benchmark parks.
+- Applicable category scores: nature: 9, wildlife: 8.4, adventure: 8.5, photography: 8.5.
+- Overall: 85.30/100.
+- High-score challenge: no 9.5+ fields or 90+ overall.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide v2 rating; no full fact-check claim.
+- Earlier decision: none.
+- Verification still needed: Current trail and cave availability, independent claim-by-claim verification and boundary corroboration.
+
+
+## sight-ws-lake-lanotoo — Lake Lanoto'o — 2026-11-25
+
+- YAML: [source](../../../countries/WS/sights/lake-lanotoo.yaml)
+- Action: new (Ramsar inventory expansion)
+- Precise subject: Named crater lake and normal forest walking approach, not the entire multi-lake national park.
+- Location check: Mapcarta https://mapcarta.com/20416258 (page inspected) provides GeoNames representative lake point; corroboration in academic paper (rounded coordinates).
+- Evidence status: source-linked-unverified
+- Factual references consulted 2026-11-25:
+- Samoa Tourism Authority, https://www.samoa.travel/plan-book/activities/lake-lanotoo/ (page inspected): volcanic lake, forest, birdwatching and roughly two-hour return hike.
+- Journal of Biogeography, https://onlinelibrary.wiley.com/doi/full/10.1111%2Fjbi.13783 (indexed excerpt): central Upolu volcanic crater lake and elevation around 760 m.
+- Convention on Wetlands, https://www.ramsar.org/country-profile/samoa (indexed excerpt): listed Ramsar property.
+- Missing or uncertain facts: Current trail condition, authorized activities and full independent source verification.
+
+### Worldwide peer comparisons
+- [Lake Toba](../../../countries/ID/sights/lake-toba.yaml) (Indonesia), 9.4/9.6/9.0/9.2/9.4: globally exceptional caldera scale and cultural landscape.
+- [Ba Be Lake](../../../countries/VN/sights/ba-be-lake.yaml) (Vietnam), 8.8/9.0/8.3/9.1/8.5: larger lake with broader boating and landscape exploration.
+- [Yeak Laom Volcanic Lake](../../../countries/KH/sights/yeak-laom-volcanic-lake.yaml) (Cambodia), 8.5/8.7/7.9/8.8/8.0: comparable volcanic lake, easier shoreline recreation; Lanoto'o has stronger wetland conservation context.
+- [Kayangan Lake](../../../countries/PH/sights/kayangan-lake.yaml) (Philippines), 9.0/8.8/7.9/8.5/7.0: more dramatic limestone setting, similarly focused visit.
+
+### Scoring decisions
+- Impact: 8.2 — Forest-framed crater lake creates a rewarding natural setting.
+- Uniqueness: 8.3 — Volcanic lake and montane rainforest combination is distinctive but has comparable peers.
+- Significance: 8.2 — International wetland and paleoecological research context, below globally defining calderas.
+- Experience: 8 — Documented forest hike and birdwatching, without assuming swimming access.
+- Depth: 7.3 — Focused lake and approach rather than a wide multi-lake exploration.
+- Applicable category scores: nature: 8.7, photography: 8.4, adventure: 8.
+- Overall: 81.05/100.
+- High-score challenge: no 9.5+ fields or 90+ overall.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide v2 rating; no full fact-check claim.
+- Earlier decision: none.
+- Verification still needed: Current trail condition, authorized activities and full independent source verification.
+
+
+## sight-ws-vaipu-swamp-conservation-area — Vaipu Swamp Conservation Area — 2026-11-25
+
+- YAML: [source](../../../countries/WS/sights/vaipu-swamp-conservation-area.yaml)
+- Action: new (Ramsar inventory expansion)
+- Precise subject: 278 ha Ramsar conservation property, not nearby ancient villages or all eastern Upolu catchments.
+- Location check: Approximate point from published German Ramsar-site list https://de.wikipedia.org/wiki/Liste_der_Ramsar-Gebiete_in_Samoa (13°57′39″S 171°34′27″W, indexed excerpt). Official annotated summary currently gives erroneous coordinates in Norway; do not use those. Exact polygon verification outstanding.
+- Evidence status: unassessed
+- Factual references consulted 2026-11-25:
+- Convention on Wetlands, https://www.ramsar.org/news/samoas-third-wetland-international-importance (indexed excerpt): third Ramsar site and largest remaining swamp forest in Samoa.
+- SPREP protected area portal, https://pipap.sprep.org/pa/555795409 (indexed excerpt): exact protected-area identity.
+- Convention on Wetlands national profile https://www.ramsar.org/country-profile/samoa (indexed excerpt): Ramsar listing.
+- Missing or uncertain facts: Exact polygon, legal visitor access, current wildlife viewing evidence and visitor activities. No tourism credit from adjacent ancient villages.
+
+### Worldwide peer comparisons
+- [Khao Sok National Park](../../../countries/TH/sights/khao-sok-national-park.yaml) (Thailand), 9.4/9.4/9.1/9.4/9.3: more dramatic karst and broader established rainforest excursions.
+- [Ba Be National Park](../../../countries/VN/sights/ba-be-national-park.yaml) (Vietnam), 9.0/9.2/8.9/9.1/9.0: wider lake, cave and village exploration.
+- [Phnom Kulen National Park](../../../countries/KH/sights/phnom-kulen-national-park.yaml) (Cambodia), 9.0/9.3/9.4/9.0/8.9: stronger archaeological and religious heritage.
+- [Doi Inthanon National Park](../../../countries/TH/sights/doi-inthanon-national-park.yaml) (Thailand), 9.0/9.0/8.8/9.2/9.4: broader mountain trail network and developed visitor experiences.
+
+### Scoring decisions
+- Impact: null — No verified exact visitor-visible setting.
+- Uniqueness: 8.4 — Rare remaining Samoan swamp forest, not globally unique as a wetland type.
+- Significance: 8.6 — International designation and endemic threatened habitat support conservation significance.
+- Experience: null — Routine authorized access not established.
+- Depth: null — Accessible visitor exploration not established.
+- Applicable category scores: nature: 8.7, wildlife: null.
+- Overall: unranked.
+- High-score challenge: no 9.5+ fields or 90+ overall.
+- Approved 10 registry: none.
+- Final decision: Retain incomplete; no rank.
+- Earlier decision: none.
+- Verification still needed: Exact polygon, legal visitor access, current wildlife viewing evidence and visitor activities. No tourism credit from adjacent ancient villages.

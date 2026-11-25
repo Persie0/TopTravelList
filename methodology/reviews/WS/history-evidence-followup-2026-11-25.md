@@ -1082,3 +1082,43 @@ Earlier dated decisions and source references retained below verbatim.
 ## 2026-11-25 — Pulemelei access follow-up
 
 Samoa Airports promotes the archaeological mound (https://www.samoaairports.com/explore-samoa/explore-samoa, indexed excerpt), but Lonely Planet reports difficult access due to disputed land (https://www.lonelyplanet.com/points-of-interest/pulemelei-mound/1456735, indexed excerpt). A 2026 travel guide also reports landowner-dependent access and periodic closures (https://factsfromupstairs.com/travel-guide/samoa/, indexed excerpt). This does not establish routine authorized visits or their depth. Keep existing core values, with experience/depth null. Historical significance is not downgraded for access; no unrestricted admission implied. No YAML changes.
+
+
+## Superseded Falealupo decision (preserved 2026-11-25)
+
+## sight-ws-falealupo-canopy-walk — Falealupo Canopy Walkway — 2026-11-25
+
+- YAML: [source](../../../countries/WS/sights/falealupo-canopy-walk.yaml)
+- Action: new (coverage expansion)
+- Precise subject: Named canopy walkway and immediate forest experience, not entire preserve.
+- Location check: representative -13.52643, -172.74835; not an entrance.
+- Evidence status: source-linked-unverified
+- Limited factual references (2026-11-25; page or search excerpt):
+  - Mapped walkway reference point. — https://mapcarta.com/N3777914723
+  - Tourism authority identifies treetop visitor walkway. — https://www.samoa.travel/experience/adventure-activities/
+  - Official guide locates walkway in Falealupo Rainforest Preserve. — https://www.samoa.travel/BeautifulAnticipation/view/getting-out-and-about
+- Missing or uncertain facts: Confirm structural status and opening; no safety guarantee.
+
+### Worldwide peer comparisons
+- Taman Negara canopy walkway (Malaysia): broader rainforest experience
+- Kakum National Park canopy walkway (Ghana): more extensive elevated forest route
+- Kirstenbosch Tree Canopy Walkway (South Africa): comparable focused walkway with developed botanical context
+- Ene'io Botanical Garden (Tonga): related compact tropical plant experience
+
+### Scoring decisions
+| Field | New rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 7.9 | Immersive tropical tree canopy |
+| Uniqueness | 7.8 | distinctive Pacific forest context but other canopy walks exist |
+| Significance | 7.5 | regional forest conservation relevance |
+| Experience | 8.1 | focused elevated forest experience |
+| Depth | 7.3 | limited walkway extent and nearby viewing |
+
+- Applicable category scores: nature: 8.3, adventure: 8.4, photography: 8.1
+- Overall: 77.65/100
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide editorial assessment.
+- Earlier decision: none.
+- Verification still needed: Confirm structural status and opening; no safety guarantee.
+
