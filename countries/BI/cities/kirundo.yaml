@@ -2,8 +2,8 @@ id: city-bi-kirundo
 name: "Kirundo"
 location:
   country_code: BI
-  latitude: -2.58
-  longitude: 30.10
+  latitude: -2.5845
+  longitude: 30.0959
 scores:
   impact: 6.0
   uniqueness: 7.0
