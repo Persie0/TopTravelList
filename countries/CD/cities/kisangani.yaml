@@ -1,0 +1,15 @@
+id: city-cd-kisangani
+name: "Kisangani"
+location:
+  country_code: CD
+  latitude: 0.51528
+  longitude: 25.19099
+scores:
+  impact: 7.6
+  uniqueness: 8.1
+  significance: 7.9
+  experience: 7.5
+  depth: 7.3
+  categories:
+    culture: 8.2
+    history: 8.1

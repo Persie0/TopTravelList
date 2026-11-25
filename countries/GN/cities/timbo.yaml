@@ -1,0 +1,15 @@
+id: city-gn-timbo
+name: "Timbo"
+location:
+  country_code: GN
+  latitude: 10.71
+  longitude: -11.82
+scores:
+  impact: 6.9
+  uniqueness: 8.2
+  significance: 8.6
+  experience: 7.3
+  depth: 6.3
+  categories:
+    history: 9.0
+    culture: 8.6

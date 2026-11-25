@@ -1,0 +1,13 @@
+id: city-zm-kasama
+name: "Kasama"
+location:
+  country_code: ZM
+  latitude: -10.213
+  longitude: 31.181
+scores:
+  impact: null
+  uniqueness: 7.4
+  significance: 7.5
+  experience: null
+  depth: null
+  categories: {}

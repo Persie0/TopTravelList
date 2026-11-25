@@ -1,0 +1,16 @@
+id: sight-na-brandberg
+name: "Brandberg National Monument Area"
+location:
+  country_code: NA
+  latitude: -21.166667
+  longitude: 14.416667
+scores:
+  impact: 9.0
+  uniqueness: 9.3
+  significance: 9.3
+  experience: 8.7
+  depth: 8.5
+  categories:
+    nature: 9.2
+    history: 9.3
+    culture: 9.2

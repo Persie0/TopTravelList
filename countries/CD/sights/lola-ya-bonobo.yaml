@@ -1,0 +1,16 @@
+id: sight-cd-lola-ya-bonobo
+name: "Lola ya Bonobo Sanctuary"
+location:
+  country_code: CD
+  latitude: -4.4855
+  longitude: 15.2675
+scores:
+  impact: 8.8
+  uniqueness: 9.3
+  significance: 8.9
+  experience: 9.1
+  depth: 8.0
+  categories:
+    wildlife: 9.2
+    culture: 8.5
+    family: 8.8

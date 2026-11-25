@@ -1,0 +1,15 @@
+id: sight-cm-waza-national-park
+name: "Waza National Park"
+location:
+  country_code: CM
+  latitude: 11.25
+  longitude: 14.666667
+scores:
+  impact: 8.6
+  uniqueness: 8.6
+  significance: 9.0
+  experience: 8.1
+  depth: 8.4
+  categories:
+    nature: 9.0
+    wildlife: 9.1

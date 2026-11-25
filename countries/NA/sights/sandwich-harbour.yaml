@@ -1,0 +1,17 @@
+id: sight-na-sandwich-harbour
+name: "Sandwich Harbour"
+location:
+  country_code: NA
+  latitude: -23.3333
+  longitude: 14.5
+scores:
+  impact: 9.4
+  uniqueness: 9.4
+  significance: 9.2
+  experience: 9
+  depth: 8.6
+  categories:
+    nature: 9.4
+    wildlife: 9
+    photography: 9.5
+    adventure: 9.1

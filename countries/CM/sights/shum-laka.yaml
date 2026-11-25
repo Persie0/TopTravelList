@@ -1,0 +1,14 @@
+id: sight-cm-shum-laka
+name: "Shum Laka Archaeological Site"
+location:
+  country_code: CM
+  latitude: 5.860278
+  longitude: 10.078889
+scores:
+  impact: null
+  uniqueness: 9.1
+  significance: 9.5
+  experience: null
+  depth: null
+  categories:
+    history: 9.6

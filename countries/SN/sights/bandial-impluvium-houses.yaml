@@ -1,0 +1,15 @@
+id: sight-sn-bandial-impluvium-houses
+name: "Bandial Kingdom Impluvium Houses"
+location:
+  country_code: SN
+  latitude: 12.515187
+  longitude: -16.454766
+scores:
+  impact: 8.4
+  uniqueness: 9.1
+  significance: 8.7
+  experience: 8.5
+  depth: 7.7
+  categories:
+    architecture: 9.3
+    culture: 9.1

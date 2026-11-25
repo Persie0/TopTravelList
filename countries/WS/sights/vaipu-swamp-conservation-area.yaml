@@ -1,0 +1,15 @@
+id: sight-ws-vaipu-swamp-conservation-area
+name: "Vaipu Swamp Conservation Area"
+location:
+  country_code: WS
+  latitude: -13.96083
+  longitude: -171.57417
+scores:
+  impact: null
+  uniqueness: 8.4
+  significance: 8.6
+  experience: null
+  depth: null
+  categories:
+    nature: 8.7
+    wildlife: null

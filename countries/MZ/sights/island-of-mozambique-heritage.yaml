@@ -1,0 +1,16 @@
+id: sight-mz-island-of-mozambique-heritage
+name: "Island of Mozambique Historic Ensemble"
+location:
+  country_code: MZ
+  latitude: -15.034
+  longitude: 40.735
+scores:
+  impact: 9.1
+  uniqueness: 9.3
+  significance: 9.5
+  experience: 8.8
+  depth: 8.9
+  categories:
+    architecture: 9.3
+    history: 9.5
+    culture: 9.3

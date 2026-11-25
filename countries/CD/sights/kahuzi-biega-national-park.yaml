@@ -1,0 +1,15 @@
+id: sight-cd-kahuzi-biega-national-park
+name: "Kahuzi-Biega National Park"
+location:
+  country_code: CD
+  latitude: -2.334053
+  longitude: 28.180743
+scores:
+  impact: 9.1
+  uniqueness: 9.4
+  significance: 9.6
+  experience: 9.0
+  depth: 8.6
+  categories:
+    nature: 9.6
+    wildlife: 9.7

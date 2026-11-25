@@ -1,0 +1,15 @@
+id: city-ao-lubango
+name: "Lubango"
+location:
+  country_code: AO
+  latitude: -14.917168
+  longitude: 13.492498
+scores:
+  impact: 7.8
+  uniqueness: 8.0
+  significance: 7.6
+  experience: 8.0
+  depth: 7.7
+  categories:
+    architecture: 8.0
+    culture: 8.1

@@ -1,0 +1,15 @@
+id: city-ci-korhogo
+name: "Korhogo"
+location:
+  country_code: CI
+  latitude: 9.458
+  longitude: -5.63
+scores:
+  impact: 7.7
+  uniqueness: 8.2
+  significance: 7.9
+  experience: 8.0
+  depth: 7.8
+  categories:
+    culture: 8.8
+    food: 7.8

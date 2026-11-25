@@ -1,0 +1,15 @@
+id: sight-ss-southern-national-park
+name: "Southern National Park"
+location:
+  country_code: SS
+  latitude: 6.55
+  longitude: 28.283333
+scores:
+  impact: null
+  uniqueness: 8.3
+  significance: 8.8
+  experience: null
+  depth: null
+  categories:
+    nature: 9.1
+    wildlife: 9.1

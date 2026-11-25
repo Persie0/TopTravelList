@@ -1,0 +1,16 @@
+id: sight-bf-sindou-peaks
+name: "Sindou Peaks"
+location:
+  country_code: BF
+  latitude: 10.67
+  longitude: -5.17
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 7.9
+  experience: 8.6
+  depth: 8.0
+  categories:
+    nature: 9.0
+    photography: 9.2
+    adventure: 8.6

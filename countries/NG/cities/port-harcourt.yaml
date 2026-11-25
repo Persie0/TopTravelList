@@ -1,0 +1,13 @@
+id: city-ng-port-harcourt
+name: "Port Harcourt"
+location:
+  country_code: NG
+  latitude: 4.777
+  longitude: 7.013
+scores:
+  impact: null
+  uniqueness: 7.3
+  significance: 7.7
+  experience: null
+  depth: null
+  categories: {}

@@ -1,0 +1,13 @@
+id: city-ne-maradi
+name: "Maradi"
+location:
+  country_code: NE
+  latitude: 13.5
+  longitude: 7.102
+scores:
+  impact: null
+  uniqueness: null
+  significance: 6.8
+  experience: null
+  depth: null
+  categories: {}

@@ -1,0 +1,16 @@
+id: sight-ao-mbanza-kongo-historic-centre
+name: "Mbanza Kongo Historic Centre"
+location:
+  country_code: AO
+  latitude: -6.268889
+  longitude: 14.249722
+scores:
+  impact: 8.2
+  uniqueness: 9.1
+  significance: 9.4
+  experience: 8.2
+  depth: 8.4
+  categories:
+    history: 9.4
+    culture: 9.2
+    architecture: 8.6

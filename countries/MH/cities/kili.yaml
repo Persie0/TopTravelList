@@ -1,0 +1,14 @@
+id: city-mh-kili
+name: "Kili Village"
+location:
+  country_code: MH
+  latitude: 5.644
+  longitude: 169.121
+scores:
+  impact: null
+  uniqueness: 7.7
+  significance: 8.3
+  experience: null
+  depth: null
+  categories:
+    history: 8.5

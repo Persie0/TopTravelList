@@ -1,0 +1,16 @@
+id: sight-pw-german-channel
+name: "German Channel"
+location:
+  country_code: PW
+  latitude: 7.12722
+  longitude: 134.28417
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 7.8
+  experience: 8.9
+  depth: 7.8
+  categories:
+    wildlife: 9.0
+    adventure: 8.8
+    nature: 8.4
