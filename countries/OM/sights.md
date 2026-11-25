@@ -2,7 +2,7 @@
 
 # Oman (OM) — Sights & attractions ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**54 ranked** · **6 unassessed** · **60 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,11 +10,77 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, or click its GPS coordinates to open **Google Maps**. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (54)
 
-No sights & attractions have been assessed for **Oman** yet.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps |
+| ---: | --- | --- | ---: | --- | --- | --- |
+| 1 | [Musandam Fjords (Khor Ash Sham)](sights/musandam-fjords-khor-ash-sham.yaml) | Attraction | **91.60** | **Photography 9.6**, **Nature 9.5**, **Adventure 9.2** | 9.5 / 9.4 / 8.5 / 9.2 / 8.8 | [26.205, 56.369](https://www.google.com/maps/search/?api=1&query=26.205,56.369) |
+| 2 | [Jebel Shams and Wadi Ghul Canyon](sights/jebel-shams-and-wadi-ghul-canyon.yaml) | Valley / canyon | **91.05** | **Photography 9.6**, **Nature 9.5**, **Adventure 9.4** | 9.5 / 9.2 / 8.5 / 9.1 / 8.9 | [23.232, 57.207](https://www.google.com/maps/search/?api=1&query=23.232,57.207) |
+| 3 | [Daymaniyat Islands Nature Reserve](sights/daymaniyat-islands-nature-reserve.yaml) | Park / reserve | **89.50** | **Adventure 9.3**, **Wildlife 9.3**, **Nature 9.2**, Photography 9.1 | 9.0 / 8.9 / 9.0 / 9.1 / 8.6 | [23.853, 58.098](https://www.google.com/maps/search/?api=1&query=23.853,58.098) |
+| 4 | [Sharqiya Sands (Wahiba Sands)](sights/sharqiya-sands-wahiba-sands.yaml) | Attraction | **89.10** | **Photography 9.5**, **Adventure 9.2**, **Nature 9.2** | 9.3 / 9.0 / 8.1 / 9.2 / 8.7 | [22.2, 58.72](https://www.google.com/maps/search/?api=1&query=22.2,58.72) |
+| 5 | [Jebel Akhdar Mountain Landscape](sights/jebel-akhdar-mountain-landscape.yaml) | Mountain / peak | **88.40** | **Photography 9.4**, **Nature 9.3**, **Adventure 9.1** | 9.1 / 8.8 / 8.3 / 9.0 / 9.0 | [23.08, 57.65](https://www.google.com/maps/search/?api=1&query=23.08,57.65) |
+| 6 | [Bahla Fort](sights/bahla-fort.yaml) | Fortification | **88.20** | **History 9.4**, **Architecture 9.3**, **Photography 8.9** | 8.8 / 8.8 / 9.2 / 8.6 / 8.5 | [22.964, 57.301](https://www.google.com/maps/search/?api=1&query=22.964,57.301) |
+| 7 | [Wadi Shab](sights/wadi-shab.yaml) | Attraction | **87.30** | **Adventure 9.2**, **Photography 9.2**, **Nature 9.1** | 9.2 / 8.9 / 7.8 / 9.1 / 8.2 | [22.842, 59.249](https://www.google.com/maps/search/?api=1&query=22.842,59.249) |
+| 8 | [Nizwa Fort](sights/nizwa-fort.yaml) | Fortification | **87.15** | **Architecture 9.1**, **History 9.1**, **Photography 9.0** | 8.8 / 8.6 / 8.8 / 8.9 / 8.3 | [22.933, 57.531](https://www.google.com/maps/search/?api=1&query=22.933,57.531) |
+| 9 | [Oman Across Ages Museum](sights/oman-across-ages-museum.yaml) | Museum / heritage | **86.70** | **Architecture 9.1**, **Family 8.9**, **History 8.9** | 8.7 / 8.6 / 8.4 / 9.0 / 8.8 | [22.792, 57.515](https://www.google.com/maps/search/?api=1&query=22.792,57.515) |
+| 10 | [Land of Frankincense (Serial Property)](sights/land-of-frankincense-serial-property.yaml) | Attraction | **86.65** | **History 9.4**, **Culture 9.2** | 8.1 / 8.9 / 9.4 / 8.2 / 9.0 | [17.038, 54.134](https://www.google.com/maps/search/?api=1&query=17.038,54.134) |
+| 11 | [Bat Al Khutm and Al Ayn Archaeological Sites](sights/bat-al-khutm-and-al-ayn-archaeological-sites.yaml) | Museum / heritage | **85.90** | **History 9.4**, **Photography 8.6** | 8.0 / 9.2 / 9.4 / 7.8 / 8.4 | [23.266, 56.744](https://www.google.com/maps/search/?api=1&query=23.266,56.744) |
+| 12 | [Al Ayn Beehive Tombs](sights/al-ayn-beehive-tombs.yaml) | Museum / heritage | **85.85** | **History 9.2**, **Photography 9.2** | 8.6 / 9.0 / 9.1 / 8.1 / 7.2 | [23.215, 56.961](https://www.google.com/maps/search/?api=1&query=23.215,56.961) |
+| 13 | [Sultan Qaboos Grand Mosque](sights/sultan-qaboos-grand-mosque.yaml) | Religious site | **85.65** | **Architecture 9.3**, **Photography 9.0**, **Culture 8.8** | 8.9 / 8.5 / 8.2 / 8.8 / 8.1 | [23.583, 58.389](https://www.google.com/maps/search/?api=1&query=23.583,58.389) |
+| 14 | [Jabrin Castle](sights/jabrin-castle.yaml) | Palace / castle | **85.55** | **Architecture 9.1**, **History 9.0** | 8.6 / 8.5 / 8.7 / 8.6 / 8.2 | [22.915, 57.249](https://www.google.com/maps/search/?api=1&query=22.915,57.249) |
+| 15 | [Ras Al Jinz Turtle Reserve](sights/ras-al-jinz-turtle-reserve.yaml) | Attraction | **85.50** | **Wildlife 9.3**, **Nature 9.0** | 8.6 / 8.8 / 8.9 / 8.4 / 7.3 | [22.423, 59.83](https://www.google.com/maps/search/?api=1&query=22.423,59.83) |
+| 16 | [Sumhuram (Khor Rori)](sights/sumhuram-khor-rori.yaml) | Attraction | **85.40** | **History 9.3**, **Photography 8.9** | 8.4 / 8.6 / 9.1 / 8.4 / 7.9 | [17.039, 54.433](https://www.google.com/maps/search/?api=1&query=17.039,54.433) |
+| 17 | [Aflaj Irrigation Systems of Oman](sights/aflaj-irrigation-systems-of-oman.yaml) | Attraction | **85.00** | **Culture 9.3**, **History 9.3**, **Architecture 8.6** | 7.7 / 9.1 / 9.3 / 7.9 / 8.7 | [22.956, 57.527](https://www.google.com/maps/search/?api=1&query=22.956,57.527) |
+| 18 | [National Museum of Oman](sights/national-museum-of-oman.yaml) | Museum / heritage | **84.60** | **History 9.2**, **Culture 8.9** | 8.1 / 8.5 / 8.9 / 8.5 / 8.5 | [23.614, 58.593](https://www.google.com/maps/search/?api=1&query=23.614,58.593) |
+| 19 | [Masirah Island Natural Landscape](sights/masirah-island-natural-landscape.yaml) | Island | **84.45** | **Nature 9.0**, **Wildlife 8.9**, **Beaches 8.7** | 8.5 / 8.6 / 8.1 / 8.3 / 8.8 | [20.47, 58.82](https://www.google.com/maps/search/?api=1&query=20.47,58.82) |
+| 20 | [Al Mughsail Beach and Blowholes](sights/al-mughsail-beach-and-blowholes.yaml) | Beach / bay | **84.35** | **Photography 9.2**, **Beaches 9.1**, **Nature 8.9** | 8.9 / 8.7 / 7.4 / 8.8 / 7.9 | [16.88, 53.77](https://www.google.com/maps/search/?api=1&query=16.88,53.77) |
+| 20 | [Wadi Darbat](sights/wadi-darbat.yaml) | Attraction | **84.35** | **Nature 9.1**, **Photography 9.1** | 8.8 / 8.5 / 7.6 / 8.8 / 8.3 | [17.1, 54.45](https://www.google.com/maps/search/?api=1&query=17.1,54.45) |
+| 22 | [Al Baleed Archaeological Park](sights/al-baleed-archaeological-park.yaml) | Museum / heritage | **83.55** | **History 9.1**, **Culture 8.6** | 8.1 / 8.3 / 8.9 / 8.4 / 8.1 | [17.009, 54.138](https://www.google.com/maps/search/?api=1&query=17.009,54.138) |
+| 23 | [Wadi Tiwi](sights/wadi-tiwi.yaml) | Attraction | **83.40** | **Photography 9.0**, **Nature 8.9**, **Adventure 8.7** | 8.7 / 8.5 / 7.6 / 8.5 / 8.1 | [22.815, 59.252](https://www.google.com/maps/search/?api=1&query=22.815,59.252) |
+| 24 | [Al Hazm Castle](sights/al-hazm-castle.yaml) | Palace / castle | **82.90** | **Architecture 8.9**, **History 8.8** | 8.3 / 8.2 / 8.5 / 8.4 / 7.9 | [23.549, 57.47](https://www.google.com/maps/search/?api=1&query=23.549,57.47) |
+| 25 | [Wadi Bani Khalid](sights/wadi-bani-khalid.yaml) | Attraction | **82.40** | **Nature 8.9**, **Photography 8.9**, **Relaxation 8.8** | 8.7 / 8.2 / 7.4 / 8.8 / 7.8 | [22.611, 59.091](https://www.google.com/maps/search/?api=1&query=22.611,59.091) |
+| 26 | [Ancient City of Qalhat](sights/ancient-city-of-qalhat.yaml) | Attraction | **82.30** | **History 9.4**, **Architecture 8.2** | 7.7 / 8.6 / 9.3 / 7.6 / 7.7 | [22.695, 59.372](https://www.google.com/maps/search/?api=1&query=22.695,59.372) |
+| 26 | [Mutrah Souq](sights/mutrah-souq.yaml) | Attraction | **82.30** | **Culture 8.8**, **Food 8.4**, **Architecture 8.2** | 8.2 / 8.2 / 8.0 / 8.8 / 8.0 | [23.62, 58.564](https://www.google.com/maps/search/?api=1&query=23.62,58.564) |
+| 28 | [Nakhal Fort](sights/nakhal-fort.yaml) | Fortification | **82.10** | **Architecture 8.8**, **Photography 8.7**, **History 8.6** | 8.3 / 8.1 / 8.4 / 8.3 / 7.7 | [23.394, 57.83](https://www.google.com/maps/search/?api=1&query=23.394,57.83) |
+| 29 | [Jebel Samhan Viewpoint](sights/jebel-samhan-viewpoint.yaml) | Tower / viewpoint | **82.05** | **Photography 9.3**, **Nature 8.9** | 8.8 / 8.6 / 7.3 / 8.5 / 6.8 | [17.13, 54.7](https://www.google.com/maps/search/?api=1&query=17.13,54.7) |
+| 30 | [Rustaq Fort](sights/rustaq-fort.yaml) | Fortification | **81.85** | **History 8.9**, **Architecture 8.7** | 8.1 / 8.1 / 8.6 / 8.2 / 7.8 | [23.391, 57.425](https://www.google.com/maps/search/?api=1&query=23.391,57.425) |
+| 31 | [Al Hoota Cave](sights/al-hoota-cave.yaml) | Cave | **81.40** | **Nature 8.7**, **Adventure 8.1** | 8.3 / 8.2 / 8.1 / 8.2 / 7.5 | [23.084, 57.352](https://www.google.com/maps/search/?api=1&query=23.084,57.352) |
+| 32 | [Bisya and Salut Cultural Landscape](sights/bisya-and-salut-cultural-landscape.yaml) | Coast | **80.40** | **History 9.3**, **Architecture 8.3** | 7.3 / 8.6 / 9.1 / 7.4 / 7.7 | [22.75, 57.24](https://www.google.com/maps/search/?api=1&query=22.75,57.24) |
+| 33 | [Royal Opera House Muscat](sights/royal-opera-house-muscat.yaml) | Attraction | **80.25** | **Architecture 8.9**, **Culture 8.5** | 8.2 / 8.1 / 7.6 / 8.4 / 7.6 | [23.614, 58.468](https://www.google.com/maps/search/?api=1&query=23.614,58.468) |
+| 34 | [Falaj Al Khatmeen](sights/falaj-al-khatmeen.yaml) | Attraction | **79.90** | **History 8.9**, **Culture 8.7** | 7.5 / 8.4 / 8.7 / 7.8 / 7.3 | [22.921, 57.676](https://www.google.com/maps/search/?api=1&query=22.921,57.676) |
+| 35 | [Wadi Dawkah Frankincense Reserve](sights/wadi-dawkah-frankincense-reserve.yaml) | Attraction | **79.80** | **History 8.8**, **Culture 8.5**, **Nature 8.5** | 7.6 / 8.4 / 8.6 / 7.8 / 7.1 | [17.333, 54.076](https://www.google.com/maps/search/?api=1&query=17.333,54.076) |
+| 36 | [Bait Al Zubair Museum](sights/bait-al-zubair-museum.yaml) | Museum / heritage | **79.75** | **Culture 8.8**, **History 8.6** | 7.7 / 8.1 / 8.2 / 8.2 / 7.7 | [23.615, 58.591](https://www.google.com/maps/search/?api=1&query=23.615,58.591) |
+| 37 | [Bimmah Sinkhole](sights/bimmah-sinkhole.yaml) | Attraction | **79.35** | **Photography 8.8**, **Nature 8.7** | 8.4 / 8.4 / 7.1 / 8.3 / 6.5 | [23.036, 59.07](https://www.google.com/maps/search/?api=1&query=23.036,59.07) |
+| 38 | [Mutrah Corniche](sights/mutrah-corniche.yaml) | Attraction | **79.30** | **Photography 8.9**, **Relaxation 8.5** | 8.3 / 7.8 / 7.2 / 8.6 / 7.6 | [23.623, 58.566](https://www.google.com/maps/search/?api=1&query=23.623,58.566) |
+| 39 | [Al Jalali and Al Mirani Forts (Exterior)](sights/al-jalali-and-al-mirani-forts-exterior.yaml) | Attraction | **78.20** | **History 8.7**, **Architecture 8.6**, **Photography 8.5** | 7.9 / 7.9 / 8.4 / 7.5 / 6.7 | [23.616, 58.596](https://www.google.com/maps/search/?api=1&query=23.616,58.596) |
+| 40 | [Falaj Daris](sights/falaj-daris.yaml) | Attraction | **77.75** | **History 8.8**, **Culture 8.6** | 7.2 / 8.2 / 8.6 / 7.7 / 6.9 | [22.957, 57.527](https://www.google.com/maps/search/?api=1&query=22.957,57.527) |
+| 40 | [Wadi Dima Wa Tayeen](sights/wadi-dima-wa-tayeen.yaml) | Attraction | **77.75** | **Nature 8.5**, **Photography 8.5**, **Adventure 8.3** | 8.1 / 7.9 / 6.9 / 8.2 / 7.6 | [23.1, 58.7](https://www.google.com/maps/search/?api=1&query=23.1,58.7) |
+| 42 | [Khasab Fort](sights/khasab-fort.yaml) | Fortification | **77.60** | **History 8.5**, **Architecture 8.3** | 7.7 / 7.6 / 8.1 / 8.0 / 7.3 | [26.198, 56.248](https://www.google.com/maps/search/?api=1&query=26.198,56.248) |
+| 43 | [Mutrah Fort](sights/mutrah-fort.yaml) | Fortification | **76.75** | **Photography 8.7**, **Architecture 8.2** | 7.8 / 7.6 / 7.8 / 8.1 / 6.6 | [23.62, 58.57](https://www.google.com/maps/search/?api=1&query=23.62,58.57) |
+| 44 | [Bibi Maryam Mausoleum](sights/bibi-maryam-mausoleum.yaml) | Museum / heritage | **76.10** | **History 8.9**, **Architecture 8.2** | 7.3 / 7.9 / 8.6 / 7.3 / 6.3 | [22.695, 59.371](https://www.google.com/maps/search/?api=1&query=22.695,59.371) |
+| 45 | [Ain Athum](sights/ain-athum.yaml) | Attraction | **76.05** | **Photography 8.5**, **Nature 8.4** | 8.0 / 7.8 / 6.7 / 8.1 / 7.0 | [17.12, 54.39](https://www.google.com/maps/search/?api=1&query=17.12,54.39) |
+| 46 | [Shisr (Ubar) Archaeological Site](sights/shisr-ubar-archaeological-site.yaml) | Museum / heritage | **75.45** | **History 8.9** | 6.9 / 8.1 / 8.6 / 7.2 / 6.5 | [18.255, 53.65](https://www.google.com/maps/search/?api=1&query=18.255,53.65) |
+| 47 | [Taqah Castle](sights/taqah-castle.yaml) | Palace / castle | **74.65** | **History 8.3**, **Culture 8.2** | 7.2 / 7.6 / 7.9 / 7.7 / 6.7 | [17.038, 54.398](https://www.google.com/maps/search/?api=1&query=17.038,54.398) |
+| 48 | [Sohar Fort](sights/sohar-fort.yaml) | Fortification | **74.60** | **History 8.4**, **Architecture 8.0** | 7.3 / 7.4 / 8.0 / 7.6 / 6.8 | [24.349, 56.73](https://www.google.com/maps/search/?api=1&query=24.349,56.73) |
+| 49 | [Al Ashkharah Beach](sights/al-ashkharah-beach.yaml) | Beach / bay | **74.25** | **Beaches 8.6**, **Relaxation 8.4**, **Photography 8.3** | 7.9 / 7.5 / 6.1 / 8.2 / 7.3 | [21.843, 59.582](https://www.google.com/maps/search/?api=1&query=21.843,59.582) |
+| 50 | [Al Sawadi Beach](sights/al-sawadi-beach.yaml) | Beach / bay | **73.90** | **Photography 8.5**, **Beaches 8.4**, **Relaxation 8.3** | 7.8 / 7.6 / 6.1 / 8.2 / 7.0 | [23.779, 57.786](https://www.google.com/maps/search/?api=1&query=23.779,57.786) |
+| 51 | [Al Alam Palace Exterior](sights/al-alam-palace-exterior.yaml) | Palace / castle | **73.75** | **Architecture 8.4**, **Photography 8.2** | 7.5 / 7.5 / 7.7 / 7.4 / 6.0 | [23.615, 58.594](https://www.google.com/maps/search/?api=1&query=23.615,58.594) |
+| 52 | [Ain Al Kasfa](sights/ain-al-kasfa.yaml) | Attraction | **71.50** | **Nature 7.9**, **Relaxation 7.8** | 7.1 / 7.5 / 6.8 / 7.7 / 6.3 | [23.394, 57.426](https://www.google.com/maps/search/?api=1&query=23.394,57.426) |
+| 53 | [Ain Razat](sights/ain-razat.yaml) | Attraction | **71.40** | **Relaxation 8.0**, **Nature 7.7** | 7.3 / 7.2 / 6.5 / 7.8 / 6.8 | [17.12, 54.25](https://www.google.com/maps/search/?api=1&query=17.12,54.25) |
+| 54 | [Qurum Beach](sights/qurum-beach.yaml) | Beach / bay | **70.45** | **Relaxation 8.5**, **Beaches 8.3** | 7.5 / 6.9 / 5.6 / 8.2 / 7.2 | [23.624, 58.474](https://www.google.com/maps/search/?api=1&query=23.624,58.474) |
 
-Add destination YAML files in [sights/](sights/), then regenerate the overview files.
+## Not yet fully assessed (6)
+
+These destinations have no rank until all five core scores are assessed.
+
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps |
+| ---: | --- | --- | ---: | --- | --- | --- |
+| — | [Al Hallaniyyat Islands Proposed Nature Reserve](sights/al-hallaniyyat-islands-proposed-nature-reserve.yaml) | Park / reserve | **—** | **Wildlife 9.2**, **Nature 9.1** | — / 8.7 / 9.0 / — / — | [17.495, 56.03](https://www.google.com/maps/search/?api=1&query=17.495,56.03) |
+| — | [Bar Al Hikman Proposed Nature Reserve](sights/bar-al-hikman-proposed-nature-reserve.yaml) | Park / reserve | **—** | **Wildlife 9.3**, **Nature 9.1** | — / 8.8 / 9.1 / — / — | [20.6, 58.35](https://www.google.com/maps/search/?api=1&query=20.6,58.35) |
+| — | [Falaj Al Jeela](sights/falaj-al-jeela.yaml) | Attraction | **—** | **History 8.8** | — / 8.4 / 8.6 / — / — | [22.879, 59.111](https://www.google.com/maps/search/?api=1&query=22.879,59.111) |
+| — | [Falaj Al Malki](sights/falaj-al-malki.yaml) | Attraction | **—** | **History 8.8** | — / 8.4 / 8.6 / — / — | [22.831, 57.778](https://www.google.com/maps/search/?api=1&query=22.831,57.778) |
+| — | [Falaj Al Muyasser](sights/falaj-al-muyasser.yaml) | Attraction | **—** | **History 8.8** | — / 8.5 / 8.6 / — / — | [23.39, 57.429](https://www.google.com/maps/search/?api=1&query=23.39,57.429) |
+| — | [Jabal Samhan Nature Reserve](sights/jabal-samhan-nature-reserve.yaml) | Park / reserve | **—** | **Nature 9.3**, **Wildlife 9.3** | — / 8.8 / 9.1 / — / — | [17.15, 54.85](https://www.google.com/maps/search/?api=1&query=17.15,54.85) |
 
 ---
 

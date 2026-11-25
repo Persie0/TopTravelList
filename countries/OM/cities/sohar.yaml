@@ -1,0 +1,15 @@
+id: city-om-sohar
+name: "Sohar"
+location:
+  country_code: OM
+  latitude: 24.347
+  longitude: 56.709
+scores:
+  impact: 6.9
+  uniqueness: 7.3
+  significance: 7.9
+  experience: 7.5
+  depth: 7.3
+  categories:
+    history: 8.3
+    culture: 7.8

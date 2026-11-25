@@ -1,0 +1,16 @@
+id: city-om-balad-sayt
+name: "Balad Sayt"
+location:
+  country_code: OM
+  latitude: 23.188
+  longitude: 57.389
+scores:
+  impact: 8.6
+  uniqueness: 8.6
+  significance: 7.4
+  experience: 8.2
+  depth: 6.9
+  categories:
+    photography: 9.2
+    architecture: 8.6
+    culture: 8.1
