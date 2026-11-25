@@ -1,0 +1,16 @@
+id: sight-nu-avaiki-cave
+name: "Avaiki Cave and coastal pool"
+location:
+  country_code: NU
+  latitude: -18.997
+  longitude: -169.911
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 8.4
+  depth: 8.0
+  categories:
+    nature: 9.0
+    history: 8.7
+    photography: 9.1

@@ -1,0 +1,16 @@
+id: sight-nu-anapala-chasm
+name: "Anapala Chasm"
+location:
+  country_code: NU
+  latitude: -19.13
+  longitude: -169.831
+scores:
+  impact: 8.5
+  uniqueness: 8.7
+  significance: 8.5
+  experience: 8.0
+  depth: 7.6
+  categories:
+    nature: 8.7
+    history: 8.4
+    adventure: 8.3
