@@ -2,7 +2,7 @@
 
 # Cyprus (CY) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**16 ranked** · **0 unassessed** · **16 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,26 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (16)
 
-No cities, towns & villages have been assessed for **Cyprus** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Famagusta (Gazimağusa)](cities/famagusta.yaml) | City / town | **84.30** | **History 9.0**, **Architecture 8.9** | 8.4 / 8.6 / 8.8 / 8.0 / 8.0 | [35.1174, 33.9413](https://www.google.com/maps/search/?api=1&query=35.1174,33.9413) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Famagusta%20%28Gazima%C4%9Fusa%29%2C%20Cyprus) |
+| 2 | [Nicosia](cities/nicosia.yaml) | City / town | **83.55** | **History 8.8**, **Culture 8.7**, **Architecture 8.4**, Food 8.2 | 8.0 / 8.6 / 8.7 / 8.1 / 8.5 | [35.1856, 33.3823](https://www.google.com/maps/search/?api=1&query=35.1856,33.3823) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nicosia%2C%20Cyprus) |
+| 3 | [Paphos](cities/paphos.yaml) | City / town | **82.55** | **History 8.8**, **Relaxation 8.4**, **Architecture 8.3**, Food 8.0 | 8.1 / 8.1 / 8.6 / 8.4 / 8.2 | [34.775, 32.424](https://www.google.com/maps/search/?api=1&query=34.775,32.424) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Paphos%2C%20Cyprus) |
+| 4 | [Kyrenia (Girne)](cities/kyrenia.yaml) | City / town | **81.80** | **Photography 8.8**, **Architecture 8.6**, **History 8.5** | 8.3 / 8.1 / 8.2 / 8.3 / 7.8 | [35.3417, 33.3192](https://www.google.com/maps/search/?api=1&query=35.3417,33.3192) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kyrenia%20%28Girne%29%2C%20Cyprus) |
+| 5 | [Pano Lefkara](cities/lefkara.yaml) | City / town | **80.40** | **Culture 8.7**, **Photography 8.5**, **Architecture 8.4** | 8.0 / 8.3 / 8.1 / 8.1 / 7.3 | [34.867, 33.305](https://www.google.com/maps/search/?api=1&query=34.867,33.305) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Pano%20Lefkara%2C%20Cyprus) |
+| 6 | [Kalopanagiotis](cities/kalopanagiotis.yaml) | City / town | **78.25** | **Relaxation 8.3**, **Architecture 8.2**, **Nature 8.0** | 8.0 / 7.9 / 7.7 / 8.0 / 7.1 | [34.992, 32.828](https://www.google.com/maps/search/?api=1&query=34.992,32.828) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kalopanagiotis%2C%20Cyprus) |
+| 7 | [Fikardou](cities/fikardou.yaml) | City / town | **77.75** | **Architecture 8.6**, **History 8.1** | 7.9 / 8.2 / 7.9 / 7.5 / 6.5 | [34.9589, 33.1715](https://www.google.com/maps/search/?api=1&query=34.9589,33.1715) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Fikardou%2C%20Cyprus) |
+| 8 | [Omodos](cities/omodos.yaml) | City / town | **77.40** | **Architecture 8.2**, **Culture 8.1**, **Food 8.0** | 7.9 / 7.8 / 7.5 / 8.0 / 7.2 | [34.848, 32.808](https://www.google.com/maps/search/?api=1&query=34.848,32.808) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Omodos%2C%20Cyprus) |
+| 9 | [Limassol](cities/limassol.yaml) | City / town | **76.65** | **Food 8.3**, **Relaxation 8.1**, **Culture 7.9** | 7.6 / 7.4 / 7.6 / 8.1 / 8.0 | [34.6786, 33.0413](https://www.google.com/maps/search/?api=1&query=34.6786,33.0413) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Limassol%2C%20Cyprus) |
+| 10 | [Larnaca](cities/larnaca.yaml) | City / town | **76.45** | **Relaxation 8.3**, **Food 8.0**, **History 8.0** | 7.5 / 7.5 / 7.8 / 8.0 / 7.6 | [34.9182, 33.6201](https://www.google.com/maps/search/?api=1&query=34.9182,33.6201) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Larnaca%2C%20Cyprus) |
+| 11 | [Bellapais (Beylerbeyi)](cities/bellapais.yaml) | City / town | **76.35** | **Photography 8.3**, **Architecture 8.2** | 7.8 / 7.7 / 7.6 / 7.8 / 6.8 | [35.307, 33.354](https://www.google.com/maps/search/?api=1&query=35.307,33.354) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bellapais%20%28Beylerbeyi%29%2C%20Cyprus) |
+| 12 | [Kakopetria](cities/kakopetria.yaml) | City / town | **76.20** | **Architecture 8.0**, **Nature 8.0**, **Relaxation 8.0** | 7.8 / 7.7 / 7.3 / 7.9 / 7.1 | [34.991, 32.904](https://www.google.com/maps/search/?api=1&query=34.991,32.904) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kakopetria%2C%20Cyprus) |
+| 13 | [Ayia Napa](cities/ayia-napa.yaml) | City / town | **73.15** | **Nightlife 8.8**, **Beaches 8.4**, **Relaxation 8.2** | 7.4 / 7.1 / 6.5 / 8.4 / 7.6 | [34.988, 34](https://www.google.com/maps/search/?api=1&query=34.988,34) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ayia%20Napa%2C%20Cyprus) |
+| 14 | [Pano Platres](cities/platres.yaml) | City / town | **71.70** | **Nature 7.9**, **Relaxation 7.9** | 7.4 / 7.1 / 6.7 / 7.7 / 6.8 | [34.887, 32.865](https://www.google.com/maps/search/?api=1&query=34.887,32.865) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Pano%20Platres%2C%20Cyprus) |
+| 15 | [Polis Chrysochous](cities/polis.yaml) | City / town | **71.65** | **Relaxation 8.0**, **Food 7.6** | 7.2 / 7.1 / 7.0 / 7.6 / 6.9 | [35.035, 32.426](https://www.google.com/maps/search/?api=1&query=35.035,32.426) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Polis%20Chrysochous%2C%20Cyprus) |
+| 16 | [Protaras](cities/protaras.yaml) | City / town | **70.40** | **Beaches 8.5**, **Relaxation 8.3**, **Family 8.1** | 7.3 / 6.8 / 6.1 / 8.2 / 7.0 | [35.015, 34.052](https://www.google.com/maps/search/?api=1&query=35.015,34.052) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Protaras%2C%20Cyprus) |
 
 ---
 

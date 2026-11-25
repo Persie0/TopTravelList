@@ -1,0 +1,15 @@
+id: sight-gb-gracehill
+name: "Gracehill Moravian Settlement"
+location:
+  country_code: GB
+  latitude: 54.849
+  longitude: -6.322
+scores:
+  impact: 7.9
+  uniqueness: 8.6
+  significance: 8.7
+  experience: 8.1
+  depth: 7.5
+  categories:
+    architecture: 8.8
+    history: 8.8

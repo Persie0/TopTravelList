@@ -2,7 +2,7 @@
 
 # Denmark (DK) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**18 ranked** · **0 unassessed** · **18 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,28 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (18)
 
-No cities, towns & villages have been assessed for **Denmark** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Copenhagen](cities/copenhagen.yaml) | City / town | **92.15** | **Architecture 9.4**, **Culture 9.3**, **Food 9.3**, Photography 9.2 | 9.2 / 9.1 / 9.1 / 9.4 / 9.5 | [55.6761, 12.5683](https://www.google.com/maps/search/?api=1&query=55.6761,12.5683) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Copenhagen%2C%20Denmark) |
+| 2 | [Aarhus](cities/aarhus.yaml) | City / town | **86.40** | **Culture 9.1**, **Architecture 8.8**, **Food 8.8** | 8.6 / 8.4 / 8.6 / 9.0 / 8.9 | [56.1629, 10.2039](https://www.google.com/maps/search/?api=1&query=56.1629,10.2039) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Aarhus%2C%20Denmark) |
+| 3 | [Ribe](cities/ribe.yaml) | City / town | **86.05** | **History 9.2**, **Architecture 9.0**, **Photography 9.0** | 8.7 / 8.7 / 8.7 / 8.6 / 7.9 | [55.328, 8.763](https://www.google.com/maps/search/?api=1&query=55.328,8.763) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ribe%2C%20Denmark) |
+| 4 | [Odense](cities/odense.yaml) | City / town | **84.60** | **Culture 9.0**, **History 8.8**, **Architecture 8.5** | 8.2 / 8.5 / 8.6 / 8.7 / 8.5 | [55.4038, 10.4024](https://www.google.com/maps/search/?api=1&query=55.4038,10.4024) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Odense%2C%20Denmark) |
+| 5 | [Helsingør (Elsinore)](cities/helsingor.yaml) | City / town | **84.25** | **History 9.0**, **Architecture 8.8**, **Photography 8.7** | 8.3 / 8.5 / 8.6 / 8.6 / 8.0 | [56.036, 12.613](https://www.google.com/maps/search/?api=1&query=56.036,12.613) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Helsing%C3%B8r%20%28Elsinore%29%2C%20Denmark) |
+| 6 | [Roskilde](cities/roskilde.yaml) | City / town | **84.05** | **History 9.2**, **Culture 8.8**, **Architecture 8.7** | 8.2 / 8.4 / 8.8 / 8.5 / 8.1 | [55.641, 12.081](https://www.google.com/maps/search/?api=1&query=55.641,12.081) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Roskilde%2C%20Denmark) |
+| 7 | [Skagen](cities/skagen.yaml) | City / town | **83.00** | **Culture 8.9**, **Photography 8.9**, **Relaxation 8.7** | 8.3 / 8.6 / 8.0 / 8.6 / 7.7 | [57.72, 10.58](https://www.google.com/maps/search/?api=1&query=57.72,10.58) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Skagen%2C%20Denmark) |
+| 8 | [Ærøskøbing](cities/aeroeskoebing.yaml) | City / town | **82.50** | **Photography 9.0**, **Architecture 8.9**, **Relaxation 8.8** | 8.4 / 8.5 / 8.0 / 8.5 / 7.3 | [54.889, 10.41](https://www.google.com/maps/search/?api=1&query=54.889,10.41) | [Google Maps](https://www.google.com/maps/search/?api=1&query=%C3%86r%C3%B8sk%C3%B8bing%2C%20Denmark) |
+| 9 | [Ebeltoft](cities/ebeltoft.yaml) | City / town | **81.90** | **Architecture 8.8**, **Photography 8.8**, **History 8.5** | 8.2 / 8.3 / 8.1 / 8.5 / 7.6 | [56.196, 10.68](https://www.google.com/maps/search/?api=1&query=56.196,10.68) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ebeltoft%2C%20Denmark) |
+| 10 | [Christiansfeld](cities/christiansfeld.yaml) | City / town | **81.85** | **Architecture 9.0**, **History 8.8**, **Culture 8.6** | 8.0 / 8.6 / 8.5 / 8.1 / 7.2 | [55.356, 9.481](https://www.google.com/maps/search/?api=1&query=55.356,9.481) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Christiansfeld%2C%20Denmark) |
+| 11 | [Aalborg](cities/aalborg.yaml) | City / town | **81.75** | **Culture 8.8**, **Architecture 8.6**, **Food 8.5** | 8.0 / 8.1 / 8.1 / 8.6 / 8.4 | [57.048, 9.922](https://www.google.com/maps/search/?api=1&query=57.048,9.922) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Aalborg%2C%20Denmark) |
+| 12 | [Dragør](cities/dragor.yaml) | City / town | **81.05** | **Architecture 8.7**, **Photography 8.7**, **Relaxation 8.5** | 8.1 / 8.3 / 8.0 / 8.4 / 7.4 | [55.594, 12.67](https://www.google.com/maps/search/?api=1&query=55.594,12.67) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Drag%C3%B8r%2C%20Denmark) |
+| 13 | [Gudhjem](cities/gudhjem.yaml) | City / town | **80.75** | **Photography 8.9**, **Relaxation 8.7**, **Food 8.4** | 8.3 / 8.3 / 7.6 / 8.4 / 7.3 | [55.21, 14.971](https://www.google.com/maps/search/?api=1&query=55.21,14.971) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Gudhjem%2C%20Denmark) |
+| 14 | [Svendborg](cities/svendborg.yaml) | City / town | **80.20** | **Relaxation 8.6**, **Culture 8.4**, **Architecture 8.2** | 7.9 / 8.0 / 8.0 / 8.4 / 7.9 | [55.059, 10.607](https://www.google.com/maps/search/?api=1&query=55.059,10.607) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Svendborg%2C%20Denmark) |
+| 15 | [Kolding](cities/kolding.yaml) | City / town | **79.40** | **History 8.6**, **Architecture 8.5**, **Culture 8.4** | 7.8 / 7.8 / 8.1 / 8.2 / 8.0 | [55.49, 9.472](https://www.google.com/maps/search/?api=1&query=55.49,9.472) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kolding%2C%20Denmark) |
+| 16 | [Hillerød](cities/hillerod.yaml) | City / town | **78.70** | **Architecture 8.4**, **History 8.4**, **Relaxation 8.2** | 7.8 / 7.8 / 8.0 / 8.2 / 7.5 | [55.927, 12.3](https://www.google.com/maps/search/?api=1&query=55.927,12.3) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hiller%C3%B8d%2C%20Denmark) |
+| 17 | [Rønne](cities/ronne.yaml) | City / town | **78.05** | **Architecture 8.3**, **Culture 8.2**, **Relaxation 8.2** | 7.7 / 7.8 / 7.8 / 8.1 / 7.7 | [55.1, 14.7](https://www.google.com/maps/search/?api=1&query=55.1,14.7) | [Google Maps](https://www.google.com/maps/search/?api=1&query=R%C3%B8nne%2C%20Denmark) |
+| 18 | [Jelling](cities/jelling.yaml) | City / town | **76.20** | **History 8.5**, **Culture 8.1** | 7.3 / 7.9 / 8.1 / 7.7 / 6.8 | [55.755, 9.42](https://www.google.com/maps/search/?api=1&query=55.755,9.42) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Jelling%2C%20Denmark) |
 
 ---
 

@@ -1,0 +1,15 @@
+id: sight-il-megiddo
+name: "Tel Megiddo"
+location:
+  country_code: IL
+  latitude: 32.585
+  longitude: 35.184
+scores:
+  impact: 8.1
+  uniqueness: 8.7
+  significance: 9.2
+  experience: 8.3
+  depth: 8.0
+  categories:
+    history: 9.4
+    architecture: 8.7

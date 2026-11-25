@@ -1,0 +1,16 @@
+id: sight-ps-historic-nablus
+name: "Historic City of Nablus and Environs"
+location:
+  country_code: PS
+  latitude: 32.22
+  longitude: 35.26
+scores:
+  impact: 8.4
+  uniqueness: 8.8
+  significance: 9.0
+  experience: null
+  depth: null
+  categories:
+    history: 9.1
+    architecture: 8.9
+    culture: 9.1

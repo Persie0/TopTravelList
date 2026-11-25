@@ -1,0 +1,16 @@
+id: sight-gb-peak-district
+name: "Peak District National Park"
+location:
+  country_code: GB
+  latitude: 53.35
+  longitude: -1.85
+scores:
+  impact: 8.8
+  uniqueness: 8.5
+  significance: 8.5
+  experience: 9.0
+  depth: 9.0
+  categories:
+    nature: 9.1
+    adventure: 9.0
+    photography: 9.0

@@ -1,0 +1,15 @@
+id: sight-tr-hattusha
+name: "Hattusha: The Hittite Capital"
+location:
+  country_code: TR
+  latitude: 40.02
+  longitude: 34.615
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 9.4
+  experience: 8.6
+  depth: 8.8
+  categories:
+    history: 9.4
+    architecture: 9.1

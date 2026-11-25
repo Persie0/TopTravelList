@@ -1,0 +1,15 @@
+id: sight-ie-hill-of-uisneach
+name: "Hill of Uisneach"
+location:
+  country_code: IE
+  latitude: 53.49
+  longitude: -7.56
+scores:
+  impact: 7.9
+  uniqueness: 8.7
+  significance: 8.9
+  experience: 8.2
+  depth: 7.9
+  categories:
+    history: 9.0
+    culture: 8.7

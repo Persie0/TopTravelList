@@ -1,0 +1,15 @@
+id: sight-cy-kyrenia-castle
+name: "Kyrenia Castle"
+location:
+  country_code: CY
+  latitude: 35.342
+  longitude: 33.321
+scores:
+  impact: 8.3
+  uniqueness: 8.4
+  significance: 8.6
+  experience: 8.4
+  depth: 8.0
+  categories:
+    architecture: 8.7
+    history: 8.9

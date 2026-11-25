@@ -1,0 +1,15 @@
+id: sight-ie-kerry-marine-national-park
+name: "Páirc Náisiúnta na Mara Ciarraí"
+location:
+  country_code: IE
+  latitude: 52.05
+  longitude: -10.37
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 9.1
+  experience: null
+  depth: null
+  categories:
+    nature: 9.4
+    wildlife: 9.3

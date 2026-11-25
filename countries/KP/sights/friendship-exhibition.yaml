@@ -1,0 +1,15 @@
+id: sight-kp-friendship-exhibition
+name: "International Friendship Exhibition"
+location:
+  country_code: KP
+  latitude: 40
+  longitude: 126.26
+scores:
+  impact: 7.8
+  uniqueness: 8.4
+  significance: 7.7
+  experience: 7.2
+  depth: 7.5
+  categories:
+    history: 7.9
+    architecture: 8.0

@@ -1,0 +1,15 @@
+id: city-ag-jolly-harbour
+name: "Jolly Harbour"
+location:
+  country_code: AG
+  latitude: 17.067
+  longitude: -61.887
+scores:
+  impact: 7.2
+  uniqueness: 6.8
+  significance: 5.8
+  experience: 8.5
+  depth: 7.7
+  categories:
+    relaxation: 8.5
+    food: 8.4

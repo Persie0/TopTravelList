@@ -1,0 +1,16 @@
+id: sight-tr-mardin-landscape
+name: "Mardin Cultural Landscape"
+location:
+  country_code: TR
+  latitude: 37.31
+  longitude: 40.74
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 8.9
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.2
+    culture: 9.0
+    photography: 9.3

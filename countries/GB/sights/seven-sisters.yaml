@@ -1,0 +1,15 @@
+id: sight-gb-seven-sisters
+name: "Seven Sisters chalk cliffs"
+location:
+  country_code: GB
+  latitude: 50.76
+  longitude: 0.16
+scores:
+  impact: 9.1
+  uniqueness: 8.8
+  significance: 8.4
+  experience: 8.9
+  depth: 8.3
+  categories:
+    nature: 9.3
+    photography: 9.4

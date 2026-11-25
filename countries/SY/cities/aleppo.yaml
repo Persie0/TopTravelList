@@ -1,0 +1,17 @@
+id: city-sy-aleppo
+name: "Aleppo"
+location:
+  country_code: SY
+  latitude: 36.2021
+  longitude: 37.1343
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 9.1
+  experience: 8.0
+  depth: 8.1
+  categories:
+    architecture: 9.0
+    history: 9.2
+    culture: 8.8
+    food: 8.7

@@ -1,0 +1,16 @@
+id: sight-tt-asa-wright-nature-centre
+name: "Asa Wright Nature Centre"
+location:
+  country_code: TT
+  latitude: 10.716
+  longitude: -61.297
+scores:
+  impact: 8.4
+  uniqueness: 8.6
+  significance: 8.7
+  experience: 8.8
+  depth: 8.4
+  categories:
+    wildlife: 9.3
+    nature: 9.1
+    photography: 8.9

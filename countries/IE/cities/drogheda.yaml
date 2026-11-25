@@ -1,0 +1,15 @@
+id: city-ie-drogheda
+name: "Drogheda"
+location:
+  country_code: IE
+  latitude: 53.716
+  longitude: -6.35
+scores:
+  impact: 7.8
+  uniqueness: 8.0
+  significance: 8.4
+  experience: 8.0
+  depth: 7.8
+  categories:
+    history: 8.8
+    architecture: 8.3

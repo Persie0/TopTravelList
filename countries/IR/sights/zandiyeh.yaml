@@ -1,0 +1,15 @@
+id: sight-ir-zandiyeh
+name: "Zandiyeh Ensemble of Fars Province"
+location:
+  country_code: IR
+  latitude: 29.616
+  longitude: 52.544
+scores:
+  impact: 8.5
+  uniqueness: 8.7
+  significance: 8.9
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.0
+    history: 9.0

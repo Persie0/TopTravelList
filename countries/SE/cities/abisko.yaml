@@ -1,0 +1,15 @@
+id: city-se-abisko
+name: "Abisko village"
+location:
+  country_code: SE
+  latitude: 68.35
+  longitude: 18.83
+scores:
+  impact: 7.3
+  uniqueness: 7.7
+  significance: 7.0
+  experience: 8.0
+  depth: 7.0
+  categories:
+    adventure: 8.3
+    nature: 8.2

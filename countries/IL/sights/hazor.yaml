@@ -1,0 +1,15 @@
+id: sight-il-hazor
+name: "Tel Hazor"
+location:
+  country_code: IL
+  latitude: 33.017
+  longitude: 35.568
+scores:
+  impact: 8.0
+  uniqueness: 8.5
+  significance: 9.0
+  experience: 8.0
+  depth: 7.7
+  categories:
+    history: 9.2
+    architecture: 8.6

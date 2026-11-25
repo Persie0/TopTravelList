@@ -1,0 +1,16 @@
+id: sight-se-stockholm-archipelago
+name: "Stockholm Archipelago"
+location:
+  country_code: SE
+  latitude: 59.36
+  longitude: 18.55
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 8.5
+  experience: 9.1
+  depth: 9.4
+  categories:
+    nature: 9.3
+    relaxation: 9.3
+    photography: 9.2

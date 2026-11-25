@@ -1,0 +1,16 @@
+id: sight-se-sonfjallet-national-park
+name: "Sonfjället National Park"
+location:
+  country_code: SE
+  latitude: 62.28
+  longitude: 13.53
+scores:
+  impact: 8.5
+  uniqueness: 8.5
+  significance: 8.3
+  experience: 8.5
+  depth: 8.3
+  categories:
+    nature: 9
+    wildlife: 8.9
+    adventure: 8.6

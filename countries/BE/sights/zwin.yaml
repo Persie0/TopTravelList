@@ -1,0 +1,15 @@
+id: sight-be-zwin
+name: "Zwin Nature Park"
+location:
+  country_code: BE
+  latitude: 51.36
+  longitude: 3.35
+scores:
+  impact: 8.1
+  uniqueness: 8.4
+  significance: 8.5
+  experience: 8.5
+  depth: 8.0
+  categories:
+    nature: 8.9
+    wildlife: 9.0

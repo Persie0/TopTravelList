@@ -1,0 +1,17 @@
+id: city-ir-shiraz
+name: "Shiraz"
+location:
+  country_code: IR
+  latitude: 29.5918
+  longitude: 52.5837
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 8.7
+  depth: 8.6
+  categories:
+    architecture: 9.0
+    history: 9.0
+    culture: 9.2
+    food: 8.5

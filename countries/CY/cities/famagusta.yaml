@@ -1,0 +1,15 @@
+id: city-cy-famagusta
+name: "Famagusta (Gazimağusa)"
+location:
+  country_code: CY
+  latitude: 35.1174
+  longitude: 33.9413
+scores:
+  impact: 8.4
+  uniqueness: 8.6
+  significance: 8.8
+  experience: 8.0
+  depth: 8.0
+  categories:
+    architecture: 8.9
+    history: 9.0

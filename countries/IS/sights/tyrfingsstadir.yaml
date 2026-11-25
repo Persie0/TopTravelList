@@ -1,0 +1,15 @@
+id: sight-is-tyrfingsstadir
+name: "Tyrfingsstaðir (Turf House Tradition component)"
+location:
+  country_code: IS
+  latitude: 65.390533
+  longitude: -19.125183
+scores:
+  impact: 7.5
+  uniqueness: 8.3
+  significance: 8.4
+  experience: null
+  depth: null
+  categories:
+    architecture: 8.7
+    history: 8.6

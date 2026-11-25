@@ -1,0 +1,16 @@
+id: sight-vc-st-vincent-botanical-gardens
+name: "St Vincent Botanical Gardens"
+location:
+  country_code: VC
+  latitude: 13.167
+  longitude: -61.229
+scores:
+  impact: 8.1
+  uniqueness: 8.7
+  significance: 9.0
+  experience: 8.7
+  depth: 8.1
+  categories:
+    nature: 9.1
+    history: 9.2
+    wildlife: 8.5

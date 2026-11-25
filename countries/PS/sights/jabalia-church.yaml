@@ -1,0 +1,15 @@
+id: sight-ps-jabalia-church
+name: "Byzantine Church of Jabalia (Mukheitim)"
+location:
+  country_code: PS
+  latitude: 31.53
+  longitude: 34.49
+scores:
+  impact: null
+  uniqueness: 8.6
+  significance: 8.9
+  experience: null
+  depth: null
+  categories:
+    history: 9.1
+    architecture: 8.8

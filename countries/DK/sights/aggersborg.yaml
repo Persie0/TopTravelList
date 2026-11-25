@@ -1,0 +1,15 @@
+id: sight-dk-aggersborg
+name: "Aggersborg Viking-Age Ring Fortress"
+location:
+  country_code: DK
+  latitude: 56.995278
+  longitude: 9.254722
+scores:
+  impact: 8.0
+  uniqueness: 8.8
+  significance: 9.1
+  experience: 8.0
+  depth: 7.7
+  categories:
+    history: 9.1
+    culture: 8.7

@@ -1,0 +1,15 @@
+id: city-ag-old-road
+name: "Old Road"
+location:
+  country_code: AG
+  latitude: 17.019
+  longitude: -61.835
+scores:
+  impact: 7.0
+  uniqueness: 7.6
+  significance: 7.2
+  experience: 7.5
+  depth: 6.2
+  categories:
+    photography: 8.2
+    culture: 8.1

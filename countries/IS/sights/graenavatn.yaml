@@ -1,0 +1,15 @@
+id: sight-is-graenavatn
+name: "Grænavatn (Turf House Tradition component)"
+location:
+  country_code: IS
+  latitude: 65.54065
+  longitude: -16.9967
+scores:
+  impact: 7.5
+  uniqueness: 8.3
+  significance: 8.4
+  experience: null
+  depth: null
+  categories:
+    architecture: 8.7
+    history: 8.6
