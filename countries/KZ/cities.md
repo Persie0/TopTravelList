@@ -2,7 +2,7 @@
 
 # Kazakhstan (KZ) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**18 ranked** · **0 unassessed** · **18 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,28 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (18)
 
-No cities, towns & villages have been assessed for **Kazakhstan** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Almaty](cities/almaty.yaml) | City / town | **86.00** | **Food 8.9**, **Culture 8.8**, **Photography 8.8**, Architecture 8.6 | 8.6 / 8.5 / 8.3 / 8.9 / 9.0 | [43.2389, 76.8897](https://www.google.com/maps/search/?api=1&query=43.2389,76.8897) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Almaty%2C%20Kazakhstan) |
+| 2 | [Astana](cities/astana.yaml) | City / town | **83.85** | **Architecture 9.2**, **Photography 9.0** | 8.5 / 8.7 / 7.8 / 8.4 / 8.4 | [51.1694, 71.4491](https://www.google.com/maps/search/?api=1&query=51.1694,71.4491) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Astana%2C%20Kazakhstan) |
+| 3 | [Turkistan](cities/turkistan.yaml) | City / town | **82.75** | **History 9.1**, **Culture 8.9**, **Architecture 8.8** | 8.0 / 8.4 / 8.8 / 8.3 / 7.7 | [43.301, 68.269](https://www.google.com/maps/search/?api=1&query=43.301,68.269) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Turkistan%2C%20Kazakhstan) |
+| 4 | [Taraz](cities/taraz.yaml) | City / town | **77.15** | **History 8.8**, **Culture 8.2** | 7.3 / 7.8 / 8.4 / 7.7 / 7.4 | [42.9, 71.37](https://www.google.com/maps/search/?api=1&query=42.9,71.37) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Taraz%2C%20Kazakhstan) |
+| 5 | [Zharkent](cities/zharkent.yaml) | City / town | **75.85** | **Architecture 8.5**, **History 8.4**, **Culture 8.2** | 7.2 / 7.9 / 8.0 / 7.8 / 6.8 | [44.166, 80.007](https://www.google.com/maps/search/?api=1&query=44.166,80.007) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Zharkent%2C%20Kazakhstan) |
+| 6 | [Oral (Uralsk)](cities/oral-uralsk.yaml) | City / town | **75.70** | **Architecture 8.4**, **History 8.4** | 7.2 / 7.8 / 8.0 / 7.6 / 7.2 | [51.233, 51.368](https://www.google.com/maps/search/?api=1&query=51.233,51.368) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Oral%20%28Uralsk%29%2C%20Kazakhstan) |
+| 7 | [Shymkent](cities/shymkent.yaml) | City / town | **75.35** | **Food 8.6**, **Culture 8.3** | 7.2 / 7.5 / 7.6 / 8.0 / 7.8 | [42.316, 69.595](https://www.google.com/maps/search/?api=1&query=42.316,69.595) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Shymkent%2C%20Kazakhstan) |
+| 8 | [Semey](cities/semey.yaml) | City / town | **75.30** | **History 8.5**, **Culture 8.3** | 7.1 / 7.6 / 8.0 / 7.6 / 7.6 | [50.411, 80.227](https://www.google.com/maps/search/?api=1&query=50.411,80.227) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Semey%2C%20Kazakhstan) |
+| 9 | [Karaganda](cities/karaganda.yaml) | City / town | **74.10** | **History 8.4**, **Culture 7.9** | 6.9 / 7.5 / 7.9 / 7.5 / 7.6 | [49.804, 73.109](https://www.google.com/maps/search/?api=1&query=49.804,73.109) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Karaganda%2C%20Kazakhstan) |
+| 10 | [Aktau](cities/aktau.yaml) | City / town | **73.95** | **Relaxation 8.3**, **Photography 8.2** | 7.4 / 7.7 / 6.6 / 8.0 / 7.3 | [43.653, 51.197](https://www.google.com/maps/search/?api=1&query=43.653,51.197) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Aktau%2C%20Kazakhstan) |
+| 11 | [Burabay](cities/burabay.yaml) | City / town | **71.75** | **Relaxation 8.5**, **Photography 8.0** | 7.2 / 7.4 / 6.3 / 8.1 / 6.9 | [53.086, 70.313](https://www.google.com/maps/search/?api=1&query=53.086,70.313) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Burabay%2C%20Kazakhstan) |
+| 12 | [Oskemen](cities/oskemen.yaml) | City / town | **71.70** | **Culture 7.7**, **Food 7.7** | 6.8 / 7.2 / 7.2 / 7.6 / 7.5 | [49.948, 82.628](https://www.google.com/maps/search/?api=1&query=49.948,82.628) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Oskemen%2C%20Kazakhstan) |
+| 13 | [Saty](cities/saty.yaml) | City / town | **71.40** | **Photography 8.2**, **Culture 7.8** | 7.2 / 7.8 / 6.2 / 7.8 / 6.2 | [43.073, 78.4](https://www.google.com/maps/search/?api=1&query=43.073,78.4) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Saty%2C%20Kazakhstan) |
+| 14 | [Atyrau](cities/atyrau.yaml) | City / town | **71.30** | **Photography 7.9**, **Culture 7.7** | 6.8 / 7.5 / 6.9 / 7.5 / 7.1 | [47.107, 51.914](https://www.google.com/maps/search/?api=1&query=47.107,51.914) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Atyrau%2C%20Kazakhstan) |
+| 15 | [Ridder](cities/ridder.yaml) | City / town | **70.20** | **Photography 7.8**, **Culture 7.5** | 6.9 / 7.3 / 6.7 / 7.5 / 6.6 | [50.344, 83.512](https://www.google.com/maps/search/?api=1&query=50.344,83.512) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ridder%2C%20Kazakhstan) |
+| 16 | [Pavlodar](cities/pavlodar.yaml) | City / town | **69.80** | **Relaxation 7.7**, **Culture 7.6** | 6.7 / 6.9 / 7.0 / 7.5 / 7.2 | [52.287, 76.967](https://www.google.com/maps/search/?api=1&query=52.287,76.967) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Pavlodar%2C%20Kazakhstan) |
+| 17 | [Kyzylorda](cities/kyzylorda.yaml) | City / town | **69.10** | **History 7.8**, **Culture 7.6** | 6.5 / 7.0 / 7.3 / 7.2 / 6.7 | [44.848, 65.482](https://www.google.com/maps/search/?api=1&query=44.848,65.482) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kyzylorda%2C%20Kazakhstan) |
+| 18 | [Kostanay](cities/kostanay.yaml) | City / town | **68.05** | **Culture 7.4** | 6.5 / 6.8 / 6.8 / 7.3 / 7.0 | [53.215, 63.628](https://www.google.com/maps/search/?api=1&query=53.215,63.628) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kostanay%2C%20Kazakhstan) |
 
 ---
 
