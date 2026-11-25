@@ -25,6 +25,17 @@
 - Mount Etna (Italy): larger geological and hiking breadth
 - Mount Bromo (Indonesia): more varied caldera landscape but different activity.
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D inspected on main; qualitative peers retained. Editorial comparison only.
+
+- [hawaii volcanoes national park (US)](../../../countries/US/sights/hawaii-volcanoes-national-park.yaml) — 9.2/9.5/9.5/8.9/9.0; Wider geological landscape.
+- [etna (IT)](../../../countries/IT/sights/etna.yaml) — 9.5/9.4/9.4/9.0/9.3; Equal impact, broader landscape depth.
+- [mount bromo (ID)](../../../countries/ID/sights/mount-bromo.yaml) — 9.5/9.4/8.5/9.3/8.5; Equal impact and photography, broader vistas.
+- [krakatau volcanic islands (ID)](../../../countries/ID/sights/krakatau-volcanic-islands.yaml) — 9.2/9.5/9.4/8.6/8.6; Greater geological history, different visitor scope.
+
+High-score challenge: impact and photography 9.5 match Bromo; Etna has impact 9.5 and photography 9.6; Hawaiʻi photography 9.4. Focused active-crater spectacle supports these marks but not larger-landscape significance or depth. Overall 90.85 remains provisional; authorized access and visibility are not guaranteed.
+
 ### Scoring decisions
 - Impact: 9.5
 - Uniqueness: 9.3
@@ -59,6 +70,15 @@
 - Angkor Archaeological Park (Cambodia): far greater built scope
 - Hahoe Folk Village (South Korea): more intact living built ensemble
 - Lapaha Royal Tombs (Tonga): close regional chiefly heritage comparator.
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D inspected on main; qualitative peers retained. Editorial comparison only.
+
+- [nan madol (FM)](../../../countries/FM/sights/nan-madol.yaml) — 9.2/9.5/9.5/8.1/8.7; More monumental remains.
+- [angkor archaeological park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 10.0/10.0/10.0/9.8/10.0; World-leading built scope.
+- [hahoe folk village (KR)](../../../countries/KR/sights/hahoe-folk-village.yaml) — 9.0/9.3/9.4/9.2/8.9; More intact settlement and interpretation.
+- [lapaha royal tombs (TO)](../../../countries/TO/sights/lapaha-royal-tombs.yaml) — 8.0/8.8/9.0/7.2/7.8; Close chiefly heritage peer, narrower visit.
 
 ### Scoring decisions
 - Impact: 8.3
@@ -95,6 +115,15 @@
 - Waitomo Glowworm Caves (New Zealand): stronger distinctive bioluminescence
 - Tham Phu Kham Cave (Laos): more compact cave visit.
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D inspected on main; qualitative peers retained. Editorial comparison only.
+
+- [son doong cave (VN)](../../../countries/VN/sights/son-doong-cave.yaml) — 9.9/9.9/9.6/9.0/9.2; Exceptional underground scale.
+- [phong nha cave (VN)](../../../countries/VN/sights/phong-nha-cave.yaml) — 8.8/9.2/8.5/9.0/7.9; Equal impact, greater geological distinction.
+- [phraya nakhon cave (TH)](../../../countries/TH/sights/phraya-nakhon-cave.yaml) — 8.9/9.2/8.6/9.1/7.7; Distinct pavilion, narrower adventure.
+- [tham phu kham cave (LA)](../../../countries/LA/sights/tham-phu-kham-cave.yaml) — 8.1/8.4/7.7/8.3/7.6; Smaller cave excursion.
+
 ### Scoring decisions
 - Impact: 8.8
 - Uniqueness: 8.6
@@ -129,6 +158,15 @@
 - Scapa Flow (United Kingdom): greater multi-wreck scope
 - USAT Liberty (Indonesia): smaller wreck with strong marine life
 - Thistlegorm (Egypt): comparable historic wreck experience.
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D inspected on main; qualitative peers retained. Editorial comparison only.
+
+- [chuuk lagoon (FM)](../../../countries/FM/sights/chuuk-lagoon.yaml) — 9.1/9.3/8.9/9.1/9.2; Multiple wrecks outweigh single ship in depth.
+- [usat liberty wreck tulamben (ID)](../../../countries/ID/sights/usat-liberty-wreck-tulamben.yaml) — 9.1/9.2/8.5/9.3/8.6; Comparable wreck, Coolidge stronger historical scope.
+- [amed japanese shipwreck (ID)](../../../countries/ID/sights/amed-japanese-shipwreck.yaml) — 8.3/8.5/7.3/8.8/7.5; Smaller wreck and narrower heritage.
+- [apo reef (PH)](../../../countries/PH/sights/apo-reef.yaml) — 9.0/8.8/8.9/8.8/8.5; Marine adventure anchor, not a wreck.
 
 ### Scoring decisions
 - Impact: 8.9
@@ -165,6 +203,15 @@
 - Nacpan Beach (Philippines): comparable long tropical shore
 - Nai Yang Beach (Thailand): comparable beach relaxation.
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D inspected on main; qualitative peers retained. Editorial comparison only.
+
+- [railay beach (TH)](../../../countries/TH/sights/railay-beach.yaml) — 8.9/9.0/7.5/9.2/8.3; Karst backdrop and broader activities.
+- [anse source d argent (SC)](../../../countries/SC/sights/anse-source-d-argent.yaml) — 9.8/9.7/7.8/9.2/7.6; Exceptional granite shore.
+- [white beach boracay (PH)](../../../countries/PH/sights/white-beach-boracay.yaml) — 9.1/8.4/6.8/9.0/7.5; Longer beachfront leisure.
+- [nai yang beach (TH)](../../../countries/TH/sights/nai-yang-beach.yaml) — 7.8/8.0/6.5/8.5/7.5; Ordinary attractive shore, Champagne stronger impact.
+
 ### Scoring decisions
 - Impact: 8.6
 - Uniqueness: 7.8
@@ -198,6 +245,15 @@
 - Ik Kil Cenote (Mexico): stronger cavern-like setting
 - Piula Cave Pool (Samoa): comparable focused pool
 - Erawan Falls (Thailand): broader multi-pool exploration.
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D inspected on main; qualitative peers retained. Editorial comparison only.
+
+- [to sua ocean trench (WS)](../../../countries/WS/sights/to-sua-ocean-trench.yaml) — 9.1/9.0/7.4/9.0/7.5; More distinctive collapse setting.
+- [piula cave pool (WS)](../../../countries/WS/sights/piula-cave-pool.yaml) — 7.9/8.0/6.8/8.0/6.8; Comparable freshwater bathing, Nanda stronger color.
+- [erawan waterfalls (TH)](../../../countries/TH/sights/erawan-waterfalls.yaml) — 8.7/8.7/7.1/9.0/8.0; Multiple pools offer greater depth.
+- [kuang si waterfalls (LA)](../../../countries/LA/sights/kuang-si-waterfalls.yaml) — 9.4/9.2/8.0/9.3/8.6; More dramatic turquoise cascades.
 
 ### Scoring decisions
 - Impact: 8.6
@@ -233,6 +289,15 @@
 - Erawan Falls (Thailand): greater multi-tier exploration
 - Afu A'au Waterfall (Samoa): narrower single cascade.
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D inspected on main; qualitative peers retained. Editorial comparison only.
+
+- [iguazu falls argentine circuits (AR)](../../../countries/AR/sights/iguazu-falls-argentine-circuits.yaml) — 9.9/9.8/9.2/9.6/8.6; World-leading waterfall magnitude.
+- [kuang si waterfalls (LA)](../../../countries/LA/sights/kuang-si-waterfalls.yaml) — 9.4/9.2/8.0/9.3/8.6; More distinctive terraces.
+- [erawan waterfalls (TH)](../../../countries/TH/sights/erawan-waterfalls.yaml) — 8.7/8.7/7.1/9.0/8.0; Greater tiered exploration.
+- [afu aau waterfall (WS)](../../../countries/WS/sights/afu-aau-waterfall.yaml) — 8.1/7.4/6.6/8.2/7.0; Close cascade peer, Mele tiers add depth.
+
 ### Scoring decisions
 - Impact: 8.3
 - Uniqueness: 7.5
@@ -267,6 +332,15 @@
 - Scapa Flow (United Kingdom): greater multi-site depth
 - USAT Liberty (Indonesia): comparable focused submerged heritage.
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D inspected on main; qualitative peers retained. Editorial comparison only.
+
+- [chuuk lagoon (FM)](../../../countries/FM/sights/chuuk-lagoon.yaml) — 9.1/9.3/8.9/9.1/9.2; Larger submerged heritage ensemble.
+- [usat liberty wreck tulamben (ID)](../../../countries/ID/sights/usat-liberty-wreck-tulamben.yaml) — 9.1/9.2/8.5/9.3/8.6; More coherent shipwreck.
+- [amed japanese shipwreck (ID)](../../../countries/ID/sights/amed-japanese-shipwreck.yaml) — 8.3/8.5/7.3/8.8/7.5; Less unusual than disposal assemblage.
+- [apo reef (PH)](../../../countries/PH/sights/apo-reef.yaml) — 9.0/8.8/8.9/8.8/8.5; Broader diving landscape, ecological not historical.
+
 ### Scoring decisions
 - Impact: 7.9
 - Uniqueness: 8.7
@@ -300,6 +374,15 @@
 - [Kunsthistorisches Museum](../../../countries/AT/sights/kunsthistorisches-museum.yaml) (Austria): greater art breadth
 - [National Museum of Cambodia](../../../countries/KH/sights/national-museum-cambodia.yaml) (Cambodia): larger archaeological sculpture collection
 - Naoero Museum (Nauru): more compact museum
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D inspected on main; qualitative peers retained. Editorial comparison only.
+
+- [national museum of korea (KR)](../../../countries/KR/sights/national-museum-of-korea.yaml) — 9.1/9.3/9.4/9.3/9.6; Far larger collections.
+- [kunsthistorisches museum (AT)](../../../countries/AT/sights/kunsthistorisches-museum.yaml) — 9.2/9.4/9.6/9.4/9.5; World-class art and architecture.
+- [national museum cambodia (KH)](../../../countries/KH/sights/national-museum-cambodia.yaml) — 8.8/9.1/9.3/9.1/8.8; Greater archaeological collection.
+- [naoero museum (NR)](../../../countries/NR/sights/naoero-museum.yaml) — 6.1/7.1/7.3/6.5/6.2; Smaller Pacific institution.
 
 ### Scoring decisions
 | Field | Before | New rating | Individual justification |
@@ -337,6 +420,15 @@
 - Lake Bled (Slovenia): stronger built-natural landscape
 - Ngardok (Palau): smaller lake visit
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D inspected on main; qualitative peers retained. Editorial comparison only.
+
+- [cheow lan lake (TH)](../../../countries/TH/sights/cheow-lan-lake.yaml) — 9.1/9.3/8.5/9.3/8.7; More dramatic karst and excursions.
+- [tonle sap lake (KH)](../../../countries/KH/sights/tonle-sap-lake.yaml) — 9.0/9.2/9.5/8.8/9.2; Greater ecological and settlement scale.
+- [lake bled (SI)](../../../countries/SI/sights/lake-bled.yaml) — 9.4/9.2/8.7/9.3/8.8; Stronger built-natural landscape.
+- [lake ngardok (PW)](../../../countries/PW/sights/lake-ngardok.yaml) — 7.2/7.6/8.0/7.7/6.9; Smaller lake visit, Letas crater stronger impact.
+
 ### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
@@ -371,6 +463,15 @@
 - [Khao Sok](../../../countries/TH/sights/khao-sok-national-park.yaml) (Thailand): greater landscape variety
 - [Kinabalu Park](../../../countries/MY/sights/kinabalu-park.yaml) (Malaysia): greater montane biodiversity
 - Tetepare (Solomon Islands): comparable conservation visit
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D inspected on main; qualitative peers retained. Editorial comparison only.
+
+- [taman negara national park (MY)](../../../countries/MY/sights/taman-negara-national-park.yaml) — 9.0/9.1/9.0/8.9/9.2; Broader rainforest routes.
+- [khao sok national park (TH)](../../../countries/TH/sights/khao-sok-national-park.yaml) — 9.4/9.4/9.1/9.4/9.3; Greater terrain and activities.
+- [kinabalu park (MY)](../../../countries/MY/sights/kinabalu-park.yaml) — 9.4/9.5/9.5/9.2/9.3; Exceptional montane biodiversity.
+- [kalkalpen national park (AT)](../../../countries/AT/sights/kalkalpen-national-park.yaml) — 8.7/9.0/9.1/8.6/9.0; Broader mountain and forest routes.
 
 ### Scoring decisions
 | Field | Before | New rating | Individual justification |
@@ -407,6 +508,15 @@
 - Lapaha Royal Tombs (Tonga): related Pacific chiefly heritage
 - Airai Bai (Palau): comparable customary architecture.
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D inspected on main; qualitative peers retained. Editorial comparison only.
+
+- [nan madol (FM)](../../../countries/FM/sights/nan-madol.yaml) — 9.2/9.5/9.5/8.1/8.7; Greater ceremonial monumentality.
+- [plain of jars archaeological landscape (LA)](../../../countries/LA/sights/plain-of-jars-archaeological-landscape.yaml) — 9.0/9.6/9.5/8.7/9.0; Broader visible archaeology.
+- [lapaha royal tombs (TO)](../../../countries/TO/sights/lapaha-royal-tombs.yaml) — 8.0/8.8/9.0/7.2/7.8; Close chiefly stonework peer.
+- [airai bai (PW)](../../../countries/PW/sights/airai-bai.yaml) — 7.7/8.7/8.6/7.7/7.3; Customary architecture, not equivalent permission.
+
 ### Scoring decisions
 - Impact: 7.4
 - Uniqueness: 8.8
@@ -439,6 +549,15 @@
 - Nan Madol (Micronesia): more visible monumental structures
 - Uluru-Kata Tjuta (Australia): larger globally important sacred landscape
 - Lapaha Royal Tombs (Tonga): related chiefly heritage.
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D inspected on main; qualitative peers retained. Editorial comparison only.
+
+- [nan madol (FM)](../../../countries/FM/sights/nan-madol.yaml) — 9.2/9.5/9.5/8.1/8.7; Greater documented visible remains.
+- [plain of jars archaeological landscape (LA)](../../../countries/LA/sights/plain-of-jars-archaeological-landscape.yaml) — 9.0/9.6/9.5/8.7/9.0; Broader documented archaeological visit.
+- [lapaha royal tombs (TO)](../../../countries/TO/sights/lapaha-royal-tombs.yaml) — 8.0/8.8/9.0/7.2/7.8; Related chiefly significance, different scope.
+- [airai bai (PW)](../../../countries/PW/sights/airai-bai.yaml) — 7.7/8.7/8.6/7.7/7.3; Customary heritage, not sacred cave access proxy.
 
 ### Scoring decisions
 - Impact: null
