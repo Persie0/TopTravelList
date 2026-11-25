@@ -32,3 +32,62 @@ export function mapsSearchUrl(name, country){
  const query=country ? name+', '+country : name;
  return 'https://www.google.com/maps/search/?api=1&query='+encodeURIComponent(query).replace(/[!'()*]/g,c=>'%'+c.charCodeAt(0).toString(16).toUpperCase());
 }
+
+// Render dateline-crossing polygons as clipped pieces on either side of the map.
+// A ring winding around a pole is already defined by its geographic boundary;
+// leave it unchanged rather than inventing a new polar boundary.
+function unwrapRing(ring,reference){
+ if(!ring.length)return ring;
+ const first=ring[0][0]+(reference===undefined?0:360*Math.round((reference-ring[0][0])/360));
+ const out=[[first,ring[0][1]]];
+ for(let i=1;i<ring.length;i++){const [x,y]=ring[i],previous=out[i-1][0];out.push([x+360*Math.round((previous-x)/360),y])}
+ return out
+}
+function clipRing(ring,bound,keepRight){
+ if(ring.length<4)return [];
+ const out=[],inside=p=>keepRight?p[0]>=bound:p[0]<=bound;
+ let a=ring[ring.length-2],was=inside(a);
+ for(const b of ring.slice(0,-1)){
+   const now=inside(b);
+   if(now!==was){const t=(bound-a[0])/(b[0]-a[0]);out.push([bound,a[1]+t*(b[1]-a[1])])}
+   if(now)out.push(b);
+   a=b;was=now;
+ }
+ if(out.length<3)return [];
+ out.push(out[0]);return out;
+}
+export function splitMapGeometry(geometry){
+ if(!geometry||!['Polygon','MultiPolygon'].includes(geometry.type))return geometry;
+ const polygons=geometry.type==='Polygon'?[geometry.coordinates]:geometry.coordinates, result=[];
+ for(const polygon of polygons){
+  if(!polygon.length||!polygon[0].length)continue;
+  const exterior=unwrapRing(polygon[0]);
+  if(Math.abs(exterior.at(-1)[0]-exterior[0][0])>1e-6){result.push(polygon);continue}
+  const xs=exterior.map(p=>p[0]),lo=Math.min(...xs),hi=Math.max(...xs);
+  if(lo>=-180&&hi<=180&&polygon[0].every((p,i)=>!i||Math.abs(p[0]-polygon[0][i-1][0])<=180)){result.push(polygon);continue}
+  const rings=[exterior,...polygon.slice(1).map(r=>unwrapRing(r,(lo+hi)/2))];
+  for(let k=Math.floor((lo+180)/360);k<=Math.floor((hi+180)/360);k++){
+   const clipped=rings.map(r=>clipRing(clipRing(r,-180+360*k,true),180+360*k,false));
+   if(!clipped[0].length)continue;
+   result.push(clipped.filter(r=>r.length).map(r=>r.map(([x,y])=>[x-360*k,y])));
+  }
+ }
+ return {type:'MultiPolygon',coordinates:result};
+}
+export function clusterRadius(n,size){return Math.min(size*.37,8+Math.sqrt(n)*1.3)}
+export function coalesceGroups(groups,size){
+ // At broad zooms, merge colliding labels across cell boundaries. The weighted
+ // centroid and every member are retained; the best-ranked member remains first.
+ const out=groups.map(g=>({...g,rows:[...g.rows]}));
+ for(let i=0;i<out.length;i++){
+  const a=out[i];
+  for(let j=i+1;j<out.length;){
+   const b=out[j],an=a.rows.length,bn=b.rows.length;
+   if(Math.hypot(a.x/an-b.x/bn,a.y/an-b.y/bn)<clusterRadius(an,size)+clusterRadius(bn,size)+2){
+    a.x+=b.x;a.y+=b.y;a.rows.push(...b.rows);out.splice(j,1);i=-1;break;
+   }else j++;
+  }
+ }
+ for(const g of out)g.rows.sort((a,b)=>(a.rank??Infinity)-(b.rank??Infinity));
+ return out;
+}

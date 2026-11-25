@@ -2,7 +2,7 @@ import L from 'leaflet';
 import 'leaflet/dist/leaflet.css';
 import {feature} from 'topojson-client';
 import world from 'world-atlas/countries-110m.json';
-import {ranked,match,value,eligible,groupPoints,distribution,normalize,wrappedLocations,scoreBins,mapsSearchUrl} from '../scripts/model.mjs';
+import {ranked,match,value,eligible,groupPoints,distribution,normalize,wrappedLocations,scoreBins,mapsSearchUrl,splitMapGeometry,clusterRadius,coalesceGroups} from '../scripts/model.mjs';
 import './style.css';
 const repo='https://github.com/Persie0/TopTravelList/blob/main/';
 const $=id=>document.getElementById(id);
@@ -35,7 +35,8 @@ function mount(){
  layer=L.layerGroup().addTo(map);centers=L.layerGroup().addTo(map);selectionLayer=L.layerGroup().addTo(map);
  countries=Object.values(data.countries).sort((a,b)=>a.name.localeCompare(b.name,'en'));$('country').innerHTML=opts([['','Any country'],...countries.map(c=>[c.code,c.name+(c.cities||c.sights?'':' · not catalogued')])]);
  byNumber=new Map(Object.values(data.countries).filter(c=>c.numeric).map(c=>[String(Number(c.numeric)),c.code]));
- polygons=L.geoJSON(feature(world,world.objects.countries),{style:f=>({weight:0.7,color:'#6d8c85',fillColor:'#e5e7dc',fillOpacity:.2}),onEachFeature:(f,l)=>{let code=byNumber.get(String(Number(f.id)));if(!code&&f.properties?.name==='Kosovo')code='XK';if(code){l.countryCode=code;l.on('click',()=>chooseCountry(code));l.bindTooltip(esc(data.countries[code].name));}}}).addTo(map);
+ const geography=feature(world,world.objects.countries);for(const f of geography.features)f.geometry=splitMapGeometry(f.geometry);
+ polygons=L.geoJSON(geography,{style:f=>({weight:0.7,color:'#6d8c85',fillColor:'#e5e7dc',fillOpacity:.2}),onEachFeature:(f,l)=>{let code=byNumber.get(String(Number(f.id)));if(!code&&f.properties?.name==='Kosovo')code='XK';if(code){l.countryCode=code;l.on('click',()=>chooseCountry(code));l.bindTooltip(esc(data.countries[code].name));}}}).addTo(map);
  map.on('moveend',scheduleMap);if(typeof ResizeObserver!=='undefined')new ResizeObserver(()=>{if(state.view==='map')map.invalidateSize({pan:false,debounceMoveend:true})}).observe($('map'));for(const id of ['display','basemap'])$(id).onchange=e=>{state[id]=e.target.value;renderMap();sync()};
  for(const id of ['country','region','kind','metric','sort','top'])$(id).addEventListener('change',e=>{state[id]=id==='top'?Number(e.target.value):e.target.value;if(id==='country'){state.region='';state.mode='places'}if(id==='region')state.country='';if(id==='metric')state.min=0;state.limit=50;selected=null;render(['country','region'].includes(id))});
  $('query').addEventListener('input',e=>{state.query=e.target.value;state.limit=50;selected=null;clearTimeout(searchTimer);searchTimer=setTimeout(()=>render(true),140)});
@@ -116,7 +117,7 @@ function drawPoints(){
  if(state.view==='list'||state.mode!=='places')return;
  layer.clearLayers();markers.clear();
  const z=map.getZoom(), bounds=map.getPixelBounds(), size=state.display==='density'?88:z<1.5?40:z<5?56:z<10?42:30;
- const groups=groupPoints(points,r=>map.project([r.lat,r.lon],z),{minX:bounds.min.x-size,maxX:bounds.max.x+size,minY:bounds.min.y-size,maxY:bounds.max.y+size},size,256*2**z);
+ let groups=groupPoints(points,r=>map.project([r.lat,r.lon],z),{minX:bounds.min.x-size,maxX:bounds.max.x+size,minY:bounds.min.y-size,maxY:bounds.max.y+size},size,256*2**z);if(z<5)groups=coalesceGroups(groups,size);
  for(const g of groups){
   const r=g.rows[0],v=value(r,state.metric), normalized=v===null?0:state.metric==='overall'?v:v*10;
   const latlng=map.unproject([g.x/g.rows.length,g.y/g.rows.length],z);
@@ -124,7 +125,7 @@ function drawPoints(){
    const m=L.circleMarker(latlng,{radius:v===null?4:4+normalized/25,weight:r.kind==='cities'?2.5:1.2,color:r.kind==='cities'?'#193d63':'#fff',fillColor:color(v,state.metric),fillOpacity:.92}).bindTooltip(esc(r.name)+' · '+(r.rank===null?'Unassessed':'#'+r.rank+' · '+scoreText(r))+' · '+(r.kind==='cities'?'City':'Sight')).on('click',()=>select(r,false));
    layer.addLayer(m);markers.set(r.id,m);continue;
   }
-  const n=g.rows.length,cities=g.rows.filter(x=>x.kind==='cities').length, radius=Math.min(size*.37,8+Math.sqrt(n)*1.3), diameter=radius*2;
+  const n=g.rows.length,cities=g.rows.filter(x=>x.kind==='cities').length, radius=clusterRadius(n,size), diameter=radius*2;
   const icon=L.divIcon({className:'atlas-cluster',html:'<span style="--cluster:'+color(v,state.metric)+';--city:'+Math.round(cities/n*100)+'%">'+n+'</span>',iconSize:[diameter,diameter],iconAnchor:[radius,radius]});
   const m=L.marker(latlng,{icon,keyboard:true,title:n+' destinations, '+cities+' cities and '+(n-cities)+' sights',alt:n+' destinations; zoom or open group'}).bindTooltip(n+' destinations · '+cities+' cities · '+(n-cities)+' sights').on('click',()=>{
    if(z<14&&n>1&&g.rows.some(x=>x.lat!==r.lat||x.lon!==r.lon)){map.setView(latlng,Math.min(14,z+2));return}
