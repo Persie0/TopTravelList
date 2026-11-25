@@ -1,0 +1,14 @@
+id: sight-lv-sestu-kalns-struve-station
+name: "Sestu-kalns (Ziestu) Struve Geodetic Arc Station"
+location:
+  country_code: LV
+  latitude: 56.84
+  longitude: 25.636667
+scores:
+  impact: 6.9
+  uniqueness: 8.1
+  significance: 8.6
+  experience: null
+  depth: null
+  categories:
+    history: 8.6

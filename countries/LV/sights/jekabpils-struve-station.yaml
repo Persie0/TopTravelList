@@ -1,0 +1,14 @@
+id: sight-lv-jekabpils-struve-station
+name: "Jēkabpils Struve Geodetic Arc Station"
+location:
+  country_code: LV
+  latitude: 56.501389
+  longitude: 25.856667
+scores:
+  impact: 6.7
+  uniqueness: 8.0
+  significance: 8.6
+  experience: null
+  depth: null
+  categories:
+    history: 8.6
