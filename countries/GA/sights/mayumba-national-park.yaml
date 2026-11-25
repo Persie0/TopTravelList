@@ -1,0 +1,16 @@
+id: sight-ga-mayumba-national-park
+name: "Mayumba National Park"
+location:
+  country_code: GA
+  latitude: -3.70
+  longitude: 10.60
+scores:
+  impact: 8.5
+  uniqueness: 8.9
+  significance: 9.4
+  experience: 8.3
+  depth: 8.0
+  categories:
+    nature: 9.2
+    wildlife: 9.5
+    beaches: 8.9

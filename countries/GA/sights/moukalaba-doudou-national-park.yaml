@@ -1,0 +1,16 @@
+id: sight-ga-moukalaba-doudou-national-park
+name: "Moukalaba-Doudou National Park"
+location:
+  country_code: GA
+  latitude: -2.50
+  longitude: 10.35
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 9.2
+  experience: 8.7
+  depth: 8.6
+  categories:
+    nature: 9.3
+    wildlife: 9.5
+    adventure: 8.8
