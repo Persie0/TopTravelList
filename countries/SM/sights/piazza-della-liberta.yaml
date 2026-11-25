@@ -1,0 +1,15 @@
+id: sight-sm-piazza-della-liberta
+name: "Piazza della Libertà"
+location:
+  country_code: SM
+  latitude: 43.93658
+  longitude: 12.44673
+scores:
+  impact: 8.1
+  uniqueness: 8.3
+  significance: 8.7
+  experience: 8.4
+  depth: 7.0
+  categories:
+    history: 9.0
+    photography: 8.9

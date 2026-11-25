@@ -2,7 +2,7 @@
 
 # San Marino (SM) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**14 ranked** · **0 unassessed** · **14 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,24 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, or click its GPS coordinates to open **Google Maps**. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (14)
 
-No cities, towns & villages have been assessed for **San Marino** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps |
+| ---: | --- | --- | ---: | --- | --- | --- |
+| 1 | [City of San Marino](cities/city-of-san-marino.yaml) | City / town | **87.65** | **Photography 9.3**, **History 9.2**, **Architecture 9.1** | 8.7 / 9.0 / 8.9 / 8.7 / 8.2 | [43.937, 12.446](https://www.google.com/maps/search/?api=1&query=43.937,12.446) |
+| 2 | [Borgo Maggiore](cities/borgo-maggiore.yaml) | City / town | **76.65** | **History 8.6**, **Architecture 8.3** | 7.5 / 7.8 / 8.0 / 7.7 / 7.1 | [43.941927, 12.447381](https://www.google.com/maps/search/?api=1&query=43.941927,12.447381) |
+| 3 | [Montegiardino](cities/montegiardino.yaml) | City / town | **73.10** | **Architecture 8.0**, **Photography 8.0** | 7.2 / 7.5 / 7.4 / 7.5 / 6.7 | [43.908777, 12.482014](https://www.google.com/maps/search/?api=1&query=43.908777,12.482014) |
+| 4 | [Serravalle](cities/serravalle.yaml) | City / town | **69.60** | **Culture 7.5**, **History 7.5** | 6.8 / 6.8 / 7.0 / 7.4 / 7.1 | [43.969, 12.482](https://www.google.com/maps/search/?api=1&query=43.969,12.482) |
+| 5 | [Chiesanuova](cities/chiesanuova.yaml) | City / town | **69.15** | **Photography 7.8**, **Relaxation 7.7** | 6.7 / 7.0 / 7.0 / 7.3 / 6.6 | [43.90451, 12.421417](https://www.google.com/maps/search/?api=1&query=43.90451,12.421417) |
+| 6 | [Fiorentino](cities/fiorentino.yaml) | City / town | **68.95** | **History 7.6**, **Relaxation 7.6** | 6.7 / 6.9 / 7.1 / 7.2 / 6.6 | [43.91001, 12.45738](https://www.google.com/maps/search/?api=1&query=43.91001,12.45738) |
+| 6 | [Valdragone](cities/valdragone.yaml) | City / town | **68.95** | **Culture 7.7**, **Relaxation 7.5** | 6.7 / 6.9 / 7.1 / 7.2 / 6.6 | [43.942777, 12.445482](https://www.google.com/maps/search/?api=1&query=43.942777,12.445482) |
+| 8 | [Domagnano](cities/domagnano.yaml) | City / town | **68.50** | **History 7.6**, **Relaxation 7.5** | 6.6 / 6.8 / 7.1 / 7.2 / 6.7 | [43.94961, 12.46828](https://www.google.com/maps/search/?api=1&query=43.94961,12.46828) |
+| 9 | [Faetano](cities/faetano.yaml) | City / town | **68.20** | **History 7.6**, **Relaxation 7.6** | 6.6 / 6.8 / 7.0 / 7.2 / 6.6 | [43.928314, 12.497978](https://www.google.com/maps/search/?api=1&query=43.928314,12.497978) |
+| 10 | [Acquaviva](cities/acquaviva.yaml) | City / town | **67.70** | **Relaxation 7.7** | 6.5 / 6.8 / 6.9 / 7.2 / 6.6 | [43.945929, 12.418499](https://www.google.com/maps/search/?api=1&query=43.945929,12.418499) |
+| 11 | [Murata](cities/murata.yaml) | City / town | **65.90** | **Relaxation 7.5** | 6.4 / 6.6 / 6.6 / 7.0 / 6.5 | [43.92, 12.451](https://www.google.com/maps/search/?api=1&query=43.92,12.451) |
+| 12 | [Dogana](cities/dogana.yaml) | City / town | **65.30** | **Food 7.4** | 6.2 / 6.5 / 6.5 / 7.1 / 6.8 | [43.98034, 12.49051](https://www.google.com/maps/search/?api=1&query=43.98034,12.49051) |
+| 13 | [Cailungo](cities/cailungo.yaml) | City / town | **65.25** | **Relaxation 7.4** | 6.3 / 6.5 / 6.6 / 7.0 / 6.4 | [43.952, 12.454](https://www.google.com/maps/search/?api=1&query=43.952,12.454) |
+| 14 | [Falciano](cities/falciano.yaml) | City / town | **64.60** | **Relaxation 7.3** | 6.2 / 6.5 / 6.5 / 6.9 / 6.4 | [43.983333, 12.5](https://www.google.com/maps/search/?api=1&query=43.983333,12.5) |
 
 ---
 

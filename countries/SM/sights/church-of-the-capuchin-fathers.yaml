@@ -1,0 +1,15 @@
+id: sight-sm-church-of-the-capuchin-fathers
+name: "Church of the Capuchin Fathers"
+location:
+  country_code: SM
+  latitude: 43.9348
+  longitude: 12.4464
+scores:
+  impact: 7.2
+  uniqueness: 7.5
+  significance: 8.0
+  experience: 7.5
+  depth: 6.7
+  categories:
+    history: 8.4
+    architecture: 8.1

@@ -1,0 +1,15 @@
+id: city-sm-borgo-maggiore
+name: "Borgo Maggiore"
+location:
+  country_code: SM
+  latitude: 43.941927
+  longitude: 12.447381
+scores:
+  impact: 7.5
+  uniqueness: 7.8
+  significance: 8.0
+  experience: 7.7
+  depth: 7.1
+  categories:
+    history: 8.6
+    architecture: 8.3

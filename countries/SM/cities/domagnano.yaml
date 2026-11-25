@@ -1,0 +1,15 @@
+id: city-sm-domagnano
+name: "Domagnano"
+location:
+  country_code: SM
+  latitude: 43.94961
+  longitude: 12.46828
+scores:
+  impact: 6.6
+  uniqueness: 6.8
+  significance: 7.1
+  experience: 7.2
+  depth: 6.7
+  categories:
+    history: 7.6
+    relaxation: 7.5

@@ -1,0 +1,15 @@
+id: sight-sm-borgo-maggiore-historic-market-square
+name: "Borgo Maggiore Historic Market Square"
+location:
+  country_code: SM
+  latitude: 43.9418
+  longitude: 12.4469
+scores:
+  impact: 7.8
+  uniqueness: 8.0
+  significance: 8.3
+  experience: 8.0
+  depth: 7.2
+  categories:
+    architecture: 8.5
+    history: 8.7

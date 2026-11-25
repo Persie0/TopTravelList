@@ -2,7 +2,7 @@
 
 # San Marino (SM) — Sights & attractions ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**25 ranked** · **0 unassessed** · **25 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,11 +10,35 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, or click its GPS coordinates to open **Google Maps**. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (25)
 
-No sights & attractions have been assessed for **San Marino** yet.
-
-Add destination YAML files in [sights/](sights/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps |
+| ---: | --- | --- | ---: | --- | --- | --- |
+| 1 | [San Marino Historic Centre and Mount Titano](sights/san-marino-historic-centre-and-mount-titano.yaml) | Mountain / peak | **90.80** | **Architecture 9.4**, **History 9.4**, **Photography 9.4** | 9.1 / 9.2 / 9.2 / 9.0 / 8.6 | [43.932778, 12.451944](https://www.google.com/maps/search/?api=1&query=43.932778,12.451944) |
+| 2 | [Guaita (First Tower)](sights/guaita-first-tower.yaml) | Tower / viewpoint | **88.05** | **Photography 9.4**, **Architecture 9.2**, **History 9.2** | 8.9 / 8.9 / 8.9 / 8.8 / 8.1 | [43.93522, 12.44929](https://www.google.com/maps/search/?api=1&query=43.93522,12.44929) |
+| 3 | [Cesta (Second Tower)](sights/cesta-second-tower.yaml) | Tower / viewpoint | **87.10** | **Photography 9.3**, **Architecture 9.1**, **History 9.1** | 8.8 / 8.8 / 8.7 / 8.8 / 8.1 | [43.9328, 12.4514](https://www.google.com/maps/search/?api=1&query=43.9328,12.4514) |
+| 4 | [Palazzo Pubblico](sights/palazzo-pubblico.yaml) | Attraction | **84.30** | **History 9.2**, **Architecture 8.9**, **Culture 8.9** | 8.3 / 8.6 / 9.0 / 8.2 / 7.6 | [43.9368, 12.44627](https://www.google.com/maps/search/?api=1&query=43.9368,12.44627) |
+| 5 | [Witches' Pass](sights/witches-pass.yaml) | Attraction | **83.45** | **Photography 9.3**, **Architecture 8.8**, **Nature 8.8** | 8.8 / 8.6 / 7.7 / 8.7 / 7.1 | [43.9339, 12.4505](https://www.google.com/maps/search/?api=1&query=43.9339,12.4505) |
+| 6 | [Piazza della Libertà](sights/piazza-della-liberta.yaml) | Attraction | **82.05** | **History 9.0**, **Photography 8.9** | 8.1 / 8.3 / 8.7 / 8.4 / 7.0 | [43.93658, 12.44673](https://www.google.com/maps/search/?api=1&query=43.93658,12.44673) |
+| 7 | [Rupe Path](sights/rupe-path.yaml) | Attraction | **81.70** | **Photography 9.0**, **Nature 8.9**, **Adventure 8.5** | 8.4 / 8.3 / 7.5 / 8.5 / 8.0 | [43.937, 12.449](https://www.google.com/maps/search/?api=1&query=43.937,12.449) |
+| 8 | [State Museum of San Marino](sights/state-museum-of-san-marino.yaml) | Museum / heritage | **81.40** | **History 8.9**, **Culture 8.8** | 7.8 / 8.2 / 8.6 / 8.2 / 8.0 | [43.936, 12.4467](https://www.google.com/maps/search/?api=1&query=43.936,12.4467) |
+| 9 | [Basilica of Saint Marinus](sights/basilica-of-saint-marinus.yaml) | Attraction | **80.90** | **History 8.9**, **Architecture 8.8**, **Culture 8.8** | 8.0 / 8.1 / 8.6 / 8.1 / 7.3 | [43.93713, 12.44671](https://www.google.com/maps/search/?api=1&query=43.93713,12.44671) |
+| 10 | [Montale (Third Tower, exterior)](sights/montale-third-tower-exterior.yaml) | Tower / viewpoint | **80.70** | **Photography 8.9**, **History 8.8** | 8.2 / 8.4 / 8.4 / 7.8 / 6.6 | [43.92999, 12.45247](https://www.google.com/maps/search/?api=1&query=43.92999,12.45247) |
+| 11 | [Montale Tunnel and Historic Train](sights/montale-tunnel-and-historic-train.yaml) | Attraction | **80.30** | **History 8.7**, **Culture 8.4** | 7.8 / 8.4 / 8.2 / 8.0 / 7.5 | [43.9307, 12.45](https://www.google.com/maps/search/?api=1&query=43.9307,12.45) |
+| 12 | [Saint Francis Museum](sights/saint-francis-museum.yaml) | Museum / heritage | **79.35** | **Culture 8.7**, **History 8.6** | 7.7 / 8.1 / 8.3 / 8.0 / 7.4 | [43.9353, 12.4465](https://www.google.com/maps/search/?api=1&query=43.9353,12.4465) |
+| 13 | [Borgo Maggiore Historic Market Square](sights/borgo-maggiore-historic-market-square.yaml) | Market | **79.20** | **History 8.7**, **Architecture 8.5** | 7.8 / 8.0 / 8.3 / 8.0 / 7.2 | [43.9418, 12.4469](https://www.google.com/maps/search/?api=1&query=43.9418,12.4469) |
+| 14 | [Stamp and Coin Museum](sights/stamp-and-coin-museum.yaml) | Museum / heritage | **77.95** | **History 8.6**, **Culture 8.5** | 7.4 / 8.3 / 8.0 / 7.8 / 7.3 | [43.9363, 12.447](https://www.google.com/maps/search/?api=1&query=43.9363,12.447) |
+| 15 | [Church of Saint Francis](sights/church-of-saint-francis.yaml) | Religious site | **77.20** | **History 8.8**, **Architecture 8.3** | 7.5 / 7.8 / 8.3 / 7.8 / 6.9 | [43.9352, 12.4465](https://www.google.com/maps/search/?api=1&query=43.9352,12.4465) |
+| 16 | [Cava dei Balestrieri](sights/cava-dei-balestrieri.yaml) | Attraction | **76.80** | **Culture 8.5**, **Photography 8.4** | 7.6 / 7.9 / 7.8 / 7.9 / 6.8 | [43.9369, 12.447](https://www.google.com/maps/search/?api=1&query=43.9369,12.447) |
+| 17 | [San Marino National Gallery](sights/san-marino-national-gallery.yaml) | Attraction | **76.45** | **Culture 8.5** | 7.4 / 7.8 / 7.7 / 7.9 / 7.5 | [43.9357, 12.4469](https://www.google.com/maps/search/?api=1&query=43.9357,12.4469) |
+| 18 | [Titanus Museum](sights/titanus-museum.yaml) | Museum / heritage | **75.55** | **Culture 8.3**, **History 8.2**, **Family 8.1** | 7.3 / 7.7 / 7.6 / 8.0 / 7.2 | [43.9363, 12.4474](https://www.google.com/maps/search/?api=1&query=43.9363,12.4474) |
+| 19 | [Porta San Francesco](sights/porta-san-francesco.yaml) | Attraction | **75.05** | **History 8.5**, **Architecture 8.3** | 7.4 / 7.6 / 8.0 / 7.7 / 6.3 | [43.9351, 12.4464](https://www.google.com/maps/search/?api=1&query=43.9351,12.4464) |
+| 20 | [Montegiardino Gypsums Path](sights/montegiardino-gypsums-path.yaml) | Attraction | **74.75** | **Nature 8.5**, **Adventure 7.9** | 7.3 / 7.8 / 7.3 / 7.7 / 7.2 | [43.91, 12.486](https://www.google.com/maps/search/?api=1&query=43.91,12.486) |
+| 21 | [Canepa Path](sights/canepa-path.yaml) | Attraction | **74.45** | **Nature 8.4**, **Adventure 8.1** | 7.4 / 7.6 / 6.9 / 7.9 / 7.6 | [43.929, 12.438](https://www.google.com/maps/search/?api=1&query=43.929,12.438) |
+| 22 | [San Marino Cableway](sights/san-marino-cableway.yaml) | Attraction | **74.35** | **Photography 8.6**, **Family 8.5** | 7.7 / 7.4 / 6.7 / 8.3 / 6.9 | [43.939, 12.4465](https://www.google.com/maps/search/?api=1&query=43.939,12.4465) |
+| 23 | [Church of the Capuchin Fathers](sights/church-of-the-capuchin-fathers.yaml) | Religious site | **74.30** | **History 8.4**, **Architecture 8.1** | 7.2 / 7.5 / 8.0 / 7.5 / 6.7 | [43.9348, 12.4464](https://www.google.com/maps/search/?api=1&query=43.9348,12.4464) |
+| 24 | [Castellaccio Path](sights/castellaccio-path.yaml) | Attraction | **73.75** | **Nature 8.3**, **Adventure 8.1** | 7.4 / 7.5 / 6.8 / 7.8 / 7.5 | [43.915, 12.435](https://www.google.com/maps/search/?api=1&query=43.915,12.435) |
+| 25 | [Monte Cerreto Path](sights/monte-cerreto-path.yaml) | Attraction | **71.25** | **Nature 8.1**, **Family 8.0** | 7.1 / 7.2 / 6.6 / 7.7 / 7.2 | [43.941, 12.429](https://www.google.com/maps/search/?api=1&query=43.941,12.429) |
 
 ---
 
