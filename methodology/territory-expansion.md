@@ -236,3 +236,11 @@ Two settlements and ten sights; North Keeling/Pulu Keeling National Park unranke
 | sight-au-heard-mcdonald-islands | sight-hm-heard-mcdonald-islands | Preserve all scores and null experience/depth. |
 
 Original AU record exists only on separate open PR #227 at 18f737d49e0e3ea5e0a6cd5a2a201561a81d024c, not on this branch. [Historical review snapshot](reviews/HM/migration-history-AU.md) retained. **Integration blocker:** remove former active AU YAML and reconcile its review, references and generated pages when integrating the two PRs; do not ship both records. No permanent settlements. One UNESCO property-level assessment, no speculative subsite ratings. Official current AAD transitional management arrangements and UNESCO property coordinates consulted; no current ordinary visitor itinerary established. Full CI and regeneration pending.
+
+### French Southern Territories migration — 2026-11-26
+
+| Former ID | Active ID | Decision |
+| --- | --- | --- |
+| sight-fr-austral-lands | sight-tf-austral-lands | Preserve all scores and null fields, delete former active FR YAML, archive original review. |
+
+[Original French review](reviews/FR/migration-history-TF.md). Add five distinct Scattered Islands conservation/heritage records; all six sights unranked. TAAF no longer offers Marion Dufresne tourist stays; Scattered Islands access and anchorage require authorization, and Tromelin landing is unavailable under published guidance. No permanent civilian settlements. Adélie Land belongs to Antarctic geographic coverage; no sovereignty position implied. Exact independent GPS and material claims, legacy references and full CI/regeneration remain outstanding.

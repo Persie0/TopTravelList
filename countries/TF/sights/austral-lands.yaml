@@ -1,7 +1,7 @@
-id: sight-fr-austral-lands
+id: sight-tf-austral-lands
 name: "French Austral Lands and Seas"
 location:
-  country_code: FR
+  country_code: TF
   latitude: -49.35
   longitude: 69.35
 scores:
