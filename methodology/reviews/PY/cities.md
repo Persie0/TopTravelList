@@ -6,7 +6,7 @@
 
 - YAML: [source](../../../countries/PY/cities/asuncion.yaml) · Action: new
 - Precise subject: capital urban fabric.
-- Location: -25.2867, -57.3333; approximate editorial representative point, independent verification pending.
+- Location: -25.28646, -57.647; [GeoNames capital point, corroborated by UNT Digital Library](https://www.geonames.org/advanced-search.html?country=PY&q=Asuncion) — checked 2026-11-25; representative point, not necessarily visitor entrance.
 - Evidence status: **source-linked-unverified**. [Visit Paraguay destination index](https://visitparaguay.travel/destinations) — reviewed 2026-11-25; identity or regional context only.
 - Worldwide peers (I/U/S/E/D):
   - [Vienna (AT)](../../../countries/AT/cities/vienna.yaml) — 9.2 / 9.0 / 9.5 / 9.2 / 9.4 (92.30/100); upper reference; Asunción uniqueness lower (Guarani Spanish urban culture) and depth lower (multiple districts).

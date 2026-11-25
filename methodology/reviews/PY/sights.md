@@ -46,7 +46,7 @@
 
 - YAML: [source](../../../countries/PY/sights/jesuit-mission-of-san-cosme-y-damian.yaml) · Action: new
 - Precise subject: tentative property and functioning church.
-- Location: -27.3180, -56.3310; approximate editorial representative point, independent verification pending.
+- Location: -27.3204, -56.3328; [UNESCO tentative nomination coordinate](https://whc.unesco.org/en/tentativelists/6613/) — checked 2026-11-25; representative point, not necessarily visitor entrance.
 - Evidence status: **source-linked-unverified**. [UNESCO tentative property inventory](https://whc.unesco.org/en/statesparties/py) — reviewed 2026-11-25; identity or regional context only.
 - Worldwide peers (I/U/S/E/D):
   - [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) — 9.6 / 9.5 / 9.8 / 9.4 / 9.5 (95.75/100); upper reference; Jesuit Mission of San Cosme y Damián uniqueness lower (living mission fabric and astronomy associations) and depth lower (compact ensemble).
@@ -66,7 +66,7 @@
 
 - YAML: [source](../../../countries/PY/sights/templo-san-buenaventura-de-yaguaron.yaml) · Action: new
 - Precise subject: tentative church property.
-- Location: -25.5621, -57.2833; approximate editorial representative point, independent verification pending.
+- Location: -25.56206944, -57.28401389; [UNESCO tentative nomination coordinate](https://whc.unesco.org/en/tentativelists/6614/) — checked 2026-11-25; representative point, not necessarily visitor entrance.
 - Evidence status: **source-linked-unverified**. [UNESCO tentative property inventory](https://whc.unesco.org/en/statesparties/py) — reviewed 2026-11-25; identity or regional context only.
 - Worldwide peers (I/U/S/E/D):
   - [Angkor Wat (KH)](../../../countries/KH/sights/angkor-wat.yaml) — 10.0 / 10.0 / 10.0 / 9.8 / 9.5 (99.20/100); upper reference; Templo San Buenaventura de Yaguarón uniqueness lower (Franciscan Guarani Baroque craftsmanship) and depth lower (single building).
@@ -86,7 +86,7 @@
 
 - YAML: [source](../../../countries/PY/sights/saltos-del-monday.yaml) · Action: new
 - Precise subject: waterfall and permitted viewpoints.
-- Location: -25.5630, -54.6240; approximate editorial representative point, independent verification pending.
+- Location: -25.56275, -54.63237; [OSM/Mapcarta waterfall point](https://mapcarta.com/35696320) — checked 2026-11-25; representative point, not necessarily visitor entrance.
 - Evidence status: **source-linked-unverified**. [Environment Ministry waterfall route](https://www.mades.gov.py/2025/01/18/gobierno-de-paraguay-lanza-la-ruta-de-los-saltos-para-promover-el-turismo-ecologico-y-la-belleza-natural-del-pais/) — reviewed 2026-11-25; identity or regional context only.
 - Worldwide peers (I/U/S/E/D):
   - [Durmitor National Park (ME)](../../../countries/ME/sights/durmitor-national-park.yaml) — 9.4 / 9.3 / 9.2 / 9.3 / 9.4 (93.20/100); upper reference; Saltos del Monday uniqueness lower (regional basalt river landscape) and depth lower (bounded waterfall site).
@@ -706,7 +706,7 @@
 
 - YAML: [source](../../../countries/PY/sights/salto-cristal.yaml) · Action: new
 - Precise subject: waterfall and approach.
-- Location: -26.0500, -56.8500; approximate editorial representative point, independent verification pending.
+- Location: -25.97795, -56.73042; [OSM/Mapcarta waterfall point; local tourism GPS nearby](https://mapcarta.com/35891850) — checked 2026-11-25; representative point, not necessarily visitor entrance.
 - Evidence status: **source-linked-unverified**. [Environment Ministry waterfall route](https://www.mades.gov.py/2025/01/18/gobierno-de-paraguay-lanza-la-ruta-de-los-saltos-para-promover-el-turismo-ecologico-y-la-belleza-natural-del-pais/) — reviewed 2026-11-25; identity or regional context only.
 - Worldwide peers (I/U/S/E/D):
   - [Durmitor National Park (ME)](../../../countries/ME/sights/durmitor-national-park.yaml) — 9.4 / 9.3 / 9.2 / 9.3 / 9.4 (93.20/100); upper reference; Salto Cristal uniqueness lower (regional waterfall setting) and depth lower (bounded site).

@@ -2,8 +2,8 @@ id: sight-py-jesuit-mission-of-san-cosme-y-damian
 name: "Jesuit Mission of San Cosme y Damián"
 location:
   country_code: PY
-  latitude: -27.3180
-  longitude: -56.3310
+  latitude: -27.3204
+  longitude: -56.3328
 scores:
   impact: 8.3
   uniqueness: 8.6

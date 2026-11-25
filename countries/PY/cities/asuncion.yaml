@@ -2,8 +2,8 @@ id: city-py-asuncion
 name: "Asunción"
 location:
   country_code: PY
-  latitude: -25.2867
-  longitude: -57.3333
+  latitude: -25.28646
+  longitude: -57.647
 scores:
   impact: 8.2
   uniqueness: 8.1

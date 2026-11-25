@@ -2,8 +2,8 @@ id: sight-py-salto-cristal
 name: "Salto Cristal"
 location:
   country_code: PY
-  latitude: -26.0500
-  longitude: -56.8500
+  latitude: -25.97795
+  longitude: -56.73042
 scores:
   impact: 8.2
   uniqueness: 8.0
