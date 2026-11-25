@@ -34,6 +34,8 @@ All listed merged PRs have passed schema, generated Markdown and worldwide bench
 | Timor-Leste | [#58](https://github.com/Persie0/TopTravelList/pull/58) | Atauro reefs and Nino Konis Santana retained with specialist peers | Two targeted source comparisons and canonical score arithmetic | Generated city/sight tables currently empty despite 62 documented entries; regenerate and run full checks |
 | Costa Rica | [#59](https://github.com/Persie0/TopTravelList/pull/59) | Monteverde 92.70 → 92.10; Corcovado and Tortuguero retained | 83 ranked rows arithmetic/order; 90 original reviews and peer links; three targeted visitor-scope comparisons | Reconcile main, regenerate rankings, full Python checks and merge |
 | Panama | [#62](https://github.com/Persie0/TopTravelList/pull/62) | Miraflores 90.20 → 88.30; entire canal and Coiba retained | 67 ranked rows arithmetic/order; 75 original reviews and peer links; targeted source comparisons | Reconcile main, regenerate rankings, full Python checks and merge |
+| Eswatini | [#63](https://github.com/Persie0/TopTravelList/pull/63) | Ngwenya 85.35 → 86.50; Malolotja and Mkhaya retained | All 45 YAML records checked against original review totals and peer coverage; 43 ranked, 2 unassessed; reconstructed both tables with name-and-country Maps links | Reconcile main and README, verify exact output with Python generator and global checks, merge |
+| Cabo Verde | [#66](https://github.com/Persie0/TopTravelList/pull/66) | Pico do Fogo, Fogo Natural Park and Santa Monica Beach retained after closer comparisons | 69 ranked rows arithmetic/order; 71 review entries and peer links; three focused source comparisons | Reconcile main, regenerate rankings and run global checks, merge |
 
 ## Automated screening only
 
