@@ -1,0 +1,17 @@
+id: city-uy-colonia-del-sacramento
+name: "Colonia del Sacramento"
+location:
+  country_code: UY
+  latitude: -34.4714
+  longitude: -57.8442
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 8.5
+  experience: 8.6
+  depth: 7.7
+  categories:
+    architecture: 9.0
+    history: 8.8
+    culture: 8.6
+    photography: 8.9
