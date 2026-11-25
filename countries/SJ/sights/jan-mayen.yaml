@@ -1,7 +1,7 @@
-id: sight-no-jan-mayen
+id: sight-sj-jan-mayen
 name: "Jan Mayen (Mid-Atlantic Ridge tentative component)"
 location:
-  country_code: "NO"
+  country_code: "SJ"
   latitude: 71.05
   longitude: -8.28
 scores:

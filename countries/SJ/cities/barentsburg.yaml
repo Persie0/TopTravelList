@@ -1,0 +1,15 @@
+id: city-sj-barentsburg
+name: "Barentsburg"
+location:
+  country_code: SJ
+  latitude: 78.06202
+  longitude: 14.214368
+scores:
+  impact: 7.7
+  uniqueness: 8.8
+  significance: 8.1
+  experience: null
+  depth: null
+  categories:
+    history: 8.3
+    culture: 8.3

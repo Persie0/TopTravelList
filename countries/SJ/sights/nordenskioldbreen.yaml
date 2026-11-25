@@ -1,0 +1,15 @@
+id: sight-sj-nordenskioldbreen
+name: "Nordenskiöldbreen glacier"
+location:
+  country_code: SJ
+  latitude: 78.69013
+  longitude: 17.158943
+scores:
+  impact: 9.2
+  uniqueness: 8.8
+  significance: 8.2
+  experience: 8.8
+  depth: 8.0
+  categories:
+    nature: 9.1
+    photography: 9.2

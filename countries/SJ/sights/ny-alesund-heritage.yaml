@@ -1,0 +1,15 @@
+id: sight-sj-ny-alesund-heritage
+name: "Ny-Ålesund visitor heritage area"
+location:
+  country_code: SJ
+  latitude: 78.923
+  longitude: 11.923
+scores:
+  impact: 8.1
+  uniqueness: 9.0
+  significance: 8.8
+  experience: 8.1
+  depth: 7.5
+  categories:
+    history: 8.9
+    culture: 8.3

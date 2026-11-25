@@ -1,0 +1,15 @@
+id: sight-sj-seed-vault-exterior
+name: "Svalbard Global Seed Vault (exterior)"
+location:
+  country_code: SJ
+  latitude: 78.2359
+  longitude: 15.4913
+scores:
+  impact: 7.3
+  uniqueness: 8.9
+  significance: 9.3
+  experience: 6.8
+  depth: 4.8
+  categories:
+    architecture: 7.8
+    photography: 8.0

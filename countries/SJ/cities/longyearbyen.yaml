@@ -1,7 +1,7 @@
-id: city-no-longyearbyen
+id: city-sj-longyearbyen
 name: "Longyearbyen"
 location:
-  country_code: "NO"
+  country_code: "SJ"
   latitude: 78.223
   longitude: 15.647
 scores:

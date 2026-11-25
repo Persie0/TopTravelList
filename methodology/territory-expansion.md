@@ -83,3 +83,13 @@ Preserve historical CN IDs in archival benchmark profiles; these active records 
 | sight-cn-po-lin-monastery | sight-hk-po-lin-monastery |
 
 Po Lin Monastery was caught by the subsequent longitude screen; moved to HK. Five additional Macau sights included. Remaining cross-registry geographic and reference audit outstanding.
+
+### Svalbard and Jan Mayen migration — 2026-11-25
+
+| Former ID | Active ID |
+| --- | --- |
+| city-no-longyearbyen | city-sj-longyearbyen |
+| sight-no-svalbard | sight-sj-svalbard |
+| sight-no-jan-mayen | sight-sj-jan-mayen |
+
+Original Norway decisions archived. Whole Svalbard and Jan Mayen tentative records remain unranked. Ny-Ålesund is represented as a public heritage visitor area, Pyramiden as a historic settlement, not ordinary cities. Barentsburg remains an unranked inhabited settlement pending visitor evidence. Parent names and high-Arctic points screened; no sovereignty change implied.

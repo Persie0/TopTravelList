@@ -1,7 +1,7 @@
-id: sight-no-svalbard
+id: sight-sj-svalbard
 name: "Svalbard Archipelago (tentative property)"
 location:
-  country_code: "NO"
+  country_code: "SJ"
   latitude: 78.2
   longitude: 16.1
 scores:
