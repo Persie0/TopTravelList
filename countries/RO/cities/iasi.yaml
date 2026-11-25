@@ -1,0 +1,16 @@
+id: city-ro-iasi
+name: "Iași"
+location:
+  country_code: RO
+  latitude: 47.1585
+  longitude: 27.6014
+scores:
+  impact: 8.4
+  uniqueness: 8.5
+  significance: 8.8
+  experience: 8.7
+  depth: 8.6
+  categories:
+    culture: 9.1
+    history: 9.1
+    architecture: 8.9

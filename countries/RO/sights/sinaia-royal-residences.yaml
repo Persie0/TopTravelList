@@ -1,0 +1,16 @@
+id: sight-ro-sinaia-royal-residences
+name: "Royal Residences of Sinaia"
+location:
+  country_code: RO
+  latitude: 45.36
+  longitude: 25.542
+scores:
+  impact: 9.2
+  uniqueness: 9.1
+  significance: 9.0
+  experience: 9.1
+  depth: 9.0
+  categories:
+    architecture: 9.5
+    history: 9.3
+    photography: 9.4

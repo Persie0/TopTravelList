@@ -1,0 +1,16 @@
+id: sight-ro-retezat
+name: "Retezat National Park (including tentative massif)"
+location:
+  country_code: RO
+  latitude: 45.38
+  longitude: 22.85
+scores:
+  impact: 9.3
+  uniqueness: 9.1
+  significance: 8.9
+  experience: 9.2
+  depth: 9.3
+  categories:
+    nature: 9.4
+    adventure: 9.3
+    photography: 9.4

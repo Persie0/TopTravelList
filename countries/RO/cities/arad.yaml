@@ -1,0 +1,15 @@
+id: city-ro-arad
+name: "Arad"
+location:
+  country_code: RO
+  latitude: 46.186
+  longitude: 21.312
+scores:
+  impact: 8.0
+  uniqueness: 8.0
+  significance: 8.2
+  experience: 8.3
+  depth: 8.1
+  categories:
+    architecture: 8.8
+    culture: 8.5

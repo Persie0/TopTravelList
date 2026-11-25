@@ -1,0 +1,14 @@
+id: sight-ro-danube-limes
+name: "Danube Limes (Romanian tentative components)"
+location:
+  country_code: RO
+  latitude: 44.9
+  longitude: 28.1
+scores:
+  impact: 8.0
+  uniqueness: 8.7
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    history: 9.3

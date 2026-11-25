@@ -1,0 +1,16 @@
+id: sight-ro-vanatori-neamt
+name: "Vânători Neamț Monastic Landscape"
+location:
+  country_code: RO
+  latitude: 47.2
+  longitude: 26.25
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.7
+  depth: 8.9
+  categories:
+    nature: 9.1
+    culture: 9.2
+    history: 9.2

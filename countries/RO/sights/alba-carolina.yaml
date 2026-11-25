@@ -1,0 +1,15 @@
+id: sight-ro-alba-carolina
+name: "Alba Carolina Fortress and historic core"
+location:
+  country_code: RO
+  latitude: 46.068
+  longitude: 23.572
+scores:
+  impact: 9.0
+  uniqueness: 8.9
+  significance: 9.1
+  experience: 9.0
+  depth: 9.0
+  categories:
+    architecture: 9.3
+    history: 9.4
