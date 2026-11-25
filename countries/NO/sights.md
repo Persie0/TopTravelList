@@ -2,7 +2,7 @@
 
 # Norway (NO) — Sights & attractions ranking
 
-**41 ranked** · **8 unassessed** · **49 total** · Worldwide scoring **v2**
+**41 ranked** · **6 unassessed** · **47 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -56,7 +56,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 40 | [Raipas (Lille-Reipas) Struve Geodetic Arc Station](sights/raipas-struve-station.yaml) | Attraction | **75.65** | **History 8.6** | 6.8 / 8.1 / 8.6 / 7.6 / 6.4 | [69.938611, 23.360278](https://www.google.com/maps/search/?api=1&query=69.938611,23.360278) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Raipas%20%28Lille-Reipas%29%20Struve%20Geodetic%20Arc%20Station%2C%20Norway) |
 | 41 | [Fuglenes Struve Geodetic Arc Station](sights/fuglenes-struve-station.yaml) | Attraction | **75.05** | **History 8.6** | 6.8 / 8.1 / 8.6 / 7.4 / 6.1 | [70.67, 23.663333](https://www.google.com/maps/search/?api=1&query=70.67,23.663333) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Fuglenes%20Struve%20Geodetic%20Arc%20Station%2C%20Norway) |
 
-## Not yet fully assessed (8)
+## Not yet fully assessed (6)
 
 These destinations have no rank until all five core scores are assessed.
 
@@ -64,9 +64,7 @@ These destinations have no rank until all five core scores are assessed.
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
 | — | [Bouvet Island (Mid-Atlantic Ridge tentative component)](sights/bouvet.yaml) | Island | **—** | **Nature 9.3** | — / 9.4 / 9.0 / — / — | [-54.43, 3.38](https://www.google.com/maps/search/?api=1&query=-54.43,3.38) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bouvet%20Island%20%28Mid-Atlantic%20Ridge%20tentative%20component%29%2C%20Norway) |
 | — | [Bæljášvárri (Baelljasvarri) Struve Geodetic Arc Station](sights/baelljasvarri-struve-station.yaml) | Attraction | **—** | **History 8.6** | 6.8 / 8.1 / 8.6 / — / — | [69.028611, 23.305278](https://www.google.com/maps/search/?api=1&query=69.028611,23.305278) | [Google Maps](https://www.google.com/maps/search/?api=1&query=B%C3%A6lj%C3%A1%C5%A1v%C3%A1rri%20%28Baelljasvarri%29%20Struve%20Geodetic%20Arc%20Station%2C%20Norway) |
-| — | [Jan Mayen (Mid-Atlantic Ridge tentative component)](sights/jan-mayen.yaml) | Attraction | **—** | **Nature 9.4** | 9.2 / 9.4 / 9.0 / — / — | [71.05, -8.28](https://www.google.com/maps/search/?api=1&query=71.05,-8.28) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Jan%20Mayen%20%28Mid-Atlantic%20Ridge%20tentative%20component%29%2C%20Norway) |
 | — | [Luvdiidčohkka (Lohdizhjokki) Struve Geodetic Arc Station](sights/luvdiidcohkka-struve-station.yaml) | Attraction | **—** | **History 8.6** | 6.8 / 8.1 / 8.6 / — / — | [69.664444, 23.602222](https://www.google.com/maps/search/?api=1&query=69.664444,23.602222) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Luvdiid%C4%8Dohkka%20%28Lohdizhjokki%29%20Struve%20Geodetic%20Arc%20Station%2C%20Norway) |
-| — | [Svalbard Archipelago (tentative property)](sights/svalbard.yaml) | Attraction | **—** | **Nature 9.6**, **Photography 9.5**, **Wildlife 9.5** | 9.5 / 9.5 / 9.2 / — / — | [78.2, 16.1](https://www.google.com/maps/search/?api=1&query=78.2,16.1) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Svalbard%20Archipelago%20%28tentative%20property%29%2C%20Norway) |
 | — | [Tysfjord–Hellemobotn–Rago (tentative Laponian extension)](sights/tys-fjord-extension.yaml) | Attraction | **—** | **Nature 9.4**, **Culture 9.0** | 9.0 / 9.2 / 9.0 / — / — | [67.85, 16.4](https://www.google.com/maps/search/?api=1&query=67.85,16.4) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tysfjord%E2%80%93Hellemobotn%E2%80%93Rago%20%28tentative%20Laponian%20extension%29%2C%20Norway) |
 | — | [Vestfold Ship Burials (tentative serial component)](sights/vestfold-ship-burials.yaml) | Attraction | **—** | **History 9.2** | 8.0 / 8.8 / 9.0 / — / — | [59.4, 10.46](https://www.google.com/maps/search/?api=1&query=59.4,10.46) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Vestfold%20Ship%20Burials%20%28tentative%20serial%20component%29%2C%20Norway) |
 | — | [Várjjat Siida (tentative property)](sights/varjjat-siida.yaml) | Attraction | **—** | **Culture 9.1**, **History 9.1** | 8.0 / 8.8 / 9.0 / — / — | [70.07, 29.1](https://www.google.com/maps/search/?api=1&query=70.07,29.1) | [Google Maps](https://www.google.com/maps/search/?api=1&query=V%C3%A1rjjat%20Siida%20%28tentative%20property%29%2C%20Norway) |
