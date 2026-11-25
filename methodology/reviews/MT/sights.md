@@ -704,3 +704,18 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Identity/context reference](https://malta.com/places) — search excerpt inspected 2026-11-25; limited scope, not all claims.
 - Remaining gaps: exact location except UNESCO points, claim-level verification, current access and field-specific peer comparisons. Shared ladders may mix types.
+
+## Follow-up: sight-mt-hal-saflieni-hypogeum — 2026-11-25 (worldwide review)
+
+- [YAML](../../../countries/MT/sights/hal-saflieni-hypogeum.yaml) · Action: rescore · **source-linked-unverified**; specific scope checked, not a comprehensive fact-check.
+- Sources inspected 2026-11-25: [Heritage Malta, conservation and visit route](https://heritagemalta.mt/news/a-subterranean-neolithic-masterpiece-the-hal-saflieni-hypogeum/) and [Heritage Malta, tour terms](https://heritagemalta.mt/terms-conditions/).
+- Decision: The rare prehistoric funerary architecture warrants high uniqueness, significance and history ratings. The normal visit follows a predetermined guided underground route, including a preparatory audiovisual presentation. Depth 7.8 reflects that bounded route rather than the whole monument. Ticket scarcity is not itself a scoring penalty. Category-specific calibration remains provisional.
+- I/U/S/E/D: 9.2 / 9.7 / 9.7 / 8.7 / 8.7 → 9.2 / 9.7 / 9.7 / 8.7 / 7.8. Overall: 93.00 → 92.10/100. No other field or GPS changed, no new perfect scores.
+
+| Current worldwide peer | I/U/S/E/D | Overall /100 | Scope comparison |
+| --- | --- | --- | --- |
+| [Vatican Necropolis](../../../countries/VA/sights/vatican-necropolis.yaml) | 8.9 / 9.3 / 9.5 / 8.6 / 8.4 | 90.25 | Guided funerary archaeology with broader chamber interpretation. |
+| [Actun Tunichil Muknal Cave](../../../countries/BZ/sights/actun-tunichil-muknal-cave.yaml) | 9.4 / 9.6 / 9.4 / 9.4 / 8.2 | 93.30 | More involved guided archaeological cave route. |
+| [Niah Caves Archaeological Complex](../../../countries/MY/sights/niah-caves-archaeological-complex.yaml) | 9.0 / 9.4 / 9.6 / 8.8 / 8.8 | 91.70 | Broader archaeological cave landscape. |
+| [Eisriesenwelt Ice Cave](../../../countries/AT/sights/eisriesenwelt-werfen.yaml) | 9.0 / 9.4 / 8.8 / 9.0 / 8.4 | 90.00 | Longer cave circuit with different natural merit. |
+
