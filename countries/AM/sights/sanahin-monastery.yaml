@@ -1,0 +1,16 @@
+id: sight-am-sanahin-monastery
+name: "Sanahin Monastery"
+location:
+  country_code: AM
+  latitude: 41.088
+  longitude: 44.666
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 9.3
+  experience: 8.7
+  depth: 8.4
+  categories:
+    architecture: 9.3
+    history: 9.4
+    culture: 9.0

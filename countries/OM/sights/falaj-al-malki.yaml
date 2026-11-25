@@ -1,0 +1,14 @@
+id: sight-om-falaj-al-malki
+name: "Falaj Al Malki"
+location:
+  country_code: OM
+  latitude: 22.831
+  longitude: 57.778
+scores:
+  impact: null
+  uniqueness: 8.4
+  significance: 8.6
+  experience: null
+  depth: null
+  categories:
+    history: 8.8

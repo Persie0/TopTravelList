@@ -1,0 +1,15 @@
+id: sight-qa-m7-design-and-innovation-hub
+name: "M7 Design and Innovation Hub"
+location:
+  country_code: QA
+  latitude: 25.2850
+  longitude: 51.5280
+scores:
+  impact: 7.2
+  uniqueness: 7.5
+  significance: 7.1
+  experience: 7.7
+  depth: 7.2
+  categories:
+    culture: 8.0
+    architecture: 7.6

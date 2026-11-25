@@ -1,0 +1,16 @@
+id: sight-st-praia-jale
+name: "Praia Jalé"
+location:
+  country_code: ST
+  latitude: 0.0230
+  longitude: 6.5070
+scores:
+  impact: 8.6
+  uniqueness: 8.4
+  significance: 7.6
+  experience: 8.3
+  depth: 7.1
+  categories:
+    beaches: 8.7
+    wildlife: 8.9
+    nature: 8.6

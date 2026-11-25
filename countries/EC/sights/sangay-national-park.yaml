@@ -1,0 +1,17 @@
+id: sight-ec-sangay-national-park
+name: "Sangay National Park"
+location:
+  country_code: EC
+  latitude: -2.0000
+  longitude: -78.3333
+scores:
+  impact: 9.1
+  uniqueness: 9.2
+  significance: 9.5
+  experience: 8.0
+  depth: 8.9
+  categories:
+    nature: 9.6
+    wildlife: 9.2
+    photography: 9.2
+    adventure: 9.0

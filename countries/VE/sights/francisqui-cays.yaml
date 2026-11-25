@@ -1,0 +1,16 @@
+id: sight-ve-francisqui-cays
+name: "Francisquí Cays"
+location:
+  country_code: VE
+  latitude: 11.9660
+  longitude: -66.6450
+scores:
+  impact: 8.6
+  uniqueness: 8.3
+  significance: 6.7
+  experience: 8.7
+  depth: 7.3
+  categories:
+    beaches: 9.3
+    relaxation: 8.9
+    photography: 9.1

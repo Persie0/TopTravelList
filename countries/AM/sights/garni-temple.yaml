@@ -1,0 +1,16 @@
+id: sight-am-garni-temple
+name: "Garni Temple"
+location:
+  country_code: AM
+  latitude: 40.113
+  longitude: 44.73
+scores:
+  impact: 8.9
+  uniqueness: 9.2
+  significance: 9.1
+  experience: 8.7
+  depth: 7.4
+  categories:
+    architecture: 9.4
+    history: 9.3
+    photography: 9.3

@@ -1,0 +1,15 @@
+id: city-bo-cobija
+name: "Cobija"
+location:
+  country_code: BO
+  latitude: -11.0333
+  longitude: -68.7333
+scores:
+  impact: 6.3
+  uniqueness: 6.8
+  significance: 6.5
+  experience: 7.0
+  depth: 6.5
+  categories:
+    culture: 7.4
+    food: 7.3

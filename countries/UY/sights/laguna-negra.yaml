@@ -1,0 +1,15 @@
+id: sight-uy-laguna-negra
+name: "Laguna Negra"
+location:
+  country_code: UY
+  latitude: -34.0320
+  longitude: -53.6650
+scores:
+  impact: 7.7
+  uniqueness: 8.0
+  significance: 8.1
+  experience: 7.8
+  depth: 7.5
+  categories:
+    nature: 8.5
+    wildlife: 8.5

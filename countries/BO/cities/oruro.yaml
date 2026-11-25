@@ -1,0 +1,15 @@
+id: city-bo-oruro
+name: "Oruro"
+location:
+  country_code: BO
+  latitude: -17.9667
+  longitude: -67.1167
+scores:
+  impact: 7.3
+  uniqueness: 8.0
+  significance: 8.2
+  experience: 7.7
+  depth: 7.5
+  categories:
+    culture: 8.9
+    history: 8.1

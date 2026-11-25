@@ -1,0 +1,16 @@
+id: city-uy-mercedes
+name: "Mercedes"
+location:
+  country_code: UY
+  latitude: -33.2524
+  longitude: -58.0305
+scores:
+  impact: 7.1
+  uniqueness: 7.0
+  significance: 7.2
+  experience: 7.5
+  depth: 7.1
+  categories:
+    relaxation: 7.7
+    culture: 7.4
+    photography: 7.5

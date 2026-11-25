@@ -1,0 +1,15 @@
+id: sight-py-la-rosada-iron-foundry-museum
+name: "La Rosada Iron Foundry Museum"
+location:
+  country_code: PY
+  latitude: -26.0833
+  longitude: -56.8500
+scores:
+  impact: 7.5
+  uniqueness: 8.2
+  significance: 8.5
+  experience: 7.7
+  depth: 7.0
+  categories:
+    history: 8.9
+    architecture: 8.0

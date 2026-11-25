@@ -1,0 +1,16 @@
+id: sight-ad-pal-arinsal-ski-resort
+name: "Pal Arinsal Ski Resort"
+location:
+  country_code: AD
+  latitude: 42.5390
+  longitude: 1.4540
+scores:
+  impact: 8.1
+  uniqueness: 7.6
+  significance: 6.9
+  experience: 8.8
+  depth: 8.4
+  categories:
+    adventure: 9.0
+    family: 8.8
+    nature: 8.4

@@ -1,0 +1,16 @@
+id: sight-gy-iwokrama-rainforest
+name: "Iwokrama Rainforest"
+location:
+  country_code: GY
+  latitude: 4.4667
+  longitude: -58.6833
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 9.2
+  experience: 8.7
+  depth: 9.0
+  categories:
+    nature: 9.3
+    wildlife: 9.4
+    adventure: 8.8

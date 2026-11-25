@@ -1,0 +1,15 @@
+id: sight-bh-lost-paradise-of-dilmun-water-park
+name: "Lost Paradise of Dilmun Water Park"
+location:
+  country_code: BH
+  latitude: 26.0100
+  longitude: 50.5010
+scores:
+  impact: 7.6
+  uniqueness: 6.8
+  significance: 5.2
+  experience: 8.4
+  depth: 7.7
+  categories:
+    family: 8.8
+    adventure: 8.2

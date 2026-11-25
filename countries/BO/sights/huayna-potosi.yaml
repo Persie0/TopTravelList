@@ -1,0 +1,16 @@
+id: sight-bo-huayna-potosi
+name: "Huayna Potosí"
+location:
+  country_code: BO
+  latitude: -16.2620
+  longitude: -68.1530
+scores:
+  impact: 9.1
+  uniqueness: 8.9
+  significance: 8.2
+  experience: 8.5
+  depth: 8.2
+  categories:
+    nature: 9.2
+    adventure: 9.4
+    photography: 9.2

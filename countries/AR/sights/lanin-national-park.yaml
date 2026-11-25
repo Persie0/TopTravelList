@@ -1,0 +1,16 @@
+id: sight-ar-lanin-national-park
+name: "Lanín National Park"
+location:
+  country_code: AR
+  latitude: -39.7500
+  longitude: -71.4000
+scores:
+  impact: 9.1
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 8.7
+  depth: 8.9
+  categories:
+    nature: 9.5
+    photography: 9.4
+    adventure: 9.4

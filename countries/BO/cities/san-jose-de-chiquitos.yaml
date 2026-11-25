@@ -1,0 +1,16 @@
+id: city-bo-san-jose-de-chiquitos
+name: "San José de Chiquitos"
+location:
+  country_code: BO
+  latitude: -17.8470
+  longitude: -60.7430
+scores:
+  impact: 7.4
+  uniqueness: 7.9
+  significance: 8.1
+  experience: 7.8
+  depth: 6.9
+  categories:
+    architecture: 8.4
+    history: 8.5
+    culture: 8.3

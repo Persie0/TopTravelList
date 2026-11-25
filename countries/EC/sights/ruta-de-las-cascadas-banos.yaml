@@ -1,0 +1,16 @@
+id: sight-ec-ruta-de-las-cascadas-banos
+name: "Ruta de las Cascadas (Baños)"
+location:
+  country_code: EC
+  latitude: -1.4000
+  longitude: -78.3500
+scores:
+  impact: 8.7
+  uniqueness: 8.3
+  significance: 7.2
+  experience: 8.9
+  depth: 8.4
+  categories:
+    adventure: 9.0
+    nature: 8.9
+    photography: 9.0

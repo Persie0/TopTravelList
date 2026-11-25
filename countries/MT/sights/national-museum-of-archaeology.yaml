@@ -1,0 +1,15 @@
+id: sight-mt-national-museum-of-archaeology
+name: "National Museum of Archaeology"
+location:
+  country_code: MT
+  latitude: 35.8978
+  longitude: 14.5119
+scores:
+  impact: 8.4
+  uniqueness: 8.9
+  significance: 9.3
+  experience: 8.6
+  depth: 8.5
+  categories:
+    history: 9.4
+    culture: 9.2

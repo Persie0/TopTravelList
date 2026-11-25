@@ -1,0 +1,16 @@
+id: sight-bo-san-francisco-basilica-la-paz
+name: "San Francisco Basilica (La Paz)"
+location:
+  country_code: BO
+  latitude: -16.4961
+  longitude: -68.1370
+scores:
+  impact: 8.3
+  uniqueness: 8.6
+  significance: 8.6
+  experience: 8.3
+  depth: 7.3
+  categories:
+    architecture: 9.1
+    history: 8.9
+    culture: 8.7

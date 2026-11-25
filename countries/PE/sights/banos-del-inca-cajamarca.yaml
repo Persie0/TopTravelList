@@ -1,0 +1,15 @@
+id: sight-pe-banos-del-inca-cajamarca
+name: "Baños del Inca (Cajamarca)"
+location:
+  country_code: PE
+  latitude: -7.1650
+  longitude: -78.4630
+scores:
+  impact: 7.4
+  uniqueness: 7.6
+  significance: 7.6
+  experience: 8.4
+  depth: 7.0
+  categories:
+    relaxation: 8.9
+    history: 8.4

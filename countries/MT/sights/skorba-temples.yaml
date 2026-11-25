@@ -1,0 +1,15 @@
+id: sight-mt-skorba-temples
+name: "Skorba Temples"
+location:
+  country_code: MT
+  latitude: 35.9209583
+  longitude: 14.3777667
+scores:
+  impact: 7.4
+  uniqueness: 8.7
+  significance: 9.2
+  experience: 7.6
+  depth: 7.0
+  categories:
+    history: 9.4
+    architecture: 8.4

@@ -1,0 +1,15 @@
+id: city-co-mitu
+name: "Mitú"
+location:
+  country_code: CO
+  latitude: 1.1983
+  longitude: -70.1733
+scores:
+  impact: 6.4
+  uniqueness: 7.6
+  significance: 6.7
+  experience: 6.9
+  depth: 6.0
+  categories:
+    culture: 8.4
+    photography: 7.7

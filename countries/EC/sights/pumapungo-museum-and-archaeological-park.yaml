@@ -1,0 +1,15 @@
+id: sight-ec-pumapungo-museum-and-archaeological-park
+name: "Pumapungo Museum and Archaeological Park"
+location:
+  country_code: EC
+  latitude: -2.9070
+  longitude: -78.9980
+scores:
+  impact: 8.1
+  uniqueness: 8.4
+  significance: 8.7
+  experience: 8.3
+  depth: 8.0
+  categories:
+    history: 9.1
+    culture: 9.1

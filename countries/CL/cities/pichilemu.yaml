@@ -1,0 +1,16 @@
+id: city-cl-pichilemu
+name: "Pichilemu"
+location:
+  country_code: CL
+  latitude: -34.3890
+  longitude: -72.0020
+scores:
+  impact: 7.4
+  uniqueness: 7.5
+  significance: 6.4
+  experience: 8.3
+  depth: 7.0
+  categories:
+    beaches: 8.5
+    relaxation: 8.5
+    culture: 7.8

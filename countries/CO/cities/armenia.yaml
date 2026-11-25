@@ -1,0 +1,15 @@
+id: city-co-armenia
+name: "Armenia"
+location:
+  country_code: CO
+  latitude: 4.5339
+  longitude: -75.6811
+scores:
+  impact: 6.5
+  uniqueness: 7.0
+  significance: 6.8
+  experience: 7.5
+  depth: 7.0
+  categories:
+    culture: 7.7
+    food: 7.8
