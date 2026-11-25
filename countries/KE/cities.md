@@ -2,7 +2,7 @@
 
 # Kenya (KE) — Cities, towns & villages ranking
 
-**5 ranked** · **1 unassessed** · **6 total** · Worldwide scoring **v2**
+**6 ranked** · **0 unassessed** · **6 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (5)
+## Complete ranked list (6)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -19,14 +19,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 3 | [Nairobi](cities/nairobi.yaml) | City / town | **84.55** | **Culture 8.8**, **Food 8.7** | 8.1 / 8.4 / 8.6 / 8.7 / 9.0 | [-1.283, 36.817](https://www.google.com/maps/search/?api=1&query=-1.283,36.817) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nairobi%2C%20Kenya) |
 | 4 | [Malindi](cities/malindi.yaml) | City / town | **80.45** | **History 8.6**, **Culture 8.4** | 7.9 / 8.1 / 8.2 / 8.2 / 7.8 | [-3.219186, 40.11689](https://www.google.com/maps/search/?api=1&query=-3.219186,40.11689) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Malindi%2C%20Kenya) |
 | 5 | [Kisumu](cities/kisumu.yaml) | City / town | **77.60** | **Culture 8.3**, **Food 8.0** | 7.6 / 7.8 / 7.8 / 8.0 / 7.7 | [-0.102, 34.762](https://www.google.com/maps/search/?api=1&query=-0.102,34.762) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kisumu%2C%20Kenya) |
-
-## Not yet fully assessed (1)
-
-These destinations have no rank until all five core scores are assessed.
-
-| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
-| ---: | --- | --- | ---: | --- | --- | --- | --- |
-| — | [Nakuru](cities/nakuru.yaml) | City / town | **—** | — | — / 7.3 / 7.5 / — / — | [-0.307, 36.072](https://www.google.com/maps/search/?api=1&query=-0.307,36.072) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nakuru%2C%20Kenya) |
+| 6 | [Nakuru](cities/nakuru.yaml) | City / town | **73.65** | **Culture 8.1**, **Food 7.5** | 7.1 / 7.3 / 7.6 / 7.6 / 7.5 | [-0.307, 36.072](https://www.google.com/maps/search/?api=1&query=-0.307,36.072) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nakuru%2C%20Kenya) |
 
 ---
 
