@@ -2,6 +2,9 @@
 
 [Rules](../../../rules.md) · [Workflow](../../future-country-workflow.md). 2026-11-25. [UNESCO inventory](https://whc.unesco.org/en/statesparties/gq/) lists six tentative sites submitted 2026-04-14 and zero inscribed properties. All six included. Ciudad de la Paz is capital from 2026-01-02; Malabo is former capital. [FCDO travel advice](https://www.gov.uk/foreign-travel-advice/equatorial-guinea/safety-and-security) consulted by excerpt. Scores are not promises of access or permission. Approximate coordinates; parent/child scores not additive. Shared peer ladders and independent claim-level verification remain provisional.
 
+
+Follow-up 2026-11-25: official [UNESCO country register](https://whc.unesco.org/en/statesparties/gq/) reconfirmed six tentative entries. [Protected Planet national inventory](https://www.protectedplanet.net/en/search-areas?filters%5Blocation%5D%5Boptions%5D%5B%5D=Equatorial+Guinea&filters%5Blocation%5D%5Btype%5D=country) identifies four missing national protected areas: Piedra Bere and Piedra Nzas natural monuments, Punta Llende Nature Reserve and Playa Nendyi Scientific Reserve. Nine of thirteen national designations represented; precise representative points and permitted visitor scope require checks before adding the missing entries. Separate Ramsar and biosphere designations are not automatically sights. No full factual verification claimed.
+
 ## sight-gq-monte-alen-national-park — Monte Alén National Park — 2026-11-25
 
 - [YAML](../../../countries/GQ/sights/monte-alen-national-park.yaml) · Action: new · **source-linked-unverified**.
@@ -20,6 +23,8 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Reference](https://whc.unesco.org/en/tentativelists/7004) — State submission search excerpt, park identity and coordinate; full page unavailable; ministry tourism excerpt https://minturismo.gob.gq/lugares-turisticos/ describes forest fauna; accessed as page or excerpt 2026-11-25. Not complete claim-level verification.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access and individual peer/category calibration.
+- Follow-up: [Lonely Planet](https://www.lonelyplanet.com/points-of-interest/monte-alen-national-park/1554363) documents guided forest walks; [June 2026 guide](https://www.africatourismguide.com/destinations/equatorial-guinea/places/monte-alen-national-park) describes trail and wildlife scope. No guaranteed gorilla or elephant sightings; ecology and visitor wildlife merit must remain distinct. Wildlife reassessment pending stronger observation evidence.
+
 
 ## sight-gq-pico-basile-national-park — Pico Basilé National Park — 2026-11-25
 
@@ -54,10 +59,12 @@
 - Significance 9.4: international conservation significance.
 - Experience null: aggregate access unresolved.
 - Depth null: coherent routes unknown.
-- Categories: nature:9.4, wildlife:9.5. Overall: unranked.
-- High-score challenge: Wildlife 9.5 reflects endemic primates and turtle nesting across habitats; compared to Khao Sok this is a conservation rating, not evidence for an ordinary whole-reserve visit.. No approved 10.
+- Categories: nature:9.4, wildlife:null. Overall: unranked.
+- High-score challenge: Not applicable after visitor wildlife reassessment. No approved 10.
 - Evidence: [Reference](https://whc.unesco.org/en/tentativelists/6945/) — Opened state submission describes volcanic forest, endemic primates, inaccessible sectors and nesting turtles; not independent species census; accessed as page or excerpt 2026-11-25. Not complete claim-level verification.
 - Remaining gaps: Normal permitted visitor experience and scope not established.
+- Reassessment 2026-11-25: wildlife 9.5 → null. [UNESCO biosphere description](https://www.unesco.org/en/mab/isla-de-bioko) and [Bioko Marine Turtle Program](https://www.biokoturtles.org/programs.html) support ecological significance and nesting but not established whole-reserve visitor scope. Compare Bwindi, Kibale, Kinabatangan and Tortuguero: conservation importance is not the same as permitted regular observation. Overall remains unranked; distinct guided turtle beaches assessed separately.
+
 
 ## sight-gq-annobon-nature-reserve — Annobón Nature Reserve — 2026-11-25
 
@@ -153,6 +160,8 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Reference](https://whc.unesco.org/en/tentativelists/6945/) — Opened state submission describes volcanic forest, endemic primates, inaccessible sectors and nesting turtles; not independent species census; accessed as page or excerpt 2026-11-25. Not complete claim-level verification.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access and individual peer/category calibration.
+- Follow-up: [Bioko turtle program](https://www.biokoturtles.org/programs.html) documents seasonal nesting and four turtle species; [visitor account](https://www.visaja.com/equatorial-guinea/travel/bioko-south-moka-ureka-and-the-gran-caldera) describes guided night viewing. Compare Tortuguero, Mon Repos and Ras Al Jinz; retain 9.4 provisionally given seasonal guided encounters, not guaranteed sightings. Access and responsible observation need verification.
+
 
 ## sight-gq-lake-biao-lake-moka — Lake Biaó (Lake Moka) — 2026-11-25
 
@@ -308,7 +317,7 @@
 
 ## sight-gq-casa-verde-malabo — Casa Verde (Malabo) — 2026-11-25
 
-- [YAML](../../../countries/GQ/sights/casa-verde-malabo.yaml) · Action: new · **editorial-only**.
+- [YAML](../../../countries/GQ/sights/casa-verde-malabo.yaml) · Action: new · **source-linked-unverified**.
 - Scope: individual building. GPS 3.75, 8.78: approximate editorial point.
 - Worldwide peers (I/U/S/E/D):
   - [Angkor Wat (KH)](../../../countries/KH/sights/angkor-wat.yaml) — 10.0 / 10.0 / 10.0 / 9.8 / 9.5 (99.20/100); upper anchor; lower impact (timber architecture); lower uniqueness (colonial style); lower significance (local heritage); lower experience (exterior visit); lower depth (one building).
@@ -322,7 +331,7 @@
 - Depth 5.8: one building.
 - Categories: architecture:8.5, history:8.3. Overall: 73.35/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked destination-specific source.
+- Evidence: [Academic architectural history, October 2026](https://intellectdiscover.com/content/books/9781835952566.c10) documents the prefabricated wooden house and its historical context; [local architectural description](https://www.guinealia.com/place/casa-verde-y-casa-teodolita/) corroborates identity and timber construction. Exterior architectural merit only; normal interior access not established. Checked 2026-11-25; original status editorial-only.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access and individual peer/category calibration.
 
 ## sight-gq-sampaka-estate — Sampaka Estate — 2026-11-25
@@ -419,6 +428,8 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Reference](https://en.wikipedia.org/wiki/List_of_protected_areas_in_Equatorial_Guinea) — Protected area inventory excerpt; visitor access unresolved; accessed as page or excerpt 2026-11-25. Not complete claim-level verification.
 - Remaining gaps: Normal permitted visitor experience and scope not established.
+- Follow-up: [Protected Planet national inventory](https://www.protectedplanet.net/en/search-areas?filters%5Blocation%5D%5Boptions%5D%5B%5D=Equatorial+Guinea&filters%5Blocation%5D%5Btype%5D=country) corroborates designation and identity. Permitted visitor routes not established; keep overall unranked.
+
 
 ## sight-gq-altos-de-nsork-national-park — Altos de Nsork National Park — 2026-11-25
 
@@ -438,6 +449,8 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Reference](https://en.wikipedia.org/wiki/List_of_protected_areas_in_Equatorial_Guinea) — Protected area inventory excerpt; visitor access unresolved; accessed as page or excerpt 2026-11-25. Not complete claim-level verification.
 - Remaining gaps: Normal permitted visitor experience and scope not established.
+- Follow-up: [Protected Planet national inventory](https://www.protectedplanet.net/en/search-areas?filters%5Blocation%5D%5Boptions%5D%5B%5D=Equatorial+Guinea&filters%5Blocation%5D%5Btype%5D=country) corroborates designation and identity. Permitted visitor routes not established; keep overall unranked.
+
 
 ## sight-gq-muni-estuary-nature-reserve — Muni Estuary Nature Reserve — 2026-11-25
 
@@ -457,6 +470,8 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Reference](https://en.wikipedia.org/wiki/List_of_protected_areas_in_Equatorial_Guinea) — Protected area inventory excerpt; visitor access unresolved; accessed as page or excerpt 2026-11-25. Not complete claim-level verification.
 - Remaining gaps: Normal permitted visitor experience and scope not established.
+- Follow-up: [Protected Planet national inventory](https://www.protectedplanet.net/en/search-areas?filters%5Blocation%5D%5Boptions%5D%5B%5D=Equatorial+Guinea&filters%5Blocation%5D%5Btype%5D=country) corroborates designation and identity. Permitted visitor routes not established; keep overall unranked.
+
 
 ## sight-gq-monte-temelon-nature-reserve — Monte Temelón Nature Reserve — 2026-11-25
 
@@ -476,6 +491,8 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Reference](https://en.wikipedia.org/wiki/List_of_protected_areas_in_Equatorial_Guinea) — Protected area inventory excerpt; visitor access unresolved; accessed as page or excerpt 2026-11-25. Not complete claim-level verification.
 - Remaining gaps: Normal permitted visitor experience and scope not established.
+- Follow-up: [Protected Planet national inventory](https://www.protectedplanet.net/en/search-areas?filters%5Blocation%5D%5Boptions%5D%5B%5D=Equatorial+Guinea&filters%5Blocation%5D%5Btype%5D=country) corroborates designation and identity. Permitted visitor routes not established; keep overall unranked.
+
 
 ## sight-gq-corisco-and-elobeyes-nature-reserve — Corisco and Elobeyes Nature Reserve — 2026-11-25
 
@@ -495,3 +512,5 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Reference](https://en.wikipedia.org/wiki/List_of_protected_areas_in_Equatorial_Guinea) — Protected area inventory excerpt; visitor access unresolved; accessed as page or excerpt 2026-11-25. Not complete claim-level verification.
 - Remaining gaps: Normal permitted visitor experience and scope not established.
+- Follow-up: [Protected Planet national inventory](https://www.protectedplanet.net/en/search-areas?filters%5Blocation%5D%5Boptions%5D%5B%5D=Equatorial+Guinea&filters%5Blocation%5D%5Btype%5D=country) corroborates designation and identity. Permitted visitor routes not established; keep overall unranked.
+
