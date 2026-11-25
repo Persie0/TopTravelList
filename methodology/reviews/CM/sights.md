@@ -30,7 +30,7 @@
 - Depth: 8.8 — Varied forest habitats, fewer open observation opportunities than Okavango.
 - Applicable categories: nature 9.6, wildlife 8.9.
 - Overall: 91.00/100.
-- High-score challenge: Significance/nature 9.6 and wildlife 9.5 recognize large intact forest and threatened species, not guaranteed sightings. Okavango is stronger for open wildlife observation and depth.
+- High-score challenge: Significance/nature 9.6 recognize intact forest and threatened species. Wildlife 8.9 reflects limited observation reliability: the reserve visitor page https://dja.cm/anglais/visite.php warns that encounters are unpredictable, and https://visitcameroon.com/dja-faunal-reserve/ reports rare sightings and no habituated gorilla tourism. Checked 2026-11-25; below Taï wildlife 9.4 and Okavango 9.9.
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide editorial rating, not independent fact-check.
 - Verification still needed: site-specific access, provisional GPS, remaining peer scores and independent claim-level evidence.
