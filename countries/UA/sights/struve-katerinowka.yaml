@@ -1,0 +1,14 @@
+id: sight-ua-struve-katerinowka
+name: "Struve Geodetic Arc — Katerinowka station"
+location:
+  country_code: UA
+  latitude: 49.565833
+  longitude: 26.756111
+scores:
+  impact: null
+  uniqueness: 8.2
+  significance: 9.0
+  experience: null
+  depth: null
+  categories:
+    history: 9.1

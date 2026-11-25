@@ -1,0 +1,15 @@
+id: sight-ua-genoese-trading-posts
+name: "Genoese Trade Route Fortifications (Ukrainian tentative components)"
+location:
+  country_code: UA
+  latitude: 44.842
+  longitude: 34.958
+scores:
+  impact: null
+  uniqueness: 9.0
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    history: 9.3
+    architecture: 9.2
