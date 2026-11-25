@@ -1,0 +1,15 @@
+id: sight-mt-dingli-cliffs
+name: "Dingli Cliffs"
+location:
+  country_code: MT
+  latitude: 35.8450
+  longitude: 14.3830
+scores:
+  impact: 8.8
+  uniqueness: 8.5
+  significance: 7.3
+  experience: 8.6
+  depth: 8.2
+  categories:
+    nature: 9.1
+    photography: 9.3

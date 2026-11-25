@@ -1,0 +1,15 @@
+id: sight-mt-domvs-romana
+name: "Domvs Romana"
+location:
+  country_code: MT
+  latitude: 35.8861
+  longitude: 14.4004
+scores:
+  impact: 8.0
+  uniqueness: 8.3
+  significance: 8.6
+  experience: 8.2
+  depth: 7.6
+  categories:
+    history: 9.0
+    architecture: 8.6
