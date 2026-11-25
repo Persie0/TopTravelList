@@ -1,0 +1,15 @@
+id: sight-dk-grenen
+name: "Grenen, Skagen"
+location:
+  country_code: DK
+  latitude: 57.745
+  longitude: 10.65
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 7.9
+  experience: 8.7
+  depth: 7.6
+  categories:
+    nature: 9
+    photography: 9
