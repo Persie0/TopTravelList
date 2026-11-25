@@ -2,7 +2,7 @@
 
 # Paraguay (PY) — Sights & attractions ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**46 ranked** · **6 unassessed** · **52 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,11 +10,69 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, or click its GPS coordinates to open **Google Maps**. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (46)
 
-No sights & attractions have been assessed for **Paraguay** yet.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps |
+| ---: | --- | --- | ---: | --- | --- | --- |
+| 1 | [Jesuit Mission of La Santísima Trinidad de Paraná](sights/jesuit-mission-of-la-santisima-trinidad-de-parana.yaml) | Attraction | **90.45** | **History 9.5**, **Architecture 9.4**, **Photography 9.2**, Culture 9.1 | 9.1 / 9.1 / 9.4 / 8.8 / 8.4 | [-27.132306, -55.702028](https://www.google.com/maps/search/?api=1&query=-27.132306,-55.702028) |
+| 2 | [Paraguayan Pantanal](sights/paraguayan-pantanal.yaml) | Attraction | **87.50** | **Wildlife 9.4**, **Nature 9.3**, **Photography 9.0** | 8.7 / 8.9 / 9.0 / 8.3 / 8.7 | [-20.55, -58.1](https://www.google.com/maps/search/?api=1&query=-20.55,-58.1) |
+| 3 | [Jesuit Mission of Jesús de Tavarangue](sights/jesuit-mission-of-jesus-de-tavarangue.yaml) | Attraction | **86.65** | **History 9.3**, **Architecture 9.1**, **Photography 8.8** | 8.6 / 8.8 / 9.2 / 8.5 / 7.7 | [-27.05625, -55.752994](https://www.google.com/maps/search/?api=1&query=-27.05625,-55.752994) |
+| 4 | [Itaipú Dam (Paraguayan visitor circuit)](sights/itaipu-dam-paraguayan-visitor-circuit.yaml) | Attraction | **86.35** | **Architecture 9.1**, **History 8.7**, **Photography 8.6** | 8.6 / 8.9 / 9.1 / 8.2 / 7.8 | [-25.4085, -54.5883](https://www.google.com/maps/search/?api=1&query=-25.4085,-54.5883) |
+| 5 | [Mbaracayú Forest Nature Reserve](sights/mbaracayu-forest-nature-reserve.yaml) | Park / reserve | **85.55** | **Nature 9.2**, **Wildlife 9.2**, **Adventure 8.3** | 8.4 / 8.6 / 9.0 / 8.3 / 8.4 | [-24.0833, -55.2833](https://www.google.com/maps/search/?api=1&query=-24.0833,-55.2833) |
+| 6 | [Templo San Buenaventura de Yaguarón](sights/templo-san-buenaventura-de-yaguaron.yaml) | Attraction | **84.65** | **Architecture 9.3**, **History 9.0**, **Culture 8.9** | 8.5 / 8.9 / 8.8 / 8.2 / 7.0 | [-25.5621, -57.2833](https://www.google.com/maps/search/?api=1&query=-25.5621,-57.2833) |
+| 7 | [Defensores del Chaco National Park](sights/defensores-del-chaco-national-park.yaml) | Park / reserve | **84.50** | **Nature 9.2**, **Wildlife 9.2**, **Adventure 8.4** | 8.3 / 8.7 / 9.0 / 7.7 / 8.3 | [-20.15, -59.5](https://www.google.com/maps/search/?api=1&query=-20.15,-59.5) |
+| 8 | [Jesuit Mission of San Cosme y Damián](sights/jesuit-mission-of-san-cosme-y-damian.yaml) | Attraction | **84.25** | **History 9.1**, **Architecture 8.8**, **Culture 8.7** | 8.3 / 8.6 / 8.9 / 8.3 / 7.6 | [-27.318, -56.331](https://www.google.com/maps/search/?api=1&query=-27.318,-56.331) |
+| 9 | [Estación Biológica Tres Gigantes](sights/estacion-biologica-tres-gigantes.yaml) | Attraction | **83.75** | **Wildlife 9.2**, **Nature 8.9**, **Photography 8.7** | 8.3 / 8.7 / 8.5 / 8.2 / 7.8 | [-20.1, -58.15](https://www.google.com/maps/search/?api=1&query=-20.1,-58.15) |
+| 10 | [Museo del Barro](sights/museo-del-barro.yaml) | Attraction | **82.80** | **Culture 9.2**, **History 8.6** | 8.0 / 8.5 / 8.6 / 8.3 / 7.9 | [-25.2725, -57.5657](https://www.google.com/maps/search/?api=1&query=-25.2725,-57.5657) |
+| 11 | [Ybycuí National Park](sights/ybycui-national-park.yaml) | Park / reserve | **82.75** | **Nature 8.8**, **Adventure 8.4**, **Wildlife 8.4** | 8.3 / 8.2 / 8.2 / 8.5 / 8.2 | [-26.0833, -56.85](https://www.google.com/maps/search/?api=1&query=-26.0833,-56.85) |
+| 12 | [Ybytyruzú Managed Resources Reserve](sights/ybytyruzu-managed-resources-reserve.yaml) | Attraction | **82.70** | **Nature 8.8**, **Photography 8.8**, **Adventure 8.5** | 8.2 / 8.4 / 8.2 / 8.4 / 8.1 | [-25.8833, -56.2167](https://www.google.com/maps/search/?api=1&query=-25.8833,-56.2167) |
+| 13 | [Saltos del Monday](sights/saltos-del-monday.yaml) | Attraction | **82.50** | **Photography 9.1**, **Nature 9.0**, **Adventure 8.2** | 8.8 / 8.3 / 7.5 / 8.5 / 7.6 | [-25.563, -54.624](https://www.google.com/maps/search/?api=1&query=-25.563,-54.624) |
+| 14 | [Laguna Blanca](sights/laguna-blanca.yaml) | Attraction | **81.00** | **Nature 8.9**, **Photography 8.6**, **Wildlife 8.6** | 8.0 / 8.4 / 8.2 / 8.0 / 7.6 | [-23.8, -56.2833](https://www.google.com/maps/search/?api=1&query=-23.8,-56.2833) |
+| 15 | [Yacyretá Dam (Paraguayan visitor circuit)](sights/yacyreta-dam-paraguayan-visitor-circuit.yaml) | Attraction | **80.40** | **Architecture 8.5**, **History 8.2** | 8.0 / 8.2 / 8.5 / 7.8 / 7.2 | [-27.4833, -56.75](https://www.google.com/maps/search/?api=1&query=-27.4833,-56.75) |
+| 16 | [Cerro Corá National Park](sights/cerro-cora-national-park.yaml) | Park / reserve | **80.35** | **History 8.8**, **Nature 8.5**, **Photography 8.3** | 7.8 / 8.1 / 8.5 / 8.0 / 7.7 | [-22.65, -56.0](https://www.google.com/maps/search/?api=1&query=-22.65,-56.0) |
+| 17 | [Salto Ñacunday](sights/salto-nacunday.yaml) | Attraction | **80.25** | **Photography 8.9**, **Nature 8.8** | 8.4 / 8.1 / 7.5 / 8.2 / 7.5 | [-26.0, -54.7](https://www.google.com/maps/search/?api=1&query=-26.0,-54.7) |
+| 18 | [Cerro Tres Kandú](sights/cerro-tres-kandu.yaml) | Attraction | **79.45** | **Adventure 8.7**, **Photography 8.7**, **Nature 8.6** | 8.2 / 8.0 / 7.4 / 8.3 / 7.6 | [-25.9333, -56.2167](https://www.google.com/maps/search/?api=1&query=-25.9333,-56.2167) |
+| 18 | [Railway Complex and English Village of Sapucai](sights/railway-complex-and-english-village-of-sapucai.yaml) | Historic settlement | **79.45** | **History 8.8**, **Architecture 8.3** | 7.6 / 8.3 / 8.4 / 7.8 / 7.4 | [-25.6667, -56.9333](https://www.google.com/maps/search/?api=1&query=-25.6667,-56.9333) |
+| 20 | [Caacupé Basilica](sights/caacupe-basilica.yaml) | Attraction | **79.20** | **Culture 8.9**, **Architecture 8.5**, **History 8.3** | 7.8 / 7.9 / 8.4 / 8.1 / 7.1 | [-25.3865, -57.1403](https://www.google.com/maps/search/?api=1&query=-25.3865,-57.1403) |
+| 20 | [Fortín Toledo (Chaco wildlife conservation area)](sights/fortin-toledo-chaco-wildlife-conservation-area.yaml) | Attraction | **79.20** | **Wildlife 8.9**, **Nature 8.3** | 7.6 / 8.2 / 8.5 / 7.8 / 7.2 | [-22.35, -60.4](https://www.google.com/maps/search/?api=1&query=-22.35,-60.4) |
+| 22 | [Refugio Biológico Tatí Yupí](sights/refugio-biologico-tati-yupi.yaml) | Attraction | **79.00** | **Wildlife 8.6**, **Nature 8.5** | 7.7 / 7.9 / 8.2 / 8.1 / 7.6 | [-25.3667, -54.6](https://www.google.com/maps/search/?api=1&query=-25.3667,-54.6) |
+| 23 | [Panteón Nacional de los Héroes](sights/panteon-nacional-de-los-heroes.yaml) | Attraction | **78.85** | **History 9.0**, **Architecture 8.6**, **Culture 8.4** | 7.8 / 7.9 / 8.6 / 7.8 / 6.8 | [-25.2822, -57.6342](https://www.google.com/maps/search/?api=1&query=-25.2822,-57.6342) |
+| 23 | [San Cosme Dunes](sights/san-cosme-dunes.yaml) | Desert | **78.85** | **Photography 8.9**, **Nature 8.6**, **Adventure 7.9** | 8.2 / 8.4 / 7.1 / 8.1 / 6.9 | [-27.35, -56.3](https://www.google.com/maps/search/?api=1&query=-27.35,-56.3) |
+| 25 | [La Rosada Iron Foundry Museum](sights/la-rosada-iron-foundry-museum.yaml) | Museum / heritage | **78.55** | **History 8.9**, **Architecture 8.0** | 7.5 / 8.2 / 8.5 / 7.7 / 7.0 | [-26.0833, -56.85](https://www.google.com/maps/search/?api=1&query=-26.0833,-56.85) |
+| 26 | [Palacio de los López](sights/palacio-de-los-lopez.yaml) | Attraction | **78.35** | **History 8.7**, **Architecture 8.6**, **Photography 8.4** | 7.9 / 7.8 / 8.5 / 7.7 / 6.6 | [-25.2771, -57.6354](https://www.google.com/maps/search/?api=1&query=-25.2771,-57.6354) |
+| 27 | [Casa de la Independencia Museum](sights/casa-de-la-independencia-museum.yaml) | Museum / heritage | **78.25** | **History 9.0**, **Culture 8.4** | 7.4 / 8.0 / 8.6 / 7.9 / 7.0 | [-25.2807, -57.6353](https://www.google.com/maps/search/?api=1&query=-25.2807,-57.6353) |
+| 27 | [Salto Cristal](sights/salto-cristal.yaml) | Attraction | **78.25** | **Photography 8.7**, **Nature 8.6**, **Adventure 8.4** | 8.2 / 8.0 / 7.0 / 8.3 / 7.2 | [-26.05, -56.85](https://www.google.com/maps/search/?api=1&query=-26.05,-56.85) |
+| 27 | [South American Football Museum](sights/south-american-football-museum.yaml) | Museum / heritage | **78.25** | **Culture 8.6**, **History 8.4** | 7.5 / 8.1 / 8.1 / 8.0 / 7.3 | [-25.261, -57.535](https://www.google.com/maps/search/?api=1&query=-25.261,-57.535) |
+| 30 | [Carlos Antonio López Central Railway Station](sights/carlos-antonio-lopez-central-railway-station.yaml) | Attraction | **77.65** | **History 8.7**, **Architecture 8.3** | 7.5 / 8.0 / 8.3 / 7.7 / 7.0 | [-25.2862, -57.6292](https://www.google.com/maps/search/?api=1&query=-25.2862,-57.6292) |
+| 31 | [Museo de las Memorias](sights/museo-de-las-memorias.yaml) | Attraction | **77.20** | **History 8.8**, **Culture 8.4** | 7.3 / 8.1 / 8.3 / 7.7 / 6.9 | [-25.2895, -57.641](https://www.google.com/maps/search/?api=1&query=-25.2895,-57.641) |
+| 32 | [Areguá Ceramics Workshops](sights/aregua-ceramics-workshops.yaml) | Attraction | **77.00** | **Culture 8.7**, **Architecture 7.5** | 7.5 / 8.1 / 7.4 / 8.1 / 7.3 | [-25.3125, -57.3847](https://www.google.com/maps/search/?api=1&query=-25.3125,-57.3847) |
+| 33 | [Cerro Akatí](sights/cerro-akati.yaml) | Attraction | **76.95** | **Photography 8.7**, **Nature 8.5**, **Adventure 8.4** | 8.0 / 7.9 / 6.8 / 8.2 / 7.3 | [-25.8167, -56.2](https://www.google.com/maps/search/?api=1&query=-25.8167,-56.2) |
+| 34 | [Salto Suizo](sights/salto-suizo.yaml) | Attraction | **76.80** | **Photography 8.5**, **Nature 8.4**, **Adventure 8.3** | 8.0 / 7.8 / 6.9 / 8.2 / 7.2 | [-25.9, -56.25](https://www.google.com/maps/search/?api=1&query=-25.9,-56.25) |
+| 35 | [Fortín Boquerón](sights/fortin-boqueron.yaml) | Attraction | **76.55** | **History 9.0**, **Culture 8.1** | 7.2 / 7.9 / 8.5 / 7.6 / 6.8 | [-22.65, -60.1667](https://www.google.com/maps/search/?api=1&query=-22.65,-60.1667) |
+| 35 | [Museo de la Tierra Guaraní (Itaipú)](sights/museo-de-la-tierra-guarani-itaipu.yaml) | Attraction | **76.55** | **Culture 8.5**, **History 8.2**, **Nature 8.2** | 7.3 / 7.9 / 8.0 / 7.8 / 7.2 | [-25.408, -54.6](https://www.google.com/maps/search/?api=1&query=-25.408,-54.6) |
+| 37 | [Salto Karapá](sights/salto-karapa.yaml) | Attraction | **76.20** | **Photography 8.5**, **Nature 8.4** | 7.9 / 7.8 / 6.9 / 8.0 / 7.2 | [-24.2, -54.5](https://www.google.com/maps/search/?api=1&query=-24.2,-54.5) |
+| 38 | [Lake Ypacaraí](sights/lake-ypacarai.yaml) | Lake | **75.10** | **Photography 8.3**, **Nature 8.0**, **Relaxation 8.0** | 7.6 / 7.6 / 7.2 / 7.4 / 7.8 | [-25.312, -57.325](https://www.google.com/maps/search/?api=1&query=-25.312,-57.325) |
+| 39 | [Salto Tembey](sights/salto-tembey.yaml) | Attraction | **74.75** | **Nature 8.3**, **Photography 8.3**, **Relaxation 7.8** | 7.7 / 7.6 / 6.6 / 8.1 / 7.3 | [-26.75, -55.25](https://www.google.com/maps/search/?api=1&query=-26.75,-55.25) |
+| 40 | [Encarnación Costanera](sights/encarnacion-costanera.yaml) | Attraction | **74.65** | **Relaxation 8.8**, **Beaches 8.3**, **Photography 8.2** | 7.7 / 7.3 / 6.4 / 8.4 / 7.9 | [-27.33, -55.875](https://www.google.com/maps/search/?api=1&query=-27.33,-55.875) |
+| 41 | [Asunción Metropolitan Cathedral](sights/asuncion-metropolitan-cathedral.yaml) | Religious site | **74.50** | **History 8.5**, **Architecture 8.2** | 7.3 / 7.4 / 8.0 / 7.6 / 6.7 | [-25.2802, -57.6321](https://www.google.com/maps/search/?api=1&query=-25.2802,-57.6321) |
+| 42 | [Museo Jakob Unger](sights/museo-jakob-unger.yaml) | Attraction | **74.45** | **Culture 8.4**, **History 8.4** | 7.1 / 7.8 / 7.8 / 7.5 / 6.8 | [-22.34, -60.03](https://www.google.com/maps/search/?api=1&query=-22.34,-60.03) |
+| 43 | [Cerro Hũ (Paraguarí)](sights/cerro-hu-paraguari.yaml) | Attraction | **74.15** | **Photography 8.5**, **Adventure 8.1** | 7.7 / 7.6 / 6.5 / 8.1 / 6.9 | [-25.61, -57.15](https://www.google.com/maps/search/?api=1&query=-25.61,-57.15) |
+| 44 | [Asunción Costanera](sights/asuncion-costanera.yaml) | Attraction | **72.55** | **Relaxation 8.4**, **Photography 8.0** | 7.4 / 7.1 / 6.5 / 8.0 / 7.6 | [-25.274, -57.629](https://www.google.com/maps/search/?api=1&query=-25.274,-57.629) |
+| 45 | [Playa San José](sights/playa-san-jose.yaml) | Attraction | **71.00** | **Beaches 8.6**, **Relaxation 8.5**, **Family 8.1** | 7.4 / 7.0 / 5.9 / 8.2 / 7.2 | [-27.338, -55.875](https://www.google.com/maps/search/?api=1&query=-27.338,-55.875) |
+| 46 | [Ñu Guasú Park](sights/nu-guasu-park.yaml) | Park / square | **68.25** | **Relaxation 8.1**, **Family 8.0** | 6.8 / 6.6 / 6.3 / 7.7 / 7.2 | [-25.259, -57.537](https://www.google.com/maps/search/?api=1&query=-25.259,-57.537) |
 
-Add destination YAML files in [sights/](sights/), then regenerate the overview files.
+## Not yet fully assessed (6)
+
+These destinations have no rank until all five core scores are assessed.
+
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps |
+| ---: | --- | --- | ---: | --- | --- | --- |
+| — | [Carlos Antonio López Railway System](sights/carlos-antonio-lopez-railway-system.yaml) | Attraction | **—** | **History 9.0**, **Architecture 8.5** | — / 8.5 / 8.7 / — / — | [-25.2862, -57.6292](https://www.google.com/maps/search/?api=1&query=-25.2862,-57.6292) |
+| — | [Cavernas de Vallemí](sights/cavernas-de-vallemi.yaml) | Attraction | **—** | **Nature 8.6**, **Adventure 8.3** | — / 8.2 / 7.7 / — / — | [-22.1667, -57.95](https://www.google.com/maps/search/?api=1&query=-22.1667,-57.95) |
+| — | [Médanos del Chaco National Park](sights/medanos-del-chaco-national-park.yaml) | Park / reserve | **—** | **Nature 9.1**, **Wildlife 8.7** | — / 8.8 / 8.7 / — / — | [-20.45, -61.95](https://www.google.com/maps/search/?api=1&query=-20.45,-61.95) |
+| — | [Rock Art of Jsukaevnda and Cerro Corá](sights/rock-art-of-jsukaevnda-and-cerro-cora.yaml) | Attraction | **—** | **History 9.2**, **Culture 9.0** | — / 8.7 / 8.9 / — / — | [-22.6333, -56.0](https://www.google.com/maps/search/?api=1&query=-22.6333,-56.0) |
+| — | [Tinfunqué National Park](sights/tinfunque-national-park.yaml) | Park / reserve | **—** | **Nature 8.9**, **Wildlife 8.9** | — / 8.3 / 8.5 / — / — | [-24.8333, -59.4167](https://www.google.com/maps/search/?api=1&query=-24.8333,-59.4167) |
+| — | [Yerba Mate Cultural Landscape](sights/yerba-mate-cultural-landscape.yaml) | Coast | **—** | **Culture 9.0**, **History 8.8** | — / 8.4 / 8.7 / — / — | [-26.85, -55.75](https://www.google.com/maps/search/?api=1&query=-26.85,-55.75) |
 
 ---
 
