@@ -32,7 +32,7 @@
 
 - Applicable category scores: architecture 9.5, history 9.3, culture 9.4, photography 9.5.
 - Computed worldwide overall: 93.25/100.
-- High-score challenge: Architecture 9.5 and photography 9.5 reflect the extensive, coherent canal fabric and repeatable street-level compositions, comparable to Bruges (architecture and photography 9.5). Whole-city 93.25 sits near Saint Petersburg (93.20), above Vienna (92.30) on distinctive canal fabric, and below London (97.00) on significance and depth. No citywide 9.5+ core fields remain.
+- High-score challenge: Architecture 9.5 and photography 9.5 reflect the extensive, coherent canal fabric and repeatable street-level compositions, comparable to Bruges (architecture and photography 9.5). Whole-city 93.25 sits near Saint Petersburg (93.20), above Vienna (92.30) on distinctive canal fabric, and below London (96.65) on significance and depth. No citywide 9.5+ core fields remain.
 - Approved 10 registry: none.
 - Final decision: Reduced from 94.90 to 93.25 after explicit comparison with major capitals and the bounded canal-ring property.
 - Earlier decision: none.
