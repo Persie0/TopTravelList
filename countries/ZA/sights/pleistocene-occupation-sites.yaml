@@ -1,0 +1,13 @@
+id: sight-za-pleistocene-occupation-sites
+name: "Pleistocene Occupation Sites of South Africa (UNESCO aggregate)"
+location:
+  country_code: ZA
+  latitude: -34.21
+  longitude: 22.08
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}

@@ -1,0 +1,13 @@
+id: sight-za-fossil-hominid-sites
+name: "Fossil Hominid Sites of South Africa (UNESCO aggregate)"
+location:
+  country_code: ZA
+  latitude: -25.92
+  longitude: 27.76
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}
