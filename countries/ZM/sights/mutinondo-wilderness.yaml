@@ -1,0 +1,16 @@
+id: sight-zm-mutinondo-wilderness
+name: "Mutinondo Wilderness"
+location:
+  country_code: ZM
+  latitude: -12.406944
+  longitude: 31.458333
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 9.0
+  depth: 8.8
+  categories:
+    nature: 9.2
+    adventure: 9.0
+    photography: 8.9

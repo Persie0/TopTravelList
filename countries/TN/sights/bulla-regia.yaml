@@ -1,0 +1,15 @@
+id: sight-tn-bulla-regia
+name: "Bulla Regia Archaeological Site"
+location:
+  country_code: TN
+  latitude: 36.558
+  longitude: 8.756
+scores:
+  impact: 8.8
+  uniqueness: 9.2
+  significance: 9.1
+  experience: 8.7
+  depth: 8.4
+  categories:
+    architecture: 9.2
+    history: 9.2

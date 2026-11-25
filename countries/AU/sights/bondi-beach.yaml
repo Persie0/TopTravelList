@@ -1,0 +1,16 @@
+id: sight-au-bondi-beach
+name: "Bondi Beach"
+location:
+  country_code: AU
+  latitude: -33.8915
+  longitude: 151.2767
+scores:
+  impact: 8.5
+  uniqueness: 8.0
+  significance: 7.6
+  experience: 8.9
+  depth: 7.9
+  categories:
+    beaches: 9.0
+    relaxation: 8.7
+    photography: 8.7

@@ -1,0 +1,15 @@
+id: sight-pg-national-museum-art-gallery
+name: "Papua New Guinea National Museum and Art Gallery"
+location:
+  country_code: PG
+  latitude: -9.42559
+  longitude: 147.19013
+scores:
+  impact: 7.5
+  uniqueness: 8.4
+  significance: 8.6
+  experience: 8.0
+  depth: 7.7
+  categories:
+    culture: 8.9
+    history: 8.7

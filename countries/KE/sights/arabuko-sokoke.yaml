@@ -1,0 +1,15 @@
+id: sight-ke-arabuko-sokoke
+name: "Arabuko Sokoke Forest"
+location:
+  country_code: KE
+  latitude: -3.266667
+  longitude: 39.816667
+scores:
+  impact: 8.5
+  uniqueness: 9.1
+  significance: 9.3
+  experience: 8.7
+  depth: 8.8
+  categories:
+    nature: 9.4
+    wildlife: 9.3

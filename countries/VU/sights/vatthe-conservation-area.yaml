@@ -1,0 +1,15 @@
+id: sight-vu-vatthe-conservation-area
+name: "Vatthe Conservation Area"
+location:
+  country_code: VU
+  latitude: -15.30611
+  longitude: 166.91472
+scores:
+  impact: 7.9
+  uniqueness: 8.0
+  significance: 8.6
+  experience: 8.2
+  depth: 8.1
+  categories:
+    nature: 8.5
+    wildlife: 8.4

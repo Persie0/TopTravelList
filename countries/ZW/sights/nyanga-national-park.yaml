@@ -1,0 +1,16 @@
+id: sight-zw-nyanga-national-park
+name: "Nyanga National Park"
+location:
+  country_code: ZW
+  latitude: -18.2167
+  longitude: 32.75
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 8.5
+  experience: 8.8
+  depth: 8.9
+  categories:
+    nature: 9.2
+    photography: 9.1
+    adventure: 8.9

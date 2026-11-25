@@ -1,0 +1,15 @@
+id: sight-ug-queen-elizabeth-national-park
+name: "Queen Elizabeth National Park"
+location:
+  country_code: UG
+  latitude: -0.2
+  longitude: 30
+scores:
+  impact: 9.2
+  uniqueness: 9.2
+  significance: 9.3
+  experience: 9.2
+  depth: 9.3
+  categories:
+    nature: 9.4
+    wildlife: 9.5

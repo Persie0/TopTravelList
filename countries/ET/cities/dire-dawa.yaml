@@ -1,0 +1,16 @@
+id: city-et-dire-dawa
+name: "Dire Dawa"
+location:
+  country_code: ET
+  latitude: 9.6
+  longitude: 41.87
+scores:
+  impact: 7.5
+  uniqueness: 7.7
+  significance: 7.6
+  experience: 7.6
+  depth: 7.5
+  categories:
+    architecture: 7.7
+    culture: 7.9
+    food: 7.8

@@ -1,0 +1,16 @@
+id: sight-na-fish-river-canyon
+name: "Fish River Canyon"
+location:
+  country_code: NA
+  latitude: -27.589293
+  longitude: 17.597587
+scores:
+  impact: 9.5
+  uniqueness: 9.3
+  significance: 9.0
+  experience: 9.0
+  depth: 8.7
+  categories:
+    nature: 9.5
+    photography: 9.5
+    adventure: 9.1

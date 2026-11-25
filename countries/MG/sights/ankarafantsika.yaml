@@ -1,0 +1,15 @@
+id: sight-mg-ankarafantsika
+name: "Ankarafantsika National Park"
+location:
+  country_code: MG
+  latitude: -16.221056
+  longitude: 46.941828
+scores:
+  impact: 8.8
+  uniqueness: 9.1
+  significance: 9.3
+  experience: 8.7
+  depth: 8.7
+  categories:
+    nature: 9.3
+    wildlife: 9.2

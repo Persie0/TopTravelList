@@ -1,0 +1,16 @@
+id: city-ke-lamu
+name: "Lamu"
+location:
+  country_code: KE
+  latitude: -2.269557
+  longitude: 40.900642
+scores:
+  impact: 8.8
+  uniqueness: 9.3
+  significance: 9.2
+  experience: 8.8
+  depth: 8.4
+  categories:
+    architecture: 9.2
+    culture: 9.3
+    history: 9.3

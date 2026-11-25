@@ -1,0 +1,15 @@
+id: sight-ug-semuliki-national-park
+name: "Semuliki National Park"
+location:
+  country_code: UG
+  latitude: 0.82181
+  longitude: 30.062529
+scores:
+  impact: 8.5
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.5
+  depth: 8.5
+  categories:
+    nature: 9.2
+    wildlife: 9.0

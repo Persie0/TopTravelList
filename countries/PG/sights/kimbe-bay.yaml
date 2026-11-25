@@ -1,0 +1,16 @@
+id: sight-pg-kimbe-bay
+name: "Kimbe Bay Reefs"
+location:
+  country_code: PG
+  latitude: -5.25
+  longitude: 150.25
+scores:
+  impact: 9.3
+  uniqueness: 9.4
+  significance: 9.4
+  experience: 9.1
+  depth: 9
+  categories:
+    nature: 9.6
+    wildlife: 9.5
+    adventure: 9.3

@@ -1,0 +1,15 @@
+id: sight-mg-masoala
+name: "Masoala National Park"
+location:
+  country_code: MG
+  latitude: -15.614444
+  longitude: 50.177778
+scores:
+  impact: 9.2
+  uniqueness: 9.4
+  significance: 9.6
+  experience: 8.8
+  depth: 9.1
+  categories:
+    nature: 9.6
+    wildlife: 9.5

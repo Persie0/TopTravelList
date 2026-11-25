@@ -1,0 +1,13 @@
+id: sight-tn-cretaceous-tertiary-boundary
+name: "Cretaceous–Tertiary Boundary Stratotype"
+location:
+  country_code: TN
+  latitude: 36.17
+  longitude: 8.71
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}

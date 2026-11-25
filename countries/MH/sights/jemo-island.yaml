@@ -1,0 +1,15 @@
+id: sight-mh-jemo-island
+name: "Jemo Island"
+location:
+  country_code: MH
+  latitude: 10.1
+  longitude: 169.5
+scores:
+  impact: null
+  uniqueness: 8.7
+  significance: 9.0
+  experience: null
+  depth: null
+  categories:
+    nature: 8.9
+    wildlife: null

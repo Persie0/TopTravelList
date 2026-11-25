@@ -1,0 +1,13 @@
+id: city-tv-niulakita
+name: "Niulakita Village"
+location:
+  country_code: TV
+  latitude: -10.79034
+  longitude: 179.47114
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}

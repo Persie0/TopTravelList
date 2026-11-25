@@ -1,0 +1,15 @@
+id: sight-na-skeleton-coast-national-park
+name: "Skeleton Coast National Park"
+location:
+  country_code: NA
+  latitude: -19.19
+  longitude: 12.72
+scores:
+  impact: 9.2
+  uniqueness: 9.4
+  significance: 9.0
+  experience: 8.5
+  depth: 8.9
+  categories:
+    nature: 9.4
+    photography: 9.3
