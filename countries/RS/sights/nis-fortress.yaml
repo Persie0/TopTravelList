@@ -1,0 +1,15 @@
+id: sight-rs-nis-fortress
+name: "Niš Fortress"
+location:
+  country_code: RS
+  latitude: 43.326
+  longitude: 21.895
+scores:
+  impact: 8.5
+  uniqueness: 8.5
+  significance: 8.9
+  experience: 8.7
+  depth: 8.5
+  categories:
+    architecture: 9.0
+    history: 9.2

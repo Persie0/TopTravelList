@@ -1,0 +1,15 @@
+id: sight-rs-banjska-stena
+name: "Banjska Stena viewpoint"
+location:
+  country_code: RS
+  latitude: 43.967
+  longitude: 19.399
+scores:
+  impact: 9.0
+  uniqueness: 8.8
+  significance: 8.2
+  experience: 8.7
+  depth: 7.5
+  categories:
+    nature: 9.2
+    photography: 9.4

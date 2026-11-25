@@ -1,0 +1,16 @@
+id: sight-rs-manasija
+name: "Manasija fortified monastery"
+location:
+  country_code: RS
+  latitude: 44.1
+  longitude: 21.47
+scores:
+  impact: 9.0
+  uniqueness: 9.1
+  significance: 9.2
+  experience: 8.8
+  depth: 8.6
+  categories:
+    architecture: 9.4
+    history: 9.4
+    culture: 9.2

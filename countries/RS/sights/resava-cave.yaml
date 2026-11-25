@@ -1,0 +1,15 @@
+id: sight-rs-resava-cave
+name: "Resava Cave"
+location:
+  country_code: RS
+  latitude: 44.066
+  longitude: 21.628
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 8.5
+  experience: 8.7
+  depth: 8.1
+  categories:
+    nature: 9.2
+    photography: 9.1

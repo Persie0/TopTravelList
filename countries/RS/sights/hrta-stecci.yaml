@@ -1,0 +1,15 @@
+id: sight-rs-hrta-stecci
+name: "Grčko groblje, Hrta"
+location:
+  country_code: RS
+  latitude: 43.298889
+  longitude: 19.624444
+scores:
+  impact: 8.0
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 8.0
+  depth: 7.5
+  categories:
+    history: 9.2
+    culture: 8.9

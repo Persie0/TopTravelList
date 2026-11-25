@@ -1,0 +1,15 @@
+id: sight-rs-viminacium
+name: "Viminacium archaeological park"
+location:
+  country_code: RS
+  latitude: 44.735
+  longitude: 21.226
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 9.2
+  experience: 8.7
+  depth: 8.9
+  categories:
+    history: 9.4
+    architecture: 8.9

@@ -1,0 +1,15 @@
+id: city-rs-sombor
+name: "Sombor"
+location:
+  country_code: RS
+  latitude: 45.774
+  longitude: 19.115
+scores:
+  impact: 8.3
+  uniqueness: 8.3
+  significance: 8.2
+  experience: 8.5
+  depth: 8.1
+  categories:
+    architecture: 8.9
+    culture: 8.7
