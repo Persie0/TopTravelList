@@ -450,4 +450,3 @@
 - Approved 10 registry: none.
 - Final decision: Provisional absolute worldwide judgment; Short walks and views; Small central area, not wider Galyat.
 - Verification still needed: current access, coordinates and material fact checks, plus live peer YAML comparisons.
-
