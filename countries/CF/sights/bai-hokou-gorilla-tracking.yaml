@@ -1,0 +1,16 @@
+id: sight-cf-bai-hokou-gorilla-tracking
+name: "Bai Hokou Gorilla Tracking"
+location:
+  country_code: CF
+  latitude: 2.90
+  longitude: 16.40
+scores:
+  impact: 9.2
+  uniqueness: 9.4
+  significance: 9.1
+  experience: 8.9
+  depth: 7.8
+  categories:
+    wildlife: 9.6
+    adventure: 9.1
+    nature: 9.3

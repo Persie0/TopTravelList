@@ -1,0 +1,15 @@
+id: sight-cf-manovo-gounda-st-floris-national-park
+name: "Manovo-Gounda St Floris National Park"
+location:
+  country_code: CF
+  latitude: 9
+  longitude: 21.5
+scores:
+  impact: null
+  uniqueness: 9.1
+  significance: 9.4
+  experience: null
+  depth: null
+  categories:
+    nature: 9.4
+    wildlife: 9.3
