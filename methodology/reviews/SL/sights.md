@@ -2,6 +2,9 @@
 
 [Worldwide v2](../../../rules.md) · [Future-country workflow](../../future-country-workflow.md). 2026-11-25. [UNESCO country inventory](https://whc.unesco.org/en/statesparties/sl) confirms one inscribed property and four tentative properties. All are represented; each Gola–Tiwai component also has an entry. Parent and component ratings are not additive. Four component points checked against UNESCO map table; the serial property's representative point is Tiwai, not its extent. Western Area park uses the tentative submission reference; Old Fourah Bay College, Bunce and King's Yards submissions have ambiguous coordinate formatting, interpreted as decimal minutes for provisional points only. Other GPS points approximate and not independently verified. Peer sets are shared provisional type comparisons; all claims beyond stated source support remain unverified. Visitor access, conservation and permissions may change.
 
+
+Follow-up 2026-11-25: four formerly editorial-only records now have sources; no complete factual verification claimed. [National monuments inventory](https://sierraleoneheritage.org/v12.6/sites/monuments/) identifies gaps including St John's Maroon Church, St Charles' Church, Old Wharf Steps, Martello Tower, De Ruyter Stone and other monuments. [Special Court](https://rscsl.org/peace-museum/visit-the-peace-museum/) confirms a visitable Peace Museum absent from this initial inventory. Add individually when representative points and scope are verified.
+
 ## sight-sl-gola-tiwai-complex-serial-world-heritage-property — Gola-Tiwai Complex (serial World Heritage property) — 2026-11-25
 
 - [YAML](../../../countries/SL/sights/gola-tiwai-complex-serial-world-heritage-property.yaml) · Action: new · **unassessed**.
@@ -16,10 +19,12 @@
 - Significance 9.6: international biodiversity importance.
 - Experience null: separate regulated visits.
 - Depth null: aggregate route scope unresolved.
-- Categories: nature:9.6, wildlife:9.6. Overall: unranked.
-- High-score challenge: Significance, nature and wildlife 9.6 reflect internationally important threatened Upper Guinean forest and fauna; unlike a single park such as Khao Sok the serial property requires separate visitor scope.. No approved 10.
+- Categories: nature:9.6, wildlife:null. Overall: unranked.
+- High-score challenge: Significance and nature 9.6 supported by internationally important Upper Guinean forest and fauna. Wildlife visitor category unassessed. No approved 10.
 - Evidence: [Reference](https://whc.unesco.org/en/list/1746) — UNESCO confirms 2025 inscription and four components; page or search excerpt inspected 2026-11-25. Not complete claim-level verification.
 - Remaining gaps: Ordinary permitted visitor experience and route scope not established.
+- Reassessment 2026-11-25: wildlife 9.6 → null; separate forest blocks and island do not establish a coherent aggregate visitor opportunity. [UNESCO](https://whc.unesco.org/en/list/1746/) supports significance and nature 9.6, independently of wildlife observation. Compare Taï (Côte d’Ivoire), Bwindi (Uganda), Kinabatangan (Malaysia), and Khao Sok (Thailand): exceptional biodiversity does not guarantee equivalent visitor routes or sightings.
+
 
 ## sight-sl-gola-rainforest-national-park — Gola Rainforest National Park — 2026-11-25
 
@@ -54,10 +59,12 @@
 - Significance 9.4: international conservation value.
 - Experience 8.8: guided trails and camping.
 - Depth 8.3: bounded island.
-- Categories: nature:9.4, wildlife:9.5. Overall: 89.70/100.
-- High-score challenge: Wildlife 9.5 reflects unusually rich primate and pygmy hippo habitat, not guaranteed sightings; compared with Khao Sok, island routes are geographically smaller.. No approved 10.
+- Categories: nature:9.4, wildlife:9.3. Overall: 89.70/100.
+- High-score challenge: Not applicable after wildlife reassessment. No approved 10.
 - Evidence: [Reference](https://www.tiwaiisland.org/) — Sanctuary operator confirms community-led tourism; UNESCO https://whc.unesco.org/en/list/1746/maps/ confirms component coordinates; https://tourismsierraleone.com/ confirms primate and hippo habitat; page or search excerpt inspected 2026-11-25. Not complete claim-level verification.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access and individual peer/category calibration.
+- Reassessment 2026-11-25: wildlife 9.5 → 9.3. [Sanctuary](https://www.tiwaiisland.org/) and [national tourism board](https://tourismsierraleone.com/stories/top-5-reasons-to-visit-tiwai/) support rich primate diversity and guided excursions; [2026 visitor guide](https://www.journal.travel/en/guides/guided-forest-walks-and-practical-planning-for-tiwai-island) confirms elusive pygmy hippos. Compared with Bwindi, Kibale, Kinabatangan and Corcovado, exceptional primate habitat but insufficient evidence of world-elite breadth/reliability of visitor sightings. Overall 89.70 unchanged.
+
 
 ## sight-sl-gola-south-unesco-component — Gola South (UNESCO component) — 2026-11-25
 
@@ -77,6 +84,8 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Reference](https://golarainforest.org/visiting-gola) — Park operator describes Gola South trek; UNESCO component table https://whc.unesco.org/en/list/1746/maps/; page or search excerpt inspected 2026-11-25. Not complete claim-level verification.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access and individual peer/category calibration.
+- [Park operator](https://golarainforest.org/visiting-gola) explicitly documents a three-day Gola South trek to Tiwai; scope confirmed without borrowing the entire park rating.
+
 
 ## sight-sl-gola-central-unesco-component — Gola Central (UNESCO component) — 2026-11-25
 
@@ -96,6 +105,8 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Reference](https://golarainforest.org/visiting-gola) — Park operator describes central trek to Morro River; UNESCO component table https://whc.unesco.org/en/list/1746/maps/; page or search excerpt inspected 2026-11-25. Not complete claim-level verification.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access and individual peer/category calibration.
+- [Park operator](https://golarainforest.org/visiting-gola) explicitly documents a Gola Central trek to the Morro River; scope confirmed, not the whole forest.
+
 
 ## sight-sl-gola-north-unesco-component — Gola North (UNESCO component) — 2026-11-25
 
@@ -134,6 +145,8 @@
 - High-score challenge: Significance 9.6 and history 9.7 reflect direct material evidence of Atlantic enslavement and links with the Americas; less architectural depth than Elmina Castle or major fort complexes.. No approved 10.
 - Evidence: [Reference](https://whc.unesco.org/en/tentativelists/5745/) — 2012 state submission documents trading station and slavery history; https://nib.gov.sl/diverse-tourism-attractions/ identifies heritage excursions; page or search excerpt inspected 2026-11-25. Not complete claim-level verification.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access and individual peer/category calibration.
+- Follow-up: [UNESCO tentative submission](https://whc.unesco.org/en/tentativelists/5745/) supports transatlantic slave-trade history. Compare Gorée (Senegal), Elmina and Cape Coast (Ghana), and Kunta Kinteh Island (Gambia): direct historical evidence and distinctive connections to North America warrant significance 9.6/history 9.7, but ruined fabric and bounded visit constrain impact and depth. No new 10.
+
 
 ## sight-sl-western-area-peninsula-national-park — Western Area Peninsula National Park — 2026-11-25
 
@@ -172,6 +185,8 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Reference](https://whc.unesco.org/en/tentativelists/5744/) — 2012 state submission describes original educational building; visitor access unknown; page or search excerpt inspected 2026-11-25. Not complete claim-level verification.
 - Remaining gaps: Ordinary permitted visitor experience and route scope not established.
+- [Heritage register](https://sierraleoneheritage.org/sites/monuments/oldfourahbay) and [site description](https://www.atlasobscura.com/places/old-fourah-bay-college) support historical identity and fire-damaged fabric. Keep unranked; current public access and coordinates need reconciliation.
+
 
 ## sight-sl-gateway-to-the-old-king-s-yards — Gateway to the Old King's Yards — 2026-11-25
 
@@ -574,7 +589,7 @@
 
 ## sight-sl-cotton-tree-historic-site — Cotton Tree Historic Site — 2026-11-25
 
-- [YAML](../../../countries/SL/sights/cotton-tree-historic-site.yaml) · Action: new · **editorial-only**.
+- [YAML](../../../countries/SL/sights/cotton-tree-historic-site.yaml) · Action: new · **source-linked-unverified**.
 - Scope: site of historic tree rather than standing tree. GPS 8.487, -13.235: approximate editorial point, verification pending.
 - Worldwide peers (I/U/S/E/D):
   - [Angkor Wat (KH)](../../../countries/KH/sights/angkor-wat.yaml) — 10.0 / 10.0 / 10.0 / 9.8 / 9.5 (99.20/100); upper anchor; lower impact (commemorative urban setting), lower uniqueness (Krio civic symbolism), lower significance (national founding heritage), lower experience (brief reflective stop), lower depth (single location).
@@ -588,12 +603,12 @@
 - Depth 5.3: single location.
 - Categories: history:9.1, culture:8.5. Overall: 72.10/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked destination-specific source; editorial only.
+- Evidence: [National tourism board](https://tourismsierraleone.com/attractions/cotton-tree/) and [ABC reporting](https://www.abc.net.au/news/2023-05-26/sierra-leone-loses-historic-tree-symbol-freedom-rainstorm/102395116) confirm the tree fell in May 2023. [2026 heritage account](https://sierraleone.africanindependence.com/heritage-item/the-cotton-tree-and-the-founding-of-freetown/) confirms the standing tree is no longer the visitor subject; no completed new memorial assumed. Reviewed 2026-11-25; originally editorial-only.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access and individual peer/category calibration.
 
 ## sight-sl-st-george-s-cathedral-freetown — St George's Cathedral (Freetown) — 2026-11-25
 
-- [YAML](../../../countries/SL/sights/st-george-s-cathedral-freetown.yaml) · Action: new · **editorial-only**.
+- [YAML](../../../countries/SL/sights/st-george-s-cathedral-freetown.yaml) · Action: new · **source-linked-unverified**.
 - Scope: church building and permitted precinct. GPS 8.488, -13.236: approximate editorial point, verification pending.
 - Worldwide peers (I/U/S/E/D):
   - [Angkor Wat (KH)](../../../countries/KH/sights/angkor-wat.yaml) — 10.0 / 10.0 / 10.0 / 9.8 / 9.5 (99.20/100); upper anchor; lower impact (historic church architecture), lower uniqueness (Krio religious heritage), lower significance (regional ecclesiastical history), lower experience (focused visit), lower depth (single building).
@@ -607,7 +622,7 @@
 - Depth 6.4: single building.
 - Categories: architecture:8.2, history:8.5. Overall: 73.65/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked destination-specific source; editorial only.
+- Evidence: [Ministry cultural heritage register](https://tourism.gov.sl/cultural-heritage/) supports ecclesiastical and regional historical importance; public opening conditions not checked. Reviewed 2026-11-25; originally editorial-only.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access and individual peer/category calibration.
 
 ## sight-sl-gbawuria-hill — Gbawuria Hill — 2026-11-25
