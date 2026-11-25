@@ -1,0 +1,16 @@
+id: sight-ye-arher-beach
+name: "Arher Beach and Dunes"
+location:
+  country_code: YE
+  latitude: 12.55
+  longitude: 54.45
+scores:
+  impact: 9.1
+  uniqueness: 8.8
+  significance: 7.7
+  experience: 8.6
+  depth: 7.6
+  categories:
+    nature: 9.0
+    beaches: 8.8
+    photography: 9.3

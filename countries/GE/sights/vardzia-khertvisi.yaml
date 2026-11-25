@@ -1,0 +1,17 @@
+id: sight-ge-vardzia-khertvisi
+name: "Vardzia-Khertvisi Cultural Landscape"
+location:
+  country_code: GE
+  latitude: 41.4
+  longitude: 43.333333
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 8.8
+  experience: 8.7
+  depth: 8.8
+  categories:
+    architecture: 9.0
+    history: 9.0
+    nature: 8.6
+    photography: 9.2

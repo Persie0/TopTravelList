@@ -1,0 +1,17 @@
+id: city-az-baku
+name: "Baku"
+location:
+  country_code: AZ
+  latitude: 40.4093
+  longitude: 49.8671
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 8.6
+  experience: 8.9
+  depth: 9.1
+  categories:
+    architecture: 9.3
+    culture: 8.9
+    food: 8.8
+    photography: 9.1

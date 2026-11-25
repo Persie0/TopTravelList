@@ -1,0 +1,15 @@
+id: sight-pk-taxila
+name: "Taxila Archaeological Sites"
+location:
+  country_code: PK
+  latitude: 33.779
+  longitude: 72.818
+scores:
+  impact: 8.6
+  uniqueness: 9.1
+  significance: 9.3
+  experience: 8.4
+  depth: 9.0
+  categories:
+    history: 9.4
+    culture: 9.0

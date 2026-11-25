@@ -2,7 +2,7 @@
 
 # Saint Kitts and Nevis (KN) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**11 ranked** · **0 unassessed** · **11 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,21 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (11)
 
-No cities, towns & villages have been assessed for **Saint Kitts and Nevis** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Charlestown](cities/charlestown.yaml) | City / town | **82.05** | **History 9.1**, **Architecture 8.9**, **Culture 8.8** | 7.9 / 8.6 / 8.7 / 8.1 / 7.3 | [17.137, -62.625](https://www.google.com/maps/search/?api=1&query=17.137,-62.625) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Charlestown%2C%20Saint%20Kitts%20and%20Nevis) |
+| 2 | [Basseterre](cities/basseterre.yaml) | City / town | **80.55** | **History 8.8**, **Culture 8.7**, **Architecture 8.4**, Food 8.3 | 7.7 / 8.1 / 8.4 / 8.2 / 8.1 | [17.2948, -62.7261](https://www.google.com/maps/search/?api=1&query=17.2948,-62.7261) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Basseterre%2C%20Saint%20Kitts%20and%20Nevis) |
+| 3 | [Old Road Town](cities/old-road-town.yaml) | Town | **75.80** | **History 8.9**, **Culture 8.5**, **Photography 8.0** | 7.1 / 8.0 / 8.3 / 7.6 / 6.5 | [17.314, -62.801](https://www.google.com/maps/search/?api=1&query=17.314,-62.801) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Old%20Road%20Town%2C%20Saint%20Kitts%20and%20Nevis) |
+| 4 | [Dieppe Bay Town](cities/dieppe-bay-town.yaml) | Town | **73.05** | **Photography 8.3**, **Culture 8.1** | 7.2 / 7.8 / 7.2 / 7.5 / 6.3 | [17.414, -62.813](https://www.google.com/maps/search/?api=1&query=17.414,-62.813) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Dieppe%20Bay%20Town%2C%20Saint%20Kitts%20and%20Nevis) |
+| 5 | [Bath Village](cities/bath-village.yaml) | Village | **72.80** | **History 8.4**, **Culture 8.2** | 6.8 / 7.8 / 7.8 / 7.4 / 6.2 | [17.126, -62.622](https://www.google.com/maps/search/?api=1&query=17.126,-62.622) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bath%20Village%2C%20Saint%20Kitts%20and%20Nevis) |
+| 6 | [Sandy Point Town](cities/sandy-point-town.yaml) | Town | **72.60** | **History 8.3**, **Culture 8.1**, **Photography 7.8** | 6.9 / 7.6 / 7.7 / 7.4 / 6.4 | [17.362, -62.849](https://www.google.com/maps/search/?api=1&query=17.362,-62.849) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sandy%20Point%20Town%2C%20Saint%20Kitts%20and%20Nevis) |
+| 7 | [Frigate Bay](cities/frigate-bay.yaml) | City / town | **71.95** | **Nightlife 8.8**, **Relaxation 8.5**, **Food 8.4** | 7.3 / 7.0 / 6.0 / 8.5 / 7.8 | [17.286, -62.684](https://www.google.com/maps/search/?api=1&query=17.286,-62.684) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Frigate%20Bay%2C%20Saint%20Kitts%20and%20Nevis) |
+| 7 | [Gingerland](cities/gingerland.yaml) | City / town | **71.95** | **Culture 8.2**, **Photography 8.1** | 6.9 / 7.6 / 7.2 / 7.5 / 6.6 | [17.116, -62.566](https://www.google.com/maps/search/?api=1&query=17.116,-62.566) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Gingerland%2C%20Saint%20Kitts%20and%20Nevis) |
+| 9 | [Cayon](cities/cayon.yaml) | City / town | **70.65** | **Culture 8.1**, **History 8.1** | 6.6 / 7.3 / 7.5 / 7.4 / 6.5 | [17.35, -62.735](https://www.google.com/maps/search/?api=1&query=17.35,-62.735) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cayon%2C%20Saint%20Kitts%20and%20Nevis) |
+| 10 | [Newcastle](cities/newcastle.yaml) | City / town | **69.05** | **Photography 7.9**, **Culture 7.7** | 6.7 / 7.2 / 6.9 / 7.3 / 6.2 | [17.205, -62.583](https://www.google.com/maps/search/?api=1&query=17.205,-62.583) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Newcastle%2C%20Saint%20Kitts%20and%20Nevis) |
+| 11 | [Tabernacle](cities/tabernacle.yaml) | City / town | **66.15** | **Culture 7.6** | 6.3 / 7.0 / 6.5 / 7.1 / 6.1 | [17.385, -62.761](https://www.google.com/maps/search/?api=1&query=17.385,-62.761) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tabernacle%2C%20Saint%20Kitts%20and%20Nevis) |
 
 ---
 

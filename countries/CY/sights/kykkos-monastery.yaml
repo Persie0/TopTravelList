@@ -1,0 +1,16 @@
+id: sight-cy-kykkos-monastery
+name: "Kykkos Monastery"
+location:
+  country_code: CY
+  latitude: 34.983
+  longitude: 32.741
+scores:
+  impact: 8.3
+  uniqueness: 8.3
+  significance: 8.6
+  experience: 8.3
+  depth: 7.7
+  categories:
+    architecture: 8.7
+    culture: 8.8
+    history: 8.7

@@ -1,0 +1,16 @@
+id: sight-dm-syndicate-nature-trail
+name: "Syndicate Nature Trail"
+location:
+  country_code: DM
+  latitude: 15.522
+  longitude: -61.421
+scores:
+  impact: 8.0
+  uniqueness: 8.5
+  significance: 7.9
+  experience: 8.5
+  depth: 7.1
+  categories:
+    wildlife: 9.0
+    nature: 8.9
+    adventure: 8.3

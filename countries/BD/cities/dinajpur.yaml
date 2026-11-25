@@ -1,0 +1,15 @@
+id: city-bd-dinajpur
+name: "Dinajpur"
+location:
+  country_code: BD
+  latitude: 25.6279
+  longitude: 88.6332
+scores:
+  impact: 6.7
+  uniqueness: 7.3
+  significance: 7.6
+  experience: 7.4
+  depth: 6.8
+  categories:
+    history: 8.1
+    culture: 7.9

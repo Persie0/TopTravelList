@@ -1,0 +1,15 @@
+id: sight-bb-cattlewash-beach
+name: "Cattlewash Beach"
+location:
+  country_code: BB
+  latitude: 13.229
+  longitude: -59.533
+scores:
+  impact: 8.6
+  uniqueness: 8.2
+  significance: 6.0
+  experience: 7.7
+  depth: 7.0
+  categories:
+    photography: 9.0
+    beaches: 8.6

@@ -1,0 +1,16 @@
+id: sight-tt-tobago-main-ridge-forest-reserve
+name: "Tobago Main Ridge Forest Reserve"
+location:
+  country_code: TT
+  latitude: 11.275
+  longitude: -60.609
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 9.2
+  experience: 8.7
+  depth: 8.8
+  categories:
+    nature: 9.3
+    wildlife: 9.3
+    adventure: 8.8

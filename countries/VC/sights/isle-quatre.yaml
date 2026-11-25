@@ -1,0 +1,14 @@
+id: sight-vc-isle-quatre
+name: "Isle Quatre"
+location:
+  country_code: VC
+  latitude: 12.954817
+  longitude: -61.250483
+scores:
+  impact: null
+  uniqueness: null
+  significance: 7.2
+  experience: null
+  depth: null
+  categories:
+    nature: 8.2

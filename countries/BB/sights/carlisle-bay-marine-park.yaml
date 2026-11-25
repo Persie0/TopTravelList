@@ -1,0 +1,16 @@
+id: sight-bb-carlisle-bay-marine-park
+name: "Carlisle Bay Marine Park"
+location:
+  country_code: BB
+  latitude: 13.085
+  longitude: -59.615
+scores:
+  impact: 8.6
+  uniqueness: 8.6
+  significance: 7.7
+  experience: 9.0
+  depth: 8.3
+  categories:
+    adventure: 9.3
+    wildlife: 9.0
+    nature: 8.8

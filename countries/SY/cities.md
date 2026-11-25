@@ -2,7 +2,7 @@
 
 # Syria (SY) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**7 ranked** · **3 unassessed** · **10 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,27 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (7)
 
-No cities, towns & villages have been assessed for **Syria** yet.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Damascus](cities/damascus.yaml) | City / town | **89.60** | **History 9.4**, **Culture 9.2**, **Architecture 9.1**, Food 8.7 | 8.9 / 9.1 / 9.3 / 8.5 / 8.8 | [33.5138, 36.2765](https://www.google.com/maps/search/?api=1&query=33.5138,36.2765) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Damascus%2C%20Syria) |
+| 2 | [Aleppo](cities/aleppo.yaml) | City / town | **86.10** | **History 9.2**, **Architecture 9.0**, **Culture 8.8**, Food 8.7 | 8.6 / 8.8 / 9.1 / 8.0 / 8.1 | [36.2021, 37.1343](https://www.google.com/maps/search/?api=1&query=36.2021,37.1343) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Aleppo%2C%20Syria) |
+| 3 | [Maaloula](cities/maaloula.yaml) | City / town | **83.35** | **Culture 8.9**, **Photography 8.7**, **Architecture 8.6** | 8.4 / 8.8 / 8.5 / 7.9 / 7.3 | [33.845, 36.545](https://www.google.com/maps/search/?api=1&query=33.845,36.545) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Maaloula%2C%20Syria) |
+| 4 | [Bosra](cities/bosra.yaml) | City / town | **80.80** | **History 8.9**, **Architecture 8.6** | 8.0 / 8.2 / 8.7 / 7.8 / 7.2 | [32.518, 36.482](https://www.google.com/maps/search/?api=1&query=32.518,36.482) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bosra%2C%20Syria) |
+| 5 | [Hama](cities/hama.yaml) | City / town | **78.60** | **Architecture 8.2**, **Culture 8.0**, **History 8.0** | 7.9 / 8.1 / 7.9 / 7.7 / 7.3 | [35.1318, 36.7519](https://www.google.com/maps/search/?api=1&query=35.1318,36.7519) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hama%2C%20Syria) |
+| 6 | [Tartus](cities/tartus.yaml) | City / town | **77.25** | **History 8.3**, **Architecture 8.2**, **Relaxation 7.7** | 7.6 / 7.8 / 8.0 / 7.7 / 7.4 | [34.889, 35.8866](https://www.google.com/maps/search/?api=1&query=34.889,35.8866) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tartus%2C%20Syria) |
+| 7 | [Latakia](cities/latakia.yaml) | City / town | **73.50** | **Food 7.7**, **Culture 7.6**, **Relaxation 7.6** | 7.1 / 7.2 / 7.7 / 7.6 / 7.4 | [35.5197, 35.7915](https://www.google.com/maps/search/?api=1&query=35.5197,35.7915) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Latakia%2C%20Syria) |
 
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+## Not yet fully assessed (3)
+
+These destinations have no rank until all five core scores are assessed.
+
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| — | [Homs](cities/homs.yaml) | City / town | **—** | **History 8.0**, **Culture 7.8** | 7.0 / 7.3 / 7.8 / — / — | [34.7324, 36.7137](https://www.google.com/maps/search/?api=1&query=34.7324,36.7137) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Homs%2C%20Syria) |
+| — | [Raqqa](cities/raqqa.yaml) | City / town | **—** | **History 8.7**, **Architecture 7.9** | 7.1 / 7.7 / 8.4 / — / — | [35.95, 39.01](https://www.google.com/maps/search/?api=1&query=35.95,39.01) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Raqqa%2C%20Syria) |
+| — | [Tadmur (Palmyra Town)](cities/tadmur.yaml) | Town | **—** | **History 8.0**, **Culture 7.5** | 6.8 / 7.2 / 7.6 / — / — | [34.56, 38.28](https://www.google.com/maps/search/?api=1&query=34.56,38.28) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tadmur%20%28Palmyra%20Town%29%2C%20Syria) |
 
 ---
 

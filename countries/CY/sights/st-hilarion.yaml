@@ -1,0 +1,16 @@
+id: sight-cy-st-hilarion
+name: "Saint Hilarion Castle"
+location:
+  country_code: CY
+  latitude: 35.312
+  longitude: 33.281
+scores:
+  impact: 8.9
+  uniqueness: 8.7
+  significance: 8.5
+  experience: 8.6
+  depth: 8.0
+  categories:
+    architecture: 8.9
+    history: 8.7
+    photography: 9.2

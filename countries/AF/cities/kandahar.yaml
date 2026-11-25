@@ -1,0 +1,15 @@
+id: city-af-kandahar
+name: "Kandahar"
+location:
+  country_code: AF
+  latitude: 31.629
+  longitude: 65.737
+scores:
+  impact: 7.3
+  uniqueness: 8.1
+  significance: 8.7
+  experience: null
+  depth: null
+  categories:
+    history: 8.8
+    culture: 8.4

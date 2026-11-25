@@ -361,3 +361,13 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [www.gov.uk](https://www.gov.uk/foreign-travel-advice/moldova/regional-risks) — accessed 2026-11-25 (page or search excerpt); possible identity/context reference, not complete claim-level corroboration. Current advisory is a safety constraint; site identity/context [tourism overview](https://moldova.travel/en/a/places-to-visit).
 - Remaining gaps: exact GPS except stated UNESCO points, claim-level corroboration, permitted access and closer field-specific comparisons.
+
+## Follow-up: corroborating the five editorial-only city records — 2026-11-25
+
+- [Bălți](../../../countries/MD/cities/balti.yaml): **source-linked-unverified**. [Local historical and architectural monuments guide](https://aboutmoldova.md/en/view_free.php?id=361) identifies the theatre, historic churches and civic buildings. Existing scores retained; opening hours and GPS not verified.
+- [Orhei](../../../countries/MD/cities/orhei.yaml): **source-linked-unverified**. [Municipality museum description](https://www.orhei.md/index.php?id=1042&l=ro&pag=news) identifies a historic villa housing exhibitions and guided city tours. [Independent town guide](https://moldova.be/en/cities-and-regions/orhei/) distinguishes the town from Old Orhei; the latter's landscape and archaeology are excluded from the city's rating.
+- [Cahul](../../../countries/MD/cities/cahul.yaml): **source-linked-unverified**. [District council visitor information](https://cahul.md/en/Tourist%20Attractions) documents the town's museum and theatre. No credit for remote district attractions; existing provisional rating retained.
+- [Hîncești](../../../countries/MD/cities/hincesti.yaml): **source-linked-unverified**. [Municipal tourism information](https://primariahincesti.md/potential-turistic/) and [national tourism authority](https://turism.gov.md/en/obiective_turistice/conacul-manuc-bey/) document heritage including Manuc Bey estate. Do not count the estate as equivalent to a broad city experience.
+- [Ungheni](../../../countries/MD/cities/ungheni.yaml): **source-linked-unverified**. [Tourism information](https://www.turism.ungheni.md/en/museum-of-history-and-ethnography/) documents local museum; [municipality](https://ungheni.md/obiective-turistice/) describes the railway bridge and explicitly notes that no official document confirming Eiffel's authorship has been found. The bridge is credited as heritage, not unrestricted railway pedestrian access. Existing scores retained.
+
+All five now have relevant supporting sources; complete claim-level and location verification is outstanding. No change to the three unassessed Transnistrian settlements.

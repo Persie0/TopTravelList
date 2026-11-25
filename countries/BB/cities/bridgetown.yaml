@@ -1,0 +1,17 @@
+id: city-bb-bridgetown
+name: "Bridgetown"
+location:
+  country_code: BB
+  latitude: 13.098
+  longitude: -59.615
+scores:
+  impact: 7.7
+  uniqueness: 8.4
+  significance: 8.5
+  experience: 8.2
+  depth: 8.4
+  categories:
+    history: 9.0
+    culture: 8.9
+    architecture: 8.6
+    food: 8.5

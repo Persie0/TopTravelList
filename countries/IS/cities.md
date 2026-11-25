@@ -2,7 +2,7 @@
 
 # Iceland (IS) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**15 ranked** · **0 unassessed** · **15 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,25 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (15)
 
-No cities, towns & villages have been assessed for **Iceland** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Reykjavík](cities/reykjavik.yaml) | City / town | **86.65** | **Culture 9.0**, **Architecture 8.8**, **Food 8.6** | 8.5 / 8.7 / 8.5 / 9.0 / 8.9 | [64.1466, -21.9426](https://www.google.com/maps/search/?api=1&query=64.1466,-21.9426) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Reykjav%C3%ADk%2C%20Iceland) |
+| 2 | [Vestmannaeyjabær (Heimaey)](cities/vestmannaeyjabaer.yaml) | City / town | **83.30** | **History 8.8**, **Photography 8.6**, **Culture 8.5** | 8.2 / 8.7 / 8.3 / 8.3 / 7.9 | [63.441, -20.269](https://www.google.com/maps/search/?api=1&query=63.441,-20.269) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Vestmannaeyjab%C3%A6r%20%28Heimaey%29%2C%20Iceland) |
+| 3 | [Seyðisfjörður](cities/seydisfjordur.yaml) | City / town | **82.35** | **Photography 9.0**, **Architecture 8.7**, **Culture 8.4** | 8.5 / 8.5 / 7.8 / 8.4 / 7.4 | [65.26, -14.01](https://www.google.com/maps/search/?api=1&query=65.26,-14.01) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sey%C3%B0isfj%C3%B6r%C3%B0ur%2C%20Iceland) |
+| 4 | [Ísafjörður](cities/isafjordur.yaml) | City / town | **82.30** | **Photography 8.8**, **Architecture 8.6**, **Culture 8.4** | 8.3 / 8.5 / 8.0 / 8.3 / 7.7 | [66.074, -23.125](https://www.google.com/maps/search/?api=1&query=66.074,-23.125) | [Google Maps](https://www.google.com/maps/search/?api=1&query=%C3%8Dsafj%C3%B6r%C3%B0ur%2C%20Iceland) |
+| 5 | [Stykkishólmur](cities/stykkisholmur.yaml) | City / town | **81.20** | **Photography 8.7**, **Architecture 8.6**, **Culture 8.3** | 8.2 / 8.3 / 7.9 / 8.3 / 7.6 | [65.075, -22.729](https://www.google.com/maps/search/?api=1&query=65.075,-22.729) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Stykkish%C3%B3lmur%2C%20Iceland) |
+| 6 | [Siglufjörður](cities/siglufjordur.yaml) | City / town | **81.10** | **History 8.7**, **Photography 8.6**, **Culture 8.5** | 8.1 / 8.3 / 8.0 / 8.3 / 7.6 | [66.151, -18.908](https://www.google.com/maps/search/?api=1&query=66.151,-18.908) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Siglufj%C3%B6r%C3%B0ur%2C%20Iceland) |
+| 7 | [Akureyri](cities/akureyri.yaml) | City / town | **80.45** | **Relaxation 8.6**, **Culture 8.5**, **Architecture 8.2** | 8.0 / 8.0 / 7.8 / 8.5 / 8.1 | [65.683, -18.11](https://www.google.com/maps/search/?api=1&query=65.683,-18.11) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Akureyri%2C%20Iceland) |
+| 8 | [Húsavík](cities/husavik.yaml) | City / town | **80.20** | **Photography 8.6**, **Culture 8.4**, **Relaxation 8.4** | 8.0 / 8.2 / 7.7 / 8.4 / 7.7 | [66.044, -17.338](https://www.google.com/maps/search/?api=1&query=66.044,-17.338) | [Google Maps](https://www.google.com/maps/search/?api=1&query=H%C3%BAsav%C3%ADk%2C%20Iceland) |
+| 9 | [Vík í Mýrdal](cities/vik.yaml) | City / town | **77.90** | **Photography 8.7**, **Relaxation 8.2** | 8.1 / 8.0 / 7.2 / 8.2 / 6.9 | [63.419, -19.006](https://www.google.com/maps/search/?api=1&query=63.419,-19.006) | [Google Maps](https://www.google.com/maps/search/?api=1&query=V%C3%ADk%20%C3%AD%20M%C3%BDrdal%2C%20Iceland) |
+| 10 | [Djúpivogur](cities/djupivogur.yaml) | City / town | **77.85** | **Photography 8.5**, **Culture 8.1** | 7.8 / 8.0 / 7.6 / 8.1 / 7.1 | [64.657, -14.291](https://www.google.com/maps/search/?api=1&query=64.657,-14.291) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Dj%C3%BApivogur%2C%20Iceland) |
+| 10 | [Hveragerði](cities/hveragerdi.yaml) | City / town | **77.85** | **Relaxation 8.6**, **Nature 8.2** | 7.5 / 8.3 / 7.5 / 8.2 / 7.3 | [64, -21.188](https://www.google.com/maps/search/?api=1&query=64,-21.188) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hverager%C3%B0i%2C%20Iceland) |
+| 12 | [Borgarnes](cities/borgarnes.yaml) | City / town | **77.60** | **History 8.5**, **Culture 8.3** | 7.6 / 7.8 / 8.0 / 8.0 / 7.3 | [64.538, -21.92](https://www.google.com/maps/search/?api=1&query=64.538,-21.92) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Borgarnes%2C%20Iceland) |
+| 13 | [Höfn](cities/hofn.yaml) | City / town | **76.45** | **Food 8.4**, **Photography 8.3** | 7.6 / 7.8 / 7.4 / 8.1 / 7.2 | [64.253, -15.208](https://www.google.com/maps/search/?api=1&query=64.253,-15.208) | [Google Maps](https://www.google.com/maps/search/?api=1&query=H%C3%B6fn%2C%20Iceland) |
+| 14 | [Egilsstaðir](cities/egilsstadir.yaml) | City / town | **72.30** | **Relaxation 7.9**, **Culture 7.7** | 7.0 / 7.2 / 7.2 / 7.8 / 7.2 | [65.267, -14.395](https://www.google.com/maps/search/?api=1&query=65.267,-14.395) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Egilssta%C3%B0ir%2C%20Iceland) |
+| 15 | [Selfoss](cities/selfoss.yaml) | City / town | **72.20** | **Food 8.0**, **Relaxation 7.9** | 7.0 / 7.1 / 7.1 / 7.9 / 7.4 | [63.933, -21](https://www.google.com/maps/search/?api=1&query=63.933,-21) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Selfoss%2C%20Iceland) |
 
 ---
 

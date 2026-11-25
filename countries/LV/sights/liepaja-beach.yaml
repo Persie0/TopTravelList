@@ -1,0 +1,15 @@
+id: sight-lv-liepaja-beach
+name: "Liepāja Beach"
+location:
+  country_code: LV
+  latitude: 56.51
+  longitude: 20.99
+scores:
+  impact: 7.9
+  uniqueness: 7.4
+  significance: 6.9
+  experience: 8.6
+  depth: 7.7
+  categories:
+    beaches: 8.7
+    relaxation: 8.8

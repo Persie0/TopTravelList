@@ -1,0 +1,16 @@
+id: sight-az-sheki-caravanserai
+name: "Sheki Caravanserai"
+location:
+  country_code: AZ
+  latitude: 41.202
+  longitude: 47.195
+scores:
+  impact: 8.2
+  uniqueness: 8.5
+  significance: 8.6
+  experience: 8.4
+  depth: 7.5
+  categories:
+    architecture: 8.9
+    history: 8.9
+    culture: 8.6

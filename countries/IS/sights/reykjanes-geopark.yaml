@@ -1,0 +1,16 @@
+id: sight-is-reykjanes-geopark
+name: "Reykjanes UNESCO Global Geopark"
+location:
+  country_code: IS
+  latitude: 63.88
+  longitude: -22.2
+scores:
+  impact: 9.1
+  uniqueness: 9.2
+  significance: 9.0
+  experience: 8.8
+  depth: 9.2
+  categories:
+    nature: 9.4
+    photography: 9.2
+    adventure: 9.0

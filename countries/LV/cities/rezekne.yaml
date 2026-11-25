@@ -1,0 +1,15 @@
+id: city-lv-rezekne
+name: "Rēzekne"
+location:
+  country_code: LV
+  latitude: 56.51
+  longitude: 27.33
+scores:
+  impact: 7.2
+  uniqueness: 7.6
+  significance: 7.7
+  experience: 7.6
+  depth: 7.5
+  categories:
+    culture: 8.3
+    history: 7.9

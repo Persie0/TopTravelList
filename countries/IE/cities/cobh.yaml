@@ -1,0 +1,16 @@
+id: city-ie-cobh
+name: "Cobh"
+location:
+  country_code: IE
+  latitude: 51.85
+  longitude: -8.295
+scores:
+  impact: 8.5
+  uniqueness: 8.4
+  significance: 8.6
+  experience: 8.5
+  depth: 7.7
+  categories:
+    history: 9.0
+    architecture: 8.8
+    photography: 9.0

@@ -1,0 +1,16 @@
+id: city-gb-stratford-upon-avon
+name: "Stratford-upon-Avon"
+location:
+  country_code: GB
+  latitude: 52.192
+  longitude: -1.707
+scores:
+  impact: 8.3
+  uniqueness: 8.6
+  significance: 8.9
+  experience: 8.6
+  depth: 8.0
+  categories:
+    culture: 9.2
+    history: 8.9
+    architecture: 8.7

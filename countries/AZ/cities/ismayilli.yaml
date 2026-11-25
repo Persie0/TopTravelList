@@ -1,0 +1,15 @@
+id: city-az-ismayilli
+name: "Ismayilli"
+location:
+  country_code: AZ
+  latitude: 40.79
+  longitude: 48.15
+scores:
+  impact: 6.5
+  uniqueness: 6.9
+  significance: 6.5
+  experience: 7.3
+  depth: 6.6
+  categories:
+    culture: 7.5
+    food: 7.6

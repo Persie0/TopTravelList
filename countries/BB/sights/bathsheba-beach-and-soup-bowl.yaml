@@ -1,0 +1,16 @@
+id: sight-bb-bathsheba-beach-and-soup-bowl
+name: "Bathsheba Beach and Soup Bowl"
+location:
+  country_code: BB
+  latitude: 13.212
+  longitude: -59.526
+scores:
+  impact: 9.1
+  uniqueness: 8.8
+  significance: 6.5
+  experience: 8.4
+  depth: 7.6
+  categories:
+    photography: 9.4
+    adventure: 9.4
+    beaches: 8.6

@@ -1,0 +1,14 @@
+id: city-kn-tabernacle
+name: "Tabernacle"
+location:
+  country_code: KN
+  latitude: 17.385
+  longitude: -62.761
+scores:
+  impact: 6.3
+  uniqueness: 7.0
+  significance: 6.5
+  experience: 7.1
+  depth: 6.1
+  categories:
+    culture: 7.6

@@ -1,0 +1,16 @@
+id: sight-sz-summerfield-botanical-garden
+name: "Summerfield Botanical Garden"
+location:
+  country_code: SZ
+  latitude: -26.5000
+  longitude: 31.2420
+scores:
+  impact: 7.5
+  uniqueness: 7.2
+  significance: 6.2
+  experience: 7.9
+  depth: 6.9
+  categories:
+    nature: 8.0
+    relaxation: 8.2
+    photography: 8.0

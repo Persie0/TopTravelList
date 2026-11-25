@@ -1,0 +1,16 @@
+id: sight-bb-andromeda-botanic-gardens
+name: "Andromeda Botanic Gardens"
+location:
+  country_code: BB
+  latitude: 13.208
+  longitude: -59.530
+scores:
+  impact: 8.1
+  uniqueness: 8.4
+  significance: 7.6
+  experience: 8.7
+  depth: 8.0
+  categories:
+    nature: 9.1
+    photography: 9.0
+    relaxation: 8.6

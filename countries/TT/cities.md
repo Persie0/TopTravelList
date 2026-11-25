@@ -2,7 +2,7 @@
 
 # Trinidad and Tobago (TT) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**12 ranked** · **0 unassessed** · **12 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,22 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (12)
 
-No cities, towns & villages have been assessed for **Trinidad and Tobago** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Port of Spain](cities/port-of-spain.yaml) | City / town | **83.55** | **Culture 9.0**, **Food 8.9**, **Architecture 8.5**, Nightlife 8.5 | 8.2 / 8.4 / 8.5 / 8.3 / 8.5 | [10.657, -61.518](https://www.google.com/maps/search/?api=1&query=10.657,-61.518) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Port%20of%20Spain%2C%20Trinidad%20and%20Tobago) |
+| 2 | [Castara](cities/castara.yaml) | City / town | **77.35** | **Photography 8.8**, **Culture 8.6**, **Food 8.4** | 7.8 / 8.2 / 7.0 / 8.3 / 7.0 | [11.28, -60.696](https://www.google.com/maps/search/?api=1&query=11.28,-60.696) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Castara%2C%20Trinidad%20and%20Tobago) |
+| 3 | [Charlotteville](cities/charlotteville.yaml) | City / town | **74.95** | **Photography 8.7**, **Culture 8.1** | 7.6 / 7.9 / 7.0 / 7.8 / 6.7 | [11.321, -60.549](https://www.google.com/maps/search/?api=1&query=11.321,-60.549) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Charlotteville%2C%20Trinidad%20and%20Tobago) |
+| 4 | [Buccoo](cities/buccoo.yaml) | City / town | **73.95** | **Culture 8.6**, **Nightlife 8.4**, **Food 8.0** | 7.3 / 7.7 / 7.3 / 7.8 / 6.5 | [11.18, -60.808](https://www.google.com/maps/search/?api=1&query=11.18,-60.808) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Buccoo%2C%20Trinidad%20and%20Tobago) |
+| 5 | [Scarborough](cities/scarborough.yaml) | City / town | **73.30** | **History 8.1**, **Culture 8.0**, **Photography 8.0** | 7.2 / 7.3 / 7.6 / 7.5 / 7.0 | [11.181, -60.735](https://www.google.com/maps/search/?api=1&query=11.181,-60.735) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Scarborough%2C%20Trinidad%20and%20Tobago) |
+| 6 | [Speyside](cities/speyside.yaml) | City / town | **72.85** | **Photography 8.5**, **Culture 7.9** | 7.4 / 7.7 / 6.8 / 7.6 / 6.4 | [11.299, -60.534](https://www.google.com/maps/search/?api=1&query=11.299,-60.534) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Speyside%2C%20Trinidad%20and%20Tobago) |
+| 7 | [Lopinot](cities/lopinot.yaml) | City / town | **72.75** | **Culture 8.5**, **Food 8.3**, **History 8.1** | 6.9 / 7.8 / 7.5 / 7.5 / 6.3 | [10.694, -61.32](https://www.google.com/maps/search/?api=1&query=10.694,-61.32) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lopinot%2C%20Trinidad%20and%20Tobago) |
+| 8 | [San Fernando](cities/san-fernando.yaml) | City / town | **71.85** | **Food 8.2**, **Culture 8.1** | 6.9 / 7.2 / 7.5 / 7.3 / 7.2 | [10.28, -61.467](https://www.google.com/maps/search/?api=1&query=10.28,-61.467) | [Google Maps](https://www.google.com/maps/search/?api=1&query=San%20Fernando%2C%20Trinidad%20and%20Tobago) |
+| 9 | [Grande Rivière](cities/grande-riviere.yaml) | City / town | **71.25** | **Photography 8.4**, **Culture 8.0** | 7.1 / 7.7 / 6.8 / 7.4 / 6.0 | [10.829, -61.05](https://www.google.com/maps/search/?api=1&query=10.829,-61.05) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Grande%20Rivi%C3%A8re%2C%20Trinidad%20and%20Tobago) |
+| 10 | [Arima](cities/arima.yaml) | City / town | **69.95** | **Culture 8.5**, **History 8.0** | 6.5 / 7.3 / 7.6 / 7.0 / 6.5 | [10.637, -61.282](https://www.google.com/maps/search/?api=1&query=10.637,-61.282) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Arima%2C%20Trinidad%20and%20Tobago) |
+| 11 | [Chaguanas](cities/chaguanas.yaml) | City / town | **69.70** | **Food 8.4**, **Culture 8.2** | 6.5 / 7.3 / 7.0 / 7.5 / 6.7 | [10.516, -61.411](https://www.google.com/maps/search/?api=1&query=10.516,-61.411) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Chaguanas%2C%20Trinidad%20and%20Tobago) |
+| 12 | [Crown Point](cities/crown-point.yaml) | City / town | **67.15** | **Relaxation 8.1**, **Food 8.0**, **Nightlife 7.9** | 6.7 / 6.5 / 6.2 / 7.8 / 6.7 | [11.151, -60.838](https://www.google.com/maps/search/?api=1&query=11.151,-60.838) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Crown%20Point%2C%20Trinidad%20and%20Tobago) |
 
 ---
 

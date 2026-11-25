@@ -1,0 +1,17 @@
+id: sight-ie-dingle-peninsula
+name: "Dingle Peninsula"
+location:
+  country_code: IE
+  latitude: 52.17
+  longitude: -10.36
+scores:
+  impact: 9.3
+  uniqueness: 9.1
+  significance: 8.8
+  experience: 9.2
+  depth: 9.3
+  categories:
+    nature: 9.4
+    photography: 9.4
+    culture: 9.0
+    adventure: 9.0

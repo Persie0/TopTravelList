@@ -1,0 +1,15 @@
+id: city-cy-polis
+name: "Polis Chrysochous"
+location:
+  country_code: CY
+  latitude: 35.035
+  longitude: 32.426
+scores:
+  impact: 7.2
+  uniqueness: 7.1
+  significance: 7.0
+  experience: 7.6
+  depth: 6.9
+  categories:
+    relaxation: 8.0
+    food: 7.6

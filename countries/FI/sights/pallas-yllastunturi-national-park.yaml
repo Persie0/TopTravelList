@@ -1,0 +1,16 @@
+id: sight-fi-pallas-yllastunturi-national-park
+name: "Pallas-Yllästunturi National Park"
+location:
+  country_code: FI
+  latitude: 68.04
+  longitude: 24.06
+scores:
+  impact: 9.1
+  uniqueness: 9.0
+  significance: 8.7
+  experience: 9.3
+  depth: 9.3
+  categories:
+    nature: 9.4
+    adventure: 9.3
+    photography: 9.3

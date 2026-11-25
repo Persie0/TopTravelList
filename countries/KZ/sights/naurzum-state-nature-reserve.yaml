@@ -1,0 +1,15 @@
+id: sight-kz-naurzum-state-nature-reserve
+name: "Naurzum State Nature Reserve"
+location:
+  country_code: KZ
+  latitude: 51.486111
+  longitude: 64.303611
+scores:
+  impact: null
+  uniqueness: 8.7
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    nature: 9.2
+    wildlife: 9.3

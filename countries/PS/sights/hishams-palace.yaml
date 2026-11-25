@@ -1,0 +1,15 @@
+id: sight-ps-hishams-palace
+name: "Hisham's Palace (Khirbet al-Mafjar)"
+location:
+  country_code: PS
+  latitude: 31.881
+  longitude: 35.46
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 8.9
+  experience: 8.4
+  depth: 8.0
+  categories:
+    architecture: 9.1
+    history: 9.0

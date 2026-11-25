@@ -1,0 +1,15 @@
+id: sight-cy-tombs-of-kings
+name: "Tombs of the Kings"
+location:
+  country_code: CY
+  latitude: 34.776
+  longitude: 32.407
+scores:
+  impact: 8.5
+  uniqueness: 8.7
+  significance: 8.7
+  experience: 8.4
+  depth: 7.9
+  categories:
+    history: 8.9
+    architecture: 8.9

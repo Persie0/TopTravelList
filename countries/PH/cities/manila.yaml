@@ -1,0 +1,16 @@
+id: city-ph-manila
+name: "Manila"
+location:
+  country_code: PH
+  latitude: 14.5995
+  longitude: 120.9842
+scores:
+  impact: 8.2
+  uniqueness: 8.5
+  significance: 8.8
+  experience: 8.0
+  depth: 8.7
+  categories:
+    history: 8.9
+    culture: 8.6
+    food: 8.4

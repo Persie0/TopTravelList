@@ -1,0 +1,16 @@
+id: sight-ph-bacuit-bay
+name: "Bacuit Bay"
+location:
+  country_code: PH
+  latitude: 11.15
+  longitude: 119.34
+scores:
+  impact: 9.3
+  uniqueness: 9.2
+  significance: 8.4
+  experience: 9.0
+  depth: 8.6
+  categories:
+    nature: 9.3
+    photography: 9.4
+    adventure: 9.1

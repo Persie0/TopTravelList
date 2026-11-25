@@ -1,0 +1,15 @@
+id: sight-is-gullfoss
+name: "Gullfoss waterfall"
+location:
+  country_code: IS
+  latitude: 64.327
+  longitude: -20.121
+scores:
+  impact: 9.4
+  uniqueness: 9.0
+  significance: 8.6
+  experience: 9.1
+  depth: 8.0
+  categories:
+    nature: 9.3
+    photography: 9.5

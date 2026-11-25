@@ -1,0 +1,15 @@
+id: sight-is-hengifoss
+name: "Hengifoss waterfall"
+location:
+  country_code: IS
+  latitude: 65.095
+  longitude: -14.89
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 8.4
+  experience: 8.6
+  depth: 7.9
+  categories:
+    nature: 9.1
+    photography: 9.3

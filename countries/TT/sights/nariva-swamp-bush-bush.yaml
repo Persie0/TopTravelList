@@ -1,0 +1,16 @@
+id: sight-tt-nariva-swamp-bush-bush
+name: "Nariva Swamp and Bush Bush Wildlife Sanctuary"
+location:
+  country_code: TT
+  latitude: 10.423
+  longitude: -61.045
+scores:
+  impact: 8.1
+  uniqueness: 8.6
+  significance: 8.8
+  experience: 8.1
+  depth: 8.4
+  categories:
+    nature: 9.2
+    wildlife: 9.1
+    adventure: 8.5

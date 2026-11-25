@@ -1,0 +1,16 @@
+id: sight-tt-royal-botanic-gardens
+name: "Royal Botanic Gardens"
+location:
+  country_code: TT
+  latitude: 10.674
+  longitude: -61.515
+scores:
+  impact: 7.9
+  uniqueness: 8.0
+  significance: 8.3
+  experience: 8.1
+  depth: 7.9
+  categories:
+    nature: 8.8
+    history: 8.6
+    relaxation: 8.7

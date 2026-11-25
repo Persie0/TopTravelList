@@ -1,0 +1,16 @@
+id: sight-vc-baradal-turtle-sanctuary
+name: "Baradal Turtle Sanctuary"
+location:
+  country_code: VC
+  latitude: 12.632
+  longitude: -61.356
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 8.3
+  experience: 8.8
+  depth: 7.2
+  categories:
+    wildlife: 9.4
+    nature: 9.1
+    adventure: 9.0

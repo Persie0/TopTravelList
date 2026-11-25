@@ -1,0 +1,16 @@
+id: sight-lv-art-nouveau-district
+name: "Alberta and Elizabetes Streets Art Nouveau Ensemble"
+location:
+  country_code: LV
+  latitude: 56.959
+  longitude: 24.109
+scores:
+  impact: 8.8
+  uniqueness: 9.2
+  significance: 9.0
+  experience: 8.7
+  depth: 8.2
+  categories:
+    architecture: 9.5
+    photography: 9.3
+    history: 8.9

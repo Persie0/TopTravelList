@@ -1,0 +1,15 @@
+id: sight-gb-cardiff-castle
+name: "Cardiff Castle"
+location:
+  country_code: GB
+  latitude: 51.482
+  longitude: -3.182
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 8.8
+  experience: 8.7
+  depth: 8.4
+  categories:
+    architecture: 9.1
+    history: 9.1

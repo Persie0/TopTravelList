@@ -1,0 +1,15 @@
+id: sight-ie-spike-island
+name: "Spike Island fortress and museum"
+location:
+  country_code: IE
+  latitude: 51.834
+  longitude: -8.285
+scores:
+  impact: 8.5
+  uniqueness: 8.7
+  significance: 8.9
+  experience: 8.7
+  depth: 8.6
+  categories:
+    history: 9.2
+    culture: 8.7

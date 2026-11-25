@@ -1,0 +1,15 @@
+id: city-ph-coron-town
+name: "Coron Town"
+location:
+  country_code: PH
+  latitude: 12.0004
+  longitude: 120.2043
+scores:
+  impact: 7.3
+  uniqueness: 7.2
+  significance: 6.7
+  experience: 7.6
+  depth: 6.7
+  categories:
+    nature: 7.7
+    food: 7.4

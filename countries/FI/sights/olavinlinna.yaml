@@ -1,0 +1,16 @@
+id: sight-fi-olavinlinna
+name: "Olavinlinna Castle"
+location:
+  country_code: FI
+  latitude: 61.863
+  longitude: 28.902
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 8.9
+  experience: 8.8
+  depth: 8.4
+  categories:
+    architecture: 9.2
+    history: 9.2
+    photography: 9.3

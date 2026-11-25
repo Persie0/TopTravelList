@@ -1,0 +1,16 @@
+id: sight-gb-dartmoor
+name: "Dartmoor National Park"
+location:
+  country_code: GB
+  latitude: 50.57
+  longitude: -3.95
+scores:
+  impact: 8.7
+  uniqueness: 8.7
+  significance: 8.5
+  experience: 8.8
+  depth: 9.0
+  categories:
+    nature: 9.1
+    history: 8.8
+    adventure: 9.0

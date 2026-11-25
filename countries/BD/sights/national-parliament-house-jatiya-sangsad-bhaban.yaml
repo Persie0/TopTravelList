@@ -1,0 +1,15 @@
+id: sight-bd-national-parliament-house-jatiya-sangsad-bhaban
+name: "National Parliament House (Jatiya Sangsad Bhaban)"
+location:
+  country_code: BD
+  latitude: 23.762
+  longitude: 90.378
+scores:
+  impact: 8.7
+  uniqueness: 9.1
+  significance: 8.7
+  experience: 7.7
+  depth: 7.1
+  categories:
+    architecture: 9.4
+    photography: 9.1

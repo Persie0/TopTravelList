@@ -1,0 +1,16 @@
+id: sight-ph-big-lagoon
+name: "Big Lagoon, Miniloc Island"
+location:
+  country_code: PH
+  latitude: 11.156
+  longitude: 119.324
+scores:
+  impact: 9.1
+  uniqueness: 8.7
+  significance: 7.5
+  experience: 8.6
+  depth: 7.0
+  categories:
+    nature: 9.1
+    photography: 9.3
+    adventure: 8.6

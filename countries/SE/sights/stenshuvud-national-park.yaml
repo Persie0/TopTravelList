@@ -1,0 +1,16 @@
+id: sight-se-stenshuvud-national-park
+name: "Stenshuvud National Park"
+location:
+  country_code: SE
+  latitude: 55.65
+  longitude: 14.27
+scores:
+  impact: 8.1
+  uniqueness: 8.0
+  significance: 7.8
+  experience: 8.5
+  depth: 7.8
+  categories:
+    nature: 8.7
+    beaches: 8.5
+    photography: 8.7

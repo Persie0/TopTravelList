@@ -1,0 +1,15 @@
+id: sight-ps-maqamat
+name: "Maqamat (Shrines) in Palestine"
+location:
+  country_code: PS
+  latitude: 31.786389
+  longitude: 35.431667
+scores:
+  impact: 8.1
+  uniqueness: 8.7
+  significance: 8.9
+  experience: null
+  depth: null
+  categories:
+    culture: 9.0
+    history: 9.0

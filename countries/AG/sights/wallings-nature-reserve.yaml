@@ -1,0 +1,16 @@
+id: sight-ag-wallings-nature-reserve
+name: "Wallings Nature Reserve"
+location:
+  country_code: AG
+  latitude: 17.047
+  longitude: -61.825
+scores:
+  impact: 8.1
+  uniqueness: 8.1
+  significance: 7.6
+  experience: 8.2
+  depth: 7.7
+  categories:
+    nature: 8.8
+    adventure: 8.6
+    photography: 8.5

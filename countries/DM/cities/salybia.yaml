@@ -1,0 +1,15 @@
+id: city-dm-salybia
+name: "Salybia"
+location:
+  country_code: DM
+  latitude: 15.492
+  longitude: -61.256
+scores:
+  impact: 6.9
+  uniqueness: 8.4
+  significance: 8.0
+  experience: 7.6
+  depth: 6.4
+  categories:
+    culture: 9.1
+    history: 8.6
