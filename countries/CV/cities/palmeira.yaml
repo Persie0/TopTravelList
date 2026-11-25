@@ -1,0 +1,15 @@
+id: city-cv-palmeira
+name: "Palmeira"
+location:
+  country_code: CV
+  latitude: 16.7530
+  longitude: -22.9770
+scores:
+  impact: 6.7
+  uniqueness: 7.1
+  significance: 6.5
+  experience: 7.4
+  depth: 6.2
+  categories:
+    culture: 7.6
+    food: 7.6

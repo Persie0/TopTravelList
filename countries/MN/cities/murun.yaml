@@ -1,0 +1,15 @@
+id: city-mn-murun
+name: "Murun"
+location:
+  country_code: MN
+  latitude: 49.635
+  longitude: 100.162
+scores:
+  impact: 6.5
+  uniqueness: 6.9
+  significance: 6.8
+  experience: 7.3
+  depth: 6.9
+  categories:
+    culture: 7.4
+    food: 7.4

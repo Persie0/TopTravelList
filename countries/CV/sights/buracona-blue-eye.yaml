@@ -1,0 +1,15 @@
+id: sight-cv-buracona-blue-eye
+name: "Buracona (Blue Eye)"
+location:
+  country_code: CV
+  latitude: 16.7890
+  longitude: -22.9820
+scores:
+  impact: 8.5
+  uniqueness: 8.7
+  significance: 6.4
+  experience: 8.0
+  depth: 6.1
+  categories:
+    nature: 8.6
+    photography: 9.1

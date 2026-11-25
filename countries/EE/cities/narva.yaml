@@ -1,0 +1,16 @@
+id: city-ee-narva
+name: "Narva"
+location:
+  country_code: EE
+  latitude: 59.379
+  longitude: 28.19
+scores:
+  impact: 7.7
+  uniqueness: 8.4
+  significance: 8.4
+  experience: 7.8
+  depth: 7.8
+  categories:
+    history: 8.7
+    architecture: 7.7
+    culture: 8

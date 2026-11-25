@@ -1,0 +1,15 @@
+id: sight-md-chateau-vartely-estate
+name: "Château Vartely Estate"
+location:
+  country_code: MD
+  latitude: 47.3878
+  longitude: 28.8230
+scores:
+  impact: 7.4
+  uniqueness: 7.5
+  significance: 7.0
+  experience: 8.4
+  depth: 7.4
+  categories:
+    food: 8.8
+    culture: 8.2

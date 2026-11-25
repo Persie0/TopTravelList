@@ -1,0 +1,16 @@
+id: sight-tl-valu-beach-tutuala-beach
+name: "Valu Beach (Tutuala Beach)"
+location:
+  country_code: TL
+  latitude: -8.3922
+  longitude: 127.2578
+scores:
+  impact: 8.5
+  uniqueness: 8.4
+  significance: 7.0
+  experience: 8.3
+  depth: 6.9
+  categories:
+    beaches: 9.0
+    photography: 9.0
+    relaxation: 8.5

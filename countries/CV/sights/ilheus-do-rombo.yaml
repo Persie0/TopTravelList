@@ -1,0 +1,15 @@
+id: sight-cv-ilheus-do-rombo
+name: "Ilheus do Rombo"
+location:
+  country_code: CV
+  latitude: 14.9670
+  longitude: -24.6530
+scores:
+  impact: null
+  uniqueness: null
+  significance: 8.1
+  experience: null
+  depth: null
+  categories:
+    nature: 8.5
+    wildlife: 8.7

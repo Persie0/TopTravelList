@@ -1,0 +1,16 @@
+id: city-lu-echternach
+name: "Echternach"
+location:
+  country_code: LU
+  latitude: 49.8130
+  longitude: 6.4210
+scores:
+  impact: 8.0
+  uniqueness: 8.2
+  significance: 8.5
+  experience: 8.3
+  depth: 7.9
+  categories:
+    history: 8.9
+    culture: 8.9
+    architecture: 8.6

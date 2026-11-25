@@ -1,0 +1,15 @@
+id: city-gm-brikama
+name: "Brikama"
+location:
+  country_code: GM
+  latitude: 13.2710
+  longitude: -16.6490
+scores:
+  impact: 6.3
+  uniqueness: 7.0
+  significance: 6.8
+  experience: 7.4
+  depth: 6.6
+  categories:
+    culture: 8.0
+    food: 7.7

@@ -1,0 +1,14 @@
+id: sight-mk-dlaboka-reka-beech-forest-component
+name: "Dlaboka Reka Beech Forest Component"
+location:
+  country_code: MK
+  latitude: 41.764
+  longitude: 20.591
+scores:
+  impact: 8.3
+  uniqueness: 8.8
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    nature: 9.4

@@ -1,0 +1,16 @@
+id: sight-mc-larvotto-beach
+name: "Larvotto Beach"
+location:
+  country_code: MC
+  latitude: 43.7460
+  longitude: 7.4355
+scores:
+  impact: 7.5
+  uniqueness: 7.0
+  significance: 6.1
+  experience: 8.6
+  depth: 7.3
+  categories:
+    beaches: 8.6
+    relaxation: 8.6
+    family: 8.3

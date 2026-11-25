@@ -1,0 +1,15 @@
+id: sight-uz-khudayar-khan-palace
+name: "Khudayar Khan Palace"
+location:
+  country_code: UZ
+  latitude: 40.535
+  longitude: 70.937
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 8.7
+  experience: 8.6
+  depth: 8.2
+  categories:
+    architecture: 9.2
+    history: 9.0

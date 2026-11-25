@@ -1,0 +1,15 @@
+id: sight-ae-coastal-fortified-network-of-south-eastern-arabia
+name: "Coastal Fortified Network of South Eastern Arabia"
+location:
+  country_code: AE
+  latitude: 25.88
+  longitude: 56.05
+scores:
+  impact: null
+  uniqueness: 8.7
+  significance: 9.1
+  experience: null
+  depth: null
+  categories:
+    history: 9.3
+    architecture: 8.9

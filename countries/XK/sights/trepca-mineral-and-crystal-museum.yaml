@@ -1,0 +1,15 @@
+id: sight-xk-trepca-mineral-and-crystal-museum
+name: "Trepça Mineral and Crystal Museum"
+location:
+  country_code: XK
+  latitude: 42.9510
+  longitude: 20.9150
+scores:
+  impact: 7.5
+  uniqueness: 8.4
+  significance: 8.2
+  experience: 8.1
+  depth: 7.4
+  categories:
+    nature: 8.8
+    history: 8.6

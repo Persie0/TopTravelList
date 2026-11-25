@@ -1,0 +1,16 @@
+id: city-mt-marsaxlokk
+name: "Marsaxlokk"
+location:
+  country_code: MT
+  latitude: 35.8419
+  longitude: 14.5431
+scores:
+  impact: 8.2
+  uniqueness: 8.4
+  significance: 7.7
+  experience: 8.5
+  depth: 7.5
+  categories:
+    photography: 9.1
+    food: 8.8
+    culture: 8.6

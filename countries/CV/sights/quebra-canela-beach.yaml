@@ -1,0 +1,15 @@
+id: sight-cv-quebra-canela-beach
+name: "Quebra Canela Beach"
+location:
+  country_code: CV
+  latitude: 14.8990
+  longitude: -23.5140
+scores:
+  impact: 7.6
+  uniqueness: 6.8
+  significance: 5.7
+  experience: 8.2
+  depth: 6.8
+  categories:
+    beaches: 8.0
+    relaxation: 8.2

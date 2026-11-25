@@ -1,0 +1,15 @@
+id: sight-ae-burj-khalifa
+name: "Burj Khalifa"
+location:
+  country_code: AE
+  latitude: 25.1972
+  longitude: 55.2744
+scores:
+  impact: 9.6
+  uniqueness: 9.7
+  significance: 8.8
+  experience: 9.2
+  depth: 7.8
+  categories:
+    architecture: 9.8
+    photography: 9.7

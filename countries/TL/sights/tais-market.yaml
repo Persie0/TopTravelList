@@ -1,0 +1,15 @@
+id: sight-tl-tais-market
+name: "Tais Market"
+location:
+  country_code: TL
+  latitude: -8.552
+  longitude: 125.575
+scores:
+  impact: 7.4
+  uniqueness: 8.0
+  significance: 7.7
+  experience: 8.4
+  depth: 6.8
+  categories:
+    culture: 8.7
+    food: 6.8

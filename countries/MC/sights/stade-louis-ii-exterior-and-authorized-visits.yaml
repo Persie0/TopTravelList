@@ -1,0 +1,15 @@
+id: sight-mc-stade-louis-ii-exterior-and-authorized-visits
+name: "Stade Louis II (exterior and authorized visits)"
+location:
+  country_code: MC
+  latitude: 43.7276
+  longitude: 7.4156
+scores:
+  impact: 7.2
+  uniqueness: 7.7
+  significance: 7.5
+  experience: 7.4
+  depth: 6.6
+  categories:
+    architecture: 8.0
+    culture: 8.1

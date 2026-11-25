@@ -1,0 +1,16 @@
+id: city-cr-cartago
+name: "Cartago"
+location:
+  country_code: CR
+  latitude: 9.8644
+  longitude: -83.9194
+scores:
+  impact: 7.6
+  uniqueness: 7.8
+  significance: 8.4
+  experience: 7.9
+  depth: 7.4
+  categories:
+    history: 8.7
+    architecture: 8.3
+    culture: 8.4

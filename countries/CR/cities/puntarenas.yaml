@@ -1,0 +1,15 @@
+id: city-cr-puntarenas
+name: "Puntarenas"
+location:
+  country_code: CR
+  latitude: 9.977
+  longitude: -84.838
+scores:
+  impact: 7.0
+  uniqueness: 7.4
+  significance: 7.4
+  experience: 7.7
+  depth: 7.2
+  categories:
+    food: 8.2
+    culture: 7.8

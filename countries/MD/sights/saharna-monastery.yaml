@@ -1,0 +1,16 @@
+id: sight-md-saharna-monastery
+name: "Saharna Monastery"
+location:
+  country_code: MD
+  latitude: 47.6921
+  longitude: 28.9640
+scores:
+  impact: 8.2
+  uniqueness: 8.4
+  significance: 8.3
+  experience: 8.5
+  depth: 7.8
+  categories:
+    architecture: 8.7
+    culture: 8.8
+    photography: 8.9

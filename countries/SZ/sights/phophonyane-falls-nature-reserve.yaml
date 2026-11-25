@@ -1,0 +1,16 @@
+id: sight-sz-phophonyane-falls-nature-reserve
+name: "Phophonyane Falls Nature Reserve"
+location:
+  country_code: SZ
+  latitude: -25.9040
+  longitude: 31.2700
+scores:
+  impact: 8.5
+  uniqueness: 8.3
+  significance: 7.7
+  experience: 8.5
+  depth: 7.6
+  categories:
+    nature: 8.9
+    photography: 9.0
+    adventure: 8.5
