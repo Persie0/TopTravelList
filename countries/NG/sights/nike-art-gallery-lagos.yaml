@@ -2,8 +2,8 @@ id: sight-ng-nike-art-gallery-lagos
 name: "Nike Art Gallery Lagos"
 location:
   country_code: NG
-  latitude: 6.435
-  longitude: 3.475
+  latitude: 6.43152
+  longitude: 3.48189
 scores:
   impact: 8.6
   uniqueness: 8.7
