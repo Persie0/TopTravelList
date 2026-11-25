@@ -2,8 +2,8 @@ id: sight-la-phou-den-din-national-protected-area
 name: "Phou Den Din National Protected Area"
 location:
   country_code: LA
-  latitude: 21.83
-  longitude: 102.68
+  latitude: 21.951984
+  longitude: 102.422338
 scores:
   impact: 8.6
   uniqueness: 8.9
