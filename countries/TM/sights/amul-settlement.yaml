@@ -1,0 +1,14 @@
+id: sight-tm-amul-settlement
+name: "Amul Settlement"
+location:
+  country_code: TM
+  latitude: 39.018583
+  longitude: 63.591211
+scores:
+  impact: null
+  uniqueness: 8.4
+  significance: 9.0
+  experience: null
+  depth: null
+  categories:
+    history: 9.2

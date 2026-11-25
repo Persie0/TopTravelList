@@ -1,0 +1,15 @@
+id: sight-tm-repetek-biosphere-state-reserve
+name: "Repetek Biosphere State Reserve"
+location:
+  country_code: TM
+  latitude: 38.601667
+  longitude: 63.250278
+scores:
+  impact: null
+  uniqueness: 8.8
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    nature: 9.2
+    wildlife: 9.1

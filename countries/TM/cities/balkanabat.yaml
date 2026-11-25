@@ -1,0 +1,14 @@
+id: city-tm-balkanabat
+name: "Balkanabat"
+location:
+  country_code: TM
+  latitude: 39.51
+  longitude: 54.36
+scores:
+  impact: 6.1
+  uniqueness: 6.7
+  significance: 6.4
+  experience: 6.9
+  depth: 6.4
+  categories:
+    culture: 7.1
