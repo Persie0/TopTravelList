@@ -21,6 +21,15 @@
 - Blue Grotto (Italy): similarly focused water-filled feature
 - Piula Cave Pool (Samoa): less visually dramatic, narrower pool
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values are I/U/S/E/D. Existing qualitative comparisons retained; additional current-score comparisons are editorial calibration, not new factual verification.
+
+- [Son Doong Cave](../../../countries/VN/sights/son-doong-cave.yaml) — 9.9/9.9/9.6/9.0/9.2; world-defining subterranean scale, far greater breadth.
+- [Hua Ma Cave](../../../countries/VN/sights/hua-ma-cave.yaml) — 8.5/8.7/7.9/8.7/7.6; more extensive formations and established cave route.
+- [Tham Khao Luang Cave](../../../countries/TH/sights/tham-khao-luang-cave.yaml) — 8.4/8.8/8.1/8.8/7.8; strong cave scenery and religious heritage, different pool experience.
+- [Dachstein Ice Caves](../../../countries/AT/sights/dachstein-ice-caves.yaml) — 8.3/8.8/7.0/8.5/7.4; distinct focused cave experience, different geology.
+
 ### Scoring decisions
 - Impact: 9.1
 - Uniqueness: 9.0
@@ -52,6 +61,15 @@
 - Pompeii (Italy): much larger interpreted buried settlement
 - Timanfaya National Park (Spain): stronger large-scale volcanic scenery
 - Dimmuborgir (Iceland): comparable lava landscape, less settlement context
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values are I/U/S/E/D. Existing qualitative comparisons retained; additional current-score comparisons are editorial calibration, not new factual verification.
+
+- [Bromo Tengger Semeru National Park](../../../countries/ID/sights/bromo-tengger-semeru-national-park.yaml) — 9.6/9.7/9.0/9.3/9.5; much greater volcanic relief and landscape depth.
+- [Pompeii](../../../countries/IT/sights/pompeii.yaml) — 9.6/9.7/9.7/9.3/9.5; far more extensive interpreted buried settlement.
+- [Timanfaya](../../../countries/ES/sights/timanfaya.yaml) — 9.3/9.4/9.1/8.8/8.6; larger interpreted lava landscape.
+- [Etna](../../../countries/IT/sights/etna.yaml) — 9.5/9.4/9.4/9.0/9.3; globally exceptional volcanic breadth, different settlement context.
 
 ### Scoring decisions
 - Impact: 8.4
@@ -85,6 +103,15 @@
 - Boka Pistol (Curaçao): similar coastal spray feature
 - Railay Beach (Thailand): broader coastal landscape and activities
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values are I/U/S/E/D. Existing qualitative comparisons retained; additional current-score comparisons are editorial calibration, not new factual verification.
+
+- [Railay Beach](../../../countries/TH/sights/railay-beach.yaml) — 8.9/9.0/7.5/9.2/8.3; stronger coastal landforms and varied activities.
+- [Nai Yang Beach](../../../countries/TH/sights/nai-yang-beach.yaml) — 7.8/8.0/6.5/8.5/7.5; modest coastal recreation, comparable focused visit.
+- [Tanjung Aru Beach](../../../countries/MY/sights/tanjung-aru-beach.yaml) — 8.2/7.8/6.6/8.6/7.7; comparable beach scope, different setting.
+- [An Bang Beach](../../../countries/VN/sights/an-bang-beach.yaml) — 8.4/7.8/7.0/9.0/8.2; greater established public recreation and breadth.
+
 ### Scoring decisions
 - Impact: 8.6
 - Uniqueness: 8.3
@@ -116,6 +143,15 @@
 - Anse Source d'Argent (Seychelles): more distinctive granite formations
 - Nacpan Beach (Philippines): comparable long tropical shore
 - Nai Yang Beach (Thailand): comparable relaxation with less dramatic scenery
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values are I/U/S/E/D. Existing qualitative comparisons retained; additional current-score comparisons are editorial calibration, not new factual verification.
+
+- [Railay Beach](../../../countries/TH/sights/railay-beach.yaml) — 8.9/9.0/7.5/9.2/8.3; stronger coastal landforms and varied activities.
+- [Nai Yang Beach](../../../countries/TH/sights/nai-yang-beach.yaml) — 7.8/8.0/6.5/8.5/7.5; modest coastal recreation, comparable focused visit.
+- [Tanjung Aru Beach](../../../countries/MY/sights/tanjung-aru-beach.yaml) — 8.2/7.8/6.6/8.6/7.7; comparable beach scope, different setting.
+- [An Bang Beach](../../../countries/VN/sights/an-bang-beach.yaml) — 8.4/7.8/7.0/9.0/8.2; greater established public recreation and breadth.
 
 ### Scoring decisions
 - Impact: 8.7
@@ -149,6 +185,15 @@
 - Erawan Falls (Thailand): more extensive multi-tier experience
 - Tegenungan Waterfall (Indonesia): similar compact tropical cascade
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values are I/U/S/E/D. Existing qualitative comparisons retained; additional current-score comparisons are editorial calibration, not new factual verification.
+
+- [Krimml Waterfalls](../../../countries/AT/sights/krimml-waterfalls.yaml) — 9.0/9.0/8.5/9.1/8.3; larger waterfall scale and multi-stage trail.
+- [Kuang Si Waterfalls](../../../countries/LA/sights/kuang-si-waterfalls.yaml) — 9.4/9.2/8.0/9.3/8.6; greater tiered pools and exploration.
+- [Erawan Waterfalls](../../../countries/TH/sights/erawan-waterfalls.yaml) — 8.7/8.7/7.1/9.0/8.0; broader cascade and pool route.
+- [Tegenungan Waterfall](../../../countries/ID/sights/tegenungan-waterfall.yaml) — 8.3/8.1/6.7/8.5/7.6; closer compact tropical waterfall with established visits.
+
 ### Scoring decisions
 - Impact: 8.1
 - Uniqueness: 7.4
@@ -180,6 +225,15 @@
 - Kuang Si Falls (Laos): stronger visual landscape
 - Slide Rock State Park (United States): close natural-slide analogue
 - Tegenungan Waterfall (Indonesia): comparable focused water recreation
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values are I/U/S/E/D. Existing qualitative comparisons retained; additional current-score comparisons are editorial calibration, not new factual verification.
+
+- [Krimml Waterfalls](../../../countries/AT/sights/krimml-waterfalls.yaml) — 9.0/9.0/8.5/9.1/8.3; larger waterfall scale and multi-stage trail.
+- [Kuang Si Waterfalls](../../../countries/LA/sights/kuang-si-waterfalls.yaml) — 9.4/9.2/8.0/9.3/8.6; greater tiered pools and exploration.
+- [Erawan Waterfalls](../../../countries/TH/sights/erawan-waterfalls.yaml) — 8.7/8.7/7.1/9.0/8.0; broader cascade and pool route.
+- [Tegenungan Waterfall](../../../countries/ID/sights/tegenungan-waterfall.yaml) — 8.3/8.1/6.7/8.5/7.6; closer compact tropical waterfall with established visits.
 
 ### Scoring decisions
 - Impact: 7.5
@@ -213,6 +267,15 @@
 - Hinagdanan Cave (Philippines): close cave-pool comparison
 - Blue Grotto (Italy): more dramatic lighting, different seawater setting
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values are I/U/S/E/D. Existing qualitative comparisons retained; additional current-score comparisons are editorial calibration, not new factual verification.
+
+- [Son Doong Cave](../../../countries/VN/sights/son-doong-cave.yaml) — 9.9/9.9/9.6/9.0/9.2; world-defining subterranean scale, far greater breadth.
+- [Hua Ma Cave](../../../countries/VN/sights/hua-ma-cave.yaml) — 8.5/8.7/7.9/8.7/7.6; more extensive formations and established cave route.
+- [Tham Khao Luang Cave](../../../countries/TH/sights/tham-khao-luang-cave.yaml) — 8.4/8.8/8.1/8.8/7.8; strong cave scenery and religious heritage, different pool experience.
+- [Dachstein Ice Caves](../../../countries/AT/sights/dachstein-ice-caves.yaml) — 8.3/8.8/7.0/8.5/7.4; distinct focused cave experience, different geology.
+
 ### Scoring decisions
 - Impact: 7.9
 - Uniqueness: 8.0
@@ -245,6 +308,15 @@
 - Victor Hugo House (France): comparable literary museum
 - Jim Thompson House (Thailand): stronger architectural ensemble
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values are I/U/S/E/D. Existing qualitative comparisons retained; additional current-score comparisons are editorial calibration, not new factual verification.
+
+- [Kunsthistorisches Museum](../../../countries/AT/sights/kunsthistorisches-museum.yaml) — 9.2/9.4/9.6/9.4/9.5; global collection benchmark, different subject.
+- [National Museum of Cambodia](../../../countries/KH/sights/national-museum-cambodia.yaml) — 8.8/9.1/9.3/9.1/8.8; broader material culture and interpretation.
+- [Jim Thompson House](../../../countries/TH/sights/jim-thompson-house.yaml) — 8.3/8.8/8.7/8.7/8.3; closer historic residence museum with stronger built heritage breadth.
+- [Sarawak Cultural Village](../../../countries/MY/sights/sarawak-cultural-village.yaml) — 8.4/8.7/8.2/8.8/8.4; broader living cultural and architectural interpretation.
+
 ### Scoring decisions
 - Impact: 7.7
 - Uniqueness: 8.5
@@ -276,6 +348,15 @@
 - Rapa Nui moai sites (Chile): much wider sculptural landscape
 - Plain of Jars (Laos): larger distributed heritage
 - Ha'amonga 'a Maui (Tonga): closely comparable Polynesian monument
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values are I/U/S/E/D. Existing qualitative comparisons retained; additional current-score comparisons are editorial calibration, not new factual verification.
+
+- [Stonehenge](../../../countries/GB/sights/stonehenge.yaml) — 9.2/9.6/9.6/8.8/9.1; greater monumental impact and established interpretation.
+- [Plain of Jars Archaeological Landscape](../../../countries/LA/sights/plain-of-jars-archaeological-landscape.yaml) — 9.0/9.6/9.5/8.7/9.0; broader distributed stone heritage.
+- [Koh Ker Archaeological Site](../../../countries/KH/sights/koh-ker-archaeological-site.yaml) — 9.3/9.6/9.6/9.3/9.1; more extensive monumental and visitor-visible archaeology.
+- [Carnuntum Archaeological Park](../../../countries/AT/sights/carnuntum-archaeological-park.yaml) — 8.7/8.9/9.0/8.8/8.4; more developed archaeological interpretation; no visitor access assumed for mound.
 
 ### Scoring decisions
 - Impact: 7.7
@@ -311,6 +392,15 @@
 - [Khao Sok](../../../countries/TH/sights/khao-sok-national-park.yaml) (Thailand): more dramatic karst scenery and established excursions
 - Vatthe (Vanuatu): comparable protected forest visits
 - Marovo Lagoon (Solomon Islands): larger marine landscape
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values are I/U/S/E/D. Existing qualitative comparisons retained; additional current-score comparisons are editorial calibration, not new factual verification.
+
+- [Khao Sok National Park](../../../countries/TH/sights/khao-sok-national-park.yaml) — 9.4/9.4/9.1/9.4/9.3; much broader karst and rainforest scenery and established routes.
+- [Taman Negara National Park](../../../countries/MY/sights/taman-negara-national-park.yaml) — 9.0/9.1/9.0/8.9/9.2; more extensive documented forest and river exploration.
+- [Kakum National Park and Assin Attandanso Reserve](../../../countries/GH/sights/kakum-national-park-and-assin-attandanso-reserve.yaml) — 8.8/8.7/8.9/8.8/8.6; broader documented protected forest visitor experiences.
+- [Taman Negara Canopy Walkway](../../../countries/MY/sights/taman-negara-canopy-walkway.yaml) — 7.9/7.8/7.0/8.4/7.0; focused elevated forest experience, do not transfer operating access.
 
 ### Scoring decisions
 | Field | Before | New rating | Individual justification |
@@ -349,6 +439,15 @@
 - [Ang Thong National Marine Park](../../../countries/TH/sights/ang-thong-national-marine-park.yaml) (Thailand), 9.0/9.0/8.6/9.1/8.9: more dramatic island scenery and broader marine exploration.
 - [Manono Island](../../../countries/WS/sights/manono-island.yaml) (Samoa), 8.0/8.5/8.5/8.2/8.0: living village heritage component; aggregate has broader scope, Nuʻulopa alone has narrower scope.
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values are I/U/S/E/D. Existing qualitative comparisons retained; additional current-score comparisons are editorial calibration, not new factual verification.
+
+- [Bali Subak Cultural Landscape](../../../countries/ID/sights/bali-subak-cultural-landscape.yaml) — 9.2/9.5/9.5/9.1/9.4; broader documented living agricultural heritage and interpretation.
+- [Hahoe Folk Village](../../../countries/KR/sights/hahoe-folk-village.yaml) — 9.0/9.3/9.4/9.2/8.9; greater preserved vernacular ensemble and established visits.
+- [Cham Islands](../../../countries/VN/sights/cham-islands.yaml) — 8.8/9.0/8.4/9.0/8.7; closer inhabited island landscape with broader documented marine experiences.
+- [Tonle Sap Lake](../../../countries/KH/sights/tonle-sap-lake.yaml) — 9.0/9.2/9.5/8.8/9.2; broader water-based living culture and ecology.
+
 ### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
@@ -385,6 +484,15 @@
 - Erawan Falls (Thailand): greater multi-tier exploration
 - Afu A'au Waterfall (Samoa): comparable compact waterfall experience
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values are I/U/S/E/D. Existing qualitative comparisons retained; additional current-score comparisons are editorial calibration, not new factual verification.
+
+- [Krimml Waterfalls](../../../countries/AT/sights/krimml-waterfalls.yaml) — 9.0/9.0/8.5/9.1/8.3; larger waterfall scale and multi-stage trail.
+- [Kuang Si Waterfalls](../../../countries/LA/sights/kuang-si-waterfalls.yaml) — 9.4/9.2/8.0/9.3/8.6; greater tiered pools and exploration.
+- [Erawan Waterfalls](../../../countries/TH/sights/erawan-waterfalls.yaml) — 8.7/8.7/7.1/9.0/8.0; broader cascade and pool route.
+- [Tegenungan Waterfall](../../../countries/ID/sights/tegenungan-waterfall.yaml) — 8.3/8.1/6.7/8.5/7.6; closer compact tropical waterfall with established visits.
+
 ### Scoring decisions
 | Field | New rating | Individual justification |
 | --- | ---: | --- |
@@ -420,6 +528,15 @@
 - Kuang Si Falls (Laos): more varied cascades and pools
 - Erawan Falls (Thailand): greater multi-tier exploration
 - Afu A'au Waterfall (Samoa): comparable compact waterfall experience
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values are I/U/S/E/D. Existing qualitative comparisons retained; additional current-score comparisons are editorial calibration, not new factual verification.
+
+- [Krimml Waterfalls](../../../countries/AT/sights/krimml-waterfalls.yaml) — 9.0/9.0/8.5/9.1/8.3; larger waterfall scale and multi-stage trail.
+- [Kuang Si Waterfalls](../../../countries/LA/sights/kuang-si-waterfalls.yaml) — 9.4/9.2/8.0/9.3/8.6; greater tiered pools and exploration.
+- [Erawan Waterfalls](../../../countries/TH/sights/erawan-waterfalls.yaml) — 8.7/8.7/7.1/9.0/8.0; broader cascade and pool route.
+- [Tegenungan Waterfall](../../../countries/ID/sights/tegenungan-waterfall.yaml) — 8.3/8.1/6.7/8.5/7.6; closer compact tropical waterfall with established visits.
 
 ### Scoring decisions
 | Field | New rating | Individual justification |
@@ -458,6 +575,15 @@
 - Kirstenbosch Tree Canopy Walkway (South Africa): comparable focused walkway with developed botanical context
 - Ene'io Botanical Garden (Tonga): related compact tropical plant experience
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values are I/U/S/E/D. Existing qualitative comparisons retained; additional current-score comparisons are editorial calibration, not new factual verification.
+
+- [Khao Sok National Park](../../../countries/TH/sights/khao-sok-national-park.yaml) — 9.4/9.4/9.1/9.4/9.3; much broader karst and rainforest scenery and established routes.
+- [Taman Negara National Park](../../../countries/MY/sights/taman-negara-national-park.yaml) — 9.0/9.1/9.0/8.9/9.2; more extensive documented forest and river exploration.
+- [Kakum National Park and Assin Attandanso Reserve](../../../countries/GH/sights/kakum-national-park-and-assin-attandanso-reserve.yaml) — 8.8/8.7/8.9/8.8/8.6; broader documented protected forest visitor experiences.
+- [Taman Negara Canopy Walkway](../../../countries/MY/sights/taman-negara-canopy-walkway.yaml) — 7.9/7.8/7.0/8.4/7.0; focused elevated forest experience, do not transfer operating access.
+
 ### Scoring decisions
 | Field | New rating | Individual justification |
 | --- | ---: | --- |
@@ -494,6 +620,15 @@
 - Robert Louis Stevenson Museum (Samoa): more substantial interpreted literary collection
 - Mount Talau (Tonga): similar compact tropical lookout
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values are I/U/S/E/D. Existing qualitative comparisons retained; additional current-score comparisons are editorial calibration, not new factual verification.
+
+- [Railay Beach](../../../countries/TH/sights/railay-beach.yaml) — 8.9/9.0/7.5/9.2/8.3; stronger coastal views and varied activities, different setting.
+- [Mount Faber Park](../../../countries/SG/sights/mount-faber-park.yaml) — 8.0/7.8/7.2/8.5/7.9; comparable urban-adjacent panorama with developed trails.
+- [Dachstein Five Fingers](../../../countries/AT/sights/dachstein-krippenstein-five-fingers.yaml) — 8.4/8.2/6.4/8.6/6.3; focused scenic viewpoint with greater relief but narrower depth.
+- [Jim Thompson House](../../../countries/TH/sights/jim-thompson-house.yaml) — 8.3/8.8/8.7/8.7/8.3; historic personal legacy with more developed interpretation.
+
 ### Scoring decisions
 | Field | New rating | Individual justification |
 | --- | ---: | --- |
@@ -528,6 +663,15 @@
 - Rainbow Reef (Fiji): greater soft coral and diving breadth
 - Blue Corner (Palau): more exceptional specialist underwater experience
 - Funafuti Conservation Area (Tuvalu): broader lagoon and reef protected area
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values are I/U/S/E/D. Existing qualitative comparisons retained; additional current-score comparisons are editorial calibration, not new factual verification.
+
+- [Sipadan Island Reefs](../../../countries/MY/sights/sipadan-island-reefs.yaml) — 9.5/9.6/9.1/9.5/8.9; exceptional underwater benchmark with greater ecological and experiential scale.
+- [Ang Thong National Marine Park](../../../countries/TH/sights/ang-thong-national-marine-park.yaml) — 9.0/9.0/8.6/9.1/8.9; more varied island scenery and generalist recreation.
+- [Cham Islands](../../../countries/VN/sights/cham-islands.yaml) — 8.8/9.0/8.4/9.0/8.7; broader established reef and island experiences.
+- [Perhentian Islands](../../../countries/MY/sights/perhentian-islands.yaml) — 9.0/8.8/7.7/9.2/8.9; stronger developed beach and reef recreation.
 
 ### Scoring decisions
 | Field | New rating | Individual justification |
@@ -566,6 +710,15 @@
 - Levuka Historical Port Town (Fiji): more substantial surviving historic built ensemble
 - Uoleva Island (Tonga): comparable small island experience with less documented cultural heritage
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values are I/U/S/E/D. Existing qualitative comparisons retained; additional current-score comparisons are editorial calibration, not new factual verification.
+
+- [Bali Subak Cultural Landscape](../../../countries/ID/sights/bali-subak-cultural-landscape.yaml) — 9.2/9.5/9.5/9.1/9.4; broader documented living agricultural heritage and interpretation.
+- [Hahoe Folk Village](../../../countries/KR/sights/hahoe-folk-village.yaml) — 9.0/9.3/9.4/9.2/8.9; greater preserved vernacular ensemble and established visits.
+- [Cham Islands](../../../countries/VN/sights/cham-islands.yaml) — 8.8/9.0/8.4/9.0/8.7; closer inhabited island landscape with broader documented marine experiences.
+- [Tonle Sap Lake](../../../countries/KH/sights/tonle-sap-lake.yaml) — 9.0/9.2/9.5/8.8/9.2; broader water-based living culture and ecology.
+
 ### Scoring decisions
 | Field | New rating | Individual justification |
 | --- | ---: | --- |
@@ -602,6 +755,15 @@
 - Levuka Historical Port Town (Fiji): more substantial surviving historic built ensemble
 - Uoleva Island (Tonga): comparable small island experience with less documented cultural heritage
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values are I/U/S/E/D. Existing qualitative comparisons retained; additional current-score comparisons are editorial calibration, not new factual verification.
+
+- [Bali Subak Cultural Landscape](../../../countries/ID/sights/bali-subak-cultural-landscape.yaml) — 9.2/9.5/9.5/9.1/9.4; broader documented living agricultural heritage and interpretation.
+- [Hahoe Folk Village](../../../countries/KR/sights/hahoe-folk-village.yaml) — 9.0/9.3/9.4/9.2/8.9; greater preserved vernacular ensemble and established visits.
+- [Cham Islands](../../../countries/VN/sights/cham-islands.yaml) — 8.8/9.0/8.4/9.0/8.7; closer inhabited island landscape with broader documented marine experiences.
+- [Tonle Sap Lake](../../../countries/KH/sights/tonle-sap-lake.yaml) — 9.0/9.2/9.5/8.8/9.2; broader water-based living culture and ecology.
+
 ### Scoring decisions
 | Field | New rating | Individual justification |
 | --- | ---: | --- |
@@ -636,6 +798,15 @@
 - [Cham Islands](../../../countries/VN/sights/cham-islands.yaml) (Vietnam), 8.8/9.0/8.4/9.0/8.7: more varied developed marine visitor activities.
 - [Ang Thong National Marine Park](../../../countries/TH/sights/ang-thong-national-marine-park.yaml) (Thailand), 9.0/9.0/8.6/9.1/8.9: more dramatic island scenery and broader marine exploration.
 - [Manono Island](../../../countries/WS/sights/manono-island.yaml) (Samoa), 8.0/8.5/8.5/8.2/8.0: living village heritage component; aggregate has broader scope, Nuʻulopa alone has narrower scope.
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values are I/U/S/E/D. Existing qualitative comparisons retained; additional current-score comparisons are editorial calibration, not new factual verification.
+
+- [Sipadan Island Reefs](../../../countries/MY/sights/sipadan-island-reefs.yaml) — 9.5/9.6/9.1/9.5/8.9; exceptional underwater benchmark with greater ecological and experiential scale.
+- [Ang Thong National Marine Park](../../../countries/TH/sights/ang-thong-national-marine-park.yaml) — 9.0/9.0/8.6/9.1/8.9; more varied island scenery and generalist recreation.
+- [Cham Islands](../../../countries/VN/sights/cham-islands.yaml) — 8.8/9.0/8.4/9.0/8.7; broader established reef and island experiences.
+- [Perhentian Islands](../../../countries/MY/sights/perhentian-islands.yaml) — 9.0/8.8/7.7/9.2/8.9; stronger developed beach and reef recreation.
 
 ### Scoring decisions
 | Field | Before | New rating | Individual justification |
