@@ -2,8 +2,8 @@ id: sight-jp-okinawa-peace-memorial-park
 name: "Okinawa Peace Memorial Park"
 location:
   country_code: JP
-  latitude: 26.0930
-  longitude: 127.7230
+  latitude: 26.093
+  longitude: 127.723
 scores:
   impact: 8.6
   uniqueness: 8.8
@@ -11,5 +11,5 @@ scores:
   experience: 8.8
   depth: 8.6
   categories:
-    history: 9.5
+    history: 9.4
     culture: 9.0

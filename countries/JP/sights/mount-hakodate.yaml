@@ -2,7 +2,7 @@ id: sight-jp-mount-hakodate
 name: "Mount Hakodate"
 location:
   country_code: JP
-  latitude: 41.7590
+  latitude: 41.759
   longitude: 140.7047
 scores:
   impact: 8.9
@@ -11,5 +11,5 @@ scores:
   experience: 9.0
   depth: 7.6
   categories:
-    photography: 9.5
+    photography: 9.2
     nature: 8.9

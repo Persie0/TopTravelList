@@ -2,8 +2,8 @@ id: sight-jp-yakushima-ancient-cedar-forest
 name: "Yakushima Ancient Cedar Forest"
 location:
   country_code: JP
-  latitude: 30.3330
-  longitude: 130.5200
+  latitude: 30.333
+  longitude: 130.52
 scores:
   impact: 9.5
   uniqueness: 9.7
@@ -12,5 +12,5 @@ scores:
   depth: 9.5
   categories:
     nature: 9.8
+    photography: 9.4
     adventure: 9.5
-    photography: 9.6

@@ -2,8 +2,8 @@ id: sight-jp-shiratani-unsuikyo
 name: "Shiratani Unsuikyo"
 location:
   country_code: JP
-  latitude: 30.3790
-  longitude: 130.5730
+  latitude: 30.379
+  longitude: 130.573
 scores:
   impact: 9.3
   uniqueness: 9.3
@@ -11,6 +11,6 @@ scores:
   experience: 9.3
   depth: 9.0
   categories:
-    nature: 9.6
-    photography: 9.6
+    nature: 9.3
+    photography: 9.3
     adventure: 9.2

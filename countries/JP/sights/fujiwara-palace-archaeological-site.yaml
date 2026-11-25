@@ -2,8 +2,8 @@ id: sight-jp-fujiwara-palace-archaeological-site
 name: "Fujiwara Palace Archaeological Site"
 location:
   country_code: JP
-  latitude: 34.5020
-  longitude: 135.8110
+  latitude: 34.502
+  longitude: 135.811
 scores:
   impact: 7.8
   uniqueness: 8.5
@@ -11,5 +11,5 @@ scores:
   experience: 7.9
   depth: 8.0
   categories:
-    history: 9.5
+    history: 9.4
     culture: 8.7

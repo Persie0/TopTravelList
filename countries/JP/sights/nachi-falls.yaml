@@ -2,7 +2,7 @@ id: sight-jp-nachi-falls
 name: "Nachi Falls"
 location:
   country_code: JP
-  latitude: 33.6750
+  latitude: 33.675
   longitude: 135.8877
 scores:
   impact: 9.1
@@ -11,6 +11,6 @@ scores:
   experience: 9.0
   depth: 7.7
   categories:
+    photography: 9.3
     nature: 9.3
-    photography: 9.5
     culture: 9.0

@@ -2,7 +2,7 @@ id: sight-jp-kumano-nachi-taisha-and-seigantoji
 name: "Kumano Nachi Taisha and Seigantoji"
 location:
   country_code: JP
-  latitude: 33.6680
+  latitude: 33.668
   longitude: 135.8892
 scores:
   impact: 9.3
@@ -11,6 +11,6 @@ scores:
   experience: 9.3
   depth: 8.7
   categories:
+    photography: 9.4
     culture: 9.5
-    photography: 9.6
     history: 9.3

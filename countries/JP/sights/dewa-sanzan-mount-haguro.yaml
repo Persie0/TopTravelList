@@ -2,8 +2,8 @@ id: sight-jp-dewa-sanzan-mount-haguro
 name: "Dewa Sanzan Mount Haguro"
 location:
   country_code: JP
-  latitude: 38.7030
-  longitude: 139.9820
+  latitude: 38.703
+  longitude: 139.982
 scores:
   impact: 9.0
   uniqueness: 9.2
@@ -11,6 +11,6 @@ scores:
   experience: 9.1
   depth: 8.9
   categories:
-    culture: 9.6
+    culture: 9.5
     history: 9.3
     nature: 9.1

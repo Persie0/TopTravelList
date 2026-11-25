@@ -2,8 +2,8 @@ id: sight-jp-zao-snow-monsters
 name: "Zao Snow Monsters"
 location:
   country_code: JP
-  latitude: 38.1420
-  longitude: 140.4130
+  latitude: 38.142
+  longitude: 140.413
 scores:
   impact: 9.1
   uniqueness: 9.4
@@ -11,6 +11,6 @@ scores:
   experience: 9.1
   depth: 8.3
   categories:
+    photography: 9.4
     nature: 9.5
-    photography: 9.6
     adventure: 9.0

@@ -2,7 +2,7 @@ id: sight-jp-motonosumi-shrine
 name: "Motonosumi Shrine"
 location:
   country_code: JP
-  latitude: 34.4190
+  latitude: 34.419
   longitude: 131.0635
 scores:
   impact: 8.7
@@ -11,6 +11,6 @@ scores:
   experience: 8.8
   depth: 7.4
   categories:
-    photography: 9.5
+    photography: 9.2
     architecture: 8.8
     culture: 8.4

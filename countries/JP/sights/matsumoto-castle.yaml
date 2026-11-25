@@ -3,7 +3,7 @@ name: "Matsumoto Castle"
 location:
   country_code: JP
   latitude: 36.2388
-  longitude: 137.9690
+  longitude: 137.969
 scores:
   impact: 9.2
   uniqueness: 9.2
@@ -12,5 +12,5 @@ scores:
   depth: 8.6
   categories:
     architecture: 9.5
+    photography: 9.4
     history: 9.3
-    photography: 9.5

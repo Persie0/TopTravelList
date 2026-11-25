@@ -2,8 +2,8 @@ id: sight-jp-sefa-utaki
 name: "Sefa Utaki"
 location:
   country_code: JP
-  latitude: 26.1720
-  longitude: 127.8270
+  latitude: 26.172
+  longitude: 127.827
 scores:
   impact: 8.6
   uniqueness: 9.1
@@ -11,6 +11,6 @@ scores:
   experience: 8.7
   depth: 7.8
   categories:
-    culture: 9.5
+    culture: 9.4
     history: 9.2
     nature: 8.8
