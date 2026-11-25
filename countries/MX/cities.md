@@ -2,7 +2,7 @@
 
 # Mexico (MX) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**16 ranked** · **0 unassessed** · **16 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,26 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (16)
 
-No cities, towns & villages have been assessed for **Mexico** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Mexico City](cities/mexico-city.yaml) | City / town | **93.60** | **Culture 9.4**, **Food 9.4**, **History 9.4**, Architecture 9.3 | 9.3 / 9.3 / 9.4 / 9.3 / 9.7 | [19.4326, -99.1332](https://www.google.com/maps/search/?api=1&query=19.4326,-99.1332) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mexico%20City%2C%20Mexico) |
+| 2 | [Oaxaca de Juárez](cities/oaxaca.yaml) | City / town | **89.50** | **Culture 9.4**, **Food 9.4**, **Architecture 9.0** | 8.8 / 9.1 / 9.0 / 9.1 / 8.7 | [17.073, -96.726](https://www.google.com/maps/search/?api=1&query=17.073,-96.726) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Oaxaca%20de%20Ju%C3%A1rez%2C%20Mexico) |
+| 3 | [Guanajuato](cities/guanajuato.yaml) | City / town | **88.65** | **Photography 9.3**, **Architecture 9.2**, **History 9.1** | 8.9 / 9.0 / 8.9 / 8.7 / 8.6 | [21.019, -101.257](https://www.google.com/maps/search/?api=1&query=21.019,-101.257) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Guanajuato%2C%20Mexico) |
+| 4 | [Puebla](cities/puebla.yaml) | City / town | **87.00** | **Architecture 9.2**, **Food 9.1**, **History 9.1** | 8.6 / 8.7 / 8.9 / 8.7 / 8.6 | [19.043, -98.198](https://www.google.com/maps/search/?api=1&query=19.043,-98.198) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Puebla%2C%20Mexico) |
+| 5 | [San Miguel de Allende](cities/san-miguel-de-allende.yaml) | City / town | **86.30** | **Photography 9.2**, **Architecture 9.1**, **Culture 8.8** | 8.8 / 8.6 / 8.5 / 8.8 / 8.2 | [20.914, -100.744](https://www.google.com/maps/search/?api=1&query=20.914,-100.744) | [Google Maps](https://www.google.com/maps/search/?api=1&query=San%20Miguel%20de%20Allende%2C%20Mexico) |
+| 6 | [Morelia](cities/morelia.yaml) | City / town | **85.40** | **Architecture 9.1**, **History 9.0** | 8.5 / 8.5 / 8.8 / 8.5 / 8.3 | [19.703, -101.192](https://www.google.com/maps/search/?api=1&query=19.703,-101.192) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Morelia%2C%20Mexico) |
+| 7 | [Mérida](cities/merida.yaml) | City / town | **85.10** | **Culture 9.1**, **Food 9.0**, **Architecture 8.8** | 8.3 / 8.6 / 8.5 / 8.8 / 8.5 | [20.967, -89.623](https://www.google.com/maps/search/?api=1&query=20.967,-89.623) | [Google Maps](https://www.google.com/maps/search/?api=1&query=M%C3%A9rida%2C%20Mexico) |
+| 8 | [Zacatecas](cities/zacatecas.yaml) | City / town | **85.05** | **Photography 9.1**, **Architecture 9.0**, **History 9.0** | 8.5 / 8.6 / 8.7 / 8.3 / 8.2 | [22.77, -102.583](https://www.google.com/maps/search/?api=1&query=22.77,-102.583) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Zacatecas%2C%20Mexico) |
+| 9 | [San Cristóbal de las Casas](cities/san-cristobal-de-las-casas.yaml) | City / town | **84.60** | **Culture 9.1**, **Architecture 8.8**, **Food 8.6** | 8.4 / 8.8 / 8.2 / 8.6 / 8.1 | [16.737, -92.637](https://www.google.com/maps/search/?api=1&query=16.737,-92.637) | [Google Maps](https://www.google.com/maps/search/?api=1&query=San%20Crist%C3%B3bal%20de%20las%20Casas%2C%20Mexico) |
+| 9 | [Santiago de Querétaro](cities/queretaro.yaml) | City / town | **84.60** | **Architecture 9.0**, **History 9.0** | 8.3 / 8.5 / 8.7 / 8.5 / 8.3 | [20.588, -100.389](https://www.google.com/maps/search/?api=1&query=20.588,-100.389) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Santiago%20de%20Quer%C3%A9taro%2C%20Mexico) |
+| 11 | [Guadalajara](cities/guadalajara.yaml) | City / town | **84.55** | **Culture 9.2**, **Food 9.0**, **Architecture 8.8** | 8.2 / 8.4 / 8.6 / 8.7 / 8.7 | [20.677, -103.347](https://www.google.com/maps/search/?api=1&query=20.677,-103.347) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Guadalajara%2C%20Mexico) |
+| 12 | [Campeche](cities/campeche.yaml) | City / town | **84.40** | **Architecture 9.0**, **History 9.0**, **Photography 8.9** | 8.3 / 8.6 / 8.7 / 8.4 / 8.0 | [19.845, -90.534](https://www.google.com/maps/search/?api=1&query=19.845,-90.534) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Campeche%2C%20Mexico) |
+| 13 | [Izamal](cities/izamal.yaml) | City / town | **81.00** | **Architecture 8.8**, **History 8.8**, **Culture 8.7** | 8.0 / 8.4 / 8.4 / 8.0 / 7.2 | [20.931, -89.018](https://www.google.com/maps/search/?api=1&query=20.931,-89.018) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Izamal%2C%20Mexico) |
+| 14 | [Tlacotalpan](cities/tlacotalpan.yaml) | City / town | **80.00** | **Architecture 8.8**, **Culture 8.7**, **History 8.7** | 7.8 / 8.3 / 8.4 / 7.9 / 7.2 | [18.613, -95.659](https://www.google.com/maps/search/?api=1&query=18.613,-95.659) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tlacotalpan%2C%20Mexico) |
+| 15 | [Valladolid](cities/valladolid.yaml) | City / town | **78.60** | **Culture 8.6**, **Architecture 8.5** | 7.8 / 8.0 / 7.8 / 8.2 / 7.3 | [20.689, -88.202](https://www.google.com/maps/search/?api=1&query=20.689,-88.202) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Valladolid%2C%20Mexico) |
+| 16 | [Puerto Vallarta](cities/puerto-vallarta.yaml) | City / town | **78.30** | **Food 8.7**, **Relaxation 8.7**, **Nightlife 8.6** | 8.0 / 7.7 / 7.0 / 8.7 / 8.0 | [20.654, -105.225](https://www.google.com/maps/search/?api=1&query=20.654,-105.225) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Puerto%20Vallarta%2C%20Mexico) |
 
 ---
 
