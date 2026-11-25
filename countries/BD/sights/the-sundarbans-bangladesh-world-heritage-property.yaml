@@ -2,14 +2,14 @@ id: sight-bd-the-sundarbans-bangladesh-world-heritage-property
 name: "The Sundarbans (Bangladesh World Heritage Property)"
 location:
   country_code: BD
-  latitude: 21.95
-  longitude: 89.18
+  latitude: 21.775841
+  longitude: 89.231956
 scores:
   impact: 9.1
   uniqueness: 9.5
   significance: 9.6
   experience: 8.6
-  depth: 9.4
+  depth: 9.2
   categories:
     nature: 9.6
     wildlife: 9.5

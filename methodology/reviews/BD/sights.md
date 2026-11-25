@@ -1,30 +1,32 @@
 # Bangladesh — sights individual worldwide v2 reviews
 
-2026-11-25. Initial provisional editorial inventory. [UNESCO country register](https://whc.unesco.org/en/statesparties/BD/) lists three inscribed and seven tentative properties, all represented at property level; serial components selectively catalogued. UNESCO DMS coordinates converted where indicated, otherwise approximate editorial points; none are navigation or entrance guarantees. [UK regional travel advice](https://www.gov.uk/foreign-travel-advice/bangladesh/regional-risks) and [US advisory](https://travel.state.gov/en/international-travel/travel-advisories/bangladesh.html) identify security and permit concerns in the Hill Tracts; affected entries are unranked. Saint Martin's seasonal access and Tanguar Haor restrictions require confirmation. Source links support limited identity/context, not complete factual verification. Shared peer ladders are provisional, especially urban streets and modernist architecture. No wildlife or access guarantees.
+2026-11-25. Initial provisional editorial inventory. [UNESCO country register](https://whc.unesco.org/en/statesparties/BD/) lists three inscribed and seven tentative properties, all represented at property level; serial components selectively catalogued. UNESCO DMS coordinates converted where indicated, otherwise approximate editorial points; none are navigation or entrance guarantees. [UK regional travel advice](https://www.gov.uk/foreign-travel-advice/bangladesh/regional-risks) and [US advisory](https://travel.state.gov/en/international-travel/travel-advisories/bangladesh.html) identify security and permit concerns in the Hill Tracts; affected entries are unranked. Saint Martin's seasonal access is documented as of November 22, subject to maritime conditions and conservation restrictions; Tanguar Haor remains unranked. Source links support limited identity/context, not complete factual verification. Shared peer ladders are provisional, especially urban streets and modernist architecture. No wildlife or access guarantees.
 
 ## sight-bd-the-sundarbans-bangladesh-world-heritage-property — The Sundarbans (Bangladesh World Heritage Property) — 2026-11-25
 
 - [YAML](../../../countries/BD/sights/the-sundarbans-bangladesh-world-heritage-property.yaml) · Action: new · **source-linked-unverified**.
-- Scope: Bangladesh inscribed mangrove landscape and normal permitted guided river routes. GPS 21.95, 89.18: approximate editorial point, independent verification pending.
+- Scope: Bangladesh inscribed mangrove landscape and normal permitted guided river routes. GPS 21.775841, 89.231956: West Wildlife Sanctuary representative component; UNESCO published DMS converted to decimal, not entrance.
 - Worldwide peers (I/U/S/E/D):
   - [Sagarmatha National Park (NP)](../../../countries/NP/sights/sagarmatha-national-park.yaml) — 9.9 / 9.9 / 9.8 / 9.6 / 9.7 (98.15/100); upper reference; The Sundarbans (Bangladesh World Heritage Property) has lower provisional uniqueness and lower depth (exceptional extensive mangrove ecosystem; many waterways and habitat zones).
-  - [Chitwan National Park (NP)](../../../countries/NP/sights/chitwan-national-park.yaml) — 9.4 / 9.4 / 9.6 / 9.2 / 9.2 (93.90/100); related comparator; The Sundarbans (Bangladesh World Heritage Property) has higher provisional uniqueness and higher depth (exceptional extensive mangrove ecosystem; many waterways and habitat zones).
-  - [Khao Sok National Park (TH)](../../../countries/TH/sights/khao-sok-national-park.yaml) — 9.4 / 9.4 / 9.1 / 9.4 / 9.3 (93.30/100); related comparator; The Sundarbans (Bangladesh World Heritage Property) has higher provisional uniqueness and higher depth (exceptional extensive mangrove ecosystem; many waterways and habitat zones).
+  - [Chitwan National Park (NP)](../../../countries/NP/sights/chitwan-national-park.yaml) — 9.4 / 9.4 / 9.6 / 9.2 / 9.2 (93.90/100); related comparator; The Sundarbans (Bangladesh World Heritage Property) has higher provisional uniqueness and equal depth (exceptional extensive mangrove ecosystem; many waterways and habitat zones).
+  - [Khao Sok National Park (TH)](../../../countries/TH/sights/khao-sok-national-park.yaml) — 9.4 / 9.4 / 9.1 / 9.4 / 9.3 (93.30/100); related comparator; The Sundarbans (Bangladesh World Heritage Property) has higher provisional uniqueness and lower depth (exceptional extensive mangrove ecosystem; many waterways and habitat zones).
   - [Dana Biosphere Reserve (JO)](../../../countries/JO/sights/dana-biosphere-reserve.yaml) — 9.0 / 8.8 / 8.9 / 9.0 / 9.1 (89.40/100); regional or bounded reference; The Sundarbans (Bangladesh World Heritage Property) has higher provisional uniqueness and higher depth (exceptional extensive mangrove ecosystem; many waterways and habitat zones).
 - Impact 9.1: vast tidal channels and dense forest.
 - Uniqueness 9.5: exceptional extensive mangrove ecosystem.
 - Significance 9.6: international biodiversity and ecological importance.
 - Experience 8.6: guided boat-based exploration without guaranteed wildlife sightings.
-- Depth 9.4: many waterways and habitat zones.
-- Categories: nature:9.6, wildlife:9.5, photography:9.2. Overall: 92.55/100.
-- High-score challenge: Uniqueness significance nature and wildlife reach 9.5+ for the documented mangrove ecosystem, not guaranteed tiger encounters. Sagarmatha has stronger mountain visual scale; Chitwan offers different terrestrial wildlife viewing.. No approved 10.
+- Depth 9.2: documented managed boat and ecotourism stops in the inscribed landscape; exclude unrestricted forest access and sites outside the property.
+- Categories: nature:9.6, wildlife:9.5, photography:9.2. Overall: 92.35/100.
+- High-score challenge: uniqueness 9.5, significance 9.6, nature 9.6 and wildlife 9.5 reflect the globally important mangrove ecosystem, not guaranteed wildlife encounters. Current Chitwan depth 9.2 and Khao Sok depth 9.3 support a comparable but bounded multi-stop visitor experience; Dana depth 9.1. Category values provisional. No approved 10.
 - Evidence: [Source](https://whc.unesco.org/en/list/798/) — UNESCO Sundarbans property description and ecosystem significance; page or excerpt inspected 2026-11-25. Individual claims not fully verified.
 - Remaining gaps: Independent factual, GPS (unless published reference), category and specialist peer verification.
+- Follow-up 2026-11-25: https://sundarbantourism.bforest.gov.bd/en/spots and https://sundarbantourism.bforest.gov.bd/en/one-day-tour-ticket identify regulated visitor stops and permit conditions. The UNESCO property is three sanctuaries, not the entire reserve forest; not all department-listed stops lie inside the inscribed property. Depth reduced accordingly. Three live comparison profiles inspected (Chitwan, Khao Sok, Dana); no guaranteed tiger encounters.
+- Coordinate follow-up: https://whc.unesco.org/en/list/798/maps/ (West Wildlife Sanctuary representative component); previous 21.95, 89.18. Published reference only; not necessarily more accurate for navigation.
 
 ## sight-bd-ruins-of-the-buddhist-vihara-at-paharpur — Ruins of the Buddhist Vihara at Paharpur — 2026-11-25
 
 - [YAML](../../../countries/BD/sights/ruins-of-the-buddhist-vihara-at-paharpur.yaml) · Action: new · **source-linked-unverified**.
-- Scope: Somapura Mahavihara archaeological precinct. GPS 25.03, 88.977: approximate editorial point, independent verification pending.
+- Scope: Somapura Mahavihara archaeological precinct. GPS 25.033333, 88.983333: published property point; UNESCO published DMS converted to decimal, not entrance.
 - Worldwide peers (I/U/S/E/D):
   - [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 10.0 / 10.0 / 10.0 / 9.8 / 10.0 (99.70/100); upper reference; Ruins of the Buddhist Vihara at Paharpur has lower provisional uniqueness and lower depth (distinct major Buddhist monastic plan; extensive but fragmentary remains).
   - [Jerash Archaeological City (JO)](../../../countries/JO/sights/jerash-archaeological-city.yaml) — 9.5 / 9.3 / 9.5 / 9.4 / 9.3 (94.15/100); related comparator; Ruins of the Buddhist Vihara at Paharpur has lower provisional uniqueness and lower depth (distinct major Buddhist monastic plan; extensive but fragmentary remains).
@@ -39,11 +41,12 @@
 - High-score challenge: Significance and history reflect architectural influence and monastic heritage, not intact monumental height; Jerash and Angkor offer more standing structures.. No approved 10.
 - Evidence: [Source](https://whc.unesco.org/en/list/322/) — UNESCO Paharpur property description and architectural history; page or excerpt inspected 2026-11-25. Individual claims not fully verified.
 - Remaining gaps: Independent factual, GPS (unless published reference), category and specialist peer verification.
+- Coordinate follow-up: https://whc.unesco.org/en/list/322/maps/ (published property point); previous 25.03, 88.977. Published reference only; not necessarily more accurate for navigation.
 
 ## sight-bd-historic-mosque-city-of-bagerhat — Historic Mosque City of Bagerhat — 2026-11-25
 
 - [YAML](../../../countries/BD/sights/historic-mosque-city-of-bagerhat.yaml) · Action: new · **source-linked-unverified**.
-- Scope: two principal historic mosque-city zones and their documented monuments. GPS 22.674, 89.741: approximate editorial point, independent verification pending.
+- Scope: two principal historic mosque-city zones and their documented monuments. GPS 22.66667, 89.8: published property point, not Sixty Dome Mosque; UNESCO published DMS converted to decimal, not entrance.
 - Worldwide peers (I/U/S/E/D):
   - [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 10.0 / 10.0 / 10.0 / 9.8 / 10.0 (99.70/100); upper reference; Historic Mosque City of Bagerhat has lower provisional uniqueness and lower depth (distinct Khan Jahan architectural and urban tradition; multiple dispersed monuments).
   - [Jerash Archaeological City (JO)](../../../countries/JO/sights/jerash-archaeological-city.yaml) — 9.5 / 9.3 / 9.5 / 9.4 / 9.3 (94.15/100); related comparator; Historic Mosque City of Bagerhat has lower provisional uniqueness and lower depth (distinct Khan Jahan architectural and urban tradition; multiple dispersed monuments).
@@ -58,6 +61,7 @@
 - High-score challenge: History 9.5 reflects the documented early Islamic urban ensemble; lower intact monumental scale than Jerash and Angkor.. No approved 10.
 - Evidence: [Source](https://whc.unesco.org/en/list/321/) — UNESCO Bagerhat description identifies monument zones, mosque and founder's tomb; town context only for city; page or excerpt inspected 2026-11-25. Individual claims not fully verified.
 - Remaining gaps: Independent factual, GPS (unless published reference), category and specialist peer verification.
+- Coordinate follow-up: https://whc.unesco.org/en/list/321/maps/ (published property point, not Sixty Dome Mosque); previous 22.674, 89.741. Published reference only; not necessarily more accurate for navigation.
 
 ## sight-bd-sixty-dome-mosque — Sixty Dome Mosque — 2026-11-25
 
@@ -289,7 +293,7 @@
 
 ## sight-bd-national-parliament-house-jatiya-sangsad-bhaban — National Parliament House (Jatiya Sangsad Bhaban) — 2026-11-25
 
-- [YAML](../../../countries/BD/sights/national-parliament-house-jatiya-sangsad-bhaban.yaml) · Action: new · **editorial-only**.
+- [YAML](../../../countries/BD/sights/national-parliament-house-jatiya-sangsad-bhaban.yaml) · Action: new · **source-linked-unverified**.
 - Scope: Louis Kahn building and permitted public exterior viewpoints. GPS 23.762, 90.378: approximate editorial point, independent verification pending.
 - Worldwide peers (I/U/S/E/D):
   - [Angkor Wat (KH)](../../../countries/KH/sights/angkor-wat.yaml) — 10.0 / 10.0 / 10.0 / 9.8 / 9.5 (99.20/100); upper reference; National Parliament House (Jatiya Sangsad Bhaban) has lower provisional uniqueness and lower depth (distinct modernist civic architecture; bounded building).
@@ -303,7 +307,7 @@
 - Depth 7.1: bounded building.
 - Categories: architecture:9.4, photography:9.1. Overall: 84.90/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No individually inspected source; editorial knowledge only.
+- Evidence: https://www.parliament.gov.bd/about/history confirms Louis Kahn's design and civic architecture; https://the.akdn/en/akdn/ky/en/how-we-work/our-agencies/aga-khan-trust-culture/akaa/national-assembly-building confirms architectural authorship and award context. No public interior access established.
 - Remaining gaps: Independent factual, GPS (unless published reference), category and specialist peer verification.
 
 ## sight-bd-national-martyrs-memorial-savar — National Martyrs Memorial (Savar) — 2026-11-25
@@ -365,22 +369,23 @@
 
 ## sight-bd-saint-martin-s-island — Saint Martin's Island — 2026-11-25
 
-- [YAML](../../../countries/BD/sights/saint-martin-s-island.yaml) · Action: new · **unassessed**.
-- Scope: island and permitted marine and coastal areas. GPS 20.625, 92.323: approximate editorial point, independent verification pending.
+- [YAML](../../../countries/BD/sights/saint-martin-s-island.yaml) · Action: new · **source-linked-unverified**.
+- Scope: permitted seasonal island shore and settlement experience only. GPS 20.625, 92.323: approximate editorial point, independent verification pending.
 - Worldwide peers (I/U/S/E/D):
-  - [Railay Beach (TH)](../../../countries/TH/sights/railay-beach.yaml) — 8.9 / 9.0 / 7.5 / 9.2 / 8.3 (86.30/100); upper reference; Saint Martin's Island has lower provisional uniqueness and unresolved depth (distinct Bangladesh coral-associated island; visitor depth unresolved).
-  - [Nha Trang Beach (VN)](../../../countries/VN/sights/nha-trang-beach.yaml) — 8.5 / 8.0 / 7.3 / 9.0 / 8.7 (82.30/100); related comparator; Saint Martin's Island has higher provisional uniqueness and unresolved depth (distinct Bangladesh coral-associated island; visitor depth unresolved).
-  - [Sokha Beach (KH)](../../../countries/KH/sights/sokha-beach.yaml) — 7.7 / 7.7 / 6.4 / 8.5 / 7.8 (75.70/100); related comparator; Saint Martin's Island has higher provisional uniqueness and unresolved depth (distinct Bangladesh coral-associated island; visitor depth unresolved).
-  - [Aqaba South Beach (JO)](../../../countries/JO/sights/aqaba-south-beach.yaml) — 7.7 / 7.7 / 6.8 / 8.2 / 7.3 (75.55/100); regional or bounded reference; Saint Martin's Island has higher provisional uniqueness and unresolved depth (distinct Bangladesh coral-associated island; visitor depth unresolved).
-- Impact null: ordinary safe visitor impact unresolved.
-- Uniqueness 8.7: distinct Bangladesh coral-associated island.
-- Significance 8.2: regional ecological importance.
-- Experience null: seasonal access rules and border-region risks.
-- Depth null: visitor depth unresolved.
-- Categories: beaches:9.0, nature:8.7, wildlife:8.2. Overall: unranked.
+  - [Railay Beach (TH)](../../../countries/TH/sights/railay-beach.yaml) — 8.9 / 9.0 / 7.5 / 9.2 / 8.3 (86.30/100); upper reference; Saint Martin's Island has lower provisional uniqueness and lower depth (distinct Bangladesh coral-associated island; bounded seasonal shoreline visits).
+  - [Nha Trang Beach (VN)](../../../countries/VN/sights/nha-trang-beach.yaml) — 8.5 / 8.0 / 7.3 / 9.0 / 8.7 (82.30/100); related comparator; Saint Martin's Island has higher provisional uniqueness and lower depth (distinct Bangladesh coral-associated island; bounded seasonal shoreline visits).
+  - [Sokha Beach (KH)](../../../countries/KH/sights/sokha-beach.yaml) — 7.7 / 7.7 / 6.4 / 8.5 / 7.8 (75.70/100); related comparator; Saint Martin's Island has higher provisional uniqueness and lower depth (distinct Bangladesh coral-associated island; bounded seasonal shoreline visits).
+  - [Aqaba South Beach (JO)](../../../countries/JO/sights/aqaba-south-beach.yaml) — 7.7 / 7.7 / 6.8 / 8.2 / 7.3 (75.55/100); regional or bounded reference; Saint Martin's Island has higher provisional uniqueness and higher depth (distinct Bangladesh coral-associated island; bounded seasonal shoreline visits).
+- Impact 8.2: Low coastal island with beaches and rocky coral-associated shoreline; not guaranteed reef visibility.
+- Uniqueness 8.7: Distinct coral-bearing island ecosystem in Bangladesh, but comparable tropical coasts globally.
+- Significance 8.2: Regional marine ecological importance.
+- Experience 7.8: Seasonal permitted shore visits and overnight stays; regulated ferries and weather-dependent transport.
+- Depth 7.5: Bounded beach and settlement visits, excluding restricted habitat or unrestricted marine activities.
+- Categories: beaches:9.0, nature:8.7, wildlife:8.2. Overall: 81.95/100.
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Source](https://www.bssnews.net/others/438258) — 25 October 2026 announcement of limited seasonal access; actual vessel service and security not assumed; page or excerpt inspected 2026-11-25. Individual claims not fully verified.
-- Remaining gaps: Confirm safe permitted ordinary visitor routes and interpretation before completing scores.
+- Remaining gaps: verify island-specific public shoreline scope, precise coordinates, specialist comparisons and current safety/transport conditions. No unrestricted marine access or guaranteed ferry service.
+- Follow-up: https://bdnews24.com/bangladesh/neky9v6eod confirms seasonal opening until March 15, 2027, visitor caps and environmental fees. Confirmed November 5 arrival is reported at https://www.tbsnews.net/bangladesh/seasons-first-tourist-vessel-reaches-st-martins-passenger-count-discrepancy-raises . https://www.thedailystar.net/news/bangladesh/news/rough-seas-strand-1500-tourists-st-martins-4328546 reports November 19 suspension and https://observerbd.com/news/608059 plus https://www.bssnews.net/others/448923 report November 22 resumption. https://www.tourinbd.com/destinations/saint-martin-island describes shoreline and restrictions. Full score for ordinary permitted in-season experience, not a safety recommendation. Category values remain provisional; displayed beach comparison profiles not refreshed.
 
 ## sight-bd-sreemangal-tea-estate-landscape — Sreemangal Tea Estate Landscape — 2026-11-25
 
@@ -476,6 +481,7 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Source](https://visitsylhet.bd/en/guides/sylhet-travel-guide) — October 2026 guide reports critical-area boat ban beginning August 2026; latest official access confirmation pending; page or excerpt inspected 2026-11-25. Individual claims not fully verified.
 - Remaining gaps: Confirm safe permitted ordinary visitor routes and interpretation before completing scores.
+- Follow-up: https://www.dhakatribune.com/amp/bangladesh/nation/416653/houseboat-tourist-vessels-banned-in-tanguar reports the August 2026 critical-area tourist boat prohibition; https://visitsylhet.bd/en/places/tanguar-haor describes restriction until further notice. Do not infer prohibition across every part of the haor or unrestricted access outside it. Retain null visitor scores pending sufficient ordinary permitted scope.
 
 ## sight-bd-kaptai-lake — Kaptai Lake — 2026-11-25
 

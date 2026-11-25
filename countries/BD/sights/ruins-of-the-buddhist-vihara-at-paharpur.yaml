@@ -2,8 +2,8 @@ id: sight-bd-ruins-of-the-buddhist-vihara-at-paharpur
 name: "Ruins of the Buddhist Vihara at Paharpur"
 location:
   country_code: BD
-  latitude: 25.03
-  longitude: 88.977
+  latitude: 25.033333
+  longitude: 88.983333
 scores:
   impact: 8.5
   uniqueness: 9.2
