@@ -254,3 +254,37 @@
 - Earlier decision: none.
 - Verification still needed: Specific heritage and urban visitor evidence required.
 
+### city-fj-labasa — Labasa — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/FJ/cities/labasa.yaml)
+- Action: rescore
+- Precise subject: Town proper only; exclude out-of-town temple and do not assume sugar mill tours.
+- Location check: existing representative point retained; independent corroboration pending.
+- Evidence status: source-linked-unverified
+- Checked factual reference excerpts (2026-11-25):
+  - Rough Guides describes Labasa market centre and sugar economy — https://www.roughguides.com/fiji/vanua-levu-taveuni/vanua-levu/
+  - Fiji Pocket Guide identifies town market near bus station — https://fijipocketguide.com/information-shops-services-on-vanua-levu/
+- Missing or uncertain facts: Town proper only; exclude out-of-town temple and do not assume sugar mill tours.
+
+#### Worldwide peer comparisons
+- Kampot (Cambodia): greater developed town experiences
+- Koh Ker Village (Cambodia): stronger archaeological context
+- Salzburg (Austria): richer heritage ensemble
+- Lautoka (Fiji): similar sugar port context
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | null | 6.2 | Modest commercial townscape |
+| Uniqueness | null | 6.9 | Distinct Indo-Fijian sugar region |
+| Significance | null | 6.7 | Regional economic history |
+| Experience | null | 6.6 | Local market and urban food |
+| Depth | null | 5.9 | Limited independent urban venues |
+
+- Applicable category scores: none assessed (unchanged).
+- Computed worldwide overall: 65.05/100
+- High-score challenge: no 9.5+ or 90+ claims introduced.
+- Approved 10 registry: none.
+- Final decision: provisionally ranked on documented visitor scope; not independently verified.
+- Earlier decision: earlier entry for this ID, unranked.
+- Verification still needed: Town proper only; exclude out-of-town temple and do not assume sugar mill tours.

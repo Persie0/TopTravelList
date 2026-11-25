@@ -5,9 +5,9 @@ location:
   latitude: -16.4332
   longitude: 179.36451
 scores:
-  impact: null
-  uniqueness: null
-  significance: null
-  experience: null
-  depth: null
+  impact: 6.2
+  uniqueness: 6.9
+  significance: 6.7
+  experience: 6.6
+  depth: 5.9
   categories: {}

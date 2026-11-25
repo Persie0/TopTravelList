@@ -2,7 +2,7 @@
 
 # Fiji (FJ) — Cities, towns & villages ranking
 
-**6 ranked** · **1 unassessed** · **7 total** · Worldwide scoring **v2**
+**7 ranked** · **0 unassessed** · **7 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (6)
+## Complete ranked list (7)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -20,14 +20,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 4 | [Nadi](cities/nadi.yaml) | City / town | **73.15** | **Culture 8.0**, **Food 7.9**, **Architecture 7.6** | 6.9 / 7.6 / 7.1 / 7.9 / 7.4 | [-17.803089, 177.416166](https://www.google.com/maps/search/?api=1&query=-17.803089,177.416166) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nadi%2C%20Fiji) |
 | 5 | [Sigatoka](cities/sigatoka.yaml) | City / town | **68.75** | **Food 7.6**, **Culture 7.5** | 6.6 / 7.1 / 6.7 / 7.4 / 6.7 | [-18.14307, 177.50691](https://www.google.com/maps/search/?api=1&query=-18.14307,177.50691) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sigatoka%2C%20Fiji) |
 | 6 | [Lautoka](cities/lautoka.yaml) | City / town | **68.65** | **Culture 7.5**, **Food 7.3** | 6.5 / 7.0 / 7.0 / 7.3 / 6.7 | [-17.61686, 177.45049](https://www.google.com/maps/search/?api=1&query=-17.61686,177.45049) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lautoka%2C%20Fiji) |
-
-## Not yet fully assessed (1)
-
-These destinations have no rank until all five core scores are assessed.
-
-| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
-| ---: | --- | --- | ---: | --- | --- | --- | --- |
-| — | [Labasa](cities/labasa.yaml) | City / town | **—** | — | — / — / — / — / — | [-16.4332, 179.36451](https://www.google.com/maps/search/?api=1&query=-16.4332,179.36451) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Labasa%2C%20Fiji) |
+| 7 | [Labasa](cities/labasa.yaml) | City / town | **65.05** | — | 6.2 / 6.9 / 6.7 / 6.6 / 5.9 | [-16.4332, 179.36451](https://www.google.com/maps/search/?api=1&query=-16.4332,179.36451) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Labasa%2C%20Fiji) |
 
 ---
 
