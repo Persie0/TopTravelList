@@ -113,7 +113,7 @@ Every registered country has a linked folder below. The status is determined fro
 | [Brunei](countries/BN/) (`BN`) | [9](countries/BN/cities.md) | [41](countries/BN/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Brunei) |
 | [Cabo Verde](countries/CV/) (`CV`) | [24](countries/CV/cities.md) | [47](countries/CV/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Cabo%20Verde) |
 | [Cambodia](countries/KH/) (`KH`) | [72](countries/KH/cities.md) | [260](countries/KH/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Cambodia) |
-| [Canada](countries/CA/) (`CA`) | [16](countries/CA/cities.md) | [47](countries/CA/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Canada) |
+| [Canada](countries/CA/) (`CA`) | [16](countries/CA/cities.md) | [49](countries/CA/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Canada) |
 | [Chile](countries/CL/) (`CL`) | [33](countries/CL/cities.md) | [67](countries/CL/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Chile) |
 | [China](countries/CN/) (`CN`) | [231](countries/CN/cities.md) | [490](countries/CN/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=China) |
 | [Colombia](countries/CO/) (`CO`) | [46](countries/CO/cities.md) | [55](countries/CO/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Colombia) |
@@ -164,7 +164,7 @@ Every registered country has a linked folder below. The status is determined fro
 | [Maldives](countries/MV/) (`MV`) | [25](countries/MV/cities.md) | [42](countries/MV/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Maldives) |
 | [Malta](countries/MT/) (`MT`) | [23](countries/MT/cities.md) | [37](countries/MT/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Malta) |
 | [Mauritius](countries/MU/) (`MU`) | [22](countries/MU/cities.md) | [63](countries/MU/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Mauritius) |
-| [Mexico](countries/MX/) (`MX`) | [21](countries/MX/cities.md) | [57](countries/MX/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Mexico) |
+| [Mexico](countries/MX/) (`MX`) | [21](countries/MX/cities.md) | [59](countries/MX/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Mexico) |
 | [Moldova](countries/MD/) (`MD`) | [18](countries/MD/cities.md) | [33](countries/MD/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Moldova) |
 | [Monaco](countries/MC/) (`MC`) | [1](countries/MC/cities.md) | [29](countries/MC/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Monaco) |
 | [Mongolia](countries/MN/) (`MN`) | [18](countries/MN/cities.md) | [50](countries/MN/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Mongolia) |
