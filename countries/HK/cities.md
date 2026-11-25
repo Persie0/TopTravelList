@@ -2,7 +2,7 @@
 
 # Hong Kong (HK) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**1 ranked** · **0 unassessed** · **1 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,11 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (1)
 
-No cities, towns & villages have been assessed for **Hong Kong** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Hong Kong](cities/hong-kong.yaml) | City / town | **92.75** | **Architecture 9.7**, **Photography 9.7**, **Culture 8.8**, Food 8.8, Nightlife 8.8, History 8.3, Nature 8.0 | 9.3 / 9.2 / 9.1 / 9.3 / 9.7 | [22.3193, 114.1694](https://www.google.com/maps/search/?api=1&query=22.3193,114.1694) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hong%20Kong%2C%20Hong%20Kong) |
 
 ---
 
