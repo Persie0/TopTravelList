@@ -1,0 +1,16 @@
+id: sight-hn-pulhapanzak-waterfall
+name: "Pulhapanzak Waterfall"
+location:
+  country_code: HN
+  latitude: 15.0230
+  longitude: -87.9790
+scores:
+  impact: 8.8
+  uniqueness: 8.4
+  significance: 7.3
+  experience: 8.7
+  depth: 7.5
+  categories:
+    nature: 8.9
+    photography: 9.1
+    adventure: 8.7
