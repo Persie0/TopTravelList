@@ -818,3 +818,18 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: No independently checked individual source.
 - Remaining gaps: Confirm permitted normal visitor experience and scope before assigning a total.
+
+## Follow-up: sight-kw-failaka-island-cultural-landscape — 2026-11-25 (worldwide review)
+
+- [YAML](../../../countries/KW/sights/failaka-island-cultural-landscape.yaml) · Action: fact-check-only · **source-linked-unverified**: limited source claims checked; not comprehensive fact-check. Original decision above retained.
+- Sources inspected 2026-11-25: [https://whc.unesco.org/en/tentativelists/6800/](https://whc.unesco.org/en/tentativelists/6800/), [https://whc.unesco.org/en/tentativelists/5800](https://whc.unesco.org/en/tentativelists/5800)
+- Decision: Tentative-list description establishes the distinct Dilmun, Hellenistic, Islamic and modern layers. Retain the high historical importance of the island ensemble, distinguishing it from the single archaeological component and Al-Zor settlement. Visitor depth remains provisional because the source does not establish access to every component.
+- I/U/S/E/D: 8.5 / 9.1 / 9.3 / 8.5 / 8.6 → 8.5 / 9.1 / 9.3 / 8.5 / 8.6; total 88.20/100 → 88.20/100. Categories unchanged. No new 10 or country multiplier. Representative GPS retained.
+
+| Current worldwide peer | I/U/S/E/D | Overall | Scope comparison |
+| --- | --- | --- | --- |
+| [Qalat al-Bahrain Archaeological Site](../../../countries/BH/sights/qalat-al-bahrain-archaeological-site.yaml) | 8.8 / 9.0 / 9.4 / 8.8 / 8.7 | 89.60/100 | More substantial interpreted archaeological site. |
+| [Bahla Fort](../../../countries/OM/sights/bahla-fort.yaml) | 8.8 / 8.8 / 9.2 / 8.6 / 8.5 | 88.20/100 | Coherent fortified ensemble. |
+| [Pella Archaeological Site](../../../countries/JO/sights/pella-archaeological-site.yaml) | 7.9 / 8.4 / 8.9 / 8.0 / 8.3 | 82.80/100 | Regional multiperiod archaeology. |
+| [Joya de Cerén Archaeological Site](../../../countries/SV/sights/joya-de-ceren-archaeological-site.yaml) | 8.6 / 9.6 / 9.6 / 8.4 / 8.1 | 89.70/100 | Exceptional domestic archaeological preservation with bounded depth. |
+

@@ -229,3 +229,18 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [UNESCO tentative property description; confirms individual archaeological components and settlement context](https://whc.unesco.org/en/tentativelists/6800), page or excerpt inspected 2026-11-25; supports identity or parent context only; individual claims not fully checked.
 - Remaining gaps: Independent factual, GPS (unless explicitly noted), category and peer verification.
+
+## Follow-up: city-kw-al-zor-village-failaka — 2026-11-25 (worldwide review)
+
+- [YAML](../../../countries/KW/cities/al-zor-village-failaka.yaml) · Action: rescore · **source-linked-unverified**: limited source claims checked; not comprehensive fact-check. Original decision above retained.
+- Sources inspected 2026-11-25: [https://whc.unesco.org/en/tentativelists/6800/](https://whc.unesco.org/en/tentativelists/6800/)
+- Decision: The tentative-list submission distinguishes Al-Zor's twentieth-century urban fabric and displacement history from the island's ancient archaeology. Visitors can encounter historic buildings and returning residents, but the island-wide archaeological layers cannot be credited to the town. Reduce significance and visitor breadth; retain distinctive settlement rarity. No claim of unrestricted building access.
+- I/U/S/E/D: 7.7 / 8.5 / 8.6 / 7.5 / 7.1 → 7.7 / 8.5 / 8 / 7 / 6.5; total 79.90/100 → 77.35/100. Categories unchanged. No new 10 or country multiplier. Representative GPS retained.
+
+| Current worldwide peer | I/U/S/E/D | Overall | Scope comparison |
+| --- | --- | --- | --- |
+| [Muharraq](../../../countries/BH/cities/muharraq.yaml) | 8.4 / 8.8 / 8.7 / 8.3 / 7.9 | 84.95/100 | Broader historic urban fabric and public routes. |
+| [Muscat](../../../countries/OM/cities/muscat.yaml) | 8.7 / 8.7 / 8.6 / 8.8 / 8.9 | 87.15/100 | Much wider urban exploration. |
+| [Awali](../../../countries/BH/cities/awali.yaml) | 6.9 / 7.9 / 8.3 / null / null | unranked | Industrial settlement with visitor fields unresolved; similar caution. |
+| [Schaan](../../../countries/LI/cities/schaan.yaml) | 6.5 / 6.7 / 7.0 / 7.2 / 6.8 | 67.85/100 | Ordinary bounded settlement with less distinctive historical context. |
+

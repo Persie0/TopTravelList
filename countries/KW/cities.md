@@ -12,20 +12,20 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 ## Complete ranked list (12)
 
-| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps |
-| ---: | --- | --- | ---: | --- | --- | --- |
-| 1 | [Kuwait City](cities/kuwait-city.yaml) | City / town | **82.35** | **Architecture 8.5**, **Culture 8.5**, **Food 8.5** | 8.1 / 8.1 / 8.4 / 8.4 / 8.4 | [29.3759, 47.9774](https://www.google.com/maps/search/?api=1&query=29.3759,47.9774) |
-| 2 | [Al-Zor Village (Failaka)](cities/al-zor-village-failaka.yaml) | Village | **79.90** | **History 8.8**, **Culture 8.4**, **Photography 8.3** | 7.7 / 8.5 / 8.6 / 7.5 / 7.1 | [29.439, 48.287](https://www.google.com/maps/search/?api=1&query=29.439,48.287) |
-| 3 | [Ahmadi](cities/ahmadi.yaml) | City / town | **77.45** | **History 8.7**, **Architecture 8.4** | 7.3 / 8.2 / 8.4 / 7.3 / 7.3 | [29.0769, 48.0838](https://www.google.com/maps/search/?api=1&query=29.0769,48.0838) |
-| 4 | [Salmiya](cities/salmiya.yaml) | City / town | **71.10** | **Food 8.4**, **Relaxation 8.0** | 7.2 / 6.9 / 6.3 / 8.1 / 7.5 | [29.3375, 48.076](https://www.google.com/maps/search/?api=1&query=29.3375,48.076) |
-| 5 | [Al Jahra](cities/al-jahra.yaml) | City / town | **70.95** | **History 8.0**, **Culture 7.5** | 6.8 / 7.1 / 7.6 / 7.2 / 6.8 | [29.3375, 47.6581](https://www.google.com/maps/search/?api=1&query=29.3375,47.6581) |
-| 6 | [Fahaheel](cities/fahaheel.yaml) | City / town | **68.70** | **Food 7.9**, **Relaxation 7.5** | 6.9 / 6.8 / 6.4 / 7.6 / 6.8 | [29.0825, 48.13](https://www.google.com/maps/search/?api=1&query=29.0825,48.13) |
-| 7 | [Al Khiran](cities/al-khiran.yaml) | City / town | **67.15** | **Relaxation 8.2**, **Beaches 7.6** | 6.8 / 6.9 / 5.9 / 7.6 / 6.3 | [28.66, 48.27](https://www.google.com/maps/search/?api=1&query=28.66,48.27) |
-| 8 | [Fintas](cities/fintas.yaml) | City / town | **65.55** | **Relaxation 7.5**, **Culture 6.8** | 6.5 / 6.5 / 6.3 / 7.2 / 6.4 | [29.173, 48.121](https://www.google.com/maps/search/?api=1&query=29.173,48.121) |
-| 9 | [Hawalli](cities/hawalli.yaml) | City / town | **65.45** | **Food 7.7**, **Culture 7.2** | 6.4 / 6.3 / 6.2 / 7.4 / 7.0 | [29.3328, 48.0286](https://www.google.com/maps/search/?api=1&query=29.3328,48.0286) |
-| 10 | [Mangaf](cities/mangaf.yaml) | City / town | **63.60** | **Relaxation 7.4**, **Food 7.2** | 6.3 / 6.3 / 6.0 / 7.1 / 6.3 | [29.095, 48.132](https://www.google.com/maps/search/?api=1&query=29.095,48.132) |
-| 11 | [Abu Halifa](cities/abu-halifa.yaml) | City / town | **63.25** | **Relaxation 7.4** | 6.2 / 6.4 / 5.9 / 7.1 / 6.2 | [29.127, 48.126](https://www.google.com/maps/search/?api=1&query=29.127,48.126) |
-| 12 | [Farwaniya](cities/farwaniya.yaml) | City / town | **61.15** | **Food 7.2**, **Culture 6.7** | 5.9 / 5.9 / 6.0 / 6.8 / 6.5 | [29.2775, 47.9586](https://www.google.com/maps/search/?api=1&query=29.2775,47.9586) |
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Kuwait City](cities/kuwait-city.yaml) | City / town | **82.35** | **Architecture 8.5**, **Culture 8.5**, **Food 8.5** | 8.1 / 8.1 / 8.4 / 8.4 / 8.4 | [29.3759, 47.9774](https://www.google.com/maps/search/?api=1&query=29.3759,47.9774) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kuwait%20City%2C%20Kuwait) |
+| 2 | [Ahmadi](cities/ahmadi.yaml) | City / town | **77.45** | **History 8.7**, **Architecture 8.4** | 7.3 / 8.2 / 8.4 / 7.3 / 7.3 | [29.0769, 48.0838](https://www.google.com/maps/search/?api=1&query=29.0769,48.0838) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ahmadi%2C%20Kuwait) |
+| 3 | [Al-Zor Village (Failaka)](cities/al-zor-village-failaka.yaml) | Village | **77.35** | **History 8.8**, **Culture 8.4**, **Photography 8.3** | 7.7 / 8.5 / 8.0 / 7.0 / 6.5 | [29.439, 48.287](https://www.google.com/maps/search/?api=1&query=29.439,48.287) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Al-Zor%20Village%20%28Failaka%29%2C%20Kuwait) |
+| 4 | [Salmiya](cities/salmiya.yaml) | City / town | **71.10** | **Food 8.4**, **Relaxation 8.0** | 7.2 / 6.9 / 6.3 / 8.1 / 7.5 | [29.3375, 48.076](https://www.google.com/maps/search/?api=1&query=29.3375,48.076) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Salmiya%2C%20Kuwait) |
+| 5 | [Al Jahra](cities/al-jahra.yaml) | City / town | **70.95** | **History 8.0**, **Culture 7.5** | 6.8 / 7.1 / 7.6 / 7.2 / 6.8 | [29.3375, 47.6581](https://www.google.com/maps/search/?api=1&query=29.3375,47.6581) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Al%20Jahra%2C%20Kuwait) |
+| 6 | [Fahaheel](cities/fahaheel.yaml) | City / town | **68.70** | **Food 7.9**, **Relaxation 7.5** | 6.9 / 6.8 / 6.4 / 7.6 / 6.8 | [29.0825, 48.13](https://www.google.com/maps/search/?api=1&query=29.0825,48.13) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Fahaheel%2C%20Kuwait) |
+| 7 | [Al Khiran](cities/al-khiran.yaml) | City / town | **67.15** | **Relaxation 8.2**, **Beaches 7.6** | 6.8 / 6.9 / 5.9 / 7.6 / 6.3 | [28.66, 48.27](https://www.google.com/maps/search/?api=1&query=28.66,48.27) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Al%20Khiran%2C%20Kuwait) |
+| 8 | [Fintas](cities/fintas.yaml) | City / town | **65.55** | **Relaxation 7.5**, **Culture 6.8** | 6.5 / 6.5 / 6.3 / 7.2 / 6.4 | [29.173, 48.121](https://www.google.com/maps/search/?api=1&query=29.173,48.121) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Fintas%2C%20Kuwait) |
+| 9 | [Hawalli](cities/hawalli.yaml) | City / town | **65.45** | **Food 7.7**, **Culture 7.2** | 6.4 / 6.3 / 6.2 / 7.4 / 7.0 | [29.3328, 48.0286](https://www.google.com/maps/search/?api=1&query=29.3328,48.0286) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hawalli%2C%20Kuwait) |
+| 10 | [Mangaf](cities/mangaf.yaml) | City / town | **63.60** | **Relaxation 7.4**, **Food 7.2** | 6.3 / 6.3 / 6.0 / 7.1 / 6.3 | [29.095, 48.132](https://www.google.com/maps/search/?api=1&query=29.095,48.132) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mangaf%2C%20Kuwait) |
+| 11 | [Abu Halifa](cities/abu-halifa.yaml) | City / town | **63.25** | **Relaxation 7.4** | 6.2 / 6.4 / 5.9 / 7.1 / 6.2 | [29.127, 48.126](https://www.google.com/maps/search/?api=1&query=29.127,48.126) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Abu%20Halifa%2C%20Kuwait) |
+| 12 | [Farwaniya](cities/farwaniya.yaml) | City / town | **61.15** | **Food 7.2**, **Culture 6.7** | 5.9 / 5.9 / 6.0 / 6.8 / 6.5 | [29.2775, 47.9586](https://www.google.com/maps/search/?api=1&query=29.2775,47.9586) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Farwaniya%2C%20Kuwait) |
 
 ---
 
