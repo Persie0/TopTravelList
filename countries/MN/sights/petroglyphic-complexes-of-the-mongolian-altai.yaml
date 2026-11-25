@@ -2,15 +2,15 @@ id: sight-mn-petroglyphic-complexes-of-the-mongolian-altai
 name: "Petroglyphic Complexes of the Mongolian Altai"
 location:
   country_code: MN
-  latitude: 49.333967
-  longitude: 88.395383
+  latitude: 49.334
+  longitude: 88.39
 scores:
-  impact: 8.2
+  impact: null
   uniqueness: 9.3
   significance: 9.5
-  experience: 8.2
-  depth: 8.7
+  experience: null
+  depth: null
   categories:
     history: 9.5
     culture: 9.2
-    photography: 8.5
+    photography: null
