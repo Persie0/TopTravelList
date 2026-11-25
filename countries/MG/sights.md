@@ -2,7 +2,7 @@
 
 # Madagascar (MG) — Sights & attractions ranking
 
-**16 ranked** · **10 unassessed** · **26 total** · Worldwide scoring **v2**
+**19 ranked** · **10 unassessed** · **29 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (16)
+## Complete ranked list (19)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -28,8 +28,11 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 12 | [Anjanaharibe-Sud Special Reserve](sights/anjanaharibe-sud.yaml) | Attraction | **89.95** | **Nature 9.5**, **Wildlife 9.4** | 8.8 / 9.3 / 9.4 / 8.6 / 8.6 | [-14.695833, 49.4525](https://www.google.com/maps/search/?api=1&query=-14.695833,49.4525) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Anjanaharibe-Sud%20Special%20Reserve%2C%20Madagascar) |
 | 13 | [Tsimanampesotse National Park](sights/tsimanampesotse.yaml) | Park / reserve | **89.75** | **Nature 9.4**, **Wildlife 9.3** | 8.9 / 9.2 / 9.4 / 8.5 / 8.5 | [-24.384919, 43.977331](https://www.google.com/maps/search/?api=1&query=-24.384919,43.977331) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tsimanampesotse%20National%20Park%2C%20Madagascar) |
 | 14 | [Ankarafantsika National Park](sights/ankarafantsika.yaml) | Park / reserve | **89.50** | **Nature 9.3**, **Wildlife 9.2** | 8.8 / 9.1 / 9.3 / 8.7 / 8.7 | [-16.221056, 46.941828](https://www.google.com/maps/search/?api=1&query=-16.221056,46.941828) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ankarafantsika%20National%20Park%2C%20Madagascar) |
-| 15 | [Royal Hill of Ambohimanga](sights/ambohimanga.yaml) | Attraction | **88.65** | **Culture 9.4**, **History 9.4**, **Architecture 9.0** | 8.6 / 9.1 / 9.4 / 8.6 / 8.4 | [-18.75917, 47.56278](https://www.google.com/maps/search/?api=1&query=-18.75917,47.56278) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Royal%20Hill%20of%20Ambohimanga%2C%20Madagascar) |
-| 16 | [Haute Ville of Antananarivo](sights/haute-ville-antananarivo.yaml) | Attraction | **88.00** | **History 9.2**, **Architecture 9.0** | 8.7 / 8.9 / 9.1 / 8.5 / 8.7 | [-18.922222, 47.532778](https://www.google.com/maps/search/?api=1&query=-18.922222,47.532778) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Haute%20Ville%20of%20Antananarivo%2C%20Madagascar) |
+| 14 | [Zahamena National Park and Strict Reserve](sights/zahamena.yaml) | Park / reserve | **89.50** | **Nature 9.5**, **Wildlife 9.3** | 8.7 / 9.2 / 9.4 / 8.6 / 8.7 | [-17.629167, 48.725](https://www.google.com/maps/search/?api=1&query=-17.629167,48.725) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Zahamena%20National%20Park%20and%20Strict%20Reserve%2C%20Madagascar) |
+| 16 | [Lokobe National Park](sights/lokobe.yaml) | Park / reserve | **88.75** | **Nature 9.3**, **Wildlife 9.3**, **Adventure 8.6** | 8.6 / 9.1 / 9.2 / 8.8 / 8.6 | [-13.39917, 48.31833](https://www.google.com/maps/search/?api=1&query=-13.39917,48.31833) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lokobe%20National%20Park%2C%20Madagascar) |
+| 17 | [Royal Hill of Ambohimanga](sights/ambohimanga.yaml) | Attraction | **88.65** | **Culture 9.4**, **History 9.4**, **Architecture 9.0** | 8.6 / 9.1 / 9.4 / 8.6 / 8.4 | [-18.75917, 47.56278](https://www.google.com/maps/search/?api=1&query=-18.75917,47.56278) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Royal%20Hill%20of%20Ambohimanga%2C%20Madagascar) |
+| 18 | [Haute Ville of Antananarivo](sights/haute-ville-antananarivo.yaml) | Attraction | **88.00** | **History 9.2**, **Architecture 9.0** | 8.7 / 8.9 / 9.1 / 8.5 / 8.7 | [-18.922222, 47.532778](https://www.google.com/maps/search/?api=1&query=-18.922222,47.532778) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Haute%20Ville%20of%20Antananarivo%2C%20Madagascar) |
+| 19 | [Nosy Tanikely National Park](sights/nosy-tanikely.yaml) | Park / reserve | **87.85** | **Nature 9.2**, **Wildlife 9.2**, **Adventure 8.8**, Beaches 8.8 | 8.8 / 8.9 / 8.9 / 9.0 / 7.9 | [-13.4824, 48.2367](https://www.google.com/maps/search/?api=1&query=-13.4824,48.2367) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nosy%20Tanikely%20National%20Park%2C%20Madagascar) |
 
 ## Not yet fully assessed (10)
 
@@ -37,6 +40,7 @@ These destinations have no rank until all five core scores are assessed.
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
+| — | [Ambodivahibe Marine Protected Area](sights/ambodivahibe.yaml) | Attraction | **—** | **Nature 9.3**, **Wildlife 9.2** | — / 9.0 / 9.2 / — / — | [-12.33333, 49.43333](https://www.google.com/maps/search/?api=1&query=-12.33333,49.43333) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ambodivahibe%20Marine%20Protected%20Area%2C%20Madagascar) |
 | — | [Analamerana Special Reserve](sights/analamerana.yaml) | Attraction | **—** | **Nature 9.5**, **Wildlife 9.5** | 8.5 / 9.2 / 9.5 / — / — | [-12.783817, 49.479897](https://www.google.com/maps/search/?api=1&query=-12.783817,49.479897) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Analamerana%20Special%20Reserve%2C%20Madagascar) |
 | — | [Ankarea Marine Protected Area](sights/ankarea.yaml) | Attraction | **—** | **Nature 9.3**, **Wildlife 9.2** | — / 9.0 / 9.2 / — / — | [-12.833333, 48.583333](https://www.google.com/maps/search/?api=1&query=-12.833333,48.583333) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ankarea%20Marine%20Protected%20Area%2C%20Madagascar) |
 | — | [Ankivonjy Marine Protected Area](sights/ankivonjy.yaml) | Attraction | **—** | **Nature 9.3**, **Wildlife 9.2** | — / 9.0 / 9.2 / — / — | [-13.52339, 47.86293](https://www.google.com/maps/search/?api=1&query=-13.52339,47.86293) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ankivonjy%20Marine%20Protected%20Area%2C%20Madagascar) |
@@ -46,7 +50,6 @@ These destinations have no rank until all five core scores are assessed.
 | — | [Nosy Lonjo (Sugarloaf Island)](sights/nosy-lonjo.yaml) | Island | **—** | **Nature 8.8**, **Culture 8.7** | 8.5 / 8.7 / 8.6 / — / — | [-12.3, 49.31667](https://www.google.com/maps/search/?api=1&query=-12.3,49.31667) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nosy%20Lonjo%20%28Sugarloaf%20Island%29%2C%20Madagascar) |
 | — | [Pays Mahafaly Cultural Landscape](sights/mahafaly-landscape.yaml) | Coast | **—** | **Nature 9.4**, **Culture 9.3** | — / 9.2 / 9.3 / — / — | [-24.785, 44.339](https://www.google.com/maps/search/?api=1&query=-24.785,44.339) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Pays%20Mahafaly%20Cultural%20Landscape%2C%20Madagascar) |
 | — | [Sahamalaza–Îles Radama National Park](sights/sahamalaza.yaml) | Park / reserve | **—** | **Nature 9.4**, **Wildlife 9.3** | 8.8 / 9.1 / 9.4 / — / — | [-14.15198, 47.83076](https://www.google.com/maps/search/?api=1&query=-14.15198,47.83076) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sahamalaza%E2%80%93%C3%8Eles%20Radama%20National%20Park%2C%20Madagascar) |
-| — | [Zahamena National Park and Strict Reserve](sights/zahamena.yaml) | Park / reserve | **—** | **Nature 9.5**, **Wildlife 9.3** | 8.7 / 9.2 / 9.4 / — / — | [-17.629167, 48.725](https://www.google.com/maps/search/?api=1&query=-17.629167,48.725) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Zahamena%20National%20Park%20and%20Strict%20Reserve%2C%20Madagascar) |
 
 ---
 
