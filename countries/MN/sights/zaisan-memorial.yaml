@@ -1,0 +1,15 @@
+id: sight-mn-zaisan-memorial
+name: "Zaisan Memorial"
+location:
+  country_code: MN
+  latitude: 47.887
+  longitude: 106.916
+scores:
+  impact: 7.7
+  uniqueness: 7.4
+  significance: 7.6
+  experience: 8.0
+  depth: 6.8
+  categories:
+    photography: 8.5
+    history: 8.0

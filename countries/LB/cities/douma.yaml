@@ -1,0 +1,15 @@
+id: city-lb-douma
+name: "Douma"
+location:
+  country_code: LB
+  latitude: 34.203
+  longitude: 35.831
+scores:
+  impact: 7.5
+  uniqueness: 8.2
+  significance: 7.5
+  experience: 8.1
+  depth: 6.7
+  categories:
+    architecture: 8.7
+    culture: 8.3

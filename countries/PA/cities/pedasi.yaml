@@ -1,0 +1,16 @@
+id: city-pa-pedasi
+name: "Pedasí"
+location:
+  country_code: PA
+  latitude: 7.530
+  longitude: -80.027
+scores:
+  impact: 7.3
+  uniqueness: 7.7
+  significance: 7.0
+  experience: 8.0
+  depth: 6.7
+  categories:
+    culture: 8.2
+    relaxation: 8.2
+    food: 7.9

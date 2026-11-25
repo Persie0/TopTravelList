@@ -1,0 +1,14 @@
+id: city-sz-simunye
+name: "Simunye"
+location:
+  country_code: SZ
+  latitude: -26.2000
+  longitude: 31.9333
+scores:
+  impact: 6.3
+  uniqueness: 6.5
+  significance: 6.3
+  experience: 6.9
+  depth: 6.1
+  categories:
+    culture: 7.0

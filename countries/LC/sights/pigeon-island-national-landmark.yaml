@@ -1,0 +1,17 @@
+id: sight-lc-pigeon-island-national-landmark
+name: "Pigeon Island National Landmark"
+location:
+  country_code: LC
+  latitude: 14.092
+  longitude: -60.963
+scores:
+  impact: 8.6
+  uniqueness: 8.5
+  significance: 8.8
+  experience: 8.8
+  depth: 8.3
+  categories:
+    history: 9.2
+    photography: 9.3
+    nature: 8.6
+    architecture: 8.5

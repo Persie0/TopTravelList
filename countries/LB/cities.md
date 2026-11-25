@@ -2,7 +2,7 @@
 
 # Lebanon (LB) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**8 ranked** · **5 unassessed** · **13 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,30 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (8)
 
-No cities, towns & villages have been assessed for **Lebanon** yet.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Beirut](cities/beirut.yaml) | City / town | **85.90** | **Food 9.2**, **Culture 9.0**, **Architecture 8.7** | 8.6 / 8.5 / 8.5 / 8.5 / 9.1 | [33.8938, 35.5018](https://www.google.com/maps/search/?api=1&query=33.8938,35.5018) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Beirut%2C%20Lebanon) |
+| 2 | [Byblos (Jbeil)](cities/byblos-jbeil.yaml) | City / town | **85.75** | **History 9.0**, **Architecture 8.9**, **Culture 8.9** | 8.5 / 8.7 / 8.6 / 8.8 / 8.1 | [34.1236, 35.6511](https://www.google.com/maps/search/?api=1&query=34.1236,35.6511) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Byblos%20%28Jbeil%29%2C%20Lebanon) |
+| 3 | [Deir el Qamar](cities/deir-el-qamar.yaml) | City / town | **83.15** | **Architecture 9.0**, **Culture 8.7**, **History 8.7** | 8.2 / 8.6 / 8.3 / 8.5 / 7.7 | [33.696, 35.558](https://www.google.com/maps/search/?api=1&query=33.696,35.558) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Deir%20el%20Qamar%2C%20Lebanon) |
+| 4 | [Batroun](cities/batroun.yaml) | City / town | **81.80** | **Food 8.8**, **Culture 8.6**, **Relaxation 8.6**, Architecture 8.5 | 8.1 / 8.3 / 8.0 / 8.7 / 7.7 | [34.255, 35.658](https://www.google.com/maps/search/?api=1&query=34.255,35.658) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Batroun%2C%20Lebanon) |
+| 5 | [Bsharri](cities/bsharri.yaml) | City / town | **78.95** | **Photography 8.8**, **Culture 8.4** | 7.9 / 8.3 / 7.5 / 8.2 / 7.2 | [34.25, 36.01](https://www.google.com/maps/search/?api=1&query=34.25,36.01) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bsharri%2C%20Lebanon) |
+| 6 | [Douma](cities/douma.yaml) | City / town | **76.85** | **Architecture 8.7**, **Culture 8.3** | 7.5 / 8.2 / 7.5 / 8.1 / 6.7 | [34.203, 35.831](https://www.google.com/maps/search/?api=1&query=34.203,35.831) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Douma%2C%20Lebanon) |
+| 7 | [Ehden](cities/ehden.yaml) | City / town | **76.10** | **Relaxation 8.3**, **Photography 8.2**, **Culture 8.1** | 7.6 / 7.9 / 7.2 / 8.1 / 7.0 | [34.29, 35.97](https://www.google.com/maps/search/?api=1&query=34.29,35.97) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ehden%2C%20Lebanon) |
+| 8 | [Jounieh](cities/jounieh.yaml) | City / town | **74.95** | **Relaxation 8.5**, **Photography 8.3** | 7.6 / 7.5 / 6.7 / 8.2 / 7.7 | [33.98, 35.62](https://www.google.com/maps/search/?api=1&query=33.98,35.62) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Jounieh%2C%20Lebanon) |
 
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+## Not yet fully assessed (5)
+
+These destinations have no rank until all five core scores are assessed.
+
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| — | [Baalbek](cities/baalbek.yaml) | City / town | **—** | **History 8.9**, **Culture 8.4** | 7.5 / 8.0 / 8.4 / — / 7.2 | [34.006, 36.204](https://www.google.com/maps/search/?api=1&query=34.006,36.204) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Baalbek%2C%20Lebanon) |
+| — | [Sidon (Saida)](cities/sidon-saida.yaml) | City / town | **—** | **History 9.2**, **Architecture 8.9**, **Culture 8.8** | 8.2 / 8.6 / 8.8 / — / 8.1 | [33.5631, 35.3689](https://www.google.com/maps/search/?api=1&query=33.5631,35.3689) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sidon%20%28Saida%29%2C%20Lebanon) |
+| — | [Tripoli](cities/tripoli.yaml) | City / town | **—** | **History 9.2**, **Architecture 9.1**, **Culture 9.0** | 8.4 / 8.7 / 8.8 / — / 8.4 | [34.4367, 35.8497](https://www.google.com/maps/search/?api=1&query=34.4367,35.8497) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tripoli%2C%20Lebanon) |
+| — | [Tyre (Sour)](cities/tyre-sour.yaml) | City / town | **—** | **History 9.3**, **Culture 8.8** | 8.1 / 8.7 / 8.9 / — / 8.0 | [33.27, 35.203](https://www.google.com/maps/search/?api=1&query=33.27,35.203) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tyre%20%28Sour%29%2C%20Lebanon) |
+| — | [Zahle](cities/zahle.yaml) | City / town | **—** | **Food 8.8**, **Culture 8.4** | 7.6 / 8.0 / 7.5 / — / 7.6 | [33.846, 35.902](https://www.google.com/maps/search/?api=1&query=33.846,35.902) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Zahle%2C%20Lebanon) |
 
 ---
 

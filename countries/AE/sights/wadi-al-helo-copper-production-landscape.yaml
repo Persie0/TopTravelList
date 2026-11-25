@@ -1,0 +1,14 @@
+id: sight-ae-wadi-al-helo-copper-production-landscape
+name: "Wadi Al Helo Copper Production Landscape"
+location:
+  country_code: AE
+  latitude: 24.98
+  longitude: 56.22
+scores:
+  impact: 8.0
+  uniqueness: 8.4
+  significance: 8.9
+  experience: 8.2
+  depth: 7.8
+  categories:
+    history: 9.1

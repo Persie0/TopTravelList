@@ -1,0 +1,14 @@
+id: sight-ae-sharjah-rock-art-serial-property
+name: "Sharjah Rock Art Serial Property"
+location:
+  country_code: AE
+  latitude: 25.1
+  longitude: 55.85
+scores:
+  impact: null
+  uniqueness: 8.7
+  significance: 9.0
+  experience: null
+  depth: null
+  categories:
+    history: 9.2

@@ -1,0 +1,15 @@
+id: city-sa-al-khobar
+name: "Al Khobar"
+location:
+  country_code: SA
+  latitude: 26.2172
+  longitude: 50.1971
+scores:
+  impact: 7.1
+  uniqueness: 6.8
+  significance: 6.5
+  experience: 7.8
+  depth: 7.3
+  categories:
+    food: 7.7
+    relaxation: 7.8

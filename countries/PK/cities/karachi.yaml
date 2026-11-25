@@ -1,0 +1,16 @@
+id: city-pk-karachi
+name: "Karachi"
+location:
+  country_code: PK
+  latitude: 24.8607
+  longitude: 67.0011
+scores:
+  impact: 7.7
+  uniqueness: 8.0
+  significance: 8.3
+  experience: 8.1
+  depth: 8.7
+  categories:
+    food: 8.7
+    culture: 8.2
+    history: 8.1

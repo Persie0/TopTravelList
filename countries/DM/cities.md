@@ -2,7 +2,7 @@
 
 # Dominica (DM) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**14 ranked** · **0 unassessed** · **14 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,24 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (14)
 
-No cities, towns & villages have been assessed for **Dominica** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Roseau](cities/roseau.yaml) | City / town | **79.40** | **Culture 8.8**, **History 8.5**, **Architecture 8.3**, Food 8.2 | 7.6 / 8.1 / 8.1 / 8.3 / 7.7 | [15.301, -61.388](https://www.google.com/maps/search/?api=1&query=15.301,-61.388) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Roseau%2C%20Dominica) |
+| 2 | [Scotts Head](cities/scotts-head.yaml) | City / town | **78.55** | **Photography 9.1**, **Culture 8.2** | 8.3 / 8.6 / 6.8 / 8.1 / 6.4 | [15.212, -61.369](https://www.google.com/maps/search/?api=1&query=15.212,-61.369) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Scotts%20Head%2C%20Dominica) |
+| 3 | [Soufrière](cities/soufriere.yaml) | City / town | **77.10** | **Photography 8.8**, **Culture 8.2** | 7.9 / 8.3 / 7.0 / 8.1 / 6.5 | [15.233, -61.358](https://www.google.com/maps/search/?api=1&query=15.233,-61.358) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Soufri%C3%A8re%2C%20Dominica) |
+| 4 | [Calibishie](cities/calibishie.yaml) | City / town | **76.60** | **Photography 8.7**, **Relaxation 8.4**, **Culture 8.2** | 7.9 / 8.2 / 6.6 / 8.2 / 6.9 | [15.592, -61.35](https://www.google.com/maps/search/?api=1&query=15.592,-61.35) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Calibishie%2C%20Dominica) |
+| 5 | [Portsmouth](cities/portsmouth.yaml) | City / town | **76.35** | **Photography 8.3**, **Culture 8.1**, **History 8.1** | 7.5 / 7.9 / 7.5 / 8.0 / 7.1 | [15.579, -61.456](https://www.google.com/maps/search/?api=1&query=15.579,-61.456) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Portsmouth%2C%20Dominica) |
+| 6 | [Salybia](cities/salybia.yaml) | City / town | **75.50** | **Culture 9.1**, **History 8.6** | 6.9 / 8.4 / 8.0 / 7.6 / 6.4 | [15.492, -61.256](https://www.google.com/maps/search/?api=1&query=15.492,-61.256) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Salybia%2C%20Dominica) |
+| 7 | [Wotten Waven](cities/wotten-waven.yaml) | City / town | **73.70** | **Photography 8.2**, **Culture 8.0** | 7.5 / 8.2 / 6.4 / 7.8 / 6.2 | [15.316, -61.344](https://www.google.com/maps/search/?api=1&query=15.316,-61.344) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Wotten%20Waven%2C%20Dominica) |
+| 8 | [Laudat](cities/laudat.yaml) | City / town | **72.50** | **Photography 8.4**, **Culture 7.8** | 7.4 / 7.9 / 6.4 / 7.7 / 6.2 | [15.331, -61.331](https://www.google.com/maps/search/?api=1&query=15.331,-61.331) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Laudat%2C%20Dominica) |
+| 9 | [Castle Bruce](cities/castle-bruce.yaml) | City / town | **72.45** | **Photography 8.4**, **Culture 7.8** | 7.5 / 7.7 / 6.5 / 7.6 / 6.3 | [15.44, -61.258](https://www.google.com/maps/search/?api=1&query=15.44,-61.258) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Castle%20Bruce%2C%20Dominica) |
+| 10 | [Grand Bay](cities/grand-bay.yaml) | City / town | **71.05** | **Culture 8.3**, **Photography 7.8** | 6.8 / 7.6 / 7.0 / 7.5 / 6.4 | [15.239, -61.314](https://www.google.com/maps/search/?api=1&query=15.239,-61.314) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Grand%20Bay%2C%20Dominica) |
+| 11 | [Mero](cities/mero.yaml) | City / town | **69.20** | **Relaxation 8.0**, **Culture 7.7** | 6.9 / 7.3 / 6.1 / 7.9 / 6.2 | [15.414, -61.428](https://www.google.com/maps/search/?api=1&query=15.414,-61.428) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mero%2C%20Dominica) |
+| 12 | [Saint Joseph](cities/saint-joseph.yaml) | City / town | **69.10** | **Culture 7.7**, **Photography 7.7** | 6.8 / 7.2 / 6.7 / 7.4 / 6.2 | [15.4, -61.428](https://www.google.com/maps/search/?api=1&query=15.4,-61.428) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Saint%20Joseph%2C%20Dominica) |
+| 13 | [Marigot](cities/marigot.yaml) | City / town | **68.35** | **Culture 7.6**, **Food 7.4** | 6.7 / 7.2 / 6.5 / 7.3 / 6.3 | [15.537, -61.283](https://www.google.com/maps/search/?api=1&query=15.537,-61.283) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Marigot%2C%20Dominica) |
+| 14 | [Mahaut](cities/mahaut.yaml) | City / town | **65.90** | **Culture 7.4** | 6.3 / 6.8 / 6.5 / 7.2 / 6.2 | [15.363, -61.397](https://www.google.com/maps/search/?api=1&query=15.363,-61.397) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mahaut%2C%20Dominica) |
 
 ---
 

@@ -1,0 +1,16 @@
+id: sight-lc-sugar-beach-jalousie-bay
+name: "Sugar Beach (Jalousie Bay)"
+location:
+  country_code: LC
+  latitude: 13.827
+  longitude: -61.063
+scores:
+  impact: 9.3
+  uniqueness: 9.0
+  significance: 6.5
+  experience: 8.8
+  depth: 7.4
+  categories:
+    beaches: 9.4
+    photography: 9.4
+    relaxation: 9.0

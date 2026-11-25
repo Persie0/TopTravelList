@@ -1,0 +1,16 @@
+id: city-cv-ribeira-brava-sao-nicolau
+name: "Ribeira Brava (Sao Nicolau)"
+location:
+  country_code: CV
+  latitude: 16.6160
+  longitude: -24.2980
+scores:
+  impact: 7.5
+  uniqueness: 8.1
+  significance: 7.7
+  experience: 7.8
+  depth: 6.9
+  categories:
+    architecture: 8.3
+    culture: 8.4
+    photography: 8.2

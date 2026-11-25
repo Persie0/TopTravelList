@@ -1,0 +1,16 @@
+id: sight-dm-scotts-head-peninsula
+name: "Scotts Head Peninsula"
+location:
+  country_code: DM
+  latitude: 15.211
+  longitude: -61.374
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 6.8
+  experience: 8.6
+  depth: 6.6
+  categories:
+    photography: 9.4
+    nature: 9.0
+    adventure: 8.2

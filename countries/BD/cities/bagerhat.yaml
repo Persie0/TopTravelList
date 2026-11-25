@@ -1,0 +1,15 @@
+id: city-bd-bagerhat
+name: "Bagerhat"
+location:
+  country_code: BD
+  latitude: 22.6516
+  longitude: 89.7859
+scores:
+  impact: 6.7
+  uniqueness: 7.6
+  significance: 8.0
+  experience: 7.3
+  depth: 6.6
+  categories:
+    history: 8.4
+    culture: 8.1

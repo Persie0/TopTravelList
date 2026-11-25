@@ -1,0 +1,15 @@
+id: sight-tm-yeradzhi
+name: "Yeradzhi"
+location:
+  country_code: TM
+  latitude: 38.785
+  longitude: 62.504444
+scores:
+  impact: null
+  uniqueness: 8.4
+  significance: 9.1
+  experience: null
+  depth: null
+  categories:
+    nature: 9.2
+    wildlife: 9.0

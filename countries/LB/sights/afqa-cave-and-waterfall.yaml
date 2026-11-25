@@ -1,0 +1,15 @@
+id: sight-lb-afqa-cave-and-waterfall
+name: "Afqa Cave and Waterfall"
+location:
+  country_code: LB
+  latitude: 34.068
+  longitude: 35.891
+scores:
+  impact: 8.6
+  uniqueness: 8.6
+  significance: 7.7
+  experience: 8.4
+  depth: 7.1
+  categories:
+    nature: 9.0
+    photography: 9.1

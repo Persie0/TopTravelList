@@ -1,0 +1,16 @@
+id: sight-ph-national-museum-fine-arts
+name: "National Museum of Fine Arts, Manila"
+location:
+  country_code: PH
+  latitude: 14.586
+  longitude: 120.981
+scores:
+  impact: 8.1
+  uniqueness: 8.1
+  significance: 8.6
+  experience: 8.5
+  depth: 8.6
+  categories:
+    culture: 8.9
+    history: 8.7
+    architecture: 8.4

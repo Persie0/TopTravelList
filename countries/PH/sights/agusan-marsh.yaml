@@ -1,0 +1,15 @@
+id: sight-ph-agusan-marsh
+name: "Agusan Marsh Wildlife Sanctuary"
+location:
+  country_code: PH
+  latitude: 8.23
+  longitude: 125.92
+scores:
+  impact: 8.2
+  uniqueness: 8.7
+  significance: 8.9
+  experience: 8.6
+  depth: 8.4
+  categories:
+    nature: 8.9
+    wildlife: 8.9

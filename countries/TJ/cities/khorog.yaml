@@ -1,0 +1,15 @@
+id: city-tj-khorog
+name: "Khorog"
+location:
+  country_code: TJ
+  latitude: 37.49
+  longitude: 71.55
+scores:
+  impact: 7.8
+  uniqueness: 8.3
+  significance: 7.3
+  experience: 8.0
+  depth: 7.3
+  categories:
+    culture: 8.5
+    photography: 8.3

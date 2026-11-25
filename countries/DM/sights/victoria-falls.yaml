@@ -1,0 +1,16 @@
+id: sight-dm-victoria-falls
+name: "Victoria Falls"
+location:
+  country_code: DM
+  latitude: 15.273
+  longitude: -61.276
+scores:
+  impact: 8.9
+  uniqueness: 8.7
+  significance: 6.8
+  experience: 8.2
+  depth: 7.2
+  categories:
+    nature: 9.2
+    photography: 9.3
+    adventure: 8.9

@@ -1,0 +1,15 @@
+id: sight-sa-elephant-rock
+name: "Elephant Rock (Jabal AlFil)"
+location:
+  country_code: SA
+  latitude: 26.685
+  longitude: 37.99
+scores:
+  impact: 8.7
+  uniqueness: 8.4
+  significance: 6.9
+  experience: 7.8
+  depth: 6.5
+  categories:
+    nature: 8.5
+    photography: 9.1
