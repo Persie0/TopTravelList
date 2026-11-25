@@ -2,7 +2,7 @@
 
 # United States (US) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**15 ranked** · **0 unassessed** · **15 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,25 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (15)
 
-No cities, towns & villages have been assessed for **United States** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [New York City](cities/new-york-city.yaml) | City / town | **94.95** | **Culture 9.6**, **Architecture 9.5**, **Food 9.5**, Nightlife 9.5 | 9.5 / 9.5 / 9.4 / 9.4 / 9.8 | [40.7128, -74.006](https://www.google.com/maps/search/?api=1&query=40.7128,-74.006) | [Google Maps](https://www.google.com/maps/search/?api=1&query=New%20York%20City%2C%20United%20States) |
+| 2 | [New Orleans](cities/new-orleans.yaml) | City / town | **90.00** | **Culture 9.4**, **Food 9.4**, **Nightlife 9.3**, History 9.1 | 8.8 / 9.3 / 9.0 / 9.1 / 8.7 | [29.9511, -90.0715](https://www.google.com/maps/search/?api=1&query=29.9511,-90.0715) | [Google Maps](https://www.google.com/maps/search/?api=1&query=New%20Orleans%2C%20United%20States) |
+| 3 | [Chicago](cities/chicago.yaml) | City / town | **89.90** | **Architecture 9.4**, **Culture 9.2**, **Food 9.1** | 8.9 / 9.0 / 9.0 / 9.0 / 9.2 | [41.8781, -87.6298](https://www.google.com/maps/search/?api=1&query=41.8781,-87.6298) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Chicago%2C%20United%20States) |
+| 4 | [Washington, D.C.](cities/washington-dc.yaml) | City / town | **89.55** | **History 9.4**, **Culture 9.2**, **Architecture 9.1** | 8.8 / 8.8 / 9.3 / 8.9 / 9.2 | [38.9072, -77.0369](https://www.google.com/maps/search/?api=1&query=38.9072,-77.0369) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Washington%2C%20D.C.%2C%20United%20States) |
+| 5 | [San Francisco](cities/san-francisco.yaml) | City / town | **89.45** | **Photography 9.3**, **Culture 9.1**, **Food 9.1**, Architecture 8.9 | 9.0 / 9.0 / 8.8 / 8.9 / 9.0 | [37.7749, -122.4194](https://www.google.com/maps/search/?api=1&query=37.7749,-122.4194) | [Google Maps](https://www.google.com/maps/search/?api=1&query=San%20Francisco%2C%20United%20States) |
+| 6 | [Los Angeles](cities/los-angeles.yaml) | City / town | **87.75** | **Culture 9.3**, **Food 9.2**, **Nightlife 8.9** | 8.5 / 8.9 / 9.0 / 8.6 / 9.1 | [34.0522, -118.2437](https://www.google.com/maps/search/?api=1&query=34.0522,-118.2437) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Los%20Angeles%2C%20United%20States) |
+| 7 | [Boston](cities/boston.yaml) | City / town | **86.90** | **History 9.3**, **Culture 9.0**, **Architecture 8.9** | 8.5 / 8.6 / 9.1 / 8.6 / 8.8 | [42.3601, -71.0589](https://www.google.com/maps/search/?api=1&query=42.3601,-71.0589) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Boston%2C%20United%20States) |
+| 8 | [Philadelphia](cities/philadelphia.yaml) | City / town | **85.80** | **History 9.3**, **Culture 9.0**, **Architecture 8.8** | 8.3 / 8.5 / 9.1 / 8.5 / 8.7 | [39.9526, -75.1652](https://www.google.com/maps/search/?api=1&query=39.9526,-75.1652) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Philadelphia%2C%20United%20States) |
+| 9 | [Honolulu](cities/honolulu.yaml) | City / town | **85.65** | **Culture 9.0**, **Photography 9.0**, **Food 8.8** | 8.5 / 8.5 / 8.6 / 8.8 / 8.5 | [21.3069, -157.8583](https://www.google.com/maps/search/?api=1&query=21.3069,-157.8583) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Honolulu%2C%20United%20States) |
+| 10 | [Santa Fe](cities/santa-fe.yaml) | City / town | **85.05** | **Culture 9.2**, **Architecture 9.0**, **History 8.9** | 8.3 / 8.8 / 8.7 / 8.5 / 8.0 | [35.687, -105.938](https://www.google.com/maps/search/?api=1&query=35.687,-105.938) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Santa%20Fe%2C%20United%20States) |
+| 11 | [Las Vegas](cities/las-vegas.yaml) | City / town | **84.85** | **Nightlife 9.3**, **Food 8.7**, **Architecture 8.4** | 8.7 / 9.0 / 7.3 / 8.9 / 8.3 | [36.1699, -115.1398](https://www.google.com/maps/search/?api=1&query=36.1699,-115.1398) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Las%20Vegas%2C%20United%20States) |
+| 12 | [Savannah](cities/savannah.yaml) | City / town | **84.05** | **Architecture 9.0**, **History 8.9**, **Photography 8.9** | 8.3 / 8.5 / 8.6 / 8.4 / 8.1 | [32.0809, -81.0912](https://www.google.com/maps/search/?api=1&query=32.0809,-81.0912) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Savannah%2C%20United%20States) |
+| 13 | [Seattle](cities/seattle.yaml) | City / town | **84.00** | **Photography 8.9**, **Culture 8.8**, **Food 8.8** | 8.4 / 8.3 / 8.2 / 8.7 / 8.6 | [47.6062, -122.3321](https://www.google.com/maps/search/?api=1&query=47.6062,-122.3321) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Seattle%2C%20United%20States) |
+| 14 | [San Antonio](cities/san-antonio.yaml) | City / town | **83.90** | **History 9.0**, **Food 8.9**, **Culture 8.8** | 8.1 / 8.5 / 8.7 / 8.5 / 8.2 | [29.4241, -98.4936](https://www.google.com/maps/search/?api=1&query=29.4241,-98.4936) | [Google Maps](https://www.google.com/maps/search/?api=1&query=San%20Antonio%2C%20United%20States) |
+| 15 | [Miami](cities/miami.yaml) | City / town | **83.00** | **Nightlife 9.1**, **Food 8.9**, **Culture 8.8** | 8.2 / 8.3 / 7.9 / 8.9 / 8.5 | [25.7617, -80.1918](https://www.google.com/maps/search/?api=1&query=25.7617,-80.1918) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Miami%2C%20United%20States) |
 
 ---
 
