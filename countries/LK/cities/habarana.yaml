@@ -1,0 +1,14 @@
+id: city-lk-habarana
+name: "Habarana"
+location:
+  country_code: LK
+  latitude: 8.0330
+  longitude: 80.7550
+scores:
+  impact: 6.9
+  uniqueness: 7.1
+  significance: 6.6
+  experience: 7.6
+  depth: 7.0
+  categories:
+    relaxation: 8.0

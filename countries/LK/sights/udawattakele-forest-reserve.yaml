@@ -1,0 +1,16 @@
+id: sight-lk-udawattakele-forest-reserve
+name: "Udawattakele Forest Reserve"
+location:
+  country_code: LK
+  latitude: 7.2995
+  longitude: 80.6410
+scores:
+  impact: 8.0
+  uniqueness: 8.2
+  significance: 7.7
+  experience: 8.5
+  depth: 8.0
+  categories:
+    nature: 8.8
+    wildlife: 8.5
+    relaxation: 8.6

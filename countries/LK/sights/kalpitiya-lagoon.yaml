@@ -1,0 +1,16 @@
+id: sight-lk-kalpitiya-lagoon
+name: "Kalpitiya Lagoon"
+location:
+  country_code: LK
+  latitude: 8.23
+  longitude: 79.77
+scores:
+  impact: 8.1
+  uniqueness: 8.2
+  significance: 7.3
+  experience: 8.7
+  depth: 8.3
+  categories:
+    adventure: 9.0
+    relaxation: 8.7
+    nature: 8.5

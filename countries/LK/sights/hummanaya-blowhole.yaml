@@ -1,0 +1,15 @@
+id: sight-lk-hummanaya-blowhole
+name: "Hummanaya Blowhole"
+location:
+  country_code: LK
+  latitude: 5.966
+  longitude: 80.733
+scores:
+  impact: 8.0
+  uniqueness: 8.4
+  significance: 7.1
+  experience: 8.0
+  depth: 6.8
+  categories:
+    nature: 8.7
+    photography: 8.6

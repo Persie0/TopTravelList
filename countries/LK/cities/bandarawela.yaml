@@ -1,0 +1,15 @@
+id: city-lk-bandarawela
+name: "Bandarawela"
+location:
+  country_code: LK
+  latitude: 6.8290
+  longitude: 80.9982
+scores:
+  impact: 7.3
+  uniqueness: 7.6
+  significance: 7.5
+  experience: 7.9
+  depth: 7.6
+  categories:
+    architecture: 7.9
+    relaxation: 8.1

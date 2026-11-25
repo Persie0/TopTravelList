@@ -1,0 +1,15 @@
+id: sight-lk-dondra-head-lighthouse
+name: "Dondra Head Lighthouse"
+location:
+  country_code: LK
+  latitude: 5.919
+  longitude: 80.590
+scores:
+  impact: 7.9
+  uniqueness: 7.9
+  significance: 7.5
+  experience: 8.0
+  depth: 7.0
+  categories:
+    photography: 8.8
+    history: 8.1

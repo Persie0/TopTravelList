@@ -1,0 +1,15 @@
+id: sight-lk-gadaladeniya-temple
+name: "Gadaladeniya Temple"
+location:
+  country_code: LK
+  latitude: 7.2570
+  longitude: 80.5600
+scores:
+  impact: 8.0
+  uniqueness: 8.4
+  significance: 8.7
+  experience: 8.2
+  depth: 7.5
+  categories:
+    architecture: 8.9
+    history: 9.0

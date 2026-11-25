@@ -1,0 +1,16 @@
+id: city-lk-batticaloa
+name: "Batticaloa"
+location:
+  country_code: LK
+  latitude: 7.7170
+  longitude: 81.7000
+scores:
+  impact: 7.9
+  uniqueness: 8.2
+  significance: 8.0
+  experience: 8.2
+  depth: 8.0
+  categories:
+    culture: 8.6
+    history: 8.4
+    food: 8.3

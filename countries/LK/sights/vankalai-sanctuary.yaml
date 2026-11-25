@@ -1,0 +1,15 @@
+id: sight-lk-vankalai-sanctuary
+name: "Vankalai Sanctuary"
+location:
+  country_code: LK
+  latitude: 8.93
+  longitude: 79.95
+scores:
+  impact: 8.0
+  uniqueness: 8.3
+  significance: 8.6
+  experience: 8.1
+  depth: 8.0
+  categories:
+    wildlife: 9.0
+    nature: 8.8

@@ -1,0 +1,16 @@
+id: sight-lk-madu-ganga-wetlands
+name: "Madu Ganga Wetlands"
+location:
+  country_code: LK
+  latitude: 6.28
+  longitude: 80.04
+scores:
+  impact: 8.3
+  uniqueness: 8.5
+  significance: 8.2
+  experience: 8.6
+  depth: 8.2
+  categories:
+    wildlife: 8.8
+    nature: 9.0
+    relaxation: 8.8

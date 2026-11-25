@@ -1,0 +1,15 @@
+id: city-lk-dambulla
+name: "Dambulla"
+location:
+  country_code: LK
+  latitude: 7.8730
+  longitude: 80.6511
+scores:
+  impact: 7.3
+  uniqueness: 7.5
+  significance: 7.9
+  experience: 7.7
+  depth: 7.5
+  categories:
+    history: 8.2
+    culture: 8.1

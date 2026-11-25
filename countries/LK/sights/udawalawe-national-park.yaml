@@ -1,0 +1,16 @@
+id: sight-lk-udawalawe-national-park
+name: "Udawalawe National Park"
+location:
+  country_code: LK
+  latitude: 6.47
+  longitude: 80.91
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 8.9
+  experience: 9.1
+  depth: 8.8
+  categories:
+    wildlife: 9.4
+    nature: 9.1
+    photography: 9.0

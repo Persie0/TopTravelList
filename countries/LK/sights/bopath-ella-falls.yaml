@@ -1,0 +1,15 @@
+id: sight-lk-bopath-ella-falls
+name: "Bopath Ella Falls"
+location:
+  country_code: LK
+  latitude: 6.799
+  longitude: 80.369
+scores:
+  impact: 8.1
+  uniqueness: 8.0
+  significance: 7.0
+  experience: 8.3
+  depth: 7.4
+  categories:
+    nature: 8.7
+    photography: 8.6

@@ -1,0 +1,15 @@
+id: sight-lk-colombo-lotus-tower
+name: "Colombo Lotus Tower"
+location:
+  country_code: LK
+  latitude: 6.9274
+  longitude: 79.8585
+scores:
+  impact: 8.1
+  uniqueness: 8.0
+  significance: 6.7
+  experience: 8.2
+  depth: 7.1
+  categories:
+    architecture: 8.7
+    photography: 8.8

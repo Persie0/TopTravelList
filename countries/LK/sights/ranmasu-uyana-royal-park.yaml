@@ -1,0 +1,15 @@
+id: sight-lk-ranmasu-uyana-royal-park
+name: "Ranmasu Uyana Royal Park"
+location:
+  country_code: LK
+  latitude: 8.3370
+  longitude: 80.3910
+scores:
+  impact: 7.9
+  uniqueness: 8.3
+  significance: 8.6
+  experience: 8.3
+  depth: 7.8
+  categories:
+    history: 9.0
+    architecture: 8.7

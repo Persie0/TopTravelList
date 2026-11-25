@@ -1,0 +1,15 @@
+id: city-lk-polonnaruwa
+name: "Polonnaruwa"
+location:
+  country_code: LK
+  latitude: 7.9403
+  longitude: 81.0188
+scores:
+  impact: 7.9
+  uniqueness: 8.2
+  significance: 8.4
+  experience: 8.1
+  depth: 7.8
+  categories:
+    history: 8.7
+    culture: 8.3

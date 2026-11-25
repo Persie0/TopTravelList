@@ -1,0 +1,15 @@
+id: sight-lk-laxapana-falls
+name: "Laxapana Falls"
+location:
+  country_code: LK
+  latitude: 6.906
+  longitude: 80.486
+scores:
+  impact: 8.7
+  uniqueness: 8.5
+  significance: 7.3
+  experience: 8.6
+  depth: 7.7
+  categories:
+    nature: 9.0
+    photography: 9.0

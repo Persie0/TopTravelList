@@ -1,0 +1,16 @@
+id: sight-lk-bambarakanda-falls
+name: "Bambarakanda Falls"
+location:
+  country_code: LK
+  latitude: 6.774
+  longitude: 80.828
+scores:
+  impact: 8.9
+  uniqueness: 8.7
+  significance: 7.7
+  experience: 8.7
+  depth: 7.8
+  categories:
+    nature: 9.2
+    photography: 9.2
+    adventure: 8.8

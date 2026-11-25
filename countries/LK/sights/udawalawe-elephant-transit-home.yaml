@@ -1,0 +1,15 @@
+id: sight-lk-udawalawe-elephant-transit-home
+name: "Udawalawe Elephant Transit Home"
+location:
+  country_code: LK
+  latitude: 6.420
+  longitude: 80.818
+scores:
+  impact: 7.8
+  uniqueness: 8.2
+  significance: 8.4
+  experience: 8.3
+  depth: 7.5
+  categories:
+    wildlife: 8.7
+    family: 8.5

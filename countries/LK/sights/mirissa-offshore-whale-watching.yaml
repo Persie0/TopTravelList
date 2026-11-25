@@ -1,0 +1,15 @@
+id: sight-lk-mirissa-offshore-whale-watching
+name: "Mirissa Offshore Whale Watching"
+location:
+  country_code: LK
+  latitude: 5.85
+  longitude: 80.44
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 8.2
+  experience: 8.8
+  depth: 8.2
+  categories:
+    wildlife: 9.3
+    adventure: 8.9

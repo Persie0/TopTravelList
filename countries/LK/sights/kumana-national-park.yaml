@@ -1,0 +1,16 @@
+id: sight-lk-kumana-national-park
+name: "Kumana National Park"
+location:
+  country_code: LK
+  latitude: 6.56
+  longitude: 81.69
+scores:
+  impact: 8.6
+  uniqueness: 8.9
+  significance: 8.9
+  experience: 8.7
+  depth: 8.7
+  categories:
+    wildlife: 9.3
+    nature: 9.2
+    photography: 8.9

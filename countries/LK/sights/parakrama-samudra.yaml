@@ -1,0 +1,16 @@
+id: sight-lk-parakrama-samudra
+name: "Parakrama Samudra"
+location:
+  country_code: LK
+  latitude: 7.9170
+  longitude: 80.9720
+scores:
+  impact: 8.3
+  uniqueness: 8.6
+  significance: 9.0
+  experience: 8.5
+  depth: 8.4
+  categories:
+    history: 9.3
+    nature: 8.7
+    photography: 8.7

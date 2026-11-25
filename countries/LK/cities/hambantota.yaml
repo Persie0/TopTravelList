@@ -1,0 +1,15 @@
+id: city-lk-hambantota
+name: "Hambantota"
+location:
+  country_code: LK
+  latitude: 6.1240
+  longitude: 81.1190
+scores:
+  impact: 6.7
+  uniqueness: 6.9
+  significance: 7.0
+  experience: 7.3
+  depth: 7.1
+  categories:
+    food: 7.6
+    history: 7.7

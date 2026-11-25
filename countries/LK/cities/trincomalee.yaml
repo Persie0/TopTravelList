@@ -1,0 +1,16 @@
+id: city-lk-trincomalee
+name: "Trincomalee"
+location:
+  country_code: LK
+  latitude: 8.5874
+  longitude: 81.2152
+scores:
+  impact: 8.3
+  uniqueness: 8.5
+  significance: 8.5
+  experience: 8.6
+  depth: 8.4
+  categories:
+    culture: 8.8
+    history: 8.8
+    food: 8.5

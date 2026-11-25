@@ -1,0 +1,16 @@
+id: sight-lk-royal-botanical-gardens-peradeniya
+name: "Royal Botanical Gardens Peradeniya"
+location:
+  country_code: LK
+  latitude: 7.2712
+  longitude: 80.5952
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 8.7
+  experience: 9.0
+  depth: 9.0
+  categories:
+    nature: 9.3
+    relaxation: 9.3
+    photography: 9.1

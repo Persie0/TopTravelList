@@ -1,0 +1,15 @@
+id: sight-lk-ravana-falls
+name: "Ravana Falls"
+location:
+  country_code: LK
+  latitude: 6.840
+  longitude: 81.054
+scores:
+  impact: 8.2
+  uniqueness: 8.0
+  significance: 7.0
+  experience: 8.3
+  depth: 7.4
+  categories:
+    nature: 8.7
+    photography: 8.7

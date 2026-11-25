@@ -1,0 +1,16 @@
+id: sight-lk-temple-of-the-sacred-tooth-relic
+name: "Temple of the Sacred Tooth Relic"
+location:
+  country_code: LK
+  latitude: 7.2939
+  longitude: 80.6413
+scores:
+  impact: 9.0
+  uniqueness: 9.3
+  significance: 9.5
+  experience: 9.0
+  depth: 8.6
+  categories:
+    culture: 9.7
+    history: 9.6
+    architecture: 9.3

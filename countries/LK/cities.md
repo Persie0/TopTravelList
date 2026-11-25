@@ -2,7 +2,7 @@
 
 # Sri Lanka (LK) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**55 ranked** · **0 unassessed** · **55 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,65 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, or click its GPS coordinates to open **Google Maps**. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (55)
 
-No cities, towns & villages have been assessed for **Sri Lanka** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps |
+| ---: | --- | --- | ---: | --- | --- | --- |
+| 1 | [Anuradhapura](cities/anuradhapura.yaml) | City / town | **91.00** | **History 9.6**, **Culture 9.4**, **Architecture 9.2** | 8.9 / 9.2 / 9.5 / 8.8 / 9.1 | [8.3114, 80.4037](https://www.google.com/maps/search/?api=1&query=8.3114,80.4037) |
+| 2 | [Kandy](cities/kandy.yaml) | City / town | **90.65** | **Culture 9.4**, **History 9.4**, **Architecture 9.2** | 9.0 / 9.1 / 9.3 / 9.0 / 8.8 | [7.2906, 80.6337](https://www.google.com/maps/search/?api=1&query=7.2906,80.6337) |
+| 3 | [Galle](cities/galle.yaml) | City / town | **89.55** | **Architecture 9.3**, **History 9.3**, **Culture 9.0** | 8.9 / 9.1 / 9.0 / 9.0 / 8.6 | [6.0535, 80.221](https://www.google.com/maps/search/?api=1&query=6.0535,80.221) |
+| 4 | [Colombo](cities/colombo.yaml) | City / town | **85.35** | **Food 9.1**, **Culture 8.9**, **Architecture 8.8**, History 8.6 | 8.4 / 8.3 / 8.6 / 8.8 / 9.0 | [6.9271, 79.8612](https://www.google.com/maps/search/?api=1&query=6.9271,79.8612) |
+| 5 | [Jaffna](cities/jaffna.yaml) | City / town | **85.10** | **Culture 9.1**, **Food 8.9**, **History 8.8** | 8.3 / 8.7 / 8.6 / 8.5 / 8.5 | [9.6615, 80.0255](https://www.google.com/maps/search/?api=1&query=9.6615,80.0255) |
+| 6 | [Trincomalee](cities/trincomalee.yaml) | City / town | **84.45** | **Culture 8.8**, **History 8.8**, **Food 8.5** | 8.3 / 8.5 / 8.5 / 8.6 / 8.4 | [8.5874, 81.2152](https://www.google.com/maps/search/?api=1&query=8.5874,81.2152) |
+| 7 | [Nuwara Eliya](cities/nuwara-eliya.yaml) | City / town | **82.95** | **Relaxation 8.9**, **Architecture 8.6**, **Photography 8.6** | 8.3 / 8.4 / 8.0 / 8.5 / 8.3 | [6.9497, 80.7891](https://www.google.com/maps/search/?api=1&query=6.9497,80.7891) |
+| 8 | [Polonnaruwa](cities/polonnaruwa.yaml) | City / town | **80.95** | **History 8.7**, **Culture 8.3** | 7.9 / 8.2 / 8.4 / 8.1 / 7.8 | [7.9403, 81.0188](https://www.google.com/maps/search/?api=1&query=7.9403,81.0188) |
+| 9 | [Kataragama](cities/kataragama.yaml) | City / town | **80.80** | **Culture 9.0**, **History 8.8** | 7.7 / 8.4 / 8.5 / 8.0 / 7.7 | [6.414, 81.332](https://www.google.com/maps/search/?api=1&query=6.414,81.332) |
+| 10 | [Batticaloa](cities/batticaloa.yaml) | City / town | **80.50** | **Culture 8.6**, **History 8.4**, **Food 8.3** | 7.9 / 8.2 / 8.0 / 8.2 / 8.0 | [7.717, 81.7](https://www.google.com/maps/search/?api=1&query=7.717,81.7) |
+| 11 | [Negombo](cities/negombo.yaml) | City / town | **79.60** | **Food 8.5**, **Culture 8.4**, **History 8.3** | 7.8 / 8.0 / 7.9 / 8.2 / 8.1 | [7.2083, 79.8358](https://www.google.com/maps/search/?api=1&query=7.2083,79.8358) |
+| 12 | [Matara](cities/matara.yaml) | City / town | **79.45** | **History 8.5**, **Architecture 8.4**, **Food 8.2** | 7.8 / 8.0 / 8.0 / 8.1 / 7.9 | [5.9485, 80.5353](https://www.google.com/maps/search/?api=1&query=5.9485,80.5353) |
+| 13 | [Mihintale](cities/mihintale.yaml) | City / town | **79.40** | **History 8.8**, **Culture 8.7** | 7.6 / 8.1 / 8.5 / 7.9 / 7.5 | [8.35, 80.5](https://www.google.com/maps/search/?api=1&query=8.35,80.5) |
+| 14 | [Ella](cities/ella.yaml) | City / town | **78.75** | **Relaxation 8.7**, **Photography 8.5**, **Food 8.0** | 8.1 / 8.1 / 6.8 / 8.6 / 7.7 | [6.8667, 81.0466](https://www.google.com/maps/search/?api=1&query=6.8667,81.0466) |
+| 15 | [Haputale](cities/haputale.yaml) | City / town | **77.65** | **Photography 8.6**, **Relaxation 8.5** | 7.8 / 8.0 / 7.3 / 8.1 / 7.5 | [6.7667, 80.95](https://www.google.com/maps/search/?api=1&query=6.7667,80.95) |
+| 15 | [Tissamaharama](cities/tissamaharama.yaml) | City / town | **77.65** | **History 8.6**, **Culture 8.5** | 7.5 / 7.8 / 8.1 / 7.9 / 7.6 | [6.28, 81.287](https://www.google.com/maps/search/?api=1&query=6.28,81.287) |
+| 17 | [Ratnapura](cities/ratnapura.yaml) | City / town | **76.40** | **Culture 8.4**, **History 8.2** | 7.3 / 7.8 / 7.8 / 7.8 / 7.7 | [6.681, 80.403](https://www.google.com/maps/search/?api=1&query=6.681,80.403) |
+| 18 | [Badulla](cities/badulla.yaml) | City / town | **76.25** | **Culture 8.2**, **History 8.1** | 7.4 / 7.6 / 7.7 / 7.9 / 7.8 | [6.9934, 81.055](https://www.google.com/maps/search/?api=1&query=6.9934,81.055) |
+| 18 | [Weligama](cities/weligama.yaml) | City / town | **76.25** | **Relaxation 8.5**, **Food 8.4**, **Culture 8.1** | 7.6 / 7.7 / 7.1 / 8.2 / 7.7 | [5.974, 80.429](https://www.google.com/maps/search/?api=1&query=5.974,80.429) |
+| 20 | [Beruwala](cities/beruwala.yaml) | City / town | **76.20** | **Culture 8.4**, **History 8.3**, **Food 8.0** | 7.3 / 7.7 / 7.8 / 7.9 / 7.6 | [6.478, 79.982](https://www.google.com/maps/search/?api=1&query=6.478,79.982) |
+| 20 | [Kalpitiya](cities/kalpitiya.yaml) | City / town | **76.20** | **Relaxation 8.3**, **Food 8.2**, **Culture 8.1** | 7.4 / 7.8 / 7.5 / 8.0 / 7.5 | [8.233, 79.766](https://www.google.com/maps/search/?api=1&query=8.233,79.766) |
+| 22 | [Ambalangoda](cities/ambalangoda.yaml) | City / town | **75.60** | **Culture 8.7**, **History 8.0** | 7.2 / 7.8 / 7.7 / 7.8 / 7.4 | [6.235, 80.056](https://www.google.com/maps/search/?api=1&query=6.235,80.056) |
+| 23 | [Dambulla](cities/dambulla.yaml) | City / town | **75.50** | **History 8.2**, **Culture 8.1** | 7.3 / 7.5 / 7.9 / 7.7 / 7.5 | [7.873, 80.6511](https://www.google.com/maps/search/?api=1&query=7.873,80.6511) |
+| 24 | [Bandarawela](cities/bandarawela.yaml) | City / town | **75.35** | **Relaxation 8.1**, **Architecture 7.9** | 7.3 / 7.6 / 7.5 / 7.9 / 7.6 | [6.829, 80.9982](https://www.google.com/maps/search/?api=1&query=6.829,80.9982) |
+| 25 | [Unawatuna](cities/unawatuna.yaml) | City / town | **75.25** | **Relaxation 8.7**, **Food 8.1** | 7.7 / 7.6 / 6.6 / 8.3 / 7.5 | [6.01, 80.248](https://www.google.com/maps/search/?api=1&query=6.01,80.248) |
+| 26 | [Kurunegala](cities/kurunegala.yaml) | City / town | **75.20** | **History 8.2**, **Culture 8.0** | 7.3 / 7.5 / 7.7 / 7.7 / 7.6 | [7.486, 80.364](https://www.google.com/maps/search/?api=1&query=7.486,80.364) |
+| 27 | [Matale](cities/matale.yaml) | City / town | **74.85** | **Culture 8.3**, **Food 8.0** | 7.2 / 7.5 / 7.6 / 7.8 / 7.6 | [7.467, 80.624](https://www.google.com/maps/search/?api=1&query=7.467,80.624) |
+| 28 | [Tangalle](cities/tangalle.yaml) | City / town | **74.60** | **Relaxation 8.6**, **Food 8.0** | 7.5 / 7.5 / 6.8 / 8.1 / 7.6 | [6.024, 80.795](https://www.google.com/maps/search/?api=1&query=6.024,80.795) |
+| 29 | [Arugam Bay Village](cities/arugam-bay-village.yaml) | Village | **74.55** | **Relaxation 8.6**, **Food 8.1** | 7.6 / 7.6 / 6.4 / 8.3 / 7.5 | [6.84, 81.83](https://www.google.com/maps/search/?api=1&query=6.84,81.83) |
+| 30 | [Sigiriya Village](cities/sigiriya-village.yaml) | Village | **74.50** | **Relaxation 8.4**, **Photography 8.1** | 7.4 / 7.6 / 7.1 / 8.0 / 7.1 | [7.95, 80.75](https://www.google.com/maps/search/?api=1&query=7.95,80.75) |
+| 31 | [Mannar](cities/mannar.yaml) | City / town | **74.30** | **History 8.3**, **Culture 8.1** | 7.1 / 7.5 / 7.8 / 7.5 / 7.4 | [8.977, 79.909](https://www.google.com/maps/search/?api=1&query=8.977,79.909) |
+| 32 | [Hikkaduwa](cities/hikkaduwa.yaml) | City / town | **74.10** | **Relaxation 8.4**, **Food 8.1**, **Nightlife 7.8** | 7.5 / 7.4 / 6.6 / 8.2 / 7.6 | [6.139, 80.105](https://www.google.com/maps/search/?api=1&query=6.139,80.105) |
+| 33 | [Mirissa](cities/mirissa.yaml) | City / town | **73.60** | **Relaxation 8.6**, **Food 8.1** | 7.6 / 7.4 / 6.3 / 8.2 / 7.4 | [5.948, 80.459](https://www.google.com/maps/search/?api=1&query=5.948,80.459) |
+| 34 | [Bentota](cities/bentota.yaml) | City / town | **73.55** | **Relaxation 8.6**, **Food 7.9** | 7.4 / 7.4 / 6.6 / 8.1 / 7.5 | [6.425, 79.995](https://www.google.com/maps/search/?api=1&query=6.425,79.995) |
+| 35 | [Delft Village](cities/delft-village.yaml) | Village | **73.40** | **Culture 8.1**, **History 8.0** | 7.0 / 7.7 / 7.5 / 7.5 / 6.9 | [9.522, 79.71](https://www.google.com/maps/search/?api=1&query=9.522,79.71) |
+| 36 | [Ahangama](cities/ahangama.yaml) | City / town | **73.35** | **Relaxation 8.5**, **Food 8.1** | 7.4 / 7.4 / 6.5 / 8.1 / 7.5 | [5.972, 80.362](https://www.google.com/maps/search/?api=1&query=5.972,80.362) |
+| 37 | [Hatton](cities/hatton.yaml) | City / town | **72.80** | **Culture 7.8**, **Food 7.8** | 7.0 / 7.3 / 7.4 / 7.7 / 7.2 | [6.8916, 80.595](https://www.google.com/maps/search/?api=1&query=6.8916,80.595) |
+| 38 | [Nilaveli](cities/nilaveli.yaml) | City / town | **72.40** | **Relaxation 8.6**, **Food 7.7** | 7.4 / 7.3 / 6.3 / 8.1 / 7.2 | [8.697, 81.191](https://www.google.com/maps/search/?api=1&query=8.697,81.191) |
+| 39 | [Point Pedro](cities/point-pedro.yaml) | City / town | **71.85** | **Culture 8.0**, **History 7.9** | 6.9 / 7.3 / 7.4 / 7.4 / 7.0 | [9.816, 80.233](https://www.google.com/maps/search/?api=1&query=9.816,80.233) |
+| 40 | [Uppuveli](cities/uppuveli.yaml) | City / town | **71.60** | **Relaxation 8.4**, **Food 7.7** | 7.3 / 7.2 / 6.3 / 8.0 / 7.1 | [8.604, 81.22](https://www.google.com/maps/search/?api=1&query=8.604,81.22) |
+| 41 | [Dalhousie (Nallathanniya)](cities/dalhousie-nallathanniya.yaml) | City / town | **71.50** | **Culture 8.0**, **Relaxation 7.8** | 6.9 / 7.3 / 7.1 / 7.7 / 6.8 | [6.823, 80.522](https://www.google.com/maps/search/?api=1&query=6.823,80.522) |
+| 41 | [Pottuvil](cities/pottuvil.yaml) | City / town | **71.50** | **Culture 8.0**, **Food 7.9** | 6.9 / 7.2 / 7.1 / 7.6 / 7.2 | [6.875, 81.83](https://www.google.com/maps/search/?api=1&query=6.875,81.83) |
+| 43 | [Kitulgala](cities/kitulgala.yaml) | City / town | **71.35** | **Relaxation 8.0** | 7.0 / 7.4 / 6.6 / 7.7 / 7.1 | [6.989, 80.412](https://www.google.com/maps/search/?api=1&query=6.989,80.412) |
+| 44 | [Talaimannar](cities/talaimannar.yaml) | City / town | **70.50** | **History 8.0**, **Photography 7.8** | 6.7 / 7.3 / 7.4 / 7.1 / 6.7 | [9.106, 79.731](https://www.google.com/maps/search/?api=1&query=9.106,79.731) |
+| 45 | [Habarana](cities/habarana.yaml) | City / town | **70.05** | **Relaxation 8.0** | 6.9 / 7.1 / 6.6 / 7.6 / 7.0 | [8.033, 80.755](https://www.google.com/maps/search/?api=1&query=8.033,80.755) |
+| 46 | [Pasikudah](cities/pasikudah.yaml) | City / town | **69.80** | **Relaxation 8.4** | 7.1 / 7.0 / 6.2 / 7.8 / 6.9 | [7.927, 81.561](https://www.google.com/maps/search/?api=1&query=7.927,81.561) |
+| 47 | [Hambantota](cities/hambantota.yaml) | City / town | **69.40** | **History 7.7**, **Food 7.6** | 6.7 / 6.9 / 7.0 / 7.3 / 7.1 | [6.124, 81.119](https://www.google.com/maps/search/?api=1&query=6.124,81.119) |
+| 48 | [Kegalle](cities/kegalle.yaml) | City / town | **68.85** | **Food 7.6** | 6.7 / 6.9 / 6.9 / 7.2 / 6.9 | [7.253, 80.346](https://www.google.com/maps/search/?api=1&query=7.253,80.346) |
+| 49 | [Puttalam](cities/puttalam.yaml) | City / town | **68.65** | **Food 7.8**, **Culture 7.6** | 6.6 / 6.9 / 6.9 / 7.2 / 7.0 | [8.036, 79.828](https://www.google.com/maps/search/?api=1&query=8.036,79.828) |
+| 50 | [Wellawaya](cities/wellawaya.yaml) | City / town | **68.25** | **Food 7.5** | 6.6 / 6.9 / 6.8 / 7.2 / 6.8 | [6.736, 81.102](https://www.google.com/maps/search/?api=1&query=6.736,81.102) |
+| 51 | [Ampara](cities/ampara.yaml) | City / town | **67.65** | **Culture 7.5**, **Food 7.5** | 6.6 / 6.8 / 6.7 / 7.1 / 6.8 | [7.297, 81.682](https://www.google.com/maps/search/?api=1&query=7.297,81.682) |
+| 52 | [Monaragala](cities/monaragala.yaml) | City / town | **67.20** | **Food 7.5** | 6.6 / 6.8 / 6.6 / 7.0 / 6.7 | [6.872, 81.349](https://www.google.com/maps/search/?api=1&query=6.872,81.349) |
+| 53 | [Kilinochchi](cities/kilinochchi.yaml) | City / town | **66.90** | **History 7.6** | 6.4 / 6.7 / 7.0 / 6.9 / 6.6 | [9.396, 80.398](https://www.google.com/maps/search/?api=1&query=9.396,80.398) |
+| 53 | [Vavuniya](cities/vavuniya.yaml) | City / town | **66.90** | **Culture 7.5**, **Food 7.5** | 6.4 / 6.7 / 6.8 / 7.1 / 6.7 | [8.751, 80.497](https://www.google.com/maps/search/?api=1&query=8.751,80.497) |
+| 55 | [Embilipitiya](cities/embilipitiya.yaml) | City / town | **66.45** | **Food 7.5** | 6.5 / 6.7 / 6.5 / 7.0 / 6.7 | [6.343, 80.849](https://www.google.com/maps/search/?api=1&query=6.343,80.849) |
 
 ---
 

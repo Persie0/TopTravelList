@@ -1,0 +1,16 @@
+id: sight-lk-ritigala-monastery-ruins
+name: "Ritigala Monastery Ruins"
+location:
+  country_code: LK
+  latitude: 8.1220
+  longitude: 80.6540
+scores:
+  impact: 8.3
+  uniqueness: 8.8
+  significance: 8.9
+  experience: 8.4
+  depth: 8.3
+  categories:
+    history: 9.2
+    nature: 8.8
+    architecture: 8.8

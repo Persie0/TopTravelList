@@ -1,0 +1,15 @@
+id: city-lk-tissamaharama
+name: "Tissamaharama"
+location:
+  country_code: LK
+  latitude: 6.2800
+  longitude: 81.2870
+scores:
+  impact: 7.5
+  uniqueness: 7.8
+  significance: 8.1
+  experience: 7.9
+  depth: 7.6
+  categories:
+    history: 8.6
+    culture: 8.5

@@ -1,0 +1,16 @@
+id: sight-lk-minneriya-national-park
+name: "Minneriya National Park"
+location:
+  country_code: LK
+  latitude: 8.00
+  longitude: 80.87
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 8.8
+  experience: 9.1
+  depth: 8.7
+  categories:
+    wildlife: 9.5
+    nature: 9.1
+    photography: 9.2

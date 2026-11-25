@@ -1,0 +1,17 @@
+id: city-lk-colombo
+name: "Colombo"
+location:
+  country_code: LK
+  latitude: 6.9271
+  longitude: 79.8612
+scores:
+  impact: 8.4
+  uniqueness: 8.3
+  significance: 8.6
+  experience: 8.8
+  depth: 9.0
+  categories:
+    food: 9.1
+    culture: 8.9
+    architecture: 8.8
+    history: 8.6

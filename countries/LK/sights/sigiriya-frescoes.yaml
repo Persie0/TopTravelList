@@ -1,0 +1,15 @@
+id: sight-lk-sigiriya-frescoes
+name: "Sigiriya Frescoes"
+location:
+  country_code: LK
+  latitude: 7.9574
+  longitude: 80.7595
+scores:
+  impact: 8.7
+  uniqueness: 9.1
+  significance: 9.0
+  experience: 8.3
+  depth: 7.1
+  categories:
+    culture: 9.4
+    history: 9.4

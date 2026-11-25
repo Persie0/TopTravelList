@@ -1,0 +1,15 @@
+id: sight-lk-uppuveli-beach
+name: "Uppuveli Beach"
+location:
+  country_code: LK
+  latitude: 8.607
+  longitude: 81.220
+scores:
+  impact: 8.2
+  uniqueness: 8.0
+  significance: 6.3
+  experience: 8.6
+  depth: 7.7
+  categories:
+    beaches: 8.8
+    relaxation: 8.9

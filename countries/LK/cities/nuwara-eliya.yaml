@@ -1,0 +1,16 @@
+id: city-lk-nuwara-eliya
+name: "Nuwara Eliya"
+location:
+  country_code: LK
+  latitude: 6.9497
+  longitude: 80.7891
+scores:
+  impact: 8.3
+  uniqueness: 8.4
+  significance: 8.0
+  experience: 8.5
+  depth: 8.3
+  categories:
+    architecture: 8.6
+    relaxation: 8.9
+    photography: 8.6

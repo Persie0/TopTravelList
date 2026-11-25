@@ -1,0 +1,14 @@
+id: sight-lk-coconut-tree-hill
+name: "Coconut Tree Hill"
+location:
+  country_code: LK
+  latitude: 5.941
+  longitude: 80.466
+scores:
+  impact: 8.5
+  uniqueness: 8.3
+  significance: 6.0
+  experience: 8.4
+  depth: 6.6
+  categories:
+    photography: 9.1

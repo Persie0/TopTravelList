@@ -1,0 +1,16 @@
+id: sight-lk-demodara-railway-loop
+name: "Demodara Railway Loop"
+location:
+  country_code: LK
+  latitude: 6.901
+  longitude: 81.060
+scores:
+  impact: 8.1
+  uniqueness: 8.7
+  significance: 8.3
+  experience: 8.1
+  depth: 7.2
+  categories:
+    architecture: 8.8
+    history: 8.8
+    photography: 8.4

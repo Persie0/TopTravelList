@@ -1,0 +1,16 @@
+id: sight-lk-wilpattu-national-park
+name: "Wilpattu National Park"
+location:
+  country_code: LK
+  latitude: 8.42
+  longitude: 80.00
+scores:
+  impact: 9.1
+  uniqueness: 9.2
+  significance: 9.2
+  experience: 9.0
+  depth: 9.0
+  categories:
+    wildlife: 9.5
+    nature: 9.3
+    photography: 9.1
