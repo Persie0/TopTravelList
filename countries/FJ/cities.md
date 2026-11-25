@@ -2,7 +2,7 @@
 
 # Fiji (FJ) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**6 ranked** · **1 unassessed** · **7 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,24 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (6)
 
-No cities, towns & villages have been assessed for **Fiji** yet.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Levuka](cities/levuka.yaml) | City / town | **82.50** | **History 9.0**, **Culture 8.6**, **Architecture 8.5** | 8.0 / 8.6 / 8.9 / 7.8 / 7.5 | [-17.684014, 178.840127](https://www.google.com/maps/search/?api=1&query=-17.684014,178.840127) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Levuka%2C%20Fiji) |
+| 2 | [Suva](cities/suva.yaml) | City / town | **78.10** | **Culture 8.5**, **Food 8.0**, **History 8.0** | 7.4 / 7.8 / 8.1 / 8.2 / 7.9 | [-18.13683, 178.42531](https://www.google.com/maps/search/?api=1&query=-18.13683,178.42531) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Suva%2C%20Fiji) |
+| 3 | [Savusavu](cities/savusavu.yaml) | City / town | **74.35** | **Relaxation 8.3**, **Culture 7.5**, **Food 7.5** | 7.5 / 7.6 / 6.9 / 7.9 / 7.2 | [-16.77942, 179.33564](https://www.google.com/maps/search/?api=1&query=-16.77942,179.33564) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Savusavu%2C%20Fiji) |
+| 4 | [Nadi](cities/nadi.yaml) | City / town | **73.15** | **Culture 8.0**, **Food 7.9**, **Architecture 7.6** | 6.9 / 7.6 / 7.1 / 7.9 / 7.4 | [-17.803089, 177.416166](https://www.google.com/maps/search/?api=1&query=-17.803089,177.416166) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nadi%2C%20Fiji) |
+| 5 | [Sigatoka](cities/sigatoka.yaml) | City / town | **68.75** | **Food 7.6**, **Culture 7.5** | 6.6 / 7.1 / 6.7 / 7.4 / 6.7 | [-18.14307, 177.50691](https://www.google.com/maps/search/?api=1&query=-18.14307,177.50691) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sigatoka%2C%20Fiji) |
+| 6 | [Lautoka](cities/lautoka.yaml) | City / town | **68.65** | **Culture 7.5**, **Food 7.3** | 6.5 / 7.0 / 7.0 / 7.3 / 6.7 | [-17.61686, 177.45049](https://www.google.com/maps/search/?api=1&query=-17.61686,177.45049) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lautoka%2C%20Fiji) |
 
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+## Not yet fully assessed (1)
+
+These destinations have no rank until all five core scores are assessed.
+
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| — | [Labasa](cities/labasa.yaml) | City / town | **—** | — | — / — / — / — / — | [-16.4332, 179.36451](https://www.google.com/maps/search/?api=1&query=-16.4332,179.36451) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Labasa%2C%20Fiji) |
 
 ---
 

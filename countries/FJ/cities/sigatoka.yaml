@@ -1,0 +1,15 @@
+id: city-fj-sigatoka
+name: "Sigatoka"
+location:
+  country_code: FJ
+  latitude: -18.14307
+  longitude: 177.50691
+scores:
+  impact: 6.6
+  uniqueness: 7.1
+  significance: 6.7
+  experience: 7.4
+  depth: 6.7
+  categories:
+    culture: 7.5
+    food: 7.6

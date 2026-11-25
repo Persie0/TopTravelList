@@ -1,0 +1,13 @@
+id: city-fj-labasa
+name: "Labasa"
+location:
+  country_code: FJ
+  latitude: -16.4332
+  longitude: 179.36451
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}
