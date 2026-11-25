@@ -9,8 +9,8 @@
 - Action: new
 - Precise subject: Berlin; Many independent neighborhoods and collections.
 - Location check: 52.52, 13.405; approximate representative point, exact verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Germany Travel](https://www.germany.travel/en/cities-culture/towns-cities.html) — consulted 2026-11-25; general tourism context only; destination-specific source not individually checked; material facts and access not fully verified.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.germany.travel/en/cities-culture/berlin.html — National tourism profile identifies monumental avenues, Museum Island and city history. Reviewed 2026-11-25; partial identity/context or visitor evidence only, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, permitted visitor scope, claim-level independent evidence and closer same-type peers.
 
 #### Worldwide peer comparisons
@@ -45,8 +45,8 @@
 - Action: new
 - Precise subject: Munich; Multiple independent districts excluding Alpine excursions.
 - Location check: 48.137, 11.575; approximate representative point, exact verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Germany Travel](https://www.germany.travel/en/cities-culture/towns-cities.html) — consulted 2026-11-25; general tourism context only; destination-specific source not individually checked; material facts and access not fully verified.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.germany.travel/en/cities-culture/munich.html — National tourism profile identifies Marienplatz and town halls; city scope excludes Alpine excursions. Reviewed 2026-11-25; partial identity/context or visitor evidence only, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, permitted visitor scope, claim-level independent evidence and closer same-type peers.
 
 #### Worldwide peer comparisons
@@ -81,8 +81,8 @@
 - Action: new
 - Precise subject: Hamburg; Many neighborhoods excluding distant coastal sights.
 - Location check: 53.55, 9.993; approximate representative point, exact verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Germany Travel](https://www.germany.travel/en/cities-culture/towns-cities.html) — consulted 2026-11-25; general tourism context only; destination-specific source not individually checked; material facts and access not fully verified.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.germany.travel/en/cities-culture/germanys-metropolises-of-millions.html — National tourism profile identifies Hamburg's metropolitan culture. Reviewed 2026-11-25; partial identity/context or visitor evidence only, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, permitted visitor scope, claim-level independent evidence and closer same-type peers.
 
 #### Worldwide peer comparisons
@@ -117,8 +117,8 @@
 - Action: new
 - Precise subject: Dresden; Several distinct urban districts.
 - Location check: 51.05, 13.737; approximate representative point, exact verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Germany Travel](https://www.germany.travel/en/cities-culture/towns-cities.html) — consulted 2026-11-25; general tourism context only; destination-specific source not individually checked; material facts and access not fully verified.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.germany.travel/en/inspiring-germany/rail-destinations.html — National tourism itinerary identifies Baroque architecture and urban attractions. Reviewed 2026-11-25; partial identity/context or visitor evidence only, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, permitted visitor scope, claim-level independent evidence and closer same-type peers.
 
 #### Worldwide peer comparisons
@@ -153,8 +153,8 @@
 - Action: new
 - Precise subject: Bamberg; Compact town with several districts.
 - Location check: 49.898, 10.902; approximate representative point, exact verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Germany Travel](https://www.germany.travel/en/cities-culture/towns-cities.html) — consulted 2026-11-25; general tourism context only; destination-specific source not individually checked; material facts and access not fully verified.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.germany.travel/en/cities-culture/towns-cities.html — Named destination profile describes Little Venice and historic city of gardeners. Reviewed 2026-11-25; partial identity/context or visitor evidence only, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, permitted visitor scope, claim-level independent evidence and closer same-type peers.
 
 #### Worldwide peer comparisons
@@ -189,8 +189,8 @@
 - Action: new
 - Precise subject: Heidelberg; City excludes surrounding Neckar valley.
 - Location check: 49.409, 8.694; approximate representative point, exact verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Germany Travel](https://www.germany.travel/en/cities-culture/towns-cities.html) — consulted 2026-11-25; general tourism context only; destination-specific source not individually checked; material facts and access not fully verified.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.germany.travel/en/inspiring-germany/rail-destinations.html — National tourism itinerary describes Neckar setting, university and historic town. Reviewed 2026-11-25; partial identity/context or visitor evidence only, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, permitted visitor scope, claim-level independent evidence and closer same-type peers.
 
 #### Worldwide peer comparisons
@@ -225,8 +225,8 @@
 - Action: new
 - Precise subject: Regensburg; Several compact historic districts.
 - Location check: 49.013, 12.102; approximate representative point, exact verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Germany Travel](https://www.germany.travel/en/cities-culture/towns-cities.html) — consulted 2026-11-25; general tourism context only; destination-specific source not individually checked; material facts and access not fully verified.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.germany.travel/en/cities-culture/world-heritage-old-towns.html — National tourism heritage guide describes medieval urban fabric and museums. Reviewed 2026-11-25; partial identity/context or visitor evidence only, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, permitted visitor scope, claim-level independent evidence and closer same-type peers.
 
 #### Worldwide peer comparisons
@@ -261,8 +261,8 @@
 - Action: new
 - Precise subject: Lübeck; Several historic districts.
 - Location check: 53.866, 10.687; approximate representative point, exact verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Germany Travel](https://www.germany.travel/en/cities-culture/towns-cities.html) — consulted 2026-11-25; general tourism context only; destination-specific source not individually checked; material facts and access not fully verified.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.germany.travel/en/cities-culture/world-heritage-old-towns.html — National tourism heritage guide identifies UNESCO Old Town. Reviewed 2026-11-25; partial identity/context or visitor evidence only, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, permitted visitor scope, claim-level independent evidence and closer same-type peers.
 
 #### Worldwide peer comparisons
@@ -297,8 +297,8 @@
 - Action: new
 - Precise subject: Nuremberg; Multiple city districts.
 - Location check: 49.453, 11.077; approximate representative point, exact verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Germany Travel](https://www.germany.travel/en/cities-culture/towns-cities.html) — consulted 2026-11-25; general tourism context only; destination-specific source not individually checked; material facts and access not fully verified.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.germany.travel/en/cities-culture/a-48-hour-trip-is-full-of-possibilities.html — Named urban itinerary includes castle, churches, walls and craft quarter. Reviewed 2026-11-25; partial identity/context or visitor evidence only, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, permitted visitor scope, claim-level independent evidence and closer same-type peers.
 
 #### Worldwide peer comparisons
@@ -333,8 +333,8 @@
 - Action: new
 - Precise subject: Cologne; Multiple independent neighborhoods.
 - Location check: 50.938, 6.96; approximate representative point, exact verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Germany Travel](https://www.germany.travel/en/cities-culture/towns-cities.html) — consulted 2026-11-25; general tourism context only; destination-specific source not individually checked; material facts and access not fully verified.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.germany.travel/en/cities-culture/germanys-metropolises-of-millions.html — Named metropolitan destination profile; cathedral and urban scope distinguished. Reviewed 2026-11-25; partial identity/context or visitor evidence only, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, permitted visitor scope, claim-level independent evidence and closer same-type peers.
 
 #### Worldwide peer comparisons
@@ -369,8 +369,8 @@
 - Action: new
 - Precise subject: Quedlinburg; Compact settlement.
 - Location check: 51.79, 11.14; approximate representative point, exact verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Germany Travel](https://www.germany.travel/en/cities-culture/towns-cities.html) — consulted 2026-11-25; general tourism context only; destination-specific source not individually checked; material facts and access not fully verified.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.germany.travel/en/campaign/world-heritage/earthly-treasure-and-architecture-route.html — National tourism heritage guide describes preserved medieval layout and timber houses. Reviewed 2026-11-25; partial identity/context or visitor evidence only, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, permitted visitor scope, claim-level independent evidence and closer same-type peers.
 
 #### Worldwide peer comparisons
@@ -405,8 +405,8 @@
 - Action: new
 - Precise subject: Rothenburg ob der Tauber; Small historic town.
 - Location check: 49.377, 10.179; approximate representative point, exact verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Germany Travel](https://www.germany.travel/en/cities-culture/towns-cities.html) — consulted 2026-11-25; general tourism context only; destination-specific source not individually checked; material facts and access not fully verified.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.germany.travel/en/cities-culture/rothenburg.html — National tourism destination profile; external Romantic Road excursions excluded. Reviewed 2026-11-25; partial identity/context or visitor evidence only, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, permitted visitor scope, claim-level independent evidence and closer same-type peers.
 
 #### Worldwide peer comparisons
@@ -441,8 +441,8 @@
 - Action: new
 - Precise subject: Potsdam; City scope excludes full palace network.
 - Location check: 52.39, 13.064; approximate representative point, exact verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Germany Travel](https://www.germany.travel/en/cities-culture/towns-cities.html) — consulted 2026-11-25; general tourism context only; destination-specific source not individually checked; material facts and access not fully verified.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://whc.unesco.org/en/statesparties/de — UNESCO confirms Potsdam/Berlin palaces and parks; city itinerary and scope remain provisional. Reviewed 2026-11-25; partial identity/context or visitor evidence only, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, permitted visitor scope, claim-level independent evidence and closer same-type peers.
 
 #### Worldwide peer comparisons
@@ -477,8 +477,8 @@
 - Action: new
 - Precise subject: Erfurt; Several compact urban districts.
 - Location check: 50.979, 11.029; approximate representative point, exact verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Germany Travel](https://www.germany.travel/en/cities-culture/towns-cities.html) — consulted 2026-11-25; general tourism context only; destination-specific source not individually checked; material facts and access not fully verified.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.germany.travel/en/cities-culture/erfurt.html — National tourism destination profile identifies medieval centre, church towers and Merchants' Bridge. Reviewed 2026-11-25; partial identity/context or visitor evidence only, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, permitted visitor scope, claim-level independent evidence and closer same-type peers.
 
 #### Worldwide peer comparisons
@@ -513,8 +513,8 @@
 - Action: new
 - Precise subject: Weimar; Several urban heritage precincts.
 - Location check: 50.98, 11.329; approximate representative point, exact verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Germany Travel](https://www.germany.travel/en/cities-culture/towns-cities.html) — consulted 2026-11-25; general tourism context only; destination-specific source not individually checked; material facts and access not fully verified.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.germany.travel/en/cities-culture/towns-cities.html — Named national tourism entry identifies Goethe and literary heritage. Reviewed 2026-11-25; partial identity/context or visitor evidence only, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, permitted visitor scope, claim-level independent evidence and closer same-type peers.
 
 #### Worldwide peer comparisons
@@ -549,8 +549,8 @@
 - Action: new
 - Precise subject: Bremen; Multiple districts.
 - Location check: 53.079, 8.801; approximate representative point, exact verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Germany Travel](https://www.germany.travel/en/cities-culture/towns-cities.html) — consulted 2026-11-25; general tourism context only; destination-specific source not individually checked; material facts and access not fully verified.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.germany.travel/en/cities-culture/a-48-hour-trip-is-full-of-possibilities.html — Named itinerary includes market, town hall, Schnoor and waterfront. Reviewed 2026-11-25; partial identity/context or visitor evidence only, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, permitted visitor scope, claim-level independent evidence and closer same-type peers.
 
 #### Worldwide peer comparisons
@@ -585,8 +585,8 @@
 - Action: new
 - Precise subject: Freiburg im Breisgau; Exclude Black Forest.
 - Location check: 47.995, 7.85; approximate representative point, exact verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Germany Travel](https://www.germany.travel/en/cities-culture/towns-cities.html) — consulted 2026-11-25; general tourism context only; destination-specific source not individually checked; material facts and access not fully verified.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.germany.travel/en/cities-culture/towns-cities.html — Named university city with historic centre; Black Forest external excursions excluded. Reviewed 2026-11-25; partial identity/context or visitor evidence only, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, permitted visitor scope, claim-level independent evidence and closer same-type peers.
 
 #### Worldwide peer comparisons
@@ -621,8 +621,8 @@
 - Action: new
 - Precise subject: Leipzig; Multiple cultural districts.
 - Location check: 51.34, 12.375; approximate representative point, exact verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Germany Travel](https://www.germany.travel/en/cities-culture/towns-cities.html) — consulted 2026-11-25; general tourism context only; destination-specific source not individually checked; material facts and access not fully verified.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.germany.travel/en/cities-culture/a-48-hour-trip-is-full-of-possibilities.html — Named national tourism urban itinerary. Reviewed 2026-11-25; partial identity/context or visitor evidence only, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, permitted visitor scope, claim-level independent evidence and closer same-type peers.
 
 #### Worldwide peer comparisons
@@ -657,8 +657,8 @@
 - Action: new
 - Precise subject: Trier; Several compact districts.
 - Location check: 49.756, 6.641; approximate representative point, exact verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Germany Travel](https://www.germany.travel/en/cities-culture/towns-cities.html) — consulted 2026-11-25; general tourism context only; destination-specific source not individually checked; material facts and access not fully verified.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://whc.unesco.org/en/statesparties/de — UNESCO inventory confirms Roman monuments, cathedral and Church of Our Lady; not proof of whole-city visitor breadth. Reviewed 2026-11-25; partial identity/context or visitor evidence only, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, permitted visitor scope, claim-level independent evidence and closer same-type peers.
 
 #### Worldwide peer comparisons
@@ -693,8 +693,8 @@
 - Action: new
 - Precise subject: Würzburg; City not full residence estate.
 - Location check: 49.794, 9.93; approximate representative point, exact verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Germany Travel](https://www.germany.travel/en/cities-culture/towns-cities.html) — consulted 2026-11-25; general tourism context only; destination-specific source not individually checked; material facts and access not fully verified.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://whc.unesco.org/en/statesparties/de — UNESCO confirms Würzburg Residence; broader city visitor claims remain provisional. Reviewed 2026-11-25; partial identity/context or visitor evidence only, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, permitted visitor scope, claim-level independent evidence and closer same-type peers.
 
 #### Worldwide peer comparisons
@@ -729,8 +729,8 @@
 - Action: new
 - Precise subject: Aachen; Several urban districts.
 - Location check: 50.776, 6.083; approximate representative point, exact verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Germany Travel](https://www.germany.travel/en/cities-culture/towns-cities.html) — consulted 2026-11-25; general tourism context only; destination-specific source not individually checked; material facts and access not fully verified.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.germany.travel/en/cities-culture/aachen.html — National tourism profile describes cathedral and historic city. Reviewed 2026-11-25; partial identity/context or visitor evidence only, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, permitted visitor scope, claim-level independent evidence and closer same-type peers.
 
 #### Worldwide peer comparisons
@@ -765,8 +765,8 @@
 - Action: new
 - Precise subject: Stralsund; Exclude Rügen excursions.
 - Location check: 54.309, 13.082; approximate representative point, exact verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Germany Travel](https://www.germany.travel/en/cities-culture/towns-cities.html) — consulted 2026-11-25; general tourism context only; destination-specific source not individually checked; material facts and access not fully verified.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.stralsundtourismus.de/en/stadt-aus-backstein/unesco-welterbe — Municipal tourism office documents city walls, gates and town hall. Reviewed 2026-11-25; partial identity/context or visitor evidence only, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, permitted visitor scope, claim-level independent evidence and closer same-type peers.
 
 #### Worldwide peer comparisons
@@ -801,8 +801,8 @@
 - Action: new
 - Precise subject: Goslar; Exclude Rammelsberg mine circuit.
 - Location check: 51.906, 10.429; approximate representative point, exact verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Germany Travel](https://www.germany.travel/en/cities-culture/towns-cities.html) — consulted 2026-11-25; general tourism context only; destination-specific source not individually checked; material facts and access not fully verified.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.germany.travel/en/campaign/world-heritage/earthly-treasure-and-architecture-route.html — National tourism heritage guide identifies historic town; separate mine experience not transferred. Reviewed 2026-11-25; partial identity/context or visitor evidence only, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, permitted visitor scope, claim-level independent evidence and closer same-type peers.
 
 #### Worldwide peer comparisons
@@ -837,8 +837,8 @@
 - Action: new
 - Precise subject: Frankfurt am Main; Several independent districts.
 - Location check: 50.111, 8.682; approximate representative point, exact verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Germany Travel](https://www.germany.travel/en/cities-culture/towns-cities.html) — consulted 2026-11-25; general tourism context only; destination-specific source not individually checked; material facts and access not fully verified.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.germany.travel/en/cities-culture/a-48-hour-trip-is-full-of-possibilities.html — Named national tourism urban itinerary. Reviewed 2026-11-25; partial identity/context or visitor evidence only, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, permitted visitor scope, claim-level independent evidence and closer same-type peers.
 
 #### Worldwide peer comparisons
@@ -873,8 +873,8 @@
 - Action: new
 - Precise subject: Schwerin; City not entire lake region.
 - Location check: 53.629, 11.414; approximate representative point, exact verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Germany Travel](https://www.germany.travel/en/cities-culture/towns-cities.html) — consulted 2026-11-25; general tourism context only; destination-specific source not individually checked; material facts and access not fully verified.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://whc.unesco.org/en/statesparties/de — UNESCO confirms Schwerin Residence Ensemble; broader city claims remain provisional. Reviewed 2026-11-25; partial identity/context or visitor evidence only, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, permitted visitor scope, claim-level independent evidence and closer same-type peers.
 
 #### Worldwide peer comparisons
@@ -909,8 +909,8 @@
 - Action: new
 - Precise subject: Augsburg; Several districts.
 - Location check: 48.37, 10.898; approximate representative point, exact verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Germany Travel](https://www.germany.travel/en/cities-culture/towns-cities.html) — consulted 2026-11-25; general tourism context only; destination-specific source not individually checked; material facts and access not fully verified.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.germany.travel/en/cities-culture/towns-cities.html — Named city profile describes Fugger heritage and historical urban streets. Reviewed 2026-11-25; partial identity/context or visitor evidence only, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, permitted visitor scope, claim-level independent evidence and closer same-type peers.
 
 #### Worldwide peer comparisons
@@ -945,8 +945,8 @@
 - Action: new
 - Precise subject: Füssen; Exclude royal castles and alpine lakes.
 - Location check: 47.569, 10.701; approximate representative point, exact verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Germany Travel](https://www.germany.travel/en/cities-culture/towns-cities.html) — consulted 2026-11-25; general tourism context only; destination-specific source not individually checked; material facts and access not fully verified.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.germany.travel/en/trade/sales-guide-365/fuessen-tourismus-marketing.html — National tourism directory identifies local tourism office and city setting; nearby royal palaces excluded. Reviewed 2026-11-25; partial identity/context or visitor evidence only, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, permitted visitor scope, claim-level independent evidence and closer same-type peers.
 
 #### Worldwide peer comparisons
@@ -981,8 +981,8 @@
 - Action: new
 - Precise subject: Wismar; Compact town not Baltic coast.
 - Location check: 53.893, 11.465; approximate representative point, exact verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Germany Travel](https://www.germany.travel/en/cities-culture/towns-cities.html) — consulted 2026-11-25; general tourism context only; destination-specific source not individually checked; material facts and access not fully verified.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.wismar-stralsund.de/en/world_heritage/ — Municipal heritage site documents Hanseatic planned settlements. Reviewed 2026-11-25; partial identity/context or visitor evidence only, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, permitted visitor scope, claim-level independent evidence and closer same-type peers.
 
 #### Worldwide peer comparisons
@@ -1017,8 +1017,8 @@
 - Action: new
 - Precise subject: Görlitz; Several urban districts.
 - Location check: 51.153, 14.988; approximate representative point, exact verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Germany Travel](https://www.germany.travel/en/cities-culture/towns-cities.html) — consulted 2026-11-25; general tourism context only; destination-specific source not individually checked; material facts and access not fully verified.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.visitsaxony.com/destinations/cities-and-towns/goerlitz — Regional tourism profile identifies urban architecture, museums and guided walks. Reviewed 2026-11-25; partial identity/context or visitor evidence only, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, permitted visitor scope, claim-level independent evidence and closer same-type peers.
 
 #### Worldwide peer comparisons
@@ -1053,8 +1053,8 @@
 - Action: new
 - Precise subject: Tübingen; Town not surrounding Swabian countryside.
 - Location check: 48.522, 9.057; approximate representative point, exact verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Germany Travel](https://www.germany.travel/en/cities-culture/towns-cities.html) — consulted 2026-11-25; general tourism context only; destination-specific source not individually checked; material facts and access not fully verified.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.germany.travel/en/cities-culture/tuebingen.html — National tourism profile identifies arts institutions, historic and university culture. Reviewed 2026-11-25; partial identity/context or visitor evidence only, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, permitted visitor scope, claim-level independent evidence and closer same-type peers.
 
 #### Worldwide peer comparisons

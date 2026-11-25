@@ -186,6 +186,7 @@
 - Location check: 52.52, 13.44; approximate representative point, exact verification pending.
 - Evidence status: **unassessed**
 - Evidence: [UNESCO](https://whc.unesco.org/en/statesparties/de) — consulted 2026-11-25; national inventory confirms property identity and listed or tentative status; material facts and access not fully verified.
+- Supplemental evidence (2026-11-25): https://whc.unesco.org/en/decisions/9186/ — UNESCO decision 48 COM 8B.32 confirms Waldsiedlung Zehlendorf extension, completing the series; ordinary combined access still unresolved.
 - Missing or uncertain facts: exact GPS, permitted visitor scope, claim-level independent evidence and closer same-type peers.
 
 #### Worldwide peer comparisons
@@ -991,6 +992,7 @@
 - Location check: 52.52, 13.396; approximate representative point, exact verification pending.
 - Evidence status: **source-linked-unverified**
 - Evidence: [UNESCO](https://whc.unesco.org/en/statesparties/de) — consulted 2026-11-25; national inventory confirms property identity and listed or tentative status; material facts and access not fully verified.
+- Supplemental evidence (2026-11-25): https://www.smb.museum/en/museums-institutions/pergamonmuseum/plan-your-visit/ — Museum operator confirms Pergamonmuseum reopens 4 June 2027; temporary closure documented separately from long-term quality.
 - Missing or uncertain facts: exact GPS, permitted visitor scope, claim-level independent evidence and closer same-type peers.
 
 #### Worldwide peer comparisons
@@ -2879,8 +2881,8 @@
 - Action: new
 - Precise subject: Neuschwanstein Castle; One palace not all Ludwig sites.
 - Location check: 47.558, 10.75; approximate representative point, exact verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Germany Travel](https://www.germany.travel/en/top-100/travel-attractions.html) — consulted 2026-11-25; general tourism context only; destination-specific source not individually checked; material facts and access not fully verified.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.hohenschwangau.de/en/neuschwanstein-castle — Ticket operator confirms approximately 30-minute guided interior visit with limited capacity; exterior viewpoints separate. Reviewed 2026-11-25; partial identity/context or visitor evidence only, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, permitted visitor scope, claim-level independent evidence and closer same-type peers.
 
 #### Worldwide peer comparisons
@@ -2898,13 +2900,13 @@
 | Uniqueness | — | 9.3 | Distinct Romantic royal castle silhouette |
 | Significance | — | 9.1 | International architectural and cultural heritage |
 | Experience | — | 9.0 | Managed tours and permitted viewpoints |
-| Depth | — | 8.7 | One palace not all Ludwig sites |
+| Depth | — | 8.2 | 30-minute guided palace interior and permitted exterior viewpoints; other royal sites excluded |
 
 - Applicable category scores: architecture: 9.6, photography: 9.6, history: 9.1.
-- Computed worldwide overall: 92.15/100.
-- High-score challenge: Impact 9.5: Dramatic historicist castle above wooded slopes; architecture 9.6: Dramatic historicist castle above wooded slopes; photography 9.6: Dramatic historicist castle above wooded slopes. 90+ total: Dramatic historicist castle above wooded slopes; Distinct Romantic royal castle silhouette; One palace not all Ludwig sites. Compare Schönbrunn and Hohensalzburg: specific monumental, cultural or historic character supports the named dimension, with visitor breadth limited to the stated scope. Closer same-type anchors are still required..
+- Computed worldwide overall: 91.65/100.
+- High-score challenge: impact 9.5, architecture 9.6 and photography 9.6 reflect the distinctive Romantic castle silhouette and setting, not unlimited interior breadth. Compared with Schönbrunn and Hohensalzburg, visitor depth is narrower given the 30-minute guided interior; no entire Ludwig estate itinerary assumed.
 - Approved 10 registry: none.
-- Final decision: Provisional editorial assessment: Distinct Romantic royal castle silhouette; One palace not all Ludwig sites.
+- Final decision: 91.65, depth reduced from 8.7 to 8.2 following operator visitor-scope evidence.
 - Earlier decision: none.
 - Verification still needed: independent site-specific facts, access and narrower worldwide peer comparisons.
 
@@ -2914,8 +2916,8 @@
 - Action: new
 - Precise subject: Linderhof Palace and gardens; One estate.
 - Location check: 47.571, 10.96; approximate representative point, exact verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Germany Travel](https://www.germany.travel/en/top-100/travel-attractions.html) — consulted 2026-11-25; general tourism context only; destination-specific source not individually checked; material facts and access not fully verified.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.schloesser.bayern.de/englisch/palace/objects/li_schl.htm — Palace administration documents royal villa and completed residence; https://www.schloesser.bayern.de/englisch/garden/objects/li_park.htm documents park. Reviewed 2026-11-25; partial identity/context or visitor evidence only, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, permitted visitor scope, claim-level independent evidence and closer same-type peers.
 
 #### Worldwide peer comparisons
@@ -2949,8 +2951,8 @@
 - Action: new
 - Precise subject: Herrenchiemsee New Palace; One palace estate.
 - Location check: 47.86, 12.4; approximate representative point, exact verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Germany Travel](https://www.germany.travel/en/top-100/travel-attractions.html) — consulted 2026-11-25; general tourism context only; destination-specific source not individually checked; material facts and access not fully verified.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.schloesser.bayern.de/englisch/palace/objects/hch_ns.htm — Palace administration documents New Palace and World Heritage identity. Reviewed 2026-11-25; partial identity/context or visitor evidence only, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, permitted visitor scope, claim-level independent evidence and closer same-type peers.
 
 #### Worldwide peer comparisons
@@ -2984,8 +2986,8 @@
 - Action: new
 - Precise subject: King's House on Schachen; One palace.
 - Location check: 47.42, 11.11; approximate representative point, exact verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Germany Travel](https://www.germany.travel/en/top-100/travel-attractions.html) — consulted 2026-11-25; general tourism context only; destination-specific source not individually checked; material facts and access not fully verified.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://schloesser.bayern.de/englisch/palace/objects/schachen.htm — Palace administration documents royal mountain house and historic interiors. Reviewed 2026-11-25; partial identity/context or visitor evidence only, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, permitted visitor scope, claim-level independent evidence and closer same-type peers.
 
 #### Worldwide peer comparisons
@@ -3019,8 +3021,8 @@
 - Action: new
 - Precise subject: Sanssouci Palace and Park; One named park estate.
 - Location check: 52.404, 13.039; approximate representative point, exact verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Germany Travel](https://www.germany.travel/en/top-100/travel-attractions.html) — consulted 2026-11-25; general tourism context only; destination-specific source not individually checked; material facts and access not fully verified.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.spsg.de/en/palaces-gardens/object/sanssouci-palace — Foundation identifies palace visitor scope; other separately ticketed Potsdam palaces excluded. Reviewed 2026-11-25; partial identity/context or visitor evidence only, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, permitted visitor scope, claim-level independent evidence and closer same-type peers.
 
 #### Worldwide peer comparisons
@@ -3054,8 +3056,8 @@
 - Action: new
 - Precise subject: Königssee lake; Lake not entire national park.
 - Location check: 47.55, 12.98; approximate representative point, exact verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Germany Travel](https://www.germany.travel/en/top-100/travel-attractions.html) — consulted 2026-11-25; general tourism context only; destination-specific source not individually checked; material facts and access not fully verified.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.seenschifffahrt.de/en/koenigssee/ — Boat operator confirms managed lake service and St Bartholomä access. Reviewed 2026-11-25; partial identity/context or visitor evidence only, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, permitted visitor scope, claim-level independent evidence and closer same-type peers.
 
 #### Worldwide peer comparisons
@@ -3089,8 +3091,8 @@
 - Action: new
 - Precise subject: Zugspitze scenic summit visitor landscape; Summit visitor scope only.
 - Location check: 47.421, 10.985; approximate representative point, exact verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Germany Travel](https://www.germany.travel/en/top-100/travel-attractions.html) — consulted 2026-11-25; general tourism context only; destination-specific source not individually checked; material facts and access not fully verified.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://zugspitze.de/en/Our-mountain-worlds/Highlights/Zugspitze-Round-Trip — Railway operator documents summit and plateau access by cable car and cogwheel railway. Reviewed 2026-11-25; partial identity/context or visitor evidence only, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, permitted visitor scope, claim-level independent evidence and closer same-type peers.
 
 #### Worldwide peer comparisons
@@ -3124,8 +3126,8 @@
 - Action: new
 - Precise subject: Brandenburg Gate; Single monument.
 - Location check: 52.516, 13.377; approximate representative point, exact verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Germany Travel](https://www.germany.travel/en/top-100/travel-attractions.html) — consulted 2026-11-25; general tourism context only; destination-specific source not individually checked; material facts and access not fully verified.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.visitberlin.de/en/brandenburg-gate — City tourism authority documents landmark and division/reunification symbolism. Reviewed 2026-11-25; partial identity/context or visitor evidence only, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, permitted visitor scope, claim-level independent evidence and closer same-type peers.
 
 #### Worldwide peer comparisons
@@ -3159,8 +3161,8 @@
 - Action: new
 - Precise subject: Heidelberg Castle; Castle complex only.
 - Location check: 49.41, 8.715; approximate representative point, exact verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Germany Travel](https://www.germany.travel/en/top-100/travel-attractions.html) — consulted 2026-11-25; general tourism context only; destination-specific source not individually checked; material facts and access not fully verified.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.schloss-heidelberg.de/en/visitor-information/ — Operator confirms guided interior access and courtyard, Great Barrel and Pharmacy Museum. Reviewed 2026-11-25; partial identity/context or visitor evidence only, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, permitted visitor scope, claim-level independent evidence and closer same-type peers.
 
 #### Worldwide peer comparisons
@@ -3194,8 +3196,8 @@
 - Action: new
 - Precise subject: Bastei rock formation and bridge; One viewpoint ensemble.
 - Location check: 50.962, 14.073; approximate representative point, exact verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Germany Travel](https://www.germany.travel/en/top-100/travel-attractions.html) — consulted 2026-11-25; general tourism context only; destination-specific source not individually checked; material facts and access not fully verified.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.saechsische-schweiz.de/en/poi/bastion — Regional tourism authority documents bridge, rock gate and viewpoints. Reviewed 2026-11-25; partial identity/context or visitor evidence only, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, permitted visitor scope, claim-level independent evidence and closer same-type peers.
 
 #### Worldwide peer comparisons
@@ -3229,8 +3231,8 @@
 - Action: new
 - Precise subject: Dresden Zwinger; Defined complex.
 - Location check: 51.053, 13.734; approximate representative point, exact verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Germany Travel](https://www.germany.travel/en/top-100/travel-attractions.html) — consulted 2026-11-25; general tourism context only; destination-specific source not individually checked; material facts and access not fully verified.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://shop.skd.museum/hausticket-zwinger.html — Museum operator identifies Old Masters gallery and sculpture collection; courtyard and fountain architecture. Reviewed 2026-11-25; partial identity/context or visitor evidence only, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, permitted visitor scope, claim-level independent evidence and closer same-type peers.
 
 #### Worldwide peer comparisons
@@ -3264,8 +3266,8 @@
 - Action: new
 - Precise subject: Miniatur Wunderland; Named museum only.
 - Location check: 53.543, 9.989; approximate representative point, exact verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Germany Travel](https://www.germany.travel/en/top-100/travel-attractions.html) — consulted 2026-11-25; general tourism context only; destination-specific source not individually checked; material facts and access not fully verified.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.miniatur-wunderland.com/visit — Operator documents public model-world exhibition and admission. Reviewed 2026-11-25; partial identity/context or visitor evidence only, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, permitted visitor scope, claim-level independent evidence and closer same-type peers.
 
 #### Worldwide peer comparisons
@@ -3299,8 +3301,8 @@
 - Action: new
 - Precise subject: Reichstag building and dome; Building and dome only.
 - Location check: 52.518, 13.376; approximate representative point, exact verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Germany Travel](https://www.germany.travel/en/top-100/travel-attractions.html) — consulted 2026-11-25; general tourism context only; destination-specific source not individually checked; material facts and access not fully verified.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.bundestag.de/en/visittheBundestag/dome/registration-245686?lang=en — Parliament visitor service requires prior registration; rooftop dome audio tour and separate guided visits. Reviewed 2026-11-25; partial identity/context or visitor evidence only, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, permitted visitor scope, claim-level independent evidence and closer same-type peers.
 
 #### Worldwide peer comparisons
@@ -3334,8 +3336,8 @@
 - Action: new
 - Precise subject: Elbphilharmonie; Building not entire HafenCity.
 - Location check: 53.541, 9.984; approximate representative point, exact verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Germany Travel](https://www.germany.travel/en/top-100/travel-attractions.html) — consulted 2026-11-25; general tourism context only; destination-specific source not individually checked; material facts and access not fully verified.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.elbphilharmonie.de/en/plaza — Operator identifies public viewing platform; https://www.elbphilharmonie.de/en/tours confirms separately bookable concert hall tours. Reviewed 2026-11-25; partial identity/context or visitor evidence only, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, permitted visitor scope, claim-level independent evidence and closer same-type peers.
 
 #### Worldwide peer comparisons
@@ -3369,8 +3371,8 @@
 - Action: new
 - Precise subject: Eibsee lake; Lake and immediate shore only.
 - Location check: 47.457, 10.97; approximate representative point, exact verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Germany Travel](https://www.germany.travel/en/top-100/travel-attractions.html) — consulted 2026-11-25; general tourism context only; destination-specific source not individually checked; material facts and access not fully verified.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.grainau.de/en/eibsee/ — Local tourism authority documents family-friendly circular lake trail; summit attractions excluded. Reviewed 2026-11-25; partial identity/context or visitor evidence only, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, permitted visitor scope, claim-level independent evidence and closer same-type peers.
 
 #### Worldwide peer comparisons
