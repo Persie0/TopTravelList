@@ -1,0 +1,14 @@
+id: city-lr-zwedru
+name: "Zwedru"
+location:
+  country_code: LR
+  latitude: 6.07
+  longitude: -8.13
+scores:
+  impact: 5.9
+  uniqueness: 6.6
+  significance: 6.5
+  experience: 6.7
+  depth: 6.0
+  categories:
+    culture: 7.3
