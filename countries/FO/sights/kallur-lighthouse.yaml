@@ -1,0 +1,16 @@
+id: sight-fo-kallur-lighthouse
+name: "Kallur Lighthouse and ridge"
+location:
+  country_code: FO
+  latitude: 62.372
+  longitude: -6.819
+scores:
+  impact: 9.1
+  uniqueness: 8.6
+  significance: 7.2
+  experience: 8.8
+  depth: 7.7
+  categories:
+    nature: 9.0
+    photography: 9.2
+    adventure: 8.8
