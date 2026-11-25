@@ -1,0 +1,16 @@
+id: sight-gh-navrongo-catholic-cathedral
+name: "Navrongo Catholic Cathedral"
+location:
+  country_code: GH
+  latitude: 10.895
+  longitude: -1.093
+scores:
+  impact: 7.7
+  uniqueness: 8.4
+  significance: 8.5
+  experience: 7.7
+  depth: 6.8
+  categories:
+    architecture: 8.9
+    history: 8.8
+    culture: 8.6

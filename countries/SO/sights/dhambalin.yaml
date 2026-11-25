@@ -1,0 +1,15 @@
+id: sight-so-dhambalin
+name: "Dhambalin Rock Art"
+location:
+  country_code: SO
+  latitude: 10.3652
+  longitude: 45.434
+scores:
+  impact: 8.8
+  uniqueness: 9.3
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    history: 9.3
+    culture: 9.1

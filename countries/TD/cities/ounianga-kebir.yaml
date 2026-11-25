@@ -1,0 +1,15 @@
+id: city-td-ounianga-kebir
+name: "Ounianga Kébir"
+location:
+  country_code: TD
+  latitude: 19.06
+  longitude: 20.49
+scores:
+  impact: 7.3
+  uniqueness: 8.1
+  significance: 7.2
+  experience: 7.4
+  depth: 6.2
+  categories:
+    culture: 8.3
+    photography: 8.5

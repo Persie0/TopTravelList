@@ -1,0 +1,15 @@
+id: sight-it-appennino-tosco-emiliano
+name: "Appennino Tosco-Emiliano National Park"
+location:
+  country_code: IT
+  latitude: 44.35
+  longitude: 10.2
+scores:
+  impact: 8.7
+  uniqueness: 8.7
+  significance: 8.7
+  experience: 8.8
+  depth: 9.0
+  categories:
+    nature: 9.2
+    adventure: 9.1

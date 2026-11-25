@@ -1,0 +1,15 @@
+id: city-gw-farim
+name: "Farim"
+location:
+  country_code: GW
+  latitude: 12.483889
+  longitude: -15.221667
+scores:
+  impact: 6.0
+  uniqueness: 7.0
+  significance: 7.0
+  experience: 6.6
+  depth: 6.0
+  categories:
+    culture: 7.7
+    history: 7.6

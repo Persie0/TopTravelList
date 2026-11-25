@@ -1,0 +1,16 @@
+id: sight-mx-nombre-de-dios-historic-temples
+name: "Historic Temples of Nombre de Dios"
+location:
+  country_code: MX
+  latitude: 23.849439
+  longitude: -104.244714
+scores:
+  impact: 8.0
+  uniqueness: 8.4
+  significance: 8.9
+  experience: 8.2
+  depth: 8.1
+  categories:
+    architecture: 8.8
+    history: 9.2
+    culture: 8.9

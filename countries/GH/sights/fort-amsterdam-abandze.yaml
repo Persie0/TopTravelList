@@ -1,0 +1,15 @@
+id: sight-gh-fort-amsterdam-abandze
+name: "Fort Amsterdam (Abandze)"
+location:
+  country_code: GH
+  latitude: 5.193
+  longitude: -1.082
+scores:
+  impact: 7.3
+  uniqueness: 8.0
+  significance: 8.6
+  experience: 7.2
+  depth: 6.5
+  categories:
+    history: 8.9
+    architecture: 8.0

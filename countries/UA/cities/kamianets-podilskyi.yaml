@@ -1,0 +1,16 @@
+id: city-ua-kamianets-podilskyi
+name: "Kamianets-Podilskyi"
+location:
+  country_code: UA
+  latitude: 48.6845
+  longitude: 26.5856
+scores:
+  impact: 9.0
+  uniqueness: 9.1
+  significance: 8.8
+  experience: 8.7
+  depth: 8.3
+  categories:
+    architecture: 9.3
+    history: 9.2
+    photography: 9.4

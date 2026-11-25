@@ -1,0 +1,16 @@
+id: city-cm-douala
+name: "Douala"
+location:
+  country_code: CM
+  latitude: 4.04827
+  longitude: 9.70428
+scores:
+  impact: 7.6
+  uniqueness: 8.0
+  significance: 8.2
+  experience: 8.1
+  depth: 8.4
+  categories:
+    culture: 8.5
+    food: 8.6
+    nightlife: 8.1

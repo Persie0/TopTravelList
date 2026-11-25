@@ -1,0 +1,16 @@
+id: sight-it-chianti-villas
+name: "Ville-fattoria system of Chianti Classico"
+location:
+  country_code: IT
+  latitude: 43.55
+  longitude: 11.3
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 9.0
+  experience: 8.9
+  depth: 9.0
+  categories:
+    food: 9.2
+    culture: 9.2
+    photography: 9.3

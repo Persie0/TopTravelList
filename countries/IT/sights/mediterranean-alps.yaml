@@ -1,0 +1,15 @@
+id: sight-it-mediterranean-alps
+name: "Mediterranean Alps (Italian sector)"
+location:
+  country_code: IT
+  latitude: 44.07
+  longitude: 7.65
+scores:
+  impact: 9.2
+  uniqueness: 9.1
+  significance: 9.0
+  experience: 9.0
+  depth: 9.3
+  categories:
+    nature: 9.5
+    photography: 9.4

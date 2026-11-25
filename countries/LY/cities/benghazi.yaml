@@ -1,0 +1,15 @@
+id: city-ly-benghazi
+name: "Benghazi"
+location:
+  country_code: LY
+  latitude: 32.11486
+  longitude: 20.06859
+scores:
+  impact: 7.3
+  uniqueness: 7.7
+  significance: 8.1
+  experience: 7.5
+  depth: 7.7
+  categories:
+    culture: 8.1
+    history: 8.3

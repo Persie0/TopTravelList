@@ -1,0 +1,14 @@
+id: sight-sd-sai-island
+name: "Sai Island Archaeological Landscape"
+location:
+  country_code: SD
+  latitude: 20.7083
+  longitude: 30.325
+scores:
+  impact: null
+  uniqueness: 8.8
+  significance: 9.1
+  experience: null
+  depth: null
+  categories:
+    history: 9.2

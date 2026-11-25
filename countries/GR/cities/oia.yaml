@@ -1,0 +1,15 @@
+id: city-gr-oia
+name: "Oia"
+location:
+  country_code: GR
+  latitude: 36.4618
+  longitude: 25.3753
+scores:
+  impact: 9.3
+  uniqueness: 9.1
+  significance: 8.2
+  experience: 8.6
+  depth: 7.8
+  categories:
+    architecture: 9.2
+    photography: 9.6

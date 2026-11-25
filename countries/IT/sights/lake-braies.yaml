@@ -1,0 +1,15 @@
+id: sight-it-lake-braies
+name: "Lake Braies"
+location:
+  country_code: IT
+  latitude: 46.7
+  longitude: 12.085
+scores:
+  impact: 9.4
+  uniqueness: 9.0
+  significance: 8.5
+  experience: 9.0
+  depth: 8.2
+  categories:
+    nature: 9.5
+    photography: 9.6

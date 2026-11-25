@@ -1,0 +1,14 @@
+id: sight-ne-lake-chad-cultural-landscape-niger
+name: "Lake Chad Cultural Landscape (Niger sector)"
+location:
+  country_code: NE
+  latitude: 13.933333
+  longitude: 13.4
+scores:
+  impact: null
+  uniqueness: 8.8
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    culture: 9
