@@ -15,3 +15,15 @@ test('viewport clustering preserves members and wraps longitude',()=>{const rows
 test('category histogram labels use the native scale',()=>{assert.equal(scoreBins('nature')[9],'9–10');assert.equal(scoreBins('overall')[9],'90–100')});
 test('fit bounds takes the short route across the date line',()=>{const p=wrappedLocations([{lat:-16,lon:179},{lat:-17,lon:-179}]);assert.equal(Math.abs(p[0][1]-p[1][1]),2);assert.deepEqual(wrappedLocations([{lat:48,lon:16}]),[[48,16]])});
 test('cached search adapts when a country name is available later',()=>{const a=row('a','A',90,5);assert.equal(match([a],{query:'austria'}).length,0);assert.equal(match([a],{query:'austria'},{AT:{name:'Austria'}}).length,1)});
+
+import {mapsSearchUrl} from './model.mjs';
+test('Google Maps searches preserve names, countries and punctuation',()=>{
+ for(const [name,country] of [['Vienna','Austria'],['Schönbrunn Palace','Austria'],["St. John's (A&B)",'Antigua and Barbuda'],['東京','Japan']]){
+   const u=new URL(mapsSearchUrl(name,country));
+   assert.equal(u.origin,'https://www.google.com');
+   assert.equal(u.pathname,'/maps/search/');
+   assert.equal(u.searchParams.get('api'),'1');
+   assert.equal(u.searchParams.get('query'),name+', '+country);
+ }
+ assert.equal(new URL(mapsSearchUrl('Austria')).searchParams.get('query'),'Austria');
+});

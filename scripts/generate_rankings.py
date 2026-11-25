@@ -92,6 +92,14 @@ def get_kind(name, folder):
     return "Attraction"
 
 
+def maps_search_url(query):
+    return "https://www.google.com/maps/search/?api=1&query=" + quote(query, safe="")
+
+
+def get_map_search(record, code):
+    return "[Google Maps](" + maps_search_url(f"{record['name']}, {get_country_name(code)}") + ")"
+
+
 def get_map_location(record, code):
     loc = record.get("location")
     if not isinstance(loc, dict) or set(loc) != {"country_code", "latitude", "longitude"}:
@@ -146,6 +154,7 @@ def load_records(code, folder, weights):
         record["_score"] = overall_score(record, weights)
         record["_source"] = folder + "/" + file.name
         record["_map"] = get_map_location(record, code)
+        record["_map_search"] = get_map_search(record, code)
         (ranked if record["_score"] is not None else unranked).append(record)
     ranked.sort(key=lambda d: (-d["_score"], d["name"].casefold(), d["id"]))
     unranked.sort(key=lambda d: (d["name"].casefold(), d["id"]))
@@ -154,8 +163,8 @@ def load_records(code, folder, weights):
 
 TABLE_HEADER = (
     "| Rank | Destination (click for YAML) | Type | Overall /100 | "
-    "Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps |\n"
-    "| ---: | --- | --- | ---: | --- | --- | --- |"
+    "Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |\n"
+    "| ---: | --- | --- | ---: | --- | --- | --- | --- |"
 )
 
 
@@ -164,7 +173,7 @@ def render_row(record, rank, folder):
     return (
         f"| {rank} | [{cell(record['name'])}]({record['_source']}) | "
         f"{cell(get_kind(record['name'], folder))} | **{overall}** | "
-        f"{list_categories(record)} | {core_scores(record)} | {record['_map']} |"
+        f"{list_categories(record)} | {core_scores(record)} | {record['_map']} | {record['_map_search']} |"
     )
 
 
@@ -191,8 +200,8 @@ def render_country(code, folder, weights, version):
         "",
         "**Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), "
         "S = Significance (20%), E = Experience (15%), D = Depth (10%). "
-        "Click a destination for its source YAML, or click its GPS coordinates "
-        "to open **Google Maps**. Locations are approximate representative points, "
+        "Click a destination for its source YAML, its **Google Maps** name-and-country search, "
+        "or its GPS coordinates for a representative map point. Locations are approximate representative points, "
         "not necessarily entrance coordinates.",
         "",
         f"## Complete ranked list ({len(ranked)})",
@@ -262,13 +271,14 @@ def generate_country_directory(codes):
         "",
         f"### Done ({len(done)})",
         "",
-        "| Country | Cities | Sights |",
-        "| --- | ---: | ---: |",
+        "| Country | Cities | Sights | Google Maps |",
+        "| --- | ---: | ---: | --- |",
     ]
     for name, code, cities, sights in done:
         lines.append(
             f"| [{cell(name)}](countries/{code}/) (`{code}`) | "
-            f"{cities} | {sights} |"
+            f"[{cities}](countries/{code}/cities.md) | [{sights}](countries/{code}/sights.md) | "
+            f"[Map]({maps_search_url(name)}) |"
         )
     lines.extend([
         "",
@@ -285,7 +295,7 @@ def generate_country_directory(codes):
         cells = []
         for name, code, cities, sights in group:
             status = f" ({cities} cities, {sights} sights)" if cities or sights else ""
-            cells.append(f"[{cell(name)}](countries/{code}/) (`{code}`){status}")
+            cells.append(f"[{cell(name)}](countries/{code}/) (`{code}`){status} · [Map]({maps_search_url(name)})")
         lines.append("| " + " | ".join(cells + [""] * (4 - len(cells))) + " |")
     return "\n".join(lines)
 

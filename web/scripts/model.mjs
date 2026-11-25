@@ -27,3 +27,8 @@ export function wrappedLocations(rows){
  const span=360-gap, shift=360*Math.floor((start+span/2+180)/360);
  return rows.map(r=>{let lon=((r.lon%360)+360)%360;if(lon<start-1e-9)lon+=360;return [r.lat,lon-shift]})
 }
+
+export function mapsSearchUrl(name, country){
+ const query=country ? name+', '+country : name;
+ return 'https://www.google.com/maps/search/?api=1&query='+encodeURIComponent(query).replace(/[!'()*]/g,c=>'%'+c.charCodeAt(0).toString(16).toUpperCase());
+}
