@@ -286,3 +286,20 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: No individually checked source.
 - Remaining gaps: Independent factual, GPS, peer and category verification.
+
+## Reassessment: city-bh-awali — 2026-11-25 (oldest-PR review)
+
+- [YAML](../../../countries/BH/cities/awali.yaml) · Action: rescore · **source-linked-unverified** (specific scope claim checked; other claims and coordinates not fully checked).
+- Earlier decision: [original entry](#city-bh-awali-w-2026-11-25) above.
+- Source reviewed 2026-11-25: [https://whc.unesco.org/en/tentativelists/6397](https://whc.unesco.org/en/tentativelists/6397). The UNESCO tentative listing describes a historically gated oil-company settlement, still inhabited, with diverse buildings and community facilities. The existing impact, uniqueness and significance judgments describe the urban fabric and industrial history; normal public visitor exploration is not established. Experience and depth must remain unassessed rather than infer a public route from resident facilities.
+- Core I/U/S/E/D: 6.9 / 7.9 / 8.3 / 7.0 / 6.5 → 6.9 / 7.9 / 8.3 / null / null. Total: 74.05/100 → unranked.
+- Category changes: {'architecture': 8.0, 'history': 8.5} → {'architecture': 8.0, 'history': 8.5}.
+- No new 9.5+ or perfect tens. Coordinates retained as approximate.
+
+| Current worldwide peer | I/U/S/E/D | Overall | Comparison |
+| --- | --- | --- | --- |
+| [Linz](../../../countries/AT/cities/linz.yaml) | 7.2 / 7.0 / 7.2 / 7.5 / 7.6 | 72.35/100 | Industrial heritage with broad public urban experience |
+| [Schaan](../../../countries/LI/cities/schaan.yaml) | 6.5 / 6.7 / 7.0 / 7.2 / 6.8 | 67.85/100 | Ordinary modern settlement |
+| [Amman](../../../countries/JO/cities/amman.yaml) | 8.5 / 8.5 / 8.9 / 8.7 / 9.0 | 86.60/100 | Broad historical urban exploration |
+| [Ipoh](../../../countries/MY/cities/ipoh.yaml) | 8.2 / 8.3 / 8.0 / 8.6 / 8.4 | 82.65/100 | Historic trading and industrial urban fabric |
+
