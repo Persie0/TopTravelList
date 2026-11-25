@@ -12,9 +12,9 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 ## Complete ranked list (1)
 
-| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps |
-| ---: | --- | --- | ---: | --- | --- | --- |
-| 1 | [Vatican City](cities/vatican-city.yaml) | City / town | **93.80** | **Culture 9.8**, **History 9.8**, **Architecture 9.6** | 9.3 / 9.7 / 9.9 / 8.9 / 8.5 | [41.90216, 12.45736](https://www.google.com/maps/search/?api=1&query=41.90216,12.45736) |
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Vatican City](cities/vatican-city.yaml) | City / town | **93.80** | **Culture 9.8**, **History 9.8**, **Architecture 9.6** | 9.3 / 9.7 / 9.9 / 8.9 / 8.5 | [41.90216, 12.45736](https://www.google.com/maps/search/?api=1&query=41.90216,12.45736) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Vatican%20City%2C%20Vatican%20City) |
 
 ---
 

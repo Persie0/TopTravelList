@@ -1,5 +1,5 @@
 id: sight-va-gallery-of-geographical-maps
-name: "Gallery of Geographical Maps"
+name: Gallery of Geographical Maps
 location:
   country_code: VA
   latitude: 41.90485
@@ -9,7 +9,7 @@ scores:
   uniqueness: 9.5
   significance: 9.2
   experience: 8.9
-  depth: 8.0
+  depth: 7.1
   categories:
     culture: 9.4
     architecture: 9.4

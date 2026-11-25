@@ -457,3 +457,63 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Vatican Museums](https://www.museivaticani.va/content/museivaticani/en/collezioni/musei.html) — search excerpt inspected 2026-11-25; named identity and limited context; not complete claim verification. 
 - Remaining gaps: exact coordinates, current individual gallery access, claim-level corroboration and category-specific comparisons. Shared ladders mix scope; no assertion of fully independent comparison.
+
+## Follow-up: sight-va-sistine-chapel — 2026-11-25 (worldwide review)
+
+- [YAML](../../../countries/VA/sights/sistine-chapel.yaml) · Action: rescore · **source-linked-unverified**: limited source claims checked; not comprehensive fact-check. Original decision above retained.
+- Sources inspected 2026-11-25: [https://www.museivaticani.va/content/museivaticani-mobile/en/collezioni/reparti/reparto-arte-XV-XVI.html](https://www.museivaticani.va/content/museivaticani-mobile/en/collezioni/reparti/reparto-arte-XV-XVI.html), [https://www.museivaticani.va/content/museivaticani/en/organizza-visita/consigli-utili.html](https://www.museivaticani.va/content/museivaticani/en/organizza-visita/consigli-utili.html)
+- Decision: Official museum material establishes the exceptionally influential fresco ensemble; visitor rules prohibit photos and require silence. Preserve artistic impact, rarity and historical merit, but a single chapel viewed along a museum route must not inherit the depth of a complete cathedral or museum. Photography remains omitted.
+- I/U/S/E/D: 9.9 / 9.9 / 9.9 / 9.1 / 8.7 → 9.9 / 9.9 / 9.9 / 9.1 / 7.8; total 96.60/100 → 95.70/100. Categories unchanged. No new 10 or country multiplier. Representative GPS retained.
+
+| Current worldwide peer | I/U/S/E/D | Overall | Scope comparison |
+| --- | --- | --- | --- |
+| [St. Stephen's Cathedral](../../../countries/AT/sights/st-stephens-cathedral.yaml) | 9.1 / 9.2 / 9.3 / 9.1 / 8.8 | 91.35/100 | Full cathedral has more architectural exploration. |
+| [Melk Abbey](../../../countries/AT/sights/melk-abbey.yaml) | 9.0 / 9.2 / 9.3 / 9.2 / 8.7 | 91.10/100 | Whole abbey circuit offers more visitor breadth. |
+| [Kunsthistorisches Museum](../../../countries/AT/sights/kunsthistorisches-museum.yaml) | 9.2 / 9.4 / 9.6 / 9.4 / 9.5 | 93.90/100 | Complete art museum has far greater collection depth. |
+| [St Vitus Cathedral](../../../countries/CZ/sights/st-vitus-cathedral.yaml) | 9.3 / 9.3 / 9.5 / 9.2 / 8.9 | 92.85/100 | Large cathedral provides varied spaces. |
+
+
+## Follow-up: sight-va-raphael-rooms — 2026-11-25 (worldwide review)
+
+- [YAML](../../../countries/VA/sights/raphael-rooms.yaml) · Action: rescore · **source-linked-unverified**: limited source claims checked; not comprehensive fact-check. Original decision above retained.
+- Sources inspected 2026-11-25: [https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/stanze-di-raffaello.html](https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/stanze-di-raffaello.html)
+- Decision: Vatican Museums confirms the four rooms of the papal apartment. Retain artistic uniqueness and influence, but reduce exploration depth to the four frescoed rooms, not the museum's full collection.
+- I/U/S/E/D: 9.5 / 9.6 / 9.7 / 9.0 / 8.8 → 9.5 / 9.6 / 9.7 / 9.0 / 8.1; total 94.20/100 → 93.50/100. Categories unchanged. No new 10 or country multiplier. Representative GPS retained.
+
+| Current worldwide peer | I/U/S/E/D | Overall | Scope comparison |
+| --- | --- | --- | --- |
+| [Kunsthistorisches Museum](../../../countries/AT/sights/kunsthistorisches-museum.yaml) | 9.2 / 9.4 / 9.6 / 9.4 / 9.5 | 93.90/100 | Entire museum has greater collection breadth. |
+| [National Palace Museum](../../../countries/TW/sights/national-palace-museum.yaml) | 9.3 / 9.6 / 9.8 / 9.2 / 9.3 | 94.60/100 | Large collection offers a deeper visit. |
+| [Schönbrunn Palace](../../../countries/AT/sights/schoenbrunn-palace.yaml) | 9.4 / 9.3 / 9.6 / 9.5 / 9.3 | 94.20/100 | Palace circuit contains many more spaces. |
+| [Belvedere Palace](../../../countries/AT/sights/belvedere-palace.yaml) | 9.0 / 9.1 / 9.2 / 9.2 / 9.0 | 90.95/100 | Broader palace and collection visit. |
+
+
+## Follow-up: sight-va-gallery-of-geographical-maps — 2026-11-25 (worldwide review)
+
+- [YAML](../../../countries/VA/sights/gallery-of-geographical-maps.yaml) · Action: rescore · **source-linked-unverified**: limited source claims checked; not comprehensive fact-check. Original decision above retained.
+- Sources inspected 2026-11-25: [https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/galleria-carte-geografiche.html](https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/galleria-carte-geografiche.html), [https://www.museivaticani.va/content/museivaticani-mobile/en/collezioni/reparti/reparto-arte-XV-XVI.html](https://www.museivaticani.va/content/museivaticani-mobile/en/collezioni/reparti/reparto-arte-XV-XVI.html)
+- Decision: Official museum description confirms a single 120-metre cartographic corridor, an unusually coherent historical program. Retain uniqueness 9.5 and historical significance but reduce depth for a linear gallery, not a whole museum or palace.
+- I/U/S/E/D: 9.4 / 9.5 / 9.2 / 8.9 / 8.0 → 9.4 / 9.5 / 9.2 / 8.9 / 7.1; total 91.70/100 → 90.80/100. Categories unchanged. No new 10 or country multiplier. Representative GPS retained.
+
+| Current worldwide peer | I/U/S/E/D | Overall | Scope comparison |
+| --- | --- | --- | --- |
+| [Kunsthistorisches Museum](../../../countries/AT/sights/kunsthistorisches-museum.yaml) | 9.2 / 9.4 / 9.6 / 9.4 / 9.5 | 93.90/100 | Full museum has much more depth. |
+| [National Palace Museum](../../../countries/TW/sights/national-palace-museum.yaml) | 9.3 / 9.6 / 9.8 / 9.2 / 9.3 | 94.60/100 | Full museum covers a much broader collection. |
+| [Melk Abbey](../../../countries/AT/sights/melk-abbey.yaml) | 9.0 / 9.2 / 9.3 / 9.2 / 8.7 | 91.10/100 | Multiple rooms and exhibits support longer exploration. |
+| [Belvedere Palace](../../../countries/AT/sights/belvedere-palace.yaml) | 9.0 / 9.1 / 9.2 / 9.2 / 9.0 | 90.95/100 | Entire palace visit has broader scope. |
+
+
+## Follow-up: sight-va-vatican-necropolis — 2026-11-25 (worldwide review)
+
+- [YAML](../../../countries/VA/sights/vatican-necropolis.yaml) · Action: fact-check-only · **source-linked-unverified**: limited source claims checked; not comprehensive fact-check. Original decision above retained.
+- Sources inspected 2026-11-25: [https://www.basilicasanpietro.va/en/products/the-necropolis](https://www.basilicasanpietro.va/en/products/the-necropolis), [https://www.basilicasanpietro.va/en/help/the-necropolis](https://www.basilicasanpietro.va/en/help/the-necropolis)
+- Decision: Basilica operator confirms an authorized guided tour of preserved burial chambers. Historical significance is supported by the specific archaeology, not unrestricted access to Vatican territory. Retain 8.4 depth provisionally for the interpreted underground circuit; distinguish from broader museums.
+- I/U/S/E/D: 8.9 / 9.3 / 9.5 / 8.6 / 8.4 → 8.9 / 9.3 / 9.5 / 8.6 / 8.4; total 90.25/100 → 90.25/100. Categories unchanged. No new 10 or country multiplier. Representative GPS retained.
+
+| Current worldwide peer | I/U/S/E/D | Overall | Scope comparison |
+| --- | --- | --- | --- |
+| [Chavín Archaeological Site](../../../countries/PE/sights/chavin-archaeological-site.yaml) | 8.5 / 9.2 / 9.6 / 8.3 / 8.5 | 88.65/100 | Broader archaeological ensemble. |
+| [Chan Chan Archaeological Zone](../../../countries/PE/sights/chan-chan-archaeological-zone.yaml) | 8.7 / 9.4 / 9.6 / 8.2 / 8.5 | 89.60/100 | More expansive ruins. |
+| [Tierradentro National Archaeological Park](../../../countries/CO/sights/tierradentro-national-archaeological-park.yaml) | 8.5 / 9.4 / 9.6 / 8.3 / 8.1 | 88.75/100 | Comparable interpreted funerary archaeology. |
+| [Actun Tunichil Muknal Cave](../../../countries/BZ/sights/actun-tunichil-muknal-cave.yaml) | 9.4 / 9.6 / 9.4 / 9.4 / 8.2 | 93.30/100 | Guided restricted archaeological cave with distinct cultural scope. |
+
