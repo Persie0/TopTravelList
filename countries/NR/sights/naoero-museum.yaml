@@ -1,0 +1,15 @@
+id: sight-nr-naoero-museum
+name: "Naoero Museum"
+location:
+  country_code: NR
+  latitude: -0.54511
+  longitude: 166.91479
+scores:
+  impact: 6.1
+  uniqueness: 7.1
+  significance: 7.3
+  experience: 6.5
+  depth: null
+  categories:
+    history: 7.4
+    culture: 7.5
