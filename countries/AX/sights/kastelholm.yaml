@@ -1,7 +1,7 @@
-id: sight-fi-kastelholm
+id: sight-ax-kastelholm
 name: "Kastelholm Castle"
 location:
-  country_code: FI
+  country_code: AX
   latitude: 60.235
   longitude: 20.08
 scores:

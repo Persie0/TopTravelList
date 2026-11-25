@@ -110,3 +110,13 @@ Original Norway decisions archived. Whole Svalbard and Jan Mayen tentative recor
 | sight-fr-new-caledonia-lagoons | sight-nc-new-caledonia-lagoons |
 
 [Original review](reviews/FR/migration-history-NC.md). Preserve partial scores; UNESCO six-cluster reef property remains unranked because combined permitted visitor scope is not established. Add four settlements and ten specifically scoped visitor sights; customary access restrictions respected. Parent names and approximate geographic points screened. Full cross-registry and coordinate audit remains outstanding.
+
+### Åland migration — 2026-11-25
+
+| Former ID | Active ID |
+| --- | --- |
+| city-fi-mariehamn | city-ax-mariehamn |
+| sight-fi-kastelholm | sight-ax-kastelholm |
+| sight-fi-bomarsund | sight-ax-bomarsund |
+
+Original Finnish reviews archived. Two new villages and eight new sights; Pommern separately scoped from adjacent museum. Parent names and approximate geographic points screened. Full independent coordinate and reference audit remains outstanding.

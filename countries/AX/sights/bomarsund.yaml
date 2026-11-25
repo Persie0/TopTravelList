@@ -1,7 +1,7 @@
-id: sight-fi-bomarsund
+id: sight-ax-bomarsund
 name: "Bomarsund Fortress Ruins"
 location:
-  country_code: FI
+  country_code: AX
   latitude: 60.213
   longitude: 20.24
 scores:
