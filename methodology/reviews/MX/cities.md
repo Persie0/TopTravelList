@@ -741,3 +741,321 @@ All scores are provisional editorial judgments; no independent fact-check status
 - Final decision: Provisional editorial score of named scope only.
 - Earlier decision: none.
 - Verification still needed: Site-specific access and geography.
+
+## city-mx-aculco — Aculco — 2026-11-25
+
+- YAML: [source](../../../countries/MX/cities/aculco.yaml)
+- Action: new
+- Precise subject: Historic settlement, streets and public plazas; exclude nearby waterfalls.
+- Location check: 20.099425, -99.826597; official UNESCO 1351-002 component reference converted from DMS, not an entrance; for settlement records this is a historic-core representative point.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO component inventory](https://whc.unesco.org/en/list/1351/maps/); [INAH royal-road inventory](https://lugares.inah.gob.mx/en/node/6163); [Official visitor source 1](https://www.gob.mx/sectur/articulos/aculco-estado-de-mexico?idiom=es); [Official visitor source 2](https://aculco.edomex.gob.mx/turismo) — reviewed 2026-11-25. Federal tourism describes townscape and locality; municipal tourism documents the visitor context. Not a claim of independent verification of every assertion.
+- Missing or uncertain facts: Independent corroboration, current permitted access and operating conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Hallstatt](../../../countries/AT/cities/hallstatt.yaml) | Less dramatic than Hallstatt |
+| [Port Elizabeth](../../../countries/VC/cities/port-elizabeth-bequia.yaml) | different inland trade history from Port Elizabeth |
+| [Speightstown](../../../countries/BB/cities/speightstown.yaml) | less extensive historic fabric than Speightstown |
+| [Placencia](../../../countries/BZ/cities/placencia-village.yaml) | greater architectural heritage than Placencia. |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 7.7 | Whitewashed streets and stone civic buildings |
+| Uniqueness | 8.1 | regional highland town character |
+| Significance | 8.3 | historic royal-road settlement |
+| Experience | 8.0 | town walks and local cultural encounter |
+| Depth | 7.2 | compact circuit. |
+
+- Applicable categories: architecture:8.6,history:8.7,culture:8.5.
+- Overall: 79.15/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide score for named visitor scope only.
+- Earlier decision: None.
+- Verification still needed: Independent factual corroboration and current access confirmation.
+
+## city-mx-san-juan-del-rio — San Juan del Río — 2026-11-25
+
+- YAML: [source](../../../countries/MX/cities/san-juan-del-rio.yaml)
+- Action: new
+- Precise subject: Urban historic core and local cultural sites, not regional wineries or hacienda excursions.
+- Location check: 20.389714, -99.996939; official UNESCO 1351-007 component reference converted from DMS, not an entrance; for settlement records this is a historic-core representative point.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO component inventory](https://whc.unesco.org/en/list/1351/maps/); [INAH royal-road inventory](https://lugares.inah.gob.mx/en/node/6163); [Official visitor source 1](https://queretaro.travel/lugares/descubre-san-juan-del-rio/); [Official visitor source 2](https://queretaro.travel/fichas/san-juan-del-rio/?lang=en) — reviewed 2026-11-25. State tourism advertises a historic-center circuit. Not a claim of independent verification of every assertion.
+- Missing or uncertain facts: Independent corroboration, current permitted access and operating conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Hallstatt](../../../countries/AT/cities/hallstatt.yaml) | Less scenic coherence than Hallstatt |
+| [Port Elizabeth](../../../countries/VC/cities/port-elizabeth-bequia.yaml) | more civic breadth than Port Elizabeth |
+| [Speightstown](../../../countries/BB/cities/speightstown.yaml) | different inland transport heritage from Speightstown |
+| [Placencia](../../../countries/BZ/cities/placencia-village.yaml) | more architecture than Placencia. |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 7.8 | Historic streets and plazas |
+| Uniqueness | 8.1 | distinct royal-road river settlement |
+| Significance | 8.5 | important regional transport history |
+| Experience | 8.0 | documented historic-center tour |
+| Depth | 7.8 | several urban stops. |
+
+- Applicable categories: architecture:8.6,history:8.9,culture:8.5.
+- Overall: 80.45/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide score for named visitor scope only.
+- Earlier decision: None.
+- Verification still needed: Independent factual corroboration and current access confirmation.
+
+## city-mx-lagos-de-moreno — Lagos de Moreno — 2026-11-25
+
+- YAML: [source](../../../countries/MX/cities/lagos-de-moreno.yaml)
+- Action: new
+- Precise subject: Historic town and named river bridge; ordinary public streets and religious exterior.
+- Location check: 21.357994, -101.928236; official UNESCO 1351-017 component reference converted from DMS, not an entrance; for settlement records this is a historic-core representative point.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO component inventory](https://whc.unesco.org/en/list/1351/maps/); [INAH royal-road inventory](https://lugares.inah.gob.mx/en/node/6163); [Official visitor source 1](https://www.gob.mx/sectur/articulos/lagos-de-moreno-jalisco?idiom=es); [Official visitor source 2](https://catalogonacionalmhi.inah.gob.mx/consulta_publica/detalle/27307) — reviewed 2026-11-25. Federal tourism specifically identifies the historic center, bridge and parish architecture; INAH documents the bridge. Not a claim of independent verification of every assertion.
+- Missing or uncertain facts: Independent corroboration, current permitted access and operating conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Hallstatt](../../../countries/AT/cities/hallstatt.yaml) | More colonial urban breadth than Hallstatt |
+| [Port Elizabeth](../../../countries/VC/cities/port-elizabeth-bequia.yaml) | more monumental church architecture than Port Elizabeth |
+| [Speightstown](../../../countries/BB/cities/speightstown.yaml) | different inland heritage from Speightstown |
+| [Placencia](../../../countries/BZ/cities/placencia-village.yaml) | greater built scope than Placencia. |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.3 | Ornate stone church and coherent streets |
+| Uniqueness | 8.5 | distinct colonial town and bridge context |
+| Significance | 8.7 | royal-road and regional civic heritage |
+| Experience | 8.4 | documented public architecture visits |
+| Depth | 8.0 | several urban monuments. |
+
+- Applicable categories: architecture:9.0,history:9.0,culture:8.8.
+- Overall: 84.15/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide score for named visitor scope only.
+- Earlier decision: None.
+- Verification still needed: Independent factual corroboration and current access confirmation.
+
+## city-mx-aguascalientes — Aguascalientes — 2026-11-25
+
+- YAML: [source](../../../countries/MX/cities/aguascalientes.yaml)
+- Action: new
+- Precise subject: City's urban heritage, cultural institutions and plazas, excluding regional excursions.
+- Location check: 21.880556, -102.296664; official UNESCO 1351-024 component reference converted from DMS, not an entrance; for settlement records this is a historic-core representative point.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO component inventory](https://whc.unesco.org/en/list/1351/maps/); [INAH royal-road inventory](https://lugares.inah.gob.mx/en/node/6163); [Official visitor source 1](https://ags.gob.mx/turismo/historia/centrohistorico/index.html); [Official visitor source 2](https://www.ags.gob.mx/turismo/conocemas/palaciodegobierno/index.html); [Official visitor source 3](https://www.ags.gob.mx/turismo/conocemas/plazafundadores/index.html) — reviewed 2026-11-25. Municipal visitor and historical pages describe the central district, public plazas and government palace murals. Not a claim of independent verification of every assertion.
+- Missing or uncertain facts: Independent corroboration, current permitted access and operating conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Vienna](../../../countries/AT/cities/vienna.yaml) | Less monumental than Vienna |
+| [Buenos Aires](../../../countries/AR/cities/buenos-aires.yaml) | less arts breadth than Buenos Aires |
+| [Bridgetown](../../../countries/BB/cities/bridgetown.yaml) | different inland civic fabric from Bridgetown |
+| [Belize City](../../../countries/BZ/cities/belize-city.yaml) | more urban architectural depth than Belize City. |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.0 | Historic civic architecture and plazas |
+| Uniqueness | 8.1 | distinct regional civic and trade identity |
+| Significance | 8.5 | royal-road and state history |
+| Experience | 8.3 | documented heritage walks and cultural venues |
+| Depth | 8.3 | multiple urban stops. |
+
+- Applicable categories: architecture:8.8,history:8.9,culture:8.8.
+- Overall: 82.00/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide score for named visitor scope only.
+- Earlier decision: None.
+- Verification still needed: Independent factual corroboration and current access confirmation.
+
+## city-mx-pinos — Pinos — 2026-11-25
+
+- YAML: [source](../../../countries/MX/cities/pinos.yaml)
+- Action: new
+- Precise subject: Town itself and historic churches; distant haciendas and mezcal tours excluded.
+- Location check: 22.298711, -101.575136; official UNESCO 1351-027 component reference converted from DMS, not an entrance; for settlement records this is a historic-core representative point.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO component inventory](https://whc.unesco.org/en/list/1351/maps/); [INAH royal-road inventory](https://lugares.inah.gob.mx/en/node/6163); [Official visitor source 1](https://www.zacatecastravel.com/detalle_pueblomagico.php?pm=4); [Official visitor source 2](https://www.sectur.gob.mx/pueblos-magicos/pino-zacatecas/) — reviewed 2026-11-25. State and federal tourism describe mining structures, churches and town routes. Not a claim of independent verification of every assertion.
+- Missing or uncertain facts: Independent corroboration, current permitted access and operating conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Hallstatt](../../../countries/AT/cities/hallstatt.yaml) | Less alpine spectacle than Hallstatt |
+| [Port Elizabeth](../../../countries/VC/cities/port-elizabeth-bequia.yaml) | different mining identity from Port Elizabeth |
+| [Speightstown](../../../countries/BB/cities/speightstown.yaml) | less broad historic fabric than Speightstown |
+| [Placencia](../../../countries/BZ/cities/placencia-village.yaml) | greater built heritage than Placencia. |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 7.8 | Mining-era chimneys and church streets |
+| Uniqueness | 8.3 | distinct historic mining settlement character |
+| Significance | 8.4 | regional colonial mining history |
+| Experience | 7.8 | plazas and architectural visits |
+| Depth | 7.2 | compact local circuit. |
+
+- Applicable categories: architecture:8.7,history:8.8,culture:8.5.
+- Overall: 79.85/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide score for named visitor scope only.
+- Earlier decision: None.
+- Verification still needed: Independent factual corroboration and current access confirmation.
+
+## city-mx-sombrerete — Sombrerete — 2026-11-25
+
+- YAML: [source](../../../countries/MX/cities/sombrerete.yaml)
+- Action: new
+- Precise subject: Historic town streets and architecture; Sierra de Órganos separately rated.
+- Location check: 23.631667, -103.639714; official UNESCO 1351-031 component reference converted from DMS, not an entrance; for settlement records this is a historic-core representative point.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO component inventory](https://whc.unesco.org/en/list/1351/maps/); [INAH royal-road inventory](https://lugares.inah.gob.mx/en/node/6163); [Official visitor source 1](https://www.zacatecastravel.com/detalle_pueblomagico.php?pm=2); [Official visitor source 2](https://www.gob.mx/sectur/articulos/sombrerete-zacatecas) — reviewed 2026-11-25. State tourism explicitly offers historic-center tours; federal tourism identifies mining origin. Not a claim of independent verification of every assertion.
+- Missing or uncertain facts: Independent corroboration, current permitted access and operating conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Hallstatt](../../../countries/AT/cities/hallstatt.yaml) | Less alpine backdrop than Hallstatt |
+| [Port Elizabeth](../../../countries/VC/cities/port-elizabeth-bequia.yaml) | more mining heritage than Port Elizabeth |
+| [Speightstown](../../../countries/BB/cities/speightstown.yaml) | different inland colonial fabric from Speightstown |
+| [Placencia](../../../countries/BZ/cities/placencia-village.yaml) | more architectural scope than Placencia. |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.2 | Historic stone streets and religious architecture |
+| Uniqueness | 8.5 | distinct northern mining town |
+| Significance | 8.6 | regional silver mining history |
+| Experience | 8.2 | documented historic-center circuit |
+| Depth | 7.9 | multiple urban stops. |
+
+- Applicable categories: architecture:8.9,history:9.0,photography:8.9.
+- Overall: 83.25/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide score for named visitor scope only.
+- Earlier decision: None.
+- Verification still needed: Independent factual corroboration and current access confirmation.
+
+## city-mx-san-luis-potosi — San Luis Potosí — 2026-11-25
+
+- YAML: [source](../../../countries/MX/cities/san-luis-potosi.yaml)
+- Action: new
+- Precise subject: Capital urban architecture, historic streets and cultural institutions; exclude Huasteca and other regional attractions.
+- Location check: 22.151258, -100.974544; official UNESCO 1351-039 component reference converted from DMS, not an entrance; for settlement records this is a historic-core representative point.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO component inventory](https://whc.unesco.org/en/list/1351/maps/); [INAH royal-road inventory](https://lugares.inah.gob.mx/en/node/6163); [Official visitor source 1](https://slp.gob.mx/visitasanluispotosi/) — reviewed 2026-11-25. State tourism describes the capital's architectural and artistic heritage; UNESCO maps the historic district. Not a claim of independent verification of every assertion.
+- Missing or uncertain facts: Independent corroboration, current permitted access and operating conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Vienna](../../../countries/AT/cities/vienna.yaml) | Less monumental breadth than Vienna |
+| [Buenos Aires](../../../countries/AR/cities/buenos-aires.yaml) | smaller metropolitan arts scope than Buenos Aires |
+| [Bridgetown](../../../countries/BB/cities/bridgetown.yaml) | different inland civic heritage from Bridgetown |
+| [Belize City](../../../countries/BZ/cities/belize-city.yaml) | more historic architectural breadth than Belize City. |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.4 | Monumental civic streets and religious buildings |
+| Uniqueness | 8.5 | distinct mining and inland trade heritage |
+| Significance | 8.8 | important regional colonial city history |
+| Experience | 8.4 | heritage and cultural visits |
+| Depth | 8.5 | multiple independent urban sites. |
+
+- Applicable categories: architecture:9.1,history:9.1,culture:8.9.
+- Overall: 85.15/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide score for named visitor scope only.
+- Earlier decision: None.
+- Verification still needed: Independent factual corroboration and current access confirmation.
+
+## city-mx-durango — Victoria de Durango — 2026-11-25
+
+- YAML: [source](../../../countries/MX/cities/durango.yaml)
+- Action: new
+- Precise subject: City's central streets, urban museums and civic spaces, not regional wilderness.
+- Location check: 24.024719, -104.670278; official UNESCO 1351-043 component reference converted from DMS, not an entrance; for settlement records this is a historic-core representative point.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO component inventory](https://whc.unesco.org/en/list/1351/maps/); [INAH royal-road inventory](https://lugares.inah.gob.mx/en/node/6163); [Official visitor source 1](https://visit.durango.gob.mx/itinerario) — reviewed 2026-11-25. State itinerary identifies historic-center tram circuit and several city museums. Not a claim of independent verification of every assertion.
+- Missing or uncertain facts: Independent corroboration, current permitted access and operating conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Vienna](../../../countries/AT/cities/vienna.yaml) | Less monumental than Vienna |
+| [Buenos Aires](../../../countries/AR/cities/buenos-aires.yaml) | less metropolitan breadth than Buenos Aires |
+| [Bridgetown](../../../countries/BB/cities/bridgetown.yaml) | different inland heritage from Bridgetown |
+| [Belize City](../../../countries/BZ/cities/belize-city.yaml) | more historic urban depth than Belize City. |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.3 | Historic plazas and architecture |
+| Uniqueness | 8.4 | regional northern mining and civic character |
+| Significance | 8.7 | royal-road and state historical significance |
+| Experience | 8.4 | documented city tram and museum experience |
+| Depth | 8.5 | many urban stops. |
+
+- Applicable categories: architecture:9.0,history:9.0,culture:8.9.
+- Overall: 84.40/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide score for named visitor scope only.
+- Earlier decision: None.
+- Verification still needed: Independent factual corroboration and current access confirmation.
+
+## city-mx-mapimi — Mapimí — 2026-11-25
+
+- YAML: [source](../../../countries/MX/cities/mapimi.yaml)
+- Action: new
+- Precise subject: Town's own architectural ensemble; Ojuela mine and bridge excluded from town score.
+- Location check: 25.833603, -103.84805; official UNESCO 1351-051 component reference converted from DMS, not an entrance; for settlement records this is a historic-core representative point.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO component inventory](https://whc.unesco.org/en/list/1351/maps/); [INAH royal-road inventory](https://lugares.inah.gob.mx/en/node/6163); [Official visitor source 1](https://visit.durango.gob.mx/pueblos/mapimi-pueblo-magico) — reviewed 2026-11-25. State tourism describes mining heritage and current tourism context; nearby mine is separately listed by UNESCO. Not a claim of independent verification of every assertion.
+- Missing or uncertain facts: Independent corroboration, current permitted access and operating conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Hallstatt](../../../countries/AT/cities/hallstatt.yaml) | Less scenic than Hallstatt |
+| [Port Elizabeth](../../../countries/VC/cities/port-elizabeth-bequia.yaml) | different mining identity from Port Elizabeth |
+| [Speightstown](../../../countries/BB/cities/speightstown.yaml) | less historic street breadth than Speightstown |
+| [Placencia](../../../countries/BZ/cities/placencia-village.yaml) | greater mining history than Placencia. |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 7.6 | Historic mining-town streets |
+| Uniqueness | 8.3 | distinct regional desert mining settlement |
+| Significance | 8.5 | centuries of mining heritage |
+| Experience | 7.8 | town walking and local cultural visits |
+| Depth | 7.2 | compact urban circuit. |
+
+- Applicable categories: history:8.9,architecture:8.5,culture:8.5.
+- Overall: 79.45/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide score for named visitor scope only.
+- Earlier decision: None.
+- Verification still needed: Independent factual corroboration and current access confirmation.
+
+### Camino Real component inventory follow-up
+See [60-component coverage register](camino-real-coverage.md). Existing overlapping World Heritage sites are linked rather than duplicated. The parent royal-road property remains unranked; named settlements and public visitor sites are evaluated independently.

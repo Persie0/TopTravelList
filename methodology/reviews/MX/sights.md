@@ -2795,3 +2795,111 @@ All 15 official component references now have distinct YAML entries and individu
 
 ### Sierra Gorda component completion (2026-11-25)
 All five official components of the [Franciscan Missions in the Sierra Gorda of Querétaro](https://whc.unesco.org/en/list/1079/maps/) now have distinct individual records and source-linked reviews, using official component coordinates. The parent five-mission circuit is retained as a separate, documented itinerary rather than a fabricated aggregate visit: the state tourism page describes all five and a commercial operator advertises a guided circuit covering all five. Individual scores do not include the entire mountain region or nearby towns. Current individual worship/interior schedules are not independently verified.
+
+## sight-mx-tepotzotlan-virreinato-museum — Former College of San Francisco Javier (National Museum of the Viceroyalty) — 2026-11-25
+
+- YAML: [source](../../../countries/MX/sights/tepotzotlan-virreinato-museum.yaml)
+- Action: new
+- Precise subject: Former Jesuit college and ordinary public museum spaces, not entire Tepotzotlán.
+- Location check: 19.713331, -99.221108; official UNESCO 1351-001 component reference converted from DMS, not an entrance; for settlement records this is a historic-core representative point.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO component inventory](https://whc.unesco.org/en/list/1351/maps/); [INAH royal-road inventory](https://lugares.inah.gob.mx/en/node/6163); [Official visitor source 1](https://lugares.inah.gob.mx/es/mundial/6455); [Official visitor source 2](https://lugares.inah.gob.mx/en/node/4983) — reviewed 2026-11-25. INAH identifies museum in former college and publishes visitor information. Not a claim of independent verification of every assertion.
+- Missing or uncertain facts: Independent corroboration, current permitted access and operating conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Hohensalzburg](../../../countries/AT/sights/hohensalzburg-fortress.yaml) | Less fortified monumentality than Hohensalzburg |
+| [Bridgetown Garrison](../../../countries/BB/sights/historic-bridgetown-and-its-garrison.yaml) | more focused sacred art than Garrison |
+| [Pigeon Island](../../../countries/LC/sights/pigeon-island-national-landmark.yaml) | more interior interpretation than Pigeon Island |
+| [Fort Hamilton](../../../countries/VC/sights/fort-hamilton-bequia.yaml) | greater architectural and collection breadth than Fort Hamilton. |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Ornate retablos and monastic architecture |
+| Uniqueness | 8.9 | distinct educational and sacred-art ensemble |
+| Significance | 9.1 | major viceregal religious and educational heritage |
+| Experience | 8.7 | interpreted museum and architecture |
+| Depth | 8.6 | multiple galleries and linked spaces. |
+
+- Applicable categories: architecture:9.3,history:9.3,culture:9.2.
+- Overall: 88.50/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide score for named visitor scope only.
+- Earlier decision: None.
+- Verification still needed: Independent factual corroboration and current access confirmation.
+
+## sight-mx-guadalupe-propaganda-fide-museum — Former College of Propaganda Fide (Guadalupe Museum) — 2026-11-25
+
+- YAML: [source](../../../countries/MX/sights/guadalupe-propaganda-fide-museum.yaml)
+- Action: new
+- Precise subject: Former Franciscan college and public museum collections, not entire Guadalupe city.
+- Location check: 22.746103, -102.518331; official UNESCO 1351-030 component reference converted from DMS, not an entrance; for settlement records this is a historic-core representative point.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO component inventory](https://whc.unesco.org/en/list/1351/maps/); [INAH royal-road inventory](https://lugares.inah.gob.mx/en/node/6163); [Official visitor source 1](https://lugares.inah.gob.mx/en/node/4259); [Official visitor source 2](https://lugares.inah.gob.mx/es/node/5123) — reviewed 2026-11-25. INAH documents the former college, 27 permanent rooms and purpose-made paintings. Not a claim of independent verification of every assertion.
+- Missing or uncertain facts: Independent corroboration, current permitted access and operating conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Hohensalzburg](../../../countries/AT/sights/hohensalzburg-fortress.yaml) | Less castle monumentality than Hohensalzburg |
+| [Bridgetown Garrison](../../../countries/BB/sights/historic-bridgetown-and-its-garrison.yaml) | more concentrated religious painting than Garrison |
+| [Pigeon Island](../../../countries/LC/sights/pigeon-island-national-landmark.yaml) | greater museum depth than Pigeon Island |
+| [Fort Hamilton](../../../countries/VC/sights/fort-hamilton-bequia.yaml) | broader interior experience than Fort Hamilton. |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.6 | Historic cloister and substantial viceregal art |
+| Uniqueness | 8.8 | distinct college-specific religious art program |
+| Significance | 9.1 | major mission and regional cultural heritage |
+| Experience | 8.7 | interpreted museum galleries |
+| Depth | 8.7 | extensive collection and several architectural spaces. |
+
+- Applicable categories: architecture:9.1,history:9.3,culture:9.3.
+- Overall: 87.75/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide score for named visitor scope only.
+- Earlier decision: None.
+- Verification still needed: Independent factual corroboration and current access confirmation.
+
+## sight-mx-sierra-de-organos-national-park — Sierra de Órganos National Park — 2026-11-25
+
+- YAML: [source](../../../countries/MX/sights/sierra-de-organos-national-park.yaml)
+- Action: new
+- Precise subject: Protected rock formations and established community-managed trails; no off-trail access assumed.
+- Location check: 23.863025, -103.847478; official UNESCO 1351-033 component reference converted from DMS, not an entrance; for settlement records this is a historic-core representative point.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO component inventory](https://whc.unesco.org/en/list/1351/maps/); [INAH royal-road inventory](https://lugares.inah.gob.mx/en/node/6163); [Official visitor source 1](https://www.gob.mx/conanp/es/articulos/se-fortalece-el-turismo-comunitario-en-sierra-de-organos-zacatecas); [Official visitor source 2](https://sierradeorganos.cozcyt.gob.mx/) — reviewed 2026-11-25. CONANP 2026 confirms community tourism and four established trails; state park site documents hiking. Not a claim of independent verification of every assertion.
+- Missing or uncertain facts: Independent corroboration, current permitted access and operating conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Pitons](../../../countries/LC/sights/pitons-management-area.yaml) | Less varied mountain terrain than Pitons |
+| [Torres del Paine](../../../countries/CL/sights/torres-del-paine-national-park.yaml) | less vast alpine scenery than Torres del Paine |
+| [Great Blue Hole](../../../countries/BZ/sights/blue-hole-natural-monument-great-blue-hole.yaml) | different terrestrial geology from Great Blue Hole |
+| [Sulphur Springs](../../../countries/LC/sights/sulphur-springs.yaml) | more hiking breadth than Sulphur Springs. |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Tall sculpted rock columns and open terrain |
+| Uniqueness | 8.8 | distinct concentrated rhyolite formations |
+| Significance | 8.3 | regional geological and royal-road landscape heritage |
+| Experience | 8.6 | documented interpretive hiking |
+| Depth | 8.3 | several established trails and landscape viewpoints. |
+
+- Applicable categories: nature:9.2,photography:9.3,adventure:8.9.
+- Overall: 86.50/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide score for named visitor scope only.
+- Earlier decision: None.
+- Verification still needed: Independent factual corroboration and current access confirmation.
+
+### Camino Real component inventory follow-up
+See [60-component coverage register](camino-real-coverage.md). Existing overlapping World Heritage sites are linked rather than duplicated. The parent royal-road property remains unranked; named settlements and public visitor sites are evaluated independently.

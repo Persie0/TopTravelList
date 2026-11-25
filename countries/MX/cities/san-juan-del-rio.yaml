@@ -1,0 +1,16 @@
+id: city-mx-san-juan-del-rio
+name: "San Juan del Río"
+location:
+  country_code: MX
+  latitude: 20.389714
+  longitude: -99.996939
+scores:
+  impact: 7.8
+  uniqueness: 8.1
+  significance: 8.5
+  experience: 8.0
+  depth: 7.8
+  categories:
+    architecture: 8.6
+    history: 8.9
+    culture: 8.5

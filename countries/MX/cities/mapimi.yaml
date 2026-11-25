@@ -1,0 +1,16 @@
+id: city-mx-mapimi
+name: "Mapimí"
+location:
+  country_code: MX
+  latitude: 25.833603
+  longitude: -103.84805
+scores:
+  impact: 7.6
+  uniqueness: 8.3
+  significance: 8.5
+  experience: 7.8
+  depth: 7.2
+  categories:
+    history: 8.9
+    architecture: 8.5
+    culture: 8.5
