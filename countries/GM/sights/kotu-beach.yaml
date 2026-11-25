@@ -1,0 +1,15 @@
+id: sight-gm-kotu-beach
+name: "Kotu Beach"
+location:
+  country_code: GM
+  latitude: 13.4600
+  longitude: -16.7150
+scores:
+  impact: 8.1
+  uniqueness: 7.5
+  significance: 5.9
+  experience: 8.5
+  depth: 7.3
+  categories:
+    beaches: 8.6
+    relaxation: 8.7

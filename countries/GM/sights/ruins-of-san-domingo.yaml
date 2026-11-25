@@ -1,0 +1,14 @@
+id: sight-gm-ruins-of-san-domingo
+name: "Ruins of San Domingo"
+location:
+  country_code: GM
+  latitude: 13.336389
+  longitude: -16.379472
+scores:
+  impact: null
+  uniqueness: null
+  significance: 8.7
+  experience: null
+  depth: null
+  categories:
+    history: 9.1
