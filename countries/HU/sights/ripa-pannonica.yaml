@@ -1,0 +1,14 @@
+id: sight-hu-ripa-pannonica
+name: "Ripa Pannonica Roman frontier (Hungarian tentative components)"
+location:
+  country_code: HU
+  latitude: 47
+  longitude: 18.95
+scores:
+  impact: 7.9
+  uniqueness: 8.7
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    history: 9.3

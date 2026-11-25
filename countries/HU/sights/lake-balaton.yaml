@@ -1,0 +1,17 @@
+id: sight-hu-lake-balaton
+name: "Lake Balaton"
+location:
+  country_code: HU
+  latitude: 46.83
+  longitude: 17.73
+scores:
+  impact: 8.7
+  uniqueness: 8.5
+  significance: 8.5
+  experience: 9.1
+  depth: 9.2
+  categories:
+    nature: 9.0
+    relaxation: 9.2
+    photography: 9.0
+    beaches: 8.8

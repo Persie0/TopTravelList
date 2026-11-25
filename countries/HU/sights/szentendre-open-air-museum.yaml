@@ -1,0 +1,16 @@
+id: sight-hu-szentendre-open-air-museum
+name: "Szentendre Open-Air Ethnographic Museum"
+location:
+  country_code: HU
+  latitude: 47.705
+  longitude: 19.054
+scores:
+  impact: 8.4
+  uniqueness: 8.8
+  significance: 8.8
+  experience: 8.8
+  depth: 9.0
+  categories:
+    culture: 9.2
+    architecture: 9.0
+    history: 9.0

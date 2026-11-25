@@ -1,0 +1,16 @@
+id: city-hu-sopron
+name: "Sopron"
+location:
+  country_code: HU
+  latitude: 47.6817
+  longitude: 16.5845
+scores:
+  impact: 8.6
+  uniqueness: 8.6
+  significance: 8.7
+  experience: 8.6
+  depth: 8.2
+  categories:
+    architecture: 9.1
+    history: 9.0
+    culture: 8.8

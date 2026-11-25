@@ -1,0 +1,14 @@
+id: sight-hu-buda-thermal-karst
+name: "Buda Thermal Karst cave system (tentative)"
+location:
+  country_code: HU
+  latitude: 47.53
+  longitude: 19.01
+scores:
+  impact: 8.7
+  uniqueness: 9.1
+  significance: 9.1
+  experience: null
+  depth: null
+  categories:
+    nature: 9.3

@@ -1,0 +1,16 @@
+id: city-hu-tihany
+name: "Tihany"
+location:
+  country_code: HU
+  latitude: 46.913
+  longitude: 17.888
+scores:
+  impact: 8.4
+  uniqueness: 8.5
+  significance: 8.2
+  experience: 8.5
+  depth: 7.4
+  categories:
+    photography: 9.0
+    architecture: 8.8
+    relaxation: 8.7

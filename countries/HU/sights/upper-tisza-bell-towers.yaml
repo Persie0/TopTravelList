@@ -1,0 +1,15 @@
+id: sight-hu-upper-tisza-bell-towers
+name: "Wooden bell towers of the Upper Tisza Region (tentative)"
+location:
+  country_code: HU
+  latitude: 48.08
+  longitude: 22.63
+scores:
+  impact: 8.2
+  uniqueness: 8.9
+  significance: 8.9
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.2
+    culture: 9.0

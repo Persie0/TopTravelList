@@ -1,0 +1,15 @@
+id: city-hu-balatonfured
+name: "Balatonfüred"
+location:
+  country_code: HU
+  latitude: 46.961
+  longitude: 17.89
+scores:
+  impact: 8.1
+  uniqueness: 8.0
+  significance: 8.1
+  experience: 8.8
+  depth: 8.0
+  categories:
+    relaxation: 9.0
+    culture: 8.6

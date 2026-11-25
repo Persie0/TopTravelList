@@ -1,0 +1,15 @@
+id: sight-hu-ipolytarnoc
+name: "Ipolytarnóc Fossils"
+location:
+  country_code: HU
+  latitude: 48.24
+  longitude: 19.64
+scores:
+  impact: 8.5
+  uniqueness: 9.1
+  significance: 9.2
+  experience: 8.6
+  depth: 8.3
+  categories:
+    nature: 9.2
+    history: 9.2

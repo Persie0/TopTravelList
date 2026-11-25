@@ -1,0 +1,16 @@
+id: sight-hu-hortobagy
+name: "Hortobágy National Park – the Puszta"
+location:
+  country_code: HU
+  latitude: 47.58
+  longitude: 21.12
+scores:
+  impact: 8.8
+  uniqueness: 9.3
+  significance: 9.2
+  experience: 8.8
+  depth: 9.1
+  categories:
+    nature: 9.3
+    wildlife: 9.4
+    culture: 9.3

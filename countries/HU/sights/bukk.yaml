@@ -1,0 +1,16 @@
+id: sight-hu-bukk
+name: "Bükk National Park"
+location:
+  country_code: HU
+  latitude: 48.06
+  longitude: 20.45
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 8.5
+  experience: 8.9
+  depth: 9.0
+  categories:
+    nature: 9.2
+    adventure: 9.0
+    photography: 9.0

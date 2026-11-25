@@ -1,0 +1,17 @@
+id: sight-ca-sirmilik-national-park
+name: "Sirmilik National Park"
+location:
+  country_code: CA
+  latitude: 73.08
+  longitude: -79.83
+scores:
+  impact: 9.0
+  uniqueness: 9.1
+  significance: 8.9
+  experience: 8.4
+  depth: 8.7
+  categories:
+    nature: 9.3
+    wildlife: 9.3
+    adventure: 9.1
+    photography: 9.3
