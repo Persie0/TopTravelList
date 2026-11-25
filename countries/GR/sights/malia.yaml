@@ -1,0 +1,14 @@
+id: sight-gr-malia
+name: "Malia Palace archaeological site"
+location:
+  country_code: GR
+  latitude: 35.293333
+  longitude: 25.4925
+scores:
+  impact: 8.4
+  uniqueness: 8.8
+  significance: 9.1
+  experience: 8.5
+  depth: 8.3
+  categories:
+    history: 9.3

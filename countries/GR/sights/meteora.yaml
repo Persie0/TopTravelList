@@ -1,0 +1,16 @@
+id: sight-gr-meteora
+name: "Meteora rock formations and monasteries"
+location:
+  country_code: GR
+  latitude: 39.721
+  longitude: 21.63
+scores:
+  impact: 9.7
+  uniqueness: 9.6
+  significance: 9.4
+  experience: 9.3
+  depth: 9.2
+  categories:
+    nature: 9.6
+    architecture: 9.6
+    photography: 9.8

@@ -1,0 +1,14 @@
+id: sight-gr-kydonia
+name: "Kydonia archaeological site"
+location:
+  country_code: GR
+  latitude: 35.517222
+  longitude: 24.019722
+scores:
+  impact: 7.5
+  uniqueness: 8.9
+  significance: 9.2
+  experience: 7.5
+  depth: 6.6
+  categories:
+    history: 9.3

@@ -1,0 +1,16 @@
+id: sight-gr-mount-olympus
+name: "Wider area of Mount Olympus (World Heritage property)"
+location:
+  country_code: GR
+  latitude: 40.085
+  longitude: 22.35
+scores:
+  impact: 9.2
+  uniqueness: 9.1
+  significance: 9.3
+  experience: 9.0
+  depth: 9.2
+  categories:
+    nature: 9.5
+    adventure: 9.3
+    history: 9.2
