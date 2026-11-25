@@ -1,0 +1,15 @@
+id: sight-kz-big-almaty-lake
+name: "Big Almaty Lake"
+location:
+  country_code: KZ
+  latitude: 43.051
+  longitude: 76.985
+scores:
+  impact: 8.9
+  uniqueness: 8.6
+  significance: 7.6
+  experience: 8.3
+  depth: 7.6
+  categories:
+    nature: 9.1
+    photography: 9.3

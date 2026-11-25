@@ -1,0 +1,16 @@
+id: sight-lc-sulphur-springs
+name: "Sulphur Springs"
+location:
+  country_code: LC
+  latitude: 13.839
+  longitude: -61.046
+scores:
+  impact: 8.6
+  uniqueness: 9.1
+  significance: 8.2
+  experience: 8.7
+  depth: 7.6
+  categories:
+    nature: 9.2
+    photography: 8.9
+    relaxation: 8.6

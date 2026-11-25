@@ -1,0 +1,15 @@
+id: sight-lt-birzai-castle
+name: "Biržai Castle"
+location:
+  country_code: LT
+  latitude: 56.205
+  longitude: 24.753
+scores:
+  impact: 8.1
+  uniqueness: 8.2
+  significance: 8.5
+  experience: 8.3
+  depth: 7.8
+  categories:
+    history: 8.8
+    architecture: 8.6

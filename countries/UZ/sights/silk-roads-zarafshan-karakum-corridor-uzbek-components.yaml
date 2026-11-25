@@ -1,0 +1,15 @@
+id: sight-uz-silk-roads-zarafshan-karakum-corridor-uzbek-components
+name: "Silk Roads Zarafshan-Karakum Corridor (Uzbek components)"
+location:
+  country_code: UZ
+  latitude: 39.85
+  longitude: 64.56
+scores:
+  impact: null
+  uniqueness: 9.3
+  significance: 9.6
+  experience: null
+  depth: null
+  categories:
+    history: 9.6
+    culture: 9.4

@@ -1,0 +1,15 @@
+id: city-tl-manatuto
+name: "Manatuto"
+location:
+  country_code: TL
+  latitude: -8.5153
+  longitude: 125.9656
+scores:
+  impact: 6.8
+  uniqueness: 7.0
+  significance: 7.1
+  experience: 7.3
+  depth: 6.4
+  categories:
+    culture: 7.6
+    history: 7.5

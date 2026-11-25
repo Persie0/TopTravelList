@@ -1,0 +1,16 @@
+id: sight-pk-fairy-meadows
+name: "Fairy Meadows"
+location:
+  country_code: PK
+  latitude: 35.39
+  longitude: 74.58
+scores:
+  impact: 9.3
+  uniqueness: 8.8
+  significance: 7.9
+  experience: 8.8
+  depth: 8.0
+  categories:
+    nature: 9.2
+    photography: 9.4
+    adventure: 8.8

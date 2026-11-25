@@ -1,0 +1,16 @@
+id: sight-kn-st-kitts-scenic-railway
+name: "St Kitts Scenic Railway"
+location:
+  country_code: KN
+  latitude: 17.305
+  longitude: -62.707
+scores:
+  impact: 8.4
+  uniqueness: 9.1
+  significance: 8.0
+  experience: 8.9
+  depth: 8.1
+  categories:
+    culture: 8.9
+    photography: 9.1
+    history: 8.5

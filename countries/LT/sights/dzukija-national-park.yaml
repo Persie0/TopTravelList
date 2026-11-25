@@ -1,0 +1,16 @@
+id: sight-lt-dzukija-national-park
+name: "Dzūkija National Park"
+location:
+  country_code: LT
+  latitude: 54.08
+  longitude: 24.38
+scores:
+  impact: 8.3
+  uniqueness: 8.5
+  significance: 8.3
+  experience: 8.7
+  depth: 8.8
+  categories:
+    nature: 9
+    culture: 8.6
+    adventure: 8.7

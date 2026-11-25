@@ -1,0 +1,15 @@
+id: city-lt-panevezys
+name: "Panevėžys"
+location:
+  country_code: LT
+  latitude: 55.734
+  longitude: 24.358
+scores:
+  impact: 7.0
+  uniqueness: 7.1
+  significance: 7.3
+  experience: 7.7
+  depth: 7.5
+  categories:
+    culture: 8.1
+    architecture: 7.4

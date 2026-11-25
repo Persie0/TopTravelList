@@ -1,0 +1,16 @@
+id: sight-bd-lalbagh-fort
+name: "Lalbagh Fort"
+location:
+  country_code: BD
+  latitude: 23.71885
+  longitude: 90.388208
+scores:
+  impact: 8.4
+  uniqueness: 8.6
+  significance: 8.9
+  experience: 8.5
+  depth: 7.9
+  categories:
+    architecture: 9.0
+    history: 9.2
+    photography: 8.8

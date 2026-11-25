@@ -1,0 +1,15 @@
+id: sight-uz-tashkent-metro
+name: "Tashkent Metro"
+location:
+  country_code: UZ
+  latitude: 41.312
+  longitude: 69.279
+scores:
+  impact: 8.6
+  uniqueness: 9.1
+  significance: 8.3
+  experience: 8.9
+  depth: 8.6
+  categories:
+    architecture: 9.4
+    photography: 9.2

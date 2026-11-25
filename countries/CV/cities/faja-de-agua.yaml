@@ -1,0 +1,15 @@
+id: city-cv-faja-de-agua
+name: "Faja de Agua"
+location:
+  country_code: CV
+  latitude: 14.8900
+  longitude: -24.7250
+scores:
+  impact: 7.9
+  uniqueness: 8.3
+  significance: 6.4
+  experience: 7.8
+  depth: 6.0
+  categories:
+    photography: 8.8
+    relaxation: 8.2

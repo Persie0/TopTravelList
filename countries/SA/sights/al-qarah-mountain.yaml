@@ -1,0 +1,15 @@
+id: sight-sa-al-qarah-mountain
+name: "Al Qarah Mountain"
+location:
+  country_code: SA
+  latitude: 25.41
+  longitude: 49.69
+scores:
+  impact: 8.2
+  uniqueness: 8.2
+  significance: 7.3
+  experience: 8.0
+  depth: 7.3
+  categories:
+    nature: 8.4
+    photography: 8.6

@@ -1,0 +1,15 @@
+id: sight-iq-ur
+name: "Ur Archaeological Site"
+location:
+  country_code: IQ
+  latitude: 30.962
+  longitude: 46.104
+scores:
+  impact: 8.9
+  uniqueness: 9.2
+  significance: 9.4
+  experience: 8.4
+  depth: 8.5
+  categories:
+    history: 9.4
+    architecture: 9.1

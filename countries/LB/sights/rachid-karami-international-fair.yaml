@@ -1,0 +1,15 @@
+id: sight-lb-rachid-karami-international-fair
+name: "Rachid Karami International Fair"
+location:
+  country_code: LB
+  latitude: 34.437778
+  longitude: 35.824167
+scores:
+  impact: 8.5
+  uniqueness: 9.2
+  significance: 9.1
+  experience: null
+  depth: 8.7
+  categories:
+    architecture: 9.4
+    history: 9.1

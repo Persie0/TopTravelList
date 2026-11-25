@@ -1,0 +1,16 @@
+id: sight-ag-north-beach-barbuda
+name: "North Beach (Barbuda)"
+location:
+  country_code: AG
+  latitude: 17.705
+  longitude: -61.859
+scores:
+  impact: 8.9
+  uniqueness: 8.4
+  significance: 6.0
+  experience: 8.2
+  depth: 7.0
+  categories:
+    beaches: 9.2
+    photography: 9.2
+    relaxation: 8.8

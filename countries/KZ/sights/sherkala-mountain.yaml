@@ -1,0 +1,15 @@
+id: sight-kz-sherkala-mountain
+name: "Sherkala Mountain"
+location:
+  country_code: KZ
+  latitude: 44.25
+  longitude: 52
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 7.4
+  experience: 8.4
+  depth: 7.2
+  categories:
+    nature: 8.9
+    photography: 9.2

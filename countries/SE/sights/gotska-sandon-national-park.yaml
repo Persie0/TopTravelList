@@ -1,0 +1,16 @@
+id: sight-se-gotska-sandon-national-park
+name: "Gotska Sandön National Park"
+location:
+  country_code: SE
+  latitude: 58.37
+  longitude: 19.25
+scores:
+  impact: 8.7
+  uniqueness: 9.0
+  significance: 8.7
+  experience: 8.6
+  depth: 8.5
+  categories:
+    nature: 9.2
+    beaches: 9
+    photography: 9

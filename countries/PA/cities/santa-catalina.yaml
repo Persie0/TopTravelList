@@ -1,0 +1,15 @@
+id: city-pa-santa-catalina
+name: "Santa Catalina"
+location:
+  country_code: PA
+  latitude: 7.633
+  longitude: -81.258
+scores:
+  impact: 7.2
+  uniqueness: 7.7
+  significance: 6.1
+  experience: 8.1
+  depth: 6.6
+  categories:
+    relaxation: 8.4
+    food: 7.6

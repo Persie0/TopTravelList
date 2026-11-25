@@ -1,0 +1,15 @@
+id: sight-kg-burana-balasagun-archaeological-site
+name: "Burana (Balasagun Archaeological Site)"
+location:
+  country_code: KG
+  latitude: 42.746667
+  longitude: 75.250278
+scores:
+  impact: 8.1
+  uniqueness: 8.6
+  significance: 9.1
+  experience: 8.1
+  depth: 7.6
+  categories:
+    history: 9.3
+    architecture: 8.7

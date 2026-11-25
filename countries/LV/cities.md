@@ -2,7 +2,7 @@
 
 # Latvia (LV) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**18 ranked** · **0 unassessed** · **18 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,28 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (18)
 
-No cities, towns & villages have been assessed for **Latvia** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Riga](cities/riga.yaml) | City / town | **91.20** | **Architecture 9.4**, **Culture 9.2**, **History 9.2**, Food 8.7 | 9.1 / 9.1 / 9.1 / 9.1 / 9.3 | [56.9496, 24.1052](https://www.google.com/maps/search/?api=1&query=56.9496,24.1052) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Riga%2C%20Latvia) |
+| 2 | [Kuldīga](cities/kuldiga.yaml) | City / town | **85.65** | **Architecture 9.1**, **Photography 9.0**, **History 8.8** | 8.6 / 8.8 / 8.5 / 8.7 / 7.8 | [56.968, 21.969](https://www.google.com/maps/search/?api=1&query=56.968,21.969) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kuld%C4%ABga%2C%20Latvia) |
+| 3 | [Liepāja](cities/liepaja.yaml) | City / town | **82.80** | **Culture 8.7**, **Beaches 8.6**, **Architecture 8.5** | 8.2 / 8.3 / 8.1 / 8.5 / 8.5 | [56.505, 21.011](https://www.google.com/maps/search/?api=1&query=56.505,21.011) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Liep%C4%81ja%2C%20Latvia) |
+| 4 | [Cēsis](cities/cesis.yaml) | City / town | **82.60** | **History 8.8**, **Architecture 8.6**, **Culture 8.5** | 8.2 / 8.3 / 8.3 / 8.5 / 7.9 | [57.312, 25.274](https://www.google.com/maps/search/?api=1&query=57.312,25.274) | [Google Maps](https://www.google.com/maps/search/?api=1&query=C%C4%93sis%2C%20Latvia) |
+| 5 | [Jūrmala](cities/jurmala.yaml) | City / town | **80.65** | **Relaxation 9.0**, **Beaches 8.9**, **Architecture 8.6** | 8.0 / 8.0 / 7.8 / 8.7 / 8.0 | [56.968, 23.77](https://www.google.com/maps/search/?api=1&query=56.968,23.77) | [Google Maps](https://www.google.com/maps/search/?api=1&query=J%C5%ABrmala%2C%20Latvia) |
+| 6 | [Daugavpils](cities/daugavpils.yaml) | City / town | **79.15** | **Culture 8.5**, **History 8.5**, **Architecture 7.9** | 7.6 / 8.0 / 8.2 / 7.9 / 8.1 | [55.875, 26.536](https://www.google.com/maps/search/?api=1&query=55.875,26.536) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Daugavpils%2C%20Latvia) |
+| 7 | [Sigulda](cities/sigulda.yaml) | City / town | **79.10** | **Adventure 8.6**, **Nature 8.3**, **Relaxation 8.3** | 7.8 / 7.9 / 7.8 / 8.5 / 7.6 | [57.154, 24.854](https://www.google.com/maps/search/?api=1&query=57.154,24.854) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sigulda%2C%20Latvia) |
+| 8 | [Ludza](cities/ludza.yaml) | City / town | **78.35** | **Photography 8.5**, **History 8.3** | 7.8 / 8.1 / 7.9 / 7.8 / 7.2 | [56.543, 27.722](https://www.google.com/maps/search/?api=1&query=56.543,27.722) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ludza%2C%20Latvia) |
+| 9 | [Ventspils](cities/ventspils.yaml) | City / town | **77.80** | **Family 8.6**, **Beaches 8.4**, **Culture 7.9** | 7.6 / 7.7 / 7.7 / 8.3 / 7.9 | [57.394, 21.564](https://www.google.com/maps/search/?api=1&query=57.394,21.564) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ventspils%2C%20Latvia) |
+| 10 | [Līgatne](cities/ligatne.yaml) | City / town | **76.40** | **History 8.2**, **Architecture 8.1** | 7.5 / 8.0 / 7.6 / 7.8 / 7.0 | [57.234, 25.04](https://www.google.com/maps/search/?api=1&query=57.234,25.04) | [Google Maps](https://www.google.com/maps/search/?api=1&query=L%C4%ABgatne%2C%20Latvia) |
+| 11 | [Alūksne](cities/aluksne.yaml) | City / town | **75.40** | **Relaxation 8.2**, **Photography 8.1** | 7.5 / 7.6 / 7.5 / 7.8 / 7.2 | [57.422, 27.048](https://www.google.com/maps/search/?api=1&query=57.422,27.048) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Al%C5%ABksne%2C%20Latvia) |
+| 12 | [Jelgava](cities/jelgava.yaml) | City / town | **75.25** | **History 8.3**, **Architecture 7.9** | 7.3 / 7.4 / 7.9 / 7.7 / 7.5 | [56.652, 23.721](https://www.google.com/maps/search/?api=1&query=56.652,23.721) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Jelgava%2C%20Latvia) |
+| 13 | [Talsi](cities/talsi.yaml) | City / town | **75.05** | **Photography 8.3**, **Relaxation 8.0** | 7.5 / 7.7 / 7.3 / 7.8 / 7.0 | [57.245, 22.59](https://www.google.com/maps/search/?api=1&query=57.245,22.59) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Talsi%2C%20Latvia) |
+| 14 | [Rēzekne](cities/rezekne.yaml) | City / town | **74.90** | **Culture 8.3**, **History 7.9** | 7.2 / 7.6 / 7.7 / 7.6 / 7.5 | [56.51, 27.33](https://www.google.com/maps/search/?api=1&query=56.51,27.33) | [Google Maps](https://www.google.com/maps/search/?api=1&query=R%C4%93zekne%2C%20Latvia) |
+| 15 | [Bauska](cities/bauska.yaml) | City / town | **74.70** | **History 8.2**, **Architecture 7.8** | 7.3 / 7.5 / 7.7 / 7.7 / 7.1 | [56.407, 24.194](https://www.google.com/maps/search/?api=1&query=56.407,24.194) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bauska%2C%20Latvia) |
+| 16 | [Krāslava](cities/kraslava.yaml) | City / town | **73.55** | **Architecture 7.8**, **Relaxation 7.8** | 7.2 / 7.5 / 7.4 / 7.6 / 7.0 | [55.896, 27.168](https://www.google.com/maps/search/?api=1&query=55.896,27.168) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kr%C4%81slava%2C%20Latvia) |
+| 16 | [Valmiera](cities/valmiera.yaml) | City / town | **73.55** | **Culture 7.9**, **Relaxation 7.8** | 7.1 / 7.3 / 7.5 / 7.8 / 7.3 | [57.539, 25.426](https://www.google.com/maps/search/?api=1&query=57.539,25.426) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Valmiera%2C%20Latvia) |
+| 18 | [Jēkabpils](cities/jekabpils.yaml) | City / town | **73.25** | **History 7.9**, **Culture 7.7** | 7.1 / 7.4 / 7.5 / 7.5 / 7.2 | [56.499, 25.878](https://www.google.com/maps/search/?api=1&query=56.499,25.878) | [Google Maps](https://www.google.com/maps/search/?api=1&query=J%C4%93kabpils%2C%20Latvia) |
 
 ---
 

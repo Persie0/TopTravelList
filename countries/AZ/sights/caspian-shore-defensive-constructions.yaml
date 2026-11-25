@@ -1,0 +1,15 @@
+id: sight-az-caspian-shore-defensive-constructions
+name: "Caspian Shore Defensive Constructions"
+location:
+  country_code: AZ
+  latitude: 40.49
+  longitude: 50.14
+scores:
+  impact: null
+  uniqueness: 8.8
+  significance: 9.0
+  experience: null
+  depth: null
+  categories:
+    history: 9.2
+    architecture: 9.0

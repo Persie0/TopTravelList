@@ -1,0 +1,16 @@
+id: sight-kz-shymbulak-ski-resort
+name: "Shymbulak Ski Resort"
+location:
+  country_code: KZ
+  latitude: 43.128
+  longitude: 77.08
+scores:
+  impact: 8.6
+  uniqueness: 8.0
+  significance: 6.8
+  experience: 9.0
+  depth: 8.4
+  categories:
+    adventure: 9.2
+    photography: 8.9
+    relaxation: 8.5

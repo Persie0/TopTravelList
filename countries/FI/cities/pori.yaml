@@ -1,0 +1,15 @@
+id: city-fi-pori
+name: "Pori"
+location:
+  country_code: FI
+  latitude: 61.486
+  longitude: 21.798
+scores:
+  impact: 7.5
+  uniqueness: 7.6
+  significance: 7.7
+  experience: 8.0
+  depth: 7.9
+  categories:
+    culture: 8.5
+    history: 7.9

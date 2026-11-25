@@ -1,0 +1,15 @@
+id: sight-lt-ventes-ragas
+name: "Ventė Cape Ornithological Station"
+location:
+  country_code: LT
+  latitude: 55.34
+  longitude: 21.19
+scores:
+  impact: 7.9
+  uniqueness: 8.5
+  significance: 8.6
+  experience: 8.2
+  depth: 7.5
+  categories:
+    wildlife: 9
+    history: 8.3

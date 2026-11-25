@@ -1,0 +1,15 @@
+id: sight-cr-guayabo-national-monument
+name: "Guayabo National Monument"
+location:
+  country_code: CR
+  latitude: 9.957
+  longitude: -83.692
+scores:
+  impact: 8.0
+  uniqueness: 8.4
+  significance: 8.9
+  experience: 8.3
+  depth: 8.0
+  categories:
+    history: 9.1
+    architecture: 8.5

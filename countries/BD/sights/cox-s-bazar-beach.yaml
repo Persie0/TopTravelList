@@ -1,0 +1,16 @@
+id: sight-bd-cox-s-bazar-beach
+name: "Cox's Bazar Beach"
+location:
+  country_code: BD
+  latitude: 21.425
+  longitude: 91.973
+scores:
+  impact: 8.6
+  uniqueness: 8.3
+  significance: 7.0
+  experience: 8.5
+  depth: 8.9
+  categories:
+    beaches: 9.2
+    relaxation: 8.8
+    photography: 8.8

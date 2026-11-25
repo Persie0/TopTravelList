@@ -1,0 +1,16 @@
+id: sight-ag-darkwood-beach
+name: "Darkwood Beach"
+location:
+  country_code: AG
+  latitude: 17.033
+  longitude: -61.890
+scores:
+  impact: 8.6
+  uniqueness: 8.1
+  significance: 5.7
+  experience: 8.7
+  depth: 7.0
+  categories:
+    beaches: 9.0
+    photography: 8.9
+    relaxation: 8.8
