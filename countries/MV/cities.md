@@ -2,7 +2,7 @@
 
 # Maldives (MV) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**25 ranked** · **0 unassessed** · **25 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,35 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, or click its GPS coordinates to open **Google Maps**. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (25)
 
-No cities, towns & villages have been assessed for **Maldives** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps |
+| ---: | --- | --- | ---: | --- | --- | --- |
+| 1 | [Fuvahmulah](cities/fuvahmulah.yaml) | City / town | **82.05** | **Culture 8.6**, **Photography 8.6**, **Nature 8.5** | 8.1 / 8.8 / 7.7 / 8.3 / 7.9 | [-0.3, 73.425](https://www.google.com/maps/search/?api=1&query=-0.3,73.425) |
+| 2 | [Male](cities/male.yaml) | City / town | **80.80** | **Culture 8.6**, **History 8.5**, **Food 8.2** | 7.7 / 8.4 / 8.5 / 7.8 / 8.0 | [4.1755, 73.5093](https://www.google.com/maps/search/?api=1&query=4.1755,73.5093) |
+| 3 | [Thoddoo](cities/thoddoo.yaml) | City / town | **77.75** | **Relaxation 8.6**, **Photography 8.4**, **Culture 8.0** | 7.9 / 8.3 / 6.7 / 8.4 / 7.3 | [4.438, 72.96](https://www.google.com/maps/search/?api=1&query=4.438,72.96) |
+| 4 | [Hithadhoo (Addu City)](cities/hithadhoo-addu-city.yaml) | City / town | **76.60** | **Culture 8.0**, **Food 7.8**, **Nature 7.7** | 7.5 / 7.9 / 7.5 / 7.9 / 7.5 | [-0.603, 73.09](https://www.google.com/maps/search/?api=1&query=-0.603,73.09) |
+| 5 | [Utheemu](cities/utheemu.yaml) | City / town | **76.00** | **History 8.8**, **Culture 8.3** | 7.3 / 7.8 / 8.5 / 7.4 / 6.5 | [6.827, 73.116](https://www.google.com/maps/search/?api=1&query=6.827,73.116) |
+| 6 | [Dhigurah](cities/dhigurah.yaml) | City / town | **75.95** | **Photography 8.6**, **Relaxation 8.5**, **Culture 7.6** | 7.9 / 8.0 / 6.4 / 8.3 / 7.0 | [3.534, 72.93](https://www.google.com/maps/search/?api=1&query=3.534,72.93) |
+| 7 | [Ukulhas](cities/ukulhas.yaml) | City / town | **74.70** | **Relaxation 8.5**, **Culture 7.8** | 7.7 / 7.7 / 6.5 / 8.3 / 6.9 | [4.215, 72.864](https://www.google.com/maps/search/?api=1&query=4.215,72.864) |
+| 8 | [Fulidhoo](cities/fulidhoo.yaml) | City / town | **74.25** | **Relaxation 8.6**, **Photography 8.3**, **Culture 8.0** | 7.6 / 8.0 / 6.5 / 8.1 / 6.3 | [3.68, 73.415](https://www.google.com/maps/search/?api=1&query=3.68,73.415) |
+| 9 | [Fulhadhoo](cities/fulhadhoo.yaml) | City / town | **73.55** | **Relaxation 8.7**, **Culture 7.5** | 7.7 / 8.0 / 6.1 / 8.1 / 6.1 | [4.887, 72.931](https://www.google.com/maps/search/?api=1&query=4.887,72.931) |
+| 10 | [Maafushi](cities/maafushi.yaml) | City / town | **73.45** | **Relaxation 8.2**, **Food 7.9**, **Culture 7.7** | 7.4 / 7.6 / 6.4 / 8.3 / 7.0 | [3.942, 73.49](https://www.google.com/maps/search/?api=1&query=3.942,73.49) |
+| 11 | [Thulusdhoo](cities/thulusdhoo.yaml) | City / town | **73.40** | **Relaxation 8.0**, **Culture 7.7** | 7.3 / 7.8 / 6.5 / 8.0 / 7.0 | [4.374, 73.65](https://www.google.com/maps/search/?api=1&query=4.374,73.65) |
+| 12 | [Isdhoo](cities/isdhoo.yaml) | City / town | **72.75** | **History 8.3**, **Culture 7.8** | 6.9 / 7.6 / 7.9 / 7.3 / 6.3 | [2.12, 73.563](https://www.google.com/maps/search/?api=1&query=2.12,73.563) |
+| 13 | [Rasdhoo](cities/rasdhoo.yaml) | City / town | **72.35** | **Relaxation 7.8**, **Culture 7.7** | 7.2 / 7.6 / 6.6 / 7.9 / 6.7 | [4.263, 72.991](https://www.google.com/maps/search/?api=1&query=4.263,72.991) |
+| 14 | [Hulhumale](cities/hulhumale.yaml) | City / town | **72.20** | **Beaches 8.0**, **Relaxation 8.0**, **Architecture 7.7** | 7.3 / 7.4 / 6.2 / 8.0 / 7.4 | [4.219, 73.544](https://www.google.com/maps/search/?api=1&query=4.219,73.544) |
+| 15 | [Mathiveri](cities/mathiveri.yaml) | City / town | **71.65** | **Relaxation 8.2**, **Culture 7.5** | 7.3 / 7.6 / 6.3 / 7.9 / 6.3 | [4.191, 72.749](https://www.google.com/maps/search/?api=1&query=4.191,72.749) |
+| 16 | [Fenfushi](cities/fenfushi.yaml) | City / town | **71.45** | **History 8.0**, **Culture 7.8** | 6.8 / 7.5 / 7.6 / 7.2 / 6.3 | [3.489, 72.784](https://www.google.com/maps/search/?api=1&query=3.489,72.784) |
+| 17 | [Dhiffushi](cities/dhiffushi.yaml) | City / town | **70.95** | **Relaxation 8.3**, **Culture 7.5** | 7.2 / 7.4 / 6.3 / 7.9 / 6.4 | [4.441, 73.713](https://www.google.com/maps/search/?api=1&query=4.441,73.713) |
+| 18 | [Ihavandhoo](cities/ihavandhoo.yaml) | City / town | **70.75** | **History 7.9**, **Culture 7.7** | 6.8 / 7.3 / 7.5 / 7.2 / 6.3 | [6.957, 72.929](https://www.google.com/maps/search/?api=1&query=6.957,72.929) |
+| 19 | [Gulhi](cities/gulhi.yaml) | City / town | **70.50** | **Relaxation 8.3**, **Culture 7.6** | 7.1 / 7.4 / 6.4 / 7.8 / 6.2 | [3.99, 73.509](https://www.google.com/maps/search/?api=1&query=3.99,73.509) |
+| 20 | [Guraidhoo (Kaafu)](cities/guraidhoo-kaafu.yaml) | City / town | **70.45** | **Relaxation 8.0**, **Culture 7.6** | 7.0 / 7.4 / 6.5 / 7.7 / 6.4 | [3.901, 73.468](https://www.google.com/maps/search/?api=1&query=3.901,73.468) |
+| 21 | [Dharavandhoo](cities/dharavandhoo.yaml) | City / town | **69.30** | **Relaxation 7.8**, **Culture 7.5** | 6.9 / 7.2 / 6.4 / 7.6 / 6.4 | [5.157, 73.131](https://www.google.com/maps/search/?api=1&query=5.157,73.131) |
+| 22 | [Kulhudhuffushi](cities/kulhudhuffushi.yaml) | City / town | **69.25** | **Culture 7.6**, **Food 7.4** | 6.7 / 7.0 / 6.9 / 7.3 / 6.9 | [6.623, 73.07](https://www.google.com/maps/search/?api=1&query=6.623,73.07) |
+| 23 | [Meedhoo (Raa Atoll)](cities/meedhoo-raa-atoll.yaml) | City / town | **69.05** | **History 7.7**, **Culture 7.6** | 6.6 / 7.2 / 7.2 / 7.1 / 6.2 | [5.458, 72.953](https://www.google.com/maps/search/?api=1&query=5.458,72.953) |
+| 24 | [Thinadhoo (Gaafu Dhaalu)](cities/thinadhoo-gaafu-dhaalu.yaml) | City / town | **68.80** | **Culture 7.5**, **Food 7.4** | 6.6 / 7.0 / 6.9 / 7.2 / 6.9 | [0.532, 72.998](https://www.google.com/maps/search/?api=1&query=0.532,72.998) |
+| 25 | [Maamigili](cities/maamigili.yaml) | City / town | **66.35** | **Culture 7.2**, **Food 7.2** | 6.5 / 6.7 / 6.4 / 7.2 / 6.5 | [3.475, 72.836](https://www.google.com/maps/search/?api=1&query=3.475,72.836) |
 
 ---
 
