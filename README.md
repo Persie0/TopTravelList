@@ -96,7 +96,7 @@ Every registered country has a linked folder below. The status is determined fro
 | [Armenia](countries/AM/) (`AM`) | [20](countries/AM/cities.md) | [55](countries/AM/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Armenia) |
 | [Austria](countries/AT/) (`AT`) | [45](countries/AT/cities.md) | [133](countries/AT/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Austria) |
 | [Bahrain](countries/BH/) (`BH`) | [15](countries/BH/cities.md) | [40](countries/BH/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Bahrain) |
-| [Belgium](countries/BE/) (`BE`) | [18](countries/BE/cities.md) | [58](countries/BE/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Belgium) |
+| [Belgium](countries/BE/) (`BE`) | [18](countries/BE/cities.md) | [64](countries/BE/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Belgium) |
 | [Belize](countries/BZ/) (`BZ`) | [18](countries/BZ/cities.md) | [61](countries/BZ/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Belize) |
 | [Benin](countries/BJ/) (`BJ`) | [18](countries/BJ/cities.md) | [34](countries/BJ/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Benin) |
 | [Bhutan](countries/BT/) (`BT`) | [33](countries/BT/cities.md) | [89](countries/BT/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Bhutan) |

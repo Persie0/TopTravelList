@@ -1,0 +1,15 @@
+id: sight-be-hotel-van-eetvelde
+name: "Hôtel van Eetvelde"
+location:
+  country_code: BE
+  latitude: 50.847
+  longitude: 4.380306
+scores:
+  impact: null
+  uniqueness: 9.2
+  significance: 9.3
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.4
+    history: 9.2

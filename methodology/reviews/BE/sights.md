@@ -2032,3 +2032,213 @@
 - Final decision: Scope-limited editorial rating: Distinct long-standing international motorsport venue; Circuit visit not guaranteed driving access.
 - Earlier decision: none.
 - Verification still needed: independent factual support, permitted access, current peer profiles and narrower same-type comparisons.
+
+## sight-be-hotel-tassel — Hôtel Tassel — 2026-11-25
+
+- YAML: [source](../../../countries/BE/sights/hotel-tassel.yaml)
+- Action: new
+- Precise subject: One private residence, not the entire Horta series.
+- Location check: 50.828056, 4.362222; [UNESCO published component coordinates](https://whc.unesco.org/en/list/1005/maps/), DMS converted to decimal degrees.
+- Evidence status: **unassessed**
+- Evidence: [UNESCO property description](https://whc.unesco.org/en/list/1005) and [component table](https://whc.unesco.org/en/list/1005/maps/) — consulted 2026-11-25; confirms component identity and coordinates and general architectural/industrial heritage; current admission and other material claims remain unverified.
+- Missing or uncertain facts: permitted interior access, visitor-specific claims and closer same-type peers.
+
+#### Worldwide peer comparisons
+| Peer destination (country) | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Schönbrunn Palace (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) | much larger historic residence with more visitor breadth | Early integrated spatial and ornamental residential design; One private residence, not the entire Horta series. Qualitative comparison; current numeric peer recheck pending. |
+| [Belvedere Palace (AT)](../../../countries/AT/sights/belvedere-palace.yaml) | larger palace and art ensemble, different design period | Early integrated spatial and ornamental residential design; One private residence, not the entire Horta series. Qualitative comparison; current numeric peer recheck pending. |
+| [Kunsthistorisches Museum (AT)](../../../countries/AT/sights/kunsthistorisches-museum.yaml) | broader decorative-art collections, different original setting | Early integrated spatial and ornamental residential design; One private residence, not the entire Horta series. Qualitative comparison; current numeric peer recheck pending. |
+| [Estonian National Museum (EE)](../../../countries/EE/sights/estonian-national-museum.yaml) | regional museum with broader displays, less original residential context | Early integrated spatial and ornamental residential design; One private residence, not the entire Horta series. Qualitative comparison; current numeric peer recheck pending. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | — | null | Pioneering Art Nouveau residence; actual visitor impact not checked |
+| Uniqueness | — | 9.2 | Early integrated spatial and ornamental residential design |
+| Significance | — | 9.3 | International history of Art Nouveau architecture |
+| Experience | — | null | Ordinary public admission not verified |
+| Depth | — | null | One private residence, not the entire Horta series |
+
+- Applicable category scores: architecture 9.4, history 9.2.
+- Computed worldwide overall: unranked.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Unranked pending visitor evidence.
+- Earlier decision: none.
+- Verification still needed: source-specific visitor access, factual claims and current peer scores.
+
+## sight-be-hotel-solvay — Hôtel Solvay — 2026-11-25
+
+- YAML: [source](../../../countries/BE/sights/hotel-solvay.yaml)
+- Action: new
+- Precise subject: One residence only.
+- Location check: 50.826194, 4.365417; [UNESCO published component coordinates](https://whc.unesco.org/en/list/1005/maps/), DMS converted to decimal degrees.
+- Evidence status: **unassessed**
+- Evidence: [UNESCO property description](https://whc.unesco.org/en/list/1005) and [component table](https://whc.unesco.org/en/list/1005/maps/) — consulted 2026-11-25; confirms component identity and coordinates and general architectural/industrial heritage; current admission and other material claims remain unverified.
+- Missing or uncertain facts: permitted interior access, visitor-specific claims and closer same-type peers.
+
+#### Worldwide peer comparisons
+| Peer destination (country) | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Schönbrunn Palace (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) | much larger historic residence with more visitor breadth | Distinct richly coordinated Horta interiors; One residence only. Qualitative comparison; current numeric peer recheck pending. |
+| [Belvedere Palace (AT)](../../../countries/AT/sights/belvedere-palace.yaml) | larger palace and art ensemble, different design period | Distinct richly coordinated Horta interiors; One residence only. Qualitative comparison; current numeric peer recheck pending. |
+| [Kunsthistorisches Museum (AT)](../../../countries/AT/sights/kunsthistorisches-museum.yaml) | broader decorative-art collections, different original setting | Distinct richly coordinated Horta interiors; One residence only. Qualitative comparison; current numeric peer recheck pending. |
+| [Estonian National Museum (EE)](../../../countries/EE/sights/estonian-national-museum.yaml) | regional museum with broader displays, less original residential context | Distinct richly coordinated Horta interiors; One residence only. Qualitative comparison; current numeric peer recheck pending. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | — | null | Integrated decorative town house; actual visitor impact not checked |
+| Uniqueness | — | 9.2 | Distinct richly coordinated Horta interiors |
+| Significance | — | 9.3 | International architectural design heritage |
+| Experience | — | null | Ordinary admission conditions not checked |
+| Depth | — | null | One residence only |
+
+- Applicable category scores: architecture 9.4, history 9.2.
+- Computed worldwide overall: unranked.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Unranked pending visitor evidence.
+- Earlier decision: none.
+- Verification still needed: source-specific visitor access, factual claims and current peer scores.
+
+## sight-be-hotel-van-eetvelde — Hôtel van Eetvelde — 2026-11-25
+
+- YAML: [source](../../../countries/BE/sights/hotel-van-eetvelde.yaml)
+- Action: new
+- Precise subject: Single house only.
+- Location check: 50.847, 4.380306; [UNESCO published component coordinates](https://whc.unesco.org/en/list/1005/maps/), DMS converted to decimal degrees.
+- Evidence status: **unassessed**
+- Evidence: [UNESCO property description](https://whc.unesco.org/en/list/1005) and [component table](https://whc.unesco.org/en/list/1005/maps/) — consulted 2026-11-25; confirms component identity and coordinates and general architectural/industrial heritage; current admission and other material claims remain unverified.
+- Missing or uncertain facts: permitted interior access, visitor-specific claims and closer same-type peers.
+
+#### Worldwide peer comparisons
+| Peer destination (country) | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Schönbrunn Palace (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) | much larger historic residence with more visitor breadth | Distinct spatial and structural residential innovation; Single house only. Qualitative comparison; current numeric peer recheck pending. |
+| [Belvedere Palace (AT)](../../../countries/AT/sights/belvedere-palace.yaml) | larger palace and art ensemble, different design period | Distinct spatial and structural residential innovation; Single house only. Qualitative comparison; current numeric peer recheck pending. |
+| [Kunsthistorisches Museum (AT)](../../../countries/AT/sights/kunsthistorisches-museum.yaml) | broader decorative-art collections, different original setting | Distinct spatial and structural residential innovation; Single house only. Qualitative comparison; current numeric peer recheck pending. |
+| [Estonian National Museum (EE)](../../../countries/EE/sights/estonian-national-museum.yaml) | regional museum with broader displays, less original residential context | Distinct spatial and structural residential innovation; Single house only. Qualitative comparison; current numeric peer recheck pending. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | — | null | Innovative house with central glazed space; actual visitor impact unverified |
+| Uniqueness | — | 9.2 | Distinct spatial and structural residential innovation |
+| Significance | — | 9.3 | International Art Nouveau architectural heritage |
+| Experience | — | null | Ordinary admission conditions not checked |
+| Depth | — | null | Single house only |
+
+- Applicable category scores: architecture 9.4, history 9.2.
+- Computed worldwide overall: unranked.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Unranked pending visitor evidence.
+- Earlier decision: none.
+- Verification still needed: source-specific visitor access, factual claims and current peer scores.
+
+## sight-be-grand-hornu — Grand-Hornu mining complex — 2026-11-25
+
+- YAML: [source](../../../countries/BE/sights/grand-hornu.yaml)
+- Action: new
+- Precise subject: One mining and workers' settlement complex.
+- Location check: 50.435278, 3.838333; [UNESCO published component coordinates](https://whc.unesco.org/en/list/1344/maps), DMS converted to decimal degrees.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO property description](https://whc.unesco.org/en/list/1344/) and [component table](https://whc.unesco.org/en/list/1344/maps) — consulted 2026-11-25; confirms component identity and coordinates and general architectural/industrial heritage; current admission and other material claims remain unverified.
+- Missing or uncertain facts: permitted interior access, visitor-specific claims and closer same-type peers.
+
+#### Worldwide peer comparisons
+| Peer destination (country) | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Kunsthistorisches Museum (AT)](../../../countries/AT/sights/kunsthistorisches-museum.yaml) | world-leading collections, not an original industrial site | Distinct integrated industrial and urban planning; One mining and workers' settlement complex. Qualitative comparison; current numeric peer recheck pending. |
+| [Seaplane Harbour (EE)](../../../countries/EE/sights/seaplane-harbour.yaml) | technical heritage and visitor interpretation | Distinct integrated industrial and urban planning; One mining and workers' settlement complex. Qualitative comparison; current numeric peer recheck pending. |
+| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) | broader intact historical urban fabric | Distinct integrated industrial and urban planning; One mining and workers' settlement complex. Qualitative comparison; current numeric peer recheck pending. |
+| [Estonian National Museum (EE)](../../../countries/EE/sights/estonian-national-museum.yaml) | regional social history interpretation without original mining infrastructure | Distinct integrated industrial and urban planning; One mining and workers' settlement complex. Qualitative comparison; current numeric peer recheck pending. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | — | 8.8 | Monumental planned industrial courtyard and workers' settlement |
+| Uniqueness | — | 9.0 | Distinct integrated industrial and urban planning |
+| Significance | — | 9.1 | International early industrial and social history |
+| Experience | — | 8.7 | Public museum and permitted heritage spaces, opening details unverified |
+| Depth | — | 8.8 | One mining and workers' settlement complex |
+
+- Applicable category scores: history 9.3, culture 9.0, architecture 9.1.
+- Computed worldwide overall: 88.95/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional scope-limited assessment; no parent-site score inherited.
+- Earlier decision: none.
+- Verification still needed: source-specific visitor access, factual claims and current peer scores.
+
+## sight-be-bois-du-luc — Bois-du-Luc mining complex — 2026-11-25
+
+- YAML: [source](../../../countries/BE/sights/bois-du-luc.yaml)
+- Action: new
+- Precise subject: One mining settlement, not the full series.
+- Location check: 50.471389, 4.149444; [UNESCO published component coordinates](https://whc.unesco.org/en/list/1344/maps), DMS converted to decimal degrees.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO property description](https://whc.unesco.org/en/list/1344/) and [component table](https://whc.unesco.org/en/list/1344/maps) — consulted 2026-11-25; confirms component identity and coordinates and general architectural/industrial heritage; current admission and other material claims remain unverified.
+- Missing or uncertain facts: permitted interior access, visitor-specific claims and closer same-type peers.
+
+#### Worldwide peer comparisons
+| Peer destination (country) | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Kunsthistorisches Museum (AT)](../../../countries/AT/sights/kunsthistorisches-museum.yaml) | world-leading collections, not an original industrial site | Distinct preserved mining settlement fabric; One mining settlement, not the full series. Qualitative comparison; current numeric peer recheck pending. |
+| [Seaplane Harbour (EE)](../../../countries/EE/sights/seaplane-harbour.yaml) | technical heritage and visitor interpretation | Distinct preserved mining settlement fabric; One mining settlement, not the full series. Qualitative comparison; current numeric peer recheck pending. |
+| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) | broader intact historical urban fabric | Distinct preserved mining settlement fabric; One mining settlement, not the full series. Qualitative comparison; current numeric peer recheck pending. |
+| [Estonian National Museum (EE)](../../../countries/EE/sights/estonian-national-museum.yaml) | regional social history interpretation without original mining infrastructure | Distinct preserved mining settlement fabric; One mining settlement, not the full series. Qualitative comparison; current numeric peer recheck pending. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | — | 8.5 | Industrial buildings and workers' housing |
+| Uniqueness | — | 8.8 | Distinct preserved mining settlement fabric |
+| Significance | — | 9.1 | International industrial and labor history |
+| Experience | — | 8.6 | Public interpretation and permitted heritage areas, opening details unverified |
+| Depth | — | 8.7 | One mining settlement, not the full series |
+
+- Applicable category scores: history 9.3, culture 9.0.
+- Computed worldwide overall: 87.30/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional scope-limited assessment; no parent-site score inherited.
+- Earlier decision: none.
+- Verification still needed: source-specific visitor access, factual claims and current peer scores.
+
+## sight-be-blegny-mine — Blegny-Mine — 2026-11-25
+
+- YAML: [source](../../../countries/BE/sights/blegny-mine.yaml)
+- Action: new
+- Precise subject: Defined public mine circuit only.
+- Location check: 50.686111, 5.7225; [UNESCO published component coordinates](https://whc.unesco.org/en/list/1344/maps), DMS converted to decimal degrees.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO property description](https://whc.unesco.org/en/list/1344/) and [component table](https://whc.unesco.org/en/list/1344/maps) — consulted 2026-11-25; confirms component identity and coordinates and general architectural/industrial heritage; current admission and other material claims remain unverified.
+- Missing or uncertain facts: permitted interior access, visitor-specific claims and closer same-type peers.
+
+#### Worldwide peer comparisons
+| Peer destination (country) | Why comparable | Relative strengths / weaknesses |
+| --- | --- | --- |
+| [Kunsthistorisches Museum (AT)](../../../countries/AT/sights/kunsthistorisches-museum.yaml) | world-leading collections, not an original industrial site | Distinct mining technology and original industrial setting; Defined public mine circuit only. Qualitative comparison; current numeric peer recheck pending. |
+| [Seaplane Harbour (EE)](../../../countries/EE/sights/seaplane-harbour.yaml) | technical heritage and visitor interpretation | Distinct mining technology and original industrial setting; Defined public mine circuit only. Qualitative comparison; current numeric peer recheck pending. |
+| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) | broader intact historical urban fabric | Distinct mining technology and original industrial setting; Defined public mine circuit only. Qualitative comparison; current numeric peer recheck pending. |
+| [Estonian National Museum (EE)](../../../countries/EE/sights/estonian-national-museum.yaml) | regional social history interpretation without original mining infrastructure | Distinct mining technology and original industrial setting; Defined public mine circuit only. Qualitative comparison; current numeric peer recheck pending. |
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | — | 8.6 | Preserved coal mining facilities and underground interpretation |
+| Uniqueness | — | 8.9 | Distinct mining technology and original industrial setting |
+| Significance | — | 9.0 | International industrial and social heritage |
+| Experience | — | 8.8 | Managed underground heritage visit, conditions unverified |
+| Depth | — | 8.6 | Defined public mine circuit only |
+
+- Applicable category scores: history 9.3, culture 9.0.
+- Computed worldwide overall: 87.85/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional scope-limited assessment; no parent-site score inherited.
+- Earlier decision: none.
+- Verification still needed: source-specific visitor access, factual claims and current peer scores.
