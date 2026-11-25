@@ -18,7 +18,7 @@
 - Depth 8.6: bounded old quarter.
 - Categories: architecture:9.4,history:9.3,photography:9.4. Computed overall 90.60/100.
 - High-score challenge: Compared with George Town and Gyeongju, the river crossing and stone urban composition are distinctive but the quarter offers less extensive monument breadth.. No approved 10.
-- Evidence: [UNESCO country list; Mostar property context](https://whc.unesco.org/en/statesparties/ba) — search excerpt inspected 2026-11-25; limited inventory/property context only, not all claims.
+- Evidence: [UNESCO Mostar property](https://whc.unesco.org/en/list/946/) — search excerpt inspected 2026-11-25; limited inventory/property context only, not all claims.
 - Remaining gaps: exact site extent, coordinates, source-level evidence and complete category-specific peer comparisons.
 
 ## sight-ba-stari-most — Stari Most — 2026-11-25
@@ -37,7 +37,7 @@
 - Depth 7.6: single bridge.
 - Categories: architecture:9.4,history:9.3,photography:9.4. Computed overall 89.10/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: [UNESCO country list; Mostar property context](https://whc.unesco.org/en/statesparties/ba) — search excerpt inspected 2026-11-25; limited inventory/property context only, not all claims.
+- Evidence: [UNESCO Mostar property](https://whc.unesco.org/en/list/946/) — search excerpt inspected 2026-11-25; limited inventory/property context only, not all claims.
 - Remaining gaps: exact site extent, coordinates, source-level evidence and complete category-specific peer comparisons.
 
 ## sight-ba-kriva-cuprija — Kriva Ćuprija — 2026-11-25
@@ -233,7 +233,7 @@
 ## sight-ba-radimlja-stecci-necropolis — Radimlja Stećci Necropolis — 2026-11-25
 
 - [YAML](../../../countries/BA/sights/radimlja-stecci-necropolis.yaml) · Action: new · **source-linked-unverified**.
-- Representative point 43.0922, 17.9236; exact GPS and safe access unresolved.
+- Representative point 43.092214, 17.924053; [UNESCO component coordinate](https://whc.unesco.org/en/list/1504/maps/) converted from published DMS, checked 2026-11-25. Not an entrance or safe route.
 - Worldwide peers (I/U/S/E/D):
   - [Gyeongju Historic Areas (KR)](../../../countries/KR/sights/gyeongju-historic-areas.yaml): 9.5 / 9.6 / 9.8 / 9.5 / 9.8 (96.15/100).
   - [Cesky Krumlov Historic Centre (CZ)](../../../countries/CZ/sights/cesky-krumlov-historic-centre.yaml): 9.2 / 9.2 / 9.1 / 9.0 / 8.5 (90.80/100).
@@ -252,7 +252,7 @@
 ## sight-ba-boljuni-stecci-necropolis — Boljuni Stećci Necropolis — 2026-11-25
 
 - [YAML](../../../countries/BA/sights/boljuni-stecci-necropolis.yaml) · Action: new · **source-linked-unverified**.
-- Representative point 43.0030, 17.9550; exact GPS and safe access unresolved.
+- Representative point 43.027883, 17.874822; [UNESCO component coordinate](https://whc.unesco.org/en/list/1504/maps/) converted from published DMS, checked 2026-11-25. Not an entrance or safe route.
 - Worldwide peers (I/U/S/E/D):
   - [Gyeongju Historic Areas (KR)](../../../countries/KR/sights/gyeongju-historic-areas.yaml): 9.5 / 9.6 / 9.8 / 9.5 / 9.8 (96.15/100).
   - [Cesky Krumlov Historic Centre (CZ)](../../../countries/CZ/sights/cesky-krumlov-historic-centre.yaml): 9.2 / 9.2 / 9.1 / 9.0 / 8.5 (90.80/100).
@@ -1335,7 +1335,7 @@
 ## sight-ba-janj-primeval-forest — Janj Primeval Forest — 2026-11-25
 
 - [YAML](../../../countries/BA/sights/janj-primeval-forest.yaml) · Action: new · **source-linked-unverified**.
-- Representative point 44.1450, 17.1830; exact GPS and safe access unresolved.
+- Representative point 44.146000, 17.282000; [UNESCO component coordinate](https://whc.unesco.org/en/list/1133/maps/) converted from published DMS, checked 2026-11-25. Not an entrance or safe route.
 - Worldwide peers (I/U/S/E/D):
   - [Phong Nha Ke Bang National Park (VN)](../../../countries/VN/sights/phong-nha-ke-bang-national-park.yaml): 9.8 / 9.9 / 9.7 / 9.7 / 9.8 (97.90/100).
   - [Hohe Tauern National Park (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml): 9.4 / 9.1 / 9.0 / 9.5 / 9.4 (92.60/100).
@@ -1543,7 +1543,7 @@
 
 ## sight-ba-srebrenica-potocari-memorial-centre — Srebrenica-Potočari Memorial Centre — 2026-11-25
 
-- [YAML](../../../countries/BA/sights/srebrenica-potocari-memorial-centre.yaml) · Action: new · **editorial-only**.
+- [YAML](../../../countries/BA/sights/srebrenica-potocari-memorial-centre.yaml) · Action: new · **source-linked-unverified**.
 - Representative point 44.1600, 19.2990; exact GPS and safe access unresolved.
 - Worldwide peers (I/U/S/E/D):
   - [Mauthausen Memorial (AT)](../../../countries/AT/sights/mauthausen-memorial.yaml): 9.1 / 9.4 / 9.8 / 9.0 / 8.8 (92.70/100).
@@ -1557,7 +1557,7 @@
 - Depth 8.7: memorial and exhibitions.
 - Categories: history:9.8,culture:9.1. Computed overall 90.10/100.
 - High-score challenge: Significance 9.7 and history 9.8 reflect documented genocide and international remembrance; compared with Mauthausen and Tuol Sleng, distinct physical evidence and narrower visit circuit, not a measure of suffering.. No approved 10.
-- Evidence: No exact-site independent source checked.
+- Evidence: [Srebrenica Memorial Center](https://srebrenicamemorial.org/en/page/about-us/3), search excerpt checked 2026-11-25, supports institutional identity, genocide remembrance and documentation exhibition. Exact GPS and remaining claims unverified.
 - Remaining gaps: exact site extent, coordinates, source-level evidence and complete category-specific peer comparisons.
 
 ## sight-ba-panonska-lakes-tuzla — Panonska Lakes Tuzla — 2026-11-25
@@ -1677,7 +1677,7 @@
 ## sight-ba-dugo-polje-stecci-necropolis — Dugo Polje Stećci Necropolis — 2026-11-25
 
 - [YAML](../../../countries/BA/sights/dugo-polje-stecci-necropolis.yaml) · Action: new · **source-linked-unverified**.
-- Representative point 43.6550, 17.5410; exact GPS and safe access unresolved.
+- Representative point 43.663222, 17.543056; [UNESCO component coordinate](https://whc.unesco.org/en/list/1504/maps/) converted from published DMS, checked 2026-11-25. Not an entrance or safe route.
 - Worldwide peers (I/U/S/E/D):
   - [Gyeongju Historic Areas (KR)](../../../countries/KR/sights/gyeongju-historic-areas.yaml): 9.5 / 9.6 / 9.8 / 9.5 / 9.8 (96.15/100).
   - [Cesky Krumlov Historic Centre (CZ)](../../../countries/CZ/sights/cesky-krumlov-historic-centre.yaml): 9.2 / 9.2 / 9.1 / 9.0 / 8.5 (90.80/100).

@@ -2,8 +2,8 @@ id: sight-ba-dugo-polje-stecci-necropolis
 name: "Dugo Polje Stećci Necropolis"
 location:
   country_code: BA
-  latitude: 43.6550
-  longitude: 17.5410
+  latitude: 43.663222
+  longitude: 17.543056
 scores:
   impact: 7.9
   uniqueness: 8.6

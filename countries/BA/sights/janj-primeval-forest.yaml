@@ -2,8 +2,8 @@ id: sight-ba-janj-primeval-forest
 name: "Janj Primeval Forest"
 location:
   country_code: BA
-  latitude: 44.1450
-  longitude: 17.1830
+  latitude: 44.146000
+  longitude: 17.282000
 scores:
   impact: 8.2
   uniqueness: 8.8
