@@ -1,0 +1,15 @@
+id: sight-fr-nord-mining
+name: "Nord-Pas de Calais Mining Basin"
+location:
+  country_code: FR
+  latitude: 50.43
+  longitude: 2.83
+scores:
+  impact: 8.6
+  uniqueness: 9.0
+  significance: 9.2
+  experience: 8.6
+  depth: 9.0
+  categories:
+    history: 9.4
+    culture: 9.1

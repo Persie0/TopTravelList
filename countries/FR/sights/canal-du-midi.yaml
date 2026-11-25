@@ -1,0 +1,16 @@
+id: sight-fr-canal-du-midi
+name: "Canal du Midi"
+location:
+  country_code: FR
+  latitude: 43.28
+  longitude: 2.61
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 9.3
+  experience: 8.9
+  depth: 9.3
+  categories:
+    history: 9.4
+    relaxation: 9.2
+    photography: 9.1

@@ -1,0 +1,16 @@
+id: sight-fr-pic-du-midi
+name: "Pic du Midi de Bigorre observatory"
+location:
+  country_code: FR
+  latitude: 42.936
+  longitude: 0.142
+scores:
+  impact: 9.2
+  uniqueness: 9.1
+  significance: 9.1
+  experience: 9.0
+  depth: 8.5
+  categories:
+    nature: 9.4
+    history: 9.2
+    photography: 9.5

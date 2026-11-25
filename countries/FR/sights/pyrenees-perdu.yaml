@@ -1,0 +1,16 @@
+id: sight-fr-pyrenees-perdu
+name: "Pyrénées Mont Perdu (French section)"
+location:
+  country_code: FR
+  latitude: 42.7
+  longitude: 0.0
+scores:
+  impact: 9.4
+  uniqueness: 9.2
+  significance: 9.3
+  experience: 9.2
+  depth: 9.3
+  categories:
+    nature: 9.6
+    photography: 9.6
+    adventure: 9.3

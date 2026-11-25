@@ -1,0 +1,16 @@
+id: city-fr-marseille
+name: "Marseille"
+location:
+  country_code: FR
+  latitude: 43.2965
+  longitude: 5.3698
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 9.0
+  experience: 9.0
+  depth: 9.2
+  categories:
+    culture: 9.2
+    history: 9.1
+    food: 9.0

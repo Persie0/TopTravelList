@@ -1,0 +1,16 @@
+id: city-fr-colmar
+name: "Colmar"
+location:
+  country_code: FR
+  latitude: 48.08
+  longitude: 7.36
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 8.6
+  experience: 8.9
+  depth: 8.2
+  categories:
+    architecture: 9.4
+    photography: 9.4
+    culture: 8.9
