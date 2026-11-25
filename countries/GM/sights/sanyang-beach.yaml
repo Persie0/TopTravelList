@@ -1,0 +1,16 @@
+id: sight-gm-sanyang-beach
+name: "Sanyang Beach"
+location:
+  country_code: GM
+  latitude: 13.2570
+  longitude: -16.7900
+scores:
+  impact: 8.5
+  uniqueness: 8.0
+  significance: 5.9
+  experience: 8.4
+  depth: 7.2
+  categories:
+    beaches: 8.9
+    relaxation: 8.7
+    photography: 8.5

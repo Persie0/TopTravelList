@@ -1,0 +1,15 @@
+id: sight-pk-rewat-fort
+name: "Rewat Fort"
+location:
+  country_code: PK
+  latitude: 33.498103
+  longitude: 73.194275
+scores:
+  impact: 7.6
+  uniqueness: 8.1
+  significance: 8.0
+  experience: null
+  depth: null
+  categories:
+    architecture: 8.3
+    history: 8.3

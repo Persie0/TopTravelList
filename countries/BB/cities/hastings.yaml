@@ -1,0 +1,15 @@
+id: city-bb-hastings
+name: "Hastings"
+location:
+  country_code: BB
+  latitude: 13.079
+  longitude: -59.607
+scores:
+  impact: 7.2
+  uniqueness: 7.2
+  significance: 6.3
+  experience: 8.4
+  depth: 7.6
+  categories:
+    food: 8.4
+    relaxation: 8.4

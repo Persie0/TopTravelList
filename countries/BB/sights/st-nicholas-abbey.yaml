@@ -1,0 +1,16 @@
+id: sight-bb-st-nicholas-abbey
+name: "St Nicholas Abbey"
+location:
+  country_code: BB
+  latitude: 13.267
+  longitude: -59.583
+scores:
+  impact: 8.1
+  uniqueness: 8.8
+  significance: 8.7
+  experience: 8.8
+  depth: 8.3
+  categories:
+    architecture: 9.1
+    history: 9.2
+    culture: 8.9

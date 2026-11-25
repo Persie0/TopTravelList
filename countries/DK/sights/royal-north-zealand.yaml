@@ -1,0 +1,16 @@
+id: sight-dk-royal-north-zealand
+name: "Royal North Zealand National Park"
+location:
+  country_code: DK
+  latitude: 56.02
+  longitude: 12.35
+scores:
+  impact: 8.1
+  uniqueness: 8.2
+  significance: 8.4
+  experience: 8.6
+  depth: 8.7
+  categories:
+    nature: 8.8
+    history: 8.8
+    relaxation: 8.6

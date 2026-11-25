@@ -1,0 +1,15 @@
+id: sight-ph-san-agustin-church
+name: "San Agustin Church, Manila"
+location:
+  country_code: PH
+  latitude: 14.589
+  longitude: 120.975
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 9.0
+  experience: 8.5
+  depth: 7.8
+  categories:
+    architecture: 9.1
+    history: 9.1

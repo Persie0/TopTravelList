@@ -1,0 +1,15 @@
+id: sight-gm-kotu-creek
+name: "Kotu Creek"
+location:
+  country_code: GM
+  latitude: 13.4650
+  longitude: -16.7100
+scores:
+  impact: 7.6
+  uniqueness: 8.2
+  significance: 7.2
+  experience: 8.3
+  depth: 7.0
+  categories:
+    wildlife: 8.9
+    nature: 8.4

@@ -1,0 +1,16 @@
+id: sight-iq-malwiya-minaret
+name: "Malwiya Minaret of Samarra"
+location:
+  country_code: IQ
+  latitude: 34.206
+  longitude: 43.88
+scores:
+  impact: 9.0
+  uniqueness: 9.3
+  significance: 9.0
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.3
+    history: 9.2
+    photography: 9.3

@@ -2,7 +2,7 @@
 
 # Ireland (IE) — Sights & attractions ranking
 
-**41 ranked** · **5 unassessed** · **46 total** · Worldwide scoring **v2**
+**43 ranked** · **3 unassessed** · **46 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (41)
+## Complete ranked list (43)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -53,20 +53,20 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 37 | [Rathcroghan archaeological complex](sights/rathcroghan.yaml) | Museum / heritage | **84.80** | **History 9.3**, **Culture 8.8** | 8.0 / 8.8 / 9.1 / 8.2 / 8.3 | [53.8, -8.3](https://www.google.com/maps/search/?api=1&query=53.8,-8.3) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Rathcroghan%20archaeological%20complex%2C%20Ireland) |
 | 38 | [Guinness Storehouse](sights/guinness-storehouse.yaml) | Attraction | **84.30** | **Culture 8.7**, **Food 8.5** | 8.3 / 8.5 / 8.1 / 8.9 / 8.6 | [53.342, -6.287](https://www.google.com/maps/search/?api=1&query=53.342,-6.287) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Guinness%20Storehouse%2C%20Ireland) |
 | 39 | [St Patrick's Cathedral, Dublin](sights/st-patricks-cathedral.yaml) | Religious site | **84.15** | **Architecture 9.0**, **History 9.0**, **Culture 8.7** | 8.5 / 8.2 / 8.7 / 8.5 / 8.0 | [53.339, -6.271](https://www.google.com/maps/search/?api=1&query=53.339,-6.271) | [Google Maps](https://www.google.com/maps/search/?api=1&query=St%20Patrick%27s%20Cathedral%2C%20Dublin%2C%20Ireland) |
-| 40 | [Hill of Uisneach](sights/hill-of-uisneach.yaml) | Attraction | **83.45** | **History 9.0**, **Culture 8.7** | 7.9 / 8.7 / 8.9 / 8.2 / 7.9 | [53.49, -7.56](https://www.google.com/maps/search/?api=1&query=53.49,-7.56) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hill%20of%20Uisneach%2C%20Ireland) |
-| 41 | [Hill of Tara](sights/hill-of-tara.yaml) | Attraction | **83.25** | **History 9.3**, **Culture 8.8** | 7.8 / 8.6 / 9.2 / 8.1 / 7.8 | [53.578, -6.612](https://www.google.com/maps/search/?api=1&query=53.578,-6.612) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hill%20of%20Tara%2C%20Ireland) |
+| 40 | [Valentia Island Transatlantic Cable Ensemble](sights/valentia-cable.yaml) | Island | **83.95** | **History 9.3** | 7.8 / 8.9 / 9.2 / 8.2 / 7.6 | [51.92, -10.29](https://www.google.com/maps/search/?api=1&query=51.92,-10.29) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Valentia%20Island%20Transatlantic%20Cable%20Ensemble%2C%20Ireland) |
+| 41 | [Hill of Uisneach](sights/hill-of-uisneach.yaml) | Attraction | **83.45** | **History 9.0**, **Culture 8.7** | 7.9 / 8.7 / 8.9 / 8.2 / 7.9 | [53.49, -7.56](https://www.google.com/maps/search/?api=1&query=53.49,-7.56) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hill%20of%20Uisneach%2C%20Ireland) |
+| 42 | [Hill of Tara](sights/hill-of-tara.yaml) | Attraction | **83.25** | **History 9.3**, **Culture 8.8** | 7.8 / 8.6 / 9.2 / 8.1 / 7.8 | [53.578, -6.612](https://www.google.com/maps/search/?api=1&query=53.578,-6.612) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hill%20of%20Tara%2C%20Ireland) |
+| 43 | [Dunsink Observatory](sights/dunsink.yaml) | Tower / viewpoint | **82.70** | **History 9.2**, **Architecture 8.7** | 7.7 / 8.8 / 9.1 / 8.0 / 7.4 | [53.387398, -6.338724](https://www.google.com/maps/search/?api=1&query=53.387398,-6.338724) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Dunsink%20Observatory%2C%20Ireland) |
 
-## Not yet fully assessed (5)
+## Not yet fully assessed (3)
 
 These destinations have no rank until all five core scores are assessed.
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
 | — | [Boyne Valley (Brú na Bóinne) National Park](sights/boyne-valley-national-park.yaml) | Park / reserve | **—** | **History 9.0**, **Nature 8.7** | 8.0 / 8.4 / 8.8 / — / — | [53.708, -6.43](https://www.google.com/maps/search/?api=1&query=53.708,-6.43) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Boyne%20Valley%20%28Br%C3%BA%20na%20B%C3%B3inne%29%20National%20Park%2C%20Ireland) |
-| — | [Dunsink Observatory](sights/dunsink.yaml) | Tower / viewpoint | **—** | **History 9.2**, **Architecture 8.7** | 7.7 / 8.8 / 9.1 / — / — | [53.387398, -6.338724](https://www.google.com/maps/search/?api=1&query=53.387398,-6.338724) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Dunsink%20Observatory%2C%20Ireland) |
 | — | [Dún Ailinne royal site](sights/dun-ailinne.yaml) | Attraction | **—** | **History 9.1** | 7.2 / 8.5 / 9.0 / — / — | [53.124, -6.779](https://www.google.com/maps/search/?api=1&query=53.124,-6.779) | [Google Maps](https://www.google.com/maps/search/?api=1&query=D%C3%BAn%20Ailinne%20royal%20site%2C%20Ireland) |
 | — | [Páirc Náisiúnta na Mara Ciarraí](sights/kerry-marine-national-park.yaml) | Attraction | **—** | **Nature 9.4**, **Wildlife 9.3** | 9.0 / 9.2 / 9.1 / — / — | [52.05, -10.37](https://www.google.com/maps/search/?api=1&query=52.05,-10.37) | [Google Maps](https://www.google.com/maps/search/?api=1&query=P%C3%A1irc%20N%C3%A1isi%C3%BAnta%20na%20Mara%20Ciarra%C3%AD%2C%20Ireland) |
-| — | [Valentia Island Transatlantic Cable Ensemble](sights/valentia-cable.yaml) | Island | **—** | **History 9.3** | 7.8 / 8.9 / 9.2 / — / — | [51.92, -10.29](https://www.google.com/maps/search/?api=1&query=51.92,-10.29) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Valentia%20Island%20Transatlantic%20Cable%20Ensemble%2C%20Ireland) |
 
 ---
 

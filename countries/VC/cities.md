@@ -2,7 +2,7 @@
 
 # Saint Vincent and the Grenadines (VC) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**13 ranked** · **0 unassessed** · **13 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,23 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (13)
 
-No cities, towns & villages have been assessed for **Saint Vincent and the Grenadines** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Port Elizabeth (Bequia)](cities/port-elizabeth-bequia.yaml) | City / town | **82.00** | **Photography 9.0**, **Culture 8.8**, **Food 8.4** | 8.3 / 8.6 / 7.6 / 8.6 / 7.5 | [13.012, -61.236](https://www.google.com/maps/search/?api=1&query=13.012,-61.236) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Port%20Elizabeth%20%28Bequia%29%2C%20Saint%20Vincent%20and%20the%20Grenadines) |
+| 2 | [Kingstown](cities/kingstown.yaml) | City / town | **78.95** | **Culture 8.6**, **History 8.5**, **Architecture 8.3**, Food 8.1 | 7.6 / 7.9 / 8.3 / 8.0 / 7.8 | [13.155, -61.227](https://www.google.com/maps/search/?api=1&query=13.155,-61.227) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kingstown%2C%20Saint%20Vincent%20and%20the%20Grenadines) |
+| 3 | [Old Wall (Mayreau)](cities/old-wall-mayreau.yaml) | City / town | **75.80** | **Photography 8.8**, **Culture 8.6** | 7.8 / 8.3 / 6.9 / 7.9 / 6.0 | [12.641, -61.392](https://www.google.com/maps/search/?api=1&query=12.641,-61.392) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Old%20Wall%20%28Mayreau%29%2C%20Saint%20Vincent%20and%20the%20Grenadines) |
+| 4 | [Clifton (Union Island)](cities/clifton-union-island.yaml) | City / town | **74.90** | **Photography 8.5**, **Culture 8.3** | 7.5 / 8.0 / 7.0 / 7.8 / 6.7 | [12.596, -61.417](https://www.google.com/maps/search/?api=1&query=12.596,-61.417) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Clifton%20%28Union%20Island%29%2C%20Saint%20Vincent%20and%20the%20Grenadines) |
+| 5 | [Owia](cities/owia.yaml) | City / town | **72.75** | **Photography 8.4**, **Culture 8.3** | 7.2 / 7.9 / 7.1 / 7.4 / 6.1 | [13.379, -61.135](https://www.google.com/maps/search/?api=1&query=13.379,-61.135) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Owia%2C%20Saint%20Vincent%20and%20the%20Grenadines) |
+| 6 | [Chateaubelair](cities/chateaubelair.yaml) | City / town | **72.60** | **Photography 8.3**, **Culture 8.0** | 7.2 / 7.6 / 7.2 / 7.4 / 6.5 | [13.291, -61.24](https://www.google.com/maps/search/?api=1&query=13.291,-61.24) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Chateaubelair%2C%20Saint%20Vincent%20and%20the%20Grenadines) |
+| 7 | [Barrouallie](cities/barrouallie.yaml) | City / town | **72.25** | **Culture 8.5**, **History 8.1** | 6.8 / 7.8 / 7.4 / 7.5 / 6.3 | [13.235, -61.272](https://www.google.com/maps/search/?api=1&query=13.235,-61.272) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Barrouallie%2C%20Saint%20Vincent%20and%20the%20Grenadines) |
+| 8 | [Layou](cities/layou.yaml) | City / town | **71.60** | **Photography 8.2**, **Culture 8.0** | 7.0 / 7.5 / 7.2 / 7.5 / 6.2 | [13.202, -61.27](https://www.google.com/maps/search/?api=1&query=13.202,-61.27) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Layou%2C%20Saint%20Vincent%20and%20the%20Grenadines) |
+| 9 | [Calliaqua](cities/calliaqua.yaml) | City / town | **71.55** | **Culture 8.0**, **Food 8.0** | 6.9 / 7.4 / 7.1 / 7.7 / 6.6 | [13.13, -61.196](https://www.google.com/maps/search/?api=1&query=13.13,-61.196) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Calliaqua%2C%20Saint%20Vincent%20and%20the%20Grenadines) |
+| 10 | [Fancy](cities/fancy.yaml) | City / town | **71.50** | **Culture 8.6**, **History 8.0** | 6.7 / 8.0 / 7.4 / 7.2 / 5.8 | [13.387, -61.176](https://www.google.com/maps/search/?api=1&query=13.387,-61.176) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Fancy%2C%20Saint%20Vincent%20and%20the%20Grenadines) |
+| 11 | [Charlestown (Canouan)](cities/charlestown-canouan.yaml) | City / town | **71.30** | **Photography 8.1**, **Culture 8.0** | 7.0 / 7.6 / 6.8 / 7.6 / 6.3 | [12.709, -61.328](https://www.google.com/maps/search/?api=1&query=12.709,-61.328) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Charlestown%20%28Canouan%29%2C%20Saint%20Vincent%20and%20the%20Grenadines) |
+| 12 | [Georgetown](cities/georgetown.yaml) | City / town | **69.90** | **History 8.1**, **Culture 8.0** | 6.5 / 7.3 / 7.4 / 7.3 / 6.4 | [13.283, -61.121](https://www.google.com/maps/search/?api=1&query=13.283,-61.121) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Georgetown%2C%20Saint%20Vincent%20and%20the%20Grenadines) |
+| 13 | [Ashton (Union Island)](cities/ashton-union-island.yaml) | City / town | **69.10** | **Culture 8.1** | 6.6 / 7.5 / 6.8 / 7.3 / 6.0 | [12.592, -61.436](https://www.google.com/maps/search/?api=1&query=12.592,-61.436) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ashton%20%28Union%20Island%29%2C%20Saint%20Vincent%20and%20the%20Grenadines) |
 
 ---
 

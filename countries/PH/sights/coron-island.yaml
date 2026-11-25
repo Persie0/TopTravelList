@@ -1,0 +1,16 @@
+id: sight-ph-coron-island
+name: "Coron Island Natural Biotic Area"
+location:
+  country_code: PH
+  latitude: 11.95
+  longitude: 120.25
+scores:
+  impact: 9.3
+  uniqueness: 9.1
+  significance: 8.6
+  experience: 8.9
+  depth: 8.5
+  categories:
+    nature: 9.3
+    photography: 9.4
+    adventure: 8.9

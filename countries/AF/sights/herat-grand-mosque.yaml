@@ -1,0 +1,16 @@
+id: sight-af-herat-grand-mosque
+name: "Great Mosque of Herat"
+location:
+  country_code: AF
+  latitude: 34.342
+  longitude: 62.204
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 8.9
+  experience: 8.3
+  depth: 7.9
+  categories:
+    architecture: 9.2
+    history: 9.1
+    culture: 8.9

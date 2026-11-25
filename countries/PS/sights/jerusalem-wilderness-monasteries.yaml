@@ -1,0 +1,16 @@
+id: sight-ps-jerusalem-wilderness-monasteries
+name: "Monasteries of the Jerusalem Wilderness (El-Bariyah)"
+location:
+  country_code: PS
+  latitude: 31.7
+  longitude: 35.33
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 9.0
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.0
+    history: 9.1
+    culture: 9.0

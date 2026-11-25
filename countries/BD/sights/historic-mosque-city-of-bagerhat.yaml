@@ -1,0 +1,16 @@
+id: sight-bd-historic-mosque-city-of-bagerhat
+name: "Historic Mosque City of Bagerhat"
+location:
+  country_code: BD
+  latitude: 22.66667
+  longitude: 89.8
+scores:
+  impact: 8.5
+  uniqueness: 9.2
+  significance: 9.4
+  experience: 8.5
+  depth: 9.0
+  categories:
+    architecture: 9.4
+    history: 9.5
+    culture: 9.1

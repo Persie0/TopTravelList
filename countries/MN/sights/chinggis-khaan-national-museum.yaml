@@ -1,0 +1,15 @@
+id: sight-mn-chinggis-khaan-national-museum
+name: "Chinggis Khaan National Museum"
+location:
+  country_code: MN
+  latitude: 47.924
+  longitude: 106.915
+scores:
+  impact: 8.6
+  uniqueness: 8.9
+  significance: 9.2
+  experience: 8.8
+  depth: 9.0
+  categories:
+    history: 9.4
+    culture: 9.2

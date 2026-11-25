@@ -1,0 +1,15 @@
+id: sight-ag-ffryes-beach
+name: "Ffryes Beach"
+location:
+  country_code: AG
+  latitude: 17.043
+  longitude: -61.893
+scores:
+  impact: 8.5
+  uniqueness: 7.9
+  significance: 5.7
+  experience: 8.6
+  depth: 6.9
+  categories:
+    beaches: 9.0
+    relaxation: 8.7

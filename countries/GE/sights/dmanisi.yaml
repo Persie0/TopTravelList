@@ -1,0 +1,15 @@
+id: sight-ge-dmanisi
+name: "Dmanisi Hominid Archaeological Site"
+location:
+  country_code: GE
+  latitude: 41.337
+  longitude: 44.346
+scores:
+  impact: 7.6
+  uniqueness: 9.1
+  significance: 9.4
+  experience: 7.4
+  depth: 7.6
+  categories:
+    history: 9.3
+    culture: 8.1

@@ -1,0 +1,17 @@
+id: sight-km-moheli-marine-park
+name: "Mohéli Marine Park"
+location:
+  country_code: KM
+  latitude: -12.416667
+  longitude: 43.695278
+scores:
+  impact: 9.3
+  uniqueness: 9.1
+  significance: 9.0
+  experience: 9.1
+  depth: 8.7
+  categories:
+    nature: 9.5
+    wildlife: 9.6
+    adventure: 9.3
+    photography: 9.4

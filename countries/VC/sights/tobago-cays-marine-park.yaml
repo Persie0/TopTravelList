@@ -1,0 +1,17 @@
+id: sight-vc-tobago-cays-marine-park
+name: "Tobago Cays Marine Park"
+location:
+  country_code: VC
+  latitude: 12.633492
+  longitude: -61.355569
+scores:
+  impact: 9.4
+  uniqueness: 9.3
+  significance: 9.1
+  experience: 9.1
+  depth: 8.9
+  categories:
+    nature: 9.5
+    wildlife: 9.4
+    photography: 9.6
+    adventure: 9.4

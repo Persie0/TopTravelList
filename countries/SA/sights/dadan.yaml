@@ -1,0 +1,15 @@
+id: sight-sa-dadan
+name: "Dadan Archaeological Site"
+location:
+  country_code: SA
+  latitude: 26.65
+  longitude: 37.91
+scores:
+  impact: 8.4
+  uniqueness: 8.7
+  significance: 8.8
+  experience: 8.0
+  depth: 7.7
+  categories:
+    history: 9.0
+    architecture: 8.5

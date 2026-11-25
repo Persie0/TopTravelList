@@ -1,0 +1,16 @@
+id: sight-lt-hill-of-crosses
+name: "Hill of Crosses"
+location:
+  country_code: LT
+  latitude: 56.015
+  longitude: 23.416
+scores:
+  impact: 9.0
+  uniqueness: 9.4
+  significance: 9.0
+  experience: 8.6
+  depth: 7.8
+  categories:
+    culture: 9.4
+    history: 9.1
+    photography: 9.3

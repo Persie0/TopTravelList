@@ -1,0 +1,15 @@
+id: city-dk-jelling
+name: "Jelling"
+location:
+  country_code: DK
+  latitude: 55.755
+  longitude: 9.42
+scores:
+  impact: 7.3
+  uniqueness: 7.9
+  significance: 8.1
+  experience: 7.7
+  depth: 6.8
+  categories:
+    history: 8.5
+    culture: 8.1

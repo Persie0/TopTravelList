@@ -1,0 +1,15 @@
+id: sight-tm-dehistan-mishrian-archaeological-site
+name: "Dehistan (Mishrian) Archaeological Site"
+location:
+  country_code: TM
+  latitude: 38.25
+  longitude: 54.6
+scores:
+  impact: 7.8
+  uniqueness: 8.6
+  significance: 9.0
+  experience: 7.8
+  depth: 7.5
+  categories:
+    history: 9.2
+    photography: 8.5

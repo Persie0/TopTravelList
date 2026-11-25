@@ -1,0 +1,16 @@
+id: city-sa-najran
+name: "Najran"
+location:
+  country_code: SA
+  latitude: 17.4917
+  longitude: 44.1322
+scores:
+  impact: 7.7
+  uniqueness: 8.1
+  significance: 8.2
+  experience: 7.5
+  depth: 7.5
+  categories:
+    architecture: 8.4
+    history: 8.4
+    culture: 8.0

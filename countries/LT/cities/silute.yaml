@@ -1,0 +1,15 @@
+id: city-lt-silute
+name: "Šilutė"
+location:
+  country_code: LT
+  latitude: 55.347
+  longitude: 21.482
+scores:
+  impact: 7.2
+  uniqueness: 7.7
+  significance: 7.6
+  experience: 7.6
+  depth: 7.1
+  categories:
+    architecture: 8
+    history: 8.1

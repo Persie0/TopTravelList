@@ -1,0 +1,16 @@
+id: sight-se-gammelstad
+name: "Church Town of Gammelstad"
+location:
+  country_code: SE
+  latitude: 65.646
+  longitude: 22.029
+scores:
+  impact: 8.7
+  uniqueness: 9.2
+  significance: 9.0
+  experience: 8.6
+  depth: 8.2
+  categories:
+    architecture: 9.3
+    history: 9.2
+    culture: 9

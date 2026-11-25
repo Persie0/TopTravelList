@@ -1,0 +1,16 @@
+id: sight-dk-christiansfeld-heritage
+name: "Christiansfeld (Moravian Church Settlements)"
+location:
+  country_code: DK
+  latitude: 55.356
+  longitude: 9.481
+scores:
+  impact: 8.4
+  uniqueness: 9.0
+  significance: 9.0
+  experience: 8.4
+  depth: 8.0
+  categories:
+    architecture: 9.2
+    history: 9.1
+    culture: 9

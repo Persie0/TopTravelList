@@ -1,0 +1,17 @@
+id: sight-lb-shouf-biosphere-reserve
+name: "Shouf Biosphere Reserve"
+location:
+  country_code: LB
+  latitude: 33.68
+  longitude: 35.69
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 8.5
+  experience: 8.7
+  depth: 8.9
+  categories:
+    nature: 9.2
+    wildlife: 8.8
+    adventure: 8.9
+    photography: 9.0

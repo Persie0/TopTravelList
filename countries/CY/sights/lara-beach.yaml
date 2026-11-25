@@ -1,0 +1,16 @@
+id: sight-cy-lara-beach
+name: "Lara Beach"
+location:
+  country_code: CY
+  latitude: 34.956
+  longitude: 32.306
+scores:
+  impact: 8.2
+  uniqueness: 8.0
+  significance: 8.3
+  experience: 7.8
+  depth: 7.0
+  categories:
+    nature: 8.6
+    beaches: 8.5
+    wildlife: 8.5

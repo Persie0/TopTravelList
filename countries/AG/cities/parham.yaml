@@ -1,0 +1,15 @@
+id: city-ag-parham
+name: "Parham"
+location:
+  country_code: AG
+  latitude: 17.097
+  longitude: -61.770
+scores:
+  impact: 6.8
+  uniqueness: 7.6
+  significance: 8.0
+  experience: 7.4
+  depth: 6.3
+  categories:
+    history: 8.6
+    culture: 8.2

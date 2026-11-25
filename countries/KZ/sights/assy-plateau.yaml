@@ -1,0 +1,16 @@
+id: sight-kz-assy-plateau
+name: "Assy Plateau"
+location:
+  country_code: KZ
+  latitude: 43.22
+  longitude: 78
+scores:
+  impact: 8.6
+  uniqueness: 8.4
+  significance: 7.3
+  experience: 8.4
+  depth: 8.5
+  categories:
+    nature: 8.9
+    photography: 9.1
+    adventure: 8.6

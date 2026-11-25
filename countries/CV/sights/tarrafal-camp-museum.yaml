@@ -1,0 +1,15 @@
+id: sight-cv-tarrafal-camp-museum
+name: "Tarrafal Camp Museum"
+location:
+  country_code: CV
+  latitude: 15.2700
+  longitude: -23.7440
+scores:
+  impact: 7.4
+  uniqueness: 8.6
+  significance: 9.1
+  experience: 8.0
+  depth: 7.6
+  categories:
+    history: 9.4
+    culture: 8.8

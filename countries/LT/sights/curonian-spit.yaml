@@ -1,0 +1,17 @@
+id: sight-lt-curonian-spit
+name: "Curonian Spit National Park (Lithuanian section)"
+location:
+  country_code: LT
+  latitude: 55.42
+  longitude: 21.07
+scores:
+  impact: 9.3
+  uniqueness: 9.4
+  significance: 9.1
+  experience: 9.2
+  depth: 9.1
+  categories:
+    nature: 9.5
+    photography: 9.5
+    beaches: 9
+    adventure: 8.8

@@ -1,0 +1,15 @@
+id: sight-ps-qumran
+name: "Qumran Caves and Monastery"
+location:
+  country_code: PS
+  latitude: 31.741
+  longitude: 35.459
+scores:
+  impact: 8.4
+  uniqueness: 9.1
+  significance: 9.4
+  experience: 8.3
+  depth: 7.7
+  categories:
+    history: 9.4
+    nature: 8.3

@@ -1,0 +1,16 @@
+id: sight-sy-ancient-aleppo
+name: "Ancient City of Aleppo"
+location:
+  country_code: SY
+  latitude: 36.198
+  longitude: 37.16
+scores:
+  impact: 8.7
+  uniqueness: 9.0
+  significance: 9.3
+  experience: 8.0
+  depth: 8.1
+  categories:
+    architecture: 9.1
+    history: 9.4
+    culture: 9.0

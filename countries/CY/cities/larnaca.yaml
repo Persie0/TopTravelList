@@ -1,0 +1,16 @@
+id: city-cy-larnaca
+name: "Larnaca"
+location:
+  country_code: CY
+  latitude: 34.9182
+  longitude: 33.6201
+scores:
+  impact: 7.5
+  uniqueness: 7.5
+  significance: 7.8
+  experience: 8.0
+  depth: 7.6
+  categories:
+    history: 8.0
+    relaxation: 8.3
+    food: 8.0

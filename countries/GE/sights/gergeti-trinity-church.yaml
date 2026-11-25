@@ -1,0 +1,16 @@
+id: sight-ge-gergeti-trinity-church
+name: "Gergeti Trinity Church"
+location:
+  country_code: GE
+  latitude: 42.662
+  longitude: 44.621
+scores:
+  impact: 9.2
+  uniqueness: 8.5
+  significance: 8.1
+  experience: 8.6
+  depth: 7.0
+  categories:
+    architecture: 8.6
+    history: 8.3
+    photography: 9.4

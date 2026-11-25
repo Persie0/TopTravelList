@@ -1,0 +1,14 @@
+id: sight-pk-shahbazgarhi-edicts
+name: "Shahbazgarhi Rock Edicts"
+location:
+  country_code: PK
+  latitude: 34.229
+  longitude: 72.167
+scores:
+  impact: 7.0
+  uniqueness: 8.8
+  significance: 9.1
+  experience: null
+  depth: null
+  categories:
+    history: 9.2
