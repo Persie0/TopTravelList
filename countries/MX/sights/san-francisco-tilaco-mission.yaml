@@ -1,0 +1,17 @@
+id: sight-mx-san-francisco-tilaco-mission
+name: "Mission of San Francisco del Valle de Tilaco"
+location:
+  country_code: MX
+  latitude: 21.163972
+  longitude: -99.191756
+scores:
+  impact: 8.2
+  uniqueness: 8.6
+  significance: 8.8
+  experience: 8.1
+  depth: 7.6
+  categories:
+    architecture: 9.0
+    history: 9.0
+    culture: 8.9
+    photography: 8.8

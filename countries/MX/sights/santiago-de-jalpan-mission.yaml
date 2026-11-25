@@ -1,0 +1,17 @@
+id: sight-mx-santiago-de-jalpan-mission
+name: "Mission of Santiago de Jalpan"
+location:
+  country_code: MX
+  latitude: 21.216858
+  longitude: -99.474083
+scores:
+  impact: 8.3
+  uniqueness: 8.7
+  significance: 8.9
+  experience: 8.4
+  depth: 7.9
+  categories:
+    architecture: 9.1
+    history: 9.1
+    culture: 8.9
+    photography: 8.9
