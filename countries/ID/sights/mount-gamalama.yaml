@@ -1,0 +1,16 @@
+id: sight-id-mount-gamalama
+name: "Mount Gamalama"
+location:
+  country_code: ID
+  latitude: 0.8100
+  longitude: 127.3330
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 8.1
+  experience: 8.5
+  depth: 8.6
+  categories:
+    nature: 9.3
+    adventure: 9.2
+    photography: 9.1

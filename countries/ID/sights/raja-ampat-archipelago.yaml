@@ -1,0 +1,18 @@
+id: sight-id-raja-ampat-archipelago
+name: "Raja Ampat Archipelago"
+location:
+  country_code: ID
+  latitude: -0.6000
+  longitude: 130.2000
+scores:
+  impact: 9.8
+  uniqueness: 9.9
+  significance: 9.5
+  experience: 9.7
+  depth: 9.8
+  categories:
+    nature: 9.9
+    wildlife: 9.9
+    adventure: 9.9
+    photography: 9.9
+    beaches: 9.7

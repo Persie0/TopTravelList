@@ -1,0 +1,16 @@
+id: sight-id-bukit-baka-bukit-raya-national-park
+name: "Bukit Baka Bukit Raya National Park"
+location:
+  country_code: ID
+  latitude: -0.6500
+  longitude: 112.6500
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.2
+  depth: 9.1
+  categories:
+    nature: 9.4
+    wildlife: 9.1
+    adventure: 9.0

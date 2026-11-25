@@ -1,0 +1,15 @@
+id: sight-id-fort-amsterdam-hila
+name: "Fort Amsterdam Hila"
+location:
+  country_code: ID
+  latitude: -3.5840
+  longitude: 128.0890
+scores:
+  impact: 8.0
+  uniqueness: 8.4
+  significance: 8.8
+  experience: 8.3
+  depth: 7.5
+  categories:
+    history: 9.1
+    architecture: 8.6

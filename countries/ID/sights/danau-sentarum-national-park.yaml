@@ -1,0 +1,16 @@
+id: sight-id-danau-sentarum-national-park
+name: "Danau Sentarum National Park"
+location:
+  country_code: ID
+  latitude: 0.8500
+  longitude: 112.1000
+scores:
+  impact: 8.9
+  uniqueness: 9.2
+  significance: 9.0
+  experience: 8.8
+  depth: 9.1
+  categories:
+    nature: 9.5
+    wildlife: 9.3
+    culture: 8.8

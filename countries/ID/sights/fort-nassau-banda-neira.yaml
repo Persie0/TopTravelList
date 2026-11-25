@@ -1,0 +1,15 @@
+id: sight-id-fort-nassau-banda-neira
+name: "Fort Nassau Banda Neira"
+location:
+  country_code: ID
+  latitude: -4.5260
+  longitude: 129.9040
+scores:
+  impact: 8.2
+  uniqueness: 8.7
+  significance: 9.1
+  experience: 8.3
+  depth: 7.7
+  categories:
+    history: 9.3
+    architecture: 8.8

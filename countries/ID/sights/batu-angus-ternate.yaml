@@ -1,0 +1,15 @@
+id: sight-id-batu-angus-ternate
+name: "Batu Angus Ternate"
+location:
+  country_code: ID
+  latitude: 0.8500
+  longitude: 127.3710
+scores:
+  impact: 8.4
+  uniqueness: 8.8
+  significance: 7.8
+  experience: 8.5
+  depth: 7.7
+  categories:
+    nature: 9.0
+    photography: 9.0

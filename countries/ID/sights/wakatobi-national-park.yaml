@@ -1,0 +1,17 @@
+id: sight-id-wakatobi-national-park
+name: "Wakatobi National Park"
+location:
+  country_code: ID
+  latitude: -5.6500
+  longitude: 123.9000
+scores:
+  impact: 9.5
+  uniqueness: 9.5
+  significance: 9.0
+  experience: 9.6
+  depth: 9.4
+  categories:
+    nature: 9.8
+    wildlife: 9.7
+    adventure: 9.8
+    beaches: 9.2

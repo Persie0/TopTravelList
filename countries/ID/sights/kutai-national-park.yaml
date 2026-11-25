@@ -1,0 +1,16 @@
+id: sight-id-kutai-national-park
+name: "Kutai National Park"
+location:
+  country_code: ID
+  latitude: 0.3800
+  longitude: 117.3800
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 8.9
+  experience: 8.6
+  depth: 8.9
+  categories:
+    wildlife: 9.4
+    nature: 9.3
+    adventure: 8.8

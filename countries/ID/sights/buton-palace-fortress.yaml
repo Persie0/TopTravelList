@@ -1,0 +1,16 @@
+id: sight-id-buton-palace-fortress
+name: "Buton Palace Fortress"
+location:
+  country_code: ID
+  latitude: -5.4900
+  longitude: 122.5900
+scores:
+  impact: 8.5
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.6
+  depth: 8.7
+  categories:
+    history: 9.2
+    architecture: 9.0
+    culture: 9.0

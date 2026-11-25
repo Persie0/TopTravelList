@@ -1,0 +1,16 @@
+id: sight-id-fort-rotterdam-makassar
+name: "Fort Rotterdam Makassar"
+location:
+  country_code: ID
+  latitude: -5.1340
+  longitude: 119.4050
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 9.0
+  experience: 8.7
+  depth: 8.5
+  categories:
+    history: 9.2
+    architecture: 9.0
+    culture: 8.8

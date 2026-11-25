@@ -1,0 +1,16 @@
+id: sight-id-lemo-cliff-graves
+name: "Lemo Cliff Graves"
+location:
+  country_code: ID
+  latitude: -3.0790
+  longitude: 119.8600
+scores:
+  impact: 8.9
+  uniqueness: 9.5
+  significance: 9.1
+  experience: 8.9
+  depth: 7.8
+  categories:
+    culture: 9.6
+    history: 9.2
+    photography: 9.3

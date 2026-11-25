@@ -1,0 +1,16 @@
+id: sight-id-maratua-island-reefs
+name: "Maratua Island Reefs"
+location:
+  country_code: ID
+  latitude: 2.2500
+  longitude: 118.6200
+scores:
+  impact: 9.1
+  uniqueness: 9.0
+  significance: 8.1
+  experience: 9.3
+  depth: 8.9
+  categories:
+    nature: 9.5
+    adventure: 9.6
+    beaches: 9.2

@@ -1,0 +1,14 @@
+id: sight-id-martapura-diamond-market
+name: "Martapura Diamond Market"
+location:
+  country_code: ID
+  latitude: -3.4110
+  longitude: 114.8460
+scores:
+  impact: 7.6
+  uniqueness: 8.1
+  significance: 7.5
+  experience: 8.0
+  depth: 7.5
+  categories:
+    culture: 8.4

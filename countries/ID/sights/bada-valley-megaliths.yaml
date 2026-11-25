@@ -1,0 +1,16 @@
+id: sight-id-bada-valley-megaliths
+name: "Bada Valley Megaliths"
+location:
+  country_code: ID
+  latitude: -1.8300
+  longitude: 120.2500
+scores:
+  impact: 8.8
+  uniqueness: 9.4
+  significance: 9.2
+  experience: 8.7
+  depth: 8.5
+  categories:
+    history: 9.4
+    culture: 9.3
+    photography: 9.1

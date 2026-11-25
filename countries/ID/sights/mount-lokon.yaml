@@ -1,0 +1,16 @@
+id: sight-id-mount-lokon
+name: "Mount Lokon"
+location:
+  country_code: ID
+  latitude: 1.3580
+  longitude: 124.7950
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 7.8
+  experience: 8.4
+  depth: 8.1
+  categories:
+    nature: 9.1
+    adventure: 9.0
+    photography: 9.0

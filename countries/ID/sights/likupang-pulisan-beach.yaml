@@ -1,0 +1,16 @@
+id: sight-id-likupang-pulisan-beach
+name: "Likupang Pulisan Beach"
+location:
+  country_code: ID
+  latitude: 1.6800
+  longitude: 125.1000
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 6.8
+  experience: 9.1
+  depth: 8.2
+  categories:
+    beaches: 9.4
+    photography: 9.3
+    nature: 9.1

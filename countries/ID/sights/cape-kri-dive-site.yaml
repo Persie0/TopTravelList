@@ -1,0 +1,16 @@
+id: sight-id-cape-kri-dive-site
+name: "Cape Kri Dive Site"
+location:
+  country_code: ID
+  latitude: -0.5600
+  longitude: 130.6850
+scores:
+  impact: 9.3
+  uniqueness: 9.4
+  significance: 8.5
+  experience: 9.4
+  depth: 8.5
+  categories:
+    wildlife: 9.8
+    adventure: 9.8
+    nature: 9.6

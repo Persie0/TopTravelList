@@ -1,0 +1,16 @@
+id: sight-id-lake-sentani
+name: "Lake Sentani"
+location:
+  country_code: ID
+  latitude: -2.6130
+  longitude: 140.5000
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 8.2
+  experience: 8.9
+  depth: 8.8
+  categories:
+    nature: 9.2
+    culture: 9.1
+    photography: 9.3

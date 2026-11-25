@@ -1,0 +1,16 @@
+id: sight-id-mount-mahawu
+name: "Mount Mahawu"
+location:
+  country_code: ID
+  latitude: 1.3600
+  longitude: 124.8600
+scores:
+  impact: 8.5
+  uniqueness: 8.4
+  significance: 7.4
+  experience: 8.7
+  depth: 7.8
+  categories:
+    nature: 9.0
+    photography: 9.0
+    adventure: 8.8

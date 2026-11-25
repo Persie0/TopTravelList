@@ -1,0 +1,16 @@
+id: sight-id-mahakam-river-cultural-journey
+name: "Mahakam River Cultural Journey"
+location:
+  country_code: ID
+  latitude: -0.1500
+  longitude: 115.9500
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 8.7
+  experience: 8.8
+  depth: 9.4
+  categories:
+    culture: 9.3
+    nature: 9.0
+    adventure: 8.9

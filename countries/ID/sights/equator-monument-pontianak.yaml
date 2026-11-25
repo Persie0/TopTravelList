@@ -1,0 +1,15 @@
+id: sight-id-equator-monument-pontianak
+name: "Equator Monument Pontianak"
+location:
+  country_code: ID
+  latitude: 0.0000
+  longitude: 109.3220
+scores:
+  impact: 7.6
+  uniqueness: 8.3
+  significance: 7.4
+  experience: 8.0
+  depth: 6.6
+  categories:
+    culture: 8.0
+    photography: 8.2

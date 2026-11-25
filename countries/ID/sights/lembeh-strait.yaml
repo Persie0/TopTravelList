@@ -1,0 +1,17 @@
+id: sight-id-lembeh-strait
+name: "Lembeh Strait"
+location:
+  country_code: ID
+  latitude: 1.4500
+  longitude: 125.2200
+scores:
+  impact: 9.2
+  uniqueness: 9.5
+  significance: 8.6
+  experience: 9.3
+  depth: 9.0
+  categories:
+    wildlife: 9.7
+    adventure: 9.7
+    nature: 9.4
+    photography: 9.5

@@ -1,0 +1,15 @@
+id: sight-id-radakng-house-pontianak
+name: "Radakng House Pontianak"
+location:
+  country_code: ID
+  latitude: -0.0350
+  longitude: 109.3200
+scores:
+  impact: 7.9
+  uniqueness: 8.6
+  significance: 7.9
+  experience: 8.2
+  depth: 7.5
+  categories:
+    architecture: 8.9
+    culture: 8.8
