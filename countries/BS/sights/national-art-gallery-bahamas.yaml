@@ -1,0 +1,15 @@
+id: sight-bs-national-art-gallery-bahamas
+name: "National Art Gallery of The Bahamas"
+location:
+  country_code: BS
+  latitude: 25.074
+  longitude: -77.348
+scores:
+  impact: 7.5
+  uniqueness: 7.8
+  significance: 8.1
+  experience: 8.1
+  depth: 7.5
+  categories:
+    culture: 8.9
+    architecture: 8.2

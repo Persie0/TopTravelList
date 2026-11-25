@@ -1,0 +1,13 @@
+id: sight-bs-bird-rock-lighthouse
+name: "Bird Rock Lighthouse (Crooked Island)"
+location:
+  country_code: BS
+  latitude: 22.85
+  longitude: -74.366667
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}
