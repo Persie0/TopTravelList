@@ -675,8 +675,8 @@
 - Action: new
 - Precise subject: Przemyśl; Exclude extensive external fortress system.
 - Location check: 49.783, 22.767; approximate representative point; independent location check pending.
-- Evidence status: editorial-only
-- Evidence: No individual supporting source checked; editorial judgment.
+- Evidence status: source-linked-unverified
+- Evidence: https://visit.przemysl.pl/en/368-przemysl-the-old-town-route-blue — Municipal tourism office identifies Old Town route and central square; external fortress excursions excluded. Reviewed 2026-11-25; partial evidence, not full independent verification.
 - Missing or uncertain facts: exact GPS, site-specific visitor access and independent material claim corroboration; closer same-type peers where appropriate.
 
 #### Worldwide peer comparisons
@@ -710,8 +710,8 @@
 - Action: new
 - Precise subject: Gniezno; Small city.
 - Location check: 52.535, 17.583; approximate representative point; independent location check pending.
-- Evidence status: editorial-only
-- Evidence: No individual supporting source checked; editorial judgment.
+- Evidence status: source-linked-unverified
+- Evidence: https://www.gniezno.eu/cms/25147/trakt_krolewski_w_gnieznie — Municipality provides Royal Route walking guide; https://wielkopolska.travel/en/gniezno-2/ documents cathedral, town hall and other urban sites. Reviewed 2026-11-25; partial evidence, not full independent verification.
 - Missing or uncertain facts: exact GPS, site-specific visitor access and independent material claim corroboration; closer same-type peers where appropriate.
 
 #### Worldwide peer comparisons
@@ -745,8 +745,8 @@
 - Action: new
 - Precise subject: Malbork; Exclude castle museum and vast castle complex as separate sight.
 - Location check: 54.036, 19.039; approximate representative point; independent location check pending.
-- Evidence status: editorial-only
-- Evidence: No individual supporting source checked; editorial judgment.
+- Evidence status: source-linked-unverified
+- Evidence: https://en.visitmalbork.pl/1178%2CCity-of-Malbork.html — Municipal tourist guide identifies town hall, St John the Baptist Church and surviving gates; town score does not inherit castle. Reviewed 2026-11-25; partial evidence, not full independent verification.
 - Missing or uncertain facts: exact GPS, site-specific visitor access and independent material claim corroboration; closer same-type peers where appropriate.
 
 #### Worldwide peer comparisons

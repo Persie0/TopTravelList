@@ -327,30 +327,31 @@
 - Location check: 54.519, 18.54; approximate representative point; independent location check pending.
 - Evidence status: source-linked-unverified
 - Evidence: [UNESCO](https://whc.unesco.org/en/statesparties/pl) — accessed 2026-11-25; property identity in country inventory; full claim verification remains outstanding.
+- Supplemental evidence (2026-11-25): https://whc.unesco.org/en/decisions/9187/ — UNESCO decision 48 COM 8B.33 confirms 2026 inscription and pioneering 1926–1939 maritime modernist urban planning of global architectural significance.
 - Missing or uncertain facts: exact GPS, site-specific visitor access and independent material claim corroboration; closer same-type peers where appropriate.
 
 #### Worldwide peer comparisons
 | Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
 | --- | --- | --- |
-| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | historic townscape | Distinct interwar planned maritime modernism; uniqueness lower. Inscribed centre not entire Gdynia; depth lower. Provisional scope comparison. |
-| [Tallinn Old Town (EE)](../../../countries/EE/sights/tallinn-old-town.yaml) (9.2 / 9.1 / 9.2 / 9.2 / 9.1) | fortified European city core | Distinct interwar planned maritime modernism; uniqueness lower. Inscribed centre not entire Gdynia; depth lower. Provisional scope comparison. |
-| [Hohensalzburg (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | major historic complex | Distinct interwar planned maritime modernism; uniqueness lower. Inscribed centre not entire Gdynia; depth lower. Provisional scope comparison. |
+| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | historic townscape | Distinct interwar planned maritime modernism; uniqueness varies against peer; inscribed centre not entire Gdynia; depth lower. Provisional scope comparison. |
+| [Tallinn Old Town (EE)](../../../countries/EE/sights/tallinn-old-town.yaml) (9.2 / 9.1 / 9.2 / 9.2 / 9.1) | fortified European city core | Distinct interwar planned maritime modernism; uniqueness varies against peer; inscribed centre not entire Gdynia; depth lower. Provisional scope comparison. |
+| [Hohensalzburg (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | major historic complex | Distinct interwar planned maritime modernism; uniqueness varies against peer; inscribed centre not entire Gdynia; depth lower. Provisional scope comparison. |
 | [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional heritage precinct | Distinct interwar planned maritime modernism; uniqueness higher. Inscribed centre not entire Gdynia; depth higher. Provisional scope comparison. |
 
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | Impact | — | 8.4 | Coherent modernist streets and port-related civic buildings |
-| Uniqueness | — | 8.9 | Distinct interwar planned maritime modernism |
-| Significance | — | 9.0 | International architectural heritage inscribed in 2026 |
+| Uniqueness | — | 9.2 | Pioneering interwar maritime modernist centre with coherent planning concept |
+| Significance | — | 9.3 | UNESCO decision identifies globally significant pioneering urban modernism |
 | Experience | — | 8.5 | Public urban walks and architectural observation |
 | Depth | — | 8.7 | Inscribed centre not entire Gdynia |
 
 - Applicable category scores: architecture: 9.3, history: 9.0.
-- Computed worldwide overall: 86.90/100.
+- Computed worldwide overall: 88.25/100.
 - High-score challenge: Not applicable.
 - Approved 10 registry: none.
-- Final decision: Scope-limited editorial assessment: Distinct interwar planned maritime modernism; Inscribed centre not entire Gdynia.
+- Final decision: 88.25 after stronger UNESCO evidence for architectural uniqueness and significance; no automatic inscription bonus.
 - Earlier decision: none.
 - Verification still needed: independent factual corroboration, permitted access and closer same-type peers.
 
@@ -747,6 +748,7 @@
 - Location check: 52.7, 23.82; approximate representative point; independent location check pending.
 - Evidence status: source-linked-unverified
 - Evidence: [Polish Tourism Organisation](https://www.poland.travel/en/unesco-sites/) — accessed 2026-11-25; destination identity or regional tourism context; full claim verification remains outstanding.
+- Supplemental evidence (2026-11-25): https://bpn.com.pl/index.php?Itemid=280&id=638&lang=en&option=com_content&task=view — National park requires licensed guides for strict reserve and distinguishes bison show reserve from wild habitat; https://bialowieza.travel/en/you-must-see/bialowieza-national-park describes additional wild observation sites.
 - Missing or uncertain facts: exact GPS, site-specific visitor access and independent material claim corroboration; closer same-type peers where appropriate.
 
 #### Worldwide peer comparisons
@@ -764,11 +766,11 @@
 | Uniqueness | — | 9.4 | Rare extensive remnant of European primeval lowland forest |
 | Significance | — | 9.5 | International ecological conservation |
 | Experience | — | 8.8 | Permitted trails and managed interpretation without guaranteed wildlife sightings |
-| Depth | — | 9.1 | Polish listed forest section not Belarusian side |
+| Depth | — | 9.0 | Polish section, designated trails and guided reserve access only |
 
-- Applicable category scores: nature: 9.5, wildlife: 9.5.
-- Computed worldwide overall: 91.20/100.
-- High-score challenge: Significance 9.5: International ecological conservation; nature 9.5: Rare extensive remnant of European primeval lowland forest; wildlife 9.5: Rare extensive remnant of European primeval lowland forest. 90+ total: Ancient lowland forest and large mammal habitats; Rare extensive remnant of European primeval lowland forest; Polish listed forest section not Belarusian side. Compare Suncheon Bay and Soomaa: intact forest habitats and European bison ecology support exceptional significance and wildlife/nature categories; lower scenic impact than Jiuzhaigou and no guaranteed sightings..
+- Applicable category scores: nature: 9.5, wildlife: 9.3.
+- Computed worldwide overall: 91.10/100.
+- High-score challenge: significance 9.5 and nature 9.5 reflect international old-growth forest conservation. Wildlife 9.3 accounts for limited ordinary wild viewing; fenced show reserve encounters do not establish wild sighting breadth. Strict reserve access requires licensed guide; no guaranteed wildlife sightings.
 - Approved 10 registry: none.
 - Final decision: Scope-limited editorial assessment: Rare extensive remnant of European primeval lowland forest; Polish listed forest section not Belarusian side.
 - Earlier decision: none.
@@ -1027,6 +1029,7 @@
 - Location check: 52.74, 23.84; approximate representative point; independent location check pending.
 - Evidence status: source-linked-unverified
 - Evidence: [Polish Tourism Organisation](https://www.poland.travel/en/national-parks/) — accessed 2026-11-25; park identity and broad landscape descriptions; full claim verification remains outstanding.
+- Supplemental evidence (2026-11-25): https://bpn.com.pl/index.php?Itemid=280&id=638&lang=en&option=com_content&task=view — National park rules establish restricted guided access and distinguish fenced bison show reserve.
 - Missing or uncertain facts: exact GPS, site-specific visitor access and independent material claim corroboration; closer same-type peers where appropriate.
 
 #### Worldwide peer comparisons
@@ -1046,9 +1049,9 @@
 | Experience | — | 8.7 | Authorized public trails and guided access only |
 | Depth | — | 8.8 | National park within wider World Heritage forest |
 
-- Applicable category scores: nature: 9.5, wildlife: 9.5.
+- Applicable category scores: nature: 9.5, wildlife: 9.3.
 - Computed worldwide overall: 90.50/100.
-- High-score challenge: Significance 9.5: International ecological conservation; nature 9.5: Rare intact lowland forest core; wildlife 9.5: Rare intact lowland forest core. 90+ total: Protected old-growth forest and wildlife habitat; Rare intact lowland forest core; National park within wider World Heritage forest. Compare Suncheon Bay and Soomaa: intact forest habitats and European bison ecology support exceptional significance and wildlife/nature categories; lower scenic impact than Jiuzhaigou and no guaranteed sightings..
+- High-score challenge: significance 9.5 and nature 9.5 reflect international old-growth forest conservation. Wildlife 9.3 accounts for limited ordinary wild viewing; fenced show reserve encounters do not establish wild sighting breadth. Strict reserve access requires licensed guide; no guaranteed wildlife sightings.
 - Approved 10 registry: none.
 - Final decision: Scope-limited editorial assessment: Rare intact lowland forest core; National park within wider World Heritage forest.
 - Earlier decision: none.
@@ -1797,6 +1800,7 @@
 - Location check: 53.27, 14.45; approximate representative point; independent location check pending.
 - Evidence status: source-linked-unverified
 - Evidence: [Visit Szczecin](https://visitszczecin.eu/en/news/1533-lower-oder-valley-could-become-wonder-poland-2026) — accessed 2026-11-25; existing landscape park designation; full claim verification remains outstanding.
+- Supplemental evidence (2026-11-25): https://www.gov.pl/web/priorytety/p40 — Government project page records renewed 2026 legislative process for proposed national park; https://www.eea.europa.eu/en/europe-environment-2025/countries/poland/terrestrial-protected-areas/ reports 23 established parks, 24th in preparation. Retain existing landscape park designation until final enactment.
 - Missing or uncertain facts: exact GPS, site-specific visitor access and independent material claim corroboration; closer same-type peers where appropriate.
 
 #### Worldwide peer comparisons
@@ -2005,8 +2009,8 @@
 - Action: new
 - Precise subject: Książ Castle; Defined castle estate.
 - Location check: 50.842, 16.292; approximate representative point; independent location check pending.
-- Evidence status: editorial-only
-- Evidence: No individual supporting source checked; editorial judgment.
+- Evidence status: source-linked-unverified
+- Evidence: https://www.ksiaz.walbrzych.pl/en/turystyka/zwiedzanie — Castle operator documents managed tours; https://www.ksiaz.walbrzych.pl/en/turystyka/podziemia identifies separate underground route. Reviewed 2026-11-25; partial evidence, not full independent verification.
 - Missing or uncertain facts: exact GPS, site-specific visitor access and independent material claim corroboration; closer same-type peers where appropriate.
 
 #### Worldwide peer comparisons
@@ -2075,8 +2079,8 @@
 - Action: new
 - Precise subject: POLIN Museum of the History of Polish Jews; Extensive permanent galleries not entire historic district.
 - Location check: 52.249, 20.993; approximate representative point; independent location check pending.
-- Evidence status: editorial-only
-- Evidence: No individual supporting source checked; editorial judgment.
+- Evidence status: source-linked-unverified
+- Evidence: https://polin.pl/en/about-museum — Museum documents its core exhibition and purpose, public institution and European Museum of the Year award. Reviewed 2026-11-25; partial evidence, not full independent verification.
 - Missing or uncertain facts: exact GPS, site-specific visitor access and independent material claim corroboration; closer same-type peers where appropriate.
 
 #### Worldwide peer comparisons
@@ -2110,8 +2114,8 @@
 - Action: new
 - Precise subject: Warsaw Uprising Museum; Multiple museum galleries.
 - Location check: 52.232, 20.981; approximate representative point; independent location check pending.
-- Evidence status: editorial-only
-- Evidence: No individual supporting source checked; editorial judgment.
+- Evidence status: source-linked-unverified
+- Evidence: https://www.1944.pl/en/article/visit-us%2C4993.html — Museum identifies visitor admission and exhibition; https://go2warsaw.pl/en/warsaw-rising-museum/ describes civilian and historical interpretation. Reviewed 2026-11-25; partial evidence, not full independent verification.
 - Missing or uncertain facts: exact GPS, site-specific visitor access and independent material claim corroboration; closer same-type peers where appropriate.
 
 #### Worldwide peer comparisons
@@ -2145,8 +2149,8 @@
 - Action: new
 - Precise subject: European Solidarity Centre, Gdańsk; Museum and immediate memorial context.
 - Location check: 54.361, 18.649; approximate representative point; independent location check pending.
-- Evidence status: editorial-only
-- Evidence: No individual supporting source checked; editorial judgment.
+- Evidence status: source-linked-unverified
+- Evidence: https://ecs.gda.pl/en/ — Operator describes permanent galleries on Solidarity and democratic transitions; https://ecs.gda.pl/en/plan-your-visit/ documents admission. Reviewed 2026-11-25; partial evidence, not full independent verification.
 - Missing or uncertain facts: exact GPS, site-specific visitor access and independent material claim corroboration; closer same-type peers where appropriate.
 
 #### Worldwide peer comparisons
@@ -2182,6 +2186,7 @@
 - Location check: 49.75, 21.233333; UNESCO published DMS converted to decimal degrees; original precision retained conceptually, not entrance coordinates.
 - Evidence status: unassessed
 - Evidence: [UNESCO](https://whc.unesco.org/en/list/1053/maps/) — accessed 2026-11-25; component identity and representative coordinate table, not interior access or every feature; full claim verification remains outstanding.
+- Supplemental evidence (2026-11-25): https://www.drewniana.malopolska.pl/?l=en&page=obiekty&unesco=1 — Regional wooden architecture directory identifies listed building; independent confirmation of ordinary interior visit still pending.
 - Missing or uncertain facts: site-specific access and physical visitor experience; closer same-type peers where appropriate.
 
 #### Worldwide peer comparisons
@@ -2217,6 +2222,7 @@
 - Location check: 49.75, 21.95; UNESCO published DMS converted to decimal degrees; original precision retained conceptually, not entrance coordinates.
 - Evidence status: unassessed
 - Evidence: [UNESCO](https://whc.unesco.org/en/list/1053/maps/) — accessed 2026-11-25; component identity and representative coordinate table, not interior access or every feature; full claim verification remains outstanding.
+- Supplemental evidence (2026-11-25): https://sad.podkarpackie.travel/en/unesco — Regional wooden architecture route identifies listed building; independent confirmation of ordinary interior visit still pending.
 - Missing or uncertain facts: site-specific access and physical visitor experience; closer same-type peers where appropriate.
 
 #### Worldwide peer comparisons
@@ -2252,6 +2258,7 @@
 - Location check: 49.466667, 20.216667; UNESCO published DMS converted to decimal degrees; original precision retained conceptually, not entrance coordinates.
 - Evidence status: unassessed
 - Evidence: [UNESCO](https://whc.unesco.org/en/list/1053/maps/) — accessed 2026-11-25; component identity and representative coordinate table, not interior access or every feature; full claim verification remains outstanding.
+- Supplemental evidence (2026-11-25): https://www.drewniana.malopolska.pl/?l=en&page=obiekty&unesco=1 — Regional wooden architecture directory identifies listed building; independent confirmation of ordinary interior visit still pending.
 - Missing or uncertain facts: site-specific access and physical visitor experience; closer same-type peers where appropriate.
 
 #### Worldwide peer comparisons
@@ -2287,6 +2294,7 @@
 - Location check: 49.7, 21.9; UNESCO published DMS converted to decimal degrees; original precision retained conceptually, not entrance coordinates.
 - Evidence status: unassessed
 - Evidence: [UNESCO](https://whc.unesco.org/en/list/1053/maps/) — accessed 2026-11-25; component identity and representative coordinate table, not interior access or every feature; full claim verification remains outstanding.
+- Supplemental evidence (2026-11-25): https://sad.podkarpackie.travel/en/unesco — Regional wooden architecture route identifies listed building; independent confirmation of ordinary interior visit still pending.
 - Missing or uncertain facts: site-specific access and physical visitor experience; closer same-type peers where appropriate.
 
 #### Worldwide peer comparisons
@@ -2322,6 +2330,7 @@
 - Location check: 49.666667, 20.516667; UNESCO published DMS converted to decimal degrees; original precision retained conceptually, not entrance coordinates.
 - Evidence status: unassessed
 - Evidence: [UNESCO](https://whc.unesco.org/en/list/1053/maps/) — accessed 2026-11-25; component identity and representative coordinate table, not interior access or every feature; full claim verification remains outstanding.
+- Supplemental evidence (2026-11-25): https://www.drewniana.malopolska.pl/?l=en&page=obiekty&unesco=1 — Regional wooden architecture directory identifies listed building; independent confirmation of ordinary interior visit still pending.
 - Missing or uncertain facts: site-specific access and physical visitor experience; closer same-type peers where appropriate.
 
 #### Worldwide peer comparisons
@@ -2357,6 +2366,7 @@
 - Location check: 49.633333, 21.2; UNESCO published DMS converted to decimal degrees; original precision retained conceptually, not entrance coordinates.
 - Evidence status: unassessed
 - Evidence: [UNESCO](https://whc.unesco.org/en/list/1053/maps/) — accessed 2026-11-25; component identity and representative coordinate table, not interior access or every feature; full claim verification remains outstanding.
+- Supplemental evidence (2026-11-25): https://www.drewniana.malopolska.pl/?l=en&page=obiekty&unesco=1 — Regional wooden architecture directory identifies listed building; independent confirmation of ordinary interior visit still pending.
 - Missing or uncertain facts: site-specific access and physical visitor experience; closer same-type peers where appropriate.
 
 #### Worldwide peer comparisons
@@ -2392,6 +2402,7 @@
 - Location check: 49.533889, 21.032222; UNESCO published DMS converted to decimal degrees; original precision retained conceptually, not entrance coordinates.
 - Evidence status: unassessed
 - Evidence: [UNESCO](https://whc.unesco.org/en/list/1424/maps/) — accessed 2026-11-25; component identity and representative coordinate table, not interior access or every feature; full claim verification remains outstanding.
+- Supplemental evidence (2026-11-25): https://www.drewniana.malopolska.pl/?l=en&page=obiekty&unesco=1 — Regional wooden architecture directory identifies listed building; independent confirmation of ordinary interior visit still pending.
 - Missing or uncertain facts: site-specific access and physical visitor experience; closer same-type peers where appropriate.
 
 #### Worldwide peer comparisons
@@ -2427,6 +2438,7 @@
 - Location check: 49.952972, 23.002778; UNESCO published DMS converted to decimal degrees; original precision retained conceptually, not entrance coordinates.
 - Evidence status: unassessed
 - Evidence: [UNESCO](https://whc.unesco.org/en/list/1424/maps/) — accessed 2026-11-25; component identity and representative coordinate table, not interior access or every feature; full claim verification remains outstanding.
+- Supplemental evidence (2026-11-25): https://sad.podkarpackie.travel/en/unesco — Regional wooden architecture route identifies listed building; independent confirmation of ordinary interior visit still pending.
 - Missing or uncertain facts: site-specific access and physical visitor experience; closer same-type peers where appropriate.
 
 #### Worldwide peer comparisons
@@ -2462,6 +2474,7 @@
 - Location check: 49.501333, 21.172683; UNESCO published DMS converted to decimal degrees; original precision retained conceptually, not entrance coordinates.
 - Evidence status: unassessed
 - Evidence: [UNESCO](https://whc.unesco.org/en/list/1424/maps/) — accessed 2026-11-25; component identity and representative coordinate table, not interior access or every feature; full claim verification remains outstanding.
+- Supplemental evidence (2026-11-25): https://www.drewniana.malopolska.pl/?l=en&page=obiekty&unesco=1 — Regional wooden architecture directory identifies listed building; independent confirmation of ordinary interior visit still pending.
 - Missing or uncertain facts: site-specific access and physical visitor experience; closer same-type peers where appropriate.
 
 #### Worldwide peer comparisons
@@ -2497,6 +2510,7 @@
 - Location check: 49.588611, 21.191111; UNESCO published DMS converted to decimal degrees; original precision retained conceptually, not entrance coordinates.
 - Evidence status: unassessed
 - Evidence: [UNESCO](https://whc.unesco.org/en/list/1424/maps/) — accessed 2026-11-25; component identity and representative coordinate table, not interior access or every feature; full claim verification remains outstanding.
+- Supplemental evidence (2026-11-25): https://www.drewniana.malopolska.pl/?l=en&page=obiekty&unesco=1 — Regional wooden architecture directory identifies listed building; independent confirmation of ordinary interior visit still pending.
 - Missing or uncertain facts: site-specific access and physical visitor experience; closer same-type peers where appropriate.
 
 #### Worldwide peer comparisons
@@ -2532,6 +2546,7 @@
 - Location check: 49.369722, 20.950419; UNESCO published DMS converted to decimal degrees; original precision retained conceptually, not entrance coordinates.
 - Evidence status: unassessed
 - Evidence: [UNESCO](https://whc.unesco.org/en/list/1424/maps/) — accessed 2026-11-25; component identity and representative coordinate table, not interior access or every feature; full claim verification remains outstanding.
+- Supplemental evidence (2026-11-25): https://www.drewniana.malopolska.pl/?l=en&page=obiekty&unesco=1 — Regional wooden architecture directory identifies listed building; independent confirmation of ordinary interior visit still pending.
 - Missing or uncertain facts: site-specific access and physical visitor experience; closer same-type peers where appropriate.
 
 #### Worldwide peer comparisons
@@ -2565,32 +2580,33 @@
 - Action: new
 - Precise subject: Tserkva of St Paraskeva, Radruż; Single listed church and immediate grounds, no broader itinerary assumed.
 - Location check: 50.176403, 23.401067; UNESCO published DMS converted to decimal degrees; original precision retained conceptually, not entrance coordinates.
-- Evidence status: unassessed
+- Evidence status: source-linked-unverified
 - Evidence: [UNESCO](https://whc.unesco.org/en/list/1424/maps/) — accessed 2026-11-25; component identity and representative coordinate table, not interior access or every feature; full claim verification remains outstanding.
+- Supplemental evidence (2026-11-25): https://muzeumkresow.eu/zwiedzanie/zespol-cerkiewny-w-radruzu/ — Museum's visitor regulations confirm ticketed accompanied access to church, enclosed precinct and museum exhibition, with separate open cemetery areas. No entire regional route assumed.
 - Missing or uncertain facts: site-specific access and physical visitor experience; closer same-type peers where appropriate.
 
 #### Worldwide peer comparisons
 | Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
 | --- | --- | --- |
-| [Melk Abbey (AT)](../../../countries/AT/sights/melk-abbey.yaml) (9 / 9.2 / 9.3 / 9.2 / 8.7) | large religious complex | Distinct fortified religious ensemble; uniqueness lower. Single listed church and immediate grounds, no broader itinerary assumed; depth unassessed. Provisional scope comparison. |
-| [Bulguksa Temple (KR)](../../../countries/KR/sights/bulguksa-temple.yaml) (9.2 / 9.4 / 9.6 / 9.3 / 8.9) | world-class religious architecture | Distinct fortified religious ensemble; uniqueness lower. Single listed church and immediate grounds, no broader itinerary assumed; depth unassessed. Provisional scope comparison. |
-| [St Barbara's Church (CZ)](../../../countries/CZ/sights/st-barbaras-church-kutna-hora.yaml) (9.1 / 9.1 / 9.2 / 8.9 / 8.5) | European historic church | Distinct fortified religious ensemble; uniqueness lower. Single listed church and immediate grounds, no broader itinerary assumed; depth unassessed. Provisional scope comparison. |
-| [St Olaf's Church (EE)](../../../countries/EE/sights/st-olafs-church.yaml) (8.1 / 8.1 / 8.3 / 8.1 / 7.4) | focused church visit | Distinct fortified religious ensemble; uniqueness higher. Single listed church and immediate grounds, no broader itinerary assumed; depth unassessed. Provisional scope comparison. |
+| [Melk Abbey (AT)](../../../countries/AT/sights/melk-abbey.yaml) (9 / 9.2 / 9.3 / 9.2 / 8.7) | large religious complex | Distinct fortified religious ensemble; uniqueness lower. Single listed church and immediate grounds, no broader itinerary assumed; depth lower than larger ensembles; higher than compact St Olaf visit where applicable. Provisional scope comparison. |
+| [Bulguksa Temple (KR)](../../../countries/KR/sights/bulguksa-temple.yaml) (9.2 / 9.4 / 9.6 / 9.3 / 8.9) | world-class religious architecture | Distinct fortified religious ensemble; uniqueness lower. Single listed church and immediate grounds, no broader itinerary assumed; depth lower than larger ensembles; higher than compact St Olaf visit where applicable. Provisional scope comparison. |
+| [St Barbara's Church (CZ)](../../../countries/CZ/sights/st-barbaras-church-kutna-hora.yaml) (9.1 / 9.1 / 9.2 / 8.9 / 8.5) | European historic church | Distinct fortified religious ensemble; uniqueness lower. Single listed church and immediate grounds, no broader itinerary assumed; depth lower than larger ensembles; higher than compact St Olaf visit where applicable. Provisional scope comparison. |
+| [St Olaf's Church (EE)](../../../countries/EE/sights/st-olafs-church.yaml) (8.1 / 8.1 / 8.3 / 8.1 / 7.4) | focused church visit | Distinct fortified religious ensemble; uniqueness higher. Single listed church and immediate grounds, no broader itinerary assumed; depth lower than larger ensembles; higher than compact St Olaf visit where applicable. Provisional scope comparison. |
 
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| Impact | — | null | Timber church and defensive precinct, actual visitor impact not checked |
+| Impact | — | 8.5 | Timber church, enclosed precinct and documented museum visitor context |
 | Uniqueness | — | 8.9 | Distinct fortified religious ensemble |
 | Significance | — | 8.9 | International serial vernacular religious heritage, not equivalent to the full series |
-| Experience | — | null | Ordinary permitted interior visit not individually verified |
-| Depth | — | null | Single listed church and immediate grounds, no broader itinerary assumed |
+| Experience | — | 8.5 | Ticketed accompanied church and exhibition visit |
+| Depth | — | 7.8 | One fortified church precinct and associated interpretation, not regional itinerary |
 
 - Applicable category scores: architecture: 9.1, history: 9.1.
-- Computed worldwide overall: unranked.
+- Computed worldwide overall: 86.10/100.
 - High-score challenge: Not applicable.
 - Approved 10 registry: none.
-- Final decision: Unranked pending documented ordinary visitor scope.
+- Final decision: provisional 86.10 after museum operator confirmed ordinary ticketed church access.
 - Earlier decision: none.
 - Verification still needed: independent factual corroboration, permitted access and closer same-type peers.
 
@@ -2602,6 +2618,7 @@
 - Location check: 49.209639, 22.687778; UNESCO published DMS converted to decimal degrees; original precision retained conceptually, not entrance coordinates.
 - Evidence status: unassessed
 - Evidence: [UNESCO](https://whc.unesco.org/en/list/1424/maps/) — accessed 2026-11-25; component identity and representative coordinate table, not interior access or every feature; full claim verification remains outstanding.
+- Supplemental evidence (2026-11-25): https://sad.podkarpackie.travel/en/unesco — Regional wooden architecture route identifies listed building; independent confirmation of ordinary interior visit still pending.
 - Missing or uncertain facts: site-specific access and physical visitor experience; closer same-type peers where appropriate.
 
 #### Worldwide peer comparisons
@@ -2637,6 +2654,7 @@
 - Location check: 49.369194, 22.128944; UNESCO published DMS converted to decimal degrees; original precision retained conceptually, not entrance coordinates.
 - Evidence status: unassessed
 - Evidence: [UNESCO](https://whc.unesco.org/en/list/1424/maps/) — accessed 2026-11-25; component identity and representative coordinate table, not interior access or every feature; full claim verification remains outstanding.
+- Supplemental evidence (2026-11-25): https://sad.podkarpackie.travel/en/unesco — Regional wooden architecture route identifies listed building; independent confirmation of ordinary interior visit still pending.
 - Missing or uncertain facts: site-specific access and physical visitor experience; closer same-type peers where appropriate.
 
 #### Worldwide peer comparisons
