@@ -1,0 +1,17 @@
+id: sight-gd-st-george-historic-district
+name: "St George Historic District"
+location:
+  country_code: GD
+  latitude: 12.05
+  longitude: -61.75
+scores:
+  impact: 8.4
+  uniqueness: 8.7
+  significance: 8.5
+  experience: 8.4
+  depth: 8.0
+  categories:
+    architecture: 9.1
+    history: 9.0
+    culture: 8.9
+    photography: 9.2

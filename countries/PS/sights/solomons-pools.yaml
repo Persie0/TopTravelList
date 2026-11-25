@@ -1,0 +1,15 @@
+id: sight-ps-solomons-pools
+name: "Solomon's Pools"
+location:
+  country_code: PS
+  latitude: 31.689
+  longitude: 35.169
+scores:
+  impact: 8.1
+  uniqueness: 8.4
+  significance: 8.7
+  experience: null
+  depth: null
+  categories:
+    history: 8.9
+    architecture: 8.6

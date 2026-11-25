@@ -1,0 +1,16 @@
+id: city-il-eilat
+name: "Eilat"
+location:
+  country_code: IL
+  latitude: 29.5577
+  longitude: 34.9519
+scores:
+  impact: 7.8
+  uniqueness: 7.7
+  significance: 6.8
+  experience: 8.5
+  depth: 8.0
+  categories:
+    beaches: 8.6
+    relaxation: 8.4
+    food: 7.9

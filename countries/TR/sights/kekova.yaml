@@ -1,0 +1,16 @@
+id: sight-tr-kekova
+name: "Kekova"
+location:
+  country_code: TR
+  latitude: 36.184
+  longitude: 29.867
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 8.2
+  experience: 8.5
+  depth: 8.0
+  categories:
+    nature: 8.9
+    history: 8.6
+    photography: 9.1

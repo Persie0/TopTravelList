@@ -1,0 +1,15 @@
+id: sight-be-canal-du-centre-lifts
+name: "Four historic lifts on the Canal du Centre"
+location:
+  country_code: BE
+  latitude: 50.477
+  longitude: 4.154
+scores:
+  impact: 8.6
+  uniqueness: 9.0
+  significance: 9.1
+  experience: 8.7
+  depth: 8.6
+  categories:
+    history: 9.3
+    architecture: 8.9

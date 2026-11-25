@@ -1,0 +1,16 @@
+id: city-tr-antalya
+name: "Antalya"
+location:
+  country_code: TR
+  latitude: 36.8969
+  longitude: 30.7133
+scores:
+  impact: 8.5
+  uniqueness: 8.2
+  significance: 8.2
+  experience: 8.8
+  depth: 8.6
+  categories:
+    architecture: 8.5
+    beaches: 8.8
+    food: 8.6

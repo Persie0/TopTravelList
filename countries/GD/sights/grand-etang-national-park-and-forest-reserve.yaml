@@ -1,0 +1,17 @@
+id: sight-gd-grand-etang-national-park-and-forest-reserve
+name: "Grand Etang National Park and Forest Reserve"
+location:
+  country_code: GD
+  latitude: 12.095
+  longitude: -61.69
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 8.4
+  experience: 8.8
+  depth: 8.5
+  categories:
+    nature: 9.3
+    wildlife: 8.7
+    adventure: 8.9
+    photography: 8.9

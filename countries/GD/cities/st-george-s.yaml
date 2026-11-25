@@ -1,0 +1,18 @@
+id: city-gd-st-george-s
+name: "St George's"
+location:
+  country_code: GD
+  latitude: 12.0561
+  longitude: -61.7486
+scores:
+  impact: 8.4
+  uniqueness: 8.6
+  significance: 8.6
+  experience: 8.4
+  depth: 8.1
+  categories:
+    architecture: 8.9
+    history: 8.9
+    culture: 8.9
+    food: 8.4
+    photography: 9.2

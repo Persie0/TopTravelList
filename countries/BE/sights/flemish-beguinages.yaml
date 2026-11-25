@@ -1,0 +1,15 @@
+id: sight-be-flemish-beguinages
+name: "Flemish Béguinages (serial property)"
+location:
+  country_code: BE
+  latitude: 51.201
+  longitude: 3.222
+scores:
+  impact: 8.7
+  uniqueness: 9.0
+  significance: 9.1
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.2
+    history: 9.2

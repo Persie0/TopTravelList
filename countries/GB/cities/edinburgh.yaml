@@ -1,0 +1,17 @@
+id: city-gb-edinburgh
+name: "Edinburgh"
+location:
+  country_code: GB
+  latitude: 55.9533
+  longitude: -3.1883
+scores:
+  impact: 9.4
+  uniqueness: 9.3
+  significance: 9.2
+  experience: 9.3
+  depth: 9.1
+  categories:
+    architecture: 9.5
+    history: 9.4
+    culture: 9.3
+    photography: 9.5

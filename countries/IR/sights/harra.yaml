@@ -1,0 +1,15 @@
+id: sight-ir-harra
+name: "Harra Protected Area"
+location:
+  country_code: IR
+  latitude: 26.84
+  longitude: 55.7
+scores:
+  impact: 8.4
+  uniqueness: 8.5
+  significance: 8.7
+  experience: 8.1
+  depth: 7.6
+  categories:
+    nature: 8.9
+    wildlife: 8.8

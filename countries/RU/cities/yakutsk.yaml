@@ -1,0 +1,15 @@
+id: city-ru-yakutsk
+name: "Yakutsk"
+location:
+  country_code: RU
+  latitude: 62.0355
+  longitude: 129.6755
+scores:
+  impact: 7.5
+  uniqueness: 8.5
+  significance: 8.0
+  experience: 7.7
+  depth: 7.6
+  categories:
+    culture: 8.5
+    history: 8.1

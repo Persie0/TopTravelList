@@ -1,0 +1,15 @@
+id: city-ru-yaroslavl
+name: "Yaroslavl"
+location:
+  country_code: RU
+  latitude: 57.6261
+  longitude: 39.8845
+scores:
+  impact: 8.4
+  uniqueness: 8.4
+  significance: 8.6
+  experience: 8.4
+  depth: 8.3
+  categories:
+    architecture: 8.9
+    history: 8.8

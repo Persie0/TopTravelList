@@ -1,0 +1,15 @@
+id: sight-be-belfries
+name: "Belfries of Belgium and France (Belgian series)"
+location:
+  country_code: BE
+  latitude: 51.208
+  longitude: 3.225
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.2
+    history: 9.2

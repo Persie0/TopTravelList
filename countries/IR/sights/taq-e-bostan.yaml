@@ -1,0 +1,15 @@
+id: sight-ir-taq-e-bostan
+name: "Taq-e Bostan"
+location:
+  country_code: IR
+  latitude: 34.387
+  longitude: 47.132
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 9.1
+  experience: null
+  depth: null
+  categories:
+    history: 9.2
+    architecture: 9.1

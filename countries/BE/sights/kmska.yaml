@@ -1,0 +1,15 @@
+id: sight-be-kmska
+name: "Royal Museum of Fine Arts Antwerp"
+location:
+  country_code: BE
+  latitude: 51.208
+  longitude: 4.394
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 9.0
+  depth: 8.9
+  categories:
+    culture: 9.4
+    architecture: 9.0

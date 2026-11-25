@@ -1,0 +1,16 @@
+id: sight-ie-aran-islands
+name: "Aran Islands"
+location:
+  country_code: IE
+  latitude: 53.12
+  longitude: -9.73
+scores:
+  impact: 9.0
+  uniqueness: 9.1
+  significance: 8.8
+  experience: 8.8
+  depth: 9.0
+  categories:
+    nature: 9.2
+    culture: 9.1
+    photography: 9.2
