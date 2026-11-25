@@ -251,3 +251,39 @@
 - Final decision: provisional worldwide town ranking on documented local visitor scope; not full factual verification.
 - Earlier decision: earlier entry for this ID, originally unranked.
 - Verification still needed: Assess settlement and its locally accessible cultural experiences, not whole island, remote mountain sights, or offshore wreck diving. Local village permission and exact settlement boundary need corroboration. All three references are from the same authority, so independent corroboration remains pending.
+
+### city-fm-tofol — Tofol — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/FM/cities/tofol.yaml)
+- Action: rescore
+- Precise subject: Town proper and its local museum only. Lelu ruins, waterfalls and other island excursions excluded; current museum hours and exact town point need confirmation.
+- Location check: Prior representative coordinate retained; corroboration pending.
+- Evidence status: source-linked-unverified
+- Checked factual reference excerpts (2026-11-25):
+  - Kosrae State Historic Preservation Office describes its museum's chronological heritage collections — https://kosraehpo.wordpress.com/museum/
+  - Visitor guide identifies museum within the preservation office in Tofol and need to verify opening — https://www.maploco.com/top-attractions/countries/micronesia/kosrae-state-museum/
+  - Kosrae Department of Education locates public library in Tofol, confirming civic context, not a tourist attraction — https://kosrae.doe.fm/public-library/
+- Missing or uncertain facts: Town proper and its local museum only. Lelu ruins, waterfalls and other island excursions excluded; current museum hours and exact town point need confirmation.
+
+#### Worldwide peer comparisons
+- Kampot (Cambodia): much stronger urban variety
+- Koh Ker Village (Cambodia): more substantial archaeological setting
+- Salzburg (Austria): far greater historic urban fabric
+- Weno (Micronesia): more varied documented local visitor experiences
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | null | 6.2 | Modest administrative settlement and local tropical setting |
+| Uniqueness | null | 6.6 | Distinct Kosraean civic and community setting, with global analogues |
+| Significance | null | 6.8 | State civic role and local historical preservation |
+| Experience | null | 6.4 | Compact museum and local civic setting provide a focused visit subject to opening |
+| Depth | null | 5.8 | Small settlement with limited independently documented visitor venues |
+
+- Applicable category scores: none assessed (unchanged).
+- Computed worldwide overall: 64.10/100
+- High-score challenge: no 9.5+ field or 90+ total.
+- Approved 10 registry: none.
+- Final decision: provisional worldwide assessment based on documented local experiences, not complete factual verification.
+- Earlier decision: earlier entry for this ID, originally unranked.
+- Verification still needed: Town proper and its local museum only. Lelu ruins, waterfalls and other island excursions excluded; current museum hours and exact town point need confirmation.
