@@ -1,0 +1,17 @@
+id: sight-nz-te-wahipounamu
+name: "Te Wāhipounamu – South West New Zealand"
+location:
+  country_code: NZ
+  latitude: -45
+  longitude: 167.5
+scores:
+  impact: 9.5
+  uniqueness: 9.4
+  significance: 9.5
+  experience: 9.2
+  depth: 9.6
+  categories:
+    nature: 9.6
+    adventure: 9.4
+    photography: 9.5
+    wildlife: 9.2

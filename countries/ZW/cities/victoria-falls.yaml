@@ -1,0 +1,15 @@
+id: city-zw-victoria-falls
+name: "Victoria Falls (city)"
+location:
+  country_code: ZW
+  latitude: -17.93495
+  longitude: 25.82528
+scores:
+  impact: 7.7
+  uniqueness: 7.7
+  significance: 7.5
+  experience: 8.4
+  depth: 7.7
+  categories:
+    food: 8.2
+    culture: 7.8

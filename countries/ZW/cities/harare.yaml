@@ -1,0 +1,15 @@
+id: city-zw-harare
+name: "Harare"
+location:
+  country_code: ZW
+  latitude: -17.828
+  longitude: 31.053
+scores:
+  impact: 7.8
+  uniqueness: 8.0
+  significance: 8.3
+  experience: 8.1
+  depth: 8.4
+  categories:
+    culture: 8.6
+    food: 8.2

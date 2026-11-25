@@ -1,0 +1,16 @@
+id: sight-bf-sya-historic-centre
+name: "Sya Historic Centre (Dioulassoba)"
+location:
+  country_code: BF
+  latitude: 11.178
+  longitude: -4.296
+scores:
+  impact: 8.5
+  uniqueness: 8.9
+  significance: 8.7
+  experience: 8.3
+  depth: 8.0
+  categories:
+    architecture: 8.9
+    culture: 9.0
+    history: 8.8

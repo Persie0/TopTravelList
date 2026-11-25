@@ -1,0 +1,15 @@
+id: sight-ci-nambira-mosque
+name: "Nambira Mosque (Namboura Missiri Koro)"
+location:
+  country_code: CI
+  latitude: 10.129042
+  longitude: -5.904264
+scores:
+  impact: null
+  uniqueness: 8.7
+  significance: 8.5
+  experience: null
+  depth: null
+  categories:
+    architecture: 8.8
+    history: 8.5

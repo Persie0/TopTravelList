@@ -1,0 +1,16 @@
+id: sight-zw-gonarezhou-national-park
+name: "Gonarezhou National Park"
+location:
+  country_code: ZW
+  latitude: -21.8052
+  longitude: 31.7195
+scores:
+  impact: 9.2
+  uniqueness: 9.2
+  significance: 9.3
+  experience: 9.0
+  depth: 9.0
+  categories:
+    nature: 9.4
+    wildlife: 9.4
+    photography: 9.3

@@ -1,0 +1,16 @@
+id: city-sn-saint-louis
+name: "Saint-Louis"
+location:
+  country_code: SN
+  latitude: 16.018
+  longitude: -16.49
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 8.9
+  experience: 8.5
+  depth: 8.3
+  categories:
+    history: 9.0
+    architecture: 8.9
+    culture: 8.7

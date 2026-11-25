@@ -1,0 +1,17 @@
+id: city-na-swakopmund
+name: "Swakopmund"
+location:
+  country_code: NA
+  latitude: -22.67842
+  longitude: 14.52663
+scores:
+  impact: 8.4
+  uniqueness: 8.5
+  significance: 8.1
+  experience: 8.8
+  depth: 8.6
+  categories:
+    architecture: 8.8
+    culture: 8.4
+    food: 8.5
+    relaxation: 8.7

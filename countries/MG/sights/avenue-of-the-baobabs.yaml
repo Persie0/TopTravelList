@@ -1,0 +1,15 @@
+id: sight-mg-avenue-of-the-baobabs
+name: "Avenue of the Baobabs"
+location:
+  country_code: MG
+  latitude: -20.25033
+  longitude: 44.41927
+scores:
+  impact: 9.7
+  uniqueness: 9.6
+  significance: 8.6
+  experience: 9.0
+  depth: 7.4
+  categories:
+    nature: 9.3
+    photography: 9.8

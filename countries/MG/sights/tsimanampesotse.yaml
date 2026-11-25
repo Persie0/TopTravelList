@@ -1,0 +1,15 @@
+id: sight-mg-tsimanampesotse
+name: "Tsimanampesotse National Park"
+location:
+  country_code: MG
+  latitude: -24.384919
+  longitude: 43.977331
+scores:
+  impact: 8.9
+  uniqueness: 9.2
+  significance: 9.4
+  experience: 8.5
+  depth: 8.5
+  categories:
+    nature: 9.4
+    wildlife: 9.3

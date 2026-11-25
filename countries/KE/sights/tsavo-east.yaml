@@ -1,0 +1,15 @@
+id: sight-ke-tsavo-east
+name: "Tsavo East National Park"
+location:
+  country_code: KE
+  latitude: -2.78
+  longitude: 38.78
+scores:
+  impact: 9.1
+  uniqueness: 9.1
+  significance: 9.2
+  experience: 9.0
+  depth: 9.3
+  categories:
+    nature: 9.3
+    wildlife: 9.4

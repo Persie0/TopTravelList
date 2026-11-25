@@ -1,0 +1,16 @@
+id: sight-au-bunya-mountains-national-park
+name: "Bunya Mountains National Park"
+location:
+  country_code: AU
+  latitude: -26.8734
+  longitude: 151.6094
+scores:
+  impact: 8.2
+  uniqueness: 8.6
+  significance: 8.5
+  experience: 8.4
+  depth: 8.4
+  categories:
+    nature: 8.8
+    wildlife: 7.9
+    adventure: 8.1

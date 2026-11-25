@@ -1,0 +1,15 @@
+id: city-so-hargeisa
+name: "Hargeisa"
+location:
+  country_code: SO
+  latitude: 9.56
+  longitude: 44.065
+scores:
+  impact: 7.1
+  uniqueness: 7.7
+  significance: 7.9
+  experience: 7.5
+  depth: 7.2
+  categories:
+    culture: 8.3
+    history: 8.1

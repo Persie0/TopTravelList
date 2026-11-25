@@ -1,0 +1,15 @@
+id: city-pg-madang
+name: "Madang"
+location:
+  country_code: PG
+  latitude: -5.22152
+  longitude: 145.78695
+scores:
+  impact: 7.5
+  uniqueness: 7.5
+  significance: 7.0
+  experience: 7.6
+  depth: 7.1
+  categories:
+    culture: 7.6
+    photography: 7.8

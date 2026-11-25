@@ -1,0 +1,16 @@
+id: city-bf-ouagadougou
+name: "Ouagadougou"
+location:
+  country_code: BF
+  latitude: 12.36566
+  longitude: -1.53388
+scores:
+  impact: 7.2
+  uniqueness: 7.6
+  significance: 8.0
+  experience: 7.8
+  depth: 8.0
+  categories:
+    culture: 8.5
+    history: 7.9
+    food: 7.6
