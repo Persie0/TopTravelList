@@ -1,0 +1,16 @@
+id: sight-us-arches-national-park
+name: "Arches National Park"
+location:
+  country_code: US
+  latitude: 38.73
+  longitude: -109.59
+scores:
+  impact: 9.3
+  uniqueness: 9.4
+  significance: 8.7
+  experience: 9.0
+  depth: 8.8
+  categories:
+    nature: 9.4
+    photography: 9.4
+    adventure: 9.0

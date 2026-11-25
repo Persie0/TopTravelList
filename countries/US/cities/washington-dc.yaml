@@ -1,0 +1,16 @@
+id: city-us-washington-dc
+name: "Washington, D.C."
+location:
+  country_code: US
+  latitude: 38.9072
+  longitude: -77.0369
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 9.3
+  experience: 8.9
+  depth: 9.2
+  categories:
+    history: 9.4
+    culture: 9.2
+    architecture: 9.1

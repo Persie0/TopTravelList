@@ -1,0 +1,15 @@
+id: sight-us-redwood-parks
+name: "Redwood National and State Parks"
+location:
+  country_code: US
+  latitude: 41.30
+  longitude: -124.05
+scores:
+  impact: 9.1
+  uniqueness: 9.3
+  significance: 9.2
+  experience: 9.0
+  depth: 8.9
+  categories:
+    nature: 9.4
+    photography: 9.3
