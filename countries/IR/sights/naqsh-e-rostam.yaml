@@ -1,0 +1,15 @@
+id: sight-ir-naqsh-e-rostam
+name: "Naqsh-e Rostam and Naqsh-e Rajab"
+location:
+  country_code: IR
+  latitude: 29.989
+  longitude: 52.874
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 9.3
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.2
+    history: 9.4

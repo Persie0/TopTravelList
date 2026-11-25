@@ -1,0 +1,15 @@
+id: sight-ir-bam
+name: "Bam and its Cultural Landscape"
+location:
+  country_code: IR
+  latitude: 29.117
+  longitude: 58.368
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.2
+    history: 9.2
