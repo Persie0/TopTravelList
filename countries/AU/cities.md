@@ -13,7 +13,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 ## Complete ranked list (12)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
-| ---: | --- | --- | ---: | --- | --- | --- | --- | --- |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
 | 1 | [Sydney](cities/sydney.yaml) | City / town | **89.70** | **Photography 9.3**, **Architecture 9.0**, **Food 9.0**, Nature 9.0, Culture 8.8 | 9.2 / 8.8 / 8.6 / 9.2 / 9.1 | [-33.86785, 151.20732](https://www.google.com/maps/search/?api=1&query=-33.86785,151.20732) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sydney%2C%20Australia) |
 | 2 | [Melbourne](cities/melbourne.yaml) | City / town | **86.70** | **Food 9.3**, **Culture 9.2**, **Nightlife 8.9**, Architecture 8.7 | 8.4 / 8.6 / 8.5 / 9.2 / 9.2 | [-37.814, 144.96332](https://www.google.com/maps/search/?api=1&query=-37.814,144.96332) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Melbourne%2C%20Australia) |
 | 3 | [Hobart](cities/hobart.yaml) | City / town | **83.05** | **Culture 8.6**, **History 8.6**, **Nature 8.5**, Food 8.4 | 8.3 / 8.4 / 8.2 / 8.5 / 8.0 | [-42.87936, 147.32941](https://www.google.com/maps/search/?api=1&query=-42.87936,147.32941) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hobart%2C%20Australia) |

@@ -13,7 +13,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 ## Complete ranked list (36)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
-| ---: | --- | --- | ---: | --- | --- | --- | --- | --- |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
 | 1 | [Great Barrier Reef](sights/great-barrier-reef.yaml) | Attraction | **96.80** | **Nature 9.8**, **Wildlife 9.8**, **Adventure 9.5**, Photography 9.5 | 9.7 / 9.8 / 9.7 / 9.4 / 9.7 | [-18.2861, 147.7](https://www.google.com/maps/search/?api=1&query=-18.2861,147.7) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Great%20Barrier%20Reef%2C%20Australia) |
 | 2 | [Uluṟu-Kata Tjuṯa National Park](sights/uluru-kata-tjuta-national-park.yaml) | Park / reserve | **94.00** | **Photography 9.6**, **Culture 9.5**, **Nature 9.5** | 9.6 / 9.5 / 9.5 / 9.1 / 8.8 | [-25.3444, 131.0369](https://www.google.com/maps/search/?api=1&query=-25.3444,131.0369) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ulu%E1%B9%9Fu-Kata%20Tju%E1%B9%AFa%20National%20Park%2C%20Australia) |
 | 3 | [Kakadu National Park](sights/kakadu-national-park.yaml) | Park / reserve | **93.30** | **Culture 9.5**, **History 9.5**, **Nature 9.4**, Wildlife 9.3 | 9.3 / 9.4 / 9.5 / 9.0 / 9.4 | [-13, 132.5](https://www.google.com/maps/search/?api=1&query=-13,132.5) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kakadu%20National%20Park%2C%20Australia) |
@@ -56,7 +56,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 These destinations have no rank until all five core scores are assessed.
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
-| ---: | --- | --- | ---: | --- | --- | --- | --- | --- |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
 | — | [Cultural Landscapes of Cape York Peninsula](sights/cape-york-cultural-landscapes.yaml) | Coast | **—** | — | 8.8 / 9.1 / 9.3 / — / — | [-15, 143.5](https://www.google.com/maps/search/?api=1&query=-15,143.5) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cultural%20Landscapes%20of%20Cape%20York%20Peninsula%2C%20Australia) |
 | — | [Gondwana Rainforests of Australia (proposed extension)](sights/gondwana-rainforests-extension.yaml) | Forest | **—** | — | 8.5 / 8.8 / 9.1 / — / — | [-30.070833, 152.302222](https://www.google.com/maps/search/?api=1&query=-30.070833,152.302222) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Gondwana%20Rainforests%20of%20Australia%20%28proposed%20extension%29%2C%20Australia) |
 | — | [Heard and McDonald Islands](sights/heard-mcdonald-islands.yaml) | Island | **—** | **Nature 9.2**, **Wildlife 9.1** | 8.9 / 9.3 / 9.2 / — / — | [-53.1, 73.5](https://www.google.com/maps/search/?api=1&query=-53.1,73.5) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Heard%20and%20McDonald%20Islands%2C%20Australia) |
