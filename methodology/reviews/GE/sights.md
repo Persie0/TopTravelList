@@ -8,7 +8,7 @@
 - YAML: [source](../../../countries/GE/sights/upper-svaneti.yaml)
 - Action: new
 - Precise subject: Upper Svaneti (Chazhashi heritage property); Small inscribed property limits breadth.
-- Location check: 42.914, 43.009; Inscription describes Chazhashi tower houses; UNESCO coordinate.
+- Location check: 42.914, 43.009; published property point, UNESCO DMS conversion, not entrance.
 - Evidence status: **source-linked-unverified**.
 - Source evidence: https://whc.unesco.org/en/list/709/ — UNESCO World Heritage Centre / state-party nomination, consulted 2026-11-25; Inscription describes Chazhashi tower houses; UNESCO coordinate. Source is not complete evidence of scores or present access.
 - Missing facts: GPS accuracy, ordinary permitted interior/route access and current interpretation require independent checks; scores provisional.
@@ -34,13 +34,14 @@
 - Approved 10 registry: none.
 - Final decision: Exterior village exploration, not the entire Svaneti region; Small inscribed property limits breadth. Retain provisional worldwide editorial rating.
 - Verification still needed: independently confirm location and all material scope/visitor claims.
+- Coordinate follow-up: https://whc.unesco.org/en/list/709/maps/ (published property point); representative property point only.
 
 ## sight-ge-historical-monuments-of-mtskheta — Historical Monuments of Mtskheta — 2026-11-25
 
 - YAML: [source](../../../countries/GE/sights/historical-monuments-of-mtskheta.yaml)
 - Action: new
 - Precise subject: Historical Monuments of Mtskheta; Three principal components rather than an entire ancient city.
-- Location check: 41.842, 44.72; approximate editorial point; independent coordinate verification outstanding.
+- Location check: 41.842833, 44.720944; Svetitskhoveli representative component, UNESCO DMS conversion, not entrance.
 - Evidence status: **source-linked-unverified**.
 - Source evidence: https://whc.unesco.org/en/list/708 — UNESCO World Heritage Centre / state-party nomination, consulted 2026-11-25; Inscribed religious ensemble and ancient capital history. Source is not complete evidence of scores or present access.
 - Missing facts: GPS accuracy, ordinary permitted interior/route access and current interpretation require independent checks; scores provisional.
@@ -66,13 +67,14 @@
 - Approved 10 registry: none.
 - Final decision: Multiple separately meaningful religious sites; Three principal components rather than an entire ancient city. Retain provisional worldwide editorial rating.
 - Verification still needed: independently confirm location and all material scope/visitor claims.
+- Coordinate follow-up: https://whc.unesco.org/en/list/708/maps/ (Svetitskhoveli representative component); representative property point only.
 
 ## sight-ge-gelati-monastery — Gelati Monastery — 2026-11-25
 
 - YAML: [source](../../../countries/GE/sights/gelati-monastery.yaml)
 - Action: new
 - Precise subject: Gelati Monastery; Several churches and academy but smaller than major complexes.
-- Location check: 42.294722, 42.768333; 1106 foundation, mosaics, academy and coordinates.
+- Location check: 42.294722, 42.768333; published property point, UNESCO DMS conversion, not entrance.
 - Evidence status: **source-linked-unverified**.
 - Source evidence: https://whc.unesco.org/en/list/710/ — UNESCO World Heritage Centre / state-party nomination, consulted 2026-11-25; 1106 foundation, mosaics, academy and coordinates. Source is not complete evidence of scores or present access.
 - Missing facts: GPS accuracy, ordinary permitted interior/route access and current interpretation require independent checks; scores provisional.
@@ -98,13 +100,15 @@
 - Approved 10 registry: none.
 - Final decision: Meaningful precinct, conservation may limit interior access; Several churches and academy but smaller than major complexes. Retain provisional worldwide editorial rating.
 - Verification still needed: independently confirm location and all material scope/visitor claims.
+- Follow-up: https://1tv.ge/lang/en/news/gelati-cathedrals-condition-is-stable-following-joint-conservation-efforts-says-culture-minister-maia-bitadze/ (November 5) confirms ongoing conservation; https://orbitrip.ge/guide/gelati-monastery-guide reports restricted main cathedral access in November. Retain intrinsic rating; do not promise mosaics or cathedral entry. https://whc.unesco.org/en/decisions/8830 documents conservation requirements.
+- Coordinate follow-up: https://whc.unesco.org/en/list/710/maps/ (published property point); representative property point only.
 
 ## sight-ge-colchic-rainforests-and-wetlands — Colchic Rainforests and Wetlands — 2026-11-25
 
 - YAML: [source](../../../countries/GE/sights/colchic-rainforests-and-wetlands.yaml)
 - Action: new
 - Precise subject: Colchic Rainforests and Wetlands; Multiple components and ecosystem types.
-- Location check: 41.702278, 41.9512; approximate editorial point; independent coordinate verification outstanding.
+- Location check: 41.702278, 41.9512; Kintrishi-Mtirala representative component, UNESCO DMS conversion, not entrance.
 - Evidence status: **source-linked-unverified**.
 - Source evidence: https://whc.unesco.org/en/list/1616/ — UNESCO World Heritage Centre / state-party nomination, consulted 2026-11-25; Inscribed serial natural property; Kintrishi-Mtirala representative point from https://whc.unesco.org/en/list/1616/maps/. Source is not complete evidence of scores or present access.
 - Missing facts: GPS accuracy, ordinary permitted interior/route access and current interpretation require independent checks; scores provisional.
@@ -130,6 +134,7 @@
 - Approved 10 registry: none.
 - Final decision: Dispersed designated paths and wetlands rather than unrestricted access; Multiple components and ecosystem types. Retain provisional worldwide editorial rating.
 - Verification still needed: independently confirm location and all material scope/visitor claims.
+- Coordinate follow-up: https://whc.unesco.org/en/list/1616/maps/ (Kintrishi-Mtirala representative component); representative property point only.
 
 ## sight-ge-vardzia-khertvisi — Vardzia-Khertvisi Cultural Landscape — 2026-11-25
 
@@ -162,6 +167,7 @@
 - Approved 10 registry: none.
 - Final decision: Several distinct sites can be explored; Wider ensemble has greater breadth than Vardzia alone. Retain provisional worldwide editorial rating.
 - Verification still needed: independently confirm location and all material scope/visitor claims.
+- Follow-up: https://thegeorgianguide.com/destinations/vardzia-cave-city-guide/ documents current partial access at Vardzia. Keep intrinsic cultural-landscape score separate from temporary closure; no claim of full circuit availability.
 
 ## sight-ge-vardzia — Vardzia Cave Monastery — 2026-11-25
 
@@ -174,10 +180,10 @@
 - Missing facts: GPS accuracy, ordinary permitted interior/route access and current interpretation require independent checks; scores provisional.
 
 ### Worldwide peers
-- Angkor Archaeological Park (Cambodia): global archaeological ensemble; sets the upper comparison; Royal Georgian medieval religious history.
-- Terracotta Army (China): exceptional archaeological significance; compare visual character: Tiered cliff chambers have major visual impact.
-- Ayutthaya Historical Park (Thailand): walkable historic remains; compare distinctiveness: Large coherent medieval rock-cut monastic ensemble.
-- Carnuntum Archaeological Park (Austria): regional archaeological interpretation; compare actual visit and scope: Passages, stairs and chapels form an absorbing visit; Numerous spaces but excludes separate Khertvisi fortress.
+- [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml): live profile 10.0 / 10.0 / 10.0 / 9.8 / 10.0 (99.70/100); world-leading landscape, much greater significance and breadth.
+- [Geghard Monastery and Upper Azat Valley (AM)](../../../countries/AM/sights/geghard-monastery-and-upper-azat-valley.yaml): live profile 9.3 / 9.5 / 9.4 / 9.2 / 8.7 (92.95/100); rock-cut monastic landscape, equal impact and depth but stronger uniqueness and significance.
+- [Dambulla Cave Temple (LK)](../../../countries/LK/sights/dambulla-cave-temple.yaml): live profile 9.2 / 9.5 / 9.5 / 9.1 / 8.8 (92.80/100); decorated cave shrine ensemble, slightly lower visual impact but greater historical significance.
+- [Carnuntum Archaeological Park (AT)](../../../countries/AT/sights/carnuntum-archaeological-park.yaml): live profile 8.7 / 8.9 / 9.0 / 8.8 / 8.4 (87.95/100); regional archaeology reference, lower impact and depth.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -190,10 +196,11 @@
 
 - Applicable categories: architecture 9.2, history 9.0, photography 9.3.
 - Overall: 90.90/100.
-- High-score challenge: The combined result reaches 90 through Tiered cliff chambers have major visual impact and Large coherent medieval rock-cut monastic ensemble; below Angkor Archaeological Park in scale and numerous spaces but excludes separate khertvisi fortress. No field reaches 9.5.
+- High-score challenge: 90.90 reflects cliff-scale visual impact and rare coherent rock-cut monastery; Geghard has equal impact and depth, higher uniqueness and significance. Dambulla has stronger historical significance. No 9.5+ field.
 - Approved 10 registry: none.
 - Final decision: Passages, stairs and chapels form an absorbing visit; Numerous spaces but excludes separate Khertvisi fortress. Retain provisional worldwide editorial rating.
 - Verification still needed: independently confirm location and all material scope/visitor claims.
+- Follow-up 2026-11-25: https://thegeorgianguide.com/destinations/vardzia-cave-city-guide/ and https://www.geotour.ge/blog/vardzia-2026-whats-open report a shortened visitor route after the 2026 rockfall, with the church still on the route. Intrinsic rating unchanged under the guide's temporary-closure rule; no claim of current full access. Four live comparisons inspected.
 
 ## sight-ge-uplistsikhe — Uplistsikhe Cave Town — 2026-11-25
 
@@ -258,6 +265,7 @@
 - Approved 10 registry: none.
 - Final decision: Permitted scope near border not established; Accessible extent of complex not established. Keep unranked pending specific access evidence.
 - Verification still needed: independently confirm location and all material scope/visitor claims.
+- Follow-up: https://www.geotour.ge/blog/david-gareja-monastery-guide and https://wander-lush.org/david-gareja-monastery-georgia/ document the Lavra visitor experience and uncertain/restricted Udabno ridge access. This record is the broader tentative monastery landscape, not just Lavra; keep null visitor fields. Consider a separately scoped Lavra entry after specialist review.
 
 ## sight-ge-dmanisi — Dmanisi Hominid Archaeological Site — 2026-11-25
 
@@ -455,17 +463,17 @@
 
 - YAML: [source](../../../countries/GE/sights/kvetera-church.yaml)
 - Action: new
-- Precise subject: Kvetera Church; Interior and fortress scope not confirmed.
+- Precise subject: Kvetera Church; Church exterior and immediate publicly visitable precinct; exclude the full fortress.
 - Location check: 42.033333, 45.1; Tentative church and coarse nomination coordinates.
-- Evidence status: **unassessed**.
+- Evidence status: **source-linked-unverified**.
 - Source evidence: https://whc.unesco.org/en/tentativelists/5227/ — UNESCO World Heritage Centre / state-party nomination, consulted 2026-11-25; Tentative church and coarse nomination coordinates. Source is not complete evidence of scores or present access.
-- Missing facts: GPS accuracy, ordinary permitted interior/route access and current interpretation require independent checks; insufficient experience/depth evidence.
+- Missing facts: GPS accuracy, ordinary permitted interior/route access and current interpretation require independent checks; interior access remains unconfirmed.
 
 ### Worldwide peers
-- Angkor Wat (Cambodia): global architectural and religious benchmark; sets the upper comparison; Regional architectural development.
-- Melk Abbey (Austria): monastic architectural and visitor depth; compare visual character: Small cross-domed stone church.
-- Bulguksa Temple (South Korea): historic religious architecture; compare distinctiveness: Distinct compact medieval Georgian form.
-- St Stephen's Cathedral (Austria): single cathedral rather than a whole historic landscape; compare actual visit and scope: Normal public visit not established; Interior and fortress scope not confirmed.
+- [Melk Abbey (AT)](../../../countries/AT/sights/melk-abbey.yaml): live profile 9.0 / 9.2 / 9.3 / 9.2 / 8.7 (91.10/100); upper monastic breadth and architecture reference.
+- [St. Stephen's Cathedral (AT)](../../../countries/AT/sights/st-stephens-cathedral.yaml): live profile 9.1 / 9.2 / 9.3 / 9.1 / 8.8 (91.35/100); single church comparison, much larger and richer visitor circuit.
+- [Khor Virap Monastery (AM)](../../../countries/AM/sights/khor-virap-monastery.yaml): live profile 8.9 / 8.8 / 9.1 / 8.7 / 7.0 (86.95/100); bounded sacred site; higher landscape and religious significance.
+- [Bulguksa Temple (KR)](../../../countries/KR/sights/bulguksa-temple.yaml): live profile 9.2 / 9.4 / 9.6 / 9.3 / 8.9 (93.15/100); historic religious architecture, far greater breadth.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -473,15 +481,16 @@
 | Impact | 7.4 | Small cross-domed stone church |
 | Uniqueness | 8.0 | Distinct compact medieval Georgian form |
 | Significance | 8.0 | Regional architectural development |
-| Experience | null | Normal public visit not established |
-| Depth | null | Interior and fortress scope not confirmed |
+| Experience | 7.4 | Documented ordinary exterior visit to the compact church, dependent on daylight and access track conditions |
+| Depth | 6.5 | Focused small church and immediate precinct, not the entire fortified settlement |
 
 - Applicable categories: architecture 8.5, history 8.1.
-- Overall: unranked.
+- Overall: 75.80/100.
 - High-score challenge: Not applicable; no 9.5+ field or 90+ total.
 - Approved 10 registry: none.
-- Final decision: Normal public visit not established; Interior and fortress scope not confirmed. Keep unranked pending specific access evidence.
+- Final decision: rank the documented small-church exterior experience provisionally; exclude unverified interior access and wider fortress scope.
 - Verification still needed: independently confirm location and all material scope/visitor claims.
+- Follow-up 2026-11-25: https://georgia.travel/kvetera-fortress confirms the domed church and separate fortified-city structures; https://gtour.ge/sights/kvetera-fortress-church/ (updated October 29, 2026) describes an ordinary unstaffed exterior visit. Do not infer opening of the church interior. Four live peer profiles inspected; ordinary lower-end reference still needs refinement. No independent full fact-check claimed.
 
 ## sight-ge-nikortsminda-cathedral — Nikortsminda Cathedral — 2026-11-25
 
@@ -738,6 +747,7 @@
 - Approved 10 registry: none.
 - Final decision: Managed walking route offers varied formations; Limited to visitor circuit, not whole cave system. Retain provisional worldwide editorial rating.
 - Verification still needed: independently confirm location and all material scope/visitor claims.
+- Follow-up: https://www.apa.gov.ge/en/eco-tourism/servisebi-da-tarifebi/Prometheuscave confirms six public halls on the managed walking circuit. Ordinary route score retained; no credit for the full cave system or guaranteed boat operation.
 
 ## sight-ge-martvili-canyon — Martvili Canyon — 2026-11-25
 
@@ -872,7 +882,7 @@
 - YAML: [source](../../../countries/GE/sights/jvari-monastery.yaml)
 - Action: new
 - Precise subject: Jvari Monastery; Single monument, not all Mtskheta.
-- Location check: 41.83865, 44.733; approximate editorial point; independent coordinate verification outstanding.
+- Location check: 41.838647, 44.733769; Jvari component, UNESCO DMS conversion, not entrance.
 - Evidence status: **source-linked-unverified**.
 - Source evidence: https://georgia.travel/historical-monuments-of-mtskheta — Georgia Travel, consulted 2026-11-25; Named Jvari component of Mtskheta ensemble. Source is not complete evidence of scores or present access.
 - Missing facts: GPS accuracy, ordinary permitted interior/route access and current interpretation require independent checks; scores provisional.
@@ -898,13 +908,14 @@
 - Approved 10 registry: none.
 - Final decision: Church and panorama provide concentrated visit; Single monument, not all Mtskheta. Retain provisional worldwide editorial rating.
 - Verification still needed: independently confirm location and all material scope/visitor claims.
+- Coordinate follow-up: https://whc.unesco.org/en/list/708/maps/ (Jvari component); representative property point only.
 
 ## sight-ge-svetitskhoveli-cathedral — Svetitskhoveli Cathedral — 2026-11-25
 
 - YAML: [source](../../../countries/GE/sights/svetitskhoveli-cathedral.yaml)
 - Action: new
 - Precise subject: Svetitskhoveli Cathedral; Single cathedral complex, not entire UNESCO ensemble.
-- Location check: 41.842, 44.721; approximate editorial point; independent coordinate verification outstanding.
+- Location check: 41.842833, 44.720944; Svetitskhoveli component, UNESCO DMS conversion, not entrance.
 - Evidence status: **source-linked-unverified**.
 - Source evidence: https://georgia.travel/historical-monuments-of-mtskheta — Georgia Travel, consulted 2026-11-25; Named principal cathedral in Mtskheta. Source is not complete evidence of scores or present access.
 - Missing facts: GPS accuracy, ordinary permitted interior/route access and current interpretation require independent checks; scores provisional.
@@ -930,6 +941,7 @@
 - Approved 10 registry: none.
 - Final decision: Interior and precinct provide substantive visit; Single cathedral complex, not entire UNESCO ensemble. Retain provisional worldwide editorial rating.
 - Verification still needed: independently confirm location and all material scope/visitor claims.
+- Coordinate follow-up: https://whc.unesco.org/en/list/708/maps/ (Svetitskhoveli component); representative property point only.
 
 ## sight-ge-bagrati-cathedral — Bagrati Cathedral — 2026-11-25
 
@@ -1128,7 +1140,7 @@
 - YAML: [source](../../../countries/GE/sights/samtavro-monastery.yaml)
 - Action: new
 - Precise subject: Samtavro Monastery; Smaller precinct, not the whole Mtskheta group.
-- Location check: 41.847, 44.719; approximate editorial point; independent coordinate verification outstanding.
+- Location check: 41.846408, 44.718458; Samtavro component, UNESCO DMS conversion, not entrance.
 - Evidence status: **source-linked-unverified**.
 - Source evidence: https://georgia.travel/popular-trips/one-day-tour-in-mtskheta — Georgia Travel, consulted 2026-11-25; Named Samtavro monastery in Mtskheta. Source is not complete evidence of scores or present access.
 - Missing facts: GPS accuracy, ordinary permitted interior/route access and current interpretation require independent checks; scores provisional.
@@ -1154,6 +1166,7 @@
 - Approved 10 registry: none.
 - Final decision: Focused respectful church visit; Smaller precinct, not the whole Mtskheta group. Retain provisional worldwide editorial rating.
 - Verification still needed: independently confirm location and all material scope/visitor claims.
+- Coordinate follow-up: https://whc.unesco.org/en/list/708/maps/ (Samtavro component); representative property point only.
 
 ## sight-ge-national-botanical-garden-tbilisi — National Botanical Garden of Georgia — 2026-11-25
 

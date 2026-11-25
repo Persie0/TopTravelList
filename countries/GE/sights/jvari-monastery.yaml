@@ -2,8 +2,8 @@ id: sight-ge-jvari-monastery
 name: "Jvari Monastery"
 location:
   country_code: GE
-  latitude: 41.83865
-  longitude: 44.733
+  latitude: 41.838647
+  longitude: 44.733769
 scores:
   impact: 8.7
   uniqueness: 8.5

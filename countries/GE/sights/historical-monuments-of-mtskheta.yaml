@@ -2,8 +2,8 @@ id: sight-ge-historical-monuments-of-mtskheta
 name: "Historical Monuments of Mtskheta"
 location:
   country_code: GE
-  latitude: 41.842
-  longitude: 44.72
+  latitude: 41.842833
+  longitude: 44.720944
 scores:
   impact: 8.7
   uniqueness: 8.8

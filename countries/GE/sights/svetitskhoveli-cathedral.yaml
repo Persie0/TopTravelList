@@ -2,8 +2,8 @@ id: sight-ge-svetitskhoveli-cathedral
 name: "Svetitskhoveli Cathedral"
 location:
   country_code: GE
-  latitude: 41.842
-  longitude: 44.721
+  latitude: 41.842833
+  longitude: 44.720944
 scores:
   impact: 8.7
   uniqueness: 8.7
