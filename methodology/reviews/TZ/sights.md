@@ -21,6 +21,14 @@
 - [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml): 8.9/9.0/9.0/9.1/8.6; managed wildlife viewing.
 - [Sehlabathebe (LS)](../../../countries/LS/sights/sehlabathebe-national-park.yaml): 9.1/9.0/9.3/8.6/8.8; regional landscape.
 
+#### Additional worldwide peer calibration (2026-11-26)
+- [okavango-delta (BW)](../../../countries/BW/sights/okavango-delta.yaml): 9.8/9.9/9.8/9.5/9.8; similarly world-leading wildlife ecosystem; more water-based variety.
+- [kaziranga-national-park (IN)](../../../countries/IN/sights/kaziranga-national-park.yaml): 9.7/9.7/9.8/9.7/9.3; exceptional rhino conservation; less migratory and habitat breadth.
+- [etosha-national-park (NA)](../../../countries/NA/sights/etosha-national-park.yaml): 9.5/9.5/9.4/9.4/9.3; excellent salt-pan safari, below migration scale.
+- [chobe-national-park (BW)](../../../countries/BW/sights/chobe-national-park.yaml): 9.5/9.4/9.3/9.4/9.3; excellent river and elephant safari, below migration scale.
+
+Retain 97.90 after tighter safari comparison; UNESCO https://whc.unesco.org/en/list/156/ supports exceptional migration and habitat. No guaranteed seasonal viewing.
+
 ### Scoring decisions
 - Impact: 9.9 — Exceptional open plains and wildlife concentrations.
 - Uniqueness: 9.8 — Rare large-scale migratory ecosystem.
@@ -84,6 +92,14 @@
 - [Grossglockner (AT)](../../../countries/AT/sights/grossglockner-high-alpine-road.yaml): 9.2/9.1/8.9/9.5/8.9; developed alpine visitor circuit, different activity.
 - [Sehlabathebe (LS)](../../../countries/LS/sights/sehlabathebe-national-park.yaml): 9.1/9.0/9.3/8.6/8.8; regional highland landscape.
 - [Volcanoes National Park (RW)](../../../countries/RW/sights/volcanoes-national-park.yaml): 9.6/9.7/9.4/9.4/9.1; montane volcanic landscapes, different visitor focus.
+
+#### Additional worldwide peer calibration (2026-11-26)
+- [sagarmatha-national-park (NP)](../../../countries/NP/sights/sagarmatha-national-park.yaml): 9.9/9.9/9.8/9.6/9.7; larger Himalayan mountain and trek network.
+- [khangchendzonga-national-park (IN)](../../../countries/IN/sights/khangchendzonga-national-park.yaml): 9.8/9.8/9.8/8.7/9.7; greater alpine scale and heritage, more restricted ordinary access.
+- [rwenzori-mountains-national-park (UG)](../../../countries/UG/sights/rwenzori-mountains-national-park.yaml): 9.4/9.5/9.4/9.1/9.3; comparable equatorial alpine ecology, lower summit scale.
+- [sehlabathebe-national-park (LS)](../../../countries/LS/sights/sehlabathebe-national-park.yaml): 9.1/9.0/9.3/8.6/8.8; regional protected mountain landscape.
+
+Retain 95.50: summit trek adventure matches Sagarmatha 9.8; lower impact, uniqueness, significance and depth reflect narrower mountain landscape.
 
 ### Scoring decisions
 - Impact: 9.7 — Iconic high mountain and vegetation transitions.
@@ -690,5 +706,160 @@
 
 ## Inventory coverage and backlog
 
-[UNESCO inventory](https://whc.unesco.org/en/statesparties/tz/) lists seven inscribed and seven tentative properties, all represented at property/group level. Kilwa and Songo Mnara separate. Musoma rock-art group omitted from YAML because its nomination duplicates the Kenyan Mfagano coordinate; resolve with site-specific sources. Individual rock shelters, Eastern Arc forest blocks, six trade-route centres, Tendaguru coordinate reconciliation, Zanzibar beaches and reefs, Olduvai Gorge as a standalone visitor site, Lake Manyara, Katavi, Mikumi and additional towns remain backlog. No exhaustive inventory or complete component coverage claimed.
+[UNESCO inventory](https://whc.unesco.org/en/statesparties/tz/) lists seven inscribed and seven tentative properties, all represented at property/group level. Kilwa and Songo Mnara separate. Musoma rock-art group now added using the specific Nyakingi shelter point corroborated by archaeological research; remains unassessed pending visitor evidence. Individual rock shelters, Eastern Arc forest blocks, six trade-route centres, Tendaguru coordinate reconciliation, Zanzibar beaches and reefs, Katavi, Mikumi and additional towns remain backlog. Olduvai Gorge, Lake Manyara, Arusha National Park and Mafia Island Marine Park now separately reviewed. No exhaustive inventory or complete component coverage claimed.
 
+
+
+## sight-tz-lake-manyara-national-park — Lake Manyara National Park — 2026-11-26
+
+- YAML: [source](../../../countries/TZ/sights/lake-manyara-national-park.yaml)
+- Action: new
+- Precise subject: Park visitor routes, groundwater forest, rift escarpment and lakeshore; not entire biosphere reserve.
+- Location check: -3.5395, 35.7818; published representative point, not admission or navigational point.
+- Evidence status: source-linked-unverified
+- Sources (2026-11-26): TANAPA https://www.tanzaniaparks.go.tz/nationalparks/lake-manyara (official indexed description, direct page opened); UNESCO MAB https://www.unesco.org/en/mab/lake-manyara (indexed excerpt) confirms rift ecosystem and conservation; https://www.keybiodiversityareas.org/en/site/factsheet/6967 (indexed excerpt) describes broader KBA; Mapcarta https://mapcarta.com/Lake_Manyara_National_Park (opened, mapped park point).
+- Missing facts: current conditions, independent claim-level verification.
+
+### Worldwide peer comparisons
+- [chobe-national-park (BW)](../../../countries/BW/sights/chobe-national-park.yaml): 9.5/9.4/9.3/9.4/9.3; larger wildlife and river safari scope.
+- [etosha-national-park (NA)](../../../countries/NA/sights/etosha-national-park.yaml): 9.5/9.5/9.4/9.4/9.3; greater salt-pan and waterhole safari scope.
+- [queen-elizabeth-national-park (UG)](../../../countries/UG/sights/queen-elizabeth-national-park.yaml): 9.2/9.2/9.3/9.2/9.3; more varied safari and boat routes.
+- [ranthambore-national-park (IN)](../../../countries/IN/sights/ranthambore-national-park.yaml): 9.4/9.3/9.2/9.4/9.1; stronger iconic wildlife and fort landscape.
+
+### Scoring decisions
+- Impact: 8.9 — Scenic rift escarpment and lakeshore.
+- Uniqueness: 9 — Distinct forest-lake safari, not unique globally.
+- Significance: 9.1 — Important ecosystem and biodiversity, below Etosha/Chobe global significance.
+- Experience: 8.8 — Established safari routes, variable water and wildlife conditions.
+- Depth: 8.6 — Several habitats but smaller circuit than major safari parks.
+- Applicable categories: nature 9.2, wildlife 9.2, photography 9.
+- Overall: 89.20/100.
+- High-score challenge: No 9.5+ or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide V2 editorial rating.
+- Earlier decision: none.
+- Verification still needed: current access, precise representative points, independent claim-level corroboration.
+
+
+## sight-tz-arusha-national-park — Arusha National Park — 2026-11-26
+
+- YAML: [source](../../../countries/TZ/sights/arusha-national-park.yaml)
+- Action: new
+- Precise subject: Park with Mount Meru, crater/lake and permitted wildlife routes; excludes Arusha city and Kilimanjaro.
+- Location check: -3.258, 36.797; published representative point, not admission or navigational point.
+- Evidence status: source-linked-unverified
+- Sources (2026-11-26): TANAPA https://www.tanzaniaparks.go.tz/nationalparks/arusha (official indexed description, direct page opened) describes walking, canoeing and game drives; KBA https://www.keybiodiversityareas.org/en/site/factsheet/6964 (indexed excerpt) gives park central point and mountain extent; Mapcarta https://mapcarta.com/Arusha_National_Park (opened, alternate approximate park point).
+- Missing facts: current conditions, independent claim-level verification.
+
+### Worldwide peer comparisons
+- [mount-elgon-national-park (UG)](../../../countries/UG/sights/mount-elgon-national-park.yaml): 8.9/9.0/9.2/8.8/8.9; comparable volcano hikes; no comparable safari breadth.
+- [doi-inthanon-national-park (TH)](../../../countries/TH/sights/doi-inthanon-national-park.yaml): 9.0/9.0/8.8/9.2/9.4; more developed mountain exploration.
+- [sehlabathebe-national-park (LS)](../../../countries/LS/sights/sehlabathebe-national-park.yaml): 9.1/9.0/9.3/8.6/8.8; greater protected highland heritage significance.
+- [chobe-national-park (BW)](../../../countries/BW/sights/chobe-national-park.yaml): 9.5/9.4/9.3/9.4/9.3; larger safari breadth, different landscape.
+
+### Scoring decisions
+- Impact: 8.9 — Strong volcanic scenery and varied habitats.
+- Uniqueness: 8.9 — Distinct mountain and safari combination.
+- Significance: 8.8 — Regional ecological importance, below Elgon and Sehlabathebe heritage importance.
+- Experience: 9 — Documented varied visitor activities and trek options.
+- Depth: 9 — Multiple environments and routes, less than world-leading alpine parks.
+- Applicable categories: nature 9.2, wildlife 8.8, adventure 9.1, photography 9.
+- Overall: 89.05/100.
+- High-score challenge: No 9.5+ or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide V2 editorial rating.
+- Earlier decision: none.
+- Verification still needed: current access, precise representative points, independent claim-level corroboration.
+
+
+## sight-tz-mafia-island-marine-park — Mafia Island Marine Park — 2026-11-26
+
+- YAML: [source](../../../countries/TZ/sights/mafia-island-marine-park.yaml)
+- Action: new
+- Precise subject: Managed marine park and permitted diving/snorkeling, not entire Mafia archipelago, Ramsar site or offshore whale-shark areas; Chole Bay representative point.
+- Location check: -7.93939, 39.77553; published representative point, not admission or navigational point.
+- Evidence status: source-linked-unverified
+- Sources (2026-11-26): UNESCO MAB https://www.unesco.org/en/mab/rumaki-rufiji-mafia-kibiti-kilwa (indexed excerpt): marine conservation context; government https://marineparks.go.tz/pages/protected-areas (indexed excerpt): marine park identity; tourism https://www.tanzaniatourism.com/destination/mafia-island and https://www.visittanzania.org/destinations-in-tanzania/mafia-island-marine-park/ (indexed excerpts): Chole Bay and reef diving; https://mapcarta.com/12666448 (opened, mapped Chole Bay point).
+- Missing facts: current conditions, independent claim-level verification.
+
+### Worldwide peer comparisons
+- [sipadan-island-reefs (MY)](../../../countries/MY/sights/sipadan-island-reefs.yaml): 9.5/9.6/9.1/9.5/8.9; stronger world-leading underwater spectacle.
+- [ang-thong-national-marine-park (TH)](../../../countries/TH/sights/ang-thong-national-marine-park.yaml): 9.0/9.0/8.6/9.1/8.9; broader karst island scenery and comparable recreation.
+- [cham-islands (VN)](../../../countries/VN/sights/cham-islands.yaml): 8.8/9.0/8.4/9.0/8.7; similar island recreation, different marine conservation.
+- [perhentian-islands (MY)](../../../countries/MY/sights/perhentian-islands.yaml): 9.0/8.8/7.7/9.2/8.9; more developed beach experience, lower ecological significance.
+
+### Scoring decisions
+- Impact: 9.1 — Strong underwater reef and island spectacle below Sipadan.
+- Uniqueness: 9.1 — Distinct western Indian Ocean marine habitats, not unique globally.
+- Significance: 9.2 — Internationally important conservation habitat, no parent-property score borrowed.
+- Experience: 9 — Established reef excursions, weather and permissions apply.
+- Depth: 8.9 — Several reef sites and habitats, limited to park.
+- Applicable categories: nature 9.4, wildlife 9.3, adventure 9.2, photography 9.
+- Overall: 90.85/100.
+- High-score challenge: 90+ reflects documented distinct marine landscape and conservation, below Sipadan on underwater spectacle and visitor experience; independently bounded park scope.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide V2 editorial rating.
+- Earlier decision: none.
+- Verification still needed: current access, precise representative points, independent claim-level corroboration.
+
+
+## sight-tz-olduvai-gorge — Olduvai Gorge and Museum — 2026-11-26
+
+- YAML: [source](../../../countries/TZ/sights/olduvai-gorge.yaml)
+- Action: new
+- Precise subject: Specific gorge viewpoint, museum and permitted official guided excavation visits; within Ngorongoro, not whole conservation area or Laetoli.
+- Location check: -2.99593, 35.35215; published representative point, not admission or navigational point.
+- Evidence status: source-linked-unverified
+- Sources (2026-11-26): NCAA geopark https://geopark.ncaa.go.tz/archaeological-sites/ and https://geopark.ncaa.go.tz/north-route/ (indexed official descriptions): human evolution, excavations require official guide, new museum completed 2017; https://www.tanzaniatourism.com/destination/olduvai-gorge (indexed excerpt) corroborates museum visitor facilities; https://mapcarta.com/N1331017125 (opened, viewpoint next to museum).
+- Missing facts: current conditions, independent claim-level verification.
+
+### Worldwide peer comparisons
+- [nyero-rock-paintings (UG)](../../../countries/UG/sights/nyero-rock-paintings.yaml): 8.3/9.0/9.1/8.3/7.8; better documented guided rock-art visit.
+- [twyfelfontein (NA)](../../../countries/NA/sights/twyfelfontein.yaml): 9.0/9.4/9.5/8.8/8.5; larger internationally recognized rock-art concentration.
+- [plain-of-jars-archaeological-landscape (LA)](../../../countries/LA/sights/plain-of-jars-archaeological-landscape.yaml): 9.0/9.6/9.5/8.7/9.0; broader archaeological landscape, different cultural role.
+- [carnuntum-archaeological-park (AT)](../../../countries/AT/sights/carnuntum-archaeological-park.yaml): 8.7/8.9/9.0/8.8/8.4; greater reconstructed fabric and developed interpretation.
+
+### Scoring decisions
+- Impact: 8.5 — Striking gorge and interpretation but below major monumental landscapes.
+- Uniqueness: 9.5 — Exceptional early-human fossil and tool record.
+- Significance: 9.8 — World-defining paleoanthropological importance; significance distinct from visual impact.
+- Experience: 8.7 — Museum and regulated guided visits.
+- Depth: 8.4 — Focused museum and gorge interpretation; not all excavations or conservation area.
+- Applicable categories: history 9.7, nature 8.6.
+- Overall: 90.30/100.
+- High-score challenge: Uniqueness 9.5, significance 9.8 and history 9.7 reflect internationally defining human-evolution evidence at this specific gorge. Below major monumental sites on visual impact and visitor breadth. No credit for inaccessible archaeology.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide V2 editorial rating.
+- Earlier decision: none.
+- Verification still needed: current access, precise representative points, independent claim-level corroboration.
+
+
+## sight-tz-musoma-rock-art — Musoma Geometric Rock Art (Kasoma) — 2026-11-26
+
+- YAML: [source](../../../countries/TZ/sights/musoma-rock-art.yaml)
+- Action: new
+- Precise subject: Nyakingi representative shelter of Musoma nomination group; not all rock shelters or unrestricted access.
+- Location check: -1.77543, 33.57049; published representative point, not admission or navigational point.
+- Evidence status: unassessed
+- Sources (2026-11-26): UNESCO https://whc.unesco.org/en/tentativelists/6739/ (indexed specific Nyakingi site S01.77543 E033.57049); University of Dar es Salaam archaeological study https://journals.udsm.ac.tz/index.php/uj/article/view/2245 (opened abstract): Nyankingi and Nyamang'ora at Kasoma and conservation challenges. Published study coordinates indexed at https://journals.udsm.ac.tz/index.php/uj/article/download/2245/2088 (1°46′33″S 33°34′15″E; about 0.1 km from nomination point). The group-level duplicated Kenyan coordinate not used.
+- Missing facts: current conditions, independent claim-level verification, visitor scope and access.
+
+### Worldwide peer comparisons
+- [nyero-rock-paintings (UG)](../../../countries/UG/sights/nyero-rock-paintings.yaml): 8.3/9.0/9.1/8.3/7.8; better documented guided rock-art visit.
+- [twyfelfontein (NA)](../../../countries/NA/sights/twyfelfontein.yaml): 9.0/9.4/9.5/8.8/8.5; larger internationally recognized rock-art concentration.
+- [plain-of-jars-archaeological-landscape (LA)](../../../countries/LA/sights/plain-of-jars-archaeological-landscape.yaml): 9.0/9.6/9.5/8.7/9.0; broader archaeological landscape, different cultural role.
+- [carnuntum-archaeological-park (AT)](../../../countries/AT/sights/carnuntum-archaeological-park.yaml): 8.7/8.9/9.0/8.8/8.4; greater reconstructed fabric and developed interpretation.
+
+### Scoring decisions
+- Impact: null — Visitor-visible scope uncertain.
+- Uniqueness: 8.8 — Distinct regional geometric motifs, comparable to other Lake Victoria rock-art sites.
+- Significance: 8.9 — Documented Late Stone Age archaeology and regional cultural heritage.
+- Experience: null — Ordinary authorized visitor access not established.
+- Depth: null — Accessible subset and interpretation not established.
+- Applicable categories: history 9.
+- Overall: unranked.
+- High-score challenge: No 9.5+ or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Partial assessment; no overall total.
+- Earlier decision: none.
+- Verification still needed: current access, precise representative points, independent claim-level corroboration.
