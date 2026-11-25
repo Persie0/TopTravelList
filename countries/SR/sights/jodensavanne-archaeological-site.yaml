@@ -1,0 +1,15 @@
+id: sight-sr-jodensavanne-archaeological-site
+name: "Jodensavanne Archaeological Site"
+location:
+  country_code: SR
+  latitude: 5.431111
+  longitude: -54.982667
+scores:
+  impact: 7.8
+  uniqueness: 8.9
+  significance: 9.2
+  experience: 8.0
+  depth: 7.4
+  categories:
+    history: 9.4
+    culture: 9.0

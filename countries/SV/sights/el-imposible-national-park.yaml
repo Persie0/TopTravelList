@@ -1,0 +1,16 @@
+id: sight-sv-el-imposible-national-park
+name: "El Imposible National Park"
+location:
+  country_code: SV
+  latitude: 13.8330
+  longitude: -89.9720
+scores:
+  impact: 8.6
+  uniqueness: 8.6
+  significance: 8.9
+  experience: 8.5
+  depth: 8.7
+  categories:
+    nature: 9.2
+    wildlife: 9.1
+    adventure: 8.7

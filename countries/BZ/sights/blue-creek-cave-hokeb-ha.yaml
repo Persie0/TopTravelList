@@ -1,0 +1,15 @@
+id: sight-bz-blue-creek-cave-hokeb-ha
+name: "Blue Creek Cave (Hokeb Ha)"
+location:
+  country_code: BZ
+  latitude: 16.204
+  longitude: -89.054
+scores:
+  impact: 8.3
+  uniqueness: 8.5
+  significance: 7.5
+  experience: 8.6
+  depth: 7.7
+  categories:
+    adventure: 8.9
+    nature: 8.8

@@ -1,0 +1,15 @@
+id: sight-sc-anse-patates
+name: "Anse Patates"
+location:
+  country_code: SC
+  latitude: -4.3350
+  longitude: 55.8330
+scores:
+  impact: 8.4
+  uniqueness: 8.2
+  significance: 6.0
+  experience: 7.8
+  depth: 6.5
+  categories:
+    beaches: 8.4
+    photography: 8.8
