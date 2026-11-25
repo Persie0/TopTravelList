@@ -51,6 +51,14 @@
 - [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml): 8.9/9.0/9.0/9.1/8.6; managed nature observation.
 - [Sehlabathebe (LS)](../../../countries/LS/sights/sehlabathebe-national-park.yaml): 9.1/9.0/9.3/8.6/8.8; regional protected mountain landscape.
 
+#### Additional mountain-specific worldwide calibration (2026-11-26)
+- [sagarmatha-national-park (NP)](../../../countries/NP/sights/sagarmatha-national-park.yaml): 9.9/9.9/9.8/9.6/9.7; greater alpine scale and trek network.
+- [khangchendzonga-national-park (IN)](../../../countries/IN/sights/khangchendzonga-national-park.yaml): 9.8/9.8/9.8/8.7/9.7; greater mountain scale and ecological-cultural significance; narrower ordinary visitor access.
+- [sehlabathebe-national-park (LS)](../../../countries/LS/sights/sehlabathebe-national-park.yaml): 9.1/9.0/9.3/8.6/8.8; lower mountain scale and visitor breadth.
+- [doi-inthanon-national-park (TH)](../../../countries/TH/sights/doi-inthanon-national-park.yaml): 9.0/9.0/8.8/9.2/9.4; less extraordinary mountain vegetation and scale but more developed visitor routes.
+
+Retain 93.70: high marks for equatorial alpine ecology and multi-day trekking, below Himalayan leaders on scale, uniqueness and significance.
+
 ### Scoring decisions
 - Impact: 9.4 — Dramatic peaks and unusual alpine vegetation.
 - Uniqueness: 9.5 — Rare equatorial alpine ecosystem.
@@ -718,3 +726,70 @@
 
 [UNESCO inventory](https://whc.unesco.org/en/statesparties/ug) lists three inscribed and eight tentative properties, all represented at property or component-group level. The 1997 Nyero nomination and 2024 transboundary geometric rock-art nomination overlap; all six named Ugandan groups recorded without duplicate Nyero umbrella. Individual 24 shelters/panels not independently assessed. Palabek and Kibiro 2025 nominations included. Additional Ziwa rhino sanctuary, Jinja Nile source, Mabamba wetland, museums, islands, and regional towns remain backlog. No exhaustive inventory or complete component coverage claimed.
 
+
+
+## sight-ug-ziwa-rhino-sanctuary — Ziwa Rhino Sanctuary — 2026-11-26
+
+- YAML: [source](../../../countries/UG/sights/ziwa-rhino-sanctuary.yaml)
+- Action: new
+- Precise subject: Named managed breeding sanctuary and ranger-led visitor activities; excludes other rhino reintroduction sites.
+- Location check: 1.4506, 32.0971; published representative point, not entrance.
+- Evidence status: source-linked-unverified
+- Sources (2026-11-26): Omogolo Wildlife Trust https://www.omogolowildlife.org/projects/rhinos-uganda (page inspected): guided on-foot observation and breeding program; partner source. Uganda Wildlife Authority https://ugandawildlife.org/news/uganda-begins-historic-return-of-rhinos-to-kidepo-valley-national-park/ (page inspected): reintroduction and Ziwa's role; do not claim sole national rhino site. https://mapcarta.com/W187122958 (page inspected): representative mapped reserve point, not entrance. https://journals.sagepub.com/doi/10.1177/1940082918806805 (indexed excerpt): reserve field study; nearby representative coordinates.
+- Missing facts: full independent verification, current conditions and exact visitor access.
+
+### Worldwide peer comparisons
+- [kaziranga-national-park (IN)](../../../countries/IN/sights/kaziranga-national-park.yaml): 9.7/9.7/9.8/9.7/9.3; more globally significant rhino populations and wider ecosystem.
+- [chobe-national-park (BW)](../../../countries/BW/sights/chobe-national-park.yaml): 9.5/9.4/9.3/9.4/9.3; broader large-mammal safari and river activities.
+- [ranthambore-national-park (IN)](../../../countries/IN/sights/ranthambore-national-park.yaml): 9.4/9.3/9.2/9.4/9.1; broader tiger and fort landscape.
+- [kinabatangan-wildlife-sanctuary (MY)](../../../countries/MY/sights/kinabatangan-wildlife-sanctuary.yaml): 9.2/9.4/9.2/9.2/9.0; broader river wildlife encounters but no comparable rhino tracking.
+
+### Scoring decisions
+- Impact: 9 — Distinctive large mammal encounter.
+- Uniqueness: 9.1 — Specialized guided rhino tracking, not globally unique.
+- Significance: 9.2 — Important national recovery programme, below Kaziranga global significance.
+- Experience: 9 — Documented guided experience, no sighting guarantee.
+- Depth: 8.2 — Focused sanctuary activities, less than large safari parks.
+- Applicable categories: wildlife 9.4, nature 8.8, adventure 9.
+- Overall: 89.85/100.
+- High-score challenge: No 9.5+ field or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide V2 editorial rating.
+- Earlier decision: none.
+- Verification still needed: independent claim checks, exact visitor access and current conditions.
+
+
+## sight-ug-mabamba-bay-wetland — Mabamba Bay Wetland System — 2026-11-26
+
+- YAML: [source](../../../countries/UG/sights/mabamba-bay-wetland.yaml)
+- Action: new
+- Precise subject: Named Ramsar wetland and authorized birding routes, not Lake Victoria as a whole.
+- Location check: 0.116667, 32.35; published representative point, not entrance.
+- Evidence status: source-linked-unverified
+- Sources (2026-11-26): Convention on Wetlands https://www.ramsar.org/news/uganda-adds-nine-new-ramsar-sites (indexed excerpt; direct page returned 403): papyrus marsh and threatened shoebill habitat. https://mabambaswamps.com/ (local tourism page inspected): visitor birding and wetland habitats. Ramsar annotated summary indexed excerpt lists 00°07′N 32°21′E, converted to decimal degrees; https://rsis.ramsar.org/sites/default/files/rsiswp_search/exports/Ramsar-Sites-annotated-summary-Uganda.pdf?1568560014= ; not boat launch.
+- Missing facts: full independent verification, current conditions and exact visitor access.
+
+### Worldwide peer comparisons
+- [okavango-delta (BW)](../../../countries/BW/sights/okavango-delta.yaml): 9.8/9.9/9.8/9.5/9.8; vastly broader habitat and activities.
+- [suncheon-bay-wetland-reserve (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml): 8.9/9.0/9.0/9.1/8.6; comparable birding significance, more developed walking routes.
+- [neusiedler-see-seewinkel-national-park (AT)](../../../countries/AT/sights/neusiedler-see-seewinkel-national-park.yaml): 8.5/8.8/9.2/8.7/8.8; broader wetland routes and habitats.
+- [kinabatangan-wildlife-sanctuary (MY)](../../../countries/MY/sights/kinabatangan-wildlife-sanctuary.yaml): 9.2/9.4/9.2/9.2/9.0; more varied wildlife along river routes.
+
+### Scoring decisions
+- Impact: 8.6 — Striking papyrus channels and distinctive birds.
+- Uniqueness: 9 — Uncommon specialized shoebill encounter, not globally unique.
+- Significance: 9.1 — International wetland and threatened species habitat.
+- Experience: 8.8 — Documented local birding experience with variable sightings.
+- Depth: 8.2 — Focused wetland exploration, fewer activities than Okavango.
+- Applicable categories: nature 9, wildlife 9.4, photography 8.7.
+- Overall: 87.90/100.
+- High-score challenge: No 9.5+ field or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide V2 editorial rating.
+- Earlier decision: none.
+- Verification still needed: independent claim checks, exact visitor access and current conditions.
+
+
+### 2026-11-26 source follow-up
+
+Kidepo: UWA reports rhino reintroduction and initial placement in a secure sanctuary (https://ugandawildlife.org/news/uganda-begins-historic-return-of-rhinos-to-kidepo-valley-national-park/, page inspected). No automatic safari score increase or routine rhino viewing implied. Bigo: government museum page confirms gazetted monument (https://museums.tourism.go.ug/bigo-bya-mugenyi/, page inspected), but virtual-room page does not establish current on-site access (https://museums.tourism.go.ug/virtual-room/bigo-bya-mugenyi-earthworks/, page inspected). Retain incomplete visitor fields. Newly assessed Ziwa and Mabamba address two major omissions; broader wetland and heritage inventory remains incomplete.
