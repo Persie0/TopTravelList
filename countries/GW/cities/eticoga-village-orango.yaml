@@ -1,0 +1,15 @@
+id: city-gw-eticoga-village-orango
+name: "Eticoga Village (Orango)"
+location:
+  country_code: GW
+  latitude: 11.12
+  longitude: -16.16
+scores:
+  impact: 7.0
+  uniqueness: 8.3
+  significance: 7.8
+  experience: 7.4
+  depth: 6.0
+  categories:
+    culture: 8.8
+    history: 8.2
