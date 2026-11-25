@@ -2,6 +2,9 @@
 
 [Worldwide v2](../../../rules.md) · [Future-country workflow](../../future-country-workflow.md). 2026-11-25. [UNESCO country inventory](https://whc.unesco.org/en/statesparties/lr) confirms no inscribed property and three tentative entries, represented here. The proposed East Nimba extension is not the inscribed Guinea/Côte d'Ivoire property, and Liberia's Gola park is not Sierra Leone's 2025 Gola–Tiwai inscription. Site-specific GPS reference checks are identified in individual sections; other coordinates are provisional estimates. No scores promise current opening, safety or wildlife sightings. Shared type-based peer ladders are provisional and require closer regional comparison. Sources were reviewed at page or excerpt level as specified; no claim of full independent fact checking. Parent landscapes and individual features overlap; do not add their scores together.
 
+
+Follow-up 2026-11-25: seven formerly unlinked records supplemented across both review files; four reference coordinates refined. Five Ramsar sites represented at property level, including distinct Marshall Wetlands. Wildlife reassessments separate visitor viewing from ecological significance. No full independent factual verification.
+
 ## sight-lr-east-nimba-nature-reserve-proposed-mount-nimba-extension — East Nimba Nature Reserve (proposed Mount Nimba extension) — 2026-11-25
 
 - [YAML](../../../countries/LR/sights/east-nimba-nature-reserve-proposed-mount-nimba-extension.yaml) · Action: new · **source-linked-unverified**.
@@ -16,10 +19,12 @@
 - Significance 9.4: international conservation importance.
 - Experience 8.7: guided hikes and viewpoint experiences.
 - Depth 8.4: multiple described trails.
-- Categories: nature:9.4, wildlife:9.4, adventure:8.9. Overall: 89.40/100.
+- Categories: nature:9.4, wildlife:9.1, adventure:8.9. Overall: 89.40/100.
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Reference](https://whc.unesco.org/en/tentativelists/6246/) — Opened 2017 Liberia submission documents habitats, threatened species and former mine lake; https://enjoyliberia.travel/pages/mount-nimba/ opened page describes permitted guided trek options and Blue Lake; not the inscribed Guinea/Côte d'Ivoire property; inspected 2026-11-25. Material claims not fully verified.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, current access and individual peer/category calibration.
+- Reassessment 2026-11-25: wildlife 9.4 → 9.1. [LNTA birding](https://lnta.gov.lr/trip/langtang-valley-trekking/) and [trail guide](https://enjoyliberia.travel/pages/mount-nimba/) support birding and hikes; compared with Kibale, Bwindi, Kinabatangan and Chobe, reliable broad fauna encounters are less established. Core scores unchanged.
+
 
 ## sight-lr-sapo-national-park — Sapo National Park — 2026-11-25
 
@@ -35,10 +40,12 @@
 - Significance 9.4: important threatened primate and pygmy hippo conservation.
 - Experience 8.4: guided forest and river visits subject to authorization.
 - Depth 8.6: multiple habitat types and described routes.
-- Categories: nature:9.4, wildlife:9.4, adventure:8.8. Overall: 88.90/100.
+- Categories: nature:9.4, wildlife:9.0, adventure:8.8. Overall: 88.90/100.
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Reference](https://enjoyliberia.travel/pages/sapo-national-park/) — Opened tourism page describes Upper Guinean forest, primates, ranger walks and river excursions; https://mapcarta.com/Sapo_National_Park supplies representative mapped point. Current access not checked; inspected 2026-11-25. Material claims not fully verified.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, current access and individual peer/category calibration.
+- Reassessment 2026-11-25: wildlife 9.4 → 9.0. [Tourism guide](https://enjoyliberia.travel/blog/post/visiting-sapo-national-park-a-sustainable-travel-g/) and [Sapo Ecolodge](https://www.sapoecolodgeliberia.org/activities) support guided forest excursions; [independent guide](https://reasontogo.com/discover/wildlife-safaris/sapo-national-park) notes rare marquee encounters. Against Taï, Kibale, Kinabatangan and Chobe, biodiversity is strong but reliability of sightings less established. Core scores unchanged.
+
 
 ## sight-lr-gola-rainforest-national-park-liberia — Gola Rainforest National Park (Liberia) — 2026-11-25
 
@@ -54,10 +61,12 @@
 - Significance 9.4: international biodiversity importance.
 - Experience null: current Liberian permitted visitor itinerary unconfirmed.
 - Depth null: route breadth unknown.
-- Categories: nature:9.4, wildlife:9.4. Overall: unranked.
+- Categories: nature:9.4, wildlife:null. Overall: unranked.
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Reference](https://whc.unesco.org/en/tentativelists/6650/) — Opened 2023 state submission identifies Liberian forest and coordinate; https://discoverliberia.lnta.gov.lr/?id=12&page=destination search excerpt only, full page unavailable. Sierra Leone operator itineraries not applicable; inspected 2026-11-25. Material claims not fully verified.
 - Remaining gaps: Ordinary permitted visitor experience and route scope not established.
+- Reassessment 2026-11-25: wildlife 9.4 → null. [UNESCO nomination](https://whc.unesco.org/en/tentativelists/6650) supports ecology but not verified visitor routes. [May 2026 assistance](https://whc.unesco.org/en/statesparties/lr/assistance) supports preparation for an extension, not existing inscription. Core scores unchanged.
+
 
 ## sight-lr-providence-island — Providence Island — 2026-11-25
 
@@ -175,7 +184,7 @@
 
 ## sight-lr-blue-lake-bomi — Blue Lake (Bomi) — 2026-11-25
 
-- [YAML](../../../countries/LR/sights/blue-lake-bomi.yaml) · Action: new · **editorial-only**.
+- [YAML](../../../countries/LR/sights/blue-lake-bomi.yaml) · Action: new · **source-linked-unverified**.
 - Scope: former mine lake near Tubmanburg. GPS 6.87, -10.82: approximate representative point, independent check pending.
 - Worldwide peers (I/U/S/E/D):
   - [Ha Long Bay (VN)](../../../countries/VN/sights/ha-long-bay.yaml) — 9.8 / 9.9 / 9.7 / 9.8 / 9.6 (97.85/100); upper anchor; lower impact (blue water and surrounding slopes), lower uniqueness (regional artificial lake setting), lower significance (local industrial history), lower experience (shore viewing where permitted), lower depth (one lake).
@@ -189,7 +198,7 @@
 - Depth 6.4: one lake.
 - Categories: photography:8.4, relaxation:8.0. Overall: 72.55/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked destination-specific source; editorial judgment only.
+- Evidence: [Liberia Tourism](https://enjoyliberia.travel/experiences/blue-lake/) confirms former iron mine and visitor lake near Tubmanburg; distinct from East Nimba. Reviewed 2026-11-25; original review had no direct source.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, current access and individual peer/category calibration.
 
 ## sight-lr-liberian-national-museum — Liberian National Museum — 2026-11-25
@@ -289,7 +298,7 @@
 
 ## sight-lr-providence-baptist-church — Providence Baptist Church — 2026-11-25
 
-- [YAML](../../../countries/LR/sights/providence-baptist-church.yaml) · Action: new · **editorial-only**.
+- [YAML](../../../countries/LR/sights/providence-baptist-church.yaml) · Action: new · **source-linked-unverified**.
 - Scope: historic church and permitted precinct. GPS 6.314, -10.803: approximate representative point, independent check pending.
 - Worldwide peers (I/U/S/E/D):
   - [Angkor Wat (KH)](../../../countries/KH/sights/angkor-wat.yaml) — 10.0 / 10.0 / 10.0 / 9.8 / 9.5 (99.20/100); upper anchor; lower impact (modest religious architecture), lower uniqueness (Liberian independence associations), lower significance (national religious and civic history), lower experience (focused visit), lower depth (one building).
@@ -303,7 +312,7 @@
 - Depth 6.0: one building.
 - Categories: history:8.8, architecture:7.9, culture:8.0. Overall: 73.85/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked destination-specific source; editorial judgment only.
+- Evidence: [Church history](https://providencebaptistchurch1821.wordpress.com/our-history/) documents founding and historic building; [2026 historical account](https://frontpageafricaonline.com/a-bell-from-new-york-still-speaks-to-monrovias-history/) corroborates early history; precise founding date differs. Ordinary opening not established. Reviewed 2026-11-25; original review had no direct source.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, current access and individual peer/category calibration.
 
 ## sight-lr-mount-scott-methodist-church-harper — Mount Scott Methodist Church (Harper) — 2026-11-25
@@ -343,6 +352,8 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Reference](https://enjoyliberia.travel/pages/marshall/) — Tourism excerpt describes fishing settlement and mangrove trips; https://enjoyliberia.travel/pages/adventure/ identifies chimpanzee islands, no safe contact endorsement; inspected 2026-11-25. Material claims not fully verified.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, current access and individual peer/category calibration.
+- Follow-up: distinct from the full Marshall Ramsar wetland; scores are not additive.
+
 
 ## sight-lr-monkey-island-marshall-chimpanzee-sanctuary — Monkey Island (Marshall chimpanzee sanctuary) — 2026-11-25
 
@@ -423,7 +434,7 @@
 ## sight-lr-mesurado-wetlands — Mesurado Wetlands — 2026-11-25
 
 - [YAML](../../../countries/LR/sights/mesurado-wetlands.yaml) · Action: new · **unassessed**.
-- Scope: urban estuarine mangrove wetland. GPS 6.31, -10.76: approximate representative point, independent check pending.
+- Scope: urban estuarine mangrove wetland. GPS 6.3, -10.75: Ramsar reference coordinate; not visitor entrance.
 - Worldwide peers (I/U/S/E/D):
   - [Ha Long Bay (VN)](../../../countries/VN/sights/ha-long-bay.yaml) — 9.8 / 9.9 / 9.7 / 9.8 / 9.6 (97.85/100); upper anchor; unresolved impact (ordinary visitor impact unknown), lower uniqueness (urban coastal habitat), lower significance (regional wetland conservation), unresolved experience (permitted visits unresolved), unresolved depth (route unknown).
   - [Jiuzhaigou Valley (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) — 9.8 / 9.7 / 9.4 / 9.8 / 9.1 (96.25/100); related comparison; unresolved impact (ordinary visitor impact unknown), lower uniqueness (urban coastal habitat), lower significance (regional wetland conservation), unresolved experience (permitted visits unresolved), unresolved depth (route unknown).
@@ -434,10 +445,12 @@
 - Significance 8.4: regional wetland conservation.
 - Experience null: permitted visits unresolved.
 - Depth null: route unknown.
-- Categories: nature:8.7, wildlife:8.6. Overall: unranked.
+- Categories: nature:8.7, wildlife:null. Overall: unranked.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked destination-specific source; editorial judgment only.
+- Evidence: [Ramsar](https://www.ramsar.org/es/node/8309) documents 6,760 ha and threatened mangroves; [Protected Planet](https://www.protectedplanet.net/902910?locale=en) confirms designation. No ordinary wildlife route established. Reviewed 2026-11-25; original review had no direct source.
 - Remaining gaps: Ordinary permitted visitor experience and route scope not established.
+- Reassessment 2026-11-25: wildlife 8.6 → null. Ramsar reference point corrected from 6.31, -10.76 to 6.3, -10.75; no ordinary wildlife viewing route established. Core scores unchanged.
+
 
 ## sight-lr-kpatawee-wetlands-ramsar-area — Kpatawee Wetlands (Ramsar area) — 2026-11-25
 
@@ -472,7 +485,28 @@
 - Significance 9.2: international biodiversity significance.
 - Experience null: normal permitted visit unconfirmed.
 - Depth null: visitor depth unresolved.
-- Categories: nature:9.3, wildlife:9.3. Overall: unranked.
+- Categories: nature:9.3, wildlife:null. Overall: unranked.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked destination-specific source; editorial judgment only.
+- Evidence: [IUCN APES Atlas](https://www.apesatlas.iucnapesportal.org/index.php/Grebo-Krahn_National_Park) and [WCF](https://www.wildchimps.org/projects-liberia/creation-of-protected-areas) confirm forest and park; [2025 conservation initiative](https://www.wildchimps.org/news/eu-funded-conservation-project-sustain-in-southeastern-liberia) includes planned ecotourism, not proven ordinary visitor routes. Reviewed 2026-11-25; original review had no direct source.
 - Remaining gaps: Ordinary permitted visitor experience and route scope not established.
+- Reassessment 2026-11-25: wildlife 9.3 → null. Conservation documentation does not establish ordinary permitted wildlife viewing. Core scores unchanged.
+
+
+## sight-lr-marshall-wetlands-ramsar-area — Marshall Wetlands (Ramsar area) — 2026-11-25
+
+- [YAML](../../../countries/LR/sights/marshall-wetlands-ramsar-area.yaml) · Action: new · **unassessed**.
+- Scope: entire 12,168-hectare wetland, not just the existing boat route. GPS 6.133333, -10.366667: [Ramsar designation](https://www.ramsar.org/es/node/8309) 06°08′N 010°22′W; representative point, not entrance. Later summaries may differ by one minute of latitude.
+- Worldwide peers (I/U/S/E/D):
+  - [Ha Long Bay (VN)](../../../countries/VN/sights/ha-long-bay.yaml) — 9.8 / 9.9 / 9.7 / 9.8 / 9.6 (97.85/100); upper marine landscape reference, more established visitor itineraries.
+  - [Jiuzhaigou Valley (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) — 9.8 / 9.7 / 9.4 / 9.8 / 9.1 (96.25/100); protected-water landscape anchor, different ecology and established trails.
+  - [Phang Nga Bay (TH)](../../../countries/TH/sights/phang-nga-bay.yaml) — 9.4 / 9.4 / 8.9 / 9.3 / 9.1 (92.55/100); coastal boat-route reference, broader documented visitor scope.
+  - [Azraq Wetland Reserve (JO)](../../../countries/JO/sights/azraq-wetland-reserve.yaml) — 7.8 / 8.4 / 8.7 / 8.0 / 7.8 (81.60/100); wetland-specific comparison, established bounded visits unlike aggregate Marshall.
+- Impact null: no coherent whole-property visitor experience established.
+- Uniqueness 8.2: coastal wetland mosaic including multiple rivers and woodland.
+- Significance 8.5: internationally designated wetland supporting ecological and community functions.
+- Experience null: authorized visitor scope beyond existing boat routes unestablished.
+- Depth null: no verified whole-property itinerary.
+- Categories: nature:8.8, wildlife:null. Overall: unranked.
+- High-score challenge: Not applicable. No approved 10.
+- Evidence: [Ramsar](https://www.ramsar.org/es/node/8309) and [Liberia EPA](https://epa.gov.lr/epa-celebrates-world-wetlands-day-2025-calls-for-stronger-protection-measures/) confirm designation and geography, checked 2026-11-25. Not full independent verification.
+- Remaining gaps: visitor access, seasonal wildlife observation, GPS extent, closer mangrove peers. Do not add the separate boat-route score.
