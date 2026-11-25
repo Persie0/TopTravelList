@@ -1,0 +1,15 @@
+id: sight-ee-seto-farm-museum
+name: "Seto Farm Museum (Värska)"
+location:
+  country_code: EE
+  latitude: 57.951
+  longitude: 27.634
+scores:
+  impact: 7.6
+  uniqueness: 8.5
+  significance: 8.3
+  experience: 8.2
+  depth: 7.8
+  categories:
+    culture: 8.9
+    history: 8.4

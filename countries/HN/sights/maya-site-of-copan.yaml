@@ -1,0 +1,17 @@
+id: sight-hn-maya-site-of-copan
+name: "Maya Site of Copán"
+location:
+  country_code: HN
+  latitude: 14.838
+  longitude: -89.142
+scores:
+  impact: 9.5
+  uniqueness: 9.7
+  significance: 9.7
+  experience: 9.3
+  depth: 9.3
+  categories:
+    history: 9.7
+    architecture: 9.6
+    culture: 9.6
+    photography: 9.4

@@ -1,0 +1,16 @@
+id: sight-hn-gulf-of-fonseca-honduran-visitor-area
+name: "Gulf of Fonseca (Honduran visitor area)"
+location:
+  country_code: HN
+  latitude: 13.2730
+  longitude: -87.7200
+scores:
+  impact: 8.5
+  uniqueness: 8.5
+  significance: 8.3
+  experience: 8.5
+  depth: 8.5
+  categories:
+    nature: 8.9
+    photography: 9.0
+    wildlife: 8.5

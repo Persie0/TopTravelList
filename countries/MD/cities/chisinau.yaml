@@ -1,0 +1,16 @@
+id: city-md-chisinau
+name: "Chișinău"
+location:
+  country_code: MD
+  latitude: 47.0105
+  longitude: 28.8638
+scores:
+  impact: 7.7
+  uniqueness: 7.9
+  significance: 8.2
+  experience: 8.4
+  depth: 8.4
+  categories:
+    culture: 8.7
+    food: 8.6
+    architecture: 8.2

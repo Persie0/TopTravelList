@@ -1,0 +1,16 @@
+id: sight-rw-mount-karisimbi
+name: "Mount Karisimbi"
+location:
+  country_code: RW
+  latitude: -1.5060
+  longitude: 29.4500
+scores:
+  impact: 9.1
+  uniqueness: 8.8
+  significance: 8.2
+  experience: 8.6
+  depth: 8.2
+  categories:
+    nature: 9.2
+    adventure: 9.4
+    photography: 9.2

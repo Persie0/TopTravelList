@@ -1,0 +1,16 @@
+id: sight-mn-gobi-gurvansaikhan-national-park
+name: "Gobi Gurvansaikhan National Park"
+location:
+  country_code: MN
+  latitude: 43.55
+  longitude: 103.65
+scores:
+  impact: 9.2
+  uniqueness: 9.0
+  significance: 8.8
+  experience: 8.9
+  depth: 9.2
+  categories:
+    nature: 9.4
+    photography: 9.4
+    adventure: 9.2

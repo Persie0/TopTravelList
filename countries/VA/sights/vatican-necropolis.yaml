@@ -1,0 +1,15 @@
+id: sight-va-vatican-necropolis
+name: "Vatican Necropolis"
+location:
+  country_code: VA
+  latitude: 41.90213
+  longitude: 12.45369
+scores:
+  impact: 8.9
+  uniqueness: 9.3
+  significance: 9.5
+  experience: 8.6
+  depth: 8.4
+  categories:
+    history: 9.6
+    culture: 9.3

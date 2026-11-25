@@ -1,0 +1,15 @@
+id: sight-ve-canaima-lagoon
+name: "Canaima Lagoon"
+location:
+  country_code: VE
+  latitude: 6.2450
+  longitude: -62.8550
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 8.0
+  experience: 8.7
+  depth: 7.8
+  categories:
+    nature: 9.3
+    photography: 9.4

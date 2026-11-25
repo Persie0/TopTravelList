@@ -1,0 +1,16 @@
+id: sight-ve-cayo-de-agua
+name: "Cayo de Agua"
+location:
+  country_code: VE
+  latitude: 11.8030
+  longitude: -66.9260
+scores:
+  impact: 9.4
+  uniqueness: 8.9
+  significance: 7.3
+  experience: 8.9
+  depth: 7.1
+  categories:
+    beaches: 9.6
+    photography: 9.6
+    relaxation: 9.3

@@ -1,0 +1,15 @@
+id: sight-ad-carmen-thyssen-andorra-museum
+name: "Carmen Thyssen Andorra Museum"
+location:
+  country_code: AD
+  latitude: 42.5085
+  longitude: 1.5420
+scores:
+  impact: 7.3
+  uniqueness: 7.7
+  significance: 7.5
+  experience: 8.1
+  depth: 6.7
+  categories:
+    culture: 8.5
+    architecture: 7.7

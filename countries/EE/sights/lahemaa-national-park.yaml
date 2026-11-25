@@ -1,0 +1,17 @@
+id: sight-ee-lahemaa-national-park
+name: "Lahemaa National Park"
+location:
+  country_code: EE
+  latitude: 59.55
+  longitude: 25.9
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 8.5
+  experience: 9.0
+  depth: 9.0
+  categories:
+    nature: 9.2
+    photography: 9
+    wildlife: 8.4
+    adventure: 8.5

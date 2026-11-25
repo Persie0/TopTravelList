@@ -1,0 +1,16 @@
+id: sight-mv-maalhos-thila-ari-atoll
+name: "Maalhos Thila (Ari Atoll)"
+location:
+  country_code: MV
+  latitude: 4.02
+  longitude: 72.76
+scores:
+  impact: 8.5
+  uniqueness: 8.4
+  significance: 7.9
+  experience: 8.6
+  depth: 7.6
+  categories:
+    nature: 8.8
+    wildlife: 8.6
+    adventure: 8.9

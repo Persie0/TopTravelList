@@ -1,0 +1,15 @@
+id: sight-hn-lancetilla-botanical-garden
+name: "Lancetilla Botanical Garden"
+location:
+  country_code: HN
+  latitude: 15.7420
+  longitude: -87.4600
+scores:
+  impact: 8.0
+  uniqueness: 8.6
+  significance: 8.7
+  experience: 8.3
+  depth: 8.3
+  categories:
+    nature: 9.0
+    wildlife: 8.5

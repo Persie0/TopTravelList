@@ -1,0 +1,16 @@
+id: sight-sv-el-pital-salvadoran-sector
+name: "El Pital (Salvadoran sector)"
+location:
+  country_code: SV
+  latitude: 14.3840
+  longitude: -89.1240
+scores:
+  impact: 8.0
+  uniqueness: 7.8
+  significance: 7.6
+  experience: 8.2
+  depth: 7.5
+  categories:
+    nature: 8.4
+    photography: 8.5
+    adventure: 8.3

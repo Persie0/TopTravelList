@@ -1,0 +1,16 @@
+id: sight-ve-cayo-sombrero
+name: "Cayo Sombrero"
+location:
+  country_code: VE
+  latitude: 10.8850
+  longitude: -68.2070
+scores:
+  impact: 8.6
+  uniqueness: 8.1
+  significance: 6.5
+  experience: 8.8
+  depth: 7.4
+  categories:
+    beaches: 9.3
+    relaxation: 9.0
+    photography: 8.9

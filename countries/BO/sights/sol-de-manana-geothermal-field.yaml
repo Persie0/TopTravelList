@@ -1,0 +1,15 @@
+id: sight-bo-sol-de-manana-geothermal-field
+name: "Sol de Mañana Geothermal Field"
+location:
+  country_code: BO
+  latitude: -22.4350
+  longitude: -67.7580
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 7.9
+  experience: 8.0
+  depth: 7.2
+  categories:
+    nature: 9.1
+    photography: 8.9

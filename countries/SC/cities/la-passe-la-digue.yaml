@@ -1,0 +1,17 @@
+id: city-sc-la-passe-la-digue
+name: "La Passe (La Digue)"
+location:
+  country_code: SC
+  latitude: -4.3483
+  longitude: 55.8295
+scores:
+  impact: 7.9
+  uniqueness: 8.3
+  significance: 7.1
+  experience: 8.4
+  depth: 7.4
+  categories:
+    culture: 8.4
+    relaxation: 8.4
+    food: 8.0
+    photography: 8.1

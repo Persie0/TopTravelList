@@ -1,0 +1,16 @@
+id: sight-mt-st-johns-co-cathedral
+name: "St John's Co-Cathedral"
+location:
+  country_code: MT
+  latitude: 35.8979
+  longitude: 14.5126
+scores:
+  impact: 9.5
+  uniqueness: 9.4
+  significance: 9.5
+  experience: 9.1
+  depth: 8.7
+  categories:
+    architecture: 9.6
+    history: 9.5
+    culture: 9.6

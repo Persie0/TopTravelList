@@ -1,0 +1,15 @@
+id: sight-mn-tsenkher-hot-springs
+name: "Tsenkher Hot Springs"
+location:
+  country_code: MN
+  latitude: 47.32
+  longitude: 101.33
+scores:
+  impact: 7.4
+  uniqueness: 7.2
+  significance: 6.0
+  experience: 8.3
+  depth: 6.8
+  categories:
+    relaxation: 8.7
+    nature: 7.7

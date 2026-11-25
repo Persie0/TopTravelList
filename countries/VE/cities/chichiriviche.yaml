@@ -1,0 +1,15 @@
+id: city-ve-chichiriviche
+name: "Chichiriviche"
+location:
+  country_code: VE
+  latitude: 10.9333
+  longitude: -68.2667
+scores:
+  impact: 6.9
+  uniqueness: 7.2
+  significance: 6.2
+  experience: 7.7
+  depth: 6.2
+  categories:
+    relaxation: 8.2
+    photography: 7.9

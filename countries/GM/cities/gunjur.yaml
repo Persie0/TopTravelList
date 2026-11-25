@@ -1,0 +1,15 @@
+id: city-gm-gunjur
+name: "Gunjur"
+location:
+  country_code: GM
+  latitude: 13.1770
+  longitude: -16.7590
+scores:
+  impact: 6.7
+  uniqueness: 7.3
+  significance: 6.5
+  experience: 7.3
+  depth: 6.1
+  categories:
+    culture: 7.8
+    food: 7.6

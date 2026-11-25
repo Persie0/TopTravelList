@@ -1,0 +1,16 @@
+id: sight-mc-naval-museum-of-monaco
+name: "Naval Museum of Monaco"
+location:
+  country_code: MC
+  latitude: 43.7280
+  longitude: 7.4168
+scores:
+  impact: 7.2
+  uniqueness: 7.8
+  significance: 7.7
+  experience: 8.0
+  depth: 7.3
+  categories:
+    history: 8.4
+    culture: 8.3
+    family: 7.8

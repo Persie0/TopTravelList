@@ -1,0 +1,15 @@
+id: sight-va-necropolis-of-the-via-triumphalis
+name: "Necropolis of the Via Triumphalis"
+location:
+  country_code: VA
+  latitude: 41.90602
+  longitude: 12.45521
+scores:
+  impact: 8.4
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 8.3
+  depth: 8.1
+  categories:
+    history: 9.3
+    culture: 8.8

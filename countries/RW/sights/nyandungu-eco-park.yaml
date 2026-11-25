@@ -1,0 +1,16 @@
+id: sight-rw-nyandungu-eco-park
+name: "Nyandungu Eco-Park"
+location:
+  country_code: RW
+  latitude: -1.9660
+  longitude: 30.1490
+scores:
+  impact: 7.5
+  uniqueness: 7.6
+  significance: 7.5
+  experience: 8.2
+  depth: 7.6
+  categories:
+    nature: 8.2
+    wildlife: 8.0
+    family: 8.4

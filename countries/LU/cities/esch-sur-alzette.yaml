@@ -1,0 +1,15 @@
+id: city-lu-esch-sur-alzette
+name: "Esch-sur-Alzette"
+location:
+  country_code: LU
+  latitude: 49.4960
+  longitude: 5.9800
+scores:
+  impact: 7.2
+  uniqueness: 7.8
+  significance: 7.8
+  experience: 7.9
+  depth: 8.0
+  categories:
+    culture: 8.6
+    architecture: 8.1
