@@ -1,0 +1,15 @@
+id: sight-pn-john-adams-grave
+name: "John Adams' grave"
+location:
+  country_code: PN
+  latitude: -25.066
+  longitude: -130.103
+scores:
+  impact: 6.8
+  uniqueness: 8.0
+  significance: 8.3
+  experience: 7.2
+  depth: 6.0
+  categories:
+    history: 8.6
+    culture: 7.8

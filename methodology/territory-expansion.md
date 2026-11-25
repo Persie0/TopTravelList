@@ -212,3 +212,7 @@ No matching GB, AR or AQ entries identified in generated name/coordinate screen.
 ### Saint Helena, Ascension and Tristan da Cunha coverage — 2026-11-26
 
 Four settlements and fourteen sights across the three inhabited islands, including the serial UNESCO Gough and Inaccessible Islands property (unranked, restricted visitor scope). GB and FR source filenames screened; no obvious matching parent records. The French-owned Napoleonic properties are geographically in SH; no sovereignty inference or migration is implied. Ascension entry permits and Tristan advance approval/guided access respected. Seasonal wildlife viewing is conditional; no guarantee of any individual animal sighting. Coordinates are approximate editorial anchors and complete independent fact verification and regeneration remain outstanding. No exact-10 or 9.5+ additions.
+
+### Pitcairn Islands coverage — 2026-11-26
+
+One settlement and ten sights across all four islands. GB source filenames screened; no obvious parent duplicate. Henderson, Oeno and Ducie remain unranked pending documented permitted visitor scope; vessel permission required under 2026 immigration amendment. Dark sky score scoped to inhabited Pitcairn; no reserve-wide marine score. Down Rope guide-only, St Paul's water entry conditional. Official tourism page inspected, other source excerpts reviewed; exact independent GPS, full corroboration, cross-registry duplicate audit and full CI/regeneration pending. UN map screenshot returned 403. No new 9.5+ or exact-10 scores.
