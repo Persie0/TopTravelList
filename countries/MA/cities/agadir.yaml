@@ -1,0 +1,16 @@
+id: city-ma-agadir
+name: "Agadir"
+location:
+  country_code: MA
+  latitude: 30.4278
+  longitude: -9.5981
+scores:
+  impact: 7.9
+  uniqueness: 7.5
+  significance: 7.4
+  experience: 8.7
+  depth: 8.1
+  categories:
+    beaches: 8.7
+    relaxation: 8.8
+    food: 8.0

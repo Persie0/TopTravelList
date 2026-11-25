@@ -1,0 +1,16 @@
+id: sight-ma-ait-ben-haddou
+name: "Ksar of Ait-Ben-Haddou"
+location:
+  country_code: MA
+  latitude: 31.047
+  longitude: -7.131
+scores:
+  impact: 9.4
+  uniqueness: 9.4
+  significance: 9.2
+  experience: 8.9
+  depth: 8.4
+  categories:
+    architecture: 9.6
+    history: 9.2
+    photography: 9.6

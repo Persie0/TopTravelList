@@ -1,0 +1,13 @@
+id: sight-ma-el-gour
+name: "El Gour Monument"
+location:
+  country_code: MA
+  latitude: 33.80
+  longitude: -5.15
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}
