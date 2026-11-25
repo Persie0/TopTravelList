@@ -1,0 +1,17 @@
+id: sight-dm-champagne-reef
+name: "Champagne Reef"
+location:
+  country_code: DM
+  latitude: 15.246
+  longitude: -61.375
+scores:
+  impact: 8.7
+  uniqueness: 9.3
+  significance: 7.6
+  experience: 8.9
+  depth: 7.3
+  categories:
+    adventure: 9.4
+    nature: 9.1
+    wildlife: 8.7
+    photography: 9.0

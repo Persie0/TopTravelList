@@ -1,0 +1,15 @@
+id: sight-dm-trafalgar-falls
+name: "Trafalgar Falls"
+location:
+  country_code: DM
+  latitude: 15.328
+  longitude: -61.336
+scores:
+  impact: 8.9
+  uniqueness: 8.6
+  significance: 7.2
+  experience: 8.7
+  depth: 7.1
+  categories:
+    nature: 9.0
+    photography: 9.3
