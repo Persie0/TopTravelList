@@ -1,0 +1,15 @@
+id: city-gm-tendaba
+name: "Tendaba"
+location:
+  country_code: GM
+  latitude: 13.4450
+  longitude: -15.8230
+scores:
+  impact: 6.5
+  uniqueness: 7.2
+  significance: 6.1
+  experience: 7.3
+  depth: 5.8
+  categories:
+    culture: 7.4
+    photography: 7.6

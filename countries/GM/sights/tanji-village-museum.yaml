@@ -1,0 +1,15 @@
+id: sight-gm-tanji-village-museum
+name: "Tanji Village Museum"
+location:
+  country_code: GM
+  latitude: 13.3600
+  longitude: -16.7850
+scores:
+  impact: 7.0
+  uniqueness: 8.0
+  significance: 7.6
+  experience: 8.0
+  depth: 6.9
+  categories:
+    culture: 8.7
+    history: 8.3

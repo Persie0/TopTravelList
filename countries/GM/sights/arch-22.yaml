@@ -1,0 +1,16 @@
+id: sight-gm-arch-22
+name: "Arch 22"
+location:
+  country_code: GM
+  latitude: 13.4580
+  longitude: -16.5830
+scores:
+  impact: 7.0
+  uniqueness: 7.3
+  significance: 7.4
+  experience: 7.5
+  depth: 6.0
+  categories:
+    architecture: 8.0
+    photography: 8.2
+    history: 7.6
