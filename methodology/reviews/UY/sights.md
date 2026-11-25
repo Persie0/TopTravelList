@@ -1221,3 +1221,63 @@
 - Categories: culture 8.9, history 8.2. Computed overall: 78.50/100.
 - High-score challenge: not applicable; no 90+ totals or 9.5+ fields. Approved 10 registry: none.
 - Verification still needed: individual facts, GPS unless UNESCO-derived, visitor scope and calibration.
+
+## Follow-up: sight-uy-isla-de-lobos-marine-protected-area — 2026-11-25 (worldwide review)
+
+- [YAML](../../../countries/UY/sights/isla-de-lobos-marine-protected-area.yaml) · Action: rescore · **source-linked-unverified**: limited source claims checked; not comprehensive fact-check. Original decision above retained.
+- Sources inspected 2026-11-25: [https://www.gub.uy/ministerio-ambiente/politicas-y-gestion/isla-islote-lobos-su-entorno-sumergido](https://www.gub.uy/ministerio-ambiente/politicas-y-gestion/isla-islote-lobos-su-entorno-sumergido), [https://www.maldonado.gub.uy/descubre-maldonado/parques_y_paseos](https://www.maldonado.gub.uy/descubre-maldonado/parques_y_paseos), [https://www.isladelobos.com.uy/](https://www.isladelobos.com.uy/)
+- Decision: The environment ministry confirms a marine national park and priority pinniped species; the Maldonado government and a tour operator confirm offshore boat visits. The operator describes roughly 40 minutes circling the island. Retain impact, rarity, conservation significance and experience; reduce depth because ordinary visitors observe from a boat rather than explore the entire protected marine area.
+- I/U/S/E/D: 8.2 / 8.8 / 8.8 / 8.0 / 7.5 → 8.2 / 8.8 / 8.8 / 8.0 / 6.7; total 83.70/100 → 82.90/100. Categories unchanged. No new 10 or country multiplier. Representative GPS retained.
+
+| Current worldwide peer | I/U/S/E/D | Overall | Scope comparison |
+| --- | --- | --- | --- |
+| [Sipadan Island Reefs](../../../countries/MY/sights/sipadan-island-reefs.yaml) | 9.5 / 9.6 / 9.1 / 9.5 / 8.9 | 93.85/100 | The marine dive site offers greater rarity and underwater breadth. |
+| [Abrolhos Marine National Park](../../../countries/BR/sights/abrolhos-marine-national-park.yaml) | 8.9 / 9.1 / 9.1 / 8.3 / 8.0 | 88.10/100 | Broader reef exploration warrants greater depth. |
+| [Tarutao National Marine Park](../../../countries/TH/sights/tarutao-national-marine-park.yaml) | 9.0 / 9.2 / 8.7 / 9.0 / 9.0 | 89.90/100 | Multiple islands and habitats support more sustained exploration. |
+| [Azraq Wetland Reserve](../../../countries/JO/sights/azraq-wetland-reserve.yaml) | 7.8 / 8.4 / 8.7 / 8.0 / 7.8 | 81.60/100 | Comparable bounded wildlife observation; marine ecology is distinct. |
+
+
+## Follow-up: sight-uy-colonia-del-sacramento-historic-quarter — 2026-11-25 (worldwide review)
+
+- [YAML](../../../countries/UY/sights/colonia-del-sacramento-historic-quarter.yaml) · Action: fact-check-only · **source-linked-unverified**: limited source claims checked; not comprehensive fact-check. Original decision above retained.
+- Sources inspected 2026-11-25: [https://whc.unesco.org/en/list/747/](https://whc.unesco.org/en/list/747/)
+- Decision: UNESCO confirms preserved Portuguese, Spanish and post-colonial urban fabric. Its strong uniqueness/significance are justified by the specific historical layout, while its compact footprint limits depth compared with larger historic ensembles. Retain all fields.
+- I/U/S/E/D: 8.9 / 9.1 / 9.2 / 8.9 / 8.4 → 8.9 / 9.1 / 9.2 / 8.9 / 8.4; total 89.60/100 → 89.60/100. Categories unchanged. No new 10 or country multiplier. Representative GPS retained.
+
+| Current worldwide peer | I/U/S/E/D | Overall | Scope comparison |
+| --- | --- | --- | --- |
+| [Port, Fortresses and Group of Monuments of Cartagena](../../../countries/CO/sights/port-fortresses-and-group-of-monuments-of-cartagena.yaml) | 9.4 / 9.2 / 9.6 / 9.0 / 9.3 | 93.20/100 | Cartagena has much greater fortification and ensemble breadth. |
+| [Kotor Old Town](../../../countries/ME/sights/kotor-old-town.yaml) | 9.1 / 9.2 / 9.2 / 9.1 / 8.7 | 91.05/100 | Kotor has stronger dramatic enclosed medieval setting. |
+| [San Marino Historic Centre and Mount Titano](../../../countries/SM/sights/san-marino-historic-centre-and-mount-titano.yaml) | 9.1 / 9.2 / 9.2 / 9.0 / 8.6 | 90.80/100 | Similar compact heritage landscape; distinct colonial history. |
+| [Perast Historic Waterfront](../../../countries/ME/sights/perast-historic-waterfront.yaml) | 8.8 / 8.9 / 8.6 / 8.8 / 7.9 | 86.95/100 | The waterfront has less historic urban breadth. |
+
+
+## Follow-up: sight-uy-fray-bentos-industrial-landscape — 2026-11-25 (worldwide review)
+
+- [YAML](../../../countries/UY/sights/fray-bentos-industrial-landscape.yaml) · Action: fact-check-only · **source-linked-unverified**: limited source claims checked; not comprehensive fact-check. Original decision above retained.
+- Sources inspected 2026-11-25: [https://whc.unesco.org/en/list/1464](https://whc.unesco.org/en/list/1464)
+- Decision: UNESCO identifies a coherent industrial landscape with production, port, residential and agricultural components. Preserve high historical significance and unusual industrial breadth without equating access to every historical component with visitor depth. The current 8.7 depth is a provisional normal-site estimate; verify accessible routes separately.
+- I/U/S/E/D: 8.3 / 9.2 / 9.3 / 8.4 / 8.7 → 8.3 / 9.2 / 9.3 / 8.4 / 8.7; total 87.80/100 → 87.80/100. Categories unchanged. No new 10 or country multiplier. Representative GPS retained.
+
+| Current worldwide peer | I/U/S/E/D | Overall | Scope comparison |
+| --- | --- | --- | --- |
+| [Semmering Railway](../../../countries/AT/sights/semmering-railway.yaml) | 8.2 / 9.2 / 9.4 / 8.2 / 8.1 | 86.80/100 | Major industrial heritage reference of greater global technological significance. |
+| [Hallstatt Salt Mine](../../../countries/AT/sights/hallstatt-salt-mine.yaml) | 8.7 / 8.9 / 8.9 / 8.9 / 8.1 | 87.60/100 | Long interpreted industrial visit but different production process. |
+| [Paranapiacaba Railway Village](../../../countries/BR/sights/paranapiacaba-railway-village.yaml) | 7.8 / 8.5 / 8.5 / 7.9 / 7.4 | 80.90/100 | Smaller industrial settlement with less complete production chain. |
+| [Abila Archaeological Site](../../../countries/JO/sights/abila-archaeological-site.yaml) | 7.3 / 7.9 / 8.3 / 7.1 / 7.2 | 76.10/100 | Bounded archaeological site has lower interpretive breadth. |
+
+
+## Follow-up: sight-uy-church-of-atlantida-eladio-dieste — 2026-11-25 (worldwide review)
+
+- [YAML](../../../countries/UY/sights/church-of-atlantida-eladio-dieste.yaml) · Action: fact-check-only · **source-linked-unverified**: limited source claims checked; not comprehensive fact-check. Original decision above retained.
+- Sources inspected 2026-11-25: [https://whc.unesco.org/en/list/1612/](https://whc.unesco.org/en/list/1612/)
+- Decision: UNESCO confirms the single hall, undulating brick walls and innovative vaults. Distinguish engineering rarity from visitor duration: the 9.4 uniqueness and architecture are plausible while depth 6.6 is appropriate for a single church.
+- I/U/S/E/D: 8.5 / 9.4 / 9.1 / 8.1 / 6.6 → 8.5 / 9.4 / 9.1 / 8.1 / 6.6; total 85.95/100 → 85.95/100. Categories unchanged. No new 10 or country multiplier. Representative GPS retained.
+
+| Current worldwide peer | I/U/S/E/D | Overall | Scope comparison |
+| --- | --- | --- | --- |
+| [St. Stephen's Cathedral](../../../countries/AT/sights/st-stephens-cathedral.yaml) | 9.1 / 9.2 / 9.3 / 9.1 / 8.8 | 91.35/100 | Cathedral has greater architectural and historical breadth. |
+| [Salt Cathedral of Zipaquirá](../../../countries/CO/sights/salt-cathedral-of-zipaquira.yaml) | 8.9 / 9.4 / 8.5 / 8.6 / 7.8 | 87.90/100 | Unusual engineering and sacred space, deeper underground circuit. |
+| [Phat Diem Stone Cathedral](../../../countries/VN/sights/phat-diem-cathedral.yaml) | 8.6 / 9.3 / 9.0 / 8.9 / 8.4 | 88.80/100 | Strong fusion architecture with a broader compound. |
+| [St. Peter's Abbey Salzburg](../../../countries/AT/sights/st-peters-abbey-salzburg.yaml) | 8.1 / 8.5 / 9.1 / 8.2 / 7.8 | 83.85/100 | Smaller historic sacred experience, different engineering contribution. |
+

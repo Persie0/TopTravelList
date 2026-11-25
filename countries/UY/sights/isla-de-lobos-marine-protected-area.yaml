@@ -1,15 +1,15 @@
 id: sight-uy-isla-de-lobos-marine-protected-area
-name: "Isla de Lobos Marine Protected Area"
+name: Isla de Lobos Marine Protected Area
 location:
   country_code: UY
-  latitude: -35.0250
-  longitude: -54.8800
+  latitude: -35.025
+  longitude: -54.88
 scores:
   impact: 8.2
   uniqueness: 8.8
   significance: 8.8
   experience: 8.0
-  depth: 7.5
+  depth: 6.7
   categories:
     wildlife: 9.2
     nature: 9.0
