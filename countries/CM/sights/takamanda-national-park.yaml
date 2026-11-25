@@ -2,8 +2,8 @@ id: sight-cm-takamanda-national-park
 name: "Takamanda National Park"
 location:
   country_code: CM
-  latitude: 5.825
-  longitude: 8.84
+  latitude: 6.1594
+  longitude: 9.3488
 scores:
   impact: null
   uniqueness: 9.2
@@ -12,4 +12,4 @@ scores:
   depth: null
   categories:
     nature: 9.4
-    wildlife: 9.4
+    wildlife: null
