@@ -1,0 +1,15 @@
+id: sight-us-great-circle-earthworks
+name: "Great Circle Earthworks"
+location:
+  country_code: US
+  latitude: 40.041233
+  longitude: -82.430119
+scores:
+  impact: 8.1
+  uniqueness: 8.7
+  significance: 9.1
+  experience: 8.2
+  depth: 7.6
+  categories:
+    history: 9.3
+    culture: 9.0

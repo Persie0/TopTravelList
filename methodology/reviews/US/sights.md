@@ -1728,3 +1728,286 @@ Added named public sites for six outstanding cultural nominations. Four offshore
 
 ### Wright serial component coverage
 Seven of eight component buildings now have distinct public visitor YAML records. [Herbert and Katherine Jacobs House I](https://savewright.org/wright-on-the-world-heritage-list/) is a private home not open for tours; it is explicitly inventory-only, with no private address, pin or score. The serial property itself is not assigned an artificial nationwide visitor score.
+
+## sight-us-mound-city-group — Mound City Group — 2026-11-25
+
+- YAML: [source](../../../countries/US/sights/mound-city-group.yaml)
+- Action: new
+- Precise subject: Restored earthworks and public visitor center only; restoration distinguished from surviving original material.
+- Location check: 39.374061, -83.007261; NPS directions coordinates, converted from DMS.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Official site visitor/interpretive information](https://www.nps.gov/hocu/learn/historyculture/mound-city-group.htm); [NPS component list](https://www.nps.gov/hocu/learn/historyculture/hopewell-ceremonial-earthworks.htm?fullweb=1); [NPS visit planning](https://www.nps.gov/articles/000/plan-your-trip.htm); [NPS directions](https://www.nps.gov/hocu/planyourvisit/directions.htm); [UNESCO component maps](https://whc.unesco.org/en/list/1689/maps/) — reviewed 2026-11-25 for public visitor scope, identity and location provenance. Numeric score is editorial, not independent factual verification.
+- Missing or uncertain facts: Independent corroboration, current operating conditions and specific authorized visitor scope.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Angkor Wat](../../../countries/KH/sights/angkor-wat.yaml) | Less standing architecture than Angkor Wat |
+| [Machu Picchu](../../../countries/PE/sights/historic-sanctuary-of-machu-picchu.yaml) | less mountain drama than Machu Picchu |
+| [Caracol](../../../countries/BZ/sights/caracol-archaeological-reserve.yaml) | less surviving masonry than Caracol |
+| [Layou Petroglyph Park](../../../countries/VC/sights/layou-petroglyph-park.yaml) | broader interpreted landscape than Layou. |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.0 | Enclosed mound landscape |
+| Uniqueness | 8.6 | distinct reconstructed ceremonial mound group |
+| Significance | 9.1 | major Indigenous ceremonial heritage |
+| Experience | 8.4 | visitor center and interpreted trail |
+| Depth | 7.7 | compact site with multiple mounds. |
+
+- Applicable categories: history:9.3,culture:9.0.
+- Overall: 84.00/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional score for individually scoped public experience.
+- Earlier decision: None.
+- Verification still needed: Independent claim-level verification and current access confirmation.
+
+## sight-us-hopewell-mound-group — Hopewell Mound Group — 2026-11-25
+
+- YAML: [source](../../../countries/US/sights/hopewell-mound-group.yaml)
+- Action: new
+- Precise subject: Public walking trail and surviving earthwork landscape; no buried archaeology assumed visible.
+- Location check: 39.360644, -83.085736; NPS directions coordinates, converted from DMS.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Official site visitor/interpretive information](https://home.nps.gov/hocu/learn/historyculture/hopewell-mound-group.htm); [NPS component list](https://www.nps.gov/hocu/learn/historyculture/hopewell-ceremonial-earthworks.htm?fullweb=1); [NPS visit planning](https://www.nps.gov/articles/000/plan-your-trip.htm); [NPS directions](https://www.nps.gov/hocu/planyourvisit/directions.htm); [UNESCO component maps](https://whc.unesco.org/en/list/1689/maps/) — reviewed 2026-11-25 for public visitor scope, identity and location provenance. Numeric score is editorial, not independent factual verification.
+- Missing or uncertain facts: Independent corroboration, current operating conditions and specific authorized visitor scope.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Angkor Wat](../../../countries/KH/sights/angkor-wat.yaml) | Less monumentality than Angkor Wat |
+| [Machu Picchu](../../../countries/PE/sights/historic-sanctuary-of-machu-picchu.yaml) | less rugged scenery than Machu Picchu |
+| [Caracol](../../../countries/BZ/sights/caracol-archaeological-reserve.yaml) | less built fabric than Caracol |
+| [Layou Petroglyph Park](../../../countries/VC/sights/layou-petroglyph-park.yaml) | larger archaeological landscape than Layou. |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 7.6 | Broad earthen landscape |
+| Uniqueness | 8.5 | large ceremonial complex |
+| Significance | 9.0 | important Hopewell heritage |
+| Experience | 8.0 | interpreted walking route |
+| Depth | 7.6 | several features along trail. |
+
+- Applicable categories: history:9.2,culture:8.9.
+- Overall: 81.65/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional score for individually scoped public experience.
+- Earlier decision: None.
+- Verification still needed: Independent claim-level verification and current access confirmation.
+
+## sight-us-hopeton-earthworks — Hopeton Earthworks — 2026-11-25
+
+- YAML: [source](../../../countries/US/sights/hopeton-earthworks.yaml)
+- Action: new
+- Precise subject: Public overlook trail and surviving visible earthwork traces; no buried features assumed visible.
+- Location check: 39.37945, -82.984625; NPS directions coordinates, converted from DMS.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Official site visitor/interpretive information](https://www.nps.gov/hocu/learn/historyculture/hopeton-earthworks.htm); [NPS component list](https://www.nps.gov/hocu/learn/historyculture/hopewell-ceremonial-earthworks.htm?fullweb=1); [NPS visit planning](https://www.nps.gov/articles/000/plan-your-trip.htm); [NPS directions](https://www.nps.gov/hocu/planyourvisit/directions.htm); [UNESCO component maps](https://whc.unesco.org/en/list/1689/maps/) — reviewed 2026-11-25 for public visitor scope, identity and location provenance. Numeric score is editorial, not independent factual verification.
+- Missing or uncertain facts: Independent corroboration, current operating conditions and specific authorized visitor scope.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Angkor Wat](../../../countries/KH/sights/angkor-wat.yaml) | Less architectural impact than Angkor Wat |
+| [Machu Picchu](../../../countries/PE/sights/historic-sanctuary-of-machu-picchu.yaml) | less visual setting than Machu Picchu |
+| [Caracol](../../../countries/BZ/sights/caracol-archaeological-reserve.yaml) | less surviving built fabric than Caracol |
+| [Layou Petroglyph Park](../../../countries/VC/sights/layou-petroglyph-park.yaml) | broader geometric landscape than Layou. |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 7.3 | Subtle earthwork landscape |
+| Uniqueness | 8.4 | precise geometric forms |
+| Significance | 8.9 | major regional ceremonial archaeology |
+| Experience | 7.8 | permitted overlook walk |
+| Depth | 7.2 | limited visible remains. |
+
+- Applicable categories: history:9.1,culture:8.8.
+- Overall: 79.60/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional score for individually scoped public experience.
+- Earlier decision: None.
+- Verification still needed: Independent claim-level verification and current access confirmation.
+
+## sight-us-seip-earthworks — Seip Earthworks — 2026-11-25
+
+- YAML: [source](../../../countries/US/sights/seip-earthworks.yaml)
+- Action: new
+- Precise subject: Public earthwork and mound landscape only.
+- Location check: 39.242136, -83.221106; NPS directions coordinates, converted from DMS.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Official site visitor/interpretive information](https://www.nps.gov/hocu/planyourvisit/hours.htm); [NPS component list](https://www.nps.gov/hocu/learn/historyculture/hopewell-ceremonial-earthworks.htm?fullweb=1); [NPS visit planning](https://www.nps.gov/articles/000/plan-your-trip.htm); [NPS directions](https://www.nps.gov/hocu/planyourvisit/directions.htm); [UNESCO component maps](https://whc.unesco.org/en/list/1689/maps/) — reviewed 2026-11-25 for public visitor scope, identity and location provenance. Numeric score is editorial, not independent factual verification.
+- Missing or uncertain facts: Independent corroboration, current operating conditions and specific authorized visitor scope.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Angkor Wat](../../../countries/KH/sights/angkor-wat.yaml) | Less standing monumentality than Angkor Wat |
+| [Machu Picchu](../../../countries/PE/sights/historic-sanctuary-of-machu-picchu.yaml) | less topographic drama than Machu Picchu |
+| [Caracol](../../../countries/BZ/sights/caracol-archaeological-reserve.yaml) | less visible urban fabric than Caracol |
+| [Layou Petroglyph Park](../../../countries/VC/sights/layou-petroglyph-park.yaml) | larger earthen monument than Layou. |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 7.5 | Large mound in open landscape |
+| Uniqueness | 8.4 | distinct ceremonial geometry and mound tradition |
+| Significance | 8.9 | important Hopewell archaeological record |
+| Experience | 7.8 | public walking experience |
+| Depth | 7.0 | single compact circuit. |
+
+- Applicable categories: history:9.1,culture:8.8.
+- Overall: 80.00/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional score for individually scoped public experience.
+- Earlier decision: None.
+- Verification still needed: Independent claim-level verification and current access confirmation.
+
+## sight-us-octagon-earthworks — Octagon Earthworks — 2026-11-25
+
+- YAML: [source](../../../countries/US/sights/octagon-earthworks.yaml)
+- Action: new
+- Precise subject: Public geometric ceremonial earthworks and authorized tours; no unrestricted activity assumed.
+- Location check: 40.053657, -82.446061; UNESCO component central reference, rounded; not an entrance.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Official site visitor/interpretive information](https://hopewellearthworks.org/site/octagon-earthworks/); [NPS component list](https://www.nps.gov/hocu/learn/historyculture/hopewell-ceremonial-earthworks.htm?fullweb=1); [NPS visit planning](https://www.nps.gov/articles/000/plan-your-trip.htm); [NPS directions](https://www.nps.gov/hocu/planyourvisit/directions.htm); [UNESCO component maps](https://whc.unesco.org/en/list/1689/maps/) — reviewed 2026-11-25 for public visitor scope, identity and location provenance. Numeric score is editorial, not independent factual verification.
+- Missing or uncertain facts: Independent corroboration, current operating conditions and specific authorized visitor scope.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Angkor Wat](../../../countries/KH/sights/angkor-wat.yaml) | Less vertical monumentality than Angkor Wat |
+| [Machu Picchu](../../../countries/PE/sights/historic-sanctuary-of-machu-picchu.yaml) | less mountain setting than Machu Picchu |
+| [Caracol](../../../countries/BZ/sights/caracol-archaeological-reserve.yaml) | different astronomical landscape from Caracol |
+| [Layou Petroglyph Park](../../../countries/VC/sights/layou-petroglyph-park.yaml) | much greater geometric scale than Layou. |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.0 | Large precise earthwork forms |
+| Uniqueness | 9.0 | distinct octagonal and lunar-alignment landscape |
+| Significance | 9.2 | major ancient Indigenous engineering significance |
+| Experience | 8.2 | public walking and interpretation |
+| Depth | 7.7 | bounded geometrical complex. |
+
+- Applicable categories: history:9.4,culture:9.1.
+- Overall: 84.90/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional score for individually scoped public experience.
+- Earlier decision: None.
+- Verification still needed: Independent claim-level verification and current access confirmation.
+
+## sight-us-great-circle-earthworks — Great Circle Earthworks — 2026-11-25
+
+- YAML: [source](../../../countries/US/sights/great-circle-earthworks.yaml)
+- Action: new
+- Precise subject: Public Great Circle and associated museum; separate from Octagon.
+- Location check: 40.041233, -82.430119; UNESCO component central reference, rounded; not an entrance.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Official site visitor/interpretive information](https://hopewellearthworks.org/site/great-circle-earthworks/); [NPS component list](https://www.nps.gov/hocu/learn/historyculture/hopewell-ceremonial-earthworks.htm?fullweb=1); [NPS visit planning](https://www.nps.gov/articles/000/plan-your-trip.htm); [NPS directions](https://www.nps.gov/hocu/planyourvisit/directions.htm); [UNESCO component maps](https://whc.unesco.org/en/list/1689/maps/) — reviewed 2026-11-25 for public visitor scope, identity and location provenance. Numeric score is editorial, not independent factual verification.
+- Missing or uncertain facts: Independent corroboration, current operating conditions and specific authorized visitor scope.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Angkor Wat](../../../countries/KH/sights/angkor-wat.yaml) | Less stone architecture than Angkor Wat |
+| [Machu Picchu](../../../countries/PE/sights/historic-sanctuary-of-machu-picchu.yaml) | less dramatic topography than Machu Picchu |
+| [Caracol](../../../countries/BZ/sights/caracol-archaeological-reserve.yaml) | different monumental earthworks from Caracol |
+| [Layou Petroglyph Park](../../../countries/VC/sights/layou-petroglyph-park.yaml) | larger landscape than Layou. |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.1 | Impressive circular earthwork enclosure |
+| Uniqueness | 8.7 | distinct monumental geometric landscape |
+| Significance | 9.1 | major Indigenous ceremonial heritage |
+| Experience | 8.2 | museum and public walking |
+| Depth | 7.6 | one major enclosure and interpretation. |
+
+- Applicable categories: history:9.3,culture:9.0.
+- Overall: 84.15/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional score for individually scoped public experience.
+- Earlier decision: None.
+- Verification still needed: Independent claim-level verification and current access confirmation.
+
+## sight-us-fort-ancient-earthworks — Fort Ancient Earthworks — 2026-11-25
+
+- YAML: [source](../../../countries/US/sights/fort-ancient-earthworks.yaml)
+- Action: new
+- Precise subject: Public hilltop earthwork landscape and trails; no display of removed Indigenous artifacts assumed.
+- Location check: 39.40336, -84.092549; UNESCO component central reference, rounded; not an entrance.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Official site visitor/interpretive information](https://www.ohiohistory.org/visit/browse-historical-sites/fort-ancient-earthworks/); [NPS component list](https://www.nps.gov/hocu/learn/historyculture/hopewell-ceremonial-earthworks.htm?fullweb=1); [NPS visit planning](https://www.nps.gov/articles/000/plan-your-trip.htm); [NPS directions](https://www.nps.gov/hocu/planyourvisit/directions.htm); [UNESCO component maps](https://whc.unesco.org/en/list/1689/maps/) — reviewed 2026-11-25 for public visitor scope, identity and location provenance. Numeric score is editorial, not independent factual verification.
+- Missing or uncertain facts: Independent corroboration, current operating conditions and specific authorized visitor scope.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Angkor Wat](../../../countries/KH/sights/angkor-wat.yaml) | Less masonry than Angkor Wat |
+| [Machu Picchu](../../../countries/PE/sights/historic-sanctuary-of-machu-picchu.yaml) | different hilltop setting from Machu Picchu |
+| [Caracol](../../../countries/BZ/sights/caracol-archaeological-reserve.yaml) | less visible built urban fabric than Caracol |
+| [Layou Petroglyph Park](../../../countries/VC/sights/layou-petroglyph-park.yaml) | broader earthwork and trail landscape than Layou. |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.1 | Wooded hilltop enclosure and views |
+| Uniqueness | 8.8 | distinct large hilltop ceremonial engineering |
+| Significance | 9.1 | important ancient Indigenous landscape |
+| Experience | 8.2 | interpreted site and nature trails |
+| Depth | 8.0 | multiple features and walking routes. |
+
+- Applicable categories: history:9.3,culture:9.0,nature:8.5.
+- Overall: 84.80/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional score for individually scoped public experience.
+- Earlier decision: None.
+- Verification still needed: Independent claim-level verification and current access confirmation.
+
+## sight-us-aztec-ruins-national-monument — Aztec Ruins National Monument — 2026-11-25
+
+- YAML: [source](../../../countries/US/sights/aztec-ruins-national-monument.yaml)
+- Action: new
+- Precise subject: Public Chacoan great-house archaeological site and authorized interpreted areas; reconstructed features distinguished from original.
+- Location check: 36.834585, -108.000257; NPS published event site reference point; not surveyed ruin center.
+- Evidence status: **source-linked-unverified**
+- Evidence: [Official site visitor/interpretive information](https://www.nps.gov/azru/planyourvisit/basicinfo.htm); [NPS Chaco serial property](https://www.nps.gov/chcu/learn/historyculture/worldheritage.htm); [NPS public site coordinate](https://www.nps.gov/planyourvisit/event-details.htm?id=1B229033-EAF8-760F-C7ADEC8C0E229ED7) — reviewed 2026-11-25 for public visitor scope, identity and location provenance. Numeric score is editorial, not independent factual verification.
+- Missing or uncertain facts: Independent corroboration, current operating conditions and specific authorized visitor scope.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Angkor Wat](../../../countries/KH/sights/angkor-wat.yaml) | Less monumental than Angkor Wat |
+| [Machu Picchu](../../../countries/PE/sights/historic-sanctuary-of-machu-picchu.yaml) | less mountain drama than Machu Picchu |
+| [Caracol](../../../countries/BZ/sights/caracol-archaeological-reserve.yaml) | different great-house architecture from Caracol |
+| [Layou Petroglyph Park](../../../countries/VC/sights/layou-petroglyph-park.yaml) | greater built depth than Layou. |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.3 | Substantial masonry rooms and great house |
+| Uniqueness | 8.8 | distinct northern Chacoan architecture |
+| Significance | 9.1 | important Ancestral Pueblo heritage |
+| Experience | 8.5 | public interpreted archaeological trail |
+| Depth | 8.1 | several rooms and linked spaces. |
+
+- Applicable categories: history:9.3,architecture:9.0,culture:8.9.
+- Overall: 85.95/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional score for individually scoped public experience.
+- Earlier decision: None.
+- Verification still needed: Independent claim-level verification and current access confirmation.
+
+### Hopewell and Chaco component follow-up
+All eight Hopewell components are now accounted for: seven individual visitor records plus High Bank Works, which NPS does not list among the seven ordinary public sites. High Bank remains inventory-only without a visitor pin or score. Aztec Ruins added as a distinct public Chaco Culture component. Other NPS-named Chaco components (Pierre’s site, Halfway House, Twin Angels, Salmon Ruins, Kin Nizhoni, Casamero) are documented at [NPS](https://www.nps.gov/chcu/learn/historyculture/worldheritage.htm); separate public visitor scope and location validation remain outstanding. No sensitive coordinates inferred.
