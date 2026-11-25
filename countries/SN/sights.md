@@ -2,7 +2,7 @@
 
 # Senegal (SN) — Sights & attractions ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**15 ranked** · **6 unassessed** · **21 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,11 +10,38 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (15)
 
-No sights & attractions have been assessed for **Senegal** yet.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Island of Gorée](sights/goree-island.yaml) | Island | **92.10** | **History 9.6**, **Culture 9.4**, **Architecture 9.0** | 9.1 / 9.3 / 9.6 / 9.1 / 8.7 | [14.66722, -17.40083](https://www.google.com/maps/search/?api=1&query=14.66722,-17.40083) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Island%20of%20Gor%C3%A9e%2C%20Senegal) |
+| 2 | [Saloum Delta](sights/saloum-delta.yaml) | Attraction | **91.95** | **Nature 9.4**, **Culture 9.2**, **Wildlife 9.1** | 9.1 / 9.3 / 9.4 / 9.0 / 9.1 | [13.835278, -16.498611](https://www.google.com/maps/search/?api=1&query=13.835278,-16.498611) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Saloum%20Delta%2C%20Senegal) |
+| 3 | [Djoudj National Bird Sanctuary](sights/djoudj-bird-sanctuary.yaml) | Park / reserve | **91.50** | **Wildlife 9.6**, **Nature 9.4**, **Photography 9.2** | 9.2 / 9.2 / 9.4 / 9.0 / 8.6 | [16.414602, -16.237906](https://www.google.com/maps/search/?api=1&query=16.414602,-16.237906) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Djoudj%20National%20Bird%20Sanctuary%2C%20Senegal) |
+| 4 | [Bédik–Bandafassi Cultural Landscape](sights/bedik-bandafassi.yaml) | Coast | **89.90** | **Culture 9.4**, **Architecture 9.0**, **Photography 9.0** | 8.9 / 9.3 / 9.2 / 8.7 / 8.5 | [12.565833, -12.433056](https://www.google.com/maps/search/?api=1&query=12.565833,-12.433056) | [Google Maps](https://www.google.com/maps/search/?api=1&query=B%C3%A9dik%E2%80%93Bandafassi%20Cultural%20Landscape%2C%20Senegal) |
+| 5 | [Niokolo-Koba National Park](sights/niokolo-koba-national-park.yaml) | Park / reserve | **89.10** | **Wildlife 9.4**, **Nature 9.3** | 8.8 / 9.0 / 9.4 / 8.4 / 8.8 | [13.006, -13.004](https://www.google.com/maps/search/?api=1&query=13.006,-13.004) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Niokolo-Koba%20National%20Park%2C%20Senegal) |
+| 6 | [Island of Saint-Louis](sights/saint-louis-island.yaml) | Island | **88.95** | **History 9.3**, **Architecture 9.2**, **Culture 8.8** | 8.8 / 9.0 / 9.2 / 8.7 / 8.6 | [16.02778, -16.504](https://www.google.com/maps/search/?api=1&query=16.02778,-16.504) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Island%20of%20Saint-Louis%2C%20Senegal) |
+| 7 | [Great Mosque of Touba](sights/great-mosque-touba.yaml) | Religious site | **88.70** | **Architecture 9.3**, **Culture 9.3**, **History 9.0** | 9.1 / 8.9 / 9.2 / 8.5 / 8.0 | [14.86306, -15.87556](https://www.google.com/maps/search/?api=1&query=14.86306,-15.87556) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Great%20Mosque%20of%20Touba%2C%20Senegal) |
+| 8 | [Fula–Dindéfello Cultural Landscape](sights/fula-dindefello.yaml) | Coast | **88.55** | **Culture 9.2**, **Nature 8.9** | 8.8 / 9.0 / 9.1 / 8.7 / 8.4 | [12.363889, -12.338611](https://www.google.com/maps/search/?api=1&query=12.363889,-12.338611) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Fula%E2%80%93Dind%C3%A9fello%20Cultural%20Landscape%2C%20Senegal) |
+| 9 | [Bassari–Salémata Cultural Landscape](sights/bassari-salemata.yaml) | Coast | **88.45** | **Culture 9.3**, **History 9.0**, **Nature 8.6** | 8.6 / 9.2 / 9.2 / 8.5 / 8.5 | [12.593333, -12.845833](https://www.google.com/maps/search/?api=1&query=12.593333,-12.845833) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bassari%E2%80%93Sal%C3%A9mata%20Cultural%20Landscape%2C%20Senegal) |
+| 10 | [Bandial Kingdom Impluvium Houses](sights/bandial-impluvium-houses.yaml) | Attraction | **85.80** | **Architecture 9.3**, **Culture 9.1** | 8.4 / 9.1 / 8.7 / 8.5 / 7.7 | [12.579333, -16.28175](https://www.google.com/maps/search/?api=1&query=12.579333,-16.28175) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bandial%20Kingdom%20Impluvium%20Houses%2C%20Senegal) |
+| 11 | [Sine Ngayène Stone Circles](sights/sine-ngayene-stone-circles.yaml) | Attraction | **85.75** | **History 9.3**, **Culture 8.8** | 8.3 / 9.0 / 9.2 / 8.1 / 7.8 | [13.695281, -15.5353](https://www.google.com/maps/search/?api=1&query=13.695281,-15.5353) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sine%20Ngay%C3%A8ne%20Stone%20Circles%2C%20Senegal) |
+| 12 | [Wanar Stone Circles](sights/wanar-stone-circles.yaml) | Attraction | **84.55** | **History 9.2**, **Culture 8.8** | 8.2 / 8.9 / 9.1 / 8.0 / 7.5 | [13.856411, -15.617764](https://www.google.com/maps/search/?api=1&query=13.856411,-15.617764) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Wanar%20Stone%20Circles%2C%20Senegal) |
+| 13 | [Lake Retba (Lac Rose)](sights/lake-retba.yaml) | Lake | **84.50** | **Photography 9.0**, **Nature 8.9**, **Culture 8.0** | 8.7 / 8.9 / 7.8 / 8.5 / 7.8 | [14.8383, -17.2448](https://www.google.com/maps/search/?api=1&query=14.8383,-17.2448) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lake%20Retba%20%28Lac%20Rose%29%2C%20Senegal) |
+| 14 | [African Renaissance Monument](sights/african-renaissance-monument.yaml) | Attraction | **84.35** | **Photography 8.9**, **Architecture 8.7** | 8.8 / 8.5 / 8.1 / 8.6 / 7.6 | [14.72222, -17.495](https://www.google.com/maps/search/?api=1&query=14.72222,-17.495) | [Google Maps](https://www.google.com/maps/search/?api=1&query=African%20Renaissance%20Monument%2C%20Senegal) |
+| 15 | [Dindéfelo Falls](sights/dindefelo-falls.yaml) | Waterfall | **81.30** | **Photography 8.8**, **Nature 8.7** | 8.5 / 8.1 / 7.6 / 8.5 / 7.6 | [12.3697, -12.3236](https://www.google.com/maps/search/?api=1&query=12.3697,-12.3236) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Dind%C3%A9felo%20Falls%2C%20Senegal) |
 
-Add destination YAML files in [sights/](sights/), then regenerate the overview files.
+## Not yet fully assessed (6)
+
+These destinations have no rank until all five core scores are assessed.
+
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| — | [Aéropostale Heritage](sights/aeropostale-heritage.yaml) | Attraction | **—** | **History 8.9** | — / 8.4 / 8.7 / — / — | [16.018056, -16.490472](https://www.google.com/maps/search/?api=1&query=16.018056,-16.490472) | [Google Maps](https://www.google.com/maps/search/?api=1&query=A%C3%A9ropostale%20Heritage%2C%20Senegal) |
+| — | [Carabane Island](sights/carabane-island.yaml) | Island | **—** | **History 8.8**, **Nature 8.5** | 8.1 / 8.5 / 8.6 / — / — | [12.488722, -16.548167](https://www.google.com/maps/search/?api=1&query=12.488722,-16.548167) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Carabane%20Island%2C%20Senegal) |
+| — | [Cekeen Burial Mounds](sights/cekeen-tumuli.yaml) | Attraction | **—** | **History 9.0** | — / 8.6 / 8.9 / — / — | [14.7, -15.95](https://www.google.com/maps/search/?api=1&query=14.7,-15.95) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cekeen%20Burial%20Mounds%2C%20Senegal) |
+| — | [Madeleine Islands National Park](sights/madeleine-islands-national-park.yaml) | Park / reserve | **—** | **Nature 8.9**, **Wildlife 8.7** | 8.5 / 8.8 / 8.4 / — / — | [14.654722, -17.4725](https://www.google.com/maps/search/?api=1&query=14.654722,-17.4725) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Madeleine%20Islands%20National%20Park%2C%20Senegal) |
+| — | [Old Rufisque](sights/old-rufisque.yaml) | Attraction | **—** | **History 8.7**, **Architecture 8.4** | 7.7 / 8.1 / 8.5 / — / — | [14.684194, -17.186639](https://www.google.com/maps/search/?api=1&query=14.684194,-17.186639) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Old%20Rufisque%2C%20Senegal) |
+| — | [Senegal River Historic Trading Posts](sights/senegal-river-trading-posts.yaml) | River / waterway | **—** | **History 9.1** | — / 8.7 / 9.0 / — / — | [16.617, -15.033](https://www.google.com/maps/search/?api=1&query=16.617,-15.033) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Senegal%20River%20Historic%20Trading%20Posts%2C%20Senegal) |
 
 ---
 
