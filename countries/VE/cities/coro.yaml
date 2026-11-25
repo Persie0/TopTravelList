@@ -1,0 +1,16 @@
+id: city-ve-coro
+name: "Coro"
+location:
+  country_code: VE
+  latitude: 11.4110
+  longitude: -69.6734
+scores:
+  impact: 8.0
+  uniqueness: 8.6
+  significance: 8.9
+  experience: 7.7
+  depth: 7.3
+  categories:
+    architecture: 9.1
+    history: 9.2
+    culture: 8.5

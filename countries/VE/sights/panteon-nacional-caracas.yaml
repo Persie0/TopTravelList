@@ -1,0 +1,15 @@
+id: sight-ve-panteon-nacional-caracas
+name: "Panteón Nacional (Caracas)"
+location:
+  country_code: VE
+  latitude: 10.5120
+  longitude: -66.9110
+scores:
+  impact: 7.8
+  uniqueness: 8.0
+  significance: 8.9
+  experience: 7.7
+  depth: 7.2
+  categories:
+    history: 9.3
+    architecture: 8.5

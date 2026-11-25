@@ -1,0 +1,16 @@
+id: city-ve-cumana
+name: "Cumaná"
+location:
+  country_code: VE
+  latitude: 10.4635
+  longitude: -64.1775
+scores:
+  impact: 7.6
+  uniqueness: 8.0
+  significance: 8.5
+  experience: 7.5
+  depth: 7.3
+  categories:
+    history: 9.0
+    architecture: 8.3
+    culture: 8.2
