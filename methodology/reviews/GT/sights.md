@@ -985,3 +985,76 @@ Initial inventory, not exhaustive. [UNESCO country list](https://whc.unesco.org/
 - Final decision: Provisional editorial assessment of named scope.
 - Earlier decision: none.
 - Verification still needed: Independent source and geographic verification.
+
+## sight-gt-sierra-de-las-minas — Sierra de las Minas Biosphere Reserve — 2026-11-25
+
+- YAML: [source](../../../countries/GT/sights/sierra-de-las-minas.yaml)
+- Action: new
+- Precise subject: Broad protected mountain region reference, ordinary permitted route not established.
+- Location check: 15.18, -89.90; approximate representative point, not a surveyed entrance; independent check outstanding.
+- Evidence status: **unassessed**
+- Evidence: [UNESCO World Heritage Centre](https://whc.unesco.org/en/tentativelists/1765/) — nomination identity and scope linked; country inventory checked 2026-11-25. Does not verify all claims, current access or coordinates.
+- Missing or uncertain facts: Permitted ordinary itinerary, exact representative geography.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Torres del Paine](../../../countries/CL/sights/torres-del-paine-national-park.yaml) | Ordinary visitor scope not established relative to Torres del Paine; protected-area status alone is insufficient. |
+| [Cockscomb](../../../countries/BZ/sights/cockscomb-basin-wildlife-sanctuary.yaml) | Ordinary visitor scope not established relative to Cockscomb; protected-area status alone is insufficient. |
+| [Main Ridge](../../../countries/TT/sights/tobago-main-ridge-forest-reserve.yaml) | Ordinary visitor scope not established relative to Main Ridge; protected-area status alone is insufficient. |
+| [Des Cartiers](../../../countries/LC/sights/des-cartiers-rainforest-trail.yaml) | Ordinary visitor scope not established relative to Des Cartiers; protected-area status alone is insufficient. |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | null | visible route scope unresolved |
+| Uniqueness | null | cloud forest and altitudinal habitats |
+| Significance | null | important biodiversity heritage |
+| Experience | null | permission and current access unconfirmed |
+| Depth | null | whole reserve circuit unknown |
+
+- Applicable categories: unassessed.
+- Overall: unranked.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Retain unranked pending permitted ordinary visitor evidence.
+- Earlier decision: none.
+- Verification still needed: Site-specific access and geography.
+
+## sight-gt-sierra-del-lacandon — Sierra del Lacandón National Park — 2026-11-25
+
+- YAML: [source](../../../countries/GT/sights/sierra-del-lacandon.yaml)
+- Action: new
+- Precise subject: Broad protected forest and river landscape reference; not sensitive site coordinates.
+- Location check: 17.0, -90.8; approximate representative point, not a surveyed entrance; independent check outstanding.
+- Evidence status: **unassessed**
+- Evidence: [UNESCO World Heritage Centre](https://whc.unesco.org/en/tentativelists/1766/) — nomination identity and scope linked; country inventory checked 2026-11-25. Does not verify all claims, current access or coordinates.
+- Missing or uncertain facts: Permitted ordinary itinerary, exact representative geography.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Torres del Paine](../../../countries/CL/sights/torres-del-paine-national-park.yaml) | Ordinary visitor scope not established relative to Torres del Paine; protected-area status alone is insufficient. |
+| [Cockscomb](../../../countries/BZ/sights/cockscomb-basin-wildlife-sanctuary.yaml) | Ordinary visitor scope not established relative to Cockscomb; protected-area status alone is insufficient. |
+| [Main Ridge](../../../countries/TT/sights/tobago-main-ridge-forest-reserve.yaml) | Ordinary visitor scope not established relative to Main Ridge; protected-area status alone is insufficient. |
+| [Des Cartiers](../../../countries/LC/sights/des-cartiers-rainforest-trail.yaml) | Ordinary visitor scope not established relative to Des Cartiers; protected-area status alone is insufficient. |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | null | ordinary visible scope uncertain |
+| Uniqueness | null | forest and river habitats |
+| Significance | null | major regional conservation context |
+| Experience | null | permitted visitor routes unresolved |
+| Depth | null | no whole park visitor circuit verified |
+
+- Applicable categories: unassessed.
+- Overall: unranked.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Retain unranked pending permitted ordinary visitor evidence.
+- Earlier decision: none.
+- Verification still needed: Site-specific access and geography.
+
+### Tentative coverage update
+Added Sierra de las Minas and Sierra del Lacandón unranked. Remaining 11 tentative route/ensemble nominations are listed in the opening inventory; no aggregate destination rating or arbitrary point is assigned. Individual components still need separate scope research.
