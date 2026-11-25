@@ -1,0 +1,13 @@
+id: sight-sb-bauro-highlands
+name: "Bauro Highlands"
+location:
+  country_code: SB
+  latitude: -10.63333
+  longitude: 161.9
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}

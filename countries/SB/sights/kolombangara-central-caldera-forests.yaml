@@ -1,0 +1,13 @@
+id: sight-sb-kolombangara-central-caldera-forests
+name: "Kolombangara Central Caldera Forests"
+location:
+  country_code: SB
+  latitude: -7.96667
+  longitude: 157.06667
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}

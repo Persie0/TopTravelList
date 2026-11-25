@@ -1,0 +1,13 @@
+id: sight-sb-mount-maetambe-region
+name: "Mount Maetambe Region"
+location:
+  country_code: SB
+  latitude: -7.13333
+  longitude: 156.95
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}

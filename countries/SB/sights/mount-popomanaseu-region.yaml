@@ -1,0 +1,13 @@
+id: sight-sb-mount-popomanaseu-region
+name: "Mount Popomanaseu Region"
+location:
+  country_code: SB
+  latitude: -9.7
+  longitude: 159.93333
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}

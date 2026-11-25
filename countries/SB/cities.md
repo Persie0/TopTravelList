@@ -2,7 +2,7 @@
 
 # Solomon Islands (SB) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**5 ranked** · **4 unassessed** · **9 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,26 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (5)
 
-No cities, towns & villages have been assessed for **Solomon Islands** yet.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Honiara](cities/honiara.yaml) | City / town | **73.90** | **History 8.1**, **Culture 8.0**, **Food 7.5** | 6.8 / 7.6 / 7.9 / 7.6 / 7.3 | [-9.43333, 159.95](https://www.google.com/maps/search/?api=1&query=-9.43333,159.95) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Honiara%2C%20Solomon%20Islands) |
+| 2 | [Gizo](cities/gizo.yaml) | City / town | **71.05** | **Culture 7.7**, **Photography 7.3**, **Food 7.2** | 7.0 / 7.5 / 6.7 / 7.4 / 6.8 | [-8.10303, 156.84186](https://www.google.com/maps/search/?api=1&query=-8.10303,156.84186) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Gizo%2C%20Solomon%20Islands) |
+| 2 | [Tulagi](cities/tulagi.yaml) | City / town | **71.05** | **History 8.0**, **Culture 7.1** | 6.7 / 7.5 / 7.8 / 6.8 / 6.4 | [-9.10306, 160.15056](https://www.google.com/maps/search/?api=1&query=-9.10306,160.15056) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tulagi%2C%20Solomon%20Islands) |
+| 4 | [Munda](cities/munda.yaml) | City / town | **69.20** | **History 7.5**, **Culture 7.4** | 6.6 / 7.3 / 7.0 / 7.1 / 6.5 | [-8.32799, 157.26652](https://www.google.com/maps/search/?api=1&query=-8.32799,157.26652) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Munda%2C%20Solomon%20Islands) |
+| 5 | [Auki](cities/auki.yaml) | City / town | **65.15** | **Culture 7.3** | 6.2 / 6.9 / 6.5 / 6.8 / 6.1 | [-8.76778, 160.69778](https://www.google.com/maps/search/?api=1&query=-8.76778,160.69778) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Auki%2C%20Solomon%20Islands) |
 
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+## Not yet fully assessed (4)
+
+These destinations have no rank until all five core scores are assessed.
+
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| — | [Buala](cities/buala.yaml) | City / town | **—** | — | — / — / — / — / — | [-8.14497, 159.59212](https://www.google.com/maps/search/?api=1&query=-8.14497,159.59212) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Buala%2C%20Solomon%20Islands) |
+| — | [Kirakira](cities/kirakira.yaml) | City / town | **—** | — | — / — / — / — / — | [-10.45442, 161.92045](https://www.google.com/maps/search/?api=1&query=-10.45442,161.92045) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kirakira%2C%20Solomon%20Islands) |
+| — | [Lata](cities/lata.yaml) | City / town | **—** | — | — / — / — / — / — | [-10.725, 165.79722](https://www.google.com/maps/search/?api=1&query=-10.725,165.79722) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lata%2C%20Solomon%20Islands) |
+| — | [Noro](cities/noro.yaml) | City / town | **—** | — | — / — / — / — / — | [-8.22274, 157.19978](https://www.google.com/maps/search/?api=1&query=-8.22274,157.19978) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Noro%2C%20Solomon%20Islands) |
 
 ---
 

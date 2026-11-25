@@ -1,0 +1,13 @@
+id: city-sb-lata
+name: "Lata"
+location:
+  country_code: SB
+  latitude: -10.725
+  longitude: 165.79722
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}
