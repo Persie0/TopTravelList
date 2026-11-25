@@ -1,0 +1,16 @@
+id: sight-io-peros-banhos
+name: "Peros Banhos Atoll"
+location:
+  country_code: IO
+  latitude: -5.333
+  longitude: 71.85
+scores:
+  impact: null
+  uniqueness: 8.9
+  significance: 9.1
+  experience: null
+  depth: null
+  categories:
+    nature: 8.9
+    wildlife: 8.9
+    history: 9.0
