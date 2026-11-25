@@ -1,0 +1,16 @@
+id: sight-eg-karnak
+name: "Karnak Temple Complex"
+location:
+  country_code: EG
+  latitude: 25.7188
+  longitude: 32.6573
+scores:
+  impact: 9.9
+  uniqueness: 9.8
+  significance: 9.9
+  experience: 9.6
+  depth: 9.7
+  categories:
+    architecture: 9.9
+    history: 9.9
+    photography: 9.7

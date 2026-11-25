@@ -1,0 +1,17 @@
+id: city-eg-cairo
+name: "Cairo"
+location:
+  country_code: EG
+  latitude: 30.0444
+  longitude: 31.2357
+scores:
+  impact: 9.2
+  uniqueness: 9.3
+  significance: 9.6
+  experience: 8.9
+  depth: 9.5
+  categories:
+    architecture: 9.4
+    history: 9.6
+    culture: 9.5
+    food: 9.0

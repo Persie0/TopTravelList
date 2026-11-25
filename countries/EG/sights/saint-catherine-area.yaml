@@ -1,0 +1,17 @@
+id: sight-eg-saint-catherine-area
+name: "Saint Catherine Area"
+location:
+  country_code: EG
+  latitude: 28.556
+  longitude: 33.976
+scores:
+  impact: 9.2
+  uniqueness: 9.4
+  significance: 9.5
+  experience: 8.7
+  depth: 9.0
+  categories:
+    nature: 9.2
+    history: 9.5
+    culture: 9.4
+    adventure: 9.1
