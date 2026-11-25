@@ -1,0 +1,16 @@
+id: city-br-sao-luis
+name: "São Luís"
+location:
+  country_code: BR
+  latitude: -2.5307
+  longitude: -44.3068
+scores:
+  impact: 8.3
+  uniqueness: 8.8
+  significance: 8.9
+  experience: 7.8
+  depth: 8.1
+  categories:
+    architecture: 9.2
+    history: 9.2
+    culture: 9.0

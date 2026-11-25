@@ -1,0 +1,16 @@
+id: sight-ad-estanys-de-pessons
+name: "Estanys de Pessons"
+location:
+  country_code: AD
+  latitude: 42.5190
+  longitude: 1.6770
+scores:
+  impact: 8.4
+  uniqueness: 8.3
+  significance: 7.3
+  experience: 8.5
+  depth: 8.1
+  categories:
+    nature: 9.0
+    photography: 9.1
+    adventure: 8.8

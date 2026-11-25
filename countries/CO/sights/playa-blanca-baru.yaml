@@ -1,0 +1,16 @@
+id: sight-co-playa-blanca-baru
+name: "Playa Blanca (Barú)"
+location:
+  country_code: CO
+  latitude: 10.2200
+  longitude: -75.6120
+scores:
+  impact: 8.3
+  uniqueness: 7.7
+  significance: 6.1
+  experience: 7.7
+  depth: 6.8
+  categories:
+    beaches: 8.8
+    relaxation: 8.2
+    photography: 8.4

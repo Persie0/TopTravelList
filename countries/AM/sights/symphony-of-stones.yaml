@@ -1,0 +1,15 @@
+id: sight-am-symphony-of-stones
+name: "Symphony of Stones"
+location:
+  country_code: AM
+  latitude: 40.109
+  longitude: 44.73
+scores:
+  impact: 9.3
+  uniqueness: 9.2
+  significance: 7.8
+  experience: 8.9
+  depth: 7.4
+  categories:
+    nature: 9.3
+    photography: 9.5

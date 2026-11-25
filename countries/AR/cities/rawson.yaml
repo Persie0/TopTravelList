@@ -1,0 +1,15 @@
+id: city-ar-rawson
+name: "Rawson"
+location:
+  country_code: AR
+  latitude: -43.3000
+  longitude: -65.1023
+scores:
+  impact: 6.2
+  uniqueness: 6.9
+  significance: 6.5
+  experience: 6.9
+  depth: 6.2
+  categories:
+    culture: 7.4
+    history: 7.3

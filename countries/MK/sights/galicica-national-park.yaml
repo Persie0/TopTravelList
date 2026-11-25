@@ -1,0 +1,16 @@
+id: sight-mk-galicica-national-park
+name: "Galičica National Park"
+location:
+  country_code: MK
+  latitude: 40.9910
+  longitude: 20.8500
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 8.6
+  experience: 8.8
+  depth: 8.9
+  categories:
+    nature: 9.3
+    adventure: 9.2
+    photography: 9.4

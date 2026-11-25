@@ -1,0 +1,15 @@
+id: sight-pa-pipeline-road-soberania
+name: "Pipeline Road (Soberanía)"
+location:
+  country_code: PA
+  latitude: 9.153
+  longitude: -79.730
+scores:
+  impact: 8.4
+  uniqueness: 8.9
+  significance: 8.5
+  experience: 8.7
+  depth: 7.7
+  categories:
+    wildlife: 9.4
+    nature: 9.0

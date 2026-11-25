@@ -1,0 +1,16 @@
+id: sight-rw-mount-muhabura
+name: "Mount Muhabura"
+location:
+  country_code: RW
+  latitude: -1.3830
+  longitude: 29.6780
+scores:
+  impact: 8.7
+  uniqueness: 8.4
+  significance: 7.7
+  experience: 8.5
+  depth: 7.6
+  categories:
+    nature: 8.8
+    adventure: 9.0
+    photography: 9.0

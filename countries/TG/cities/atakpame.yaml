@@ -1,0 +1,15 @@
+id: city-tg-atakpame
+name: "Atakpamé"
+location:
+  country_code: TG
+  latitude: 7.5333
+  longitude: 1.1333
+scores:
+  impact: 7.2
+  uniqueness: 7.5
+  significance: 7.1
+  experience: 7.6
+  depth: 6.8
+  categories:
+    photography: 8.1
+    culture: 8.0

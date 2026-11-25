@@ -1,0 +1,14 @@
+id: sight-sr-readytex-art-gallery
+name: "Readytex Art Gallery"
+location:
+  country_code: SR
+  latitude: 5.8240
+  longitude: -55.1575
+scores:
+  impact: 7.2
+  uniqueness: 7.4
+  significance: 7.5
+  experience: 7.7
+  depth: 7.0
+  categories:
+    culture: 8.3

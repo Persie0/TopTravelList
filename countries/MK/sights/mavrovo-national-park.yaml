@@ -1,0 +1,16 @@
+id: sight-mk-mavrovo-national-park
+name: "Mavrovo National Park"
+location:
+  country_code: MK
+  latitude: 41.7030
+  longitude: 20.6350
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 8.5
+  experience: 8.8
+  depth: 9.0
+  categories:
+    nature: 9.3
+    adventure: 9.2
+    photography: 9.2

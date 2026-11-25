@@ -1,0 +1,15 @@
+id: city-sr-moengo
+name: "Moengo"
+location:
+  country_code: SR
+  latitude: 5.6000
+  longitude: -54.4000
+scores:
+  impact: 6.8
+  uniqueness: 7.7
+  significance: 7.6
+  experience: 7.2
+  depth: 6.6
+  categories:
+    culture: 8.2
+    history: 7.9

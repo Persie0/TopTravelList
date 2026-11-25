@@ -1,0 +1,16 @@
+id: sight-gy-dadanawa-ranch
+name: "Dadanawa Ranch"
+location:
+  country_code: GY
+  latitude: 2.8167
+  longitude: -59.5167
+scores:
+  impact: 7.7
+  uniqueness: 8.2
+  significance: 7.5
+  experience: 8.0
+  depth: 7.6
+  categories:
+    culture: 8.2
+    wildlife: 8.3
+    adventure: 8.0

@@ -1,0 +1,16 @@
+id: city-bj-abomey
+name: "Abomey"
+location:
+  country_code: BJ
+  latitude: 7.1850
+  longitude: 1.9910
+scores:
+  impact: 7.5
+  uniqueness: 8.6
+  significance: 9.0
+  experience: 7.9
+  depth: 7.6
+  categories:
+    history: 9.4
+    culture: 9.1
+    architecture: 8.6

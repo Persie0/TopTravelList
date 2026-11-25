@@ -1,0 +1,17 @@
+id: sight-br-paraty-and-ilha-grande-culture-and-biodiversity
+name: "Paraty and Ilha Grande – Culture and Biodiversity"
+location:
+  country_code: BR
+  latitude: -23.2200
+  longitude: -44.5000
+scores:
+  impact: 9.3
+  uniqueness: 9.3
+  significance: 9.4
+  experience: 8.8
+  depth: 9.2
+  categories:
+    nature: 9.6
+    culture: 9.4
+    history: 9.3
+    photography: 9.6

@@ -1,0 +1,15 @@
+id: city-hn-puerto-cortes
+name: "Puerto Cortés"
+location:
+  country_code: HN
+  latitude: 15.8500
+  longitude: -87.9440
+scores:
+  impact: 6.5
+  uniqueness: 6.8
+  significance: 7.0
+  experience: 7.3
+  depth: 7.0
+  categories:
+    food: 7.6
+    relaxation: 7.4

@@ -1,0 +1,15 @@
+id: sight-xk-national-museum-of-kosovo
+name: "National Museum of Kosovo"
+location:
+  country_code: XK
+  latitude: 42.6662
+  longitude: 21.1658
+scores:
+  impact: 7.7
+  uniqueness: 8.1
+  significance: 8.5
+  experience: 8.2
+  depth: 7.9
+  categories:
+    history: 8.9
+    culture: 8.8

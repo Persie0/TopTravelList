@@ -1,0 +1,15 @@
+id: sight-bw-botswana-national-museum
+name: "Botswana National Museum"
+location:
+  country_code: BW
+  latitude: -24.6580
+  longitude: 25.9160
+scores:
+  impact: 6.8
+  uniqueness: 7.6
+  significance: 8.4
+  experience: 7.6
+  depth: 7.1
+  categories:
+    history: 8.8
+    culture: 8.6

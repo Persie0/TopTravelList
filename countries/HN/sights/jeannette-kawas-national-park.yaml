@@ -1,0 +1,16 @@
+id: sight-hn-jeannette-kawas-national-park
+name: "Jeannette Kawas National Park"
+location:
+  country_code: HN
+  latitude: 15.8300
+  longitude: -87.6500
+scores:
+  impact: 8.5
+  uniqueness: 8.6
+  significance: 8.9
+  experience: 8.5
+  depth: 8.4
+  categories:
+    nature: 9.1
+    wildlife: 9.1
+    photography: 8.6

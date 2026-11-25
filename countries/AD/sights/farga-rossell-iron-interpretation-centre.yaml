@@ -1,0 +1,15 @@
+id: sight-ad-farga-rossell-iron-interpretation-centre
+name: "Farga Rossell Iron Interpretation Centre"
+location:
+  country_code: AD
+  latitude: 42.5440
+  longitude: 1.5175
+scores:
+  impact: 7.5
+  uniqueness: 8.3
+  significance: 8.4
+  experience: 8.3
+  depth: 7.3
+  categories:
+    history: 8.9
+    culture: 8.7

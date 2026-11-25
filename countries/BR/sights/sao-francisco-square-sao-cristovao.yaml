@@ -1,0 +1,16 @@
+id: sight-br-sao-francisco-square-sao-cristovao
+name: "São Francisco Square (São Cristóvão)"
+location:
+  country_code: BR
+  latitude: -11.0140
+  longitude: -37.2060
+scores:
+  impact: 7.7
+  uniqueness: 8.4
+  significance: 9.0
+  experience: 8.0
+  depth: 6.8
+  categories:
+    architecture: 9.1
+    history: 9.3
+    culture: 8.5

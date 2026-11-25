@@ -1,0 +1,16 @@
+id: city-br-goiania
+name: "Goiânia"
+location:
+  country_code: BR
+  latitude: -16.6869
+  longitude: -49.2648
+scores:
+  impact: 7.2
+  uniqueness: 7.3
+  significance: 7.3
+  experience: 7.9
+  depth: 7.9
+  categories:
+    architecture: 8.2
+    food: 8.3
+    culture: 8.0

@@ -1,0 +1,15 @@
+id: city-bz-belmopan
+name: "Belmopan"
+location:
+  country_code: BZ
+  latitude: 17.2510
+  longitude: -88.7590
+scores:
+  impact: 6.1
+  uniqueness: 6.7
+  significance: 7.2
+  experience: 6.6
+  depth: 6.7
+  categories:
+    culture: 7.2
+    history: 7.2

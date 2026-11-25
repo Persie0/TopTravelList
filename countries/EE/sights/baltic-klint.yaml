@@ -1,0 +1,14 @@
+id: sight-ee-baltic-klint
+name: "Baltic Klint (Estonian tentative heritage landscape)"
+location:
+  country_code: EE
+  latitude: 59.39
+  longitude: 24
+scores:
+  impact: 8.4
+  uniqueness: 8.7
+  significance: 8.6
+  experience: null
+  depth: null
+  categories:
+    nature: 9

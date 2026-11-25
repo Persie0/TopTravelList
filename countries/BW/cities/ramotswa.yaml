@@ -1,0 +1,15 @@
+id: city-bw-ramotswa
+name: "Ramotswa"
+location:
+  country_code: BW
+  latitude: -24.8710
+  longitude: 25.8650
+scores:
+  impact: 6.1
+  uniqueness: 6.9
+  significance: 6.7
+  experience: 7.0
+  depth: 6.1
+  categories:
+    culture: 7.6
+    history: 7.3

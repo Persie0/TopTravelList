@@ -1,0 +1,16 @@
+id: sight-rw-nyungwe-canopy-walkway
+name: "Nyungwe Canopy Walkway"
+location:
+  country_code: RW
+  latitude: -2.4780
+  longitude: 29.2090
+scores:
+  impact: 8.8
+  uniqueness: 8.5
+  significance: 7.3
+  experience: 9.0
+  depth: 7.2
+  categories:
+    adventure: 9.2
+    photography: 9.0
+    nature: 8.8

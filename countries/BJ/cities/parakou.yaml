@@ -1,0 +1,15 @@
+id: city-bj-parakou
+name: "Parakou"
+location:
+  country_code: BJ
+  latitude: 9.3370
+  longitude: 2.6300
+scores:
+  impact: 6.4
+  uniqueness: 7.2
+  significance: 7.3
+  experience: 7.5
+  depth: 7.0
+  categories:
+    culture: 8.0
+    food: 7.8

@@ -1,0 +1,17 @@
+id: sight-co-tayrona-national-natural-park
+name: "Tayrona National Natural Park"
+location:
+  country_code: CO
+  latitude: 11.3000
+  longitude: -74.0500
+scores:
+  impact: 9.3
+  uniqueness: 9.1
+  significance: 8.8
+  experience: 8.8
+  depth: 8.8
+  categories:
+    nature: 9.5
+    beaches: 9.5
+    photography: 9.5
+    wildlife: 8.9

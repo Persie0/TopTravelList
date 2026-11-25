@@ -1,0 +1,17 @@
+id: city-cr-puerto-viejo-de-talamanca
+name: "Puerto Viejo de Talamanca"
+location:
+  country_code: CR
+  latitude: 9.656
+  longitude: -82.754
+scores:
+  impact: 8.2
+  uniqueness: 8.5
+  significance: 7.3
+  experience: 8.6
+  depth: 7.6
+  categories:
+    culture: 8.8
+    food: 8.6
+    nightlife: 8.3
+    relaxation: 8.5

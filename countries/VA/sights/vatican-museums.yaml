@@ -1,0 +1,16 @@
+id: sight-va-vatican-museums
+name: "Vatican Museums"
+location:
+  country_code: VA
+  latitude: 41.90649
+  longitude: 12.45364
+scores:
+  impact: 9.7
+  uniqueness: 9.8
+  significance: 9.8
+  experience: 9.3
+  depth: 9.8
+  categories:
+    culture: 9.9
+    history: 9.8
+    architecture: 9.6

@@ -1,0 +1,16 @@
+id: city-ar-tilcara
+name: "Tilcara"
+location:
+  country_code: AR
+  latitude: -23.5770
+  longitude: -65.3950
+scores:
+  impact: 7.8
+  uniqueness: 8.2
+  significance: 7.9
+  experience: 8.3
+  depth: 6.9
+  categories:
+    culture: 8.9
+    history: 8.5
+    photography: 8.6

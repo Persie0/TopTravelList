@@ -1,0 +1,16 @@
+id: sight-ve-coro-historic-centre
+name: "Coro Historic Centre"
+location:
+  country_code: VE
+  latitude: 11.409792
+  longitude: -69.679228
+scores:
+  impact: 8.5
+  uniqueness: 9.1
+  significance: 9.4
+  experience: 7.7
+  depth: 7.9
+  categories:
+    architecture: 9.5
+    history: 9.5
+    culture: 8.9

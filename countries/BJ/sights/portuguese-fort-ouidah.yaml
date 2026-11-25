@@ -1,0 +1,16 @@
+id: sight-bj-portuguese-fort-ouidah
+name: "Portuguese Fort (Ouidah)"
+location:
+  country_code: BJ
+  latitude: 6.356667
+  longitude: 2.091111
+scores:
+  impact: 7.6
+  uniqueness: 8.4
+  significance: 9.1
+  experience: 8.0
+  depth: 7.1
+  categories:
+    history: 9.4
+    culture: 8.9
+    architecture: 8.3

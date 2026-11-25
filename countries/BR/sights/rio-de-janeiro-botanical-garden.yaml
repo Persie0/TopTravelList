@@ -1,0 +1,16 @@
+id: sight-br-rio-de-janeiro-botanical-garden
+name: "Rio de Janeiro Botanical Garden"
+location:
+  country_code: BR
+  latitude: -22.9670
+  longitude: -43.2240
+scores:
+  impact: 8.4
+  uniqueness: 8.5
+  significance: 8.8
+  experience: 8.7
+  depth: 8.3
+  categories:
+    nature: 9.3
+    photography: 9.0
+    relaxation: 8.7

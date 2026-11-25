@@ -2,7 +2,7 @@
 
 # Guyana (GY) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**18 ranked** · **0 unassessed** · **18 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,28 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (18)
 
-No cities, towns & villages have been assessed for **Guyana** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Georgetown](cities/georgetown.yaml) | City / town | **83.15** | **Architecture 8.8**, **Culture 8.8**, **History 8.7**, Food 8.5 | 8.2 / 8.5 / 8.4 / 8.2 / 8.2 | [6.8013, -58.1551](https://www.google.com/maps/search/?api=1&query=6.8013,-58.1551) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Georgetown%2C%20Guyana) |
+| 2 | [Surama](cities/surama.yaml) | City / town | **75.00** | **Culture 8.5**, **Photography 7.9** | 7.2 / 8.1 / 7.5 / 7.9 / 6.3 | [4.1333, -59.0667](https://www.google.com/maps/search/?api=1&query=4.1333,-59.0667) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Surama%2C%20Guyana) |
+| 3 | [Rewa](cities/rewa.yaml) | City / town | **72.85** | **Culture 8.3**, **Photography 7.8** | 7.0 / 7.9 / 7.3 / 7.6 / 6.1 | [4.05, -58.5833](https://www.google.com/maps/search/?api=1&query=4.05,-58.5833) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Rewa%2C%20Guyana) |
+| 4 | [New Amsterdam](cities/new-amsterdam.yaml) | City / town | **71.55** | **History 8.0**, **Architecture 7.6**, **Culture 7.6** | 6.9 / 7.3 / 7.5 / 7.2 / 6.8 | [6.2476, -57.5171](https://www.google.com/maps/search/?api=1&query=6.2476,-57.5171) | [Google Maps](https://www.google.com/maps/search/?api=1&query=New%20Amsterdam%2C%20Guyana) |
+| 5 | [Karasabai](cities/karasabai.yaml) | City / town | **70.55** | **Culture 8.2**, **Photography 7.6** | 6.7 / 7.7 / 7.2 / 7.2 / 6.0 | [4.0167, -59.5333](https://www.google.com/maps/search/?api=1&query=4.0167,-59.5333) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Karasabai%2C%20Guyana) |
+| 6 | [Aishalton](cities/aishalton.yaml) | City / town | **70.05** | **Culture 8.2**, **History 7.7** | 6.6 / 7.6 / 7.3 / 7.1 / 6.0 | [2.4833, -59.3167](https://www.google.com/maps/search/?api=1&query=2.4833,-59.3167) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Aishalton%2C%20Guyana) |
+| 7 | [Linden](cities/linden.yaml) | City / town | **69.80** | **History 7.6**, **Culture 7.5** | 6.7 / 7.2 / 7.2 / 7.0 / 6.8 | [6.0081, -58.3071](https://www.google.com/maps/search/?api=1&query=6.0081,-58.3071) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Linden%2C%20Guyana) |
+| 8 | [Bartica](cities/bartica.yaml) | City / town | **69.70** | **Photography 7.8**, **Relaxation 7.6**, **Culture 7.4** | 7.0 / 7.3 / 6.5 / 7.3 / 6.5 | [6.407, -58.6219](https://www.google.com/maps/search/?api=1&query=6.407,-58.6219) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bartica%2C%20Guyana) |
+| 9 | [Santa Rosa (Moruca)](cities/santa-rosa-moruca.yaml) | City / town | **69.30** | **Culture 8.0**, **History 7.5** | 6.5 / 7.5 / 7.2 / 7.1 / 6.0 | [7.65, -59.1333](https://www.google.com/maps/search/?api=1&query=7.65,-59.1333) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Santa%20Rosa%20%28Moruca%29%2C%20Guyana) |
+| 10 | [Annai](cities/annai.yaml) | City / town | **69.15** | **Culture 7.8**, **Photography 7.5** | 6.7 / 7.4 / 6.7 / 7.3 / 6.2 | [3.95, -59.1333](https://www.google.com/maps/search/?api=1&query=3.95,-59.1333) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Annai%2C%20Guyana) |
+| 11 | [Lethem](cities/lethem.yaml) | City / town | **66.85** | **Culture 7.5**, **Food 7.3** | 6.4 / 7.1 / 6.5 / 7.0 / 6.4 | [3.3772, -59.7986](https://www.google.com/maps/search/?api=1&query=3.3772,-59.7986) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lethem%2C%20Guyana) |
+| 12 | [Charity](cities/charity.yaml) | City / town | **66.15** | **Culture 7.3**, **Food 7.3** | 6.4 / 6.9 / 6.5 / 7.0 / 6.2 | [7.4, -58.6](https://www.google.com/maps/search/?api=1&query=7.4,-58.6) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Charity%2C%20Guyana) |
+| 13 | [Mabaruma](cities/mabaruma.yaml) | City / town | **65.75** | **Photography 7.4**, **Culture 7.2** | 6.5 / 7.0 / 6.4 / 6.7 / 5.9 | [8.2, -59.7833](https://www.google.com/maps/search/?api=1&query=8.2,-59.7833) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mabaruma%2C%20Guyana) |
+| 14 | [Corriverton](cities/corriverton.yaml) | City / town | **65.35** | **Culture 7.3**, **Food 7.2** | 6.2 / 6.8 / 6.5 / 6.9 / 6.4 | [5.8833, -57.1833](https://www.google.com/maps/search/?api=1&query=5.8833,-57.1833) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Corriverton%2C%20Guyana) |
+| 15 | [Anna Regina](cities/anna-regina.yaml) | City / town | **65.30** | **Culture 7.2**, **Food 7.1** | 6.3 / 6.6 / 6.7 / 6.8 / 6.3 | [7.263, -58.48](https://www.google.com/maps/search/?api=1&query=7.263,-58.48) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Anna%20Regina%2C%20Guyana) |
+| 16 | [Parika](cities/parika.yaml) | City / town | **64.10** | **Food 7.3**, **Culture 7.2** | 6.0 / 6.7 / 6.4 / 6.9 / 6.2 | [6.8667, -58.4333](https://www.google.com/maps/search/?api=1&query=6.8667,-58.4333) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Parika%2C%20Guyana) |
+| 17 | [Mahdia](cities/mahdia.yaml) | City / town | **63.80** | **Culture 7.1** | 6.1 / 6.8 / 6.5 / 6.4 / 5.9 | [5.2667, -59.15](https://www.google.com/maps/search/?api=1&query=5.2667,-59.15) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mahdia%2C%20Guyana) |
+| 18 | [Rose Hall](cities/rose-hall.yaml) | City / town | **62.75** | **Food 7.1**, **Culture 7.0** | 6.0 / 6.3 / 6.5 / 6.6 / 6.1 | [6.2667, -57.35](https://www.google.com/maps/search/?api=1&query=6.2667,-57.35) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Rose%20Hall%2C%20Guyana) |
 
 ---
 

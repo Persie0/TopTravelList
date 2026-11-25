@@ -1,0 +1,16 @@
+id: sight-kw-al-kout-waterfront
+name: "Al Kout Waterfront"
+location:
+  country_code: KW
+  latitude: 29.0805
+  longitude: 48.1420
+scores:
+  impact: 7.3
+  uniqueness: 6.9
+  significance: 5.9
+  experience: 8.0
+  depth: 7.2
+  categories:
+    relaxation: 8.1
+    food: 8.1
+    photography: 7.8

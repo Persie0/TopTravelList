@@ -1,0 +1,16 @@
+id: sight-cr-monteverde-cloud-forest-biological-reserve
+name: "Monteverde Cloud Forest Biological Reserve"
+location:
+  country_code: CR
+  latitude: 10.302
+  longitude: -84.795
+scores:
+  impact: 9.2
+  uniqueness: 9.3
+  significance: 9.4
+  experience: 9.3
+  depth: 8.5
+  categories:
+    nature: 9.5
+    wildlife: 9.5
+    photography: 9.2
