@@ -2,6 +2,9 @@
 
 [Rules](../../../rules.md) · [Workflow](../../future-country-workflow.md). 2026-11-25. [UNESCO inventory](https://whc.unesco.org/en/statesparties/gq/) lists six tentative sites submitted 2026-04-14 and zero inscribed properties. All six included. Ciudad de la Paz is capital from 2026-01-02; Malabo is former capital. [FCDO travel advice](https://www.gov.uk/foreign-travel-advice/equatorial-guinea/safety-and-security) consulted by excerpt. Scores are not promises of access or permission. Approximate coordinates; parent/child scores not additive. Shared peer ladders and independent claim-level verification remain provisional.
 
+
+Follow-up 2026-11-25: named settlement sources and mapped city points added for two previously editorial-only records. Visitor quality remains provisional.
+
 ## city-gq-malabo — Malabo — 2026-11-25
 
 - [YAML](../../../countries/GQ/cities/malabo.yaml) · Action: new · **source-linked-unverified**.
@@ -156,8 +159,8 @@
 
 ## city-gq-evinayong — Evinayong — 2026-11-25
 
-- [YAML](../../../countries/GQ/cities/evinayong.yaml) · Action: new · **editorial-only**.
-- Scope: Settlement itself, excluding separate sights. GPS 1.44, 10.55: approximate editorial point.
+- [YAML](../../../countries/GQ/cities/evinayong.yaml) · Action: new · **source-linked-unverified**.
+- Scope: Settlement itself, excluding separate sights. GPS 1.43884, 10.55166: mapped populated place; previous approximate point superseded.
 - Worldwide peers (I/U/S/E/D):
   - [Siem Reap (KH)](../../../countries/KH/cities/siem-reap.yaml) — 8.8 / 9.0 / 9.3 / 9.0 / 9.2 (90.20/100); upper anchor; lower impact (highland provincial town); lower uniqueness (forest-zone settlement); lower significance (administrative role); lower experience (walks and food); lower depth (park excluded).
   - [Luang Prabang (LA)](../../../countries/LA/cities/luang-prabang.yaml) — 9.2 / 9.4 / 9.3 / 9.2 / 9.0 (92.50/100); related comparison; lower impact (highland provincial town); lower uniqueness (forest-zone settlement); lower significance (administrative role); lower experience (walks and food); lower depth (park excluded).
@@ -170,13 +173,13 @@
 - Depth 6.0: park excluded.
 - Categories: culture:7.5. Overall: 65.10/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked destination-specific source.
+- Evidence: [Mapped city](https://mapcarta.com/16963666), OSM node 667649688, confirms Centro Sur capital and highland setting; [town profile](https://en.wikipedia.org/wiki/Evinayong) describes market context. Actual visitor quality unverified. Checked 2026-11-25; original status editorial-only.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access and individual peer/category calibration.
 
 ## city-gq-ebebiyin — Ebebiyín — 2026-11-25
 
-- [YAML](../../../countries/GQ/cities/ebebiyin.yaml) · Action: new · **editorial-only**.
-- Scope: Settlement itself, excluding separate sights. GPS 2.15, 11.33: approximate editorial point.
+- [YAML](../../../countries/GQ/cities/ebebiyin.yaml) · Action: new · **source-linked-unverified**.
+- Scope: Settlement itself, excluding separate sights. GPS 2.15218, 11.33013: mapped populated place; previous approximate point superseded.
 - Worldwide peers (I/U/S/E/D):
   - [Siem Reap (KH)](../../../countries/KH/cities/siem-reap.yaml) — 8.8 / 9.0 / 9.3 / 9.0 / 9.2 (90.20/100); upper anchor; lower impact (border town streets); lower uniqueness (commercial community); lower significance (trade history); lower experience (markets and meals); lower depth (limited venues).
   - [Luang Prabang (LA)](../../../countries/LA/cities/luang-prabang.yaml) — 9.2 / 9.4 / 9.3 / 9.2 / 9.0 (92.50/100); related comparison; lower impact (border town streets); lower uniqueness (commercial community); lower significance (trade history); lower experience (markets and meals); lower depth (limited venues).
@@ -189,7 +192,7 @@
 - Depth 6.0: limited venues.
 - Categories: culture:7.5, food:7.5. Overall: 64.75/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked destination-specific source.
+- Evidence: [GeoNames](https://www.geonames.org/2309332/ebebiyin.html) confirms the Kié-Ntem provincial capital, distinct from same-name localities; [government province profile](https://www.guineaecuatorialpress.com/noticias/kie-ntem) corroborates administrative role. Market and food claims remain provisional. Checked 2026-11-25; original status editorial-only.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access and individual peer/category calibration.
 
 ## city-gq-mbini — Mbini — 2026-11-25
