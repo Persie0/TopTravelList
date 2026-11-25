@@ -1,0 +1,15 @@
+id: city-me-herceg-novi
+name: "Herceg Novi"
+location:
+  country_code: ME
+  latitude: 42.4531
+  longitude: 18.5370
+scores:
+  impact: 8.1
+  uniqueness: 8.1
+  significance: 8.1
+  experience: 8.5
+  depth: 8.1
+  categories:
+    architecture: 8.6
+    relaxation: 8.8

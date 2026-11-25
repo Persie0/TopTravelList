@@ -1,0 +1,16 @@
+id: sight-me-zla-kolata
+name: "Zla Kolata"
+location:
+  country_code: ME
+  latitude: 42.4850
+  longitude: 19.8980
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 8.1
+  experience: 8.7
+  depth: 8.3
+  categories:
+    nature: 9.3
+    adventure: 9.4
+    photography: 9.2

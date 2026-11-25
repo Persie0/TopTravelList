@@ -1,0 +1,16 @@
+id: sight-me-biogradsko-lake
+name: "Biogradsko Lake"
+location:
+  country_code: ME
+  latitude: 42.9000
+  longitude: 19.5950
+scores:
+  impact: 8.6
+  uniqueness: 8.5
+  significance: 7.8
+  experience: 8.8
+  depth: 8.2
+  categories:
+    nature: 9.2
+    photography: 9.1
+    relaxation: 9.1

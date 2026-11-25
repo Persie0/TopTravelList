@@ -1,0 +1,15 @@
+id: sight-me-becici-beach
+name: "Bečići Beach"
+location:
+  country_code: ME
+  latitude: 42.2810
+  longitude: 18.8730
+scores:
+  impact: 7.8
+  uniqueness: 7.2
+  significance: 6.1
+  experience: 8.5
+  depth: 7.8
+  categories:
+    beaches: 8.5
+    relaxation: 8.7

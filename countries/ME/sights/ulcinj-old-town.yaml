@@ -1,0 +1,16 @@
+id: sight-me-ulcinj-old-town
+name: "Ulcinj Old Town"
+location:
+  country_code: ME
+  latitude: 41.9245
+  longitude: 19.2010
+scores:
+  impact: 8.5
+  uniqueness: 8.6
+  significance: 8.7
+  experience: 8.6
+  depth: 8.0
+  categories:
+    architecture: 9
+    history: 9.1
+    photography: 9

@@ -1,0 +1,15 @@
+id: city-me-pljevlja
+name: "Pljevlja"
+location:
+  country_code: ME
+  latitude: 43.3560
+  longitude: 19.3580
+scores:
+  impact: 7.0
+  uniqueness: 7.4
+  significance: 7.7
+  experience: 7.5
+  depth: 7.2
+  categories:
+    history: 8.3
+    architecture: 8.1

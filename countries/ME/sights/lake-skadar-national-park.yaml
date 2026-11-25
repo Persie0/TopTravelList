@@ -1,0 +1,16 @@
+id: sight-me-lake-skadar-national-park
+name: "Lake Skadar National Park"
+location:
+  country_code: ME
+  latitude: 42.2660
+  longitude: 19.1690
+scores:
+  impact: 9.1
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 9.0
+  depth: 9.1
+  categories:
+    nature: 9.4
+    wildlife: 9.3
+    photography: 9.3

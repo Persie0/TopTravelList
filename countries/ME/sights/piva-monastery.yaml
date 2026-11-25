@@ -1,0 +1,15 @@
+id: sight-me-piva-monastery
+name: "Piva Monastery"
+location:
+  country_code: ME
+  latitude: 43.0730
+  longitude: 18.8190
+scores:
+  impact: 8.2
+  uniqueness: 8.6
+  significance: 8.8
+  experience: 8.3
+  depth: 7.7
+  categories:
+    history: 9.2
+    architecture: 8.9

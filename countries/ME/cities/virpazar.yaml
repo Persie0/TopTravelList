@@ -1,0 +1,15 @@
+id: city-me-virpazar
+name: "Virpazar"
+location:
+  country_code: ME
+  latitude: 42.2460
+  longitude: 19.0920
+scores:
+  impact: 7.3
+  uniqueness: 7.6
+  significance: 7.5
+  experience: 7.8
+  depth: 7.1
+  categories:
+    culture: 8.0
+    relaxation: 8.2

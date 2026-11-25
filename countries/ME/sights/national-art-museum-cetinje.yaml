@@ -1,0 +1,15 @@
+id: sight-me-national-art-museum-cetinje
+name: "National Art Museum Cetinje"
+location:
+  country_code: ME
+  latitude: 42.3900
+  longitude: 18.9240
+scores:
+  impact: 7.8
+  uniqueness: 8.0
+  significance: 8.3
+  experience: 8.3
+  depth: 8.0
+  categories:
+    culture: 8.9
+    history: 8.5

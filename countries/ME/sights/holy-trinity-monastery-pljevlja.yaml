@@ -1,0 +1,15 @@
+id: sight-me-holy-trinity-monastery-pljevlja
+name: "Holy Trinity Monastery Pljevlja"
+location:
+  country_code: ME
+  latitude: 43.3500
+  longitude: 19.3720
+scores:
+  impact: 8.0
+  uniqueness: 8.3
+  significance: 8.5
+  experience: 8.2
+  depth: 7.5
+  categories:
+    culture: 8.8
+    history: 8.9

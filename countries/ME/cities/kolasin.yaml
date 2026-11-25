@@ -1,0 +1,15 @@
+id: city-me-kolasin
+name: "Kolašin"
+location:
+  country_code: ME
+  latitude: 42.8230
+  longitude: 19.5160
+scores:
+  impact: 7.3
+  uniqueness: 7.5
+  significance: 7.4
+  experience: 8.0
+  depth: 7.5
+  categories:
+    relaxation: 8.4
+    culture: 8

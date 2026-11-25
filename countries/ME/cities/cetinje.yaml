@@ -1,0 +1,15 @@
+id: city-me-cetinje
+name: "Cetinje"
+location:
+  country_code: ME
+  latitude: 42.3906
+  longitude: 18.9142
+scores:
+  impact: 7.9
+  uniqueness: 8.4
+  significance: 8.8
+  experience: 8.3
+  depth: 8.2
+  categories:
+    history: 9.2
+    culture: 8.9

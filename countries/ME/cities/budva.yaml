@@ -1,0 +1,16 @@
+id: city-me-budva
+name: "Budva"
+location:
+  country_code: ME
+  latitude: 42.2864
+  longitude: 18.8400
+scores:
+  impact: 8.3
+  uniqueness: 8.1
+  significance: 8.0
+  experience: 8.7
+  depth: 8.3
+  categories:
+    beaches: 8.8
+    nightlife: 9
+    architecture: 8.7

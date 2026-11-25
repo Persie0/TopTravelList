@@ -1,0 +1,15 @@
+id: city-me-dobrota
+name: "Dobrota"
+location:
+  country_code: ME
+  latitude: 42.4520
+  longitude: 18.7670
+scores:
+  impact: 7.5
+  uniqueness: 7.5
+  significance: 7.6
+  experience: 8.2
+  depth: 7.4
+  categories:
+    relaxation: 8.6
+    architecture: 8.2

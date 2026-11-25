@@ -1,0 +1,16 @@
+id: sight-me-prokletije-national-park
+name: "Prokletije National Park"
+location:
+  country_code: ME
+  latitude: 42.5140
+  longitude: 19.8330
+scores:
+  impact: 9.3
+  uniqueness: 9.2
+  significance: 8.8
+  experience: 9.1
+  depth: 9.2
+  categories:
+    nature: 9.5
+    adventure: 9.5
+    photography: 9.4
