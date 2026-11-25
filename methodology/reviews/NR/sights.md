@@ -5,6 +5,8 @@
 - Scope: initial, non-exhaustive inventory. Each entry is an editorial judgment; source links were inspected for the stated identity or limited material facts, not score endorsements. Source-linked-unverified is used conservatively where the visitor experience, location triangulation or other material facts remain incomplete. No current-access guarantee.
 - Peer comparisons are qualitative; the current YAML of Salzburg, Vienna, Bangkok, Koh Ker Village, Railay, Cheow Lan, Tonle Sap and Son Doong was consulted; other named peers are qualitative comparators, not claims of retrieved current scores.
 
+- Current per-ID decisions below incorporate the latest follow-up; superseded text and original sources are retained in [review history](history-evidence-followup-2026-11-25.md).
+
 ## sight-nr-anibare-bay — Anibare Bay — 2026-11-25
 
 - YAML: [source](../../../countries/NR/sights/anibare-bay.yaml)
@@ -112,40 +114,44 @@
 - Earlier decision: none.
 - Verification still needed: Exact condition and public access to wartime remains not established.
 
-## sight-nr-moqua-well — Moqua Well — 2026-11-25
+## sight-nr-moqua-well — Moqua Well — 2026-11-25 (evidence follow-up)
 
 - YAML: [source](../../../countries/NR/sights/moqua-well.yaml)
-- Action: new
-- Precise subject: The underground lake and cave containing it, not other caves.
-- Location check: representative WGS84 -0.54211, 166.91833; see sources below. Not an entrance.
-- Evidence status: unassessed
-- Checked factual reference excerpts (accessed 2026-11-25):
-  - Mapcarta identifies underground lake and coordinates — https://mapcarta.com/16566534
-  - VisitNauru identifies the limestone cave setting — https://visitnauru.org/discover/moqua-well-cave
-- Missing or uncertain facts: Sources disagree on representative point; use mapped lake point. Confirm permission, safety and depth before ranking.
+- Action: rescore
+- Precise subject: Freshwater well and immediate underground cave chamber, limited to locally guided authorized visits; no deep caving or swimming credited.
+- Location check: retain approximate existing representative point; independent corroboration outstanding.
+- Evidence status: source-linked-unverified
+- Factual references consulted (2026-11-25):
+  - 2019 renewable-energy environmental assessment describes Moqua cave's cultural significance and tourist visits: https://ewsdata.rightsindevelopment.org/files/documents/09/ADB-49450-009_wSu1qIV.pdf (indexed excerpt only).
+  - Firsthand 2019 account describes local host taking visitor to Moqua Well and caves: https://www.onceuponasaga.dk/blog/327-nauru-a-lonely-mountain-in-the-pacific-ocean (indexed excerpt).
+  - Independent firsthand travel account describes visit and historical freshwater role: https://monsoondiaries.com/2019/01/03/nauru/ (indexed excerpt).
+  - Current visitor guide describes the limestone chamber: https://visitnauru.org/discover/moqua-well-cave (indexed excerpt).
+- Missing or uncertain facts: Historic firsthand evidence and current guide listings do not confirm current landowner permission or safety; no independent access recommendation.
 
 ### Worldwide peer comparisons
-- Son Doong Cave (Vietnam): vastly greater geological scale
-- Eisriesenwelt (Austria): stronger interpreted cave experience
-- Manjanggul Cave (South Korea): distinctive volcanic geology on a different scale
-- Tham Phu Kham Cave (Laos): more established cave visitor context
+- [Tham Khao Luang Cave](../../../countries/TH/sights/tham-khao-luang-cave.yaml) (TH), 8.4/8.8/8.1/8.8/7.8: much richer scenic and religious cave experience.
+- [Hua Ma Cave](../../../countries/VN/sights/hua-ma-cave.yaml) (VN), 8.5/8.7/7.9/8.7/7.6: more substantial cave formations and established visitor route.
+- [Dachstein Ice Caves](../../../countries/AT/sights/dachstein-ice-caves.yaml) (AT), 8.3/8.8/7.0/8.5/7.4: more unusual cave environment and established interpretation.
+- [Buada Lagoon](../../../countries/NR/sights/buada-lagoon.yaml) (NR), 6.6/7.1/6.5/6.0/5.3: comparable local freshwater attraction with different setting.
+
+- [Phraya Nakhon Cave](../../../countries/TH/sights/phraya-nakhon-cave.yaml) (Thailand), 8.9/9.2/8.6/9.1/7.7: globally stronger scenic cave and established visitor experience.
 
 ### Scoring decisions
-| Field | New rating | Individual justification |
-| --- | ---: | --- |
-| Impact | 6.5 | Unusual underground water feature, modest documented size |
-| Uniqueness | 7.2 | Freshwater within island limestone is distinctive, not a giant cave system |
-| Significance | 6.3 | Local water-resource relevance |
-| Experience | null | Permitted safe visitor experience unclear |
-| Depth | null | Length and interpretive depth unverified |
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | 6.5 | 6.5 | Retain prior modest cave visual impact. |
+| Uniqueness | 7.2 | 7.2 | Retain prior distinctive island freshwater karst feature. |
+| Significance | 6.3 | 6.3 | Retain local historical freshwater significance. |
+| Experience | null | 6.5 | Documented locally accompanied visits support modest focused exploration; no claim of public unrestricted access. |
+| Depth | null | 5.6 | One principal chamber and well, limited interpreted breadth. |
 
-- Applicable category scores: nature: 7.0
-- Overall: unranked.
-- High-score challenge: not applicable (no 9.5+ or 90+ fields/totals).
+- Applicable category scores: nature 7.0 retained; provisional.
+- Overall: 65.45/100
+- High-score challenge: no 9.5+ fields or 90+ total.
 - Approved 10 registry: none.
-- Final decision: Retain in the inventory without a rank until evidence supports all five fields.
-- Earlier decision: none.
-- Verification still needed: Sources disagree on representative point; use mapped lake point. Confirm permission, safety and depth before ranking.
+- Final decision: provisional worldwide v2 rating using actual branch YAML peers.
+- Earlier decision: incomplete profile. See [prior decision and sources](history-evidence-followup-2026-11-25.md).
+- Verification still needed: Historic firsthand evidence and current guide listings do not confirm current landowner permission or safety; no independent access recommendation. Canonical validation outstanding.
 
 ## sight-nr-naoero-museum — Naoero Museum — 2026-11-25
 
@@ -184,7 +190,6 @@
 - Earlier decision: unranked in initial draft.
 - Verification still needed: Confirm current opening and exhibition improvements; no claim that grant-funded equipment is installed.
 
-
 ## sight-nr-topside-phosphate-landscape — Topside Phosphate Landscape — 2026-11-25
 
 - YAML: [source](../../../countries/NR/sights/topside-phosphate-landscape.yaml)
@@ -217,42 +222,3 @@
 - Approved 10 registry: none.
 - Final decision: provisional assessment of the ordinary guided visible landscape, not a recommendation to enter active mines or private land.
 - Verification still needed: precise permitted paths, visitor arrangements and condition of landscape.
-
-
-
-### sight-nr-moqua-well — Moqua Well — 2026-11-25 (evidence follow-up)
-
-- YAML: [source](../../../countries/NR/sights/moqua-well.yaml)
-- Action: rescore
-- Precise subject: Freshwater well and immediate underground cave chamber, limited to locally guided authorized visits; no deep caving or swimming credited.
-- Location check: retain approximate existing representative point; independent corroboration outstanding.
-- Evidence status: source-linked-unverified
-- Factual references consulted (2026-11-25):
-  - 2019 renewable-energy environmental assessment describes Moqua cave's cultural significance and tourist visits: https://ewsdata.rightsindevelopment.org/files/documents/09/ADB-49450-009_wSu1qIV.pdf (indexed excerpt only).
-  - Firsthand 2019 account describes local host taking visitor to Moqua Well and caves: https://www.onceuponasaga.dk/blog/327-nauru-a-lonely-mountain-in-the-pacific-ocean (indexed excerpt).
-  - Independent firsthand travel account describes visit and historical freshwater role: https://monsoondiaries.com/2019/01/03/nauru/ (indexed excerpt).
-  - Current visitor guide describes the limestone chamber: https://visitnauru.org/discover/moqua-well-cave (indexed excerpt).
-- Missing or uncertain facts: Historic firsthand evidence and current guide listings do not confirm current landowner permission or safety; no independent access recommendation.
-
-#### Worldwide peer comparisons
-- Tham Khao Luang Cave (TH), 8.4/8.8/8.1/8.8/7.8: much richer scenic and religious cave experience.
-- Hua Ma Cave (VN), 8.5/8.7/7.9/8.7/7.6: more substantial cave formations and established visitor route.
-- Dachstein Ice Caves (AT), 8.3/8.8/7.0/8.5/7.4: more unusual cave environment and established interpretation.
-- Buada Lagoon (NR), 6.6/7.1/6.5/6.0/5.3: comparable local freshwater attraction with different setting.
-
-#### Scoring decisions
-| Field | Before | New rating | Individual justification |
-| --- | ---: | ---: | --- |
-| Impact | 6.5 | 6.5 | Retain prior modest cave visual impact. |
-| Uniqueness | 7.2 | 7.2 | Retain prior distinctive island freshwater karst feature. |
-| Significance | 6.3 | 6.3 | Retain local historical freshwater significance. |
-| Experience | null | 6.5 | Documented locally accompanied visits support modest focused exploration; no claim of public unrestricted access. |
-| Depth | null | 5.6 | One principal chamber and well, limited interpreted breadth. |
-
-- Applicable category scores: nature 7.0 retained; provisional.
-- Computed worldwide overall: 65.45/100
-- High-score challenge: no 9.5+ fields or 90+ total.
-- Approved 10 registry: none.
-- Final decision: provisional worldwide v2 rating using actual branch YAML peers.
-- Earlier decision: incomplete profile.
-- Verification still needed: Historic firsthand evidence and current guide listings do not confirm current landowner permission or safety; no independent access recommendation. Canonical validation outstanding.
