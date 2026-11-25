@@ -2,7 +2,7 @@
 
 # Kosovo (XK) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**20 ranked** · **0 unassessed** · **20 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,30 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (20)
 
-No cities, towns & villages have been assessed for **Kosovo** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Prizren](cities/prizren.yaml) | City / town | **87.00** | **Architecture 9.2**, **Photography 9.2**, **History 9.1**, Culture 9.0 | 8.7 / 8.8 / 8.7 / 8.8 / 8.3 | [42.2139, 20.7397](https://www.google.com/maps/search/?api=1&query=42.2139,20.7397) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Prizren%2C%20Kosovo) |
+| 2 | [Pristina](cities/pristina.yaml) | City / town | **80.95** | **Culture 8.7**, **Food 8.7**, **Architecture 8.4** | 7.6 / 8.2 / 8.3 / 8.5 / 8.3 | [42.6629, 21.1655](https://www.google.com/maps/search/?api=1&query=42.6629,21.1655) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Pristina%2C%20Kosovo) |
+| 3 | [Gjakova](cities/gjakova.yaml) | City / town | **80.90** | **History 8.8**, **Architecture 8.7**, **Culture 8.7** | 7.9 / 8.3 / 8.2 / 8.3 / 7.6 | [42.3803, 20.4308](https://www.google.com/maps/search/?api=1&query=42.3803,20.4308) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Gjakova%2C%20Kosovo) |
+| 4 | [Peja](cities/peja.yaml) | City / town | **78.10** | **Photography 8.4**, **Culture 8.3**, **History 8.3** | 7.6 / 7.9 / 7.9 / 8.1 / 7.6 | [42.6591, 20.2883](https://www.google.com/maps/search/?api=1&query=42.6591,20.2883) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Peja%2C%20Kosovo) |
+| 5 | [Vushtrri](cities/vushtrri.yaml) | City / town | **74.05** | **History 8.5**, **Architecture 8.1** | 7.1 / 7.7 / 7.8 / 7.4 / 6.8 | [42.8231, 20.9675](https://www.google.com/maps/search/?api=1&query=42.8231,20.9675) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Vushtrri%2C%20Kosovo) |
+| 6 | [Junik](cities/junik.yaml) | City / town | **72.90** | **Photography 8.3**, **Architecture 8.2**, **Culture 8.1** | 7.2 / 7.6 / 7.2 / 7.6 / 6.5 | [42.4767, 20.2775](https://www.google.com/maps/search/?api=1&query=42.4767,20.2775) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Junik%2C%20Kosovo) |
+| 7 | [Mitrovica](cities/mitrovica.yaml) | City / town | **71.95** | **History 8.3**, **Culture 7.8** | 6.8 / 7.6 / 7.7 / 6.9 / 6.8 | [42.8914, 20.866](https://www.google.com/maps/search/?api=1&query=42.8914,20.866) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mitrovica%2C%20Kosovo) |
+| 8 | [Dragash](cities/dragash.yaml) | City / town | **71.45** | **Photography 8.3**, **Culture 8.0** | 7.0 / 7.6 / 6.9 / 7.5 / 6.4 | [42.0621, 20.6533](https://www.google.com/maps/search/?api=1&query=42.0621,20.6533) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Dragash%2C%20Kosovo) |
+| 9 | [Gračanica](cities/gracanica.yaml) | City / town | **71.25** | **History 8.3**, **Culture 8.1** | 6.7 / 7.4 / 7.6 / 7.3 / 6.5 | [42.5988, 21.193](https://www.google.com/maps/search/?api=1&query=42.5988,21.193) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Gra%C4%8Danica%2C%20Kosovo) |
+| 10 | [Rahovec](cities/rahovec.yaml) | City / town | **71.10** | **Food 8.4**, **Culture 7.9** | 6.8 / 7.4 / 7.0 / 7.6 / 6.8 | [42.3991, 20.6547](https://www.google.com/maps/search/?api=1&query=42.3991,20.6547) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Rahovec%2C%20Kosovo) |
+| 11 | [Brezovica](cities/brezovica.yaml) | City / town | **71.05** | **Photography 8.3**, **Relaxation 8.0** | 7.3 / 7.5 / 6.2 / 7.8 / 6.3 | [42.221, 21.004](https://www.google.com/maps/search/?api=1&query=42.221,21.004) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Brezovica%2C%20Kosovo) |
+| 12 | [Prevalla](cities/prevalla.yaml) | City / town | **70.80** | **Photography 8.4**, **Relaxation 8.2** | 7.4 / 7.4 / 6.1 / 7.8 / 6.2 | [42.1712, 20.9605](https://www.google.com/maps/search/?api=1&query=42.1712,20.9605) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Prevalla%2C%20Kosovo) |
+| 13 | [Deçan](cities/decan.yaml) | City / town | **70.30** | **History 8.0**, **Photography 7.9** | 6.7 / 7.2 / 7.3 / 7.4 / 6.5 | [42.5402, 20.2879](https://www.google.com/maps/search/?api=1&query=42.5402,20.2879) | [Google Maps](https://www.google.com/maps/search/?api=1&query=De%C3%A7an%2C%20Kosovo) |
+| 14 | [Novo Brdo](cities/novo-brdo.yaml) | City / town | **68.60** | **History 8.0**, **Photography 7.6** | 6.5 / 7.3 / 7.2 / 6.9 / 6.1 | [42.6081, 21.4265](https://www.google.com/maps/search/?api=1&query=42.6081,21.4265) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Novo%20Brdo%2C%20Kosovo) |
+| 15 | [Ferizaj](cities/ferizaj.yaml) | City / town | **68.40** | **Culture 7.7**, **Food 7.6** | 6.5 / 7.0 / 6.8 / 7.4 / 6.7 | [42.3706, 21.1553](https://www.google.com/maps/search/?api=1&query=42.3706,21.1553) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ferizaj%2C%20Kosovo) |
+| 16 | [Gjilan](cities/gjilan.yaml) | City / town | **67.45** | **Culture 7.6**, **Food 7.5** | 6.4 / 6.8 / 6.8 / 7.3 / 6.7 | [42.4635, 21.4694](https://www.google.com/maps/search/?api=1&query=42.4635,21.4694) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Gjilan%2C%20Kosovo) |
+| 17 | [Istog](cities/istog.yaml) | City / town | **67.10** | **Relaxation 7.7**, **Photography 7.6** | 6.5 / 6.9 / 6.5 / 7.3 / 6.4 | [42.7806, 20.4875](https://www.google.com/maps/search/?api=1&query=42.7806,20.4875) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Istog%2C%20Kosovo) |
+| 18 | [Lipjan](cities/lipjan.yaml) | City / town | **66.65** | **History 7.8**, **Culture 7.5** | 6.3 / 6.7 / 6.9 / 7.2 / 6.4 | [42.5217, 21.1258](https://www.google.com/maps/search/?api=1&query=42.5217,21.1258) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lipjan%2C%20Kosovo) |
+| 19 | [Suhareka](cities/suhareka.yaml) | City / town | **66.00** | **Food 7.7**, **Culture 7.5** | 6.3 / 6.7 / 6.5 / 7.3 / 6.4 | [42.3586, 20.825](https://www.google.com/maps/search/?api=1&query=42.3586,20.825) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Suhareka%2C%20Kosovo) |
+| 20 | [Podujeva](cities/podujeva.yaml) | City / town | **65.05** | **Culture 7.4**, **Food 7.3** | 6.2 / 6.5 / 6.5 / 7.2 / 6.4 | [42.9106, 21.1939](https://www.google.com/maps/search/?api=1&query=42.9106,21.1939) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Podujeva%2C%20Kosovo) |
 
 ---
 

@@ -30,9 +30,10 @@ All listed merged PRs have passed schema, generated Markdown and worldwide bench
 | Suriname / Ecuador | [#101](https://github.com/Persie0/TopTravelList/pull/101) | Central Suriname reserve 90.50 → 89.50; Galápagos 98.30 → 97.80; Yasuní 92.75 → 91.85 | Arithmetic and ranking order across 82 ranked sights | Full Python validation and merge |
 | Maldives | [#56](https://github.com/Persie0/TopTravelList/pull/56) | Hanifaru Bay 94.00 → 93.30; Baa Atoll 93.65 → 93.15 | Arithmetic/order across 65 ranked records; 67 original review entries and four-peer links checked | Reconcile current main, regenerate links, run global checks and merge |
 | Malta | [#102](https://github.com/Persie0/TopTravelList/pull/102) (original #54 separately merged) | Hypogeum 93.00 → 92.10 | Arithmetic/order across 37 ranked sights; four current peers and operator visitor scope checked | Full Python validation and merge |
-
 | Rwanda | [#57](https://github.com/Persie0/TopTravelList/pull/57) | Four exceptional profiles retained: Volcanoes, Nyungwe, Akagera and Kigali memorial | 63 ranked rows arithmetic/order; 65 original reviews and peer links; 4 targeted source comparisons | Reconcile main, regenerate rankings and run global checks |
 | Timor-Leste | [#58](https://github.com/Persie0/TopTravelList/pull/58) | Atauro reefs and Nino Konis Santana retained with specialist peers | Two targeted source comparisons and canonical score arithmetic | Generated city/sight tables currently empty despite 62 documented entries; regenerate and run full checks |
+| Costa Rica | [#59](https://github.com/Persie0/TopTravelList/pull/59) | Monteverde 92.70 → 92.10; Corcovado and Tortuguero retained | 83 ranked rows arithmetic/order; 90 original reviews and peer links; three targeted visitor-scope comparisons | Reconcile main, regenerate rankings, full Python checks and merge |
+| Panama | [#62](https://github.com/Persie0/TopTravelList/pull/62) | Miraflores 90.20 → 88.30; entire canal and Coiba retained | 67 ranked rows arithmetic/order; 75 original reviews and peer links; targeted source comparisons | Reconcile main, regenerate rankings, full Python checks and merge |
 
 ## Automated screening only
 
