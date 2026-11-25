@@ -2,7 +2,7 @@
 
 # Mali (ML) — Sights & attractions ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**11 ranked** · **18 unassessed** · **29 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,11 +10,46 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (11)
 
-No sights & attractions have been assessed for **Mali** yet.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Cliff of Bandiagara (Land of the Dogons)](sights/bandiagara-escarpment.yaml) | Attraction | **93.95** | **Culture 9.7**, **Architecture 9.5**, **Photography 9.5**, Nature 9.2 | 9.5 / 9.6 / 9.5 / 8.9 / 9.1 | [14.333, -3.583](https://www.google.com/maps/search/?api=1&query=14.333,-3.583) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cliff%20of%20Bandiagara%20%28Land%20of%20the%20Dogons%29%2C%20Mali) |
+| 2 | [Djenné Old Town](sights/djenne-old-town.yaml) | Historic settlement | **91.90** | **Architecture 9.6**, **History 9.5**, **Culture 9.4** | 9.2 / 9.5 / 9.5 / 8.5 / 8.8 | [13.90527, -4.55537](https://www.google.com/maps/search/?api=1&query=13.90527,-4.55537) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Djenn%C3%A9%20Old%20Town%2C%20Mali) |
+| 3 | [Great Mosque of Djenné](sights/djenne-great-mosque.yaml) | Religious site | **91.20** | **Architecture 9.7**, **Culture 9.5**, **History 9.4**, Photography 9.4 | 9.5 / 9.7 / 9.4 / 8.1 / 7.5 | [13.9053, -4.555](https://www.google.com/maps/search/?api=1&query=13.9053,-4.555) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Great%20Mosque%20of%20Djenn%C3%A9%2C%20Mali) |
+| 4 | [Timbuktu Historic Mosques and Mausoleums](sights/timbuktu-heritage.yaml) | Religious site | **89.95** | **History 9.7**, **Culture 9.6**, **Architecture 9.2** | 8.8 / 9.5 / 9.7 / 8.0 / 8.4 | [16.773, -3.007](https://www.google.com/maps/search/?api=1&query=16.773,-3.007) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Timbuktu%20Historic%20Mosques%20and%20Mausoleums%2C%20Mali) |
+| 5 | [Tomb of Askia](sights/tomb-of-askia.yaml) | Museum / heritage | **88.20** | **Architecture 9.4**, **History 9.4** | 8.9 / 9.4 / 9.4 / 7.8 / 7.5 | [16.2898, -0.04456](https://www.google.com/maps/search/?api=1&query=16.2898,-0.04456) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tomb%20of%20Askia%2C%20Mali) |
+| 6 | [Djinguereber Mosque](sights/djinguereber-mosque.yaml) | Religious site | **87.20** | **History 9.4**, **Architecture 9.3** | 8.8 / 9.2 / 9.4 / 7.8 / 7.3 | [16.7719, -3.0103](https://www.google.com/maps/search/?api=1&query=16.7719,-3.0103) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Djinguereber%20Mosque%2C%20Mali) |
+| 7 | [Kamandjan Arch](sights/kamandjan-arch.yaml) | Attraction | **85.10** | **Photography 9.0**, **Nature 8.7**, **History 8.5** | 8.7 / 8.8 / 8.3 / 8.4 / 7.8 | [12.426, -8.355](https://www.google.com/maps/search/?api=1&query=12.426,-8.355) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kamandjan%20Arch%2C%20Mali) |
+| 8 | [Sankoré Mosque](sights/sankore-mosque.yaml) | Religious site | **85.00** | **History 9.4**, **Culture 9.2**, **Architecture 8.9** | 8.4 / 9.1 / 9.4 / 7.5 / 7.0 | [16.776, -3.007](https://www.google.com/maps/search/?api=1&query=16.776,-3.007) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sankor%C3%A9%20Mosque%2C%20Mali) |
+| 9 | [National Museum of Mali](sights/national-museum-mali.yaml) | Museum / heritage | **84.05** | **Culture 9.1**, **History 9.0** | 8.1 / 8.5 / 8.8 / 8.4 / 8.3 | [12.652, -7.998](https://www.google.com/maps/search/?api=1&query=12.652,-7.998) | [Google Maps](https://www.google.com/maps/search/?api=1&query=National%20Museum%20of%20Mali%2C%20Mali) |
+| 10 | [Komoguel Grand Mosque, Mopti](sights/komoguel-mosque.yaml) | Religious site | **83.55** | **Architecture 9.0**, **Photography 8.8** | 8.6 / 8.9 / 8.5 / 7.6 / 7.1 | [14.492, -4.195](https://www.google.com/maps/search/?api=1&query=14.492,-4.195) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Komoguel%20Grand%20Mosque%2C%20Mopti%2C%20Mali) |
+| 11 | [Fort of Médine](sights/medine-fort.yaml) | Fortification | **79.65** | **History 8.8**, **Architecture 8.1** | 7.8 / 8.0 / 8.6 / 7.7 / 7.5 | [14.434, -11.341](https://www.google.com/maps/search/?api=1&query=14.434,-11.341) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Fort%20of%20M%C3%A9dine%2C%20Mali) |
 
-Add destination YAML files in [sights/](sights/), then regenerate the overview files.
+## Not yet fully assessed (18)
+
+These destinations have no rank until all five core scores are assessed.
+
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| — | [Bafing Makana Biodiversity Reserve](sights/bafing-makana.yaml) | Attraction | **—** | **Nature 9.0**, **Wildlife 9.0** | — / 8.6 / 8.8 / — / — | [14.08333, -8.88333](https://www.google.com/maps/search/?api=1&query=14.08333,-8.88333) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bafing%20Makana%20Biodiversity%20Reserve%2C%20Mali) |
+| — | [Boucle du Baoulé Cultural Landscape](sights/boucle-du-baoule.yaml) | Coast | **—** | **History 8.9**, **Nature 8.8** | — / 8.6 / 8.8 / — / — | [13.7, -8.4](https://www.google.com/maps/search/?api=1&query=13.7,-8.4) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Boucle%20du%20Baoul%C3%A9%20Cultural%20Landscape%2C%20Mali) |
+| — | [Djenné-Djeno Archaeological Site](sights/djenne-djeno.yaml) | Museum / heritage | **—** | **History 9.7** | 7.7 / 9.2 / 9.6 / — / — | [13.89026, -4.54044](https://www.google.com/maps/search/?api=1&query=13.89026,-4.54044) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Djenn%C3%A9-Djeno%20Archaeological%20Site%2C%20Mali) |
+| — | [Es-Souk (Essouk) Archaeological Site](sights/es-souk.yaml) | Museum / heritage | **—** | **History 9.2** | — / 8.8 / 9.1 / — / — | [18.78, 1.19](https://www.google.com/maps/search/?api=1&query=18.78,1.19) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Es-Souk%20%28Essouk%29%20Archaeological%20Site%2C%20Mali) |
+| — | [Gourma Elephant Biodiversity Reserve](sights/gourma-elephant-reserve.yaml) | Attraction | **—** | **Wildlife 9.6**, **Nature 9.2** | — / 9.6 / 9.5 / — / — | [15.5, -1.8](https://www.google.com/maps/search/?api=1&query=15.5,-1.8) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Gourma%20Elephant%20Biodiversity%20Reserve%2C%20Mali) |
+| — | [Great Friday Mosque of Niono](sights/niono-friday-mosque.yaml) | Religious site | **—** | **Architecture 9.2** | 8.5 / 9.0 / 8.5 / — / — | [14.25, -5.99](https://www.google.com/maps/search/?api=1&query=14.25,-5.99) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Great%20Friday%20Mosque%20of%20Niono%2C%20Mali) |
+| — | [Hambarkétolo Archaeological Site](sights/hambarketolo.yaml) | Museum / heritage | **—** | **History 9.0** | — / 8.4 / 8.8 / — / — | [13.89577, -4.54169](https://www.google.com/maps/search/?api=1&query=13.89577,-4.54169) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hambark%C3%A9tolo%20Archaeological%20Site%2C%20Mali) |
+| — | [Hamdallahi Historic City](sights/hamdallahi.yaml) | Attraction | **—** | **History 9.1** | — / 8.8 / 9.0 / — / — | [14.2, -4](https://www.google.com/maps/search/?api=1&query=14.2,-4) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hamdallahi%20Historic%20City%2C%20Mali) |
+| — | [Historical Sites and Cultural Landscapes of Manden](sights/manden-cultural-landscape.yaml) | Coast | **—** | **Culture 9.2**, **History 9.2** | — / 9.0 / 9.1 / — / — | [11.95, -8.42](https://www.google.com/maps/search/?api=1&query=11.95,-8.42) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Historical%20Sites%20and%20Cultural%20Landscapes%20of%20Manden%2C%20Mali) |
+| — | [Inner Niger Delta (Markala to Lake Débo)](sights/inner-niger-delta.yaml) | Lake | **—** | **Nature 9.3**, **Wildlife 9.3** | 8.8 / 9.2 / 9.4 / — / — | [14.9, -4.3](https://www.google.com/maps/search/?api=1&query=14.9,-4.3) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Inner%20Niger%20Delta%20%28Markala%20to%20Lake%20D%C3%A9bo%29%2C%20Mali) |
+| — | [Kaniana Archaeological Site](sights/kaniana.yaml) | Museum / heritage | **—** | **History 9.0** | — / 8.4 / 8.8 / — / — | [13.91247, -4.56921](https://www.google.com/maps/search/?api=1&query=13.91247,-4.56921) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kaniana%20Archaeological%20Site%2C%20Mali) |
+| — | [Kankou Moussa Mosque Archaeological Site](sights/kankou-moussa-mosque-site.yaml) | Religious site | **—** | **History 9.1** | — / 8.8 / 9.0 / — / — | [16.2925, -0.0359](https://www.google.com/maps/search/?api=1&query=16.2925,-0.0359) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kankou%20Moussa%20Mosque%20Archaeological%20Site%2C%20Mali) |
+| — | [Lake Magui](sights/lake-magui.yaml) | Lake | **—** | **Nature 8.5**, **Wildlife 8.4** | — / 8.0 / 8.3 / — / — | [14.8, -11.2](https://www.google.com/maps/search/?api=1&query=14.8,-11.2) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lake%20Magui%2C%20Mali) |
+| — | [Mandiakuy Church](sights/mandiakuy-church.yaml) | Religious site | **—** | **Architecture 8.2** | — / 7.9 / 8.0 / — / — | [13.01665, -4.46278](https://www.google.com/maps/search/?api=1&query=13.01665,-4.46278) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mandiakuy%20Church%2C%20Mali) |
+| — | [Sacred Heart Cathedral of Bamako](sights/bamako-cathedral.yaml) | Religious site | **—** | **Architecture 8.0** | 7.5 / 7.5 / 7.9 / — / — | [12.643, -7.993](https://www.google.com/maps/search/?api=1&query=12.643,-7.993) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sacred%20Heart%20Cathedral%20of%20Bamako%2C%20Mali) |
+| — | [Sidi Yahia Mosque](sights/sidi-yahia-mosque.yaml) | Religious site | **—** | **History 9.1**, **Architecture 8.7** | 7.9 / 8.7 / 9.0 / — / — | [16.772, -3.008](https://www.google.com/maps/search/?api=1&query=16.772,-3.008) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sidi%20Yahia%20Mosque%2C%20Mali) |
+| — | [Tata of Sikasso](sights/tata-sikasso.yaml) | Attraction | **—** | **History 8.8** | 7.2 / 8.2 / 8.7 / — / — | [11.318, -5.667](https://www.google.com/maps/search/?api=1&query=11.318,-5.667) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tata%20of%20Sikasso%2C%20Mali) |
+| — | [Tonomba Archaeological Site](sights/tonomba.yaml) | Museum / heritage | **—** | **History 9.0** | — / 8.3 / 8.8 / — / — | [13.90662, -4.54772](https://www.google.com/maps/search/?api=1&query=13.90662,-4.54772) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tonomba%20Archaeological%20Site%2C%20Mali) |
 
 ---
 
