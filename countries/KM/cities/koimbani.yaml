@@ -1,0 +1,15 @@
+id: city-km-koimbani
+name: "Koimbani"
+location:
+  country_code: KM
+  latitude: -11.7750
+  longitude: 43.4220
+scores:
+  impact: 6.6
+  uniqueness: 7.6
+  significance: 7.8
+  experience: 7.2
+  depth: 5.8
+  categories:
+    history: 8.3
+    culture: 8.1

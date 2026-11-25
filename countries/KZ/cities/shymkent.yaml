@@ -1,0 +1,15 @@
+id: city-kz-shymkent
+name: "Shymkent"
+location:
+  country_code: KZ
+  latitude: 42.316
+  longitude: 69.595
+scores:
+  impact: 7.2
+  uniqueness: 7.5
+  significance: 7.6
+  experience: 8.0
+  depth: 7.8
+  categories:
+    culture: 8.3
+    food: 8.6

@@ -1,0 +1,15 @@
+id: city-tj-kulob
+name: "Kulob"
+location:
+  country_code: TJ
+  latitude: 37.91
+  longitude: 69.78
+scores:
+  impact: 6.9
+  uniqueness: 7.3
+  significance: 7.9
+  experience: 7.4
+  depth: 7.1
+  categories:
+    history: 8.4
+    culture: 8.1

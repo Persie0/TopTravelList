@@ -1,0 +1,18 @@
+id: city-ae-dubai
+name: "Dubai"
+location:
+  country_code: AE
+  latitude: 25.2048
+  longitude: 55.2708
+scores:
+  impact: 9.2
+  uniqueness: 9.3
+  significance: 8.1
+  experience: 9.4
+  depth: 9.5
+  categories:
+    architecture: 9.5
+    food: 9.0
+    photography: 9.5
+    family: 9.2
+    nightlife: 9.3
