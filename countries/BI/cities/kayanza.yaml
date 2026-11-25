@@ -1,0 +1,15 @@
+id: city-bi-kayanza
+name: "Kayanza"
+location:
+  country_code: BI
+  latitude: -2.922
+  longitude: 29.629
+scores:
+  impact: 6.1
+  uniqueness: 7.1
+  significance: 6.5
+  experience: 7.2
+  depth: 6.1
+  categories:
+    culture: 7.6
+    food: 7.7

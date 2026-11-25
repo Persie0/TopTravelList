@@ -1,0 +1,15 @@
+id: city-bi-bururi
+name: "Bururi"
+location:
+  country_code: BI
+  latitude: -3.95
+  longitude: 29.61
+scores:
+  impact: 6.2
+  uniqueness: 6.8
+  significance: 6.6
+  experience: 7.1
+  depth: 6.0
+  categories:
+    culture: 7.4
+    relaxation: 7.6

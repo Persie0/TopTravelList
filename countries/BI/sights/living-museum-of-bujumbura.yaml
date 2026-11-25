@@ -1,0 +1,15 @@
+id: sight-bi-living-museum-of-bujumbura
+name: "Living Museum of Bujumbura"
+location:
+  country_code: BI
+  latitude: -3.391
+  longitude: 29.354
+scores:
+  impact: 6.5
+  uniqueness: 7.3
+  significance: 7.2
+  experience: 7.0
+  depth: 6.6
+  categories:
+    culture: 7.7
+    wildlife: 7.5
