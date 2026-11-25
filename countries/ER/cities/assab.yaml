@@ -1,0 +1,15 @@
+id: city-er-assab
+name: "Assab"
+location:
+  country_code: ER
+  latitude: 13.01
+  longitude: 42.74
+scores:
+  impact: null
+  uniqueness: 7.7
+  significance: 7.8
+  experience: null
+  depth: null
+  categories:
+    history: 8.3
+    culture: 7.9
