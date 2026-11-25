@@ -1,0 +1,15 @@
+id: sight-us-white-sands
+name: "White Sands National Park"
+location:
+  country_code: US
+  latitude: 32.78
+  longitude: -106.17
+scores:
+  impact: 9.0
+  uniqueness: 9.1
+  significance: 8.4
+  experience: 8.8
+  depth: 8.1
+  categories:
+    nature: 9.3
+    photography: 9.4

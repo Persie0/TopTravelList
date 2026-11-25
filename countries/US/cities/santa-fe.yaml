@@ -1,0 +1,16 @@
+id: city-us-santa-fe
+name: "Santa Fe"
+location:
+  country_code: US
+  latitude: 35.687
+  longitude: -105.938
+scores:
+  impact: 8.3
+  uniqueness: 8.8
+  significance: 8.7
+  experience: 8.5
+  depth: 8.0
+  categories:
+    culture: 9.2
+    architecture: 9.0
+    history: 8.9
