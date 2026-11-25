@@ -1,0 +1,16 @@
+id: sight-sl-gola-rainforest-national-park
+name: "Gola Rainforest National Park"
+location:
+  country_code: SL
+  latitude: 7.65
+  longitude: -10.87
+scores:
+  impact: 8.7
+  uniqueness: 9.1
+  significance: 9.4
+  experience: 8.5
+  depth: 8.8
+  categories:
+    nature: 9.4
+    wildlife: 9.4
+    adventure: 8.9

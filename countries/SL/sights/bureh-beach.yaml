@@ -1,0 +1,15 @@
+id: sight-sl-bureh-beach
+name: "Bureh Beach"
+location:
+  country_code: SL
+  latitude: 8.18
+  longitude: -13.17
+scores:
+  impact: 8.4
+  uniqueness: 8.0
+  significance: 6.2
+  experience: 8.7
+  depth: 7.4
+  categories:
+    adventure: 9.0
+    beaches: 8.8
