@@ -1,0 +1,16 @@
+id: sight-ch-jungfrau-aletsch
+name: "Swiss Alps Jungfrau-Aletsch"
+location:
+  country_code: CH
+  latitude: 46.5
+  longitude: 8.02
+scores:
+  impact: 9.6
+  uniqueness: 9.4
+  significance: 9.5
+  experience: 9.4
+  depth: 9.5
+  categories:
+    nature: 9.8
+    photography: 9.7
+    adventure: 9.5

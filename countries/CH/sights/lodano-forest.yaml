@@ -1,0 +1,15 @@
+id: sight-ch-lodano-forest
+name: "Valle di Lodano beech forest visitor landscape"
+location:
+  country_code: CH
+  latitude: 46.26
+  longitude: 8.65
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 9.1
+  experience: 8.5
+  depth: 8.5
+  categories:
+    nature: 9.3
+    adventure: 8.9

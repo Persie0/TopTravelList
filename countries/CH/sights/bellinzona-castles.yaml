@@ -1,0 +1,16 @@
+id: sight-ch-bellinzona-castles
+name: "Three Castles and Defensive Walls of Bellinzona"
+location:
+  country_code: CH
+  latitude: 46.194
+  longitude: 9.022
+scores:
+  impact: 9.1
+  uniqueness: 9.1
+  significance: 9.2
+  experience: 9.0
+  depth: 9.1
+  categories:
+    architecture: 9.3
+    history: 9.4
+    photography: 9.2

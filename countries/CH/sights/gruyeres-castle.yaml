@@ -1,0 +1,16 @@
+id: sight-ch-gruyeres-castle
+name: "Gruyères Castle"
+location:
+  country_code: CH
+  latitude: 46.584
+  longitude: 7.083
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 8.7
+  experience: 8.7
+  depth: 8.2
+  categories:
+    architecture: 9.1
+    history: 9.1
+    photography: 9.1
