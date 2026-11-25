@@ -1,0 +1,15 @@
+id: sight-ch-watchmaking-towns
+name: "La Chaux-de-Fonds and Le Locle watchmaking town planning"
+location:
+  country_code: CH
+  latitude: 47.083
+  longitude: 6.79
+scores:
+  impact: 8.3
+  uniqueness: 9.1
+  significance: 9.2
+  experience: 8.5
+  depth: 8.9
+  categories:
+    architecture: 9.2
+    history: 9.3

@@ -1,0 +1,15 @@
+id: sight-de-shum
+name: "ShUM Sites of Speyer Worms and Mainz"
+location:
+  country_code: DE
+  latitude: 49.63
+  longitude: 8.36
+scores:
+  impact: 8.5
+  uniqueness: 9.1
+  significance: 9.4
+  experience: 8.5
+  depth: 8.7
+  categories:
+    history: 9.5
+    culture: 9.3

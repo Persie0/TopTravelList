@@ -1,0 +1,17 @@
+id: sight-bi-lake-tanganyika-burundian-shore-and-visitor-waters
+name: "Lake Tanganyika (Burundian shore and visitor waters)"
+location:
+  country_code: BI
+  latitude: -3.80
+  longitude: 29.34
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 9.1
+  experience: 8.4
+  depth: 8.4
+  categories:
+    nature: 9.2
+    wildlife: 9.0
+    relaxation: 8.8
+    photography: 8.9

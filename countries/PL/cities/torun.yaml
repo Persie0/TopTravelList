@@ -1,0 +1,16 @@
+id: city-pl-torun
+name: "Toruń"
+location:
+  country_code: PL
+  latitude: 53.0138
+  longitude: 18.5984
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.8
+  depth: 8.4
+  categories:
+    architecture: 9.3
+    history: 9.3
+    culture: 9.0

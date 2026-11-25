@@ -1,0 +1,15 @@
+id: sight-de-schleswig-wadden
+name: "Schleswig-Holstein Wadden Sea National Park"
+location:
+  country_code: DE
+  latitude: 54.48
+  longitude: 8.65
+scores:
+  impact: 8.8
+  uniqueness: 9.3
+  significance: 9.3
+  experience: 8.8
+  depth: 9.1
+  categories:
+    nature: 9.5
+    wildlife: 9.5

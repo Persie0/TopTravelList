@@ -1,0 +1,16 @@
+id: sight-pl-malbork-castle
+name: "Castle of the Teutonic Order in Malbork"
+location:
+  country_code: PL
+  latitude: 54.0397
+  longitude: 19.0276
+scores:
+  impact: 9.4
+  uniqueness: 9.4
+  significance: 9.3
+  experience: 9.2
+  depth: 9.3
+  categories:
+    architecture: 9.6
+    history: 9.4
+    photography: 9.3

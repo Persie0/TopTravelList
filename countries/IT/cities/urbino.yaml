@@ -1,0 +1,16 @@
+id: city-it-urbino
+name: "Urbino"
+location:
+  country_code: IT
+  latitude: 43.7262
+  longitude: 12.6363
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 9.2
+  experience: 8.8
+  depth: 8.4
+  categories:
+    architecture: 9.4
+    culture: 9.3
+    history: 9.3

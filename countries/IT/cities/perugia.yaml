@@ -1,0 +1,16 @@
+id: city-it-perugia
+name: "Perugia"
+location:
+  country_code: IT
+  latitude: 43.1107
+  longitude: 12.3908
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 8.9
+  experience: 8.8
+  depth: 8.6
+  categories:
+    architecture: 9.2
+    history: 9.2
+    culture: 9.0

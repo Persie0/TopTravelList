@@ -1,0 +1,15 @@
+id: sight-ch-rhine-falls
+name: "Rhine Falls"
+location:
+  country_code: CH
+  latitude: 47.678
+  longitude: 8.615
+scores:
+  impact: 9.2
+  uniqueness: 8.8
+  significance: 8.4
+  experience: 9.0
+  depth: 8.2
+  categories:
+    nature: 9.3
+    photography: 9.4

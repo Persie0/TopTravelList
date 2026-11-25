@@ -1,0 +1,16 @@
+id: sight-es-gaudi-works
+name: "Works of Antoni Gaudí (seven listed components)"
+location:
+  country_code: ES
+  latitude: 41.404
+  longitude: 2.174
+scores:
+  impact: 9.5
+  uniqueness: 9.6
+  significance: 9.5
+  experience: 9.2
+  depth: 9.5
+  categories:
+    architecture: 9.8
+    culture: 9.5
+    photography: 9.6

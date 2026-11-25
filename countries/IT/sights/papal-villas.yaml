@@ -1,0 +1,15 @@
+id: sight-it-papal-villas
+name: "Villas of the Papal Nobility"
+location:
+  country_code: IT
+  latitude: 41.85
+  longitude: 12.7
+scores:
+  impact: null
+  uniqueness: 8.9
+  significance: 9.1
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.3
+    history: 9.2

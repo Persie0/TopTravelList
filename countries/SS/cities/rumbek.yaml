@@ -1,0 +1,15 @@
+id: city-ss-rumbek
+name: "Rumbek"
+location:
+  country_code: SS
+  latitude: 6.806
+  longitude: 29.677
+scores:
+  impact: null
+  uniqueness: 7.3
+  significance: 7.5
+  experience: null
+  depth: null
+  categories:
+    history: 8.0
+    culture: 7.9

@@ -1,0 +1,15 @@
+id: sight-gq-casa-verde-malabo
+name: "Casa Verde (Malabo)"
+location:
+  country_code: GQ
+  latitude: 3.75
+  longitude: 8.78
+scores:
+  impact: 7.0
+  uniqueness: 7.9
+  significance: 8.0
+  experience: 7.2
+  depth: 5.8
+  categories:
+    architecture: 8.5
+    history: 8.3

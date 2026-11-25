@@ -1,0 +1,16 @@
+id: sight-pl-muskauer-park
+name: "Park Mużakowski (Polish section)"
+location:
+  country_code: PL
+  latitude: 51.546
+  longitude: 14.746
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 8.8
+  depth: 8.8
+  categories:
+    nature: 9.1
+    architecture: 8.8
+    photography: 9.0

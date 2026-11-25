@@ -1,0 +1,16 @@
+id: sight-pt-sintra-landscape
+name: "Cultural Landscape of Sintra"
+location:
+  country_code: PT
+  latitude: 38.79
+  longitude: -9.4
+scores:
+  impact: 9.4
+  uniqueness: 9.4
+  significance: 9.3
+  experience: 9.3
+  depth: 9.5
+  categories:
+    architecture: 9.6
+    nature: 9.2
+    photography: 9.5

@@ -1,0 +1,15 @@
+id: sight-cg-lac-tele-community-reserve
+name: "Lac Télé Community Reserve"
+location:
+  country_code: CG
+  latitude: 1.34
+  longitude: 17.16
+scores:
+  impact: null
+  uniqueness: 8.8
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    nature: 9.3
+    wildlife: 9.3

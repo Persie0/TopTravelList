@@ -1,0 +1,15 @@
+id: sight-de-le-corbusier
+name: "Le Corbusier architectural work (Weissenhof houses)"
+location:
+  country_code: DE
+  latitude: 48.8
+  longitude: 9.177
+scores:
+  impact: 8.4
+  uniqueness: 9.1
+  significance: 9.3
+  experience: 8.5
+  depth: 7.9
+  categories:
+    architecture: 9.4
+    history: 9.2

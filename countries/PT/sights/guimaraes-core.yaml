@@ -1,0 +1,15 @@
+id: sight-pt-guimaraes-core
+name: "Historic Centre of Guimarães and Couros Zone"
+location:
+  country_code: PT
+  latitude: 41.443
+  longitude: -8.295
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 9.1
+  experience: 8.8
+  depth: 8.8
+  categories:
+    architecture: 9.3
+    history: 9.3

@@ -1,0 +1,15 @@
+id: sight-gw-cufada-lagoons-natural-park
+name: "Cufada Lagoons Natural Park"
+location:
+  country_code: GW
+  latitude: 11.72
+  longitude: -15.02
+scores:
+  impact: 7.9
+  uniqueness: 8.4
+  significance: 8.8
+  experience: 7.7
+  depth: 8.0
+  categories:
+    nature: 9.0
+    wildlife: 9.1

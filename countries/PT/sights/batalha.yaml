@@ -1,0 +1,15 @@
+id: sight-pt-batalha
+name: "Monastery of Batalha"
+location:
+  country_code: PT
+  latitude: 39.659
+  longitude: -8.826
+scores:
+  impact: 9.2
+  uniqueness: 9.2
+  significance: 9.3
+  experience: 9.0
+  depth: 8.7
+  categories:
+    architecture: 9.5
+    history: 9.4

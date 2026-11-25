@@ -1,0 +1,14 @@
+id: sight-es-andorra-components
+name: "Evidence of Andorra co-principality (Spanish nominated components)"
+location:
+  country_code: ES
+  latitude: 42.36
+  longitude: 1.46
+scores:
+  impact: null
+  uniqueness: 8.8
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    history: 9.3

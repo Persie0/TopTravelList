@@ -1,0 +1,16 @@
+id: sight-it-tre-cime
+name: "Tre Cime di Lavaredo landscape"
+location:
+  country_code: IT
+  latitude: 46.62
+  longitude: 12.3
+scores:
+  impact: 9.6
+  uniqueness: 9.4
+  significance: 8.9
+  experience: 9.2
+  depth: 8.8
+  categories:
+    nature: 9.7
+    photography: 9.7
+    adventure: 9.4

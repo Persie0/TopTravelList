@@ -1,0 +1,16 @@
+id: city-it-padua
+name: "Padua"
+location:
+  country_code: IT
+  latitude: 45.4064
+  longitude: 11.8768
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 9.2
+  experience: 8.9
+  depth: 8.8
+  categories:
+    architecture: 9.3
+    culture: 9.4
+    history: 9.3

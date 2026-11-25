@@ -1,0 +1,15 @@
+id: sight-es-garajonay
+name: "Garajonay National Park"
+location:
+  country_code: ES
+  latitude: 28.12
+  longitude: -17.24
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 9.3
+  experience: 9.0
+  depth: 8.8
+  categories:
+    nature: 9.5
+    photography: 9.4

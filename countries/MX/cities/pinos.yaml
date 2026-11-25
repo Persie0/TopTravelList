@@ -1,0 +1,16 @@
+id: city-mx-pinos
+name: "Pinos"
+location:
+  country_code: MX
+  latitude: 22.298711
+  longitude: -101.575136
+scores:
+  impact: 7.8
+  uniqueness: 8.3
+  significance: 8.4
+  experience: 7.8
+  depth: 7.2
+  categories:
+    architecture: 8.7
+    history: 8.8
+    culture: 8.5

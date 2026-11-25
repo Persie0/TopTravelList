@@ -1,0 +1,15 @@
+id: sight-it-caserta
+name: "Royal Palace of Caserta and associated park and works"
+location:
+  country_code: IT
+  latitude: 41.073
+  longitude: 14.327
+scores:
+  impact: 9.4
+  uniqueness: 9.2
+  significance: 9.3
+  experience: 9.1
+  depth: 9.4
+  categories:
+    architecture: 9.6
+    history: 9.4

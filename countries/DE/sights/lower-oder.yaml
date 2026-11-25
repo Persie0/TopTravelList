@@ -1,0 +1,15 @@
+id: sight-de-lower-oder
+name: "Lower Oder Valley National Park"
+location:
+  country_code: DE
+  latitude: 53.1
+  longitude: 14.3
+scores:
+  impact: 8.3
+  uniqueness: 8.8
+  significance: 8.8
+  experience: 8.6
+  depth: 8.7
+  categories:
+    nature: 9.2
+    wildlife: 9.3

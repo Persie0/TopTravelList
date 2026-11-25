@@ -1,0 +1,15 @@
+id: sight-de-schachen
+name: "King's House on Schachen"
+location:
+  country_code: DE
+  latitude: 47.42
+  longitude: 11.11
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 8.8
+  experience: 8.5
+  depth: 8.0
+  categories:
+    architecture: 9.1
+    photography: 9.2

@@ -1,0 +1,15 @@
+id: sight-pt-aguas-livres
+name: "Águas Livres Aqueduct"
+location:
+  country_code: PT
+  latitude: 38.728
+  longitude: -9.167
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 8.5
+  depth: 8.2
+  categories:
+    architecture: 9.2
+    history: 9.2

@@ -1,0 +1,15 @@
+id: sight-gr-tiryns
+name: "Tiryns archaeological citadel"
+location:
+  country_code: GR
+  latitude: 37.599
+  longitude: 22.8
+scores:
+  impact: 8.5
+  uniqueness: 9.0
+  significance: 9.3
+  experience: 8.5
+  depth: 8.1
+  categories:
+    history: 9.4
+    architecture: 9.2

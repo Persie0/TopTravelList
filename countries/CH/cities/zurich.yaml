@@ -1,0 +1,16 @@
+id: city-ch-zurich
+name: "Zurich"
+location:
+  country_code: CH
+  latitude: 47.3769
+  longitude: 8.5417
+scores:
+  impact: 8.6
+  uniqueness: 8.5
+  significance: 8.8
+  experience: 9.0
+  depth: 9.0
+  categories:
+    culture: 9.2
+    architecture: 9.0
+    history: 8.9

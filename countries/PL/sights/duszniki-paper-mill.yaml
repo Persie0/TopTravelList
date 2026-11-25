@@ -1,0 +1,15 @@
+id: sight-pl-duszniki-paper-mill
+name: "Paper Mill in Duszniki-Zdrój (European Paper Mills component)"
+location:
+  country_code: PL
+  latitude: 50.405
+  longitude: 16.39
+scores:
+  impact: 8.2
+  uniqueness: 8.7
+  significance: 8.9
+  experience: 8.6
+  depth: 8.1
+  categories:
+    history: 9.2
+    culture: 9.0

@@ -1,0 +1,16 @@
+id: city-ch-st-gallen
+name: "St. Gallen"
+location:
+  country_code: CH
+  latitude: 47.4245
+  longitude: 9.3767
+scores:
+  impact: 8.6
+  uniqueness: 8.6
+  significance: 8.8
+  experience: 8.6
+  depth: 8.3
+  categories:
+    architecture: 9.1
+    history: 9.2
+    culture: 8.9

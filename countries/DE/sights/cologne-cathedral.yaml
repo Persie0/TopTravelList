@@ -1,0 +1,16 @@
+id: sight-de-cologne-cathedral
+name: "Cologne Cathedral"
+location:
+  country_code: DE
+  latitude: 50.9413
+  longitude: 6.9583
+scores:
+  impact: 9.5
+  uniqueness: 9.2
+  significance: 9.5
+  experience: 9.1
+  depth: 8.8
+  categories:
+    architecture: 9.7
+    history: 9.4
+    photography: 9.4

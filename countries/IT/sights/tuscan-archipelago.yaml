@@ -1,0 +1,15 @@
+id: sight-it-tuscan-archipelago
+name: "Tuscan Archipelago National Park"
+location:
+  country_code: IT
+  latitude: 42.78
+  longitude: 10.28
+scores:
+  impact: 9.0
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 9.0
+  depth: 9.2
+  categories:
+    nature: 9.4
+    beaches: 9.1

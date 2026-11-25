@@ -1,0 +1,16 @@
+id: sight-gr-zakynthos-marine
+name: "Zakynthos National Marine Park"
+location:
+  country_code: GR
+  latitude: 37.68
+  longitude: 20.9
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 9.1
+  experience: 8.8
+  depth: 8.8
+  categories:
+    nature: 9.4
+    wildlife: 9.4
+    beaches: 9.0

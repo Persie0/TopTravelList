@@ -1,0 +1,15 @@
+id: sight-pl-auschwitz-birkenau
+name: "Auschwitz-Birkenau Memorial and Museum"
+location:
+  country_code: PL
+  latitude: 50.0275
+  longitude: 19.2036
+scores:
+  impact: 9.5
+  uniqueness: 9.7
+  significance: 9.9
+  experience: 9.2
+  depth: 9.4
+  categories:
+    history: 9.9
+    culture: 9.3

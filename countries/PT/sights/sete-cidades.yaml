@@ -1,0 +1,15 @@
+id: sight-pt-sete-cidades
+name: "Sete Cidades volcanic caldera"
+location:
+  country_code: PT
+  latitude: 37.86
+  longitude: -25.79
+scores:
+  impact: 9.3
+  uniqueness: 9.2
+  significance: 8.8
+  experience: 9.2
+  depth: 9.0
+  categories:
+    nature: 9.4
+    photography: 9.5

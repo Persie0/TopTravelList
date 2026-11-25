@@ -1,0 +1,15 @@
+id: city-it-lecce
+name: "Lecce"
+location:
+  country_code: IT
+  latitude: 40.3515
+  longitude: 18.175
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 8.9
+  depth: 8.5
+  categories:
+    architecture: 9.4
+    history: 9.1

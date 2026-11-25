@@ -1,0 +1,17 @@
+id: city-pt-lisbon
+name: "Lisbon"
+location:
+  country_code: PT
+  latitude: 38.7223
+  longitude: -9.1393
+scores:
+  impact: 9.2
+  uniqueness: 9.2
+  significance: 9.2
+  experience: 9.3
+  depth: 9.4
+  categories:
+    architecture: 9.3
+    history: 9.3
+    culture: 9.3
+    food: 9.2

@@ -1,0 +1,15 @@
+id: city-gr-metsovo
+name: "Metsovo"
+location:
+  country_code: GR
+  latitude: 39.77
+  longitude: 21.182
+scores:
+  impact: 8.4
+  uniqueness: 8.6
+  significance: 8.4
+  experience: 8.6
+  depth: 7.9
+  categories:
+    architecture: 8.9
+    food: 8.9

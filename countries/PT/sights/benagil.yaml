@@ -1,0 +1,15 @@
+id: sight-pt-benagil
+name: "Benagil sea cave"
+location:
+  country_code: PT
+  latitude: 37.087
+  longitude: -8.426
+scores:
+  impact: 9.1
+  uniqueness: 9.0
+  significance: 8.2
+  experience: 8.5
+  depth: 6.8
+  categories:
+    nature: 9.3
+    photography: 9.4

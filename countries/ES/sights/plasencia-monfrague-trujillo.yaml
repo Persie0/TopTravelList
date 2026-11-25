@@ -1,0 +1,15 @@
+id: sight-es-plasencia-monfrague-trujillo
+name: "Plasencia Monfragüe Trujillo Mediterranean landscape"
+location:
+  country_code: ES
+  latitude: 39.95
+  longitude: -5.9
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 8.9
+  experience: 8.9
+  depth: 9.2
+  categories:
+    nature: 9.3
+    history: 9.1

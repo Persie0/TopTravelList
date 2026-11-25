@@ -1,0 +1,15 @@
+id: sight-it-aniene
+name: "Aniene Valley and Villa Gregoriana"
+location:
+  country_code: IT
+  latitude: 41.97
+  longitude: 12.8
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 9.0
+  experience: 8.9
+  depth: 8.6
+  categories:
+    nature: 9.3
+    photography: 9.3

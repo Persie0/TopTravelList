@@ -1,0 +1,15 @@
+id: city-pt-tavira
+name: "Tavira"
+location:
+  country_code: PT
+  latitude: 37.127
+  longitude: -7.649
+scores:
+  impact: 8.4
+  uniqueness: 8.4
+  significance: 8.4
+  experience: 8.7
+  depth: 8.0
+  categories:
+    architecture: 8.9
+    relaxation: 8.9

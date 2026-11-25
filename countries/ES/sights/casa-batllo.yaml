@@ -1,0 +1,15 @@
+id: sight-es-casa-batllo
+name: "Casa Batlló"
+location:
+  country_code: ES
+  latitude: 41.392
+  longitude: 2.165
+scores:
+  impact: 9.3
+  uniqueness: 9.4
+  significance: 9.1
+  experience: 9.1
+  depth: 8.4
+  categories:
+    architecture: 9.6
+    photography: 9.4

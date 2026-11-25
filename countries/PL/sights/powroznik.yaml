@@ -1,0 +1,15 @@
+id: sight-pl-powroznik
+name: "Tserkva of St James the Less, Powroźnik"
+location:
+  country_code: PL
+  latitude: 49.369722
+  longitude: 20.950419
+scores:
+  impact: null
+  uniqueness: 8.6
+  significance: 8.9
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.1
+    history: 9.1

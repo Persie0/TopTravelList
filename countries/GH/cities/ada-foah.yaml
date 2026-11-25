@@ -1,0 +1,15 @@
+id: city-gh-ada-foah
+name: "Ada Foah"
+location:
+  country_code: GH
+  latitude: 5.78
+  longitude: 0.63
+scores:
+  impact: 6.9
+  uniqueness: 7.4
+  significance: 6.5
+  experience: 7.8
+  depth: 6.5
+  categories:
+    relaxation: 8.1
+    culture: 7.7

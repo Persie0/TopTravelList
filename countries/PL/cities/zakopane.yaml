@@ -1,0 +1,16 @@
+id: city-pl-zakopane
+name: "Zakopane"
+location:
+  country_code: PL
+  latitude: 49.2992
+  longitude: 19.9496
+scores:
+  impact: 8.2
+  uniqueness: 8.5
+  significance: 8.1
+  experience: 8.7
+  depth: 8.1
+  categories:
+    architecture: 8.9
+    culture: 8.8
+    relaxation: 8.8

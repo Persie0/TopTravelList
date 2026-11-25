@@ -1,0 +1,15 @@
+id: sight-es-donana
+name: "Doñana National Park"
+location:
+  country_code: ES
+  latitude: 36.98
+  longitude: -6.44
+scores:
+  impact: 8.8
+  uniqueness: 9.2
+  significance: 9.4
+  experience: 8.7
+  depth: 9.0
+  categories:
+    nature: 9.5
+    wildlife: 9.6

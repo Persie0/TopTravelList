@@ -1,0 +1,15 @@
+id: sight-es-casa-mila
+name: "Casa Milà"
+location:
+  country_code: ES
+  latitude: 41.395
+  longitude: 2.162
+scores:
+  impact: 9.1
+  uniqueness: 9.4
+  significance: 9.2
+  experience: 9.0
+  depth: 8.5
+  categories:
+    architecture: 9.6
+    photography: 9.3

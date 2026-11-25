@@ -1,0 +1,16 @@
+id: city-ua-lviv
+name: "Lviv"
+location:
+  country_code: UA
+  latitude: 49.8397
+  longitude: 24.0297
+scores:
+  impact: 9.1
+  uniqueness: 9.1
+  significance: 9.1
+  experience: 9.0
+  depth: 8.9
+  categories:
+    architecture: 9.5
+    history: 9.3
+    culture: 9.3

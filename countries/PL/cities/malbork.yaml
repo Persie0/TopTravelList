@@ -1,0 +1,15 @@
+id: city-pl-malbork
+name: "Malbork"
+location:
+  country_code: PL
+  latitude: 54.036
+  longitude: 19.039
+scores:
+  impact: 7.7
+  uniqueness: 7.9
+  significance: 8.1
+  experience: 8.1
+  depth: 7.3
+  categories:
+    history: 8.6
+    architecture: 8.4

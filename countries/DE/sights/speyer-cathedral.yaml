@@ -1,0 +1,15 @@
+id: sight-de-speyer-cathedral
+name: "Speyer Cathedral"
+location:
+  country_code: DE
+  latitude: 49.317
+  longitude: 8.442
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 9.4
+  experience: 8.8
+  depth: 8.4
+  categories:
+    architecture: 9.5
+    history: 9.4

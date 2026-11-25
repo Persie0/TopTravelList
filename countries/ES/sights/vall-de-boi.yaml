@@ -1,0 +1,15 @@
+id: sight-es-vall-de-boi
+name: "Romanesque Churches of the Vall de Boí"
+location:
+  country_code: ES
+  latitude: 42.52
+  longitude: 0.8
+scores:
+  impact: 8.9
+  uniqueness: 9.1
+  significance: 9.2
+  experience: 8.7
+  depth: 8.9
+  categories:
+    architecture: 9.4
+    history: 9.3

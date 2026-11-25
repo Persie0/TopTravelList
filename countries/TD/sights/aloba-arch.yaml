@@ -1,0 +1,15 @@
+id: sight-td-aloba-arch
+name: "Aloba Arch"
+location:
+  country_code: TD
+  latitude: 16.74184
+  longitude: 22.23905
+scores:
+  impact: 9.4
+  uniqueness: 9.4
+  significance: 7.8
+  experience: 8.5
+  depth: 6.7
+  categories:
+    nature: 9.4
+    photography: 9.5

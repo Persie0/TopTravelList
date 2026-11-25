@@ -1,0 +1,15 @@
+id: sight-ga-monts-birougou-national-park
+name: "Monts Birougou National Park"
+location:
+  country_code: GA
+  latitude: -1.4607
+  longitude: 12.1555
+scores:
+  impact: null
+  uniqueness: 8.8
+  significance: 9.1
+  experience: null
+  depth: null
+  categories:
+    nature: 9.3
+    wildlife: 9.2

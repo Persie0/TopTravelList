@@ -1,0 +1,15 @@
+id: sight-es-toledo-core
+name: "Historic City of Toledo"
+location:
+  country_code: ES
+  latitude: 39.857
+  longitude: -4.024
+scores:
+  impact: 9.4
+  uniqueness: 9.3
+  significance: 9.4
+  experience: 9.1
+  depth: 9.2
+  categories:
+    architecture: 9.6
+    history: 9.6

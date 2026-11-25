@@ -1,0 +1,16 @@
+id: sight-pl-dunajec-gorge
+name: "Dunajec River Gorge in the Pieniny Mountains"
+location:
+  country_code: PL
+  latitude: 49.41
+  longitude: 20.43
+scores:
+  impact: 9.0
+  uniqueness: 8.9
+  significance: 8.7
+  experience: 9.0
+  depth: 8.7
+  categories:
+    nature: 9.3
+    photography: 9.3
+    adventure: 9.1

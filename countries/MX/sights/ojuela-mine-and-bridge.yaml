@@ -1,0 +1,17 @@
+id: sight-mx-ojuela-mine-and-bridge
+name: "Ojuela Mine and Suspension Bridge"
+location:
+  country_code: MX
+  latitude: 25.792772
+  longitude: -103.790825
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 8.6
+  experience: 8.8
+  depth: 8.4
+  categories:
+    history: 9.0
+    architecture: 9.0
+    adventure: 9.2
+    photography: 9.2

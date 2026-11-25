@@ -1,0 +1,16 @@
+id: sight-gh-bunso-arboretum
+name: "Bunso Arboretum"
+location:
+  country_code: GH
+  latitude: 6.278
+  longitude: -0.465
+scores:
+  impact: 7.7
+  uniqueness: 7.9
+  significance: 7.7
+  experience: 8.3
+  depth: 7.5
+  categories:
+    nature: 8.5
+    wildlife: 8.2
+    adventure: 8.3

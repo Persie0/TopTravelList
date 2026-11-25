@@ -1,0 +1,16 @@
+id: sight-es-las-medulas
+name: "Las Médulas"
+location:
+  country_code: ES
+  latitude: 42.46
+  longitude: -6.77
+scores:
+  impact: 9.2
+  uniqueness: 9.3
+  significance: 9.2
+  experience: 8.9
+  depth: 8.9
+  categories:
+    nature: 9.3
+    history: 9.4
+    photography: 9.4

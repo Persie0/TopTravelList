@@ -1,0 +1,16 @@
+id: sight-es-olive-groves
+name: "Olive Grove Landscapes of Andalusia"
+location:
+  country_code: ES
+  latitude: 37.75
+  longitude: -3.7
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 8.9
+  experience: 8.7
+  depth: 9.0
+  categories:
+    culture: 9.2
+    food: 9.2
+    photography: 9.1

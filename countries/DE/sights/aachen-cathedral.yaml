@@ -1,0 +1,15 @@
+id: sight-de-aachen-cathedral
+name: "Aachen Cathedral"
+location:
+  country_code: DE
+  latitude: 50.775
+  longitude: 6.084
+scores:
+  impact: 9.2
+  uniqueness: 9.3
+  significance: 9.5
+  experience: 9.0
+  depth: 8.6
+  categories:
+    architecture: 9.6
+    history: 9.5

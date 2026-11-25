@@ -1,0 +1,15 @@
+id: sight-es-antequera-dolmens
+name: "Antequera Dolmens Site"
+location:
+  country_code: ES
+  latitude: 37.025
+  longitude: -4.548
+scores:
+  impact: 8.7
+  uniqueness: 9.1
+  significance: 9.3
+  experience: 8.6
+  depth: 8.5
+  categories:
+    history: 9.4
+    culture: 9.1

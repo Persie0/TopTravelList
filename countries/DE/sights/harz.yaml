@@ -1,0 +1,15 @@
+id: sight-de-harz
+name: "Harz National Park"
+location:
+  country_code: DE
+  latitude: 51.78
+  longitude: 10.6
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 8.7
+  experience: 8.8
+  depth: 9.0
+  categories:
+    nature: 9.2
+    adventure: 9.1

@@ -1,0 +1,15 @@
+id: sight-td-chad-national-museum
+name: "Chad National Museum"
+location:
+  country_code: TD
+  latitude: 12.11
+  longitude: 15.05
+scores:
+  impact: 7.0
+  uniqueness: 8.1
+  significance: 8.9
+  experience: 7.5
+  depth: 7.0
+  categories:
+    history: 9.2
+    culture: 8.8

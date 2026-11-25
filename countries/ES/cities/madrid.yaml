@@ -1,0 +1,16 @@
+id: city-es-madrid
+name: "Madrid"
+location:
+  country_code: ES
+  latitude: 40.4168
+  longitude: -3.7038
+scores:
+  impact: 9.2
+  uniqueness: 9.1
+  significance: 9.4
+  experience: 9.4
+  depth: 9.6
+  categories:
+    culture: 9.6
+    history: 9.4
+    food: 9.3

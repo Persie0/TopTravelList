@@ -1,0 +1,15 @@
+id: sight-pt-evora-core
+name: "Historic Centre of Évora"
+location:
+  country_code: PT
+  latitude: 38.571
+  longitude: -7.909
+scores:
+  impact: 9.0
+  uniqueness: 8.9
+  significance: 9.1
+  experience: 8.9
+  depth: 8.6
+  categories:
+    architecture: 9.3
+    history: 9.3

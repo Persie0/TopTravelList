@@ -1,0 +1,16 @@
+id: city-gr-chania
+name: "Chania"
+location:
+  country_code: GR
+  latitude: 35.5138
+  longitude: 24.018
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 9.1
+  depth: 8.6
+  categories:
+    architecture: 9.3
+    history: 9.2
+    food: 9.1

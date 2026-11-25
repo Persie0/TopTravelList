@@ -1,0 +1,15 @@
+id: sight-it-vicenza-palladian
+name: "Vicenza and Palladian Villas of the Veneto"
+location:
+  country_code: IT
+  latitude: 45.55
+  longitude: 11.55
+scores:
+  impact: 9.1
+  uniqueness: 9.3
+  significance: 9.5
+  experience: 9.0
+  depth: 9.2
+  categories:
+    architecture: 9.7
+    history: 9.4

@@ -1,0 +1,15 @@
+id: sight-es-merida
+name: "Archaeological Ensemble of Mérida"
+location:
+  country_code: ES
+  latitude: 38.915
+  longitude: -6.339
+scores:
+  impact: 9.0
+  uniqueness: 9.1
+  significance: 9.4
+  experience: 9.0
+  depth: 9.2
+  categories:
+    history: 9.5
+    architecture: 9.3

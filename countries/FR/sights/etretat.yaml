@@ -1,0 +1,15 @@
+id: sight-fr-etretat
+name: "Étretat chalk cliffs"
+location:
+  country_code: FR
+  latitude: 49.71
+  longitude: 0.2
+scores:
+  impact: 9.3
+  uniqueness: 9.1
+  significance: 8.6
+  experience: 8.9
+  depth: 8.4
+  categories:
+    nature: 9.4
+    photography: 9.6

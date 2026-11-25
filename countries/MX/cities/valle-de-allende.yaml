@@ -1,0 +1,16 @@
+id: city-mx-valle-de-allende
+name: "Valle de Allende"
+location:
+  country_code: MX
+  latitude: 26.939439
+  longitude: -105.393889
+scores:
+  impact: 7.8
+  uniqueness: 8.2
+  significance: 8.5
+  experience: 8.0
+  depth: 7.5
+  categories:
+    architecture: 8.6
+    history: 8.9
+    culture: 8.6

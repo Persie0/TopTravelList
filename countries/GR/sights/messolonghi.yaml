@@ -1,0 +1,15 @@
+id: sight-gr-messolonghi
+name: "Messolonghi-Etoliko National Park"
+location:
+  country_code: GR
+  latitude: 38.36
+  longitude: 21.35
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 8.8
+  experience: 8.6
+  depth: 8.8
+  categories:
+    nature: 9.2
+    wildlife: 9.3

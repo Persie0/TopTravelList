@@ -1,0 +1,16 @@
+id: sight-it-mont-blanc
+name: "Mont Blanc massif (Italian visitor landscape)"
+location:
+  country_code: IT
+  latitude: 45.82
+  longitude: 6.95
+scores:
+  impact: 9.6
+  uniqueness: 9.4
+  significance: 9.3
+  experience: 9.2
+  depth: 9.4
+  categories:
+    nature: 9.7
+    photography: 9.7
+    adventure: 9.4
