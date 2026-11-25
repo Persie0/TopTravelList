@@ -1,0 +1,15 @@
+id: sight-np-thamel
+name: "Thamel"
+location:
+  country_code: NP
+  latitude: 27.7150
+  longitude: 85.3100
+scores:
+  impact: 7.7
+  uniqueness: 7.5
+  significance: 6.8
+  experience: 8.7
+  depth: 8.4
+  categories:
+    food: 8.8
+    nightlife: 8.7

@@ -1,0 +1,16 @@
+id: sight-np-gorkha-durbar
+name: "Gorkha Durbar"
+location:
+  country_code: NP
+  latitude: 28.0030
+  longitude: 84.6320
+scores:
+  impact: 8.6
+  uniqueness: 8.9
+  significance: 9.2
+  experience: 8.5
+  depth: 8.0
+  categories:
+    architecture: 9.1
+    history: 9.4
+    photography: 8.9

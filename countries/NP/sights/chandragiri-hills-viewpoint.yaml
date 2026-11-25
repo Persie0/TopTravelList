@@ -1,0 +1,15 @@
+id: sight-np-chandragiri-hills-viewpoint
+name: "Chandragiri Hills Viewpoint"
+location:
+  country_code: NP
+  latitude: 27.6590
+  longitude: 85.2050
+scores:
+  impact: 8.5
+  uniqueness: 8.2
+  significance: 6.7
+  experience: 8.5
+  depth: 7.5
+  categories:
+    photography: 9.0
+    relaxation: 8.6

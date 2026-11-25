@@ -1,0 +1,15 @@
+id: sight-np-maya-devi-temple
+name: "Maya Devi Temple"
+location:
+  country_code: NP
+  latitude: 27.4692
+  longitude: 83.2759
+scores:
+  impact: 8.6
+  uniqueness: 9.3
+  significance: 9.7
+  experience: 8.6
+  depth: 7.8
+  categories:
+    culture: 9.7
+    history: 9.7

@@ -1,0 +1,15 @@
+id: sight-np-parsa-national-park
+name: "Parsa National Park"
+location:
+  country_code: NP
+  latitude: 27.45
+  longitude: 84.92
+scores:
+  impact: 8.4
+  uniqueness: 8.5
+  significance: 8.7
+  experience: 8.3
+  depth: 8.5
+  categories:
+    wildlife: 9.0
+    nature: 8.9

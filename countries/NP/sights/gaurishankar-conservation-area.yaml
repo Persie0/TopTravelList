@@ -1,0 +1,16 @@
+id: sight-np-gaurishankar-conservation-area
+name: "Gaurishankar Conservation Area"
+location:
+  country_code: NP
+  latitude: 27.85
+  longitude: 86.24
+scores:
+  impact: 8.9
+  uniqueness: 9.1
+  significance: 9.0
+  experience: 8.7
+  depth: 9.0
+  categories:
+    nature: 9.3
+    adventure: 9.2
+    photography: 9.2

@@ -1,0 +1,15 @@
+id: sight-np-manakamana-temple
+name: "Manakamana Temple"
+location:
+  country_code: NP
+  latitude: 27.9040
+  longitude: 84.5840
+scores:
+  impact: 8.2
+  uniqueness: 8.6
+  significance: 8.6
+  experience: 8.6
+  depth: 7.7
+  categories:
+    culture: 9.2
+    architecture: 8.8

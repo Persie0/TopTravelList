@@ -1,0 +1,15 @@
+id: sight-np-lumbini-monastic-zone
+name: "Lumbini Monastic Zone"
+location:
+  country_code: NP
+  latitude: 27.4830
+  longitude: 83.2750
+scores:
+  impact: 8.5
+  uniqueness: 8.9
+  significance: 8.1
+  experience: 8.7
+  depth: 8.9
+  categories:
+    culture: 9.2
+    architecture: 9.1

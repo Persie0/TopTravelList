@@ -1,0 +1,15 @@
+id: sight-np-trishuli-river-rafting-route
+name: "Trishuli River Rafting Route"
+location:
+  country_code: NP
+  latitude: 27.80
+  longitude: 84.76
+scores:
+  impact: 8.3
+  uniqueness: 8.2
+  significance: 7.0
+  experience: 8.8
+  depth: 8.2
+  categories:
+    adventure: 9.1
+    nature: 8.7

@@ -1,0 +1,17 @@
+id: sight-np-kathmandu-valley-world-heritage-monument-groups
+name: "Kathmandu Valley World Heritage Monument Groups"
+location:
+  country_code: NP
+  latitude: 27.704
+  longitude: 85.333
+scores:
+  impact: 9.5
+  uniqueness: 9.7
+  significance: 9.7
+  experience: 9.3
+  depth: 9.6
+  categories:
+    architecture: 9.7
+    culture: 9.8
+    history: 9.7
+    photography: 9.5

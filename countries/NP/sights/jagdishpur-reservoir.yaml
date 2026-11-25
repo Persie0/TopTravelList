@@ -1,0 +1,15 @@
+id: sight-np-jagdishpur-reservoir
+name: "Jagdishpur Reservoir"
+location:
+  country_code: NP
+  latitude: 27.623
+  longitude: 83.100
+scores:
+  impact: 7.8
+  uniqueness: 8.1
+  significance: 8.4
+  experience: 8.2
+  depth: 7.8
+  categories:
+    wildlife: 8.8
+    nature: 8.6

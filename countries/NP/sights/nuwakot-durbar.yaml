@@ -1,0 +1,15 @@
+id: sight-np-nuwakot-durbar
+name: "Nuwakot Durbar"
+location:
+  country_code: NP
+  latitude: 27.9140
+  longitude: 85.1650
+scores:
+  impact: 7.9
+  uniqueness: 8.4
+  significance: 8.7
+  experience: 8.0
+  depth: 7.4
+  categories:
+    architecture: 8.8
+    history: 9.0

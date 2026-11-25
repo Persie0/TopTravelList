@@ -1,0 +1,16 @@
+id: sight-np-rolwaling-valley-trek
+name: "Rolwaling Valley Trek"
+location:
+  country_code: NP
+  latitude: 27.88
+  longitude: 86.43
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 8.3
+  experience: 8.8
+  depth: 8.8
+  categories:
+    adventure: 9.3
+    nature: 9.3
+    photography: 9.3

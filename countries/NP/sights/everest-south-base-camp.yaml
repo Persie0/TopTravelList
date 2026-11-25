@@ -1,0 +1,16 @@
+id: sight-np-everest-south-base-camp
+name: "Everest South Base Camp"
+location:
+  country_code: NP
+  latitude: 28.002
+  longitude: 86.852
+scores:
+  impact: 8.9
+  uniqueness: 9.4
+  significance: 9.2
+  experience: 8.6
+  depth: 7.5
+  categories:
+    adventure: 9.2
+    photography: 8.9
+    history: 9.0

@@ -1,0 +1,16 @@
+id: sight-np-dhorpatan-hunting-reserve
+name: "Dhorpatan Hunting Reserve"
+location:
+  country_code: NP
+  latitude: 28.54
+  longitude: 83.13
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 8.7
+  experience: 8.2
+  depth: 8.7
+  categories:
+    nature: 9.1
+    wildlife: 8.9
+    adventure: 8.8

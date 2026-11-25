@@ -1,0 +1,15 @@
+id: sight-np-bhote-koshi-river-rafting-route
+name: "Bhote Koshi River Rafting Route"
+location:
+  country_code: NP
+  latitude: 27.87
+  longitude: 85.79
+scores:
+  impact: 8.5
+  uniqueness: 8.4
+  significance: 6.9
+  experience: 8.8
+  depth: 8.2
+  categories:
+    adventure: 9.2
+    nature: 8.7

@@ -1,0 +1,15 @@
+id: sight-np-ram-mandir-janakpur
+name: "Ram Mandir Janakpur"
+location:
+  country_code: NP
+  latitude: 26.7301
+  longitude: 85.9253
+scores:
+  impact: 7.9
+  uniqueness: 8.2
+  significance: 8.3
+  experience: 8.1
+  depth: 7.3
+  categories:
+    culture: 8.9
+    history: 8.7

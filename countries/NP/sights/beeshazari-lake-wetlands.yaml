@@ -1,0 +1,15 @@
+id: sight-np-beeshazari-lake-wetlands
+name: "Beeshazari Lake Wetlands"
+location:
+  country_code: NP
+  latitude: 27.617
+  longitude: 84.434
+scores:
+  impact: 8.0
+  uniqueness: 8.3
+  significance: 8.4
+  experience: 8.3
+  depth: 8.0
+  categories:
+    wildlife: 8.9
+    nature: 8.7

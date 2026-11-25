@@ -1,0 +1,15 @@
+id: sight-np-shey-gompa
+name: "Shey Gompa"
+location:
+  country_code: NP
+  latitude: 29.35
+  longitude: 82.92
+scores:
+  impact: 8.4
+  uniqueness: 9.0
+  significance: 8.8
+  experience: 8.3
+  depth: 7.8
+  categories:
+    culture: 9.3
+    history: 9.0

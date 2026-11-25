@@ -1,0 +1,15 @@
+id: sight-np-kasthamandap
+name: "Kasthamandap"
+location:
+  country_code: NP
+  latitude: 27.7034
+  longitude: 85.3068
+scores:
+  impact: 8.0
+  uniqueness: 8.4
+  significance: 8.6
+  experience: 8.0
+  depth: 7.0
+  categories:
+    architecture: 8.8
+    history: 8.9

@@ -1,0 +1,16 @@
+id: sight-np-tengboche-monastery
+name: "Tengboche Monastery"
+location:
+  country_code: NP
+  latitude: 27.836
+  longitude: 86.764
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 8.8
+  experience: 8.7
+  depth: 8.0
+  categories:
+    culture: 9.3
+    photography: 9.2
+    architecture: 8.9

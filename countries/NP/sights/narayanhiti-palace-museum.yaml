@@ -1,0 +1,15 @@
+id: sight-np-narayanhiti-palace-museum
+name: "Narayanhiti Palace Museum"
+location:
+  country_code: NP
+  latitude: 27.7158
+  longitude: 85.3206
+scores:
+  impact: 7.9
+  uniqueness: 8.3
+  significance: 8.8
+  experience: 8.1
+  depth: 8.1
+  categories:
+    history: 9.1
+    culture: 8.7

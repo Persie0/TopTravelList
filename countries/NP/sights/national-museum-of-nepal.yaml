@@ -1,0 +1,15 @@
+id: sight-np-national-museum-of-nepal
+name: "National Museum of Nepal"
+location:
+  country_code: NP
+  latitude: 27.7053
+  longitude: 85.2883
+scores:
+  impact: 7.7
+  uniqueness: 8.0
+  significance: 8.5
+  experience: 8.0
+  depth: 8.2
+  categories:
+    history: 8.9
+    culture: 8.8

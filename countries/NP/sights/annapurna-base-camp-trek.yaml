@@ -1,0 +1,16 @@
+id: sight-np-annapurna-base-camp-trek
+name: "Annapurna Base Camp Trek"
+location:
+  country_code: NP
+  latitude: 28.51
+  longitude: 83.88
+scores:
+  impact: 9.5
+  uniqueness: 9.4
+  significance: 8.6
+  experience: 9.5
+  depth: 9.3
+  categories:
+    adventure: 9.6
+    nature: 9.5
+    photography: 9.6

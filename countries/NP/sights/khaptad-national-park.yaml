@@ -1,0 +1,16 @@
+id: sight-np-khaptad-national-park
+name: "Khaptad National Park"
+location:
+  country_code: NP
+  latitude: 29.385
+  longitude: 81.124
+scores:
+  impact: 8.9
+  uniqueness: 9.1
+  significance: 8.9
+  experience: 8.8
+  depth: 9.0
+  categories:
+    nature: 9.3
+    adventure: 9.1
+    photography: 9.2

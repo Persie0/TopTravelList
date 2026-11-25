@@ -1,0 +1,15 @@
+id: sight-np-gupteshwar-mahadev-cave
+name: "Gupteshwar Mahadev Cave"
+location:
+  country_code: NP
+  latitude: 28.1895
+  longitude: 83.9585
+scores:
+  impact: 7.8
+  uniqueness: 8.2
+  significance: 7.7
+  experience: 8.0
+  depth: 7.3
+  categories:
+    culture: 8.6
+    nature: 8.5

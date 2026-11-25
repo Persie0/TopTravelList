@@ -1,0 +1,16 @@
+id: sight-np-lo-manthang-walled-town-historic-core
+name: "Lo Manthang Walled Town Historic Core"
+location:
+  country_code: NP
+  latitude: 29.183
+  longitude: 83.957
+scores:
+  impact: 8.9
+  uniqueness: 9.3
+  significance: 9.2
+  experience: 8.8
+  depth: 8.5
+  categories:
+    culture: 9.4
+    architecture: 9.4
+    history: 9.3

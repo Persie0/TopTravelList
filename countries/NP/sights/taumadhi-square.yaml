@@ -1,0 +1,15 @@
+id: sight-np-taumadhi-square
+name: "Taumadhi Square"
+location:
+  country_code: NP
+  latitude: 27.6715
+  longitude: 85.4296
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 8.8
+  experience: 8.8
+  depth: 7.8
+  categories:
+    architecture: 9.2
+    culture: 9.0

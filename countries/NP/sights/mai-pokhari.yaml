@@ -1,0 +1,16 @@
+id: sight-np-mai-pokhari
+name: "Mai Pokhari"
+location:
+  country_code: NP
+  latitude: 26.975
+  longitude: 87.931
+scores:
+  impact: 7.7
+  uniqueness: 8.2
+  significance: 8.3
+  experience: 8.1
+  depth: 7.7
+  categories:
+    nature: 8.7
+    culture: 8.5
+    relaxation: 8.6

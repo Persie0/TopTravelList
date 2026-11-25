@@ -1,0 +1,16 @@
+id: sight-np-kanyam-tea-gardens
+name: "Kanyam Tea Gardens"
+location:
+  country_code: NP
+  latitude: 26.845
+  longitude: 88.075
+scores:
+  impact: 8.0
+  uniqueness: 8.1
+  significance: 7.2
+  experience: 8.5
+  depth: 7.8
+  categories:
+    photography: 8.8
+    relaxation: 8.7
+    culture: 8.0

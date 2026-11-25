@@ -1,0 +1,16 @@
+id: sight-np-pashupatinath-temple-complex
+name: "Pashupatinath Temple Complex"
+location:
+  country_code: NP
+  latitude: 27.7104
+  longitude: 85.3488
+scores:
+  impact: 9.0
+  uniqueness: 9.4
+  significance: 9.5
+  experience: 8.7
+  depth: 8.8
+  categories:
+    culture: 9.7
+    history: 9.5
+    architecture: 9.3

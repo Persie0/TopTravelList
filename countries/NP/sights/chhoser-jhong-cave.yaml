@@ -1,0 +1,16 @@
+id: sight-np-chhoser-jhong-cave
+name: "Chhoser Jhong Cave"
+location:
+  country_code: NP
+  latitude: 29.225
+  longitude: 83.991
+scores:
+  impact: 8.4
+  uniqueness: 8.9
+  significance: 8.5
+  experience: 8.3
+  depth: 7.8
+  categories:
+    history: 8.9
+    adventure: 8.8
+    photography: 8.8

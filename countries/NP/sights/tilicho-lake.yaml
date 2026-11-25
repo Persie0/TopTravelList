@@ -1,0 +1,16 @@
+id: sight-np-tilicho-lake
+name: "Tilicho Lake"
+location:
+  country_code: NP
+  latitude: 28.684
+  longitude: 83.851
+scores:
+  impact: 9.3
+  uniqueness: 9.3
+  significance: 8.5
+  experience: 9.0
+  depth: 8.5
+  categories:
+    nature: 9.4
+    photography: 9.4
+    adventure: 9.2

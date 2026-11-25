@@ -1,0 +1,16 @@
+id: sight-np-kanchenjunga-base-camp-trek
+name: "Kanchenjunga Base Camp Trek"
+location:
+  country_code: NP
+  latitude: 27.75
+  longitude: 87.92
+scores:
+  impact: 9.3
+  uniqueness: 9.4
+  significance: 8.7
+  experience: 9.1
+  depth: 9.2
+  categories:
+    adventure: 9.4
+    nature: 9.4
+    photography: 9.4
