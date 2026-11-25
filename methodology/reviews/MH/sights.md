@@ -753,3 +753,37 @@
 - Earlier decision: none.
 - Verification still needed: Leave unranked because bridge is working infrastructure; no verified legal pedestrian/viewing facility.
 
+### sight-mh-likiep-village-historic-district — Likiep Village Historic District — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/MH/sights/likiep-village-historic-district.yaml)
+- Action: rescore
+- Precise subject: Historic district only; surviving structures and streets, not the entire atoll.
+- Location check: prior representative point retained (9.82603, 169.30797); not newly independently verified.
+- Evidence status: source-linked-unverified
+- Checked factual reference excerpts (2026-11-25; excerpts, not full independent verification):
+  - UNESCO tentative submission identifies about 15 significant buildings or remnants from 1880–1937 — https://whc.unesco.org/en/tentativelists/2066/
+  - Independent guide describes surviving timber houses, trading structures and limited visitor facilities — https://marshallislandspocketguide.com/the-atolls-of-the-marshall-islands-the-best-to-visit
+- Missing or uncertain facts: Verify access to individual properties; no interior visit assumed.
+
+#### Worldwide peer comparisons
+- Levuka (Fiji): more coherent developed heritage town
+- Hoi An (Vietnam): far greater surviving mercantile ensemble
+- Salzburg historic centre (Austria): more monumental and interpreted
+- Rabaul (PNG): different disrupted colonial townscape
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | 7.0 | 7.0 | Modest surviving historic fabric |
+| Uniqueness | 8.5 | 8.5 | rare colonial trading settlement in this region |
+| Significance | 8.4 | 8.4 | historic trading and community heritage |
+| Experience | null | 7.1 | exterior heritage walks with local permission |
+| Depth | null | 7.3 | several surviving structures but limited interpretation |
+
+- Applicable category scores: history: 8.7, architecture: 8.0 (unchanged)
+- Computed worldwide overall: 77.00/100
+- High-score challenge: No 9.5+ field or 90+ overall.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide ranking based on the new evidence; not a current admission guarantee.
+- Earlier decision: earlier entry for sight-mh-likiep-village-historic-district in this file, originally unranked.
+- Verification still needed: Verify access to individual properties; no interior visit assumed.
