@@ -229,3 +229,79 @@
 - Final decision: Provisional ranking supported by documented ordinary visitor experiences; not full factual verification.
 - Earlier decision: prior entry for this ID, unranked.
 - Verification still needed: Village only; exclude distant Savai'i attractions and private resort amenities. Confirm local host and customary permission.
+
+
+### city-ws-lalomanu — Lalomanu Village — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/WS/cities/lalomanu.yaml)
+- Action: rescore
+- Precise subject: Village and its local host-led cultural activities, not the standalone beach or other south-coast sights.
+- Location check: Existing representative coordinate retained; independent corroboration outstanding.
+- Evidence status: source-linked-unverified
+- Factual references consulted (2026-11-25):
+  - Taufua Beach Fales advertises cultural walks, traditional cooking and village lunch — https://taufuabeachfales.com/activities (indexed excerpt).
+  - Taufua documents locally hosted Sunday to'ana'i lunch — https://taufuabeachfales.com/sunday-toanai (indexed excerpt).
+  - Samoa Tourism Authority lists fale accommodation at Lalomanu and describes village etiquette — https://www.samoa.travel/pagepreview/must-dos-in-samoa and https://www.samoa.travel/discover/our-culture/protocols/ (indexed excerpts).
+  - Visit Samoa Guide lists a Lalomanu family cultural experience — https://visitsamoaguide.com/experience/authentic-village-cultural-experience (indexed excerpt; direct page did not expose itinerary).
+- Missing or uncertain facts: Exact walking route and village boundaries require corroboration; current activity schedules and permissions not guaranteed.
+
+#### Worldwide peer comparisons
+- Kampot (Cambodia), 7.6/7.9/7.5/8.3/7.9: richer built heritage and dining.
+- Rach Gia (Vietnam), 7.2/7.5/7.3/7.8/7.9: more extensive urban activities.
+- Kuala Perlis (Malaysia), 6.5/6.8/6.5/7.2/6.7: comparable modest coastal settlement.
+- Manase Village (Samoa), 6.7/7.1/6.0/7.2/6.1: comparable village scale and more limited documented cultural or archaeological context.
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | null | 6.9 | Coastal village setting and traditional fales; does not inherit beach scenery score. |
+| Uniqueness | null | 7.3 | Living local host-led Samoan cultural experiences distinguish it modestly from generic resort villages. |
+| Significance | null | 6.4 | Regional cultural significance, without evidence of internationally defining village-specific history. |
+| Experience | null | 7.6 | Documented communal food and cultural walks offer rewarding village experiences. |
+| Depth | null | 6.6 | Several focused cultural activities, not the depth of larger towns. |
+
+- Applicable category scores: culture 7.8, food 7.5, relaxation 7.6; provisional.
+- Computed worldwide overall: 69.75/100
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Complete provisional v2 profile, calibrated against actual branch YAML peers.
+- Earlier decision: prior incomplete profile for this ID.
+- Verification still needed: Exact walking route and village boundaries require corroboration; current activity schedules and permissions not guaranteed. Canonical worldwide diagnostics outstanding.
+
+
+### city-ws-mulifanua — Mulifanua — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/WS/cities/mulifanua.yaml)
+- Action: rescore
+- Precise subject: Settlement and local village activities, excluding offshore islands, airport and separate beach attractions.
+- Location check: Existing representative coordinate retained; independent corroboration outstanding.
+- Evidence status: source-linked-unverified
+- Factual references consulted (2026-11-25):
+  - Outdoor Samoa explicitly advertises an 8 km hosted cultural cycle ride through Mulifanua with variable craft and food demonstrations — https://outdoorsamoa.com/cycle-tours/cultural-village-ride/ (indexed excerpt).
+  - Samoa Tourism Authority confirms ferry terminal and submerged Lapita site context — https://www.samoa.travel/plan-book/getting-around-samoa/ and https://www.samoa.travel/discover/our-history/early-samoa/ (indexed excerpts).
+  - National University of Samoa describes excavated ancient pottery at Mulifanua — https://nus.edu.ws/ACH/QuickTour/English/Lapita/description.html (indexed excerpt).
+  - Independent archaeological study — https://doi.org/10.1017/S0033822200031635 (search result and abstract excerpts).
+- Missing or uncertain facts: Archaeological site submerged; no site visit or viewing promised. Current cultural itinerary and coordinates require corroboration.
+
+#### Worldwide peer comparisons
+- Kampot (Cambodia), 7.6/7.9/7.5/8.3/7.9: richer built heritage and dining.
+- Rach Gia (Vietnam), 7.2/7.5/7.3/7.8/7.9: more extensive urban activities.
+- Kuala Perlis (Malaysia), 6.5/6.8/6.5/7.2/6.7: comparable modest coastal settlement.
+- Manase Village (Samoa), 6.7/7.1/6.0/7.2/6.1: comparable village scale and more limited documented cultural or archaeological context.
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | null | 6.3 | Modest village and working wharf setting rather than exceptional built heritage. |
+| Uniqueness | null | 7.1 | Distinct local cultural ride and Lapita historical context; submerged remains not assumed visible. |
+| Significance | null | 7.5 | Early settlement archaeology gives meaningful regional historical significance, without crediting a visitable ruin. |
+| Experience | null | 7.2 | Host-led village cycling and food demonstrations offer a rewarding focused experience; ferry transfer itself not credited. |
+| Depth | null | 6.5 | Several local experiences but limited visitor breadth compared with larger ports. |
+
+- Applicable category scores: culture 7.6, history 8.0, food 7.2; provisional.
+- Computed worldwide overall: 68.95/100
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Complete provisional v2 profile, calibrated against actual branch YAML peers.
+- Earlier decision: prior incomplete profile for this ID.
+- Verification still needed: Archaeological site submerged; no site visit or viewing promised. Current cultural itinerary and coordinates require corroboration. Canonical worldwide diagnostics outstanding.

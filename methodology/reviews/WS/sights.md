@@ -686,3 +686,82 @@
 - Final decision: Provisional ranking supported by documented ordinary visitor experiences; not full factual verification.
 - Earlier decision: prior entry for this ID, unranked.
 - Verification still needed: Tentative property only. Accessible coastal road and authorized local forest or village visits; no assumption of access throughout the zone. Confirm local arrangements.
+
+
+### sight-ws-nuulopa-island — Nuʻulopa Island — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/WS/sights/nuulopa-island.yaml)
+- Action: rescore
+- Precise subject: Small uninhabited islet and documented guided near-island flying-fox and snorkelling experiences; no unrestricted landing or sensitive-site visitation assumed.
+- Location check: Existing representative coordinate retained; independent corroboration outstanding.
+- Evidence status: source-linked-unverified
+- Factual references consulted (2026-11-25):
+  - Samoa Tourism Authority explicitly describes guided dawn flying-fox observation and snorkelling at Nuʻulopa — https://www.samoa.travel/discover/the-islands-of-samoa/other-islands/ (page inspected).
+  - UNESCO tentative submission describes the islet and possible turtle nesting habitat, with uncertainty noted — https://whc.unesco.org/en/tentativelists/5091 (page inspected).
+- Missing or uncertain facts: Current guide availability, conservation rules, landing permissions and wildlife numbers unverified.
+
+#### Worldwide peer comparisons
+- Perhentian Islands (Malaysia), 9.0/8.8/7.7/9.2/8.9: stronger extensive beach and reef recreation.
+- Cham Islands (Vietnam), 8.8/9.0/8.4/9.0/8.7: more varied developed marine visitor activities.
+- Ang Thong National Marine Park (Thailand), 9.0/9.0/8.6/9.1/8.9: more dramatic island scenery and broader marine exploration.
+- Manono Island (Samoa), 8.0/8.5/8.5/8.2/8.0: living village heritage component; aggregate has broader scope, Nuʻulopa alone has narrower scope.
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | null | 7.8 | Small tropical islet and flying-fox observation can be striking, but narrower than large island parks. |
+| Uniqueness | null | 8.1 | Combination of roosting wildlife and marine setting is distinctive without being globally unmatched. |
+| Significance | null | 8.0 | Conservation and cultural-landscape context; no unsupported turtle population claim. |
+| Experience | null | 8.0 | Documented guided wildlife and snorkelling trips, not unrestricted land access. |
+| Depth | null | 7.0 | Focused wildlife and water activities, much less breadth than a multi-island park. |
+
+- Applicable category scores: nature 8.4, wildlife 8.5, photography 8.0; provisional.
+- Computed worldwide overall: 78.65/100
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Complete provisional v2 profile, calibrated against actual branch YAML peers.
+- Earlier decision: prior incomplete profile for this ID.
+- Verification still needed: Current guide availability, conservation rules, landing permissions and wildlife numbers unverified. Canonical worldwide diagnostics outstanding.
+
+
+### sight-ws-manono-apolima-nuulopa-cultural-landscape — Manono, Apolima and Nuulopa Cultural Landscape — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/WS/sights/manono-apolima-nuulopa-cultural-landscape.yaml)
+- Action: rescore
+- Precise subject: Entire three-island tentative cultural landscape, limited to established customary-consented village, walking and marine experiences across the three named islands.
+- Location check: Existing representative coordinate retained; independent corroboration outstanding.
+- Evidence status: source-linked-unverified
+- Factual references consulted (2026-11-25):
+  - UNESCO tentative submission identifies all three islands, customary village governance and historic landscape — https://whc.unesco.org/en/tentativelists/5091 (page inspected).
+  - Samoa Tourism Authority describes Manono village walks, heritage sites and lagoon visits — https://www.samoa.travel/discover/the-islands-of-samoa/manono-island/ (page inspected).
+  - Samoa Tourism Authority describes arranged Apolima day trips and village setting — https://www.samoa.travel/discover/the-islands-of-samoa/apolima-island/ (page inspected).
+  - Samoa Tourism Authority documents Nuʻulopa guided wildlife observation and snorkelling — https://www.samoa.travel/discover/the-islands-of-samoa/other-islands/ (page inspected).
+- Missing or uncertain facts: No guarantee of coordinated three-island tour, landowner permission, current schedules or access on Sundays; additional independent evidence needed.
+
+#### Worldwide peer comparisons
+- Perhentian Islands (Malaysia), 9.0/8.8/7.7/9.2/8.9: stronger extensive beach and reef recreation.
+- Cham Islands (Vietnam), 8.8/9.0/8.4/9.0/8.7: more varied developed marine visitor activities.
+- Ang Thong National Marine Park (Thailand), 9.0/9.0/8.6/9.1/8.9: more dramatic island scenery and broader marine exploration.
+- Manono Island (Samoa), 8.0/8.5/8.5/8.2/8.0: living village heritage component; aggregate has broader scope, Nuʻulopa alone has narrower scope.
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | 8.1 | 8.1 | Retain prior impact: traditional settlement, volcanic and marine landscape, not globally exceptional monumental scenery. |
+| Uniqueness | 8.7 | 8.7 | Retain prior uniqueness: distinctive living customary island society and landscape. |
+| Significance | 8.8 | 8.8 | Retain prior significance: cultural and conservation traditions; tentative listing is not inscription. |
+| Experience | null | 8.3 | Documented visitor activities across all three components justify provisional experience; no unrestricted customary access credited. |
+| Depth | null | 8.4 | Multiple island village walks, heritage stops and guided marine activities provide meaningful depth, without summing the separate scores. |
+
+- Applicable category scores: culture 8.9, history 8.6, nature 8.3 retained; provisional.
+- Computed worldwide overall: 84.50/100
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Complete provisional v2 profile, calibrated against actual branch YAML peers.
+- Earlier decision: prior incomplete profile for this ID.
+- Verification still needed: No guarantee of coordinated three-island tour, landowner permission, current schedules or access on Sundays; additional independent evidence needed. Canonical worldwide diagnostics outstanding.
+
+
+## 2026-11-25 — Pulemelei access follow-up
+
+Samoa Airports promotes the archaeological mound (https://www.samoaairports.com/explore-samoa/explore-samoa, indexed excerpt), but Lonely Planet reports difficult access due to disputed land (https://www.lonelyplanet.com/points-of-interest/pulemelei-mound/1456735, indexed excerpt). A 2026 travel guide also reports landowner-dependent access and periodic closures (https://factsfromupstairs.com/travel-guide/samoa/, indexed excerpt). This does not establish routine authorized visits or their depth. Keep existing core values, with experience/depth null. Historical significance is not downgraded for access; no unrestricted admission implied. No YAML changes.
