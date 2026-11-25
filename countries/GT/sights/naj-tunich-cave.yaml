@@ -1,0 +1,13 @@
+id: sight-gt-naj-tunich-cave
+name: "Naj Tunich Cave"
+location:
+  country_code: GT
+  latitude: 16.35
+  longitude: -89.18
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}

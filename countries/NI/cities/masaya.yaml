@@ -1,0 +1,16 @@
+id: city-ni-masaya
+name: "Masaya"
+location:
+  country_code: NI
+  latitude: 11.974
+  longitude: -86.094
+scores:
+  impact: 7.5
+  uniqueness: 8.2
+  significance: 7.8
+  experience: 8.0
+  depth: 7.4
+  categories:
+    culture: 8.9
+    food: 8.3
+    history: 8.1

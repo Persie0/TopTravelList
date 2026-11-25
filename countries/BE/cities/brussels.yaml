@@ -1,0 +1,17 @@
+id: city-be-brussels
+name: "Brussels"
+location:
+  country_code: BE
+  latitude: 50.8503
+  longitude: 4.3517
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 9.1
+  experience: 9.1
+  depth: 9.3
+  categories:
+    architecture: 9.3
+    history: 9.1
+    culture: 9.2
+    food: 9.0

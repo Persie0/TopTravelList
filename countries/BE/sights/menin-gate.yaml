@@ -1,0 +1,15 @@
+id: sight-be-menin-gate
+name: "Menin Gate Memorial"
+location:
+  country_code: BE
+  latitude: 50.852
+  longitude: 2.891
+scores:
+  impact: 8.5
+  uniqueness: 8.5
+  significance: 9.2
+  experience: 8.3
+  depth: 7.2
+  categories:
+    history: 9.3
+    architecture: 8.8

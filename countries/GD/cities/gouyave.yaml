@@ -1,0 +1,16 @@
+id: city-gd-gouyave
+name: "Gouyave"
+location:
+  country_code: GD
+  latitude: 12.164
+  longitude: -61.729
+scores:
+  impact: 7.2
+  uniqueness: 8.0
+  significance: 7.2
+  experience: 8.0
+  depth: 6.9
+  categories:
+    culture: 8.6
+    food: 8.6
+    history: 7.8

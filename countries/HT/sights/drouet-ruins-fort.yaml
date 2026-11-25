@@ -1,0 +1,13 @@
+id: sight-ht-drouet-ruins-fort
+name: "Drouet Ruins and Fort"
+location:
+  country_code: HT
+  latitude: 18.8977
+  longitude: -72.407128
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}

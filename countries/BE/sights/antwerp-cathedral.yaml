@@ -1,0 +1,16 @@
+id: sight-be-antwerp-cathedral
+name: "Cathedral of Our Lady, Antwerp"
+location:
+  country_code: BE
+  latitude: 51.22
+  longitude: 4.4
+scores:
+  impact: 8.9
+  uniqueness: 8.7
+  significance: 9.0
+  experience: 8.8
+  depth: 8.4
+  categories:
+    architecture: 9.3
+    culture: 9.2
+    history: 9.1

@@ -1,0 +1,15 @@
+id: sight-be-saint-hubert-galleries
+name: "Royal Saint-Hubert Galleries (tentative)"
+location:
+  country_code: BE
+  latitude: 50.848
+  longitude: 4.354
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 8.6
+  experience: 8.8
+  depth: 7.7
+  categories:
+    architecture: 9.1
+    photography: 9.0

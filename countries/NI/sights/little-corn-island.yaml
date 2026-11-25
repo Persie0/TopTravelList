@@ -1,0 +1,16 @@
+id: sight-ni-little-corn-island
+name: "Little Corn Island"
+location:
+  country_code: NI
+  latitude: 12.292
+  longitude: -82.983
+scores:
+  impact: 8.5
+  uniqueness: 8.3
+  significance: 7.3
+  experience: 8.9
+  depth: 8.0
+  categories:
+    beaches: 9.2
+    relaxation: 9.2
+    adventure: 8.8

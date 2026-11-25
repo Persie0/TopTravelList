@@ -1,0 +1,16 @@
+id: sight-ni-somoto-canyon
+name: "Somoto Canyon"
+location:
+  country_code: NI
+  latitude: 13.463
+  longitude: -86.707
+scores:
+  impact: 8.9
+  uniqueness: 8.7
+  significance: 8.5
+  experience: 9.0
+  depth: 8.2
+  categories:
+    nature: 9.1
+    adventure: 9.3
+    photography: 9.2

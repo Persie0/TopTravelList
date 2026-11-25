@@ -1,0 +1,16 @@
+id: city-ru-saint-petersburg
+name: "Saint Petersburg"
+location:
+  country_code: RU
+  latitude: 59.9343
+  longitude: 30.3351
+scores:
+  impact: 9.4
+  uniqueness: 9.2
+  significance: 9.4
+  experience: 9.2
+  depth: 9.4
+  categories:
+    architecture: 9.4
+    history: 9.4
+    culture: 9.4

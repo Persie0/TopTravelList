@@ -1,0 +1,16 @@
+id: sight-do-salto-de-jimenoa
+name: "Salto de Jimenoa"
+location:
+  country_code: DO
+  latitude: 19.093
+  longitude: -70.607
+scores:
+  impact: 8.0
+  uniqueness: 7.7
+  significance: 7.0
+  experience: 8.1
+  depth: 7.2
+  categories:
+    nature: 8.7
+    photography: 8.8
+    adventure: 8.5

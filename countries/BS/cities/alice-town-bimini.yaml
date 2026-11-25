@@ -1,0 +1,15 @@
+id: city-bs-alice-town-bimini
+name: "Alice Town (Bimini)"
+location:
+  country_code: BS
+  latitude: 25.725
+  longitude: -79.297
+scores:
+  impact: 6.8
+  uniqueness: 7.3
+  significance: 7.0
+  experience: 7.4
+  depth: 6.0
+  categories:
+    culture: 7.9
+    food: 7.7

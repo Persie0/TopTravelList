@@ -1,0 +1,15 @@
+id: sight-ru-rostov-kremlin
+name: "Rostov Kremlin"
+location:
+  country_code: RU
+  latitude: 57.185
+  longitude: 39.415
+scores:
+  impact: 8.7
+  uniqueness: 8.7
+  significance: 8.8
+  experience: 8.7
+  depth: 8.5
+  categories:
+    architecture: 9.1
+    history: 9.0

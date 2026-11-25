@@ -1,0 +1,16 @@
+id: sight-bs-moriah-harbour-cay-national-park
+name: "Moriah Harbour Cay National Park"
+location:
+  country_code: BS
+  latitude: 23.449
+  longitude: -75.725
+scores:
+  impact: 8.4
+  uniqueness: 8.4
+  significance: 8.4
+  experience: 8.5
+  depth: 8.1
+  categories:
+    nature: 9.0
+    wildlife: 8.8
+    beaches: 9.0

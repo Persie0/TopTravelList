@@ -2,7 +2,7 @@
 
 # Grenada (GD) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**12 ranked** · **0 unassessed** · **12 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,22 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (12)
 
-No cities, towns & villages have been assessed for **Grenada** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [St George's](cities/st-george-s.yaml) | City / town | **84.60** | **Photography 9.2**, **Architecture 8.9**, **Culture 8.9**, History 8.9, Food 8.4 | 8.4 / 8.6 / 8.6 / 8.4 / 8.1 | [12.0561, -61.7486](https://www.google.com/maps/search/?api=1&query=12.0561,-61.7486) | [Google Maps](https://www.google.com/maps/search/?api=1&query=St%20George%27s%2C%20Grenada) |
+| 2 | [Windward (Carriacou)](cities/windward-carriacou.yaml) | City / town | **76.50** | **Culture 9.2**, **History 8.6**, **Photography 8.0** | 7.1 / 8.5 / 8.1 / 7.7 / 6.2 | [12.521, -61.424](https://www.google.com/maps/search/?api=1&query=12.521,-61.424) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Windward%20%28Carriacou%29%2C%20Grenada) |
+| 3 | [Hillsborough](cities/hillsborough.yaml) | City / town | **75.70** | **Culture 8.5**, **Photography 8.3**, **History 8.0** | 7.4 / 8.0 / 7.5 / 7.8 / 6.8 | [12.483, -61.457](https://www.google.com/maps/search/?api=1&query=12.483,-61.457) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hillsborough%2C%20Grenada) |
+| 4 | [Sauteurs](cities/sauteurs.yaml) | City / town | **75.05** | **History 8.6**, **Photography 8.4**, **Culture 8.2** | 7.4 / 7.8 / 7.9 / 7.5 / 6.3 | [12.218, -61.64](https://www.google.com/maps/search/?api=1&query=12.218,-61.64) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sauteurs%2C%20Grenada) |
+| 5 | [Gouyave](cities/gouyave.yaml) | City / town | **74.90** | **Culture 8.6**, **Food 8.6**, **History 7.8** | 7.2 / 8.0 / 7.2 / 8.0 / 6.9 | [12.164, -61.729](https://www.google.com/maps/search/?api=1&query=12.164,-61.729) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Gouyave%2C%20Grenada) |
+| 6 | [Petite Martinique village (main settlement)](cities/petite-martinique-village-main-settlement.yaml) | Village | **72.80** | **Culture 8.6**, **Photography 8.2**, **History 8.0** | 7.0 / 8.1 / 7.2 / 7.5 / 5.9 | [12.521, -61.386](https://www.google.com/maps/search/?api=1&query=12.521,-61.386) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Petite%20Martinique%20village%20%28main%20settlement%29%2C%20Grenada) |
+| 7 | [Harvey Vale](cities/harvey-vale.yaml) | City / town | **71.55** | **Photography 8.2**, **Culture 7.8** | 7.2 / 7.5 / 6.5 / 7.8 / 6.5 | [12.453, -61.488](https://www.google.com/maps/search/?api=1&query=12.453,-61.488) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Harvey%20Vale%2C%20Grenada) |
+| 8 | [Grenville](cities/grenville.yaml) | City / town | **69.85** | **Culture 8.1**, **Food 7.9** | 6.5 / 7.2 / 7.1 / 7.5 / 6.9 | [12.122, -61.625](https://www.google.com/maps/search/?api=1&query=12.122,-61.625) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Grenville%2C%20Grenada) |
+| 9 | [L'Esterre](cities/l-esterre.yaml) | City / town | **69.80** | **Culture 8.0**, **Photography 8.0** | 6.8 / 7.6 / 6.5 / 7.6 / 6.0 | [12.469, -61.477](https://www.google.com/maps/search/?api=1&query=12.469,-61.477) | [Google Maps](https://www.google.com/maps/search/?api=1&query=L%27Esterre%2C%20Grenada) |
+| 10 | [Victoria](cities/victoria.yaml) | City / town | **69.45** | **Culture 7.9**, **Photography 7.8** | 6.8 / 7.3 / 6.8 / 7.4 / 6.1 | [12.192, -61.707](https://www.google.com/maps/search/?api=1&query=12.192,-61.707) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Victoria%2C%20Grenada) |
+| 11 | [Mount Pleasant (Carriacou)](cities/mount-pleasant-carriacou.yaml) | City / town | **68.25** | **Photography 8.0**, **Culture 7.9** | 6.6 / 7.4 / 6.6 / 7.3 / 5.8 | [12.482, -61.443](https://www.google.com/maps/search/?api=1&query=12.482,-61.443) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mount%20Pleasant%20%28Carriacou%29%2C%20Grenada) |
+| 12 | [St David's](cities/st-david-s.yaml) | City / town | **66.50** | **Culture 7.6** | 6.3 / 7.0 / 6.6 / 7.2 / 6.1 | [12.042, -61.667](https://www.google.com/maps/search/?api=1&query=12.042,-61.667) | [Google Maps](https://www.google.com/maps/search/?api=1&query=St%20David%27s%2C%20Grenada) |
 
 ---
 

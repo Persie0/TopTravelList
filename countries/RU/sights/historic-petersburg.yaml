@@ -1,0 +1,16 @@
+id: sight-ru-historic-petersburg
+name: "Historic Centre of Saint Petersburg and Related Groups of Monuments"
+location:
+  country_code: RU
+  latitude: 59.939
+  longitude: 30.315
+scores:
+  impact: 9.4
+  uniqueness: 9.3
+  significance: 9.4
+  experience: 9.2
+  depth: 9.4
+  categories:
+    architecture: 9.4
+    history: 9.4
+    culture: 9.4

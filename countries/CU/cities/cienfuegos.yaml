@@ -1,0 +1,16 @@
+id: city-cu-cienfuegos
+name: "Cienfuegos"
+location:
+  country_code: CU
+  latitude: 22.145
+  longitude: -80.436
+scores:
+  impact: 8.3
+  uniqueness: 8.5
+  significance: 8.4
+  experience: 8.2
+  depth: 8.0
+  categories:
+    architecture: 9.0
+    history: 8.7
+    photography: 8.8

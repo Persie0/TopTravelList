@@ -1,0 +1,17 @@
+id: sight-gd-molinere-underwater-sculpture-park
+name: "Molinere Underwater Sculpture Park"
+location:
+  country_code: GD
+  latitude: 12.083
+  longitude: -61.768
+scores:
+  impact: 8.9
+  uniqueness: 9.4
+  significance: 8.4
+  experience: 9.0
+  depth: 8.1
+  categories:
+    adventure: 9.4
+    culture: 9.1
+    nature: 8.7
+    photography: 9.1

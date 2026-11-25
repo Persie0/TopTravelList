@@ -1,0 +1,15 @@
+id: sight-ni-leon-viejo
+name: "Ruins of León Viejo"
+location:
+  country_code: NI
+  latitude: 12.398
+  longitude: -86.619
+scores:
+  impact: 7.8
+  uniqueness: 8.7
+  significance: 9.1
+  experience: 8.0
+  depth: 8.0
+  categories:
+    history: 9.3
+    architecture: 8.1

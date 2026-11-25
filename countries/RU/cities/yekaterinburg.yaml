@@ -1,0 +1,15 @@
+id: city-ru-yekaterinburg
+name: "Yekaterinburg"
+location:
+  country_code: RU
+  latitude: 56.8389
+  longitude: 60.6057
+scores:
+  impact: 7.7
+  uniqueness: 8.0
+  significance: 8.3
+  experience: 8.2
+  depth: 8.2
+  categories:
+    history: 8.6
+    architecture: 8.4

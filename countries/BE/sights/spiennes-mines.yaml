@@ -1,0 +1,14 @@
+id: sight-be-spiennes-mines
+name: "Neolithic Flint Mines at Spiennes"
+location:
+  country_code: BE
+  latitude: 50.424
+  longitude: 3.982
+scores:
+  impact: 7.7
+  uniqueness: 9.0
+  significance: 9.3
+  experience: 8.1
+  depth: 7.8
+  categories:
+    history: 9.4

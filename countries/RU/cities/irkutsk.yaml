@@ -1,0 +1,15 @@
+id: city-ru-irkutsk
+name: "Irkutsk"
+location:
+  country_code: RU
+  latitude: 52.2864
+  longitude: 104.2807
+scores:
+  impact: 8.0
+  uniqueness: 8.2
+  significance: 8.3
+  experience: 8.1
+  depth: 7.9
+  categories:
+    architecture: 8.6
+    history: 8.5
