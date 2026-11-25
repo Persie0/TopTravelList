@@ -2,7 +2,7 @@
 
 # North Macedonia (MK) — Sights & attractions ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**32 ranked** · **1 unassessed** · **33 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,11 +10,50 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, or click its GPS coordinates to open **Google Maps**. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (32)
 
-No sights & attractions have been assessed for **North Macedonia** yet.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps |
+| ---: | --- | --- | ---: | --- | --- | --- |
+| 1 | [Ohrid Historic Centre](sights/ohrid-historic-centre.yaml) | Historic settlement | **91.50** | **History 9.5**, **Architecture 9.4**, **Culture 9.4**, Photography 9.4 | 9.1 / 9.2 / 9.4 / 9.0 / 8.9 | [41.1115, 20.7958](https://www.google.com/maps/search/?api=1&query=41.1115,20.7958) |
+| 2 | [Lake Ohrid North Macedonian Shore](sights/lake-ohrid-north-macedonian-shore.yaml) | Lake | **90.35** | **Nature 9.4**, **Photography 9.4**, **Relaxation 9.1** | 8.9 / 9.0 / 9.4 / 8.9 / 9.0 | [41.055, 20.785](https://www.google.com/maps/search/?api=1&query=41.055,20.785) |
+| 3 | [Saint John at Kaneo](sights/saint-john-at-kaneo.yaml) | Attraction | **88.60** | **Photography 9.4**, **Architecture 9.2**, **History 9.2** | 9.1 / 9.0 / 8.9 / 8.8 / 7.8 | [41.1118, 20.7884](https://www.google.com/maps/search/?api=1&query=41.1118,20.7884) |
+| 4 | [Saint Naum Monastery](sights/saint-naum-monastery.yaml) | Religious site | **88.35** | **History 9.4**, **Culture 9.3**, **Architecture 9.2**, Photography 9.2 | 8.8 / 8.9 / 9.1 / 8.8 / 8.3 | [40.9134, 20.7408](https://www.google.com/maps/search/?api=1&query=40.9134,20.7408) |
+| 5 | [Galičica National Park](sights/galicica-national-park.yaml) | Park / reserve | **88.00** | **Photography 9.4**, **Nature 9.3**, **Adventure 9.2** | 8.9 / 8.8 / 8.6 / 8.8 / 8.9 | [40.991, 20.85](https://www.google.com/maps/search/?api=1&query=40.991,20.85) |
+| 6 | [Stobi Archaeological Site](sights/stobi-archaeological-site.yaml) | Museum / heritage | **87.80** | **History 9.4**, **Architecture 9.1** | 8.7 / 8.8 / 9.1 / 8.6 / 8.6 | [41.5516, 21.9752](https://www.google.com/maps/search/?api=1&query=41.5516,21.9752) |
+| 7 | [Skopje Old Bazaar](sights/skopje-old-bazaar.yaml) | Market | **87.65** | **Culture 9.3**, **History 9.2**, **Architecture 9.0**, Food 9.0 | 8.7 / 8.8 / 8.8 / 8.9 / 8.6 | [42.0005, 21.436](https://www.google.com/maps/search/?api=1&query=42.0005,21.436) |
+| 8 | [Šar Mountain National Park](sights/sar-mountain-national-park.yaml) | Park / reserve | **87.40** | **Adventure 9.3**, **Nature 9.3**, **Photography 9.2** | 8.9 / 8.7 / 8.5 / 8.7 / 8.9 | [42.0, 20.79](https://www.google.com/maps/search/?api=1&query=42.0,20.79) |
+| 9 | [Mavrovo National Park](sights/mavrovo-national-park.yaml) | Park / reserve | **87.35** | **Nature 9.3**, **Adventure 9.2**, **Photography 9.2** | 8.8 / 8.7 / 8.5 / 8.8 / 9.0 | [41.703, 20.635](https://www.google.com/maps/search/?api=1&query=41.703,20.635) |
+| 10 | [Plaošnik Archaeological Site](sights/plaosnik-archaeological-site.yaml) | Museum / heritage | **87.15** | **History 9.4**, **Culture 9.2**, **Architecture 9.0** | 8.6 / 8.8 / 9.2 / 8.5 / 8.2 | [41.1128, 20.7897](https://www.google.com/maps/search/?api=1&query=41.1128,20.7897) |
+| 11 | [Pelister National Park](sights/pelister-national-park.yaml) | Park / reserve | **87.05** | **Nature 9.3**, **Adventure 9.2**, **Photography 9.2** | 8.7 / 8.7 / 8.6 / 8.8 / 8.8 | [41.009, 21.191](https://www.google.com/maps/search/?api=1&query=41.009,21.191) |
+| 12 | [Painted Mosque Tetovo](sights/painted-mosque-tetovo.yaml) | Religious site | **86.85** | **Architecture 9.4**, **Culture 9.2**, **History 9.1** | 8.8 / 9.0 / 8.8 / 8.5 / 7.6 | [42.0056, 20.9663](https://www.google.com/maps/search/?api=1&query=42.0056,20.9663) |
+| 13 | [Samuel's Fortress](sights/samuels-fortress.yaml) | Fortification | **86.50** | **History 9.3**, **Photography 9.2**, **Architecture 8.9** | 8.7 / 8.6 / 9.0 / 8.6 / 8.0 | [41.1142, 20.7904](https://www.google.com/maps/search/?api=1&query=41.1142,20.7904) |
+| 14 | [Saint Sophia Church Ohrid](sights/saint-sophia-church-ohrid.yaml) | Religious site | **86.35** | **History 9.4**, **Culture 9.2**, **Architecture 9.1** | 8.5 / 8.8 / 9.1 / 8.5 / 7.9 | [41.112, 20.7945](https://www.google.com/maps/search/?api=1&query=41.112,20.7945) |
+| 15 | [Matka Canyon](sights/matka-canyon.yaml) | Valley / canyon | **86.20** | **Nature 9.3**, **Photography 9.3**, **Adventure 9.1** | 8.9 / 8.7 / 7.9 / 8.9 / 8.6 | [41.95, 21.297](https://www.google.com/maps/search/?api=1&query=41.95,21.297) |
+| 16 | [Markovi Kuli](sights/markovi-kuli.yaml) | Attraction | **86.10** | **Photography 9.2**, **History 9.0**, **Nature 9.0** | 8.7 / 8.7 / 8.6 / 8.5 / 8.3 | [41.3727, 21.5351](https://www.google.com/maps/search/?api=1&query=41.3727,21.5351) |
+| 17 | [Makedonium (Ilinden Memorial)](sights/makedonium-ilinden-memorial.yaml) | Museum / heritage | **86.05** | **Architecture 9.3**, **History 9.3**, **Culture 9.0** | 8.5 / 9.1 / 8.9 / 8.2 / 7.7 | [41.3762, 21.2423](https://www.google.com/maps/search/?api=1&query=41.3762,21.2423) |
+| 18 | [Heraclea Lyncestis](sights/heraclea-lyncestis.yaml) | Attraction | **85.95** | **History 9.3**, **Architecture 9.0** | 8.5 / 8.6 / 9.0 / 8.5 / 8.2 | [41.0113, 21.3424](https://www.google.com/maps/search/?api=1&query=41.0113,21.3424) |
+| 19 | [Bigorski Monastery](sights/bigorski-monastery.yaml) | Religious site | **85.80** | **Culture 9.2**, **History 9.2**, **Architecture 9.1** | 8.5 / 8.7 / 8.9 / 8.5 / 8.0 | [41.621, 20.609](https://www.google.com/maps/search/?api=1&query=41.621,20.609) |
+| 20 | [Treskavec Monastery](sights/treskavec-monastery.yaml) | Religious site | **85.75** | **Photography 9.2**, **History 9.1**, **Architecture 9.0** | 8.6 / 8.8 / 8.8 / 8.3 / 7.9 | [41.4054, 21.5369](https://www.google.com/maps/search/?api=1&query=41.4054,21.5369) |
+| 21 | [Lake Prespa North Macedonian Shore](sights/lake-prespa-north-macedonian-shore.yaml) | Lake | **85.00** | **Nature 9.2**, **Wildlife 9.0**, **Relaxation 8.7** | 8.4 / 8.5 / 8.6 / 8.5 / 8.6 | [40.98, 21.03](https://www.google.com/maps/search/?api=1&query=40.98,21.03) |
+| 22 | [Bay of Bones Museum](sights/bay-of-bones-museum.yaml) | Museum / heritage | **84.55** | **History 9.0**, **Photography 8.9**, **Culture 8.8** | 8.3 / 8.8 / 8.5 / 8.5 / 7.9 | [40.9945, 20.7978](https://www.google.com/maps/search/?api=1&query=40.9945,20.7978) |
+| 23 | [Kokino Archaeological Site](sights/kokino-archaeological-site.yaml) | Museum / heritage | **83.90** | **History 9.1**, **Photography 8.8** | 8.2 / 8.8 / 8.7 / 8.2 / 7.6 | [42.2635, 21.9545](https://www.google.com/maps/search/?api=1&query=42.2635,21.9545) |
+| 24 | [Saint Naum Springs](sights/saint-naum-springs.yaml) | Attraction | **83.00** | **Photography 9.1**, **Nature 9.0** | 8.4 / 8.5 / 7.9 / 8.7 / 7.7 | [40.9145, 20.7442](https://www.google.com/maps/search/?api=1&query=40.9145,20.7442) |
+| 25 | [Archaeological Museum of North Macedonia](sights/archaeological-museum-of-north-macedonia.yaml) | Museum / heritage | **82.05** | **History 8.9**, **Culture 8.7** | 8.0 / 8.1 / 8.6 / 8.2 / 8.3 | [41.9973, 21.435](https://www.google.com/maps/search/?api=1&query=41.9973,21.435) |
+| 26 | [Stone Bridge Skopje](sights/stone-bridge-skopje.yaml) | Bridge | **81.55** | **History 9.0**, **Architecture 8.8**, **Photography 8.8** | 8.1 / 8.2 / 8.6 / 8.3 / 7.1 | [41.9969, 21.4326](https://www.google.com/maps/search/?api=1&query=41.9969,21.4326) |
+| 27 | [Skopje Kale Fortress](sights/skopje-kale-fortress.yaml) | Fortification | **81.35** | **History 9.0**, **Photography 8.7** | 8.0 / 8.1 / 8.7 / 8.0 / 7.7 | [42.0017, 21.4333](https://www.google.com/maps/search/?api=1&query=42.0017,21.4333) |
+| 28 | [Ancient Theatre of Ohrid](sights/ancient-theatre-of-ohrid.yaml) | Attraction | **81.20** | **History 9.0**, **Architecture 8.6** | 8.0 / 8.2 / 8.6 / 8.2 / 7.2 | [41.114, 20.793](https://www.google.com/maps/search/?api=1&query=41.114,20.793) |
+| 29 | [Vevčani Springs](sights/vevcani-springs.yaml) | Attraction | **79.20** | **Nature 8.7**, **Relaxation 8.4** | 8.0 / 8.1 / 7.5 / 8.3 / 7.5 | [41.2405, 20.586](https://www.google.com/maps/search/?api=1&query=41.2405,20.586) |
+| 30 | [Millennium Cross on Vodno](sights/millennium-cross-on-vodno.yaml) | Attraction | **78.10** | **Photography 8.8**, **Nature 8.3** | 8.1 / 7.8 / 7.2 / 8.4 / 7.3 | [41.9654, 21.3948](https://www.google.com/maps/search/?api=1&query=41.9654,21.3948) |
+| 31 | [Macedonia Square](sights/macedonia-square.yaml) | Park / square | **77.85** | **Photography 8.4**, **Architecture 8.3** | 7.8 / 7.9 / 7.5 / 8.2 / 7.4 | [41.9958, 21.4315](https://www.google.com/maps/search/?api=1&query=41.9958,21.4315) |
+| 32 | [Memorial House of Mother Teresa](sights/memorial-house-of-mother-teresa.yaml) | Museum / heritage | **77.70** | **History 8.8**, **Culture 8.5** | 7.4 / 8.0 / 8.4 / 7.8 / 7.0 | [41.9938, 21.4309](https://www.google.com/maps/search/?api=1&query=41.9938,21.4309) |
 
-Add destination YAML files in [sights/](sights/), then regenerate the overview files.
+## Not yet fully assessed (1)
+
+These destinations have no rank until all five core scores are assessed.
+
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps |
+| ---: | --- | --- | ---: | --- | --- | --- |
+| — | [Dlaboka Reka Beech Forest Component](sights/dlaboka-reka-beech-forest-component.yaml) | Forest | **—** | **Nature 9.4** | 8.3 / 8.8 / 9.2 / — / — | [41.764, 20.591](https://www.google.com/maps/search/?api=1&query=41.764,20.591) |
 
 ---
 
