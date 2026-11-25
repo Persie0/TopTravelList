@@ -1,0 +1,16 @@
+id: city-dz-ghardaia
+name: "Ghardaïa"
+location:
+  country_code: DZ
+  latitude: 32.49
+  longitude: 3.67
+scores:
+  impact: 8.7
+  uniqueness: 9.0
+  significance: 8.8
+  experience: 8.2
+  depth: 8.1
+  categories:
+    architecture: 9.0
+    culture: 9.0
+    history: 8.8

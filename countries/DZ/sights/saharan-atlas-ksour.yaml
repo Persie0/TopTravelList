@@ -1,0 +1,13 @@
+id: sight-dz-saharan-atlas-ksour
+name: "Ksour of the Algerian Saharan Atlas"
+location:
+  country_code: DZ
+  latitude: 33.5
+  longitude: 1.0
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}

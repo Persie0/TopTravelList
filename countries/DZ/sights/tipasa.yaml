@@ -1,0 +1,16 @@
+id: sight-dz-tipasa
+name: "Tipasa Archaeological Site"
+location:
+  country_code: DZ
+  latitude: 36.592
+  longitude: 2.449
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 9.3
+  experience: 8.8
+  depth: 8.7
+  categories:
+    architecture: 9.0
+    history: 9.4
+    photography: 9.1

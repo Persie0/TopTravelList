@@ -1,0 +1,15 @@
+id: city-dz-bejaia
+name: "Béjaïa"
+location:
+  country_code: DZ
+  latitude: 36.75
+  longitude: 5.056
+scores:
+  impact: 8.2
+  uniqueness: 8.0
+  significance: 8.3
+  experience: 8.2
+  depth: 7.9
+  categories:
+    history: 8.4
+    culture: 8.2

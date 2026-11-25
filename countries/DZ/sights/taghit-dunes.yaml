@@ -1,0 +1,16 @@
+id: sight-dz-taghit-dunes
+name: "Taghit Dunes"
+location:
+  country_code: DZ
+  latitude: 30.92
+  longitude: -2.01
+scores:
+  impact: 8.9
+  uniqueness: 8.4
+  significance: 8.0
+  experience: 8.7
+  depth: 8.1
+  categories:
+    nature: 8.8
+    photography: 9.1
+    adventure: 8.8
