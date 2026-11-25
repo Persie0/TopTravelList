@@ -156,7 +156,7 @@ Every registered country has a linked folder below. The status is determined fro
 | [Japan](countries/JP/) (`JP`) | [87](countries/JP/cities.md) | [347](countries/JP/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Japan) |
 | [Jordan](countries/JO/) (`JO`) | [21](countries/JO/cities.md) | [67](countries/JO/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Jordan) |
 | [Kazakhstan](countries/KZ/) (`KZ`) | [18](countries/KZ/cities.md) | [59](countries/KZ/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Kazakhstan) |
-| [Kiribati](countries/KI/) (`KI`) | [10](countries/KI/cities.md) | [9](countries/KI/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Kiribati) |
+| [Kiribati](countries/KI/) (`KI`) | [10](countries/KI/cities.md) | [13](countries/KI/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Kiribati) |
 | [Kosovo](countries/XK/) (`XK`) | [20](countries/XK/cities.md) | [38](countries/XK/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Kosovo) |
 | [Kuwait](countries/KW/) (`KW`) | [12](countries/KW/cities.md) | [43](countries/KW/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Kuwait) |
 | [Kyrgyzstan](countries/KG/) (`KG`) | [18](countries/KG/cities.md) | [46](countries/KG/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Kyrgyzstan) |

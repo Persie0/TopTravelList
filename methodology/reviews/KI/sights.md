@@ -186,7 +186,7 @@
 - YAML: [source](../../../countries/KI/sights/phoenix-islands-protected-area.yaml)
 - Action: new
 - Precise subject: Whole inscribed marine protected area; coordinate is an interior representative ocean point, not an island or entrance.
-- Location check: representative WGS84 -3.8, -172.5; see cited references and limitations. Not an entrance.
+- Location check: representative WGS84 -3.864454, -172.650203; see cited references and limitations. Not an entrance.
 - Evidence status: unassessed
 - Limited checked factual references (page or search excerpt, accessed 2026-11-25):
   - World Heritage datasheet documents boundaries, coral habitats and threatened seabirds — https://world-heritage-datasheets.unep-wcmc.org/datasheet/output/site/phoenix-islands-protected-area/
@@ -216,6 +216,9 @@
 - Final decision: Retain in inventory without a total until missing dimensions can be supported.
 - Earlier decision: none.
 - Verification still needed: UNESCO full page blocked; current protection/permit regimes require direct verification. Significance 9.6 justified by the World Heritage datasheet's documented large-scale ecological processes and breeding habitats; does not confer a perfect score or a rank.
+
+**2026-11-25 follow-up:** Official UNESCO geographical data (https://whc.unesco.org/en/list/1325/maps/) gives S3°51′52.034″ W172°39′0.731″; converted to -3.864454, -172.650203. This is a representative marine point, not an entrance. UNESCO decision 48 COM 7B.73 (https://whc.unesco.org/en/decisions/9112/) records repeal of the earlier commercial-fishing closure and development of marine spatial planning, with potential limited ecotourism. The Committee requests assessment of possible danger-list eligibility, not an actual danger-list inscription in this decision. Keep experience and depth null: proposed ecotourism does not establish current ordinary permitted visitor scope. Significance remains 9.6; no perfect-ten rating. The conservation decision affects current condition and access evidence, not the independently assessed intrinsic significance.
+
 
 ### sight-ki-abaiang-lagoon — Abaiang Lagoon — 2026-11-25
 
@@ -324,4 +327,153 @@
 - Final decision: Provisional worldwide assessment supported by the field-specific rationale above, not an independently verified score.
 - Earlier decision: none.
 - Verification still needed: Exact stone coordinates and current permission need confirmation; guide marker is not a precise stone position.
+
+
+### sight-ki-tarawa-lagoon — Tarawa Lagoon — 2026-11-25
+
+- YAML: [source](../../../countries/KI/sights/tarawa-lagoon.yaml)
+- Action: new (inventory expansion)
+- Precise subject: Lagoon waterscape and ordinary permitted water-based experience, not Betio battlefield, villages, or whole Tarawa atoll.
+- Location check: representative WGS84 1.419, 172.986; not an entrance.
+- Evidence status: source-linked-unverified
+- Limited factual references inspected on 2026-11-25:
+  - Named lagoon and representative water coordinates. — https://mapcarta.com/27388662
+  - Council describes northern lagoon scenery, shore visits and customary fishtraps. — https://eutantarawacouncil.gov.ki/discover/
+  - Local boat trip and northern lagoon visitor context. — https://visitingoceania.com/landmarks/tarawa-atoll/
+- Missing or uncertain facts: Verify actual water quality, currents, permissions and operator availability before visiting. No swimming recommendation.
+
+#### Worldwide peer comparisons
+- Funafuti Lagoon (Tuvalu): close atoll waterscape comparator, smaller documented visitor range.
+- Cheow Lan Lake (Thailand): more dramatic karst and varied established boat outings.
+- Marovo Lagoon (Solomon Islands): greater documented reef and island diversity.
+- Abaiang Lagoon (Kiribati): similar modest tropical waterscape, separately ranked.
+
+#### Scoring decisions
+| Field | New rating | Individual justification |
+| --- | ---: | --- |
+| impact | 7.9 | Wide shallow tropical waters and coral-islet framing. |
+| uniqueness | 7.8 | Distinctive atoll form but similar lagoons exist worldwide. |
+| significance | 7.2 | Local maritime and community relevance, without inheriting battlefield significance. |
+| experience | 7.7 | Northern shore viewing and organized lagoon trips provide a varied focused visit; southern water quality not assumed suitable. |
+| depth | 7.4 | Multiple northern perspectives and boat outings, fewer distinct documented natural features than Marovo. |
+
+- Applicable category scores: nature: 8.2, photography: 8.0, relaxation: 7.8
+- Computed worldwide overall: 76.55/100
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide assessment.
+- Earlier decision: none.
+- Verification still needed: Verify actual water quality, currents, permissions and operator availability before visiting. No swimming recommendation.
+
+
+### sight-ki-abemama-lagoon — Abemama Lagoon — 2026-11-25
+
+- YAML: [source](../../../countries/KI/sights/abemama-lagoon.yaml)
+- Action: new (inventory expansion)
+- Precise subject: Lagoon itself, excluding historic chiefly sites and island-wide settlement.
+- Location check: representative WGS84 0.39928, 173.85727; not an entrance.
+- Evidence status: source-linked-unverified
+- Limited factual references inspected on 2026-11-25:
+  - GeoNames-derived lagoon water point. — https://mapcarta.com/27684412
+  - Wide lagoon, quiet atoll and local guesthouse context. — https://kiribatitravel.com/destinations/abemama/
+  - Travel specialist documents lagoon snorkeling. — https://www.kiribatiholidays.com/about-kiribati/outer-islands
+- Missing or uncertain facts: Lagoon ecology and current permitted water activities require corroboration.
+
+#### Worldwide peer comparisons
+- Funafuti Lagoon (Tuvalu): close atoll waterscape comparator, smaller documented visitor range.
+- Cheow Lan Lake (Thailand): more dramatic karst and varied established boat outings.
+- Marovo Lagoon (Solomon Islands): greater documented reef and island diversity.
+- Abaiang Lagoon (Kiribati): similar modest tropical waterscape, separately ranked.
+
+#### Scoring decisions
+| Field | New rating | Individual justification |
+| --- | ---: | --- |
+| impact | 7.9 | Pleasant expansive coral-water setting. |
+| uniqueness | 7.7 | Characteristic atoll landscape with many Pacific analogues. |
+| significance | 6.9 | Local marine and community importance, not demonstrated globally exceptional biodiversity. |
+| experience | 7.6 | Focused shore and locally arranged water experiences, subject to permission. |
+| depth | 7.0 | Several perspectives but limited independently documented visitor features. |
+
+- Applicable category scores: nature: 8.2, photography: 8.1, relaxation: 7.9
+- Computed worldwide overall: 75.15/100
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide assessment.
+- Earlier decision: none.
+- Verification still needed: Lagoon ecology and current permitted water activities require corroboration.
+
+
+### sight-ki-butaritari-lagoon — Butaritari Lagoon — 2026-11-25
+
+- YAML: [source](../../../countries/KI/sights/butaritari-lagoon.yaml)
+- Action: new (inventory expansion)
+- Precise subject: Named lagoon, excluding historic sites, settlements and whole atoll.
+- Location check: representative WGS84 3.16177, 172.81769; not an entrance.
+- Evidence status: unassessed
+- Limited factual references inspected on 2026-11-25:
+  - Named water feature point. — https://www.geonames.org/7521498/butaritari-lagoon.html
+  - Government island profile describes deep lagoon and geography. — https://mcia.gov.ki/node/84
+  - Atoll visitor context and luxuriant vegetation, not proof of lagoon access. — https://kiribatitravel.com/destinations/butaritari/
+- Missing or uncertain facts: Retain unranked pending lagoon-specific authorized visitor evidence.
+
+#### Worldwide peer comparisons
+- Funafuti Lagoon (Tuvalu): close atoll waterscape comparator, smaller documented visitor range.
+- Cheow Lan Lake (Thailand): more dramatic karst and varied established boat outings.
+- Marovo Lagoon (Solomon Islands): greater documented reef and island diversity.
+- Abaiang Lagoon (Kiribati): similar modest tropical waterscape, separately ranked.
+
+#### Scoring decisions
+| Field | New rating | Individual justification |
+| --- | ---: | --- |
+| impact | 7.8 | Broad water and vegetated island setting. |
+| uniqueness | 7.8 | Deep atoll lagoon distinctive but comparable elsewhere. |
+| significance | 7.0 | Regional maritime and community relevance. |
+| experience | null | Lagoon-specific ordinary permitted activities not sufficiently corroborated. |
+| depth | null | Accessible range and interpretation unresolved. |
+
+- Applicable category scores: nature: 8.1, photography: 8.0
+- Computed worldwide overall: unranked
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Retain without rank pending evidence.
+- Earlier decision: none.
+- Verification still needed: Retain unranked pending lagoon-specific authorized visitor evidence.
+
+
+### sight-ki-sacred-heart-cathedral — Sacred Heart Cathedral — 2026-11-25
+
+- YAML: [source](../../../countries/KI/sights/sacred-heart-cathedral.yaml)
+- Action: new (inventory expansion)
+- Precise subject: Individual active place of worship in Teaoraereke, not entire town or diocese.
+- Location check: representative WGS84 1.33259, 173.00722; not an entrance.
+- Evidence status: source-linked-unverified
+- Limited factual references inspected on 2026-11-25:
+  - Mapped cathedral footprint and representative coordinates. — https://mapcarta.com/W90810971
+  - Diocesan cathedral identity. — https://gcatholic.org/churches/oceania/4029
+  - Visitor guide describes active worship and local choral traditions. — https://tripcuro.com/travelguide/kiribati/gilbert-islands/south-tarawa/
+  - Documents community worship at cathedral. — https://www.egradio.org/home/christianity/8-christianity/56735-catholic-church-in-kiribati-opens-new-fm-radio-station.html
+- Missing or uncertain facts: Current non-worship visitor access, opening and interpretation unverified. No guarantee of admission.
+
+#### Worldwide peer comparisons
+- St Stephen's Cathedral (Austria): far greater monumental architecture.
+- Notre-Dame Cathedral (France): much greater built heritage and international significance.
+- St Mary's Cathedral (Australia): larger architectural ensemble.
+- Airai Bai (Palau): different but comparable focused local cultural building.
+
+#### Scoring decisions
+| Field | New rating | Individual justification |
+| --- | ---: | --- |
+| impact | 6.2 | Modest religious building rather than monumental cathedral. |
+| uniqueness | 7.1 | Distinctive local worship culture and Pacific religious context. |
+| significance | 7.6 | National Catholic institutional and living heritage importance. |
+| experience | 6.5 | Focused respectful viewing and public worship only if welcomed. |
+| depth | 5.7 | Single building and limited confirmed interpretation. |
+
+- Applicable category scores: architecture: 6.8, culture: 7.8, history: 7.1
+- Computed worldwide overall: 67.00/100
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide assessment.
+- Earlier decision: none.
+- Verification still needed: Current non-worship visitor access, opening and interpretation unverified. No guarantee of admission.
 
