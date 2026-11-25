@@ -1,0 +1,16 @@
+id: sight-si-celje-castle
+name: "Celje Castle"
+location:
+  country_code: SI
+  latitude: 46.22
+  longitude: 15.272
+scores:
+  impact: 8.8
+  uniqueness: 8.6
+  significance: 8.9
+  experience: 8.7
+  depth: 8.2
+  categories:
+    architecture: 9.0
+    history: 9.2
+    photography: 9.1

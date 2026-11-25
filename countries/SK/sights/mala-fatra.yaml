@@ -1,0 +1,16 @@
+id: sight-sk-mala-fatra
+name: "Malá Fatra National Park"
+location:
+  country_code: SK
+  latitude: 49.2
+  longitude: 19.08
+scores:
+  impact: 9.1
+  uniqueness: 8.9
+  significance: 8.7
+  experience: 9.1
+  depth: 9.0
+  categories:
+    nature: 9.3
+    adventure: 9.2
+    photography: 9.3

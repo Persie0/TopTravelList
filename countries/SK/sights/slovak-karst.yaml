@@ -1,0 +1,15 @@
+id: sight-sk-slovak-karst
+name: "Slovak Karst National Park (surface landscape)"
+location:
+  country_code: SK
+  latitude: 48.56
+  longitude: 20.6
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 8.7
+  depth: 8.9
+  categories:
+    nature: 9.3
+    adventure: 9.0

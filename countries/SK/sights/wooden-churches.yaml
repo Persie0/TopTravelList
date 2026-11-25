@@ -1,0 +1,16 @@
+id: sight-sk-wooden-churches
+name: "Wooden Churches of Slovak Carpathians (serial property)"
+location:
+  country_code: SK
+  latitude: 49.1
+  longitude: 21
+scores:
+  impact: 8.8
+  uniqueness: 9.2
+  significance: 9.2
+  experience: 8.6
+  depth: 8.8
+  categories:
+    architecture: 9.4
+    culture: 9.3
+    history: 9.3

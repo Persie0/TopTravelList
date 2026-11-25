@@ -1,0 +1,15 @@
+id: sight-si-kozjak-waterfall
+name: "Kozjak waterfall"
+location:
+  country_code: SI
+  latitude: 46.259
+  longitude: 13.597
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 8.2
+  experience: 8.7
+  depth: 7.6
+  categories:
+    nature: 9.2
+    photography: 9.4

@@ -1,0 +1,15 @@
+id: city-sk-bardejov
+name: "Bardejov"
+location:
+  country_code: SK
+  latitude: 49.293
+  longitude: 21.276
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 8.8
+  experience: 8.6
+  depth: 8.0
+  categories:
+    architecture: 9.3
+    history: 9.1

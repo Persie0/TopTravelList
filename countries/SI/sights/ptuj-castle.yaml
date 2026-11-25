@@ -1,0 +1,16 @@
+id: sight-si-ptuj-castle
+name: "Ptuj Castle"
+location:
+  country_code: SI
+  latitude: 46.421
+  longitude: 15.869
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 8.8
+  experience: 8.7
+  depth: 8.3
+  categories:
+    architecture: 9.0
+    history: 9.1
+    culture: 9.0

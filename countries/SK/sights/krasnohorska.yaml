@@ -1,0 +1,15 @@
+id: sight-sk-krasnohorska
+name: "Krásnohorská Cave"
+location:
+  country_code: SK
+  latitude: 48.637
+  longitude: 20.614
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 8.9
+  experience: 8.5
+  depth: 8.0
+  categories:
+    nature: 9.3
+    adventure: 9.0

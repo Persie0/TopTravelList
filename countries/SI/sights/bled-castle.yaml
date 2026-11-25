@@ -1,0 +1,16 @@
+id: sight-si-bled-castle
+name: "Bled Castle"
+location:
+  country_code: SI
+  latitude: 46.369
+  longitude: 14.101
+scores:
+  impact: 9.0
+  uniqueness: 8.8
+  significance: 8.6
+  experience: 8.8
+  depth: 8.1
+  categories:
+    architecture: 9.0
+    photography: 9.4
+    history: 8.9

@@ -1,0 +1,15 @@
+id: city-si-kamnik
+name: "Kamnik"
+location:
+  country_code: SI
+  latitude: 46.225
+  longitude: 14.612
+scores:
+  impact: 8.3
+  uniqueness: 8.3
+  significance: 8.3
+  experience: 8.4
+  depth: 7.8
+  categories:
+    architecture: 8.8
+    history: 8.7

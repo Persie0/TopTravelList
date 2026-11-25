@@ -1,0 +1,15 @@
+id: sight-si-st-michaels-crna-vas
+name: "St Michael's Church, Črna vas"
+location:
+  country_code: SI
+  latitude: 46.005
+  longitude: 14.481
+scores:
+  impact: 8.6
+  uniqueness: 9.0
+  significance: 8.9
+  experience: 8.3
+  depth: 7.5
+  categories:
+    architecture: 9.3
+    history: 8.9

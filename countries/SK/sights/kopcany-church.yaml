@@ -1,0 +1,15 @@
+id: sight-sk-kopcany-church
+name: "Church of St Margaret at Kopčany (Great Moravia tentative component)"
+location:
+  country_code: SK
+  latitude: 48.795
+  longitude: 17.113
+scores:
+  impact: 8.1
+  uniqueness: 8.8
+  significance: 9.1
+  experience: 8.2
+  depth: 7.5
+  categories:
+    architecture: 9.0
+    history: 9.3

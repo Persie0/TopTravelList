@@ -1,0 +1,16 @@
+id: city-sk-vlkolinec
+name: "Vlkolínec"
+location:
+  country_code: SK
+  latitude: 49.039
+  longitude: 19.279
+scores:
+  impact: 8.5
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 8.3
+  depth: 7.2
+  categories:
+    architecture: 9.2
+    culture: 9.1
+    photography: 9.0

@@ -2,7 +2,7 @@
 
 # Slovenia (SI) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**18 ranked** · **0 unassessed** · **18 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,28 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (18)
 
-No cities, towns & villages have been assessed for **Slovenia** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Ljubljana](cities/ljubljana.yaml) | City / town | **88.25** | **Architecture 9.2**, **Culture 9.0**, **History 8.8** | 8.8 / 8.9 / 8.7 / 9.0 / 8.7 | [46.0569, 14.5058](https://www.google.com/maps/search/?api=1&query=46.0569,14.5058) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ljubljana%2C%20Slovenia) |
+| 2 | [Piran](cities/piran.yaml) | City / town | **87.80** | **Architecture 9.3**, **Photography 9.3**, **History 9.0** | 8.9 / 8.9 / 8.7 / 8.9 / 8.1 | [45.528, 13.568](https://www.google.com/maps/search/?api=1&query=45.528,13.568) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Piran%2C%20Slovenia) |
+| 3 | [Ptuj](cities/ptuj.yaml) | City / town | **85.75** | **History 9.2**, **Architecture 9.0**, **Culture 8.9** | 8.6 / 8.6 / 8.8 / 8.5 / 8.1 | [46.419, 15.87](https://www.google.com/maps/search/?api=1&query=46.419,15.87) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ptuj%2C%20Slovenia) |
+| 4 | [Idrija](cities/idrija.yaml) | City / town | **84.85** | **History 9.3**, **Culture 8.9** | 8.1 / 8.7 / 9.0 / 8.4 / 8.2 | [46.002, 14.03](https://www.google.com/maps/search/?api=1&query=46.002,14.03) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Idrija%2C%20Slovenia) |
+| 4 | [Škofja Loka](cities/skofja-loka.yaml) | City / town | **84.85** | **Architecture 9.1**, **Photography 9.0**, **History 8.9** | 8.6 / 8.6 / 8.5 / 8.5 / 7.8 | [46.165, 14.306](https://www.google.com/maps/search/?api=1&query=46.165,14.306) | [Google Maps](https://www.google.com/maps/search/?api=1&query=%C5%A0kofja%20Loka%2C%20Slovenia) |
+| 6 | [Koper](cities/koper.yaml) | City / town | **84.25** | **Architecture 9.0**, **History 8.9** | 8.4 / 8.4 / 8.6 / 8.5 / 8.1 | [45.548, 13.73](https://www.google.com/maps/search/?api=1&query=45.548,13.73) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Koper%2C%20Slovenia) |
+| 7 | [Maribor](cities/maribor.yaml) | City / town | **83.75** | **Culture 8.8**, **History 8.8**, **Food 8.7** | 8.2 / 8.3 / 8.5 / 8.6 / 8.5 | [46.5547, 15.6459](https://www.google.com/maps/search/?api=1&query=46.5547,15.6459) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Maribor%2C%20Slovenia) |
+| 8 | [Štanjel](cities/stanjel.yaml) | City / town | **82.85** | **Architecture 9.0**, **Photography 9.0** | 8.4 / 8.6 / 8.2 / 8.3 / 7.3 | [45.823, 13.846](https://www.google.com/maps/search/?api=1&query=45.823,13.846) | [Google Maps](https://www.google.com/maps/search/?api=1&query=%C5%A0tanjel%2C%20Slovenia) |
+| 9 | [Radovljica](cities/radovljica.yaml) | City / town | **82.80** | **Architecture 8.9**, **Culture 8.8** | 8.3 / 8.4 / 8.3 / 8.4 / 7.7 | [46.344, 14.174](https://www.google.com/maps/search/?api=1&query=46.344,14.174) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Radovljica%2C%20Slovenia) |
+| 10 | [Kamnik](cities/kamnik.yaml) | City / town | **82.65** | **Architecture 8.8**, **History 8.7** | 8.3 / 8.3 / 8.3 / 8.4 / 7.8 | [46.225, 14.612](https://www.google.com/maps/search/?api=1&query=46.225,14.612) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kamnik%2C%20Slovenia) |
+| 11 | [Izola](cities/izola.yaml) | City / town | **81.90** | **Relaxation 8.8**, **Architecture 8.7**, **Food 8.7** | 8.2 / 8.2 / 8.1 / 8.6 / 7.7 | [45.536, 13.66](https://www.google.com/maps/search/?api=1&query=45.536,13.66) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Izola%2C%20Slovenia) |
+| 11 | [Kranj](cities/kranj.yaml) | City / town | **81.90** | **Architecture 8.7**, **History 8.7** | 8.1 / 8.2 / 8.3 / 8.4 / 7.9 | [46.2389, 14.3556](https://www.google.com/maps/search/?api=1&query=46.2389,14.3556) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kranj%2C%20Slovenia) |
+| 13 | [Celje](cities/celje.yaml) | City / town | **81.80** | **History 8.9**, **Architecture 8.6** | 8.0 / 8.1 / 8.5 / 8.3 / 8.1 | [46.239, 15.267](https://www.google.com/maps/search/?api=1&query=46.239,15.267) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Celje%2C%20Slovenia) |
+| 14 | [Bled](cities/bled.yaml) | City / town | **81.50** | **Relaxation 8.8**, **Architecture 8.4** | 8.2 / 8.2 / 7.9 / 8.6 / 7.7 | [46.369, 14.113](https://www.google.com/maps/search/?api=1&query=46.369,14.113) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bled%2C%20Slovenia) |
+| 15 | [Kostanjevica na Krki](cities/kostanjevica.yaml) | City / town | **81.25** | **Photography 8.8**, **Architecture 8.7** | 8.1 / 8.4 / 8.1 / 8.3 / 7.3 | [45.846, 15.422](https://www.google.com/maps/search/?api=1&query=45.846,15.422) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kostanjevica%20na%20Krki%2C%20Slovenia) |
+| 16 | [Novo Mesto](cities/novo-mesto.yaml) | City / town | **80.95** | **History 8.8**, **Architecture 8.6** | 8.0 / 8.1 / 8.3 / 8.2 / 7.8 | [45.804, 15.169](https://www.google.com/maps/search/?api=1&query=45.804,15.169) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Novo%20Mesto%2C%20Slovenia) |
+| 17 | [Kranjska Gora](cities/kranjska-gora.yaml) | City / town | **79.45** | **Relaxation 8.7**, **Photography 8.5** | 7.9 / 8.0 / 7.7 / 8.5 / 7.6 | [46.484, 13.785](https://www.google.com/maps/search/?api=1&query=46.484,13.785) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kranjska%20Gora%2C%20Slovenia) |
+| 18 | [Bovec](cities/bovec.yaml) | City / town | **78.30** | **Photography 8.5**, **Relaxation 8.4** | 7.8 / 7.9 / 7.7 / 8.3 / 7.3 | [46.338, 13.553](https://www.google.com/maps/search/?api=1&query=46.338,13.553) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bovec%2C%20Slovenia) |
 
 ---
 

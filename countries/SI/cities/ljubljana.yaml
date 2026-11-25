@@ -1,0 +1,16 @@
+id: city-si-ljubljana
+name: "Ljubljana"
+location:
+  country_code: SI
+  latitude: 46.0569
+  longitude: 14.5058
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 8.7
+  experience: 9.0
+  depth: 8.7
+  categories:
+    architecture: 9.2
+    culture: 9.0
+    history: 8.8

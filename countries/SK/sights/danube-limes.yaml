@@ -1,0 +1,14 @@
+id: sight-sk-danube-limes
+name: "Danube Limes (Slovak components)"
+location:
+  country_code: SK
+  latitude: 48.07
+  longitude: 17.15
+scores:
+  impact: 7.9
+  uniqueness: 8.6
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    history: 9.3

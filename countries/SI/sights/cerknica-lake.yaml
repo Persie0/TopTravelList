@@ -1,0 +1,16 @@
+id: sight-si-cerknica-lake
+name: "Lake Cerknica intermittent lake"
+location:
+  country_code: SI
+  latitude: 45.763
+  longitude: 14.393
+scores:
+  impact: 8.6
+  uniqueness: 9.2
+  significance: 9.0
+  experience: 8.6
+  depth: 8.8
+  categories:
+    nature: 9.4
+    wildlife: 9.1
+    photography: 9.0

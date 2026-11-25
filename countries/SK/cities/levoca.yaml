@@ -1,0 +1,15 @@
+id: city-sk-levoca
+name: "Levoča"
+location:
+  country_code: SK
+  latitude: 49.026
+  longitude: 20.589
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 8.9
+  experience: 8.7
+  depth: 8.1
+  categories:
+    architecture: 9.2
+    history: 9.2
