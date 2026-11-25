@@ -195,3 +195,37 @@
 - Earlier decision: none.
 - Verification still needed: Detailed settlement-specific visitor research.
 
+### city-ws-asau — Asau — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/WS/cities/asau.yaml)
+- Action: rescore
+- Precise subject: Village only; exclude distant Savai'i attractions and private resort amenities. Confirm local host and customary permission.
+- Location check: prior representative point retained; independent coordinate verification pending.
+- Evidence status: source-linked-unverified
+- Checked factual reference excerpts (2026-11-25):
+  - Va-i-moana lodge explicitly offers guided village walks — https://www.vaimoanaseasidelodge.com/en/organised-activities
+  - Tourism Samoa describes Asau Harbor and lodge context — https://www.samoa.travel/plan-book/samoa-accommodation/va-i-moana-seaside-lodge/
+- Missing or uncertain facts: Village only; exclude distant Savai'i attractions and private resort amenities. Confirm local host and customary permission.
+
+#### Worldwide peer comparisons
+- Kampot (Cambodia): broader urban experience
+- Koh Ker Village (Cambodia): more substantial archaeological context
+- Salzburg (Austria): much stronger built heritage
+- Ohonua (Tonga): similar compact village scale
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | null | 6.5 | Modest village fabric and coastal surroundings |
+| Uniqueness | null | 7.0 | Living Samoan customary community rather than a unique built ensemble |
+| Significance | null | 6.4 | Regional cultural and harbor role |
+| Experience | null | 7.0 | Hosted village walks and local community visits |
+| Depth | null | 6.2 | Limited number of independently distinct village experiences |
+
+- Applicable category scores: none assessed (unchanged).
+- Computed worldwide overall: 66.50/100
+- High-score challenge: no 9.5+ field or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Provisional ranking supported by documented ordinary visitor experiences; not full factual verification.
+- Earlier decision: prior entry for this ID, unranked.
+- Verification still needed: Village only; exclude distant Savai'i attractions and private resort amenities. Confirm local host and customary permission.

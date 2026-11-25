@@ -651,3 +651,38 @@
 - Earlier decision: none.
 - Verification still needed: Unranked pending local permissions and independent component-specific evidence. Do not assume landing is allowed.
 
+### sight-ws-fagaloa-bay-uafato-tiavea-conservation-zone — Fagaloa Bay–Uafato Tiavea Conservation Zone — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/WS/sights/fagaloa-bay-uafato-tiavea-conservation-zone.yaml)
+- Action: rescore
+- Precise subject: Tentative property only. Accessible coastal road and authorized local forest or village visits; no assumption of access throughout the zone. Confirm local arrangements.
+- Location check: prior representative point retained; independent coordinate verification pending.
+- Evidence status: source-linked-unverified
+- Checked factual reference excerpts (2026-11-25):
+  - UNESCO tentative property describes the forest and traditional village — https://whc.unesco.org/en/tentativelists/5090/
+  - Samoa Tourism lists Fagaloa scenic drive and Uafato sightseeing — https://www.samoa.travel/plan-book/activities/fagaloa-bay-scenic-drive/
+  - Lonely Planet describes Uafato conservation area and local tour arrangements — https://www.lonelyplanet.com/points-of-interest/uafato-conservation-area/1456428
+- Missing or uncertain facts: Tentative property only. Accessible coastal road and authorized local forest or village visits; no assumption of access throughout the zone. Confirm local arrangements.
+
+#### Worldwide peer comparisons
+- Kakadu (Australia): broader landscape and cultural inventory
+- Khao Sok (Thailand): more dramatic karst scenery and established excursions
+- Vatthe (Vanuatu): comparable protected forest visits
+- Marovo Lagoon (Solomon Islands): larger marine landscape
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | 8.4 | 8.4 | Strong steep rainforest-to-sea scenery |
+| Uniqueness | 8.6 | 8.6 | Distinct combination of living customary landscapes, geological features and forest |
+| Significance | 8.8 | 8.8 | Important local and regional conservation and living cultural heritage |
+| Experience | null | 8.2 | Documented scenic drive, guided visits and craft encounters |
+| Depth | null | 8.1 | Several landscape and cultural experiences, without assuming entry to all conservation land |
+
+- Applicable category scores: nature: 8.9, wildlife: 8.6, culture: 8.5 (unchanged).
+- Computed worldwide overall: 84.70/100
+- High-score challenge: no 9.5+ field or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Provisional ranking supported by documented ordinary visitor experiences; not full factual verification.
+- Earlier decision: prior entry for this ID, unranked.
+- Verification still needed: Tentative property only. Accessible coastal road and authorized local forest or village visits; no assumption of access throughout the zone. Confirm local arrangements.
