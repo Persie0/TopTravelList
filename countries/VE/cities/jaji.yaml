@@ -1,0 +1,16 @@
+id: city-ve-jaji
+name: "Jají"
+location:
+  country_code: VE
+  latitude: 8.6333
+  longitude: -71.3500
+scores:
+  impact: 7.4
+  uniqueness: 8.0
+  significance: 7.3
+  experience: 7.8
+  depth: 6.3
+  categories:
+    architecture: 8.6
+    culture: 8.1
+    photography: 8.2

@@ -1,0 +1,16 @@
+id: sight-co-san-agustin-archaeological-park
+name: "San Agustín Archaeological Park"
+location:
+  country_code: CO
+  latitude: 1.8880
+  longitude: -76.2940
+scores:
+  impact: 8.8
+  uniqueness: 9.4
+  significance: 9.6
+  experience: 8.7
+  depth: 8.5
+  categories:
+    history: 9.7
+    architecture: 9.3
+    culture: 9.4

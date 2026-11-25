@@ -1,0 +1,16 @@
+id: sight-ve-mount-roraima-venezuelan-sector
+name: "Mount Roraima (Venezuelan sector)"
+location:
+  country_code: VE
+  latitude: 5.1430
+  longitude: -60.7620
+scores:
+  impact: 9.7
+  uniqueness: 9.8
+  significance: 9.2
+  experience: 8.7
+  depth: 8.8
+  categories:
+    nature: 9.8
+    photography: 9.8
+    adventure: 9.7

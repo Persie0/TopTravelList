@@ -1,0 +1,16 @@
+id: sight-mv-ukulhas-bikini-beach
+name: "Ukulhas Bikini Beach"
+location:
+  country_code: MV
+  latitude: 4.213
+  longitude: 72.863
+scores:
+  impact: 8.5
+  uniqueness: 8.1
+  significance: 6.3
+  experience: 8.8
+  depth: 7.4
+  categories:
+    beaches: 9.1
+    relaxation: 9.1
+    photography: 8.8

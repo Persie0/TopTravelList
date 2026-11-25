@@ -1,0 +1,16 @@
+id: city-br-lencois-bahia
+name: "Lençóis (Bahia)"
+location:
+  country_code: BR
+  latitude: -12.5636
+  longitude: -41.3890
+scores:
+  impact: 7.6
+  uniqueness: 8.0
+  significance: 7.7
+  experience: 8.2
+  depth: 6.8
+  categories:
+    architecture: 8.5
+    culture: 8.3
+    photography: 8.2

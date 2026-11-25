@@ -1,0 +1,15 @@
+id: sight-cr-jade-museum
+name: "Jade Museum"
+location:
+  country_code: CR
+  latitude: 9.933
+  longitude: -84.073
+scores:
+  impact: 8.0
+  uniqueness: 8.6
+  significance: 8.7
+  experience: 8.2
+  depth: 8.0
+  categories:
+    history: 9.0
+    culture: 8.8

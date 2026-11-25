@@ -1,0 +1,16 @@
+id: city-dj-obock
+name: "Obock"
+location:
+  country_code: DJ
+  latitude: 11.9670
+  longitude: 43.2880
+scores:
+  impact: 6.9
+  uniqueness: 7.6
+  significance: 7.8
+  experience: 7.1
+  depth: 6.2
+  categories:
+    history: 8.4
+    culture: 8.0
+    photography: 7.8

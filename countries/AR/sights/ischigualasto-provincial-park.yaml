@@ -1,0 +1,16 @@
+id: sight-ar-ischigualasto-provincial-park
+name: "Ischigualasto Provincial Park"
+location:
+  country_code: AR
+  latitude: -30.0830
+  longitude: -67.9170
+scores:
+  impact: 8.9
+  uniqueness: 9.2
+  significance: 9.5
+  experience: 8.4
+  depth: 7.8
+  categories:
+    nature: 9.4
+    photography: 9.4
+    history: 9.5

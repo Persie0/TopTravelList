@@ -1,0 +1,14 @@
+id: city-qa-al-shahaniya
+name: "Al Shahaniya"
+location:
+  country_code: QA
+  latitude: 25.3710
+  longitude: 51.2260
+scores:
+  impact: 6.1
+  uniqueness: 6.5
+  significance: 6.4
+  experience: 6.6
+  depth: 5.9
+  categories:
+    culture: 7.0

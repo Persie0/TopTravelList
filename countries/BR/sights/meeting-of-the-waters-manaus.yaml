@@ -1,0 +1,15 @@
+id: sight-br-meeting-of-the-waters-manaus
+name: "Meeting of the Waters (Manaus)"
+location:
+  country_code: BR
+  latitude: -3.1330
+  longitude: -59.9000
+scores:
+  impact: 8.8
+  uniqueness: 9.4
+  significance: 8.3
+  experience: 8.5
+  depth: 6.6
+  categories:
+    nature: 9.4
+    photography: 9.3

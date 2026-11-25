@@ -1,0 +1,16 @@
+id: city-cr-santa-teresa
+name: "Santa Teresa"
+location:
+  country_code: CR
+  latitude: 9.642
+  longitude: -85.165
+scores:
+  impact: 7.6
+  uniqueness: 7.7
+  significance: 6.1
+  experience: 8.3
+  depth: 7.0
+  categories:
+    relaxation: 8.4
+    food: 8.1
+    nightlife: 7.7

@@ -1,0 +1,14 @@
+id: city-qa-mesaieed
+name: "Mesaieed"
+location:
+  country_code: QA
+  latitude: 24.9920
+  longitude: 51.5500
+scores:
+  impact: 6.0
+  uniqueness: 6.1
+  significance: 6.5
+  experience: 6.4
+  depth: 6.0
+  categories:
+    culture: 6.5

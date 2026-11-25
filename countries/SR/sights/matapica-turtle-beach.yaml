@@ -1,0 +1,15 @@
+id: sight-sr-matapica-turtle-beach
+name: "Matapica Turtle Beach"
+location:
+  country_code: SR
+  latitude: 5.9833
+  longitude: -54.9500
+scores:
+  impact: 8.2
+  uniqueness: 8.8
+  significance: 8.7
+  experience: 8.0
+  depth: 7.3
+  categories:
+    wildlife: 9.2
+    nature: 8.7

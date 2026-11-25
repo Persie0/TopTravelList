@@ -1,0 +1,16 @@
+id: sight-ve-parque-del-este-caracas
+name: "Parque del Este (Caracas)"
+location:
+  country_code: VE
+  latitude: 10.4940
+  longitude: -66.8420
+scores:
+  impact: 7.5
+  uniqueness: 7.7
+  significance: 7.4
+  experience: 8.0
+  depth: 7.8
+  categories:
+    relaxation: 8.4
+    nature: 8.2
+    architecture: 8.0

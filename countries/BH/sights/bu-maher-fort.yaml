@@ -1,0 +1,15 @@
+id: sight-bh-bu-maher-fort
+name: "Bu Maher Fort"
+location:
+  country_code: BH
+  latitude: 26.2380
+  longitude: 50.6140
+scores:
+  impact: 7.2
+  uniqueness: 7.6
+  significance: 8.2
+  experience: 7.4
+  depth: 6.4
+  categories:
+    history: 8.5
+    architecture: 7.8

@@ -1,0 +1,15 @@
+id: city-lu-schengen
+name: "Schengen"
+location:
+  country_code: LU
+  latitude: 49.4700
+  longitude: 6.3650
+scores:
+  impact: 7.3
+  uniqueness: 8.1
+  significance: 8.5
+  experience: 7.8
+  depth: 7.0
+  categories:
+    history: 8.9
+    culture: 8.5

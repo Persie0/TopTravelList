@@ -1,0 +1,16 @@
+id: sight-sz-hlane-royal-national-park
+name: "Hlane Royal National Park"
+location:
+  country_code: SZ
+  latitude: -26.2670
+  longitude: 31.8840
+scores:
+  impact: 8.8
+  uniqueness: 8.6
+  significance: 8.5
+  experience: 8.7
+  depth: 8.3
+  categories:
+    wildlife: 9.3
+    nature: 9.0
+    photography: 8.8

@@ -1,0 +1,15 @@
+id: sight-bj-temple-of-pythons
+name: "Temple of Pythons"
+location:
+  country_code: BJ
+  latitude: 6.3620
+  longitude: 2.0850
+scores:
+  impact: 7.6
+  uniqueness: 8.8
+  significance: 8.3
+  experience: 8.1
+  depth: 6.5
+  categories:
+    culture: 9.3
+    history: 8.6

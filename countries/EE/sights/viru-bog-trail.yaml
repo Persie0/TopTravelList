@@ -1,0 +1,15 @@
+id: sight-ee-viru-bog-trail
+name: "Viru Bog Trail"
+location:
+  country_code: EE
+  latitude: 59.475
+  longitude: 25.652
+scores:
+  impact: 8.4
+  uniqueness: 8.5
+  significance: 7.8
+  experience: 8.8
+  depth: 7.7
+  categories:
+    nature: 8.9
+    photography: 9

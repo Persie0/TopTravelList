@@ -1,0 +1,14 @@
+id: sight-cr-el-silencio-archaeological-site
+name: "El Silencio Archaeological Site"
+location:
+  country_code: CR
+  latitude: 8.951106
+  longitude: -83.441103
+scores:
+  impact: null
+  uniqueness: 8.9
+  significance: 9.0
+  experience: null
+  depth: null
+  categories:
+    history: 9.1

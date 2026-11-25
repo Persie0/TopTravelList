@@ -1,0 +1,16 @@
+id: sight-pa-cayos-zapatillas
+name: "Cayos Zapatillas"
+location:
+  country_code: PA
+  latitude: 9.26
+  longitude: -82.05
+scores:
+  impact: 8.9
+  uniqueness: 8.4
+  significance: 7.8
+  experience: 9.0
+  depth: 7.5
+  categories:
+    beaches: 9.4
+    nature: 9.1
+    photography: 9.2

@@ -1,0 +1,15 @@
+id: sight-md-national-art-museum-of-moldova
+name: "National Art Museum of Moldova"
+location:
+  country_code: MD
+  latitude: 47.0216
+  longitude: 28.8305
+scores:
+  impact: 7.6
+  uniqueness: 7.9
+  significance: 8.1
+  experience: 8.2
+  depth: 7.7
+  categories:
+    culture: 8.8
+    architecture: 8.4

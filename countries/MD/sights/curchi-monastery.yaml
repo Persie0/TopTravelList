@@ -1,0 +1,16 @@
+id: sight-md-curchi-monastery
+name: "Curchi Monastery"
+location:
+  country_code: MD
+  latitude: 47.3310
+  longitude: 28.6510
+scores:
+  impact: 8.3
+  uniqueness: 8.5
+  significance: 8.5
+  experience: 8.4
+  depth: 7.7
+  categories:
+    architecture: 9.1
+    history: 8.8
+    culture: 8.8

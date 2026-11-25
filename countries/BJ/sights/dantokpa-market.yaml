@@ -1,0 +1,15 @@
+id: sight-bj-dantokpa-market
+name: "Dantokpa Market"
+location:
+  country_code: BJ
+  latitude: 6.3770
+  longitude: 2.4330
+scores:
+  impact: null
+  uniqueness: null
+  significance: 7.9
+  experience: null
+  depth: null
+  categories:
+    culture: 8.5
+    food: 8.3

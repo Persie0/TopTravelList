@@ -1,0 +1,15 @@
+id: sight-ls-pitseng-cave
+name: "Pitseng Cave"
+location:
+  country_code: LS
+  latitude: -28.890100
+  longitude: 28.222117
+scores:
+  impact: null
+  uniqueness: null
+  significance: 8.0
+  experience: null
+  depth: null
+  categories:
+    history: 8.4
+    culture: 8.1

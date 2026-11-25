@@ -1,0 +1,15 @@
+id: city-ls-qacha-s-nek
+name: "Qacha's Nek"
+location:
+  country_code: LS
+  latitude: -30.1167
+  longitude: 28.6833
+scores:
+  impact: 6.8
+  uniqueness: 7.0
+  significance: 6.5
+  experience: 7.0
+  depth: 6.1
+  categories:
+    photography: 7.8
+    culture: 7.3

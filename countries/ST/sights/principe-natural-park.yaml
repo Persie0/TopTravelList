@@ -1,0 +1,17 @@
+id: sight-st-principe-natural-park
+name: "Príncipe Natural Park"
+location:
+  country_code: ST
+  latitude: 1.5450
+  longitude: 7.3710
+scores:
+  impact: 9.2
+  uniqueness: 9.3
+  significance: 9.0
+  experience: 8.4
+  depth: 8.6
+  categories:
+    nature: 9.5
+    wildlife: 9.5
+    photography: 9.4
+    adventure: 8.9

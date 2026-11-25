@@ -1,0 +1,16 @@
+id: sight-sr-fort-zeelandia-and-surinaams-museum
+name: "Fort Zeelandia and Surinaams Museum"
+location:
+  country_code: SR
+  latitude: 5.8255
+  longitude: -55.1510
+scores:
+  impact: 8.0
+  uniqueness: 8.2
+  significance: 8.7
+  experience: 8.2
+  depth: 7.7
+  categories:
+    history: 9.0
+    architecture: 8.5
+    culture: 8.4

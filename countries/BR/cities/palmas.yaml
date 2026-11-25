@@ -1,0 +1,15 @@
+id: city-br-palmas
+name: "Palmas"
+location:
+  country_code: BR
+  latitude: -10.1840
+  longitude: -48.3336
+scores:
+  impact: 6.4
+  uniqueness: 6.9
+  significance: 6.4
+  experience: 7.5
+  depth: 6.9
+  categories:
+    relaxation: 8.0
+    photography: 7.7

@@ -1,0 +1,15 @@
+id: city-pe-huacachina
+name: "Huacachina"
+location:
+  country_code: PE
+  latitude: -14.0875
+  longitude: -75.7633
+scores:
+  impact: 8.0
+  uniqueness: 8.2
+  significance: 6.1
+  experience: 8.1
+  depth: 6.0
+  categories:
+    photography: 8.9
+    relaxation: 8.4

@@ -1,0 +1,16 @@
+id: city-uy-la-paloma
+name: "La Paloma"
+location:
+  country_code: UY
+  latitude: -34.6628
+  longitude: -54.1645
+scores:
+  impact: 7.5
+  uniqueness: 7.2
+  significance: 6.7
+  experience: 8.0
+  depth: 7.4
+  categories:
+    beaches: 8.4
+    relaxation: 8.2
+    food: 7.6

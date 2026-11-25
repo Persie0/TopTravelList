@@ -1,0 +1,17 @@
+id: city-lu-luxembourg-city
+name: "Luxembourg City"
+location:
+  country_code: LU
+  latitude: 49.6117
+  longitude: 6.1319
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 9.1
+  experience: 8.8
+  depth: 8.8
+  categories:
+    architecture: 9.2
+    history: 9.3
+    culture: 8.8
+    photography: 9.2

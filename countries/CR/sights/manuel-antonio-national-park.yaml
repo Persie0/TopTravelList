@@ -1,0 +1,16 @@
+id: sight-cr-manuel-antonio-national-park
+name: "Manuel Antonio National Park"
+location:
+  country_code: CR
+  latitude: 9.379
+  longitude: -84.137
+scores:
+  impact: 9.1
+  uniqueness: 8.8
+  significance: 8.5
+  experience: 9.3
+  depth: 8.6
+  categories:
+    nature: 9.3
+    wildlife: 9.3
+    beaches: 9.1

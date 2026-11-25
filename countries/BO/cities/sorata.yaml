@@ -1,0 +1,15 @@
+id: city-bo-sorata
+name: "Sorata"
+location:
+  country_code: BO
+  latitude: -15.7740
+  longitude: -68.6480
+scores:
+  impact: 7.6
+  uniqueness: 7.8
+  significance: 7.1
+  experience: 8.0
+  depth: 6.8
+  categories:
+    photography: 8.5
+    culture: 7.7

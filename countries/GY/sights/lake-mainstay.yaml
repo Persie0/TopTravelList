@@ -1,0 +1,15 @@
+id: sight-gy-lake-mainstay
+name: "Lake Mainstay"
+location:
+  country_code: GY
+  latitude: 7.2667
+  longitude: -58.5167
+scores:
+  impact: 7.3
+  uniqueness: 7.2
+  significance: 6.3
+  experience: 8.0
+  depth: 6.8
+  categories:
+    relaxation: 8.3
+    nature: 7.7
