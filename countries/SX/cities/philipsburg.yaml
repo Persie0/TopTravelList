@@ -1,0 +1,16 @@
+id: city-sx-philipsburg
+name: "Philipsburg"
+location:
+  country_code: SX
+  latitude: 18.025
+  longitude: -63.045
+scores:
+  impact: 7.8
+  uniqueness: 7.8
+  significance: 8.0
+  experience: 8.3
+  depth: 7.9
+  categories:
+    history: 8.4
+    culture: 8.3
+    food: 8.3

@@ -1,0 +1,15 @@
+id: sight-sx-mullet-pond
+name: "Mullet Pond Ramsar wetland"
+location:
+  country_code: SX
+  latitude: 18.049
+  longitude: -63.123
+scores:
+  impact: 7.6
+  uniqueness: 8.2
+  significance: 8.8
+  experience: null
+  depth: null
+  categories:
+    nature: 8.7
+    wildlife: 8.7

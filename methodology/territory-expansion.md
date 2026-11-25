@@ -156,3 +156,7 @@ No matching FR records identified by name and approximate coordinates in generat
 ### Saint Martin (French part) coverage — 2026-11-25
 
 No matching FR or NL records identified by generated ranking name/approximate coordinate screen. Add two settlements and ten specifically scoped sights. Dutch-side destinations excluded (SX). Reserve site descriptions support historical permitted marine visitor scope; current access and reef condition need separate checks. No parent migration or new exact-10 scores.
+
+### Sint Maarten (Dutch part) coverage — 2026-11-25
+
+No matching NL records identified in generated inventory by name or approximate coordinate screening. Add two settlements and ten sights (nine ranked sights, Mullet Pond unranked). French-side sites remain MF. Maho only lawful aircraft observation; marine park rating accounts for documented coral damage, not pristine reef. Emilio Wilson Museum included in Rockland Estate scope. All coordinates and full claim verification outstanding. No exact-10 additions.

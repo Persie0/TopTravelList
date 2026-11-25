@@ -1,0 +1,16 @@
+id: city-sx-simpson-bay
+name: "Simpson Bay (village)"
+location:
+  country_code: SX
+  latitude: 18.041
+  longitude: -63.108
+scores:
+  impact: 7.3
+  uniqueness: 7.6
+  significance: 7.0
+  experience: 8.1
+  depth: 7.4
+  categories:
+    food: 8.5
+    nightlife: 8.3
+    culture: 7.9
