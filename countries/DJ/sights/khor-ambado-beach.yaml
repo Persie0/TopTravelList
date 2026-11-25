@@ -1,0 +1,16 @@
+id: sight-dj-khor-ambado-beach
+name: "Khor Ambado Beach"
+location:
+  country_code: DJ
+  latitude: 11.5920
+  longitude: 43.0400
+scores:
+  impact: 8.3
+  uniqueness: 7.9
+  significance: 5.9
+  experience: 8.4
+  depth: 6.9
+  categories:
+    beaches: 8.6
+    photography: 8.6
+    relaxation: 8.4
