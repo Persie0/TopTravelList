@@ -1,0 +1,16 @@
+id: sight-bm-coopers-island
+name: "Cooper's Island Nature Reserve"
+location:
+  country_code: BM
+  latitude: 32.352
+  longitude: -64.657
+scores:
+  impact: 8.6
+  uniqueness: 8.4
+  significance: 8.5
+  experience: 8.6
+  depth: 8.3
+  categories:
+    nature: 8.8
+    beaches: 8.8
+    wildlife: 8.7

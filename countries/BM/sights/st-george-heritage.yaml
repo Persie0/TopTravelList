@@ -1,0 +1,16 @@
+id: sight-bm-st-george-heritage
+name: "Historic Town of St George and Related Fortifications"
+location:
+  country_code: BM
+  latitude: 32.381
+  longitude: -64.677
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 9.4
+  experience: 8.6
+  depth: 8.9
+  categories:
+    history: 9.4
+    architecture: 9.1
+    culture: 9.0

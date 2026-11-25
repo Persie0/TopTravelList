@@ -172,3 +172,7 @@ No matching NL records identified by generated ranking name and approximate coor
 ### Caribbean Netherlands coverage — 2026-11-25
 
 No matching NL parent records identified by generated name and approximate coordinate screen. Add 5 settlements and 13 sights across all three islands (Bonaire, Sint Eustatius, Saba). Individual islands retain distinct scopes and names under BQ. Marine park scores account for documented coral decline from STINAPA, CBS and Wageningen research, not historical pristine reef reputation. Source excerpts inspected; full independent coordinate and claim verification pending. No exact-10 additions.
+
+### Bermuda coverage — 2026-11-25
+
+No matching GB parent records identified by generated inventory name and approximate coordinate screening. Add 3 settlements and 12 scoped sights. St George town, UNESCO property and Fort St Catherine have separate scopes; no score summation. Dockyard precinct excludes separate museum collection and Keep. Lighthouse exterior only pending access confirmation. UNESCO, government, museum and tourism source excerpts inspected; full independent claim and coordinate verification remains outstanding. No exact-10 additions.

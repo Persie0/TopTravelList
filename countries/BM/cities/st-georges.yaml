@@ -1,0 +1,16 @@
+id: city-bm-st-georges
+name: "St George's"
+location:
+  country_code: BM
+  latitude: 32.381
+  longitude: -64.677
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 9.1
+  experience: 8.5
+  depth: 8.2
+  categories:
+    history: 9.2
+    architecture: 9.0
+    culture: 8.7

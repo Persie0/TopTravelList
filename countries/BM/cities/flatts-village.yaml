@@ -1,0 +1,16 @@
+id: city-bm-flatts-village
+name: "Flatts Village"
+location:
+  country_code: BM
+  latitude: 32.324
+  longitude: -64.737
+scores:
+  impact: 7.9
+  uniqueness: 7.8
+  significance: 7.2
+  experience: 7.6
+  depth: 6.8
+  categories:
+    photography: 8.4
+    architecture: 8.0
+    relaxation: 8.0

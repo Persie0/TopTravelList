@@ -1,0 +1,16 @@
+id: sight-bm-aquarium-museum-zoo
+name: "Bermuda Aquarium, Museum and Zoo"
+location:
+  country_code: BM
+  latitude: 32.323
+  longitude: -64.737
+scores:
+  impact: 8.0
+  uniqueness: 8.3
+  significance: 8.4
+  experience: 8.6
+  depth: 8.4
+  categories:
+    nature: 8.6
+    wildlife: 8.6
+    family: 8.9
