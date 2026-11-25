@@ -1,0 +1,17 @@
+id: city-tg-lome
+name: "Lomé"
+location:
+  country_code: TG
+  latitude: 6.1319
+  longitude: 1.2228
+scores:
+  impact: 7.7
+  uniqueness: 8.0
+  significance: 8.1
+  experience: 8.2
+  depth: 8.3
+  categories:
+    culture: 8.7
+    history: 8.4
+    food: 8.6
+    architecture: 8.0

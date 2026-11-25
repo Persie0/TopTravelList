@@ -1,0 +1,16 @@
+id: sight-bw-aha-hills-botswana-sector
+name: "Aha Hills (Botswana sector)"
+location:
+  country_code: BW
+  latitude: -19.7000
+  longitude: 20.9950
+scores:
+  impact: 8.2
+  uniqueness: 8.4
+  significance: 7.3
+  experience: 7.8
+  depth: 7.2
+  categories:
+    nature: 8.6
+    adventure: 8.4
+    photography: 8.8

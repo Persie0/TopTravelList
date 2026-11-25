@@ -1,0 +1,17 @@
+id: city-gy-georgetown
+name: "Georgetown"
+location:
+  country_code: GY
+  latitude: 6.8013
+  longitude: -58.1551
+scores:
+  impact: 8.2
+  uniqueness: 8.5
+  significance: 8.4
+  experience: 8.2
+  depth: 8.2
+  categories:
+    architecture: 8.8
+    history: 8.7
+    culture: 8.8
+    food: 8.5

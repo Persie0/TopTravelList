@@ -1,0 +1,16 @@
+id: city-ar-humahuaca
+name: "Humahuaca"
+location:
+  country_code: AR
+  latitude: -23.2050
+  longitude: -65.3500
+scores:
+  impact: 8.0
+  uniqueness: 8.4
+  significance: 8.2
+  experience: 8.1
+  depth: 7.0
+  categories:
+    culture: 9.0
+    history: 8.7
+    architecture: 8.5

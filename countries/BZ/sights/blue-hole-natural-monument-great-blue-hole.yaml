@@ -1,0 +1,16 @@
+id: sight-bz-blue-hole-natural-monument-great-blue-hole
+name: "Blue Hole Natural Monument (Great Blue Hole)"
+location:
+  country_code: BZ
+  latitude: 17.315986
+  longitude: -87.534697
+scores:
+  impact: 9.6
+  uniqueness: 9.7
+  significance: 9.3
+  experience: 8.7
+  depth: 7.4
+  categories:
+    nature: 9.6
+    adventure: 9.4
+    photography: 9.6

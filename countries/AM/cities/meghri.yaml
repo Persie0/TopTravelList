@@ -1,0 +1,16 @@
+id: city-am-meghri
+name: "Meghri"
+location:
+  country_code: AM
+  latitude: 38.902
+  longitude: 46.244
+scores:
+  impact: 7.6
+  uniqueness: 8.1
+  significance: 7.7
+  experience: 8.0
+  depth: 7.0
+  categories:
+    culture: 8.4
+    food: 8.5
+    architecture: 8.1

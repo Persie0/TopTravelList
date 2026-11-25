@@ -1,0 +1,15 @@
+id: sight-bh-saar-archaeological-heritage-park
+name: "Saar Archaeological Heritage Park"
+location:
+  country_code: BH
+  latitude: 26.1910
+  longitude: 50.4850
+scores:
+  impact: 7.5
+  uniqueness: 8.4
+  significance: 8.9
+  experience: 7.6
+  depth: 7.6
+  categories:
+    history: 9.1
+    architecture: 8.2

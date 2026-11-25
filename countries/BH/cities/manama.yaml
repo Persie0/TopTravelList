@@ -1,0 +1,16 @@
+id: city-bh-manama
+name: "Manama"
+location:
+  country_code: BH
+  latitude: 26.2235
+  longitude: 50.5876
+scores:
+  impact: 8.1
+  uniqueness: 8.3
+  significance: 8.5
+  experience: 8.6
+  depth: 8.4
+  categories:
+    culture: 8.8
+    food: 8.7
+    architecture: 8.3

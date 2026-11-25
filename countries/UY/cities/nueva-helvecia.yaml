@@ -1,0 +1,16 @@
+id: city-uy-nueva-helvecia
+name: "Nueva Helvecia"
+location:
+  country_code: UY
+  latitude: -34.3000
+  longitude: -57.2333
+scores:
+  impact: 7.0
+  uniqueness: 7.7
+  significance: 7.3
+  experience: 7.5
+  depth: 6.5
+  categories:
+    culture: 8.1
+    food: 8.0
+    history: 7.6

@@ -1,0 +1,16 @@
+id: sight-br-aparados-da-serra-national-park
+name: "Aparados da Serra National Park"
+location:
+  country_code: BR
+  latitude: -29.1500
+  longitude: -50.0800
+scores:
+  impact: 9.2
+  uniqueness: 8.9
+  significance: 8.3
+  experience: 8.7
+  depth: 8.4
+  categories:
+    nature: 9.5
+    photography: 9.6
+    adventure: 9.1

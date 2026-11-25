@@ -1,0 +1,15 @@
+id: city-bj-ketou
+name: "Kétou"
+location:
+  country_code: BJ
+  latitude: 7.3633
+  longitude: 2.5998
+scores:
+  impact: 6.9
+  uniqueness: 8.1
+  significance: 8.3
+  experience: 7.6
+  depth: 6.8
+  categories:
+    history: 8.9
+    culture: 8.9

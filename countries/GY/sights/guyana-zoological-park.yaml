@@ -1,0 +1,14 @@
+id: sight-gy-guyana-zoological-park
+name: "Guyana Zoological Park"
+location:
+  country_code: GY
+  latitude: 6.8060
+  longitude: -58.1450
+scores:
+  impact: null
+  uniqueness: 6.5
+  significance: 7.2
+  experience: null
+  depth: null
+  categories:
+    wildlife: 7.5

@@ -1,0 +1,16 @@
+id: sight-br-chapada-diamantina-national-park
+name: "Chapada Diamantina National Park"
+location:
+  country_code: BR
+  latitude: -12.6500
+  longitude: -41.3500
+scores:
+  impact: 9.4
+  uniqueness: 9.1
+  significance: 8.7
+  experience: 9.0
+  depth: 9.4
+  categories:
+    nature: 9.6
+    photography: 9.7
+    adventure: 9.6

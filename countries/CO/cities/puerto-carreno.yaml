@@ -1,0 +1,15 @@
+id: city-co-puerto-carreno
+name: "Puerto Carreño"
+location:
+  country_code: CO
+  latitude: 6.1890
+  longitude: -67.4859
+scores:
+  impact: 6.5
+  uniqueness: 7.5
+  significance: 6.4
+  experience: 7.0
+  depth: 6.0
+  categories:
+    photography: 8.0
+    culture: 7.6

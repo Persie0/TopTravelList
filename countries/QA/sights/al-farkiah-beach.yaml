@@ -1,0 +1,15 @@
+id: sight-qa-al-farkiah-beach
+name: "Al Farkiah Beach"
+location:
+  country_code: QA
+  latitude: 25.6860
+  longitude: 51.5330
+scores:
+  impact: 7.0
+  uniqueness: 6.5
+  significance: 5.7
+  experience: 7.8
+  depth: 6.6
+  categories:
+    beaches: 8.0
+    family: 8.2

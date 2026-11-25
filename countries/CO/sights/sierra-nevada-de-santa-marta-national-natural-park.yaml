@@ -1,0 +1,16 @@
+id: sight-co-sierra-nevada-de-santa-marta-national-natural-park
+name: "Sierra Nevada de Santa Marta National Natural Park"
+location:
+  country_code: CO
+  latitude: 10.8500
+  longitude: -73.7000
+scores:
+  impact: null
+  uniqueness: 9.5
+  significance: 9.6
+  experience: null
+  depth: null
+  categories:
+    nature: 9.7
+    wildlife: 9.5
+    culture: 9.5

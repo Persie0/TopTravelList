@@ -1,0 +1,15 @@
+id: sight-co-tatacoa-desert
+name: "Tatacoa Desert"
+location:
+  country_code: CO
+  latitude: 3.2340
+  longitude: -75.1680
+scores:
+  impact: 8.9
+  uniqueness: 8.7
+  significance: 7.7
+  experience: 8.7
+  depth: 8.0
+  categories:
+    nature: 9.0
+    photography: 9.4
