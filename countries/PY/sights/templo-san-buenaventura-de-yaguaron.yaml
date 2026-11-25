@@ -1,0 +1,16 @@
+id: sight-py-templo-san-buenaventura-de-yaguaron
+name: "Templo San Buenaventura de Yaguarón"
+location:
+  country_code: PY
+  latitude: -25.5621
+  longitude: -57.2833
+scores:
+  impact: 8.5
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 8.2
+  depth: 7.0
+  categories:
+    architecture: 9.3
+    history: 9.0
+    culture: 8.9

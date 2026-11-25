@@ -1,0 +1,15 @@
+id: city-py-luque
+name: "Luque"
+location:
+  country_code: PY
+  latitude: -25.2667
+  longitude: -57.5667
+scores:
+  impact: 6.5
+  uniqueness: 7.1
+  significance: 7.0
+  experience: 7.3
+  depth: 6.8
+  categories:
+    culture: 8.0
+    food: 7.5

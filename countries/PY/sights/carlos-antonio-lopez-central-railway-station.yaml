@@ -1,0 +1,15 @@
+id: sight-py-carlos-antonio-lopez-central-railway-station
+name: "Carlos Antonio López Central Railway Station"
+location:
+  country_code: PY
+  latitude: -25.2862
+  longitude: -57.6292
+scores:
+  impact: 7.5
+  uniqueness: 8.0
+  significance: 8.3
+  experience: 7.7
+  depth: 7.0
+  categories:
+    history: 8.7
+    architecture: 8.3

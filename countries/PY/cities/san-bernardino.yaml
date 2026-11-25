@@ -1,0 +1,16 @@
+id: city-py-san-bernardino
+name: "San Bernardino"
+location:
+  country_code: PY
+  latitude: -25.3100
+  longitude: -57.2967
+scores:
+  impact: 7.3
+  uniqueness: 7.4
+  significance: 6.7
+  experience: 8.0
+  depth: 6.9
+  categories:
+    relaxation: 8.4
+    photography: 7.9
+    architecture: 7.6
