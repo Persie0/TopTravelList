@@ -1,0 +1,16 @@
+id: sight-au-tasmanian-wilderness
+name: "Tasmanian Wilderness"
+location:
+  country_code: AU
+  latitude: -42.58
+  longitude: 145.88
+scores:
+  impact: 9.1
+  uniqueness: 9.0
+  significance: 9.3
+  experience: 8.8
+  depth: 9.3
+  categories:
+    nature: 9.4
+    adventure: 9.2
+    photography: 9.1

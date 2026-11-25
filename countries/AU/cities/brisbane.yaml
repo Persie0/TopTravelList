@@ -1,0 +1,16 @@
+id: city-au-brisbane
+name: "Brisbane"
+location:
+  country_code: AU
+  latitude: -27.46794
+  longitude: 153.02809
+scores:
+  impact: 7.9
+  uniqueness: 7.8
+  significance: 7.7
+  experience: 8.5
+  depth: 8.2
+  categories:
+    culture: 8.4
+    food: 8.3
+    nature: 8.0
