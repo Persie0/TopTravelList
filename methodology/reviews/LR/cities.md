@@ -2,6 +2,9 @@
 
 [Worldwide v2](../../../rules.md) · [Future-country workflow](../../future-country-workflow.md). 2026-11-25. [UNESCO country inventory](https://whc.unesco.org/en/statesparties/lr) confirms no inscribed property and three tentative entries, represented here. The proposed East Nimba extension is not the inscribed Guinea/Côte d'Ivoire property, and Liberia's Gola park is not Sierra Leone's 2025 Gola–Tiwai inscription. Site-specific GPS reference checks are identified in individual sections; other coordinates are provisional estimates. No scores promise current opening, safety or wildlife sightings. Shared type-based peer ladders are provisional and require closer regional comparison. Sources were reviewed at page or excerpt level as specified; no claim of full independent fact checking. Parent landscapes and individual features overlap; do not add their scores together.
 
+
+Follow-up 2026-11-25: seven formerly unlinked records supplemented; three settlement and one wetland reference points refined. All five Ramsar sites represented at property level, including a separate unassessed Marshall Wetlands record. Wildlife category reassessments distinguish visitor observation from ecological importance. Full independent factual verification remains incomplete.
+
 ## city-lr-monrovia — Monrovia — 2026-11-25
 
 - [YAML](../../../countries/LR/cities/monrovia.yaml) · Action: new · **source-linked-unverified**.
@@ -137,8 +140,8 @@
 
 ## city-lr-gbarnga — Gbarnga — 2026-11-25
 
-- [YAML](../../../countries/LR/cities/gbarnga.yaml) · Action: new · **editorial-only**.
-- Scope: Settlement itself, excluding remote attractions. GPS 7.00, -9.47: approximate representative point, independent check pending.
+- [YAML](../../../countries/LR/cities/gbarnga.yaml) · Action: new · **source-linked-unverified**.
+- Scope: Settlement itself, excluding remote attractions. GPS 6.99543, -9.471217: GeoNames populated-place reference, original approximate coordinate superseded.
 - Worldwide peers (I/U/S/E/D):
   - [Beijing (CN)](../../../countries/CN/cities/beijing.yaml) — 9.7 / 9.7 / 9.9 / 9.5 / 10.0 (97.40/100); upper anchor; lower impact (inland commercial streets), lower uniqueness (Bong regional market identity), lower significance (regional civic history), lower experience (markets and local food), lower depth (waterfalls excluded).
   - [Vienna (AT)](../../../countries/AT/cities/vienna.yaml) — 9.2 / 9.0 / 9.5 / 9.2 / 9.4 (92.30/100); related comparison; lower impact (inland commercial streets), lower uniqueness (Bong regional market identity), lower significance (regional civic history), lower experience (markets and local food), lower depth (waterfalls excluded).
@@ -151,7 +154,7 @@
 - Depth 6.5: waterfalls excluded.
 - Categories: culture:7.6, history:7.7. Overall: 66.15/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked destination-specific source; editorial judgment only.
+- Evidence: [Tourism market profile](https://enjoyliberia.travel/experiences/gbarnga-general-market/) supports market and food experience; [GeoNames](https://www.geonames.org/search.html?country=LR&q=Gbarnga) identifies county capital and representative point. Reviewed 2026-11-25; original review had no direct source.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, current access and individual peer/category calibration.
 
 ## city-lr-ganta — Ganta — 2026-11-25
@@ -232,8 +235,8 @@
 
 ## city-lr-kakata — Kakata — 2026-11-25
 
-- [YAML](../../../countries/LR/cities/kakata.yaml) · Action: new · **editorial-only**.
-- Scope: Settlement itself, excluding remote attractions. GPS 6.53, -10.35: approximate representative point, independent check pending.
+- [YAML](../../../countries/LR/cities/kakata.yaml) · Action: new · **source-linked-unverified**.
+- Scope: Settlement itself, excluding remote attractions. GPS 6.531045, -10.353684: GeoNames populated-place reference, original approximate coordinate superseded.
 - Worldwide peers (I/U/S/E/D):
   - [Siem Reap (KH)](../../../countries/KH/cities/siem-reap.yaml) — 8.8 / 9.0 / 9.3 / 9.0 / 9.2 (90.20/100); upper anchor; lower impact (market town streets), lower uniqueness (regional rubber-country character), lower significance (local economic history), lower experience (market and meals), lower depth (plantations excluded).
   - [Luang Prabang (LA)](../../../countries/LA/cities/luang-prabang.yaml) — 9.2 / 9.4 / 9.3 / 9.2 / 9.0 (92.50/100); related comparison; lower impact (market town streets), lower uniqueness (regional rubber-country character), lower significance (local economic history), lower experience (market and meals), lower depth (plantations excluded).
@@ -246,13 +249,13 @@
 - Depth 6.1: plantations excluded.
 - Categories: culture:7.3, food:7.5. Overall: 64.30/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked destination-specific source; editorial judgment only.
+- Evidence: [GeoNames](https://www.geonames.org/search.html?country=LR&q=Libeeria) establishes county seat and representative point; [Kakata town profile](https://en.wikipedia.org/wiki/Kakata) describes central daily market and educational institutions; visitor quality still provisional. Reviewed 2026-11-25; original review had no direct source.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, current access and individual peer/category calibration.
 
 ## city-lr-zwedru — Zwedru — 2026-11-25
 
-- [YAML](../../../countries/LR/cities/zwedru.yaml) · Action: new · **editorial-only**.
-- Scope: Settlement itself, excluding remote attractions. GPS 6.07, -8.13: approximate representative point, independent check pending.
+- [YAML](../../../countries/LR/cities/zwedru.yaml) · Action: new · **source-linked-unverified**.
+- Scope: Settlement itself, excluding remote attractions. GPS 6.068, -8.136: GeoNames populated-place reference, original approximate coordinate superseded.
 - Worldwide peers (I/U/S/E/D):
   - [Siem Reap (KH)](../../../countries/KH/cities/siem-reap.yaml) — 8.8 / 9.0 / 9.3 / 9.0 / 9.2 (90.20/100); upper anchor; lower impact (small inland administrative town), lower uniqueness (regional forest-zone settlement), lower significance (local civic role), lower experience (markets and food), lower depth (forest excursions excluded).
   - [Luang Prabang (LA)](../../../countries/LA/cities/luang-prabang.yaml) — 9.2 / 9.4 / 9.3 / 9.2 / 9.0 (92.50/100); related comparison; lower impact (small inland administrative town), lower uniqueness (regional forest-zone settlement), lower significance (local civic role), lower experience (markets and food), lower depth (forest excursions excluded).
@@ -265,5 +268,5 @@
 - Depth 6.0: forest excursions excluded.
 - Categories: culture:7.3. Overall: 63.25/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked destination-specific source; editorial judgment only.
+- Evidence: [Tourism market profile](https://enjoyliberia.travel/experiences/zwedru-central-market/) describes cross-border goods and produce; [GeoNames](https://www.geonames.org/LR/largest-cities-in-liberia.html) supplies rounded representative point. Reviewed 2026-11-25; original review had no direct source.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, current access and individual peer/category calibration.
