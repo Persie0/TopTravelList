@@ -2,7 +2,7 @@
 
 # Åland Islands (AX) — Sights & attractions ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**10 ranked** · **0 unassessed** · **10 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,11 +10,20 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (10)
 
-No sights & attractions have been assessed for **Åland Islands** yet.
-
-Add destination YAML files in [sights/](sights/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Museum Ship Pommern](sights/pommern.yaml) | Museum / heritage | **88.10** | **History 9.1**, **Culture 8.8**, **Photography 8.6** | 8.6 / 9.2 / 8.9 / 8.8 / 8.3 | [60.0964, 19.9248](https://www.google.com/maps/search/?api=1&query=60.0964,19.9248) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Museum%20Ship%20Pommern%2C%20%C3%85land%20Islands) |
+| 2 | [Åland Maritime Museum](sights/maritime-museum.yaml) | Museum / heritage | **83.70** | **History 8.9**, **Culture 8.6**, **Family 8.4** | 8.0 / 8.5 / 8.5 / 8.7 / 8.4 | [60.096944, 19.926389](https://www.google.com/maps/search/?api=1&query=60.096944,19.926389) | [Google Maps](https://www.google.com/maps/search/?api=1&query=%C3%85land%20Maritime%20Museum%2C%20%C3%85land%20Islands) |
+| 3 | [Kastelholm Castle](sights/kastelholm.yaml) | Palace / castle | **82.70** | **History 8.9**, **Architecture 8.7** | 8.2 / 8.3 / 8.5 / 8.3 / 7.9 | [60.235, 20.08](https://www.google.com/maps/search/?api=1&query=60.235,20.08) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kastelholm%20Castle%2C%20%C3%85land%20Islands) |
+| 4 | [Bomarsund Fortress Ruins](sights/bomarsund.yaml) | Fortification | **81.90** | **History 8.9**, **Photography 8.5** | 8.0 / 8.3 / 8.5 / 8.1 / 8.0 | [60.213, 20.24](https://www.google.com/maps/search/?api=1&query=60.213,20.24) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bomarsund%20Fortress%20Ruins%2C%20%C3%85land%20Islands) |
+| 5 | [Kalen Trail (Kökar)](sights/kalen-trail.yaml) | Trail / walk | **81.00** | **History 8.4**, **Nature 8.3**, **Adventure 8.2** | 8.0 / 8.2 / 8.1 / 8.2 / 8.0 | [59.921, 20.866](https://www.google.com/maps/search/?api=1&query=59.921,20.866) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kalen%20Trail%20%28K%C3%B6kar%29%2C%20%C3%85land%20Islands) |
+| 6 | [Eckerö Mail and Customs House](sights/eckero-post-customs.yaml) | Attraction | **80.45** | **History 8.7**, **Architecture 8.5**, **Culture 8.1** | 8.0 / 8.2 / 8.4 / 7.9 / 7.3 | [60.22018, 19.54442](https://www.google.com/maps/search/?api=1&query=60.22018,19.54442) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ecker%C3%B6%20Mail%20and%20Customs%20House%2C%20%C3%85land%20Islands) |
+| 7 | [Jan Karlsgården Open-Air Museum](sights/jan-karlsgarden.yaml) | Museum / heritage | **78.85** | **Culture 8.4**, **History 8.4**, **Architecture 8.1** | 7.8 / 8.0 / 7.8 / 8.1 / 7.7 | [60.2345, 20.0785](https://www.google.com/maps/search/?api=1&query=60.2345,20.0785) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Jan%20Karlsg%C3%A5rden%20Open-Air%20Museum%2C%20%C3%85land%20Islands) |
+| 8 | [Getabergen and Grottstigen Trail](sights/getabergen-grottstigen.yaml) | Trail / walk | **78.80** | **Nature 8.3**, **Photography 8.3**, **Adventure 8.1** | 8.1 / 8.0 / 7.3 / 8.2 / 7.6 | [60.38, 19.85](https://www.google.com/maps/search/?api=1&query=60.38,19.85) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Getabergen%20and%20Grottstigen%20Trail%2C%20%C3%85land%20Islands) |
+| 9 | [Käringsund Fishing Village Heritage](sights/karingsund.yaml) | Historic settlement | **78.55** | **Photography 8.4**, **Relaxation 8.3**, **Culture 8.1** | 8.0 / 8.1 / 7.5 / 8.0 / 7.3 | [60.228, 19.553](https://www.google.com/maps/search/?api=1&query=60.228,19.553) | [Google Maps](https://www.google.com/maps/search/?api=1&query=K%C3%A4ringsund%20Fishing%20Village%20Heritage%2C%20%C3%85land%20Islands) |
+| 10 | [Mariehamn Maritime Quarter (Sjökvarteret)](sights/maritime-quarter.yaml) | Attraction | **78.45** | **Culture 8.3**, **History 8.2**, **Architecture 8.0** | 7.7 / 8.0 / 7.8 / 8.1 / 7.6 | [60.106, 19.951](https://www.google.com/maps/search/?api=1&query=60.106,19.951) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mariehamn%20Maritime%20Quarter%20%28Sj%C3%B6kvarteret%29%2C%20%C3%85land%20Islands) |
 
 ---
 

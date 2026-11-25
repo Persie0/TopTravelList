@@ -2,7 +2,7 @@
 
 # Åland Islands (AX) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**3 ranked** · **0 unassessed** · **3 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,13 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (3)
 
-No cities, towns & villages have been assessed for **Åland Islands** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Mariehamn](cities/mariehamn.yaml) | City / town | **80.25** | **Relaxation 8.6**, **History 8.5**, **Culture 8.4** | 7.8 / 8.1 / 8.1 / 8.4 / 7.8 | [60.097, 19.935](https://www.google.com/maps/search/?api=1&query=60.097,19.935) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mariehamn%2C%20%C3%85land%20Islands) |
+| 2 | [Degerby (Föglö)](cities/degerby.yaml) | City / town | **74.60** | **Relaxation 8.0**, **History 7.9**, **Culture 7.7** | 7.2 / 7.8 / 7.6 / 7.6 / 6.9 | [60.03, 20.389](https://www.google.com/maps/search/?api=1&query=60.03,20.389) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Degerby%20%28F%C3%B6gl%C3%B6%29%2C%20%C3%85land%20Islands) |
+| 3 | [Karlby (Kökar)](cities/karlby.yaml) | City / town | **71.30** | **Relaxation 7.8**, **Culture 7.3** | 7.1 / 7.5 / 6.9 / 7.3 / 6.5 | [59.919, 20.907](https://www.google.com/maps/search/?api=1&query=59.919,20.907) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Karlby%20%28K%C3%B6kar%29%2C%20%C3%85land%20Islands) |
 
 ---
 

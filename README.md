@@ -82,11 +82,11 @@ Every registered country has a linked folder below. The status is determined fro
 
 <!-- COUNTRY_DIRECTORY_START -->
 
-**182 done · 68 not done · 250 geographic entries total.**
+**184 done · 66 not done · 250 geographic entries total.**
 
 **Done** means the required destination folders contain YAML records; for territories without permanent civilian settlements, sight records alone suffice. It does not mean that every possible destination has been cataloged.
 
-### Done (182)
+### Done (184)
 
 | Country | Cities | Sights | Google Maps |
 | --- | ---: | ---: | --- |
@@ -146,7 +146,7 @@ Every registered country has a linked folder below. The status is determined fro
 | [Estonia](countries/EE/) (`EE`) | [15](countries/EE/cities.md) | [42](countries/EE/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Estonia) |
 | [Eswatini](countries/SZ/) (`SZ`) | [15](countries/SZ/cities.md) | [30](countries/SZ/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Eswatini) |
 | [Faroe Islands](countries/FO/) (`FO`) | [4](countries/FO/cities.md) | [7](countries/FO/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Faroe%20Islands) |
-| [Finland](countries/FI/) (`FI`) | [20](countries/FI/cities.md) | [55](countries/FI/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Finland) |
+| [Finland](countries/FI/) (`FI`) | [19](countries/FI/cities.md) | [53](countries/FI/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Finland) |
 | [France](countries/FR/) (`FR`) | [25](countries/FR/cities.md) | [102](countries/FR/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=France) |
 | [French Polynesia](countries/PF/) (`PF`) | [5](countries/PF/cities.md) | [11](countries/PF/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=French%20Polynesia) |
 | [Gabon](countries/GA/) (`GA`) | [14](countries/GA/cities.md) | [32](countries/GA/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Gabon) |
@@ -272,8 +272,10 @@ Every registered country has a linked folder below. The status is determined fro
 | [Venezuela](countries/VE/) (`VE`) | [35](countries/VE/cities.md) | [43](countries/VE/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Venezuela) |
 | [Vietnam](countries/VN/) (`VN`) | [140](countries/VN/cities.md) | [360](countries/VN/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Vietnam) |
 | [Yemen](countries/YE/) (`YE`) | [10](countries/YE/cities.md) | [34](countries/YE/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Yemen) |
+| [Zambia](countries/ZM/) (`ZM`) | [5](countries/ZM/cities.md) | [20](countries/ZM/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Zambia) |
+| [Åland Islands](countries/AX/) (`AX`) | [3](countries/AX/cities.md) | [10](countries/AX/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=%C3%85land%20Islands) |
 
-### Not done (68)
+### Not done (66)
 
 These geographic entries lack required destination records. Their country folders already exist; follow the links to populate them.
 
@@ -295,7 +297,7 @@ These geographic entries lack required destination records. Their country folder
 | [South Georgia and the South Sandwich Islands](countries/GS/) (`GS`) · [Map](https://www.google.com/maps/search/?api=1&query=South%20Georgia%20and%20the%20South%20Sandwich%20Islands) | [Tanzania](countries/TZ/) (`TZ`) · [Map](https://www.google.com/maps/search/?api=1&query=Tanzania) | [Tokelau](countries/TK/) (`TK`) · [Map](https://www.google.com/maps/search/?api=1&query=Tokelau) | [Tonga](countries/TO/) (`TO`) · [Map](https://www.google.com/maps/search/?api=1&query=Tonga) |
 | [Tunisia](countries/TN/) (`TN`) · [Map](https://www.google.com/maps/search/?api=1&query=Tunisia) | [Turks and Caicos Islands](countries/TC/) (`TC`) · [Map](https://www.google.com/maps/search/?api=1&query=Turks%20and%20Caicos%20Islands) | [Uganda](countries/UG/) (`UG`) · [Map](https://www.google.com/maps/search/?api=1&query=Uganda) | [United States Minor Outlying Islands](countries/UM/) (`UM`) · [Map](https://www.google.com/maps/search/?api=1&query=United%20States%20Minor%20Outlying%20Islands) |
 | [Vanuatu](countries/VU/) (`VU`) · [Map](https://www.google.com/maps/search/?api=1&query=Vanuatu) | [Virgin Islands, British](countries/VG/) (`VG`) · [Map](https://www.google.com/maps/search/?api=1&query=Virgin%20Islands%2C%20British) | [Virgin Islands, U.S.](countries/VI/) (`VI`) · [Map](https://www.google.com/maps/search/?api=1&query=Virgin%20Islands%2C%20U.S.) | [Wallis and Futuna](countries/WF/) (`WF`) · [Map](https://www.google.com/maps/search/?api=1&query=Wallis%20and%20Futuna) |
-| [Western Sahara](countries/EH/) (`EH`) · [Map](https://www.google.com/maps/search/?api=1&query=Western%20Sahara) | [Zambia](countries/ZM/) (`ZM`) · [Map](https://www.google.com/maps/search/?api=1&query=Zambia) | [Zimbabwe](countries/ZW/) (`ZW`) · [Map](https://www.google.com/maps/search/?api=1&query=Zimbabwe) | [Åland Islands](countries/AX/) (`AX`) · [Map](https://www.google.com/maps/search/?api=1&query=%C3%85land%20Islands) |
+| [Western Sahara](countries/EH/) (`EH`) · [Map](https://www.google.com/maps/search/?api=1&query=Western%20Sahara) | [Zimbabwe](countries/ZW/) (`ZW`) · [Map](https://www.google.com/maps/search/?api=1&query=Zimbabwe) |  |  |
 
 <!-- COUNTRY_DIRECTORY_END -->
 
