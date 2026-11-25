@@ -1,0 +1,16 @@
+id: sight-gf-kaw-roura
+name: "Kaw-Roura Marshes (permitted visitor sectors)"
+location:
+  country_code: GF
+  latitude: 4.5
+  longitude: -52.1
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 9.1
+  experience: 8.8
+  depth: 8.8
+  categories:
+    nature: 9.2
+    wildlife: 9.3
+    photography: 8.8

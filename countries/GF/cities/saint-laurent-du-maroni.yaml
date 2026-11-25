@@ -1,0 +1,16 @@
+id: city-gf-saint-laurent-du-maroni
+name: "Saint-Laurent-du-Maroni"
+location:
+  country_code: GF
+  latitude: 5.504
+  longitude: -54.028
+scores:
+  impact: 7.9
+  uniqueness: 8.4
+  significance: 8.6
+  experience: 8.0
+  depth: 7.8
+  categories:
+    history: 8.8
+    culture: 8.6
+    architecture: 8.2

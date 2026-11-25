@@ -136,3 +136,11 @@ Original Finnish reviews archived. Two new villages and eight new sights; Pommer
 | sight-fr-martinique-volcanoes | sight-mq-martinique-volcanoes |
 
 [Original France review](reviews/FR/migration-history-MQ.md). Preserve 90.10 UNESCO serial-property profile, add four settlements and ten individually scoped sights. Mount Pelée's trail experience distinct from whole property. Parent names and approximate coordinates screened; full independent geographic and reference audit outstanding.
+
+### French Guiana migration — 2026-11-25
+
+| Former ID | Active ID |
+| --- | --- |
+| sight-fr-guyane-park | sight-gf-guyane-park |
+
+[Original France review](reviews/FR/migration-history-GF.md). Preserve 89.05 scoped park profile; add four settlements and nine specifically scoped sights. Restricted park core and customary territories excluded from ordinary visitor experience; CNES public tour separate from museum; no Devil's Island landing. Parent names and approximate points screened. Full geographic/reference audit remains outstanding.

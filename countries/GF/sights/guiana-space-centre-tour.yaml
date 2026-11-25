@@ -1,0 +1,16 @@
+id: sight-gf-guiana-space-centre-tour
+name: "Guiana Space Centre (guided public tour)"
+location:
+  country_code: GF
+  latitude: 5.232
+  longitude: -52.77
+scores:
+  impact: 8.7
+  uniqueness: 9.2
+  significance: 9.3
+  experience: 8.8
+  depth: 8.4
+  categories:
+    history: 9.0
+    architecture: 8.5
+    family: 8.7
