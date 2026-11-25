@@ -1,0 +1,16 @@
+id: sight-gd-gouyave-nutmeg-processing-station
+name: "Gouyave Nutmeg Processing Station"
+location:
+  country_code: GD
+  latitude: 12.164
+  longitude: -61.729
+scores:
+  impact: 7.0
+  uniqueness: 8.3
+  significance: 7.8
+  experience: 7.9
+  depth: 6.8
+  categories:
+    culture: 8.6
+    history: 8.2
+    food: 8.1
