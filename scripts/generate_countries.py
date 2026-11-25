@@ -3,8 +3,8 @@
 from __future__ import annotations
 
 import json
-import re
 from pathlib import Path
+from registry import registry_errors
 
 ROOT = Path(__file__).resolve().parents[1]
 REGISTRY = ROOT / "countries" / "_registry.json"
@@ -13,10 +13,9 @@ REGISTRY = ROOT / "countries" / "_registry.json"
 def main() -> None:
     registry = json.loads(REGISTRY.read_text(encoding="utf-8"))
     codes = registry["codes"]
-    if len(codes) != 197 or len(codes) != len(set(codes)):
-        raise ValueError("Expected 197 unique country codes in the registry")
-    if codes != sorted(codes) or any(not re.fullmatch(r"[A-Z]{2}", c) for c in codes):
-        raise ValueError("Country codes must be sorted uppercase alpha-2 strings")
+    errors = registry_errors(registry)
+    if errors:
+        raise ValueError('; '.join(errors))
 
     for code in codes:
         for kind in ("cities", "sights"):

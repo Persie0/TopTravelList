@@ -1,0 +1,16 @@
+id: sight-gl-ilulissat-icefjord
+name: "Ilulissat Icefjord"
+location:
+  country_code: GL
+  latitude: 69.1333
+  longitude: -49.5
+scores:
+  impact: 9.9
+  uniqueness: 9.8
+  significance: 9.6
+  experience: 9.4
+  depth: 9.3
+  categories:
+    nature: 9.9
+    photography: 9.9
+    adventure: 9.4

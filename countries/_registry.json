@@ -1,17 +1,22 @@
 {
-  "version": 1,
-  "scope": "193 UN members + Holy See + Palestine + Taiwan + Kosovo (independent travel destinations; not a political recognition statement)",
+  "version": 2,
+  "scope": "All 249 ISO 3166-1 alpha-2 entries plus Kosovo (XK); independent geographic travel areas, not political recognition or a statement of sovereignty.",
   "codes": [
     "AD",
     "AE",
     "AF",
     "AG",
+    "AI",
     "AL",
     "AM",
     "AO",
+    "AQ",
     "AR",
+    "AS",
     "AT",
     "AU",
+    "AW",
+    "AX",
     "AZ",
     "BA",
     "BB",
@@ -22,20 +27,26 @@
     "BH",
     "BI",
     "BJ",
+    "BL",
+    "BM",
     "BN",
     "BO",
+    "BQ",
     "BR",
     "BS",
     "BT",
+    "BV",
     "BW",
     "BY",
     "BZ",
     "CA",
+    "CC",
     "CD",
     "CF",
     "CG",
     "CH",
     "CI",
+    "CK",
     "CL",
     "CM",
     "CN",
@@ -43,6 +54,8 @@
     "CR",
     "CU",
     "CV",
+    "CW",
+    "CX",
     "CY",
     "CZ",
     "DE",
@@ -54,25 +67,37 @@
     "EC",
     "EE",
     "EG",
+    "EH",
     "ER",
     "ES",
     "ET",
     "FI",
     "FJ",
+    "FK",
     "FM",
+    "FO",
     "FR",
     "GA",
     "GB",
     "GD",
     "GE",
+    "GF",
+    "GG",
     "GH",
+    "GI",
+    "GL",
     "GM",
     "GN",
+    "GP",
     "GQ",
     "GR",
+    "GS",
     "GT",
+    "GU",
     "GW",
     "GY",
+    "HK",
+    "HM",
     "HN",
     "HR",
     "HT",
@@ -80,11 +105,14 @@
     "ID",
     "IE",
     "IL",
+    "IM",
     "IN",
+    "IO",
     "IQ",
     "IR",
     "IS",
     "IT",
+    "JE",
     "JM",
     "JO",
     "JP",
@@ -97,6 +125,7 @@
     "KP",
     "KR",
     "KW",
+    "KY",
     "KZ",
     "LA",
     "LB",
@@ -113,13 +142,18 @@
     "MC",
     "MD",
     "ME",
+    "MF",
     "MG",
     "MH",
     "MK",
     "ML",
     "MM",
     "MN",
+    "MO",
+    "MP",
+    "MQ",
     "MR",
+    "MS",
     "MT",
     "MU",
     "MV",
@@ -128,26 +162,34 @@
     "MY",
     "MZ",
     "NA",
+    "NC",
     "NE",
+    "NF",
     "NG",
     "NI",
     "NL",
     "NO",
     "NP",
     "NR",
+    "NU",
     "NZ",
     "OM",
     "PA",
     "PE",
+    "PF",
     "PG",
     "PH",
     "PK",
     "PL",
+    "PM",
+    "PN",
+    "PR",
     "PS",
     "PT",
     "PW",
     "PY",
     "QA",
+    "RE",
     "RO",
     "RS",
     "RU",
@@ -158,7 +200,9 @@
     "SD",
     "SE",
     "SG",
+    "SH",
     "SI",
+    "SJ",
     "SK",
     "SL",
     "SM",
@@ -168,12 +212,16 @@
     "SS",
     "ST",
     "SV",
+    "SX",
     "SY",
     "SZ",
+    "TC",
     "TD",
+    "TF",
     "TG",
     "TH",
     "TJ",
+    "TK",
     "TL",
     "TM",
     "TN",
@@ -185,19 +233,198 @@
     "TZ",
     "UA",
     "UG",
+    "UM",
     "US",
     "UY",
     "UZ",
     "VA",
     "VC",
     "VE",
+    "VG",
+    "VI",
     "VN",
     "VU",
+    "WF",
     "WS",
     "XK",
     "YE",
+    "YT",
     "ZA",
     "ZM",
     "ZW"
-  ]
+  ],
+  "territories": {
+    "AI": {
+      "settlements_required": true
+    },
+    "AQ": {
+      "settlements_required": false,
+      "note": "Antarctic Treaty area; no permanent civilian settlements."
+    },
+    "AS": {
+      "settlements_required": true
+    },
+    "AW": {
+      "settlements_required": true
+    },
+    "AX": {
+      "settlements_required": true
+    },
+    "BL": {
+      "settlements_required": true
+    },
+    "BM": {
+      "settlements_required": true
+    },
+    "BQ": {
+      "settlements_required": true,
+      "name": "Bonaire, Sint Eustatius and Saba"
+    },
+    "BV": {
+      "settlements_required": false
+    },
+    "CC": {
+      "settlements_required": true
+    },
+    "CK": {
+      "settlements_required": true,
+      "note": "Self-governing in free association with New Zealand."
+    },
+    "CW": {
+      "settlements_required": true
+    },
+    "CX": {
+      "settlements_required": true
+    },
+    "EH": {
+      "settlements_required": true,
+      "note": "Disputed territory; separate geographic indexing does not imply sovereignty."
+    },
+    "FK": {
+      "settlements_required": true,
+      "note": "Separate geographic code; sovereignty disputed.",
+      "name": "Falkland Islands (Malvinas)"
+    },
+    "FO": {
+      "settlements_required": true
+    },
+    "GF": {
+      "settlements_required": true
+    },
+    "GG": {
+      "settlements_required": true
+    },
+    "GI": {
+      "settlements_required": true
+    },
+    "GL": {
+      "settlements_required": true,
+      "name": "Greenland"
+    },
+    "GP": {
+      "settlements_required": true
+    },
+    "GS": {
+      "settlements_required": false
+    },
+    "GU": {
+      "settlements_required": true
+    },
+    "HK": {
+      "settlements_required": true
+    },
+    "HM": {
+      "settlements_required": false
+    },
+    "IM": {
+      "settlements_required": true
+    },
+    "IO": {
+      "settlements_required": false,
+      "note": "ISO geographic code; disputed sovereignty and no permanent civilian settlement assumed; review status and access before cataloguing.",
+      "name": "British Indian Ocean Territory (Chagos Archipelago)"
+    },
+    "JE": {
+      "settlements_required": true
+    },
+    "KY": {
+      "settlements_required": true
+    },
+    "MF": {
+      "settlements_required": true
+    },
+    "MO": {
+      "settlements_required": true,
+      "name": "Macau"
+    },
+    "MP": {
+      "settlements_required": true
+    },
+    "MQ": {
+      "settlements_required": true
+    },
+    "MS": {
+      "settlements_required": true
+    },
+    "NC": {
+      "settlements_required": true
+    },
+    "NF": {
+      "settlements_required": true
+    },
+    "NU": {
+      "settlements_required": true,
+      "note": "Self-governing in free association with New Zealand."
+    },
+    "PF": {
+      "settlements_required": true
+    },
+    "PM": {
+      "settlements_required": true
+    },
+    "PN": {
+      "settlements_required": true
+    },
+    "PR": {
+      "settlements_required": true
+    },
+    "RE": {
+      "settlements_required": true
+    },
+    "SH": {
+      "settlements_required": true,
+      "name": "Saint Helena, Ascension and Tristan da Cunha"
+    },
+    "SJ": {
+      "settlements_required": true,
+      "name": "Svalbard and Jan Mayen"
+    },
+    "SX": {
+      "settlements_required": true
+    },
+    "TC": {
+      "settlements_required": true
+    },
+    "TF": {
+      "settlements_required": false
+    },
+    "TK": {
+      "settlements_required": true
+    },
+    "UM": {
+      "settlements_required": false
+    },
+    "VG": {
+      "settlements_required": true
+    },
+    "VI": {
+      "settlements_required": true
+    },
+    "WF": {
+      "settlements_required": true
+    },
+    "YT": {
+      "settlements_required": true
+    }
+  }
 }

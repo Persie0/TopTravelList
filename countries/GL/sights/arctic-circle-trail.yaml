@@ -1,0 +1,16 @@
+id: sight-gl-arctic-circle-trail
+name: "Arctic Circle Trail"
+location:
+  country_code: GL
+  latitude: 66.9
+  longitude: -52.0
+scores:
+  impact: 9.1
+  uniqueness: 9.0
+  significance: 8.3
+  experience: 9.1
+  depth: 9.3
+  categories:
+    nature: 9.2
+    adventure: 9.5
+    photography: 9.1

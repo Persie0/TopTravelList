@@ -64,7 +64,7 @@ python scripts/rank.py --country KH --kind sights --category history --limit 30
 python scripts/rank.py --country KH --kind sights --category nature --limit 30
 ```
 
-The registry covers **197 travel-country entries**: the 193 United Nations member states, the Holy See and Palestine (UN observer states), plus Taiwan and Kosovo as separately listed travel destinations. Kosovo uses the commonly used, user-assigned code `XK`, not an official ISO 3166-1 code. This is a geographic organization convention, not a statement on political recognition. Territories are not included.
+The registry covers **250 geographic travel entries**: all 249 official ISO 3166-1 alpha-2 entries plus Kosovo (`XK`). Countries, overseas territories, dependencies and special-status areas are indexed separately for geographic navigation, not political recognition. See [territory expansion and migration policy](methodology/territory-expansion.md).
 
 See [rules.md](rules.md) for the universal scoring rubric and [methodology/scoring.json](methodology/scoring.json) for the machine-readable weights and categories.
 

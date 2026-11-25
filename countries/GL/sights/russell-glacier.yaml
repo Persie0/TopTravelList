@@ -1,0 +1,15 @@
+id: sight-gl-russell-glacier
+name: "Russell Glacier"
+location:
+  country_code: GL
+  latitude: 67.08
+  longitude: -50.15
+scores:
+  impact: 9.2
+  uniqueness: 9.0
+  significance: 8.7
+  experience: 8.8
+  depth: 8.3
+  categories:
+    nature: 9.2
+    photography: 9.2

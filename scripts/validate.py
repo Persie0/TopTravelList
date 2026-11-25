@@ -6,6 +6,7 @@ import json
 import re
 import sys
 from pathlib import Path
+from registry import registry_errors
 
 import yaml
 from jsonschema import Draft202012Validator
@@ -22,10 +23,7 @@ def main() -> int:
     countries = json.loads((COUNTRIES / "_registry.json").read_text(encoding="utf-8"))
     codes = countries["codes"]
 
-    if len(codes) != 197 or len(codes) != len(set(codes)):
-        errors.append("Registry must contain exactly 197 unique codes")
-    if codes != sorted(codes) or any(not re.fullmatch(r"[A-Z]{2}", code) for code in codes):
-        errors.append("Registry codes must be sorted, uppercase alpha-2 identifiers")
+    errors.extend(registry_errors(countries))
 
     actual_dirs = {p.name for p in COUNTRIES.iterdir() if p.is_dir()}
     if actual_dirs != set(codes):
