@@ -1,0 +1,16 @@
+id: sight-pa-san-lorenzo-castle
+name: "San Lorenzo Castle"
+location:
+  country_code: PA
+  latitude: 9.323172
+  longitude: -79.999775
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 9.3
+  experience: 8.4
+  depth: 7.9
+  categories:
+    history: 9.4
+    architecture: 9.1
+    photography: 9.0

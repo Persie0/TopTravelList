@@ -1,0 +1,15 @@
+id: city-pa-david
+name: "David"
+location:
+  country_code: PA
+  latitude: 8.428
+  longitude: -82.431
+scores:
+  impact: 6.3
+  uniqueness: 6.6
+  significance: 6.9
+  experience: 7.3
+  depth: 7.1
+  categories:
+    food: 7.7
+    culture: 7.4

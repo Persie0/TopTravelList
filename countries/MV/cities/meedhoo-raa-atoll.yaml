@@ -1,0 +1,15 @@
+id: city-mv-meedhoo-raa-atoll
+name: "Meedhoo (Raa Atoll)"
+location:
+  country_code: MV
+  latitude: 5.458
+  longitude: 72.953
+scores:
+  impact: 6.6
+  uniqueness: 7.2
+  significance: 7.2
+  experience: 7.1
+  depth: 6.2
+  categories:
+    culture: 7.6
+    history: 7.7

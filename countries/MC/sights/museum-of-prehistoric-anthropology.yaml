@@ -1,0 +1,15 @@
+id: sight-mc-museum-of-prehistoric-anthropology
+name: "Museum of Prehistoric Anthropology"
+location:
+  country_code: MC
+  latitude: 43.7331
+  longitude: 7.4142
+scores:
+  impact: 7.4
+  uniqueness: 8.2
+  significance: 8.4
+  experience: 8.0
+  depth: 7.3
+  categories:
+    history: 9.0
+    culture: 8.5

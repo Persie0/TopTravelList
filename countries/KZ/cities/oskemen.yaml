@@ -1,0 +1,15 @@
+id: city-kz-oskemen
+name: "Oskemen"
+location:
+  country_code: KZ
+  latitude: 49.948
+  longitude: 82.628
+scores:
+  impact: 6.8
+  uniqueness: 7.2
+  significance: 7.2
+  experience: 7.6
+  depth: 7.5
+  categories:
+    culture: 7.7
+    food: 7.7

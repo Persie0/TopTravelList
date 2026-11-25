@@ -1,0 +1,16 @@
+id: sight-mv-angafaru-marine-protected-area
+name: "Angafaru Marine Protected Area"
+location:
+  country_code: MV
+  latitude: 5.2
+  longitude: 73.115
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 8.9
+  experience: 8.7
+  depth: 8.1
+  categories:
+    nature: 9.1
+    wildlife: 9.3
+    adventure: 8.9

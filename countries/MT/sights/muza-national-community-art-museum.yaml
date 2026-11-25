@@ -1,0 +1,15 @@
+id: sight-mt-muza-national-community-art-museum
+name: "MUŻA National Community Art Museum"
+location:
+  country_code: MT
+  latitude: 35.8968
+  longitude: 14.5111
+scores:
+  impact: 8.0
+  uniqueness: 8.2
+  significance: 8.4
+  experience: 8.4
+  depth: 8.3
+  categories:
+    culture: 8.9
+    history: 8.7

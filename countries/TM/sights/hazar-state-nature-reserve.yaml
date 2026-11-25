@@ -1,0 +1,15 @@
+id: sight-tm-hazar-state-nature-reserve
+name: "Hazar State Nature Reserve"
+location:
+  country_code: TM
+  latitude: 39.9
+  longitude: 53.1
+scores:
+  impact: null
+  uniqueness: 8.6
+  significance: 9.1
+  experience: null
+  depth: null
+  categories:
+    nature: 9.1
+    wildlife: 9.3

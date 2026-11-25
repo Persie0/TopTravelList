@@ -1,0 +1,15 @@
+id: sight-lu-esch-sur-sure-castle-ruins
+name: "Esch-sur-Sûre Castle Ruins"
+location:
+  country_code: LU
+  latitude: 49.9117
+  longitude: 5.9346
+scores:
+  impact: 8.0
+  uniqueness: 8.1
+  significance: 8.0
+  experience: 8.0
+  depth: 7.0
+  categories:
+    photography: 8.9
+    history: 8.5

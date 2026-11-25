@@ -1,0 +1,16 @@
+id: sight-kg-ala-archa-national-park
+name: "Ala-Archa National Park"
+location:
+  country_code: KG
+  latitude: 42.53
+  longitude: 74.48
+scores:
+  impact: 8.9
+  uniqueness: 8.6
+  significance: 8.0
+  experience: 8.9
+  depth: 8.8
+  categories:
+    nature: 9.2
+    photography: 9.2
+    adventure: 9.1

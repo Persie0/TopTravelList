@@ -1,0 +1,16 @@
+id: sight-tl-tasi-tolu-three-lakes
+name: "Tasi Tolu (Three Lakes)"
+location:
+  country_code: TL
+  latitude: -8.568
+  longitude: 125.506
+scores:
+  impact: 7.5
+  uniqueness: 8.0
+  significance: 8.1
+  experience: 7.5
+  depth: 7.2
+  categories:
+    nature: 8.5
+    wildlife: 8.4
+    history: 8.1

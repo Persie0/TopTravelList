@@ -1,0 +1,16 @@
+id: sight-km-ntsudjini-medina
+name: "Ntsudjini Medina"
+location:
+  country_code: KM
+  latitude: -11.663689
+  longitude: 43.270017
+scores:
+  impact: 7.4
+  uniqueness: 8.7
+  significance: 9.2
+  experience: 7.7
+  depth: 7.0
+  categories:
+    history: 9.4
+    culture: 9.2
+    architecture: 8.6

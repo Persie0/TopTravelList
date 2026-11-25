@@ -1,0 +1,16 @@
+id: sight-cv-pedra-de-lume-salt-crater
+name: "Pedra de Lume Salt Crater"
+location:
+  country_code: CV
+  latitude: 16.7660
+  longitude: -22.8920
+scores:
+  impact: 8.5
+  uniqueness: 9.1
+  significance: 7.7
+  experience: 8.4
+  depth: 7.3
+  categories:
+    nature: 8.8
+    photography: 9.1
+    history: 8.1

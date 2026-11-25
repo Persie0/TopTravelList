@@ -1,0 +1,16 @@
+id: sight-xk-prizren-historic-centre
+name: "Prizren Historic Centre"
+location:
+  country_code: XK
+  latitude: 42.2104
+  longitude: 20.7410
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 8.9
+  experience: 8.9
+  depth: 8.5
+  categories:
+    architecture: 9.2
+    history: 9.2
+    photography: 9.3

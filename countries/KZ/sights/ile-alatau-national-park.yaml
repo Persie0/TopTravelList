@@ -1,0 +1,16 @@
+id: sight-kz-ile-alatau-national-park
+name: "Ile-Alatau National Park"
+location:
+  country_code: KZ
+  latitude: 43.05
+  longitude: 77.08
+scores:
+  impact: 9.0
+  uniqueness: 8.6
+  significance: 8.2
+  experience: 8.9
+  depth: 9.1
+  categories:
+    nature: 9.3
+    adventure: 9.2
+    photography: 9.3

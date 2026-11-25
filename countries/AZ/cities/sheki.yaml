@@ -1,0 +1,16 @@
+id: city-az-sheki
+name: "Sheki"
+location:
+  country_code: AZ
+  latitude: 41.191
+  longitude: 47.17
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 8.8
+  experience: 8.7
+  depth: 8.2
+  categories:
+    architecture: 9.2
+    history: 9.1
+    culture: 9.0

@@ -1,0 +1,15 @@
+id: sight-kz-airakty-shomanai-valley
+name: "Airakty-Shomanai Valley"
+location:
+  country_code: KZ
+  latitude: 44.25
+  longitude: 52.11
+scores:
+  impact: 9.0
+  uniqueness: 8.9
+  significance: 7.5
+  experience: 8.5
+  depth: 8.1
+  categories:
+    nature: 9.1
+    photography: 9.4

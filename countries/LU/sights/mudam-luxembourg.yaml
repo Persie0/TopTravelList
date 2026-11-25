@@ -1,0 +1,15 @@
+id: sight-lu-mudam-luxembourg
+name: "Mudam Luxembourg"
+location:
+  country_code: LU
+  latitude: 49.6187
+  longitude: 6.1402
+scores:
+  impact: 8.1
+  uniqueness: 8.2
+  significance: 7.9
+  experience: 8.3
+  depth: 8.0
+  categories:
+    culture: 8.8
+    architecture: 8.8

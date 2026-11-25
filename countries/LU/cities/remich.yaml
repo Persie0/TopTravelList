@@ -1,0 +1,15 @@
+id: city-lu-remich
+name: "Remich"
+location:
+  country_code: LU
+  latitude: 49.5450
+  longitude: 6.3660
+scores:
+  impact: 7.4
+  uniqueness: 7.5
+  significance: 7.2
+  experience: 8.0
+  depth: 7.4
+  categories:
+    relaxation: 8.6
+    food: 8.4

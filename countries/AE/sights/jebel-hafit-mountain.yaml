@@ -1,0 +1,16 @@
+id: sight-ae-jebel-hafit-mountain
+name: "Jebel Hafit Mountain"
+location:
+  country_code: AE
+  latitude: 24.058
+  longitude: 55.778
+scores:
+  impact: 8.6
+  uniqueness: 8.2
+  significance: 7.4
+  experience: 8.5
+  depth: 8.0
+  categories:
+    nature: 8.8
+    photography: 9.0
+    adventure: 8.5

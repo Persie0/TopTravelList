@@ -1,0 +1,16 @@
+id: sight-lu-notre-dame-cathedral-luxembourg
+name: "Notre-Dame Cathedral Luxembourg"
+location:
+  country_code: LU
+  latitude: 49.6097
+  longitude: 6.1318
+scores:
+  impact: 8.1
+  uniqueness: 8.1
+  significance: 8.6
+  experience: 8.2
+  depth: 7.5
+  categories:
+    architecture: 8.8
+    history: 8.9
+    culture: 8.6

@@ -1,0 +1,15 @@
+id: sight-mc-museum-of-stamps-and-coins
+name: "Museum of Stamps and Coins"
+location:
+  country_code: MC
+  latitude: 43.7279
+  longitude: 7.4170
+scores:
+  impact: 7.2
+  uniqueness: 8.3
+  significance: 8.2
+  experience: 7.9
+  depth: 7.2
+  categories:
+    history: 8.8
+    culture: 8.4

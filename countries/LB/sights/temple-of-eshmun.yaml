@@ -1,0 +1,15 @@
+id: sight-lb-temple-of-eshmun
+name: "Temple of Eshmun"
+location:
+  country_code: LB
+  latitude: 33.59
+  longitude: 35.4
+scores:
+  impact: 7.8
+  uniqueness: 8.7
+  significance: 9.2
+  experience: null
+  depth: 7.6
+  categories:
+    history: 9.4
+    architecture: 8.5

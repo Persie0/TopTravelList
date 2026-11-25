@@ -1,0 +1,16 @@
+id: sight-xk-mirusha-waterfalls
+name: "Mirusha Waterfalls"
+location:
+  country_code: XK
+  latitude: 42.5240
+  longitude: 20.5780
+scores:
+  impact: 8.7
+  uniqueness: 8.5
+  significance: 7.8
+  experience: 8.7
+  depth: 8.0
+  categories:
+    nature: 9.2
+    photography: 9.2
+    adventure: 8.7

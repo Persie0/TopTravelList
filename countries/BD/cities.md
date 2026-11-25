@@ -2,7 +2,7 @@
 
 # Bangladesh (BD) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**13 ranked** · **2 unassessed** · **15 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,32 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (13)
 
-No cities, towns & villages have been assessed for **Bangladesh** yet.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Dhaka](cities/dhaka.yaml) | City / town | **83.50** | **Culture 9.0**, **Food 8.9**, **History 8.7** | 8.2 / 8.6 / 8.4 / 7.8 / 8.9 | [23.8103, 90.4125](https://www.google.com/maps/search/?api=1&query=23.8103,90.4125) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Dhaka%2C%20Bangladesh) |
+| 2 | [Chattogram](cities/chattogram.yaml) | City / town | **76.90** | **Food 8.4**, **Culture 8.1** | 7.5 / 7.8 / 7.8 / 7.6 / 7.9 | [22.3569, 91.7832](https://www.google.com/maps/search/?api=1&query=22.3569,91.7832) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Chattogram%2C%20Bangladesh) |
+| 3 | [Sylhet](cities/sylhet.yaml) | City / town | **76.25** | **Culture 8.5**, **Food 8.3** | 7.2 / 7.8 / 7.9 / 7.9 / 7.5 | [24.8949, 91.8687](https://www.google.com/maps/search/?api=1&query=24.8949,91.8687) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sylhet%2C%20Bangladesh) |
+| 4 | [Sonargaon](cities/sonargaon.yaml) | City / town | **75.85** | **History 8.5**, **Culture 8.2** | 7.2 / 7.9 / 8.1 / 7.6 / 6.9 | [23.651, 90.604](https://www.google.com/maps/search/?api=1&query=23.651,90.604) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sonargaon%2C%20Bangladesh) |
+| 5 | [Rajshahi](cities/rajshahi.yaml) | City / town | **75.80** | **Food 8.3**, **Culture 8.1** | 7.2 / 7.6 / 7.8 / 8.0 / 7.6 | [24.3745, 88.6042](https://www.google.com/maps/search/?api=1&query=24.3745,88.6042) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Rajshahi%2C%20Bangladesh) |
+| 6 | [Puthia](cities/puthia.yaml) | City / town | **75.10** | **Architecture 8.5**, **Culture 8.2** | 7.2 / 7.9 / 7.8 / 7.7 / 6.6 | [24.37, 88.84](https://www.google.com/maps/search/?api=1&query=24.37,88.84) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Puthia%2C%20Bangladesh) |
+| 7 | [Sreemangal](cities/sreemangal.yaml) | City / town | **74.00** | **Food 8.4**, **Culture 8.2**, **Relaxation 8.0** | 7.2 / 7.8 / 6.8 / 8.2 / 7.0 | [24.3065, 91.7296](https://www.google.com/maps/search/?api=1&query=24.3065,91.7296) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sreemangal%2C%20Bangladesh) |
+| 8 | [Cox's Bazar](cities/cox-s-bazar.yaml) | City / town | **73.90** | **Beaches 8.6**, **Relaxation 8.4**, **Food 8.3** | 7.5 / 7.5 / 6.3 / 8.3 / 7.6 | [21.4272, 92.0058](https://www.google.com/maps/search/?api=1&query=21.4272,92.0058) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cox%27s%20Bazar%2C%20Bangladesh) |
+| 9 | [Bagerhat](cities/bagerhat.yaml) | City / town | **72.65** | **History 8.4**, **Culture 8.1** | 6.7 / 7.6 / 8.0 / 7.3 / 6.6 | [22.6516, 89.7859](https://www.google.com/maps/search/?api=1&query=22.6516,89.7859) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bagerhat%2C%20Bangladesh) |
+| 10 | [Dinajpur](cities/dinajpur.yaml) | City / town | **71.45** | **History 8.1**, **Culture 7.9** | 6.7 / 7.3 / 7.6 / 7.4 / 6.8 | [25.6279, 88.6332](https://www.google.com/maps/search/?api=1&query=25.6279,88.6332) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Dinajpur%2C%20Bangladesh) |
+| 11 | [Cumilla](cities/cumilla.yaml) | City / town | **69.65** | **Food 7.9**, **Culture 7.8** | 6.5 / 7.0 / 7.4 / 7.3 / 6.9 | [23.4607, 91.1809](https://www.google.com/maps/search/?api=1&query=23.4607,91.1809) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cumilla%2C%20Bangladesh) |
+| 12 | [Bogura](cities/bogura.yaml) | City / town | **69.10** | **Food 8.0**, **Culture 7.5** | 6.4 / 6.9 / 7.4 / 7.3 / 6.9 | [24.8465, 89.3773](https://www.google.com/maps/search/?api=1&query=24.8465,89.3773) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bogura%2C%20Bangladesh) |
+| 13 | [Khulna](cities/khulna.yaml) | City / town | **68.35** | **Food 7.9**, **Culture 7.6** | 6.4 / 6.8 / 7.1 / 7.3 / 7.0 | [22.8456, 89.5403](https://www.google.com/maps/search/?api=1&query=22.8456,89.5403) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Khulna%2C%20Bangladesh) |
 
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+## Not yet fully assessed (2)
+
+These destinations have no rank until all five core scores are assessed.
+
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| — | [Bandarban](cities/bandarban.yaml) | City / town | **—** | **Culture 8.4**, **Photography 8.3** | — / 8.1 / 7.3 / — / — | [22.195, 92.218](https://www.google.com/maps/search/?api=1&query=22.195,92.218) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bandarban%2C%20Bangladesh) |
+| — | [Rangamati](cities/rangamati.yaml) | City / town | **—** | **Culture 8.6**, **Photography 8.3** | — / 8.3 / 7.5 / — / — | [22.65, 92.18](https://www.google.com/maps/search/?api=1&query=22.65,92.18) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Rangamati%2C%20Bangladesh) |
 
 ---
 
