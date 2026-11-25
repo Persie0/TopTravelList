@@ -1,0 +1,17 @@
+id: sight-la-bolaven-plateau
+name: "Bolaven Plateau"
+location:
+  country_code: LA
+  latitude: 15.27
+  longitude: 106.23
+scores:
+  impact: 9.0
+  uniqueness: 8.9
+  significance: 8.2
+  experience: 9.0
+  depth: 9.2
+  categories:
+    nature: 9.3
+    photography: 9.2
+    adventure: 9.1
+    food: 8.8

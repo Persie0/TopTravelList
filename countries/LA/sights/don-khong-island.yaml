@@ -1,0 +1,16 @@
+id: sight-la-don-khong-island
+name: "Don Khong Island"
+location:
+  country_code: LA
+  latitude: 14.12
+  longitude: 105.83
+scores:
+  impact: 8.0
+  uniqueness: 8.1
+  significance: 7.5
+  experience: 8.5
+  depth: 8.5
+  categories:
+    relaxation: 8.9
+    culture: 8.3
+    nature: 8.5

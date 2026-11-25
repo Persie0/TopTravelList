@@ -1,0 +1,16 @@
+id: sight-la-kong-lor-cave
+name: "Kong Lor Cave"
+location:
+  country_code: LA
+  latitude: 17.957
+  longitude: 104.763
+scores:
+  impact: 9.3
+  uniqueness: 9.4
+  significance: 8.6
+  experience: 9.4
+  depth: 8.7
+  categories:
+    adventure: 9.5
+    nature: 9.4
+    photography: 9.1

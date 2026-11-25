@@ -1,0 +1,16 @@
+id: sight-la-don-det-island
+name: "Don Det Island"
+location:
+  country_code: LA
+  latitude: 13.996
+  longitude: 105.922
+scores:
+  impact: 8.1
+  uniqueness: 8.1
+  significance: 7.0
+  experience: 8.7
+  depth: 8.1
+  categories:
+    relaxation: 9.0
+    nature: 8.6
+    culture: 8.0

@@ -1,0 +1,16 @@
+id: sight-la-xe-pian-national-protected-area
+name: "Xe Pian National Protected Area"
+location:
+  country_code: LA
+  latitude: 14.54
+  longitude: 106.12
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.5
+  depth: 8.8
+  categories:
+    nature: 9.3
+    wildlife: 9.3
+    adventure: 8.9

@@ -1,0 +1,16 @@
+id: sight-la-savannakhet-old-town
+name: "Savannakhet Old Town"
+location:
+  country_code: LA
+  latitude: 16.558
+  longitude: 104.75
+scores:
+  impact: 7.9
+  uniqueness: 8.1
+  significance: 8.1
+  experience: 8.1
+  depth: 7.9
+  categories:
+    architecture: 8.6
+    history: 8.5
+    culture: 8.2

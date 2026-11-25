@@ -1,0 +1,16 @@
+id: sight-la-tad-lo-waterfall
+name: "Tad Lo Waterfall"
+location:
+  country_code: LA
+  latitude: 15.528
+  longitude: 106.274
+scores:
+  impact: 8.2
+  uniqueness: 8.1
+  significance: 7.0
+  experience: 8.6
+  depth: 8.0
+  categories:
+    nature: 8.7
+    relaxation: 8.9
+    photography: 8.6

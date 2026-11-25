@@ -1,0 +1,16 @@
+id: sight-la-vat-phou-temple-complex
+name: "Vat Phou Temple Complex"
+location:
+  country_code: LA
+  latitude: 14.846
+  longitude: 105.817
+scores:
+  impact: 9.2
+  uniqueness: 9.2
+  significance: 9.4
+  experience: 9.0
+  depth: 8.7
+  categories:
+    architecture: 9.4
+    history: 9.4
+    culture: 9.4

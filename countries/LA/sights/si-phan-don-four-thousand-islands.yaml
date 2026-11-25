@@ -1,0 +1,17 @@
+id: sight-la-si-phan-don-four-thousand-islands
+name: "Si Phan Don (Four Thousand Islands)"
+location:
+  country_code: LA
+  latitude: 14.01
+  longitude: 105.93
+scores:
+  impact: 9.1
+  uniqueness: 9.3
+  significance: 8.5
+  experience: 9.1
+  depth: 9.2
+  categories:
+    nature: 9.4
+    relaxation: 9.4
+    photography: 9.3
+    adventure: 9.0
