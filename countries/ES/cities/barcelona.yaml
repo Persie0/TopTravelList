@@ -1,0 +1,16 @@
+id: city-es-barcelona
+name: "Barcelona"
+location:
+  country_code: ES
+  latitude: 41.3874
+  longitude: 2.1686
+scores:
+  impact: 9.6
+  uniqueness: 9.5
+  significance: 9.4
+  experience: 9.5
+  depth: 9.6
+  categories:
+    architecture: 9.7
+    culture: 9.5
+    food: 9.3

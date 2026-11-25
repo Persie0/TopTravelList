@@ -1,0 +1,15 @@
+id: sight-es-burgos-cathedral
+name: "Burgos Cathedral"
+location:
+  country_code: ES
+  latitude: 42.34
+  longitude: -3.704
+scores:
+  impact: 9.2
+  uniqueness: 9.1
+  significance: 9.3
+  experience: 9.0
+  depth: 8.6
+  categories:
+    architecture: 9.6
+    history: 9.4

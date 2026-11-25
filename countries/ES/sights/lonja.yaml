@@ -1,0 +1,15 @@
+id: sight-es-lonja
+name: "La Lonja de la Seda Valencia"
+location:
+  country_code: ES
+  latitude: 39.474
+  longitude: -0.378
+scores:
+  impact: 9.0
+  uniqueness: 9.1
+  significance: 9.2
+  experience: 8.8
+  depth: 8.0
+  categories:
+    architecture: 9.5
+    history: 9.3

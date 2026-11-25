@@ -1,0 +1,15 @@
+id: sight-es-ripoll
+name: "Portal of Ripoll Monastery"
+location:
+  country_code: ES
+  latitude: 42.201
+  longitude: 2.19
+scores:
+  impact: 8.8
+  uniqueness: 9.1
+  significance: 9.3
+  experience: 8.6
+  depth: 7.8
+  categories:
+    architecture: 9.4
+    history: 9.4

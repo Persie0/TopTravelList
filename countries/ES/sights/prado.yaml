@@ -1,0 +1,15 @@
+id: sight-es-prado
+name: "Prado Museum"
+location:
+  country_code: ES
+  latitude: 40.4138
+  longitude: -3.6921
+scores:
+  impact: 9.4
+  uniqueness: 9.4
+  significance: 9.7
+  experience: 9.3
+  depth: 9.6
+  categories:
+    culture: 9.8
+    history: 9.6

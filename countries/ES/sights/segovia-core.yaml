@@ -1,0 +1,15 @@
+id: sight-es-segovia-core
+name: "Old Town of Segovia and its Aqueduct"
+location:
+  country_code: ES
+  latitude: 40.948
+  longitude: -4.117
+scores:
+  impact: 9.3
+  uniqueness: 9.2
+  significance: 9.3
+  experience: 9.0
+  depth: 8.9
+  categories:
+    architecture: 9.6
+    history: 9.5

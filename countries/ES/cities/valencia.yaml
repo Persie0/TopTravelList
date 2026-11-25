@@ -1,0 +1,16 @@
+id: city-es-valencia
+name: "Valencia"
+location:
+  country_code: ES
+  latitude: 39.4699
+  longitude: -0.3763
+scores:
+  impact: 9.0
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 9.2
+  depth: 9.1
+  categories:
+    architecture: 9.3
+    food: 9.4
+    culture: 9.1

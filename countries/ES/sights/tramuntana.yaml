@@ -1,0 +1,16 @@
+id: sight-es-tramuntana
+name: "Cultural Landscape of Serra de Tramuntana"
+location:
+  country_code: ES
+  latitude: 39.77
+  longitude: 2.75
+scores:
+  impact: 9.2
+  uniqueness: 9.0
+  significance: 9.0
+  experience: 9.1
+  depth: 9.3
+  categories:
+    nature: 9.4
+    photography: 9.5
+    culture: 9.2

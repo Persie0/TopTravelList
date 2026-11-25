@@ -1,0 +1,15 @@
+id: sight-es-egara
+name: "Episcopal See of Egara"
+location:
+  country_code: ES
+  latitude: 41.568
+  longitude: 2.019
+scores:
+  impact: 8.5
+  uniqueness: 9.1
+  significance: 9.3
+  experience: 8.5
+  depth: 8.2
+  categories:
+    architecture: 9.2
+    history: 9.4
