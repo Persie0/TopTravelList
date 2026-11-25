@@ -1,0 +1,17 @@
+id: sight-tl-mount-matebian-matebian-feto
+name: "Mount Matebian (Matebian Feto)"
+location:
+  country_code: TL
+  latitude: -8.7275
+  longitude: 126.9825
+scores:
+  impact: 8.7
+  uniqueness: 8.7
+  significance: 8.5
+  experience: 8.6
+  depth: 7.8
+  categories:
+    nature: 8.9
+    adventure: 9.1
+    photography: 8.9
+    history: 8.6

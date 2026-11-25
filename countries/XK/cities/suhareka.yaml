@@ -1,0 +1,15 @@
+id: city-xk-suhareka
+name: "Suhareka"
+location:
+  country_code: XK
+  latitude: 42.3586
+  longitude: 20.8250
+scores:
+  impact: 6.3
+  uniqueness: 6.7
+  significance: 6.5
+  experience: 7.3
+  depth: 6.4
+  categories:
+    food: 7.7
+    culture: 7.5

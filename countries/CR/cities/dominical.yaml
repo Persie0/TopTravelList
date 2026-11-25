@@ -1,0 +1,15 @@
+id: city-cr-dominical
+name: "Dominical"
+location:
+  country_code: CR
+  latitude: 9.253
+  longitude: -83.859
+scores:
+  impact: 7.3
+  uniqueness: 7.6
+  significance: 6.2
+  experience: 8.1
+  depth: 6.6
+  categories:
+    relaxation: 8.3
+    food: 8.0

@@ -1,0 +1,16 @@
+id: sight-rw-lake-ihema
+name: "Lake Ihema"
+location:
+  country_code: RW
+  latitude: -1.7830
+  longitude: 30.7400
+scores:
+  impact: 8.5
+  uniqueness: 8.4
+  significance: 8.0
+  experience: 8.8
+  depth: 7.6
+  categories:
+    wildlife: 9.2
+    nature: 8.8
+    photography: 8.7

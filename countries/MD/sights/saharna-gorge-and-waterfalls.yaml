@@ -1,0 +1,15 @@
+id: sight-md-saharna-gorge-and-waterfalls
+name: "Saharna Gorge and Waterfalls"
+location:
+  country_code: MD
+  latitude: 47.6900
+  longitude: 28.9520
+scores:
+  impact: 7.9
+  uniqueness: 8.0
+  significance: 7.3
+  experience: 8.3
+  depth: 7.6
+  categories:
+    nature: 8.8
+    photography: 8.6

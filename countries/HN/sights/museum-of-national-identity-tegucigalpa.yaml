@@ -1,0 +1,15 @@
+id: sight-hn-museum-of-national-identity-tegucigalpa
+name: "Museum of National Identity (Tegucigalpa)"
+location:
+  country_code: HN
+  latitude: 14.1050
+  longitude: -87.2070
+scores:
+  impact: 7.5
+  uniqueness: 7.8
+  significance: 8.5
+  experience: 8.1
+  depth: 7.9
+  categories:
+    history: 8.8
+    culture: 8.7

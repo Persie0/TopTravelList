@@ -1,0 +1,16 @@
+id: sight-ee-estonian-national-museum
+name: "Estonian National Museum"
+location:
+  country_code: EE
+  latitude: 58.395
+  longitude: 26.744
+scores:
+  impact: 8.4
+  uniqueness: 8.6
+  significance: 8.8
+  experience: 8.7
+  depth: 8.9
+  categories:
+    culture: 9.2
+    history: 9
+    architecture: 8.7

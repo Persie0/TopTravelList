@@ -1,0 +1,16 @@
+id: sight-pa-playa-cambutal
+name: "Playa Cambutal"
+location:
+  country_code: PA
+  latitude: 7.256
+  longitude: -80.493
+scores:
+  impact: 8.2
+  uniqueness: 7.8
+  significance: 6.2
+  experience: 8.6
+  depth: 7.4
+  categories:
+    adventure: 8.9
+    beaches: 8.6
+    photography: 8.5

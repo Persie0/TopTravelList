@@ -1,0 +1,16 @@
+id: city-km-nioumachoua
+name: "Nioumachoua"
+location:
+  country_code: KM
+  latitude: -12.3710
+  longitude: 43.7180
+scores:
+  impact: 7.6
+  uniqueness: 8.1
+  significance: 6.6
+  experience: 8.0
+  depth: 6.2
+  categories:
+    culture: 8.3
+    photography: 8.5
+    relaxation: 8.1

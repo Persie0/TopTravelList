@@ -1,0 +1,17 @@
+id: sight-cr-corcovado-national-park
+name: "Corcovado National Park"
+location:
+  country_code: CR
+  latitude: 8.545
+  longitude: -83.584
+scores:
+  impact: 9.5
+  uniqueness: 9.5
+  significance: 9.6
+  experience: 9.4
+  depth: 9.5
+  categories:
+    nature: 9.7
+    wildlife: 9.7
+    adventure: 9.4
+    photography: 9.4

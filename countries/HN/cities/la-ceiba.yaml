@@ -1,0 +1,16 @@
+id: city-hn-la-ceiba
+name: "La Ceiba"
+location:
+  country_code: HN
+  latitude: 15.7597
+  longitude: -86.7822
+scores:
+  impact: 7.3
+  uniqueness: 7.5
+  significance: 7.3
+  experience: 8.0
+  depth: 7.6
+  categories:
+    culture: 8.0
+    food: 8.1
+    nightlife: 8.0

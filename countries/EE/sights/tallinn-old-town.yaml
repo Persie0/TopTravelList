@@ -1,0 +1,17 @@
+id: sight-ee-tallinn-old-town
+name: "Historic Centre (Old Town) of Tallinn"
+location:
+  country_code: EE
+  latitude: 59.437
+  longitude: 24.74
+scores:
+  impact: 9.2
+  uniqueness: 9.1
+  significance: 9.2
+  experience: 9.2
+  depth: 9.1
+  categories:
+    architecture: 9.4
+    history: 9.4
+    culture: 9.1
+    photography: 9.4

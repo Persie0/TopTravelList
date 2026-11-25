@@ -1,0 +1,15 @@
+id: sight-lu-national-museum-of-military-history-diekirch
+name: "National Museum of Military History Diekirch"
+location:
+  country_code: LU
+  latitude: 49.8685
+  longitude: 6.1580
+scores:
+  impact: 7.9
+  uniqueness: 8.3
+  significance: 8.6
+  experience: 8.3
+  depth: 8.3
+  categories:
+    history: 9.0
+    culture: 8.6

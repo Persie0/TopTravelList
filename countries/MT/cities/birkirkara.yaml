@@ -1,0 +1,15 @@
+id: city-mt-birkirkara
+name: "Birkirkara"
+location:
+  country_code: MT
+  latitude: 35.8972
+  longitude: 14.4611
+scores:
+  impact: 6.8
+  uniqueness: 7.0
+  significance: 7.3
+  experience: 7.5
+  depth: 7.4
+  categories:
+    culture: 7.9
+    history: 7.8

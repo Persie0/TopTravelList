@@ -1,0 +1,14 @@
+id: sight-ee-voivere-struve-station
+name: "Võivere Struve Geodetic Arc Station"
+location:
+  country_code: EE
+  latitude: 59.0578
+  longitude: 26.3378
+scores:
+  impact: 6.8
+  uniqueness: 8.0
+  significance: 8.6
+  experience: null
+  depth: null
+  categories:
+    history: 8.6

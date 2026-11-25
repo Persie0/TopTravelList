@@ -1,0 +1,16 @@
+id: sight-xk-ethnological-museum-emin-gjiku
+name: "Ethnological Museum (Emin Gjiku)"
+location:
+  country_code: XK
+  latitude: 42.6691
+  longitude: 21.1678
+scores:
+  impact: 7.7
+  uniqueness: 8.2
+  significance: 8.4
+  experience: 8.3
+  depth: 7.4
+  categories:
+    culture: 8.9
+    history: 8.8
+    architecture: 8.5

@@ -1,0 +1,16 @@
+id: sight-tl-cristo-rei-of-dili
+name: "Cristo Rei of Dili"
+location:
+  country_code: TL
+  latitude: -8.5275
+  longitude: 125.6139
+scores:
+  impact: 8.3
+  uniqueness: 8.1
+  significance: 7.9
+  experience: 8.4
+  depth: 7.5
+  categories:
+    photography: 8.8
+    architecture: 8.3
+    culture: 8.3

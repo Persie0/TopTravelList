@@ -1,0 +1,15 @@
+id: sight-hn-laguna-de-guaimoreto
+name: "Laguna de Guaimoreto"
+location:
+  country_code: HN
+  latitude: 15.9300
+  longitude: -85.8780
+scores:
+  impact: 7.8
+  uniqueness: 8.1
+  significance: 8.3
+  experience: 8.0
+  depth: 7.7
+  categories:
+    nature: 8.6
+    wildlife: 8.8
