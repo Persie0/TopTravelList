@@ -2,8 +2,8 @@ id: city-gn-faranah
 name: "Faranah"
 location:
   country_code: GN
-  latitude: 10.04
-  longitude: -10.74
+  latitude: 10.0333
+  longitude: -10.7333
 scores:
   impact: 5.9
   uniqueness: 6.9
