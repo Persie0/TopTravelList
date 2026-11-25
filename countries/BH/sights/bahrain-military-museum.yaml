@@ -1,0 +1,14 @@
+id: sight-bh-bahrain-military-museum
+name: "Bahrain Military Museum"
+location:
+  country_code: BH
+  latitude: 26.1250
+  longitude: 50.5520
+scores:
+  impact: 7.0
+  uniqueness: 7.2
+  significance: 7.7
+  experience: 7.3
+  depth: 7.1
+  categories:
+    history: 8.2
