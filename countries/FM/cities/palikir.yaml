@@ -1,0 +1,13 @@
+id: city-fm-palikir
+name: "Palikir"
+location:
+  country_code: FM
+  latitude: 6.92477
+  longitude: 158.16109
+scores:
+  impact: null
+  uniqueness: null
+  significance: 7.0
+  experience: null
+  depth: null
+  categories: {}
