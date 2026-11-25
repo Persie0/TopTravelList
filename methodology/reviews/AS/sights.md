@@ -13,10 +13,10 @@
 - Missing or uncertain facts: independent complete material claim verification, current local access and conditions, precise GPS.
 
 ### Worldwide peer comparisons
-- [sight-cc-direction-island](../../../countries/CC/sights/direction-island.yaml) — compare documented visitor scope, specific landform or habitat and conservation or historical significance; larger and restricted sites are not interchangeable.
-- [sight-cx-dolly-beach](../../../countries/CX/sights/dolly-beach.yaml) — compare documented visitor scope, specific landform or habitat and conservation or historical significance; larger and restricted sites are not interchangeable.
-- [sight-um-palmyra-atoll](../../../countries/UM/sights/palmyra-atoll.yaml) — compare documented visitor scope, specific landform or habitat and conservation or historical significance; larger and restricted sites are not interchangeable.
-- [sight-nf-emily-slaughter-bays](../../../countries/NF/sights/emily-slaughter-bays.yaml) — compare documented visitor scope, specific landform or habitat and conservation or historical significance; larger and restricted sites are not interchangeable.
+- [sight-cc-direction-island](../../../countries/CC/sights/direction-island.yaml) — Direction Island has comparable white sand and lagoon scenery, but less dramatic mountain backdrop.
+- [sight-cx-dolly-beach](../../../countries/CX/sights/dolly-beach.yaml) — Dolly Beach has stronger forest-walk and turtle-habitat scope, but Ofu has documented reef snorkeling.
+- [sight-um-palmyra-atoll](../../../countries/UM/sights/palmyra-atoll.yaml) — Palmyra has greater restricted atoll ecological scope, but narrower permitted ordinary access.
+- [sight-nf-emily-slaughter-bays](../../../countries/NF/sights/emily-slaughter-bays.yaml) — Emily and Slaughter Bays offer more convenient lagoon access; both destinations require current reef-condition caveats.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -46,10 +46,10 @@
 - Missing or uncertain facts: independent complete material claim verification, current local access and conditions, precise GPS.
 
 ### Worldwide peer comparisons
-- [sight-cx-the-dales](../../../countries/CX/sights/the-dales.yaml) — compare documented visitor scope, specific landform or habitat and conservation or historical significance; larger and restricted sites are not interchangeable.
-- [sight-nf-norfolk-national-park](../../../countries/NF/sights/norfolk-national-park.yaml) — compare documented visitor scope, specific landform or habitat and conservation or historical significance; larger and restricted sites are not interchangeable.
-- [sight-sh-peaks-national-park](../../../countries/SH/sights/peaks-national-park.yaml) — compare documented visitor scope, specific landform or habitat and conservation or historical significance; larger and restricted sites are not interchangeable.
-- [sight-sh-green-mountain](../../../countries/SH/sights/green-mountain.yaml) — compare documented visitor scope, specific landform or habitat and conservation or historical significance; larger and restricted sites are not interchangeable.
+- [sight-cx-the-dales](../../../countries/CX/sights/the-dales.yaml) — The Dales have greater distinctive wetland ecology, but a smaller hiking network.
+- [sight-nf-norfolk-national-park](../../../countries/NF/sights/norfolk-national-park.yaml) — Norfolk Island National Park offers a comparable compact forest trail network and endemic biodiversity.
+- [sight-sh-peaks-national-park](../../../countries/SH/sights/peaks-national-park.yaml) — Peaks National Park has stronger endemic cloud-forest significance.
+- [sight-sh-green-mountain](../../../countries/SH/sights/green-mountain.yaml) — Green Mountain has a comparable summit experience, but more introduced vegetation.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -79,10 +79,10 @@
 - Missing or uncertain facts: independent complete material claim verification, current local access and conditions, precise GPS.
 
 ### Worldwide peer comparisons
-- [sight-nf-captain-cook-lookout](../../../countries/NF/sights/captain-cook-lookout.yaml) — compare documented visitor scope, specific landform or habitat and conservation or historical significance; larger and restricted sites are not interchangeable.
-- [sight-cx-margaret-knoll](../../../countries/CX/sights/margaret-knoll.yaml) — compare documented visitor scope, specific landform or habitat and conservation or historical significance; larger and restricted sites are not interchangeable.
-- [sight-sh-sandy-bay](../../../countries/SH/sights/sandy-bay.yaml) — compare documented visitor scope, specific landform or habitat and conservation or historical significance; larger and restricted sites are not interchangeable.
-- [sight-pn-down-rope](../../../countries/PN/sights/down-rope.yaml) — compare documented visitor scope, specific landform or habitat and conservation or historical significance; larger and restricted sites are not interchangeable.
+- [sight-nf-captain-cook-lookout](../../../countries/NF/sights/captain-cook-lookout.yaml) — Captain Cook Lookout has comparable coastal stacks and walking, but less explicit archaeological context.
+- [sight-cx-margaret-knoll](../../../countries/CX/sights/margaret-knoll.yaml) — Margaret Knoll has comparable birdwatching appeal but less dramatic offshore rock morphology.
+- [sight-sh-sandy-bay](../../../countries/SH/sights/sandy-bay.yaml) — Sandy Bay offers similar volcanic coastal scenery without the same nesting-island viewpoint.
+- [sight-pn-down-rope](../../../countries/PN/sights/down-rope.yaml) — Down Rope combines cultural rock art and cliffs but requires a more constrained guided route.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -112,10 +112,10 @@
 - Missing or uncertain facts: independent complete material claim verification, current local access and conditions, precise GPS.
 
 ### Worldwide peer comparisons
-- [sight-cx-dolly-beach](../../../countries/CX/sights/dolly-beach.yaml) — compare documented visitor scope, specific landform or habitat and conservation or historical significance; larger and restricted sites are not interchangeable.
-- [sight-nf-anson-bay](../../../countries/NF/sights/anson-bay.yaml) — compare documented visitor scope, specific landform or habitat and conservation or historical significance; larger and restricted sites are not interchangeable.
-- [sight-pn-christians-cave](../../../countries/PN/sights/christians-cave.yaml) — compare documented visitor scope, specific landform or habitat and conservation or historical significance; larger and restricted sites are not interchangeable.
-- [sight-sh-sandy-bay](../../../countries/SH/sights/sandy-bay.yaml) — compare documented visitor scope, specific landform or habitat and conservation or historical significance; larger and restricted sites are not interchangeable.
+- [sight-cx-dolly-beach](../../../countries/CX/sights/dolly-beach.yaml) — Dolly Beach has a more distinctive forest-to-sand route and turtle habitat.
+- [sight-nf-anson-bay](../../../countries/NF/sights/anson-bay.yaml) — Anson Bay is a shorter cliff-framed beach circuit with less rainforest hiking.
+- [sight-pn-christians-cave](../../../countries/PN/sights/christians-cave.yaml) — Christian's Cave has stronger specific maritime historical associations.
+- [sight-sh-sandy-bay](../../../countries/SH/sights/sandy-bay.yaml) — Sandy Bay has comparable coastal impact but less varied forest walking.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -145,10 +145,10 @@
 - Missing or uncertain facts: independent complete material claim verification, current local access and conditions, precise GPS.
 
 ### Worldwide peer comparisons
-- [sight-cc-the-rip](../../../countries/CC/sights/the-rip.yaml) — compare documented visitor scope, specific landform or habitat and conservation or historical significance; larger and restricted sites are not interchangeable.
-- [sight-cx-flying-fish-cove-reef](../../../countries/CX/sights/flying-fish-cove-reef.yaml) — compare documented visitor scope, specific landform or habitat and conservation or historical significance; larger and restricted sites are not interchangeable.
-- [sight-um-palmyra-atoll](../../../countries/UM/sights/palmyra-atoll.yaml) — compare documented visitor scope, specific landform or habitat and conservation or historical significance; larger and restricted sites are not interchangeable.
-- [sight-nf-emily-slaughter-bays](../../../countries/NF/sights/emily-slaughter-bays.yaml) — compare documented visitor scope, specific landform or habitat and conservation or historical significance; larger and restricted sites are not interchangeable.
+- [sight-cc-the-rip](../../../countries/CC/sights/the-rip.yaml) — The Rip is a more specialized drift snorkel with stronger current constraints.
+- [sight-cx-flying-fish-cove-reef](../../../countries/CX/sights/flying-fish-cove-reef.yaml) — Flying Fish Cove has more convenient shore reef access but less secluded crater setting.
+- [sight-um-palmyra-atoll](../../../countries/UM/sights/palmyra-atoll.yaml) — Palmyra has broader lagoon biodiversity and much more restricted visitor access.
+- [sight-nf-emily-slaughter-bays](../../../countries/NF/sights/emily-slaughter-bays.yaml) — Emily and Slaughter Bays have easier recreational access, but documented environmental pressures constrain reef ratings.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -178,10 +178,10 @@
 - Missing or uncertain facts: independent complete material claim verification, current local access and conditions, precise GPS.
 
 ### Worldwide peer comparisons
-- [sight-as-fagatele-bay](../../../countries/AS/sights/fagatele-bay.yaml) — compare documented visitor scope, specific landform or habitat and conservation or historical significance; larger and restricted sites are not interchangeable.
-- [sight-nf-anson-bay](../../../countries/NF/sights/anson-bay.yaml) — compare documented visitor scope, specific landform or habitat and conservation or historical significance; larger and restricted sites are not interchangeable.
-- [sight-cx-lily-ethel-beaches](../../../countries/CX/sights/lily-ethel-beaches.yaml) — compare documented visitor scope, specific landform or habitat and conservation or historical significance; larger and restricted sites are not interchangeable.
-- [sight-sh-sandy-bay](../../../countries/SH/sights/sandy-bay.yaml) — compare documented visitor scope, specific landform or habitat and conservation or historical significance; larger and restricted sites are not interchangeable.
+- [sight-as-fagatele-bay](../../../countries/AS/sights/fagatele-bay.yaml) — Fagatele has stronger documented marine research and protected-area significance.
+- [sight-nf-anson-bay](../../../countries/NF/sights/anson-bay.yaml) — Anson Bay offers comparable coastal scenery but a smaller visitor landscape.
+- [sight-cx-lily-ethel-beaches](../../../countries/CX/sights/lily-ethel-beaches.yaml) — Lily and Ethel Beaches offer a similar two-cove circuit with less distinctive flooded-crater form.
+- [sight-sh-sandy-bay](../../../countries/SH/sights/sandy-bay.yaml) — Sandy Bay has stronger eroded volcanic-ridge scenery but less reef-focused scope.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -211,10 +211,10 @@
 - Missing or uncertain facts: independent complete material claim verification, current local access and conditions, precise GPS.
 
 ### Worldwide peer comparisons
-- [sight-cx-the-dales](../../../countries/CX/sights/the-dales.yaml) — compare documented visitor scope, specific landform or habitat and conservation or historical significance; larger and restricted sites are not interchangeable.
-- [sight-sh-peaks-national-park](../../../countries/SH/sights/peaks-national-park.yaml) — compare documented visitor scope, specific landform or habitat and conservation or historical significance; larger and restricted sites are not interchangeable.
-- [sight-nf-botanic-garden](../../../countries/NF/sights/botanic-garden.yaml) — compare documented visitor scope, specific landform or habitat and conservation or historical significance; larger and restricted sites are not interchangeable.
-- [sight-pn-christians-cave](../../../countries/PN/sights/christians-cave.yaml) — compare documented visitor scope, specific landform or habitat and conservation or historical significance; larger and restricted sites are not interchangeable.
+- [sight-cx-the-dales](../../../countries/CX/sights/the-dales.yaml) — The Dales have stronger internationally recognized freshwater wetland significance.
+- [sight-sh-peaks-national-park](../../../countries/SH/sights/peaks-national-park.yaml) — Peaks National Park has broader endemic cloud-forest trail scope.
+- [sight-nf-botanic-garden](../../../countries/NF/sights/botanic-garden.yaml) — Norfolk Botanic Garden has more structured botanical interpretation but less natural crater habitat.
+- [sight-pn-christians-cave](../../../countries/PN/sights/christians-cave.yaml) — Christian's Cave is a similarly focused geological walk, without the same freshwater wetland.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -244,10 +244,10 @@
 - Missing or uncertain facts: independent complete material claim verification, current local access and conditions, precise GPS.
 
 ### Worldwide peer comparisons
-- [sight-sh-queen-marys-peak](../../../countries/SH/sights/queen-marys-peak.yaml) — compare documented visitor scope, specific landform or habitat and conservation or historical significance; larger and restricted sites are not interchangeable.
-- [sight-pn-down-rope](../../../countries/PN/sights/down-rope.yaml) — compare documented visitor scope, specific landform or habitat and conservation or historical significance; larger and restricted sites are not interchangeable.
-- [sight-nf-kingston-arthurs-vale](../../../countries/NF/sights/kingston-arthurs-vale.yaml) — compare documented visitor scope, specific landform or habitat and conservation or historical significance; larger and restricted sites are not interchangeable.
-- [sight-cx-the-dales](../../../countries/CX/sights/the-dales.yaml) — compare documented visitor scope, specific landform or habitat and conservation or historical significance; larger and restricted sites are not interchangeable.
+- [sight-sh-queen-marys-peak](../../../countries/SH/sights/queen-marys-peak.yaml) — Queen Mary's Peak has more demanding summit walking, while Siʻu Point combines coast and cultural heritage.
+- [sight-pn-down-rope](../../../countries/PN/sights/down-rope.yaml) — Down Rope combines remote shoreline and Polynesian archaeology with a much shorter visitor route.
+- [sight-nf-kingston-arthurs-vale](../../../countries/NF/sights/kingston-arthurs-vale.yaml) — Kingston has broader interpreted historic buildings but a different heritage context.
+- [sight-cx-the-dales](../../../countries/CX/sights/the-dales.yaml) — The Dales have stronger wetland ecology and more clearly established connected walks.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -277,10 +277,10 @@
 - Missing or uncertain facts: independent complete material claim verification, current local access and conditions, precise GPS.
 
 ### Worldwide peer comparisons
-- [sight-sh-green-mountain](../../../countries/SH/sights/green-mountain.yaml) — compare documented visitor scope, specific landform or habitat and conservation or historical significance; larger and restricted sites are not interchangeable.
-- [sight-sh-queen-marys-peak](../../../countries/SH/sights/queen-marys-peak.yaml) — compare documented visitor scope, specific landform or habitat and conservation or historical significance; larger and restricted sites are not interchangeable.
-- [sight-nf-norfolk-national-park](../../../countries/NF/sights/norfolk-national-park.yaml) — compare documented visitor scope, specific landform or habitat and conservation or historical significance; larger and restricted sites are not interchangeable.
-- [sight-cx-margaret-knoll](../../../countries/CX/sights/margaret-knoll.yaml) — compare documented visitor scope, specific landform or habitat and conservation or historical significance; larger and restricted sites are not interchangeable.
+- [sight-sh-green-mountain](../../../countries/SH/sights/green-mountain.yaml) — Green Mountain has a broader documented trail network but less striking reef panorama.
+- [sight-sh-queen-marys-peak](../../../countries/SH/sights/queen-marys-peak.yaml) — Queen Mary's Peak has a much longer, more demanding volcanic ascent.
+- [sight-nf-norfolk-national-park](../../../countries/NF/sights/norfolk-national-park.yaml) — Norfolk National Park has more maintained trail breadth.
+- [sight-cx-margaret-knoll](../../../countries/CX/sights/margaret-knoll.yaml) — Margaret Knoll is a shorter coastal viewpoint with less elevation and ascent.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -310,10 +310,10 @@
 - Missing or uncertain facts: independent complete material claim verification, current local access and conditions, precise GPS.
 
 ### Worldwide peer comparisons
-- [sight-cx-tai-jin-house](../../../countries/CX/sights/tai-jin-house.yaml) — compare documented visitor scope, specific landform or habitat and conservation or historical significance; larger and restricted sites are not interchangeable.
-- [sight-nf-norfolk-island-museum](../../../countries/NF/sights/norfolk-island-museum.yaml) — compare documented visitor scope, specific landform or habitat and conservation or historical significance; larger and restricted sites are not interchangeable.
-- [sight-cc-pulu-cocos-museum](../../../countries/CC/sights/pulu-cocos-museum.yaml) — compare documented visitor scope, specific landform or habitat and conservation or historical significance; larger and restricted sites are not interchangeable.
-- [sight-pn-pitcairn-museum](../../../countries/PN/sights/pitcairn-museum.yaml) — compare documented visitor scope, specific landform or habitat and conservation or historical significance; larger and restricted sites are not interchangeable.
+- [sight-cx-tai-jin-house](../../../countries/CX/sights/tai-jin-house.yaml) — Tai Jin House has a similarly focused island-history collection, with different administrative heritage.
+- [sight-nf-norfolk-island-museum](../../../countries/NF/sights/norfolk-island-museum.yaml) — Norfolk Museum has broader multi-building exhibits and penal history.
+- [sight-cc-pulu-cocos-museum](../../../countries/CC/sights/pulu-cocos-museum.yaml) — Pulu Cocos Museum has a comparable local island cultural focus.
+- [sight-pn-pitcairn-museum](../../../countries/PN/sights/pitcairn-museum.yaml) — Pitcairn Museum has a smaller collection but particularly distinctive Bounty-era artifacts.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -343,10 +343,10 @@
 - Missing or uncertain facts: independent complete material claim verification, current local access and conditions, precise GPS.
 
 ### Worldwide peer comparisons
-- [sight-um-kingman-reef](../../../countries/UM/sights/kingman-reef.yaml) — compare documented visitor scope, specific landform or habitat and conservation or historical significance; larger and restricted sites are not interchangeable.
-- [sight-pn-henderson-island](../../../countries/PN/sights/henderson-island.yaml) — compare documented visitor scope, specific landform or habitat and conservation or historical significance; larger and restricted sites are not interchangeable.
-- [sight-cc-pulu-keeling-national-park](../../../countries/CC/sights/pulu-keeling-national-park.yaml) — compare documented visitor scope, specific landform or habitat and conservation or historical significance; larger and restricted sites are not interchangeable.
-- [sight-um-palmyra-atoll](../../../countries/UM/sights/palmyra-atoll.yaml) — compare documented visitor scope, specific landform or habitat and conservation or historical significance; larger and restricted sites are not interchangeable.
+- [sight-um-kingman-reef](../../../countries/UM/sights/kingman-reef.yaml) — Kingman Reef has similarly restricted marine conservation scope but more submerged morphology.
+- [sight-pn-henderson-island](../../../countries/PN/sights/henderson-island.yaml) — Henderson has stronger inscribed terrestrial biodiversity and similarly restricted access.
+- [sight-cc-pulu-keeling-national-park](../../../countries/CC/sights/pulu-keeling-national-park.yaml) — Pulu Keeling is a comparable restricted seabird atoll with Ramsar status.
+- [sight-um-palmyra-atoll](../../../countries/UM/sights/palmyra-atoll.yaml) — Palmyra has a documented permitted recreation scope absent at Rose Atoll.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -376,10 +376,10 @@
 - Missing or uncertain facts: independent complete material claim verification, current local access and conditions, precise GPS.
 
 ### Worldwide peer comparisons
-- [sight-pn-oeno-atoll](../../../countries/PN/sights/oeno-atoll.yaml) — compare documented visitor scope, specific landform or habitat and conservation or historical significance; larger and restricted sites are not interchangeable.
-- [sight-um-palmyra-atoll](../../../countries/UM/sights/palmyra-atoll.yaml) — compare documented visitor scope, specific landform or habitat and conservation or historical significance; larger and restricted sites are not interchangeable.
-- [sight-io-peros-banhos](../../../countries/IO/sights/peros-banhos.yaml) — compare documented visitor scope, specific landform or habitat and conservation or historical significance; larger and restricted sites are not interchangeable.
-- [sight-cc-pulu-keeling-national-park](../../../countries/CC/sights/pulu-keeling-national-park.yaml) — compare documented visitor scope, specific landform or habitat and conservation or historical significance; larger and restricted sites are not interchangeable.
+- [sight-pn-oeno-atoll](../../../countries/PN/sights/oeno-atoll.yaml) — Oeno is similarly remote, with unconfirmed ordinary visitor access.
+- [sight-um-palmyra-atoll](../../../countries/UM/sights/palmyra-atoll.yaml) — Palmyra has more documented permitted recreational access and restoration research.
+- [sight-io-peros-banhos](../../../countries/IO/sights/peros-banhos.yaml) — Peros Banhos has greater documented forced-displacement heritage and restricted access.
+- [sight-cc-pulu-keeling-national-park](../../../countries/CC/sights/pulu-keeling-national-park.yaml) — Pulu Keeling has stronger formally recognized wetland conservation significance.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |

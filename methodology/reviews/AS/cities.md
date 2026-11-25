@@ -13,10 +13,10 @@ Census 2026 internal representative coordinates used for villages. Village cultu
 - Missing or uncertain facts: independent complete material claim verification, current local access and conditions, built visitor scope.
 
 ### Worldwide peer comparisons
-- [city-cx-flying-fish-cove](../../../countries/CX/cities/flying-fish-cove.yaml) — compare built settlement scale, geographic context and cultural experience; remote location alone does not establish depth.
-- [city-sh-jamestown](../../../countries/SH/cities/jamestown.yaml) — compare built settlement scale, geographic context and cultural experience; remote location alone does not establish depth.
-- [city-fk-stanley](../../../countries/FK/cities/stanley.yaml) — compare built settlement scale, geographic context and cultural experience; remote location alone does not establish depth.
-- [city-cc-bantam](../../../countries/CC/cities/bantam.yaml) — compare built settlement scale, geographic context and cultural experience; remote location alone does not establish depth.
+- [city-cx-flying-fish-cove](../../../countries/CX/cities/flying-fish-cove.yaml) — Flying Fish Cove has comparable steep tropical harbor scenery, but Pago Pago has a larger urban footprint.
+- [city-sh-jamestown](../../../countries/SH/cities/jamestown.yaml) — Jamestown has more concentrated historic streets and colonial architecture.
+- [city-fk-stanley](../../../countries/FK/cities/stanley.yaml) — Stanley has a wider interpreted maritime heritage offering but less tropical scenery.
+- [city-cc-bantam](../../../countries/CC/cities/bantam.yaml) — Bantam is a smaller village with a more focused community-culture experience.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -46,10 +46,10 @@ Census 2026 internal representative coordinates used for villages. Village cultu
 - Missing or uncertain facts: independent complete material claim verification, current local access and conditions, built visitor scope.
 
 ### Worldwide peer comparisons
-- [city-sh-jamestown](../../../countries/SH/cities/jamestown.yaml) — compare built settlement scale, geographic context and cultural experience; remote location alone does not establish depth.
-- [city-cx-flying-fish-cove](../../../countries/CX/cities/flying-fish-cove.yaml) — compare built settlement scale, geographic context and cultural experience; remote location alone does not establish depth.
-- [city-fk-stanley](../../../countries/FK/cities/stanley.yaml) — compare built settlement scale, geographic context and cultural experience; remote location alone does not establish depth.
-- [city-cc-bantam](../../../countries/CC/cities/bantam.yaml) — compare built settlement scale, geographic context and cultural experience; remote location alone does not establish depth.
+- [city-sh-jamestown](../../../countries/SH/cities/jamestown.yaml) — Jamestown has more extensive historic streets and a stronger valley setting.
+- [city-cx-flying-fish-cove](../../../countries/CX/cities/flying-fish-cove.yaml) — Flying Fish Cove offers comparable island administration and multicultural heritage.
+- [city-fk-stanley](../../../countries/FK/cities/stanley.yaml) — Stanley has broader maritime interpretation and a larger townscape.
+- [city-cc-bantam](../../../countries/CC/cities/bantam.yaml) — Bantam is a living cultural village rather than a civic and administrative center.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -79,10 +79,10 @@ Census 2026 internal representative coordinates used for villages. Village cultu
 - Missing or uncertain facts: independent complete material claim verification, current local access and conditions, built visitor scope.
 
 ### Worldwide peer comparisons
-- [city-cc-bantam](../../../countries/CC/cities/bantam.yaml) — compare built settlement scale, geographic context and cultural experience; remote location alone does not establish depth.
-- [city-pn-adamstown](../../../countries/PN/cities/adamstown.yaml) — compare built settlement scale, geographic context and cultural experience; remote location alone does not establish depth.
-- [city-sh-edinburgh-seven-seas](../../../countries/SH/cities/edinburgh-seven-seas.yaml) — compare built settlement scale, geographic context and cultural experience; remote location alone does not establish depth.
-- [city-nf-burnt-pine](../../../countries/NF/cities/burnt-pine.yaml) — compare built settlement scale, geographic context and cultural experience; remote location alone does not establish depth.
+- [city-cc-bantam](../../../countries/CC/cities/bantam.yaml) — Bantam has a stronger documented cultural and food offer.
+- [city-pn-adamstown](../../../countries/PN/cities/adamstown.yaml) — Adamstown is more isolated and has a more distinctive settlement history.
+- [city-sh-edinburgh-seven-seas](../../../countries/SH/cities/edinburgh-seven-seas.yaml) — Edinburgh of the Seven Seas has greater isolation and a more distinctive community history.
+- [city-nf-burnt-pine](../../../countries/NF/cities/burnt-pine.yaml) — Burnt Pine offers more commercial facilities but less dramatic coastal setting.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -112,10 +112,10 @@ Census 2026 internal representative coordinates used for villages. Village cultu
 - Missing or uncertain facts: independent complete material claim verification, current local access and conditions, built visitor scope.
 
 ### Worldwide peer comparisons
-- [city-cc-bantam](../../../countries/CC/cities/bantam.yaml) — compare built settlement scale, geographic context and cultural experience; remote location alone does not establish depth.
-- [city-pn-adamstown](../../../countries/PN/cities/adamstown.yaml) — compare built settlement scale, geographic context and cultural experience; remote location alone does not establish depth.
-- [city-sh-edinburgh-seven-seas](../../../countries/SH/cities/edinburgh-seven-seas.yaml) — compare built settlement scale, geographic context and cultural experience; remote location alone does not establish depth.
-- [city-nf-burnt-pine](../../../countries/NF/cities/burnt-pine.yaml) — compare built settlement scale, geographic context and cultural experience; remote location alone does not establish depth.
+- [city-cc-bantam](../../../countries/CC/cities/bantam.yaml) — Bantam offers a stronger documented island cultural tour network.
+- [city-pn-adamstown](../../../countries/PN/cities/adamstown.yaml) — Adamstown has stronger globally known maritime history and greater isolation.
+- [city-sh-edinburgh-seven-seas](../../../countries/SH/cities/edinburgh-seven-seas.yaml) — Edinburgh of the Seven Seas has more unusual geographical isolation.
+- [city-nf-burnt-pine](../../../countries/NF/cities/burnt-pine.yaml) — Burnt Pine has broader services, but less distinctive local food and cultural identity.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -145,10 +145,10 @@ Census 2026 internal representative coordinates used for villages. Village cultu
 - Missing or uncertain facts: independent complete material claim verification, current local access and conditions, built visitor scope.
 
 ### Worldwide peer comparisons
-- [city-cc-bantam](../../../countries/CC/cities/bantam.yaml) — compare built settlement scale, geographic context and cultural experience; remote location alone does not establish depth.
-- [city-pn-adamstown](../../../countries/PN/cities/adamstown.yaml) — compare built settlement scale, geographic context and cultural experience; remote location alone does not establish depth.
-- [city-sh-edinburgh-seven-seas](../../../countries/SH/cities/edinburgh-seven-seas.yaml) — compare built settlement scale, geographic context and cultural experience; remote location alone does not establish depth.
-- [city-nf-burnt-pine](../../../countries/NF/cities/burnt-pine.yaml) — compare built settlement scale, geographic context and cultural experience; remote location alone does not establish depth.
+- [city-cc-bantam](../../../countries/CC/cities/bantam.yaml) — Bantam has more established cultural interpretation and village facilities.
+- [city-pn-adamstown](../../../countries/PN/cities/adamstown.yaml) — Adamstown has a more globally distinctive settlement history.
+- [city-sh-edinburgh-seven-seas](../../../countries/SH/cities/edinburgh-seven-seas.yaml) — Edinburgh of the Seven Seas has greater isolation and stronger historical context.
+- [city-nf-burnt-pine](../../../countries/NF/cities/burnt-pine.yaml) — Burnt Pine provides more visitor services, but Ofu has a stronger volcanic setting.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -178,10 +178,10 @@ Census 2026 internal representative coordinates used for villages. Village cultu
 - Missing or uncertain facts: independent complete material claim verification, current local access and conditions, built visitor scope.
 
 ### Worldwide peer comparisons
-- [city-cc-bantam](../../../countries/CC/cities/bantam.yaml) — compare built settlement scale, geographic context and cultural experience; remote location alone does not establish depth.
-- [city-pn-adamstown](../../../countries/PN/cities/adamstown.yaml) — compare built settlement scale, geographic context and cultural experience; remote location alone does not establish depth.
-- [city-sh-edinburgh-seven-seas](../../../countries/SH/cities/edinburgh-seven-seas.yaml) — compare built settlement scale, geographic context and cultural experience; remote location alone does not establish depth.
-- [city-nf-burnt-pine](../../../countries/NF/cities/burnt-pine.yaml) — compare built settlement scale, geographic context and cultural experience; remote location alone does not establish depth.
+- [city-cc-bantam](../../../countries/CC/cities/bantam.yaml) — Bantam has more established village-based cultural visits.
+- [city-pn-adamstown](../../../countries/PN/cities/adamstown.yaml) — Adamstown has stronger historical distinctiveness and similarly limited breadth.
+- [city-sh-edinburgh-seven-seas](../../../countries/SH/cities/edinburgh-seven-seas.yaml) — Edinburgh of the Seven Seas has more exceptional isolation and documented village tours.
+- [city-nf-burnt-pine](../../../countries/NF/cities/burnt-pine.yaml) — Burnt Pine has greater practical visitor services, but a less dramatic backdrop.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -211,10 +211,10 @@ Census 2026 internal representative coordinates used for villages. Village cultu
 - Missing or uncertain facts: independent complete material claim verification, current local access and conditions, built visitor scope.
 
 ### Worldwide peer comparisons
-- [city-cc-bantam](../../../countries/CC/cities/bantam.yaml) — compare built settlement scale, geographic context and cultural experience; remote location alone does not establish depth.
-- [city-pn-adamstown](../../../countries/PN/cities/adamstown.yaml) — compare built settlement scale, geographic context and cultural experience; remote location alone does not establish depth.
-- [city-sh-edinburgh-seven-seas](../../../countries/SH/cities/edinburgh-seven-seas.yaml) — compare built settlement scale, geographic context and cultural experience; remote location alone does not establish depth.
-- [city-nf-burnt-pine](../../../countries/NF/cities/burnt-pine.yaml) — compare built settlement scale, geographic context and cultural experience; remote location alone does not establish depth.
+- [city-cc-bantam](../../../countries/CC/cities/bantam.yaml) — Bantam has a stronger documented visitor cultural offer.
+- [city-pn-adamstown](../../../countries/PN/cities/adamstown.yaml) — Adamstown has greater isolation and a more globally recognized maritime story.
+- [city-sh-edinburgh-seven-seas](../../../countries/SH/cities/edinburgh-seven-seas.yaml) — Edinburgh of the Seven Seas has more exceptional remoteness and settlement history.
+- [city-nf-burnt-pine](../../../countries/NF/cities/burnt-pine.yaml) — Burnt Pine has greater commercial breadth but less distinctive traditional village scenery.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
