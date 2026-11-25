@@ -17,7 +17,7 @@
 - Experience 8.7: guided demanding hike.
 - Depth 8.1: single mountain ascent.
 - Categories: nature:9.5, adventure:9.4, photography:9.4. Overall: 89.80/100.
-- High-score challenge: Nature 9.5 and total above 90 reflect exceptional caldera breadth and active volcanic landscape; limited access and depth prevent a global maximum.. No approved 10.
+- High-score challenge: Nature 9.5 reflects exceptional caldera breadth and active volcanic landscape; limited access and depth prevent a global maximum.. No approved 10.
 - Evidence: [Source context](https://komori-iles.com/voyager/) (accessed 2026-11-25); identity or regional context only, not complete verification.
 - Remaining gaps: Independent site-specific facts, access, GPS where unchecked, category and peer verification.
 
