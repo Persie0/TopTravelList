@@ -2,7 +2,7 @@
 
 # Mauritius (MU) — Sights & attractions ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**59 ranked** · **4 unassessed** · **63 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,11 +10,80 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, or click its GPS coordinates to open **Google Maps**. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (59)
 
-No sights & attractions have been assessed for **Mauritius** yet.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps |
+| ---: | --- | --- | ---: | --- | --- | --- |
+| 1 | [Le Morne Cultural Landscape](sights/le-morne-cultural-landscape.yaml) | Coast | **93.45** | **History 9.7**, **Culture 9.6**, **Photography 9.6**, Nature 9.4, Adventure 9.2 | 9.5 / 9.4 / 9.6 / 9.1 / 8.6 | [-20.451944, 57.328333](https://www.google.com/maps/search/?api=1&query=-20.451944,57.328333) |
+| 2 | [Black River Gorges National Park](sights/black-river-gorges-national-park.yaml) | Park / reserve | **89.20** | **Nature 9.3**, **Wildlife 9.2**, **Adventure 9.1**, Photography 9.0 | 9.0 / 8.9 / 8.8 / 8.9 / 9.0 | [-20.409, 57.446](https://www.google.com/maps/search/?api=1&query=-20.409,57.446) |
+| 3 | [Ganga Talao (Grand Bassin)](sights/ganga-talao-grand-bassin.yaml) | Attraction | **86.35** | **Culture 9.4**, **History 9.1**, **Photography 8.7**, Architecture 8.4 | 8.5 / 8.8 / 9.1 / 8.5 / 7.9 | [-20.416, 57.491](https://www.google.com/maps/search/?api=1&query=-20.416,57.491) |
+| 4 | [Francois Leguat Giant Tortoise and Cave Reserve](sights/francois-leguat-giant-tortoise-and-cave-reserve.yaml) | Cave | **85.90** | **Wildlife 9.3**, **Nature 8.9**, **Family 8.5** | 8.4 / 8.9 / 8.6 / 8.7 / 8.2 | [-19.758, 63.359](https://www.google.com/maps/search/?api=1&query=-19.758,63.359) |
+| 5 | [Sir Seewoosagur Ramgoolam Botanical Garden](sights/sir-seewoosagur-ramgoolam-botanical-garden.yaml) | Garden | **85.25** | **Nature 9.1**, **History 8.7**, **Photography 8.7**, Family 8.4 | 8.3 / 8.7 / 8.7 / 8.6 / 8.3 | [-20.106, 57.579](https://www.google.com/maps/search/?api=1&query=-20.106,57.579) |
+| 6 | [Le Morne Beach](sights/le-morne-beach.yaml) | Beach / bay | **85.20** | **Beaches 9.4**, **Photography 9.4**, **Adventure 9.0** | 9.3 / 8.9 / 6.9 / 8.9 / 7.9 | [-20.458, 57.311](https://www.google.com/maps/search/?api=1&query=-20.458,57.311) |
+| 7 | [Blue Bay Marine Park](sights/blue-bay-marine-park.yaml) | Park / reserve | **84.95** | **Adventure 9.0**, **Nature 9.0**, **Wildlife 8.8** | 8.6 / 8.5 / 8.4 / 8.8 / 7.9 | [-20.443, 57.713](https://www.google.com/maps/search/?api=1&query=-20.443,57.713) |
+| 8 | [Ile aux Cocos (Rodrigues)](sights/ile-aux-cocos-rodrigues.yaml) | Attraction | **84.75** | **Wildlife 9.2**, **Nature 9.1**, **Photography 8.9** | 8.6 / 8.8 / 8.5 / 8.5 / 7.2 | [-19.718, 63.297](https://www.google.com/maps/search/?api=1&query=-19.718,63.297) |
+| 9 | [Aapravasi Ghat](sights/aapravasi-ghat.yaml) | Attraction | **84.60** | **History 9.6**, **Culture 9.4**, **Architecture 7.7** | 7.7 / 9.2 / 9.6 / 8.2 / 7.0 | [-20.158639, 57.503167](https://www.google.com/maps/search/?api=1&query=-20.158639,57.503167) |
+| 9 | [Ile aux Aigrettes Nature Reserve](sights/ile-aux-aigrettes-nature-reserve.yaml) | Park / reserve | **84.60** | **Wildlife 9.3**, **Nature 9.1** | 8.0 / 8.9 / 9.0 / 8.5 / 7.6 | [-20.42, 57.732](https://www.google.com/maps/search/?api=1&query=-20.42,57.732) |
+| 9 | [Tamarind Falls (Seven Cascades)](sights/tamarind-falls-seven-cascades.yaml) | Waterfall | **84.60** | **Adventure 9.2**, **Nature 9.0**, **Photography 9.0** | 8.9 / 8.6 / 7.3 / 9.0 / 8.3 | [-20.349, 57.467](https://www.google.com/maps/search/?api=1&query=-20.349,57.467) |
+| 12 | [Ebony Forest Chamarel](sights/ebony-forest-chamarel.yaml) | Forest | **84.50** | **Nature 9.1**, **Photography 8.8**, **Wildlife 8.7** | 8.4 / 8.7 / 8.5 / 8.5 / 7.8 | [-20.439, 57.369](https://www.google.com/maps/search/?api=1&query=-20.439,57.369) |
+| 13 | [Chamarel Seven Coloured Earth](sights/chamarel-seven-coloured-earth.yaml) | Attraction | **83.70** | **Photography 9.3**, **Nature 9.1** | 8.7 / 9.2 / 7.8 / 8.2 / 6.7 | [-20.44, 57.373](https://www.google.com/maps/search/?api=1&query=-20.44,57.373) |
+| 14 | [Ile aux Cerfs](sights/ile-aux-cerfs.yaml) | Attraction | **82.15** | **Beaches 9.3**, **Relaxation 9.2**, **Photography 9.1**, Adventure 8.5 | 9.0 / 8.4 / 6.4 / 8.9 / 8.0 | [-20.272, 57.803](https://www.google.com/maps/search/?api=1&query=-20.272,57.803) |
+| 15 | [Trou d'Argent (Rodrigues)](sights/trou-d-argent-rodrigues.yaml) | Attraction | **82.05** | **Beaches 9.2**, **Photography 9.2**, **Adventure 8.3** | 9.0 / 8.7 / 6.6 / 8.6 / 7.2 | [-19.72, 63.496](https://www.google.com/maps/search/?api=1&query=-19.72,63.496) |
+| 16 | [L'Aventure du Sucre](sights/l-aventure-du-sucre.yaml) | Attraction | **81.85** | **History 8.9**, **Culture 8.6**, **Family 8.3** | 7.6 / 8.4 / 8.6 / 8.5 / 8.1 | [-20.098, 57.568](https://www.google.com/maps/search/?api=1&query=-20.098,57.568) |
+| 17 | [Chamarel Waterfall](sights/chamarel-waterfall.yaml) | Waterfall | **81.65** | **Photography 9.3**, **Nature 9.0** | 9.0 / 8.4 / 7.2 / 8.3 / 6.8 | [-20.44, 57.38](https://www.google.com/maps/search/?api=1&query=-20.44,57.38) |
+| 18 | [Pieter Both Mountain](sights/pieter-both-mountain.yaml) | Mountain / peak | **81.50** | **Photography 9.2**, **Adventure 9.0**, **Nature 8.7** | 8.7 / 8.8 / 7.2 / 8.0 / 7.0 | [-20.19, 57.538](https://www.google.com/maps/search/?api=1&query=-20.19,57.538) |
+| 19 | [Le Pouce Mountain](sights/le-pouce-mountain.yaml) | Mountain / peak | **81.15** | **Photography 9.1**, **Adventure 8.9**, **Nature 8.6** | 8.6 / 8.3 / 7.0 / 8.8 / 7.4 | [-20.198, 57.51](https://www.google.com/maps/search/?api=1&query=-20.198,57.51) |
+| 20 | [Caverne Patate](sights/caverne-patate.yaml) | Attraction | **80.45** | **Nature 8.6**, **Adventure 8.4**, **Photography 8.2** | 8.1 / 8.5 / 7.8 / 8.2 / 7.0 | [-19.759, 63.374](https://www.google.com/maps/search/?api=1&query=-19.759,63.374) |
+| 21 | [Eureka House](sights/eureka-house.yaml) | Attraction | **80.30** | **Architecture 8.5**, **History 8.5**, **Culture 8.2** | 7.8 / 8.3 / 8.2 / 8.1 / 7.6 | [-20.224, 57.497](https://www.google.com/maps/search/?api=1&query=-20.224,57.497) |
+| 22 | [Black River Gorges Viewpoint](sights/black-river-gorges-viewpoint.yaml) | River / waterway | **80.25** | **Photography 9.3**, **Nature 9.0** | 8.9 / 8.3 / 7.0 / 8.2 / 6.5 | [-20.426, 57.433](https://www.google.com/maps/search/?api=1&query=-20.426,57.433) |
+| 22 | [Grande Montagne Nature Reserve](sights/grande-montagne-nature-reserve.yaml) | Park / reserve | **80.25** | **Nature 8.8**, **Wildlife 8.7** | 7.6 / 8.5 / 8.5 / 8.0 / 7.2 | [-19.713, 63.448](https://www.google.com/maps/search/?api=1&query=-19.713,63.448) |
+| 24 | [Blue Penny Museum](sights/blue-penny-museum.yaml) | Museum / heritage | **80.15** | **History 9.0**, **Culture 8.5** | 7.3 / 8.7 / 8.6 / 8.0 / 7.3 | [-20.162, 57.496](https://www.google.com/maps/search/?api=1&query=-20.162,57.496) |
+| 24 | [Chateau de Labourdonnais](sights/chateau-de-labourdonnais.yaml) | Palace / castle | **80.15** | **Architecture 8.5**, **History 8.3**, **Culture 8.2** | 7.9 / 8.2 / 8.0 / 8.3 / 7.5 | [-20.059, 57.624](https://www.google.com/maps/search/?api=1&query=-20.059,57.624) |
+| 26 | [Coin de Mire (Gunner's Quoin)](sights/coin-de-mire-gunner-s-quoin.yaml) | Attraction | **80.05** | **Photography 9.0**, **Nature 8.7**, **Adventure 8.4** | 8.5 / 8.4 / 7.3 / 8.1 / 6.8 | [-19.935, 57.612](https://www.google.com/maps/search/?api=1&query=-19.935,57.612) |
+| 27 | [Gris Gris Cliffs](sights/gris-gris-cliffs.yaml) | Attraction | **80.00** | **Photography 9.1**, **Nature 8.7** | 8.8 / 8.5 / 6.8 / 8.1 / 6.6 | [-20.525, 57.534](https://www.google.com/maps/search/?api=1&query=-20.525,57.534) |
+| 28 | [Trou aux Biches Beach](sights/trou-aux-biches-beach.yaml) | Beach / bay | **79.95** | **Beaches 9.1**, **Relaxation 9.1**, **Photography 8.7** | 8.8 / 8.0 / 6.3 / 8.9 / 7.6 | [-20.032, 57.545](https://www.google.com/maps/search/?api=1&query=-20.032,57.545) |
+| 29 | [Belle Mare Beach](sights/belle-mare-beach.yaml) | Beach / bay | **79.60** | **Beaches 9.2**, **Relaxation 9.0**, **Photography 8.8** | 8.8 / 8.0 / 6.3 / 8.6 / 7.7 | [-20.195, 57.781](https://www.google.com/maps/search/?api=1&query=-20.195,57.781) |
+| 30 | [Bois Cheri Tea Factory and Museum](sights/bois-cheri-tea-factory-and-museum.yaml) | Museum / heritage | **79.45** | **Food 8.5**, **Culture 8.2**, **History 8.1** | 7.7 / 8.2 / 7.9 / 8.3 / 7.6 | [-20.423, 57.531](https://www.google.com/maps/search/?api=1&query=-20.423,57.531) |
+| 31 | [Ile d'Ambre National Park](sights/ile-d-ambre-national-park.yaml) | Park / reserve | **79.10** | **Adventure 8.5**, **Nature 8.5**, **Wildlife 8.0** | 7.9 / 8.2 / 7.8 / 8.2 / 7.0 | [-20.044, 57.681](https://www.google.com/maps/search/?api=1&query=-20.044,57.681) |
+| 32 | [Flic en Flac Beach](sights/flic-en-flac-beach.yaml) | Beach / bay | **79.00** | **Relaxation 9.0**, **Beaches 8.9**, **Photography 8.5** | 8.6 / 7.8 / 6.2 / 8.8 / 8.1 | [-20.283, 57.364](https://www.google.com/maps/search/?api=1&query=-20.283,57.364) |
+| 33 | [Ile aux Fouquets (Ile au Phare)](sights/ile-aux-fouquets-ile-au-phare.yaml) | Attraction | **78.35** | **Photography 8.6**, **History 8.4**, **Nature 8.1** | 8.0 / 8.2 / 7.9 / 7.7 / 6.5 | [-20.395, 57.789](https://www.google.com/maps/search/?api=1&query=-20.395,57.789) |
+| 34 | [La Vanille Nature Park](sights/la-vanille-nature-park.yaml) | Park / square | **78.25** | **Family 8.8**, **Wildlife 8.8**, **Nature 8.1** | 7.8 / 8.0 / 7.2 / 8.5 / 7.7 | [-20.495, 57.563](https://www.google.com/maps/search/?api=1&query=-20.495,57.563) |
+| 35 | [Anse Mourouk](sights/anse-mourouk.yaml) | Attraction | **78.00** | **Adventure 9.0**, **Beaches 8.5**, **Photography 8.5** | 8.4 / 8.1 / 6.2 / 8.5 / 7.4 | [-19.746, 63.464](https://www.google.com/maps/search/?api=1&query=-19.746,63.464) |
+| 36 | [Jummah Mosque](sights/jummah-mosque.yaml) | Religious site | **77.80** | **Architecture 8.5**, **Culture 8.5**, **History 8.3** | 7.7 / 8.1 / 8.1 / 7.7 / 6.7 | [-20.159, 57.506](https://www.google.com/maps/search/?api=1&query=-20.159,57.506) |
+| 37 | [Flat Island (Ile Plate)](sights/flat-island-ile-plate.yaml) | Island | **77.70** | **Beaches 8.6**, **Photography 8.6**, **Nature 8.5** | 8.3 / 8.1 / 6.7 / 8.1 / 7.0 | [-19.885, 57.654](https://www.google.com/maps/search/?api=1&query=-19.885,57.654) |
+| 38 | [Rochester Falls](sights/rochester-falls.yaml) | Waterfall | **77.45** | **Photography 8.6**, **Nature 8.5** | 8.2 / 8.3 / 6.8 / 8.0 / 6.5 | [-20.509, 57.523](https://www.google.com/maps/search/?api=1&query=-20.509,57.523) |
+| 39 | [Port Louis Central Market](sights/port-louis-central-market.yaml) | Market | **77.30** | **Food 8.7**, **Culture 8.5** | 7.5 / 7.9 / 7.5 / 8.5 / 7.3 | [-20.16, 57.504](https://www.google.com/maps/search/?api=1&query=-20.16,57.504) |
+| 40 | [Bras d'Eau National Park](sights/bras-d-eau-national-park.yaml) | Park / reserve | **77.15** | **Nature 8.4**, **Adventure 8.0**, **Wildlife 8.0** | 7.6 / 7.8 / 7.9 / 7.9 / 7.2 | [-20.113, 57.735](https://www.google.com/maps/search/?api=1&query=-20.113,57.735) |
+| 40 | [Mont Choisy Beach](sights/mont-choisy-beach.yaml) | Beach / bay | **77.15** | **Beaches 8.9**, **Relaxation 8.9** | 8.5 / 7.7 / 6.0 / 8.6 / 7.5 | [-20.016, 57.555](https://www.google.com/maps/search/?api=1&query=-20.016,57.555) |
+| 40 | [National History Museum (Mahebourg)](sights/national-history-museum-mahebourg.yaml) | Museum / heritage | **77.15** | **History 8.7**, **Culture 8.2** | 7.3 / 8.0 / 8.3 / 7.7 / 7.1 | [-20.417, 57.701](https://www.google.com/maps/search/?api=1&query=-20.417,57.701) |
+| 43 | [Natural History Museum (Port Louis)](sights/natural-history-museum-port-louis.yaml) | Museum / heritage | **77.10** | **Nature 8.5**, **History 8.4** | 7.1 / 8.4 / 8.2 / 7.6 / 7.0 | [-20.163, 57.504](https://www.google.com/maps/search/?api=1&query=-20.163,57.504) |
+| 44 | [Blue Bay Beach](sights/blue-bay-beach.yaml) | Beach / bay | **76.45** | **Beaches 8.6**, **Relaxation 8.5** | 8.3 / 7.8 / 6.1 / 8.5 / 7.1 | [-20.444, 57.717](https://www.google.com/maps/search/?api=1&query=-20.444,57.717) |
+| 45 | [Tamarin Bay](sights/tamarin-bay.yaml) | Beach / bay | **76.35** | **Adventure 8.5**, **Photography 8.4**, **Beaches 8.0** | 8.2 / 7.8 / 6.3 / 8.3 / 7.2 | [-20.324, 57.373](https://www.google.com/maps/search/?api=1&query=-20.324,57.373) |
+| 46 | [Rhumerie de Chamarel](sights/rhumerie-de-chamarel.yaml) | Attraction | **76.30** | **Food 8.6**, **Culture 7.8** | 7.5 / 7.9 / 7.3 / 8.3 / 7.0 | [-20.42, 57.383](https://www.google.com/maps/search/?api=1&query=-20.42,57.383) |
+| 47 | [Maconde Viewpoint](sights/maconde-viewpoint.yaml) | Tower / viewpoint | **76.05** | **Photography 9.1**, **Nature 8.5** | 8.6 / 8.2 / 6.2 / 7.7 / 5.8 | [-20.488, 57.355](https://www.google.com/maps/search/?api=1&query=-20.488,57.355) |
+| 48 | [Fort Adelaide (Citadel)](sights/fort-adelaide-citadel.yaml) | Fortification | **75.95** | **Photography 8.6**, **History 8.3**, **Architecture 7.7** | 7.7 / 7.5 / 7.9 / 7.8 / 6.6 | [-20.164, 57.513](https://www.google.com/maps/search/?api=1&query=-20.164,57.513) |
+| 49 | [Trou aux Cerfs](sights/trou-aux-cerfs.yaml) | Attraction | **75.50** | **Nature 8.3**, **Photography 8.2** | 7.8 / 8.0 / 7.1 / 7.6 / 6.5 | [-20.318, 57.521](https://www.google.com/maps/search/?api=1&query=-20.318,57.521) |
+| 50 | [Alexandra Falls Viewpoint](sights/alexandra-falls-viewpoint.yaml) | Waterfall | **75.20** | **Photography 8.7**, **Nature 8.4** | 8.2 / 7.8 / 6.6 / 7.8 / 6.2 | [-20.427, 57.469](https://www.google.com/maps/search/?api=1&query=-20.427,57.469) |
+| 51 | [Pereybere Beach](sights/pereybere-beach.yaml) | Beach / bay | **74.60** | **Beaches 8.6**, **Relaxation 8.6** | 8.2 / 7.5 / 5.9 / 8.5 / 6.7 | [-19.995, 57.591](https://www.google.com/maps/search/?api=1&query=-19.995,57.591) |
+| 52 | [Frederik Hendrik Museum](sights/frederik-hendrik-museum.yaml) | Museum / heritage | **74.50** | **History 8.7**, **Culture 8.0** | 6.8 / 7.9 / 8.3 / 7.5 / 6.5 | [-20.372, 57.718](https://www.google.com/maps/search/?api=1&query=-20.372,57.718) |
+| 53 | [Saint Gabriel Cathedral](sights/saint-gabriel-cathedral.yaml) | Religious site | **74.25** | **Culture 8.2**, **History 8.2**, **Architecture 8.0** | 7.3 / 7.6 / 7.9 / 7.5 / 6.3 | [-19.721, 63.421](https://www.google.com/maps/search/?api=1&query=-19.721,63.421) |
+| 54 | [Mont Limon](sights/mont-limon.yaml) | Attraction | **74.10** | **Photography 8.6**, **Nature 8.2**, **Adventure 7.8** | 7.9 / 7.7 / 6.5 / 7.9 / 6.3 | [-19.712, 63.433](https://www.google.com/maps/search/?api=1&query=-19.712,63.433) |
+| 55 | [Casela Nature Parks](sights/casela-nature-parks.yaml) | Park / square | **73.90** | **Family 8.7**, **Adventure 8.6**, **Wildlife 7.8** | 7.8 / 7.1 / 5.9 / 8.5 / 8.2 | [-20.291, 57.402](https://www.google.com/maps/search/?api=1&query=-20.291,57.402) |
+| 56 | [Caudan Waterfront](sights/caudan-waterfront.yaml) | Attraction | **73.05** | **Food 8.1**, **Relaxation 8.1**, **Culture 7.5** | 7.4 / 7.0 / 6.6 / 8.3 / 7.7 | [-20.162, 57.497](https://www.google.com/maps/search/?api=1&query=-20.162,57.497) |
+| 57 | [Port Mathurin Market](sights/port-mathurin-market.yaml) | Market | **72.90** | **Culture 8.4**, **Food 8.3** | 7.0 / 7.7 / 7.0 / 8.1 / 6.5 | [-19.683, 63.417](https://www.google.com/maps/search/?api=1&query=-19.683,63.417) |
+| 58 | [Biscuiterie Rault](sights/biscuiterie-rault.yaml) | Attraction | **71.55** | **Food 8.2**, **Culture 8.0** | 6.5 / 7.9 / 7.3 / 7.8 / 6.0 | [-20.405, 57.698](https://www.google.com/maps/search/?api=1&query=-20.405,57.698) |
+| 59 | [Grand Baie Public Beach](sights/grand-baie-public-beach.yaml) | Beach / bay | **69.30** | **Relaxation 7.8**, **Beaches 7.6** | 7.5 / 6.8 / 5.8 / 7.8 / 6.5 | [-20.012, 57.583](https://www.google.com/maps/search/?api=1&query=-20.012,57.583) |
 
-Add destination YAML files in [sights/](sights/), then regenerate the overview files.
+## Not yet fully assessed (4)
+
+These destinations have no rank until all five core scores are assessed.
+
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps |
+| ---: | --- | --- | ---: | --- | --- | --- |
+| — | [Agalega Islands](sights/agalega-islands.yaml) | Island | **—** | **Nature 8.0** | — / — / 7.3 / — / — | [-10.4, 56.6](https://www.google.com/maps/search/?api=1&query=-10.4,56.6) |
+| — | [Ile aux Flamants National Park](sights/ile-aux-flamants-national-park.yaml) | Park / reserve | **—** | **Nature 8.0** | — / — / 7.6 / — / — | [-20.38, 57.785](https://www.google.com/maps/search/?api=1&query=-20.38,57.785) |
+| — | [Round Island Nature Reserve](sights/round-island-nature-reserve.yaml) | Park / reserve | **—** | **Wildlife 9.2**, **Nature 9.1** | — / — / 8.8 / — / — | [-19.85, 57.787](https://www.google.com/maps/search/?api=1&query=-19.85,57.787) |
+| — | [Saint Brandon (Cargados Carajos)](sights/saint-brandon-cargados-carajos.yaml) | Attraction | **—** | **Nature 9.0**, **Wildlife 8.8** | — / — / 8.4 / — / — | [-16.6, 59.65](https://www.google.com/maps/search/?api=1&query=-16.6,59.65) |
 
 ---
 

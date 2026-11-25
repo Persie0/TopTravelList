@@ -1,0 +1,15 @@
+id: sight-mu-grand-baie-public-beach
+name: "Grand Baie Public Beach"
+location:
+  country_code: MU
+  latitude: -20.0120
+  longitude: 57.5830
+scores:
+  impact: 7.5
+  uniqueness: 6.8
+  significance: 5.8
+  experience: 7.8
+  depth: 6.5
+  categories:
+    beaches: 7.6
+    relaxation: 7.8

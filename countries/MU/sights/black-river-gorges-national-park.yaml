@@ -1,0 +1,17 @@
+id: sight-mu-black-river-gorges-national-park
+name: "Black River Gorges National Park"
+location:
+  country_code: MU
+  latitude: -20.4090
+  longitude: 57.4460
+scores:
+  impact: 9.0
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 8.9
+  depth: 9.0
+  categories:
+    nature: 9.3
+    wildlife: 9.2
+    adventure: 9.1
+    photography: 9.0

@@ -1,0 +1,15 @@
+id: sight-mu-alexandra-falls-viewpoint
+name: "Alexandra Falls Viewpoint"
+location:
+  country_code: MU
+  latitude: -20.4270
+  longitude: 57.4690
+scores:
+  impact: 8.2
+  uniqueness: 7.8
+  significance: 6.6
+  experience: 7.8
+  depth: 6.2
+  categories:
+    photography: 8.7
+    nature: 8.4
