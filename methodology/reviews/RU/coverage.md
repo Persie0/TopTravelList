@@ -1,0 +1,3 @@
+# Russia initial heritage coverage
+
+[UNESCO national list](https://whc.unesco.org/en/statesparties/ru), 2026-11-25: all 33 inscribed represented. Four tentative nominations represented: Irkutsk historic centre, Rostov Kremlin, Krasnoyarsk Stolby, Denisova Cave. Remaining 28 tentative nominations require scope and duplicate review against national list; some overlap existing inscribed sites (e.g. re-nominations). This is a non-exhaustive national inventory, including European and Asian Russia within internationally recognized borders. Independent GPS, source-specific facts, visitor evidence and live comparison remain outstanding.
