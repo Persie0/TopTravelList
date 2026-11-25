@@ -1,0 +1,15 @@
+id: sight-fr-finistere-enclosures
+name: "Parish closes of Finistère (tentative series)"
+location:
+  country_code: FR
+  latitude: 48.5
+  longitude: -4.0
+scores:
+  impact: 8.8
+  uniqueness: 9.1
+  significance: 9.1
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.3
+    history: 9.2

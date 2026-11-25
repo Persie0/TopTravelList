@@ -1,0 +1,16 @@
+id: city-fr-nice
+name: "Nice"
+location:
+  country_code: FR
+  latitude: 43.7102
+  longitude: 7.262
+scores:
+  impact: 8.9
+  uniqueness: 8.7
+  significance: 8.7
+  experience: 9.2
+  depth: 8.9
+  categories:
+    architecture: 9.1
+    beaches: 9.0
+    relaxation: 9.3

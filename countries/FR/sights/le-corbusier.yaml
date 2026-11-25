@@ -1,0 +1,15 @@
+id: sight-fr-le-corbusier
+name: "Architectural Work of Le Corbusier (French components)"
+location:
+  country_code: FR
+  latitude: 48.924
+  longitude: 2.028
+scores:
+  impact: 8.7
+  uniqueness: 9.3
+  significance: 9.5
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.5
+    history: 9.3

@@ -1,0 +1,16 @@
+id: city-fr-albi
+name: "Albi"
+location:
+  country_code: FR
+  latitude: 43.9298
+  longitude: 2.148
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 8.9
+  experience: 8.7
+  depth: 8.2
+  categories:
+    architecture: 9.3
+    history: 9.2
+    culture: 9.0

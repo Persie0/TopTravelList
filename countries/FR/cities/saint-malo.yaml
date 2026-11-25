@@ -1,0 +1,16 @@
+id: city-fr-saint-malo
+name: "Saint-Malo"
+location:
+  country_code: FR
+  latitude: 48.6493
+  longitude: -2.0257
+scores:
+  impact: 9.0
+  uniqueness: 8.9
+  significance: 8.7
+  experience: 8.9
+  depth: 8.2
+  categories:
+    architecture: 9.2
+    photography: 9.4
+    history: 9.1
