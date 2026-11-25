@@ -416,3 +416,40 @@
 - Final decision: provisional worldwide ranking for documented visitor scope, not independent factual verification.
 - Earlier decision: earlier entry for this ID, originally unranked.
 - Verification still needed: Village proper only; exclude Jaluit's lagoon, other islets and separate conservation area. Confirm hosted access and individual surviving heritage sites.
+
+### city-mh-wotje — Wotje Village — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/MH/cities/wotje.yaml)
+- Action: rescore
+- Precise subject: Only the named village and immediately adjacent permitted heritage walks; exclude other villages, remote beaches and the entire atoll. Do not infer access to derelict structures; confirm current local guidance.
+- Location check: Existing rounded village coordinate corroborated by named geographic source.
+- Evidence status: source-linked-unverified
+- Checked factual reference excerpts (2026-11-25):
+  - Marshall Islands tourism office lists local guide service and handicraft business — https://www.ocit.mh/ao-kapijuknen-businesses/wotje-lodging-and-crafts
+  - Pacific Tourism Organisation confirms craft traditions and newly bookable experiences in Wotje — https://southpacificislands.travel/marshall-islands-takes-major-step-forward-in-tourism-accessibility-with-over-20-experiences-now-bookable-online/
+  - Visitor guide identifies historic structures near the main village — https://marshallislandspocketguide.com/sightseeing-in-wotje-top-sights-on-wotje
+  - GeoNames/Geodatos city point 9.45429, 170.23674 corroborates existing rounded coordinate — https://www.geodatos.net/en/coordinates/marshall-islands/wotje
+- Missing or uncertain facts: Only the named village and immediately adjacent permitted heritage walks; exclude other villages, remote beaches and the entire atoll. Do not infer access to derelict structures; confirm current local guidance.
+
+#### Worldwide peer comparisons
+- Levuka (Fiji): greater built ensemble
+- Kampot (Cambodia): more diverse urban experiences
+- Koh Ker Village (Cambodia): stronger archaeological context
+- Jabor (Marshall Islands): similarly compact historical port
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | null | 6.8 | Modest coastal settlement with surviving historic structures |
+| Uniqueness | null | 7.4 | Distinctive atoll settlement combining craft traditions and twentieth-century history |
+| Significance | null | 7.6 | Substantial regional wartime and living craft heritage |
+| Experience | null | 7.1 | Local shops and guided village heritage walks |
+| Depth | null | 6.8 | Several local landmarks and craft experiences without entire-atoll credit |
+
+- Applicable category scores: none assessed (unchanged).
+- Computed worldwide overall: 71.55/100
+- High-score challenge: no 9.5+ field or 90+ total.
+- Approved 10 registry: none.
+- Final decision: provisional worldwide assessment based on documented local experiences, not complete factual verification.
+- Earlier decision: earlier entry for this ID, originally unranked.
+- Verification still needed: Only the named village and immediately adjacent permitted heritage walks; exclude other villages, remote beaches and the entire atoll. Do not infer access to derelict structures; confirm current local guidance.
