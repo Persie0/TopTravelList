@@ -1,0 +1,15 @@
+id: sight-ao-kalandula-falls
+name: "Kalandula Falls"
+location:
+  country_code: AO
+  latitude: -9.0741
+  longitude: 16.0003
+scores:
+  impact: 9.5
+  uniqueness: 9.0
+  significance: 8.4
+  experience: 8.8
+  depth: 8.1
+  categories:
+    nature: 9.4
+    photography: 9.4
