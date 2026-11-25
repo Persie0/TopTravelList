@@ -1,0 +1,14 @@
+id: sight-tt-maracas-lookout
+name: "Maracas Lookout"
+location:
+  country_code: TT
+  latitude: 10.752
+  longitude: -61.47
+scores:
+  impact: 7.6
+  uniqueness: 7.3
+  significance: 6.3
+  experience: 7.7
+  depth: 5.7
+  categories:
+    photography: 8.8

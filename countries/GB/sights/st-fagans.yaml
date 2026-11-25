@@ -1,0 +1,16 @@
+id: sight-gb-st-fagans
+name: "St Fagans National Museum of History"
+location:
+  country_code: GB
+  latitude: 51.486
+  longitude: -3.273
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 8.8
+  experience: 9.0
+  depth: 9.0
+  categories:
+    culture: 9.3
+    history: 9.2
+    architecture: 9.0

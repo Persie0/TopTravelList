@@ -1,0 +1,15 @@
+id: sight-sz-dombeya-game-reserve
+name: "Dombeya Game Reserve"
+location:
+  country_code: SZ
+  latitude: -26.3240
+  longitude: 31.6690
+scores:
+  impact: 7.7
+  uniqueness: 7.7
+  significance: 7.4
+  experience: 8.2
+  depth: 7.2
+  categories:
+    wildlife: 8.4
+    nature: 8.3

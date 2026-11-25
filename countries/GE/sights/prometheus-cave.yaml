@@ -1,0 +1,15 @@
+id: sight-ge-prometheus-cave
+name: "Prometheus Cave"
+location:
+  country_code: GE
+  latitude: 42.377
+  longitude: 42.601
+scores:
+  impact: 8.5
+  uniqueness: 8.1
+  significance: 7.6
+  experience: 8.4
+  depth: 7.7
+  categories:
+    nature: 8.6
+    photography: 8.6

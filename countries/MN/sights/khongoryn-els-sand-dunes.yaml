@@ -1,0 +1,16 @@
+id: sight-mn-khongoryn-els-sand-dunes
+name: "Khongoryn Els Sand Dunes"
+location:
+  country_code: MN
+  latitude: 43.77
+  longitude: 102.3
+scores:
+  impact: 9.4
+  uniqueness: 9.0
+  significance: 8.0
+  experience: 9.1
+  depth: 8.5
+  categories:
+    nature: 9.2
+    photography: 9.5
+    adventure: 9.1

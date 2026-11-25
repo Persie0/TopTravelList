@@ -1,0 +1,16 @@
+id: sight-dk-mols-bjerge
+name: "Mols Bjerge National Park"
+location:
+  country_code: DK
+  latitude: 56.23
+  longitude: 10.57
+scores:
+  impact: 8.1
+  uniqueness: 8.1
+  significance: 8.0
+  experience: 8.7
+  depth: 8.4
+  categories:
+    nature: 8.8
+    relaxation: 8.7
+    adventure: 8.5

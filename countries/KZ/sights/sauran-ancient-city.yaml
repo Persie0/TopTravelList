@@ -1,0 +1,15 @@
+id: sight-kz-sauran-ancient-city
+name: "Sauran Ancient City"
+location:
+  country_code: KZ
+  latitude: 43.516
+  longitude: 67.77
+scores:
+  impact: 8.0
+  uniqueness: 8.6
+  significance: 8.9
+  experience: 8.0
+  depth: 7.6
+  categories:
+    history: 9.1
+    photography: 8.6

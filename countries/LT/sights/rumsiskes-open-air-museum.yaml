@@ -1,0 +1,16 @@
+id: sight-lt-rumsiskes-open-air-museum
+name: "Lithuanian Open-Air Museum (Rumšiškės)"
+location:
+  country_code: LT
+  latitude: 54.865
+  longitude: 24.211
+scores:
+  impact: 8.3
+  uniqueness: 8.5
+  significance: 8.5
+  experience: 8.7
+  depth: 8.9
+  categories:
+    culture: 9.1
+    architecture: 8.9
+    history: 8.8

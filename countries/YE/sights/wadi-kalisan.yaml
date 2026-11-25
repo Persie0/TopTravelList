@@ -1,0 +1,15 @@
+id: sight-ye-wadi-kalisan
+name: "Wadi Kalisan"
+location:
+  country_code: YE
+  latitude: 12.43
+  longitude: 54.27
+scores:
+  impact: 8.6
+  uniqueness: 8.3
+  significance: 7.3
+  experience: 8.5
+  depth: 7.5
+  categories:
+    nature: 8.7
+    photography: 8.9

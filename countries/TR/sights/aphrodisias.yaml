@@ -1,0 +1,15 @@
+id: sight-tr-aphrodisias
+name: "Aphrodisias"
+location:
+  country_code: TR
+  latitude: 37.708
+  longitude: 28.724
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 9.2
+  experience: 8.8
+  depth: 8.8
+  categories:
+    architecture: 9.2
+    history: 9.4

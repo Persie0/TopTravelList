@@ -1,0 +1,15 @@
+id: sight-fi-turku-castle
+name: "Turku Castle"
+location:
+  country_code: FI
+  latitude: 60.435
+  longitude: 22.228
+scores:
+  impact: 8.7
+  uniqueness: 8.5
+  significance: 8.9
+  experience: 8.8
+  depth: 8.6
+  categories:
+    history: 9.2
+    architecture: 9

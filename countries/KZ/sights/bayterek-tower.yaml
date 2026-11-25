@@ -1,0 +1,15 @@
+id: sight-kz-bayterek-tower
+name: "Bayterek Tower"
+location:
+  country_code: KZ
+  latitude: 51.128
+  longitude: 71.43
+scores:
+  impact: 8.3
+  uniqueness: 8.5
+  significance: 7.0
+  experience: 8.3
+  depth: 6.7
+  categories:
+    architecture: 8.9
+    photography: 9.0

@@ -1,0 +1,16 @@
+id: city-sy-latakia
+name: "Latakia"
+location:
+  country_code: SY
+  latitude: 35.5197
+  longitude: 35.7915
+scores:
+  impact: 7.1
+  uniqueness: 7.2
+  significance: 7.7
+  experience: 7.6
+  depth: 7.4
+  categories:
+    food: 7.7
+    culture: 7.6
+    relaxation: 7.6

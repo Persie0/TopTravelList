@@ -1,0 +1,15 @@
+id: sight-gb-ironbridge
+name: "Ironbridge Gorge"
+location:
+  country_code: GB
+  latitude: 52.627
+  longitude: -2.486
+scores:
+  impact: 8.5
+  uniqueness: 8.9
+  significance: 9.2
+  experience: 8.8
+  depth: 8.7
+  categories:
+    history: 9.4
+    architecture: 8.8

@@ -1,0 +1,15 @@
+id: sight-ir-stars-valley
+name: "Stars Valley, Qeshm"
+location:
+  country_code: IR
+  latitude: 26.85
+  longitude: 56.02
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 7.7
+  experience: 8.4
+  depth: 7.5
+  categories:
+    nature: 8.9
+    photography: 9.1

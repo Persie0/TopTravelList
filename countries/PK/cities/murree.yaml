@@ -1,0 +1,15 @@
+id: city-pk-murree
+name: "Murree"
+location:
+  country_code: PK
+  latitude: 33.907
+  longitude: 73.394
+scores:
+  impact: 7.3
+  uniqueness: 7.0
+  significance: 6.6
+  experience: 7.5
+  depth: 6.8
+  categories:
+    nature: 7.5
+    relaxation: 7.6

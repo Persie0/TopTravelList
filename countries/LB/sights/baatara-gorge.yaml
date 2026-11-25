@@ -1,0 +1,15 @@
+id: sight-lb-baatara-gorge
+name: "Baatara Gorge"
+location:
+  country_code: LB
+  latitude: 34.174
+  longitude: 35.871
+scores:
+  impact: 9.2
+  uniqueness: 9.2
+  significance: 7.5
+  experience: 8.6
+  depth: 7.0
+  categories:
+    nature: 9.2
+    photography: 9.4

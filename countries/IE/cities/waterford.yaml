@@ -1,0 +1,16 @@
+id: city-ie-waterford
+name: "Waterford"
+location:
+  country_code: IE
+  latitude: 52.259
+  longitude: -7.11
+scores:
+  impact: 8.1
+  uniqueness: 8.3
+  significance: 8.6
+  experience: 8.4
+  depth: 8.1
+  categories:
+    history: 9.0
+    culture: 8.6
+    architecture: 8.5

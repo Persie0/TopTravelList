@@ -1,0 +1,14 @@
+id: sight-vc-belmont-lookout
+name: "Belmont Lookout"
+location:
+  country_code: VC
+  latitude: 13.196
+  longitude: -61.168
+scores:
+  impact: 8.1
+  uniqueness: 7.6
+  significance: 6.3
+  experience: 8.2
+  depth: 5.8
+  categories:
+    photography: 8.8

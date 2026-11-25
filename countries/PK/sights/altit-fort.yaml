@@ -1,0 +1,15 @@
+id: sight-pk-altit-fort
+name: "Altit Fort"
+location:
+  country_code: PK
+  latitude: 36.31
+  longitude: 74.69
+scores:
+  impact: 8.0
+  uniqueness: 8.3
+  significance: 8.2
+  experience: 8.1
+  depth: 7.2
+  categories:
+    architecture: 8.6
+    history: 8.4

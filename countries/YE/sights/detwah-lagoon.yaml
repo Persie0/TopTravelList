@@ -1,0 +1,15 @@
+id: sight-ye-detwah-lagoon
+name: "Detwah Lagoon"
+location:
+  country_code: YE
+  latitude: 12.69
+  longitude: 53.51
+scores:
+  impact: 9.0
+  uniqueness: 8.7
+  significance: 8.5
+  experience: 8.7
+  depth: 7.7
+  categories:
+    nature: 9.0
+    photography: 9.3

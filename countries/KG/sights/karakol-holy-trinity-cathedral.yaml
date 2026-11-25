@@ -1,0 +1,15 @@
+id: sight-kg-karakol-holy-trinity-cathedral
+name: "Karakol Holy Trinity Cathedral"
+location:
+  country_code: KG
+  latitude: 42.49
+  longitude: 78.392
+scores:
+  impact: 7.7
+  uniqueness: 8.1
+  significance: 7.7
+  experience: 7.9
+  depth: 6.3
+  categories:
+    architecture: 8.5
+    history: 8.1

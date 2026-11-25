@@ -1,0 +1,16 @@
+id: sight-ie-glenveagh-national-park
+name: "Glenveagh National Park"
+location:
+  country_code: IE
+  latitude: 55.04
+  longitude: -7.98
+scores:
+  impact: 8.9
+  uniqueness: 8.7
+  significance: 8.6
+  experience: 8.8
+  depth: 8.8
+  categories:
+    nature: 9.2
+    photography: 9.1
+    adventure: 8.9

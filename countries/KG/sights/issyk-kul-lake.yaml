@@ -1,0 +1,17 @@
+id: sight-kg-issyk-kul-lake
+name: "Issyk-Kul Lake"
+location:
+  country_code: KG
+  latitude: 42.44
+  longitude: 77.27
+scores:
+  impact: 9.0
+  uniqueness: 8.7
+  significance: 8.5
+  experience: 9.1
+  depth: 9.2
+  categories:
+    nature: 9.2
+    photography: 9.2
+    beaches: 8.8
+    relaxation: 9.2

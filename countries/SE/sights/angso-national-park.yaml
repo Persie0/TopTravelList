@@ -1,0 +1,15 @@
+id: sight-se-angso-national-park
+name: "Ängsö National Park"
+location:
+  country_code: SE
+  latitude: 59.62
+  longitude: 18.76
+scores:
+  impact: 7.7
+  uniqueness: 8.1
+  significance: 8.1
+  experience: 8.1
+  depth: 7.3
+  categories:
+    nature: 8.6
+    relaxation: 8.3

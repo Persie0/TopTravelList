@@ -1,0 +1,16 @@
+id: sight-cv-praia-de-chaves
+name: "Praia de Chaves"
+location:
+  country_code: CV
+  latitude: 16.1080
+  longitude: -22.9140
+scores:
+  impact: 8.9
+  uniqueness: 8.3
+  significance: 6.0
+  experience: 8.5
+  depth: 7.7
+  categories:
+    beaches: 9.2
+    photography: 9.0
+    relaxation: 8.8

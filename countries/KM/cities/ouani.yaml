@@ -1,0 +1,15 @@
+id: city-km-ouani
+name: "Ouani"
+location:
+  country_code: KM
+  latitude: -12.1320
+  longitude: 44.4260
+scores:
+  impact: 6.4
+  uniqueness: 6.8
+  significance: 6.5
+  experience: 7.1
+  depth: 6.0
+  categories:
+    culture: 7.4
+    food: 7.3

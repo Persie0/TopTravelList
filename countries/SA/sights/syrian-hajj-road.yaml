@@ -1,0 +1,14 @@
+id: sight-sa-syrian-hajj-road
+name: "Syrian Hajj Road (Saudi section)"
+location:
+  country_code: SA
+  latitude: 28.39
+  longitude: 36.57
+scores:
+  impact: null
+  uniqueness: 8.4
+  significance: 8.9
+  experience: null
+  depth: null
+  categories:
+    history: 9.0

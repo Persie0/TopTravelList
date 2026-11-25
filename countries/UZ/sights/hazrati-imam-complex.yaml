@@ -1,0 +1,16 @@
+id: sight-uz-hazrati-imam-complex
+name: "Hazrati Imam Complex"
+location:
+  country_code: UZ
+  latitude: 41.337
+  longitude: 69.242
+scores:
+  impact: 8.4
+  uniqueness: 8.5
+  significance: 8.8
+  experience: 8.3
+  depth: 7.8
+  categories:
+    architecture: 8.9
+    history: 9.1
+    culture: 9.0

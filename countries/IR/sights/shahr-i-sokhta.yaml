@@ -1,0 +1,14 @@
+id: sight-ir-shahr-i-sokhta
+name: "Shahr-i Sokhta (Burnt City)"
+location:
+  country_code: IR
+  latitude: 30.596
+  longitude: 61.327
+scores:
+  impact: 7.9
+  uniqueness: 8.9
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    history: 9.3

@@ -2,7 +2,7 @@
 
 # Pakistan (PK) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**13 ranked** · **1 unassessed** · **14 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,31 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (13)
 
-No cities, towns & villages have been assessed for **Pakistan** yet.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Lahore](cities/lahore.yaml) | City / town | **90.15** | **Architecture 9.3**, **History 9.3**, **Culture 9.2**, Food 9.1 | 9.0 / 9.0 / 9.1 / 8.9 / 9.1 | [31.5204, 74.3587](https://www.google.com/maps/search/?api=1&query=31.5204,74.3587) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lahore%2C%20Pakistan) |
+| 2 | [Multan](cities/multan.yaml) | City / town | **83.50** | **Architecture 8.8**, **History 8.8**, **Culture 8.5** | 8.2 / 8.5 / 8.7 / 8.1 / 8.1 | [30.1575, 71.5249](https://www.google.com/maps/search/?api=1&query=30.1575,71.5249) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Multan%2C%20Pakistan) |
+| 3 | [Karimabad](cities/karimabad.yaml) | City / town | **82.00** | **Photography 9.0**, **Nature 8.6**, **Architecture 8.3** | 8.6 / 8.4 / 7.8 / 8.2 / 7.3 | [36.32, 74.66](https://www.google.com/maps/search/?api=1&query=36.32,74.66) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Karimabad%2C%20Pakistan) |
+| 4 | [Karachi](cities/karachi.yaml) | City / town | **80.55** | **Food 8.7**, **Culture 8.2**, **History 8.1** | 7.7 / 8.0 / 8.3 / 8.1 / 8.7 | [24.8607, 67.0011](https://www.google.com/maps/search/?api=1&query=24.8607,67.0011) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Karachi%2C%20Pakistan) |
+| 5 | [Bahawalpur](cities/bahawalpur.yaml) | City / town | **77.05** | **Architecture 8.3**, **History 8.1** | 7.8 / 7.7 / 7.8 / 7.6 / 7.4 | [29.3956, 71.6836](https://www.google.com/maps/search/?api=1&query=29.3956,71.6836) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bahawalpur%2C%20Pakistan) |
+| 6 | [Chitral](cities/chitral.yaml) | City / town | **76.75** | **Culture 8.0**, **Nature 8.0**, **Architecture 7.8** | 7.7 / 8.0 / 7.7 / 7.5 / 7.0 | [35.851, 71.786](https://www.google.com/maps/search/?api=1&query=35.851,71.786) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Chitral%2C%20Pakistan) |
+| 6 | [Islamabad](cities/islamabad.yaml) | City / town | **76.75** | **Architecture 8.2**, **Nature 8.1**, **Food 7.8** | 7.8 / 7.4 / 7.4 / 8.1 / 7.9 | [33.6844, 73.0479](https://www.google.com/maps/search/?api=1&query=33.6844,73.0479) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Islamabad%2C%20Pakistan) |
+| 8 | [Skardu](cities/skardu.yaml) | City / town | **76.25** | **Photography 8.3**, **Nature 8.2** | 8.0 / 7.8 / 7.0 / 7.7 / 7.2 | [35.297, 75.633](https://www.google.com/maps/search/?api=1&query=35.297,75.633) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Skardu%2C%20Pakistan) |
+| 9 | [Thatta](cities/thatta.yaml) | City / town | **74.60** | **History 8.4**, **Architecture 8.0** | 7.1 / 7.6 / 8.2 / 7.4 / 6.8 | [24.746, 67.924](https://www.google.com/maps/search/?api=1&query=24.746,67.924) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Thatta%2C%20Pakistan) |
+| 10 | [Gilgit](cities/gilgit.yaml) | City / town | **73.30** | **Nature 7.7**, **Culture 7.5** | 7.3 / 7.4 / 7.4 / 7.4 / 7.0 | [35.9208, 74.3144](https://www.google.com/maps/search/?api=1&query=35.9208,74.3144) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Gilgit%2C%20Pakistan) |
+| 11 | [Hyderabad (Sindh)](cities/hyderabad.yaml) | City / town | **72.90** | **Culture 7.8**, **History 7.8**, **Food 7.6** | 7.0 / 7.4 / 7.6 / 7.4 / 7.1 | [25.396, 68.3578](https://www.google.com/maps/search/?api=1&query=25.396,68.3578) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hyderabad%20%28Sindh%29%2C%20Pakistan) |
+| 12 | [Rawalpindi](cities/rawalpindi.yaml) | City / town | **72.65** | **Food 7.9**, **History 7.7** | 7.0 / 7.2 / 7.5 / 7.5 / 7.4 | [33.5651, 73.0169](https://www.google.com/maps/search/?api=1&query=33.5651,73.0169) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Rawalpindi%2C%20Pakistan) |
+| 13 | [Murree](cities/murree.yaml) | City / town | **70.65** | **Relaxation 7.6**, **Nature 7.5** | 7.3 / 7.0 / 6.6 / 7.5 / 6.8 | [33.907, 73.394](https://www.google.com/maps/search/?api=1&query=33.907,73.394) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Murree%2C%20Pakistan) |
 
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+## Not yet fully assessed (1)
+
+These destinations have no rank until all five core scores are assessed.
+
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| — | [Peshawar](cities/peshawar.yaml) | City / town | **—** | **History 8.9**, **Culture 8.7**, **Architecture 8.5** | 8.0 / 8.5 / 8.8 / — / — | [34.0151, 71.5249](https://www.google.com/maps/search/?api=1&query=34.0151,71.5249) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Peshawar%2C%20Pakistan) |
 
 ---
 

@@ -1,0 +1,16 @@
+id: sight-ie-achill-island
+name: "Achill Island"
+location:
+  country_code: IE
+  latitude: 53.97
+  longitude: -10.05
+scores:
+  impact: 9.1
+  uniqueness: 8.9
+  significance: 8.4
+  experience: 9.0
+  depth: 9.0
+  categories:
+    nature: 9.3
+    photography: 9.3
+    beaches: 9.0

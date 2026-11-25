@@ -1,0 +1,16 @@
+id: city-tr-trabzon
+name: "Trabzon"
+location:
+  country_code: TR
+  latitude: 41.0027
+  longitude: 39.7168
+scores:
+  impact: 7.8
+  uniqueness: 8.0
+  significance: 8.4
+  experience: 8.0
+  depth: 7.8
+  categories:
+    history: 8.6
+    culture: 8.2
+    food: 8.2

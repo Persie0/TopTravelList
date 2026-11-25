@@ -1,0 +1,16 @@
+id: sight-mm-mount-popa
+name: "Mount Popa and Taung Kalat"
+location:
+  country_code: MM
+  latitude: 20.92
+  longitude: 95.25
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 8.3
+  experience: 8.4
+  depth: 7.9
+  categories:
+    nature: 8.8
+    culture: 8.8
+    photography: 9.0

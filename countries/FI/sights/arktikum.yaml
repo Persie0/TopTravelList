@@ -1,0 +1,16 @@
+id: sight-fi-arktikum
+name: "Arktikum Science Centre and Museum"
+location:
+  country_code: FI
+  latitude: 66.508
+  longitude: 25.725
+scores:
+  impact: 8.2
+  uniqueness: 8.6
+  significance: 8.6
+  experience: 8.7
+  depth: 8.6
+  categories:
+    culture: 9
+    history: 8.7
+    architecture: 8.7

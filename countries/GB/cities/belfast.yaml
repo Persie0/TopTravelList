@@ -1,0 +1,16 @@
+id: city-gb-belfast
+name: "Belfast"
+location:
+  country_code: GB
+  latitude: 54.597
+  longitude: -5.93
+scores:
+  impact: 8.4
+  uniqueness: 8.7
+  significance: 8.8
+  experience: 8.8
+  depth: 8.7
+  categories:
+    history: 9.1
+    culture: 8.9
+    architecture: 8.6

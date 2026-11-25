@@ -1,0 +1,16 @@
+id: sight-km-itsamia-turtle-beach
+name: "Itsamia Turtle Beach"
+location:
+  country_code: KM
+  latitude: -12.3690
+  longitude: 43.8790
+scores:
+  impact: 8.6
+  uniqueness: 8.9
+  significance: 8.5
+  experience: 8.7
+  depth: 7.2
+  categories:
+    wildlife: 9.4
+    nature: 9.0
+    beaches: 8.7

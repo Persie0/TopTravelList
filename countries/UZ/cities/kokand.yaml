@@ -1,0 +1,16 @@
+id: city-uz-kokand
+name: "Kokand"
+location:
+  country_code: UZ
+  latitude: 40.529
+  longitude: 70.942
+scores:
+  impact: 8.0
+  uniqueness: 8.2
+  significance: 8.5
+  experience: 8.2
+  depth: 7.8
+  categories:
+    architecture: 8.7
+    history: 8.8
+    culture: 8.6

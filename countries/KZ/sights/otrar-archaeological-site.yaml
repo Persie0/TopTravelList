@@ -1,0 +1,15 @@
+id: sight-kz-otrar-archaeological-site
+name: "Otrar Archaeological Site"
+location:
+  country_code: KZ
+  latitude: 42.852
+  longitude: 68.301
+scores:
+  impact: 7.6
+  uniqueness: 8.6
+  significance: 9.2
+  experience: 7.8
+  depth: 7.8
+  categories:
+    history: 9.4
+    culture: 8.6

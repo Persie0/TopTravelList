@@ -1,0 +1,16 @@
+id: sight-vc-vermont-nature-trail
+name: "Vermont Nature Trail"
+location:
+  country_code: VC
+  latitude: 13.216
+  longitude: -61.233
+scores:
+  impact: 8.3
+  uniqueness: 8.7
+  significance: 8.1
+  experience: 8.6
+  depth: 7.8
+  categories:
+    nature: 9.1
+    wildlife: 9.2
+    adventure: 8.6

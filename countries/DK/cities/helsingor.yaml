@@ -1,0 +1,16 @@
+id: city-dk-helsingor
+name: "Helsingør (Elsinore)"
+location:
+  country_code: DK
+  latitude: 56.036
+  longitude: 12.613
+scores:
+  impact: 8.3
+  uniqueness: 8.5
+  significance: 8.6
+  experience: 8.6
+  depth: 8.0
+  categories:
+    architecture: 8.8
+    history: 9
+    photography: 8.7

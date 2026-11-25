@@ -1,0 +1,15 @@
+id: sight-gb-jurassic-coast
+name: "Dorset and East Devon Coast (Jurassic Coast)"
+location:
+  country_code: GB
+  latitude: 50.65
+  longitude: -2.5
+scores:
+  impact: 9.2
+  uniqueness: 9.3
+  significance: 9.4
+  experience: 9.1
+  depth: 9.3
+  categories:
+    nature: 9.5
+    photography: 9.4

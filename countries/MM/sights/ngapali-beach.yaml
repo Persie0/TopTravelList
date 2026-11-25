@@ -1,0 +1,15 @@
+id: sight-mm-ngapali-beach
+name: "Ngapali Beach"
+location:
+  country_code: MM
+  latitude: 18.402
+  longitude: 94.317
+scores:
+  impact: 8.6
+  uniqueness: 8.1
+  significance: 6.8
+  experience: null
+  depth: null
+  categories:
+    beaches: 9.0
+    relaxation: 8.8

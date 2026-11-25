@@ -1,0 +1,16 @@
+id: sight-tr-bodrum-castle
+name: "Bodrum Castle and Underwater Archaeology Museum"
+location:
+  country_code: TR
+  latitude: 37.032
+  longitude: 27.429
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 8.9
+  experience: 8.7
+  depth: 8.5
+  categories:
+    architecture: 9.0
+    history: 9.2
+    culture: 8.8

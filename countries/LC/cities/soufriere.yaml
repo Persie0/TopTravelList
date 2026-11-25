@@ -1,0 +1,17 @@
+id: city-lc-soufriere
+name: "Soufrière"
+location:
+  country_code: LC
+  latitude: 13.856
+  longitude: -61.058
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 7.8
+  experience: 8.4
+  depth: 7.5
+  categories:
+    photography: 9.3
+    culture: 8.7
+    history: 8.4
+    food: 8.2

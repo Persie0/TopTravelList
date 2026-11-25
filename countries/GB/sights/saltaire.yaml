@@ -1,0 +1,15 @@
+id: sight-gb-saltaire
+name: "Saltaire"
+location:
+  country_code: GB
+  latitude: 53.838
+  longitude: -1.79
+scores:
+  impact: 8.3
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 8.5
+  depth: 8.2
+  categories:
+    architecture: 9.0
+    history: 9.1

@@ -1,0 +1,15 @@
+id: city-fi-oulu
+name: "Oulu"
+location:
+  country_code: FI
+  latitude: 65.012
+  longitude: 25.465
+scores:
+  impact: 7.7
+  uniqueness: 7.8
+  significance: 7.8
+  experience: 8.3
+  depth: 8.3
+  categories:
+    culture: 8.5
+    relaxation: 8.1

@@ -1,0 +1,16 @@
+id: sight-gb-titanic-belfast
+name: "Titanic Belfast"
+location:
+  country_code: GB
+  latitude: 54.608
+  longitude: -5.909
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 8.9
+  experience: 9.0
+  depth: 8.7
+  categories:
+    history: 9.1
+    culture: 9.0
+    architecture: 8.9

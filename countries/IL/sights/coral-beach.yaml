@@ -1,0 +1,16 @@
+id: sight-il-coral-beach
+name: "Eilat Coral Beach Nature Reserve"
+location:
+  country_code: IL
+  latitude: 29.51
+  longitude: 34.927
+scores:
+  impact: 8.7
+  uniqueness: 8.7
+  significance: 8.7
+  experience: 8.7
+  depth: 7.9
+  categories:
+    nature: 9.0
+    wildlife: 9.0
+    adventure: 8.8

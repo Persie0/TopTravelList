@@ -1,0 +1,15 @@
+id: sight-gb-blaenavon
+name: "Blaenavon Industrial Landscape"
+location:
+  country_code: GB
+  latitude: 51.77
+  longitude: -3.08
+scores:
+  impact: 8.2
+  uniqueness: 8.8
+  significance: 9.1
+  experience: 8.6
+  depth: 8.8
+  categories:
+    history: 9.3
+    culture: 8.8

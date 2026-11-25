@@ -1,0 +1,16 @@
+id: sight-tr-basilica-cistern
+name: "Basilica Cistern"
+location:
+  country_code: TR
+  latitude: 41.0084
+  longitude: 28.9779
+scores:
+  impact: 9.1
+  uniqueness: 9.2
+  significance: 8.8
+  experience: 8.9
+  depth: 7.6
+  categories:
+    architecture: 9.2
+    history: 9.0
+    photography: 9.3

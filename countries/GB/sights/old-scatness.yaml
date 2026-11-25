@@ -1,0 +1,14 @@
+id: sight-gb-old-scatness
+name: "Old Scatness Broch and Iron Age Village"
+location:
+  country_code: GB
+  latitude: 59.878
+  longitude: -1.305
+scores:
+  impact: 8.0
+  uniqueness: 8.7
+  significance: 9.0
+  experience: 8.2
+  depth: 8.0
+  categories:
+    history: 9.2

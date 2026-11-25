@@ -1,0 +1,15 @@
+id: sight-tj-dashti-djum-state-reserve
+name: "Dashti Djum State Reserve"
+location:
+  country_code: TJ
+  latitude: 37.95
+  longitude: 70.2
+scores:
+  impact: null
+  uniqueness: 8.6
+  significance: 9.1
+  experience: null
+  depth: null
+  categories:
+    nature: 9.2
+    wildlife: 9.2

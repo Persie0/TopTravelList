@@ -1,0 +1,15 @@
+id: sight-fi-ateneum
+name: "Ateneum Art Museum"
+location:
+  country_code: FI
+  latitude: 60.17
+  longitude: 24.944
+scores:
+  impact: 8.3
+  uniqueness: 8.3
+  significance: 8.7
+  experience: 8.7
+  depth: 8.7
+  categories:
+    culture: 9.1
+    architecture: 8.6

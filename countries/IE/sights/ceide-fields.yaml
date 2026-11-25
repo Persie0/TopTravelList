@@ -1,0 +1,15 @@
+id: sight-ie-ceide-fields
+name: "Céide Fields"
+location:
+  country_code: IE
+  latitude: 54.308
+  longitude: -9.457
+scores:
+  impact: 8.2
+  uniqueness: 8.9
+  significance: 9.1
+  experience: 8.3
+  depth: 8.3
+  categories:
+    history: 9.3
+    nature: 8.7
