@@ -799,3 +799,33 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: No independently checked individual source.
 - Remaining gaps: Confirm normal permitted visitor scope before complete scoring.
+
+## Follow-up: sight-mv-hanifaru-bay-marine-protected-area — 2026-11-25 (worldwide review)
+
+- [YAML](../../../countries/MV/sights/hanifaru-bay-marine-protected-area.yaml) · Action: rescore · **source-linked-unverified**. Specific scope claims inspected, not comprehensive fact-check.
+- Source material inspected 2026-11-25: [https://visitmaldives.com/en/experience/for-lovers-of-marine-life](https://visitmaldives.com/en/experience/for-lovers-of-marine-life); [https://protectedareas.environment.gov.mv/en/protected-areas/hanifaru-region](https://protectedareas.environment.gov.mv/en/protected-areas/hanifaru-region).
+- Decision: The official tourism description identifies a manta feeding hotspot where scuba diving is prohibited and the normal visit is snorkelling. The extraordinary seasonal wildlife encounter supports the existing high rarity and wildlife judgments, not guaranteed encounters. Reduce depth for the bounded bay and single permitted activity; not a penalty for conservation controls or travel cost. Photography and experience still require field-specific verification.
+- I/U/S/E/D: 9.6 / 9.7 / 9.4 / 9.5 / 7.9 → 9.6 / 9.7 / 9.4 / 9.5 / 7.2. Overall: 94.00 → 93.30/100. All other fields and coordinates retained. No new 10 or multiplier.
+
+| Current worldwide peer | I/U/S/E/D | Overall /100 | Scope comparison |
+| --- | --- | --- | --- |
+| [Sipadan Island Reefs](../../../countries/MY/sights/sipadan-island-reefs.yaml) | 9.5 / 9.6 / 9.1 / 9.5 / 8.9 | 93.85 | Broader reef and dive-route experience. |
+| [Glover's Reef Marine Reserve](../../../countries/BZ/sights/glover-s-reef-marine-reserve.yaml) | 9.1 / 9.2 / 9.4 / 9.2 / 9.0 | 91.90 | Multi-activity atoll with more exploration. |
+| [Aqaba Marine Reserve](../../../countries/JO/sights/aqaba-marine-reserve.yaml) | 8.9 / 9.2 / 9.4 / 9.1 / 8.8 | 90.95 | More varied reef locations. |
+| [Aldabra Atoll](../../../countries/SC/sights/aldabra-atoll.yaml) | 9.5 / 9.8 / 9.8 / 8.0 / 7.6 | 92.20 | Restricted ecological experience of different scope. |
+
+
+## Follow-up: sight-mv-baa-atoll-biosphere-reserve — 2026-11-25 (worldwide review)
+
+- [YAML](../../../countries/MV/sights/baa-atoll-biosphere-reserve.yaml) · Action: rescore · **source-linked-unverified**. Specific scope claims inspected, not comprehensive fact-check.
+- Source material inspected 2026-11-25: [https://www.unesco.org/en/mab/baa-atoll](https://www.unesco.org/en/mab/baa-atoll); [https://visitmaldives.com/en/experience/why-the-maldives-belongs-on-every-divers-bucket-list](https://visitmaldives.com/en/experience/why-the-maldives-belongs-on-every-divers-bucket-list).
+- Decision: UNESCO documents the extensive atoll coral ecosystems and multiple islands, while the tourism material identifies multiple reef trips and a specifically managed Hanifaru experience. The normal visit can sample distinct marine habitats, but cannot be equated with exploring all the reserve's habitats and islands. Retain exceptional nature and wildlife category judgments as editorial, lower depth to 9.0, and keep independent Hanifaru ratings separate. No automatic biosphere designation bonus.
+- I/U/S/E/D: 9.3 / 9.4 / 9.4 / 9.3 / 9.5 → 9.3 / 9.4 / 9.4 / 9.3 / 9.0. Overall: 93.65 → 93.15/100. All other fields and coordinates retained. No new 10 or multiplier.
+
+| Current worldwide peer | I/U/S/E/D | Overall /100 | Scope comparison |
+| --- | --- | --- | --- |
+| [Sipadan Island Reefs](../../../countries/MY/sights/sipadan-island-reefs.yaml) | 9.5 / 9.6 / 9.1 / 9.5 / 8.9 | 93.85 | World-leading reef experience in narrower area. |
+| [Glover's Reef Marine Reserve](../../../countries/BZ/sights/glover-s-reef-marine-reserve.yaml) | 9.1 / 9.2 / 9.4 / 9.2 / 9.0 | 91.90 | Comparable atoll breadth and activities. |
+| [Aqaba Marine Reserve](../../../countries/JO/sights/aqaba-marine-reserve.yaml) | 8.9 / 9.2 / 9.4 / 9.1 / 8.8 | 90.95 | More bounded marine protected visitor area. |
+| [Aldabra Atoll](../../../countries/SC/sights/aldabra-atoll.yaml) | 9.5 / 9.8 / 9.8 / 8.0 / 7.6 | 92.20 | More restricted authorized visitor routes. |
+
