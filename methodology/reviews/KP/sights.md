@@ -14,9 +14,9 @@
 - Missing facts: Ordinary approved visitor circuit and accessible depth not established.
 
 ### Worldwide peers
-- [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 99.70/100; I/U/S/E/D 10.0/10.0/10.0/9.8/10.0. impact comparison: Burial chambers and surviving murals; subject 8.1 versus peer 10.0. 
-- [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) — 95.75/100; I/U/S/E/D 9.6/9.5/9.8/9.4/9.5. uniqueness comparison: rare early Korean mural tradition; subject 9.2 versus peer 9.5. 
-- [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) — 93.70/100; I/U/S/E/D 9.3/9.5/9.3/9.5/9.2. significance comparison: major evidence of Koguryo culture; subject 9.4 versus peer 9.3. 
+- [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 99.70/100; I/U/S/E/D 10.0/10.0/10.0/9.8/10.0. impact comparison: Burial chambers and surviving murals; subject 8.1 versus peer 10.0.
+- [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) — 95.75/100; I/U/S/E/D 9.6/9.5/9.8/9.4/9.5. uniqueness comparison: rare early Korean mural tradition; subject 9.2 versus peer 9.5.
+- [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) — 93.70/100; I/U/S/E/D 9.3/9.5/9.3/9.5/9.2. significance comparison: major evidence of Koguryo culture; subject 9.4 versus peer 9.3.
 - [Carnuntum Archaeological Park (AT)](../../../countries/AT/sights/carnuntum-archaeological-park.yaml) — 87.95/100; I/U/S/E/D 8.7/8.9/9.0/8.8/8.4. experience comparison: conservation and permitted tomb interiors not verified; subject field unknown. Scope: serial tomb sites not all accessible.
 
 ### Scoring decisions
@@ -46,9 +46,9 @@
 - Missing facts: Ordinary approved visitor circuit and accessible depth not established.
 
 ### Worldwide peers
-- [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 99.70/100; I/U/S/E/D 10.0/10.0/10.0/9.8/10.0. impact comparison: Academy gates tombs and historic urban remains; subject 8.5 versus peer 10.0. 
-- [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) — 95.75/100; I/U/S/E/D 9.6/9.5/9.8/9.4/9.5. uniqueness comparison: distinct Koryo capital ensemble; subject 8.9 versus peer 9.5. 
-- [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) — 93.70/100; I/U/S/E/D 9.3/9.5/9.3/9.5/9.2. significance comparison: major Korean dynastic history; subject 9.2 versus peer 9.3. 
+- [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 99.70/100; I/U/S/E/D 10.0/10.0/10.0/9.8/10.0. impact comparison: Academy gates tombs and historic urban remains; subject 8.5 versus peer 10.0.
+- [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) — 95.75/100; I/U/S/E/D 9.6/9.5/9.8/9.4/9.5. uniqueness comparison: distinct Koryo capital ensemble; subject 8.9 versus peer 9.5.
+- [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) — 93.70/100; I/U/S/E/D 9.3/9.5/9.3/9.5/9.2. significance comparison: major Korean dynastic history; subject 9.2 versus peer 9.3.
 - [Carnuntum Archaeological Park (AT)](../../../countries/AT/sights/carnuntum-archaeological-park.yaml) — 87.95/100; I/U/S/E/D 8.7/8.9/9.0/8.8/8.4. experience comparison: ordinary approved serial circuit unverified; subject field unknown. Scope: twelve components not all assumed accessible.
 
 ### Scoring decisions
@@ -78,9 +78,9 @@
 - Missing facts: Ordinary approved visitor circuit and accessible depth not established.
 
 ### Worldwide peers
-- [Ha Long Bay (VN)](../../../countries/VN/sights/ha-long-bay.yaml) — 97.85/100; I/U/S/E/D 9.8/9.9/9.7/9.8/9.6. impact comparison: Granite peaks and rugged mountain scenery; subject 9.0 versus peer 9.8. 
-- [Hohe Tauern National Park (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) — 92.60/100; I/U/S/E/D 9.4/9.1/9.0/9.5/9.4. uniqueness comparison: distinct Buddhist sacred mountain landscape; subject 9.0 versus peer 9.1. 
-- [Khao Sok National Park (TH)](../../../countries/TH/sights/khao-sok-national-park.yaml) — 93.30/100; I/U/S/E/D 9.4/9.4/9.1/9.4/9.3. significance comparison: important Korean mountain worship and geomorphology; subject 9.0 versus peer 9.1. 
+- [Ha Long Bay (VN)](../../../countries/VN/sights/ha-long-bay.yaml) — 97.85/100; I/U/S/E/D 9.8/9.9/9.7/9.8/9.6. impact comparison: Granite peaks and rugged mountain scenery; subject 9.0 versus peer 9.8.
+- [Hohe Tauern National Park (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) — 92.60/100; I/U/S/E/D 9.4/9.1/9.0/9.5/9.4. uniqueness comparison: distinct Buddhist sacred mountain landscape; subject 9.0 versus peer 9.1.
+- [Khao Sok National Park (TH)](../../../countries/TH/sights/khao-sok-national-park.yaml) — 93.30/100; I/U/S/E/D 9.4/9.4/9.1/9.4/9.3. significance comparison: important Korean mountain worship and geomorphology; subject 9.0 versus peer 9.1.
 - [Gesäuse National Park (AT)](../../../countries/AT/sights/gesaeuse-national-park.yaml) — 88.95/100; I/U/S/E/D 8.9/8.8/8.7/9.1/9.2. experience comparison: current permitted routes unknown; subject field unknown. Scope: inscribed property excludes two coastal nominated components.
 
 ### Scoring decisions
@@ -110,9 +110,9 @@
 - Missing facts: Ordinary approved visitor circuit and accessible depth not established.
 
 ### Worldwide peers
-- [Ha Long Bay (VN)](../../../countries/VN/sights/ha-long-bay.yaml) — 97.85/100; I/U/S/E/D 9.8/9.9/9.7/9.8/9.6. impact comparison: Volcanic pillars cliffs and valleys; subject 8.8 versus peer 9.8. 
-- [Hohe Tauern National Park (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) — 92.60/100; I/U/S/E/D 9.4/9.1/9.0/9.5/9.4. uniqueness comparison: varied volcanic erosion forms; subject 8.8 versus peer 9.1. 
-- [Khao Sok National Park (TH)](../../../countries/TH/sights/khao-sok-national-park.yaml) — 93.30/100; I/U/S/E/D 9.4/9.4/9.1/9.4/9.3. significance comparison: significant regional geology and biodiversity; subject 8.7 versus peer 9.1. 
+- [Ha Long Bay (VN)](../../../countries/VN/sights/ha-long-bay.yaml) — 97.85/100; I/U/S/E/D 9.8/9.9/9.7/9.8/9.6. impact comparison: Volcanic pillars cliffs and valleys; subject 8.8 versus peer 9.8.
+- [Hohe Tauern National Park (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) — 92.60/100; I/U/S/E/D 9.4/9.1/9.0/9.5/9.4. uniqueness comparison: varied volcanic erosion forms; subject 8.8 versus peer 9.1.
+- [Khao Sok National Park (TH)](../../../countries/TH/sights/khao-sok-national-park.yaml) — 93.30/100; I/U/S/E/D 9.4/9.4/9.1/9.4/9.3. significance comparison: significant regional geology and biodiversity; subject 8.7 versus peer 9.1.
 - [Gesäuse National Park (AT)](../../../countries/AT/sights/gesaeuse-national-park.yaml) — 88.95/100; I/U/S/E/D 8.9/8.8/8.7/9.1/9.2. experience comparison: approved circuit unverified; subject field unknown. Scope: protected area not unrestricted hiking.
 
 ### Scoring decisions
@@ -142,9 +142,9 @@
 - Missing facts: Independent coordinates, actual permitted visit and condition require verification; tour reporting is not a guarantee.
 
 ### Worldwide peers
-- [Ha Long Bay (VN)](../../../countries/VN/sights/ha-long-bay.yaml) — 97.85/100; I/U/S/E/D 9.8/9.9/9.7/9.8/9.6. impact comparison: Forested mountain slopes and temples; subject 8.7 versus peer 9.8. 
-- [Hohe Tauern National Park (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) — 92.60/100; I/U/S/E/D 9.4/9.1/9.0/9.5/9.4. uniqueness comparison: combined Buddhist landscape and temperate habitat; subject 8.6 versus peer 9.1. 
-- [Khao Sok National Park (TH)](../../../countries/TH/sights/khao-sok-national-park.yaml) — 93.30/100; I/U/S/E/D 9.4/9.4/9.1/9.4/9.3. significance comparison: important regional ecological and religious heritage; subject 8.7 versus peer 9.1. 
+- [Ha Long Bay (VN)](../../../countries/VN/sights/ha-long-bay.yaml) — 97.85/100; I/U/S/E/D 9.8/9.9/9.7/9.8/9.6. impact comparison: Forested mountain slopes and temples; subject 8.7 versus peer 9.8.
+- [Hohe Tauern National Park (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) — 92.60/100; I/U/S/E/D 9.4/9.1/9.0/9.5/9.4. uniqueness comparison: combined Buddhist landscape and temperate habitat; subject 8.6 versus peer 9.1.
+- [Khao Sok National Park (TH)](../../../countries/TH/sights/khao-sok-national-park.yaml) — 93.30/100; I/U/S/E/D 9.4/9.4/9.1/9.4/9.3. significance comparison: important regional ecological and religious heritage; subject 8.7 versus peer 9.1.
 - [Gesäuse National Park (AT)](../../../countries/AT/sights/gesaeuse-national-park.yaml) — 88.95/100; I/U/S/E/D 8.9/8.8/8.7/9.1/9.2. experience comparison: organized mountain excursion reported in 2026; subject 7.9 versus peer 9.1. Scope: limited approved circuit not entire nominated reserve.
 
 ### Scoring decisions
@@ -174,9 +174,9 @@
 - Missing facts: Ordinary approved visitor circuit and accessible depth not established.
 
 ### Worldwide peers
-- [Ha Long Bay (VN)](../../../countries/VN/sights/ha-long-bay.yaml) — 97.85/100; I/U/S/E/D 9.8/9.9/9.7/9.8/9.6. impact comparison: Limestone cave formations; subject 8.3 versus peer 9.8. 
-- [Hohe Tauern National Park (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) — 92.60/100; I/U/S/E/D 9.4/9.1/9.0/9.5/9.4. uniqueness comparison: complementary underground geological systems; subject 8.5 versus peer 9.1. 
-- [Khao Sok National Park (TH)](../../../countries/TH/sights/khao-sok-national-park.yaml) — 93.30/100; I/U/S/E/D 9.4/9.4/9.1/9.4/9.3. significance comparison: regional karst significance; subject 8.5 versus peer 9.1. 
+- [Ha Long Bay (VN)](../../../countries/VN/sights/ha-long-bay.yaml) — 97.85/100; I/U/S/E/D 9.8/9.9/9.7/9.8/9.6. impact comparison: Limestone cave formations; subject 8.3 versus peer 9.8.
+- [Hohe Tauern National Park (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) — 92.60/100; I/U/S/E/D 9.4/9.1/9.0/9.5/9.4. uniqueness comparison: complementary underground geological systems; subject 8.5 versus peer 9.1.
+- [Khao Sok National Park (TH)](../../../countries/TH/sights/khao-sok-national-park.yaml) — 93.30/100; I/U/S/E/D 9.4/9.4/9.1/9.4/9.3. significance comparison: regional karst significance; subject 8.5 versus peer 9.1.
 - [Gesäuse National Park (AT)](../../../countries/AT/sights/gesaeuse-national-park.yaml) — 88.95/100; I/U/S/E/D 8.9/8.8/8.7/9.1/9.2. experience comparison: ordinary permitted cave routes unknown; subject field unknown. Scope: representative regional point and serial cave scope need checking.
 
 ### Scoring decisions
@@ -206,9 +206,9 @@
 - Missing facts: Ordinary approved visitor circuit and accessible depth not established.
 
 ### Worldwide peers
-- [Ha Long Bay (VN)](../../../countries/VN/sights/ha-long-bay.yaml) — 97.85/100; I/U/S/E/D 9.8/9.9/9.7/9.8/9.6. impact comparison: Ordinary visible landscape experience unverified; subject field unknown. 
-- [Hohe Tauern National Park (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) — 92.60/100; I/U/S/E/D 9.4/9.1/9.0/9.5/9.4. uniqueness comparison: important migratory bird habitat; subject 8.7 versus peer 9.1. 
-- [Khao Sok National Park (TH)](../../../countries/TH/sights/khao-sok-national-park.yaml) — 93.30/100; I/U/S/E/D 9.4/9.4/9.1/9.4/9.3. significance comparison: international flyway conservation significance; subject 9.1 versus peer 9.1. 
+- [Ha Long Bay (VN)](../../../countries/VN/sights/ha-long-bay.yaml) — 97.85/100; I/U/S/E/D 9.8/9.9/9.7/9.8/9.6. impact comparison: Ordinary visible landscape experience unverified; subject field unknown.
+- [Hohe Tauern National Park (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) — 92.60/100; I/U/S/E/D 9.4/9.1/9.0/9.5/9.4. uniqueness comparison: important migratory bird habitat; subject 8.7 versus peer 9.1.
+- [Khao Sok National Park (TH)](../../../countries/TH/sights/khao-sok-national-park.yaml) — 93.30/100; I/U/S/E/D 9.4/9.4/9.1/9.4/9.3. significance comparison: international flyway conservation significance; subject 9.1 versus peer 9.1.
 - [Gesäuse National Park (AT)](../../../countries/AT/sights/gesaeuse-national-park.yaml) — 88.95/100; I/U/S/E/D 8.9/8.8/8.7/9.1/9.2. experience comparison: no verified visitor route; subject field unknown. Scope: serial representative area point not entrance.
 
 ### Scoring decisions
@@ -238,9 +238,9 @@
 - Missing facts: Ordinary approved visitor circuit and accessible depth not established.
 
 ### Worldwide peers
-- [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 99.70/100; I/U/S/E/D 10.0/10.0/10.0/9.8/10.0. impact comparison: Gates walls pavilions and tombs; subject 8.0 versus peer 10.0. 
-- [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) — 95.75/100; I/U/S/E/D 9.6/9.5/9.8/9.4/9.5. uniqueness comparison: important early walled capital evidence; subject 8.8 versus peer 9.5. 
-- [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) — 93.70/100; I/U/S/E/D 9.3/9.5/9.3/9.5/9.2. significance comparison: major East Asian urban development testimony; subject 9.2 versus peer 9.3. 
+- [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 99.70/100; I/U/S/E/D 10.0/10.0/10.0/9.8/10.0. impact comparison: Gates walls pavilions and tombs; subject 8.0 versus peer 10.0.
+- [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) — 95.75/100; I/U/S/E/D 9.6/9.5/9.8/9.4/9.5. uniqueness comparison: important early walled capital evidence; subject 8.8 versus peer 9.5.
+- [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) — 93.70/100; I/U/S/E/D 9.3/9.5/9.3/9.5/9.2. significance comparison: major East Asian urban development testimony; subject 9.2 versus peer 9.3.
 - [Carnuntum Archaeological Park (AT)](../../../countries/AT/sights/carnuntum-archaeological-park.yaml) — 87.95/100; I/U/S/E/D 8.7/8.9/9.0/8.8/8.4. experience comparison: permitted serial itinerary unverified; subject field unknown. Scope: coordinate Moran Hill component.
 
 ### Scoring decisions
@@ -270,9 +270,9 @@
 - Missing facts: Ordinary approved visitor circuit and accessible depth not established.
 
 ### Worldwide peers
-- [Ha Long Bay (VN)](../../../countries/VN/sights/ha-long-bay.yaml) — 97.85/100; I/U/S/E/D 9.8/9.9/9.7/9.8/9.6. impact comparison: Large crater lake encircled by volcanic peaks; subject 9.3 versus peer 9.8. 
-- [Hohe Tauern National Park (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) — 92.60/100; I/U/S/E/D 9.4/9.1/9.0/9.5/9.4. uniqueness comparison: distinctive sacred transboundary volcanic landscape; subject 9.1 versus peer 9.1. 
-- [Khao Sok National Park (TH)](../../../countries/TH/sights/khao-sok-national-park.yaml) — 93.30/100; I/U/S/E/D 9.4/9.4/9.1/9.4/9.3. significance comparison: significant Korean cultural and geological heritage; subject 9.0 versus peer 9.1. 
+- [Ha Long Bay (VN)](../../../countries/VN/sights/ha-long-bay.yaml) — 97.85/100; I/U/S/E/D 9.8/9.9/9.7/9.8/9.6. impact comparison: Large crater lake encircled by volcanic peaks; subject 9.3 versus peer 9.8.
+- [Hohe Tauern National Park (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) — 92.60/100; I/U/S/E/D 9.4/9.1/9.0/9.5/9.4. uniqueness comparison: distinctive sacred transboundary volcanic landscape; subject 9.1 versus peer 9.1.
+- [Khao Sok National Park (TH)](../../../countries/TH/sights/khao-sok-national-park.yaml) — 93.30/100; I/U/S/E/D 9.4/9.4/9.1/9.4/9.3. significance comparison: significant Korean cultural and geological heritage; subject 9.0 versus peer 9.1.
 - [Gesäuse National Park (AT)](../../../countries/AT/sights/gesaeuse-national-park.yaml) — 88.95/100; I/U/S/E/D 8.9/8.8/8.7/9.1/9.2. experience comparison: DPRK-side approved visitor circuit unverified; subject field unknown. Scope: no Chinese-side experiences included.
 
 ### Scoring decisions
@@ -302,9 +302,9 @@
 - Missing facts: Independent coordinates, actual permitted visit and condition require verification; tour reporting is not a guarantee.
 
 ### Worldwide peers
-- [Belvedere Palace (AT)](../../../countries/AT/sights/belvedere-palace.yaml) — 90.95/100; I/U/S/E/D 9.0/9.1/9.2/9.2/9.0. impact comparison: Ornate underground station interiors; subject 8.3 versus peer 9.0. 
-- [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) — 93.70/100; I/U/S/E/D 9.3/9.5/9.3/9.5/9.2. uniqueness comparison: unusual combination of transit and socialist monumental art; subject 8.7 versus peer 9.5. 
-- [Wat Phra Kaew (TH)](../../../countries/TH/sights/wat-phra-kaew.yaml) — 94.80/100; I/U/S/E/D 9.4/9.6/9.8/9.4/8.9. significance comparison: significant modern urban architecture; subject 7.7 versus peer 9.8. 
+- [Belvedere Palace (AT)](../../../countries/AT/sights/belvedere-palace.yaml) — 90.95/100; I/U/S/E/D 9.0/9.1/9.2/9.2/9.0. impact comparison: Ornate underground station interiors; subject 8.3 versus peer 9.0.
+- [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) — 93.70/100; I/U/S/E/D 9.3/9.5/9.3/9.5/9.2. uniqueness comparison: unusual combination of transit and socialist monumental art; subject 8.7 versus peer 9.5.
+- [Wat Phra Kaew (TH)](../../../countries/TH/sights/wat-phra-kaew.yaml) — 94.80/100; I/U/S/E/D 9.4/9.6/9.8/9.4/8.9. significance comparison: significant modern urban architecture; subject 7.7 versus peer 9.8.
 - [Bulguksa Temple (KR)](../../../countries/KR/sights/bulguksa-temple.yaml) — 93.15/100; I/U/S/E/D 9.2/9.4/9.6/9.3/8.9. experience comparison: reported guided metro rides in 2026; subject 8.0 versus peer 9.3. Scope: limited selected stations rather than entire network.
 
 ### Scoring decisions
@@ -334,9 +334,9 @@
 - Missing facts: Ordinary approved visitor circuit and accessible depth not established.
 
 ### Worldwide peers
-- [Belvedere Palace (AT)](../../../countries/AT/sights/belvedere-palace.yaml) — 90.95/100; I/U/S/E/D 9.0/9.1/9.2/9.2/9.0. impact comparison: Tall stone tower and river setting; subject 8.1 versus peer 9.0. 
-- [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) — 93.70/100; I/U/S/E/D 9.3/9.5/9.3/9.5/9.2. uniqueness comparison: distinctive state ideological monument; subject 8.2 versus peer 9.5. 
-- [Wat Phra Kaew (TH)](../../../countries/TH/sights/wat-phra-kaew.yaml) — 94.80/100; I/U/S/E/D 9.4/9.6/9.8/9.4/8.9. significance comparison: modern political historical context without endorsement; subject 7.9 versus peer 9.8. 
+- [Belvedere Palace (AT)](../../../countries/AT/sights/belvedere-palace.yaml) — 90.95/100; I/U/S/E/D 9.0/9.1/9.2/9.2/9.0. impact comparison: Tall stone tower and river setting; subject 8.1 versus peer 9.0.
+- [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) — 93.70/100; I/U/S/E/D 9.3/9.5/9.3/9.5/9.2. uniqueness comparison: distinctive state ideological monument; subject 8.2 versus peer 9.5.
+- [Wat Phra Kaew (TH)](../../../countries/TH/sights/wat-phra-kaew.yaml) — 94.80/100; I/U/S/E/D 9.4/9.6/9.8/9.4/8.9. significance comparison: modern political historical context without endorsement; subject 7.9 versus peer 9.8.
 - [Bulguksa Temple (KR)](../../../countries/KR/sights/bulguksa-temple.yaml) — 93.15/100; I/U/S/E/D 9.2/9.4/9.6/9.3/8.9. experience comparison: current permitted viewing platform access unverified; subject field unknown. Scope: one tower and plaza.
 
 ### Scoring decisions
@@ -366,9 +366,9 @@
 - Missing facts: Ordinary approved visitor circuit and accessible depth not established.
 
 ### Worldwide peers
-- [Belvedere Palace (AT)](../../../countries/AT/sights/belvedere-palace.yaml) — 90.95/100; I/U/S/E/D 9.0/9.1/9.2/9.2/9.0. impact comparison: Large axial civic square; subject 7.6 versus peer 9.0. 
-- [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) — 93.70/100; I/U/S/E/D 9.3/9.5/9.3/9.5/9.2. uniqueness comparison: distinctive planned political ceremonial setting; subject 7.8 versus peer 9.5. 
-- [Wat Phra Kaew (TH)](../../../countries/TH/sights/wat-phra-kaew.yaml) — 94.80/100; I/U/S/E/D 9.4/9.6/9.8/9.4/8.9. significance comparison: significant modern political history; subject 8.0 versus peer 9.8. 
+- [Belvedere Palace (AT)](../../../countries/AT/sights/belvedere-palace.yaml) — 90.95/100; I/U/S/E/D 9.0/9.1/9.2/9.2/9.0. impact comparison: Large axial civic square; subject 7.6 versus peer 9.0.
+- [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) — 93.70/100; I/U/S/E/D 9.3/9.5/9.3/9.5/9.2. uniqueness comparison: distinctive planned political ceremonial setting; subject 7.8 versus peer 9.5.
+- [Wat Phra Kaew (TH)](../../../countries/TH/sights/wat-phra-kaew.yaml) — 94.80/100; I/U/S/E/D 9.4/9.6/9.8/9.4/8.9. significance comparison: significant modern political history; subject 8.0 versus peer 9.8.
 - [Bulguksa Temple (KR)](../../../countries/KR/sights/bulguksa-temple.yaml) — 93.15/100; I/U/S/E/D 9.2/9.4/9.6/9.3/8.9. experience comparison: ordinary approved access not independently confirmed; subject field unknown. Scope: one square rather than entire city.
 
 ### Scoring decisions
@@ -398,9 +398,9 @@
 - Missing facts: Ordinary approved visitor circuit and accessible depth not established.
 
 ### Worldwide peers
-- [Belvedere Palace (AT)](../../../countries/AT/sights/belvedere-palace.yaml) — 90.95/100; I/U/S/E/D 9.0/9.1/9.2/9.2/9.0. impact comparison: Large stone triumphal arch; subject 7.8 versus peer 9.0. 
-- [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) — 93.70/100; I/U/S/E/D 9.3/9.5/9.3/9.5/9.2. uniqueness comparison: comparable commemorative arch form; subject 7.5 versus peer 9.5. 
-- [Wat Phra Kaew (TH)](../../../countries/TH/sights/wat-phra-kaew.yaml) — 94.80/100; I/U/S/E/D 9.4/9.6/9.8/9.4/8.9. significance comparison: regional modern historical significance; subject 7.8 versus peer 9.8. 
+- [Belvedere Palace (AT)](../../../countries/AT/sights/belvedere-palace.yaml) — 90.95/100; I/U/S/E/D 9.0/9.1/9.2/9.2/9.0. impact comparison: Large stone triumphal arch; subject 7.8 versus peer 9.0.
+- [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) — 93.70/100; I/U/S/E/D 9.3/9.5/9.3/9.5/9.2. uniqueness comparison: comparable commemorative arch form; subject 7.5 versus peer 9.5.
+- [Wat Phra Kaew (TH)](../../../countries/TH/sights/wat-phra-kaew.yaml) — 94.80/100; I/U/S/E/D 9.4/9.6/9.8/9.4/8.9. significance comparison: regional modern historical significance; subject 7.8 versus peer 9.8.
 - [Bulguksa Temple (KR)](../../../countries/KR/sights/bulguksa-temple.yaml) — 93.15/100; I/U/S/E/D 9.2/9.4/9.6/9.3/8.9. experience comparison: current approved viewing unverified; subject field unknown. Scope: single monument.
 
 ### Scoring decisions
@@ -430,9 +430,9 @@
 - Missing facts: Independent coordinates, actual permitted visit and condition require verification; tour reporting is not a guarantee.
 
 ### Worldwide peers
-- [Belvedere Palace (AT)](../../../countries/AT/sights/belvedere-palace.yaml) — 90.95/100; I/U/S/E/D 9.0/9.1/9.2/9.2/9.0. impact comparison: Large curated military history displays; subject 8.0 versus peer 9.0. 
-- [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) — 93.70/100; I/U/S/E/D 9.3/9.5/9.3/9.5/9.2. uniqueness comparison: distinctive state-controlled presentation; subject 8.4 versus peer 9.5. 
-- [Wat Phra Kaew (TH)](../../../countries/TH/sights/wat-phra-kaew.yaml) — 94.80/100; I/U/S/E/D 9.4/9.6/9.8/9.4/8.9. significance comparison: significant Korean War historical subject but partisan narrative; subject 8.5 versus peer 9.8. 
+- [Belvedere Palace (AT)](../../../countries/AT/sights/belvedere-palace.yaml) — 90.95/100; I/U/S/E/D 9.0/9.1/9.2/9.2/9.0. impact comparison: Large curated military history displays; subject 8.0 versus peer 9.0.
+- [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) — 93.70/100; I/U/S/E/D 9.3/9.5/9.3/9.5/9.2. uniqueness comparison: distinctive state-controlled presentation; subject 8.4 versus peer 9.5.
+- [Wat Phra Kaew (TH)](../../../countries/TH/sights/wat-phra-kaew.yaml) — 94.80/100; I/U/S/E/D 9.4/9.6/9.8/9.4/8.9. significance comparison: significant Korean War historical subject but partisan narrative; subject 8.5 versus peer 9.8.
 - [Bulguksa Temple (KR)](../../../countries/KR/sights/bulguksa-temple.yaml) — 93.15/100; I/U/S/E/D 9.2/9.4/9.6/9.3/8.9. experience comparison: guided museum circuit reported in 2026, interpretation not independent; subject 7.4 versus peer 9.3. Scope: multiple galleries with constrained perspective.
 
 ### Scoring decisions
@@ -462,9 +462,9 @@
 - Missing facts: Independent coordinates, actual permitted visit and condition require verification; tour reporting is not a guarantee.
 
 ### Worldwide peers
-- [Belvedere Palace (AT)](../../../countries/AT/sights/belvedere-palace.yaml) — 90.95/100; I/U/S/E/D 9.0/9.1/9.2/9.2/9.0. impact comparison: Large halls displaying diplomatic gifts; subject 7.8 versus peer 9.0. 
-- [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) — 93.70/100; I/U/S/E/D 9.3/9.5/9.3/9.5/9.2. uniqueness comparison: unusual state ceremonial collection; subject 8.4 versus peer 9.5. 
-- [Wat Phra Kaew (TH)](../../../countries/TH/sights/wat-phra-kaew.yaml) — 94.80/100; I/U/S/E/D 9.4/9.6/9.8/9.4/8.9. significance comparison: regional diplomatic history; subject 7.7 versus peer 9.8. 
+- [Belvedere Palace (AT)](../../../countries/AT/sights/belvedere-palace.yaml) — 90.95/100; I/U/S/E/D 9.0/9.1/9.2/9.2/9.0. impact comparison: Large halls displaying diplomatic gifts; subject 7.8 versus peer 9.0.
+- [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) — 93.70/100; I/U/S/E/D 9.3/9.5/9.3/9.5/9.2. uniqueness comparison: unusual state ceremonial collection; subject 8.4 versus peer 9.5.
+- [Wat Phra Kaew (TH)](../../../countries/TH/sights/wat-phra-kaew.yaml) — 94.80/100; I/U/S/E/D 9.4/9.6/9.8/9.4/8.9. significance comparison: regional diplomatic history; subject 7.7 versus peer 9.8.
 - [Bulguksa Temple (KR)](../../../countries/KR/sights/bulguksa-temple.yaml) — 93.15/100; I/U/S/E/D 9.2/9.4/9.6/9.3/8.9. experience comparison: organized visit reported in 2026; subject 7.2 versus peer 9.3. Scope: bounded galleries with curated narrative.
 
 ### Scoring decisions
@@ -494,9 +494,9 @@
 - Missing facts: Independent coordinates, actual permitted visit and condition require verification; tour reporting is not a guarantee.
 
 ### Worldwide peers
-- [Ha Long Bay (VN)](../../../countries/VN/sights/ha-long-bay.yaml) — 97.85/100; I/U/S/E/D 9.8/9.9/9.7/9.8/9.6. impact comparison: Long beach and modern resort buildings; subject 7.8 versus peer 9.8. 
-- [Hohe Tauern National Park (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) — 92.60/100; I/U/S/E/D 9.4/9.1/9.0/9.5/9.4. uniqueness comparison: comparable coastal resort concept; subject 7.1 versus peer 9.1. 
-- [Khao Sok National Park (TH)](../../../countries/TH/sights/khao-sok-national-park.yaml) — 93.30/100; I/U/S/E/D 9.4/9.4/9.1/9.4/9.3. significance comparison: recent development rather than global heritage; subject 6.3 versus peer 9.1. 
+- [Ha Long Bay (VN)](../../../countries/VN/sights/ha-long-bay.yaml) — 97.85/100; I/U/S/E/D 9.8/9.9/9.7/9.8/9.6. impact comparison: Long beach and modern resort buildings; subject 7.8 versus peer 9.8.
+- [Hohe Tauern National Park (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) — 92.60/100; I/U/S/E/D 9.4/9.1/9.0/9.5/9.4. uniqueness comparison: comparable coastal resort concept; subject 7.1 versus peer 9.1.
+- [Khao Sok National Park (TH)](../../../countries/TH/sights/khao-sok-national-park.yaml) — 93.30/100; I/U/S/E/D 9.4/9.4/9.1/9.4/9.3. significance comparison: recent development rather than global heritage; subject 6.3 versus peer 9.1.
 - [Gesäuse National Park (AT)](../../../countries/AT/sights/gesaeuse-national-park.yaml) — 88.95/100; I/U/S/E/D 8.9/8.8/8.7/9.1/9.2. experience comparison: organized beach stays reported in 2026; subject 7.8 versus peer 9.1. Scope: designated resort area only.
 
 ### Scoring decisions
@@ -526,9 +526,9 @@
 - Missing facts: Ordinary approved visitor circuit and accessible depth not established.
 
 ### Worldwide peers
-- [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 99.70/100; I/U/S/E/D 10.0/10.0/10.0/9.8/10.0. impact comparison: Traditional wooden halls and pagodas; subject 8.1 versus peer 10.0. 
-- [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) — 95.75/100; I/U/S/E/D 9.6/9.5/9.8/9.4/9.5. uniqueness comparison: important Korean Buddhist architectural tradition; subject 8.4 versus peer 9.5. 
-- [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) — 93.70/100; I/U/S/E/D 9.3/9.5/9.3/9.5/9.2. significance comparison: regional medieval religious history; subject 8.6 versus peer 9.3. 
+- [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 99.70/100; I/U/S/E/D 10.0/10.0/10.0/9.8/10.0. impact comparison: Traditional wooden halls and pagodas; subject 8.1 versus peer 10.0.
+- [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) — 95.75/100; I/U/S/E/D 9.6/9.5/9.8/9.4/9.5. uniqueness comparison: important Korean Buddhist architectural tradition; subject 8.4 versus peer 9.5.
+- [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) — 93.70/100; I/U/S/E/D 9.3/9.5/9.3/9.5/9.2. significance comparison: regional medieval religious history; subject 8.6 versus peer 9.3.
 - [Carnuntum Archaeological Park (AT)](../../../countries/AT/sights/carnuntum-archaeological-park.yaml) — 87.95/100; I/U/S/E/D 8.7/8.9/9.0/8.8/8.4. experience comparison: current approved temple circuit unverified; subject field unknown. Scope: one temple not whole Myohyang.
 
 ### Scoring decisions
@@ -558,9 +558,9 @@
 - Missing facts: Ordinary approved visitor circuit and accessible depth not established.
 
 ### Worldwide peers
-- [Belvedere Palace (AT)](../../../countries/AT/sights/belvedere-palace.yaml) — 90.95/100; I/U/S/E/D 9.0/9.1/9.2/9.2/9.0. impact comparison: Historic academy buildings and collections; subject 8.0 versus peer 9.0. 
-- [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) — 93.70/100; I/U/S/E/D 9.3/9.5/9.3/9.5/9.2. uniqueness comparison: distinctive Koryo educational institution; subject 8.5 versus peer 9.5. 
-- [Wat Phra Kaew (TH)](../../../countries/TH/sights/wat-phra-kaew.yaml) — 94.80/100; I/U/S/E/D 9.4/9.6/9.8/9.4/8.9. significance comparison: major dynastic cultural heritage; subject 8.9 versus peer 9.8. 
+- [Belvedere Palace (AT)](../../../countries/AT/sights/belvedere-palace.yaml) — 90.95/100; I/U/S/E/D 9.0/9.1/9.2/9.2/9.0. impact comparison: Historic academy buildings and collections; subject 8.0 versus peer 9.0.
+- [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) — 93.70/100; I/U/S/E/D 9.3/9.5/9.3/9.5/9.2. uniqueness comparison: distinctive Koryo educational institution; subject 8.5 versus peer 9.5.
+- [Wat Phra Kaew (TH)](../../../countries/TH/sights/wat-phra-kaew.yaml) — 94.80/100; I/U/S/E/D 9.4/9.6/9.8/9.4/8.9. significance comparison: major dynastic cultural heritage; subject 8.9 versus peer 9.8.
 - [Bulguksa Temple (KR)](../../../countries/KR/sights/bulguksa-temple.yaml) — 93.15/100; I/U/S/E/D 9.2/9.4/9.6/9.3/8.9. experience comparison: ordinary current gallery and building access unclear; subject field unknown. Scope: one Kaesong component.
 
 ### Scoring decisions
@@ -590,9 +590,9 @@
 - Missing facts: Ordinary approved visitor circuit and accessible depth not established.
 
 ### Worldwide peers
-- [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 99.70/100; I/U/S/E/D 10.0/10.0/10.0/9.8/10.0. impact comparison: Stone figures and paired royal burial mounds; subject 8.3 versus peer 10.0. 
-- [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) — 95.75/100; I/U/S/E/D 9.6/9.5/9.8/9.4/9.5. uniqueness comparison: distinctive Koryo royal funerary ensemble; subject 8.8 versus peer 9.5. 
-- [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) — 93.70/100; I/U/S/E/D 9.3/9.5/9.3/9.5/9.2. significance comparison: major late Koryo history; subject 8.9 versus peer 9.3. 
+- [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 99.70/100; I/U/S/E/D 10.0/10.0/10.0/9.8/10.0. impact comparison: Stone figures and paired royal burial mounds; subject 8.3 versus peer 10.0.
+- [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) — 95.75/100; I/U/S/E/D 9.6/9.5/9.8/9.4/9.5. uniqueness comparison: distinctive Koryo royal funerary ensemble; subject 8.8 versus peer 9.5.
+- [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) — 93.70/100; I/U/S/E/D 9.3/9.5/9.3/9.5/9.2. significance comparison: major late Koryo history; subject 8.9 versus peer 9.3.
 - [Carnuntum Archaeological Park (AT)](../../../countries/AT/sights/carnuntum-archaeological-park.yaml) — 87.95/100; I/U/S/E/D 8.7/8.9/9.0/8.8/8.4. experience comparison: permitted exterior circuit unconfirmed; subject field unknown. Scope: one serial component.
 
 ### Scoring decisions
@@ -622,9 +622,9 @@
 - Missing facts: Ordinary approved visitor circuit and accessible depth not established.
 
 ### Worldwide peers
-- [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 99.70/100; I/U/S/E/D 10.0/10.0/10.0/9.8/10.0. impact comparison: Urban hill with pavilions and historic gates; subject 7.6 versus peer 10.0. 
-- [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) — 95.75/100; I/U/S/E/D 9.6/9.5/9.8/9.4/9.5. uniqueness comparison: distinctive urban historic landscape; subject 7.8 versus peer 9.5. 
-- [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) — 93.70/100; I/U/S/E/D 9.3/9.5/9.3/9.5/9.2. significance comparison: Koguryo and later city heritage; subject 8.2 versus peer 9.3. 
+- [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 99.70/100; I/U/S/E/D 10.0/10.0/10.0/9.8/10.0. impact comparison: Urban hill with pavilions and historic gates; subject 7.6 versus peer 10.0.
+- [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) — 95.75/100; I/U/S/E/D 9.6/9.5/9.8/9.4/9.5. uniqueness comparison: distinctive urban historic landscape; subject 7.8 versus peer 9.5.
+- [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) — 93.70/100; I/U/S/E/D 9.3/9.5/9.3/9.5/9.2. significance comparison: Koguryo and later city heritage; subject 8.2 versus peer 9.3.
 - [Carnuntum Archaeological Park (AT)](../../../countries/AT/sights/carnuntum-archaeological-park.yaml) — 87.95/100; I/U/S/E/D 8.7/8.9/9.0/8.8/8.4. experience comparison: permitted visitor scope unknown; subject field unknown. Scope: nominated hill component only.
 
 ### Scoring decisions
@@ -654,9 +654,9 @@
 - Missing facts: Ordinary approved visitor circuit and accessible depth not established.
 
 ### Worldwide peers
-- [Ha Long Bay (VN)](../../../countries/VN/sights/ha-long-bay.yaml) — 97.85/100; I/U/S/E/D 9.8/9.9/9.7/9.8/9.6. impact comparison: Forested slopes and ski infrastructure; subject 7.5 versus peer 9.8. 
-- [Hohe Tauern National Park (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) — 92.60/100; I/U/S/E/D 9.4/9.1/9.0/9.5/9.4. uniqueness comparison: comparable modern ski area; subject 7.1 versus peer 9.1. 
-- [Khao Sok National Park (TH)](../../../countries/TH/sights/khao-sok-national-park.yaml) — 93.30/100; I/U/S/E/D 9.4/9.4/9.1/9.4/9.3. significance comparison: modest global heritage value; subject 6.0 versus peer 9.1. 
+- [Ha Long Bay (VN)](../../../countries/VN/sights/ha-long-bay.yaml) — 97.85/100; I/U/S/E/D 9.8/9.9/9.7/9.8/9.6. impact comparison: Forested slopes and ski infrastructure; subject 7.5 versus peer 9.8.
+- [Hohe Tauern National Park (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) — 92.60/100; I/U/S/E/D 9.4/9.1/9.0/9.5/9.4. uniqueness comparison: comparable modern ski area; subject 7.1 versus peer 9.1.
+- [Khao Sok National Park (TH)](../../../countries/TH/sights/khao-sok-national-park.yaml) — 93.30/100; I/U/S/E/D 9.4/9.4/9.1/9.4/9.3. significance comparison: modest global heritage value; subject 6.0 versus peer 9.1.
 - [Gesäuse National Park (AT)](../../../countries/AT/sights/gesaeuse-national-park.yaml) — 88.95/100; I/U/S/E/D 8.9/8.8/8.7/9.1/9.2. experience comparison: current ordinary ski circuit not verified; subject field unknown. Scope: no assumed access to all runs.
 
 ### Scoring decisions
@@ -686,9 +686,9 @@
 - Missing facts: Ordinary approved visitor circuit and accessible depth not established.
 
 ### Worldwide peers
-- [Ha Long Bay (VN)](../../../countries/VN/sights/ha-long-bay.yaml) — 97.85/100; I/U/S/E/D 9.8/9.9/9.7/9.8/9.6. impact comparison: Spring-fed cascades and rock faces; subject 8.1 versus peer 9.8. 
-- [Hohe Tauern National Park (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) — 92.60/100; I/U/S/E/D 9.4/9.1/9.0/9.5/9.4. uniqueness comparison: distinctive regional spring landscape; subject 8.1 versus peer 9.1. 
-- [Khao Sok National Park (TH)](../../../countries/TH/sights/khao-sok-national-park.yaml) — 93.30/100; I/U/S/E/D 9.4/9.4/9.1/9.4/9.3. significance comparison: local geological interest; subject 7.5 versus peer 9.1. 
+- [Ha Long Bay (VN)](../../../countries/VN/sights/ha-long-bay.yaml) — 97.85/100; I/U/S/E/D 9.8/9.9/9.7/9.8/9.6. impact comparison: Spring-fed cascades and rock faces; subject 8.1 versus peer 9.8.
+- [Hohe Tauern National Park (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) — 92.60/100; I/U/S/E/D 9.4/9.1/9.0/9.5/9.4. uniqueness comparison: distinctive regional spring landscape; subject 8.1 versus peer 9.1.
+- [Khao Sok National Park (TH)](../../../countries/TH/sights/khao-sok-national-park.yaml) — 93.30/100; I/U/S/E/D 9.4/9.4/9.1/9.4/9.3. significance comparison: local geological interest; subject 7.5 versus peer 9.1.
 - [Gesäuse National Park (AT)](../../../countries/AT/sights/gesaeuse-national-park.yaml) — 88.95/100; I/U/S/E/D 8.9/8.8/8.7/9.1/9.2. experience comparison: ordinary permitted viewing unverified; subject field unknown. Scope: one waterfall area.
 
 ### Scoring decisions
@@ -707,3 +707,12 @@
 - Final decision: Keep unranked until adequate evidence.
 - Verification still needed: precise GPS, material claims, actual permitted scope, live comparator values and suitability.
 
+
+## Follow-up: identity evidence and two bounded visitor experiences — 2026-11-25
+
+- [Rimyongsu Falls](../../../countries/KP/sights/rimyongsu-falls.yaml): [Koryo Tours site guide](https://koryogroup.com/travel-guide/rimyongsu-waterfall-north-korea-travel-guide) documents the waterfall and seasonal freezing; historical guide does not confirm current visitor circuit. Retain null E/D.
+- [Mount Paektu](../../../countries/KP/sights/paektu.yaml): [UN country office](https://dprk.un.org/en/312634-dprks-mount-paektu-designated-unesco-global-geopark) confirms the April 2025 UNESCO Global Geopark designation, distinct from World Heritage inscription. [Reuters, November 2026](https://www.reuters.com/world/china/north-koreas-kim-inspects-tourist-zone-senior-official-visits-moscow-2026-11-16/) describes nearby tourism development, not ordinary summit/lake access. Remains unranked.
+- [Kim Il Sung Square](../../../countries/KP/sights/kim-il-sung-square.yaml): **source-linked-unverified**. [The Moscow Times, August 2026](https://www.themoscowtimes.com/2026/08/21/moscow-is-touting-north-korea-as-a-new-tourism-hotspot-few-russians-are-making-the-trip-a93388) identifies a square walk on an organized tour itinerary; [Koryo Tours](https://koryogroup.com/travel-guide/north-korea-guide-kim-il-sung-square) and [KBS](https://world.kbs.co.kr/special/northkorea/contents/news/koreatoday_view.htm?No=434452&current_page=15&lang=e) corroborate the setting and history. Existing impact/uniqueness/significance 7.6/7.8/8.0 retained; experience 7.4 for bounded guided exterior walk; depth 6.3 for limited interpretation, excluding nearby museum interiors, special events and wider city. Overall 75.70/100. Current main peers: [Sukhbaatar Square (MN)](../../../countries/MN/sights/sukhbaatar-square.yaml) 7.4/7.3/8.1/7.7/6.8, similar monumental civic space but broader ordinary exploration; [Ala-Too Square (KG)](../../../countries/KG/sights/ala-too-square.yaml) 7.1/6.9/7.7/7.5/6.5, comparable short plaza visit; [Republic Square (AM)](../../../countries/AM/sights/republic-square.yaml) 8.1/7.8/7.8/8.4/7.2, stronger architecture and public realm; [Skanderbeg Square (AL)](../../../countries/AL/sights/skanderbeg-square.yaml) 8.0/8.1/8.5/8.3/7.7, broader cultural interpretation. This rating measures the documented guided experience, not political approval or unrestricted access.
+- [Masikryong Ski Resort](../../../countries/KP/sights/masikryong.yaml): **source-linked-unverified**. [Yonhap, February 2026](https://en.yna.co.kr/view/AEN20260219009200315) reports Russian group visits and ski competition; [NK News, February 2025](https://www.nknews.org/2025/02/how-north-korean-ski-resort-forced-russian-tourists-to-play-culinary-roulette/) describes actual visitor skiing. Retain I/U/S 7.5/7.1/6.0; experience 8.0 for documented skiing and resort stay, depth 7.6 for varied but not fully verified usable slopes. Overall 71.85/100. Current main peers: [Yabuli (CN)](../../../countries/CN/sights/yabuli-ski-resort.yaml) 8.3/8.1/7.4/9.0/9.0, larger established ski network; [Shymbulak (KZ)](../../../countries/KZ/sights/shymbulak-ski-resort.yaml) 8.6/8.0/6.8/9.0/8.4, stronger mountain landscape and route range; [Malbun (LI)](../../../countries/LI/sights/malbun-ski-area.yaml) 7.9/7.5/6.6/8.5/8.0, more established compact ski experience; [Brezovica (XK)](../../../countries/XK/sights/brezovica-ski-resort.yaml) 8.2/7.9/6.9/8.3/8.1, stronger terrain and breadth. Category and location unchanged. Current individual run opening and representative GPS not independently verified.
+
+[UNESCO national inventory](https://whc.unesco.org/en/statesparties/KP/) confirms all three inscribed and five tentative properties represented. The property-level inventory is complete, not all component sites or tourist attractions. All 30 records now have relevant supporting sources, including five previously without individual sources. Eight fully scored editorial records, 22 unassessed. No new perfect ten, no 90+ total, no global weight change. Historical guides corroborate identity but do not establish present access. For the Myohyang, war museum, metro and friendship exhibition rankings, the cited 2026 report refers in part to an advertised 2027 itinerary; this is itinerary evidence, not confirmation that a 2026 visit occurred. No claim of general tourism eligibility, present unrestricted access or independent verification of all material claims/GPS.

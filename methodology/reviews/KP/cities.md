@@ -14,9 +14,9 @@
 - Missing facts: Independent coordinates, actual permitted visit and condition require verification; tour reporting is not a guarantee.
 
 ### Worldwide peers
-- [Vienna (AT)](../../../countries/AT/cities/vienna.yaml) — 92.30/100; I/U/S/E/D 9.2/9.0/9.5/9.2/9.4. impact comparison: Monumental avenues and riverside skyline; subject 8.3 versus peer 9.2. 
-- [Hanoi (VN)](../../../countries/VN/cities/hanoi.yaml) — 88.30/100; I/U/S/E/D 8.7/8.8/8.9/8.8/9.2. uniqueness comparison: unusual planned socialist capital; subject 8.9 versus peer 8.8. 
-- [Chiang Mai (TH)](../../../countries/TH/cities/chiang-mai.yaml) — 89.45/100; I/U/S/E/D 8.9/9.0/8.8/9.1/9.0. significance comparison: major modern Korean political history; subject 8.4 versus peer 8.8. 
+- [Vienna (AT)](../../../countries/AT/cities/vienna.yaml) — 92.30/100; I/U/S/E/D 9.2/9.0/9.5/9.2/9.4. impact comparison: Monumental avenues and riverside skyline; subject 8.3 versus peer 9.2.
+- [Hanoi (VN)](../../../countries/VN/cities/hanoi.yaml) — 88.30/100; I/U/S/E/D 8.7/8.8/8.9/8.8/9.2. uniqueness comparison: unusual planned socialist capital; subject 8.9 versus peer 8.8.
+- [Chiang Mai (TH)](../../../countries/TH/cities/chiang-mai.yaml) — 89.45/100; I/U/S/E/D 8.9/9.0/8.8/9.1/9.0. significance comparison: major modern Korean political history; subject 8.4 versus peer 8.8.
 - [Hallstatt (AT)](../../../countries/AT/cities/hallstatt.yaml) — 82.00/100; I/U/S/E/D 8.3/8.4/8.1/8.2/7.6. experience comparison: organized sightseeing with restricted interaction; subject 7.1 versus peer 8.2. Scope: several approved sites rather than independent city exploration.
 
 ### Scoring decisions
@@ -46,9 +46,9 @@
 - Missing facts: Ordinary approved visitor circuit and accessible depth not established.
 
 ### Worldwide peers
-- [Vienna (AT)](../../../countries/AT/cities/vienna.yaml) — 92.30/100; I/U/S/E/D 9.2/9.0/9.5/9.2/9.4. impact comparison: Historic low-rise streets and surrounding hills; subject 8.1 versus peer 9.2. 
-- [Hanoi (VN)](../../../countries/VN/cities/hanoi.yaml) — 88.30/100; I/U/S/E/D 8.7/8.8/8.9/8.8/9.2. uniqueness comparison: former Koryo capital with distinctive surviving fabric; subject 8.5 versus peer 8.8. 
-- [Chiang Mai (TH)](../../../countries/TH/cities/chiang-mai.yaml) — 89.45/100; I/U/S/E/D 8.9/9.0/8.8/9.1/9.0. significance comparison: major Korean dynastic heritage; subject 9.0 versus peer 8.8. 
+- [Vienna (AT)](../../../countries/AT/cities/vienna.yaml) — 92.30/100; I/U/S/E/D 9.2/9.0/9.5/9.2/9.4. impact comparison: Historic low-rise streets and surrounding hills; subject 8.1 versus peer 9.2.
+- [Hanoi (VN)](../../../countries/VN/cities/hanoi.yaml) — 88.30/100; I/U/S/E/D 8.7/8.8/8.9/8.8/9.2. uniqueness comparison: former Koryo capital with distinctive surviving fabric; subject 8.5 versus peer 8.8.
+- [Chiang Mai (TH)](../../../countries/TH/cities/chiang-mai.yaml) — 89.45/100; I/U/S/E/D 8.9/9.0/8.8/9.1/9.0. significance comparison: major Korean dynastic heritage; subject 9.0 versus peer 8.8.
 - [Hallstatt (AT)](../../../countries/AT/cities/hallstatt.yaml) — 82.00/100; I/U/S/E/D 8.3/8.4/8.1/8.2/7.6. experience comparison: current approved city circuit unverified; subject field unknown. Scope: excludes full serial heritage property.
 
 ### Scoring decisions
@@ -78,9 +78,9 @@
 - Missing facts: Ordinary approved visitor circuit and accessible depth not established.
 
 ### Worldwide peers
-- [Vienna (AT)](../../../countries/AT/cities/vienna.yaml) — 92.30/100; I/U/S/E/D 9.2/9.0/9.5/9.2/9.4. impact comparison: Harbor and mountain backdrop; subject 7.5 versus peer 9.2. 
-- [Hanoi (VN)](../../../countries/VN/cities/hanoi.yaml) — 88.30/100; I/U/S/E/D 8.7/8.8/8.9/8.8/9.2. uniqueness comparison: regional coastal city identity; subject 7.1 versus peer 8.8. 
-- [Chiang Mai (TH)](../../../countries/TH/cities/chiang-mai.yaml) — 89.45/100; I/U/S/E/D 8.9/9.0/8.8/9.1/9.0. significance comparison: regional maritime history; subject 7.3 versus peer 8.8. 
+- [Vienna (AT)](../../../countries/AT/cities/vienna.yaml) — 92.30/100; I/U/S/E/D 9.2/9.0/9.5/9.2/9.4. impact comparison: Harbor and mountain backdrop; subject 7.5 versus peer 9.2.
+- [Hanoi (VN)](../../../countries/VN/cities/hanoi.yaml) — 88.30/100; I/U/S/E/D 8.7/8.8/8.9/8.8/9.2. uniqueness comparison: regional coastal city identity; subject 7.1 versus peer 8.8.
+- [Chiang Mai (TH)](../../../countries/TH/cities/chiang-mai.yaml) — 89.45/100; I/U/S/E/D 8.9/9.0/8.8/9.1/9.0. significance comparison: regional maritime history; subject 7.3 versus peer 8.8.
 - [Hallstatt (AT)](../../../countries/AT/cities/hallstatt.yaml) — 82.00/100; I/U/S/E/D 8.3/8.4/8.1/8.2/7.6. experience comparison: city tour not established by resort-only itinerary; subject field unknown. Scope: excludes Kalma resort.
 
 ### Scoring decisions
@@ -110,9 +110,9 @@
 - Missing facts: Ordinary approved visitor circuit and accessible depth not established.
 
 ### Worldwide peers
-- [Vienna (AT)](../../../countries/AT/cities/vienna.yaml) — 92.30/100; I/U/S/E/D 9.2/9.0/9.5/9.2/9.4. impact comparison: Harbor and surrounding hills; subject 7.0 versus peer 9.2. 
-- [Hanoi (VN)](../../../countries/VN/cities/hanoi.yaml) — 88.30/100; I/U/S/E/D 8.7/8.8/8.9/8.8/9.2. uniqueness comparison: distinctive border trade region; subject 7.5 versus peer 8.8. 
-- [Chiang Mai (TH)](../../../countries/TH/cities/chiang-mai.yaml) — 89.45/100; I/U/S/E/D 8.9/9.0/8.8/9.1/9.0. significance comparison: regional economic history; subject 7.0 versus peer 8.8. 
+- [Vienna (AT)](../../../countries/AT/cities/vienna.yaml) — 92.30/100; I/U/S/E/D 9.2/9.0/9.5/9.2/9.4. impact comparison: Harbor and surrounding hills; subject 7.0 versus peer 9.2.
+- [Hanoi (VN)](../../../countries/VN/cities/hanoi.yaml) — 88.30/100; I/U/S/E/D 8.7/8.8/8.9/8.8/9.2. uniqueness comparison: distinctive border trade region; subject 7.5 versus peer 8.8.
+- [Chiang Mai (TH)](../../../countries/TH/cities/chiang-mai.yaml) — 89.45/100; I/U/S/E/D 8.9/9.0/8.8/9.1/9.0. significance comparison: regional economic history; subject 7.0 versus peer 8.8.
 - [Hallstatt (AT)](../../../countries/AT/cities/hallstatt.yaml) — 82.00/100; I/U/S/E/D 8.3/8.4/8.1/8.2/7.6. experience comparison: recent visitor circuit unclear; subject field unknown. Scope: administrative zone not unrestricted town access.
 
 ### Scoring decisions
@@ -142,9 +142,9 @@
 - Missing facts: Ordinary approved visitor circuit and accessible depth not established.
 
 ### Worldwide peers
-- [Vienna (AT)](../../../countries/AT/cities/vienna.yaml) — 92.30/100; I/U/S/E/D 9.2/9.0/9.5/9.2/9.4. impact comparison: Regional city with traditional-style precinct; subject 7.0 versus peer 9.2. 
-- [Hanoi (VN)](../../../countries/VN/cities/hanoi.yaml) — 88.30/100; I/U/S/E/D 8.7/8.8/8.9/8.8/9.2. uniqueness comparison: local cultural identity; subject 7.2 versus peer 8.8. 
-- [Chiang Mai (TH)](../../../countries/TH/cities/chiang-mai.yaml) — 89.45/100; I/U/S/E/D 8.9/9.0/8.8/9.1/9.0. significance comparison: regional settlement history; subject 7.2 versus peer 8.8. 
+- [Vienna (AT)](../../../countries/AT/cities/vienna.yaml) — 92.30/100; I/U/S/E/D 9.2/9.0/9.5/9.2/9.4. impact comparison: Regional city with traditional-style precinct; subject 7.0 versus peer 9.2.
+- [Hanoi (VN)](../../../countries/VN/cities/hanoi.yaml) — 88.30/100; I/U/S/E/D 8.7/8.8/8.9/8.8/9.2. uniqueness comparison: local cultural identity; subject 7.2 versus peer 8.8.
+- [Chiang Mai (TH)](../../../countries/TH/cities/chiang-mai.yaml) — 89.45/100; I/U/S/E/D 8.9/9.0/8.8/9.1/9.0. significance comparison: regional settlement history; subject 7.2 versus peer 8.8.
 - [Hallstatt (AT)](../../../countries/AT/cities/hallstatt.yaml) — 82.00/100; I/U/S/E/D 8.3/8.4/8.1/8.2/7.6. experience comparison: approved current visits not verified; subject field unknown. Scope: does not inherit surrounding countryside.
 
 ### Scoring decisions
@@ -174,9 +174,9 @@
 - Missing facts: Ordinary approved visitor circuit and accessible depth not established.
 
 ### Worldwide peers
-- [Vienna (AT)](../../../countries/AT/cities/vienna.yaml) — 92.30/100; I/U/S/E/D 9.2/9.0/9.5/9.2/9.4. impact comparison: Large industrial city and historic structures; subject 7.1 versus peer 9.2. 
-- [Hanoi (VN)](../../../countries/VN/cities/hanoi.yaml) — 88.30/100; I/U/S/E/D 8.7/8.8/8.9/8.8/9.2. uniqueness comparison: regional industrial and dynastic identity; subject 7.4 versus peer 8.8. 
-- [Chiang Mai (TH)](../../../countries/TH/cities/chiang-mai.yaml) — 89.45/100; I/U/S/E/D 8.9/9.0/8.8/9.1/9.0. significance comparison: significant regional history; subject 7.8 versus peer 8.8. 
+- [Vienna (AT)](../../../countries/AT/cities/vienna.yaml) — 92.30/100; I/U/S/E/D 9.2/9.0/9.5/9.2/9.4. impact comparison: Large industrial city and historic structures; subject 7.1 versus peer 9.2.
+- [Hanoi (VN)](../../../countries/VN/cities/hanoi.yaml) — 88.30/100; I/U/S/E/D 8.7/8.8/8.9/8.8/9.2. uniqueness comparison: regional industrial and dynastic identity; subject 7.4 versus peer 8.8.
+- [Chiang Mai (TH)](../../../countries/TH/cities/chiang-mai.yaml) — 89.45/100; I/U/S/E/D 8.9/9.0/8.8/9.1/9.0. significance comparison: significant regional history; subject 7.8 versus peer 8.8.
 - [Hallstatt (AT)](../../../countries/AT/cities/hallstatt.yaml) — 82.00/100; I/U/S/E/D 8.3/8.4/8.1/8.2/7.6. experience comparison: current approved experience unknown; subject field unknown. Scope: city not entire east coast.
 
 ### Scoring decisions
@@ -206,9 +206,9 @@
 - Missing facts: Ordinary approved visitor circuit and accessible depth not established.
 
 ### Worldwide peers
-- [Vienna (AT)](../../../countries/AT/cities/vienna.yaml) — 92.30/100; I/U/S/E/D 9.2/9.0/9.5/9.2/9.4. impact comparison: Estuarine port setting; subject 6.9 versus peer 9.2. 
-- [Hanoi (VN)](../../../countries/VN/cities/hanoi.yaml) — 88.30/100; I/U/S/E/D 8.7/8.8/8.9/8.8/9.2. uniqueness comparison: comparable industrial port; subject 7.0 versus peer 8.8. 
-- [Chiang Mai (TH)](../../../countries/TH/cities/chiang-mai.yaml) — 89.45/100; I/U/S/E/D 8.9/9.0/8.8/9.1/9.0. significance comparison: regional maritime history; subject 7.3 versus peer 8.8. 
+- [Vienna (AT)](../../../countries/AT/cities/vienna.yaml) — 92.30/100; I/U/S/E/D 9.2/9.0/9.5/9.2/9.4. impact comparison: Estuarine port setting; subject 6.9 versus peer 9.2.
+- [Hanoi (VN)](../../../countries/VN/cities/hanoi.yaml) — 88.30/100; I/U/S/E/D 8.7/8.8/8.9/8.8/9.2. uniqueness comparison: comparable industrial port; subject 7.0 versus peer 8.8.
+- [Chiang Mai (TH)](../../../countries/TH/cities/chiang-mai.yaml) — 89.45/100; I/U/S/E/D 8.9/9.0/8.8/9.1/9.0. significance comparison: regional maritime history; subject 7.3 versus peer 8.8.
 - [Hallstatt (AT)](../../../countries/AT/cities/hallstatt.yaml) — 82.00/100; I/U/S/E/D 8.3/8.4/8.1/8.2/7.6. experience comparison: current visitor circuit unknown; subject field unknown. Scope: excludes barrage and Koguryo tombs.
 
 ### Scoring decisions
@@ -238,9 +238,9 @@
 - Missing facts: Ordinary approved visitor circuit and accessible depth not established.
 
 ### Worldwide peers
-- [Vienna (AT)](../../../countries/AT/cities/vienna.yaml) — 92.30/100; I/U/S/E/D 9.2/9.0/9.5/9.2/9.4. impact comparison: Mountain town and planned modern buildings; subject 7.4 versus peer 9.2. 
-- [Hanoi (VN)](../../../countries/VN/cities/hanoi.yaml) — 88.30/100; I/U/S/E/D 8.7/8.8/8.9/8.8/9.2. uniqueness comparison: unusual highland planned settlement; subject 7.6 versus peer 8.8. 
-- [Chiang Mai (TH)](../../../countries/TH/cities/chiang-mai.yaml) — 89.45/100; I/U/S/E/D 8.9/9.0/8.8/9.1/9.0. significance comparison: regional modern history; subject 7.1 versus peer 8.8. 
+- [Vienna (AT)](../../../countries/AT/cities/vienna.yaml) — 92.30/100; I/U/S/E/D 9.2/9.0/9.5/9.2/9.4. impact comparison: Mountain town and planned modern buildings; subject 7.4 versus peer 9.2.
+- [Hanoi (VN)](../../../countries/VN/cities/hanoi.yaml) — 88.30/100; I/U/S/E/D 8.7/8.8/8.9/8.8/9.2. uniqueness comparison: unusual highland planned settlement; subject 7.6 versus peer 8.8.
+- [Chiang Mai (TH)](../../../countries/TH/cities/chiang-mai.yaml) — 89.45/100; I/U/S/E/D 8.9/9.0/8.8/9.1/9.0. significance comparison: regional modern history; subject 7.1 versus peer 8.8.
 - [Hallstatt (AT)](../../../countries/AT/cities/hallstatt.yaml) — 82.00/100; I/U/S/E/D 8.3/8.4/8.1/8.2/7.6. experience comparison: current approved circuit unverified; subject field unknown. Scope: excludes Paektu mountain.
 
 ### Scoring decisions
@@ -259,3 +259,13 @@
 - Final decision: Keep unranked until adequate evidence.
 - Verification still needed: precise GPS, material claims, actual permitted scope, live comparator values and suitability.
 
+
+## Follow-up: subject-specific identity and scope evidence — 2026-11-25
+
+- [Sariwon](../../../countries/KP/cities/sariwon.yaml): [Koryo Tours city guide](https://koryogroup.com/travel-guide/sariwon-north-korea-north-korea-travel-guide) and [folklore park guide](https://koryogroup.com/travel-guide/sariwon-folklore-park-makgeolli-grandpa-grandma-north-korea-travel-guide) document provincial settlement and reconstructed folk heritage. Historical guide, not evidence of current ordinary visitor access. Remains unassessed.
+- [Hamhung](../../../countries/KP/cities/hamhung.yaml): [Koryo Tours city guide](https://koryogroup.com/travel-guide/hamhung-north-korea-north-korea-travel-guide) and [youth park guide](https://koryogroup.com/travel-guide/hamhung-youth-park-north-korea-travel-guide) document the city and urban visitor context. Current circuit unresolved; retain null E/D.
+- [Nampo](../../../countries/KP/cities/nampo.yaml): [Koryo Tours city guide](https://koryogroup.com/travel-guide/nampo-north-korea-north-korea-travel-guide) and [port guide](https://koryogroup.com/travel-guide/nampo-port-north-korea-travel-guide) support coastal industrial identity. Do not inherit the barrage or tomb experiences. Remains unassessed.
+- [Samjiyon](../../../countries/KP/cities/samjiyon.yaml): [Koryo Tours city guide](https://koryogroup.com/travel-guide/samjiyon-north-korea-a-complete-guide) documents the settlement; [Reuters, November 2026](https://www.reuters.com/world/china/north-koreas-kim-inspects-tourist-zone-senior-official-visits-moscow-2026-11-16/) reports construction and official inspection of the tourist zone, not evidence of a normally open tourist circuit. Retain null E/D.
+- [Rason](../../../countries/KP/cities/rason.yaml): [Yonhap, March 2025](https://en.yna.co.kr/view/AEN20250306001200315) documents suspension of foreign visits; [Daily NK, May 2026](https://www.dailynk.com/english/north-korea-rason-tourism-directives-reopening/) reports limited Russian visitors. These establish restricted visits to the zone, not adequate evidence for a specifically Rajin citywide visitor experience. Retain null E/D.
+
+All eight settlement records now have subject-relevant sources; no city score changed, no full independent fact/GPS verification claimed.
