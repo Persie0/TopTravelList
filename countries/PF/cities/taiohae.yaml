@@ -1,0 +1,15 @@
+id: city-pf-taiohae
+name: "Taiohaʻe"
+location:
+  country_code: PF
+  latitude: -8.91093
+  longitude: -140.09972
+scores:
+  impact: 8.1
+  uniqueness: 8.4
+  significance: 7.7
+  experience: 7.8
+  depth: 7.1
+  categories:
+    culture: 8.3
+    photography: 8.4

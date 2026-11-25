@@ -19,3 +19,12 @@ Do not create duplicates when an existing parent-country record belongs in a new
 | GL | Denmark's UNESCO inventory has three Greenland properties; no matching Danish YAML filenames at initial audit. New Greenland records below. |
 
 All other added codes start as empty research backlog; inspect both names and geographic coordinates before cataloguing. No invented coverage claims. ISO code expansion does not replace future subnational region coverage (Canaries, Azores, Madeira, Hawaii, Alaska, Galápagos, etc.). Do not assign perfect tens without existing V2 anchor procedure. The unchanged scoring weights apply to territories.
+
+## Migration log — 2026-11-25
+
+| Former ID | Active ID | Decision |
+| --- | --- | --- |
+| sight-fr-taputapuatea | sight-pf-taputapuatea | Move to PF, preserve scores and location; original review archived. |
+| sight-fr-marquesas | sight-pf-marquesas | Move to PF, preserve partial scores; remains unranked. |
+
+Original decisions: [France migration history](reviews/FR/migration-history-PF.md). Old YAML links are historical; active sources are under `countries/PF/sights/`. Parent inventory names checked; exhaustive coordinate and external link audit remains outstanding.
