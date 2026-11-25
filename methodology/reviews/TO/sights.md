@@ -24,6 +24,15 @@
 - Hohensalzburg Fortress (Austria): greater preserved built scope
 - Plain of Jars (Laos): larger distributed megalithic landscape
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D; original qualitative comparisons retained. Editorial comparison, not independent factual verification.
+
+- [stonehenge (GB)](../../../countries/GB/sights/stonehenge.yaml) — 9.2/9.6/9.6/8.8/9.1; Greater monumental and interpreted archaeological ensemble.
+- [rapa nui national park (CL)](../../../countries/CL/sights/rapa-nui-national-park.yaml) — 9.8/9.9/9.8/9.1/9.5; Much broader Pacific monumental sculpture landscape.
+- [plain of jars archaeological landscape (LA)](../../../countries/LA/sights/plain-of-jars-archaeological-landscape.yaml) — 9.0/9.6/9.5/8.7/9.0; More extensive distributed megalithic landscape.
+- [arorae navigational stones (KI)](../../../countries/KI/sights/arorae-navigational-stones.yaml) — 6.9/9.1/8.9/6.8/6.4; Closer focused Pacific stone heritage, different historical function.
+
 ### Scoring decisions
 | Field | New rating | Individual justification |
 | --- | ---: | --- |
@@ -59,6 +68,15 @@
 - Ming Tombs (China): larger imperial funerary landscape
 - Hohensalzburg Fortress (Austria): stronger public interpretation
 - Ha'amonga 'a Maui (Tonga): narrower single monument; not a cross-country substitute
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D; original qualitative comparisons retained. Editorial comparison, not independent factual verification.
+
+- [ming tombs (CN)](../../../countries/CN/sights/ming-tombs.yaml) — 9.3/9.4/9.7/9.1/9.5; Much larger imperial funerary landscape and interpretation.
+- [tomok batak royal tombs (ID)](../../../countries/ID/sights/tomok-batak-royal-tombs.yaml) — 8.1/8.6/8.6/8.3/7.4; Closer focused chiefly funerary heritage, more established visitor activities.
+- [nan madol (FM)](../../../countries/FM/sights/nan-madol.yaml) — 9.2/9.5/9.5/8.1/8.7; Greater ceremonial landscape monumentality, different function.
+- [haamonga a maui (TO)](../../../countries/TO/sights/haamonga-a-maui.yaml) — 8.0/8.8/8.8/7.7/6.9; Narrower standalone Tongan stone monument, not additive to royal tomb score.
 
 ### Scoring decisions
 | Field | New rating | Individual justification |
@@ -96,6 +114,15 @@
 - Boka Pistol (Curaçao): comparable wave-driven coastal feature
 - Railay Beach (Thailand): broader coastal activities and landforms
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D; original qualitative comparisons retained. Editorial comparison, not independent factual verification.
+
+- [hummanaya blowhole (LK)](../../../countries/LK/sights/hummanaya-blowhole.yaml) — 8.0/8.4/7.1/8.0/6.8; Closest wave-driven natural feature, narrower individual blowhole.
+- [durdle door (GB)](../../../countries/GB/sights/durdle-door.yaml) — 9.0/8.9/8.4/8.7/7.6; More iconic coastal rock form and surrounding setting.
+- [broken beach nusa penida (ID)](../../../countries/ID/sights/broken-beach-nusa-penida.yaml) — 8.9/9.1/7.3/8.8/7.5; More distinctive coastal arch and circular inlet, different process.
+- [railay beach (TH)](../../../countries/TH/sights/railay-beach.yaml) — 8.9/9.0/7.5/9.2/8.3; Broader cliff scenery and coastal activities, not directly equivalent to blowhole field.
+
 ### Scoring decisions
 | Field | New rating | Individual justification |
 | --- | ---: | --- |
@@ -132,6 +159,15 @@
 - Tham Phu Kham Cave (Laos): comparable cave and pool setting
 - Hinagdanan Cave (Philippines): similar compact cave-pool experience
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D; original qualitative comparisons retained. Editorial comparison, not independent factual verification.
+
+- [son doong cave (VN)](../../../countries/VN/sights/son-doong-cave.yaml) — 9.9/9.9/9.6/9.0/9.2; World-leading underground scale and geology.
+- [tham phu kham cave (LA)](../../../countries/LA/sights/tham-phu-kham-cave.yaml) — 8.1/8.4/7.7/8.3/7.6; Comparable compact cave and pool excursion.
+- [piula cave pool (WS)](../../../countries/WS/sights/piula-cave-pool.yaml) — 7.9/8.0/6.8/8.0/6.8; Closer Pacific freshwater cave-pool experience.
+- [chinhoyi caves (ZW)](../../../countries/ZW/sights/chinhoyi-caves.yaml) — 8.8/9.0/7.9/8.7/7.8; More extensive aquatic cavern setting and distinct geology.
+
 ### Scoring decisions
 | Field | New rating | Individual justification |
 | --- | ---: | --- |
@@ -166,6 +202,15 @@
 - Percé Rock (Canada): greater monumental scale
 - Azure Window (Malta, historical comparator): similar coastal arch form
 - Natural Bridge at Torndirrup (Australia): comparable coastal rock feature
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D; original qualitative comparisons retained. Editorial comparison, not independent factual verification.
+
+- [durdle door (GB)](../../../countries/GB/sights/durdle-door.yaml) — 9.0/8.9/8.4/8.7/7.6; More dramatic arch and cliff setting.
+- [broken beach nusa penida (ID)](../../../countries/ID/sights/broken-beach-nusa-penida.yaml) — 8.9/9.1/7.3/8.8/7.5; Close coastal natural-arch and inlet comparator.
+- [three natural bridges (CN)](../../../countries/CN/sights/three-natural-bridges.yaml) — 9.2/9.5/8.7/9.2/8.7; Far larger natural bridges, inland rather than coastal.
+- [benagil (PT)](../../../countries/PT/sights/benagil.yaml) — 9.1/9.0/8.2/8.5/6.8; More visually distinctive coastal opening and chamber, different landform.
 
 ### Scoring decisions
 | Field | New rating | Individual justification |
@@ -202,6 +247,15 @@
 - Phong Nha-Ke Bang (Vietnam): much larger cave and karst depth
 - Taman Negara (Malaysia): larger tropical forest exploration
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D; original qualitative comparisons retained. Editorial comparison, not independent factual verification.
+
+- [khao sok national park (TH)](../../../countries/TH/sights/khao-sok-national-park.yaml) — 9.4/9.4/9.1/9.4/9.3; Broader tropical forest and karst scenery.
+- [hohe tauern national park (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) — 9.4/9.1/9.0/9.5/9.4; Much greater mountainous landscape breadth.
+- [phong nha ke bang national park (VN)](../../../countries/VN/sights/phong-nha-ke-bang-national-park.yaml) — 9.8/9.9/9.7/9.7/9.8; Exceptional cave and karst extent.
+- [taman negara national park (MY)](../../../countries/MY/sights/taman-negara-national-park.yaml) — 9.0/9.1/9.0/8.9/9.2; Greater documented rainforest and trail breadth.
+
 ### Scoring decisions
 | Field | New rating | Individual justification |
 | --- | ---: | --- |
@@ -236,6 +290,15 @@
 - Son Doong Cave (Vietnam): vastly greater cavern scale
 - Benagil Cave (Portugal): more iconic open-chamber form
 - Blue Lagoon Cave (Greece): comparable focused marine cavern stop
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D; original qualitative comparisons retained. Editorial comparison, not independent factual verification.
+
+- [blue cave (HR)](../../../countries/HR/sights/blue-cave.yaml) — 8.9/9.1/8.4/8.6/6.5; Close light-filled marine cavern with focused visit.
+- [benagil (PT)](../../../countries/PT/sights/benagil.yaml) — 9.1/9.0/8.2/8.5/6.8; More iconic open coastal chamber.
+- [chandelier cave (PW)](../../../countries/PW/sights/chandelier-cave.yaml) — 9.0/9.0/7.8/8.5/7.9; Comparable Pacific aquatic cavern, distinct specialist experience.
+- [puerto princesa underground river (PH)](../../../countries/PH/sights/puerto-princesa-underground-river.yaml) — 9.2/9.2/8.9/8.8/8.3; Much broader interpreted water-based cave system.
 
 ### Scoring decisions
 | Field | New rating | Individual justification |
@@ -273,6 +336,15 @@
 - Son Doong Cave (Vietnam): vastly greater cavern breadth
 - Blue Cave (Croatia): comparable focused marine cave experience
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D; original qualitative comparisons retained. Editorial comparison, not independent factual verification.
+
+- [chandelier cave (PW)](../../../countries/PW/sights/chandelier-cave.yaml) — 9.0/9.0/7.8/8.5/7.9; Close specialist submerged cavern comparator, different physical setting.
+- [blue holes (PW)](../../../countries/PW/sights/blue-holes.yaml) — 9.1/8.9/7.9/8.8/8.1; Broader reef cavern setting.
+- [blue cave (HR)](../../../countries/HR/sights/blue-cave.yaml) — 8.9/9.1/8.4/8.6/6.5; More accessible focused marine cavern visit.
+- [chinhoyi caves (ZW)](../../../countries/ZW/sights/chinhoyi-caves.yaml) — 8.8/9.0/7.9/8.7/7.8; Aquatic cavern comparator with different ordinary visitor scope.
+
 ### Scoring decisions
 | Field | New rating | Individual justification |
 | --- | ---: | --- |
@@ -309,6 +381,15 @@
 - Peradeniya Royal Botanic Gardens (Sri Lanka): greater collection breadth
 - Kirstenbosch National Botanical Garden (South Africa): more extensive native flora interpretation
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D; original qualitative comparisons retained. Editorial comparison, not independent factual verification.
+
+- [singapore botanic gardens (SG)](../../../countries/SG/sights/singapore-botanic-gardens.yaml) — 9.1/9.2/9.4/9.2/9.3; World-leading collection and heritage interpretation.
+- [kew gardens (GB)](../../../countries/GB/sights/kew-gardens.yaml) — 8.9/9.1/9.4/9.2/9.3; Much greater scientific and botanical depth.
+- [royal botanical gardens peradeniya (LK)](../../../countries/LK/sights/royal-botanical-gardens-peradeniya.yaml) — 8.9/8.9/8.7/9.0/9.0; Much larger plant collection and landscaped visit.
+- [perdana botanical garden (MY)](../../../countries/MY/sights/perdana-botanical-garden.yaml) — 7.8/7.5/7.4/8.4/8.2; Comparable cultivated garden leisure, broader urban park.
+
 ### Scoring decisions
 | Field | New rating | Individual justification |
 | --- | ---: | --- |
@@ -343,6 +424,15 @@
 - Royal Palace of Madrid (Spain): more extensive public interiors
 - Royal Palace Phnom Penh (Cambodia): larger palace ensemble
 - Iolani Palace (United States): stronger interpreted royal residence experience
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D; original qualitative comparisons retained. Editorial comparison, not independent factual verification.
+
+- [schoenbrunn palace (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) — 9.4/9.3/9.6/9.5/9.3; Much broader imperial architecture and public interiors.
+- [royal palace phnom penh (KH)](../../../countries/KH/sights/royal-palace-phnom-penh.yaml) — 8.8/8.9/9.1/9.0/8.7; Much larger interpreted royal ensemble.
+- [hahoe folk village (KR)](../../../countries/KR/sights/hahoe-folk-village.yaml) — 9.0/9.3/9.4/9.2/8.9; Broader visible traditional built fabric, not a palace.
+- [kampong ayer (BN)](../../../countries/BN/sights/kampong-ayer.yaml) — 8.5/9.1/8.7/8.7/8.5; Living architectural heritage context, greater publicly experienced breadth.
 
 ### Scoring decisions
 | Field | New rating | Individual justification |
@@ -379,6 +469,15 @@
 - Made in Cambodia Market Siem Reap (Cambodia): stronger curated crafts, comparable focused visit
 - Ben Thanh Market (Vietnam): broader urban market offering
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D; original qualitative comparisons retained. Editorial comparison, not independent factual verification.
+
+- [chatuchak weekend market (TH)](../../../countries/TH/sights/chatuchak-weekend-market.yaml) — 8.8/8.7/8.3/9.3/9.5; Much greater market variety and exploration.
+- [grand bazaar (TR)](../../../countries/TR/sights/grand-bazaar.yaml) — 8.7/8.9/8.8/9.0/8.8; Greater architectural and historical distinction.
+- [made in cambodia market (KH)](../../../countries/KH/sights/made-in-cambodia-market.yaml) — 7.7/7.8/7.6/8.6/7.9; Comparable focused market experience, more curated crafts.
+- [ben thanh market (VN)](../../../countries/VN/sights/ben-thanh-market.yaml) — 8.2/8.0/8.1/9.0/8.8; Broader established urban market offer.
+
 ### Scoring decisions
 | Field | New rating | Individual justification |
 | --- | ---: | --- |
@@ -413,6 +512,15 @@
 - Ban Chiang (Thailand): archaeological and museum context
 - Skara Brae (United Kingdom): more visible settlement structures
 - Koh Ker (Cambodia): much more substantial visible monumental remains
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D; original qualitative comparisons retained. Editorial comparison, not independent factual verification.
+
+- [catalhoyuk (TR)](../../../countries/TR/sights/catalhoyuk.yaml) — 7.9/9.0/9.4/8.1/7.8; More established interpretation of early settlement remains.
+- [ban chiang archaeological site (TH)](../../../countries/TH/sights/ban-chiang-archaeological-site.yaml) — 8.4/9.2/9.6/8.2/8.1; Greater documented archaeological and museum experience.
+- [lenggong valley archaeological heritage (MY)](../../../countries/MY/sights/lenggong-valley-archaeological-heritage.yaml) — 8.0/9.0/9.5/8.0/8.4; Broader documented prehistoric archaeology.
+- [carnuntum archaeological park (AT)](../../../countries/AT/sights/carnuntum-archaeological-park.yaml) — 8.7/8.9/9.0/8.8/8.4; Much more tangible and interpreted visitor experience.
 
 ### Scoring decisions
 | Field | New rating | Individual justification |
@@ -487,6 +595,15 @@
 - Skara Brae (United Kingdom): more visible surviving built structures
 - Nan Madol (Micronesia): much stronger above-ground monument visibility
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D; original qualitative comparisons retained. Editorial comparison, not independent factual verification.
+
+- [ban chiang archaeological site (TH)](../../../countries/TH/sights/ban-chiang-archaeological-site.yaml) — 8.4/9.2/9.6/8.2/8.1; Strong early material-culture benchmark with established interpretation.
+- [lenggong valley archaeological heritage (MY)](../../../countries/MY/sights/lenggong-valley-archaeological-heritage.yaml) — 8.0/9.0/9.5/8.0/8.4; Broader documented distributed prehistoric sites.
+- [catalhoyuk (TR)](../../../countries/TR/sights/catalhoyuk.yaml) — 7.9/9.0/9.4/8.1/7.8; More established settlement archaeological interpretation.
+- [nan madol (FM)](../../../countries/FM/sights/nan-madol.yaml) — 9.2/9.5/9.5/8.1/8.7; More visible above-ground Pacific monumental heritage, not equivalent to pottery deposits.
+
 ### Scoring decisions
 | Field | New rating | Individual justification |
 | --- | ---: | --- |
@@ -522,6 +639,15 @@
 - Diamond Head (United States): greater volcanic morphology and trail breadth
 - Mount Faber (Singapore): comparable urban-adjacent harbor views
 - Hufangalupe Natural Land Bridge (Tonga): more distinctive geological form
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D; original qualitative comparisons retained. Editorial comparison, not independent factual verification.
+
+- [sokehs rock (FM)](../../../countries/FM/sights/sokehs-rock.yaml) — 8.2/7.5/6.6/7.9/7.0; Close Pacific elevated viewpoint, more dramatic outcrop.
+- [mount faber park (SG)](../../../countries/SG/sights/mount-faber-park.yaml) — 8.0/7.8/7.2/8.5/7.9; Comparable harbor viewpoint with broader developed trails.
+- [mount bromo (ID)](../../../countries/ID/sights/mount-bromo.yaml) — 9.5/9.4/8.5/9.3/8.5; Much more distinctive volcanic viewpoint and landscape scale.
+- [durdle door (GB)](../../../countries/GB/sights/durdle-door.yaml) — 9.0/8.9/8.4/8.7/7.6; More distinctive coastal landform, different viewpoint scope.
 
 ### Scoring decisions
 | Field | New rating | Individual justification |
@@ -560,6 +686,15 @@
 - Natadola Beach (Fiji): comparable tropical shore
 - Champagne Beach (Vanuatu): similarly attractive but focused coastal experience
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D; original qualitative comparisons retained. Editorial comparison, not independent factual verification.
+
+- [perhentian islands (MY)](../../../countries/MY/sights/perhentian-islands.yaml) — 9.0/8.8/7.7/9.2/8.9; Broader island beach and marine recreation.
+- [arno atoll (MH)](../../../countries/MH/sights/arno-atoll.yaml) — 8.2/8.1/7.3/8.0/7.9; Close remote Pacific island-water landscape.
+- [anse source d argent (SC)](../../../countries/SC/sights/anse-source-d-argent.yaml) — 9.8/9.7/7.8/9.2/7.6; Globally distinctive granite beach scenery, narrower shoreline scope.
+- [champagne beach (VU)](../../../countries/VU/sights/champagne-beach.yaml) — 8.6/7.8/6.4/8.7/7.1; Comparable tropical shore, narrower than island experience.
+
 ### Scoring decisions
 | Field | New rating | Individual justification |
 | --- | ---: | --- |
@@ -595,6 +730,15 @@
 - Anse Source d'Argent (Seychelles): more distinctive granite coastline
 - Natadola Beach (Fiji): comparable tropical shore
 - Champagne Beach (Vanuatu): similarly attractive but focused coastal experience
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D; original qualitative comparisons retained. Editorial comparison, not independent factual verification.
+
+- [railay beach (TH)](../../../countries/TH/sights/railay-beach.yaml) — 8.9/9.0/7.5/9.2/8.3; Stronger cliff scenery and activity range.
+- [anse source d argent (SC)](../../../countries/SC/sights/anse-source-d-argent.yaml) — 9.8/9.7/7.8/9.2/7.6; Globally distinctive granite coastline.
+- [white beach boracay (PH)](../../../countries/PH/sights/white-beach-boracay.yaml) — 9.1/8.4/6.8/9.0/7.5; Much more sustained beach leisure.
+- [champagne beach (VU)](../../../countries/VU/sights/champagne-beach.yaml) — 8.6/7.8/6.4/8.7/7.1; Close Pacific sand-and-water comparator with stronger visual impact.
 
 ### Scoring decisions
 | Field | New rating | Individual justification |
