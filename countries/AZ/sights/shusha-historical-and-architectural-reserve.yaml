@@ -1,0 +1,15 @@
+id: sight-az-shusha-historical-and-architectural-reserve
+name: "Shusha Historical and Architectural Reserve"
+location:
+  country_code: AZ
+  latitude: 39.76
+  longitude: 46.75
+scores:
+  impact: null
+  uniqueness: 8.6
+  significance: 9.1
+  experience: null
+  depth: null
+  categories:
+    history: 9.3
+    architecture: 8.8
