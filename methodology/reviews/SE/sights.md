@@ -1281,3 +1281,26 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [UNESCO](https://whc.unesco.org/en/list/1187/maps/) — inspected 2026-11-25; exact component identity and coordinate confirmed; visitor conditions not verified.
 - Verification still needed: permitted access and interpretive depth; closer field-specific peer comparisons where appropriate.
+
+## Follow-up: documented visitor scope — 2026-11-25
+
+All five new complete profiles are **source-linked-unverified** editorial assessments. Existing I/U/S, category and coordinate values retained; no new 9.5+ fields or perfect scores.
+
+### Four Struve stations
+
+[County authority](https://www.lansstyrelsen.se/norrbotten/besoksmal/varldsarv/struves-meridianbage.html) confirms all four visitor locations; [Swedish Lapland](https://www.swedishlapland.com/stories/the-struve-geodetic-arc/) describes the summit landscapes. Individual trail and marker scope:
+
+- [tynnyrilaki-struve-station](../../../countries/SE/sights/tynnyrilaki-struve-station.yaml): 6.8/8.1/8.6/7.4/6.3 = **75.25**. Marked summit hike and interpretation; no credit for broader wilderness. [Visitor source](https://kiruna.se/uppleva--gora/utomhusaktiviteter/promenadstrak-och-vandringsleder/struves-matpunkt-pa-tynnyrilaki.html).
+- [jupukka-struve-station](../../../countries/SE/sights/jupukka-struve-station.yaml): 6.8/8.1/8.6/7.4/6.2 = **75.15**. Signposted summit path with marker and views. [Visitor source](https://www.naturkartan.se/en/norrbottens-lan/jupukka?guide_id=78).
+- [pullinki-struve-station](../../../countries/SE/sights/pullinki-struve-station.yaml): 6.8/8.1/8.6/7.4/6.3 = **75.25**. Hilltop marker, signs and views via described route, not ski resort. [Visitor source](https://www.maupertuis.fi/en/guide/pullinki/).
+- [peravaara-struve-station](../../../countries/SE/sights/peravaara-struve-station.yaml): 6.8/8.1/8.6/7.2/6.1 = **74.75**. Forested hill marker and immediate surroundings. [Visitor source](https://www.lansstyrelsen.se/norrbotten/besoksmal/varldsarv/struves-meridianbage/peravaara-matpunkt.html).
+
+Current peers: [Oravivuori (FI)](../../../countries/FI/sights/oravivuori-struve-station.yaml) 6.8/8.1/8.6/7.8/6.6, observation tower and interpreted route; [Tornikallio (FI)](../../../countries/FI/sights/tornikallio-struve-station.yaml) 6.8/8.1/8.6/7.2/6.1, short hill trail; [Sestu-kalns (LV)](../../../countries/LV/sights/sestu-kalns-struve-station.yaml) 6.9/8.1/8.6/7.1/6.0, limited hill-marker visit; [Gireišiai (LT)](../../../countries/LT/sights/gireisiai-struve-station.yaml) 6.8/8.0/8.6/7.1/6.0, compact interpreted roadside marker. Depth bounded by the individual site and its immediate approach, not the international arc.
+
+### Decorated Farmhouses
+
+- [decorated-farmhouses-halsingland](../../../countries/SE/sights/decorated-farmhouses-halsingland.yaml): 8.3/9.0/9.0/8.6/8.6 = **86.90**. Multiple differentiated decorated interiors and farm interpretation; seasonal booked tours, not unrestricted private access. [Visitor source](https://www.regiongavleborg.se/en/Halsingegardar/experience/).
+
+[UNESCO](https://whc.unesco.org/en/list/1282/) confirms the seven components and elaborate festive rooms; [regional visitor centres](https://www.hs.lg.se/en/Halsingegardar/Contact/Visitor-Centers/), [national tourism](https://visitsweden.com/where-to-go/northern-sweden/halsingland/) and [independent seven-farm visit](https://www.freedomtravel.se/en/2024/06/besoka-halsingegardar/) establish a coherent multi-site visit. Count the seven inscribed farms, not all regional houses; contact owners before access. Current peers: [Old Rauma (FI)](../../../countries/FI/sights/old-rauma.yaml) 8.8/9.1/9.0/8.8/8.5, more coherent historic urban fabric; [Historic Jeddah (SA)](../../../countries/SA/sights/historic-jeddah.yaml) 8.9/9.0/9.0/8.8/8.7, broader living city experience; [Rumšiškės (LT)](../../../countries/LT/sights/rumsiskes-open-air-museum.yaml) 8.3/8.5/8.5/8.7/8.9, extensive interpreted vernacular buildings with less singular decorative identity; [Latvian Open-Air Museum (LV)](../../../countries/LV/sights/latvian-ethnographic-open-air-museum.yaml) 8.2/8.5/8.5/8.7/8.7, broader standardized museum access but lower rarity. Separate individual farmhouse records remain a coverage gap.
+
+The [Rise of Systematic Biology nomination](https://whc.unesco.org/en/tentativelists/5491/) spans thirteen sites in eight countries; its Swedish components do not yet have documented representative visitor coverage in this record. Retain missing E/D rather than inherit Linnaeus Garden ratings. All 23 settlement and 64 sight vectors screened; the exceptional totals and category fields remain provisional pending independent factual and specialist calibration. No claim of comprehensive GPS or inventory verification.
