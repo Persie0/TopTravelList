@@ -1,0 +1,17 @@
+id: sight-mh-laura-beach-park
+name: "Laura Beach Park"
+location:
+  country_code: MH
+  latitude: 7.16391
+  longitude: 171.03949
+scores:
+  impact: 7.8
+  uniqueness: 7.1
+  significance: 5.8
+  experience: 7.9
+  depth: 6.3
+  categories:
+    beaches: 8.2
+    nature: 7.7
+    relaxation: 8.3
+    photography: 7.8

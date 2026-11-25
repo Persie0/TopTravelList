@@ -1,0 +1,17 @@
+id: sight-ga-loango-national-park
+name: "Loango National Park"
+location:
+  country_code: GA
+  latitude: -2.155519
+  longitude: 9.592117
+scores:
+  impact: 9.5
+  uniqueness: 9.6
+  significance: 9.5
+  experience: 9.3
+  depth: 9.3
+  categories:
+    nature: 9.7
+    wildlife: 9.7
+    adventure: 9.3
+    photography: 9.5

@@ -1,0 +1,16 @@
+id: sight-cm-mefou-primate-sanctuary
+name: "Mefou Primate Sanctuary"
+location:
+  country_code: CM
+  latitude: 3.6292
+  longitude: 11.54403
+scores:
+  impact: 8.3
+  uniqueness: 8.7
+  significance: 8.4
+  experience: 8.8
+  depth: 8.0
+  categories:
+    wildlife: 8.8
+    nature: 8.5
+    family: 8.5

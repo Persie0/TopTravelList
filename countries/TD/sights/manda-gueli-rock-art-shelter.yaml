@@ -1,0 +1,15 @@
+id: sight-td-manda-gueli-rock-art-shelter
+name: "Manda Guéli Rock Art Shelter"
+location:
+  country_code: TD
+  latitude: 16.90
+  longitude: 21.83
+scores:
+  impact: 8.2
+  uniqueness: 8.8
+  significance: 9.1
+  experience: 8.1
+  depth: 6.8
+  categories:
+    history: 9.3
+    culture: 9.1

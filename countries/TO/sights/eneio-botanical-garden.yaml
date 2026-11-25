@@ -1,0 +1,16 @@
+id: sight-to-eneio-botanical-garden
+name: "'Ene'io Botanical Garden"
+location:
+  country_code: TO
+  latitude: -18.63679
+  longitude: -173.91432
+scores:
+  impact: 7.7
+  uniqueness: 7.8
+  significance: 7.4
+  experience: 7.9
+  depth: 7.5
+  categories:
+    nature: 8.1
+    culture: 7.8
+    relaxation: 7.8

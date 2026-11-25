@@ -1,0 +1,15 @@
+id: sight-er-adulis-archaeological-site
+name: "Adulis Archaeological Site"
+location:
+  country_code: ER
+  latitude: 15.26166
+  longitude: 39.65913
+scores:
+  impact: 7.5
+  uniqueness: 8.6
+  significance: 9.4
+  experience: 7.8
+  depth: 7.4
+  categories:
+    history: 9.4
+    culture: 8.8

@@ -1,0 +1,15 @@
+id: city-fm-kolonia
+name: "Kolonia (Pohnpei)"
+location:
+  country_code: FM
+  latitude: 6.964
+  longitude: 158.2062
+scores:
+  impact: 6.8
+  uniqueness: 7.4
+  significance: 7.4
+  experience: 7.3
+  depth: 6.9
+  categories:
+    culture: 7.6
+    history: 7.8

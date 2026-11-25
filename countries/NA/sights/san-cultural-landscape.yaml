@@ -1,0 +1,14 @@
+id: sight-na-san-cultural-landscape
+name: "Sān Living Cultural Landscape"
+location:
+  country_code: NA
+  latitude: -19.75
+  longitude: 20.5
+scores:
+  impact: null
+  uniqueness: 9.3
+  significance: 9.4
+  experience: null
+  depth: null
+  categories:
+    culture: 9.4

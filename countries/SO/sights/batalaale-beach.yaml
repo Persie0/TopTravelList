@@ -1,0 +1,16 @@
+id: sight-so-batalaale-beach
+name: "Batalaale Beach"
+location:
+  country_code: SO
+  latitude: 10.459
+  longitude: 45.0705
+scores:
+  impact: 8.2
+  uniqueness: 7.9
+  significance: 6.8
+  experience: 8.3
+  depth: 7.2
+  categories:
+    beaches: 8.8
+    relaxation: 8.5
+    photography: 8.3

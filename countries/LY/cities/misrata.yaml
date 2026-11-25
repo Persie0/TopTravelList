@@ -1,0 +1,13 @@
+id: city-ly-misrata
+name: "Misrata"
+location:
+  country_code: LY
+  latitude: 32.37535
+  longitude: 15.09254
+scores:
+  impact: null
+  uniqueness: 7.0
+  significance: 7.6
+  experience: null
+  depth: null
+  categories: {}

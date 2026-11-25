@@ -1,0 +1,16 @@
+id: city-ga-libreville
+name: "Libreville"
+location:
+  country_code: GA
+  latitude: 0.4162
+  longitude: 9.4673
+scores:
+  impact: 7.4
+  uniqueness: 7.7
+  significance: 8.0
+  experience: 7.9
+  depth: 7.9
+  categories:
+    culture: 8.5
+    food: 8.3
+    history: 8.2

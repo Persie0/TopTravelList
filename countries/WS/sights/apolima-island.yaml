@@ -1,0 +1,16 @@
+id: sight-ws-apolima-island
+name: "Apolima Island"
+location:
+  country_code: WS
+  latitude: -13.82386
+  longitude: -172.1513
+scores:
+  impact: 7.8
+  uniqueness: 8.2
+  significance: 7.8
+  experience: 7.5
+  depth: 6.8
+  categories:
+    nature: 8.2
+    culture: 8.2
+    photography: 8.2

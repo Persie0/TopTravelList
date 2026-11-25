@@ -1,0 +1,16 @@
+id: city-ml-segou
+name: "Ségou"
+location:
+  country_code: ML
+  latitude: 13.4317
+  longitude: -6.2157
+scores:
+  impact: 7.7
+  uniqueness: 8.0
+  significance: 8.2
+  experience: 8.0
+  depth: 7.8
+  categories:
+    culture: 8.6
+    history: 8.4
+    architecture: 8.1

@@ -1,0 +1,15 @@
+id: sight-sd-old-dongola
+name: "Old Dongola Archaeological Site"
+location:
+  country_code: SD
+  latitude: 18.216667
+  longitude: 30.75
+scores:
+  impact: 8.6
+  uniqueness: 9.1
+  significance: 9.2
+  experience: 8.1
+  depth: 8.4
+  categories:
+    history: 9.4
+    architecture: 8.9

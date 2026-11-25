@@ -1,0 +1,15 @@
+id: sight-fm-yela-ka-forest
+name: "Yela Ka Forest"
+location:
+  country_code: FM
+  latitude: 5.326
+  longitude: 162.948
+scores:
+  impact: 8.4
+  uniqueness: 9.1
+  significance: 9.2
+  experience: 8.3
+  depth: 7.8
+  categories:
+    nature: 9.3
+    wildlife: 8.2

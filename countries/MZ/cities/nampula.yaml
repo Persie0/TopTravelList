@@ -1,0 +1,13 @@
+id: city-mz-nampula
+name: "Nampula"
+location:
+  country_code: MZ
+  latitude: -15.11646
+  longitude: 39.2666
+scores:
+  impact: null
+  uniqueness: 7.2
+  significance: 7.5
+  experience: null
+  depth: null
+  categories: {}

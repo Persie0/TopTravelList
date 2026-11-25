@@ -1,0 +1,15 @@
+id: sight-ci-sorobango-mosque
+name: "Sorobango Mosque"
+location:
+  country_code: CI
+  latitude: 8.172944
+  longitude: -2.710692
+scores:
+  impact: null
+  uniqueness: 8.7
+  significance: 8.5
+  experience: null
+  depth: null
+  categories:
+    architecture: 8.8
+    history: 8.5

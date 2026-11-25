@@ -1,0 +1,15 @@
+id: sight-vu-ss-president-coolidge
+name: "SS President Coolidge"
+location:
+  country_code: VU
+  latitude: -15.5183
+  longitude: 167.2247
+scores:
+  impact: 8.9
+  uniqueness: 9.2
+  significance: 8.7
+  experience: 9.0
+  depth: 8.8
+  categories:
+    history: 9.0
+    adventure: 9.2

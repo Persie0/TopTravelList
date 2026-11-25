@@ -1,0 +1,15 @@
+id: city-ml-sikasso
+name: "Sikasso"
+location:
+  country_code: ML
+  latitude: 11.318
+  longitude: -5.667
+scores:
+  impact: 7.1
+  uniqueness: 7.6
+  significance: 8.0
+  experience: 7.4
+  depth: 7.2
+  categories:
+    history: 8.3
+    culture: 8.0

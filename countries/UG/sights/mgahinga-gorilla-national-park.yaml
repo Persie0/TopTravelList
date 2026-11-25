@@ -1,0 +1,16 @@
+id: sight-ug-mgahinga-gorilla-national-park
+name: "Mgahinga Gorilla National Park"
+location:
+  country_code: UG
+  latitude: -1.383333
+  longitude: 29.65
+scores:
+  impact: 9.2
+  uniqueness: 9.3
+  significance: 9.3
+  experience: 9.1
+  depth: 8.8
+  categories:
+    nature: 9.4
+    wildlife: 9.5
+    adventure: 9.2

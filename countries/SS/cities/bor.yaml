@@ -1,0 +1,15 @@
+id: city-ss-bor
+name: "Bor"
+location:
+  country_code: SS
+  latitude: 6.209
+  longitude: 31.559
+scores:
+  impact: null
+  uniqueness: 7.4
+  significance: 7.6
+  experience: null
+  depth: null
+  categories:
+    history: 8.1
+    culture: 7.9
