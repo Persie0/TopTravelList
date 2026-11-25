@@ -1,0 +1,16 @@
+id: sight-bz-glover-s-reef-marine-reserve
+name: "Glover's Reef Marine Reserve"
+location:
+  country_code: BZ
+  latitude: 16.799950
+  longitude: -87.783314
+scores:
+  impact: 9.1
+  uniqueness: 9.2
+  significance: 9.4
+  experience: 9.2
+  depth: 9.0
+  categories:
+    nature: 9.4
+    wildlife: 9.3
+    adventure: 9.3

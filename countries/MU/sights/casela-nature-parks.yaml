@@ -1,0 +1,16 @@
+id: sight-mu-casela-nature-parks
+name: "Casela Nature Parks"
+location:
+  country_code: MU
+  latitude: -20.2910
+  longitude: 57.4020
+scores:
+  impact: 7.8
+  uniqueness: 7.1
+  significance: 5.9
+  experience: 8.5
+  depth: 8.2
+  categories:
+    family: 8.7
+    adventure: 8.6
+    wildlife: 7.8

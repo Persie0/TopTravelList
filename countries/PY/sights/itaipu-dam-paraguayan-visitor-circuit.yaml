@@ -1,0 +1,16 @@
+id: sight-py-itaipu-dam-paraguayan-visitor-circuit
+name: "Itaipú Dam (Paraguayan visitor circuit)"
+location:
+  country_code: PY
+  latitude: -25.4085
+  longitude: -54.5883
+scores:
+  impact: 8.6
+  uniqueness: 8.9
+  significance: 9.1
+  experience: 8.2
+  depth: 7.8
+  categories:
+    architecture: 9.1
+    history: 8.7
+    photography: 8.6

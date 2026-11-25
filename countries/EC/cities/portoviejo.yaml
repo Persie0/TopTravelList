@@ -1,0 +1,15 @@
+id: city-ec-portoviejo
+name: "Portoviejo"
+location:
+  country_code: EC
+  latitude: -1.0546
+  longitude: -80.4545
+scores:
+  impact: 6.5
+  uniqueness: 6.8
+  significance: 6.9
+  experience: 7.3
+  depth: 7.0
+  categories:
+    food: 8.1
+    culture: 7.4

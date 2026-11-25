@@ -1,0 +1,17 @@
+id: sight-pe-historic-sanctuary-of-machu-picchu
+name: "Historic Sanctuary of Machu Picchu"
+location:
+  country_code: PE
+  latitude: -13.1631
+  longitude: -72.5450
+scores:
+  impact: 9.9
+  uniqueness: 9.8
+  significance: 9.9
+  experience: 9.5
+  depth: 9.4
+  categories:
+    architecture: 9.8
+    history: 9.9
+    photography: 9.9
+    nature: 9.6

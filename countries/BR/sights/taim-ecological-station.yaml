@@ -1,0 +1,15 @@
+id: sight-br-taim-ecological-station
+name: "Taim Ecological Station"
+location:
+  country_code: BR
+  latitude: -32.5400
+  longitude: -52.5800
+scores:
+  impact: null
+  uniqueness: 8.6
+  significance: 9.1
+  experience: null
+  depth: null
+  categories:
+    nature: 9.4
+    wildlife: 9.5

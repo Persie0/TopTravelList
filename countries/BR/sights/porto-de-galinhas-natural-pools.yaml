@@ -1,0 +1,16 @@
+id: sight-br-porto-de-galinhas-natural-pools
+name: "Porto de Galinhas Natural Pools"
+location:
+  country_code: BR
+  latitude: -8.5080
+  longitude: -35.0000
+scores:
+  impact: 8.5
+  uniqueness: 8.3
+  significance: 6.7
+  experience: 8.6
+  depth: 7.3
+  categories:
+    beaches: 9.2
+    wildlife: 8.7
+    relaxation: 8.8

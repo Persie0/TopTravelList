@@ -1,0 +1,15 @@
+id: city-bj-come
+name: "Comè"
+location:
+  country_code: BJ
+  latitude: 6.4070
+  longitude: 1.8810
+scores:
+  impact: 6.1
+  uniqueness: 6.8
+  significance: 6.5
+  experience: 7.3
+  depth: 6.4
+  categories:
+    culture: 7.5
+    food: 7.6

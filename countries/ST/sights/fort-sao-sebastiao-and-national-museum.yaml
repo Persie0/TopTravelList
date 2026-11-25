@@ -1,0 +1,16 @@
+id: sight-st-fort-sao-sebastiao-and-national-museum
+name: "Fort São Sebastião and National Museum"
+location:
+  country_code: ST
+  latitude: 0.3460
+  longitude: 6.7380
+scores:
+  impact: 7.7
+  uniqueness: 8.1
+  significance: 8.6
+  experience: 8.2
+  depth: 7.6
+  categories:
+    history: 9.0
+    architecture: 8.3
+    culture: 8.6

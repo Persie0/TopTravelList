@@ -1,0 +1,15 @@
+id: city-py-neuland
+name: "Neuland"
+location:
+  country_code: PY
+  latitude: -22.6667
+  longitude: -60.1167
+scores:
+  impact: 6.1
+  uniqueness: 7.5
+  significance: 7.2
+  experience: 6.8
+  depth: 6.0
+  categories:
+    culture: 8.0
+    history: 7.7

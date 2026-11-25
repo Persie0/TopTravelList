@@ -1,0 +1,17 @@
+id: city-st-santo-antonio-principe
+name: "Santo António (Príncipe)"
+location:
+  country_code: ST
+  latitude: 1.6394
+  longitude: 7.4195
+scores:
+  impact: 7.8
+  uniqueness: 8.2
+  significance: 7.5
+  experience: 8.1
+  depth: 6.8
+  categories:
+    culture: 8.4
+    architecture: 8.1
+    photography: 8.5
+    food: 7.9

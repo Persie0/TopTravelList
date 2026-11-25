@@ -1,0 +1,15 @@
+id: city-cl-copiapo
+name: "Copiapó"
+location:
+  country_code: CL
+  latitude: -27.3668
+  longitude: -70.3323
+scores:
+  impact: 6.4
+  uniqueness: 6.7
+  significance: 7.0
+  experience: 6.9
+  depth: 6.7
+  categories:
+    history: 7.7
+    culture: 7.2

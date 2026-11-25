@@ -1,0 +1,16 @@
+id: city-uy-jose-ignacio
+name: "Jose Ignacio"
+location:
+  country_code: UY
+  latitude: -34.8398
+  longitude: -54.6381
+scores:
+  impact: 7.7
+  uniqueness: 7.5
+  significance: 6.4
+  experience: 8.3
+  depth: 6.8
+  categories:
+    beaches: 8.4
+    food: 8.3
+    relaxation: 8.5

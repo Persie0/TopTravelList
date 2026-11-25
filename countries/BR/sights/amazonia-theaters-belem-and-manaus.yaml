@@ -1,0 +1,16 @@
+id: sight-br-amazonia-theaters-belem-and-manaus
+name: "Amazonia Theaters (Belém and Manaus)"
+location:
+  country_code: BR
+  latitude: -3.1300
+  longitude: -60.0240
+scores:
+  impact: 8.7
+  uniqueness: 9.1
+  significance: 9.3
+  experience: 8.5
+  depth: 8.4
+  categories:
+    architecture: 9.5
+    history: 9.4
+    culture: 9.4

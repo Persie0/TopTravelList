@@ -1,0 +1,16 @@
+id: sight-bz-cockscomb-basin-wildlife-sanctuary
+name: "Cockscomb Basin Wildlife Sanctuary"
+location:
+  country_code: BZ
+  latitude: 16.790
+  longitude: -88.575
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 9.1
+  experience: 8.8
+  depth: 9.0
+  categories:
+    wildlife: 9.4
+    nature: 9.2
+    adventure: 8.8

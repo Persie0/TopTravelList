@@ -1,0 +1,16 @@
+id: city-br-belo-horizonte
+name: "Belo Horizonte"
+location:
+  country_code: BR
+  latitude: -19.9167
+  longitude: -43.9345
+scores:
+  impact: 7.7
+  uniqueness: 7.8
+  significance: 8.0
+  experience: 8.4
+  depth: 8.5
+  categories:
+    food: 9.1
+    culture: 8.6
+    architecture: 8.5

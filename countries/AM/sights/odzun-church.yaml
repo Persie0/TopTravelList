@@ -1,0 +1,15 @@
+id: sight-am-odzun-church
+name: "Odzun Church"
+location:
+  country_code: AM
+  latitude: 41.051
+  longitude: 44.614
+scores:
+  impact: 8.0
+  uniqueness: 8.4
+  significance: 8.7
+  experience: 8.1
+  depth: 6.7
+  categories:
+    architecture: 8.9
+    history: 9.0

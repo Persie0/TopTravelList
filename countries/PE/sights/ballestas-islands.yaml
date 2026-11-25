@@ -1,0 +1,16 @@
+id: sight-pe-ballestas-islands
+name: "Ballestas Islands"
+location:
+  country_code: PE
+  latitude: -13.7370
+  longitude: -76.3940
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 8.3
+  experience: 8.7
+  depth: 7.3
+  categories:
+    wildlife: 9.4
+    nature: 9.0
+    photography: 9.0

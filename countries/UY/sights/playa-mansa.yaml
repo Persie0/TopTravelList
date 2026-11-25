@@ -1,0 +1,16 @@
+id: sight-uy-playa-mansa
+name: "Playa Mansa"
+location:
+  country_code: UY
+  latitude: -34.9485
+  longitude: -54.9512
+scores:
+  impact: 7.7
+  uniqueness: 7.0
+  significance: 6.0
+  experience: 8.4
+  depth: 7.6
+  categories:
+    beaches: 8.6
+    relaxation: 8.7
+    family: 8.1

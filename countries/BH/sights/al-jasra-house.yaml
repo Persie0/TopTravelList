@@ -1,0 +1,15 @@
+id: sight-bh-al-jasra-house
+name: "Al Jasra House"
+location:
+  country_code: BH
+  latitude: 26.1700
+  longitude: 50.4570
+scores:
+  impact: 7.3
+  uniqueness: 7.8
+  significance: 8.0
+  experience: 7.6
+  depth: 6.8
+  categories:
+    architecture: 8.3
+    history: 8.3

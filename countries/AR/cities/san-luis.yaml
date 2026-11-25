@@ -1,0 +1,15 @@
+id: city-ar-san-luis
+name: "San Luis"
+location:
+  country_code: AR
+  latitude: -33.3017
+  longitude: -66.3378
+scores:
+  impact: 6.4
+  uniqueness: 6.7
+  significance: 6.7
+  experience: 7.2
+  depth: 6.8
+  categories:
+    culture: 7.4
+    relaxation: 7.6

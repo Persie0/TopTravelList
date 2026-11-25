@@ -1,0 +1,15 @@
+id: city-py-hohenau
+name: "Hohenau"
+location:
+  country_code: PY
+  latitude: -27.0833
+  longitude: -55.7500
+scores:
+  impact: 6.6
+  uniqueness: 7.5
+  significance: 6.9
+  experience: 7.3
+  depth: 6.4
+  categories:
+    culture: 8.1
+    food: 7.8

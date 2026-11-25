@@ -1,0 +1,15 @@
+id: sight-tg-kpime-waterfall
+name: "Kpimé Waterfall"
+location:
+  country_code: TG
+  latitude: 6.9520
+  longitude: 0.6510
+scores:
+  impact: 8.4
+  uniqueness: 8.0
+  significance: 6.5
+  experience: 8.2
+  depth: 6.8
+  categories:
+    nature: 8.6
+    photography: 8.9

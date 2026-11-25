@@ -1,0 +1,15 @@
+id: sight-br-mercado-ver-o-peso
+name: "Mercado Ver-o-Peso"
+location:
+  country_code: BR
+  latitude: -1.4510
+  longitude: -48.5030
+scores:
+  impact: 8.1
+  uniqueness: 8.9
+  significance: 8.5
+  experience: 8.2
+  depth: 7.7
+  categories:
+    food: 9.3
+    culture: 9.4

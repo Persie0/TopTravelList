@@ -1,0 +1,16 @@
+id: city-br-gramado
+name: "Gramado"
+location:
+  country_code: BR
+  latitude: -29.3780
+  longitude: -50.8730
+scores:
+  impact: 7.7
+  uniqueness: 7.4
+  significance: 6.5
+  experience: 8.6
+  depth: 7.5
+  categories:
+    relaxation: 8.8
+    food: 8.5
+    architecture: 8.2

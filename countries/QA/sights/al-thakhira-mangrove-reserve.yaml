@@ -1,0 +1,16 @@
+id: sight-qa-al-thakhira-mangrove-reserve
+name: "Al Thakhira Mangrove Reserve"
+location:
+  country_code: QA
+  latitude: 25.7400
+  longitude: 51.5650
+scores:
+  impact: 8.0
+  uniqueness: 8.2
+  significance: 8.5
+  experience: 8.3
+  depth: 7.8
+  categories:
+    nature: 8.8
+    wildlife: 8.6
+    adventure: 8.3

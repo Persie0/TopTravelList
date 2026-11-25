@@ -1,0 +1,15 @@
+id: sight-cl-fray-jorge-national-park
+name: "Fray Jorge National Park"
+location:
+  country_code: CL
+  latitude: -30.6600
+  longitude: -71.6900
+scores:
+  impact: 8.2
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 8.1
+  depth: 7.9
+  categories:
+    nature: 9.3
+    wildlife: 8.8

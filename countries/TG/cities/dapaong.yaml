@@ -1,0 +1,15 @@
+id: city-tg-dapaong
+name: "Dapaong"
+location:
+  country_code: TG
+  latitude: 10.8620
+  longitude: 0.2070
+scores:
+  impact: null
+  uniqueness: null
+  significance: 7.3
+  experience: null
+  depth: null
+  categories:
+    culture: 8.0
+    history: 7.8

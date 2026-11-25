@@ -1,0 +1,16 @@
+id: sight-am-zvartnots-archaeological-site
+name: "Zvartnots Archaeological Site"
+location:
+  country_code: AM
+  latitude: 40.159
+  longitude: 44.336
+scores:
+  impact: 8.3
+  uniqueness: 9.0
+  significance: 9.4
+  experience: 8.3
+  depth: 7.6
+  categories:
+    architecture: 9.3
+    history: 9.4
+    photography: 8.6

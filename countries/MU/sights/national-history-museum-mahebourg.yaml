@@ -1,0 +1,15 @@
+id: sight-mu-national-history-museum-mahebourg
+name: "National History Museum (Mahebourg)"
+location:
+  country_code: MU
+  latitude: -20.4170
+  longitude: 57.7010
+scores:
+  impact: 7.3
+  uniqueness: 8.0
+  significance: 8.3
+  experience: 7.7
+  depth: 7.1
+  categories:
+    history: 8.7
+    culture: 8.2

@@ -1,0 +1,15 @@
+id: city-co-palomino
+name: "Palomino"
+location:
+  country_code: CO
+  latitude: 11.2450
+  longitude: -73.5580
+scores:
+  impact: 7.2
+  uniqueness: 7.3
+  significance: 6.0
+  experience: 8.1
+  depth: 6.3
+  categories:
+    relaxation: 8.6
+    beaches: 8.2

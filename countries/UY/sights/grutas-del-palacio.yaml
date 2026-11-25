@@ -1,0 +1,15 @@
+id: sight-uy-grutas-del-palacio
+name: "Grutas del Palacio"
+location:
+  country_code: UY
+  latitude: -33.2750
+  longitude: -57.1370
+scores:
+  impact: 8.0
+  uniqueness: 8.7
+  significance: 8.3
+  experience: 7.9
+  depth: 7.0
+  categories:
+    nature: 8.7
+    photography: 8.6

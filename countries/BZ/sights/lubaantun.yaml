@@ -1,0 +1,15 @@
+id: sight-bz-lubaantun
+name: "Lubaantun"
+location:
+  country_code: BZ
+  latitude: 16.282
+  longitude: -88.960
+scores:
+  impact: 7.9
+  uniqueness: 8.4
+  significance: 8.5
+  experience: 8.1
+  depth: 7.8
+  categories:
+    architecture: 8.7
+    history: 8.8

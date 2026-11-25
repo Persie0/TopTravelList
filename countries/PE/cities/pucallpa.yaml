@@ -1,0 +1,15 @@
+id: city-pe-pucallpa
+name: "Pucallpa"
+location:
+  country_code: PE
+  latitude: -8.3791
+  longitude: -74.5539
+scores:
+  impact: 6.7
+  uniqueness: 7.3
+  significance: 7.0
+  experience: 7.4
+  depth: 7.2
+  categories:
+    culture: 8.1
+    food: 7.9

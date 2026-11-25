@@ -1,0 +1,16 @@
+id: sight-om-masirah-island-natural-landscape
+name: "Masirah Island Natural Landscape"
+location:
+  country_code: OM
+  latitude: 20.47
+  longitude: 58.82
+scores:
+  impact: 8.5
+  uniqueness: 8.6
+  significance: 8.1
+  experience: 8.3
+  depth: 8.8
+  categories:
+    nature: 9.0
+    wildlife: 8.9
+    beaches: 8.7

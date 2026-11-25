@@ -1,0 +1,16 @@
+id: city-co-cali
+name: "Cali"
+location:
+  country_code: CO
+  latitude: 3.4516
+  longitude: -76.5320
+scores:
+  impact: 7.7
+  uniqueness: 8.4
+  significance: 7.7
+  experience: 8.3
+  depth: 8.3
+  categories:
+    culture: 9.1
+    nightlife: 9.1
+    food: 8.5
