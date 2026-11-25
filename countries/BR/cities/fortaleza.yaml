@@ -1,0 +1,16 @@
+id: city-br-fortaleza
+name: "Fortaleza"
+location:
+  country_code: BR
+  latitude: -3.7319
+  longitude: -38.5267
+scores:
+  impact: 7.8
+  uniqueness: 7.7
+  significance: 7.3
+  experience: 8.4
+  depth: 8.3
+  categories:
+    beaches: 8.7
+    food: 8.7
+    culture: 8.3
