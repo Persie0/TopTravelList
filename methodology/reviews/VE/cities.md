@@ -681,3 +681,23 @@
 - Categories: history 7.7, photography 7.9. Computed overall: 72.15/100.
 - High-score challenge: Not applicable. Approved 10 registry: none.
 - Verification still needed: individual facts, GPS, ordinary access and closer same-type peer calibration.
+
+## city-ve-san-felipe — San Felipe — 2026-11-25
+
+- YAML: [source](../../../countries/VE/cities/san-felipe.yaml) · Action: new
+- Precise subject: San Felipe settlement excluding surrounding separately rated attractions.
+- Location: 10.3399, -68.7425; approximate representative point, independent verification pending.
+- Evidence status: **editorial-only**. No individual external source inspected.
+- Worldwide peers (I/U/S/E/D):
+  - [Vienna (AT)](../../../countries/AT/cities/vienna.yaml) — 9.2 / 9.0 / 9.5 / 9.2 / 9.4 (92.30/100); upper reference; uniqueness lower (Yaracuy foothill and agricultural identity) and depth lower (limited urban visitor venues).
+  - [Lima (PE)](../../../countries/PE/cities/lima.yaml) — 8.6 / 8.6 / 9.1 / 8.7 / 9.4 (87.95/100); related urban scope; uniqueness lower (Yaracuy foothill and agricultural identity) and depth lower (limited urban visitor venues).
+  - [Santiago (CL)](../../../countries/CL/cities/santiago.yaml) — 8.5 / 8.1 / 8.4 / 8.7 / 9.1 (84.70/100); related urban scope; uniqueness lower (Yaracuy foothill and agricultural identity) and depth lower (limited urban visitor venues).
+  - [Guayaquil (EC)](../../../countries/EC/cities/guayaquil.yaml) — 7.7 / 7.5 / 7.7 / 8.1 / 8.3 (77.70/100); related urban scope; uniqueness lower (Yaracuy foothill and agricultural identity) and depth lower (limited urban visitor venues).
+- Impact 6.4: foothill civic streets and parks.
+- Uniqueness 6.7: Yaracuy foothill and agricultural identity.
+- Significance 6.8: regional administrative and settlement history.
+- Experience 7.0: local meals and public spaces under ordinary conditions.
+- Depth 6.4: limited urban visitor venues.
+- Categories: history 7.3, culture 7.2. Computed overall: 66.55/100.
+- High-score challenge: Not applicable. Approved 10 registry: none.
+- Verification still needed: individual facts, GPS, ordinary access and closer same-type peer calibration.
