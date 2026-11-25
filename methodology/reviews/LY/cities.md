@@ -103,7 +103,7 @@
 - YAML: [source](../../../countries/LY/cities/ghat.yaml)
 - Action: new
 - Precise subject: Oasis town, separate from Tadrart Acacus; approximate district/town point.
-- Location check: 24.964, 10.1759; representative point, exact entrance not verified.
+- Location check: 24.96334, 10.18003; GeoNames populated-place point, corroborated by [Mapcarta](https://mapcarta.com/Ghat_%28Libya%29). Previous point recorded in [verification history](verification-2026-11-25.md).
 - Evidence status: **unassessed**
 - Source references (2026-11-25; identity, heritage, geographic context or historical/advertised visit as described above; independent triangulation incomplete):
   - https://link.springer.com/chapter/10.1007/978-3-030-00145-2_6
