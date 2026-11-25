@@ -1,0 +1,16 @@
+id: sight-cl-grey-glacier-torres-del-paine
+name: "Grey Glacier (Torres del Paine)"
+location:
+  country_code: CL
+  latitude: -51.0200
+  longitude: -73.2300
+scores:
+  impact: 9.4
+  uniqueness: 9.2
+  significance: 8.5
+  experience: 8.8
+  depth: 7.8
+  categories:
+    nature: 9.5
+    photography: 9.6
+    adventure: 9.0

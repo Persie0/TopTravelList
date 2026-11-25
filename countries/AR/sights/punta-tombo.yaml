@@ -1,0 +1,15 @@
+id: sight-ar-punta-tombo
+name: "Punta Tombo"
+location:
+  country_code: AR
+  latitude: -44.0410
+  longitude: -65.1910
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 8.6
+  experience: 8.6
+  depth: 7.5
+  categories:
+    wildlife: 9.6
+    nature: 9.1

@@ -1,0 +1,16 @@
+id: sight-dj-sables-blancs-beach
+name: "Sables Blancs Beach"
+location:
+  country_code: DJ
+  latitude: 11.8030
+  longitude: 42.9500
+scores:
+  impact: 8.7
+  uniqueness: 8.3
+  significance: 6.1
+  experience: 8.6
+  depth: 7.2
+  categories:
+    beaches: 9.0
+    photography: 9.0
+    relaxation: 8.7

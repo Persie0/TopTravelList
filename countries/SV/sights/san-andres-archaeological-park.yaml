@@ -1,0 +1,15 @@
+id: sight-sv-san-andres-archaeological-park
+name: "San Andrés Archaeological Park"
+location:
+  country_code: SV
+  latitude: 13.8026
+  longitude: -89.3908
+scores:
+  impact: 7.7
+  uniqueness: 8.0
+  significance: 8.6
+  experience: 7.9
+  depth: 7.6
+  categories:
+    history: 8.8
+    architecture: 8.3

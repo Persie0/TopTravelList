@@ -1,0 +1,16 @@
+id: sight-sr-bigi-pan-multiple-use-management-area
+name: "Bigi Pan Multiple Use Management Area"
+location:
+  country_code: SR
+  latitude: 5.9500
+  longitude: -56.7900
+scores:
+  impact: 8.6
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 8.6
+  depth: 8.3
+  categories:
+    wildlife: 9.3
+    nature: 9.0
+    photography: 9.1

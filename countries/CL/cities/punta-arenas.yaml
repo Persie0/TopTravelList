@@ -1,0 +1,17 @@
+id: city-cl-punta-arenas
+name: "Punta Arenas"
+location:
+  country_code: CL
+  latitude: -53.1638
+  longitude: -70.9171
+scores:
+  impact: 8.1
+  uniqueness: 8.6
+  significance: 8.2
+  experience: 8.1
+  depth: 7.9
+  categories:
+    history: 8.8
+    architecture: 8.5
+    culture: 8.4
+    photography: 8.6

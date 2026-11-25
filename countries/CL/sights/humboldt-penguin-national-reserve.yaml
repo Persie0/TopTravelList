@@ -1,0 +1,15 @@
+id: sight-cl-humboldt-penguin-national-reserve
+name: "Humboldt Penguin National Reserve"
+location:
+  country_code: CL
+  latitude: -29.2400
+  longitude: -71.5300
+scores:
+  impact: 8.5
+  uniqueness: 8.7
+  significance: 8.6
+  experience: 8.5
+  depth: 7.5
+  categories:
+    wildlife: 9.4
+    nature: 9.1

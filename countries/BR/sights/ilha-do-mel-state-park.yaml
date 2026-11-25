@@ -1,0 +1,16 @@
+id: sight-br-ilha-do-mel-state-park
+name: "Ilha do Mel State Park"
+location:
+  country_code: BR
+  latitude: -25.5500
+  longitude: -48.3200
+scores:
+  impact: 8.4
+  uniqueness: 8.2
+  significance: 7.6
+  experience: 8.6
+  depth: 8.2
+  categories:
+    beaches: 9.0
+    nature: 8.9
+    relaxation: 8.7

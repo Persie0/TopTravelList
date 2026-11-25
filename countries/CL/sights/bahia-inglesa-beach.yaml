@@ -1,0 +1,16 @@
+id: sight-cl-bahia-inglesa-beach
+name: "Bahía Inglesa Beach"
+location:
+  country_code: CL
+  latitude: -27.1020
+  longitude: -70.8550
+scores:
+  impact: 8.2
+  uniqueness: 7.7
+  significance: 6.4
+  experience: 8.5
+  depth: 7.2
+  categories:
+    beaches: 9.0
+    relaxation: 8.7
+    photography: 8.6

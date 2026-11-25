@@ -1,0 +1,15 @@
+id: sight-bz-st-john-s-cathedral
+name: "St John's Cathedral"
+location:
+  country_code: BZ
+  latitude: 17.489
+  longitude: -88.188
+scores:
+  impact: 7.1
+  uniqueness: 7.5
+  significance: 8.1
+  experience: 7.3
+  depth: 6.6
+  categories:
+    architecture: 8.0
+    history: 8.5

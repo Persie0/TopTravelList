@@ -1,0 +1,16 @@
+id: sight-co-mavecure-hills
+name: "Mavecure Hills"
+location:
+  country_code: CO
+  latitude: 3.4500
+  longitude: -67.9500
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 8.0
+  experience: 8.3
+  depth: 7.9
+  categories:
+    nature: 9.4
+    photography: 9.5
+    adventure: 8.7

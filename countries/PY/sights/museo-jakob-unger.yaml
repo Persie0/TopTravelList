@@ -1,0 +1,15 @@
+id: sight-py-museo-jakob-unger
+name: "Museo Jakob Unger"
+location:
+  country_code: PY
+  latitude: -22.3400
+  longitude: -60.0300
+scores:
+  impact: 7.1
+  uniqueness: 7.8
+  significance: 7.8
+  experience: 7.5
+  depth: 6.8
+  categories:
+    history: 8.4
+    culture: 8.4

@@ -1,0 +1,15 @@
+id: sight-uy-fortin-de-san-miguel
+name: "Fortin de San Miguel"
+location:
+  country_code: UY
+  latitude: -33.6915
+  longitude: -53.5833
+scores:
+  impact: 7.5
+  uniqueness: 7.9
+  significance: 8.2
+  experience: 7.8
+  depth: 7.2
+  categories:
+    history: 8.6
+    architecture: 8.3

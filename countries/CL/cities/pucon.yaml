@@ -1,0 +1,16 @@
+id: city-cl-pucon
+name: "Pucón"
+location:
+  country_code: CL
+  latitude: -39.2723
+  longitude: -71.9774
+scores:
+  impact: 7.7
+  uniqueness: 7.5
+  significance: 6.5
+  experience: 8.5
+  depth: 7.3
+  categories:
+    relaxation: 8.6
+    food: 8.0
+    photography: 8.3

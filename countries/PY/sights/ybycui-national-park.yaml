@@ -1,0 +1,16 @@
+id: sight-py-ybycui-national-park
+name: "Ybycuí National Park"
+location:
+  country_code: PY
+  latitude: -26.0833
+  longitude: -56.8500
+scores:
+  impact: 8.3
+  uniqueness: 8.2
+  significance: 8.2
+  experience: 8.5
+  depth: 8.2
+  categories:
+    nature: 8.8
+    wildlife: 8.4
+    adventure: 8.4

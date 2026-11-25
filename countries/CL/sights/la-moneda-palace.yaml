@@ -1,0 +1,15 @@
+id: sight-cl-la-moneda-palace
+name: "La Moneda Palace"
+location:
+  country_code: CL
+  latitude: -33.4430
+  longitude: -70.6530
+scores:
+  impact: 7.8
+  uniqueness: 7.9
+  significance: 8.9
+  experience: 7.7
+  depth: 7.0
+  categories:
+    architecture: 8.7
+    history: 9.3

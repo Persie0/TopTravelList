@@ -1,0 +1,15 @@
+id: sight-gy-mount-roraima-guyana-sector
+name: "Mount Roraima (Guyana sector)"
+location:
+  country_code: GY
+  latitude: 5.1430
+  longitude: -60.7430
+scores:
+  impact: null
+  uniqueness: 9.6
+  significance: 9.1
+  experience: null
+  depth: null
+  categories:
+    nature: 9.6
+    photography: 9.4

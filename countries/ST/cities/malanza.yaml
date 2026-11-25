@@ -1,0 +1,15 @@
+id: city-st-malanza
+name: "Malanza"
+location:
+  country_code: ST
+  latitude: 0.0550
+  longitude: 6.5570
+scores:
+  impact: 6.8
+  uniqueness: 7.4
+  significance: 6.5
+  experience: 7.2
+  depth: 5.8
+  categories:
+    culture: 7.7
+    photography: 7.6

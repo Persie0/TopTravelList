@@ -1,0 +1,16 @@
+id: sight-br-abrolhos-marine-national-park
+name: "Abrolhos Marine National Park"
+location:
+  country_code: BR
+  latitude: -17.9700
+  longitude: -38.7000
+scores:
+  impact: 8.9
+  uniqueness: 9.1
+  significance: 9.1
+  experience: 8.3
+  depth: 8.0
+  categories:
+    nature: 9.5
+    wildlife: 9.6
+    adventure: 9.3

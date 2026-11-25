@@ -1,0 +1,16 @@
+id: sight-br-brasilia-world-heritage-urban-ensemble
+name: "Brasília (World Heritage urban ensemble)"
+location:
+  country_code: BR
+  latitude: -15.7970
+  longitude: -47.8820
+scores:
+  impact: 8.7
+  uniqueness: 9.6
+  significance: 9.6
+  experience: 7.9
+  depth: 8.6
+  categories:
+    architecture: 9.8
+    history: 9.4
+    photography: 9.0

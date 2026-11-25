@@ -1,0 +1,15 @@
+id: city-gy-rose-hall
+name: "Rose Hall"
+location:
+  country_code: GY
+  latitude: 6.2667
+  longitude: -57.3500
+scores:
+  impact: 6.0
+  uniqueness: 6.3
+  significance: 6.5
+  experience: 6.6
+  depth: 6.1
+  categories:
+    culture: 7.0
+    food: 7.1

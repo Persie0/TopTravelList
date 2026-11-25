@@ -1,0 +1,15 @@
+id: city-gy-karasabai
+name: "Karasabai"
+location:
+  country_code: GY
+  latitude: 4.0167
+  longitude: -59.5333
+scores:
+  impact: 6.7
+  uniqueness: 7.7
+  significance: 7.2
+  experience: 7.2
+  depth: 6.0
+  categories:
+    culture: 8.2
+    photography: 7.6

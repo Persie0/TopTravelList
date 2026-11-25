@@ -1,0 +1,15 @@
+id: city-mu-vacoas
+name: "Vacoas"
+location:
+  country_code: MU
+  latitude: -20.2970
+  longitude: 57.4960
+scores:
+  impact: 6.2
+  uniqueness: 6.4
+  significance: 6.6
+  experience: 7.0
+  depth: 6.8
+  categories:
+    culture: 7.2
+    food: 7.3

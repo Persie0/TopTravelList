@@ -1,0 +1,16 @@
+id: sight-cl-laguna-cejar
+name: "Laguna Cejar"
+location:
+  country_code: CL
+  latitude: -23.0500
+  longitude: -68.2200
+scores:
+  impact: 8.2
+  uniqueness: 8.3
+  significance: 6.9
+  experience: 8.2
+  depth: 6.9
+  categories:
+    nature: 8.6
+    relaxation: 8.4
+    photography: 8.9

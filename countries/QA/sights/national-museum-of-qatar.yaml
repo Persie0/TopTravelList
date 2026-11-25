@@ -1,0 +1,17 @@
+id: sight-qa-national-museum-of-qatar
+name: "National Museum of Qatar"
+location:
+  country_code: QA
+  latitude: 25.2874
+  longitude: 51.5491
+scores:
+  impact: 9.2
+  uniqueness: 9.2
+  significance: 8.6
+  experience: 9.2
+  depth: 8.9
+  categories:
+    architecture: 9.6
+    culture: 9.1
+    history: 8.9
+    photography: 9.4

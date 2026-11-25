@@ -1,0 +1,15 @@
+id: sight-cl-bernardo-o-higgins-national-park
+name: "Bernardo O'Higgins National Park"
+location:
+  country_code: CL
+  latitude: -49.0000
+  longitude: -74.0000
+scores:
+  impact: 9.4
+  uniqueness: 9.2
+  significance: 9.2
+  experience: 7.8
+  depth: 8.5
+  categories:
+    nature: 9.6
+    photography: 9.5

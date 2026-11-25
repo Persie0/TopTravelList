@@ -1,0 +1,16 @@
+id: sight-om-mutrah-souq
+name: "Mutrah Souq"
+location:
+  country_code: OM
+  latitude: 23.62
+  longitude: 58.564
+scores:
+  impact: 8.2
+  uniqueness: 8.2
+  significance: 8.0
+  experience: 8.8
+  depth: 8.0
+  categories:
+    culture: 8.8
+    food: 8.4
+    architecture: 8.2

@@ -1,0 +1,16 @@
+id: sight-co-coffee-farm-visitor-experiences
+name: "Coffee farm visitor experiences"
+location:
+  country_code: CO
+  latitude: 4.6500
+  longitude: -75.7000
+scores:
+  impact: 7.9
+  uniqueness: 8.6
+  significance: 8.3
+  experience: 8.9
+  depth: 8.0
+  categories:
+    culture: 9.2
+    food: 9.3
+    relaxation: 8.5

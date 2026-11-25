@@ -1,0 +1,15 @@
+id: city-ls-teyateyaneng
+name: "Teyateyaneng"
+location:
+  country_code: LS
+  latitude: -29.1470
+  longitude: 27.7480
+scores:
+  impact: 6.2
+  uniqueness: 6.9
+  significance: 6.7
+  experience: 7.3
+  depth: 6.5
+  categories:
+    culture: 7.9
+    food: 7.4

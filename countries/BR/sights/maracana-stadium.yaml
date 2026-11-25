@@ -1,0 +1,15 @@
+id: sight-br-maracana-stadium
+name: "Maracanã Stadium"
+location:
+  country_code: BR
+  latitude: -22.9121
+  longitude: -43.2302
+scores:
+  impact: 8.3
+  uniqueness: 8.7
+  significance: 9.2
+  experience: 8.4
+  depth: 7.3
+  categories:
+    culture: 9.4
+    history: 9.2

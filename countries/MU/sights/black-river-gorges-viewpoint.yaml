@@ -1,0 +1,15 @@
+id: sight-mu-black-river-gorges-viewpoint
+name: "Black River Gorges Viewpoint"
+location:
+  country_code: MU
+  latitude: -20.4260
+  longitude: 57.4330
+scores:
+  impact: 8.9
+  uniqueness: 8.3
+  significance: 7.0
+  experience: 8.2
+  depth: 6.5
+  categories:
+    photography: 9.3
+    nature: 9.0

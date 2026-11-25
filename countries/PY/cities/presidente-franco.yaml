@@ -1,0 +1,15 @@
+id: city-py-presidente-franco
+name: "Presidente Franco"
+location:
+  country_code: PY
+  latitude: -25.5333
+  longitude: -54.6167
+scores:
+  impact: 6.2
+  uniqueness: 6.6
+  significance: 6.4
+  experience: 6.8
+  depth: 6.3
+  categories:
+    culture: 7.1
+    food: 7.1

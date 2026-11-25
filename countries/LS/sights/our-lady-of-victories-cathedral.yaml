@@ -1,0 +1,16 @@
+id: sight-ls-our-lady-of-victories-cathedral
+name: "Our Lady of Victories Cathedral"
+location:
+  country_code: LS
+  latitude: -29.3160
+  longitude: 27.4910
+scores:
+  impact: 6.5
+  uniqueness: 7.0
+  significance: 7.4
+  experience: 7.2
+  depth: 5.9
+  categories:
+    architecture: 7.7
+    history: 7.9
+    culture: 7.8

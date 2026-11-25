@@ -1,0 +1,16 @@
+id: sight-sc-la-plaine-st-andre
+name: "La Plaine St André"
+location:
+  country_code: SC
+  latitude: -4.7180
+  longitude: 55.5220
+scores:
+  impact: 7.2
+  uniqueness: 7.7
+  significance: 7.5
+  experience: 8.0
+  depth: 6.9
+  categories:
+    culture: 8.3
+    history: 7.8
+    food: 8.2

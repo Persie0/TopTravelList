@@ -1,0 +1,16 @@
+id: sight-bw-northern-tuli-game-reserve
+name: "Northern Tuli Game Reserve"
+location:
+  country_code: BW
+  latitude: -22.2000
+  longitude: 29.0500
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 8.4
+  experience: 8.7
+  depth: 8.4
+  categories:
+    nature: 9.1
+    wildlife: 9.4
+    photography: 9.1

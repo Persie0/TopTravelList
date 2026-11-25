@@ -1,0 +1,15 @@
+id: sight-sv-walter-thilo-deininger-adventure-park
+name: "Walter Thilo Deininger Adventure Park"
+location:
+  country_code: SV
+  latitude: 13.4880
+  longitude: -89.2690
+scores:
+  impact: 7.6
+  uniqueness: 7.5
+  significance: 7.7
+  experience: 8.2
+  depth: 7.6
+  categories:
+    nature: 8.2
+    adventure: 8.6

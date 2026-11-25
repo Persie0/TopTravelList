@@ -1,0 +1,15 @@
+id: city-uy-canelones
+name: "Canelones"
+location:
+  country_code: UY
+  latitude: -34.5228
+  longitude: -56.2778
+scores:
+  impact: 6.4
+  uniqueness: 6.5
+  significance: 6.9
+  experience: 6.8
+  depth: 6.4
+  categories:
+    history: 7.3
+    culture: 7.1
