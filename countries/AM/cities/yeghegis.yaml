@@ -1,0 +1,15 @@
+id: city-am-yeghegis
+name: "Yeghegis"
+location:
+  country_code: AM
+  latitude: 39.872
+  longitude: 45.354
+scores:
+  impact: 7.3
+  uniqueness: 8.0
+  significance: 8.0
+  experience: 7.7
+  depth: 6.4
+  categories:
+    history: 8.6
+    culture: 8.2

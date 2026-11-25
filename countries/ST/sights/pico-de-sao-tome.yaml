@@ -1,0 +1,16 @@
+id: sight-st-pico-de-sao-tome
+name: "Pico de São Tomé"
+location:
+  country_code: ST
+  latitude: 0.2750
+  longitude: 6.5520
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 7.9
+  experience: 8.5
+  depth: 8.1
+  categories:
+    nature: 9.1
+    adventure: 9.3
+    photography: 8.9

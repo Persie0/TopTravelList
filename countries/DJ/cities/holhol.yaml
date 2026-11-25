@@ -1,0 +1,16 @@
+id: city-dj-holhol
+name: "Holhol"
+location:
+  country_code: DJ
+  latitude: 11.3100
+  longitude: 42.9290
+scores:
+  impact: 6.4
+  uniqueness: 7.1
+  significance: 6.6
+  experience: 7.0
+  depth: 5.8
+  categories:
+    history: 7.5
+    photography: 7.6
+    culture: 7.4

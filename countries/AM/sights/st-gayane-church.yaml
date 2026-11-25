@@ -1,0 +1,15 @@
+id: sight-am-st-gayane-church
+name: "St Gayane Church"
+location:
+  country_code: AM
+  latitude: 40.155
+  longitude: 44.291
+scores:
+  impact: 8.0
+  uniqueness: 8.6
+  significance: 9.1
+  experience: 8.2
+  depth: 6.6
+  categories:
+    architecture: 9.1
+    history: 9.2

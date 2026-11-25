@@ -1,0 +1,16 @@
+id: sight-ec-cuicocha-crater-lake
+name: "Cuicocha Crater Lake"
+location:
+  country_code: EC
+  latitude: 0.3070
+  longitude: -78.3590
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 7.8
+  experience: 8.7
+  depth: 7.8
+  categories:
+    nature: 9.1
+    photography: 9.2
+    adventure: 8.5

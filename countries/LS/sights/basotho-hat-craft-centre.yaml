@@ -1,0 +1,15 @@
+id: sight-ls-basotho-hat-craft-centre
+name: "Basotho Hat Craft Centre"
+location:
+  country_code: LS
+  latitude: -29.3150
+  longitude: 27.4790
+scores:
+  impact: 6.6
+  uniqueness: 7.7
+  significance: 7.0
+  experience: 8.0
+  depth: 6.5
+  categories:
+    culture: 8.5
+    architecture: 7.7

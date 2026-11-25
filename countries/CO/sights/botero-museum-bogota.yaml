@@ -1,0 +1,15 @@
+id: sight-co-botero-museum-bogota
+name: "Botero Museum (Bogotá)"
+location:
+  country_code: CO
+  latitude: 4.5965
+  longitude: -74.0735
+scores:
+  impact: 8.2
+  uniqueness: 8.6
+  significance: 8.6
+  experience: 8.7
+  depth: 7.9
+  categories:
+    culture: 9.2
+    architecture: 8.5

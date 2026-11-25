@@ -1,0 +1,17 @@
+id: sight-mw-nyika-national-park
+name: "Nyika National Park"
+location:
+  country_code: MW
+  latitude: -10.55
+  longitude: 33.83
+scores:
+  impact: 9.1
+  uniqueness: 9.0
+  significance: 8.8
+  experience: 8.8
+  depth: 9.0
+  categories:
+    nature: 9.4
+    wildlife: 9.3
+    photography: 9.3
+    adventure: 9.1

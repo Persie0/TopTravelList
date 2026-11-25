@@ -1,0 +1,14 @@
+id: sight-om-shisr-ubar-archaeological-site
+name: "Shisr (Ubar) Archaeological Site"
+location:
+  country_code: OM
+  latitude: 18.255
+  longitude: 53.65
+scores:
+  impact: 6.9
+  uniqueness: 8.1
+  significance: 8.6
+  experience: 7.2
+  depth: 6.5
+  categories:
+    history: 8.9

@@ -1,0 +1,16 @@
+id: sight-mw-lake-chilwa-wetland
+name: "Lake Chilwa Wetland"
+location:
+  country_code: MW
+  latitude: -15.3000
+  longitude: 35.7000
+scores:
+  impact: 8.1
+  uniqueness: 8.7
+  significance: 8.8
+  experience: 8.0
+  depth: 8.0
+  categories:
+    nature: 9.1
+    wildlife: 9.2
+    photography: 8.5

@@ -1,0 +1,16 @@
+id: sight-ar-peninsula-valdes
+name: "Península Valdés"
+location:
+  country_code: AR
+  latitude: -42.5000
+  longitude: -63.9333
+scores:
+  impact: 9.2
+  uniqueness: 9.4
+  significance: 9.5
+  experience: 8.9
+  depth: 9.2
+  categories:
+    wildlife: 9.8
+    nature: 9.5
+    photography: 9.4

@@ -1,0 +1,15 @@
+id: city-ls-butha-buthe
+name: "Butha-Buthe"
+location:
+  country_code: LS
+  latitude: -28.7667
+  longitude: 28.2500
+scores:
+  impact: 6.5
+  uniqueness: 6.9
+  significance: 7.1
+  experience: 7.1
+  depth: 6.3
+  categories:
+    culture: 7.6
+    history: 7.6

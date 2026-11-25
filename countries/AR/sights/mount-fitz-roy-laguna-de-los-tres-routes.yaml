@@ -1,0 +1,16 @@
+id: sight-ar-mount-fitz-roy-laguna-de-los-tres-routes
+name: "Mount Fitz Roy (Laguna de los Tres routes)"
+location:
+  country_code: AR
+  latitude: -49.2710
+  longitude: -73.0430
+scores:
+  impact: 9.7
+  uniqueness: 9.4
+  significance: 8.5
+  experience: 9.1
+  depth: 8.8
+  categories:
+    nature: 9.7
+    photography: 9.8
+    adventure: 9.6

@@ -8,21 +8,21 @@
 
 This is the **complete ranking for this country's available dataset**, using absolute worldwide scores, **not country-relative scores**. Overall scores are out of 100; category scores are out of 10 and shown highest first (the top three are bold). Types are inferred from names, not separately verified.
 
-**Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, or click its GPS coordinates to open **Google Maps**. Locations are approximate representative points, not necessarily entrance coordinates.
+**Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
 ## Complete ranked list (9)
 
-| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps |
-| ---: | --- | --- | ---: | --- | --- | --- |
-| 1 | [Bandar Seri Begawan](cities/bandar-seri-begawan.yaml) | City / town | **83.70** | **Architecture 8.9**, **Culture 8.7**, **History 8.4**, Food 8.0 | 8.4 / 8.7 / 8.3 / 8.1 / 8.0 | [4.89035, 114.94006](https://www.google.com/maps/search/?api=1&query=4.89035,114.94006) |
-| 2 | [Seria](cities/seria.yaml) | City / town | **68.80** | **History 8.0** | 6.3 / 7.1 / 7.6 / 6.9 / 6.6 | [4.6067, 114.3248](https://www.google.com/maps/search/?api=1&query=4.6067,114.3248) |
-| 3 | [Kuala Belait](cities/kuala-belait.yaml) | City / town | **67.40** | **History 7.5**, **Food 7.4** | 6.5 / 6.7 / 6.9 / 7.1 / 6.7 | [4.58361, 114.2312](https://www.google.com/maps/search/?api=1&query=4.58361,114.2312) |
-| 4 | [Labi](cities/labi.yaml) | City / town | **66.55** | **Culture 7.7**, **Relaxation 7.4** | 6.3 / 7.1 / 6.5 / 7.0 / 6.4 | [4.38947, 114.4603](https://www.google.com/maps/search/?api=1&query=4.38947,114.4603) |
-| 5 | [Tutong](cities/tutong.yaml) | City / town | **65.20** | **Food 7.4**, **Culture 7.3** | 6.2 / 6.6 / 6.5 / 7.0 / 6.6 | [4.8017, 114.65](https://www.google.com/maps/search/?api=1&query=4.8017,114.65) |
-| 6 | [Jerudong](cities/jerudong.yaml) | City / town | **65.05** | **Family 7.6**, **Food 7.3** | 6.4 / 6.4 / 6.2 / 7.1 / 6.8 | [4.932, 114.829](https://www.google.com/maps/search/?api=1&query=4.932,114.829) |
-| 7 | [Bangar](cities/bangar.yaml) | City / town | **64.25** | **Food 7.3** | 6.1 / 6.6 / 6.4 / 6.9 / 6.3 | [4.70861, 115.07167](https://www.google.com/maps/search/?api=1&query=4.70861,115.07167) |
-| 8 | [Muara](cities/muara.yaml) | City / town | **63.50** | **Food 7.1** | 6.1 / 6.3 / 6.5 / 6.7 / 6.4 | [5.0333, 115.0667](https://www.google.com/maps/search/?api=1&query=5.0333,115.0667) |
-| 9 | [Lumut](cities/lumut.yaml) | City / town | **61.85** | **Food 7.0** | 5.9 / 6.1 / 6.4 / 6.6 / 6.2 | [4.665, 114.454](https://www.google.com/maps/search/?api=1&query=4.665,114.454) |
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Bandar Seri Begawan](cities/bandar-seri-begawan.yaml) | City / town | **83.70** | **Architecture 8.9**, **Culture 8.7**, **History 8.4**, Food 8.0 | 8.4 / 8.7 / 8.3 / 8.1 / 8.0 | [4.89035, 114.94006](https://www.google.com/maps/search/?api=1&query=4.89035,114.94006) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bandar%20Seri%20Begawan%2C%20Brunei) |
+| 2 | [Seria](cities/seria.yaml) | City / town | **68.80** | **History 8.0** | 6.3 / 7.1 / 7.6 / 6.9 / 6.6 | [4.6067, 114.3248](https://www.google.com/maps/search/?api=1&query=4.6067,114.3248) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Seria%2C%20Brunei) |
+| 3 | [Kuala Belait](cities/kuala-belait.yaml) | City / town | **67.40** | **History 7.5**, **Food 7.4** | 6.5 / 6.7 / 6.9 / 7.1 / 6.7 | [4.58361, 114.2312](https://www.google.com/maps/search/?api=1&query=4.58361,114.2312) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kuala%20Belait%2C%20Brunei) |
+| 4 | [Labi](cities/labi.yaml) | City / town | **66.55** | **Culture 7.7**, **Relaxation 7.4** | 6.3 / 7.1 / 6.5 / 7.0 / 6.4 | [4.38947, 114.4603](https://www.google.com/maps/search/?api=1&query=4.38947,114.4603) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Labi%2C%20Brunei) |
+| 5 | [Tutong](cities/tutong.yaml) | City / town | **65.20** | **Food 7.4**, **Culture 7.3** | 6.2 / 6.6 / 6.5 / 7.0 / 6.6 | [4.8017, 114.65](https://www.google.com/maps/search/?api=1&query=4.8017,114.65) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tutong%2C%20Brunei) |
+| 6 | [Jerudong](cities/jerudong.yaml) | City / town | **65.05** | **Family 7.6**, **Food 7.3** | 6.4 / 6.4 / 6.2 / 7.1 / 6.8 | [4.932, 114.829](https://www.google.com/maps/search/?api=1&query=4.932,114.829) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Jerudong%2C%20Brunei) |
+| 7 | [Bangar](cities/bangar.yaml) | City / town | **64.25** | **Food 7.3** | 6.1 / 6.6 / 6.4 / 6.9 / 6.3 | [4.70861, 115.07167](https://www.google.com/maps/search/?api=1&query=4.70861,115.07167) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bangar%2C%20Brunei) |
+| 8 | [Muara](cities/muara.yaml) | City / town | **63.50** | **Food 7.1** | 6.1 / 6.3 / 6.5 / 6.7 / 6.4 | [5.0333, 115.0667](https://www.google.com/maps/search/?api=1&query=5.0333,115.0667) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Muara%2C%20Brunei) |
+| 9 | [Lumut](cities/lumut.yaml) | City / town | **61.85** | **Food 7.0** | 5.9 / 6.1 / 6.4 / 6.6 / 6.2 | [4.665, 114.454](https://www.google.com/maps/search/?api=1&query=4.665,114.454) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lumut%2C%20Brunei) |
 
 ---
 

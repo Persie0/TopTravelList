@@ -1,0 +1,16 @@
+id: sight-br-abismo-anhumas
+name: "Abismo Anhumas"
+location:
+  country_code: BR
+  latitude: -21.1700
+  longitude: -56.6000
+scores:
+  impact: 9.1
+  uniqueness: 9.3
+  significance: 7.9
+  experience: 8.6
+  depth: 7.2
+  categories:
+    nature: 9.5
+    adventure: 9.4
+    photography: 9.4

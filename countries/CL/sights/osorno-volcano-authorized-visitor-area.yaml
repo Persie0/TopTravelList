@@ -1,0 +1,16 @@
+id: sight-cl-osorno-volcano-authorized-visitor-area
+name: "Osorno Volcano (authorized visitor area)"
+location:
+  country_code: CL
+  latitude: -41.1050
+  longitude: -72.4950
+scores:
+  impact: 9.1
+  uniqueness: 8.7
+  significance: 7.9
+  experience: 8.5
+  depth: 7.9
+  categories:
+    nature: 9.3
+    adventure: 9.1
+    photography: 9.5

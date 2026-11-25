@@ -1,0 +1,15 @@
+id: city-co-pereira
+name: "Pereira"
+location:
+  country_code: CO
+  latitude: 4.8133
+  longitude: -75.6961
+scores:
+  impact: 7.1
+  uniqueness: 7.3
+  significance: 7.2
+  experience: 7.8
+  depth: 7.5
+  categories:
+    food: 8.2
+    culture: 7.9

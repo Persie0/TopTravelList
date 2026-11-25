@@ -1,0 +1,16 @@
+id: sight-st-cathedral-of-our-lady-of-grace
+name: "Cathedral of Our Lady of Grace"
+location:
+  country_code: ST
+  latitude: 0.3390
+  longitude: 6.7320
+scores:
+  impact: 6.9
+  uniqueness: 7.6
+  significance: 8.0
+  experience: 7.6
+  depth: 6.0
+  categories:
+    architecture: 8.2
+    history: 8.3
+    culture: 8.1

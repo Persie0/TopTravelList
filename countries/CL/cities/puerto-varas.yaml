@@ -1,0 +1,17 @@
+id: city-cl-puerto-varas
+name: "Puerto Varas"
+location:
+  country_code: CL
+  latitude: -41.3181
+  longitude: -72.9854
+scores:
+  impact: 8.1
+  uniqueness: 7.9
+  significance: 7.3
+  experience: 8.6
+  depth: 7.6
+  categories:
+    photography: 8.8
+    architecture: 8.4
+    relaxation: 8.7
+    food: 8.4

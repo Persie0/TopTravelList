@@ -1,0 +1,15 @@
+id: sight-qa-doha-quest
+name: "Doha Quest"
+location:
+  country_code: QA
+  latitude: 25.2860
+  longitude: 51.5220
+scores:
+  impact: 7.7
+  uniqueness: 7.4
+  significance: 6.0
+  experience: 8.4
+  depth: 7.6
+  categories:
+    family: 8.7
+    adventure: 8.3

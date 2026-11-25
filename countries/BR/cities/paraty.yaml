@@ -1,0 +1,17 @@
+id: city-br-paraty
+name: "Paraty"
+location:
+  country_code: BR
+  latitude: -23.2178
+  longitude: -44.7131
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 8.6
+  experience: 8.6
+  depth: 7.7
+  categories:
+    architecture: 9.3
+    history: 9.0
+    culture: 8.9
+    photography: 9.1

@@ -1,0 +1,16 @@
+id: sight-pe-chavin-archaeological-site
+name: "Chavín Archaeological Site"
+location:
+  country_code: PE
+  latitude: -9.5920
+  longitude: -77.1780
+scores:
+  impact: 8.5
+  uniqueness: 9.2
+  significance: 9.6
+  experience: 8.3
+  depth: 8.5
+  categories:
+    history: 9.7
+    architecture: 9.3
+    culture: 9.1

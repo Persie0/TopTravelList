@@ -1,0 +1,15 @@
+id: city-am-dsegh
+name: "Dsegh"
+location:
+  country_code: AM
+  latitude: 40.963
+  longitude: 44.65
+scores:
+  impact: 7.4
+  uniqueness: 7.9
+  significance: 7.4
+  experience: 7.9
+  depth: 6.5
+  categories:
+    culture: 8.3
+    photography: 8.3

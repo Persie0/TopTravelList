@@ -1,0 +1,5 @@
+# Atlas performance and visualization
+
+The combined view is the default. Cities have navy outlines and sights white outlines. Clusters use counts and a ring representing their city share; zoom or open a cluster to inspect individual destinations. The density mode uses larger grid cells. Atlas outline mode removes external raster tile requests. Score distributions show filtered results, and list pagination keeps at most 50 destination rows in the DOM. Rank scopes and normalized search strings are cached, search is debounced, and map updates are coalesced per animation frame and occur after movement ends. Only viewport-visible points are materialized as map layers. No destination records or scoring weights are altered. Omitted category scores are inapplicable, explicit null remains unassessed. URL state retains combined mode, sort, marker limit, display and basemap.
+
+These are structural performance optimizations, not measured browser CPU/RAM benchmarks. Run browser profiling on a representative device before claiming numerical improvements.
