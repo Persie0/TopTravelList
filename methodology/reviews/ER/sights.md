@@ -2,6 +2,9 @@
 
 [Rules](../../../rules.md) · [Workflow](../../future-country-workflow.md). 2026-11-25. [UNESCO inventory](https://whc.unesco.org/en/statesparties/er) confirms one inscribed and one tentative property; both included. Asmara city and heritage area overlap; scores not additive. [FCDO regional risks](https://www.gov.uk/foreign-travel-advice/eritrea/regional-risks) and [safety advice](https://www.gov.uk/foreign-travel-advice/eritrea/safety-and-security) excerpts identify border and permit restrictions; intrinsic scores are not travel advice. Eight unique published coordinates cross-checked; other points approximate, not entrances. Shared peer ladders need further individual calibration. Source-linked entries are not fully fact-checked.
 
+
+Follow-up 2026-11-25: UNESCO 1/1 inscribed and 1/1 tentative property confirmed. [UNESCO Qoahito nomination](https://whc.unesco.org/en/tentativelists/5600/) also identifies Keskese ruins, absent from the current inventory; add when coordinates and normal visitor scope are established. [Protected Planet](https://www.protectedplanet.net/555721470) lists Semenawi-Debubawi Bahri; the [2023 ecosystem study](https://link.springer.com/article/10.1007/s13280-023-01841-4) identifies Dahlak and Semenawi Bahri national parks plus Gash-Setit and Yob reserves. The [2025 national biodiversity strategy](https://cdn.climatepolicyradar.org/navigator/ERI/1900/eritrea-national-biodiversity-strategy-and-action-plan-nbsap-2025_7525e4477cbf42ad71dcfeafaad78a42.pdf) distinguishes priority areas and historical reserves from completed legal gazettement. Filfil and Dahlak visitor records are not automatically full protected area coverage; Gash-Setit, Yob and larger protected-area boundaries remain inventory gaps. Normal permitted visitor scope and factual verification incomplete.
+
 ## sight-er-asmara-modernist-historic-urban-ensemble — Asmara Modernist Historic Urban Ensemble — 2026-11-25
 
 - [YAML](../../../countries/ER/sights/asmara-modernist-historic-urban-ensemble.yaml) · Action: new · **source-linked-unverified**.
@@ -20,6 +23,8 @@
 - High-score challenge: Uniqueness/significance 9.5 and architecture 9.7 reflect the documented planned ensemble, not a single building; compare heritage ensembles and preserve its narrower period scope.. No approved 10.
 - Evidence: [Reference](https://whc.unesco.org/en/list/1550) — UNESCO description and opened atlas https://whc.unesco.org/en/urban-heritage-atlas/asmara/ describe urban planning and named architectural types; page or excerpt accessed 2026-11-25. Full material verification incomplete.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access and peer/category calibration.
+- Follow-up 2026-11-25: [UNESCO inscription decision](https://whc.unesco.org/en/decisions/6883) supports exceptional urban planning and architectural integrity. Compare Brasília, Tel Aviv White City, Le Havre and Chandigarh: rare coherent interwar modernism adapted in an African colonial and local context. Retain 9.5 uniqueness/significance and 9.7 architecture provisionally; no 10.
+
 
 ## sight-er-fiat-tagliero-building — Fiat Tagliero Building — 2026-11-25
 
@@ -39,6 +44,8 @@
 - High-score challenge: Architecture 9.5 recognizes unusual structural expression of a small service building, not the depth of a palace complex.. No approved 10.
 - Evidence: [Reference](https://mapcarta.com/W278139357) — Opened mapped point and 1938 identity; https://africacompass.com/destinations/east-africa/eritrea/things-to-do/ excerpt describes wings; page or excerpt accessed 2026-11-25. Full material verification incomplete.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access and peer/category calibration.
+- Follow-up 2026-11-25: [Apollo architectural history](https://apollo-magazine.com/eritrea-italy-modernist-architecture/) documents 1938 Pettazzi service station; compare Fallingwater, Villa Savoye, Barcelona Pavilion and the Einstein Tower: exceptional small-scale futurist engineering and silhouette, narrow public visit depth. Retain architecture 9.5 provisionally.
+
 
 ## sight-er-cinema-impero — Cinema Impero — 2026-11-25
 
@@ -58,6 +65,8 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Reference](https://mapcarta.com/W278139137) — Opened cinema coordinate and nearby theatre description; access unverified; page or excerpt accessed 2026-11-25. Full material verification incomplete.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access and peer/category calibration.
+- Follow-up 2026-11-25: [Archnet](https://www.archnet.org/sites/5659) documents this distinct cinema; [mapped building](https://mapcarta.com/W278139137) is not the 1918 Asmara Theatre.
+
 
 ## sight-er-church-of-our-lady-of-the-rosary-asmara — Church of Our Lady of the Rosary (Asmara) — 2026-11-25
 
@@ -119,7 +128,7 @@
 ## sight-er-asmara-theatre-cinema-asmara — Asmara Theatre (Cinema Asmara) — 2026-11-25
 
 - [YAML](../../../countries/ER/sights/asmara-theatre-cinema-asmara.yaml) · Action: new · **source-linked-unverified**.
-- Scope: 1918 theatre. GPS 15.337, 38.935: approximate editorial point.
+- Scope: 1918 theatre. GPS 15.33585, 38.93543: [mapped theatre](https://mapcarta.com/W278139097), OSM way 278139097, not Cinema Impero.
 - Worldwide peers (I/U/S/E/D):
   - [Angkor Wat (KH)](../../../countries/KH/sights/angkor-wat.yaml) — 10.0 / 10.0 / 10.0 / 9.8 / 9.5 (99.20/100); lower impact (historic theatrical architecture); lower uniqueness (period performance venue); lower significance (urban cultural heritage); lower experience (focused visit); lower depth (one building).
   - [Schönbrunn Palace (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) — 9.4 / 9.3 / 9.6 / 9.5 / 9.3 (94.20/100); lower impact (historic theatrical architecture); lower uniqueness (period performance venue); lower significance (urban cultural heritage); lower experience (focused visit); lower depth (one building).
@@ -132,7 +141,7 @@
 - Depth 6.5: one building.
 - Categories: architecture:8.8, history:8.4. Overall: 77.75/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: [Reference](https://mapcarta.com/W278139137) — Opened cinema coordinate and nearby theatre description; access unverified; page or excerpt accessed 2026-11-25. Full material verification incomplete.
+- Evidence: [Correct mapped theatre](https://mapcarta.com/W278139097) confirms 1918 building and renovations. Previous source was Cinema Impero, a separate building about 530 m east. Current performance and interior access unverified.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access and peer/category calibration.
 
 ## sight-er-cinema-africa — Cinema Africa — 2026-11-25
@@ -289,7 +298,7 @@
 
 ## sight-er-gurgusum-beach — Gurgusum Beach — 2026-11-25
 
-- [YAML](../../../countries/ER/sights/gurgusum-beach.yaml) · Action: new · **editorial-only**.
+- [YAML](../../../countries/ER/sights/gurgusum-beach.yaml) · Action: new · **source-linked-unverified**.
 - Scope: specific shoreline. GPS 15.65, 39.47: approximate editorial point.
 - Worldwide peers (I/U/S/E/D):
   - [Railay Beach (TH)](../../../countries/TH/sights/railay-beach.yaml) — 8.9 / 9.0 / 7.5 / 9.2 / 8.3 (86.30/100); lower impact (sandy Red Sea shore); lower uniqueness (regional beach setting); lower significance (local recreation); lower experience (shore leisure); lower depth (linear shore).
@@ -303,7 +312,7 @@
 - Depth 6.8: linear shore.
 - Categories: beaches:8.5, relaxation:8.4. Overall: 73.05/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked destination-specific source.
+- Evidence: [September 2026 beach guide](https://meridiela.com/eritrea/gurgusum-beach/) and [Eritrean community tourism profile](https://eacssn.org.au/about-eritrea/) describe the beach north of Massawa, swimming and recreation. Current facility and access conditions unconfirmed; checked 2026-11-25.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access and peer/category calibration.
 
 ## sight-er-qoahito-cultural-landscape — Qoahito Cultural Landscape — 2026-11-25
@@ -400,6 +409,8 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Reference](https://mapcarta.com/W358268260) — Opened coordinate; embassy https://us.embassyeritrea.org/tourism/ identifies monastery and manuscripts; page or excerpt accessed 2026-11-25. Full material verification incomplete.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access and peer/category calibration.
+- Follow-up 2026-11-25: [Eritrean Ministry of Information](https://shabait.com/2010/06/25/debre-bizen-a-pioneer-monastery/) explicitly documents longstanding exclusion of women from monastery access; [2026 visitor guide](https://viajacongus.com/en/eritrea/nefasit-debre-bizen/) corroborates. Score refers only to eligible permitted visitors; not general access or a recommendation to circumvent rules. Retain normal-condition merit, restricted approach noted.
+
 
 ## sight-er-debre-sina-monastery — Debre Sina Monastery — 2026-11-25
 
@@ -534,24 +545,26 @@
 - Evidence: [Reference](https://explore-eritrea.com/to_book/tour-1-explore-eritrea/) — Tour excerpt names stops and activities; not confirmed access; page or excerpt accessed 2026-11-25. Full material verification incomplete.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access and peer/category calibration.
 
-## sight-er-asmara-massawa-historic-railway — Asmara–Massawa Historic Railway — 2026-11-25
+## sight-er-asmara-massawa-historic-railway — Asmara–Massawa Historic Railway (operating heritage excursion) — 2026-11-25
 
-- [YAML](../../../countries/ER/sights/asmara-massawa-historic-railway.yaml) · Action: new · **unassessed**.
-- Scope: historic railway corridor. GPS 15.33, 39.08: approximate editorial point.
+- [YAML](../../../countries/ER/sights/asmara-massawa-historic-railway.yaml) · Action: new · **source-linked-unverified**.
+- Scope: operating Asmara–Arbaroba/Nefasit heritage excursion on historic corridor, not full passenger service to Massawa. GPS 15.33853, 38.94978: [Asmara station](https://mapcarta.com/W447895197), representative departure area.
 - Worldwide peers (I/U/S/E/D):
-  - [Angkor Wat (KH)](../../../countries/KH/sights/angkor-wat.yaml) — 10.0 / 10.0 / 10.0 / 9.8 / 9.5 (99.20/100); unresolved impact (ride impact unknown); lower uniqueness (mountain narrow-gauge engineering); lower significance (transport history); unresolved experience (regular ride availability unknown); unresolved depth (route experience unresolved).
-  - [Schönbrunn Palace (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) — 9.4 / 9.3 / 9.6 / 9.5 / 9.3 (94.20/100); unresolved impact (ride impact unknown); lower uniqueness (mountain narrow-gauge engineering); lower significance (transport history); unresolved experience (regular ride availability unknown); unresolved depth (route experience unresolved).
-  - [Amman Roman Theatre (JO)](../../../countries/JO/sights/amman-roman-theatre.yaml) — 8.6 / 8.2 / 8.7 / 8.7 / 7.8 (84.55/100); unresolved impact (ride impact unknown); higher uniqueness (mountain narrow-gauge engineering); higher significance (transport history); unresolved experience (regular ride availability unknown); unresolved depth (route experience unresolved).
-  - [Aqaba Fort (JO)](../../../countries/JO/sights/aqaba-fort.yaml) — 7.2 / 7.4 / 8.1 / 7.5 / 6.9 (74.45/100); unresolved impact (ride impact unknown); higher uniqueness (mountain narrow-gauge engineering); higher significance (transport history); unresolved experience (regular ride availability unknown); unresolved depth (route experience unresolved).
-- Impact null: ride impact unknown.
+  - [Angkor Wat (KH)](../../../countries/KH/sights/angkor-wat.yaml) — 10.0 / 10.0 / 10.0 / 9.8 / 9.5 (99.20/100); lower impact (mountain steam excursion); lower uniqueness (mountain narrow-gauge engineering); lower significance (transport history); lower experience (specialist charter); lower depth (bounded mountain route).
+  - [Schönbrunn Palace (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) — 9.4 / 9.3 / 9.6 / 9.5 / 9.3 (94.20/100); lower impact (mountain steam excursion); lower uniqueness (mountain narrow-gauge engineering); lower significance (transport history); lower experience (specialist charter); lower depth (bounded mountain route).
+  - [Amman Roman Theatre (JO)](../../../countries/JO/sights/amman-roman-theatre.yaml) — 8.6 / 8.2 / 8.7 / 8.7 / 7.8 (84.55/100); equal impact (mountain steam excursion); higher uniqueness (mountain narrow-gauge engineering); higher significance (transport history); lower experience (specialist charter); lower depth (bounded mountain route).
+  - [Aqaba Fort (JO)](../../../countries/JO/sights/aqaba-fort.yaml) — 7.2 / 7.4 / 8.1 / 7.5 / 6.9 (74.45/100); higher impact (mountain steam excursion); higher uniqueness (mountain narrow-gauge engineering); higher significance (transport history); higher experience (specialist charter); higher depth (bounded mountain route).
+- Impact 8.6: steep escarpment scenery and historic steam-engine operation.
 - Uniqueness 9.1: mountain narrow-gauge engineering.
 - Significance 8.9: transport history.
-- Experience null: regular ride availability unknown.
-- Depth null: route experience unresolved.
-- Categories: history:9.2, architecture:8.8, photography:9.0. Overall: unranked.
+- Experience 8.2: specialist charter with variable track access, permits and uncertain schedule.
+- Depth 7.5: bounded mountain excursion and historic infrastructure, not whole coastal route.
+- Categories: history:9.2, architecture:8.8, photography:9.0. Overall: 86.15/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked destination-specific source.
+- Evidence: [February 2026 actual trip report](https://www.farrail.com/pages/trip-reports-engl/Eritrea-Railway-Mallets-to-Asmara%2BKeren%2BMassawa%2BQuohaito-2026-02.html) documents steam operation near Arbaroba; [November 2026 local guide](https://adulistravel.com/the-eritrean-railway/) describes shortened operating section; [local charter operator](https://eritreatravelandtours.com/day-tours/asmara/epic-steam-train-adventure-in-asmara-riding-back-in-time/) offers bounded round trip. Scope and availability contingent. Checked 2026-11-25.
 - Remaining gaps: Normal permitted visitor experience and scope not established.
+- Follow-up 2026-11-25: Former unranked record now provisionally scored 86.15 for narrower documented charter scope. Compared with Darjeeling Himalayan Railway, Semmering Railway, Rhaetian Railway and Nilgiri Mountain Railway, distinctive historic steam and escarpment engineering, but substantially narrower operating scope and less dependable ordinary visitor service. No assumption of regular through service.
+
 
 ## sight-er-danakil-depression-eritrean-sector — Danakil Depression (Eritrean sector) — 2026-11-25
 
