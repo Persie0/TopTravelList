@@ -1065,3 +1065,45 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [UNESCO country register lists Koktepa tentative property](https://whc.unesco.org/en/statesparties/UZ), page or search excerpt inspected 2026-11-25; limited identity or context, not all individual claims verified.
 - Remaining gaps: Confirm permitted ordinary visitor routes, representative coordinates and interpretation before complete scoring.
+
+## Follow-up: sight-uz-registan-square-and-madrasah-ensemble — 2026-11-25 (worldwide review)
+
+- [YAML](../../../countries/UZ/sights/registan-square-and-madrasah-ensemble.yaml) · Action: rescore · **source-linked-unverified**. Scope checked, not full factual verification.
+- Sources inspected: [https://whc.unesco.org/en/list/603/](https://whc.unesco.org/en/list/603/); [https://www.visituzbek.uz/travel-guide/things-to-do-in-samarkand](https://www.visituzbek.uz/travel-guide/things-to-do-in-samarkand); [https://gov.uz/en/pages/places_interest](https://gov.uz/en/pages/places_interest).
+- Decision: UNESCO and the visitor guide establish three monumental madrasahs facing a single square. Retain exceptional visual, historical, cultural and architectural quality: the coherent tiled ensemble is a rare worldwide reference. The depth of 8.9 recognizes multiple courtyards and interiors but is narrower than the extended archaeological city of Jerash. Do not credit other Samarkand monuments. Experience 9.6 remains an editorial judgement, not a guarantee of access or entertainment.
+- I/U/S/E/D: 9.8 / 9.7 / 9.6 / 9.6 / 9.2 → 9.8 / 9.7 / 9.6 / 9.6 / 8.9; total 96.45 → 96.15/100. Categories and GPS unchanged. No new perfect rating or multiplier.
+
+| Current worldwide peer | I/U/S/E/D | Overall /100 | Comparison |
+| --- | --- | --- | --- |
+| [sistine chapel (VA)](../../../countries/VA/sights/sistine-chapel.yaml) | 9.9 / 9.9 / 9.9 / 9.1 / 7.8 | 95.70 | World-defining artistic and historical monument, compact visitor scope. |
+| [wat pho (TH)](../../../countries/TH/sights/wat-pho.yaml) | 9.0 / 9.2 / 9.3 / 9.2 / 8.5 | 90.90 | Multiple temple courts and buildings, broader than a single lane. |
+| [melk abbey (AT)](../../../countries/AT/sights/melk-abbey.yaml) | 9.0 / 9.2 / 9.3 / 9.2 / 8.7 | 91.10 | Substantial multi-room and architectural ensemble; varied visitor circuit. |
+| [jerash archaeological city (JO)](../../../countries/JO/sights/jerash-archaeological-city.yaml) | 9.5 / 9.3 / 9.5 / 9.4 / 9.3 | 94.15 | Extensive ancient urban ensemble with more sustained exploration. |
+
+## Follow-up: sight-uz-shah-i-zinda-necropolis — 2026-11-25 (worldwide review)
+
+- [YAML](../../../countries/UZ/sights/shah-i-zinda-necropolis.yaml) · Action: rescore · **source-linked-unverified**. Scope checked, not full factual verification.
+- Sources inspected: [https://whc.unesco.org/en/list/603/](https://whc.unesco.org/en/list/603/); [https://tashkentcitytour.uz/en/samarkand/shah-i-zinda-ensemble](https://tashkentcitytour.uz/en/samarkand/shah-i-zinda-ensemble); [https://sam.uz/en/places/shohi-zinda](https://sam.uz/en/places/shohi-zinda).
+- Decision: The historic necropolis comprises several groups of decorated mausoleums and a living shrine along a narrow rising passage. Retain rare funerary tilework, historical significance and immersive visual qualities, including the 9.5+ fields. Depth 8.2 reflects the compact linear circuit, not all the surrounding archaeological landscape or cemetery; less varied than Wat Pho or Melk. No inference of access to every tomb.
+- I/U/S/E/D: 9.6 / 9.6 / 9.5 / 9.3 / 8.7 → 9.6 / 9.6 / 9.5 / 9.3 / 8.2; total 94.45 → 93.95/100. Categories and GPS unchanged. No new perfect rating or multiplier.
+
+| Current worldwide peer | I/U/S/E/D | Overall /100 | Comparison |
+| --- | --- | --- | --- |
+| [sistine chapel (VA)](../../../countries/VA/sights/sistine-chapel.yaml) | 9.9 / 9.9 / 9.9 / 9.1 / 7.8 | 95.70 | World-defining artistic and historical monument, compact visitor scope. |
+| [wat pho (TH)](../../../countries/TH/sights/wat-pho.yaml) | 9.0 / 9.2 / 9.3 / 9.2 / 8.5 | 90.90 | Multiple temple courts and buildings, broader than a single lane. |
+| [melk abbey (AT)](../../../countries/AT/sights/melk-abbey.yaml) | 9.0 / 9.2 / 9.3 / 9.2 / 8.7 | 91.10 | Substantial multi-room and architectural ensemble; varied visitor circuit. |
+| [jerash archaeological city (JO)](../../../countries/JO/sights/jerash-archaeological-city.yaml) | 9.5 / 9.3 / 9.5 / 9.4 / 9.3 | 94.15 | Extensive ancient urban ensemble with more sustained exploration. |
+
+## Follow-up: sight-uz-gur-e-amir-mausoleum — 2026-11-25 (worldwide review)
+
+- [YAML](../../../countries/UZ/sights/gur-e-amir-mausoleum.yaml) · Action: fact-check-only · **source-linked-unverified**. Scope checked, not full factual verification.
+- Sources inspected: [https://uzbekistan.travel/en/o/gur-emir/](https://uzbekistan.travel/en/o/gur-emir/); [https://whc.unesco.org/en/list/603/](https://whc.unesco.org/en/list/603/).
+- Decision: Retain the exceptional historical and architectural judgement for the Timurid dynastic tomb and decorated interior; existing 7.9 depth already distinguishes the bounded mausoleum visit from larger ensembles. No automatic transfer from the whole inscribed city. Photography 9.5 is a provisional editorial judgment about its decoration, not verified photography permissions.
+- I/U/S/E/D: 9.4 / 9.3 / 9.5 / 9.0 / 7.9 → 9.4 / 9.3 / 9.5 / 9.0 / 7.9; total 91.85 → 91.85/100. Categories and GPS unchanged. No new perfect rating or multiplier.
+
+| Current worldwide peer | I/U/S/E/D | Overall /100 | Comparison |
+| --- | --- | --- | --- |
+| [sistine chapel (VA)](../../../countries/VA/sights/sistine-chapel.yaml) | 9.9 / 9.9 / 9.9 / 9.1 / 7.8 | 95.70 | World-defining artistic and historical monument, compact visitor scope. |
+| [wat pho (TH)](../../../countries/TH/sights/wat-pho.yaml) | 9.0 / 9.2 / 9.3 / 9.2 / 8.5 | 90.90 | Multiple temple courts and buildings, broader than a single lane. |
+| [melk abbey (AT)](../../../countries/AT/sights/melk-abbey.yaml) | 9.0 / 9.2 / 9.3 / 9.2 / 8.7 | 91.10 | Substantial multi-room and architectural ensemble; varied visitor circuit. |
+| [jerash archaeological city (JO)](../../../countries/JO/sights/jerash-archaeological-city.yaml) | 9.5 / 9.3 / 9.5 / 9.4 / 9.3 | 94.15 | Extensive ancient urban ensemble with more sustained exploration. |
