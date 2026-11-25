@@ -1,0 +1,15 @@
+id: sight-cm-bandjoun-chiefdom
+name: "Bandjoun Chiefdom"
+location:
+  country_code: CM
+  latitude: 5.349639
+  longitude: 10.409472
+scores:
+  impact: 8.8
+  uniqueness: 9.1
+  significance: 8.9
+  experience: 8.6
+  depth: 8.2
+  categories:
+    architecture: 9.3
+    culture: 9.2

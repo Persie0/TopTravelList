@@ -1,0 +1,15 @@
+id: sight-lr-blue-lake-east-nimba
+name: "Blue Lake (East Nimba)"
+location:
+  country_code: LR
+  latitude: 7.56
+  longitude: -8.53
+scores:
+  impact: 7.8
+  uniqueness: 8.0
+  significance: 6.4
+  experience: 7.9
+  depth: 6.5
+  categories:
+    photography: 8.5
+    nature: 8.0

@@ -1,0 +1,15 @@
+id: sight-sn-niokolo-koba-national-park
+name: "Niokolo-Koba National Park"
+location:
+  country_code: SN
+  latitude: 13.006
+  longitude: -13.004
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 9.4
+  experience: 8.4
+  depth: 8.8
+  categories:
+    nature: 9.3
+    wildlife: 9.2

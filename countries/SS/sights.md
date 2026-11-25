@@ -2,7 +2,7 @@
 
 # South Sudan (SS) — Sights & attractions ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**6 ranked** · **14 unassessed** · **20 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,11 +10,37 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (6)
 
-No sights & attractions have been assessed for **South Sudan** yet.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Nimule National Park](sights/nimule-national-park.yaml) | Park / reserve | **80.25** | **Wildlife 8.8**, **Nature 8.6**, **Adventure 8.2** | 8.0 / 8.1 / 8.3 / 7.8 / 7.7 | [3.65, 31.9667](https://www.google.com/maps/search/?api=1&query=3.65,31.9667) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nimule%20National%20Park%2C%20South%20Sudan) |
+| 2 | [John Garang Mausoleum](sights/john-garang-mausoleum.yaml) | Museum / heritage | **76.40** | **History 9.4**, **Culture 8.8** | 7.0 / 8.1 / 9.2 / 7.3 / 5.8 | [4.8459, 31.5959](https://www.google.com/maps/search/?api=1&query=4.8459,31.5959) | [Google Maps](https://www.google.com/maps/search/?api=1&query=John%20Garang%20Mausoleum%2C%20South%20Sudan) |
+| 3 | [Fula Rapids](sights/fula-rapids.yaml) | Attraction | **73.70** | **Nature 8.4**, **Photography 8.2** | 7.8 / 7.7 / 6.7 / 7.5 / 6.4 | [3.67313, 31.97203](https://www.google.com/maps/search/?api=1&query=3.67313,31.97203) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Fula%20Rapids%2C%20South%20Sudan) |
+| 4 | [Jebel Kujur (Jabal Kuruk)](sights/jebel-kujur-jabal-kuruk.yaml) | Attraction | **70.55** | **Photography 8.3**, **Nature 8.1**, **Adventure 8.0** | 7.6 / 7.2 / 6.1 / 7.5 / 6.3 | [4.84369, 31.54838](https://www.google.com/maps/search/?api=1&query=4.84369,31.54838) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Jebel%20Kujur%20%28Jabal%20Kuruk%29%2C%20South%20Sudan) |
+| 5 | [Konyo Konyo Market](sights/konyo-konyo-market.yaml) | Market | **70.35** | **Culture 8.2**, **Food 8.0** | 6.8 / 7.6 / 6.5 / 7.3 / 7.0 | [4.85, 31.61](https://www.google.com/maps/search/?api=1&query=4.85,31.61) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Konyo%20Konyo%20Market%2C%20South%20Sudan) |
+| 6 | [All Saints Cathedral (Juba)](sights/all-saints-cathedral-juba.yaml) | Religious site | **69.15** | **History 8.3**, **Culture 8.2**, **Architecture 7.5** | 6.3 / 7.3 / 8.0 / 7.0 / 5.5 | [4.84541, 31.60857](https://www.google.com/maps/search/?api=1&query=4.84541,31.60857) | [Google Maps](https://www.google.com/maps/search/?api=1&query=All%20Saints%20Cathedral%20%28Juba%29%2C%20South%20Sudan) |
 
-Add destination YAML files in [sights/](sights/), then regenerate the overview files.
+## Not yet fully assessed (14)
+
+These destinations have no rank until all five core scores are assessed.
+
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| — | [Badingilo National Park](sights/badingilo-national-park.yaml) | Park / reserve | **—** | **Nature 9.7**, Wildlife unassessed | — / 9.6 / 9.7 / — / — | [5.4328, 32.2775](https://www.google.com/maps/search/?api=1&query=5.4328,32.2775) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Badingilo%20National%20Park%2C%20South%20Sudan) |
+| — | [Boma National Park](sights/boma-national-park.yaml) | Park / reserve | **—** | **Nature 9.7**, Wildlife unassessed | — / 9.7 / 9.7 / — / — | [6.4833, 33.9167](https://www.google.com/maps/search/?api=1&query=6.4833,33.9167) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Boma%20National%20Park%2C%20South%20Sudan) |
+| — | [Boma–Badingilo Migratory Landscape](sights/boma-badingilo-migratory-landscape.yaml) | Coast | **—** | **Nature 9.9**, Wildlife unassessed | — / 9.9 / 9.9 / — / — | [6.941667, 33.2775](https://www.google.com/maps/search/?api=1&query=6.941667,33.2775) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Boma%E2%80%93Badingilo%20Migratory%20Landscape%2C%20South%20Sudan) |
+| — | [Deim Zubeir Slave Route Site](sights/deim-zubeir-slave-route-site.yaml) | Attraction | **—** | **History 9.4**, **Culture 8.8** | — / 8.7 / 9.4 / — / — | [7.715453, 26.192068](https://www.google.com/maps/search/?api=1&query=7.715453,26.192068) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Deim%20Zubeir%20Slave%20Route%20Site%2C%20South%20Sudan) |
+| — | [Fanyikang Game Reserve](sights/fanyikang-game-reserve.yaml) | Attraction | **—** | **Nature 8.8**, Wildlife unassessed | — / 8.4 / 8.8 / — / — | [9.25, 31.2548](https://www.google.com/maps/search/?api=1&query=9.25,31.2548) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Fanyikang%20Game%20Reserve%2C%20South%20Sudan) |
+| — | [Imatong Central Forest Reserve](sights/imatong-central-forest-reserve.yaml) | Forest | **—** | **Nature 9.2**, **Wildlife 8.9** | — / 8.6 / 8.9 / — / — | [3.94611, 32.91028](https://www.google.com/maps/search/?api=1&query=3.94611,32.91028) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Imatong%20Central%20Forest%20Reserve%2C%20South%20Sudan) |
+| — | [Lantoto National Park](sights/lantoto-national-park.yaml) | Park / reserve | **—** | **Nature 8.8**, **Wildlife 8.7** | — / 8.0 / 8.4 / — / — | [4.5, 29.9](https://www.google.com/maps/search/?api=1&query=4.5,29.9) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lantoto%20National%20Park%2C%20South%20Sudan) |
+| — | [Maruwa Hills Visitor Sector (Boma)](sights/maruwa-hills-visitor-sector-boma.yaml) | Attraction | **—** | **Wildlife 8.9**, **Nature 8.8** | — / 8.5 / 8.3 / — / — | [6.4833, 33.9167](https://www.google.com/maps/search/?api=1&query=6.4833,33.9167) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Maruwa%20Hills%20Visitor%20Sector%20%28Boma%29%2C%20South%20Sudan) |
+| — | [Meshra Game Reserve](sights/meshra-game-reserve.yaml) | Attraction | **—** | **Nature 8.9**, Wildlife unassessed | — / 8.5 / 8.8 / — / — | [7.3, 29.3](https://www.google.com/maps/search/?api=1&query=7.3,29.3) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Meshra%20Game%20Reserve%2C%20South%20Sudan) |
+| — | [Mount Kinyeti](sights/mount-kinyeti.yaml) | Mountain / peak | **—** | **Nature 8.9**, **Adventure 8.8** | — / 8.4 / 8.0 / — / — | [3.94611, 32.91028](https://www.google.com/maps/search/?api=1&query=3.94611,32.91028) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mount%20Kinyeti%2C%20South%20Sudan) |
+| — | [Shambe National Park](sights/shambe-national-park.yaml) | Park / reserve | **—** | **Nature 9.1**, **Wildlife 9.1** | — / 8.4 / 8.8 / — / — | [6.983333, 30.583333](https://www.google.com/maps/search/?api=1&query=6.983333,30.583333) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Shambe%20National%20Park%2C%20South%20Sudan) |
+| — | [Southern National Park](sights/southern-national-park.yaml) | Park / reserve | **—** | **Nature 9.1**, **Wildlife 9.1** | — / 8.3 / 8.8 / — / — | [6.55, 28.283333](https://www.google.com/maps/search/?api=1&query=6.55,28.283333) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Southern%20National%20Park%2C%20South%20Sudan) |
+| — | [Sudd Wetland](sights/sudd-wetland.yaml) | Wetland | **—** | **Nature 9.8**, Wildlife unassessed | — / 9.6 / 9.7 / — / — | [7.93718, 31.3167](https://www.google.com/maps/search/?api=1&query=7.93718,31.3167) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sudd%20Wetland%2C%20South%20Sudan) |
+| — | [Zeraf Game Reserve](sights/zeraf-game-reserve.yaml) | Attraction | **—** | **Nature 9.1**, Wildlife unassessed | — / 8.8 / 9.1 / — / — | [8.48, 30.3](https://www.google.com/maps/search/?api=1&query=8.48,30.3) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Zeraf%20Game%20Reserve%2C%20South%20Sudan) |
 
 ---
 

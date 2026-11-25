@@ -1,0 +1,13 @@
+id: city-nr-anibare
+name: "Anibare"
+location:
+  country_code: NR
+  latitude: -0.52792
+  longitude: 166.95249
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}

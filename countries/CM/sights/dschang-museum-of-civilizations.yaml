@@ -1,0 +1,15 @@
+id: sight-cm-dschang-museum-of-civilizations
+name: "Dschang Museum of Civilizations"
+location:
+  country_code: CM
+  latitude: 5.4500999
+  longitude: 10.0653934
+scores:
+  impact: 7.9
+  uniqueness: 8.3
+  significance: 8.5
+  experience: 8.3
+  depth: 8.1
+  categories:
+    history: 8.7
+    culture: 8.9

@@ -1,0 +1,15 @@
+id: sight-sl-sierra-leone-national-museum
+name: "Sierra Leone National Museum"
+location:
+  country_code: SL
+  latitude: 8.487
+  longitude: -13.235
+scores:
+  impact: 7.1
+  uniqueness: 7.9
+  significance: 8.6
+  experience: 7.7
+  depth: 7.2
+  categories:
+    history: 8.9
+    culture: 8.7

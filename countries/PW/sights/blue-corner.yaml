@@ -1,0 +1,16 @@
+id: sight-pw-blue-corner
+name: "Blue Corner"
+location:
+  country_code: PW
+  latitude: 7.13361
+  longitude: 134.22028
+scores:
+  impact: 9.3
+  uniqueness: 9.0
+  significance: 8.3
+  experience: 9.3
+  depth: 8.6
+  categories:
+    wildlife: 9.3
+    adventure: 9.4
+    nature: 9.1

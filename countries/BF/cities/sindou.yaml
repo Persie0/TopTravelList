@@ -1,0 +1,13 @@
+id: city-bf-sindou
+name: "Sindou"
+location:
+  country_code: BF
+  latitude: 10.66
+  longitude: -5.16
+scores:
+  impact: null
+  uniqueness: 7.1
+  significance: 6.7
+  experience: null
+  depth: null
+  categories: {}

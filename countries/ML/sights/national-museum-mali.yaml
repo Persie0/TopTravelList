@@ -1,0 +1,15 @@
+id: sight-ml-national-museum-mali
+name: "National Museum of Mali"
+location:
+  country_code: ML
+  latitude: 12.652
+  longitude: -7.998
+scores:
+  impact: 8.1
+  uniqueness: 8.5
+  significance: 8.8
+  experience: 8.4
+  depth: 8.3
+  categories:
+    history: 9.0
+    culture: 9.1

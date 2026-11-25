@@ -1,0 +1,15 @@
+id: sight-zw-naletale-ruins
+name: "Naletale Ruins"
+location:
+  country_code: ZW
+  latitude: -19.883333
+  longitude: 29.533333
+scores:
+  impact: 8.4
+  uniqueness: 9.1
+  significance: 9.1
+  experience: 8.3
+  depth: 7.8
+  categories:
+    architecture: 9.2
+    history: 9.2

@@ -1,0 +1,16 @@
+id: sight-sd-sanganeb-marine-national-park
+name: "Sanganeb Marine National Park"
+location:
+  country_code: SD
+  latitude: 19.736111
+  longitude: 37.443056
+scores:
+  impact: 9.5
+  uniqueness: 9.5
+  significance: 9.3
+  experience: 9.0
+  depth: 8.7
+  categories:
+    nature: 9.6
+    wildlife: 9.5
+    adventure: 9.1

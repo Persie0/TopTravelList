@@ -1,0 +1,17 @@
+id: sight-ga-ivindo-national-park
+name: "Ivindo National Park"
+location:
+  country_code: GA
+  latitude: 0.113
+  longitude: 12.648
+scores:
+  impact: 9.4
+  uniqueness: 9.4
+  significance: 9.7
+  experience: 8.8
+  depth: 9.1
+  categories:
+    nature: 9.7
+    wildlife: 9.2
+    adventure: 9.2
+    photography: 9.4

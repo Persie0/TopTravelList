@@ -1,0 +1,15 @@
+id: sight-ci-kong-great-mosque
+name: "Great Mosque of Kong"
+location:
+  country_code: CI
+  latitude: 9.149167
+  longitude: -4.6095
+scores:
+  impact: 8.7
+  uniqueness: 9.0
+  significance: 8.9
+  experience: 8.1
+  depth: 7.2
+  categories:
+    architecture: 9.2
+    history: 9.0

@@ -1,0 +1,16 @@
+id: sight-sl-mount-bintumani
+name: "Mount Bintumani"
+location:
+  country_code: SL
+  latitude: 9.216
+  longitude: -11.117
+scores:
+  impact: 8.8
+  uniqueness: 8.4
+  significance: 7.9
+  experience: 8.6
+  depth: 7.7
+  categories:
+    adventure: 9.2
+    photography: 9.0
+    nature: 8.8

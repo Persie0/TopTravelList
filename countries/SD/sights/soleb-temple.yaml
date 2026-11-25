@@ -1,0 +1,15 @@
+id: sight-sd-soleb-temple
+name: "Temple of Soleb"
+location:
+  country_code: SD
+  latitude: 20.436306
+  longitude: 30.333861
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 9.2
+  experience: 8.2
+  depth: 7.8
+  categories:
+    architecture: 9.2
+    history: 9.3

@@ -1,0 +1,15 @@
+id: sight-er-danakil-depression-eritrean-sector
+name: "Danakil Depression (Eritrean sector)"
+location:
+  country_code: ER
+  latitude: 13.85
+  longitude: 41.35
+scores:
+  impact: null
+  uniqueness: 9.2
+  significance: 9.0
+  experience: null
+  depth: null
+  categories:
+    nature: 9.4
+    photography: 9.2

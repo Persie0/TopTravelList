@@ -1,0 +1,16 @@
+id: sight-ws-robert-louis-stevenson-museum
+name: "Robert Louis Stevenson Museum"
+location:
+  country_code: WS
+  latitude: -13.86636
+  longitude: -171.76551
+scores:
+  impact: 7.7
+  uniqueness: 8.5
+  significance: 8.5
+  experience: 8.1
+  depth: 7.6
+  categories:
+    history: 8.7
+    culture: 8.8
+    architecture: 7.8

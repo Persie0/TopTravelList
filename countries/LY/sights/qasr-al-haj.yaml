@@ -1,0 +1,15 @@
+id: sight-ly-qasr-al-haj
+name: "Qasr al-Haj Granary"
+location:
+  country_code: LY
+  latitude: 32.046447
+  longitude: 12.16756
+scores:
+  impact: 8.8
+  uniqueness: 9.2
+  significance: 8.7
+  experience: 8.6
+  depth: 7.6
+  categories:
+    architecture: 9.3
+    culture: 9.0

@@ -1,0 +1,15 @@
+id: city-cg-mbe
+name: "Mbé"
+location:
+  country_code: CG
+  latitude: -3.28
+  longitude: 15.49
+scores:
+  impact: 6.5
+  uniqueness: 8.0
+  significance: 8.4
+  experience: 7.2
+  depth: 6.0
+  categories:
+    history: 8.8
+    culture: 8.8

@@ -1,0 +1,16 @@
+id: city-mz-ilha-de-mocambique
+name: "Ilha de Moçambique"
+location:
+  country_code: MZ
+  latitude: -15.034
+  longitude: 40.735
+scores:
+  impact: 8.7
+  uniqueness: 9.1
+  significance: 9.3
+  experience: 8.7
+  depth: 8.5
+  categories:
+    history: 9.3
+    culture: 9.2
+    architecture: 9.1
