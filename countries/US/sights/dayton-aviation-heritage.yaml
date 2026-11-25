@@ -1,0 +1,15 @@
+id: sight-us-dayton-aviation-heritage
+name: "Dayton Aviation Heritage National Historical Park"
+location:
+  country_code: US
+  latitude: 39.75
+  longitude: -84.21
+scores:
+  impact: 7.9
+  uniqueness: 8.6
+  significance: 9.1
+  experience: 8.3
+  depth: 8.3
+  categories:
+    history: 9.3
+    culture: 8.8

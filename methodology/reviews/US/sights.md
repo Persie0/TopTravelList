@@ -1302,3 +1302,216 @@ Initial inventory, not exhaustive. [UNESCO country list](https://whc.unesco.org/
 
 ### Coverage update (2026-11-25)
 Added public San Juan fortifications (Puerto Rico, US property component), Bethlehem, Fallingwater and the University of Virginia campus. Papahānaumokuākea remains documented without an invented visitor route or coordinate. The Frank Lloyd Wright serial property is represented by Fallingwater, not every component. 26 of 27 inscribed properties now represented in YAML; tentative and other component coverage remains outstanding.
+
+## sight-us-mount-vernon — Mount Vernon — 2026-11-25
+
+- YAML: [source](../../../countries/US/sights/mount-vernon.yaml)
+- Action: new
+- Precise subject: Historic estate and interpreted slavery and political history.
+- Location check: 38.708, -77.086; approximate representative point, not a surveyed entrance; independent check outstanding.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO World Heritage Centre](https://whc.unesco.org/en/statesparties/us/) — nomination identity and scope linked; country inventory checked 2026-11-25. Does not verify all claims, current access or coordinates.
+- Missing or uncertain facts: Independent claim-level corroboration and exact GPS; ordinary access conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Hohensalzburg](../../../countries/AT/sights/hohensalzburg-fortress.yaml) | less monumental than Hohensalzburg |
+| [Bridgetown Garrison](../../../countries/BB/sights/historic-bridgetown-and-its-garrison.yaml) | more estate history than Garrison |
+| [Pigeon Island](../../../countries/LC/sights/pigeon-island-national-landmark.yaml) | more interior interpretation than Pigeon Island |
+| [Fort Hamilton](../../../countries/VC/sights/fort-hamilton-bequia.yaml) | greater scope than Fort Hamilton |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.1 | riverfront historic mansion and grounds |
+| Uniqueness | 8.5 | distinct preserved presidential estate |
+| Significance | 9.0 | founding-era and slavery history |
+| Experience | 8.5 | house and museum visits |
+| Depth | 8.2 | several estate features |
+
+- Applicable categories: history:9.2,architecture:8.8.
+- Overall: 84.50/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial score of named scope only.
+- Earlier decision: none.
+- Verification still needed: Site-specific access and geography.
+
+## sight-us-serpent-mound — Serpent Mound — 2026-11-25
+
+- YAML: [source](../../../countries/US/sights/serpent-mound.yaml)
+- Action: new
+- Precise subject: Public effigy mound landscape, not sensitive archaeological locations.
+- Location check: 39.026, -83.43; approximate representative point, not a surveyed entrance; independent check outstanding.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO World Heritage Centre](https://whc.unesco.org/en/statesparties/us/) — nomination identity and scope linked; country inventory checked 2026-11-25. Does not verify all claims, current access or coordinates.
+- Missing or uncertain facts: Independent claim-level corroboration and exact GPS; ordinary access conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Angkor Wat](../../../countries/KH/sights/angkor-wat.yaml) | less standing architecture than Angkor Wat |
+| [Machu Picchu](../../../countries/PE/sights/historic-sanctuary-of-machu-picchu.yaml) | different earthwork from Machu Picchu |
+| [Caracol](../../../countries/BZ/sights/caracol-archaeological-reserve.yaml) | less built depth than Caracol |
+| [Layou](../../../countries/VC/sights/layou-petroglyph-park.yaml) | larger earthwork scale than Layou |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 7.8 | large sinuous earthwork |
+| Uniqueness | 8.9 | distinct monumental effigy form |
+| Significance | 9.1 | major Indigenous archaeology |
+| Experience | 7.8 | interpreted exterior viewing |
+| Depth | 7.1 | compact circuit |
+
+- Applicable categories: history:9.2,culture:8.9.
+- Overall: 82.65/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial score of named scope only.
+- Earlier decision: none.
+- Verification still needed: Site-specific access and geography.
+
+## sight-us-dayton-aviation-heritage — Dayton Aviation Heritage National Historical Park — 2026-11-25
+
+- YAML: [source](../../../countries/US/sights/dayton-aviation-heritage.yaml)
+- Action: new
+- Precise subject: Public historic aviation sites, named park component of tentative ensemble.
+- Location check: 39.75, -84.21; approximate representative point, not a surveyed entrance; independent check outstanding.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO World Heritage Centre](https://whc.unesco.org/en/statesparties/us/) — nomination identity and scope linked; country inventory checked 2026-11-25. Does not verify all claims, current access or coordinates.
+- Missing or uncertain facts: Independent claim-level corroboration and exact GPS; ordinary access conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Hohensalzburg](../../../countries/AT/sights/hohensalzburg-fortress.yaml) | less monumental than Hohensalzburg |
+| [Bridgetown Garrison](../../../countries/BB/sights/historic-bridgetown-and-its-garrison.yaml) | different technological history from Garrison |
+| [Pigeon Island](../../../countries/LC/sights/pigeon-island-national-landmark.yaml) | greater museum interpretation than Pigeon Island |
+| [Fort Hamilton](../../../countries/VC/sights/fort-hamilton-bequia.yaml) | broader serial scope than Fort Hamilton |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 7.9 | historic workshop and aviation interpretation |
+| Uniqueness | 8.6 | distinct early flight heritage |
+| Significance | 9.1 | major technological history |
+| Experience | 8.3 | interpreted multiple sites |
+| Depth | 8.3 | several linked exhibits |
+
+- Applicable categories: history:9.3,culture:8.8.
+- Overall: 84.15/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial score of named scope only.
+- Earlier decision: none.
+- Verification still needed: Site-specific access and geography.
+
+## sight-us-birmingham-civil-rights-monument — Birmingham Civil Rights National Monument — 2026-11-25
+
+- YAML: [source](../../../countries/US/sights/birmingham-civil-rights-monument.yaml)
+- Action: new
+- Precise subject: Public Birmingham heritage district, component of tentative Civil Rights Movement Sites.
+- Location check: 33.515, -86.815; approximate representative point, not a surveyed entrance; independent check outstanding.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO World Heritage Centre](https://whc.unesco.org/en/statesparties/us/) — nomination identity and scope linked; country inventory checked 2026-11-25. Does not verify all claims, current access or coordinates.
+- Missing or uncertain facts: Independent claim-level corroboration and exact GPS; ordinary access conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Hohensalzburg](../../../countries/AT/sights/hohensalzburg-fortress.yaml) | less architectural monumentality than Hohensalzburg |
+| [Bridgetown Garrison](../../../countries/BB/sights/historic-bridgetown-and-its-garrison.yaml) | more focused civil rights history than Garrison |
+| [Pigeon Island](../../../countries/LC/sights/pigeon-island-national-landmark.yaml) | more urban interpretation than Pigeon Island |
+| [Fort Hamilton](../../../countries/VC/sights/fort-hamilton-bequia.yaml) | greater historical breadth than Fort Hamilton |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.0 | historic urban memorial landscape |
+| Uniqueness | 8.7 | distinct civil rights movement setting |
+| Significance | 9.3 | major social and political history |
+| Experience | 8.3 | interpreted district visits |
+| Depth | 8.1 | several linked locations |
+
+- Applicable categories: history:9.4,culture:9.1.
+- Overall: 84.90/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial score of named scope only.
+- Earlier decision: none.
+- Verification still needed: Site-specific access and geography.
+
+## sight-us-chicago-auditorium-building — Chicago Auditorium Building — 2026-11-25
+
+- YAML: [source](../../../countries/US/sights/chicago-auditorium-building.yaml)
+- Action: new
+- Precise subject: Named building component of early skyscraper heritage; permitted public visit only.
+- Location check: 41.876, -87.625; approximate representative point, not a surveyed entrance; independent check outstanding.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO World Heritage Centre](https://whc.unesco.org/en/statesparties/us/) — nomination identity and scope linked; country inventory checked 2026-11-25. Does not verify all claims, current access or coordinates.
+- Missing or uncertain facts: Independent claim-level corroboration and exact GPS; ordinary access conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Hohensalzburg](../../../countries/AT/sights/hohensalzburg-fortress.yaml) | less castle monumentality than Hohensalzburg |
+| [Bridgetown Garrison](../../../countries/BB/sights/historic-bridgetown-and-its-garrison.yaml) | different urban engineering from Garrison |
+| [Pigeon Island](../../../countries/LC/sights/pigeon-island-national-landmark.yaml) | more interior architecture than Pigeon Island |
+| [Fort Hamilton](../../../countries/VC/sights/fort-hamilton-bequia.yaml) | greater design scope than Fort Hamilton |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.2 | historic masonry and theatrical interior |
+| Uniqueness | 8.5 | distinct early tall-building design |
+| Significance | 8.8 | major architectural history |
+| Experience | 8.0 | authorized viewing and performance |
+| Depth | 7.5 | one building |
+
+- Applicable categories: architecture:9.1,history:8.9,culture:8.8.
+- Overall: 82.95/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial score of named scope only.
+- Earlier decision: none.
+- Verification still needed: Site-specific access and geography.
+
+## sight-us-poplar-forest — Poplar Forest — 2026-11-25
+
+- YAML: [source](../../../countries/US/sights/poplar-forest.yaml)
+- Action: new
+- Precise subject: Historic house component of Thomas Jefferson Buildings tentative nomination, not whole serial property.
+- Location check: 37.347, -79.265; approximate representative point, not a surveyed entrance; independent check outstanding.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO World Heritage Centre](https://whc.unesco.org/en/statesparties/us/) — nomination identity and scope linked; country inventory checked 2026-11-25. Does not verify all claims, current access or coordinates.
+- Missing or uncertain facts: Independent claim-level corroboration and exact GPS; ordinary access conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Hohensalzburg](../../../countries/AT/sights/hohensalzburg-fortress.yaml) | less monumentality than Hohensalzburg |
+| [Bridgetown Garrison](../../../countries/BB/sights/historic-bridgetown-and-its-garrison.yaml) | more focused domestic design than Garrison |
+| [Pigeon Island](../../../countries/LC/sights/pigeon-island-national-landmark.yaml) | more interior interpretation than Pigeon Island |
+| [Fort Hamilton](../../../countries/VC/sights/fort-hamilton-bequia.yaml) | greater design distinction than Fort Hamilton |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 7.9 | octagonal house and grounds |
+| Uniqueness | 8.5 | distinct architectural experiment |
+| Significance | 8.7 | political and slavery history |
+| Experience | 8.1 | interpreted house visit |
+| Depth | 7.5 | compact estate |
+
+- Applicable categories: architecture:9.0,history:9.0.
+- Overall: 82.00/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial score of named scope only.
+- Earlier decision: none.
+- Verification still needed: Site-specific access and geography.
+
+### Tentative coverage update
+Added named public sites for six outstanding cultural nominations. Four offshore protected nominations remain inventory-only with no pins or ratings: Pacific Remote Islands Marine National Monument, California Current Conservation Complex, Marianas Trench Marine National Monument, Marine Protected Areas of American Samoa. See [UNESCO list](https://whc.unesco.org/en/statesparties/us/) for their identity. No routine visitor experience established.
