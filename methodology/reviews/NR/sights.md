@@ -212,7 +212,7 @@
 - Experience: 6.8 — documented local guided exploration, no established museum-like interpretation or access to working sites.
 - Depth: 6.7 — landscape viewpoints and historical context; limited documented permitted route compared with larger interpreted mining ensembles.
 - Applicable categories: history 8.6, photography 8.1.
-- Overall: 77.65/100.
+- Overall: 77.40/100.
 - High-score challenge: Not applicable.
 - Approved 10 registry: none.
 - Final decision: provisional assessment of the ordinary guided visible landscape, not a recommendation to enter active mines or private land.
