@@ -1,0 +1,16 @@
+id: city-jo-ajloun
+name: "Ajloun"
+location:
+  country_code: JO
+  latitude: 32.3333
+  longitude: 35.7528
+scores:
+  impact: 7.2
+  uniqueness: 7.3
+  significance: 7.4
+  experience: 7.6
+  depth: 7.0
+  categories:
+    culture: 7.6
+    food: 7.5
+    photography: 7.7

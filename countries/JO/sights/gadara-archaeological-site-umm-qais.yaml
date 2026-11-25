@@ -1,0 +1,16 @@
+id: sight-jo-gadara-archaeological-site-umm-qais
+name: "Gadara Archaeological Site (Umm Qais)"
+location:
+  country_code: JO
+  latitude: 32.6530
+  longitude: 35.6796
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 8.9
+  experience: 8.7
+  depth: 8.5
+  categories:
+    history: 9.1
+    architecture: 8.8
+    photography: 9.0

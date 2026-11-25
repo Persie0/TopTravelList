@@ -1,0 +1,17 @@
+id: city-jo-as-salt
+name: "As-Salt"
+location:
+  country_code: JO
+  latitude: 32.042611
+  longitude: 35.728306
+scores:
+  impact: 8.8
+  uniqueness: 9.1
+  significance: 9.0
+  experience: 8.7
+  depth: 8.4
+  categories:
+    architecture: 9.3
+    history: 9.0
+    culture: 9.2
+    photography: 9.0

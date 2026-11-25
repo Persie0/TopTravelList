@@ -1,0 +1,16 @@
+id: sight-jo-umm-al-jimal-archaeological-site
+name: "Umm Al-Jimal Archaeological Site"
+location:
+  country_code: JO
+  latitude: 32.326944
+  longitude: 36.370000
+scores:
+  impact: 8.4
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.3
+  depth: 8.5
+  categories:
+    architecture: 9.0
+    history: 9.1
+    photography: 8.7

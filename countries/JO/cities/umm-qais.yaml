@@ -1,0 +1,16 @@
+id: city-jo-umm-qais
+name: "Umm Qais"
+location:
+  country_code: JO
+  latitude: 32.6524
+  longitude: 35.6846
+scores:
+  impact: 7.6
+  uniqueness: 7.8
+  significance: 7.6
+  experience: 7.6
+  depth: 6.9
+  categories:
+    culture: 7.8
+    photography: 8.1
+    history: 7.8

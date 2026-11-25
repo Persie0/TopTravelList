@@ -1,0 +1,16 @@
+id: city-jo-madaba
+name: "Madaba"
+location:
+  country_code: JO
+  latitude: 31.7167
+  longitude: 35.7939
+scores:
+  impact: 8.0
+  uniqueness: 8.4
+  significance: 8.5
+  experience: 8.3
+  depth: 7.8
+  categories:
+    architecture: 8.5
+    history: 8.8
+    culture: 8.7

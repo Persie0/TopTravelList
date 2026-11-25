@@ -1,0 +1,16 @@
+id: sight-jo-jerash-archaeological-city
+name: "Jerash Archaeological City"
+location:
+  country_code: JO
+  latitude: 32.2806
+  longitude: 35.8917
+scores:
+  impact: 9.5
+  uniqueness: 9.3
+  significance: 9.5
+  experience: 9.4
+  depth: 9.3
+  categories:
+    architecture: 9.5
+    history: 9.5
+    photography: 9.4

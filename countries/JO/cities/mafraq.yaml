@@ -1,0 +1,15 @@
+id: city-jo-mafraq
+name: "Mafraq"
+location:
+  country_code: JO
+  latitude: 32.3429
+  longitude: 36.2080
+scores:
+  impact: 5.9
+  uniqueness: 6.1
+  significance: 6.4
+  experience: 6.4
+  depth: 6.3
+  categories:
+    culture: 6.7
+    food: 6.7

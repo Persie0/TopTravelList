@@ -1,0 +1,16 @@
+id: sight-jo-ajloun-forest-biosphere-reserve
+name: "Ajloun Forest Biosphere Reserve"
+location:
+  country_code: JO
+  latitude: 32.3830
+  longitude: 35.7470
+scores:
+  impact: 7.9
+  uniqueness: 7.8
+  significance: 8.1
+  experience: 8.3
+  depth: 8.0
+  categories:
+    nature: 8.5
+    wildlife: 8.0
+    adventure: 8.3

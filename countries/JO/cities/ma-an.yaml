@@ -1,0 +1,15 @@
+id: city-jo-ma-an
+name: "Ma'an"
+location:
+  country_code: JO
+  latitude: 30.1920
+  longitude: 35.7360
+scores:
+  impact: 6.3
+  uniqueness: 6.5
+  significance: 7.0
+  experience: 6.7
+  depth: 6.4
+  categories:
+    history: 7.3
+    culture: 7.0

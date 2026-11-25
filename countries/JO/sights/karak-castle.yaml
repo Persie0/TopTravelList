@@ -1,0 +1,16 @@
+id: sight-jo-karak-castle
+name: "Karak Castle"
+location:
+  country_code: JO
+  latitude: 31.1808
+  longitude: 35.7014
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 9.0
+  experience: 8.7
+  depth: 8.6
+  categories:
+    architecture: 9.0
+    history: 9.2
+    photography: 8.6

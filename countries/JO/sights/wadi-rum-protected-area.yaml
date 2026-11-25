@@ -1,0 +1,17 @@
+id: sight-jo-wadi-rum-protected-area
+name: "Wadi Rum Protected Area"
+location:
+  country_code: JO
+  latitude: 29.639722
+  longitude: 35.433889
+scores:
+  impact: 9.8
+  uniqueness: 9.7
+  significance: 9.4
+  experience: 9.6
+  depth: 9.5
+  categories:
+    nature: 9.8
+    photography: 9.8
+    adventure: 9.5
+    culture: 9.1

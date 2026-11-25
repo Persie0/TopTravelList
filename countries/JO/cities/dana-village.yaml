@@ -1,0 +1,16 @@
+id: city-jo-dana-village
+name: "Dana Village"
+location:
+  country_code: JO
+  latitude: 30.6745
+  longitude: 35.6090
+scores:
+  impact: 8.1
+  uniqueness: 8.4
+  significance: 7.7
+  experience: 8.0
+  depth: 6.9
+  categories:
+    architecture: 8.2
+    culture: 8.2
+    photography: 8.6

@@ -1,0 +1,16 @@
+id: sight-jo-um-er-rasas-archaeological-site
+name: "Um er-Rasas Archaeological Site"
+location:
+  country_code: JO
+  latitude: 31.5000
+  longitude: 35.9200
+scores:
+  impact: 8.1
+  uniqueness: 8.7
+  significance: 9.0
+  experience: 8.2
+  depth: 8.1
+  categories:
+    history: 9.2
+    architecture: 8.7
+    culture: 8.5

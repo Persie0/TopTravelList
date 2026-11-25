@@ -1,0 +1,15 @@
+id: sight-jo-souk-jara
+name: "Souk Jara"
+location:
+  country_code: JO
+  latitude: 31.9502
+  longitude: 35.9259
+scores:
+  impact: 6.9
+  uniqueness: 6.9
+  significance: 6.3
+  experience: 7.8
+  depth: 6.5
+  categories:
+    culture: 7.7
+    food: 7.5

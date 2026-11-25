@@ -1,0 +1,16 @@
+id: city-jo-fuheis
+name: "Fuheis"
+location:
+  country_code: JO
+  latitude: 32.0053
+  longitude: 35.7667
+scores:
+  impact: 7.0
+  uniqueness: 7.3
+  significance: 7.1
+  experience: 7.4
+  depth: 6.7
+  categories:
+    culture: 7.8
+    food: 7.7
+    architecture: 7.4

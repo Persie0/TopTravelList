@@ -1,0 +1,16 @@
+id: sight-jo-quseir-amra
+name: "Quseir Amra"
+location:
+  country_code: JO
+  latitude: 31.801806
+  longitude: 36.587306
+scores:
+  impact: 8.4
+  uniqueness: 9.2
+  significance: 9.2
+  experience: 8.4
+  depth: 7.7
+  categories:
+    history: 9.3
+    architecture: 9.2
+    culture: 9.1

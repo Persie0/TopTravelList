@@ -1,0 +1,16 @@
+id: sight-jo-azraq-wetland-reserve
+name: "Azraq Wetland Reserve"
+location:
+  country_code: JO
+  latitude: 31.8364
+  longitude: 36.8211
+scores:
+  impact: 7.8
+  uniqueness: 8.4
+  significance: 8.7
+  experience: 8.0
+  depth: 7.8
+  categories:
+    nature: 8.8
+    wildlife: 8.7
+    photography: 8.1
