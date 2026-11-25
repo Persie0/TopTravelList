@@ -1,0 +1,16 @@
+id: sight-us-fort-ancient-earthworks
+name: "Fort Ancient Earthworks"
+location:
+  country_code: US
+  latitude: 39.40336
+  longitude: -84.092549
+scores:
+  impact: 8.1
+  uniqueness: 8.8
+  significance: 9.1
+  experience: 8.2
+  depth: 8.0
+  categories:
+    history: 9.3
+    culture: 9.0
+    nature: 8.5

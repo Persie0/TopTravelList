@@ -1,0 +1,15 @@
+id: sight-us-mound-city-group
+name: "Mound City Group"
+location:
+  country_code: US
+  latitude: 39.374061
+  longitude: -83.007261
+scores:
+  impact: 8.0
+  uniqueness: 8.6
+  significance: 9.1
+  experience: 8.4
+  depth: 7.7
+  categories:
+    history: 9.3
+    culture: 9.0

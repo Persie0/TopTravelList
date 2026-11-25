@@ -1,0 +1,15 @@
+id: sight-us-hopewell-mound-group
+name: "Hopewell Mound Group"
+location:
+  country_code: US
+  latitude: 39.360644
+  longitude: -83.085736
+scores:
+  impact: 7.6
+  uniqueness: 8.5
+  significance: 9.0
+  experience: 8.0
+  depth: 7.6
+  categories:
+    history: 9.2
+    culture: 8.9
