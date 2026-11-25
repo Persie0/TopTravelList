@@ -1,0 +1,15 @@
+id: sight-cz-teplice-rocks
+name: "Teplice Rocks"
+location:
+  country_code: CZ
+  latitude: 50.5950
+  longitude: 16.1460
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 8.2
+  experience: 8.9
+  depth: 8.6
+  categories:
+    nature: 9.3
+    photography: 9.3

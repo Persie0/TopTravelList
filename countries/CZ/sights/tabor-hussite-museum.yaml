@@ -1,0 +1,15 @@
+id: sight-cz-tabor-hussite-museum
+name: "Tabor Hussite Museum"
+location:
+  country_code: CZ
+  latitude: 49.4146
+  longitude: 14.6575
+scores:
+  impact: 8.0
+  uniqueness: 8.5
+  significance: 8.9
+  experience: 8.4
+  depth: 8.2
+  categories:
+    history: 9.2
+    culture: 8.7

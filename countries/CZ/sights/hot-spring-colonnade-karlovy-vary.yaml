@@ -1,0 +1,15 @@
+id: sight-cz-hot-spring-colonnade-karlovy-vary
+name: "Hot Spring Colonnade Karlovy Vary"
+location:
+  country_code: CZ
+  latitude: 50.2234
+  longitude: 12.8830
+scores:
+  impact: 8.0
+  uniqueness: 8.3
+  significance: 8.0
+  experience: 8.4
+  depth: 7.4
+  categories:
+    nature: 8.6
+    relaxation: 8.4

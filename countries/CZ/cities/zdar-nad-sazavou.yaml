@@ -1,0 +1,15 @@
+id: city-cz-zdar-nad-sazavou
+name: "Zdar nad Sazavou"
+location:
+  country_code: CZ
+  latitude: 49.5626
+  longitude: 15.9392
+scores:
+  impact: 7.5
+  uniqueness: 7.8
+  significance: 8.0
+  experience: 7.8
+  depth: 7.4
+  categories:
+    architecture: 8.5
+    history: 8.4

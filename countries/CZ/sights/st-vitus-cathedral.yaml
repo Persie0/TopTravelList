@@ -1,0 +1,15 @@
+id: sight-cz-st-vitus-cathedral
+name: "St Vitus Cathedral"
+location:
+  country_code: CZ
+  latitude: 50.0909
+  longitude: 14.4006
+scores:
+  impact: 9.3
+  uniqueness: 9.3
+  significance: 9.5
+  experience: 9.2
+  depth: 8.9
+  categories:
+    architecture: 9.6
+    history: 9.5

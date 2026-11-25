@@ -1,0 +1,16 @@
+id: city-cz-karlovy-vary
+name: "Karlovy Vary"
+location:
+  country_code: CZ
+  latitude: 50.2319
+  longitude: 12.8719
+scores:
+  impact: 8.6
+  uniqueness: 8.6
+  significance: 8.5
+  experience: 8.8
+  depth: 8.5
+  categories:
+    architecture: 9.0
+    relaxation: 9.3
+    photography: 9.0

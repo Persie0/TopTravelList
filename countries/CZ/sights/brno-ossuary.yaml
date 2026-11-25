@@ -1,0 +1,14 @@
+id: sight-cz-brno-ossuary
+name: "Brno Ossuary"
+location:
+  country_code: CZ
+  latitude: 49.1960
+  longitude: 16.6080
+scores:
+  impact: 8.1
+  uniqueness: 8.5
+  significance: 8.4
+  experience: 8.2
+  depth: 7.1
+  categories:
+    history: 8.8

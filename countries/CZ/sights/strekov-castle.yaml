@@ -1,0 +1,15 @@
+id: sight-cz-strekov-castle
+name: "Strekov Castle"
+location:
+  country_code: CZ
+  latitude: 50.6400
+  longitude: 14.0500
+scores:
+  impact: 8.5
+  uniqueness: 8.6
+  significance: 8.4
+  experience: 8.4
+  depth: 7.8
+  categories:
+    photography: 9.1
+    architecture: 8.8

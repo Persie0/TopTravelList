@@ -1,0 +1,15 @@
+id: sight-cz-karlstejn-castle
+name: "Karlstejn Castle"
+location:
+  country_code: CZ
+  latitude: 49.9390
+  longitude: 14.1881
+scores:
+  impact: 9.1
+  uniqueness: 9.0
+  significance: 9.3
+  experience: 8.9
+  depth: 8.5
+  categories:
+    architecture: 9.3
+    history: 9.4

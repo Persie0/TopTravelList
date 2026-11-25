@@ -1,0 +1,15 @@
+id: sight-cz-litomysl-castle
+name: "Litomysl Castle"
+location:
+  country_code: CZ
+  latitude: 49.8730
+  longitude: 16.3130
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 9.0
+  experience: 8.7
+  depth: 8.5
+  categories:
+    architecture: 9.4
+    history: 9.1

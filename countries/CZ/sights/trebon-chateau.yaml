@@ -1,0 +1,15 @@
+id: sight-cz-trebon-chateau
+name: "Trebon Chateau"
+location:
+  country_code: CZ
+  latitude: 49.0035
+  longitude: 14.7694
+scores:
+  impact: 8.2
+  uniqueness: 8.4
+  significance: 8.5
+  experience: 8.4
+  depth: 8.0
+  categories:
+    architecture: 8.9
+    history: 8.8

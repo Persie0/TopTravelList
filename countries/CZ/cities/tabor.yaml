@@ -1,0 +1,15 @@
+id: city-cz-tabor
+name: "Tabor"
+location:
+  country_code: CZ
+  latitude: 49.4144
+  longitude: 14.6578
+scores:
+  impact: 8.0
+  uniqueness: 8.2
+  significance: 8.5
+  experience: 8.2
+  depth: 7.8
+  categories:
+    history: 8.9
+    architecture: 8.5

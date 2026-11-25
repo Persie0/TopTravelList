@@ -1,0 +1,15 @@
+id: sight-cz-mikulcice-great-moravian-archaeological-site
+name: "Mikulcice Great Moravian Archaeological Site"
+location:
+  country_code: CZ
+  latitude: 48.8030
+  longitude: 17.0870
+scores:
+  impact: 8.0
+  uniqueness: 8.8
+  significance: 9.2
+  experience: 8.2
+  depth: 8.5
+  categories:
+    history: 9.4
+    culture: 9.0

@@ -1,0 +1,15 @@
+id: sight-cz-villa-tugendhat
+name: "Villa Tugendhat"
+location:
+  country_code: CZ
+  latitude: 49.2070
+  longitude: 16.6160
+scores:
+  impact: 8.8
+  uniqueness: 9.3
+  significance: 9.4
+  experience: 8.7
+  depth: 7.8
+  categories:
+    architecture: 9.6
+    history: 9.3

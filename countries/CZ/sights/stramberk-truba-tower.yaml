@@ -1,0 +1,15 @@
+id: sight-cz-stramberk-truba-tower
+name: "Stramberk Truba Tower"
+location:
+  country_code: CZ
+  latitude: 49.5920
+  longitude: 18.1170
+scores:
+  impact: 8.2
+  uniqueness: 8.4
+  significance: 8.0
+  experience: 8.4
+  depth: 7.2
+  categories:
+    photography: 9.0
+    architecture: 8.7

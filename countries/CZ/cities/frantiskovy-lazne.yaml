@@ -1,0 +1,15 @@
+id: city-cz-frantiskovy-lazne
+name: "Frantiskovy Lazne"
+location:
+  country_code: CZ
+  latitude: 50.1203
+  longitude: 12.3517
+scores:
+  impact: 7.9
+  uniqueness: 8.1
+  significance: 8.3
+  experience: 8.4
+  depth: 7.7
+  categories:
+    relaxation: 8.9
+    architecture: 8.6

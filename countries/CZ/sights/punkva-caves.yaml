@@ -1,0 +1,15 @@
+id: sight-cz-punkva-caves
+name: "Punkva Caves"
+location:
+  country_code: CZ
+  latitude: 49.3730
+  longitude: 16.7290
+scores:
+  impact: 8.9
+  uniqueness: 9.1
+  significance: 8.5
+  experience: 9.0
+  depth: 8.5
+  categories:
+    nature: 9.4
+    adventure: 9.1

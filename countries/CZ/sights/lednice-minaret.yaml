@@ -1,0 +1,15 @@
+id: sight-cz-lednice-minaret
+name: "Lednice Minaret"
+location:
+  country_code: CZ
+  latitude: 48.8140
+  longitude: 16.8120
+scores:
+  impact: 8.1
+  uniqueness: 8.5
+  significance: 7.8
+  experience: 8.3
+  depth: 7.1
+  categories:
+    architecture: 8.9
+    photography: 8.8

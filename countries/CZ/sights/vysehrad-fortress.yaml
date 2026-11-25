@@ -1,0 +1,15 @@
+id: sight-cz-vysehrad-fortress
+name: "Vysehrad Fortress"
+location:
+  country_code: CZ
+  latitude: 50.0640
+  longitude: 14.4197
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 9.0
+  experience: 8.8
+  depth: 8.7
+  categories:
+    history: 9.2
+    architecture: 8.9

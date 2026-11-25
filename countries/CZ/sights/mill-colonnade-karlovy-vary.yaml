@@ -1,0 +1,15 @@
+id: sight-cz-mill-colonnade-karlovy-vary
+name: "Mill Colonnade Karlovy Vary"
+location:
+  country_code: CZ
+  latitude: 50.2243
+  longitude: 12.8810
+scores:
+  impact: 8.6
+  uniqueness: 8.6
+  significance: 8.5
+  experience: 8.5
+  depth: 7.7
+  categories:
+    architecture: 9.1
+    relaxation: 8.8

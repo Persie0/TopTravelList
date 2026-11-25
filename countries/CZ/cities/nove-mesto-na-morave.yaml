@@ -1,0 +1,14 @@
+id: city-cz-nove-mesto-na-morave
+name: "Nove Mesto na Morave"
+location:
+  country_code: CZ
+  latitude: 49.5614
+  longitude: 16.0743
+scores:
+  impact: 7.0
+  uniqueness: 7.2
+  significance: 7.2
+  experience: 7.6
+  depth: 7.3
+  categories:
+    culture: 7.8

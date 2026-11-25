@@ -1,0 +1,15 @@
+id: sight-cz-kladruby-nad-labem-stud-landscape
+name: "Kladruby nad Labem Stud Landscape"
+location:
+  country_code: CZ
+  latitude: 50.0570
+  longitude: 15.4850
+scores:
+  impact: 8.2
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 8.4
+  depth: 8.6
+  categories:
+    culture: 9.1
+    history: 9.2

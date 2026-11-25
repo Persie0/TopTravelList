@@ -1,0 +1,15 @@
+id: city-cz-jesenik
+name: "Jesenik"
+location:
+  country_code: CZ
+  latitude: 50.2294
+  longitude: 17.2046
+scores:
+  impact: 7.5
+  uniqueness: 7.8
+  significance: 7.8
+  experience: 8.0
+  depth: 7.5
+  categories:
+    relaxation: 8.5
+    history: 8.1

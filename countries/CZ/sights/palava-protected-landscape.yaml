@@ -1,0 +1,15 @@
+id: sight-cz-palava-protected-landscape
+name: "Palava Protected Landscape"
+location:
+  country_code: CZ
+  latitude: 48.8650
+  longitude: 16.6370
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 8.3
+  experience: 8.9
+  depth: 8.8
+  categories:
+    nature: 9.2
+    photography: 9.2

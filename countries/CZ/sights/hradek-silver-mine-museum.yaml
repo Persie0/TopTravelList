@@ -1,0 +1,15 @@
+id: sight-cz-hradek-silver-mine-museum
+name: "Hradek Silver Mine Museum"
+location:
+  country_code: CZ
+  latitude: 49.9464
+  longitude: 15.2662
+scores:
+  impact: 8.2
+  uniqueness: 8.7
+  significance: 8.9
+  experience: 8.7
+  depth: 8.2
+  categories:
+    history: 9.2
+    adventure: 8.8

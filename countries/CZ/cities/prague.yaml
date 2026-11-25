@@ -1,0 +1,18 @@
+id: city-cz-prague
+name: "Prague"
+location:
+  country_code: CZ
+  latitude: 50.0875
+  longitude: 14.4213
+scores:
+  impact: 9.5
+  uniqueness: 9.3
+  significance: 9.5
+  experience: 9.4
+  depth: 9.5
+  categories:
+    architecture: 9.7
+    history: 9.6
+    culture: 9.4
+    photography: 9.5
+    food: 8.7

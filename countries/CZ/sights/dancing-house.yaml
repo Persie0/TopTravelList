@@ -1,0 +1,15 @@
+id: sight-cz-dancing-house
+name: "Dancing House"
+location:
+  country_code: CZ
+  latitude: 50.0755
+  longitude: 14.4142
+scores:
+  impact: 8.3
+  uniqueness: 8.7
+  significance: 7.5
+  experience: 8.1
+  depth: 6.8
+  categories:
+    architecture: 9.1
+    photography: 8.8

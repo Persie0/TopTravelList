@@ -1,0 +1,15 @@
+id: sight-cz-terezin-ghetto-museum
+name: "Terezin Ghetto Museum"
+location:
+  country_code: CZ
+  latitude: 50.5120
+  longitude: 14.1500
+scores:
+  impact: 8.2
+  uniqueness: 8.7
+  significance: 9.3
+  experience: 8.6
+  depth: 8.3
+  categories:
+    history: 9.4
+    culture: 9.0

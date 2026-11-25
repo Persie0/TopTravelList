@@ -2,7 +2,7 @@
 
 # Czechia (CZ) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**61 ranked** · **0 unassessed** · **61 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,71 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, or click its GPS coordinates to open **Google Maps**. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (61)
 
-No cities, towns & villages have been assessed for **Czechia** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps |
+| ---: | --- | --- | ---: | --- | --- | --- |
+| 1 | [Prague](cities/prague.yaml) | City / town | **94.35** | **Architecture 9.7**, **History 9.6**, **Photography 9.5**, Culture 9.4, Food 8.7 | 9.5 / 9.3 / 9.5 / 9.4 / 9.5 | [50.0875, 14.4213](https://www.google.com/maps/search/?api=1&query=50.0875,14.4213) |
+| 2 | [Cesky Krumlov](cities/cesky-krumlov.yaml) | City / town | **89.60** | **Architecture 9.4**, **Photography 9.4**, **History 9.1** | 9.1 / 9.1 / 9.0 / 8.9 / 8.2 | [48.8109, 14.3152](https://www.google.com/maps/search/?api=1&query=48.8109,14.3152) |
+| 3 | [Kutna Hora](cities/kutna-hora.yaml) | City / town | **87.20** | **History 9.3**, **Architecture 9.1** | 8.7 / 8.8 / 9.0 / 8.6 / 8.2 | [49.9486, 15.2683](https://www.google.com/maps/search/?api=1&query=49.9486,15.2683) |
+| 4 | [Karlovy Vary](cities/karlovy-vary.yaml) | City / town | **86.00** | **Relaxation 9.3**, **Architecture 9.0**, **Photography 9.0** | 8.6 / 8.6 / 8.5 / 8.8 / 8.5 | [50.2319, 12.8719](https://www.google.com/maps/search/?api=1&query=50.2319,12.8719) |
+| 5 | [Olomouc](cities/olomouc.yaml) | City / town | **85.65** | **Architecture 9.0**, **History 9.0**, **Culture 8.7** | 8.5 / 8.4 / 8.8 / 8.7 / 8.5 | [49.5938, 17.2509](https://www.google.com/maps/search/?api=1&query=49.5938,17.2509) |
+| 5 | [Telc](cities/telc.yaml) | City / town | **85.65** | **Photography 9.3**, **Architecture 9.2** | 8.7 / 8.8 / 8.6 / 8.5 / 7.6 | [49.1833, 15.4542](https://www.google.com/maps/search/?api=1&query=49.1833,15.4542) |
+| 7 | [Kromeriz](cities/kromeriz.yaml) | City / town | **84.00** | **Architecture 9.0**, **History 8.9** | 8.3 / 8.4 / 8.7 / 8.4 / 8.1 | [49.2985, 17.3931](https://www.google.com/maps/search/?api=1&query=49.2985,17.3931) |
+| 8 | [Mikulov](cities/mikulov.yaml) | City / town | **83.45** | **Photography 9.0**, **Architecture 8.9**, **Food 8.6** | 8.4 / 8.4 / 8.3 / 8.5 / 7.9 | [48.8056, 16.6378](https://www.google.com/maps/search/?api=1&query=48.8056,16.6378) |
+| 9 | [Ostrava](cities/ostrava.yaml) | City / town | **82.75** | **History 8.8**, **Culture 8.6**, **Architecture 8.5** | 7.9 / 8.5 / 8.3 / 8.4 / 8.6 | [49.8209, 18.2625](https://www.google.com/maps/search/?api=1&query=49.8209,18.2625) |
+| 10 | [Marianske Lazne](cities/marianske-lazne.yaml) | City / town | **82.60** | **Relaxation 9.1**, **Architecture 8.8** | 8.2 / 8.2 / 8.3 / 8.6 / 8.0 | [49.9646, 12.7012](https://www.google.com/maps/search/?api=1&query=49.9646,12.7012) |
+| 10 | [Trebic](cities/trebic.yaml) | City / town | **82.60** | **History 9.0**, **Architecture 8.7** | 8.0 / 8.4 / 8.7 / 8.2 / 7.9 | [49.2148, 15.8817](https://www.google.com/maps/search/?api=1&query=49.2148,15.8817) |
+| 12 | [Brno](cities/brno.yaml) | City / town | **82.30** | **Architecture 8.7**, **Culture 8.7**, **Food 8.5** | 8.1 / 8.1 / 8.3 / 8.5 / 8.4 | [49.1951, 16.6068](https://www.google.com/maps/search/?api=1&query=49.1951,16.6068) |
+| 12 | [Loket](cities/loket.yaml) | City / town | **82.30** | **Photography 9.0**, **Architecture 8.8** | 8.3 / 8.5 / 8.2 / 8.3 / 7.3 | [50.186, 12.754](https://www.google.com/maps/search/?api=1&query=50.186,12.754) |
+| 14 | [Terezin](cities/terezin.yaml) | City / town | **82.20** | **History 9.4** | 7.5 / 8.6 / 9.2 / 8.0 / 7.8 | [50.5111, 14.1506](https://www.google.com/maps/search/?api=1&query=50.5111,14.1506) |
+| 15 | [Litomysl](cities/litomysl.yaml) | City / town | **82.15** | **Architecture 8.9**, **Culture 8.6** | 8.1 / 8.3 / 8.5 / 8.2 / 7.8 | [49.8721, 16.3106](https://www.google.com/maps/search/?api=1&query=49.8721,16.3106) |
+| 16 | [Plzen](cities/plzen.yaml) | City / town | **82.05** | **Food 8.8**, **History 8.6**, **Culture 8.4** | 8.0 / 8.2 / 8.3 / 8.5 / 8.2 | [49.7477, 13.3776](https://www.google.com/maps/search/?api=1&query=49.7477,13.3776) |
+| 16 | [Zlin](cities/zlin.yaml) | City / town | **82.05** | **Architecture 9.0**, **History 8.8** | 7.8 / 8.6 / 8.5 / 8.1 / 8.0 | [49.2265, 17.6707](https://www.google.com/maps/search/?api=1&query=49.2265,17.6707) |
+| 16 | [Znojmo](cities/znojmo.yaml) | City / town | **82.05** | **History 8.8**, **Architecture 8.6** | 8.1 / 8.2 / 8.4 / 8.3 / 8.0 | [48.8555, 16.0488](https://www.google.com/maps/search/?api=1&query=48.8555,16.0488) |
+| 19 | [Tabor](cities/tabor.yaml) | City / town | **81.60** | **History 8.9**, **Architecture 8.5** | 8.0 / 8.2 / 8.5 / 8.2 / 7.8 | [49.4144, 14.6578](https://www.google.com/maps/search/?api=1&query=49.4144,14.6578) |
+| 20 | [Slavonice](cities/slavonice.yaml) | City / town | **81.15** | **Architecture 9.0**, **Photography 8.8** | 8.0 / 8.5 / 8.3 / 8.0 / 7.3 | [49.0008, 15.3515](https://www.google.com/maps/search/?api=1&query=49.0008,15.3515) |
+| 21 | [Jindrichuv Hradec](cities/jindrichuv-hradec.yaml) | City / town | **80.95** | **Architecture 8.7**, **History 8.6** | 8.0 / 8.1 / 8.3 / 8.2 / 7.8 | [49.144, 15.003](https://www.google.com/maps/search/?api=1&query=49.144,15.003) |
+| 22 | [Frantiskovy Lazne](cities/frantiskovy-lazne.yaml) | City / town | **80.85** | **Relaxation 8.9**, **Architecture 8.6** | 7.9 / 8.1 / 8.3 / 8.4 / 7.7 | [50.1203, 12.3517](https://www.google.com/maps/search/?api=1&query=50.1203,12.3517) |
+| 23 | [Trebon](cities/trebon.yaml) | City / town | **80.65** | **Relaxation 8.8**, **Architecture 8.5** | 7.9 / 8.1 / 8.1 / 8.4 / 7.9 | [49.0036, 14.7707](https://www.google.com/maps/search/?api=1&query=49.0036,14.7707) |
+| 24 | [Zatec](cities/zatec.yaml) | City / town | **80.50** | **History 8.8**, **Culture 8.5** | 7.7 / 8.3 / 8.4 / 8.1 / 7.7 | [50.3272, 13.5458](https://www.google.com/maps/search/?api=1&query=50.3272,13.5458) |
+| 25 | [Cheb](cities/cheb.yaml) | City / town | **80.40** | **Architecture 8.7**, **History 8.7** | 7.9 / 8.1 / 8.3 / 8.1 / 7.7 | [50.0796, 12.3739](https://www.google.com/maps/search/?api=1&query=50.0796,12.3739) |
+| 26 | [Stramberk](cities/stramberk.yaml) | City / town | **80.35** | **Photography 8.8**, **Architecture 8.7** | 8.0 / 8.4 / 8.0 / 8.1 / 7.2 | [49.5919, 18.1174](https://www.google.com/maps/search/?api=1&query=49.5919,18.1174) |
+| 27 | [Luhacovice](cities/luhacovice.yaml) | City / town | **80.25** | **Relaxation 8.9**, **Architecture 8.8** | 7.8 / 8.2 / 7.9 / 8.5 / 7.8 | [49.1, 17.757](https://www.google.com/maps/search/?api=1&query=49.1,17.757) |
+| 28 | [Hradec Kralove](cities/hradec-kralove.yaml) | City / town | **79.65** | **Architecture 8.6**, **History 8.3** | 7.8 / 8.0 / 8.1 / 8.1 / 7.9 | [50.2092, 15.8328](https://www.google.com/maps/search/?api=1&query=50.2092,15.8328) |
+| 29 | [Litomerice](cities/litomerice.yaml) | City / town | **79.55** | **Architecture 8.6**, **History 8.5** | 7.8 / 8.0 / 8.2 / 8.1 / 7.6 | [50.5335, 14.1318](https://www.google.com/maps/search/?api=1&query=50.5335,14.1318) |
+| 30 | [Valtice](cities/valtice.yaml) | City / town | **79.50** | **Architecture 8.7**, **Food 8.5** | 7.8 / 8.0 / 8.2 / 8.2 / 7.4 | [48.7407, 16.7562](https://www.google.com/maps/search/?api=1&query=48.7407,16.7562) |
+| 31 | [Ceske Budejovice](cities/ceske-budejovice.yaml) | City / town | **79.40** | **Architecture 8.5**, **Food 8.4** | 7.9 / 7.8 / 8.0 / 8.2 / 7.9 | [48.9745, 14.4743](https://www.google.com/maps/search/?api=1&query=48.9745,14.4743) |
+| 32 | [Pisek](cities/pisek.yaml) | City / town | **79.35** | **History 8.6**, **Architecture 8.5** | 7.8 / 8.0 / 8.1 / 8.1 / 7.6 | [49.3088, 14.1475](https://www.google.com/maps/search/?api=1&query=49.3088,14.1475) |
+| 33 | [Prachatice](cities/prachatice.yaml) | City / town | **79.25** | **Architecture 8.7**, **History 8.5** | 7.8 / 8.1 / 8.1 / 8.0 / 7.4 | [49.0129, 13.9977](https://www.google.com/maps/search/?api=1&query=49.0129,13.9977) |
+| 34 | [Melnik](cities/melnik.yaml) | City / town | **79.05** | **Photography 8.6**, **Architecture 8.4** | 7.8 / 8.0 / 8.0 / 8.1 / 7.5 | [50.3505, 14.4741](https://www.google.com/maps/search/?api=1&query=50.3505,14.4741) |
+| 35 | [Jihlava](cities/jihlava.yaml) | City / town | **78.85** | **History 8.6**, **Architecture 8.3** | 7.7 / 7.9 / 8.1 / 8.0 / 7.8 | [49.3961, 15.5912](https://www.google.com/maps/search/?api=1&query=49.3961,15.5912) |
+| 36 | [Pardubice](cities/pardubice.yaml) | City / town | **78.10** | **Architecture 8.4**, **History 8.2** | 7.7 / 7.8 / 7.9 / 8.0 / 7.7 | [50.0343, 15.7812](https://www.google.com/maps/search/?api=1&query=50.0343,15.7812) |
+| 37 | [Jicin](cities/jicin.yaml) | City / town | **77.90** | **Architecture 8.4** | 7.7 / 7.8 / 7.9 / 8.0 / 7.5 | [50.4372, 15.3516](https://www.google.com/maps/search/?api=1&query=50.4372,15.3516) |
+| 38 | [Opava](cities/opava.yaml) | City / town | **77.85** | **History 8.5**, **Architecture 8.3** | 7.6 / 7.7 / 8.0 / 8.0 / 7.8 | [49.9387, 17.9026](https://www.google.com/maps/search/?api=1&query=49.9387,17.9026) |
+| 39 | [Klatovy](cities/klatovy.yaml) | City / town | **77.65** | **History 8.5**, **Architecture 8.4** | 7.6 / 7.8 / 8.0 / 7.9 / 7.5 | [49.3955, 13.2951](https://www.google.com/maps/search/?api=1&query=49.3955,13.2951) |
+| 40 | [Domazlice](cities/domazlice.yaml) | City / town | **77.50** | **Culture 8.5**, **Architecture 8.4** | 7.6 / 7.9 / 7.9 / 7.9 / 7.3 | [49.4405, 12.9298](https://www.google.com/maps/search/?api=1&query=49.4405,12.9298) |
+| 41 | [Liberec](cities/liberec.yaml) | City / town | **77.35** | **Architecture 8.4**, **Culture 8.2** | 7.6 / 7.7 / 7.7 / 8.0 / 7.9 | [50.7671, 15.0562](https://www.google.com/maps/search/?api=1&query=50.7671,15.0562) |
+| 41 | [Roznov pod Radhostem](cities/roznov-pod-radhostem.yaml) | City / town | **77.35** | **Culture 8.6**, **History 8.2** | 7.5 / 7.8 / 7.8 / 8.1 / 7.6 | [49.4585, 18.143](https://www.google.com/maps/search/?api=1&query=49.4585,18.143) |
+| 43 | [Decin](cities/decin.yaml) | City / town | **77.25** | **Architecture 8.3**, **Photography 8.3** | 7.6 / 7.7 / 7.8 / 8.0 / 7.6 | [50.7822, 14.2148](https://www.google.com/maps/search/?api=1&query=50.7822,14.2148) |
+| 44 | [Jesenik](cities/jesenik.yaml) | City / town | **77.10** | **Relaxation 8.5**, **History 8.1** | 7.5 / 7.8 / 7.8 / 8.0 / 7.5 | [50.2294, 17.2046](https://www.google.com/maps/search/?api=1&query=50.2294,17.2046) |
+| 44 | [Zdar nad Sazavou](cities/zdar-nad-sazavou.yaml) | City / town | **77.10** | **Architecture 8.5**, **History 8.4** | 7.5 / 7.8 / 8.0 / 7.8 / 7.4 | [49.5626, 15.9392](https://www.google.com/maps/search/?api=1&query=49.5626,15.9392) |
+| 46 | [Lednice](cities/lednice.yaml) | City / town | **76.90** | **Relaxation 8.4**, **Architecture 8.3** | 7.6 / 7.8 / 7.7 / 8.0 / 7.2 | [48.7999, 16.8034](https://www.google.com/maps/search/?api=1&query=48.7999,16.8034) |
+| 46 | [Pribram](cities/pribram.yaml) | City / town | **76.90** | **History 8.5**, **Culture 8.1** | 7.4 / 7.8 / 8.0 / 7.8 / 7.5 | [49.6899, 14.0104](https://www.google.com/maps/search/?api=1&query=49.6899,14.0104) |
+| 48 | [Podebrady](cities/podebrady.yaml) | City / town | **76.50** | **Relaxation 8.6** | 7.5 / 7.6 / 7.5 / 8.2 / 7.7 | [50.1424, 15.1188](https://www.google.com/maps/search/?api=1&query=50.1424,15.1188) |
+| 49 | [Broumov](cities/broumov.yaml) | City / town | **76.25** | **History 8.4**, **Architecture 8.3** | 7.4 / 7.7 / 7.9 / 7.8 / 7.3 | [50.5857, 16.3318](https://www.google.com/maps/search/?api=1&query=50.5857,16.3318) |
+| 50 | [Mlada Boleslav](cities/mlada-boleslav.yaml) | City / town | **75.70** | **History 8.3**, **Culture 8.0** | 7.3 / 7.6 / 7.8 / 7.8 / 7.5 | [50.4134, 14.9039](https://www.google.com/maps/search/?api=1&query=50.4134,14.9039) |
+| 51 | [Spindleruv Mlyn](cities/spindleruv-mlyn.yaml) | City / town | **74.50** | **Adventure 8.6**, **Relaxation 8.3** | 7.5 / 7.4 / 6.8 / 8.2 / 7.6 | [50.7255, 15.609](https://www.google.com/maps/search/?api=1&query=50.7255,15.609) |
+| 52 | [Harrachov](cities/harrachov.yaml) | City / town | **74.35** | **Adventure 8.4**, **Relaxation 8.2** | 7.3 / 7.5 / 7.1 / 8.0 / 7.5 | [50.772, 15.431](https://www.google.com/maps/search/?api=1&query=50.772,15.431) |
+| 53 | [Svitavy](cities/svitavy.yaml) | City / town | **73.80** | **Architecture 8.1** | 7.2 / 7.4 / 7.5 / 7.6 / 7.3 | [49.7559, 16.4683](https://www.google.com/maps/search/?api=1&query=49.7559,16.4683) |
+| 54 | [Turnov](cities/turnov.yaml) | City / town | **73.45** | **Culture 8.0** | 7.1 / 7.4 / 7.4 / 7.7 / 7.3 | [50.5873, 15.1569](https://www.google.com/maps/search/?api=1&query=50.5873,15.1569) |
+| 55 | [Susice](cities/susice.yaml) | City / town | **72.90** | **History 7.9** | 7.1 / 7.3 / 7.3 / 7.7 / 7.2 | [49.2311, 13.5202](https://www.google.com/maps/search/?api=1&query=49.2311,13.5202) |
+| 56 | [Nymburk](cities/nymburk.yaml) | City / town | **72.85** | **History 8.0** | 7.0 / 7.3 / 7.5 / 7.6 / 7.2 | [50.1861, 15.0417](https://www.google.com/maps/search/?api=1&query=50.1861,15.0417) |
+| 57 | [Pec pod Snezkou](cities/pec-pod-snezkou.yaml) | City / town | **72.35** | **Adventure 8.4**, **Relaxation 8.2** | 7.2 / 7.3 / 6.6 / 8.0 / 7.3 | [50.693, 15.733](https://www.google.com/maps/search/?api=1&query=50.693,15.733) |
+| 58 | [Beroun](cities/beroun.yaml) | City / town | **72.20** | **Architecture 7.9** | 7.0 / 7.2 / 7.3 / 7.6 / 7.2 | [49.9638, 14.072](https://www.google.com/maps/search/?api=1&query=49.9638,14.072) |
+| 59 | [Nove Mesto na Morave](cities/nove-mesto-na-morave.yaml) | City / town | **72.10** | **Culture 7.8** | 7.0 / 7.2 / 7.2 / 7.6 / 7.3 | [49.5614, 16.0743](https://www.google.com/maps/search/?api=1&query=49.5614,16.0743) |
+| 60 | [Usti nad Labem](cities/usti-nad-labem.yaml) | City / town | **71.80** | **History 7.8** | 7.0 / 7.1 / 7.2 / 7.5 / 7.4 | [50.6607, 14.0323](https://www.google.com/maps/search/?api=1&query=50.6607,14.0323) |
+| 61 | [Karlstejn Village](cities/karlstejn-village.yaml) | Village | **70.85** | **Photography 8.0** | 7.0 / 7.2 / 7.0 / 7.5 / 6.6 | [49.939, 14.185](https://www.google.com/maps/search/?api=1&query=49.939,14.185) |
 
 ---
 

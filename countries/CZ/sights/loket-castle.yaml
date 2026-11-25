@@ -1,0 +1,15 @@
+id: sight-cz-loket-castle
+name: "Loket Castle"
+location:
+  country_code: CZ
+  latitude: 50.1864
+  longitude: 12.7540
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 8.7
+  experience: 8.6
+  depth: 8.0
+  categories:
+    architecture: 9.0
+    history: 9.0

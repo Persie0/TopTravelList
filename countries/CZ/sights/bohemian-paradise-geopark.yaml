@@ -1,0 +1,15 @@
+id: sight-cz-bohemian-paradise-geopark
+name: "Bohemian Paradise Geopark"
+location:
+  country_code: CZ
+  latitude: 50.5500
+  longitude: 15.1700
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 8.5
+  experience: 9.0
+  depth: 9.0
+  categories:
+    nature: 9.4
+    photography: 9.3
