@@ -24,6 +24,17 @@
 - Ha Long Bay (Vietnam): more dramatic vertical karst
 - Railay Beach (Thailand): narrower coastal experience
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D inspected on main; qualitative peers retained. Editorial comparison only.
+
+- [misool marine reserve (ID)](../../../countries/ID/sights/misool-marine-reserve.yaml) — 9.6/9.6/9.1/9.5/9.4; Greater documented biodiversity and marine exploration.
+- [rock islands southern lagoon (PW)](../../../countries/PW/sights/rock-islands-southern-lagoon.yaml) — 9.5/9.5/9.3/9.4/9.3; Stronger distinctive limestone scenery and recognized heritage.
+- [ha long bay (VN)](../../../countries/VN/sights/ha-long-bay.yaml) — 9.8/9.9/9.7/9.8/9.6; World-leading vertical karst seascape.
+- [phang nga bay (TH)](../../../countries/TH/sights/phang-nga-bay.yaml) — 9.4/9.4/8.9/9.3/9.1; Greater dramatic limestone relief, different lagoon character.
+
+90+ challenge: 90.25 is supported by the combination of extensive marine scenery, unusual lagoon form and sustained water-based exploration; each core dimension is below the stronger Rock Islands and Ha Long anchors except where the different lagoon experience warrants comparison. Do not transfer Tetepare's terrestrial conservation significance or the proposed aggregate property's importance into this score.
+
 ### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
@@ -61,6 +72,15 @@
 - Tubbataha Reefs (Philippines): stronger marine-only scope
 - Eua National Park (Tonga): comparable island forest
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D inspected on main; qualitative peers retained. Editorial comparison only.
+
+- [taman negara national park (MY)](../../../countries/MY/sights/taman-negara-national-park.yaml) — 9.0/9.1/9.0/8.9/9.2; Broader forest visitor network.
+- [apo reef (PH)](../../../countries/PH/sights/apo-reef.yaml) — 9.0/8.8/8.9/8.8/8.5; Comparable protected marine scope, lacks equivalent terrestrial habitat.
+- [eua national park (TO)](../../../countries/TO/sights/eua-national-park.yaml) — 8.3/8.2/8.1/8.4/8.1; Closer Pacific island forest peer, narrower combined marine-terrestrial visit.
+- [rock islands southern lagoon (PW)](../../../countries/PW/sights/rock-islands-southern-lagoon.yaml) — 9.5/9.5/9.3/9.4/9.3; Higher scenic and heritage significance, different island ecosystem.
+
 ### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
@@ -96,6 +116,15 @@
 - Te Wāhipounamu (New Zealand): greater landscape scale
 - Lake Letas (Vanuatu): narrower crater lake
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D inspected on main; qualitative peers retained. Editorial comparison only.
+
+- [tonle sap lake (KH)](../../../countries/KH/sights/tonle-sap-lake.yaml) — 9.0/9.2/9.5/8.8/9.2; Greater ecological and settlement breadth.
+- [cheow lan lake (TH)](../../../countries/TH/sights/cheow-lan-lake.yaml) — 9.1/9.3/8.5/9.3/8.7; More dramatic karst and developed excursions.
+- [lake ngardok (PW)](../../../countries/PW/sights/lake-ngardok.yaml) — 7.2/7.6/8.0/7.7/6.9; Smaller protected freshwater landscape, lower significance.
+- [eua national park (TO)](../../../countries/TO/sights/eua-national-park.yaml) — 8.3/8.2/8.1/8.4/8.1; Pacific forest peer, less distinctive lake-island ecology.
+
 ### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
@@ -130,6 +159,17 @@
 - Raja Ampat (Indonesia): greater documented biodiversity
 - Ha Long Bay (Vietnam): more dramatic vertical karst
 - Railay Beach (Thailand): narrower coastal experience
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D inspected on main; qualitative peers retained. Editorial comparison only.
+
+- [misool marine reserve (ID)](../../../countries/ID/sights/misool-marine-reserve.yaml) — 9.6/9.6/9.1/9.5/9.4; More established marine conservation visit.
+- [rock islands southern lagoon (PW)](../../../countries/PW/sights/rock-islands-southern-lagoon.yaml) — 9.5/9.5/9.3/9.4/9.3; Distinct limestone landscape with documented visitor breadth.
+- [apo reef (PH)](../../../countries/PH/sights/apo-reef.yaml) — 9.0/8.8/8.9/8.8/8.5; More narrowly scoped reef reserve.
+- [phang nga bay (TH)](../../../countries/TH/sights/phang-nga-bay.yaml) — 9.4/9.4/8.9/9.3/9.1; Greater scenic relief but does not establish aggregate access.
+
+Retain experience and depth null: component visits do not establish a distinct aggregate visitor experience.
 
 ### Scoring decisions
 | Field | Rating | Rationale |
@@ -315,6 +355,15 @@
 - National Museum of Cambodia (Cambodia): wider archaeological collection
 - Alele Museum (Marshall Islands): comparable regional institution
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D inspected on main; qualitative peers retained. Editorial comparison only.
+
+- [national museum of korea (KR)](../../../countries/KR/sights/national-museum-of-korea.yaml) — 9.1/9.3/9.4/9.3/9.6; Much broader national collection.
+- [kunsthistorisches museum (AT)](../../../countries/AT/sights/kunsthistorisches-museum.yaml) — 9.2/9.4/9.6/9.4/9.5; World-class art and architecture.
+- [national museum cambodia (KH)](../../../countries/KH/sights/national-museum-cambodia.yaml) — 8.8/9.1/9.3/9.1/8.8; Greater archaeological collection.
+- [alele museum (MH)](../../../countries/MH/sights/alele-museum.yaml) — 6.9/8.1/8.1/7.3/7.0; Close Pacific institution, similarly focused heritage interpretation.
+
 ### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
@@ -350,6 +399,15 @@
 - Made in Cambodia Market (Cambodia): comparable cultural market
 - Ben Thanh Market (Vietnam): broader urban market
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D inspected on main; qualitative peers retained. Editorial comparison only.
+
+- [chatuchak weekend market (TH)](../../../countries/TH/sights/chatuchak-weekend-market.yaml) — 8.8/8.7/8.3/9.3/9.5; Far larger variety and exploration.
+- [grand bazaar (TR)](../../../countries/TR/sights/grand-bazaar.yaml) — 8.7/8.9/8.8/9.0/8.8; More distinctive historic architecture.
+- [made in cambodia market (KH)](../../../countries/KH/sights/made-in-cambodia-market.yaml) — 7.7/7.8/7.6/8.6/7.9; Comparable focused cultural market, stronger craft interpretation.
+- [ben thanh market (VN)](../../../countries/VN/sights/ben-thanh-market.yaml) — 8.2/8.0/8.1/9.0/8.8; Broader urban market experience.
+
 ### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
@@ -384,6 +442,15 @@
 - Imperial War Museum (United Kingdom): broader collection
 - Kranji War Memorial (Singapore): focused memorial comparator
 - Hohensalzburg Fortress (Austria): broader built heritage
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D inspected on main; qualitative peers retained. Editorial comparison only.
+
+- [hiroshima peace memorial museum (JP)](../../../countries/JP/sights/hiroshima-peace-memorial-museum.yaml) — 9.3/9.6/9.8/9.4/9.0; Far greater interpreted historical significance.
+- [war remnants museum (VN)](../../../countries/VN/sights/war-remnants-museum.yaml) — 8.8/9.1/9.5/9.1/8.7; Broader collection and historical context.
+- [kranji war memorial (SG)](../../../countries/SG/sights/kranji-war-memorial.yaml) — 7.9/8.1/8.7/8.2/7.3; Comparable focused wartime heritage, distinct memorial function.
+- [alele museum (MH)](../../../countries/MH/sights/alele-museum.yaml) — 6.9/8.1/8.1/7.3/7.0; Compact Pacific heritage institution, not a military collection.
 
 ### Scoring decisions
 | Field | Rating | Rationale |
@@ -421,6 +488,15 @@
 - Erawan Falls (Thailand): multi-tier exploration
 - Afu A'au Waterfall (Samoa): comparable forest cascade
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D inspected on main; qualitative peers retained. Editorial comparison only.
+
+- [iguazu falls argentine circuits (AR)](../../../countries/AR/sights/iguazu-falls-argentine-circuits.yaml) — 9.9/9.8/9.2/9.6/8.6; World-leading scale.
+- [kuang si waterfalls (LA)](../../../countries/LA/sights/kuang-si-waterfalls.yaml) — 9.4/9.2/8.0/9.3/8.6; More distinctive tiered pools.
+- [erawan waterfalls (TH)](../../../countries/TH/sights/erawan-waterfalls.yaml) — 8.7/8.7/7.1/9.0/8.0; Broader multilevel exploration.
+- [afu aau waterfall (WS)](../../../countries/WS/sights/afu-aau-waterfall.yaml) — 8.1/7.4/6.6/8.2/7.0; Close single forest cascade.
+
 ### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
@@ -457,6 +533,15 @@
 - Stonehenge (United Kingdom): greater monument scale
 - Airai Bai (Palau): related customary heritage
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D inspected on main; qualitative peers retained. Editorial comparison only.
+
+- [lapaha royal tombs (TO)](../../../countries/TO/sights/lapaha-royal-tombs.yaml) — 8.0/8.8/9.0/7.2/7.8; Broader chiefly heritage landscape.
+- [plain of jars archaeological landscape (LA)](../../../countries/LA/sights/plain-of-jars-archaeological-landscape.yaml) — 9.0/9.6/9.5/8.7/9.0; More extensive visible archaeology.
+- [stonehenge (GB)](../../../countries/GB/sights/stonehenge.yaml) — 9.2/9.6/9.6/8.8/9.1; Much greater monumental scope.
+- [airai bai (PW)](../../../countries/PW/sights/airai-bai.yaml) — 7.7/8.7/8.6/7.7/7.3; Related customary heritage, no equivalent permission implied.
+
 ### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
@@ -492,6 +577,15 @@
 - USAT Liberty (Indonesia): related submerged heritage
 - Champagne Beach (Vanuatu): stronger beach scenery
 - Nacpan Beach (Philippines): broader shore
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D inspected on main; qualitative peers retained. Editorial comparison only.
+
+- [railay beach (TH)](../../../countries/TH/sights/railay-beach.yaml) — 8.9/9.0/7.5/9.2/8.3; Greater scenic relief and activities.
+- [usat liberty wreck tulamben (ID)](../../../countries/ID/sights/usat-liberty-wreck-tulamben.yaml) — 9.1/9.2/8.5/9.3/8.6; Stronger dedicated wreck experience.
+- [white beach boracay (PH)](../../../countries/PH/sights/white-beach-boracay.yaml) — 9.1/8.4/6.8/9.0/7.5; Greater conventional beach leisure.
+- [amed japanese shipwreck (ID)](../../../countries/ID/sights/amed-japanese-shipwreck.yaml) — 8.3/8.5/7.3/8.8/7.5; Close focused wartime underwater peer, not whole coastline.
 
 ### Scoring decisions
 | Field | Rating | Rationale |
