@@ -1,0 +1,14 @@
+id: sight-lt-gireisiai-struve-station
+name: "Gireišiai (Karischki) Struve Geodetic Arc Station"
+location:
+  country_code: LT
+  latitude: 55.9025
+  longitude: 25.436667
+scores:
+  impact: 6.8
+  uniqueness: 8.0
+  significance: 8.6
+  experience: null
+  depth: null
+  categories:
+    history: 8.6

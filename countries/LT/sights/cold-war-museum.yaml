@@ -1,0 +1,15 @@
+id: sight-lt-cold-war-museum
+name: "Cold War Museum (Plokštinė)"
+location:
+  country_code: LT
+  latitude: 56.032
+  longitude: 21.903
+scores:
+  impact: 8.6
+  uniqueness: 9.0
+  significance: 8.8
+  experience: 8.7
+  depth: 8.2
+  categories:
+    history: 9.2
+    culture: 8.5
