@@ -1,0 +1,16 @@
+id: sight-mn-altai-tavan-bogd-national-park
+name: "Altai Tavan Bogd National Park"
+location:
+  country_code: MN
+  latitude: 49.15
+  longitude: 88.17
+scores:
+  impact: 9.5
+  uniqueness: 9.4
+  significance: 9.0
+  experience: 9.1
+  depth: 9.4
+  categories:
+    nature: 9.6
+    adventure: 9.5
+    photography: 9.6

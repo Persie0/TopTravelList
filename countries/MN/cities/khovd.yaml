@@ -1,0 +1,15 @@
+id: city-mn-khovd
+name: "Khovd"
+location:
+  country_code: MN
+  latitude: 48.005
+  longitude: 91.641
+scores:
+  impact: 7.0
+  uniqueness: 7.8
+  significance: 7.6
+  experience: 7.6
+  depth: 7.1
+  categories:
+    culture: 8.3
+    history: 7.9
