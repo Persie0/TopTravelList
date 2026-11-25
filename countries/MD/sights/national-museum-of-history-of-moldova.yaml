@@ -1,0 +1,15 @@
+id: sight-md-national-museum-of-history-of-moldova
+name: "National Museum of History of Moldova"
+location:
+  country_code: MD
+  latitude: 47.0224
+  longitude: 28.8284
+scores:
+  impact: 7.7
+  uniqueness: 8.1
+  significance: 8.6
+  experience: 8.3
+  depth: 8.0
+  categories:
+    history: 9.0
+    culture: 8.7
