@@ -1,0 +1,16 @@
+id: sight-vi-trunk-bay
+name: "Trunk Bay (Saint John)"
+location:
+  country_code: VI
+  latitude: 18.353
+  longitude: -64.768
+scores:
+  impact: 9.2
+  uniqueness: 8.5
+  significance: 7.7
+  experience: 8.9
+  depth: 8.0
+  categories:
+    beaches: 9.4
+    photography: 9.2
+    nature: 8.8

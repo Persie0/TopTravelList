@@ -188,3 +188,7 @@ No matching GB parent records identified in generated name and approximate coord
 ### British Virgin Islands coverage — 2026-11-26
 
 No matching GB records identified in generated ranking name/coordinate screen. Add 3 settlements and 10 sights across Tortola, Virgin Gorda, Anegada, Jost Van Dyke and Salt Island marine area. Baths and Devil's Bay combined as linked visitor experience. Regional coral heat alerts treated as context, not proof of local reef condition. Sources consulted through search excerpts; independent GPS and full claim corroboration pending. No new 10 scores.
+
+### US Virgin Islands coverage — 2026-11-26
+
+No matching US parent records identified by generated inventory name/coordinate screen. Add 4 settlements and 11 sights across Saint Thomas, Saint John and Saint Croix. National park and components separately scoped; Salt River visitor centre excluded, NOAA regional coral stress considered. NPS, NOAA and tourism authority search excerpts inspected; exact GPS and independent full claims outstanding. No exact-10 additions.
