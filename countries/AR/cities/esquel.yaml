@@ -1,0 +1,15 @@
+id: city-ar-esquel
+name: "Esquel"
+location:
+  country_code: AR
+  latitude: -42.9130
+  longitude: -71.3190
+scores:
+  impact: 7.1
+  uniqueness: 7.5
+  significance: 6.8
+  experience: 7.7
+  depth: 6.6
+  categories:
+    photography: 8.0
+    culture: 7.7

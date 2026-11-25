@@ -2,7 +2,7 @@
 
 # Malawi (MW) — Cities, towns & villages ranking
 
-**18 ranked** · **0 unassessed** · **18 total** · Worldwide scoring **v2**
+**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,28 +10,11 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (18)
+## Complete ranked list (0)
 
-| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
-| ---: | --- | --- | ---: | --- | --- | --- | --- |
-| 1 | [Livingstonia](cities/livingstonia.yaml) | City / town | **82.70** | **Photography 9.2**, **History 9.1**, **Architecture 8.6**, Culture 8.6 | 8.2 / 8.7 / 8.6 / 8.1 / 7.0 | [-10.606, 34.106](https://www.google.com/maps/search/?api=1&query=-10.606,34.106) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Livingstonia%2C%20Malawi) |
-| 2 | [Zomba](cities/zomba.yaml) | City / town | **80.00** | **History 9.0**, **Architecture 8.5**, **Culture 8.5**, Photography 8.5 | 7.7 / 8.2 / 8.5 / 8.0 / 7.4 | [-15.3833, 35.3333](https://www.google.com/maps/search/?api=1&query=-15.3833,35.3333) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Zomba%2C%20Malawi) |
-| 3 | [Chembe (Cape Maclear village)](cities/chembe-cape-maclear-village.yaml) | Village | **78.45** | **Photography 8.7**, **Culture 8.5**, **Relaxation 8.4** | 7.9 / 8.3 / 7.0 / 8.6 / 7.1 | [-14.023, 34.852](https://www.google.com/maps/search/?api=1&query=-14.023,34.852) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Chembe%20%28Cape%20Maclear%20village%29%2C%20Malawi) |
-| 3 | [Nkhata Bay](cities/nkhata-bay.yaml) | City / town | **78.45** | **Photography 8.8**, **Culture 8.4**, **Food 8.1** | 8.0 / 8.2 / 7.0 / 8.5 / 7.2 | [-11.6066, 34.298](https://www.google.com/maps/search/?api=1&query=-11.6066,34.298) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nkhata%20Bay%2C%20Malawi) |
-| 5 | [Blantyre](cities/blantyre.yaml) | City / town | **78.10** | **History 8.7**, **Culture 8.5**, **Food 8.2**, Architecture 8.1 | 7.3 / 7.9 / 8.3 / 7.9 / 8.0 | [-15.7861, 35.0058](https://www.google.com/maps/search/?api=1&query=-15.7861,35.0058) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Blantyre%2C%20Malawi) |
-| 6 | [Likoma (Mbamba settlement)](cities/likoma-mbamba-settlement.yaml) | City / town | **77.60** | **Culture 8.6**, **History 8.5**, **Photography 8.4** | 7.6 / 8.4 / 7.7 / 8.0 / 6.4 | [-12.073, 34.735](https://www.google.com/maps/search/?api=1&query=-12.073,34.735) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Likoma%20%28Mbamba%20settlement%29%2C%20Malawi) |
-| 7 | [Lilongwe](cities/lilongwe.yaml) | City / town | **74.95** | **Culture 8.2**, **Food 8.0**, **History 8.0** | 7.0 / 7.4 / 8.0 / 7.7 / 7.9 | [-13.9833, 33.7833](https://www.google.com/maps/search/?api=1&query=-13.9833,33.7833) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lilongwe%2C%20Malawi) |
-| 8 | [Nkhotakota](cities/nkhotakota.yaml) | City / town | **74.50** | **History 9.0**, **Culture 8.5** | 6.6 / 8.0 / 8.5 / 7.4 / 6.6 | [-12.9317, 34.2811](https://www.google.com/maps/search/?api=1&query=-12.9317,34.2811) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nkhotakota%2C%20Malawi) |
-| 9 | [Karonga](cities/karonga.yaml) | City / town | **72.75** | **History 8.6**, **Culture 8.2** | 6.5 / 7.6 / 8.1 / 7.5 / 6.8 | [-9.9333, 33.9333](https://www.google.com/maps/search/?api=1&query=-9.9333,33.9333) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Karonga%2C%20Malawi) |
-| 10 | [Dedza](cities/dedza.yaml) | City / town | **72.40** | **Culture 8.3**, **Photography 7.9** | 6.9 / 7.7 / 7.2 / 7.7 / 6.5 | [-14.377, 34.333](https://www.google.com/maps/search/?api=1&query=-14.377,34.333) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Dedza%2C%20Malawi) |
-| 10 | [Mangochi](cities/mangochi.yaml) | City / town | **72.40** | **Culture 8.0**, **History 8.0**, **Food 7.9** | 6.8 / 7.5 / 7.4 / 7.7 / 6.9 | [-14.4782, 35.2645](https://www.google.com/maps/search/?api=1&query=-14.4782,35.2645) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mangochi%2C%20Malawi) |
-| 12 | [Mulanje](cities/mulanje.yaml) | City / town | **70.90** | **Photography 8.1**, **Culture 7.9** | 7.0 / 7.4 / 6.8 / 7.6 / 6.4 | [-16.031, 35.504](https://www.google.com/maps/search/?api=1&query=-16.031,35.504) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mulanje%2C%20Malawi) |
-| 13 | [Chintheche](cities/chintheche.yaml) | City / town | **70.75** | **Photography 8.1**, **Culture 7.8** | 7.1 / 7.5 / 6.4 / 7.8 / 6.2 | [-11.835, 34.166](https://www.google.com/maps/search/?api=1&query=-11.835,34.166) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Chintheche%2C%20Malawi) |
-| 14 | [Thyolo](cities/thyolo.yaml) | City / town | **68.75** | **Culture 7.8**, **Photography 7.8** | 6.7 / 7.3 / 6.6 / 7.4 / 6.1 | [-16.067, 35.15](https://www.google.com/maps/search/?api=1&query=-16.067,35.15) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Thyolo%2C%20Malawi) |
-| 15 | [Mzuzu](cities/mzuzu.yaml) | City / town | **68.55** | **Culture 7.7**, **Food 7.6** | 6.4 / 6.9 / 7.0 / 7.4 / 7.0 | [-11.4581, 34.0151](https://www.google.com/maps/search/?api=1&query=-11.4581,34.0151) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mzuzu%2C%20Malawi) |
-| 16 | [Liwonde](cities/liwonde.yaml) | City / town | **66.60** | **Culture 7.5**, **Photography 7.3** | 6.3 / 6.9 / 6.6 / 7.3 / 6.3 | [-15.0667, 35.2167](https://www.google.com/maps/search/?api=1&query=-15.0667,35.2167) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Liwonde%2C%20Malawi) |
-| 17 | [Rumphi](cities/rumphi.yaml) | City / town | **64.60** | **Culture 7.3** | 6.0 / 6.8 / 6.5 / 7.0 / 6.1 | [-11.0167, 33.8667](https://www.google.com/maps/search/?api=1&query=-11.0167,33.8667) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Rumphi%2C%20Malawi) |
-| 18 | [Salima](cities/salima.yaml) | City / town | **64.55** | **Food 7.5**, **Culture 7.3** | 6.0 / 6.6 / 6.5 / 7.1 / 6.4 | [-13.7804, 34.4587](https://www.google.com/maps/search/?api=1&query=-13.7804,34.4587) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Salima%2C%20Malawi) |
+No cities, towns & villages have been assessed for **Malawi** yet.
+
+Add destination YAML files in [cities/](cities/), then regenerate the overview files.
 
 ---
 
