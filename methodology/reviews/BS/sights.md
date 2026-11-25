@@ -983,6 +983,21 @@
 - Earlier decision: none.
 - Verification still needed: permitted ordinary visitor experience and individual location/condition.
 
+
+### Reassessment — 2026-11-25 (visitor evidence follow-up)
+
+- Supersedes earlier unranked decision. Evidence status: **source-linked-unverified**.
+- Scope: Exterior lighthouse and permitted grounds/viewpoint; tower climb not assumed.
+- Evidence: [Bahamas tourism](https://www.bahamas.com/plan-your-trip/things-to-do/dixon-hill-lighthouse), [2026 visitor guide](https://discoverbahamas.com/directory/dixon-hill-lighthouse-san-salvador-history-views-visitor-guide-article-2230.aspx), [Our News, 2023](https://ournews.bs/a-beacon-on-the-hill/); reviewed for visitor scope, not independent confirmation of all site claims or current opening. Earlier coordinates retained, not independently verified.
+- Prior core values: impact: null;   uniqueness: null;   significance: null;   experience: null;   depth: null.
+- Updated dimensions: Impact 7.5 — Coastal tower setting; Uniqueness 8.0 — historic island lighthouse character; Significance 8.4 — nineteenth-century maritime navigation heritage; Experience 7.5 — short exterior visit with scenic views; Depth 6.4 — limited site breadth..
+- Worldwide peer comparisons: Less monumental than Hohensalzburg; much smaller built ensemble than Bridgetown Garrison; less landscape depth than Pigeon Island; comparable compact viewpoint scale to Fort Hamilton.
+- Applicable categories: history: 8.7; architecture: 7.9; photography: 8.4.
+- Overall: 76.95/100.
+- High-score challenge: Not applicable. No approved 10.
+- Final decision: Provisional editorial rating for the named permitted visitor scope only; current operations and exact geography remain unverified.
+
+
 ## sight-bs-great-isaac-lighthouse — Great Isaac Lighthouse — 2026-11-25
 
 - YAML: [source](../../../countries/BS/sights/great-isaac-lighthouse.yaml)

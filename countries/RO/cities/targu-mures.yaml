@@ -1,0 +1,15 @@
+id: city-ro-targu-mures
+name: "Târgu Mureș"
+location:
+  country_code: RO
+  latitude: 46.543
+  longitude: 24.558
+scores:
+  impact: 8.3
+  uniqueness: 8.4
+  significance: 8.3
+  experience: 8.5
+  depth: 8.1
+  categories:
+    architecture: 8.9
+    culture: 8.8

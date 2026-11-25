@@ -1,0 +1,15 @@
+id: sight-ro-rosia-montana
+name: "Roșia Montană Mining Landscape"
+location:
+  country_code: RO
+  latitude: 46.306
+  longitude: 23.13
+scores:
+  impact: 8.4
+  uniqueness: 9.1
+  significance: 9.3
+  experience: 8.3
+  depth: 8.6
+  categories:
+    history: 9.4
+    culture: 8.8

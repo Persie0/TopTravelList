@@ -1,0 +1,16 @@
+id: sight-ro-danube-delta
+name: "Danube Delta (Romanian section)"
+location:
+  country_code: RO
+  latitude: 45.1
+  longitude: 29.3
+scores:
+  impact: 9.2
+  uniqueness: 9.5
+  significance: 9.5
+  experience: 9.2
+  depth: 9.4
+  categories:
+    nature: 9.6
+    wildlife: 9.4
+    photography: 9.3

@@ -1,0 +1,15 @@
+id: sight-ro-palace-parliament
+name: "Palace of Parliament, Bucharest"
+location:
+  country_code: RO
+  latitude: 44.427
+  longitude: 26.088
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 9.1
+  experience: 8.7
+  depth: 8.6
+  categories:
+    architecture: 9.3
+    history: 9.3

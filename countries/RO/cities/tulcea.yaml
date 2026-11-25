@@ -1,0 +1,15 @@
+id: city-ro-tulcea
+name: "Tulcea"
+location:
+  country_code: RO
+  latitude: 45.179
+  longitude: 28.8
+scores:
+  impact: 7.6
+  uniqueness: 7.7
+  significance: 7.9
+  experience: 8.0
+  depth: 7.5
+  categories:
+    culture: 8.3
+    history: 8.3
