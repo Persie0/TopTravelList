@@ -1,0 +1,16 @@
+id: sight-mc-sainte-devote-church
+name: "Sainte-Dévote Church"
+location:
+  country_code: MC
+  latitude: 43.7361
+  longitude: 7.4209
+scores:
+  impact: 7.2
+  uniqueness: 7.7
+  significance: 7.9
+  experience: 7.5
+  depth: 6.3
+  categories:
+    history: 8.5
+    architecture: 8.3
+    culture: 8.2
