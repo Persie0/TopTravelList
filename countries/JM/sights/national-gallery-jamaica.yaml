@@ -1,0 +1,15 @@
+id: sight-jm-national-gallery-jamaica
+name: "National Gallery of Jamaica"
+location:
+  country_code: JM
+  latitude: 17.965
+  longitude: -76.793
+scores:
+  impact: 7.8
+  uniqueness: 8.3
+  significance: 8.5
+  experience: 8.1
+  depth: 8.0
+  categories:
+    culture: 9.1
+    history: 8.5

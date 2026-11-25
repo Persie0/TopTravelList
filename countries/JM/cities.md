@@ -2,7 +2,7 @@
 
 # Jamaica (JM) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**11 ranked** · **0 unassessed** · **11 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,21 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (11)
 
-No cities, towns & villages have been assessed for **Jamaica** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Kingston](cities/kingston.yaml) | City / town | **86.55** | **Culture 9.4**, **Food 8.8**, **History 8.8**, Nightlife 8.7 | 8.2 / 9.0 / 9.1 / 8.3 / 8.8 | [17.971, -76.793](https://www.google.com/maps/search/?api=1&query=17.971,-76.793) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kingston%2C%20Jamaica) |
+| 2 | [Falmouth](cities/falmouth.yaml) | City / town | **80.65** | **Architecture 8.9**, **History 8.8**, **Culture 8.1** | 7.9 / 8.3 / 8.5 / 7.8 / 7.5 | [18.493, -77.656](https://www.google.com/maps/search/?api=1&query=18.493,-77.656) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Falmouth%2C%20Jamaica) |
+| 3 | [Port Antonio](cities/port-antonio.yaml) | City / town | **79.90** | **Photography 8.7**, **Culture 8.3**, **Food 8.3** | 8.0 / 8.2 / 7.8 / 8.2 / 7.5 | [18.18, -76.462](https://www.google.com/maps/search/?api=1&query=18.18,-76.462) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Port%20Antonio%2C%20Jamaica) |
+| 4 | [Port Royal](cities/port-royal.yaml) | City / town | **78.25** | **History 9.0**, **Culture 8.3**, **Food 8.3** | 7.4 / 8.3 / 8.4 / 7.8 / 6.8 | [17.938, -76.84](https://www.google.com/maps/search/?api=1&query=17.938,-76.84) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Port%20Royal%2C%20Jamaica) |
+| 5 | [Montego Bay](cities/montego-bay.yaml) | City / town | **77.20** | **Nightlife 8.7**, **Food 8.5**, **Culture 8.0** | 7.6 / 7.3 / 7.7 / 8.5 / 8.0 | [18.476, -77.917](https://www.google.com/maps/search/?api=1&query=18.476,-77.917) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Montego%20Bay%2C%20Jamaica) |
+| 6 | [Spanish Town](cities/spanish-town.yaml) | Town | **77.15** | **History 9.0**, **Architecture 8.5**, **Culture 8.0** | 7.4 / 8.0 / 8.6 / 7.1 / 7.1 | [17.991, -76.958](https://www.google.com/maps/search/?api=1&query=17.991,-76.958) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Spanish%20Town%2C%20Jamaica) |
+| 7 | [Negril](cities/negril.yaml) | City / town | **77.10** | **Beaches 9.0**, **Nightlife 8.9**, **Food 8.3** | 7.9 / 7.7 / 6.8 / 8.7 / 7.5 | [18.269, -78.349](https://www.google.com/maps/search/?api=1&query=18.269,-78.349) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Negril%2C%20Jamaica) |
+| 8 | [Treasure Beach (Calabash Bay village)](cities/treasure-beach.yaml) | Village | **75.60** | **Relaxation 8.8**, **Culture 8.5**, **Food 8.4** | 7.5 / 8.0 / 6.9 / 8.2 / 7.0 | [17.883, -77.764](https://www.google.com/maps/search/?api=1&query=17.883,-77.764) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Treasure%20Beach%20%28Calabash%20Bay%20village%29%2C%20Jamaica) |
+| 9 | [Black River](cities/black-river.yaml) | City / town | **73.80** | **History 8.3**, **Architecture 8.0**, **Culture 8.0** | 7.1 / 7.6 / 7.8 / 7.4 / 6.8 | [18.025, -77.848](https://www.google.com/maps/search/?api=1&query=18.025,-77.848) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Black%20River%2C%20Jamaica) |
+| 10 | [Ocho Rios](cities/ocho-rios.yaml) | City / town | **71.35** | **Food 8.1**, **Relaxation 8.0**, **Culture 7.8** | 7.1 / 6.9 / 6.8 / 8.0 / 7.2 | [18.407, -77.104](https://www.google.com/maps/search/?api=1&query=18.407,-77.104) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ocho%20Rios%2C%20Jamaica) |
+| 11 | [Mandeville](cities/mandeville.yaml) | City / town | **70.35** | **Architecture 7.8**, **Culture 7.8** | 6.8 / 7.1 / 7.2 / 7.4 / 6.7 | [18.044, -77.507](https://www.google.com/maps/search/?api=1&query=18.044,-77.507) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mandeville%2C%20Jamaica) |
 
 ---
 

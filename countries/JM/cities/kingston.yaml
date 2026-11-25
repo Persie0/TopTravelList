@@ -1,0 +1,17 @@
+id: city-jm-kingston
+name: "Kingston"
+location:
+  country_code: JM
+  latitude: 17.971
+  longitude: -76.793
+scores:
+  impact: 8.2
+  uniqueness: 9.0
+  significance: 9.1
+  experience: 8.3
+  depth: 8.8
+  categories:
+    culture: 9.4
+    food: 8.8
+    history: 8.8
+    nightlife: 8.7
