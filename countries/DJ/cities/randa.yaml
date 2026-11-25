@@ -1,0 +1,15 @@
+id: city-dj-randa
+name: "Randa"
+location:
+  country_code: DJ
+  latitude: 11.8490
+  longitude: 42.6630
+scores:
+  impact: 6.9
+  uniqueness: 7.6
+  significance: 6.5
+  experience: 7.2
+  depth: 5.8
+  categories:
+    culture: 8.0
+    photography: 7.9
