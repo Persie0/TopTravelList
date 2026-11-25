@@ -2,6 +2,9 @@
 
 [Worldwide rules](../../../rules.md) · [Future-country workflow](../../future-country-workflow.md). 2026-11-25. [UNESCO country inventory](https://whc.unesco.org/en/statesparties/ss) confirms one inscribed property (July 2026) and two tentative properties; all represented. [FCDO advisory](https://www.gov.uk/foreign-travel-advice/south-sudan) advises against all travel. [US State Department](https://travel.state.gov/en/international-travel/travel-advisories/south-sudan.html) describes limited infrastructure and security risks. Scores are intrinsic and provisional, not present-day travel recommendations. Six commonly listed national parks included; legal designation of Lantoto and Shambe requires confirmation. Parent/sector scores are not additive. Do not treat approximate points as access locations. Shared peer ladders require individual refinement. No record is independently fully fact-checked. Missing visitor evidence leaves scores null.
 
+
+Follow-up 2026-11-25: [UNESCO decision 48 COM 8B](https://whc.unesco.org/en/decisions/9153/) simultaneously inscribed Boma–Badingilo on the World Heritage and World Heritage in Danger lists. [African Parks](https://www.africanparks.org/the-parks/badingilo-boma/park-revenue-generation) confirms the March 2026 pilot camp; ordinary visitor itineraries and reliable viewing remain insufficiently established. [Sudd tentative nomination](https://whc.unesco.org/en/tentativelists/6276/) identifies Zeraf, Meshra and Fanyikang reserves, now individually catalogued below; other game reserves remain gaps. The Sudd Ramsar designation dates to 2006 ([Ramsar](https://www.ramsar.org/es/news/sudans-designation-sudd-marshes-world-environment-day-2006)); tentative and Ramsar boundaries not assumed identical. [FCDO](https://www.gov.uk/foreign-travel-advice/south-sudan) still advises against all travel on 25 November 2026. No current travel recommendation.
+
 ## sight-ss-boma-badingilo-migratory-landscape — Boma–Badingilo Migratory Landscape — 2026-11-25
 
 - [YAML](../../../countries/SS/sights/boma-badingilo-migratory-landscape.yaml) · Action: new · **unassessed**.
@@ -16,10 +19,12 @@
 - Significance 9.9: global ecological processes and conservation importance.
 - Experience null: whole-property permitted visitor scope undocumented.
 - Depth null: aggregate routes unknown.
-- Categories: nature:9.9, wildlife:9.9. Overall: unranked.
-- High-score challenge: Uniqueness and significance 9.9 and nature/wildlife 9.9 reflect UNESCO and the 2024 survey documenting roughly six million migratory antelope. Unlike Okavango's established visitor networks the migration landscape lacks evidence of an ordinary coherent tourist circuit, so no overall score or perfect ten.. No approved 10.
+- Categories: nature:9.9, wildlife:null. Overall: unranked.
+- High-score challenge: Uniqueness/significance 9.9 and nature 9.9 reflect the internationally documented migration and habitat mosaic; wildlife visitor category unassessed. No approved 10.
 - Evidence: [Reference](https://whc.unesco.org/en/list/1808/) — Opened UNESCO property description identifies inscribed landscape and estimated six million migrating mammals; https://whc.unesco.org/en/list/1808/maps/ official reference coordinate; https://www.africanparks.org/worlds-largest-land-mammal-migration-confirmed-south-sudan survey excerpt.; inspected as page or excerpt 2026-11-25. Full claim-level verification incomplete.
 - Remaining gaps: Normal permitted visitor experience and scope not established.
+- Reassessment 2026-11-25: wildlife 9.9 → null. Compare Serengeti, Okavango, Chobe and the Mara: unlike these established visitor landscapes, no verified coherent whole-property visitor itinerary. UNESCO emergency inscription and simultaneous danger listing reflect conservation importance, not accessibility. Overall remains unranked.
+
 
 ## sight-ss-boma-national-park — Boma National Park — 2026-11-25
 
@@ -35,10 +40,12 @@
 - Significance 9.7: international conservation significance.
 - Experience null: opening announced but repeatable authorized itinerary and observation quality unverified.
 - Depth null: visitor breadth unknown.
-- Categories: nature:9.7, wildlife:9.8. Overall: unranked.
-- High-score challenge: Uniqueness/significance 9.7 and wildlife 9.8 recognize the park's role in the Great Nile Migration, not a guarantee of viewing the whole migration. Chobe and Moremi have documented visitor circuits, unlike the emerging Boma sector.. No approved 10.
+- Categories: nature:9.7, wildlife:null. Overall: unranked.
+- High-score challenge: Uniqueness/significance and nature 9.7 reflect the migration habitat; wildlife visitor category unassessed. No approved 10.
 - Evidence: [Reference](https://eyeradio.org/govt-declares-boma-national-park-officially-open-to-tourists/?noamp=mobile) — 18 April 2026 local reporting on opening; https://atta.travel/resource/south-sudan-opens-first-community-centred-tourist-camp-in-boma-s-great-nile-migration-landscape.html reports March 2026 camp opening; https://www.africanparks.org/the-parks/badingilo-boma conservation context; https://mapcarta.com/Boma_National_Park opened park point. No camp-specific coordinates or established circuits.; inspected as page or excerpt 2026-11-25. Full claim-level verification incomplete.
 - Remaining gaps: Normal permitted visitor experience and scope not established.
+- Reassessment 2026-11-25: wildlife 9.8 → null. [African Parks pilot camp](https://www.africanparks.org/the-parks/badingilo-boma/park-revenue-generation) and [ATTA](https://atta.travel/resource/south-sudan-opens-first-community-centred-tourist-camp-in-boma-s-great-nile-migration-landscape.html) confirm a tourism opening, not actual regular viewing or route breadth. Compare Serengeti, Chobe, Moremi and Zakouma; conservation importance retained separately. Overall remains unranked.
+
 
 ## sight-ss-badingilo-national-park — Badingilo National Park — 2026-11-25
 
@@ -54,10 +61,12 @@
 - Significance 9.7: international conservation significance.
 - Experience null: normal tourism route not established.
 - Depth null: depth unknown.
-- Categories: nature:9.7, wildlife:9.8. Overall: unranked.
-- High-score challenge: Uniqueness 9.6 and significance/nature 9.7 and wildlife 9.8 reflect documented migration ecology; not transferred from the entire inscribed property as an experience score. Unlike Chobe, ordinary safari routes are not established by the evidence.. No approved 10.
+- Categories: nature:9.7, wildlife:null. Overall: unranked.
+- High-score challenge: Uniqueness 9.6 and significance/nature 9.7 reflect the documented migration ecology, not a visitor wildlife score. No approved 10.
 - Evidence: [Reference](https://www.africanparks.org/the-parks/badingilo-boma) — Park manager excerpt describes migration ecology; https://mapcarta.com/Bandingilo_National_Park opened representative reference point.; inspected as page or excerpt 2026-11-25. Full claim-level verification incomplete.
 - Remaining gaps: Normal permitted visitor experience and scope not established.
+- Reassessment 2026-11-25: wildlife 9.8 → null. [African Parks](https://www.africanparks.org/the-parks/badingilo-boma) documents wet-season breeding aggregation; no established ordinary safari circuit comparable to Serengeti, Chobe, Moremi or Zakouma. Overall remains unranked.
+
 
 ## sight-ss-sudd-wetland — Sudd Wetland — 2026-11-25
 
@@ -73,10 +82,12 @@
 - Significance 9.7: international wetland ecology and living heritage.
 - Experience null: permitted ordinary visitor routes unknown.
 - Depth null: aggregate depth unknown.
-- Categories: nature:9.8, wildlife:9.7. Overall: unranked.
-- High-score challenge: Uniqueness 9.6 and significance 9.7, nature 9.8 and wildlife 9.7 reflect scale and ecological processes documented in the tentative submission. Unlike Okavango, an equivalent organized visitor experience is unverified.. No approved 10.
+- Categories: nature:9.8, wildlife:null. Overall: unranked.
+- High-score challenge: Uniqueness 9.6, significance 9.7 and nature 9.8 reflect the documented large wetland ecosystem; wildlife visitor category unassessed. No approved 10.
 - Evidence: [Reference](https://whc.unesco.org/en/tentativelists/6276/) — Opened 2017 state submission confirms freshwater ecology, reference coordinates and living cultural landscape; no ordinary visitor evidence.; inspected as page or excerpt 2026-11-25. Full claim-level verification incomplete.
 - Remaining gaps: Normal permitted visitor experience and scope not established.
+- Reassessment 2026-11-25: wildlife 9.7 → null. [UNESCO nomination](https://whc.unesco.org/en/tentativelists/6276/) and [Ramsar designation](https://www.ramsar.org/es/news/sudans-designation-sudd-marshes-world-environment-day-2006) support ecological merit. Compare Okavango, Pantanal, Kakadu and the Everglades; no comparable organized Sudd visitor scope verified. Overall remains unranked.
+
 
 ## sight-ss-deim-zubeir-slave-route-site — Deim Zubeir Slave Route Site — 2026-11-25
 
@@ -191,6 +202,8 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Reference](https://www.southsudan.net/national-parks-in-south-sudan/) — Opened reference descriptions and approximate DMS coordinates; https://www.cambridge.org/core/journals/african-studies-review/article/wildlife-management-in-south-sudan-19012021-conservation-amidst-conflict/80F69E855F4003020A315146880CD8E7 academic excerpt flags uncertain Lantoto and Shambe legal designation.; inspected as page or excerpt 2026-11-25. Full claim-level verification incomplete.
 - Remaining gaps: Normal permitted visitor experience and scope not established.
+- Follow-up: [UNESCO tentative nomination](https://whc.unesco.org/en/tentativelists/6276/) identifies Shambe as a national park. [KBA factsheet](https://www.keybiodiversityareas.org/en/site/factsheet/6813) distinguishes park and proposed extension; exact legal boundary remains unresolved.
+
 
 ## sight-ss-imatong-central-forest-reserve — Imatong Central Forest Reserve — 2026-11-25
 
@@ -324,3 +337,62 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Reference](https://eyeradio.org/govt-declares-boma-national-park-officially-open-to-tourists/?noamp=mobile) — 18 April 2026 local reporting on opening; https://atta.travel/resource/south-sudan-opens-first-community-centred-tourist-camp-in-boma-s-great-nile-migration-landscape.html reports March 2026 camp opening; https://www.africanparks.org/the-parks/badingilo-boma conservation context; https://mapcarta.com/Boma_National_Park opened park point. No camp-specific coordinates or established circuits.; inspected as page or excerpt 2026-11-25. Full claim-level verification incomplete.
 - Remaining gaps: Normal permitted visitor experience and scope not established.
+- Follow-up: [manager](https://www.africanparks.org/the-parks/badingilo-boma/park-revenue-generation) confirms camp opened March 2026. [April local reporting](https://radioyei.org/news/travel-and-tourism/maruwa-hills-tourist-camp-officially-opens-in-boma-national-park/) describes a later inauguration; operational scope remains unresolved. No new overall rating.
+
+
+## sight-ss-zeraf-game-reserve — Zeraf Game Reserve — 2026-11-25
+
+- [YAML](../../../countries/SS/sights/zeraf-game-reserve.yaml) · Action: new · **unassessed**.
+- Scope: individually designated game reserve within Sudd wetland landscape. GPS 8.48, 30.3: UNEP 2024 project-location reference ([report, p. 38](https://open.unep.org/docs/gef/PIR/9551_PIR_UNEP_2024_South_Sudan_Illegal_Wildlife_Trade.pdf)); not boundary centroid or entrance.
+- Worldwide peers (I/U/S/E/D):
+  - [Chobe National Park (BW)](../../../countries/BW/sights/chobe-national-park.yaml) — 9.5 / 9.4 / 9.3 / 9.4 / 9.3 (94.00/100); landscape comparison only; ordinary permitted visitor experience unresolved.
+  - [Moremi Game Reserve (BW)](../../../countries/BW/sights/moremi-game-reserve.yaml) — 9.4 / 9.3 / 9.1 / 9.4 / 9.2 (92.95/100); landscape comparison only; ordinary permitted visitor experience unresolved.
+  - [Khao Sok National Park (TH)](../../../countries/TH/sights/khao-sok-national-park.yaml) — 9.4 / 9.4 / 9.1 / 9.4 / 9.3 (93.30/100); landscape comparison only; ordinary permitted visitor experience unresolved.
+  - [Dibeen Forest Reserve (JO)](../../../countries/JO/sights/dibeen-forest-reserve.yaml) — 7.5 / 7.6 / 8.1 / 7.8 / 7.5 (76.90/100); landscape comparison only; ordinary permitted visitor experience unresolved.
+- Impact null: ordinary visitor impact unresolved.
+- Uniqueness 8.8: protected floodplain habitat within the extensive Sudd ecosystem.
+- Significance 9.1: designated wetland conservation landscape.
+- Experience null: permitted visitor scope unestablished.
+- Depth null: no verified itinerary.
+- Categories: nature:9.1, wildlife:null. Overall: unranked.
+- High-score challenge: Not applicable. No approved 10.
+- Evidence: [Protected Planet designation](https://www.protectedplanet.net/1368), [UNESCO Sudd tentative nomination](https://whc.unesco.org/en/tentativelists/6276/) and UNEP project report support identity and conservation context. Checked 2026-11-25; full material verification incomplete.
+- Remaining gaps: exact boundary, visitor scope, current ecology and individually calibrated peers; parent and reserve scores are not additive.
+
+## sight-ss-meshra-game-reserve — Meshra Game Reserve — 2026-11-25
+
+- [YAML](../../../countries/SS/sights/meshra-game-reserve.yaml) · Action: new · **unassessed**.
+- Scope: individually designated game reserve within Sudd wetland landscape. GPS 7.3, 29.3: UNEP 2024 project-location reference ([report, p. 38](https://open.unep.org/docs/gef/PIR/9551_PIR_UNEP_2024_South_Sudan_Illegal_Wildlife_Trade.pdf)); not boundary centroid or entrance.
+- Worldwide peers (I/U/S/E/D):
+  - [Chobe National Park (BW)](../../../countries/BW/sights/chobe-national-park.yaml) — 9.5 / 9.4 / 9.3 / 9.4 / 9.3 (94.00/100); landscape comparison only; ordinary permitted visitor experience unresolved.
+  - [Moremi Game Reserve (BW)](../../../countries/BW/sights/moremi-game-reserve.yaml) — 9.4 / 9.3 / 9.1 / 9.4 / 9.2 (92.95/100); landscape comparison only; ordinary permitted visitor experience unresolved.
+  - [Khao Sok National Park (TH)](../../../countries/TH/sights/khao-sok-national-park.yaml) — 9.4 / 9.4 / 9.1 / 9.4 / 9.3 (93.30/100); landscape comparison only; ordinary permitted visitor experience unresolved.
+  - [Dibeen Forest Reserve (JO)](../../../countries/JO/sights/dibeen-forest-reserve.yaml) — 7.5 / 7.6 / 8.1 / 7.8 / 7.5 (76.90/100); landscape comparison only; ordinary permitted visitor experience unresolved.
+- Impact null: ordinary visitor impact unresolved.
+- Uniqueness 8.5: protected floodplain habitat within the extensive Sudd ecosystem.
+- Significance 8.8: designated wetland conservation landscape.
+- Experience null: permitted visitor scope unestablished.
+- Depth null: no verified itinerary.
+- Categories: nature:8.9, wildlife:null. Overall: unranked.
+- High-score challenge: Not applicable. No approved 10.
+- Evidence: [Protected Planet designation](https://www.protectedplanet.net/10738), [UNESCO Sudd tentative nomination](https://whc.unesco.org/en/tentativelists/6276/) and UNEP project report support identity and conservation context. Checked 2026-11-25; full material verification incomplete.
+- Remaining gaps: exact boundary, visitor scope, current ecology and individually calibrated peers; parent and reserve scores are not additive.
+
+## sight-ss-fanyikang-game-reserve — Fanyikang Game Reserve — 2026-11-25
+
+- [YAML](../../../countries/SS/sights/fanyikang-game-reserve.yaml) · Action: new · **unassessed**.
+- Scope: individually designated game reserve within Sudd wetland landscape. GPS 9.25, 31.2548: UNEP 2024 project-location reference ([report, p. 38](https://open.unep.org/docs/gef/PIR/9551_PIR_UNEP_2024_South_Sudan_Illegal_Wildlife_Trade.pdf)); not boundary centroid or entrance.
+- Worldwide peers (I/U/S/E/D):
+  - [Chobe National Park (BW)](../../../countries/BW/sights/chobe-national-park.yaml) — 9.5 / 9.4 / 9.3 / 9.4 / 9.3 (94.00/100); landscape comparison only; ordinary permitted visitor experience unresolved.
+  - [Moremi Game Reserve (BW)](../../../countries/BW/sights/moremi-game-reserve.yaml) — 9.4 / 9.3 / 9.1 / 9.4 / 9.2 (92.95/100); landscape comparison only; ordinary permitted visitor experience unresolved.
+  - [Khao Sok National Park (TH)](../../../countries/TH/sights/khao-sok-national-park.yaml) — 9.4 / 9.4 / 9.1 / 9.4 / 9.3 (93.30/100); landscape comparison only; ordinary permitted visitor experience unresolved.
+  - [Dibeen Forest Reserve (JO)](../../../countries/JO/sights/dibeen-forest-reserve.yaml) — 7.5 / 7.6 / 8.1 / 7.8 / 7.5 (76.90/100); landscape comparison only; ordinary permitted visitor experience unresolved.
+- Impact null: ordinary visitor impact unresolved.
+- Uniqueness 8.4: protected floodplain habitat within the extensive Sudd ecosystem.
+- Significance 8.8: designated wetland conservation landscape.
+- Experience null: permitted visitor scope unestablished.
+- Depth null: no verified itinerary.
+- Categories: nature:8.8, wildlife:null. Overall: unranked.
+- High-score challenge: Not applicable. No approved 10.
+- Evidence: [Protected Planet designation](https://www.protectedplanet.net/555583106), [UNESCO Sudd tentative nomination](https://whc.unesco.org/en/tentativelists/6276/) and UNEP project report support identity and conservation context. Checked 2026-11-25; full material verification incomplete.
+- Remaining gaps: exact boundary, visitor scope, current ecology and individually calibrated peers; parent and reserve scores are not additive.
