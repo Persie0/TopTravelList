@@ -14,7 +14,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps |
 | ---: | --- | --- | ---: | --- | --- | --- |
-| 1 | [Asunción](cities/asuncion.yaml) | City / town | **82.50** | **Culture 8.8**, **History 8.7**, **Food 8.5**, Architecture 8.4 | 8.2 / 8.1 / 8.4 / 8.3 / 8.4 | [-25.2867, -57.3333](https://www.google.com/maps/search/?api=1&query=-25.2867,-57.3333) |
+| 1 | [Asunción](cities/asuncion.yaml) | City / town | **82.50** | **Culture 8.8**, **History 8.7**, **Food 8.5**, Architecture 8.4 | 8.2 / 8.1 / 8.4 / 8.3 / 8.4 | [-25.28646, -57.647](https://www.google.com/maps/search/?api=1&query=-25.28646,-57.647) |
 | 2 | [Areguá](cities/aregua.yaml) | City / town | **76.85** | **Culture 8.5**, **Photography 8.3**, **Architecture 8.2** | 7.6 / 8.0 / 7.6 / 7.9 / 7.0 | [-25.3125, -57.3847](https://www.google.com/maps/search/?api=1&query=-25.3125,-57.3847) |
 | 3 | [Encarnación](cities/encarnacion.yaml) | City / town | **76.75** | **Relaxation 8.6**, **Beaches 8.2**, **Culture 7.8** | 7.8 / 7.4 / 7.3 / 8.3 / 7.8 | [-27.3306, -55.8667](https://www.google.com/maps/search/?api=1&query=-27.3306,-55.8667) |
 | 4 | [Villarrica](cities/villarrica.yaml) | City / town | **73.85** | **History 8.1**, **Architecture 8.0**, **Culture 8.0** | 7.2 / 7.4 / 7.7 / 7.5 / 7.1 | [-25.75, -56.4333](https://www.google.com/maps/search/?api=1&query=-25.75,-56.4333) |
