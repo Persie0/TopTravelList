@@ -1,0 +1,16 @@
+id: city-tn-tozeur
+name: "Tozeur"
+location:
+  country_code: TN
+  latitude: 33.9197
+  longitude: 8.1335
+scores:
+  impact: 8.2
+  uniqueness: 8.6
+  significance: 8.0
+  experience: 8.2
+  depth: 7.8
+  categories:
+    architecture: 8.5
+    culture: 8.5
+    photography: 8.4

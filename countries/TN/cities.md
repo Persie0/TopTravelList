@@ -2,7 +2,7 @@
 
 # Tunisia (TN) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**11 ranked** · **0 unassessed** · **11 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,21 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (11)
 
-No cities, towns & villages have been assessed for **Tunisia** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Tunis](cities/tunis.yaml) | City / town | **88.10** | **Culture 9.0**, **History 9.0**, **Architecture 8.8**, Food 8.8 | 8.7 / 8.7 / 9.1 / 8.7 / 9.0 | [36.8065, 10.1815](https://www.google.com/maps/search/?api=1&query=36.8065,10.1815) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tunis%2C%20Tunisia) |
+| 2 | [Kairouan](cities/kairouan.yaml) | City / town | **86.50** | **History 9.2**, **Culture 9.1**, **Architecture 9.0** | 8.5 / 8.8 / 9.2 / 8.2 / 8.3 | [35.6781, 10.0963](https://www.google.com/maps/search/?api=1&query=35.6781,10.0963) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kairouan%2C%20Tunisia) |
+| 3 | [Sousse](cities/sousse.yaml) | City / town | **82.95** | **History 8.7**, **Architecture 8.5**, **Beaches 8.3**, Culture 8.3 | 8.2 / 8.2 / 8.5 / 8.5 / 8.1 | [35.8256, 10.6369](https://www.google.com/maps/search/?api=1&query=35.8256,10.6369) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sousse%2C%20Tunisia) |
+| 4 | [Tozeur](cities/tozeur.yaml) | City / town | **82.20** | **Architecture 8.5**, **Culture 8.5**, **Photography 8.4** | 8.2 / 8.6 / 8.0 / 8.2 / 7.8 | [33.9197, 8.1335](https://www.google.com/maps/search/?api=1&query=33.9197,8.1335) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tozeur%2C%20Tunisia) |
+| 5 | [Houmt Souk](cities/houmt-souk.yaml) | City / town | **80.30** | **Culture 8.4**, **Architecture 8.2**, **Food 8.2** | 8.0 / 8.2 / 7.9 / 8.2 / 7.7 | [33.8758, 10.8575](https://www.google.com/maps/search/?api=1&query=33.8758,10.8575) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Houmt%20Souk%2C%20Tunisia) |
+| 6 | [Monastir](cities/monastir.yaml) | City / town | **79.95** | **Architecture 8.2**, **History 8.2**, **Beaches 8.0** | 8.0 / 7.8 / 8.1 / 8.3 / 7.8 | [35.7643, 10.8113](https://www.google.com/maps/search/?api=1&query=35.7643,10.8113) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Monastir%2C%20Tunisia) |
+| 7 | [Sfax](cities/sfax.yaml) | City / town | **79.40** | **Architecture 8.2**, **Culture 8.2**, **Food 8.1** | 7.8 / 8.0 / 8.2 / 7.8 / 7.9 | [34.7406, 10.7603](https://www.google.com/maps/search/?api=1&query=34.7406,10.7603) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sfax%2C%20Tunisia) |
+| 8 | [Le Kef](cities/le-kef.yaml) | City / town | **79.00** | **History 8.2**, **Architecture 8.1**, **Culture 8.0** | 7.9 / 8.0 / 8.0 / 7.8 / 7.6 | [36.1822, 8.7148](https://www.google.com/maps/search/?api=1&query=36.1822,8.7148) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Le%20Kef%2C%20Tunisia) |
+| 9 | [Bizerte](cities/bizerte.yaml) | City / town | **78.35** | **Culture 8.0**, **Relaxation 8.0**, **Architecture 7.9** | 7.9 / 7.7 / 7.9 / 8.0 / 7.6 | [37.2744, 9.8739](https://www.google.com/maps/search/?api=1&query=37.2744,9.8739) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bizerte%2C%20Tunisia) |
+| 10 | [Hammamet](cities/hammamet.yaml) | City / town | **77.70** | **Beaches 8.6**, **Relaxation 8.6**, **Culture 7.8** | 7.9 / 7.5 / 7.4 / 8.5 / 7.7 | [36.4, 10.6167](https://www.google.com/maps/search/?api=1&query=36.4,10.6167) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hammamet%2C%20Tunisia) |
+| 11 | [Douz](cities/douz.yaml) | City / town | **74.65** | **Culture 8.0**, **Food 7.4** | 7.3 / 7.8 / 7.4 / 7.7 / 6.9 | [33.4663, 9.023](https://www.google.com/maps/search/?api=1&query=33.4663,9.023) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Douz%2C%20Tunisia) |
 
 ---
 

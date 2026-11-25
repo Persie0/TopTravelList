@@ -1,0 +1,13 @@
+id: sight-tn-gabes-oasis
+name: "Oasis of Gabès"
+location:
+  country_code: TN
+  latitude: 33.88
+  longitude: 10.10
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}
