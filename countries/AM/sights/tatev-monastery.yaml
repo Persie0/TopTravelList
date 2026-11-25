@@ -1,0 +1,16 @@
+id: sight-am-tatev-monastery
+name: "Tatev Monastery"
+location:
+  country_code: AM
+  latitude: 39.3795
+  longitude: 46.248
+scores:
+  impact: 9.3
+  uniqueness: 9.2
+  significance: 9.2
+  experience: 9.1
+  depth: 8.4
+  categories:
+    architecture: 9.4
+    history: 9.4
+    photography: 9.5

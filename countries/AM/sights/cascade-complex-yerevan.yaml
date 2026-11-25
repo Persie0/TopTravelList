@@ -1,0 +1,16 @@
+id: sight-am-cascade-complex-yerevan
+name: "Cascade Complex (Yerevan)"
+location:
+  country_code: AM
+  latitude: 40.191
+  longitude: 44.515
+scores:
+  impact: 8.5
+  uniqueness: 8.2
+  significance: 7.2
+  experience: 8.8
+  depth: 7.9
+  categories:
+    architecture: 8.8
+    photography: 9.0
+    culture: 8.3
