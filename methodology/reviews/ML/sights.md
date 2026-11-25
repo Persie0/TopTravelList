@@ -45,6 +45,7 @@ Initial worldwide V2 inventory; 2026-11-25. UNESCO, embassy and tourism sources 
   - https://whc.unesco.org/en/list/116
   - https://maliembassy.us/tourism-travel/
   - https://whc.unesco.org/en/urban-heritage-atlas/djenne/
+  - https://www.si.edu/object/archives/components/sova-eepa-1998-003-ref539 (historical photograph documents restriction for non-Muslims)
 - Missing facts: Current access and exact site details require confirmation.
 
 ### Worldwide peer comparisons
@@ -351,12 +352,14 @@ Initial worldwide V2 inventory; 2026-11-25. UNESCO, embassy and tourism sources 
 
 - YAML: [source](../../../countries/ML/sights/tomb-of-askia.yaml)
 - Action: new
-- Precise subject: Inscribed pyramidal tomb complex including associated structures. UNESCO map reports positive longitude, inconsistent with Gao west of Greenwich; use provisional corrected negative sign instead.
+- Precise subject: Inscribed pyramidal tomb complex including associated structures. UNESCO map reports positive longitude, inconsistent with Gao west of Greenwich; the independent location references below support the negative sign.
 - Location check: 16.2898, -0.04456; representative point, exact entrance not verified.
 - Evidence status: **source-linked-unverified**
 - Sources (accessed or linked 2026-11-25; support identity, heritage, geographic context or historical visit; claim-level triangulation incomplete):
   - https://whc.unesco.org/en/list/1139/
   - https://whc.unesco.org/en/list/1139/maps/
+  - https://www.aerialviews.org/Tomb_of_Askia.htm (16.2898, -0.04456)
+  - https://en.wikipedia.org/wiki/Tomb_of_Askia (west longitude)
   - https://maliembassy.us/tourism-travel/
 - Missing facts: Current access and exact site details require confirmation.
 
