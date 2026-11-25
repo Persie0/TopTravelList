@@ -1,0 +1,14 @@
+id: sight-sr-tafelberg-plateau
+name: "Tafelberg Plateau"
+location:
+  country_code: SR
+  latitude: 3.9000
+  longitude: -56.1833
+scores:
+  impact: null
+  uniqueness: 9.2
+  significance: 9.0
+  experience: null
+  depth: null
+  categories:
+    nature: 9.3
