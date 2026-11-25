@@ -1,0 +1,15 @@
+id: sight-li-kunstmuseum-liechtenstein-and-hilti-art-foundation
+name: "Kunstmuseum Liechtenstein and Hilti Art Foundation"
+location:
+  country_code: LI
+  latitude: 47.1395
+  longitude: 9.5219
+scores:
+  impact: 8.0
+  uniqueness: 8.2
+  significance: 7.9
+  experience: 8.3
+  depth: 8.1
+  categories:
+    culture: 8.9
+    architecture: 8.6

@@ -1,0 +1,15 @@
+id: city-li-schellenberg
+name: "Schellenberg"
+location:
+  country_code: LI
+  latitude: 47.23123
+  longitude: 9.54678
+scores:
+  impact: 7.0
+  uniqueness: 7.3
+  significance: 7.5
+  experience: 7.5
+  depth: 6.7
+  categories:
+    history: 8.2
+    photography: 8.0

@@ -1,0 +1,15 @@
+id: sight-li-liechtenstein-nationalmuseum
+name: "Liechtenstein NationalMuseum"
+location:
+  country_code: LI
+  latitude: 47.1383
+  longitude: 9.5219
+scores:
+  impact: 7.8
+  uniqueness: 8.0
+  significance: 8.4
+  experience: 8.1
+  depth: 8.1
+  categories:
+    history: 8.9
+    culture: 8.7

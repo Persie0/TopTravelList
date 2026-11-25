@@ -1,0 +1,15 @@
+id: city-li-bendern
+name: "Bendern"
+location:
+  country_code: LI
+  latitude: 47.21199
+  longitude: 9.50678
+scores:
+  impact: 7.0
+  uniqueness: 7.4
+  significance: 7.8
+  experience: 7.4
+  depth: 6.6
+  categories:
+    history: 8.4
+    photography: 8.1

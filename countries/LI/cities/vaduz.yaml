@@ -1,0 +1,16 @@
+id: city-li-vaduz
+name: "Vaduz"
+location:
+  country_code: LI
+  latitude: 47.14151
+  longitude: 9.52154
+scores:
+  impact: 7.8
+  uniqueness: 8.1
+  significance: 8.0
+  experience: 8.2
+  depth: 7.9
+  categories:
+    culture: 8.7
+    history: 8.5
+    architecture: 8.3
