@@ -3,7 +3,9 @@
 - [Worldwide v2](../../../rules.md) · [Future-country workflow](../../future-country-workflow.md)
 - Initial non-exhaustive editorial inventory. Web search excerpts and opened pages inspected 2026-11-25; no fully fact-checked records claimed. Peers are qualitative comparisons, not claims of inspected current peer YAML. Coordinates represent named features, not entrances. Current visitor permissions not guaranteed.
 
-### city-fm-kolonia — Kolonia (Pohnpei) — 2026-11-25
+- Current decisions use one canonical heading per destination ID; earlier text and sources are preserved in [review history](history-evidence-followup-2026-11-25.md).
+
+## city-fm-kolonia — Kolonia (Pohnpei) — 2026-11-25
 
 - YAML: [source](../../../countries/FM/cities/kolonia.yaml)
 - Action: new
@@ -16,30 +18,30 @@
 - https://www.pickmytrip.co.uk/micronesia
 - Missing or uncertain facts: Current public venue access and interpretation.
 
-#### Worldwide peer comparisons
+### Worldwide peer comparisons
 - Vienna (Austria): richer civic architecture
-- Bangkok (Thailand): more diverse food and culture
-- Kampot (Cambodia): comparable waterfront town with more activities
-- Koh Ker Village (Cambodia): stronger archaeology.
+- [Bangkok](../../../countries/TH/cities/bangkok.yaml) (Thailand): more diverse food and culture
+- [Kampot](../../../countries/KH/cities/kampot.yaml) (Cambodia): comparable waterfront town with more activities
+- [Koh Ker Village](../../../countries/KH/cities/koh-ker-village.yaml) (Cambodia): stronger archaeology.
 
-#### Scoring decisions
+### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
-| impact | 6.8 | Modest coastal streets |
-| uniqueness | 7.4 | distinctive island culture and colonial layers |
-| significance | 7.4 | regional civic history |
-| experience | 7.3 | local food and heritage stops |
-| depth | 6.9 | several town experiences but limited depth. |
+| Impact | 6.8 | Modest coastal streets |
+| Uniqueness | 7.4 | distinctive island culture and colonial layers |
+| Significance | 7.4 | regional civic history |
+| Experience | 7.3 | local food and heritage stops |
+| Depth | 6.9 | several town experiences but limited depth. |
 
 - Applicable categories: culture: 7.6, history: 7.8
-- Computed worldwide overall: 71.55/100
+- Overall: 71.55/100
 - High-score challenge: No 9.5+ fields or 90+ total.
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide editorial assessment.
 - Earlier decision: none.
 - Verification still needed: Current public venue access and interpretation.
 
-### city-fm-colonia — Colonia (Yap) — 2026-11-25
+## city-fm-colonia — Colonia (Yap) — 2026-11-25
 
 - YAML: [source](../../../countries/FM/cities/colonia.yaml)
 - Action: new
@@ -52,30 +54,30 @@
 - https://visityap.com/points_of_interest.php
 - Missing or uncertain facts: Further town-specific heritage inventory.
 
-#### Worldwide peer comparisons
-- Salzburg (Austria): richer architecture
-- Bangkok (Thailand): more activities
-- Kampot (Cambodia): greater town leisure
-- Koh Ker Village (Cambodia): more monumental archaeological setting.
+### Worldwide peer comparisons
+- [Salzburg](../../../countries/AT/cities/salzburg.yaml) (Austria): richer architecture
+- [Bangkok](../../../countries/TH/cities/bangkok.yaml) (Thailand): more activities
+- [Kampot](../../../countries/KH/cities/kampot.yaml) (Cambodia): greater town leisure
+- [Koh Ker Village](../../../countries/KH/cities/koh-ker-village.yaml) (Cambodia): more monumental archaeological setting.
 
-#### Scoring decisions
+### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
-| impact | 6.8 | Small harbor town |
-| uniqueness | 7.9 | distinctive Yapese material culture |
-| significance | 7.7 | regional administrative and cultural importance |
-| experience | 7.4 | museum and local life |
-| depth | 6.8 | few independent urban stops. |
+| Impact | 6.8 | Small harbor town |
+| Uniqueness | 7.9 | distinctive Yapese material culture |
+| Significance | 7.7 | regional administrative and cultural importance |
+| Experience | 7.4 | museum and local life |
+| Depth | 6.8 | few independent urban stops. |
 
 - Applicable categories: culture: 8.2, history: 7.7
-- Computed worldwide overall: 73.45/100
+- Overall: 73.45/100
 - High-score challenge: No 9.5+ fields or 90+ total.
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide editorial assessment.
 - Earlier decision: none.
 - Verification still needed: Further town-specific heritage inventory.
 
-### city-fm-lelu — Lelu Town — 2026-11-25
+## city-fm-lelu — Lelu Town — 2026-11-25
 
 - YAML: [source](../../../countries/FM/cities/lelu.yaml)
 - Action: new
@@ -88,30 +90,30 @@
 - https://mapcarta.com/20431676
 - Missing or uncertain facts: Modern settlement-specific activities and permissions.
 
-#### Worldwide peer comparisons
-- Salzburg (Austria): much greater urban architecture
-- Bangkok (Thailand): greater city activities
-- Kampot (Cambodia): broader leisure
-- Koh Ker Village (Cambodia): comparable historic settlement scale.
+### Worldwide peer comparisons
+- [Salzburg](../../../countries/AT/cities/salzburg.yaml) (Austria): much greater urban architecture
+- [Bangkok](../../../countries/TH/cities/bangkok.yaml) (Thailand): greater city activities
+- [Kampot](../../../countries/KH/cities/kampot.yaml) (Cambodia): broader leisure
+- [Koh Ker Village](../../../countries/KH/cities/koh-ker-village.yaml) (Cambodia): comparable historic settlement scale.
 
-#### Scoring decisions
+### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
-| impact | 6.7 | Low-rise island settlement |
-| uniqueness | 7.7 | distinctive basalt royal heritage context |
-| significance | 8.0 | regional political history |
-| experience | 7.0 | focused heritage-oriented visit |
-| depth | 6.5 | limited public sites outside ruins. |
+| Impact | 6.7 | Low-rise island settlement |
+| Uniqueness | 7.7 | distinctive basalt royal heritage context |
+| Significance | 8.0 | regional political history |
+| Experience | 7.0 | focused heritage-oriented visit |
+| Depth | 6.5 | limited public sites outside ruins. |
 
 - Applicable categories: history: 8.3, culture: 7.7
-- Computed worldwide overall: 72.35/100
+- Overall: 72.35/100
 - High-score challenge: No 9.5+ fields or 90+ total.
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide editorial assessment.
 - Earlier decision: none.
 - Verification still needed: Modern settlement-specific activities and permissions.
 
-### city-fm-palikir — Palikir — 2026-11-25
+## city-fm-palikir — Palikir — 2026-11-25
 
 - YAML: [source](../../../countries/FM/cities/palikir.yaml)
 - Action: new
@@ -123,100 +125,30 @@
 - https://visitingoceania.com/destinations/micronesia/pohnpei/
 - Missing or uncertain facts: Government campus visitor policy and public civic venues.
 
-#### Worldwide peer comparisons
+### Worldwide peer comparisons
 - Vienna (Austria): historic civic ceiling
 - Canberra (Australia): planned capital comparator
 - Brasilia (Brazil): distinctive civic design
-- Kampot (Cambodia): documented town-level visitor experience.
+- [Kampot](../../../countries/KH/cities/kampot.yaml) (Cambodia): documented town-level visitor experience.
 
-#### Scoring decisions
+### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
-| impact | null | Civic visual setting unknown |
-| uniqueness | null | planned capital character insufficiently documented |
-| significance | 7.0 | national institutional role |
-| experience | null | ordinary visitor access unknown |
-| depth | null | public exploration breadth unknown. |
+| Impact | null | Civic visual setting unknown |
+| Uniqueness | null | planned capital character insufficiently documented |
+| Significance | 7.0 | national institutional role |
+| Experience | null | ordinary visitor access unknown |
+| Depth | null | public exploration breadth unknown. |
 
 - Applicable categories: none assessed
-- Computed worldwide overall: unranked
+- Overall: unranked
 - High-score challenge: No 9.5+ fields or 90+ total.
 - Approved 10 registry: none.
 - Final decision: Retain without rank pending evidence.
 - Earlier decision: none.
 - Verification still needed: Government campus visitor policy and public civic venues.
 
-### city-fm-weno — Weno — 2026-11-25
-
-- YAML: [source](../../../countries/FM/cities/weno.yaml)
-- Action: new
-- Precise subject and limited factual context: Settlement rather than full island or lagoon. Chuuk hub.
-- Location: representative 7.44648, 151.84135; sources below, not an entrance.
-- Evidence status: unassessed
-- References consulted (page or search excerpt, 2026-11-25):
-- https://geodatakit.com/countries/micronesia
-- https://www.voykit.com/federated-states-of-micronesia
-- Missing or uncertain facts: Town-specific sources and settlement versus island boundary.
-
-#### Worldwide peer comparisons
-- Vienna (Austria): urban heritage ceiling
-- Bangkok (Thailand): activity breadth ceiling
-- Kampot (Cambodia): modest-town reference
-- Koh Ker Village (Cambodia): settlement heritage reference.
-
-#### Scoring decisions
-| Field | Rating | Rationale |
-| --- | ---: | --- |
-| impact | null | Settlement visual fabric unclear |
-| uniqueness | null | urban distinctiveness unverified |
-| significance | null | civic heritage unverified |
-| experience | null | gateway excursions excluded |
-| depth | null | town attractions not documented. |
-
-- Applicable categories: none assessed
-- Computed worldwide overall: unranked
-- High-score challenge: No 9.5+ fields or 90+ total.
-- Approved 10 registry: none.
-- Final decision: Retain without rank pending evidence.
-- Earlier decision: none.
-- Verification still needed: Town-specific sources and settlement versus island boundary.
-
-### city-fm-tofol — Tofol — 2026-11-25
-
-- YAML: [source](../../../countries/FM/cities/tofol.yaml)
-- Action: new
-- Precise subject and limited factual context: Settlement, not Kosrae island or neighboring Lelu ruins.
-- Location: representative 5.32479, 163.00781; sources below, not an entrance.
-- Evidence status: unassessed
-- References consulted (page or search excerpt, 2026-11-25):
-- https://geodatakit.com/countries/micronesia
-- https://www.voykit.com/federated-states-of-micronesia
-- Missing or uncertain facts: Local public and heritage venues.
-
-#### Worldwide peer comparisons
-- Salzburg (Austria): architecture ceiling
-- Bangkok (Thailand): activity breadth ceiling
-- Kampot (Cambodia): modest-town reference
-- Koh Ker Village (Cambodia): specific village heritage reference.
-
-#### Scoring decisions
-| Field | Rating | Rationale |
-| --- | ---: | --- |
-| impact | null | Local streetscape unverified |
-| uniqueness | null | built distinctiveness unknown |
-| significance | null | historical inventory lacking |
-| experience | null | local visitor activities not established |
-| depth | null | public exploration breadth unresolved. |
-
-- Applicable categories: none assessed
-- Computed worldwide overall: unranked
-- High-score challenge: No 9.5+ fields or 90+ total.
-- Approved 10 registry: none.
-- Final decision: Retain without rank pending evidence.
-- Earlier decision: none.
-- Verification still needed: Local public and heritage venues.
-
-### city-fm-weno — Weno — 2026-11-25 (evidence follow-up)
+## city-fm-weno — Weno — 2026-11-25 (evidence follow-up)
 
 - YAML: [source](../../../countries/FM/cities/weno.yaml)
 - Action: rescore
@@ -229,13 +161,13 @@
   - Tourism authority describes rentals and land-based exploration on Weno — https://www.visitchuuk.com/
 - Missing or uncertain facts: Assess settlement and its locally accessible cultural experiences, not whole island, remote mountain sights, or offshore wreck diving. Local village permission and exact settlement boundary need corroboration. All three references are from the same authority, so independent corroboration remains pending.
 
-#### Worldwide peer comparisons
-- Bangkok (Thailand): far greater urban culture and depth
-- Kampot (Cambodia): more developed town visitor offer
-- Koh Ker Village (Cambodia): stronger archaeological context
-- Colonia, Yap (Micronesia): more documented distinctive town-level cultural landmarks
+### Worldwide peer comparisons
+- [Bangkok](../../../countries/TH/cities/bangkok.yaml) (Thailand): far greater urban culture and depth
+- [Kampot](../../../countries/KH/cities/kampot.yaml) (Cambodia): more developed town visitor offer
+- [Koh Ker Village](../../../countries/KH/cities/koh-ker-village.yaml) (Cambodia): stronger archaeological context
+- [Colonia, Yap](../../../countries/FM/cities/colonia.yaml) (Micronesia): more documented distinctive town-level cultural landmarks
 
-#### Scoring decisions
+### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | Impact | null | 6.7 | Modest urban setting with local coastal and village landscape |
@@ -245,14 +177,14 @@
 | Depth | null | 6.5 | Several distinct local experiences, limited urban breadth without lagoon excursions |
 
 - Applicable category scores: none assessed (unchanged).
-- Computed worldwide overall: 69.25/100
+- Overall: 69.25/100
 - High-score challenge: no 9.5+ field or 90+ total.
 - Approved 10 registry: none.
 - Final decision: provisional worldwide town ranking on documented local visitor scope; not full factual verification.
-- Earlier decision: earlier entry for this ID, originally unranked.
+- Earlier decision: earlier entry for this ID, originally unranked. See [previous decision and sources](history-evidence-followup-2026-11-25.md).
 - Verification still needed: Assess settlement and its locally accessible cultural experiences, not whole island, remote mountain sights, or offshore wreck diving. Local village permission and exact settlement boundary need corroboration. All three references are from the same authority, so independent corroboration remains pending.
 
-### city-fm-tofol — Tofol — 2026-11-25 (evidence follow-up)
+## city-fm-tofol — Tofol — 2026-11-25 (evidence follow-up)
 
 - YAML: [source](../../../countries/FM/cities/tofol.yaml)
 - Action: rescore
@@ -265,13 +197,13 @@
   - Kosrae Department of Education locates public library in Tofol, confirming civic context, not a tourist attraction — https://kosrae.doe.fm/public-library/
 - Missing or uncertain facts: Town proper and its local museum only. Lelu ruins, waterfalls and other island excursions excluded; current museum hours and exact town point need confirmation.
 
-#### Worldwide peer comparisons
-- Kampot (Cambodia): much stronger urban variety
-- Koh Ker Village (Cambodia): more substantial archaeological setting
-- Salzburg (Austria): far greater historic urban fabric
-- Weno (Micronesia): more varied documented local visitor experiences
+### Worldwide peer comparisons
+- [Kampot](../../../countries/KH/cities/kampot.yaml) (Cambodia): much stronger urban variety
+- [Koh Ker Village](../../../countries/KH/cities/koh-ker-village.yaml) (Cambodia): more substantial archaeological setting
+- [Salzburg](../../../countries/AT/cities/salzburg.yaml) (Austria): far greater historic urban fabric
+- [Weno](../../../countries/FM/cities/weno.yaml) (Micronesia): more varied documented local visitor experiences
 
-#### Scoring decisions
+### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | Impact | null | 6.2 | Modest administrative settlement and local tropical setting |
@@ -281,13 +213,12 @@
 | Depth | null | 5.8 | Small settlement with limited independently documented visitor venues |
 
 - Applicable category scores: none assessed (unchanged).
-- Computed worldwide overall: 64.10/100
+- Overall: 64.10/100
 - High-score challenge: no 9.5+ field or 90+ total.
 - Approved 10 registry: none.
 - Final decision: provisional worldwide assessment based on documented local experiences, not complete factual verification.
-- Earlier decision: earlier entry for this ID, originally unranked.
+- Earlier decision: earlier entry for this ID, originally unranked. See [previous decision and sources](history-evidence-followup-2026-11-25.md).
 - Verification still needed: Town proper and its local museum only. Lelu ruins, waterfalls and other island excursions excluded; current museum hours and exact town point need confirmation.
-
 
 ## 2026-11-25 — Palikir evidence follow-up
 

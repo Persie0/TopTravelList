@@ -3,7 +3,9 @@
 - [Worldwide v2](../../../rules.md) · [Future-country workflow](../../future-country-workflow.md)
 - Initial non-exhaustive editorial inventory. Web search excerpts and opened pages inspected 2026-11-25; no fully fact-checked records claimed. Peers are qualitative comparisons, not claims of inspected current peer YAML. Coordinates represent named features, not entrances. Current visitor permissions not guaranteed.
 
-### sight-fm-nan-madol — Nan Madol: Ceremonial Centre of Eastern Micronesia — 2026-11-25
+- Current decisions use one canonical heading per destination ID; earlier text and sources are preserved in [review history](history-evidence-followup-2026-11-25.md).
+
+## sight-fm-nan-madol — Nan Madol: Ceremonial Centre of Eastern Micronesia — 2026-11-25
 
 - YAML: [source](../../../countries/FM/sights/nan-madol.yaml)
 - Action: new
@@ -17,30 +19,30 @@
 - https://whc.unesco.org/en/decisions/?id_decision=9016
 - Missing or uncertain facts: UNESCO retains World Heritage in Danger status. Check permissions, condition and visitor-center operation. Uniqueness, significance and history 9.5 justified by rare artificial-islet basalt ceremonial architecture and continuing cultural meaning.
 
-#### Worldwide peer comparisons
+### Worldwide peer comparisons
 - Angkor Archaeological Park (Cambodia): greater monumental and visitor scope
 - Venice (Italy): water-organized urban form, different history
 - Hohensalzburg Fortress (Austria): richer interpretation
 - Plain of Jars (Laos): different distributed monumental archaeology.
 
-#### Scoring decisions
+### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
-| impact | 9.2 | Massive basalt architecture amid tidal waterways |
-| uniqueness | 9.5 | rare artificial-islet ceremonial urban complex |
-| significance | 9.5 | major Pacific political and cultural heritage |
-| experience | 8.1 | exceptional but limited visitor interpretation |
-| depth | 8.7 | many structures and canals, not all accessible. |
+| Impact | 9.2 | Massive basalt architecture amid tidal waterways |
+| Uniqueness | 9.5 | rare artificial-islet ceremonial urban complex |
+| Significance | 9.5 | major Pacific political and cultural heritage |
+| Experience | 8.1 | exceptional but limited visitor interpretation |
+| Depth | 8.7 | many structures and canals, not all accessible. |
 
 - Applicable categories: history: 9.5, architecture: 9.3, culture: 9.2, photography: 9.0
-- Computed worldwide overall: 91.20/100
+- Overall: 91.20/100
 - High-score challenge: 9.5 uniqueness, significance and history: rare artificial-islet basalt architecture with continuing ceremonial traditions, unlike more extensive Angkor and differently constructed Venice. Overall exceeds 90 due to independently strong heritage dimensions. Visitor experience and depth remain below top benchmarks.
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide editorial assessment.
 - Earlier decision: none.
 - Verification still needed: UNESCO retains World Heritage in Danger status. Check permissions, condition and visitor-center operation. Uniqueness, significance and history 9.5 justified by rare artificial-islet basalt ceremonial architecture and continuing cultural meaning.
 
-### sight-fm-chuuk-lagoon — Chuuk Lagoon — 2026-11-25
+## sight-fm-chuuk-lagoon — Chuuk Lagoon — 2026-11-25
 
 - YAML: [source](../../../countries/FM/sights/chuuk-lagoon.yaml)
 - Action: new
@@ -51,30 +53,30 @@
 - https://visitingoceania.com/landmarks/chuuk-lagoon/
 - Missing or uncertain facts: Single guide source; corroborate heritage scope, conservation and operator access.
 
-#### Worldwide peer comparisons
+### Worldwide peer comparisons
 - Bikini Atoll (Marshall Islands): related submerged heritage, different history/access
 - Scapa Flow (United Kingdom): similar wreck-diving landscape
 - Great Barrier Reef (Australia): vastly broader natural reef
 - Richelieu Rock (Thailand): narrower reef-focused dive.
 
-#### Scoring decisions
+### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
-| impact | 9.1 | Memorable submerged landscape |
-| uniqueness | 9.3 | unusually concentrated historic wreck heritage |
-| significance | 8.9 | international Pacific maritime history |
-| experience | 9.1 | varied guided specialist experience |
-| depth | 9.2 | numerous distinct sites support repeat visits. |
+| Impact | 9.1 | Memorable submerged landscape |
+| Uniqueness | 9.3 | unusually concentrated historic wreck heritage |
+| Significance | 8.9 | international Pacific maritime history |
+| Experience | 9.1 | varied guided specialist experience |
+| Depth | 9.2 | numerous distinct sites support repeat visits. |
 
 - Applicable categories: history: 9.1, adventure: 9.3, wildlife: 8.1
-- Computed worldwide overall: 91.20/100
+- Overall: 91.20/100
 - High-score challenge: 90+ total reflects unusual concentration of submerged historic heritage and repeat specialist experience; compare Scapa Flow and Bikini; single guide evidence remains provisional.
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide editorial assessment.
 - Earlier decision: none.
 - Verification still needed: Single guide source; corroborate heritage scope, conservation and operator access.
 
-### sight-fm-lelu-ruins — Lelu Ruins — 2026-11-25
+## sight-fm-lelu-ruins — Lelu Ruins — 2026-11-25
 
 - YAML: [source](../../../countries/FM/sights/lelu-ruins.yaml)
 - Action: new
@@ -87,30 +89,30 @@
 - https://whc.unesco.org/en/decisions/6800
 - Missing or uncertain facts: Not inscribed; verify present conservation and permissions.
 
-#### Worldwide peer comparisons
+### Worldwide peer comparisons
 - Koh Ker (Cambodia): greater monumental breadth
 - Hohensalzburg Fortress (Austria): better public interpretation
 - Ha'amonga 'a Maui (Tonga): narrower Pacific stone monument
 - Plain of Jars (Laos): broader distributed heritage.
 
-#### Scoring decisions
+### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
-| impact | 8.2 | Substantial stone enclosures |
-| uniqueness | 8.8 | distinctive Micronesian royal architecture |
-| significance | 8.8 | major regional political evidence |
-| experience | 7.6 | focused visit with limited interpretation |
-| depth | 7.8 | multiple features but smaller scope than Nan Madol. |
+| Impact | 8.2 | Substantial stone enclosures |
+| Uniqueness | 8.8 | distinctive Micronesian royal architecture |
+| Significance | 8.8 | major regional political evidence |
+| Experience | 7.6 | focused visit with limited interpretation |
+| Depth | 7.8 | multiple features but smaller scope than Nan Madol. |
 
 - Applicable categories: history: 9.0, architecture: 8.6, culture: 8.5
-- Computed worldwide overall: 83.40/100
+- Overall: 83.40/100
 - High-score challenge: No 9.5+ fields or 90+ total.
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide editorial assessment.
 - Earlier decision: none.
 - Verification still needed: Not inscribed; verify present conservation and permissions.
 
-### sight-fm-mangyol-stone-money-bank — Mangyol Stone Money Bank — 2026-11-25
+## sight-fm-mangyol-stone-money-bank — Mangyol Stone Money Bank — 2026-11-25
 
 - YAML: [source](../../../countries/FM/sights/mangyol-stone-money-bank.yaml)
 - Action: new
@@ -122,30 +124,30 @@
 - https://www.pilgrimmap.com/site/mangyol-stone-money-bank-9b3462a1
 - Missing or uncertain facts: Tentative-list component only. Confirm customary access.
 
-#### Worldwide peer comparisons
+### Worldwide peer comparisons
 - Stonehenge (United Kingdom): greater monumental impact
 - Plain of Jars (Laos): wider archaeological landscape
 - Ha'amonga 'a Maui (Tonga): comparable regional stone heritage
 - Airai Bai (Palau): comparable customary civic heritage.
 
-#### Scoring decisions
+### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
-| impact | 7.6 | Striking stone disks |
-| uniqueness | 9.2 | rare customary monetary and ceremonial arrangement |
-| significance | 8.7 | important Pacific exchange history |
-| experience | 7.4 | focused cultural visit |
-| depth | 7.1 | limited physical extent. |
+| Impact | 7.6 | Striking stone disks |
+| Uniqueness | 9.2 | rare customary monetary and ceremonial arrangement |
+| Significance | 8.7 | important Pacific exchange history |
+| Experience | 7.4 | focused cultural visit |
+| Depth | 7.1 | limited physical extent. |
 
 - Applicable categories: history: 8.9, culture: 9.1
-- Computed worldwide overall: 81.40/100
+- Overall: 81.40/100
 - High-score challenge: No 9.5+ fields or 90+ total.
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide editorial assessment.
 - Earlier decision: none.
 - Verification still needed: Tentative-list component only. Confirm customary access.
 
-### sight-fm-taraang-island — Taraang (O'Keefe's Island) — 2026-11-25
+## sight-fm-taraang-island — Taraang (O'Keefe's Island) — 2026-11-25
 
 - YAML: [source](../../../countries/FM/sights/taraang-island.yaml)
 - Action: new
@@ -157,30 +159,30 @@
 - https://www.geonames.org/search.html?country=FM&q=&startRow=50
 - Missing or uncertain facts: Tentative-list component; historical picnic use does not establish current access.
 
-#### Worldwide peer comparisons
+### Worldwide peer comparisons
 - Robben Island (South Africa): much stronger interpreted heritage
 - Koh Ker (Cambodia): far greater monument scale
 - Likiep Village Historic District (Marshall Islands): similar trade context
 - Galle Fort (Sri Lanka): broader colonial built fabric.
 
-#### Scoring decisions
+### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
-| impact | 6.7 | Vegetated island with fragmentary remains |
-| uniqueness | 8.1 | distinctive trade context |
-| significance | 8.2 | regional monetary and contact history |
-| experience | null | ordinary current visit unconfirmed |
-| depth | null | accessible features and depth unknown. |
+| Impact | 6.7 | Vegetated island with fragmentary remains |
+| Uniqueness | 8.1 | distinctive trade context |
+| Significance | 8.2 | regional monetary and contact history |
+| Experience | null | ordinary current visit unconfirmed |
+| Depth | null | accessible features and depth unknown. |
 
 - Applicable categories: history: 8.5
-- Computed worldwide overall: unranked
+- Overall: unranked
 - High-score challenge: No 9.5+ fields or 90+ total.
 - Approved 10 registry: none.
 - Final decision: Retain without rank pending evidence.
 - Earlier decision: none.
 - Verification still needed: Tentative-list component; historical picnic use does not establish current access.
 
-### sight-fm-yap-living-history-museum — Yap Living History Museum — 2026-11-25
+## sight-fm-yap-living-history-museum — Yap Living History Museum — 2026-11-25
 
 - YAML: [source](../../../countries/FM/sights/yap-living-history-museum.yaml)
 - Action: new
@@ -192,30 +194,30 @@
 - https://mapcarta.com/W317348229
 - Missing or uncertain facts: Confirm hours and available demonstrations.
 
-#### Worldwide peer comparisons
+### Worldwide peer comparisons
 - National Museum of Korea (South Korea): broader collections
-- Kunsthistorisches Museum (Austria): greater art depth
+- [Kunsthistorisches Museum](../../../countries/AT/sights/kunsthistorisches-museum.yaml) (Austria): greater art depth
 - Sarawak Cultural Village (Malaysia): broader living ensemble
 - Alele Museum (Marshall Islands): comparable compact museum.
 
-#### Scoring decisions
+### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
-| impact | 7.3 | Traditional architectural setting |
-| uniqueness | 8.4 | specific Yapese living heritage |
-| significance | 7.9 | regional preservation role |
-| experience | 7.8 | focused cultural exploration |
-| depth | 7.3 | modest program breadth. |
+| Impact | 7.3 | Traditional architectural setting |
+| Uniqueness | 8.4 | specific Yapese living heritage |
+| Significance | 7.9 | regional preservation role |
+| Experience | 7.8 | focused cultural exploration |
+| Depth | 7.3 | modest program breadth. |
 
 - Applicable categories: culture: 8.7, history: 8.1, architecture: 7.8
-- Computed worldwide overall: 77.70/100
+- Overall: 77.70/100
 - High-score challenge: No 9.5+ fields or 90+ total.
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide editorial assessment.
 - Earlier decision: none.
 - Verification still needed: Confirm hours and available demonstrations.
 
-### sight-fm-sokehs-rock — Sokehs Rock — 2026-11-25
+## sight-fm-sokehs-rock — Sokehs Rock — 2026-11-25
 
 - YAML: [source](../../../countries/FM/sights/sokehs-rock.yaml)
 - Action: new
@@ -227,30 +229,30 @@
 - https://visitingoceania.com/destinations/micronesia/pohnpei/
 - Missing or uncertain facts: Verify permitted trails and local conditions.
 
-#### Worldwide peer comparisons
+### Worldwide peer comparisons
 - Table Mountain (South Africa): far greater scale
 - Diamond Head (United States): stronger volcanic morphology
 - Mount Faber (Singapore): comparable urban-adjacent viewpoint
 - Railay Beach (Thailand): more varied coastal karst.
 
-#### Scoring decisions
+### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
-| impact | 8.2 | Dramatic outcrop and lagoon views |
-| uniqueness | 7.5 | distinctive local but globally substitutable cliff |
-| significance | 6.6 | local geological interest |
-| experience | 7.9 | focused hike |
-| depth | 7.0 | single summit scope. |
+| Impact | 8.2 | Dramatic outcrop and lagoon views |
+| Uniqueness | 7.5 | distinctive local but globally substitutable cliff |
+| Significance | 6.6 | local geological interest |
+| Experience | 7.9 | focused hike |
+| Depth | 7.0 | single summit scope. |
 
 - Applicable categories: nature: 8.2, adventure: 8.0, photography: 8.5
-- Computed worldwide overall: 75.40/100
+- Overall: 75.40/100
 - High-score challenge: No 9.5+ fields or 90+ total.
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide editorial assessment.
 - Earlier decision: none.
 - Verification still needed: Verify permitted trails and local conditions.
 
-### sight-fm-kepirohi-waterfall — Kepirohi Waterfall — 2026-11-25
+## sight-fm-kepirohi-waterfall — Kepirohi Waterfall — 2026-11-25
 
 - YAML: [source](../../../countries/FM/sights/kepirohi-waterfall.yaml)
 - Action: new
@@ -262,30 +264,30 @@
 - https://visitingoceania.com/destinations/micronesia/pohnpei/
 - Missing or uncertain facts: Corroborate guide point and current access.
 
-#### Worldwide peer comparisons
+### Worldwide peer comparisons
 - Iguazu Falls (Argentina/Brazil): vastly greater scale
 - Kuang Si Falls (Laos): more layered pools
 - Erawan Falls (Thailand): greater multi-tier experience
 - Afu A'au Waterfall (Samoa): close compact tropical comparator.
 
-#### Scoring decisions
+### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
-| impact | 8.0 | Broad forest cascade |
-| uniqueness | 7.3 | comparable basalt falls globally |
-| significance | 6.5 | local geomorphology |
-| experience | 8.1 | focused viewing and permitted pool visit |
-| depth | 6.8 | limited single-feature exploration. |
+| Impact | 8.0 | Broad forest cascade |
+| Uniqueness | 7.3 | comparable basalt falls globally |
+| Significance | 6.5 | local geomorphology |
+| Experience | 8.1 | focused viewing and permitted pool visit |
+| Depth | 6.8 | limited single-feature exploration. |
 
 - Applicable categories: nature: 8.2, photography: 8.0
-- Computed worldwide overall: 74.20/100
+- Overall: 74.20/100
 - High-score challenge: No 9.5+ fields or 90+ total.
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide editorial assessment.
 - Earlier decision: none.
 - Verification still needed: Corroborate guide point and current access.
 
-### sight-fm-spanish-wall — Spanish Wall — 2026-11-25
+## sight-fm-spanish-wall — Spanish Wall — 2026-11-25
 
 - YAML: [source](../../../countries/FM/sights/spanish-wall.yaml)
 - Action: new
@@ -297,30 +299,30 @@
 - https://en.wikipedia.org/wiki/Spanish_Wall
 - Missing or uncertain facts: Confirm present condition and public interpretation.
 
-#### Worldwide peer comparisons
+### Worldwide peer comparisons
 - Hohensalzburg Fortress (Austria): far more intact
 - Fort Santiago (Philippines): broader built history
 - Galle Fort (Sri Lanka): extensive preserved ensemble
 - Fort Cornwallis (Malaysia): more substantial remains.
 
-#### Scoring decisions
+### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
-| impact | 6.3 | Modest masonry |
-| uniqueness | 6.8 | colonial wall fragment |
-| significance | 7.5 | regional Spanish history |
-| experience | 6.4 | short exterior stop |
-| depth | 5.6 | limited surviving fabric. |
+| Impact | 6.3 | Modest masonry |
+| Uniqueness | 6.8 | colonial wall fragment |
+| Significance | 7.5 | regional Spanish history |
+| Experience | 6.4 | short exterior stop |
+| Depth | 5.6 | limited surviving fabric. |
 
 - Applicable categories: history: 7.9
-- Computed worldwide overall: 66.10/100
+- Overall: 66.10/100
 - High-score challenge: No 9.5+ fields or 90+ total.
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide editorial assessment.
 - Earlier decision: none.
 - Verification still needed: Confirm present condition and public interpretation.
 
-### sight-fm-rull-mens-meetinghouse — Rull Men's Meetinghouse — 2026-11-25
+## sight-fm-rull-mens-meetinghouse — Rull Men's Meetinghouse — 2026-11-25
 
 - YAML: [source](../../../countries/FM/sights/rull-mens-meetinghouse.yaml)
 - Action: new
@@ -333,39 +335,30 @@
 - https://ipfs.ssi.eecc.de/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/wiki/National_Register_of_Historic_Places_listings_in_the_Federated_States_of_Micronesia.html
 - Missing or uncertain facts: Confirm permission and exact heritage coordinate.
 
-#### Worldwide peer comparisons
+### Worldwide peer comparisons
 - Airai Bai (Palau): close customary building
 - Hahoe Folk Village (South Korea): broader vernacular ensemble
 - Hoi An Ancient Town (Vietnam): greater built breadth
 - Kampong Ayer (Brunei): different living settlement heritage.
 
-#### Scoring decisions
+### Scoring decisions
 | Field | Rating | Rationale |
 | --- | ---: | --- |
-| impact | 7.3 | Notable raised structure |
-| uniqueness | 8.5 | distinct customary architecture |
-| significance | 8.2 | regional social heritage |
-| experience | null | permitted public visits unresolved |
-| depth | null | accessible interpretation unknown. |
+| Impact | 7.3 | Notable raised structure |
+| Uniqueness | 8.5 | distinct customary architecture |
+| Significance | 8.2 | regional social heritage |
+| Experience | null | permitted public visits unresolved |
+| Depth | null | accessible interpretation unknown. |
 
 - Applicable categories: architecture: 8.4, culture: 8.6
-- Computed worldwide overall: unranked
+- Overall: unranked
 - High-score challenge: No 9.5+ fields or 90+ total.
 - Approved 10 registry: none.
 - Final decision: Retain without rank pending evidence.
 - Earlier decision: none.
 - Verification still needed: Confirm permission and exact heritage coordinate.
 
-
-
-## 2026-11-25 — incomplete cultural sites follow-up
-
-- **Rull Men's Meetinghouse:** US National Park Service register confirms specific historic building and architectural/social significance (https://npgallery.nps.gov/AssetDetail/NRIS/76002214). Yap Visitor Bureau explains customary restrictions on faluw (https://visityap.com/points_of_interest.php). Generic island cultural tours cannot establish permission to enter this exact building; retain null experience/depth. Do not conflate museum replica and original meetinghouse.
-- **Taraang (O'Keefe's Island):** UNESCO tentative description confirms historic archaeological remains and O'Keefe's trading history (https://whc.unesco.org/en/tentativelists/1994). No reliable routine authorized island visit established; retain null experience/depth. Tentative listing is not inscription.
-
-These pages were inspected 2026-11-25; no unsupported visitor ratings added.
-
-### sight-fm-ahnd-atoll — Ahnd Atoll (Ant Atoll) — 2026-11-25
+## sight-fm-ahnd-atoll — Ahnd Atoll (Ant Atoll) — 2026-11-25
 
 - YAML: [source](../../../countries/FM/sights/ahnd-atoll.yaml)
 - Action: new
@@ -378,13 +371,13 @@ These pages were inspected 2026-11-25; no unsupported visitor ratings added.
   - SPREP regional protected-area directory lists And Atoll as a UNESCO-MAB biosphere reserve — https://www.pipap.sprep.org/country/fm (indexed excerpt).
 - Missing or uncertain facts: No guaranteed reef condition, wildlife encounter or landing permission. Coordinate and current access arrangements need corroboration.
 
-#### Worldwide peer comparisons
-- Sipadan Island Reefs (Malaysia), 9.5/9.6/9.1/9.5/8.9: stronger global underwater benchmark.
-- Ang Thong National Marine Park (Thailand), 9.0/9.0/8.6/9.1/8.9: greater varied limestone-island exploration.
-- Cham Islands (Vietnam), 8.8/9.0/8.4/9.0/8.7: comparable marine recreation, different cultural and ecological strengths.
-- Perhentian Islands (Malaysia), 9.0/8.8/7.7/9.2/8.9: stronger established beach recreation, less distinctive conservation significance.
+### Worldwide peer comparisons
+- [Sipadan Island Reefs](../../../countries/MY/sights/sipadan-island-reefs.yaml) (Malaysia), 9.5/9.6/9.1/9.5/8.9: stronger global underwater benchmark.
+- [Ang Thong National Marine Park](../../../countries/TH/sights/ang-thong-national-marine-park.yaml) (Thailand), 9.0/9.0/8.6/9.1/8.9: greater varied limestone-island exploration.
+- [Cham Islands](../../../countries/VN/sights/cham-islands.yaml) (Vietnam), 8.8/9.0/8.4/9.0/8.7: comparable marine recreation, different cultural and ecological strengths.
+- [Perhentian Islands](../../../countries/MY/sights/perhentian-islands.yaml) (Malaysia), 9.0/8.8/7.7/9.2/8.9: stronger established beach recreation, less distinctive conservation significance.
 
-#### Scoring decisions
+### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | Impact | — | 8.9 | Striking lagoon, sandbars and reef scenery, below globally exceptional underwater benchmarks. |
@@ -394,15 +387,14 @@ These pages were inspected 2026-11-25; no unsupported visitor ratings added.
 | Depth | — | 8.5 | Lagoon, reef and beach exploration offer varied activities, but narrower than extensive multi-island parks. |
 
 - Applicable category scores: nature 9.2, wildlife 9.2, beaches 8.9, adventure 8.9; provisional, component-specific.
-- Computed worldwide overall: 88.40/100
+- Overall: 88.40/100
 - High-score challenge: no 9.5+ fields or 90+ total.
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide v2 rating for documented visitor scope with actual branch YAML peers.
 - Earlier decision: none.
 - Verification still needed: No guaranteed reef condition, wildlife encounter or landing permission. Coordinate and current access arrangements need corroboration. Canonical global validation and diagnostics remain outstanding.
 
-
-### sight-fm-utwe-walung-marine-park — Utwe-Walung Marine Park — 2026-11-25
+## sight-fm-utwe-walung-marine-park — Utwe-Walung Marine Park — 2026-11-25
 
 - YAML: [source](../../../countries/FM/sights/utwe-walung-marine-park.yaml)
 - Action: new
@@ -415,13 +407,13 @@ These pages were inspected 2026-11-25; no unsupported visitor ratings added.
   - UNESCO describes the Utwe biosphere reserve's forest, wetland and marine habitats — https://www.unesco.org/en/node/232001 (indexed excerpt only; direct fetch timed out).
 - Missing or uncertain facts: Exact protected-area boundary and office coordinate need corroboration. UNESCO direct page timed out; its indexed excerpt supports context only.
 
-#### Worldwide peer comparisons
-- Kinabatangan Wildlife Sanctuary (Malaysia), 9.2/9.4/9.2/9.2/9.0: stronger established river wildlife encounters.
-- Tonle Sap Lake (Cambodia), 9.0/9.2/9.5/8.8/9.2: larger freshwater ecosystem and cultural breadth.
-- Neusiedler See–Seewinkel National Park (Austria), 8.5/8.8/9.2/8.7/8.8: comparable wetland conservation but different habitat and visitor emphasis.
-- Cham Islands (Vietnam), 8.8/9.0/8.4/9.0/8.7: more pronounced island and beach scenery.
+### Worldwide peer comparisons
+- [Kinabatangan Wildlife Sanctuary](../../../countries/MY/sights/kinabatangan-wildlife-sanctuary.yaml) (Malaysia), 9.2/9.4/9.2/9.2/9.0: stronger established river wildlife encounters.
+- [Tonle Sap Lake](../../../countries/KH/sights/tonle-sap-lake.yaml) (Cambodia), 9.0/9.2/9.5/8.8/9.2: larger freshwater ecosystem and cultural breadth.
+- [Neusiedler See–Seewinkel National Park](../../../countries/AT/sights/neusiedler-see-seewinkel-national-park.yaml) (Austria), 8.5/8.8/9.2/8.7/8.8: comparable wetland conservation but different habitat and visitor emphasis.
+- [Cham Islands](../../../countries/VN/sights/cham-islands.yaml) (Vietnam), 8.8/9.0/8.4/9.0/8.7: more pronounced island and beach scenery.
 
-#### Scoring decisions
+### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
 | Impact | — | 8.3 | Scenic sheltered mangrove waterways and reef coast, less visually dramatic than leading tropical islands. |
@@ -431,10 +423,16 @@ These pages were inspected 2026-11-25; no unsupported visitor ratings added.
 | Depth | — | 8.5 | Several connected habitat and activity types, but no assumption of access to the whole biosphere reserve. |
 
 - Applicable category scores: nature 9.0, wildlife 8.7, adventure 8.6; provisional, component-specific.
-- Computed worldwide overall: 85.70/100
+- Overall: 85.70/100
 - High-score challenge: no 9.5+ fields or 90+ total.
 - Approved 10 registry: none.
 - Final decision: Provisional worldwide v2 rating for documented visitor scope with actual branch YAML peers.
 - Earlier decision: none.
 - Verification still needed: Exact protected-area boundary and office coordinate need corroboration. UNESCO direct page timed out; its indexed excerpt supports context only. Canonical global validation and diagnostics remain outstanding.
 
+## 2026-11-25 — incomplete cultural sites follow-up
+
+- **Rull Men's Meetinghouse:** US National Park Service register confirms specific historic building and architectural/social significance (https://npgallery.nps.gov/AssetDetail/NRIS/76002214). Yap Visitor Bureau explains customary restrictions on faluw (https://visityap.com/points_of_interest.php). Generic island cultural tours cannot establish permission to enter this exact building; retain null experience/depth. Do not conflate museum replica and original meetinghouse.
+- **Taraang (O'Keefe's Island):** UNESCO tentative description confirms historic archaeological remains and O'Keefe's trading history (https://whc.unesco.org/en/tentativelists/1994). No reliable routine authorized island visit established; retain null experience/depth. Tentative listing is not inscription.
+
+These pages were inspected 2026-11-25; no unsupported visitor ratings added.
