@@ -1,0 +1,15 @@
+id: city-bj-boukombe
+name: "Boukombé"
+location:
+  country_code: BJ
+  latitude: 10.1750
+  longitude: 1.1050
+scores:
+  impact: null
+  uniqueness: null
+  significance: 7.8
+  experience: null
+  depth: null
+  categories:
+    culture: 8.7
+    history: 8.2

@@ -1,0 +1,16 @@
+id: sight-ve-los-llanos-wildlife-landscape
+name: "Los Llanos Wildlife Landscape"
+location:
+  country_code: VE
+  latitude: 7.6500
+  longitude: -68.0000
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 8.6
+  experience: 8.6
+  depth: 8.8
+  categories:
+    wildlife: 9.5
+    nature: 9.3
+    photography: 9.2

@@ -1,0 +1,16 @@
+id: sight-bo-noel-kempff-mercado-national-park
+name: "Noel Kempff Mercado National Park"
+location:
+  country_code: BO
+  latitude: -14.3500
+  longitude: -60.8333
+scores:
+  impact: 9.3
+  uniqueness: 9.3
+  significance: 9.6
+  experience: 7.8
+  depth: 9.1
+  categories:
+    nature: 9.6
+    wildlife: 9.6
+    photography: 9.3

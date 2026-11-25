@@ -1,0 +1,15 @@
+id: city-sr-meerzorg
+name: "Meerzorg"
+location:
+  country_code: SR
+  latitude: 5.8167
+  longitude: -55.1667
+scores:
+  impact: 6.0
+  uniqueness: 6.4
+  significance: 6.2
+  experience: 6.8
+  depth: 6.3
+  categories:
+    food: 7.2
+    culture: 7.0

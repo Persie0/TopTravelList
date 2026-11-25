@@ -1,0 +1,16 @@
+id: sight-ar-monte-leon-national-park
+name: "Monte León National Park"
+location:
+  country_code: AR
+  latitude: -50.2000
+  longitude: -68.9500
+scores:
+  impact: 8.5
+  uniqueness: 8.5
+  significance: 8.5
+  experience: 8.1
+  depth: 7.9
+  categories:
+    wildlife: 9.2
+    nature: 9.1
+    photography: 9.0

@@ -1,0 +1,15 @@
+id: city-bo-villazon
+name: "Villazón"
+location:
+  country_code: BO
+  latitude: -22.0866
+  longitude: -65.5942
+scores:
+  impact: 5.9
+  uniqueness: 6.6
+  significance: 6.3
+  experience: 6.8
+  depth: 6.2
+  categories:
+    food: 7.2
+    culture: 7.1

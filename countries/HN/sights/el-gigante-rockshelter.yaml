@@ -1,0 +1,14 @@
+id: sight-hn-el-gigante-rockshelter
+name: "El Gigante Rockshelter"
+location:
+  country_code: HN
+  latitude: 14.1420
+  longitude: -88.0340
+scores:
+  impact: null
+  uniqueness: 8.9
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    history: 9.3

@@ -1,0 +1,15 @@
+id: sight-tg-togoville-chief-s-museum
+name: "Togoville Chief's Museum"
+location:
+  country_code: TG
+  latitude: 6.2300
+  longitude: 1.4730
+scores:
+  impact: 6.5
+  uniqueness: 8.0
+  significance: 8.4
+  experience: 7.6
+  depth: 6.1
+  categories:
+    history: 8.8
+    culture: 8.7

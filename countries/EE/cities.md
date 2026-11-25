@@ -2,19 +2,33 @@
 
 # Estonia (EE) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**15 ranked** · **0 unassessed** · **15 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
 This is the **complete ranking for this country's available dataset**, using absolute worldwide scores, **not country-relative scores**. Overall scores are out of 100; category scores are out of 10 and shown highest first (the top three are bold). Types are inferred from names, not separately verified.
 
-**Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, or click its GPS coordinates to open **Google Maps**. Locations are approximate representative points, not necessarily entrance coordinates.
+**Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (15)
 
-No cities, towns & villages have been assessed for **Estonia** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Tallinn](cities/tallinn.yaml) | City / town | **89.95** | **Architecture 9.4**, **History 9.1**, **Culture 9.0** | 9.0 / 9.0 / 8.9 / 9.1 / 9.0 | [59.437, 24.7536](https://www.google.com/maps/search/?api=1&query=59.437,24.7536) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tallinn%2C%20Estonia) |
+| 2 | [Tartu](cities/tartu.yaml) | City / town | **82.10** | **Culture 8.8**, **History 8.5**, **Architecture 8.2** | 8.0 / 8.1 / 8.4 / 8.5 / 8.3 | [58.378, 26.729](https://www.google.com/maps/search/?api=1&query=58.378,26.729) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tartu%2C%20Estonia) |
+| 3 | [Kuressaare](cities/kuressaare.yaml) | City / town | **80.80** | **Relaxation 8.7**, **Architecture 8.5**, **History 8.3** | 8.1 / 8.2 / 7.9 / 8.4 / 7.6 | [58.253, 22.486](https://www.google.com/maps/search/?api=1&query=58.253,22.486) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kuressaare%2C%20Estonia) |
+| 4 | [Narva](cities/narva.yaml) | City / town | **80.40** | **History 8.7**, **Culture 8.0**, **Architecture 7.7** | 7.7 / 8.4 / 8.4 / 7.8 / 7.8 | [59.379, 28.19](https://www.google.com/maps/search/?api=1&query=59.379,28.19) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Narva%2C%20Estonia) |
+| 5 | [Haapsalu](cities/haapsalu.yaml) | City / town | **79.95** | **Relaxation 8.8**, **Photography 8.5**, **Architecture 8.4** | 8.0 / 8.1 / 7.8 / 8.4 / 7.5 | [58.943, 23.541](https://www.google.com/maps/search/?api=1&query=58.943,23.541) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Haapsalu%2C%20Estonia) |
+| 6 | [Pärnu](cities/parnu.yaml) | City / town | **79.25** | **Relaxation 8.8**, **Beaches 8.5**, **Architecture 8.1** | 7.9 / 7.7 / 7.7 / 8.6 / 8.0 | [58.385, 24.497](https://www.google.com/maps/search/?api=1&query=58.385,24.497) | [Google Maps](https://www.google.com/maps/search/?api=1&query=P%C3%A4rnu%2C%20Estonia) |
+| 7 | [Viljandi](cities/viljandi.yaml) | City / town | **79.10** | **Culture 8.5**, **Photography 8.4**, **History 8.1** | 7.9 / 8.0 / 7.8 / 8.2 / 7.5 | [58.363, 25.59](https://www.google.com/maps/search/?api=1&query=58.363,25.59) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Viljandi%2C%20Estonia) |
+| 8 | [Otepää](cities/otepaa.yaml) | City / town | **74.15** | **Adventure 8.2**, **Relaxation 8.0** | 7.3 / 7.5 / 7.2 / 8.0 / 7.1 | [58.058, 26.497](https://www.google.com/maps/search/?api=1&query=58.058,26.497) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Otep%C3%A4%C3%A4%2C%20Estonia) |
+| 9 | [Rakvere](cities/rakvere.yaml) | City / town | **73.55** | **History 7.9**, **Culture 7.6** | 7.2 / 7.3 / 7.4 / 7.8 / 7.2 | [59.347, 26.355](https://www.google.com/maps/search/?api=1&query=59.347,26.355) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Rakvere%2C%20Estonia) |
+| 10 | [Narva-Jõesuu](cities/narva-joesuu.yaml) | City / town | **73.45** | **Beaches 8.5**, **Relaxation 8.4** | 7.4 / 7.3 / 7.0 / 8.0 / 7.0 | [59.46, 28.04](https://www.google.com/maps/search/?api=1&query=59.46,28.04) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Narva-J%C3%B5esuu%2C%20Estonia) |
+| 11 | [Valga](cities/valga.yaml) | City / town | **73.40** | **History 7.8**, **Culture 7.5** | 6.9 / 7.8 / 7.5 / 7.4 / 7.1 | [57.776, 26.031](https://www.google.com/maps/search/?api=1&query=57.776,26.031) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Valga%2C%20Estonia) |
+| 12 | [Võru](cities/voru.yaml) | City / town | **72.80** | **Culture 7.8**, **Relaxation 7.8** | 7.1 / 7.3 / 7.3 / 7.7 / 7.1 | [57.842, 27](https://www.google.com/maps/search/?api=1&query=57.842,27) | [Google Maps](https://www.google.com/maps/search/?api=1&query=V%C3%B5ru%2C%20Estonia) |
+| 13 | [Paldiski](cities/paldiski.yaml) | City / town | **72.15** | **History 8.0**, **Photography 7.5** | 6.9 / 7.6 / 7.5 / 7.1 / 6.8 | [59.35, 24.05](https://www.google.com/maps/search/?api=1&query=59.35,24.05) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Paldiski%2C%20Estonia) |
+| 14 | [Kärdla](cities/kardla.yaml) | City / town | **72.10** | **Relaxation 8.0**, **Architecture 7.4** | 7.1 / 7.4 / 7.0 / 7.6 / 6.9 | [58.997, 22.749](https://www.google.com/maps/search/?api=1&query=58.997,22.749) | [Google Maps](https://www.google.com/maps/search/?api=1&query=K%C3%A4rdla%2C%20Estonia) |
+| 15 | [Paide](cities/paide.yaml) | City / town | **71.00** | **History 7.8**, **Architecture 7.4** | 6.9 / 7.0 / 7.4 / 7.4 / 6.9 | [58.885, 25.557](https://www.google.com/maps/search/?api=1&query=58.885,25.557) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Paide%2C%20Estonia) |
 
 ---
 

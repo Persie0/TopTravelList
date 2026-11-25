@@ -1,0 +1,15 @@
+id: sight-om-ancient-city-of-qalhat
+name: "Ancient City of Qalhat"
+location:
+  country_code: OM
+  latitude: 22.695
+  longitude: 59.372
+scores:
+  impact: 7.7
+  uniqueness: 8.6
+  significance: 9.3
+  experience: 7.6
+  depth: 7.7
+  categories:
+    history: 9.4
+    architecture: 8.2

@@ -1,0 +1,15 @@
+id: city-uy-chuy
+name: "Chuy"
+location:
+  country_code: UY
+  latitude: -33.6970
+  longitude: -53.4560
+scores:
+  impact: 6.5
+  uniqueness: 7.6
+  significance: 6.5
+  experience: 7.3
+  depth: 6.6
+  categories:
+    culture: 7.8
+    food: 7.3

@@ -1,0 +1,16 @@
+id: sight-ar-patagonia-national-park-santa-cruz
+name: "Patagonia National Park (Santa Cruz)"
+location:
+  country_code: AR
+  latitude: -47.0000
+  longitude: -71.1500
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 8.7
+  experience: 8.3
+  depth: 8.5
+  categories:
+    nature: 9.3
+    wildlife: 9.1
+    adventure: 8.8

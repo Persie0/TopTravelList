@@ -1,0 +1,16 @@
+id: city-py-fuerte-olimpo
+name: "Fuerte Olimpo"
+location:
+  country_code: PY
+  latitude: -21.0389
+  longitude: -57.8736
+scores:
+  impact: 7.3
+  uniqueness: 7.7
+  significance: 7.5
+  experience: 7.2
+  depth: 6.3
+  categories:
+    photography: 8.2
+    history: 7.9
+    culture: 7.6

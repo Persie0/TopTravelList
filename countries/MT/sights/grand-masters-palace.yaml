@@ -1,0 +1,16 @@
+id: sight-mt-grand-masters-palace
+name: "Grand Master's Palace"
+location:
+  country_code: MT
+  latitude: 35.8980
+  longitude: 14.5142
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 9.1
+  experience: 8.7
+  depth: 8.5
+  categories:
+    architecture: 9.2
+    history: 9.4
+    culture: 9.1

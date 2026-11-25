@@ -1,0 +1,16 @@
+id: sight-om-oman-across-ages-museum
+name: "Oman Across Ages Museum"
+location:
+  country_code: OM
+  latitude: 22.792
+  longitude: 57.515
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 8.4
+  experience: 9.0
+  depth: 8.8
+  categories:
+    architecture: 9.1
+    history: 8.9
+    family: 8.9

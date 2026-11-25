@@ -1,0 +1,15 @@
+id: city-ve-barquisimeto
+name: "Barquisimeto"
+location:
+  country_code: VE
+  latitude: 10.0678
+  longitude: -69.3474
+scores:
+  impact: 7.0
+  uniqueness: 7.4
+  significance: 7.4
+  experience: 7.6
+  depth: 7.5
+  categories:
+    culture: 8.3
+    food: 8.0

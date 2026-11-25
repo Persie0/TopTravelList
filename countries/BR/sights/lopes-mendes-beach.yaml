@@ -1,0 +1,16 @@
+id: sight-br-lopes-mendes-beach
+name: "Lopes Mendes Beach"
+location:
+  country_code: BR
+  latitude: -23.1800
+  longitude: -44.1500
+scores:
+  impact: 8.9
+  uniqueness: 8.4
+  significance: 6.5
+  experience: 8.9
+  depth: 7.5
+  categories:
+    beaches: 9.5
+    relaxation: 9.3
+    photography: 9.2

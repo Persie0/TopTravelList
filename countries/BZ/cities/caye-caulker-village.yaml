@@ -1,0 +1,16 @@
+id: city-bz-caye-caulker-village
+name: "Caye Caulker Village"
+location:
+  country_code: BZ
+  latitude: 17.7450
+  longitude: -88.0240
+scores:
+  impact: 8.2
+  uniqueness: 8.4
+  significance: 6.8
+  experience: 8.6
+  depth: 7.3
+  categories:
+    relaxation: 8.9
+    food: 8.1
+    beaches: 8.0

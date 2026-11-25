@@ -1,0 +1,18 @@
+id: city-uy-montevideo
+name: "Montevideo"
+location:
+  country_code: UY
+  latitude: -34.9059
+  longitude: -56.1914
+scores:
+  impact: 8.5
+  uniqueness: 8.4
+  significance: 8.6
+  experience: 8.7
+  depth: 8.8
+  categories:
+    architecture: 8.7
+    history: 8.5
+    culture: 9.0
+    food: 8.7
+    nightlife: 8.5

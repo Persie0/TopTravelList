@@ -1,0 +1,16 @@
+id: sight-ee-rakvere-castle
+name: "Rakvere Castle"
+location:
+  country_code: EE
+  latitude: 59.346
+  longitude: 26.349
+scores:
+  impact: 7.9
+  uniqueness: 7.9
+  significance: 8.0
+  experience: 8.5
+  depth: 7.9
+  categories:
+    history: 8.5
+    architecture: 8.2
+    family: 8.7

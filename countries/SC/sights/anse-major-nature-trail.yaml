@@ -1,0 +1,16 @@
+id: sight-sc-anse-major-nature-trail
+name: "Anse Major Nature Trail"
+location:
+  country_code: SC
+  latitude: -4.6200
+  longitude: 55.4040
+scores:
+  impact: 8.7
+  uniqueness: 8.4
+  significance: 6.7
+  experience: 8.7
+  depth: 7.5
+  categories:
+    adventure: 8.7
+    photography: 9.0
+    nature: 8.6

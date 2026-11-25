@@ -1,0 +1,16 @@
+id: sight-md-chateau-purcari-estate
+name: "Château Purcari Estate"
+location:
+  country_code: MD
+  latitude: 46.5453
+  longitude: 29.8590
+scores:
+  impact: 7.9
+  uniqueness: 8.0
+  significance: 8.4
+  experience: 8.5
+  depth: 7.7
+  categories:
+    food: 9.0
+    history: 8.7
+    culture: 8.6

@@ -1,0 +1,16 @@
+id: sight-pe-huacachina-oasis-and-dunes
+name: "Huacachina Oasis and Dunes"
+location:
+  country_code: PE
+  latitude: -14.0875
+  longitude: -75.7633
+scores:
+  impact: 8.9
+  uniqueness: 8.7
+  significance: 7.0
+  experience: 8.8
+  depth: 7.6
+  categories:
+    photography: 9.4
+    adventure: 9.0
+    nature: 8.6

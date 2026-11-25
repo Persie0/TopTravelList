@@ -1,0 +1,16 @@
+id: sight-ar-los-alerces-national-park
+name: "Los Alerces National Park"
+location:
+  country_code: AR
+  latitude: -42.8500
+  longitude: -71.8667
+scores:
+  impact: 9.1
+  uniqueness: 8.9
+  significance: 9.4
+  experience: 8.8
+  depth: 8.8
+  categories:
+    nature: 9.5
+    wildlife: 9.0
+    photography: 9.4

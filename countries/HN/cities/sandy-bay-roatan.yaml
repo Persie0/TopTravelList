@@ -1,0 +1,15 @@
+id: city-hn-sandy-bay-roatan
+name: "Sandy Bay (Roatán)"
+location:
+  country_code: HN
+  latitude: 16.3290
+  longitude: -86.5710
+scores:
+  impact: 7.0
+  uniqueness: 7.3
+  significance: 6.8
+  experience: 7.6
+  depth: 6.7
+  categories:
+    relaxation: 7.9
+    culture: 7.5

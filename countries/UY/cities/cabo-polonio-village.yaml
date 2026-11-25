@@ -1,0 +1,16 @@
+id: city-uy-cabo-polonio-village
+name: "Cabo Polonio Village"
+location:
+  country_code: UY
+  latitude: -34.4047
+  longitude: -53.7815
+scores:
+  impact: 8.2
+  uniqueness: 8.8
+  significance: 7.2
+  experience: 8.0
+  depth: 6.6
+  categories:
+    photography: 8.8
+    relaxation: 8.2
+    culture: 7.9

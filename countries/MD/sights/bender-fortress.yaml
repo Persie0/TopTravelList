@@ -1,0 +1,15 @@
+id: sight-md-bender-fortress
+name: "Bender Fortress"
+location:
+  country_code: MD
+  latitude: 46.8387
+  longitude: 29.4875
+scores:
+  impact: 8.5
+  uniqueness: 8.6
+  significance: 8.7
+  experience: null
+  depth: null
+  categories:
+    history: 9.1
+    architecture: 8.9

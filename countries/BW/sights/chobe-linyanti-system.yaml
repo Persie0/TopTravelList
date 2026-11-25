@@ -1,0 +1,15 @@
+id: sight-bw-chobe-linyanti-system
+name: "Chobe Linyanti System"
+location:
+  country_code: BW
+  latitude: -18.666667
+  longitude: 24.500000
+scores:
+  impact: null
+  uniqueness: null
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    nature: 9.4
+    wildlife: 9.4

@@ -1,0 +1,15 @@
+id: city-kw-al-khiran
+name: "Al Khiran"
+location:
+  country_code: KW
+  latitude: 28.6600
+  longitude: 48.2700
+scores:
+  impact: 6.8
+  uniqueness: 6.9
+  significance: 5.9
+  experience: 7.6
+  depth: 6.3
+  categories:
+    relaxation: 8.2
+    beaches: 7.6

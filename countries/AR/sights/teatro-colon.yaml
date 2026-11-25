@@ -1,0 +1,16 @@
+id: sight-ar-teatro-colon
+name: "Teatro Colón"
+location:
+  country_code: AR
+  latitude: -34.6010
+  longitude: -58.3830
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 9.4
+  experience: 8.8
+  depth: 7.9
+  categories:
+    architecture: 9.6
+    culture: 9.6
+    history: 9.2

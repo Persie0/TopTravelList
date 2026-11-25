@@ -1,0 +1,15 @@
+id: sight-ls-subeng-dinosaur-footprints
+name: "Subeng Dinosaur Footprints"
+location:
+  country_code: LS
+  latitude: -28.8210
+  longitude: 28.2320
+scores:
+  impact: 7.3
+  uniqueness: 8.3
+  significance: 8.0
+  experience: 7.7
+  depth: 6.4
+  categories:
+    nature: 8.5
+    history: 7.9

@@ -1,0 +1,14 @@
+id: sight-bj-place-singbodji-abomey
+name: "Place Singbodji (Abomey)"
+location:
+  country_code: BJ
+  latitude: 7.185972
+  longitude: 1.994194
+scores:
+  impact: null
+  uniqueness: null
+  significance: 8.5
+  experience: null
+  depth: null
+  categories:
+    history: 9.0

@@ -1,0 +1,16 @@
+id: sight-mv-kudarah-thila
+name: "Kudarah Thila"
+location:
+  country_code: MV
+  latitude: 3.573
+  longitude: 72.894
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 8.2
+  experience: 8.9
+  depth: 7.9
+  categories:
+    nature: 9.0
+    wildlife: 8.9
+    adventure: 9.2

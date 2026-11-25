@@ -1,0 +1,16 @@
+id: sight-xk-germia-park
+name: "Gërmia Park"
+location:
+  country_code: XK
+  latitude: 42.6830
+  longitude: 21.2070
+scores:
+  impact: 7.4
+  uniqueness: 7.3
+  significance: 6.7
+  experience: 8.3
+  depth: 7.7
+  categories:
+    relaxation: 8.6
+    nature: 8.3
+    family: 8.2

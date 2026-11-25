@@ -1,0 +1,16 @@
+id: sight-mw-liwonde-national-park
+name: "Liwonde National Park"
+location:
+  country_code: MW
+  latitude: -14.85
+  longitude: 35.33
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 8.7
+  experience: 9.1
+  depth: 8.5
+  categories:
+    wildlife: 9.5
+    nature: 9.2
+    photography: 9.1

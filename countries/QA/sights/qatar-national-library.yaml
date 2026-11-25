@@ -1,0 +1,15 @@
+id: sight-qa-qatar-national-library
+name: "Qatar National Library"
+location:
+  country_code: QA
+  latitude: 25.3183
+  longitude: 51.4439
+scores:
+  impact: 8.2
+  uniqueness: 8.5
+  significance: 8.3
+  experience: 8.3
+  depth: 8.0
+  categories:
+    architecture: 9.1
+    culture: 8.4

@@ -1,0 +1,15 @@
+id: sight-md-rudi-monastery
+name: "Rudi Monastery"
+location:
+  country_code: MD
+  latitude: 48.3275
+  longitude: 27.8870
+scores:
+  impact: 7.6
+  uniqueness: 8.2
+  significance: 8.4
+  experience: 8.0
+  depth: 7.0
+  categories:
+    architecture: 8.8
+    history: 8.9

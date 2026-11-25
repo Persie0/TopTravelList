@@ -1,0 +1,15 @@
+id: sight-ve-catatumbo-lightning-lake-maracaibo
+name: "Catatumbo Lightning (Lake Maracaibo)"
+location:
+  country_code: VE
+  latitude: 9.1200
+  longitude: -71.6300
+scores:
+  impact: null
+  uniqueness: 9.7
+  significance: 8.4
+  experience: null
+  depth: null
+  categories:
+    nature: 9.5
+    photography: 9.7

@@ -1,0 +1,16 @@
+id: sight-ec-pailon-del-diablo
+name: "Pailón del Diablo"
+location:
+  country_code: EC
+  latitude: -1.4040
+  longitude: -78.2990
+scores:
+  impact: 8.7
+  uniqueness: 8.2
+  significance: 7.0
+  experience: 8.7
+  depth: 7.2
+  categories:
+    nature: 8.9
+    photography: 9.1
+    adventure: 8.4

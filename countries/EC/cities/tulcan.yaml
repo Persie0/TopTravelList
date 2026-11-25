@@ -1,0 +1,15 @@
+id: city-ec-tulcan
+name: "Tulcán"
+location:
+  country_code: EC
+  latitude: 0.8119
+  longitude: -77.7173
+scores:
+  impact: 6.8
+  uniqueness: 7.1
+  significance: 6.8
+  experience: 7.2
+  depth: 6.5
+  categories:
+    culture: 7.6
+    history: 7.3

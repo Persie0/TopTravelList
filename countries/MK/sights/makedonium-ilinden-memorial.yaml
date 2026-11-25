@@ -1,0 +1,16 @@
+id: sight-mk-makedonium-ilinden-memorial
+name: "Makedonium (Ilinden Memorial)"
+location:
+  country_code: MK
+  latitude: 41.3762
+  longitude: 21.2423
+scores:
+  impact: 8.5
+  uniqueness: 9.1
+  significance: 8.9
+  experience: 8.2
+  depth: 7.7
+  categories:
+    architecture: 9.3
+    history: 9.3
+    culture: 9.0

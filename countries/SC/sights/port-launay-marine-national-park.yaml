@@ -1,0 +1,16 @@
+id: sight-sc-port-launay-marine-national-park
+name: "Port Launay Marine National Park"
+location:
+  country_code: SC
+  latitude: -4.6540
+  longitude: 55.4010
+scores:
+  impact: 8.5
+  uniqueness: 8.1
+  significance: 8.0
+  experience: 8.6
+  depth: 7.7
+  categories:
+    nature: 8.7
+    wildlife: 8.5
+    adventure: 8.7
