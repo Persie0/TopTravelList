@@ -1187,3 +1187,33 @@
 - Final decision: Keep unranked until sufficient visitor evidence.
 - Verification still needed: independent coordinates, material claims, access, category calibration and current peer fit.
 
+
+## Follow-up: direct sources and bounded visitor assessments — 2026-11-25
+
+All three inscribed and eleven tentative properties checked against [UNESCO Cyprus](https://whc.unesco.org/en/statesparties/cy/). Direct descriptions: [Paphos](https://whc.unesco.org/en/list/79/) is three components at two sites, not merely Kato Paphos; [Painted Churches](https://whc.unesco.org/en/list/351/) is ten distinct monuments, not one church; [Choirokoitia](https://whc.unesco.org/en/list/848/) documents the Neolithic settlement. The national inventory is complete at property level, not individual component level. Kouklia sanctuary and additional individual painted churches are candidates for future coverage; aggregate scores must not be counted as extra physical stops alongside the same components.
+
+- [Kolossi Castle](../../../countries/CY/sights/kolossi-castle.yaml): **source-linked-unverified** supersedes editorial-only. [Official tourism](https://www.visitcyprus.com/discover-cyprus/culture/sites-and-monuments/kolossi-medieval-castle/) supports the medieval fortified tower and Commanderie history. Retain 76.55; limited tower scope, not surrounding estate or wine region.
+- [Cyprus Museum](../../../countries/CY/sights/cyprus-museum.yaml): **source-linked-unverified** supersedes editorial-only. [Official tourism](https://www.visitcyprus.com/discover-cyprus/culture/museums-galleries/cyprus-museum/) documents islandwide archaeology from Neolithic to early Byzantine eras. Retain 83.70; scope existing museum, not proposed new premises.
+- [Kourdali church](../../../countries/CY/sights/kourdali-church.yaml): **source-linked-unverified** supersedes unassessed. [Official visitor information](https://www.visitcyprus.com/discover-cyprus/culture/sites-and-monuments/panagia-chrysokourdaliotissa-church/) confirms a 16th-century church, murals, carved iconostasis and published opening hours. Retain I/U/S 7.8/8.3/8.4; E 8.0 for documented decorated interior and D 6.8 for one compact church, not entire Troodos serial property. Overall 79.75. Peers: [Jvari (GE)](../../../countries/GE/sights/jvari-monastery.yaml) 8.7/8.5/9.0/8.3/7.1, stronger setting and early church history; [Svetitskhoveli (GE)](../../../countries/GE/sights/svetitskhoveli-cathedral.yaml) 8.7/8.7/9.1/8.5/7.8, greater monumental scale and depth; [Khor Virap (AM)](../../../countries/AM/sights/khor-virap-monastery.yaml) 8.9/8.8/9.1/8.7/7.0, stronger pilgrimage setting; [Mount Nebo (JO)](../../../countries/JO/sights/mount-nebo.yaml) 8.4/8.8/9.2/8.6/7.8, more internationally significant pilgrimage and interpreted mosaic site.
+- [Peristerona church](../../../countries/CY/sights/peristerona-church.yaml): **source-linked-unverified** supersedes unassessed. [Official visitor information](https://www.visitcyprus.com/discover-cyprus/rural/sites-monuments/church-of-agios-varnavas-and-ilarionas-saints-barnabas-and-hilarion-2/) documents five domes, surviving older fabric, mural fragments and arrangement for visits through adjacent coffee shop. Retain I/U/S 7.8/8.2/8.3; E 7.8 and D 6.6 for bounded church visit and limited interpretation, not adjacent mosque or village. Overall 78.80. Peers: [Jvari (GE)](../../../countries/GE/sights/jvari-monastery.yaml) 8.7/8.5/9.0/8.3/7.1, stronger setting and early church history; [Svetitskhoveli (GE)](../../../countries/GE/sights/svetitskhoveli-cathedral.yaml) 8.7/8.7/9.1/8.5/7.8, greater monumental scale and depth; [Khor Virap (AM)](../../../countries/AM/sights/khor-virap-monastery.yaml) 8.9/8.8/9.1/8.7/7.0, stronger pilgrimage setting; [Mount Nebo (JO)](../../../countries/JO/sights/mount-nebo.yaml) 8.4/8.8/9.2/8.6/7.8, more internationally significant pilgrimage and interpreted mosaic site.
+
+## sight-cy-agios-lazaros — Church of Saint Lazarus, Larnaca — 2026-11-25
+
+- YAML: [source](../../../countries/CY/sights/agios-lazaros.yaml)
+- Action: new
+- Precise subject: stone Byzantine church, iconostasis and reputed tomb; separate museum excluded.
+- Location check: 34.9115, 33.63483 representative building center per [Mapcarta](https://mapcarta.com/W244379359), official tourism confirms town square.
+- Evidence status: **source-linked-unverified**.
+- Source evidence: [Official tourism](https://www.visitcyprus.com/discover-cyprus/culture/sites-and-monuments/agios-lazaros-church/) describes construction, restoration, carved iconostasis, reputed tomb and published opening hours; [Larnaka region](https://www.larnakaregion.com/en/directory/product/agios-lazaros-saint-lazarus) corroborates religious significance.
+- Worldwide peers: [Jvari (GE)](../../../countries/GE/sights/jvari-monastery.yaml) 8.7/8.5/9.0/8.3/7.1, stronger setting and early church history; [Svetitskhoveli (GE)](../../../countries/GE/sights/svetitskhoveli-cathedral.yaml) 8.7/8.7/9.1/8.5/7.8, greater monumental scale and depth; [Khor Virap (AM)](../../../countries/AM/sights/khor-virap-monastery.yaml) 8.9/8.8/9.1/8.7/7.0, stronger pilgrimage setting; [Mount Nebo (JO)](../../../countries/JO/sights/mount-nebo.yaml) 8.4/8.8/9.2/8.6/7.8, more internationally significant pilgrimage and interpreted mosaic site.
+- Impact 8.3: distinctive stone exterior and carved gilded interior; lower than larger Jvari/Svetitskhoveli ensemble.
+- Uniqueness 8.5: distinctive Byzantine religious building and local Lazarus tradition; not globally unmatched.
+- Significance 8.7: major Cypriot Byzantine and pilgrimage heritage; lower than Mount Nebo and Georgian national monuments.
+- Experience 8.3: documented interior and tomb visit, excluding separate museum.
+- Depth 7.2: one compact church and crypt, not whole town or religious route.
+- Categories: architecture 8.8, history 8.9, culture 8.7.
+- Overall: 83.20/100.
+- High-score challenge: none; no approved 10.
+- Verification still needed: specific current services/access, all material claims and independent GPS verification.
+
+No existing assessed score or global weights changed. Seven records remain unranked where site-specific visitor scope is not established; source coverage does not imply independent verification. Broader sightseeing inventory is selective.
