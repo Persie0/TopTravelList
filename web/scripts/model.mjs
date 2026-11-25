@@ -14,9 +14,9 @@ export function groupPoints(rows,project,bounds,size,worldWidth){
  return [...groups.values()]
 }
 export function match(rows,{country='',region='',kind='',metric='overall',query='',min=0,unranked=true}={},countries={}) {
-  const q=query.normalize('NFD').replace(/\p{Diacritic}/gu,'').toLowerCase().trim();
+  const terms=normalize(query).split(/[\s,]+/).filter(Boolean);
   const norm=r=>{let entry=searchIndex.get(r);const countryName=countries[r.country]?.name||'';if(!entry||entry.countryName!==countryName){entry={countryName,text:normalize([r.name,countryName,r.country,r.type].join(' '))};searchIndex.set(r,entry)}return entry.text};
-  return rows.filter(r=>{const c=countries[r.country];const v=value(r,metric);return (!country||r.country===country)&&(!region||c?.region===region)&&(!kind||r.kind===kind)&&(!q||norm(r).includes(q))&&(v===null?unranked&&min===0:v>=min);});
+  return rows.filter(r=>{const c=countries[r.country];const v=value(r,metric);return (!country||r.country===country)&&(!region||c?.region===region)&&(!kind||r.kind===kind)&&terms.every(q=>norm(r).includes(q))&&(v===null?unranked&&min===0:v>=min);});
 }
 
 export function scoreBins(metric){const step=metric==='overall'?10:1;return Array.from({length:10},(_,i)=>i===9?String(i*step)+'–'+String(10*step):String(i*step)+' to under '+String((i+1)*step))}

@@ -27,3 +27,5 @@ test('Google Maps searches preserve names, countries and punctuation',()=>{
  }
  assert.equal(new URL(mapsSearchUrl('Austria')).searchParams.get('query'),'Austria');
 });
+
+test('search accepts map-style name and country queries',()=>{const a={...row('a','Vienna',92,5),kind:'cities'},b=row('b','Vienna Woods',80,8);assert.equal(match([a,b],{query:'Vienna, Austria'},{AT:{name:'Austria'}}).length,2);assert.equal(match([a,b],{query:'Vienna, Germany'},{AT:{name:'Austria'}}).length,0)});
