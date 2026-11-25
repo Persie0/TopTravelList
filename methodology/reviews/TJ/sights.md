@@ -856,3 +856,48 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Source](https://whc.unesco.org/en/statesparties/tj) — UNESCO country register confirms tentative listing identity; page or excerpt inspected 2026-11-25. Individual claims not fully verified.
 - Remaining gaps: Confirm safe permitted ordinary visitor routes and interpretation before completing scores.
+
+## Follow-up: sight-tj-tajik-national-park-mountains-of-the-pamirs — 2026-11-25 (worldwide review)
+
+- [YAML](../../../countries/TJ/sights/tajik-national-park-mountains-of-the-pamirs.yaml) · Action: rescore · **source-linked-unverified**; specific source excerpts inspected, full verification outstanding.
+- Sources inspected: [https://whc.unesco.org/en/list/1252/](https://whc.unesco.org/en/list/1252/); [https://www.mfa.tj/en/berlin/view/9073/tajik-national-park](https://www.mfa.tj/en/berlin/view/9073/tajik-national-park); [https://pamirs.org/activities/trekking/](https://pamirs.org/activities/trekking/).
+- Decision: UNESCO establishes the immense glaciated landscape, and the embassy and trekking guide describe actual mountain visitor experiences. Retain the strong visual, natural and geological significance fields. Depth 9.2 represents a varied, conditional multi-day itinerary in the park, not all of its 2.6 million hectares or technical summits. This is not a penalty for remoteness or temporary restrictions; precise normal route coverage remains provisional.
+- I/U/S/E/D: 9.6 / 9.5 / 9.4 / 9.0 / 9.6 → 9.6 / 9.5 / 9.4 / 9.0 / 9.2; overall 94.45 → 94.05/100. Categories and GPS unchanged; no new perfect score or multiplier.
+
+| Current worldwide peer | I/U/S/E/D | Overall /100 | Comparison |
+| --- | --- | --- | --- |
+| [sagarmatha national park (NP)](../../../countries/NP/sights/sagarmatha-national-park.yaml) | 9.9 / 9.9 / 9.8 / 9.6 / 9.7 | 98.15 | Stronger globally defining high-mountain setting with established multi-day visitor routes. |
+| [annapurna conservation area (NP)](../../../countries/NP/sights/annapurna-conservation-area.yaml) | 9.7 / 9.6 / 9.4 / 9.6 / 9.7 | 96.00 | Broader established trekking network across varied landscapes. |
+| [khao sok national park (TH)](../../../countries/TH/sights/khao-sok-national-park.yaml) | 9.4 / 9.4 / 9.1 / 9.4 / 9.3 | 93.30 | Multi-route forest and lake exploration, different ecosystem. |
+| [dana biosphere reserve (JO)](../../../countries/JO/sights/dana-biosphere-reserve.yaml) | 9.0 / 8.8 / 8.9 / 9.0 / 9.1 | 89.40 | Defined multi-day trails and regional habitat diversity. |
+
+
+## Follow-up: sight-tj-fann-mountains — 2026-11-25 (worldwide review)
+
+- [YAML](../../../countries/TJ/sights/fann-mountains.yaml) · Action: fact-check-only · **source-linked-unverified**; specific source excerpts inspected, full verification outstanding.
+- Sources inspected: [https://mfa.tj/en/berlin/view/9083/the-fann-mountains](https://mfa.tj/en/berlin/view/9083/the-fann-mountains); [https://ztda-tourism.tj/trek/land-of-lakes-kulikalon-alauddin-trek/](https://ztda-tourism.tj/trek/land-of-lakes-kulikalon-alauddin-trek/).
+- Decision: The embassy describes multiple lake groups, valleys and peaks; a regional tourism provider documents linked trekking stages between Kulikalon and Alauddin. Retain depth 9.4 for several meaningful multi-day routes. Visual and category 9.5+ values are provisional editorial judgements, below more globally distinctive Himalayan exemplars on overall significance.
+- I/U/S/E/D: 9.5 / 9.2 / 8.6 / 9.1 / 9.4 → 9.5 / 9.2 / 8.6 / 9.1 / 9.4; overall 91.75 → 91.75/100. Categories and GPS unchanged; no new perfect score or multiplier.
+
+| Current worldwide peer | I/U/S/E/D | Overall /100 | Comparison |
+| --- | --- | --- | --- |
+| [sagarmatha national park (NP)](../../../countries/NP/sights/sagarmatha-national-park.yaml) | 9.9 / 9.9 / 9.8 / 9.6 / 9.7 | 98.15 | Stronger globally defining high-mountain setting with established multi-day visitor routes. |
+| [annapurna conservation area (NP)](../../../countries/NP/sights/annapurna-conservation-area.yaml) | 9.7 / 9.6 / 9.4 / 9.6 / 9.7 | 96.00 | Broader established trekking network across varied landscapes. |
+| [khao sok national park (TH)](../../../countries/TH/sights/khao-sok-national-park.yaml) | 9.4 / 9.4 / 9.1 / 9.4 / 9.3 | 93.30 | Multi-route forest and lake exploration, different ecosystem. |
+| [dana biosphere reserve (JO)](../../../countries/JO/sights/dana-biosphere-reserve.yaml) | 9.0 / 8.8 / 8.9 / 9.0 / 9.1 | 89.40 | Defined multi-day trails and regional habitat diversity. |
+
+
+## Follow-up: sight-tj-pamir-highway-tajik-section — 2026-11-25 (worldwide review)
+
+- [YAML](../../../countries/TJ/sights/pamir-highway-tajik-section.yaml) · Action: fact-check-only · **source-linked-unverified**; specific source excerpts inspected, full verification outstanding.
+- Sources inspected: [https://traveltajikistan.tj/en/mountain-trekking/](https://traveltajikistan.tj/en/mountain-trekking/); [https://pamirs.org/activities/trekking/](https://pamirs.org/activities/trekking/).
+- Decision: The route is a coherent extended road journey with successive high passes, valleys and settlements. Retain depth provisionally for landscape diversity along the Tajik section rather than the driving distance itself. Exclude foreign segments and separate multi-day mountain expeditions. Current conditions and access are not guaranteed. Comparators below are landscape-scope analogues, not equivalent roads; specialist road-route comparisons remain outstanding.
+- I/U/S/E/D: 9.5 / 9.4 / 8.6 / 9.0 / 9.5 → 9.5 / 9.4 / 8.6 / 9.0 / 9.5; overall 92.20 → 92.20/100. Categories and GPS unchanged; no new perfect score or multiplier.
+
+| Current worldwide peer | I/U/S/E/D | Overall /100 | Comparison |
+| --- | --- | --- | --- |
+| [sagarmatha national park (NP)](../../../countries/NP/sights/sagarmatha-national-park.yaml) | 9.9 / 9.9 / 9.8 / 9.6 / 9.7 | 98.15 | Stronger globally defining high-mountain setting with established multi-day visitor routes. |
+| [annapurna conservation area (NP)](../../../countries/NP/sights/annapurna-conservation-area.yaml) | 9.7 / 9.6 / 9.4 / 9.6 / 9.7 | 96.00 | Broader established trekking network across varied landscapes. |
+| [khao sok national park (TH)](../../../countries/TH/sights/khao-sok-national-park.yaml) | 9.4 / 9.4 / 9.1 / 9.4 / 9.3 | 93.30 | Multi-route forest and lake exploration, different ecosystem. |
+| [dana biosphere reserve (JO)](../../../countries/JO/sights/dana-biosphere-reserve.yaml) | 9.0 / 8.8 / 8.9 / 9.0 / 9.1 | 89.40 | Defined multi-day trails and regional habitat diversity. |
+
