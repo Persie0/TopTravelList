@@ -1,0 +1,16 @@
+id: sight-bj-lower-oueme-valley
+name: "Lower Ouémé Valley"
+location:
+  country_code: BJ
+  latitude: 6.371750
+  longitude: 2.425972
+scores:
+  impact: 8.2
+  uniqueness: 8.8
+  significance: 8.4
+  experience: 8.0
+  depth: 8.5
+  categories:
+    nature: 8.9
+    culture: 9.1
+    photography: 8.8
