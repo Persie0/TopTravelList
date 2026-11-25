@@ -1,0 +1,15 @@
+id: sight-sz-mhlosinga-nature-reserve
+name: "Mhlosinga Nature Reserve"
+location:
+  country_code: SZ
+  latitude: -26.7300
+  longitude: 31.9400
+scores:
+  impact: 7.7
+  uniqueness: 7.5
+  significance: 7.8
+  experience: 8.2
+  depth: 7.6
+  categories:
+    nature: 8.2
+    wildlife: 8.3

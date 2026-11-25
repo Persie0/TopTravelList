@@ -1,0 +1,16 @@
+id: sight-cv-deserto-de-viana
+name: "Deserto de Viana"
+location:
+  country_code: CV
+  latitude: 16.1310
+  longitude: -22.8610
+scores:
+  impact: 8.8
+  uniqueness: 8.6
+  significance: 6.8
+  experience: 8.4
+  depth: 7.2
+  categories:
+    nature: 8.9
+    photography: 9.3
+    adventure: 8.5

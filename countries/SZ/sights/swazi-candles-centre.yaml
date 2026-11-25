@@ -1,0 +1,15 @@
+id: sight-sz-swazi-candles-centre
+name: "Swazi Candles Centre"
+location:
+  country_code: SZ
+  latitude: -26.5680
+  longitude: 31.1830
+scores:
+  impact: 7.2
+  uniqueness: 8.1
+  significance: 6.9
+  experience: 8.3
+  depth: 6.8
+  categories:
+    culture: 8.5
+    family: 7.9

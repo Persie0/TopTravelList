@@ -1,0 +1,16 @@
+id: city-ae-sharjah
+name: "Sharjah"
+location:
+  country_code: AE
+  latitude: 25.3463
+  longitude: 55.4209
+scores:
+  impact: 7.9
+  uniqueness: 8.2
+  significance: 8.3
+  experience: 8.2
+  depth: 8.5
+  categories:
+    culture: 8.9
+    history: 8.6
+    architecture: 8.5

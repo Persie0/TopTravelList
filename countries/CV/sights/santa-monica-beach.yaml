@@ -1,0 +1,16 @@
+id: sight-cv-santa-monica-beach
+name: "Santa Monica Beach"
+location:
+  country_code: CV
+  latitude: 16.0030
+  longitude: -22.9080
+scores:
+  impact: 9.4
+  uniqueness: 8.9
+  significance: 6.5
+  experience: 8.7
+  depth: 8.0
+  categories:
+    beaches: 9.5
+    photography: 9.4
+    relaxation: 8.7

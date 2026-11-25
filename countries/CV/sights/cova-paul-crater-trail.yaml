@@ -1,0 +1,16 @@
+id: sight-cv-cova-paul-crater-trail
+name: "Cova-Paul Crater Trail"
+location:
+  country_code: CV
+  latitude: 17.0960
+  longitude: -25.0740
+scores:
+  impact: 9.1
+  uniqueness: 8.7
+  significance: 7.0
+  experience: 9.1
+  depth: 7.8
+  categories:
+    adventure: 9.4
+    photography: 9.4
+    nature: 9.0

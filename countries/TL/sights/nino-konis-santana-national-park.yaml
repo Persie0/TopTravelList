@@ -1,0 +1,17 @@
+id: sight-tl-nino-konis-santana-national-park
+name: "Nino Konis Santana National Park"
+location:
+  country_code: TL
+  latitude: -8.519
+  longitude: 127.161
+scores:
+  impact: 9.0
+  uniqueness: 9.1
+  significance: 9.2
+  experience: 8.7
+  depth: 9.1
+  categories:
+    nature: 9.4
+    wildlife: 9.1
+    adventure: 9.0
+    photography: 9.1
