@@ -1,0 +1,15 @@
+id: sight-py-yacyreta-dam-paraguayan-visitor-circuit
+name: "Yacyretá Dam (Paraguayan visitor circuit)"
+location:
+  country_code: PY
+  latitude: -27.4833
+  longitude: -56.7500
+scores:
+  impact: 8.0
+  uniqueness: 8.2
+  significance: 8.5
+  experience: 7.8
+  depth: 7.2
+  categories:
+    architecture: 8.5
+    history: 8.2

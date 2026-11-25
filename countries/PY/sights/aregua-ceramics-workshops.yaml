@@ -1,0 +1,15 @@
+id: sight-py-aregua-ceramics-workshops
+name: "Areguá Ceramics Workshops"
+location:
+  country_code: PY
+  latitude: -25.3125
+  longitude: -57.3847
+scores:
+  impact: 7.5
+  uniqueness: 8.1
+  significance: 7.4
+  experience: 8.1
+  depth: 7.3
+  categories:
+    culture: 8.7
+    architecture: 7.5

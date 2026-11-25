@@ -1,0 +1,16 @@
+id: city-py-aregua
+name: "Areguá"
+location:
+  country_code: PY
+  latitude: -25.3125
+  longitude: -57.3847
+scores:
+  impact: 7.6
+  uniqueness: 8.0
+  significance: 7.6
+  experience: 7.9
+  depth: 7.0
+  categories:
+    architecture: 8.2
+    culture: 8.5
+    photography: 8.3

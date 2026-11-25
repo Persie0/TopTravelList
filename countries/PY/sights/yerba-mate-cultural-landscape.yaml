@@ -1,0 +1,15 @@
+id: sight-py-yerba-mate-cultural-landscape
+name: "Yerba Mate Cultural Landscape"
+location:
+  country_code: PY
+  latitude: -26.8500
+  longitude: -55.7500
+scores:
+  impact: null
+  uniqueness: 8.4
+  significance: 8.7
+  experience: null
+  depth: null
+  categories:
+    culture: 9.0
+    history: 8.8
