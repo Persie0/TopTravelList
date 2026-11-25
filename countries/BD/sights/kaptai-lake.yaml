@@ -1,0 +1,15 @@
+id: sight-bd-kaptai-lake
+name: "Kaptai Lake"
+location:
+  country_code: BD
+  latitude: 22.57
+  longitude: 92.24
+scores:
+  impact: null
+  uniqueness: 8.3
+  significance: 7.7
+  experience: null
+  depth: null
+  categories:
+    nature: 8.5
+    photography: 8.8
