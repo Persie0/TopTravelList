@@ -1,0 +1,16 @@
+id: sight-zm-north-luangwa-national-park
+name: "North Luangwa National Park"
+location:
+  country_code: ZM
+  latitude: -12.1111
+  longitude: 32.1056
+scores:
+  impact: 9.0
+  uniqueness: 9.1
+  significance: 9.2
+  experience: 8.8
+  depth: 8.8
+  categories:
+    nature: 9.3
+    wildlife: 9.4
+    adventure: 9.0
