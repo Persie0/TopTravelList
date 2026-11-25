@@ -1,0 +1,15 @@
+id: sight-nf-phillip-island
+name: "Phillip Island (restricted visitor scope)"
+location:
+  country_code: NF
+  latitude: -29.123
+  longitude: 167.954
+scores:
+  impact: null
+  uniqueness: 8.9
+  significance: 9.0
+  experience: null
+  depth: null
+  categories:
+    nature: 9.0
+    wildlife: 9.1

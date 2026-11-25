@@ -216,3 +216,7 @@ Four settlements and fourteen sights across the three inhabited islands, includi
 ### Pitcairn Islands coverage — 2026-11-26
 
 One settlement and ten sights across all four islands. GB source filenames screened; no obvious parent duplicate. Henderson, Oeno and Ducie remain unranked pending documented permitted visitor scope; vessel permission required under 2026 immigration amendment. Dark sky score scoped to inhabited Pitcairn; no reserve-wide marine score. Down Rope guide-only, St Paul's water entry conditional. Official tourism page inspected, other source excerpts reviewed; exact independent GPS, full corroboration, cross-registry duplicate audit and full CI/regeneration pending. UN map screenshot returned 403. No new 9.5+ or exact-10 scores.
+
+### Norfolk Island coverage — 2026-11-26
+
+One settlement (Burnt Pine) and eleven sights. Kingston is treated as one historic precinct rather than a second urban record. Australian parent directories empty on main and this branch; separate open AU PR #227 inspected, including Australian Convict Sites YAML and review. Kingston is a distinct component-specific record, not a duplicate of the entire eleven-component serial property; scores not summed. No matching independent NF record found in AU PR filenames. Phillip Island unranked: Parks Australia currently reports no commercial or park tours. Lagoon scores reflect June 2026 reef stress and no-take area. Full independent GPS and claim verification, merged-branch conflict audit and full CI/regeneration outstanding. No new 9.5+ or exact-10 ratings.

@@ -1,0 +1,15 @@
+id: sight-nf-fletchers-mutiny-cyclorama
+name: "Fletcher's Mutiny Cyclorama"
+location:
+  country_code: NF
+  latitude: -29.039
+  longitude: 167.956
+scores:
+  impact: 7.8
+  uniqueness: 8.5
+  significance: 7.9
+  experience: 8.4
+  depth: 7.1
+  categories:
+    culture: 8.5
+    history: 8.3

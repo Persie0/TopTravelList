@@ -1,0 +1,17 @@
+id: sight-nf-norfolk-national-park
+name: "Norfolk Island National Park (main island forest and summit trails)"
+location:
+  country_code: NF
+  latitude: -29.02
+  longitude: 167.935
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 8.8
+  experience: 8.6
+  depth: 8.4
+  categories:
+    nature: 9.0
+    wildlife: 8.8
+    adventure: 8.5
+    photography: 8.8
