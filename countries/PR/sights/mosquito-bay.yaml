@@ -1,0 +1,15 @@
+id: sight-pr-mosquito-bay
+name: "Mosquito Bioluminescent Bay"
+location:
+  country_code: PR
+  latitude: 18.104
+  longitude: -65.449
+scores:
+  impact: 9.6
+  uniqueness: 9.5
+  significance: 8.8
+  experience: 9.2
+  depth: 7.8
+  categories:
+    nature: 9.5
+    adventure: 9.2

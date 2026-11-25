@@ -1,0 +1,15 @@
+id: city-pr-fajardo
+name: "Fajardo"
+location:
+  country_code: PR
+  latitude: 18.3258
+  longitude: -65.6524
+scores:
+  impact: 7.0
+  uniqueness: 7.0
+  significance: 6.6
+  experience: 7.4
+  depth: 6.8
+  categories:
+    food: 7.2
+    culture: 7.0

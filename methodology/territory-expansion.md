@@ -28,3 +28,11 @@ All other added codes start as empty research backlog; inspect both names and ge
 | sight-fr-marquesas | sight-pf-marquesas | Move to PF, preserve partial scores; remains unranked. |
 
 Original decisions: [France migration history](reviews/FR/migration-history-PF.md). Old YAML links are historical; active sources are under `countries/PF/sights/`. Parent inventory names checked; exhaustive coordinate and external link audit remains outstanding.
+
+### Puerto Rico migration — 2026-11-25
+
+| Former ID | Active ID | Decision |
+| --- | --- | --- |
+| sight-us-san-juan-national-historic-site | sight-pr-san-juan-national-historic-site | Preserve 88.55 score and original approximate point; migrate public NPS fortification component only. |
+
+[Original US review](reviews/US/migration-history-PR.md). No separate duplicate fort or La Fortaleza record created. Parent ranking names checked; exhaustive coordinate and reference audit pending.
