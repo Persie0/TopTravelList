@@ -1,0 +1,16 @@
+id: sight-jm-rio-grande-rafting
+name: "Rio Grande Rafting"
+location:
+  country_code: JM
+  latitude: 18.134
+  longitude: -76.49
+scores:
+  impact: 8.2
+  uniqueness: 8.2
+  significance: 7.5
+  experience: 8.7
+  depth: 7.8
+  categories:
+    nature: 8.9
+    relaxation: 9.0
+    photography: 8.8
