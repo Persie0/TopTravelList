@@ -1,0 +1,14 @@
+id: sight-tl-arte-moris
+name: "Arte Moris"
+location:
+  country_code: TL
+  latitude: -8.553
+  longitude: 125.533
+scores:
+  impact: null
+  uniqueness: 7.7
+  significance: 7.5
+  experience: null
+  depth: null
+  categories:
+    culture: 8.3
