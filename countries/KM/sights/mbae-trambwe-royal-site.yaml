@@ -1,0 +1,15 @@
+id: sight-km-mbae-trambwe-royal-site
+name: "Mbaé Trambwé Royal Site"
+location:
+  country_code: KM
+  latitude: -11.7750
+  longitude: 43.4220
+scores:
+  impact: null
+  uniqueness: null
+  significance: 8.4
+  experience: null
+  depth: null
+  categories:
+    history: 8.8
+    culture: 8.8
