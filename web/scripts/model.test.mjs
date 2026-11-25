@@ -27,3 +27,16 @@ test('Google Maps searches preserve names, countries and punctuation',()=>{
  }
  assert.equal(new URL(mapsSearchUrl('Austria')).searchParams.get('query'),'Austria');
 });
+
+test('search accepts map-style name and country queries',()=>{const a={...row('a','Vienna',92,5),kind:'cities'},b=row('b','Vienna Woods',80,8);assert.equal(match([a,b],{query:'Vienna, Austria'},{AT:{name:'Austria'}}).length,2);assert.equal(match([a,b],{query:'Vienna, Germany'},{AT:{name:'Austria'}}).length,0)});
+
+import {splitMapGeometry,coalesceGroups} from './model.mjs';
+test('dateline geometry splits into short edges on both sides',()=>{
+ const g=splitMapGeometry({type:'Polygon',coordinates:[[[179,10],[-179,10],[-179,12],[179,12],[179,10]]]});
+ assert.equal(g.coordinates.length,2);
+ for(const [ring] of g.coordinates){assert.deepEqual(ring[0],ring.at(-1));assert.ok(ring.every((p,i)=>!i||Math.abs(p[0]-ring[i-1][0])<=2));assert.ok(ring.every(p=>Math.abs(p[0])<=180))}
+});
+test('overlapping cluster labels merge without losing ranked members',()=>{
+ const groups=coalesceGroups([{x:0,y:0,rows:[{id:'a',rank:3}]},{x:10,y:0,rows:[{id:'b',rank:1}]},{x:100,y:0,rows:[{id:'c',rank:2}]}],40);
+ assert.equal(groups.length,2);assert.deepEqual(groups[0].rows.map(r=>r.id),['b','a']);assert.equal(groups[0].x,10);
+});
