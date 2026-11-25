@@ -1,0 +1,15 @@
+id: city-np-jumla-khalanga
+name: "Jumla (Khalanga)"
+location:
+  country_code: NP
+  latitude: 29.2750
+  longitude: 82.1830
+scores:
+  impact: 7.3
+  uniqueness: 8.0
+  significance: 7.9
+  experience: 7.6
+  depth: 7.4
+  categories:
+    culture: 8.5
+    history: 8.2

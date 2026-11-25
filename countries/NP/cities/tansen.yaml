@@ -1,0 +1,16 @@
+id: city-np-tansen
+name: "Tansen"
+location:
+  country_code: NP
+  latitude: 27.8673
+  longitude: 83.5467
+scores:
+  impact: 8.0
+  uniqueness: 8.5
+  significance: 8.4
+  experience: 8.2
+  depth: 8.0
+  categories:
+    architecture: 8.8
+    culture: 8.7
+    history: 8.6

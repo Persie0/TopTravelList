@@ -1,0 +1,15 @@
+id: city-np-namche-bazaar
+name: "Namche Bazaar"
+location:
+  country_code: NP
+  latitude: 27.8050
+  longitude: 86.7140
+scores:
+  impact: 8.7
+  uniqueness: 9.1
+  significance: 7.9
+  experience: 8.8
+  depth: 8.0
+  categories:
+    culture: 9.0
+    photography: 9.0

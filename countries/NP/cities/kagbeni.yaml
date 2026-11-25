@@ -1,0 +1,16 @@
+id: city-np-kagbeni
+name: "Kagbeni"
+location:
+  country_code: NP
+  latitude: 28.8360
+  longitude: 83.7830
+scores:
+  impact: 8.3
+  uniqueness: 8.8
+  significance: 8.3
+  experience: 8.4
+  depth: 7.7
+  categories:
+    culture: 8.9
+    architecture: 8.8
+    photography: 8.9

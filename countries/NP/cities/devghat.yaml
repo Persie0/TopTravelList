@@ -1,0 +1,15 @@
+id: city-np-devghat
+name: "Devghat"
+location:
+  country_code: NP
+  latitude: 27.7200
+  longitude: 84.4170
+scores:
+  impact: 7.6
+  uniqueness: 8.0
+  significance: 8.3
+  experience: 7.9
+  depth: 7.4
+  categories:
+    culture: 8.9
+    history: 8.5

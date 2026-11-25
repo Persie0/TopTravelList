@@ -1,0 +1,15 @@
+id: city-np-nagarkot
+name: "Nagarkot"
+location:
+  country_code: NP
+  latitude: 27.7150
+  longitude: 85.5200
+scores:
+  impact: 7.6
+  uniqueness: 7.6
+  significance: 6.5
+  experience: 8.2
+  depth: 7.0
+  categories:
+    relaxation: 8.6
+    photography: 8.8

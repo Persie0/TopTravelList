@@ -1,0 +1,16 @@
+id: city-np-kirtipur
+name: "Kirtipur"
+location:
+  country_code: NP
+  latitude: 27.6785
+  longitude: 85.2774
+scores:
+  impact: 8.0
+  uniqueness: 8.3
+  significance: 8.4
+  experience: 8.2
+  depth: 7.8
+  categories:
+    culture: 8.9
+    architecture: 8.7
+    history: 8.7
