@@ -1,0 +1,15 @@
+id: sight-pw-tet-el-bad
+name: "Tet el Bad (Stone Coffin)"
+location:
+  country_code: PW
+  latitude: 7.719389
+  longitude: 134.613444
+scores:
+  impact: 7.1
+  uniqueness: 8.6
+  significance: 8.4
+  experience: null
+  depth: null
+  categories:
+    history: 8.6
+    culture: 8.6
