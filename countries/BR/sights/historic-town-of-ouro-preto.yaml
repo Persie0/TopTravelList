@@ -1,0 +1,17 @@
+id: sight-br-historic-town-of-ouro-preto
+name: "Historic Town of Ouro Preto"
+location:
+  country_code: BR
+  latitude: -20.3850
+  longitude: -43.5040
+scores:
+  impact: 9.3
+  uniqueness: 9.4
+  significance: 9.6
+  experience: 8.6
+  depth: 8.9
+  categories:
+    architecture: 9.8
+    history: 9.7
+    culture: 9.3
+    photography: 9.5

@@ -1,0 +1,17 @@
+id: sight-br-fernando-de-noronha-authorized-island-visitor-sites
+name: "Fernando de Noronha (authorized island visitor sites)"
+location:
+  country_code: BR
+  latitude: -3.8500
+  longitude: -32.4200
+scores:
+  impact: 9.4
+  uniqueness: 9.3
+  significance: 9.1
+  experience: 9.1
+  depth: 8.9
+  categories:
+    nature: 9.6
+    beaches: 9.7
+    wildlife: 9.6
+    photography: 9.7
