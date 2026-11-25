@@ -1,0 +1,16 @@
+id: sight-co-cocora-valley
+name: "Cocora Valley"
+location:
+  country_code: CO
+  latitude: 4.6370
+  longitude: -75.4880
+scores:
+  impact: 9.4
+  uniqueness: 9.3
+  significance: 8.2
+  experience: 8.9
+  depth: 8.2
+  categories:
+    nature: 9.5
+    photography: 9.7
+    adventure: 8.9

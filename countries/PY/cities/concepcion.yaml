@@ -1,0 +1,16 @@
+id: city-py-concepcion
+name: "Concepción"
+location:
+  country_code: PY
+  latitude: -23.4064
+  longitude: -57.4344
+scores:
+  impact: 7.2
+  uniqueness: 7.4
+  significance: 7.6
+  experience: 7.4
+  depth: 7.0
+  categories:
+    architecture: 7.9
+    history: 8.1
+    culture: 7.6

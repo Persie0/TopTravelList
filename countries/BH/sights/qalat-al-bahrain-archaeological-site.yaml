@@ -1,0 +1,16 @@
+id: sight-bh-qalat-al-bahrain-archaeological-site
+name: "Qalat al-Bahrain Archaeological Site"
+location:
+  country_code: BH
+  latitude: 26.2330
+  longitude: 50.5205
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 9.4
+  experience: 8.8
+  depth: 8.7
+  categories:
+    history: 9.4
+    architecture: 9.1
+    photography: 8.9

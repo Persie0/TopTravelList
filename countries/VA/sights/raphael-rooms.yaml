@@ -1,0 +1,16 @@
+id: sight-va-raphael-rooms
+name: Raphael Rooms
+location:
+  country_code: VA
+  latitude: 41.90343
+  longitude: 12.45442
+scores:
+  impact: 9.5
+  uniqueness: 9.6
+  significance: 9.7
+  experience: 9.0
+  depth: 8.1
+  categories:
+    culture: 9.8
+    history: 9.6
+    architecture: 9.3

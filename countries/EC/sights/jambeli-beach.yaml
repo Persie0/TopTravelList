@@ -1,0 +1,15 @@
+id: sight-ec-jambeli-beach
+name: "Jambelí Beach"
+location:
+  country_code: EC
+  latitude: -3.2600
+  longitude: -80.0200
+scores:
+  impact: 7.3
+  uniqueness: 7.1
+  significance: 6.2
+  experience: 7.9
+  depth: 6.7
+  categories:
+    beaches: 8.2
+    relaxation: 8.2

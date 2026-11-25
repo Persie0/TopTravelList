@@ -1,0 +1,16 @@
+id: sight-dj-ardoukoba-volcano
+name: "Ardoukoba Volcano"
+location:
+  country_code: DJ
+  latitude: 11.5800
+  longitude: 42.4800
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 8.1
+  experience: 8.3
+  depth: 7.3
+  categories:
+    nature: 9.1
+    photography: 9.1
+    adventure: 8.9

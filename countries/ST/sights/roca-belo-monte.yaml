@@ -1,0 +1,17 @@
+id: sight-st-roca-belo-monte
+name: "Roça Belo Monte"
+location:
+  country_code: ST
+  latitude: 1.684278
+  longitude: 7.443500
+scores:
+  impact: 8.2
+  uniqueness: 8.4
+  significance: 9.0
+  experience: 8.3
+  depth: 7.1
+  categories:
+    history: 9.2
+    architecture: 8.5
+    photography: 8.9
+    culture: 8.5

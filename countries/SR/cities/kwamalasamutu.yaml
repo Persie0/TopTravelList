@@ -1,0 +1,14 @@
+id: city-sr-kwamalasamutu
+name: "Kwamalasamutu"
+location:
+  country_code: SR
+  latitude: 2.3500
+  longitude: -56.8000
+scores:
+  impact: null
+  uniqueness: 8.0
+  significance: 7.5
+  experience: null
+  depth: null
+  categories:
+    culture: 8.2

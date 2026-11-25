@@ -1,0 +1,16 @@
+id: city-uy-maldonado
+name: "Maldonado"
+location:
+  country_code: UY
+  latitude: -34.9090
+  longitude: -54.9580
+scores:
+  impact: 6.8
+  uniqueness: 6.8
+  significance: 7.3
+  experience: 7.3
+  depth: 7.2
+  categories:
+    history: 7.7
+    culture: 7.4
+    food: 7.4

@@ -1,0 +1,16 @@
+id: sight-qa-purple-island-jazirat-bin-ghannam
+name: "Purple Island (Jazirat Bin Ghannam)"
+location:
+  country_code: QA
+  latitude: 25.6920
+  longitude: 51.5520
+scores:
+  impact: 8.0
+  uniqueness: 8.4
+  significance: 8.6
+  experience: 8.1
+  depth: 7.3
+  categories:
+    nature: 8.5
+    history: 8.8
+    wildlife: 8.2

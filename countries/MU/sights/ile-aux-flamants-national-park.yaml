@@ -1,0 +1,14 @@
+id: sight-mu-ile-aux-flamants-national-park
+name: "Ile aux Flamants National Park"
+location:
+  country_code: MU
+  latitude: -20.3800
+  longitude: 57.7850
+scores:
+  impact: null
+  uniqueness: null
+  significance: 7.6
+  experience: null
+  depth: null
+  categories:
+    nature: 8.0

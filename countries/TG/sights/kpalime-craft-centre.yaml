@@ -1,0 +1,14 @@
+id: sight-tg-kpalime-craft-centre
+name: "Kpalimé Craft Centre"
+location:
+  country_code: TG
+  latitude: 6.9040
+  longitude: 0.6300
+scores:
+  impact: 6.8
+  uniqueness: 7.8
+  significance: 7.0
+  experience: 8.1
+  depth: 6.6
+  categories:
+    culture: 8.5

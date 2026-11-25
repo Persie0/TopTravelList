@@ -1,0 +1,16 @@
+id: city-co-santa-cruz-de-mompox
+name: "Santa Cruz de Mompox"
+location:
+  country_code: CO
+  latitude: 9.2414
+  longitude: -74.4267
+scores:
+  impact: 8.4
+  uniqueness: 8.9
+  significance: 9.2
+  experience: 8.0
+  depth: 7.7
+  categories:
+    architecture: 9.3
+    history: 9.4
+    culture: 8.7

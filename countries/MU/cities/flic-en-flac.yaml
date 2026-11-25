@@ -1,0 +1,16 @@
+id: city-mu-flic-en-flac
+name: "Flic en Flac"
+location:
+  country_code: MU
+  latitude: -20.2790
+  longitude: 57.3680
+scores:
+  impact: 7.0
+  uniqueness: 6.8
+  significance: 6.2
+  experience: 8.2
+  depth: 7.2
+  categories:
+    food: 7.9
+    relaxation: 8.1
+    nightlife: 7.5

@@ -1,0 +1,17 @@
+id: sight-mw-lake-malawi-national-park
+name: "Lake Malawi National Park"
+location:
+  country_code: MW
+  latitude: -14.033330
+  longitude: 34.883330
+scores:
+  impact: 9.3
+  uniqueness: 9.6
+  significance: 9.6
+  experience: 9.2
+  depth: 8.8
+  categories:
+    nature: 9.7
+    wildlife: 9.7
+    adventure: 9.1
+    photography: 9.4

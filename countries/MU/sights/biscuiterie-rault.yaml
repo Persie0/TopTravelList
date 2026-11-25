@@ -1,0 +1,15 @@
+id: sight-mu-biscuiterie-rault
+name: "Biscuiterie Rault"
+location:
+  country_code: MU
+  latitude: -20.4050
+  longitude: 57.6980
+scores:
+  impact: 6.5
+  uniqueness: 7.9
+  significance: 7.3
+  experience: 7.8
+  depth: 6.0
+  categories:
+    culture: 8.0
+    food: 8.2

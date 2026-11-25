@@ -1,0 +1,15 @@
+id: city-co-san-agustin
+name: "San Agustín"
+location:
+  country_code: CO
+  latitude: 1.8780
+  longitude: -76.2670
+scores:
+  impact: 7.0
+  uniqueness: 7.4
+  significance: 7.2
+  experience: 7.7
+  depth: 6.4
+  categories:
+    culture: 8.0
+    photography: 7.8

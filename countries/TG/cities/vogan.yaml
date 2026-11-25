@@ -1,0 +1,15 @@
+id: city-tg-vogan
+name: "Vogan"
+location:
+  country_code: TG
+  latitude: 6.3333
+  longitude: 1.5333
+scores:
+  impact: 6.2
+  uniqueness: 7.4
+  significance: 6.7
+  experience: 7.5
+  depth: 6.4
+  categories:
+    culture: 8.3
+    food: 7.7

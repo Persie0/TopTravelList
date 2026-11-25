@@ -1,0 +1,15 @@
+id: sight-py-nu-guasu-park
+name: "Ñu Guasú Park"
+location:
+  country_code: PY
+  latitude: -25.2590
+  longitude: -57.5370
+scores:
+  impact: 6.8
+  uniqueness: 6.6
+  significance: 6.3
+  experience: 7.7
+  depth: 7.2
+  categories:
+    relaxation: 8.1
+    family: 8.0

@@ -1,0 +1,15 @@
+id: sight-ec-papallacta-hot-springs
+name: "Papallacta Hot Springs"
+location:
+  country_code: EC
+  latitude: -0.3650
+  longitude: -78.1410
+scores:
+  impact: 7.9
+  uniqueness: 7.6
+  significance: 6.4
+  experience: 8.7
+  depth: 7.5
+  categories:
+    relaxation: 9.2
+    nature: 8.3

@@ -1,0 +1,14 @@
+id: city-bz-san-antonio-cayo
+name: "San Antonio (Cayo)"
+location:
+  country_code: BZ
+  latitude: 17.0860
+  longitude: -89.0250
+scores:
+  impact: 6.7
+  uniqueness: 7.6
+  significance: 7.0
+  experience: 7.5
+  depth: 6.2
+  categories:
+    culture: 8.2

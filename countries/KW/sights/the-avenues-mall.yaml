@@ -1,0 +1,16 @@
+id: sight-kw-the-avenues-mall
+name: "The Avenues Mall"
+location:
+  country_code: KW
+  latitude: 29.3020
+  longitude: 47.9350
+scores:
+  impact: 7.5
+  uniqueness: 6.9
+  significance: 5.8
+  experience: 8.4
+  depth: 8.3
+  categories:
+    architecture: 8.0
+    food: 8.4
+    family: 7.9

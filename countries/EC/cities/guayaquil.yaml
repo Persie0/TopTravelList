@@ -1,0 +1,16 @@
+id: city-ec-guayaquil
+name: "Guayaquil"
+location:
+  country_code: EC
+  latitude: -2.1894
+  longitude: -79.8891
+scores:
+  impact: 7.7
+  uniqueness: 7.5
+  significance: 7.7
+  experience: 8.1
+  depth: 8.3
+  categories:
+    food: 8.5
+    culture: 8.2
+    nightlife: 8.1

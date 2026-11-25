@@ -1,0 +1,16 @@
+id: city-sc-grand-anse-praslin
+name: "Grand Anse (Praslin)"
+location:
+  country_code: SC
+  latitude: -4.3295
+  longitude: 55.7132
+scores:
+  impact: 6.8
+  uniqueness: 6.7
+  significance: 6.4
+  experience: 7.4
+  depth: 6.6
+  categories:
+    culture: 7.2
+    relaxation: 7.6
+    food: 7.3

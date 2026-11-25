@@ -1,0 +1,15 @@
+id: city-bz-dangriga
+name: "Dangriga"
+location:
+  country_code: BZ
+  latitude: 16.9700
+  longitude: -88.2300
+scores:
+  impact: 6.9
+  uniqueness: 8.1
+  significance: 8.1
+  experience: 7.4
+  depth: 7.0
+  categories:
+    culture: 8.8
+    food: 7.8

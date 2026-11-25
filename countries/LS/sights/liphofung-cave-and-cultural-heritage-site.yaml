@@ -1,0 +1,16 @@
+id: sight-ls-liphofung-cave-and-cultural-heritage-site
+name: "Liphofung Cave and Cultural Heritage Site"
+location:
+  country_code: LS
+  latitude: -28.7570
+  longitude: 28.4380
+scores:
+  impact: 7.7
+  uniqueness: 8.4
+  significance: 8.6
+  experience: 8.0
+  depth: 7.1
+  categories:
+    history: 9.0
+    culture: 8.7
+    nature: 8.0

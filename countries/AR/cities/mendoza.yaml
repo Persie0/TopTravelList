@@ -1,0 +1,16 @@
+id: city-ar-mendoza
+name: "Mendoza"
+location:
+  country_code: AR
+  latitude: -32.8895
+  longitude: -68.8458
+scores:
+  impact: 8.0
+  uniqueness: 7.9
+  significance: 7.5
+  experience: 8.8
+  depth: 8.2
+  categories:
+    food: 9.1
+    relaxation: 8.5
+    culture: 8.2

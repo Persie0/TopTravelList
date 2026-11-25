@@ -1,0 +1,16 @@
+id: city-sc-port-glaud
+name: "Port Glaud"
+location:
+  country_code: SC
+  latitude: -4.6610
+  longitude: 55.4110
+scores:
+  impact: 7.2
+  uniqueness: 7.4
+  significance: 6.5
+  experience: 7.4
+  depth: 6.3
+  categories:
+    culture: 7.4
+    photography: 7.8
+    relaxation: 7.5

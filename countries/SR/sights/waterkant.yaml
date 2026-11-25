@@ -1,0 +1,16 @@
+id: sight-sr-waterkant
+name: "Waterkant"
+location:
+  country_code: SR
+  latitude: 5.8239
+  longitude: -55.1535
+scores:
+  impact: 7.9
+  uniqueness: 8.0
+  significance: 7.9
+  experience: 8.3
+  depth: 7.5
+  categories:
+    architecture: 8.3
+    photography: 8.5
+    food: 8.0

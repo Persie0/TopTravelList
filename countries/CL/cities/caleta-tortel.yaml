@@ -1,0 +1,16 @@
+id: city-cl-caleta-tortel
+name: "Caleta Tortel"
+location:
+  country_code: CL
+  latitude: -47.7980
+  longitude: -73.5370
+scores:
+  impact: 8.5
+  uniqueness: 9.2
+  significance: 7.5
+  experience: 8.2
+  depth: 6.5
+  categories:
+    architecture: 9.1
+    photography: 9.2
+    culture: 8.4
