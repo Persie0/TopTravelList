@@ -1,0 +1,16 @@
+id: sight-cl-huerquehue-national-park
+name: "Huerquehue National Park"
+location:
+  country_code: CL
+  latitude: -39.1400
+  longitude: -71.7200
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 8.3
+  experience: 8.8
+  depth: 8.2
+  categories:
+    nature: 9.2
+    adventure: 8.9
+    photography: 9.0

@@ -1,0 +1,17 @@
+id: sight-cl-lauca-national-park
+name: "Lauca National Park"
+location:
+  country_code: CL
+  latitude: -18.2000
+  longitude: -69.2000
+scores:
+  impact: 9.3
+  uniqueness: 9.1
+  significance: 9.0
+  experience: 8.5
+  depth: 8.6
+  categories:
+    nature: 9.5
+    wildlife: 9.2
+    photography: 9.6
+    adventure: 8.9

@@ -2,7 +2,7 @@
 
 # Chile (CL) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**33 ranked** · **0 unassessed** · **33 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,43 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, or click its GPS coordinates to open **Google Maps**. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (33)
 
-No cities, towns & villages have been assessed for **Chile** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps |
+| ---: | --- | --- | ---: | --- | --- | --- |
+| 1 | [Valparaíso](cities/valparaiso.yaml) | City / town | **87.75** | **Architecture 9.3**, **Photography 9.3**, **History 9.2**, Culture 9.1 | 8.7 / 9.0 / 8.9 / 8.5 / 8.6 | [-33.0472, -71.6127](https://www.google.com/maps/search/?api=1&query=-33.0472,-71.6127) |
+| 2 | [Santiago](cities/santiago.yaml) | City / town | **84.70** | **Culture 8.8**, **Food 8.7**, **Nightlife 8.6**, Architecture 8.5 | 8.5 / 8.1 / 8.4 / 8.7 / 9.1 | [-33.4489, -70.6693](https://www.google.com/maps/search/?api=1&query=-33.4489,-70.6693) |
+| 3 | [Hanga Roa](cities/hanga-roa.yaml) | City / town | **84.35** | **Culture 9.4**, **Photography 9.0**, **History 8.8** | 8.2 / 9.1 / 8.5 / 8.4 / 7.4 | [-27.152, -109.431](https://www.google.com/maps/search/?api=1&query=-27.152,-109.431) |
+| 4 | [Castro](cities/castro.yaml) | City / town | **82.80** | **Architecture 9.1**, **Photography 9.0**, **Culture 8.9**, History 8.5 | 8.3 / 8.6 / 8.3 / 8.2 / 7.5 | [-42.4801, -73.7624](https://www.google.com/maps/search/?api=1&query=-42.4801,-73.7624) |
+| 5 | [Caleta Tortel](cities/caleta-tortel.yaml) | City / town | **82.30** | **Photography 9.2**, **Architecture 9.1**, **Culture 8.4** | 8.5 / 9.2 / 7.5 / 8.2 / 6.5 | [-47.798, -73.537](https://www.google.com/maps/search/?api=1&query=-47.798,-73.537) |
+| 6 | [Punta Arenas](cities/punta-arenas.yaml) | City / town | **82.25** | **History 8.8**, **Photography 8.6**, **Architecture 8.5**, Culture 8.4 | 8.1 / 8.6 / 8.2 / 8.1 / 7.9 | [-53.1638, -70.9171](https://www.google.com/maps/search/?api=1&query=-53.1638,-70.9171) |
+| 7 | [Valdivia](cities/valdivia.yaml) | City / town | **81.10** | **Food 8.5**, **Photography 8.5**, **Culture 8.3** | 8.1 / 8.1 / 7.9 / 8.5 / 8.0 | [-39.8142, -73.2459](https://www.google.com/maps/search/?api=1&query=-39.8142,-73.2459) |
+| 8 | [San Pedro de Atacama](cities/san-pedro-de-atacama.yaml) | City / town | **80.80** | **Culture 9.0**, **Photography 8.9**, **History 8.5** | 7.9 / 8.6 / 7.9 / 8.4 / 7.2 | [-22.9087, -68.1997](https://www.google.com/maps/search/?api=1&query=-22.9087,-68.1997) |
+| 9 | [Puerto Varas](cities/puerto-varas.yaml) | City / town | **79.15** | **Photography 8.8**, **Relaxation 8.7**, **Architecture 8.4**, Food 8.4 | 8.1 / 7.9 / 7.3 / 8.6 / 7.6 | [-41.3181, -72.9854](https://www.google.com/maps/search/?api=1&query=-41.3181,-72.9854) |
+| 10 | [Iquique](cities/iquique.yaml) | City / town | **78.95** | **Architecture 8.6**, **History 8.5**, **Beaches 8.3** | 7.8 / 8.1 / 7.9 / 8.0 / 7.5 | [-20.22, -70.1431](https://www.google.com/maps/search/?api=1&query=-20.22,-70.1431) |
+| 11 | [Frutillar](cities/frutillar.yaml) | City / town | **78.20** | **Photography 8.8**, **Architecture 8.7**, **Culture 8.5**, Relaxation 8.5 | 7.9 / 8.0 / 7.5 / 8.4 / 6.9 | [-41.126, -73.063](https://www.google.com/maps/search/?api=1&query=-41.126,-73.063) |
+| 12 | [La Serena](cities/la-serena.yaml) | City / town | **77.90** | **Architecture 8.4**, **History 8.3**, **Beaches 8.1** | 7.7 / 7.7 / 7.8 / 8.1 / 7.8 | [-29.9027, -71.2519](https://www.google.com/maps/search/?api=1&query=-29.9027,-71.2519) |
+| 13 | [Puerto Natales](cities/puerto-natales.yaml) | City / town | **76.85** | **Photography 8.8**, **Relaxation 8.4**, **Food 8.1** | 7.8 / 8.0 / 6.9 / 8.3 / 7.2 | [-51.7309, -72.4977](https://www.google.com/maps/search/?api=1&query=-51.7309,-72.4977) |
+| 14 | [Dalcahue](cities/dalcahue.yaml) | City / town | **76.30** | **Culture 8.7**, **Food 8.5**, **Architecture 8.2** | 7.4 / 8.1 / 7.6 / 8.1 / 6.5 | [-42.3795, -73.6518](https://www.google.com/maps/search/?api=1&query=-42.3795,-73.6518) |
+| 15 | [Ancud](cities/ancud.yaml) | City / town | **76.10** | **History 8.4**, **Culture 8.3**, **Food 8.1** | 7.4 / 7.8 / 7.8 / 7.8 / 7.1 | [-41.867, -73.827](https://www.google.com/maps/search/?api=1&query=-41.867,-73.827) |
+| 15 | [Arica](cities/arica.yaml) | City / town | **76.10** | **History 8.4**, **Culture 8.0**, **Photography 8.0** | 7.4 / 7.6 / 7.9 / 7.8 / 7.4 | [-18.4783, -70.3126](https://www.google.com/maps/search/?api=1&query=-18.4783,-70.3126) |
+| 17 | [Pucón](cities/pucon.yaml) | City / town | **74.90** | **Relaxation 8.6**, **Photography 8.3**, **Food 8.0** | 7.7 / 7.5 / 6.5 / 8.5 / 7.3 | [-39.2723, -71.9774](https://www.google.com/maps/search/?api=1&query=-39.2723,-71.9774) |
+| 18 | [Putre](cities/putre.yaml) | City / town | **74.80** | **Culture 8.6**, **Photography 8.4**, **History 7.9** | 7.4 / 8.1 / 7.3 / 7.7 / 6.2 | [-18.197, -69.56](https://www.google.com/maps/search/?api=1&query=-18.197,-69.56) |
+| 19 | [Viña del Mar](cities/vina-del-mar.yaml) | City / town | **74.45** | **Relaxation 8.5**, **Beaches 8.3**, **Food 8.0** | 7.6 / 7.2 / 6.7 / 8.3 / 7.8 | [-33.0245, -71.5518](https://www.google.com/maps/search/?api=1&query=-33.0245,-71.5518) |
+| 20 | [Puerto Montt](cities/puerto-montt.yaml) | City / town | **73.30** | **Food 8.2**, **Photography 8.0**, **Culture 7.7** | 7.2 / 7.4 / 7.1 / 7.8 / 7.3 | [-41.4693, -72.9424](https://www.google.com/maps/search/?api=1&query=-41.4693,-72.9424) |
+| 21 | [Pichilemu](cities/pichilemu.yaml) | City / town | **73.20** | **Beaches 8.5**, **Relaxation 8.5**, **Culture 7.8** | 7.4 / 7.5 / 6.4 / 8.3 / 7.0 | [-34.389, -72.002](https://www.google.com/maps/search/?api=1&query=-34.389,-72.002) |
+| 22 | [Concepción](cities/concepcion.yaml) | City / town | **73.10** | **Culture 8.1**, **Food 8.0**, **Nightlife 7.9** | 7.1 / 7.1 / 7.3 / 7.7 / 7.9 | [-36.827, -73.0503](https://www.google.com/maps/search/?api=1&query=-36.827,-73.0503) |
+| 23 | [Vicuña](cities/vicuna.yaml) | City / town | **73.05** | **Culture 8.2**, **Relaxation 8.1**, **History 8.0** | 7.0 / 7.5 / 7.3 / 8.0 / 6.7 | [-30.0319, -70.708](https://www.google.com/maps/search/?api=1&query=-30.0319,-70.708) |
+| 24 | [Antofagasta](cities/antofagasta.yaml) | City / town | **72.60** | **Photography 8.0**, **Food 7.8**, **History 7.8** | 7.1 / 7.2 / 7.2 / 7.6 / 7.5 | [-23.6509, -70.3975](https://www.google.com/maps/search/?api=1&query=-23.6509,-70.3975) |
+| 25 | [Temuco](cities/temuco.yaml) | City / town | **72.50** | **Culture 8.4**, **Food 8.0** | 6.9 / 7.4 / 7.3 / 7.6 / 7.3 | [-38.7359, -72.5904](https://www.google.com/maps/search/?api=1&query=-38.7359,-72.5904) |
+| 26 | [Coyhaique](cities/coyhaique.yaml) | City / town | **72.45** | **Photography 8.2**, **Relaxation 7.8**, **Culture 7.5** | 7.3 / 7.5 / 6.6 / 7.8 / 6.9 | [-45.5752, -72.0662](https://www.google.com/maps/search/?api=1&query=-45.5752,-72.0662) |
+| 27 | [Villa O'Higgins](cities/villa-o-higgins.yaml) | City / town | **71.85** | **Photography 8.5**, **Relaxation 8.0** | 7.2 / 7.9 / 6.5 / 7.6 / 6.1 | [-48.468, -72.561](https://www.google.com/maps/search/?api=1&query=-48.468,-72.561) |
+| 28 | [Chaitén](cities/chaiten.yaml) | City / town | **71.15** | **Photography 8.2**, **History 7.6** | 6.9 / 7.7 / 7.0 / 7.4 / 6.1 | [-42.919, -72.706](https://www.google.com/maps/search/?api=1&query=-42.919,-72.706) |
+| 29 | [Chillán](cities/chillan.yaml) | City / town | **70.80** | **Culture 8.0**, **History 8.0**, **Food 7.8** | 6.7 / 7.1 / 7.4 / 7.5 / 6.9 | [-36.6066, -72.1034](https://www.google.com/maps/search/?api=1&query=-36.6066,-72.1034) |
+| 30 | [Rancagua](cities/rancagua.yaml) | City / town | **68.30** | **History 7.9**, **Culture 7.4** | 6.5 / 6.7 / 7.3 / 7.1 / 6.8 | [-34.1708, -70.7444](https://www.google.com/maps/search/?api=1&query=-34.1708,-70.7444) |
+| 31 | [Copiapó](cities/copiapo.yaml) | City / town | **67.00** | **History 7.7**, **Culture 7.2** | 6.4 / 6.7 / 7.0 / 6.9 / 6.7 | [-27.3668, -70.3323](https://www.google.com/maps/search/?api=1&query=-27.3668,-70.3323) |
+| 32 | [Talca](cities/talca.yaml) | City / town | **66.90** | **Food 7.7**, **Culture 7.3** | 6.4 / 6.6 / 6.8 / 7.2 / 6.8 | [-35.4264, -71.6554](https://www.google.com/maps/search/?api=1&query=-35.4264,-71.6554) |
+| 33 | [Chañaral](cities/chanaral.yaml) | City / town | **66.25** | **Photography 7.6**, **Culture 7.3** | 6.5 / 7.0 / 6.4 / 6.9 / 6.1 | [-26.347, -70.621](https://www.google.com/maps/search/?api=1&query=-26.347,-70.621) |
 
 ---
 
