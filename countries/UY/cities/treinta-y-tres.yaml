@@ -1,0 +1,15 @@
+id: city-uy-treinta-y-tres
+name: "Treinta y Tres"
+location:
+  country_code: UY
+  latitude: -33.2333
+  longitude: -54.3833
+scores:
+  impact: 6.5
+  uniqueness: 6.6
+  significance: 6.9
+  experience: 7.0
+  depth: 6.5
+  categories:
+    culture: 7.1
+    history: 7.2

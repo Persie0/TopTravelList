@@ -1,0 +1,16 @@
+id: city-uy-salto
+name: "Salto"
+location:
+  country_code: UY
+  latitude: -31.3880
+  longitude: -57.9610
+scores:
+  impact: 7.2
+  uniqueness: 7.1
+  significance: 7.5
+  experience: 7.6
+  depth: 7.5
+  categories:
+    history: 7.7
+    culture: 7.7
+    food: 7.6

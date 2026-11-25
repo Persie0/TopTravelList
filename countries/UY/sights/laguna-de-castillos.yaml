@@ -1,0 +1,15 @@
+id: sight-uy-laguna-de-castillos
+name: "Laguna de Castillos"
+location:
+  country_code: UY
+  latitude: -34.2580
+  longitude: -53.9020
+scores:
+  impact: 7.8
+  uniqueness: 8.4
+  significance: 8.4
+  experience: 7.9
+  depth: 7.6
+  categories:
+    wildlife: 8.8
+    nature: 8.7
