@@ -1,0 +1,15 @@
+id: sight-kw-kuwait-towers
+name: "Kuwait Towers"
+location:
+  country_code: KW
+  latitude: 29.390000
+  longitude: 48.003056
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 8.4
+  experience: 8.5
+  depth: 7.3
+  categories:
+    architecture: 9.3
+    photography: 9.1

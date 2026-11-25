@@ -1,0 +1,16 @@
+id: sight-bo-calle-jaen
+name: "Calle Jaén"
+location:
+  country_code: BO
+  latitude: -16.4926
+  longitude: -68.1350
+scores:
+  impact: 7.8
+  uniqueness: 8.0
+  significance: 8.1
+  experience: 8.1
+  depth: 7.2
+  categories:
+    architecture: 8.6
+    history: 8.5
+    photography: 8.5

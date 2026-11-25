@@ -1,0 +1,14 @@
+id: sight-bo-mirador-killi-killi
+name: "Mirador Killi Killi"
+location:
+  country_code: BO
+  latitude: -16.4965
+  longitude: -68.1260
+scores:
+  impact: 8.3
+  uniqueness: 8.0
+  significance: 6.6
+  experience: 8.3
+  depth: 6.3
+  categories:
+    photography: 9.1

@@ -1,0 +1,16 @@
+id: sight-sv-gulf-of-fonseca-el-salvador-visitor-area
+name: "Gulf of Fonseca (El Salvador visitor area)"
+location:
+  country_code: SV
+  latitude: 13.2640
+  longitude: -87.7430
+scores:
+  impact: 8.6
+  uniqueness: 8.5
+  significance: 8.4
+  experience: 8.5
+  depth: 8.6
+  categories:
+    nature: 8.9
+    photography: 9.0
+    wildlife: 8.4

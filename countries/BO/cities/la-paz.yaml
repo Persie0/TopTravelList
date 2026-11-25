@@ -1,0 +1,17 @@
+id: city-bo-la-paz
+name: "La Paz"
+location:
+  country_code: BO
+  latitude: -16.4897
+  longitude: -68.1193
+scores:
+  impact: 9.2
+  uniqueness: 9.4
+  significance: 8.8
+  experience: 8.7
+  depth: 9.1
+  categories:
+    architecture: 8.6
+    culture: 9.3
+    photography: 9.4
+    food: 8.6

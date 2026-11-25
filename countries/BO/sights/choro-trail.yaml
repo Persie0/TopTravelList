@@ -1,0 +1,16 @@
+id: sight-bo-choro-trail
+name: "Choro Trail"
+location:
+  country_code: BO
+  latitude: -16.3000
+  longitude: -68.0333
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 8.2
+  experience: 8.4
+  depth: 8.6
+  categories:
+    adventure: 9.1
+    nature: 9.0
+    history: 8.5
