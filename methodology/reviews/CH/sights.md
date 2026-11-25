@@ -11,6 +11,7 @@
 - Location check: 46.5, 8.02; approximate representative point, independent verification pending.
 - Evidence status: **source-linked-unverified**
 - Evidence: [Switzerland Tourism](https://www.myswitzerland.com/en-ch/destinations/attractions/unseco-world-heritage-sites/) — accessed 2026-11-25; destination identity or regional tourism context; detailed material claims and admission not fully corroborated.
+- Supplemental evidence (2026-11-25): https://whc.unesco.org/en/list/1037 — UNESCO documents 82,400 hectare property, greatest Alpine glaciation and exceptional geological heritage. Area is not equivalent to unrestricted visitor breadth.
 - Missing or uncertain facts: exact GPS, site-specific visitor scope and independent factual corroboration; closer same-type peer comparisons.
 
 #### Worldwide peer comparisons
@@ -116,6 +117,7 @@
 - Location check: 46.548, 7.985; approximate representative point, independent verification pending.
 - Evidence status: **source-linked-unverified**
 - Evidence: [Switzerland Tourism](https://www.myswitzerland.com/en-ch/destinations/jungfrau-region/) — accessed 2026-11-25; destination identity or regional tourism context; detailed material claims and admission not fully corroborated.
+- Supplemental evidence (2026-11-25): https://www.jungfrau.ch/en-gb/jungfraujoch-top-of-europe/ — Railway operator confirms Sphinx viewpoint, Ice Palace, and managed visitor attractions. No assumption of unrestricted glacier travel.
 - Missing or uncertain facts: exact GPS, site-specific visitor scope and independent factual corroboration; closer same-type peer comparisons.
 
 #### Worldwide peer comparisons
@@ -256,14 +258,15 @@
 - Location check: 46.66, 10.19; approximate representative point, independent verification pending.
 - Evidence status: **source-linked-unverified**
 - Evidence: [Swiss National Park](https://nationalpark.ch/en/visit/) — accessed 2026-11-25; official designated visitor trails; detailed material claims and admission not fully corroborated.
+- Supplemental evidence (2026-11-25): https://nationalpark.ch/en/about/national-park/ — Operator describes 170 square km wilderness and 100 km of marked trails; https://nationalpark.ch/en/visit/ confirms 21 trails; https://nationalpark.ch/en/protection-regulations/ prohibits leaving marked paths. No unrestricted park access.
 - Missing or uncertain facts: exact GPS, site-specific visitor scope and independent factual corroboration; closer same-type peer comparisons.
 
 #### Worldwide peer comparisons
 | Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
 | --- | --- | --- |
-| [Mount Huangshan (CN)](../../../countries/CN/sights/mount-huangshan.yaml) (9.9 / 9.9 / 9.6 / 9.8 / 9.3) | global mountain landscape anchor | Uniqueness lower: Distinct strictly protected long-established alpine wilderness; depth similar: Multiple permitted park sectors. Broad provisional comparison. |
+| [Mount Huangshan (CN)](../../../countries/CN/sights/mount-huangshan.yaml) (9.9 / 9.9 / 9.6 / 9.8 / 9.3) | global mountain landscape anchor | Uniqueness lower: Distinct strictly protected long-established alpine wilderness; depth lower: Designated trail network only. Broad provisional comparison. |
 | [Hohe Tauern (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) (9.4 / 9.1 / 9 / 9.5 / 9.4) | extensive Alpine terrain | Uniqueness similar: Distinct strictly protected long-established alpine wilderness; depth lower: Multiple permitted park sectors. Broad provisional comparison. |
-| [Jiuzhaigou (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) (9.8 / 9.7 / 9.4 / 9.8 / 9.1) | global mountain-water landscape | Uniqueness lower: Distinct strictly protected long-established alpine wilderness; depth higher: Multiple permitted park sectors. Broad provisional comparison. |
+| [Jiuzhaigou (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) (9.8 / 9.7 / 9.4 / 9.8 / 9.1) | global mountain-water landscape | Uniqueness lower: Distinct strictly protected long-established alpine wilderness; depth lower: Designated trail network only. Broad provisional comparison. |
 | [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional natural visitor scope | Uniqueness similar: Distinct strictly protected long-established alpine wilderness; depth higher: Multiple permitted park sectors. Broad provisional comparison. |
 
 #### Scoring decisions
@@ -273,13 +276,13 @@
 | Uniqueness | — | 9.1 | Distinct strictly protected long-established alpine wilderness |
 | Significance | — | 9.1 | National and international conservation history |
 | Experience | — | 9.0 | Designated trails and observation without guaranteed sightings |
-| Depth | — | 9.3 | Multiple permitted park sectors |
+| Depth | — | 9.0 | 21 designated trails and 100 km network, with strictly protected off-trail areas excluded |
 
 - Applicable category scores: nature: 9.5, wildlife: 9.3, adventure: 9.2.
-- Computed worldwide overall: 91.05/100.
-- High-score challenge: nature 9.5: Distinct strictly protected long-established alpine wilderness. 90+ total: Extensive mountain wilderness and forest valleys; Distinct strictly protected long-established alpine wilderness; Multiple permitted park sectors. Compared with Huangshan and Hohe Tauern, the specific glaciated or Alpine landscape supports the high field; narrower viewpoints have less depth than the extensive park. No equivalent to the global 10 anchors assumed..
+- Computed worldwide overall: 90.75/100.
+- High-score challenge: nature 9.5 reflects the longstanding strict conservation and mountain wilderness. Operator confirms 21 trails totaling 100 km; depth 9.0 rather than 9.3 reflects bounded ordinary access. Hohe Tauern offers broader terrain; Tatra National Park is a closer regional comparator. No perfect ten.
 - Approved 10 registry: none.
-- Final decision: Scope-limited editorial rating: Distinct strictly protected long-established alpine wilderness; Multiple permitted park sectors.
+- Final decision: 90.75 after strict visitor-route scope review.
 - Earlier decision: none.
 - Verification still needed: independent material claims, permitted access and narrower worldwide peer comparisons.
 
@@ -746,6 +749,7 @@
 - Location check: 46.468414, 6.829333; approximate representative point, independent verification pending.
 - Evidence status: **unassessed**
 - Evidence: [UNESCO](https://whc.unesco.org/en/list/1321/maps/) — accessed 2026-11-25; component identity and coordinates; detailed material claims and admission not fully corroborated.
+- Supplemental evidence (2026-11-25): https://sites-le-corbusier.org/en/oeuvres/immeuble-clarte-geneve/ — Geneva component normally viewable from public domain only; separate Villa Le Lac museum already individually ranked. Combined scope remains unassessed.
 - Missing or uncertain facts: exact GPS, site-specific visitor scope and independent factual corroboration; closer same-type peer comparisons.
 
 #### Worldwide peer comparisons
@@ -814,32 +818,34 @@
 - Action: new
 - Precise subject: Immeuble Clarté, Geneva; One residential building only.
 - Location check: 46.200158, 6.156408; UNESCO published DMS converted to decimal degrees, [component map table](https://whc.unesco.org/en/list/1321/maps/).
-- Evidence status: **unassessed**
+- Evidence status: **source-linked-unverified**
 - Evidence: [UNESCO](https://whc.unesco.org/en/list/1321/maps/) — accessed 2026-11-25; component identity and coordinates; detailed material claims and admission not fully corroborated.
+- Supplemental evidence (2026-11-25): https://sites-le-corbusier.org/en/oeuvres/immeuble-clarte-geneve/ — World Heritage site network describes pioneering iron-and-glass apartment design and expressly limits ordinary access to public domain; score exterior only, not private apartments.
 - Missing or uncertain facts: current permitted access and material claims; closer same-type peer comparisons.
 
 #### Worldwide peer comparisons
 | Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
 | --- | --- | --- |
-| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (9.4 / 9.3 / 9.6 / 9.5 / 9.3) | major architectural ensemble | Uniqueness lower: Distinct early modernist apartment building; depth unassessed: One residential building only. Broad provisional comparison. |
-| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | coherent built heritage | Uniqueness lower: Distinct early modernist apartment building; depth unassessed: One residential building only. Broad provisional comparison. |
-| [Hohensalzburg (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | major historic complex | Uniqueness lower: Distinct early modernist apartment building; depth unassessed: One residential building only. Broad provisional comparison. |
-| [Kuressaare (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional built heritage | Uniqueness higher: Distinct early modernist apartment building; depth unassessed: One residential building only. Broad provisional comparison. |
+| [Villa Le Lac (CH)](../../../countries/CH/sights/villa-le-lac.yaml) (8.2 / 9 / 9.2 / 8.4 / 7.4) | comparable Le Corbusier residence | Clarté has similar significance but much more limited visitor depth. |
+| [Schönbrunn (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (9.4 / 9.3 / 9.6 / 9.5 / 9.3) | major architectural ensemble | Uniqueness lower: Distinct early modernist apartment building; depth lower: Public exterior only. Broad provisional comparison. |
+| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | coherent built heritage | Uniqueness lower: Distinct early modernist apartment building; depth lower: Public exterior only. Broad provisional comparison. |
+| [Hohensalzburg (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | major historic complex | Uniqueness lower: Distinct early modernist apartment building; depth lower: Public exterior only. Broad provisional comparison. |
+| [Kuressaare (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional built heritage | Uniqueness higher: Distinct early modernist apartment building; depth lower: Public exterior only. Broad provisional comparison. |
 
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| Impact | — | null | Ordinary interior visitor impact unverified |
+| Impact | — | 7.8 | Pioneering iron-and-glass residential facade visible from public street |
 | Uniqueness | — | 8.9 | Distinct early modernist apartment building |
 | Significance | — | 9.2 | International architectural heritage |
-| Experience | — | null | Interior admission not established |
-| Depth | — | null | One residential building only |
+| Experience | — | 7.3 | Public exterior architectural observation only |
+| Depth | — | 6.4 | One exterior building view; no ordinary private interior admission |
 
 - Applicable category scores: architecture: 9.3, history: 9.1.
-- Computed worldwide overall: unranked.
+- Computed worldwide overall: 81.40/100.
 - High-score challenge: Not applicable.
 - Approved 10 registry: none.
-- Final decision: Unranked pending documented visitor scope.
+- Final decision: provisional 81.40 for public exterior only; no private interior admission assumed.
 - Earlier decision: none.
 - Verification still needed: independent material claims, permitted access and narrower worldwide peer comparisons.
 
@@ -1339,8 +1345,8 @@
 - Action: new
 - Precise subject: Rhine Gorge (Ruinaulta); Defined gorge landscape.
 - Location check: 46.81, 9.29; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: No individual source checked; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.graubuenden.ch/en/attractions/rhine-gorge-ruinaulta — Regional tourism office documents trails; https://www.rheinschlucht.ch/en/experience/ identifies visitor activities in the gorge. Reviewed 2026-11-25; partial source evidence, not full independent verification.
 - Missing or uncertain facts: exact GPS, site-specific visitor scope and independent factual corroboration; closer same-type peer comparisons.
 
 #### Worldwide peer comparisons
@@ -1409,8 +1415,8 @@
 - Action: new
 - Precise subject: Gruyères Castle; One castle not whole town.
 - Location check: 46.584, 7.083; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: No individual source checked; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.chateau-gruyeres.ch/en/castle-visit/ — Castle operator documents regular public visit; https://www.chateau-gruyeres.ch/en/guided-tours-and-activities/ describes historic rooms and collections. Reviewed 2026-11-25; partial source evidence, not full independent verification.
 - Missing or uncertain facts: exact GPS, site-specific visitor scope and independent factual corroboration; closer same-type peer comparisons.
 
 #### Worldwide peer comparisons
@@ -1444,8 +1450,8 @@
 - Action: new
 - Precise subject: Verzasca Valley; Valley landscape not unrestricted swimming.
 - Location check: 46.27, 8.83; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: No individual source checked; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.verzasca.ch/en/discover-the-valle-verzasca/ — Valley tourism office documents Ponte dei Salti, museum in Sonogno and visitor activities; https://www.ascona-locarno.com/en/explore/valle-verzasca describes walking and cycling. No swimming safety guarantee. Reviewed 2026-11-25; partial source evidence, not full independent verification.
 - Missing or uncertain facts: exact GPS, site-specific visitor scope and independent factual corroboration; closer same-type peer comparisons.
 
 #### Worldwide peer comparisons
@@ -1514,8 +1520,8 @@
 - Action: new
 - Precise subject: Kunsthaus Zürich; One museum and its collections.
 - Location check: 47.37, 8.548; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: No individual source checked; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.kunsthaus.ch/en/besuch-planen/besucherinfos/ — Museum operator confirms admission and collection galleries; https://tickets.kunsthaus.ch/en/sammlung confirms ordinary collection admission. Reviewed 2026-11-25; partial source evidence, not full independent verification.
 - Missing or uncertain facts: exact GPS, site-specific visitor scope and independent factual corroboration; closer same-type peer comparisons.
 
 #### Worldwide peer comparisons
@@ -1549,8 +1555,8 @@
 - Action: new
 - Precise subject: Kunstmuseum Basel; Named museum buildings only.
 - Location check: 47.554, 7.595; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: No individual source checked; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://kunstmuseumbasel.ch/en/kunstmuseum-basel — Museum operator identifies old masters, modern and contemporary collection; https://kunstmuseumbasel.ch/en/visit/plan-your-visit documents admission and https://www.museenbasel.ch/en/museen/kunstmuseum-basel describes its three locations. Reviewed 2026-11-25; partial source evidence, not full independent verification.
 - Missing or uncertain facts: exact GPS, site-specific visitor scope and independent factual corroboration; closer same-type peer comparisons.
 
 #### Worldwide peer comparisons

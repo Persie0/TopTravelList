@@ -369,8 +369,8 @@
 - Action: new
 - Precise subject: Fribourg; Compact city with several districts.
 - Location check: 46.8065, 7.1619; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: No individual source checked; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://fribourg.ch/en/fribourg/bienvenue-a-fribourg/ — Local tourism office describes medieval Old Town, historic quarters and panoramic viewpoints; public guided tours are documented at https://fribourg.ch/en/fribourg/visits/guided-public-tours-of-the-old-town/. Reviewed 2026-11-25; partial source evidence, not full independent verification.
 - Missing or uncertain facts: exact GPS, site-specific visitor scope and independent factual corroboration; closer same-type peer comparisons.
 
 #### Worldwide peer comparisons
@@ -693,8 +693,8 @@
 - Action: new
 - Precise subject: Appenzell; Exclude Alpstein mountains.
 - Location check: 47.331, 9.409; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: No individual source checked; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.appenzell.ch/en/appenzell/tour-of-the-village/tour-of-the-village.html — Local tourism office describes painted Hauptgasse houses, parish church, historic square and public walking route; https://www.appenzell.ch/en/culture-traditions/museums/museum-appenzell.html documents regional folk-art museum. Reviewed 2026-11-25; partial source evidence, not full independent verification.
 - Missing or uncertain facts: exact GPS, site-specific visitor scope and independent factual corroboration; closer same-type peer comparisons.
 
 #### Worldwide peer comparisons
