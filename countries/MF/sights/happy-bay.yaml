@@ -1,0 +1,16 @@
+id: sight-mf-happy-bay
+name: "Happy Bay Beach"
+location:
+  country_code: MF
+  latitude: 18.101
+  longitude: -63.072
+scores:
+  impact: 8.6
+  uniqueness: 8.1
+  significance: 6.9
+  experience: 8.3
+  depth: 7.0
+  categories:
+    beaches: 8.8
+    photography: 8.7
+    relaxation: 8.7

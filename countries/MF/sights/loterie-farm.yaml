@@ -1,0 +1,16 @@
+id: sight-mf-loterie-farm
+name: "Loterie Farm (forest estate visitor areas)"
+location:
+  country_code: MF
+  latitude: 18.076
+  longitude: -63.062
+scores:
+  impact: 7.9
+  uniqueness: 8.0
+  significance: 7.5
+  experience: 8.6
+  depth: 8.0
+  categories:
+    nature: 8.3
+    adventure: 8.5
+    relaxation: 8.2

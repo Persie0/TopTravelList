@@ -152,3 +152,7 @@ FR generated inventory screened by names and approximate coordinates; no matchin
 ### Saint Barthélemy coverage — 2026-11-25
 
 No matching FR records identified by name and approximate coordinates in generated inventory. Add two settlements and eight scoped sights. Marine reserve sectors and documented coral heat stress treated separately; no whole marine reserve score or guaranteed pristine reef. Full independent coordinate and cross-registry audit remains outstanding.
+
+### Saint Martin (French part) coverage — 2026-11-25
+
+No matching FR or NL records identified by generated ranking name/approximate coordinate screen. Add two settlements and ten specifically scoped sights. Dutch-side destinations excluded (SX). Reserve site descriptions support historical permitted marine visitor scope; current access and reef condition need separate checks. No parent migration or new exact-10 scores.

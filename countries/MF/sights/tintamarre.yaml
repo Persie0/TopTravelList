@@ -1,0 +1,16 @@
+id: sight-mf-tintamarre
+name: "Île Tintamarre"
+location:
+  country_code: MF
+  latitude: 18.117
+  longitude: -62.984
+scores:
+  impact: 8.9
+  uniqueness: 8.7
+  significance: 8.6
+  experience: 8.6
+  depth: 8.0
+  categories:
+    nature: 8.9
+    beaches: 9
+    wildlife: 8.8

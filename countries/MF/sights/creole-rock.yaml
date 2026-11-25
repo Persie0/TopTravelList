@@ -1,0 +1,16 @@
+id: sight-mf-creole-rock
+name: "Rocher Créole (permitted marine viewing)"
+location:
+  country_code: MF
+  latitude: 18.114
+  longitude: -63.052
+scores:
+  impact: 8.3
+  uniqueness: 8.4
+  significance: 8.4
+  experience: 8.7
+  depth: 7.6
+  categories:
+    nature: 8.7
+    wildlife: 8.7
+    adventure: 8.7
