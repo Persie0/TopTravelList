@@ -1,0 +1,16 @@
+id: sight-us-unity-temple
+name: "Unity Temple"
+location:
+  country_code: US
+  latitude: 41.888
+  longitude: -87.797
+scores:
+  impact: 8.4
+  uniqueness: 8.9
+  significance: 9.1
+  experience: 8.2
+  depth: 7.4
+  categories:
+    architecture: 9.3
+    history: 9.0
+    culture: 8.8

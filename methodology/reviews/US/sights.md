@@ -1515,3 +1515,216 @@ Added public San Juan fortifications (Puerto Rico, US property component), Bethl
 
 ### Tentative coverage update
 Added named public sites for six outstanding cultural nominations. Four offshore protected nominations remain inventory-only with no pins or ratings: Pacific Remote Islands Marine National Monument, California Current Conservation Complex, Marianas Trench Marine National Monument, Marine Protected Areas of American Samoa. See [UNESCO list](https://whc.unesco.org/en/statesparties/us/) for their identity. No routine visitor experience established.
+
+## sight-us-unity-temple — Unity Temple — 2026-11-25
+
+- YAML: [source](../../../countries/US/sights/unity-temple.yaml)
+- Action: new
+- Precise subject: Inscribed place of worship and authorized tours.
+- Location check: 41.888, -87.797; approximate representative point; not independently verified.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO serial property](https://whc.unesco.org/en/list/1496/); [Frank Lloyd Wright Building Conservancy](https://savewright.org/wright-on-the-world-heritage-list/) — consulted 2026-11-25; confirms component identity and provides visitor information; not all claims or coordinates independently verified.
+- Missing or uncertain facts: Exact representative point, independent claims and current conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Hohensalzburg](../../../countries/AT/sights/hohensalzburg-fortress.yaml) | less monumental mass than Hohensalzburg |
+| [Bridgetown Garrison](../../../countries/BB/sights/historic-bridgetown-and-its-garrison.yaml) | more focused modern design than Garrison |
+| [Pigeon Island](../../../countries/LC/sights/pigeon-island-national-landmark.yaml) | less landscape scope than Pigeon Island |
+| [Fort Hamilton](../../../countries/VC/sights/fort-hamilton-bequia.yaml) | greater design distinction than Fort Hamilton |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.4 | geometric concrete exterior and distinctive interior |
+| Uniqueness | 8.9 | early modern sacred spatial design |
+| Significance | 9.1 | international architectural legacy |
+| Experience | 8.2 | guided architectural visit |
+| Depth | 7.4 | one compact building |
+
+- Applicable categories: architecture:9.3,history:9.0,culture:8.8.
+- Overall: 85.35/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide score of named site.
+- Earlier decision: none.
+- Verification still needed: Claim-level corroboration and GPS.
+
+## sight-us-robie-house — Frederick C. Robie House — 2026-11-25
+
+- YAML: [source](../../../countries/US/sights/robie-house.yaml)
+- Action: new
+- Precise subject: Inscribed Prairie house and permitted tour.
+- Location check: 41.790, -87.596; approximate representative point; not independently verified.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO serial property](https://whc.unesco.org/en/list/1496/); [Frank Lloyd Wright Building Conservancy](https://savewright.org/wright-on-the-world-heritage-list/) — consulted 2026-11-25; confirms component identity and provides visitor information; not all claims or coordinates independently verified.
+- Missing or uncertain facts: Exact representative point, independent claims and current conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Hohensalzburg](../../../countries/AT/sights/hohensalzburg-fortress.yaml) | less monumentality than Hohensalzburg |
+| [Bridgetown Garrison](../../../countries/BB/sights/historic-bridgetown-and-its-garrison.yaml) | more concentrated modern residential design than Garrison |
+| [Pigeon Island](../../../countries/LC/sights/pigeon-island-national-landmark.yaml) | less landscape breadth than Pigeon Island |
+| [Fort Hamilton](../../../countries/VC/sights/fort-hamilton-bequia.yaml) | greater domestic design significance than Fort Hamilton |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.4 | horizontal forms and integrated rooms |
+| Uniqueness | 8.9 | distinct Prairie residential architecture |
+| Significance | 9.0 | influential modern domestic design |
+| Experience | 8.3 | interpreted house tour |
+| Depth | 7.5 | one coherent building |
+
+- Applicable categories: architecture:9.3,history:9.0.
+- Overall: 85.40/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide score of named site.
+- Earlier decision: none.
+- Verification still needed: Claim-level corroboration and GPS.
+
+## sight-us-taliesin-wisconsin — Taliesin (Wisconsin) — 2026-11-25
+
+- YAML: [source](../../../countries/US/sights/taliesin-wisconsin.yaml)
+- Action: new
+- Precise subject: Wright home and studio estate; permitted tours only.
+- Location check: 43.142, -90.070; approximate representative point; not independently verified.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO serial property](https://whc.unesco.org/en/list/1496/); [Frank Lloyd Wright Building Conservancy](https://savewright.org/wright-on-the-world-heritage-list/) — consulted 2026-11-25; confirms component identity and provides visitor information; not all claims or coordinates independently verified.
+- Missing or uncertain facts: Exact representative point, independent claims and current conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Hohensalzburg](../../../countries/AT/sights/hohensalzburg-fortress.yaml) | less historic mass than Hohensalzburg |
+| [Bridgetown Garrison](../../../countries/BB/sights/historic-bridgetown-and-its-garrison.yaml) | more focused landscape design than Garrison |
+| [Pigeon Island](../../../countries/LC/sights/pigeon-island-national-landmark.yaml) | greater interior architectural variety than Pigeon Island |
+| [Fort Hamilton](../../../countries/VC/sights/fort-hamilton-bequia.yaml) | broader scope than Fort Hamilton |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.6 | architecture integrated with rolling landscape |
+| Uniqueness | 8.9 | distinct experimental house and studio complex |
+| Significance | 9.1 | influential modern architecture and design education |
+| Experience | 8.5 | interpreted estate visit |
+| Depth | 8.1 | several spaces and buildings |
+
+- Applicable categories: architecture:9.3,history:9.0,photography:8.9.
+- Overall: 87.10/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide score of named site.
+- Earlier decision: none.
+- Verification still needed: Claim-level corroboration and GPS.
+
+## sight-us-hollyhock-house — Hollyhock House — 2026-11-25
+
+- YAML: [source](../../../countries/US/sights/hollyhock-house.yaml)
+- Action: new
+- Precise subject: Inscribed house and permitted public tour, not all Barnsdall Art Park.
+- Location check: 34.101, -118.294; approximate representative point; not independently verified.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO serial property](https://whc.unesco.org/en/list/1496/); [Frank Lloyd Wright Building Conservancy](https://savewright.org/wright-on-the-world-heritage-list/) — consulted 2026-11-25; confirms component identity and provides visitor information; not all claims or coordinates independently verified.
+- Missing or uncertain facts: Exact representative point, independent claims and current conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Hohensalzburg](../../../countries/AT/sights/hohensalzburg-fortress.yaml) | less monumentality than Hohensalzburg |
+| [Bridgetown Garrison](../../../countries/BB/sights/historic-bridgetown-and-its-garrison.yaml) | different modern residential focus from Garrison |
+| [Pigeon Island](../../../countries/LC/sights/pigeon-island-national-landmark.yaml) | more interior design than Pigeon Island |
+| [Fort Hamilton](../../../countries/VC/sights/fort-hamilton-bequia.yaml) | greater design distinction than Fort Hamilton |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.4 | geometric ornamental forms and courtyard |
+| Uniqueness | 8.7 | distinct California adaptation of modern design |
+| Significance | 9.0 | important architectural heritage |
+| Experience | 8.2 | interpreted house visit |
+| Depth | 7.5 | single complex |
+
+- Applicable categories: architecture:9.2,history:8.9,photography:8.8.
+- Overall: 84.75/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide score of named site.
+- Earlier decision: none.
+- Verification still needed: Claim-level corroboration and GPS.
+
+## sight-us-taliesin-west — Taliesin West — 2026-11-25
+
+- YAML: [source](../../../countries/US/sights/taliesin-west.yaml)
+- Action: new
+- Precise subject: Desert studio and educational compound with authorized visits.
+- Location check: 33.606, -111.845; approximate representative point; not independently verified.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO serial property](https://whc.unesco.org/en/list/1496/); [Frank Lloyd Wright Building Conservancy](https://savewright.org/wright-on-the-world-heritage-list/) — consulted 2026-11-25; confirms component identity and provides visitor information; not all claims or coordinates independently verified.
+- Missing or uncertain facts: Exact representative point, independent claims and current conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Hohensalzburg](../../../countries/AT/sights/hohensalzburg-fortress.yaml) | less fortress mass than Hohensalzburg |
+| [Bridgetown Garrison](../../../countries/BB/sights/historic-bridgetown-and-its-garrison.yaml) | different desert architecture from Garrison |
+| [Pigeon Island](../../../countries/LC/sights/pigeon-island-national-landmark.yaml) | greater architectural interiors than Pigeon Island |
+| [Fort Hamilton](../../../countries/VC/sights/fort-hamilton-bequia.yaml) | broader complex than Fort Hamilton |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.6 | desert-integrated low buildings |
+| Uniqueness | 8.9 | distinct local material and spatial design |
+| Significance | 9.0 | important modern architecture education |
+| Experience | 8.4 | interpreted architectural tours |
+| Depth | 8.2 | multiple linked spaces |
+
+- Applicable categories: architecture:9.3,photography:9.0,history:8.9.
+- Overall: 86.85/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide score of named site.
+- Earlier decision: none.
+- Verification still needed: Claim-level corroboration and GPS.
+
+## sight-us-guggenheim-museum-new-york — Solomon R. Guggenheim Museum — 2026-11-25
+
+- YAML: [source](../../../countries/US/sights/guggenheim-museum-new-york.yaml)
+- Action: new
+- Precise subject: Museum architecture and ordinary collection exhibitions, not entire New York art scene.
+- Location check: 40.783, -73.959; approximate representative point; not independently verified.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO serial property](https://whc.unesco.org/en/list/1496/); [Frank Lloyd Wright Building Conservancy](https://savewright.org/wright-on-the-world-heritage-list/) — consulted 2026-11-25; confirms component identity and provides visitor information; not all claims or coordinates independently verified.
+- Missing or uncertain facts: Exact representative point, independent claims and current conditions.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Natural History Museum Vienna](../../../countries/AT/sights/natural-history-museum-vienna.yaml) | less scientific collection breadth than Vienna Natural History Museum |
+| [MALBA](../../../countries/AR/sights/malba-buenos-aires.yaml) | more distinctive architectural form than MALBA |
+| [Barbados Museum](../../../countries/BB/sights/barbados-museum-and-historical-society.yaml) | broader modern art scope than Barbados Museum |
+| [Museum of Belize](../../../countries/BZ/sights/museum-of-belize.yaml) | more varied art exhibitions than Museum of Belize |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.9 | striking spiral gallery architecture |
+| Uniqueness | 9.1 | distinct integrated exhibition route |
+| Significance | 9.2 | major international architectural and art history |
+| Experience | 8.8 | gallery and building experience |
+| Depth | 8.5 | multiple galleries but one building |
+
+- Applicable categories: architecture:9.4,culture:9.3,history:9.0.
+- Overall: 89.55/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial worldwide score of named site.
+- Earlier decision: none.
+- Verification still needed: Claim-level corroboration and GPS.
+
+### Wright serial component coverage
+Seven of eight component buildings now have distinct public visitor YAML records. [Herbert and Katherine Jacobs House I](https://savewright.org/wright-on-the-world-heritage-list/) is a private home not open for tours; it is explicitly inventory-only, with no private address, pin or score. The serial property itself is not assigned an artificial nationwide visitor score.

@@ -1,0 +1,16 @@
+id: sight-us-guggenheim-museum-new-york
+name: "Solomon R. Guggenheim Museum"
+location:
+  country_code: US
+  latitude: 40.783
+  longitude: -73.959
+scores:
+  impact: 8.9
+  uniqueness: 9.1
+  significance: 9.2
+  experience: 8.8
+  depth: 8.5
+  categories:
+    architecture: 9.4
+    culture: 9.3
+    history: 9.0
