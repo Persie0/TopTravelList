@@ -1,0 +1,15 @@
+id: city-tm-nokhur
+name: "Nokhur"
+location:
+  country_code: TM
+  latitude: 38.32
+  longitude: 57.15
+scores:
+  impact: 7.7
+  uniqueness: 8.4
+  significance: 7.3
+  experience: 7.9
+  depth: 6.4
+  categories:
+    culture: 8.8
+    photography: 8.5
