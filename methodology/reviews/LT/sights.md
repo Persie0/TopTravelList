@@ -741,3 +741,15 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [UNESCO](https://whc.unesco.org/en/list/1187/maps/) — consulted 2026-11-25; component identity and coordinate table verified; visitability unresolved.
 - Verification still needed: closer field-specific comparisons, independent corroboration of material visitor claims and access; visitor experience and interpretation.
+
+## Follow-up: three Struve stations — 2026-11-25
+
+Action: assess; **source-linked-unverified** editorial scores. [UNESCO component register](https://whc.unesco.org/en/list/1187/maps/) confirms identities and existing coordinates. [Protected areas authority](https://astd.lrv.lt/lt/naujienos/aukstaitijoje-irengtas-naujas-pazintinis-takas-irodo-kad-zeme-apvali/) documents the cross-border tourist route including all three stations. [Vilnius district tourism](https://www.vrtic.lt/en/objektai/struves-geodeziniai-lankai-unesco-paveldas/) and [municipality](https://vrsa.lt/turizmas/naujienos/1956/unesco-vertybei-ismatavusiai-zeme-20-metu%3A7396) document QR audio interpretation at Meškonys and Paliepiukai. [Wikivoyage station guide](https://en.wikivoyage.org/wiki/Struve_Geodetic_Arc) distinguishes individual walking access and marker surroundings. Sources inspected 2026-11-25.
+
+- [Gireišiai](../../../countries/LT/sights/gireisiai-struve-station.yaml): 6.8/8.0/8.6/7.1/6.0 = 74.25. Fenced marker, modest viewpoint and roadside access provide a compact interpreted visit.
+- [Meškonys](../../../countries/LT/sights/meskonys-struve-station.yaml): 6.8/8.0/8.6/7.0/5.9 = 74.00. Short meadow approach and audio interpretation.
+- [Paliepiukai](../../../countries/LT/sights/paliepiukai-struve-station.yaml): 6.8/8.0/8.6/7.0/5.8 = 73.90. Roadside field marker, information and audio interpretation; narrow physical scope.
+
+Current worldwide peers for each: [Jēkabpils (LV)](../../../countries/LV/sights/jekabpils-struve-station.yaml) 6.7/8.0/8.6/7.0/5.8, equivalent marker-scale heritage; [Sestu-kalns (LV)](../../../countries/LV/sights/sestu-kalns-struve-station.yaml) 6.9/8.1/8.6/7.1/6.0, similar hill visit; [Tartu Observatory (EE)](../../../countries/EE/sights/tartu-observatory.yaml) 7.7/8.7/9.1/8.0/7.7, broader museum and scientific heritage; [Sé Cathedral ruins (CV)](../../../countries/CV/sights/se-cathedral-ruins-cidade-velha.yaml) 7.2/8.1/8.6/7.6/6.0, compact heritage with more visible fabric. No credit for the whole international arc, no change to significance or categories. Coordinates retained as UNESCO representative points, not entrances.
+
+All 18 city and 37 sight core vectors screened. Further independent factual, category-specific and high-score calibration remains outstanding. No weights or perfect-score changes.
