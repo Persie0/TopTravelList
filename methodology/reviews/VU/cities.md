@@ -173,3 +173,115 @@
 - Earlier decision: none.
 - Verification still needed: Need local public attractions and visitor evidence.
 
+
+
+### city-vu-lakatoro — Lakatoro — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/VU/cities/lakatoro.yaml)
+- Action: rescore
+- Precise subject: Settlement itself, excluding separately located attractions.
+- Location check: Existing representative point retained; independent coordinate corroboration outstanding.
+- Evidence status: source-linked-unverified
+- Checked factual references (2026-11-25; retrieved pages or indexed excerpts):
+  - Vanuatu Tourism Office lists market, cultural centre and Malampa Handicraft Centre in its Lakatoro itinerary — https://www.vanuatu.travel/en/island-experiences
+  - Vanuatu travel specialist documents cultural centre above the township, produce market and women's handicrafts; copra plantation is in Norsup and excluded — https://vanuatu.com.au/malekula-island/copra-sightseeing-tour/
+  - Vanuatu Department of Urban Affairs identifies Lakatoro township in its town-planning project — https://duap.gov.vu/index.php/news-2/150-development-of-lenakel-tanna-lakatoro-malekula-town-plans
+- Missing or uncertain facts: Exact cultural-centre boundary, current opening, streetscape and GPS corroboration remain outstanding.
+
+#### Worldwide peer comparisons
+- Kampot (Cambodia), 7.6/7.9/7.5/8.3/7.9: more varied waterfront heritage and food experiences.
+- Rach Gia (Vietnam), 7.2/7.5/7.3/7.8/7.9: much greater town-based exploration and civic scale.
+- Kuala Perlis (Malaysia), 6.5/6.8/6.5/7.2/6.7: comparable modest port with documented food and market experiences.
+- Luganville (Vanuatu), 6.4/7.1/7.2/7.2/6.6: larger town and stronger documented historical role.
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | null | 6.3 | Modest township setting, not a major architectural destination. |
+| Uniqueness | null | 7.0 | Distinct regional crafts and market trade provide town-level identity. |
+| Significance | null | 6.6 | Provincial administrative and cultural centre role, without inheriting whole-island heritage. |
+| Experience | null | 7.2 | Documented market, cultural centre and handicraft visits support a rewarding focused visit. |
+| Depth | null | 6.5 | Several documented stops, but no credit for nearby Norsup plantation or independent cultural villages. |
+
+- Applicable category scores: culture 7.6.
+- Computed worldwide overall: 66.90/100
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide v2 settlement rating, calibrated against branch YAML peers.
+- Earlier decision: prior unranked entry for this ID.
+- Verification still needed: Exact cultural-centre boundary, current opening, streetscape and GPS corroboration remain outstanding. Canonical validation and benchmark diagnostics outstanding.
+
+
+### city-vu-sola — Sola — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/VU/cities/sola.yaml)
+- Action: rescore
+- Precise subject: Settlement itself, excluding separately located attractions.
+- Location check: Existing representative point retained; independent coordinate corroboration outstanding.
+- Evidence status: source-linked-unverified
+- Checked factual references (2026-11-25; retrieved pages or indexed excerpts):
+  - Vanuatu Tourism Office identifies Sola as the provincial administrative centre on Vanua Lava — https://www.vanuatu.travel/en/about-vanuatu/provinces/torba
+  - Vanuatu Skills Partnership describes Sola market house and local farmer/cooperative produce supply in 2020; no present-day timetable inferred — https://www.vanuatutvet.org.vu/news-events/news/farmers-on-mota-and-vanua-lava-benefit-from-farm-to-table-program
+  - Vanuatu urban planning department confirms Sola's administrative role in its 2026 planning framework — https://duap.gov.vu/index.php/news-2/197-sola-zoning-planning-framework-launched-to-support-sustainable-development
+  - A 2015 sailing account independently describes town shops and a vegetable market — https://yachtkate.com/sailing/sailing-to-the-solomons/
+- Missing or uncertain facts: Market evidence is historical and current schedule unverified; limited independent streetscape evidence.
+
+#### Worldwide peer comparisons
+- Kampot (Cambodia), 7.6/7.9/7.5/8.3/7.9: more varied waterfront heritage and food experiences.
+- Rach Gia (Vietnam), 7.2/7.5/7.3/7.8/7.9: much greater town-based exploration and civic scale.
+- Kuala Perlis (Malaysia), 6.5/6.8/6.5/7.2/6.7: comparable modest port with documented food and market experiences.
+- Luganville (Vanuatu), 6.4/7.1/7.2/7.2/6.6: larger town and stronger documented historical role.
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | null | 6.2 | Small coastal village-town setting, with no documented monumental streetscape. |
+| Uniqueness | null | 6.6 | Local market and Banks Islands administrative identity are modestly distinctive. |
+| Significance | null | 6.4 | Provincial civic role, not whole-island natural or cultural heritage. |
+| Experience | null | 6.5 | Documented market and village-town life support a focused visit; schedule not guaranteed. |
+| Depth | null | 5.8 | Few verified independent settlement attractions; exclude island-wide hikes and waterfalls. |
+
+- Applicable category scores: culture 6.9.
+- Computed worldwide overall: 63.45/100
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide v2 settlement rating, calibrated against branch YAML peers.
+- Earlier decision: prior unranked entry for this ID.
+- Verification still needed: Market evidence is historical and current schedule unverified; limited independent streetscape evidence. Canonical validation and benchmark diagnostics outstanding.
+
+
+### city-vu-isangel — Isangel — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/VU/cities/isangel.yaml)
+- Action: rescore
+- Precise subject: Settlement itself, excluding separately located attractions.
+- Location check: Existing representative point retained; independent coordinate corroboration outstanding.
+- Evidence status: unassessed
+- Checked factual references (2026-11-25; retrieved pages or indexed excerpts):
+  - Tafea Provincial Government Council confirms headquarters at Isangel — https://tafea.gov.vu/index.php/about-us/the-council
+  - Tafea Provincial Government distinguishes Isangel capital from nearby Lenakel, the largest village — https://tafea.gov.vu/index.php/about-us/tafea-province
+  - Vanuatu Pocket Guide likewise identifies Lenakel as the main commercial settlement — https://vanuatupocketguide.com/the-complete-travel-guide-to-tanna
+- Missing or uncertain facts: Leave four core fields null; assess Lenakel separately if inventory expanded.
+
+#### Worldwide peer comparisons
+- Kampot (Cambodia), 7.6/7.9/7.5/8.3/7.9: more varied waterfront heritage and food experiences.
+- Rach Gia (Vietnam), 7.2/7.5/7.3/7.8/7.9: much greater town-based exploration and civic scale.
+- Kuala Perlis (Malaysia), 6.5/6.8/6.5/7.2/6.7: comparable modest port with documented food and market experiences.
+- Luganville (Vanuatu), 6.4/7.1/7.2/7.2/6.6: larger town and stronger documented historical role.
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | null | null | Insufficient specific streetscape evidence. |
+| Uniqueness | null | null | Distinctive town-level visitor character remains insufficiently documented. |
+| Significance | null | 6.4 | Provincial administrative centre, with no verified international heritage claim. |
+| Experience | null | null | Do not transfer Lenakel market or Mount Yasur visitor experiences. |
+| Depth | null | null | Independent in-town visitor breadth not established. |
+
+- Applicable category scores: none assessed.
+- Computed worldwide overall: unranked
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Retain incomplete profile pending settlement-specific visitor evidence.
+- Earlier decision: prior unranked entry for this ID.
+- Verification still needed: Leave four core fields null; assess Lenakel separately if inventory expanded. Canonical validation and benchmark diagnostics outstanding.

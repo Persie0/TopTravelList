@@ -2,7 +2,7 @@
 
 # Vanuatu (VU) — Cities, towns & villages ranking
 
-**2 ranked** · **3 unassessed** · **5 total** · Worldwide scoring **v2**
+**4 ranked** · **1 unassessed** · **5 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,22 +10,22 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (2)
+## Complete ranked list (4)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
 | 1 | [Port Vila](cities/port-vila.yaml) | City / town | **76.45** | **Culture 8.1**, **Food 7.9**, **History 7.3** | 7.4 / 7.7 / 7.7 / 8.0 / 7.6 | [-17.73648, 168.31366](https://www.google.com/maps/search/?api=1&query=-17.73648,168.31366) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Port%20Vila%2C%20Vanuatu) |
 | 2 | [Luganville](cities/luganville.yaml) | City / town | **68.75** | **History 7.5**, **Culture 7.4**, **Food 7.1** | 6.4 / 7.1 / 7.2 / 7.2 / 6.6 | [-15.51989, 167.16235](https://www.google.com/maps/search/?api=1&query=-15.51989,167.16235) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Luganville%2C%20Vanuatu) |
+| 3 | [Lakatoro](cities/lakatoro.yaml) | City / town | **66.90** | **Culture 7.6** | 6.3 / 7.0 / 6.6 / 7.2 / 6.5 | [-16.09992, 167.41636](https://www.google.com/maps/search/?api=1&query=-16.09992,167.41636) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lakatoro%2C%20Vanuatu) |
+| 4 | [Sola](cities/sola.yaml) | City / town | **63.45** | **Culture 6.9** | 6.2 / 6.6 / 6.4 / 6.5 / 5.8 | [-13.87611, 167.55167](https://www.google.com/maps/search/?api=1&query=-13.87611,167.55167) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sola%2C%20Vanuatu) |
 
-## Not yet fully assessed (3)
+## Not yet fully assessed (1)
 
 These destinations have no rank until all five core scores are assessed.
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
-| — | [Isangel](cities/isangel.yaml) | City / town | **—** | — | — / — / — / — / — | [-19.54167, 169.28167](https://www.google.com/maps/search/?api=1&query=-19.54167,169.28167) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Isangel%2C%20Vanuatu) |
-| — | [Lakatoro](cities/lakatoro.yaml) | City / town | **—** | — | — / — / — / — / — | [-16.09992, 167.41636](https://www.google.com/maps/search/?api=1&query=-16.09992,167.41636) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lakatoro%2C%20Vanuatu) |
-| — | [Sola](cities/sola.yaml) | City / town | **—** | — | — / — / — / — / — | [-13.87611, 167.55167](https://www.google.com/maps/search/?api=1&query=-13.87611,167.55167) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sola%2C%20Vanuatu) |
+| — | [Isangel](cities/isangel.yaml) | City / town | **—** | — | — / — / 6.4 / — / — | [-19.54167, 169.28167](https://www.google.com/maps/search/?api=1&query=-19.54167,169.28167) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Isangel%2C%20Vanuatu) |
 
 ---
 

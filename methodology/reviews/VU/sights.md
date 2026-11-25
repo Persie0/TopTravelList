@@ -556,3 +556,11 @@
 - Final decision: provisional worldwide ranking on documented visitor scope; not independently verified.
 - Earlier decision: earlier entry for this ID, unranked.
 - Verification still needed: Only authorized reserve walks credited; confirm route and guide availability.
+
+
+## 2026-11-25 — sacred heritage evidence follow-up
+
+- **sight-vu-nowon-votwos-ureparapara:** UNESCO's tentative submission (https://whc.unesco.org/en/tentativelists/2057/) describes the monumental coral-stone ceremonial platforms, craftsmanship and graded-society traditions. One commercial cruise-port guide (https://cruisealert.com/content/port-guide/ureparapara-parapara-vanuatu) advertises visits to ceremonial structures, but this is not adequate confirmation of the exact proposed structures or customary permission. Retain experience/depth null; no score inferred from generic cruise landings. Existing island proxy not an entrance.
+- **sight-vu-yalo-apialo-sacred-geography:** UNESCO (https://whc.unesco.org/en/tentativelists/1971) documents both caves, extensive rock markings and the wider sacred landscape governed by community kastom rules. Vanuatu Tourism Office indexed results mention guided Pialo/Apialo cave visits (https://www.vanuatu.travel/en/search-results?searchphrase=all&searchword=big+nambas); specialist operator lists guided Pialo Cave (https://vanuatu.com.au/malekula-island/cultural-sightseeing-tours/). These references support a possible separately scoped guided cave visit, but not established permission or visitor scope for both caves and the wider sacred geography. Retain existing nulls pending further evidence. Do not publish sensitive location details or imply unrestricted access.
+
+Sources reviewed as pages or search excerpts on 2026-11-25. No aggregate YAML ratings changed in this follow-up.
