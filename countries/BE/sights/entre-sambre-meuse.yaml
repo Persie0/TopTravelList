@@ -1,0 +1,16 @@
+id: sight-be-entre-sambre-meuse
+name: "Entre-Sambre-et-Meuse National Park"
+location:
+  country_code: BE
+  latitude: 50.05
+  longitude: 4.53
+scores:
+  impact: 8.3
+  uniqueness: 8.5
+  significance: 8.4
+  experience: 8.6
+  depth: 8.7
+  categories:
+    nature: 8.9
+    wildlife: 8.7
+    adventure: 8.6

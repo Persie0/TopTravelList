@@ -1,0 +1,16 @@
+id: sight-be-ghent-altarpiece
+name: "Saint Bavo Cathedral and Ghent Altarpiece"
+location:
+  country_code: BE
+  latitude: 51.053
+  longitude: 3.727
+scores:
+  impact: 9.0
+  uniqueness: 9.3
+  significance: 9.4
+  experience: 8.9
+  depth: 8.3
+  categories:
+    culture: 9.5
+    history: 9.3
+    architecture: 9.2
