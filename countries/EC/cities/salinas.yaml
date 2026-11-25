@@ -1,0 +1,15 @@
+id: city-ec-salinas
+name: "Salinas"
+location:
+  country_code: EC
+  latitude: -2.2140
+  longitude: -80.9510
+scores:
+  impact: 7.2
+  uniqueness: 7.0
+  significance: 6.0
+  experience: 8.0
+  depth: 7.2
+  categories:
+    beaches: 8.3
+    relaxation: 8.3

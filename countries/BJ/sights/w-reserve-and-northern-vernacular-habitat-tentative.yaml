@@ -1,0 +1,16 @@
+id: sight-bj-w-reserve-and-northern-vernacular-habitat-tentative
+name: "W Reserve and Northern Vernacular Habitat (tentative)"
+location:
+  country_code: BJ
+  latitude: 11.80
+  longitude: 2.65
+scores:
+  impact: null
+  uniqueness: null
+  significance: 8.7
+  experience: null
+  depth: null
+  categories:
+    history: 9.1
+    culture: 9.1
+    nature: 8.9

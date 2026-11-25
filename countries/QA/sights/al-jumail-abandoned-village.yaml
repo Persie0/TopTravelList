@@ -1,0 +1,15 @@
+id: sight-qa-al-jumail-abandoned-village
+name: "Al Jumail Abandoned Village"
+location:
+  country_code: QA
+  latitude: 26.0960
+  longitude: 51.1690
+scores:
+  impact: 7.5
+  uniqueness: 7.8
+  significance: 7.8
+  experience: 7.4
+  depth: 7.0
+  categories:
+    history: 8.1
+    photography: 8.5

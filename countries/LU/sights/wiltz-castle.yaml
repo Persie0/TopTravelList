@@ -1,0 +1,15 @@
+id: sight-lu-wiltz-castle
+name: "Wiltz Castle"
+location:
+  country_code: LU
+  latitude: 49.9680
+  longitude: 5.9340
+scores:
+  impact: 7.8
+  uniqueness: 8.0
+  significance: 8.3
+  experience: 8.0
+  depth: 7.6
+  categories:
+    history: 8.7
+    architecture: 8.5

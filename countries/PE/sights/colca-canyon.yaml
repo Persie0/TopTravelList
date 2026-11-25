@@ -1,0 +1,17 @@
+id: sight-pe-colca-canyon
+name: "Colca Canyon"
+location:
+  country_code: PE
+  latitude: -15.6100
+  longitude: -71.9000
+scores:
+  impact: 9.4
+  uniqueness: 9.2
+  significance: 8.6
+  experience: 9.0
+  depth: 9.1
+  categories:
+    nature: 9.5
+    adventure: 9.4
+    photography: 9.6
+    wildlife: 9.0

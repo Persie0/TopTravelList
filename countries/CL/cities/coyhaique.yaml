@@ -1,0 +1,16 @@
+id: city-cl-coyhaique
+name: "Coyhaique"
+location:
+  country_code: CL
+  latitude: -45.5752
+  longitude: -72.0662
+scores:
+  impact: 7.3
+  uniqueness: 7.5
+  significance: 6.6
+  experience: 7.8
+  depth: 6.9
+  categories:
+    photography: 8.2
+    culture: 7.5
+    relaxation: 7.8

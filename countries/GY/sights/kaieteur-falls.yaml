@@ -1,0 +1,16 @@
+id: sight-gy-kaieteur-falls
+name: "Kaieteur Falls"
+location:
+  country_code: GY
+  latitude: 5.1750
+  longitude: -59.4800
+scores:
+  impact: 9.7
+  uniqueness: 9.5
+  significance: 9.1
+  experience: 9.0
+  depth: 8.1
+  categories:
+    nature: 9.6
+    photography: 9.6
+    adventure: 8.7

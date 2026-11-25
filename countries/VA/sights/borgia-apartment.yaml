@@ -1,0 +1,16 @@
+id: sight-va-borgia-apartment
+name: "Borgia Apartment"
+location:
+  country_code: VA
+  latitude: 41.90354
+  longitude: 12.45440
+scores:
+  impact: 9.0
+  uniqueness: 9.1
+  significance: 9.2
+  experience: 8.7
+  depth: 8.2
+  categories:
+    culture: 9.4
+    history: 9.4
+    architecture: 9.1

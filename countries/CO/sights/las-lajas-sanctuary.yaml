@@ -1,0 +1,16 @@
+id: sight-co-las-lajas-sanctuary
+name: "Las Lajas Sanctuary"
+location:
+  country_code: CO
+  latitude: 0.8050
+  longitude: -77.5860
+scores:
+  impact: 9.2
+  uniqueness: 9.4
+  significance: 8.7
+  experience: 8.8
+  depth: 7.5
+  categories:
+    architecture: 9.6
+    photography: 9.7
+    culture: 8.9

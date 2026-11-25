@@ -1,0 +1,16 @@
+id: sight-cl-w-trek-torres-del-paine
+name: "W Trek (Torres del Paine)"
+location:
+  country_code: CL
+  latitude: -51.0200
+  longitude: -73.0300
+scores:
+  impact: 9.8
+  uniqueness: 9.5
+  significance: 8.6
+  experience: 9.3
+  depth: 9.4
+  categories:
+    nature: 9.7
+    photography: 9.8
+    adventure: 9.8

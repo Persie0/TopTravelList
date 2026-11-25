@@ -1,0 +1,16 @@
+id: sight-sc-vallee-de-mai-nature-reserve
+name: "Vallée de Mai Nature Reserve"
+location:
+  country_code: SC
+  latitude: -4.331000
+  longitude: 55.738000
+scores:
+  impact: 9.0
+  uniqueness: 9.6
+  significance: 9.5
+  experience: 8.9
+  depth: 8.3
+  categories:
+    nature: 9.6
+    wildlife: 9.1
+    photography: 9.0

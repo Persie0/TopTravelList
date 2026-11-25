@@ -1,0 +1,16 @@
+id: sight-hn-celaque-national-park
+name: "Celaque National Park"
+location:
+  country_code: HN
+  latitude: 14.5500
+  longitude: -88.6700
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 8.8
+  experience: 8.9
+  depth: 9.0
+  categories:
+    nature: 9.2
+    adventure: 9.2
+    wildlife: 8.9

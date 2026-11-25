@@ -1,0 +1,15 @@
+id: sight-lu-clervaux-castle
+name: "Clervaux Castle"
+location:
+  country_code: LU
+  latitude: 50.0543
+  longitude: 6.0305
+scores:
+  impact: 8.2
+  uniqueness: 8.3
+  significance: 8.4
+  experience: 8.2
+  depth: 7.8
+  categories:
+    architecture: 8.8
+    history: 8.8

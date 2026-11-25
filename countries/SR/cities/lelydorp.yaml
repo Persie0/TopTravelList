@@ -1,0 +1,15 @@
+id: city-sr-lelydorp
+name: "Lelydorp"
+location:
+  country_code: SR
+  latitude: 5.7000
+  longitude: -55.2333
+scores:
+  impact: 5.9
+  uniqueness: 6.3
+  significance: 6.1
+  experience: 6.7
+  depth: 6.3
+  categories:
+    culture: 6.9
+    food: 7.1

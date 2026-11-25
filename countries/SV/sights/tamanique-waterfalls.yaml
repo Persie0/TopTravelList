@@ -1,0 +1,16 @@
+id: sight-sv-tamanique-waterfalls
+name: "Tamanique Waterfalls"
+location:
+  country_code: SV
+  latitude: 13.5790
+  longitude: -89.4240
+scores:
+  impact: 8.3
+  uniqueness: 8.0
+  significance: 7.0
+  experience: 8.7
+  depth: 7.7
+  categories:
+    nature: 8.7
+    adventure: 8.8
+    photography: 8.5

@@ -1,0 +1,15 @@
+id: sight-ls-khubelu-wetland
+name: "Khubelu Wetland"
+location:
+  country_code: LS
+  latitude: -29.1500
+  longitude: 28.9500
+scores:
+  impact: null
+  uniqueness: null
+  significance: 7.9
+  experience: null
+  depth: null
+  categories:
+    nature: 8.5
+    wildlife: 8.3

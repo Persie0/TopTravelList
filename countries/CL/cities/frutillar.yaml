@@ -1,0 +1,17 @@
+id: city-cl-frutillar
+name: "Frutillar"
+location:
+  country_code: CL
+  latitude: -41.1260
+  longitude: -73.0630
+scores:
+  impact: 7.9
+  uniqueness: 8.0
+  significance: 7.5
+  experience: 8.4
+  depth: 6.9
+  categories:
+    architecture: 8.7
+    culture: 8.5
+    photography: 8.8
+    relaxation: 8.5

@@ -1,0 +1,16 @@
+id: sight-sv-ruta-de-las-flores
+name: "Ruta de las Flores"
+location:
+  country_code: SV
+  latitude: 13.8540
+  longitude: -89.7950
+scores:
+  impact: 8.3
+  uniqueness: 8.2
+  significance: 7.6
+  experience: 8.7
+  depth: 8.8
+  categories:
+    culture: 8.7
+    food: 8.6
+    photography: 8.6

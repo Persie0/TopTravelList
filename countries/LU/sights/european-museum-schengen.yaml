@@ -1,0 +1,15 @@
+id: sight-lu-european-museum-schengen
+name: "European Museum Schengen"
+location:
+  country_code: LU
+  latitude: 49.4700
+  longitude: 6.3655
+scores:
+  impact: 7.6
+  uniqueness: 8.5
+  significance: 9.0
+  experience: 8.2
+  depth: 7.8
+  categories:
+    history: 9.2
+    culture: 8.7

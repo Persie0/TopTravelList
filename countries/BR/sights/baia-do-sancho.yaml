@@ -1,0 +1,16 @@
+id: sight-br-baia-do-sancho
+name: "Baía do Sancho"
+location:
+  country_code: BR
+  latitude: -3.8540
+  longitude: -32.4430
+scores:
+  impact: 9.4
+  uniqueness: 9.0
+  significance: 7.6
+  experience: 8.9
+  depth: 7.3
+  categories:
+    beaches: 9.8
+    photography: 9.6
+    wildlife: 9.1

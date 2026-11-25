@@ -1,0 +1,16 @@
+id: sight-br-rio-da-prata-snorkeling-jardim
+name: "Rio da Prata Snorkeling (Jardim)"
+location:
+  country_code: BR
+  latitude: -21.4500
+  longitude: -56.4500
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 7.9
+  experience: 9.2
+  depth: 7.5
+  categories:
+    nature: 9.3
+    wildlife: 9.4
+    adventure: 9.0

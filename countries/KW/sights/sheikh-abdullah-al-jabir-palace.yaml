@@ -1,0 +1,15 @@
+id: sight-kw-sheikh-abdullah-al-jabir-palace
+name: "Sheikh Abdullah Al-Jabir Palace"
+location:
+  country_code: KW
+  latitude: 29.3800
+  longitude: 47.9930
+scores:
+  impact: null
+  uniqueness: 8.3
+  significance: 8.5
+  experience: null
+  depth: null
+  categories:
+    architecture: 8.6
+    history: 8.8

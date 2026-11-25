@@ -1,0 +1,15 @@
+id: sight-lu-bock-casemates
+name: "Bock Casemates"
+location:
+  country_code: LU
+  latitude: 49.6112
+  longitude: 6.1354
+scores:
+  impact: 8.6
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.5
+  depth: 8.3
+  categories:
+    history: 9.3
+    architecture: 9.1

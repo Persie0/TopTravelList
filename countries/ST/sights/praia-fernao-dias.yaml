@@ -1,0 +1,15 @@
+id: sight-st-praia-fernao-dias
+name: "Praia Fernão Dias"
+location:
+  country_code: ST
+  latitude: 0.4130
+  longitude: 6.6550
+scores:
+  impact: 7.1
+  uniqueness: 8.0
+  significance: 8.7
+  experience: 7.6
+  depth: 6.3
+  categories:
+    history: 9.0
+    culture: 8.5

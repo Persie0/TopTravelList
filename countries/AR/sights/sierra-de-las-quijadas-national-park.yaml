@@ -1,0 +1,15 @@
+id: sight-ar-sierra-de-las-quijadas-national-park
+name: "Sierra de las Quijadas National Park"
+location:
+  country_code: AR
+  latitude: -32.5500
+  longitude: -67.1000
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 8.2
+  experience: 8.2
+  depth: 8.0
+  categories:
+    nature: 9.1
+    photography: 9.3

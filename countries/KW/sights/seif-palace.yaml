@@ -1,0 +1,15 @@
+id: sight-kw-seif-palace
+name: "Seif Palace"
+location:
+  country_code: KW
+  latitude: 29.3810
+  longitude: 47.9730
+scores:
+  impact: 7.4
+  uniqueness: 7.7
+  significance: 8.3
+  experience: 7.2
+  depth: 6.3
+  categories:
+    architecture: 8.5
+    history: 8.6

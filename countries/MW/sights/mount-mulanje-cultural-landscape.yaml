@@ -1,0 +1,17 @@
+id: sight-mw-mount-mulanje-cultural-landscape
+name: "Mount Mulanje Cultural Landscape"
+location:
+  country_code: MW
+  latitude: -15.911667
+  longitude: 35.658056
+scores:
+  impact: 9.4
+  uniqueness: 9.3
+  significance: 9.4
+  experience: 8.9
+  depth: 9.1
+  categories:
+    nature: 9.5
+    photography: 9.6
+    adventure: 9.4
+    culture: 9.4

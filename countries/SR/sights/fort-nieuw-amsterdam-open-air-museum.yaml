@@ -1,0 +1,15 @@
+id: sight-sr-fort-nieuw-amsterdam-open-air-museum
+name: "Fort Nieuw Amsterdam Open Air Museum"
+location:
+  country_code: SR
+  latitude: 5.8878
+  longitude: -55.0880
+scores:
+  impact: 7.7
+  uniqueness: 8.0
+  significance: 8.4
+  experience: 8.0
+  depth: 7.7
+  categories:
+    history: 8.7
+    architecture: 8.3

@@ -1,0 +1,15 @@
+id: sight-uy-esteros-de-farrapos-national-park
+name: "Esteros de Farrapos National Park"
+location:
+  country_code: UY
+  latitude: -32.7940
+  longitude: -58.1070
+scores:
+  impact: 7.9
+  uniqueness: 8.5
+  significance: 8.6
+  experience: 8.0
+  depth: 8.1
+  categories:
+    nature: 8.9
+    wildlife: 9.0

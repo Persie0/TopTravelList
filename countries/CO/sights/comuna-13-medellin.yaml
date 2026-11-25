@@ -1,0 +1,15 @@
+id: sight-co-comuna-13-medellin
+name: "Comuna 13 (Medellín)"
+location:
+  country_code: CO
+  latitude: 6.2510
+  longitude: -75.6220
+scores:
+  impact: 8.1
+  uniqueness: 8.9
+  significance: 8.3
+  experience: 8.5
+  depth: 7.5
+  categories:
+    culture: 9.3
+    photography: 8.7

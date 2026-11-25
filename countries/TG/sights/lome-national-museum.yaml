@@ -1,0 +1,15 @@
+id: sight-tg-lome-national-museum
+name: "Lomé National Museum"
+location:
+  country_code: TG
+  latitude: 6.1300
+  longitude: 1.2140
+scores:
+  impact: 6.7
+  uniqueness: 7.7
+  significance: 8.4
+  experience: 7.7
+  depth: 7.1
+  categories:
+    history: 8.9
+    culture: 8.8

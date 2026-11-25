@@ -1,0 +1,14 @@
+id: city-bh-hamad-town
+name: "Hamad Town"
+location:
+  country_code: BH
+  latitude: 26.1130
+  longitude: 50.5120
+scores:
+  impact: 6.0
+  uniqueness: 6.1
+  significance: 6.4
+  experience: 6.6
+  depth: 6.4
+  categories:
+    culture: 6.7

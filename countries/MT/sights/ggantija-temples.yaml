@@ -1,0 +1,16 @@
+id: sight-mt-ggantija-temples
+name: "Ġgantija Temples"
+location:
+  country_code: MT
+  latitude: 36.0490306
+  longitude: 14.2677528
+scores:
+  impact: 8.9
+  uniqueness: 9.4
+  significance: 9.6
+  experience: 8.8
+  depth: 8.5
+  categories:
+    history: 9.7
+    architecture: 9.3
+    culture: 9.4

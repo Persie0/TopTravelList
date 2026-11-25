@@ -1,0 +1,18 @@
+id: sight-co-ciudad-perdida-teyuna
+name: "Ciudad Perdida (Teyuna)"
+location:
+  country_code: CO
+  latitude: 11.0380
+  longitude: -73.9250
+scores:
+  impact: 9.1
+  uniqueness: 9.5
+  significance: 9.4
+  experience: 8.7
+  depth: 8.8
+  categories:
+    history: 9.6
+    architecture: 9.4
+    culture: 9.5
+    photography: 9.4
+    adventure: 9.4

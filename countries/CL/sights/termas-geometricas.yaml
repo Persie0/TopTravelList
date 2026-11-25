@@ -1,0 +1,16 @@
+id: sight-cl-termas-geometricas
+name: "Termas Geométricas"
+location:
+  country_code: CL
+  latitude: -39.5000
+  longitude: -71.8600
+scores:
+  impact: 8.4
+  uniqueness: 8.5
+  significance: 6.4
+  experience: 8.9
+  depth: 7.3
+  categories:
+    relaxation: 9.4
+    architecture: 8.4
+    photography: 8.7

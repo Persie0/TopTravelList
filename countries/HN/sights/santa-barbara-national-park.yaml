@@ -1,0 +1,15 @@
+id: sight-hn-santa-barbara-national-park
+name: "Santa Bárbara National Park"
+location:
+  country_code: HN
+  latitude: 14.9160
+  longitude: -88.1300
+scores:
+  impact: 8.4
+  uniqueness: 8.4
+  significance: 8.5
+  experience: 8.4
+  depth: 8.3
+  categories:
+    nature: 8.9
+    wildlife: 9.0

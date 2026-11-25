@@ -1,0 +1,16 @@
+id: sight-ar-delta-del-parana-tigre-visitor-routes
+name: "Delta del Paraná (Tigre visitor routes)"
+location:
+  country_code: AR
+  latitude: -34.3500
+  longitude: -58.6000
+scores:
+  impact: 8.2
+  uniqueness: 8.3
+  significance: 7.3
+  experience: 8.7
+  depth: 8.3
+  categories:
+    nature: 8.8
+    relaxation: 8.9
+    photography: 8.6

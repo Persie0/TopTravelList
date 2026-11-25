@@ -1,0 +1,15 @@
+id: sight-bh-qalat-al-bahrain-site-museum
+name: "Qalat al-Bahrain Site Museum"
+location:
+  country_code: BH
+  latitude: 26.2340
+  longitude: 50.5220
+scores:
+  impact: 7.5
+  uniqueness: 7.9
+  significance: 8.5
+  experience: 8.0
+  depth: 7.6
+  categories:
+    history: 8.8
+    culture: 8.2

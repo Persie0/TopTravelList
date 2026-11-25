@@ -1,0 +1,14 @@
+id: city-gy-mahdia
+name: "Mahdia"
+location:
+  country_code: GY
+  latitude: 5.2667
+  longitude: -59.1500
+scores:
+  impact: 6.1
+  uniqueness: 6.8
+  significance: 6.5
+  experience: 6.4
+  depth: 5.9
+  categories:
+    culture: 7.1

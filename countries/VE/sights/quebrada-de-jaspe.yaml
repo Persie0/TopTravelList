@@ -1,0 +1,15 @@
+id: sight-ve-quebrada-de-jaspe
+name: "Quebrada de Jaspe"
+location:
+  country_code: VE
+  latitude: 4.9100
+  longitude: -61.1300
+scores:
+  impact: 8.6
+  uniqueness: 9.0
+  significance: 7.7
+  experience: 8.1
+  depth: 6.8
+  categories:
+    nature: 9.1
+    photography: 9.3

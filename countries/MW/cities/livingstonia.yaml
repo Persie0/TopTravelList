@@ -1,0 +1,17 @@
+id: city-mw-livingstonia
+name: "Livingstonia"
+location:
+  country_code: MW
+  latitude: -10.6060
+  longitude: 34.1060
+scores:
+  impact: 8.2
+  uniqueness: 8.7
+  significance: 8.6
+  experience: 8.1
+  depth: 7.0
+  categories:
+    history: 9.1
+    architecture: 8.6
+    photography: 9.2
+    culture: 8.6

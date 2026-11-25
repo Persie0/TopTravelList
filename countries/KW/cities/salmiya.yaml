@@ -1,0 +1,15 @@
+id: city-kw-salmiya
+name: "Salmiya"
+location:
+  country_code: KW
+  latitude: 29.3375
+  longitude: 48.0760
+scores:
+  impact: 7.2
+  uniqueness: 6.9
+  significance: 6.3
+  experience: 8.1
+  depth: 7.5
+  categories:
+    food: 8.4
+    relaxation: 8.0

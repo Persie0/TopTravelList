@@ -1,0 +1,16 @@
+id: city-br-belem
+name: "Belém"
+location:
+  country_code: BR
+  latitude: -1.4558
+  longitude: -48.4902
+scores:
+  impact: 8.2
+  uniqueness: 8.7
+  significance: 8.6
+  experience: 8.2
+  depth: 8.5
+  categories:
+    food: 9.4
+    culture: 9.1
+    history: 8.8

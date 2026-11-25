@@ -1,0 +1,15 @@
+id: sight-sc-sir-selwyn-selwyn-clarke-market
+name: "Sir Selwyn Selwyn-Clarke Market"
+location:
+  country_code: SC
+  latitude: -4.6210
+  longitude: 55.4510
+scores:
+  impact: 7.3
+  uniqueness: 7.6
+  significance: 7.3
+  experience: 8.2
+  depth: 6.9
+  categories:
+    culture: 8.4
+    food: 8.5
