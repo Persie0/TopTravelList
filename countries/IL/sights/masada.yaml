@@ -1,0 +1,16 @@
+id: sight-il-masada
+name: "Masada National Park"
+location:
+  country_code: IL
+  latitude: 31.315556
+  longitude: 35.353611
+scores:
+  impact: 9.3
+  uniqueness: 9.3
+  significance: 9.4
+  experience: 9.0
+  depth: 8.8
+  categories:
+    history: 9.4
+    architecture: 9.3
+    photography: 9.4
