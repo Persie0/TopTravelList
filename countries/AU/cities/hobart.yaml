@@ -1,0 +1,17 @@
+id: city-au-hobart
+name: "Hobart"
+location:
+  country_code: AU
+  latitude: -42.87936
+  longitude: 147.32941
+scores:
+  impact: 8.3
+  uniqueness: 8.4
+  significance: 8.2
+  experience: 8.5
+  depth: 8.0
+  categories:
+    culture: 8.6
+    history: 8.6
+    nature: 8.5
+    food: 8.4

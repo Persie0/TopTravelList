@@ -1,0 +1,16 @@
+id: sight-fm-miil-channel
+name: "Mi'il Channel"
+location:
+  country_code: FM
+  latitude: 9.6006
+  longitude: 138.1306
+scores:
+  impact: 9.1
+  uniqueness: 9.1
+  significance: 8.6
+  experience: 9
+  depth: 7.9
+  categories:
+    wildlife: 9.4
+    nature: 9
+    adventure: 9.1

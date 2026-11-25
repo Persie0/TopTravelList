@@ -1,0 +1,13 @@
+id: city-ki-tabwakea
+name: "Tabwakea Village"
+location:
+  country_code: KI
+  latitude: 2.01643
+  longitude: -157.48773
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}

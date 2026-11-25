@@ -1,0 +1,15 @@
+id: sight-er-cinema-africa
+name: "Cinema Africa"
+location:
+  country_code: ER
+  latitude: 15.34
+  longitude: 38.94
+scores:
+  impact: 7.3
+  uniqueness: 8.1
+  significance: 8.0
+  experience: 7.2
+  depth: 5.9
+  categories:
+    architecture: 8.6
+    history: 8.2

@@ -1,0 +1,17 @@
+id: sight-vu-riri-blue-hole
+name: "Riri Blue Hole"
+location:
+  country_code: VU
+  latitude: -15.39424
+  longitude: 167.18356
+scores:
+  impact: 8.7
+  uniqueness: 8.3
+  significance: 7
+  experience: 8.7
+  depth: 7.5
+  categories:
+    nature: 8.8
+    photography: 8.9
+    relaxation: 8.6
+    adventure: 8.3

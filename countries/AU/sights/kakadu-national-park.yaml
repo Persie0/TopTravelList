@@ -1,0 +1,17 @@
+id: sight-au-kakadu-national-park
+name: "Kakadu National Park"
+location:
+  country_code: AU
+  latitude: -13
+  longitude: 132.5
+scores:
+  impact: 9.3
+  uniqueness: 9.4
+  significance: 9.5
+  experience: 9.0
+  depth: 9.4
+  categories:
+    nature: 9.4
+    wildlife: 9.3
+    culture: 9.5
+    history: 9.5

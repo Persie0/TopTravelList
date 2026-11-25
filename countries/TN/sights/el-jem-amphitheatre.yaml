@@ -1,0 +1,16 @@
+id: sight-tn-el-jem-amphitheatre
+name: "Amphitheatre of El Jem"
+location:
+  country_code: TN
+  latitude: 35.29639
+  longitude: 10.70694
+scores:
+  impact: 9.5
+  uniqueness: 9.4
+  significance: 9.5
+  experience: 9.1
+  depth: 8.5
+  categories:
+    architecture: 9.6
+    history: 9.5
+    photography: 9.4

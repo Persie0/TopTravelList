@@ -1,0 +1,15 @@
+id: city-eg-siwa
+name: "Siwa"
+location:
+  country_code: EG
+  latitude: 29.203
+  longitude: 25.519
+scores:
+  impact: 8.4
+  uniqueness: 8.9
+  significance: 8.2
+  experience: 8.4
+  depth: 7.8
+  categories:
+    architecture: 8.7
+    culture: 8.8

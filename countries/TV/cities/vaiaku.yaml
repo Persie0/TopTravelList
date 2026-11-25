@@ -1,0 +1,15 @@
+id: city-tv-vaiaku
+name: "Vaiaku Village"
+location:
+  country_code: TV
+  latitude: -8.52544
+  longitude: 179.1941
+scores:
+  impact: 6.1
+  uniqueness: 7.6
+  significance: 7.1
+  experience: 6.4
+  depth: 5.6
+  categories:
+    culture: 7.0
+    photography: 6.5

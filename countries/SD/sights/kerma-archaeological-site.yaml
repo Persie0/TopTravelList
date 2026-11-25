@@ -1,0 +1,15 @@
+id: sight-sd-kerma-archaeological-site
+name: "Kerma Archaeological Site"
+location:
+  country_code: SD
+  latitude: 19.6008
+  longitude: 30.40973
+scores:
+  impact: 8.8
+  uniqueness: 9.3
+  significance: 9.6
+  experience: 8.3
+  depth: 8.4
+  categories:
+    history: 9.7
+    architecture: 9.0

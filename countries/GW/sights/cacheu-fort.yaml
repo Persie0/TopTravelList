@@ -1,0 +1,15 @@
+id: sight-gw-cacheu-fort
+name: "Cacheu Fort"
+location:
+  country_code: GW
+  latitude: 12.27694
+  longitude: -16.16722
+scores:
+  impact: 7.2
+  uniqueness: 8.0
+  significance: 8.7
+  experience: 7.5
+  depth: 6.3
+  categories:
+    history: 9.0
+    architecture: 8.0

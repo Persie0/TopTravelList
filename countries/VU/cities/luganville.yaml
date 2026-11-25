@@ -1,0 +1,16 @@
+id: city-vu-luganville
+name: "Luganville"
+location:
+  country_code: VU
+  latitude: -15.51989
+  longitude: 167.16235
+scores:
+  impact: 6.4
+  uniqueness: 7.1
+  significance: 7.2
+  experience: 7.2
+  depth: 6.6
+  categories:
+    culture: 7.4
+    food: 7.1
+    history: 7.5

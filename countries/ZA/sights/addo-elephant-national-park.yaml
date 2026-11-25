@@ -1,0 +1,16 @@
+id: sight-za-addo-elephant-national-park
+name: "Addo Elephant National Park"
+location:
+  country_code: ZA
+  latitude: -33.45
+  longitude: 25.75
+scores:
+  impact: 9.1
+  uniqueness: 8.9
+  significance: 8.9
+  experience: 9.0
+  depth: 9.0
+  categories:
+    nature: 9.1
+    wildlife: 9.4
+    photography: 9.1

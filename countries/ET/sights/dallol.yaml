@@ -1,0 +1,16 @@
+id: sight-et-dallol
+name: "Dallol Geothermal Landscape"
+location:
+  country_code: ET
+  latitude: 14.24
+  longitude: 40.3
+scores:
+  impact: 9.7
+  uniqueness: 9.8
+  significance: 9.1
+  experience: 8.8
+  depth: 8.0
+  categories:
+    nature: 9.7
+    photography: 9.8
+    adventure: 8.9

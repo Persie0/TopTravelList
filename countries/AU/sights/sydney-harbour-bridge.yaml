@@ -1,0 +1,16 @@
+id: sight-au-sydney-harbour-bridge
+name: "Sydney Harbour Bridge"
+location:
+  country_code: AU
+  latitude: -33.8523
+  longitude: 151.2108
+scores:
+  impact: 8.9
+  uniqueness: 8.6
+  significance: 8.8
+  experience: 8.7
+  depth: 7.8
+  categories:
+    architecture: 8.9
+    photography: 9.0
+    history: 8.7

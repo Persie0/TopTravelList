@@ -1,0 +1,17 @@
+id: city-tn-tunis
+name: "Tunis"
+location:
+  country_code: TN
+  latitude: 36.8065
+  longitude: 10.1815
+scores:
+  impact: 8.7
+  uniqueness: 8.7
+  significance: 9.1
+  experience: 8.7
+  depth: 9.0
+  categories:
+    culture: 9.0
+    food: 8.8
+    architecture: 8.8
+    history: 9.0

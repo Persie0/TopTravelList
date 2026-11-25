@@ -1,0 +1,15 @@
+id: city-au-townsville
+name: "Townsville"
+location:
+  country_code: AU
+  latitude: -19.26639
+  longitude: 146.80569
+scores:
+  impact: 7.5
+  uniqueness: 7.5
+  significance: 7.3
+  experience: 7.7
+  depth: 7.3
+  categories:
+    nature: 7.9
+    culture: 7.6

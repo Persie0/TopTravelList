@@ -1,0 +1,15 @@
+id: sight-eg-abydos
+name: "Abydos Temple and Archaeological Area"
+location:
+  country_code: EG
+  latitude: 26.185
+  longitude: 31.919
+scores:
+  impact: 9.3
+  uniqueness: 9.5
+  significance: 9.6
+  experience: 8.9
+  depth: 8.8
+  categories:
+    history: 9.7
+    architecture: 9.5

@@ -1,0 +1,16 @@
+id: sight-nz-napier-art-deco
+name: "Napier Art Deco historic precinct"
+location:
+  country_code: NZ
+  latitude: -39.5
+  longitude: 176.916667
+scores:
+  impact: 8.4
+  uniqueness: 8.9
+  significance: 8.5
+  experience: 8.3
+  depth: 8.0
+  categories:
+    architecture: 9.0
+    history: 8.6
+    photography: 8.7

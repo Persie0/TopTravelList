@@ -1,0 +1,15 @@
+id: sight-mh-delap-park
+name: "Delap Park"
+location:
+  country_code: MH
+  latitude: 7.08903
+  longitude: 171.37902
+scores:
+  impact: 5.8
+  uniqueness: 5.8
+  significance: 5.3
+  experience: 6.3
+  depth: 4.8
+  categories:
+    relaxation: 6.6
+    photography: 6.1

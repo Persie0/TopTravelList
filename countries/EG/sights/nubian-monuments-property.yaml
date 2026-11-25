@@ -1,0 +1,13 @@
+id: sight-eg-nubian-monuments-property
+name: "Nubian Monuments from Abu Simbel to Philae"
+location:
+  country_code: EG
+  latitude: 24.0
+  longitude: 32.5
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}

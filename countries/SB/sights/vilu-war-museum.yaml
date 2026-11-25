@@ -1,0 +1,14 @@
+id: sight-sb-vilu-war-museum
+name: "Vilu War Museum"
+location:
+  country_code: SB
+  latitude: -9.31898
+  longitude: 159.79354
+scores:
+  impact: 7.2
+  uniqueness: 7.9
+  significance: 8.2
+  experience: 7.4
+  depth: 7.0
+  categories:
+    history: 8.5

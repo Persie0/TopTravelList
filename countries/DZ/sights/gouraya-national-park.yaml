@@ -1,0 +1,16 @@
+id: sight-dz-gouraya-national-park
+name: "Gouraya National Park"
+location:
+  country_code: DZ
+  latitude: 36.77
+  longitude: 5.08
+scores:
+  impact: 8.5
+  uniqueness: 8.1
+  significance: 8.2
+  experience: 8.4
+  depth: 8.2
+  categories:
+    nature: 8.7
+    adventure: 8.4
+    photography: 8.7

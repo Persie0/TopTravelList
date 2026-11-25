@@ -1,0 +1,16 @@
+id: sight-ke-maasai-mara
+name: "Maasai Mara National Reserve"
+location:
+  country_code: KE
+  latitude: -1.49
+  longitude: 35.14
+scores:
+  impact: 9.8
+  uniqueness: 9.6
+  significance: 9.5
+  experience: 9.6
+  depth: 9.5
+  categories:
+    nature: 9.6
+    wildlife: 9.9
+    photography: 9.7

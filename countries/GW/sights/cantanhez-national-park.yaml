@@ -1,0 +1,16 @@
+id: sight-gw-cantanhez-national-park
+name: "Cantanhez National Park"
+location:
+  country_code: GW
+  latitude: 11.15
+  longitude: -15.0
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 9.1
+  experience: 8.3
+  depth: 8.4
+  categories:
+    nature: 9.2
+    wildlife: 9.4
+    adventure: 8.6

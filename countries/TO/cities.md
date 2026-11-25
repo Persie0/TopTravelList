@@ -2,7 +2,7 @@
 
 # Tonga (TO) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**6 ranked** · **1 unassessed** · **7 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,24 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (6)
 
-No cities, towns & villages have been assessed for **Tonga** yet.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Mu'a](cities/mua.yaml) | City / town | **75.70** | **History 8.7**, **Culture 8.2**, **Photography 7.3** | 7.0 / 8.0 / 8.5 / 7.2 / 6.9 | [-21.18195, -175.11832](https://www.google.com/maps/search/?api=1&query=-21.18195,-175.11832) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mu%27a%2C%20Tonga) |
+| 2 | [Nuku'alofa](cities/nukualofa.yaml) | City / town | **75.45** | **Culture 8.1**, **History 8.0**, **Architecture 7.4**, Food 7.2 | 7.0 / 7.8 / 8.0 / 7.7 / 7.4 | [-21.13683, -175.20114](https://www.google.com/maps/search/?api=1&query=-21.13683,-175.20114) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nuku%27alofa%2C%20Tonga) |
+| 3 | [Neiafu](cities/neiafu.yaml) | City / town | **73.50** | **Photography 7.8**, **Culture 7.5**, **Food 7.3** | 7.3 / 7.6 / 6.9 / 7.8 / 7.1 | [-18.65144, -173.98354](https://www.google.com/maps/search/?api=1&query=-18.65144,-173.98354) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Neiafu%2C%20Tonga) |
+| 4 | [Pangai](cities/pangai.yaml) | City / town | **66.20** | **Culture 7.1**, **History 6.7** | 6.4 / 7.0 / 6.6 / 6.8 / 6.1 | [-19.81468, -174.35423](https://www.google.com/maps/search/?api=1&query=-19.81468,-174.35423) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Pangai%2C%20Tonga) |
+| 5 | [Vaini](cities/vaini.yaml) | City / town | **65.20** | **Culture 7.5**, **Food 7.3** | 6.3 / 6.9 / 6.2 / 7.1 / 6.0 | [-21.193, -175.177](https://www.google.com/maps/search/?api=1&query=-21.193,-175.177) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Vaini%2C%20Tonga) |
+| 6 | ['Ohonua](cities/ohonua.yaml) | City / town | **62.40** | — | 6.1 / 6.6 / 6.2 / 6.4 / 5.6 | [-21.342139, -174.955861](https://www.google.com/maps/search/?api=1&query=-21.342139,-174.955861) | [Google Maps](https://www.google.com/maps/search/?api=1&query=%27Ohonua%2C%20Tonga) |
 
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+## Not yet fully assessed (1)
+
+These destinations have no rank until all five core scores are assessed.
+
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| — | [Hihifo (Niuatoputapu)](cities/hihifo-niuatoputapu.yaml) | City / town | **—** | — | — / — / — / — / — | [-15.95666, -173.79618](https://www.google.com/maps/search/?api=1&query=-15.95666,-173.79618) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hihifo%20%28Niuatoputapu%29%2C%20Tonga) |
 
 ---
 

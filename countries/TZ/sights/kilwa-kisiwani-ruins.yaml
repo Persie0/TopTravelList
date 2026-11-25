@@ -1,0 +1,15 @@
+id: sight-tz-kilwa-kisiwani-ruins
+name: "Ruins of Kilwa Kisiwani"
+location:
+  country_code: TZ
+  latitude: -8.957778
+  longitude: 39.522778
+scores:
+  impact: 8.8
+  uniqueness: 9.3
+  significance: 9.5
+  experience: 8.6
+  depth: 8.7
+  categories:
+    history: 9.5
+    architecture: 9.2

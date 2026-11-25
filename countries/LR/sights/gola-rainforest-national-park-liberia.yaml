@@ -1,0 +1,15 @@
+id: sight-lr-gola-rainforest-national-park-liberia
+name: "Gola Rainforest National Park (Liberia)"
+location:
+  country_code: LR
+  latitude: 6.926331
+  longitude: -10.757331
+scores:
+  impact: null
+  uniqueness: 9.0
+  significance: 9.4
+  experience: null
+  depth: null
+  categories:
+    nature: 9.4
+    wildlife: null

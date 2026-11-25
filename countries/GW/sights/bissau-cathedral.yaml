@@ -1,0 +1,15 @@
+id: sight-gw-bissau-cathedral
+name: "Bissau Cathedral"
+location:
+  country_code: GW
+  latitude: 11.861
+  longitude: -15.581
+scores:
+  impact: 6.8
+  uniqueness: 7.4
+  significance: 7.6
+  experience: 7.1
+  depth: 6.0
+  categories:
+    architecture: 8.0
+    history: 8.0

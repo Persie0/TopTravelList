@@ -1,0 +1,15 @@
+id: sight-au-twelve-apostles
+name: "Twelve Apostles"
+location:
+  country_code: AU
+  latitude: -38.665
+  longitude: 143.105
+scores:
+  impact: 9.1
+  uniqueness: 8.6
+  significance: 7.8
+  experience: 8.7
+  depth: 7.6
+  categories:
+    nature: 9.0
+    photography: 9.2

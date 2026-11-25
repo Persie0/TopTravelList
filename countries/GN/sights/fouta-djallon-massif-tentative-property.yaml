@@ -1,0 +1,16 @@
+id: sight-gn-fouta-djallon-massif-tentative-property
+name: "Fouta Djallon Massif (tentative property)"
+location:
+  country_code: GN
+  latitude: 11.0
+  longitude: -12.35
+scores:
+  impact: null
+  uniqueness: 9.2
+  significance: 9.3
+  experience: null
+  depth: null
+  categories:
+    nature: 9.4
+    photography: 9.4
+    adventure: 9.2

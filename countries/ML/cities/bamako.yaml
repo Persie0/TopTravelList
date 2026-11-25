@@ -1,0 +1,15 @@
+id: city-ml-bamako
+name: "Bamako"
+location:
+  country_code: ML
+  latitude: 12.65
+  longitude: -8
+scores:
+  impact: 7.4
+  uniqueness: 7.7
+  significance: 8.1
+  experience: 8.0
+  depth: 8.2
+  categories:
+    culture: 8.7
+    food: 8.0

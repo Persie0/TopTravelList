@@ -1,0 +1,13 @@
+id: sight-tn-jebel-tebaga
+name: "Jebel Tebaga Marine Permian Site"
+location:
+  country_code: TN
+  latitude: 33.68
+  longitude: 9.99
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}

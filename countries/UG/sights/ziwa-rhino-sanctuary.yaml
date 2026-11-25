@@ -1,0 +1,16 @@
+id: sight-ug-ziwa-rhino-sanctuary
+name: "Ziwa Rhino Sanctuary"
+location:
+  country_code: UG
+  latitude: 1.4506
+  longitude: 32.0971
+scores:
+  impact: 9
+  uniqueness: 9.1
+  significance: 9.2
+  experience: 9
+  depth: 8.2
+  categories:
+    wildlife: 9.4
+    nature: 8.8
+    adventure: 9

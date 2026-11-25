@@ -1,0 +1,15 @@
+id: sight-nr-command-ridge
+name: "Command Ridge"
+location:
+  country_code: NR
+  latitude: -0.530978
+  longitude: 166.916756
+scores:
+  impact: 6.5
+  uniqueness: 6.9
+  significance: 7.2
+  experience: 6.3
+  depth: 5.7
+  categories:
+    history: 7.7
+    photography: 6.6

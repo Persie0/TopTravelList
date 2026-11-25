@@ -1,0 +1,17 @@
+id: sight-sb-kennedy-island
+name: "Kennedy Island (Kasolo)"
+location:
+  country_code: SB
+  latitude: -8.11286
+  longitude: 156.90574
+scores:
+  impact: 7.9
+  uniqueness: 8.1
+  significance: 8.2
+  experience: 8.3
+  depth: 6.8
+  categories:
+    history: 8.5
+    beaches: 8.1
+    relaxation: 8.2
+    nature: 8

@@ -1,0 +1,16 @@
+id: sight-nz-aoraki-mount-cook-national-park
+name: "Aoraki / Mount Cook National Park"
+location:
+  country_code: NZ
+  latitude: -43.733
+  longitude: 170.1
+scores:
+  impact: 9.4
+  uniqueness: 9.0
+  significance: 8.9
+  experience: 9.1
+  depth: 9.1
+  categories:
+    nature: 9.4
+    adventure: 9.3
+    photography: 9.4

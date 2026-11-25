@@ -1,0 +1,16 @@
+id: sight-tn-carthage-archaeological-site
+name: "Archaeological Site of Carthage"
+location:
+  country_code: TN
+  latitude: 36.8528
+  longitude: 10.3233
+scores:
+  impact: 8.9
+  uniqueness: 9.4
+  significance: 9.8
+  experience: 8.7
+  depth: 9.1
+  categories:
+    history: 9.8
+    architecture: 8.9
+    culture: 9.1

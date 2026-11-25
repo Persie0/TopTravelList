@@ -1,0 +1,16 @@
+id: sight-ws-fagaloa-bay-uafato-tiavea-conservation-zone
+name: "Fagaloa Bay–Uafato Tiavea Conservation Zone"
+location:
+  country_code: WS
+  latitude: -13.95833
+  longitude: -171.5
+scores:
+  impact: 8.4
+  uniqueness: 8.6
+  significance: 8.8
+  experience: 8.2
+  depth: 8.1
+  categories:
+    nature: 8.9
+    wildlife: 8.6
+    culture: 8.5

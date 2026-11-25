@@ -1,0 +1,16 @@
+id: sight-eg-abu-simbel
+name: "Abu Simbel Temples"
+location:
+  country_code: EG
+  latitude: 22.3372
+  longitude: 31.6258
+scores:
+  impact: 9.8
+  uniqueness: 9.8
+  significance: 9.7
+  experience: 9.3
+  depth: 8.8
+  categories:
+    architecture: 9.8
+    history: 9.7
+    photography: 9.7

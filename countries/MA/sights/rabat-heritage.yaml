@@ -1,0 +1,16 @@
+id: sight-ma-rabat-heritage
+name: "Rabat Modern Capital and Historic City Heritage Ensemble"
+location:
+  country_code: MA
+  latitude: 34.022
+  longitude: -6.833
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 9.3
+  experience: 8.8
+  depth: 9.0
+  categories:
+    architecture: 9.3
+    history: 9.3
+    culture: 9.1

@@ -1,0 +1,15 @@
+id: sight-ke-gedi
+name: "Historic Town and Archaeological Site of Gedi"
+location:
+  country_code: KE
+  latitude: -3.310264
+  longitude: 40.017264
+scores:
+  impact: 8.7
+  uniqueness: 9.1
+  significance: 9.3
+  experience: 8.6
+  depth: 8.5
+  categories:
+    history: 9.4
+    architecture: 9.1

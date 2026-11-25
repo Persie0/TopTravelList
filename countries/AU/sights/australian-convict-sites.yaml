@@ -1,0 +1,15 @@
+id: sight-au-australian-convict-sites
+name: "Australian Convict Sites"
+location:
+  country_code: AU
+  latitude: -43.147
+  longitude: 147.851
+scores:
+  impact: 8.3
+  uniqueness: 8.8
+  significance: 9.3
+  experience: 8.8
+  depth: 9.2
+  categories:
+    history: 9.3
+    architecture: 8.7

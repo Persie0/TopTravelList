@@ -1,0 +1,16 @@
+id: sight-dz-timgad
+name: "Timgad"
+location:
+  country_code: DZ
+  latitude: 35.484
+  longitude: 6.467
+scores:
+  impact: 9.3
+  uniqueness: 9.4
+  significance: 9.5
+  experience: 9.1
+  depth: 9.0
+  categories:
+    architecture: 9.4
+    history: 9.5
+    photography: 9.3
