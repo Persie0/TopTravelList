@@ -2,7 +2,7 @@
 
 # Turkmenistan (TM) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**11 ranked** · **1 unassessed** · **12 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,29 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (11)
 
-No cities, towns & villages have been assessed for **Turkmenistan** yet.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Ashgabat](cities/ashgabat.yaml) | City / town | **83.00** | **Architecture 9.2**, **Photography 8.9**, **Culture 8.0** | 8.5 / 9.1 / 7.6 / 7.5 / 8.3 | [37.9601, 58.3261](https://www.google.com/maps/search/?api=1&query=37.9601,58.3261) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ashgabat%2C%20Turkmenistan) |
+| 2 | [Nokhur](cities/nokhur.yaml) | City / town | **76.95** | **Culture 8.8**, **Photography 8.5** | 7.7 / 8.4 / 7.3 / 7.9 / 6.4 | [38.32, 57.15](https://www.google.com/maps/search/?api=1&query=38.32,57.15) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nokhur%2C%20Turkmenistan) |
+| 3 | [Turkmenbashi](cities/turkmenbashi.yaml) | City / town | **71.30** | **Photography 7.9**, **Relaxation 7.7** | 7.0 / 7.5 / 6.9 / 7.3 / 6.8 | [40.02, 52.97](https://www.google.com/maps/search/?api=1&query=40.02,52.97) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Turkmenbashi%2C%20Turkmenistan) |
+| 4 | [Koneurgench (Modern Town)](cities/koneurgench-modern-town.yaml) | Town | **70.05** | **History 8.2**, **Culture 7.7** | 6.5 / 7.2 / 7.6 / 7.3 / 6.4 | [42.32, 59.15](https://www.google.com/maps/search/?api=1&query=42.32,59.15) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Koneurgench%20%28Modern%20Town%29%2C%20Turkmenistan) |
+| 5 | [Awaza](cities/awaza.yaml) | City / town | **69.10** | **Relaxation 8.3**, **Beaches 8.0** | 7.3 / 7.2 / 5.5 / 7.6 / 6.8 | [39.96, 53](https://www.google.com/maps/search/?api=1&query=39.96,53) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Awaza%2C%20Turkmenistan) |
+| 5 | [Mary](cities/mary.yaml) | City / town | **69.10** | **History 7.8**, **Culture 7.7** | 6.5 / 7.0 / 7.3 / 7.2 / 6.7 | [37.6, 61.83](https://www.google.com/maps/search/?api=1&query=37.6,61.83) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mary%2C%20Turkmenistan) |
+| 7 | [Gokdepe](cities/gokdepe.yaml) | City / town | **68.80** | **History 8.1**, **Culture 7.5** | 6.4 / 7.0 / 7.7 / 7.0 / 6.2 | [38.16, 57.96](https://www.google.com/maps/search/?api=1&query=38.16,57.96) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Gokdepe%2C%20Turkmenistan) |
+| 8 | [Turkmenabat](cities/turkmenabat.yaml) | City / town | **68.05** | **History 7.6**, **Culture 7.4** | 6.4 / 6.9 / 7.2 / 7.0 / 6.7 | [39.07, 63.58](https://www.google.com/maps/search/?api=1&query=39.07,63.58) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Turkmenabat%2C%20Turkmenistan) |
+| 9 | [Bayramaly](cities/bayramaly.yaml) | City / town | **66.55** | **Culture 7.4** | 6.3 / 6.7 / 7.0 / 7.0 / 6.4 | [37.62, 62.17](https://www.google.com/maps/search/?api=1&query=37.62,62.17) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bayramaly%2C%20Turkmenistan) |
+| 10 | [Dashoguz](cities/dashoguz.yaml) | City / town | **66.25** | **Culture 7.3** | 6.3 / 6.7 / 6.8 / 7.0 / 6.5 | [41.84, 59.97](https://www.google.com/maps/search/?api=1&query=41.84,59.97) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Dashoguz%2C%20Turkmenistan) |
+| 11 | [Balkanabat](cities/balkanabat.yaml) | City / town | **64.60** | **Culture 7.1** | 6.1 / 6.7 / 6.4 / 6.9 / 6.4 | [39.51, 54.36](https://www.google.com/maps/search/?api=1&query=39.51,54.36) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Balkanabat%2C%20Turkmenistan) |
 
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+## Not yet fully assessed (1)
+
+These destinations have no rank until all five core scores are assessed.
+
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| — | [Serhetabat](cities/serhetabat.yaml) | City / town | **—** | **History 7.6** | — / 7.0 / 7.2 / — / — | [35.28, 62.35](https://www.google.com/maps/search/?api=1&query=35.28,62.35) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Serhetabat%2C%20Turkmenistan) |
 
 ---
 

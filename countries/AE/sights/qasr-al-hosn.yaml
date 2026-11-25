@@ -1,0 +1,15 @@
+id: sight-ae-qasr-al-hosn
+name: "Qasr Al Hosn"
+location:
+  country_code: AE
+  latitude: 24.482
+  longitude: 54.354
+scores:
+  impact: 7.9
+  uniqueness: 8.0
+  significance: 8.7
+  experience: 8.2
+  depth: 7.8
+  categories:
+    history: 9.1
+    culture: 8.5

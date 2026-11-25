@@ -1,0 +1,16 @@
+id: sight-az-diri-baba-mausoleum
+name: "Diri Baba Mausoleum"
+location:
+  country_code: AZ
+  latitude: 40.53
+  longitude: 49.01
+scores:
+  impact: 8.3
+  uniqueness: 8.7
+  significance: 8.6
+  experience: 8.2
+  depth: 6.7
+  categories:
+    architecture: 9.0
+    history: 8.9
+    photography: 9.0

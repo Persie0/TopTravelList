@@ -2,7 +2,7 @@
 
 # United Arab Emirates (AE) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**14 ranked** · **0 unassessed** · **14 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,24 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (14)
 
-No cities, towns & villages have been assessed for **United Arab Emirates** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Dubai](cities/dubai.yaml) | City / town | **90.65** | **Architecture 9.5**, **Photography 9.5**, **Nightlife 9.3**, Family 9.2, Food 9.0 | 9.2 / 9.3 / 8.1 / 9.4 / 9.5 | [25.2048, 55.2708](https://www.google.com/maps/search/?api=1&query=25.2048,55.2708) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Dubai%2C%20United%20Arab%20Emirates) |
+| 2 | [Abu Dhabi](cities/abu-dhabi.yaml) | City / town | **86.50** | **Architecture 9.2**, **Culture 8.9**, **Food 8.5** | 8.7 / 8.5 / 8.4 / 8.9 / 9.0 | [24.4539, 54.3773](https://www.google.com/maps/search/?api=1&query=24.4539,54.3773) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Abu%20Dhabi%2C%20United%20Arab%20Emirates) |
+| 3 | [Al Ain](cities/al-ain.yaml) | City / town | **82.95** | **History 9.0**, **Culture 8.7**, **Nature 8.2** | 8.0 / 8.4 / 8.7 / 8.3 / 8.1 | [24.2075, 55.7447](https://www.google.com/maps/search/?api=1&query=24.2075,55.7447) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Al%20Ain%2C%20United%20Arab%20Emirates) |
+| 4 | [Sharjah](cities/sharjah.yaml) | City / town | **81.60** | **Culture 8.9**, **History 8.6**, **Architecture 8.5** | 7.9 / 8.2 / 8.3 / 8.2 / 8.5 | [25.3463, 55.4209](https://www.google.com/maps/search/?api=1&query=25.3463,55.4209) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sharjah%2C%20United%20Arab%20Emirates) |
+| 5 | [Khor Fakkan](cities/khor-fakkan.yaml) | City / town | **77.80** | **Photography 8.5**, **Relaxation 8.4** | 7.9 / 8.0 / 7.2 / 8.2 / 7.4 | [25.339, 56.357](https://www.google.com/maps/search/?api=1&query=25.339,56.357) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Khor%20Fakkan%2C%20United%20Arab%20Emirates) |
+| 6 | [Hatta](cities/hatta.yaml) | City / town | **76.45** | **Culture 8.3**, **Photography 8.3** | 7.6 / 8.0 / 7.4 / 7.9 / 7.0 | [24.808, 56.127](https://www.google.com/maps/search/?api=1&query=24.808,56.127) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hatta%2C%20United%20Arab%20Emirates) |
+| 7 | [Ras Al Khaimah](cities/ras-al-khaimah.yaml) | City / town | **75.50** | **History 8.1**, **Culture 7.8**, **Relaxation 7.8** | 7.3 / 7.6 / 7.7 / 7.8 / 7.5 | [25.7895, 55.9432](https://www.google.com/maps/search/?api=1&query=25.7895,55.9432) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ras%20Al%20Khaimah%2C%20United%20Arab%20Emirates) |
+| 8 | [Kalba](cities/kalba.yaml) | City / town | **75.10** | **Relaxation 8.0**, **Culture 7.9** | 7.4 / 7.8 / 7.4 / 7.8 / 6.9 | [25.069, 56.355](https://www.google.com/maps/search/?api=1&query=25.069,56.355) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kalba%2C%20United%20Arab%20Emirates) |
+| 9 | [Fujairah](cities/fujairah.yaml) | City / town | **73.55** | **History 7.9**, **Culture 7.8** | 7.2 / 7.4 / 7.4 / 7.7 / 7.1 | [25.1288, 56.3265](https://www.google.com/maps/search/?api=1&query=25.1288,56.3265) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Fujairah%2C%20United%20Arab%20Emirates) |
+| 10 | [Al Rams](cities/al-rams.yaml) | City / town | **72.15** | **Photography 8.0**, **Culture 7.9** | 7.0 / 7.6 / 7.3 / 7.5 / 6.3 | [25.87, 56.01](https://www.google.com/maps/search/?api=1&query=25.87,56.01) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Al%20Rams%2C%20United%20Arab%20Emirates) |
+| 11 | [Umm Al Quwain](cities/umm-al-quwain.yaml) | City / town | **71.90** | **Relaxation 7.9**, **Culture 7.8** | 7.0 / 7.3 / 7.3 / 7.5 / 6.8 | [25.565, 55.553](https://www.google.com/maps/search/?api=1&query=25.565,55.553) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Umm%20Al%20Quwain%2C%20United%20Arab%20Emirates) |
+| 12 | [Dibba Al Fujairah](cities/dibba-al-fujairah.yaml) | City / town | **70.95** | **Relaxation 7.7**, **Culture 7.5** | 7.0 / 7.2 / 7.0 / 7.5 / 6.7 | [25.59, 56.26](https://www.google.com/maps/search/?api=1&query=25.59,56.26) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Dibba%20Al%20Fujairah%2C%20United%20Arab%20Emirates) |
+| 13 | [Ajman](cities/ajman.yaml) | City / town | **70.60** | **Relaxation 8.0**, **Food 7.8** | 6.9 / 6.9 / 6.9 / 7.7 / 7.3 | [25.4052, 55.5136](https://www.google.com/maps/search/?api=1&query=25.4052,55.5136) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ajman%2C%20United%20Arab%20Emirates) |
+| 14 | [Madinat Zayed](cities/madinat-zayed.yaml) | City / town | **64.70** | **Culture 7.0** | 6.2 / 6.6 / 6.4 / 7.0 / 6.3 | [23.654, 53.705](https://www.google.com/maps/search/?api=1&query=23.654,53.705) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Madinat%20Zayed%2C%20United%20Arab%20Emirates) |
 
 ---
 

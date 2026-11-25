@@ -1,0 +1,15 @@
+id: city-kz-atyrau
+name: "Atyrau"
+location:
+  country_code: KZ
+  latitude: 47.107
+  longitude: 51.914
+scores:
+  impact: 6.8
+  uniqueness: 7.5
+  significance: 6.9
+  experience: 7.5
+  depth: 7.1
+  categories:
+    photography: 7.9
+    culture: 7.7

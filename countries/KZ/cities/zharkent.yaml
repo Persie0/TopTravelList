@@ -1,0 +1,16 @@
+id: city-kz-zharkent
+name: "Zharkent"
+location:
+  country_code: KZ
+  latitude: 44.166
+  longitude: 80.007
+scores:
+  impact: 7.2
+  uniqueness: 7.9
+  significance: 8.0
+  experience: 7.8
+  depth: 6.8
+  categories:
+    architecture: 8.5
+    history: 8.4
+    culture: 8.2

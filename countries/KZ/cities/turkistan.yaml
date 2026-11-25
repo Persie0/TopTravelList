@@ -1,0 +1,16 @@
+id: city-kz-turkistan
+name: "Turkistan"
+location:
+  country_code: KZ
+  latitude: 43.301
+  longitude: 68.269
+scores:
+  impact: 8.0
+  uniqueness: 8.4
+  significance: 8.8
+  experience: 8.3
+  depth: 7.7
+  categories:
+    architecture: 8.8
+    history: 9.1
+    culture: 8.9

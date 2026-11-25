@@ -1,0 +1,15 @@
+id: sight-az-palace-of-the-shirvanshahs
+name: "Palace of the Shirvanshahs"
+location:
+  country_code: AZ
+  latitude: 40.366
+  longitude: 49.833
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 9.1
+  experience: 8.6
+  depth: 8.0
+  categories:
+    architecture: 9.2
+    history: 9.3
