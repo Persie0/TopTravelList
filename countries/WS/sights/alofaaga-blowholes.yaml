@@ -1,0 +1,15 @@
+id: sight-ws-alofaaga-blowholes
+name: "Alofaaga Blowholes"
+location:
+  country_code: WS
+  latitude: -13.80163
+  longitude: -172.51904
+scores:
+  impact: 8.6
+  uniqueness: 8.3
+  significance: 6.9
+  experience: 8.3
+  depth: 7.4
+  categories:
+    nature: 8.7
+    photography: 8.8

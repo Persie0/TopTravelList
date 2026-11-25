@@ -2,7 +2,7 @@
 
 # Samoa (WS) — Sights & attractions ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**8 ranked** · **3 unassessed** · **11 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,11 +10,28 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (8)
 
-No sights & attractions have been assessed for **Samoa** yet.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [To Sua Ocean Trench](sights/to-sua-ocean-trench.yaml) | Attraction | **85.60** | **Photography 9.3**, **Nature 9.1**, **Adventure 8.6** | 9.1 / 9.0 / 7.4 / 9.0 / 7.5 | [-14.0439, -171.56232](https://www.google.com/maps/search/?api=1&query=-14.0439,-171.56232) | [Google Maps](https://www.google.com/maps/search/?api=1&query=To%20Sua%20Ocean%20Trench%2C%20Samoa) |
+| 2 | [Saleaula Lava Fields](sights/saleaula-lava-fields.yaml) | Attraction | **83.35** | **Nature 8.6**, **Photography 8.6**, **History 8.5** | 8.4 / 8.7 / 8.3 / 8.0 / 7.8 | [-13.4591, -172.31761](https://www.google.com/maps/search/?api=1&query=-13.4591,-172.31761) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Saleaula%20Lava%20Fields%2C%20Samoa) |
+| 3 | [Robert Louis Stevenson Museum](sights/robert-louis-stevenson-museum.yaml) | Museum / heritage | **81.10** | **Culture 8.8**, **History 8.7**, **Architecture 7.8** | 7.7 / 8.5 / 8.5 / 8.1 / 7.6 | [-13.86636, -171.76551](https://www.google.com/maps/search/?api=1&query=-13.86636,-171.76551) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Robert%20Louis%20Stevenson%20Museum%2C%20Samoa) |
+| 4 | [Alofaaga Blowholes](sights/alofaaga-blowholes.yaml) | Attraction | **80.20** | **Photography 8.8**, **Nature 8.7** | 8.6 / 8.3 / 6.9 / 8.3 / 7.4 | [-13.80163, -172.51904](https://www.google.com/maps/search/?api=1&query=-13.80163,-172.51904) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Alofaaga%20Blowholes%2C%20Samoa) |
+| 5 | [Lalomanu Beach](sights/lalomanu-beach.yaml) | Beach / bay | **79.05** | **Beaches 9.0**, **Relaxation 8.8**, **Photography 8.7**, Nature 8.4 | 8.7 / 7.8 / 6.5 / 8.7 / 7.4 | [-14.04593, -171.45052](https://www.google.com/maps/search/?api=1&query=-14.04593,-171.45052) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lalomanu%20Beach%2C%20Samoa) |
+| 6 | [Piula Cave Pool](sights/piula-cave-pool.yaml) | Cave | **76.10** | **Nature 8.0**, **Relaxation 8.0**, **Photography 7.8** | 7.9 / 8.0 / 6.8 / 8.0 / 6.8 | [-13.87325, -171.59713](https://www.google.com/maps/search/?api=1&query=-13.87325,-171.59713) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Piula%20Cave%20Pool%2C%20Samoa) |
+| 7 | [Afu A'au Waterfall](sights/afu-aau-waterfall.yaml) | Waterfall | **75.30** | **Nature 8.3**, **Photography 8.2**, **Adventure 7.8** | 8.1 / 7.4 / 6.6 / 8.2 / 7.0 | [-13.74538, -172.31356](https://www.google.com/maps/search/?api=1&query=-13.74538,-172.31356) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Afu%20A%27au%20Waterfall%2C%20Samoa) |
+| 8 | [Papase'ea Sliding Rocks](sights/papaseea-sliding-rocks.yaml) | Attraction | **73.50** | **Adventure 8.3**, **Nature 7.6** | 7.5 / 7.8 / 6.2 / 8.2 / 6.8 | [-13.87008, -171.80365](https://www.google.com/maps/search/?api=1&query=-13.87008,-171.80365) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Papase%27ea%20Sliding%20Rocks%2C%20Samoa) |
 
-Add destination YAML files in [sights/](sights/), then regenerate the overview files.
+## Not yet fully assessed (3)
+
+These destinations have no rank until all five core scores are assessed.
+
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| — | [Fagaloa Bay–Uafato Tiavea Conservation Zone](sights/fagaloa-bay-uafato-tiavea-conservation-zone.yaml) | Beach / bay | **—** | **Nature 8.9**, **Wildlife 8.6**, **Culture 8.5** | 8.4 / 8.6 / 8.8 / — / — | [-13.95833, -171.5](https://www.google.com/maps/search/?api=1&query=-13.95833,-171.5) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Fagaloa%20Bay%E2%80%93Uafato%20Tiavea%20Conservation%20Zone%2C%20Samoa) |
+| — | [Manono, Apolima and Nuulopa Cultural Landscape](sights/manono-apolima-nuulopa-cultural-landscape.yaml) | Attraction | **—** | **Culture 8.9**, **History 8.6**, **Nature 8.3** | 8.1 / 8.7 / 8.8 / — / — | [-13.83333, -172.125](https://www.google.com/maps/search/?api=1&query=-13.83333,-172.125) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Manono%2C%20Apolima%20and%20Nuulopa%20Cultural%20Landscape%2C%20Samoa) |
+| — | [Pulemelei Mound](sights/pulemelei-mound.yaml) | Attraction | **—** | **History 9.2** | 7.7 / 9.0 / 9.1 / — / — | [-13.73523, -172.32433](https://www.google.com/maps/search/?api=1&query=-13.73523,-172.32433) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Pulemelei%20Mound%2C%20Samoa) |
 
 ---
 

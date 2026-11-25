@@ -2,7 +2,7 @@
 
 # Samoa (WS) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**3 ranked** · **3 unassessed** · **6 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,23 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (3)
 
-No cities, towns & villages have been assessed for **Samoa** yet.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Apia](cities/apia.yaml) | City / town | **78.15** | **Culture 8.4**, **History 8.0**, **Food 7.8** | 7.4 / 8.0 / 8.0 / 8.1 / 7.8 | [-13.833, -171.767](https://www.google.com/maps/search/?api=1&query=-13.833,-171.767) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Apia%2C%20Samoa) |
+| 2 | [Manase Village](cities/manase.yaml) | Village | **66.75** | **Relaxation 7.6**, **Culture 7.1** | 6.7 / 7.1 / 6.0 / 7.2 / 6.1 | [-13.44667, -172.37944](https://www.google.com/maps/search/?api=1&query=-13.44667,-172.37944) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Manase%20Village%2C%20Samoa) |
+| 3 | [Salelologa](cities/salelologa.yaml) | City / town | **65.30** | **Culture 7.1**, **Food 7.0** | 6.2 / 6.8 / 6.4 / 7.0 / 6.4 | [-13.73778, -172.22056](https://www.google.com/maps/search/?api=1&query=-13.73778,-172.22056) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Salelologa%2C%20Samoa) |
 
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+## Not yet fully assessed (3)
+
+These destinations have no rank until all five core scores are assessed.
+
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| — | [Asau](cities/asau.yaml) | City / town | **—** | — | — / — / — / — / — | [-13.52, -172.638](https://www.google.com/maps/search/?api=1&query=-13.52,-172.638) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Asau%2C%20Samoa) |
+| — | [Lalomanu Village](cities/lalomanu.yaml) | Village | **—** | — | — / — / — / — / — | [-14.04454, -171.43925](https://www.google.com/maps/search/?api=1&query=-14.04454,-171.43925) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lalomanu%20Village%2C%20Samoa) |
+| — | [Mulifanua](cities/mulifanua.yaml) | City / town | **—** | — | — / — / — / — / — | [-13.832, -172.036](https://www.google.com/maps/search/?api=1&query=-13.832,-172.036) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mulifanua%2C%20Samoa) |
 
 ---
 

@@ -1,0 +1,13 @@
+id: city-ws-mulifanua
+name: "Mulifanua"
+location:
+  country_code: WS
+  latitude: -13.832
+  longitude: -172.036
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}

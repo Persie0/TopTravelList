@@ -1,0 +1,13 @@
+id: city-ws-asau
+name: "Asau"
+location:
+  country_code: WS
+  latitude: -13.52
+  longitude: -172.638
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}
