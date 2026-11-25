@@ -1,0 +1,15 @@
+id: sight-id-bajo-pulo-village-togean
+name: "Bajo Pulo Village Togean"
+location:
+  country_code: ID
+  latitude: -0.4200
+  longitude: 121.9000
+scores:
+  impact: 7.9
+  uniqueness: 8.8
+  significance: 8.1
+  experience: 8.3
+  depth: 7.4
+  categories:
+    culture: 9.1
+    architecture: 8.5

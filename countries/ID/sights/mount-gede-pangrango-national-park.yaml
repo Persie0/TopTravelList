@@ -1,0 +1,16 @@
+id: sight-id-mount-gede-pangrango-national-park
+name: "Mount Gede Pangrango National Park"
+location:
+  country_code: ID
+  latitude: -6.7800
+  longitude: 106.9700
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 8.7
+  experience: 8.8
+  depth: 9.2
+  categories:
+    nature: 9.4
+    adventure: 9.2
+    wildlife: 8.8

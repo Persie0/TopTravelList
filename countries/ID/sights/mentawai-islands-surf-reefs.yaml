@@ -1,0 +1,16 @@
+id: sight-id-mentawai-islands-surf-reefs
+name: "Mentawai Islands Surf Reefs"
+location:
+  country_code: ID
+  latitude: -1.5000
+  longitude: 99.2000
+scores:
+  impact: 9.2
+  uniqueness: 9.1
+  significance: 7.9
+  experience: 9.4
+  depth: 9.3
+  categories:
+    adventure: 9.8
+    beaches: 9.2
+    nature: 9.3

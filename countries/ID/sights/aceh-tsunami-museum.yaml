@@ -1,0 +1,16 @@
+id: sight-id-aceh-tsunami-museum
+name: "Aceh Tsunami Museum"
+location:
+  country_code: ID
+  latitude: 5.5460
+  longitude: 95.3170
+scores:
+  impact: 8.8
+  uniqueness: 9.1
+  significance: 9.3
+  experience: 9.0
+  depth: 8.6
+  categories:
+    history: 9.5
+    architecture: 9.1
+    culture: 9.0

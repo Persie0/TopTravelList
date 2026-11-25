@@ -1,0 +1,15 @@
+id: sight-id-kalong-island-flying-foxes
+name: "Kalong Island Flying Foxes"
+location:
+  country_code: ID
+  latitude: -8.5100
+  longitude: 119.7300
+scores:
+  impact: 8.7
+  uniqueness: 9.0
+  significance: 7.8
+  experience: 8.8
+  depth: 7.3
+  categories:
+    wildlife: 9.3
+    photography: 9.1

@@ -1,0 +1,15 @@
+id: sight-id-lake-tolire-besar
+name: "Lake Tolire Besar"
+location:
+  country_code: ID
+  latitude: 0.8510
+  longitude: 127.3170
+scores:
+  impact: 8.5
+  uniqueness: 8.5
+  significance: 7.3
+  experience: 8.6
+  depth: 7.6
+  categories:
+    nature: 9.0
+    photography: 9.1

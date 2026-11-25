@@ -1,0 +1,16 @@
+id: sight-id-ujung-kulon-national-park
+name: "Ujung Kulon National Park"
+location:
+  country_code: ID
+  latitude: -6.7500
+  longitude: 105.3500
+scores:
+  impact: 9.1
+  uniqueness: 9.4
+  significance: 9.6
+  experience: 8.6
+  depth: 9.2
+  categories:
+    nature: 9.6
+    wildlife: 9.8
+    adventure: 9.0

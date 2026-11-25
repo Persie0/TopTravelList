@@ -1,0 +1,16 @@
+id: sight-id-mount-agung
+name: "Mount Agung"
+location:
+  country_code: ID
+  latitude: -8.3430
+  longitude: 115.5080
+scores:
+  impact: 9.2
+  uniqueness: 9.0
+  significance: 8.8
+  experience: 8.6
+  depth: 8.9
+  categories:
+    nature: 9.5
+    adventure: 9.4
+    culture: 9.1

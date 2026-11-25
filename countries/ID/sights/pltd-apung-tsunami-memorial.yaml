@@ -1,0 +1,15 @@
+id: sight-id-pltd-apung-tsunami-memorial
+name: "PLTD Apung Tsunami Memorial"
+location:
+  country_code: ID
+  latitude: 5.5450
+  longitude: 95.3070
+scores:
+  impact: 8.3
+  uniqueness: 9.0
+  significance: 9.0
+  experience: 8.5
+  depth: 7.6
+  categories:
+    history: 9.2
+    culture: 8.7

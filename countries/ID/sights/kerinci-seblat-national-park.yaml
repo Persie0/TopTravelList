@@ -1,0 +1,16 @@
+id: sight-id-kerinci-seblat-national-park
+name: "Kerinci Seblat National Park"
+location:
+  country_code: ID
+  latitude: -2.0000
+  longitude: 101.4000
+scores:
+  impact: 9.3
+  uniqueness: 9.3
+  significance: 9.4
+  experience: 8.8
+  depth: 9.5
+  categories:
+    nature: 9.7
+    wildlife: 9.6
+    adventure: 9.4

@@ -1,0 +1,16 @@
+id: sight-id-lake-toba
+name: "Lake Toba"
+location:
+  country_code: ID
+  latitude: 2.6200
+  longitude: 98.8200
+scores:
+  impact: 9.4
+  uniqueness: 9.6
+  significance: 9.0
+  experience: 9.2
+  depth: 9.4
+  categories:
+    nature: 9.7
+    photography: 9.5
+    culture: 9.1

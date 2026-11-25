@@ -1,0 +1,16 @@
+id: sight-id-rubiah-island-marine-garden
+name: "Rubiah Island Marine Garden"
+location:
+  country_code: ID
+  latitude: 5.8790
+  longitude: 95.2690
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 7.8
+  experience: 9.2
+  depth: 8.4
+  categories:
+    nature: 9.4
+    wildlife: 9.2
+    adventure: 9.3

@@ -1,0 +1,16 @@
+id: sight-id-kraton-yogyakarta
+name: "Kraton Yogyakarta"
+location:
+  country_code: ID
+  latitude: -7.8053
+  longitude: 110.3642
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 9.2
+  experience: 8.8
+  depth: 8.6
+  categories:
+    culture: 9.4
+    history: 9.2
+    architecture: 9.0

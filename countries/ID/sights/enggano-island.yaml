@@ -1,0 +1,16 @@
+id: sight-id-enggano-island
+name: "Enggano Island"
+location:
+  country_code: ID
+  latitude: -5.3500
+  longitude: 102.3000
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 7.8
+  experience: 8.7
+  depth: 8.7
+  categories:
+    nature: 9.3
+    wildlife: 9.0
+    beaches: 8.9

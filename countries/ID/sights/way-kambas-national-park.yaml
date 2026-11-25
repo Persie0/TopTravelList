@@ -1,0 +1,15 @@
+id: sight-id-way-kambas-national-park
+name: "Way Kambas National Park"
+location:
+  country_code: ID
+  latitude: -5.0600
+  longitude: 105.7300
+scores:
+  impact: 8.9
+  uniqueness: 9.2
+  significance: 9.2
+  experience: 8.5
+  depth: 8.8
+  categories:
+    wildlife: 9.6
+    nature: 9.3

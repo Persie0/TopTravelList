@@ -1,0 +1,16 @@
+id: city-id-banda-aceh
+name: "Banda Aceh"
+location:
+  country_code: ID
+  latitude: 5.5483
+  longitude: 95.3238
+scores:
+  impact: 7.9
+  uniqueness: 8.3
+  significance: 8.8
+  experience: 8.1
+  depth: 8.2
+  categories:
+    history: 9.0
+    culture: 8.8
+    architecture: 8.6

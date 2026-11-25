@@ -1,0 +1,16 @@
+id: sight-id-nusa-lembongan-mangrove-forest
+name: "Nusa Lembongan Mangrove Forest"
+location:
+  country_code: ID
+  latitude: -8.6610
+  longitude: 115.4720
+scores:
+  impact: 8.2
+  uniqueness: 8.3
+  significance: 7.5
+  experience: 8.7
+  depth: 8.0
+  categories:
+    nature: 8.8
+    relaxation: 8.7
+    wildlife: 8.4

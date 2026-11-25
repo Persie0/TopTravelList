@@ -1,0 +1,16 @@
+id: sight-id-mendut-temple
+name: "Mendut Temple"
+location:
+  country_code: ID
+  latitude: -7.6047
+  longitude: 110.2301
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 8.5
+  depth: 7.3
+  categories:
+    architecture: 9.1
+    history: 9.2
+    culture: 8.9

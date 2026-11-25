@@ -1,0 +1,16 @@
+id: sight-id-penataran-temple
+name: "Penataran Temple"
+location:
+  country_code: ID
+  latitude: -8.0160
+  longitude: 112.2090
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 9.3
+  experience: 8.8
+  depth: 8.7
+  categories:
+    history: 9.5
+    architecture: 9.3
+    culture: 9.0

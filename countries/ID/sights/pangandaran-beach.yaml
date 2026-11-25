@@ -1,0 +1,15 @@
+id: sight-id-pangandaran-beach
+name: "Pangandaran Beach"
+location:
+  country_code: ID
+  latitude: -7.6940
+  longitude: 108.6510
+scores:
+  impact: 8.0
+  uniqueness: 7.8
+  significance: 6.7
+  experience: 8.6
+  depth: 8.1
+  categories:
+    beaches: 8.6
+    relaxation: 8.7

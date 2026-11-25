@@ -1,0 +1,16 @@
+id: sight-id-huta-siallagan
+name: "Huta Siallagan"
+location:
+  country_code: ID
+  latitude: 2.6860
+  longitude: 98.8320
+scores:
+  impact: 8.4
+  uniqueness: 8.8
+  significance: 8.8
+  experience: 8.6
+  depth: 7.9
+  categories:
+    culture: 9.2
+    architecture: 9.0
+    history: 8.8

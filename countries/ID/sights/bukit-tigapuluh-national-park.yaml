@@ -1,0 +1,15 @@
+id: sight-id-bukit-tigapuluh-national-park
+name: "Bukit Tigapuluh National Park"
+location:
+  country_code: ID
+  latitude: -0.8500
+  longitude: 102.4500
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 9.0
+  experience: 8.4
+  depth: 9.0
+  categories:
+    wildlife: 9.5
+    nature: 9.4

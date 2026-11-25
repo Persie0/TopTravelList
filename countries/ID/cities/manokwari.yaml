@@ -1,0 +1,15 @@
+id: city-id-manokwari
+name: "Manokwari"
+location:
+  country_code: ID
+  latitude: -0.8629
+  longitude: 134.0640
+scores:
+  impact: 7.1
+  uniqueness: 7.5
+  significance: 7.7
+  experience: 7.7
+  depth: 7.6
+  categories:
+    history: 8.0
+    culture: 8.0

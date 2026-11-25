@@ -1,0 +1,16 @@
+id: city-id-banjarmasin
+name: "Banjarmasin"
+location:
+  country_code: ID
+  latitude: -3.3186
+  longitude: 114.5944
+scores:
+  impact: 8.0
+  uniqueness: 8.6
+  significance: 8.0
+  experience: 8.3
+  depth: 8.3
+  categories:
+    culture: 8.8
+    food: 8.5
+    photography: 8.5

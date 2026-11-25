@@ -1,0 +1,16 @@
+id: sight-id-mount-batur
+name: "Mount Batur"
+location:
+  country_code: ID
+  latitude: -8.2420
+  longitude: 115.3750
+scores:
+  impact: 9.1
+  uniqueness: 8.9
+  significance: 8.0
+  experience: 9.1
+  depth: 8.7
+  categories:
+    nature: 9.4
+    adventure: 9.3
+    photography: 9.4

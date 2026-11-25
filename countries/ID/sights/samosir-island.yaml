@@ -1,0 +1,16 @@
+id: sight-id-samosir-island
+name: "Samosir Island"
+location:
+  country_code: ID
+  latitude: 2.6100
+  longitude: 98.7700
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 8.8
+  experience: 9.1
+  depth: 9.2
+  categories:
+    culture: 9.4
+    nature: 9.3
+    photography: 9.3

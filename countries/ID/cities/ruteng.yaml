@@ -1,0 +1,15 @@
+id: city-id-ruteng
+name: "Ruteng"
+location:
+  country_code: ID
+  latitude: -8.6130
+  longitude: 120.4730
+scores:
+  impact: 7.1
+  uniqueness: 7.5
+  significance: 7.4
+  experience: 7.7
+  depth: 7.3
+  categories:
+    culture: 8.0
+    food: 7.6

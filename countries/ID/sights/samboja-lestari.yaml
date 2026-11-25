@@ -1,0 +1,15 @@
+id: sight-id-samboja-lestari
+name: "Samboja Lestari"
+location:
+  country_code: ID
+  latitude: -1.0100
+  longitude: 117.0100
+scores:
+  impact: 8.3
+  uniqueness: 8.8
+  significance: 8.6
+  experience: 8.5
+  depth: 8.3
+  categories:
+    wildlife: 9.3
+    nature: 8.9

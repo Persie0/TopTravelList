@@ -1,0 +1,16 @@
+id: sight-id-uluwatu-temple
+name: "Uluwatu Temple"
+location:
+  country_code: ID
+  latitude: -8.8291
+  longitude: 115.0849
+scores:
+  impact: 9.0
+  uniqueness: 9.1
+  significance: 8.8
+  experience: 9.1
+  depth: 8.1
+  categories:
+    culture: 9.3
+    photography: 9.6
+    architecture: 8.9

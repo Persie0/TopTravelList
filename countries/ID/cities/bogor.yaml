@@ -1,0 +1,16 @@
+id: city-id-bogor
+name: "Bogor"
+location:
+  country_code: ID
+  latitude: -6.5971
+  longitude: 106.8060
+scores:
+  impact: 7.6
+  uniqueness: 7.6
+  significance: 7.7
+  experience: 8.1
+  depth: 7.9
+  categories:
+    nature: 8.2
+    food: 8.1
+    history: 7.9

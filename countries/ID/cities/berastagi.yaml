@@ -1,0 +1,15 @@
+id: city-id-berastagi
+name: "Berastagi"
+location:
+  country_code: ID
+  latitude: 3.1940
+  longitude: 98.5080
+scores:
+  impact: 7.4
+  uniqueness: 7.7
+  significance: 7.1
+  experience: 8.0
+  depth: 7.5
+  categories:
+    culture: 8.1
+    food: 8.0

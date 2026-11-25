@@ -1,0 +1,15 @@
+id: sight-id-lake-anggi-giji
+name: "Lake Anggi Giji"
+location:
+  country_code: ID
+  latitude: -1.3370
+  longitude: 133.9130
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 7.6
+  experience: 8.5
+  depth: 8.2
+  categories:
+    nature: 9.3
+    photography: 9.2

@@ -1,0 +1,15 @@
+id: sight-id-pandawa-beach
+name: "Pandawa Beach"
+location:
+  country_code: ID
+  latitude: -8.8450
+  longitude: 115.1870
+scores:
+  impact: 8.3
+  uniqueness: 8.0
+  significance: 6.6
+  experience: 8.6
+  depth: 7.9
+  categories:
+    beaches: 8.8
+    relaxation: 8.7

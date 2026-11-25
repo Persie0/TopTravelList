@@ -1,0 +1,15 @@
+id: sight-id-surabaya-heroes-monument
+name: "Surabaya Heroes Monument"
+location:
+  country_code: ID
+  latitude: -7.2460
+  longitude: 112.7380
+scores:
+  impact: 8.0
+  uniqueness: 8.2
+  significance: 8.9
+  experience: 8.4
+  depth: 7.7
+  categories:
+    history: 9.2
+    culture: 8.6

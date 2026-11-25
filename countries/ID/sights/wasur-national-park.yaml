@@ -1,0 +1,16 @@
+id: sight-id-wasur-national-park
+name: "Wasur National Park"
+location:
+  country_code: ID
+  latitude: -8.6500
+  longitude: 140.6500
+scores:
+  impact: 8.8
+  uniqueness: 9.1
+  significance: 9.0
+  experience: 8.5
+  depth: 9.0
+  categories:
+    wildlife: 9.5
+    nature: 9.4
+    adventure: 8.8

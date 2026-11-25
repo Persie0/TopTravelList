@@ -1,0 +1,15 @@
+id: sight-id-broken-beach-nusa-penida
+name: "Broken Beach Nusa Penida"
+location:
+  country_code: ID
+  latitude: -8.7330
+  longitude: 115.4500
+scores:
+  impact: 8.9
+  uniqueness: 9.1
+  significance: 7.3
+  experience: 8.8
+  depth: 7.5
+  categories:
+    nature: 9.4
+    photography: 9.5

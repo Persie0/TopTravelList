@@ -1,0 +1,15 @@
+id: sight-id-atuh-beach
+name: "Atuh Beach"
+location:
+  country_code: ID
+  latitude: -8.772489
+  longitude: 115.622464
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 6.9
+  experience: 8.9
+  depth: 7.8
+  categories:
+    beaches: 9.2
+    photography: 9.3

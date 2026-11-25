@@ -1,0 +1,15 @@
+id: sight-id-melasti-beach
+name: "Melasti Beach"
+location:
+  country_code: ID
+  latitude: -8.8490
+  longitude: 115.1600
+scores:
+  impact: 8.7
+  uniqueness: 8.4
+  significance: 6.6
+  experience: 8.9
+  depth: 8.0
+  categories:
+    beaches: 9.2
+    photography: 9.2

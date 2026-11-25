@@ -1,0 +1,16 @@
+id: sight-id-lake-batur
+name: "Lake Batur"
+location:
+  country_code: ID
+  latitude: -8.2590
+  longitude: 115.4180
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 8.3
+  experience: 8.9
+  depth: 8.7
+  categories:
+    nature: 9.1
+    photography: 9.2
+    relaxation: 8.9

@@ -1,0 +1,15 @@
+id: sight-id-sangiran-early-man-site
+name: "Sangiran Early Man Site"
+location:
+  country_code: ID
+  latitude: -7.4540
+  longitude: 110.8360
+scores:
+  impact: 8.1
+  uniqueness: 9.2
+  significance: 9.6
+  experience: 8.5
+  depth: 8.7
+  categories:
+    history: 9.8
+    culture: 9.0

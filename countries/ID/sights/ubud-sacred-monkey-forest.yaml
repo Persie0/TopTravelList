@@ -1,0 +1,16 @@
+id: sight-id-ubud-sacred-monkey-forest
+name: "Ubud Sacred Monkey Forest"
+location:
+  country_code: ID
+  latitude: -8.5180
+  longitude: 115.2580
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 8.0
+  experience: 8.8
+  depth: 8.5
+  categories:
+    wildlife: 9.0
+    culture: 8.9
+    nature: 8.9

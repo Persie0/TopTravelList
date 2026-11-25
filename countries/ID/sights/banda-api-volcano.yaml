@@ -1,0 +1,16 @@
+id: sight-id-banda-api-volcano
+name: "Banda Api Volcano"
+location:
+  country_code: ID
+  latitude: -4.5250
+  longitude: 129.8700
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 8.0
+  experience: 8.9
+  depth: 8.4
+  categories:
+    nature: 9.3
+    adventure: 9.2
+    photography: 9.3

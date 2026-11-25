@@ -1,0 +1,16 @@
+id: sight-id-crystal-bay-nusa-penida
+name: "Crystal Bay Nusa Penida"
+location:
+  country_code: ID
+  latitude: -8.7150
+  longitude: 115.4590
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 7.0
+  experience: 9.0
+  depth: 8.2
+  categories:
+    beaches: 9.0
+    adventure: 9.1
+    nature: 9.0

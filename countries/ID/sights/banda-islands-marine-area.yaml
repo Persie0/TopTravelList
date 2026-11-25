@@ -1,0 +1,16 @@
+id: sight-id-banda-islands-marine-area
+name: "Banda Islands Marine Area"
+location:
+  country_code: ID
+  latitude: -4.5400
+  longitude: 129.9000
+scores:
+  impact: 9.2
+  uniqueness: 9.3
+  significance: 8.8
+  experience: 9.3
+  depth: 9.2
+  categories:
+    nature: 9.6
+    adventure: 9.6
+    history: 9.0

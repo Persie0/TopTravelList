@@ -1,0 +1,16 @@
+id: sight-id-ketambe-forest
+name: "Ketambe Forest"
+location:
+  country_code: ID
+  latitude: 3.6880
+  longitude: 97.6550
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 8.8
+  experience: 8.8
+  depth: 8.8
+  categories:
+    wildlife: 9.4
+    nature: 9.4
+    adventure: 9.0

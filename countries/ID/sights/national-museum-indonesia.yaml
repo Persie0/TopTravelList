@@ -1,0 +1,15 @@
+id: sight-id-national-museum-indonesia
+name: "National Museum Indonesia"
+location:
+  country_code: ID
+  latitude: -6.1764
+  longitude: 106.8217
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 9.3
+  experience: 8.9
+  depth: 9.2
+  categories:
+    history: 9.5
+    culture: 9.5

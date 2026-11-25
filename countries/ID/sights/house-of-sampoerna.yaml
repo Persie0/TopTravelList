@@ -1,0 +1,16 @@
+id: sight-id-house-of-sampoerna
+name: "House of Sampoerna"
+location:
+  country_code: ID
+  latitude: -7.2300
+  longitude: 112.7340
+scores:
+  impact: 8.1
+  uniqueness: 8.4
+  significance: 8.4
+  experience: 8.4
+  depth: 8.0
+  categories:
+    history: 8.6
+    architecture: 8.6
+    culture: 8.4

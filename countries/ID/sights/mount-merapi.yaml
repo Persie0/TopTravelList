@@ -1,0 +1,16 @@
+id: sight-id-mount-merapi
+name: "Mount Merapi"
+location:
+  country_code: ID
+  latitude: -7.5407
+  longitude: 110.4457
+scores:
+  impact: 9.2
+  uniqueness: 9.0
+  significance: 8.7
+  experience: 8.7
+  depth: 8.7
+  categories:
+    nature: 9.4
+    adventure: 9.2
+    photography: 9.3

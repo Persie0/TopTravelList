@@ -1,0 +1,16 @@
+id: sight-id-ratu-boko
+name: "Ratu Boko"
+location:
+  country_code: ID
+  latitude: -7.7705
+  longitude: 110.4896
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 8.8
+  experience: 8.7
+  depth: 8.5
+  categories:
+    history: 9.0
+    architecture: 8.9
+    photography: 9.1

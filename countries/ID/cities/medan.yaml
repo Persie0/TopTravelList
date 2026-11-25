@@ -1,0 +1,16 @@
+id: city-id-medan
+name: "Medan"
+location:
+  country_code: ID
+  latitude: 3.5952
+  longitude: 98.6722
+scores:
+  impact: 8.1
+  uniqueness: 8.4
+  significance: 8.4
+  experience: 8.3
+  depth: 8.5
+  categories:
+    food: 9.0
+    architecture: 8.5
+    culture: 8.6

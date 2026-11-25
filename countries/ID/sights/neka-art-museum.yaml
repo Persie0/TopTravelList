@@ -1,0 +1,15 @@
+id: sight-id-neka-art-museum
+name: "Neka Art Museum"
+location:
+  country_code: ID
+  latitude: -8.4880
+  longitude: 115.2530
+scores:
+  impact: 8.3
+  uniqueness: 8.6
+  significance: 8.4
+  experience: 8.6
+  depth: 8.5
+  categories:
+    culture: 9.0
+    history: 8.6

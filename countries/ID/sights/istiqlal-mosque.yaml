@@ -1,0 +1,15 @@
+id: sight-id-istiqlal-mosque
+name: "Istiqlal Mosque"
+location:
+  country_code: ID
+  latitude: -6.1702
+  longitude: 106.8314
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 8.8
+  experience: 8.8
+  depth: 8.1
+  categories:
+    architecture: 9.1
+    culture: 9.3

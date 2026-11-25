@@ -1,0 +1,15 @@
+id: sight-id-jakarta-cathedral
+name: "Jakarta Cathedral"
+location:
+  country_code: ID
+  latitude: -6.1693
+  longitude: 106.8331
+scores:
+  impact: 8.1
+  uniqueness: 8.2
+  significance: 8.3
+  experience: 8.4
+  depth: 7.6
+  categories:
+    architecture: 8.7
+    history: 8.5

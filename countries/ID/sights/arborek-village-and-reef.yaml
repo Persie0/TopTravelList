@@ -1,0 +1,16 @@
+id: sight-id-arborek-village-and-reef
+name: "Arborek Village and Reef"
+location:
+  country_code: ID
+  latitude: -0.5630
+  longitude: 130.5190
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 8.2
+  experience: 9.1
+  depth: 8.4
+  categories:
+    culture: 9.0
+    nature: 9.3
+    adventure: 9.3

@@ -1,0 +1,16 @@
+id: sight-id-gili-meno
+name: "Gili Meno"
+location:
+  country_code: ID
+  latitude: -8.3500
+  longitude: 116.0600
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 7.0
+  experience: 9.1
+  depth: 8.3
+  categories:
+    beaches: 9.2
+    relaxation: 9.3
+    wildlife: 9.0

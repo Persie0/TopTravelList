@@ -1,0 +1,15 @@
+id: sight-id-telaga-warna-dieng
+name: "Telaga Warna Dieng"
+location:
+  country_code: ID
+  latitude: -7.2150
+  longitude: 109.9190
+scores:
+  impact: 8.6
+  uniqueness: 8.6
+  significance: 7.5
+  experience: 8.8
+  depth: 7.8
+  categories:
+    nature: 9.0
+    photography: 9.2

@@ -1,0 +1,16 @@
+id: sight-id-wayag-islands
+name: "Wayag Islands"
+location:
+  country_code: ID
+  latitude: 0.1700
+  longitude: 130.0500
+scores:
+  impact: 9.7
+  uniqueness: 9.6
+  significance: 8.2
+  experience: 9.5
+  depth: 9.0
+  categories:
+    nature: 9.8
+    photography: 9.9
+    adventure: 9.4

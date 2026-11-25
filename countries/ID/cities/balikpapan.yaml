@@ -1,0 +1,15 @@
+id: city-id-balikpapan
+name: "Balikpapan"
+location:
+  country_code: ID
+  latitude: -1.2379
+  longitude: 116.8529
+scores:
+  impact: 7.0
+  uniqueness: 7.0
+  significance: 7.1
+  experience: 7.7
+  depth: 7.7
+  categories:
+    food: 7.9
+    relaxation: 7.8

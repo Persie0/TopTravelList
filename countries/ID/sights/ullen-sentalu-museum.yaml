@@ -1,0 +1,15 @@
+id: sight-id-ullen-sentalu-museum
+name: "Ullen Sentalu Museum"
+location:
+  country_code: ID
+  latitude: -7.5970
+  longitude: 110.4247
+scores:
+  impact: 8.4
+  uniqueness: 8.8
+  significance: 8.5
+  experience: 8.9
+  depth: 8.2
+  categories:
+    culture: 9.2
+    history: 8.8

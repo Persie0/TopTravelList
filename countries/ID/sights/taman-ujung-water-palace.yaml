@@ -1,0 +1,16 @@
+id: sight-id-taman-ujung-water-palace
+name: "Taman Ujung Water Palace"
+location:
+  country_code: ID
+  latitude: -8.4650
+  longitude: 115.6320
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 8.3
+  experience: 8.9
+  depth: 8.5
+  categories:
+    architecture: 9.1
+    photography: 9.2
+    history: 8.5

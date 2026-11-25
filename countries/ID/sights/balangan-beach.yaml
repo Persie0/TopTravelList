@@ -1,0 +1,16 @@
+id: sight-id-balangan-beach
+name: "Balangan Beach"
+location:
+  country_code: ID
+  latitude: -8.7920
+  longitude: 115.1230
+scores:
+  impact: 8.6
+  uniqueness: 8.4
+  significance: 6.7
+  experience: 8.8
+  depth: 7.9
+  categories:
+    beaches: 9.0
+    photography: 9.1
+    adventure: 8.8

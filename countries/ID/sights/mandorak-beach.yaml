@@ -1,0 +1,15 @@
+id: sight-id-mandorak-beach
+name: "Mandorak Beach"
+location:
+  country_code: ID
+  latitude: -9.4850
+  longitude: 119.0240
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 6.6
+  experience: 8.9
+  depth: 7.5
+  categories:
+    beaches: 9.3
+    photography: 9.4

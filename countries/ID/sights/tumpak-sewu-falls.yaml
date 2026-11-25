@@ -1,0 +1,16 @@
+id: sight-id-tumpak-sewu-falls
+name: "Tumpak Sewu Falls"
+location:
+  country_code: ID
+  latitude: -8.2300
+  longitude: 112.9160
+scores:
+  impact: 9.5
+  uniqueness: 9.3
+  significance: 7.9
+  experience: 9.4
+  depth: 8.5
+  categories:
+    nature: 9.7
+    photography: 9.8
+    adventure: 9.2

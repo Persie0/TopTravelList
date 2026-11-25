@@ -1,0 +1,16 @@
+id: sight-id-sukuh-temple
+name: "Sukuh Temple"
+location:
+  country_code: ID
+  latitude: -7.6270
+  longitude: 111.1300
+scores:
+  impact: 8.7
+  uniqueness: 9.3
+  significance: 8.9
+  experience: 8.6
+  depth: 7.9
+  categories:
+    architecture: 9.3
+    history: 9.1
+    culture: 9.0

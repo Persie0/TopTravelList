@@ -1,0 +1,17 @@
+id: sight-id-misool-marine-reserve
+name: "Misool Marine Reserve"
+location:
+  country_code: ID
+  latitude: -1.9500
+  longitude: 130.2500
+scores:
+  impact: 9.6
+  uniqueness: 9.6
+  significance: 9.1
+  experience: 9.5
+  depth: 9.4
+  categories:
+    nature: 9.8
+    wildlife: 9.8
+    adventure: 9.8
+    photography: 9.7

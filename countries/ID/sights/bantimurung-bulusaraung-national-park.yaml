@@ -1,0 +1,16 @@
+id: sight-id-bantimurung-bulusaraung-national-park
+name: "Bantimurung Bulusaraung National Park"
+location:
+  country_code: ID
+  latitude: -5.0000
+  longitude: 119.7200
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 8.8
+  experience: 8.9
+  depth: 8.9
+  categories:
+    nature: 9.3
+    wildlife: 9.2
+    adventure: 8.8

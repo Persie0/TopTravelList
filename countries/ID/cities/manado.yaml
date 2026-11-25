@@ -1,0 +1,15 @@
+id: city-id-manado
+name: "Manado"
+location:
+  country_code: ID
+  latitude: 1.4748
+  longitude: 124.8421
+scores:
+  impact: 7.8
+  uniqueness: 8.0
+  significance: 7.7
+  experience: 8.3
+  depth: 8.2
+  categories:
+    food: 8.7
+    culture: 8.2

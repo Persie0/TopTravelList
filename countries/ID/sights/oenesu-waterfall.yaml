@@ -1,0 +1,15 @@
+id: sight-id-oenesu-waterfall
+name: "Oenesu Waterfall"
+location:
+  country_code: ID
+  latitude: -10.2510
+  longitude: 123.5570
+scores:
+  impact: 8.0
+  uniqueness: 8.0
+  significance: 6.8
+  experience: 8.4
+  depth: 7.6
+  categories:
+    nature: 8.6
+    photography: 8.6

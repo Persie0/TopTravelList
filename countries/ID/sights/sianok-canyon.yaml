@@ -1,0 +1,15 @@
+id: sight-id-sianok-canyon
+name: "Sianok Canyon"
+location:
+  country_code: ID
+  latitude: -0.3080
+  longitude: 100.3570
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 7.6
+  experience: 8.9
+  depth: 8.5
+  categories:
+    nature: 9.2
+    photography: 9.4

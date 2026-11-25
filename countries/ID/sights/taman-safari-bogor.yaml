@@ -1,0 +1,15 @@
+id: sight-id-taman-safari-bogor
+name: "Taman Safari Bogor"
+location:
+  country_code: ID
+  latitude: -6.7200
+  longitude: 106.9470
+scores:
+  impact: 8.2
+  uniqueness: 7.9
+  significance: 6.9
+  experience: 8.7
+  depth: 8.7
+  categories:
+    family: 9.2
+    wildlife: 8.3

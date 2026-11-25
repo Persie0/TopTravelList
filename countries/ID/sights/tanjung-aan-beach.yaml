@@ -1,0 +1,15 @@
+id: sight-id-tanjung-aan-beach
+name: "Tanjung Aan Beach"
+location:
+  country_code: ID
+  latitude: -8.9120
+  longitude: 116.3150
+scores:
+  impact: 9.0
+  uniqueness: 8.8
+  significance: 6.9
+  experience: 9.2
+  depth: 8.4
+  categories:
+    beaches: 9.5
+    photography: 9.4

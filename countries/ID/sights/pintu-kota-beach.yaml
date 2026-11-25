@@ -1,0 +1,15 @@
+id: sight-id-pintu-kota-beach
+name: "Pintu Kota Beach"
+location:
+  country_code: ID
+  latitude: -3.7780
+  longitude: 128.1780
+scores:
+  impact: 8.5
+  uniqueness: 8.7
+  significance: 6.7
+  experience: 8.6
+  depth: 7.3
+  categories:
+    photography: 9.2
+    nature: 9.0

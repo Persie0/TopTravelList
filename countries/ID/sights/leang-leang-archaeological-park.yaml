@@ -1,0 +1,16 @@
+id: sight-id-leang-leang-archaeological-park
+name: "Leang Leang Archaeological Park"
+location:
+  country_code: ID
+  latitude: -4.9800
+  longitude: 119.6700
+scores:
+  impact: 8.5
+  uniqueness: 9.1
+  significance: 9.5
+  experience: 8.5
+  depth: 8.1
+  categories:
+    history: 9.7
+    culture: 9.1
+    nature: 8.8

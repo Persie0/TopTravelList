@@ -1,0 +1,15 @@
+id: sight-id-great-mosque-of-medan
+name: "Great Mosque of Medan"
+location:
+  country_code: ID
+  latitude: 3.5740
+  longitude: 98.6870
+scores:
+  impact: 8.5
+  uniqueness: 8.7
+  significance: 8.5
+  experience: 8.6
+  depth: 7.8
+  categories:
+    architecture: 9.0
+    culture: 8.9

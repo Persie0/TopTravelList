@@ -1,0 +1,16 @@
+id: sight-id-betung-kerihun-national-park
+name: "Betung Kerihun National Park"
+location:
+  country_code: ID
+  latitude: 1.2000
+  longitude: 113.1000
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 9.1
+  experience: 8.3
+  depth: 9.2
+  categories:
+    nature: 9.5
+    wildlife: 9.3
+    adventure: 9.1

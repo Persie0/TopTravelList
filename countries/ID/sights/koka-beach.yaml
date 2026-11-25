@@ -1,0 +1,15 @@
+id: sight-id-koka-beach
+name: "Koka Beach"
+location:
+  country_code: ID
+  latitude: -8.8020
+  longitude: 122.3040
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 6.6
+  experience: 9.0
+  depth: 7.9
+  categories:
+    beaches: 9.4
+    photography: 9.2

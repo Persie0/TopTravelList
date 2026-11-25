@@ -1,0 +1,16 @@
+id: sight-id-bair-island
+name: "Bair Island"
+location:
+  country_code: ID
+  latitude: -5.5070
+  longitude: 132.7650
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 6.9
+  experience: 9.1
+  depth: 8.1
+  categories:
+    nature: 9.3
+    photography: 9.4
+    beaches: 9.1

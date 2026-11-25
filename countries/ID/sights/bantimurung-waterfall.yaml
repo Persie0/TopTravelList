@@ -1,0 +1,15 @@
+id: sight-id-bantimurung-waterfall
+name: "Bantimurung Waterfall"
+location:
+  country_code: ID
+  latitude: -5.0170
+  longitude: 119.6800
+scores:
+  impact: 8.2
+  uniqueness: 8.1
+  significance: 7.0
+  experience: 8.6
+  depth: 7.7
+  categories:
+    nature: 8.8
+    photography: 8.7

@@ -1,0 +1,15 @@
+id: sight-id-lake-singkarak
+name: "Lake Singkarak"
+location:
+  country_code: ID
+  latitude: -0.5860
+  longitude: 100.5410
+scores:
+  impact: 8.3
+  uniqueness: 8.1
+  significance: 7.4
+  experience: 8.6
+  depth: 8.4
+  categories:
+    nature: 8.8
+    relaxation: 8.8

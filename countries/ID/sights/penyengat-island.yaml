@@ -1,0 +1,16 @@
+id: sight-id-penyengat-island
+name: "Penyengat Island"
+location:
+  country_code: ID
+  latitude: 0.9290
+  longitude: 104.4370
+scores:
+  impact: 8.4
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.6
+  depth: 8.3
+  categories:
+    culture: 9.2
+    history: 9.3
+    architecture: 8.9

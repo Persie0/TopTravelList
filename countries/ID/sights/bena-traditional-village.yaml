@@ -1,0 +1,16 @@
+id: sight-id-bena-traditional-village
+name: "Bena Traditional Village"
+location:
+  country_code: ID
+  latitude: -8.8900
+  longitude: 120.9900
+scores:
+  impact: 8.8
+  uniqueness: 9.1
+  significance: 8.8
+  experience: 8.8
+  depth: 8.3
+  categories:
+    culture: 9.4
+    architecture: 9.2
+    history: 9.0

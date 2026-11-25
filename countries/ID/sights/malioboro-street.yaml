@@ -1,0 +1,15 @@
+id: sight-id-malioboro-street
+name: "Malioboro Street"
+location:
+  country_code: ID
+  latitude: -7.7937
+  longitude: 110.3658
+scores:
+  impact: 8.0
+  uniqueness: 8.2
+  significance: 7.8
+  experience: 8.6
+  depth: 8.1
+  categories:
+    food: 8.8
+    culture: 8.7

@@ -1,0 +1,16 @@
+id: sight-id-togean-mariona-jellyfish-lake
+name: "Togean Mariona Jellyfish Lake"
+location:
+  country_code: ID
+  latitude: -0.4400
+  longitude: 121.8500
+scores:
+  impact: 8.7
+  uniqueness: 9.3
+  significance: 8.0
+  experience: 8.8
+  depth: 7.5
+  categories:
+    nature: 9.3
+    wildlife: 9.2
+    adventure: 8.9

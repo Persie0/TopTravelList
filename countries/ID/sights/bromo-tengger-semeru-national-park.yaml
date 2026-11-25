@@ -1,0 +1,16 @@
+id: sight-id-bromo-tengger-semeru-national-park
+name: "Bromo Tengger Semeru National Park"
+location:
+  country_code: ID
+  latitude: -8.0140
+  longitude: 112.9470
+scores:
+  impact: 9.6
+  uniqueness: 9.7
+  significance: 9.0
+  experience: 9.3
+  depth: 9.5
+  categories:
+    nature: 9.8
+    photography: 9.8
+    adventure: 9.5

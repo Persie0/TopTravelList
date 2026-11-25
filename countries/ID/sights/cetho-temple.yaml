@@ -1,0 +1,16 @@
+id: sight-id-cetho-temple
+name: "Cetho Temple"
+location:
+  country_code: ID
+  latitude: -7.5950
+  longitude: 111.1580
+scores:
+  impact: 8.8
+  uniqueness: 9.1
+  significance: 8.8
+  experience: 8.7
+  depth: 8.1
+  categories:
+    architecture: 9.2
+    culture: 9.0
+    photography: 9.2

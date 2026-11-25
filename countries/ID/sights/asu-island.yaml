@@ -1,0 +1,16 @@
+id: sight-id-asu-island
+name: "Asu Island"
+location:
+  country_code: ID
+  latitude: 0.9500
+  longitude: 97.2800
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 6.9
+  experience: 9.1
+  depth: 8.5
+  categories:
+    adventure: 9.3
+    beaches: 9.3
+    nature: 9.1

@@ -1,0 +1,16 @@
+id: sight-id-bira-beach
+name: "Bira Beach"
+location:
+  country_code: ID
+  latitude: -5.6200
+  longitude: 120.4530
+scores:
+  impact: 8.8
+  uniqueness: 8.6
+  significance: 6.9
+  experience: 9.1
+  depth: 8.4
+  categories:
+    beaches: 9.4
+    relaxation: 9.1
+    adventure: 8.9

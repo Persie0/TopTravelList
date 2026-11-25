@@ -1,0 +1,16 @@
+id: sight-id-bunaken-national-marine-park
+name: "Bunaken National Marine Park"
+location:
+  country_code: ID
+  latitude: 1.6300
+  longitude: 124.7700
+scores:
+  impact: 9.4
+  uniqueness: 9.3
+  significance: 8.8
+  experience: 9.5
+  depth: 9.2
+  categories:
+    nature: 9.7
+    wildlife: 9.6
+    adventure: 9.7

@@ -1,0 +1,16 @@
+id: sight-id-pagaruyung-palace
+name: "Pagaruyung Palace"
+location:
+  country_code: ID
+  latitude: -0.4710
+  longitude: 100.6210
+scores:
+  impact: 8.7
+  uniqueness: 9.0
+  significance: 8.7
+  experience: 8.8
+  depth: 8.3
+  categories:
+    architecture: 9.3
+    culture: 9.3
+    history: 8.8

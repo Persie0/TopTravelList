@@ -1,0 +1,14 @@
+id: sight-id-banyumulek-pottery-village
+name: "Banyumulek Pottery Village"
+location:
+  country_code: ID
+  latitude: -8.6520
+  longitude: 116.1050
+scores:
+  impact: 7.7
+  uniqueness: 8.2
+  significance: 7.9
+  experience: 8.2
+  depth: 7.5
+  categories:
+    culture: 8.8

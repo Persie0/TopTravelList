@@ -1,0 +1,16 @@
+id: city-id-ambon
+name: "Ambon"
+location:
+  country_code: ID
+  latitude: -3.6954
+  longitude: 128.1814
+scores:
+  impact: 7.7
+  uniqueness: 8.1
+  significance: 8.3
+  experience: 8.1
+  depth: 8.1
+  categories:
+    culture: 8.5
+    history: 8.5
+    food: 8.4

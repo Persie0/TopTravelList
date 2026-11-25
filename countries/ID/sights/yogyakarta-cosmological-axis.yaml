@@ -1,0 +1,16 @@
+id: sight-id-yogyakarta-cosmological-axis
+name: "Yogyakarta Cosmological Axis"
+location:
+  country_code: ID
+  latitude: -7.8010
+  longitude: 110.3650
+scores:
+  impact: 8.9
+  uniqueness: 9.3
+  significance: 9.5
+  experience: 8.8
+  depth: 9.1
+  categories:
+    culture: 9.6
+    history: 9.5
+    architecture: 9.1

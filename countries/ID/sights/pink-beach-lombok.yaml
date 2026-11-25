@@ -1,0 +1,15 @@
+id: sight-id-pink-beach-lombok
+name: "Pink Beach Lombok"
+location:
+  country_code: ID
+  latitude: -8.8550
+  longitude: 116.5940
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 6.9
+  experience: 8.9
+  depth: 7.9
+  categories:
+    beaches: 9.2
+    photography: 9.3

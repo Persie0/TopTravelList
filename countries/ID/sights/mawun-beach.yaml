@@ -1,0 +1,15 @@
+id: sight-id-mawun-beach
+name: "Mawun Beach"
+location:
+  country_code: ID
+  latitude: -8.9060
+  longitude: 116.2300
+scores:
+  impact: 8.6
+  uniqueness: 8.5
+  significance: 6.6
+  experience: 8.9
+  depth: 7.8
+  categories:
+    beaches: 9.2
+    photography: 9.1

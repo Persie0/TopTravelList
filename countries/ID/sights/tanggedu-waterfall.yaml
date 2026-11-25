@@ -1,0 +1,16 @@
+id: sight-id-tanggedu-waterfall
+name: "Tanggedu Waterfall"
+location:
+  country_code: ID
+  latitude: -9.8240
+  longitude: 120.2800
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 7.0
+  experience: 9.0
+  depth: 8.3
+  categories:
+    nature: 9.3
+    photography: 9.4
+    adventure: 8.8

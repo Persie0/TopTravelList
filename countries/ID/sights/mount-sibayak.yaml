@@ -1,0 +1,16 @@
+id: sight-id-mount-sibayak
+name: "Mount Sibayak"
+location:
+  country_code: ID
+  latitude: 3.2410
+  longitude: 98.5040
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 7.8
+  experience: 8.9
+  depth: 8.5
+  categories:
+    adventure: 9.2
+    nature: 9.1
+    photography: 9.0

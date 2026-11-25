@@ -1,0 +1,16 @@
+id: sight-id-segara-anak-lake
+name: "Segara Anak Lake"
+location:
+  country_code: ID
+  latitude: -8.4030
+  longitude: 116.4160
+scores:
+  impact: 9.2
+  uniqueness: 9.2
+  significance: 8.1
+  experience: 9.1
+  depth: 8.6
+  categories:
+    nature: 9.6
+    photography: 9.6
+    adventure: 9.3

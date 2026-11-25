@@ -1,0 +1,15 @@
+id: city-id-wamena
+name: "Wamena"
+location:
+  country_code: ID
+  latitude: -4.0970
+  longitude: 138.9470
+scores:
+  impact: 7.2
+  uniqueness: 8.0
+  significance: 7.6
+  experience: 7.6
+  depth: 7.2
+  categories:
+    culture: 8.7
+    food: 7.6

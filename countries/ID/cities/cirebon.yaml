@@ -1,0 +1,16 @@
+id: city-id-cirebon
+name: "Cirebon"
+location:
+  country_code: ID
+  latitude: -6.7320
+  longitude: 108.5523
+scores:
+  impact: 7.8
+  uniqueness: 8.1
+  significance: 8.5
+  experience: 8.0
+  depth: 7.8
+  categories:
+    culture: 8.7
+    history: 8.6
+    food: 8.6
