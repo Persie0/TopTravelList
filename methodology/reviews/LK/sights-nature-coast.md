@@ -1714,7 +1714,7 @@
 
 ## sight-lk-ritigala-strict-natural-reserve — Ritigala Strict Natural Reserve — 2026-11-25
 
-- [YAML](../../../countries/LK/sights/ritigala-strict-natural-reserve.yaml) · Action: new · **source-linked-unverified**.
+- [YAML](../../../countries/LK/sights/ritigala-strict-natural-reserve.yaml) · Action: new · **unassessed**.
 - Location: 8.12, 80.65 approximate representative point, not independently checked.
 - Worldwide peers (I/U/S/E/D; forest ladder, some mixed-type):
   - [Kaziranga National Park (IN)](../../../countries/IN/sights/kaziranga-national-park.yaml): 9.7 / 9.7 / 9.8 / 9.7 / 9.3 (96.80/100).
@@ -1724,11 +1724,11 @@
 - Impact 8.4: Isolated forested mountain in dry zone.
 - Uniqueness 8.8: distinctive habitat and microclimate.
 - Significance 8.8: significant endemic flora and conservation.
-- Experience 7.9: only permitted access considered without assuming strict reserve entry.
-- Depth 8.5: broad reserve not monastery alone.
-- Categories: nature:9.2,wildlife:9.0. Overall: 85.15/100.
+- Experience: null — Strict nature reserve access is limited and controlled. The public archaeological monastery visit is a separate record; insufficient evidence of an ordinary authorized nature reserve visit.
+- Depth: null — normal authorized exploration scope not established; physical size is not visitor depth.
+- Categories: nature:9.2,wildlife:9.0. Overall: unranked.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: [DWC strict reserve context; access not assumed](https://www.dwc.gov.lk/?page_id=286), inspected page or search excerpt 2026-11-25; specific site facts and GPS remain incompletely verified.
+- Evidence: [Department of Wildlife Conservation](https://www.dwc.gov.lk/?page_id=286) strict reserve visitation constraints; [UNESCO tentative list](https://whc.unesco.org/en/tentativelists/7008/) describes reserve protection (tentative, not inscribed); [Connect Lanka](https://connectlanka.com/attractions/ritigala-archaeological-site/) distinguishes accessible monastery from restricted mountain. Search excerpts checked 2026-11-25.
 - Remaining gaps: independent GPS, exact boundaries, permitted visitor scope, factual evidence and individually researched peer-by-field comparisons.
 
 ## sight-lk-jathika-namal-uyana — Jathika Namal Uyana — 2026-11-25
@@ -1771,7 +1771,7 @@
 
 ## sight-lk-pidurutalagala — Pidurutalagala — 2026-11-25
 
-- [YAML](../../../countries/LK/sights/pidurutalagala.yaml) · Action: new · **source-linked-unverified**.
+- [YAML](../../../countries/LK/sights/pidurutalagala.yaml) · Action: new · **unassessed**.
 - Location: 7.001, 80.773 approximate representative point, not independently checked.
 - Worldwide peers (I/U/S/E/D; mountain ladder, some mixed-type):
   - [Mount Fuji (JP)](../../../countries/JP/sights/mount-fuji.yaml): 9.8 / 9.7 / 9.5 / 9.2 / 9.3 (95.75/100).
@@ -1781,9 +1781,9 @@
 - Impact 8.4: High forested massif above Nuwara Eliya.
 - Uniqueness 8.3: distinctive national highest mountain but comparable peaks.
 - Significance 8.1: regional montane habitat.
-- Experience 8.1: focused authorized viewpoint experience only.
-- Depth 7.5: limited ordinary visitor circuit.
-- Categories: nature:8.9,photography:8.8. Overall: 81.80/100.
+- Experience: null — The defence ministry designates the summit area a high-security zone with restricted access. Reports of ordinary tourist access conflict. No reliable normal permitted experience or exploration scope established.
+- Depth: null — normal authorized exploration scope not established; physical size is not visitor depth.
+- Categories: nature:8.9,photography:8.8. Overall: unranked.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: [SLTDA tourist inventory and context](https://sltda.gov.lk/en/tourist-attractions), inspected page or search excerpt 2026-11-25; specific site facts and GPS remain incompletely verified.
+- Evidence: [Sri Lanka Ministry of Defence](https://www.defence.lk/index.php/Services/visit_to_high_security_zones) official access restriction; [Explorer.lk](https://www.explorer.lk/destinations/pidurutalagala) notes permission requirements. Search excerpts checked 2026-11-25.
 - Remaining gaps: independent GPS, exact boundaries, permitted visitor scope, factual evidence and individually researched peer-by-field comparisons.

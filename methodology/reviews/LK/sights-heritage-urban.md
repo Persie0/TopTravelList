@@ -625,7 +625,7 @@
 - Experience 9.1: rewarding sacred and public circuit.
 - Depth 8.9: coherent historic ensemble not all modern city.
 - Categories: history:9.4,culture:9.4,architecture:9.3. Overall: 91.35/100.
-- High-score challenge: 90+ total is provisional for temple-centered palace and lakefront heritage fabric, internationally significant last royal capital context and coherent historic ensemble not all modern city; compare the four listed peers and do not inherit parent heritage scores.. No approved 10.
+- High-score challenge: 90+ total reflects the coherent royal and Buddhist heritage around the lake and temple, comparable with Luang Prabang's historic peninsula and George Town's living heritage. Kandy's surviving urban fabric is narrower than those ensembles, and its religious significance does not confer near-perfect depth or architecture. No approved 10.
 - Evidence: [UNESCO sacred city of Kandy, royal and sacred context](https://whc.unesco.org/en/list/450/), inspected page or search excerpt 2026-11-25; not a comprehensive site-specific fact check.
 - Remaining gaps: scope, GPS, site-level factual evidence and four individually researched dimension comparisons; shared peer ladders are provisional.
 
