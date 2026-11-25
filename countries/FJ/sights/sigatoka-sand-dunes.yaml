@@ -1,0 +1,16 @@
+id: sight-fj-sigatoka-sand-dunes
+name: "Sigatoka Sand Dunes National Park"
+location:
+  country_code: FJ
+  latitude: -18.167636
+  longitude: 177.497751
+scores:
+  impact: 8.1
+  uniqueness: 8.1
+  significance: 8.6
+  experience: 8.0
+  depth: 7.5
+  categories:
+    nature: 8.3
+    history: 8.7
+    photography: 8.4

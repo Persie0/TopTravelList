@@ -1,0 +1,16 @@
+id: sight-fj-namena-marine-reserve
+name: "Namena Marine Reserve"
+location:
+  country_code: FJ
+  latitude: -17.10847
+  longitude: 179.10273
+scores:
+  impact: 9.2
+  uniqueness: 9.1
+  significance: 9.1
+  experience: 9.2
+  depth: 8.9
+  categories:
+    nature: 9.4
+    wildlife: 9.4
+    adventure: 9.3

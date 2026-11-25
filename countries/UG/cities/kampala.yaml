@@ -1,0 +1,16 @@
+id: city-ug-kampala
+name: "Kampala"
+location:
+  country_code: UG
+  latitude: 0.32171
+  longitude: 32.59411
+scores:
+  impact: 8.1
+  uniqueness: 8.3
+  significance: 8.5
+  experience: 8.3
+  depth: 8.7
+  categories:
+    culture: 8.8
+    food: 8.6
+    history: 8.5

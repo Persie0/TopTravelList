@@ -1,0 +1,15 @@
+id: sight-ke-marakwet-irrigation
+name: "Marakwet Escarpment Furrow Irrigation System"
+location:
+  country_code: KE
+  latitude: 0.948333
+  longitude: 35.508611
+scores:
+  impact: null
+  uniqueness: 9.1
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    culture: 9.3
+    history: 9.2

@@ -1,0 +1,17 @@
+id: sight-fm-ahnd-atoll
+name: "Ahnd Atoll (Ant Atoll)"
+location:
+  country_code: FM
+  latitude: 6.78194
+  longitude: 157.91667
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 8.8
+  depth: 8.5
+  categories:
+    nature: 9.2
+    wildlife: 9.2
+    beaches: 8.9
+    adventure: 8.9
