@@ -1,0 +1,16 @@
+id: sight-nz-fiordland-national-park
+name: "Fiordland National Park"
+location:
+  country_code: NZ
+  latitude: -45.4
+  longitude: 167.1
+scores:
+  impact: 9.5
+  uniqueness: 9.3
+  significance: 9.3
+  experience: 9.2
+  depth: 9.4
+  categories:
+    nature: 9.5
+    photography: 9.5
+    adventure: 9.3
