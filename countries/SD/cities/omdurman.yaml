@@ -1,0 +1,15 @@
+id: city-sd-omdurman
+name: "Omdurman"
+location:
+  country_code: SD
+  latitude: 15.645
+  longitude: 32.478
+scores:
+  impact: 7.6
+  uniqueness: 8.3
+  significance: 8.7
+  experience: 7.8
+  depth: 8.1
+  categories:
+    culture: 8.8
+    history: 8.9
