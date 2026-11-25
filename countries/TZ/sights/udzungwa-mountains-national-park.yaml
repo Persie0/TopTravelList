@@ -1,0 +1,16 @@
+id: sight-tz-udzungwa-mountains-national-park
+name: "Udzungwa Mountains National Park"
+location:
+  country_code: TZ
+  latitude: -7.8
+  longitude: 36.75
+scores:
+  impact: 8.9
+  uniqueness: 9.1
+  significance: 9.3
+  experience: 8.8
+  depth: 8.8
+  categories:
+    nature: 9.4
+    wildlife: 9.1
+    adventure: 9.0
