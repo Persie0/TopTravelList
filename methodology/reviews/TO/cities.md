@@ -216,3 +216,37 @@
 - Earlier decision: none.
 - Verification still needed: Named settlement verified; detailed visitor evidence needed.
 
+### city-to-ohonua — 'Ohonua — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/TO/cities/ohonua.yaml)
+- Action: rescore
+- Precise subject: Settlement only, no remote Eua park credit. Respect village permissions.
+- Location check: existing representative point retained; independent coordinate check pending.
+- Evidence status: source-linked-unverified
+- Checked factual reference excerpts (2026-11-25):
+  - Tonga Tourism identifies Ohonua Free Church — https://www.tongatourism.travel/see-and-do/free-activities
+  - Visitor guide identifies wharf and visitor centre — https://book.tongapocketguide.com/free/eua-visitor-information-centre
+- Missing or uncertain facts: Settlement only, no remote Eua park credit. Respect village permissions.
+
+#### Worldwide peer comparisons
+- Salzburg (Austria): far richer heritage
+- Kampot (Cambodia): more urban visitor breadth
+- Koh Ker Village (Cambodia): stronger archaeological context
+- Yaren (Nauru): similarly compact stop
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | null | 6.1 | Modest coastal village |
+| Uniqueness | null | 6.6 | Distinctive Tongan village character |
+| Significance | null | 6.2 | Regional religious and transport context |
+| Experience | null | 6.4 | Church exterior and wharf walks |
+| Depth | null | 5.6 | Limited independent village breadth |
+
+- Applicable category scores: none assessed (unchanged).
+- Computed worldwide overall: 62.40/100
+- High-score challenge: no 9.5+ or 90+ claims introduced.
+- Approved 10 registry: none.
+- Final decision: provisionally ranked on documented visitor scope; not full independent verification.
+- Earlier decision: earlier entry for this ID, originally unranked.
+- Verification still needed: Settlement only, no remote Eua park credit. Respect village permissions.
