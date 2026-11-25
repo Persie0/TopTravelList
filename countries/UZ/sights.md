@@ -2,7 +2,7 @@
 
 # Uzbekistan (UZ) — Sights & attractions ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**50 ranked** · **6 unassessed** · **56 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,11 +10,73 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, or click its GPS coordinates to open **Google Maps**. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (50)
 
-No sights & attractions have been assessed for **Uzbekistan** yet.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps |
+| ---: | --- | --- | ---: | --- | --- | --- |
+| 1 | [Registan Square and Madrasah Ensemble](sights/registan-square-and-madrasah-ensemble.yaml) | Park / square | **96.45** | **Architecture 9.8**, **Photography 9.8**, **History 9.6**, Culture 9.5 | 9.8 / 9.7 / 9.6 / 9.6 / 9.2 | [39.6547, 66.9757](https://www.google.com/maps/search/?api=1&query=39.6547,66.9757) |
+| 2 | [Samarkand Crossroad of Cultures](sights/samarkand-crossroad-of-cultures.yaml) | Attraction | **94.90** | **Architecture 9.7**, **History 9.6**, **Photography 9.6**, Culture 9.5 | 9.5 / 9.5 / 9.6 / 9.3 / 9.5 | [39.659, 66.981](https://www.google.com/maps/search/?api=1&query=39.659,66.981) |
+| 3 | [Itchan Kala](sights/itchan-kala.yaml) | Attraction | **94.65** | **Architecture 9.6**, **Photography 9.6**, **History 9.5**, Culture 9.4 | 9.4 / 9.6 / 9.4 / 9.5 / 9.4 | [41.378, 60.359](https://www.google.com/maps/search/?api=1&query=41.378,60.359) |
+| 4 | [Historic Centre of Bukhara](sights/historic-centre-of-bukhara.yaml) | Historic settlement | **94.55** | **Architecture 9.6**, **History 9.6**, **Culture 9.5**, Photography 9.5 | 9.4 / 9.5 / 9.5 / 9.4 / 9.5 | [39.774, 64.421](https://www.google.com/maps/search/?api=1&query=39.774,64.421) |
+| 5 | [Shah-i-Zinda Necropolis](sights/shah-i-zinda-necropolis.yaml) | Attraction | **94.45** | **Architecture 9.7**, **Photography 9.7**, **History 9.5**, Culture 9.3 | 9.6 / 9.6 / 9.5 / 9.3 / 8.7 | [39.6624, 66.9875](https://www.google.com/maps/search/?api=1&query=39.6624,66.9875) |
+| 6 | [Gur-e-Amir Mausoleum](sights/gur-e-amir-mausoleum.yaml) | Museum / heritage | **91.85** | **Architecture 9.6**, **History 9.6**, **Photography 9.5** | 9.4 / 9.3 / 9.5 / 9.0 / 7.9 | [39.6486, 66.9697](https://www.google.com/maps/search/?api=1&query=39.6486,66.9697) |
+| 7 | [Poi Kalyan Ensemble](sights/poi-kalyan-ensemble.yaml) | Attraction | **91.35** | **Architecture 9.5**, **Photography 9.5**, **History 9.4** | 9.3 / 9.2 / 9.2 / 9.1 / 8.4 | [39.7757, 64.4148](https://www.google.com/maps/search/?api=1&query=39.7757,64.4148) |
+| 8 | [Savitsky State Museum of Arts](sights/savitsky-state-museum-of-arts.yaml) | Museum / heritage | **90.25** | **Culture 9.4**, **History 9.1** | 8.8 / 9.4 / 9.2 / 8.7 / 8.9 | [42.465, 59.609](https://www.google.com/maps/search/?api=1&query=42.465,59.609) |
+| 9 | [Bibi-Khanym Mosque](sights/bibi-khanym-mosque.yaml) | Religious site | **88.65** | **Architecture 9.4**, **History 9.3**, **Photography 9.2** | 9.1 / 8.9 / 9.2 / 8.6 / 7.8 | [39.6605, 66.979](https://www.google.com/maps/search/?api=1&query=39.6605,66.979) |
+| 10 | [Samanid Mausoleum](sights/samanid-mausoleum.yaml) | Museum / heritage | **88.30** | **Architecture 9.5**, **History 9.5**, **Photography 8.9** | 8.8 / 9.4 / 9.4 / 8.6 / 6.7 | [39.7764, 64.4008](https://www.google.com/maps/search/?api=1&query=39.7764,64.4008) |
+| 11 | [Juma Mosque of Khiva](sights/juma-mosque-of-khiva.yaml) | Religious site | **87.50** | **Architecture 9.4**, **History 9.2**, **Photography 9.1** | 8.8 / 9.1 / 9.0 / 8.5 / 7.6 | [41.378, 60.359](https://www.google.com/maps/search/?api=1&query=41.378,60.359) |
+| 12 | [Tashkent Metro](sights/tashkent-metro.yaml) | Attraction | **87.10** | **Architecture 9.4**, **Photography 9.2** | 8.6 / 9.1 / 8.3 / 8.9 / 8.6 | [41.312, 69.279](https://www.google.com/maps/search/?api=1&query=41.312,69.279) |
+| 13 | [Ak-Saray Palace Ruins](sights/ak-saray-palace-ruins.yaml) | Museum / heritage | **86.75** | **History 9.4**, **Architecture 9.2**, **Photography 9.2** | 8.8 / 8.8 / 9.3 / 8.3 / 7.3 | [39.062, 66.829](https://www.google.com/maps/search/?api=1&query=39.062,66.829) |
+| 14 | [Islam Khodja Minaret and Madrasah](sights/islam-khodja-minaret-and-madrasah.yaml) | Attraction | **86.70** | **Photography 9.4**, **Architecture 9.2** | 8.9 / 8.9 / 8.6 / 8.7 / 7.5 | [41.377, 60.362](https://www.google.com/maps/search/?api=1&query=41.377,60.362) |
+| 15 | [Tash Khauli Palace](sights/tash-khauli-palace.yaml) | Palace / castle | **86.45** | **Architecture 9.2**, **History 9.1** | 8.7 / 8.7 / 8.8 / 8.6 / 8.1 | [41.379, 60.362](https://www.google.com/maps/search/?api=1&query=41.379,60.362) |
+| 16 | [Ayaz Kala Fortresses](sights/ayaz-kala-fortresses.yaml) | Fortification | **86.35** | **Photography 9.3**, **History 9.1** | 8.7 / 8.9 / 8.7 / 8.4 / 8.0 | [42.013, 61.028](https://www.google.com/maps/search/?api=1&query=42.013,61.028) |
+| 17 | [Khudayar Khan Palace](sights/khudayar-khan-palace.yaml) | Palace / castle | **86.05** | **Architecture 9.2**, **History 9.0** | 8.6 / 8.7 / 8.7 / 8.6 / 8.2 | [40.535, 70.937](https://www.google.com/maps/search/?api=1&query=40.535,70.937) |
+| 18 | [Ark Fortress of Bukhara](sights/ark-fortress-of-bukhara.yaml) | Fortification | **86.00** | **History 9.2**, **Architecture 8.8** | 8.6 / 8.6 / 9.0 / 8.4 / 8.1 | [39.777, 64.409](https://www.google.com/maps/search/?api=1&query=39.777,64.409) |
+| 19 | [Kunya Ark](sights/kunya-ark.yaml) | Attraction | **85.80** | **History 9.2**, **Architecture 8.9**, **Photography 8.9** | 8.6 / 8.5 / 8.9 / 8.5 / 8.2 | [41.379, 60.356](https://www.google.com/maps/search/?api=1&query=41.379,60.356) |
+| 20 | [Pakhlavan Mahmud Mausoleum](sights/pakhlavan-mahmud-mausoleum.yaml) | Museum / heritage | **85.25** | **Architecture 9.3**, **Culture 8.9**, **History 8.9** | 8.7 / 8.8 / 8.7 / 8.3 / 7.3 | [41.377, 60.359](https://www.google.com/maps/search/?api=1&query=41.377,60.359) |
+| 21 | [Moynaq Ship Cemetery](sights/moynaq-ship-cemetery.yaml) | Attraction | **85.20** | **Photography 9.3**, **History 8.9** | 8.6 / 9.2 / 8.6 / 8.2 / 6.9 | [43.788, 59.034](https://www.google.com/maps/search/?api=1&query=43.788,59.034) |
+| 22 | [Chimgan Mountain Landscape](sights/chimgan-mountain-landscape.yaml) | Mountain / peak | **84.95** | **Photography 9.1**, **Adventure 9.0**, **Nature 9.0** | 8.8 / 8.5 / 7.7 / 8.8 / 8.7 | [41.55, 70.02](https://www.google.com/maps/search/?api=1&query=41.55,70.02) |
+| 23 | [Sultan Saodat Ensemble](sights/sultan-saodat-ensemble.yaml) | Attraction | **84.80** | **History 9.2**, **Architecture 9.0** | 8.4 / 8.6 / 8.9 / 8.4 / 7.7 | [37.28, 67.31](https://www.google.com/maps/search/?api=1&query=37.28,67.31) |
+| 24 | [Historic Centre of Shahrisabz](sights/historic-centre-of-shahrisabz.yaml) | Historic settlement | **84.60** | **History 9.4**, **Architecture 8.8** | 8.3 / 8.5 / 9.4 / 7.9 / 7.8 | [39.057, 66.833](https://www.google.com/maps/search/?api=1&query=39.057,66.833) |
+| 25 | [Kalta Minor Minaret](sights/kalta-minor-minaret.yaml) | Attraction | **84.50** | **Architecture 9.4**, **Photography 9.4** | 8.9 / 9.3 / 8.2 / 8.3 / 5.7 | [41.378, 60.356](https://www.google.com/maps/search/?api=1&query=41.378,60.356) |
+| 26 | [Hazrati Imam Complex](sights/hazrati-imam-complex.yaml) | Attraction | **84.30** | **History 9.1**, **Culture 9.0**, **Architecture 8.9** | 8.4 / 8.5 / 8.8 / 8.3 / 7.8 | [41.337, 69.242](https://www.google.com/maps/search/?api=1&query=41.337,69.242) |
+| 27 | [Lyabi Hauz Ensemble](sights/lyabi-hauz-ensemble.yaml) | Attraction | **84.25** | **Culture 8.9**, **Photography 8.9**, **Architecture 8.7** | 8.5 / 8.4 / 8.4 / 8.9 / 7.6 | [39.772, 64.421](https://www.google.com/maps/search/?api=1&query=39.772,64.421) |
+| 28 | [Ulugh Beg Observatory](sights/ulugh-beg-observatory.yaml) | Tower / viewpoint | **84.15** | **History 9.4**, **Culture 8.8** | 7.8 / 8.9 / 9.4 / 8.2 / 7.4 | [39.675, 67.006](https://www.google.com/maps/search/?api=1&query=39.675,67.006) |
+| 29 | [Zaamin National Park](sights/zaamin-national-park.yaml) | Park / reserve | **84.05** | **Nature 8.9**, **Photography 8.8**, **Adventure 8.5** | 8.5 / 8.4 / 8.1 / 8.5 / 8.6 | [39.67, 68.48](https://www.google.com/maps/search/?api=1&query=39.67,68.48) |
+| 30 | [Chilpik Tower of Silence](sights/chilpik-tower-of-silence.yaml) | Tower / viewpoint | **83.90** | **Photography 9.2**, **History 9.1** | 8.4 / 9.0 / 8.8 / 8.0 / 6.6 | [42.254, 60.061](https://www.google.com/maps/search/?api=1&query=42.254,60.061) |
+| 31 | [Afrasiab Archaeological Site and Museum](sights/afrasiab-archaeological-site-and-museum.yaml) | Museum / heritage | **83.70** | **History 9.4**, **Culture 8.7** | 7.8 / 8.7 / 9.2 / 7.9 / 8.3 | [39.676, 66.987](https://www.google.com/maps/search/?api=1&query=39.676,66.987) |
+| 32 | [Sitorai Mokhi-Khosa Palace](sights/sitorai-mokhi-khosa-palace.yaml) | Palace / castle | **83.15** | **Architecture 8.8**, **History 8.7** | 8.3 / 8.5 / 8.4 / 8.4 / 7.6 | [39.818, 64.443](https://www.google.com/maps/search/?api=1&query=39.818,64.443) |
+| 33 | [Fayaztepa Buddhist Complex](sights/fayaztepa-buddhist-complex.yaml) | Attraction | **83.10** | **History 9.3**, **Culture 8.9** | 7.9 / 8.8 / 9.1 / 7.8 / 7.5 | [37.29, 67.19](https://www.google.com/maps/search/?api=1&query=37.29,67.19) |
+| 33 | [Sarmishsay Petroglyphs](sights/sarmishsay-petroglyphs.yaml) | Attraction | **83.10** | **History 9.3**, **Photography 8.5** | 7.8 / 8.8 / 9.0 / 8.0 / 7.7 | [40.51, 65.74](https://www.google.com/maps/search/?api=1&query=40.51,65.74) |
+| 33 | [Toprak Kala](sights/toprak-kala.yaml) | Attraction | **83.10** | **History 9.2**, **Architecture 8.5** | 8.0 / 8.7 / 9.0 / 7.9 / 7.5 | [41.927, 60.823](https://www.google.com/maps/search/?api=1&query=41.927,60.823) |
+| 36 | [State Museum of History of Uzbekistan](sights/state-museum-of-history-of-uzbekistan.yaml) | Museum / heritage | **82.75** | **History 9.1**, **Culture 8.7** | 7.9 / 8.3 / 8.8 / 8.2 / 8.4 | [41.311, 69.271](https://www.google.com/maps/search/?api=1&query=41.311,69.271) |
+| 37 | [Al-Hakim al-Tirmidhi Complex](sights/al-hakim-al-tirmidhi-complex.yaml) | Attraction | **81.70** | **History 9.0**, **Culture 8.8**, **Architecture 8.7** | 8.1 / 8.3 / 8.7 / 8.1 / 7.1 | [37.28, 67.19](https://www.google.com/maps/search/?api=1&query=37.28,67.19) |
+| 38 | [Bolo Hauz Mosque](sights/bolo-hauz-mosque.yaml) | Religious site | **81.35** | **Architecture 9.0**, **Photography 8.8** | 8.3 / 8.5 / 8.2 / 8.2 / 6.5 | [39.777, 64.407](https://www.google.com/maps/search/?api=1&query=39.777,64.407) |
+| 39 | [Chorsu Bazaar](sights/chorsu-bazaar.yaml) | Market | **81.25** | **Food 9.0**, **Culture 8.7**, **Architecture 8.3** | 8.1 / 8.1 / 7.7 / 8.8 / 8.1 | [41.326, 69.234](https://www.google.com/maps/search/?api=1&query=41.326,69.234) |
+| 40 | [State Museum of Applied Arts](sights/state-museum-of-applied-arts.yaml) | Museum / heritage | **80.85** | **Culture 8.9**, **Architecture 8.6** | 7.9 / 8.4 / 8.1 / 8.3 / 7.5 | [41.299, 69.262](https://www.google.com/maps/search/?api=1&query=41.299,69.262) |
+| 41 | [Kampyrtepa](sights/kampyrtepa.yaml) | Attraction | **80.70** | **History 9.2** | 7.6 / 8.4 / 9.0 / 7.6 / 7.5 | [37.42, 66.98](https://www.google.com/maps/search/?api=1&query=37.42,66.98) |
+| 42 | [Aydarkul Lake](sights/aydarkul-lake.yaml) | Lake | **79.80** | **Photography 8.7**, **Nature 8.5**, **Relaxation 8.4** | 8.2 / 8.2 / 7.2 / 8.2 / 8.0 | [40.95, 66.8](https://www.google.com/maps/search/?api=1&query=40.95,66.8) |
+| 43 | [Yodgorlik Silk Factory](sights/yodgorlik-silk-factory.yaml) | Attraction | **79.55** | **Culture 9.1** | 7.6 / 8.5 / 7.6 / 8.6 / 7.4 | [40.472, 71.72](https://www.google.com/maps/search/?api=1&query=40.472,71.72) |
+| 44 | [Chor Minor](sights/chor-minor.yaml) | Attraction | **79.35** | **Architecture 9.0**, **Photography 8.9** | 8.1 / 8.6 / 7.8 / 8.1 / 5.8 | [39.775, 64.428](https://www.google.com/maps/search/?api=1&query=39.775,64.428) |
+| 45 | [Rishtan Ceramic Workshops](sights/rishtan-ceramic-workshops.yaml) | Attraction | **78.90** | **Culture 9.1** | 7.6 / 8.4 / 7.5 / 8.6 / 7.2 | [40.355, 71.285](https://www.google.com/maps/search/?api=1&query=40.355,71.285) |
+| 46 | [Nurata Chashma Complex](sights/nurata-chashma-complex.yaml) | Attraction | **78.00** | **Culture 8.5**, **History 8.5** | 7.6 / 8.0 / 8.1 / 8.0 / 7.0 | [40.56, 65.69](https://www.google.com/maps/search/?api=1&query=40.56,65.69) |
+| 47 | [Alisher Navoi Theatre](sights/alisher-navoi-theatre.yaml) | Attraction | **77.80** | **Architecture 8.6**, **Culture 8.3** | 7.9 / 8.0 / 7.6 / 8.0 / 6.9 | [41.308, 69.272](https://www.google.com/maps/search/?api=1&query=41.308,69.272) |
+| 47 | [Charvak Reservoir](sights/charvak-reservoir.yaml) | Lake | **77.80** | **Relaxation 8.8**, **Photography 8.7**, **Nature 8.3** | 8.4 / 7.7 / 6.2 / 8.5 / 8.2 | [41.63, 70.04](https://www.google.com/maps/search/?api=1&query=41.63,70.04) |
+| 49 | [Siab Bazaar](sights/siab-bazaar.yaml) | Market | **77.60** | **Food 8.6**, **Culture 8.4** | 7.7 / 7.9 / 7.3 / 8.5 / 7.4 | [39.66, 66.981](https://www.google.com/maps/search/?api=1&query=39.66,66.981) |
+| 50 | [Amir Temur Museum](sights/amir-temur-museum.yaml) | Museum / heritage | **77.15** | **History 8.6**, **Architecture 8.0** | 7.6 / 7.6 / 8.1 / 7.9 / 7.3 | [41.314, 69.279](https://www.google.com/maps/search/?api=1&query=41.314,69.279) |
 
-Add destination YAML files in [sights/](sights/), then regenerate the overview files.
+## Not yet fully assessed (6)
+
+These destinations have no rank until all five core scores are assessed.
+
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps |
+| ---: | --- | --- | ---: | --- | --- | --- |
+| — | [Cold Winter Deserts of Turan (Uzbek components)](sights/cold-winter-deserts-of-turan-uzbek-components.yaml) | Desert | **—** | **Nature 9.4**, **Wildlife 9.3** | — / 9.1 / 9.4 / — / — | [44, 58](https://www.google.com/maps/search/?api=1&query=44,58) |
+| — | [Kara Tepe Buddhist Monastery](sights/kara-tepe-buddhist-monastery.yaml) | Religious site | **—** | **History 9.3** | — / 8.8 / 9.1 / — / — | [37.29, 67.18](https://www.google.com/maps/search/?api=1&query=37.29,67.18) |
+| — | [Koktepa Archaeological Site](sights/koktepa-archaeological-site.yaml) | Museum / heritage | **—** | **History 9.2** | — / 8.4 / 9.0 / — / — | [39.83, 66.91](https://www.google.com/maps/search/?api=1&query=39.83,66.91) |
+| — | [Silk Roads Zarafshan-Karakum Corridor (Uzbek components)](sights/silk-roads-zarafshan-karakum-corridor-uzbek-components.yaml) | Attraction | **—** | **History 9.6**, **Culture 9.4** | — / 9.3 / 9.6 / — / — | [39.85, 64.56](https://www.google.com/maps/search/?api=1&query=39.85,64.56) |
+| — | [Tashkent Modernist Architecture (Serial Property)](sights/tashkent-modernist-architecture-serial-property.yaml) | Attraction | **—** | **Architecture 9.2**, **History 9.0** | — / 8.9 / 9.0 / — / — | [41.31, 69.27](https://www.google.com/maps/search/?api=1&query=41.31,69.27) |
+| — | [Western Tien-Shan (Uzbek components)](sights/western-tien-shan-uzbek-components.yaml) | Attraction | **—** | **Nature 9.4**, **Wildlife 9.2** | — / 9.1 / 9.4 / — / — | [41.53, 69.92](https://www.google.com/maps/search/?api=1&query=41.53,69.92) |
 
 ---
 
