@@ -264,3 +264,7 @@ Nine island/atoll records, no permanent civilian settlements. Palmyra provisiona
 ### American Samoa coverage — 2026-11-26
 
 Seven settlements and twelve sights; Rose Atoll and Swains Island unranked. All five volcanic islands and both atolls represented. Village internal points from 2026 Census; sight coordinates approximate. NPS current compendium, NOAA sanctuary access and CRAG coral recovery reporting consulted; no assumption of pristine reef, unrestricted customary access or current wildlife abundance. Linked peer filenames checked; comparative numerical calibration and independent full claim checks still needed. Recursive branch filename screen and open Samoa PR title checked, no obvious duplicate; full open-branch audit and CI/regeneration pending. No new 9.5+ or perfect-ten ratings.
+
+### Guam coverage — 2026-11-26
+
+Five settlements and twelve sights; Cocos Island unranked pending ordinary visitor access. Recursive filename screen found no obvious same-scope US record; Costa Rican Cocos unrelated. Ritidian public unit only, War in the Pacific public memorial circuit, separate capital outdoor trail, museum and market. Guam coastal strategy text reviewed, screenshot failed HTTP 404; historical coral losses and EPA water quality caveats incorporated. All coordinates approximate; independent full claims and numeric benchmark calibration pending. No new 9.5+ or perfect-ten ratings. Full CI/regeneration pending.

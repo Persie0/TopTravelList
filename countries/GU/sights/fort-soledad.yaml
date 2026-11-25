@@ -1,0 +1,16 @@
+id: sight-gu-fort-soledad
+name: "Fort Nuestra Señora de la Soledad"
+location:
+  country_code: GU
+  latitude: 13.296
+  longitude: 144.659
+scores:
+  impact: 8.3
+  uniqueness: 8.1
+  significance: 8.4
+  experience: 7.9
+  depth: 7.0
+  categories:
+    history: 8.6
+    architecture: 8.0
+    photography: 8.7
