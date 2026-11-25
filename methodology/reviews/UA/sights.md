@@ -25,11 +25,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.7 | Ancient urban ruins and agricultural archaeology |
-| uniqueness | — | 9.2 | Distinct Greek and Roman Black Sea settlement evidence |
-| significance | — | 9.5 | International classical and medieval history |
-| experience | — | null | Occupied Crimea, surviving condition and authorized access not verified |
-| depth | — | null | Listed archaeological area only |
+| Impact | — | 8.7 | Ancient urban ruins and agricultural archaeology |
+| Uniqueness | — | 9.2 | Distinct Greek and Roman Black Sea settlement evidence |
+| Significance | — | 9.5 | International classical and medieval history |
+| Experience | — | null | Occupied Crimea, surviving condition and authorized access not verified |
+| Depth | — | null | Listed archaeological area only |
 
 - Applicable category scores: history: 9.6, architecture: 9.2.
 - Computed worldwide overall: unranked.
@@ -47,6 +47,7 @@
 - Location check: 50.453, 30.514; approximate representative point; independent verification pending.
 - Evidence status: **source-linked-unverified**
 - Evidence: [UNESCO](https://whc.unesco.org/en/statesparties/ua) — accessed 2026-11-25 for official property or tentative nomination identity; city records only linked to associated heritage context; material facts, physical condition and current visitor scope not fully corroborated.
+- Supplemental evidence (2026-11-25): https://whc.unesco.org/en/statesparties/ua — UNESCO lists 2026 conservation reports; World Heritage in Danger status remains. Normal-condition rating not present safety or condition.
 - Missing or uncertain facts: exact GPS, current condition, ordinary visitor scope and material facts; nearer same-type peers. Current [travel warning](https://www.gov.uk/foreign-travel-advice/ukraine) applies; do not interpret as a present-day itinerary.
 
 #### Worldwide peer comparisons
@@ -60,11 +61,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 9.3 | Monumental religious buildings and painted interiors |
-| uniqueness | — | 9.3 | Distinct linked medieval Rus ecclesiastical ensemble |
-| significance | — | 9.5 | International religious and artistic heritage |
-| experience | — | 8.8 | Normal-condition permitted cathedral and monastery visits, current status unverified |
-| depth | — | 9.1 | Two listed precincts not whole city |
+| Impact | — | 9.3 | Monumental religious buildings and painted interiors |
+| Uniqueness | — | 9.3 | Distinct linked medieval Rus ecclesiastical ensemble |
+| Significance | — | 9.5 | International religious and artistic heritage |
+| Experience | — | 8.8 | Normal-condition permitted cathedral and monastery visits, current status unverified |
+| Depth | — | 9.1 | Two listed precincts not whole city |
 
 - Applicable category scores: architecture: 9.6, history: 9.6, culture: 9.4.
 - Computed worldwide overall: 92.45/100.
@@ -82,6 +83,7 @@
 - Location check: 49.842, 24.032; approximate representative point; independent verification pending.
 - Evidence status: **source-linked-unverified**
 - Evidence: [UNESCO](https://whc.unesco.org/en/statesparties/ua) — accessed 2026-11-25 for official property or tentative nomination identity; city records only linked to associated heritage context; material facts, physical condition and current visitor scope not fully corroborated.
+- Supplemental evidence (2026-11-25): https://whc.unesco.org/en/statesparties/ua — UNESCO documents March 2026 strikes on World Heritage site and continuing conservation concern. Normal-condition rating retained, no claim of surviving condition.
 - Missing or uncertain facts: exact GPS, current condition, ordinary visitor scope and material facts; nearer same-type peers. Current [travel warning](https://www.gov.uk/foreign-travel-advice/ukraine) applies; do not interpret as a present-day itinerary.
 
 #### Worldwide peer comparisons
@@ -95,11 +97,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 9.3 | Coherent historic streets squares and churches |
-| uniqueness | — | 9.2 | Distinct layered Central European urban architecture |
-| significance | — | 9.2 | International urban heritage |
-| experience | — | 9.0 | Normal-condition public street and museum experience, damage scope unverified |
-| depth | — | 9.0 | Listed historic precinct only |
+| Impact | — | 9.3 | Coherent historic streets squares and churches |
+| Uniqueness | — | 9.2 | Distinct layered Central European urban architecture |
+| Significance | — | 9.2 | International urban heritage |
+| Experience | — | 9.0 | Normal-condition public street and museum experience, damage scope unverified |
+| Depth | — | 9.0 | Listed historic precinct only |
 
 - Applicable category scores: architecture: 9.6, history: 9.4, photography: 9.3.
 - Computed worldwide overall: 91.80/100.
@@ -130,11 +132,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 9.1 | Ornate brick courtyards patterned roofs and gardens |
-| uniqueness | — | 9.2 | Distinct historic ecclesiastical architectural synthesis |
-| significance | — | 9.2 | International architectural and religious heritage |
-| experience | — | 8.8 | Normal-condition managed estate visits |
-| depth | — | 8.4 | Listed university residence complex only |
+| Impact | — | 9.1 | Ornate brick courtyards patterned roofs and gardens |
+| Uniqueness | — | 9.2 | Distinct historic ecclesiastical architectural synthesis |
+| Significance | — | 9.2 | International architectural and religious heritage |
+| Experience | — | 8.8 | Normal-condition managed estate visits |
+| Depth | — | 8.4 | Listed university residence complex only |
 
 - Applicable category scores: architecture: 9.5, history: 9.3.
 - Computed worldwide overall: 90.30/100.
@@ -165,11 +167,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | null | Combined visitor impact not documented |
-| uniqueness | — | 8.7 | Distinct historic geodetic triangulation network |
-| significance | — | 9.3 | International scientific measurement heritage |
-| experience | — | null | Station-specific access and interpretation unresolved |
-| depth | — | null | Four Ukrainian listed stations only |
+| Impact | — | null | Combined visitor impact not documented |
+| Uniqueness | — | 8.7 | Distinct historic geodetic triangulation network |
+| Significance | — | 9.3 | International scientific measurement heritage |
+| Experience | — | null | Station-specific access and interpretation unresolved |
+| Depth | — | null | Four Ukrainian listed stations only |
 
 - Applicable category scores: history: 9.4.
 - Computed worldwide overall: unranked.
@@ -187,6 +189,7 @@
 - Location check: 46.485, 30.737; approximate representative point; independent verification pending.
 - Evidence status: **unassessed**
 - Evidence: [UNESCO](https://whc.unesco.org/en/statesparties/ua) — accessed 2026-11-25 for official property or tentative nomination identity; city records only linked to associated heritage context; material facts, physical condition and current visitor scope not fully corroborated.
+- Supplemental evidence (2026-11-25): https://whc.unesco.org/en/statesparties/ua — UNESCO documents escalating damage and 2026 conservation reports; condition remains unassessed.
 - Missing or uncertain facts: exact GPS, current condition, ordinary visitor scope and material facts; nearer same-type peers. Current [travel warning](https://www.gov.uk/foreign-travel-advice/ukraine) applies; do not interpret as a present-day itinerary.
 
 #### Worldwide peer comparisons
@@ -200,11 +203,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.9 | Historic port-city streets and monumental architecture |
-| uniqueness | — | 9.0 | Distinct planned cosmopolitan trading city |
-| significance | — | 9.2 | International urban and maritime heritage |
-| experience | — | null | War damage and current permitted visitor scope unverified |
-| depth | — | null | Listed historic center only |
+| Impact | — | 8.9 | Historic port-city streets and monumental architecture |
+| Uniqueness | — | 9.0 | Distinct planned cosmopolitan trading city |
+| Significance | — | 9.2 | International urban and maritime heritage |
+| Experience | — | null | War damage and current permitted visitor scope unverified |
+| Depth | — | null | Listed historic center only |
 
 - Applicable category scores: architecture: 9.3, history: 9.4.
 - Computed worldwide overall: unranked.
@@ -222,6 +225,7 @@
 - Location check: 49.347736, 23.499444; approximate representative point; independent verification pending.
 - Evidence status: **unassessed**
 - Evidence: [UNESCO](https://whc.unesco.org/en/list/1424/maps/) — accessed 2026-11-25 for listed wooden church components and coordinates; material facts, physical condition and current visitor scope not fully corroborated.
+- Supplemental evidence (2026-11-25): https://whc.unesco.org/en/list/1424/ — UNESCO establishes serial property; individual access evidence for Drohobych and Zhovkva is now recorded separately; not enough to establish ordinary scope of all eight.
 - Missing or uncertain facts: exact GPS, current condition, ordinary visitor scope and material facts; nearer same-type peers. Current [travel warning](https://www.gov.uk/foreign-travel-advice/ukraine) applies; do not interpret as a present-day itinerary.
 
 #### Worldwide peer comparisons
@@ -235,11 +239,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.8 | Timber churches with distinctive roof forms and interiors |
-| uniqueness | — | 9.2 | Distinct regional log-built religious architecture |
-| significance | — | 9.3 | International architectural and religious heritage |
-| experience | — | null | Combined individual admission and condition not verified |
-| depth | — | null | Eight Ukrainian listed churches only |
+| Impact | — | 8.8 | Timber churches with distinctive roof forms and interiors |
+| Uniqueness | — | 9.2 | Distinct regional log-built religious architecture |
+| Significance | — | 9.3 | International architectural and religious heritage |
+| Experience | — | null | Combined individual admission and condition not verified |
+| Depth | — | null | Eight Ukrainian listed churches only |
 
 - Applicable category scores: architecture: 9.4, culture: 9.3.
 - Computed worldwide overall: unranked.
@@ -270,11 +274,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.6 | Mature beech woodland in Carpathian valleys |
-| uniqueness | — | 9.0 | Distinct natural forest development processes |
-| significance | — | 9.4 | International ecological heritage |
-| experience | — | null | Combined permitted core access unresolved |
-| depth | — | null | Ukrainian listed components only |
+| Impact | — | 8.6 | Mature beech woodland in Carpathian valleys |
+| Uniqueness | — | 9.0 | Distinct natural forest development processes |
+| Significance | — | 9.4 | International ecological heritage |
+| Experience | — | null | Combined permitted core access unresolved |
+| Depth | — | null | Ukrainian listed components only |
 
 - Applicable category scores: nature: 9.4, wildlife: 9.1.
 - Computed worldwide overall: unranked.
@@ -305,11 +309,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.8 | Early medieval churches and historic hill precinct |
-| uniqueness | — | 9.0 | Distinct surviving Rus architectural layers |
-| significance | — | 9.3 | International medieval architectural heritage |
-| experience | — | null | Current damage and ordinary access not verified |
-| depth | — | null | Nominated historic precinct only |
+| Impact | — | 8.8 | Early medieval churches and historic hill precinct |
+| Uniqueness | — | 9.0 | Distinct surviving Rus architectural layers |
+| Significance | — | 9.3 | International medieval architectural heritage |
+| Experience | — | null | Current damage and ordinary access not verified |
+| Depth | — | null | Nominated historic precinct only |
 
 - Applicable category scores: architecture: 9.4, history: 9.5.
 - Computed worldwide overall: unranked.
@@ -340,11 +344,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 9.2 | Deep winding canyon and fortified urban peninsula |
-| uniqueness | — | 9.2 | Distinct integrated defensive landscape |
-| significance | — | 8.9 | National and proposed international cultural heritage |
-| experience | — | 8.9 | Normal-condition public viewpoints and heritage walks |
-| depth | — | 8.8 | Nominated canyon landscape not entire city |
+| Impact | — | 9.2 | Deep winding canyon and fortified urban peninsula |
+| Uniqueness | — | 9.2 | Distinct integrated defensive landscape |
+| Significance | — | 8.9 | National and proposed international cultural heritage |
+| Experience | — | 8.9 | Normal-condition public viewpoints and heritage walks |
+| Depth | — | 8.8 | Nominated canyon landscape not entire city |
 
 - Applicable category scores: architecture: 9.4, photography: 9.5, history: 9.2.
 - Computed worldwide overall: 90.55/100.
@@ -375,11 +379,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.5 | Memorial hill and museum landscape |
-| uniqueness | — | 8.8 | Distinct nationally significant literary remembrance setting |
-| significance | — | 9.1 | National literary and cultural heritage |
-| experience | — | 8.5 | Normal-condition respectful memorial and museum visits |
-| depth | — | 8.3 | Named reserve only |
+| Impact | — | 8.5 | Memorial hill and museum landscape |
+| Uniqueness | — | 8.8 | Distinct nationally significant literary remembrance setting |
+| Significance | — | 9.1 | National literary and cultural heritage |
+| Experience | — | 8.5 | Normal-condition respectful memorial and museum visits |
+| Depth | — | 8.3 | Named reserve only |
 
 - Applicable category scores: history: 9.3, culture: 9.3.
 - Computed worldwide overall: 86.75/100.
@@ -410,11 +414,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | null | Surviving visitor landscape not verified |
-| uniqueness | — | 9.3 | Distinct protected steppe and conservation history |
-| significance | — | 9.4 | International steppe conservation importance |
-| experience | — | null | Occupation and condition prevent reliable assessment |
-| depth | — | null | Reserve not unrestricted steppe |
+| Impact | — | null | Surviving visitor landscape not verified |
+| Uniqueness | — | 9.3 | Distinct protected steppe and conservation history |
+| Significance | — | 9.4 | International steppe conservation importance |
+| Experience | — | null | Occupation and condition prevent reliable assessment |
+| Depth | — | null | Reserve not unrestricted steppe |
 
 - Applicable category scores: nature: 9.5, wildlife: 9.4.
 - Computed worldwide overall: unranked.
@@ -445,11 +449,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.9 | Designed water features grottoes and landscaped paths |
-| uniqueness | — | 9.0 | Distinct Romantic garden inspired by classical motifs |
-| significance | — | 9.0 | National and proposed international garden heritage |
-| experience | — | 8.9 | Normal-condition managed park walks |
-| depth | — | 8.8 | Named designed park only |
+| Impact | — | 8.9 | Designed water features grottoes and landscaped paths |
+| Uniqueness | — | 9.0 | Distinct Romantic garden inspired by classical motifs |
+| Significance | — | 9.0 | National and proposed international garden heritage |
+| Experience | — | 8.9 | Normal-condition managed park walks |
+| Depth | — | 8.8 | Named designed park only |
 
 - Applicable category scores: nature: 9.2, architecture: 9.1, photography: 9.3.
 - Computed worldwide overall: 89.35/100.
@@ -480,11 +484,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.8 | Historic palace and decorated courtyards |
-| uniqueness | — | 9.2 | Distinct Crimean Tatar court architecture |
-| significance | — | 9.4 | International Crimean Khanate cultural heritage |
-| experience | — | null | Occupation, restoration impacts and access unresolved |
-| depth | — | null | Named palace precinct only |
+| Impact | — | 8.8 | Historic palace and decorated courtyards |
+| Uniqueness | — | 9.2 | Distinct Crimean Tatar court architecture |
+| Significance | — | 9.4 | International Crimean Khanate cultural heritage |
+| Experience | — | null | Occupation, restoration impacts and access unresolved |
+| Depth | — | null | Named palace precinct only |
 
 - Applicable category scores: architecture: 9.5, history: 9.4.
 - Computed worldwide overall: unranked.
@@ -515,11 +519,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | null | Surviving ordinary visitor impact unverified |
-| uniqueness | — | 9.2 | Distinct prehistoric rock art and sandstone setting |
-| significance | — | 9.4 | International archaeological heritage |
-| experience | — | null | Occupation and ordinary access unresolved |
-| depth | — | null | Named archaeological reserve only |
+| Impact | — | null | Surviving ordinary visitor impact unverified |
+| Uniqueness | — | 9.2 | Distinct prehistoric rock art and sandstone setting |
+| Significance | — | 9.4 | International archaeological heritage |
+| Experience | — | null | Occupation and ordinary access unresolved |
+| Depth | — | null | Named archaeological reserve only |
 
 - Applicable category scores: history: 9.5.
 - Computed worldwide overall: unranked.
@@ -550,11 +554,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 7.9 | Historic observatory architecture |
-| uniqueness | — | 8.8 | Distinct early astronomical institution |
-| significance | — | 9.1 | International scientific and navigational heritage |
-| experience | — | null | Current admission and condition not established |
-| depth | — | null | Named observatory only |
+| Impact | — | 7.9 | Historic observatory architecture |
+| Uniqueness | — | 8.8 | Distinct early astronomical institution |
+| Significance | — | 9.1 | International scientific and navigational heritage |
+| Experience | — | null | Current admission and condition not established |
+| Depth | — | null | Named observatory only |
 
 - Applicable category scores: history: 9.2, architecture: 8.8.
 - Computed worldwide overall: unranked.
@@ -585,11 +589,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.9 | Coastal hilltop walls and towers |
-| uniqueness | — | 9.0 | Distinct medieval Black Sea trading fortification |
-| significance | — | 9.1 | International Mediterranean and Black Sea commercial heritage |
-| experience | — | null | Occupied Crimea, visitor conditions unresolved |
-| depth | — | null | Named fortress only |
+| Impact | — | 8.9 | Coastal hilltop walls and towers |
+| Uniqueness | — | 9.0 | Distinct medieval Black Sea trading fortification |
+| Significance | — | 9.1 | International Mediterranean and Black Sea commercial heritage |
+| Experience | — | null | Occupied Crimea, visitor conditions unresolved |
+| Depth | — | null | Named fortress only |
 
 - Applicable category scores: architecture: 9.3, history: 9.3.
 - Computed worldwide overall: unranked.
@@ -620,11 +624,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | null | Combined visitor impact unverified |
-| uniqueness | — | 8.8 | Distinct linked scientific institutions |
-| significance | — | 9.2 | International astronomical history |
-| experience | — | null | Component-specific admission and condition unresolved |
-| depth | — | null | Nominated observatories only |
+| Impact | — | null | Combined visitor impact unverified |
+| Uniqueness | — | 8.8 | Distinct linked scientific institutions |
+| Significance | — | 9.2 | International astronomical history |
+| Experience | — | null | Component-specific admission and condition unresolved |
+| Depth | — | null | Nominated observatories only |
 
 - Applicable category scores: history: 9.3.
 - Computed worldwide overall: unranked.
@@ -655,11 +659,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 9.0 | Historic churches and decorated interiors |
-| uniqueness | — | 9.2 | Distinct extension of Rus and later ecclesiastical architecture |
-| significance | — | 9.4 | International religious artistic heritage |
-| experience | — | null | Combined visitor conditions not verified |
-| depth | — | null | Proposed extended ensemble distinct from inscribed scope |
+| Impact | — | 9.0 | Historic churches and decorated interiors |
+| Uniqueness | — | 9.2 | Distinct extension of Rus and later ecclesiastical architecture |
+| Significance | — | 9.4 | International religious artistic heritage |
+| Experience | — | null | Combined visitor conditions not verified |
+| Depth | — | null | Proposed extended ensemble distinct from inscribed scope |
 
 - Applicable category scores: architecture: 9.5, history: 9.5.
 - Computed worldwide overall: unranked.
@@ -690,11 +694,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | null | Dispersed historic coastal fortification remains |
-| uniqueness | — | 9.0 | Distinct medieval commercial network |
-| significance | — | 9.2 | International Black Sea and Mediterranean history |
-| experience | — | null | Occupied components and combined access unresolved |
-| depth | — | null | Ukrainian nominated components only |
+| Impact | — | null | Dispersed historic coastal fortification remains |
+| Uniqueness | — | 9.0 | Distinct medieval commercial network |
+| Significance | — | 9.2 | International Black Sea and Mediterranean history |
+| Experience | — | null | Occupied components and combined access unresolved |
+| Depth | — | null | Ukrainian nominated components only |
 
 - Applicable category scores: history: 9.3, architecture: 9.2.
 - Computed worldwide overall: unranked.
@@ -725,11 +729,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 9.0 | Rock-cut settlements and plateau landscapes |
-| uniqueness | — | 9.3 | Distinct integrated cave-town archaeological heritage |
-| significance | — | 9.2 | International medieval Black Sea heritage |
-| experience | — | null | Occupation and permitted access unresolved |
-| depth | — | null | Nominated landscape only |
+| Impact | — | 9.0 | Rock-cut settlements and plateau landscapes |
+| Uniqueness | — | 9.3 | Distinct integrated cave-town archaeological heritage |
+| Significance | — | 9.2 | International medieval Black Sea heritage |
+| Experience | — | null | Occupation and permitted access unresolved |
+| Depth | — | null | Nominated landscape only |
 
 - Applicable category scores: history: 9.4, photography: 9.3.
 - Computed worldwide overall: unranked.
@@ -760,11 +764,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.9 | Historic valleys and settlement remains |
-| uniqueness | — | 9.1 | Distinct linked Crimean Tatar cultural landscape |
-| significance | — | 9.2 | International regional cultural heritage |
-| experience | — | null | Occupation and combined public access unresolved |
-| depth | — | null | Nominated surroundings not just palace |
+| Impact | — | 8.9 | Historic valleys and settlement remains |
+| Uniqueness | — | 9.1 | Distinct linked Crimean Tatar cultural landscape |
+| Significance | — | 9.2 | International regional cultural heritage |
+| Experience | — | null | Occupation and combined public access unresolved |
+| Depth | — | null | Nominated surroundings not just palace |
 
 - Applicable category scores: history: 9.4, architecture: 9.3.
 - Computed worldwide overall: unranked.
@@ -795,11 +799,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.8 | Monumental Constructivist building ensemble |
-| uniqueness | — | 9.2 | Distinct pioneering modernist civic architecture |
-| significance | — | 9.2 | International architectural heritage |
-| experience | — | null | Current condition and ordinary visitor scope unresolved |
-| depth | — | null | Named building only |
+| Impact | — | 8.8 | Monumental Constructivist building ensemble |
+| Uniqueness | — | 9.2 | Distinct pioneering modernist civic architecture |
+| Significance | — | 9.2 | International architectural heritage |
+| Experience | — | null | Current condition and ordinary visitor scope unresolved |
+| Depth | — | null | Named building only |
 
 - Applicable category scores: architecture: 9.5, history: 9.3.
 - Computed worldwide overall: unranked.
@@ -830,11 +834,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 9.0 | Extensive walls and ancient archaeological layers |
-| uniqueness | — | 9.1 | Distinct Black Sea defensive and classical heritage |
-| significance | — | 9.2 | International maritime and archaeological history |
-| experience | — | null | Current ordinary access and condition unresolved |
-| depth | — | null | Nominated precinct only |
+| Impact | — | 9.0 | Extensive walls and ancient archaeological layers |
+| Uniqueness | — | 9.1 | Distinct Black Sea defensive and classical heritage |
+| Significance | — | 9.2 | International maritime and archaeological history |
+| Experience | — | null | Current ordinary access and condition unresolved |
+| Depth | — | null | Nominated precinct only |
 
 - Applicable category scores: history: 9.4, architecture: 9.3.
 - Computed worldwide overall: unranked.
@@ -865,11 +869,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | null | Combined original archaeological visitor impact unverified |
-| uniqueness | — | 9.3 | Distinct prehistoric large settlements and material culture |
-| significance | — | 9.5 | International prehistoric archaeology |
-| experience | — | null | Component-specific visitor scope unresolved |
-| depth | — | null | Ukrainian nominated components only |
+| Impact | — | null | Combined original archaeological visitor impact unverified |
+| Uniqueness | — | 9.3 | Distinct prehistoric large settlements and material culture |
+| Significance | — | 9.5 | International prehistoric archaeology |
+| Experience | — | null | Component-specific visitor scope unresolved |
+| Depth | — | null | Ukrainian nominated components only |
 
 - Applicable category scores: history: 9.5.
 - Computed worldwide overall: unranked.
@@ -900,11 +904,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 9.1 | Towered stone fortress above canyon |
-| uniqueness | — | 9.1 | Distinct defensive landscape and layered fortifications |
-| significance | — | 9.0 | National and regional military architecture heritage |
-| experience | — | 8.9 | Normal-condition managed fortress visits |
-| depth | — | 8.6 | One fortress rather than full canyon |
+| Impact | — | 9.1 | Towered stone fortress above canyon |
+| Uniqueness | — | 9.1 | Distinct defensive landscape and layered fortifications |
+| Significance | — | 9.0 | National and regional military architecture heritage |
+| Experience | — | 8.9 | Normal-condition managed fortress visits |
+| Depth | — | 8.6 | One fortress rather than full canyon |
 
 - Applicable category scores: architecture: 9.4, history: 9.3, photography: 9.4.
 - Computed worldwide overall: 90.00/100.
@@ -920,8 +924,8 @@
 - Action: new
 - Precise subject: Khotyn Fortress; Named castle precinct only.
 - Location check: 48.522, 26.498; approximate representative point; independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: No individual source checked; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://khotynska-fortecya.cv.ua/index-en — State reserve identifies the 13th–18th-century fortress complex and cultural education function; https://khotynska-fortecya.cv.ua/about-reserve documents structures. Current wartime access not inferred. Reviewed 2026-11-25; partial evidence only, not complete claim verification.
 - Missing or uncertain facts: exact GPS, current condition, ordinary visitor scope and material facts; nearer same-type peers. Current [travel warning](https://www.gov.uk/foreign-travel-advice/ukraine) applies; do not interpret as a present-day itinerary.
 
 #### Worldwide peer comparisons
@@ -935,11 +939,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 9.1 | Monumental walls above Dniester |
-| uniqueness | — | 8.9 | Distinct medieval riverside fortress |
-| significance | — | 9.0 | National and regional defensive heritage |
-| experience | — | 8.7 | Normal-condition managed heritage visit |
-| depth | — | 8.4 | Named castle precinct only |
+| Impact | — | 9.1 | Monumental walls above Dniester |
+| Uniqueness | — | 8.9 | Distinct medieval riverside fortress |
+| Significance | — | 9.0 | National and regional defensive heritage |
+| Experience | — | 8.7 | Normal-condition managed heritage visit |
+| Depth | — | 8.4 | Named castle precinct only |
 
 - Applicable category scores: architecture: 9.4, history: 9.3, photography: 9.3.
 - Computed worldwide overall: 89.00/100.
@@ -970,11 +974,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.8 | Hilltop castle with successive courtyards |
-| uniqueness | — | 8.8 | Distinct Transcarpathian defensive and dynastic heritage |
-| significance | — | 8.9 | Regional political and architectural history |
-| experience | — | 8.7 | Normal-condition managed museum visit |
-| depth | — | 8.4 | One castle only |
+| Impact | — | 8.8 | Hilltop castle with successive courtyards |
+| Uniqueness | — | 8.8 | Distinct Transcarpathian defensive and dynastic heritage |
+| Significance | — | 8.9 | Regional political and architectural history |
+| Experience | — | 8.7 | Normal-condition managed museum visit |
+| Depth | — | 8.4 | One castle only |
 
 - Applicable category scores: architecture: 9.2, history: 9.2.
 - Computed worldwide overall: 87.65/100.
@@ -1005,11 +1009,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.7 | Brick walls towers and historic courtyard |
-| uniqueness | — | 8.8 | Distinct Volhynian medieval fortification |
-| significance | — | 8.9 | Regional and national defensive history |
-| experience | — | 8.7 | Normal-condition managed museum visit |
-| depth | — | 8.2 | Castle precinct only |
+| Impact | — | 8.7 | Brick walls towers and historic courtyard |
+| Uniqueness | — | 8.8 | Distinct Volhynian medieval fortification |
+| Significance | — | 8.9 | Regional and national defensive history |
+| Experience | — | 8.7 | Normal-condition managed museum visit |
+| Depth | — | 8.2 | Castle precinct only |
 
 - Applicable category scores: architecture: 9.2, history: 9.2.
 - Computed worldwide overall: 87.15/100.
@@ -1040,11 +1044,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.9 | Sandstone outcrops and carved structural traces |
-| uniqueness | — | 9.1 | Distinct rock-based medieval defensive archaeology |
-| significance | — | 8.8 | Regional medieval heritage |
-| experience | — | 8.8 | Normal-condition permitted walking and interpretation |
-| depth | — | 8.3 | Named rock site not entire Skole region |
+| Impact | — | 8.9 | Sandstone outcrops and carved structural traces |
+| Uniqueness | — | 9.1 | Distinct rock-based medieval defensive archaeology |
+| Significance | — | 8.8 | Regional medieval heritage |
+| Experience | — | 8.8 | Normal-condition permitted walking and interpretation |
+| Depth | — | 8.3 | Named rock site not entire Skole region |
 
 - Applicable category scores: nature: 9.2, history: 9.2, photography: 9.3.
 - Computed worldwide overall: 88.55/100.
@@ -1075,11 +1079,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.8 | Mountain lake forest and valleys |
-| uniqueness | — | 8.9 | Distinct Carpathian lake-forest habitat |
-| significance | — | 8.7 | National ecological conservation |
-| experience | — | 8.9 | Normal-condition permitted park paths and interpretation |
-| depth | — | 9.0 | Multiple park areas, not only lake |
+| Impact | — | 8.8 | Mountain lake forest and valleys |
+| Uniqueness | — | 8.9 | Distinct Carpathian lake-forest habitat |
+| Significance | — | 8.7 | National ecological conservation |
+| Experience | — | 8.9 | Normal-condition permitted park paths and interpretation |
+| Depth | — | 9.0 | Multiple park areas, not only lake |
 
 - Applicable category scores: nature: 9.3, photography: 9.2, adventure: 9.0.
 - Computed worldwide overall: 88.40/100.
@@ -1110,11 +1114,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 9.0 | Mountain ridges forests and alpine meadows |
-| uniqueness | — | 8.9 | Distinct Ukrainian Carpathian ecosystem mosaic |
-| significance | — | 8.9 | National biodiversity heritage |
-| experience | — | 9.0 | Normal-condition permitted seasonal walking routes |
-| depth | — | 9.2 | Named park, no restricted zones included |
+| Impact | — | 9.0 | Mountain ridges forests and alpine meadows |
+| Uniqueness | — | 8.9 | Distinct Ukrainian Carpathian ecosystem mosaic |
+| Significance | — | 8.9 | National biodiversity heritage |
+| Experience | — | 9.0 | Normal-condition permitted seasonal walking routes |
+| Depth | — | 9.2 | Named park, no restricted zones included |
 
 - Applicable category scores: nature: 9.4, adventure: 9.3, photography: 9.3.
 - Computed worldwide overall: 89.75/100.
@@ -1145,11 +1149,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.9 | Limestone ridges river valleys and canyon scenery |
-| uniqueness | — | 9.0 | Distinct former reef-related landforms |
-| significance | — | 8.8 | National geological and ecological heritage |
-| experience | — | 8.8 | Normal-condition permitted scenic routes |
-| depth | — | 9.1 | Park landscape, not fortress interiors |
+| Impact | — | 8.9 | Limestone ridges river valleys and canyon scenery |
+| Uniqueness | — | 9.0 | Distinct former reef-related landforms |
+| Significance | — | 8.8 | National geological and ecological heritage |
+| Experience | — | 8.8 | Normal-condition permitted scenic routes |
+| Depth | — | 9.1 | Park landscape, not fortress interiors |
 
 - Applicable category scores: nature: 9.3, photography: 9.3.
 - Computed worldwide overall: 89.10/100.
@@ -1180,11 +1184,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.6 | Lake network and wetland forests |
-| uniqueness | — | 8.8 | Distinct Polissia lake ecosystem |
-| significance | — | 8.8 | National wetland conservation |
-| experience | — | 8.7 | Normal-condition permitted shore routes, border restrictions not verified |
-| depth | — | 8.9 | Defined park not restricted reserve zones |
+| Impact | — | 8.6 | Lake network and wetland forests |
+| Uniqueness | — | 8.8 | Distinct Polissia lake ecosystem |
+| Significance | — | 8.8 | National wetland conservation |
+| Experience | — | 8.7 | Normal-condition permitted shore routes, border restrictions not verified |
+| Depth | — | 8.9 | Defined park not restricted reserve zones |
 
 - Applicable category scores: nature: 9.2, relaxation: 9.1, wildlife: 9.1.
 - Computed worldwide overall: 87.35/100.
@@ -1200,8 +1204,8 @@
 - Action: new
 - Precise subject: Hoverla mountain visitor landscape; Mountain landscape not whole national park.
 - Location check: 48.16, 24.5; approximate representative point; independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: No individual source checked; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://karpatskyi-park.in.ua/en/route/hoverla-mount/ — Park operator documents 2061 m summit and designated nature trail; wartime access not inferred. Reviewed 2026-11-25; partial evidence only, not complete claim verification.
 - Missing or uncertain facts: exact GPS, current condition, ordinary visitor scope and material facts; nearer same-type peers. Current [travel warning](https://www.gov.uk/foreign-travel-advice/ukraine) applies; do not interpret as a present-day itinerary.
 
 #### Worldwide peer comparisons
@@ -1215,11 +1219,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.9 | Open summit and mountain ridge scenery |
-| uniqueness | — | 8.7 | Distinct highest Ukrainian mountain |
-| significance | — | 8.7 | National geographic and cultural heritage |
-| experience | — | 8.8 | Normal-condition authorized seasonal hiking routes |
-| depth | — | 8.5 | Mountain landscape not whole national park |
+| Impact | — | 8.9 | Open summit and mountain ridge scenery |
+| Uniqueness | — | 8.7 | Distinct highest Ukrainian mountain |
+| Significance | — | 8.7 | National geographic and cultural heritage |
+| Experience | — | 8.8 | Normal-condition authorized seasonal hiking routes |
+| Depth | — | 8.5 | Mountain landscape not whole national park |
 
 - Applicable category scores: nature: 9.2, adventure: 9.2, photography: 9.2.
 - Computed worldwide overall: 87.55/100.
@@ -1235,8 +1239,8 @@
 - Action: new
 - Precise subject: Bakota Dniester landscape; Defined landscape not entire Dniester.
 - Location check: 48.59, 26.98; approximate representative point; independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Visit Ukraine](https://visitukraine.today/blog/9314/ukraines-most-notable-places-worth-visiting) — accessed 2026-11-25 for general regional tourism context; named site if mentioned, not confirmation of wartime safety; material facts, physical condition and current visitor scope not fully corroborated.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.tovtry.com/en/tur/ex/bakota.html — Park website documents named Bakota excursion and Dniester landscape; current wartime access not inferred. Reviewed 2026-11-25; partial evidence only, not complete claim verification.
 - Missing or uncertain facts: exact GPS, current condition, ordinary visitor scope and material facts; nearer same-type peers. Current [travel warning](https://www.gov.uk/foreign-travel-advice/ukraine) applies; do not interpret as a present-day itinerary.
 
 #### Worldwide peer comparisons
@@ -1250,11 +1254,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 9.0 | Broad river reservoir between steep slopes |
-| uniqueness | — | 9.0 | Distinct drowned-valley landscape and rock monastery context |
-| significance | — | 8.6 | Regional cultural and geological heritage |
-| experience | — | 8.8 | Normal-condition permitted viewpoints |
-| depth | — | 8.5 | Defined landscape not entire Dniester |
+| Impact | — | 9.0 | Broad river reservoir between steep slopes |
+| Uniqueness | — | 9.0 | Distinct drowned-valley landscape and rock monastery context |
+| Significance | — | 8.6 | Regional cultural and geological heritage |
+| Experience | — | 8.8 | Normal-condition permitted viewpoints |
+| Depth | — | 8.5 | Defined landscape not entire Dniester |
 
 - Applicable category scores: nature: 9.3, photography: 9.4.
 - Computed worldwide overall: 88.40/100.
@@ -1285,11 +1289,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | null | Ordinary visitor impact not established |
-| uniqueness | — | 9.4 | Distinct nuclear disaster and abandoned settlement heritage |
-| significance | — | 9.5 | International technological and environmental history |
-| experience | — | null | Restricted area and wartime access unresolved |
-| depth | — | null | No unauthorized access or excursion assumed |
+| Impact | — | null | Ordinary visitor impact not established |
+| Uniqueness | — | 9.4 | Distinct nuclear disaster and abandoned settlement heritage |
+| Significance | — | 9.5 | International technological and environmental history |
+| Experience | — | null | Restricted area and wartime access unresolved |
+| Depth | — | null | No unauthorized access or excursion assumed |
 
 - Applicable category scores: history: 9.5.
 - Computed worldwide overall: unranked.
@@ -1305,32 +1309,35 @@
 - Action: new
 - Precise subject: Saint George Tserkva, Drohobych; Single listed church.
 - Location check: 49.347736, 23.499444; [UNESCO published component coordinates](https://whc.unesco.org/en/list/1424/maps/) converted from DMS; representative point, not entrance.
-- Evidence status: **unassessed**
+- Evidence status: **source-linked-unverified**
 - Evidence: [UNESCO](https://whc.unesco.org/en/list/1424/maps/) — accessed 2026-11-25 for listed wooden church components and coordinates; material facts, physical condition and current visitor scope not fully corroborated.
+- Supplemental evidence (2026-11-25): https://drohobych-rada.gov.ua/%D0%BC%D1%96%D1%81%D1%8C%D0%BA%D0%B0-%D1%80%D0%B0%D0%B4%D0%B0/zaklady-kulture/myzei-drogobuchuna/ — Municipal museum identifies St George church and belfry complex as a museum department; https://www.karpaty.info/en/uk/lv/dr/drogobych/museums/cerkva/ describes painted interior and museum visit. No current safety or uninterrupted access guarantee.
 - Missing or uncertain facts: current condition, admission and interpretation; nearer same-type peers. Current [travel warning](https://www.gov.uk/foreign-travel-advice/ukraine) applies; do not interpret as a present-day itinerary.
 
 #### Worldwide peer comparisons
 | Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
 | --- | --- | --- |
-| [Schönbrunn Palace (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (9.4 / 9.3 / 9.6 / 9.5 / 9.3) | major architectural ensemble | Uniqueness lower: Distinct wooden religious architecture and artistic heritage; depth unassessed: Single listed church. Provisional scope comparison. |
-| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | historic built heritage | Uniqueness lower: Distinct wooden religious architecture and artistic heritage; depth unassessed: Single listed church. Provisional scope comparison. |
-| [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | monumental heritage complex | Uniqueness similar: Distinct wooden religious architecture and artistic heritage; depth unassessed: Single listed church. Provisional scope comparison. |
-| [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional heritage complex | Uniqueness higher: Distinct wooden religious architecture and artistic heritage; depth unassessed: Single listed church. Provisional scope comparison. |
+| [Radruż (PL)](../../../countries/PL/sights/radruz.yaml) (8.5 / 8.9 / 8.9 / 8.5 / 7.8) | comparable UNESCO wooden tserkva | Distinct painted or restored religious interior; lower ordinary visitor depth than fortified precinct with exhibition. |
+| [Ladomirová (SK)](../../../countries/SK/sights/ladomirova.yaml) (8.6 / 9 / 9 / 8.3 / 7.5) | comparable Carpathian timber church | Comparable architectural scope; significance reflects serial property and visitor access is narrower or similar. |
+| [Schönbrunn Palace (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (9.4 / 9.3 / 9.6 / 9.5 / 9.3) | major architectural ensemble | Uniqueness lower: Distinct wooden religious architecture and artistic heritage; depth lower: Single listed church. Provisional scope comparison. |
+| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | historic built heritage | Uniqueness lower: Distinct wooden religious architecture and artistic heritage; depth lower: Single listed church. Provisional scope comparison. |
+| [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | monumental heritage complex | Uniqueness similar: Distinct wooden religious architecture and artistic heritage; depth lower: Single listed church. Provisional scope comparison. |
+| [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional heritage complex | Uniqueness higher: Distinct wooden religious architecture and artistic heritage; depth lower: Single listed church. Provisional scope comparison. |
 
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.7 | Timber church and historic painted interior |
-| uniqueness | — | 9.1 | Distinct wooden religious architecture and artistic heritage |
-| significance | — | 9.2 | International serial architectural heritage |
-| experience | — | null | Ordinary interior visit and current condition unverified |
-| depth | — | null | Single listed church |
+| Impact | — | 8.7 | Timber church and historic painted interior |
+| Uniqueness | — | 9.1 | Distinct wooden religious architecture and artistic heritage |
+| Significance | — | 9.2 | International serial architectural heritage |
+| Experience | — | 8.3 | Museum-listed church with documented ordinary interior visit, subject to conservation and wartime restrictions |
+| Depth | — | 7.5 | One timber church and belfry, painted interior; no separate city museum itinerary |
 
 - Applicable category scores: architecture: 9.4, history: 9.3.
-- Computed worldwide overall: unranked.
+- Computed worldwide overall: 87.20/100.
 - High-score challenge: Not applicable.
 - Approved 10 registry: none.
-- Final decision: Unranked pending condition and documented ordinary visitor scope.
+- Final decision: provisional 87.20 for documented normal-condition visitor scope; not a present safety or access guarantee.
 - Earlier decision: none.
 - Verification still needed: independent claim-level corroboration, current condition and permitted access, narrower worldwide peers.
 
@@ -1355,11 +1362,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.4 | Timber church with mountain setting |
-| uniqueness | — | 8.9 | Distinct Carpathian timber-building tradition |
-| significance | — | 9.0 | International serial religious heritage |
-| experience | — | null | Ordinary admission and condition unverified |
-| depth | — | null | Single listed church |
+| Impact | — | 8.4 | Timber church with mountain setting |
+| Uniqueness | — | 8.9 | Distinct Carpathian timber-building tradition |
+| Significance | — | 9.0 | International serial religious heritage |
+| Experience | — | null | Ordinary admission and condition unverified |
+| Depth | — | null | Single listed church |
 
 - Applicable category scores: architecture: 9.3.
 - Computed worldwide overall: unranked.
@@ -1390,11 +1397,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.5 | Multidomed timber church form |
-| uniqueness | — | 8.9 | Distinct regional religious building tradition |
-| significance | — | 9.0 | International serial architectural heritage |
-| experience | — | null | Ordinary admission and condition unverified |
-| depth | — | null | Single listed church |
+| Impact | — | 8.5 | Multidomed timber church form |
+| Uniqueness | — | 8.9 | Distinct regional religious building tradition |
+| Significance | — | 9.0 | International serial architectural heritage |
+| Experience | — | null | Ordinary admission and condition unverified |
+| Depth | — | null | Single listed church |
 
 - Applicable category scores: architecture: 9.3.
 - Computed worldwide overall: unranked.
@@ -1425,11 +1432,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.4 | Historic timber church form |
-| uniqueness | — | 9.0 | Distinct early surviving wooden religious architecture |
-| significance | — | 9.1 | International serial architectural heritage |
-| experience | — | null | Ordinary admission and condition unverified |
-| depth | — | null | Single listed church |
+| Impact | — | 8.4 | Historic timber church form |
+| Uniqueness | — | 9.0 | Distinct early surviving wooden religious architecture |
+| Significance | — | 9.1 | International serial architectural heritage |
+| Experience | — | null | Ordinary admission and condition unverified |
+| Depth | — | null | Single listed church |
 
 - Applicable category scores: architecture: 9.3, history: 9.2.
 - Computed worldwide overall: unranked.
@@ -1460,11 +1467,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.6 | Timber church and historic iconostasis context |
-| uniqueness | — | 9.1 | Distinct preserved religious artistic tradition |
-| significance | — | 9.2 | International serial architectural heritage |
-| experience | — | null | Ordinary admission and condition unverified |
-| depth | — | null | Single listed church |
+| Impact | — | 8.6 | Timber church and historic iconostasis context |
+| Uniqueness | — | 9.1 | Distinct preserved religious artistic tradition |
+| Significance | — | 9.2 | International serial architectural heritage |
+| Experience | — | null | Ordinary admission and condition unverified |
+| Depth | — | null | Single listed church |
 
 - Applicable category scores: architecture: 9.4, culture: 9.2.
 - Computed worldwide overall: unranked.
@@ -1495,11 +1502,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.5 | Timber church in Carpathian landscape |
-| uniqueness | — | 9.0 | Distinct regional wooden religious architecture |
-| significance | — | 9.0 | International serial architectural heritage |
-| experience | — | null | Ordinary admission and condition unverified |
-| depth | — | null | Single listed church |
+| Impact | — | 8.5 | Timber church in Carpathian landscape |
+| Uniqueness | — | 9.0 | Distinct regional wooden religious architecture |
+| Significance | — | 9.0 | International serial architectural heritage |
+| Experience | — | null | Ordinary admission and condition unverified |
+| Depth | — | null | Single listed church |
 
 - Applicable category scores: architecture: 9.3, photography: 9.0.
 - Computed worldwide overall: unranked.
@@ -1530,11 +1537,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.5 | Historic wooden church with distinctive cross-shaped form |
-| uniqueness | — | 9.0 | Distinct Hutsul religious building tradition |
-| significance | — | 9.0 | International serial architectural heritage |
-| experience | — | null | Ordinary admission and condition unverified |
-| depth | — | null | Single listed church |
+| Impact | — | 8.5 | Historic wooden church with distinctive cross-shaped form |
+| Uniqueness | — | 9.0 | Distinct Hutsul religious building tradition |
+| Significance | — | 9.0 | International serial architectural heritage |
+| Experience | — | null | Ordinary admission and condition unverified |
+| Depth | — | null | Single listed church |
 
 - Applicable category scores: architecture: 9.3.
 - Computed worldwide overall: unranked.
@@ -1550,32 +1557,35 @@
 - Action: new
 - Precise subject: Holy Trinity Tserkva, Zhovkva; Single listed church.
 - Location check: 50.055339, 23.982214; [UNESCO published component coordinates](https://whc.unesco.org/en/list/1424/maps/) converted from DMS; representative point, not entrance.
-- Evidence status: **unassessed**
+- Evidence status: **source-linked-unverified**
 - Evidence: [UNESCO](https://whc.unesco.org/en/list/1424/maps/) — accessed 2026-11-25 for listed wooden church components and coordinates; material facts, physical condition and current visitor scope not fully corroborated.
+- Supplemental evidence (2026-11-25): https://zhovkva.com.ua/en — Destination portal reports Holy Trinity Church reopened to parishioners and visitors following restoration, 4 August 2026. Worship and preservation restrictions apply; no unrestricted access assumed.
 - Missing or uncertain facts: current condition, admission and interpretation; nearer same-type peers. Current [travel warning](https://www.gov.uk/foreign-travel-advice/ukraine) applies; do not interpret as a present-day itinerary.
 
 #### Worldwide peer comparisons
 | Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
 | --- | --- | --- |
-| [Schönbrunn Palace (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (9.4 / 9.3 / 9.6 / 9.5 / 9.3) | major architectural ensemble | Uniqueness lower: Distinct regional religious artistic tradition; depth unassessed: Single listed church. Provisional scope comparison. |
-| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | historic built heritage | Uniqueness lower: Distinct regional religious artistic tradition; depth unassessed: Single listed church. Provisional scope comparison. |
-| [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | monumental heritage complex | Uniqueness lower: Distinct regional religious artistic tradition; depth unassessed: Single listed church. Provisional scope comparison. |
-| [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional heritage complex | Uniqueness higher: Distinct regional religious artistic tradition; depth unassessed: Single listed church. Provisional scope comparison. |
+| [Radruż (PL)](../../../countries/PL/sights/radruz.yaml) (8.5 / 8.9 / 8.9 / 8.5 / 7.8) | comparable UNESCO wooden tserkva | Distinct painted or restored religious interior; lower ordinary visitor depth than fortified precinct with exhibition. |
+| [Ladomirová (SK)](../../../countries/SK/sights/ladomirova.yaml) (8.6 / 9 / 9 / 8.3 / 7.5) | comparable Carpathian timber church | Comparable architectural scope; significance reflects serial property and visitor access is narrower or similar. |
+| [Schönbrunn Palace (AT)](../../../countries/AT/sights/schoenbrunn-palace.yaml) (9.4 / 9.3 / 9.6 / 9.5 / 9.3) | major architectural ensemble | Uniqueness lower: Distinct regional religious artistic tradition; depth lower: Single listed church. Provisional scope comparison. |
+| [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) (9.3 / 9.5 / 9.3 / 9.5 / 9.2) | historic built heritage | Uniqueness lower: Distinct regional religious artistic tradition; depth lower: Single listed church. Provisional scope comparison. |
+| [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) (9.1 / 9.1 / 9.3 / 9.4 / 8.9) | monumental heritage complex | Uniqueness lower: Distinct regional religious artistic tradition; depth lower: Single listed church. Provisional scope comparison. |
+| [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | regional heritage complex | Uniqueness higher: Distinct regional religious artistic tradition; depth lower: Single listed church. Provisional scope comparison. |
 
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.6 | Historic timber church and iconostasis context |
-| uniqueness | — | 9.0 | Distinct regional religious artistic tradition |
-| significance | — | 9.1 | International serial architectural heritage |
-| experience | — | null | Ordinary admission and condition unverified |
-| depth | — | null | Single listed church |
+| Impact | — | 8.6 | Historic timber church and iconostasis context |
+| Uniqueness | — | 9.0 | Distinct regional religious artistic tradition |
+| Significance | — | 9.1 | International serial architectural heritage |
+| Experience | — | 8.1 | Restored church reopened to parishioners and visitors; worship and conservation restrictions apply |
+| Depth | — | 7.3 | One wooden church and immediate setting, not entire town |
 
 - Applicable category scores: architecture: 9.4, history: 9.2.
-- Computed worldwide overall: unranked.
+- Computed worldwide overall: 85.95/100.
 - High-score challenge: Not applicable.
 - Approved 10 registry: none.
-- Final decision: Unranked pending condition and documented ordinary visitor scope.
+- Final decision: provisional 85.95 for documented normal-condition visitor scope; not a present safety or access guarantee.
 - Earlier decision: none.
 - Verification still needed: independent claim-level corroboration, current condition and permitted access, narrower worldwide peers.
 
@@ -1600,11 +1610,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | null | Ordinary visitor impact unverified |
-| uniqueness | — | 8.2 | Distinct surviving survey network station |
-| significance | — | 9.0 | International serial geodetic heritage |
-| experience | — | null | Public access and interpretation unresolved |
-| depth | — | null | Single station 1187-031 |
+| Impact | — | null | Ordinary visitor impact unverified |
+| Uniqueness | — | 8.2 | Distinct surviving survey network station |
+| Significance | — | 9.0 | International serial geodetic heritage |
+| Experience | — | null | Public access and interpretation unresolved |
+| Depth | — | null | Single station 1187-031 |
 
 - Applicable category scores: history: 9.1.
 - Computed worldwide overall: unranked.
@@ -1635,11 +1645,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | null | Ordinary visitor impact unverified |
-| uniqueness | — | 8.2 | Distinct historic triangulation station |
-| significance | — | 9.0 | International serial geodetic heritage |
-| experience | — | null | Public access and interpretation unresolved |
-| depth | — | null | Single station 1187-032 |
+| Impact | — | null | Ordinary visitor impact unverified |
+| Uniqueness | — | 8.2 | Distinct historic triangulation station |
+| Significance | — | 9.0 | International serial geodetic heritage |
+| Experience | — | null | Public access and interpretation unresolved |
+| Depth | — | null | Single station 1187-032 |
 
 - Applicable category scores: history: 9.1.
 - Computed worldwide overall: unranked.
@@ -1670,11 +1680,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | null | Ordinary visitor impact unverified |
-| uniqueness | — | 8.2 | Distinct surviving scientific survey station |
-| significance | — | 9.0 | International serial geodetic heritage |
-| experience | — | null | Public access and interpretation unresolved |
-| depth | — | null | Single station 1187-033 |
+| Impact | — | null | Ordinary visitor impact unverified |
+| Uniqueness | — | 8.2 | Distinct surviving scientific survey station |
+| Significance | — | 9.0 | International serial geodetic heritage |
+| Experience | — | null | Public access and interpretation unresolved |
+| Depth | — | null | Single station 1187-033 |
 
 - Applicable category scores: history: 9.1.
 - Computed worldwide overall: unranked.
@@ -1705,11 +1715,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | null | Ordinary visitor impact unverified |
-| uniqueness | — | 8.5 | Distinct southern terminal point of listed arc |
-| significance | — | 9.1 | International scientific measurement heritage |
-| experience | — | null | Public access and interpretation unresolved |
-| depth | — | null | Single station 1187-034 |
+| Impact | — | null | Ordinary visitor impact unverified |
+| Uniqueness | — | 8.5 | Distinct southern terminal point of listed arc |
+| Significance | — | 9.1 | International scientific measurement heritage |
+| Experience | — | null | Public access and interpretation unresolved |
+| Depth | — | null | Single station 1187-034 |
 
 - Applicable category scores: history: 9.2.
 - Computed worldwide overall: unranked.

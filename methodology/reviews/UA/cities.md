@@ -25,11 +25,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 9.1 | Golden domes and varied historic Dnipro-side districts |
-| uniqueness | — | 9.2 | Distinct medieval Rus and modern Ukrainian capital layers |
-| significance | — | 9.4 | International religious and national political heritage |
-| experience | — | 8.9 | Normal-condition museum and urban heritage experience |
-| depth | — | 9.2 | Multiple independent districts and collections |
+| Impact | — | 9.1 | Golden domes and varied historic Dnipro-side districts |
+| Uniqueness | — | 9.2 | Distinct medieval Rus and modern Ukrainian capital layers |
+| Significance | — | 9.4 | International religious and national political heritage |
+| Experience | — | 8.9 | Normal-condition museum and urban heritage experience |
+| Depth | — | 9.2 | Multiple independent districts and collections |
 
 - Applicable category scores: history: 9.5, architecture: 9.3, culture: 9.3.
 - Computed worldwide overall: 91.65/100.
@@ -60,11 +60,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 9.1 | Historic squares and rich urban architecture |
-| uniqueness | — | 9.1 | Distinct layered Central European and Ukrainian urban traditions |
-| significance | — | 9.1 | International urban heritage and regional intellectual history |
-| experience | — | 9.0 | Normal-condition museums streets and coffeehouse culture |
-| depth | — | 8.9 | Several historic districts beyond the listed core |
+| Impact | — | 9.1 | Historic squares and rich urban architecture |
+| Uniqueness | — | 9.1 | Distinct layered Central European and Ukrainian urban traditions |
+| Significance | — | 9.1 | International urban heritage and regional intellectual history |
+| Experience | — | 9.0 | Normal-condition museums streets and coffeehouse culture |
+| Depth | — | 8.9 | Several historic districts beyond the listed core |
 
 - Applicable category scores: architecture: 9.5, history: 9.3, culture: 9.3.
 - Computed worldwide overall: 90.65/100.
@@ -95,11 +95,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.8 | Historic port architecture and urban seafront |
-| uniqueness | — | 9.0 | Distinct cosmopolitan Black Sea port heritage |
-| significance | — | 9.1 | International commercial and cultural history |
-| experience | — | null | Extent of surviving ordinary visit not independently established |
-| depth | — | null | Current condition and public cultural venues uncertain |
+| Impact | — | 8.8 | Historic port architecture and urban seafront |
+| Uniqueness | — | 9.0 | Distinct cosmopolitan Black Sea port heritage |
+| Significance | — | 9.1 | International commercial and cultural history |
+| Experience | — | null | Extent of surviving ordinary visit not independently established |
+| Depth | — | null | Current condition and public cultural venues uncertain |
 
 - Applicable category scores: architecture: 9.2, history: 9.3, culture: 9.2.
 - Computed worldwide overall: unranked.
@@ -115,8 +115,8 @@
 - Action: new
 - Precise subject: Chernivtsi; Compact city beyond university estate.
 - Location check: 48.2921, 25.9358; approximate representative point; independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Visit Ukraine](https://visitukraine.today/blog/9314/ukraines-most-notable-places-worth-visiting) — accessed 2026-11-25 for general regional tourism context; named site if mentioned, not confirmation of wartime safety; material facts, physical condition and current visitor scope not fully corroborated.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://travel.chernivtsi.ua/en/show/1131/city-sightseeing-tour — Municipal tourism authority documents historic squares, pedestrian streets and architectural ensemble. Reviewed 2026-11-25; partial evidence only, not complete claim verification.
 - Missing or uncertain facts: exact GPS, current condition, ordinary visitor scope and material facts; nearer same-type peers. Current [travel warning](https://www.gov.uk/foreign-travel-advice/ukraine) applies; do not interpret as a present-day itinerary.
 
 #### Worldwide peer comparisons
@@ -130,11 +130,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.7 | Historic streets and university skyline |
-| uniqueness | — | 8.8 | Distinct Bukovinian multicultural urban fabric |
-| significance | — | 8.8 | Regional and international architectural heritage |
-| experience | — | 8.7 | Normal-condition cultural venues and public walks |
-| depth | — | 8.5 | Compact city beyond university estate |
+| Impact | — | 8.7 | Historic streets and university skyline |
+| Uniqueness | — | 8.8 | Distinct Bukovinian multicultural urban fabric |
+| Significance | — | 8.8 | Regional and international architectural heritage |
+| Experience | — | 8.7 | Normal-condition cultural venues and public walks |
+| Depth | — | 8.5 | Compact city beyond university estate |
 
 - Applicable category scores: architecture: 9.3, history: 9.1, culture: 9.0.
 - Computed worldwide overall: 87.25/100.
@@ -150,8 +150,8 @@
 - Action: new
 - Precise subject: Kamianets-Podilskyi; Settlement excludes surrounding Podilski Tovtry park.
 - Location check: 48.6845, 26.5856; approximate representative point; independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Visit Ukraine](https://visitukraine.today/blog/9314/ukraines-most-notable-places-worth-visiting) — accessed 2026-11-25 for general regional tourism context; named site if mentioned, not confirmation of wartime safety; material facts, physical condition and current visitor scope not fully corroborated.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://museum.mincult.gov.ua/en/museums/natsionalnyy-istoryko-arkhitekturnyy-zapovidnyk-kamyanets?author=6663 — Ministry museum inventory documents historic centre, castle promontory and Smotrych canyon; separately ranked castle is not the entire town. Reviewed 2026-11-25; partial evidence only, not complete claim verification.
 - Missing or uncertain facts: exact GPS, current condition, ordinary visitor scope and material facts; nearer same-type peers. Current [travel warning](https://www.gov.uk/foreign-travel-advice/ukraine) applies; do not interpret as a present-day itinerary.
 
 #### Worldwide peer comparisons
@@ -165,11 +165,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 9.0 | Historic town on canyon-enclosed peninsula |
-| uniqueness | — | 9.1 | Distinct fortified urban topography |
-| significance | — | 8.8 | Regional and national defensive history |
-| experience | — | 8.7 | Normal-condition town streets museums and viewpoints |
-| depth | — | 8.3 | Settlement excludes surrounding Podilski Tovtry park |
+| Impact | — | 9.0 | Historic town on canyon-enclosed peninsula |
+| Uniqueness | — | 9.1 | Distinct fortified urban topography |
+| Significance | — | 8.8 | Regional and national defensive history |
+| Experience | — | 8.7 | Normal-condition town streets museums and viewpoints |
+| Depth | — | 8.3 | Settlement excludes surrounding Podilski Tovtry park |
 
 - Applicable category scores: architecture: 9.3, history: 9.2, photography: 9.4.
 - Computed worldwide overall: 88.70/100.
@@ -200,11 +200,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.3 | Riverfront streets and castle hill |
-| uniqueness | — | 8.5 | Distinct Transcarpathian multicultural town |
-| significance | — | 8.5 | Regional architectural and civic heritage |
-| experience | — | 8.7 | Normal-condition public streets museums and local culture |
-| depth | — | 8.2 | Town excludes regional mountains |
+| Impact | — | 8.3 | Riverfront streets and castle hill |
+| Uniqueness | — | 8.5 | Distinct Transcarpathian multicultural town |
+| Significance | — | 8.5 | Regional architectural and civic heritage |
+| Experience | — | 8.7 | Normal-condition public streets museums and local culture |
+| Depth | — | 8.2 | Town excludes regional mountains |
 
 - Applicable category scores: architecture: 8.9, culture: 8.9.
 - Computed worldwide overall: 84.40/100.
@@ -220,8 +220,8 @@
 - Action: new
 - Precise subject: Mukachevo; Town excludes separate castle interior and rural attractions.
 - Location check: 48.4392, 22.7178; approximate representative point; independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Visit Ukraine](https://visitukraine.today/blog/9314/ukraines-most-notable-places-worth-visiting) — accessed 2026-11-25 for general regional tourism context; named site if mentioned, not confirmation of wartime safety; material facts, physical condition and current visitor scope not fully corroborated.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://zaktour.gov.ua/en/mukachiv-district/ — Regional tourism administration identifies Mukachevo as administrative and historic cultural centre; https://zaktour.gov.ua/en/info-centers/ identifies city tourist services. City-specific claims still need corroboration. Reviewed 2026-11-25; partial evidence only, not complete claim verification.
 - Missing or uncertain facts: exact GPS, current condition, ordinary visitor scope and material facts; nearer same-type peers. Current [travel warning](https://www.gov.uk/foreign-travel-advice/ukraine) applies; do not interpret as a present-day itinerary.
 
 #### Worldwide peer comparisons
@@ -235,11 +235,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.3 | Historic urban streets and castle silhouette |
-| uniqueness | — | 8.4 | Distinct Transcarpathian market town |
-| significance | — | 8.5 | Regional civic and defensive heritage |
-| experience | — | 8.5 | Normal-condition museums and streets |
-| depth | — | 8.0 | Town excludes separate castle interior and rural attractions |
+| Impact | — | 8.3 | Historic urban streets and castle silhouette |
+| Uniqueness | — | 8.4 | Distinct Transcarpathian market town |
+| Significance | — | 8.5 | Regional civic and defensive heritage |
+| Experience | — | 8.5 | Normal-condition museums and streets |
+| Depth | — | 8.0 | Town excludes separate castle interior and rural attractions |
 
 - Applicable category scores: architecture: 8.9, history: 8.9.
 - Computed worldwide overall: 83.65/100.
@@ -255,8 +255,8 @@
 - Action: new
 - Precise subject: Ivano-Frankivsk; City excludes Carpathian excursions.
 - Location check: 48.9226, 24.7111; approximate representative point; independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: No individual source checked; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.invest.if.gov.ua/en/industries/turizm — Regional authority identifies the city as cultural centre with centuries of history; individual urban attractions and scope need further verification. Reviewed 2026-11-25; partial evidence only, not complete claim verification.
 - Missing or uncertain facts: exact GPS, current condition, ordinary visitor scope and material facts; nearer same-type peers. Current [travel warning](https://www.gov.uk/foreign-travel-advice/ukraine) applies; do not interpret as a present-day itinerary.
 
 #### Worldwide peer comparisons
@@ -270,11 +270,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.3 | Historic civic squares and pedestrian streets |
-| uniqueness | — | 8.4 | Distinct Galician market-town fabric |
-| significance | — | 8.4 | Regional civic and architectural heritage |
-| experience | — | 8.6 | Normal-condition cultural venues and walks |
-| depth | — | 8.2 | City excludes Carpathian excursions |
+| Impact | — | 8.3 | Historic civic squares and pedestrian streets |
+| Uniqueness | — | 8.4 | Distinct Galician market-town fabric |
+| Significance | — | 8.4 | Regional civic and architectural heritage |
+| Experience | — | 8.6 | Normal-condition cultural venues and walks |
+| Depth | — | 8.2 | City excludes Carpathian excursions |
 
 - Applicable category scores: architecture: 8.9, culture: 8.8.
 - Computed worldwide overall: 83.80/100.
@@ -290,8 +290,8 @@
 - Action: new
 - Precise subject: Zhovkva; Compact settlement not wider district.
 - Location check: 50.056, 23.972; approximate representative point; independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: No individual source checked; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://zhovkva.com.ua/en — Local destination portal documents Renaissance ideal-town plan, castle, market square and wooden church; separately rated church not whole city. Reviewed 2026-11-25; partial evidence only, not complete claim verification.
 - Missing or uncertain facts: exact GPS, current condition, ordinary visitor scope and material facts; nearer same-type peers. Current [travel warning](https://www.gov.uk/foreign-travel-advice/ukraine) applies; do not interpret as a present-day itinerary.
 
 #### Worldwide peer comparisons
@@ -305,11 +305,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.5 | Historic square churches and castle |
-| uniqueness | — | 8.7 | Distinct planned Renaissance town heritage |
-| significance | — | 8.7 | Regional and national architectural history |
-| experience | — | 8.4 | Normal-condition public lanes and permitted monuments |
-| depth | — | 7.8 | Compact settlement not wider district |
+| Impact | — | 8.5 | Historic square churches and castle |
+| Uniqueness | — | 8.7 | Distinct planned Renaissance town heritage |
+| Significance | — | 8.7 | Regional and national architectural history |
+| Experience | — | 8.4 | Normal-condition public lanes and permitted monuments |
+| Depth | — | 7.8 | Compact settlement not wider district |
 
 - Applicable category scores: architecture: 9.2, history: 9.1.
 - Computed worldwide overall: 85.05/100.
@@ -325,8 +325,8 @@
 - Action: new
 - Precise subject: Lutsk; City beyond castle but not surrounding region.
 - Location check: 50.7472, 25.3254; approximate representative point; independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Visit Ukraine](https://visitukraine.today/blog/9314/ukraines-most-notable-places-worth-visiting) — accessed 2026-11-25 for general regional tourism context; named site if mentioned, not confirmation of wartime safety; material facts, physical condition and current visitor scope not fully corroborated.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.lutskrada.gov.ua/en/about — Municipality identifies protected historic area and old/new city streets; https://www.visitlutsk.com/en/lutsk-old-town-a-sightseeing-tour/ documents historical urban walking visit. Reviewed 2026-11-25; partial evidence only, not complete claim verification.
 - Missing or uncertain facts: exact GPS, current condition, ordinary visitor scope and material facts; nearer same-type peers. Current [travel warning](https://www.gov.uk/foreign-travel-advice/ukraine) applies; do not interpret as a present-day itinerary.
 
 #### Worldwide peer comparisons
@@ -340,11 +340,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.5 | Historic castle skyline and old-town streets |
-| uniqueness | — | 8.6 | Distinct Volhynian defensive and civic fabric |
-| significance | — | 8.7 | Regional medieval political heritage |
-| experience | — | 8.5 | Normal-condition urban walks and museums |
-| depth | — | 8.2 | City beyond castle but not surrounding region |
+| Impact | — | 8.5 | Historic castle skyline and old-town streets |
+| Uniqueness | — | 8.6 | Distinct Volhynian defensive and civic fabric |
+| Significance | — | 8.7 | Regional medieval political heritage |
+| Experience | — | 8.5 | Normal-condition urban walks and museums |
+| Depth | — | 8.2 | City beyond castle but not surrounding region |
 
 - Applicable category scores: architecture: 9.0, history: 9.2.
 - Computed worldwide overall: 85.35/100.
@@ -375,11 +375,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.6 | Medieval church skyline and historic hills |
-| uniqueness | — | 8.9 | Distinct early Rus architectural heritage |
-| significance | — | 9.2 | International medieval and national religious history |
-| experience | — | null | Surviving ordinary cultural venue scope uncertain |
-| depth | — | null | Current condition and breadth unresolved |
+| Impact | — | 8.6 | Medieval church skyline and historic hills |
+| Uniqueness | — | 8.9 | Distinct early Rus architectural heritage |
+| Significance | — | 9.2 | International medieval and national religious history |
+| Experience | — | null | Surviving ordinary cultural venue scope uncertain |
+| Depth | — | null | Current condition and breadth unresolved |
 
 - Applicable category scores: architecture: 9.3, history: 9.4.
 - Computed worldwide overall: unranked.
@@ -410,11 +410,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.5 | Constructivist buildings and monumental civic squares |
-| uniqueness | — | 8.8 | Distinct modernist industrial and academic city |
-| significance | — | 9.0 | International modern architecture and national cultural heritage |
-| experience | — | null | War damage and ordinary access unresolved |
-| depth | — | null | Surviving cultural district breadth unresolved |
+| Impact | — | 8.5 | Constructivist buildings and monumental civic squares |
+| Uniqueness | — | 8.8 | Distinct modernist industrial and academic city |
+| Significance | — | 9.0 | International modern architecture and national cultural heritage |
+| Experience | — | null | War damage and ordinary access unresolved |
+| Depth | — | null | Surviving cultural district breadth unresolved |
 
 - Applicable category scores: architecture: 9.2, history: 9.1, culture: 9.0.
 - Computed worldwide overall: unranked.
@@ -430,8 +430,8 @@
 - Action: new
 - Precise subject: Yaremche; Town excludes mountain park routes.
 - Location check: 48.45, 24.55; approximate representative point; independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: No individual source checked; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://cnnp.if.ua/en/planyourtrip/tours — National park authority identifies local visitor centre, museums and waterfall; external mountain routes not included as town attractions. Reviewed 2026-11-25; partial evidence only, not complete claim verification.
 - Missing or uncertain facts: exact GPS, current condition, ordinary visitor scope and material facts; nearer same-type peers. Current [travel warning](https://www.gov.uk/foreign-travel-advice/ukraine) applies; do not interpret as a present-day itinerary.
 
 #### Worldwide peer comparisons
@@ -445,11 +445,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.3 | Mountain valley settlement and river setting |
-| uniqueness | — | 8.4 | Distinct Hutsul resort-town character |
-| significance | — | 8.1 | Regional cultural and tourism heritage |
-| experience | — | 8.6 | Normal-condition local walks crafts and dining |
-| depth | — | 7.9 | Town excludes mountain park routes |
+| Impact | — | 8.3 | Mountain valley settlement and river setting |
+| Uniqueness | — | 8.4 | Distinct Hutsul resort-town character |
+| Significance | — | 8.1 | Regional cultural and tourism heritage |
+| Experience | — | 8.6 | Normal-condition local walks crafts and dining |
+| Depth | — | 7.9 | Town excludes mountain park routes |
 
 - Applicable category scores: relaxation: 8.9, culture: 8.7, photography: 8.9.
 - Computed worldwide overall: 82.90/100.
@@ -480,11 +480,11 @@
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | 8.3 | Historic streets timber churches and civic architecture |
-| uniqueness | — | 8.6 | Distinct Galician salt and literary heritage |
-| significance | — | 8.7 | Regional industrial and international religious heritage |
-| experience | — | 8.4 | Normal-condition public urban walks and local museums |
-| depth | — | 8.0 | Town not wider Carpathian region |
+| Impact | — | 8.3 | Historic streets timber churches and civic architecture |
+| Uniqueness | — | 8.6 | Distinct Galician salt and literary heritage |
+| Significance | — | 8.7 | Regional industrial and international religious heritage |
+| Experience | — | 8.4 | Normal-condition public urban walks and local museums |
+| Depth | — | 8.0 | Town not wider Carpathian region |
 
 - Applicable category scores: architecture: 9.0, history: 9.1.
 - Computed worldwide overall: 84.40/100.
