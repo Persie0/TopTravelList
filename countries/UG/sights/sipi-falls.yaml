@@ -1,0 +1,16 @@
+id: sight-ug-sipi-falls
+name: "Sipi Falls"
+location:
+  country_code: UG
+  latitude: 1.33439
+  longitude: 34.38998
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 7.8
+  experience: 8.9
+  depth: 8.5
+  categories:
+    nature: 9.1
+    photography: 9.1
+    adventure: 8.8

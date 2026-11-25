@@ -1,0 +1,13 @@
+id: city-ug-mbale
+name: "Mbale"
+location:
+  country_code: UG
+  latitude: 1.078444
+  longitude: 34.181006
+scores:
+  impact: null
+  uniqueness: 7.4
+  significance: 7.5
+  experience: null
+  depth: null
+  categories: {}
