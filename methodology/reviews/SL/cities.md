@@ -2,6 +2,9 @@
 
 [Worldwide v2](../../../rules.md) · [Future-country workflow](../../future-country-workflow.md). 2026-11-25. [UNESCO country inventory](https://whc.unesco.org/en/statesparties/sl) confirms one inscribed property and four tentative properties. All are represented; each Gola–Tiwai component also has an entry. Parent and component ratings are not additive. Four component points checked against UNESCO map table; the serial property's representative point is Tiwai, not its extent. Western Area park uses the tentative submission reference; Old Fourah Bay College, Bunce and King's Yards submissions have ambiguous coordinate formatting, interpreted as decimal minutes for provisional points only. Other GPS points approximate and not independently verified. Peer sets are shared provisional type comparisons; all claims beyond stated source support remain unverified. Visitor access, conservation and permissions may change.
 
+
+Follow-up 2026-11-25: four formerly editorial-only records now have sources; no complete factual verification claimed. [National monuments inventory](https://sierraleoneheritage.org/v12.6/sites/monuments/) identifies gaps including St John's Maroon Church, St Charles' Church, Old Wharf Steps, Martello Tower, De Ruyter Stone and other monuments. [Special Court](https://rscsl.org/peace-museum/visit-the-peace-museum/) confirms a visitable Peace Museum absent from this initial inventory. Add individually when representative points and scope are verified.
+
 ## city-sl-freetown — Freetown — 2026-11-25
 
 - [YAML](../../../countries/SL/cities/freetown.yaml) · Action: new · **source-linked-unverified**.
@@ -194,7 +197,7 @@
 
 ## city-sl-port-loko — Port Loko — 2026-11-25
 
-- [YAML](../../../countries/SL/cities/port-loko.yaml) · Action: new · **editorial-only**.
+- [YAML](../../../countries/SL/cities/port-loko.yaml) · Action: new · **source-linked-unverified**.
 - Scope: Settlement itself, excluding remote attractions. GPS 8.766, -12.787: approximate editorial point, verification pending.
 - Worldwide peers (I/U/S/E/D):
   - [Siem Reap (KH)](../../../countries/KH/cities/siem-reap.yaml) — 8.8 / 9.0 / 9.3 / 9.0 / 9.2 (90.20/100); upper anchor; lower impact (river-region commercial streets), lower uniqueness (regional trading community), lower significance (local administrative history), lower experience (markets and food), lower depth (limited venues).
@@ -208,12 +211,12 @@
 - Depth 6.0: limited venues.
 - Categories: culture:7.4, history:7.5. Overall: 64.90/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked destination-specific source; editorial only.
+- Evidence: [GeoNames named town](https://www.geonames.org/2404433/port-loko.html) and [historic trade reference](https://britannica11.org/article/25-0069-d7b0d1/sierra_leone) support town identity and trade history, not present visitor quality. Reviewed 2026-11-25; originally editorial-only.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access and individual peer/category calibration.
 
 ## city-sl-koidu — Koidu — 2026-11-25
 
-- [YAML](../../../countries/SL/cities/koidu.yaml) · Action: new · **editorial-only**.
+- [YAML](../../../countries/SL/cities/koidu.yaml) · Action: new · **source-linked-unverified**.
 - Scope: Settlement itself, excluding remote attractions. GPS 8.643, -10.971: approximate editorial point, verification pending.
 - Worldwide peers (I/U/S/E/D):
   - [Beijing (CN)](../../../countries/CN/cities/beijing.yaml) — 9.7 / 9.7 / 9.9 / 9.5 / 10.0 (97.40/100); upper anchor; lower impact (mining town streets), lower uniqueness (diamond-region identity), lower significance (regional mining history), lower experience (local markets and meals), lower depth (limited documented visitor experience).
@@ -227,7 +230,7 @@
 - Depth 6.3: limited documented visitor experience.
 - Categories: culture:7.3, history:7.5. Overall: 64.60/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: No checked destination-specific source; editorial only.
+- Evidence: [UNDP municipal profile](https://ssg.undp.org.rs/?organization=municipal-government-of-koidu) supports district capital, diverse community and mining/trading identity. [Transparency International](https://www.transparency.org/en/news/blood-diamonds-and-land-corruption) describes mining impacts; no mine tours assumed. Reviewed 2026-11-25; originally editorial-only.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access and individual peer/category calibration.
 
 ## city-sl-regent — Regent — 2026-11-25
