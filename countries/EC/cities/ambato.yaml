@@ -1,0 +1,15 @@
+id: city-ec-ambato
+name: "Ambato"
+location:
+  country_code: EC
+  latitude: -1.2417
+  longitude: -78.6197
+scores:
+  impact: 6.9
+  uniqueness: 6.9
+  significance: 7.2
+  experience: 7.5
+  depth: 7.5
+  categories:
+    food: 8.0
+    culture: 7.7

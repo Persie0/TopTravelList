@@ -1,0 +1,15 @@
+id: sight-sc-bird-island
+name: "Bird Island"
+location:
+  country_code: SC
+  latitude: -3.7240
+  longitude: 55.2060
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 8.2
+  experience: 8.4
+  depth: 7.7
+  categories:
+    wildlife: 9.2
+    nature: 8.9

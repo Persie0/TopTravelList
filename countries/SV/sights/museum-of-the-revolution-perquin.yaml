@@ -1,0 +1,15 @@
+id: sight-sv-museum-of-the-revolution-perquin
+name: "Museum of the Revolution (Perquín)"
+location:
+  country_code: SV
+  latitude: 13.9590
+  longitude: -88.1630
+scores:
+  impact: 7.4
+  uniqueness: 8.4
+  significance: 8.7
+  experience: 8.1
+  depth: 7.6
+  categories:
+    history: 9.0
+    culture: 8.5

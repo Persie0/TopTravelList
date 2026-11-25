@@ -1,0 +1,16 @@
+id: sight-ec-parque-historico-guayaquil
+name: "Parque Histórico Guayaquil"
+location:
+  country_code: EC
+  latitude: -2.1460
+  longitude: -79.8690
+scores:
+  impact: 7.7
+  uniqueness: 7.8
+  significance: 7.8
+  experience: 8.1
+  depth: 7.7
+  categories:
+    culture: 8.4
+    architecture: 8.4
+    nature: 8.0

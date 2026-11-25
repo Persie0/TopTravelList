@@ -1,0 +1,16 @@
+id: sight-dj-ghoubbet-al-kharab
+name: "Ghoubbet al-Kharab"
+location:
+  country_code: DJ
+  latitude: 11.5350
+  longitude: 42.5770
+scores:
+  impact: 9.1
+  uniqueness: 8.9
+  significance: 7.8
+  experience: 8.5
+  depth: 8.0
+  categories:
+    nature: 9.2
+    photography: 9.4
+    adventure: 8.6

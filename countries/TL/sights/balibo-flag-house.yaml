@@ -1,0 +1,15 @@
+id: sight-tl-balibo-flag-house
+name: "Balibo Flag House"
+location:
+  country_code: TL
+  latitude: -8.9685
+  longitude: 125.041
+scores:
+  impact: 7.4
+  uniqueness: 8.3
+  significance: 8.9
+  experience: 7.6
+  depth: 6.5
+  categories:
+    history: 9.2
+    culture: 8.5

@@ -1,0 +1,14 @@
+id: city-bw-shorobe
+name: "Shorobe"
+location:
+  country_code: BW
+  latitude: -19.7050
+  longitude: 23.6650
+scores:
+  impact: 6.1
+  uniqueness: 7.2
+  significance: 6.2
+  experience: 7.1
+  depth: 5.7
+  categories:
+    culture: 7.9

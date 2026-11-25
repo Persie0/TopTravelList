@@ -1,0 +1,16 @@
+id: city-ve-maracaibo
+name: "Maracaibo"
+location:
+  country_code: VE
+  latitude: 10.6545
+  longitude: -71.6406
+scores:
+  impact: 7.3
+  uniqueness: 7.8
+  significance: 7.6
+  experience: 7.1
+  depth: 7.7
+  categories:
+    culture: 8.5
+    food: 8.3
+    history: 7.9

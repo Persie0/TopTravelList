@@ -1,0 +1,17 @@
+id: sight-tg-koutammakou-togo-sector
+name: "Koutammakou (Togo sector)"
+location:
+  country_code: TG
+  latitude: 10.066667
+  longitude: 1.133333
+scores:
+  impact: 8.8
+  uniqueness: 9.6
+  significance: 9.6
+  experience: 8.4
+  depth: 8.8
+  categories:
+    architecture: 9.7
+    culture: 9.7
+    history: 9.5
+    photography: 9.4

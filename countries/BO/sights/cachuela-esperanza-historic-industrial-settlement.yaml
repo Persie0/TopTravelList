@@ -1,0 +1,15 @@
+id: sight-bo-cachuela-esperanza-historic-industrial-settlement
+name: "Cachuela Esperanza Historic Industrial Settlement"
+location:
+  country_code: BO
+  latitude: -10.5380
+  longitude: -65.5780
+scores:
+  impact: 7.3
+  uniqueness: 8.1
+  significance: 8.3
+  experience: 7.4
+  depth: 6.7
+  categories:
+    history: 8.8
+    architecture: 8.0

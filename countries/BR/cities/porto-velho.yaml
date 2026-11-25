@@ -1,0 +1,15 @@
+id: city-br-porto-velho
+name: "Porto Velho"
+location:
+  country_code: BR
+  latitude: -8.7612
+  longitude: -63.9004
+scores:
+  impact: 6.3
+  uniqueness: 7.0
+  significance: 7.2
+  experience: 6.8
+  depth: 6.7
+  categories:
+    history: 8.0
+    culture: 7.6

@@ -1,0 +1,16 @@
+id: city-br-florianopolis
+name: "Florianópolis"
+location:
+  country_code: BR
+  latitude: -27.5954
+  longitude: -48.5480
+scores:
+  impact: 8.4
+  uniqueness: 8.4
+  significance: 7.6
+  experience: 8.7
+  depth: 8.5
+  categories:
+    beaches: 9.1
+    relaxation: 8.9
+    photography: 9.0

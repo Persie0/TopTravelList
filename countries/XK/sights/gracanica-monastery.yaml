@@ -1,0 +1,16 @@
+id: sight-xk-gracanica-monastery
+name: "Gračanica Monastery"
+location:
+  country_code: XK
+  latitude: 42.583333
+  longitude: 21.183333
+scores:
+  impact: 8.8
+  uniqueness: 9.2
+  significance: 9.4
+  experience: 8.5
+  depth: 7.7
+  categories:
+    architecture: 9.4
+    history: 9.4
+    culture: 9.3

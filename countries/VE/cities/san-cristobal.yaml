@@ -1,0 +1,15 @@
+id: city-ve-san-cristobal
+name: "San Cristóbal"
+location:
+  country_code: VE
+  latitude: 7.7669
+  longitude: -72.2250
+scores:
+  impact: 6.8
+  uniqueness: 7.3
+  significance: 6.9
+  experience: 7.3
+  depth: 7.1
+  categories:
+    culture: 8.1
+    food: 7.8

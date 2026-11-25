@@ -1,0 +1,16 @@
+id: sight-br-cachoeira-da-fumaca
+name: "Cachoeira da Fumaça"
+location:
+  country_code: BR
+  latitude: -12.6100
+  longitude: -41.4600
+scores:
+  impact: 9.2
+  uniqueness: 9.0
+  significance: 7.7
+  experience: 8.5
+  depth: 7.5
+  categories:
+    nature: 9.4
+    photography: 9.6
+    adventure: 8.9

@@ -1,0 +1,15 @@
+id: city-om-wakan
+name: "Wakan"
+location:
+  country_code: OM
+  latitude: 23.144
+  longitude: 57.739
+scores:
+  impact: 8.2
+  uniqueness: 8.3
+  significance: 7.3
+  experience: 8.0
+  depth: 6.6
+  categories:
+    photography: 8.9
+    culture: 8.1

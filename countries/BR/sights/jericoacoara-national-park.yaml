@@ -1,0 +1,16 @@
+id: sight-br-jericoacoara-national-park
+name: "Jericoacoara National Park"
+location:
+  country_code: BR
+  latitude: -2.8100
+  longitude: -40.5000
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 7.7
+  experience: 8.8
+  depth: 8.4
+  categories:
+    nature: 9.1
+    beaches: 9.1
+    photography: 9.3

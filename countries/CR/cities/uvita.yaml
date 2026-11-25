@@ -1,0 +1,15 @@
+id: city-cr-uvita
+name: "Uvita"
+location:
+  country_code: CR
+  latitude: 9.163
+  longitude: -83.736
+scores:
+  impact: 6.6
+  uniqueness: 7.0
+  significance: 6.0
+  experience: 7.6
+  depth: 6.7
+  categories:
+    relaxation: 8.0
+    food: 7.7

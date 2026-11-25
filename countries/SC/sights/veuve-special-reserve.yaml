@@ -1,0 +1,15 @@
+id: sight-sc-veuve-special-reserve
+name: "Veuve Special Reserve"
+location:
+  country_code: SC
+  latitude: -4.3600
+  longitude: 55.8280
+scores:
+  impact: 7.2
+  uniqueness: 8.7
+  significance: 8.5
+  experience: 7.8
+  depth: 6.5
+  categories:
+    wildlife: 9.2
+    nature: 8.6

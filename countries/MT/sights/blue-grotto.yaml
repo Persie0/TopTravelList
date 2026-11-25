@@ -1,0 +1,15 @@
+id: sight-mt-blue-grotto
+name: "Blue Grotto"
+location:
+  country_code: MT
+  latitude: 35.8214
+  longitude: 14.4577
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 7.3
+  experience: 8.7
+  depth: 7.8
+  categories:
+    nature: 9.2
+    photography: 9.3

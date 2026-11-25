@@ -1,0 +1,15 @@
+id: sight-uy-penarol-historic-railway-district
+name: "Penarol Historic Railway District"
+location:
+  country_code: UY
+  latitude: -34.8310
+  longitude: -56.2120
+scores:
+  impact: 7.2
+  uniqueness: 8.3
+  significance: 8.3
+  experience: 7.5
+  depth: 7.5
+  categories:
+    history: 8.7
+    architecture: 8.2

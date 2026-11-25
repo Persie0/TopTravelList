@@ -1,0 +1,16 @@
+id: city-ar-san-juan
+name: "San Juan"
+location:
+  country_code: AR
+  latitude: -31.5375
+  longitude: -68.5364
+scores:
+  impact: 6.7
+  uniqueness: 7.0
+  significance: 7.2
+  experience: 7.5
+  depth: 7.2
+  categories:
+    food: 8.1
+    history: 7.8
+    culture: 7.7

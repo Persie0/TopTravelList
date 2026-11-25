@@ -1,0 +1,15 @@
+id: sight-cr-santa-elena-cloud-forest-reserve
+name: "Santa Elena Cloud Forest Reserve"
+location:
+  country_code: CR
+  latitude: 10.338
+  longitude: -84.799
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 8.6
+  experience: 8.7
+  depth: 8.5
+  categories:
+    nature: 9.2
+    wildlife: 9.1

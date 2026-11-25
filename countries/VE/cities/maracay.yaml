@@ -1,0 +1,15 @@
+id: city-ve-maracay
+name: "Maracay"
+location:
+  country_code: VE
+  latitude: 10.2469
+  longitude: -67.5958
+scores:
+  impact: 6.7
+  uniqueness: 6.9
+  significance: 7.2
+  experience: 7.2
+  depth: 7.2
+  categories:
+    history: 7.7
+    culture: 7.6

@@ -1,0 +1,15 @@
+id: sight-bh-hawar-islands-reserve
+name: "Hawar Islands Reserve"
+location:
+  country_code: BH
+  latitude: 25.6500
+  longitude: 50.7550
+scores:
+  impact: null
+  uniqueness: 8.8
+  significance: 9.0
+  experience: null
+  depth: null
+  categories:
+    nature: 9.1
+    wildlife: 9.2

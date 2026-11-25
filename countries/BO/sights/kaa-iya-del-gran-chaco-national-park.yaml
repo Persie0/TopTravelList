@@ -1,0 +1,15 @@
+id: sight-bo-kaa-iya-del-gran-chaco-national-park
+name: "Kaa-Iya del Gran Chaco National Park"
+location:
+  country_code: BO
+  latitude: -19.3500
+  longitude: -60.5000
+scores:
+  impact: null
+  uniqueness: 9.1
+  significance: 9.4
+  experience: null
+  depth: null
+  categories:
+    nature: 9.4
+    wildlife: 9.5

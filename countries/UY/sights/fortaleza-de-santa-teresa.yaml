@@ -1,0 +1,16 @@
+id: sight-uy-fortaleza-de-santa-teresa
+name: "Fortaleza de Santa Teresa"
+location:
+  country_code: UY
+  latitude: -33.9725
+  longitude: -53.5504
+scores:
+  impact: 8.2
+  uniqueness: 8.2
+  significance: 8.6
+  experience: 8.3
+  depth: 7.8
+  categories:
+    history: 9.0
+    architecture: 8.7
+    photography: 8.4

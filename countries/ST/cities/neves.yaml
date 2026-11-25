@@ -1,0 +1,15 @@
+id: city-st-neves
+name: "Neves"
+location:
+  country_code: ST
+  latitude: 0.3590
+  longitude: 6.5520
+scores:
+  impact: 6.3
+  uniqueness: 6.6
+  significance: 6.5
+  experience: 6.9
+  depth: 6.0
+  categories:
+    culture: 7.3
+    food: 7.2

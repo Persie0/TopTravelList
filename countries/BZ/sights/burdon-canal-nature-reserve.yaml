@@ -1,0 +1,15 @@
+id: sight-bz-burdon-canal-nature-reserve
+name: "Burdon Canal Nature Reserve"
+location:
+  country_code: BZ
+  latitude: 17.472
+  longitude: -88.266
+scores:
+  impact: null
+  uniqueness: 7.5
+  significance: 8.0
+  experience: null
+  depth: null
+  categories:
+    nature: 8.2
+    wildlife: 8.2

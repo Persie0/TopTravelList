@@ -1,0 +1,16 @@
+id: city-om-muscat
+name: "Muscat"
+location:
+  country_code: OM
+  latitude: 23.588
+  longitude: 58.383
+scores:
+  impact: 8.7
+  uniqueness: 8.7
+  significance: 8.6
+  experience: 8.8
+  depth: 8.9
+  categories:
+    architecture: 9.0
+    culture: 8.9
+    food: 8.5

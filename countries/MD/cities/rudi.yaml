@@ -1,0 +1,15 @@
+id: city-md-rudi
+name: "Rudi"
+location:
+  country_code: MD
+  latitude: 48.3300
+  longitude: 27.8980
+scores:
+  impact: 6.8
+  uniqueness: 7.2
+  significance: 7.0
+  experience: 7.4
+  depth: 6.0
+  categories:
+    photography: 7.8
+    culture: 7.7

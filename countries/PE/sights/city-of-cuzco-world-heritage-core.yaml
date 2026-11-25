@@ -1,0 +1,16 @@
+id: sight-pe-city-of-cuzco-world-heritage-core
+name: "City of Cuzco (World Heritage core)"
+location:
+  country_code: PE
+  latitude: -13.5167
+  longitude: -71.9833
+scores:
+  impact: 9.4
+  uniqueness: 9.5
+  significance: 9.8
+  experience: 9.1
+  depth: 9.4
+  categories:
+    history: 9.8
+    architecture: 9.7
+    culture: 9.5

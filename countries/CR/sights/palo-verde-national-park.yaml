@@ -1,0 +1,15 @@
+id: sight-cr-palo-verde-national-park
+name: "Palo Verde National Park"
+location:
+  country_code: CR
+  latitude: 10.350
+  longitude: -85.330
+scores:
+  impact: 8.2
+  uniqueness: 8.6
+  significance: 9.0
+  experience: 8.3
+  depth: 8.3
+  categories:
+    wildlife: 9.3
+    nature: 9.0

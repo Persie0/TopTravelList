@@ -1,0 +1,15 @@
+id: sight-ee-haapsalu-castle
+name: "Haapsalu Castle"
+location:
+  country_code: EE
+  latitude: 58.947
+  longitude: 23.54
+scores:
+  impact: 8.2
+  uniqueness: 8.2
+  significance: 8.3
+  experience: 8.5
+  depth: 8.0
+  categories:
+    architecture: 8.7
+    history: 8.7

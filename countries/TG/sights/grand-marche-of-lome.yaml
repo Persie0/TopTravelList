@@ -1,0 +1,15 @@
+id: sight-tg-grand-marche-of-lome
+name: "Grand Marché of Lomé"
+location:
+  country_code: TG
+  latitude: 6.1310
+  longitude: 1.2270
+scores:
+  impact: 7.3
+  uniqueness: 7.9
+  significance: 7.5
+  experience: 8.5
+  depth: 7.6
+  categories:
+    culture: 8.8
+    food: 8.4

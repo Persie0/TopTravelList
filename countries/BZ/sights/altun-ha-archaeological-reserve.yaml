@@ -1,0 +1,15 @@
+id: sight-bz-altun-ha-archaeological-reserve
+name: "Altun Ha Archaeological Reserve"
+location:
+  country_code: BZ
+  latitude: 17.763
+  longitude: -88.348
+scores:
+  impact: 8.3
+  uniqueness: 8.2
+  significance: 8.8
+  experience: 8.5
+  depth: 7.9
+  categories:
+    history: 9.0
+    architecture: 8.6

@@ -1,0 +1,16 @@
+id: sight-bw-makgadikgadi-pans-game-reserve
+name: "Makgadikgadi Pans Game Reserve"
+location:
+  country_code: BW
+  latitude: -20.4500
+  longitude: 24.6500
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 8.3
+  experience: 8.8
+  depth: 8.3
+  categories:
+    wildlife: 9.3
+    nature: 9.2
+    photography: 9.0

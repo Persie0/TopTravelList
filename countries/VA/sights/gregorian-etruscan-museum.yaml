@@ -1,0 +1,15 @@
+id: sight-va-gregorian-etruscan-museum
+name: "Gregorian Etruscan Museum"
+location:
+  country_code: VA
+  latitude: 41.90608
+  longitude: 12.45402
+scores:
+  impact: 8.6
+  uniqueness: 8.9
+  significance: 9.2
+  experience: 8.7
+  depth: 8.6
+  categories:
+    history: 9.4
+    culture: 9.3

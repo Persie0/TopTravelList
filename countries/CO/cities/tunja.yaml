@@ -1,0 +1,16 @@
+id: city-co-tunja
+name: "Tunja"
+location:
+  country_code: CO
+  latitude: 5.5353
+  longitude: -73.3678
+scores:
+  impact: 7.6
+  uniqueness: 7.9
+  significance: 8.4
+  experience: 7.5
+  depth: 7.3
+  categories:
+    history: 8.9
+    architecture: 8.7
+    culture: 8.2

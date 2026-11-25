@@ -1,0 +1,16 @@
+id: sight-br-historic-centre-of-diamantina
+name: "Historic Centre of Diamantina"
+location:
+  country_code: BR
+  latitude: -18.2420
+  longitude: -43.6040
+scores:
+  impact: 8.4
+  uniqueness: 8.8
+  significance: 9.1
+  experience: 8.2
+  depth: 7.7
+  categories:
+    architecture: 9.3
+    history: 9.3
+    culture: 8.8

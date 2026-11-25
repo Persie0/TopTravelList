@@ -1,0 +1,15 @@
+id: sight-ar-quebrada-de-las-conchas
+name: "Quebrada de las Conchas"
+location:
+  country_code: AR
+  latitude: -25.9400
+  longitude: -65.7500
+scores:
+  impact: 9.0
+  uniqueness: 8.8
+  significance: 7.8
+  experience: 8.8
+  depth: 8.3
+  categories:
+    nature: 9.3
+    photography: 9.5

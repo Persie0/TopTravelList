@@ -1,0 +1,15 @@
+id: sight-om-qurum-beach
+name: "Qurum Beach"
+location:
+  country_code: OM
+  latitude: 23.624
+  longitude: 58.474
+scores:
+  impact: 7.5
+  uniqueness: 6.9
+  significance: 5.6
+  experience: 8.2
+  depth: 7.2
+  categories:
+    beaches: 8.3
+    relaxation: 8.5

@@ -1,0 +1,15 @@
+id: city-kw-fintas
+name: "Fintas"
+location:
+  country_code: KW
+  latitude: 29.1730
+  longitude: 48.1210
+scores:
+  impact: 6.5
+  uniqueness: 6.5
+  significance: 6.3
+  experience: 7.2
+  depth: 6.4
+  categories:
+    relaxation: 7.5
+    culture: 6.8

@@ -1,0 +1,14 @@
+id: city-sr-zanderij
+name: "Zanderij"
+location:
+  country_code: SR
+  latitude: 5.4500
+  longitude: -55.2000
+scores:
+  impact: 5.6
+  uniqueness: 5.9
+  significance: 6.1
+  experience: 6.0
+  depth: 5.5
+  categories:
+    culture: 6.5

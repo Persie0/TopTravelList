@@ -1,0 +1,16 @@
+id: sight-gy-georgetown-city-hall
+name: "Georgetown City Hall"
+location:
+  country_code: GY
+  latitude: 6.8112
+  longitude: -58.1654
+scores:
+  impact: 8.3
+  uniqueness: 8.6
+  significance: 8.4
+  experience: 7.7
+  depth: 6.9
+  categories:
+    architecture: 9.1
+    history: 8.6
+    photography: 8.5

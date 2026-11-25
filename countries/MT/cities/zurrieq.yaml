@@ -1,0 +1,15 @@
+id: city-mt-zurrieq
+name: "Żurrieq"
+location:
+  country_code: MT
+  latitude: 35.8310
+  longitude: 14.4740
+scores:
+  impact: 7.0
+  uniqueness: 7.4
+  significance: 7.5
+  experience: 7.6
+  depth: 7.0
+  categories:
+    architecture: 8.0
+    culture: 8.0

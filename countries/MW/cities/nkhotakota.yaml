@@ -1,0 +1,15 @@
+id: city-mw-nkhotakota
+name: "Nkhotakota"
+location:
+  country_code: MW
+  latitude: -12.9317
+  longitude: 34.2811
+scores:
+  impact: 6.6
+  uniqueness: 8.0
+  significance: 8.5
+  experience: 7.4
+  depth: 6.6
+  categories:
+    history: 9.0
+    culture: 8.5
