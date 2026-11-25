@@ -1,0 +1,15 @@
+id: city-cy-fikardou
+name: "Fikardou"
+location:
+  country_code: CY
+  latitude: 34.9589
+  longitude: 33.1715
+scores:
+  impact: 7.9
+  uniqueness: 8.2
+  significance: 7.9
+  experience: 7.5
+  depth: 6.5
+  categories:
+    architecture: 8.6
+    history: 8.1

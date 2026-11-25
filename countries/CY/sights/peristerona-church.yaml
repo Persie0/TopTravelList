@@ -1,0 +1,15 @@
+id: sight-cy-peristerona-church
+name: "Agioi Varnavas and Ilarion Church, Peristerona"
+location:
+  country_code: CY
+  latitude: 35.13
+  longitude: 33.080556
+scores:
+  impact: 7.8
+  uniqueness: 8.2
+  significance: 8.3
+  experience: null
+  depth: null
+  categories:
+    architecture: 8.6
+    history: 8.4

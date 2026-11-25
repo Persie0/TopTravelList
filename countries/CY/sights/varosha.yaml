@@ -1,0 +1,15 @@
+id: sight-cy-varosha
+name: "Varosha Permitted Public Area"
+location:
+  country_code: CY
+  latitude: 35.112
+  longitude: 33.952
+scores:
+  impact: 7.6
+  uniqueness: 8.6
+  significance: 8.4
+  experience: null
+  depth: null
+  categories:
+    history: 8.6
+    photography: 8.1
