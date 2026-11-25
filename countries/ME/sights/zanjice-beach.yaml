@@ -1,0 +1,15 @@
+id: sight-me-zanjice-beach
+name: "Žanjice Beach"
+location:
+  country_code: ME
+  latitude: 42.3990
+  longitude: 18.5810
+scores:
+  impact: 8.0
+  uniqueness: 7.8
+  significance: 6.4
+  experience: 8.5
+  depth: 7.5
+  categories:
+    beaches: 8.7
+    relaxation: 8.7

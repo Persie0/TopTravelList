@@ -1,0 +1,15 @@
+id: sight-me-ulcinj-salina
+name: "Ulcinj Salina"
+location:
+  country_code: ME
+  latitude: 41.9270
+  longitude: 19.2680
+scores:
+  impact: 8.1
+  uniqueness: 8.5
+  significance: 8.5
+  experience: 8.3
+  depth: 8.4
+  categories:
+    wildlife: 9.2
+    nature: 9

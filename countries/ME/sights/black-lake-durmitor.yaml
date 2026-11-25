@@ -1,0 +1,16 @@
+id: sight-me-black-lake-durmitor
+name: "Black Lake Durmitor"
+location:
+  country_code: ME
+  latitude: 43.1450
+  longitude: 19.0880
+scores:
+  impact: 8.9
+  uniqueness: 8.7
+  significance: 8.2
+  experience: 9.0
+  depth: 8.6
+  categories:
+    nature: 9.3
+    photography: 9.3
+    relaxation: 9.1

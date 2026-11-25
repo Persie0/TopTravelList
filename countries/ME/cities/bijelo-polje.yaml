@@ -1,0 +1,14 @@
+id: city-me-bijelo-polje
+name: "Bijelo Polje"
+location:
+  country_code: ME
+  latitude: 43.0370
+  longitude: 19.7470
+scores:
+  impact: 6.7
+  uniqueness: 6.9
+  significance: 7.2
+  experience: 7.4
+  depth: 7.1
+  categories:
+    history: 7.8

@@ -1,0 +1,16 @@
+id: sight-me-plav-lake
+name: "Plav Lake"
+location:
+  country_code: ME
+  latitude: 42.5930
+  longitude: 19.9180
+scores:
+  impact: 8.4
+  uniqueness: 8.2
+  significance: 7.7
+  experience: 8.6
+  depth: 8.2
+  categories:
+    nature: 9
+    photography: 9
+    relaxation: 8.9

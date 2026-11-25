@@ -1,0 +1,15 @@
+id: sight-me-blue-cave-lustica
+name: "Blue Cave Luštica"
+location:
+  country_code: ME
+  latitude: 42.3760
+  longitude: 18.5840
+scores:
+  impact: 8.5
+  uniqueness: 8.6
+  significance: 7.2
+  experience: 8.6
+  depth: 7.5
+  categories:
+    nature: 9
+    photography: 9.1

@@ -1,0 +1,15 @@
+id: sight-me-sveti-stefan-islet
+name: "Sveti Stefan Islet"
+location:
+  country_code: ME
+  latitude: 42.2555
+  longitude: 18.8914
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 8.0
+  experience: 8.0
+  depth: 7.4
+  categories:
+    photography: 9.4
+    architecture: 9.1

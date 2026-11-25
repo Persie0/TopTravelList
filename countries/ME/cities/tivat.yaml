@@ -1,0 +1,15 @@
+id: city-me-tivat
+name: "Tivat"
+location:
+  country_code: ME
+  latitude: 42.4316
+  longitude: 18.6960
+scores:
+  impact: 7.7
+  uniqueness: 7.5
+  significance: 7.1
+  experience: 8.4
+  depth: 7.8
+  categories:
+    relaxation: 8.7
+    food: 8.3

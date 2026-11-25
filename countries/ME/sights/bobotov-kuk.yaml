@@ -1,0 +1,16 @@
+id: sight-me-bobotov-kuk
+name: "Bobotov Kuk"
+location:
+  country_code: ME
+  latitude: 43.1270
+  longitude: 19.0340
+scores:
+  impact: 9.0
+  uniqueness: 8.8
+  significance: 8.3
+  experience: 8.9
+  depth: 8.4
+  categories:
+    nature: 9.3
+    adventure: 9.4
+    photography: 9.3

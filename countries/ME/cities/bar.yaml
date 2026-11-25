@@ -1,0 +1,15 @@
+id: city-me-bar
+name: "Bar"
+location:
+  country_code: ME
+  latitude: 42.0931
+  longitude: 19.1003
+scores:
+  impact: 7.2
+  uniqueness: 7.3
+  significance: 7.3
+  experience: 7.9
+  depth: 7.8
+  categories:
+    relaxation: 8.3
+    food: 8

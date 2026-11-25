@@ -1,0 +1,16 @@
+id: sight-me-ropojana-valley
+name: "Ropojana Valley"
+location:
+  country_code: ME
+  latitude: 42.4840
+  longitude: 19.8140
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 7.9
+  experience: 8.8
+  depth: 8.6
+  categories:
+    nature: 9.3
+    adventure: 9.2
+    photography: 9.2

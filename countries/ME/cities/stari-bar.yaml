@@ -1,0 +1,15 @@
+id: city-me-stari-bar
+name: "Stari Bar"
+location:
+  country_code: ME
+  latitude: 42.0915
+  longitude: 19.1359
+scores:
+  impact: 8.0
+  uniqueness: 8.3
+  significance: 8.4
+  experience: 8.2
+  depth: 7.4
+  categories:
+    history: 8.9
+    architecture: 8.7

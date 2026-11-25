@@ -1,0 +1,15 @@
+id: sight-me-ali-pasha-springs
+name: "Ali Pasha Springs"
+location:
+  country_code: ME
+  latitude: 42.5500
+  longitude: 19.8250
+scores:
+  impact: 8.1
+  uniqueness: 8.2
+  significance: 7.5
+  experience: 8.4
+  depth: 7.5
+  categories:
+    nature: 8.8
+    relaxation: 8.7

@@ -1,0 +1,16 @@
+id: sight-me-skrka-lakes
+name: "Škrka Lakes"
+location:
+  country_code: ME
+  latitude: 43.1190
+  longitude: 18.9970
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 7.9
+  experience: 8.6
+  depth: 8.1
+  categories:
+    nature: 9.2
+    photography: 9.3
+    adventure: 9

@@ -1,0 +1,16 @@
+id: sight-me-durmitor-national-park
+name: "Durmitor National Park"
+location:
+  country_code: ME
+  latitude: 43.1400
+  longitude: 19.0200
+scores:
+  impact: 9.4
+  uniqueness: 9.3
+  significance: 9.2
+  experience: 9.3
+  depth: 9.4
+  categories:
+    nature: 9.6
+    adventure: 9.5
+    photography: 9.5

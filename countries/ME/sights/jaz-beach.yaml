@@ -1,0 +1,15 @@
+id: sight-me-jaz-beach
+name: "Jaz Beach"
+location:
+  country_code: ME
+  latitude: 42.2820
+  longitude: 18.8040
+scores:
+  impact: 8.0
+  uniqueness: 7.5
+  significance: 6.3
+  experience: 8.6
+  depth: 8.0
+  categories:
+    beaches: 8.8
+    relaxation: 8.7

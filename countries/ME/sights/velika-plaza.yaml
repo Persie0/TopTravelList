@@ -1,0 +1,16 @@
+id: sight-me-velika-plaza
+name: "Velika Plaža"
+location:
+  country_code: ME
+  latitude: 41.9060
+  longitude: 19.2750
+scores:
+  impact: 8.4
+  uniqueness: 8.0
+  significance: 6.7
+  experience: 8.8
+  depth: 8.6
+  categories:
+    beaches: 9.1
+    adventure: 8.9
+    relaxation: 8.8

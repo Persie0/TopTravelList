@@ -1,0 +1,16 @@
+id: sight-me-budva-old-town
+name: "Budva Old Town"
+location:
+  country_code: ME
+  latitude: 42.2780
+  longitude: 18.8370
+scores:
+  impact: 8.7
+  uniqueness: 8.7
+  significance: 8.6
+  experience: 8.8
+  depth: 8.2
+  categories:
+    architecture: 9.1
+    history: 9
+    photography: 9.2

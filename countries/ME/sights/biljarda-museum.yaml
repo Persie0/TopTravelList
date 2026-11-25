@@ -1,0 +1,15 @@
+id: sight-me-biljarda-museum
+name: "Biljarda Museum"
+location:
+  country_code: ME
+  latitude: 42.3885
+  longitude: 18.9240
+scores:
+  impact: 7.9
+  uniqueness: 8.2
+  significance: 8.6
+  experience: 8.2
+  depth: 7.6
+  categories:
+    history: 9
+    culture: 8.7

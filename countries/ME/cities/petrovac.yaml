@@ -1,0 +1,15 @@
+id: city-me-petrovac
+name: "Petrovac"
+location:
+  country_code: ME
+  latitude: 42.2050
+  longitude: 18.9420
+scores:
+  impact: 7.8
+  uniqueness: 7.6
+  significance: 7.3
+  experience: 8.4
+  depth: 7.6
+  categories:
+    beaches: 8.6
+    relaxation: 8.8

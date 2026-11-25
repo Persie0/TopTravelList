@@ -1,0 +1,15 @@
+id: sight-me-lipa-cave
+name: "Lipa Cave"
+location:
+  country_code: ME
+  latitude: 42.3770
+  longitude: 18.9460
+scores:
+  impact: 8.4
+  uniqueness: 8.5
+  significance: 7.7
+  experience: 8.7
+  depth: 8.2
+  categories:
+    nature: 9
+    adventure: 8.8

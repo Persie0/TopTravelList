@@ -1,0 +1,14 @@
+id: city-me-berane
+name: "Berane"
+location:
+  country_code: ME
+  latitude: 42.8430
+  longitude: 19.8730
+scores:
+  impact: 6.8
+  uniqueness: 7.0
+  significance: 7.2
+  experience: 7.4
+  depth: 7.2
+  categories:
+    history: 7.8

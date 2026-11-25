@@ -1,0 +1,16 @@
+id: sight-me-ada-bojana
+name: "Ada Bojana"
+location:
+  country_code: ME
+  latitude: 41.8670
+  longitude: 19.3470
+scores:
+  impact: 8.2
+  uniqueness: 8.3
+  significance: 7.0
+  experience: 8.7
+  depth: 8.1
+  categories:
+    beaches: 8.9
+    relaxation: 9
+    nature: 8.6

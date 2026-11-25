@@ -2,7 +2,7 @@
 
 # Montenegro (ME) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**33 ranked** · **0 unassessed** · **33 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,43 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, or click its GPS coordinates to open **Google Maps**. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (33)
 
-No cities, towns & villages have been assessed for **Montenegro** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps |
+| ---: | --- | --- | ---: | --- | --- | --- |
+| 1 | [Kotor](cities/kotor.yaml) | City / town | **89.10** | **Photography 9.4**, **Architecture 9.3**, **History 9.2** | 8.9 / 9.1 / 8.9 / 8.9 / 8.5 | [42.4247, 18.7712](https://www.google.com/maps/search/?api=1&query=42.4247,18.7712) |
+| 2 | [Perast](cities/perast.yaml) | City / town | **85.15** | **Photography 9.3**, **Architecture 9.1** | 8.7 / 8.8 / 8.4 / 8.5 / 7.5 | [42.4868, 18.6984](https://www.google.com/maps/search/?api=1&query=42.4868,18.6984) |
+| 3 | [Cetinje](cities/cetinje.yaml) | City / town | **82.95** | **History 9.2**, **Culture 8.9** | 7.9 / 8.4 / 8.8 / 8.3 / 8.2 | [42.3906, 18.9142](https://www.google.com/maps/search/?api=1&query=42.3906,18.9142) |
+| 4 | [Budva](cities/budva.yaml) | City / town | **82.50** | **Nightlife 9.0**, **Beaches 8.8**, **Architecture 8.7** | 8.3 / 8.1 / 8.0 / 8.7 / 8.3 | [42.2864, 18.84](https://www.google.com/maps/search/?api=1&query=42.2864,18.84) |
+| 5 | [Ulcinj](cities/ulcinj.yaml) | City / town | **82.30** | **Culture 8.8**, **Architecture 8.6**, **Beaches 8.6** | 8.1 / 8.3 / 8.2 / 8.5 / 8.1 | [41.9297, 19.2244](https://www.google.com/maps/search/?api=1&query=41.9297,19.2244) |
+| 6 | [Herceg Novi](cities/herceg-novi.yaml) | City / town | **81.60** | **Relaxation 8.8**, **Architecture 8.6** | 8.1 / 8.1 / 8.1 / 8.5 / 8.1 | [42.4531, 18.537](https://www.google.com/maps/search/?api=1&query=42.4531,18.537) |
+| 7 | [Stari Bar](cities/stari-bar.yaml) | City / town | **81.25** | **History 8.9**, **Architecture 8.7** | 8.0 / 8.3 / 8.4 / 8.2 / 7.4 | [42.0915, 19.1359](https://www.google.com/maps/search/?api=1&query=42.0915,19.1359) |
+| 8 | [Prčanj](cities/prcanj.yaml) | City / town | **78.65** | **Photography 8.8**, **Architecture 8.6** | 7.8 / 8.0 / 8.0 / 8.1 / 7.1 | [42.453, 18.754](https://www.google.com/maps/search/?api=1&query=42.453,18.754) |
+| 9 | [Rijeka Crnojevića](cities/rijeka-crnojevica.yaml) | City / town | **78.45** | **Photography 8.8**, **History 8.3** | 7.8 / 8.1 / 7.9 / 8.0 / 7.0 | [42.356, 19.023](https://www.google.com/maps/search/?api=1&query=42.356,19.023) |
+| 10 | [Sveti Stefan village](cities/sveti-stefan-village.yaml) | Village | **77.95** | **Photography 9.0**, **Beaches 8.6** | 8.1 / 7.9 / 7.2 / 8.2 / 7.2 | [42.256, 18.898](https://www.google.com/maps/search/?api=1&query=42.256,18.898) |
+| 11 | [Risan](cities/risan.yaml) | City / town | **77.55** | **History 8.7**, **Relaxation 8.2** | 7.6 / 7.9 / 8.1 / 7.8 / 7.1 | [42.514, 18.696](https://www.google.com/maps/search/?api=1&query=42.514,18.696) |
+| 12 | [Petrovac](cities/petrovac.yaml) | City / town | **77.20** | **Relaxation 8.8**, **Beaches 8.6** | 7.8 / 7.6 / 7.3 / 8.4 / 7.6 | [42.205, 18.942](https://www.google.com/maps/search/?api=1&query=42.205,18.942) |
+| 13 | [Tivat](cities/tivat.yaml) | City / town | **76.45** | **Relaxation 8.7**, **Food 8.3** | 7.7 / 7.5 / 7.1 / 8.4 / 7.8 | [42.4316, 18.696](https://www.google.com/maps/search/?api=1&query=42.4316,18.696) |
+| 14 | [Plav](cities/plav.yaml) | City / town | **76.35** | **Photography 8.4**, **Culture 8.3** | 7.5 / 7.8 / 7.6 / 7.9 / 7.3 | [42.596, 19.945](https://www.google.com/maps/search/?api=1&query=42.596,19.945) |
+| 15 | [Dobrota](cities/dobrota.yaml) | City / town | **76.15** | **Relaxation 8.6**, **Architecture 8.2** | 7.5 / 7.5 / 7.6 / 8.2 / 7.4 | [42.452, 18.767](https://www.google.com/maps/search/?api=1&query=42.452,18.767) |
+| 16 | [Njeguši](cities/njegusi.yaml) | City / town | **75.45** | **Food 8.6**, **Culture 8.5** | 7.2 / 7.8 / 7.8 / 7.9 / 6.9 | [42.432, 18.825](https://www.google.com/maps/search/?api=1&query=42.432,18.825) |
+| 17 | [Žabljak](cities/zabljak.yaml) | City / town | **75.35** | **Relaxation 8.4**, **Adventure 8.2** | 7.5 / 7.6 / 7.1 / 8.1 / 7.5 | [43.1551, 19.1226](https://www.google.com/maps/search/?api=1&query=43.1551,19.1226) |
+| 18 | [Kolašin](cities/kolasin.yaml) | City / town | **74.95** | **Relaxation 8.4**, **Culture 8.0** | 7.3 / 7.5 / 7.4 / 8.0 / 7.5 | [42.823, 19.516](https://www.google.com/maps/search/?api=1&query=42.823,19.516) |
+| 19 | [Virpazar](cities/virpazar.yaml) | City / town | **74.70** | **Relaxation 8.2**, **Culture 8.0** | 7.3 / 7.6 / 7.5 / 7.8 / 7.1 | [42.246, 19.092](https://www.google.com/maps/search/?api=1&query=42.246,19.092) |
+| 20 | [Podgorica](cities/podgorica.yaml) | City / town | **74.40** | **Food 8.2**, **Culture 8.1** | 7.1 / 7.3 / 7.6 / 7.9 / 7.8 | [42.4304, 19.2594](https://www.google.com/maps/search/?api=1&query=42.4304,19.2594) |
+| 21 | [Pržno](cities/przno.yaml) | City / town | **74.35** | **Relaxation 8.6**, **Beaches 8.3** | 7.5 / 7.5 / 6.9 / 8.2 / 7.0 | [42.269, 18.892](https://www.google.com/maps/search/?api=1&query=42.269,18.892) |
+| 22 | [Gusinje](cities/gusinje.yaml) | City / town | **74.15** | **Culture 8.2**, **Food 8.0** | 7.2 / 7.6 / 7.5 / 7.7 / 7.0 | [42.562, 19.834](https://www.google.com/maps/search/?api=1&query=42.562,19.834) |
+| 23 | [Bar](cities/bar.yaml) | City / town | **74.10** | **Relaxation 8.3**, **Food 8.0** | 7.2 / 7.3 / 7.3 / 7.9 / 7.8 | [42.0931, 19.1003](https://www.google.com/maps/search/?api=1&query=42.0931,19.1003) |
+| 24 | [Plužine](cities/pluzine.yaml) | City / town | **74.00** | **Photography 8.4**, **Relaxation 8.2** | 7.4 / 7.6 / 7.0 / 7.8 / 7.1 | [43.153, 18.84](https://www.google.com/maps/search/?api=1&query=43.153,18.84) |
+| 24 | [Rose](cities/rose.yaml) | City / town | **74.00** | **Photography 8.5**, **Relaxation 8.5** | 7.4 / 7.6 / 7.0 / 8.0 / 6.8 | [42.428, 18.558](https://www.google.com/maps/search/?api=1&query=42.428,18.558) |
+| 26 | [Pljevlja](cities/pljevlja.yaml) | City / town | **73.35** | **History 8.3**, **Architecture 8.1** | 7.0 / 7.4 / 7.7 / 7.5 / 7.2 | [43.356, 19.358](https://www.google.com/maps/search/?api=1&query=43.356,19.358) |
+| 27 | [Nikšić](cities/niksic.yaml) | City / town | **72.15** | **Culture 7.9**, **History 7.9** | 6.9 / 7.1 / 7.4 / 7.6 / 7.5 | [42.7731, 18.9445](https://www.google.com/maps/search/?api=1&query=42.7731,18.9445) |
+| 27 | [Vusanje](cities/vusanje.yaml) | City / town | **72.15** | **Photography 8.2**, **Culture 8.0** | 7.1 / 7.5 / 7.0 / 7.6 / 6.7 | [42.526, 19.838](https://www.google.com/maps/search/?api=1&query=42.526,19.838) |
+| 29 | [Berane](cities/berane.yaml) | City / town | **70.60** | **History 7.8** | 6.8 / 7.0 / 7.2 / 7.4 / 7.2 | [42.843, 19.873](https://www.google.com/maps/search/?api=1&query=42.843,19.873) |
+| 30 | [Bijelo Polje](cities/bijelo-polje.yaml) | City / town | **69.95** | **History 7.8** | 6.7 / 6.9 / 7.2 / 7.4 / 7.1 | [43.037, 19.747](https://www.google.com/maps/search/?api=1&query=43.037,19.747) |
+| 31 | [Mojkovac](cities/mojkovac.yaml) | City / town | **69.85** | **History 7.8** | 6.7 / 6.9 / 7.2 / 7.4 / 7.0 | [42.96, 19.583](https://www.google.com/maps/search/?api=1&query=42.96,19.583) |
+| 32 | [Andrijevica](cities/andrijevica.yaml) | City / town | **68.65** | **Culture 7.5** | 6.6 / 6.9 / 7.0 / 7.2 / 6.8 | [42.735, 19.792](https://www.google.com/maps/search/?api=1&query=42.735,19.792) |
+| 33 | [Danilovgrad](cities/danilovgrad.yaml) | City / town | **67.65** | **Culture 7.5** | 6.5 / 6.7 / 6.9 / 7.2 / 6.8 | [42.553, 19.104](https://www.google.com/maps/search/?api=1&query=42.553,19.104) |
 
 ---
 

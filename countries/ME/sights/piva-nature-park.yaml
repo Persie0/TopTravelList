@@ -1,0 +1,16 @@
+id: sight-me-piva-nature-park
+name: "Piva Nature Park"
+location:
+  country_code: ME
+  latitude: 43.1800
+  longitude: 18.8600
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 8.2
+  experience: 8.8
+  depth: 8.8
+  categories:
+    nature: 9.3
+    adventure: 9.1
+    photography: 9.2

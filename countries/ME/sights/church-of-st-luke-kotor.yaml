@@ -1,0 +1,15 @@
+id: sight-me-church-of-st-luke-kotor
+name: "Church of St Luke Kotor"
+location:
+  country_code: ME
+  latitude: 42.4254
+  longitude: 18.7712
+scores:
+  impact: 7.7
+  uniqueness: 8.0
+  significance: 8.2
+  experience: 7.9
+  depth: 6.8
+  categories:
+    history: 8.7
+    architecture: 8.5

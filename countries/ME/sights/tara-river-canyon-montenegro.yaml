@@ -1,0 +1,16 @@
+id: sight-me-tara-river-canyon-montenegro
+name: "Tara River Canyon Montenegro"
+location:
+  country_code: ME
+  latitude: 43.1500
+  longitude: 19.2400
+scores:
+  impact: 9.3
+  uniqueness: 9.2
+  significance: 8.8
+  experience: 9.1
+  depth: 9.0
+  categories:
+    nature: 9.5
+    adventure: 9.5
+    photography: 9.4
