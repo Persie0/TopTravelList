@@ -2,8 +2,8 @@ id: city-gq-evinayong
 name: "Evinayong"
 location:
   country_code: GQ
-  latitude: 1.44
-  longitude: 10.55
+  latitude: 1.43884
+  longitude: 10.55166
 scores:
   impact: 6.1
   uniqueness: 6.9
