@@ -216,3 +216,38 @@
 - Earlier decision: none.
 - Verification still needed: Local public and heritage venues.
 
+### city-fm-weno — Weno — 2026-11-25 (evidence follow-up)
+
+- YAML: [source](../../../countries/FM/cities/weno.yaml)
+- Action: rescore
+- Precise subject: Assess settlement and its locally accessible cultural experiences, not whole island, remote mountain sights, or offshore wreck diving. Local village permission and exact settlement boundary need corroboration. All three references are from the same authority, so independent corroboration remains pending.
+- Location check: existing representative point retained; independent coordinate verification pending.
+- Evidence status: source-linked-unverified
+- Checked factual reference excerpts (2026-11-25):
+  - Chuuk visitor authority describes arranged village visits on Weno — https://visitchuuk.com/things-do/experience-chuukese-culture
+  - Chuuk visitor authority identifies Weno War Memorial Park among local landmarks — https://visitchuuk.com/things-do/popular-landmarks
+  - Tourism authority describes rentals and land-based exploration on Weno — https://www.visitchuuk.com/
+- Missing or uncertain facts: Assess settlement and its locally accessible cultural experiences, not whole island, remote mountain sights, or offshore wreck diving. Local village permission and exact settlement boundary need corroboration. All three references are from the same authority, so independent corroboration remains pending.
+
+#### Worldwide peer comparisons
+- Bangkok (Thailand): far greater urban culture and depth
+- Kampot (Cambodia): more developed town visitor offer
+- Koh Ker Village (Cambodia): stronger archaeological context
+- Colonia, Yap (Micronesia): more documented distinctive town-level cultural landmarks
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | null | 6.7 | Modest urban setting with local coastal and village landscape |
+| Uniqueness | null | 7.1 | Distinct Chuukese island community but global analogues |
+| Significance | null | 7.2 | Regional administrative, cultural and historical importance |
+| Experience | null | 7.0 | Tourism authority documents local village visits and war memorial park |
+| Depth | null | 6.5 | Several distinct local experiences, limited urban breadth without lagoon excursions |
+
+- Applicable category scores: none assessed (unchanged).
+- Computed worldwide overall: 69.25/100
+- High-score challenge: no 9.5+ field or 90+ total.
+- Approved 10 registry: none.
+- Final decision: provisional worldwide town ranking on documented local visitor scope; not full factual verification.
+- Earlier decision: earlier entry for this ID, originally unranked.
+- Verification still needed: Assess settlement and its locally accessible cultural experiences, not whole island, remote mountain sights, or offshore wreck diving. Local village permission and exact settlement boundary need corroboration. All three references are from the same authority, so independent corroboration remains pending.
