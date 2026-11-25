@@ -1,0 +1,15 @@
+id: city-cu-santiago-de-cuba
+name: "Santiago de Cuba"
+location:
+  country_code: CU
+  latitude: 20.025
+  longitude: -75.821
+scores:
+  impact: 8.4
+  uniqueness: 8.7
+  significance: 9.0
+  experience: 8.4
+  depth: 8.5
+  categories:
+    history: 9.2
+    culture: 9.3

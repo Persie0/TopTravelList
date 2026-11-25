@@ -1,0 +1,13 @@
+id: sight-gt-sierra-de-las-minas
+name: "Sierra de las Minas Biosphere Reserve"
+location:
+  country_code: GT
+  latitude: 15.18
+  longitude: -89.90
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}

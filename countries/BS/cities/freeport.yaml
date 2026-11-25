@@ -1,0 +1,16 @@
+id: city-bs-freeport
+name: "Freeport"
+location:
+  country_code: BS
+  latitude: 26.529
+  longitude: -78.696
+scores:
+  impact: 6.8
+  uniqueness: 6.5
+  significance: 6.5
+  experience: 7.5
+  depth: 7.3
+  categories:
+    food: 7.8
+    relaxation: 8.0
+    nightlife: 7.5

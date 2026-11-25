@@ -1,0 +1,16 @@
+id: sight-gt-acatenango-volcano
+name: "Acatenango Volcano"
+location:
+  country_code: GT
+  latitude: 14.501
+  longitude: -90.876
+scores:
+  impact: 9.3
+  uniqueness: 9.3
+  significance: 8.4
+  experience: 9.1
+  depth: 8.7
+  categories:
+    adventure: 9.4
+    nature: 9.2
+    photography: 9.4

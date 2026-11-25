@@ -1,0 +1,15 @@
+id: sight-ca-trondek-klondike
+name: "Tr’ondëk-Klondike"
+location:
+  country_code: CA
+  latitude: 64.06
+  longitude: -139.43
+scores:
+  impact: 8.1
+  uniqueness: 8.9
+  significance: 9.2
+  experience: 8.3
+  depth: 8.5
+  categories:
+    history: 9.3
+    culture: 9.1

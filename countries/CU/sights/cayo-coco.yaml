@@ -1,0 +1,16 @@
+id: sight-cu-cayo-coco
+name: "Cayo Coco"
+location:
+  country_code: CU
+  latitude: 22.52
+  longitude: -78.42
+scores:
+  impact: 8.6
+  uniqueness: 8.0
+  significance: 7.3
+  experience: 8.7
+  depth: 8.0
+  categories:
+    beaches: 9.2
+    nature: 8.8
+    relaxation: 9.0

@@ -1,0 +1,16 @@
+id: sight-ht-historic-centre-jacmel
+name: "Historic Centre of Jacmel"
+location:
+  country_code: HT
+  latitude: 18.235
+  longitude: -72.536
+scores:
+  impact: 8.4
+  uniqueness: 8.5
+  significance: 8.5
+  experience: 8.3
+  depth: 8.1
+  categories:
+    architecture: 8.9
+    history: 8.9
+    culture: 9.0

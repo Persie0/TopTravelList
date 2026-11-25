@@ -1,0 +1,15 @@
+id: sight-gd-grenadines-island-group-grenada-sector
+name: "Grenadines Island Group (Grenada sector)"
+location:
+  country_code: GD
+  latitude: 12.49
+  longitude: -61.46
+scores:
+  impact: null
+  uniqueness: null
+  significance: 8.9
+  experience: null
+  depth: null
+  categories:
+    nature: 9.3
+    culture: 9.1

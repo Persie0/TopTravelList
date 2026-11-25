@@ -1,0 +1,16 @@
+id: sight-mx-chichen-itza
+name: "Chichén Itzá"
+location:
+  country_code: MX
+  latitude: 20.6827
+  longitude: -88.5687
+scores:
+  impact: 9.5
+  uniqueness: 9.5
+  significance: 9.6
+  experience: 9.1
+  depth: 9.2
+  categories:
+    architecture: 9.6
+    history: 9.6
+    photography: 9.5

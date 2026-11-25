@@ -1,0 +1,17 @@
+id: sight-jm-devon-house
+name: "Devon House"
+location:
+  country_code: JM
+  latitude: 18.014
+  longitude: -76.79
+scores:
+  impact: 7.9
+  uniqueness: 8.2
+  significance: 8.5
+  experience: 8.4
+  depth: 7.4
+  categories:
+    architecture: 8.8
+    history: 8.8
+    culture: 8.7
+    food: 8.6

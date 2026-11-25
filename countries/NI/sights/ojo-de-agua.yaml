@@ -1,0 +1,15 @@
+id: sight-ni-ojo-de-agua
+name: "Ojo de Agua"
+location:
+  country_code: NI
+  latitude: 11.518
+  longitude: -85.567
+scores:
+  impact: 7.8
+  uniqueness: 7.6
+  significance: 6.7
+  experience: 8.6
+  depth: 6.5
+  categories:
+    relaxation: 8.9
+    nature: 8.5

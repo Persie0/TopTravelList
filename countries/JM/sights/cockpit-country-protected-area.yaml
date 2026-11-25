@@ -1,0 +1,13 @@
+id: sight-jm-cockpit-country-protected-area
+name: "Cockpit Country Protected Area"
+location:
+  country_code: JM
+  latitude: 18.316
+  longitude: -77.68
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}

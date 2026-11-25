@@ -1,0 +1,16 @@
+id: sight-mx-el-vizcaino-whale-sanctuary
+name: "Whale Sanctuary of El Vizcaíno"
+location:
+  country_code: MX
+  latitude: 27.75
+  longitude: -114.20
+scores:
+  impact: 9.1
+  uniqueness: 9.3
+  significance: 9.3
+  experience: 8.8
+  depth: 8.5
+  categories:
+    wildlife: 9.4
+    nature: 9.2
+    photography: 9.1

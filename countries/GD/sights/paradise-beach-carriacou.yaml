@@ -1,0 +1,16 @@
+id: sight-gd-paradise-beach-carriacou
+name: "Paradise Beach (Carriacou)"
+location:
+  country_code: GD
+  latitude: 12.47
+  longitude: -61.478
+scores:
+  impact: 8.9
+  uniqueness: 8.2
+  significance: 5.9
+  experience: 8.7
+  depth: 7.5
+  categories:
+    beaches: 9.2
+    relaxation: 8.9
+    photography: 9.0

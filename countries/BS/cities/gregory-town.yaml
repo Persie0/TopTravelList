@@ -1,0 +1,15 @@
+id: city-bs-gregory-town
+name: "Gregory Town"
+location:
+  country_code: BS
+  latitude: 25.396
+  longitude: -76.562
+scores:
+  impact: 6.9
+  uniqueness: 7.4
+  significance: 6.8
+  experience: 7.3
+  depth: 6.0
+  categories:
+    culture: 8.0
+    photography: 7.8

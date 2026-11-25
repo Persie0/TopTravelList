@@ -1,0 +1,15 @@
+id: sight-ru-dauria
+name: "Landscapes of Dauria (Russian components)"
+location:
+  country_code: RU
+  latitude: 50.1
+  longitude: 115.6
+scores:
+  impact: 8.3
+  uniqueness: 8.8
+  significance: 9.1
+  experience: null
+  depth: null
+  categories:
+    nature: 9.1
+    wildlife: 9.2

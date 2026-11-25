@@ -1,0 +1,13 @@
+id: sight-ca-stein-valley
+name: "Stein Valley"
+location:
+  country_code: CA
+  latitude: 50.2
+  longitude: -122.1
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}

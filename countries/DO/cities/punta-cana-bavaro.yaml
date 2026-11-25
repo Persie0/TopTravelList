@@ -1,0 +1,16 @@
+id: city-do-punta-cana-bavaro
+name: "Punta Cana (Bávaro)"
+location:
+  country_code: DO
+  latitude: 18.68
+  longitude: -68.42
+scores:
+  impact: 7.4
+  uniqueness: 6.7
+  significance: 6.2
+  experience: 8.5
+  depth: 7.5
+  categories:
+    relaxation: 8.9
+    food: 8.1
+    nightlife: 8.2

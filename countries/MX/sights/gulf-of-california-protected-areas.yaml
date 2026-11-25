@@ -1,0 +1,13 @@
+id: sight-mx-gulf-of-california-protected-areas
+name: "Islands and Protected Areas of the Gulf of California"
+location:
+  country_code: MX
+  latitude: 26.0
+  longitude: -111.0
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}

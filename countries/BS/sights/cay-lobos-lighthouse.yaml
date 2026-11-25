@@ -1,0 +1,13 @@
+id: sight-bs-cay-lobos-lighthouse
+name: "Cay Lobos Lighthouse"
+location:
+  country_code: BS
+  latitude: 22.4
+  longitude: -77.533333
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}

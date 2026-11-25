@@ -1,0 +1,16 @@
+id: sight-ru-olkhon
+name: "Olkhon Island"
+location:
+  country_code: RU
+  latitude: 53.15
+  longitude: 107.35
+scores:
+  impact: 9.1
+  uniqueness: 9.0
+  significance: 8.8
+  experience: 8.8
+  depth: 8.5
+  categories:
+    nature: 9.2
+    culture: 8.8
+    photography: 9.4

@@ -1,0 +1,16 @@
+id: city-mx-puerto-vallarta
+name: "Puerto Vallarta"
+location:
+  country_code: MX
+  latitude: 20.654
+  longitude: -105.225
+scores:
+  impact: 8.0
+  uniqueness: 7.7
+  significance: 7.0
+  experience: 8.7
+  depth: 8.0
+  categories:
+    food: 8.7
+    nightlife: 8.6
+    relaxation: 8.7

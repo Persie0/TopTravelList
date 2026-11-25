@@ -1,0 +1,16 @@
+id: city-jm-falmouth
+name: "Falmouth"
+location:
+  country_code: JM
+  latitude: 18.493
+  longitude: -77.656
+scores:
+  impact: 7.9
+  uniqueness: 8.3
+  significance: 8.5
+  experience: 7.8
+  depth: 7.5
+  categories:
+    architecture: 8.9
+    history: 8.8
+    culture: 8.1

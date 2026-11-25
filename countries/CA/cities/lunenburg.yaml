@@ -1,0 +1,16 @@
+id: city-ca-lunenburg
+name: "Lunenburg"
+location:
+  country_code: CA
+  latitude: 44.377
+  longitude: -64.309
+scores:
+  impact: 8.3
+  uniqueness: 8.5
+  significance: 8.5
+  experience: 8.1
+  depth: 7.7
+  categories:
+    architecture: 9.0
+    history: 9.0
+    photography: 9.0

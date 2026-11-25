@@ -1,0 +1,15 @@
+id: sight-do-salto-de-baiguate
+name: "Salto de Baiguate"
+location:
+  country_code: DO
+  latitude: 19.099
+  longitude: -70.623
+scores:
+  impact: 7.8
+  uniqueness: 7.5
+  significance: 6.8
+  experience: 8.1
+  depth: 6.8
+  categories:
+    nature: 8.5
+    photography: 8.5
