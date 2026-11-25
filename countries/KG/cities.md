@@ -2,7 +2,7 @@
 
 # Kyrgyzstan (KG) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**18 ranked** · **0 unassessed** · **18 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,28 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, or click its GPS coordinates to open **Google Maps**. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (18)
 
-No cities, towns & villages have been assessed for **Kyrgyzstan** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps |
+| ---: | --- | --- | ---: | --- | --- | --- |
+| 1 | [Osh](cities/osh.yaml) | City / town | **83.05** | **History 8.9**, **Culture 8.8**, **Food 8.6** | 8.1 / 8.4 / 8.7 / 8.3 / 7.9 | [40.5283, 72.7985](https://www.google.com/maps/search/?api=1&query=40.5283,72.7985) |
+| 2 | [Bishkek](cities/bishkek.yaml) | City / town | **79.15** | **Food 8.4**, **Culture 8.3**, **Architecture 7.9** | 7.7 / 7.8 / 7.9 / 8.3 / 8.3 | [42.8746, 74.5698](https://www.google.com/maps/search/?api=1&query=42.8746,74.5698) |
+| 3 | [Karakol](cities/karakol.yaml) | City / town | **78.65** | **Culture 8.5**, **Food 8.3**, **Architecture 8.1** | 7.7 / 8.1 / 7.7 / 8.2 / 7.6 | [42.4907, 78.3936](https://www.google.com/maps/search/?api=1&query=42.4907,78.3936) |
+| 4 | [Arslanbob](cities/arslanbob.yaml) | City / town | **77.45** | **Culture 8.6**, **Photography 8.3** | 7.6 / 8.3 / 7.5 / 8.0 / 6.9 | [41.341, 72.932](https://www.google.com/maps/search/?api=1&query=41.341,72.932) |
+| 5 | [Uzgen](cities/uzgen.yaml) | City / town | **76.35** | **History 8.6**, **Culture 8.2** | 7.3 / 7.9 / 8.3 / 7.6 / 6.7 | [40.769, 73.3](https://www.google.com/maps/search/?api=1&query=40.769,73.3) |
+| 6 | [Cholpon-Ata](cities/cholpon-ata.yaml) | City / town | **72.95** | **Relaxation 8.4**, **Beaches 8.2** | 7.2 / 7.3 / 6.9 / 8.0 / 7.3 | [42.65, 77.08](https://www.google.com/maps/search/?api=1&query=42.65,77.08) |
+| 7 | [Kyzyl-Oi](cities/kyzyl-oi.yaml) | City / town | **72.20** | **Photography 8.4**, **Culture 7.7** | 7.4 / 7.8 / 6.4 / 7.8 / 6.0 | [41.978, 74.156](https://www.google.com/maps/search/?api=1&query=41.978,74.156) |
+| 8 | [Jyrgalan](cities/jyrgalan.yaml) | City / town | **72.15** | **Photography 8.1**, **Culture 7.7** | 7.2 / 7.9 / 6.4 / 7.8 / 6.3 | [42.607, 79.015](https://www.google.com/maps/search/?api=1&query=42.607,79.015) |
+| 9 | [Jalal-Abad](cities/jalal-abad.yaml) | City / town | **71.55** | **Culture 7.9**, **Food 7.9** | 6.8 / 7.2 / 7.4 / 7.5 / 7.1 | [40.933, 73](https://www.google.com/maps/search/?api=1&query=40.933,73) |
+| 10 | [Naryn](cities/naryn.yaml) | City / town | **71.15** | **Culture 7.7**, **Photography 7.7** | 7.0 / 7.4 / 6.8 / 7.5 / 6.8 | [41.4287, 75.9911](https://www.google.com/maps/search/?api=1&query=41.4287,75.9911) |
+| 11 | [Sary-Mogol](cities/sary-mogol.yaml) | City / town | **71.05** | **Photography 8.2**, **Culture 7.6** | 7.2 / 7.7 / 6.4 / 7.6 / 6.0 | [39.678, 72.895](https://www.google.com/maps/search/?api=1&query=39.678,72.895) |
+| 12 | [Bokonbaevo](cities/bokonbaevo.yaml) | City / town | **70.90** | **Culture 8.3** | 6.9 / 7.6 / 6.7 / 7.6 / 6.4 | [42.115, 77.004](https://www.google.com/maps/search/?api=1&query=42.115,77.004) |
+| 13 | [Kochkor](cities/kochkor.yaml) | City / town | **70.10** | **Culture 8.5** | 6.7 / 7.5 / 6.8 / 7.5 / 6.4 | [42.215, 75.757](https://www.google.com/maps/search/?api=1&query=42.215,75.757) |
+| 14 | [Talas](cities/talas.yaml) | City / town | **69.95** | **Culture 7.8**, **History 7.8** | 6.6 / 7.2 / 7.3 / 7.3 / 6.6 | [42.523, 72.242](https://www.google.com/maps/search/?api=1&query=42.523,72.242) |
+| 15 | [Min Kush](cities/min-kush.yaml) | City / town | **69.15** | **History 7.7**, **Photography 7.6** | 6.6 / 7.6 / 7.0 / 6.9 / 6.0 | [41.68, 74.46](https://www.google.com/maps/search/?api=1&query=41.68,74.46) |
+| 16 | [At-Bashy](cities/at-bashy.yaml) | City / town | **66.40** | **Culture 7.4** | 6.4 / 7.0 / 6.5 / 7.0 / 6.2 | [41.17, 75.81](https://www.google.com/maps/search/?api=1&query=41.17,75.81) |
+| 17 | [Batken](cities/batken.yaml) | City / town | **66.20** | **Culture 7.3** | 6.3 / 6.7 / 6.9 / 6.9 / 6.4 | [40.062, 70.82](https://www.google.com/maps/search/?api=1&query=40.062,70.82) |
+| 18 | [Toktogul](cities/toktogul.yaml) | City / town | **64.95** | **Culture 7.1** | 6.4 / 6.6 / 6.3 / 6.9 / 6.3 | [41.874, 72.94](https://www.google.com/maps/search/?api=1&query=41.874,72.94) |
 
 ---
 

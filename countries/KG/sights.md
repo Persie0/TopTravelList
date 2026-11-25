@@ -2,7 +2,7 @@
 
 # Kyrgyzstan (KG) — Sights & attractions ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**32 ranked** · **14 unassessed** · **46 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,11 +10,63 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, or click its GPS coordinates to open **Google Maps**. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (32)
 
-No sights & attractions have been assessed for **Kyrgyzstan** yet.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps |
+| ---: | --- | --- | ---: | --- | --- | --- |
+| 1 | [Sary-Chelek Biosphere Nature Reserve](sights/sary-chelek-biosphere-nature-reserve.yaml) | Park / reserve | **90.80** | **Nature 9.4**, **Photography 9.3**, **Wildlife 9.1**, Adventure 8.8 | 9.1 / 9.1 / 9.3 / 8.7 / 9.1 | [41.873611, 71.937222](https://www.google.com/maps/search/?api=1&query=41.873611,71.937222) |
+| 2 | [Ala-Kul Lake](sights/ala-kul-lake.yaml) | Lake | **90.75** | **Photography 9.6**, **Nature 9.5**, **Adventure 9.4** | 9.5 / 9.3 / 8.3 / 9.2 / 8.6 | [42.3175, 78.53556](https://www.google.com/maps/search/?api=1&query=42.3175,78.53556) |
+| 3 | [Kel-Suu Lake](sights/kel-suu-lake.yaml) | Lake | **90.20** | **Photography 9.6**, **Nature 9.5**, **Adventure 9.1** | 9.5 / 9.4 / 8.2 / 9.0 / 8.3 | [40.68, 76.43](https://www.google.com/maps/search/?api=1&query=40.68,76.43) |
+| 4 | [Lenin Peak Kyrgyz-facing Landscape](sights/lenin-peak-kyrgyz-facing-landscape.yaml) | Mountain / peak | **90.00** | **Photography 9.5**, **Adventure 9.4**, **Nature 9.4** | 9.4 / 9.1 / 8.5 / 8.9 / 8.7 | [39.346, 72.88](https://www.google.com/maps/search/?api=1&query=39.346,72.88) |
+| 5 | [Song-Kul Lake and Pastoral Shore](sights/song-kul-lake-and-pastoral-shore.yaml) | Lake | **89.65** | **Photography 9.4**, **Nature 9.3**, **Culture 9.1**, Relaxation 9.1 | 9.2 / 9.1 / 8.3 / 9.2 / 8.9 | [41.84, 75.14](https://www.google.com/maps/search/?api=1&query=41.84,75.14) |
+| 6 | [Sulaiman-Too Sacred Mountain](sights/sulaiman-too-sacred-mountain.yaml) | Mountain / peak | **89.60** | **Culture 9.4**, **History 9.4**, **Photography 8.9** | 8.8 / 9.2 / 9.4 / 8.6 / 8.5 | [40.531111, 72.782778](https://www.google.com/maps/search/?api=1&query=40.531111,72.782778) |
+| 7 | [Issyk-Kul Lake](sights/issyk-kul-lake.yaml) | Lake | **88.60** | **Nature 9.2**, **Photography 9.2**, **Relaxation 9.2**, Beaches 8.8 | 9.0 / 8.7 / 8.5 / 9.1 / 9.2 | [42.44, 77.27](https://www.google.com/maps/search/?api=1&query=42.44,77.27) |
+| 8 | [Alay Valley](sights/alay-valley.yaml) | Valley / canyon | **88.35** | **Photography 9.4**, **Nature 9.3**, **Adventure 9.0** | 9.2 / 8.9 / 8.1 / 8.8 / 9.1 | [39.66, 72.9](https://www.google.com/maps/search/?api=1&query=39.66,72.9) |
+| 9 | [Arslanbob Walnut Forest](sights/arslanbob-walnut-forest.yaml) | Forest | **86.90** | **Nature 9.2**, **Photography 8.8**, **Culture 8.7** | 8.5 / 9.1 / 8.8 / 8.5 / 8.3 | [41.38, 72.96](https://www.google.com/maps/search/?api=1&query=41.38,72.96) |
+| 10 | [Ala-Archa National Park](sights/ala-archa-national-park.yaml) | Park / reserve | **86.35** | **Nature 9.2**, **Photography 9.2**, **Adventure 9.1** | 8.9 / 8.6 / 8.0 / 8.9 / 8.8 | [42.53, 74.48](https://www.google.com/maps/search/?api=1&query=42.53,74.48) |
+| 11 | [Altyn-Arashan Valley](sights/altyn-arashan-valley.yaml) | Valley / canyon | **86.15** | **Photography 9.2**, **Adventure 9.1**, **Nature 9.1**, Relaxation 8.6 | 9.0 / 8.7 / 7.7 / 9.0 / 8.5 | [42.382, 78.605](https://www.google.com/maps/search/?api=1&query=42.382,78.605) |
+| 12 | [Tash Rabat Caravanserai](sights/tash-rabat-caravanserai.yaml) | Attraction | **85.45** | **History 9.3**, **Architecture 9.1**, **Photography 8.9** | 8.5 / 8.9 / 8.9 / 8.4 / 7.3 | [40.822, 75.288](https://www.google.com/maps/search/?api=1&query=40.822,75.288) |
+| 13 | [Tulpar-Kul Lakes](sights/tulpar-kul-lakes.yaml) | Lake | **84.55** | **Photography 9.3**, **Nature 9.1**, **Adventure 8.5** | 8.9 / 8.7 / 7.6 / 8.8 / 7.7 | [39.48, 72.93](https://www.google.com/maps/search/?api=1&query=39.48,72.93) |
+| 14 | [Chon-Kemin National Park](sights/chon-kemin-national-park.yaml) | Park / reserve | **83.85** | **Nature 8.9**, **Photography 8.8**, **Adventure 8.7** | 8.5 / 8.3 / 8.0 / 8.6 / 8.7 | [42.73, 76.02](https://www.google.com/maps/search/?api=1&query=42.73,76.02) |
+| 14 | [Jeti-Oguz Gorge](sights/jeti-oguz-gorge.yaml) | Valley / canyon | **83.85** | **Photography 9.2**, **Nature 8.9**, **Adventure 8.6** | 8.7 / 8.6 / 7.5 / 8.7 / 8.2 | [42.328, 78.24](https://www.google.com/maps/search/?api=1&query=42.328,78.24) |
+| 16 | [Burana (Balasagun Archaeological Site)](sights/burana-balasagun-archaeological-site.yaml) | Museum / heritage | **83.75** | **History 9.3**, **Architecture 8.7** | 8.1 / 8.6 / 9.1 / 8.1 / 7.6 | [42.746667, 75.250278](https://www.google.com/maps/search/?api=1&query=42.746667,75.250278) |
+| 17 | [Skazka Canyon](sights/skazka-canyon.yaml) | Valley / canyon | **83.55** | **Photography 9.3**, **Nature 8.9** | 8.8 / 8.8 / 7.3 / 8.7 / 7.5 | [42.157, 77.36](https://www.google.com/maps/search/?api=1&query=42.157,77.36) |
+| 18 | [Uzgen Archaeological and Architectural Complex](sights/uzgen-archaeological-and-architectural-complex.yaml) | Museum / heritage | **82.45** | **History 9.1**, **Architecture 8.8** | 8.0 / 8.5 / 8.9 / 8.0 / 7.4 | [40.768531, 73.298239](https://www.google.com/maps/search/?api=1&query=40.768531,73.298239) |
+| 19 | [Barskoon Gorge and Waterfalls](sights/barskoon-gorge-and-waterfalls.yaml) | Waterfall | **82.40** | **Nature 9.0**, **Photography 8.9**, **Adventure 8.6** | 8.6 / 8.2 / 7.5 / 8.6 / 8.2 | [42.09, 77.63](https://www.google.com/maps/search/?api=1&query=42.09,77.63) |
+| 20 | [Konorchek Canyons](sights/konorchek-canyons.yaml) | Valley / canyon | **82.25** | **Photography 9.1**, **Nature 8.8**, **Adventure 8.7** | 8.6 / 8.5 / 7.2 / 8.6 / 7.9 | [42.6, 75.84](https://www.google.com/maps/search/?api=1&query=42.6,75.84) |
+| 21 | [Manas Ordo Complex](sights/manas-ordo-complex.yaml) | Attraction | **81.10** | **Culture 9.0**, **History 9.0** | 7.8 / 8.4 / 8.6 / 8.0 / 7.5 | [42.5, 72.39](https://www.google.com/maps/search/?api=1&query=42.5,72.39) |
+| 21 | [Safid-Bulan (Shah-Fazil) Complex](sights/safid-bulan-shah-fazil-complex.yaml) | Attraction | **81.10** | **History 9.1**, **Architecture 8.9**, **Culture 8.8** | 7.8 / 8.6 / 8.9 / 7.6 / 7.0 | [41.428561, 71.659103](https://www.google.com/maps/search/?api=1&query=41.428561,71.659103) |
+| 23 | [Kyrgyz-Ata National Park](sights/kyrgyz-ata-national-park.yaml) | Park / reserve | **80.95** | **Nature 8.7**, **Photography 8.5**, **Adventure 8.4** | 8.2 / 8.0 / 7.8 / 8.3 / 8.3 | [40.19, 72.56](https://www.google.com/maps/search/?api=1&query=40.19,72.56) |
+| 24 | [Karakol Dungan Mosque](sights/karakol-dungan-mosque.yaml) | Religious site | **80.75** | **Architecture 9.1**, **Culture 8.7** | 8.0 / 8.7 / 8.3 / 8.0 / 6.4 | [42.496, 78.391](https://www.google.com/maps/search/?api=1&query=42.496,78.391) |
+| 25 | [Cholpon-Ata Open-Air Petroglyph Museum](sights/cholpon-ata-open-air-petroglyph-museum.yaml) | Museum / heritage | **79.90** | **History 8.9**, **Photography 8.1** | 7.6 / 8.3 / 8.6 / 7.9 / 7.3 | [42.665, 77.07](https://www.google.com/maps/search/?api=1&query=42.665,77.07) |
+| 26 | [National Historical Museum (Bishkek)](sights/national-historical-museum-bishkek.yaml) | Museum / heritage | **79.65** | **History 8.8**, **Culture 8.4** | 7.6 / 7.9 / 8.5 / 8.0 / 8.1 | [42.876, 74.603](https://www.google.com/maps/search/?api=1&query=42.876,74.603) |
+| 27 | [Karakol Holy Trinity Cathedral](sights/karakol-holy-trinity-cathedral.yaml) | Religious site | **76.90** | **Architecture 8.5**, **History 8.1** | 7.7 / 8.1 / 7.7 / 7.9 / 6.3 | [42.49, 78.392](https://www.google.com/maps/search/?api=1&query=42.49,78.392) |
+| 28 | [Ak-Beshim (Suyab)](sights/ak-beshim-suyab.yaml) | Attraction | **76.40** | **History 9.3** | 6.8 / 8.2 / 9.1 / 6.8 / 7.1 | [42.801944, 75.203333](https://www.google.com/maps/search/?api=1&query=42.801944,75.203333) |
+| 29 | [Osh Bazaar (Bishkek)](sights/osh-bazaar-bishkek.yaml) | Market | **75.65** | **Food 8.6**, **Culture 8.4** | 7.6 / 7.5 / 6.9 / 8.4 / 7.7 | [42.873, 74.569](https://www.google.com/maps/search/?api=1&query=42.873,74.569) |
+| 30 | [Toktogul Reservoir](sights/toktogul-reservoir.yaml) | Lake | **75.00** | **Photography 8.4**, **Relaxation 8.2**, **Nature 8.0** | 8.0 / 7.4 / 6.3 / 8.0 / 7.9 | [41.74, 72.82](https://www.google.com/maps/search/?api=1&query=41.74,72.82) |
+| 31 | [Ruh Ordo Cultural Centre](sights/ruh-ordo-cultural-centre.yaml) | Attraction | **73.20** | **Culture 8.1**, **Photography 7.9** | 7.3 / 7.4 / 6.9 / 7.8 / 7.3 | [42.645, 77.095](https://www.google.com/maps/search/?api=1&query=42.645,77.095) |
+| 32 | [Ala-Too Square](sights/ala-too-square.yaml) | Park / square | **71.70** | **History 8.1**, **Architecture 7.6** | 7.1 / 6.9 / 7.7 / 7.5 / 6.5 | [42.875, 74.603](https://www.google.com/maps/search/?api=1&query=42.875,74.603) |
 
-Add destination YAML files in [sights/](sights/), then regenerate the overview files.
+## Not yet fully assessed (14)
+
+These destinations have no rank until all five core scores are assessed.
+
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps |
+| ---: | --- | --- | ---: | --- | --- | --- |
+| — | [Aigul-Tash Mountain](sights/aigul-tash-mountain.yaml) | Mountain / peak | **—** | **Nature 9.0**, **Wildlife 8.5** | — / 8.8 / 8.6 / — / — | [39.94, 70.89](https://www.google.com/maps/search/?api=1&query=39.94,70.89) |
+| — | [Airymach-Too Petroglyphs (Surotuu-Tash)](sights/airymach-too-petroglyphs-surotuu-tash.yaml) | Attraction | **—** | **History 9.1**, **Culture 8.6** | — / 8.5 / 8.8 / — / — | [40.582003, 72.73845](https://www.google.com/maps/search/?api=1&query=40.582003,72.73845) |
+| — | [Besh-Aral Nature Reserve (Main Part)](sights/besh-aral-nature-reserve-main-part.yaml) | Park / reserve | **—** | **Nature 9.4**, **Wildlife 9.2** | — / 8.9 / 9.3 / — / — | [41.591944, 70.457778](https://www.google.com/maps/search/?api=1&query=41.591944,70.457778) |
+| — | [Besh-Aral Nature Reserve (Shandalash Area)](sights/besh-aral-nature-reserve-shandalash-area.yaml) | Park / reserve | **—** | **Nature 9.2**, **Wildlife 9.1** | — / 8.6 / 9.1 / — / — | [42.090556, 71.116111](https://www.google.com/maps/search/?api=1&query=42.090556,71.116111) |
+| — | [Chatyr-Kul Lake](sights/chatyr-kul-lake.yaml) | Lake | **—** | **Nature 9.2**, **Wildlife 9.1** | — / 8.7 / 8.8 / — / — | [40.61, 75.31](https://www.google.com/maps/search/?api=1&query=40.61,75.31) |
+| — | [Fergana-Syr Darya Corridor (Kyrgyz Tentative Components)](sights/fergana-syr-darya-corridor-kyrgyz-tentative-components.yaml) | Attraction | **—** | **History 9.3** | — / 8.8 / 9.2 / — / — | [40.768531, 73.298239](https://www.google.com/maps/search/?api=1&query=40.768531,73.298239) |
+| — | [Kan-i-Gut Caves](sights/kan-i-gut-caves.yaml) | Attraction | **—** | **History 8.8**, **Nature 8.4** | — / 8.3 / 8.6 / — / — | [39.89, 70.34](https://www.google.com/maps/search/?api=1&query=39.89,70.34) |
+| — | [Kara-Bulak Burial Ground](sights/kara-bulak-burial-ground.yaml) | Attraction | **—** | **History 9.0** | — / 8.2 / 8.7 / — / — | [39.933458, 70.919781](https://www.google.com/maps/search/?api=1&query=39.933458,70.919781) |
+| — | [Krasnaya Rechka (Nevaket)](sights/krasnaya-rechka-nevaket.yaml) | Attraction | **—** | **History 9.3** | — / 8.3 / 9.1 / — / — | [42.912222, 75.015](https://www.google.com/maps/search/?api=1&query=42.912222,75.015) |
+| — | [Kulbeskhan Settlement](sights/kulbeskhan-settlement.yaml) | Attraction | **—** | **History 8.9** | — / 7.8 / 8.6 / — / — | [41.885444, 71.292081](https://www.google.com/maps/search/?api=1&query=41.885444,71.292081) |
+| — | [Padysha-Ata Nature Reserve](sights/padysha-ata-nature-reserve.yaml) | Park / reserve | **—** | **Nature 9.3**, **Wildlife 9.1** | — / 8.7 / 9.2 / — / — | [41.724444, 71.578333](https://www.google.com/maps/search/?api=1&query=41.724444,71.578333) |
+| — | [Saimaly-Tash Petroglyphs](sights/saimaly-tash-petroglyphs.yaml) | Attraction | **—** | **History 9.5**, **Culture 9.3** | — / 9.4 / 9.5 / — / — | [41.18, 74](https://www.google.com/maps/search/?api=1&query=41.18,74) |
+| — | [Shoro-Bashat Settlement](sights/shoro-bashat-settlement.yaml) | Attraction | **—** | **History 8.9** | — / 8.0 / 8.6 / — / — | [40.834511, 73.244897](https://www.google.com/maps/search/?api=1&query=40.834511,73.244897) |
+| — | [Silk Roads Sites in Kyrgyzstan (Tentative Serial Property)](sights/silk-roads-sites-in-kyrgyzstan-tentative-serial-property.yaml) | Attraction | **—** | **History 9.4** | — / 8.8 / 9.3 / — / — | [42.746667, 75.250278](https://www.google.com/maps/search/?api=1&query=42.746667,75.250278) |
 
 ---
 
