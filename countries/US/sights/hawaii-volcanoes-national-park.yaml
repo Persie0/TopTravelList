@@ -1,0 +1,16 @@
+id: sight-us-hawaii-volcanoes-national-park
+name: "Hawaiʻi Volcanoes National Park"
+location:
+  country_code: US
+  latitude: 19.42
+  longitude: -155.29
+scores:
+  impact: 9.2
+  uniqueness: 9.5
+  significance: 9.5
+  experience: 8.9
+  depth: 9.0
+  categories:
+    nature: 9.5
+    photography: 9.4
+    adventure: 9.1

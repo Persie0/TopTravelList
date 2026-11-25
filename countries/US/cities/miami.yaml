@@ -1,0 +1,16 @@
+id: city-us-miami
+name: "Miami"
+location:
+  country_code: US
+  latitude: 25.7617
+  longitude: -80.1918
+scores:
+  impact: 8.2
+  uniqueness: 8.3
+  significance: 7.9
+  experience: 8.9
+  depth: 8.5
+  categories:
+    culture: 8.8
+    food: 8.9
+    nightlife: 9.1

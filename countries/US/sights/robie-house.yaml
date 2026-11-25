@@ -1,0 +1,15 @@
+id: sight-us-robie-house
+name: "Frederick C. Robie House"
+location:
+  country_code: US
+  latitude: 41.790
+  longitude: -87.596
+scores:
+  impact: 8.4
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.3
+  depth: 7.5
+  categories:
+    architecture: 9.3
+    history: 9.0

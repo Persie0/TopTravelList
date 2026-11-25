@@ -1,0 +1,15 @@
+id: sight-us-great-smoky-mountains-national-park
+name: "Great Smoky Mountains National Park"
+location:
+  country_code: US
+  latitude: 35.60
+  longitude: -83.50
+scores:
+  impact: 8.8
+  uniqueness: 8.6
+  significance: 9.1
+  experience: 8.8
+  depth: 9.1
+  categories:
+    nature: 9.3
+    wildlife: 9.0

@@ -1,0 +1,16 @@
+id: sight-us-glacier-bay
+name: "Glacier Bay National Park and Preserve"
+location:
+  country_code: US
+  latitude: 58.70
+  longitude: -136.35
+scores:
+  impact: 9.5
+  uniqueness: 9.4
+  significance: 9.4
+  experience: 8.9
+  depth: 9.1
+  categories:
+    nature: 9.6
+    photography: 9.6
+    wildlife: 9.2
