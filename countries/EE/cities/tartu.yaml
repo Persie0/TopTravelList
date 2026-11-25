@@ -1,0 +1,16 @@
+id: city-ee-tartu
+name: "Tartu"
+location:
+  country_code: EE
+  latitude: 58.378
+  longitude: 26.729
+scores:
+  impact: 8.0
+  uniqueness: 8.1
+  significance: 8.4
+  experience: 8.5
+  depth: 8.3
+  categories:
+    culture: 8.8
+    history: 8.5
+    architecture: 8.2

@@ -1,0 +1,15 @@
+id: city-ee-kardla
+name: "Kärdla"
+location:
+  country_code: EE
+  latitude: 58.997
+  longitude: 22.749
+scores:
+  impact: 7.1
+  uniqueness: 7.4
+  significance: 7.0
+  experience: 7.6
+  depth: 6.9
+  categories:
+    relaxation: 8
+    architecture: 7.4
