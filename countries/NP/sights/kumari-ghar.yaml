@@ -1,0 +1,15 @@
+id: sight-np-kumari-ghar
+name: "Kumari Ghar"
+location:
+  country_code: NP
+  latitude: 27.7041
+  longitude: 85.3068
+scores:
+  impact: 8.1
+  uniqueness: 8.8
+  significance: 8.8
+  experience: 7.9
+  depth: 6.8
+  categories:
+    culture: 9.2
+    architecture: 8.9

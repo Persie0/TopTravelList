@@ -1,0 +1,17 @@
+id: city-np-pokhara
+name: "Pokhara"
+location:
+  country_code: NP
+  latitude: 28.2096
+  longitude: 83.9856
+scores:
+  impact: 8.6
+  uniqueness: 8.5
+  significance: 7.7
+  experience: 9.0
+  depth: 8.8
+  categories:
+    relaxation: 9.2
+    photography: 9.0
+    food: 8.5
+    adventure: 8.6

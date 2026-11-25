@@ -1,0 +1,16 @@
+id: city-np-janakpur
+name: "Janakpur"
+location:
+  country_code: NP
+  latitude: 26.7288
+  longitude: 85.9263
+scores:
+  impact: 8.2
+  uniqueness: 8.7
+  significance: 8.8
+  experience: 8.4
+  depth: 8.2
+  categories:
+    culture: 9.3
+    history: 8.9
+    architecture: 8.8

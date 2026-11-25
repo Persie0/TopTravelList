@@ -1,0 +1,15 @@
+id: city-np-nepalgunj
+name: "Nepalgunj"
+location:
+  country_code: NP
+  latitude: 28.0500
+  longitude: 81.6167
+scores:
+  impact: 6.9
+  uniqueness: 7.3
+  significance: 7.2
+  experience: 7.5
+  depth: 7.4
+  categories:
+    food: 8.1
+    culture: 8.0

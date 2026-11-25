@@ -1,0 +1,15 @@
+id: city-np-bungamati
+name: "Bungamati"
+location:
+  country_code: NP
+  latitude: 27.6255
+  longitude: 85.3056
+scores:
+  impact: 7.8
+  uniqueness: 8.3
+  significance: 8.3
+  experience: 8.0
+  depth: 7.5
+  categories:
+    culture: 8.8
+    architecture: 8.7

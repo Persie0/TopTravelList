@@ -1,0 +1,16 @@
+id: sight-np-phewa-lake
+name: "Phewa Lake"
+location:
+  country_code: NP
+  latitude: 28.2070
+  longitude: 83.9450
+scores:
+  impact: 8.9
+  uniqueness: 8.7
+  significance: 7.8
+  experience: 9.0
+  depth: 8.7
+  categories:
+    photography: 9.3
+    relaxation: 9.3
+    nature: 9.0

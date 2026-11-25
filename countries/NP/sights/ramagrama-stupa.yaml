@@ -1,0 +1,15 @@
+id: sight-np-ramagrama-stupa
+name: "Ramagrama Stupa"
+location:
+  country_code: NP
+  latitude: 27.5080
+  longitude: 83.7140
+scores:
+  impact: 7.5
+  uniqueness: 8.7
+  significance: 9.0
+  experience: 7.7
+  depth: 6.9
+  categories:
+    history: 9.3
+    culture: 9.2

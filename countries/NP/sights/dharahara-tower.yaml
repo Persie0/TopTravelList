@@ -1,0 +1,15 @@
+id: sight-np-dharahara-tower
+name: "Dharahara Tower"
+location:
+  country_code: NP
+  latitude: 27.7009
+  longitude: 85.3112
+scores:
+  impact: 7.7
+  uniqueness: 7.7
+  significance: 7.6
+  experience: 8.1
+  depth: 7.0
+  categories:
+    photography: 8.5
+    history: 8.2

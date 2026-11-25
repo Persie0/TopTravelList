@@ -1,0 +1,16 @@
+id: sight-np-gokyo-lakes
+name: "Gokyo Lakes"
+location:
+  country_code: NP
+  latitude: 27.957
+  longitude: 86.688
+scores:
+  impact: 9.5
+  uniqueness: 9.5
+  significance: 9.1
+  experience: 9.2
+  depth: 9.0
+  categories:
+    nature: 9.6
+    photography: 9.7
+    adventure: 9.3

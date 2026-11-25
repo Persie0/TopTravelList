@@ -1,0 +1,17 @@
+id: sight-np-annapurna-conservation-area
+name: "Annapurna Conservation Area"
+location:
+  country_code: NP
+  latitude: 28.65
+  longitude: 83.91
+scores:
+  impact: 9.7
+  uniqueness: 9.6
+  significance: 9.4
+  experience: 9.6
+  depth: 9.7
+  categories:
+    nature: 9.7
+    adventure: 9.8
+    photography: 9.7
+    culture: 9.3

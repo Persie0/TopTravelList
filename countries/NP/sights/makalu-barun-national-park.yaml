@@ -1,0 +1,17 @@
+id: sight-np-makalu-barun-national-park
+name: "Makalu Barun National Park"
+location:
+  country_code: NP
+  latitude: 27.78
+  longitude: 87.13
+scores:
+  impact: 9.4
+  uniqueness: 9.5
+  significance: 9.4
+  experience: 8.8
+  depth: 9.2
+  categories:
+    nature: 9.6
+    adventure: 9.4
+    photography: 9.4
+    wildlife: 9.2

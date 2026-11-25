@@ -1,0 +1,16 @@
+id: sight-np-changu-narayan-temple-complex
+name: "Changu Narayan Temple Complex"
+location:
+  country_code: NP
+  latitude: 27.7164
+  longitude: 85.4275
+scores:
+  impact: 8.8
+  uniqueness: 9.1
+  significance: 9.4
+  experience: 8.7
+  depth: 8.1
+  categories:
+    architecture: 9.3
+    history: 9.4
+    culture: 9.2

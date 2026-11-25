@@ -1,0 +1,17 @@
+id: city-np-kathmandu
+name: "Kathmandu"
+location:
+  country_code: NP
+  latitude: 27.7172
+  longitude: 85.3240
+scores:
+  impact: 9.2
+  uniqueness: 9.4
+  significance: 9.4
+  experience: 8.8
+  depth: 9.3
+  categories:
+    culture: 9.4
+    architecture: 9.4
+    history: 9.4
+    food: 8.8

@@ -1,0 +1,15 @@
+id: sight-np-siddha-gufa
+name: "Siddha Gufa"
+location:
+  country_code: NP
+  latitude: 27.9470
+  longitude: 84.4190
+scores:
+  impact: 8.3
+  uniqueness: 8.4
+  significance: 7.4
+  experience: 8.4
+  depth: 7.8
+  categories:
+    nature: 8.8
+    adventure: 8.7

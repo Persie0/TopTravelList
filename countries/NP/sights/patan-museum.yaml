@@ -1,0 +1,16 @@
+id: sight-np-patan-museum
+name: "Patan Museum"
+location:
+  country_code: NP
+  latitude: 27.6731
+  longitude: 85.3256
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 8.8
+  depth: 8.6
+  categories:
+    culture: 9.3
+    history: 9.3
+    architecture: 9.0

@@ -1,0 +1,16 @@
+id: city-np-lo-manthang
+name: "Lo Manthang"
+location:
+  country_code: NP
+  latitude: 29.1820
+  longitude: 83.9580
+scores:
+  impact: 8.8
+  uniqueness: 9.3
+  significance: 9.0
+  experience: 8.5
+  depth: 8.4
+  categories:
+    culture: 9.4
+    architecture: 9.3
+    history: 9.2

@@ -1,0 +1,15 @@
+id: sight-np-hanuman-dhoka-palace
+name: "Hanuman Dhoka Palace"
+location:
+  country_code: NP
+  latitude: 27.7042
+  longitude: 85.3075
+scores:
+  impact: 8.6
+  uniqueness: 8.9
+  significance: 9.1
+  experience: 8.5
+  depth: 8.4
+  categories:
+    architecture: 9.1
+    history: 9.3

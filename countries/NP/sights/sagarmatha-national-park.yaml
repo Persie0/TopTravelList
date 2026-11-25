@@ -1,0 +1,17 @@
+id: sight-np-sagarmatha-national-park
+name: "Sagarmatha National Park"
+location:
+  country_code: NP
+  latitude: 27.90
+  longitude: 86.78
+scores:
+  impact: 9.9
+  uniqueness: 9.9
+  significance: 9.8
+  experience: 9.6
+  depth: 9.7
+  categories:
+    nature: 9.9
+    adventure: 9.8
+    photography: 9.9
+    wildlife: 9.0

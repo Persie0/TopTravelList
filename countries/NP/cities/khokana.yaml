@@ -1,0 +1,15 @@
+id: city-np-khokana
+name: "Khokana"
+location:
+  country_code: NP
+  latitude: 27.6320
+  longitude: 85.3030
+scores:
+  impact: 7.7
+  uniqueness: 8.2
+  significance: 8.0
+  experience: 8.0
+  depth: 7.4
+  categories:
+    culture: 8.7
+    architecture: 8.6

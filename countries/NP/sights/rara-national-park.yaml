@@ -1,0 +1,16 @@
+id: sight-np-rara-national-park
+name: "Rara National Park"
+location:
+  country_code: NP
+  latitude: 29.53
+  longitude: 82.08
+scores:
+  impact: 9.1
+  uniqueness: 9.2
+  significance: 9.1
+  experience: 8.9
+  depth: 9.0
+  categories:
+    nature: 9.4
+    photography: 9.4
+    adventure: 9.1

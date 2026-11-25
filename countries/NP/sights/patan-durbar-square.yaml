@@ -1,0 +1,16 @@
+id: sight-np-patan-durbar-square
+name: "Patan Durbar Square"
+location:
+  country_code: NP
+  latitude: 27.6730
+  longitude: 85.3252
+scores:
+  impact: 9.3
+  uniqueness: 9.4
+  significance: 9.4
+  experience: 9.2
+  depth: 8.9
+  categories:
+    architecture: 9.5
+    history: 9.4
+    culture: 9.4

@@ -1,0 +1,15 @@
+id: city-np-dhunche
+name: "Dhunche"
+location:
+  country_code: NP
+  latitude: 28.1110
+  longitude: 85.2970
+scores:
+  impact: 7.0
+  uniqueness: 7.3
+  significance: 6.9
+  experience: 7.5
+  depth: 7.0
+  categories:
+    culture: 7.8
+    photography: 7.9

@@ -1,0 +1,15 @@
+id: sight-np-ganga-sagar-janakpur
+name: "Ganga Sagar Janakpur"
+location:
+  country_code: NP
+  latitude: 26.7310
+  longitude: 85.9270
+scores:
+  impact: 7.4
+  uniqueness: 7.9
+  significance: 7.8
+  experience: 8.0
+  depth: 7.1
+  categories:
+    culture: 8.5
+    relaxation: 8.0

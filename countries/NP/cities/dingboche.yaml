@@ -1,0 +1,15 @@
+id: city-np-dingboche
+name: "Dingboche"
+location:
+  country_code: NP
+  latitude: 27.8920
+  longitude: 86.8300
+scores:
+  impact: 7.9
+  uniqueness: 8.3
+  significance: 6.8
+  experience: 8.0
+  depth: 7.0
+  categories:
+    photography: 8.8
+    culture: 7.9

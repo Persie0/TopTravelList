@@ -1,0 +1,15 @@
+id: city-np-taplejung-phungling
+name: "Taplejung (Phungling)"
+location:
+  country_code: NP
+  latitude: 27.3560
+  longitude: 87.6700
+scores:
+  impact: 6.9
+  uniqueness: 7.3
+  significance: 6.9
+  experience: 7.4
+  depth: 7.1
+  categories:
+    culture: 7.9
+    food: 7.7

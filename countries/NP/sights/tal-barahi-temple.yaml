@@ -1,0 +1,15 @@
+id: sight-np-tal-barahi-temple
+name: "Tal Barahi Temple"
+location:
+  country_code: NP
+  latitude: 28.2080
+  longitude: 83.9550
+scores:
+  impact: 7.9
+  uniqueness: 8.4
+  significance: 8.0
+  experience: 8.2
+  depth: 7.0
+  categories:
+    culture: 8.8
+    photography: 8.7

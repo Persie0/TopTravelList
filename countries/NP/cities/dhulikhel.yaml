@@ -1,0 +1,16 @@
+id: city-np-dhulikhel
+name: "Dhulikhel"
+location:
+  country_code: NP
+  latitude: 27.6221
+  longitude: 85.5428
+scores:
+  impact: 7.9
+  uniqueness: 8.1
+  significance: 7.6
+  experience: 8.3
+  depth: 7.7
+  categories:
+    photography: 8.8
+    architecture: 8.4
+    relaxation: 8.4

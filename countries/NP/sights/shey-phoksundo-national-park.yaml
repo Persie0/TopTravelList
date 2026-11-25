@@ -1,0 +1,17 @@
+id: sight-np-shey-phoksundo-national-park
+name: "Shey-Phoksundo National Park"
+location:
+  country_code: NP
+  latitude: 29.23
+  longitude: 82.98
+scores:
+  impact: 9.4
+  uniqueness: 9.5
+  significance: 9.4
+  experience: 9.0
+  depth: 9.4
+  categories:
+    nature: 9.6
+    adventure: 9.5
+    photography: 9.5
+    wildlife: 9.3

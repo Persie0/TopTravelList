@@ -1,0 +1,15 @@
+id: sight-np-bhaktapur-pottery-square
+name: "Bhaktapur Pottery Square"
+location:
+  country_code: NP
+  latitude: 27.6699
+  longitude: 85.4279
+scores:
+  impact: 7.8
+  uniqueness: 8.5
+  significance: 7.8
+  experience: 8.6
+  depth: 7.5
+  categories:
+    culture: 9.0
+    photography: 8.6

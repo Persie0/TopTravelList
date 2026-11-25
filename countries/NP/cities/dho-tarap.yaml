@@ -1,0 +1,15 @@
+id: city-np-dho-tarap
+name: "Dho Tarap"
+location:
+  country_code: NP
+  latitude: 29.1240
+  longitude: 83.1850
+scores:
+  impact: 8.4
+  uniqueness: 9.0
+  significance: 8.0
+  experience: 8.2
+  depth: 7.6
+  categories:
+    culture: 9.2
+    photography: 8.9

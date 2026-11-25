@@ -1,0 +1,17 @@
+id: city-np-bhaktapur
+name: "Bhaktapur"
+location:
+  country_code: NP
+  latitude: 27.6722
+  longitude: 85.4298
+scores:
+  impact: 9.1
+  uniqueness: 9.3
+  significance: 9.3
+  experience: 9.1
+  depth: 8.8
+  categories:
+    architecture: 9.4
+    culture: 9.4
+    history: 9.3
+    photography: 9.3

@@ -1,0 +1,15 @@
+id: sight-np-international-mountain-museum
+name: "International Mountain Museum"
+location:
+  country_code: NP
+  latitude: 28.1880
+  longitude: 83.9810
+scores:
+  impact: 8.1
+  uniqueness: 8.6
+  significance: 8.5
+  experience: 8.4
+  depth: 8.4
+  categories:
+    culture: 9.0
+    history: 8.9

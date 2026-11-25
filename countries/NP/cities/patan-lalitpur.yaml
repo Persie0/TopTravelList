@@ -1,0 +1,16 @@
+id: city-np-patan-lalitpur
+name: "Patan (Lalitpur)"
+location:
+  country_code: NP
+  latitude: 27.6727
+  longitude: 85.3253
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 9.3
+  experience: 9.0
+  depth: 8.8
+  categories:
+    architecture: 9.4
+    culture: 9.4
+    history: 9.3

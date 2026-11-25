@@ -1,0 +1,14 @@
+id: city-np-bhimdatta-mahendranagar
+name: "Bhimdatta (Mahendranagar)"
+location:
+  country_code: NP
+  latitude: 28.9660
+  longitude: 80.1780
+scores:
+  impact: 6.4
+  uniqueness: 6.7
+  significance: 6.6
+  experience: 7.1
+  depth: 6.9
+  categories:
+    food: 7.6

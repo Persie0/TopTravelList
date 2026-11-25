@@ -1,0 +1,17 @@
+id: sight-np-annapurna-circuit-trek
+name: "Annapurna Circuit Trek"
+location:
+  country_code: NP
+  latitude: 28.74
+  longitude: 83.94
+scores:
+  impact: 9.6
+  uniqueness: 9.5
+  significance: 8.9
+  experience: 9.5
+  depth: 9.6
+  categories:
+    adventure: 9.7
+    nature: 9.6
+    photography: 9.6
+    culture: 9.3

@@ -1,0 +1,16 @@
+id: sight-np-lumbini-sacred-garden
+name: "Lumbini Sacred Garden"
+location:
+  country_code: NP
+  latitude: 27.4690
+  longitude: 83.2758
+scores:
+  impact: 8.9
+  uniqueness: 9.6
+  significance: 9.8
+  experience: 8.8
+  depth: 8.8
+  categories:
+    culture: 9.8
+    history: 9.8
+    architecture: 8.9

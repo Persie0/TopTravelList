@@ -1,0 +1,15 @@
+id: city-np-lumbini-village
+name: "Lumbini Village"
+location:
+  country_code: NP
+  latitude: 27.4690
+  longitude: 83.2750
+scores:
+  impact: 7.2
+  uniqueness: 7.5
+  significance: 8.2
+  experience: 7.7
+  depth: 7.1
+  categories:
+    culture: 8.5
+    history: 8.2
