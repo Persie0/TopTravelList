@@ -1,0 +1,16 @@
+id: city-gb-manchester
+name: "Manchester"
+location:
+  country_code: GB
+  latitude: 53.48
+  longitude: -2.242
+scores:
+  impact: 8.4
+  uniqueness: 8.6
+  significance: 8.8
+  experience: 9.0
+  depth: 9.0
+  categories:
+    culture: 9.1
+    history: 9.0
+    nightlife: 9.1

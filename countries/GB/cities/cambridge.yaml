@@ -1,0 +1,16 @@
+id: city-gb-cambridge
+name: "Cambridge"
+location:
+  country_code: GB
+  latitude: 52.205
+  longitude: 0.122
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 9.2
+  experience: 9.0
+  depth: 8.8
+  categories:
+    architecture: 9.3
+    history: 9.3
+    culture: 9.2

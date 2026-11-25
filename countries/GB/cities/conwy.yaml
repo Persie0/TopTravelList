@@ -1,0 +1,15 @@
+id: city-gb-conwy
+name: "Conwy"
+location:
+  country_code: GB
+  latitude: 53.282
+  longitude: -3.829
+scores:
+  impact: 8.5
+  uniqueness: 8.6
+  significance: 8.6
+  experience: 8.5
+  depth: 7.7
+  categories:
+    architecture: 9.0
+    history: 9.0

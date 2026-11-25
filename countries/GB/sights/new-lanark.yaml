@@ -1,0 +1,15 @@
+id: sight-gb-new-lanark
+name: "New Lanark"
+location:
+  country_code: GB
+  latitude: 55.663
+  longitude: -3.782
+scores:
+  impact: 8.5
+  uniqueness: 9.0
+  significance: 9.2
+  experience: 8.7
+  depth: 8.6
+  categories:
+    history: 9.3
+    architecture: 9.0

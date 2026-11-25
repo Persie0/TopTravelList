@@ -1,0 +1,16 @@
+id: sight-gb-dunluce-castle
+name: "Dunluce Castle"
+location:
+  country_code: GB
+  latitude: 55.21
+  longitude: -6.58
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 8.6
+  experience: 8.6
+  depth: 7.7
+  categories:
+    architecture: 8.9
+    history: 9.0
+    photography: 9.3

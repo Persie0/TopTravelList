@@ -1,0 +1,16 @@
+id: sight-gb-fountains-abbey
+name: "Studley Royal Park and Fountains Abbey"
+location:
+  country_code: GB
+  latitude: 54.11
+  longitude: -1.582
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 9.2
+  experience: 9.1
+  depth: 9.0
+  categories:
+    architecture: 9.3
+    history: 9.3
+    nature: 9.0

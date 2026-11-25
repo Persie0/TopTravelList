@@ -1,0 +1,15 @@
+id: sight-gb-eilean-donan
+name: "Eilean Donan Castle"
+location:
+  country_code: GB
+  latitude: 57.274
+  longitude: -5.514
+scores:
+  impact: 8.9
+  uniqueness: 8.7
+  significance: 8.5
+  experience: 8.7
+  depth: 7.8
+  categories:
+    architecture: 9.0
+    photography: 9.4
