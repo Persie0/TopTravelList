@@ -1,0 +1,16 @@
+id: sight-cl-elqui-valley
+name: "Elqui Valley"
+location:
+  country_code: CL
+  latitude: -30.1000
+  longitude: -70.4500
+scores:
+  impact: 8.3
+  uniqueness: 8.2
+  significance: 7.3
+  experience: 8.7
+  depth: 8.4
+  categories:
+    photography: 8.9
+    food: 8.6
+    relaxation: 8.7

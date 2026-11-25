@@ -1,0 +1,16 @@
+id: sight-cl-lagunas-miscanti-and-miniques
+name: "Lagunas Miscanti and Miñiques"
+location:
+  country_code: CL
+  latitude: -23.7330
+  longitude: -67.7650
+scores:
+  impact: 9.1
+  uniqueness: 8.8
+  significance: 8.2
+  experience: 8.6
+  depth: 7.9
+  categories:
+    nature: 9.3
+    photography: 9.5
+    wildlife: 8.7
