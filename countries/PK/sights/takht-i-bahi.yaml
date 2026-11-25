@@ -1,0 +1,15 @@
+id: sight-pk-takht-i-bahi
+name: "Takht-i-Bahi and Sahr-i-Bahlol"
+location:
+  country_code: PK
+  latitude: 34.32
+  longitude: 71.945
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 9.0
+  experience: null
+  depth: null
+  categories:
+    architecture: 8.9
+    history: 9.1

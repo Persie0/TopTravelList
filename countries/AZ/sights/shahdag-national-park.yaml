@@ -1,0 +1,16 @@
+id: sight-az-shahdag-national-park
+name: "Shahdag National Park"
+location:
+  country_code: AZ
+  latitude: 41.2
+  longitude: 48.1
+scores:
+  impact: 8.8
+  uniqueness: 8.5
+  significance: 8.2
+  experience: 8.5
+  depth: 8.8
+  categories:
+    nature: 9.2
+    adventure: 8.9
+    photography: 9.1

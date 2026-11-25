@@ -1,0 +1,15 @@
+id: sight-lv-cesis-medieval-castle
+name: "Cēsis Medieval Castle"
+location:
+  country_code: LV
+  latitude: 57.313
+  longitude: 25.271
+scores:
+  impact: 8.5
+  uniqueness: 8.5
+  significance: 8.7
+  experience: 8.9
+  depth: 8.4
+  categories:
+    history: 9
+    architecture: 8.9

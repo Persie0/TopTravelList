@@ -1,0 +1,16 @@
+id: sight-az-ateshgah-fire-temple
+name: "Ateshgah Fire Temple"
+location:
+  country_code: AZ
+  latitude: 40.415
+  longitude: 50.008
+scores:
+  impact: 8.1
+  uniqueness: 8.8
+  significance: 8.8
+  experience: 8.2
+  depth: 7.4
+  categories:
+    history: 9.2
+    culture: 9.1
+    architecture: 8.7

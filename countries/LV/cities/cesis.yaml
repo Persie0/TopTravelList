@@ -1,0 +1,16 @@
+id: city-lv-cesis
+name: "Cēsis"
+location:
+  country_code: LV
+  latitude: 57.312
+  longitude: 25.274
+scores:
+  impact: 8.2
+  uniqueness: 8.3
+  significance: 8.3
+  experience: 8.5
+  depth: 7.9
+  categories:
+    architecture: 8.6
+    history: 8.8
+    culture: 8.5

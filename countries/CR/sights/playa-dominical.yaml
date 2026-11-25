@@ -1,0 +1,15 @@
+id: sight-cr-playa-dominical
+name: "Playa Dominical"
+location:
+  country_code: CR
+  latitude: 9.250
+  longitude: -83.861
+scores:
+  impact: 8.1
+  uniqueness: 7.8
+  significance: 6.2
+  experience: 8.6
+  depth: 7.2
+  categories:
+    adventure: 9.0
+    beaches: 8.4

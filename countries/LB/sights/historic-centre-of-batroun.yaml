@@ -1,0 +1,16 @@
+id: sight-lb-historic-centre-of-batroun
+name: "Historic Centre of Batroun"
+location:
+  country_code: LB
+  latitude: 34.24932
+  longitude: 35.66429
+scores:
+  impact: 8.3
+  uniqueness: 8.5
+  significance: 8.5
+  experience: 8.7
+  depth: 7.9
+  categories:
+    history: 8.8
+    architecture: 8.8
+    culture: 8.8

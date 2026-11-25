@@ -1,0 +1,16 @@
+id: sight-tm-kunya-urgench-archaeological-ensemble
+name: "Kunya-Urgench Archaeological Ensemble"
+location:
+  country_code: TM
+  latitude: 42.305278
+  longitude: 59.141667
+scores:
+  impact: 8.8
+  uniqueness: 9.2
+  significance: 9.4
+  experience: 8.5
+  depth: 8.6
+  categories:
+    architecture: 9.4
+    history: 9.5
+    photography: 9.1
