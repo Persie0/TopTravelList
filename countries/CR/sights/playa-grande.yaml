@@ -1,0 +1,16 @@
+id: sight-cr-playa-grande
+name: "Playa Grande"
+location:
+  country_code: CR
+  latitude: 10.337
+  longitude: -85.849
+scores:
+  impact: 8.4
+  uniqueness: 8.1
+  significance: 8.2
+  experience: 8.4
+  depth: 7.4
+  categories:
+    beaches: 8.6
+    wildlife: 8.9
+    adventure: 8.5

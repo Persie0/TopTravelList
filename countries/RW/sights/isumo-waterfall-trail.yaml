@@ -1,0 +1,16 @@
+id: sight-rw-isumo-waterfall-trail
+name: "Isumo Waterfall Trail"
+location:
+  country_code: RW
+  latitude: -2.4850
+  longitude: 29.1000
+scores:
+  impact: 8.4
+  uniqueness: 8.2
+  significance: 6.8
+  experience: 8.6
+  depth: 7.7
+  categories:
+    nature: 8.7
+    adventure: 8.6
+    photography: 8.6

@@ -1,0 +1,15 @@
+id: sight-km-coelacanth-national-park
+name: "Coelacanth National Park"
+location:
+  country_code: KM
+  latitude: -11.950000
+  longitude: 43.241667
+scores:
+  impact: null
+  uniqueness: null
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    nature: 9.4
+    wildlife: 9.4

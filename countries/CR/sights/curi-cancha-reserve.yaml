@@ -1,0 +1,15 @@
+id: sight-cr-curi-cancha-reserve
+name: "Curi-Cancha Reserve"
+location:
+  country_code: CR
+  latitude: 10.304
+  longitude: -84.810
+scores:
+  impact: 8.5
+  uniqueness: 8.6
+  significance: 8.5
+  experience: 8.7
+  depth: 8.1
+  categories:
+    wildlife: 9.3
+    nature: 8.9

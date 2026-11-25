@@ -1,0 +1,16 @@
+id: sight-cr-national-theatre-of-costa-rica
+name: "National Theatre of Costa Rica"
+location:
+  country_code: CR
+  latitude: 9.933
+  longitude: -84.077
+scores:
+  impact: 8.4
+  uniqueness: 8.2
+  significance: 8.6
+  experience: 8.3
+  depth: 7.4
+  categories:
+    architecture: 9.0
+    culture: 8.9
+    history: 8.6

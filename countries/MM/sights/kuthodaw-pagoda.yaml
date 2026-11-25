@@ -1,0 +1,15 @@
+id: sight-mm-kuthodaw-pagoda
+name: "Kuthodaw Pagoda"
+location:
+  country_code: MM
+  latitude: 21.999
+  longitude: 96.113
+scores:
+  impact: 8.7
+  uniqueness: 9.1
+  significance: 9.0
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.0
+    culture: 9.2

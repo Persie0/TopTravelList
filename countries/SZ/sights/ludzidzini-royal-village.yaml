@@ -1,0 +1,15 @@
+id: sight-sz-ludzidzini-royal-village
+name: "Ludzidzini Royal Village"
+location:
+  country_code: SZ
+  latitude: -26.4420
+  longitude: 31.2280
+scores:
+  impact: null
+  uniqueness: null
+  significance: 8.6
+  experience: null
+  depth: null
+  categories:
+    culture: 8.8
+    history: 8.6

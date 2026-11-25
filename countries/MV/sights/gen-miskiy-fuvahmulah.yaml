@@ -1,0 +1,15 @@
+id: sight-mv-gen-miskiy-fuvahmulah
+name: "Gen Miskiy (Fuvahmulah)"
+location:
+  country_code: MV
+  latitude: -0.288
+  longitude: 73.427
+scores:
+  impact: null
+  uniqueness: 8.3
+  significance: 8.3
+  experience: null
+  depth: null
+  categories:
+    history: 8.6
+    architecture: 8.4

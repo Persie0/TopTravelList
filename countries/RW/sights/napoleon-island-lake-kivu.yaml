@@ -1,0 +1,16 @@
+id: sight-rw-napoleon-island-lake-kivu
+name: "Napoleon Island (Lake Kivu)"
+location:
+  country_code: RW
+  latitude: -2.0510
+  longitude: 29.3240
+scores:
+  impact: 8.1
+  uniqueness: 8.1
+  significance: 6.6
+  experience: 8.2
+  depth: 6.9
+  categories:
+    nature: 8.4
+    wildlife: 8.5
+    photography: 8.7

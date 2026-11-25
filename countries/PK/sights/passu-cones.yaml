@@ -1,0 +1,15 @@
+id: sight-pk-passu-cones
+name: "Passu Cones"
+location:
+  country_code: PK
+  latitude: 36.47
+  longitude: 74.88
+scores:
+  impact: 9.1
+  uniqueness: 8.8
+  significance: 7.7
+  experience: 8.3
+  depth: 7.3
+  categories:
+    nature: 9.0
+    photography: 9.3

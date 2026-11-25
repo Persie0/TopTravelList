@@ -1,0 +1,16 @@
+id: sight-pk-deosai
+name: "Deosai National Park"
+location:
+  country_code: PK
+  latitude: 35.02
+  longitude: 75.43
+scores:
+  impact: 9.0
+  uniqueness: 8.9
+  significance: 8.7
+  experience: 8.6
+  depth: 8.5
+  categories:
+    nature: 9.1
+    wildlife: 8.8
+    photography: 9.0

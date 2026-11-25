@@ -1,0 +1,15 @@
+id: sight-rw-iby-iwacu-cultural-village
+name: "Iby'Iwacu Cultural Village"
+location:
+  country_code: RW
+  latitude: -1.4310
+  longitude: 29.5720
+scores:
+  impact: 7.3
+  uniqueness: 7.8
+  significance: 7.3
+  experience: 8.4
+  depth: 7.2
+  categories:
+    culture: 8.6
+    family: 8.0

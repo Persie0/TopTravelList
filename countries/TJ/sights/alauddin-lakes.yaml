@@ -1,0 +1,16 @@
+id: sight-tj-alauddin-lakes
+name: "Alauddin Lakes"
+location:
+  country_code: TJ
+  latitude: 39.25
+  longitude: 68.25
+scores:
+  impact: 9.3
+  uniqueness: 9.0
+  significance: 7.6
+  experience: 9.0
+  depth: 8.1
+  categories:
+    nature: 9.3
+    photography: 9.5
+    adventure: 9.1

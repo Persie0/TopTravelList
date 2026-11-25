@@ -1,0 +1,15 @@
+id: city-uz-termez
+name: "Termez"
+location:
+  country_code: UZ
+  latitude: 37.224
+  longitude: 67.278
+scores:
+  impact: 7.4
+  uniqueness: 7.9
+  significance: 8.5
+  experience: 7.7
+  depth: 7.6
+  categories:
+    history: 8.9
+    culture: 8.1

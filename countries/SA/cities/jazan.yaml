@@ -1,0 +1,15 @@
+id: city-sa-jazan
+name: "Jazan"
+location:
+  country_code: SA
+  latitude: 16.8892
+  longitude: 42.5511
+scores:
+  impact: 6.9
+  uniqueness: 7.2
+  significance: 7.1
+  experience: 7.4
+  depth: 7.0
+  categories:
+    food: 7.5
+    culture: 7.4

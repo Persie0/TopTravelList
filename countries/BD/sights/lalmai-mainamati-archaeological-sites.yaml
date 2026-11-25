@@ -1,0 +1,15 @@
+id: sight-bd-lalmai-mainamati-archaeological-sites
+name: "Lalmai-Mainamati Archaeological Sites"
+location:
+  country_code: BD
+  latitude: 23.49635
+  longitude: 91.107647
+scores:
+  impact: 8.2
+  uniqueness: 8.8
+  significance: 9.2
+  experience: 8.4
+  depth: 8.6
+  categories:
+    history: 9.4
+    culture: 8.8

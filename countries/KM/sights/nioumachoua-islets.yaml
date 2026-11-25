@@ -1,0 +1,16 @@
+id: sight-km-nioumachoua-islets
+name: "Nioumachoua Islets"
+location:
+  country_code: KM
+  latitude: -12.3970
+  longitude: 43.7250
+scores:
+  impact: 9.1
+  uniqueness: 8.8
+  significance: 7.5
+  experience: 8.7
+  depth: 7.9
+  categories:
+    nature: 9.2
+    photography: 9.4
+    adventure: 8.9

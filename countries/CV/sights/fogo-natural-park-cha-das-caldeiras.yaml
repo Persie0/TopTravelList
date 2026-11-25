@@ -1,0 +1,16 @@
+id: sight-cv-fogo-natural-park-cha-das-caldeiras
+name: "Fogo Natural Park (Cha das Caldeiras)"
+location:
+  country_code: CV
+  latitude: 14.9660
+  longitude: -24.3600
+scores:
+  impact: 9.4
+  uniqueness: 9.4
+  significance: 8.8
+  experience: 8.9
+  depth: 9.1
+  categories:
+    nature: 9.5
+    adventure: 9.3
+    photography: 9.5

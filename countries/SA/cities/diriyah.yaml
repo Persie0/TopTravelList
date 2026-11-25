@@ -1,0 +1,16 @@
+id: city-sa-diriyah
+name: "Diriyah"
+location:
+  country_code: SA
+  latitude: 24.733
+  longitude: 46.575
+scores:
+  impact: 8.1
+  uniqueness: 8.4
+  significance: 8.8
+  experience: 8.0
+  depth: 7.5
+  categories:
+    architecture: 8.8
+    history: 9.0
+    culture: 8.3
