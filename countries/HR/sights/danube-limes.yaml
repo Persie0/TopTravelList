@@ -1,0 +1,14 @@
+id: sight-hr-danube-limes
+name: "Danube Limes (Croatian tentative components)"
+location:
+  country_code: HR
+  latitude: 45.56
+  longitude: 18.76
+scores:
+  impact: 7.8
+  uniqueness: 8.7
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    history: 9.3

@@ -1,0 +1,16 @@
+id: sight-hr-dubrovnik-walls
+name: "Dubrovnik City Walls"
+location:
+  country_code: HR
+  latitude: 42.641
+  longitude: 18.109
+scores:
+  impact: 9.5
+  uniqueness: 9.3
+  significance: 9.1
+  experience: 9.3
+  depth: 8.5
+  categories:
+    architecture: 9.5
+    photography: 9.6
+    history: 9.3

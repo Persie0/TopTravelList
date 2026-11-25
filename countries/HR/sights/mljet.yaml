@@ -1,0 +1,16 @@
+id: sight-hr-mljet
+name: "Mljet National Park"
+location:
+  country_code: HR
+  latitude: 42.78
+  longitude: 17.35
+scores:
+  impact: 9.1
+  uniqueness: 8.9
+  significance: 8.7
+  experience: 9.1
+  depth: 8.9
+  categories:
+    nature: 9.3
+    relaxation: 9.2
+    photography: 9.3

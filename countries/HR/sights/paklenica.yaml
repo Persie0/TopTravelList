@@ -1,0 +1,16 @@
+id: sight-hr-paklenica
+name: "Paklenica National Park"
+location:
+  country_code: HR
+  latitude: 44.32
+  longitude: 15.47
+scores:
+  impact: 9.1
+  uniqueness: 8.9
+  significance: 8.6
+  experience: 9.1
+  depth: 9.0
+  categories:
+    nature: 9.3
+    adventure: 9.4
+    photography: 9.3

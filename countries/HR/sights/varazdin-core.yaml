@@ -1,0 +1,15 @@
+id: sight-hr-varazdin-core
+name: "Historic nucleus and Old Town Castle, Varaždin"
+location:
+  country_code: HR
+  latitude: 46.308
+  longitude: 16.335
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 8.8
+  experience: 8.7
+  depth: 8.6
+  categories:
+    architecture: 9.3
+    history: 9.1

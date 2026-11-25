@@ -1,0 +1,16 @@
+id: sight-hr-dubrovnik-old-city
+name: "Old City of Dubrovnik"
+location:
+  country_code: HR
+  latitude: 42.641
+  longitude: 18.109
+scores:
+  impact: 9.5
+  uniqueness: 9.5
+  significance: 9.4
+  experience: 9.3
+  depth: 9.1
+  categories:
+    architecture: 9.6
+    history: 9.5
+    photography: 9.6

@@ -1,0 +1,16 @@
+id: sight-hr-brijuni
+name: "Brijuni National Park"
+location:
+  country_code: HR
+  latitude: 44.91
+  longitude: 13.77
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 8.8
+  experience: 8.9
+  depth: 8.8
+  categories:
+    nature: 9.1
+    history: 9.0
+    relaxation: 8.9

@@ -1,0 +1,16 @@
+id: city-hr-varazdin
+name: "Varaždin"
+location:
+  country_code: HR
+  latitude: 46.306
+  longitude: 16.337
+scores:
+  impact: 8.5
+  uniqueness: 8.6
+  significance: 8.6
+  experience: 8.6
+  depth: 8.2
+  categories:
+    architecture: 9.2
+    history: 8.9
+    culture: 8.8

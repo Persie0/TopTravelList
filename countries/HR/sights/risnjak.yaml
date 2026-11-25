@@ -1,0 +1,16 @@
+id: sight-hr-risnjak
+name: "Risnjak National Park"
+location:
+  country_code: HR
+  latitude: 45.44
+  longitude: 14.7
+scores:
+  impact: 8.8
+  uniqueness: 8.6
+  significance: 8.6
+  experience: 8.8
+  depth: 8.8
+  categories:
+    nature: 9.2
+    wildlife: 9.0
+    adventure: 9.0

@@ -1,0 +1,16 @@
+id: sight-hr-diocletian-palace
+name: "Historical Complex of Split with Diocletian's Palace"
+location:
+  country_code: HR
+  latitude: 43.508
+  longitude: 16.44
+scores:
+  impact: 9.3
+  uniqueness: 9.6
+  significance: 9.5
+  experience: 9.3
+  depth: 9.2
+  categories:
+    architecture: 9.5
+    history: 9.6
+    culture: 9.3
