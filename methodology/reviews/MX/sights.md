@@ -951,3 +951,461 @@ All scores are provisional editorial judgments; no independent fact-check status
 - Earlier decision: none.
 - Verification still needed: Independent factual and geographic verification.
 
+
+## sight-mx-agave-landscape-tequila — Agave Landscape and Ancient Industrial Facilities of Tequila — 2026-11-25
+
+- YAML: [source](../../../countries/MX/sights/agave-landscape-tequila.yaml)
+- Action: new
+- Precise subject: Living agricultural landscape and authorized industrial heritage visits.
+- Location check: 20.88, -103.84; approximate representative public or regional point; not an entrance or surveyed coordinate. Independent verification outstanding.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1209/) — official property reference; heritage identity and scope, not independent verification of ordinary visitor access or GPS. Country list checked 2026-11-25.
+- Missing or uncertain facts: Exact coordinates and independent claim-level visitor evidence.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Hohensalzburg](../../../countries/AT/sights/hohensalzburg-fortress.yaml) | less castle monumentality than Hohensalzburg |
+| [Bridgetown Garrison](../../../countries/BB/sights/historic-bridgetown-and-its-garrison.yaml) | more agricultural industry than Garrison |
+| [Pigeon Island](../../../countries/LC/sights/pigeon-island-national-landmark.yaml) | broader working landscape than Pigeon Island |
+| [Fort Hamilton](../../../countries/VC/sights/fort-hamilton-bequia.yaml) | much greater circuit breadth than Fort Hamilton |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.4 | agave rows and historic factories |
+| Uniqueness | 8.9 | distinct agave cultivation and distillation landscape |
+| Significance | 9.0 | centuries of regional productive heritage |
+| Experience | 8.6 | interpreted fields and industrial buildings |
+| Depth | 8.7 | multiple towns and facilities |
+
+- Applicable categories: culture:9.2,history:9.1,photography:8.9.
+- Overall: 87.05/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial assessment only.
+- Earlier decision: none.
+- Verification still needed: Site-specific access and geographical checks.
+
+## sight-mx-padre-tembleque-aqueduct — Aqueduct of Padre Tembleque Hydraulic System — 2026-11-25
+
+- YAML: [source](../../../countries/MX/sights/padre-tembleque-aqueduct.yaml)
+- Action: new
+- Precise subject: Hydraulic ensemble represented near its monumental arcade; not every canal accessible.
+- Location check: 19.88, -98.67; approximate representative public or regional point; not an entrance or surveyed coordinate. Independent verification outstanding.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1463/) — official property reference; heritage identity and scope, not independent verification of ordinary visitor access or GPS. Country list checked 2026-11-25.
+- Missing or uncertain facts: Exact coordinates and independent claim-level visitor evidence.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Hohensalzburg](../../../countries/AT/sights/hohensalzburg-fortress.yaml) | less fortified complexity than Hohensalzburg |
+| [Bridgetown Garrison](../../../countries/BB/sights/historic-bridgetown-and-its-garrison.yaml) | more focused engineering than Garrison |
+| [Pigeon Island](../../../countries/LC/sights/pigeon-island-national-landmark.yaml) | greater masonry height than Pigeon Island |
+| [Fort Hamilton](../../../countries/VC/sights/fort-hamilton-bequia.yaml) | larger engineering scope than Fort Hamilton |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.4 | tall stone arcade |
+| Uniqueness | 8.8 | unusually high single-level aqueduct arcade |
+| Significance | 9.0 | colonial hydraulic and Indigenous building history |
+| Experience | 7.9 | architectural observation |
+| Depth | 7.6 | dispersed hydraulic features |
+
+- Applicable categories: architecture:9.2,history:9.1,photography:8.8.
+- Overall: 84.65/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial assessment only.
+- Earlier decision: none.
+- Verification still needed: Site-specific access and geographical checks.
+
+## sight-mx-unam-central-campus — Central University City Campus of UNAM — 2026-11-25
+
+- YAML: [source](../../../countries/MX/sights/unam-central-campus.yaml)
+- Action: new
+- Precise subject: Inscribed central campus public exterior spaces and permitted cultural venues.
+- Location check: 19.332, -99.188; approximate representative public or regional point; not an entrance or surveyed coordinate. Independent verification outstanding.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1250/) — official property reference; heritage identity and scope, not independent verification of ordinary visitor access or GPS. Country list checked 2026-11-25.
+- Missing or uncertain facts: Exact coordinates and independent claim-level visitor evidence.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Hohensalzburg](../../../countries/AT/sights/hohensalzburg-fortress.yaml) | less historic fortress impact than Hohensalzburg |
+| [Bridgetown Garrison](../../../countries/BB/sights/historic-bridgetown-and-its-garrison.yaml) | different modern architectural synthesis from Garrison |
+| [Pigeon Island](../../../countries/LC/sights/pigeon-island-national-landmark.yaml) | more mural and institutional breadth than Pigeon Island |
+| [Fort Hamilton](../../../countries/VC/sights/fort-hamilton-bequia.yaml) | far larger built scope than Fort Hamilton |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.4 | modernist buildings and monumental murals |
+| Uniqueness | 8.8 | Mexican modern architecture integrated with art |
+| Significance | 8.9 | major educational and architectural heritage |
+| Experience | 8.3 | public campus walks and authorized venues |
+| Depth | 8.4 | multiple linked structures |
+
+- Applicable categories: architecture:9.2,culture:9.0,history:8.9.
+- Overall: 85.85/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial assessment only.
+- Earlier decision: none.
+- Verification still needed: Site-specific access and geographical checks.
+
+## sight-mx-sierra-gorda-franciscan-missions — Franciscan Missions in the Sierra Gorda — 2026-11-25
+
+- YAML: [source](../../../countries/MX/sights/sierra-gorda-franciscan-missions.yaml)
+- Action: new
+- Precise subject: Five mission churches, representative Jalpan; authorized visits only.
+- Location check: 21.218, -99.475; approximate representative public or regional point; not an entrance or surveyed coordinate. Independent verification outstanding.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1079/) — official property reference; heritage identity and scope, not independent verification of ordinary visitor access or GPS. Country list checked 2026-11-25.
+- Missing or uncertain facts: Exact coordinates and independent claim-level visitor evidence.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Hohensalzburg](../../../countries/AT/sights/hohensalzburg-fortress.yaml) | less monumental mass than Hohensalzburg |
+| [Bridgetown Garrison](../../../countries/BB/sights/historic-bridgetown-and-its-garrison.yaml) | different religious art from Garrison |
+| [Pigeon Island](../../../countries/LC/sights/pigeon-island-national-landmark.yaml) | greater sacred architectural depth than Pigeon Island |
+| [Fort Hamilton](../../../countries/VC/sights/fort-hamilton-bequia.yaml) | broader serial ensemble than Fort Hamilton |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.4 | ornate mission facades |
+| Uniqueness | 8.7 | distinct regional religious architectural synthesis |
+| Significance | 8.9 | colonial mission and Indigenous history |
+| Experience | 8.3 | linked church visits |
+| Depth | 8.4 | five dispersed monuments |
+
+- Applicable categories: architecture:9.1,history:9.0,culture:8.9.
+- Overall: 85.60/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial assessment only.
+- Earlier decision: none.
+- Verification still needed: Site-specific access and geographical checks.
+
+## sight-mx-luis-barragan-house — Luis Barragán House and Studio — 2026-11-25
+
+- YAML: [source](../../../countries/MX/sights/luis-barragan-house.yaml)
+- Action: new
+- Precise subject: Architect's house and studio only, reservations and restrictions may apply.
+- Location check: 19.411, -99.192; approximate representative public or regional point; not an entrance or surveyed coordinate. Independent verification outstanding.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1136/) — official property reference; heritage identity and scope, not independent verification of ordinary visitor access or GPS. Country list checked 2026-11-25.
+- Missing or uncertain facts: Exact coordinates and independent claim-level visitor evidence.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Hohensalzburg](../../../countries/AT/sights/hohensalzburg-fortress.yaml) | less monumental scale than Hohensalzburg |
+| [Bridgetown Garrison](../../../countries/BB/sights/historic-bridgetown-and-its-garrison.yaml) | more concentrated modern design than Garrison |
+| [Pigeon Island](../../../countries/LC/sights/pigeon-island-national-landmark.yaml) | less landscape breadth than Pigeon Island |
+| [Fort Hamilton](../../../countries/VC/sights/fort-hamilton-bequia.yaml) | more interior design significance than Fort Hamilton |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.4 | carefully composed spaces and light |
+| Uniqueness | 9.0 | distinct modern architectural language |
+| Significance | 9.1 | international architectural legacy |
+| Experience | 8.3 | interpreted house visit |
+| Depth | 7.3 | single domestic complex |
+
+- Applicable categories: architecture:9.3,culture:8.8,photography:8.8.
+- Overall: 85.65/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial assessment only.
+- Earlier decision: none.
+- Verification still needed: Site-specific access and geographical checks.
+
+## sight-mx-sierra-de-san-francisco-rock-paintings — Rock Paintings of the Sierra de San Francisco — 2026-11-25
+
+- YAML: [source](../../../countries/MX/sights/sierra-de-san-francisco-rock-paintings.yaml)
+- Action: new
+- Precise subject: Regional public landscape reference; authorized guided rock-art visits only; not individual shelter coordinates.
+- Location check: 27.65, -113.05; approximate representative public or regional point; not an entrance or surveyed coordinate. Independent verification outstanding.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/714/) — official property reference; heritage identity and scope, not independent verification of ordinary visitor access or GPS. Country list checked 2026-11-25.
+- Missing or uncertain facts: Exact coordinates and independent claim-level visitor evidence.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Angkor Wat](../../../countries/KH/sights/angkor-wat.yaml) | less built monumentality than Angkor Wat |
+| [Machu Picchu](../../../countries/PE/sights/historic-sanctuary-of-machu-picchu.yaml) | different art and canyon experience from Machu Picchu |
+| [Caracol](../../../countries/BZ/sights/caracol-archaeological-reserve.yaml) | less urban masonry than Caracol |
+| [Layou](../../../countries/VC/sights/layou-petroglyph-park.yaml) | broader rock-art context than Layou |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.7 | large paintings and remote canyon context |
+| Uniqueness | 9.1 | distinct large-scale prehistoric pictographs |
+| Significance | 9.3 | important ancient art heritage |
+| Experience | 8.2 | authorized guided interpretation |
+| Depth | 8.3 | multiple shelters with access limitations |
+
+- Applicable categories: history:9.4,culture:9.2,adventure:8.8.
+- Overall: 88.05/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial assessment only.
+- Earlier decision: none.
+- Verification still needed: Site-specific access and geographical checks.
+
+## sight-mx-el-pinacate-gran-desierto — El Pinacate and Gran Desierto de Altar Biosphere Reserve — 2026-11-25
+
+- YAML: [source](../../../countries/MX/sights/el-pinacate-gran-desierto.yaml)
+- Action: new
+- Precise subject: Protected volcanic and dune landscape; ordinary authorized routes only.
+- Location check: 31.77, -113.38; approximate representative public or regional point; not an entrance or surveyed coordinate. Independent verification outstanding.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1410/) — official property reference; heritage identity and scope, not independent verification of ordinary visitor access or GPS. Country list checked 2026-11-25.
+- Missing or uncertain facts: Exact coordinates and independent claim-level visitor evidence.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Torres del Paine](../../../countries/CL/sights/torres-del-paine-national-park.yaml) | less alpine scenery than Torres del Paine |
+| [Great Blue Hole](../../../countries/BZ/sights/blue-hole-natural-monument-great-blue-hole.yaml) | different terrestrial geology from Great Blue Hole |
+| [Pitch Lake](../../../countries/TT/sights/la-brea-pitch-lake.yaml) | vastly larger than Pitch Lake |
+| [Sulphur Springs](../../../countries/LC/sights/sulphur-springs.yaml) | more landscape breadth than Sulphur Springs |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 9.0 | volcanic craters and vast dunes |
+| Uniqueness | 9.1 | rare combined volcanic desert landscape |
+| Significance | 9.1 | major desert geological heritage |
+| Experience | 8.5 | permitted scenic and interpreted routes |
+| Depth | 8.7 | varied craters and dune areas |
+
+- Applicable categories: nature:9.3,photography:9.3,adventure:8.9.
+- Overall: 89.40/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial assessment only.
+- Earlier decision: none.
+- Verification still needed: Site-specific access and geographical checks.
+
+## sight-mx-tehuacan-cuicatlan-valley — Tehuacán-Cuicatlán Valley — 2026-11-25
+
+- YAML: [source](../../../countries/MX/sights/tehuacan-cuicatlan-valley.yaml)
+- Action: new
+- Precise subject: Inscribed valley with permitted nature and interpretation routes; regional representative point.
+- Location check: 18.18, -97.15; approximate representative public or regional point; not an entrance or surveyed coordinate. Independent verification outstanding.
+- Evidence status: **source-linked-unverified**
+- Evidence: [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1534/) — official property reference; heritage identity and scope, not independent verification of ordinary visitor access or GPS. Country list checked 2026-11-25.
+- Missing or uncertain facts: Exact coordinates and independent claim-level visitor evidence.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Torres del Paine](../../../countries/CL/sights/torres-del-paine-national-park.yaml) | less alpine drama than Torres del Paine |
+| [Cockscomb](../../../countries/BZ/sights/cockscomb-basin-wildlife-sanctuary.yaml) | different arid ecology from Cockscomb |
+| [Main Ridge](../../../countries/TT/sights/tobago-main-ridge-forest-reserve.yaml) | more desert diversity than Main Ridge |
+| [Des Cartiers](../../../countries/LC/sights/des-cartiers-rainforest-trail.yaml) | larger landscape than Des Cartiers |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.6 | arid cactus landscape |
+| Uniqueness | 9.0 | distinct cactus diversity and long human use |
+| Significance | 9.2 | major ecological and agricultural history |
+| Experience | 8.3 | guided landscape interpretation |
+| Depth | 8.5 | multiple landscape areas |
+
+- Applicable categories: nature:9.2,history:9.1,culture:8.9.
+- Overall: 87.65/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Provisional editorial assessment only.
+- Earlier decision: none.
+- Verification still needed: Site-specific access and geographical checks.
+
+## sight-mx-camino-real-tierra-adentro — Camino Real de Tierra Adentro — 2026-11-25
+
+- YAML: [source](../../../countries/MX/sights/camino-real-tierra-adentro.yaml)
+- Action: new
+- Precise subject: Dispersed historic route, reference at Zacatecas, not an entrance.
+- Location check: 22.77, -102.58; approximate representative public or regional point; not an entrance or surveyed coordinate. Independent verification outstanding.
+- Evidence status: **unassessed**
+- Evidence: [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1351/) — official property reference; heritage identity and scope, not independent verification of ordinary visitor access or GPS. Country list checked 2026-11-25.
+- Missing or uncertain facts: Ordinary permitted experience, precise component scope and condition.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Hohensalzburg](../../../countries/AT/sights/hohensalzburg-fortress.yaml) | No comparable documented ordinary visitor circuit to Hohensalzburg; heritage identity alone does not establish the score. |
+| [Bridgetown Garrison](../../../countries/BB/sights/historic-bridgetown-and-its-garrison.yaml) | No comparable documented ordinary visitor circuit to Bridgetown Garrison; heritage identity alone does not establish the score. |
+| [Pigeon Island](../../../countries/LC/sights/pigeon-island-national-landmark.yaml) | No comparable documented ordinary visitor circuit to Pigeon Island; heritage identity alone does not establish the score. |
+| [Fort Hamilton](../../../countries/VC/sights/fort-hamilton-bequia.yaml) | No comparable documented ordinary visitor circuit to Fort Hamilton; heritage identity alone does not establish the score. |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | null | combined visible condition not verified |
+| Uniqueness | null | historic silver trade route |
+| Significance | null | major colonial transport heritage |
+| Experience | null | ordinary complete itinerary unclear |
+| Depth | null | serial visitor breadth undefined |
+
+- Applicable categories: unassessed.
+- Overall: unranked.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Keep unranked pending ordinary visitor evidence.
+- Earlier decision: none.
+- Verification still needed: Site-specific access and geographical checks.
+
+## sight-mx-popocatepetl-monasteries — Earliest 16th-Century Monasteries on the Slopes of Popocatepetl — 2026-11-25
+
+- YAML: [source](../../../countries/MX/sights/popocatepetl-monasteries.yaml)
+- Action: new
+- Precise subject: Serial monasteries, broad Morelos regional reference; exact component access and earthquake restoration uncertain.
+- Location check: 18.93, -98.94; approximate representative public or regional point; not an entrance or surveyed coordinate. Independent verification outstanding.
+- Evidence status: **unassessed**
+- Evidence: [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/702/) — official property reference; heritage identity and scope, not independent verification of ordinary visitor access or GPS. Country list checked 2026-11-25.
+- Missing or uncertain facts: Ordinary permitted experience, precise component scope and condition.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Hohensalzburg](../../../countries/AT/sights/hohensalzburg-fortress.yaml) | No comparable documented ordinary visitor circuit to Hohensalzburg; heritage identity alone does not establish the score. |
+| [Bridgetown Garrison](../../../countries/BB/sights/historic-bridgetown-and-its-garrison.yaml) | No comparable documented ordinary visitor circuit to Bridgetown Garrison; heritage identity alone does not establish the score. |
+| [Pigeon Island](../../../countries/LC/sights/pigeon-island-national-landmark.yaml) | No comparable documented ordinary visitor circuit to Pigeon Island; heritage identity alone does not establish the score. |
+| [Fort Hamilton](../../../countries/VC/sights/fort-hamilton-bequia.yaml) | No comparable documented ordinary visitor circuit to Fort Hamilton; heritage identity alone does not establish the score. |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | null | combined visible condition unresolved |
+| Uniqueness | null | early mission monastic architecture |
+| Significance | null | colonial religious heritage |
+| Experience | null | component access varies |
+| Depth | null | whole ensemble route not established |
+
+- Applicable categories: unassessed.
+- Overall: unranked.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Keep unranked pending ordinary visitor evidence.
+- Earlier decision: none.
+- Verification still needed: Site-specific access and geographical checks.
+
+## sight-mx-yagul-mitla-prehistoric-caves — Prehistoric Caves of Yagul and Mitla — 2026-11-25
+
+- YAML: [source](../../../countries/MX/sights/yagul-mitla-prehistoric-caves.yaml)
+- Action: new
+- Precise subject: Regional valley reference, not cave entrance; original archaeological evidence not assumed visible.
+- Location check: 16.96, -96.38; approximate representative public or regional point; not an entrance or surveyed coordinate. Independent verification outstanding.
+- Evidence status: **unassessed**
+- Evidence: [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1352/) — official property reference; heritage identity and scope, not independent verification of ordinary visitor access or GPS. Country list checked 2026-11-25.
+- Missing or uncertain facts: Ordinary permitted experience, precise component scope and condition.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Angkor Wat](../../../countries/KH/sights/angkor-wat.yaml) | No comparable documented ordinary visitor circuit to Angkor Wat; heritage identity alone does not establish the score. |
+| [Machu Picchu](../../../countries/PE/sights/historic-sanctuary-of-machu-picchu.yaml) | No comparable documented ordinary visitor circuit to Machu Picchu; heritage identity alone does not establish the score. |
+| [Caracol](../../../countries/BZ/sights/caracol-archaeological-reserve.yaml) | No comparable documented ordinary visitor circuit to Caracol; heritage identity alone does not establish the score. |
+| [Layou](../../../countries/VC/sights/layou-petroglyph-park.yaml) | No comparable documented ordinary visitor circuit to Layou; heritage identity alone does not establish the score. |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | null | visible original deposits uncertain |
+| Uniqueness | null | early agricultural archaeological context |
+| Significance | null | major domestication history |
+| Experience | null | ordinary access unclear |
+| Depth | null | coherent cave visit not established |
+
+- Applicable categories: unassessed.
+- Overall: unranked.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Keep unranked pending ordinary visitor evidence.
+- Earlier decision: none.
+- Verification still needed: Site-specific access and geographical checks.
+
+## sight-mx-revillagigedo-archipelago — Archipiélago de Revillagigedo — 2026-11-25
+
+- YAML: [source](../../../countries/MX/sights/revillagigedo-archipelago.yaml)
+- Action: new
+- Precise subject: Broad marine island reference, not an anchorage; specialist permitted visits only.
+- Location check: 18.8, -110.95; approximate representative public or regional point; not an entrance or surveyed coordinate. Independent verification outstanding.
+- Evidence status: **unassessed**
+- Evidence: [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1510/) — official property reference; heritage identity and scope, not independent verification of ordinary visitor access or GPS. Country list checked 2026-11-25.
+- Missing or uncertain facts: Ordinary permitted experience, precise component scope and condition.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Torres del Paine](../../../countries/CL/sights/torres-del-paine-national-park.yaml) | No comparable documented ordinary visitor circuit to Torres del Paine; heritage identity alone does not establish the score. |
+| [Great Blue Hole](../../../countries/BZ/sights/blue-hole-natural-monument-great-blue-hole.yaml) | No comparable documented ordinary visitor circuit to Great Blue Hole; heritage identity alone does not establish the score. |
+| [Pitch Lake](../../../countries/TT/sights/la-brea-pitch-lake.yaml) | No comparable documented ordinary visitor circuit to Pitch Lake; heritage identity alone does not establish the score. |
+| [Sulphur Springs](../../../countries/LC/sights/sulphur-springs.yaml) | No comparable documented ordinary visitor circuit to Sulphur Springs; heritage identity alone does not establish the score. |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | null | ordinary visible scope uncertain |
+| Uniqueness | null | remote volcanic islands and marine habitats |
+| Significance | null | major oceanic conservation |
+| Experience | null | ordinary access and permissions unresolved |
+| Depth | null | coherent visit not verified |
+
+- Applicable categories: unassessed.
+- Overall: unranked.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Keep unranked pending ordinary visitor evidence.
+- Earlier decision: none.
+- Verification still needed: Site-specific access and geographical checks.
+
+## sight-mx-gulf-of-california-protected-areas — Islands and Protected Areas of the Gulf of California — 2026-11-25
+
+- YAML: [source](../../../countries/MX/sights/gulf-of-california-protected-areas.yaml)
+- Action: new
+- Precise subject: Large serial marine property; broad regional point not a navigation coordinate.
+- Location check: 26.0, -111.0; approximate representative public or regional point; not an entrance or surveyed coordinate. Independent verification outstanding.
+- Evidence status: **unassessed**
+- Evidence: [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1182/) — official property reference; heritage identity and scope, not independent verification of ordinary visitor access or GPS. Country list checked 2026-11-25.
+- Missing or uncertain facts: Ordinary permitted experience, precise component scope and condition.
+
+### Worldwide peers
+| Peer | Relative comparison |
+| --- | --- |
+| [Torres del Paine](../../../countries/CL/sights/torres-del-paine-national-park.yaml) | No comparable documented ordinary visitor circuit to Torres del Paine; heritage identity alone does not establish the score. |
+| [Cockscomb](../../../countries/BZ/sights/cockscomb-basin-wildlife-sanctuary.yaml) | No comparable documented ordinary visitor circuit to Cockscomb; heritage identity alone does not establish the score. |
+| [Main Ridge](../../../countries/TT/sights/tobago-main-ridge-forest-reserve.yaml) | No comparable documented ordinary visitor circuit to Main Ridge; heritage identity alone does not establish the score. |
+| [Des Cartiers](../../../countries/LC/sights/des-cartiers-rainforest-trail.yaml) | No comparable documented ordinary visitor circuit to Des Cartiers; heritage identity alone does not establish the score. |
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | null | combined scenic scope unknown |
+| Uniqueness | null | diverse island and marine environments |
+| Significance | null | international ecological significance |
+| Experience | null | component access varies |
+| Depth | null | no single ordinary visitor circuit |
+
+- Applicable categories: unassessed.
+- Overall: unranked.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: Keep unranked pending ordinary visitor evidence.
+- Earlier decision: none.
+- Verification still needed: Site-specific access and geographical checks.
+
+### Coverage update (2026-11-25)
+13 additional inscribed properties are represented, including five unranked broad or restricted properties. The sacred Wixárika route is intentionally tracked as an official [inscribed property](https://whc.unesco.org/en/list/1704/) without coordinates or a visitor score; community permission and scope require further research. This supersedes the original 14-property gap count: 35/36 now represented in YAML, one documented without a pin. Tentative and serial component expansion remains outstanding.
