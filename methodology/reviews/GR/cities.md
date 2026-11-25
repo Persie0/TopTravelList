@@ -9,8 +9,8 @@
 - Action: new
 - Precise subject: Athens; Multiple independent districts excluding Cape Sounion.
 - Location check: 37.9838, 23.7275; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Discover Greece](https://www.discovergreece.com/destinations) — consulted 2026-11-25 for broad tourism context only; independent material-claim and current visitor-condition verification outstanding.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.visitgreece.gr/en/mainland/Attika/athens — National tourism authority documents varied historic neighborhoods and cultural institutions. Reviewed 2026-11-25; partial source evidence, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
 
 #### Worldwide peer comparisons
@@ -45,8 +45,8 @@
 - Action: new
 - Precise subject: Thessaloniki; Multiple urban districts.
 - Location check: 40.6401, 22.9444; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Discover Greece](https://www.discovergreece.com/destinations) — consulted 2026-11-25 for broad tourism context only; independent material-claim and current visitor-condition verification outstanding.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.visitgreece.gr/en/islands/central-macedonia/thessaloniki — National tourism profile identifies Byzantine monuments, waterfront and urban culture. Reviewed 2026-11-25; partial source evidence, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
 
 #### Worldwide peer comparisons
@@ -153,8 +153,8 @@
 - Action: new
 - Precise subject: Chania; Town not Samaria or western Crete.
 - Location check: 35.5138, 24.018; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Discover Greece](https://www.discovergreece.com/destinations) — consulted 2026-11-25 for broad tourism context only; independent material-claim and current visitor-condition verification outstanding.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.visitgreece.gr/en/mainland/crete — Regional tourism profile identifies Chania's historic town; surrounding beaches and mountains excluded. Reviewed 2026-11-25; partial source evidence, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
 
 #### Worldwide peer comparisons
@@ -189,8 +189,8 @@
 - Action: new
 - Precise subject: Nafplio; Town excludes Mycenae and Epidaurus.
 - Location check: 37.5673, 22.8016; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Discover Greece](https://www.discovergreece.com/destinations) — consulted 2026-11-25 for broad tourism context only; independent material-claim and current visitor-condition verification outstanding.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.visitgreece.gr/en/islands/Peloponnese/Nafplio — National tourism profile documents historical neighborhoods and fortifications. Reviewed 2026-11-25; partial source evidence, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
 
 #### Worldwide peer comparisons
@@ -225,8 +225,8 @@
 - Action: new
 - Precise subject: Oia; Village not whole caldera or island.
 - Location check: 36.4618, 25.3753; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Discover Greece](https://www.discovergreece.com/destinations) — consulted 2026-11-25 for broad tourism context only; independent material-claim and current visitor-condition verification outstanding.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.visitgreece.gr/en/islands/Cyclades/santorini — Official profile identifies Oia as historic settlement; https://www.visitgreece.gr/en/experiences/culture/archaeological-sites-monuments/museums-on-santorini documents maritime museum. Reviewed 2026-11-25; partial source evidence, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
 
 #### Worldwide peer comparisons
@@ -261,8 +261,8 @@
 - Action: new
 - Precise subject: Fira; Town not whole Santorini.
 - Location check: 36.4197, 25.4316; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: No destination-specific source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.visitgreece.gr/en/experiences/culture/archaeological-sites-monuments/museums-on-santorini — Official profile identifies Museum of Prehistoric Thera; whole caldera excluded. Reviewed 2026-11-25; partial source evidence, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
 
 #### Worldwide peer comparisons
@@ -297,8 +297,8 @@
 - Action: new
 - Precise subject: Rethymno; Town not surrounding Crete.
 - Location check: 35.369, 24.473; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: No destination-specific source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.visitgreece.gr/en/mainland/crete — Regional tourism profile identifies preserved medieval town and Fortezza. Reviewed 2026-11-25; partial source evidence, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
 
 #### Worldwide peer comparisons
@@ -333,8 +333,8 @@
 - Action: new
 - Precise subject: Heraklion; Exclude Knossos archaeological site.
 - Location check: 35.3387, 25.1442; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Discover Greece](https://www.discovergreece.com/destinations) — consulted 2026-11-25 for broad tourism context only; independent material-claim and current visitor-condition verification outstanding.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.visitgreece.gr/inspirations/city-breaks — National tourism profile identifies Byzantine, Venetian and Ottoman structures; external Knossos excluded. Reviewed 2026-11-25; partial source evidence, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
 
 #### Worldwide peer comparisons
@@ -369,8 +369,8 @@
 - Action: new
 - Precise subject: Mykonos Town; Town not all island beaches.
 - Location check: 37.4467, 25.3289; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Discover Greece](https://www.discovergreece.com/destinations) — consulted 2026-11-25 for broad tourism context only; independent material-claim and current visitor-condition verification outstanding.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.visitgreece.gr/en/mainland/islands/mykonos — National tourism profile identifies whitewashed town streets and windmills. Reviewed 2026-11-25; partial source evidence, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
 
 #### Worldwide peer comparisons
@@ -405,8 +405,8 @@
 - Action: new
 - Precise subject: Naxos Town; Town excludes remote island villages.
 - Location check: 37.104, 25.376; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: No destination-specific source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.visitgreece.gr/en/mainland/Cyclades/naxos — National tourism profile describes Venetian town houses, narrow streets and fortifications. Reviewed 2026-11-25; partial source evidence, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
 
 #### Worldwide peer comparisons
@@ -441,8 +441,8 @@
 - Action: new
 - Precise subject: Monemvasia; Compact historic town only.
 - Location check: 36.687, 23.055; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: No destination-specific source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.visitgreece.gr/en/routes/monemvasia-experience-a-medieval-fairy-tale-of-your-very-own — Official walking itinerary documents historic cobbled streets and churches. Reviewed 2026-11-25; partial source evidence, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
 
 #### Worldwide peer comparisons
@@ -477,8 +477,8 @@
 - Action: new
 - Precise subject: Ioannina; City excludes Zagori.
 - Location check: 39.665, 20.854; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: No destination-specific source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.visitgreece.gr/en/islands/Epiro/Ioannina — National tourism profile documents city history, crafts and local culture. Reviewed 2026-11-25; partial source evidence, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
 
 #### Worldwide peer comparisons
@@ -513,8 +513,8 @@
 - Action: new
 - Precise subject: Kavala; Exclude Philippi.
 - Location check: 40.937, 24.412; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: No destination-specific source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.visitgreece.gr/en/mainland/macedonia — Regional national tourism profile identifies old town of Panagia; external Philippi excluded. Reviewed 2026-11-25; partial source evidence, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
 
 #### Worldwide peer comparisons
@@ -549,8 +549,8 @@
 - Action: new
 - Precise subject: Ermoupoli; Town not all Syros.
 - Location check: 37.445, 24.943; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: No destination-specific source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.visitgreece.gr/en/mainland/islands/syros — Official profile identifies urban arts festivals; https://www.visitgreece.gr/en/mainland/Cyclades documents neoclassical buildings. Reviewed 2026-11-25; partial source evidence, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
 
 #### Worldwide peer comparisons
@@ -585,8 +585,8 @@
 - Action: new
 - Precise subject: Metsovo; Town excludes Pindos trails.
 - Location check: 39.77, 21.182; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: No destination-specific source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.visitgreece.gr/en/islands/ionian-islands/metsovo — National tourism destination profile identifies mountain settlement and local cultural context. Reviewed 2026-11-25; partial source evidence, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
 
 #### Worldwide peer comparisons
@@ -621,8 +621,8 @@
 - Action: new
 - Precise subject: Kalambaka; Exclude Meteora monasteries and rock trails.
 - Location check: 39.706, 21.627; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: No destination-specific source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.visitgreece.gr/en/islands/thessaly/kalabaka — National tourism profile identifies town; https://www.visitgreece.gr/en/mainland/thessaly identifies Byzantine church; Meteora monasteries separately ranked. Reviewed 2026-11-25; partial source evidence, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
 
 #### Worldwide peer comparisons

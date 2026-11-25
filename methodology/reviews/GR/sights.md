@@ -326,6 +326,7 @@
 - Location check: 35.2972, 25.1625; approximate representative point, independent verification pending.
 - Evidence status: **unassessed**
 - Evidence: [UNESCO](https://whc.unesco.org/en/list/1733/) — consulted 2026-11-25 for six-component Minoan property and reconstruction caveat; independent material-claim and current visitor-condition verification outstanding.
+- Supplemental evidence (2026-11-25): https://www.hh.gr/en/destinations/zominthos/ — Previously missing Zominthos visitor access confirmed, and https://www.hh.gr/en/destinations/kydonia/ confirms Kydonia access. Keep grouped record unassessed pending separately calibrated six-site scope; no automatic aggregate from individual scores.
 - Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
 
 #### Worldwide peer comparisons
@@ -349,7 +350,7 @@
 - Computed worldwide overall: unranked.
 - High-score challenge: significance 9.5: International Minoan cultural heritage; history 9.6: International Minoan cultural heritage. Compare Angkor and Ayutthaya: this original archaeological evidence and defined site breadth support the stated field, without inheriting the full scope of a global monumental park..
 - Approved 10 registry: none.
-- Final decision: Unranked pending documented visitor scope.
+- Final decision: grouped property remains unranked pending distinct six-site itinerary calibration; individual components now ranked.
 - Earlier decision: none.
 - Verification still needed: independent factual evidence, admission and closer peer matching.
 
@@ -711,6 +712,7 @@
 - Location check: 40.085, 22.35; approximate representative point, independent verification pending.
 - Evidence status: **source-linked-unverified**
 - Evidence: [UNESCO](https://whc.unesco.org/en/list/1719/) — consulted 2026-11-25 for 2026 property identity; independent material-claim and current visitor-condition verification outstanding.
+- Supplemental evidence (2026-11-25): https://whc.unesco.org/en/list/1719/ — Official inscription confirms 2026 wider area designation; https://whc.unesco.org/en/list/1719/maps/ identifies property map. Do not conflate all summit routes with unrestricted visitor access.
 - Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
 
 #### Worldwide peer comparisons
@@ -779,17 +781,18 @@
 - Action: new
 - Precise subject: Dadia Lefkimi Souflion National Park; Defined national park.
 - Location check: 41.13, 26.18; approximate representative point, independent verification pending.
-- Evidence status: **unassessed**
+- Evidence status: **source-linked-unverified**
 - Evidence: [UNESCO](https://whc.unesco.org/en/statesparties/gr) — consulted 2026-11-25 for property identity and listed status; independent material-claim and current visitor-condition verification outstanding.
+- Supplemental evidence (2026-11-25): https://necca.gov.gr/en/mdpp/management-unit-of-evros-delta-and-dadia-national-parks-and-protected-areas-of-eastern-thrace/ — Conservation authority confirms information centre and scheduled minibus visits to raptor observatory, subject to fire and heat restrictions. https://dadia-np.gr/?lang=en&page_id=4300 describes trails; current post-fire trail availability not guaranteed.
 - Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
 
 #### Worldwide peer comparisons
 | Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
 | --- | --- | --- |
-| [Jiuzhaigou (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) (9.8 / 9.7 / 9.4 / 9.8 / 9.1) | world-leading natural landscape | Uniqueness lower: Distinct southeastern European forest ecosystem; depth unassessed: Defined national park. Provisional comparison. |
-| [Hohe Tauern (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) (9.4 / 9.1 / 9 / 9.5 / 9.4) | extensive mountain landscape | Uniqueness lower: Distinct southeastern European forest ecosystem; depth unassessed: Defined national park. Provisional comparison. |
-| [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (8.9 / 9 / 9 / 9.1 / 8.6) | protected habitat | Uniqueness lower: Distinct southeastern European forest ecosystem; depth unassessed: Defined national park. Provisional comparison. |
-| [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional natural park | Uniqueness lower: Distinct southeastern European forest ecosystem; depth unassessed: Defined national park. Provisional comparison. |
+| [Jiuzhaigou (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) (9.8 / 9.7 / 9.4 / 9.8 / 9.1) | world-leading natural landscape | Uniqueness lower: Distinct southeastern European forest ecosystem; depth lower: Defined national park. Provisional comparison. |
+| [Hohe Tauern (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) (9.4 / 9.1 / 9 / 9.5 / 9.4) | extensive mountain landscape | Uniqueness lower: Distinct southeastern European forest ecosystem; depth lower: Defined national park. Provisional comparison. |
+| [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml) (8.9 / 9 / 9 / 9.1 / 8.6) | protected habitat | Uniqueness lower: Distinct southeastern European forest ecosystem; depth lower: Defined national park. Provisional comparison. |
+| [Soomaa (EE)](../../../countries/EE/sights/soomaa-national-park.yaml) (8.6 / 9.1 / 8.5 / 8.9 / 8.6) | regional natural park | Uniqueness lower: Distinct southeastern European forest ecosystem; depth lower: Defined national park. Provisional comparison. |
 
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
@@ -797,14 +800,14 @@
 | impact | — | 8.4 | Woodland and raptor habitat |
 | uniqueness | — | 8.9 | Distinct southeastern European forest ecosystem |
 | significance | — | 8.9 | International bird conservation interest |
-| experience | — | null | Current post-fire visitor extent not verified |
-| depth | — | null | Defined national park |
+| experience | — | 8.4 | Scheduled observatory transport and interpretation subject to weather and fire restrictions |
+| depth | — | 8.3 | Visitor centre and observatory plus designated trails where confirmed open |
 
 - Applicable category scores: nature: 9.1, wildlife: 9.4.
-- Computed worldwide overall: unranked.
+- Computed worldwide overall: 86.15/100.
 - High-score challenge: Not applicable.
 - Approved 10 registry: none.
-- Final decision: Unranked pending documented visitor scope.
+- Final decision: provisional 86.15 for the documented ordinary visitor scope, with unverified areas excluded.
 - Earlier decision: none.
 - Verification still needed: independent factual evidence, admission and closer peer matching.
 
@@ -1269,32 +1272,33 @@
 - Action: new
 - Precise subject: Zominthos archaeological site; One listed component.
 - Location check: 35.248611, 24.887222; [UNESCO published component coordinates](https://whc.unesco.org/en/list/1733/maps/) converted from DMS, representative point not entrance.
-- Evidence status: **unassessed**
+- Evidence status: **source-linked-unverified**
 - Evidence: [UNESCO](https://whc.unesco.org/en/list/1733/) — consulted 2026-11-25 for six-component Minoan property and reconstruction caveat; independent material-claim and current visitor-condition verification outstanding. [Component table](https://whc.unesco.org/en/list/1733/maps/) establishes identity and coordinates.
+- Supplemental evidence (2026-11-25): https://www.hh.gr/en/destinations/zominthos/ — Official heritage operator confirms seasonal opening and winter appointment access, excavated complex of at least 70 rooms; not all rooms presumed accessible.
 - Missing or uncertain facts: current ordinary access and individual factual corroboration; closer same-type peers.
 
 #### Worldwide peer comparisons
 | Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
 | --- | --- | --- |
-| [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) (10 / 10 / 10 / 9.8 / 10) | global ancient monumental ensemble | Uniqueness lower: Distinct high-altitude Minoan complex; depth unassessed: One listed component. Provisional comparison. |
-| [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) (9.6 / 9.5 / 9.8 / 9.4 / 9.5) | ancient royal-city ruins | Uniqueness lower: Distinct high-altitude Minoan complex; depth unassessed: One listed component. Provisional comparison. |
-| [Gyeongju Historic Areas (KR)](../../../countries/KR/sights/gyeongju-historic-areas.yaml) (9.5 / 9.6 / 9.8 / 9.5 / 9.8) | extensive archaeological heritage | Uniqueness lower: Distinct high-altitude Minoan complex; depth unassessed: One listed component. Provisional comparison. |
-| [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | smaller historic complex, scope floor | Uniqueness higher: Distinct high-altitude Minoan complex; depth unassessed: One listed component. Provisional comparison. |
+| [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) (10 / 10 / 10 / 9.8 / 10) | global ancient monumental ensemble | Uniqueness lower: Distinct high-altitude Minoan complex; depth lower: One listed component. Provisional comparison. |
+| [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) (9.6 / 9.5 / 9.8 / 9.4 / 9.5) | ancient royal-city ruins | Uniqueness lower: Distinct high-altitude Minoan complex; depth lower: One listed component. Provisional comparison. |
+| [Gyeongju Historic Areas (KR)](../../../countries/KR/sights/gyeongju-historic-areas.yaml) (9.5 / 9.6 / 9.8 / 9.5 / 9.8) | extensive archaeological heritage | Uniqueness lower: Distinct high-altitude Minoan complex; depth lower: One listed component. Provisional comparison. |
+| [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | smaller historic complex, scope floor | Uniqueness higher: Distinct high-altitude Minoan complex; depth lower: One listed component. Provisional comparison. |
 
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | null | Ordinary visitor impact unverified |
+| impact | — | 8.4 | Excavated mountain palace remains with visible architectural plan |
 | uniqueness | — | 9.0 | Distinct high-altitude Minoan complex |
 | significance | — | 9.2 | International Bronze Age cultural heritage |
-| experience | — | null | Regular permitted visitor scope unresolved |
-| depth | — | null | One listed component |
+| experience | — | 8.2 | Published seasonal visitor hours and winter appointments |
+| depth | — | 7.7 | One bounded excavated complex, not all rooms or nearby Idaean Cave |
 
 - Applicable category scores: history: 9.3.
-- Computed worldwide overall: unranked.
+- Computed worldwide overall: 86.10/100.
 - High-score challenge: Not applicable.
 - Approved 10 registry: none.
-- Final decision: Unranked pending documented visitor scope.
+- Final decision: provisional 86.10 for the documented ordinary visitor scope, with unverified areas excluded.
 - Earlier decision: none.
 - Verification still needed: independent factual evidence, admission and closer peer matching.
 
@@ -1304,32 +1308,33 @@
 - Action: new
 - Precise subject: Kydonia archaeological site; One listed component not all Chania.
 - Location check: 35.517222, 24.019722; [UNESCO published component coordinates](https://whc.unesco.org/en/list/1733/maps/) converted from DMS, representative point not entrance.
-- Evidence status: **unassessed**
+- Evidence status: **source-linked-unverified**
 - Evidence: [UNESCO](https://whc.unesco.org/en/list/1733/) — consulted 2026-11-25 for six-component Minoan property and reconstruction caveat; independent material-claim and current visitor-condition verification outstanding. [Component table](https://whc.unesco.org/en/list/1733/maps/) establishes identity and coordinates.
+- Supplemental evidence (2026-11-25): https://www.hh.gr/en/destinations/kydonia/ — Official heritage operator confirms free access and partially excavated remains on Castelli Hill; buried sections and separately located museum excluded.
 - Missing or uncertain facts: current ordinary access and individual factual corroboration; closer same-type peers.
 
 #### Worldwide peer comparisons
 | Peer destination (country), I/U/S/E/D | Why comparable | Relative strengths / weaknesses |
 | --- | --- | --- |
-| [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) (10 / 10 / 10 / 9.8 / 10) | global ancient monumental ensemble | Uniqueness lower: Distinct Minoan settlement evidence beneath Chania; depth unassessed: One listed component not all Chania. Provisional comparison. |
-| [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) (9.6 / 9.5 / 9.8 / 9.4 / 9.5) | ancient royal-city ruins | Uniqueness lower: Distinct Minoan settlement evidence beneath Chania; depth unassessed: One listed component not all Chania. Provisional comparison. |
-| [Gyeongju Historic Areas (KR)](../../../countries/KR/sights/gyeongju-historic-areas.yaml) (9.5 / 9.6 / 9.8 / 9.5 / 9.8) | extensive archaeological heritage | Uniqueness lower: Distinct Minoan settlement evidence beneath Chania; depth unassessed: One listed component not all Chania. Provisional comparison. |
-| [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | smaller historic complex, scope floor | Uniqueness higher: Distinct Minoan settlement evidence beneath Chania; depth unassessed: One listed component not all Chania. Provisional comparison. |
+| [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) (10 / 10 / 10 / 9.8 / 10) | global ancient monumental ensemble | Uniqueness lower: Distinct Minoan settlement evidence beneath Chania; depth lower: One listed component not all Chania. Provisional comparison. |
+| [Ayutthaya Historical Park (TH)](../../../countries/TH/sights/ayutthaya-historical-park.yaml) (9.6 / 9.5 / 9.8 / 9.4 / 9.5) | ancient royal-city ruins | Uniqueness lower: Distinct Minoan settlement evidence beneath Chania; depth lower: One listed component not all Chania. Provisional comparison. |
+| [Gyeongju Historic Areas (KR)](../../../countries/KR/sights/gyeongju-historic-areas.yaml) (9.5 / 9.6 / 9.8 / 9.5 / 9.8) | extensive archaeological heritage | Uniqueness lower: Distinct Minoan settlement evidence beneath Chania; depth lower: One listed component not all Chania. Provisional comparison. |
+| [Kuressaare Fortress (EE)](../../../countries/EE/sights/kuressaare-fortress.yaml) (8.7 / 8.6 / 8.7 / 8.8 / 8.5) | smaller historic complex, scope floor | Uniqueness higher: Distinct Minoan settlement evidence beneath Chania; depth lower: One listed component not all Chania. Provisional comparison. |
 
 #### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
-| impact | — | null | Ordinary visitor impact of urban excavations unverified |
+| impact | — | 7.5 | Limited exposed urban archaeological remains |
 | uniqueness | — | 8.9 | Distinct Minoan settlement evidence beneath Chania |
 | significance | — | 9.2 | International Bronze Age cultural heritage |
-| experience | — | null | Regular combined public excavation access unresolved |
-| depth | — | null | One listed component not all Chania |
+| experience | — | 7.5 | Free public access to visible excavation, not buried areas |
+| depth | — | 6.6 | Small exposed component, separate museum and city excluded |
 
 - Applicable category scores: history: 9.3.
-- Computed worldwide overall: unranked.
+- Computed worldwide overall: 81.00/100.
 - High-score challenge: Not applicable.
 - Approved 10 registry: none.
-- Final decision: Unranked pending documented visitor scope.
+- Final decision: provisional 81.00 for the documented ordinary visitor scope, with unverified areas excluded.
 - Earlier decision: none.
 - Verification still needed: independent factual evidence, admission and closer peer matching.
 
@@ -1829,8 +1834,8 @@
 - Action: new
 - Precise subject: Santorini caldera and volcanic seascape; Caldera landscape not whole island or individual town.
 - Location check: 36.404, 25.395; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Discover Greece](https://www.discovergreece.com/destinations) — consulted 2026-11-25 for broad tourism context only; independent material-claim and current visitor-condition verification outstanding.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.visitgreece.gr/en/experiences/nature/volcanoes/the-volcanoes-of-santorini — Official tourism authority documents volcanic landforms and organized boat visits; https://www.discovergreece.com/experiences/explore-best-hiking-trails-santorini documents caldera paths. Reviewed 2026-11-25; partial source evidence, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
 
 #### Worldwide peer comparisons
@@ -1864,8 +1869,8 @@
 - Action: new
 - Precise subject: Vikos Gorge; Gorge not whole national park.
 - Location check: 39.91, 20.74; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: No destination-specific source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.discovergreece.com/experiences/hiking-spectacular-vikos-gorge-epirus — Tourism profile documents gorge trails and distinct permitted viewpoints. Reviewed 2026-11-25; partial source evidence, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
 
 #### Worldwide peer comparisons
@@ -1899,8 +1904,8 @@
 - Action: new
 - Precise subject: Balos Lagoon; One lagoon.
 - Location check: 35.58, 23.59; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: [Discover Greece](https://www.discovergreece.com/destinations) — consulted 2026-11-25 for broad tourism context only; independent material-claim and current visitor-condition verification outstanding.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.visitgreece.gr/en/experiences/beaches/beloved-beaches/elafonisi-and-balos — Official tourism profile identifies protected lagoon landscape; https://www.discovergreece.com/experiences/prepare-be-mesmerised-cretes-balos-beach describes walking access. Reviewed 2026-11-25; partial source evidence, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
 
 #### Worldwide peer comparisons
@@ -1934,8 +1939,8 @@
 - Action: new
 - Precise subject: Elafonisi coastal lagoon and beach; Immediate beach lagoon only.
 - Location check: 35.27, 23.54; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: No destination-specific source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.visitgreece.gr/en/experiences/beaches/beloved-beaches/elafonisi-and-balos — Official tourism profile documents shallow coastal island and sandbar; protected habitat limits apply. Reviewed 2026-11-25; partial source evidence, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
 
 #### Worldwide peer comparisons
@@ -1969,8 +1974,8 @@
 - Action: new
 - Precise subject: Navagio Bay viewpoints; Viewpoint experience not beach access.
 - Location check: 37.86, 20.62; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: No destination-specific source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.visitgreece.gr/en/experiences/nature/beaches/navagio-beach — Official tourism identifies cliff panorama; https://www.discovergreece.com/experiences/boat-trip-shipwreck-beach-zante-zakynthos states beach access prohibited. https://zakynthos.net/navagio-beach/ reports November 2026 bay restrictions; this secondary report was not independently verified against the original port decision. Score exterior viewpoints only, with no guarantee they are currently open. Reviewed 2026-11-25; partial source evidence, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
 
 #### Worldwide peer comparisons
@@ -2004,8 +2009,8 @@
 - Action: new
 - Precise subject: Acropolis Museum; Museum not archaeological hill.
 - Location check: 37.969, 23.729; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: No destination-specific source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.theacropolismuseum.gr/en/node/793 — Museum operator confirms gallery admission and separately accessible excavation below museum. Reviewed 2026-11-25; partial source evidence, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
 
 #### Worldwide peer comparisons
@@ -2039,8 +2044,8 @@
 - Action: new
 - Precise subject: National Archaeological Museum Athens; Named museum only.
 - Location check: 37.989, 23.732; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: No destination-specific source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.namuseum.gr/en/episkepsi/ — Official museum admission guidance; https://www.hh.gr/en/destinations/national-archaeological-museum/ documents sculpture and prehistoric collections. Reviewed 2026-11-25; partial source evidence, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
 
 #### Worldwide peer comparisons
@@ -2074,8 +2079,8 @@
 - Action: new
 - Precise subject: Akrotiri archaeological site; Named archaeological site.
 - Location check: 36.351, 25.402; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: No destination-specific source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.hh.gr/en/destinations/akrotiri-thera/ — Heritage operator documents sheltered prehistoric excavation and visitor admission. Reviewed 2026-11-25; partial source evidence, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
 
 #### Worldwide peer comparisons
@@ -2109,8 +2114,8 @@
 - Action: new
 - Precise subject: Acropolis of Lindos; Hilltop site not town or beach.
 - Location check: 36.092, 28.088; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: No destination-specific source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.hh.gr/en/destinations/lindos/ — Heritage operator documents ancient acropolis and visitor admission. Reviewed 2026-11-25; partial source evidence, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
 
 #### Worldwide peer comparisons
@@ -2144,8 +2149,8 @@
 - Action: new
 - Precise subject: Temple of Poseidon at Cape Sounion; One temple precinct.
 - Location check: 37.651, 24.025; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: No destination-specific source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.hh.gr/en/destinations/sounion/ — Heritage operator identifies the sanctuary and public visitor scope. Reviewed 2026-11-25; partial source evidence, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
 
 #### Worldwide peer comparisons
@@ -2249,8 +2254,8 @@
 - Action: new
 - Precise subject: Ancient Agora of Athens; Named Agora site.
 - Location check: 37.975, 23.722; approximate representative point, independent verification pending.
-- Evidence status: **editorial-only**
-- Evidence: No destination-specific source inspected; editorial judgment.
+- Evidence status: **source-linked-unverified**
+- Evidence: https://www.hh.gr/en/destinations/ancient-agora-athens/ — Heritage operator documents archaeological area; https://archaeologicalmuseums.gr/en/museum/5df34af3deca5e2d79e8c180/museum-of-ancient-agora confirms site and museum included in admission. Reviewed 2026-11-25; partial source evidence, not full independent claim verification.
 - Missing or uncertain facts: exact GPS, claim-level corroboration and ordinary visitor scope; closer same-type peers.
 
 #### Worldwide peer comparisons
