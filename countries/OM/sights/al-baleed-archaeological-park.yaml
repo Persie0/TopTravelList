@@ -1,0 +1,15 @@
+id: sight-om-al-baleed-archaeological-park
+name: "Al Baleed Archaeological Park"
+location:
+  country_code: OM
+  latitude: 17.009
+  longitude: 54.138
+scores:
+  impact: 8.1
+  uniqueness: 8.3
+  significance: 8.9
+  experience: 8.4
+  depth: 8.1
+  categories:
+    history: 9.1
+    culture: 8.6

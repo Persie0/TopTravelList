@@ -1,0 +1,16 @@
+id: city-om-misfat-al-abriyeen
+name: "Misfat al Abriyeen"
+location:
+  country_code: OM
+  latitude: 23.14
+  longitude: 57.312
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 7.9
+  experience: 8.7
+  depth: 7.5
+  categories:
+    architecture: 9.0
+    culture: 8.6
+    photography: 9.2
