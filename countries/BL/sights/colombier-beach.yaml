@@ -1,0 +1,16 @@
+id: sight-bl-colombier-beach
+name: "Colombier Beach and Bay"
+location:
+  country_code: BL
+  latitude: 17.924
+  longitude: -62.87
+scores:
+  impact: 8.9
+  uniqueness: 8.5
+  significance: 8.1
+  experience: 8.8
+  depth: 7.9
+  categories:
+    beaches: 9.1
+    nature: 8.8
+    photography: 9.0

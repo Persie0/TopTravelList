@@ -148,3 +148,7 @@ Original Finnish reviews archived. Two new villages and eight new sights; Pommer
 ### Mayotte coverage — 2026-11-25
 
 FR generated inventory screened by names and approximate coordinates; no matching parent record identified. Initial coverage: two settlements and ten sights, including eight ranked sights and two unranked heritage sites (MuMa and Tsingoni mosque). No whole marine-park score, no guarantee of post-Chido access or animal sightings. Separate geographic code does not imply a position on sovereignty. Source excerpts and approximate coordinate references checked; full factual and geographic audit remains outstanding.
+
+### Saint Barthélemy coverage — 2026-11-25
+
+No matching FR records identified by name and approximate coordinates in generated inventory. Add two settlements and eight scoped sights. Marine reserve sectors and documented coral heat stress treated separately; no whole marine reserve score or guaranteed pristine reef. Full independent coordinate and cross-registry audit remains outstanding.

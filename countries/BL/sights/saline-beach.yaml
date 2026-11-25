@@ -1,0 +1,16 @@
+id: sight-bl-saline-beach
+name: "Grande Saline Beach"
+location:
+  country_code: BL
+  latitude: 17.881
+  longitude: -62.814
+scores:
+  impact: 8.8
+  uniqueness: 8.2
+  significance: 7.1
+  experience: 8.6
+  depth: 7.4
+  categories:
+    beaches: 9.1
+    photography: 8.9
+    relaxation: 8.9
