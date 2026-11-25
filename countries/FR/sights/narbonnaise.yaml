@@ -1,0 +1,15 @@
+id: sight-fr-narbonnaise
+name: "Ancient towns and territory of Narbonnaise (tentative series)"
+location:
+  country_code: FR
+  latitude: 43.79
+  longitude: 4.36
+scores:
+  impact: 8.9
+  uniqueness: 9.1
+  significance: 9.4
+  experience: null
+  depth: null
+  categories:
+    history: 9.5
+    architecture: 9.3

@@ -1,0 +1,15 @@
+id: sight-fr-notre-dame-paris
+name: "Notre-Dame Cathedral Paris"
+location:
+  country_code: FR
+  latitude: 48.853
+  longitude: 2.35
+scores:
+  impact: 9.3
+  uniqueness: 9.3
+  significance: 9.5
+  experience: 9.0
+  depth: 8.7
+  categories:
+    architecture: 9.6
+    history: 9.6

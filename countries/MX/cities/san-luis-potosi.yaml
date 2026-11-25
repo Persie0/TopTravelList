@@ -1,0 +1,16 @@
+id: city-mx-san-luis-potosi
+name: "San Luis Potosí"
+location:
+  country_code: MX
+  latitude: 22.151258
+  longitude: -100.974544
+scores:
+  impact: 8.4
+  uniqueness: 8.5
+  significance: 8.8
+  experience: 8.4
+  depth: 8.5
+  categories:
+    architecture: 9.1
+    history: 9.1
+    culture: 8.9

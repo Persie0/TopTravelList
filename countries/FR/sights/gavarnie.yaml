@@ -1,0 +1,16 @@
+id: sight-fr-gavarnie
+name: "Cirque de Gavarnie"
+location:
+  country_code: FR
+  latitude: 42.7
+  longitude: -0.007
+scores:
+  impact: 9.5
+  uniqueness: 9.3
+  significance: 9.0
+  experience: 9.1
+  depth: 8.8
+  categories:
+    nature: 9.6
+    photography: 9.6
+    adventure: 9.3

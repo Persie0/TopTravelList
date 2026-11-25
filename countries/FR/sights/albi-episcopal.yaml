@@ -1,0 +1,15 @@
+id: sight-fr-albi-episcopal
+name: "Episcopal City of Albi"
+location:
+  country_code: FR
+  latitude: 43.928
+  longitude: 2.143
+scores:
+  impact: 9.1
+  uniqueness: 9.1
+  significance: 9.2
+  experience: 8.9
+  depth: 8.7
+  categories:
+    architecture: 9.5
+    history: 9.3
