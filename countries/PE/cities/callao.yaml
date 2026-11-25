@@ -1,0 +1,16 @@
+id: city-pe-callao
+name: "Callao"
+location:
+  country_code: PE
+  latitude: -12.0566
+  longitude: -77.1180
+scores:
+  impact: 7.0
+  uniqueness: 7.6
+  significance: 8.0
+  experience: 7.2
+  depth: 7.5
+  categories:
+    history: 8.5
+    culture: 8.1
+    architecture: 7.9

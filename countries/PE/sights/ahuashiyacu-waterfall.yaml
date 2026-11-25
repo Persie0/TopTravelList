@@ -1,0 +1,16 @@
+id: sight-pe-ahuashiyacu-waterfall
+name: "Ahuashiyacu Waterfall"
+location:
+  country_code: PE
+  latitude: -6.4570
+  longitude: -76.3120
+scores:
+  impact: 7.6
+  uniqueness: 7.5
+  significance: 6.3
+  experience: 8.0
+  depth: 6.6
+  categories:
+    nature: 8.1
+    relaxation: 8.0
+    photography: 8.2
