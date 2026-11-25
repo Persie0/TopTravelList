@@ -2,7 +2,7 @@
 
 # Malta (MT) — Sights & attractions ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**37 ranked** · **0 unassessed** · **37 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,11 +10,47 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, or click its GPS coordinates to open **Google Maps**. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (37)
 
-No sights & attractions have been assessed for **Malta** yet.
-
-Add destination YAML files in [sights/](sights/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps |
+| ---: | --- | --- | ---: | --- | --- | --- |
+| 1 | [St John's Co-Cathedral](sights/st-johns-co-cathedral.yaml) | Religious site | **93.35** | **Architecture 9.6**, **Culture 9.6**, **History 9.5** | 9.5 / 9.4 / 9.5 / 9.1 / 8.7 | [35.8979, 14.5126](https://www.google.com/maps/search/?api=1&query=35.8979,14.5126) |
+| 2 | [Ħal Saflieni Hypogeum](sights/hal-saflieni-hypogeum.yaml) | Attraction | **93.00** | **History 9.8**, **Culture 9.5**, **Architecture 9.3** | 9.2 / 9.7 / 9.7 / 8.7 / 8.7 | [35.86959, 14.5068833](https://www.google.com/maps/search/?api=1&query=35.86959,14.5068833) |
+| 3 | [Valletta Historic Centre](sights/valletta-historic-centre.yaml) | Historic settlement | **92.90** | **History 9.6**, **Architecture 9.5**, **Photography 9.4**, Culture 9.3 | 9.3 / 9.3 / 9.5 / 9.1 / 9.1 | [35.8989, 14.5146](https://www.google.com/maps/search/?api=1&query=35.8989,14.5146) |
+| 4 | [Ġgantija Temples](sights/ggantija-temples.yaml) | Religious site | **91.10** | **History 9.7**, **Culture 9.4**, **Architecture 9.3** | 8.9 / 9.4 / 9.6 / 8.8 / 8.5 | [36.0490306, 14.2677528](https://www.google.com/maps/search/?api=1&query=36.0490306,14.2677528) |
+| 5 | [Mnajdra Temples](sights/mnajdra-temples.yaml) | Religious site | **90.70** | **History 9.6**, **Architecture 9.3**, **Culture 9.3** | 8.9 / 9.4 / 9.5 / 8.8 / 8.3 | [35.8267389, 14.4367722](https://www.google.com/maps/search/?api=1&query=35.8267389,14.4367722) |
+| 6 | [Ħaġar Qim Temples](sights/hagar-qim-temples.yaml) | Religious site | **90.25** | **History 9.6**, **Architecture 9.3**, **Culture 9.3** | 8.8 / 9.3 / 9.5 / 8.8 / 8.4 | [35.8278278, 14.4417889](https://www.google.com/maps/search/?api=1&query=35.8278278,14.4417889) |
+| 7 | [Mdina Historic Centre](sights/mdina-historic-centre.yaml) | Historic settlement | **89.40** | **Architecture 9.4**, **Photography 9.4**, **History 9.3** | 9.0 / 9.1 / 9.0 / 8.9 / 8.3 | [35.8863, 14.4032](https://www.google.com/maps/search/?api=1&query=35.8863,14.4032) |
+| 8 | [Tarxien Temples](sights/tarxien-temples.yaml) | Religious site | **89.00** | **History 9.6**, **Culture 9.3**, **Architecture 9.1** | 8.6 / 9.2 / 9.5 / 8.6 / 8.3 | [35.8693028, 14.5122111](https://www.google.com/maps/search/?api=1&query=35.8693028,14.5122111) |
+| 9 | [Fort St Elmo and National War Museum](sights/fort-st-elmo-and-national-war-museum.yaml) | Fortification | **88.85** | **History 9.4**, **Architecture 9.2**, **Photography 9.0** | 8.8 / 8.9 / 9.2 / 8.8 / 8.6 | [35.9025, 14.5181](https://www.google.com/maps/search/?api=1&query=35.9025,14.5181) |
+| 10 | [Gozo Cittadella](sights/gozo-cittadella.yaml) | Attraction | **88.75** | **History 9.3**, **Photography 9.3**, **Architecture 9.2** | 8.9 / 8.9 / 9.0 / 8.8 / 8.6 | [36.0464, 14.2395](https://www.google.com/maps/search/?api=1&query=36.0464,14.2395) |
+| 11 | [Fort St Angelo](sights/fort-st-angelo.yaml) | Fortification | **88.60** | **History 9.4**, **Architecture 9.2**, **Photography 9.1** | 8.8 / 8.9 / 9.2 / 8.7 / 8.5 | [35.8924, 14.5181](https://www.google.com/maps/search/?api=1&query=35.8924,14.5181) |
+| 12 | [Grand Master's Palace](sights/grand-masters-palace.yaml) | Palace / castle | **87.55** | **History 9.4**, **Architecture 9.2**, **Culture 9.1** | 8.6 / 8.8 / 9.1 / 8.7 / 8.5 | [35.898, 14.5142](https://www.google.com/maps/search/?api=1&query=35.898,14.5142) |
+| 13 | [National Museum of Archaeology](sights/national-museum-of-archaeology.yaml) | Museum / heritage | **87.45** | **History 9.4**, **Culture 9.2** | 8.4 / 8.9 / 9.3 / 8.6 / 8.5 | [35.8978, 14.5119](https://www.google.com/maps/search/?api=1&query=35.8978,14.5119) |
+| 14 | [St Paul's Catacombs](sights/st-pauls-catacombs.yaml) | Attraction | **87.15** | **History 9.3**, **Culture 9.0** | 8.5 / 8.9 / 9.0 / 8.6 / 8.5 | [35.8805, 14.3978](https://www.google.com/maps/search/?api=1&query=35.8805,14.3978) |
+| 15 | [Mosta Rotunda](sights/mosta-rotunda.yaml) | Attraction | **85.70** | **Architecture 9.2**, **History 9.0** | 8.7 / 8.7 / 8.7 / 8.5 / 7.7 | [35.9097, 14.4258](https://www.google.com/maps/search/?api=1&query=35.9097,14.4258) |
+| 16 | [Ta' Pinu Sanctuary](sights/ta-pinu-sanctuary.yaml) | Park / reserve | **84.15** | **Architecture 9.0**, **Culture 9.0**, **Photography 9.0** | 8.4 / 8.5 / 8.7 / 8.4 / 7.7 | [36.061, 14.215](https://www.google.com/maps/search/?api=1&query=36.061,14.215) |
+| 17 | [Dwejra Blue Hole](sights/dwejra-blue-hole.yaml) | Attraction | **83.85** | **Adventure 9.2**, **Nature 9.1** | 8.7 / 8.8 / 7.6 / 8.5 / 7.8 | [36.0536, 14.1882](https://www.google.com/maps/search/?api=1&query=36.0536,14.1882) |
+| 18 | [Blue Grotto](sights/blue-grotto.yaml) | Attraction | **83.60** | **Photography 9.3**, **Nature 9.2** | 8.8 / 8.7 / 7.3 / 8.7 / 7.8 | [35.8214, 14.4577](https://www.google.com/maps/search/?api=1&query=35.8214,14.4577) |
+| 18 | [Blue Lagoon (Comino)](sights/blue-lagoon-comino.yaml) | Beach / bay | **83.60** | **Photography 9.4**, **Beaches 9.3**, **Nature 9.1** | 9.0 / 8.8 / 6.9 / 8.6 / 7.9 | [36.0138, 14.3247](https://www.google.com/maps/search/?api=1&query=36.0138,14.3247) |
+| 20 | [Dingli Cliffs](sights/dingli-cliffs.yaml) | Attraction | **83.35** | **Photography 9.3**, **Nature 9.1** | 8.8 / 8.5 / 7.3 / 8.6 / 8.2 | [35.845, 14.383](https://www.google.com/maps/search/?api=1&query=35.845,14.383) |
+| 21 | [Inquisitor's Palace](sights/inquisitors-palace.yaml) | Palace / castle | **83.30** | **History 9.1**, **Culture 8.9** | 8.0 / 8.5 / 8.8 / 8.3 / 8.0 | [35.8875, 14.5229](https://www.google.com/maps/search/?api=1&query=35.8875,14.5229) |
+| 22 | [Dwejra Inland Sea](sights/dwejra-inland-sea.yaml) | Attraction | **82.90** | **Photography 9.1**, **Nature 9.0** | 8.5 / 8.6 / 7.6 / 8.6 / 7.8 | [36.0539, 14.1906](https://www.google.com/maps/search/?api=1&query=36.0539,14.1906) |
+| 23 | [Għar Dalam Cave and Museum](sights/ghar-dalam-cave-and-museum.yaml) | Museum / heritage | **82.80** | **History 9.1**, **Nature 8.8** | 8.0 / 8.4 / 8.9 / 8.2 / 7.7 | [35.8364, 14.5275](https://www.google.com/maps/search/?api=1&query=35.8364,14.5275) |
+| 24 | [Ta' Ħaġrat Temples](sights/ta-hagrat-temples.yaml) | Religious site | **82.60** | **History 9.3**, **Architecture 8.8** | 7.8 / 8.8 / 9.2 / 7.8 / 7.1 | [35.9186333, 14.3687](https://www.google.com/maps/search/?api=1&query=35.9186333,14.3687) |
+| 25 | [Upper Barrakka Gardens](sights/upper-barrakka-gardens.yaml) | Garden | **82.45** | **Photography 9.3**, **Relaxation 8.8** | 8.6 / 8.3 / 7.9 / 8.6 / 7.2 | [35.8955, 14.5123](https://www.google.com/maps/search/?api=1&query=35.8955,14.5123) |
+| 26 | [Ta' Ċenċ and Sanap Cliffs](sights/ta-cenc-and-sanap-cliffs.yaml) | Attraction | **82.25** | **Photography 9.2**, **Nature 9.1** | 8.5 / 8.4 / 7.4 / 8.5 / 8.2 | [36.016, 14.243](https://www.google.com/maps/search/?api=1&query=36.016,14.243) |
+| 27 | [MUŻA National Community Art Museum](sights/muza-national-community-art-museum.yaml) | Museum / heritage | **82.20** | **Culture 8.9**, **History 8.7** | 8.0 / 8.2 / 8.4 / 8.4 / 8.3 | [35.8968, 14.5111](https://www.google.com/maps/search/?api=1&query=35.8968,14.5111) |
+| 28 | [Marsalforn Salt Pans](sights/marsalforn-salt-pans.yaml) | Attraction | **82.00** | **Photography 9.0**, **Culture 8.8** | 8.2 / 8.5 / 8.0 / 8.3 / 7.7 | [36.079, 14.249](https://www.google.com/maps/search/?api=1&query=36.079,14.249) |
+| 29 | [Domvs Romana](sights/domvs-romana.yaml) | Attraction | **81.85** | **History 9.0**, **Architecture 8.6** | 8.0 / 8.3 / 8.6 / 8.2 / 7.6 | [35.8861, 14.4004](https://www.google.com/maps/search/?api=1&query=35.8861,14.4004) |
+| 30 | [Skorba Temples](sights/skorba-temples.yaml) | Religious site | **80.75** | **History 9.4**, **Architecture 8.4** | 7.4 / 8.7 / 9.2 / 7.6 / 7.0 | [35.9209583, 14.3777667](https://www.google.com/maps/search/?api=1&query=35.9209583,14.3777667) |
+| 31 | [Ramla Bay](sights/ramla-bay.yaml) | Beach / bay | **80.65** | **Beaches 9.2**, **Relaxation 9.0**, **Photography 8.9** | 8.5 / 8.3 / 6.6 / 8.8 / 8.0 | [36.06, 14.284](https://www.google.com/maps/search/?api=1&query=36.06,14.284) |
+| 32 | [Xlendi Bay](sights/xlendi-bay.yaml) | Beach / bay | **80.00** | **Photography 8.9**, **Relaxation 8.9**, **Nature 8.8** | 8.3 / 8.2 / 6.9 / 8.6 / 7.9 | [36.031, 14.217](https://www.google.com/maps/search/?api=1&query=36.031,14.217) |
+| 33 | [Gardjola Gardens](sights/gardjola-gardens.yaml) | Garden | **79.50** | **Photography 9.1**, **Relaxation 8.5** | 8.2 / 8.1 / 7.7 / 8.3 / 6.8 | [35.891, 14.516](https://www.google.com/maps/search/?api=1&query=35.891,14.516) |
+| 33 | [Popeye Village](sights/popeye-village.yaml) | Historic settlement | **79.50** | **Photography 9.0**, **Family 8.9** | 8.2 / 8.5 / 6.6 / 8.5 / 7.7 | [35.9603, 14.3418](https://www.google.com/maps/search/?api=1&query=35.9603,14.3418) |
+| 35 | [St Peter's Pool](sights/st-peters-pool.yaml) | Attraction | **79.05** | **Photography 9.0**, **Nature 8.9**, **Beaches 8.7** | 8.4 / 8.4 / 6.4 / 8.5 / 7.3 | [35.8339, 14.5625](https://www.google.com/maps/search/?api=1&query=35.8339,14.5625) |
+| 36 | [Golden Bay](sights/golden-bay.yaml) | Beach / bay | **78.50** | **Beaches 9.0**, **Relaxation 8.9** | 8.3 / 8.0 / 6.3 / 8.8 / 7.8 | [35.9333, 14.344](https://www.google.com/maps/search/?api=1&query=35.9333,14.344) |
+| 37 | [Għadira Bay](sights/ghadira-bay.yaml) | Beach / bay | **76.95** | **Beaches 8.9**, **Family 8.9**, **Relaxation 8.8** | 8.1 / 7.7 / 6.2 / 8.8 / 7.8 | [35.9732, 14.3497](https://www.google.com/maps/search/?api=1&query=35.9732,14.3497) |
 
 ---
 
