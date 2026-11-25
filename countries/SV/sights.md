@@ -2,7 +2,7 @@
 
 # El Salvador (SV) — Sights & attractions ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**50 ranked** · **4 unassessed** · **54 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,11 +10,71 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, or click its GPS coordinates to open **Google Maps**. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (50)
 
-No sights & attractions have been assessed for **El Salvador** yet.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps |
+| ---: | --- | --- | ---: | --- | --- | --- |
+| 1 | [Joya de Cerén Archaeological Site](sights/joya-de-ceren-archaeological-site.yaml) | Museum / heritage | **89.70** | **History 9.6**, **Culture 9.3**, **Architecture 9.0** | 8.6 / 9.6 / 9.6 / 8.4 / 8.1 | [13.8275, -89.369167](https://www.google.com/maps/search/?api=1&query=13.8275,-89.369167) |
+| 2 | [Santa Ana Volcano (Ilamatepec)](sights/santa-ana-volcano-ilamatepec.yaml) | Mountain / peak | **89.60** | **Photography 9.4**, **Adventure 9.3**, **Nature 9.3** | 9.4 / 8.9 / 8.5 / 9.3 / 8.2 | [13.853, -89.63](https://www.google.com/maps/search/?api=1&query=13.853,-89.63) |
+| 3 | [Los Volcanes National Park](sights/los-volcanes-national-park.yaml) | Park / reserve | **88.95** | **Adventure 9.3**, **Nature 9.3**, **Photography 9.2** | 9.0 / 8.9 / 8.6 / 9.0 / 9.0 | [13.839, -89.637](https://www.google.com/maps/search/?api=1&query=13.839,-89.637) |
+| 4 | [Bahía de Jiquilisco](sights/bahia-de-jiquilisco.yaml) | Attraction | **87.10** | **Nature 9.2**, **Wildlife 9.2**, **Adventure 8.5** | 8.6 / 8.7 / 9.0 / 8.5 / 8.8 | [13.229, -88.479](https://www.google.com/maps/search/?api=1&query=13.229,-88.479) |
+| 5 | [El Imposible National Park](sights/el-imposible-national-park.yaml) | Park / reserve | **86.55** | **Nature 9.2**, **Wildlife 9.1**, **Adventure 8.7** | 8.6 / 8.6 / 8.9 / 8.5 / 8.7 | [13.833, -89.972](https://www.google.com/maps/search/?api=1&query=13.833,-89.972) |
+| 6 | [Montecristo National Park (El Salvador)](sights/montecristo-national-park-el-salvador.yaml) | Park / reserve | **86.10** | **Nature 9.1**, **Wildlife 9.0**, **Adventure 8.6** | 8.5 / 8.7 / 8.8 / 8.5 / 8.5 | [14.393, -89.369](https://www.google.com/maps/search/?api=1&query=14.393,-89.369) |
+| 7 | [Lake Coatepeque](sights/lake-coatepeque.yaml) | Lake | **85.85** | **Photography 9.1**, **Nature 9.0**, **Relaxation 9.0** | 8.9 / 8.7 / 7.9 / 8.8 / 8.4 | [13.864, -89.55](https://www.google.com/maps/search/?api=1&query=13.864,-89.55) |
+| 8 | [Izalco Volcano](sights/izalco-volcano.yaml) | Mountain / peak | **85.80** | **Adventure 9.2**, **Nature 8.9**, **Photography 8.9** | 8.8 / 8.8 / 8.2 / 8.8 / 7.8 | [13.813, -89.634](https://www.google.com/maps/search/?api=1&query=13.813,-89.634) |
+| 9 | [Gulf of Fonseca (El Salvador visitor area)](sights/gulf-of-fonseca-el-salvador-visitor-area.yaml) | Attraction | **85.20** | **Photography 9.0**, **Nature 8.9**, **Wildlife 8.4** | 8.6 / 8.5 / 8.4 / 8.5 / 8.6 | [13.264, -87.743](https://www.google.com/maps/search/?api=1&query=13.264,-87.743) |
+| 10 | [Iglesia El Rosario](sights/iglesia-el-rosario.yaml) | Attraction | **84.05** | **Architecture 9.2**, **Photography 9.2** | 8.5 / 9.0 / 8.1 / 8.5 / 7.1 | [13.6977, -89.1877](https://www.google.com/maps/search/?api=1&query=13.6977,-89.1877) |
+| 11 | [Los Cóbanos Protected Marine Area](sights/los-cobanos-protected-marine-area.yaml) | Attraction | **82.95** | **Wildlife 8.9**, **Nature 8.7**, **Adventure 8.5** | 8.2 / 8.3 / 8.5 / 8.4 / 8.0 | [13.523, -89.808](https://www.google.com/maps/search/?api=1&query=13.523,-89.808) |
+| 12 | [Tazumal Archaeological Park](sights/tazumal-archaeological-park.yaml) | Museum / heritage | **82.55** | **History 9.0**, **Architecture 8.6** | 8.1 / 8.3 / 8.8 / 8.2 / 7.6 | [13.9792, -89.6747](https://www.google.com/maps/search/?api=1&query=13.9792,-89.6747) |
+| 13 | [Ruta de las Flores](sights/ruta-de-las-flores.yaml) | Attraction | **82.45** | **Culture 8.7**, **Food 8.6**, **Photography 8.6** | 8.3 / 8.2 / 7.6 / 8.7 / 8.8 | [13.854, -89.795](https://www.google.com/maps/search/?api=1&query=13.854,-89.795) |
+| 14 | [San Salvador Historic Center](sights/san-salvador-historic-center.yaml) | Historic settlement | **82.40** | **History 8.8**, **Architecture 8.6**, **Culture 8.4** | 8.2 / 7.9 / 8.6 / 8.3 / 8.4 | [13.697, -89.191](https://www.google.com/maps/search/?api=1&query=13.697,-89.191) |
+| 15 | [Cihuatán Archaeological Park](sights/cihuatan-archaeological-park.yaml) | Museum / heritage | **81.80** | **History 8.9**, **Architecture 8.4** | 7.8 / 8.4 / 8.7 / 8.0 / 8.0 | [13.9697, -89.1337](https://www.google.com/maps/search/?api=1&query=13.9697,-89.1337) |
+| 15 | [El Boquerón National Park](sights/el-boqueron-national-park.yaml) | Park / reserve | **81.80** | **Photography 8.9**, **Nature 8.7**, **Adventure 8.1** | 8.4 / 8.2 / 7.8 / 8.6 / 7.6 | [13.7333, -89.2861](https://www.google.com/maps/search/?api=1&query=13.7333,-89.2861) |
+| 17 | [Conchagua Volcano](sights/conchagua-volcano.yaml) | Mountain / peak | **81.65** | **Photography 9.0**, **Nature 8.6** | 8.5 / 8.2 / 7.6 / 8.5 / 7.7 | [13.275, -87.846](https://www.google.com/maps/search/?api=1&query=13.275,-87.846) |
+| 18 | [Punta Roca Surf Break](sights/punta-roca-surf-break.yaml) | Attraction | **81.55** | **Adventure 9.4**, **Photography 8.4** | 8.3 / 8.5 / 7.4 / 8.8 / 7.4 | [13.482, -89.33](https://www.google.com/maps/search/?api=1&query=13.482,-89.33) |
+| 19 | [Santa Ana Cathedral](sights/santa-ana-cathedral.yaml) | Religious site | **81.40** | **Architecture 8.8**, **Photography 8.5** | 8.3 / 8.2 / 8.2 / 8.2 / 7.3 | [13.9947, -89.557](https://www.google.com/maps/search/?api=1&query=13.9947,-89.557) |
+| 20 | [Salto de Malacatiupán](sights/salto-de-malacatiupan.yaml) | Attraction | **81.30** | **Nature 8.8**, **Photography 8.6**, **Relaxation 8.6** | 8.3 / 8.6 / 7.5 / 8.4 / 7.3 | [13.997, -89.78](https://www.google.com/maps/search/?api=1&query=13.997,-89.78) |
+| 21 | [Laguna de Alegría](sights/laguna-de-alegria.yaml) | Attraction | **81.05** | **Nature 8.8**, **Photography 8.8** | 8.3 / 8.5 / 7.7 / 8.2 / 7.2 | [13.495, -88.488](https://www.google.com/maps/search/?api=1&query=13.495,-88.488) |
+| 22 | [Cerro Verde Recreational Park](sights/cerro-verde-recreational-park.yaml) | Park / square | **80.55** | **Photography 8.8**, **Nature 8.6** | 8.2 / 8.0 / 7.7 / 8.5 / 7.8 | [13.8266, -89.6247](https://www.google.com/maps/search/?api=1&query=13.8266,-89.6247) |
+| 23 | [Museum of the Revolution (Perquín)](sights/museum-of-the-revolution-perquin.yaml) | Museum / heritage | **80.35** | **History 9.0**, **Culture 8.5** | 7.4 / 8.4 / 8.7 / 8.1 / 7.6 | [13.959, -88.163](https://www.google.com/maps/search/?api=1&query=13.959,-88.163) |
+| 24 | [National Museum of Anthropology David J Guzmán](sights/national-museum-of-anthropology-david-j-guzman.yaml) | Museum / heritage | **80.20** | **History 8.9**, **Culture 8.6** | 7.6 / 8.0 / 8.7 / 8.0 / 8.0 | [13.6881, -89.2395](https://www.google.com/maps/search/?api=1&query=13.6881,-89.2395) |
+| 25 | [El Mozote Memorial](sights/el-mozote-memorial.yaml) | Museum / heritage | **80.00** | **History 9.3**, **Culture 8.6** | 7.6 / 8.2 / 9.1 / 7.8 / 6.8 | [13.9, -88.112](https://www.google.com/maps/search/?api=1&query=13.9,-88.112) |
+| 26 | [San Andrés Archaeological Park](sights/san-andres-archaeological-park.yaml) | Museum / heritage | **79.75** | **History 8.8**, **Architecture 8.3** | 7.7 / 8.0 / 8.6 / 7.9 / 7.6 | [13.8026, -89.3908](https://www.google.com/maps/search/?api=1&query=13.8026,-89.3908) |
+| 26 | [Santa Ana Theatre](sights/santa-ana-theatre.yaml) | Attraction | **79.75** | **Architecture 8.7**, **Culture 8.5** | 8.0 / 8.0 / 8.3 / 7.9 / 7.3 | [13.9941, -89.5577](https://www.google.com/maps/search/?api=1&query=13.9941,-89.5577) |
+| 28 | [Los Tercios Waterfall](sights/los-tercios-waterfall.yaml) | Waterfall | **79.65** | **Photography 8.8**, **Nature 8.7** | 8.1 / 8.5 / 7.6 / 8.0 / 6.9 | [13.941, -89.012](https://www.google.com/maps/search/?api=1&query=13.941,-89.012) |
+| 28 | [Tamanique Waterfalls](sights/tamanique-waterfalls.yaml) | Waterfall | **79.65** | **Adventure 8.8**, **Nature 8.7**, **Photography 8.5** | 8.3 / 8.0 / 7.0 / 8.7 / 7.7 | [13.579, -89.424](https://www.google.com/maps/search/?api=1&query=13.579,-89.424) |
+| 30 | [Lake Güija (Salvadoran shore)](sights/lake-guija-salvadoran-shore.yaml) | Lake | **79.40** | **Nature 8.4**, **History 8.3**, **Photography 8.3** | 7.8 / 8.1 / 8.3 / 7.7 / 7.6 | [14.263, -89.534](https://www.google.com/maps/search/?api=1&query=14.263,-89.534) |
+| 31 | [Lake Suchitlán](sights/lake-suchitlan.yaml) | Lake | **79.30** | **Photography 8.5**, **Wildlife 8.5**, **Nature 8.4** | 8.1 / 7.7 / 7.6 / 8.3 / 8.1 | [13.963, -89.061](https://www.google.com/maps/search/?api=1&query=13.963,-89.061) |
+| 32 | [Metropolitan Cathedral of San Salvador](sights/metropolitan-cathedral-of-san-salvador.yaml) | Religious site | **79.25** | **History 9.0**, **Culture 8.8**, **Architecture 8.3** | 7.7 / 7.8 / 8.7 / 7.9 / 7.4 | [13.6972, -89.1909](https://www.google.com/maps/search/?api=1&query=13.6972,-89.1909) |
+| 32 | [National Theatre of San Salvador](sights/national-theatre-of-san-salvador.yaml) | Attraction | **79.25** | **Architecture 8.6**, **Culture 8.5** | 7.9 / 8.0 / 8.2 / 7.9 / 7.3 | [13.6985, -89.1902](https://www.google.com/maps/search/?api=1&query=13.6985,-89.1902) |
+| 34 | [National Palace of El Salvador](sights/national-palace-of-el-salvador.yaml) | Palace / castle | **79.20** | **History 8.7**, **Architecture 8.5** | 7.8 / 7.8 / 8.5 / 7.8 / 7.6 | [13.6967, -89.1919](https://www.google.com/maps/search/?api=1&query=13.6967,-89.1919) |
+| 35 | [El Tunco Beach](sights/el-tunco-beach.yaml) | Beach / bay | **78.90** | **Adventure 9.1**, **Photography 8.5**, **Beaches 8.0** | 8.0 / 8.0 / 7.1 / 8.8 / 7.5 | [13.493, -89.383](https://www.google.com/maps/search/?api=1&query=13.493,-89.383) |
+| 36 | [El Pital (Salvadoran sector)](sights/el-pital-salvadoran-sector.yaml) | Attraction | **78.50** | **Photography 8.5**, **Nature 8.4**, **Adventure 8.3** | 8.0 / 7.8 / 7.6 / 8.2 / 7.5 | [14.384, -89.124](https://www.google.com/maps/search/?api=1&query=14.384,-89.124) |
+| 37 | [El Sunzal Beach](sights/el-sunzal-beach.yaml) | Beach / bay | **78.25** | **Adventure 9.2**, **Beaches 7.8** | 7.8 / 8.0 / 7.2 / 8.7 / 7.4 | [13.492, -89.39](https://www.google.com/maps/search/?api=1&query=13.492,-89.39) |
+| 38 | [Casa Blanca Archaeological Park](sights/casa-blanca-archaeological-park.yaml) | Museum / heritage | **77.85** | **History 8.7**, **Architecture 8.1** | 7.3 / 8.0 / 8.5 / 7.7 / 7.4 | [13.9879, -89.6729](https://www.google.com/maps/search/?api=1&query=13.9879,-89.6729) |
+| 39 | [Las Flores Beach (San Miguel)](sights/las-flores-beach-san-miguel.yaml) | Beach / bay | **77.30** | **Adventure 8.9**, **Photography 8.4**, **Beaches 8.2** | 8.1 / 7.9 / 6.6 / 8.5 / 7.3 | [13.172, -88.111](https://www.google.com/maps/search/?api=1&query=13.172,-88.111) |
+| 40 | [Walter Thilo Deininger Adventure Park](sights/walter-thilo-deininger-adventure-park.yaml) | Park / square | **76.85** | **Adventure 8.6**, **Nature 8.2** | 7.6 / 7.5 / 7.7 / 8.2 / 7.6 | [13.488, -89.269](https://www.google.com/maps/search/?api=1&query=13.488,-89.269) |
+| 41 | [Los Chorros de la Calera](sights/los-chorros-de-la-calera.yaml) | Attraction | **76.60** | **Photography 8.5**, **Nature 8.4** | 8.0 / 7.8 / 6.8 / 8.2 / 7.2 | [13.831, -89.739](https://www.google.com/maps/search/?api=1&query=13.831,-89.739) |
+| 42 | [Museum of Art of El Salvador (MARTE)](sights/museum-of-art-of-el-salvador-marte.yaml) | Museum / heritage | **75.75** | **Culture 8.3** | 7.3 / 7.6 / 7.8 / 7.9 / 7.4 | [13.6934, -89.2409](https://www.google.com/maps/search/?api=1&query=13.6934,-89.2409) |
+| 43 | [El Zonte Beach](sights/el-zonte-beach.yaml) | Beach / bay | **74.90** | **Adventure 8.7**, **Relaxation 8.3**, **Beaches 8.0** | 7.7 / 7.6 / 6.5 / 8.4 / 7.2 | [13.493, -89.439](https://www.google.com/maps/search/?api=1&query=13.493,-89.439) |
+| 44 | [Nahuizalco Night Market](sights/nahuizalco-night-market.yaml) | Market | **74.10** | **Food 8.4**, **Culture 8.2** | 7.2 / 7.7 / 7.0 / 8.3 / 6.8 | [13.7778, -89.7355](https://www.google.com/maps/search/?api=1&query=13.7778,-89.7355) |
+| 45 | [El Cuco Beach](sights/el-cuco-beach.yaml) | Beach / bay | **74.00** | **Beaches 8.5**, **Relaxation 8.5** | 7.8 / 7.3 / 6.3 / 8.3 / 7.3 | [13.174, -88.107](https://www.google.com/maps/search/?api=1&query=13.174,-88.107) |
+| 46 | [Laguna Verde (Apaneca)](sights/laguna-verde-apaneca.yaml) | Attraction | **73.45** | **Photography 8.1**, **Nature 8.0** | 7.5 / 7.6 / 6.8 / 7.7 / 6.8 | [13.873, -89.798](https://www.google.com/maps/search/?api=1&query=13.873,-89.798) |
+| 47 | [Playa El Espino](sights/playa-el-espino.yaml) | Attraction | **72.15** | **Relaxation 8.4**, **Beaches 8.3** | 7.5 / 7.2 / 6.2 / 8.1 / 7.1 | [13.177, -88.252](https://www.google.com/maps/search/?api=1&query=13.177,-88.252) |
+| 48 | [Costa del Sol Beach](sights/costa-del-sol-beach.yaml) | Beach / bay | **72.10** | **Relaxation 8.5**, **Beaches 8.3** | 7.5 / 7.0 / 6.2 / 8.2 / 7.4 | [13.321, -89.036](https://www.google.com/maps/search/?api=1&query=13.321,-89.036) |
+| 49 | [Tazumal Site Museum](sights/tazumal-site-museum.yaml) | Museum / heritage | **71.85** | **History 8.3**, **Culture 7.8** | 6.8 / 7.2 / 8.0 / 7.3 / 6.5 | [13.979, -89.6743](https://www.google.com/maps/search/?api=1&query=13.979,-89.6743) |
+| 50 | [Puerto de La Libertad Fish Market](sights/puerto-de-la-libertad-fish-market.yaml) | Market | **70.95** | **Food 8.3**, **Culture 7.6** | 7.0 / 7.3 / 6.5 / 8.0 / 6.7 | [13.487, -89.32](https://www.google.com/maps/search/?api=1&query=13.487,-89.32) |
 
-Add destination YAML files in [sights/](sights/), then regenerate the overview files.
+## Not yet fully assessed (4)
+
+These destinations have no rank until all five core scores are assessed.
+
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps |
+| ---: | --- | --- | ---: | --- | --- | --- |
+| — | [Cacaopera Cultural Landscape](sights/cacaopera-cultural-landscape.yaml) | Coast | **—** | **Culture 8.9**, **History 8.8** | — / 8.4 / 8.7 / — / — | [13.768, -88.083](https://www.google.com/maps/search/?api=1&query=13.768,-88.083) |
+| — | [Cara Sucia Archaeological Site](sights/cara-sucia-archaeological-site.yaml) | Museum / heritage | **—** | **History 8.9** | — / 8.2 / 8.7 / — / — | [13.79, -90.04](https://www.google.com/maps/search/?api=1&query=13.79,-90.04) |
+| — | [Ciudad Vieja (La Bermuda)](sights/ciudad-vieja-la-bermuda.yaml) | Attraction | **—** | **History 9.0** | — / 8.6 / 8.8 / — / — | [13.906, -89.063](https://www.google.com/maps/search/?api=1&query=13.906,-89.063) |
+| — | [San Miguel Volcano (Chaparrastique)](sights/san-miguel-volcano-chaparrastique.yaml) | Mountain / peak | **—** | **Nature 8.8** | — / 8.6 / 8.5 / — / — | [13.434, -88.269](https://www.google.com/maps/search/?api=1&query=13.434,-88.269) |
 
 ---
 
