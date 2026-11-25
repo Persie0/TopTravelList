@@ -1,0 +1,15 @@
+id: sight-ve-madrisqui
+name: "Madrisquí"
+location:
+  country_code: VE
+  latitude: 11.9410
+  longitude: -66.6510
+scores:
+  impact: 8.4
+  uniqueness: 8.0
+  significance: 6.5
+  experience: 8.8
+  depth: 7.0
+  categories:
+    beaches: 9.1
+    relaxation: 9.0

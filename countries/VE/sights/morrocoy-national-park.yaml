@@ -1,0 +1,17 @@
+id: sight-ve-morrocoy-national-park
+name: "Morrocoy National Park"
+location:
+  country_code: VE
+  latitude: 10.8500
+  longitude: -68.2750
+scores:
+  impact: 8.9
+  uniqueness: 8.7
+  significance: 8.5
+  experience: 8.8
+  depth: 8.7
+  categories:
+    nature: 9.2
+    beaches: 9.3
+    wildlife: 9.1
+    photography: 9.1
