@@ -1,0 +1,16 @@
+id: sight-nl-hoge-veluwe
+name: "De Hoge Veluwe National Park"
+location:
+  country_code: NL
+  latitude: 52.08
+  longitude: 5.83
+scores:
+  impact: 8.7
+  uniqueness: 8.5
+  significance: 8.5
+  experience: 9.0
+  depth: 8.9
+  categories:
+    nature: 9.2
+    wildlife: 8.9
+    adventure: 8.8

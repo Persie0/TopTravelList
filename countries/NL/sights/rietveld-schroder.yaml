@@ -1,0 +1,15 @@
+id: sight-nl-rietveld-schroder
+name: "Rietveld Schröder House"
+location:
+  country_code: NL
+  latitude: 52.085
+  longitude: 5.147
+scores:
+  impact: 8.5
+  uniqueness: 9.2
+  significance: 9.3
+  experience: 8.5
+  depth: 7.5
+  categories:
+    architecture: 9.4
+    history: 9.1

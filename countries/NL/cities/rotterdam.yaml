@@ -1,0 +1,16 @@
+id: city-nl-rotterdam
+name: "Rotterdam"
+location:
+  country_code: NL
+  latitude: 51.9244
+  longitude: 4.4777
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 8.7
+  experience: 9.0
+  depth: 9.1
+  categories:
+    architecture: 9.4
+    culture: 9.0
+    food: 8.8

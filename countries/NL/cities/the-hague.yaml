@@ -1,0 +1,16 @@
+id: city-nl-the-hague
+name: "The Hague (Den Haag)"
+location:
+  country_code: NL
+  latitude: 52.0705
+  longitude: 4.3007
+scores:
+  impact: 8.7
+  uniqueness: 8.7
+  significance: 9.1
+  experience: 9.0
+  depth: 9.0
+  categories:
+    culture: 9.2
+    history: 9.2
+    architecture: 9.1

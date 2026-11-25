@@ -1,0 +1,16 @@
+id: city-nl-den-bosch
+name: "Den Bosch (’s-Hertogenbosch)"
+location:
+  country_code: NL
+  latitude: 51.6978
+  longitude: 5.3037
+scores:
+  impact: 8.6
+  uniqueness: 8.6
+  significance: 8.7
+  experience: 8.7
+  depth: 8.3
+  categories:
+    architecture: 9.1
+    history: 8.9
+    culture: 8.9

@@ -1,0 +1,16 @@
+id: sight-nl-maasduinen
+name: "De Maasduinen National Park"
+location:
+  country_code: NL
+  latitude: 51.59
+  longitude: 6.08
+scores:
+  impact: 8.2
+  uniqueness: 8.5
+  significance: 8.3
+  experience: 8.6
+  depth: 8.6
+  categories:
+    nature: 8.9
+    photography: 8.7
+    adventure: 8.5

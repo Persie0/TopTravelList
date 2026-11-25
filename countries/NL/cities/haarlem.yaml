@@ -1,0 +1,16 @@
+id: city-nl-haarlem
+name: "Haarlem"
+location:
+  country_code: NL
+  latitude: 52.3874
+  longitude: 4.6462
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 8.7
+  experience: 8.8
+  depth: 8.5
+  categories:
+    architecture: 9.1
+    culture: 9.0
+    history: 9.0

@@ -1,0 +1,15 @@
+id: sight-nl-van-nelle
+name: "Van Nelle Factory"
+location:
+  country_code: NL
+  latitude: 51.923
+  longitude: 4.432
+scores:
+  impact: 8.7
+  uniqueness: 9.1
+  significance: 9.2
+  experience: 8.3
+  depth: 8.1
+  categories:
+    architecture: 9.4
+    history: 9.1

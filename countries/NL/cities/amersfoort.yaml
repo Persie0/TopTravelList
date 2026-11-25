@@ -1,0 +1,15 @@
+id: city-nl-amersfoort
+name: "Amersfoort"
+location:
+  country_code: NL
+  latitude: 52.156
+  longitude: 5.388
+scores:
+  impact: 8.5
+  uniqueness: 8.5
+  significance: 8.4
+  experience: 8.6
+  depth: 8.0
+  categories:
+    architecture: 9.0
+    photography: 8.8

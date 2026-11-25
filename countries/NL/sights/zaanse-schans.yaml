@@ -1,0 +1,16 @@
+id: sight-nl-zaanse-schans
+name: "Zaanse Schans"
+location:
+  country_code: NL
+  latitude: 52.474
+  longitude: 4.818
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 8.6
+  experience: 8.8
+  depth: 8.4
+  categories:
+    architecture: 9.0
+    history: 8.9
+    photography: 9.2
