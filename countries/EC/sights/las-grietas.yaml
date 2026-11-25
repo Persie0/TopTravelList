@@ -1,0 +1,15 @@
+id: sight-ec-las-grietas
+name: "Las Grietas"
+location:
+  country_code: EC
+  latitude: -0.7550
+  longitude: -90.3150
+scores:
+  impact: 8.3
+  uniqueness: 8.3
+  significance: 6.8
+  experience: 8.2
+  depth: 6.8
+  categories:
+    nature: 8.6
+    photography: 8.6
