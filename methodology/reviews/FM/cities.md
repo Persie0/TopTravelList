@@ -287,3 +287,8 @@
 - Final decision: provisional worldwide assessment based on documented local experiences, not complete factual verification.
 - Earlier decision: earlier entry for this ID, originally unranked.
 - Verification still needed: Town proper and its local museum only. Lelu ruins, waterfalls and other island excursions excluded; current museum hours and exact town point need confirmation.
+
+
+## 2026-11-25 — Palikir evidence follow-up
+
+FSM Legal Information System confirms the national government campus and three branches in Palikir (https://fsmlaw.org/fsm/, page inspected). Government's May 2025 convention-centre opening announcement (https://gov.fm/new-national-convention-center-officially-opens-advancing-the-fsms-position-as-regional-hub/, indexed excerpt) supports civic significance, not routine public visitor activities. Do not transfer Kolonia's legislature visitor program or Pohnpei's island attractions to Palikir. Retain 7.0 significance and null remaining core fields pending authoritative visitor scope; existing coordinate not independently corroborated.

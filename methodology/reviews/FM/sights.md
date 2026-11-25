@@ -356,3 +356,85 @@
 - Earlier decision: none.
 - Verification still needed: Confirm permission and exact heritage coordinate.
 
+
+
+## 2026-11-25 — incomplete cultural sites follow-up
+
+- **Rull Men's Meetinghouse:** US National Park Service register confirms specific historic building and architectural/social significance (https://npgallery.nps.gov/AssetDetail/NRIS/76002214). Yap Visitor Bureau explains customary restrictions on faluw (https://visityap.com/points_of_interest.php). Generic island cultural tours cannot establish permission to enter this exact building; retain null experience/depth. Do not conflate museum replica and original meetinghouse.
+- **Taraang (O'Keefe's Island):** UNESCO tentative description confirms historic archaeological remains and O'Keefe's trading history (https://whc.unesco.org/en/tentativelists/1994). No reliable routine authorized island visit established; retain null experience/depth. Tentative listing is not inscription.
+
+These pages were inspected 2026-11-25; no unsupported visitor ratings added.
+
+### sight-fm-ahnd-atoll — Ahnd Atoll (Ant Atoll) — 2026-11-25
+
+- YAML: [source](../../../countries/FM/sights/ahnd-atoll.yaml)
+- Action: new
+- Precise subject: Ahnd atoll lagoon, reefs and consent-based Pasa Island trips; exclude Pakin and other outer atolls.
+- Location check: Mapcarta GeoNames/OSM representative atoll point https://mapcarta.com/16510334 ; not an entrance.
+- Evidence status: source-linked-unverified
+- Checked factual references (2026-11-25):
+  - Pohnpei tourism destination page documents Pasa Island picnic excursions, white sandbars and lagoon tours — https://visitpohnpei.travel/pohnpei-outer-atolls/ (page inspected).
+  - Seacology documents reef conservation, seabirds, giant clams, turtle habitat and dive/snorkel visitation; historical project evidence is not a current census — https://www.seacology.org/project/ant-atoll-pohnpei-federated-states-of-micronesia/ (page inspected).
+  - SPREP regional protected-area directory lists And Atoll as a UNESCO-MAB biosphere reserve — https://www.pipap.sprep.org/country/fm (indexed excerpt).
+- Missing or uncertain facts: No guaranteed reef condition, wildlife encounter or landing permission. Coordinate and current access arrangements need corroboration.
+
+#### Worldwide peer comparisons
+- Sipadan Island Reefs (Malaysia), 9.5/9.6/9.1/9.5/8.9: stronger global underwater benchmark.
+- Ang Thong National Marine Park (Thailand), 9.0/9.0/8.6/9.1/8.9: greater varied limestone-island exploration.
+- Cham Islands (Vietnam), 8.8/9.0/8.4/9.0/8.7: comparable marine recreation, different cultural and ecological strengths.
+- Perhentian Islands (Malaysia), 9.0/8.8/7.7/9.2/8.9: stronger established beach recreation, less distinctive conservation significance.
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | — | 8.9 | Striking lagoon, sandbars and reef scenery, below globally exceptional underwater benchmarks. |
+| Uniqueness | — | 8.8 | Distinct reef assemblages and island habitat, but other comparable Pacific atolls exist. |
+| Significance | — | 9.0 | Important regional marine and seabird conservation, supported by biosphere designation and NGO evidence. |
+| Experience | — | 8.8 | Documented boat excursions and guided reef activities support a strong visit; customary permission remains necessary. |
+| Depth | — | 8.5 | Lagoon, reef and beach exploration offer varied activities, but narrower than extensive multi-island parks. |
+
+- Applicable category scores: nature 9.2, wildlife 9.2, beaches 8.9, adventure 8.9; provisional, component-specific.
+- Computed worldwide overall: 88.40/100
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide v2 rating for documented visitor scope with actual branch YAML peers.
+- Earlier decision: none.
+- Verification still needed: No guaranteed reef condition, wildlife encounter or landing permission. Coordinate and current access arrangements need corroboration. Canonical global validation and diagnostics remain outstanding.
+
+
+### sight-fm-utwe-walung-marine-park — Utwe-Walung Marine Park — 2026-11-25
+
+- YAML: [source](../../../countries/FM/sights/utwe-walung-marine-park.yaml)
+- Action: new
+- Precise subject: Documented public marine-park mangrove, reef and forest excursions between Utwe and Walung, not unrestricted access to the entire UNESCO biosphere reserve.
+- Location check: GeoNames park office proxy 5.28137, 162.96678, https://mapcarta.com/27642588 (page inspected); representative point not necessarily an entrance.
+- Evidence status: source-linked-unverified
+- Checked factual references (2026-11-25):
+  - Kosrae Nautilus Resort describes mangrove canoe trips, forest ruins excursions, reef snorkelling and coastal walks within the park — https://www.kosraenautilus.com/activities.php (page inspected).
+  - Kosrae State Historic Preservation Office documents mangrove kayaking, cultural hikes and diving in Utwe and Walung — https://hpo.kosraestate.gov.fm/visiting-kosrae-kosraean-culture/ (page inspected).
+  - UNESCO describes the Utwe biosphere reserve's forest, wetland and marine habitats — https://www.unesco.org/en/node/232001 (indexed excerpt only; direct fetch timed out).
+- Missing or uncertain facts: Exact protected-area boundary and office coordinate need corroboration. UNESCO direct page timed out; its indexed excerpt supports context only.
+
+#### Worldwide peer comparisons
+- Kinabatangan Wildlife Sanctuary (Malaysia), 9.2/9.4/9.2/9.2/9.0: stronger established river wildlife encounters.
+- Tonle Sap Lake (Cambodia), 9.0/9.2/9.5/8.8/9.2: larger freshwater ecosystem and cultural breadth.
+- Neusiedler See–Seewinkel National Park (Austria), 8.5/8.8/9.2/8.7/8.8: comparable wetland conservation but different habitat and visitor emphasis.
+- Cham Islands (Vietnam), 8.8/9.0/8.4/9.0/8.7: more pronounced island and beach scenery.
+
+#### Scoring decisions
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | — | 8.3 | Scenic sheltered mangrove waterways and reef coast, less visually dramatic than leading tropical islands. |
+| Uniqueness | — | 8.6 | Distinct island mangrove, forest and reef combination; comparable systems exist elsewhere. |
+| Significance | — | 8.8 | Locally managed coastal ecosystem of regional conservation importance; biosphere designation not World Heritage inscription. |
+| Experience | — | 8.8 | Documented traditional canoe, snorkel and forest excursions support a rewarding varied experience. |
+| Depth | — | 8.5 | Several connected habitat and activity types, but no assumption of access to the whole biosphere reserve. |
+
+- Applicable category scores: nature 9.0, wildlife 8.7, adventure 8.6; provisional, component-specific.
+- Computed worldwide overall: 85.70/100
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide v2 rating for documented visitor scope with actual branch YAML peers.
+- Earlier decision: none.
+- Verification still needed: Exact protected-area boundary and office coordinate need corroboration. UNESCO direct page timed out; its indexed excerpt supports context only. Canonical global validation and diagnostics remain outstanding.
+
