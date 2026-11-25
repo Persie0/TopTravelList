@@ -2,7 +2,7 @@
 
 # Uruguay (UY) — Sights & attractions ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**59 ranked** · **2 unassessed** · **61 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,11 +10,78 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, or click its GPS coordinates to open **Google Maps**. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (59)
 
-No sights & attractions have been assessed for **Uruguay** yet.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps |
+| ---: | --- | --- | ---: | --- | --- | --- |
+| 1 | [Colonia del Sacramento Historic Quarter](sights/colonia-del-sacramento-historic-quarter.yaml) | Attraction | **89.60** | **History 9.4**, **Architecture 9.3**, **Photography 9.2**, Culture 9.0 | 8.9 / 9.1 / 9.2 / 8.9 / 8.4 | [-34.47119, -57.849898](https://www.google.com/maps/search/?api=1&query=-34.47119,-57.849898) |
+| 2 | [Fray Bentos Industrial Landscape](sights/fray-bentos-industrial-landscape.yaml) | Coast | **87.80** | **History 9.4**, **Culture 8.9**, **Architecture 8.8** | 8.3 / 9.2 / 9.3 / 8.4 / 8.7 | [-33.117778, -58.331667](https://www.google.com/maps/search/?api=1&query=-33.117778,-58.331667) |
+| 3 | [Cabo Polonio National Park](sights/cabo-polonio-national-park.yaml) | Park / reserve | **87.75** | **Nature 9.2**, **Photography 9.1**, **Wildlife 9.0**, Adventure 8.3 | 8.9 / 8.9 / 8.6 / 8.8 / 8.4 | [-34.399, -53.79](https://www.google.com/maps/search/?api=1&query=-34.399,-53.79) |
+| 4 | [Church of Atlantida (Eladio Dieste)](sights/church-of-atlantida-eladio-dieste.yaml) | Religious site | **85.95** | **Architecture 9.4**, **History 8.8**, **Photography 8.5** | 8.5 / 9.4 / 9.1 / 8.1 / 6.6 | [-34.743919, -55.766408](https://www.google.com/maps/search/?api=1&query=-34.743919,-55.766408) |
+| 5 | [Casapueblo](sights/casapueblo.yaml) | Attraction | **85.30** | **Photography 9.2**, **Architecture 9.1**, **Culture 8.5** | 8.8 / 8.8 / 8.2 / 8.6 / 7.6 | [-34.9096, -55.0446](https://www.google.com/maps/search/?api=1&query=-34.9096,-55.0446) |
+| 6 | [Montevideo Rambla](sights/montevideo-rambla.yaml) | Attraction | **84.80** | **Relaxation 9.1**, **Photography 8.7**, **Culture 8.4** | 8.4 / 8.7 / 7.9 / 8.9 / 8.7 | [-34.915, -56.162](https://www.google.com/maps/search/?api=1&query=-34.915,-56.162) |
+| 7 | [Quebrada de los Cuervos and Sierras del Yerbal](sights/quebrada-de-los-cuervos-and-sierras-del-yerbal.yaml) | Attraction | **84.25** | **Nature 8.9**, **Photography 8.7**, **Adventure 8.5** | 8.4 / 8.4 / 8.5 / 8.5 / 8.3 | [-32.909, -54.45](https://www.google.com/maps/search/?api=1&query=-32.909,-54.45) |
+| 8 | [Estadio Centenario and Football Museum](sights/estadio-centenario-and-football-museum.yaml) | Museum / heritage | **83.90** | **History 9.4**, **Culture 9.1** | 7.9 / 8.8 / 9.2 / 8.2 / 7.5 | [-34.8945, -56.1527](https://www.google.com/maps/search/?api=1&query=-34.8945,-56.1527) |
+| 9 | [Isla de Lobos Marine Protected Area](sights/isla-de-lobos-marine-protected-area.yaml) | Attraction | **83.70** | **Wildlife 9.2**, **Nature 9.0**, **Photography 8.4** | 8.2 / 8.8 / 8.8 / 8.0 / 7.5 | [-35.025, -54.88](https://www.google.com/maps/search/?api=1&query=-35.025,-54.88) |
+| 9 | [Valle del Lunarejo](sights/valle-del-lunarejo.yaml) | Attraction | **83.70** | **Nature 8.9**, **Wildlife 8.5**, **Adventure 8.3** | 8.3 / 8.4 / 8.5 / 8.4 / 8.2 | [-31.158, -55.904](https://www.google.com/maps/search/?api=1&query=-31.158,-55.904) |
+| 11 | [Laguna de Rocha](sights/laguna-de-rocha.yaml) | Attraction | **83.50** | **Wildlife 9.0**, **Nature 8.9**, **Photography 8.6** | 8.2 / 8.5 / 8.6 / 8.3 / 8.0 | [-34.657, -54.258](https://www.google.com/maps/search/?api=1&query=-34.657,-54.258) |
+| 12 | [Ciudad Vieja (Montevideo)](sights/ciudad-vieja-montevideo.yaml) | Attraction | **83.45** | **History 8.8**, **Architecture 8.7**, **Culture 8.7**, Food 8.4 | 8.2 / 8.2 / 8.6 / 8.5 / 8.4 | [-34.907, -56.2078](https://www.google.com/maps/search/?api=1&query=-34.907,-56.2078) |
+| 13 | [Fortaleza de Santa Teresa](sights/fortaleza-de-santa-teresa.yaml) | Attraction | **82.55** | **History 9.0**, **Architecture 8.7**, **Photography 8.4** | 8.2 / 8.2 / 8.6 / 8.3 / 7.8 | [-33.9725, -53.5504](https://www.google.com/maps/search/?api=1&query=-33.9725,-53.5504) |
+| 14 | [Esteros de Farrapos National Park](sights/esteros-de-farrapos-national-park.yaml) | Park / reserve | **82.25** | **Wildlife 9.0**, **Nature 8.9** | 7.9 / 8.5 / 8.6 / 8.0 / 8.1 | [-32.794, -58.107](https://www.google.com/maps/search/?api=1&query=-32.794,-58.107) |
+| 14 | [Palacio Salvo](sights/palacio-salvo.yaml) | Attraction | **82.25** | **Architecture 9.0**, **History 8.6**, **Photography 8.6** | 8.3 / 8.5 / 8.5 / 8.0 / 7.1 | [-34.9063, -56.1992](https://www.google.com/maps/search/?api=1&query=-34.9063,-56.1992) |
+| 16 | [Valizas Dunes (Cerro de la Buena Vista)](sights/valizas-dunes-cerro-de-la-buena-vista.yaml) | Desert | **81.85** | **Photography 9.0**, **Nature 8.8**, **Adventure 8.5** | 8.4 / 8.5 / 7.5 / 8.6 / 7.5 | [-34.357, -53.796](https://www.google.com/maps/search/?api=1&query=-34.357,-53.796) |
+| 17 | [Cerro Verde and La Coronilla Islands](sights/cerro-verde-and-la-coronilla-islands.yaml) | Island | **81.80** | **Wildlife 8.9**, **Nature 8.8** | 8.0 / 8.5 / 8.6 / 7.9 / 7.5 | [-33.905, -53.503](https://www.google.com/maps/search/?api=1&query=-33.905,-53.503) |
+| 18 | [Teatro Solis](sights/teatro-solis.yaml) | Attraction | **81.65** | **Culture 8.9**, **Architecture 8.7**, **History 8.7** | 8.2 / 7.9 / 8.6 / 8.4 / 7.5 | [-34.9068, -56.2014](https://www.google.com/maps/search/?api=1&query=-34.9068,-56.2014) |
+| 19 | [Laguna Garzon](sights/laguna-garzon.yaml) | Attraction | **81.40** | **Nature 8.6**, **Photography 8.5**, **Wildlife 8.5** | 8.0 / 8.3 / 8.3 / 8.1 / 7.9 | [-34.798, -54.557](https://www.google.com/maps/search/?api=1&query=-34.798,-54.557) |
+| 20 | [Grutas del Palacio](sights/grutas-del-palacio.yaml) | Attraction | **81.20** | **Nature 8.7**, **Photography 8.6** | 8.0 / 8.7 / 8.3 / 7.9 / 7.0 | [-33.275, -57.137](https://www.google.com/maps/search/?api=1&query=-33.275,-57.137) |
+| 21 | [Laguna de Castillos](sights/laguna-de-castillos.yaml) | Attraction | **80.65** | **Wildlife 8.8**, **Nature 8.7** | 7.8 / 8.4 / 8.4 / 7.9 / 7.6 | [-34.258, -53.902](https://www.google.com/maps/search/?api=1&query=-34.258,-53.902) |
+| 21 | [Palacio Legislativo](sights/palacio-legislativo.yaml) | Attraction | **80.65** | **Architecture 8.8**, **History 8.6** | 8.3 / 7.8 / 8.4 / 8.1 / 7.3 | [-34.8915, -56.1877](https://www.google.com/maps/search/?api=1&query=-34.8915,-56.1877) |
+| 23 | [Museo Andes 1972](sights/museo-andes-1972.yaml) | Attraction | **80.25** | **History 8.6**, **Culture 8.2** | 7.6 / 8.6 / 8.2 / 8.3 / 7.1 | [-34.906, -56.2038](https://www.google.com/maps/search/?api=1&query=-34.906,-56.2038) |
+| 24 | [Santa Teresa National Park](sights/santa-teresa-national-park.yaml) | Park / reserve | **80.00** | **Beaches 8.5**, **Relaxation 8.5**, **Nature 8.4**, Family 8.3 | 8.1 / 7.7 / 7.7 / 8.5 / 8.3 | [-33.978, -53.534](https://www.google.com/maps/search/?api=1&query=-33.978,-53.534) |
+| 25 | [Plaza de Toros Real de San Carlos](sights/plaza-de-toros-real-de-san-carlos.yaml) | Park / square | **79.95** | **Architecture 8.7**, **History 8.4** | 7.9 / 8.3 / 8.1 / 8.0 / 7.3 | [-34.44, -57.8668](https://www.google.com/maps/search/?api=1&query=-34.44,-57.8668) |
+| 26 | [Plaza Independencia](sights/plaza-independencia.yaml) | Park / square | **79.70** | **History 8.9**, **Culture 8.4**, **Architecture 8.3** | 7.9 / 7.7 / 8.6 / 8.1 / 7.4 | [-34.9064, -56.2001](https://www.google.com/maps/search/?api=1&query=-34.9064,-56.2001) |
+| 27 | [Mercado del Puerto](sights/mercado-del-puerto.yaml) | Attraction | **79.55** | **Food 9.0**, **Culture 8.4**, **Architecture 8.1** | 7.8 / 8.1 / 7.8 / 8.6 / 7.4 | [-34.9058, -56.213](https://www.google.com/maps/search/?api=1&query=-34.9058,-56.213) |
+| 28 | [Cerro Arequita](sights/cerro-arequita.yaml) | Attraction | **79.25** | **Photography 8.6**, **Nature 8.5**, **Adventure 8.2** | 8.0 / 8.1 / 7.6 / 8.2 / 7.5 | [-34.284, -55.267](https://www.google.com/maps/search/?api=1&query=-34.284,-55.267) |
+| 29 | [Montes del Queguay](sights/montes-del-queguay.yaml) | Attraction | **78.75** | **Wildlife 8.5**, **Nature 8.4**, **Adventure 7.9** | 7.6 / 8.0 / 8.2 / 7.9 / 7.7 | [-32.104, -57.304](https://www.google.com/maps/search/?api=1&query=-32.104,-57.304) |
+| 30 | [Laguna Negra](sights/laguna-negra.yaml) | Attraction | **78.50** | **Nature 8.5**, **Wildlife 8.5** | 7.7 / 8.0 / 8.1 / 7.8 / 7.5 | [-34.032, -53.665](https://www.google.com/maps/search/?api=1&query=-34.032,-53.665) |
+| 30 | [Museo del Carnaval](sights/museo-del-carnaval.yaml) | Attraction | **78.50** | **Culture 8.9**, **History 8.2** | 7.5 / 8.2 / 8.1 / 8.0 / 7.3 | [-34.9056, -56.2135](https://www.google.com/maps/search/?api=1&query=-34.9056,-56.2135) |
+| 32 | [National Museum of Visual Arts](sights/national-museum-of-visual-arts.yaml) | Museum / heritage | **78.25** | **Culture 8.7** | 7.7 / 7.7 / 8.0 / 8.0 / 7.9 | [-34.9153, -56.1628](https://www.google.com/maps/search/?api=1&query=-34.9153,-56.1628) |
+| 33 | [Humedales de Santa Lucia](sights/humedales-de-santa-lucia.yaml) | Attraction | **77.80** | **Wildlife 8.5**, **Nature 8.4** | 7.5 / 7.9 / 8.2 / 7.7 / 7.6 | [-34.777, -56.353](https://www.google.com/maps/search/?api=1&query=-34.777,-56.353) |
+| 34 | [Penarol Historic Railway District](sights/penarol-historic-railway-district.yaml) | Attraction | **77.70** | **History 8.7**, **Architecture 8.2** | 7.2 / 8.3 / 8.3 / 7.5 / 7.5 | [-34.831, -56.212](https://www.google.com/maps/search/?api=1&query=-34.831,-56.212) |
+| 35 | [San Miguel National Park](sights/san-miguel-national-park.yaml) | Park / reserve | **77.65** | **Nature 8.3**, **Wildlife 8.2** | 7.6 / 7.7 / 8.1 / 7.8 / 7.7 | [-33.683, -53.599](https://www.google.com/maps/search/?api=1&query=-33.683,-53.599) |
+| 36 | [Fortin de San Miguel](sights/fortin-de-san-miguel.yaml) | Attraction | **77.55** | **History 8.6**, **Architecture 8.3** | 7.5 / 7.9 / 8.2 / 7.8 / 7.2 | [-33.6915, -53.5833](https://www.google.com/maps/search/?api=1&query=-33.6915,-53.5833) |
+| 37 | [Museo Torres Garcia](sights/museo-torres-garcia.yaml) | Attraction | **77.15** | **Culture 8.6**, **History 8.0** | 7.5 / 7.9 / 8.1 / 7.8 / 7.0 | [-34.9063, -56.2007](https://www.google.com/maps/search/?api=1&query=-34.9063,-56.2007) |
+| 38 | [Fortaleza del Cerro](sights/fortaleza-del-cerro.yaml) | Attraction | **77.10** | **History 8.6**, **Photography 8.2**, **Architecture 8.1** | 7.6 / 7.6 / 8.2 / 7.8 / 7.2 | [-34.8877, -56.2598](https://www.google.com/maps/search/?api=1&query=-34.8877,-56.2598) |
+| 38 | [Rincon de Franquia](sights/rincon-de-franquia.yaml) | Attraction | **77.10** | **Wildlife 8.5**, **Nature 8.3** | 7.3 / 8.0 / 8.2 / 7.6 / 7.4 | [-30.207, -57.608](https://www.google.com/maps/search/?api=1&query=-30.207,-57.608) |
+| 40 | [Palacio Taranco Museum](sights/palacio-taranco-museum.yaml) | Museum / heritage | **76.85** | **Architecture 8.4**, **Culture 8.2**, **History 8.1** | 7.6 / 7.7 / 7.9 / 7.8 / 7.3 | [-34.9069, -56.2076](https://www.google.com/maps/search/?api=1&query=-34.9069,-56.2076) |
+| 40 | [Playa Brava and La Mano](sights/playa-brava-and-la-mano.yaml) | Attraction | **76.85** | **Photography 8.7**, **Beaches 8.6**, **Relaxation 8.1** | 8.0 / 8.0 / 6.5 / 8.3 / 7.4 | [-34.9583, -54.9381](https://www.google.com/maps/search/?api=1&query=-34.9583,-54.9381) |
+| 42 | [Arboretum Lussich](sights/arboretum-lussich.yaml) | Garden | **76.55** | **Nature 8.2**, **Relaxation 8.0** | 7.5 / 7.8 / 7.5 / 7.9 / 7.7 | [-34.891, -55.039](https://www.google.com/maps/search/?api=1&query=-34.891,-55.039) |
+| 43 | [Isla Gorriti](sights/isla-gorriti.yaml) | Attraction | **76.30** | **Beaches 8.2**, **Relaxation 8.2**, **History 7.6** | 7.7 / 7.5 / 7.5 / 8.1 / 7.3 | [-34.9512, -54.978](https://www.google.com/maps/search/?api=1&query=-34.9512,-54.978) |
+| 44 | [Meseta de Artigas](sights/meseta-de-artigas.yaml) | Attraction | **76.25** | **History 8.6**, **Photography 8.0** | 7.5 / 7.6 / 8.2 / 7.7 / 6.8 | [-31.695, -57.957](https://www.google.com/maps/search/?api=1&query=-31.695,-57.957) |
+| 45 | [Mausoleo de Artigas](sights/mausoleo-de-artigas.yaml) | Attraction | **76.10** | **History 9.0**, **Culture 8.3** | 7.4 / 7.6 / 8.5 / 7.6 / 6.5 | [-34.9064, -56.2](https://www.google.com/maps/search/?api=1&query=-34.9064,-56.2) |
+| 46 | [Punta Ballena Headland](sights/punta-ballena-headland.yaml) | Attraction | **75.90** | **Photography 8.8**, **Nature 8.1**, **Relaxation 7.8** | 8.2 / 7.6 / 6.6 / 8.2 / 6.8 | [-34.9104, -55.045](https://www.google.com/maps/search/?api=1&query=-34.9104,-55.045) |
+| 47 | [Tristan Narvaja Market](sights/tristan-narvaja-market.yaml) | Market | **75.85** | **Culture 8.5**, **Food 8.0** | 7.4 / 7.8 / 7.0 / 8.3 / 7.7 | [-34.9028, -56.1791](https://www.google.com/maps/search/?api=1&query=-34.9028,-56.1791) |
+| 48 | [Salto del Penitente](sights/salto-del-penitente.yaml) | Attraction | **75.80** | **Adventure 8.4**, **Nature 8.3**, **Photography 8.2** | 7.8 / 7.7 / 6.8 / 8.1 / 7.4 | [-34.39, -55.12](https://www.google.com/maps/search/?api=1&query=-34.39,-55.12) |
+| 49 | [Castillo de Piria](sights/castillo-de-piria.yaml) | Attraction | **75.15** | **Architecture 8.3**, **History 8.1** | 7.4 / 7.7 / 7.7 / 7.6 / 6.9 | [-34.8275, -55.244](https://www.google.com/maps/search/?api=1&query=-34.8275,-55.244) |
+| 50 | [Colonia Lighthouse](sights/colonia-lighthouse.yaml) | Attraction | **74.70** | **Photography 8.4**, **History 8.0** | 7.6 / 7.4 / 7.6 / 7.8 / 6.5 | [-34.4725, -57.8515](https://www.google.com/maps/search/?api=1&query=-34.4725,-57.8515) |
+| 51 | [Cerro San Antonio](sights/cerro-san-antonio.yaml) | Attraction | **74.05** | **Photography 8.6**, **Relaxation 7.7** | 7.9 / 7.4 / 6.5 / 8.1 / 6.7 | [-34.8807, -55.2734](https://www.google.com/maps/search/?api=1&query=-34.8807,-55.2734) |
+| 52 | [Termas del Arapey](sights/termas-del-arapey.yaml) | Attraction | **74.00** | **Relaxation 8.9**, **Family 8.3** | 7.4 / 7.5 / 6.3 / 8.5 / 7.7 | [-30.958, -57.529](https://www.google.com/maps/search/?api=1&query=-30.958,-57.529) |
+| 53 | [Termas del Dayman](sights/termas-del-dayman.yaml) | Attraction | **73.35** | **Relaxation 8.9**, **Family 8.5** | 7.2 / 7.4 / 6.4 / 8.5 / 7.7 | [-31.4568, -57.906](https://www.google.com/maps/search/?api=1&query=-31.4568,-57.906) |
+| 54 | [Playa Mansa](sights/playa-mansa.yaml) | Attraction | **72.80** | **Relaxation 8.7**, **Beaches 8.6**, **Family 8.1** | 7.7 / 7.0 / 6.0 / 8.4 / 7.6 | [-34.9485, -54.9512](https://www.google.com/maps/search/?api=1&query=-34.9485,-54.9512) |
+| 55 | [Termas de Almiron](sights/termas-de-almiron.yaml) | Attraction | **71.60** | **Relaxation 8.5** | 7.0 / 7.6 / 6.3 / 8.0 / 7.0 | [-32.353, -57.102](https://www.google.com/maps/search/?api=1&query=-32.353,-57.102) |
+| 56 | [Pocitos Beach](sights/pocitos-beach.yaml) | Beach / bay | **71.40** | **Relaxation 8.3**, **Beaches 8.2** | 7.4 / 7.0 / 6.2 / 8.0 / 7.3 | [-34.9139, -56.1441](https://www.google.com/maps/search/?api=1&query=-34.9139,-56.1441) |
+| 57 | [Parque Rodo](sights/parque-rodo.yaml) | Attraction | **70.90** | **Relaxation 8.1**, **Family 8.0** | 7.1 / 6.8 / 6.7 / 7.8 / 7.5 | [-34.9135, -56.168](https://www.google.com/maps/search/?api=1&query=-34.9135,-56.168) |
+| 58 | [Termas de Guaviyu](sights/termas-de-guaviyu.yaml) | Attraction | **70.80** | **Relaxation 8.6**, **Family 8.1** | 7.0 / 7.3 / 6.1 / 8.1 / 7.2 | [-31.839, -57.892](https://www.google.com/maps/search/?api=1&query=-31.839,-57.892) |
+| 59 | [Jardin Botanico de Montevideo](sights/jardin-botanico-de-montevideo.yaml) | Garden | **70.30** | **Relaxation 7.9**, **Nature 7.7**, **Family 7.6** | 7.0 / 6.8 / 6.8 / 7.6 / 7.3 | [-34.857, -56.2068](https://www.google.com/maps/search/?api=1&query=-34.857,-56.2068) |
 
-Add destination YAML files in [sights/](sights/), then regenerate the overview files.
+## Not yet fully assessed (2)
+
+These destinations have no rank until all five core scores are assessed.
+
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps |
+| ---: | --- | --- | ---: | --- | --- | --- |
+| — | [Isla de Flores Cultural Landscape](sights/isla-de-flores-cultural-landscape.yaml) | Coast | **—** | **History 8.7**, **Nature 8.3** | — / 8.4 / 8.5 / — / — | [-34.944, -55.931](https://www.google.com/maps/search/?api=1&query=-34.944,-55.931) |
+| — | [Localidad Rupestre de Chamanga](sights/localidad-rupestre-de-chamanga.yaml) | Attraction | **—** | **History 9.0**, **Culture 8.6** | — / 8.6 / 8.8 / — / — | [-33.544, -56.725](https://www.google.com/maps/search/?api=1&query=-33.544,-56.725) |
 
 ---
 
