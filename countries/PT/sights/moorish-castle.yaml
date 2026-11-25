@@ -1,0 +1,15 @@
+id: sight-pt-moorish-castle
+name: "Castle of the Moors, Sintra"
+location:
+  country_code: PT
+  latitude: 38.792
+  longitude: -9.389
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 8.8
+  experience: 8.9
+  depth: 8.3
+  categories:
+    history: 9.1
+    photography: 9.3

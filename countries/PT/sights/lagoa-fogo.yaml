@@ -1,0 +1,15 @@
+id: sight-pt-lagoa-fogo
+name: "Lagoa do Fogo"
+location:
+  country_code: PT
+  latitude: 37.76
+  longitude: -25.47
+scores:
+  impact: 9.1
+  uniqueness: 9.0
+  significance: 8.7
+  experience: 8.8
+  depth: 8.4
+  categories:
+    nature: 9.4
+    photography: 9.4

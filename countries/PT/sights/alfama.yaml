@@ -1,0 +1,16 @@
+id: sight-pt-alfama
+name: "Alfama historic quarter"
+location:
+  country_code: PT
+  latitude: 38.711
+  longitude: -9.13
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 8.8
+  experience: 9.1
+  depth: 8.6
+  categories:
+    architecture: 9.2
+    culture: 9.3
+    photography: 9.2

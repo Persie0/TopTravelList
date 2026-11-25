@@ -1,0 +1,16 @@
+id: sight-pt-coimbra-university
+name: "University of Coimbra – Alta and Sofia"
+location:
+  country_code: PT
+  latitude: 40.208
+  longitude: -8.426
+scores:
+  impact: 9.0
+  uniqueness: 9.1
+  significance: 9.4
+  experience: 8.9
+  depth: 9.1
+  categories:
+    architecture: 9.4
+    history: 9.4
+    culture: 9.3

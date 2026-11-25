@@ -1,0 +1,15 @@
+id: sight-pt-raia-fortifications
+name: "Bulwarked Fortifications of the Raia (tentative series)"
+location:
+  country_code: PT
+  latitude: 39.65
+  longitude: -7.49
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 9.1
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.2
+    history: 9.3

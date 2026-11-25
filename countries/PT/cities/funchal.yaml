@@ -1,0 +1,16 @@
+id: city-pt-funchal
+name: "Funchal"
+location:
+  country_code: PT
+  latitude: 32.6669
+  longitude: -16.9241
+scores:
+  impact: 8.7
+  uniqueness: 8.7
+  significance: 8.5
+  experience: 9.0
+  depth: 8.7
+  categories:
+    architecture: 8.8
+    food: 9.0
+    relaxation: 9.0

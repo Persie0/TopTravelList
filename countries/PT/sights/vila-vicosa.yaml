@@ -1,0 +1,15 @@
+id: sight-pt-vila-vicosa
+name: "Vila Viçosa Renaissance ducal town (tentative)"
+location:
+  country_code: PT
+  latitude: 38.779
+  longitude: -7.417
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 8.6
+  depth: 8.6
+  categories:
+    architecture: 9.2
+    history: 9.2
