@@ -1,0 +1,15 @@
+id: sight-mm-wooden-monasteries
+name: "Wooden Monasteries of Konbaung Period"
+location:
+  country_code: MM
+  latitude: 21.99
+  longitude: 96.12
+scores:
+  impact: 8.4
+  uniqueness: 8.9
+  significance: 8.7
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.0
+    history: 8.8

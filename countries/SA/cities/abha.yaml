@@ -1,0 +1,16 @@
+id: city-sa-abha
+name: "Abha"
+location:
+  country_code: SA
+  latitude: 18.2164
+  longitude: 42.5053
+scores:
+  impact: 7.6
+  uniqueness: 7.7
+  significance: 7.2
+  experience: 7.9
+  depth: 7.5
+  categories:
+    nature: 7.8
+    culture: 7.8
+    architecture: 7.6

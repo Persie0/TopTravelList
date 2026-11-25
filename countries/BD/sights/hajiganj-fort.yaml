@@ -1,0 +1,15 @@
+id: sight-bd-hajiganj-fort
+name: "Hajiganj Fort"
+location:
+  country_code: BD
+  latitude: 23.633506
+  longitude: 90.513017
+scores:
+  impact: 7.4
+  uniqueness: 8.0
+  significance: 8.4
+  experience: 7.6
+  depth: 6.4
+  categories:
+    history: 8.7
+    architecture: 8.4

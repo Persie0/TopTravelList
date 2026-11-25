@@ -1,0 +1,16 @@
+id: sight-no-rago
+name: "Rago National Park"
+location:
+  country_code: "NO"
+  latitude: 67.45
+  longitude: 15.95
+scores:
+  impact: 9.0
+  uniqueness: 8.9
+  significance: 8.7
+  experience: 8.7
+  depth: 8.8
+  categories:
+    nature: 9.3
+    photography: 9.2
+    adventure: 9.1

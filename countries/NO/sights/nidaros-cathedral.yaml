@@ -1,0 +1,16 @@
+id: sight-no-nidaros-cathedral
+name: "Nidaros Cathedral"
+location:
+  country_code: "NO"
+  latitude: 63.427
+  longitude: 10.396
+scores:
+  impact: 8.9
+  uniqueness: 8.7
+  significance: 9.2
+  experience: 8.7
+  depth: 8.3
+  categories:
+    architecture: 9.3
+    history: 9.4
+    culture: 9

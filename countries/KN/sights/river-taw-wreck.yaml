@@ -1,0 +1,15 @@
+id: sight-kn-river-taw-wreck
+name: "River Taw Wreck"
+location:
+  country_code: KN
+  latitude: 17.280
+  longitude: -62.735
+scores:
+  impact: 8.2
+  uniqueness: 8.3
+  significance: 6.9
+  experience: 8.4
+  depth: 6.7
+  categories:
+    adventure: 8.9
+    wildlife: 8.3

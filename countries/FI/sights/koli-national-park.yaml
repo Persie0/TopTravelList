@@ -1,0 +1,16 @@
+id: sight-fi-koli-national-park
+name: "Koli National Park"
+location:
+  country_code: FI
+  latitude: 63.09
+  longitude: 29.81
+scores:
+  impact: 8.9
+  uniqueness: 8.6
+  significance: 8.8
+  experience: 9.0
+  depth: 8.6
+  categories:
+    nature: 9.2
+    photography: 9.4
+    adventure: 8.8

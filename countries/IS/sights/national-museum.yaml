@@ -1,0 +1,15 @@
+id: sight-is-national-museum
+name: "National Museum of Iceland"
+location:
+  country_code: IS
+  latitude: 64.142
+  longitude: -21.947
+scores:
+  impact: 8.0
+  uniqueness: 8.2
+  significance: 8.7
+  experience: 8.5
+  depth: 8.5
+  categories:
+    history: 9.1
+    culture: 8.9

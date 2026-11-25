@@ -1,0 +1,15 @@
+id: sight-kg-kan-i-gut-caves
+name: "Kan-i-Gut Caves"
+location:
+  country_code: KG
+  latitude: 39.89
+  longitude: 70.34
+scores:
+  impact: null
+  uniqueness: 8.3
+  significance: 8.6
+  experience: null
+  depth: null
+  categories:
+    history: 8.8
+    nature: 8.4

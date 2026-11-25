@@ -1,0 +1,15 @@
+id: sight-kp-kim-il-sung-square
+name: "Kim Il Sung Square"
+location:
+  country_code: KP
+  latitude: 39.019
+  longitude: 125.753
+scores:
+  impact: 7.6
+  uniqueness: 7.8
+  significance: 8.0
+  experience: 7.4
+  depth: 6.3
+  categories:
+    architecture: 8.0
+    history: 8.2

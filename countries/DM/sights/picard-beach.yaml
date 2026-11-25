@@ -1,0 +1,15 @@
+id: sight-dm-picard-beach
+name: "Picard Beach"
+location:
+  country_code: DM
+  latitude: 15.559
+  longitude: -61.463
+scores:
+  impact: 8.0
+  uniqueness: 7.3
+  significance: 5.7
+  experience: 8.4
+  depth: 7.2
+  categories:
+    beaches: 8.5
+    relaxation: 8.4

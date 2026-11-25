@@ -1,0 +1,16 @@
+id: sight-cy-painted-churches
+name: "Painted Churches in the Troodos Region"
+location:
+  country_code: CY
+  latitude: 34.992
+  longitude: 32.883
+scores:
+  impact: 8.6
+  uniqueness: 9.0
+  significance: 9.1
+  experience: 8.4
+  depth: 8.6
+  categories:
+    architecture: 9.1
+    history: 9.2
+    culture: 9.0

@@ -1,0 +1,16 @@
+id: city-dk-christiansfeld
+name: "Christiansfeld"
+location:
+  country_code: DK
+  latitude: 55.356
+  longitude: 9.481
+scores:
+  impact: 8.0
+  uniqueness: 8.6
+  significance: 8.5
+  experience: 8.1
+  depth: 7.2
+  categories:
+    architecture: 9
+    history: 8.8
+    culture: 8.6

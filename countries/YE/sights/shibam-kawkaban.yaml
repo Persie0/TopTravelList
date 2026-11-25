@@ -1,0 +1,15 @@
+id: sight-ye-shibam-kawkaban
+name: "Shibam Kawkaban"
+location:
+  country_code: YE
+  latitude: 15.496667
+  longitude: 43.905
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 8.6
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.0
+    history: 8.8

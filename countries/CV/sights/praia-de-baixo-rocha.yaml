@@ -1,0 +1,15 @@
+id: sight-cv-praia-de-baixo-rocha
+name: "Praia de Baixo Rocha"
+location:
+  country_code: CV
+  latitude: 16.5410
+  longitude: -24.3260
+scores:
+  impact: 8.5
+  uniqueness: 8.2
+  significance: 5.8
+  experience: 8.0
+  depth: 6.6
+  categories:
+    beaches: 8.8
+    photography: 8.8

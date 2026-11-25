@@ -1,0 +1,15 @@
+id: city-is-hveragerdi
+name: "Hveragerði"
+location:
+  country_code: IS
+  latitude: 64
+  longitude: -21.188
+scores:
+  impact: 7.5
+  uniqueness: 8.3
+  significance: 7.5
+  experience: 8.2
+  depth: 7.3
+  categories:
+    relaxation: 8.6
+    nature: 8.2

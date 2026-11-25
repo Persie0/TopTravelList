@@ -1,0 +1,16 @@
+id: sight-ag-north-sound-marine-park
+name: "North Sound Marine Park"
+location:
+  country_code: AG
+  latitude: 17.134
+  longitude: -61.725
+scores:
+  impact: 8.5
+  uniqueness: 8.6
+  significance: 8.1
+  experience: 8.9
+  depth: 8.4
+  categories:
+    nature: 9.1
+    wildlife: 8.9
+    adventure: 9.1

@@ -1,0 +1,15 @@
+id: city-ag-willikies
+name: "Willikies"
+location:
+  country_code: AG
+  latitude: 17.083
+  longitude: -61.704
+scores:
+  impact: 6.6
+  uniqueness: 7.2
+  significance: 6.5
+  experience: 7.3
+  depth: 6.0
+  categories:
+    culture: 7.7
+    photography: 7.7

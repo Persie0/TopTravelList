@@ -1,0 +1,16 @@
+id: sight-ag-two-foot-bay-caves
+name: "Two Foot Bay Caves"
+location:
+  country_code: AG
+  latitude: 17.678
+  longitude: -61.765
+scores:
+  impact: 8.3
+  uniqueness: 8.8
+  significance: 8.7
+  experience: 7.9
+  depth: 7.3
+  categories:
+    history: 9.1
+    nature: 8.9
+    culture: 8.8

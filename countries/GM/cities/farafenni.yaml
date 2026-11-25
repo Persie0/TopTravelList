@@ -1,0 +1,15 @@
+id: city-gm-farafenni
+name: "Farafenni"
+location:
+  country_code: GM
+  latitude: 13.5720
+  longitude: -15.6000
+scores:
+  impact: 6.1
+  uniqueness: 6.5
+  significance: 6.5
+  experience: 7.0
+  depth: 6.3
+  categories:
+    culture: 7.2
+    food: 7.4

@@ -1,0 +1,15 @@
+id: sight-dk-borgring
+name: "Borgring Viking-Age Ring Fortress"
+location:
+  country_code: DK
+  latitude: 55.469722
+  longitude: 12.123333
+scores:
+  impact: 7.5
+  uniqueness: 8.6
+  significance: 9.0
+  experience: 8.0
+  depth: 7.5
+  categories:
+    history: 9.1
+    culture: 8.7

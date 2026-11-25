@@ -1,0 +1,16 @@
+id: sight-se-nordic-museum
+name: "Nordic Museum"
+location:
+  country_code: SE
+  latitude: 59.329
+  longitude: 18.094
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 8.8
+  experience: 8.7
+  depth: 9.0
+  categories:
+    culture: 9.2
+    history: 9
+    architecture: 9

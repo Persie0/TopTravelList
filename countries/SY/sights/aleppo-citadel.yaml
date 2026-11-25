@@ -1,0 +1,16 @@
+id: sight-sy-aleppo-citadel
+name: "Citadel of Aleppo"
+location:
+  country_code: SY
+  latitude: 36.199
+  longitude: 37.162
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 9.2
+  experience: 8.3
+  depth: 8.2
+  categories:
+    architecture: 9.2
+    history: 9.3
+    photography: 9.1

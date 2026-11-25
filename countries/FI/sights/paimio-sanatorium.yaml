@@ -1,0 +1,15 @@
+id: sight-fi-paimio-sanatorium
+name: "Paimio Sanatorium"
+location:
+  country_code: FI
+  latitude: 60.465001
+  longitude: 22.735275
+scores:
+  impact: 8.8
+  uniqueness: 9.3
+  significance: 9.4
+  experience: 8.7
+  depth: 8.0
+  categories:
+    architecture: 9.4
+    history: 9.4

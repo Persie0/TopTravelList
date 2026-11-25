@@ -1,0 +1,15 @@
+id: sight-bb-barbados-museum-and-historical-society
+name: "Barbados Museum and Historical Society"
+location:
+  country_code: BB
+  latitude: 13.079
+  longitude: -59.605
+scores:
+  impact: 7.2
+  uniqueness: 8.2
+  significance: 8.7
+  experience: 8.2
+  depth: 8.0
+  categories:
+    history: 9.2
+    culture: 9.0

@@ -1,0 +1,16 @@
+id: sight-sa-asir-national-park
+name: "Asir National Park"
+location:
+  country_code: SA
+  latitude: 18.25
+  longitude: 42.37
+scores:
+  impact: 8.3
+  uniqueness: 8.0
+  significance: 7.9
+  experience: 8.3
+  depth: 8.2
+  categories:
+    nature: 8.6
+    adventure: 8.4
+    wildlife: 8.0

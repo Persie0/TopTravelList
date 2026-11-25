@@ -1,0 +1,15 @@
+id: sight-af-herat-citadel
+name: "Herat Citadel (Qala Ikhtyaruddin)"
+location:
+  country_code: AF
+  latitude: 34.35
+  longitude: 62.197
+scores:
+  impact: 8.6
+  uniqueness: 8.6
+  significance: 8.8
+  experience: 8.2
+  depth: 8.0
+  categories:
+    architecture: 9.0
+    history: 9.0

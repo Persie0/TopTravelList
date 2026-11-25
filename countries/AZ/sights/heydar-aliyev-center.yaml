@@ -1,0 +1,16 @@
+id: sight-az-heydar-aliyev-center
+name: "Heydar Aliyev Center"
+location:
+  country_code: AZ
+  latitude: 40.395
+  longitude: 49.867
+scores:
+  impact: 8.8
+  uniqueness: 9.4
+  significance: 7.8
+  experience: 8.5
+  depth: 7.8
+  categories:
+    architecture: 9.6
+    photography: 9.4
+    culture: 8.2

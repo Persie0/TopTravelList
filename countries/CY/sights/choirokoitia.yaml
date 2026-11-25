@@ -1,0 +1,15 @@
+id: sight-cy-choirokoitia
+name: "Choirokoitia Neolithic Settlement"
+location:
+  country_code: CY
+  latitude: 34.796
+  longitude: 33.343
+scores:
+  impact: 7.9
+  uniqueness: 8.6
+  significance: 9.0
+  experience: 8.0
+  depth: 7.5
+  categories:
+    history: 9.1
+    architecture: 8.5

@@ -1,0 +1,14 @@
+id: city-kg-batken
+name: "Batken"
+location:
+  country_code: KG
+  latitude: 40.062
+  longitude: 70.82
+scores:
+  impact: 6.3
+  uniqueness: 6.7
+  significance: 6.9
+  experience: 6.9
+  depth: 6.4
+  categories:
+    culture: 7.3

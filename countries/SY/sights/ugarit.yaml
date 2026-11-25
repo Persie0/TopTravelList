@@ -1,0 +1,14 @@
+id: sight-sy-ugarit
+name: "Ugarit (Tell Shamra)"
+location:
+  country_code: SY
+  latitude: 35.602
+  longitude: 35.782
+scores:
+  impact: 7.8
+  uniqueness: 9.0
+  significance: 9.4
+  experience: 7.9
+  depth: 7.9
+  categories:
+    history: 9.4

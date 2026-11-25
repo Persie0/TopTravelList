@@ -1,0 +1,15 @@
+id: city-az-lankaran
+name: "Lankaran"
+location:
+  country_code: AZ
+  latitude: 38.754
+  longitude: 48.85
+scores:
+  impact: 7.3
+  uniqueness: 7.7
+  significance: 7.4
+  experience: 8.0
+  depth: 7.4
+  categories:
+    food: 8.7
+    culture: 8.2
