@@ -2,14 +2,14 @@ id: sight-kz-kolsai-lakes-national-park
 name: "Kolsai Lakes National Park"
 location:
   country_code: KZ
-  latitude: 42.96
-  longitude: 78.31
+  latitude: 42.99493
+  longitude: 78.32631
 scores:
   impact: 9.3
   uniqueness: 9.0
   significance: 8.3
   experience: 9.1
-  depth: 9.1
+  depth: 8.9
   categories:
     nature: 9.4
     photography: 9.5

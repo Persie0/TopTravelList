@@ -2,8 +2,8 @@ id: sight-kz-charyn-canyon-valley-of-castles
 name: "Charyn Canyon (Valley of Castles)"
 location:
   country_code: KZ
-  latitude: 43.35
-  longitude: 79.08
+  latitude: 43.35292
+  longitude: 79.06817
 scores:
   impact: 9.4
   uniqueness: 9.1

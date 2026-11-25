@@ -2,8 +2,8 @@ id: sight-kz-bozzhyra-tract
 name: "Bozzhyra Tract"
 location:
   country_code: KZ
-  latitude: 43.43
-  longitude: 54.07
+  latitude: 43.41397
+  longitude: 54.07343
 scores:
   impact: 9.6
   uniqueness: 9.5

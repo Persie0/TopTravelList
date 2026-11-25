@@ -5,7 +5,7 @@
 ## sight-kz-bozzhyra-tract — Bozzhyra Tract — 2026-11-25
 
 - [YAML](../../../countries/KZ/sights/bozzhyra-tract.yaml) · Action: new · **source-linked-unverified**.
-- Scope: specific escarpment and permitted viewpoints. GPS 43.43, 54.07: approximate editorial point, independent verification pending.
+- Scope: specific escarpment and permitted viewpoints. GPS 43.41397, 54.07343: national tourism catalog point; representative only, not entrance.
 - Worldwide peers (I/U/S/E/D):
   - [Jiuzhaigou Valley (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) — 9.8 / 9.7 / 9.4 / 9.8 / 9.1 (96.25/100); upper reference; Bozzhyra Tract has lower provisional uniqueness and lower depth (distinct sharply eroded plateau forms; several distinct cliff views).
   - [Jebel Shams and Wadi Ghul Canyon (OM)](../../../countries/OM/sights/jebel-shams-and-wadi-ghul-canyon.yaml) — 9.5 / 9.2 / 8.5 / 9.1 / 8.9 (91.05/100); related comparator; Bozzhyra Tract has higher provisional uniqueness and lower depth (distinct sharply eroded plateau forms; several distinct cliff views).
@@ -20,11 +20,12 @@
 - High-score challenge: Impact uniqueness nature and photography 9.5+ reflect the scale and stark white landforms; Wadi Rum has greater diversity of rock formations and heritage depth.. No approved 10.
 - Evidence: [Source](https://kazakhstan.travel/en/news/things-to-do-in-mangystau) — National tourism board identifies major desert and pilgrimage destinations; complementary itinerary https://kazakhstan.travel/en/routes/mangystau-route-158; page or excerpt inspected 2026-11-25. Individual claims not fully verified.
 - Remaining gaps: Independent factual, GPS (unless published reference), category and specialist peer verification.
+- Coordinate follow-up: https://kazakhstan.travel/en/attractions/326 (national tourism catalog point); previous 43.43, 54.07. Representative only.
 
 ## sight-kz-charyn-canyon-valley-of-castles — Charyn Canyon (Valley of Castles) — 2026-11-25
 
 - [YAML](../../../countries/KZ/sights/charyn-canyon-valley-of-castles.yaml) · Action: new · **source-linked-unverified**.
-- Scope: Valley of Castles and normal public canyon walk. GPS 43.35, 79.08: approximate editorial point, independent verification pending.
+- Scope: Valley of Castles and normal public canyon walk. GPS 43.35292, 79.06817: national tourism catalog point for the valley, not the visitor center; representative only, not entrance.
 - Worldwide peers (I/U/S/E/D):
   - [Jiuzhaigou Valley (CN)](../../../countries/CN/sights/jiuzhaigou-valley.yaml) — 9.8 / 9.7 / 9.4 / 9.8 / 9.1 (96.25/100); upper reference; Charyn Canyon (Valley of Castles) has lower provisional uniqueness and lower depth (distinct eroded canyon towers; bounded canyon section).
   - [Jebel Shams and Wadi Ghul Canyon (OM)](../../../countries/OM/sights/jebel-shams-and-wadi-ghul-canyon.yaml) — 9.5 / 9.2 / 8.5 / 9.1 / 8.9 (91.05/100); related comparator; Charyn Canyon (Valley of Castles) has lower provisional uniqueness and lower depth (distinct eroded canyon towers; bounded canyon section).
@@ -39,6 +40,7 @@
 - High-score challenge: Photography 9.5 reflects dense sculpted rock forms, but lower landform diversity and breadth than Wadi Rum.. No approved 10.
 - Evidence: [Source](https://kazakhstan.travel/en/news/things-to-do-in-almaty-region) — National tourism board describes named mountain and canyon destinations and permitted visitor routes; individual scores editorial; page or excerpt inspected 2026-11-25. Individual claims not fully verified.
 - Remaining gaps: Independent factual, GPS (unless published reference), category and specialist peer verification.
+- Coordinate follow-up: https://kazakhstan.travel/en/attractions/1026 (national tourism catalog point for the valley, not the visitor center); previous 43.35, 79.08. Representative only.
 
 ## sight-kz-altyn-emel-national-park — Altyn-Emel National Park — 2026-11-25
 
@@ -58,30 +60,33 @@
 - High-score challenge: Nature and photography 9.5+ justified by varied dunes and chalk mountains; below Sagarmatha in global mountain heritage and Wadi Rum in overall landscape impact.. No approved 10.
 - Evidence: [Source](https://kazakhstan.travel/en/news/things-to-do-in-jetisu-region) — National tourism board identifies regional park, lake and mosque attractions; page or excerpt inspected 2026-11-25. Individual claims not fully verified.
 - Remaining gaps: Independent factual, GPS (unless published reference), category and specialist peer verification.
+- Follow-up: official park https://altynemel-np.kz/en/tourism/information-about-tourism.html and tourism board https://kazakhstan.travel/en/attractions/200 identify three managed routes, including Singing Dune, Besshatyr and Aktau/Katutau. Depth 9.3 refers to distinct scenic and archaeological stops on these routes, not unrestricted reserve access. Permit conditions apply. Retain score provisionally.
 
 ## sight-kz-kolsai-lakes-national-park — Kolsai Lakes National Park — 2026-11-25
 
 - [YAML](../../../countries/KZ/sights/kolsai-lakes-national-park.yaml) · Action: new · **source-linked-unverified**.
-- Scope: park and normal permitted lake and forest routes. GPS 42.96, 78.31: approximate editorial point, independent verification pending.
+- Scope: park and normal permitted lake and forest routes. GPS 42.99493, 78.32631: national tourism catalog park point; representative only, not entrance.
 - Worldwide peers (I/U/S/E/D):
   - [Sagarmatha National Park (NP)](../../../countries/NP/sights/sagarmatha-national-park.yaml) — 9.9 / 9.9 / 9.8 / 9.6 / 9.7 (98.15/100); upper reference; Kolsai Lakes National Park has lower provisional uniqueness and lower depth (distinct lake sequence in northern Tien Shan; several distinct basins).
   - [Yading Nature Reserve (CN)](../../../countries/CN/sights/yading-nature-reserve.yaml) — 9.5 / 9.5 / 9.1 / 9.2 / 9.5 (93.75/100); related comparator; Kolsai Lakes National Park has lower provisional uniqueness and lower depth (distinct lake sequence in northern Tien Shan; several distinct basins).
-  - [Dana Biosphere Reserve (JO)](../../../countries/JO/sights/dana-biosphere-reserve.yaml) — 9.0 / 8.8 / 8.9 / 9.0 / 9.1 (89.40/100); related comparator; Kolsai Lakes National Park has higher provisional uniqueness and equal depth (distinct lake sequence in northern Tien Shan; several distinct basins).
-  - [Jebel Akhdar Mountain Landscape (OM)](../../../countries/OM/sights/jebel-akhdar-mountain-landscape.yaml) — 9.1 / 8.8 / 8.3 / 9.0 / 9.0 (88.40/100); regional or bounded reference; Kolsai Lakes National Park has higher provisional uniqueness and higher depth (distinct lake sequence in northern Tien Shan; several distinct basins).
+  - [Dana Biosphere Reserve (JO)](../../../countries/JO/sights/dana-biosphere-reserve.yaml) — 9.0 / 8.8 / 8.9 / 9.0 / 9.1 (89.40/100); related comparator; Kolsai Lakes National Park has higher provisional uniqueness and lower depth (distinct lake sequence in northern Tien Shan; several distinct basins).
+  - [Jebel Akhdar Mountain Landscape (OM)](../../../countries/OM/sights/jebel-akhdar-mountain-landscape.yaml) — 9.1 / 8.8 / 8.3 / 9.0 / 9.0 (88.40/100); regional or bounded reference; Kolsai Lakes National Park has higher provisional uniqueness and lower depth (distinct lake sequence in northern Tien Shan; several distinct basins).
 - Impact 9.3: multiple clear lakes and forested peaks.
 - Uniqueness 9.0: distinct lake sequence in northern Tien Shan.
 - Significance 8.3: regional protected ecology.
 - Experience 9.1: hiking and viewing.
-- Depth 9.1: several distinct basins.
-- Categories: nature:9.4, photography:9.5, adventure:9.1. Overall: 89.75/100.
+- Depth 8.9: lower and middle Kolsai routes, Kaindy and permitted forest walks; no automatic credit for the uncertain upper-lake trail.
+- Categories: nature:9.4, photography:9.5, adventure:9.1. Overall: 89.55/100.
 - High-score challenge: Photography 9.5 for lake-forest-peak compositions across multiple basins, less concentrated color variety than Jiuzhaigou.. No approved 10.
 - Evidence: [Source](https://kazakhstan.travel/en/news/things-to-do-in-almaty-region) — National tourism board describes named mountain and canyon destinations and permitted visitor routes; individual scores editorial; page or excerpt inspected 2026-11-25. Individual claims not fully verified.
 - Remaining gaps: Independent factual, GPS (unless published reference), category and specialist peer verification.
+- Follow-up: https://kazakhstan.travel/en/attractions/67 confirms Kaindy and Kolsai are both inside the park; https://charyn.kz/eng/national-parks/kolsai/ distinguishes the documented lower/middle routes from unresolved upper-lake access. Retain complete score for the wider documented visitor experience.
+- Coordinate follow-up: https://kazakhstan.travel/en/attractions/67 (national tourism catalog park point); previous 42.96, 78.31. Representative only.
 
 ## sight-kz-kaindy-lake — Kaindy Lake — 2026-11-25
 
 - [YAML](../../../countries/KZ/sights/kaindy-lake.yaml) · Action: new · **source-linked-unverified**.
-- Scope: individual lake and public shore views. GPS 42.984, 78.467: approximate editorial point, independent verification pending.
+- Scope: individual lake and public shore views. GPS 42.9844, 78.46577: national tourism catalog point; representative only, not entrance.
 - Worldwide peers (I/U/S/E/D):
   - [Gokyo Lakes (NP)](../../../countries/NP/sights/gokyo-lakes.yaml) — 9.5 / 9.5 / 9.1 / 9.2 / 9.0 (93.25/100); upper reference; Kaindy Lake has equal provisional uniqueness and lower depth (rare submerged forest lake appearance; one basin).
   - [Heavenly Lake of Tianshan (CN)](../../../countries/CN/sights/heavenly-lake-tianshan.yaml) — 8.8 / 8.9 / 8.5 / 8.9 / 8.0 (87.00/100); related comparator; Kaindy Lake has higher provisional uniqueness and lower depth (rare submerged forest lake appearance; one basin).
@@ -96,30 +101,32 @@
 - High-score challenge: Uniqueness and photography 9.5+ reflect unusual submerged trunks and water contrast, not lake size; Gokyo has broader high-altitude lake scenery.. No approved 10.
 - Evidence: [Source](https://kazakhstan.travel/en/news/things-to-do-in-almaty-region) — National tourism board describes named mountain and canyon destinations and permitted visitor routes; individual scores editorial; page or excerpt inspected 2026-11-25. Individual claims not fully verified.
 - Remaining gaps: Independent factual, GPS (unless published reference), category and specialist peer verification.
+- Coordinate follow-up: https://kazakhstan.travel/en/attractions/68 (national tourism catalog point); previous 42.984, 78.467. Representative only.
 
 ## sight-kz-kolsai-lakes-three-lakes-route — Kolsai Lakes (Three Lakes Route) — 2026-11-25
 
-- [YAML](../../../countries/KZ/sights/kolsai-lakes-three-lakes-route.yaml) · Action: new · **source-linked-unverified**.
+- [YAML](../../../countries/KZ/sights/kolsai-lakes-three-lakes-route.yaml) · Action: new · **unassessed**.
 - Scope: three lakes only, excluding Kaindy. GPS 42.98, 78.32: approximate editorial point, independent verification pending.
 - Worldwide peers (I/U/S/E/D):
-  - [Gokyo Lakes (NP)](../../../countries/NP/sights/gokyo-lakes.yaml) — 9.5 / 9.5 / 9.1 / 9.2 / 9.0 (93.25/100); upper reference; Kolsai Lakes (Three Lakes Route) has lower provisional uniqueness and lower depth (distinct ascending alpine lake chain; three separate basins).
-  - [Heavenly Lake of Tianshan (CN)](../../../countries/CN/sights/heavenly-lake-tianshan.yaml) — 8.8 / 8.9 / 8.5 / 8.9 / 8.0 (87.00/100); related comparator; Kolsai Lakes (Three Lakes Route) has equal provisional uniqueness and higher depth (distinct ascending alpine lake chain; three separate basins).
-  - [Phoksundo Lake (NP)](../../../countries/NP/sights/phoksundo-lake.yaml) — 9.4 / 9.4 / 8.8 / 9.0 / 8.7 (91.50/100); related comparator; Kolsai Lakes (Three Lakes Route) has lower provisional uniqueness and lower depth (distinct ascending alpine lake chain; three separate basins).
-  - [Dead Sea (Jordanian shore) (JO)](../../../countries/JO/sights/dead-sea-jordanian-shore.yaml) — 9.1 / 9.7 / 9.2 / 9.1 / 8.4 (92.00/100); regional or bounded reference; Kolsai Lakes (Three Lakes Route) has lower provisional uniqueness and higher depth (distinct ascending alpine lake chain; three separate basins).
+  - [Gokyo Lakes (NP)](../../../countries/NP/sights/gokyo-lakes.yaml) — 9.5 / 9.5 / 9.1 / 9.2 / 9.0 (93.25/100); upper reference; Kolsai Lakes (Three Lakes Route) has lower provisional uniqueness and unresolved depth (distinct ascending alpine lake chain; three separate basins).
+  - [Heavenly Lake of Tianshan (CN)](../../../countries/CN/sights/heavenly-lake-tianshan.yaml) — 8.8 / 8.9 / 8.5 / 8.9 / 8.0 (87.00/100); related comparator; Kolsai Lakes (Three Lakes Route) has equal provisional uniqueness and unresolved depth (distinct ascending alpine lake chain; three separate basins).
+  - [Phoksundo Lake (NP)](../../../countries/NP/sights/phoksundo-lake.yaml) — 9.4 / 9.4 / 8.8 / 9.0 / 8.7 (91.50/100); related comparator; Kolsai Lakes (Three Lakes Route) has lower provisional uniqueness and unresolved depth (distinct ascending alpine lake chain; three separate basins).
+  - [Dead Sea (Jordanian shore) (JO)](../../../countries/JO/sights/dead-sea-jordanian-shore.yaml) — 9.1 / 9.7 / 9.2 / 9.1 / 8.4 (92.00/100); regional or bounded reference; Kolsai Lakes (Three Lakes Route) has lower provisional uniqueness and unresolved depth (distinct ascending alpine lake chain; three separate basins).
 - Impact 9.2: emerald water and forested slopes.
 - Uniqueness 8.9: distinct ascending alpine lake chain.
 - Significance 7.7: regional natural heritage.
-- Experience 9.0: multi-lake trekking where permitted.
-- Depth 8.5: three separate basins.
-- Categories: nature:9.3, photography:9.4, adventure:9.1. Overall: 87.25/100.
+- Experience null: current permitted upper-lake route not confirmed; lower and middle lake access alone does not establish the full three-lake itinerary.
+- Depth null: ordinary visitor scope of the full route unresolved.
+- Categories: nature:9.3, photography:9.4, adventure:9.1. Overall: unranked.
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Source](https://kazakhstan.travel/en/news/things-to-do-in-almaty-region) — National tourism board describes named mountain and canyon destinations and permitted visitor routes; individual scores editorial; page or excerpt inspected 2026-11-25. Individual claims not fully verified.
-- Remaining gaps: Independent factual, GPS (unless published reference), category and specialist peer verification.
+- Remaining gaps: confirm upper-lake trail access with park administration and assess the full three-lake itinerary. Preserve geographic identity and provisional landscape scores.
+- Follow-up 2026-11-25: https://kazakhstan.travel/en/attractions/91 identifies the upper lake and route; https://charyn.kz/eng/national-parks/kolsai/ reports no confirmed current upper trail status. https://www.lonelyplanet.com/points-of-interest/kolsai-lakes-national-park/1578257 advises checking upper-lake permission. Neither a closure nor unrestricted admission is established. Full route left unranked; prior 87.25 retained in audit history.
 
 ## sight-kz-mausoleum-of-khoja-ahmed-yasawi — Mausoleum of Khoja Ahmed Yasawi — 2026-11-25
 
 - [YAML](../../../countries/KZ/sights/mausoleum-of-khoja-ahmed-yasawi.yaml) · Action: new · **source-linked-unverified**.
-- Scope: inscribed Timurid mausoleum and public precinct. GPS 43.297, 68.271: approximate editorial point, independent verification pending.
+- Scope: inscribed Timurid mausoleum and public precinct. GPS 43.297694, 68.271056: UNESCO property point; representative only, not entrance.
 - Worldwide peers (I/U/S/E/D):
   - [Angkor Wat (KH)](../../../countries/KH/sights/angkor-wat.yaml) — 10.0 / 10.0 / 10.0 / 9.8 / 9.5 (99.20/100); upper reference; Mausoleum of Khoja Ahmed Yasawi has lower provisional uniqueness and lower depth (distinct early Timurid architectural prototype; multiple chambers within one complex).
   - [Geghard Monastery and Upper Azat Valley (AM)](../../../countries/AM/sights/geghard-monastery-and-upper-azat-valley.yaml) — 9.3 / 9.5 / 9.4 / 9.2 / 8.7 (92.95/100); related comparator; Mausoleum of Khoja Ahmed Yasawi has lower provisional uniqueness and lower depth (distinct early Timurid architectural prototype; multiple chambers within one complex).
@@ -134,11 +141,12 @@
 - High-score challenge: Significance architecture and history 9.5+ reflect documented Timurid architectural innovation; smaller visitor scope than Angkor and less landscape integration than Geghard.. No approved 10.
 - Evidence: [Source](https://whc.unesco.org/en/list/1103/) — UNESCO mausoleum property and architectural history; city context only for Turkistan; page or excerpt inspected 2026-11-25. Individual claims not fully verified.
 - Remaining gaps: Independent factual, GPS (unless published reference), category and specialist peer verification.
+- Coordinate follow-up: https://whc.unesco.org/en/list/1103/maps/ (UNESCO property point); previous 43.297, 68.271. Representative only.
 
 ## sight-kz-petroglyphs-of-tanbaly-tamgaly — Petroglyphs of Tanbaly (Tamgaly) — 2026-11-25
 
 - [YAML](../../../countries/KZ/sights/petroglyphs-of-tanbaly-tamgaly.yaml) · Action: new · **source-linked-unverified**.
-- Scope: inscribed archaeological landscape and public rock-art route. GPS 43.803, 75.535: approximate editorial point, independent verification pending.
+- Scope: inscribed archaeological landscape and public rock-art route. GPS 43.803333, 75.535: UNESCO property point; representative only, not entrance.
 - Worldwide peers (I/U/S/E/D):
   - [Jerash Archaeological City (JO)](../../../countries/JO/sights/jerash-archaeological-city.yaml) — 9.5 / 9.3 / 9.5 / 9.4 / 9.3 (94.15/100); upper reference; Petroglyphs of Tanbaly (Tamgaly) has lower provisional uniqueness and lower depth (rare extensive prehistoric ritual and settlement evidence; many panels and archaeological areas).
   - [Tashkurgan Stone City (CN)](../../../countries/CN/sights/tashkurgan-stone-city.yaml) — 8.8 / 9.3 / 9.2 / 8.8 / 8.2 (89.45/100); related comparator; Petroglyphs of Tanbaly (Tamgaly) has lower provisional uniqueness and higher depth (rare extensive prehistoric ritual and settlement evidence; many panels and archaeological areas).
@@ -153,6 +161,7 @@
 - High-score challenge: Significance and history 9.5+ reflect the Bronze Age rock-art corpus and archaeological landscape, not intact urban structures; below Jerash in monumental visual impact.. No approved 10.
 - Evidence: [Source](https://whc.unesco.org/en/list/1145/) — UNESCO Tanbaly property and archaeological context; page or excerpt inspected 2026-11-25. Individual claims not fully verified.
 - Remaining gaps: Independent factual, GPS (unless published reference), category and specialist peer verification.
+- Coordinate follow-up: https://whc.unesco.org/en/list/1145/maps/ (UNESCO property point); previous 43.803, 75.535. Representative only.
 
 ## sight-kz-rock-mosques-and-associated-sacred-sites-of-mangystau — Rock Mosques and Associated Sacred Sites of Mangystau — 2026-11-25
 
@@ -172,6 +181,7 @@
 - High-score challenge: Culture 9.5 reflects enduring pilgrimage practice and variety of sacred sites; unlike Angkor the complexes have limited monumental scale.. No approved 10.
 - Evidence: [Source](https://whc.unesco.org/en/list/1760/) — UNESCO five sacred components and architectural context; coordinates from https://whc.unesco.org/en/list/1760/maps/; page or excerpt inspected 2026-11-25. Individual claims not fully verified.
 - Remaining gaps: Independent factual, GPS (unless published reference), category and specialist peer verification.
+- Follow-up: final Committee decision https://whc.unesco.org/en/decisions/9174/ confirms all five inscribed complexes and criteria (ii), (iii); this supersedes the earlier draft recommendation. Five named sacred complexes support cultural breadth; respect active worship and permitted access, not unrestricted interiors. Specialist cultural category calibration remains outstanding.
 
 ## sight-kz-beket-ata-underground-mosque — Beket-Ata Underground Mosque — 2026-11-25
 
@@ -191,6 +201,7 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Source](https://whc.unesco.org/en/list/1760/) — UNESCO five sacred components and architectural context; coordinates from https://whc.unesco.org/en/list/1760/maps/; page or excerpt inspected 2026-11-25. Individual claims not fully verified.
 - Remaining gaps: Independent factual, GPS (unless published reference), category and specialist peer verification.
+- Follow-up: stored DMS conversion matches current UNESCO component table https://whc.unesco.org/en/list/1760/maps/ within rounding tolerance; not an entrance.
 
 ## sight-kz-shopan-ata-underground-mosque-and-necropolis — Shopan-Ata Underground Mosque and Necropolis — 2026-11-25
 
@@ -210,6 +221,7 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Source](https://whc.unesco.org/en/list/1760/) — UNESCO five sacred components and architectural context; coordinates from https://whc.unesco.org/en/list/1760/maps/; page or excerpt inspected 2026-11-25. Individual claims not fully verified.
 - Remaining gaps: Independent factual, GPS (unless published reference), category and specialist peer verification.
+- Follow-up: stored DMS conversion matches current UNESCO component table https://whc.unesco.org/en/list/1760/maps/ within rounding tolerance; not an entrance.
 
 ## sight-kz-karaman-ata-underground-mosque-and-necropolis — Karaman-Ata Underground Mosque and Necropolis — 2026-11-25
 
@@ -229,6 +241,7 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Source](https://whc.unesco.org/en/list/1760/) — UNESCO five sacred components and architectural context; coordinates from https://whc.unesco.org/en/list/1760/maps/; page or excerpt inspected 2026-11-25. Individual claims not fully verified.
 - Remaining gaps: Independent factual, GPS (unless published reference), category and specialist peer verification.
+- Follow-up: stored DMS conversion matches current UNESCO component table https://whc.unesco.org/en/list/1760/maps/ within rounding tolerance; not an entrance.
 
 ## sight-kz-shakpak-ata-underground-mosque — Shakpak-Ata Underground Mosque — 2026-11-25
 
@@ -248,6 +261,7 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Source](https://whc.unesco.org/en/list/1760/) — UNESCO five sacred components and architectural context; coordinates from https://whc.unesco.org/en/list/1760/maps/; page or excerpt inspected 2026-11-25. Individual claims not fully verified.
 - Remaining gaps: Independent factual, GPS (unless published reference), category and specialist peer verification.
+- Follow-up: stored DMS conversion matches current UNESCO component table https://whc.unesco.org/en/list/1760/maps/ within rounding tolerance; not an entrance.
 
 ## sight-kz-sultan-epe-sacred-site — Sultan-Epe Sacred Site — 2026-11-25
 
@@ -267,6 +281,7 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Source](https://whc.unesco.org/en/list/1760/) — UNESCO five sacred components and architectural context; coordinates from https://whc.unesco.org/en/list/1760/maps/; page or excerpt inspected 2026-11-25. Individual claims not fully verified.
 - Remaining gaps: Independent factual, GPS (unless published reference), category and specialist peer verification.
+- Follow-up: stored DMS conversion matches current UNESCO component table https://whc.unesco.org/en/list/1760/maps/ within rounding tolerance; not an entrance.
 
 ## sight-kz-silk-roads-chang-an-tianshan-corridor-kazakh-components — Silk Roads Chang'an-Tianshan Corridor (Kazakh Components) — 2026-11-25
 
