@@ -18,7 +18,7 @@
 - Depth 8.9: smaller independent city breadth than Vienna.
 - Categories: architecture:9.4,history:9.5,culture:9.3,photography:9.3. Overall 91.80/100.
 - High-score challenge: History 9.5 reflects the unusually coherent fortified capital and its international maritime history; compare Kotor 89.10 and Vienna 92.30, less urban breadth than Vienna but more monumental urban fabric than Kotor.. No approved 10.
-- Evidence: [Identity/context reference](https://whc.unesco.org/en/list/131/) — search excerpt inspected 2026-11-25; limited scope, not all claims. 
+- Evidence: [Identity/context reference](https://whc.unesco.org/en/list/131/) — search excerpt inspected 2026-11-25; limited scope, not all claims.
 - Remaining gaps: exact location except UNESCO points, claim-level verification, current access and field-specific peer comparisons. Shared ladders may mix types.
 
 ## city-mt-mdina — Mdina — 2026-11-25
@@ -37,7 +37,7 @@
 - Depth 8.0: smaller than Kotor and no Rabat sites inherited.
 - Categories: architecture:9.3,history:9.2,photography:9.3. Overall 87.10/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: [Identity/context reference](https://www.visitmalta.com/en/location/mdina/) — search excerpt inspected 2026-11-25; limited scope, not all claims. 
+- Evidence: [Identity/context reference](https://www.visitmalta.com/en/location/mdina/) — search excerpt inspected 2026-11-25; limited scope, not all claims.
 - Remaining gaps: exact location except UNESCO points, claim-level verification, current access and field-specific peer comparisons. Shared ladders may mix types.
 
 ## city-mt-birgu-vittoriosa — Birgu (Vittoriosa) — 2026-11-25
@@ -56,7 +56,7 @@
 - Depth 8.0: fort interiors separately assessed.
 - Categories: architecture:9.1,history:9.3,photography:9.0. Overall 85.75/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: [Identity/context reference](https://www.geonames.org/advanced-search.html?country=MT) — search excerpt inspected 2026-11-25; limited scope, not all claims. 
+- Evidence: [Identity/context reference](https://www.geonames.org/advanced-search.html?country=MT) — search excerpt inspected 2026-11-25; limited scope, not all claims.
 - Remaining gaps: exact location except UNESCO points, claim-level verification, current access and field-specific peer comparisons. Shared ladders may mix types.
 
 ## city-mt-senglea-isla — Senglea (Isla) — 2026-11-25
@@ -75,7 +75,7 @@
 - Depth 7.4: small circuit below Perast.
 - Categories: architecture:8.8,history:8.9,photography:9.0. Overall 81.15/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: [Identity/context reference](https://www.geonames.org/advanced-search.html?country=MT) — search excerpt inspected 2026-11-25; limited scope, not all claims. 
+- Evidence: [Identity/context reference](https://www.geonames.org/advanced-search.html?country=MT) — search excerpt inspected 2026-11-25; limited scope, not all claims.
 - Remaining gaps: exact location except UNESCO points, claim-level verification, current access and field-specific peer comparisons. Shared ladders may mix types.
 
 ## city-mt-cospicua-bormla — Cospicua (Bormla) — 2026-11-25
@@ -94,7 +94,7 @@
 - Depth 7.5: less coherent visitor circuit than Birgu.
 - Categories: history:8.8,architecture:8.7. Overall 80.20/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: [Identity/context reference](https://www.geonames.org/advanced-search.html?country=MT) — search excerpt inspected 2026-11-25; limited scope, not all claims. 
+- Evidence: [Identity/context reference](https://www.geonames.org/advanced-search.html?country=MT) — search excerpt inspected 2026-11-25; limited scope, not all claims.
 - Remaining gaps: exact location except UNESCO points, claim-level verification, current access and field-specific peer comparisons. Shared ladders may mix types.
 
 ## city-mt-rabat-malta — Rabat (Malta) — 2026-11-25
@@ -113,7 +113,7 @@
 - Depth 8.0: catacombs and archaeological interiors separate.
 - Categories: history:9.0,culture:8.6. Overall 80.95/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: [Identity/context reference](https://www.visitmalta.com/en/search-dtp/?post=rabat%2F) — search excerpt inspected 2026-11-25; limited scope, not all claims. 
+- Evidence: [Identity/context reference](https://www.visitmalta.com/en/search-dtp/?post=rabat%2F) — search excerpt inspected 2026-11-25; limited scope, not all claims.
 - Remaining gaps: exact location except UNESCO points, claim-level verification, current access and field-specific peer comparisons. Shared ladders may mix types.
 
 ## city-mt-sliema — Sliema — 2026-11-25
@@ -132,7 +132,7 @@
 - Depth 8.0: no Valletta scores inherited.
 - Categories: relaxation:8.8,food:8.5,photography:8.6. Overall 76.65/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: [Identity/context reference](https://www.geonames.org/advanced-search.html?country=MT) — search excerpt inspected 2026-11-25; limited scope, not all claims. 
+- Evidence: [Identity/context reference](https://www.geonames.org/advanced-search.html?country=MT) — search excerpt inspected 2026-11-25; limited scope, not all claims.
 - Remaining gaps: exact location except UNESCO points, claim-level verification, current access and field-specific peer comparisons. Shared ladders may mix types.
 
 ## city-mt-st-julians — St Julian's — 2026-11-25
@@ -151,7 +151,7 @@
 - Depth 8.0: limited historic depth.
 - Categories: nightlife:9.0,food:8.6. Overall 75.40/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: [Identity/context reference](https://www.geonames.org/advanced-search.html?country=MT) — search excerpt inspected 2026-11-25; limited scope, not all claims. 
+- Evidence: [Identity/context reference](https://www.geonames.org/advanced-search.html?country=MT) — search excerpt inspected 2026-11-25; limited scope, not all claims.
 - Remaining gaps: exact location except UNESCO points, claim-level verification, current access and field-specific peer comparisons. Shared ladders may mix types.
 
 ## city-mt-marsaxlokk — Marsaxlokk — 2026-11-25
@@ -170,7 +170,7 @@
 - Depth 7.5: compact village not St Peter's Pool.
 - Categories: photography:9.1,food:8.8,culture:8.6. Overall 81.25/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: [Identity/context reference](https://www.geonames.org/advanced-search.html?country=MT) — search excerpt inspected 2026-11-25; limited scope, not all claims. 
+- Evidence: [Identity/context reference](https://www.geonames.org/advanced-search.html?country=MT) — search excerpt inspected 2026-11-25; limited scope, not all claims.
 - Remaining gaps: exact location except UNESCO points, claim-level verification, current access and field-specific peer comparisons. Shared ladders may mix types.
 
 ## city-mt-marsaskala — Marsaskala — 2026-11-25
@@ -189,7 +189,7 @@
 - Depth 7.3: limited independent cultural breadth.
 - Categories: relaxation:8.6,food:8.2. Overall 73.50/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: Exact-site corroboration not completed. 
+- Evidence: Exact-site corroboration not completed.
 - Remaining gaps: exact location except UNESCO points, claim-level verification, current access and field-specific peer comparisons. Shared ladders may mix types.
 
 ## city-mt-mellieha — Mellieħa — 2026-11-25
@@ -208,7 +208,7 @@
 - Depth 7.6: beaches and Popeye Village separate.
 - Categories: relaxation:8.6,architecture:8.2. Overall 76.85/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: Exact-site corroboration not completed. 
+- Evidence: Exact-site corroboration not completed.
 - Remaining gaps: exact location except UNESCO points, claim-level verification, current access and field-specific peer comparisons. Shared ladders may mix types.
 
 ## city-mt-st-pauls-bay — St Paul's Bay — 2026-11-25
@@ -227,7 +227,7 @@
 - Depth 7.8: offshore islands excluded.
 - Categories: relaxation:8.6,food:8.2. Overall 75.45/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: Exact-site corroboration not completed. 
+- Evidence: Exact-site corroboration not completed.
 - Remaining gaps: exact location except UNESCO points, claim-level verification, current access and field-specific peer comparisons. Shared ladders may mix types.
 
 ## city-mt-mosta — Mosta — 2026-11-25
@@ -246,7 +246,7 @@
 - Depth 7.4: rotunda separately assessed.
 - Categories: architecture:8.6,history:8.4. Overall 76.45/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: Exact-site corroboration not completed. 
+- Evidence: Exact-site corroboration not completed.
 - Remaining gaps: exact location except UNESCO points, claim-level verification, current access and field-specific peer comparisons. Shared ladders may mix types.
 
 ## city-mt-birkirkara — Birkirkara — 2026-11-25
@@ -265,7 +265,7 @@
 - Depth 7.4: modest tourist circuit below Linz.
 - Categories: culture:7.9,history:7.8. Overall 71.15/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: Exact-site corroboration not completed. 
+- Evidence: Exact-site corroboration not completed.
 - Remaining gaps: exact location except UNESCO points, claim-level verification, current access and field-specific peer comparisons. Shared ladders may mix types.
 
 ## city-mt-floriana — Floriana — 2026-11-25
@@ -284,7 +284,7 @@
 - Depth 7.5: separate town not Valletta museums.
 - Categories: architecture:8.5,history:8.7. Overall 78.75/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: Exact-site corroboration not completed. 
+- Evidence: Exact-site corroboration not completed.
 - Remaining gaps: exact location except UNESCO points, claim-level verification, current access and field-specific peer comparisons. Shared ladders may mix types.
 
 ## city-mt-paola — Paola — 2026-11-25
@@ -303,7 +303,7 @@
 - Depth 7.0: Hypogeum excluded.
 - Categories: culture:7.8,history:8.1. Overall 71.60/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: Exact-site corroboration not completed. 
+- Evidence: Exact-site corroboration not completed.
 - Remaining gaps: exact location except UNESCO points, claim-level verification, current access and field-specific peer comparisons. Shared ladders may mix types.
 
 ## city-mt-zurrieq — Żurrieq — 2026-11-25
@@ -322,7 +322,7 @@
 - Depth 7.0: Blue Grotto separately rated.
 - Categories: architecture:8.0,culture:8.0. Overall 72.90/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: Exact-site corroboration not completed. 
+- Evidence: Exact-site corroboration not completed.
 - Remaining gaps: exact location except UNESCO points, claim-level verification, current access and field-specific peer comparisons. Shared ladders may mix types.
 
 ## city-mt-victoria-rabat-gozo — Victoria (Rabat, Gozo) — 2026-11-25
@@ -341,7 +341,7 @@
 - Depth 8.2: citadel and distant temples separate.
 - Categories: history:9.0,architecture:8.9,culture:8.8. Overall 83.75/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: [Identity/context reference](https://www.geonames.org/advanced-search.html?country=MT) — search excerpt inspected 2026-11-25; limited scope, not all claims. 
+- Evidence: [Identity/context reference](https://www.geonames.org/advanced-search.html?country=MT) — search excerpt inspected 2026-11-25; limited scope, not all claims.
 - Remaining gaps: exact location except UNESCO points, claim-level verification, current access and field-specific peer comparisons. Shared ladders may mix types.
 
 ## city-mt-xaghra — Xagħra — 2026-11-25
@@ -360,7 +360,7 @@
 - Depth 7.1: Ġgantija separately assessed.
 - Categories: culture:8.3,architecture:8.2. Overall 76.30/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: [Identity/context reference](https://www.geonames.org/advanced-search.html?country=MT) — search excerpt inspected 2026-11-25; limited scope, not all claims. 
+- Evidence: [Identity/context reference](https://www.geonames.org/advanced-search.html?country=MT) — search excerpt inspected 2026-11-25; limited scope, not all claims.
 - Remaining gaps: exact location except UNESCO points, claim-level verification, current access and field-specific peer comparisons. Shared ladders may mix types.
 
 ## city-mt-nadur — Nadur — 2026-11-25
@@ -379,7 +379,7 @@
 - Depth 7.0: beaches excluded.
 - Categories: photography:8.4,culture:8.0. Overall 74.35/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: [Identity/context reference](https://www.geonames.org/advanced-search.html?country=MT) — search excerpt inspected 2026-11-25; limited scope, not all claims. 
+- Evidence: [Identity/context reference](https://www.geonames.org/advanced-search.html?country=MT) — search excerpt inspected 2026-11-25; limited scope, not all claims.
 - Remaining gaps: exact location except UNESCO points, claim-level verification, current access and field-specific peer comparisons. Shared ladders may mix types.
 
 ## city-mt-gharb — Għarb — 2026-11-25
@@ -398,7 +398,7 @@
 - Depth 7.0: Ta Pinu separate.
 - Categories: architecture:8.3,culture:8.2. Overall 75.35/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: Exact-site corroboration not completed. 
+- Evidence: Exact-site corroboration not completed.
 - Remaining gaps: exact location except UNESCO points, claim-level verification, current access and field-specific peer comparisons. Shared ladders may mix types.
 
 ## city-mt-xlendi — Xlendi — 2026-11-25
@@ -417,7 +417,7 @@
 - Depth 7.2: surrounding cliffs separate.
 - Categories: relaxation:8.7,photography:8.8. Overall 76.55/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: [Identity/context reference](https://visitgozo.com/experience/watersports/) — search excerpt inspected 2026-11-25; limited scope, not all claims. 
+- Evidence: [Identity/context reference](https://visitgozo.com/experience/watersports/) — search excerpt inspected 2026-11-25; limited scope, not all claims.
 - Remaining gaps: exact location except UNESCO points, claim-level verification, current access and field-specific peer comparisons. Shared ladders may mix types.
 
 ## city-mt-marsalforn — Marsalforn — 2026-11-25
@@ -436,5 +436,5 @@
 - Depth 7.3: distant salt pans separate.
 - Categories: relaxation:8.7,food:8.2. Overall 74.10/100.
 - High-score challenge: Not applicable. No approved 10.
-- Evidence: [Identity/context reference](https://visitgozo.com/experience/watersports/) — search excerpt inspected 2026-11-25; limited scope, not all claims. 
+- Evidence: [Identity/context reference](https://visitgozo.com/experience/watersports/) — search excerpt inspected 2026-11-25; limited scope, not all claims.
 - Remaining gaps: exact location except UNESCO points, claim-level verification, current access and field-specific peer comparisons. Shared ladders may mix types.
