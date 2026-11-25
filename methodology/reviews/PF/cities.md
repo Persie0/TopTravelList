@@ -17,6 +17,15 @@
 - Nouméa (NC): comparable port urban experience
 - Vienna (AT): vastly deeper urban heritage
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from the territory branch YAML; editorial comparison, not independent factual verification.
+
+- [noumea (NC)](../../../countries/NC/cities/noumea.yaml) — 8.0/8.1/8.0/8.5/8.3; Comparable French Pacific harbor city, greater urban breadth.
+- [port louis (MU)](../../../countries/MU/cities/port-louis.yaml) — 8.0/8.2/8.5/8.4/8.2; Comparable island capital with stronger civic and historic role.
+- [kuching (MY)](../../../countries/MY/cities/kuching.yaml) — 8.3/8.5/8.4/8.7/8.6; More varied cultural institutions and waterfront activities.
+- [vienna (AT)](../../../countries/AT/cities/vienna.yaml) — 9.2/9.0/9.5/9.2/9.4; World-leading urban civic and museum depth.
+
 ### Scoring decisions
 | Field | New rating | Individual justification |
 | --- | ---: | --- |
@@ -49,6 +58,15 @@
 - Fare (PF): similarly compact island village
 - Ao Nang (TH): more varied town-based visitor offerings
 - Hội An (VN): far greater historic fabric
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from the territory branch YAML; editorial comparison, not independent factual verification.
+
+- [kuala perlis (MY)](../../../countries/MY/cities/kuala-perlis.yaml) — 6.5/6.8/6.5/7.2/6.7; Comparable modest waterfront commercial settlement.
+- [burnt pine (NF)](../../../countries/NF/cities/burnt-pine.yaml) — 6.9/7.7/7.4/7.7/7.0; Close compact island commercial village with limited urban depth.
+- [rach gia (VN)](../../../countries/VN/cities/rach-gia.yaml) — 7.2/7.5/7.3/7.8/7.9; Larger port city with greater urban breadth.
+- [kampot (KH)](../../../countries/KH/cities/kampot.yaml) — 7.6/7.9/7.5/8.3/7.9; More diverse historic town activities, excludes offshore lagoon.
 
 ### Scoring decisions
 | Field | New rating | Individual justification |
@@ -83,6 +101,15 @@
 - Reine (NO): similarly powerful setting
 - Hội An (VN): much deeper urban heritage
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from the territory branch YAML; editorial comparison, not independent factual verification.
+
+- [hakodate (JP)](../../../countries/JP/cities/hakodate.yaml) — 8.5/8.7/8.5/8.8/8.5; More extensive mountain-backed port townscape and heritage.
+- [stanley (FK)](../../../countries/FK/cities/stanley.yaml) — 8.0/8.6/8.4/8.3/8.0; Comparable remote maritime capital with more documented built heritage.
+- [jamestown (SH)](../../../countries/SH/cities/jamestown.yaml) — 8.5/8.8/8.6/8.3/7.9; Comparable isolated harbor settlement, stronger historic streets.
+- [kampot (KH)](../../../countries/KH/cities/kampot.yaml) — 7.6/7.9/7.5/8.3/7.9; More varied town leisure, different scenic setting.
+
 ### Scoring decisions
 | Field | New rating | Individual justification |
 | --- | ---: | --- |
@@ -116,6 +143,15 @@
 - Tasiilaq (GL): comparable remote town character
 - Portree (GB): similar small-scale exploration
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from the territory branch YAML; editorial comparison, not independent factual verification.
+
+- [adamstown (PN)](../../../countries/PN/cities/adamstown.yaml) — 7.8/9.1/8.4/7.8/6.9; Similar isolated Pacific community, distinct historical narrative.
+- [jamestown (SH)](../../../countries/SH/cities/jamestown.yaml) — 8.5/8.8/8.6/8.3/7.9; More extensive historic built fabric.
+- [koh ker village (KH)](../../../countries/KH/cities/koh-ker-village.yaml) — 7.2/8.0/8.3/7.8/6.9; Comparable village-level heritage with separately scoped monuments.
+- [stanley (FK)](../../../countries/FK/cities/stanley.yaml) — 8.0/8.6/8.4/8.3/8.0; Broader documented maritime heritage and urban facilities.
+
 ### Scoring decisions
 | Field | New rating | Individual justification |
 | --- | ---: | --- |
@@ -148,6 +184,15 @@
 - Portree (GB): stronger distinctive townscape
 - Koh Rong town (KH): similar small resort settlement
 - Hội An (VN): much deeper historic fabric
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from the territory branch YAML; editorial comparison, not independent factual verification.
+
+- [burnt pine (NF)](../../../countries/NF/cities/burnt-pine.yaml) — 6.9/7.7/7.4/7.7/7.0; Comparable small island commercial village.
+- [kuala perlis (MY)](../../../countries/MY/cities/kuala-perlis.yaml) — 6.5/6.8/6.5/7.2/6.7; Similar modest waterfront food and visitor scope.
+- [kampot (KH)](../../../countries/KH/cities/kampot.yaml) — 7.6/7.9/7.5/8.3/7.9; More varied historic town and leisure activities.
+- [adamstown (PN)](../../../countries/PN/cities/adamstown.yaml) — 7.8/9.1/8.4/7.8/6.9; More isolated and historically distinctive, narrower village depth.
 
 ### Scoring decisions
 | Field | New rating | Individual justification |
