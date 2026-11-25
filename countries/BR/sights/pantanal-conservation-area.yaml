@@ -1,0 +1,16 @@
+id: sight-br-pantanal-conservation-area
+name: "Pantanal Conservation Area"
+location:
+  country_code: BR
+  latitude: -17.7000
+  longitude: -57.4000
+scores:
+  impact: 9.2
+  uniqueness: 9.4
+  significance: 9.6
+  experience: 8.4
+  depth: 9.0
+  categories:
+    nature: 9.7
+    wildlife: 9.8
+    photography: 9.4

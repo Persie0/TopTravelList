@@ -1,0 +1,16 @@
+id: sight-br-lencois-maranhenses-national-park
+name: "Lençóis Maranhenses National Park"
+location:
+  country_code: BR
+  latitude: -2.5000
+  longitude: -43.1000
+scores:
+  impact: 9.8
+  uniqueness: 9.8
+  significance: 9.4
+  experience: 9.1
+  depth: 9.2
+  categories:
+    nature: 9.8
+    photography: 9.9
+    adventure: 9.3

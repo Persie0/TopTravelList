@@ -1,0 +1,15 @@
+id: sight-br-museu-do-amanha
+name: "Museu do Amanhã"
+location:
+  country_code: BR
+  latitude: -22.8940
+  longitude: -43.1800
+scores:
+  impact: 8.2
+  uniqueness: 8.4
+  significance: 8.0
+  experience: 8.4
+  depth: 7.8
+  categories:
+    architecture: 9.1
+    culture: 8.2

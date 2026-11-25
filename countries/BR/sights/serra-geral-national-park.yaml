@@ -1,0 +1,16 @@
+id: sight-br-serra-geral-national-park
+name: "Serra Geral National Park"
+location:
+  country_code: BR
+  latitude: -29.1000
+  longitude: -50.0000
+scores:
+  impact: 9.1
+  uniqueness: 8.9
+  significance: 8.4
+  experience: 8.5
+  depth: 8.5
+  categories:
+    nature: 9.4
+    photography: 9.6
+    adventure: 9.2
