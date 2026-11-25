@@ -147,6 +147,14 @@
 - [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml): 8.9/9.0/9.0/9.1/8.6; managed observation.
 - [Sehlabathebe (LS)](../../../countries/LS/sights/sehlabathebe-national-park.yaml): 9.1/9.0/9.3/8.6/8.8; regional protected landscape.
 
+#### Additional scope-specific peer calibration (2026-11-26)
+- [sagarmatha-national-park (NP)](../../../countries/NP/sights/sagarmatha-national-park.yaml): 9.9/9.9/9.8/9.6/9.7; greater alpine scale and trekking breadth.
+- [khangchendzonga-national-park (IN)](../../../countries/IN/sights/khangchendzonga-national-park.yaml): 9.8/9.8/9.8/8.7/9.7; greater Himalayan landscape and ecological-cultural significance, more restricted visitor access.
+- [rwenzori-mountains-national-park (UG)](../../../countries/UG/sights/rwenzori-mountains-national-park.yaml): 9.4/9.5/9.4/9.1/9.3; similar equatorial alpine ecology, different mountain scale.
+- [kilimanjaro-national-park (TZ)](../../../countries/TZ/sights/kilimanjaro-national-park.yaml): 9.7/9.6/9.4/9.4/9.5; more iconic high-altitude trekking and isolated summit.
+
+Retain 93.75: comparable equatorial alpine landscape, less globally distinctive and visually commanding than the top mountain anchors.
+
 ### Scoring decisions
 - Impact: 9.5 — Dramatic alpine peaks.
 - Uniqueness: 9.3 — Rare equatorial montane ecology.
@@ -223,37 +231,6 @@
 - Final decision: Provisional editorial rating, not independently fact-checked.
 - Verification still needed: exact location where provisional, current access, more site-specific peer calibration and independent claim-level evidence.
 
-## sight-ke-lake-elementaita — Lake Elementaita — 2026-11-25
-
-- YAML: [source](../../../countries/KE/sights/lake-elementaita.yaml)
-- Action: new
-- Precise subject: Inscribed lake component, ordinary permitted shoreline visitor circuit unverified.
-- Location check: -0.4425, 36.24; representative point; exact entrance not verified.
-- Evidence status: **unassessed**
-- Sources (2026-11-25; identity, heritage, geography and/or visitor scope; independent claim verification incomplete):
-  - https://whc.unesco.org/en/list/1060/
-  - https://whc.unesco.org/en/list/1060/maps/
-  - https://whc.unesco.org/en/tentativelists/5513/
-- Missing facts: Permitted ordinary visitor scope or accessible features insufficiently documented.
-
-### Worldwide peer comparisons
-- [Okavango Delta (BW)](../../../countries/BW/sights/okavango-delta.yaml): 9.8/9.9/9.8/9.5/9.8; world-leading habitat and activity breadth.
-- [Khao Yai (TH)](../../../countries/TH/sights/khao-yai-national-park.yaml): 9.0/9.1/9.0/9.0/9.2; established forest visitor routes.
-- [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml): 8.9/9.0/9.0/9.1/8.6; managed observation.
-- [Sehlabathebe (LS)](../../../countries/LS/sights/sehlabathebe-national-park.yaml): 9.1/9.0/9.3/8.6/8.8; regional protected landscape.
-
-### Scoring decisions
-- Impact: 8.6 — Alkaline lake scenery.
-- Uniqueness: 8.9 — Distinct Rift Valley wetland ecology.
-- Significance: 9.2 — Important bird habitat.
-- Experience: null — Public circuit unverified.
-- Depth: null — Accessible shoreline scope unclear.
-- Applicable categories: nature 9.2, wildlife 9.3.
-- Overall: unranked.
-- High-score challenge: Not applicable.
-- Approved 10 registry: none.
-- Final decision: Partial assessment retained, no total.
-- Verification still needed: exact location where provisional, current access, more site-specific peer calibration and independent claim-level evidence.
 
 ## sight-ke-lake-bogoria — Lake Bogoria National Reserve — 2026-11-25
 
@@ -405,6 +382,14 @@
 - [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml): 8.9/9.0/9.0/9.1/8.6; managed observation.
 - [Sehlabathebe (LS)](../../../countries/LS/sights/sehlabathebe-national-park.yaml): 9.1/9.0/9.3/8.6/8.8; regional protected landscape.
 
+#### Additional scope-specific peer calibration (2026-11-26)
+- [serengeti-national-park (TZ)](../../../countries/TZ/sights/serengeti-national-park.yaml): 9.9/9.8/9.8/9.6/9.7; larger migratory landscape with stronger ecological significance and breadth.
+- [okavango-delta (BW)](../../../countries/BW/sights/okavango-delta.yaml): 9.8/9.9/9.8/9.5/9.8; greater water-based habitat and visitor diversity.
+- [etosha-national-park (NA)](../../../countries/NA/sights/etosha-national-park.yaml): 9.5/9.5/9.4/9.4/9.3; smaller migration spectacle, different salt-pan habitat.
+- [ranthambore-national-park (IN)](../../../countries/IN/sights/ranthambore-national-park.yaml): 9.4/9.3/9.2/9.4/9.1; more focused tiger safari and fort landscape.
+
+Retain 96.30: exceptional reserve-scale safari, below Serengeti and Okavango on ecological breadth; no Tanzania migration area credit.
+
 ### Scoring decisions
 - Impact: 9.8 — Exceptional open plains and wildlife.
 - Uniqueness: 9.6 — Rare migration-linked safari landscape.
@@ -514,36 +499,6 @@
 - Final decision: Provisional editorial rating, not independently fact-checked.
 - Verification still needed: exact location where provisional, current access, more site-specific peer calibration and independent claim-level evidence.
 
-## sight-ke-arabuko-sokoke — Arabuko Sokoke Forest — 2026-11-25
-
-- YAML: [source](../../../countries/KE/sights/arabuko-sokoke.yaml)
-- Action: new
-- Precise subject: Tentative coastal forest component, normal visitor circuit insufficiently verified.
-- Location check: -3.266667, 39.816667; representative point; exact entrance not verified.
-- Evidence status: **unassessed**
-- Sources (2026-11-25; identity, heritage, geography and/or visitor scope; independent claim verification incomplete):
-  - https://whc.unesco.org/en/tentativelists/6657/
-  - https://kws.go.ke/parks/
-- Missing facts: Permitted ordinary visitor scope or accessible features insufficiently documented.
-
-### Worldwide peer comparisons
-- [Okavango Delta (BW)](../../../countries/BW/sights/okavango-delta.yaml): 9.8/9.9/9.8/9.5/9.8; world-leading habitat and activity breadth.
-- [Khao Yai (TH)](../../../countries/TH/sights/khao-yai-national-park.yaml): 9.0/9.1/9.0/9.0/9.2; established forest visitor routes.
-- [Suncheon Bay (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml): 8.9/9.0/9.0/9.1/8.6; managed observation.
-- [Sehlabathebe (LS)](../../../countries/LS/sights/sehlabathebe-national-park.yaml): 9.1/9.0/9.3/8.6/8.8; regional protected landscape.
-
-### Scoring decisions
-- Impact: 8.5 — Coastal forest setting.
-- Uniqueness: 9.1 — Rare endemic coastal forest.
-- Significance: 9.3 — Important threatened species habitat.
-- Experience: null — Specific permitted visit unverified.
-- Depth: null — Accessible scope unknown.
-- Applicable categories: nature 9.4, wildlife 9.3.
-- Overall: unranked.
-- High-score challenge: Not applicable.
-- Approved 10 registry: none.
-- Final decision: Partial assessment retained, no total.
-- Verification still needed: exact location where provisional, current access, more site-specific peer calibration and independent claim-level evidence.
 
 ## sight-ke-shimba-hills — Shimba Hills National Reserve — 2026-11-25
 
@@ -1318,5 +1273,141 @@
 
 ## Inventory coverage and backlog
 
-[UNESCO country inventory](https://whc.unesco.org/en/statesparties/ke/) lists eight inscribed and 21 tentative properties. All represented at property/group or visitor-component level, not complete component coverage. Older overlapping Meru, Mara and lake entries combined, Mfangano overlap also combined. Eight mapped Kaya components, three Turkana parks, three Rift Valley lake components and two Mount Kenya components included. Individual Rabai and Duruma forests, Lewa/Borana/Ngare Ndare, Meru's adjoining reserves, separate Kwitone/Mawanga, Kilifi caves, Turkana pillars, Eastern Arc forest blocks and Tana forests remain backlog. Additional high-priority attractions include Samburu, Diani, Watamu, Naivasha, Ol Pejeta, Nairobi museums and additional towns. No exhaustive inventory claimed.
+[UNESCO country inventory](https://whc.unesco.org/en/statesparties/ke/) lists eight inscribed and 21 tentative properties. All represented at property/group or visitor-component level, not complete component coverage. Older overlapping Meru, Mara and lake entries combined, Mfangano overlap also combined. Eight mapped Kaya components, three Turkana parks, three Rift Valley lake components and two Mount Kenya components included. Individual Rabai and Duruma forests, Lewa/Borana/Ngare Ndare, Meru's adjoining reserves, separate Kwitone/Mawanga, Kilifi caves, Turkana pillars, Eastern Arc forest blocks and Tana forests remain backlog. Samburu and Diani now individually assessed. Additional high-priority attractions include Watamu, Naivasha, Ol Pejeta, Nairobi museums and additional towns. Lake Elementaita and Arabuko Sokoke now have documented visitor evidence and complete provisional scores. No exhaustive inventory claimed.
 
+
+
+## sight-ke-arabuko-sokoke — Arabuko Sokoke Forest — 2026-11-26
+
+- YAML: [source](../../../countries/KE/sights/arabuko-sokoke.yaml)
+- Action: rescore
+- Precise subject: Coastal forest reserve and its authorized walking, driving and birding routes; excludes adjacent Mida Creek, Gedi ruins and other coastal forest components.
+- Location check: -3.266667, 39.816667; Existing nomination-based representative point retained, not a gate.
+- Evidence status: **source-linked-unverified**
+- Sources (2026-11-26):
+- Kenya Forest Service https://www.kenyaforestservice.org/arabuko-sokoke-forest-kenya/ (opened): three forest types, endemic fauna, walking/driving trails, raised viewing platforms and guide services; no guaranteed sightings.
+- Kenya Tourist Board https://webmail.magicalkenya.com/default.nsf/doc21/4YNNYEFZEI90?e=4&l=1&opendocument=&s=2 (opened): specialist birding, trails and local guides.
+- UNESCO https://whc.unesco.org/en/tentativelists/6657/ (existing nomination reference): coastal forest component, not inscribed.
+- Missing facts: current operating conditions, coordinate corroboration and independent claim-level verification.
+
+### Worldwide peer comparisons
+- [khao-yai-national-park (TH)](../../../countries/TH/sights/khao-yai-national-park.yaml): 9.0/9.1/9.0/9.0/9.2; larger and more varied visitor routes.
+- [jozani-chwaka-bay (TZ)](../../../countries/TZ/sights/jozani-chwaka-bay.yaml): 8.5/8.9/9.2/8.7/8.1; comparable coastal forest and endemic wildlife, narrower circuit.
+- [semuliki-national-park (UG)](../../../countries/UG/sights/semuliki-national-park.yaml): 8.5/8.9/9.0/8.5/8.5; similar specialist birding and forest visits, different ecology.
+- [kinabatangan-wildlife-sanctuary (MY)](../../../countries/MY/sights/kinabatangan-wildlife-sanctuary.yaml): 9.2/9.4/9.2/9.2/9.0; stronger river-based wildlife experience.
+
+### Scoring decisions
+- Impact: 8.5 — Coastal forest scenery, below major dramatic montane parks.
+- Uniqueness: 9.1 — Distinctive rare coastal forest ecosystem and localized species.
+- Significance: 9.3 — Important threatened-species habitat and remaining coastal forest extent.
+- Experience: 8.7 — Documented authorized birding, walking and driving, with variable wildlife observation.
+- Depth: 8.8 — Several forest types and extensive routes, narrower than Khao Yai.
+- Applicable categories: nature 9.4, wildlife 9.3.
+- Overall: 88.70/100.
+- High-score challenge: No 9.5+ field or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide V2 editorial rating.
+- Earlier decision: [Earlier incomplete assessment](history-review-2026-11-26.md).
+- Verification still needed: exact representative point, current access and independent claim-level evidence.
+
+
+## sight-ke-lake-elementaita — Lake Elementaita — 2026-11-26
+
+- YAML: [source](../../../countries/KE/sights/lake-elementaita.yaml)
+- Action: rescore
+- Precise subject: Inscribed Lake Elementaita component and authorized lakeshore birding and walking; excludes neighboring conservancy's unrelated inland safari routes and other Rift Valley lakes.
+- Location check: -0.4425, 36.24; Existing representative UNESCO lake point retained, not an entrance.
+- Evidence status: **source-linked-unverified**
+- Sources (2026-11-26):
+- UNESCO https://whc.unesco.org/en/list/1060/ and https://whc.unesco.org/en/list/1060/maps/ (existing references): inscribed component identity.
+- Kenya Wildlife Service https://kws.go.ke/park/lake-elementaita-wildlife-sanctuary/ (indexed excerpt; direct retrieval timed out): birding, trails and sanctuary status.
+- Soysambu Conservancy https://soysambuconservancy.org/visitor-guidelines/ (opened): authorized guided access and protection of lakeshore; current permissions and conditions required.
+- Missing facts: current operating conditions, coordinate corroboration and independent claim-level verification.
+
+### Worldwide peer comparisons
+- [suncheon-bay-wetland-reserve (KR)](../../../countries/KR/sights/suncheon-bay-wetland-reserve.yaml): 8.9/9.0/9.0/9.1/8.6; broader and more developed wetland routes.
+- [neusiedler-see-seewinkel-national-park (AT)](../../../countries/AT/sights/neusiedler-see-seewinkel-national-park.yaml): 8.5/8.8/9.2/8.7/8.8; comparable conservation significance, more extensive circuit.
+- [mabamba-bay-wetland (UG)](../../../countries/UG/sights/mabamba-bay-wetland.yaml): 8.6/9/9.1/8.8/8.2; similarly specialized birding, different habitat and visitor mode.
+- [lake-manyara-national-park (TZ)](../../../countries/TZ/sights/lake-manyara-national-park.yaml): 8.9/9/9.1/8.8/8.6; broader safari and escarpment landscape.
+
+### Scoring decisions
+- Impact: 8.6 — Scenic alkaline Rift Valley lake.
+- Uniqueness: 8.9 — Distinct bird-rich Rift Valley wetland setting.
+- Significance: 9.2 — Internationally important bird habitat and World Heritage component.
+- Experience: 8.5 — Documented permitted shoreline and birding visits; no guaranteed wildlife encounters.
+- Depth: 8.3 — Focused lake and shoreline routes, narrower than multi-habitat national parks.
+- Applicable categories: nature 9.2, wildlife 9.3.
+- Overall: 87.50/100.
+- High-score challenge: No 9.5+ field or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide V2 editorial rating.
+- Earlier decision: [Earlier incomplete assessment](history-review-2026-11-26.md).
+- Verification still needed: exact representative point, current access and independent claim-level evidence.
+
+
+## sight-ke-samburu-national-reserve — Samburu National Reserve — 2026-11-26
+
+- YAML: [source](../../../countries/KE/sights/samburu-national-reserve.yaml)
+- Action: new
+- Precise subject: County-managed Samburu National Reserve and ordinary wildlife-viewing circuits, not adjacent Buffalo Springs, Shaba or independent community conservancies.
+- Location check: 0.593943, 37.560314; Wildlife Research and Training Institute https://database.wrti.go.ke/conservation/area/274 (opened, technical information gives representative point), not an entrance.
+- Evidence status: **source-linked-unverified**
+- Sources (2026-11-26):
+- Samburu County Government https://www.samburu.go.ke/tourist-attraction-sites/ (opened): northern specialist fauna, river and dryland landscapes, visitor facilities and safari routes.
+- Wildlife Research and Training Institute https://database.wrti.go.ke/conservation/area/274 (opened): reserve identity, dryland/riverine ecosystem and representative coordinates; data last survey deficient, so no exact population claims.
+- State Department of Tourism https://tourkenya.go.ke/tour/samburu-game-reserve/ (indexed excerpt): reserve visitor destination.
+- Missing facts: current operating conditions, coordinate corroboration and independent claim-level verification.
+
+### Worldwide peer comparisons
+- [chobe-national-park (BW)](../../../countries/BW/sights/chobe-national-park.yaml): 9.5/9.4/9.3/9.4/9.3; larger river and elephant safari circuits.
+- [etosha-national-park (NA)](../../../countries/NA/sights/etosha-national-park.yaml): 9.5/9.5/9.4/9.4/9.3; greater salt-pan and waterhole spectacle.
+- [queen-elizabeth-national-park (UG)](../../../countries/UG/sights/queen-elizabeth-national-park.yaml): 9.2/9.2/9.3/9.2/9.3; broader wildlife and boat routes, different specialist fauna.
+- [ranthambore-national-park (IN)](../../../countries/IN/sights/ranthambore-national-park.yaml): 9.4/9.3/9.2/9.4/9.1; similarly distinctive specialist fauna with stronger built heritage.
+
+### Scoring decisions
+- Impact: 9.3 — Strong riverine and dryland landscapes and wildlife encounters.
+- Uniqueness: 9.3 — Distinctive northern specialist fauna and river ecology, not globally unique.
+- Significance: 9.2 — Important habitat and conservation value; below globally defining larger reserves.
+- Experience: 9.3 — Documented safari circuits and visitor infrastructure; no guaranteed sightings.
+- Depth: 8.9 — Smaller reserve and circuit than Chobe or Etosha.
+- Applicable categories: wildlife 9.5, nature 9.3, photography 9.3.
+- Overall: 92.40/100.
+- High-score challenge: Overall 92.40 and wildlife 9.5 reflect the distinctive dryland fauna and documented safari scope; Chobe and Etosha retain higher wildlife marks (9.8) and overall breadth. No visitor credit from adjoining reserves.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide V2 editorial rating.
+- Earlier decision: none.
+- Verification still needed: exact representative point, current access and independent claim-level evidence.
+
+
+## sight-ke-diani-beach — Diani Beach — 2026-11-26
+
+- YAML: [source](../../../countries/KE/sights/diani-beach.yaml)
+- Action: new
+- Precise subject: Main Diani beach, its immediate shore and ordinary local watersports; excludes Galu/Tiwi, independent marine parks, offshore island excursions and inland safari attractions.
+- Location check: -4.32222, 39.575; Representative beach coordinate from https://en.wikipedia.org/wiki/Diani_Beach (indexed excerpt); Mapcarta https://mapcarta.com/Diani_Beach (opened) maps a different point within the resort locality. Coordinate is approximate, not an entrance.
+- Evidence status: **source-linked-unverified**
+- Sources (2026-11-26):
+- Kenya State Department of Tourism https://tourkenya.go.ke/tourism/marine-beach-tourism/ (opened): white sandy shore, beach activities and watersports; no inference of global rank from promotional awards.
+- https://dianikenya.org/beaches/ (indexed excerpt): describes main beach, reef-sheltered lagoon and separate neighboring beaches; commercial guide, not independent ecological assessment.
+- https://tourkenya.go.ke/tour/diani-beach/ (indexed excerpt): named visitor destination.
+- Missing facts: current operating conditions, coordinate corroboration and independent claim-level verification.
+
+### Worldwide peer comparisons
+- [lalomanu-beach (WS)](../../../countries/WS/sights/lalomanu-beach.yaml): 8.7/7.8/6.5/8.7/7.4; smaller focused tropical beach and village visit.
+- [champagne-beach (VU)](../../../countries/VU/sights/champagne-beach.yaml): 8.6/7.8/6.4/8.7/7.1; similarly attractive sand, less varied watersports.
+- [perhentian-islands (MY)](../../../countries/MY/sights/perhentian-islands.yaml): 9.0/8.8/7.7/9.2/8.9; broader island-group marine and beach experiences.
+- [coral-bay-pangkor (MY)](../../../countries/MY/sights/coral-bay-pangkor.yaml): 7.8/7.6/6.3/8.4/7.5; smaller resort beach with less distinctive scenery.
+
+### Scoring decisions
+- Impact: 8.9 — Large attractive white-sand shore and tropical seascape.
+- Uniqueness: 8.1 — Distinctive broad beach and reef setting, but tropical beaches recur globally.
+- Significance: 6.8 — Regional recreation and coastal ecology; no protected-area significance borrowed.
+- Experience: 9.1 — Established variety of ordinary beach and watersport activities, tide and weather dependent.
+- Depth: 8.2 — Longer beach and more activities than compact shore peers, less diverse than an island group.
+- Applicable categories: beaches 9.3, relaxation 9.1, nature 8.6, adventure 8.7, photography 8.9.
+- Overall: 82.40/100.
+- High-score challenge: No 9.5+ field or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide V2 editorial rating.
+- Earlier decision: none.
+- Verification still needed: exact representative point, current access and independent claim-level evidence.

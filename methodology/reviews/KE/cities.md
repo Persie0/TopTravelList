@@ -159,34 +159,38 @@
 - Final decision: Provisional editorial rating, not independently fact-checked.
 - Verification still needed: exact location where provisional, current access, more site-specific peer calibration and independent claim-level evidence.
 
-## city-ke-nakuru — Nakuru — 2026-11-25
+
+
+## city-ke-nakuru — Nakuru — 2026-11-26
 
 - YAML: [source](../../../countries/KE/cities/nakuru.yaml)
-- Action: new
-- Precise subject: City only, not Lake Nakuru park.
-- Location check: -0.307, 36.072; representative point; exact entrance not verified.
-- Evidence status: **unassessed**
-- Sources (2026-11-25; identity, heritage, geography and/or visitor scope; independent claim verification incomplete):
-  - https://www.geonames.org/KE/largest-cities-in-kenya.html
-  - https://whc.unesco.org/en/list/1060/
-- Missing facts: Permitted ordinary visitor scope or accessible features insufficiently documented.
+- Action: rescore
+- Precise subject: Urban area, local markets, cultural venues and ordinary town experiences; excludes Lake Nakuru National Park, Menengai Crater and other independent natural attractions.
+- Location check: -0.307, 36.072; Existing representative city point retained; independent coordinate corroboration outstanding.
+- Evidence status: **source-linked-unverified**
+- Sources (2026-11-26):
+- UNESCO https://www.unesco.org/en/creative-cities/nakuru (indexed excerpt): Crafts and Folk Art Creative City, cultural venues and events; not World Heritage inscription.
+- UNESCO https://whc.unesco.org/en/indicators2030/?page=reports&participant=7464%2F (indexed excerpt): urban cultural-facility inventory, including museum, library and performance venues; no assumption of access to all facilities.
+- Nakuru County https://www.nakuru.go.ke/ova_por/creative-artisans-market/ (indexed excerpt): city artisan market and local creative economy; no guarantee of recurring market dates.
+- Original identity source https://www.geonames.org/KE/largest-cities-in-kenya.html.
+- Missing facts: current operating conditions, coordinate corroboration and independent claim-level verification.
 
 ### Worldwide peer comparisons
-- [Kashgar (CN)](../../../countries/CN/cities/kashgar.yaml): 9.2/9.5/9.5/9.2/8.8; more extensive historic urban fabric.
-- [Phnom Penh (KH)](../../../countries/KH/cities/phnom-penh.yaml): 7.9/7.6/8.6/8.0/8.5; established capital museum and urban scope.
-- [Hallstatt (AT)](../../../countries/AT/cities/hallstatt.yaml): 8.3/8.4/8.1/8.2/7.6; compact heritage town.
-- [Poipet (KH)](../../../countries/KH/cities/poipet.yaml): 5.9/6.0/6.1/6.4/6.4; ordinary commercial town floor.
+- [kampot (KH)](../../../countries/KH/cities/kampot.yaml): 7.6/7.9/7.5/8.3/7.9; stronger historic waterfront and dining.
+- [rach-gia (VN)](../../../countries/VN/cities/rach-gia.yaml): 7.2/7.5/7.3/7.8/7.9; comparable urban scope, more established waterfront.
+- [mbale (UG)](../../../countries/UG/cities/mbale.yaml): 7.1/7.4/7.6/7.6/7.3; comparable regional urban heritage and markets.
+- [kuala-perlis (MY)](../../../countries/MY/cities/kuala-perlis.yaml): 6.5/6.8/6.5/7.2/6.7; smaller port settlement and fewer cultural venues.
 
 ### Scoring decisions
-- Impact: null — Urban impact not verified.
-- Uniqueness: 7.3 — Regional Rift Valley city identity.
-- Significance: 7.5 — Regional economic role.
-- Experience: null — Independent urban itinerary unclear.
-- Depth: null — Accessible urban breadth unverified.
-- Applicable categories: none assessed.
-- Overall: unranked.
-- High-score challenge: Not applicable.
+- Impact: 7.1 — Modest urban scenery and local civic places, not nearby natural landscapes.
+- Uniqueness: 7.3 — Distinct regional urban character and documented craft culture.
+- Significance: 7.6 — Regional civic importance and UNESCO Creative City recognition, not WH designation.
+- Experience: 7.6 — Documented urban market and cultural activities, subject to operating conditions.
+- Depth: 7.5 — Several cultural facilities and town experiences; narrower historic urban breadth than Kampot.
+- Applicable categories: culture 8.1, food 7.5.
+- Overall: 73.65/100.
+- High-score challenge: No 9.5+ field or 90+ total.
 - Approved 10 registry: none.
-- Final decision: Partial assessment retained, no total.
-- Verification still needed: exact location where provisional, current access, more site-specific peer calibration and independent claim-level evidence.
-
+- Final decision: Provisional worldwide V2 editorial rating.
+- Earlier decision: [Earlier incomplete assessment](history-review-2026-11-26.md).
+- Verification still needed: exact representative point, current access and independent claim-level evidence.
