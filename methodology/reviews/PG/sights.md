@@ -20,6 +20,8 @@
   - PNG CEPA September 2026 conservation workshop reports ongoing management and conservation-area process — https://cepa.gov.pg/news/kuk-workshop-advances-final-steps-towards-conservation-area-declaration-of-papua-new-guineas-only-world-heritage-property
 - Missing or uncertain facts: Current visitor centre operation, exact interpreted route, landowner permission and precise coordinate corroboration unverified. No credit for buried remains as visible displays or an off-site museum. Rating concerns consent-based normal visit, not access difficulty.
 
+- 2026-11-26 FAO follow-up https://www.fao.org/papua-new-guinea/news/detail/kuk-workshop-advances-conservation-area-declaration-for-papua-new-guinea%27s-only-world-heritage-property/en (opened, published 14 September 2026): workshop completed documentation for proposed conservation area declaration; this does not confirm final declaration or a public visitor centre. Retain 77.85 and permission-based scope.
+
 ### Worldwide peer comparisons
 | Peer destination (country) | Why comparable | Relative strengths / weaknesses |
 | --- | --- | --- |
@@ -756,3 +758,77 @@ All six remaining aggregate properties were reviewed for ordinary visitor scope.
 - **Trans-Fly:** UNESCO (https://whc.unesco.org/en/tentativelists/5062/) identifies a broad cross-border ecoregion including Tonda and other customary protected areas. Documented Bensbach lodge excursions (https://pngtours.com/bensbach-wildlife-lodge/) establish a visitable component, not the entire PNG portion. Add Tonda separately.
 
 These are scope decisions, not safety assessments or access guarantees. Sources checked on 2026-11-25; original editorial scores remain provisional.
+
+
+## sight-pg-kimbe-bay — Kimbe Bay Reefs — 2026-11-26
+
+- YAML: [source](../../../countries/PG/sights/kimbe-bay.yaml)
+- Action: new
+- Precise subject: Kimbe Bay marine seascape and its documented authorized diving subset on northern New Britain; excludes Witu Islands, Father's Reef and other remote regions outside the bay. No blanket protected-area status or unrestricted access assumed.
+- Location check: -5.25, 150.25; Published survey reference point 5°15′ S, 150°15′ E (https://www.sciencedirect.com/science/article/pii/S0006320702002495, indexed excerpt); representative regional point, not a diving waypoint.
+- Evidence status: source-linked-unverified
+- Sources (2026-11-26):
+- Peer-reviewed Oryx study https://www.cambridge.org/core/journals/oryx/article/designing-a-resilient-network-of-marine-protected-areas-for-kimbe-bay-papua-new-guinea/D3DD111C4CE5910328BA0BF3A197C7EE (opened, abstract and case-study section): well-defined bay with diverse reef, mangrove and seagrass habitats, conservation planning and historical environmental pressures.
+- UNDP https://www.undp.org/papua-new-guinea/news/papua-new-guinea-signs-agreement-protect-megadiverse-kimbe-bay (opened) and https://www.undp.org/papua-new-guinea/news/undp-supports-efforts-transform-kimbe-bay-marine-protected-area (indexed excerpt): marine conservation programme and proposed designation; completion not verified.
+- PNG Tourism Promotion Authority https://papuanewguinea.travel/business/walindi-plantation-resort/ (opened): long-established local reef diving tours. https://papuanewguinea.travel/diving/ (indexed excerpt): remote dive regions and limited emergency infrastructure.
+- Local conservation organization https://www.mndpng.org/conservation (indexed excerpt): community-managed marine areas.
+- Missing facts: current visitor conditions, customary permissions, precise representative points and independent claim-level verification.
+
+### Worldwide peer comparisons
+- [sipadan-island-reefs (MY)](../../../countries/MY/sights/sipadan-island-reefs.yaml): 9.5/9.6/9.1/9.5/8.9; stronger concentrated underwater spectacle and established diving experience; Kimbe has extensive habitats.
+- [ang-thong-national-marine-park (TH)](../../../countries/TH/sights/ang-thong-national-marine-park.yaml): 9.0/9.0/8.6/9.1/8.9; broader above-water limestone island exploration, lower reef-specific ecological importance.
+- [namena-marine-reserve (FJ)](../../../countries/FJ/sights/namena-marine-reserve.yaml): 9.2/9.1/9.1/9.2/8.9; comparable Coral Triangle-adjacent marine diving benchmark, smaller managed marine reserve.
+- [great-sea-reef (FJ)](../../../countries/FJ/sights/great-sea-reef.yaml): 9.1/9.3/9.4/8.5/8.7; comparable broad conservation seascape, more limited documented diving subset.
+
+### Scoring decisions
+- Impact: 9.3 — Exceptional reef and marine habitat variety, below Sipadan's concentrated spectacle.
+- Uniqueness: 9.4 — Highly distinctive Coral Triangle ecosystem and diverse habitats, not unmatched globally.
+- Significance: 9.4 — Globally important marine biodiversity backed by research and conservation initiatives; not automatic credit for proposed status.
+- Experience: 9.1 — Established specialist diving and local operators, narrower ordinary visitor accessibility than Sipadan.
+- Depth: 9 — Multiple reef sites and habitat types support extended visits, no credit for inaccessible sectors.
+- Applicable categories: nature 9.6, wildlife 9.5, adventure 9.3.
+- Overall: 92.85/100.
+- High-score challenge: Overall 92.85 and nature 9.6, wildlife 9.5 reflect strong documented marine biodiversity and substantial habitat breadth; Sipadan retains higher nature/wildlife 9.7 and experience 9.5. No guaranteed sightings or current reef condition claimed.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide V2 editorial rating.
+- Earlier decision: none.
+- Verification still needed: independent full factual verification, current operating conditions and location corroboration.
+
+
+## sight-pg-tufi-fjords — Tufi Fjords (Cape Nelson) — 2026-11-26
+
+- YAML: [source](../../../countries/PG/sights/tufi-fjords.yaml)
+- Action: new
+- Precise subject: Cape Nelson coastal inlets commonly called Tufi fjords, their authorized local boat, kayaking, coastal walking and nearby reef experiences. Excludes unrelated outer reefs, remote private communities and entire Oro Province. No assertion of glacial origin.
+- Location check: -9.0792, 149.3176; Tufi town representative point https://mapcarta.com/Tufi (opened, published coordinates); gateway for regional inlets, not an entrance or exact marine waypoint.
+- Evidence status: source-linked-unverified
+- Sources (2026-11-26):
+- PNG Tourism Promotion Authority https://papuanewguinea.travel/natural-landmarks/tufi-fjords/ (opened): deep volcanic coastal inlets, rainforest slopes, reef habitats, locally guided boat and kayaking trips, walks and community visits.
+- Pacific Tourism Organisation https://southpacificislands.travel/tufi-resort/ (indexed excerpt): coastal activities and community-supported tourism, older source.
+- Local operator https://tufiresort.com/tours/ (indexed excerpt): documented fjord cruises and beach trips. Commercial source, current arrangements unverified.
+- Missing facts: current visitor conditions, customary permissions, precise representative points and independent claim-level verification.
+
+### Worldwide peer comparisons
+- [ang-thong-national-marine-park (TH)](../../../countries/TH/sights/ang-thong-national-marine-park.yaml): 9.0/9.0/8.6/9.1/8.9; more established archipelago routes, distinct limestone formations.
+- [marovo-lagoon (SB)](../../../countries/SB/sights/marovo-lagoon.yaml): 9.1/9.3/8.7/9.0/8.8; similarly distinctive Pacific marine landscape, different lagoon morphology.
+- [cham-islands (VN)](../../../countries/VN/sights/cham-islands.yaml): 8.8/9.0/8.4/9.0/8.7; more compact marine and cultural visitor circuit, less dramatic coastal inlets.
+- [sipadan-island-reefs (MY)](../../../countries/MY/sights/sipadan-island-reefs.yaml): 9.5/9.6/9.1/9.5/8.9; stronger underwater spectacle, Tufi has broader above-water activities.
+
+### Scoring decisions
+- Impact: 9.2 — Dramatic steep tropical coastal inlets and forest-covered cliffs.
+- Uniqueness: 9.3 — Unusual combination of sheltered tropical drowned valleys and marine habitats, not globally unique.
+- Significance: 8.6 — Distinct regional landscape and cultural heritage; no unsupported global conservation status.
+- Experience: 9 — Documented guided boat, kayak, reef and coastal activities, condition-dependent.
+- Depth: 8.9 — Several inlets and visitor experiences, bounded to established local excursions.
+- Applicable categories: nature 9.4, adventure 9.2, photography 9.3, culture 8.5.
+- Overall: 90.45/100.
+- High-score challenge: Overall 90.45 supported by distinctive tropical coastal morphology and diversified documented experiences; below Sipadan on core underwater impact and significance. No 9.5+ fields or guaranteed access.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide V2 editorial rating.
+- Earlier decision: none.
+- Verification still needed: independent full factual verification, current operating conditions and location corroboration.
+
+
+### Heritage inventory recheck (2026-11-26)
+
+UNESCO country list https://whc.unesco.org/en/statesparties/pg (opened) confirms one inscribed and seven tentative properties, all represented at property level in this inventory. Six larger proposed areas retain incomplete visitor dimensions. Separate component inventory, full claim verification, precise representative points and visitor conditions remain outstanding.
