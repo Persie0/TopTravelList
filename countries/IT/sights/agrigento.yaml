@@ -1,0 +1,16 @@
+id: sight-it-agrigento
+name: "Archaeological Area of Agrigento"
+location:
+  country_code: IT
+  latitude: 37.29
+  longitude: 13.59
+scores:
+  impact: 9.4
+  uniqueness: 9.3
+  significance: 9.4
+  experience: 9.1
+  depth: 9.2
+  categories:
+    architecture: 9.6
+    history: 9.6
+    photography: 9.5

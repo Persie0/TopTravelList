@@ -1,0 +1,15 @@
+id: sight-it-hanbury
+name: "Hanbury Botanical Gardens"
+location:
+  country_code: IT
+  latitude: 43.78
+  longitude: 7.55
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 8.8
+  depth: 8.5
+  categories:
+    nature: 9.3
+    relaxation: 9.0

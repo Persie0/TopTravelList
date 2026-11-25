@@ -1,0 +1,15 @@
+id: sight-it-circeo
+name: "Circeo National Park"
+location:
+  country_code: IT
+  latitude: 41.24
+  longitude: 13.02
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 8.8
+  experience: 8.8
+  depth: 8.8
+  categories:
+    nature: 9.2
+    wildlife: 9.1

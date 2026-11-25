@@ -1,0 +1,15 @@
+id: sight-it-duomo-florence
+name: "Florence Cathedral complex"
+location:
+  country_code: IT
+  latitude: 43.773
+  longitude: 11.256
+scores:
+  impact: 9.5
+  uniqueness: 9.4
+  significance: 9.5
+  experience: 9.1
+  depth: 9.0
+  categories:
+    architecture: 9.7
+    history: 9.5

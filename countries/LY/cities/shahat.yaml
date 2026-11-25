@@ -1,0 +1,13 @@
+id: city-ly-shahat
+name: "Shahat"
+location:
+  country_code: LY
+  latitude: 32.804302
+  longitude: 21.866055
+scores:
+  impact: null
+  uniqueness: 7.0
+  significance: 7.2
+  experience: null
+  depth: null
+  categories: {}

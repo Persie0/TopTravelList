@@ -1,0 +1,15 @@
+id: sight-ua-bakhchysarai-landscape
+name: "Historical surroundings of the Crimean Khans' capital"
+location:
+  country_code: UA
+  latitude: 44.75
+  longitude: 33.88
+scores:
+  impact: 8.9
+  uniqueness: 9.1
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    history: 9.4
+    architecture: 9.3

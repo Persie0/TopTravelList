@@ -1,0 +1,15 @@
+id: sight-sd-al-hassania-national-park
+name: "Al Hassania National Park"
+location:
+  country_code: SD
+  latitude: 17.75
+  longitude: 33.0
+scores:
+  impact: null
+  uniqueness: 7.8
+  significance: 8.3
+  experience: null
+  depth: null
+  categories:
+    nature: null
+    wildlife: null

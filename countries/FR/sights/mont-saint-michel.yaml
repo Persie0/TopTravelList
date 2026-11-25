@@ -1,0 +1,16 @@
+id: sight-fr-mont-saint-michel
+name: "Mont-Saint-Michel and its Bay"
+location:
+  country_code: FR
+  latitude: 48.636
+  longitude: -1.512
+scores:
+  impact: 9.7
+  uniqueness: 9.6
+  significance: 9.4
+  experience: 9.3
+  depth: 9.1
+  categories:
+    architecture: 9.7
+    photography: 9.8
+    history: 9.5

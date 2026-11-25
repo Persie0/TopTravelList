@@ -1,0 +1,15 @@
+id: sight-ne-dosso-zarmakoye-palace
+name: "Zarmakoye Palace of Dosso"
+location:
+  country_code: NE
+  latitude: 13.049
+  longitude: 3.193
+scores:
+  impact: 7.5
+  uniqueness: 8.1
+  significance: 8.3
+  experience: null
+  depth: null
+  categories:
+    history: 8.5
+    architecture: 8.3

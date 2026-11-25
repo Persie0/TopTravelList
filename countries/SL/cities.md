@@ -2,7 +2,7 @@
 
 # Sierra Leone (SL) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**13 ranked** · **0 unassessed** · **13 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,23 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (13)
 
-No cities, towns & villages have been assessed for **Sierra Leone** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Freetown](cities/freetown.yaml) | City / town | **83.00** | **History 9.1**, **Culture 8.9**, **Food 8.4** | 8.0 / 8.4 / 8.8 / 8.0 / 8.4 | [8.484, -13.234](https://www.google.com/maps/search/?api=1&query=8.484,-13.234) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Freetown%2C%20Sierra%20Leone) |
+| 2 | [Bonthe](cities/bonthe.yaml) | City / town | **77.50** | **History 8.6**, **Architecture 8.2**, **Culture 8.2** | 7.6 / 8.2 / 8.2 / 7.4 / 6.7 | [7.526, -12.506](https://www.google.com/maps/search/?api=1&query=7.526,-12.506) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bonthe%2C%20Sierra%20Leone) |
+| 3 | [Dublin (Banana Islands)](cities/dublin-banana-islands.yaml) | City / town | **73.95** | **Culture 8.2**, **Relaxation 8.1** | 7.2 / 7.9 / 7.3 / 7.8 / 6.3 | [8.132, -13.205](https://www.google.com/maps/search/?api=1&query=8.132,-13.205) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Dublin%20%28Banana%20Islands%29%2C%20Sierra%20Leone) |
+| 4 | [Regent](cities/regent.yaml) | City / town | **72.45** | **History 8.6**, **Culture 8.0** | 6.7 / 7.6 / 8.1 / 7.3 / 6.2 | [8.422, -13.218](https://www.google.com/maps/search/?api=1&query=8.422,-13.218) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Regent%2C%20Sierra%20Leone) |
+| 5 | [York](cities/york.yaml) | City / town | **72.20** | **History 8.2**, **Culture 8.0** | 6.8 / 7.6 / 7.7 / 7.4 / 6.3 | [8.224, -13.167](https://www.google.com/maps/search/?api=1&query=8.224,-13.167) | [Google Maps](https://www.google.com/maps/search/?api=1&query=York%2C%20Sierra%20Leone) |
+| 6 | [Kabala](cities/kabala.yaml) | City / town | **71.30** | **Photography 8.1**, **Culture 8.0** | 7.0 / 7.6 / 6.9 / 7.4 / 6.4 | [9.588, -11.55](https://www.google.com/maps/search/?api=1&query=9.588,-11.55) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kabala%2C%20Sierra%20Leone) |
+| 7 | [Kent](cities/kent.yaml) | City / town | **70.10** | **Culture 7.8**, **History 7.6** | 6.8 / 7.3 / 7.0 / 7.5 / 6.2 | [8.141, -13.158](https://www.google.com/maps/search/?api=1&query=8.141,-13.158) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kent%2C%20Sierra%20Leone) |
+| 8 | [Kenema](cities/kenema.yaml) | City / town | **69.85** | **Culture 7.8**, **Food 7.7** | 6.5 / 7.2 / 7.3 / 7.3 / 6.8 | [7.877, -11.187](https://www.google.com/maps/search/?api=1&query=7.877,-11.187) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kenema%2C%20Sierra%20Leone) |
+| 9 | [Bo](cities/bo.yaml) | City / town | **68.95** | **Food 7.8**, **Culture 7.7** | 6.4 / 7.0 / 7.2 / 7.3 / 6.9 | [7.965, -11.738](https://www.google.com/maps/search/?api=1&query=7.965,-11.738) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bo%2C%20Sierra%20Leone) |
+| 10 | [Bureh Town](cities/bureh-town.yaml) | Town | **68.70** | **Relaxation 8.1**, **Culture 7.6** | 6.8 / 7.3 / 6.2 / 7.7 / 6.1 | [8.181, -13.164](https://www.google.com/maps/search/?api=1&query=8.181,-13.164) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bureh%20Town%2C%20Sierra%20Leone) |
+| 11 | [Makeni](cities/makeni.yaml) | City / town | **67.10** | **Culture 7.6**, **Food 7.6** | 6.2 / 6.9 / 7.0 / 7.1 / 6.6 | [8.881, -12.045](https://www.google.com/maps/search/?api=1&query=8.881,-12.045) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Makeni%2C%20Sierra%20Leone) |
+| 12 | [Port Loko](cities/port-loko.yaml) | City / town | **64.90** | **History 7.5**, **Culture 7.4** | 5.9 / 6.8 / 7.0 / 6.8 / 6.0 | [8.766, -12.787](https://www.google.com/maps/search/?api=1&query=8.766,-12.787) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Port%20Loko%2C%20Sierra%20Leone) |
+| 13 | [Koidu](cities/koidu.yaml) | City / town | **64.60** | **History 7.5**, **Culture 7.3** | 5.7 / 6.9 / 7.1 / 6.5 / 6.3 | [8.643, -10.971](https://www.google.com/maps/search/?api=1&query=8.643,-10.971) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Koidu%2C%20Sierra%20Leone) |
 
 ---
 

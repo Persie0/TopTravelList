@@ -1,0 +1,15 @@
+id: city-ne-bilma
+name: "Bilma"
+location:
+  country_code: NE
+  latitude: 18.6853
+  longitude: 12.9164
+scores:
+  impact: 7.7
+  uniqueness: 8.6
+  significance: 7.9
+  experience: 7.3
+  depth: 6.8
+  categories:
+    culture: 8.4
+    history: 8.2

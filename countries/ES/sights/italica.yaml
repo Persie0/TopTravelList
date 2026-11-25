@@ -1,0 +1,15 @@
+id: sight-es-italica
+name: "Hadrianic city of Italica"
+location:
+  country_code: ES
+  latitude: 37.443
+  longitude: -6.047
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 9.3
+  experience: 8.8
+  depth: 8.7
+  categories:
+    history: 9.4
+    architecture: 9.2

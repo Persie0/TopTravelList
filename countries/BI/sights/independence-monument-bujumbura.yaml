@@ -1,0 +1,14 @@
+id: sight-bi-independence-monument-bujumbura
+name: "Independence Monument (Bujumbura)"
+location:
+  country_code: BI
+  latitude: -3.38
+  longitude: 29.37
+scores:
+  impact: 6.0
+  uniqueness: 6.9
+  significance: 7.9
+  experience: 6.7
+  depth: 5.5
+  categories:
+    history: 8.2

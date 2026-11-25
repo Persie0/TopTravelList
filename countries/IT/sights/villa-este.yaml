@@ -1,0 +1,15 @@
+id: sight-it-villa-este
+name: "Villa d'Este Tivoli"
+location:
+  country_code: IT
+  latitude: 41.963
+  longitude: 12.797
+scores:
+  impact: 9.3
+  uniqueness: 9.3
+  significance: 9.3
+  experience: 9.1
+  depth: 8.8
+  categories:
+    architecture: 9.5
+    photography: 9.5

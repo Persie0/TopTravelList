@@ -1,0 +1,15 @@
+id: sight-gh-fort-prinzenstein-keta
+name: "Fort Prinzenstein (Keta)"
+location:
+  country_code: GH
+  latitude: 5.919
+  longitude: 0.989
+scores:
+  impact: 7.3
+  uniqueness: 8.2
+  significance: 8.8
+  experience: 7.3
+  depth: 6.4
+  categories:
+    history: 9.1
+    architecture: 8.0

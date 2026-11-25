@@ -1,0 +1,15 @@
+id: sight-fr-belfries
+name: "Belfries of Belgium and France (French components)"
+location:
+  country_code: FR
+  latitude: 50.29
+  longitude: 2.77
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.3
+    history: 9.3

@@ -1,0 +1,15 @@
+id: sight-mr-awleigatt-national-park
+name: "Awleigatt National Park"
+location:
+  country_code: MR
+  latitude: 17.877083
+  longitude: -15.509583
+scores:
+  impact: null
+  uniqueness: 7.2
+  significance: 7.6
+  experience: null
+  depth: null
+  categories:
+    nature: 7.8
+    wildlife: null

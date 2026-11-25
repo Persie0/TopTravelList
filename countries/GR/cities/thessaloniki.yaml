@@ -1,0 +1,16 @@
+id: city-gr-thessaloniki
+name: "Thessaloniki"
+location:
+  country_code: GR
+  latitude: 40.6401
+  longitude: 22.9444
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 9.2
+  experience: 9.0
+  depth: 9.0
+  categories:
+    history: 9.4
+    culture: 9.3
+    food: 9.3

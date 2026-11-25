@@ -1,0 +1,16 @@
+id: sight-sd-suakin-old-port
+name: "Suakin Historic Island"
+location:
+  country_code: SD
+  latitude: 19.1
+  longitude: 37.333333
+scores:
+  impact: 8.6
+  uniqueness: 9.1
+  significance: 9.0
+  experience: 8.0
+  depth: 7.8
+  categories:
+    architecture: 9.1
+    history: 9.2
+    photography: 8.8

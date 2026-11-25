@@ -1,0 +1,15 @@
+id: sight-it-civita
+name: "Civita di Bagnoregio cultural landscape"
+location:
+  country_code: IT
+  latitude: 42.63
+  longitude: 12.11
+scores:
+  impact: 9.3
+  uniqueness: 9.2
+  significance: 8.9
+  experience: 8.8
+  depth: 8.2
+  categories:
+    architecture: 9.3
+    photography: 9.6

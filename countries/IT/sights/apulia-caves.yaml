@@ -1,0 +1,15 @@
+id: sight-it-apulia-caves
+name: "Karstic caves in prehistoric Apulia"
+location:
+  country_code: IT
+  latitude: 40.8
+  longitude: 17.1
+scores:
+  impact: null
+  uniqueness: 9.1
+  significance: 9.3
+  experience: null
+  depth: null
+  categories:
+    history: 9.4
+    nature: 9.3

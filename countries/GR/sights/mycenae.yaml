@@ -1,0 +1,15 @@
+id: sight-gr-mycenae
+name: "Mycenae archaeological citadel and tombs"
+location:
+  country_code: GR
+  latitude: 37.731
+  longitude: 22.756
+scores:
+  impact: 9.1
+  uniqueness: 9.3
+  significance: 9.5
+  experience: 8.9
+  depth: 8.8
+  categories:
+    history: 9.6
+    architecture: 9.5

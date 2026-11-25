@@ -1,0 +1,15 @@
+id: sight-gr-greek-theatres
+name: "Ancient Greek Theatres (tentative series)"
+location:
+  country_code: GR
+  latitude: 37.598
+  longitude: 23.079
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 9.5
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.5
+    history: 9.5

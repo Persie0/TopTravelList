@@ -1,0 +1,16 @@
+id: city-mr-ouadane
+name: "Ouadane"
+location:
+  country_code: MR
+  latitude: 20.9289
+  longitude: -11.6236
+scores:
+  impact: 8.2
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 7.6
+  depth: 7.1
+  categories:
+    history: 9.0
+    architecture: 8.6
+    photography: 8.8

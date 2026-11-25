@@ -1,0 +1,15 @@
+id: sight-fr-bourges-cathedral
+name: "Bourges Cathedral"
+location:
+  country_code: FR
+  latitude: 47.083
+  longitude: 2.399
+scores:
+  impact: 9.1
+  uniqueness: 9.1
+  significance: 9.3
+  experience: 8.8
+  depth: 8.4
+  categories:
+    architecture: 9.5
+    history: 9.3

@@ -1,0 +1,15 @@
+id: city-td-fada
+name: "Fada"
+location:
+  country_code: TD
+  latitude: 17.185
+  longitude: 21.581
+scores:
+  impact: 6.5
+  uniqueness: 7.7
+  significance: 6.9
+  experience: 7.2
+  depth: 5.8
+  categories:
+    culture: 8.0
+    photography: 7.9

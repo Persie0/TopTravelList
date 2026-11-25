@@ -1,0 +1,16 @@
+id: sight-gr-acropolis
+name: "Acropolis of Athens"
+location:
+  country_code: GR
+  latitude: 37.9715
+  longitude: 23.7267
+scores:
+  impact: 9.6
+  uniqueness: 9.5
+  significance: 9.8
+  experience: 9.1
+  depth: 8.9
+  categories:
+    architecture: 9.8
+    history: 9.9
+    photography: 9.5

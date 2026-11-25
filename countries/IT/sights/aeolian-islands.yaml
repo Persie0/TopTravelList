@@ -1,0 +1,16 @@
+id: sight-it-aeolian-islands
+name: "Aeolian Islands"
+location:
+  country_code: IT
+  latitude: 38.55
+  longitude: 14.96
+scores:
+  impact: 9.4
+  uniqueness: 9.4
+  significance: 9.3
+  experience: 9.1
+  depth: 9.3
+  categories:
+    nature: 9.6
+    photography: 9.6
+    adventure: 9.3

@@ -1,0 +1,15 @@
+id: city-es-segovia
+name: "Segovia"
+location:
+  country_code: ES
+  latitude: 40.9429
+  longitude: -4.1088
+scores:
+  impact: 9.0
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.8
+  depth: 8.2
+  categories:
+    architecture: 9.4
+    history: 9.3

@@ -1,0 +1,16 @@
+id: city-fr-lille
+name: "Lille"
+location:
+  country_code: FR
+  latitude: 50.6292
+  longitude: 3.0573
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 8.7
+  experience: 8.9
+  depth: 8.7
+  categories:
+    architecture: 9.2
+    culture: 9.0
+    history: 8.9

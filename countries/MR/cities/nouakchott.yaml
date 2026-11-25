@@ -1,0 +1,15 @@
+id: city-mr-nouakchott
+name: "Nouakchott"
+location:
+  country_code: MR
+  latitude: 18.0858
+  longitude: -15.9785
+scores:
+  impact: 6.8
+  uniqueness: 7.2
+  significance: 7.7
+  experience: 7.3
+  depth: 7.6
+  categories:
+    culture: 7.8
+    food: 7.5

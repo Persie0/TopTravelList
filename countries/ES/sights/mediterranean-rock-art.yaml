@@ -1,0 +1,14 @@
+id: sight-es-mediterranean-rock-art
+name: "Rock Art of the Mediterranean Basin (Spanish series)"
+location:
+  country_code: ES
+  latitude: 40.2
+  longitude: -0.9
+scores:
+  impact: null
+  uniqueness: 9.3
+  significance: 9.5
+  experience: null
+  depth: null
+  categories:
+    history: 9.5

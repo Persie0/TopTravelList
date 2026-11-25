@@ -1,0 +1,15 @@
+id: sight-cf-chinko-conservation-area
+name: "Chinko Conservation Area"
+location:
+  country_code: CF
+  latitude: 6.0
+  longitude: 23.0
+scores:
+  impact: null
+  uniqueness: 9.2
+  significance: 9.4
+  experience: null
+  depth: null
+  categories:
+    nature: 9.4
+    wildlife: 9.4

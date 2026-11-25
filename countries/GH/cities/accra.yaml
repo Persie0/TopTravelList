@@ -1,0 +1,17 @@
+id: city-gh-accra
+name: "Accra"
+location:
+  country_code: GH
+  latitude: 5.556
+  longitude: -0.196
+scores:
+  impact: 7.9
+  uniqueness: 8.0
+  significance: 8.5
+  experience: 8.3
+  depth: 8.6
+  categories:
+    culture: 8.7
+    food: 8.4
+    history: 8.6
+    nightlife: 8.3

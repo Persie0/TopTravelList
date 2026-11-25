@@ -1,0 +1,15 @@
+id: sight-cg-poto-poto-painting-school
+name: "Poto-Poto Painting School"
+location:
+  country_code: CG
+  latitude: -4.25
+  longitude: 15.29
+scores:
+  impact: 7.4
+  uniqueness: 8.5
+  significance: 8.5
+  experience: 8.1
+  depth: 6.8
+  categories:
+    culture: 9.2
+    history: 8.5

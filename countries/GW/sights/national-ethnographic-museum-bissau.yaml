@@ -1,0 +1,15 @@
+id: sight-gw-national-ethnographic-museum-bissau
+name: "National Ethnographic Museum (Bissau)"
+location:
+  country_code: GW
+  latitude: 11.86
+  longitude: -15.59
+scores:
+  impact: null
+  uniqueness: 8.2
+  significance: 8.5
+  experience: null
+  depth: null
+  categories:
+    culture: 8.9
+    history: 8.6

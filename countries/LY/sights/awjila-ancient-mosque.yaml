@@ -1,0 +1,15 @@
+id: sight-ly-awjila-ancient-mosque
+name: "Ancient Mosque of Awjila"
+location:
+  country_code: LY
+  latitude: 29.127639
+  longitude: 21.290889
+scores:
+  impact: 8.4
+  uniqueness: 9.1
+  significance: 8.9
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.3
+    history: 9.0

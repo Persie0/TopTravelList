@@ -1,0 +1,15 @@
+id: sight-fr-vauban
+name: "Fortifications of Vauban (serial property)"
+location:
+  country_code: FR
+  latitude: 48.01
+  longitude: 7.53
+scores:
+  impact: 8.8
+  uniqueness: 9.1
+  significance: 9.3
+  experience: null
+  depth: null
+  categories:
+    architecture: 9.4
+    history: 9.4

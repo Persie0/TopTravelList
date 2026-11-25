@@ -1,0 +1,15 @@
+id: sight-cg-lesio-louna-gorilla-reserve
+name: "Lésio-Louna Gorilla Reserve"
+location:
+  country_code: CG
+  latitude: -3.27
+  longitude: 15.45
+scores:
+  impact: 8.3
+  uniqueness: 8.7
+  significance: 8.7
+  experience: 8.4
+  depth: 7.7
+  categories:
+    wildlife: 9.3
+    nature: 8.8

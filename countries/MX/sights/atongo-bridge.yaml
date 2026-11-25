@@ -1,0 +1,13 @@
+id: sight-mx-atongo-bridge
+name: "Bridge of Atongo"
+location:
+  country_code: MX
+  latitude: 19.986664
+  longitude: -99.444439
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}

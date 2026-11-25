@@ -1,0 +1,16 @@
+id: sight-mx-sierra-de-organos-national-park
+name: "Sierra de Órganos National Park"
+location:
+  country_code: MX
+  latitude: 23.863025
+  longitude: -103.847478
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 8.3
+  experience: 8.6
+  depth: 8.3
+  categories:
+    nature: 9.2
+    photography: 9.3
+    adventure: 8.9

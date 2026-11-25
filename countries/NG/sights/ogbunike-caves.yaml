@@ -1,0 +1,16 @@
+id: sight-ng-ogbunike-caves
+name: "Ogbunike Caves"
+location:
+  country_code: NG
+  latitude: 6.186389
+  longitude: 6.905833
+scores:
+  impact: 8.5
+  uniqueness: 8.7
+  significance: 8.5
+  experience: 8.2
+  depth: 7.8
+  categories:
+    nature: 8.8
+    culture: 8.7
+    adventure: 8.6

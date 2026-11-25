@@ -1,0 +1,15 @@
+id: sight-cg-tchimpounga-chimpanzee-sanctuary
+name: "Tchimpounga Chimpanzee Sanctuary"
+location:
+  country_code: CG
+  latitude: -4.46
+  longitude: 11.91
+scores:
+  impact: null
+  uniqueness: 8.6
+  significance: 9.0
+  experience: null
+  depth: null
+  categories:
+    wildlife: null
+    nature: 8.8

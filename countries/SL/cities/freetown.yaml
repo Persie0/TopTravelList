@@ -1,0 +1,16 @@
+id: city-sl-freetown
+name: "Freetown"
+location:
+  country_code: SL
+  latitude: 8.484
+  longitude: -13.234
+scores:
+  impact: 8.0
+  uniqueness: 8.4
+  significance: 8.8
+  experience: 8.0
+  depth: 8.4
+  categories:
+    history: 9.1
+    culture: 8.9
+    food: 8.4

@@ -1,0 +1,15 @@
+id: sight-es-loarre
+name: "Loarre Castle"
+location:
+  country_code: ES
+  latitude: 42.326
+  longitude: -0.612
+scores:
+  impact: 9.1
+  uniqueness: 9.0
+  significance: 9.1
+  experience: 8.8
+  depth: 8.4
+  categories:
+    architecture: 9.4
+    history: 9.3

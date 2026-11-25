@@ -1,0 +1,15 @@
+id: sight-ml-tomb-of-askia
+name: "Tomb of Askia"
+location:
+  country_code: ML
+  latitude: 16.2898
+  longitude: -0.04456
+scores:
+  impact: 8.9
+  uniqueness: 9.4
+  significance: 9.4
+  experience: 7.8
+  depth: 7.5
+  categories:
+    architecture: 9.4
+    history: 9.4

@@ -1,0 +1,13 @@
+id: sight-mx-el-fraile-bridge
+name: "Bridge of El Fraile"
+location:
+  country_code: MX
+  latitude: 20.842303
+  longitude: -100.795853
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}

@@ -1,0 +1,16 @@
+id: sight-it-etna
+name: "Mount Etna World Heritage landscape"
+location:
+  country_code: IT
+  latitude: 37.75
+  longitude: 15.0
+scores:
+  impact: 9.5
+  uniqueness: 9.4
+  significance: 9.4
+  experience: 9.0
+  depth: 9.3
+  categories:
+    nature: 9.7
+    photography: 9.6
+    adventure: 9.4

@@ -1,0 +1,16 @@
+id: sight-ci-grand-bassam-historic-town
+name: "Historic Town of Grand-Bassam"
+location:
+  country_code: CI
+  latitude: 5.196
+  longitude: -3.737
+scores:
+  impact: 8.6
+  uniqueness: 8.9
+  significance: 9.1
+  experience: 8.4
+  depth: 8.5
+  categories:
+    architecture: 9.0
+    history: 9.2
+    culture: 8.8

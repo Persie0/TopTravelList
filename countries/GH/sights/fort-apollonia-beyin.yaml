@@ -1,0 +1,15 @@
+id: sight-gh-fort-apollonia-beyin
+name: "Fort Apollonia (Beyin)"
+location:
+  country_code: GH
+  latitude: 5.004
+  longitude: -2.578
+scores:
+  impact: 7.6
+  uniqueness: 8.1
+  significance: 8.5
+  experience: 8.0
+  depth: 7.1
+  categories:
+    history: 8.8
+    culture: 8.5

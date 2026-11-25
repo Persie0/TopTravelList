@@ -1,0 +1,15 @@
+id: sight-es-sierra-nieves
+name: "Sierra de las Nieves National Park"
+location:
+  country_code: ES
+  latitude: 36.68
+  longitude: -4.99
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 8.8
+  depth: 8.9
+  categories:
+    nature: 9.3
+    adventure: 9.1

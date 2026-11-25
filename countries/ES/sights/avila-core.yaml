@@ -1,0 +1,15 @@
+id: sight-es-avila-core
+name: "Old Town of Ávila and Extra-Muros Churches"
+location:
+  country_code: ES
+  latitude: 40.656
+  longitude: -4.699
+scores:
+  impact: 9.1
+  uniqueness: 9.0
+  significance: 9.2
+  experience: 8.8
+  depth: 8.7
+  categories:
+    architecture: 9.5
+    history: 9.4
