@@ -1,0 +1,15 @@
+id: sight-no-munch-museum
+name: "MUNCH Museum"
+location:
+  country_code: "NO"
+  latitude: 59.906
+  longitude: 10.755
+scores:
+  impact: 8.6
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.8
+  depth: 8.8
+  categories:
+    culture: 9.4
+    architecture: 8.7
