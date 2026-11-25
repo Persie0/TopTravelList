@@ -1,0 +1,14 @@
+id: city-ba-srebrenica
+name: "Srebrenica"
+location:
+  country_code: BA
+  latitude: 44.1075
+  longitude: 19.2969
+scores:
+  impact: 6.9
+  uniqueness: 7.6
+  significance: 8.8
+  experience: 7.3
+  depth: 7.0
+  categories:
+    history: 9.2

@@ -1,0 +1,15 @@
+id: sight-ba-konjic-old-bridge
+name: "Konjic Old Bridge"
+location:
+  country_code: BA
+  latitude: 43.6510
+  longitude: 17.9610
+scores:
+  impact: 8.1
+  uniqueness: 8.2
+  significance: 8.3
+  experience: 8.2
+  depth: 7.0
+  categories:
+    architecture: 8.8
+    photography: 8.8

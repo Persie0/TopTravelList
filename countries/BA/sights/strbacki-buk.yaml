@@ -1,0 +1,15 @@
+id: sight-ba-strbacki-buk
+name: "Štrbački Buk"
+location:
+  country_code: BA
+  latitude: 44.6560
+  longitude: 16.0150
+scores:
+  impact: 9.0
+  uniqueness: 8.8
+  significance: 7.9
+  experience: 8.8
+  depth: 8.1
+  categories:
+    nature: 9.3
+    photography: 9.4

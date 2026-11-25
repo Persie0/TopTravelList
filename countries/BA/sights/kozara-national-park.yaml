@@ -1,0 +1,15 @@
+id: sight-ba-kozara-national-park
+name: "Kozara National Park"
+location:
+  country_code: BA
+  latitude: 45.0150
+  longitude: 16.9060
+scores:
+  impact: 8.1
+  uniqueness: 8.0
+  significance: 8.0
+  experience: 8.4
+  depth: 8.4
+  categories:
+    nature: 8.8
+    adventure: 8.7

@@ -1,0 +1,14 @@
+id: sight-ba-avnoj-museum-jajce
+name: "AVNOJ Museum Jajce"
+location:
+  country_code: BA
+  latitude: 44.3380
+  longitude: 17.2680
+scores:
+  impact: 7.6
+  uniqueness: 8.1
+  significance: 8.8
+  experience: 8.0
+  depth: 7.4
+  categories:
+    history: 9.2

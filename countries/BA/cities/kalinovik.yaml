@@ -1,0 +1,14 @@
+id: city-ba-kalinovik
+name: "Kalinovik"
+location:
+  country_code: BA
+  latitude: 43.5060
+  longitude: 18.4490
+scores:
+  impact: 6.3
+  uniqueness: 6.8
+  significance: 6.7
+  experience: 6.9
+  depth: 6.5
+  categories:
+    relaxation: 7.3

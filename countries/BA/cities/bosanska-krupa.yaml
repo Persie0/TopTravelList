@@ -1,0 +1,15 @@
+id: city-ba-bosanska-krupa
+name: "Bosanska Krupa"
+location:
+  country_code: BA
+  latitude: 44.8850
+  longitude: 16.1510
+scores:
+  impact: 7.4
+  uniqueness: 7.5
+  significance: 7.3
+  experience: 7.8
+  depth: 7.2
+  categories:
+    photography: 8.2
+    relaxation: 8.2

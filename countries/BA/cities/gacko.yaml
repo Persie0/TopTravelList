@@ -1,0 +1,14 @@
+id: city-ba-gacko
+name: "Gacko"
+location:
+  country_code: BA
+  latitude: 43.1670
+  longitude: 18.5350
+scores:
+  impact: 6.4
+  uniqueness: 6.7
+  significance: 6.7
+  experience: 7.0
+  depth: 6.6
+  categories:
+    history: 7.3

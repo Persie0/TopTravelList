@@ -1,0 +1,15 @@
+id: sight-ba-boracko-lake
+name: "Boračko Lake"
+location:
+  country_code: BA
+  latitude: 43.5520
+  longitude: 18.0290
+scores:
+  impact: 8.1
+  uniqueness: 7.9
+  significance: 7.1
+  experience: 8.5
+  depth: 8.0
+  categories:
+    nature: 8.7
+    relaxation: 8.9

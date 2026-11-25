@@ -1,0 +1,15 @@
+id: sight-ba-bjelasnica-mountain
+name: "Bjelašnica Mountain"
+location:
+  country_code: BA
+  latitude: 43.7050
+  longitude: 18.2570
+scores:
+  impact: 8.3
+  uniqueness: 8.1
+  significance: 7.6
+  experience: 8.6
+  depth: 8.5
+  categories:
+    nature: 8.9
+    adventure: 9

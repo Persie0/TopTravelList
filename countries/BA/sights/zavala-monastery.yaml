@@ -1,0 +1,15 @@
+id: sight-ba-zavala-monastery
+name: "Zavala Monastery"
+location:
+  country_code: BA
+  latitude: 42.8480
+  longitude: 17.9770
+scores:
+  impact: 7.9
+  uniqueness: 8.3
+  significance: 8.2
+  experience: 8.1
+  depth: 7.2
+  categories:
+    culture: 8.7
+    architecture: 8.6

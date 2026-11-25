@@ -1,0 +1,15 @@
+id: city-ba-neum
+name: "Neum"
+location:
+  country_code: BA
+  latitude: 42.9230
+  longitude: 17.6150
+scores:
+  impact: 7.4
+  uniqueness: 7.2
+  significance: 6.5
+  experience: 8.0
+  depth: 7.4
+  categories:
+    beaches: 8
+    relaxation: 8.5

@@ -1,0 +1,15 @@
+id: sight-ba-gradacac-castle
+name: "Gradačac Castle"
+location:
+  country_code: BA
+  latitude: 44.8780
+  longitude: 18.4260
+scores:
+  impact: 8.0
+  uniqueness: 8.1
+  significance: 8.3
+  experience: 8.2
+  depth: 7.4
+  categories:
+    history: 8.8
+    architecture: 8.6

@@ -1,0 +1,16 @@
+id: sight-ba-stari-most
+name: "Stari Most"
+location:
+  country_code: BA
+  latitude: 43.3373
+  longitude: 17.8152
+scores:
+  impact: 9.1
+  uniqueness: 9.2
+  significance: 9.0
+  experience: 8.8
+  depth: 7.6
+  categories:
+    architecture: 9.4
+    history: 9.3
+    photography: 9.4

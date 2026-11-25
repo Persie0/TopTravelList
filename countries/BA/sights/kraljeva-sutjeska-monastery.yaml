@@ -1,0 +1,15 @@
+id: sight-ba-kraljeva-sutjeska-monastery
+name: "Kraljeva Sutjeska Monastery"
+location:
+  country_code: BA
+  latitude: 44.1220
+  longitude: 18.1990
+scores:
+  impact: 8.0
+  uniqueness: 8.4
+  significance: 8.7
+  experience: 8.2
+  depth: 7.5
+  categories:
+    history: 9.1
+    culture: 8.9

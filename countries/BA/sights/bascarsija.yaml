@@ -1,0 +1,16 @@
+id: sight-ba-bascarsija
+name: "Baščaršija"
+location:
+  country_code: BA
+  latitude: 43.8593
+  longitude: 18.4313
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 9.0
+  depth: 8.6
+  categories:
+    culture: 9.3
+    food: 9
+    architecture: 9

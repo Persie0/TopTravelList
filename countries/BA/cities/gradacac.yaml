@@ -1,0 +1,15 @@
+id: city-ba-gradacac
+name: "Gradačac"
+location:
+  country_code: BA
+  latitude: 44.8785
+  longitude: 18.4276
+scores:
+  impact: 7.6
+  uniqueness: 7.7
+  significance: 7.8
+  experience: 7.8
+  depth: 7.2
+  categories:
+    architecture: 8.4
+    history: 8.3

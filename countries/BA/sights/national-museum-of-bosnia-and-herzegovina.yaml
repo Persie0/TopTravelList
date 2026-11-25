@@ -1,0 +1,15 @@
+id: sight-ba-national-museum-of-bosnia-and-herzegovina
+name: "National Museum of Bosnia and Herzegovina"
+location:
+  country_code: BA
+  latitude: 43.8551
+  longitude: 18.4020
+scores:
+  impact: 8.3
+  uniqueness: 8.5
+  significance: 8.8
+  experience: 8.5
+  depth: 8.6
+  categories:
+    history: 9.1
+    culture: 9.1

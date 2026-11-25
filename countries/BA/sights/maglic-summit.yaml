@@ -1,0 +1,15 @@
+id: sight-ba-maglic-summit
+name: "Maglić Summit"
+location:
+  country_code: BA
+  latitude: 43.2810
+  longitude: 18.7330
+scores:
+  impact: 8.9
+  uniqueness: 8.7
+  significance: 8.1
+  experience: 8.6
+  depth: 8.5
+  categories:
+    nature: 9.2
+    adventure: 9.3

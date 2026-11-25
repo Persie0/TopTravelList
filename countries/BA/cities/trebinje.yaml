@@ -1,0 +1,15 @@
+id: city-ba-trebinje
+name: "Trebinje"
+location:
+  country_code: BA
+  latitude: 42.7119
+  longitude: 18.3442
+scores:
+  impact: 8.0
+  uniqueness: 8.0
+  significance: 7.8
+  experience: 8.4
+  depth: 7.9
+  categories:
+    relaxation: 8.8
+    food: 8.5

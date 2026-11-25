@@ -1,0 +1,15 @@
+id: sight-ba-pliva-lakes
+name: "Pliva Lakes"
+location:
+  country_code: BA
+  latitude: 44.3440
+  longitude: 17.2200
+scores:
+  impact: 8.3
+  uniqueness: 8.1
+  significance: 7.3
+  experience: 8.7
+  depth: 8.4
+  categories:
+    relaxation: 9
+    nature: 8.8

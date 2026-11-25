@@ -1,0 +1,15 @@
+id: city-ba-fojnica
+name: "Fojnica"
+location:
+  country_code: BA
+  latitude: 43.9600
+  longitude: 17.9000
+scores:
+  impact: 7.0
+  uniqueness: 7.3
+  significance: 7.6
+  experience: 7.7
+  depth: 7.1
+  categories:
+    relaxation: 8.2
+    history: 8

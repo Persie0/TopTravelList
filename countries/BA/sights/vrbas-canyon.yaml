@@ -1,0 +1,15 @@
+id: sight-ba-vrbas-canyon
+name: "Vrbas Canyon"
+location:
+  country_code: BA
+  latitude: 44.6300
+  longitude: 17.1800
+scores:
+  impact: 8.5
+  uniqueness: 8.4
+  significance: 7.4
+  experience: 8.6
+  depth: 8.4
+  categories:
+    nature: 9
+    adventure: 9

@@ -1,0 +1,15 @@
+id: sight-ba-skakavac-waterfall-sarajevo
+name: "Skakavac Waterfall Sarajevo"
+location:
+  country_code: BA
+  latitude: 43.9550
+  longitude: 18.4470
+scores:
+  impact: 8.2
+  uniqueness: 8.3
+  significance: 7.4
+  experience: 8.3
+  depth: 7.7
+  categories:
+    nature: 8.9
+    photography: 8.8
