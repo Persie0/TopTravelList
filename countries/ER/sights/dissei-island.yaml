@@ -1,0 +1,16 @@
+id: sight-er-dissei-island
+name: "Dissei Island"
+location:
+  country_code: ER
+  latitude: 15.46
+  longitude: 39.76
+scores:
+  impact: 8.1
+  uniqueness: 8.4
+  significance: 7.1
+  experience: 8.4
+  depth: 7.3
+  categories:
+    beaches: 8.8
+    nature: 8.7
+    relaxation: 8.6

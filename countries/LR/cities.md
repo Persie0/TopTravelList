@@ -2,7 +2,7 @@
 
 # Liberia (LR) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**14 ranked** · **0 unassessed** · **14 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,24 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (14)
 
-No cities, towns & villages have been assessed for **Liberia** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Monrovia](cities/monrovia.yaml) | City / town | **80.20** | **History 8.9**, **Culture 8.7**, **Food 8.2** | 7.6 / 8.2 / 8.6 / 7.8 / 8.0 | [6.301, -10.797](https://www.google.com/maps/search/?api=1&query=6.301,-10.797) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Monrovia%2C%20Liberia) |
+| 2 | [Harper](cities/harper.yaml) | City / town | **77.50** | **History 8.7**, **Architecture 8.5**, **Photography 8.3** | 7.5 / 8.3 / 8.2 / 7.3 / 6.9 | [4.378199, -7.710813](https://www.google.com/maps/search/?api=1&query=4.378199,-7.710813) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Harper%2C%20Liberia) |
+| 3 | [Edina](cities/edina.yaml) | City / town | **76.10** | **History 8.8**, **Culture 8.5**, **Architecture 8.2** | 7.1 / 8.2 / 8.3 / 7.6 / 6.3 | [5.91, -10.07](https://www.google.com/maps/search/?api=1&query=5.91,-10.07) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Edina%2C%20Liberia) |
+| 4 | [Robertsport](cities/robertsport.yaml) | City / town | **75.85** | **Relaxation 8.4**, **Culture 8.0**, **Food 8.0** | 7.6 / 8.0 / 7.2 / 8.1 / 6.5 | [6.753293, -11.367097](https://www.google.com/maps/search/?api=1&query=6.753293,-11.367097) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Robertsport%2C%20Liberia) |
+| 5 | [Careysburg](cities/careysburg.yaml) | City / town | **72.60** | **History 8.4**, **Architecture 8.1** | 6.8 / 7.8 / 7.9 / 7.2 / 6.1 | [6.4, -10.55](https://www.google.com/maps/search/?api=1&query=6.4,-10.55) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Careysburg%2C%20Liberia) |
+| 6 | [Marshall](cities/marshall.yaml) | City / town | **71.75** | **Culture 8.3**, **Food 7.9** | 7.0 / 7.6 / 6.9 / 7.7 / 6.4 | [6.13, -10.38](https://www.google.com/maps/search/?api=1&query=6.13,-10.38) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Marshall%2C%20Liberia) |
+| 7 | [Greenville](cities/greenville.yaml) | City / town | **71.50** | **History 8.2**, **Culture 7.9** | 6.8 / 7.6 / 7.7 / 7.0 / 6.2 | [5.011331, -9.038795](https://www.google.com/maps/search/?api=1&query=5.011331,-9.038795) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Greenville%2C%20Liberia) |
+| 8 | [Buchanan](cities/buchanan.yaml) | City / town | **70.00** | **Food 7.9**, **Culture 7.8** | 6.6 / 7.2 / 7.2 / 7.4 / 6.7 | [5.88, -10.05](https://www.google.com/maps/search/?api=1&query=5.88,-10.05) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Buchanan%2C%20Liberia) |
+| 9 | [Yekepa](cities/yekepa.yaml) | City / town | **69.85** | **History 7.9**, **Photography 7.8** | 6.5 / 7.6 / 7.3 / 7.1 / 6.1 | [7.58, -8.54](https://www.google.com/maps/search/?api=1&query=7.58,-8.54) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Yekepa%2C%20Liberia) |
+| 10 | [Gbarnga](cities/gbarnga.yaml) | City / town | **66.15** | **History 7.7**, **Culture 7.6** | 6.0 / 6.7 / 7.2 / 7.0 / 6.5 | [6.99543, -9.471217](https://www.google.com/maps/search/?api=1&query=6.99543,-9.471217) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Gbarnga%2C%20Liberia) |
+| 11 | [Ganta](cities/ganta.yaml) | City / town | **65.90** | **Food 7.7**, **Culture 7.5** | 6.0 / 6.9 / 6.8 / 7.1 / 6.4 | [7.24, -8.98](https://www.google.com/maps/search/?api=1&query=7.24,-8.98) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ganta%2C%20Liberia) |
+| 12 | [Sanniquellie](cities/sanniquellie.yaml) | City / town | **65.85** | **Culture 7.6**, **History 7.6** | 6.0 / 7.0 / 7.0 / 6.9 / 6.0 | [7.36, -8.71](https://www.google.com/maps/search/?api=1&query=7.36,-8.71) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sanniquellie%2C%20Liberia) |
+| 13 | [Kakata](cities/kakata.yaml) | City / town | **64.30** | **Food 7.5**, **Culture 7.3** | 5.9 / 6.7 / 6.7 / 6.9 / 6.1 | [6.531045, -10.353684](https://www.google.com/maps/search/?api=1&query=6.531045,-10.353684) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kakata%2C%20Liberia) |
+| 14 | [Zwedru](cities/zwedru.yaml) | City / town | **63.25** | **Culture 7.3** | 5.9 / 6.6 / 6.5 / 6.7 / 6.0 | [6.068, -8.136](https://www.google.com/maps/search/?api=1&query=6.068,-8.136) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Zwedru%2C%20Liberia) |
 
 ---
 

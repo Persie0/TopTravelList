@@ -1,0 +1,16 @@
+id: sight-gh-mole-national-park
+name: "Mole National Park"
+location:
+  country_code: GH
+  latitude: 9.48
+  longitude: -1.83
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 9.1
+  experience: 8.8
+  depth: 8.9
+  categories:
+    nature: 9.3
+    wildlife: 9.4
+    adventure: 8.8

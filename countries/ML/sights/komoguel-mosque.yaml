@@ -1,0 +1,15 @@
+id: sight-ml-komoguel-mosque
+name: "Komoguel Grand Mosque, Mopti"
+location:
+  country_code: ML
+  latitude: 14.492
+  longitude: -4.195
+scores:
+  impact: 8.6
+  uniqueness: 8.9
+  significance: 8.5
+  experience: 7.6
+  depth: 7.1
+  categories:
+    architecture: 9.0
+    photography: 8.8

@@ -1,0 +1,16 @@
+id: sight-sl-tasso-island
+name: "Tasso Island"
+location:
+  country_code: SL
+  latitude: 8.54
+  longitude: -13.07
+scores:
+  impact: 7.7
+  uniqueness: 8.1
+  significance: 7.9
+  experience: 8.0
+  depth: 7.2
+  categories:
+    culture: 8.4
+    nature: 8.3
+    relaxation: 8.2

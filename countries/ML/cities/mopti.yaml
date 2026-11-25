@@ -1,0 +1,16 @@
+id: city-ml-mopti
+name: "Mopti"
+location:
+  country_code: ML
+  latitude: 14.4843
+  longitude: -4.18296
+scores:
+  impact: 8.0
+  uniqueness: 8.4
+  significance: 7.9
+  experience: 8.0
+  depth: 7.5
+  categories:
+    culture: 8.5
+    photography: 8.6
+    architecture: 8.2

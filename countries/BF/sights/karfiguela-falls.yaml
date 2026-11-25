@@ -1,0 +1,16 @@
+id: sight-bf-karfiguela-falls
+name: "Karfiguéla Waterfalls"
+location:
+  country_code: BF
+  latitude: 10.72427
+  longitude: -4.82287
+scores:
+  impact: 8.4
+  uniqueness: 7.9
+  significance: 7.2
+  experience: 8.4
+  depth: 7.4
+  categories:
+    nature: 8.5
+    photography: 8.6
+    relaxation: 8.2

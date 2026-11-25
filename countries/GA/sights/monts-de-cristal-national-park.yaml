@@ -1,0 +1,16 @@
+id: sight-ga-monts-de-cristal-national-park
+name: "Monts de Cristal National Park"
+location:
+  country_code: GA
+  latitude: 0.68
+  longitude: 10.25
+scores:
+  impact: 8.3
+  uniqueness: 8.6
+  significance: 8.8
+  experience: 8.0
+  depth: 8.1
+  categories:
+    nature: 9.2
+    wildlife: 9.0
+    adventure: 8.4

@@ -1,0 +1,15 @@
+id: sight-cm-bouba-ndjidda-national-park
+name: "Bouba Ndjidda National Park"
+location:
+  country_code: CM
+  latitude: 8.675
+  longitude: 14.666667
+scores:
+  impact: 8.5
+  uniqueness: 8.6
+  significance: 9.0
+  experience: null
+  depth: null
+  categories:
+    nature: 8.9
+    wildlife: 9.1

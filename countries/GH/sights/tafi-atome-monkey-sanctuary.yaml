@@ -1,0 +1,16 @@
+id: sight-gh-tafi-atome-monkey-sanctuary
+name: "Tafi Atome Monkey Sanctuary"
+location:
+  country_code: GH
+  latitude: 6.91
+  longitude: 0.44
+scores:
+  impact: 7.6
+  uniqueness: 8.1
+  significance: 8.1
+  experience: 8.3
+  depth: 7.0
+  categories:
+    wildlife: 8.9
+    culture: 8.0
+    nature: 8.5

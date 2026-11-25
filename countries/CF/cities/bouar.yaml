@@ -1,0 +1,15 @@
+id: city-cf-bouar
+name: "Bouar"
+location:
+  country_code: CF
+  latitude: 5.934
+  longitude: 15.596
+scores:
+  impact: null
+  uniqueness: 7.3
+  significance: 7.5
+  experience: null
+  depth: null
+  categories:
+    history: 8.0
+    culture: 7.9

@@ -1,0 +1,13 @@
+id: city-cd-mbandaka
+name: "Mbandaka"
+location:
+  country_code: CD
+  latitude: 0.04865
+  longitude: 18.26034
+scores:
+  impact: null
+  uniqueness: 7.6
+  significance: 7.3
+  experience: null
+  depth: null
+  categories: {}

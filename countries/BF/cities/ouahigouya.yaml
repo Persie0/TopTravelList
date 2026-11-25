@@ -1,0 +1,13 @@
+id: city-bf-ouahigouya
+name: "Ouahigouya"
+location:
+  country_code: BF
+  latitude: 13.583
+  longitude: -2.421
+scores:
+  impact: null
+  uniqueness: 7.2
+  significance: 7.4
+  experience: null
+  depth: null
+  categories: {}

@@ -1,0 +1,16 @@
+id: sight-gh-larabanga-mosque
+name: "Larabanga Mosque"
+location:
+  country_code: GH
+  latitude: 9.217
+  longitude: -1.855
+scores:
+  impact: 8.3
+  uniqueness: 8.8
+  significance: 8.9
+  experience: 8.0
+  depth: 6.7
+  categories:
+    architecture: 9.2
+    history: 9.1
+    culture: 9.1

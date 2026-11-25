@@ -1,0 +1,15 @@
+id: city-ng-ile-ife
+name: "Ile-Ife"
+location:
+  country_code: NG
+  latitude: 7.490462
+  longitude: 4.552127
+scores:
+  impact: 7.8
+  uniqueness: 8.8
+  significance: 9.1
+  experience: 7.8
+  depth: 7.9
+  categories:
+    history: 9.3
+    culture: 9.2
