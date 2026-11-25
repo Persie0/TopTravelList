@@ -1,0 +1,17 @@
+id: city-co-bogota
+name: "Bogotá"
+location:
+  country_code: CO
+  latitude: 4.7110
+  longitude: -74.0721
+scores:
+  impact: 8.5
+  uniqueness: 8.4
+  significance: 8.8
+  experience: 8.3
+  depth: 9.2
+  categories:
+    culture: 9.1
+    history: 9.0
+    food: 9.0
+    architecture: 8.5
