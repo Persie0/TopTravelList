@@ -646,4 +646,3 @@
 - Approved 10 registry: none.
 - Final decision: Provisional absolute worldwide score; museums and riverfront walking; excludes outlying sites.
 - Verification still needed: GPS, material claims, access, category calibration, live peer fit and values.
-
