@@ -2,8 +2,8 @@ id: sight-uz-ulugh-beg-observatory
 name: "Ulugh Beg Observatory"
 location:
   country_code: UZ
-  latitude: 39.675
-  longitude: 67.006
+  latitude: 39.675162
+  longitude: 67.00563
 scores:
   impact: 7.8
   uniqueness: 8.9

@@ -2,8 +2,8 @@ id: sight-uz-state-museum-of-history-of-uzbekistan
 name: "State Museum of History of Uzbekistan"
 location:
   country_code: UZ
-  latitude: 41.311
-  longitude: 69.271
+  latitude: 41.311436
+  longitude: 69.269317
 scores:
   impact: 7.9
   uniqueness: 8.3

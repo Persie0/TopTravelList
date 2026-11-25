@@ -2,8 +2,8 @@ id: sight-uz-afrasiab-archaeological-site-and-museum
 name: "Afrasiab Archaeological Site and Museum"
 location:
   country_code: UZ
-  latitude: 39.676
-  longitude: 66.987
+  latitude: 39.666667
+  longitude: 66.983333
 scores:
   impact: 7.8
   uniqueness: 8.7

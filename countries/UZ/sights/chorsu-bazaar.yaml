@@ -2,8 +2,8 @@ id: sight-uz-chorsu-bazaar
 name: "Chorsu Bazaar"
 location:
   country_code: UZ
-  latitude: 41.326
-  longitude: 69.234
+  latitude: 41.326772
+  longitude: 69.235056
 scores:
   impact: 8.1
   uniqueness: 8.1

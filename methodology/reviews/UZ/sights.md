@@ -1,6 +1,6 @@
 # Uzbekistan — sights individual worldwide v2 reviews
 
-2026-11-25. Initial editorial inventory. [UNESCO register](https://whc.unesco.org/en/statesparties/UZ) lists eight inscribed and 30 tentative properties. All eight inscribed properties represented, serial properties may be incomplete and unranked; only selected tentative properties catalogued. Shahrisabz historic centre is on the World Heritage in Danger list; conservation changes affect the urban fabric assessment. All coordinates approximate editorial points, not independently verified or guaranteed entrances. Broad directory sources support identity/context only; no full factual verification claimed. Shared peer ladders are provisional, especially modernist, craft and desert sites. The city and listed historic ensemble are separate scopes.
+2026-11-25. Initial editorial inventory. [UNESCO register](https://whc.unesco.org/en/statesparties/UZ) lists eight inscribed and 30 tentative properties. All eight inscribed properties represented, serial properties may be incomplete and unranked; only selected tentative properties catalogued. Shahrisabz historic centre is on the World Heritage in Danger list; conservation changes affect the urban fabric assessment. Nine follow-up records use UNESCO published property or component coordinates; remaining coordinates approximate editorial points. None guaranteed entrances. Broad directory sources support identity/context only; no full factual verification claimed. Shared peer ladders are provisional, especially modernist, craft and desert sites. The city and listed historic ensemble are separate scopes.
 
 ## sight-uz-registan-square-and-madrasah-ensemble — Registan Square and Madrasah Ensemble — 2026-11-25
 
@@ -15,11 +15,12 @@
 - Uniqueness 9.7: rare coherent Timurid and later educational ensemble.
 - Significance 9.6: international Islamic architectural history.
 - Experience 9.6: multiple accessible courtyards and interiors.
-- Depth 9.2: three substantial buildings.
-- Categories: architecture:9.8, history:9.6, photography:9.8, culture:9.5. Overall: 96.45/100.
+- Depth 8.9: three distinct madrasahs, with ordinary accessible courtyards and permitted interiors; not an entire city or extensive temple landscape.
+- Categories: architecture:9.8, history:9.6, photography:9.8, culture:9.5. Overall: 96.15/100.
 - High-score challenge: All 9.5+ values reflect the three-building ensemble, not a single facade. Angkor Wat has greater temple-scale complexity and Forbidden City wider palace depth; Registan excels in integrated tilework, composition and urban ceremonial space.. No approved 10.
 - Evidence: [Official tourism Registan page and architecture directory excerpt](https://uzbekistan.travel/en/o/registan/), page or search excerpt inspected 2026-11-25; limited identity or context, not all individual claims verified.
 - Remaining gaps: Independent factual, GPS, category and specialist peer verification.
+- Follow-up 2026-11-25: reconciled the prior visitor-depth adjustment with YAML. Official itinerary https://uzbekistan.travel/en/vt/uzbekistan-historical-tour/ lists the ensembles as separate stops within a single day; the earlier depth justification overstated breadth. Angkor Wat depth 9.5, Dambulla 8.8 and Wat Pho 8.5 read from current main. This is a targeted calibration, not an independent full fact check.
 
 ## sight-uz-shah-i-zinda-necropolis — Shah-i-Zinda Necropolis — 2026-11-25
 
@@ -29,21 +30,22 @@
   - [Angkor Wat (KH)](../../../countries/KH/sights/angkor-wat.yaml) — 10.0 / 10.0 / 10.0 / 9.8 / 9.5 (99.20/100); upper reference; Shah-i-Zinda Necropolis has lower provisional uniqueness and lower depth (rare concentrated Timurid funerary art; many mausoleums but one compact route).
   - [Dambulla Cave Temple (LK)](../../../countries/LK/sights/dambulla-cave-temple.yaml) — 9.2 / 9.5 / 9.5 / 9.1 / 8.8 (92.80/100); related comparator; Shah-i-Zinda Necropolis has higher provisional uniqueness and lower depth (rare concentrated Timurid funerary art; many mausoleums but one compact route).
   - [Paro Taktsang (Tiger's Nest) (BT)](../../../countries/BT/sights/paro-taktsang-tigers-nest.yaml) — 9.7 / 9.7 / 9.3 / 9.4 / 8.8 (94.85/100); related comparator; Shah-i-Zinda Necropolis has lower provisional uniqueness and lower depth (rare concentrated Timurid funerary art; many mausoleums but one compact route).
-  - [Wat Pho (TH)](../../../countries/TH/sights/wat-pho.yaml) — 9.0 / 9.2 / 9.3 / 9.2 / 8.5 (90.90/100); regional or bounded reference; Shah-i-Zinda Necropolis has higher provisional uniqueness and higher depth (rare concentrated Timurid funerary art; many mausoleums but one compact route).
+  - [Wat Pho (TH)](../../../countries/TH/sights/wat-pho.yaml) — 9.0 / 9.2 / 9.3 / 9.2 / 8.5 (90.90/100); regional or bounded reference; Shah-i-Zinda Necropolis has higher provisional uniqueness and lower depth (rare concentrated Timurid funerary art; many mausoleums but one compact route).
 - Impact 9.6: extraordinary tilework along tightly composed stair and passage.
 - Uniqueness 9.6: rare concentrated Timurid funerary art.
 - Significance 9.5: international architectural and religious heritage.
 - Experience 9.3: immersive bounded walk.
-- Depth 8.7: many mausoleums but one compact route.
-- Categories: architecture:9.7, history:9.5, photography:9.7, culture:9.3. Overall: 94.45/100.
+- Depth 8.2: numerous mausoleums along one bounded stair-and-passage circuit; no unrestricted interior access assumed.
+- Categories: architecture:9.7, history:9.5, photography:9.7, culture:9.3. Overall: 93.95/100.
 - High-score challenge: 9.5+ visual, architectural, historical and rarity scores reflect the unusual concentration of decorated tombs, below Angkor in scale and depth.. No approved 10.
 - Evidence: [Official tourism regional excerpt and Samarkand monument directory](https://uzbekistan.travel/en/r/samarkand-region/), page or search excerpt inspected 2026-11-25; limited identity or context, not all individual claims verified.
 - Remaining gaps: Independent factual, GPS, category and specialist peer verification.
+- Follow-up 2026-11-25: reconciled the prior visitor-depth adjustment with YAML. Official itinerary https://uzbekistan.travel/en/vt/uzbekistan-historical-tour/ lists the ensembles as separate stops within a single day; the earlier depth justification overstated breadth. Angkor Wat depth 9.5, Dambulla 8.8 and Wat Pho 8.5 read from current main. This is a targeted calibration, not an independent full fact check.
 
 ## sight-uz-itchan-kala — Itchan Kala — 2026-11-25
 
 - [YAML](../../../countries/UZ/sights/itchan-kala.yaml) · Action: new · **source-linked-unverified**.
-- Scope: walled inner town heritage area, not all Khiva. GPS 41.378, 60.359: provisional approximate point; independent verification pending.
+- Scope: walled inner town heritage area, not all Khiva. GPS 41.378088, 60.360253: published property point; UNESCO map coordinate converted to decimal, not an entrance.
 - Worldwide peers (I/U/S/E/D):
   - [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 10.0 / 10.0 / 10.0 / 9.8 / 10.0 (99.70/100); upper reference; Itchan Kala has lower provisional uniqueness and lower depth (rare coherent enclosed oasis urban ensemble; many distinct buildings and lanes).
   - [Jerash Archaeological City (JO)](../../../countries/JO/sights/jerash-archaeological-city.yaml) — 9.5 / 9.3 / 9.5 / 9.4 / 9.3 (94.15/100); related comparator; Itchan Kala has higher provisional uniqueness and higher depth (rare coherent enclosed oasis urban ensemble; many distinct buildings and lanes).
@@ -58,11 +60,12 @@
 - High-score challenge: Uniqueness, experience, architecture, history and photography justified by rare coherent enclosed urban fabric; Angkor has larger archaeological depth and Jerash different standing urban fabric.. No approved 10.
 - Evidence: [UNESCO Itchan Kala property description](https://whc.unesco.org/en/list/543/), page or search excerpt inspected 2026-11-25; limited identity or context, not all individual claims verified.
 - Remaining gaps: Independent factual, GPS, category and specialist peer verification.
+- Coordinate follow-up: https://whc.unesco.org/en/list/543/maps/ (published property point); previous point 41.378, 60.359. Not independent entrance verification.
 
 ## sight-uz-historic-centre-of-bukhara — Historic Centre of Bukhara — 2026-11-25
 
 - [YAML](../../../countries/UZ/sights/historic-centre-of-bukhara.yaml) · Action: new · **source-linked-unverified**.
-- Scope: historic centre heritage ensemble. GPS 39.774, 64.421: provisional approximate point; independent verification pending.
+- Scope: historic centre heritage ensemble. GPS 39.77472, 64.42861: published property point; UNESCO map coordinate converted to decimal, not an entrance.
 - Worldwide peers (I/U/S/E/D):
   - [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 10.0 / 10.0 / 10.0 / 9.8 / 10.0 (99.70/100); upper reference; Historic Centre of Bukhara has lower provisional uniqueness and lower depth (rare continuous oasis urban fabric; many ensembles across historic center).
   - [Jerash Archaeological City (JO)](../../../countries/JO/sights/jerash-archaeological-city.yaml) — 9.5 / 9.3 / 9.5 / 9.4 / 9.3 (94.15/100); related comparator; Historic Centre of Bukhara has higher provisional uniqueness and higher depth (rare continuous oasis urban fabric; many ensembles across historic center).
@@ -77,11 +80,12 @@
 - High-score challenge: 9.5+ fields reflect breadth and living historic urban ensemble. Angkor is larger archaeological landscape; Bukhara's visitor experience is continuous urban streets rather than a single ruin.. No approved 10.
 - Evidence: [UNESCO Bukhara property description (parent context for individual monuments)](https://whc.unesco.org/en/list/602/), page or search excerpt inspected 2026-11-25; limited identity or context, not all individual claims verified.
 - Remaining gaps: Independent factual, GPS, category and specialist peer verification.
+- Coordinate follow-up: https://whc.unesco.org/en/list/602/maps/ (published property point); previous point 39.774, 64.421. Not independent entrance verification.
 
 ## sight-uz-samarkand-crossroad-of-cultures — Samarkand Crossroad of Cultures — 2026-11-25
 
 - [YAML](../../../countries/UZ/sights/samarkand-crossroad-of-cultures.yaml) · Action: new · **source-linked-unverified**.
-- Scope: UNESCO urban monument groups and historical areas. GPS 39.659, 66.981: provisional approximate point; independent verification pending.
+- Scope: UNESCO urban monument groups and historical areas. GPS 39.65, 66.966667: Medieval Timurid and European Cities component; UNESCO map coordinate converted to decimal, not an entrance.
 - Worldwide peers (I/U/S/E/D):
   - [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 10.0 / 10.0 / 10.0 / 9.8 / 10.0 (99.70/100); upper reference; Samarkand Crossroad of Cultures has lower provisional uniqueness and lower depth (exceptional cross-cultural architectural legacy; multi-ensemble exploration).
   - [Jerash Archaeological City (JO)](../../../countries/JO/sights/jerash-archaeological-city.yaml) — 9.5 / 9.3 / 9.5 / 9.4 / 9.3 (94.15/100); related comparator; Samarkand Crossroad of Cultures has higher provisional uniqueness and higher depth (exceptional cross-cultural architectural legacy; multi-ensemble exploration).
@@ -96,6 +100,7 @@
 - High-score challenge: 9.5+ fields refer to the whole UNESCO ensemble with varied architecture, not Registan alone; compared to Angkor and Jerash, less continuous archaeological fabric but stronger later Islamic urban monument diversity.. No approved 10.
 - Evidence: [Official tourism Samarkand named monuments and urban context](https://uzbekistan.travel/en/i/samarkand/), page or search excerpt inspected 2026-11-25; limited identity or context, not all individual claims verified.
 - Remaining gaps: Independent factual, GPS, category and specialist peer verification.
+- Coordinate follow-up: https://whc.unesco.org/en/list/603/maps/ (Medieval Timurid and European Cities component); previous point 39.659, 66.981. Not independent entrance verification.
 
 ## sight-uz-gur-e-amir-mausoleum — Gur-e-Amir Mausoleum — 2026-11-25
 
@@ -176,7 +181,7 @@
 ## sight-uz-historic-centre-of-shahrisabz — Historic Centre of Shahrisabz — 2026-11-25
 
 - [YAML](../../../countries/UZ/sights/historic-centre-of-shahrisabz.yaml) · Action: new · **source-linked-unverified**.
-- Scope: listed historic centre not citywide record. GPS 39.057, 66.833: provisional approximate point; independent verification pending.
+- Scope: listed historic centre not citywide record. GPS 39.05, 66.83333: published property point; UNESCO map coordinate converted to decimal, not an entrance.
 - Worldwide peers (I/U/S/E/D):
   - [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 10.0 / 10.0 / 10.0 / 9.8 / 10.0 (99.70/100); upper reference; Historic Centre of Shahrisabz has lower provisional uniqueness and lower depth (Timurid urban heritage; redevelopment reduces coherence).
   - [Jerash Archaeological City (JO)](../../../countries/JO/sights/jerash-archaeological-city.yaml) — 9.5 / 9.3 / 9.5 / 9.4 / 9.3 (94.15/100); related comparator; Historic Centre of Shahrisabz has lower provisional uniqueness and lower depth (Timurid urban heritage; redevelopment reduces coherence).
@@ -191,6 +196,8 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [UNESCO historic centre identity and conservation context](https://whc.unesco.org/en/list/885/), page or search excerpt inspected 2026-11-25; limited identity or context, not all individual claims verified.
 - Remaining gaps: Independent factual, GPS, category and specialist peer verification.
+- Coordinate follow-up: https://whc.unesco.org/en/list/885/maps/ (published property point); previous point 39.057, 66.833. Not independent entrance verification.
+- Conservation follow-up: 2026 Committee decision https://whc.unesco.org/en/decisions/9017 retains the property on the Danger List; existing reduced impact and depth preserved. No assumption of restored historic fabric.
 
 ## sight-uz-ak-saray-palace-ruins — Ak-Saray Palace Ruins — 2026-11-25
 
@@ -271,7 +278,7 @@
 ## sight-uz-tashkent-modernist-architecture-serial-property — Tashkent Modernist Architecture (Serial Property) — 2026-11-25
 
 - [YAML](../../../countries/UZ/sights/tashkent-modernist-architecture-serial-property.yaml) · Action: new · **unassessed**.
-- Scope: ten buildings and urban ensembles listed in 2026. GPS 41.31, 69.27: provisional approximate point; independent verification pending.
+- Scope: ten buildings and urban ensembles listed in 2026. GPS 41.302683, 69.267222: Zhemchug Residential Building component; exterior-only representative point; UNESCO map coordinate converted to decimal, not an entrance.
 - Worldwide peers (I/U/S/E/D):
   - [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 10.0 / 10.0 / 10.0 / 9.8 / 10.0 (99.70/100); upper reference; Tashkent Modernist Architecture (Serial Property) has lower provisional uniqueness and unresolved depth (locally adapted modernist planning and engineering; normal visitor depth unresolved).
   - [Jerash Archaeological City (JO)](../../../countries/JO/sights/jerash-archaeological-city.yaml) — 9.5 / 9.3 / 9.5 / 9.4 / 9.3 (94.15/100); related comparator; Tashkent Modernist Architecture (Serial Property) has lower provisional uniqueness and unresolved depth (locally adapted modernist planning and engineering; normal visitor depth unresolved).
@@ -286,6 +293,8 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [UNESCO 2026 inscription description; ten components and post-earthquake adaptation](https://whc.unesco.org/en/list/1766/), page or search excerpt inspected 2026-11-25; limited identity or context, not all individual claims verified.
 - Remaining gaps: Confirm permitted ordinary visitor routes, representative coordinates and interpretation before complete scoring.
+- Coordinate follow-up: https://whc.unesco.org/en/list/1766/maps/ (Zhemchug Residential Building component; exterior-only representative point); previous point 41.31, 69.27. Not independent entrance verification.
+- Scope follow-up: UNESCO https://whc.unesco.org/en/list/1766/maps/ lists ten components including the Big Solar Furnace outside central Tashkent. Do not assume private residential access, working scientific facilities or every museum is open. Retain unranked pending a documented complete ordinary itinerary.
 
 ## sight-uz-ark-fortress-of-bukhara — Ark Fortress of Bukhara — 2026-11-25
 
@@ -385,7 +394,7 @@
 ## sight-uz-ulugh-beg-observatory — Ulugh Beg Observatory — 2026-11-25
 
 - [YAML](../../../countries/UZ/sights/ulugh-beg-observatory.yaml) · Action: new · **source-linked-unverified**.
-- Scope: observatory remains and museum. GPS 39.675, 67.006: provisional approximate point; independent verification pending.
+- Scope: observatory remains and museum. GPS 39.675162, 67.00563: Ulugh Bek's Observatory component; UNESCO map coordinate converted to decimal, not an entrance.
 - Worldwide peers (I/U/S/E/D):
   - [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 10.0 / 10.0 / 10.0 / 9.8 / 10.0 (99.70/100); upper reference; Ulugh Beg Observatory has lower provisional uniqueness and lower depth (rare historical astronomical infrastructure; bounded complex).
   - [Jerash Archaeological City (JO)](../../../countries/JO/sights/jerash-archaeological-city.yaml) — 9.5 / 9.3 / 9.5 / 9.4 / 9.3 (94.15/100); related comparator; Ulugh Beg Observatory has lower provisional uniqueness and lower depth (rare historical astronomical infrastructure; bounded complex).
@@ -400,11 +409,12 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Official tourism regional excerpt and Samarkand monument directory](https://uzbekistan.travel/en/r/samarkand-region/), page or search excerpt inspected 2026-11-25; limited identity or context, not all individual claims verified.
 - Remaining gaps: Independent factual, GPS, category and specialist peer verification.
+- Coordinate follow-up: https://whc.unesco.org/en/list/603/maps/ (Ulugh Bek's Observatory component); previous point 39.675, 67.006. Not independent entrance verification.
 
 ## sight-uz-afrasiab-archaeological-site-and-museum — Afrasiab Archaeological Site and Museum — 2026-11-25
 
 - [YAML](../../../countries/UZ/sights/afrasiab-archaeological-site-and-museum.yaml) · Action: new · **source-linked-unverified**.
-- Scope: ancient city earthworks and site museum. GPS 39.676, 66.987: provisional approximate point; independent verification pending.
+- Scope: ancient city earthworks and site museum. GPS 39.666667, 66.983333: Afrosiab Archaeological Area component, not museum entrance; UNESCO map coordinate converted to decimal, not an entrance.
 - Worldwide peers (I/U/S/E/D):
   - [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 10.0 / 10.0 / 10.0 / 9.8 / 10.0 (99.70/100); upper reference; Afrasiab Archaeological Site and Museum has lower provisional uniqueness and lower depth (important Sogdian urban archaeology; multiple archaeological areas).
   - [Jerash Archaeological City (JO)](../../../countries/JO/sights/jerash-archaeological-city.yaml) — 9.5 / 9.3 / 9.5 / 9.4 / 9.3 (94.15/100); related comparator; Afrasiab Archaeological Site and Museum has lower provisional uniqueness and lower depth (important Sogdian urban archaeology; multiple archaeological areas).
@@ -419,6 +429,7 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Official tourism Samarkand named monuments and urban context](https://uzbekistan.travel/en/i/samarkand/), page or search excerpt inspected 2026-11-25; limited identity or context, not all individual claims verified.
 - Remaining gaps: Independent factual, GPS, category and specialist peer verification.
+- Coordinate follow-up: https://whc.unesco.org/en/list/603/maps/ (Afrosiab Archaeological Area component, not museum entrance); previous point 39.676, 66.987. Not independent entrance verification.
 
 ## sight-uz-siab-bazaar — Siab Bazaar — 2026-11-25
 
@@ -575,7 +586,7 @@
 ## sight-uz-chorsu-bazaar — Chorsu Bazaar — 2026-11-25
 
 - [YAML](../../../countries/UZ/sights/chorsu-bazaar.yaml) · Action: new · **source-linked-unverified**.
-- Scope: market and dome. GPS 41.326, 69.234: provisional approximate point; independent verification pending.
+- Scope: market and dome. GPS 41.326772, 69.235056: Chorsu Market component; UNESCO map coordinate converted to decimal, not an entrance.
 - Worldwide peers (I/U/S/E/D):
   - [Chatuchak Weekend Market (TH)](../../../countries/TH/sights/chatuchak-weekend-market.yaml) — 8.8 / 8.7 / 8.3 / 9.3 / 9.5 (88.20/100); upper reference; Chorsu Bazaar has lower provisional uniqueness and lower depth (distinct central market setting; multiple market sections).
   - [Ben Thanh Market (VN)](../../../countries/VN/sights/ben-thanh-market.yaml) — 8.2 / 8.0 / 8.1 / 9.0 / 8.8 (83.10/100); related comparator; Chorsu Bazaar has higher provisional uniqueness and lower depth (distinct central market setting; multiple market sections).
@@ -590,6 +601,7 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Official tourism city directory names attractions](https://uzbekistan.travel/en/i/tashkent/), page or search excerpt inspected 2026-11-25; limited identity or context, not all individual claims verified.
 - Remaining gaps: Independent factual, GPS, category and specialist peer verification.
+- Coordinate follow-up: https://whc.unesco.org/en/list/1766/maps/ (Chorsu Market component); previous point 41.326, 69.234. Not independent entrance verification.
 
 ## sight-uz-hazrati-imam-complex — Hazrati Imam Complex — 2026-11-25
 
@@ -613,7 +625,7 @@
 ## sight-uz-state-museum-of-history-of-uzbekistan — State Museum of History of Uzbekistan — 2026-11-25
 
 - [YAML](../../../countries/UZ/sights/state-museum-of-history-of-uzbekistan.yaml) · Action: new · **source-linked-unverified**.
-- Scope: national archaeological collections. GPS 41.311, 69.271: provisional approximate point; independent verification pending.
+- Scope: national archaeological collections. GPS 41.311436, 69.269317: State Museum of History component; UNESCO map coordinate converted to decimal, not an entrance.
 - Worldwide peers (I/U/S/E/D):
   - [Kunsthistorisches Museum (AT)](../../../countries/AT/sights/kunsthistorisches-museum.yaml) — 9.2 / 9.4 / 9.6 / 9.4 / 9.5 (93.90/100); upper reference; State Museum of History of Uzbekistan has lower provisional uniqueness and lower depth (specialized Central Asian history collection; multiple periods).
   - [National Museum of Korea (KR)](../../../countries/KR/sights/national-museum-of-korea.yaml) — 9.1 / 9.3 / 9.4 / 9.3 / 9.6 (92.90/100); related comparator; State Museum of History of Uzbekistan has lower provisional uniqueness and lower depth (specialized Central Asian history collection; multiple periods).
@@ -628,6 +640,7 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Official tourism city directory names attractions](https://uzbekistan.travel/en/i/tashkent/), page or search excerpt inspected 2026-11-25; limited identity or context, not all individual claims verified.
 - Remaining gaps: Independent factual, GPS, category and specialist peer verification.
+- Coordinate follow-up: https://whc.unesco.org/en/list/1766/maps/ (State Museum of History component); previous point 41.311, 69.271. Not independent entrance verification.
 
 ## sight-uz-state-museum-of-applied-arts — State Museum of Applied Arts — 2026-11-25
 
