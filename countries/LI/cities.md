@@ -2,7 +2,7 @@
 
 # Liechtenstein (LI) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**15 ranked** · **0 unassessed** · **15 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,25 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, or click its GPS coordinates to open **Google Maps**. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (15)
 
-No cities, towns & villages have been assessed for **Liechtenstein** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps |
+| ---: | --- | --- | ---: | --- | --- | --- |
+| 1 | [Vaduz](cities/vaduz.yaml) | City / town | **79.85** | **Culture 8.7**, **History 8.5**, **Architecture 8.3** | 7.8 / 8.1 / 8.0 / 8.2 / 7.9 | [47.14151, 9.52154](https://www.google.com/maps/search/?api=1&query=47.14151,9.52154) |
+| 2 | [Triesenberg](cities/triesenberg.yaml) | City / town | **77.80** | **Photography 8.8**, **Culture 8.5** | 7.7 / 8.0 / 7.7 / 8.0 / 7.3 | [47.1185, 9.5432](https://www.google.com/maps/search/?api=1&query=47.1185,9.5432) |
+| 3 | [Balzers](cities/balzers.yaml) | City / town | **75.25** | **Photography 8.3**, **Architecture 8.2**, **History 8.2** | 7.4 / 7.5 / 7.7 / 7.8 / 7.2 | [47.06661, 9.50355](https://www.google.com/maps/search/?api=1&query=47.06661,9.50355) |
+| 4 | [Malbun](cities/malbun.yaml) | City / town | **74.25** | **Photography 8.7**, **Relaxation 8.5**, **Family 8.3** | 7.6 / 7.3 / 6.7 / 8.2 / 7.5 | [47.10139, 9.60986](https://www.google.com/maps/search/?api=1&query=47.10139,9.60986) |
+| 5 | [Steg](cities/steg.yaml) | City / town | **73.75** | **Photography 8.5**, **Relaxation 8.4** | 7.4 / 7.7 / 7.0 / 7.8 / 6.6 | [47.113, 9.579](https://www.google.com/maps/search/?api=1&query=47.113,9.579) |
+| 6 | [Bendern](cities/bendern.yaml) | City / town | **72.80** | **History 8.4**, **Photography 8.1** | 7.0 / 7.4 / 7.8 / 7.4 / 6.6 | [47.21199, 9.50678](https://www.google.com/maps/search/?api=1&query=47.21199,9.50678) |
+| 7 | [Schellenberg](cities/schellenberg.yaml) | City / town | **72.20** | **History 8.2**, **Photography 8.0** | 7.0 / 7.3 / 7.5 / 7.5 / 6.7 | [47.23123, 9.54678](https://www.google.com/maps/search/?api=1&query=47.23123,9.54678) |
+| 8 | [Triesen](cities/triesen.yaml) | City / town | **70.40** | **History 7.9**, **Culture 7.7** | 6.8 / 7.1 / 7.2 / 7.3 / 6.9 | [47.1097, 9.5247](https://www.google.com/maps/search/?api=1&query=47.1097,9.5247) |
+| 9 | [Planken](cities/planken.yaml) | City / town | **69.40** | **Photography 8.1**, **Relaxation 7.9** | 6.9 / 7.1 / 6.8 / 7.3 / 6.4 | [47.18516, 9.54437](https://www.google.com/maps/search/?api=1&query=47.18516,9.54437) |
+| 10 | [Eschen](cities/eschen.yaml) | City / town | **68.75** | **History 7.8**, **Culture 7.5** | 6.6 / 6.9 / 7.1 / 7.2 / 6.7 | [47.2094, 9.5219](https://www.google.com/maps/search/?api=1&query=47.2094,9.5219) |
+| 11 | [Nendeln](cities/nendeln.yaml) | City / town | **68.10** | **History 7.8**, **Culture 7.5** | 6.5 / 6.9 / 7.1 / 7.1 / 6.5 | [47.199, 9.544](https://www.google.com/maps/search/?api=1&query=47.199,9.544) |
+| 12 | [Schaan](cities/schaan.yaml) | City / town | **67.85** | **Culture 7.7**, **History 7.4** | 6.5 / 6.7 / 7.0 / 7.2 / 6.8 | [47.1667, 9.5086](https://www.google.com/maps/search/?api=1&query=47.1667,9.5086) |
+| 13 | [Ruggell](cities/ruggell.yaml) | City / town | **67.50** | **Relaxation 7.8**, **Culture 7.5** | 6.5 / 6.8 / 6.8 / 7.2 / 6.6 | [47.23799, 9.5254](https://www.google.com/maps/search/?api=1&query=47.23799,9.5254) |
+| 14 | [Gamprin](cities/gamprin.yaml) | City / town | **67.45** | **Relaxation 7.6**, **History 7.4** | 6.5 / 6.8 / 6.9 / 7.1 / 6.5 | [47.2203, 9.5097](https://www.google.com/maps/search/?api=1&query=47.2203,9.5097) |
+| 15 | [Mauren](cities/mauren.yaml) | City / town | **67.30** | **Culture 7.5**, **Relaxation 7.5** | 6.5 / 6.7 / 6.9 / 7.1 / 6.6 | [47.2197, 9.5408](https://www.google.com/maps/search/?api=1&query=47.2197,9.5408) |
 
 ---
 
