@@ -1,0 +1,13 @@
+id: city-fm-weno
+name: "Weno"
+location:
+  country_code: FM
+  latitude: 7.44648
+  longitude: 151.84135
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}
