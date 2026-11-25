@@ -95,7 +95,7 @@
 - Depth: 9.1 — Multiple habitats and cultural landscapes.
 - Applicable categories: nature 9.4, wildlife 9.1, culture 9.2.
 - Overall: 91.95/100.
-- High-score challenge: Exceptional scope and intrinsic heritage or nature; lower than world-leading peers for breadth and visitor interpretation.
+- High-score challenge: 91.95 reflects the unusually integrated shell-mound cultural landscape and mangrove channels; the Delta Interpretation Centre https://www.audeltadusaloum.com/visites-guid%C3%A9es documents guided archaeological walks and pirogue excursions, while UNESCO https://whc.unesco.org/en/list/1359/ establishes cultural rather than natural inscription and fragile integrity. Checked 2026-11-25. Lower than Okavango on impact, uniqueness, wildlife and overall visitor breadth; not credit for the entire biosphere.
 - Approved 10 registry: none.
 - Final decision: Provisional editorial rating; not independently fact-checked.
 - Verification still needed: exact representative point where provisional, access, remaining peer scores and claim-level evidence.
@@ -127,7 +127,7 @@
 - Depth: 8.6 — Several observation habitats, less broad than Okavango.
 - Applicable categories: nature 9.4, wildlife 9.6, photography 9.2.
 - Overall: 91.50/100.
-- High-score challenge: Wildlife 9.6 recognizes documented concentrations and diverse migration and breeding habitat; seasonal variability and narrower taxonomic scope than Okavango constrain other fields.
+- High-score challenge: Wildlife 9.6 recognizes the seasonal, visitor-visible pelican colony, cormorants and other birds on guided pirogue trips and observation circuits documented at https://senegal-activities.com/djoudj-national-bird-sanctuary/ and https://www.heritage.world/sites/djoudj-national-bird-sanctuary/ (accessed 2026-11-25), not biodiversity alone. Lower than Okavango 9.9; no guaranteed numbers, no nesting-islet landing.
 - Approved 10 registry: none.
 - Final decision: Provisional editorial rating; not independently fact-checked.
 - Verification still needed: exact representative point where provisional, access, remaining peer scores and claim-level evidence.
@@ -135,7 +135,7 @@
 ## sight-sn-niokolo-koba-national-park — Niokolo-Koba National Park — 2026-11-25
 
 - YAML: [source](../../../countries/SN/sights/niokolo-koba-national-park.yaml)
-- Action: new
+- Action: second-pass reassessment; previous decision retained in [verification history](verification-2026-11-25.md)
 - Precise subject: Inscribed park, UNESCO representative point; seasonal safari; removed from danger list in 2024.
 - Location check: 13.006, -13.004; representative point, exact entrance not verified.
 - Evidence status: **source-linked-unverified**
@@ -143,6 +143,7 @@
   - https://whc.unesco.org/en/list/153/
   - https://ambsenegal.qa/en/senegal/parcs-naturels
   - https://senegal-activities.com/product-category/nature-culture-discoveries/wildlife-reserves-parks/
+  - https://www.niokolodge.com/en/observatoire — operator describes hides, antelope observation and boat trips, with big cats described as possible rather than routine; accessed 2026-11-25. Wildlife 9.2 reflects actual documented viewing rather than threatened-species list, below Khao Yai 9.5 and Okavango 9.9.
 - Missing facts: Current admission, independent claim-level verification and exact point where provisional.
 
 ### Worldwide peer comparisons
@@ -157,7 +158,7 @@
 - Significance: 9.4 — Globally important threatened fauna habitat.
 - Experience: 8.4 — Documented safari routes, sightings variable.
 - Depth: 8.8 — Varied habitats but less predictable viewing than leading parks.
-- Applicable categories: nature 9.3, wildlife 9.4.
+- Applicable categories: nature 9.3, wildlife 9.2.
 - Overall: 89.10/100.
 - High-score challenge: Not applicable.
 - Approved 10 registry: none.
@@ -361,14 +362,16 @@
 ## sight-sn-carabane-island — Carabane Island — 2026-11-25
 
 - YAML: [source](../../../countries/SN/sights/carabane-island.yaml)
-- Action: new
-- Precise subject: Tentative estuarine island and colonial vestiges; ordinary visitor itinerary not independently established.
+- Action: second-pass reassessment; previous decision retained in [verification history](verification-2026-11-25.md)
+- Precise subject: Tentative estuarine island and colonial vestiges; documented guided island walks and boat visits, not neighboring islands.
 - Location check: 12.488722, -16.548167; representative point, exact entrance not verified.
-- Evidence status: **unassessed**
+- Evidence status: **source-linked-unverified**
 - Sources (2026-11-25; heritage, geography, identity and/or visitor scope; independent claim verification incomplete):
   - https://whc.unesco.org/en/tentativelists/2075/
   - https://www.heritage.sn/articles/le-tourisme-au-senegal-destinations-chiffres-et-enjeux
-- Missing facts: Normal permitted visitor experience or accessible scope insufficiently documented.
+  - https://www.lepapayer.com/casamance/excursions/excursion-carabane-casamance.html — local ecolodge describes guided church, former prison, cemetery and village visits plus shore walking, accessed 2026-11-25; operator description, not live availability.
+  - https://senegal-activities.com/carabane-island/ — separate August 2026 guide documents ferry and walking visit; accessed 2026-11-25.
+- Missing facts: current ferry schedules and individual building access.
 
 ### Worldwide peer comparisons
 - [Mogao Caves (CN)](../../../countries/CN/sights/mogao-caves.yaml): 9.8/9.9/9.9/9.5/9.4; exceptional heritage and interpretation.
@@ -380,26 +383,28 @@
 - Impact: 8.1 — Mangrove and historic island setting.
 - Uniqueness: 8.5 — Distinct Casamance historic port context.
 - Significance: 8.6 — Regional maritime history.
-- Experience: null — Current ferry and heritage access unverified.
-- Depth: null — Accessible island circuit unclear.
+- Experience: 8.3 — documented guided walks of historical sites and village, no current ferry or building-entry guarantee.
+- Depth: 8.1 — church, cemetery, former trading buildings and village shoreline; exclude neighboring islands.
 - Applicable categories: history 8.8, nature 8.5.
-- Overall: unranked.
+- Overall: 83.30/100.
 - High-score challenge: Not applicable.
 - Approved 10 registry: none.
-- Final decision: Partial assessment retained; no overall score.
+- Final decision: Provisional complete intrinsic rating based on ordinary documented island visits.
 - Verification still needed: exact representative point where provisional, access, remaining peer scores and claim-level evidence.
 
 ## sight-sn-bandial-impluvium-houses — Bandial Kingdom Impluvium Houses — 2026-11-25
 
 - YAML: [source](../../../countries/SN/sights/bandial-impluvium-houses.yaml)
-- Action: new
+- Action: second-pass reassessment; previous decision retained in [verification history](verification-2026-11-25.md)
 - Precise subject: Tentative rural architectural tradition, ordinary documented visits in Énampore; no private household entry assumed.
-- Location check: 12.579333, -16.28175; representative point, exact entrance not verified.
+- Location check: 12.515187, -16.454766; geotagged photo of an Énampore impluvium house (camera point, not entrance), corroborated by village map 12.5159,-16.44735. Prior point was near Ziguinchor, not documented Énampore visit.
 - Evidence status: **source-linked-unverified**
 - Sources (2026-11-25; heritage, geography, identity and/or visitor scope; independent claim verification incomplete):
   - https://whc.unesco.org/en/tentativelists/2076/
   - https://senegal-activities.com/enampore/
   - https://senegal-activities.com/produit/guided-visit-of-enampore-royal-site-and-sacred-groves/
+  - https://commons.wikimedia.org/wiki/File:Alyssa_K._Barry_Enampore,_Casamance,_Senegal.jpg — geotagged image of named house; https://mapcarta.com/16849768 — mapped village.
+  - https://www.enqueteplus.com/content/case-%C3%A0-impluvium-la-d%C3%A9couverte-de-l%E2%80%99architecture-diola — independent 2021 reporting describes guided visit to a lived-in house, no general private-entry right. Checked 2026-11-25.
 - Missing facts: Current admission, independent claim-level verification and exact point where provisional.
 
 ### Worldwide peer comparisons
@@ -443,7 +448,7 @@
 - Impact: 8.5 — Rocky offshore cliffs and sea.
 - Uniqueness: 8.8 — Distinct urban-adjacent island habitat.
 - Significance: 8.4 — Regional conservation and cultural value.
-- Experience: null — Permitted landing unclear.
+- Experience: null — Permitted landing unclear; 2019 suspension reported still in force by 2026 guide https://www.petitfute.com/v37479-iles-de-la-madeleine/c1173-visites-points-d-interet/c1213-office-de-tourisme/633088-parc-national-des-iles-de-la-madeleine.html (checked 2026-11-25). Earlier ordinary visitor circuit not sufficiently documented here; do not assign zero or imply current access.
 - Depth: null — Accessible routes unverified.
 - Applicable categories: nature 8.9, wildlife 8.7.
 - Overall: unranked.
@@ -668,7 +673,71 @@
 - Final decision: Provisional editorial rating; not independently fact-checked.
 - Verification still needed: exact representative point where provisional, access, remaining peer scores and claim-level evidence.
 
+## sight-sn-house-of-slaves — House of Slaves (Maison des Esclaves) — 2026-11-25
+
+- YAML: [source](../../../countries/SN/sights/house-of-slaves.yaml)
+- Action: new
+- Precise subject: Individual museum and memorial building on Gorée, not the entire island or unverified deportation numbers.
+- Location check: 14.66759, -17.39729; Named mapped building point from https://aerialviews.org/House_of_Slaves.htm, corroborated by https://en.wikipedia.org/wiki/House_of_Slaves; not an entrance.
+- Evidence status: **source-linked-unverified**
+- Sources (accessed 2026-11-25):
+  - https://memoire-esclavage.org/maison-des-esclaves-ile-de-goree — foundation describes memorial, museum access and restoration; historical use debated.
+  - https://www.cipdh.gob.ar/memorias-situadas/en/lugar-de-memoria/isla-de-gorea/ — confirms museum within island's wider remembrance ensemble.
+  - https://whc.unesco.org/en/list/26/ — island-level historical context only.
+- Missing facts: present exhibition or access arrangements, independent claim-level verification.
+
+### Worldwide peer comparisons
+- [Cape Coast Castle (GH)](../../../countries/GH/sights/cape-coast-castle.yaml): 9.1/9.3/9.7/9.0/8.5; larger documented historic complex.
+- [National Slavery Museum (AO)](../../../countries/AO/sights/national-slavery-museum.yaml): 8.0/8.8/9.3/8.5/7.7; comparable focused memorial.
+- [Kigali Genocide Memorial (RW)](../../../countries/RW/sights/kigali-genocide-memorial-gisozi.yaml): 8.8/8.8/9.6/9.0/8.7; different subject, broader interpretation.
+- [Assin Manso (GH)](../../../countries/GH/sights/assin-manso-ancestral-slave-river-site.yaml): 7.7/8.3/9.2/8.0/6.9; narrower commemorative landscape.
+
+### Scoring decisions
+- Impact: 8.5 — Emotionally powerful compact memorial, not the whole island's scenery.
+- Uniqueness: 8.9 — Distinct symbolic heritage and building, but analogous memorials exist.
+- Significance: 9.3 — Global remembrance significance, not a claim of scale of historic trafficking.
+- Experience: 8.6 — Documented museum visit and interpretation, not island-wide activities.
+- Depth: 7.6 — Compact building with focused displays, less breadth than Cape Coast or Kigali.
+- Applicable categories: history 9.4, culture 9.2.
+- Overall: 86.85/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: provisional independently scoped editorial score.
+- Verification still needed: ordinary admission and exhibition breadth.
+
+## sight-sn-museum-black-civilisations — Museum of Black Civilisations — 2026-11-25
+
+- YAML: [source](../../../countries/SN/sights/museum-black-civilisations.yaml)
+- Action: new
+- Precise subject: Dakar museum building and public exhibition galleries, not other museums or all African heritage.
+- Location check: 14.67745, -17.43507; Mapcarta https://mapcarta.com/W496182485, named OSM building way 496182485.
+- Evidence status: **source-linked-unverified**
+- Sources (accessed 2026-11-25):
+  - https://mcn.webikoo.pro/le-musee/ — museum presentation describes opening in 2018, Africa origins, diaspora and cultural exhibitions, group visits and visitor rules.
+  - https://www.culture.gouv.sn/index.php/musee-des-civilisations-noires/ — national culture authority confirms institutional mission.
+  - https://www.heritage.sn/evenements/exposition-empreinte-100-ans-dakar-2026-musee-des-civilisations-noires — independent listing of October–November 2026 exhibition; not permanent display.
+- Missing facts: present exhibition or access arrangements, independent claim-level verification.
+
+### Worldwide peer comparisons
+- [National Museum of Korea (KR)](../../../countries/KR/sights/national-museum-of-korea.yaml): 9.1/9.3/9.4/9.3/9.6; broader established holdings and visit.
+- [National Museum of Cambodia (KH)](../../../countries/KH/sights/national-museum-cambodia.yaml): 8.8/9.1/9.3/9.1/8.8; more documented historic collection.
+- [Museum of Bamoun Kings (CM)](../../../countries/CM/sights/museum-bamoun-kings.yaml): 8.8/9.1/9.0/8.8/8.7; distinctive purpose-built royal museum.
+- [National Museum of the DRC (CD)](../../../countries/CD/sights/national-museum-drc.yaml): 7.9/8.5/8.9/8.4/8.3; comparable national institution, narrower theme.
+
+### Scoring decisions
+- Impact: 8.5 — Distinct circular architecture and substantial exhibits.
+- Uniqueness: 9.0 — Pan-African and diaspora narrative is distinctive, not globally unique.
+- Significance: 9.1 — Important cultural institution, without attributing all represented history to museum itself.
+- Experience: 8.8 — Documented public and group visits, current displays variable.
+- Depth: 8.6 — Multiple exhibition themes, not assuming access to storage or former temporary shows.
+- Applicable categories: culture 9.3, history 9.2, architecture 8.7.
+- Overall: 88.00/100.
+- High-score challenge: Not applicable.
+- Approved 10 registry: none.
+- Final decision: provisional independently scoped editorial score.
+- Verification still needed: ordinary admission and exhibition breadth.
+
 ## Inventory coverage and backlog
 
-[UNESCO inventory](https://whc.unesco.org/en/statesparties/sn/) lists seven inscribed and eight tentative properties, all represented. Three Bassari and two Senegalese stone-circle components individually assessed, no umbrella duplicate score. Individual Aéropostale and river trading-post components remain backlog, as do House of Slaves, Fadiouth shell island as a standalone sight, Bandia, Langue de Barbarie, Guembeul, museums, additional coastal and inland settlements. No exhaustive inventory claimed.
+[UNESCO inventory](https://whc.unesco.org/en/statesparties/sn/) lists seven inscribed and eight tentative properties, all represented. Three Bassari and two Senegalese stone-circle components individually assessed, no umbrella duplicate score. Individual Aéropostale and river trading-post components remain backlog, as do Fadiouth shell island as a standalone sight, Bandia, Langue de Barbarie, Guembeul, museums, additional coastal and inland settlements. No exhaustive inventory claimed.
 
