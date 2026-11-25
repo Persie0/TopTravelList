@@ -951,3 +951,33 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [UNESCO deer-stone description; confirms four components and Bronze Age heritage](https://whc.unesco.org/en/list/1621/), page or excerpt inspected 2026-11-25; individual claims and coordinates not fully verified.
 - Remaining gaps: Independent factual, GPS, category and specialist peer verification.
+
+## Follow-up: sight-mn-deer-stone-monuments-and-related-bronze-age-sites — 2026-11-25 (worldwide review)
+
+- [YAML](../../../countries/MN/sights/deer-stone-monuments-and-related-bronze-age-sites.yaml) · Action: rescore · **source-linked-unverified**; component scope verified, comprehensive facts and GPS not verified.
+- Sources inspected: [UNESCO property description](https://whc.unesco.org/en/list/1621/) and [component maps](https://whc.unesco.org/en/list/1621/maps/).
+- Decision: UNESCO identifies four component complexes, including Uushigiin Övör in northern Mongolia and others in Arkhangai. A documented tour of one component does not establish an ordinary visit to all four. Retain the archaeological rarity, significance, history and culture; leave aggregate visitor impact, experience, depth and photography unassessed until a representative permitted itinerary is documented. This is not a penalty for distance or travel cost.
+- I/U/S/E/D: 8.1 / 9.4 / 9.5 / 8.2 / 8.6 → — / 9.4 / 9.5 / — / —; overall 87.70/100 → unranked. Photography null; other categories and GPS unchanged. No new perfect scores or weighting changes.
+
+| Current worldwide peer | I/U/S/E/D | Overall /100 | Comparison |
+| --- | --- | --- | --- |
+| [belize barrier reef reserve system (BZ)](../../../countries/BZ/sights/belize-barrier-reef-reserve-system.yaml) | — / 9.6 / 9.7 / — / — | — | Different heritage type, same scope precedent: separated components do not establish an aggregate visitor experience. |
+| [rio platano biosphere reserve (HN)](../../../countries/HN/sights/rio-platano-biosphere-reserve.yaml) | — / 9.2 / 9.5 / — / — | — | Conservation significance independently retained with visitor scope unknown. |
+| [joya de ceren archaeological site (SV)](../../../countries/SV/sights/joya-de-ceren-archaeological-site.yaml) | 8.6 / 9.6 / 9.6 / 8.4 / 8.1 | 89.70 | Single interpreted archaeological property; documented bounded visitor scope. |
+| [niah caves archaeological complex (MY)](../../../countries/MY/sights/niah-caves-archaeological-complex.yaml) | 9.0 / 9.4 / 9.6 / 8.8 / 8.8 | 91.70 | Coherent multi-feature cave itinerary with strong prehistoric evidence. |
+
+
+## Follow-up: sight-mn-petroglyphic-complexes-of-the-mongolian-altai — 2026-11-25 (worldwide review)
+
+- [YAML](../../../countries/MN/sights/petroglyphic-complexes-of-the-mongolian-altai.yaml) · Action: rescore · **source-linked-unverified**; component scope verified, comprehensive facts and GPS not verified.
+- Sources inspected: [UNESCO property description](https://whc.unesco.org/en/list/1382) and [component maps](https://whc.unesco.org/en/list/1382/maps/).
+- Decision: UNESCO identifies three separate rock-art complexes in different valleys, with protection applying to distinct components. The original depth 8.7 counts separate sites but does not establish an ordinary permitted itinerary encompassing the serial property. Retain archaeological uniqueness, significance, history and culture; visitor impact, experience, depth and photography are unassessed for this exact aggregate scope, not zero. Individual component visits can be rated independently.
+- I/U/S/E/D: 8.2 / 9.3 / 9.5 / 8.2 / 8.7 → — / 9.3 / 9.5 / — / —; overall 87.85/100 → unranked. Photography null; other categories and GPS unchanged. No new perfect scores or weighting changes.
+
+| Current worldwide peer | I/U/S/E/D | Overall /100 | Comparison |
+| --- | --- | --- | --- |
+| [belize barrier reef reserve system (BZ)](../../../countries/BZ/sights/belize-barrier-reef-reserve-system.yaml) | — / 9.6 / 9.7 / — / — | — | Different heritage type, same scope precedent: separated components do not establish an aggregate visitor experience. |
+| [rio platano biosphere reserve (HN)](../../../countries/HN/sights/rio-platano-biosphere-reserve.yaml) | — / 9.2 / 9.5 / — / — | — | Conservation significance independently retained with visitor scope unknown. |
+| [joya de ceren archaeological site (SV)](../../../countries/SV/sights/joya-de-ceren-archaeological-site.yaml) | 8.6 / 9.6 / 9.6 / 8.4 / 8.1 | 89.70 | Single interpreted archaeological property; documented bounded visitor scope. |
+| [niah caves archaeological complex (MY)](../../../countries/MY/sights/niah-caves-archaeological-complex.yaml) | 9.0 / 9.4 / 9.6 / 8.8 / 8.8 | 91.70 | Coherent multi-feature cave itinerary with strong prehistoric evidence. |
+
