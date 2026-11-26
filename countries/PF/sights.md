@@ -2,7 +2,7 @@
 
 # French Polynesia (PF) — Sights & attractions ranking
 
-**10 ranked** · **1 unassessed** · **11 total** · Worldwide scoring **v2**
+**11 ranked** · **0 unassessed** · **11 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,28 +10,21 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (10)
+## Complete ranked list (11)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
-| 1 | [Fakarava South Pass (Tumakohua)](sights/fakarava-south-pass.yaml) | Attraction | **91.15** | **Adventure 9.4**, **Wildlife 9.4**, **Nature 9.2** | 9.4 / 9.2 / 8.7 / 9.3 / 8.6 | [-16.5076, -145.4583](https://www.google.com/maps/search/?api=1&query=-16.5076,-145.4583) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Fakarava%20South%20Pass%20%28Tumakohua%29%2C%20French%20Polynesia) |
-| 2 | [Bora Bora Lagoon](sights/bora-bora-lagoon.yaml) | Beach / bay | **90.25** | **Photography 9.5**, **Nature 9.4**, **Relaxation 9.4** | 9.5 / 9.2 / 8.0 / 9.3 / 8.8 | [-16.515, -151.723](https://www.google.com/maps/search/?api=1&query=-16.515,-151.723) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bora%20Bora%20Lagoon%2C%20French%20Polynesia) |
-| 3 | [Taputapuātea (Raiatea)](sights/taputapuatea.yaml) | Attraction | **89.85** | **Culture 9.5**, **History 9.5** | 8.8 / 9.3 / 9.4 / 8.6 / 8.5 | [-16.838, -151.36](https://www.google.com/maps/search/?api=1&query=-16.838,-151.36) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Taputapu%C4%81tea%20%28Raiatea%29%2C%20French%20Polynesia) |
-| 4 | [Tiputa Pass](sights/tiputa-pass.yaml) | Attraction | **89.50** | **Adventure 9.3**, **Wildlife 9.3**, **Nature 9.1** | 9.2 / 9.0 / 8.5 / 9.2 / 8.6 | [-14.975, -147.626](https://www.google.com/maps/search/?api=1&query=-14.975,-147.626) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tiputa%20Pass%2C%20French%20Polynesia) |
-| 5 | [Moorea Lagoon](sights/moorea-lagoon.yaml) | Beach / bay | **87.30** | **Photography 9.1**, **Nature 9.0**, **Wildlife 8.8** | 9.1 / 8.7 / 8.0 / 9.1 / 8.6 | [-17.495, -149.91](https://www.google.com/maps/search/?api=1&query=-17.495,-149.91) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Moorea%20Lagoon%2C%20French%20Polynesia) |
-| 6 | [Papenoo Valley](sights/papenoo-valley.yaml) | Valley / canyon | **84.15** | **Nature 8.9**, **Adventure 8.8**, **Photography 8.8** | 8.8 / 8.4 / 7.6 / 8.7 / 8.5 | [-17.65, -149.42](https://www.google.com/maps/search/?api=1&query=-17.65,-149.42) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Papenoo%20Valley%2C%20French%20Polynesia) |
-| 7 | [Belvédère d'Opunohu](sights/opunohu-belvedere.yaml) | Attraction | **79.65** | **Photography 9.0**, **Nature 8.7** | 8.8 / 8.1 / 6.8 / 8.2 / 7.1 | [-17.541, -149.826](https://www.google.com/maps/search/?api=1&query=-17.541,-149.826) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Belv%C3%A9d%C3%A8re%20d%27Opunohu%2C%20French%20Polynesia) |
-| 8 | [Matira Beach](sights/matira-beach.yaml) | Beach / bay | **77.95** | **Beaches 9.0**, **Relaxation 8.9**, **Photography 8.7** | 8.6 / 7.8 / 6.4 / 8.7 / 6.8 | [-16.541, -151.738](https://www.google.com/maps/search/?api=1&query=-16.541,-151.738) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Matira%20Beach%2C%20French%20Polynesia) |
-| 9 | [Faarumai Waterfalls](sights/faarumai-waterfalls.yaml) | Waterfall | **76.05** | **Photography 8.4**, **Nature 8.3** | 8.2 / 7.5 / 6.7 / 8.0 / 7.3 | [-17.613, -149.392](https://www.google.com/maps/search/?api=1&query=-17.613,-149.392) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Faarumai%20Waterfalls%2C%20French%20Polynesia) |
-| 10 | [Papeete Market](sights/papeete-market.yaml) | Market | **75.60** | **Culture 8.2**, **Food 8.2** | 7.4 / 7.8 / 7.3 / 8.0 / 7.3 | [-17.538, -149.566](https://www.google.com/maps/search/?api=1&query=-17.538,-149.566) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Papeete%20Market%2C%20French%20Polynesia) |
-
-## Not yet fully assessed (1)
-
-These destinations have no rank until all five core scores are assessed.
-
-| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
-| ---: | --- | --- | ---: | --- | --- | --- | --- |
-| — | [Te Henua Enata – Marquesas Islands](sights/marquesas.yaml) | Island | **—** | **Nature 9.5**, **Culture 9.4**, **Photography 9.4** | 9.4 / 9.4 / 9.3 / — / — | [-9.0, -139.5](https://www.google.com/maps/search/?api=1&query=-9.0,-139.5) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Te%20Henua%20Enata%20%E2%80%93%20Marquesas%20Islands%2C%20French%20Polynesia) |
+| 1 | [Te Henua Enata – Marquesas Islands](sights/marquesas.yaml) | Island | **93.00** | **Nature 9.5**, **Culture 9.4**, **Photography 9.4** | 9.4 / 9.4 / 9.3 / 9.0 / 9.2 | [-9.0, -139.5](https://www.google.com/maps/search/?api=1&query=-9.0,-139.5) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Te%20Henua%20Enata%20%E2%80%93%20Marquesas%20Islands%2C%20French%20Polynesia) |
+| 2 | [Fakarava South Pass (Tumakohua)](sights/fakarava-south-pass.yaml) | Attraction | **91.15** | **Adventure 9.4**, **Wildlife 9.4**, **Nature 9.2** | 9.4 / 9.2 / 8.7 / 9.3 / 8.6 | [-16.5076, -145.4583](https://www.google.com/maps/search/?api=1&query=-16.5076,-145.4583) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Fakarava%20South%20Pass%20%28Tumakohua%29%2C%20French%20Polynesia) |
+| 3 | [Bora Bora Lagoon](sights/bora-bora-lagoon.yaml) | Beach / bay | **90.25** | **Photography 9.5**, **Nature 9.4**, **Relaxation 9.4** | 9.5 / 9.2 / 8.0 / 9.3 / 8.8 | [-16.515, -151.723](https://www.google.com/maps/search/?api=1&query=-16.515,-151.723) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bora%20Bora%20Lagoon%2C%20French%20Polynesia) |
+| 4 | [Taputapuātea (Raiatea)](sights/taputapuatea.yaml) | Attraction | **89.85** | **Culture 9.5**, **History 9.5** | 8.8 / 9.3 / 9.4 / 8.6 / 8.5 | [-16.838, -151.36](https://www.google.com/maps/search/?api=1&query=-16.838,-151.36) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Taputapu%C4%81tea%20%28Raiatea%29%2C%20French%20Polynesia) |
+| 5 | [Tiputa Pass](sights/tiputa-pass.yaml) | Attraction | **89.50** | **Adventure 9.3**, **Wildlife 9.3**, **Nature 9.1** | 9.2 / 9.0 / 8.5 / 9.2 / 8.6 | [-14.975, -147.626](https://www.google.com/maps/search/?api=1&query=-14.975,-147.626) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tiputa%20Pass%2C%20French%20Polynesia) |
+| 6 | [Moorea Lagoon](sights/moorea-lagoon.yaml) | Beach / bay | **87.30** | **Photography 9.1**, **Nature 9.0**, **Wildlife 8.8** | 9.1 / 8.7 / 8.0 / 9.1 / 8.6 | [-17.495, -149.91](https://www.google.com/maps/search/?api=1&query=-17.495,-149.91) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Moorea%20Lagoon%2C%20French%20Polynesia) |
+| 7 | [Papenoo Valley](sights/papenoo-valley.yaml) | Valley / canyon | **84.15** | **Nature 8.9**, **Adventure 8.8**, **Photography 8.8** | 8.8 / 8.4 / 7.6 / 8.7 / 8.5 | [-17.65, -149.42](https://www.google.com/maps/search/?api=1&query=-17.65,-149.42) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Papenoo%20Valley%2C%20French%20Polynesia) |
+| 8 | [Belvédère d'Opunohu](sights/opunohu-belvedere.yaml) | Attraction | **79.65** | **Photography 9.0**, **Nature 8.7** | 8.8 / 8.1 / 6.8 / 8.2 / 7.1 | [-17.541, -149.826](https://www.google.com/maps/search/?api=1&query=-17.541,-149.826) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Belv%C3%A9d%C3%A8re%20d%27Opunohu%2C%20French%20Polynesia) |
+| 9 | [Matira Beach](sights/matira-beach.yaml) | Beach / bay | **77.95** | **Beaches 9.0**, **Relaxation 8.9**, **Photography 8.7** | 8.6 / 7.8 / 6.4 / 8.7 / 6.8 | [-16.541, -151.738](https://www.google.com/maps/search/?api=1&query=-16.541,-151.738) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Matira%20Beach%2C%20French%20Polynesia) |
+| 10 | [Faarumai Waterfalls](sights/faarumai-waterfalls.yaml) | Waterfall | **76.05** | **Photography 8.4**, **Nature 8.3** | 8.2 / 7.5 / 6.7 / 8.0 / 7.3 | [-17.613, -149.392](https://www.google.com/maps/search/?api=1&query=-17.613,-149.392) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Faarumai%20Waterfalls%2C%20French%20Polynesia) |
+| 11 | [Papeete Market](sights/papeete-market.yaml) | Market | **75.60** | **Culture 8.2**, **Food 8.2** | 7.4 / 7.8 / 7.3 / 8.0 / 7.3 | [-17.538, -149.566](https://www.google.com/maps/search/?api=1&query=-17.538,-149.566) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Papeete%20Market%2C%20French%20Polynesia) |
 
 ---
 

@@ -2,7 +2,7 @@
 
 # New Caledonia (NC) — Sights & attractions ranking
 
-**10 ranked** · **1 unassessed** · **11 total** · Worldwide scoring **v2**
+**11 ranked** · **0 unassessed** · **11 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,28 +10,21 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (10)
+## Complete ranked list (11)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
-| 1 | [Blue River Provincial Park](sights/blue-river-park.yaml) | River / waterway | **89.60** | **Nature 9.3**, **Wildlife 9.3**, **Adventure 8.8** | 8.9 / 9.1 / 9.1 / 8.7 / 8.9 | [-22.105, 166.672](https://www.google.com/maps/search/?api=1&query=-22.105,166.672) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Blue%20River%20Provincial%20Park%2C%20New%20Caledonia) |
-| 2 | [Poé Lagoon](sights/poe-lagoon.yaml) | Beach / bay | **88.35** | **Nature 9.2**, **Photography 9.1**, **Wildlife 8.9** | 9.0 / 8.7 / 8.8 / 9.0 / 8.5 | [-21.617, 165.4](https://www.google.com/maps/search/?api=1&query=-21.617,165.4) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Po%C3%A9%20Lagoon%2C%20New%20Caledonia) |
-| 3 | [Tjibaou Cultural Centre](sights/tjibaou-cultural-centre.yaml) | Attraction | **88.10** | **Architecture 9.2**, **Culture 9.2**, **History 8.5** | 8.7 / 9.1 / 8.8 / 8.7 / 8.6 | [-22.255, 166.481](https://www.google.com/maps/search/?api=1&query=-22.255,166.481) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tjibaou%20Cultural%20Centre%2C%20New%20Caledonia) |
-| 4 | [Oro Natural Pool](sights/oro-natural-pool.yaml) | Attraction | **87.30** | **Photography 9.2**, **Nature 9.1**, **Beaches 8.8** | 9.2 / 8.9 / 8.0 / 9.1 / 7.8 | [-22.586, 167.488](https://www.google.com/maps/search/?api=1&query=-22.586,167.488) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Oro%20Natural%20Pool%2C%20New%20Caledonia) |
-| 5 | [Hienghène Rock Formations (La Poule and Lindéralique)](sights/hienghene-rocks.yaml) | Attraction | **87.15** | **Photography 9.2**, **Nature 9.0**, **Adventure 8.7** | 9.0 / 9.0 / 8.2 / 8.7 / 8.2 | [-20.698, 164.954](https://www.google.com/maps/search/?api=1&query=-20.698,164.954) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hiengh%C3%A8ne%20Rock%20Formations%20%28La%20Poule%20and%20Lind%C3%A9ralique%29%2C%20New%20Caledonia) |
-| 6 | [Amédée Lighthouse and Island](sights/amedee-lighthouse.yaml) | Island | **84.25** | **Photography 8.8**, **Nature 8.6**, **History 8.3** | 8.6 / 8.5 / 8.0 / 8.8 / 8.0 | [-22.478, 166.467](https://www.google.com/maps/search/?api=1&query=-22.478,166.467) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Am%C3%A9d%C3%A9e%20Lighthouse%20and%20Island%2C%20New%20Caledonia) |
-| 7 | [Lékiny Cliffs](sights/lekiny-cliffs.yaml) | Attraction | **84.05** | **Photography 9.0**, **Nature 8.9** | 8.8 / 8.5 / 8.1 / 8.4 / 7.6 | [-20.706, 166.453](https://www.google.com/maps/search/?api=1&query=-20.706,166.453) | [Google Maps](https://www.google.com/maps/search/?api=1&query=L%C3%A9kiny%20Cliffs%2C%20New%20Caledonia) |
-| 8 | [Jokin Cliffs](sights/jokin-cliffs.yaml) | Attraction | **83.15** | **Photography 8.9**, **Nature 8.8** | 8.7 / 8.4 / 7.9 / 8.5 / 7.5 | [-20.71, 167.211](https://www.google.com/maps/search/?api=1&query=-20.71,167.211) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Jokin%20Cliffs%2C%20New%20Caledonia) |
-| 9 | [Mouli Beach](sights/mouli-beach.yaml) | Beach / bay | **81.55** | **Beaches 9.3**, **Photography 9.1**, **Relaxation 9.1** | 9.0 / 8.3 / 6.8 / 8.8 / 7.0 | [-20.714, 166.427](https://www.google.com/maps/search/?api=1&query=-20.714,166.427) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mouli%20Beach%2C%20New%20Caledonia) |
-| 10 | [Aquarium des Lagons](sights/aquarium-des-lagons.yaml) | Attraction | **81.40** | **Family 8.6**, **Wildlife 8.6**, **Nature 8.3** | 7.9 / 8.3 / 8.1 / 8.5 / 8.0 | [-22.3, 166.442](https://www.google.com/maps/search/?api=1&query=-22.3,166.442) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Aquarium%20des%20Lagons%2C%20New%20Caledonia) |
-
-## Not yet fully assessed (1)
-
-These destinations have no rank until all five core scores are assessed.
-
-| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
-| ---: | --- | --- | ---: | --- | --- | --- | --- |
-| — | [Lagoons of New Caledonia (listed reef components)](sights/new-caledonia-lagoons.yaml) | Beach / bay | **—** | **Nature 9.7**, **Wildlife 9.6** | 9.4 / 9.4 / 9.5 / — / — | [-21.5, 166.0](https://www.google.com/maps/search/?api=1&query=-21.5,166.0) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lagoons%20of%20New%20Caledonia%20%28listed%20reef%20components%29%2C%20New%20Caledonia) |
+| 1 | [Lagoons of New Caledonia (listed reef components)](sights/new-caledonia-lagoons.yaml) | Beach / bay | **93.85** | **Nature 9.7**, **Wildlife 9.6** | 9.4 / 9.4 / 9.5 / 9.3 / 9.2 | [-21.5, 166.0](https://www.google.com/maps/search/?api=1&query=-21.5,166.0) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lagoons%20of%20New%20Caledonia%20%28listed%20reef%20components%29%2C%20New%20Caledonia) |
+| 2 | [Blue River Provincial Park](sights/blue-river-park.yaml) | River / waterway | **89.60** | **Nature 9.3**, **Wildlife 9.3**, **Adventure 8.8** | 8.9 / 9.1 / 9.1 / 8.7 / 8.9 | [-22.105, 166.672](https://www.google.com/maps/search/?api=1&query=-22.105,166.672) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Blue%20River%20Provincial%20Park%2C%20New%20Caledonia) |
+| 3 | [Poé Lagoon](sights/poe-lagoon.yaml) | Beach / bay | **88.35** | **Nature 9.2**, **Photography 9.1**, **Wildlife 8.9** | 9.0 / 8.7 / 8.8 / 9.0 / 8.5 | [-21.617, 165.4](https://www.google.com/maps/search/?api=1&query=-21.617,165.4) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Po%C3%A9%20Lagoon%2C%20New%20Caledonia) |
+| 4 | [Tjibaou Cultural Centre](sights/tjibaou-cultural-centre.yaml) | Attraction | **88.10** | **Architecture 9.2**, **Culture 9.2**, **History 8.5** | 8.7 / 9.1 / 8.8 / 8.7 / 8.6 | [-22.255, 166.481](https://www.google.com/maps/search/?api=1&query=-22.255,166.481) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tjibaou%20Cultural%20Centre%2C%20New%20Caledonia) |
+| 5 | [Oro Natural Pool](sights/oro-natural-pool.yaml) | Attraction | **87.30** | **Photography 9.2**, **Nature 9.1**, **Beaches 8.8** | 9.2 / 8.9 / 8.0 / 9.1 / 7.8 | [-22.586, 167.488](https://www.google.com/maps/search/?api=1&query=-22.586,167.488) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Oro%20Natural%20Pool%2C%20New%20Caledonia) |
+| 6 | [Hienghène Rock Formations (La Poule and Lindéralique)](sights/hienghene-rocks.yaml) | Attraction | **87.15** | **Photography 9.2**, **Nature 9.0**, **Adventure 8.7** | 9.0 / 9.0 / 8.2 / 8.7 / 8.2 | [-20.698, 164.954](https://www.google.com/maps/search/?api=1&query=-20.698,164.954) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hiengh%C3%A8ne%20Rock%20Formations%20%28La%20Poule%20and%20Lind%C3%A9ralique%29%2C%20New%20Caledonia) |
+| 7 | [Amédée Lighthouse and Island](sights/amedee-lighthouse.yaml) | Island | **84.25** | **Photography 8.8**, **Nature 8.6**, **History 8.3** | 8.6 / 8.5 / 8.0 / 8.8 / 8.0 | [-22.478, 166.467](https://www.google.com/maps/search/?api=1&query=-22.478,166.467) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Am%C3%A9d%C3%A9e%20Lighthouse%20and%20Island%2C%20New%20Caledonia) |
+| 8 | [Lékiny Cliffs](sights/lekiny-cliffs.yaml) | Attraction | **84.05** | **Photography 9.0**, **Nature 8.9** | 8.8 / 8.5 / 8.1 / 8.4 / 7.6 | [-20.706, 166.453](https://www.google.com/maps/search/?api=1&query=-20.706,166.453) | [Google Maps](https://www.google.com/maps/search/?api=1&query=L%C3%A9kiny%20Cliffs%2C%20New%20Caledonia) |
+| 9 | [Jokin Cliffs](sights/jokin-cliffs.yaml) | Attraction | **83.15** | **Photography 8.9**, **Nature 8.8** | 8.7 / 8.4 / 7.9 / 8.5 / 7.5 | [-20.71, 167.211](https://www.google.com/maps/search/?api=1&query=-20.71,167.211) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Jokin%20Cliffs%2C%20New%20Caledonia) |
+| 10 | [Mouli Beach](sights/mouli-beach.yaml) | Beach / bay | **81.55** | **Beaches 9.3**, **Photography 9.1**, **Relaxation 9.1** | 9.0 / 8.3 / 6.8 / 8.8 / 7.0 | [-20.714, 166.427](https://www.google.com/maps/search/?api=1&query=-20.714,166.427) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mouli%20Beach%2C%20New%20Caledonia) |
+| 11 | [Aquarium des Lagons](sights/aquarium-des-lagons.yaml) | Attraction | **81.40** | **Family 8.6**, **Wildlife 8.6**, **Nature 8.3** | 7.9 / 8.3 / 8.1 / 8.5 / 8.0 | [-22.3, 166.442](https://www.google.com/maps/search/?api=1&query=-22.3,166.442) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Aquarium%20des%20Lagons%2C%20New%20Caledonia) |
 
 ---
 

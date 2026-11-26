@@ -1,7 +1,7 @@
 # Worldwide record-level diagnostic
 
 **250 registered areas; 16269 source records screened.**
-Ranked: 14788; unassessed: 1481.
+Ranked: 14793; unassessed: 1476.
 
 This is an automatically regenerated diagnostic, not an individual editorial reassessment or proof of bias. No scores are changed. Type is inferred from names; missing review headings may be parser limitations. Declared evidence statuses are not independent checks. Shared GPS and nearby names may denote legitimate nested attractions. Country medians depend on selection and are not country quality scores.
 
@@ -13,9 +13,9 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | evidence-review | 13662 |
 | field-9.5-plus | 2110 |
 | historical-review-only | 2516 |
-| incomplete-core | 1481 |
+| incomplete-core | 1476 |
 | no-recognized-review-heading | 65 |
-| overall-90-plus | 1794 |
+| overall-90-plus | 1797 |
 | overall-95-plus | 159 |
 | repeated-core-profile | 48 |
 | shared-representative-gps | 242 |
@@ -347,7 +347,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | NA | cities | 7 | 7 | 78.85 | 0 | 0 | 0 | 7 | [Swakopmund](../../countries/NA/cities/swakopmund.yaml) 84.45; [Lüderitz](../../countries/NA/cities/luderitz.yaml) 83.05; [Windhoek](../../countries/NA/cities/windhoek.yaml) 80.60 |
 | NA | sights | 21 | 17 | 89.65 | 8 | 1 | 10 | 21 | [Sossusvlei Dune Landscape](../../countries/NA/sights/sossusvlei.yaml) 95.40; [Etosha National Park](../../countries/NA/sights/etosha-national-park.yaml) 94.45; [Sandwich Harbour](../../countries/NA/sights/sandwich-harbour.yaml) 92.20 |
 | NC | cities | 4 | 4 | 75.60 | 0 | 0 | 0 | 4 | [Nouméa](../../countries/NC/cities/noumea.yaml) 81.30; [Hienghène](../../countries/NC/cities/hienghene.yaml) 77.60; [Vao](../../countries/NC/cities/vao.yaml) 73.60 |
-| NC | sights | 11 | 10 | 85.70 | 0 | 0 | 1 | 11 | [Blue River Provincial Park](../../countries/NC/sights/blue-river-park.yaml) 89.60; [Poé Lagoon](../../countries/NC/sights/poe-lagoon.yaml) 88.35; [Tjibaou Cultural Centre](../../countries/NC/sights/tjibaou-cultural-centre.yaml) 88.10 |
+| NC | sights | 11 | 11 | 87.15 | 1 | 0 | 1 | 11 | [Lagoons of New Caledonia (listed reef components)](../../countries/NC/sights/new-caledonia-lagoons.yaml) 93.85; [Blue River Provincial Park](../../countries/NC/sights/blue-river-park.yaml) 89.60; [Poé Lagoon](../../countries/NC/sights/poe-lagoon.yaml) 88.35 |
 | NE | cities | 10 | 5 | 78.15 | 0 | 0 | 0 | 10 | [Agadez](../../countries/NE/cities/agadez.yaml) 87.40; [Zinder](../../countries/NE/cities/zinder.yaml) 79.80; [Bilma](../../countries/NE/cities/bilma.yaml) 78.15 |
 | NE | sights | 26 | 8 | 85.00 | 1 | 0 | 2 | 26 | [Historic Centre of Agadez](../../countries/NE/sights/agadez-historic-centre.yaml) 90.65; [Dabous Giraffe Rock Art](../../countries/NE/sights/dabous-giraffes.yaml) 89.20; [Kouré Giraffe Zone](../../countries/NE/sights/koure-giraffe-zone.yaml) 87.70 |
 | NF | cities | 1 | 1 | 73.30 | 0 | 0 | 0 | 1 | [Burnt Pine](../../countries/NF/cities/burnt-pine.yaml) 73.30 |
@@ -375,7 +375,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | PE | cities | 36 | 36 | 72.32 | 1 | 0 | 3 | 36 | [Cusco](../../countries/PE/cities/cusco.yaml) 93.65; [Arequipa](../../countries/PE/cities/arequipa.yaml) 89.65; [Lima](../../countries/PE/cities/lima.yaml) 87.95 |
 | PE | sights | 66 | 63 | 86.50 | 16 | 1 | 38 | 66 | [Historic Sanctuary of Machu Picchu](../../countries/PE/sights/historic-sanctuary-of-machu-picchu.yaml) 97.65; [City of Cuzco (World Heritage core)](../../countries/PE/sights/city-of-cuzco-world-heritage-core.yaml) 94.60; [Huascarán National Park](../../countries/PE/sights/huascaran-national-park.yaml) 94.00 |
 | PF | cities | 5 | 5 | 78.45 | 0 | 0 | 0 | 5 | [Atuona](../../countries/PF/cities/atuona.yaml) 79.50; [Taiohaʻe](../../countries/PF/cities/taiohae.yaml) 79.50; [Papeete](../../countries/PF/cities/papeete.yaml) 78.45 |
-| PF | sights | 11 | 10 | 85.72 | 2 | 0 | 3 | 11 | [Fakarava South Pass (Tumakohua)](../../countries/PF/sights/fakarava-south-pass.yaml) 91.15; [Bora Bora Lagoon](../../countries/PF/sights/bora-bora-lagoon.yaml) 90.25; [Taputapuātea (Raiatea)](../../countries/PF/sights/taputapuatea.yaml) 89.85 |
+| PF | sights | 11 | 11 | 87.30 | 3 | 0 | 3 | 11 | [Te Henua Enata – Marquesas Islands](../../countries/PF/sights/marquesas.yaml) 93.00; [Fakarava South Pass (Tumakohua)](../../countries/PF/sights/fakarava-south-pass.yaml) 91.15; [Bora Bora Lagoon](../../countries/PF/sights/bora-bora-lagoon.yaml) 90.25 |
 | PG | cities | 7 | 7 | 73.75 | 0 | 0 | 0 | 7 | [Rabaul](../../countries/PG/cities/rabaul.yaml) 79.00; [Port Moresby](../../countries/PG/cities/port-moresby.yaml) 75.25; [Goroka](../../countries/PG/cities/goroka.yaml) 74.60 |
 | PG | sights | 19 | 13 | 85.70 | 2 | 0 | 1 | 19 | [Kimbe Bay Reefs](../../countries/PG/sights/kimbe-bay.yaml) 92.85; [Tufi Fjords (Cape Nelson)](../../countries/PG/sights/tufi-fjords.yaml) 90.45; [Upper Sepik River Basin](../../countries/PG/sights/upper-sepik-river-basin.yaml) 89.60 |
 | PH | cities | 15 | 15 | 76.40 | 0 | 0 | 0 | 15 | [Vigan](../../countries/PH/cities/vigan.yaml) 86.00; [Manila](../../countries/PH/cities/manila.yaml) 84.15; [Cebu City](../../countries/PH/cities/cebu-city.yaml) 80.25 |
@@ -426,8 +426,8 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | SH | sights | 14 | 13 | 84.05 | 0 | 0 | 0 | 14 | [Peaks National Park (Diana's Peak trails)](../../countries/SH/sights/peaks-national-park.yaml) 89.80; [Longwood House](../../countries/SH/sights/longwood-house.yaml) 88.05; [Long Beach green turtle nesting reserve (Ascension)](../../countries/SH/sights/long-beach.yaml) 87.25 |
 | SI | cities | 18 | 18 | 82.72 | 0 | 0 | 0 | 18 | [Ljubljana](../../countries/SI/cities/ljubljana.yaml) 88.25; [Piran](../../countries/SI/cities/piran.yaml) 87.80; [Ptuj](../../countries/SI/cities/ptuj.yaml) 85.75 |
 | SI | sights | 45 | 42 | 88.05 | 9 | 0 | 8 | 45 | [Škocjan Caves](../../countries/SI/sights/skocjan-caves.yaml) 93.45; [Postojna Cave](../../countries/SI/sights/postojna-cave.yaml) 92.60; [Triglav National Park](../../countries/SI/sights/triglav-national-park.yaml) 92.30 |
-| SJ | cities | 2 | 1 | 82.60 | 0 | 0 | 0 | 2 | [Longyearbyen](../../countries/SJ/cities/longyearbyen.yaml) 82.60 |
-| SJ | sights | 12 | 9 | 84.05 | 0 | 0 | 1 | 12 | [Nordenskiöldbreen glacier](../../countries/SJ/sights/nordenskioldbreen.yaml) 87.20; [Alkhornet bird cliff and Trygghamna](../../countries/SJ/sights/alkhornet.yaml) 85.80; [Esmarkbreen glacier (Ymerbukta)](../../countries/SJ/sights/esmarkbreen.yaml) 84.80 |
+| SJ | cities | 2 | 2 | 81.48 | 0 | 0 | 0 | 2 | [Longyearbyen](../../countries/SJ/cities/longyearbyen.yaml) 82.60; [Barentsburg](../../countries/SJ/cities/barentsburg.yaml) 80.35 |
+| SJ | sights | 12 | 11 | 84.30 | 1 | 0 | 1 | 12 | [Svalbard Archipelago (tentative property)](../../countries/SJ/sights/svalbard.yaml) 93.65; [Pyramiden historic mining settlement](../../countries/SJ/sights/pyramiden.yaml) 87.30; [Nordenskiöldbreen glacier](../../countries/SJ/sights/nordenskioldbreen.yaml) 87.20 |
 | SK | cities | 15 | 15 | 84.30 | 0 | 0 | 0 | 15 | [Banská Štiavnica](../../countries/SK/cities/banska-stiavnica.yaml) 88.80; [Košice](../../countries/SK/cities/kosice.yaml) 87.50; [Levoča](../../countries/SK/cities/levoca.yaml) 87.05 |
 | SK | sights | 61 | 54 | 87.42 | 6 | 0 | 5 | 61 | [Tatra National Park (Slovak section)](../../countries/SK/sights/tatras.yaml) 92.30; [Spiš Castle and associated monuments](../../countries/SK/sights/spis-castle.yaml) 91.85; [Caves of Aggtelek and Slovak Karst (Slovak serial property)](../../countries/SK/sights/karst-caves.yaml) 91.65 |
 | SL | cities | 13 | 13 | 70.10 | 0 | 0 | 0 | 13 | [Freetown](../../countries/SL/cities/freetown.yaml) 83.00; [Bonthe](../../countries/SL/cities/bonthe.yaml) 77.50; [Dublin (Banana Islands)](../../countries/SL/cities/dublin-banana-islands.yaml) 73.95 |

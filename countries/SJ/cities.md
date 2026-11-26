@@ -2,7 +2,7 @@
 
 # Svalbard and Jan Mayen (SJ) — Cities, towns & villages ranking
 
-**1 ranked** · **1 unassessed** · **2 total** · Worldwide scoring **v2**
+**2 ranked** · **0 unassessed** · **2 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,19 +10,12 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (1)
+## Complete ranked list (2)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
 | 1 | [Longyearbyen](cities/longyearbyen.yaml) | City / town | **82.60** | **History 8.7**, **Photography 8.7**, **Culture 8.6** | 7.9 / 9.0 / 8.3 / 8.0 / 7.8 | [78.223, 15.647](https://www.google.com/maps/search/?api=1&query=78.223,15.647) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Longyearbyen%2C%20Svalbard%20and%20Jan%20Mayen) |
-
-## Not yet fully assessed (1)
-
-These destinations have no rank until all five core scores are assessed.
-
-| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
-| ---: | --- | --- | ---: | --- | --- | --- | --- |
-| — | [Barentsburg](cities/barentsburg.yaml) | City / town | **—** | **Culture 8.3**, **History 8.3** | 7.7 / 8.8 / 8.1 / — / — | [78.06202, 14.214368](https://www.google.com/maps/search/?api=1&query=78.06202,14.214368) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Barentsburg%2C%20Svalbard%20and%20Jan%20Mayen) |
+| 2 | [Barentsburg](cities/barentsburg.yaml) | City / town | **80.35** | **Culture 8.3**, **History 8.3** | 7.7 / 8.8 / 8.1 / 7.9 / 7.2 | [78.06202, 14.214368](https://www.google.com/maps/search/?api=1&query=78.06202,14.214368) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Barentsburg%2C%20Svalbard%20and%20Jan%20Mayen) |
 
 ---
 
