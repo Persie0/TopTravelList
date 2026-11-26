@@ -259,3 +259,14 @@ Five additions, 20 peer comparisons. Exhibition sources and representative map c
 - [x] AU — Australian War Memorial: 91.05/100 (source-linked-unverified).
 
 Six additions, 24 peer comparisons. Visitor descriptions and representative map points inspected; NGV International excludes Ian Potter Centre, Washington gallery includes its two buildings and garden, Madrid palace excludes Royal Collections Gallery. Australian War Memorial redevelopment noted. Existing ratings unchanged. Full Python validation and diagnostics remain pending. Next: MONA, Ian Potter Centre, National Gallery of Australia, Art Gallery of Ontario and Frida Kahlo Museum.
+
+
+### Pass 27 — Australian, Canadian and Mexican art museums
+
+- [x] AU — Museum of Old and New Art (MONA): 90.50/100 (source-linked-unverified).
+- [x] AU — Ian Potter Centre: NGV Australia: 88.20/100 (source-linked-unverified).
+- [x] AU — National Gallery of Australia: 90.95/100 (source-linked-unverified).
+- [x] CA — Art Gallery of Ontario: 90.25/100 (source-linked-unverified).
+- [x] MX — Frida Kahlo Museum (Casa Azul): 89.45/100 (source-linked-unverified).
+
+Five additions, 20 peer comparisons. Official visitor and collection source excerpts and published map coordinates checked. Separate Casa Azul and Rivera–Kahlo Home-Study Museum; Ian Potter Centre excludes NGV International. Existing ratings unchanged. Generic gallery types retained under current generator. Full Python validation and diagnostics remain pending. Next: major overlooked Mexican cultural sites, Canadian museums and urban landmarks.

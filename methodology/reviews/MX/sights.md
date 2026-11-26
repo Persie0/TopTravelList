@@ -3918,3 +3918,39 @@ See [60-component coverage register](camino-real-coverage.md). Existing overlapp
 - Final decision: Retain unranked; coordinate is an official heritage reference, not visitor access or navigation guidance.
 - Earlier decision: Inventory-only in component register.
 - Verification still needed: Independent factual and access verification.
+
+## sight-mx-frida-kahlo-museum-casa-azul — Frida Kahlo Museum (Casa Azul) — 2026-11-26
+
+- YAML: [source](../../../countries/MX/sights/frida-kahlo-museum-casa-azul.yaml)
+- Action: new
+- Precise subject: Coyoacán Casa Azul historic home and garden; distinct from the Rivera–Kahlo Home-Study Museum in San Ángel.
+- Location check: 19.35514, -99.16236; [published representative point](https://mapcarta.com/W176482295), checked 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Kahlo and Rivera lived in this house, which became a museum in 1958; the national historic-monument catalogue identifies Casa Azul as the named property. [Reference 1](https://www.museofridakahlo.org.mx/?lang=en); [Reference 2](https://www.mexicocity.cdmx.gob.mx/venues/frida-kahlo-museum-casa-azul/?lang=en); [Reference 3](https://catalogonacionalmhi.inah.gob.mx/consulta_publica/detalle/10869); search excerpts inspected 2026-11-26. Sources support visitor scope, not numerical scores.
+- Missing or uncertain facts: complete independent corroboration and current gallery/object availability.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [ES/reina-sofia-museum](../../../countries/ES/sights/reina-sofia-museum.yaml) | Larger modern-art collection; Casa Azul has a singular biographical setting. |
+| [IT/accademia-gallery-florence](../../../countries/IT/sights/accademia-gallery-florence.yaml) | Both have concentrated artistic identity, but Accademia centers on original Renaissance sculpture rather than a home. |
+| [AT/albertina-museum](../../../countries/AT/sights/albertina-museum.yaml) | Albertina offers broader galleries; Casa Azul has stronger personal association with one artist. |
+| [MX/rivera-kahlo-home-study](../../../countries/MX/sights/rivera-kahlo-home-study.yaml) | Separate studio complex; Casa Azul has a different domestic history and visitor setting. |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Intimate domestic setting and association with Kahlo provide emotional and artistic impact. |
+| Uniqueness | 9.3 | Authentic home of an internationally renowned artist is difficult to substitute. |
+| Significance | 9.2 | Kahlo's artistic and cultural legacy is globally significant; the house has its own historical association. |
+| Experience | 8.8 | Preserved home and interpretation support a focused, meaningful visit. |
+| Depth | 7.9 | Bounded domestic-scale site has less depth than a large gallery. |
+
+- Applicable categories: culture:9.4, history:9.3, architecture:8.5.
+- Computed worldwide overall: 89.45/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: full independent corroboration and current access.

@@ -2229,3 +2229,39 @@ All three components of Ivvavik/Vuntut/Herschel now separately rated; the parent
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 assessment; earlier decision: none.
 - Verification still needed: full independent corroboration and current access.
+
+## sight-ca-art-gallery-of-ontario — Art Gallery of Ontario — 2026-11-26
+
+- YAML: [source](../../../countries/CA/sights/art-gallery-of-ontario.yaml)
+- Action: new
+- Precise subject: Main Toronto gallery on Dundas Street; excludes other venues and the Royal Ontario Museum.
+- Location check: 43.653834, -79.39241; [published representative point](https://torontosocietyofarchitects.ca/buildings/art-gallery-of-ontario/), checked 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Canadian, First Nations, Inuit and Métis collections alongside European and international works; major architectural renovation by Frank Gehry. [Reference 1](https://ago.ca/collection); [Reference 2](https://ago.ca/collection/indigenous); [Reference 3](https://www.destinationontario.com/en-ca/attractions/art-gallery-of-ontario); search excerpts inspected 2026-11-26. Sources support visitor scope, not numerical scores.
+- Missing or uncertain facts: complete independent corroboration and current gallery/object availability.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [FR/louvre](../../../countries/FR/sights/louvre.yaml) | Louvre has greater encyclopedic reach. |
+| [US/metropolitan-museum-of-art](../../../countries/US/sights/metropolitan-museum-of-art.yaml) | Met has broader global historical holdings; AGO has deeper Canadian focus. |
+| [AU/ngv-international](../../../countries/AU/sights/ngv-international.yaml) | Comparable cross-media art experience; AGO includes Canadian and Indigenous specialization. |
+| [CA/royal-ontario-museum](../../../countries/CA/sights/royal-ontario-museum.yaml) | ROM combines science and culture; AGO is a focused art institution. |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Art collections and Gehry architecture create a strong visual encounter. |
+| Uniqueness | 9.0 | Canadian and Indigenous art holdings provide distinctive depth alongside international art. |
+| Significance | 9.1 | Substantial collection has international artistic and cultural relevance. |
+| Experience | 9.1 | Varied galleries and exhibitions make a rewarding visit. |
+| Depth | 9.2 | Multiple collections across media and historical periods support extended exploration. |
+
+- Applicable categories: culture:9.3, history:9.0, architecture:8.9.
+- Computed worldwide overall: 90.25/100.
+- High-score challenge: Above 90 reflects specific collection strengths and visitor scope; remains below the broader world-leading institutions compared above. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: full independent corroboration and current access.

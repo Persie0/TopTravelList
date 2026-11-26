@@ -1,0 +1,16 @@
+id: sight-au-ian-potter-centre-ngv-australia
+name: "Ian Potter Centre: NGV Australia"
+location:
+  country_code: AU
+  latitude: -37.81754
+  longitude: 144.96997
+scores:
+  impact: 8.6
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.9
+  depth: 8.8
+  categories:
+    culture: 9.3
+    history: 8.9
+    architecture: 8.5

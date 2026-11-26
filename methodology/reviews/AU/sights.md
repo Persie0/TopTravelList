@@ -2332,3 +2332,111 @@ UNESCO country inventory https://whc.unesco.org/en/statesparties/au/ confirms 21
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 assessment; earlier decision: none.
 - Verification still needed: full independent corroboration and current access.
+
+## sight-au-mona-hobart — Museum of Old and New Art (MONA) — 2026-11-26
+
+- YAML: [source](../../../countries/AU/sights/mona-hobart.yaml)
+- Action: new
+- Precise subject: Berriedale museum and its underground galleries; excludes winery, ferry journey and separately ticketed events.
+- Location check: -42.81269, 147.26127; [published representative point](https://mapcarta.com/W148015865), checked 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Museum entry provides access to the general collection in subterranean galleries; some artworks require additional tickets. Tourism Tasmania describes the headland setting and underground architecture. [Reference 1](https://mona.net.au/visit); [Reference 2](https://www.discovertasmania.com.au/things-to-do/museums/mona/); search excerpts inspected 2026-11-26. Sources support visitor scope, not numerical scores.
+- Missing or uncertain facts: complete independent corroboration and current gallery/object availability.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [FR/louvre](../../../countries/FR/sights/louvre.yaml) | Louvre has much deeper historical and encyclopedic holdings. |
+| [HK/m-plus-museum](../../../countries/HK/sights/m-plus-museum.yaml) | M+ focuses on modern visual culture; MONA distinguishes itself through subterranean architecture and unconventional curating. |
+| [KR/leeum-museum-of-art](../../../countries/KR/sights/leeum-museum-of-art.yaml) | Leeum has greater traditional Korean collection emphasis; MONA offers a more unusual spatial experience. |
+| [AU/ngv-international](../../../countries/AU/sights/ngv-international.yaml) | NGV offers broader international art coverage; MONA has greater experiential distinctiveness. |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.1 | Subterranean architecture and unconventional displays create memorable encounters. |
+| Uniqueness | 9.4 | Integration of headland excavation and experimental private collection is unusually distinctive. |
+| Significance | 8.6 | Important contemporary cultural institution but below major historical art collections in global significance. |
+| Experience | 9.0 | Immersive collection and spatial experience reward exploration; some works may not suit every visitor. |
+| Depth | 9.0 | Several subterranean levels support an extended visit. |
+
+- Applicable categories: culture:9.3, architecture:9.2.
+- Computed worldwide overall: 90.50/100.
+- High-score challenge: Above 90 reflects specific collection strengths and visitor scope; remains below the broader world-leading institutions compared above. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: full independent corroboration and current access.
+
+## sight-au-ian-potter-centre-ngv-australia — Ian Potter Centre: NGV Australia — 2026-11-26
+
+- YAML: [source](../../../countries/AU/sights/ian-potter-centre-ngv-australia.yaml)
+- Action: new
+- Precise subject: Federation Square Australian-art campus only; excludes NGV International on St Kilda Road.
+- Location check: -37.81754, 144.96997; [published representative point](https://mapcarta.com/W22963243), checked 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Australian and First Nations art and design from colonial periods to contemporary practice; a separate visitor venue from NGV International. [Reference 1](https://whatson.melbourne.vic.gov.au/things-to-do/ian-potter-centre-ngv-australia); [Reference 2](https://fedsquare.com/venues/the-ian-potter-centre-ngv-australia); [Reference 3](https://www.visitvictoria.com/regions/Melbourne/See-and-do/Art-and-culture/Art-galleries/The-Ian-Potter-Centre-NGV-Australia); search excerpts inspected 2026-11-26. Sources support visitor scope, not numerical scores.
+- Missing or uncertain facts: complete independent corroboration and current gallery/object availability.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [FR/louvre](../../../countries/FR/sights/louvre.yaml) | Louvre has much greater chronological and geographic breadth. |
+| [KR/leeum-museum-of-art](../../../countries/KR/sights/leeum-museum-of-art.yaml) | Both combine national artistic traditions and modern works; Ian Potter has a dedicated Australian focus. |
+| [HK/m-plus-museum](../../../countries/HK/sights/m-plus-museum.yaml) | M+ is broader in contemporary visual culture; Ian Potter emphasizes Australian art history. |
+| [AU/ngv-international](../../../countries/AU/sights/ngv-international.yaml) | Separate campus with broader international holdings; do not duplicate its collection. |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.6 | Australian visual culture and design displays offer substantial artistic impact. |
+| Uniqueness | 8.9 | Dedicated national and First Nations art focus gives a distinctive collection identity. |
+| Significance | 9.0 | Important interpretation of Australian art history with international cultural relevance. |
+| Experience | 8.9 | Specialized exhibitions offer meaningful engagement across periods. |
+| Depth | 8.8 | Multiple collections and exhibitions support substantial exploration within the campus. |
+
+- Applicable categories: culture:9.3, history:8.9, architecture:8.5.
+- Computed worldwide overall: 88.20/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: full independent corroboration and current access.
+
+## sight-au-national-gallery-of-australia — National Gallery of Australia — 2026-11-26
+
+- YAML: [source](../../../countries/AU/sights/national-gallery-of-australia.yaml)
+- Action: new
+- Precise subject: Canberra national art museum and associated sculpture garden, excluding National Portrait Gallery.
+- Location check: -35.30091, 149.13669; [published representative point](https://mapcarta.com/32803124), checked 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Australian and international collections encompass Asia, Pacific, Europe and America; the Aboriginal Memorial is a specific collection highlight. Garden works may be affected by upgrades. [Reference 1](https://nga.gov.au/art-artists/); [Reference 2](https://nga.gov.au/first-nations/the-aboriginal-memorial/); [Reference 3](https://nga.gov.au/visit/gallery-map/); search excerpts inspected 2026-11-26. Sources support visitor scope, not numerical scores.
+- Missing or uncertain facts: complete independent corroboration and current gallery/object availability.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [FR/louvre](../../../countries/FR/sights/louvre.yaml) | Louvre has larger world-historical breadth. |
+| [US/national-gallery-of-art-washington](../../../countries/US/sights/national-gallery-of-art-washington.yaml) | Comparable national art institution; Canberra's First Nations and Pacific focus differs. |
+| [GB/national-gallery](../../../countries/GB/sights/national-gallery.yaml) | London concentrates on European painting; Canberra has a wider media and regional mix. |
+| [AU/ngv-international](../../../countries/AU/sights/ngv-international.yaml) | Canberra includes national Australian and First Nations holdings in addition to international art. |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Major Indigenous and international art displays provide strong impact. |
+| Uniqueness | 9.1 | Aboriginal Memorial and breadth of Australian art give particular distinctiveness. |
+| Significance | 9.2 | National collections and First Nations art have considerable international cultural significance. |
+| Experience | 9.0 | Diverse galleries offer rewarding comparisons; temporary garden works may limit access. |
+| Depth | 9.3 | Wide collection scope supports substantial depth without including nearby museums. |
+
+- Applicable categories: culture:9.4, history:9.1, architecture:8.6.
+- Computed worldwide overall: 90.95/100.
+- High-score challenge: Above 90 reflects specific collection strengths and visitor scope; remains below the broader world-leading institutions compared above. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: full independent corroboration and current access.
