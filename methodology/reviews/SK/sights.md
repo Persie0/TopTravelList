@@ -2265,3 +2265,5 @@ Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 - Final decision: Scope-limited editorial assessment: Distinct ecclesiastical urban ensemble; Defined component.
 - Earlier decision: none.
 - Verification still needed: independent facts, permitted access, GPS and narrower same-type peer comparisons.
+
+- [Dated worldwide reassessment pass 61 — 2026-11-26](worldwide-deferred-pass61-2026-11-26.md)

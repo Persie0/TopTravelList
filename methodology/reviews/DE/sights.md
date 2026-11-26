@@ -3403,3 +3403,5 @@
 - [Dated worldwide reassessment pass 57 — 2026-11-26](worldwide-deferred-pass57-2026-11-26.md)
 
 - [Dated worldwide reassessment pass 59 — 2026-11-26](worldwide-deferred-pass59-2026-11-26.md)
+
+- [Dated worldwide reassessment pass 61 — 2026-11-26](worldwide-deferred-pass61-2026-11-26.md)
