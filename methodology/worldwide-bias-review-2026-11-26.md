@@ -214,3 +214,19 @@ The geographic pattern is a priority for deeper same-type research; differences 
 | ZW | 6/5 | 77.650 | 0/0/0 | 20/17 | 88.950 | 7/1/1 |
 
 Remaining work: individual re-review of flagged cohorts, high category scores, nested properties and low/underassessed sites. Statistical coverage is not equivalent to independently verified editorial coverage. Nine revised destination reviews in this pass checked material factual claims with source limitations disclosed; there are no other newly fact-checked records in this pass.
+
+## Second correction pass — independent scope and peer comparisons
+
+Seven additional records: three Indian temples, the Panama Canal and three cities in Egypt, the United States and South Africa. This corrects both upward and downward; scope, not geography or target rank, determines the changes. In particular, Luxor is not just a gateway: major temples are integrated into the living east-bank city. No new perfect scores or weights changed.
+
+| Destination | Before | After |
+| --- | ---: | ---: |
+| [Kailasa Temple Ellora](../countries/IN/sights/kailasa-temple-ellora.yaml) | 97.45 | 96.30 |
+| [Vittala Temple Hampi](../countries/IN/sights/vittala-temple-hampi.yaml) | 96.85 | 93.45 |
+| [Meenakshi Amman Temple](../countries/IN/sights/meenakshi-amman-temple.yaml) | 97.85 | 95.80 |
+| [Panama Canal (visitor transit and lock experience)](../countries/PA/sights/panama-canal-visitor-transit-and-lock-experience.yaml) | 96.40 | 93.70 |
+| [Luxor](../countries/EG/cities/luxor.yaml) | 85.70 | 92.15 |
+| [New York City](../countries/US/cities/new-york-city.yaml) | 94.95 | 96.45 |
+| [Cape Town](../countries/ZA/cities/cape-town.yaml) | 91.55 | 93.30 |
+
+Each updated original review contains the dated reassessment with four actual peer links, five separate reasons and material source checks. Across both passes: 16 revised records, not 16,000 independent re-reviews. Earlier baseline table remains a snapshot. Source coverage and GPS limitations remain explicit. No automatic rating changes.

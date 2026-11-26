@@ -310,6 +310,37 @@
 - **Exceptional rating:** Check every 9.5+ field and 90+ total carefully against the four peers; score is an editorial judgment, not independently confirmed. No 10 registry updates.
 - **Next verification:** confirm GPS, specific historic/natural statements, and scope with dedicated independent source pages.
 
+### Reassessment — 2026-11-26 (worldwide bias pass 2)
+
+- [Source YAML](../../../countries/IN/sights/kailasa-temple-ellora.yaml) · **fact-checked** (material factual scope checked, not objective numeric validation).
+- Action: rescore. Precise subject: Cave 16 only, not the entire multi-faith Ellora ensemble.
+- Location: existing representative coordinates retained; precise GPS independently unchecked.
+- Checked evidence: Archaeological Survey of India [Ellora Caves](https://asi.nic.in/pages/WorldHeritageElloraCaves), opened 2026-11-26, identifies Kailasa as the largest single monolithic excavation and describes the separate groups and itinerary. UNESCO [Ellora](https://whc.unesco.org/en/list/243) search excerpt confirms Cave 16; full page returned 403.
+
+**Worldwide peer comparisons**
+
+| Peer | Comparative judgment |
+| --- | --- |
+| [ET/sights/rock-hewn-churches-lalibela](../../../countries/ET/sights/rock-hewn-churches-lalibela.yaml) | Both exceptional rock-cut sacred architecture; Lalibela is an ensemble, not one excavation. |
+| [JO/sights/petra-archaeological-park](../../../countries/JO/sights/petra-archaeological-park.yaml) | Petra offers more extensive rock-cut urban exploration. |
+| [KH/sights/angkor-wat](../../../countries/KH/sights/angkor-wat.yaml) | Angkor Wat's large coherent temple composition offers more breadth; Kailasa's excavation is more distinctive in technique. |
+| [VN/sights/my-son-sanctuary](../../../countries/VN/sights/my-son-sanctuary.yaml) | Less intact and less technically singular than Kailasa. |
+
+| Field | Before | After | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | 9.8 | 9.8 | Retain 9.8 for the dramatic freestanding temple excavated out of a single rock. |
+| Uniqueness | 9.9 | 9.9 | Retain 9.9 for the unusually large monolithic excavation, not merely the fact that it is a cave. |
+| Significance | 9.8 | 9.5 | 9.5 for its own Rashtrakuta-era sacred architectural achievement, not the three religions represented by Ellora. |
+| Experience | 9.8 | 9.5 | 9.5 for the sculptural courts and monumental forms; the previous 9.8 did not distinguish the cave from the full site. |
+| Depth | 9.0 | 8.9 | 8.9 for detailed exploration of one temple, not the other 33 caves. |
+
+- Categories after: architecture 9.9, history 9.5, culture 9.5.
+- Computed overall: 97.45/100 → **96.30/100**.
+- High-score challenge: Architecture 9.9 reflects the excavation itself; history and culture 9.5 recognize the surviving sacred art, not Ellora's entire multi-faith history. No new 10.
+- Earlier decision: original dated review above; retained unchanged.
+- Verification still needed: exact GPS, independent visitor experience and any access limits; factual source limitations above. Ratings remain editorial.
+
+
 ## sight-in-bibi-ka-maqbara — Bibi ka Maqbara
 
 - [YAML source](../../../countries/IN/sights/bibi-ka-maqbara.yaml) · **editorial-only** · **86.40/100**.

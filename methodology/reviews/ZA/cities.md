@@ -21,6 +21,37 @@
 - Evidence: [source context](https://www.southafrica.net/gl/en/travel/article/western-cape-highlights) (accessed 2026-11-25; official tourism, conservation or heritage context; exact facts and identity require record-level rechecking). Not fully independently verified.
 - Remaining gaps: individual claims, GPS, permitted visitor access, category and specialist peer calibration.
 
+### Reassessment — 2026-11-26 (worldwide bias pass 2)
+
+- [Source YAML](../../../countries/ZA/cities/cape-town.yaml) · **fact-checked** (material factual scope checked, not objective numeric validation).
+- Action: rescore. Precise subject: Urban Cape Town: City Bowl, mountain-framed coastal streets, neighborhoods and in-city museums; no independent park hiking, Robben Island or distant winelands.
+- Location: existing representative coordinates retained; precise GPS independently unchecked.
+- Checked evidence: Cape Town Tourism [Bo-Kaap](https://www.capetown.travel/neighbourhood/bo-kaap/), opened 2026-11-26, describes Cape Malay community, vernacular architecture and local museum. [District Six Museum](https://www.districtsix.co.za/about-the-district-six-museum/) opened the same date, describes its work with displaced communities and memory in the city; municipal heritage page returned 404.
+
+**Worldwide peer comparisons**
+
+| Peer | Comparative judgment |
+| --- | --- |
+| [BR/cities/rio-de-janeiro](../../../countries/BR/cities/rio-de-janeiro.yaml) | Comparable mountain-and-sea urban composition, with different cultural traditions and neighborhood experiences. |
+| [TR/cities/istanbul](../../../countries/TR/cities/istanbul.yaml) | Comparable waterfront urban identity; Istanbul has greater breadth of historic monumental architecture. |
+| [SG/cities/singapore](../../../countries/SG/cities/singapore.yaml) | Comparable multicultural city experience, but Cape Town's setting and local historic memory are markedly different. |
+| [EG/cities/cairo](../../../countries/EG/cities/cairo.yaml) | Greater ancient and medieval monumental density, but less of Cape Town's coherent mountain-coastal urban landscape. |
+
+| Field | Before | After | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | 9.3 | 9.5 | 9.5 for the exceptional urban mountain-and-ocean composition visible from the city's own streets and waterfront. |
+| Uniqueness | 9.0 | 9.3 | 9.3 for the combination of geography, Cape Malay vernacular and distinctive urban cultural history. |
+| Significance | 9.0 | 9.2 | 9.2 for local colonial and apartheid-era history, directly interpretable in city neighborhoods and museums; no inheritance from Robben Island. |
+| Experience | 9.3 | 9.3 | 9.3 retained for the variety of neighborhood, waterfront and cultural experiences within the city. |
+| Depth | 9.2 | 9.2 | 9.2 retained for distinct urban precincts and institutions without including outside excursions. |
+
+- Categories after: culture 9.2, food 9.1, architecture 8.8, photography 9.5, beaches 8.9.
+- Computed overall: 91.55/100 → **93.30/100**.
+- High-score challenge: Impact 9.5 and photography 9.5 reflect the city itself in its dramatic setting rather than awarding points for separate park trails. No new 10.
+- Earlier decision: original dated review above; retained unchanged.
+- Verification still needed: exact GPS, independent visitor experience and any access limits; factual source limitations above. Ratings remain editorial.
+
+
 ## city-za-johannesburg — Johannesburg — 2026-11-25
 
 - [YAML](../../../countries/ZA/cities/johannesburg.yaml) · Action: new · **source-linked-unverified**.

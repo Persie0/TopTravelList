@@ -17,6 +17,37 @@
 - **High-score challenge:** All 9.5+ fields and 90+ overall results are provisional, compared with named world peers and awaiting stronger source checks. No 10/10 claimed.
 - **Open verification:** exact historic/visitor claims, GPS point and comparative assessment require individual dedicated sources.
 
+### Reassessment — 2026-11-26 (worldwide bias pass 2)
+
+- [Source YAML](../../../countries/IN/sights/meenakshi-amman-temple.yaml) · **fact-checked** (material factual scope checked, not objective numeric validation).
+- Action: rescore. Precise subject: Living Meenakshi-Sundareswarar temple precinct, not Madurai or other temples.
+- Location: existing representative coordinates retained; precise GPS independently unchecked.
+- Checked evidence: [Madurai district](https://madurai.nic.in/tourist-place/sri-meenakshi-sundareswarar-temple/) opened 2026-11-26, describes the large twin temple and its growth across dynasties. [Incredible India](https://www.incredibleindia.gov.in/en/tamil-nadu/madurai/meenakshi-amman-temple) opened the same date, describes fourteen sculpted towers, murals and living festivals. Both official sources, second is promotional.
+
+**Worldwide peer comparisons**
+
+| Peer | Comparative judgment |
+| --- | --- |
+| [KH/sights/angkor-wat](../../../countries/KH/sights/angkor-wat.yaml) | Greater monumental coherence and archaeological breadth, while Madurai offers living devotion. |
+| [TH/sights/wat-phra-kaew](../../../countries/TH/sights/wat-phra-kaew.yaml) | Comparable active sacred compound with ornate architecture; Madurai's towering gopurams are distinctly Dravidian. |
+| [JP/sights/todaiji-temple](../../../countries/JP/sights/todaiji-temple.yaml) | Different global living temple tradition; Madurai is richer in brightly decorated towers and ritual courts. |
+| [VN/sights/my-son-sanctuary](../../../countries/VN/sights/my-son-sanctuary.yaml) | More fragmentary archaeological site, with less living ritual. |
+
+| Field | Before | After | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | 9.8 | 9.6 | 9.6 for intensely sculptured towers and the precinct's visual character. |
+| Uniqueness | 9.9 | 9.7 | 9.7 for the rare concentration of monumental Dravidian gateways and twin shrine arrangement. |
+| Significance | 9.8 | 9.6 | 9.6 for the temple's own longstanding Tamil religious and urban significance, not all Madurai history. |
+| Experience | 9.8 | 9.5 | 9.5 for living worship, murals and ceremonial spaces, without assuming participation in every ceremony. |
+| Depth | 9.4 | 9.3 | 9.3 for several distinct courts and halls, not citywide exploration. |
+
+- Categories after: architecture 9.7, culture 9.8, history 9.5.
+- Computed overall: 97.85/100 → **95.80/100**.
+- High-score challenge: Architecture 9.7 for the tower and courtyard ensemble, culture 9.8 for continuing Tamil worship and festivals, history 9.5 for its dynastic growth. Each 9.5+ core value is individually supported above; no perfect score.
+- Earlier decision: original dated review above; retained unchanged.
+- Verification still needed: exact GPS, independent visitor experience and any access limits; factual source limitations above. Ratings remain editorial.
+
+
 ## sight-in-ramanathaswamy-temple — Ramanathaswamy Temple
 
 - [YAML](../../../countries/IN/sights/ramanathaswamy-temple.yaml) · **editorial-only** · worldwide computed score **95.50/100**.
