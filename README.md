@@ -207,7 +207,7 @@ Every registered country has a linked folder below. The status is determined fro
 | [Kenya](countries/KE/) (`KE`) | [6](countries/KE/cities.md) | [44](countries/KE/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Kenya) |
 | [Kiribati](countries/KI/) (`KI`) | [12](countries/KI/cities.md) | [13](countries/KI/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Kiribati) |
 | [Kosovo](countries/XK/) (`XK`) | [20](countries/XK/cities.md) | [38](countries/XK/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Kosovo) |
-| [Kuwait](countries/KW/) (`KW`) | [12](countries/KW/cities.md) | [44](countries/KW/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Kuwait) |
+| [Kuwait](countries/KW/) (`KW`) | [12](countries/KW/cities.md) | [49](countries/KW/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Kuwait) |
 | [Kyrgyzstan](countries/KG/) (`KG`) | [18](countries/KG/cities.md) | [46](countries/KG/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Kyrgyzstan) |
 | [Laos](countries/LA/) (`LA`) | [42](countries/LA/cities.md) | [144](countries/LA/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Laos) |
 | [Latvia](countries/LV/) (`LV`) | [18](countries/LV/cities.md) | [38](countries/LV/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Latvia) |
