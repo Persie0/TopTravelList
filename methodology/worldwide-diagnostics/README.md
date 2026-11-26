@@ -1,7 +1,7 @@
 # Worldwide record-level diagnostic
 
 **250 registered areas; 16269 source records screened.**
-Ranked: 14925; unassessed: 1344.
+Ranked: 14929; unassessed: 1340.
 
 This is an automatically regenerated diagnostic, not an individual editorial reassessment or proof of bias. No scores are changed. Type is inferred from names; missing review headings may be parser limitations. Declared evidence statuses are not independent checks. Shared GPS and nearby names may denote legitimate nested attractions. Country medians depend on selection and are not country quality scores.
 
@@ -13,7 +13,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | evidence-review | 13662 |
 | field-9.5-plus | 2110 |
 | historical-review-only | 2516 |
-| incomplete-core | 1344 |
+| incomplete-core | 1340 |
 | no-recognized-review-heading | 65 |
 | overall-90-plus | 1801 |
 | overall-95-plus | 159 |
@@ -139,7 +139,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | CZ | cities | 61 | 61 | 79.40 | 1 | 0 | 1 | 61 | [Prague](../../countries/CZ/cities/prague.yaml) 94.35; [Cesky Krumlov](../../countries/CZ/cities/cesky-krumlov.yaml) 89.60; [Kutna Hora](../../countries/CZ/cities/kutna-hora.yaml) 87.20 |
 | CZ | sights | 145 | 145 | 86.05 | 11 | 0 | 6 | 145 | [Prague Castle](../../countries/CZ/sights/prague-castle.yaml) 94.55; [Prague Historic Centre](../../countries/CZ/sights/prague-historic-centre.yaml) 94.25; [St Vitus Cathedral](../../countries/CZ/sights/st-vitus-cathedral.yaml) 92.85 |
 | DE | cities | 30 | 30 | 87.90 | 3 | 0 | 3 | 30 | [Berlin](../../countries/DE/cities/berlin.yaml) 93.00; [Dresden](../../countries/DE/cities/dresden.yaml) 91.05; [Hamburg](../../countries/DE/cities/hamburg.yaml) 90.05 |
-| DE | sights | 97 | 92 | 89.22 | 36 | 0 | 40 | 97 | [Museum Island Berlin](../../countries/DE/sights/museum-island.yaml) 93.70; [Palaces of King Ludwig II of Bavaria](../../countries/DE/sights/ludwig-palaces.yaml) 93.50; [Palaces and Parks of Potsdam and Berlin](../../countries/DE/sights/potsdam-palaces.yaml) 93.25 |
+| DE | sights | 97 | 93 | 89.10 | 36 | 0 | 40 | 97 | [Museum Island Berlin](../../countries/DE/sights/museum-island.yaml) 93.70; [Palaces of King Ludwig II of Bavaria](../../countries/DE/sights/ludwig-palaces.yaml) 93.50; [Palaces and Parks of Potsdam and Berlin](../../countries/DE/sights/potsdam-palaces.yaml) 93.25 |
 | DJ | cities | 10 | 10 | 68.38 | 0 | 0 | 0 | 10 | [Djibouti City](../../countries/DJ/cities/djibouti-city.yaml) 77.60; [Tadjourah](../../countries/DJ/cities/tadjourah.yaml) 77.00; [Obock](../../countries/DJ/cities/obock.yaml) 72.15 |
 | DJ | sights | 25 | 21 | 79.80 | 2 | 0 | 2 | 25 | [Lake Abbe (Djiboutian shore)](../../countries/DJ/sights/lake-abbe-djiboutian-shore.yaml) 90.65; [Lake Assal](../../countries/DJ/sights/lake-assal.yaml) 90.15; [Abourma Rock Art](../../countries/DJ/sights/abourma-rock-art.yaml) 86.10 |
 | DK | cities | 18 | 18 | 81.88 | 1 | 0 | 1 | 18 | [Copenhagen](../../countries/DK/cities/copenhagen.yaml) 92.15; [Aarhus](../../countries/DK/cities/aarhus.yaml) 86.40; [Ribe](../../countries/DK/cities/ribe.yaml) 86.05 |
@@ -403,7 +403,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | RE | cities | 5 | 5 | 79.15 | 0 | 0 | 0 | 5 | [Cilaos](../../countries/RE/cities/cilaos.yaml) 81.05; [Hell-Bourg](../../countries/RE/cities/hell-bourg.yaml) 80.85; [Saint-Denis](../../countries/RE/cities/saint-denis.yaml) 79.15 |
 | RE | sights | 10 | 10 | 87.85 | 3 | 0 | 2 | 10 | [Pitons, cirques and remparts of Réunion (National Park core)](../../countries/RE/sights/reunion-pitons.yaml) 93.80; [Piton de la Fournaise](../../countries/RE/sights/piton-de-la-fournaise.yaml) 92.65; [Cirque de Mafate](../../countries/RE/sights/cirque-de-mafate.yaml) 91.80 |
 | RO | cities | 20 | 20 | 84.20 | 0 | 0 | 0 | 20 | [Sighișoara](../../countries/RO/cities/sighisoara.yaml) 89.65; [Sibiu](../../countries/RO/cities/sibiu.yaml) 88.80; [Brașov](../../countries/RO/cities/brasov.yaml) 88.30 |
-| RO | sights | 58 | 47 | 88.70 | 11 | 0 | 5 | 58 | [Danube Delta (Romanian section)](../../countries/RO/sights/danube-delta.yaml) 93.55; [Churches of Moldavia (serial property)](../../countries/RO/sights/churches-moldavia.yaml) 91.90; [Retezat National Park (including tentative massif)](../../countries/RO/sights/retezat.yaml) 91.55 |
+| RO | sights | 58 | 48 | 88.65 | 11 | 0 | 5 | 58 | [Danube Delta (Romanian section)](../../countries/RO/sights/danube-delta.yaml) 93.55; [Churches of Moldavia (serial property)](../../countries/RO/sights/churches-moldavia.yaml) 91.90; [Retezat National Park (including tentative massif)](../../countries/RO/sights/retezat.yaml) 91.55 |
 | RS | cities | 18 | 18 | 82.12 | 0 | 0 | 0 | 18 | [Belgrade](../../countries/RS/cities/belgrade.yaml) 89.00; [Subotica](../../countries/RS/cities/subotica.yaml) 86.90; [Novi Sad](../../countries/RS/cities/novi-sad.yaml) 86.55 |
 | RS | sights | 43 | 42 | 87.28 | 4 | 0 | 6 | 43 | [Đerdap National Park and Iron Gates landscape](../../countries/RS/sights/djerdap.yaml) 91.30; [Studenica Monastery](../../countries/RS/sights/studenica.yaml) 91.05; [Tara National Park and Drina Canyon](../../countries/RS/sights/tara.yaml) 90.45 |
 | RU | cities | 20 | 20 | 81.45 | 2 | 0 | 0 | 20 | [Saint Petersburg](../../countries/RU/cities/saint-petersburg.yaml) 93.20; [Moscow](../../countries/RU/cities/moscow.yaml) 91.75; [Kazan](../../countries/RU/cities/kazan.yaml) 86.95 |
@@ -425,11 +425,11 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | SH | cities | 4 | 4 | 80.80 | 0 | 0 | 0 | 4 | [Jamestown (Saint Helena)](../../countries/SH/cities/jamestown.yaml) 85.05; [Edinburgh of the Seven Seas](../../countries/SH/cities/edinburgh-seven-seas.yaml) 84.05; [Georgetown (Ascension Island)](../../countries/SH/cities/georgetown.yaml) 77.55 |
 | SH | sights | 14 | 13 | 84.05 | 0 | 0 | 0 | 14 | [Peaks National Park (Diana's Peak trails)](../../countries/SH/sights/peaks-national-park.yaml) 89.80; [Longwood House](../../countries/SH/sights/longwood-house.yaml) 88.05; [Long Beach green turtle nesting reserve (Ascension)](../../countries/SH/sights/long-beach.yaml) 87.25 |
 | SI | cities | 18 | 18 | 82.72 | 0 | 0 | 0 | 18 | [Ljubljana](../../countries/SI/cities/ljubljana.yaml) 88.25; [Piran](../../countries/SI/cities/piran.yaml) 87.80; [Ptuj](../../countries/SI/cities/ptuj.yaml) 85.75 |
-| SI | sights | 45 | 43 | 87.85 | 9 | 0 | 8 | 45 | [Škocjan Caves](../../countries/SI/sights/skocjan-caves.yaml) 93.45; [Postojna Cave](../../countries/SI/sights/postojna-cave.yaml) 92.60; [Triglav National Park](../../countries/SI/sights/triglav-national-park.yaml) 92.30 |
+| SI | sights | 45 | 44 | 87.70 | 9 | 0 | 8 | 45 | [Škocjan Caves](../../countries/SI/sights/skocjan-caves.yaml) 93.45; [Postojna Cave](../../countries/SI/sights/postojna-cave.yaml) 92.60; [Triglav National Park](../../countries/SI/sights/triglav-national-park.yaml) 92.30 |
 | SJ | cities | 2 | 2 | 81.48 | 0 | 0 | 0 | 2 | [Longyearbyen](../../countries/SJ/cities/longyearbyen.yaml) 82.60; [Barentsburg](../../countries/SJ/cities/barentsburg.yaml) 80.35 |
 | SJ | sights | 12 | 12 | 84.55 | 1 | 0 | 1 | 12 | [Svalbard Archipelago (tentative property)](../../countries/SJ/sights/svalbard.yaml) 93.65; [Jan Mayen (Mid-Atlantic Ridge tentative component)](../../countries/SJ/sights/jan-mayen.yaml) 89.75; [Pyramiden historic mining settlement](../../countries/SJ/sights/pyramiden.yaml) 87.30 |
 | SK | cities | 15 | 15 | 84.30 | 0 | 0 | 0 | 15 | [Banská Štiavnica](../../countries/SK/cities/banska-stiavnica.yaml) 88.80; [Košice](../../countries/SK/cities/kosice.yaml) 87.50; [Levoča](../../countries/SK/cities/levoca.yaml) 87.05 |
-| SK | sights | 61 | 54 | 87.42 | 6 | 0 | 5 | 61 | [Tatra National Park (Slovak section)](../../countries/SK/sights/tatras.yaml) 92.30; [Spiš Castle and associated monuments](../../countries/SK/sights/spis-castle.yaml) 91.85; [Caves of Aggtelek and Slovak Karst (Slovak serial property)](../../countries/SK/sights/karst-caves.yaml) 91.65 |
+| SK | sights | 61 | 55 | 87.45 | 6 | 0 | 5 | 61 | [Tatra National Park (Slovak section)](../../countries/SK/sights/tatras.yaml) 92.30; [Spiš Castle and associated monuments](../../countries/SK/sights/spis-castle.yaml) 91.85; [Caves of Aggtelek and Slovak Karst (Slovak serial property)](../../countries/SK/sights/karst-caves.yaml) 91.65 |
 | SL | cities | 13 | 13 | 70.10 | 0 | 0 | 0 | 13 | [Freetown](../../countries/SL/cities/freetown.yaml) 83.00; [Bonthe](../../countries/SL/cities/bonthe.yaml) 77.50; [Dublin (Banana Islands)](../../countries/SL/cities/dublin-banana-islands.yaml) 73.95 |
 | SL | sights | 33 | 27 | 80.05 | 0 | 0 | 2 | 33 | [Tiwai Island Wildlife Sanctuary](../../countries/SL/sights/tiwai-island-wildlife-sanctuary.yaml) 89.70; [Gola Rainforest National Park](../../countries/SL/sights/gola-rainforest-national-park.yaml) 89.20; [Bunce Island](../../countries/SL/sights/bunce-island.yaml) 88.15 |
 | SM | cities | 14 | 14 | 68.72 | 0 | 0 | 0 | 14 | [City of San Marino](../../countries/SM/cities/city-of-san-marino.yaml) 87.65; [Borgo Maggiore](../../countries/SM/cities/borgo-maggiore.yaml) 76.65; [Montegiardino](../../countries/SM/cities/montegiardino.yaml) 73.10 |
