@@ -1,7 +1,7 @@
 # Worldwide record-level diagnostic
 
 **250 registered areas; 16269 source records screened.**
-Ranked: 15214; unassessed: 1055.
+Ranked: 15219; unassessed: 1050.
 
 This is an automatically regenerated diagnostic, not an individual editorial reassessment or proof of bias. No scores are changed. Type is inferred from names; missing review headings may be parser limitations. Declared evidence statuses are not independent checks. Shared GPS and nearby names may denote legitimate nested attractions. Country medians depend on selection and are not country quality scores.
 
@@ -9,13 +9,13 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 
 | Flag | Records |
 | --- | ---: |
-| conflicting-declared-status | 686 |
+| conflicting-declared-status | 691 |
 | evidence-review | 13662 |
 | field-9.5-plus | 2116 |
 | historical-review-only | 2516 |
-| incomplete-core | 1055 |
+| incomplete-core | 1050 |
 | no-recognized-review-heading | 65 |
-| overall-90-plus | 1847 |
+| overall-90-plus | 1849 |
 | overall-95-plus | 163 |
 | repeated-core-profile | 52 |
 | shared-representative-gps | 242 |
@@ -367,7 +367,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | NU | cities | 4 | 4 | 74.78 | 0 | 0 | 0 | 4 | [Alofi](../../countries/NU/cities/alofi.yaml) 80.60; [Avatele](../../countries/NU/cities/avatele.yaml) 74.95; [Hakupu](../../countries/NU/cities/hakupu.yaml) 74.60 |
 | NU | sights | 15 | 15 | 85.40 | 0 | 0 | 0 | 15 | [Niue Dark Sky Community and Sanctuary (permitted stargazing)](../../countries/NU/sights/dark-sky-niue.yaml) 89.40; [Niue seasonal humpback whale watching (western coast)](../../countries/NU/sights/whale-watching.yaml) 88.40; [Togo Chasm and limestone pinnacles](../../countries/NU/sights/togo-chasm.yaml) 87.75 |
 | NZ | cities | 12 | 12 | 80.40 | 0 | 0 | 0 | 12 | [Rotorua](../../countries/NZ/cities/rotorua.yaml) 85.10; [Queenstown](../../countries/NZ/cities/queenstown.yaml) 84.40; [Wellington](../../countries/NZ/cities/wellington.yaml) 82.45 |
-| NZ | sights | 24 | 22 | 88.38 | 7 | 0 | 5 | 24 | [Te Wāhipounamu – South West New Zealand](../../countries/NZ/sights/te-wahipounamu.yaml) 94.40; [Fiordland National Park](../../countries/NZ/sights/fiordland-national-park.yaml) 93.55; [Tongariro National Park](../../countries/NZ/sights/tongariro-national-park.yaml) 92.35 |
+| NZ | sights | 24 | 24 | 88.38 | 7 | 0 | 5 | 24 | [Te Wāhipounamu – South West New Zealand](../../countries/NZ/sights/te-wahipounamu.yaml) 94.40; [Fiordland National Park](../../countries/NZ/sights/fiordland-national-park.yaml) 93.55; [Tongariro National Park](../../countries/NZ/sights/tongariro-national-park.yaml) 92.35 |
 | OM | cities | 24 | 24 | 75.80 | 0 | 0 | 0 | 24 | [Muscat](../../countries/OM/cities/muscat.yaml) 87.15; [Misfat al Abriyeen](../../countries/OM/cities/misfat-al-abriyeen.yaml) 84.45; [Nizwa](../../countries/OM/cities/nizwa.yaml) 84.30 |
 | OM | sights | 60 | 59 | 82.30 | 2 | 0 | 3 | 60 | [Musandam Fjords (Khor Ash Sham)](../../countries/OM/sights/musandam-fjords-khor-ash-sham.yaml) 91.60; [Jebel Shams and Wadi Ghul Canyon](../../countries/OM/sights/jebel-shams-and-wadi-ghul-canyon.yaml) 91.05; [Daymaniyat Islands Nature Reserve](../../countries/OM/sights/daymaniyat-islands-nature-reserve.yaml) 89.50 |
 | PA | cities | 22 | 22 | 73.80 | 0 | 0 | 0 | 22 | [Panama City](../../countries/PA/cities/panama-city.yaml) 88.20; [Portobelo](../../countries/PA/cities/portobelo.yaml) 81.10; [Bocas Town](../../countries/PA/cities/bocas-town.yaml) 78.75 |
@@ -377,7 +377,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | PF | cities | 5 | 5 | 78.45 | 0 | 0 | 0 | 5 | [Atuona](../../countries/PF/cities/atuona.yaml) 79.50; [Taiohaʻe](../../countries/PF/cities/taiohae.yaml) 79.50; [Papeete](../../countries/PF/cities/papeete.yaml) 78.45 |
 | PF | sights | 11 | 11 | 87.30 | 3 | 0 | 3 | 11 | [Te Henua Enata – Marquesas Islands](../../countries/PF/sights/marquesas.yaml) 93.00; [Fakarava South Pass (Tumakohua)](../../countries/PF/sights/fakarava-south-pass.yaml) 91.15; [Bora Bora Lagoon](../../countries/PF/sights/bora-bora-lagoon.yaml) 90.25 |
 | PG | cities | 7 | 7 | 73.75 | 0 | 0 | 0 | 7 | [Rabaul](../../countries/PG/cities/rabaul.yaml) 79.00; [Port Moresby](../../countries/PG/cities/port-moresby.yaml) 75.25; [Goroka](../../countries/PG/cities/goroka.yaml) 74.60 |
-| PG | sights | 19 | 13 | 85.70 | 2 | 0 | 1 | 19 | [Kimbe Bay Reefs](../../countries/PG/sights/kimbe-bay.yaml) 92.85; [Tufi Fjords (Cape Nelson)](../../countries/PG/sights/tufi-fjords.yaml) 90.45; [Upper Sepik River Basin](../../countries/PG/sights/upper-sepik-river-basin.yaml) 89.60 |
+| PG | sights | 19 | 16 | 87.18 | 4 | 0 | 1 | 19 | [Kimbe Bay Reefs](../../countries/PG/sights/kimbe-bay.yaml) 92.85; [Tufi Fjords (Cape Nelson)](../../countries/PG/sights/tufi-fjords.yaml) 90.45; [Kokoda Track and Owen Stanley Ranges](../../countries/PG/sights/kokoda-owen-stanley.yaml) 90.05 |
 | PH | cities | 15 | 15 | 76.40 | 0 | 0 | 0 | 15 | [Vigan](../../countries/PH/cities/vigan.yaml) 86.00; [Manila](../../countries/PH/cities/manila.yaml) 84.15; [Cebu City](../../countries/PH/cities/cebu-city.yaml) 80.25 |
 | PH | sights | 50 | 49 | 86.45 | 3 | 0 | 0 | 50 | [Rice Terraces of the Philippine Cordilleras](../../countries/PH/sights/cordillera-rice-terraces.yaml) 92.15; [Tubbataha Reefs Natural Park](../../countries/PH/sights/tubbataha.yaml) 92.15; [El Nido-Taytay Managed Resource Protected Area](../../countries/PH/sights/el-nido-taytay.yaml) 91.45 |
 | PK | cities | 14 | 14 | 76.75 | 1 | 0 | 0 | 14 | [Lahore](../../countries/PK/cities/lahore.yaml) 90.15; [Peshawar](../../countries/PK/cities/peshawar.yaml) 84.20; [Multan](../../countries/PK/cities/multan.yaml) 83.50 |
