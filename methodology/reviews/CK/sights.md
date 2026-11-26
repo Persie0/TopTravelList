@@ -823,3 +823,5 @@ No numerical score or evidence-status changes made by this pass.
 - Final decision: Partial conservation/heritage assessment; no overall visitor ranking.
 - Earlier decision: none.
 - Verification still needed: exact GPS, independent factual corroboration, numeric peer calibration and current access.
+
+- [Dated worldwide reassessment pass 60 — 2026-11-26](worldwide-deferred-pass60-2026-11-26.md)

@@ -790,3 +790,4 @@
 
 [UNESCO inventory](https://whc.unesco.org/en/statesparties/ng) lists two inscribed and thirteen tentative properties; all represented. Benin Iya/Sungbo and Kwiambana/Ningi split by name, and transboundary parks limited to Nigeria. Kano associated sites and Alok Ikom groups are not separately disaggregated. Additional attractions including Badagry heritage, Esie, Kainji, Okomu, Erin-Ijesha, Ikogosi, Wikki Springs, national theatre, royal palaces and regional cities remain backlog. No exhaustive national catalogue claimed.
 
+- [Dated worldwide reassessment pass 60 — 2026-11-26](worldwide-deferred-pass60-2026-11-26.md)

@@ -1714,3 +1714,5 @@ Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 - Verification still needed: independent facts, permitted access, GPS and narrower same-type peer comparisons.
 
 - [Dated worldwide reassessment pass 59 — 2026-11-26](worldwide-deferred-pass59-2026-11-26.md)
+
+- [Dated worldwide reassessment pass 60 — 2026-11-26](worldwide-deferred-pass60-2026-11-26.md)
