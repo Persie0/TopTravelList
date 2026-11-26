@@ -753,3 +753,4 @@
 | [cuyabeno wildlife reserve (EC)](../../../countries/EC/sights/cuyabeno-wildlife-reserve.yaml) | 8.9 / 8.9 / 9.0 / 8.9 / 8.8 | 89.10 | Varied guided river and forest circuits. |
 | [aldabra atoll (SC)](../../../countries/SC/sights/aldabra-atoll.yaml) | 9.5 / 9.8 / 9.8 / 8.0 / 7.6 | 92.20 | Higher natural rarity with more restricted visitor scope. |
 
+- [Dated worldwide reassessment pass 66 — 2026-11-26](worldwide-deferred-pass66-2026-11-26.md)
