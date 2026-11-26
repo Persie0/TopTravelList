@@ -11,3 +11,6 @@ Target: explorer, statistics, Routes and Trip Studio. Operate mode. Initial manu
 - P2: visual inconsistency — unified typography, spacing and button hierarchy.
 
 Power users need direct route actions and chart controls; first-time users need clear stages and defaults; mobile and keyboard users need reachable actions and predictable focus. A perfect score cannot be claimed without evidence.
+
+## Follow-up screenshot review
+The first validation passed 47/47 unit tests and desktop/mobile interaction tests; axe reported zero WCAG A/AA violations in eight initial configurations, with no horizontal document overflow. Actual screenshot contact sheet inspected: mobile filter controls occupied most of the initial viewport; empty trip planning displayed unhelpful zero charts and buffer days. Follow-up changes collapse mobile filters, provide an actionable empty plan, preserve candidate focus, invalidate outdated recommendations on query changes, display estimate caveats and add undo for whole-trip switches. Expanded smoke tests cover the new empty state, trip restore and mobile filters. Score remains a subjective review, not an accessibility certification.
