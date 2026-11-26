@@ -1,7 +1,7 @@
 # Worldwide record-level diagnostic
 
 **250 registered areas; 16269 source records screened.**
-Ranked: 15139; unassessed: 1130.
+Ranked: 15146; unassessed: 1123.
 
 This is an automatically regenerated diagnostic, not an individual editorial reassessment or proof of bias. No scores are changed. Type is inferred from names; missing review headings may be parser limitations. Declared evidence statuses are not independent checks. Shared GPS and nearby names may denote legitimate nested attractions. Country medians depend on selection and are not country quality scores.
 
@@ -9,11 +9,11 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 
 | Flag | Records |
 | --- | ---: |
-| conflicting-declared-status | 611 |
+| conflicting-declared-status | 618 |
 | evidence-review | 13662 |
 | field-9.5-plus | 2114 |
 | historical-review-only | 2516 |
-| incomplete-core | 1130 |
+| incomplete-core | 1123 |
 | no-recognized-review-heading | 65 |
 | overall-90-plus | 1838 |
 | overall-95-plus | 163 |
@@ -119,7 +119,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | CL | cities | 33 | 33 | 74.90 | 0 | 0 | 0 | 33 | [Valparaíso](../../countries/CL/cities/valparaiso.yaml) 87.75; [Santiago](../../countries/CL/cities/santiago.yaml) 84.70; [Hanga Roa](../../countries/CL/cities/hanga-roa.yaml) 84.35 |
 | CL | sights | 67 | 66 | 85.90 | 8 | 2 | 33 | 67 | [Rapa Nui National Park](../../countries/CL/sights/rapa-nui-national-park.yaml) 96.90; [Torres del Paine National Park](../../countries/CL/sights/torres-del-paine-national-park.yaml) 96.25; [Rano Raraku](../../countries/CL/sights/rano-raraku.yaml) 94.55 |
 | CM | cities | 10 | 10 | 77.92 | 0 | 0 | 0 | 10 | [Foumban](../../countries/CM/cities/foumban.yaml) 83.15; [Limbe](../../countries/CM/cities/limbe.yaml) 80.10; [Douala](../../countries/CM/cities/douala.yaml) 79.75 |
-| CM | sights | 28 | 16 | 87.98 | 3 | 0 | 5 | 28 | [Lobéké National Park](../../countries/CM/sights/lobeke-national-park.yaml) 92.05; [Dja Faunal Reserve](../../countries/CM/sights/dja-faunal-reserve.yaml) 91.00; [Korup National Park](../../countries/CM/sights/korup-national-park.yaml) 90.50 |
+| CM | sights | 28 | 18 | 87.20 | 3 | 0 | 5 | 28 | [Lobéké National Park](../../countries/CM/sights/lobeke-national-park.yaml) 92.05; [Dja Faunal Reserve](../../countries/CM/sights/dja-faunal-reserve.yaml) 91.00; [Korup National Park](../../countries/CM/sights/korup-national-park.yaml) 90.50 |
 | CN | cities | 229 | 229 | 78.90 | 10 | 3 | 13 | 1 | [Beijing](../../countries/CN/cities/beijing.yaml) 97.40; [Lhasa](../../countries/CN/cities/lhasa.yaml) 95.40; [Xi'an](../../countries/CN/cities/xi-an.yaml) 95.20 |
 | CN | sights | 467 | 467 | 88.90 | 170 | 20 | 152 | 9 | [Forbidden City (Palace Museum)](../../countries/CN/sights/forbidden-city.yaml) 98.65; [Terracotta Army of Qin Shi Huang](../../countries/CN/sights/terracotta-army.yaml) 98.35; [Mount Huangshan (Yellow Mountain)](../../countries/CN/sights/mount-huangshan.yaml) 97.65 |
 | CO | cities | 46 | 46 | 74.18 | 1 | 0 | 1 | 46 | [Cartagena](../../countries/CO/cities/cartagena.yaml) 91.15; [Bogotá](../../countries/CO/cities/bogota.yaml) 85.75; [Medellín](../../countries/CO/cities/medellin.yaml) 85.60 |
@@ -349,7 +349,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | NC | cities | 4 | 4 | 75.60 | 0 | 0 | 0 | 4 | [Nouméa](../../countries/NC/cities/noumea.yaml) 81.30; [Hienghène](../../countries/NC/cities/hienghene.yaml) 77.60; [Vao](../../countries/NC/cities/vao.yaml) 73.60 |
 | NC | sights | 11 | 11 | 87.15 | 1 | 0 | 1 | 11 | [Lagoons of New Caledonia (listed reef components)](../../countries/NC/sights/new-caledonia-lagoons.yaml) 93.85; [Blue River Provincial Park](../../countries/NC/sights/blue-river-park.yaml) 89.60; [Poé Lagoon](../../countries/NC/sights/poe-lagoon.yaml) 88.35 |
 | NE | cities | 10 | 5 | 78.15 | 0 | 0 | 0 | 10 | [Agadez](../../countries/NE/cities/agadez.yaml) 87.40; [Zinder](../../countries/NE/cities/zinder.yaml) 79.80; [Bilma](../../countries/NE/cities/bilma.yaml) 78.15 |
-| NE | sights | 26 | 8 | 85.00 | 1 | 0 | 2 | 26 | [Historic Centre of Agadez](../../countries/NE/sights/agadez-historic-centre.yaml) 90.65; [Dabous Giraffe Rock Art](../../countries/NE/sights/dabous-giraffes.yaml) 89.20; [Kouré Giraffe Zone](../../countries/NE/sights/koure-giraffe-zone.yaml) 87.70 |
+| NE | sights | 26 | 12 | 82.70 | 1 | 0 | 2 | 26 | [Historic Centre of Agadez](../../countries/NE/sights/agadez-historic-centre.yaml) 90.65; [Dabous Giraffe Rock Art](../../countries/NE/sights/dabous-giraffes.yaml) 89.20; [Djado Plateau and Fortified Ruins](../../countries/NE/sights/djado.yaml) 88.20 |
 | NF | cities | 1 | 1 | 73.30 | 0 | 0 | 0 | 1 | [Burnt Pine](../../countries/NF/cities/burnt-pine.yaml) 73.30 |
 | NF | sights | 11 | 10 | 82.02 | 0 | 0 | 0 | 11 | [Kingston and Arthur's Vale Historic Area](../../countries/NF/sights/kingston-arthurs-vale.yaml) 89.20; [Norfolk Island National Park (main island forest and summit trails)](../../countries/NF/sights/norfolk-national-park.yaml) 87.00; [Captain Cook Lookout and Bridle Track](../../countries/NF/sights/captain-cook-lookout.yaml) 83.80 |
 | NG | cities | 12 | 12 | 80.68 | 0 | 0 | 0 | 12 | [Lagos](../../countries/NG/cities/lagos.yaml) 86.20; [Kano](../../countries/NG/cities/kano.yaml) 84.95; [Benin City](../../countries/NG/cities/benin-city.yaml) 83.35 |
@@ -455,7 +455,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | TC | cities | 3 | 3 | 77.30 | 0 | 0 | 0 | 3 | [Cockburn Town (Grand Turk)](../../countries/TC/cities/cockburn-town.yaml) 80.40; [Balfour Town (Salt Cay)](../../countries/TC/cities/balfour-town.yaml) 77.30; [Cockburn Harbour (South Caicos)](../../countries/TC/cities/cockburn-harbour.yaml) 76.35 |
 | TC | sights | 12 | 12 | 85.05 | 0 | 0 | 0 | 12 | [Chalk Sound National Park (Providenciales)](../../countries/TC/sights/chalk-sound.yaml) 88.55; [Grand Turk Wall (permitted dive sites)](../../countries/TC/sights/grand-turk-wall.yaml) 87.90; [Little Water Cay (Iguana Island)](../../countries/TC/sights/little-water-cay.yaml) 86.70 |
 | TD | cities | 10 | 9 | 72.20 | 0 | 0 | 0 | 10 | [Abéché](../../countries/TD/cities/abeche.yaml) 80.10; [Bardaï](../../countries/TD/cities/bardai.yaml) 75.20; [Ounianga Kébir](../../countries/TD/cities/ounianga-kebir.yaml) 73.85 |
-| TD | sights | 25 | 15 | 89.65 | 7 | 1 | 9 | 25 | [Ennedi Massif Natural and Cultural Landscape](../../countries/TD/sights/ennedi-massif-natural-and-cultural-landscape.yaml) 95.70; [Lakes of Ounianga](../../countries/TD/sights/lakes-of-ounianga.yaml) 93.85; [Zakouma National Park](../../countries/TD/sights/zakouma-national-park.yaml) 93.05 |
+| TD | sights | 25 | 16 | 88.28 | 7 | 1 | 9 | 25 | [Ennedi Massif Natural and Cultural Landscape](../../countries/TD/sights/ennedi-massif-natural-and-cultural-landscape.yaml) 95.70; [Lakes of Ounianga](../../countries/TD/sights/lakes-of-ounianga.yaml) 93.85; [Zakouma National Park](../../countries/TD/sights/zakouma-national-park.yaml) 93.05 |
 | TF | cities | 0 | 0 |  | 0 | 0 | 0 | 0 |  |
 | TF | sights | 6 | 0 |  | 0 | 0 | 1 | 6 |  |
 | TG | cities | 16 | 15 | 72.40 | 0 | 0 | 0 | 16 | [Lomé](../../countries/TG/cities/lome.yaml) 79.90; [Aného](../../countries/TG/cities/aneho.yaml) 79.60; [Togoville](../../countries/TG/cities/togoville.yaml) 78.30 |
