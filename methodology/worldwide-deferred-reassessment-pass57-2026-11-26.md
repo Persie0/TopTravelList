@@ -1,0 +1,15 @@
+# Deferred reassessment pass 57 — 2026-11-26
+
+Four individual source-assisted completions, no previously populated scores changed. Sources distinguish authentic archaeological remains from reconstruction and site-specific interpretation. Current admission and GPS not independently verified.
+
+| Record | Decision | Scope |
+| --- | --- | --- |
+| [CH pile-dwelling components](../countries/CH/sights/pile-dwellings.yaml) | Completed 84.05 | Swiss inscribed components only, including the Wauwil/Egolzwil learning trail and site-specific interpretation at Laténium. Most original deposits invisible; reconstructions distinguished from originals. No credit for unrelated museum collections, other countries or lake recreation. |
+| [DE pile-dwelling components](../countries/DE/sights/pile-dwellings.yaml) | Completed 84.90 | German inscribed components only. Unteruhldingen-Stollenwiesen site-specific finds and reconstructions, and Forschner Settlement interpretive trail. Exclude unrelated museum collections, other national sectors and general Lake Constance tourism. Original underwater and buried remains are not equivalent to reconstructions. |
+| [IT pile-dwelling components](../countries/IT/sights/pile-dwellings.yaml) | Completed 86.50 | Italian inscribed components only, particularly original remains and site-related museums at Ledro and Fiavé. Credit directly documented archaeological remains and interpretation, not general lake tourism or all museum collections. No assumption every component is visible or open. |
+| [SI pile-dwelling components](../countries/SI/sights/pile-dwellings.yaml) | Completed 82.10 | Slovenian inscribed Ljubljana Marshes components, with Morostig exhibition, themed trail and reconstructed settlement as site-specific interpretation. No claim original huts survive above ground, no credit for the entire marsh landscape or unrelated museum holdings. |
+| [Pulu Keeling](../countries/CC/sights/pulu-keeling-national-park.yaml) | Deferred | Park authority explicitly confirms no general public tours and permits for marine activities (https://pulukeelingnationalpark.gov.au/access/park-access/); no documented authorized recreational visitor scope established. |
+| [Dlaboka Reka](../countries/MK/sights/dlaboka-reka-beech-forest-component.yaml) | Deferred | Strict protection zone (https://www.europeanbeechforests.org/world-heritage-beech-forests/north-macedonia/dlaboka-reka); exact authorized visitor route unconfirmed. |
+| [Fountain Cavern](../countries/AI/sights/fountain-cavern.yaml) | Deferred | https://tourismanguilla.com/best-historical-sites-in-anguilla/ and https://w4io.me/entries/anguilla-pota-report.html describe controlled or special-permission access; no reliable ordinary visitor scope confirmed. |
+
+[CH review](reviews/CH/worldwide-deferred-pass57-2026-11-26.md) · [DE review](reviews/DE/worldwide-deferred-pass57-2026-11-26.md) · [IT review](reviews/IT/worldwide-deferred-pass57-2026-11-26.md) · [SI review](reviews/SI/worldwide-deferred-pass57-2026-11-26.md).

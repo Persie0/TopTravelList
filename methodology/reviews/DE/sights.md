@@ -3399,3 +3399,5 @@
 - Final decision: Provisional editorial assessment: Distinct concentrated lake and mountain scenery; Lake and immediate shore only.
 - Earlier decision: none.
 - Verification still needed: independent site-specific facts, access and narrower worldwide peer comparisons.
+
+- [Dated worldwide reassessment pass 57 — 2026-11-26](worldwide-deferred-pass57-2026-11-26.md)

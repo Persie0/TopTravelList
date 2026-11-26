@@ -4697,3 +4697,5 @@
 - Final decision: Provisional editorial assessment: Distinct Venetian republican palace architecture; One palace.
 - Earlier decision: none.
 - Verification still needed: independent site-specific evidence, access, exact coordinates and narrower worldwide peers.
+
+- [Dated worldwide reassessment pass 57 — 2026-11-26](worldwide-deferred-pass57-2026-11-26.md)
