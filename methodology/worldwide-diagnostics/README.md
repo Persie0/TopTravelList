@@ -1,7 +1,7 @@
 # Worldwide record-level diagnostic
 
 **250 registered areas; 16269 source records screened.**
-Ranked: 15019; unassessed: 1250.
+Ranked: 15028; unassessed: 1241.
 
 This is an automatically regenerated diagnostic, not an individual editorial reassessment or proof of bias. No scores are changed. Type is inferred from names; missing review headings may be parser limitations. Declared evidence statuses are not independent checks. Shared GPS and nearby names may denote legitimate nested attractions. Country medians depend on selection and are not country quality scores.
 
@@ -9,13 +9,13 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 
 | Flag | Records |
 | --- | ---: |
-| conflicting-declared-status | 494 |
+| conflicting-declared-status | 503 |
 | evidence-review | 13662 |
 | field-9.5-plus | 2110 |
 | historical-review-only | 2516 |
-| incomplete-core | 1250 |
+| incomplete-core | 1241 |
 | no-recognized-review-heading | 65 |
-| overall-90-plus | 1812 |
+| overall-90-plus | 1814 |
 | overall-95-plus | 159 |
 | repeated-core-profile | 52 |
 | shared-representative-gps | 242 |
@@ -255,7 +255,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | JP | cities | 87 | 87 | 80.10 | 4 | 2 | 5 | 87 | [Kyoto](../../countries/JP/cities/kyoto.yaml) 96.50; [Tokyo](../../countries/JP/cities/tokyo.yaml) 95.75; [Nara](../../countries/JP/cities/nara.yaml) 91.05 |
 | JP | sights | 347 | 347 | 86.45 | 53 | 5 | 52 | 347 | [Himeji Castle](../../countries/JP/sights/himeji-castle.yaml) 95.75; [Mount Fuji](../../countries/JP/sights/mount-fuji.yaml) 95.75; [Nikko Toshogu](../../countries/JP/sights/nikko-toshogu.yaml) 95.45 |
 | KE | cities | 6 | 6 | 82.50 | 0 | 0 | 0 | 6 | [Lamu](../../countries/KE/cities/lamu.yaml) 89.65; [Mombasa](../../countries/KE/cities/mombasa.yaml) 87.10; [Nairobi](../../countries/KE/cities/nairobi.yaml) 84.55 |
-| KE | sights | 44 | 29 | 88.85 | 8 | 1 | 10 | 44 | [Maasai Mara National Reserve](../../countries/KE/sights/maasai-mara.yaml) 96.30; [Mount Kenya National Park/Natural Forest](../../countries/KE/sights/mount-kenya.yaml) 93.75; [Amboseli National Park](../../countries/KE/sights/amboseli.yaml) 92.60 |
+| KE | sights | 44 | 34 | 88.78 | 9 | 1 | 10 | 44 | [Maasai Mara National Reserve](../../countries/KE/sights/maasai-mara.yaml) 96.30; [Mount Kenya National Park/Natural Forest](../../countries/KE/sights/mount-kenya.yaml) 93.75; [Amboseli National Park](../../countries/KE/sights/amboseli.yaml) 92.60 |
 | KG | cities | 18 | 18 | 71.35 | 0 | 0 | 0 | 18 | [Osh](../../countries/KG/cities/osh.yaml) 83.05; [Bishkek](../../countries/KG/cities/bishkek.yaml) 79.15; [Karakol](../../countries/KG/cities/karakol.yaml) 78.65 |
 | KG | sights | 46 | 34 | 83.80 | 5 | 0 | 4 | 46 | [Kel-Suu Lake](../../countries/KG/sights/kel-suu-lake.yaml) 90.20; [Sary-Chelek Biosphere Nature Reserve](../../countries/KG/sights/sary-chelek-biosphere-nature-reserve.yaml) 90.20; [Ala-Kul Lake](../../countries/KG/sights/ala-kul-lake.yaml) 90.15 |
 | KH | cities | 72 | 72 | 76.02 | 0 | 0 | 0 | 1 | [Siem Reap](../../countries/KH/cities/siem-reap.yaml) 85.80; [Koh Rong Village (Koh Touch)](../../countries/KH/cities/koh-rong.yaml) 81.45; [Phnom Penh](../../countries/KH/cities/phnom-penh.yaml) 80.40 |
@@ -275,7 +275,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | KY | cities | 2 | 2 | 75.20 | 0 | 0 | 0 | 2 | [George Town (Grand Cayman)](../../countries/KY/cities/george-town.yaml) 77.80; [Blossom Village (Little Cayman)](../../countries/KY/cities/blossom-village.yaml) 72.60 |
 | KY | sights | 11 | 11 | 83.90 | 0 | 0 | 0 | 11 | [Bloody Bay Wall (Little Cayman)](../../countries/KY/sights/bloody-bay-wall.yaml) 88.50; [Booby Pond Nature Reserve (Little Cayman)](../../countries/KY/sights/booby-pond.yaml) 85.55; [Stingray Sandbar (Grand Cayman)](../../countries/KY/sights/stingray-sandbar.yaml) 85.55 |
 | KZ | cities | 18 | 18 | 74.02 | 0 | 0 | 0 | 18 | [Almaty](../../countries/KZ/cities/almaty.yaml) 86.00; [Astana](../../countries/KZ/cities/astana.yaml) 83.85; [Turkistan](../../countries/KZ/cities/turkistan.yaml) 82.75 |
-| KZ | sights | 59 | 41 | 84.30 | 4 | 0 | 8 | 59 | [Altyn-Emel National Park](../../countries/KZ/sights/altyn-emel-national-park.yaml) 92.20; [Mausoleum of Khoja Ahmed Yasawi](../../countries/KZ/sights/mausoleum-of-khoja-ahmed-yasawi.yaml) 91.25; [Rock Mosques and Associated Sacred Sites of Mangystau](../../countries/KZ/sights/rock-mosques-and-associated-sacred-sites-of-mangystau.yaml) 90.95 |
+| KZ | sights | 59 | 45 | 84.75 | 5 | 0 | 8 | 59 | [Altyn-Emel National Park](../../countries/KZ/sights/altyn-emel-national-park.yaml) 92.20; [Mausoleum of Khoja Ahmed Yasawi](../../countries/KZ/sights/mausoleum-of-khoja-ahmed-yasawi.yaml) 91.25; [Rock Mosques and Associated Sacred Sites of Mangystau](../../countries/KZ/sights/rock-mosques-and-associated-sacred-sites-of-mangystau.yaml) 90.95 |
 | LA | cities | 42 | 42 | 71.52 | 1 | 0 | 0 | 42 | [Luang Prabang](../../countries/LA/cities/luang-prabang.yaml) 92.50; [Vientiane](../../countries/LA/cities/vientiane.yaml) 81.70; [Nong Khiaw](../../countries/LA/cities/nong-khiaw.yaml) 81.10 |
 | LA | sights | 144 | 143 | 80.05 | 9 | 0 | 6 | 144 | [Hin Nam No National Park](../../countries/LA/sights/hin-nam-no-national-park.yaml) 93.95; [Luang Prabang Historic Peninsula](../../countries/LA/sights/luang-prabang-historic-peninsula.yaml) 93.80; [Vat Phou and Champasak Cultural Landscape](../../countries/LA/sights/vat-phou-and-champasak-cultural-landscape.yaml) 93.30 |
 | LB | cities | 13 | 13 | 81.80 | 0 | 0 | 0 | 13 | [Beirut](../../countries/LB/cities/beirut.yaml) 85.90; [Tripoli](../../countries/LB/cities/tripoli.yaml) 85.85; [Byblos (Jbeil)](../../countries/LB/cities/byblos-jbeil.yaml) 85.75 |
