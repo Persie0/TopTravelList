@@ -2,7 +2,7 @@
 
 # Colombia (CO) — Cities, towns & villages ranking
 
-**45 ranked** · **1 unassessed** · **46 total** · Worldwide scoring **v2**
+**46 ranked** · **0 unassessed** · **46 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (45)
+## Complete ranked list (46)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -52,21 +52,14 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 36 | [Ipiales](cities/ipiales.yaml) | City / town | **68.80** | **Culture 7.8**, **History 7.6** | 6.5 / 7.2 / 7.0 / 7.2 / 6.5 | [0.8302, -77.6444](https://www.google.com/maps/search/?api=1&query=0.8302,-77.6444) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ipiales%2C%20Colombia) |
 | 37 | [San José del Guaviare](cities/san-jose-del-guaviare.yaml) | City / town | **68.65** | **Culture 7.7**, **Food 7.5** | 6.6 / 7.3 / 6.7 / 7.2 / 6.4 | [2.5729, -72.6459](https://www.google.com/maps/search/?api=1&query=2.5729,-72.6459) | [Google Maps](https://www.google.com/maps/search/?api=1&query=San%20Jos%C3%A9%20del%20Guaviare%2C%20Colombia) |
 | 38 | [Puerto Inírida](cities/puerto-inirida.yaml) | City / town | **68.55** | **Culture 8.1**, **Photography 7.9** | 6.5 / 7.7 / 6.6 / 7.0 / 6.1 | [3.8653, -67.9239](https://www.google.com/maps/search/?api=1&query=3.8653,-67.9239) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Puerto%20In%C3%ADrida%2C%20Colombia) |
-| 39 | [Mitú](cities/mitu.yaml) | City / town | **67.95** | **Culture 8.4**, **Photography 7.7** | 6.4 / 7.6 / 6.7 / 6.9 / 6.0 | [1.1983, -70.1733](https://www.google.com/maps/search/?api=1&query=1.1983,-70.1733) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mit%C3%BA%2C%20Colombia) |
-| 40 | [Mocoa](cities/mocoa.yaml) | City / town | **67.60** | **Culture 7.8**, **Photography 7.6** | 6.5 / 7.3 / 6.5 / 7.1 / 6.2 | [1.1493, -76.6474](https://www.google.com/maps/search/?api=1&query=1.1493,-76.6474) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mocoa%2C%20Colombia) |
-| 41 | [Neiva](cities/neiva.yaml) | City / town | **67.55** | **Culture 7.8**, **Food 7.7** | 6.4 / 6.9 / 6.7 / 7.2 / 6.9 | [2.9345, -75.2809](https://www.google.com/maps/search/?api=1&query=2.9345,-75.2809) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Neiva%2C%20Colombia) |
-| 41 | [Puerto Carreño](cities/puerto-carreno.yaml) | City / town | **67.55** | **Photography 8.0**, **Culture 7.6** | 6.5 / 7.5 / 6.4 / 7.0 / 6.0 | [6.189, -67.4859](https://www.google.com/maps/search/?api=1&query=6.189,-67.4859) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Puerto%20Carre%C3%B1o%2C%20Colombia) |
-| 43 | [Sincelejo](cities/sincelejo.yaml) | City / town | **66.55** | **Culture 7.7**, **Food 7.6** | 6.3 / 6.9 / 6.7 / 7.0 / 6.5 | [9.3047, -75.3978](https://www.google.com/maps/search/?api=1&query=9.3047,-75.3978) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sincelejo%2C%20Colombia) |
-| 44 | [Yopal](cities/yopal.yaml) | City / town | **64.75** | **Culture 7.7**, **Food 7.6** | 6.0 / 6.9 / 6.3 / 7.0 / 6.4 | [5.3378, -72.3959](https://www.google.com/maps/search/?api=1&query=5.3378,-72.3959) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Yopal%2C%20Colombia) |
-| 45 | [Florencia](cities/florencia.yaml) | City / town | **64.45** | **Culture 7.5**, **Food 7.3** | 6.0 / 6.9 / 6.3 / 6.8 / 6.4 | [1.6144, -75.6062](https://www.google.com/maps/search/?api=1&query=1.6144,-75.6062) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Florencia%2C%20Colombia) |
-
-## Not yet fully assessed (1)
-
-These destinations have no rank until all five core scores are assessed.
-
-| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
-| ---: | --- | --- | ---: | --- | --- | --- | --- |
-| — | [Arauca](cities/arauca.yaml) | City / town | **—** | **Culture 7.8** | — / 7.0 / 6.7 / — / — | [7.0847, -70.7591](https://www.google.com/maps/search/?api=1&query=7.0847,-70.7591) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Arauca%2C%20Colombia) |
+| 39 | [Arauca](cities/arauca.yaml) | City / town | **68.25** | **Culture 7.8** | 6.5 / 7.0 / 6.7 / 7.3 / 6.9 | [7.0847, -70.7591](https://www.google.com/maps/search/?api=1&query=7.0847,-70.7591) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Arauca%2C%20Colombia) |
+| 40 | [Mitú](cities/mitu.yaml) | City / town | **67.95** | **Culture 8.4**, **Photography 7.7** | 6.4 / 7.6 / 6.7 / 6.9 / 6.0 | [1.1983, -70.1733](https://www.google.com/maps/search/?api=1&query=1.1983,-70.1733) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mit%C3%BA%2C%20Colombia) |
+| 41 | [Mocoa](cities/mocoa.yaml) | City / town | **67.60** | **Culture 7.8**, **Photography 7.6** | 6.5 / 7.3 / 6.5 / 7.1 / 6.2 | [1.1493, -76.6474](https://www.google.com/maps/search/?api=1&query=1.1493,-76.6474) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mocoa%2C%20Colombia) |
+| 42 | [Neiva](cities/neiva.yaml) | City / town | **67.55** | **Culture 7.8**, **Food 7.7** | 6.4 / 6.9 / 6.7 / 7.2 / 6.9 | [2.9345, -75.2809](https://www.google.com/maps/search/?api=1&query=2.9345,-75.2809) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Neiva%2C%20Colombia) |
+| 42 | [Puerto Carreño](cities/puerto-carreno.yaml) | City / town | **67.55** | **Photography 8.0**, **Culture 7.6** | 6.5 / 7.5 / 6.4 / 7.0 / 6.0 | [6.189, -67.4859](https://www.google.com/maps/search/?api=1&query=6.189,-67.4859) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Puerto%20Carre%C3%B1o%2C%20Colombia) |
+| 44 | [Sincelejo](cities/sincelejo.yaml) | City / town | **66.55** | **Culture 7.7**, **Food 7.6** | 6.3 / 6.9 / 6.7 / 7.0 / 6.5 | [9.3047, -75.3978](https://www.google.com/maps/search/?api=1&query=9.3047,-75.3978) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sincelejo%2C%20Colombia) |
+| 45 | [Yopal](cities/yopal.yaml) | City / town | **64.75** | **Culture 7.7**, **Food 7.6** | 6.0 / 6.9 / 6.3 / 7.0 / 6.4 | [5.3378, -72.3959](https://www.google.com/maps/search/?api=1&query=5.3378,-72.3959) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Yopal%2C%20Colombia) |
+| 46 | [Florencia](cities/florencia.yaml) | City / town | **64.45** | **Culture 7.5**, **Food 7.3** | 6.0 / 6.9 / 6.3 / 6.8 / 6.4 | [1.6144, -75.6062](https://www.google.com/maps/search/?api=1&query=1.6144,-75.6062) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Florencia%2C%20Colombia) |
 
 ---
 
