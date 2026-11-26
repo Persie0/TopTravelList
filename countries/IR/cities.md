@@ -2,7 +2,7 @@
 
 # Iran (IR) — Cities, towns & villages ranking
 
-**3 ranked** · **12 unassessed** · **15 total** · Worldwide scoring **v2**
+**11 ranked** · **4 unassessed** · **15 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,31 +10,31 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (3)
+## Complete ranked list (11)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
-| 1 | [Yazd](cities/yazd.yaml) | City / town | **88.70** | **Architecture 9.2**, **History 9.1**, **Photography 9.1**, Culture 9.0 | 8.8 / 9.1 / 9.0 / 8.7 / 8.5 | [31.8974, 54.3569](https://www.google.com/maps/search/?api=1&query=31.8974,54.3569) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Yazd%2C%20Iran) |
-| 2 | [Shiraz](cities/shiraz.yaml) | City / town | **87.75** | **Culture 9.2**, **Architecture 9.0**, **History 9.0**, Food 8.5 | 8.7 / 8.8 / 9.0 / 8.7 / 8.6 | [29.5918, 52.5837](https://www.google.com/maps/search/?api=1&query=29.5918,52.5837) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Shiraz%2C%20Iran) |
-| 3 | [Kashan](cities/kashan.yaml) | City / town | **85.00** | **Architecture 9.0**, **Culture 8.8**, **History 8.7** | 8.4 / 8.7 / 8.6 / 8.5 / 8.1 | [33.985, 51.41](https://www.google.com/maps/search/?api=1&query=33.985,51.41) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kashan%2C%20Iran) |
+| 1 | [Isfahan](cities/isfahan.yaml) | City / town | **91.60** | **Architecture 9.4**, **History 9.4**, **Culture 9.2** | 9.1 / 9.2 / 9.3 / 9.0 / 9.2 | [32.6546, 51.668](https://www.google.com/maps/search/?api=1&query=32.6546,51.668) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Isfahan%2C%20Iran) |
+| 2 | [Yazd](cities/yazd.yaml) | City / town | **88.70** | **Architecture 9.2**, **History 9.1**, **Photography 9.1**, Culture 9.0 | 8.8 / 9.1 / 9.0 / 8.7 / 8.5 | [31.8974, 54.3569](https://www.google.com/maps/search/?api=1&query=31.8974,54.3569) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Yazd%2C%20Iran) |
+| 3 | [Shiraz](cities/shiraz.yaml) | City / town | **87.75** | **Culture 9.2**, **Architecture 9.0**, **History 9.0**, Food 8.5 | 8.7 / 8.8 / 9.0 / 8.7 / 8.6 | [29.5918, 52.5837](https://www.google.com/maps/search/?api=1&query=29.5918,52.5837) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Shiraz%2C%20Iran) |
+| 4 | [Mashhad](cities/mashhad.yaml) | City / town | **86.10** | **Culture 9.3**, **History 9.0**, **Architecture 8.9** | 8.4 / 8.6 / 9.0 / 8.6 / 8.5 | [36.297, 59.606](https://www.google.com/maps/search/?api=1&query=36.297,59.606) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mashhad%2C%20Iran) |
+| 5 | [Kashan](cities/kashan.yaml) | City / town | **85.00** | **Architecture 9.0**, **Culture 8.8**, **History 8.7** | 8.4 / 8.7 / 8.6 / 8.5 / 8.1 | [33.985, 51.41](https://www.google.com/maps/search/?api=1&query=33.985,51.41) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kashan%2C%20Iran) |
+| 6 | [Tabriz](cities/tabriz.yaml) | City / town | **84.50** | **History 9.0**, **Culture 8.8**, **Architecture 8.7** | 8.1 / 8.5 / 8.8 / 8.5 / 8.6 | [38.08, 46.29](https://www.google.com/maps/search/?api=1&query=38.08,46.29) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tabriz%2C%20Iran) |
+| 7 | [Hamadan](cities/hamadan.yaml) | City / town | **81.65** | **History 8.9**, **Culture 8.4** | 7.7 / 8.2 / 8.7 / 8.3 / 8.2 | [34.799, 48.515](https://www.google.com/maps/search/?api=1&query=34.799,48.515) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hamadan%2C%20Iran) |
+| 8 | [Kerman](cities/kerman.yaml) | City / town | **80.70** | **History 8.5**, **Culture 8.4**, **Architecture 8.3** | 7.8 / 8.1 / 8.2 / 8.3 / 8.2 | [30.283, 57.078](https://www.google.com/maps/search/?api=1&query=30.283,57.078) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kerman%2C%20Iran) |
+| 9 | [Qazvin](cities/qazvin.yaml) | City / town | **80.20** | **History 8.7**, **Architecture 8.5** | 7.7 / 8.0 / 8.4 / 8.2 / 8.0 | [36.269, 50.004](https://www.google.com/maps/search/?api=1&query=36.269,50.004) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Qazvin%2C%20Iran) |
+| 10 | [Kermanshah](cities/kermanshah.yaml) | City / town | **78.50** | **Culture 8.4**, **History 8.4** | 7.5 / 7.9 / 8.1 / 8.1 / 7.9 | [34.314, 47.065](https://www.google.com/maps/search/?api=1&query=34.314,47.065) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kermanshah%2C%20Iran) |
+| 11 | [Rasht](cities/rasht.yaml) | City / town | **76.80** | **Food 8.6**, **Culture 8.1** | 7.3 / 7.7 / 7.6 / 8.3 / 8.0 | [37.28, 49.583](https://www.google.com/maps/search/?api=1&query=37.28,49.583) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Rasht%2C%20Iran) |
 
-## Not yet fully assessed (12)
+## Not yet fully assessed (4)
 
 These destinations have no rank until all five core scores are assessed.
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
 | — | [Abyaneh](cities/abyaneh.yaml) | City / town | **—** | **Photography 9.0**, **Architecture 8.9**, **Culture 8.8** | 8.5 / 8.8 / 8.1 / — / — | [33.586, 51.591](https://www.google.com/maps/search/?api=1&query=33.586,51.591) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Abyaneh%2C%20Iran) |
-| — | [Hamadan](cities/hamadan.yaml) | City / town | **—** | **History 8.9**, **Culture 8.4** | 7.7 / 8.2 / 8.7 / — / — | [34.799, 48.515](https://www.google.com/maps/search/?api=1&query=34.799,48.515) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hamadan%2C%20Iran) |
-| — | [Isfahan](cities/isfahan.yaml) | City / town | **—** | **Architecture 9.4**, **History 9.4**, **Culture 9.2** | 9.1 / 9.2 / 9.3 / — / — | [32.6546, 51.668](https://www.google.com/maps/search/?api=1&query=32.6546,51.668) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Isfahan%2C%20Iran) |
-| — | [Kerman](cities/kerman.yaml) | City / town | **—** | **History 8.5**, **Culture 8.4**, **Architecture 8.3** | 7.8 / 8.1 / 8.2 / — / — | [30.283, 57.078](https://www.google.com/maps/search/?api=1&query=30.283,57.078) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kerman%2C%20Iran) |
-| — | [Kermanshah](cities/kermanshah.yaml) | City / town | **—** | **Culture 8.4**, **History 8.4** | 7.5 / 7.9 / 8.1 / — / — | [34.314, 47.065](https://www.google.com/maps/search/?api=1&query=34.314,47.065) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kermanshah%2C%20Iran) |
-| — | [Mashhad](cities/mashhad.yaml) | City / town | **—** | **Culture 9.3**, **History 9.0**, **Architecture 8.9** | 8.4 / 8.6 / 9.0 / — / — | [36.297, 59.606](https://www.google.com/maps/search/?api=1&query=36.297,59.606) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mashhad%2C%20Iran) |
 | — | [Masuleh](cities/masuleh.yaml) | City / town | **—** | **Photography 9.1**, **Architecture 8.9**, **Nature 8.5** | 8.7 / 8.7 / 8.0 / — / — | [37.156, 48.99](https://www.google.com/maps/search/?api=1&query=37.156,48.99) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Masuleh%2C%20Iran) |
 | — | [Maymand](cities/maymand.yaml) | City / town | **—** | **Culture 8.9**, **Architecture 8.8** | 8.2 / 8.8 / 8.6 / — / — | [30.232, 55.375](https://www.google.com/maps/search/?api=1&query=30.232,55.375) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Maymand%2C%20Iran) |
-| — | [Qazvin](cities/qazvin.yaml) | City / town | **—** | **History 8.7**, **Architecture 8.5** | 7.7 / 8.0 / 8.4 / — / — | [36.269, 50.004](https://www.google.com/maps/search/?api=1&query=36.269,50.004) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Qazvin%2C%20Iran) |
-| — | [Rasht](cities/rasht.yaml) | City / town | **—** | **Food 8.6**, **Culture 8.1** | 7.3 / 7.7 / 7.6 / — / — | [37.28, 49.583](https://www.google.com/maps/search/?api=1&query=37.28,49.583) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Rasht%2C%20Iran) |
-| — | [Tabriz](cities/tabriz.yaml) | City / town | **—** | **History 9.0**, **Culture 8.8**, **Architecture 8.7** | 8.1 / 8.5 / 8.8 / — / — | [38.08, 46.29](https://www.google.com/maps/search/?api=1&query=38.08,46.29) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tabriz%2C%20Iran) |
 | — | [Tehran](cities/tehran.yaml) | City / town | **—** | **Culture 8.9**, **History 8.9**, **Architecture 8.5** | 8.1 / 8.3 / 8.9 / — / — | [35.6892, 51.389](https://www.google.com/maps/search/?api=1&query=35.6892,51.389) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tehran%2C%20Iran) |
 
 ---
