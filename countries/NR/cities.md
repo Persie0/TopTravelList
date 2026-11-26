@@ -2,7 +2,7 @@
 
 # Nauru (NR) — Cities, towns & villages ranking
 
-**3 ranked** · **3 unassessed** · **6 total** · Worldwide scoring **v2**
+**4 ranked** · **2 unassessed** · **6 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,21 +10,21 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (3)
+## Complete ranked list (4)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
 | 1 | [Yaren](cities/yaren.yaml) | City / town | **63.25** | **History 6.6**, **Culture 6.5** | 5.7 / 7.4 / 7.1 / 5.7 / 4.9 | [-0.551, 166.925](https://www.google.com/maps/search/?api=1&query=-0.551,166.925) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Yaren%2C%20Nauru) |
-| 2 | [Arenibek Village](cities/arenibek.yaml) | Village | **59.45** | **Photography 6.1**, **Culture 5.8** | 5.8 / 6.9 / 5.6 / 5.8 / 4.9 | [-0.533, 166.924](https://www.google.com/maps/search/?api=1&query=-0.533,166.924) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Arenibek%20Village%2C%20Nauru) |
-| 3 | [Menen](cities/menen.yaml) | City / town | **52.95** | **Photography 5.8** | 5.4 / 5.8 / 4.8 / 5.5 / 4.4 | [-0.545, 166.949](https://www.google.com/maps/search/?api=1&query=-0.545,166.949) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Menen%2C%20Nauru) |
+| 2 | [Anibare](cities/anibare.yaml) | City / town | **62.95** | **Photography 6.9**, **Culture 6.8** | 6.3 / 6.7 / 5.9 / 6.8 / 5.3 | [-0.52792, 166.95249](https://www.google.com/maps/search/?api=1&query=-0.52792,166.95249) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Anibare%2C%20Nauru) |
+| 3 | [Arenibek Village](cities/arenibek.yaml) | Village | **59.45** | **Photography 6.1**, **Culture 5.8** | 5.8 / 6.9 / 5.6 / 5.8 / 4.9 | [-0.533, 166.924](https://www.google.com/maps/search/?api=1&query=-0.533,166.924) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Arenibek%20Village%2C%20Nauru) |
+| 4 | [Menen](cities/menen.yaml) | City / town | **52.95** | **Photography 5.8** | 5.4 / 5.8 / 4.8 / 5.5 / 4.4 | [-0.545, 166.949](https://www.google.com/maps/search/?api=1&query=-0.545,166.949) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Menen%2C%20Nauru) |
 
-## Not yet fully assessed (3)
+## Not yet fully assessed (2)
 
 These destinations have no rank until all five core scores are assessed.
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
-| — | [Anibare](cities/anibare.yaml) | City / town | **—** | — | — / — / — / — / — | [-0.52792, 166.95249](https://www.google.com/maps/search/?api=1&query=-0.52792,166.95249) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Anibare%2C%20Nauru) |
 | — | [Arijejen Village](cities/arijejen.yaml) | Village | **—** | — | — / — / — / — / — | [-0.525, 166.912](https://www.google.com/maps/search/?api=1&query=-0.525,166.912) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Arijejen%20Village%2C%20Nauru) |
 | — | [Yangor](cities/yangor.yaml) | City / town | **—** | — | — / — / — / — / — | [-0.535, 166.91](https://www.google.com/maps/search/?api=1&query=-0.535,166.91) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Yangor%2C%20Nauru) |
 

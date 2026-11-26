@@ -1,0 +1,16 @@
+id: sight-za-cederberg
+name: "Cederberg Wilderness Area"
+location:
+  country_code: ZA
+  latitude: -32.42
+  longitude: 19.15
+scores:
+  impact: 9.2
+  uniqueness: 9.0
+  significance: 8.8
+  experience: 8.9
+  depth: 9.0
+  categories:
+    nature: 9.3
+    adventure: 9.2
+    photography: 9.3

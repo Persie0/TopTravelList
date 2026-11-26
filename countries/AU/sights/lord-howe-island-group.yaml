@@ -1,0 +1,16 @@
+id: sight-au-lord-howe-island-group
+name: "Lord Howe Island Group"
+location:
+  country_code: AU
+  latitude: -31.55
+  longitude: 159.08
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 8.9
+  experience: 8.7
+  depth: 8.5
+  categories:
+    nature: 9.2
+    wildlife: 8.9
+    photography: 9.1

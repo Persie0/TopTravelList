@@ -1,0 +1,16 @@
+id: city-eg-aswan
+name: "Aswan"
+location:
+  country_code: EG
+  latitude: 24.0889
+  longitude: 32.8998
+scores:
+  impact: 8.7
+  uniqueness: 8.7
+  significance: 8.5
+  experience: 8.8
+  depth: 8.3
+  categories:
+    culture: 8.8
+    photography: 8.7
+    food: 8.3

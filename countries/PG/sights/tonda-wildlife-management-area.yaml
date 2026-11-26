@@ -1,0 +1,16 @@
+id: sight-pg-tonda-wildlife-management-area
+name: "Tonda Wildlife Management Area"
+location:
+  country_code: PG
+  latitude: -8.75
+  longitude: 141.383333
+scores:
+  impact: 8.2
+  uniqueness: 8.7
+  significance: 9.0
+  experience: 8.5
+  depth: 8.6
+  categories:
+    nature: 8.9
+    wildlife: 9.2
+    photography: 8.5

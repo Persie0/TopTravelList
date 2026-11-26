@@ -1,0 +1,15 @@
+id: sight-za-sterkfontein-caves
+name: "Sterkfontein Caves"
+location:
+  country_code: ZA
+  latitude: -26.05
+  longitude: 27.7
+scores:
+  impact: 8.7
+  uniqueness: 9.5
+  significance: 9.8
+  experience: 8.8
+  depth: 8.4
+  categories:
+    history: 9.7
+    nature: 8.8

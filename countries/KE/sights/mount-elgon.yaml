@@ -1,0 +1,15 @@
+id: sight-ke-mount-elgon
+name: "Mount Elgon National Park (Kenya)"
+location:
+  country_code: KE
+  latitude: 1.01
+  longitude: 34.63
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 9.2
+  experience: 8.7
+  depth: 8.7
+  categories:
+    nature: 9.3
+    adventure: 9.0

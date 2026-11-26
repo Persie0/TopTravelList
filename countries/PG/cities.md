@@ -2,7 +2,7 @@
 
 # Papua New Guinea (PG) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**7 ranked** · **0 unassessed** · **7 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,17 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (7)
 
-No cities, towns & villages have been assessed for **Papua New Guinea** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Rabaul](cities/rabaul.yaml) | City / town | **79.00** | **History 8.6**, **Photography 8.2**, **Culture 7.6** | 7.7 / 8.3 / 8.3 / 7.5 / 7.3 | [-4.2, 152.16](https://www.google.com/maps/search/?api=1&query=-4.2,152.16) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Rabaul%2C%20Papua%20New%20Guinea) |
+| 2 | [Port Moresby](cities/port-moresby.yaml) | City / town | **75.25** | **Culture 8.3**, **History 7.8**, **Food 7.5** | 7.0 / 7.7 / 7.9 / 7.8 / 7.5 | [-9.47723, 147.15089](https://www.google.com/maps/search/?api=1&query=-9.47723,147.15089) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Port%20Moresby%2C%20Papua%20New%20Guinea) |
+| 3 | [Goroka](cities/goroka.yaml) | City / town | **74.60** | **Culture 8.6**, **History 7.3** | 7.0 / 8.0 / 7.6 / 7.6 / 7.0 | [-6.085, 145.386667](https://www.google.com/maps/search/?api=1&query=-6.085,145.386667) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Goroka%2C%20Papua%20New%20Guinea) |
+| 4 | [Madang](cities/madang.yaml) | City / town | **73.75** | **Photography 7.8**, **Culture 7.6** | 7.5 / 7.5 / 7.0 / 7.6 / 7.1 | [-5.22152, 145.78695](https://www.google.com/maps/search/?api=1&query=-5.22152,145.78695) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Madang%2C%20Papua%20New%20Guinea) |
+| 5 | [Alotau](cities/alotau.yaml) | City / town | **72.75** | — | 7.3 / 7.4 / 7.1 / 7.5 / 6.9 | [-10.31509, 150.45742](https://www.google.com/maps/search/?api=1&query=-10.31509,150.45742) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Alotau%2C%20Papua%20New%20Guinea) |
+| 6 | [Mount Hagen](cities/mount-hagen.yaml) | City / town | **71.90** | **Culture 8.4** | 6.6 / 7.8 / 7.5 / 7.2 / 6.8 | [-5.85746, 144.23058](https://www.google.com/maps/search/?api=1&query=-5.85746,144.23058) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mount%20Hagen%2C%20Papua%20New%20Guinea) |
+| 7 | [Kavieng](cities/kavieng.yaml) | City / town | **70.95** | — | 7.1 / 7.2 / 7.0 / 7.3 / 6.7 | [-2.57337, 150.79516](https://www.google.com/maps/search/?api=1&query=-2.57337,150.79516) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kavieng%2C%20Papua%20New%20Guinea) |
 
 ---
 

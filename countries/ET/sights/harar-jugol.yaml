@@ -1,0 +1,17 @@
+id: sight-et-harar-jugol
+name: "Harar Jugol, Fortified Historic Town"
+location:
+  country_code: ET
+  latitude: 9.312
+  longitude: 42.138
+scores:
+  impact: 9.0
+  uniqueness: 9.3
+  significance: 9.3
+  experience: 8.9
+  depth: 8.9
+  categories:
+    architecture: 9.1
+    history: 9.3
+    culture: 9.4
+    photography: 9.0

@@ -1,0 +1,15 @@
+id: sight-et-yeha-cultural-heritage
+name: "Yeha Cultural Heritage"
+location:
+  country_code: ET
+  latitude: 14.28
+  longitude: 39.02
+scores:
+  impact: 8.4
+  uniqueness: 9.0
+  significance: 9.2
+  experience: 8.0
+  depth: 7.9
+  categories:
+    architecture: 8.9
+    history: 9.3

@@ -1,0 +1,15 @@
+id: sight-mg-ambodivahibe
+name: "Ambodivahibe Marine Protected Area"
+location:
+  country_code: MG
+  latitude: -12.33333
+  longitude: 49.43333
+scores:
+  impact: null
+  uniqueness: 9
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    nature: 9.3
+    wildlife: 9.2

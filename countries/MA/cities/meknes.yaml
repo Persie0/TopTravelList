@@ -1,0 +1,16 @@
+id: city-ma-meknes
+name: "Meknes"
+location:
+  country_code: MA
+  latitude: 33.8935
+  longitude: -5.5473
+scores:
+  impact: 8.5
+  uniqueness: 8.5
+  significance: 8.9
+  experience: 8.3
+  depth: 8.5
+  categories:
+    architecture: 8.8
+    history: 9.0
+    culture: 8.6

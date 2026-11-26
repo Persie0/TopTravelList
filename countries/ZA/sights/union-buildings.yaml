@@ -1,0 +1,15 @@
+id: sight-za-union-buildings
+name: "Union Buildings and Public Gardens"
+location:
+  country_code: ZA
+  latitude: -25.741
+  longitude: 28.212
+scores:
+  impact: 8.3
+  uniqueness: 8.4
+  significance: 9.2
+  experience: 8.1
+  depth: 7.7
+  categories:
+    architecture: 8.7
+    history: 9.3

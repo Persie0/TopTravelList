@@ -1,0 +1,16 @@
+id: city-nz-napier
+name: "Napier"
+location:
+  country_code: NZ
+  latitude: -39.4903
+  longitude: 176.9178
+scores:
+  impact: 8.0
+  uniqueness: 8.6
+  significance: 8.1
+  experience: 8.1
+  depth: 7.6
+  categories:
+    architecture: 8.8
+    history: 8.3
+    photography: 8.3

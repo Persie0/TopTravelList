@@ -1,0 +1,17 @@
+id: city-eg-alexandria
+name: "Alexandria"
+location:
+  country_code: EG
+  latitude: 31.2001
+  longitude: 29.9187
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 9.2
+  experience: 8.5
+  depth: 8.8
+  categories:
+    history: 9.3
+    culture: 8.8
+    architecture: 8.5
+    food: 8.5

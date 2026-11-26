@@ -1,0 +1,16 @@
+id: city-ma-casablanca
+name: "Casablanca"
+location:
+  country_code: MA
+  latitude: 33.5731
+  longitude: -7.5898
+scores:
+  impact: 8.3
+  uniqueness: 8.4
+  significance: 8.6
+  experience: 8.5
+  depth: 8.8
+  categories:
+    architecture: 8.9
+    culture: 8.6
+    food: 8.7

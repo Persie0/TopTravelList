@@ -1,0 +1,13 @@
+id: sight-dz-ighamaouen-granaries
+name: "Ighamaouen Collective Fortified Granaries"
+location:
+  country_code: DZ
+  latitude: 29.25
+  longitude: 0.25
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}

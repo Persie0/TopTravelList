@@ -1,0 +1,16 @@
+id: sight-tn-dougga
+name: "Dougga / Thugga"
+location:
+  country_code: TN
+  latitude: 36.4236
+  longitude: 9.2186
+scores:
+  impact: 9.4
+  uniqueness: 9.3
+  significance: 9.4
+  experience: 9.2
+  depth: 9.1
+  categories:
+    architecture: 9.5
+    history: 9.4
+    photography: 9.3

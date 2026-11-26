@@ -1,0 +1,17 @@
+id: sight-et-lake-tana-monasteries
+name: "Lake Tana Island Monasteries and Wetlands"
+location:
+  country_code: ET
+  latitude: 11.88
+  longitude: 37.35
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 9.0
+  experience: 8.8
+  depth: 8.7
+  categories:
+    nature: 8.9
+    history: 9.0
+    culture: 9.3
+    photography: 9.1

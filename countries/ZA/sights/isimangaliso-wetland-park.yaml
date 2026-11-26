@@ -1,0 +1,16 @@
+id: sight-za-isimangaliso-wetland-park
+name: "iSimangaliso Wetland Park (South African sector)"
+location:
+  country_code: ZA
+  latitude: -28.10
+  longitude: 32.48
+scores:
+  impact: 9.3
+  uniqueness: 9.4
+  significance: 9.4
+  experience: 9.1
+  depth: 9.3
+  categories:
+    nature: 9.5
+    wildlife: 9.5
+    photography: 9.2
