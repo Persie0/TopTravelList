@@ -25,6 +25,17 @@ Core I/U/S/E/D, subject minus peer. Profiles from preceding audited branch snaps
 - [Museum Ship Pommern (AX)](../../../countries/AX/sights/pommern.yaml) — 8.6/9.2/8.9/8.8/8.3; subject minus peer: I +0.5, U +0.1, S +0.2, E -0.1, D +0.2.
 - [Bermuda Railway Trail (BM)](../../../countries/BM/sights/railway-trail.yaml) — 8.2/8.3/8.0/8.7/8.8; subject minus peer: I +0.9, U +1.0, S +1.1, E +0.0, D -0.3.
 
+#### Targeted same-type comparison (2026-11-26)
+
+Core I/U/S/E/D from current YAML; editorial comparison only.
+
+- [ironbridge (GB)](../../../countries/GB/sights/ironbridge.yaml) — 8.5/8.9/9.2/8.8/8.7; Broader industrial landscape and greater historical breadth, not just bridge.
+- [mlincici watermills (BA)](../../../countries/BA/sights/mlincici-watermills.yaml) — 8.1/8.6/8.1/8.4/7.2; Closer water-powered machinery but much smaller structures.
+- [angla windmills (EE)](../../../countries/EE/sights/angla-windmills.yaml) — 7.8/8.2/8.1/8.1/7.4; Surviving traditional power technology with more ordinary visual scale.
+- [zollverein (DE)](../../../countries/DE/sights/zollverein.yaml) — 9.0/9.2/9.3/9.0/9.1; More extensive interpreted industrial complex with greater depth.
+
+90+ challenge: 90.30 is above Ironbridge (88.05, from displayed core values) because of concentrated impact and uniqueness, but below Zollverein (91.20) with more substantial industrial landscape and interpretation. The modest machine-scale depth and conditional operation are retained; no 9.5+ field.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -385,6 +396,15 @@ Core I/U/S/E/D, subject minus peer. Profiles from preceding audited branch snaps
 - [Museum Ship Pommern (AX)](../../../countries/AX/sights/pommern.yaml) — 8.6/9.2/8.9/8.8/8.3; subject minus peer: I +0.2, U -0.5, S -0.9, E -0.1, D +0.0.
 - [Bermuda Railway Trail (BM)](../../../countries/BM/sights/railway-trail.yaml) — 8.2/8.3/8.0/8.7/8.8; subject minus peer: I +0.6, U +0.4, S +0.0, E +0.0, D -0.5.
 
+#### Targeted same-type comparison (2026-11-26)
+
+Core I/U/S/E/D from current YAML; editorial comparison only.
+
+- [rhaetian railway (CH)](../../../countries/CH/sights/rhaetian-railway.yaml) — 9.3/9.4/9.2/9.4/9.2; Much greater alpine scenery and length.
+- [cerdagne railway (FR)](../../../countries/FR/sights/cerdagne-railway.yaml) — 8.8/9.0/8.8/9.0/8.8; More extensive mountain railway and route breadth.
+- [darjeeling himalayan railway (IN)](../../../countries/IN/sights/darjeeling-himalayan-railway.yaml) — 9.0/9.3/9.2/9.2/9.0; More substantial historic mountain railway and settlement landscapes.
+- [alderney railway (GG)](../../../countries/GG/sights/alderney-railway.yaml) — 7.8/8.5/7.9/8.3/7.6; Shorter low-relief island railway.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -424,6 +444,15 @@ Core I/U/S/E/D, subject minus peer. Profiles from preceding audited branch snaps
 - [Ironbridge Gorge (GB)](../../../countries/GB/sights/ironbridge.yaml) — 8.5/8.9/9.2/8.8/8.7; subject minus peer: I +0.2, U -0.1, S -0.6, E +0.1, D -0.1.
 - [Museum Ship Pommern (AX)](../../../countries/AX/sights/pommern.yaml) — 8.6/9.2/8.9/8.8/8.3; subject minus peer: I +0.1, U -0.4, S -0.3, E +0.1, D +0.3.
 - [Bermuda Railway Trail (BM)](../../../countries/BM/sights/railway-trail.yaml) — 8.2/8.3/8.0/8.7/8.8; subject minus peer: I +0.5, U +0.5, S +0.6, E +0.2, D -0.2.
+
+#### Targeted same-type comparison (2026-11-26)
+
+Core I/U/S/E/D from current YAML; editorial comparison only.
+
+- [darjeeling himalayan railway (IN)](../../../countries/IN/sights/darjeeling-himalayan-railway.yaml) — 9.0/9.3/9.2/9.2/9.0; Internationally significant historic mountain railway, greater visual and cultural range.
+- [cerdagne railway (FR)](../../../countries/FR/sights/cerdagne-railway.yaml) — 8.8/9.0/8.8/9.0/8.8; Comparable extended heritage railway, different traction and scenery.
+- [alderney railway (GG)](../../../countries/GG/sights/alderney-railway.yaml) — 7.8/8.5/7.9/8.3/7.6; Much shorter operating island railway.
+- [st nicholas abbey heritage railway (BB)](../../../countries/BB/sights/st-nicholas-abbey-heritage-railway.yaml) — 7.7/8.3/7.8/8.7/6.9; More focused heritage steam attraction and shorter route.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -465,6 +494,15 @@ Core I/U/S/E/D, subject minus peer. Profiles from preceding audited branch snaps
 - [Museum Ship Pommern (AX)](../../../countries/AX/sights/pommern.yaml) — 8.6/9.2/8.9/8.8/8.3; subject minus peer: I +0.0, U -0.3, S -0.3, E +0.0, D +0.4.
 - [Bermuda Railway Trail (BM)](../../../countries/BM/sights/railway-trail.yaml) — 8.2/8.3/8.0/8.7/8.8; subject minus peer: I +0.4, U +0.6, S +0.6, E +0.1, D -0.1.
 
+#### Targeted same-type comparison (2026-11-26)
+
+Core I/U/S/E/D from current YAML; editorial comparison only.
+
+- [cerdagne railway (FR)](../../../countries/FR/sights/cerdagne-railway.yaml) — 8.8/9.0/8.8/9.0/8.8; Comparable operating historic electric railway with larger mountain scenery.
+- [rhaetian railway (CH)](../../../countries/CH/sights/rhaetian-railway.yaml) — 9.3/9.4/9.2/9.4/9.2; Much broader engineering and alpine heritage route.
+- [alderney railway (GG)](../../../countries/GG/sights/alderney-railway.yaml) — 7.8/8.5/7.9/8.3/7.6; Shorter island railway, distinct traction.
+- [darjeeling himalayan railway (IN)](../../../countries/IN/sights/darjeeling-himalayan-railway.yaml) — 9.0/9.3/9.2/9.2/9.0; Greater international rail heritage significance, different traction.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -504,6 +542,15 @@ Core I/U/S/E/D, subject minus peer. Profiles from preceding audited branch snaps
 - [Ironbridge Gorge (GB)](../../../countries/GB/sights/ironbridge.yaml) — 8.5/8.9/9.2/8.8/8.7; subject minus peer: I -0.6, U -0.1, S -0.9, E -0.6, D -1.4.
 - [Museum Ship Pommern (AX)](../../../countries/AX/sights/pommern.yaml) — 8.6/9.2/8.9/8.8/8.3; subject minus peer: I -0.7, U -0.4, S -0.6, E -0.6, D -1.0.
 - [Bermuda Railway Trail (BM)](../../../countries/BM/sights/railway-trail.yaml) — 8.2/8.3/8.0/8.7/8.8; subject minus peer: I -0.3, U +0.5, S +0.3, E -0.5, D -1.5.
+
+#### Targeted same-type comparison (2026-11-26)
+
+Core I/U/S/E/D from current YAML; editorial comparison only.
+
+- [alderney railway (GG)](../../../countries/GG/sights/alderney-railway.yaml) — 7.8/8.5/7.9/8.3/7.6; Comparable short seasonal heritage ride, different power technology.
+- [st nicholas abbey heritage railway (BB)](../../../countries/BB/sights/st-nicholas-abbey-heritage-railway.yaml) — 7.7/8.3/7.8/8.7/6.9; Short heritage ride with more developed excursion setting.
+- [cerdagne railway (FR)](../../../countries/FR/sights/cerdagne-railway.yaml) — 8.8/9.0/8.8/9.0/8.8; Much longer scenic railway, distinct electric traction.
+- [darjeeling himalayan railway (IN)](../../../countries/IN/sights/darjeeling-himalayan-railway.yaml) — 9.0/9.3/9.2/9.2/9.0; Greater historic rail heritage and extensive route, not horse-powered.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -545,6 +592,15 @@ Core I/U/S/E/D, subject minus peer. Profiles from preceding audited branch snaps
 - [Museum Ship Pommern (AX)](../../../countries/AX/sights/pommern.yaml) — 8.6/9.2/8.9/8.8/8.3; subject minus peer: I -0.5, U -0.8, S -0.8, E -0.4, D -0.5.
 - [Bermuda Railway Trail (BM)](../../../countries/BM/sights/railway-trail.yaml) — 8.2/8.3/8.0/8.7/8.8; subject minus peer: I -0.1, U +0.1, S +0.1, E -0.3, D -1.0.
 
+#### Targeted same-type comparison (2026-11-26)
+
+Core I/U/S/E/D from current YAML; editorial comparison only.
+
+- [alderney railway (GG)](../../../countries/GG/sights/alderney-railway.yaml) — 7.8/8.5/7.9/8.3/7.6; Closest compact operating island railway.
+- [st nicholas abbey heritage railway (BB)](../../../countries/BB/sights/st-nicholas-abbey-heritage-railway.yaml) — 7.7/8.3/7.8/8.7/6.9; Comparable focused heritage leisure railway.
+- [cerdagne railway (FR)](../../../countries/FR/sights/cerdagne-railway.yaml) — 8.8/9.0/8.8/9.0/8.8; Much longer route and sustained mountain scenery.
+- [darjeeling himalayan railway (IN)](../../../countries/IN/sights/darjeeling-himalayan-railway.yaml) — 9.0/9.3/9.2/9.2/9.0; Greater historic railway significance and landscape breadth.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -584,6 +640,17 @@ Core I/U/S/E/D, subject minus peer. Profiles from preceding audited branch snaps
 - [Ironbridge Gorge (GB)](../../../countries/GB/sights/ironbridge.yaml) — 8.5/8.9/9.2/8.8/8.7; subject minus peer: I +0.4, U +0.4, S -0.1, E -0.3, D -0.2.
 - [Museum Ship Pommern (AX)](../../../countries/AX/sights/pommern.yaml) — 8.6/9.2/8.9/8.8/8.3; subject minus peer: I +0.3, U +0.1, S +0.2, E -0.3, D +0.2.
 - [Bermuda Railway Trail (BM)](../../../countries/BM/sights/railway-trail.yaml) — 8.2/8.3/8.0/8.7/8.8; subject minus peer: I +0.7, U +1.0, S +1.1, E -0.2, D -0.3.
+
+#### Targeted same-type comparison (2026-11-26)
+
+Core I/U/S/E/D from current YAML; editorial comparison only.
+
+- [circuit spa (BE)](../../../countries/BE/sights/circuit-spa.yaml) — 8.3/8.7/8.5/8.5/7.9; Direct motorsport visitor experience with dedicated circuit, distinct race format.
+- [bahrain international circuit (BH)](../../../countries/BH/sights/bahrain-international-circuit.yaml) — 8.2/7.8/8.0/8.5/7.8; Purpose-built motorsport venue with different event and historical scope.
+- [monaco grand prix street circuit public route (MC)](../../../countries/MC/sights/monaco-grand-prix-street-circuit-public-route.yaml) — 7.8/8.7/8.8/7.5/7.6; Globally recognized street-racing route assessed outside guaranteed live event, narrower experience.
+- [grand prix museum (MO)](../../../countries/MO/sights/grand-prix-museum.yaml) — 7.9/8.2/7.8/8.4/8.1; Specialist motorsport interpretation, not live spectator equivalent.
+
+The TT's provisional higher rating reflects a longstanding distinct road-race tradition, and is scoped to authorized scheduled spectators only. It is not evidence of event availability or permission for road racing.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
