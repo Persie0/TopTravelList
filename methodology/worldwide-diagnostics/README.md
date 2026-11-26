@@ -1,7 +1,7 @@
 # Worldwide record-level diagnostic
 
 **250 registered areas; 16269 source records screened.**
-Ranked: 14778; unassessed: 1491.
+Ranked: 14783; unassessed: 1486.
 
 This is an automatically regenerated diagnostic, not an individual editorial reassessment or proof of bias. No scores are changed. Type is inferred from names; missing review headings may be parser limitations. Declared evidence statuses are not independent checks. Shared GPS and nearby names may denote legitimate nested attractions. Country medians depend on selection and are not country quality scores.
 
@@ -9,11 +9,11 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 
 | Flag | Records |
 | --- | ---: |
-| conflicting-declared-status | 416 |
+| conflicting-declared-status | 421 |
 | evidence-review | 13662 |
 | field-9.5-plus | 2110 |
 | historical-review-only | 2516 |
-| incomplete-core | 1491 |
+| incomplete-core | 1486 |
 | no-recognized-review-heading | 65 |
 | overall-90-plus | 1794 |
 | overall-95-plus | 159 |
@@ -383,7 +383,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | PK | cities | 14 | 13 | 76.75 | 1 | 0 | 0 | 14 | [Lahore](../../countries/PK/cities/lahore.yaml) 90.15; [Multan](../../countries/PK/cities/multan.yaml) 83.50; [Karimabad](../../countries/PK/cities/karimabad.yaml) 82.00 |
 | PK | sights | 58 | 39 | 84.65 | 3 | 0 | 0 | 58 | [Central Karakoram National Park](../../countries/PK/sights/central-karakoram.yaml) 92.20; [K2 Base Camp and Baltoro Trek](../../countries/PK/sights/k2-base-camp.yaml) 92.10; [Fort and Shalamar Gardens in Lahore](../../countries/PK/sights/lahore-fort-and-shalamar.yaml) 90.70 |
 | PL | cities | 22 | 22 | 84.00 | 3 | 0 | 1 | 22 | [Kraków](../../countries/PL/cities/krakow.yaml) 92.65; [Gdańsk](../../countries/PL/cities/gdansk.yaml) 91.50; [Warsaw](../../countries/PL/cities/warsaw.yaml) 90.95 |
-| PL | sights | 76 | 70 | 88.18 | 16 | 1 | 10 | 76 | [Auschwitz-Birkenau Memorial and Museum](../../countries/PL/sights/auschwitz-birkenau.yaml) 95.75; [Historic Centre of Kraków](../../countries/PL/sights/krakow-historic-centre.yaml) 93.60; [Castle of the Teutonic Order in Malbork](../../countries/PL/sights/malbork-castle.yaml) 93.40 |
+| PL | sights | 76 | 75 | 88.00 | 16 | 1 | 10 | 76 | [Auschwitz-Birkenau Memorial and Museum](../../countries/PL/sights/auschwitz-birkenau.yaml) 95.75; [Historic Centre of Kraków](../../countries/PL/sights/krakow-historic-centre.yaml) 93.60; [Castle of the Teutonic Order in Malbork](../../countries/PL/sights/malbork-castle.yaml) 93.40 |
 | PM | cities | 2 | 2 | 81.48 | 0 | 0 | 0 | 2 | [Saint-Pierre (Saint Pierre and Miquelon)](../../countries/PM/cities/saint-pierre.yaml) 84.10; [Miquelon village](../../countries/PM/cities/miquelon.yaml) 78.85 |
 | PM | sights | 14 | 14 | 82.50 | 0 | 0 | 0 | 14 | [Grand Barachois lagoon and Miquelon–Langlade isthmus](../../countries/PM/sights/grand-barachois.yaml) 88.90; [Île aux Marins fishing heritage and Archipélitude Museum](../../countries/PM/sights/ile-aux-marins.yaml) 88.10; [Grand Colombier seabird observation (permitted offshore tours)](../../countries/PM/sights/grand-colombier.yaml) 84.85 |
 | PN | cities | 1 | 1 | 81.55 | 0 | 0 | 0 | 1 | [Adamstown](../../countries/PN/cities/adamstown.yaml) 81.55 |
