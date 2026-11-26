@@ -2,7 +2,7 @@
 
 # Israel (IL) — Sights & attractions ranking
 
-**37 ranked** · **4 unassessed** · **41 total** · Worldwide scoring **v2**
+**40 ranked** · **1 unassessed** · **41 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (37)
+## Complete ranked list (40)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -45,23 +45,23 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 29 | [Nahal Me’arot / Wadi el-Mughara Caves](sights/nahal-mearot.yaml) | Attraction | **84.85** | **History 9.4**, **Nature 8.6** | 8.0 / 8.8 / 9.3 / 8.3 / 7.8 | [32.668611, 34.968056](https://www.google.com/maps/search/?api=1&query=32.668611,34.968056) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nahal%20Me%E2%80%99arot%20%2F%20Wadi%20el-Mughara%20Caves%2C%20Israel) |
 | 30 | [Avdat National Park](sights/avdat.yaml) | Park / reserve | **84.75** | **History 9.0**, **Architecture 8.8** | 8.4 / 8.6 / 8.8 / 8.3 / 8.0 | [30.794, 34.773](https://www.google.com/maps/search/?api=1&query=30.794,34.773) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Avdat%20National%20Park%2C%20Israel) |
 | 31 | [Old Jaffa](sights/jaffa-old-town.yaml) | Attraction | **84.50** | **History 8.9**, **Architecture 8.8**, **Culture 8.8** | 8.4 / 8.3 / 8.7 / 8.7 / 8.1 | [32.054, 34.751](https://www.google.com/maps/search/?api=1&query=32.054,34.751) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Old%20Jaffa%2C%20Israel) |
-| 32 | [En Avdat National Park](sights/en-avdat.yaml) | Park / reserve | **83.40** | **Photography 9.0**, **Nature 8.8**, **Adventure 8.4** | 8.7 / 8.3 / 8.0 / 8.5 / 7.8 | [30.826, 34.763](https://www.google.com/maps/search/?api=1&query=30.826,34.763) | [Google Maps](https://www.google.com/maps/search/?api=1&query=En%20Avdat%20National%20Park%2C%20Israel) |
-| 33 | [Ein Karem Village and Cultural Landscape](sights/ein-karem.yaml) | Historic settlement | **83.30** | **History 9.0**, **Culture 8.9**, **Architecture 8.6** | 8.2 / 8.4 / 8.8 / 8.2 / 7.8 | [31.768, 35.162](https://www.google.com/maps/search/?api=1&query=31.768,35.162) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ein%20Karem%20Village%20and%20Cultural%20Landscape%2C%20Israel) |
-| 34 | [Tel Hazor](sights/hazor.yaml) | Attraction | **82.95** | **History 9.2**, **Architecture 8.6** | 8.0 / 8.5 / 9.0 / 8.0 / 7.7 | [33.017, 35.568](https://www.google.com/maps/search/?api=1&query=33.017,35.568) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tel%20Hazor%2C%20Israel) |
-| 35 | [Montfort Castle](sights/montfort.yaml) | Palace / castle | **82.50** | **Photography 8.8**, **History 8.7**, **Architecture 8.6** | 8.4 / 8.4 / 8.5 / 8.0 / 7.3 | [33.045, 35.235](https://www.google.com/maps/search/?api=1&query=33.045,35.235) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Montfort%20Castle%2C%20Israel) |
-| 36 | [White Mosque and Tower, Ramla](sights/white-mosque-ramla.yaml) | Religious site | **81.50** | **History 9.0**, **Architecture 8.7** | 7.9 / 8.5 / 8.8 / 8.1 / 6.8 | [31.928, 34.868](https://www.google.com/maps/search/?api=1&query=31.928,34.868) | [Google Maps](https://www.google.com/maps/search/?api=1&query=White%20Mosque%20and%20Tower%2C%20Ramla%2C%20Israel) |
-| 37 | [Tel Beer Sheba](sights/tel-beer-sheba.yaml) | Attraction | **80.95** | **History 8.9**, **Architecture 8.5** | 7.8 / 8.3 / 8.7 / 8.0 / 7.4 | [31.245, 34.841](https://www.google.com/maps/search/?api=1&query=31.245,34.841) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tel%20Beer%20Sheba%2C%20Israel) |
+| 32 | [Mount Karkom](sights/mount-karkom.yaml) | Mountain / peak | **83.45** | **History 8.8**, **Nature 8.7** | 8.0 / 8.7 / 8.7 / 8.2 / 8.0 | [30.29, 34.75](https://www.google.com/maps/search/?api=1&query=30.29,34.75) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mount%20Karkom%2C%20Israel) |
+| 33 | [En Avdat National Park](sights/en-avdat.yaml) | Park / reserve | **83.40** | **Photography 9.0**, **Nature 8.8**, **Adventure 8.4** | 8.7 / 8.3 / 8.0 / 8.5 / 7.8 | [30.826, 34.763](https://www.google.com/maps/search/?api=1&query=30.826,34.763) | [Google Maps](https://www.google.com/maps/search/?api=1&query=En%20Avdat%20National%20Park%2C%20Israel) |
+| 34 | [Ein Karem Village and Cultural Landscape](sights/ein-karem.yaml) | Historic settlement | **83.30** | **History 9.0**, **Culture 8.9**, **Architecture 8.6** | 8.2 / 8.4 / 8.8 / 8.2 / 7.8 | [31.768, 35.162](https://www.google.com/maps/search/?api=1&query=31.768,35.162) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ein%20Karem%20Village%20and%20Cultural%20Landscape%2C%20Israel) |
+| 35 | [Tel Hazor](sights/hazor.yaml) | Attraction | **82.95** | **History 9.2**, **Architecture 8.6** | 8.0 / 8.5 / 9.0 / 8.0 / 7.7 | [33.017, 35.568](https://www.google.com/maps/search/?api=1&query=33.017,35.568) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tel%20Hazor%2C%20Israel) |
+| 36 | [Montfort Castle](sights/montfort.yaml) | Palace / castle | **82.50** | **Photography 8.8**, **History 8.7**, **Architecture 8.6** | 8.4 / 8.4 / 8.5 / 8.0 / 7.3 | [33.045, 35.235](https://www.google.com/maps/search/?api=1&query=33.045,35.235) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Montfort%20Castle%2C%20Israel) |
+| 37 | [Liftah (Mey Naftoah) Traditional Mountain Village](sights/liftah.yaml) | Mountain / peak | **81.55** | **History 9.0**, **Architecture 8.7** | 8.0 / 8.5 / 8.8 / 7.6 / 7.3 | [31.8, 35.2](https://www.google.com/maps/search/?api=1&query=31.8,35.2) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Liftah%20%28Mey%20Naftoah%29%20Traditional%20Mountain%20Village%2C%20Israel) |
+| 38 | [White Mosque and Tower, Ramla](sights/white-mosque-ramla.yaml) | Religious site | **81.50** | **History 9.0**, **Architecture 8.7** | 7.9 / 8.5 / 8.8 / 8.1 / 6.8 | [31.928, 34.868](https://www.google.com/maps/search/?api=1&query=31.928,34.868) | [Google Maps](https://www.google.com/maps/search/?api=1&query=White%20Mosque%20and%20Tower%2C%20Ramla%2C%20Israel) |
+| 39 | [Degania and Nahalal](sights/deganya-nahalal.yaml) | Attraction | **81.45** | **History 9.0**, **Architecture 8.3** | 7.4 / 8.6 / 8.8 / 8.1 / 8.0 | [32.708, 35.575](https://www.google.com/maps/search/?api=1&query=32.708,35.575) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Degania%20and%20Nahalal%2C%20Israel) |
+| 40 | [Tel Beer Sheba](sights/tel-beer-sheba.yaml) | Attraction | **80.95** | **History 8.9**, **Architecture 8.5** | 7.8 / 8.3 / 8.7 / 8.0 / 7.4 | [31.245, 34.841](https://www.google.com/maps/search/?api=1&query=31.245,34.841) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tel%20Beer%20Sheba%2C%20Israel) |
 
-## Not yet fully assessed (4)
+## Not yet fully assessed (1)
 
 These destinations have no rank until all five core scores are assessed.
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
-| — | [Degania and Nahalal](sights/deganya-nahalal.yaml) | Attraction | **—** | **History 9.0**, **Architecture 8.3** | 7.4 / 8.6 / 8.8 / — / — | [32.708, 35.575](https://www.google.com/maps/search/?api=1&query=32.708,35.575) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Degania%20and%20Nahalal%2C%20Israel) |
 | — | [Horvat Minnim (Khirbat al-Minya)](sights/horvat-minnim.yaml) | Attraction | **—** | **History 8.9**, **Architecture 8.5** | 7.5 / 8.2 / 8.7 / — / — | [32.867, 35.536](https://www.google.com/maps/search/?api=1&query=32.867,35.536) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Horvat%20Minnim%20%28Khirbat%20al-Minya%29%2C%20Israel) |
-| — | [Liftah (Mey Naftoah) Traditional Mountain Village](sights/liftah.yaml) | Mountain / peak | **—** | **History 9.0**, **Architecture 8.7** | 8.0 / 8.5 / 8.8 / — / — | [31.8, 35.2](https://www.google.com/maps/search/?api=1&query=31.8,35.2) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Liftah%20%28Mey%20Naftoah%29%20Traditional%20Mountain%20Village%2C%20Israel) |
-| — | [Mount Karkom](sights/mount-karkom.yaml) | Mountain / peak | **—** | **History 8.8**, **Nature 8.7** | 8.0 / 8.7 / 8.7 / — / — | [30.29, 34.75](https://www.google.com/maps/search/?api=1&query=30.29,34.75) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mount%20Karkom%2C%20Israel) |
 
 ---
 
