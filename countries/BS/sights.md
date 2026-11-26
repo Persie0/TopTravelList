@@ -2,7 +2,7 @@
 
 # Bahamas (BS) — Sights & attractions ranking
 
-**24 ranked** · **10 unassessed** · **34 total** · Worldwide scoring **v2**
+**27 ranked** · **7 unassessed** · **34 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (24)
+## Complete ranked list (27)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -32,14 +32,17 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 16 | [Queen's Staircase](sights/queens-staircase.yaml) | Attraction | **78.05** | **History 8.8**, **Photography 8.5**, **Architecture 8.3** | 7.9 / 8.0 / 8.3 / 7.7 / 6.2 | [25.073, -77.337](https://www.google.com/maps/search/?api=1&query=25.073,-77.337) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Queen%27s%20Staircase%2C%20Bahamas) |
 | 17 | [National Art Gallery of The Bahamas](sights/national-art-gallery-bahamas.yaml) | Attraction | **77.85** | **Culture 8.9**, **Architecture 8.2** | 7.5 / 7.8 / 8.1 / 8.1 / 7.5 | [25.074, -77.348](https://www.google.com/maps/search/?api=1&query=25.074,-77.348) | [Google Maps](https://www.google.com/maps/search/?api=1&query=National%20Art%20Gallery%20of%20The%20Bahamas%2C%20Bahamas) |
 | 18 | [Fort Charlotte](sights/fort-charlotte.yaml) | Fortification | **77.55** | **History 8.8**, **Architecture 8.4** | 7.7 / 7.5 / 8.2 / 7.8 / 7.6 | [25.079, -77.36](https://www.google.com/maps/search/?api=1&query=25.079,-77.36) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Fort%20Charlotte%2C%20Bahamas) |
-| 19 | [Dixon Hill Lighthouse (San Salvador)](sights/dixon-hill-lighthouse.yaml) | Attraction | **76.95** | **History 8.7**, **Photography 8.4**, **Architecture 7.9** | 7.5 / 8.0 / 8.4 / 7.5 / 6.4 | [24.0975, -74.453056](https://www.google.com/maps/search/?api=1&query=24.0975,-74.453056) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Dixon%20Hill%20Lighthouse%20%28San%20Salvador%29%2C%20Bahamas) |
-| 20 | [Fort Fincastle](sights/fort-fincastle.yaml) | Fortification | **75.50** | **History 8.6**, **Architecture 8.3**, **Photography 8.3** | 7.5 / 7.7 / 8.0 / 7.5 / 6.5 | [25.073, -77.338](https://www.google.com/maps/search/?api=1&query=25.073,-77.338) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Fort%20Fincastle%2C%20Bahamas) |
-| 21 | [Arawak Cay Fish Fry](sights/arawak-cay-fish-fry.yaml) | Attraction | **75.40** | **Food 9.0**, **Culture 8.5**, **Nightlife 8.3** | 7.3 / 7.7 / 7.5 / 8.3 / 6.8 | [25.081, -77.362](https://www.google.com/maps/search/?api=1&query=25.081,-77.362) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Arawak%20Cay%20Fish%20Fry%2C%20Bahamas) |
-| 21 | [Ocean Hole (Rock Sound)](sights/ocean-hole-rock-sound.yaml) | Attraction | **75.40** | **Nature 8.6**, **Photography 8.5** | 7.6 / 8.0 / 7.4 / 7.6 / 6.4 | [24.86, -76.166](https://www.google.com/maps/search/?api=1&query=24.86,-76.166) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ocean%20Hole%20%28Rock%20Sound%29%2C%20Bahamas) |
-| 23 | [Big Major Cay (Pig Beach)](sights/pig-beach-big-major-cay.yaml) | Beach / bay | **74.75** | **Photography 8.8**, **Beaches 8.2** | 7.9 / 8.4 / 6.2 / 7.7 / 6.1 | [24.2, -76.468](https://www.google.com/maps/search/?api=1&query=24.2,-76.468) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Big%20Major%20Cay%20%28Pig%20Beach%29%2C%20Bahamas) |
-| 24 | [Cable Beach](sights/cable-beach.yaml) | Beach / bay | **72.95** | **Beaches 8.9**, **Relaxation 8.8** | 7.7 / 6.9 / 6.5 / 8.4 / 7.0 | [25.079, -77.421](https://www.google.com/maps/search/?api=1&query=25.079,-77.421) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cable%20Beach%2C%20Bahamas) |
+| 19 | [Hole-in-the-Wall Lighthouse](sights/hole-in-the-wall-lighthouse.yaml) | Attraction | **77.40** | — | 7.8 / 8.0 / 8.1 / 7.0 / 7.3 | [25.861944, -77.199722](https://www.google.com/maps/search/?api=1&query=25.861944,-77.199722) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hole-in-the-Wall%20Lighthouse%2C%20Bahamas) |
+| 20 | [Southwest Point Lighthouse (Inagua)](sights/southwest-point-lighthouse.yaml) | Attraction | **77.15** | — | 7.6 / 7.7 / 8.0 / 7.8 / 7.4 | [20.934167, -73.673611](https://www.google.com/maps/search/?api=1&query=20.934167,-73.673611) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Southwest%20Point%20Lighthouse%20%28Inagua%29%2C%20Bahamas) |
+| 21 | [Dixon Hill Lighthouse (San Salvador)](sights/dixon-hill-lighthouse.yaml) | Attraction | **76.95** | **History 8.7**, **Photography 8.4**, **Architecture 7.9** | 7.5 / 8.0 / 8.4 / 7.5 / 6.4 | [24.0975, -74.453056](https://www.google.com/maps/search/?api=1&query=24.0975,-74.453056) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Dixon%20Hill%20Lighthouse%20%28San%20Salvador%29%2C%20Bahamas) |
+| 22 | [Fort Fincastle](sights/fort-fincastle.yaml) | Fortification | **75.50** | **History 8.6**, **Architecture 8.3**, **Photography 8.3** | 7.5 / 7.7 / 8.0 / 7.5 / 6.5 | [25.073, -77.338](https://www.google.com/maps/search/?api=1&query=25.073,-77.338) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Fort%20Fincastle%2C%20Bahamas) |
+| 23 | [Arawak Cay Fish Fry](sights/arawak-cay-fish-fry.yaml) | Attraction | **75.40** | **Food 9.0**, **Culture 8.5**, **Nightlife 8.3** | 7.3 / 7.7 / 7.5 / 8.3 / 6.8 | [25.081, -77.362](https://www.google.com/maps/search/?api=1&query=25.081,-77.362) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Arawak%20Cay%20Fish%20Fry%2C%20Bahamas) |
+| 23 | [Ocean Hole (Rock Sound)](sights/ocean-hole-rock-sound.yaml) | Attraction | **75.40** | **Nature 8.6**, **Photography 8.5** | 7.6 / 8.0 / 7.4 / 7.6 / 6.4 | [24.86, -76.166](https://www.google.com/maps/search/?api=1&query=24.86,-76.166) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ocean%20Hole%20%28Rock%20Sound%29%2C%20Bahamas) |
+| 25 | [Big Major Cay (Pig Beach)](sights/pig-beach-big-major-cay.yaml) | Beach / bay | **74.75** | **Photography 8.8**, **Beaches 8.2** | 7.9 / 8.4 / 6.2 / 7.7 / 6.1 | [24.2, -76.468](https://www.google.com/maps/search/?api=1&query=24.2,-76.468) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Big%20Major%20Cay%20%28Pig%20Beach%29%2C%20Bahamas) |
+| 26 | [Great Isaac Lighthouse](sights/great-isaac-lighthouse.yaml) | Attraction | **74.05** | — | 7.6 / 7.8 / 7.6 / 6.5 / 6.8 | [26.028333, -79.088889](https://www.google.com/maps/search/?api=1&query=26.028333,-79.088889) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Great%20Isaac%20Lighthouse%2C%20Bahamas) |
+| 27 | [Cable Beach](sights/cable-beach.yaml) | Beach / bay | **72.95** | **Beaches 8.9**, **Relaxation 8.8** | 7.7 / 6.9 / 6.5 / 8.4 / 7.0 | [25.079, -77.421](https://www.google.com/maps/search/?api=1&query=25.079,-77.421) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cable%20Beach%2C%20Bahamas) |
 
-## Not yet fully assessed (10)
+## Not yet fully assessed (7)
 
 These destinations have no rank until all five core scores are assessed.
 
@@ -49,12 +52,9 @@ These destinations have no rank until all five core scores are assessed.
 | — | [Castle Island Lighthouse](sights/castle-island-lighthouse.yaml) | Palace / castle | **—** | — | — / — / — / — / — | [22.125833, -74.328056](https://www.google.com/maps/search/?api=1&query=22.125833,-74.328056) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Castle%20Island%20Lighthouse%2C%20Bahamas) |
 | — | [Cay Lobos Lighthouse](sights/cay-lobos-lighthouse.yaml) | Attraction | **—** | — | — / — / — / — / — | [22.4, -77.533333](https://www.google.com/maps/search/?api=1&query=22.4,-77.533333) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cay%20Lobos%20Lighthouse%2C%20Bahamas) |
 | — | [Cay Sal Lighthouse (Elbow Cay)](sights/cay-sal-lighthouse.yaml) | Attraction | **—** | — | — / — / — / — / — | [23.7, -80.4](https://www.google.com/maps/search/?api=1&query=23.7,-80.4) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cay%20Sal%20Lighthouse%20%28Elbow%20Cay%29%2C%20Bahamas) |
-| — | [Great Isaac Lighthouse](sights/great-isaac-lighthouse.yaml) | Attraction | **—** | — | — / — / — / — / — | [26.028333, -79.088889](https://www.google.com/maps/search/?api=1&query=26.028333,-79.088889) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Great%20Isaac%20Lighthouse%2C%20Bahamas) |
 | — | [Great Stirrup Cay Lighthouse](sights/great-stirrup-cay-lighthouse.yaml) | Attraction | **—** | — | — / — / — / — / — | [25.823056, -77.906389](https://www.google.com/maps/search/?api=1&query=25.823056,-77.906389) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Great%20Stirrup%20Cay%20Lighthouse%2C%20Bahamas) |
 | — | [Gun Cay Lighthouse](sights/gun-cay-lighthouse.yaml) | Attraction | **—** | — | — / — / — / — / — | [25.570278, -79.2975](https://www.google.com/maps/search/?api=1&query=25.570278,-79.2975) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Gun%20Cay%20Lighthouse%2C%20Bahamas) |
 | — | [Historic Lighthouses of the Bahamas (serial tentative property)](sights/historic-lighthouses-serial-property.yaml) | Attraction | **—** | — | — / — / — / — / — | [26.533056, -76.961389](https://www.google.com/maps/search/?api=1&query=26.533056,-76.961389) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Historic%20Lighthouses%20of%20the%20Bahamas%20%28serial%20tentative%20property%29%2C%20Bahamas) |
-| — | [Hole-in-the-Wall Lighthouse](sights/hole-in-the-wall-lighthouse.yaml) | Attraction | **—** | — | — / — / — / — / — | [25.861944, -77.199722](https://www.google.com/maps/search/?api=1&query=25.861944,-77.199722) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hole-in-the-Wall%20Lighthouse%2C%20Bahamas) |
-| — | [Southwest Point Lighthouse (Inagua)](sights/southwest-point-lighthouse.yaml) | Attraction | **—** | — | — / — / — / — / — | [20.934167, -73.673611](https://www.google.com/maps/search/?api=1&query=20.934167,-73.673611) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Southwest%20Point%20Lighthouse%20%28Inagua%29%2C%20Bahamas) |
 
 ---
 
