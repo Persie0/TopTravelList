@@ -2,7 +2,7 @@
 
 # Venezuela (VE) — Sights & attractions ranking
 
-**38 ranked** · **5 unassessed** · **43 total** · Worldwide scoring **v2**
+**39 ranked** · **4 unassessed** · **43 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (38)
+## Complete ranked list (39)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -46,14 +46,15 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 30 | [Cayo Sombrero](sights/cayo-sombrero.yaml) | Attraction | **79.65** | **Beaches 9.3**, **Relaxation 9.0**, **Photography 8.9** | 8.6 / 8.1 / 6.5 / 8.8 / 7.4 | [10.885, -68.207](https://www.google.com/maps/search/?api=1&query=10.885,-68.207) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cayo%20Sombrero%2C%20Venezuela) |
 | 31 | [Madrisquí](sights/madrisqui.yaml) | Attraction | **78.40** | **Beaches 9.1**, **Relaxation 9.0** | 8.4 / 8.0 / 6.5 / 8.8 / 7.0 | [11.941, -66.651](https://www.google.com/maps/search/?api=1&query=11.941,-66.651) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Madrisqu%C3%AD%2C%20Venezuela) |
 | 32 | [La Vela de Coro Historic Port](sights/la-vela-de-coro-historic-port.yaml) | Attraction | **78.25** | **History 9.0**, **Architecture 8.6**, **Culture 8.5** | 7.5 / 8.2 / 8.6 / 7.5 / 6.8 | [11.458639, -69.568217](https://www.google.com/maps/search/?api=1&query=11.458639,-69.568217) | [Google Maps](https://www.google.com/maps/search/?api=1&query=La%20Vela%20de%20Coro%20Historic%20Port%2C%20Venezuela) |
-| 33 | [Castillo San Carlos de Borromeo (Pampatar)](sights/castillo-san-carlos-de-borromeo-pampatar.yaml) | Attraction | **77.00** | **History 8.8**, **Architecture 8.3** | 7.4 / 7.8 / 8.4 / 7.8 / 6.8 | [11.0, -63.795](https://www.google.com/maps/search/?api=1&query=11.0,-63.795) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Castillo%20San%20Carlos%20de%20Borromeo%20%28Pampatar%29%2C%20Venezuela) |
-| 34 | [Playa Grande (Choroní)](sights/playa-grande-choroni.yaml) | Attraction | **76.90** | **Beaches 8.9**, **Photography 8.7**, **Relaxation 8.5** | 8.3 / 7.9 / 6.3 / 8.3 / 7.2 | [10.49, -67.608](https://www.google.com/maps/search/?api=1&query=10.49,-67.608) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Playa%20Grande%20%28Choron%C3%AD%29%2C%20Venezuela) |
-| 35 | [Teleférico de Caracas](sights/teleferico-de-caracas.yaml) | Attraction | **76.40** | **Photography 8.9**, **Relaxation 8.3** | 8.1 / 7.7 / 6.8 / 8.1 / 7.1 | [10.511, -66.876](https://www.google.com/maps/search/?api=1&query=10.511,-66.876) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Telef%C3%A9rico%20de%20Caracas%2C%20Venezuela) |
-| 36 | [Parque del Este (Caracas)](sights/parque-del-este-caracas.yaml) | Attraction | **76.35** | **Relaxation 8.4**, **Nature 8.2**, **Architecture 8.0** | 7.5 / 7.7 / 7.4 / 8.0 / 7.8 | [10.494, -66.842](https://www.google.com/maps/search/?api=1&query=10.494,-66.842) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Parque%20del%20Este%20%28Caracas%29%2C%20Venezuela) |
-| 37 | [Castillo Santa Rosa (La Asunción)](sights/castillo-santa-rosa-la-asuncion.yaml) | Attraction | **75.70** | **History 8.5**, **Photography 8.3**, **Architecture 8.1** | 7.4 / 7.7 / 8.1 / 7.7 / 6.5 | [11.031, -63.864](https://www.google.com/maps/search/?api=1&query=11.031,-63.864) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Castillo%20Santa%20Rosa%20%28La%20Asunci%C3%B3n%29%2C%20Venezuela) |
-| 38 | [Playa El Agua](sights/playa-el-agua.yaml) | Attraction | **75.40** | **Beaches 8.9**, **Relaxation 8.6** | 8.2 / 7.6 / 6.0 / 8.4 / 7.2 | [11.145, -63.861](https://www.google.com/maps/search/?api=1&query=11.145,-63.861) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Playa%20El%20Agua%2C%20Venezuela) |
+| 33 | [Museo de Bellas Artes (Caracas)](sights/museo-de-bellas-artes-caracas.yaml) | Attraction | **78.05** | **Culture 8.5**, **Architecture 8.0** | 7.8 / 7.5 / 8.0 / 8.0 / 7.9 | [10.5, -66.898](https://www.google.com/maps/search/?api=1&query=10.5,-66.898) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Museo%20de%20Bellas%20Artes%20%28Caracas%29%2C%20Venezuela) |
+| 34 | [Castillo San Carlos de Borromeo (Pampatar)](sights/castillo-san-carlos-de-borromeo-pampatar.yaml) | Attraction | **77.00** | **History 8.8**, **Architecture 8.3** | 7.4 / 7.8 / 8.4 / 7.8 / 6.8 | [11.0, -63.795](https://www.google.com/maps/search/?api=1&query=11.0,-63.795) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Castillo%20San%20Carlos%20de%20Borromeo%20%28Pampatar%29%2C%20Venezuela) |
+| 35 | [Playa Grande (Choroní)](sights/playa-grande-choroni.yaml) | Attraction | **76.90** | **Beaches 8.9**, **Photography 8.7**, **Relaxation 8.5** | 8.3 / 7.9 / 6.3 / 8.3 / 7.2 | [10.49, -67.608](https://www.google.com/maps/search/?api=1&query=10.49,-67.608) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Playa%20Grande%20%28Choron%C3%AD%29%2C%20Venezuela) |
+| 36 | [Teleférico de Caracas](sights/teleferico-de-caracas.yaml) | Attraction | **76.40** | **Photography 8.9**, **Relaxation 8.3** | 8.1 / 7.7 / 6.8 / 8.1 / 7.1 | [10.511, -66.876](https://www.google.com/maps/search/?api=1&query=10.511,-66.876) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Telef%C3%A9rico%20de%20Caracas%2C%20Venezuela) |
+| 37 | [Parque del Este (Caracas)](sights/parque-del-este-caracas.yaml) | Attraction | **76.35** | **Relaxation 8.4**, **Nature 8.2**, **Architecture 8.0** | 7.5 / 7.7 / 7.4 / 8.0 / 7.8 | [10.494, -66.842](https://www.google.com/maps/search/?api=1&query=10.494,-66.842) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Parque%20del%20Este%20%28Caracas%29%2C%20Venezuela) |
+| 38 | [Castillo Santa Rosa (La Asunción)](sights/castillo-santa-rosa-la-asuncion.yaml) | Attraction | **75.70** | **History 8.5**, **Photography 8.3**, **Architecture 8.1** | 7.4 / 7.7 / 8.1 / 7.7 / 6.5 | [11.031, -63.864](https://www.google.com/maps/search/?api=1&query=11.031,-63.864) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Castillo%20Santa%20Rosa%20%28La%20Asunci%C3%B3n%29%2C%20Venezuela) |
+| 39 | [Playa El Agua](sights/playa-el-agua.yaml) | Attraction | **75.40** | **Beaches 8.9**, **Relaxation 8.6** | 8.2 / 7.6 / 6.0 / 8.4 / 7.2 | [11.145, -63.861](https://www.google.com/maps/search/?api=1&query=11.145,-63.861) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Playa%20El%20Agua%2C%20Venezuela) |
 
-## Not yet fully assessed (5)
+## Not yet fully assessed (4)
 
 These destinations have no rank until all five core scores are assessed.
 
@@ -61,7 +62,6 @@ These destinations have no rank until all five core scores are assessed.
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
 | — | [Auyán-tepui (summit landscape)](sights/auyan-tepui-summit-landscape.yaml) | Coast | **—** | **Nature 9.8**, **Photography 9.6** | — / 9.7 / 9.4 / — / — | [5.9, -62.55](https://www.google.com/maps/search/?api=1&query=5.9,-62.55) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Auy%C3%A1n-tepui%20%28summit%20landscape%29%2C%20Venezuela) |
 | — | [Catatumbo Lightning (Lake Maracaibo)](sights/catatumbo-lightning-lake-maracaibo.yaml) | Lake | **—** | **Photography 9.7**, **Nature 9.5** | — / 9.7 / 8.4 / — / — | [9.12, -71.63](https://www.google.com/maps/search/?api=1&query=9.12,-71.63) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Catatumbo%20Lightning%20%28Lake%20Maracaibo%29%2C%20Venezuela) |
-| — | [Museo de Bellas Artes (Caracas)](sights/museo-de-bellas-artes-caracas.yaml) | Attraction | **—** | **Culture 8.5**, **Architecture 8.0** | — / 7.5 / 8.0 / — / — | [10.5, -66.898](https://www.google.com/maps/search/?api=1&query=10.5,-66.898) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Museo%20de%20Bellas%20Artes%20%28Caracas%29%2C%20Venezuela) |
 | — | [Pico Bolívar](sights/pico-bolivar.yaml) | Attraction | **—** | **Adventure 9.4**, **Nature 9.3** | — / 8.7 / 8.7 / — / — | [8.54, -71.047](https://www.google.com/maps/search/?api=1&query=8.54,-71.047) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Pico%20Bol%C3%ADvar%2C%20Venezuela) |
 | — | [Santos Luzardo National Park (Cinaruco-Capanaparo)](sights/santos-luzardo-national-park-cinaruco-capanaparo.yaml) | Park / reserve | **—** | **Wildlife 9.3**, **Nature 9.2** | — / 8.5 / 8.8 / — / — | [6.7, -67.3](https://www.google.com/maps/search/?api=1&query=6.7,-67.3) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Santos%20Luzardo%20National%20Park%20%28Cinaruco-Capanaparo%29%2C%20Venezuela) |
 
