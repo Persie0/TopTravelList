@@ -354,3 +354,15 @@ Six additions, 24 peer comparisons with ranked dimension values. US now 124 rank
 - [x] US — Savannah Historic District: 89.90/100 (source-linked-unverified).
 
 Six additions, 24 peer comparisons with ranked dimension values. US now 130 ranked/130 total. Official visitor and heritage sources and published coordinates inspected. Balboa public spaces exclude the zoo and ticketed museum interiors, San Diego Zoo excludes Safari Park, district coordinates represent Jackson Square and Johnson Square. Animal welfare and conservation outcomes not assessed. Monterey Bay Aquarium incorrectly inherits lexical Beach / bay type; historic districts retain generic type. Existing ratings unchanged. Full peer YAML check, Python validation and diagnostics pending. Next: US Pearl Harbor USS Arizona Memorial, USS Midway Museum, Smithsonian National Museum of Natural History, Boston Freedom Trail, New York Grand Central Terminal, and San Francisco Golden Gate Park.
+
+
+### Pass 35 — US landmark backlog and country stopping rule
+
+- [x] US — USS Arizona Memorial (Pearl Harbor): 90.05/100 (source-linked-unverified).
+- [x] US — USS Midway Museum: 90.35/100 (source-linked-unverified).
+- [x] US — Smithsonian National Museum of Natural History: 92.85/100 (source-linked-unverified).
+- [x] US — Boston Freedom Trail: 90.35/100 (source-linked-unverified).
+- [x] US — Grand Central Terminal: 87.10/100 (source-linked-unverified).
+- [x] US — Golden Gate Park: 87.70/100 (source-linked-unverified).
+
+Six additions, 24 peer comparisons; US 136 ranked. Published map coordinates and primary visitor sources inspected. Scope exclusions documented. No existing ratings changed. User-directed stopping rule: [country screening status](missing-sights-country-status.md) records DONE for exhausted high-value queues; do not add filler to meet a quota. KR and ID current queues closed, US paused with known residual candidates rather than falsely marked complete. Rotate to NZ next. Full peer YAML verification, Python validation and diagnostics pending.

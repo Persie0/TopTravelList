@@ -4689,3 +4689,231 @@ Peer dimensions from current country ranking tables or same-batch assessments; f
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 assessment; earlier decision: none.
 - Verification still needed: independent corroboration and current access.
+
+## sight-us-uss-arizona-memorial — USS Arizona Memorial (Pearl Harbor) — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/uss-arizona-memorial.yaml)
+- Action: new
+- Precise subject: Memorial program only; excludes other Pearl Harbor museums and memorials. GPS denotes memorial, not departure point.
+- Location check: 21.36488, -157.95001; [published representative point](https://mapcarta.com/W51804371), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: NPS documents the reserved boat program and memorial visit, subject to operating conditions. [Primary reference](https://www.nps.gov/perl/uss-arizona-memorial-programs.htm); inspected 2026-11-26. Sources support scope and facts, not numerical judgments.
+- Missing or uncertain facts: complete independent corroboration and current access to individual areas.
+
+#### Worldwide peer comparisons
+
+| Peer | Ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [AU/australian-war-memorial](../../../countries/AU/sights/australian-war-memorial.yaml) | 9.0 / 9.1 / 9.3 / 9.0 / 9.2 | Broader national history galleries. |
+| [KR/war-memorial-of-korea](../../../countries/KR/sights/war-memorial-of-korea.yaml) | 8.8 / 8.9 / 9.3 / 9.2 / 9.3 | Broader military history. |
+| [DE/topography-of-terror](../../../countries/DE/sights/topography-of-terror.yaml) | 8.9 / 9.1 / 9.4 / 9.0 / 8.5 | Authentic documentary site with different historical focus. |
+| [US/national-wwii-museum](../../../countries/US/sights/national-wwii-museum.yaml) | 9.1 / 9.2 / 9.3 / 9.2 / 9.4 | Extensive historical interpretation rather than focused memorial. |
+
+Peer dimensions from existing ranking tables; full source YAML recheck pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Solemn memorial setting creates profound impact |
+| Uniqueness | 9.3 | authentic commemorative location is difficult to substitute |
+| Significance | 9.4 | internationally consequential history |
+| Experience | 8.8 | reflective visit is meaningful but access constrained |
+| Depth | 7.8 | bounded memorial visit limits breadth. |
+
+- Applicable categories: history:9.4, culture:9.1.
+- Computed worldwide overall: 90.05/100.
+- High-score challenge: Above 90 reflects the specific historical/scientific significance and visitor scope described above; compare the broader institutions and ensembles in the peer table. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-us-uss-midway-museum — USS Midway Museum — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/uss-midway-museum.yaml)
+- Action: new
+- Precise subject: Preserved museum ship and standard public historical exhibits; excludes nearby maritime museums.
+- Location check: 32.71395, -117.17487; [published representative point](https://mapcarta.com/35986162), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Museum documents extensive historical aviation displays and self-guided interpretation. [Primary reference](https://www.midway.org/visit/our-exhibits); inspected 2026-11-26. Sources support scope and facts, not numerical judgments.
+- Missing or uncertain facts: complete independent corroboration and current access to individual areas.
+
+#### Worldwide peer comparisons
+
+| Peer | Ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [US/national-air-and-space-museum-dc](../../../countries/US/sights/national-air-and-space-museum-dc.yaml) | 9.1 / 9.3 / 9.4 / 9.1 / 9.1 | Broader aerospace heritage. |
+| [US/national-wwii-museum](../../../countries/US/sights/national-wwii-museum.yaml) | 9.1 / 9.2 / 9.3 / 9.2 / 9.4 | Broader historical narrative. |
+| [AU/australian-war-memorial](../../../countries/AU/sights/australian-war-memorial.yaml) | 9.0 / 9.1 / 9.3 / 9.0 / 9.2 | Broader national history. |
+| [KR/war-memorial-of-korea](../../../countries/KR/sights/war-memorial-of-korea.yaml) | 8.8 / 8.9 / 9.3 / 9.2 / 9.3 | Different national historical focus. |
+
+Peer dimensions from existing ranking tables; full source YAML recheck pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Large preserved ship creates strong spatial impact |
+| Uniqueness | 9.1 | ship-based museum and aviation collection provide distinctive context |
+| Significance | 9.0 | notable twentieth-century heritage |
+| Experience | 9.2 | interpretive exhibits reward visitors |
+| Depth | 9.1 | extensive public exhibit areas provide depth. |
+
+- Applicable categories: history:9.2, culture:8.8, family:8.9.
+- Computed worldwide overall: 90.35/100.
+- High-score challenge: Above 90 reflects the specific historical/scientific significance and visitor scope described above; compare the broader institutions and ensembles in the peer table. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-us-smithsonian-national-museum-of-natural-history — Smithsonian National Museum of Natural History — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/smithsonian-national-museum-of-natural-history.yaml)
+- Action: new
+- Precise subject: Washington DC main public museum galleries; excludes other Smithsonian sites and nonpublic collections.
+- Location check: 38.89125, -77.02597; [published representative point](https://mapcarta.com/20625192), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Museum map and https://naturalhistory.si.edu/exhibits identify fossils, human origins, ocean, gems and minerals and mammal galleries; temporary availability may vary. [Primary reference](https://naturalhistory.si.edu/visit/map); inspected 2026-11-26. Sources support scope and facts, not numerical judgments.
+- Missing or uncertain facts: complete independent corroboration and current access to individual areas.
+
+#### Worldwide peer comparisons
+
+| Peer | Ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [US/american-museum-of-natural-history](../../../countries/US/sights/american-museum-of-natural-history.yaml) | 9.2 / 9.2 / 9.3 / 9.2 / 9.4 | Comparable breadth and distinct collections. |
+| [US/field-museum](../../../countries/US/sights/field-museum.yaml) | 9.2 / 9.2 / 9.3 / 9.2 / 9.4 | Comparable fossil and cultural collections. |
+| [GB/natural-history-museum](../../../countries/GB/sights/natural-history-museum.yaml) | 9.2 / 9.1 / 9.3 / 9.3 / 9.3 | Comparable international institution. |
+| [CA/royal-ontario-museum](../../../countries/CA/sights/royal-ontario-museum.yaml) | 9.1 / 9.1 / 9.2 / 9.2 / 9.4 | Broader world-culture emphasis. |
+
+Peer dimensions from existing ranking tables; full source YAML recheck pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.2 | Major fossils and minerals offer exceptional impact |
+| Uniqueness | 9.3 | distinctive anchors and scientific breadth |
+| Significance | 9.4 | internationally important natural-history collections |
+| Experience | 9.2 | varied exhibitions support learning |
+| Depth | 9.4 | extensive public galleries offer sustained exploration. |
+
+- Applicable categories: nature:9.4, family:9.3, history:9.1, culture:9.0.
+- Computed worldwide overall: 92.85/100.
+- High-score challenge: Above 90 reflects the specific historical/scientific significance and visitor scope described above; compare the broader institutions and ensembles in the peer table. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-us-boston-freedom-trail — Boston Freedom Trail — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/boston-freedom-trail.yaml)
+- Action: new
+- Precise subject: Marked 2.5-mile historic walking route; excludes separately ticketed interiors from the assumed standard experience. GPS is Boston Common visitor centre.
+- Location check: 42.35547, -71.06391; [published representative point](https://mapcarta.com/W24677646), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Foundation documents 16 historic stops and a marked route connecting them; guided and independent walks are available. Individual stop access and fees differ. [Primary reference](https://www.thefreedomtrail.org/visit); inspected 2026-11-26. Sources support scope and facts, not numerical judgments.
+- Missing or uncertain facts: complete independent corroboration and current access to individual areas.
+
+#### Worldwide peer comparisons
+
+| Peer | Ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [US/independence-hall](../../../countries/US/sights/independence-hall.yaml) | 8.1 / 8.8 / 9.4 / 8.4 / 7.8 | Focused original building with greater individual significance. |
+| [CA/old-quebec](../../../countries/CA/sights/old-quebec.yaml) | 9.0 / 9.0 / 9.2 / 8.9 / 8.8 | Fortified historic district rather than themed route. |
+| [US/savannah-historic-district](../../../countries/US/sights/savannah-historic-district.yaml) | 8.9 / 9.0 / 9.1 / 9.0 / 9.0 | Distinctive historic plan rather than linked historical narrative. |
+| [US/national-mall-and-memorial-parks](../../../countries/US/sights/national-mall-and-memorial-parks.yaml) | 9.0 / 9.0 / 9.3 / 9.0 / 9.2 | Comparable connected civic heritage experience. |
+
+Peer dimensions from existing ranking tables; full source YAML recheck pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Layered historic streets and buildings offer memorable impact |
+| Uniqueness | 9.0 | coherent marked historic route is distinctive |
+| Significance | 9.3 | important American revolutionary and civic history |
+| Experience | 9.1 | walking and interpretation make a rewarding visit |
+| Depth | 9.2 | sixteen stops support substantial exploration. |
+
+- Applicable categories: history:9.4, architecture:9.0, culture:9.1.
+- Computed worldwide overall: 90.35/100.
+- High-score challenge: Above 90 reflects the specific historical/scientific significance and visitor scope described above; compare the broader institutions and ensembles in the peer table. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-us-grand-central-terminal — Grand Central Terminal — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/grand-central-terminal.yaml)
+- Action: new
+- Precise subject: Public historic terminal architecture and accessible concourse; excludes train journeys and separately purchased commercial experiences.
+- Location check: 40.75265, -73.97728; [published representative point](https://mapcarta.com/W265947358), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Official terminal visitor highlights include Main Concourse ceiling, architectural details and public spaces. [Primary reference](https://grandcentralterminal.com/what-to-see/); inspected 2026-11-26. Sources support scope and facts, not numerical judgments.
+- Missing or uncertain facts: complete independent corroboration and current access to individual areas.
+
+#### Worldwide peer comparisons
+
+| Peer | Ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [US/empire-state-building](../../../countries/US/sights/empire-state-building.yaml) | 9.1 / 8.9 / 9.0 / 8.8 / 8.0 | Different iconic architecture and elevated visitor viewpoint. |
+| [US/chicago-auditorium-building](../../../countries/US/sights/chicago-auditorium-building.yaml) | 8.2 / 8.5 / 8.8 / 8.0 / 7.5 | Comparable historic civic architecture with narrower public access. |
+| [US/times-square](../../../countries/US/sights/times-square.yaml) | 9.0 / 9.0 / 8.5 / 8.4 / 7.2 | Commercial spectacle rather than historic interior. |
+| [US/millennium-park-chicago](../../../countries/US/sights/millennium-park-chicago.yaml) | 8.7 / 8.6 / 8.1 / 8.8 / 8.5 | Broader contemporary public landscape. |
+
+Peer dimensions from existing ranking tables; full source YAML recheck pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Monumental concourse produces strong visual impact |
+| Uniqueness | 8.8 | civic railway architecture and ceiling distinguish the building |
+| Significance | 9.0 | important transportation and urban heritage |
+| Experience | 8.6 | accessible architectural exploration rewards a short visit |
+| Depth | 7.8 | bounded public interior limits depth. |
+
+- Applicable categories: architecture:9.3, history:9.1, photography:9.0.
+- Computed worldwide overall: 87.10/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-us-golden-gate-park — Golden Gate Park — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/golden-gate-park.yaml)
+- Action: new
+- Precise subject: Public urban park landscapes, free gardens, trails and lakes; excludes separately ticketed museums, gardens and nearby Golden Gate Bridge.
+- Location check: 37.7694, -122.48202; [published representative point](https://mapcarta.com/23051398), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: City park authority documents 1,017 acres, lakes, meadows and recreation; history page describes transformation of dunes since 1870 (https://www.sfrecpark.org/1119/History-of-Golden-Gate-Park). [Primary reference](https://sfrecpark.org/770/Golden-Gate-Park); inspected 2026-11-26. Sources support scope and facts, not numerical judgments.
+- Missing or uncertain facts: complete independent corroboration and current access to individual areas.
+
+#### Worldwide peer comparisons
+
+| Peer | Ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [US/central-park](../../../countries/US/sights/central-park.yaml) | 8.7 / 8.7 / 8.7 / 9.0 / 8.8 | Comparable historic urban landscape. |
+| [US/balboa-park](../../../countries/US/sights/balboa-park.yaml) | 8.9 / 8.8 / 8.9 / 9.1 / 9.2 | Stronger exposition architecture; comparable outdoor depth. |
+| [CA/stanley-park](../../../countries/CA/sights/stanley-park.yaml) | 8.4 / 8.1 / 7.8 / 8.8 / 8.4 | Natural forest and waterfront emphasis. |
+| [US/high-line-park](../../../countries/US/sights/high-line-park.yaml) | 8.5 / 8.8 / 8.5 / 8.9 / 8.4 | Distinctive linear reused infrastructure but smaller landscape. |
+
+Peer dimensions from existing ranking tables; full source YAML recheck pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Varied public landscapes deliver strong scenic impact |
+| Uniqueness | 8.6 | extensive dune-to-park transformation adds identity |
+| Significance | 8.7 | significant urban park history |
+| Experience | 9.0 | trails and recreation reward extended visits |
+| Depth | 9.2 | large park provides substantial exploration depth. |
+
+- Applicable categories: nature:8.9, relaxation:9.2, photography:8.9, family:8.9.
+- Computed worldwide overall: 87.70/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.

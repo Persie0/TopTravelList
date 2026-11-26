@@ -1,0 +1,16 @@
+id: sight-us-boston-freedom-trail
+name: "Boston Freedom Trail"
+location:
+  country_code: US
+  latitude: 42.35547
+  longitude: -71.06391
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 9.3
+  experience: 9.1
+  depth: 9.2
+  categories:
+    history: 9.4
+    architecture: 9.0
+    culture: 9.1
