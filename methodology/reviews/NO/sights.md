@@ -956,3 +956,143 @@ All 20 city and 48 sight core vectors screened. I/U/S, GPS and categories unchan
 - Verification still needed: precise representative GPS and current availability of specific indoor rooms and demonstrations.
 
 Inventory scope: all eight inscribed and six tentative UNESCO properties represented per [UNESCO](https://whc.unesco.org/en/statesparties/no/). The open-air museum is added; the National Museum of Art, Maihaugen, Stegastein, and further national parks are candidates for expansion, not evidence of exhaustive tourism coverage. Source links now exist for every record, but independent factual/GPS verification remains incomplete.
+
+
+### sight-no-segla — Segla summit hike — 2026-11-26
+
+- YAML: [source](../../../countries/NO/sights/segla.yaml)
+- Action: new
+- Precise subject and factual basis: Steep summit hike on Senja, not the entire island; summit pin. [Visitor information](https://www.earthtrekkers.com/hike-segla-one-of-senjas-most-popular-hikes/); source excerpts inspected 2026-11-26.
+- Location check: 69.50737, 17.59572; [published reference](https://mapcarta.com/18789350); representative point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and coordinate references checked; independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [NO/senja](../../../countries/NO/sights/senja.yaml) | Parent island broader |
+| [NO/besseggen](../../../countries/NO/sights/besseggen.yaml) | Longer ridge and lake views |
+| [NO/preikestolen](../../../countries/NO/sights/preikestolen.yaml) | More iconic cliff platform |
+| [NO/kjerag](../../../countries/NO/sights/kjerag.yaml) | Different exposed rock formations |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 9.1 | Striking fjord relief |
+| uniqueness | 8.7 | Distinctive steep peak |
+| significance | 8.0 | Local mountain landscape |
+| experience | 8.8 | Rewarding demanding hike |
+| depth | 8.0 | Single route |
+
+- Applicable categories: nature:9.1, photography:9.3, adventure:9.0.
+- Computed worldwide overall: 86.25/100.
+- High-score challenge: Below 90 overall. No 9.5+ field or category.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+### sight-no-romsdalseggen — Romsdalseggen ridge hike — 2026-11-26
+
+- YAML: [source](../../../countries/NO/sights/romsdalseggen.yaml)
+- Action: new
+- Precise subject and factual basis: Ridge route from Vengedalen to Åndalsnes; Vengedalen trailhead pin. Separate from standalone Rampestreken ascent. [Visitor information](https://www.visitnorway.com/listings/hiking-the-romsdalseggen-ridge/235996/); source excerpts inspected 2026-11-26.
+- Location check: 62.5364, 7.8261; [published reference](https://thephotohikes.com/romsdalseggen-ridge-hike/); representative point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and coordinate references checked; independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [NO/besseggen](../../../countries/NO/sights/besseggen.yaml) | Comparable iconic ridge |
+| [NO/trolltunga](../../../countries/NO/sights/trolltunga.yaml) | More concentrated landmark |
+| [NO/jotunheimen](../../../countries/NO/sights/jotunheimen.yaml) | Parent-scale landscape breadth |
+| [NO/kjerag](../../../countries/NO/sights/kjerag.yaml) | Different cliff and boulder objective |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 9.1 | Outstanding ridge views |
+| uniqueness | 8.7 | Other alpine ridges comparable |
+| significance | 8.1 | Mountain landscape merit |
+| experience | 9.0 | Varied demanding traverse |
+| depth | 8.5 | Long ridge route |
+
+- Applicable categories: nature:9.1, adventure:9.2, photography:9.3.
+- Computed worldwide overall: 87.25/100.
+- High-score challenge: Below 90 overall. No 9.5+ field or category.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+### sight-no-rampestreken — Rampestreken — 2026-11-26
+
+- YAML: [source](../../../countries/NO/sights/rampestreken.yaml)
+- Action: new
+- Precise subject and factual basis: Viewpoint reached by Romsdalstrappa from Åndalsnes; independently visitable, also on descent from ridge. [Visitor information](https://www.visitnorway.com/listings/rampestreken-og-romsdalstrappa/236134/); source excerpts inspected 2026-11-26.
+- Location check: 62.56075, 7.71242; [published reference](https://mapcarta.com/N4326925729); representative point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and coordinate references checked; independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [NO/preikestolen](../../../countries/NO/sights/preikestolen.yaml) | More distinctive natural cliff |
+| [NO/trolltunga](../../../countries/NO/sights/trolltunga.yaml) | More iconic rock feature |
+| [NO/romsdalseggen](../../../countries/NO/sights/romsdalseggen.yaml) | Longer ridge experience |
+| [NO/segla](../../../countries/NO/sights/segla.yaml) | More demanding natural summit |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 8.7 | Dramatic fjord panorama |
+| uniqueness | 8.3 | Comparable engineered viewpoints |
+| significance | 7.6 | Local scenic importance |
+| experience | 8.6 | Rewarding steep walk |
+| depth | 7.4 | Focused viewpoint |
+
+- Applicable categories: nature:8.8, photography:9.1, adventure:8.7.
+- Computed worldwide overall: 82.35/100.
+- High-score challenge: Below 90 overall. No 9.5+ field or category.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+### sight-no-nigardsbreen — Nigardsbreen glacier — 2026-11-26
+
+- YAML: [source](../../../countries/NO/sights/nigardsbreen.yaml)
+- Action: new
+- Precise subject and factual basis: Glacier arm with valley approaches and guided glacier activities; glacier pin not safe access point. Current conditions and guide requirements apply. [Visitor information](https://www.jostedal.com/en/nigardsbreen/); source excerpts inspected 2026-11-26.
+- Location check: 61.69241, 7.18169; [published reference](https://mapcarta.com/18634858); representative point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and coordinate references checked; independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [NO/jostedalsbreen](../../../countries/NO/sights/jostedalsbreen.yaml) | Parent glacier broader |
+| [NO/briksdalsbreen](../../../countries/NO/sights/briksdalsbreen.yaml) | Comparable glacier viewpoint |
+| [IS/skaftafell](../../../countries/IS/sights/skaftafell.yaml) | More extensive trail diversity |
+| [IS/jokulsarlon](../../../countries/IS/sights/jokulsarlon.yaml) | Distinct ice lagoon |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 8.9 | Striking glacial landscape |
+| uniqueness | 8.6 | Comparable glacier tongues |
+| significance | 8.8 | Scientific glacier monitoring context |
+| experience | 8.7 | Valley and guided experiences |
+| depth | 8.4 | Focused glacier valley |
+
+- Applicable categories: nature:9.1, photography:9.0, adventure:8.9.
+- Computed worldwide overall: 87.25/100.
+- High-score challenge: Below 90 overall. No 9.5+ field or category.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.

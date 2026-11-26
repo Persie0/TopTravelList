@@ -109,6 +109,19 @@ Working queue, not a ranking. Initial screen: 250 areas, 958 terms, 148 unmatche
 - [x] ES — Caminito del Rey: 87.20/100 (source-linked, full verification pending)
 - [x] CH — Creux du Van: 85.55/100 (source-linked, full verification pending)
 
+- [x] NO — Segla summit hike: 86.25/100 (source-linked, full verification pending)
+- [x] NO — Romsdalseggen ridge hike: 87.25/100 (source-linked, full verification pending)
+- [x] NO — Rampestreken: 82.35/100 (source-linked, full verification pending)
+- [x] NO — Nigardsbreen glacier: 87.25/100 (source-linked, full verification pending)
+- [x] SE — Kungsleden (King's Trail): 89.45/100 (source-linked, full verification pending)
+- [x] SE — High Coast Trail: 86.45/100 (source-linked, full verification pending)
+- [x] IS — Heimaey (Westman Islands): 88.65/100 (source-linked, full verification pending)
+- [x] IS — Hvítserkur sea stack: 82.05/100 (source-linked, full verification pending)
+- [x] IS — Kerið Crater: 80.85/100 (source-linked, full verification pending)
+- [x] PT — Pico do Areeiro (Pico do Arieiro): 86.95/100 (source-linked, full verification pending)
+- [x] PT — Seven Hanging Valleys Trail: 86.60/100 (source-linked, full verification pending)
+- [x] PT — Levada das 25 Fontes (PR6): 86.25/100 (source-linked, full verification pending)
+
 ## Outstanding nature / park candidates
 
 - [ ] US: Canyon de Chelly National Monument (rim overlooks and guided canyon visits; [NPS FAQ](https://www.nps.gov/cach/faqs.htm)); Antelope Canyon X (distinct guided route; [Navajo Nation tour operators](https://navajonationparks.org/guided-tour-operators/antelope-canyon-tour-operators/)); verify separate scope and coordinates before scoring.
@@ -120,7 +133,7 @@ Working queue, not a ranking. Initial screen: 250 areas, 958 terms, 148 unmatche
 - [ ] AS: National Park of American Samoa (Ofu and Mount Alava components already exist).
 - [ ] ZA: Knysna experiences, Sani Pass SA side; Hermanus boat-based whale watching only if distinct scope justified.
 - [ ] TZ: Nungwi, Paje, Mnemba. MG: Île Sainte-Marie, Nosy Be.
-- [ ] SE: Kungsleden, High Coast Trail; NO: Segla, Romsdalen, Rampestreken, Atlantic Ocean Road, Nigardsbreen; IS: Vestmannaeyjar, Hvítserkur, Kerið; PT: Pico do Arieiro, Seven Hanging Valleys, 25 Fontes.
+- [ ] NO: Romsdalen broader valley visitor scope (avoid duplicating Romsdalseggen); PT: PR1 Vereda do Areeiro (distinct full ridge route; [official route](https://visitmadeira.com/en/what-to-do/nature-seekers/activities/hiking/pr-1-vereda-do-areeiro/)), PR6.1 Levada do Risco (verify precise route and GPS); IS: broader Vestmannaeyjar outer-island boat experience only if distinct from Heimaey.
 - [ ] MQ: Plage des Salines; KY: Stingray City dive site vs sandbar; AG: Stingray City; FJ: Yasawa/Mamanuca/Sabeto specific attractions; FO additional hiking landscapes; CK Te Manga; BS Andros specific attractions; LR Libassa; VG Anegada specific visitor sites; TO whale watching; NC Isle of Pines specific sights; YT lagoon experience.
 
 ## Outstanding cultural and urban coverage
@@ -133,10 +146,12 @@ Working queue, not a ranking. Initial screen: 250 areas, 958 terms, 148 unmatche
 
 ## Already matched / not automatically a new sight
 
+NO Atlantic Ocean Road already ranked as `countries/NO/sights/atlantic-road.yaml` (confirmed pass 14).
+
 IS Fjaðrárgljúfur is already ranked as `countries/IS/sights/fjadrargljufur.yaml` (confirmed pass 6).
 
 BY Belovezhskaya/bialowieza; ET Axum/Aksum; PK Mohenjo-daro/moenjodaro; MM Kyaiktiyo/golden-rock; PE Nazca/Nasca; SA Hegra, Edge of World and At-Turaif; UA Chornobyl and Kyiv parent; VA saint-peters; GF Salvation Islands and space centre; FO Mulafossur; IE Brú na Bóinne; RO churches-moldavia; PR three bio bays and Flamenco Beach; PF Tiputa Pass; AQ Deception Island components; AE named desert reserves; IN Varanasi city/ghats; BF Banfora components; CC Home Island components; CV Santo Antão trails; DO colonial city; FI Santa Claus Village; GL Eqi glacier; GN Îles de Los; IM Castletown components; JM Blue and John Crow Mountains; KM Ikoni; LS Sani Top; MH Arno; ML Bandiagara; NF Emily-Slaughter; PN Christian's Cave and Adamstown city; RS Belgrade Fortress; SH Ascension components; SJ Longyearbyen city; SK Tatras; SO Lido Beach; SX Fort Louis in MF, Philipsburg city; TF Austral Lands; UY Punta del Este components; FR Dune du Pilat; IT Lake Braies; PT Ponta da Piedade; GB Victoria and Albert; DE Miniatur Wunderland; EG NMEC; GR National Archaeological Museum.
 
 ## Workflow
 
-Verify identity, exact scope, sources and representative GPS, four worldwide peers, five independently justified V2 dimensions; write YAML and individual review, regenerate rankings, run validators and benchmark checks. Unknown fields stay null. No national quotas. Update queue as records land. This branch reproduces deterministic ranking row format and tied ranks for ninety-five additions; Python generator and full validation not executed (local network unavailable). No GitHub Actions used.
+Verify identity, exact scope, sources and representative GPS, four worldwide peers, five independently justified V2 dimensions; write YAML and individual review, regenerate rankings, run validators and benchmark checks. Unknown fields stay null. No national quotas. Update queue as records land. This branch reproduces deterministic ranking row format and tied ranks for one hundred and seven additions; Python generator and full validation not executed (local network unavailable). No GitHub Actions used.

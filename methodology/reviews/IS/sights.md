@@ -1981,3 +1981,108 @@
 - [vidimyrarkirkja](../../../countries/IS/sights/vidimyrarkirkja.yaml): **source-linked-unverified** supersedes unassessed. [Visitor evidence](https://www.glaumbaer.is/en/visit/vidimyri-turf-church). Ticketed church and churchyard visit, compact building; no wider museum credit. Retain I/U/S 7.5/8.3/8.4; E 7.8, D 6.4. Computed overall 78.15/100. Current main peers (I/U/S/E/D): [Urnes (NO)](../../../countries/NO/sights/urnes-stave-church.yaml) 8.8/9.3/9.3/8.3/7.6, stronger internationally inscribed timber architecture; [Jvari (GE)](../../../countries/GE/sights/jvari-monastery.yaml) 8.7/8.5/9.0/8.3/7.1, more monumental landscape setting; [Kourdali (CY)](../../../countries/CY/sights/kourdali-church.yaml) 7.8/8.3/8.4/8.0/6.8, comparable small church with decorated interior; [Peristerona (CY)](../../../countries/CY/sights/peristerona-church.yaml) 7.8/8.2/8.3/7.8/6.6, similar compact visitor scope.
 
 Direct [Vatnajökull UNESCO description](https://whc.unesco.org/en/list/1604) and [park trail inventory](https://www.vatnajokulsthjodgardur.is/en) support the exceptional fire-and-ice landscape and multiple distinct visitor sectors; [Fjallabak reserve authority](https://www.nattura.is/en/visit/fjallabak-nature-reserve), [Landmannalaugar access](https://www.ust.is/english/visiting-iceland/protected-areas/south/fjallabak-nature-reserve/landmannalaugar/about-the-area) and [Laugavegur trail association](https://www.fi.is/en/hiking-trails/trails/view/laugavegur) document nested but distinct scopes. Do not add their scores together as independent physical coverage. Existing high scores remain provisional; more close international comparators needed. [UNESCO national inventory](https://whc.unesco.org/en/statesparties/IS/) and [turf house nomination](https://whc.unesco.org/en/tentativelists/5589/) confirm property/component coverage. Surtsey, Fagradalsfjall and seven remaining turf components stay unranked pending scope evidence. All 71 entries now have relevant source links, 62 ranked, nine unassessed; zero fully independently fact-checked. National inventory selective beyond designated properties. No change to pre-existing fully assessed vectors, categories, GPS or scoring weights.
+
+
+### sight-is-heimaey — Heimaey (Westman Islands) — 2026-11-26
+
+- YAML: [source](../../../countries/IS/sights/heimaey.yaml)
+- Action: new
+- Precise subject and factual basis: Main inhabited island visitor scope, volcanic landscape, coastal wildlife and local heritage; separate Eldfell and Eldheimar records retained; excludes restricted Surtsey. [Visitor information](https://www.visiticeland.com/article/westman-islands/); source excerpts inspected 2026-11-26.
+- Location check: 63.43036, -20.2745; [published reference](https://mapcarta.com/19178650); representative point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and coordinate references checked; independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [IS/heimaey-eldfell](../../../countries/IS/sights/heimaey-eldfell.yaml) | Focused volcanic feature |
+| [IS/eldheimar](../../../countries/IS/sights/eldheimar.yaml) | Focused eruption museum |
+| [IS/snaefellsjokull](../../../countries/IS/sights/snaefellsjokull.yaml) | Broader coastal volcanic park |
+| [NO/senja](../../../countries/NO/sights/senja.yaml) | Larger mountain island |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 8.9 | Dramatic volcanic island scenery |
+| uniqueness | 8.8 | Distinctive volcanic and coastal combination |
+| significance | 8.8 | Eruption history and wildlife |
+| experience | 8.9 | Varied island activities |
+| depth | 9.0 | Multiple landscapes and heritage sites |
+
+- Applicable categories: nature:9.0, wildlife:9.1, photography:9.1, culture:8.7.
+- Computed worldwide overall: 88.65/100.
+- High-score challenge: Below 90 overall. No 9.5+ field or category.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+### sight-is-hvitserkur — Hvítserkur sea stack — 2026-11-26
+
+- YAML: [source](../../../countries/IS/sights/hvitserkur.yaml)
+- Action: new
+- Precise subject and factual basis: Basalt sea stack on Vatnsnes peninsula; published visitor-area GPS, not necessarily exact rock centre; check safe tide access. [Visitor information](https://www.northiceland.is/en/place/hvitserkur); source excerpts inspected 2026-11-26.
+- Location check: 65.6063, -20.6352; [published reference](https://adventures.is/iceland/attractions/hvitserkur/); representative point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and coordinate references checked; independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [IS/kirkjufell](../../../countries/IS/sights/kirkjufell.yaml) | More expansive iconic composition |
+| [IS/reynisfjara](../../../countries/IS/sights/reynisfjara.yaml) | More extensive black sand and basalt features |
+| [IS/dyrholaey](../../../countries/IS/sights/dyrholaey.yaml) | Broader coastal viewpoints |
+| [SE/faro-rauks](../../../countries/SE/sights/faro-rauks.yaml) | Multiple limestone stacks |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 8.5 | Memorable rock silhouette |
+| uniqueness | 8.6 | Distinctive form with sea-stack analogues |
+| significance | 7.7 | Local erosion geology |
+| experience | 8.3 | Focused scenic visit |
+| depth | 7.2 | Single formation |
+
+- Applicable categories: nature:8.8, photography:9.0.
+- Computed worldwide overall: 82.05/100.
+- High-score challenge: Below 90 overall. No 9.5+ field or category.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+### sight-is-kerid-crater — Kerið Crater — 2026-11-26
+
+- YAML: [source](../../../countries/IS/sights/kerid-crater.yaml)
+- Action: new
+- Precise subject and factual basis: Volcanic crater lake with colored slopes and short walking routes; representative crater pin. [Visitor information](https://www.south.is/en/place/kerid-crater); source excerpts inspected 2026-11-26.
+- Location check: 64.0411, -20.885; [published reference](https://mapoficeland.is/guides/kerid-crater/); representative point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and coordinate references checked; independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [IS/askja](../../../countries/IS/sights/askja.yaml) | More extraordinary volcanic caldera |
+| [IS/krafla](../../../countries/IS/sights/krafla.yaml) | Broader volcanic features |
+| [PT/sete-cidades](../../../countries/PT/sights/sete-cidades.yaml) | Larger scenic caldera |
+| [PT/lagoa-fogo](../../../countries/PT/sights/lagoa-fogo.yaml) | Broader lake landscape |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 8.3 | Colorful crater contrast |
+| uniqueness | 8.1 | Other crater lakes comparable |
+| significance | 7.8 | Local volcanic geology |
+| experience | 8.4 | Short walk and views |
+| depth | 7.5 | Focused feature |
+
+- Applicable categories: nature:8.6, photography:8.8.
+- Computed worldwide overall: 80.85/100.
+- High-score challenge: Below 90 overall. No 9.5+ field or category.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.

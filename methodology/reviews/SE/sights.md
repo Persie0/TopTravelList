@@ -1304,3 +1304,73 @@ Current peers: [Oravivuori (FI)](../../../countries/FI/sights/oravivuori-struve-
 [UNESCO](https://whc.unesco.org/en/list/1282/) confirms the seven components and elaborate festive rooms; [regional visitor centres](https://www.hs.lg.se/en/Halsingegardar/Contact/Visitor-Centers/), [national tourism](https://visitsweden.com/where-to-go/northern-sweden/halsingland/) and [independent seven-farm visit](https://www.freedomtravel.se/en/2024/06/besoka-halsingegardar/) establish a coherent multi-site visit. Count the seven inscribed farms, not all regional houses; contact owners before access. Current peers: [Old Rauma (FI)](../../../countries/FI/sights/old-rauma.yaml) 8.8/9.1/9.0/8.8/8.5, more coherent historic urban fabric; [Historic Jeddah (SA)](../../../countries/SA/sights/historic-jeddah.yaml) 8.9/9.0/9.0/8.8/8.7, broader living city experience; [Rumšiškės (LT)](../../../countries/LT/sights/rumsiskes-open-air-museum.yaml) 8.3/8.5/8.5/8.7/8.9, extensive interpreted vernacular buildings with less singular decorative identity; [Latvian Open-Air Museum (LV)](../../../countries/LV/sights/latvian-ethnographic-open-air-museum.yaml) 8.2/8.5/8.5/8.7/8.7, broader standardized museum access but lower rarity. Separate individual farmhouse records remain a coverage gap.
 
 The [Rise of Systematic Biology nomination](https://whc.unesco.org/en/tentativelists/5491/) spans thirteen sites in eight countries; its Swedish components do not yet have documented representative visitor coverage in this record. Retain missing E/D rather than inherit Linnaeus Garden ratings. All 23 settlement and 64 sight vectors screened; the exceptional totals and category fields remain provisional pending independent factual and specialist calibration. No claim of comprehensive GPS or inventory verification.
+
+
+### sight-se-kungsleden — Kungsleden (King's Trail) — 2026-11-26
+
+- YAML: [source](../../../countries/SE/sights/kungsleden.yaml)
+- Action: new
+- Precise subject and factual basis: Long-distance Abisko–Hemavan trail, northern access pin. Not a substitute for all Laponian landscapes. [Visitor information](https://www.swedishtouristassociation.com/trails/kungsleden/); source excerpts inspected 2026-11-26.
+- Location check: 68.35793, 18.77812; [published reference](https://www.trailforks.com/trails/kungsleden-abisko-abiskojaure-prolog/); representative point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and coordinate references checked; independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [SE/laponian-area](../../../countries/SE/sights/laponian-area.yaml) | Broader heritage and ecology |
+| [SE/abisko-national-park](../../../countries/SE/sights/abisko-national-park.yaml) | Shorter park scope |
+| [SE/sarek-national-park](../../../countries/SE/sights/sarek-national-park.yaml) | More remote wilderness |
+| [IS/laugavegur](../../../countries/IS/sights/laugavegur.yaml) | Shorter but more dramatic volcanic contrasts |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 9.0 | Varied Arctic mountain landscapes |
+| uniqueness | 8.8 | Distinct hut-supported northern traverse |
+| significance | 8.7 | Regional outdoor and cultural context |
+| experience | 9.1 | Multi-day hiking experience |
+| depth | 9.4 | Extensive stages and changing terrain |
+
+- Applicable categories: nature:9.2, adventure:9.4, photography:9.0.
+- Computed worldwide overall: 89.45/100.
+- High-score challenge: Below 90 overall. No 9.5+ field or category.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+### sight-se-high-coast-trail — High Coast Trail — 2026-11-26
+
+- YAML: [source](../../../countries/SE/sights/high-coast-trail.yaml)
+- Action: new
+- Precise subject and factual basis: 135 km route from Hornöberget to Örnsköldsvik; published official southern start via map redirect. Separate route from parent heritage landscape. [Visitor information](https://www.hogakusten.com/en/highcoasttrail); source excerpts inspected 2026-11-26.
+- Location check: 62.803981, 17.951767; [published reference](https://goo.gl/maps/2xfaNQAsMRL2); representative point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and coordinate references checked; independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [SE/high-coast](../../../countries/SE/sights/high-coast.yaml) | Parent landscape broader |
+| [SE/skuleskogen-national-park](../../../countries/SE/sights/skuleskogen-national-park.yaml) | More focused park features |
+| [SE/kungsleden](../../../countries/SE/sights/kungsleden.yaml) | Greater mountain wilderness |
+| [IS/arnarstapi-hellnar](../../../countries/IS/sights/arnarstapi-hellnar.yaml) | Shorter coastal walk |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 8.5 | Appealing coastal forest and views |
+| uniqueness | 8.6 | Distinct uplifted coastline setting |
+| significance | 8.5 | Geological heritage context |
+| experience | 8.9 | Multi-stage walking |
+| depth | 9.1 | Extensive route network |
+
+- Applicable categories: nature:8.9, adventure:8.9, photography:8.8.
+- Computed worldwide overall: 86.45/100.
+- High-score challenge: Below 90 overall. No 9.5+ field or category.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.

@@ -1,0 +1,16 @@
+id: sight-pt-levada-das-25-fontes
+name: "Levada das 25 Fontes (PR6)"
+location:
+  country_code: PT
+  latitude: 32.76564
+  longitude: -17.12513
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 8.4
+  experience: 8.9
+  depth: 8.5
+  categories:
+    nature: 9.0
+    photography: 8.9
+    adventure: 8.8

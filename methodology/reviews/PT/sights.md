@@ -1686,3 +1686,108 @@
 - Final decision: Scope-limited editorial rating: Distinct layered Lisbon hillside urban fabric; Quarter only not all Lisbon.
 - Earlier decision: none.
 - Verification still needed: independent claim corroboration, permitted access and closer worldwide peer comparisons.
+
+
+### sight-pt-pico-do-areeiro — Pico do Areeiro (Pico do Arieiro) — 2026-11-26
+
+- YAML: [source](../../../countries/PT/sights/pico-do-areeiro.yaml)
+- Action: new
+- Precise subject and factual basis: Summit views and immediate walking opportunities, not full PR1 ridge trail or central mountain aggregate; check trail reservations and conditions. [Visitor information](https://www.visitmadeira.com/en/where-to-go/madeira/madeira-peaks/pico-do-areeiro/); source excerpts inspected 2026-11-26.
+- Location check: 32.73557, -16.92865; [published reference](https://mapcarta.com/16888778); representative point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and coordinate references checked; independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [PT/madeira-peaks](../../../countries/PT/sights/madeira-peaks.yaml) | Parent landscape broader |
+| [PT/pico-mountain](../../../countries/PT/sights/pico-mountain.yaml) | More distinctive volcanic summit |
+| [NO/segla](../../../countries/NO/sights/segla.yaml) | More demanding natural summit hike |
+| [NO/rampestreken](../../../countries/NO/sights/rampestreken.yaml) | More concentrated viewpoint |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 9.2 | Exceptional cloud and peak panoramas |
+| uniqueness | 8.7 | Comparable mountain viewpoints |
+| significance | 8.1 | Natural landscape merit |
+| experience | 8.8 | Accessible summit and nearby walks |
+| depth | 8.2 | Focused summit area |
+
+- Applicable categories: nature:9.1, photography:9.3, adventure:8.8.
+- Computed worldwide overall: 86.95/100.
+- High-score challenge: Below 90 overall. No 9.5+ field or category.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+### sight-pt-seven-hanging-valleys-trail — Seven Hanging Valleys Trail — 2026-11-26
+
+- YAML: [source](../../../countries/PT/sights/seven-hanging-valleys-trail.yaml)
+- Action: new
+- Precise subject and factual basis: Clifftop route between Praia da Marinha and Vale Centeanes; start GPS converted from published DMS. Benagil cave interior excluded. [Visitor information](https://activealgarve.pt/route/seven-hanging-valleys-trail); source excerpts inspected 2026-11-26.
+- Location check: 37.0901764, -8.4128281; [published reference](https://www.walkalgarve.com/algarve/seven-hanging-valleys-trail-quick-walking-guide); representative point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and coordinate references checked; independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [PT/ponta-piedade](../../../countries/PT/sights/ponta-piedade.yaml) | More concentrated coastal features |
+| [PT/benagil](../../../countries/PT/sights/benagil.yaml) | Focused cave experience |
+| [PT/vicentina](../../../countries/PT/sights/vicentina.yaml) | Far broader coastline |
+| [IS/arnarstapi-hellnar](../../../countries/IS/sights/arnarstapi-hellnar.yaml) | Different basalt coastal scenery |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 8.9 | Dramatic limestone coast |
+| uniqueness | 8.6 | Distinctive arches and valleys |
+| significance | 8.1 | Coastal geomorphology |
+| experience | 9.0 | Varied rewarding walk |
+| depth | 8.7 | Several coves and viewpoints |
+
+- Applicable categories: nature:9.0, photography:9.2, adventure:8.8.
+- Computed worldwide overall: 86.60/100.
+- High-score challenge: Below 90 overall. No 9.5+ field or category.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+### sight-pt-levada-das-25-fontes — Levada das 25 Fontes (PR6) — 2026-11-26
+
+- YAML: [source](../../../countries/PT/sights/levada-das-25-fontes.yaml)
+- Action: new
+- Precise subject and factual basis: Levada walking route ending at spring-fed waterfall basin; endpoint pin. Separate from PR6.1 Risco and whole levada network; check access reservations. [Visitor information](https://visitmadeira.com/en/what-to-do/nature-seekers/activities/hiking/pr-6-levada-das-25-fontes); source excerpts inspected 2026-11-26.
+- Location check: 32.76564, -17.12513; [published reference](https://mapcarta.com/N333732579); representative point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and coordinate references checked; independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [PT/madeira-levadas](../../../countries/PT/sights/madeira-levadas.yaml) | Parent network broader |
+| [PT/laurisilva](../../../countries/PT/sights/laurisilva.yaml) | Greater forest ecology |
+| [PT/ponta-sao-lourenco](../../../countries/PT/sights/ponta-sao-lourenco.yaml) | Different coastal route |
+| [IS/laugavegur](../../../countries/IS/sights/laugavegur.yaml) | More extensive and varied wilderness trek |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 8.7 | Lush waterfall and forest setting |
+| uniqueness | 8.6 | Distinctive levada walking context |
+| significance | 8.4 | Water engineering and forest heritage |
+| experience | 8.9 | Rewarding route |
+| depth | 8.5 | Several forest and water features |
+
+- Applicable categories: nature:9.0, photography:8.9, adventure:8.8.
+- Computed worldwide overall: 86.25/100.
+- High-score challenge: Below 90 overall. No 9.5+ field or category.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.

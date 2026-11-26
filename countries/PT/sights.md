@@ -2,7 +2,7 @@
 
 # Portugal (PT) — Sights & attractions ranking
 
-**47 ranked** · **1 unassessed** · **48 total** · Worldwide scoring **v2**
+**50 ranked** · **1 unassessed** · **51 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (47)
+## Complete ranked list (50)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -60,7 +60,10 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 44 | [Álvaro Siza architectural works (tentative series)](sights/siza-works.yaml) | Attraction | **87.35** | **Architecture 9.4** | 8.5 / 9.0 / 9.2 / 8.5 / 8.2 | [41.17, -8.68](https://www.google.com/maps/search/?api=1&query=41.17,-8.68) | [Google Maps](https://www.google.com/maps/search/?api=1&query=%C3%81lvaro%20Siza%20architectural%20works%20%28tentative%20series%29%2C%20Portugal) |
 | 45 | [Historic and archaeological ensemble of Mértola (tentative)](sights/mertola-core.yaml) | Museum / heritage | **87.30** | **History 9.3**, **Architecture 9.1** | 8.5 / 8.9 / 9.1 / 8.5 / 8.6 | [37.638, -7.661](https://www.google.com/maps/search/?api=1&query=37.638,-7.661) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Historic%20and%20archaeological%20ensemble%20of%20M%C3%A9rtola%20%28tentative%29%2C%20Portugal) |
 | 46 | [Águas Livres Aqueduct](sights/aguas-livres.yaml) | Attraction | **87.05** | **Architecture 9.2**, **History 9.2** | 8.7 / 8.8 / 9.0 / 8.5 / 8.2 | [38.728, -9.167](https://www.google.com/maps/search/?api=1&query=38.728,-9.167) | [Google Maps](https://www.google.com/maps/search/?api=1&query=%C3%81guas%20Livres%20Aqueduct%2C%20Portugal) |
-| 47 | [Benagil sea cave](sights/benagil.yaml) | Cave | **85.75** | **Photography 9.4**, **Nature 9.3** | 9.1 / 9.0 / 8.2 / 8.5 / 6.8 | [37.087, -8.426](https://www.google.com/maps/search/?api=1&query=37.087,-8.426) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Benagil%20sea%20cave%2C%20Portugal) |
+| 47 | [Pico do Areeiro (Pico do Arieiro)](sights/pico-do-areeiro.yaml) | Attraction | **86.95** | **Photography 9.3**, **Nature 9.1**, **Adventure 8.8** | 9.2 / 8.7 / 8.1 / 8.8 / 8.2 | [32.73557, -16.92865](https://www.google.com/maps/search/?api=1&query=32.73557,-16.92865) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Pico%20do%20Areeiro%20%28Pico%20do%20Arieiro%29%2C%20Portugal) |
+| 48 | [Seven Hanging Valleys Trail](sights/seven-hanging-valleys-trail.yaml) | Valley / canyon | **86.60** | **Photography 9.2**, **Nature 9.0**, **Adventure 8.8** | 8.9 / 8.6 / 8.1 / 9.0 / 8.7 | [37.0901764, -8.4128281](https://www.google.com/maps/search/?api=1&query=37.0901764,-8.4128281) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Seven%20Hanging%20Valleys%20Trail%2C%20Portugal) |
+| 49 | [Levada das 25 Fontes (PR6)](sights/levada-das-25-fontes.yaml) | Attraction | **86.25** | **Nature 9.0**, **Photography 8.9**, **Adventure 8.8** | 8.7 / 8.6 / 8.4 / 8.9 / 8.5 | [32.76564, -17.12513](https://www.google.com/maps/search/?api=1&query=32.76564,-17.12513) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Levada%20das%2025%20Fontes%20%28PR6%29%2C%20Portugal) |
+| 50 | [Benagil sea cave](sights/benagil.yaml) | Cave | **85.75** | **Photography 9.4**, **Nature 9.3** | 9.1 / 9.0 / 8.2 / 8.5 / 6.8 | [37.087, -8.426](https://www.google.com/maps/search/?api=1&query=37.087,-8.426) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Benagil%20sea%20cave%2C%20Portugal) |
 
 ## Not yet fully assessed (1)
 

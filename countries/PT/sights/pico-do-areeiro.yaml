@@ -1,0 +1,16 @@
+id: sight-pt-pico-do-areeiro
+name: "Pico do Areeiro (Pico do Arieiro)"
+location:
+  country_code: PT
+  latitude: 32.73557
+  longitude: -16.92865
+scores:
+  impact: 9.2
+  uniqueness: 8.7
+  significance: 8.1
+  experience: 8.8
+  depth: 8.2
+  categories:
+    nature: 9.1
+    photography: 9.3
+    adventure: 8.8
