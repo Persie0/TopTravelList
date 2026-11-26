@@ -300,3 +300,7 @@ Four settlement areas and 22 sights, all provisional ranked. Guernsey, Alderney,
 ### Jersey (JE) coverage — 2026-11-26
 
 Four settlements and 22 individually scoped sights, all 26 provisional ranked. Official Jersey Heritage, Visit Jersey, Durrell and Government of Jersey Ramsar source excerpts inspected. Separate tidal reef excursions, castles and museum experiences; no unrestricted offshore access. Four numeric peers from at least three codes per review, using the preceding audited branch snapshot. Filename screen found no obvious Jersey duplicate; full coordinate, alias and cross-branch checks pending. No new 9.5+ or exact-ten ratings. Canonical CI and regeneration pending.
+
+### Isle of Man (IM) coverage — 2026-11-26
+
+Seven settlements and 24 individually scoped sights, all 31 provisional ranked. Manx National Heritage and Visit Isle of Man source excerpts inspected. Rail journeys separated from towns; Snaefell summit and railway combined; TT scoped to legal seasonal spectating, Calf of Man to permitted visits. Four numerical peers from at least three codes per review, using audited branch profiles. Filename screen found no obvious parent duplicate; full coordinates, aliases and cross-branch checks pending. No new 9.5+ or exact-ten scores. Canonical CI and regeneration pending.

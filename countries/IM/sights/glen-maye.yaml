@@ -1,0 +1,16 @@
+id: sight-im-glen-maye
+name: "Glen Maye waterfall and woodland"
+location:
+  country_code: IM
+  latitude: 54.185
+  longitude: -4.726
+scores:
+  impact: 8.3
+  uniqueness: 8.0
+  significance: 7.5
+  experience: 8.5
+  depth: 7.8
+  categories:
+    nature: 8.5
+    photography: 8.5
+    relaxation: 8.3

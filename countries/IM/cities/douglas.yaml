@@ -1,0 +1,16 @@
+id: city-im-douglas
+name: "Douglas"
+location:
+  country_code: IM
+  latitude: 54.151
+  longitude: -4.481
+scores:
+  impact: 8.1
+  uniqueness: 8.2
+  significance: 8.5
+  experience: 8.8
+  depth: 8.6
+  categories:
+    architecture: 8.2
+    culture: 8.5
+    food: 8.5

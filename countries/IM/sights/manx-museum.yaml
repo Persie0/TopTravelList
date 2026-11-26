@@ -1,0 +1,16 @@
+id: sight-im-manx-museum
+name: "Manx Museum and TT Gallery"
+location:
+  country_code: IM
+  latitude: 54.154
+  longitude: -4.482
+scores:
+  impact: 8.2
+  uniqueness: 8.5
+  significance: 8.8
+  experience: 8.7
+  depth: 8.7
+  categories:
+    history: 9.0
+    culture: 8.8
+    family: 8.5

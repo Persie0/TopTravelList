@@ -1,0 +1,16 @@
+id: sight-im-rushen-abbey
+name: "Rushen Abbey"
+location:
+  country_code: IM
+  latitude: 54.096
+  longitude: -4.63
+scores:
+  impact: 8.0
+  uniqueness: 8.3
+  significance: 8.6
+  experience: 8.3
+  depth: 8.1
+  categories:
+    history: 8.8
+    architecture: 8.3
+    culture: 8.3
