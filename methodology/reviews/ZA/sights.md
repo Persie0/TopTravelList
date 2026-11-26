@@ -717,7 +717,7 @@ UNESCO https://whc.unesco.org/en/statesparties/za/ (opened) confirms 12 inscribe
 - Verification still needed: precise GPS, independent source corroboration and visitor access boundaries; scores are editorial.
 
 
-### sight-za-storms-river-mouth-trail — Storms River Mouth Trail — 2026-11-26
+## sight-za-storms-river-mouth-trail — Storms River Mouth Trail — 2026-11-26
 
 - YAML: [source](../../../countries/ZA/sights/storms-river-mouth-trail.yaml)
 - Action: new
@@ -738,11 +738,11 @@ UNESCO https://whc.unesco.org/en/statesparties/za/ (opened) confirms 12 inscribe
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 8.8 | Dramatic river and sea meeting |
-| uniqueness | 8.4 | Comparable coastal bridges |
-| significance | 8.1 | Protected coastal environment |
-| experience | 8.8 | Memorable walk and bridges |
-| depth | 8.1 | Focused route |
+| Impact | 8.8 | Dramatic river and sea meeting |
+| Uniqueness | 8.4 | Comparable coastal bridges |
+| Significance | 8.1 | Protected coastal environment |
+| Experience | 8.8 | Memorable walk and bridges |
+| Depth | 8.1 | Focused route |
 
 - Applicable categories: nature:9.0, photography:8.9, adventure:8.8.
 - Computed worldwide overall: 84.90/100.
@@ -752,7 +752,7 @@ UNESCO https://whc.unesco.org/en/statesparties/za/ (opened) confirms 12 inscribe
 - Verification still needed: independent factual corroboration and current access checks.
 
 
-### sight-za-chapmans-peak-drive — Chapman's Peak Drive — 2026-11-26
+## sight-za-chapmans-peak-drive — Chapman's Peak Drive — 2026-11-26
 
 - YAML: [source](../../../countries/ZA/sights/chapmans-peak-drive.yaml)
 - Action: new
@@ -773,11 +773,11 @@ UNESCO https://whc.unesco.org/en/statesparties/za/ (opened) confirms 12 inscribe
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 9.0 | Exceptional ocean cliff views |
-| uniqueness | 8.5 | Comparable cliff roads exist |
-| significance | 8.2 | Geology and road heritage |
-| experience | 8.8 | Scenic driving and viewpoints |
-| depth | 8.2 | Focused road corridor |
+| Impact | 9.0 | Exceptional ocean cliff views |
+| Uniqueness | 8.5 | Comparable cliff roads exist |
+| Significance | 8.2 | Geology and road heritage |
+| Experience | 8.8 | Scenic driving and viewpoints |
+| Depth | 8.2 | Focused road corridor |
 
 - Applicable categories: nature:8.9, photography:9.2, adventure:8.4.
 - Computed worldwide overall: 86.05/100.
@@ -787,7 +787,7 @@ UNESCO https://whc.unesco.org/en/statesparties/za/ (opened) confirms 12 inscribe
 - Verification still needed: independent factual corroboration and current access checks.
 
 
-### sight-za-hermanus-cliff-path — Hermanus Cliff Path and shore-based whale watching — 2026-11-26
+## sight-za-hermanus-cliff-path — Hermanus Cliff Path and shore-based whale watching — 2026-11-26
 
 - YAML: [source](../../../countries/ZA/sights/hermanus-cliff-path.yaml)
 - Action: new
@@ -808,11 +808,11 @@ UNESCO https://whc.unesco.org/en/statesparties/za/ (opened) confirms 12 inscribe
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 8.6 | Ocean views and potential whale sightings |
-| uniqueness | 8.8 | Unusual shore-based encounters |
-| significance | 8.3 | Coastal wildlife context |
-| experience | 8.9 | Accessible walking and viewing |
-| depth | 8.5 | Multiple viewpoints |
+| Impact | 8.6 | Ocean views and potential whale sightings |
+| Uniqueness | 8.8 | Unusual shore-based encounters |
+| Significance | 8.3 | Coastal wildlife context |
+| Experience | 8.9 | Accessible walking and viewing |
+| Depth | 8.5 | Multiple viewpoints |
 
 - Applicable categories: wildlife:9.2, nature:8.9, photography:8.9.
 - Computed worldwide overall: 86.25/100.

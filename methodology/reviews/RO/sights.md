@@ -2158,7 +2158,7 @@ Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 - [Dated worldwide reassessment pass 61 — 2026-11-26](worldwide-deferred-pass61-2026-11-26.md)
 
 
-### sight-ro-peles-castle — Peleș Castle — 2026-11-26
+## sight-ro-peles-castle — Peleș Castle — 2026-11-26
 
 - YAML: [source](../../../countries/RO/sights/peles-castle.yaml)
 - Action: new
@@ -2179,11 +2179,11 @@ Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 9.2 | Exceptional ornate royal interiors |
-| uniqueness | 8.9 | Distinctive architectural combination with peers |
-| significance | 9.0 | Modern Romanian royal history |
-| experience | 8.9 | Rich museum visit |
-| depth | 9.0 | Numerous decorated rooms and collections |
+| Impact | 9.2 | Exceptional ornate royal interiors |
+| Uniqueness | 8.9 | Distinctive architectural combination with peers |
+| Significance | 9.0 | Modern Romanian royal history |
+| Experience | 8.9 | Rich museum visit |
+| Depth | 9.0 | Numerous decorated rooms and collections |
 
 - Applicable categories: architecture:9.3, history:9.1, culture:9.0, photography:9.1.
 - Computed worldwide overall: 90.20/100.

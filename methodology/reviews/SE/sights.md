@@ -1306,7 +1306,7 @@ Current peers: [Oravivuori (FI)](../../../countries/FI/sights/oravivuori-struve-
 The [Rise of Systematic Biology nomination](https://whc.unesco.org/en/tentativelists/5491/) spans thirteen sites in eight countries; its Swedish components do not yet have documented representative visitor coverage in this record. Retain missing E/D rather than inherit Linnaeus Garden ratings. All 23 settlement and 64 sight vectors screened; the exceptional totals and category fields remain provisional pending independent factual and specialist calibration. No claim of comprehensive GPS or inventory verification.
 
 
-### sight-se-kungsleden — Kungsleden (King's Trail) — 2026-11-26
+## sight-se-kungsleden — Kungsleden (King's Trail) — 2026-11-26
 
 - YAML: [source](../../../countries/SE/sights/kungsleden.yaml)
 - Action: new
@@ -1327,11 +1327,11 @@ The [Rise of Systematic Biology nomination](https://whc.unesco.org/en/tentativel
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 9.0 | Varied Arctic mountain landscapes |
-| uniqueness | 8.8 | Distinct hut-supported northern traverse |
-| significance | 8.7 | Regional outdoor and cultural context |
-| experience | 9.1 | Multi-day hiking experience |
-| depth | 9.4 | Extensive stages and changing terrain |
+| Impact | 9.0 | Varied Arctic mountain landscapes |
+| Uniqueness | 8.8 | Distinct hut-supported northern traverse |
+| Significance | 8.7 | Regional outdoor and cultural context |
+| Experience | 9.1 | Multi-day hiking experience |
+| Depth | 9.4 | Extensive stages and changing terrain |
 
 - Applicable categories: nature:9.2, adventure:9.4, photography:9.0.
 - Computed worldwide overall: 89.45/100.
@@ -1341,7 +1341,7 @@ The [Rise of Systematic Biology nomination](https://whc.unesco.org/en/tentativel
 - Verification still needed: independent corroboration and current access.
 
 
-### sight-se-high-coast-trail — High Coast Trail — 2026-11-26
+## sight-se-high-coast-trail — High Coast Trail — 2026-11-26
 
 - YAML: [source](../../../countries/SE/sights/high-coast-trail.yaml)
 - Action: new
@@ -1362,11 +1362,11 @@ The [Rise of Systematic Biology nomination](https://whc.unesco.org/en/tentativel
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 8.5 | Appealing coastal forest and views |
-| uniqueness | 8.6 | Distinct uplifted coastline setting |
-| significance | 8.5 | Geological heritage context |
-| experience | 8.9 | Multi-stage walking |
-| depth | 9.1 | Extensive route network |
+| Impact | 8.5 | Appealing coastal forest and views |
+| Uniqueness | 8.6 | Distinct uplifted coastline setting |
+| Significance | 8.5 | Geological heritage context |
+| Experience | 8.9 | Multi-stage walking |
+| Depth | 9.1 | Extensive route network |
 
 - Applicable categories: nature:8.9, adventure:8.9, photography:8.8.
 - Computed worldwide overall: 86.45/100.

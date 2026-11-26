@@ -2120,7 +2120,7 @@ All eight Hopewell components are now accounted for: seven individual visitor re
 ### Further component coverage (2026-11-25)
 UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes the contiguous park, Kin Bineola, Kin Ya'a, Pueblo Pintado, Aztec Ruins, Casamero, Kin Nizhoni, Pierre’s site, Twin Angels and Halfway House. Four now have public YAML entries. Kin Bineola and Kin Ya'a are explicitly closed per [NPS outliers](https://www.nps.gov/chcu/planyourvisit/outliers.htm); the other four lack verified ordinary public access. NPS also includes Salmon Ruins in its designation narrative, whereas UNESCO's map does not separately list it; rated as a public outlier, not asserted to be a separate component.
 
-### sight-us-bryce-canyon-national-park — Bryce Canyon National Park — 2026-11-26
+## sight-us-bryce-canyon-national-park — Bryce Canyon National Park — 2026-11-26
 
 - YAML: [source](../../../countries/US/sights/bryce-canyon-national-park.yaml)
 - Action: new
@@ -2142,11 +2142,11 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 9.4 | Dense hoodoo panorama, below Grand Canyon scale |
-| uniqueness | 9.3 | Unusual clustered spires; related forms elsewhere |
-| significance | 8.4 | Strong geological interest, less stratigraphic breadth than Grand Canyon |
-| experience | 9.1 | Rim and amphitheater routes offer varied views |
-| depth | 8.5 | Good trail depth, less varied than Canyonlands |
+| Impact | 9.4 | Dense hoodoo panorama, below Grand Canyon scale |
+| Uniqueness | 9.3 | Unusual clustered spires; related forms elsewhere |
+| Significance | 8.4 | Strong geological interest, less stratigraphic breadth than Grand Canyon |
+| Experience | 9.1 | Rim and amphitheater routes offer varied views |
+| Depth | 8.5 | Good trail depth, less varied than Canyonlands |
 
 - Applicable categories: nature:9.4, photography:9.4, adventure:8.8.
 - Computed worldwide overall: 90.40/100.
@@ -2157,7 +2157,7 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 - Verification still needed: secondary corroboration and current visitor access.
 
 
-### sight-us-canyonlands-national-park — Canyonlands National Park — 2026-11-26
+## sight-us-canyonlands-national-park — Canyonlands National Park — 2026-11-26
 
 - YAML: [source](../../../countries/US/sights/canyonlands-national-park.yaml)
 - Action: new
@@ -2179,11 +2179,11 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 9.2 | Extensive branching canyon views, below Grand Canyon's singular impact |
-| uniqueness | 9.0 | Distinct river-separated plateaus, with related Colorado Plateau geology |
-| significance | 8.5 | Substantial geological and human history, not a global benchmark |
-| experience | 8.8 | Rewarding overlooks and hikes; separate districts require more travel |
-| depth | 9.1 | Four districts and backcountry routes offer broad exploration |
+| Impact | 9.2 | Extensive branching canyon views, below Grand Canyon's singular impact |
+| Uniqueness | 9.0 | Distinct river-separated plateaus, with related Colorado Plateau geology |
+| Significance | 8.5 | Substantial geological and human history, not a global benchmark |
+| Experience | 8.8 | Rewarding overlooks and hikes; separate districts require more travel |
+| Depth | 9.1 | Four districts and backcountry routes offer broad exploration |
 
 - Applicable categories: nature:9.3, photography:9.3, adventure:9.2.
 - Computed worldwide overall: 89.40/100.
@@ -2194,7 +2194,7 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 - Verification still needed: secondary corroboration and current visitor access.
 
 
-### sight-us-death-valley-national-park — Death Valley National Park — 2026-11-26
+## sight-us-death-valley-national-park — Death Valley National Park — 2026-11-26
 
 - YAML: [source](../../../countries/US/sights/death-valley-national-park.yaml)
 - Action: new
@@ -2216,11 +2216,11 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 9.1 | Contrasting salt flats, dunes and stark mountains |
-| uniqueness | 9.3 | Unusual below-sea-level desert basin and landform combination |
-| significance | 9.0 | Important climatic and geological extremes |
-| experience | 8.8 | Distinct drives and walks, with route-specific limitations |
-| depth | 9.1 | Salt flats, craters, dunes and mountain routes provide variety |
+| Impact | 9.1 | Contrasting salt flats, dunes and stark mountains |
+| Uniqueness | 9.3 | Unusual below-sea-level desert basin and landform combination |
+| Significance | 9.0 | Important climatic and geological extremes |
+| Experience | 8.8 | Distinct drives and walks, with route-specific limitations |
+| Depth | 9.1 | Salt flats, craters, dunes and mountain routes provide variety |
 
 - Applicable categories: nature:9.3, photography:9.3, adventure:9.
 - Computed worldwide overall: 90.85/100.
@@ -2231,7 +2231,7 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 - Verification still needed: secondary corroboration and current visitor access.
 
 
-### sight-us-grand-teton-national-park — Grand Teton National Park — 2026-11-26
+## sight-us-grand-teton-national-park — Grand Teton National Park — 2026-11-26
 
 - YAML: [source](../../../countries/US/sights/grand-teton-national-park.yaml)
 - Action: new
@@ -2253,11 +2253,11 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 9.3 | Sharp peaks above lakes and valley form a striking skyline |
-| uniqueness | 8.8 | Distinct fault-block range but comparable alpine landscapes exist |
-| significance | 8.7 | Ancient rock and glacial geology merit high significance |
-| experience | 9.1 | Lake, mountain and valley routes offer varied experience |
-| depth | 9.1 | Mountain, lake and river environments support exploration |
+| Impact | 9.3 | Sharp peaks above lakes and valley form a striking skyline |
+| Uniqueness | 8.8 | Distinct fault-block range but comparable alpine landscapes exist |
+| Significance | 8.7 | Ancient rock and glacial geology merit high significance |
+| Experience | 9.1 | Lake, mountain and valley routes offer varied experience |
+| Depth | 9.1 | Mountain, lake and river environments support exploration |
 
 - Applicable categories: nature:9.4, photography:9.4, adventure:9.1.
 - Computed worldwide overall: 90.05/100.
@@ -2267,7 +2267,7 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 - Earlier decision: none.
 - Verification still needed: secondary corroboration and current visitor access.
 
-### sight-us-mount-rainier-national-park — Mount Rainier National Park — 2026-11-26
+## sight-us-mount-rainier-national-park — Mount Rainier National Park — 2026-11-26
 
 - YAML: [source](../../../countries/US/sights/mount-rainier-national-park.yaml)
 - Action: new
@@ -2290,11 +2290,11 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 9.2 | Isolated snowy summit and meadows have strong visual impact |
-| uniqueness | 8.7 | Glaciated volcano is distinctive but international analogues exist |
-| significance | 8.8 | Important volcanic and glacial environment |
-| experience | 9.1 | Varied hikes and mountain views |
-| depth | 9.1 | Multiple trail environments support extensive discovery |
+| Impact | 9.2 | Isolated snowy summit and meadows have strong visual impact |
+| Uniqueness | 8.7 | Glaciated volcano is distinctive but international analogues exist |
+| Significance | 8.8 | Important volcanic and glacial environment |
+| Experience | 9.1 | Varied hikes and mountain views |
+| Depth | 9.1 | Multiple trail environments support extensive discovery |
 
 - Applicable categories: nature:9.3, photography:9.3, adventure:9.2.
 - Computed worldwide overall: 89.70/100.
@@ -2305,7 +2305,7 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 - Verification still needed: inspect complete material sources and corroborate coordinates and visit scope; current access before travel.
 
 
-### sight-us-sequoia-national-park — Sequoia National Park — 2026-11-26
+## sight-us-sequoia-national-park — Sequoia National Park — 2026-11-26
 
 - YAML: [source](../../../countries/US/sights/sequoia-national-park.yaml)
 - Action: new
@@ -2328,11 +2328,11 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 9.1 | Immense tree and grove scale |
-| uniqueness | 9.4 | Largest trees by volume and concentrated groves are globally rare |
-| significance | 9.2 | Ancient trees and forest ecology have strong significance |
-| experience | 9.0 | Engaging grove walking and interpretation |
-| depth | 9.0 | Groves and mountain trails extend beyond one tree |
+| Impact | 9.1 | Immense tree and grove scale |
+| Uniqueness | 9.4 | Largest trees by volume and concentrated groves are globally rare |
+| Significance | 9.2 | Ancient trees and forest ecology have strong significance |
+| Experience | 9.0 | Engaging grove walking and interpretation |
+| Depth | 9.0 | Groves and mountain trails extend beyond one tree |
 
 - Applicable categories: nature:9.4, photography:9.2, adventure:8.8.
 - Computed worldwide overall: 91.70/100.
@@ -2343,7 +2343,7 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 - Verification still needed: inspect complete material sources and corroborate coordinates and visit scope; current access before travel.
 
 
-### sight-us-katmai-national-park — Katmai National Park and Preserve — 2026-11-26
+## sight-us-katmai-national-park — Katmai National Park and Preserve — 2026-11-26
 
 - YAML: [source](../../../countries/US/sights/katmai-national-park.yaml)
 - Action: new
@@ -2366,11 +2366,11 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 9.1 | Bear viewing and volcanic wilderness are memorable |
-| uniqueness | 9.3 | Salmon-feeding bears and recent volcanic terrain are unusual in combination |
-| significance | 9.1 | Important volcanic history and bear habitat |
-| experience | 8.9 | Regulated seasonal viewing and hiking, sightings not guaranteed |
-| depth | 9.1 | Wildlife and volcanic landscapes provide breadth |
+| Impact | 9.1 | Bear viewing and volcanic wilderness are memorable |
+| Uniqueness | 9.3 | Salmon-feeding bears and recent volcanic terrain are unusual in combination |
+| Significance | 9.1 | Important volcanic history and bear habitat |
+| Experience | 8.9 | Regulated seasonal viewing and hiking, sightings not guaranteed |
+| Depth | 9.1 | Wildlife and volcanic landscapes provide breadth |
 
 - Applicable categories: nature:9.3, wildlife:9.4, photography:9.3, adventure:8.8.
 - Computed worldwide overall: 91.20/100.
@@ -2381,7 +2381,7 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 - Verification still needed: inspect complete material sources and corroborate coordinates and visit scope; current access before travel.
 
 
-### sight-us-kenai-fjords-national-park — Kenai Fjords National Park — 2026-11-26
+## sight-us-kenai-fjords-national-park — Kenai Fjords National Park — 2026-11-26
 
 - YAML: [source](../../../countries/US/sights/kenai-fjords-national-park.yaml)
 - Action: new
@@ -2404,11 +2404,11 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 9.2 | Ice, coastal relief and marine wildlife create strong scenic impact |
-| uniqueness | 8.9 | Tidewater glaciers and wildlife are distinctive but have fjord analogues |
-| significance | 8.8 | Substantial glacial and coastal ecology |
-| experience | 9.0 | Boat trips and Exit Glacier walking complement one another |
-| depth | 8.9 | Coast, icefield and land routes give breadth |
+| Impact | 9.2 | Ice, coastal relief and marine wildlife create strong scenic impact |
+| Uniqueness | 8.9 | Tidewater glaciers and wildlife are distinctive but have fjord analogues |
+| Significance | 8.8 | Substantial glacial and coastal ecology |
+| Experience | 9.0 | Boat trips and Exit Glacier walking complement one another |
+| Depth | 8.9 | Coast, icefield and land routes give breadth |
 
 - Applicable categories: nature:9.3, photography:9.3, wildlife:9.1, adventure:8.9.
 - Computed worldwide overall: 89.85/100.
@@ -2419,7 +2419,7 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 - Verification still needed: inspect complete material sources and corroborate coordinates and visit scope; current access before travel.
 
 
-### sight-us-crater-lake-national-park — Crater Lake National Park — 2026-11-26
+## sight-us-crater-lake-national-park — Crater Lake National Park — 2026-11-26
 
 - YAML: [source](../../../countries/US/sights/crater-lake-national-park.yaml)
 - Action: new
@@ -2442,11 +2442,11 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 9.1 | Deep blue water in a coherent caldera is memorable |
-| uniqueness | 8.9 | Striking volcanic lake but notable analogues exist |
-| significance | 8.7 | Important volcanic geology and lake research |
-| experience | 8.8 | Rewarding rim overlooks and trails |
-| depth | 8.4 | Concentrated landscape has less breadth than larger varied parks |
+| Impact | 9.1 | Deep blue water in a coherent caldera is memorable |
+| Uniqueness | 8.9 | Striking volcanic lake but notable analogues exist |
+| Significance | 8.7 | Important volcanic geology and lake research |
+| Experience | 8.8 | Rewarding rim overlooks and trails |
+| Depth | 8.4 | Concentrated landscape has less breadth than larger varied parks |
 
 - Applicable categories: nature:9.2, photography:9.3, adventure:8.3.
 - Computed worldwide overall: 88.55/100.
@@ -2457,7 +2457,7 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 - Verification still needed: inspect complete material sources and corroborate coordinates and visit scope; current access before travel.
 
 
-### sight-us-acadia-national-park — Acadia National Park — 2026-11-26
+## sight-us-acadia-national-park — Acadia National Park — 2026-11-26
 
 - YAML: [source](../../../countries/US/sights/acadia-national-park.yaml)
 - Action: new
@@ -2480,11 +2480,11 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 8.6 | Attractive coastal headlands and forest |
-| uniqueness | 8.1 | Excellent landscape combination but Atlantic analogues exist |
-| significance | 8.1 | Coastal ecology and carriage-road heritage are important |
-| experience | 8.9 | Roads cycling and hiking give a particularly varied visit |
-| depth | 8.7 | Coast summit pond and historic routes support discovery |
+| Impact | 8.6 | Attractive coastal headlands and forest |
+| Uniqueness | 8.1 | Excellent landscape combination but Atlantic analogues exist |
+| Significance | 8.1 | Coastal ecology and carriage-road heritage are important |
+| Experience | 8.9 | Roads cycling and hiking give a particularly varied visit |
+| Depth | 8.7 | Coast summit pond and historic routes support discovery |
 
 - Applicable categories: nature:8.8, photography:8.8, adventure:8.7.
 - Computed worldwide overall: 84.30/100.
@@ -2495,7 +2495,7 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 - Verification still needed: inspect complete material sources and corroborate coordinates and visit scope; current access before travel.
 
 
-### sight-us-capitol-reef-national-park — Capitol Reef National Park — 2026-11-26
+## sight-us-capitol-reef-national-park — Capitol Reef National Park — 2026-11-26
 
 - YAML: [source](../../../countries/US/sights/capitol-reef-national-park.yaml)
 - Action: new
@@ -2518,11 +2518,11 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 8.8 | Layered cliffs and monoliths are excellent but less iconic than Bryce |
-| uniqueness | 8.7 | Waterpocket Fold is unusual; neighboring parks share sandstone formations |
-| significance | 8.5 | Monocline and erosion support geological merit |
-| experience | 8.5 | Rewarding hikes and viewpoints; remote routes need preparation |
-| depth | 8.8 | Separate districts and canyons provide exploration depth |
+| Impact | 8.8 | Layered cliffs and monoliths are excellent but less iconic than Bryce |
+| Uniqueness | 8.7 | Waterpocket Fold is unusual; neighboring parks share sandstone formations |
+| Significance | 8.5 | Monocline and erosion support geological merit |
+| Experience | 8.5 | Rewarding hikes and viewpoints; remote routes need preparation |
+| Depth | 8.8 | Separate districts and canyons provide exploration depth |
 
 - Applicable categories: nature:8.9, photography:9, adventure:8.8.
 - Computed worldwide overall: 86.70/100.
@@ -2533,7 +2533,7 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 - Verification still needed: inspect complete material sources and corroborate coordinates and visit scope; current access before travel.
 
 
-### sight-us-glen-canyon-national-recreation-area — Glen Canyon National Recreation Area — 2026-11-26
+## sight-us-glen-canyon-national-recreation-area — Glen Canyon National Recreation Area — 2026-11-26
 
 - YAML: [source](../../../countries/US/sights/glen-canyon-national-recreation-area.yaml)
 - Action: new
@@ -2554,11 +2554,11 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 8.9 | Colorful flooded canyons |
-| uniqueness | 8.7 | Reservoir and sandstone combination has analogues |
-| significance | 8.3 | Colorado Plateau geology, but reservoir is artificial |
-| experience | 8.8 | Boating and land visits offer complementary experiences |
-| depth | 9.0 | Extensive waterways and varied districts |
+| Impact | 8.9 | Colorful flooded canyons |
+| Uniqueness | 8.7 | Reservoir and sandstone combination has analogues |
+| Significance | 8.3 | Colorado Plateau geology, but reservoir is artificial |
+| Experience | 8.8 | Boating and land visits offer complementary experiences |
+| Depth | 9.0 | Extensive waterways and varied districts |
 
 - Applicable categories: nature:9.1, photography:9.2, adventure:9.0.
 - Computed worldwide overall: 87.25/100.
@@ -2568,7 +2568,7 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 - Verification still needed: independently corroborate visitor scope, coordinate and claims; verify current access before travel.
 
 
-### sight-us-horseshoe-bend — Horseshoe Bend — 2026-11-26
+## sight-us-horseshoe-bend — Horseshoe Bend — 2026-11-26
 
 - YAML: [source](../../../countries/US/sights/horseshoe-bend.yaml)
 - Action: new
@@ -2589,11 +2589,11 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 9.1 | Powerful coherent river panorama |
-| uniqueness | 8.7 | Distinctive near-loop but other meanders exist |
-| significance | 7.8 | Erosional landform rather than globally defining scientific property |
-| experience | 8.6 | Rewarding walk and view |
-| depth | 7.6 | Single viewpoint with limited further exploration |
+| Impact | 9.1 | Powerful coherent river panorama |
+| Uniqueness | 8.7 | Distinctive near-loop but other meanders exist |
+| Significance | 7.8 | Erosional landform rather than globally defining scientific property |
+| Experience | 8.6 | Rewarding walk and view |
+| Depth | 7.6 | Single viewpoint with limited further exploration |
 
 - Applicable categories: nature:8.9, photography:9.3.
 - Computed worldwide overall: 85.15/100.
@@ -2603,7 +2603,7 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 - Verification still needed: independently corroborate visitor scope, coordinate and claims; verify current access before travel.
 
 
-### sight-us-badlands-national-park — Badlands National Park — 2026-11-26
+## sight-us-badlands-national-park — Badlands National Park — 2026-11-26
 
 - YAML: [source](../../../countries/US/sights/badlands-national-park.yaml)
 - Action: new
@@ -2624,11 +2624,11 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 8.6 | Striking eroded relief |
-| uniqueness | 8.6 | Unusual prairie and badland combination but analogues exist |
-| significance | 8.6 | Geological landscape of scientific interest |
-| experience | 8.6 | Scenic driving and foot exploration |
-| depth | 8.5 | Varied formations and prairie |
+| Impact | 8.6 | Striking eroded relief |
+| Uniqueness | 8.6 | Unusual prairie and badland combination but analogues exist |
+| Significance | 8.6 | Geological landscape of scientific interest |
+| Experience | 8.6 | Scenic driving and foot exploration |
+| Depth | 8.5 | Varied formations and prairie |
 
 - Applicable categories: nature:8.9, photography:9.0, adventure:8.4.
 - Computed worldwide overall: 85.90/100.
@@ -2638,7 +2638,7 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 - Verification still needed: independently corroborate visitor scope, coordinate and claims; verify current access before travel.
 
 
-### sight-us-joshua-tree-national-park — Joshua Tree National Park — 2026-11-26
+## sight-us-joshua-tree-national-park — Joshua Tree National Park — 2026-11-26
 
 - YAML: [source](../../../countries/US/sights/joshua-tree-national-park.yaml)
 - Action: new
@@ -2659,11 +2659,11 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 8.7 | Sculptural boulders and desert vegetation |
-| uniqueness | 8.8 | Distinctive Joshua-tree and granite landscape |
-| significance | 8.5 | Desert transition and geology |
-| experience | 8.8 | Desert exploration and climbing opportunities |
-| depth | 8.6 | Multiple desert environments and routes |
+| Impact | 8.7 | Sculptural boulders and desert vegetation |
+| Uniqueness | 8.8 | Distinctive Joshua-tree and granite landscape |
+| Significance | 8.5 | Desert transition and geology |
+| Experience | 8.8 | Desert exploration and climbing opportunities |
+| Depth | 8.6 | Multiple desert environments and routes |
 
 - Applicable categories: nature:8.9, photography:9.0, adventure:8.8.
 - Computed worldwide overall: 86.90/100.
@@ -2673,7 +2673,7 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 - Verification still needed: independently corroborate visitor scope, coordinate and claims; verify current access before travel.
 
 
-### sight-us-rocky-mountain-national-park — Rocky Mountain National Park — 2026-11-26
+## sight-us-rocky-mountain-national-park — Rocky Mountain National Park — 2026-11-26
 
 - YAML: [source](../../../countries/US/sights/rocky-mountain-national-park.yaml)
 - Action: new
@@ -2694,11 +2694,11 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 9.1 | Large alpine scenery |
-| uniqueness | 8.5 | Many global alpine analogues |
-| significance | 8.7 | Important Rocky Mountain ecosystems |
-| experience | 9.1 | Roads and hikes provide varied encounters |
-| depth | 9.0 | Lakes, forests and tundra support extended exploration |
+| Impact | 9.1 | Large alpine scenery |
+| Uniqueness | 8.5 | Many global alpine analogues |
+| Significance | 8.7 | Important Rocky Mountain ecosystems |
+| Experience | 9.1 | Roads and hikes provide varied encounters |
+| Depth | 9.0 | Lakes, forests and tundra support extended exploration |
 
 - Applicable categories: nature:9.2, photography:9.2, adventure:9.1, wildlife:8.8.
 - Computed worldwide overall: 88.60/100.
@@ -2708,7 +2708,7 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 - Verification still needed: independently corroborate visitor scope, coordinate and claims; verify current access before travel.
 
 
-### sight-us-north-cascades-national-park — North Cascades National Park — 2026-11-26
+## sight-us-north-cascades-national-park — North Cascades National Park — 2026-11-26
 
 - YAML: [source](../../../countries/US/sights/north-cascades-national-park.yaml)
 - Action: new
@@ -2729,11 +2729,11 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 9.0 | Dramatic glaciated mountain relief |
-| uniqueness | 8.6 | Comparable to other alpine wilderness areas |
-| significance | 8.8 | Substantial glacier and mountain ecology |
-| experience | 8.3 | Remote terrain limits casual encounters |
-| depth | 9.0 | Extensive wilderness hiking and climbing |
+| Impact | 9.0 | Dramatic glaciated mountain relief |
+| Uniqueness | 8.6 | Comparable to other alpine wilderness areas |
+| Significance | 8.8 | Substantial glacier and mountain ecology |
+| Experience | 8.3 | Remote terrain limits casual encounters |
+| Depth | 9.0 | Extensive wilderness hiking and climbing |
 
 - Applicable categories: nature:9.2, photography:9.1, adventure:9.2.
 - Computed worldwide overall: 87.55/100.
@@ -2743,7 +2743,7 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 - Verification still needed: independently corroborate visitor scope, coordinate and claims; verify current access before travel.
 
 
-### sight-us-haleakala-national-park — Haleakalā National Park — 2026-11-26
+## sight-us-haleakala-national-park — Haleakalā National Park — 2026-11-26
 
 - YAML: [source](../../../countries/US/sights/haleakala-national-park.yaml)
 - Action: new
@@ -2764,11 +2764,11 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 9.1 | Volcanic summit relief and coastal contrast |
-| uniqueness | 9.0 | Distinctive tropical high-altitude setting |
-| significance | 8.9 | Volcanic and ecological interest |
-| experience | 8.8 | Summit and coastal hikes complement each other |
-| depth | 8.9 | Two contrasting districts provide depth |
+| Impact | 9.1 | Volcanic summit relief and coastal contrast |
+| Uniqueness | 9.0 | Distinctive tropical high-altitude setting |
+| Significance | 8.9 | Volcanic and ecological interest |
+| Experience | 8.8 | Summit and coastal hikes complement each other |
+| Depth | 8.9 | Two contrasting districts provide depth |
 
 - Applicable categories: nature:9.3, photography:9.2, adventure:8.9.
 - Computed worldwide overall: 89.70/100.
@@ -2778,7 +2778,7 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 - Verification still needed: independently corroborate visitor scope, coordinate and claims; verify current access before travel.
 
 
-### sight-us-great-sand-dunes-national-park — Great Sand Dunes National Park and Preserve — 2026-11-26
+## sight-us-great-sand-dunes-national-park — Great Sand Dunes National Park and Preserve — 2026-11-26
 
 - YAML: [source](../../../countries/US/sights/great-sand-dunes-national-park.yaml)
 - Action: new
@@ -2799,11 +2799,11 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 8.9 | Dune and alpine backdrop contrast |
-| uniqueness | 8.8 | Unusual high-elevation dune setting |
-| significance | 8.5 | Geomorphology and habitat diversity |
-| experience | 8.8 | Hands-on dune exploration and hiking |
-| depth | 8.7 | Dunefield and surrounding ecosystems add breadth |
+| Impact | 8.9 | Dune and alpine backdrop contrast |
+| Uniqueness | 8.8 | Unusual high-elevation dune setting |
+| Significance | 8.5 | Geomorphology and habitat diversity |
+| Experience | 8.8 | Hands-on dune exploration and hiking |
+| Depth | 8.7 | Dunefield and surrounding ecosystems add breadth |
 
 - Applicable categories: nature:9.0, photography:9.1, adventure:9.0.
 - Computed worldwide overall: 87.60/100.
@@ -2813,7 +2813,7 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 - Verification still needed: independently corroborate visitor scope, coordinate and claims; verify current access before travel.
 
 
-### sight-us-wind-cave-national-park — Wind Cave National Park — 2026-11-26
+## sight-us-wind-cave-national-park — Wind Cave National Park — 2026-11-26
 
 - YAML: [source](../../../countries/US/sights/wind-cave-national-park.yaml)
 - Action: new
@@ -2834,11 +2834,11 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 8.3 | Interesting underground forms and prairie |
-| uniqueness | 8.8 | Distinctive cave formations |
-| significance | 8.7 | Geological and prairie conservation interest |
-| experience | 8.3 | Guided cave experience plus surface walks |
-| depth | 8.5 | Cave and surface landscapes offer complementary depth |
+| Impact | 8.3 | Interesting underground forms and prairie |
+| Uniqueness | 8.8 | Distinctive cave formations |
+| Significance | 8.7 | Geological and prairie conservation interest |
+| Experience | 8.3 | Guided cave experience plus surface walks |
+| Depth | 8.5 | Cave and surface landscapes offer complementary depth |
 
 - Applicable categories: nature:8.8, adventure:8.4, wildlife:8.4.
 - Computed worldwide overall: 85.25/100.
@@ -2848,7 +2848,7 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 - Verification still needed: independently corroborate visitor scope, coordinate and claims; verify current access before travel.
 
 
-### sight-us-mount-rushmore-national-memorial — Mount Rushmore National Memorial — 2026-11-26
+## sight-us-mount-rushmore-national-memorial — Mount Rushmore National Memorial — 2026-11-26
 
 - YAML: [source](../../../countries/US/sights/mount-rushmore-national-memorial.yaml)
 - Action: new
@@ -2869,11 +2869,11 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 8.6 | Large carved portraits are memorable |
-| uniqueness | 8.9 | Distinctive monumental portrait ensemble |
-| significance | 8.8 | National commemoration with international recognition and contested context |
-| experience | 8.2 | Walking loop and interpretation |
-| depth | 7.8 | Limited single-site depth relative to major heritage ensembles |
+| Impact | 8.6 | Large carved portraits are memorable |
+| Uniqueness | 8.9 | Distinctive monumental portrait ensemble |
+| Significance | 8.8 | National commemoration with international recognition and contested context |
+| Experience | 8.2 | Walking loop and interpretation |
+| Depth | 7.8 | Limited single-site depth relative to major heritage ensembles |
 
 - Applicable categories: history:8.9, photography:8.8, culture:8.7.
 - Computed worldwide overall: 85.75/100.
@@ -2883,7 +2883,7 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 - Verification still needed: independently corroborate visitor scope, coordinate and claims; verify current access before travel.
 
 
-### sight-us-black-canyon-of-the-gunnison-national-park — Black Canyon of the Gunnison National Park — 2026-11-26
+## sight-us-black-canyon-of-the-gunnison-national-park — Black Canyon of the Gunnison National Park — 2026-11-26
 
 - YAML: [source](../../../countries/US/sights/black-canyon-of-the-gunnison-national-park.yaml)
 - Action: new
@@ -2904,11 +2904,11 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 9.0 | Dramatic steep gorge |
-| uniqueness | 8.8 | Narrow dark-walled canyon is distinctive but has analogues |
-| significance | 8.5 | Substantial geological interest |
-| experience | 8.7 | Overlooks and trails complement each other |
-| depth | 8.4 | Limited district variety compared with large multi-landscape parks |
+| Impact | 9.0 | Dramatic steep gorge |
+| Uniqueness | 8.8 | Narrow dark-walled canyon is distinctive but has analogues |
+| Significance | 8.5 | Substantial geological interest |
+| Experience | 8.7 | Overlooks and trails complement each other |
+| Depth | 8.4 | Limited district variety compared with large multi-landscape parks |
 
 - Applicable categories: nature:9.1, photography:9.2, adventure:8.7.
 - Computed worldwide overall: 87.45/100.
@@ -2918,7 +2918,7 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 - Verification still needed: independently corroborate claims and location; check current access before visiting.
 
 
-### sight-us-channel-islands-national-park — Channel Islands National Park — 2026-11-26
+## sight-us-channel-islands-national-park — Channel Islands National Park — 2026-11-26
 
 - YAML: [source](../../../countries/US/sights/channel-islands-national-park.yaml)
 - Action: new
@@ -2939,11 +2939,11 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 8.7 | Cliffs and marine landscapes |
-| uniqueness | 8.8 | Distinctive island and marine ecosystem combination |
-| significance | 8.8 | Important protected island habitats |
-| experience | 8.8 | Complementary land and water activities |
-| depth | 8.8 | Several islands provide exploration breadth |
+| Impact | 8.7 | Cliffs and marine landscapes |
+| Uniqueness | 8.8 | Distinctive island and marine ecosystem combination |
+| Significance | 8.8 | Important protected island habitats |
+| Experience | 8.8 | Complementary land and water activities |
+| Depth | 8.8 | Several islands provide exploration breadth |
 
 - Applicable categories: nature:9.0, wildlife:9.0, adventure:8.9, photography:8.8.
 - Computed worldwide overall: 87.70/100.
@@ -2953,7 +2953,7 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 - Verification still needed: independently corroborate claims and location; check current access before visiting.
 
 
-### sight-us-dry-tortugas-national-park — Dry Tortugas National Park — 2026-11-26
+## sight-us-dry-tortugas-national-park — Dry Tortugas National Park — 2026-11-26
 
 - YAML: [source](../../../countries/US/sights/dry-tortugas-national-park.yaml)
 - Action: new
@@ -2974,11 +2974,11 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 8.8 | Fort and sea contrast |
-| uniqueness | 9.0 | Unusual offshore fort and marine combination |
-| significance | 8.8 | Maritime history and marine conservation |
-| experience | 8.8 | Snorkeling and fort exploration |
-| depth | 8.2 | Limited land scope with marine depth |
+| Impact | 8.8 | Fort and sea contrast |
+| Uniqueness | 9.0 | Unusual offshore fort and marine combination |
+| Significance | 8.8 | Maritime history and marine conservation |
+| Experience | 8.8 | Snorkeling and fort exploration |
+| Depth | 8.2 | Limited land scope with marine depth |
 
 - Applicable categories: nature:9.0, history:8.7, photography:9.1, adventure:8.7.
 - Computed worldwide overall: 87.90/100.
@@ -2988,7 +2988,7 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 - Verification still needed: independently corroborate claims and location; check current access before visiting.
 
 
-### sight-us-great-basin-national-park — Great Basin National Park — 2026-11-26
+## sight-us-great-basin-national-park — Great Basin National Park — 2026-11-26
 
 - YAML: [source](../../../countries/US/sights/great-basin-national-park.yaml)
 - Action: new
@@ -3009,11 +3009,11 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 8.5 | Appealing mountain scenery |
-| uniqueness | 8.8 | Unusual old-tree and cave combination |
-| significance | 8.7 | Geological and ecological interest |
-| experience | 8.6 | Mountain walks and guided cave options |
-| depth | 8.8 | Multiple environments add variety |
+| Impact | 8.5 | Appealing mountain scenery |
+| Uniqueness | 8.8 | Unusual old-tree and cave combination |
+| Significance | 8.7 | Geological and ecological interest |
+| Experience | 8.6 | Mountain walks and guided cave options |
+| Depth | 8.8 | Multiple environments add variety |
 
 - Applicable categories: nature:8.9, adventure:8.7, photography:8.7.
 - Computed worldwide overall: 86.60/100.
@@ -3023,7 +3023,7 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 - Verification still needed: independently corroborate claims and location; check current access before visiting.
 
 
-### sight-us-kings-canyon-national-park — Kings Canyon National Park — 2026-11-26
+## sight-us-kings-canyon-national-park — Kings Canyon National Park — 2026-11-26
 
 - YAML: [source](../../../countries/US/sights/kings-canyon-national-park.yaml)
 - Action: new
@@ -3044,11 +3044,11 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 9.0 | Deep mountain canyon relief |
-| uniqueness | 8.7 | Distinctive but Sierra landscapes have analogues |
-| significance | 8.7 | Natural geological and ecological merit |
-| experience | 8.8 | River trails and wilderness walks |
-| depth | 9.0 | Multiple areas and extensive exploration |
+| Impact | 9.0 | Deep mountain canyon relief |
+| Uniqueness | 8.7 | Distinctive but Sierra landscapes have analogues |
+| Significance | 8.7 | Natural geological and ecological merit |
+| Experience | 8.8 | River trails and wilderness walks |
+| Depth | 9.0 | Multiple areas and extensive exploration |
 
 - Applicable categories: nature:9.2, photography:9.1, adventure:9.0.
 - Computed worldwide overall: 88.35/100.
@@ -3058,7 +3058,7 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 - Verification still needed: independently corroborate claims and location; check current access before visiting.
 
 
-### sight-us-lassen-volcanic-national-park — Lassen Volcanic National Park — 2026-11-26
+## sight-us-lassen-volcanic-national-park — Lassen Volcanic National Park — 2026-11-26
 
 - YAML: [source](../../../countries/US/sights/lassen-volcanic-national-park.yaml)
 - Action: new
@@ -3079,11 +3079,11 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 8.8 | Volcanic relief and steaming features |
-| uniqueness | 8.9 | Varied volcanic landscapes |
-| significance | 8.8 | Geological merit |
-| experience | 8.8 | Trails connect distinct volcanic and alpine settings |
-| depth | 8.8 | Multiple feature types and walking routes |
+| Impact | 8.8 | Volcanic relief and steaming features |
+| Uniqueness | 8.9 | Varied volcanic landscapes |
+| Significance | 8.8 | Geological merit |
+| Experience | 8.8 | Trails connect distinct volcanic and alpine settings |
+| Depth | 8.8 | Multiple feature types and walking routes |
 
 - Applicable categories: nature:9.1, photography:8.9, adventure:8.8.
 - Computed worldwide overall: 88.25/100.
@@ -3093,7 +3093,7 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 - Verification still needed: independently corroborate claims and location; check current access before visiting.
 
 
-### sight-us-saguaro-national-park — Saguaro National Park — 2026-11-26
+## sight-us-saguaro-national-park — Saguaro National Park — 2026-11-26
 
 - YAML: [source](../../../countries/US/sights/saguaro-national-park.yaml)
 - Action: new
@@ -3114,11 +3114,11 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 8.5 | Iconic cactus silhouettes |
-| uniqueness | 8.8 | Giant saguaro landscapes stand out internationally |
-| significance | 8.6 | Desert ecology and rock-art interest |
-| experience | 8.7 | Scenic loops and hikes |
-| depth | 8.4 | Two districts but narrower landscape range than flagship desert parks |
+| Impact | 8.5 | Iconic cactus silhouettes |
+| Uniqueness | 8.8 | Giant saguaro landscapes stand out internationally |
+| Significance | 8.6 | Desert ecology and rock-art interest |
+| Experience | 8.7 | Scenic loops and hikes |
+| Depth | 8.4 | Two districts but narrower landscape range than flagship desert parks |
 
 - Applicable categories: nature:8.9, photography:9.0, adventure:8.3.
 - Computed worldwide overall: 86.15/100.
@@ -3128,7 +3128,7 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 - Verification still needed: independently corroborate claims and location; check current access before visiting.
 
 
-### sight-us-jewel-cave-national-monument — Jewel Cave National Monument — 2026-11-26
+## sight-us-jewel-cave-national-monument — Jewel Cave National Monument — 2026-11-26
 
 - YAML: [source](../../../countries/US/sights/jewel-cave-national-monument.yaml)
 - Action: new
@@ -3149,11 +3149,11 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 8.5 | Crystal-lined chambers |
-| uniqueness | 8.9 | Distinctive calcite deposits |
-| significance | 8.8 | Large cave system has geological value |
-| experience | 8.4 | Guided routes offer meaningful access |
-| depth | 8.3 | Visitor routes cover a limited portion of system |
+| Impact | 8.5 | Crystal-lined chambers |
+| Uniqueness | 8.9 | Distinctive calcite deposits |
+| Significance | 8.8 | Large cave system has geological value |
+| Experience | 8.4 | Guided routes offer meaningful access |
+| Depth | 8.3 | Visitor routes cover a limited portion of system |
 
 - Applicable categories: nature:8.9, adventure:8.5, photography:8.6.
 - Computed worldwide overall: 86.25/100.
@@ -3163,7 +3163,7 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 - Verification still needed: independently corroborate claims and location; check current access before visiting.
 
 
-### sight-us-monument-valley-navajo-tribal-park — Monument Valley Navajo Tribal Park — 2026-11-26
+## sight-us-monument-valley-navajo-tribal-park — Monument Valley Navajo Tribal Park — 2026-11-26
 
 - YAML: [source](../../../countries/US/sights/monument-valley-navajo-tribal-park.yaml)
 - Action: new
@@ -3184,11 +3184,11 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 9.4 | Distinctive monumental desert skyline |
-| uniqueness | 9.3 | Recognizable butte ensemble with few close analogues |
-| significance | 8.8 | Natural landscape and Navajo cultural context |
-| experience | 9.0 | Scenic drive and guided visits |
-| depth | 8.6 | Strong route-based exploration, narrower scope than major desert parks |
+| Impact | 9.4 | Distinctive monumental desert skyline |
+| Uniqueness | 9.3 | Recognizable butte ensemble with few close analogues |
+| Significance | 8.8 | Natural landscape and Navajo cultural context |
+| Experience | 9.0 | Scenic drive and guided visits |
+| Depth | 8.6 | Strong route-based exploration, narrower scope than major desert parks |
 
 - Applicable categories: nature:9.3, photography:9.4, culture:8.8, adventure:8.7.
 - Computed worldwide overall: 91.15/100.
@@ -3198,7 +3198,7 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 - Verification still needed: independently corroborate claims and location; check current access before visiting.
 
 
-### sight-us-alcatraz-island — Alcatraz Island — 2026-11-26
+## sight-us-alcatraz-island — Alcatraz Island — 2026-11-26
 
 - YAML: [source](../../../countries/US/sights/alcatraz-island.yaml)
 - Action: new
@@ -3219,11 +3219,11 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 8.6 | Memorable island prison setting |
-| uniqueness | 9.0 | Unusual isolation and layered history |
-| significance | 9.0 | Important incarceration and Indigenous activism history |
-| experience | 9.1 | Strong interpretive experience |
-| depth | 8.4 | Multiple themes within compact island |
+| Impact | 8.6 | Memorable island prison setting |
+| Uniqueness | 9.0 | Unusual isolation and layered history |
+| Significance | 9.0 | Important incarceration and Indigenous activism history |
+| Experience | 9.1 | Strong interpretive experience |
+| Depth | 8.4 | Multiple themes within compact island |
 
 - Applicable categories: history:9.2, culture:8.9, photography:8.7.
 - Computed worldwide overall: 88.35/100.
@@ -3233,7 +3233,7 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 - Verification still needed: independently corroborate claims and location; check current access before visiting.
 
 
-### sight-us-golden-gate-bridge — Golden Gate Bridge — 2026-11-26
+## sight-us-golden-gate-bridge — Golden Gate Bridge — 2026-11-26
 
 - YAML: [source](../../../countries/US/sights/golden-gate-bridge.yaml)
 - Action: new
@@ -3254,11 +3254,11 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 9.2 | Iconic span across dramatic strait |
-| uniqueness | 9.0 | Recognizable design with suspension bridge analogues |
-| significance | 9.0 | Important engineering and cultural landmark |
-| experience | 8.7 | Walking and interpretation reward a visit |
-| depth | 7.8 | Single structure limits exploration breadth |
+| Impact | 9.2 | Iconic span across dramatic strait |
+| Uniqueness | 9.0 | Recognizable design with suspension bridge analogues |
+| Significance | 9.0 | Important engineering and cultural landmark |
+| Experience | 8.7 | Walking and interpretation reward a visit |
+| Depth | 7.8 | Single structure limits exploration breadth |
 
 - Applicable categories: architecture:9.3, photography:9.4, history:8.9.
 - Computed worldwide overall: 88.95/100.
@@ -3268,7 +3268,7 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 - Verification still needed: independently corroborate claims and location; check current access before visiting.
 
 
-### sight-us-upper-antelope-canyon — Upper Antelope Canyon — 2026-11-26
+## sight-us-upper-antelope-canyon — Upper Antelope Canyon — 2026-11-26
 
 - YAML: [source](../../../countries/US/sights/upper-antelope-canyon.yaml)
 - Action: new
@@ -3289,11 +3289,11 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 9.4 | Exceptional light and sandstone forms |
-| uniqueness | 9.3 | Rare concentrated slot-canyon aesthetic |
-| significance | 8.3 | Geological and Navajo landscape context, not a broad heritage complex |
-| experience | 8.6 | Guided traversal rewarding but time and crowd constraints |
-| depth | 7.8 | Short, focused experience |
+| Impact | 9.4 | Exceptional light and sandstone forms |
+| Uniqueness | 9.3 | Rare concentrated slot-canyon aesthetic |
+| Significance | 8.3 | Geological and Navajo landscape context, not a broad heritage complex |
+| Experience | 8.6 | Guided traversal rewarding but time and crowd constraints |
+| Depth | 7.8 | Short, focused experience |
 
 - Applicable categories: nature:9.2, photography:9.4.
 - Computed worldwide overall: 88.75/100.
@@ -3303,7 +3303,7 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 - Verification still needed: full independent corroboration and current access checks.
 
 
-### sight-us-lower-antelope-canyon — Lower Antelope Canyon — 2026-11-26
+## sight-us-lower-antelope-canyon — Lower Antelope Canyon — 2026-11-26
 
 - YAML: [source](../../../countries/US/sights/lower-antelope-canyon.yaml)
 - Action: new
@@ -3324,11 +3324,11 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 9.2 | Memorable layered sandstone |
-| uniqueness | 9.0 | Comparable to Upper but distinctive passage shapes |
-| significance | 8.2 | Geological and cultural landscape context |
-| experience | 8.6 | Guided traversal with stairs |
-| depth | 8.0 | Focused route with changing rock forms |
+| Impact | 9.2 | Memorable layered sandstone |
+| Uniqueness | 9.0 | Comparable to Upper but distinctive passage shapes |
+| Significance | 8.2 | Geological and cultural landscape context |
+| Experience | 8.6 | Guided traversal with stairs |
+| Depth | 8.0 | Focused route with changing rock forms |
 
 - Applicable categories: nature:9.1, photography:9.3, adventure:8.4.
 - Computed worldwide overall: 87.40/100.
@@ -3338,7 +3338,7 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 - Verification still needed: full independent corroboration and current access checks.
 
 
-### sight-us-napali-coast-state-wilderness-park — Nāpali Coast State Wilderness Park — 2026-11-26
+## sight-us-napali-coast-state-wilderness-park — Nāpali Coast State Wilderness Park — 2026-11-26
 
 - YAML: [source](../../../countries/US/sights/napali-coast-state-wilderness-park.yaml)
 - Action: new
@@ -3359,11 +3359,11 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 9.4 | Extraordinary coastal relief |
-| uniqueness | 9.2 | Tropical fluted cliffs and valleys are unusual |
-| significance | 8.8 | Coastal ecology and cultural landscape |
-| experience | 8.9 | Outstanding long hike with access restrictions |
-| depth | 9.0 | Substantial trail and valley exploration |
+| Impact | 9.4 | Extraordinary coastal relief |
+| Uniqueness | 9.2 | Tropical fluted cliffs and valleys are unusual |
+| Significance | 8.8 | Coastal ecology and cultural landscape |
+| Experience | 8.9 | Outstanding long hike with access restrictions |
+| Depth | 9.0 | Substantial trail and valley exploration |
 
 - Applicable categories: nature:9.4, photography:9.4, adventure:9.3.
 - Computed worldwide overall: 91.15/100.
@@ -3373,7 +3373,7 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 - Verification still needed: full independent corroboration and current access checks.
 
 
-### sight-us-waimea-canyon-state-park — Waimea Canyon State Park — 2026-11-26
+## sight-us-waimea-canyon-state-park — Waimea Canyon State Park — 2026-11-26
 
 - YAML: [source](../../../countries/US/sights/waimea-canyon-state-park.yaml)
 - Action: new
@@ -3394,11 +3394,11 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 9.1 | Striking red-green canyon contrasts |
-| uniqueness | 8.8 | Distinctive tropical erosion but global canyon analogues |
-| significance | 8.6 | Geological landscape of substantial interest |
-| experience | 8.8 | Scenic overlooks and walking |
-| depth | 8.5 | Several viewpoints, less depth than larger canyon parks |
+| Impact | 9.1 | Striking red-green canyon contrasts |
+| Uniqueness | 8.8 | Distinctive tropical erosion but global canyon analogues |
+| Significance | 8.6 | Geological landscape of substantial interest |
+| Experience | 8.8 | Scenic overlooks and walking |
+| Depth | 8.5 | Several viewpoints, less depth than larger canyon parks |
 
 - Applicable categories: nature:9.2, photography:9.2, adventure:8.6.
 - Computed worldwide overall: 88.20/100.
@@ -3408,7 +3408,7 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 - Verification still needed: full independent corroboration and current access checks.
 
 
-### sight-us-big-sur-coast — Big Sur Coast (Highway 1 scenic corridor) — 2026-11-26
+## sight-us-big-sur-coast — Big Sur Coast (Highway 1 scenic corridor) — 2026-11-26
 
 - YAML: [source](../../../countries/US/sights/big-sur-coast.yaml)
 - Action: new
@@ -3429,11 +3429,11 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 9.1 | Rugged coastal panoramas |
-| uniqueness | 8.7 | Comparable coastal drives globally |
-| significance | 8.3 | Natural landscape and road heritage |
-| experience | 9.0 | Scenic stops and walking |
-| depth | 8.9 | Multiple coastal parks and overlooks |
+| Impact | 9.1 | Rugged coastal panoramas |
+| Uniqueness | 8.7 | Comparable coastal drives globally |
+| Significance | 8.3 | Natural landscape and road heritage |
+| Experience | 9.0 | Scenic stops and walking |
+| Depth | 8.9 | Multiple coastal parks and overlooks |
 
 - Applicable categories: nature:9.1, photography:9.3, adventure:8.8.
 - Computed worldwide overall: 88.05/100.
@@ -3443,7 +3443,7 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 - Verification still needed: full independent corroboration and current access checks.
 
 
-### sight-us-kennedy-space-center-visitor-complex — Kennedy Space Center Visitor Complex — 2026-11-26
+## sight-us-kennedy-space-center-visitor-complex — Kennedy Space Center Visitor Complex — 2026-11-26
 
 - YAML: [source](../../../countries/US/sights/kennedy-space-center-visitor-complex.yaml)
 - Action: new
@@ -3464,11 +3464,11 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 9.2 | Full-scale historic spacecraft |
-| uniqueness | 9.4 | Rare original spacecraft and launch-site interpretation |
-| significance | 9.4 | Major human spaceflight milestones |
-| experience | 9.2 | Interactive exhibits and interpretation |
-| depth | 9.3 | Multiple galleries and bus-tour destinations |
+| Impact | 9.2 | Full-scale historic spacecraft |
+| Uniqueness | 9.4 | Rare original spacecraft and launch-site interpretation |
+| Significance | 9.4 | Major human spaceflight milestones |
+| Experience | 9.2 | Interactive exhibits and interpretation |
+| Depth | 9.3 | Multiple galleries and bus-tour destinations |
 
 - Applicable categories: history:9.4, culture:9.0, family:9.2.
 - Computed worldwide overall: 93.00/100.
@@ -3478,7 +3478,7 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 - Verification still needed: full independent corroboration and current access checks.
 
 
-### sight-us-empire-state-building — Empire State Building — 2026-11-26
+## sight-us-empire-state-building — Empire State Building — 2026-11-26
 
 - YAML: [source](../../../countries/US/sights/empire-state-building.yaml)
 - Action: new
@@ -3499,11 +3499,11 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 9.1 | Iconic skyline and elevated views |
-| uniqueness | 8.9 | Distinctive Art Deco skyscraper with tower analogues |
-| significance | 9.0 | Important skyscraper engineering and cultural history |
-| experience | 8.8 | Interpretation and observation decks |
-| depth | 8.0 | Focused building visit |
+| Impact | 9.1 | Iconic skyline and elevated views |
+| Uniqueness | 8.9 | Distinctive Art Deco skyscraper with tower analogues |
+| Significance | 9.0 | Important skyscraper engineering and cultural history |
+| Experience | 8.8 | Interpretation and observation decks |
+| Depth | 8.0 | Focused building visit |
 
 - Applicable categories: architecture:9.3, history:9.0, photography:9.2.
 - Computed worldwide overall: 88.75/100.
@@ -3513,7 +3513,7 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 - Verification still needed: full independent corroboration and current access checks.
 
 
-### sight-us-national-mall-and-memorial-parks — National Mall and Memorial Parks — 2026-11-26
+## sight-us-national-mall-and-memorial-parks — National Mall and Memorial Parks — 2026-11-26
 
 - YAML: [source](../../../countries/US/sights/national-mall-and-memorial-parks.yaml)
 - Action: new
@@ -3534,11 +3534,11 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 9.0 | Monumental civic vistas |
-| uniqueness | 9.0 | Distinctive integrated commemorative landscape |
-| significance | 9.3 | Important US political history and public memory |
-| experience | 9.0 | Meaningful walking and interpretation |
-| depth | 9.2 | Several major monuments and memorials |
+| Impact | 9.0 | Monumental civic vistas |
+| Uniqueness | 9.0 | Distinctive integrated commemorative landscape |
+| Significance | 9.3 | Important US political history and public memory |
+| Experience | 9.0 | Meaningful walking and interpretation |
+| Depth | 9.2 | Several major monuments and memorials |
 
 - Applicable categories: history:9.4, culture:9.2, architecture:9.0, photography:9.0.
 - Computed worldwide overall: 90.80/100.
@@ -3548,7 +3548,7 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 - Verification still needed: full independent corroboration and current access checks.
 
 
-### sight-us-hoover-dam — Hoover Dam — 2026-11-26
+## sight-us-hoover-dam — Hoover Dam — 2026-11-26
 
 - YAML: [source](../../../countries/US/sights/hoover-dam.yaml)
 - Action: new
@@ -3569,11 +3569,11 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 8.7 | Monumental engineering setting |
-| uniqueness | 8.8 | Distinctive large dam construction, with international analogues |
-| significance | 9.0 | Major water and power infrastructure history |
-| experience | 8.6 | Tours and observation opportunities |
-| depth | 8.3 | Single infrastructure site with interpretation |
+| Impact | 8.7 | Monumental engineering setting |
+| Uniqueness | 8.8 | Distinctive large dam construction, with international analogues |
+| Significance | 9.0 | Major water and power infrastructure history |
+| Experience | 8.6 | Tours and observation opportunities |
+| Depth | 8.3 | Single infrastructure site with interpretation |
 
 - Applicable categories: architecture:9.1, history:9.0, photography:8.8.
 - Computed worldwide overall: 87.30/100.
@@ -3583,7 +3583,7 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 - Verification still needed: full independent corroboration and current access checks.
 
 
-### sight-us-niagara-falls-state-park — Niagara Falls State Park (US side) — 2026-11-26
+## sight-us-niagara-falls-state-park — Niagara Falls State Park (US side) — 2026-11-26
 
 - YAML: [source](../../../countries/US/sights/niagara-falls-state-park.yaml)
 - Action: new
@@ -3604,11 +3604,11 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 9.4 | Exceptional waterfall power and close views |
-| uniqueness | 9.0 | Large falls with international analogues |
-| significance | 8.8 | Important landscape and protected park history |
-| experience | 9.2 | Complementary viewpoints and close-up experiences |
-| depth | 8.8 | Multiple paths and visitor activities |
+| Impact | 9.4 | Exceptional waterfall power and close views |
+| Uniqueness | 9.0 | Large falls with international analogues |
+| Significance | 8.8 | Important landscape and protected park history |
+| Experience | 9.2 | Complementary viewpoints and close-up experiences |
+| Depth | 8.8 | Multiple paths and visitor activities |
 
 - Applicable categories: nature:9.3, photography:9.4, adventure:8.8.
 - Computed worldwide overall: 90.90/100.
@@ -3618,7 +3618,7 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 - Verification still needed: full independent corroboration and current access checks.
 
 
-### sight-us-space-needle — Space Needle — 2026-11-26
+## sight-us-space-needle — Space Needle — 2026-11-26
 
 - YAML: [source](../../../countries/US/sights/space-needle.yaml)
 - Action: new
@@ -3639,11 +3639,11 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 8.6 | Appealing skyline and mountain views |
-| uniqueness | 8.6 | Distinctive mid-century silhouette and glass-floor experience |
-| significance | 8.4 | Architectural and World's Fair heritage |
-| experience | 8.8 | Observation decks offer rewarding visit |
-| depth | 7.6 | Single tower with limited exploration |
+| Impact | 8.6 | Appealing skyline and mountain views |
+| Uniqueness | 8.6 | Distinctive mid-century silhouette and glass-floor experience |
+| Significance | 8.4 | Architectural and World's Fair heritage |
+| Experience | 8.8 | Observation decks offer rewarding visit |
+| Depth | 7.6 | Single tower with limited exploration |
 
 - Applicable categories: architecture:8.9, photography:8.9.
 - Computed worldwide overall: 84.90/100.
@@ -3653,7 +3653,7 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 - Verification still needed: full independent corroboration and current access checks.
 
 
-### sight-us-metropolitan-museum-of-art — Metropolitan Museum of Art (Fifth Avenue) — 2026-11-26
+## sight-us-metropolitan-museum-of-art — Metropolitan Museum of Art (Fifth Avenue) — 2026-11-26
 
 - YAML: [source](../../../countries/US/sights/metropolitan-museum-of-art.yaml)
 - Action: new
@@ -3674,11 +3674,11 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 9.3 | Exceptional galleries |
-| uniqueness | 9.4 | Rare encyclopedic range |
-| significance | 9.4 | Internationally important collections |
-| experience | 9.3 | Rich thematic visits |
-| depth | 9.6 | Exceptional chronological and geographic breadth |
+| Impact | 9.3 | Exceptional galleries |
+| Uniqueness | 9.4 | Rare encyclopedic range |
+| Significance | 9.4 | Internationally important collections |
+| Experience | 9.3 | Rich thematic visits |
+| Depth | 9.6 | Exceptional chronological and geographic breadth |
 
 - Applicable categories: culture:9.4, history:9.4, architecture:8.9.
 - Computed worldwide overall: 93.75/100.
@@ -3688,7 +3688,7 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 - Verification still needed: independent corroboration and current visitor access checks.
 
 
-### sight-us-american-museum-of-natural-history — American Museum of Natural History — 2026-11-26
+## sight-us-american-museum-of-natural-history — American Museum of Natural History — 2026-11-26
 
 - YAML: [source](../../../countries/US/sights/american-museum-of-natural-history.yaml)
 - Action: new
@@ -3709,11 +3709,11 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 9.2 | Immersive displays |
-| uniqueness | 9.2 | Distinctive dioramas and gallery combination |
-| significance | 9.3 | Scientific collections and education |
-| experience | 9.2 | Varied exhibitions |
-| depth | 9.4 | Many complementary subject areas |
+| Impact | 9.2 | Immersive displays |
+| Uniqueness | 9.2 | Distinctive dioramas and gallery combination |
+| Significance | 9.3 | Scientific collections and education |
+| Experience | 9.2 | Varied exhibitions |
+| Depth | 9.4 | Many complementary subject areas |
 
 - Applicable categories: nature:9.3, culture:9.0, family:9.3.
 - Computed worldwide overall: 92.40/100.
@@ -3723,7 +3723,7 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 - Verification still needed: independent corroboration and current visitor access checks.
 
 
-### sight-us-national-air-and-space-museum-dc — National Air and Space Museum (Washington, DC) — 2026-11-26
+## sight-us-national-air-and-space-museum-dc — National Air and Space Museum (Washington, DC) — 2026-11-26
 
 - YAML: [source](../../../countries/US/sights/national-air-and-space-museum-dc.yaml)
 - Action: new
@@ -3744,11 +3744,11 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 9.1 | Memorable original aircraft and spacecraft |
-| uniqueness | 9.3 | Rare historic flight objects |
-| significance | 9.4 | International flight heritage |
-| experience | 9.1 | Strong exhibition-led visit |
-| depth | 9.1 | Multiple flight themes |
+| Impact | 9.1 | Memorable original aircraft and spacecraft |
+| Uniqueness | 9.3 | Rare historic flight objects |
+| Significance | 9.4 | International flight heritage |
+| Experience | 9.1 | Strong exhibition-led visit |
+| Depth | 9.1 | Multiple flight themes |
 
 - Applicable categories: history:9.4, culture:9.1, family:9.1.
 - Computed worldwide overall: 92.10/100.
@@ -3758,7 +3758,7 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 - Verification still needed: independent corroboration and current visitor access checks.
 
 
-### sight-us-national-museum-of-african-american-history-and-culture — National Museum of African American History and Culture — 2026-11-26
+## sight-us-national-museum-of-african-american-history-and-culture — National Museum of African American History and Culture — 2026-11-26
 
 - YAML: [source](../../../countries/US/sights/national-museum-of-african-american-history-and-culture.yaml)
 - Action: new
@@ -3779,11 +3779,11 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 9.0 | Powerful historical interpretation |
-| uniqueness | 9.2 | Distinctive comprehensive focus |
-| significance | 9.4 | Major historical and cultural significance |
-| experience | 9.1 | Meaningful curated visit |
-| depth | 9.2 | Multiple history and culture levels |
+| Impact | 9.0 | Powerful historical interpretation |
+| Uniqueness | 9.2 | Distinctive comprehensive focus |
+| Significance | 9.4 | Major historical and cultural significance |
+| Experience | 9.1 | Meaningful curated visit |
+| Depth | 9.2 | Multiple history and culture levels |
 
 - Applicable categories: history:9.4, culture:9.4, architecture:8.8.
 - Computed worldwide overall: 91.65/100.
@@ -3793,7 +3793,7 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 - Verification still needed: independent corroboration and current visitor access checks.
 
 
-### sight-us-lincoln-memorial — Lincoln Memorial — 2026-11-26
+## sight-us-lincoln-memorial — Lincoln Memorial — 2026-11-26
 
 - YAML: [source](../../../countries/US/sights/lincoln-memorial.yaml)
 - Action: new
@@ -3814,11 +3814,11 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 8.9 | Strong civic setting |
-| uniqueness | 8.8 | Recognizable classical memorial |
-| significance | 9.2 | Presidential and civil-rights significance |
-| experience | 8.7 | Reflective visit and vistas |
-| depth | 7.8 | Focused single memorial |
+| Impact | 8.9 | Strong civic setting |
+| Uniqueness | 8.8 | Recognizable classical memorial |
+| Significance | 9.2 | Presidential and civil-rights significance |
+| Experience | 8.7 | Reflective visit and vistas |
+| Depth | 7.8 | Focused single memorial |
 
 - Applicable categories: history:9.2, architecture:9.0, photography:8.9.
 - Computed worldwide overall: 87.95/100.
@@ -3828,7 +3828,7 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 - Verification still needed: independent corroboration and current visitor access checks.
 
 
-### sight-us-washington-monument — Washington Monument — 2026-11-26
+## sight-us-washington-monument — Washington Monument — 2026-11-26
 
 - YAML: [source](../../../countries/US/sights/washington-monument.yaml)
 - Action: new
@@ -3849,11 +3849,11 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 8.7 | Landmark scale and views |
-| uniqueness | 8.6 | Obelisk form has analogues |
-| significance | 8.8 | Important civic commemoration |
-| experience | 8.6 | Panoramic observation |
-| depth | 7.3 | Limited single monument |
+| Impact | 8.7 | Landmark scale and views |
+| Uniqueness | 8.6 | Obelisk form has analogues |
+| Significance | 8.8 | Important civic commemoration |
+| Experience | 8.6 | Panoramic observation |
+| Depth | 7.3 | Limited single monument |
 
 - Applicable categories: architecture:8.9, history:8.9, photography:8.9.
 - Computed worldwide overall: 85.40/100.
@@ -3863,7 +3863,7 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 - Verification still needed: independent corroboration and current visitor access checks.
 
 
-### sight-us-disneyland-park-anaheim — Disneyland Park (Anaheim) — 2026-11-26
+## sight-us-disneyland-park-anaheim — Disneyland Park (Anaheim) — 2026-11-26
 
 - YAML: [source](../../../countries/US/sights/disneyland-park-anaheim.yaml)
 - Action: new
@@ -3884,11 +3884,11 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 9.0 | Immersive themed settings |
-| uniqueness | 9.1 | Original park identity |
-| significance | 8.8 | Influential entertainment-design history |
-| experience | 9.3 | Varied rides and shows |
-| depth | 9.2 | Multiple themed lands |
+| Impact | 9.0 | Immersive themed settings |
+| Uniqueness | 9.1 | Original park identity |
+| Significance | 8.8 | Influential entertainment-design history |
+| Experience | 9.3 | Varied rides and shows |
+| Depth | 9.2 | Multiple themed lands |
 
 - Applicable categories: family:9.4, culture:8.8, photography:8.8.
 - Computed worldwide overall: 90.50/100.
@@ -3898,7 +3898,7 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 - Verification still needed: independent corroboration and current visitor access checks.
 
 
-### sight-us-magic-kingdom-park — Magic Kingdom Park — 2026-11-26
+## sight-us-magic-kingdom-park — Magic Kingdom Park — 2026-11-26
 
 - YAML: [source](../../../countries/US/sights/magic-kingdom-park.yaml)
 - Action: new
@@ -3919,11 +3919,11 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 8.9 | Memorable themed settings |
-| uniqueness | 8.7 | Shares concepts with other Disney parks |
-| significance | 8.5 | Influential design history |
-| experience | 9.3 | Varied attractions |
-| depth | 9.2 | Multiple themed areas |
+| Impact | 8.9 | Memorable themed settings |
+| Uniqueness | 8.7 | Shares concepts with other Disney parks |
+| Significance | 8.5 | Influential design history |
+| Experience | 9.3 | Varied attractions |
+| Depth | 9.2 | Multiple themed areas |
 
 - Applicable categories: family:9.4, culture:8.5, photography:8.8.
 - Computed worldwide overall: 88.60/100.
