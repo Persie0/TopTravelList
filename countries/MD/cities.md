@@ -2,7 +2,7 @@
 
 # Moldova (MD) — Cities, towns & villages ranking
 
-**17 ranked** · **1 unassessed** · **18 total** · Worldwide scoring **v2**
+**18 ranked** · **0 unassessed** · **18 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (17)
+## Complete ranked list (18)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -26,19 +26,12 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 10 | [Vadul lui Vodă](cities/vadul-lui-voda.yaml) | City / town | **69.30** | **Relaxation 8.3**, **Photography 8.0** | 6.9 / 7.1 / 6.2 / 7.9 / 6.6 | [47.09, 29.08](https://www.google.com/maps/search/?api=1&query=47.09,29.08) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Vadul%20lui%20Vod%C4%83%2C%20Moldova) |
 | 11 | [Orhei](cities/orhei.yaml) | City / town | **69.00** | **Culture 7.8**, **History 7.7** | 6.6 / 6.9 / 7.0 / 7.5 / 6.7 | [47.3849, 28.8245](https://www.google.com/maps/search/?api=1&query=47.3849,28.8245) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Orhei%2C%20Moldova) |
 | 12 | [Ungheni](cities/ungheni.yaml) | City / town | **68.90** | **Culture 7.8**, **History 7.7** | 6.5 / 7.0 / 7.0 / 7.4 / 6.8 | [47.2042, 27.795](https://www.google.com/maps/search/?api=1&query=47.2042,27.795) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ungheni%2C%20Moldova) |
-| 13 | [Cahul](cities/cahul.yaml) | City / town | **68.50** | **Culture 7.9**, **Relaxation 7.8** | 6.6 / 6.9 / 6.7 / 7.5 / 6.8 | [45.9079, 28.1944](https://www.google.com/maps/search/?api=1&query=45.9079,28.1944) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cahul%2C%20Moldova) |
-| 14 | [Purcari](cities/purcari.yaml) | City / town | **67.95** | **Food 8.0**, **Culture 7.8** | 6.6 / 7.2 / 6.6 / 7.3 / 6.0 | [46.533, 29.857](https://www.google.com/maps/search/?api=1&query=46.533,29.857) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Purcari%2C%20Moldova) |
-| 15 | [Hîncești](cities/hincesti.yaml) | City / town | **67.55** | **History 7.8**, **Culture 7.6** | 6.4 / 6.9 / 7.0 / 7.2 / 6.3 | [46.8305, 28.5906](https://www.google.com/maps/search/?api=1&query=46.8305,28.5906) | [Google Maps](https://www.google.com/maps/search/?api=1&query=H%C3%AEnce%C8%99ti%2C%20Moldova) |
-| 16 | [Bălți](cities/balti.yaml) | City / town | **67.40** | **Culture 7.7**, **Food 7.6** | 6.3 / 6.7 / 6.9 / 7.3 / 7.0 | [47.7617, 27.9289](https://www.google.com/maps/search/?api=1&query=47.7617,27.9289) | [Google Maps](https://www.google.com/maps/search/?api=1&query=B%C4%83l%C8%9Bi%2C%20Moldova) |
-| 17 | [Cricova](cities/cricova.yaml) | City / town | **66.40** | **Food 7.9**, **Culture 7.7** | 6.3 / 7.0 / 6.5 / 7.2 / 6.2 | [47.1389, 28.8619](https://www.google.com/maps/search/?api=1&query=47.1389,28.8619) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cricova%2C%20Moldova) |
-
-## Not yet fully assessed (1)
-
-These destinations have no rank until all five core scores are assessed.
-
-| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
-| ---: | --- | --- | ---: | --- | --- | --- | --- |
-| — | [Dubăsari](cities/dubasari.yaml) | City / town | **—** | **History 7.7**, **Photography 7.7** | 6.4 / 7.1 / 6.9 / — / — | [47.2656, 29.1667](https://www.google.com/maps/search/?api=1&query=47.2656,29.1667) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Dub%C4%83sari%2C%20Moldova) |
+| 13 | [Dubăsari](cities/dubasari.yaml) | City / town | **68.85** | **History 7.7**, **Photography 7.7** | 6.4 / 7.1 / 6.9 / 7.4 / 7.0 | [47.2656, 29.1667](https://www.google.com/maps/search/?api=1&query=47.2656,29.1667) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Dub%C4%83sari%2C%20Moldova) |
+| 14 | [Cahul](cities/cahul.yaml) | City / town | **68.50** | **Culture 7.9**, **Relaxation 7.8** | 6.6 / 6.9 / 6.7 / 7.5 / 6.8 | [45.9079, 28.1944](https://www.google.com/maps/search/?api=1&query=45.9079,28.1944) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cahul%2C%20Moldova) |
+| 15 | [Purcari](cities/purcari.yaml) | City / town | **67.95** | **Food 8.0**, **Culture 7.8** | 6.6 / 7.2 / 6.6 / 7.3 / 6.0 | [46.533, 29.857](https://www.google.com/maps/search/?api=1&query=46.533,29.857) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Purcari%2C%20Moldova) |
+| 16 | [Hîncești](cities/hincesti.yaml) | City / town | **67.55** | **History 7.8**, **Culture 7.6** | 6.4 / 6.9 / 7.0 / 7.2 / 6.3 | [46.8305, 28.5906](https://www.google.com/maps/search/?api=1&query=46.8305,28.5906) | [Google Maps](https://www.google.com/maps/search/?api=1&query=H%C3%AEnce%C8%99ti%2C%20Moldova) |
+| 17 | [Bălți](cities/balti.yaml) | City / town | **67.40** | **Culture 7.7**, **Food 7.6** | 6.3 / 6.7 / 6.9 / 7.3 / 7.0 | [47.7617, 27.9289](https://www.google.com/maps/search/?api=1&query=47.7617,27.9289) | [Google Maps](https://www.google.com/maps/search/?api=1&query=B%C4%83l%C8%9Bi%2C%20Moldova) |
+| 18 | [Cricova](cities/cricova.yaml) | City / town | **66.40** | **Food 7.9**, **Culture 7.7** | 6.3 / 7.0 / 6.5 / 7.2 / 6.2 | [47.1389, 28.8619](https://www.google.com/maps/search/?api=1&query=47.1389,28.8619) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cricova%2C%20Moldova) |
 
 ---
 

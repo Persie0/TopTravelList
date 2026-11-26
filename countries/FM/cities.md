@@ -2,7 +2,7 @@
 
 # Micronesia, Federated States of (FM) — Cities, towns & villages ranking
 
-**5 ranked** · **1 unassessed** · **6 total** · Worldwide scoring **v2**
+**6 ranked** · **0 unassessed** · **6 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (5)
+## Complete ranked list (6)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -18,15 +18,8 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 2 | [Lelu Town](cities/lelu.yaml) | Town | **72.35** | **History 8.3**, **Culture 7.7** | 6.7 / 7.7 / 8.0 / 7.0 / 6.5 | [5.33359, 163.02248](https://www.google.com/maps/search/?api=1&query=5.33359,163.02248) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lelu%20Town%2C%20Micronesia%2C%20Federated%20States%20of) |
 | 3 | [Kolonia (Pohnpei)](cities/kolonia.yaml) | City / town | **71.55** | **History 7.8**, **Culture 7.6** | 6.8 / 7.4 / 7.4 / 7.3 / 6.9 | [6.964, 158.2062](https://www.google.com/maps/search/?api=1&query=6.964,158.2062) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kolonia%20%28Pohnpei%29%2C%20Micronesia%2C%20Federated%20States%20of) |
 | 4 | [Weno](cities/weno.yaml) | City / town | **69.25** | — | 6.7 / 7.1 / 7.2 / 7.0 / 6.5 | [7.44648, 151.84135](https://www.google.com/maps/search/?api=1&query=7.44648,151.84135) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Weno%2C%20Micronesia%2C%20Federated%20States%20of) |
-| 5 | [Tofol](cities/tofol.yaml) | City / town | **64.10** | — | 6.2 / 6.6 / 6.8 / 6.4 / 5.8 | [5.32479, 163.00781](https://www.google.com/maps/search/?api=1&query=5.32479,163.00781) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tofol%2C%20Micronesia%2C%20Federated%20States%20of) |
-
-## Not yet fully assessed (1)
-
-These destinations have no rank until all five core scores are assessed.
-
-| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
-| ---: | --- | --- | ---: | --- | --- | --- | --- |
-| — | [Palikir](cities/palikir.yaml) | City / town | **—** | — | — / — / 7.0 / — / — | [6.92477, 158.16109](https://www.google.com/maps/search/?api=1&query=6.92477,158.16109) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Palikir%2C%20Micronesia%2C%20Federated%20States%20of) |
+| 5 | [Palikir](cities/palikir.yaml) | City / town | **66.70** | — | 6.3 / 7.2 / 7.0 / 6.6 / 5.9 | [6.92477, 158.16109](https://www.google.com/maps/search/?api=1&query=6.92477,158.16109) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Palikir%2C%20Micronesia%2C%20Federated%20States%20of) |
+| 6 | [Tofol](cities/tofol.yaml) | City / town | **64.10** | — | 6.2 / 6.6 / 6.8 / 6.4 / 5.8 | [5.32479, 163.00781](https://www.google.com/maps/search/?api=1&query=5.32479,163.00781) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tofol%2C%20Micronesia%2C%20Federated%20States%20of) |
 
 ---
 

@@ -1,7 +1,7 @@
 # Worldwide record-level diagnostic
 
 **250 registered areas; 16269 source records screened.**
-Ranked: 14902; unassessed: 1367.
+Ranked: 14906; unassessed: 1363.
 
 This is an automatically regenerated diagnostic, not an individual editorial reassessment or proof of bias. No scores are changed. Type is inferred from names; missing review headings may be parser limitations. Declared evidence statuses are not independent checks. Shared GPS and nearby names may denote legitimate nested attractions. Country medians depend on selection and are not country quality scores.
 
@@ -13,7 +13,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | evidence-review | 13662 |
 | field-9.5-plus | 2110 |
 | historical-review-only | 2516 |
-| incomplete-core | 1367 |
+| incomplete-core | 1363 |
 | no-recognized-review-heading | 65 |
 | overall-90-plus | 1801 |
 | overall-95-plus | 159 |
@@ -158,7 +158,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | EG | sights | 35 | 30 | 92.45 | 21 | 6 | 22 | 35 | [Giza Pyramid Plateau and Great Sphinx](../../countries/EG/sights/giza-plateau.yaml) 98.35; [Karnak Temple Complex](../../countries/EG/sights/karnak.yaml) 98.10; [Grand Egyptian Museum](../../countries/EG/sights/grand-egyptian-museum.yaml) 96.60 |
 | EH | cities | 4 | 3 | 74.15 | 0 | 0 | 0 | 4 | [Dakhla](../../countries/EH/cities/dakhla.yaml) 76.30; [Laâyoune (El Aaiún)](../../countries/EH/cities/laayoune.yaml) 74.15; [Boujdour](../../countries/EH/cities/boujdour.yaml) 68.40 |
 | EH | sights | 5 | 2 | 85.35 | 0 | 0 | 0 | 5 | [Dakhla Lagoon (Baie d’Ad-Dakhla)](../../countries/EH/sights/dakhla-lagoon.yaml) 89.15; [White Dune (Dune Blanche)](../../countries/EH/sights/white-dune.yaml) 81.55 |
-| ER | cities | 13 | 10 | 69.42 | 1 | 0 | 1 | 13 | [Asmara](../../countries/ER/cities/asmara.yaml) 90.55; [Massawa](../../countries/ER/cities/massawa.yaml) 84.20; [Keren](../../countries/ER/cities/keren.yaml) 78.25 |
+| ER | cities | 13 | 12 | 70.75 | 1 | 0 | 1 | 13 | [Asmara](../../countries/ER/cities/asmara.yaml) 90.55; [Massawa](../../countries/ER/cities/massawa.yaml) 84.20; [Keren](../../countries/ER/cities/keren.yaml) 78.25 |
 | ER | sights | 30 | 25 | 80.35 | 1 | 0 | 2 | 30 | [Asmara Modernist Historic Urban Ensemble](../../countries/ER/sights/asmara-modernist-historic-urban-ensemble.yaml) 92.75; [Qoahito Cultural Landscape](../../countries/ER/sights/qoahito-cultural-landscape.yaml) 88.20; [Dahlak Archipelago (authorized visitor waters)](../../countries/ER/sights/dahlak-archipelago-authorized-visitor-waters.yaml) 87.30 |
 | ES | cities | 22 | 22 | 88.58 | 7 | 1 | 8 | 22 | [Barcelona](../../countries/ES/cities/barcelona.yaml) 95.20; [Madrid](../../countries/ES/cities/madrid.yaml) 92.85; [Seville](../../countries/ES/cities/seville.yaml) 92.70 |
 | ES | sights | 113 | 97 | 89.80 | 42 | 4 | 49 | 113 | [Alhambra and Generalife palaces and gardens](../../countries/ES/sights/alhambra.yaml) 96.15; [Alhambra Generalife and Albayzín](../../countries/ES/sights/alhambra-ensemble.yaml) 95.40; [Mosque-Cathedral of Córdoba](../../countries/ES/sights/mezquita.yaml) 95.00 |
@@ -170,7 +170,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | FJ | sights | 18 | 16 | 84.10 | 4 | 0 | 1 | 18 | [Namena Marine Reserve](../../countries/FJ/sights/namena-marine-reserve.yaml) 91.25; [Great Sea Reef (Cakaulevu)](../../countries/FJ/sights/great-sea-reef.yaml) 90.80; [Rainbow Reef](../../countries/FJ/sights/rainbow-reef.yaml) 90.35 |
 | FK | cities | 3 | 3 | 76.90 | 0 | 0 | 0 | 3 | [Stanley](../../countries/FK/cities/stanley.yaml) 82.75; [Port Howard](../../countries/FK/cities/port-howard.yaml) 76.90; [Goose Green](../../countries/FK/cities/goose-green.yaml) 76.15 |
 | FK | sights | 10 | 10 | 88.10 | 3 | 0 | 0 | 10 | [Sea Lion Island (permitted visitor areas)](../../countries/FK/sights/sea-lion-island.yaml) 91.25; [Volunteer Point (permitted wildlife viewing)](../../countries/FK/sights/volunteer-point.yaml) 90.90; [Saunders Island (The Neck and permitted wildlife trails)](../../countries/FK/sights/saunders-island-neck.yaml) 90.05 |
-| FM | cities | 6 | 5 | 71.55 | 0 | 0 | 0 | 6 | [Colonia (Yap)](../../countries/FM/cities/colonia.yaml) 73.45; [Lelu Town](../../countries/FM/cities/lelu.yaml) 72.35; [Kolonia (Pohnpei)](../../countries/FM/cities/kolonia.yaml) 71.55 |
+| FM | cities | 6 | 6 | 70.40 | 0 | 0 | 0 | 6 | [Colonia (Yap)](../../countries/FM/cities/colonia.yaml) 73.45; [Lelu Town](../../countries/FM/cities/lelu.yaml) 72.35; [Kolonia (Pohnpei)](../../countries/FM/cities/kolonia.yaml) 71.55 |
 | FM | sights | 14 | 12 | 84.55 | 2 | 0 | 1 | 14 | [Chuuk Lagoon](../../countries/FM/sights/chuuk-lagoon.yaml) 91.20; [Nan Madol: Ceremonial Centre of Eastern Micronesia](../../countries/FM/sights/nan-madol.yaml) 91.20; [Mi'il Channel](../../countries/FM/sights/miil-channel.yaml) 88.65 |
 | FO | cities | 4 | 4 | 78.02 | 0 | 0 | 0 | 4 | [Tórshavn](../../countries/FO/cities/torshavn.yaml) 82.85; [Kirkjubøur](../../countries/FO/cities/kirkjubour.yaml) 80.20; [Gjógv](../../countries/FO/cities/gjogv.yaml) 75.85 |
 | FO | sights | 7 | 7 | 82.05 | 0 | 0 | 0 | 7 | [Mykines Island](../../countries/FO/sights/mykines.yaml) 88.45; [Trælanípa and Sørvágsvatn viewpoint](../../countries/FO/sights/traelanipa-sorvagsvatn.yaml) 86.10; [Kallur Lighthouse and ridge](../../countries/FO/sights/kallur-lighthouse.yaml) 84.10 |
@@ -302,7 +302,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | MA | sights | 32 | 24 | 88.65 | 7 | 0 | 6 | 32 | [Medina of Fez](../../countries/MA/sights/medina-fez.yaml) 94.60; [Medina of Marrakesh](../../countries/MA/sights/medina-marrakech.yaml) 94.10; [Ksar of Ait-Ben-Haddou](../../countries/MA/sights/ait-ben-haddou.yaml) 91.85 |
 | MC | cities | 1 | 1 | 84.20 | 0 | 0 | 0 | 1 | [Monaco](../../countries/MC/cities/monaco.yaml) 84.20 |
 | MC | sights | 29 | 27 | 78.35 | 0 | 0 | 0 | 29 | [Oceanographic Museum of Monaco](../../countries/MC/sights/oceanographic-museum-of-monaco.yaml) 88.60; [Prince's Palace State Apartments](../../countries/MC/sights/prince-s-palace-state-apartments.yaml) 85.85; [Monte-Carlo Casino Heritage Visit](../../countries/MC/sights/monte-carlo-casino-heritage-visit.yaml) 85.45 |
-| MD | cities | 18 | 17 | 69.50 | 0 | 0 | 0 | 18 | [Chișinău](../../countries/MD/cities/chisinau.yaml) 80.25; [Butuceni](../../countries/MD/cities/butuceni.yaml) 79.80; [Soroca](../../countries/MD/cities/soroca.yaml) 78.60 |
+| MD | cities | 18 | 18 | 69.40 | 0 | 0 | 0 | 18 | [Chișinău](../../countries/MD/cities/chisinau.yaml) 80.25; [Butuceni](../../countries/MD/cities/butuceni.yaml) 79.80; [Soroca](../../countries/MD/cities/soroca.yaml) 78.60 |
 | MD | sights | 33 | 31 | 80.95 | 0 | 0 | 0 | 33 | [Orheiul Vechi Cultural and Natural Reserve](../../countries/MD/sights/orheiul-vechi-cultural-and-natural-reserve.yaml) 88.70; [Cricova Underground Wine Cellars](../../countries/MD/sights/cricova-underground-wine-cellars.yaml) 87.15; [Mileștii Mici Underground Wine Cellars](../../countries/MD/sights/milestii-mici-underground-wine-cellars.yaml) 86.75 |
 | ME | cities | 33 | 33 | 75.35 | 0 | 0 | 0 | 33 | [Kotor](../../countries/ME/cities/kotor.yaml) 89.10; [Perast](../../countries/ME/cities/perast.yaml) 85.15; [Cetinje](../../countries/ME/cities/cetinje.yaml) 82.95 |
 | ME | sights | 94 | 94 | 82.25 | 7 | 0 | 4 | 94 | [Durmitor National Park](../../countries/ME/sights/durmitor-national-park.yaml) 93.20; [Bay of Kotor](../../countries/ME/sights/bay-of-kotor.yaml) 93.15; [Kotor Venetian Fortifications](../../countries/ME/sights/kotor-venetian-fortifications.yaml) 91.40 |
