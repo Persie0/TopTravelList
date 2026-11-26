@@ -5,12 +5,12 @@ A complete numeric rating is not proof of independent fact-checking.
 Historical dispositions are retained verbatim; overlapping scopes still require editorial review.
 
 - Current source records: **16,269**
-- Complete core ratings: **15,275**
-- All incomplete core ratings: **994**
-- Original inventory resolved: **596 / 1,590**
-- Original inventory still incomplete: **994**
+- Complete core ratings: **15,280**
+- All incomplete core ratings: **989**
+- Original inventory resolved: **601 / 1,590**
+- Original inventory still incomplete: **989**
 - Incomplete outside original inventory: **0**
-- Complete records historically labeled deferred or retain unranked: **505**
+- Complete records historically labeled deferred or retain unranked: **510**
 
 Use [remaining.tsv](remaining.tsv) as the current research queue.
 Use [original-inventory.tsv](original-inventory.tsv) to reconcile historical labels.
@@ -57,22 +57,22 @@ The latter does not change historical review decisions or certify public access.
 | TJ | 9 |
 | TK | 9 |
 | CI | 8 |
-| ES | 8 |
 | GA | 8 |
 | GN | 8 |
 | GQ | 8 |
-| IT | 8 |
 | KG | 8 |
 | PW | 8 |
 | UM | 8 |
 | BJ | 7 |
 | CY | 7 |
 | FR | 7 |
+| IT | 7 |
 | AE | 6 |
 | AZ | 6 |
 | CG | 6 |
 | CU | 6 |
 | ER | 6 |
+| ES | 6 |
 | ET | 6 |
 | RO | 6 |
 | TF | 6 |
@@ -118,7 +118,6 @@ The latter does not change historical review decisions or certify public access.
 | VU | 3 |
 | WS | 3 |
 | ZW | 3 |
-| AM | 2 |
 | AS | 2 |
 | BO | 2 |
 | BR | 2 |
@@ -132,7 +131,6 @@ The latter does not change historical review decisions or certify public access.
 | GT | 2 |
 | HN | 2 |
 | HR | 2 |
-| HU | 2 |
 | IE | 2 |
 | KM | 2 |
 | LK | 2 |
@@ -145,6 +143,7 @@ The latter does not change historical review decisions or certify public access.
 | SL | 2 |
 | AG | 1 |
 | AI | 1 |
+| AM | 1 |
 | AO | 1 |
 | AR | 1 |
 | BB | 1 |
@@ -165,6 +164,7 @@ The latter does not change historical review decisions or certify public access.
 | GS | 1 |
 | GU | 1 |
 | HM | 1 |
+| HU | 1 |
 | IL | 1 |
 | JO | 1 |
 | LA | 1 |
@@ -194,9 +194,9 @@ The latter does not change historical review decisions or certify public access.
 
 | Dimension | Missing |
 | --- | ---: |
-| depth | 987 |
-| experience | 994 |
-| impact | 682 |
+| depth | 982 |
+| experience | 989 |
+| impact | 680 |
 | significance | 90 |
 | uniqueness | 168 |
 
@@ -204,10 +204,10 @@ The latter does not change historical review decisions or certify public access.
 
 | Batch | Complete now | Incomplete now |
 | --- | ---: | ---: |
-| worldwide-incomplete-batch-100-2026-11-26.md | 35 | 65 |
+| worldwide-incomplete-batch-100-2026-11-26.md | 38 | 62 |
 | worldwide-incomplete-batch-100-pass10-2026-11-26.md | 68 | 32 |
-| worldwide-incomplete-batch-100-pass11-2026-11-26.md | 46 | 54 |
-| worldwide-incomplete-batch-100-pass12-2026-11-26.md | 29 | 71 |
+| worldwide-incomplete-batch-100-pass11-2026-11-26.md | 47 | 53 |
+| worldwide-incomplete-batch-100-pass12-2026-11-26.md | 30 | 70 |
 | worldwide-incomplete-batch-100-pass13-2026-11-26.md | 70 | 30 |
 | worldwide-incomplete-batch-100-pass14-2026-11-26.md | 33 | 67 |
 | worldwide-incomplete-batch-100-pass15-2026-11-26.md | 39 | 61 |
