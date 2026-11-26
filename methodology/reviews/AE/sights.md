@@ -1266,3 +1266,117 @@
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: full independent corroboration and current access.
+
+## sight-ae-dubai-miracle-garden — Dubai Miracle Garden — 2026-11-26
+
+- YAML: [source](../../../countries/AE/sights/dubai-miracle-garden.yaml)
+- Action: new
+- Precise subject and limitations: Seasonal floral display garden, excluding separate butterfly garden. Large themed floral structures; no unverified size superlative or conservation claim. Seasonal closure and weather restrictions.
+- Location check: 25.05981, 55.24454; [published representative point](https://en.wikipedia.org/wiki/Dubai_Miracle_Garden), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.visitdubai.com/en/places-to-visit/miracle-garden); visitor source excerpts inspected 2026-11-26. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [SG/gardens-by-the-bay](../../../countries/SG/sights/gardens-by-the-bay.yaml) | 9.5 / 9.5 / 8.4 / 9.4 / 9.3 | Greater architectural and horticultural variety. |
+| [KR/garden-of-morning-calm](../../../countries/KR/sights/garden-of-morning-calm.yaml) | 8.4 / 8.4 / 7.7 / 9.0 / 8.7 | More naturalistic garden setting. |
+| [TH/nong-nooch-tropical-garden](../../../countries/TH/sights/nong-nooch-tropical-garden.yaml) | 8.6 / 8.8 / 7.7 / 9.0 / 9.4 | Broader horticultural landscape. |
+| [US/chihuly-garden-and-glass](../../../countries/US/sights/chihuly-garden-and-glass.yaml) | 8.9 / 9.0 / 8.2 / 8.9 / 8.3 | Different artistic medium. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Large colourful floral structures. |
+| Uniqueness | 8.6 | Unusual themed floral sculptures in desert city. |
+| Significance | 6.9 | Primarily contemporary entertainment rather than historic or conservation significance. |
+| Experience | 8.7 | Varied scenic displays. |
+| Depth | 8.2 | Several themed zones but limited subject breadth. |
+
+- Applicable categories: photography:9.3, family:8.8, relaxation:8.5.
+- Computed worldwide overall: 82.95/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-ae-global-village-dubai — Global Village (Dubai) — 2026-11-26
+
+- YAML: [source](../../../countries/AE/sights/global-village-dubai.yaml)
+- Action: new
+- Precise subject and limitations: Seasonal entertainment complex with themed pavilions, food and shows. Not authentic historic village; cultural displays are commercial representations. Rides separately priced where applicable.
+- Location check: 25.06814, 55.30645; [published representative point](https://mapcarta.com/W1205055396), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.visitdubai.com/en/places-to-visit/global-village); visitor source excerpts inspected 2026-11-26. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [AE/ferrari-world-abu-dhabi](../../../countries/AE/sights/ferrari-world-abu-dhabi.yaml) | 8.8 / 8.9 / 6.8 / 9.1 / 8.8 | More concentrated ride and automotive theme. |
+| [HK/hong-kong-disneyland](../../../countries/HK/sights/hong-kong-disneyland.yaml) | 8.9 / 8.7 / 7.8 / 9.3 / 9.1 | More immersive established themed park. |
+| [KR/everland-theme-park](../../../countries/KR/sights/everland-theme-park.yaml) | 8.7 / 8.5 / 7.0 / 9.2 / 9.5 | More ride-focused attraction. |
+| [AE/aquaventure-world](../../../countries/AE/sights/aquaventure-world.yaml) | 8.6 / 8.4 / 5.5 / 9.3 / 9.0 | Waterpark rather than cultural entertainment. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.5 | Large themed pavilions and evening displays. |
+| Uniqueness | 8.6 | Combination of country-themed retail and performances. |
+| Significance | 7.1 | Contemporary commercial attraction, not historic heritage. |
+| Experience | 9.0 | Many dining and entertainment options. |
+| Depth | 9.0 | Numerous pavilions and activities. |
+
+- Applicable categories: family:9.0, culture:8.3, food:8.7, nightlife:8.7.
+- Computed worldwide overall: 83.70/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-ae-jumeirah-mosque — Jumeirah Mosque — 2026-11-26
+
+- YAML: [source](../../../countries/AE/sights/jumeirah-mosque.yaml)
+- Action: new
+- Precise subject and limitations: Mosque architecture and authorized cultural tours open to non-Muslims; excludes nearby beach. Religious etiquette and tour schedules apply.
+- Location check: 25.234, 55.2655; [published representative point](https://en.wikipedia.org/wiki/Jumeirah_Mosque), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.visitdubai.com/en/places-to-visit/jumeirah-mosque); visitor source excerpts inspected 2026-11-26. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [AE/sheikh-zayed-grand-mosque](../../../countries/AE/sights/sheikh-zayed-grand-mosque.yaml) | 9.6 / 9.1 / 8.4 / 9.3 / 8.3 | Far more monumental architecture. |
+| [AE/al-bidya-mosque](../../../countries/AE/sights/al-bidya-mosque.yaml) | 7.6 / 8.5 / 8.5 / 7.6 / 6.0 | Greater historic significance. |
+| [SG/sultan-mosque](../../../countries/SG/sights/sultan-mosque.yaml) | 8.5 / 8.5 / 8.4 / 8.5 / 7.6 | More established historic urban mosque. |
+| [HK/man-mo-temple-hong-kong](../../../countries/HK/sights/man-mo-temple-hong-kong.yaml) | 8.6 / 8.8 / 8.7 / 9.0 / 7.7 | Different living religious heritage. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.1 | Distinctive mosque architecture. |
+| Uniqueness | 8.3 | Guided interfaith cultural interpretation. |
+| Significance | 8.0 | Regional modern religious heritage. |
+| Experience | 8.5 | Accessible organized cultural visits. |
+| Depth | 7.5 | Single mosque with focused interpretation. |
+
+- Applicable categories: architecture:8.8, culture:8.9, photography:8.5.
+- Computed worldwide overall: 81.30/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.

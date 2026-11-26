@@ -416,3 +416,17 @@ Five additions, 20 peer comparisons matched against current ranked rows. NZ 56 r
 - [x] HK — Ten Thousand Buddhas Monastery: 85.00/100 (source-linked-unverified).
 
 Seven additions; 28 ranked-row peer comparisons. HK 30 ranked. Remaining bounded screen: MacLehose Trail and Science Museum; exclude duplicate harbour viewpoints. Python validation and individual YAML checks pending.
+
+### Pass 40 — close Hong Kong screen and start UAE
+
+- [x] HK — MacLehose Trail: 87.70/100 (source-linked-unverified).
+- [x] HK — Hong Kong Science Museum: 81.90/100 (source-linked-unverified).
+- [x] HK — Tsz Shan Monastery: 85.60/100 (source-linked-unverified).
+- [x] HK — Kadoorie Farm and Botanic Garden: 85.80/100 (source-linked-unverified).
+- [x] HK — Hong Kong Maritime Museum: 81.75/100 (source-linked-unverified).
+- [x] HK — Hong Kong Space Museum: 80.90/100 (source-linked-unverified).
+- [x] AE — Dubai Miracle Garden: 82.95/100 (source-linked-unverified).
+- [x] AE — Global Village (Dubai): 83.70/100 (source-linked-unverified).
+- [x] AE — Jumeirah Mosque: 81.30/100 (source-linked-unverified).
+
+Nine additions and 36 peer comparisons matched to ranked rows. HK 36 ranked / 36 total; close bounded high-value discovery screen after checking tourism board top picks and the remaining trail, museum and religious/garden candidates. Avenue of Stars and Peak Tower not separately added due to harbour and Peak scope overlap; Tai Mo Shan included in MacLehose route experience; ordinary retail streets and city parks not added solely to fill a quota. Maritime Museum redevelopment documented. UAE 53 ranked / 63 total; seasonal floral and cultural entertainment and mosque tour omissions addressed. UAE still OPEN for major distinct candidates including Jubail Mangrove Park. Global Village inferred as Historic settlement by lexical generator; misleading classification, documented here, not a historic village. Existing ratings unchanged. Full Python validation and individual peer YAML checks pending.

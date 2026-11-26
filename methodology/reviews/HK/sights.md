@@ -1267,3 +1267,231 @@ Peer dimensions checked against ranked rows; full YAML check pending.
 - Approved 10 registry: none.
 - Final decision: provisional editorial assessment; earlier decision: none.
 - Verification still needed: independent corroboration and current access.
+
+## sight-hk-maclehose-trail — MacLehose Trail — 2026-11-26
+
+- YAML: [source](../../../countries/HK/sights/maclehose-trail.yaml)
+- Action: new
+- Precise subject and limitations: 100-km hiking route across eight country parks, scored for the connected multi-stage walking experience, not a second geological assessment of Sai Kung; start marker at Pak Tam Chung. Trail conditions and heat vary.
+- Location check: 22.400022, 114.323899; [published representative point](https://tubudili.com/en/maclehose-full/), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.gohk.gov.hk/en/spots/spot_detail.php?spot=MacLehose+Trail+%28Tai+Po+sections%29); visitor source excerpts inspected 2026-11-26. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [HK/dragons-back-trail](../../../countries/HK/sights/dragons-back-trail.yaml) | 8.8 / 8.6 / 7.4 / 9.2 / 8.4 | Shorter single ridge walk. |
+| [HK/sai-kung-geopark](../../../countries/HK/sights/sai-kung-geopark.yaml) | 9.1 / 9.4 / 8.8 / 9.2 / 9.1 | Geological landscape rather than continuous trail. |
+| [SE/kungsleden](../../../countries/SE/sights/kungsleden.yaml) | 9.0 / 8.8 / 8.7 / 9.1 / 9.4 | More extensive remote mountain wilderness. |
+| [NZ/hooker-valley-track](../../../countries/NZ/sights/hooker-valley-track.yaml) | 9.2 / 8.5 / 8.1 / 9.2 / 8.3 | Shorter, more concentrated alpine scenery. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Dramatic ridge and coastal views. |
+| Uniqueness | 8.7 | Long cross-territory route in dense metropolitan region. |
+| Significance | 8.2 | First local long-distance trail, chiefly regional significance. |
+| Experience | 9.1 | Varied stages and landscapes. |
+| Depth | 9.2 | Multi-day route across eight parks. |
+
+- Applicable categories: nature:9.1, adventure:9.3, photography:9.1.
+- Computed worldwide overall: 87.70/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-hk-hong-kong-science-museum — Hong Kong Science Museum — 2026-11-26
+
+- YAML: [source](../../../countries/HK/sights/hong-kong-science-museum.yaml)
+- Action: new
+- Precise subject and limitations: Interactive science galleries, including earth science and biodiversity; separate from adjacent history museum. Rotating exhibitions excluded from guaranteed scope.
+- Location check: 22.301021, 114.17751; [published representative point](https://en.wikipedia.org/wiki/Hong_Kong_Science_Museum), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://hk.science.museum/en/web/scm/exhibition.html); visitor source excerpts inspected 2026-11-26. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [SG/science-centre-singapore](../../../countries/SG/sights/science-centre-singapore.yaml) | 8.0 / 7.8 / 7.2 / 8.7 / 8.6 | Comparable hands-on science education. |
+| [SG/artscience-museum](../../../countries/SG/sights/artscience-museum.yaml) | 8.7 / 8.7 / 7.8 / 8.9 / 8.4 | Stronger architectural spectacle. |
+| [US/smithsonian-national-museum-of-natural-history](../../../countries/US/sights/smithsonian-national-museum-of-natural-history.yaml) | 9.2 / 9.3 / 9.4 / 9.2 / 9.4 | Greater collection significance. |
+| [HK/hong-kong-museum-of-history](../../../countries/HK/sights/hong-kong-museum-of-history.yaml) | 8.2 / 8.5 / 8.7 / 8.4 / 8.6 | Different local history focus. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.1 | Engaging interactive displays. |
+| Uniqueness | 8.0 | Comparable science museums elsewhere. |
+| Significance | 7.8 | Regional public science education. |
+| Experience | 8.8 | Hands-on exhibits for varied ages. |
+| Depth | 8.8 | Multiple permanent galleries. |
+
+- Applicable categories: family:9.1, culture:8.3.
+- Computed worldwide overall: 81.90/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-hk-tsz-shan-monastery — Tsz Shan Monastery — 2026-11-26
+
+- YAML: [source](../../../countries/HK/sights/tsz-shan-monastery.yaml)
+- Action: new
+- Precise subject and limitations: Modern Buddhist monastery, Guan Yin monument and integrated Buddhist art museum; advance registration required; spiritual practices not guaranteed. Tourism board: https://www.discoverhongkong.com/eng/place-to-go/travel.guide-tsz-shan-monastery.html.
+- Location check: 22.47434, 114.20536; [published representative point](https://mapcarta.com/W169791764), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.tszshan.org/home/new/en/museum.php); visitor source excerpts inspected 2026-11-26. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [HK/po-lin-monastery](../../../countries/HK/sights/po-lin-monastery.yaml) | 8.8 / 8.9 / 8.6 / 9.0 / 8.2 | Greater historical religious significance. |
+| [HK/tian-tan-buddha](../../../countries/HK/sights/tian-tan-buddha.yaml) | 8.8 / 9.1 / 8.4 / 9.3 / 8.0 | Comparable monumental statue. |
+| [TH/wat-pho](../../../countries/TH/sights/wat-pho.yaml) | 9.0 / 9.2 / 9.3 / 9.2 / 8.5 | Greater historical and architectural depth. |
+| [TH/wat-arun](../../../countries/TH/sights/wat-arun.yaml) | 8.9 / 9.0 / 8.9 / 9.1 / 8.0 | More historic monumental architecture. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Monumental statue and landscaped setting. |
+| Uniqueness | 8.7 | Distinct combination of sculpture and Buddhist art. |
+| Significance | 7.9 | Modern religious institution, not ancient heritage. |
+| Experience | 8.7 | Contemplative visit with registration limits. |
+| Depth | 8.3 | Temple complex and art collection. |
+
+- Applicable categories: architecture:9.0, culture:8.9, photography:9.1, relaxation:8.7.
+- Computed worldwide overall: 85.60/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-hk-kadoorie-farm-botanic-garden — Kadoorie Farm and Botanic Garden — 2026-11-26
+
+- YAML: [source](../../../countries/HK/sights/kadoorie-farm-botanic-garden.yaml)
+- Action: new
+- Precise subject and limitations: Public hillside gardens, trails and education exhibits; not unrestricted reserve access. Operator visitor conditions and seasonal restrictions apply.
+- Location check: 22.4335, 114.118; [published representative point](https://hongkongstory.org/places/cg-park-kadoorie-farm-and-botanic-garden), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.kfbg.org/en/exploring-our-hillside); visitor source excerpts inspected 2026-11-26. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [NZ/zealandia-ecosanctuary](../../../countries/NZ/sights/zealandia-ecosanctuary.yaml) | 8.7 / 9.2 / 9.0 / 8.9 / 8.8 | Stronger native wildlife focus. |
+| [SG/singapore-botanic-gardens](../../../countries/SG/sights/singapore-botanic-gardens.yaml) | 9.1 / 9.2 / 9.4 / 9.2 / 9.3 | Greater historical and botanical significance. |
+| [KR/hwadam-botanical-garden](../../../countries/KR/sights/hwadam-botanical-garden.yaml) | 8.5 / 8.6 / 7.6 / 9.1 / 8.8 | Comparable hillside garden experience. |
+| [HK/mai-po-nature-reserve](../../../countries/HK/sights/mai-po-nature-reserve.yaml) | 8.4 / 8.9 / 9.0 / 8.4 / 8.8 | Different protected wetland ecosystem. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.5 | Varied hillside gardens. |
+| Uniqueness | 8.5 | Conservation education combined with cultivated landscapes. |
+| Significance | 8.6 | Regional native species conservation relevance. |
+| Experience | 8.7 | Walks and exhibits support varied visits. |
+| Depth | 8.8 | Multiple garden zones and trails. |
+
+- Applicable categories: nature:9.1, wildlife:8.8, family:8.7, photography:8.7.
+- Computed worldwide overall: 85.80/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-hk-hong-kong-maritime-museum — Hong Kong Maritime Museum — 2026-11-26
+
+- YAML: [source](../../../countries/HK/sights/hong-kong-maritime-museum.yaml)
+- Action: new
+- Precise subject and limitations: Central Pier 8 museum galleries and maritime interpretation, excludes harbour views as standalone experience. B Deck closures phased September-November 2026, further works 2027; A and C Deck visitor galleries remain open per operator.
+- Location check: 22.28639, 114.16194; [published representative point](https://en.wikipedia.org/wiki/Hong_Kong_Maritime_Museum), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.hkmaritimemuseum.org/special-ann-15-redevelopment-of-b-deck/details); visitor source excerpts inspected 2026-11-26. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [HK/hong-kong-museum-of-history](../../../countries/HK/sights/hong-kong-museum-of-history.yaml) | 8.2 / 8.5 / 8.7 / 8.4 / 8.6 | Broader city history coverage. |
+| [HK/hong-kong-heritage-museum](../../../countries/HK/sights/hong-kong-heritage-museum.yaml) | 8.2 / 8.6 / 8.5 / 8.7 / 8.7 | Broader cultural interpretation. |
+| [AE/sharjah-museum-of-islamic-civilization](../../../countries/AE/sights/sharjah-museum-of-islamic-civilization.yaml) | 8.1 / 8.5 / 8.6 / 8.4 / 8.4 | Different regional material culture. |
+| [NZ/auckland-war-memorial-museum](../../../countries/NZ/sights/auckland-war-memorial-museum.yaml) | 8.7 / 8.9 / 9.1 / 8.7 / 9.0 | Much broader collection. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 7.9 | Engaging objects and marine exhibits. |
+| Uniqueness | 8.3 | Local port and Chinese maritime focus. |
+| Significance | 8.4 | Regional maritime history significance. |
+| Experience | 8.2 | Open galleries but redevelopment limits experience. |
+| Depth | 8.2 | Several galleries available despite works. |
+
+- Applicable categories: history:8.8, culture:8.6, family:8.2.
+- Computed worldwide overall: 81.75/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-hk-hong-kong-space-museum — Hong Kong Space Museum — 2026-11-26
+
+- YAML: [source](../../../countries/HK/sights/hong-kong-space-museum.yaml)
+- Action: new
+- Precise subject and limitations: Astronomy galleries and dome theatre, excluding the harbour promenade; show schedules and tickets vary. Distinct from general science museum.
+- Location check: 22.294353, 114.171869; [published representative point](https://en.wikipedia.org/wiki/Hong_Kong_Space_Museum), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://hk.space.museum/en/web/spm/exhibitions/permanent-exhibition.html); visitor source excerpts inspected 2026-11-26. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [SG/science-centre-singapore](../../../countries/SG/sights/science-centre-singapore.yaml) | 8.0 / 7.8 / 7.2 / 8.7 / 8.6 | Broader science subject scope. |
+| [US/national-air-and-space-museum-dc](../../../countries/US/sights/national-air-and-space-museum-dc.yaml) | 9.1 / 9.3 / 9.4 / 9.1 / 9.1 | Greater historic aerospace collection. |
+| [US/kennedy-space-center-visitor-complex](../../../countries/US/sights/kennedy-space-center-visitor-complex.yaml) | 9.2 / 9.4 / 9.4 / 9.2 / 9.3 | Authentic launch-site context. |
+| [HK/hong-kong-museum-of-art](../../../countries/HK/sights/hong-kong-museum-of-art.yaml) | 8.6 / 8.7 / 8.8 / 8.8 / 9.0 | Different cultural focus. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.0 | Recognizable dome and immersive exhibits. |
+| Uniqueness | 8.2 | Dedicated planetarium and space science. |
+| Significance | 7.7 | Regional astronomy education. |
+| Experience | 8.6 | Interactive exhibits and dome shows. |
+| Depth | 8.1 | Focused rather than encyclopedic collection. |
+
+- Applicable categories: family:8.9, architecture:8.4, culture:8.2.
+- Computed worldwide overall: 80.90/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.

@@ -1,0 +1,16 @@
+id: sight-ae-dubai-miracle-garden
+name: "Dubai Miracle Garden"
+location:
+  country_code: AE
+  latitude: 25.05981
+  longitude: 55.24454
+scores:
+  impact: 8.8
+  uniqueness: 8.6
+  significance: 6.9
+  experience: 8.7
+  depth: 8.2
+  categories:
+    photography: 9.3
+    family: 8.8
+    relaxation: 8.5

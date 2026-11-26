@@ -1,0 +1,17 @@
+id: sight-hk-tsz-shan-monastery
+name: "Tsz Shan Monastery"
+location:
+  country_code: HK
+  latitude: 22.47434
+  longitude: 114.20536
+scores:
+  impact: 8.9
+  uniqueness: 8.7
+  significance: 7.9
+  experience: 8.7
+  depth: 8.3
+  categories:
+    architecture: 9.0
+    culture: 8.9
+    photography: 9.1
+    relaxation: 8.7

@@ -188,7 +188,7 @@ Every registered country has a linked folder below. The status is determined fro
 | [Haiti](countries/HT/) (`HT`) | [12](countries/HT/cities.md) | [32](countries/HT/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Haiti) |
 | [Heard Island and McDonald Islands](countries/HM/) (`HM`) | [0](countries/HM/cities.md) | [1](countries/HM/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Heard%20Island%20and%20McDonald%20Islands) |
 | [Honduras](countries/HN/) (`HN`) | [31](countries/HN/cities.md) | [59](countries/HN/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Honduras) |
-| [Hong Kong](countries/HK/) (`HK`) | [1](countries/HK/cities.md) | [30](countries/HK/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Hong%20Kong) |
+| [Hong Kong](countries/HK/) (`HK`) | [1](countries/HK/cities.md) | [36](countries/HK/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Hong%20Kong) |
 | [Hungary](countries/HU/) (`HU`) | [18](countries/HU/cities.md) | [50](countries/HU/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Hungary) |
 | [Iceland](countries/IS/) (`IS`) | [15](countries/IS/cities.md) | [59](countries/IS/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Iceland) |
 | [India](countries/IN/) (`IN`) | [97](countries/IN/cities.md) | [333](countries/IN/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=India) |
@@ -322,7 +322,7 @@ Every registered country has a linked folder below. The status is determined fro
 | [Türkiye](countries/TR/) (`TR`) | [20](countries/TR/cities.md) | [51](countries/TR/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=T%C3%BCrkiye) |
 | [Uganda](countries/UG/) (`UG`) | [6](countries/UG/cities.md) | [25](countries/UG/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Uganda) |
 | [Ukraine](countries/UA/) (`UA`) | [14](countries/UA/cities.md) | [49](countries/UA/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Ukraine) |
-| [United Arab Emirates](countries/AE/) (`AE`) | [14](countries/AE/cities.md) | [60](countries/AE/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=United%20Arab%20Emirates) |
+| [United Arab Emirates](countries/AE/) (`AE`) | [14](countries/AE/cities.md) | [63](countries/AE/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=United%20Arab%20Emirates) |
 | [United Kingdom](countries/GB/) (`GB`) | [30](countries/GB/cities.md) | [81](countries/GB/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=United%20Kingdom) |
 | [United States](countries/US/) (`US`) | [15](countries/US/cities.md) | [136](countries/US/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=United%20States) |
 | [United States Minor Outlying Islands](countries/UM/) (`UM`) | [0](countries/UM/cities.md) | [9](countries/UM/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=United%20States%20Minor%20Outlying%20Islands) |

@@ -1,0 +1,17 @@
+id: sight-hk-kadoorie-farm-botanic-garden
+name: "Kadoorie Farm and Botanic Garden"
+location:
+  country_code: HK
+  latitude: 22.4335
+  longitude: 114.118
+scores:
+  impact: 8.5
+  uniqueness: 8.5
+  significance: 8.6
+  experience: 8.7
+  depth: 8.8
+  categories:
+    nature: 9.1
+    wildlife: 8.8
+    family: 8.7
+    photography: 8.7
