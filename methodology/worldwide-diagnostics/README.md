@@ -1,7 +1,7 @@
 # Worldwide record-level diagnostic
 
 **250 registered areas; 16269 source records screened.**
-Ranked: 14735; unassessed: 1534.
+Ranked: 14737; unassessed: 1532.
 
 This is an automatically regenerated diagnostic, not an individual editorial reassessment or proof of bias. No scores are changed. Type is inferred from names; missing review headings may be parser limitations. Declared evidence statuses are not independent checks. Shared GPS and nearby names may denote legitimate nested attractions. Country medians depend on selection and are not country quality scores.
 
@@ -9,11 +9,11 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 
 | Flag | Records |
 | --- | ---: |
-| conflicting-declared-status | 378 |
+| conflicting-declared-status | 380 |
 | evidence-review | 13662 |
 | field-9.5-plus | 2110 |
 | historical-review-only | 2516 |
-| incomplete-core | 1534 |
+| incomplete-core | 1532 |
 | no-recognized-review-heading | 65 |
 | overall-90-plus | 1793 |
 | overall-95-plus | 159 |
@@ -63,7 +63,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | BB | cities | 10 | 10 | 75.50 | 0 | 0 | 0 | 10 | [Bridgetown](../../countries/BB/cities/bridgetown.yaml) 81.80; [Speightstown](../../countries/BB/cities/speightstown.yaml) 80.15; [Bathsheba](../../countries/BB/cities/bathsheba.yaml) 78.50 |
 | BB | sights | 35 | 33 | 80.25 | 0 | 0 | 0 | 35 | [Historic Bridgetown and its Garrison](../../countries/BB/sights/historic-bridgetown-and-its-garrison.yaml) 88.75; [Scotland District of Barbados](../../countries/BB/sights/scotland-district-of-barbados.yaml) 86.15; [Harrison's Cave](../../countries/BB/sights/harrison-s-cave.yaml) 85.25 |
 | BD | cities | 15 | 13 | 74.00 | 0 | 0 | 0 | 15 | [Dhaka](../../countries/BD/cities/dhaka.yaml) 83.50; [Chattogram](../../countries/BD/cities/chattogram.yaml) 76.90; [Sylhet](../../countries/BD/cities/sylhet.yaml) 76.25 |
-| BD | sights | 42 | 33 | 82.95 | 1 | 0 | 3 | 42 | [The Sundarbans (Bangladesh World Heritage Property)](../../countries/BD/sights/the-sundarbans-bangladesh-world-heritage-property.yaml) 92.35; [Historic Mosque City of Bagerhat](../../countries/BD/sights/historic-mosque-city-of-bagerhat.yaml) 89.05; [Ruins of the Buddhist Vihara at Paharpur](../../countries/BD/sights/ruins-of-the-buddhist-vihara-at-paharpur.yaml) 88.45 |
+| BD | sights | 42 | 35 | 82.70 | 1 | 0 | 3 | 42 | [The Sundarbans (Bangladesh World Heritage Property)](../../countries/BD/sights/the-sundarbans-bangladesh-world-heritage-property.yaml) 92.35; [Historic Mosque City of Bagerhat](../../countries/BD/sights/historic-mosque-city-of-bagerhat.yaml) 89.05; [Ruins of the Buddhist Vihara at Paharpur](../../countries/BD/sights/ruins-of-the-buddhist-vihara-at-paharpur.yaml) 88.45 |
 | BE | cities | 18 | 18 | 84.10 | 3 | 0 | 1 | 18 | [Bruges (Brugge)](../../countries/BE/cities/bruges.yaml) 92.50; [Ghent (Gent)](../../countries/BE/cities/ghent.yaml) 91.45; [Brussels](../../countries/BE/cities/brussels.yaml) 90.10 |
 | BE | sights | 64 | 56 | 86.92 | 5 | 0 | 3 | 64 | [Historic Centre of Bruges](../../countries/BE/sights/historic-bruges.yaml) 93.45; [Medieval Ghent and abbey heritage (tentative)](../../countries/BE/sights/ghent-historic-core.yaml) 91.20; [Grand-Place, Brussels](../../countries/BE/sights/grand-place.yaml) 90.90 |
 | BF | cities | 9 | 3 | 76.30 | 0 | 0 | 0 | 9 | [Bobo-Dioulasso](../../countries/BF/cities/bobo-dioulasso.yaml) 81.55; [Ouagadougou](../../countries/BF/cities/ouagadougou.yaml) 76.30; [Banfora](../../countries/BF/cities/banfora.yaml) 69.65 |
