@@ -1,0 +1,17 @@
+id: sight-us-getty-center
+name: "Getty Center"
+location:
+  country_code: US
+  latitude: 34.07804
+  longitude: -118.4741
+scores:
+  impact: 9.1
+  uniqueness: 9.1
+  significance: 9.0
+  experience: 9.2
+  depth: 9.1
+  categories:
+    culture: 9.3
+    architecture: 9.3
+    photography: 9.1
+    history: 8.9

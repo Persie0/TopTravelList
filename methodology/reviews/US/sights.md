@@ -4005,3 +4005,231 @@ Peer values from country ranking tables or same-batch assessments; complete sour
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 assessment; earlier decision: none.
 - Verification still needed: independent corroboration and current access.
+
+## sight-us-times-square — Times Square — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/times-square.yaml)
+- Action: new
+- Precise subject: Public pedestrian plazas and illuminated street environment; excludes separately ticketed Broadway shows, individual shops and New Year's Eve event-specific access.
+- Location check: 40.75726, -73.98601; [published representative point](https://mapcarta.com/22627724), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: NYC identifies six pedestrian plazas between 41st and 47th Streets; mapped point represents square, not a subway station. Public programming and visual commercial environment support scope (https://www.timessquarenyc.org/business-community/planning-an-event). [Primary reference](https://www.nyc.gov/site/cecm/permitting/times-square.page); web sources inspected 2026-11-26. Sources support scope and facts, not numeric judgments.
+- Missing or uncertain facts: full independent corroboration, current access and availability of individual areas or artworks.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [US/central-park](../../../countries/US/sights/central-park.yaml) | Broader recreational scope and greater landscape depth. |
+| [CA/granville-island](../../../countries/CA/sights/granville-island.yaml) | More varied food and arts district activities; Times Square stronger visual spectacle. |
+| [HK/victoria-harbour](../../../countries/HK/sights/victoria-harbour.yaml) | Distinct waterfront skyline spectacle versus dense street-level commercial environment. |
+| [US/empire-state-building](../../../countries/US/sights/empire-state-building.yaml) | Architectural landmark and focused elevated view versus open street environment. |
+
+Peer assessments compared editorially; complete source YAML recheck pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Immersive illuminated commercial streetscape |
+| Uniqueness | 9.0 | globally recognizable concentration of advertising and entertainment |
+| Significance | 8.5 | international cultural visibility but limited historic fabric |
+| Experience | 8.4 | memorable public-space experience with crowds and limited activities |
+| Depth | 7.2 | relatively short walk unless separately ticketed experiences are added. |
+
+- Applicable categories: photography:9.1, culture:8.7, nightlife:8.8.
+- Computed worldwide overall: 86.30/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: full independent corroboration and current access.
+
+## sight-us-art-institute-of-chicago — Art Institute of Chicago — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/art-institute-of-chicago.yaml)
+- Action: new
+- Precise subject: Main museum campus, including Modern Wing; excludes School of the Art Institute and Millennium Park.
+- Location check: 41.87944, -87.62389; [published representative point](https://en.wikipedia.org/wiki/Art_Institute_of_Chicago), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Museum publication describes nearly 300,000 objects across numerous media and highlights Seurat, Hopper, Wood and Hokusai; city tourism describes galleries and tours (https://www.choosechicago.com/articles/museums-art/visit-the-art-institute-of-chicago/). Main visitor page returned 403; no assumption that each work is currently displayed. [Primary reference](https://shop.artic.edu/products/291982); web sources inspected 2026-11-26. Sources support scope and facts, not numeric judgments.
+- Missing or uncertain facts: full independent corroboration, current access and availability of individual areas or artworks.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [FR/louvre](../../../countries/FR/sights/louvre.yaml) | Louvre has broader archaeological and historical scope. |
+| [US/metropolitan-museum-of-art](../../../countries/US/sights/metropolitan-museum-of-art.yaml) | Metropolitan Museum has greater encyclopedic breadth. |
+| [US/museum-of-modern-art-new-york](../../../countries/US/sights/museum-of-modern-art-new-york.yaml) | MoMA concentrates on modern and contemporary works; Chicago spans more periods. |
+| [ES/prado](../../../countries/ES/sights/prado.yaml) | Prado has stronger Spanish old-master specialization; Chicago has important modern and American holdings. |
+
+Peer assessments compared editorially; complete source YAML recheck pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.3 | Canonical original art creates exceptional visual impact |
+| Uniqueness | 9.3 | concentration of Impressionist and American masterpieces is distinctive |
+| Significance | 9.4 | internationally significant collection across cultures and periods |
+| Experience | 9.3 | diverse galleries and interpretation reward sustained visits |
+| Depth | 9.4 | substantial multi-media holdings support deep exploration. |
+
+- Applicable categories: culture:9.4, history:9.3, architecture:8.7.
+- Computed worldwide overall: 93.30/100.
+- High-score challenge: Above 90 reflects the documented collection and site-specific strengths above, below broader world-leading institutions. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: full independent corroboration and current access.
+
+## sight-us-getty-center — Getty Center — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/getty-center.yaml)
+- Action: new
+- Precise subject: Brentwood hilltop Getty Center art galleries, visitor-accessible architecture and gardens; excludes Getty Villa in Pacific Palisades and scholar-only research areas.
+- Location check: 34.07804, -118.4741; [published representative point](https://mapcarta.com/27416716), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Getty documents art from the Middle Ages onward, Richard Meier architecture, city views and four gardens (https://www.getty.edu/visit/center/top-things-to-do/architecture/; https://www.getty.edu/visit/center/top-things-to-do/gardens/). [Primary reference](https://www.getty.edu/visit/center/); web sources inspected 2026-11-26. Sources support scope and facts, not numeric judgments.
+- Missing or uncertain facts: full independent corroboration, current access and availability of individual areas or artworks.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [FR/louvre](../../../countries/FR/sights/louvre.yaml) | Louvre has much broader and more historically consequential collections. |
+| [US/national-gallery-of-art-washington](../../../countries/US/sights/national-gallery-of-art-washington.yaml) | Washington offers broader collection scope; Getty adds distinctive hillside architecture. |
+| [AU/mona-hobart](../../../countries/AU/sights/mona-hobart.yaml) | MONA has a more experimental underground setting; Getty offers outdoor architecture and gardens. |
+| [ES/thyssen-bornemisza-museum](../../../countries/ES/sights/thyssen-bornemisza-museum.yaml) | Thyssen focuses on art-historical sequence; Getty adds extensive designed outdoor space. |
+
+Peer assessments compared editorially; complete source YAML recheck pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.1 | Art, garden design and hilltop vistas create strong combined impact |
+| Uniqueness | 9.1 | integrated modern architectural and landscaped setting is distinctive |
+| Significance | 9.0 | important European art holdings and cultural institution |
+| Experience | 9.2 | varied gallery and outdoor experiences reward visitors |
+| Depth | 9.1 | multiple galleries and gardens support an extended visit. |
+
+- Applicable categories: culture:9.3, architecture:9.3, photography:9.1, history:8.9.
+- Computed worldwide overall: 90.95/100.
+- High-score challenge: Above 90 reflects the documented collection and site-specific strengths above, below broader world-leading institutions. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: full independent corroboration and current access.
+
+## sight-us-griffith-observatory — Griffith Observatory — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/griffith-observatory.yaml)
+- Action: new
+- Precise subject: Observatory building, astronomy exhibitions, public telescope viewing when conditions allow and terraces; excludes broader Griffith Park and Hollywood Sign trails.
+- Location check: 34.11821, -118.30037; [published representative point](https://mapcarta.com/26238718), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: City observatory describes public telescopes, planetarium, exhibits and skyline views (https://griffithobservatory.lacity.gov/explore/exhibits/). Telescope observing is weather and operating-hours dependent; planetarium requires separate admission. [Primary reference](https://griffithobservatory.lacity.gov/visit/); web sources inspected 2026-11-26. Sources support scope and facts, not numeric judgments.
+- Missing or uncertain facts: full independent corroboration, current access and availability of individual areas or artworks.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [US/kennedy-space-center-visitor-complex](../../../countries/US/sights/kennedy-space-center-visitor-complex.yaml) | Greater spaceflight historical significance and exhibit scale. |
+| [US/national-air-and-space-museum-dc](../../../countries/US/sights/national-air-and-space-museum-dc.yaml) | Broader aerospace collection; Griffith offers public observing and skyline. |
+| [US/space-needle](../../../countries/US/sights/space-needle.yaml) | Griffith adds astronomy education to panoramic visit. |
+| [CA/cn-tower](../../../countries/CA/sights/cn-tower.yaml) | CN Tower has more elevated urban viewpoint but narrower scientific interpretation. |
+
+Peer assessments compared editorially; complete source YAML recheck pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Hilltop panorama and historic observatory create memorable impact |
+| Uniqueness | 8.9 | combination of astronomy outreach and metropolitan views distinguishes the attraction |
+| Significance | 8.7 | important public science institution without assuming research discoveries |
+| Experience | 9.1 | exhibits, eligible observing and views offer rewarding variety |
+| Depth | 8.8 | multiple galleries and terraces support depth. |
+
+- Applicable categories: architecture:8.9, photography:9.1, family:9.1, culture:8.8.
+- Computed worldwide overall: 88.80/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: full independent corroboration and current access.
+
+## sight-us-millennium-park-chicago — Millennium Park (Chicago) — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/millennium-park-chicago.yaml)
+- Action: new
+- Precise subject: Public park, Cloud Gate, garden and pavilion exterior; excludes Art Institute and wider Grant Park; performance tickets not assumed.
+- Location check: 41.88262, -87.62252; [published representative point](https://mapcarta.com/26259116), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: City listing identifies park and current improvement-related walkway/restroom closures in search excerpt; direct page returned 403. Separate city public-art listing confirms Cloud Gate (https://chicago.gov/city/en/depts/dca/supp_info/chicago_s_publicartcloudgateinmillenniumpark.html). [Primary reference](https://chicago.gov/city/en/depts/dca/supp_info/millennium_park.html); web sources inspected 2026-11-26. Sources support scope and facts, not numeric judgments.
+- Missing or uncertain facts: full independent corroboration, current access and availability of individual areas or artworks.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [US/central-park](../../../countries/US/sights/central-park.yaml) | Much larger and more varied historic park. |
+| [CA/stanley-park](../../../countries/CA/sights/stanley-park.yaml) | Stanley Park emphasizes natural recreation and greater area. |
+| [SG/gardens-by-the-bay](../../../countries/SG/sights/gardens-by-the-bay.yaml) | More extensive botanical and architectural spectacle. |
+| [US/times-square](../../../countries/US/sights/times-square.yaml) | Times Square emphasizes commercial spectacle, Millennium Park public art and greenery. |
+
+Peer assessments compared editorially; complete source YAML recheck pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Public sculpture and urban setting produce strong visual appeal |
+| Uniqueness | 8.6 | integrated architecture and public art distinguish this city park |
+| Significance | 8.1 | modern public-design significance rather than deep historical importance |
+| Experience | 8.8 | accessible public art and outdoor spaces make rewarding visits |
+| Depth | 8.5 | multiple features support exploration but smaller footprint than major urban parks. |
+
+- Applicable categories: architecture:9.0, photography:9.1, relaxation:8.8, culture:8.8.
+- Computed worldwide overall: 85.50/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: full independent corroboration and current access.
+
+## sight-us-pike-place-market — Pike Place Market — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/pike-place-market.yaml)
+- Action: new
+- Precise subject: Historic public market's accessible stalls, corridors and public spaces; excludes broader waterfront and separately ticketed attractions.
+- Location check: 47.60949, -122.34167; [published representative point](https://mapcarta.com/23959270), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Market operator identifies 1907 founding and current independent farmers, craftspeople and small businesses; heritage display documents craft tradition (https://www.pikeplacemarket.org/about-pike-place-market/heritage-display-project/homegrown-handmade/). Individual vendor schedules vary. [Primary reference](https://www.pikeplacemarket.org/about-pike-place-market/plan-your-visit/); web sources inspected 2026-11-26. Sources support scope and facts, not numeric judgments.
+- Missing or uncertain facts: full independent corroboration, current access and availability of individual areas or artworks.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [CA/granville-island](../../../countries/CA/sights/granville-island.yaml) | Granville includes wider arts district; Pike Place has strong historic market identity. |
+| [TH/chatuchak-weekend-market](../../../countries/TH/sights/chatuchak-weekend-market.yaml) | Chatuchak has greater retail scale and variety. |
+| [ID/beringharjo-market](../../../countries/ID/sights/beringharjo-market.yaml) | Beringharjo has distinct traditional Javanese market character. |
+| [US/central-park](../../../countries/US/sights/central-park.yaml) | Central Park offers broader outdoor exploration rather than market culture. |
+
+Peer assessments compared editorially; complete source YAML recheck pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.6 | Lively historic market environment and waterfront setting create strong atmosphere |
+| Uniqueness | 8.7 | enduring local producer and crafts identity is distinctive |
+| Significance | 8.6 | historical market continuity has regional and national significance |
+| Experience | 8.9 | food and craft exploration support rewarding visits |
+| Depth | 8.8 | multiple stalls and levels provide depth. |
+
+- Applicable categories: food:9.2, culture:9.0, photography:8.8, history:8.8.
+- Computed worldwide overall: 86.90/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: full independent corroboration and current access.

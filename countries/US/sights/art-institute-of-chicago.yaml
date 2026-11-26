@@ -1,0 +1,16 @@
+id: sight-us-art-institute-of-chicago
+name: "Art Institute of Chicago"
+location:
+  country_code: US
+  latitude: 41.87944
+  longitude: -87.62389
+scores:
+  impact: 9.3
+  uniqueness: 9.3
+  significance: 9.4
+  experience: 9.3
+  depth: 9.4
+  categories:
+    culture: 9.4
+    history: 9.3
+    architecture: 8.7

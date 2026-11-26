@@ -318,3 +318,15 @@ Six additions, 24 peer comparisons. Primary visitor references and published coo
 - [x] US — Museum of Modern Art (MoMA, New York): 93.55/100 (source-linked-unverified).
 
 Six additions, 24 peer comparisons. Peer dimensions drawn from country ranking tables or same-batch assessments; complete source YAML cross-check pending. Divisadero scoped to accessible canyon rim, cenotes to named openings and permitted areas; no full cave-system significance inherited. Hierve el Agua is travertine, not a flowing waterfall; lexical type remains a limitation. MoMA excludes PS1. No existing ratings changed. Full Python validation and diagnostics pending. Next: US urban and cultural omissions, including Times Square, Art Institute of Chicago, Getty Center and other independently visitable landmarks.
+
+
+### Pass 32 — US urban and cultural landmarks
+
+- [x] US — Times Square: 86.30/100 (source-linked-unverified).
+- [x] US — Art Institute of Chicago: 93.30/100 (source-linked-unverified).
+- [x] US — Getty Center: 90.95/100 (source-linked-unverified).
+- [x] US — Griffith Observatory: 88.80/100 (source-linked-unverified).
+- [x] US — Millennium Park (Chicago): 85.50/100 (source-linked-unverified).
+- [x] US — Pike Place Market: 86.90/100 (source-linked-unverified).
+
+Six additions, 24 peer comparisons. US now 118 ranked/118 total. Published points and visitor source excerpts inspected; direct Art Institute and Chicago park pages returned 403, alternatives and search excerpts used. Separate Art Institute and Millennium Park scopes, Getty Center excludes Getty Villa, Griffith excludes wider park, Times Square excludes ticketed shows. Generic Art Institute and Getty Center types match existing lexical generator; classification improvements remain pending. Existing ratings unchanged. Full peer YAML check, Python validation and diagnostics pending. Next: US National WWII Museum, Getty Villa, Field Museum, Chihuly Garden and Glass, High Line, and Las Vegas Strip; review distinct scopes before addition.
